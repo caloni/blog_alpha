@@ -1,23 +1,20 @@
 ---
 categories:
 - writting
-date: '2012-11-07'
-link: https://www.imdb.com/title/tt0431021
+date: '2019-02-28'
+link: https://www.imdb.com/title/tt0095895
 tags:
 - movies
-title: Possessão
+title: Powaqqatsi - A Vida em Transformação
 ---
 
-Houve um tempo em que os filmes de terror da década de 90/2000 quase sempre eram sinônimo de sustos fáceis e trilha sonora capenga e repetitiva. Exceto pelo fenômeno Bruxa de Blair e a "importação" dos terrores asiáticos, nada se fez de muito diferente na América que não lembrasse o clássico supremo de terror: [O Exorcista]. De fato, uma corrente não tão recente também despeja suas diversas adaptações de histórias, [O Exorcismo de Emily Rose], O Último Exorcismo, muitas vezes inspiradas em "fatos", mas que nunca conseguiram entender a capacidade do terror psicológico do trabalho de William Friedkin.
+Powaqqatsi é o filme do meio da trilogia Qatsi, uma série documental não-narrativa produzido e dirigido por Godfrey Reggio com a trilha sonora encantadoramente repetitiva de Philip Glass. O filme tem sido promovido pelos diretores Francis Ford Coppola e George Lucas, como sua capinha do DVD nos diz. O filme segue o estilo do documentário clássico Um Homem com uma Câmera, mas moderno, só que no bom sentido.
 
-Já este Possessão digerido por Ole Bornedal e escrito pelos roteiristas de Presságio, e, não menos importante, produzido por Sam Raimi (Arraste-me Para o Inferno, Uma Noite Alucinante), contém tudo em doses homeopáticas. Iniciando sua história através de um episódio tragicômico envolvendo uma caixa que emite sussurros em uma lingua estrangeira e sua antiga dona, a trilha sonora exagerada faz os fatos parecerem incidentalmente divertidos, embora não o sejam: o tom pálido de cores da fotografia denuncia a triste história que presenciaremos, mais uma vez "baseada em fatos reais".
+Digo no bom sentido porque a beleza das cenas aéreas e em câmera lenta realizam um balé sobre a humanidade e o fluxo de sua vida nos quatro cantos do mundo. Não chega a ser um filme experimental daqueles que não faz sentido, pois ele possui uma linha narrativa, embora não declarada. Começando com jovens subindo um morro cheios de argila para coletar minério, vamos passando por agricultura, as grandes cidades, religião, tecnologia, etc. Todos os grandes marcos de nossa espécie são aos poucos retratadas em um baile coreografado pela montagem e por técnicas de filmagem.
 
-A nova dona da caixa é Em (Natasha Calls), que é filha de pais divorciados, o desligado e ausente Clyde (Jeffrey Dean Morgan) e a super-protetora Stephanie (Kyra Sedgwick). Ela também possui uma irmã, Hannah (Natasha Calis), que não parece desempenhar nenhum papel mais importante do que servir de contraponto para os sustos que (obviamente) não presenciamos com Em.
+O que une tudo isso é a trilha sonora de Philip Glass, que vai se repetindo ao longo da trajetória de 100 minutos, mas nunca de maneira monótona. Há muito o que ser visto de diferentes culturas, idades, classes sociais. É claro que o cineasta Godfrey Reggio e sua equipe privilegiam a pobreza, essa admirável característica humana que nos acompanha por praticamente toda a história humana, deixando de ser uma realidade apenas no último século, mas que ainda gera na ficção e em casos anedóticos os melhores dramas e os melhores sorrisos. Pessoas que quase não têm nada não se preocupam em perder alguma coisa. Estão sempre curiosas, tranquilas, em sua rotina, seja ela qual for.
 
-Cozinhando em forno brando, a criação de suspense sem o uso dos artifícios já batidos como aumento do volume do som ou o corte repentino merece algum crédito. No entanto, não é difícil perceber que tudo se trata de mais uma tentativa de evocar O Exorcismo em tons mais familiares. A família MacNeil não andava bem, e essa família está suportando um divórcio. Há inúmeras passagens que incluem uma rua noturna deserta e molhada (clichê em qualquer filme, mas em terror mais clichê ainda).
+Os movimentos dos humanos individualmente ou em grupos coesos vai aos poucos sendo substituído pela massa dos grandes conglomerados no globo, como as grandes cidades do primeiro e terceiro mundos. E é curioso como o movimento das massas se confunde com a própria natureza, como o mar ou a grama sendo tocada pelo vento. Há uma transição belíssima entre grama, mar e multidão. Os pedintes nas ruas são homenageados com a figura dos transeuntes como fantasmas transparentes, passando rapidamente por eles.
 
-De qualquer forma, criando uma ou duas cenas marcantes, a conclusão possui ótimas sequências que se tornam mais aterrorizantes pelo artifício da urgência. Dessa forma, vemos seus personagens correndo de um canto a outro tentando de todas as maneiras evitar o mal que os assola. Uma linda metáfora de uma família que luta junto para superar um episódio que gostariam de evitar (o divórcio).
-
-[O Exorcismo de Emily Rose]: {{< relref "o-exorcismo-de-emily-rose" >}}
-[O Exorcista]: {{< relref "o-exorcista" >}}
+Há beleza humana misturada com natureza, seja em suas construções, palácios, atividades ou simplesmente o sorriso das crianças curiosas. É um registro sem diálogos indispensável sobre nossa era, e deve ser guardado para as gerações futuras. Talvez estejamos no limiar dessas transformações, e sabe-se lá quanto tempo vai durar nossas diferenças étnicas e culturais. Mas enquanto durar, curtamos a magia da diversidade de nós, seres humanos, vivendo cada um à sua maneira, sob sua ótica de sua própria realidade, nesse planeta que compartilhamos.
 

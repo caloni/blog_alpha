@@ -1,33 +1,30 @@
 ---
-categories: []
-date: '2009-03-19'
-tags: null
-title: Provas de conceito... yes!
+categories:
+- writting
+date: '2018-05-04'
+link: https://www.imdb.com/title/tt6890582
+tags:
+- movies
+title: Psychokinesis
 ---
 
-Uma prova de conceito bem feita segue todos os passos em uma forma micro para entender e provar como as coisas irão funcionar no código de produção: a forma macro.
+O cinema coreano é inventivo e espalhafatoso. Ou serão os próprios coreanos? Em Psychokinesis, o diretor do premiado Invasão Zumbi nos apresenta o que dificilmente Hollywood entende: que filmes de ação ficam melhores quando há um drama no meio. E nesse caso o drama é o elemento principal, tornando o herói do filme um super-herói no sentido literal da palavra. E apesar dos efeitos visuais serem desajeitados em algumas cenas, a alma do filme já é tão bem formada que dificilmente a magia se quebra; ela apenas se torna mais realista.
 
-A consequência interessante disso é que, uma vez que a prova de conceito deva ser um miniprojeto das principais partes de um software, desenvolvê-la significa programar todas as partes que realmente importam, ou seja, centrais para o funcionamento.
+E a alma é interpretada pelo ator Seung-ryong Ryu com uma entrega visceral. Ele faz o perdedor clássico de moral duvidosa e que tem que melhorar para ajudar sua impetuosa mas vulnerável filha, interpretada por Eun-kyung Shim (que também participou de Invasão Zumbi), dona de um restaurante de sucesso que tem seus dias contados quando uma mega-empreiteira corrupta passa por cima das vidas dos pequenos comerciantes de um centro de compras tradicional para construir mais uma obra faraônica e dissociada dos moradores locais.
 
-Portanto, conclui-se que desenvolver provas de conceito é a coisa mais divertida do Universo.
+O que torna Psychokinesis tão poderoso desde o início são seus momentos viscerais, em que a violência se torna tão irracional que causa a morte de inocentes e ameaça pessoas pelo simples prazer de esmagar a livre iniciativa dos indivíduos. Não é de hoje que o cinema coreano vem se tornando um hino contra o capitalismo de Estado, um eco, aliás, de todo o mundo pós-crise de 2008. Curiosamente, enquanto o filme explora a relação conturbada de pai e filha se reencontrando depois de tantos anos ele se torna extremamente eficiente, mas quando decide inserir sua embasada crítica social o caminhãozinho da ação desenfreada parece ficar com areia demais para conseguir se mover. Não é um filme para reflexões pesadas.
 
-Além de serem extremamente divertidas e disputadas entre os programadores, desenvolver provas de conceito gera uma gama de vantagens para o desenvolvimento "sério" do software como um todo, "rodável" e "vendável":
+Felizmente os atores neste filme são surpreendentemente competentes, e demonstram como a atuação na Coreia se torna cada vez mais universal, ainda que tenha o toque espalhafatoso já citado. Os coreanos são malucos, como já apontei em outros textos, e aqui eles parecem um misto entre o Oriente e Ocidente, herdando os problemas de ambos e se salvando através da já conhecida solidariedade dos povos asiáticos.
 
-  * Permite testar as ideias por trás do software antes de gastar todo o tempo desenvolvendo-o.
-  * Gera conhecimento para os programadores e para que outros produtos sejam desenvolvidos.
-  * Torna o desenvolvimento algo ainda mais divertido, pois tira a parte chata a respeito de comentar código, testar código, mensurar código, rever código, etc.
-  * Consegue tornar o milagre do cronograma realista mais perto do provável.
+O uso do poder que o herói do filme adquire, de levitar as coisas muito além de sua força muscular (como diz um letreiro que sai voando com o vento logo antes da primeira demonstração impressionante desse poder, "seu corpo é mais forte do que você imagina") o diretor Sang-ho Yeon consegue rapidamente explorar a dinâmica do personagem de Seung-ryong Ryu aprendendo a manipular e aprimorar seu poder adquirido da água contaminada de um meteoro. Explicações à parte, ele ignora as origens de seu poder, como qualquer um de nós. Este não é um filme de ficção científica, apenas um pretexto para que exista uma chance de um pai reatar com sua filha após um passado traumático que graças a dívidas fez com que ele tivesse que se afastar (note como o roteiro convenientemente torna Sang-ho um mau-caráter que rouba café e até papel higiênico de onde trabalha, mas também acaba se revelando uma vítima do sistema através de dívidas que não conseguiu pagar no passado).
 
-Apenas essas vantagens já praticamente obrigam o profissional do software a pensar em produtos novos em termos de como pode-se testar tudo o que se está dizendo antes de realmente começar a trabalhar pra valer.
+Seung-ryong é só coração e potência movida por este. Note como ele cambaleia olhando para baixo, estupefato com sua própria incompetência e depois pela sua própria maestria. Ele do começo ao fim do filme não entende seu próprio poder, mas faz de tudo para usá-lo em prol de sua filha, o que se torna a parte mais tocante da história. A filha, por outro lado, representa o que o pai não foi: alguém que não desiste frente às adversidades. Isso para ela é tão importante para que ela se afaste da imagem que criou do pai quando foi abandonada com sua mãe ainda criança que ela é capaz de sacrificar a própria integridade física e ir até o fim de seus princípios.
 
-Mas antes que se pense que fazer provas de conceito não requer nenhuma responsabilidade e que o que você quer ser quando crescer é desenvolvedor de prova de conceito, é necessário colocar alguns pingos nos is antes de continuar. Para criar provas de conceito realmente agregadoras para o projeto, deve-se sempre:
+Já os vilões, bom, eles são uma caricatura que funciona tão bem quanto a máfia do machado de Kung-Fusão. São a força estatal corrupta que nasce e cresce na forma de mega-corporações, mas também é o chefão vilanesco apenas pelo prazer sádico de o ser, e como é deliciosamente clichê constatar que a diretora da empresa é uma versão "melhorada" dele. E mais curioso ainda é reparar como ele, mesmo sendo vítima das artimanhas e trapaças dela, ainda admira sua linha de raciocínio. O momento mais icônico de quando ele recebe sua punição é uma garçonete o servindo o prato no chão, logo acima de uma pequena poça de sangue que escorre do seu rosto. O bife aparentemente está mal passado, também.
 
-  * Dividir o software em seus componentes tecnológicos mais críticos e vitais para o sucesso da solução.
-  * Proteger as provas de conceito contra qualquer tipo de preconceito a respeito da tecnologia em questão: pese somente os fatos!
-  * Conhecer as limitações do software antes mesmo de provar seu funcionamento (por exemplo, não vai funcionar no Windows NT nem a pau).
-  * Garantir que esse conhecimento seja sempre compartilhado entre todos do desenvolvimento, pois trata-se de um projeto vazio que formará talvez as bases de um novo produto; se todos conhecerem as bases primeiro, ficará muito mais fácil todos tomarem conta.
+Os efeitos visuais do filme são a atração para quem espera um pouco de ação, mas eles são usados de maneira inteligente, e só escalam conforme o herói sente a ameaça crescer. O diretor Sang-ho Yeon tem uma visão espacial muito clara e bem definida, e sabe nos deixar desorientados quando precisa através de cortes rápidos e câmeras que se movem sem um sentido claro. É uma bela ideia a dele também usar câmeras que giram em torno dos personagens para conseguir um efeito semelhante ao plano sequência em que a ação nunca termina (sendo que aqui ela termina nos momentos fáceis de cortar).
 
-Por último, deve-se pensar sempre em todos os programadores da equipe desenvolvendo provas de conceito. Um doce tão gostoso não pode ser privilégio apenas dos veteranos ou dos acadêmicos chatos, pois torna a vida dos "corregedores" de bugs chata e enfadonha. E error prone.
+Fica aos poucos mais claro que que a concentração exigida pelo poder do herói pode se tornar sobre-humana dependendo do peso dos objetos que ele precisa levitar, mas assim como mães conseguem receber picos de adrenalina para erguer carros e salvar seus filhos, aqui o pai faz o mesmo sempre que ele sente que sua filha está em perigo. Isso quer dizer que cada vez que ele a usa não é apenas um show de ação, mas junto está atrelada uma declaração de amor por ela. Dessa forma, o clímax do filme, quando ele a carrega nos ombros e vai levitando lentamente, possui ecos de todos os heróis que um dia já voaram pela tela dos cinemas, mas que nunca tiveram a oportunidade de ter uma família. Esta é a redenção por tantos super-heróis hollywoodianos com passados sombrios, direto da Coreia. Aqui ninguém precisa conviver com o peso de suas ações para sempre, apesar de terem que pagar o preço.
 
-Por isso, desde a estagiária até o mocinho bicentenário merecem mexer em código fresco pelo menos uma vez a cada ciclo de desenvolvimento, que terminará com uma versão nova cheia de melhorias que foram testadas em suas respectivas provas de conceito. Provas de conceito que todos tiveram a honra de brincar um pouquinho.
+Eu já falei que os coreanos são malucos. O que eu talvez ainda não tenha falado é que eles possuem alguns insights visionários que vale sempre dar uma olhada.
 

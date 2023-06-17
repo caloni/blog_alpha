@@ -1,32 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-10-21'
-link: https://www.imdb.com/title/tt2861424
+date: '2016-09-15'
+link: https://www.imdb.com/title/tt0178868
 tags:
-- series
-title: 'A Filosofia de Rick And Morty: Primeira Temporada (anotações)'
+- movies
+title: 'Ring: O Chamado'
 ---
 
-Reassistindo a Primeira Temporada de Rick & Morty para revisar alguns pontos filosóficos fascinantes da série. Acabei vendo a Segunda Temporada e, como já acabou, a Terceira também. E a terceira é provavelmente a melhor de todas. Vejam! Eu sou Pickle Rick!!
+Essa é a versão japonesa, que estreou dois anos antes do remake americano. Diferente de toda a pomposidade de sua cópia, e os efeitos sonoros enlatados de terrores hollywoodianos, este tem a rapidez de um thriller e a semi-profundidade de um drama. Possui um ritmo visual econômico e ágil, e uma conclusão factoide, o que o torna um exemplo de sua própria lenda.
 
- - S01E01 Rick comenta no piloto que eles não sabem o que é mais importante. Precisa de uma semente para ficar mais inteligente para fazer mais ciência. Isso meio que planta a semente da dúvida se Rick é absurdista, niilista ou simplesmente um cientista fanático.
+A história é simples: um vídeo misterioso de alguns segundos, se assistido, fará a pessoa morrer em sete dias (após receber um telefonema após ter assistido). Uma médium (Nanako Matsushima) começa a investigar quatro mortes em um só dia, e seu ex-marido (Yutaka Matsushige), também médium, passa a ajudá-la. Ambos têm um filho, quase abandonado, e logo isso constitui um drama eficiente em torno de uma história de terror.
 
- - S01E02 Episódio sobre cachorro inteligente levanta a questão de não ser errado desligar uma consciência que foi adquirida por outro ser (que poderia ser uma máquina). Também brinca com o conceito de A Origem e Fred Krueger (uma versão segura de um filme dos anos 80). E seus medos são os de um adolescente.
+Além disso, há um mistério que é desvendado aos poucos a respeito da produção da fita. Uma história sobre erupção de vulcões, uma profetiza e sua filha ainda mais poderosa constituem uma história paralela que rima com a principal por falar da mesma coisa: é a história de famílias desajustadas. Marido e mulher se perguntam se deveriam ter tido mesmo um filho do jeito que são, e agora os três fazem parte da maldição que é ter uma família disfuncional.
 
- - S01E03 Episódio de natal é um Papai-Noel mendigo que bebeu demais. Dentro dele há um parque de anatomia, fala sob os desejos do Morty de catar a minazinha e um subplot que brinca com besteiras como auto-sacrifício. A melhor parte é sobre o espírito de natal quando Jerry descobre que o negro amigo de seus pais é amante de sua mãe, ou que sua filha tem um namorado. A explosão do papai-noel gigante em pedaços e a chuva de sangue é uma metáfora para o corpo/sangue de Cristo sendo compartilhado entre os cristãos, e como ninguém liga para os que precisam de ajuda.
+O jogo de quadros do filme às vezes é arrebatador, como quando um acontecimento inesperado está sendo ouvido do outro lado de um telefone, e a câmera consegue triangular o passado, presente e futuro desse acontecimento apenas repassando cada um dos envolvidos, sem a necessidade de diálogo expositivo.
 
- - S01E04 Episódio sobre simulações consegue ao mesmo tempo levantar a questão se eventos significativos de nossa vida continuariam assim se soubéssemos que estamos em uma simulação (Jerry novamente), e ainda tem a questão de como uma raça avançada ainda tem vergonha da nudez (alegoria dos estúpidos americanos?).
+É digno de nota também que a maioria dos sustos vêm de uma TV e seu reflexo, sem nenhum daqueles sons capengas que costumam trapacear a surpresa. O jogo de sombras do filme, e os ambientes naturalmente apertados das residências do Japão são o suficiente para tornar Ring um trabalho claustrofóbico por natureza.
 
- - S01E05 Morty tem sua aventura como principal e vai na terra de gigantes. Lá descobre que uma aventura não tem muito sentido por ela mesma, e é traumatizado ao tentar ser estuprado (Thelma e Louise?). Já na terra os meeseeks precisam atender os desejos de um ser medíocre como Jerry, o que os leva à loucura completa. Como meeseks têm sua existência curta definida em atender um desejo e sumir, vem a mesma questão das vacas em Mochileiro das Galáxias. Rick aprende que é a postura diante dos eventos do mundo o que o torna melhor. Ele acena no final do desenho para nós, piscando sua existência.
-
- - S01E06 Múltiplos universos, Rick and Morty vão para um onde tudo foi consertado e eles morreram ao mesmo tempo. O nosso desejo por reprodução aparentemente está abaixo do super-homem que Rick decidiu ser quando aceitou o absurdo da realidade que vive. Referência a Cronenberg.
-
- - S01E07 Feminismo com piadas sobre mulheres no episódio em que eles vão para um planeta dominado por mulheres. Os homens são os seres mais violentos do universo e por isso elas criam um robô sexual para reprodução. Engraçado que Morty fica fascinado pela mulher-robô.
-
- - S01E08 O episódio sobre as diferentes alternativas a realidade coloca em xeque o significado de nossas vidas (como há na série infinitos universos e Rick & Morty originais morreram nessa versão, torna tudo mais real). Há uma baboseira sobre escolhas que fazemos (aborto) que podem ter alterado nossa percepção no futuro se era o que gostaríamos de fazer. O fato é que não vivenciar nossas infinitas possibilidades nos protege do arrependimento quando mais velhos. E como nada faz sentido em múltiplas realidades, por que não se divertir assistindo múltiplos universos?
-
- - S01E09 Episódio sobre Pluto (Plutocracia), onde os ricos drenam minério do planeta (que não é mais planeta) e ameaçam a vida de 4 bilhões de pessoas. Enquanto isso, Rick ameaça o negócio do Diabo em pessoa com ciência, desfazendo as maldições que ele coloca em cada peça de sua loja. Rick demonstra que se entedia facilmente.
-
- - S01E11 Últimos episódio da temporada é uma festa sem consequências. Isso porque quando vc pode parar o tempo nada importa.
+Com uma trilha sonora pesada, mas harmoniosa, esse é um filme que passa voando, mas não possui quase nenhum elemento ao acaso. Sua narrativa é coesa, sua história é tensa, sua trama consegue ser complexa sem dificultar o entendimento do espectador. Um trabalho de terror à altura dos maiores: o que não apela para a fuga fácil do susto barato.
 

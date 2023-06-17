@@ -1,14 +1,15 @@
 ---
-
-Por que estão treinando crianças para guerrear contra um povo alienígena? Se já se passaram 50 anos, onde estão os jovens dessa geração? A função de Ender é explicada em mais da metade do filme, mas qual a função de todos os outros da equipe, e por que foram escolhidos? Todas essas perguntas podem permanecer sem resposta, pois "Ender's Game" é praticamente um folclore que tenta ensinar -- ou ao menos fazer pensar -- a respeito de nossa posição no mundo entre as diferentes espécies que ajudamos a ameaçar de extinção, o que gera uma última e fatal pergunta: onde está a ética que define a sobrevivência de qual espécie é a mais importante?
-
-O que comprova ser um folclore, e ainda infantil, é o uso de uma raça alienígena que se assemelham a formigas (quem nunca matou uma formiga na vida?) e o uso de jogos inofensivos para treinamento de combate. O fato do exército ser composto de crianças é um bônus por criar uma interessante discussão entre qual a diferença de enviar crianças para a guerra e jovens de 20 anos (cinco anos, sete no máximo)? Pois é exatamente isso que nossos países fazem, ou farão, se necessário. Jovens comandados pelos mais velhos cuja maior ambição não é diminuir o número de baixas, mas aumentar o número do outro lado do fronte.
-
+categories: []
+date: '2012-04-17'
+tags: null
+title: Engenharia Reversa em Itajubá
 ---
-categories:
-- writting
-date: '2010-09-03'
-link: https://www.imdb.com/title/tt1024899
-tags:
-- movies
-title: Enfim Viúva
+
+Essa segunda (ontem, 16 de abril de 2012) foi dia da minha palestra na Unifei, parte do II Composium Unifei, que reúne diversos profissionais e suas especialidades para que estudantes vejam o quão útil pode ser o curso de engenharia.
+
+Tive o prazer de conversar com diversos alunos após a palestra, e me animou muito saber que existem pessoas no mundo acadêmico considerando a possibilidade de escovar bits como um meio de vida. Espero que muitos pesquisem e testem seus conhecimentos em torno da arte da Engenharia Reversa e, em casos extremos, entrem em contato comigo, pois estarei feliz em responder dúvidas pontuais ou direcionar melhor o aprendizado.
+
+O que eu aprendi durante o evento foi que a Unifei já é um polo de engenharia dedicada à formação completa dos seus alunos e uma base de pesquisas realmente interessantes. No entanto, eles querem mais, e me parece que o futuro reserva muitos desafios e conquistas naquela região no que diz respeito à P&D de novas tecnologias em um grau de maturidade que o país, infelizmente, ainda não foi capaz de atingir.
+
+Tudo isso, contudo, depende do grupo dos focados professores e organizadores do evento, cuja companhia tive o privilégio de compartilhar. É preciso tirar o chapéu para o que estão fazendo em Itajubá. E preciso agradecer a Rodrigo Almeida pelo convite para a palestra; foi de fato uma experiência única conhecer o campus e a maravilhosa cidade mineira.
+

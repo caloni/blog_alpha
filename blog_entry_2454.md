@@ -1,21 +1,24 @@
 ---
 categories:
 - writting
-date: '2022-10-26T19:50:17-03:00'
+date: '2017-08-14'
+link: https://www.imdb.com/title/tt6048930
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Nação Valente
+title: Naked
 ---
 
-Grupos nacionalistas não costumam ser bem vistos, mas e quando além de nacionalistas eles também são zumbis? Nação Valente, vencedor de melhor filme europeu no Festival de Locarno, é um épico que trata de questões históricas da década de 70 sobre Portugal. Essas questões estão presas, entaladas na garganta do povo português, mas também na história de uma terra estrangeira tomada pelo colonialismo.
+É possível imaginar que este seria um dos primeiros filmes da Netflix cujo roteiro está mais próximo de ter sido feito por Machine Learning do que por roteiristas humanos. Ele é esquemático, usa fórmulas antigas, consagradas ou comentadas por décadas. Apela para movimentos de câmera fáceis, sem construção de cena. A ação está toda pronta já em trabalhos como GTA. E GTA é "apenas" um video-game.
 
-O filme de Carlos Conceição acompanha um batalhão de soldados isolados em Angola. Eles estão há décadas por lá e não têm a menor ideia de quanto tempo passou. A retomada da região pelas tribos locais envolveu mantê-los presos em terra estrangeira sem nem eles mesmos saberem. A guerra já acabou faz tempo, mas na mente desses soldados a loucura permanece.
+A história chega a ser um plágio de Feitiço do Tempo, pois possui os mesmos elementos. O protagonista precisa melhorar como ser humano para conquistar seu dia. Do contrário ele continuará voltando para o mesmo momento inicial do dia do seu casamento: o elevador de um outro hotel. Completamente pelado. Ah, sim, e essa é a piada: ha ha ha.
 
-Uma das sacadas do filme é manter esse mesmo suspense para o espectador. Não sabemos quanto tempo passou, apenas que foi muito. É comum haver história de soldados que ficaram sem comunicação por anos a fio sem saber sua próxima missão. Então eles simplesmente ficam no local aguardando ordens. E muitos deles começam a sentir uma saudade imensa da mãe, o que é um símbolo curioso se você pensar no evento traumático, violento e irracional, que acontece no começo da história.
+Até existe um elemento-chave no roteiro para ele retornar para o ponto de início: o soar do sino da igreja onde pretende se casar. E há uma cena onde ele tenta resolver a questão "atacando" o sino.
 
-Diferente de História contada em sala de aula as circunstâncias aqui são mais fantasiosas e de certa forma mais atraentes, porque apela para nossa visão subjetiva, emocional, de qual foi o real impacto para os habitantes. O exemplo mais impactante é que os nativos que eram mortos naquela época não podiam ser velados pelos obrigatórios três dias de cantos pelos vivos porque o homem branco os ouviriam e os matariam também. Só que isso faz mal para a alma do defunto, que não se aquieta, e pode levantar do túmulo. E nos sonhos mais terríveis isso de fato acontecia.
+Essas são as semelhanças temáticas com o clássico com Bill Murray, e param por aí. Todo o resto é clichê. Pai da noiva não gosta dele e tem um pretendente que é seu ex, que é musculoso e tem uma Lamborghini. Ambos são empresários ocupados e o protagonista é um professor substituto de literatura.
 
-A linha entre a morte e a vida é ultrapassada, ou muito tênue. E a saudade dos que ficaram é imensa, de ambos os lados. Só há dores em Nação Valente, e o filme explora o sentimento de dor de vários ângulos. Faz uma sessão dupla boa com Mosquito, outro filme que já passou em Mostras passadas. Se enxerga muita culpa do povo português nessa cinematografia sobre as dívidas do passado. E também se enxerga muita violência. Ao menos eles não têm medo de retratar a brutalidade dos acontecimentos, que choca, mas é por motivo justo.
+Enxerga como este não é um padrão difícil de ser seguido por uma máquina? Tudo que ela precisa fazer é analisar a gigantesca massa de dados dos espectadores de Home Vídeo, salas de cinema e tv por assinatura. E se este for um filme com boa recepção tenho más notícias para roteiristas medíocres como esses.
+
+Nada disso impede que o carisma do ator principal, Marlon Wayans, ajude a tornar o filme mais palatável. Ele já se saiu muito bem em 50 Tons de Preto, onde as piadas envolvendo o politicamente correto com certeza não conseguiriam (ainda) ser feitas por máquinas. (O próprio politicamente correto já é feito por zumbis, então essa parte eu não duvido.)
+
+Através de uma trilha sonora automática (assim como a direção), "Nu" não consegue ainda unir seus elementos narrativos em uma história coesa, preferindo apenas jogar as ideias que acharia engraçadas em um filme como esse. Mas se fosse criado por inteligência artificial eu até daria um certo crédito. Como o roteiro está ainda assinado por humanos, continua sendo apenas mais um filme ruim.
 

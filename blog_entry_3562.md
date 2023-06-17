@@ -1,24 +1,24 @@
 ---
 categories:
-- writting
-date: '2016-08-04'
-link: https://www.imdb.com/title/tt4574334
-tags:
-- series
-title: Stranger Things
+- coding
+date: '2009-07-07'
+tags: null
+title: Strings
 ---
 
-## A irrelevância da bilheteria Netflixiana
+Como já vimos centenas e centenas de vezes, memória é apenas memória até que alguém diga que isso vale alguma coisa. Em seu estado latente é o que chamamos formalmente de dados. E dados são bytes armazenados na memória.
 
-A Netflix conseguiu mais uma vez. Usando seu algoritmo de análise do que o público quer ver, aí está justamente o que a grande massa adoraria ver: referências doentias aos anos 80 sem qualquer vergonha de se render ao clichê, ou apelar para emoções baratas. As pistas de uma série misteriosa aparecem na primeira cena que são usadas. Além de tudo, o roteiro é preguiçoso.
+No entanto, quando esses dados viram algo de útil em um determinado contexto, não necessariamente alterando-se seu conteúdo na memória, passamos a lidar com informação. Ou seja, é um dado com significado. E informação é a interpretação desses mesmos dados.
 
-Note o primeiro episódio. Uma menina aparece do nada, e junto dela um ventilador. Por que esse ventilador apareceu de repente? Porque a menina tem poderes de o fazer parar, e por isso ele entra em evidência apenas na cena em que ela o para.
+A conclusão óbvia para isso, falando de strings, é: uma série de bytes enfileirados na memória pode ser uma string.
 
-Nem a participação de Winona Ryder, acostumada com papéis em dramas um pouco mais profundos, faz a experiência deixar de parecer um Super 8 (J. J. Abrams) estendido. Isso porque, mais uma vez, estou apenas me atentando ao primeiro episódio. Acho que não tenho coragem de continuar mais que isso.
+Para tanto precisamos apenas de dados (os bytes enfileirados) e significado (uma tabela de símbolos que traduza esses bytes para caracteres e a definição de como a string se organiza).
 
-Até porque são episódios longos, que exigem que acompanhemos toneladas de referências de uma época que as pessoas que vivem em 2016 possuem uma paixão tão patológica quanto com Star Wars. Inexplicavelmente. Alienígenas, sobrenatural, tons de azul. Bicicletas. Nada parece ser demais nessa série, que saiu diretamente do mecanismo de busca de preferências de uma massa que possui uma seleção ampla no cardápio da sétima arte para se voltar eternamente no feijão-com-arroz. De 30 anos atrás.
+Por exemplo, uma série de bytes diferentes de zero com valores que representam índices de uma tabela de tradução de caracteres e que termina sua sequência em um byte com o valor zero nele é considerada uma string C, ou string terminada em nulo.
 
-Curioso como o que fascina mais as pessoas por trás da série, aparentemente, são as infinitas referências de trabalhos, esses sim, muito mais ambiciosos em explorar um tema. O tema por trás da série é explorar o que os usuários do serviço de streaming gostariam de ver. Claro que não há nada de errado nisso. Se houvesse, não teríamos um House of Cards no meio disso tudo.
+Já uma mesma sequência de bytes no mesmo molde só que sem o byte final com o valor zero, mas com um byte inicial que tem como valor não um índice de caractere, mas o número de bytes subsequentes, isso é uma string Pascal, ou uma string com contador de tamanho.
 
-Mas para cada House of Cards ou Sense 8 é necessário produzir vários Stranger Things. É a lei da mediocridade fazendo efeito. Não se produz bom conteúdo artístico apenas seguindo um algoritmo. Mas, seguindo um algoritmo, há chances de se produzir algo que o valha. Tanta chance quanto produzir conteúdo autêntico. É a audiência, estúpido!
+Agora note por que tanto uma string vazia em Pascal e em C possuem os mesmos dados, mas informação diferente.
+
+Outras strings que não necessariamente possuem terminador nulo: std::string, UNICODESTRING.aspx), strings no kernel.
 

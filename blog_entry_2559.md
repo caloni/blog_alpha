@@ -1,18 +1,30 @@
 ---
 categories:
 - writting
-date: '2014-05-08'
-link: https://www.imdb.com/title/tt0357413
+date: '2010-08-13'
+link: https://www.imdb.com/title/tt0963966
 tags:
 - movies
-title: 'O Âncora: A Lenda de Ron Burgundy'
+title: O Aprendiz de Feiticeiro
 ---
 
-Não incomoda ver homens adultos, profissionais da mídia televisiva, se comportando como adolescentes estúpidos que só pensam em mulheres como objetos sexuais e, pior, rivais à sua suposta inteligência superior? Para um machista contemporâneo a parte da mulher como objeto sexual permanece, mas como bem demonstra O Âncora, o medo de ser mais burro e a vontade de transar podem ser dois lados de uma mesma moeda de um centavo.
+E aqui vamos nós para mais um filme bonitinho, emocionante e formatado nos últimos padrões que a Disney recomenda para que tenhamos mais uma possível franquia seguindo os modelos razoavelmente bem sucedidos dos Piratas do Caribe e Crônicas de Nárnia, e também a futura promessa do Príncipe da Pérsia.
 
-Dirigido de maneira curiosa por Adam McKay e escrito em conjunto com Will Ferrel, o filme nos transporta para os anos 80 sem parecer um filme que imita os anos 80: é definitivamente um filme dos anos 80. Todas as tiradas cômicas da época estão lá, a fotografia de Thomas E. Ackerman é verossímil, e os próprios diálogos e a forma de conduzir a ação nos leva indubitavelmente à conclusão que essa película foi produzida 30 anos atrás. Com uma exceção: praticamente toda a equipe de humoristas cinematográficos contemporâneos de gags com gosto duvidoso está no filme (com exceção da dupla Adam Sandler e Rob Schneider), e nenhum deles parece mais novo do que é hoje. Então, de duas uma: ou o filme é uma réplica impressionante daqueles tempos ou alguém inventou uma máquina do tempo e colocou toda a equipe dentro dela.
+Aqui se trata de um aprendiz de feiticeiro que procura pelo primeiro descendente de Merlin que irá ter poderes para derrotar a poderosa bruxa Morgana, atualmente presa em uma espécie de boneca russa, mas que assim que libertada, e não for impedida, poderá destruir o mundo como o conhecemos.
 
-Porém, o destaque no elenco, o que quase rouba a cena, é definitivamente Steve Carell, que faz rir às vezes sem falar nada, dotado de um frescor na atuação que faz parecer seu primeiro trabalho (rodado... adivinha? nos anos 80). Não é um filme de personagem, já que eles mal conseguem manter as mesmas características entre uma cena e outra. É mais uma comédia escrachada que se diverte montando situações absurdas, entre as quais minhas duas favoritas é um cachorro sendo chutado de uma ponte por Jack Black e Will Ferrel arremessando Christina Applegate por cima de uma mesa. O tipo de sequência que não existe mais hoje em dia.
+Soou piegas? Com certeza. Além disso, temos um romancezinho de infância do protagonista que é o aprendiz de feiticeiro do título. Fora isso, o filme diverte na dose certa, com um bom ritmo de ação temperado com efeitos mágicos que enriquecem a narrativa, aliás, como deveria ser.
 
-Mais uma prova pró-teoria viagem no tempo.
+Até o início da "aventura", enquanto Dave tenta desesperadamente alcançar o papel em que está escrito se a menina citada quer ser sua amiga ou namorada (eu disse que era piegas), uma sequência simples e eficiente, tudo parece fluir para mais uma aventura Disney.
+
+E se por um lado as expressões de Dave quando criança (Jake Cherry) são continuadas por Jay Baruchel (o Dave crescido), infelizmente suas atitudes seguem uma curva muito irregular durante toda a projeção, onde horas ele está muito inquieto par se encontrar com seu amor Becky (Teresa Palmer) e em outros quer desesperadamente ser um feiticeiro. Independente de como for, ele é o mais irregular dos personagens, acompanhado pelos eficientes Nicolas Cage no papel de Balthazar Blake, o aprendiz de Merlin que deseja encontrar o garoto, e Alfred Molina, esse mais interessante no seu papel de Maxim Horvath, o bruxo que deseja libertar Morgana.
+
+Mais interessante por algumas cenas como a que ele sai do vaso onde estava preso com Drake e pergunta ao dono da casa, em tom cansativo: "Sou o primeiro a sair?". Em outra cena, preso a um espelho no banheiro do colégio, pergunta a uma pessoa que está olhando no espelho se ela poderia acordar seu capataz, Drake Stone, em um tom igualmente cansativo.
+
+Uma brincadeira/referência interessante a Nikola Tesla, que anda cada vez mais sendo citado. Aqui, Dave possui suas próprias bobinas magnetizadas que emitem raios em alta frequência, e por isso geram música.
+
+É impressionante como a única cena de morte, a do motorista que é atingido por Horvath enquanto este procura o vaso de Morgana, é escondido pelo vidro quebrado, provando igual competência que os filmes Transformer em esconder que um massacre está ocorrendo (nesse caso, foi apenas um "mero" assassinato, o que aumentaria considerável e desnecessariamente o nível de censura do filme como um todo).
+
+Assistindo filmes da Disney hoje em dia quer dizer não ver apenas referências toscas ao seu universo comprado, como o despertador de Buzz Lightyear de [Toy Story], mas uma tentativa de reconstrução admirável da cena das vassouras em Fantasia, com direito à mesma trilha sonora. Foi o momento mais mágico do filme. Pelo esforço e pela nostalgia.
+
+[Toy Story]: {{< relref "toy-story" >}}
 

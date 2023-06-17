@@ -1,18 +1,11 @@
 ---
 categories:
 - writting
-date: '2011-05-16'
-link: https://www.imdb.com/title/tt0446029
+date: '2021-08-08T21:35:32-03:00'
 tags:
 - movies
-title: Scott Pilgrim Contra o Mundo
+title: Se Algo Acontecer... Te Amo
 ---
 
-Scott Pilgrim é o tipo de filme que abraça um conceito até o fim. Melhor: começa como um filme comum, mas vai apresentando o seu conceito de forma orgânica e cada vez mais intensa. E intensidade é uma palavra que resume muito bem toda a experiência que esse filme proporciona.
-
-Ambientado em Toronto, aos poucos percebemos que tudo não passa de um jogo de video-game, e os personagens desse jogo não sabem que fazem parte disso. As fases do jogo são passadas através do combate entre Pilgrim e cada um dos sete "ex-namorados do mal" do seu interesse amoroso, Ramona. A possibilidade de "gamificar" o filme acaba revelando cenas de ação em completo êxtase, com uma montagem que possui um dinamismo ímpar. Sobre as brincadeiras na tela (como as divisões de tela, as onomatopeias escritas e os movimentos impossíveis e estilizados), logo lembramos de Speed Racer, outro filme espetacularmente inovador e inacreditavelmente esquecido.
-
-A trilha sonora (e os efeitos, também) são dignos de nota, pois conseguem homenagear como ninguém o mundo dos games, realizando transições sonoras entre o techno e os temas limitados dos primeiros consoles. Da mesma forma, os efeitos visuais vão de forma cada vez mais frequente referenciando a origem pixelada daquele mundo (como o martelo de Ramona).
-
-Um filme ágil com um tema inesperado. Mais uma pena para os espectadores que não conseguem tentar algo novo de vez em quando.
+Esse curta de animação eu assisti depois de zapear aleatoriamente pelo streaming. No final das contas é uma história bonitinha, minimalista, carregada daqueles efeitos despojados que os filmes de artes almejam para serem premiados. A mensagem é sobre a perda da filha pelos pais. E no final descobrimos por quê. Dica: é um curta americano e ela vai pra escola. Todos os símbolos jogados em cima da propaganda engessada antiarmas.
 

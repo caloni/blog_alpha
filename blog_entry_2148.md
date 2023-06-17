@@ -1,15 +1,14 @@
 ---
-categories: []
-date: '2011-03-18'
-tags: null
-title: Loucuras multithreading
+categories:
+- writting
+date: '2021-05-22'
+link: https://www.imdb.com/title/tt14536144/
+tags:
+- series
+title: 'Love, Death & Robots: All Through the House'
 ---
 
-Estava eu depurando um sistema cliente/servidor com um tantão de threads e me veio à cabeça na volta pra casa como que um programador iniciante entenderia aquela bagunça de dar F10 em uma função e cair no meio de outra, dar outro F10 na outra e voltar pra primeira.
+Um delicioso conto narrado em uma animação sólida, que conhece as texturas para mesclar o quase fofinho com o horripilante. Gostei particularmente do momento Aliens, mas toda a sequência é brilhante em se auto-conter em seu universo limitado: crianças aguardando o Papai Noel na noite de Natal. Onde estão os adultos nessas horas?
 
-Loucura, não?
-
-Nem tanto. O multithreading de um sistema operacional está aí pra isso. O que ocorre, no caso de depurações em uma única IDE, é que os breakpoints temporários que são definidos ao usar o comando de step into/over podem ser ativados em paralelo, simultaneamente.
-
-Mas confesso que, de vez em quando, depurar múltiplas threads fica parecendo coisa de maluco.
+Não importa. É isso que quero dizer com universo limitado. Só essa sequência é o que importa. O episódio pega uma história lúdica com uma ideia provavelmente já executada inúmeras vezes, mas dessa vez elevada para a grande computação. Os efeitos digitais convencem. Claro que com uma direção incisiva dessas nós não podemos nem evitar sermos convencidos pela própria historieta. Se fosse contada com desenhos no papel de pão já seria assustador.
 

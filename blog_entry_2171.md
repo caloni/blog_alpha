@@ -1,25 +1,20 @@
 ---
 categories:
 - writting
-date: '2017-12-02'
-link: https://www.imdb.com/title/tt5954462
+date: '2015-10-06'
+link: https://www.imdb.com/title/tt1182345
 tags:
-- cinemaqui
 - movies
-title: Lumière! A Aventura Começa
+title: Lunar
 ---
 
-"Lumière! A Aventura Começa" entra nos arquivos dos inventores do cinematógrafo para descobrir onde surgiu o Cinema. Sim, porque a criação dos irmãos Lumière, assim como o cinetoscópio de Thomas Edison, ou qualquer outra invenção maluca da época, não era muito mais que isso: uma invenção maluca. Um entretenimento qualquer. E uma das muitas aventuras que estavam por vir no século seguinte.
+Três anos. Apenas isso, e termina o contrato entre Lunar, uma corporação que domina o ramo de energia na Terra, e Sam (Sam Rockwell), o trabalhador solitário da estação de coleta de Hélio 3 na Lua. Como única companhia, Sam dispõe de GERTY (Kevin Spacey), um computador que reconhece a voz e o sentimento do astronauta. Em "Lunar", curiosamente, a única voz amiga do ser humano é um programa cibernético.
 
-O Cinema como arte surgiu em um momento depois, e foi uma nova descoberta: a linguagem cinematográfica. Era possível se expressar de maneira diferente dos habituais textos, pinturas, esculturas, peças e fotografias. As invenções da época foram diferentes formas de "asfalto" para que novos "veículos" trafegassem por ele, em uma época onde imperavam as charretes. Ou uma analogia mais direta: foram inventadas letras para que as pessoas pudesses usar palavras.
+O primeiro longa do diretor e roteirista Duncan Jones flerta necessariamente com seu primo distante, "2001: Uma Odisseia no Espaço", mas as coincidências terminam na solidão do espaço e na companhia robótica, quando um mundo regido por uma corporação e a clonagem humana tomam lugar nesse thriller dramático com toques de ficção científica na medida certa. Aqui o futuro só existe para criar este pequeno simulacro da pequenez humana frente não apenas às grandes corporações e a Inteligência Artificial, mas frente aos seus próprios limites na natureza.
 
-A proposta deste filme é apresentar a arte engatinhando. Não apenas nas mãos dos Lumière, mas de seus operadores de câmera também. Os criadores do cinematógrafo mandavam seus operadores apontar suas câmeras para cenas do cotidiano, cenários históricos e alguma ficção. Seu limite era uma câmera que precisava ficar parada no chão e os 50 segundos de limite do rolo de filme.
+Criando uma narrativa fina e sempre em constante movimento -- quase apressada -- que se beneficia de uma trilha sonora (Clint Mansell) não excelente, mas quase empolgante, Lunar reconhece suas limitações artísticas, preferindo não entrar muito em questões periféricas -- como o funcionamento da estação lunar, alimentação, processo de clonagem e até mesmo a necessidade de um processo tão complexo com a desculpa de "economia" para a empresa -- e focando na relação entre Sam, GERTRY e o outro Sam. Tendo como seus melhores momentos a interação desse trio, o filme se propõe a esticar um quase-conto para uma hora e meia de uma simpática história que não atravessa muitos limites mesmo tratando de temas espinhosos.
 
-O resultado: mais de 1400 filmes em menos de 10 anos. A maioria desse conteúdo se perdeu no tempo, mas boa parte foi restaurada e remasterizada no formato digital. Este filme apresenta -- pasmem -- 108 filmes dessa época, que compreende entre os anos de 1896, a invenção do cinematógrafo, até 1905. E ele se torna, assim como o último Metrópolis exibido depois da restauração feita com cenas redescobertas, um pedido de desculpas à humanidade pela perda lastimável de um tesouro histórico e artístico.
+Filmado por dentro quase sempre com a visão do teto, dando um sentimento claustrofóbico, e por fora quase sempre de longe, dando um sentimento de isolamento acachapante, a história mantém uma dinâmica simples que envolve a rotina do operário lunar em torno do coletor da fonte de energia na Terra, enquanto se distrai construindo uma maquete de sua cidade natal, revê os vídeos de sua esposa que aguarda seu retorno junto de sua pequena filha, além de manter seu corpo saudável. Dessa forma, o estranhamento da piora súbita de seu corpo soa ainda mais conspiratório do que apenas um acidente, além de através dessas poucas informações o roteiro conseguir entregar pistas contextuais do que realmente está acontecendo (como Sam não se lembrar direito quais edifícios fez da maquete, ou qual foi a última vez que conseguiu contato direto com a base).
 
-Essas desculpas chegam nos cinemas com uma narração (original) em francês que explica o contexto das gravações, aponta um ou outro elemento em cena e faz uma pequena interpretação, resenha ou até uma crítica do resultado. É como adentrar em um museu com um trabalho fenomenal de guia, além de um fundo musical inspirado, que recria sensações de pequenos pedaços de História em película. O narrador vai além do que o espectador médio vai, falando sobre travellings, enquadramento e a sofisticação dos operadores. Além de muitos, muitos golpes de sorte de momentos que aconteceram enquanto a câmera estava filmando.
-
-Mas ao mesmo tempo este é um filme fácil, para as massas. Como os Lumière sempre desejaram. O narrador explica detalhes técnicos, sim, mas de uma maneira tão didática, guiando os olhos do espectador sobre as circunstâncias da filmagem, o momento historico, etc. O que serve, junto da diversão de ver as primeira filmagens da história, como uma introdução a um estudo tímido mas eficaz de Cinema. O narrador compara um enquadramento com a marca registrada de um diretor japonês. Em outro momento estabelece ligação entre uma criança vestida de forma pomposa e o movimento impressionista do pintor Auguste Renoir.
-
-Não há muito o que falar da arte do filme em si, essa colagem histórica formatada com a dedicação que o material merece. Apenas que seu resultado é inestimável. Se trata do nascimento de uma invenção que todos nós adoramos. O perfeito reflexo da Revolução Industrial e a consequência do avanço tecnológico que mudou radicalmente aquela realidade que vemos em proporção 1.33 em um quase quadrado com cantos arredondados, emoldurado pra presente. Um presente que todo cinéfilo deveria ser grato por poder receber.
+Com uma conclusão mais simplista que todo seu desenvolvimento, Lunar com certeza ainda vai continuar sendo um filme favorito de alguns cinéfilos, além de gerar discussões em torno de seus temas em conversas de bar. Como sempre, esses são os sintomas necessários de uma ficção científica que cumpre a grande tarefa deste gênero: discutir o mundo em que vivemos falando de outros mundos possíveis.
 

@@ -1,19 +1,22 @@
 ---
 
-Nora Ephron morreu ano passado. Escreveu e dirigiu trabalhos desde os anos 80 que hoje são agradáveis passeios pelas origens da comédia romântica como hoje a vemos (ainda que algumas bem datadas, como [A Difícil Arte de Amar]). No entanto, "Harry & Sally", comparado com a média das com-rom atuais, possui virtudes o suficiente para elevá-lo à categoria de grande filme.
+Assistir novamente a "Harry Potter e A Pedra Filosofal" depois dos atores crescidos e a computação dominar o cenário de efeitos visuais cria uma nostalgia quentinha no coração. Por ser um filme de origem, muitos detalhes da história tiveram que ser contados de forma burocrática, mas a imaginação de J. K. Rowling transforma o exagero do mundo mágico dos bruxos, coexistindo debaixo das barbas dos não bruxos (trouxas, esse é o nome), em uma diversão à parte. Quando uma chuva de cartas inunda a residência dos tios do pequeno órfão Harry Potter nós sabemos que as regras da magia podem dominar nossa percepção daquela realidade.
 
-Note como os personagens não mudam de opinião, não estão loucos por um grande amor e nem são expostos a relacionamentos passageiros para gerar ciúmes no companheiro/a. Harry é visto através da figura de um Billy Crystal sóbrio, divertido e coeso, ou uma espécie de persona no esitlo de Bill Murray sem muito sarcasmo mas com muito carisma. Sally é uma Meg Ryan sem os trejeitos que foi adquirindo ao longo da carreira (principalmente nos anos 90). Os figurinos, a fotografia e a direção de arte dizem quase tudo o que não sai da boca desse casal. Mesmo assim, a direção segura de Rob Reiner ([O Clube das Desquitadas]) favorece ainda mais tomadas clássicas em torno do casal, como a já batida, mas ainda assim, imperdível, cena do orgasmo.
+Além disso, detalhes desse mundo peculiar dos bruxos também preenchem nossa imaginação, como os banqueiros que guardam moedas de ouro em cofres acessíveis por um sistema de minas, ou a maneira poderosa como um chapéu escolhe a escola dos recém chegados alunos ou a varinha mágica que escolhe o seu dono, e não o contrário, como imaginaríamos.
 
-No caso de Harry e Sally o filme não está datado. Ele serve como experiência romântica e, mais que isso, como um documentário de uma época cheia de transformações sociais.
+Além disso, pequenos truques de magia como fotos e quadros animados e escadarias que decidem mudar de lugar conseguem nos inserir completamente naquele mundo mágico da escola de Hogwarts e nos dar uma impressão, ainda que parcial (são crianças) do mundo que Harry Potter e seus recém amigos estão adentrando.
 
-[A Difícil Arte de Amar]: {{< relref "a-dificil-arte-de-amar" >}}
-[O Clube das Desquitadas]: {{< relref "o-clube-das-desquitadas" >}}
+Todas essas novas experiências são cercadas por um mistério envolvendo inimigos do bruxinho e uma história de vingança. Hoje ela é conhecida por todos, mas hoje também os filmes infantis são inofensivos, o que os tornam facilmente esquecidos. Aqui a morte passa próximo das crianças, e é isso que nos faz levar a aventura a sério.
+
+Ainda assim, a direção de Chris Columbus (Esqueceram de Mim) e a trilha sonora de John Williams (que cria o memorável tema da série) abraçam o caráter infantil desse primeiro trabalho cinematográfico da série de livros. As cores são muito vivas, e jogar quadribol voando em vassouras, apesar de arriscado, é uma atividade colorida e lúdica. Também o são as criaturas mágicas que habitam o castelo de Hogwarts e sua floresta.
+
+Eis um filme que consegue empolgar criança e adulto. Criança porque quem não adoraria viver um mundo onde a magia, além de realidade, é um mundo cercado de mistérios? E adulto porque quem não adoraria voltar a ser criança em uma versão mágica e livre das leis da física? Eu estou na fila.
 
 ---
 categories:
 - writting
-date: '2019-12-27T18:21:00-03:00'
-link: https://www.imdb.com/title/tt0295297
+date: '2010-11-19'
+link: https://www.imdb.com/title/tt0926084
 tags:
 - movies
-title: Harry Potter e a Câmara Secreta
+title: Harry Potter e as Relíquias da Morte - Parte 1

@@ -1,26 +1,16 @@
 ---
+
+O que você faria se acordasse em um apocalipse zumbi? Esta minissérie, que começa com uma história em dois capítulos de 45 minutos, explora essa abordagem usando uma cobaia em torno de uma produção que mistura o melhor da edição televisiva de séries como The Walking Dead e um roteiro que se assemelha a um jogo, mas que por contar com uma pessoa que vive isso de verdade, está anos à frente de qualquer tentativa de dramatizar os quadrinhos da série famosa de Frank Darabont.
+
+O host é Derren Brown, que é mágico e hipnotizador. Ele está obviamente se auto-promovendo através de uma série com colagens bregas sobre apocalipse vinda de jogos de computador, mas algo muito bom nasce desse projeto. Ele realiza uma pesquisa para encontrar uma pessoa que não valoriza a vida que tem, mesmo ela sendo cheia de privilégios, e encontra Steven Brosnan, um rapaz que ainda não cresceu, vive com os pais e quase sempre na frente da TV. Ele é mimado e se sente incapaz de conseguir um emprego e ter uma vida própria.
+
+Tudo vai mudar quando Brown começa a imputar em sua cabeça a ideia de que haverá uma chuva de meteoros, e através dessa chuva surge o apocalipse zumbi, infectando pessoas que se tornam violentas e irracionais. Com o uso de tecnologia, hipnose, atores e uma produção em tempo real de acontecimentos que buscam encontrar o melhor em Brosnan como ser humano, essa rápida série evita dar spoilers do que está realizando, e tudo se torna como o capítulo mais realista que você pode imaginar de The Walking Dead. Eu assistiria essa série se ela fosse assim.
+
+---
 categories:
 - writting
-date: '2015-07-28'
-link: https://www.imdb.com/title/tt2616280
+date: '2020-04-07'
+link: https://www.imdb.com/title/tt0071411
 tags:
-- series
-title: Derek
----
-
-Derek é uma série britânica dirigida e roteirizada e protagonizada pelo comediante Ricky Gervais. Seu personagem é a espinha dorsal e moral de um lar para idosos orquestrado pela perseverante Hanna (Kerry Godliman). A câmera trabalha da mesma forma com que seu trabalho em The Office (o britânico original), como se estivessem filmando um documentário e mesmo assim as pessoas fossem elas mesmas. É um formato popular, também usado em Parks and Recreation e copiado no The Office americano. Possui no momento apenas uma temporada com seis episódios de 20 minutos cada, o que no fundo dá um filme de duas horas.
-
-E é um dos seriados mais fofos atualmente.
-
-A criação de personagens secundários facilita o uso de Derek em praticamente todas as situações das histórias sem torná-lo um protagonista no sentido nato da coisa. Não é ele que resolve todos os problemas, nem o que move a ação, mas é o que entrega sua dedicação em alma e coração. Porém, as pessoas em volta possuem cada uma delas uma visão do mundo que é complementar e que forma um pequeno universo que explica boa parte da nossa sociedade do lado de fora.
-
-Não que seja um estudo denso e complexo de personagens, longe disso. Porém, dentro daquelas histórias, que com certeza vão te fazer rir e chorar, existe algo a mais que nos faz pensar a respeito de coisas que ocorrem de fato estão bem próximas dos diálogos e cenas do seriado. Talvez a única diferença com o mundo real é que elas não estão sendo filmadas.
-
-O objetivo da série na primeira temporada não era entrar a fundo no estudo de seus personagens, mas a segunda temporada dá liberdade a Rick Gervais de fazer justamente isso: já sabemos quem são aquelas pessoas, agora vamos explorar um pouco mais o que elas podem se tornar, ou o que nunca deixarão de ser.
-
-Por isso que o alcoolismo de Kev (personagem de David Earl) e o utilitarismo do novato Geoff (Colin Hoult) são pauta em um ou mais episódios, além da relação de Derek com o pai. Podemos dizer, sim, que isso constitui uma sutil, cômica e tocante análise de personagens daquele asilo, mas também no final de cada historieta conseguimos entender -- assim como nos episódios originais -- que aquelas pessoas não representam apenas elas naquele momento, mas são símbolos de comportamento humano que podemos ver em qualquer lugar. Basta abrir os olhos e desgrudá-los do seu celular.
-
-Não se dedicando mais ao choro e ao riso fáceis, Derek mais uma vez prova ser um seriado essencial hoje em dia, onde perdemos cada vez mais nossa humanidade, nem sempre para o utilitarismo de Geoff, nem sempre por causa do alcoolismo usado para esquecer a chatice das pessoas, mas muitas vezes nos relacionamentos tecnológicos, nas redes sociais, nos fóruns onde é fácil e barato ofender um avatar qualquer que discorda de você em uma discussão muitas vezes inútil.
-
-A câmera do ator/diretor/roteirista Derek navega naturalmente, e as falas soam cada vez mais humanas. Se torna um tanto estranho enxergar a nós mesmos naquelas pessoas que geralmente não teriam nada a ver com nossas vidas. Mais uma prova de que os seres humanos estão cada vez mais iguais, ou procurando as mesmas coisas, embora fiquemos cada vez mais enclausurados olhando insistentemente para a atualização de nosso perfil virtual, imaginário e, mais do que a vida real: efêmero.
-
+- movies
+title: Dersu Uzala

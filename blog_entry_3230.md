@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2016-01-16'
-link: https://www.imdb.com/title/tt0097523
+date: '2019-06-17'
+link: https://www.imdb.com/title/tt0120601
 tags:
 - movies
-title: Querida, Encolhi as Crianças
+title: Quero Ser John Malkovich
 ---
 
-Os efeitos estão datados, mas nem por isso não funcionam em sua maioria. Rick Moranis está hilário procurando seus filhos com uma lupa sobre seus óculos pendurado no jardim suspenso por uma televisão. Seus vizinhos são malucos em um sentido diferente, mas todos eles possuem um objetivo no roteiro esquemático: juntar novamente a família. O feminismo, quem diria, sempre foi um mote na série.
+Nessa época Charlie Kaufman ainda estava explorando mais as ideias do que lustrando o roteiro, mas ainda assim... que filme! Uma ode à insignificância de nossos corpos, e até de nossas almas, inutilmente pulando de corpo em corpo, na esperança de encontrar algo além do que nossos próprios corpos provêm.
 
-O primeiro filme, dirigido por Joe Johnston (Capitão América: O Primeiro Vingador, Jumanji) e roteirizado por uma galera, apresenta a família Szalinski. Wayne (Moranis), o pai de família, é um cientista que busca provar que é possível encolher a matéria através de um raio laser, mas enquanto não conseguir a casa estará em um eterno caos. Isso fez com que sua esposa, Amy (Amy O'Neill), tivesse eternos conflitos com ele e seus filhos: o pequeno e adorável Nick (Robert Oliveri), que imita o pai em suas invencionices, e a mais velha, Diane (Marcia Strassman), cuja adolescência já estaria naturalmente complicada não fosse o encolhedor do pai tivesse tornado ela mais complicada ainda.
+O diretor Spike Jonze realiza aqui o roteiro de Kaufman com afinco. Note como os atores, John Cusack e Cameron Diaz, realizam os melhores papéis de suas carreiras, pois são atores rasos e é exatamente isso o que o material pede aqui. Jonze os enfeia como bonecos de titeragem e em alguns momentos não sabemos a diferença entre eles e sua busca pelo amor no outro e suas versões em boneco. Aliás, sabemos, sim: os bonecos e seus movimentos são mais intensos.
 
-Os dois filhos da família e os dois filhos do vizinho, que compartilham um drama familiar "pai não respeita os gostos dos filhos", são encolhidos em uma situação turbulenta. A princípio acreditando que eles tenham fugido, mais tarde Wayne descobre a verdade e sai à cata dos pequeninos. Tudo é muito exagerado e exploratório nesse filme que realiza trucagens interessantes, formigas-cachorros e muitos outros conceitos que são uma distração do que até então era uma história padrão.
+Usando como pano de fundo o universo de um titereiro e explodindo esse tema para o mundo real, Quero Ser John Malkovich não só consegue ser um filme completamente original pelas suas... inusitadas ideias, como o andar 7 e 1/2, explicado como criado para pessoas muito pequenas (a analogia com bonecos de títeres é inevitável). Essas ideias estão juntas para alimentar nosso inconsciente de maneira orgânica, sendo que a originalidade não é gratuita e possui sempre um significado dentro do universo onde a história se passa. Ao abrir a pequena porta que dá vazão ao mundo de outra pessoa, há uma toca que lembra Alice no País das Maravilhas. Pequenos detalhes como esse transformam BJM (Being John Malkovich) em uma obra de arte que atinge seu esplendor em explorar sua ideia de todas as formas possíveis.
 
-O fato é que o roteiro escrito a não sei quantas mãos é confuso, deixa diversas pontas abertas e cria situações artificialmente (como os clientes da esposa aparecerem na casa da família para gerar constrangimento). Fora tudo isso, a direção de Johnston entrega um filme divertidinho, simpático e a marca de uma época mais inocente, mas nem tanto: o final dos anos 80.
+Mais inacreditável, porém, é que os conceitos cabem como uma luva em seus personagens, cujos conflitos são introduzidos de maneira simplista, que é exatamente a forma como o roteiro os encara. Aliás, não só o roteiro, como todo o trabalho de arte, notadamente a maquiagem, se esforça para apresentar as pessoas como verdadeiros títeres de carne-e-osso, vazios por dentro e toscos por fora. Quando isso fica claro para o espectador, o que ocorre depois da descoberta do portal que leva a pessoa para a consciência de John Malkovich, por mais absurda que seja a premissa, soa natural para aqueles personagens.
+
+O roteiro de Charlie Kaufman é tão original que toda cena empolga apenas por suas ideias atingindo um novo nível de loucura. Apenas por isso, já mereceria constar na lista de filmes a se ver, rever e estudar. E há tantas ideias trabalhando juntas que precisamos de diferentes reencarnações para aproveitá-las. Deixe passar o tempo e reveja.
 

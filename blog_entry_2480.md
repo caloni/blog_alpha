@@ -1,15 +1,21 @@
 ---
 categories: []
-date: '2017-03-21'
+date: '2022-07-09T19:40:01-03:00'
 tags: null
-title: 'NativeFloripa 2017: Impressões'
+title: Native Floripa 2022
 ---
 
-A despeito de poucas pessoas envolvidas na organização, o primeiro evento no estilo Encontro CCPPBrasil (sem ser um encontro CCPPBrasil) foi um grande sucesso. Houve um nível de palestras razoável com um público idem. Houve também uma maior participação das pessoas, com perguntas e às vezes quase um debate. Houve café no coffee break, mas mais importante: houve chope artesanal no Happy Hour. E por causa disso não há comparativos com encontros C++ de Sampa e Rio =).
+Fui para a terceira edição esse ano com minha [palestra de AWK], que foi aceita duas semanas antes do dia, embora já estivesse programando ir de qualquer maneira, dessa vez de carro. Saindo de São Paulo, a parada em Morretes confirmou que o sorvete de banana continua top. Já o evento merece uma reciclada.
 
-Palestrei duas vezes, sobre engenharia reversa e moedas digitais, nos dois dias do evento (18, 19 de março de 2017, sábado e domingo). Não consegui assistir todas as palestras porque seria fisicamente impossível, já que houve no sábado uma divisão em duas salas. Uma lástima, porque muitas vezes gostaria de ver ambas as palestras que estavam disputando o tempo. No domingo fomos de single-threaded, e infelizmente o nível de informação foi o que ficou mais aquém, com os palestrantes não tendo um domínio muito bom de conteúdos, como interop entre Go e C (que achei horrível), ou houve palestras muito básicas e verborrágicas à toa, como a construção de um exemplo bobo em OpenCV que une key-points (em um código-fonte de gosto discutível).
+Inicialmente moldado em duas trilhas paralelas sábado e domingo, ele continuou dessa forma em sua primeira edição após a pandemia. Com uma divulgação de última hora, o público ficou bem reduzido em ambas as trilhas, mesmo a principal, que foi a única que acompanhei. Nela haviam nos melhores momentos cerca de 15 pessoas, mas nos piores cerca de 4 (contando apenas o pessoal técnico).
 
-Felizmente, com pouco público, houve a possibilidade de interagir com muitas pessoas diferentes com interesses diferentes. Houve um networking razoável, mas a impressão que ficou foi que os temas foram tão esparsos que não houve muito engajamento de uma possível plateia que ficou de fora e que resolveu não viajar para Floripa para ver apenas uma ou duas palestras.
+A primeira palestra era sobre carregadores de bateria de veículos elétricos e foi muito empolgante. Já fez valer a visita mesmo sem ser minha área de atuação em TI, mas é justamente isso que torna esses eventos tão excitantes. É sobre a possibilidade de aprender coisas novas com outros devs.
 
-De qualquer forma, houve gente de fora (eu incluso). Muita gente de SP e do Sul, pelo que pude constatar (muita gente == mais que meia-dúzia). Também houve bastante palestras de uma empresa só (esqueci o nome, mas isso não importa, pois não divulgaria aqui). O preço do ingresso foi muito válido para os pagantes, IMHO, porque além do coffee-break havia máquinas de chope no recinto e um ambiente extremamente agradável no melhor estilo empresa de startup ou incubadora, com design modernão. Ah, e o chope do Happy de sábado foi na faixa. Houvi falar que há eventos muitos mais caros com restrição de salas feitos em universidades onde serve-se biscoito seco e no almoço um lanche sub-way surrado. Em comparação, NativeFloripa foi algo muito, muito superior.
+Finalizado o evento começam as melhores horas do dia e da noite: o happy-hour. Boa conversa, comida e bebida tops são convidativos para nunca voltar para casa. Nesse caso os motivos se invertem, e não é o que se aprende que importa, mas estar junto de pessoas que respiram o mesmo ar dessa área fascinante que é a tecnologia.
+
+Na segunda-feira ainda participei de uma terceira trilha, a da Costa da Lagoa, que sequer é listada no Google Maps, mas descobrimos graças à sempre ótima consultoria dos amigos moradores da cidade. Essa trilha vai pelo meio da mata que circunda a Lagoa da Conceição. Com cerca de 5km de extensão e altos e baixos, há várias saídas para residências locais e o próprio mar. Ao final uma vila de pescadores extremamente charmosa e surreal. A saída da vila ou é a trilha ou o barco-ônibus que passa entre diversos pontos (de ônibus) onde os passageiros aguardam. Foi por lá que voltamos. Um passeio inesquecível.
+
+Floripa agora nos promete mais que o evento icônico de tecnologia. E por isso prometemos voltar para a próxima edição.
+
+[palestra de AWK]: {{< relref "awk" >}}
 

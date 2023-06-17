@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2012-07-03'
-link: https://www.imdb.com/title/tt1859650
+date: '2012-05-09'
+link: https://www.imdb.com/title/tt0445620
 tags:
 - movies
-title: Para Roma com Amor
+title: Paradise Now
 ---
 
-Quais diretores você conhece que conseguem fazer o velho clichê da "pessoa engasgando com o copo na mão ao ver cena inusitada" funcionar novamente? Eu conheço um: Woody Allen.
+Não é o fato de um filme contar a história de um homem-bomba sob seu ponto de vista, algo incomum para o Ocidente, que ele se torna automaticamente uma ótima referência ao tema. Contudo, quando esse ponto de vista está embebido em melancolia e ressentimentos de uma infância que não conheceu uma realidade diferente do inferno da Guerra (inclusive com a perda do pai causada diretamente por esta), é aí que começamos a analisar se o projeto de fato merece crédito.
 
-Cada vez mais se reinventando em seus últimos filmes, apesar de incluir quase sempre seus temas favoritos, como a angústia da terceira idade e adultérios, Allen investe aqui em uma comédia tradicional dividida em diferentes começos de histórias que, diferente do usual hoje em dia, praticamente não se encontram: os pais que visitam a filha para conhecer a família de seu namorado, o jovem e ingênuo casal italiano em busca de uma vida melhor na capital, o batidíssimo triângulo amoroso encabeçado por uma femme fatale e, como não poderia deixar de ser, a vida típica e pacata de um cidadão italiano.
+Cores básicas, azul, vermelho, verde, tomam conta do figurino dos personagens principais, enquanto as secas e drenadas paisagens fazem rima de um lugar nada agradável para se viver, em meio a ruínas de prédios e eventuais tiros e bombas no caminho para casa. Curiosamente, Khaled (Ali Suliman) e Jamal (Amer Hlehel), colaboradores do movimento contra a ocupação israelita na região da Palestina, decidem fazer o último esforço e morrer como heróis de um atentado contra os soldados do estado de Israel; eles se vestem de preto e branco de maneira impecável, em uma espécie de contraste que ecoa por todo o horizonte amarelado e miserável.
 
-Como eu disse, são apenas começos de histórias. O que acontece a partir daí, embora não seja lá muito criativo, diverte e entretem ao mesmo tempo em que aborda temas contemporâneos: a fama como um fim em si mesma, a pureza desmascarada dadas as condições propícias, o conhecimento raso de aparências e a ópera como algo menos absurdo do que a própria vida.
+Conforme acompanhamos o planejamento do ataque, tanto no "plano terreno" como depois ("dois anjos virão te buscar"), não nos parece absurdo que essa realidade exista e seja tão simples de persuadir pessoas a explodirem seus corpos por uma causa nobre e além-vida. Consideramos que a infância desses rapazes se passou em um ambiente conturbado, mas pior que isso, preparado de maneira inconsciente, cultural, de forma que fosse aceita a máxima "morrer como um herói" em prol de um futuro menos árido e destrutivo. Tudo está lá, menos o bom senso, que chega tarde, ou está dormindo ("para o mal prevalecer, basta os bons não fazerem nada"). Não há alternativa sob o ponto de vista do protagonista. E nem deveria. Certos de suas razões, não há motivo para temer, mas sim se orgulhar.
 
-Vivendo em um mundo onde os filmes fazem graça de si mesmos e as animações reciclam piadas ad infinitum, Allen consegue mais uma vez ressucitar o humor inteligente, que não apenas gera o riso, mas que embute nele uma crítica aguçada da sociedade de nossa época. O fato dessa crítica estar escancarada em diálogos e imagens apenas faz aumentar a comicidade de seus personagens, que são unidimensionais, mas que nem por isso impedem que nos identifiquemos com cada situação.
+Dando-nos a oportunidade de conhecer as relações do homem-suicida (família, amigos, afeto) conseguimos manter uma proximidade, essa sim inédita e digna de nota, das pessoas que se sacrificam por um ato terrorista. Nesse sentido, o filme tem o mérito de conseguir transmitir essa importante mensagem de que ideologias podem sim ser perigosas não apenas para indivíduos, mas para povos e gerações a fio. Seja religioso ou meramente político, a ideia consegue nos mover para o melhor ou para o pior do ser humano.
 
-Suportado por um elenco não apenas de peso, mas que fazem a combinação perfeita para suas caricaturas, a única decepção é vermos apenas uma fração de cada história em um determinado momento. Dessa forma é um sentimento cíclico a decepção pela troca de personagens e a empolgação pelo enriquecimento da história atual.
-
-Felizmente, Allen consegue fechar com chave de ouro cada uma das situações, deixando apenas uma situação de quero mais. Não me cansaria de assistir por duas horas novamente acontecimentos nA Cidade Eterna.
+Nesse sentido, fazer um filme sobre homens-bomba é sim bem-vindo e digno de nota.
 

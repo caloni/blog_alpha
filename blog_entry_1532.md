@@ -1,14 +1,12 @@
 ---
-
-É fazendo biscoitos amanteigados. Pegue a manteiga que estiver dando bobeira e misture com o dobro em peso de farinha. Junte o fermento que quer descartar, no máximo o dobro em peso da farinha. Então a proporção é 1 de manteiga, 2 de farinha e 4 de fermento no máximo. A quantidade de fermento pode variar, é apenas para descarte e para dar volume. Misture tudo, tempere a gosto (sal, ervas, pimentas), forme um bloco retangular e coloque na geladeira por uma horinha (pode ficar mais, até de um dia pro outro, ele não vai a lugar algum). Depois pré-aqueça o forno a 180 graus e vá tirando a massa em blocos que quando abertos bem fininhos caibam em forma untada levemente com azeite. Corte retângulos dos mais uniformes possíveis e transfira para a forma. Na forma corte o tamanho dos quadradinhos ou outro formato que quiser para seus biscoitos. Faça furinhos com o garfo para o biscoito não inchar e coloque no forno. Fique sempre de olho, pois você deve ir retirando os que forem ficando moreninhos, que é o ponto onde estão secos sem estarem queimados. Talvez seja preciso ir tirando aos poucos. Enquanto isso vá preparando a próxima fornada.
-
-Pronto. Fermento natural descartado com sucesso e com manteiga direto pra barriga no chá das cinco.
-
----
 categories:
-- blogging
-date: '2023-03-26T12:47:36-02:00'
-link: https://youtu.be/hsGgI0ThLG8
+- writting
+date: '2021-05-28'
+link: https://www.imdb.com/title/tt0400420
 tags:
-- body
-title: 10 Exercícios de aquecimento completos
+- movies
+title: Exílios
+---
+
+Esses franceses ficam entediados com o primeiro mundo e resolvem voltar às suas origens na Argélia, passar alguns perrengues. No meio vários números músicas impressionantes da cultura local e Lubna Azabal fazendo uma louca sem roteiro e muita energia. Há uma sequência particularmente arrebatadora no final quanto ela participa de uma roda de candomblé ou algo do tipo.
+

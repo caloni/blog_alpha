@@ -1,19 +1,67 @@
 ---
-categories:
-- writting
-date: '2023-01-22T23:58:52-03:00'
-tags:
-- cinemaqui
-- mostratiradentes
-- movies
-title: Terruá Pará
+categories: []
+date: '2016-04-10'
+tags: null
+title: Testando sistema de postagem
 ---
 
-A diretora Jorane Castro apresentou o projeto no início da sessão como sendo sobre a diversidade amazônica, mas durante a projeção descobrimos ser muito mais sobre a miscelânea musical da capital paraense do que sobre a floresta.
+Bom, depois de criar um script para basicamente apenas escrever o texto dos filmes que assisto e buscar uma imagem agradável para meu [blogue de Cinema](http://www.cinetenisverde.com.br), o próximo passo foi portar esse mesmo método para meus dois outros blogues: o da minha empresa, a [BitForge](http://www.bitforge.com.br/blog-pt) e esse aqui. O processo envolve algo a mais: buscar as imagens usadas (que muitas vezes não é só uma). Porém, nada mais que isso.
 
-A história de fato começa na floresta, e a intenção é que a narrativa comece e termine por lá. Essa é a lógica temporal. Começamos ouvindo o ritmo dos tambores e os sons da água para aos poucos novos gêneros e percursores da música regional apresentarem a sua visão dessa história que é contada por vários protagonistas contemporâneos.
+**O problema mesmo é publicar nas redes sociais.**
 
-As sequências se confundem com clipes musicais e a diretora é competente em criar as cenas que dialogam entre as diferentes paisagens, desde o mangue até a capital, passando pela floresta, pelo rio, pelo porto e a periferia. A localização espacial do filme é privilegiada pela cineasta que nos mantém em uma história que se desenrola através das notas, dos cantos, das batidas.
+Um detalhe típico do funcionamento dessas redes bem apontou o blogger veterano [Hossein Derakhshan](http://www.theguardian.com/technology/2015/dec/29/irans-blogfather-facebook-instagram-and-twitter-are-killing-the-web), que ficou preso por seis anos e descreveu a mudança que a web sofreu nesse pouquíssimo tempo para a história, mas muitíssimo para a internet. De acordo com ele, postar apenas links não farão muito efeito, mesmo que você seja um escritor conhecido (o caso dele). Para fazer efeito, você precisa de imagens. Pessoas gostam de imagens. De gatinhos, melhor ainda.
 
-Por ser focado na música a mixagem é muito boa e nos convence da mise en scene, mesmo que ao pé de um rio. A beleza da paisagem se mistura aos números musicais contagiantes, desde os de raiz caribenha e ribeirinha, passando pelo icônico techno brega e chegando no rap feminino e na ópera moderna. Incrível como tudo se encaixa nesse diálogo entre a floresta e a cidade. Seus representantes são a soma das influências sonoras da região.
+Porém, qual imagem que pode ser usada para um blogue técnico e que chame a atenção?
+
+No Cine Tênis Verde fica fácil achar uma imagem, pois filmes são formados por elas (cerca de 170 mil delas, se for um filme de duas horas). Aqui no Blogue do Caloni, tenho que me limitar a abstrações e metáforas.
+
+O que muitas vezes tem funcionado, como minha série [Básico do Básico](https://www.google.com.br/search?q=básico+do+básico+site%3Acaloni.com.br):
+
+ - [Binário](http://caloni.com.br/basico-do-basico-binario)
+ - [Tipos](http://caloni.com.br/basico-do-basico-tipos)
+ - [Ponteiros](http://caloni.com.br/basico-do-basico-ponteiros)
+ - [Assembly](http://caloni.com.br/basico-do-basico-assembly)
+ - [Programação](http://caloni.com.br/guia-basico-para-programadores-de-primeiro-breakpoint)
+ - [Depuração](http://caloni.com.br/guia-basico-para-programadores-de-primeiro-int-main)
+
+De qualquer forma, posso continuar utilizando o título do artigo como base para minha pesquisa.
+
+### Postando no Twitter
+
+Postar no Twitter é algo relativamente fácil. O script abaixo faz isso com dois pés no joelho:
+
+```
+def PublishToTwitter(postInfo):
+    """
+    https://pypi.python.org/pypi/twitter
+    """
+    t = twitter.Twitter(auth=twitter_credentials.auth)
+    
+    with open("C:\\daytoday\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
+    	imagedata = imagefile.read()
+    t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
+    id_img1 = t_up.media.upload(media=imagedata)["media_id_string"]
+    st = postInfo['title'] + '\n\n' + postInfo['tagline'] + '\n\n' + postInfo['shortlink'].encode('utf-8')
+    if len(st) > 120: # giving space to image attachment
+        st = stars + ' ' + postInfo['title'] + '\n\n' + '\n\n' + postInfo['shortlink'].encode('utf-8')
+    t.statuses.update(status=st, media_ids=",".join([id_img1]))
+```
+
+### Postando no Facebook
+
+Já postar no Facebook é mais ou menos uma tortura. As chaves de acesso costumam expirar, e para conseguir uma que não expira este [tutorial](http://nodotcom.org/python-facebook-tutorial.html) é femonenal, pois economiza muito, muito tempo de pesquisa.
+
+Curiosamente, o código para postar é muito semelhante ao do Twitter, até mais simples, talvez:
+
+```
+def PublishToFacebook(postInfo):
+    """
+    http://nodotcom.org/python-facebook-tutorial.html
+    """
+    with open("C:\\daytoday\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
+    	imagedata = imagefile.read()
+
+    st = postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + baseUrl + postInfo['permalink']
+    post = facebook_credentials.auth.put_photo(image=imagedata, message=st)
+```
 

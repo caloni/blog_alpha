@@ -1,21 +1,20 @@
 ---
-categories: []
-date: '2022-07-09T19:40:01-03:00'
-tags: null
-title: Native Floripa 2022
+categories:
+- writting
+date: '2019-02-15'
+link: https://www.imdb.com/title/tt0105378
+tags:
+- movies
+title: Neblina e Sombras
 ---
 
-Fui para a terceira edição esse ano com minha [palestra de AWK], que foi aceita duas semanas antes do dia, embora já estivesse programando ir de qualquer maneira, dessa vez de carro. Saindo de São Paulo, a parada em Morretes confirmou que o sorvete de banana continua top. Já o evento merece uma reciclada.
+A sombra e a neblina são os lugares perfeitos para Woody Allen perambular. É nessa incompreensão charmosa do caos que este filme vai se desenrolando quase que ao acaso. Não há culpados, apenas desavisados. Nós não sabemos do que o universo e um serial killer são capazes. Mas Allen está aqui para ajudar, dando um novo e merecido destino aos que não se importam em viver a vida, por mais nebulosa que ela seja.
 
-Inicialmente moldado em duas trilhas paralelas sábado e domingo, ele continuou dessa forma em sua primeira edição após a pandemia. Com uma divulgação de última hora, o público ficou bem reduzido em ambas as trilhas, mesmo a principal, que foi a única que acompanhei. Nela haviam nos melhores momentos cerca de 15 pessoas, mas nos piores cerca de 4 (contando apenas o pessoal técnico).
+O uso do preto e branco, da silhueta dos personagens e do giro da câmera de Allen nos entrega uma experiência que vai muito além dos cortes simples e cenários estáticos dos trabalhos mais teatrais do diretor. Isso nos dá a oportunidade de ouvir frases icônicas de um roteirista gênio dentro de uma textura mais cinematográfica.
 
-A primeira palestra era sobre carregadores de bateria de veículos elétricos e foi muito empolgante. Já fez valer a visita mesmo sem ser minha área de atuação em TI, mas é justamente isso que torna esses eventos tão excitantes. É sobre a possibilidade de aprender coisas novas com outros devs.
+Allen usa muitos atores e atrizes de primeiro escalão e não usa adequadamente todos eles, mas os personagens de Mia Farrow, John Malkovich e o próprio Woody Allen passeiam por participações especiais que dão uma aura mágica nesse universo onde Kathy Bates e Jodie Foster são prostitutas em um bordel, Madonna é uma mulher fácil do circo ou John Cusack é um estudante universitário disposto a dar tudo por um momento mágico em mais uma noite mundana e depressiva.
 
-Finalizado o evento começam as melhores horas do dia e da noite: o happy-hour. Boa conversa, comida e bebida tops são convidativos para nunca voltar para casa. Nesse caso os motivos se invertem, e não é o que se aprende que importa, mas estar junto de pessoas que respiram o mesmo ar dessa área fascinante que é a tecnologia.
+Apesar de ser quase um policial ou filme de mistério a trilha sonora animada denuncia mais do que um filme de gênero, além do personagem de Allen, acordado no meio da noite para ajudar em um plano dos vigilantes da vizinhança para capturar um assassino a sangue frio. Allen, um subalterno puxa-saco do seu chefe, é o único que não sabe os detalhes do plano, que se desenrola na comunidade como uma surpresa. Não é um filme crível, mas imaginativo, quase conceitual. E te captura a atenção em cada cena, desde o suspense do assassino até o fim dos personagens que decidem criar o próprio destino após uma noite única em suas vidas.
 
-Na segunda-feira ainda participei de uma terceira trilha, a da Costa da Lagoa, que sequer é listada no Google Maps, mas descobrimos graças à sempre ótima consultoria dos amigos moradores da cidade. Essa trilha vai pelo meio da mata que circunda a Lagoa da Conceição. Com cerca de 5km de extensão e altos e baixos, há várias saídas para residências locais e o próprio mar. Ao final uma vila de pescadores extremamente charmosa e surreal. A saída da vila ou é a trilha ou o barco-ônibus que passa entre diversos pontos (de ônibus) onde os passageiros aguardam. Foi por lá que voltamos. Um passeio inesquecível.
-
-Floripa agora nos promete mais que o evento icônico de tecnologia. E por isso prometemos voltar para a próxima edição.
-
-[palestra de AWK]: {{< relref "awk" >}}
+Para Woody Allen qualquer discussão trivial sobre a rotina e as vidinhas das pessoas de repente se transforma em uma crise existencial, onde átomos do universo interagem se maneira a obedecer à teoria do caos. Perguntas como por quanto você venderia seu corpo ou o que você faria se tivesse a chance de viver a vida dos seus sonhos emergem como num passe de mágica, e essa é sempre a aventura da vida que Allen está disposto a filmar.
 

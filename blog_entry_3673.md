@@ -1,12 +1,19 @@
 ---
 categories:
 - writting
-date: '2020-06-13'
-link: https://www.imdb.com/title/tt9737098
+date: '2021-02-19'
+link: https://www.imdb.com/title/tt6142628
 tags:
-- movies
-title: The Eyes of Fritz Lang
+- animes
+- series
+title: The Great Passage (Fune Wo Amu)
 ---
 
-Um documentário chato, cheio de pessoas elogiando a figura de Fritz Lang em sua fase nos EUA sem substância. Meia-hora quase insuportável de velhos babando ovo para este alemão que narrou sua fuga da Alemanha nazista quando se descobriu que ele fugiu "aos poucos", e que dizem ser judeu quando apenas sua avó era (e se converteu católica). Sua visão cinematográfica não está descrita aqui, apenas opiniões pessoas sobre este cineasta. Uma perda de tempo para os que buscam informação, e uma curiosidade boba para os fãs desse cinema.
+Um anime sobre dicionários. Esse é o nível de riqueza dos assuntos das animações japonesas.
+
+Não só isso, mas a riqueza de detalhes também. Esta animação possui traços de cenário que nos faz prestar atenção além do esperado nas imperfeições de uma parede ou um móvel de madeira. Como os sinais de envelhecimento de uma casa onde um jovem introvertido mora com sua idosa e simpática senhoria.
+
+Ele descobre que nasceu para fazer dicionários e entra em um novo projeto para fazer um, estimado em dez anos de trabalho. Detalhes são compartilhados com o espectador como algo fascinante.
+
+E de fato é. O uso das palavras assume dimensões sagradas em uma história apaixonante.
 

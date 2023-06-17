@@ -1,27 +1,198 @@
 ---
 categories:
-- writting
-date: '2016-07-31'
-link: https://www.imdb.com/title/tt3691740
-tags:
-- cinemaqui
-- movies
-title: O Bom Gigante Amigo
+- coding
+date: '2009-09-09'
+tags: null
+title: 'O boot no Windows: pré-NTLDR'
 ---
 
-O Bom Gigante Amigo é um filme de criança baseado em um livro para crianças. Produzido pela Disney e dirigido por Steven Spielberg, deveria ser o ápice da pureza e inocência, mas traz uma forte carga política em sua mensagem, acidental ou não. Pode ser impressão de uma história fraca e sem muito sentido, mas só por sugerir uma relação entre sua lúdica história e a história da Europa contemporânea é digno de nota.
+Conforme fui estudando para recordar os momentos sublimes do boot do Windows me deparei com o artigo mais "espetaculoso" de todos os tempos sobre esse assunto, parte integrante do livro [Windows Internals](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=Windows+Internals&site_origem=1293522) e escrito pelo nada mais nada menos Mark Russinovich: **Boot Process**, no capítulo 5, "Startup and Shutdown".
 
-A história começa com a pequena Sofia (Ruby Barnhill), uma menina que mora em um orfanato em Londres e tem insônia. Em uma das noites que era a única acordada, viu um velhinho agigantado, da altura de um prédio de três andares, da janela de seu quarto coletivo. Ele a sequestra para que ela não espalhe sua existência, e a leva para a Terra dos Gigantes, onde descobre que, além de bonzinho e vegetariano, ele está cercado de outros gigantes, maiores, malvados e carnívoros (ou canibais, se você considerar que seres humanos são parentes de gigantes).
+O meu [primeiro artigo](http://www.caloni.com.br/o-boot-no-windows-sem-windows) sobre o boot sem Windows foi 80% escrito com o que eu já sabia de cabeça de tanto [mexer na MBR](http://www.caloni.com.br/depuracao-da-mbr)  e de tanto [depurar o processo de boot em 16 bits](http://www.caloni.com.br/debug-da-bios-com-o-softice-16-bits). Os artigos posteriores seriam escritos com uma pitada do que sei mais a "inspiração" da minha pesquisa. Apesar de não parecer pouco para os que não sabem inglês, deixa a desejar para os que sabem (boa parte dos meus leitores, imagino).
 
-Concebido como uma fábula infantil pelo livro de Roald Dahl, é fascinante observar a perfeição estética das rugas, das feições, dos cabelos e dos movimentos do gigante-herói, apelidado de BGA (Bom Gigante Amigo). A fotografia de Janusz Kaminski, colaborador habitual de Spielberg, denota um amarelo que soa onírico, com direito de aprimorar as texturas da direção de arte que deixam o aspecto do filme muito próximo de um livro ilustrado. Tanto a Terra dos Gigantes quanto Londres conseguem fazer parte do cenário que abriga este ser maravilhoso sem soar deslocado.
+Nesse caso decidi salpicar a explicação com uma boa dose de _reversing_ para aproveitarmos a caminhada e fuçarmos um pouco no funcionamento interno dos componentes de boot e ver no que dá. Antes de começar, porém, aviso que este não é um tratado sobre o sistema de boot. Eu diria que é apenas o resultado de algumas mexidas inconsequentes pelo _disassembly _do código de boot. Espero encontrar alguém tão curioso (ou mais) do que eu que compartilhe o que achou de todo esse processo. Antes de mais nada um mapinha para vermos até onde chegamos:
 
-Para melhorar ainda mais a aproximação com contos infantis, a dublagem de Mark Rylance (Ponte dos Espiões), que faz o Gigante Amigo, embola sua voz e faz os erros de fala da criatura ritmar com seus movimentos lentos e desajeitados, algo que se perde na legenda em português, que floreia demais o vocabulário do gigante, e a própria dublagem do áudio no Brasil, que desmerece todo o cuidado empregado pelo ator. Ruby Barnhill, por sua vez, tem pouco a acrescentar a Sofia, que é uma criança genérica quase sem nenhum passado ou particularidade.
+{{< image src="boot-map.png" caption="boot-map.png" >}}
 
-O que nos leva ao pior do filme: sua história. Iniciando com relativo interesse, o roteiro de Melissa Mathison (E.T. - O Extraterrestre) não consegue ganhar força em nenhum momento, pois se limita a descrever aquele mundo como um passeio quase que inofensivo a um dos parques da Disney (se há algum perigo ele é meticulosamente planejado). Quando é necessária alguma ação, ela acontece pelos motivos errados. Só para citar o erro mais óbvio da trama: se para BGA a motivação em sequestrar Sofia era nunca ser visto, isso vai por água abaixo por muito pouco, já que nunca compramos a automática relação de amizade e confiança entre os dois. A não ser, é claro, que apenas o fato de usar as mesmas roupas de um antigo amigo do gigante (possivelmente a criança do livro original) seja prova de autenticidade. Paradoxalmente se torna exatamente o contrário.
+Pelo visto esse foi só o começo. O próximo passo é saber como do setor de boot chegamos ao NTLDR. O que não é nenhum segredo, uma vez que o NTLDR é um arquivo que fica na pasta raiz do sistema de arquivos. Como todos sabemos, qualquer assembly 16 bits de 400 bytes de tamanho consegue ler um arquivo de 250 KB na memória e executá-lo.
 
-E se a trama principal soa preguiçosa e deselegante -- principalmente por ensinar às crianças que mentir para conseguir o uso da força ao seu favor é OK -- os detalhes são igualmente jogados à conveniência do roteiro. Em dado momento, aprendemos como os sonhos são armazenados por BGA; em outro, magicamente e garota já sabe que é possível combinar diferentes sonhos. Isso sem contar o completo disparate de um quadro da rainha da Inglaterra ser o suficiente para mobilizar toda uma cadeia de ideias.
+{{< image src="YSNdf8w.png" caption="boot-components.png" >}}
 
-Porém, o pior mesmo é a "solução" apresentada pelo filme para os gigantes maus e selvagens. Mesmo vivendo na Terra de Gigantes e nunca haver qualquer menção de que eles atacariam Londres, apenas o risco de fazê-lo desencadeia um poderio militar que invade a terra mágica e define o destino daquelas criaturas para sempre. Não é possível saber com certeza se isso tem pouco ou muito a ver com a crescente onda xenofóbica na Europa decorrende da imigração desenfreada, mas fica difícil não relacionar dois atos insensatos relacionados com um povo estranho e "selvagem".
+Se o NTLDR não conseguir ser encontrado, o seguinte erro será exibido:
 
-Sem conseguir contar qualquer história, mas ao mesmo tempo conseguindo entreter crianças e adultos pela simples arte de contar acontecimentos, O Bom Gigante Amigo é um filme de crianças que serve para adultos com mente de criança. Isso não seria preocupante se fosse uma péssima educação para os pequeninos, que aprendem desde já a resolver seus conflitos no punho.
+{{< image src="JNekHia.png" caption="error-ntldr-missing.png" >}}
+
+Que usuário merece ver isso?
+
+Bom, se ele soubesse analisar o assembly do setor de boot, seria fácil entender essa mensagem. E analisar o assembly é simples demais, quase tão simples quanto entender a mensagem acima. Tudo que precisamos é do programa **Debug 16 bits**, como o que já vem com o Windows ou [aquele mais turbinado d](http://www.freedos.org/cgi-bin/lsm.cgi?mode=lsm&lsm=base/debug.lsm)[o FreeDOS](http://www.freedos.org/cgi-bin/lsm.cgi?mode=lsm&lsm=base/debug.lsm).
+
+Podemos usar o Debug 16 bits para abrir o setor de boot salvo em algum arquivo e analisá-lo. Esse "salvo em algum arquivo" nós podemos obter usando o [HxD](http://mh-nexus.de/en/hxd/), um sofware bom demais que eu uso quase todos os dias da minha vida, ou para analisar os primeiros setores do disco ou ler arquivos binários que caem na minha caixa de e-mails.
+
+Eu não vou explicar como salvar um setor do disco em um arquivo. Pelamordedeus, isso é fácil demais. É só fuçar que se acha um jeito.
+
+Se bem que, como esse é um quase-tutorial, vão abaixo apenas algumas dicas:
+
+(1) no primeiro setor do disco de boot, podemos encontrar a tabela de partições;
+
+(2) nessa tabela, a partição ativa é a que começa com 0x80;
+
+(3) existe um campo onde é possível obter o offset de onde está o primeiro setor dessa partição (em setores);
+
+{{< image src="EfbrmZd.png" caption="finding-part-boot.png" >}}
+
+(4) uma simples conversão de Little Endian e de hexadecimal para decimal nos retorna o número do setor que precisamos;
+
+{{< image src="qSx2aLD.png" caption="converting-setor.png" >}}
+
+(5) o próprio HxD nos consegue levar para esse setor, de onde podemos selecioná-lo e salvá-lo em um arquivo!
+
+{{< image src="mZoLCyZ.png" caption="first-partition-sector.png" >}}
+
+Isso é tudo o que você precisa para fazer engenharia reversa do setor de boot. Bom divertimento!
+
+#### Análise estática x análise dinâmica
+
+Existem duas formas que conheço para analisar o _disassembly _de um setor de boot pelo Debug. Para os que gostam de aventuras radicais (RPG em modo texto?) existe a análise dinâmica, que consiste em digitar no prompt do DOS o comando Debug e o nome do arquivo salvo com o setor de boot. O primeiro comando u irá desmontar os primeiros bytes do setor (e, portanto, as primeiras instruções). Eu costumo fazer isso para uma visão geral de cinco minutos.
+
+A segunda forma de análise que exixte é para os preguiçosos que não conseguem fazer tudo no mesmo dia e optam por salvar o dump do disasssembly em um segundo arquivo. Para realizar essa proeza usando o Debug não é preciso mais que três neurônios:
+
+(1) digite em um arquivo chamado u.bat o seguinte conteúdo:
+
+    
+    u 100 400
+    q
+
+(2) rode o debug como a linha abaixo:
+
+    
+    debug < u.bat > a.asm
+
+(3) Pronto! Temos um a.asm com toda a saída do setor de boot. Agora podemos analisá-la e editá-la:
+
+    
+    ; Salto inicial
+    0CDD:0100 EB52              JMP     0154
+
+    
+    ; Esses são dados que percebi que são usados pelo código, então copiei do HxD
+    Offset(h) 00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F
+    
+    00000000           4E 54 46 53 20 20 20 20 00 02 08 00 00     NTFS    .....
+    00000010  00 00 00 00 00 F8 00 00 3F 00 FF 00 00 20 3F 01  .....ø..?.ÿ.. ?.
+    00000020  00 00 00 00 80 00 80 00 FF 1F 03 00 00 00 00 00  ....¿.¿.ÿ.......
+    00000030  55 21 00 00 00 00 00 00 02 00 00 00 00 00 00 00  U!..............
+    00000040  F6 00 00 00 01 00 00 00 8E 4F 78 94 71 78 94 5C  ö.......¿Ox¿qx¿\
+    00000050  00 00 00 00                                      ....
+    
+    ; Inicializa pilha e registradores
+    0CDD:0154 FA                CLI
+    0CDD:0155 33C0              XOR     AX,AX
+    0CDD:0157 8ED0              MOV     SS,AX
+    0CDD:0159 BC007C            MOV     SP,7C00
+    0CDD:015C FB                STI
+    0CDD:015D 68C007            PUSH    WORD 07C0
+    0CDD:0160 1F                POP     DS
+    0CDD:0161 1E                PUSH    DS
+    0CDD:0162 686600            PUSH    WORD 0066
+    0CDD:0165 CB                RETF
+    
+    ; Confere assinatura 'NTFS' inicial
+    0CDD:0166 88160E00          MOV     [000E],DL
+    0CDD:016A 66813E03004E5446
+              53                CMP     DWORD PTR [0003],5346544E
+    0CDD:0173 7515              JNZ     018A
+    
+    ; Confere instalação do disco
+    0CDD:0175 B441              MOV     AH,41
+    0CDD:0177 BBAA55            MOV     BX,55AA
+    0CDD:017A CD13              INT     13
+    0CDD:017C 720C              JB      018A
+    0CDD:017E 81FB55AA          CMP     BX,AA55
+    0CDD:0182 7506              JNZ     018A
+    0CDD:0184 F7C10100          TEST    CX,0001
+    0CDD:0188 7503              JNZ     018D
+    0CDD:018A E9DD00            JMP     026A
+    
+    ; Pega os parâmetros do disco
+    0CDD:018D 1E                PUSH    DS
+    0CDD:018E 83EC18            SUB     SP,+18
+    0CDD:0191 681A00            PUSH    WORD 001A
+    0CDD:0194 B448              MOV     AH,48
+    0CDD:0196 8A160E00          MOV     DL,[000E]
+    0CDD:019A 8BF4              MOV     SI,SP
+    0CDD:019C 16                PUSH    SS
+    ...
+    0CDD:01BE 2BC8              SUB     CX,AX
+    0CDD:01C0 66FF061100        INC     DWORD PTR [0011]
+    ; Loop de leitura do disco
+    0CDD:01C5 03160F00          ADD     DX,[000F]
+    0CDD:01C9 8EC2              MOV     ES,DX
+    0CDD:01CB FF061600          INC     WORD PTR [0016]
+    0CDD:01CF E84B00            CALL    021D
+    0CDD:01D2 2BC8              SUB     CX,AX
+    0CDD:01D4 77EF              JA      01C5
+    ; O que será isso? RFIL não nos diz nada...
+    0CDD:01D6 B800BB            MOV     AX,BB00
+    0CDD:01D9 CD1A              INT     1A
+    0CDD:01DB 6623C0            AND     EAX,EAX
+    0CDD:01DE 752D              JNZ     020D
+    0CDD:01E0 6681FB54435041    CMP     EBX,41504354
+    0CDD:01E7 7524              JNZ     020D
+    0CDD:01E9 81F90201          CMP     CX,0102
+    0CDD:01ED 721E              JB      020D
+    ; Algum tipo de inicialização
+    0CDD:01EF 16                PUSH    SS
+    0CDD:01F0 6807BB            PUSH    WORD BB07
+    0CDD:01F3 16                PUSH    SS
+    0CDD:01F4 68700E            PUSH    WORD 0E70
+    0CDD:01F7 16                PUSH    SS
+    0CDD:01F8 680900            PUSH    WORD 0009
+    0CDD:01FB 6653              PUSH    EBX
+    0CDD:01FD 6653              PUSH    EBX
+    ...
+
+Se fuçarmos por um tempo esse código podemos encontrar várias coisas interessantes, como por exemplo a mensagem que é exibida quando o setor de boot não contém a assinatura padrão 0x55 0xAA em seu final:
+
+{{< image src="7dZZZag.png" caption="error-checking-part-sect-signature.png" >}}
+
+ Outra coisa interessante é encontrar a sub-rotina que carrega blocos e blocos de conteúdo do disco na memória, utilizando-se para isso da [interrupção 0x13 função 0x42](http://www.ctyme.com/intr/rb-0708.htm): a leitura estendida!
+
+    
+    ; Leitura de blocos bem grandes no disco
+    0CDD:021D 6660              PUSHAD
+    0CDD:021F 1E                PUSH    DS
+    0CDD:0220 06                PUSH    ES
+    0CDD:0221 66A11100          MOV     EAX,[0011]
+    0CDD:0225 6603061C00        ADD     EAX,[001C]
+    0CDD:022A 1E                PUSH    DS
+    0CDD:022B 666800000000      PUSH    DWORD 00000000
+    0CDD:0231 6650              PUSH    EAX
+    0CDD:0233 06                PUSH    ES
+    0CDD:0234 53                PUSH    BX
+    0CDD:0235 680100            PUSH    WORD 0001
+    0CDD:0238 681000            PUSH    WORD 0010
+    0CDD:023B B442              MOV     AH,42
+    0CDD:023D 8A160E00          MOV     DL,[000E]
+    0CDD:0241 16                PUSH    SS
+    0CDD:0242 1F                POP     DS
+    0CDD:0243 8BF4              MOV     SI,SP
+    0CDD:0245 CD13              INT     13
+    0CDD:0247 6659              POP     ECX
+    0CDD:0249 5B                POP     BX
+    0CDD:024A 5A                POP     DX
+    0CDD:024B 6659              POP     ECX
+    0CDD:024D 6659              POP     ECX
+    0CDD:024F 1F                POP     DS
+    0CDD:0250 0F821600          JB      026A
+    0CDD:0254 66FF061100        INC     DWORD PTR [0011]
+    0CDD:0259 03160F00          ADD     DX,[000F]
+    0CDD:025D 8EC2              MOV     ES,DX
+    0CDD:025F FF0E1600          DEC     WORD PTR [0016]
+    0CDD:0263 75BC              JNZ     0221
+    0CDD:0265 07                POP     ES
+    0CDD:0266 1F                POP     DS
+    0CDD:0267 6661              POPAD
+    0CDD:0269 C3                RET
+
+Enfim, todo esse assembly para fazer apenas uma coisa: achar o NTLDR na diretório-raiz da partição onde estamos, carregá-lo na memória e executá-lo. O que se passa a partir daí é o que iremos abordar na futura continuação. Não perca!
 

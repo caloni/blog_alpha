@@ -1,25 +1,20 @@
 ---
 categories:
 - writting
-date: '2021-02-15'
+date: '2016-01-19'
+link: https://www.imdb.com/title/tt0096438
 tags:
-- coffee
-title: Uma Breve História Sobre Preconceito (e Café)
+- movies
+title: Uma Cilada para Roger Rabbit
 ---
 
-Eu me lembro de vídeos antigos de moedores de café manuais em que o sujeito fica 10 minutos no YouTube girando aquela matraca até conseguir tirar de alguns grãos de café o pó para seu cafezinho matinal. Fiquei com a impressão de que todo moedor manual era assim e desisti na hora de ter um, optando por um elétrico.
+Um filme de 1988 que conseguiu unir desenhos com live action de uma maneira que até hoje não parece datado. Sua grande sacada é já fazer um filme de época, a Hollywood da década de 40, e embutir todos os desenhos icônicos em um longa-metragem que é usado apenas para realizar essa façanha, mas que em si possui um roteiro com uma trama inteligente por utilizar a própria fusão do mundo dos desenhos e dos humanos.
 
-Alguns anos depois o motor do meu moedor elétrico dá pau. Eu não sei o que é e ele não me deixa saber. A montagem é feita de tal forma que fica difícil arrancar o motor e a ignição para saber em que lugar é o problema. Depois de algumas horas analisando condutividade dos cabos desisto e parto para buscar um substituto, e rápido, pois estou com um estoque considerável de alguns quilos de grãos em casa.
+Seu herói é Roger Rabbit (Charles Fleischer), um coelho que foi criado para o filme e que atua em um desenho animado em Hollywood. Sim, os desenhos atuam em... desenhos. Quando seu produtor contrata o detetive Eddie Valiant (Bob Hoskins) para descobrir se a mulher de Roger o está traindo, a voluptuosa Jessica Rabbit (cuja modelo de corpo foi Betsy Brantley), uma rede de intrigas se forma quando Marvin Acme (Stubby Kaye), dono dos projetos que envolvem os desenhos, é assassinado. Perseguido como principal suspeito pelo Juiz Final (Christopher Lloyd) e sua gangue de fuinhas, Roger agora precisa provar sua inocência e reaver o suposto testamento que Acme teria escrito, deixando a terra dos desenhos para os próprios desenhos.
 
-Dólar subiu, quase não existem moedores nacionais e os que existem usam a tabela de fora. Ou seja, agora os preços dos moedores elétricos que havia pesquisado mais que dobraram de preço. Chateado de ter perdido o moedor tão cedo, começo a namorar a ideia de ter um manual novamente. Vejo novos vídeos que me apresentam a evidência de que alguns costumam demorar 40 segundos de moagem manual para o café matinal. Interessante.
+Pela premissa do filme já é possível imaginar que o diretor Robert Zemeckis (De Volta para o Futuro) abraçou o projeto de unir desenhos e pessoas de todas as formas possíveis, nunca se furtando em perceber o absurdo daquela realidade. Com isso, torna tudo muito mais crível, em um mundo onde todos consideram a existência de desenhos na vida real um fato consumado. Ao ver as sequências em que desenhos e humanos interagem chega a ser ainda impressionante, e isso 27 anos depois. Você acredita de fato que os desenhos fazem parte daquela realidade fantástica. Boa parte dessa crença também provêm dos próprios personagens humanos, que possuem um ar de desenho em sua forma de agir, o que pode ser explicado pelo próprio convívio com tantos desenhos.
 
-Decido arriscar pelo moedor de entrada disponível rapidamente em qualquer loja online para entrega imediata. Se trata de um Hario Slim, um dos três modelos disponíveis desta fabricante de filtros que popularizou a ideia hipster de que há uma maneira adequada de passar o café e que essa maneira deixa fluir o líquido e o ar quente subindo em espiral, analisada por samurais por milhares de anos. Enfim, eles conseguiram uma parcela do mercado de hipsters para acreditar nessa psicologia barata para consumidores com dinheiro.
+A direção ágil de Zemeckis não nos dá tempo de ficar pensando nos detalhes de logística de como seus efeitos são possíveis. Em vez disso, focando em sua trama e a levando em ritmo acelerado em um clima de eterna urgência, conhecemos o mundo dos desenhos, como eles funcionam, se podem morrer, se podem matar, e, o mais importante, qual é a sua moral. A resposta é simples: fazer rir.
 
-O moedor deles é bom, de moinho, e de cerâmica (não enferruja) e emperra um pouco em alguns momentos. Chegando em casa decido testar uma moagem fina, apenas três níveis acima do fechamento completo do moinho. O resultado foi um pó de café incrivelmente consistente, inacreditavelmente melhor, inclusive, do que os resultados que obtinha com o meu antigo elétrico.
-
-Claro que nem tudo são flores. Essa moagem fina demorou alguns minutos de esforço físico para girar a matraca. Nada extenuante, no entanto. É praticamente o tempo que espero a água esquentar antes de passar o café. Fora que não uso moagem tão fina no dia-a-dia.
-
-Eu achei que ia ser só um quebra galho até encomendar outro elétrico na gringa. Porém, o sabor do café ficou absurdamente melhor! E o pior é que eu não tenho certeza do porquê. Há duas explicações possíveis. A mais esotérica é que moedores elétricos ou com moinho de metal deixam o sabor mais "metálico", o que me pareceu mais um golpe psicológico de marketing digno da Hario, que já vende um coador comum como se fosse mágico. A mais convincente para mim foi de que a qualidade do moinho de cerâmica faz o grão moído muito mais simétrico e consistente, ou pelo menos a moagem gera menos daqueles pozinhos que pegam estática e "sujam o café final". De qualquer forma, assim que é moído o café exala um aroma absurdo de vivo, melhor do que eu tinha com o elétrico, e o sabor é bem mais complexo.
-
-Espero que não seja um golpe psicológico que estou sofrendo e que isso se mantenha por mais tempo, pois a moral da história é que o mesmo grão que antes estava sendo moído eletricamente ficou mais equilibrado com o moedor manual. Mordi a língua ao falar mal dos manuais alguns anos atrás. Existem alguns que de fato são muito bacanas. Caros, pois são hipsters, mas bacanas. Para quem faz um café individual matinal pode ser uma escolha interessante, portátil e menos barulhenta.
+Conseguindo unir figuras tão absurdas e ainda colocar um drama de filme "noir", cujo ótimo Bob Hoskins é protagonista, além de apresentar a estonteante Jéssica Rabbit, um feito e tanto para a época, Uma Cilada Para Roger Rabbit pode ainda ser acusado de ingênuo e infantil, o que é ótimo que o seja. Quer dizer que o projeto de unir adultos e desenhos funcionou em seu máximo.
 

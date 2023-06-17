@@ -1,18 +1,19 @@
 ---
 categories:
 - writting
-date: '2013-08-11'
-link: https://www.imdb.com/title/tt0918575
+date: '2017-01-12'
 tags:
 - movies
-title: Victim
+title: Vidas de Carolina
 ---
 
-Adoro filmes que me surpreendem. Melhor ainda quando eles começam não prometendo quase nada. É o caso desse "Meu Passado me Condena" (Victim, no original e no IMDB), que inicia como um thriller nada original, caminha por estradas tortuosas do gênero para finalmente se definir no terceiro ato com seu momento glorioso que nos faz voltar desde o começo e entender que nada do que parecia era exatamente como se supunha.
+O curta documental Vidas de Carolina é o primeiro trabalho da diretora Jessica Queiroz. Ele aborda a vida de uma catadora de lixo reciclável e seu talento para a narrativa. A ideia era mostrar que a capacidade pode vir de qualquer lugar e que muitos não conseguem reconhecimento por falta de oportunidade.
 
-Iniciando com um vídeo caseiro, supostamente do assassino de uma bela garota vinda do Kansas (Jennifer Howie), que parece ter relação com o sequestro e tortura psicológica de um rapaz bem apessoado que encontramos em um bar e cujo nome não sabemos (Stephen Weigand), acompanhamos seu sofrimento nas mãos do aterrorizante Dr. Rudolph Volk (Bob Bancroft), que tem uma voz inquietante, frases desconexas com a realidade e fala pausadamente para sua vítima, causando um mal estar pior do que já está. Tendo a ajuda de seu capanga igualmente enigmático e ainda dotado de músculos que é chamado pelo Doutor como simplesmente Sr. George (Brendan Kelly), entendemos a fuga ser algo no mínimo bem complicado, ainda mais ao acompanharmos os períodos em que o deixam debilitado através da falta de comida e por queimarem todos seus dedos de uma vez (o que mais uma vez reforça a nossa falta de identificação com o rapaz).
+Infelizmente, essa oportunidade também é perdida em seu filme. Carolina, já falecida, mantinha suas histórias em um caderno. De acordo com um dos entrevistados, o caderno datava da década de 50, informação essa que dá asas à imaginação do espectador, que poderia resgatar inclusive memórias do trabalho excepcional de Marcos Prado, "Estamira". No entanto, pouco vemos dos escritos de Carolina, com pouquíssimas frases lidas por uma moça que surge em preto e branco (Carolina Maria de Jesus), resgatando as memórias da senhora falecida e esteticamente produzida com uma glorificação visual que não se encaixa na história da homenageada.
 
-O fato de nunca conhecermos de fato quem são essas pessoas nem suas motivações é o que torna tudo mais aterrorizante. O estilo dos diretores Matt Eskandari e Michael A. Pierce de tornar a experiência mais "thrileresca" do que deveria diminui o filme, mas não o sabota. Se torna talvez apenas mais um traço que incomoda e ao mesmo tempo despista para o aburdo desenrolar e a arrebatadora conclusão que o coloca na mesma intensidade que seu filme gêmeo, que não devo citar aqui para evitar uma dupla surpresa para quem já o tiver visto. No entanto, quem o viu/verá com certeza sabe do que estou falando.
+No entanto, apesar do endeusamento acidental e pouco propício há uma fuga da realidade, ou o seu maquiamento, já que sequer vemos a pobreza e a miséria que eram as condições de vida de nossa heroína. O conteúdo visual se disassocia da mensagem do vídeo traduzida pelos entrevistados, que sugere que as condições eram horríveis e que esta é uma situação lamentável.
 
-Dotado de uma conclusão que é capaz de nos fazer passar mal tanto pelos acontecimentos quanto pelo que eles significam metaforicamente, Victim é capaz de nos deixar pensando por horas após ter terminado, tentando colar as peças umas nas outras inutilmente. Um exercício de destreza narrativa que raramente gera aquela sensação de que gostaríamos ainda mais do resultado se pudéssemos conhecer mais sobre seus personagens. No entanto, talvez seja assim que as coisas devam permanecer. É melhor não fazer muitas perguntas e estragar todas as surpresas e mistérios que o curtíssimo longa já nos oferece.
+A direção de Jessica (e provavelmente seu roteiro) se perde ao partir para conclusões apressadas, sem antes desenvolver uma história que, a meu ver, mereceria ser contada com muito mais tempo de tela. Além disso, como todo diretor estreante, Queiroz não evita o uso de diferentes ângulos e cortes (ela também assina como montadora) que não possuem uma função muito bem definida. Há muito o que contar dessas pessoas invisíveis que perambulam pelas grandes capitais, catando o lixo que os incautos cidadãos "deixam escapar" de suas mãos ocupadas.
+
+Finalizando muito mais cedo do que a proposta inicial, Vidas de Carolina apenas não se beneficia por não ser um simples trailer para um conteúdo muito maior e se resumir ao próprio vídeo que estamos vendo. Dessa forma, fica um gostinho de quero mais no momento mais inadequado para isso: o seu próprio final.
 

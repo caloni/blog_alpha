@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2015-12-04'
-link: https://www.imdb.com/title/tt1524566
+date: '2011-01-31'
+link: https://www.imdb.com/title/tt0396171
 tags:
 - movies
-title: Perdida
+title: 'Perfume: A História de um Assassino'
 ---
 
-Esse documentário de colagens charmosas tenta resgatar do passado longínquo toda a história de uma família de cineastas, de sua ascensão até os diferentes declínios, como o fim de uma grande fortuna.
+Jean-Baptiste Grenouille é um personagem atípico. Abandonado pela mãe logo após o parto, sua maior (única?) destreza são suas capacidades olfativas: capaz de sentir o cheiro até mesmo de elementos normalmente inodoros como vidro e cobre, e isso nos submete imediatamente ao conceito de fábula, ele segue seu destino tendo como única obsessão na vida criar o perfume perfeito.
 
-Irônico é que a diretora é neta e bisneta desses cineastas, e através de sua pesquisa, que pretende resgatar evidências escondidas de quem foram seus descendentes e seus esquecidos feitos -- entre eles, mais de 150 filmes -- esconde-se também a história igualmente esquecida do Cinema Mexicano das décadas de 20 a 50, chegando até seu período pornográfico. Sim, houveram pornochanchadas por lá também.
+Sua trajetória, porém, carrega uma nuvem tenebrosa que paira sobre quem quer que atravesse o seu caminho. Para as pessoas e para o espectador, ele aparece sempre pelos cantos e na penumbra, sorrateiramente, exatamente como os odores que persegue. A fotografia, de pouco contrastre, facilita sua "identificação" nos cenários esquivos construídos para suas principais aparições.
 
-O filme começa com uma surpresa da diretora: um rolo de filme guardado em um porão mostra sua bisavó ainda criança, dançando. O pensamento fixo que se instala em sua mente é: como seus parentes tinham posses o suficiente para ter uma câmera naquela época? Essa dúvida já explica que houve uma verdadeira reviravolta na história dessa família, que vai se confundindo com a evolução do comércio cinematográfico no país.
+Dotado de pouca sorte, mas ao mesmo tempo de uma persistência inabalável em se manter vivo, Jean-Baptiste não chega a ser um heroi, nem um anti-heroi. Entretanto, se não torcemos por ele, pelo menos, assistindo a seus inescrupulosos atos, encontramos em sua história os motivos que o fazem agir, o que são por si só suficientes para estabelecer uma conexão com o personagem. 
 
-Desconhecendo o passado glorioso de sua família, convenientemente ignorado pelo governo mexicano -- que em determinado momento fechou todas as produtoras para no lugar produzir "filmes mais refinados do que a indústria estava produzindo" (sim, lá também há a péssima ideia de uma Ancine) -- a história dessas pessoas demonstra como o México foi, em determinados momentos, um polo tão ou mais importantes que seus vizinhos na Califórnia. Com público e prestígio o suficiente, as salas de cinema frequentemente eram circundadas de filas pelo quarteirão. Astros da indústria apareciam nas exibições. O sucesso permitia cobrar ingressos populares, ou até exibições gratuitas, para as crianças. Tudo jogadas de marketing sensacionais à época (as crianças serviam de chamariz para o público adulto).
+Apenas essa "empatia" já seria um feito notável. Entretanto, em seu final catártico, chegamos a visualizar uma nova dimensão criada, aumentando como em uma lupa o significado daquela sociedade histérica e moralmente reprimida. A sensação que fica é que ele é a cura nascida a partir da própria necessidade de se libertar.
 
-Porém, como todo documentário pessoal, este se perde em alguns detalhes que nada têm relação com a trajetória comercial da família -- e a insistência do filme em buscar detalhes do romance entre a avó da diretora e um ator famoso é claramente uma jogada de marketing da própria cineasta, provando incidentalmente que a mente para negócios ainda flui pelo sangue da família. No entanto, esses são pecadilhos frente ao trabalho impressionante em esmiuçar detalhes da época, principalmente os que envolviam decisões estratégicas, e possivelmente ameaças de um conglomerado de salas que buscava instaurar um monopólio forçado no país. O uso de imagens mescladas com fotos dos "envolvidos" é uma das melhores sacadas que confere um dinamismo invejável para um documentário.
-
-No conjunto da obra, mesmo com sua fluência irregular, mas com detalhes cativantes, Perdida se aproxima mais de trabalho de historiador essencial do que um filme pessoal, podendo servir de inspiração para muitos futuros produtores, mexicanos ou não. Se eles não se sentirem, é claro, incomodados pela truculência do estado e seu exército de intelectuais míopes para a indústria cinematográfica. É inútil resistir, porém. Vez ou outra, toda a pungência de uma indústria fica à mercê de quem tem muito poder e nenhum critério.
+Com uma narrativa surreal do começo ao fim, mas que se sustenta em sua coesão interna, ainda que aparentemente a história não chegue a uma conclusão palpável (mas é isso mesmo o que a torna mais notável ainda), percebemos Jean-Baptiste não só como cura daquela sociedade, mas como seu sintoma, e nada mais lógico que o filme volte por onde começou, escancarando a personificação de uma lenda que se foi, mas que uma vez existiu na imaginação das pessoas de uma sinistra época.
 

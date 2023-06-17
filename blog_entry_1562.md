@@ -1,27 +1,16 @@
 ---
 categories:
 - writting
-date: '2017-10-24'
-link: https://www.imdb.com/title/tt7169096
+date: '2021-02-15'
+link: https://bsca.com.br/property/show/id/128
 tags:
-- cinemaqui
-- movies
-title: Favela Olímpica
+- coffee
+title: Fazenda Baobá
 ---
 
-Favela Olímpica é um documentário feito sobre um evento específico que acaba colocando em debate todo um sistema injusto. Ele é o novo Cabra Marcado Pra Morrer ou o novo Aquarius? Quase. Ele tem muitos elementos desses dois filmes, especialmente o primeiro. E um dos elementos mais vitais para seu funcionamento é a impunidade tão gritante que ela se torna visível, palpável e até apontável.
+No meio das minhas compras de estocagem de café peguei 250g deste grão que veio lá da região de Média Mogiana, em São Sebastião da Grama, interior de SP (mas do lado de MG). Ele pode ser encontrado no mercado Santa Luzia e comprado online.
 
-O tema é propriedade. A propriedade, nos termos da Constituição Brasileira, é protegida. Porém, e aqui vamos para o principal "porém" de toda a Carta Magna, é dito que a propriedade deve cumprir a sua "função social". Você sabe o que é isso? Saberia definir exatamente quando uma propriedade cumpre e quando ela não cumpre a tal função social?
+ - 2021-02-16 O sabor dele não é frutado: é herbáceo. A torra me pareceu média ou média-fraca e comecei a reparar em seus tons a partir da terceira passada com moagem nível 3 na Hario Slim, temperatura acima de 95 graus e 27g por 350ml. Não é nada perene, mas ao menos agradável. Puxa mais doce que amargo e tem um tanino médio para leve. A moagem nível 3 ficou muito fina e emperrou na Aeropress; próxima tentativa é aumentar dois níveis.
 
-Pois é. Ninguém consegue. Ou melhor dizendo: consegue de acordo com seu ponto de vista. E no caso da Prefeitura do Rio de Janeiro, a função social da Vila Autódromo é menor que a função social da Vila Olímpica, que começa a ser construída do seu lado, e cujos acessos passam necessariamente pela comunidade presente ali há décadas. E com a devida posse das propriedades registrada desde 1998, dado o direito de uso dos terrenos por 99 anos.
-
-Só que nada disso importa quando as obras começam. Liderada por grandes empreiteiras, logo fica claro o real motivo da desapropriação/compra dos terrenos dos seus legítimos moradores: um condomínio de luxo, do lado da lagoa, com um enorme espaço verde que será a Vila Autódromo. Assim que os funcionários do governo e sua força policial conseguir enxotar todos de lá.
-
-O trabalho do documentarista Samuel Chalard é de vital importância, para que as informações não pareçam parciais ou incompletas. E a "Favela Olímpica" brilha nesse quesito, conquistando várias medalhas. Logo no começo nos acostumamos a ver infográficos e notícias "pixados" nos muros da comunidade, uma forma de usar o próprio mecanismo de protesto dos moradores, que pixam durante todos os anos de construção para o evento, diferentes formas de chamar a atenção para o desmantelamento de uma vila até então pacífica.
-
-O primeiro gráfico mostra a irrelevância do espaço ocupado pela vila de moradores comparado com o espaço destinado à construção da vila olímpica. No decorrer dos anos e fases do projeto, a negociação feita com os moradores para deixar suas casas em troca de apartamentos e compensação financeira aos poucos se torna o que no fundo sempre é o final de qualquer lei vaga ou injusta (como a tal "função social" da propriedade): conflito entre as forças armadas do Estado e a população, vulnerável e desamparada.
-
-O filme acompanha também os testemunhos de diferentes moradores e seus diferentes destinos. É curioso acompanhar a mudança gradativa da opinião de cada um no decorrer dos anos, seja dos moradores ou do prefeito da cidade. Enquanto o prefeito vai se tornando mais hipócrita e com discursos mais abstratos, os moradores precisam racionalizar suas decisões, desde as mais corajosas às mais conformistas, já que eles não possuem a força das armas para fazer valer a sua opinião (como a tropa de choque carioca).
-
-Dotado de uma trilha sonora apavorante, pois usa o estilo brasileiro de música com notas dissonantes, revelando o descompasso entre a teoria e a prática de uma nação, Favela Olímpica é um trabalho robusto, completo e ritmado. Os anos que passam são sentidos pelo espectador conforme o cerco entre os moradores se aperta, casas começam a sumir, tratores começam a operar. De uma maneira torta, este é um filme que aponta na cara do brasileiro o que é essa brasilidade do comodismo, do egoísmo e da malandragem. E aponta também como as coisas poderiam ser diferentes se as vozes íntegras e honestas fossem ouvidas no lugar do som do dinheiro.
+ - 2021-02-17 Hoje usei nível 5 da Hario com 24g para 300ml de água aquecida em fogo baixo na temperatura com início de bolhas subindo rápido. Fiz perculação inicial seguido de mexida com espátula. E o sabor ficou bem forte, muito mais do que o de ontem. Pegou um pouco de amargor.
 

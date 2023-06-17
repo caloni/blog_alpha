@@ -1,16 +1,24 @@
 ---
-
-Dei uma reformada em minha última palestra sobre engenharia reversa. O tema escolhido foi tentar abranger os níveis de conhecimento que uma pessoa disposta a se dedicar à engenharia reversa de programas deveria ter, desde programação, passando pelo sistema operacional e terminando no uso de ferramentas. Achei interessante abordar esse tipo de conteúdo pelo fato de existirem pessoas que gostariam de começar ou já começaram e não sabem para onde ir.
-
-Outra coisa que fiquei receoso de colocar (mas coloquei) foi a lista de tarefas para usar o conhecimento aprendido. Pode ser frustrante tentar procurar emprego nessa área aqui no Brasil e não adianta nada aprender e não usar. A engenharia reversa, assim como a área de segurança da informação, para ser efetiva, deve levar em conta como as coisas são feitas, o que quer dizer que fazer vírus e quebrar proteção de software faz parte do aprendizado.
-
-Se houverem interessados o suficiente poderei ministrar uma palestra online, para ilustrar os slides e tirar dúvidas. Lembrando que isso não inclui as perguntas "como eu quebro o programa X" ou "faz um vírus pra mim".
-
----
 categories:
 - writting
-date: '2021-05-17'
-link: https://www.eniwine.com
+date: '2020-11-14'
+link: https://www.imdb.com/title/tt7846844
 tags:
-- wine
-title: Eniwine
+- movies
+title: Enola Holmes
+---
+
+## O único teste em que ela passa é o de Bechdel
+
+Quando você pensa em escrever sobre um filme esquecível e irrelevante como  Enola Holmes a primeira coisa que vem à mente é rotular e julgar como um produto Netflix com todo seu checklist obrigatório, como o feminismo. Porém, isso é tão óbvio que não merece mais ser citado.
+
+O que merece ser refletido ao vemos um filme como Enola Holmes é como as estruturas do sistema transformam ideias com boas intenções em mecanismos de opressão.
+
+Você conhece o [Teste de Bechdel]? Foi um conceito criado para rotular filmes a partir de uma métrica simples que irei expandir conceitualmente aqui: há personagens femininas nesse filme que não são apenas instrumentos do protagonismo masculino?
+
+A popularidade dessa ideia nos faz refletir em quão poucos filmes passam nesse simples teste, e a brincadeira era como se fosse um teste. Hoje é um mecanismo de seleção de quais obras podem ou não ser produzidas.
+
+E o que isso tem relação com mecanismos de opressão e Enola Holmes? Tudo. Este romance adaptado poderia, assim como os milhares de romances lançados todo ano, a maioria com qualidade duvidosa, ser esquecido nas prateleiras, virtuais ou não, de uma livraria. A categoria: mulheres empoeiradas.
+
+[Teste de Bechdel]: https://pt.wikipedia.org/wiki/Teste_de_Bechdel
+

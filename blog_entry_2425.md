@@ -1,23 +1,21 @@
 ---
 categories:
 - writting
-date: '2021-11-01T22:34:22-03:00'
+date: '2015-02-22'
+link: https://www.imdb.com/title/tt2473794
 tags:
-- series
-title: Mr. Robot e sua redistribuição de riqueza
+- cinemaqui
+- movies
+title: Mr. Turner
 ---
 
-Aquele momento mágico em que toda a riqueza dos malvadões é redistribuída de maneira equitativa entre a população falha por pelo menos dois motivos.
+Luzes, câmera, ação. Para os pintores, especialmente para o excêntrico pintor britânico Joseph Mallord William Turner (Timothy Spall), o primeiro elemento da tríade cinematográfica também é o mais importante de uma das artes de onde se derivou a sétima. A luz, nunca levada em conta pelo público médio, é vital para a compreensão do que um quadro quer dizer, seja ele uma pintura de aquarela ou as paisagens estáticas do filme escrito e dirigido por Mike Leigh (O Segredo de Vera Drake).
 
-O primeiro é que os americanos estão bem longe de ser o povo mais pobre do mundo. Há miséria real fora da bolha ianque na mesma ordem em que eles são os 1% em relação ao mundo. Agraciá-los seria a pior forma de redistribuição de renda da história.
+O filme protagonizado por Timothy Spall (mais conhecido por seu papel de Peter Pettigrew na série Harry Potter) acompanha a vida do pintor romântico desde a morte do pai até a sua própria e esperada morte. Spall consegue a proeza de se afastar de seus papéis cômicos e colocar um filtro de mistério por trás daquele esquisito homem que bufa e respira como um porco, se mantém quieto na maioria de suas observações, mas quando fala nunca é algo que esperamos, mas sempre mais profundo e igualmente misterioso.
 
-Se fôssemos ser justos ao máximo no sentido de que riqueza foi roubada dos habitantes do planeta e está concentrada em 1% desses moradores teríamos que redistribuir essa riqueza entre todos os bilhões de seres humanos do planeta. Esqueça por um momento o lado logístico desse problema e foque mais no lado econômico.
+O mistério, aliás, é muito bem mostrado naquela própria época, onde as primeiras descobertas físicas estavam ainda sendo arranhadas, e onde coisas como prismas, agulhas magnetizadas e câmeras fotográficas eram a tecnologia de ponta. Turner vira nosso guia por diversos níveis daquele mundo, seja os primeiros passos da ciência desbravando a origem da luz, a academia de pintores e suas discussões acaloradas ou até colegas históricos e suas desavenças. Chega a arriscar ideias além do próprio personagem, questionando a propriedade das obras de arte após a morte de um artista, e se seria ético mantê-las trancadas pelo bel prazer do dinheiro de poucos, ou pertencer ao próprio povo e terras que serviram de inspiração.
 
-O escritor e defensor mais ferrenho dessa redistribuição de renda, Tomas Pikety, em seu livro O Capital no Século 21 afirma com base em cálculos bem básicos de matemática que se fôssemos fazer essa redistribuição de maneira equitativa entre todos os habitantes o saldo na conta de casa um de nós seria cerca de 4000 euros. Veja bem, é um bom valor para passar um mês em um lugar bem caro e até um ano em um lugar bem pobre, mas está bem longe de deixar qualquer uma dessas pessoas tranquila a respeito do longo prazo. Quanto mais rica.
+Porém, o que o diretor Mike Leigh parece mais fascinado é nos situar em uma época de maneirismos sociais exóticos e um ritmo lentíssimo para os padrões atuais maquiado com cortes longos -- e infelizmente muitas vezes perde-se a passagem do tempo. É um jogo arriscado que funciona mais do que deveria porque entendemos que a arte só conseguiu se concretizar através de diferentes vivências e percepções de um artista que buscava captar o momento de forma mais abrangente do que uma pessoa sentada em uma cadeira estática por dez segundos. Há vida nos rabiscos de Turner que ganham vida extra comparadas com a atmosfera de sua própria.
 
-Na vida real, voltando alguns devaneios, imagine que apenas os americanos ganharam essa bolada. Nesse momento é o país mais igual do mundo. Na vida real em menos de um ano teríamos a mesma desigualdade. Uma minoria faria um bom uso da oportunidade, mas a maioria seguiria seu modus operandi que a tornou pobre e endividada, pois o dinheiro é mero reflexo disso.
-
-Se isso não fosse verdade teríamos uma mobilidade social muito maior, pois na realidade de fato temos, mas em um nível anedótico, o que faz sentido visto os esforços sobrehumanos que os casos de sucesso precisam se dedicar para mudar seus destinos radicalmente.
-
-Acreditar que a maioria faria isso se caísse uma bolada em sua conta bancária não é apenas ingenuidade. É infantil. Ou desonesto usar esta hipótese como um argumento sério.
+Isso explica, também, como o que há em seus quadros é o que falta em suas interações sociais. Em determinado momento sua mulher tenta afastar Turner por um breve momento de seu quadro recém-pintado, no que se transforma em seus últimos suspiros. Você não afasta um homem do que ele é, nem por um segundo.
 

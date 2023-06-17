@@ -1,20 +1,19 @@
 ---
 categories:
 - writting
-date: '2016-12-04'
-link: https://www.imdb.com/title/tt5161502
+date: '2016-10-31'
+link: https://www.imdb.com/title/tt4538652
 tags:
+- mostra
 - movies
-title: 'SOMM: Into the Bottle'
+title: Sonar
 ---
 
-Para os que assistiram ao documentário "Somm", este será uma continuação natural. Para os que não o viram, não irão perder nada, pois ele não é necessário para acompanharmos mais uma viagem didática e comportada -- como deve ser -- ao mundo do vinho, desde as besteiras de pontuação, até rixas de família pela mudança da tradição, até a abertura emocionante (pelo menos para os aficionados) de garrafas enclausuradas por décadas, para constatarmos, com alegria nos olhos e nas papilas gusta/olfativas, que para alguns vinhos, envelhecer pode ser uma ótima ideia.
+Este é o segundo filme que vejo na Mostra com um personagem que grava sons do ambiente (o outro é O Que Restou da Minha Vida). Sonar escolhe falar sobre uma imigrante mulher de um país africano que ainda trata mulheres como submissas. O interessante é que, considerando o que o filme faz dessa personagem, não temos pista nenhuma que nos faça evitar em pensar que, no fundo, ela também seria no Ocidente como apenas mais uma vadia.
 
-E por falar em ideia, o objetivo mais uma vez do diretor Jason Wise é construir uma narrativa instrutiva e visual a respeito da história e dos detalhes sobre essa bebida tão "glamurizada" quanto amada. Muitas opiniões são ouvidas, desde o cultivo das uvas, as safras memoráveis, até o sistema de pontuação moderno de vinhos e a história de visionários, que transformaram determinadas regiões do planeta em novos pop stars do vinho.
+Resgatando sua história através do editor de som Wyatt através de testemunhos das pessoas que conviveram com a jovem e manipuladora Leïla, o roteiro do diretor estreante Jean-Philippe Martin divide atenções entre Wyatt e Leïla, já que se por um lado a história principal é de Leïla, é a história de vida de Wyatt que surge no meio, como a gravação do perfil de uma ex-mulher em sua vida dá a entender. Dessa forma, há um filme que, dividido, não consegue se sair bem contando a história de seus personagens, já que até o chefe do introspectivo Wyatt contém um background mais interessante.
 
-Para quem assistiu ao documentário anterior, irá constatar que Wise pretende aqui abordar o que ele não conseguiu no primeiro filme ou, o mais provável, continuar uma possivel paixão desenvolvida na produção anterior (ou, uma terceira opção, puro marketing). Seja como for, para os amantes do vinho, este consegue ser um trabalho ainda mais agradável de se assistir. Em alguns momentos, quase emocionante.
+Já a direção de Jean-Philippe é correta, poética e enfadonha até a morte. Seu uso de closes, câmera subjetiva tremendo apenas é aceitável quando intercalada com tomadas mais simples, que incluem o cenário, ou até as belas panorâmicas de Marrocos. Com uma fotografia que mistura frio e quente entre os ambientes, não sabemos o que o filme quer dizer, exceto ser um trabalho mais profundo do que na verdade é. Além disso, mesmo sendo idealmente um filme sobre os sons -- humanos ou não -- curiosamente a trilha sonora é quase completamente suprimida, exceto uma música branca para gerar transições. Além disso, os sons capturados por Wyatt de nada adiantam para desvendarmos o filme, pois o som ambiente tanto da França quanto da África se confundem. Ouvir pássaros e grilos se torna uma tentativa patética de dar vida aos cenários externos.
 
-Porém, a dinâmica do filme não permite, diferente do vinho, parar para respirarmos. Wise está disposto a dar um panorama geral do mundo do vinho em dez episódios que se abrem como uma carta de vinhos do restaurante. Muitos dos episódios se cruzam, e dão a ideia errada de seu título. Isso é uma falha mais dos entrevistados -- ou dos roteiristas -- do que a própria maneira de Wise de mostrar cada faceta do mundo do vinho. De qualquer forma, é interessante voltar a um tema já abordado para vê-lo com outros olhos, e se tratando de um filme curto e dinâmico como esse, curiosamente se aproveita mais indo e voltando a pequenos detalhes, como as notas de degustação, cujos sabores são vistos conforme os sommeliers os descrevem.
-
-"SOMM: Into the Bottle" quer iniciar uma franquia, reutilizando personagens do filme original e dando espaço para futuros trabalhos que adentrem em um aspecto mais técnico do mundo dos vinhos. Acredito que dificilmente atingirá esse objetivo se focar no espectador médio. Terá que ser mais um vídeo informativo para aficionados pelo tema, ou os roteiros terão que ser cada vez mais inspiradores para chamar a atenção. Seja como for, você na verdade nunca sabe o que esperar da próxima garrafa até abri-la.
+Ao final, somados os prós (direção correta) e contras (quase todo o resto) o filme ainda consegue ser assistido sem maiores percalços, o que é uma forma bonita de dizer que o espectador não vai morrer de tédio durante a sessão, mas tão pouco irá morrer de amores. Para um filme que brinca com o som, algo virtuoso na arte do Cinema, acaba se tornando para o espectador médio ruim e medíocre, mas para o cinéfilo decepcionante.
 

@@ -1,48 +1,16 @@
 ---
 categories:
-- coding
-date: '2014-04-08'
-tags: null
-title: 'Lambda: o Retorno!'
+- writting
+date: '2014-09-21'
+link: https://www.imdb.com/title/tt0108065
+tags:
+- movies
+title: Lances Inocentes
 ---
 
-Na última vez que foi abordado o tema "lambda na ferida" falamos brevemente sobre como C++ agora permite criar funções dentro de funções. Hoje vamos apenas falar que aquela construção bizarra que criamos fica ainda mais bizarra se precisarmos retornar alguma coisa dessa função ou usá-la mais de uma vez.
+Estreia do diretor Steven Zaillian, Lances Inocentes conta a história do jovem enxadrista Joshua Waitzkin baseado no livro escrito pelo seu pai. No entanto, seria simplista demais considerá-lo um filme apenas sobre xadrez (ou sobre jovens enxadristas), uma vez que o roteiro escrito também por Zaillian busca não apenas compreender o universo desse microcosmos de pessoas obcecadas por esse jogo como também consegue levantar diferentes questionamentos a respeito das decisões (ou indecisões) dos pais desses jovens prodígios e do próprio amadurecimento prematuro do caráter desses pequenos gênios, além de comparar a juventude inocente e ingenuamente cordial com o rancor de quem nunca chegou tão longe no ranking dos vencedores, apesar de ter dedicado toda sua vida para esta tríade lógica chamada ao mesmo tempo de esporte, ciência e... arte.
 
-{{< image src="Hrbu1ue.jpg" caption="Lambda: o Retorno" >}}
+Usando como pano de fundo o sumiço repentino de Bobby Fischer após vencer o campeonato mundial -- o único herói dos americanos nesse jogo, quando em plena Guerra Fria vencera o russo detentor do título -- a história flerta com a possibilidade do "próximo Bobby" estar em alguma dessas jovens mentes que são levadas pelos pais entusiasmados pela capacidade de seus filhos para todo e qualquer campeonato sendo disputado. Apesar de não conter cenas de ação, um dos muitos artifícios usados pelo filme para tornar um embate mental que para a maioria dos espectadores soaria maçante em algo empolgante são os cortes ligeiros e ritmados que acompanham uma trilha sonora nunca entediante. A história em si segue uma ordem cronológica simples que pontua aqui e ali momentos mais importantes da mini-carreira do jovem Joshua, mas é nas partidas e nos torneios que o engrandecimento do que está acontecendo em sua mente frenética nos tabuleiros que conseguimos acompanhar mais de perto como é a vida de quem decidiu encarar o xadrez como algo mais do que apenas diversão.
 
-O padrão do lambda é supor que sua função embutida e enlatada não precisa retornar nada, o que torna a sintaxe mais simples: é um void AlgumaCoisa(argumentos). No entanto, para algoritmos como o find_if isso não funciona, então é necessário retornar algo. E, no caso de find_if, chamá-lo mais de uma vez pode ser feito facilmente criando uma variável lambda:
-
-```
-#include "Common.h"
-#include <algorithm>
-#include <vector>
-#include <string>
-
-int main()
-{
-	std::vector<Employee> employees; // um bando de empregados
-	std::string currentDate = GetCurrentDate();
-
-	// definindo uma função, como quem não quer nada, dentro de uma função
-	auto FindByBithDate = [&](Employee& employee)->bool // <-- tipo de retorno
-	{
-		return employee.birthDate == currentDate;
-	};
-
-	GetEmployees(employees);
-
-	auto findIt = std::find_if(employees.begin(), employees.end(), FindByBithDate);
-
-	while( findIt != employees.end() )
-	{
-		SendMail(*findIt);
-		findIt = std::find_if(findIt + 1, employees.end(), FindByBithDate);
-	}
-}
-
-```
-
-O tipo de retorno que colocamos através de uma flechinha é obrigatória? De fato, não. Se eu omiti-la vai funcionar do mesmo jeito porque o único ponto de saída da minha função retorna um bool.
-
-Esses compiladores estão ficando cada vez mais espertos.
+Bônus: o verdadeiro game entre Jeff Sarwer e Joshua Waitzkin está no site chessgames.com (com alguns comentários do próprio Jeff, agora adulto!). Foi o próprio Waitzkin que elaborou as mudanças da final vista no filme para torná-la mais emocionante. Acredito que nós, enxadristas, podemos dizer que ele conseguiu =)
 

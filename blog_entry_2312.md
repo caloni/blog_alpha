@@ -1,12 +1,26 @@
 ---
 categories:
 - writting
-date: '2021-06-12'
-link: https://www.imdb.com/title/tt14267526
+date: '2010-12-20'
+link: https://www.imdb.com/title/tt1323594
 tags:
-- series
-title: 'Meu Amor: Seis Historias De Amor Verdadeiro'
+- movies
+title: Meu Malvado Favorito
 ---
 
-Um seriado de longas documentais sobre histórias de amor que já passam de décadas. Assisti o do casal do Brasil, Nicinha e Jurema. É sobre a rotina das duas moradoras da Rocinha, favela no Rio de Janeiro. De idade já avançada, elas trabalham o dia-a-dia com planos para o futuro sendo desenhados, os rituais do presente e tenras lembranças do passado. É uma edição relaxante, sem tensão alguma. Quase um vídeo de homenagem ao simples. Há pouco de tratamento na história. Elas são o que você vê na tela, e não tem como desgostar dessas duas. Não tem como desgostar de uma relação que tem dado certo por tanto tempo.
+Meu Malvado Favorito é um ótimo exemplo de filme que divide opiniões, assim como Transformers: de um lado as pessoas que veem claramente uma péssima construção de história em conjunto com péssimas sequências para esta história. De outro, as pessoas que enxergam seus méritos no projeto ou 1) por gostarem do argumento desde o início ou 2) por entenderem sua proposta de uma maneira menos... crítica?
+
+O fato é que estou do lado dos que defendem a produção, pois, apesar de perceber a artificialidade em seu roteiro e a maneira capenga com que a história é desenvolvida, consigo me divertir com as inspiradíssimas piadas, mesmo que estas soem deslocadas do contexto geral. O que segue são minhas impressões à época da estreia nos cinemas.
+
+No início percebemos uma certa plasticidade nos personagens e cenários, parecendo mais um jogo de videogame que um filme com movimentos próprios. Mas aos poucos vamos nos acostumando com esse estilo limitado de animação, em que a física não é muito realista.
+
+A piada sobre o "Banco do Mal" (antigo Lehman Brothers) é datada, mas pode ser considerada sob vários ângulos, pois eles realizam empréstimos de um negócio geralmente sem futuro, e é curioso notar as estátuas segurando as colunas da entrada do banco, esmagando-as aos poucos.
+
+Os flashbacks do protagonista e suas ideias imaginadas possuem um toque de humor negro, quando por exemplo ele imagina se livrar das meninas na montanha-russa.
+
+Significativo que o raio encolhedor estava sendo desenvolvido no leste asiático, já que eles costumam "encolher" invenções tecnológicas do Ocidente.
+
+As diferenças entre o Vetor e o protagonista se fazem sentir pelo estilo clássico e antiquado do último, conforme sua casa decorada com elementos ditos "malignos" (sofá de crocodilo, poltrona de rinoceronte, porta-casacos de cobra), detalhes démodé (carpete vermelho, maçaneta decorada das portas). O primeiro, por ser mais jovem, possui aquele estilo descolado e nerd de usar coisas com curvas mais suaves (repare a diferença no design de ambas as naves) e mais da moda (ele joga um videogame que se assemelha ao Wii).
+
+O final, que termina com com todos dançando (inclusive seu vilão) lembra filmes no estilo "poderia ser um pouco melhor". Como Quem Quer ser Milionário?, por exemplo.
 

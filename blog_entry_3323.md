@@ -1,24 +1,22 @@
 ---
 categories:
 - writting
-date: '2023-05-19'
+date: '2011-10-23'
+link: https://www.imdb.com/title/tt0364045
 tags:
-- wine
-title: Vinhos e mais vinhos (seção Rosé/Espumante)
+- movies
+title: Roubando Vidas
 ---
 
-Vinhos citados neste post:
+Esse é mais um thriller policial que envolve uma dupla de elementos que vem se tornando frequente: histórias previsíveis e Angelina Jolie. Nesse caso, Jolie é uma agente do FBI que precisa capturar um serial killer que rouba a identidade de suas vítimas.
 
- - L'Instant de Roseline 2019
- - Carmine Granata Bonarda
- - Dádivas Espumante Rosé
- - Nahe Freu Dornfelder 2018
+A trama principal, por se revelar boba e previsível desde seu início, se torna enfadonha, pois já sabemos seu desenrolar, o que se torna simples uma vez que o filme joga com todas as cartas marcadas, chegando a aplicar o velho clichê dos gêmeos de temperamentos diversos.
 
-Sim, foram muitos vinhos nos últimos dias. Três deles foram acabados no Dia das Mães.
+(É sempre bom repetir, nada tenho contra clichês bem usados, mas note a montagem dos diálogos da mãe de um dos suspeitos e perceberá parte do maniqueísmo empregado por todo o filme para enganar os espectadores mais desavisados.)
 
-L'Instant de Roseline é um vinho rosé francês. Ou seja: o cúmulo da sutileza. Contraste absurdo com o Carmine Granata Bonarda que abri em seguida. Bojudo, audaz. Agressivo e corajoso.
+Mesmo assim, o clima sombrio em que é transformada a cidade onde os crimes ocorrem, captada pelas eficientes lentes de Amir Mokri balanceiam a falta de personalidade da trilha sonora, que oscila entre noir e drama psicológico, sem nunca agradar em nenhum dos subgêneros.
 
-Já o Dádivas, um espumante que estava na adega um bom tempo, não é nem tão doce, mas nem tão amargo. Inexpressivo, mas gostoso.
+E por falar em psicologia, talvez o maior erro do filme tenha sido apostar na performance mental do serial killer, o que, infelizmente nesse caso, ainda mais depois do desfecho, revela um conceito que parece ainda inacabado e que aplica subterfúgios pedestres para que pareça mais complexa do que de fato é. Não há detalhes que eu possa revelar sem deixar a história mais previsível ainda, portanto, me abstenho.
 
-O último da lista é esse alemão, Nahe Freu, bem mais encorpado que os outros rosés que comprei em uma promoção e estavam na adega. Sabor mais sisudo e menos floral. Curioso para quem acha que todo rosé é levinho.
+Ao final, pelo menos ficamos com os olhos e os lábios de Angelina Jolie, o que é sempre um atrativo, não importando muito o gênero do filme ou sua história.
 

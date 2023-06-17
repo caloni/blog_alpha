@@ -1,23 +1,12 @@
 ---
-
-Esta é uma série de exercícios leves para começar o dia e aquecer todos os principais músculos. Gostei da lista porque não envolve (muitos) aeróbicos. Faça 30 segundos de cada movimento.
-
-1. Intro: marchinha leve estando no mesmo lugar;
-2. Squat + Knee Pull: agachar e subir, puxando um joelho de cada vez para cima, abraçando-o com os braços;
-3. Wall Down Plank: de pé engatinhar com as mãos até ao chão na posição inclinada;
-4. Flutter Kicks: deitado, movimentar os pés no ar um de cada lado como caminhando;
-5. Crunch Jack: ainda deitado esticar braços e pernas inclinadas para cima e encolher os joelhos para próximo do corpo com as mãos tocando os calcanhares;
-6. Push Up + Child's Pose: abdominal de joelho junto com posição de criança;
-7. Windmill Turns: de pé curvado totalmente para a frente e os braços abertos girar o tronco de um lado para o outro;
-8. Downward Dog to Back Bow: fazer um triângulo com seu corpo, abaixar para deitar de bruços subindo mãos e pés;
-9. Arm Cross Swing: de pé abrir e curvar os braços para o lado oposto enquanto com as pernas balançar de um lado para o outro;
-10. Front Jack: um polichinelo com os braços para a frente.
-
----
-categories:
-- writting
-date: '2021-05-28'
-link: https://www.imdb.com/title/tt0400420
+categories: []
+date: '2015-07-27'
 tags:
-- movies
-title: Exílios
+- ccppbr
+title: Existem programadores C/C++ no Rio de Janeiro?
+---
+
+Essa pergunta eu só vou conseguir saber quando chegar lá. Eu sei que existem pelo menos dois: Pedro Lamarão e André Tupinambá. Lamarão foi um dos fundadores do grupo e vem continuamente em São Paulo para nossos eventos, e agora está organizando o 12° Encontro de Programadores C & C++ do Brasil na Cidade Maravilhosa. Eu irei e palestrarei, mas espero encontrar mais programadores e palestras por lá e trocar um pouco de conhecimento.
+
+E aí, existem ou não existem programadores C/C++ no Rio de Janeiro?
+

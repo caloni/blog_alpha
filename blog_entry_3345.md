@@ -1,22 +1,26 @@
 ---
-categories:
-- writting
-date: '2014-06-07'
-link: https://www.imdb.com/title/tt1587707
+categories: []
+date: '2016-11-02'
 tags:
-- movies
-title: Saída pela Loja de Presentes
+- lists
+title: Saldo da 40a. MostraSP
 ---
 
-Exit Through the Gift Shop, ou "Saia Pela Loja de Souvenires" (alguém viu isso lançado no Brasil?), um dos indicados ao Oscar 2011 de melhor documentário, parece um documentário, e se assume como um. No entanto, seu terceiro ato é tão surreal, mas tão surreal, que surgiu a especulação de que o personagem cuja vida serviu de base para a história na realidade nunca existiu. Mais do que isso, a estrutura criada (supostamente) pelo diretor e artista de rua "Banksy", que no próprio filme dá um depoimento com seu rosto censurado e sua voz transformada, é incrivelmente bem arquitetada, pois não faz o espectador se perder ao acompanhar o filme que conta a história do homem que queria fazer um filme sobre artistas de rua, incluindo o próprio Bansky.
+Vinte e dois filmes. Essa foi a quantidade que consegui assistir nessa primeira mostra que me dedico nos dias de semana (uma bagatela de ter a própria empresa). Na maioria dos dias foram três sessões seguidas; em alguns dias tive que me ausentar, outros simplesmente entrei na sala errada! (e acabei vendo, por exemplo, o ótimo [O Contador]). No entanto, foi de longe a edição do festival em que mais vi filmes, e a primeira em que escrevi sobre todos eles.
 
-A princípio acompanhamos as filmagens de Thierry Guetta, um imigrante francês que mudou para Los Angeles e que a partir do momento que começou a filmar as coisas com sua câmera nunca mais parou. Sua garagem enche de fitas, mas ele nunca as olha novamente. Sua obsessão é estar sempre filmando sua vida e o que vê, como uma espécie de compensação por um trauma de infância.
+Ao todo foram dez dramas, seis documentários, uma animação... a maioria tentei ir na competição de Melhores Diretores, onde tive a oportunidade de ver debate com dois deles, estreantes; os outros fizeram parte da Mostra Brasil e da Perspectiva Internacional. Por fim, para não fazer desfeita, vi um dos filmes de Andrzej Wajda, o homenageado do ano, polonês que enxergou os horrores do autoritarismo através da igreja e dos sovietes. [Terra Prometida], o filme que eu vi, é a perfeita anti-propaganda nazista/comunista, já que exagera o tom na mesma medida que eles faziam quando queriam dizer que os capitalistas comiam criancinhas.
 
-Quando conheceu seu primo, um artista de rua especialista em enfeitar as ruas com imagens dos alienígenas do jogo Space Invaders (ele se auto-denomina "Invader", o uso de pseudônimos é algo bem comum, como aprendemos no filme), Thierry começa a filmar suas intervenções noturnas às paredes de cidade e no processo vai conhecendo cada vez mais pessoas envolvidas na arte de rua, um movimento ainda não popularizado.
+Dos documentários, o mais impressionante foi [Então Morri], pelo poder do Cinema mesmo com poucos recursos. Além disso, foi a primeira vez que fui convidado por um diretor a assistir seu filme. [Um Homem Insignificante], de Vinay Shukla, popula o imaginário político das massas através dos olhos do Partido do Homem Comum na Índia.
 
-Vemos os recortes de algumas filmagens de Thierry quando sabemos que ele decidiu fazer um filme sobre esse tema, mas desde o começo sabemos que o documentário que estamos vendo se trata sobre a vida do francês e seu encontro com Bansky, que virou o diretor desse segundo projeto. Porém, ambos os projetos parecem serem desenvolvidos em paralelo na narrativa, um feito e tanto que parece transformar o filme em dois em qualquer um de seus momentos.
+Das ficções, o campeão disparado para mim é [Aloys], pela metalinguagem empregada em desvendar os problemas psicológicos das pessoas solitárias, como depressão. A montagem de Aloys é uma das ótimas descobertas dessa mostra.
 
-O que ocorre no desenrolar da história, que nunca fica monótona, mas sempre parece crescer em seus detalhes, é que a arte de rua é descoberta pelos artistas da mainstream e vira objeto de mercado, ao mesmo tempo que Thierry percebe que nunca fez um filme nem tem habilidade para tal, mas começa aos poucos a entender a mente das pessoas que acompanha todas as noites.
+Minha impressão como cinéfilo foi que, nos dias de semana à tarde, as sessões estavam muito vazias. Não havia público o suficiente sequer para votar. Pode ser que a cidade não esteja tão preparada para receber as pessoas, ou, o mais provável, que a Mostra não esteja mais chamando tanto a atenção. A organização é ótima, ainda mais para quem tem credencial, e o público que frequentou as mesmas sessões que eu dividiam-se em jovens que precisam ganhar cota das faculdades de artes que devem estar fazendo, e estão aparentemente fazendo pouco caso para a sétima arte, e pessoas mais idosas que são veteranos do evento. Não há um interesse no público em geral, o que é esperado. O Cinema como arte tem morrido aos poucos, e a crítica escrita vai junto, afogando paulatinamente.
 
-O filme, ao mesmo tempo que discute o que é arte, realiza o que parece ser um dos maiores experimentos sobre o tema sendo filmado no exato momento em que acontece, o que é sensacional em diversas camadas e sentidos. O que parece absurdo está no documentário, e por isso ganha um ar realista como jamais existiria em uma ficção. Uma ficção nunca seria tão criativa quanto a realidade que vemos. E o que vemos? Eu assistiria o filme sem saber disso, se fosse você.
+De qualquer forma, um viva para o Cinema. Enquanto houver dinheiro para investir em cultura essa morte tende a ser lenta. Torço para uma Mostra em streaming em breve, como deve ser. A real democratização das artes é dar ao público todas as opções que eles merecem, mesmo que para a grande maioria isso não sirva pra nada.
+
+[Aloys]: {{< relref "aloys" >}}
+[Então Morri]: {{< relref "entao-morri" >}}
+[O Contador]: {{< relref "o-contador" >}}
+[Terra Prometida]: {{< relref "terra-prometida" >}}
+[Um Homem Insignificante]: {{< relref "um-homem-insignificante" >}}
 

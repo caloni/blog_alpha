@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2013-04-01'
-link: https://www.imdb.com/title/tt1049413
+date: '2017-07-31'
+link: https://www.imdb.com/title/tt1672214
 tags:
 - movies
-title: 'Up: Altas Aventuras'
+title: Usagi Drop
 ---
 
-Uma produção da Pixar possui, como todo o filme, o(s) nome(s) do diretor. Contudo, a dedicação dos seus produtores e toda a equipe é tamanha que transparece o amor pelo Cinema em cada canto da tela e em cada detalhe técnico de suas produções.
+Há algo novelístico e caricato nesse filme cujo único defeito é ser uma história doce e sensível sobre paternidade. E quando digo paternidade não me refiro a pais biológicos, mas à relação entre adultos e crianças que estão sob sua guarda. Por ser um filme japonês há vários detalhes culturais, mas ainda assim ele se esforça por ser universal.
 
-É o que podemos conferir em Up!, que pega uma história até que simples, um velho viúvo deseja realizar o grande sonho de sua falecida esposa, e consegue não apenas torná-la acessivel às crianças, mas faz um apelo à criança que ainda vive dentro de nós esquecida pela agruras da vida.
+Ele conta a história de uma menina de seis anos que morava com o avô do protagonista, possivelmente sua filha. O avô faleceu, estamos em seu funeral, e todo mundo deseja se livrar do fardo que é cuidar de uma criança. Ainda mais uma criança que não é nossa.
 
-Para isso a direção de arte não poupa esforços em apresentar cada elemento da vida de Carl Fredricksen remetendo à sua infância e sua vida feliz com sua amada Ellie. Não apenas isso, a própria ideia da viagem maluca de Carl já está anunciada desde o início da produção, em detalhes cada vez mais frequentes, como seu balão que simula o dirigível do seu herói, um explorador desenganado, como sua profissão de vendedor de balões. Dispensável dizer algo sobre a própria Ellie, que parece ser o grande símbolo que todos nós almejamos: a vida perfeita ao lado de alguém.
+Soa irreal para mim ver japoneses se comportando como egoístas, conhecendo sua cultura de respeito ao próximo. Talvez crianças sejam um tabu maior hoje em dia, em uma nação que se constitui cada vez mais por pessoas da terceira idade.
 
-PS: como é de praxe, preciso comentar dos primeiros 15 minutos dessa produção, que de tão sucinto e dotado das maiores qualidades narrativas do audio-visual, possui, assim como Wall-E, o seu lugar no Panteão dos grandes curtas lançados dentro de um longa. Além de emocionar o mais duro dos humanos que já viveu o suficiente para entender a grande mensagem do filme: a vida é uma aventura.
+Esta é a versão live-action de um animê que foi criado a partir de um mangá, Bunny Drop. Isso explica o cartunesco. Temos uma menininha adorável que é adorável apenas existindo. O protagonista é o jovem solteiro que a adota, seu sobrinho, e que agora irá viver o que nunca imaginou: ser pai solteiro.
+
+Há algo de doce em Usagi Drop que se mantém em seus personagens, servindo de entretenimento para o espectador, mas nunca se aprofundando mais do que frases de efeito. De qualquer forma, uma história que vale a pena ser contada e acompanhada.
 

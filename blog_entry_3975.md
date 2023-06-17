@@ -1,27 +1,21 @@
 ---
-categories:
-- writting
-date: '2018-10-27'
-link: https://www.imdb.com/title/tt7962890
-tags:
-- cinemaqui
-- movies
-title: Viagem Aos Povos Fumigados
+categories: []
+date: '2011-10-22'
+tags: null
+title: Vida e Software
 ---
 
-Viagem Aos Povos Fumigados é um documentário estilo denúncia, mas que infla conclusões precipitadas e carece de investigação mais abrangente. Ele é feito pelo documentarista itinerante Fernando Solanas, que descobriu uma pista para esta impactante história ao final das filmagens de seu último trabalho.
+Desenvolver software está bem longe de ser uma ciência exata e muito próxima de ser uma ciência humana. Eu, pessoalmente, considero um ramo esotérico, onde vale muito mais ter a atitude de reconhecer que não temos muito controle sobre como as coisas funcionam do que querer ter as rédeas de algo desgovernado.
 
-Dessa forma o filme segue parecendo um relato investigativo sem a investigação. Solanas tem muito a dizer e pouco a avaliar sobre a velha questão dos agrotóxicos usados para aumentar a produção de alimentos e que vem causando doenças e mortes por conta da aplicação incorreta e pelo impacto ambiental generalizado.
+Não sei bem o motivo. Talvez por existirem muitas camadas o software não consegue ser normalizado como as propriedades físicas dos blocos que montam um prédio ou um transatlântico. Ou simplesmente existem variáveis demais na própria camada da aplicação que impedem a compreensão total do problema (como sabemos se estamos dentro da Matrix? Como o software sabe se está em um ambiente virtualizado?).
 
-O epicentro do filme é a província de Salta, na Argentina. O desmatamento crescente vai destruindo as terras pertencentes aos povos nativos, que sobreviviam bem há mais de 200 anos e hoje perdem sua forma de subsistência natural pela monocultura da soja feita pelos "donos" do terreno. Algo essencialmente errado está acontecendo aqui, mas ninguém se mobiliza a respeito.
+Para os piores casos, o software sempre vai ter que confiar em seu ambiente e as regras, aparentemente imutáveis, que o regem. Ele precisar confiar não o exime de controlar seus próprio limites, e é aí que recai a atitude do programador, atitude essa que reflete diretamente nossa visão sobre a vida.
 
-A questão da soja vai puxando outras questões que inevitavelmente caem na questão dos agrotóxicos. Mas antes há alguns argumentos misturados a respeito de transgênicos, pequenos fazendeiros e poluição da água, e todos convergem para uma crítica que berra em uníssono contra a exploração da terra pelas grandes corporações. A alternativa? Orgânicos, é claro.
+Já vi muitos programadores (eu me incluo) deixando o código pronto para o melhor dos mundos e dando a tarefa por concluída. Otimismo demais? Desleixo? Ou arrogância? Qualquer que seja o motivo, ele está incrustado na própria visão de vida do programador e de como ele se vê no mundo. Eu, particularmente, fico horrorizado com código assim. Não com todos, mas com os que são visivelmente importantes e que necessitam de um carinho especial. São os alicerces para outros códigos, de repente.
 
-O maior pecado do longa é ter apenas um lado e assumir qualquer explicação desleixada para o outro lado ("ah, é tudo pelo lucro"), mas isso acaba empobrecendo um debate interessantíssimo sobre vários temas, debate esse que o documentarista tenta dar voz à população afetada.
+Outra atitude igualmente deformada é achar que o mundo vai acabar se não existirem todos os sanity checks (até os mais bizarros) em qualquer meia-dúzia de linhas. É o paranóico, que pode se dar bem no tipo de código importante já citado, mas que nunca vai conseguir entregar um projeto trivial se for baseado em libs escritas pelos outros e cujo código nunca deu uma "lida rápida". Aliás, essa mesma atitude "deu uma lida" demonstra que o pessimista pode ser ainda mais arrogante, pois acredita conseguir capturar toda a complexidade do sistema apenas lendo seu código en passant.
 
-Já o segundo pecado é abordar vários sub-temas sem se aprofundar em nenhum deles. Assim a impressão que fica é que são problemas de análise simples e resolução mais simples ainda. O problema é que enquanto os fatos apontam para descaso total do governo para com a população o filme nunca dá uma alternativa que não seja apelar para o próprio governo com base em pressão popular, se tornando contraditório em seu núcleo de discussão.
+De uma forma ou de outra, como toda atividade humana, escrever código nos define não apenas como bons programadores, mas como bons humanos, com seu conjunto de crenças e valores. O que, de certa forma, é um bom sinal, pois melhorando como seres humanos, melhoramos como programadores. E vice-versa.
 
-Mas não me leve a mal. O trabalho é ótimo, com uma excelente edição e boas entrevistas e pesquisa. Há ainda uma direção inspirada, que utiliza da montagem para ilustrar os acontecimentos narrados pelos entrevistados. Quando uma professora fala sobre um avião com agrotóxicos em cima da escola e os alunos indo se esconder não há vídeo desse dia, mas o filme emula da mesma forma mostrando um avião e crianças correndo. É uma dramatização eficiente.
-
-Porém, qual a validade de um trabalho documental que apela demais para a emoção e se esquece de analisar todos os lados da questão? Fica a reflexão para um espectador mais crítico.
+ - Para quê filosofia?, por Marilena Chauí.
 

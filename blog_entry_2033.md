@@ -1,20 +1,15 @@
 ---
 categories:
 - writting
-date: '2019-12-08'
-link: https://www.imdb.com/title/tt4729430
+date: '2021-11-08T19:02:49-03:00'
 tags:
-- movies
-title: Klaus
+- animes
+title: Komi Can't Communicate
 ---
 
-Ideias brilhantes soam óbvias depois de ditas, e Klaus está amparado pela ideia brilhante do animador Sergio Pablos de tal forma que é difícil se desvencilhar de sua beleza intrínseca, ainda mais se considerarmos que o espírito de natal nunca esteve tão desgastado.
+A estética do anime me agrada muito. Esse lance de cenários em 3D e personagens semibidimensionais inseridos em suas próprias neuras através de ajuda visual, mudança de fundo, etc. A própria movimentação da câmera é muito agradável de se ver e a direção acerta em cheio, pois o tema é sobre a tensão de alguém com crise de ansiedade ao tentar interagir com outras pessoas.
 
-A história dessa animação sem inspiração nos traços, mas com muita identidade nas cores, é contar a história de como surge uma lenda sem pé nem cabeça como a de Papai Noel. Inventada através de uma mistura entre folclose e atualizada como lenda urbana, hoje para muitos o velho Noel é um acumulado de absurdos. E "Klaus" se insere dentro desse contexto para resgatar o que há de mais importante, no meio dessas lendas de renas voadoras ou uma pessoa robusta entrar pela chaminé: a força de ajudar as pessoas sem querer nada em troca. Apenas pela gentileza.
+Um ponto negativo para os espectadores no Brasil é que as legendas em português estão estragadas, foram adaptadas por um retardado ou foi a pedido da Netflix que o idioma foi corrompido no momento que apresenta um garoto que veste saia. Esta é uma tendência bem atual. Quer dizer, não garotos que vestem saia, mas garotos que o fazem achar que são tão importantes que merecem a reescrita do gênero neutro como já estava sendo usado há séculos. No caso do português, o uso masculino também é neutro. Caso encerrado. Apenas um pouco curioso para saber de quem veio a decisão... não, já passou. Apenas um retardado aleatório seguindo ordens de fãs e grupos sociais preocupados com sua agenda.
 
-É claro que todos os filmes sobre o Natal tentam fazer isso, mas Klaus está muito bem adaptado aos novos tempos, os cínicos novos tempos, pois usa como protagonista o filho de um milionário que não quer mais nada a não ser ficar de boas pelo resto de sua vida. Enviado para ser carteiro pela empresa do pai no lugar mais inóspito do planeta, mais ao norte possível, lá ele encontra uma alegoria que critica as tradições impensadas de um povo que se divide em dois por uma rixa histórica. E seu interesse próprio é apenas conseguir cartas para atingir a quantia que precisa para sua volta para casa.
-
-Não há mais nada de novo no filme exceto a surpresa que ele contém. Usando uma narrativa falsa no começo por tempo o suficiente para acreditarmos, a história de Sergio Pablos subverte o jogo dos protagonistas para apresentar o seu personagem-título quase na metade da história. E ele é o personagem com menos falas possíveis. O contexto fala por si próprio, e o belíssimo design de produção em torno de sua casa, de suas casas de passarinhos, seus brinquedos empoeirados e o machado estiloso. Este é um filme que esbanja contexto pelo seu visual.
-
-A trilha sonora é de uma simpatia que mistura previsibilidade com emoção. É previsível que essa história nos emocione, mas a música de Alfonso G. Aguilar apenas nos acompanha, sem forçar a situação. Quando vemos, todo o conjunto -- direção, roteiro, arte e trilha -- combinam em uníssono essa força mágica que quer resgatar o espírito de natal em tempos cínicos, onde muitos dizem que irá terminar com o conceito de família, ignorando que conceitos se transformam. A essência, nunca.
+Ainda assim, se ignorarmos os episódios e os momentos onde a língua portuguesa é assassinada por quem não a conhece (afinal, tradutores precisam conhecer a língua, mesmo?), Komi Can't Communicate não traz nada de novo como tema, é a alocação de dinheiro para assuntos socialmente engajados do serviço de streaming, como pessoas socialmente inadequadas e vamos falar sobre isso. Porém, sua linguagem visual é uma coisa apartada da história, e se engana bem. Melhor que tudo em sua volta.
 

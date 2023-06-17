@@ -1,21 +1,17 @@
 ---
-categories:
-- coding
-date: '2020-03-15'
-title: Projeto Hu Cpp
+categories: []
+date: '2018-03-21'
+tags: null
+title: Projeto Aluno
 ---
 
-Utilizo o Hugo como renderizador do meu saite já faz um tempo. Depois que juntei os posts do finado Cine Tênis Verde e do meu blogue técnico a soma dos textos ultrapassou a marca dos dois mil. Atualmente levo cerca de quinze segundos para renderizar todo o saite antes de publicá-lo.
+Observar um estudante de computação (qualquer curso) lutando nos primeiros meses para conseguir fazer seus programas compilarem em C é um misto de emoções. É uma mistura entre risos, risadas e gargalhadas. Há vários motivos para isso, mas o principal, o que vem à minha mente sempre que isso acontece, é a eterna questão: por que a pessoa encontra fórum de programação para perguntar sobre variável mas não consegue ler duas páginas de um livro?
 
-Não é uma marca ruim, considerando que estamos com quase três mil textos, e embora o leiaute do saite seja muito simples, é justamente o que eu desejo para rápido carregamento e busca. Não tenho do que reclamar.
+Essa questão está intrinsicamente ligada ao fracasso completo do sistema de ensino (qualquer nível), que no caso de programadores, se proliferou em diversas faculdades caça-níqueis porque "este é o mercado onde se ganha bem". Ninguém questiona por que se ganha bem neste mercado. É só fazer uma faculdade e o dinheiro começa a fluir. Negócio certo.
 
-Porém, um programador C nunca fica satisfeito com uma solução Golang.
+Mas quando a primeira variável começa a dar problema, o desespero bate na bunda. "Por que esse programa não está funcionando?", "Eu só queria resolver isso e voltar pra internet", "Que droga, chegou a data limite e não sei de quem posso copiar", "Por que esse exemplo que peguei sei-lá-de-onde está dando esse erro que nunca vi na vida?".
 
-Sabe esses pensamentos que não saem da cabeça? Estava devaneando há uns dias sobre se não seria interessante renderizar meu saite usando uma solução em C ou C++ e ver qual seria o resultado. Claro que seria uma solução in house, cheia de bugs e completamente limitado. Mas quem liga? Meu único objetivo é a diversão, e não pretendo criar um produto genérico. Hugo já satisfaz até o mais exigente dos programadores (exceto o Elias), pois resolve vários problemas do interminável conflito entre conteúdo e design.
+"O que é UB? Universidade do Brasil?", "Tá ficando mais complicado ainda; vou pesquisar pra ver se acho o email desse tal de Goku.", "Já sei, vou mudar de IDE! Isso, sim, vai resolver meu problema."
 
-Por falar no dito cujo, me lembrei da nossa disputa no saite Os Programadores. Era uma resolução de exercício envolvendo leitura e parseamento de um arquivo json. Tive o insight de usar algo parecido com o que desenvolvi naquela vez.
-
-O código que bolei lê um arquivo markdown e divide o header nos campos que eu utilizo e o texto em parágrafos. Esse é o começo mínimo para começar a converter os arquivos em html. Ele usa o mapeamento de arquivo em memória como no desafio do saite. Não precisaria, mas já que a diversão é fazer mais rápido que o Hugo, por que não?
-
-Meu próximo passo é pegar esse parser e converter todos os arquivos para html, da maneira mais porca possível. Quer dizer, quase da maneira mais porca. Não estou usando Pascal.
+"Ah, não. Textão ninguém aguenta!", "TL;DR".
 

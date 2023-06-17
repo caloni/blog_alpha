@@ -1,40 +1,22 @@
 ---
 categories:
-- coding
-date: '2016-04-16'
-tags: null
-title: Rank and File (Code Jam)
+- writting
+date: '2011-11-20'
+link: https://www.imdb.com/title/tt0382932
+tags:
+- movies
+title: Ratatouille
 ---
 
-Passou o Round 1A do Code Jam, e para variar, fui muito mal, só respondendo a primeira questão. A [segunda](https://code.google.com/codejam/contest/4304486/dashboard#s=p1) me fez ficar pensando um tempo desproporcional sobre como encaixar as diferentes linhas e colunas para achar a linha restante.
+Ratatouille na época representou a capacidade grandiosa que um bom roteiro e uma excepcional produção conseguiam fazer, na animação computadorizada, como limite máximo de expressão na arte cinematográfica.
 
-Basicamente, o problema pede que, dado um quadrado de tamanho N, e 2*N-1 linhas fornecidas (que podem ser linhas ou colunas), imprimir a Nésima linha. A regra das linhas é que ela possui números crescentes.
+Hoje, mais de quatro anos depois, ele continua envelhecendo como um bom vinho: ficando ainda melhor. Todas as nuances da história e os detalhes dos movimentos de seus personagens e a vivacidade e personalidade de seus cenários conseguem transmitir tantas informações de maneira harmoniosa que fica difícil assistir novamente esse jovem clássico e ainda assim não encontrar algum detalhe novo.
 
-Bom, não consegui chegar numa solução para o problema errado (encaixar as linhas), mas fui, como sempre, dar uma espiada nas respostas dos competidores, em especial a do [primeiro colocado](https://code.google.com/codejam/contest/4304486/scoreboard#vf=1). O grande barato de competições como essa é aprender com a inteligência e genialidade dos outros. Para mim, esse é um exemplo de genialidade:
+Dessa vez, por exemplo, percebi a maneira que a fotografia consegue oscilar de maneira competente o calor das cores da cozinha e da paisagem de Paris (mesmo à noite) e o contraste com os becos e esgotos escuros da "primeira vida" de Remy.
 
-```
-int cnt[2501] = {}; // zerando o array
+E a sequência de perseguição em volta do Rio Sena, por outro lado, é o que melhor demonstra a total liberdade das câmeras em torno do cenário e o movimento dos personagens, aplicando cortes precisos que ao mesmo tempo mantém o ritmo da cena até o fim sem se descuidar dos fabulosos giros que são empregados não por apenas uma tomada, mas uma composição delas.
 
-int main()
-{
-	for(int i = 0; i < n * (2 * n - 1); i++)
-	{
-		cin >> j;
-		cnt[j] ^= 1; // inverte primeiro bit do inteiro
-	}
-	printf("Case #%d:", t);
-	for(int i = 1; i < 2500; i++)
-		if (cnt[i]) 
-			cout << " " << i; // se não for zero (ou seja, ímpar) imprime
-	cout << endl;
-}
-```
+A figura de Anton Ego, antes de ser uma ofensa, acaba se tornando uma homenagem aos críticos que, assim como Ego, amam o que analisam. Isso não impede, no entanto, que o roteiro (e a direção de arte) o considerem a maior ameaça à sobrevivência do Gusteau's.
 
-_Obs.: O código está higienizado, pois esse pessoal usa bastante macros, etc._
-
-A solução basicamente decide isolar duas questões: achar os números que faltam nas sequência e imprimi-los na ordem. Para o primeiro, varre todas as sequências sinalizando qual deles tem a quantidade ímpar (ou seja, não está representado em todas as linhas e colunas, pois do contrário seria par). Depois ele resolve a segunda questão simplesmente imprimindo os números ímpares encontrados, já na ordem (no array de valores possíveis).
-
-Simples, rápido, eficiente. E correto.
-
-É esse tipo de coisa que faz valer a pena uma competição dessas.
+Por outro lado, Remy simboliza todas as pessoas que, independente de sua origem, tornam-se muito boas no que fazem.
 

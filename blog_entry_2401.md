@@ -1,12 +1,12 @@
 ---
 categories:
 - writting
-date: '2020-10-18'
-link: https://www.imdb.com/title/tt0203536
+date: '2012-11-11'
+link: https://www.imdb.com/title/tt0057076
 tags:
 - movies
-title: Morte Certa
+title: Moscou Contra 007
 ---
 
-Assassinos por encomenda estrelam este filme lado B. Laços de amizade estão em jogo com essa gente que se mata por dinheiro, e junto do niilismo diálogos cativantes, quase memoráveis, são ditos em cenas que não importam. Há um cheiro pré-tarantinesco, e Tarantino se inspiraria nesses caras. A edição estraga tudo, pois pensa que há algo de bombástico nesta história direta e para passar a noite dando boas risadas. Que filme inesperado. Esperava violência, mas ganho algo melhor: um filme proto-tarantinesco.
+O segundo filme da franquia James Bond, Moscou Contra 007, irá estabelecer Sean Connery no papel principal, além de contar com o mesmo diretor e roteiristas. Um pouco mais confuso, muitas vezes desnecessariamente, a missão do 007 é obter um decodificador russo das mãos de Tatiana Romanova (Daniela Bianchi), uma agente do serviço secreto. O que o agente britânico ainda desconhece é que essa é uma armadilha dupla, armada pela SPECTRO, a mesma gangue de mentes criminosas em que participava Dr. No. Com uma belíssima direção de arte que consegue harmonizar a aventura através de diversos cenários diferentes (incluindo um trem), há o perigo constante na missão de Bond, mas esse perigo já começa a fugir um pouco do realismo sentido no primeiro filme, e o nascimento de Q, o líder de invenções bizarras da MI6, é o indício mais forte. Não há muitas mortes, e as que existem são necessárias. Podemos dizer que aqui começam algumas mudanças estruturais que deixarão a visão de James Bond eternizada como um agente invulnerável, embora corra alguns riscos eventualmente.
 

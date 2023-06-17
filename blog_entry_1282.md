@@ -1,22 +1,25 @@
 ---
+
+Divertida Mente é um sinal de que Disney/Pixar, apesar de às vezes parecer que está saindo dos trilhos, produzindo mais e mais continuações e se transformando em uma franquia comercialmente poderosa enquanto artisticamente repetitiva, dessa vez arrisca pra valer, apostando em uma versão de Ela (Spike Jonze, 2013) para o público infantil, destrinchando as emoções que nos formam de uma maneira que dificilmente você verá em produções do gênero.
+
+A história conta desde o início com a narradora em off Alegria (Miá Mello aqui, e a sacada de gênio Amy Poehler na versão original), a emoção que nasce junto de um bebê que será o protagonista no mundo real, Riley, a filha única de um casal. Alegria é a primeira de cinco emoções que controlam o humor de Riley. Na verdade, ela é a principal, seguida (bem) de perto pela Tristeza (Phyllis Smith no original; no nacional deve ser um genérico da Globo), e tendo três outros coadjuvantes: Raiva, Medo e Nojinho. Essas cinco emoções são consideradas pela psicologia moderna as emoções-base de onde derivam todas as outras (na verdade, são sete, mas deram uma resumida). A direção é de Pete Docter, que já pegou do estúdio Up! e Monstros S.A., e co-dirigido pelo estreante Ronaldo Del Carmen, e o resultado é um tanto decepcionante. Já o roteiro, escrito a sete mãos, teve ajuda dos diálogos de parte do elenco, e está muito mais interessante em metade do tempo. A outra metade é mais da Disney do que já conhecemos.
+
+O longa gasta seu começo descrevendo o crescimento da menina até os 11 anos e com isso explica a formação daquele mundo que podemos chamar de cérebro abstrato. Os próprios personagens que lá residem não possuem uma forma definida (mas brilham), talvez uma tentativa de não impor realismo em um conceito puramente criativo. Podemos sentir que os idealizadores desse mundo provavelmente trabalharam muito nele, estão orgulhosos dele (com razão), mas que por isso mesmo se apaixonaram demais em explicar cada detalhe de um mundo um tanto insosso para passarmos (muito) mais da metade da história nele. No entanto, tudo isso faz parte das explicações desse próprio mundo. Um tanto paradoxal.
+
+Sim, as cores das emoções combinam com as listras da roupa de Riley, interessante. As formas do "cérebro abstrato" são sempre arredondados, eles explicam memórias como vídeos no YouTube, e tubos levam as memórias de curto prazo para gigantescas gavetas de memória de longo prazo. Até aí, nada do que já veríamos em programas educativos. Fora a fofice. Até extensões do mundo, como amigo imaginário e a terra da imaginação soam como algo já visto. Talvez tenha sido gasto tempo demais para esse projeto sair do papel.
+
+No entanto, há um dinamismo nas transições entre o mundo real e o da mente de Riley que é fluido o suficiente para que esses detalhes nem importem muito. O que queremos, realmente, é entender essa dinâmica entre Alegria e Tristeza, mas os personagens já são definidos por emoções primárias, tornando difícil qualquer nível de interação maior que piadas óbvias.
+
+Mesmo assim, com todos seus clichês óbvios e frases de efeito, Divertida Mente consegue se elevar do patamar do medíocre entregando tudo isso em uma aventura que se passa unicamente na mente de sua protagonista, e elaborando todos esses conceitos óbvios, mas necessários para que exista um conflito interno (trocadilho proposital) na personagem o suficiente para que ele fosse algo impactante. Paradoxalmente de novo, o conflito não é daqueles muito criativos.
+
+E é dessa forma com que Divertida Mente, falhando pontualmente no quesito direção de arte, se sobressai em suas ideias, e sua tentativa de explicar conceitos complexos para crianças/jovens. Apenas essa virtude, única e constante por todo o roteiro, merece aplausos e faz com todo o trabalho valer a pena.
+
+---
 categories:
 - writting
-date: '2014-05-13'
-link: https://www.imdb.com/title/tt1840309
+date: '2015-01-20'
+link: https://www.imdb.com/title/tt2398231
 tags:
+- cinemaqui
 - movies
-title: Divergente
----
-
-Divergente é o Jogos Vorazes sem muita ação, sem muito drama, sem atuações e com pouca inspiração. No entanto, não deixa de ser um filme OK. Ele se mantém morno o tempo todo, mas aqui e ali existem momentos que prometem ser mais alguma coisa. Infelizmente, são apenas momentos. A apresentação do mundo distópico ocupa uma parte da história, e a tentativa da protagonista, Beatrice/Tris (Shailene Woodley de Os Descendentes), de não ser eliminada da facção que escolheu ocupa a outra parte da história. É necessário dizer que Tris é uma Divergente.
-
-Agora, o que seria uma Divergente? Essa questão, tão essencial para toda a trama, parece não fazer tanto sentido se considerarmos que aquele mundo não está tão distante do nosso. Os prédios da cidade onde vivem estão aos pedaços, mas ainda de pé. Suas armas e trajes são ligeiramente diferentes. A história é a seguinte: depois de uma guerra, a sociedade resolveu se dividir em cinco facções distintas. Quando você atinge uma certa idade, deve escolher a qual facção irá pertencer pelo resto de sua vida. Existe um teste onde é possível detectar qual seria sua facção favorita, mas ainda assim você é livre para decidir, com a ressalva que, uma vez escolhido, não poderá voltar atrás jamais.
-
-Isso me parece uma alegoria com alguma relação dos testes de aptidão e nossa escolha de uma profissão levada ao extremo. Uma ideia de uma aventura idealizada por um adolescente mimado que não sabe o que fazer da vida. Ele escolhe, então, descrever como nossa sociedade oprime a criatividade de todos ao nos dar rótulos prontos a ser escolhidos pelo futuro membro do mercado de trabalho. Porém, o problema de construção dessa distopia é a mesma de O Preço do Amanhã: ela simplifica demais a sociedade, tornando inviável acreditarmos que apenas com pessoas cuidando do exército (Audácia), da colheita (Amizade), da ciência (Erudição), das leis (Franqueza) e dos oprimidos (Altruísmo) seja possível erguer uma economia minimamente. É George Orwell (1984) colocado dos avessos: seria legal um mundo assim para explicar algumas coisas, mas não há muita justificativa do porquê as coisas são como são.
-
-Onde voltamos para a questão: e daí ser Divergente? Hoje em dia, todos os humanos são "divergentes", pois possuem múltiplas aptidões. Eu teria medo de um mundo onde as pessoas "naturalmente" nascessem com uma entre cinco habilidades, e apenas essas cinco. Já estaríamos falando de uma raça derivada dos humanos, mutação por radiação, qualquer coisa desse gênero.
-
-No entanto, não importa. A revolução está para começar, e como sempre, existe um conflito se desenrolando entre duas facções rivais (isso sim é bem humano) e todos Divergentes precisam ser eliminados para garantir a estabilidade. Kate Winslet é a mentora da Erudição e é a melhor em cena, mas nem por isso convence dentro das absurdas premissas que se desenrolam, além de apenas a vermos sob o ponto de vista de Tris. Ela é gentil com ela, mas não há um motivo. Pelo contrário: seus pais são líderes da facção da Abnegação (Altruísmo), justamente a que está no comando e na mira de Winslet.
-
-A ação final é o melhor momento do longa, pois algumas cartas finalmente são jogadas para cima. Quanto durou essa sociedade? Três meses? O espanto é que chegamos até aqui. Abriu-se uma franquia, e agora tudo faz sentido: a já conhecida tendência de não entregar tudo em um filme só, mas fazer parecer um capítulo bem fraco, um piloto, de uma série que pode ou não dar certo.
-
+title: Dívida de Honra

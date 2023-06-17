@@ -1,22 +1,12 @@
 ---
 categories:
 - writting
-date: '2013-10-24'
-link: https://www.imdb.com/title/tt0049406
+date: '2020-07-20'
+link: https://www.imdb.com/title/tt12313914
 tags:
-- movies
-title: O Grande Golpe
+- series
+title: 'O Grito: Origens'
 ---
 
-A partir da apresentação dos personagens de O Grande Golpe, o diretor Stanley Kubrick vai aos poucos revelando que a "operação" em torno da qual gira o filme está muito bem arquitetada e vem sendo planejada cuidadosamente por todas as partes envolvidas: um tira corrupto, um apostador de cavalos, um barman, um caixa do guichê de apostas, entre tantos outros.
-
-Não sabemos a história de todos, mas focamos na vida de dois deles: o caixa e o mandante da quadrilha. Eles e suas respectivas esposas, diametralmente inversas em tudo o que diz respeito a caráter, são quase que reflexos de seus tipos físicos, assim como refletem o oposto de seus companheiros: a linda que mantém um amante - ou melhor dizendo, faz seu marido mantê-lo - e a feia que deseja apenas que os planos de seu companheiro deem certo, seja lá quais forem - pois está ciente da sua falta de atributos físicos e intelectuais.
-
-Mas o Sr. Kubrick, diretor e roteirista, deixa-nos a par de quase tudo que está prestes a acontecer através de seu narrador onisciente, que muitas vezes explica o óbvio. A parte mais divertida é acompanhar os preparativos, a contratação de serviços especiais, o modus operandi que ainda não ficou claro.
-
-Até que chega o grande dia. Esse é um dia tenso. Fiquei dividido entre se estava torcendo para que tudo desse certo e entre aguardando o momento em que algo desse errado. É o momento de maior tensão no filme.
-
-Porém, se as coisas vão ou não até o fim, apenas quem assistiu ficou sabendo. O que eu sei é que a câmera oscila de forma abrupta entre a estabilidade de um plano médio para a subjetividade de alguns personagens. Trêmula com o que estava acontecendo. Incrédula se poderia sair-se bem de tudo aquilo.
-
-Um exercício de estilo, tanto na direção quanto no roteiro. Divertido do começo ao fim, a partir de um humor muito, muito peculiar.
+Assim como o original, falado em japonês, o que é um plus, mas ele é muito comum e seu tom inusitado é revelador demais. Não queremos este mistério desvendado, queremos levar sustos. A série de streaming leva tudo a sério e faz perder parte do que nos fazia gostar de O Grito: o gore, o trash e a falta de uma estética de terror que seja esquecível. Exceto seu grito do título, claro. Infelizmente a estética aqui é bem feita, com tons de cores dramáticas e personagens que tentam soar realistas e com peso. E quem quer se divertir sai frustrado. Aguardando um terror mal feito caímos no conto dos direitos comprados e reenlatados em um trabalho dramático que se perde em meio aos milhões disponíveis ao toque de um botão.
 

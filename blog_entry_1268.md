@@ -1,22 +1,16 @@
 ---
+
+Thymian não é uma gamine, mas flerta com o estéreotipo enquanto encanta os homens com seu olhar ingênuo e curioso. É da misteriosa atriz Louise Brooks a missão de realizar o arco da heroína neste filme mudo alemão de 1929 que muitos consideram um clássico, e talvez não apenas por ser um filme mudo alemão de 1929. Há versões desse filme entre 79 e 116 minutos, e eu acho que a versão mais curta deve ser melhor, pois eu vi a mais longa e não gostei muito do resultado. A câmera repousa por muito tempo no rosto dos atores, um misto entre expressionismo e cacoetes da época, além de sequências desnecessárias, como Thymian dando aulas de dança em roupas de banho.
+
+A história é boa, mexe com nossos brios. Essa garota ingênua e de menor é estuprada por um funcionário da farmácia do pai, gera um filho ilegítimo e o pai faz o que manda o protocolo: expulsa Thymian. Que cai na vida. Passa por um orfanato e depois em um bordel. A dona do bordel é uma atração à parte. É um misto de boa senhora e segundas intenções. Se sai melhor que os vilões do filme, caricatos demais. Embora a moça que toca o gongo que força as meninas do orfanato a se exercitar é um momento hipnotizante.
+
+Hoje há muitas variações dessa história, mas esta é baseada no controverso romance de Margarete Böhme. Apesar das pausas, a direção de G. W. Pabst muitas vezes é dinâmica e possui outros momentos hipnotizantes além da cena do gongo.
+
+---
 categories:
 - writting
-date: '2011-08-29'
-link: https://www.imdb.com/title/tt1827391
+date: '2014-03-15'
+link: https://www.imdb.com/title/tt0332280
 tags:
 - movies
-title: Diário de Uma Busca
----
-
-Assistir a filmes constantemente e por muito tempo te dá, aos poucos, a capacidade de discernir a linguagem de cada autor e, o que eu acho mais interessante de tudo, extrair as técnicas usadas de forma inconsciente, apenas deixando fluir a percepção comum de um espectador assistindo a uma sessão de cinema. É uma sensação meio que mágica.
-
-No caso desse documentário de Flavia Castro, que mostra, ao estilo road movie, sua pesquisa pela história do pai, reacionário ativo da época das ditaduras da América do Sul, é visível sua preocupação em tornar o filme o mais fluido possível e ao mesmo tempo resgatar a memória do pai através do depoimento de pessoas que conviveram com Celso Afonso Gay de Castro, no melhor estilo Cidadão Kane com reality show.
-
-Os depoimentos ordenados de maneira fluida e lógica, se não espontâneos, ao menos alcançam em sua estética uma história gostosa de acompanhar, pois há um recorte de narrativas cronológicas que nos permitem entender um pouco de como era a vida dos revolucionários na época, e isso se fortalece ainda mais com a escolha inteligente das músicas que dão o tom nos momentos certos para prolongar essa atmosfera nostálgica para cada período na vida de Celso Castro e todos que o acompanhavam.
-
-Não contente em ficar só nisso, o filme ganha ares investigativos quando, em determinado momento, começa a viajar pelos lugares que o pai esteve e a visitar as casas onde ele morava, momentos esses que só tem a acrescentar à nossa própria experiência com o filme, e Castro consegue ainda obter os melhores recortes visuais, como a visão da janela de um avião indo para o Chile, ou ao mostrar a Torre Eiffel apenas pela foto amarelada de quando era adolescente.
-
-Ao mesmo tempo evocando o lado investigativo por parte de sua misteriosa morte, ocorrida em um apartamento em Porto Alegre durante um suposto assalto (e julgado, talvez erroneamente, como suicídio), a realizadora utiliza técnicas criativas e curiosas para mostrar notícias da época através de recortes de jornais e fotos, utilizando ao mesmo tempo uma montagem ritmada, zoom, foco e iluminação que apresentam um misto de urgência e passado.
-
-O documentário de Castro estreia em uma época que parece tentar evocar o desejo das pessoas de cada vez mais resgatar esse passado manchado, mais pelas pessoas que participaram dele do que pela visão histórica. E é isso que Flavia Castro consegue, de maneira simples e ao mesmo tempo intimista, não se aprofundando muito nas questões macro-políticas da época, sempre mantendo o foco no caráter humano do projeto. O resultado, se não brilhante, é mais que satisfatório.
-
+title: Diário de uma Paixão

@@ -1,29 +1,19 @@
 ---
-
-O curry indiano caseiro dá mais trabalho de reunir todos os ingredientes do que o preparo, que são apenas dois minutos em fogo baixo misturando sempre; após esfriar é só processar tudo junto em um mixer, moedor ou liquidificador e peneirar. Dá uma olhada na lista de ingredientes:
-
- - 3 colheres de sopa de açafrão da terra;
- - 2 colheres de sopa de cominho;
- - 2 colheres de sopa de coentro em pó;
- - 1 colher de chá de pimenta do reino em grãos;
- - 1 colher de chá de pimenta calabresa;
- - 1 colher de chá de caiena;
- - 1 colher de chá de canela em paus;
- - 1 colher de chá de gengibre em pó;
- - 1 colher de chá de noz moscada;
- - 1 colher de chá de tomilho seco;
- - 1 colher de chá de alho desidratado;
- - 1 colher de chá de sálvia seca;
- - 1 anis estrelado;
- - 6 cravos da Índia;
- - 9 cardamomos.
-
----
 categories:
 - writting
-date: '2023-01-23T16:51:22-03:00'
+date: '2023-01-26T09:56:35-03:00'
 tags:
 - cinemaqui
 - mostratiradentes
 - movies
-title: Curtas Foco Minas Série 2
+title: Curtas na Praça Série 2
+---
+
+Ferro’s Bar, de Cine Sapatão (Aline A. Assis, Fernanda Elias, Nayla Guerra e Rita Quadros)
+
+Este curta documentário mantém um dinamismo e uma fluidez na narrativa invejável para muitos outros filmes da Mostra. Se trata do depoimento de 4 mulheres sobre o clima de um bar tolerante a lésbicas na década de 80 na cidade de São Paulo e o que se seguiu depois de um policial conservador invadir o lugar. Cada frase que uma termina emenda em uma cena ou na frase que outra começa. É enxuto, é eficiente, é emocionante. A construção do senso de direitos humanos e de que precisamos lutar por eles em pouquíssimos atos. E por isso mesmo poderoso.
+
+A Orquestra das Diretas, de Caue Nunes
+
+Mais um da série de cidadania e patriotismo é este causo que aconteceu durante as manifestações pelas Diretas Já na década de 80, que deu errado como resultado, mas certo como coesão democrática de várias frentes de cidadãos querendo mudanças. Entre elas a orquestra sinfônica de Campinas, que foi tocar nas manifestações e se conectar com o momento histórico de livre e espontânea vontade. O filme é lúdico e mantém uma ingenuidade que restabelece uma conexão com um passado democrático que por conta das bipolaridades da sociedade brasileira no momento está há décadas esquecido. Vale a reflexão.
+

@@ -1,28 +1,18 @@
 ---
 categories:
 - writting
-date: '2018-10-18'
-link: https://www.imdb.com/title/tt5069072
+date: '2014-05-21'
+link: https://www.imdb.com/title/tt0117951
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Tragam a Maconha
+title: 'Trainspotting: Sem Limites'
 ---
 
-Este é um mockumentary engraçadinho, que não tem muitas pretensões de ser mais que isso. Talvez seja uma boa pedida entre sessões mais pesadas da Mostra de São Paulo para dar uma aliviada no meio de tantos dramas e críticas sociais e políticas, porque por incrível que pareça, este filme não tem nada disso.
+Quando vi pela primeira vez Transpotting, aos meus 17 e poucos anos, ele ficou incrustado na minha mente por todo esse tempo. Até ontem, quando tudo que eu sabia visualmente sobre o filme foi apenas reafirmado, pois jamais havia sido esquecido. É um trabalho intenso que, acredito, atravessa gerações facilmente. Danny Boyle, de Quem Quer ser Um Milionário, dirige com uma economia visual absurda. Os diálogos são complementos de um filme para ser degustado principalmente pela visão. E que visão!
 
-Isso porque estamos falando de um assunto sério: a liberação da maconha. Uma causa que já deve somar umas cinco décadas pelo menos nos EUA e que teve como seu primeiro país do mundo a legalizá-la o Uruguai, um povo pacato da América do Sul. Seu presidente, Pepe Mujica (que possui algumas cenas no filme), é considerado o mais pobre do mundo. Ele tem um fusquinha, mora em uma casa humilde e quer deixar como legado essa lei.
+O jovem viciado Renton (inacreditavelmente Ewan McGregor) e seus amigos, caretas ou não, fazem parte de um arco dramático cuja protagonista é a heroína, uma droga pesada que se injeta e se viaja instantaneamente. As "viagens" do filme são cobertas de trucagens visuais feitas não por computador, mas por mudanças do cenário (como um quarto que se "estica"), da lente, cortes bruscos e até um bebê mecânico. Interessante notar que os altos e baixos de Renton não muda sua opinião sobre a droga, que, segundo ele, é melhor do que sexo. Aliás, nem a própria sociedade em que ele vive torna o vício em drogas pesadas uma prioridade, pois em um momento da história a maior preocupação do garoto é não ser pego com uma menor de idade, e um dos amigos de Renton é conhecido por arrumar confusão para "cortar" os outros, mas não se priva de criticá-lo por usar a droga.
 
-Porém, uma vez que ela é aprovada, alguém precisa plantar. E como se trata de uma questão de Segurança Nacional (em letras maiúsculas) apenas o exército deve possuir licença para tal. Ou, como é explicado no filme, os militares estão entediados em um país pacífico e seria uma boa terem algo pra fazer. É esse o nível cômico da história, que se mistura facilmente com a vida real.
+A porta de entrada para esse mundo não tem barreiras. Um dos seus amigos caretas, por exemplo, ao menor sinal de depressão por ter se separado, fruto de uma ótima sequência envolvendo a troca de fitas de vídeo, se sente seduzido pela chance de esquecer sua vida atual e mergulhar no mundo alternativo onde todos os problemas desaparecem. A não ser, claro, que você tenha uma overdose e fique afundado em um tapete enquanto passeia por um táxi e é levado pelos corredores de um hospital.
 
-Os heróis do filme, além de Pepe, são uma dona de farmácia e seu filho, que partem para os EUA em uma missão que coincide com o encontro entre o presidente uruguaio e Barack Obama. A missão extra-oficial dos dois é contrabandear maconha americana para iniciar os negócios em terra uruguaia enquanto a nacional não cresce. O filme ganha assim um ar internacional, com várias partes faladas em inglês, inclusive, e feito para todos darem risada de maneira mais universal.
-
-Este, porém, não é um mockumentary muito bom. Ele deixa nas entrelinhas se está falando sério, mas seu tom é exagerado demais para sequer pensarmos nisso. A não ser que você acredite que o Uruguai é o sítio de Mujica que virou um país para ficar mais fácil de plantar maconha e protegê-la com o exército, o filme corre o risco de nos fazer esquecer de sua parte crítica: a legalização da maconha não é um bicho de sete cabeças como as pessoas costumam pensar.
-
-Para isso há um lado útil e informativo na história toda: os nossos heróis passeiam pelos eventos americanos relacionados ao consumo e comercialização da erva no estado de Colorado, onde a droga é legalizada e que une o jeito americano de ser com a tradicional defesa do direito individual. É engraçado quando eles vão entrevistar um político liberal clássico e vermos a sua surpresa em saber que a erva recreativa será tratada como assunto nacional no Uruguai (um país socialista).
-
-Nessa parte do filme vamos aprendendo mais sobre os consumidores e como o comércio se organiza em torno da droga. Há várias brincadeiras no meio do caminho também, como um policial uruguaio que encontram em NY ou a gangue de jamaicanos de onde pretendem conseguir a erva valiosa (que irá custar um dólar por grama no Uruguai, como anunciado mil vezes no filme, e para espanto dos americanos acostumados a pagar vinte vezes mais). O filme só não vira uma bagunça total porque ele não consegue enganar que todos os percalços fazem parte de um roteiro planejado desde o início, onde ele perde um pouco da graça e espontaneidade.
-
-De qualquer forma ele consegue contar uma história falsa com certa legitimidade graças ao bom humor do presidente uruguaio (e de todos os entrevistados que comentam como Obama era uma chaminé na faculdade). O filme é levemente divertido através de seus pobres personagens, mas deixa uma mensagem importante no ar: por que alguns levam esse assunto tão a sério?
+Porém, a conclusão de Transpotting não poderia soar mais incisivo do que toda a sua precisa caracterização do efeito do vício. Afinal, o que é vício? É injetar substâncias ilegais em seu corpo ou passar uma vida correndo como ratos atrás de dinheiro para sustentar um estilo de vida massacrante? Qual o sentido de tudo isso? Renton já entrega a resposta enquanto atira em um cachorro (um ato não-incidental). O fato dessa cena estar no começo do filme quer amenizar as coisas como elas são.
 

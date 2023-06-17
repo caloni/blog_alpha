@@ -1,11 +1,11 @@
 ---
 categories:
-- writting
-date: '2019-01-04'
+- blogging
+date: '2022-10-23T21:12:57-03:00'
 tags:
-- wine
-title: Valtier Utiel
+- mostra
+title: Vanessa Panerari
 ---
 
-Requena Reserva 2013 é um espanhol que tem o corpo de um reserva sem o peso da madeira. Mas os aromas estão lá, amadurecidos. Bom, talvez nem tanto. Depois de mais de uma semana na geladeira não é que o gosto deu uma suavizada interessante? Mas ainda é um vinho de personalidade forte, que sempre te chama a atenção pelo azedo ou tanino. Bom com fusili e molho de tomate sem acidez.
+Da leva desse ano de contatos encontrados no grupo de imprensa da mostra está Vanessa Panerari. Encontrei dois sites onde ela escreve(u): o [Francamente, Querida](http://francamentequerida.com.br/) e o [Era Uma Vez na América Latina](https://eraumavezamericalatina.substack.com). No "Era Uma Vez" ainda não há textos sobre a cobertura do evento, apenas uma nota jornalística. No "Francamente" há um texto sobre Tantas Almas que revela ser de fato uma escritora jornalística, e não crítica. Ela entrevista os realizadores. Seu texto é eficiente. Vanessa resgata detalhes da produção e, sucinta, traça um panorama usando poucos parágrafos.
 

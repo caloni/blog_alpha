@@ -1,22 +1,18 @@
 ---
 categories:
 - writting
-date: '2017-10-20'
-link: https://www.imdb.com/title/tt6322922
+date: '2016-10-28'
+link: https://www.imdb.com/title/tt2614722
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Uma Verdade Mais Inconveniente
+title: Umrika
 ---
 
-Se você já viu Uma Verdade Inconveniente, Oscar de melhor documentário de 2006, provavelmente vai se sentir em casa com essa continuação. Ela é espalhafatosa, desinformativa e um apelo à emoção. Mas isso não é nenhuma novidade para você. Conhecida por jogar números estatísticos como forma de combate, o folheto de propaganda na forma de documentário continua balançando ao vento para quem quiser e quem não quiser ver. E como os voluntários de programas sociais que vemos na Avenida Paulista, há a sensação que mais do mesmo não irá resolver o problema. Exceto que agora a calçada ficou um pouco menos agradável de se andar.
+Este é um drama bem construído que envolve uma família indiana e as dores da separação e da ilusão entre eles. Às vezes apela para a emoção (principalmente no final), mas em sua maioria é uma trama bem desenvolvida e que merece o título de um indie que não soa indie, pois foge das fórmulas mais comuns e acaba caindo em um pesado sonho indiano pautado no americano. Ou deveria dizer umrikaniano?
 
-Quem segura esse folheto firme nas mãos é Al Gore. Há quarenta anos. Ele fala efusivamente para quem estiver disposto a ouvir. Ele levanta o tom, usa diversas formas de dizer a mesma coisa, apresenta gráficos, fotos e vídeos de desastres naturais. Nada convence, exceto pelos rostos da plateia, capturadas em harmonia com seu discurso alarmista. Os rostos sorriem, choram, balançam as cabeças e se inclinam nas cadeiras de mais algum auditório ao redor do globo. Quando Al Gore se exalta um pouco seguem os aplausos. A ode à emoção é linda de se ver quando não precisamos pensar muito a respeito.
+A história gira em torno de Lalu, irmão mais novo de uma família de um vilarejo onde o irmão mais velho sai em busca de uma vida melhor nos EUA. Primeiramente fonte de saudades incuráveis da mãe, e sem resposta por muito tempo, eventualmente eles começam a receber correspondência, no que são cartas de um Marco Polo ao contrário, descrevendo as maravilhas de um mundo à frente do vilarejo onde cresceram, embora ninguém tenha muita certeza de por que.
 
-Os diretores Bonni Cohen e Jon Shenk não possuem aqui uma maneira de conduzir a narrativa como na história original, onde alguém sensato estava disposto a ouvir mais sobre ciência e como conseguimos provar que o aquecimento global não apenas é verdade incontestável, como também sabemos que sendo causado pelo homem pela emissão de gases provenientes de combustíveis fósseis. O uso de gráficos, de imagens e de vídeos é mais para impressionar do que informar, com algumas raras exceções (como as temperaturas médias dos anos extrapolado em décadas, em um crescente preocupante). Na verdade, os diretores estão no piloto automático, pois repetem a mesma dinâmica do anterior como se este fosse o segundo episódio de uma saga que provavelmente vai terminar com o fim da vida na Terra como a conhecemos.
+Evitando usar a Índia e a cultura indiana como muleta para se vender em festivais mundo afora, o diretor e roteirista Prashant Nair prefere a tarefa mais difícil de fazer o espectador se interessar pelo pequeno Lalu, que se torna um jovem responsável e decide ir atrás do irmão para descobrir o que está acontecendo com ele, onde necessariamente ele irá trilhar seus mesmos caminhos. A narrativa não tem pressa, mas mantém sempre um ritmo de descobertas que mantém o espectador atento. Tudo é novo para Lalu a partir do momento que ele sai do vilarejo de onde nunca havia saído, mas ele aprende rapidamente o que deve ser feito, em um ótimo exemplo de quando a necessidade é a mãe de qualquer força de vontade.
 
-Al Gore não é o melhor garoto-propaganda para espalhar mensagens ecológicas. Ex-político, seu jeito simplório de falar conquista, mas apenas a parte menos poderosa da equação. Em um claro descompasso com a atual presidência do retrógrado Donald Trump, o vice-presidente da era Clinton consegue se comunicar muito melhor com donos de grandes corporações, e negociar propostas excelentes que modificam lentamente estruturas geopolíticas -- como repassar uma tecnologia de energia solar para a Índia -- do que convencer Washington a voltar para a sanidade.
-
-Ele, assim como o diretor homenageado da Mostra esse ano, Ai Weiwei, concluem a mesma coisa: se há uma luz no fim do túnel, ela não será acesa por políticos e burocratas. Somos nós mesmo que teremos que levar adiante o farol da esperança. Ou como ele diz, se referindo aos painéis solares: acima dos telhados.
+A direção de Nair é competente, utilizando construções de cenas tradicionais para dramas, como a filmagem em primeira pessoa, a transposição de personagens em diferentes campos, o uso da luz para significar esperança (ou a falta de, note como quando Lalu se aproxima da parte obscura de suas entregas informais a luz começa a fazer falta no ambiente). Metalinguístico, o filme utiliza a tela umas duas ou três vezes para estabelecer a fixação indiana pelo Cinema (seja ele clássico, noveleiro ou de ação, como em uma sequência impagável de Indiana Jones e o Templo da Perdição).
 

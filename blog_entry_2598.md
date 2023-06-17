@@ -1,18 +1,23 @@
 ---
 categories:
 - writting
-date: '2019-06-21'
-link: https://www.imdb.com/title/tt0255094
+date: '2021-10-21T22:22:02-03:00'
 tags:
+- cinemaqui
+- mostra
 - movies
-title: O Círculo
+title: O Compromisso de Hassan
 ---
 
-Uma sociedade realmente sexista existe no Irã e o diretor Jafar Panahi filma a opressão como um documentário em tempo real. É um plano-sequência com cortes. A transição de personagens apenas reforça a universalização da violência sistematizada contra as mulheres em mais um dia nessa sociedade que não tem como enxergar suas falhas assim como um peixe não enxerga a água em que vive.
+O Compromisso de Hassan, filme da Mostra esse ano, é lindamente fotografado por Özgür Eken (colaborador habitual do diretor), e com razão: as tomadas evocam decisões humanas sob um prisma da natureza de cada ser. Algumas pessoas são o que são. Não importam as circunstâncias, elas sempre estarão acima das outras.
 
-O roteiro de Kambuzia Partovi é um primor de hiper-realismo, pois apresenta diálogos simples, ditos no limiar entre o cinematográfico e o drama dos comuns. As informações que o espectador vai caçando aos poucos serve de gancho para acompanharmos a ação. Às vezes sabemos de menos, às vezes demais, mas Partovi faz questão de se certificar que é sempre o suficiente para detectarmos as barreiras que a mulher encontra nesse mundo onde mulheres não podem andar sozinhas na rua, desacompanhadas de um homem, sem chamar a atenção de civis e policiais.
+E está errado? Dentro do espectro de decisões humanas nesse filme a resposta é não. Hassan e sua mulher recebem bençãos e ao mesmo tempo conduzem seus negócios como quem cuida pessoalmente de cada pomar, colhendo cada fruto de suas conquistas. Dentro do jogo de influências humanas eles são os espertos que se aproveitam do status quo, o que não apenas escancara a ineficiência, ingenuidade e incompetência dos outros indivíduos, mas das próprias instituições democráticas.
 
-A atriz Fereshteh Sadre Orafaiy realiza um mergulho profundo em sua personagem, Pari. Note sua compulsão em tentar pegar um cigarro e fumar (e note como esse pequeno gesto vai se encaixando durante todo o filme como símbolo da opressão). Apenas a observe zanzando inquieta pelas paredes de um hospital aguardando por qualquer ajuda, e note em seguida todas as expressões e gestos que a atriz realiza sentada em um banco, inconformada com a arapuca em que se colocou (os detalhes de sua história é melhor serem degustados aos poucos pelo espectador).
+Mas no começo não é assim. Vemos Hassan conversando com um engenheiro que vem inspecionar e avisar aos donos das terras que uma torre de energia passará por cima de suas plantações, tornando-as improdutivas. Parece que começa uma daquelas histórias sobre a luta contra a injustiça, mas o filme inteiro é para inverter nosso ponto de vista, nos fazer pensar sobre o poder da narrativa, conforme Hassan passa a perna em tudo e em todos. E com lágrimas nos olhos ainda por cima.
 
-O Círculo é sobre o fluxo ininterrupto de violência sistematizada e legalizada contra a mulher, mas poderia ser o retrato de qualquer círculo vicioso onde seres humanos não são tratados como tais, e precisam dentro de suas capacidades sobreviver. É um trabalho intenso, impecável e admirável de Cinema.
+"Pessoas dependem dessas plantações de tomates", ele diz ao engenheiro. Não é mentira. E a história ganha ares trágicos conforme as transações ocorrem, e a troca de favores e serviços adquire um tom amargo. Os pesadelos de Hassan indicam que ele se sente culpado ou temeroso que sua hora chegue? É a poesia da ambiguidade que atinge essa narrativa conforme o diretor turco Semih Kaplanoglu nos brinda com tomadas de tirar o fôlego, cheias de cor, saturação e significado.
+
+E quando exige, o filme fica de um nublado imperial, opressor, de nuvens que nunca mais sumirão. Tudo depende do momento e o filme ganha uma coleção de momenta, ou seja, vários momentums (assim mesmo, do Latim), com um ritmo mais lento que o desejável, à espera que um espectador mais lerdo entenda o subtexto, que não é simples nem direto, mais por pecado do diretor (e roteirista) do que pelo estilo, já beneficiado na estética (e deveria ficar assim).
+
+O passado de Hassan em sua infância, descansando na sombra enquanto seu irmão mais velho se esforça, explica sua posição privilegiada no futuro? É um comentário social pertinente, ousado, provocador. A árvore é o símbolo dessa época e do seu compromisso com a verdade. E é gostoso confabular com os próprios botões se é que existe esse compromisso.
 

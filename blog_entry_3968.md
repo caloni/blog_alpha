@@ -1,26 +1,27 @@
 ---
 categories:
 - writting
-date: '2019-12-17'
-link: https://www.imdb.com/title/tt5774450
+date: '2018-10-27'
+link: https://www.imdb.com/title/tt7962890
 tags:
+- cinemaqui
 - movies
-title: Verão de 84
+title: Viagem Aos Povos Fumigados
 ---
 
-Após os anos 80 tudo mudou, e por isso este não é um filme espetacular sobre um serial killer, nem um resgate aos lúdicos anos mágicos. É mais uma repaginada sobre o que mudou desde então, quando os mocinhos e vilões deixaram de serem fáceis de reconhecer. Ou se era um ou outro. Agora heróis como Walter White são o mais comum e família feliz e perfeita existe apenas nos comerciais e nas redes sociais.
+Viagem Aos Povos Fumigados é um documentário estilo denúncia, mas que infla conclusões precipitadas e carece de investigação mais abrangente. Ele é feito pelo documentarista itinerante Fernando Solanas, que descobriu uma pista para esta impactante história ao final das filmagens de seu último trabalho.
 
-Há uma tarefa em desmistificar essa década, que é vista como perfeita por adultos que nunca a viveram. Ela não é mágica e perfeita como nos filmes de Spielberg, até porque se você se lembra de todas as partes do filme desse diretor vai perceber uma proximidade com o mundano que nos esquecemos de apreciar. E assim como os que endeusam os tempos da ditadura há uma certa idealização de uma geração que convivia com os mesmos problemas que nós. E não, o celular não estragou a infância dessa garotada.
+Dessa forma o filme segue parecendo um relato investigativo sem a investigação. Solanas tem muito a dizer e pouco a avaliar sobre a velha questão dos agrotóxicos usados para aumentar a produção de alimentos e que vem causando doenças e mortes por conta da aplicação incorreta e pelo impacto ambiental generalizado.
 
-A direção de arte de Summer of 84, assinada por Catriona Robinson, é um primor de detalhes catalogados em estúdio que ganha vida graças à fotografia não exatamente saudosista de Jean-Philippe Bernier, mas antes imersiva. Note como as cores básicas viram elementos para pontuar a paleta, mas nunca são iluminadas pela mágica da preguiçosa pós-produção, que transforma tudo em mais do mesmo, como visto em Stranger Things. Nós queremos viver na época criada pelas equipes de Robinson e Bernier, e o início do filme é vital por nos permitir ser inseridos naquele mundo aos poucos e sem pressa. Não é correto apressar espectadores já quase vomitando de tanto conteúdo 80's para um repeteco.
+O epicentro do filme é a província de Salta, na Argentina. O desmatamento crescente vai destruindo as terras pertencentes aos povos nativos, que sobreviviam bem há mais de 200 anos e hoje perdem sua forma de subsistência natural pela monocultura da soja feita pelos "donos" do terreno. Algo essencialmente errado está acontecendo aqui, mas ninguém se mobiliza a respeito.
 
-Essa lógica de aos poucos segue nos personagens-mirins, que são sequer estereótipos, mas símbolos de todos os personagens já vistos nos filmes da época e sobre a época. Isso não é ruim. É delicioso participar mais uma vez de uma aventura da "gangue da rua" movida a bicicletas e walkie-talkies, principalmente quando esses elementos estão aí para sabotar essa impressão errônea que muitos irão ter de ser mais uma aventura saudosista.
+A questão da soja vai puxando outras questões que inevitavelmente caem na questão dos agrotóxicos. Mas antes há alguns argumentos misturados a respeito de transgênicos, pequenos fazendeiros e poluição da água, e todos convergem para uma crítica que berra em uníssono contra a exploração da terra pelas grandes corporações. A alternativa? Orgânicos, é claro.
 
-Saudosismo está muito longe da verdade por trás do trabalho desses três diretores, que já trabalharam juntos em outros projetos (como Turbo Kid) e aqui estão prontos para dar vida ao roteiro assinado por Matt Leslie e Stephen J. Smith, que não parecem se esforçar muito para serem econômicos nas descrições e nas cenas, mas que exatamente por isso, ainda que inadvertidamente, se crie essa atmosfera falsa de revival enquanto bem nas entrelinhas mais escuras reside a mórbida diferença entre nosso imaginário audiovisual e a vida real, vista sob os olhos de espectadores da década 2010 dispostos a colocar tudo isso abaixo.
+O maior pecado do longa é ter apenas um lado e assumir qualquer explicação desleixada para o outro lado ("ah, é tudo pelo lucro"), mas isso acaba empobrecendo um debate interessantíssimo sobre vários temas, debate esse que o documentarista tenta dar voz à população afetada.
 
-A história é básica: garotos investigam, puxados por um maluquinho conspiracionista, o possível envolvimento do policial do bairro nos assassinatos em série de garotos de idade semelhante a deles na região. Quanto mais a fundo os garotos vão, mais descobrem que não há nada que incrimine o aparentemente normal e quase simpático Wayne Mackey (um trabalho refinado de Rich Sommer). A vergonha alheia vai tomando conta dos meninos, mas você já sabe o final. Depois de termos descoberto o drama pessoal de cada um deles entre as quatro paredes de suas famílias não tão perfeitas assim, o longa passa a se tornar mais pesado e desesperançoso. E finalmente a mensagem está sendo entregue.
+Já o segundo pecado é abordar vários sub-temas sem se aprofundar em nenhum deles. Assim a impressão que fica é que são problemas de análise simples e resolução mais simples ainda. O problema é que enquanto os fatos apontam para descaso total do governo para com a população o filme nunca dá uma alternativa que não seja apelar para o próprio governo com base em pressão popular, se tornando contraditório em seu núcleo de discussão.
 
-É preciso uma certa coragem para empreender um trabalho tão minucioso e bem produzido para nos entregar quase nada de novidade, ainda mais quando essa novidade é um belo de um adeus ao saudosismo da década mais amada atualmente. Todos os objetos que vemos em cena para nos fazer lembrar com carinho desses tempos vão se revelando como uma isca infame, embora não muito arrebatadora. Summer of 84 é sutil demais para chamar atenção para seus detalhes, exceto a reviravolta final, que destoa de todo o resto do filme.
+Mas não me leve a mal. O trabalho é ótimo, com uma excelente edição e boas entrevistas e pesquisa. Há ainda uma direção inspirada, que utiliza da montagem para ilustrar os acontecimentos narrados pelos entrevistados. Quando uma professora fala sobre um avião com agrotóxicos em cima da escola e os alunos indo se esconder não há vídeo desse dia, mas o filme emula da mesma forma mostrando um avião e crianças correndo. É uma dramatização eficiente.
 
-Como consequência, devemos nos apaixonar novamente pela época para finalmente a destruirmos. Como o protagonista e narrador afirma, existe um serial killer morando perto de cada um de nós. A questão é que não é apenas isso o perigo de apenas viver a perfeita vida americana entre quatro paredes quando divórcio, violência e apatia tomam conta da sociedade.
+Porém, qual a validade de um trabalho documental que apela demais para a emoção e se esquece de analisar todos os lados da questão? Fica a reflexão para um espectador mais crítico.
 

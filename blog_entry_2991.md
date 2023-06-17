@@ -1,14 +1,14 @@
 ---
 categories:
+- cooking
 - writting
-date: '2021-05-22'
-link: https://www.imdb.com/title/tt5674066
+date: '2017-05-30'
 tags:
-- animes
-title: Pan de Peace!
+- food
+title: Pão de Alho
 ---
 
-Hehehe pão. Hehehe minazinhas. Hehehe pão com minazinhas. Quem é quem, nem sei mais. Os pães são mais fáceis de distinguir que as personagens.
+Ingredientes: 250g de margarina com sal, 50g de queijo parmesão ralado, 1 pote inteiro de requeijão, 1 colher de sopa BEM CHEIA de alho picado, 1 pitada de orégano, 1 pitada de manjericão, 1 pitada de pimenta do reino, 1 pitada de sal a gosto se precisar (normalmente não), 10 pães.
 
-Dez episódios depois não aprendi a fazer pão e fiquei com vontade de fazer anpan. Quero meu fermento de volta.
+Preparo: misturar todos os ingredientes numa vasilha até obter uma pasta homogênea, cortar os pães e rechear com a pasta e passar mais pasta na parte de cima dos pães.
 

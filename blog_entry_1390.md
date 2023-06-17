@@ -1,11 +1,11 @@
 ---
+
+Um vinho social bom com carne. Fácil de beber, pouco azedo e médio corpo; tanino em desenvolvimento. Todos dos amigos da IBM curtiram no churrasco do terraço.
+
+---
 categories:
 - writting
-date: '2018-06-24'
+date: '2016-11-13'
 tags:
 - food
-title: El Esteco Tinto Tardio Malbec 2015
----
-
-Ainda jovem, manteve o sabor visto na degustação, de um doce excepcional que apenas a uva Malbec colhida tardiamente possui.
-
+title: El Legado Gran Reserva Edicion Especial Blend Tannat Syrah 2013

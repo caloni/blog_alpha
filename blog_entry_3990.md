@@ -1,12 +1,11 @@
 ---
 categories:
-- coding
-date: '2018-07-27'
-link: https://youtu.be/DPkH-D9OWTk
+- writting
+date: '2017-09-11'
 tags:
-- videos
-title: 'Vídeo: Visual Studio e seu depurador (comentado)'
+- food
+title: Vilamonge Café Artesanal Gourmet Solo Vulcânico Poços de Caldas
 ---
 
-Segue meu segundo vídeo curto onde estou apenas demonstrando como é o depurador do Visual Studio. Mas dessa vez com comentários =)
+Este é o café vulcânico encontrado em Poços de Caldas no Doce da Roça, onde tem o melhor pão de queijo da região. Na despensa.
 

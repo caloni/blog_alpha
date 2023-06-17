@@ -1,26 +1,110 @@
 ---
 categories:
-- cooking
-date: '2021-09-28T21:09:43-03:00'
-tags: []
-title: Risoto
+- coding
+date: '2008-01-28'
+title: 'RmThread: rode código em processo vizinho'
 ---
 
-Fazer risoto não deveria ser difícil, apesar de ser considerado um prato sofisticado. E a verdade é que não é mesmo. Talvez um pouco trabalhoso. A primeira coisa a ser feita é se servir uma taça de vinho.
+Aproveitando que utilizei a mesma técnica semana passada para desenvolver um vírus para Ethical Hacking, republico aqui este [artigo que já está mofando no Code Projet], mas que espero que sirva de ajuda pra muita gente que gosta de fuçar nos internals do sistema. Boa leitura!
 
-Então você doura um pouco de cebola picada no azeite, talvez com um pouco de manteiga, e talvez com um pouco de alho, para depois jogar o arroz direto da embalagem. Não lave! Você precisa extrair todo o amido que faz a diferença em tipos de arroz para risoto (e há tipos específicos para isso, não é o arroz brasileiro padrão).
+RmThread é um projeto que fiz baseado em uma das três idéias do artigo de Robert Kuster em "Three Ways to Inject Your Code into Another Process". No entanto, não utilizei código algum. Queria aprender sobre isso, pesquisei pela internet, e me influenciei pela técnica CreateRemoteThread com LoadLibrary. O resto foi uma mistura de "chamada de funções certas" e MSDN.
 
-Depois você pega um pouco desse vinho e joga em cima do arroz. O ideal é cobrir todo o arroz, mas use o que seu coração mandar. E se seu coração mandar fugir um pouco do padrão e usar vinho tinto em vez de branco (o mais usual) tudo bem. Saquê fica bom também. O álcool em geral irá ajudar o arroz a liberar mais amido.
+O projeto que fiz é útil para quem precisa rodar algum código em um processo vizinho, mas não quer se preocupar em desenvolver a técnica para fazer isso. Quer apenas escrever o código que vai ser executado remotamente. O projeto de demonstração, RmThread.exe, funciona exatamente como a técnica citada anteriormente. Você diz qual o processo a ser executado e a DLL a ser carregada, e ele inicia o processo e carrega a DLL em seu contexto. O resto fica por conta do código que está na DLL.
 
-Agora você começa a mexer de vez em quando. Não deixe o arroz muito quieto, pois são as mexidas que ajudam a extrair o amido.
+Para fazer a DLL, existe um projeto de demonstração que se utiliza de uma técnica que descobri para fazer rodar algum código a partir da execução de DllMain sem ficar escravo de suas limitações (você só pode chamar com segurança funções localizadas na kernel32.dll).
 
-Mantenha do seu lado qualquer caldo quente para ir molhando o arroz sempre que ele começar a secar. Então você deixa cozinhando até secar novamente, e joga mais um pouco de caldo. Você pode jogar de concha em concha. Pode ser água no lugar de caldo, mas deve ser quente, pois do contrário demora mais ainda seu risoto, e se tiver caldo use caldo. Tudo pelo sabor.
+Existem três funções que poderão ser utilizadas pelo seu programa:
 
-Qual a textura do risoto? Muitos preferem ao dente, outros tantos um pouco mais macio. Vá experimentando até achar que está legal. Quando estiver quase lá pode misturar com alguns ingredientes que preferir que o sabor se misture com o arroz. Foi aí que eu joguei minha carne desfiada. Isso com o fogo ainda ligado.
+    /** Run process and get rights for running remote threads. */
+    HANDLE CreateAndGetProcessGodHandle(LPCTSTR lpApplicationName, LPTSTR lpCommandLine);
+    
+    /** Load DLL in another process. */
+    HMODULE RemoteLoadLibrary(HANDLE hProcess, LPCTSTR lpFileName);
+    
+    /** Free DLL in another process. */
+    BOOL RemoteFreeLibrary(HANDLE hProcess, HMODULE hModule); 
 
-Quando a textura estiver finalmente pronta desligue o fogo e coloque queijo duro se quiser, para se misturar levemente com o resultado final. Quero dizer, semifinal. O final mesmo é quando, depois de acertar o sal e a pimenta, você pega um naco de manteiga da geladeira e coloca no meio da panela, e começa a girar levemente o risoto em volta dessa manteiga se derretendo. Isso irá dar o brilho e o sabor final ao prato.
+Eis a rotina principal simplificada demonstrando como é simples a utilização das funções:
 
-Sirva de preferência em um prato fundo, mas em qualquer lugar deve servir, pois o objetivo de um risoto é não ter caldo vazando dele, mas o resultado é contido nele mesmo, brilhante, úmido, mas sem escorrer nada de seu sabor.
+    //...
+    // Start process and get handle with powers.
+    hProc = CreateAndGetProcessGodHandle(tzProgPath, tzProgArgs);
+    
+    if( hProc != NULL )
+    {
+      // Load DLL in the create process context.
+      HMODULE hDll = RemoteLoadLibrary(hProc, tzDllPath);
+    
+      if( hDll != NULL )
+        RemoteFreeLibrary(hProc, hDll);
+    
+      CloseHandle(hProc);
+    }
+    //... 
 
-Jogue um pouco de verdinho em cima para não se sentir mal por tanta manteiga e bora provar com seu vinho. Irá notar uma harmonização instantânea. E quanto mais complexo o vinho melhor o sabor. Experimente fazer sem álcool para notar a diferença (eu fiz, o sabor perde a complexidade fácil).
+A parte mais complicada talvez seja o que fazer quando a sua DLL é carregada. Considerando que ao ser chamada em seu ponto de entrada, o código da DLL possui algumas limitações (uma já citada; para mais, vide a ajuda de DllMain no MSDN), fiz uma "execução alternativa", criando uma thread na função DllMain:
+
+    BOOL APIENTRY DllMain(HANDLE hModule, DWORD ul_reason_for_call, LPVOID lpReserved)
+    {
+      switch( ul_reason_for_call )
+      {
+        case DLL_PROCESS_ATTACH:
+        {
+          DWORD dwThrId;
+    
+          // Fill global variable with handle copy of this thread.
+    
+          BOOL bRes =
+          DuplicateHandle(GetCurrentProcess(),
+            GetCurrentThread(),
+            GetCurrentProcess(),
+            g_hThrDllMain,
+            0,
+            FALSE,
+            0);
+    
+          if( bRes == FALSE )
+            break;
+    
+          // Call function that do the useful stuff with its DLL handle.
+          CloseHandle(CreateThread(NULL,
+            0,
+            RmThread,
+            (LPVOID) LoadLibrary(g_tzModuleName),
+            0,
+            dwThrId));
+            }
+          break;
+          //... 
+
+A função da thread, por sua vez, é esperar pela finalização da thread DllMain (temos o handle dessa thread armazenado em g_hThrDllMain), fazer o que tem que fazer, e retornar, liberando ao mesmo tempo o handle da DLL criado para si:
+
+    /**
+    * Sample function, called remotely for RmThread.exe.
+    */
+    DWORD WINAPI RmThread(LPVOID lpParameter)
+    {
+      HMODULE hDll = (HMODULE) lpParameter;
+      LPCTSTR ptzMsg = _T("Congratulations! You called RmThread.dll successfully!");
+    
+      // Wait DllMain termination.
+      WaitForSingleObject(g_hThrDllMain, INFINITE);
+    
+      //TODO: Put your remote code here.
+      MessageBox(NULL,
+        ptzMsg,
+        g_tzModuleName,
+        MB_OK : MB_ICONINFORMATION);
+    
+      // Do what the function name says.
+      FreeLibraryAndExitThread(hDll, 0);
+    } 
+
+A marca TODO é aonde seu código deve ser colocado (você pode tirar o MessageBox, se quiser). Como DllMain já foi previamente executada, essa parte do código está livre para fazer o que quiser no contexto do processo vizinho.
+
+Um detalhe interessante é que é necessária a chamada de FreeLibraryAndExitThread. Do contrário, após chamar FreeLibrary, o código a ser executado depois (um simples return) estaria em um endereço de memória inválido, já que a DLL não está mais carregada. O resultado não seria muito agradável.
+
+Um problema chato (que você poderá encontrar) é que, se a DLL não for carregada com sucesso, não há uma maneira trivial de obter o código de erro da chamada de LoadLibrary. Uma vez que a thread inicia e termina nessa função API, o LastError se perde. Alguma idéia?
+
+[artigo que já está mofando no Code Projet]: http://www.codeproject.com/KB/threads/RmThread.aspx
 

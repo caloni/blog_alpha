@@ -1,24 +1,22 @@
 ---
 categories:
 - writting
-date: '2019-07-04'
-link: https://www.imdb.com/title/tt0312843
+date: '2011-11-06'
+link: https://www.imdb.com/title/tt1921043
 tags:
 - movies
-title: O Pacto
+title: O Palhaço
 ---
 
-O terror japonês pode ter todos os defeitos do mundo menos o de ser enfadonho. Aqui vemos nos primeiros minutos cerca de cinquenta garotas colegiais se dando as mãos, contando até três e pulando no trilho do trem para serem esmagadas em uma sequência de várias tomadas capturando para onde foi todo aquele sangue. E você ainda não viu nada.
+É muito difícil escrever sobre filmes ruins, atacando conteúdos sem sentido e muitas vezes com uma visão precipitada ou exacerbada. Por outro lado, falar de um filme virtuoso em tantos aspectos como O Palhaço pode ser uma atividade prazerosa e ao mesmo tempo um ato de injustiça, por deixar tantos detalhes do lado de fora do texto.
 
-Este é um terror psicológico que lida com o medo irracional, mas compreensível, de termos nossos instintos sequestrados por alguma espécie de hipnose e nos entregarmos a qualquer impulso que termine com nossa própria vida, como pular de algum lugar alto. Ele lida com o medo de nós fazermos isso, nossos entes queridos ou a sociedade começar a fazer isso. Como você lida com uma crise como essa?
+Mesmo assim, vale a pena dissecar filmes bem produzidos como esse, pois o fato do assunto não ter se esgotado é prova da competência e da riqueza do filme, que ainda provavelmente resistiria a uma segunda análise. Melhor ainda: por sua história ter contornos universais, mexendo no emocional e na imaginação coletiva, ele provavelmente resistirá bem ao tempo, e poderá ser revisto daqui a uma década ou duas mantendo suas virtudes intactas.
 
-O detetive Toshiharu Kuroda (Ryo Ishibashi) pretende primeiro convencer seus colegas de que este e casos recentes são assassinatos e não casos isolados de suicídio que ocorrem em grandes cidades. Ele tem a ajuda do surgimento de uma bolsa com uma coleção de pequenos retângulos de peles cortadas costuradas uma junto da outras, mas nem isso parece convencer os obtusos policiais, que ainda que divirtam pelo jeito bonachão de andar por aí fazendo perguntas estão completamente deslocados da atmosfera do filme.
+A história, simples em sua estrutura, complexa em suas sutilezas, conta a história do palhaço Pangaré (Selton Mello), filho do dono de um pequeno circo que vive dos pequenos espetáculos que apresenta viajando por cidades minúsculas, e sempre agraceando os prefeitos locais (que talvez, por falta de "pauta", acabam sempre participando de uma sessão do circo).
 
-Esta é uma história completamente ficcional, mas que lembra um pouco alguns casos de seitas de suicídios coletivos já ocorridos no Japão, e ninguém desavisado como eu duvidaria que poderia de fato existir algo como um Clube de Suicídio. Dessa forma, beneficiado pela cultura... não-ortodoxa do japonês, o filme se beneficia da dúvida honesta do espectador.
+Pangaré está com problemas para manter seu dom de fazer as pessoas rirem. Hoje chamaríamos isso de depressão. O filme é de época, apesar de não tão distante. Esse sentimento tão íntimo quanto sutil é o que permeia o primeiro ato da narrativa, que, apesar de conter, assim como todo o filme, poucos diálogos, transmite sua mensagem da melhor maneira possível: a visual. Através de uma fotografia pálida, do uso insistente da mesma tomada em que o comboio segue pela estrada, da ausência quase completa de trilha sonora, exceto as incidentais e as que tentam, inutilmente, arrancar graça do espectador (do filme, não do circo), o trajeto e a vida que segue o circo pode ser tudo, menos alegre.
 
-Porém, há um limite para tudo, e quando o filme começa a brincar com fantasmas, reviravoltas de hacker e o uso de uma girl band que temos certeza que está espalhando mensagens satânicas através de suas músicas fofinhas, fica difícil acompanhar a história sem um sorriso no rosto, apreciando a farofa se formando ao lado das poças de sangue das próximas vítimas.
+A dinâmica entre os personagens é, como um todo, pitoresca e igualmente apática, e as gags que possuem o intuito de nos fazer rir nessa introdução da história, acaba também, bem sutilmente, torturando nossos sentidos pela tristeza paradoxal daquela trupe de artistas. O mérito é de uma interpretação cuidadosa nos detalhes de Selton Mello, ator principal e diretor, que consegue transmitir seu estado de espírito melancólico sem soar caricato, o que, digamos, é um feito e tanto, considerando que o sujeito se veste de palhaço por boa parte do longa. Esse cuidado consegue ser percebido em seu tom de voz fraco, tímido, ou em sua postura estática, contemplativa e exausta. O olhar vago e lento, a distração cada vez maior. Enfim, apenas um espectador muito inerte conseguiria não perceber.
 
-O surgimento de um bando de garotos liderados por um rapaz de salto alto e muito glitter na roupa, uma versão metrossexual japonesa de Laranja Mecânica, faz o pouco sentido que havia no mistério ir por água abaixo. Ouvimos o salto alto cantar sua icônica (e bonita) canção, e é um dos momentos mais chamativos do longa. Mas o que ele quer dizer? Não pergunte.
-
-O Pacto tem claras tendências niilistas, mas sequer sabe disso. Ele lida com suicídio muito melhor que o Ocidente. Devem ser os recordes da prática. No entanto, fazer um bando de crianças recitar filosofia barata e sem sentido sobre ligações não nos deixa sair satisfeitos com a "resolução" da trama.
+Alheio a tudo isso, a história ainda conta com o suporte das agruras que a trupe vive, nunca ganhando o suficiente e sempre tendo que eventualmente molhar a mão de alguém, seja de um mecânico de beira de estrada ou um delegado corrupto, para conseguir se safar das situações em que acabam caindo. E até dentro do próprio grupo se vivem os apuros da desonestidade, apuros esses usados como contraparte ou reforço da situação do próprio palhaço, e a dificuldade que este tem em conseguir um sutiã para a colega (grande o suficiente para ela) e um ventilador para o calor delirante são o reflexo que precisávamos para entender que a visão daquela realidade passa pelo filtro triste de um palhaço melancólico, onde sua própria vestimenta de palhaço é vermelha, mas um vermelho pálido, empoeirado, mais triste que alegre.
 

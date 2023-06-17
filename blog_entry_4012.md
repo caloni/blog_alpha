@@ -1,26 +1,11 @@
 ---
-categories: []
-date: '2008-07-04'
-tags: null
-title: VirtualBox
+categories:
+- writting
+date: '2023-03-15T23:08:56-02:00'
+tags:
+- movies
+title: Viveiro
 ---
 
-O VirtualBox parece ser o concorrente mais próximo atualmente da VMWare. Descobrimos ele essa semana e resolvemos fazer alguns testes. O resultado foi bem animador.
-
-Desenvolvido pela Sun Microsystems, as características do VirtualBox impressionam pelo cuidado que houve em torná-lo muito parecido com sua concorrente paga. Apenas para começar, ela suporta dispositivos USB, possui múltiplos snapshots e já suporta o modo do VMWare Fusion - chamado de "seamless mode" - que estará integrado na versão 7 da VMWare.
-
-No entanto, entre as coisas que testamos (instalado em um Windows Vista SP1 como host), o que não funcionou já não agradou tanto. A lista de prós e contras ainda confirma a liderança da VMWare, pelo menos em qualidade:
-
-    Funcionalidade          VMWare             VirtualBox
-    Snapshots               Sim                Sim. Mesma velocidade.
-    USB                     Sim                Sim. Não funcionou.
-    Seamless Mode           Não                Sim.
-    Clipboard               Sim                Sim. Não funcionou.
-    Shared Folders          Sim                Sim. Erros de acesso.
-    Ferramentas Guest       Sim                Sim.
-    Pause Momentâneo        Não                Sim.
-
-Além da tabela de testes acima, é necessário notar que por mas três vezes a VM simplesmente parou de responder, sendo necessário reiniciar o programa Host.
-
-Em suma, o VirtualBox tem tudo para arrasar em futuras versões. Se, é claro, conseguir competir em qualidade com a VMWare que, no momento, é a líder em soluções de virtualização. Talvez por isso sua solução não seja tão barata.
+Filme cheio de metáforas sobre a vida de um casal de classe média. Ainda um jovem casal, eles são obrigados a viver o resto do seu sonho americano em 2x (ou mais), enclausurados em um condomínio de casas, tendo que cuidar de um filho que não pediram. Você já pescou algumas das metáforas. O filme foi feito para o espectador sair da sessão se achando muito esperto por entender algumas delas. Porém, o próprio filme não deve entender metade, pois joga símbolos na nossa cara como a evitar que olhemos para dentro e enxerguemos o vazio que é este filme.
 

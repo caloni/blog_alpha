@@ -1,11 +1,11 @@
 ---
+
+Um dos brancos (o último) de Salta que tinha guardado, é meio desagradável. Confraternização BitForge 2017.
+
+---
 categories:
 - writting
-date: '2017-05-17'
+date: '2018-06-24'
 tags:
-- food
-title: Domingo Molina Rupestre Blend Malbec Merlot Tannat 2013
----
-
-Encorpado, seco, tânico. Corpo médio pra forte, frutas maduras, bem amadeirado e seco. Com o bife de chorizo do Sonda coube perfeitamente.
-
+- wine
+title: Domingo Molina Tannat 2014

@@ -1,21 +1,22 @@
 ---
 categories:
 - writting
-date: '2018-10-26'
-link: https://www.imdb.com/title/tt1893269
+date: '2011-10-25'
+link: https://www.imdb.com/title/tt2087864
 tags:
-- cinemaqui
 - movies
-title: Kusama - Infinito
+title: 'Là-bas: Educação Criminal'
 ---
 
-Kusama - Infinito é um documentário de praxe, desses que tem aos montes na TV e na Netflix (aliás, este possui agradecimentos do serviço de streaming nos créditos finais, o que indica que em breve deve estar disponível para os assinantes).
+Um filme não necessariamente precisa ter um excelente roteiro para levar o espectador a pensar muito a respeito. Algumas vezes, bastam pequenos detalhes que levem em consideração: 1) a inteligência de quem assiste e 2) a motivação narrativa por trás da informação, que o filme fluirá e trará algo de novo para a gaveta de conhecimentos do cinéfilo.
 
-Ele fala da surpreendente carreira da artista contemporânea Yayoi Kusama, que no ápice da loucura se internou voluntariamente em uma clínica psiquiátrica por medo de ter ataques nervosos que trariam um fim à sua vida. Mas ela não podia morrer. Diagnosticada com Transtorno Obsessivo-Compulsivo, Kusama leva as obsessões mentais em sua cabeça a sério. Ela está no limite do que pode-se considerar normal, e é isso que faz ela trazer sua genialidade à tona.
+Esse parece ser o caso desse La Bàs: Educação Criminal, que pelo próprio título já sugere algum tipo de ação ilegal na história. De fato, somos apresentados logo no início a um texto que explica que os africanos imigrados na Itália são proibidos por lei de terem um emprego. Isso já faz pensar de imediato o que essas pessoas fazem para ganhar a vida, e é assim que o fio do enredo se inicia.
 
-O documentário vai cronologicamente explicando sua trajetória, com testemunhos de diretores de arte e alguns amigos. Lembra um dos episódios de Abstract, uma série que apresenta artistas modernos e suas tentativas de transcender, mas com um pouco de drama embutido, como os limites sociais que Kusama encontrou, como a panelinha de arte que favorecia certas pessoas de poder expor nas galerias, ou até a associação que se faz com suas posturas políticas possivelmente controversas, como ser contra a guerra do Vietnã e militar em diferentes protestos nua.
+Usando de uma fotografia cinzenta, triste e empoeirada, dando ao mesmo tempo as sensações de isolamento e de tristeza, logo no começo somos apresentados a um elemento que foge desse padrão: um guarda-chuva vermelho. O vermelho, aqui, representa o usual: perigo, crime, sangue. Com o seu uso estimulado em diversas tomadas, logo aprendemos a observar como as cores se relacionam em diversos planos, e logo notamos que o vermelho exerce uma função narrativa que não pode ser ignorada.
 
-As explicações de sua arte são a melhor parte para leigos, pois tenta nos explicar o porquê dessa mulher ser tão importante para a arte moderna. Porém, o próprio conceito de arte moderna cai na contradição infinita de conseguir definir o que é arte, então há alguns exemplos de valores das obras e outros exibidores famosos, o que pode dar uma ideia mais precisa do peso de Kusama em todo o movimento.
+Da mesma forma a bebida. O protagonista, muçulmano, está proibido de beber pelas leis de sua religião. De qualquer forma, ele bebe eventualmente; e esse é o detalhe sublime: sempre acompanhado de uma mulher. Mulheres e bebidas são associados dessa forma, simples, direta e nada sutil.
 
-Do início ao fim convencional, mas não burocrático, pois consegue em pouco mais de uma hora expor a vida inteira de Yayoi Kusama, "Infinito" é um registro necessário dessa artista, mas que poderia ser mais criativo, já que estamos falando de um dos pilares da criação moderna.
+Ao falar de racismo no filme, nada mais irônico do que colocar capuzes brancos na gangue de africanos que comanda o tráfico de drogas da região, liderados pelo tio do protagonista. Mais ironicamente ainda, a gangue rival, formada por brancos, se veste de preto em seus ataques.
+
+No final, toda essa simbologia de cores se esvai em um terno branco esquecido na floresta. Representando a subida de status do nosso herói, agora representa sua liberdade, e por consequência sua salvação. O protagonista renasce, como veio ao mundo e como é visto pelo filme como símbolo de pureza: negro.
 

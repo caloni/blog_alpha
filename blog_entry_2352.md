@@ -1,16 +1,31 @@
 ---
-categories:
-- writting
-date: '2019-05-10'
-link: https://www.imdb.com/title/tt9097148
-tags:
-- movies
-title: Minhas Famílias
+categories: []
+date: '2016-10-21'
+tags: null
+title: Mini-Debate com diretor de O Que Restou da Minha Vida
 ---
 
-Minhas Famílias é uma pequeníssima janela que o documentarista Hao Wu abre a respeito de sua vida homossexual e a convivência com os pais e com a famíla em geral, chineses tradicionalistas. O lado ruim dele é que não há conteúdo suficiente para valer a pena um longa-metragem, ficando ele no meio do caminhho com seus 39 minutos, e o lado bom é que ele consegue ser sucinto a respeito e evita a todo custo criar um conflito que não existe. As coisas são como elas são. Essa é a mensagem.
+Depois da sessão de hoje do alemão O Que Restou da Minha Vida, candidato à Competição Novos Diretores, adentrou no Cine Caixa Belas Artes Sala 1 o diretor Jens Wischnewski para uma rápida sessão de perguntas. Logo no começo também chega meio apressada a atriz principal do filme, Luise Heyer. As perguntas foram improvisadas pelo (infelizmente) pequeno público, mas foi respondido com muita simpatia (para um alemão) por Wischnewski. Segue as que eu lembro de cabeça:
 
-Ele decide com seu namorado/marido/esposo ter dois filhos em simultâneo. Ele faz inseminação artifical em duas barigas-de-aluguel em paralelo e nove meses depois eles são pais de duas crianças. Vão mostrar aos pais. Desde sua saída do armário até a decisão de ter filhos, todas as opiniões são capturadas de seus familiares, mas quem brilha mais é sua mãe. De sangue italiano, ela parece ter uma luta interna não apenas com ele, mas com qualquer um que ameace sua família. Ela é a matriarca no sentido clássico da palavra, e seu marido, apesar de também seguir a tradição, quer muito ter um neto de seu único filho homem. Nós conseguimos entender o drama dos dois e compartilhar de sua frustração, e Hao, como cineasta, mas potencial protagonista (afinal, esta é a vida dele) se coloca fora da equação, resultando em um filme parcial.
+Você já fez algum curta-metragem antes desse seu primeiro longa?
 
-Essa parcialidade vem do fato que ninguém mais no mundo ocidental em sã consciência debate se homossexualidade é um problema (apenas os ignorantes e fanáticos religiosos, mas danem-se eles). Logo, é natural que ele tenha todos os espectadores do seu lado. É uma decisão inteligente abster-se de defender seu lado, que já foi defendido (e ganho) pelos movimentos LGBTXYZHJKHFIHDKHKHD+. E é muito bom que essa história tenha saído do papel graças à sua coragem de colocá-la em filme. É mais um relato de como a vida pode ser tão simples quanto ela verdadeiramente é.
+Wischnewski: durante minha faculdade de Cinema havia cada ano a produção de um curta, então fiz, ao total, cinco curta-metragens antes de me aventurar em filmes mais longos.
+
+Quanto tempo demorou para ser feito o roteiro?
+
+Wischnewski: o roteiro foi feito durante minha faculdade de Cinema junto com mais pessoas, por isso não estou sozinho nos créditos. Ele foi evoluindo durante o período do curso até procurarmos produzi-lo. Quando ficou pronto, ele já estava bastante caro e longo, então foi necessário buscar financiamento fora da escola.
+
+A ideia da montagem ir e vir com flashbacks já existia no roteiro ou foi sendo feita com o montador?
+
+Wischnewski: inicialmente o roteiro era linear, mas aos poucos vimos que seria mais interessante intercalar os dois relacionamentos do personagem. Uma ideia que também surgiu próximo da produção foi mostrar a nova namorada do personagem antes da falecida, para que o público conseguisse se identificar melhor. Tirando pequenas mudanças, o roteiro já estava completamente pronto na faculdade.
+
+Quanto custou apenas a produção do filme?
+
+Wischnewski: cerca de um milhão e oitocentos (não diz a moeda; provavelmente euros).
+
+De onde veio a ideia de que as coisas são como deveriam ser?
+
+Wischnewski: isso é algo que veio da influência de minhas duas avós; uma delas acreditava nisso, e acreditava no destino. O engraçado é que quando fui mostrar a ela meu filme/ideia, ela já não acreditava mais nisso (risadas), então é por isso também que em um certo momento do filme isso não funciona mais.
+
+O resto foram elogios e comentários periféricos. De um modo geral, deu a sensação que as pessoas gostaram bastante do filme, que ainda não estreou na Alemanha.
 

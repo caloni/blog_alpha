@@ -1,21 +1,23 @@
 ---
 categories:
 - writting
-date: '2021-09-08T20:30:56-03:00'
+date: '2022-10-24T20:26:13-03:00'
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Tenet
+title: Terceira Guerra Mundial
 ---
 
-Nolan finalmente nos entrega uma bomba. Uma bomba confusa e que não dá os cliques necessários para o espectador continuar na jornada e se interessar pelos personagens. No lugar um plot completamente entregue às brincadeiras pseudo-científicas que lembram as que o diretor usou em Interestelar. Mas seu sci-fi anterior pelo menos possuía temas promissores que encantam pelas rimas com o mundo contemporâneo. Em Tenet é tudo sobre a brincadeira e nada sobre o fator humano.
+Que filme maravilhoso esse Terceira Guerra Mundial. Ele te coloca em uma posição constante de reavaliar o que está vendo na tela. Sua manipulação é cinema e sua trama é perfeita para isso. O pano de fundo político trazido no título ganha contornos bizarros que flertam com o trash enquanto mantém o drama real e vivo durante toda a história.
 
-Mas não podemos pedir humanidade de um diretor obcecado pelos jogos visuais intrincados de seus trabalhos intelectualmente mais apaixonantes, como A Origem ou O Grande Truque. A virtude desses trabalhos anteriores estava no gancho com dramas pessoais dos personagens. Aqui não temos esse luxo e tudo se perde em passarmos o filme inteiro tentando entender a lógica intrínseca desse universo, não dando tempo para nos interessarmos nos seres humanos do filme, que viram dispositivos meramente funcionais e vazios de significado.
+Ela começa simples e engraçada, mas não se engane, pois fica "pior". No entanto, o que nos fisga desde sua introdução é a inconformidade em ver trabalhadores comuns sendo transformados por uma espécie de coerção em extras de uma filmagem que os colocam na pele dos judeus em um campo de concentração em plena Segunda Guerra.
 
-O "Protagonista", cujo nome nunca sabemos,  é John David Washington, cuja força de presença é desperdiçada junto de outro ator de peso, Robert Pattinson, que quase nos entrega uma pessoa em quem se espelhar. Ambos estão em uma operação que irá salvar o mundo presente das mãos dos arquitetos do futuro. O que as próximas gerações desejam de nós? Isso é óbvio, mas é entregue em uma fala discreta que talvez você nem perceba.
+No epicentro dessa loucura está Shakib, que surge de uma origem extremamente humilde, um ninguém, para se tornar de uma hora pra outra o astro dessa produção dentro do filme. Não há muita explicação de como isso é possível, e é melhor que fique assim mesmo. Afinal, esta é a visão dos bastidores do poder, que nunca escala. Ficamos o tempo todo observando apenas o ponto de vista dos que não tem onde cair mortos.
 
-Isso porque estamos anestesiados pelo nossa impotência em compreender boa parte das cenas, que brincam com o verdadeiro protagonista da história: objetos e pessoas cuja ações se passam invertidas no tempo, uma invenção dos vilões do futuro usada por um vilão do presente. O ator que o interpreta também quase entrega a coisa real, mas vira uma caricatura no processo graças o roteiro do próprio Nolan, que infelizmente não conhece a natureza humana a ponto de entender sua maldade mais pura.
+WWIII possui o controle coeso e tenso do diretor sírio Soudade Kaadan. O uso de campo reduzido permite focar em detalhes do fundo com muito controle. Vemos uma câmera de passagem pelo escuro, um alçapão que se abre rapidamente com alguém jogando neve, ou os corredores "infinitos", porque é muito difícil ver seu final.
 
-Nem o amor. Em poucas cenas o herói do filme decide que precisa salvar a donzela do filme acima do mundo. Uma donzela fria, alta e magra. Foi uma tentativa de Bondzar este que também é um filme de detetives misturado no meio com operações estilo SWAT e vídeos de explosões invertidas para saciar o desejo estético da criança interna do diretor.
+A trilha sonora de Rob Lane e Rob Manning é econômica, pois mantém notas evocativas que nunca cumprem a promessa de comentar o filme, o que é a melhor parte. É sempre um falso começo que atordoa na medida certa e define um tema.
 
-Tenet é um filme ruim, mas não detestável, pois não há como desgostar das brincadeiras de uma criança que leva a sério as mais ingênuas bobagens que nossa imaginação consegue conceber.
+A atmosfera da ficção se amplia sob o contexto social. Essa relação de poder na questão econômica entre as classes envolvidas permite criar a rima que Mark Twain cita, em sua frase sobre a história usada no começo do filme: "a História raramente se repete, mas quase sempre cria rimas".
 

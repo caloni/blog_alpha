@@ -1,13 +1,13 @@
 ---
 
-O projeto Houaiss2Babylon, iniciado há mais de 6 anos, já devia estar ultrapassado. Porém, cada vez mais pessoas compartilham seus usos e desusos do que foi um dia uma base de dados ofuscada e presa a apenas uma interface Windows. Agora, além de já ter sido convertido para Kindle, em Python e agora através do nodejs para o MySql!
+Saindo mais um do forno.
 
-O jornalista e programador [Arthur da Paz](https://github.com/arthurdapaz) desenvolveu esta última novidade no programa e gentilmente compartilhou conosco direto no repositório original do HouaissParaBabylon, colaborando felizmente para que esse nome perdesse um pouco mais do sentido (Babylon já está meio ultrapassado, não?). Além disso ele encontrou a solução para um bug que invertia a ordem de apresentação das Rubricas, cujos detalhes ele explica nos comentários do post sobre a última versão.
+Essa nova versão do conversor do dicionário Houaiss para Babylon corrige o problema de não encontrar o Houaiss 1.0. O problema ocorria porque o conversor se baseava na localização do desinstalador para encontrar o dicionário. Na primeira versão do dicionário o desinstalador fica na pasta c:\Windows, onde obviamente não estava o dicionário.
 
-Muito obrigado ao Da Paz e a todos que colaboram e compartilham melhorias para esse projeto. Um dicionário não é nada sem as pessoas que o utilizam.
+Nessa nova versão, além de procurar o caminho do dicionário no registro (desinstalador) e antes de pedir para o usuário o caminho correto é tentado o caminho padrão de instalação, %programfiles%\Houaiss. Se mesmo assim o dicionário não existir continuamos perguntando para o usuário, que tem a opção de dizer onde está instalado o dicionário no disco rígido ou apontar diretamente para o CD de instalação.
 
 ---
 categories: []
-date: '2010-04-08'
+date: '2008-11-15'
 tags: null
-title: Houaiss Para Babylon!
+title: HouaissParaBabylon versão beta

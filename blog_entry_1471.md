@@ -1,26 +1,30 @@
 ---
-
-Era o Hotel Cambridge é um documentário que tenta se estruturar como ficção. Sua heroína é uma personagem da vida real. A mescla entre real e o faz-de-conta funciona como catalisador das transformações sociais e um retrato dramático da vida de pessoas que são excluídas de um populismo político que durou uma década e encontrou seu merecido fim: escassez, caos e violência.
-
-A história se passa em um dos inúmeros prédios abandonados do centro da cidade de São Paulo, Brasil. Quem transita frequentemente por estas ruas já se acostumou com o panorama político pintado em faixas vermelhas, com siglas das mais generalizantes, de movimentos de pessoas que invadiram esses prédios caindo aos pedaços com dezenas de famílias. Seus objetivos, além de ter um lugar para morar, é conscientizar a população de que não há, de fato, moradia para todos (diferente do que foi gritado aos quatro ventos pelo governo por uma década). O problema central vem na forma de uma decisão judicial de reintegração de posse, o que quer dizer que todas aquelas pessoas serão efetivamente despejadas do lugar.
-
-Isso não impede que a vida continue, e acompanhemos o dia-a-dia dessas pessoas, algumas reais, outras atores, e há uma mescla entre os dois. A equipe de produção do filme adentra em um ambiente de conflito para contar uma história surgida de muita pesquisa, e a sensação constante é de estar em um documentário que usa a ficção para se sentir mais forte. Porém, é a capacidade da diretora Eliane Caffé o grande trunfo da empreitada, já que sua narrativa esconde com sucesso as muitas cenas que vemos que não têm qualquer ligação com uma possível trama. Vemos um casal se beijando, e um voluntário cuidando da elétrica e um refugiado internacional recém-repatriado pelo movimento. Pessoas recitam poesias vazias, o que nos faz voltar frequentemente da ficção e inspecionar nossa consciência: essas pessoas são reais demais para terem sido inventadas.
-
-Além disso, há uma edição dinâmica, que conta os dias que faltam para o despejo usando números pintados nos prédios. A última cena, de ação, culmina na melhor sequência do longa em sintetizar os paradoxos políticos, onde policiais truculentos atacam uma população desenganada lutando pelos seus direitos, garantidos em Constituição, mas impossíveis de serem concretizados na vida real.
-
-Aqui segue um pequeno parênteses sobre a lógica e a dinâmica desses movimentos. Ele está fortemente representado no filme por figuras conhecidas do cotidiano atual, como imigrantes fugidos de seu país de origem, geralmente por causa da guerra e perseguição, mas também contém elementos mais peculiares ainda do panorama urbano: os migrantes de estados mais pobres do Brasil, que vieram também em busca de uma vida melhor.
-
-Porém, além disso, a despeito do não-mostrado no filme, ele está bem aparelhado politicamente. Esses movimentos organizam invasões em grandes mobilizações orquestradas por ônibus e marretas. Mas se trata de um documentário com algumas partes de fora, que não explica muito bem de onde vêm os recursos para isso. Se esse detalhe poderia mudar nossa opinião sobre esses grupos, nunca saberemos apenas pelo filme.
-
-As atuações funcionam bem porque há um clima de cenas ensaiadas, mas com pessoas reais. Sabemos que há uma atriz de verdade no grupo, o que parece levantar a moral do resto. E eles estão inspirados na fala. A preparação de elenco rivaliza com Cidade de Deus, com falas ágeis, com uma cadência natural que quem mora na cidade constataria como legitimamente paulista.
-
-Além disso, Era o Hotel Cambridge se constitui como um retrato legítimo das discussões sociais e políticas da atualidade. Sem muito jeito nem muita lógica, o apelo à emoção começa nas poesias recitadas por um refugiado do Oriente Médio e termina em um teatro de movimentos paralisados, exatamente a síntese de como militantes e ativistas se vêm: heróis imortalizados e/ou as vítimas/protegidos clássicos: os menos beneficiados pelo próprio Estado cuja existência por motivos sociais tanto defendem.
-
----
 categories:
 - writting
-date: '2019-08-23'
-link: https://www.imdb.com/title/tt7131622
+date: '2013-10-31'
+link: https://www.imdb.com/title/tt0046438
 tags:
 - movies
-title: Era Uma Vez em... Hollywood
+title: Era uma Vez em Tóquio
+---
+
+Tokyo Story, ou Era Uma Vez em Tóquio, como seus títulos ocidentais sugerem, é um conto, que se constrói no Japão pós-guerra e faz uma dura crítica à sociedade ocidentalista da época, mas como todo grande filme se torna atual mesmo 50 anos depois pelas suas mensagens eternas sobre vida e família.
+
+Iniciando com uma viagem do marido e esposa já aposentados que vão se encontrar com seus filhos em Tóquio, vão aos poucos percebendo que a cidade grande e seus afazeres da vida moderna não têm tempo nem espaço para acomodá-los, com exceção de sua amável nora, que parece sempre priorizar o bem estar dos seus sogros mesmo que este não sejam de fato sua família e que seu marido já tenha falecido há mais de oito anos na guerra.
+
+Embora tenham lá seus momentos agradáveis e nunca transpareça que seus filhos no fundo acham sua presença um estorvo, a genialidade do filme aparece nos pequenos detalhes, nos diálogos e muitas vezes nas próprias situações que vão ocorrendo tão naturalmente que o diretor parece não querer julgar nada em momento algum. Isso faz com que o espectador nunca julgue, mas esteja sempre atento à reflexão do que aquelas cenas conseguem transmitir de mensagem.
+
+E parece ser isso a força invisível desse filme. Muitos excelentes trabalhos posteriores usaram a mesma receita - onde se encaixa com certeza o tocante [Hanami] - mas Tokyo Story tem aquele ingrediente mágico de fazer as pessoas pensarem por si sós o que tudo isso significa. Essa leveza de cores pode transformar a vida de muita gente por muitas décadas ainda.
+
+## Tokyo Story em Família
+
+Caloni, 2021-12-18.
+
+Assisti novamente este clássico, dessa vez em família. Família japonesa. Foi divertido acompanhar os comentários da minha sogra sobre sua avó e os costumes da época, assim como o quão apertadas já eram as casas em Tóquio na década de 50. A naturalidade com que as coisas acontecem em Era Uma Vez em Tóquio rivalizam com os enquadramentos bidimensionais dos personagens, enclausurados nesta realidade imutável do tempo.
+
+Ambas as virtudes pertencem ao seu diretor, Ozu, que parece deixar fácil uma história que transcende sua primeira camada. Quando a nora fala sobre ser egoísta e toda uma última discussão entre os personagens mais íntegros desta história, é quando percebemos a real profundidade deste filme. Ele é eterno, pois trata da humanidade como ela é. Como as gerações se tratam, o distanciamento, os interesses. Acaba sendo um reflexo histórico também do Japão da época, embora possa servir para qualquer época.
+
+E nisso entra Hanami, uma reencarnação mais jovem e artística. Hanami é obviamente uma homenagem e referência, e não um remake, pois o próprio assunto de sombra e espírito informam ao espectador que este é um tema antigo sob uma nova roupagem, não melhor ou pior, apenas diferente.
+
+[Hanami]: {{< relref "hanami-cerejeiras-em-flor" >}}
+

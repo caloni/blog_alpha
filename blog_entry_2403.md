@@ -1,20 +1,23 @@
 ---
 categories:
 - writting
-date: '2010-09-24'
-link: https://www.imdb.com/title/tt0948530
+date: '2023-01-24T10:50:40-03:00'
 tags:
+- cinemaqui
+- mostratiradentes
 - movies
-title: Moscou Bélgica
+title: Mostra Foco Série 1
 ---
 
-Essa é uma "comédia romântica" dramática que conta a história de uma mulher recém-separada que quer viver uma vida normal, mas bate o carro em um caminhão e conhece um italiano charmoso que a convida para sair. O resto é passado em uma longa história onde veremos, com nossos olhos incrédulos, a maneira deliciosa que a narrativa nos conta a evolução daquela mulher recém-separada que está literalmente acabada na primeira cena, no corredor escuro e fechado, com a câmera mais alta, fazendo compras no supermercado, e a outra, radiante, caminhando em direção ao nascer do sol do lado dos trilhos, abertos e livres.
+Os Animais Mais Fofos e Engraçados do Mundo, de Renato Sircilli
 
-Sempre com a câmera tremendo, a ansiedade e a tensão são intensificados de maneira realista e quase documental, embora tudo com um clima bem agradável e piadas inteligentes que desenvolvem o perfil de cada personagem e determina competentemente a função de cada um em torno da grandiosa protagonista que vemos evoluir durante toda a filmagem.
+Se há um curta mais sucinto e poderoso que este na Mostra de Tiradentes eu não o vi. Ele fala sobre nossa crise de afeição moderna. Paulo Goya constrói Jorge, um faxineiro de motel que grava áudio dos clientes para vender a Alberto, que vira seu parceiro sexual. Parece um negócio em que todos ganham, mas apesar de ter tudo, Jorge não tem o mínimo para uma vida sã: o afeto do outro. Sua gravação mais emblemática é de um casal hétero em que ela compartilha vídeos de bichinhos com o amante. Repare nas relações metafóricas do filme, como entre esse momento e as marcas no corpo de quem um raio o atravessou, e verá um trabalho detalhista e carregado de ensinamentos emocionais.
 
-Não só isso, algumas cenas e cenários são escolhidos a dedo, em sequências econômicas e expressivas ao extremo, como quando vemos o namorado dela bêbado pela primeira e única vez brigando com sua ex-mulher e seu amante; note como a câmera treme de forma diferenciada, com o foco se perdendo fácil e cortes não-lineares.
+Lalabis, de Noá Bonoba
 
-Por outro lado, veja como a luz que incide sobre o casal que reata na penúltima cena demonstra toda a fragilidade de ambos, tanto no choque entre eles (ela dá um soco no nariz dele) quanto na pureza deste (ele beija o punho que ela machuca no ato).
+Experimental e apocalíptico, Lalabis é atraente em sua confecção modernista deste mundo onde todos estão paralisados menos a heroína do filme. Ela tenta compreender o que aconteceu e no processo descobre uma segunda camada, uma camada mística, por trás do que ocorre com os humanos. Incompleto e inspirador.
 
-Mas se uma cena ou outra nos faz comovidos tão facilmente, apesar das posições e movimentos brilhantemente escolhidos pelo diretor, o grande "trunfo" de todo filme é a atriz principal, que constrói de maneira inequívoca uma personagem desatada com o que existe em sua volta, que insiste em comer as coisas com mostarda e não sente o gosto de nada (outra metáfora usada de maneira tão inteligente, como quando ela volta a usar mostarda quando volta com o marido). Enfim, uma mulher que deseja e tenta ardentemente ter uma vida normal, mas nunca consegue, e se sente frustrada e perdida por isso. Porém, aos poucos ela vai entendendo a dinâmica de sua vida a partir de suas experiências, decide agarrar com convicção o que tem aprendido e escolhe o que disse que sabia desde o começo da vida: ser feliz. Tudo isso sem explicações, sem diálogos expositivos, mas apenas com pequenas expressões e gestos tão bem trabalhados.
+Promessa de um Amor Selvagem, de Davi Mello
+
+Quando o "ser normal" não passa apenas de um sonho é melhor que a morte seja a solução de nossos problemas. O trabalho de Davi Mello explora uma dualidade do ser que navega entre gêneros e épocas com facilidade para o espectador entender. Talvez seja fácil demais. Ao final, o sabor do inesperado e enigmático se mantém por pouco tempo. Falta ousadia em uma ideia bacana, não original, mas feita com esmero. Não é ideia para um longa, mas faz querermos pelo menos mais alguns minutos no mundo mágico das linhas de vida e troca de perspectiva.
 

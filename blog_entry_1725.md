@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2015-07-02'
+date: '2019-05-20'
 tags:
 - food
-title: Gourmet da Bonnie
+title: Gran Tarapaca Carménère Reserva 2017
 ---
 
-Razoável; tem suas bichisses, mas nada que incomode. É intenso, bom amargor, um pouco adocidado. (desconfio que seja o mesmo que comprei)
+Tomado em copo de plástico. Continua elegante, vistoso, frutoso e gostoso.
 

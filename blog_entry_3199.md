@@ -1,15 +1,17 @@
 ---
-categories: []
-date: '2017-03-15'
-tags: null
-title: qt5.natvis
+categories:
+- writting
+date: '2016-11-18'
+tags:
+- series
+title: Quando a realidade encontra South Park
 ---
 
-A estratégia que utilizei em meu [último artigo sobre Qt] para expandir o tipo QString no depurador não existe mais no VS2017 RC. O arquivo autoexp.dat foi extirpado e em seu lugar foi deixado os já ativos arquivos natvis, que podem ser usados de forma global ou por usuário.
+South Park é uma série que homenageia o pior em nós mesmos. A série criada pela dupla Trey Parker e Matt Stone a partir de personagens recortados em 2D é um retrato fiel da estupidez humana. Porém, nem os criadores conseguiram prever tão longe. E quando enxergamos o mundo de hoje lembramos da célebre frase de Einstein: "duas coisas são infinitas: o universo e a estupidez humana". Sábio como era, porém, o famoso físico possuía algumas dúvidas a respeito do universo não ter fim.
 
-Existe um arquivo pronto circulando pela net chamado qt5.natvis. Alguns funcionam, outros não. As strings estão funcionando no meu depois que eu adaptei este arquivo com as dicas do help do qt.
+A série South Park nessa temporada estava, como de costume, brincando com as eleições americanas, onde concorrem mais uma vez os nomes fictícios (mas facilmente deduzíveis) Sanduíche de Merda (Hillary) e o Imenso Retardado (Trump). Em seus últimos episódios ele narra a vitória de Trump, travestido como o professor Garrison, um xenofóbico machista e todos os nomes que a esquerda gosta de usar (e o cúmulo da ironia, ele é gay).
 
-Se você é admin de sua máquina, basta copiar este arquivo em %programfiles(x86)%, Microsoft Visual Studio, 2017, Enterprise, Common7, Packages, Debugger, Visualizers. Se for um usuário mané, em %USERPROFILE%, Documents, Visual Studio 2017, Visualizers.
+Não imagino que os criadores estavam realmente contando com a vitória do republicano, e possivelmente iriam fazer alguma reviravolta no final do episódio colocando o Sanduíche de Merda... quer dizer, a Hillary, de volta ao poder (como na vida real provavelmente seria). Porém, a revolta contra o stablishment norte-americano e mundial trouxe a revolta e o desinteresse da população para as urnas, onde cabe qualquer opinião que estiver disponível nas ruas e ganhe um coro coletivo cada vez maior. É o caso agora em que a crise econômica desanima um povo que espera(va) demais de seus governantes, contrariando sua própria carta magna.
 
-[último artigo sobre Qt]: {{< relref "visualizando-qstring-no-visual-studio" >}}
+No entanto, agora a série terá um momento espetacular nos próximos quatro anos, onde possivelmente manterão Garrinson como presidente dos EUA (ou enquanto ele se manter lá). A vida real, aparentemente, faz algumas dobras no espaço-tempo e acaba encontrando uma realidade alternativa ainda mais maluca: a que sai das famigeradas mentes criadoras de um cartoon politicamente incorreto.
 

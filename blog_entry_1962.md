@@ -1,37 +1,22 @@
 ---
 categories:
-- reading
-date: '2018-08-18'
-link: https://youtu.be/-X0A5etb0kk
+- writting
+date: '2013-01-28'
+link: https://www.imdb.com/title/tt1428538
 tags:
-- body
-title: Jejum Intermitente e Nutricionistas em Fúria
+- movies
+title: 'João e Maria: Caçadores de Bruxas'
 ---
 
-Eu entendo que nutricionistas precisem defender sua profissão. Muitas pessoas no mundo todo possuem uma dieta errante totalmente inadequada com suas condições de saúde, e a área de nutrição pode e deve crescer com base em evidências científicas, da mesma forma como acontece com a medicina. Uma das funções mais importantes desses profssionais hoje em dia é desmistificar e validar as conhecidas dietas da moda: comer de três em três horas, dieta paleolítica, cortar carbo, comer só uma coisa a semana inteira, etc.
+João e Maria, como pode-se notar pelo título e sub-título, é uma reinterpretação do conto infantil dos dois irmãos que, perdidos na floresta, acabam entrando em contato com uma bruxa que mora em uma casa feita de doces. Esse é o único detalhe de toda a trama que nos faz lembrar da história clássica. A partir do momento em que eles se livram da bruxa e a queimam viva a história muda completamente de tom. Naquelas duas faces jovens e satisfeitas por assistirem ao seu precoce primeiro assassinato podemos constatar impressionados que a história não é mais de duas crianças indefesas, mas de dois psicopatas.
 
-O que eu não entendo de tudo isso é a razão pela qual conteúdo duvidoso é escolhido como base de notícias pelo canais de mídia. O jejum intermitente finalmente foi escolhido para ser explicado (e criticado) cientificamente aos leigos, mesmo já sendo moda há alguns anos mas entre dezenas de papers e experimentos realizados em camundongos e humanos por vários anos foi escolhido apenas um experimento recente feito por dois estudantes de pós da USP, sem revisão por pares e já com algumas críticas da comunidade científica por conta de sua metodologia.
+Em uma criação de arte interessante ao conceber um antigo vilarejo com uma mitura de realismo e fábula vemos agora o já crescido casal de irmãos equipados com uma tecnologia tão avançada que se assemelha à mesma mágica usada pelas bruxas que estes se especializaram em eliminar. No fundo, podemos dizer que para aquelas pessoas simples do campo os exterminadores de bruxas possuem os mesmos poderes que estas, mas os usam para o "bem": eliminar essas criaturas horrendas em troca de recompensas em dinheiro.
 
-O motivo pelo qual resolvi escrever um pouco a respeito disso é que eu faço jejum intermitente há mais de um ano por sugestão de um amigo que havia começado há pouco tempo e que antes de ter tomado essa decisão resolveu estudar a fundo os efeitos dessa, podemos dizer, dieta. Eu comecei a fazer e em paralelo fui estudando, seja em blogs para algo mais informal, descartando mitos ou até em papers mais detalhados, onde se observou longevidade em camundongos e aplicações moleculares da dieta. Por fim, há até uma palestra no TED sobre como funciona o aprimoramento do cérebro pelo jejum (e uma possível conspiração da indústria alimentícia contra esse método de dieta) e, para os mais radicais, uma observação molecular de como funciona o processo de acúmulo e uso de energia no corpo humano.
+A história não deixa claro porque eles se especializaram em matar bruxas ou por que escolheram essa vida. Também não fica muito simples determinar qual a época retratada nem em que mundo vivem, pois uma pequena vila distribui garrafas de leite com desenhos de crianças desaparecidas, como se faz hoje em dia onde as cidades possuem milhões de habitantes, e existe uma espécie de jornal que narra as façanhas do casal eliminando essas pragas que aparentemente existem por toda a parte. (Fora que eles possuem já tratamento para diabetes.)
 
-Dessa forma, fiquei muito surpreso ao ver um vídeo no canal Notícias de Garagem, um canal que supostamente era um dos mais conceituados sobre notícias científicas em português do YouTube, falando sobre Jejum Intermitente apenas sob três aspectos principais, dois negativos: ele gera queda de peso, ele pode prejudicar o senso de fome e ele pode causar diabetes.
+O que o roteiro escrito pelo também diretor Tommy Wirkola (Zumbis na Neve) e o estreante Dante Harper deixa claro é que não está se levando muito a sério, criando diálogos expositivos demais ("você nunca achou uma bruxa que não quisesse matar?") que acabam por tornar toda a experiência previsível do começo ao fim. Mesmo as cenas de ação são criadas claramente para explorar apenas a sua versão tridimensional do filme, incluindo as cenas escatológicas, e vão perdendo aos poucos o dinamismo inicial, quando ainda não sabíamos as técnicas usadas pela dupla de irmãos para capturar seres que voam em uma vassoura a velocidades impressionantes.
 
-O estudo citado sobre a estudante no Jornal da USP tem o título "Jejum intermitente 24 por 24 horas aumenta risco de diabete em ratos" e foi demonstrado no European Society of Endocrinology annual meeting de 2018. O estudo em si se chama "Intermittent fasting for three months decreases pancreatic islet mass and increases insulin resistance in Wistar rats" e foi feito por  Ana Cláudia Munhoz Bonassa e Angelo Rafael Carpinelli. Além de ser uma pesquisa preliminar, não sendo recomendada sua divulgação como algo alarmante, recebeu algumas críticas contundentes sobre sua metodologia no evento, como a do Dr. Nicolas Guess, palestrante do Nutritional Sciences at Kings College London:
+Mesmo assim, o que [Abraham Lincoln: Caçador de Vampiros] falhou em utilizar efeitos digitais à exaustão e um tom mais sério totalmente inapropriado para sua história, João e Maria: Caçadores de Bruxas entende que não se recria uma fábula com pano de fundo trash sem conter em seu subtexto algumas piadas a respeito de si próprio ou do mundo fora do filme. E se o fato de existir um troll chamado Edward não é prova o suficiente, não sei o que é.
 
-> Firstly, it's important to bear in mind there are important differences between rodents and humans -- particularly with regard to diet. For example, a high fat diet causes insulin resistance in rats but it does not appear to in humans.
->
-> The exact method is unclear from the abstract, but if the rats were fasted for one day, this is equivalent to an approximately 3 to 4 week fast in humans! So it's not applicable to the 24-hour or 48-hour fasts practised by humans on common fasting diets.
-
-Considerando todas as infomações coletadas em diversas fontes é possível perceber uma certa parcialidade no vídeo da turma do Dragões de Garagem, algo que eu poderia entender como mau-caratismo não fosse a possibilidade desta ser uma reportagem equivocada e feita às pressas. Seria apenas questão de eliminar mais uma dieta da moda da lista das soluções milagrosas. Se for esse o objetivo, eles estão certos: é importante eliminar a enorme desinformação que corre pela internet. Porém, não se faz isso espalhando mais desinformação. Que pelo menos fosse alguma informação equilibrada sobre o assunto.
-
-Fontes citadas:
-
- - [Intermittent Fasting 101 — The Ultimate Beginner’s Guide](https://www.healthline.com/nutrition/intermittent-fasting-guide)
- - [Google](https://www.google.com.br/search?q=intermittent+fasting)
- - [11 Myths About Fasting and Meal Frequency](https://www.healthline.com/nutrition/11-myths-fasting-and-meal-frequency)
- - [Fasting: molecular mechanisms and clinical applications](https://www.ncbi.nlm.nih.gov/pubmed/24440038)
- - [Why fasting bolsters brain power: Mark Mattson at TED](https://youtu.be/4UkZAwKoCP8)
- - [Glycogen in Four Parts](https://youtu.be/0xj4etF0wkw)
- - [Jejum intermitente “24 por 24” horas aumenta risco de diabete em ratos](https://jornal.usp.br/ciencias/ciencias-biologicas/jejum-intermitente-24-por-24-horas-aumenta-risco-de-diabete-em-ratos/)
- - [expert reaction to unpublished poster presentation on diabetes and fasting as presented at the European Society of Endocrinology annual meeting, ECE 2018](http://www.sciencemediacentre.org/expert-reaction-to-unpublished-poster-presentation-on-diabetes-and-fasting-as-presented-at-the-european-society-of-endocrinology-annual-meeting-ece-2018/)
+[Abraham Lincoln: Caçador de Vampiros]: {{< relref "abraham-lincoln-cacador-de-vampiros" >}}
 

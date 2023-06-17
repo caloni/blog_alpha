@@ -1,20 +1,18 @@
 ---
 
-É difícil saber o que esperar dessa série de humor da Netflix. Ela oferece personagens que são sobrenaturalmente estúpidos. Mas, ao mesmo tempo, é tentador entender a mente de pessoas tão estúpidas interagindo, especialmente se essas pessoas possuem uma visão tão fechada sobre o mundo e pretendem ganhá-lo, elevando à fama a garota mais mimada da casa: Miranda Sings (o nome veios antes da fama, para saberem que o que ela faz no YouTube é cantar). Se os personagens são estúpidos, e alguns deles possuem atuações dignas de nota, eu arrisco dizer que nada disso é relevante se você não olhar para o desempenho de Colleen Ballinger e constatar: esse projeto nasceu nessa performance. Quer dizer... o que é isso?
+Uma ideia interessante, estruturada de maneira interessante, e executada desleixadamente. Tem a ver com sexo, tem a ver com drama, tem a ver com crime. E isso é motivo de sobra para a diretora Kaori Momoi se achar a fodona e deixar todos nós entediados.
 
-Ballinger consegue entonar seu nariz ao nível do ridículo sem soar exagerada além do que seu personagem propõe. Isso porque Miranda Sings é realmente idiota, não possui talento nem carisma. Mas possui algo que dizem que leva qualquer pessoa ao sucesso: força de vontade. Ela, assim como seu estúpido tio, acreditam em uma série de passos que irá levar Miranda aos holofotes mais potentes. E o primeiro passo, naturalmente, é gravar um vídeo e publicá-lo no YouTube.
+Porém, veja bem. O filme é um confessionário com um psiquiatra que começa a ser influenciado pelo "fogo" da testemunha-chave: uma prostituta japonesa meio ninfomaníaca (a própria Momoi) que mora em solo americano já há algum tempo, mas não soube usar sua boca para falar inglês (estava ocupada fazendo outras coisas). O roteiro no começo tenta torná-la vítima das circunstâncias -- o que ela é -- mas ele insiste tanto que ela acaba ficando com a impressão de ser apenas uma vadia, mesmo.
 
-A direção mista de Andrew Gaynord e Todd Rohal criam um ambiente igualmente surreal, onde a cidadezinha lembra lugares de outros filmes, como Edward Mãos de Tesoura, Mulheres Perfeitas, O Show de Truman, e ao mesmo tempo possui seu charme particular: as pessoas não percebem quando outras são perigosamente estúpidas. Ou não ligam. Quer dizer, até o funcionário de uma loja de peixes fritar todos eles com luz artificial.
+As câmeras duplas, o consultório do doutor com o detetive sentado ao lado; os inúmeros movimentos de câmera, lento, excessivos, tentando sair do marasmo, fazem o possível para tornar o seu monólogo minimamente interessante. Porém, o texto composto por quatro roteiristas (incluindo Momoi) não consegue encontrar o ponto-chave que liga a aparente loucura da protagonista com seus relatos. Falta uma alma que conecte o que ela sofreu para entendermos qual é o verdadeiro drama.
 
-O nível de gags da gangue de roteiristas oscila entre o simples idiota de um episódio de Chaves até o ligeiramente brilhante. É difícil saber o que virá em seguida. E parece que ambos os extremos costumam funcionar. Os que não funcionam não chegam a representar um perigo para a série, já que ela é composta -- já comentei isso? -- por personagens realmente estúpidos.
-
-A única coisa que costuma incomodar am Haters Back Off! -- quem diria -- é quando seu roteiro é inteligente o suficiente para gerar a dúvida se aquelas pessoas são verdadeiramente idiotas ou estão apenas fingindo. E isso você verá muito pouco. Portanto, se assistiu um episódio ou dois, fica minha sugestão: dê mais uns 50% de chance para Miranda Sings. Ela pode tocar seu coração ou até outro órgão. E, com certeza, nunca seu cérebro.
+Sem isso, se torna uma tentativa estéril (trocadilho intencional) de reproduzir uma Ninfomaníaca (Lars von Trier) embutida em um thriller de quinta categoria.
 
 ---
 categories:
 - writting
-date: '2016-10-31'
-link: https://www.imdb.com/title/tt1121024
+date: '2013-01-20'
+link: https://www.imdb.com/title/tt1720114
 tags:
 - movies
-title: Haymatloz - Exílio na Turquia
+title: Heleno

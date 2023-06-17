@@ -1,11 +1,20 @@
 ---
 categories:
 - writting
-date: '2022-04-18T21:36:53-03:00'
+date: '2020-03-10'
+link: https://www.imdb.com/title/tt9760504
 tags:
-- series
-title: Ninguém Pode Saber (Pieces of Her)
+- movies
+title: Ninokuni
 ---
 
-É com aquela atriz talentosa, apesar de feia que dói. A pegada é ser uma espécie de thriller de espionagem com um pé na realidade. Esse pé é tipo aquele pé tímido sentindo a água fria da piscina. A atriz jovem, Bella Heathcote, é linda e uma delícia, motivo pelo qual a série enquadra vários momentos com ela com a câmera por trás e ela de jeans ou close dela bem iluminada e maquiada. Ela interpreta a filha de Toni Collete de um início onde ela não sabe como agir frente a uma ameaça de vida ou morte, passa pela total incapacidade de comprar um carro e vai para "agora sou espiã, roubo cartões de acesso e uso peruca". Este salto gigantesco é marca registrada de uma TV preguiçosa e de certa forma inclusiva demais. Incluir incompetentes não é a diversidade nas artes desejada.
+Uma animação dos Estúdios Ghibli recente, com distribuição Warner e Netflix. Os animadores juntam algumas cenas com computação para aumentar a resolução e construir exércitos de clones. O resultado é pavoroso. Felizmente são apenas alguns momentos.
+
+Este filme é baseado em um vídeo game. Sua história é confusa e sem sentido, mas podemos ver suas origens em um Sword Art Online para adolescentes agitados. Também lembra e referencia o clássico D&D, ou Caverna do Dragão para os brazucas, com seu vilão que realiza morph com criaturas horrendas.
+
+É um conceito que distrai mais do que sua história. Na meia-hora final há umas reviravoltas e a resolução de um enigma que ninguém percebeu que seria melhor que ninguém tivesse percebido, mesmo. É tanta vergonha que você desejará não ter assistido. É teen até o osso, é inconsequente e inocente no mal sentido. É um jogo de criança nas mãos de animadores competentes.
+
+A vaga ideia de que existem dois mundos conectados pelas suas vidas se torna mais vaga ainda no final, e a pouca simpatia que tínhamos pelos adolescentes genéricos e estereotipados do começo irá passar rapidamente. Há violência e morte como forma de chamar a atenção, mas chega uma hora que nem isso funciona mais.
+
+Ghibli pós-Miyasaki vira uma pastelaria de animações que não amadureceram para começar a ser desenhadas. O resultado se torna pior com experimentos em computação para agilizar o que não se deve nunca apressar: o desenvolvimento natural e orgânico de uma obra de arte.
 

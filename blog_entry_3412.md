@@ -1,20 +1,69 @@
 ---
 categories:
-- writting
-date: '2016-03-19'
-link: https://www.imdb.com/title/tt1219289
-tags:
-- movies
-title: Sem Limites
+- coding
+date: '2011-05-18'
+tags: null
+title: Sem reflection
 ---
 
-Bradley Cooper protagoniza este filme de Neil Burger, provavelmente o melhor trabalho até aqui do diretor que já fez O Ilusionista, mas também Divergente.
+Em C++ não temos (ainda) a possibilidade de listarmos, por exemplo, a lista de métodos de um determinado tipo, a fim de chamá-lo pelo nome em tempo de execução. Algo assim:
 
-A história, adaptada pelo igualmente habituado a trabalhos medíocres Leslie Dixon, é baseada no romance de Alan Glynn, e talvez por isso suas ideias sejam interessantes se levadas pela abordagem realista que o filme todo o tempo tenta trazer.
+```
+class MyClass
+{
+public:
+        void Method1();
+        void Method2();
+        void Method3();
+};
 
-Cooper é Eddie Morra, um escritor frustrado em crise de inspiração, que engole um pílula de uma nova droga que promete trazer concentração e acesso ao cérebro inimagináveis. A partir daí, sua vida muda e rapidamente o escritor frustrado tem um livro em 4 dias e começa a operar loucamente na bolsa de valores, atiçando a "curiosidade" de velhos veteranos nesse jogo, como Carl Van Loon (Robert De Niro), que faz a vez Gordon Gecko (Wall Street).
+int main()
+{
+        MyClass c;
+        if( auto m = typeid(c). methods. getaddresof( "Method1" ) )
+                m();
+}
+```
 
-O filme tenta explicar muita coisa visualmente, o que é ótimo. Vemos praticamente o ponto de vista de Eddie, que é o narrador onisciente. Porém, as narrações são recheadas de obviedades e redundância ao que acabamos de ver, o que torna a experiência meio enfadonha. As melhores partes, sem dúvidas, são quando, por relapso ou proposital, não sabemos direito a relação entre os usuários dessa droga.
+OK, foi apenas um exemplo tosco de como seria um reflection em C++.
 
-E outra coisa que força demais a lógica dessa atmosfera de conspiração é quando percebemos que nenhum desses gênios instantâneos foi capaz de reproduzir a fórmula, embalados na ganância do dinheiro fácil. Talvez seja apenas a visão do filme de que apenas os gananciosos usariam essa droga, ou conseguiriam obtê-la.
+Porém, existem algumas maneiras de contornar esse problema. A solução, é claro, depende de qual problema você está tentando resolver.
+
+Vamos supor, por exemplo, que você queira cadastrar funções para serem chamadas de maneira uniforme pelo prompt de comando. Vamos chamar nossa classe tratadora de CommandPrompt.
+
+```
+typedef void (Method*)(vector<string>& args);
+
+class CommandPrompt
+{
+public:
+        void Add(string name, Method m); // adiciona novo método
+        void Interact(ostream& os, istream& is); // começa interação com usuário
+};
+```
+
+Internamente, para armazenar as funções de acordo com o nome dado, basta criarmos um mapeamento entre esses dois tipos e fazemos a amarração necessária para o método principal de parseamento:
+
+```
+typedef map<string, Method> MethodList; // uma variável desse tipo armazena todas as funções
+
+void CommandPrompt::Interact(ostream& os, istream& is)
+{
+        while( is )
+        {
+                string func;
+                vector<string> args;
+
+                if( ParseLine(is, func, args) )
+                {
+                        // se a função desejada está em nossa lista,
+                        // podemos chamá-la, mesmo sem conhecer qual é
+                        if( Method m = m_funcs[func] )
+                                m(args);
+                }
+        }
+}
+```
+
+Essa solução não é exatamente um reflection, mas apenas parte do que o verdadeiro reflection possibilita. Existem outras funcionalidades, como traits, que a STL já consegue se virar razoavelmente bem, por exemplo.
 

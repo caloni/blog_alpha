@@ -1,21 +1,22 @@
 ---
-
-A fotografia cria um personagem à parte com suas luzes de diferentes tons enquanto essa trupe de três veículos cruza os pequenos vales de uma região remota e perigosa na Turquia.
-
-Um fato curioso, para não dizer hilário, é que o diretor, Nuri Bilge Ceylan, é colocado contra a parede em uma entrevista em Cannes, em que o entrevistador precisa fazer a pergunta da cartilha comunista sugerindo que um dos temas do filme é sobre os "homens poderosos e com dinheiro". O entrevistador leva umas pequenas e boas palmadas quando o próprio diretor explica que são burocratas do governo em cidadezinha de província e seus conflitos refletem parte do que ele viu com seu pai, que também era um burocrata em uma cidadezinha.
-
-Ceylan também diz na entrevista se sentir desmotivado com o cinema atual, não se considerando ele próprio um cinéfilo, pois não gosta de todos os tipos de filme, e não acha que Cannes ou outros eventos sejam lugares que representem muito a arte. Ceylan entende que os filmes de hoje em dia tentam chamar a atenção do espectador de todas as maneiras. Ceylan, é preciso dizer, tem minha total, incondicional, compaixão e compreensão.
-
-Este elenco funciona tão bem, e não é de atores muito bons. É a luz que incide em cada um deles que determina em boa parte suas personalidades e humor, e esse cinema que foge das convenções narrativas para contar não sobre a história, mas as circunstâncias em que ela ocorre, delineia o resto dos conflitos entre essas pessoas. A sinopse oficial é sobre um assassinato, mas na verdade nem é sobre uma investigação de fato, mas como o trabalho e a rotina dado a cada um deles os mecaniza no nível de detalhes bem sutis, e como é condenável que em meio a tudo isso cada um deseja conseguir verba para seu próprio projeto de poder.
-
-Por outro lado alguns elementos não ornam apesar de belos. A bela menina que chama a atenção de todos pode ser uma isca para o que acontece no final do filme, mas as conexões temáticas são soltas demais para fazer muito sentido. De qualquer forma, boa a tentativa de trazer algo mais para o cinema. Melhor ainda não se preocupar com a duração desse projeto.
-
----
 categories:
 - writting
-date: '2012-10-31'
-link: https://www.imdb.com/title/tt0064116
+date: '2017-12-27'
+link: https://www.imdb.com/title/tt7573686
 tags:
-- mostra
-- movies
-title: Era Uma Vez no Oeste
+- series
+title: 'Erased: Piloto'
+---
+
+Esta é uma série fantástica baseada tão fortemente em um mangá e anime que ele pode ser o delírio do fã das obras originais ou atiçar a curiosidade do cinéfilo. Por que a curiosidade? Se observarmos os movimentos de câmera, a forma de disposição dos personagens e dos elementos em cena perceberemos que esta obra continua sendo um anime em forma.
+
+Em conteúdo também. A narração dos pensamentos e sentimentos do herói é a típica adaptação narrativa que o Ocidente faz para o Oriente. Além disso a noveliza, para que o telespectador de celular perceba detalhes óbvios como quem é a mãe do personagem. Ao mesmo tempo cria situações extremamente improváveis, como alguém que acabou de acordar de um acidente e pergunta pra sua colega de trabalho por que ela trabalha. Ela responde: para realizar um sonho. Isso é tão atípico que só pode ser um programa da TV de domingo.
+
+Mas voltemos aos movimentos de câmera. Eles vão deslizando de lado em cenários com elementos animados. Às vezes são crianças brincando com balões coloridos, às vezes um trem surge perfeitamente ao fundo. Essa elementos ficam lindos em animações. Já neste live action com pouca inspiração em sua fotografia soa plástico, inventado. Esses detalhes fazem o cinéfilo pensar pra que tudo isso ou se isso quer reproduzir o anime e se tornar querido pelos fãs.
+
+Aliás, já notou como os eventos especiais do protagonista acontecem em um lugar aberto com as pessoas distribuídas de maneira uniformemente caótica? Parece uma praça ou uma rua cinematográfica ou quadros estáticos onde os talentosos desenhistas irão inserir elementos móveis.
+
+A história é criativa e pode ser interessante: o rapaz que não gosta da mãe por perto e tenta fazer seu mangá ter sucesso tem um poder: ele volta no tempo (um pouquinho só) quando algo ruim vai acontecer. Este algo ruim pode ser evitado por ele. Este é um acontecimento que ele não tem controle. Ou tem, como vimos próximo do final. Nunca saberemos se a regra dos roteiristas vai se formando pela conveniência ou por um intrincado jogo de causa e efeito como em Steins;Gate. Mas eu chuto pelo primeiro.
+
+A história gira em torno do acontecimento fantástico. O nosso herói tem uma personalidade que tanto faz. Ele é o centro de acontecimentos fantásticos e ponto. Ao final do episódio uma reviravolta que quebra uma certa regra, e está lançado o gancho para espectadores apaixonados por animes apreciarem um anime desenhado usando pessoas de carne e osso e balões de verdade.
+

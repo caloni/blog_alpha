@@ -1,47 +1,58 @@
 ---
-categories: []
-date: '2008-06-13'
+categories:
+- coding
+date: '2008-07-10'
 tags: null
-title: Primeiro ano do novo Caloni.com.br
+title: Primeiros passos no VMware Workstation
 ---
 
-Melhor que ter feito aniversário de dois anos no antigo blogue foi ter feito o primeiro aninho nesse novo formato, mais atualizado, mais diversificado e mais antenado com o meu dia-a-dia real.
+Como uma ferramenta essencial que uso todos os dias da minha vida de programador, sou obrigado a falar neste blogue sobre a VMware, ferramenta que tem me salvado algumas centenas de horas de depuração, testes e alguns cabelos brancos (a mais).
 
-No dia 14 de junho de 2007 foram publicadas as [boas vindas], e desde então o número de artigos tem se mantido sempre no formato três por semana, dois por semana, consecutivamente, distribuídos na segunda, quarta e sexta, terça e quinta. Esse [jogo de xadrez] tem me mantido bem ocupado, admito, mas no final até que vale a pena. Chegamos à marca de 130 artigos e 182 comentários dentro de 29 categorias.
+Para os que não sabem, o VMware é um software de virtualização que permite rodar diversos sistemas operacionais secundários (chamados de convidados, ou guests) em cima do sistema operacional primário (chamado de hospedeiro, ou host). Para isso ele utiliza uma técnica muito interessante conhecida como virtualização, onde o desempenho da máquina virtual chega bem próximo da máquina nativa em que estamos rodando, ainda mais se instalados os apetrechos de otimização (vide VMware Tools) dentro dos sistemas operacionais convidados.
 
-E por falar em variedade, falamos de vários assuntos desde o início. Entre um devaneio e outro, conseguimos explorar algumas particularidades das linguagens C/C++, o funcionamento obscuro do Windows, algumas dicas sobre programação e ferramentas, e até tivemos tempo de explorar coisas mais específicas, como depuração, engenharia reversa, controle de fonte e C++ Builder.
+O VMware, diferente de alguns outros programas de virtualização, não é gratuito. No entanto, o tempo despendido pela equipe da VMware em tornar esta a solução a de melhor qualidade (opinião pessoal de quem já mexeu com Virtual PC e pouco de VirtualBox) está bem cotado, sendo que seu preço é acessível pelo desenvolvedor médio. Pior que o preço da VMware com certeza será o dos sistemas operacionais convidados, se estes forem da Microsoft, que obriga cada instância do Windows, seja hospedeiro ou convidado, a possuir uma licença separada. Se rodar um Windows XP como hospedeiro e um Vista e 2000 como convidados vai desembolsar pelo menos o quíntuplo da licença da VMware.
 
-No placar, as coisas ficaram mais ou menos distribuídas:
+No entanto, não entremos em mais detalhes financeiros. Os detalhes técnicos são mais interessantes.
 
-    Assunto      Artigos
-    ===========  =======
-    Programação  10
-    C++          31
-    Windows      11
-    Depuração    10
-    WinDbg       18
-    Dicas        27
-    Código       15
+A instalação é simples e indolor, sendo constituída de cinco ou seis botões de next. O resto, e mais importante, é a instalação de um sistema operacional dentro de sua primeira máquina virtual. Outro assistente existe nessa fase para guiá-lo através de suas escolhas que irão configurar sua futura máquina.
 
-Sobre os visitantes, eles ainda são uma incógnita. Relacho meu, admito. Não faço nem uma simples pesquisa para saber se a maioria está no nível iniciante Juquinha ou avançado "The Guy". Prometo melhorar isso no segundo ano. Em números houve um crescimento de 711 visitantes únicos em janeiro de 2007 para 5223 em maio de 2008.
+Vejamos um pouco sobre redes.
 
-Pela quantidade crescente de visitantes, dá até pra imaginar que estou "no caminho certo". Mas, quer saber? Que caminho é esse? Não quero fundar um fã-clube, não quero me tornar rico e famoso (talvez só a parte do rico) e, muito menos, influenciar ninguém. Além do que, quanto mais velho um saite se torna, e sendo freqüentemente atualizado, é natural ser mais visitado. Por isso que eu acredito piamente que na maioria dos casos estatística é uma merda, pois mostra uma realidade cheia de conteúdo mas sem nenhum significado.
+ - Use bridged networking. É criada uma conexão real através de uma ponte feita em cima de uma placa de rede da máquina real. É usado um IP diferente da máquina real e se comporta como uma outra máquina qualquer na rede.
 
-Por outro lado, alguns dados são muito interessantes, pois podem moldar o futuro de um blogueiro profissional (não é o meu caso), como os resultados mais-mais do google:
+ - Use NAT. As conexões são criadas usando o IP do sistema operacional hospedeiro. Para isto acontecer é usado o conhecido esquema de NAT, onde um único IP externo pode representar n IPs internos de uma rede (nesse caso, a rede virtual formada pelas máquinas virtuais de uma mesma máquina real).
 
-    Palavras     Buscas
-    ===========  =======
-    softice      86
-    windbg       27
-    caloni       26
+ - Use host-only networking. O IP usado nessa conexão é diferente da máquina real, mas só é enxergada por ela e por outras VMs localizadas na mesma máquina hospedeira. Muito útil para isolar um teste de vírus, quando se precisa de uma rede mas não podemos usar a rede da empresa inteira.
 
-No entanto, saber que o topo da lista é formado por buscas por "softice" não irá me fazer escrever mais artigos sobre esse depurador mais do [que eu já escrevi], até porque já é um depurador morto usado hoje em dia em raríssimos casos (no meu caso). Se você quer craquear um programa, mesmo que isso seja contra a lei, aprenda WinDbg que você ganha mais!
+Imagine uma VM (Virtual Machine) como uma máquina de verdade, onde podemos dar boot, formatar HDs (virtuais ou reais), colocar e remover dispositivos. Tendo isso em mente, fica simples entender o que funciona por dentro de sua console, ou seja, a tela onde vemos a saída da virtualização.
 
-Das novidades que aconteceram durante esse ano, a maior e mais interessante foi o renascimento do nosso grupo de C++, que talvez continue dessa vez a sua vida normal. Ou não. Esperemos que sim =)
+Vejamos um pouco sobre discos virtuais.
 
-Eu fico sinceramente muito feliz em saber que existem muito mais pessoas interessadas em C++ do que eu mesmo, até porque isso me dá muito mais tempo para escrever sobre outras coisas que não seja C++ que, admiro humildemente, não chego a usar 20% no meu dia-a-dia.
+Os HDs que criamos para nossas VMs são arquivos lógicos localizados em nosso HD real. A mágica em que o sistema operacional virtual acessa o disco virtual como se fosse de verdade é feita pela VMware, inclusive a doce ilusão que ele cotém 80 GB, enquanto seu arquivo-repositório ocupa meros 5 GB no disco. Nas edições novas do software, é possível mapear um HD virtual e exibi-lo na máquina real.
 
-[boas vindas]: {{< relref "hello-world" >}}
-[jogo de xadrez]: {{< relref "influence-board" >}}
-[que eu já escrevi]: {{< relref "introducao-ao-softice" >}}
+Se você dispõe do CD de instalação de um sistema operacional, por exemplo, Windows XP, basta inseri-lo no CD virtual de sua VM. Ela aceita também imagens ISO, se for o caso. Lembre-se apenas que ele terá que ser "bootável", do contrário é necessário um disquete de boot.
+
+Vejamos um pouco sobre BIOS.
+
+A sua VM emula todo o comportamento de uma máquina real. Ela, portanto, contém uma BIOS, feita pela VMware. Essa BIOS possui as mesmas opções interessantes de ordem de boot (primeiro o disquete, depois o HD, etc) e escolha de dispositivo de boot (tecla ESC).
+
+A instalação do sistema operacional segue os mesmos passos que a instalação do sistema operacional de qualquer máquina de verdade.
+
+Vejamos um pouco sobre as teclas mágicas.
+
+ - Entrar o foco na VM. Digite Ctrl + G. Todos seus movimentos de teclado e mouse só irão funcionar dentro da máquina virtual, exceto o Ctrl + Alt + Del, exclusividade do sistema de autenticação do Windows.
+
+ - Tirar o foco da VM. Digite Ctrl + Alt. Todos seus movimentos de teclado e mouse passam a ser do SO hospedeiro.
+
+ - Ctrl + Alt + Del dentro da VM. Use Ctrl + Alt + Insert. Ele terá o mesmo efeito que um CAD, independente em que tela estiver em sua VM.
+
+Após feita a instalação, você terá um sistema operacional rodando dentro de um sistema operacional. Isso não é legal?
+
+A primeira coisa a fazer em sua VM com SO recém-instalado é criar um snapshot, ou seja, salvar o estado atual de sua máquina virtual. Ao fazer isso, se fizer alguma coisa dentro da VM que possa se arrepender depois, basta voltar para o estado que salvou anteriormente. A VMware permite criar quantos snapshots precisar (basta ter espaço em disco). Ela permite que você crie novas máquinas virtuais a partir de um estado de uma VM já criada, o que pode economizar todo o tempo de montar do zero outra VM ou copiar o disco virtual.
+
+ - Abrir os seus e-mails suspeitos. Não tenha mais medo de sujar seu computador com e-mails de conteúdo duvidoso. Crie um estado seguro em sua VM através de um snapshot (fotografia de estado da máquina virtual) e execute os anexos mais absurdos. Depois basta voltar para o estado seguro.
+
+ - Testes que costumam alterar o estado da máquina. Driver, GINA ou serviço novo? Que tal usar uma VM para fazer os testes iniciais e parar de reformatar o Windows?
+
+As VMs possibilitam um mundo de utilidades que o mundo ainda está descobrindo. Para nós, desenvolvedores, a maior vantagem de tudo isso é termos nossos ambientes de testes mais bizarros facilmente configurados no conforto de uma caixinha de areia.
 

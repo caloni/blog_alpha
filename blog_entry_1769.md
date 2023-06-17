@@ -1,18 +1,19 @@
 ---
 
-Essa série foca mais nas emoções e memórias de traumas passados por essas duas meninas. Ela se estende para todos os personagens, que pouco ou muito, passaram por transformações em suas vidas e precisam encontrar uma maneira de sobreviver a tudo isso. A animação segue uma lógica visual como em [Madoka Mágica], mas fala de temas mais sérios do que a morte: a dor do passado.
+Nora Ephron morreu ano passado. Escreveu e dirigiu trabalhos desde os anos 80 que hoje são agradáveis passeios pelas origens da comédia romântica como hoje a vemos (ainda que algumas bem datadas, como [A Difícil Arte de Amar]). No entanto, "Harry & Sally", comparado com a média das com-rom atuais, possui virtudes o suficiente para elevá-lo à categoria de grande filme.
 
-Pais desajustados montam o plano de fundo do que vemos, e o que vemos é uma interpretação distorcida da realidade. As imagens, principalmente as luzes, formas e cores subjetivas, montam um esquema de emoções que acompanhamos compenetrados. É profundo demais para ser traduzido em palavras, embora o anime tente. Não consegue. As imagens são mais fortes.
+Note como os personagens não mudam de opinião, não estão loucos por um grande amor e nem são expostos a relacionamentos passageiros para gerar ciúmes no companheiro/a. Harry é visto através da figura de um Billy Crystal sóbrio, divertido e coeso, ou uma espécie de persona no esitlo de Bill Murray sem muito sarcasmo mas com muito carisma. Sally é uma Meg Ryan sem os trejeitos que foi adquirindo ao longo da carreira (principalmente nos anos 90). Os figurinos, a fotografia e a direção de arte dizem quase tudo o que não sai da boca desse casal. Mesmo assim, a direção segura de Rob Reiner ([O Clube das Desquitadas]) favorece ainda mais tomadas clássicas em torno do casal, como a já batida, mas ainda assim, imperdível, cena do orgasmo.
 
-Há algumas reviravoltas e a primeira temporada termina inacabada, insatisfatória, embora com um final, mas larga seus personagens no meio da jornada. Há temas bem fortes para o público infantil, embora seja um trabalho fofinho, de esperança, para todos que sofreram traumas no passado. Vale a pena acompanhar? É quase uma viagem experimental. Então perto da mesmice é claro que vale.
+No caso de Harry e Sally o filme não está datado. Ele serve como experiência romântica e, mais que isso, como um documentário de uma época cheia de transformações sociais.
 
-[Madoka Mágica]: {{< relref "madoka-magica" >}}
+[A Difícil Arte de Amar]: {{< relref "a-dificil-arte-de-amar" >}}
+[O Clube das Desquitadas]: {{< relref "o-clube-das-desquitadas" >}}
 
 ---
 categories:
 - writting
-date: '2016-08-16'
-link: https://www.imdb.com/title/tt3072482
+date: '2019-12-27T18:21:00-03:00'
+link: https://www.imdb.com/title/tt0295297
 tags:
 - movies
-title: 'Hardcore: Missão Extrema'
+title: Harry Potter e a Câmara Secreta

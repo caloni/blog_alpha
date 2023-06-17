@@ -1,20 +1,24 @@
 ---
 categories:
 - writting
-date: '2012-03-06'
-link: https://www.imdb.com/title/tt0048356
+date: '2018-10-31'
+link: https://www.imdb.com/title/tt1884351
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Marty
+title: Marx Reloaded
 ---
 
-O que faz Marty ser um filme tão marcante parece ser os mesmos motivos que fizeram com que [Laços Humanos], clássico de Elia Kazan, hoje fosse imortalizado. O fato é que, apesar do dramalhão quase mexicano envolvendo a família e os amigos do personagem-título, as atuações e os diálogos, principalmente entre Ernest Borgnine e Betsy Blair, tornam muito difícil não gostar de uma história tão humana e tão sensível.
+Marx Reloaded já é um filme antigo (de 2011), sobre os 200 anos de nascimento de Karl Marx, o economista/sociólogo/filósofo criador da ideologia que mais matou seres humanos em massa na história da humanidade. É curioso como o nível de intelectualização do pensador está diretamente proporcional à sua concordância com marxismo/comunismo como algo viável e inversamente proporcional à realidade no planeta Terra e da própria natureza humana.
 
-Ainda assim, é preciso deixar claro que os estereótipos estão aí exatamente para rirmos deles, e não como vemos nos dias de hoje personagens unidimensionais comportando-se como se fossem importantes. Dessa forma, a tia pessimista e agourenta não é mais que uma caricatura, mas que exatamente por ser tão comum em qualquer família, é identificada rapidamente pelo nosso processo de identificação e auto-encaixe.
+O documentário é denso, pois utiliza esse nível de intelectualidade com diversos pensadores, que cospem conclusões sem nunca explicar nada. Se trata de um review criado para atualizar os conceitos de Marx para os tempos atuais, pós-crise 2008, e sugerir "soluções" para o "problema" do capitalismo. Fica claro para o espectador leigo que, assim como o pseudo-documentário "Quem Somos Nós", o formato da história segue o princípio de entrevistar todas as pessoas radicais que ainda levam o filósofo alemão em grande apreço e utilizar como contraponto um representante liberal (econômico) aleatório para ter em quem bater.
 
-Da mesma forma ocorre com todos os outros personagens e com as situações, o que de certa forma transforma a experiência em algo próximo de uma fábula, e exatamente como o trabalho de Kazan, que explora as vicissitudes da pobreza e a fortaleza na estrutura familiar, aqui temos a batida história do filho mais velho que começa a envelhecer do lado da mãe e que aparentente não consegue encontrar nenhum partido para juntar os trapos. Sentimos todas as angústias e preocupações de Marty, e entendemos com isso a felicidade do rapaz quando este consegue finalmente encontrar alguém com quem conversar.
+E da mesma forma o uso da mecânica quântica para tornar as pessoas felizes com a própria vida é equivalente a usar comunismo como solução para os problemas da humanidade. Exceto que no caso do comunismo você vai ter que matar os que discordam.
 
-É com uma estrutura orgânica e fluida que o diretor Delbert Mann, que parece ter feito dezenas de trabalho para a TV e o Cinema, consegue manipular facilmente nossas emoções e nossa empatia com o rapaz. E é com uma facilidade incrível com que o filme consegue ser transposto quase 50 anos depois e manter praticamente os mesmos efeitos benéficos que o imortalizaram. E muito provavelmente direi o mesmo daqui a 50 anos.
+Para o espectador leigo talvez esse não seja um programa muito agradável. A discussão já parte em um nível em que você já deve ter um conhecimento mínimo sobre teoria política/econômica, além de filosofia e história aguçados para entender os diferentes argumentos e conclusões que vão atravessar a tela com a velocidade das balas de dezenas de agentes Smith tentando capturar a atenção de quem está imerso na Matrix. A analogia entre pílula azul e vermelha usada pelas irmãs Wachowsky na época de The Matrix (1999) é perfeita porque pode se aplicar sobre qualquer nível de realidade que estamos acostumados e a fuga dessa mesma realidade.
 
-[Laços Humanos]: {{< relref "lacos-humanos" >}}
+A mensagem do filme é que sempre existirão pessoas a defender uma abordagem marxista para a solução de seus problemas (e forçadamente dos outros que não pediram), assim como nazismo, fascismo e similares. Vira um alerta invertido: se você acha a crise de 2008 algo ruim, espere para experimentar as novidades dos neo-comunistas. Cuidado com as pílulas que você toma.
+
+PS: A sessão da Mostra de SP é gratuita (sem mais-valia) e acompanhada de dois curtas. "Um Dia na Sepultura de Karl Marx" é um relato animado na época do aniversário de 100 anos de Marx que delineiam o perfil do filósofo e nos ajudam a entender uma visão que as pessoas tinham 100 anos atrás. Já "Um Jovem Chamado Engels" é sobre o amigo/filantropo de Marx antes que os dois se conhecessem. Se trata das cartas de Engels trocadas com inúmeros amigos. É a parte mais divertida da sessão inteira.
 

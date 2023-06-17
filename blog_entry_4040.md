@@ -1,28 +1,24 @@
 ---
 categories:
 - writting
-date: '2011-05-23'
-link: https://www.imdb.com/title/tt0094291
+date: '2016-08-08'
+link: https://www.imdb.com/title/tt0803096
 tags:
 - movies
-title: Wall Street Poder e Cobiça
+title: 'Warcraft: O Primeiro Encontro de Dois Mundos'
 ---
 
-Após ganhar o oscar por Platoon, Oliver Stone decide focar suas lentes para sua terra natal e abordar temas em torno do que faz mudar, nós e um país inteiro, a maneira de se enxergar: o dinheiro.
+Warcraft consegue manter o tema de estratégia de guerra do jogo viva no filme; de quebra, exibe um dos melhores efeitos visuais do ano. Não aquele que impressiona por impressionar, mas o que está a serviço da narrativa. E com uma história para contar, ainda consegue estar à altura dos melhores trabalhos da produtora desse e outros games. A Blizzard, pelo jeito, não se cansa de impressionar.
 
-A história se passa coincidentemente um pouco antes dos escândalos dos títulos podres e de informação privilegiada (uma rima da vida real no mínimo interessante, se considerarmos sua continuação após a crise de 2008). Michael Douglas faz seu primeiro papel de mau, deixando os antigos mocinhos da televisão que interpretava para trás. Charlie Sheen, por sua vez, tem a missão de transitar por ambos os extremos da moral, uma tarefa ingrata, se consideramos que terá que disputar atenção com um antagonista tão magnético quanto Gordon Gekko.
+Baseado em um video-game de RTS (Real Time Strategy, ou Estratéga de Tempo Real), que mais tarde se tornou um RPG consagrado, a história gira em torno dos detalhes de jogabilidade, como o uso da magia em ambas as raças, o poder guerreiro dos orcs, além de seu respeito incondicional às suas tradições, e a habilidade na política dos seres humanos.
 
-Após descrever a selva natural de Platoon, Stone decide filmar a selva de pedra que é Wall Street, onde os mais aptos sobrevivem, e o resto definha. E essa selva é capturada muitas vezes do alto, enxergando a multidão como rebanhos se engalfinhando por um lugar no elevador.
+Mas eu disse duas raças? Warcraft no filme de estreia já ensaia abrir uma franquia que possui um potencial interessante. O mundo dos humanos é pacífico, e lá habitam diferentes raças em harmonia. Há um quê de Senhor do Aneis em muitos momentos.
 
-Nessa vida de pequenas disputas por um espaço, alguns tentam mais, ambicionam mais. Como Bud Fox (Sheen), que é o único que vemos sair daquele escritório apertado para procurar algo melhor. Aliás, apertado é apelido. Com seus corredores estreitos, a falta de janelas próximas, um teto baixo que a câmera de Stone captura estrategicamente por um ângulo baixo, e as pilhas de papéis de multiplicando lado a lado, o ambiente onde Fox trabalha mais se parece com um purgatório para os que não conseguiram "vencer na vida".
+No entanto, o foco desse filme é mesmo a batalha entre humanos e orcs. Tendo seu mundo destruído, os orcs realizam uma "migração" graças ao uso de uma magia maligna, que suga a energia das pessoas -- de qualquer raça -- e produz um mana verde que permite abrir um portal entre dois mundos.
 
-Esse é um dos motivos por que impressiona o escritório de Gordon Gekko (Douglas), um megainvestidor assediado pelos menores. Com uma janela grandiosa e espaço livre para se movimentar entre as gigantescas mesas, Gordon Gekko é o personagem futuro de Bud Fox. É, pelo menos, o que ele deseja ser. E, francamente, depois de vermos aqueles corredores apertados onde Fox trabalha, é onde Gekko está que queremos estar: no topo da cadeia alimentar.
+Há diferentes personagens de ambos os lados que lembram peças em um jogo de xadrez. O roteiro de Charles Leavitt e Duncan Jones (do ótimo Lunar) está a todo momento sugerindo nosso desconhecimento do que essas criaturas poderão ou não fazer, e qual sua função na batalha iminente. Ninguém no elenco se sobressai em particular, mas ninguém estraga a festa (com exceção de uma inexpressiva Ruth Negga como Rainha Taria, que felizmente tem pouquíssimo tempo de tela). A interação homem/orc é sempre interessante, e o roteiro acertadamente escolhe apostar mais nos diálogos do que em batalhas frenéticas.
 
-Tudo que importa saber sobre dinheiro parece repousar na mesa e nos ombros daquele homem. "Por que estou te ouvindo?", é o que ele pergunta para Bud Fox, que mal consegue se segurar na cadeira onde senta.
+Isso permite duas coisas. Primeiro observar a fabulosa direção de arte, que consegue transformar um universo criado para um jogo em algo mágico, mas ao mesmo tempo realista, evocando a grandeza do império humano e a sociedade tribal dos orcs. Mais do que isso, porém, é ficar a todo momento percebendo os inúmeros detalhes do rosto dos orcs, que consegue expressar um rosto humano na cara de um monstro, e soar perfeitamente crível a todo momento (diferente de um pássaro gigante voador, que oscila entre o muito bom e a falta de cuidado da computação em torná-lo muito destacado do ordinário).
 
-A partir daí, o paralelo entre ambas as realidades é primordial para entendermos todo o contexto da trama. Ao entrarmos no universo onde vive Gordon Gekko percebemos um mundo diferente, distorcido do senso comum. Dinheiro, é o elemento que sobra. De forma que ele é gasto em futilidades como quadros pendurados pelas paredes valendo milhões de dólares. Contudo, estamos enxergando o mundo dos ricos não pela ótica de abastados herdeiros, mas por alguém que trilhou o caminho das pedras, o que faz com que até o hobby de colecionar arte se torne uma atividade lucrativa.
-
-A decoração das habitações dos ricos é mostrada de forma irônica, a ponto de fazer uma rima anedótica com a quitinete minúscula onde vive Fox. Possui paredes com tijolos expostos e objetos com partes que faltam. A mesa, incompleta em sua superfície, também tem sua função metafórica: reflete esse sentimento vazio e deformado de uma pessoa que já teria o suficiente para uma boa vida, mas que quer sempre mais. O meio se torna o fim. A cobiça pelo dinheiro é tamanha, que as notas verdes acabam por representar essa mesma cobiça, e o poder que dele emana na mente das pessoas.
-
-O mundo de Wall Street como é retratado poderia ser visto como um documentário sobre a economia do país onde foi filmado, mas, mais do que isso, exibe as entranhas da ambição que existe em cada um de nós. Se enxergamos o filme como um auto-reflexo, a experiência se multiplica, como juros sobre juros. Nossa consciência, que oscila muitas vezes entre a integridade do pai de Bud Fox e o oportunismo de Gordom Gekko. Gekko se torna o pai espiritual de Fox, e, de certa forma, de todos nós que temos um pouco de ambição.
+Mais do que uma historinha para justificar uma batalha épica, Warcraft é a (re)criação de um universo que já tinha sido feito com total esmero pelos seus idealizadores originais. Usando uma metáfora eficiente para a magia que suga a vida das pessoas (vulgo Estado), as diferentes formas de interpretar a história já valeria a pena até uma revisita. E isso apenas pela história, quando estamos falando de um espetáculo visual.
 

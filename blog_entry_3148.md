@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2012-12-30'
-link: https://www.imdb.com/title/tt1242460
+date: '2013-10-16'
+link: https://www.imdb.com/title/tt2219514
 tags:
 - movies
-title: Precisamos Falar Sobre o Kevin
+title: Preenchendo o Vazio
 ---
 
-Precisamos Falar Sobre o Kevin aborda de maneira surpreendente e inovadora o ponto de vista não de Kevin, um menino problemático que se tornará na sua adolescência autor de uma tragédia, mas o drama de sua mãe, chamada Eva de maneira significativa, a que deu à luz Caim, o primeiro assassino do mundo bíblico, e interpretada por Tilda Swinton de maneira brilhante e sem qualquer reservas.
+Uma fuga de nossa cultura vigente às vezes faz bem. Curioso constatar que, mesmo imersos na rotina, crenças e cânticos da religião judia ortodoxa, os mesmos dramas humanos se configuram.
 
-Não se privando de esconder os acontecimentos futuros que irão ocasionar uma mudança radical na vida de toda a família, mas principalmente de Eva, a direção de Lynne Ramsay e a montagem de Joe Bini preferem "brincar" com um jogo de causa e consequência que consegue de maneira impressionante potencializar ainda mais a tensão, o suspense e o drama que se estabelece na vida de Eva a partir do nascimento de Kevin (Jasper Newell e Ezra Miller), seu primeiro filho e que parece não desenvolver suas habilidades morais e emocionais como as outras crianças. Note que eu disse "parece", e um outro elemento intensificador de tensão usado pela diretora é exatamente nunca deixar clara essa relação de causalidade, preferindo utilizar as percepções e sentimentos da mãe, esta que talvez possua um destino tão trágico quanto uma deusa grega que conhece o seu destino, mas não consegue evitá-lo.
+A história gira em torno de Shira (a linda Hadas Yaron), filha caçula de uma família que possui já um casamento com a grávida Esther (Renana Raz) e uma das filhas pronta para ficar para tia Frieda (Hila Feldman). Shira já está sendo "encomendada" para o segundo casamento da família com um jovem que, mesmo estranho, parece ser a esperança da menina de viver algo de novo e diferente em sua rotina extremamente tediosa e repetitiva.
 
-Ao mesmo tempo em que a história caminha pelas sutilezas da montagem e de idas e vindas pelo futuro e passado de seus personagens, o uso igualmente arraigado do vermelho na direção de arte e fotografia dos cenários, onde até mesmo um singelo ursinho de pelúcia pode representar perigo, é digno de aplausos. E igualmente significativa é a edição de som, que consegue sussurrar mensagens subliminares por todo o trajeto mental que Eva parece percorrer após a sua vida não ter mais volta. Os ecos formados entre esses sons e as músicas escolhidas pelo projeto são uma brincadeira à parte.
+Aliás, a rotina de toda a comunidade que ali se vê é retratada dessa forma enfadonha, ainda mais quando a diretora estreante Rama Burshtein resolve junto com seu fotógrafo utilizar cores extremamente pálidas raramente jogadas em cima de um preto e branco que cansa. A tentativa da câmera de se movimentar possui um comportamento dúbio, pois não sabemos ao certo o que quer dizer. O uso dos espaços fechados, no entanto, deixa claro que aquela rotina é sufocante, e talvez Preenchendo o Vazio esteja mais se referindo àquela vida sem prazeres do que o que ocorre em seguida à morta de Esther.
 
-Nunca nos permitindo parar para respirar, mas em vez disso conseguindo manter um ritmo adequado para processarmos tudo o que virá no esmagador terceiro ato, o brilhantismo de "Precisamos falar..." reside não em sua história, mas as soluções desenvolvidas por toda a equipe para transmitir seu significado de maneira mais visceral possível sem cair no óbvio. Ao abalar nossos sentimentos mais instintivos, como o amor materno, se torna um filme merecedor de revisitas frequentes.
+Sim, ela morre, e deixa a família inteira órfã de um casamento. Seu filho recém-nascido sobrevive, porém, e é isso que move sua avó a tentar agendar um novo casamento entre as duas famílias, desta vez utilizando Shira. O relacionamento entre esta e seu cunhado é controverso, e é aí que se configura o drama mais do que humano: deixar-nos levar pelo que seria certo na sociedade e sacrificar nossa vida, ou desapontar todos à sua volta à espera de um pretendente que pode, assim como para Frieda, nunca mais aparecer?
+
+O drama é forte, mas conduzido de forma fraca. O tedioso fica tenso, mas nunca se transforma em outra coisa. Pela repetição, Burshtein compromete sua eficácia. Mesmo assim, um trabalho que cumpre sua imersão em uma cultura radicalmente diferente ao mesmo tempo que comprova que humanos são humanos em qualquer condição de vida desse planeta.
 

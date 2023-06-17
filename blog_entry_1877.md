@@ -1,20 +1,20 @@
 ---
-categories:
-- writting
-date: '2013-06-07'
-link: https://www.imdb.com/title/tt0387808
+categories: []
+date: '2010-11-12'
 tags:
-- movies
-title: Idiocracia
+- ccppbr
+title: II Seminário Portabilidade e Performance
 ---
 
-Desde o começo Idiocracia estabelece o seu tom de comédia explicando uma teoria muito louca, mas com um sentido simplesmente hilário, de por que o futuro da humanidade é se tornar cada vez mais idiota. Melhor: acompanha um experimento do exército para "estocagem de humanos" em caixões monitorado por um militar que consegue uma prostituta voluntária negociando diretamente com o seu cafetão. Essa parte, ambientada nos tempos atuais, já preocupa pela linha tênue com que o diretor Mike Judge ([Como Enlouquecer seu Chefe]) separa um discurso feito de palavras formais de ações idiotas executadas pela mesma pessoa que profere o discurso.
+Aqui estamos nós de novo. Mais uma vez a Tempo Real Eventos irá organizar esse evento de final de ano. E mais uma vez, junto dos meus amigos, irei palestrar sobre um item indispensável no nécessaire de todo escovador de bits: assembly gerado pelo compilador. Vamos falar brevemente sobre o funcionamento de um código assembly 32 bits e passar para a análise dos compiladores modernos e o que eles fazem para tornar o código ainda mais rápido do que o próprio fonte em C++.
 
-Essa mesma dualidade do linguajar ele irá resgatar quando Joe (Luke Wilson), o outro voluntário do experimento, viaja 500 anos no futuro, onde o "mundo" é composto e liderado por idiotas completos, incapazes de estabelecer qualquer tipo de comunicação melhor do que grunhidos, risadas, barulhos estranhos e sinalizações monossilábicas do que estão "sentindo". Joe é uma pessoa de inteligência média que não se importa de fazer qualquer coisa na vida. Consequentemente é a melhor pessoa que poderia viajar para este destino utópico, pois começa a enxergar naquelas pessoas e suas vidas sem sentido o seu próprio destino (ou castigo) por se comportar como alguém aquém da sua capacidade de raciocínio.
+  * Gerando código assembly;
+  * Guia ultra-rápido de assembly;
+  * Recursividade sem problemas na pilha;
+  * STL aumenta performance? (exemplos práticos);
+  * Assembly 64 bits.
 
-Mais assustador do que se estivesse exagerando, o futuro utópico do filme também apresenta uma outra linha tênue entre a população formada inteiramente por idiotas e pela comparação que Mike Judge faz com boa parte das pessoas que hoje vivem entre nós. As próprias marcas e lojas ainda existem, embora tivessem sido cada vez mais descaracterizadas para atender cada vez melhor o seu único público-alvo.
+Uma outra dúvida pertinente (e discutida nos bares nerds da cidade) é se usar código STL não deixaria mais lento o resultado final, já que ele é cheio das abstrações. Por mais que autoridades competentes no funcionamento da linguagem como Pedro Lamarão e Thiago Adams digam que as otimizações do compiladores modernos na STL/Boost são diversas vezes mais eficientes que o código artesanal de um programador, sempre fica aquela pulga atrás da orelha, pulga esta que podemos matar facilmente analisando o assembly gerado. E essa confiança extra nos dará novas chances de programar coisas legais de verdade, e não ficar ensebando um código que já está na sua velocidade máxima.
 
-A melhor ficção é a que consegue te distanciar da realidade para te fazer pensar exatamente nela. Nesse sentido, Idiocracia, infelizmente, é um excelente espécime.
-
-[Como Enlouquecer seu Chefe]: {{< relref "como-enlouquecer-seu-chefe" >}}
+Então é isso aí. Espero que tenhamos uma manhã e uma tarde agradáveis nesse mundo da escovação de bits.
 

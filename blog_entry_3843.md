@@ -1,20 +1,21 @@
 ---
 categories:
 - writting
-date: '2017-04-04'
-link: https://www.imdb.com/title/tt5607970
+date: '2019-03-02'
+link: https://www.imdb.com/title/tt8405810
 tags:
-- series
-title: Ultimate Beastmaster - Primeira Temporada
+- cinemaqui
+- movies
+title: Um Amor Inesperado
 ---
 
-Esta não é uma competição corpo a corpo, nem uma avaliação de força, nem de habilidades esportistas. É, acima de tudo, uma ode ao ser humano, como as olimpíadas deveriam ser antes. Uma ode à capacidade humana, de se sobressair, vencer desafios e, o principal: vencer a si mesmo.
+Um Amor Inesperado, apesar de ser falado em espanhol, apesar de ser argentino, apesar de ter Ricardo Darín, é, antes de tudo, uma comédia romântica. E que muito se aproxima das hollywoodianas, daquelas que não possuem profundidade o suficiente para fazer pensar sobre relacionamentos como algo mais geral, mais reflexivo. O maior erro em ver esse filme é supor que por conta de ser cinema argentino com Darín deve ser algo muito acima da média.
 
-São 108 competidores buscando uma vaga em uma final com apenas nove deles, que irá trazer o grande vencedor dessa primeira edição de um conjunto de provas que equilibram habilidades em usar de forma inteligente a energia e a saúde do corpo desses atletas. Os escaladores se darão melhor, pois quanto mais força e jeito nas mãos e menos peso para elas, melhor.
+Mas como comédia romântica ele diverte, é bem feito e tem personagens cativantes. Ou quase. Lidando com uma crise de meia-idade de um casal de pais que se despede do filho indo morar longe para fazer a faculdade, o filme simplifica todo o processo a ponto de se tornar insosso acompanhar essas pessoas, mas como elas são interpretadas por Darín e Mercedes Morán há algo magnético em descobrirmos para onde irá a vida desses dois depois de se separarem. Eles parecem "gente como a gente" e isso nos aproxima de seus dramas pessoais.
 
-Há competidores e comentaristas de seis países: Brasil, México, EUA, Alemanha, Japão e Coreia do Sul. Todos parecem focados em dar o melhor de si, e mostrar que já são vencedores na vida real. É esse o tipo de ser humano que essa competição traz. Alguns são profissionais, outros amadores, e todos apaixonados pela vida.
+O tempo passa rápido em Um Amor Inesperado. As cenas que acompanhamos vão se espaçando em dias, semanas, meses. Mas o tempo entre as relações e experiências que ambos vão acumulando é suficiente para sentirmos não apenas a passagem do tempo, como o desencanto que ambos vão sentindo, bem aos poucos, com toda essa liberdade dos pós-separação. A princípio, para o espectador jovem, talvez não pareça nada disso e se trate apenas de momentos comuns que divorciados costumam passar até encontrar seu próximo grande amor. Para os já experientes irão entender melhor que tudo aquilo não apenas é caminho comum, mas que não existe essa de grande amor.
 
-Com uma edição ágil, a série consegue trazer os melhores momentos durante as provas e vai se tornando aos poucos emocionante, sem nunca apelar para os exageros. Eles parecem acontecer naturalmente, sempre próximo do final, em momentos dramáticos e inspiradores.
+A voz de mais sabedoria nesse filme são as da terceira idade. Representada em uma ou duas cenas entre o pai do personagem de Darín e a mãe da personagem de Morán, eles já sabem pelo quê vale a pena viver após os filhos criados, e estão dispostos a compartilhar. A mais bela cena do filme é quando o "pai" de Darín demonstra como ele fez para tirar da cabeça a ideia de que estava morrendo. Ela é o exemplo perfeito de como a mente nos engana enquanto o corpo quer apenas continuar.
 
-Ultimate Beastmaster é sobre vencer, mas não tanto outros competidores, mas principalmente você mesmo. E deve inspirar muitas pessoas a se manter em forma pelo simples prazer de ter a saúde bombando em suas veias.
+Além dessa crise o filme tenta unir outros temas interessantes, como a vida sem graça da classe média e como os aplicativos de relacionamentos não são essa maravilha que as pessoas que nunca usaram imaginam. São momentos divertidinhos, que deve entreter mais uma vez os menos experientes. Já os mais experientes... mereceriam algo melhor.
 

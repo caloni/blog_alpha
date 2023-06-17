@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2019-06-17'
-link: https://www.imdb.com/title/tt0240419
+date: '2019-10-23'
+link: https://www.imdb.com/title/tt8359842
 tags:
+- cinemaqui
+- mostra
 - movies
-title: O Pântano
+title: O Paraíso Deve Ser Aqui
 ---
 
-É daqueles filmes intimistas que fala sobre a família em tempos bucólicos, sem maldade, com geladeira velha e matriarca que não para de beber. O que deu de errado com essa família de classe média baixa?
+O diretor palestino Elia Suleiman encontrou uma maneira divertida de mostrar ao mundo as diferenças da visão de um cineasta do resto de nós, mortais. Em O Paraíso Deve Ser Aqui ele próprio é o protagonista, vestido como costuma se vestir, e observa da varanda de sua casa as situações do dia-a-dia, mas que através de suas lentes saem muito mais atípicas do que estamos acostumados a interpretar.
 
-Nada. Supostamente era para ser assim mesmo. E a diretora Lucrecia Martel acompanha esse clima bucólico com total apatia, embora capture enquadramentos de cenas com certo charme e saudosismo. É um filme difícil para os que pretendem ficar acordados e ótimo para os que pretendem dormir. Há um sentimento meio Godariano de desdém por aquela vidinha burguesa sem graça. Afinal de contas, pobre que saber viver.
+A brincadeira segue uma dinâmica simples: vemos Elia obervando algo à sua frente enquanto está sentado na calçada de uma cafeteria, ou em sua casa, ou no portão de sua casa ou, na segunda metade do longa, viajando por Paris e Nova York. Enquanto vemos o observador, nossa mente já se prepara não para o que ele está vendo, mas a forma que ele está vendo.
 
-Também é desses filmes que passa em festivais pelo mundo e que um monte de gente rasga a seda como parte do protocolo pelo simples fato da película parecer um filme de verdade. "É arte", dizem os defensores do "qualquer coisa é arte". E tem uma fotografia que mistura chuva com cinza parecendo um autêntico quadro do passado que ainda não pegou pó porque não é tão velho assim.
+Pessoas nesse filme se comportam de maneira diferente do que há na realidade. Um homem na frente dos policiais toma um refrigerante e estilhaça a garrafa na parede. Enquanto isso, cinco guardas escoltam uma senhora que se arrasta pela plataforma do metrô de Paris. E em Nova York, na companhia de Gael García Bernal fazendo ele mesmo, acompanhamos uma anedota sobre como um estúdio americano quer filmar a conquista espanhola com atores falando inglês. E, infelizmente, isso pode muito bem não ser mentira.
 
-Os elementos do filme soam biográficos, mas sem valores nem história. São meros fragmentos que você pode se identificar por compartilhar a mesma infância na mesma época, mas não precisa se culpar se não gostar: é arte moderna.
-
-Há alguns detalhes ocultos do espectador médio que o filme parece embutir como discurso social ou algo do gênero, como a revolta dos maridos em deixar duas mulheres viajarem sozinhas para a Bolívia para comprar material escolar para as crianças. Essa é uma das inúmeras historietas que vão se desenvolvendo em paralelo, quase como um pano de fundo. O filme em si, o que se vê na frente, não existe. É o cenário. E o que se move pelo cenário são pessoas cujas histórias não se cruzam, mas suas personalidades se complementam como cores de um quadro.
-
-Lucrecia Martel é boa em criar esse clima apático em seus filmes, embora o que esteja acontecendo na tela tenha potencial de ser interessante. Ela desenvolve como que en passant o drama da adolescente assediada em A Menina Santa e empalidece a História da Argentina como colônia espanhola em Zama através da figura blasé de um sub oficial do governo que é obrigado a viver no meio do nada e em meio a nativos. Para quem deseja ter um novo olhar sobre o anti-cinema, Martel é um nome a ser lembrado.
+"O Paraíso Deve Ser Aqui" é uma visão peculiar e divertida da mente de um criador enquanto este vive situações do cotidiano, montadas com muito esmero. Cada cena é belíssima, um verdadeiro quadro, pincelado da realidade que a maioria de nós não enxerga. Mas está ali. Pelo menos vamos acreditar no diretor.
 

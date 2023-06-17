@@ -1,147 +1,43 @@
 ---
 
-Alguns conceitos-chave antes de trabalhar com o Bazaar são:
+A mensagem anterior deixou bem claro que tenho um roteiro de leituras bem hardcore a fazer nos próximos 20 anos. Pretendo, enquanto isso, programar alguma coisinha rodando em ring0, porque nem só de teoria vive o programador-escovador-de-bits. Pensando nisso, esse fim-de-semana comecei a me aventurar nos ótimos exemplos e explicações do www.driverentry.com.br, nossa referência kernel mode tupiniquim.
 
- - Revision (Revisão). Um snapshot dos arquivos que você está trabalhando.
- - Working Tree (Árvore de Trabalho). Um diretório contendo seus arquivos controlados por versão e subdiretórios.
- - Branch (Ramificação). Um grupo ordenado de revisões que descreve o histórico de um grupo de arquivos.
- - Repository (Repositório). Um depósito de revisões.
+A exemplo do que Dmitry fez com os livros de drivers, acredito que a mesma coisa pode ser feita com os blogues. A maneira de esmiuçá-los vai depender, principalmente, da quantidade de material a ser estudado e das práticas necessárias para que o conhecimento entre na cabeça de uma vez por todas.
 
-Agora vamos brincar um pouco com os conceitos.
+No momento, minha prática se resume a isso:
 
-O uso mais simples que existe no Bazaar é o controle de uma pasta sozinha, conhecida como uma Standalone Tree. Como toda Working Tree, ela possui um repositório relacionado, que no caso está dentro dela mesmo, na pasta oculta ".bzr".
+ - Debug or not debug. Aqui resolvi dar uma olhada de perto nas macros e funções usadas para tracing no DDK, e descobri que, assim como a runtime do C, podemos ter mensagens formatadas no estilo do printf e vprintf, o que economiza uma porção de código repetitivo. Dessa forma pude usar minha estratégia de ter a macro LOG usada para mandar linhas de depuração na saída padrão. Ainda tenho que estudar, contudo, o uso da variável va_list em kernel.
 
-Pra criar uma Standalone Tree, tudo que precisamos é usar o comando init de dentro da pasta a ser controlada, quando é criado um repositório local. Adicionamos arquivos para o repositório com o comando add, e finalizamos nossa primeira versão com o comando commit.
+ - ExAllocatePool (WithoutTag). Precisei fazer alguns testes no Dependency Walker e anexar o fonte que faz a vez do GetProcAddress para drivers em meu miniprojeto do Bazaar para aprendizado de programação em kernel.
 
-    C:\Tests>cd project1
-    
-    C:\Tests\project1>bzr init
-    
-    C:\Tests\project1>bzr add
-    added AUTHORS
-    added COPYING
-    added COPYRIGHT
-    added ChangeLog
-    added ChangeLog.2
-    added FAQ
-    ...
-    added winboard/extends/infboard/main.c
-    added winboard/extends/infboard/msvc.mak
-    added winboard/extends/infboard/support.c
-    
-    C:\Tests\project1>bzr commit -m "Comentario sobre a revisao"
-    Committing to: C:/Tests/project1/
-    added AUTHORS
-    added COPYING
-    added COPYRIGHT
-    added ChangeLog
-    added ChangeLog.2
-    added FAQ
-    ...
-    added winboard/extends/infboard/main.c
-    added winboard/extends/infboard/msvc.mak
-    added winboard/extends/infboard/support.c
-    Committed revision 1.
-    
-    C:\Tests\project1>
+ - Getting Started. Esse foi o artigo mais interessante de todos, pois foi a base de todo o código que ando repetindo em meus exercícios. Além desse, é vital o uso do Visual Studio no processo de desenvolvimento, pois muitas (quase todas) das funções do DDK são alienígenas para mim, assim como os seus 497 parâmetros cada.
 
-Feito. A partir daí temos um repositório onde podemos realizar o comando commit sempre que quisermos marcar um snapshot em nosso código-fonte.
+ - Driver plus plus. Tive que perder algum tempo codificando uma segunda versão do Useless e baixando o framework da Hollis para testar as peculiaridades do C++ em kernel mode. Não que eu vá usar alguma coisa avançada nesse estágio, mas preciso conhecer algumas limitações e alguns macetes que farão uma grande diferença no futuro, quando as linhas de código ultrapassarem 10.000.
 
-Se quisermos fazer uma alteração muito grande em nosso pequeno projeto seria melhor termos outro diretório onde trabalhar antes de realizar o commit na versão estável. Para isso podemos usar o comando branch, que cria uma nova pasta com todo o histórico da pasta inicial até esse ponto. Os históricos em um branch estão duplicados em ambas as pastas, e portanto são independentes. Você pode apagar a pasta original ou a secundária que terá o backup inteiro no novo branch.
+ - Pulei alguns tópicos que pretendo explorar quando estiver mais à vontade com alguns conceitos básicos, como a explicação de como obter o processo dono de uma IRP, a explicação do que é uma IRP (apesar de eu ter baixado e brincado com o monitor da OSR) e a aparentemente simples explanação sobre como funcionam as listas ligadas do DDK. Tudo isso virá com o tempo, e algumas coisas estarão sempre martelando na cabeça. É só dar tempo ao tempo e codificar.
 
-    C:\Tests\project1>cd ..
-    
-    C:\Tests>bzr branch project1 project1-changing
-    Branched 1 revision(s).
-    
-    C:\Tests>cd project1-changing
-    
-    C:\Tests\project1-changing>
+ - Nós queremos exemplos. Esse foi o artigo que mais me deu trabalho, mas que mais valeu a pena. Codifiquei tudo do zero, olhando aos poucos no código do Fernando para pegar o jeito de usar funções com nomes enormes e auto-explicativas e parâmetros com os nomes a, b, c. Também dediquei um tempinho considerável com a aplicação de user mode, para (re)aprender a depurar dos dois lados da moeda.
 
-Criar um novo branch totalmente duplicado pode se tornar um desperdício enorme de espaço em disco (e tempo). Para isso foi criado o conceito de Shared Repository, que basicamente é um diretório acima dos branchs que trata de organizar as revisões em apenas um só lugar, com a vantagem de otimizar o espaço. Nesse caso, antes de criar o projeto, poderíamos usar o comando init-repo na pasta mãe de nosso projeto, e depois continuar com o processo de init dentro da pasta do projeto.
+Próximos passos?
 
-    C:\>bzr init-repo Tests
-    
-    C:\>cd Tests
-    
-    C:\Tests>bzr init project1
+Pelo que eu vi, no geral, acredito que aos poucos irei voltar para os tópicos que pulei, além de olhar em outros artigos que chamaram minha atenção:
 
-    C:\Tests>cd project1
+ - Como criar um driver de boot
+ - Usando o DSF para interagir com dispositivos USB de mentirinha
+ - A continuação emocionante de nosso driver que recebe reads e writes
+ - Usar o que existe de bom e melhor para garantir a qualidade de um driver
+ - Mais alguns detalhes que começam a fazer sentido em nosso KernelEcho
+ - Criando e usando IOCTLs. Essa vai ser ótima!
+ - A necessidade inevitável de mexer com o registro do sistema
 
-    C:\Tests\project1>bzr add
-    added AUTHORS
-    added COPYING
-    added COPYRIGHT
-    added ChangeLog
-    added ChangeLog.2
-    added FAQ
-    ...
-    added winboard/extends/infboard/main.c
-    added winboard/extends/infboard/msvc.mak
-    added winboard/extends/infboard/support.c
-    
-    C:\Tests\project1>bzr commit -m "Comentario sobre a revisao"
-    Committing to: C:/Tests/project1/
-    added AUTHORS
-    added COPYING
-    added COPYRIGHT
-    added ChangeLog
-    added ChangeLog.2
-    added FAQ
-    ...
-    added winboard/extends/infboard/main.c
-    added winboard/extends/infboard/msvc.mak
-    added winboard/extends/infboard/support.c
-    Committed revision 1.
-
-    C:\Tests\project1>
-
-Se compararmos o tamanho, veremos que o repositório compartilhado é que detém a maior parte dos arquivos, enquanto agora o ".bzr" que está na pasta do projeto possui apenas dados de controle. A mesma coisa irá acontecer com qualquer branch criado dentro da pasta de repositório compartilhado.
-
-Mas já criamos nossos dois branches cheios de arquivos, certo? Certo. Como já fizemos isso, devemos criar uma nova pasta como repositório compartilhado e criar dois novos branches dentro dessa pasta, cópias dos dois branches gordinhos:
-
-    C:\Tests>bzr init-repo project1-repo
-    
-    C:\Tests>bzr branch project1 project1-repo\project1
-    Branched 1 revision(s).
-    
-    C:\Tests>bzr branch project1-changing project1-repo\project-changing
-    Branched 1 revision(s).
-    
-    C:\Tests>
-
-Isso irá recriar esses dois branches como os originais, mas com a metade do espaço em disco, pois seus históricos estarão compartilhados na pasta project1-repo.
-
-O SubVersion é um sistema de controle centralizado. O Bazaar consegue se comportar exatamente como o SubVersion, além de permitir carregar o histórico inteiro consigo. Quem decide como usá-lo é apenas você, pois cada usuário do sistema tem a liberdade de escolher a melhor maneira.
-
-Os comandos para usar o Bazaar à SubVersion são os mesmos do SubVersion: checkout e commit. No entanto, um checkout irá fazer com que seu commit crie a nova revisão primeiro no seu servidor (branch principal) e depois localmente. Se você não deseja criar um histórico inteiro localmente, pode criar um checkout leve (parâmetro --lightweight), que apenas contém arquivos de controle. No entanto, se o servidor de fontes não estiver disponível, você não será capaz de ações que dependam dele, como ver o histórico ou fazer commits.
-
-    C:\Tests\client>bzr checkout ..\server\project1
-    
-    C:\Tests\client>cd project1
-    
-    C:\Tests\client\project1>echo "New changes" >> FAQ
-    
-    C:\Tests\client\project1>bzr commit -m "New changes comment"
-    Committing to: C:/Tests/server/project1/
-    modified FAQ
-    Committed revision 2.
-    
-    C:\Tests\client\project1>bzr log -l 1 ..\..\server\project1
-    ------------------------------------------------------------
-    revno: 2
-    committer: Wanderley Caloni <wanderley@caloni.com.br>
-    branch nick: project1
-    timestamp: Sun 2008-06-08 19:52:17 -0300
-    message:
-      New changes comment
-    
-    C:\Tests\client\project1>
-
-Na verdade, o Bazaar vai além, e permite que um branch/checkout específico seja conectado e desconectado em qualquer repositório válido. Para isso são usados os comandos bind e unbind. Um branch conectado faz commits remotos e locais, enquanto um branch unbinded faz commits apenas locais. É possível mudar esse comportamento com o parâmetro --local, e atualizar o branch local com o comando update.
+Tudo isso aliado aos exemplos e à teoria latente do Windows 2000 Device Driver Book (minha primeira leitura) irá dar um upgrade forçado aos meus neurônios. Espero sobreviver para contar o final da história.
 
 ---
 categories:
-- coding
-date: '2007-10-22'
-title: Guia básico para programadores de primeiro breakpoint
+- writting
+date: '2019-02-06'
+link: https://www.imdb.com/title/tt0107061
+tags:
+- animes
+- series
+title: Gunnm (aka Alita)

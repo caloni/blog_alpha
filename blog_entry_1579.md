@@ -1,20 +1,18 @@
 ---
 categories:
-- writting
-date: '2011-12-20'
-link: https://www.imdb.com/title/tt0107048
-tags:
-- movies
-title: Feitiço do Tempo
+- blogging
+date: '2022-12-19T17:03:02-03:00'
+title: Feliz 2023
 ---
 
-Bill Murray em um papel que é a cara dele: Phil Connor é o homem do tempo de uma emissora de televisão e precisa cobrir o tradicional "Dia da Marmota", uma cerimônia de uma cidadezinha secular cuja lenda uma marmota (ironicamente também chamada Phil) faz a previsão se haverá mais inverno.
+Então chegou aquela época do ano. Você sabe, aquela. Onde falamos sobre Tudo em Todo o Lugar ao Mesmo Tempo. Onde falamos sobre Amor e Trovão. Onde relembramos como nos últimos anos vivemos em um Mundo Estranho, nos levando de vez em quando ao Multiverso da Loucura.
 
-Assim, ele parte para uma viagem à cidadezinha para uma estadia de apenas um dia para cobrir o evento com a ajuda do seu câmera man e sua produtora executiva, para a qual mantém um secreto interesse que inteligentemente vai se mostrando conforme o drama da história se desenvolve.
+Então prepare-se para seguir pelo Caminho da Água e redescobrir como tudo começou, mas em uma visão diferente. Foi um Adão Negro dessa vez que iniciou nossa terra de Wakanda Para Sempre. Não foi graças ao Batman, mas pudemos voar alto, no Top Gun das emoções.
 
-A maldição que cai sobre o egocêntrico Phil também não deixa de ser irônico: descontente por ter que ficar um único dia na gelada cidadezinha, esse mesmo dia se repete indefinidamente, com as pessoas executando as mesmas ações, como se fosse a primeira vez que o dia se passasse, menos o próprio Phill, que sabe que já passou por isso antes.
+Esta mensagem de fim de ano pode parecer confusa, mas o mundo está cada vez menos simples. O importante é lembrar: Sempre em Frente, sem Pânico (seja o 1 ou o 5). Embora alguns acontecimentos nos queiram levar ao Beco do Pesadelo e nos encontramos com Os Caras Malvados, lembre-se de O Homem do Norte, lá na 
+Cidade Perdida, onde vive o Elvis. Mas Não! Não Olhe! Não Se Preocupe, Querida. Não há A Fera a te machucar quando temos Mães Paralelas a nos ajudar.
 
-Usando de uma montagem inteligente que aos poucos corta várias cenas que são repetidas exatamente para demonstrar que os dias vão se sucedendo da mesma maneira, sendo que a única pessoa onisciente e que altera sua história é o personagem de Bill Murray, as cenas vão se sucedendo cada vez menores e em um ritmo que nos permite 1) acompanhar a evolução do drama do jornalista e 2) não ficarmos entediados pela situação; pelo contrário, as história que vão ocorrendo fazem com que ele aos poucos vá mudando e tentando diferentes soluções.
+É na calmaria de perto do Natal e do novo ano iluminado pela lanterna do Buzz Lightyear que nós sabemos que podemos contar com os que são Mais Que Amigos. Mesmo distantes, mesmo sem se ver por um tempo, eu sei que tudo vai dar certo.
 
-A ideia genial do longa é justamente representar a história do resto do mundo várias e várias vezes e acompanharmos a evolução de apenas um único homem durante esse único dia, que, aparentemente se repete por muitíssimo tempo (ele aprende a tocar piano de maneira magistral, o que faz com que pensemos nos anos preso no mesmo dia).
+Este é o nosso confuso, mas dedicado, Feliz Festas de Final de Ano para você, cinéfilo e amigo :)
 

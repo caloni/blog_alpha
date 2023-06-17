@@ -1,18 +1,19 @@
 ---
 
-Uma ideia interessante, estruturada de maneira interessante, e executada desleixadamente. Tem a ver com sexo, tem a ver com drama, tem a ver com crime. E isso é motivo de sobra para a diretora Kaori Momoi se achar a fodona e deixar todos nós entediados.
+Depois de seis meses blogueando em um novo domínio, que seria totalmente focado em C++, descobri que não consigo viver escrevendo apenas sobre a linguagem em que programo. Não é que falte assunto. Simplesmente meu dia-a-dia nunca se resume apenas em regras de sintaxe e erros de compilação.
 
-Porém, veja bem. O filme é um confessionário com um psiquiatra que começa a ser influenciado pelo "fogo" da testemunha-chave: uma prostituta japonesa meio ninfomaníaca (a própria Momoi) que mora em solo americano já há algum tempo, mas não soube usar sua boca para falar inglês (estava ocupada fazendo outras coisas). O roteiro no começo tenta torná-la vítima das circunstâncias -- o que ela é -- mas ele insiste tanto que ela acaba ficando com a impressão de ser apenas uma vadia, mesmo.
+Por outro lado, aprendi muitas coisas novas desde o começo desse ano. Decorei novos comandos do Windbg, novos atalhos no Google Reader. E fiz outras tantas coisas novas também. Projetei um sistema de comunicação entre processos -- versão alfa, tudo bem, mas projetei. Decifrei o formato do banco de dados do dicionário Houaiss para poder usá-lo no Babylon. E por aí vai.
 
-As câmeras duplas, o consultório do doutor com o detetive sentado ao lado; os inúmeros movimentos de câmera, lento, excessivos, tentando sair do marasmo, fazem o possível para tornar o seu monólogo minimamente interessante. Porém, o texto composto por quatro roteiristas (incluindo Momoi) não consegue encontrar o ponto-chave que liga a aparente loucura da protagonista com seus relatos. Falta uma alma que conecte o que ela sofreu para entendermos qual é o verdadeiro drama.
+E por falar em escovação de bits, apresentei mais duas vezes aquela palestra sobre engenharia reversa. O curioso é que, em vez de eu aumentar o conteúdo da transparência, eu diminuo. Talvez isso seja uma ingênua tentativa de tornar a apresentação menos enfadonha e mais interessante para o público em geral, por mais leigos que eles sejam. Nessa última versão (3.0) cheguei a explicar o processo de análise dos cavalos de tróia dentro da Open Security, desde a descoberta da ameaça até a implementação da cura.
 
-Sem isso, se torna uma tentativa estéril (trocadilho intencional) de reproduzir uma Ninfomaníaca (Lars von Trier) embutida em um thriller de quinta categoria.
+Depois de todas essas aventuras percebi que meus conhecimentos em C++ não aumentaram nem um pouco. Talvez um pouco, mas culpa da nossa fascinante lista de discussão sobre C++ aqui no Brasil, que esmera nos detalhes. Porém, por mim mesmo não aprendi nenhuma biblioteca nova do Boost. Não desenvolvi nenhuma artimanha nova usando templates e herança múltipla (obs: com uma perna só). Enfim, não aprendi nem fiz nada relevante com o tema C++ nos últimos seis meses.
+
+E isso me leva de volta para cá, o cantinho de onde nunca deveria ter saído. Mas aprendi a lição. Estarei por aqui de agora em diante, pronto para escrever sobre o que fizer parte dos meus dias de programador. Não irei cair novamente nas ilusões de um pensamento purista e inadequado à minha realidade de escovador-de-bits-estamos-aí-para-o-que-der-e-vier. Afinal de contas, a gente depura mas se diverte.
 
 ---
 categories:
-- writting
-date: '2013-01-20'
-link: https://www.imdb.com/title/tt1720114
+- reading
+date: '2019-09-08'
 tags:
-- movies
-title: Heleno
+- quotes
+title: Henry David Thoreau

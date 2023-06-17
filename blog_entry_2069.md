@@ -1,11 +1,13 @@
 ---
 categories:
-- travelling
-date: '2023-05-30'
-link: https://maps.app.goo.gl/sHRT5gwFyLrhnEYW9
-tags: null
-title: Lagoa de Pitangui - Natal
+- writting
+date: '2023-01-08T21:04:03-03:00'
+tags:
+- series
+title: O Cangaceiro do Futuro
 ---
 
-Esta foi a lagoa com a melhor estrutura que encontramos em Natal, com preço justo e variável de acordo com o tipo de lazer que você procura. Custa desde 20 por pessoa com 10 consumíveis no local até 25 para usar várias atrações, como pedalinho, tobogãs na água, caiaque, etc. Há uma equipe para cuidar da segurança de todos. Não tenho certeza se em alta temporada a fila de espera é muito grande, mas na baixa com certeza o preço vale muito a pena. Para sentar você tem a opção de mesas levemente submersas no início das águas, com peixinhos que beliscam seus pés e comem suas cutículas (mas só se você quiser). As crianças adoram. A profundidade da água vai de raso até na altura de um adulto, e há marcas do limite seguro. O cardápio não é muito caro, é o preço da região, e há várias opções, inclusive de cervejas. O espeto de camarão é uma boa pedida.
+Esta comédia de costumes existe porque as produções de streaming precisam surgir com pouco dinheiro, ideias e paixão. Apresenta um nordestino na metrópole de São Paulo e que não faz nada direito. Seu sonho é voltar para seu Nordeste e seu santinho atende seu desejo, só que na época de Lampião, o cangaceiro sanguinário. E ele é a cara cuspida e escarrada do meliante. O vilarejo para onde ele vai parar lembra muito os elementos vistos em [Deus e o Diabo na Terra do Sol], filme superestimado do Cinema Novo, dirigido por Glauber Rocha e sem roteiro. Assistindo ao Cangaceiro do Futuro nós entendemos porque algumas histórias ficam melhores sem roteiro.
+
+[Deus e o Diabo na Terra do Sol]: {{< ref deus-e-o-diabo-na-terra-do-sol >}}
 

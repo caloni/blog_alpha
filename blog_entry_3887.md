@@ -1,16 +1,21 @@
 ---
 categories:
 - writting
-date: '2011-12-25'
-link: https://www.imdb.com/title/tt1226236
+date: '2022-11-07T22:15:39-03:00'
 tags:
-- movies
-title: Um Sonho de Amor
+- series
+title: Uma Advogada Extraordinária
 ---
 
-Essa história sobre a mudança dos valores sob vários aspectos é uma abordagem quase idílica do novo cinema italiano. Assistimos com certa solenidade o sisudo jantar em família (evidenciado pelo exagero de sombras) em que o patriarca, já debilitado, transfere o controle da empresa para seu filho e neto. O inusitado e refrescante dessa nova história é que nos bastidores (ou para ser mais direto, na cozinha) encontra-se a origem de mudanças radicais naquela forma de funcionar o mundo.
+A qualidade dos atores na Coreia impressiona. Seja drama ou comédia sempre há ótimos momentos nas novelas coreanas, carregadas de clichês como manda o figurino, mas quase sempre vale a pena por causa do elenco, que abraça com muito afinco seus personagens. São atores que levam a sério a arte de entreter.
 
-Com detalhes que mesclam realidade e sonho, o filme acaba realizando um entrecorte que não necessariamente faz sentido, mas que acompanha principalmente a ascensão da mãe dessa família, Emma Recchi (Tilda Swinton), mais sob o aspecto amoroso, mas que faz rima com a ascenção da própria empresa familiar, que para crescer necessita se aventurar no universo das aquisições e fusões do mundo capitalista. E por falar em rima, faz de sua abordagem uma narrativa muito mais efetiva do que seu antecessor temático (outro italiano) [Baarìa], de Tornatore, no sentido de unir pessoas e valores.
+Entre os mais recentes, no topo da lista está Park Eun-bin. Ela começou aos cinco anos fazendo pequenos papéis para a TV, há dez anos estreou no elenco principal em Operation Proposal,  um romance de viagem no tempo, e atingiu seu ápice no drama esportivo Hot Stove League.
 
-[Baarìa]: {{< relref "baaria-a-porta-do-vento" >}}
+Agora Eun-bin demonstra todo seu talento em expressão e trejeitos vivendo uma advogada autista nesta série que mesmo sendo da Netflix é boa.
+
+O autismo está em alta, mas nem todo ator/atriz ou até mesmo roteiristas aproveitam o tema. Nesta minissérie coreana temos um refinamento elegante entre o fantasioso e o realismo das pessoas dentro do espectro, além de tramas em episódios que se aproveitam do velho programa de júri sem muita apelação, embora alguns possam protestar por este trocadilho infame. A história acompanha a evolução da personagem sem apelar para manipulações baratas. Há um segredo que vai sendo revelado aos poucos, mas isso você já sabe. Essa é uma novela coreana, afinal de contas.
+
+Quando a produção permite que Eun-bin se mantenha livre em sua personagem a série brilha. Observe seus trejeitos desajeitados: isso é atuação meticulosa. Repare nesse equilíbrio delicado entre o cômico e o dramático através da ponta dos dedos de Park Eun-bin, ou no seu sorriso tímido e fugaz, quase invisível se você não aguardar até o final da cena. O tom calculista e cômico com que analisa os detalhes de um caso.
+
+Esta é uma série apaixonante. Talvez seja sua protagonista e o casal mais fofinho desde Amelie Poulain mesmo que falte personalidade no rapaz coreano. Talvez a afeição com pessoas intelectualmente desafiadas que topam o desafio e ousam se tornarem seres humanos em vez de animais acuados da sociedade vitimista. Ou talvez porque Park Eun-bin exercita a arte da atuação com tanto esmero em uma simples novela que é impossível não enxergar virtudes.
 

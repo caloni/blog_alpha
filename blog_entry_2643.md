@@ -1,82 +1,26 @@
 ---
 categories:
-- coding
-date: '2015-08-19'
-tags: null
-title: O Estranho Caso do PDB Mal-Aformado
+- writting
+date: '2018-01-18'
+link: https://www.imdb.com/title/tt0070047
+tags:
+- movies
+title: O Exorcista
 ---
 
-Era uma vez, há 13 anos atrás, um tal de Visual Studio .NET, que iria trazer a felicidade para nós, meros mortais usuários de programinhas em C com ponteiro pra lá e ponteiro pra cá. Agora a Microsoft traria para o pessoal do "baixo nível" a mais nova novidade do verão: uma IDE lenta, bugada e... bonita?
+O Exorcista. Apesar de cercado de lendas e maldições em sua produção, podemos dizer que o resultado é um pequeno milagre. Se trata de um filme de terror que se constrói aos poucos em cima de um drama e personagens que são bem formados, e não jogados como os terrores de hoje em dia. Ao final, temos pouco mais que 15 minutos de cenas horripilantes. Mas essas cenas horripilantes só são assustadoras porque possuem todo um pano de fundo desta história. É preciso ver para crer o que o Cinema conseguiu produzir mesmo com o uso de bonecas, vômitos voadores e uma criança descendo escadas da maneira mais não-convencional possível.
 
-Bem, para os que estavam acostumados com o Visual C++ 6.0, nada foi mais incômodo do que esperar carregar o programa de manhã para conseguir finalmente compilar. Ajustadas as expectativas, os projetos foram aos poucos migrados para aquela nova forma de configurar EXEs, DLLs, LIBs e OCXs.
+A história foi escrita em romance e em roteiro por William Peter Blatty (falecido ano passado) e segue no filme uma lógica muito além de qualquer filme de terror já feito. Começamos a história acompanhando o experiente Padre Merrin (Max von Sydow) em escavações no Oriente Médio. Ele está preocupado e cansado quando encontra mais um amuleto demoníaco. Do topo de um monte observa uma estátua grande de um demônio, cães e pessoas brigando em volta. Ele apenas voltará a aparecer no terceiro ato.
 
-E eis que alguém, muito provavelmente eu mesmo, naquele momento de inspiração, criei a seguinte configuração para a geração dos PDBs, os símbolos para depurar programas no Windows:
+Isso porque o roteiro vai abrindo os seus personagens para depois ir fechando-os, um a um. Cada um possui seu drama pessoal. Isso inclui, claro, Padre Karras (Jason Miller), que acabou de perder a mãe e não estava do lado dela quando isso aconteceu. Conselheiro espiritual da igreja, ele próprio se acha uma fraude, e diz ter perdido sua fé. Seu arco é dos mais pesados e desesperançosos do Cinema. Não há como não ficar pensativo e deprimido se analisarmos esses dois padres e seus destinos.
 
-{{< image src="AmoYVLS.png" caption="" >}}
+A vítima de possessão demoníaca é a pequena Regan (Linda Blair), filha de uma atriz famosa (Ellen Burstyn) e um pai ausente. Vinda de uma família que não possui religião, é curioso todo o processo de investigação médica que tem início quando Regan começa a se comportar de maneira muito estranha, alterando seu humor, o uso de palavrões e até a força física. O nível que a "doença" vai tomando é gradual, e sentimos o desespero da mãe a cada novo evento sinistro em torno da filha.
 
-Faz sentido, não? Afinal de contas, o PDB costuma ter o nome do projeto, e ele já está setado até em outro lugar para gerar com o mesmo nome. Nada de novo no _front_.
+É importante entender que O Exorcista não parte direto para um circo da Igreja Católica. Aliás, a despeito das visões do demônio e alguns acontecimento realmente sobrenaturais, o caso poderia muito bem ser descrito como uma experiência metafísica intensa que desafia nossos conceitos de realidade. Claro que é sobre demônios e o Deus cristão, mas ele não é levado tão em conta a ponto de ser uma história em que apenas cristãos poderiam se identificar (embora para eles, assim como em A Paixão de Cristo, deve ser muito mais doloroso de acompanhar ofensas à sua religião, como Regan utilizando um crucifixo para ferir seus órgãos genitais usando o nome de Jesus).
 
-{{< image src="SYoMbtq.png" caption="" >}}
+Mas o que torna O Exorcista um trabalho único é justamente esse carinho em não soar exagerado e apelativo. Mas o que se pode fazer quando a situação atinge níveis exagerados e apelativos? A questão não é bem sobre pessoas que já admitem existir forças sobrenaturais naquela casa, mas sim sobre pessoas que estão acuadas quando se deparam com acontecimentos cuja explicação foge a uma equipe de 80 médicos especialistas. Nem os próprios padres da história conseguem conceber o sobrenatural, mas são obrigados.
 
-Até aí tudo bem. Aliás, tudo ficou muito bem por estranhos 13 anos.
+E é por este caminho que o espectador, por mais cético que seja, deve necessariamente ser apanhado. Com efeitos visuais que ainda hoje convencem (embora aqui e ali algo esteja datado e exagerado), esta é uma obra que não economiza maquiagem quando ela é necessária, e é por isso que nos lembramos vividamente das caras que ficou a pequena e doce Regan para compor sua possessão, e é justamente isso que torna sua transformação tão deprimente e desesperançosa.
 
-Até que alguém decidiu migrar para o já não tão novo Visual Studio 2013!
-
-{{< image src="YZ6v5eP.png" caption="" >}}
-
-E tudo correu muito bem por algumas horas... talvez 13.
-
-Até que a depuração de repente parou de funcionar.
-
-{{< image src="xbk6WsP.png" caption="" >}}
-
-Será o benedito? Ou o co-piloto?
-
-{{< image src="5ZSZu4g.png" caption="" >}}
-
-Pesquisando nos fóruns da vida, antro dos desesperados, achei/lembrei de um comando muito útil no WinDbg que não apenas diz se os símbolos estão "mismatch", ou seja, os símbolos ou o PDB não está combinando com o EXE, mas também por quê.
-
-Bom, para saber se está mismatch é aquela fórmula de bolo:
-
-```
-ntdll!LdrpDoDebuggerBreak+0x2b:
-77e13bad cc              int     3
-0:000> .symfix
-No downstream store given, using C:\Tools\DbgTools(x86)\sym
-0:000> !sym noisy
-noisy mode - symbol prompts on
-0:000> .reload /f Module.exe
-SYMSRV:  C:\Tools\DbgTools(x86)\sym\Module.pdb\7CD3DD6A80254CE29E8A2E8D7C26BF1B2\Module.pdb not found
-SYMSRV:  http://msdl.microsoft.com/download/symbols/Module.pdb/7CD3DD6A80254CE29E8A2E8D7C26BF1B2/Module.pdb not found
-DBGHELP: C:\Users\Caloni\Projects\Project\Source\_Output\bin\Debug\Module.pdb - mismatched pdb
-DBGHELP: Couldn't load mismatched pdb for C:\Users\Caloni\Projects\Project\Source\_Output\bin\Debug\Module.exe
-*** WARNING: Unable to verify checksum for Module.exe
-*** ERROR: Module load completed but symbols could not be loaded for Module.exe
-DBGHELP: Module - no symbols loaded
-```
-Para saber o que está errado, o famigerado **!IToldYouSo**
-
-{{< image src="AxapyHQ.jpg" caption="" >}}
-
-{{< image src="di9JV7u.png" caption="" >}}
-
-Mano, como assim?!?!? Eu acabei de compilar esse binário, eu já apaguei 15 vezes as pastas de Debug e Release, eu já rebootei mais do que o Windows me obriga a rebootar por causa das falhas de segurança.
-
-Pois, então, desesperançado, crio um projeto novo para comparar as configurações, e voltamos 13 anos atrás, naquele fatídico dia, e entendo por que o nome do PDB temporário não é igual. Bom, na verdade não entendo, mas intuo que tenha alguma relação:
-
-{{< image src="x19BKm4.png" caption="" >}}
-
-{{< image src="P23UaPY.png" caption="" >}}
-
-E, de fato. Solução? Copie as configurações usuais do "novo" Visual Studio comparando com o velho.
-
-Abaixo a chamada do suporte em inglês, se alguém achar o mesmo problema em algum fórum e quiser "espalhar a palavra".
-
-> Just got stuck in the same problem, but in a C++ source that has 13 years, where its first solution was in VS 2003. Comparing the Project Properties in C/C++, Output Files, Program Database File Name, I found out that the project was pointing to the same file path that Linker, Debugging, Generate Program Database File, when the normal situation is to generate a vc120.pdb. Comparing with a new project, the "right" value can't be $(OutDir)$(TargetName).pdb (ou ProjectName), but $(IntDir)vc$(PlatformToolsetVersion).pdb. That solved the problem. I hope solve another one's problem as well =)
-> 
-> []s
-
-{{< image src="uDmJxtB.png" caption="" >}}
-
-Minha próxima tarefa, aparentemente, é ver como sendo sócio da [BitForge](http://www.bitforge.com.br) e da [Intelitrader](http://www.intelitrader.com.br), e mesmo tendo já atualizado meu perfil MVP há anos, continuo sendo funcionário da UOL Diveo/Broker =/
+Eu tinha muito medo infantil deste filme. Por décadas me recusei a revê-lo. Mas hoje este medo não existe mais, fora uma má impressão aqui e ali. Porém, como Cinema, o filme funciona maravilhosamente bem. Sua lógica espacial, a intensidade com que as coisas ocorrem e um roteiro enxuto tornam O Exorcista talvez não hoje um filme que dê medo nesta geração, mas um drama que ainda possui o peso da imaginação sobre as costas de quem ousar assisti-lo e abraçar sua história sem restrições.
 

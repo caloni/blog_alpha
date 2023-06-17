@@ -1,25 +1,36 @@
 ---
-categories: []
-date: '2017-02-01'
-tags: null
-title: Por onde você acessa este blogue?
+categories:
+- coding
+date: '2007-10-18'
+title: Por que minha DLL travou?
 ---
 
-Sério, esta é uma pergunta relevante neste momento. Ao menos para mim. Estou cansado de tentar manter duas áreas distintas do conhecimento, que venho arquivando por anos, e estou pensando em publicar sobre absolutamente qualquer coisa relacionada com meu dia-a-dia por aqui, o que irá envolver necessariamente assuntos que não girem em torno de programação e nem em C++.
+O resumo da ópera é que o código do Windows chamador do DllMain das DLLs carregadas/descarregadas utiliza um objeto de acesso exclusivo (leia "mutex") para sincronizar as chamadas. O resultado é que, em um processo, apenas um DllMain é chamado em um dado momento. Esse objeto é chamado de loader lock na documentação da Microsoft.
 
-(Claro que assuntos onde fui longe demais, como Cinema, já possuem seu cantinho para os aficionados. Isso já está em seu branch apartado.)
+{{< image src="loader_lock.gif" caption="Loader Lock explicado" >}}
 
-O que me tem feito evitar a expansão de assuntos em meu blogue pessoal são dois problemas que talvez nem existam. O primeiro é a minha tentativa de ser fidedigno ao teor do conteúdo no blogue desde seu início: C++, Windows programming e derivados. De vez em quando há alguns devaneios, mas a intenção sempre tentou girar em torno disso.
+Escrevi um [código besta] para exemplificar, mas representa o que já vi em muito código-fonte, e muitas vezes não consegui perceber o que estava acontecendo (tanto porque desconhecia a existência desse loader lock quanto o código estava obscuro demais pra entender mesmo).
 
-Porém, talvez os tempos tenham mudado, e agora estando em uma empresa onde o conhecimento se torna muito elástico, e onde não existe apenas uma linguagem nem uma tecnologia, seja necessário abrir mais o leque de possibilidades, o que pode eventualmente parecer ruído para alguns que acompanham o canal há anos e que esperam ver aqui nada mais do que sempre foi discutido, mas que tem o potencial de tentar atingir mais pessoas de outras áreas que possam se beneficiar de C++, mesmo programando principalmente em outras linguagens.
+Uma simples vítima disso pode ser um pobre executável usando uma pobremente escrita DLL, assim como no código abaixo:
 
-Até empresas mais lentas em se adaptar a mudanças como a Microsof estão reavaliando suas estruturas, abrindo caminhos para a comunidade de código-livre e também recategorizando as áreas onde atuam os MVPs. Esse negócio de alguém ser especialista em Visual C++ cai por terra em tempos onde o Visual Studio virou uma IDE que está suportando não apenas diferentes linguagens ao mesmo tempo (como Python), mas também diferentes sets de compilação, como o clang.
+    int main()
+    {
+      printf("load dll");
+    	HMODULE lockDll = LoadLibrary(_T("dll_lock.dll"));
+    
+    	if( lockDll )
+    	{
+    		Sleep(2000);
+        printf("free dll");
+    		FreeLibrary(lockDll), lockDll  = NULL;
+        printf("done");
+    	}
+    }
 
-O segundo problema é um pouco mais sensível: informação. Nem sempre meu trabalho gira em torno de conhecimento comum e projetos abertos ao público. Isso exige que determinados tipos de conhecimento fiquem para sempre engavetados em arquivos que só eu, minha equipe e meu cliente terão acesso. Porém, se devidamente formatado, qualquer conhecimento pode ser divulgado e ainda ser útil para projetos e pessoas que estão totalmente não-relacionados com o assunto em questão. Esse mês, por exemplo, fiz um artigo de um assunto tratado há mais de um ano. E, mesmo assim, utilizei apenas conhecimento comum, um projeto open source que já é aberto antes mesmo de cogitarmos usá-lo, e um nível de generalização que pode servir para praticamente qualquer um trabalhando com I/O no Windows, mesmo em kernel mode.
+É importante sempre lembrar que a Microsoft acha feio, muito feio você ficar dependendo do DllMain pra fazer alguma coisa, mas admite que em alguns casos o único lugar onde podemos rodar código é no DllMain. Nesses casos -- e em alguns outros -- utilize uma comunicação paralela com sua thread travadona, por meio de um evento ou algo do gênero, antes que ela realmente saia. Com isso a thread pode ainda não ter saído, mas pode avisar a thread principal que o que ela precisava fazer já foi feito.
 
-Por isso pensei em publicar mais coisas em sua devida formatação, porque isso me possibilita também pesquisar de maneira mais fácil pelos diferentes problemas e soluções que encontrei ao longo dos projetos. E por isso estou perguntando de onde vem meus leitores. Se eles leem, como bons dinossauros, o feed de notícias que ainda mantenho, ainda que escondido, disponível para ferramentas como o Feedly (o sucesso do Google Reader, para quem é da velha guarda), eles terão que eventualmente aguentar a torrente de spams até que venha um assunto de seu interesse. No entanto, sempre foi assim, não? Eu duvido que exista algum leitor deste site que utilizou os conhecimentos de todos ou a maioria dos artigos. O que é mais provável é que os artigos sirvam principalmente como curiosidades e forma de expandir a noção de que existem outros mundos na programação.
+Entre os clássicos e inestimáveis artigos de Matt Pietrek no Microsoft Journal há na [edição de setembro de 1999] um bem curto a respeito da inicialização de DLLs. Essa é a leitura mais sucinta, didática e esclarecedora sobre a questão.
 
-No entanto, se os leitores estão vindo pelas redes sociais, como o twitter da BitForge ou o seu facebook, então não há problema algum, pois pretendo compartilhar novos posts apenas quando o teor da discussão tem relação direta com os princípios da empresa. Quando é apenas minha opinião pessoal ou minhas fuçadas paralelas, fica apenas no âmbito do abrir o navegador e digitar: w, w, w, c, a, l, o, n, i...
-
-Comecei essa discussão comigo mesmo, e agora não sei se terei respostas por aqui. Talvez sim, talvez não. De qualquer forma, acho que já tomei minha decisão. Bem-vindos ao meu blogue pessoal em seu sentido mais primordial: um blogue de uma pessoa só e com ideias infinitas.
+[código besta]: dll_lock.cpp
+[edição de setembro de 1999]: http://bytepointer.com/resources/pietrek_debug_init_routines.htm
 

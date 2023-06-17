@@ -1,26 +1,27 @@
 ---
 categories:
 - writting
-date: '2017-08-06'
-link: https://www.imdb.com/title/tt5541240
+date: '2019-07-19'
+link: https://www.imdb.com/title/tt8263936
 tags:
+- cinemaqui
 - movies
-title: O Mínimo Para Viver
+title: O Mistério de Henri Pick
 ---
 
-Mais um drama da Netflix que usa o seu formato já usado em trabalhos como The Fundamentals of Caring (Amizades Improváveis no IMDB). Há uma pessoa que vive com dificuldades, as famílias e desconhecidos em volta, o Keanu Reeves porque sim (o bom é que ele já ganha a graninha do metrô) e um filme leve demais para conseguir causar qualquer comoção ou profundidade no tema que quer abordar.
+O Mistério de Henri Pick é um filme de investigação improvisada, mas ao mesmo tempo dialoga sobre como o marketing pode ser ao mesmo tempo perverso e necessário. "Dois terços dos franceses escrevem, mas ninguém lê", diz um personagem. Há todo um ar melancólico em torno dessa comédia fácil de digerir. Pelo menos na superfície.
 
-O tema é anorexia. A menina principal já foi internada algumas vezes, tem pais separados, foi abandonada pela mãe que casou com outra mulher, vive com sua madrasta, pai sempre ausente e sua meia-irmã com bochechas rosadas.
+Fabrice Luchini faz Jean-Michel Rouche, esse personagem feito para uma comédia de erros, mas ainda assim Luchini mantém sua respeitabilidade. Isso porque Rouche, apesar de vítima das circunstâncias do lançamento de um livro esquecido, enfrenta o exagero da comédia quando sua mulher se separa dele sendo o livro a última gota e é demitido do seu emprego como apresentador de TV. Por texto. Sim, não foi o melhor dos dias para Jean-Michel.
 
-Ela é magra, super-magra, e vem piorando. Ela não consegue comer, mas é bonita e artista. Uma de suas pinturas foi motivo para uma de suas fãs do seu Tumblr se matasse (sempre o Tumblr). Ela agora é internada em mais uma instituição. Essa dessa vez é regida pelo Keanu Reeves, então sabemos que vai dar tudo certo dessa vez.
+Mas a despeito disso, o que realmente o instiga a descobrir o verdadeiro autor deste livro, que se revela como um sucesso de público pelo marketing e um sucesso de crítica pela sua qualidade rara, é a sensação de estar sendo enganado. Não seria a primeira vez que um escritor-fantasma coloca um desconhecido sob os holofotes, mas Jean-Michel, sem esposa e sem trabalho, não parece ter muito a perder ao partir para uma busca no coração da Bretanha, virando então um justiceiro literário ocasional.
 
-Ou talvez não. Você não vai imaginar como a expressão de Reeves anda tão abatida ultimamente.
+O diretor Rémi Bezançon com a ajuda de sua companheira habitual, Vanessa Portal, adaptam o livro de David Foenkinos, que envolve vários personagens dissonantes, e uma caça de uma dupla formada por Jean-Michel e Joséphine Rick, filha do escritor do livro de sucesso. O casal aos poucos vai se estabelecendo contra todas as probabilidades, quase que forçando um inusitado romance sem substância entre os dois, e apesar de resumida, a trama criada para o filme a partir do livro constrói uma linha de causalidades que nos cativa ao acompanharmos esses inusitados heróis nessa busca pela verdade.
 
-O filme dirigido e escrito por Marti Noxon (Buffy: A Caça-Vampiros) coloca Lily Collins como Ellen, a menina artista sem graça um tanto depressiva e sem muita capacidade de empatia pelo espectador. Ela é simplesmente um ser humano que não sabe por que não consegue comer. Enquanto isso visitamos diferentes pacientes da instituição e seus dramas, cada um lidando do seu jeito, mas nenhum deles aparentemente melhorando.
+A dupla de roteiristas acerta em usar das várias vozes do livro apenas uma, pois assim não se perde o foco da narrativa e contam a mesma história sob um ponto de vista fácil de entender: um crítico literário. Obviamente ele irá ser contra truques de marketing que tentem vender uma mentira, mas como o espectador também gostaria que um best-seller tivesse sido escrito por este pizzaiolo simples do interior, nos dando a oportunidade de vislumbrar a fantasia de que qualquer um pode escrever literatura, a persona de Jean-Michel é contraditória aos nossos instintos ao mesmo tempo que vira a voz da razão. E a difícil arte de manter os dois lados em um conflito interno é desempenhado do começo ao fim.
 
-A intenção do filme é óbvia: dizer que as coisas não são tão simples quanto parecem. Esse é um lado bom da história. Ela também consegue te cativar, a despeito da protagonista, graças ao irritante e esquecível Luke (Alex Sharp). A tarefa de Sharp é aparentemente impossível, pois ele precisa não roubar o protagonismo de uma Collins quase completamente apática e inexpressiva, enquanto apesar de sabermos pouco sobre sua derrocada no balé, é o suficiente para despertar mais simpatia.
+Este é um filme que está apaixonado pelo seu sub-gênero de mistério, e sua trilha sonora hitchcockiana faz leve referência a Um Corpo que Cai evocando ainda mais a ambiguidade entre uma mentira desejável e uma verdade desagradável. Mas não só a música inspira isso, como o ambiente místico da cidadezinha secular no campo, o uso da bicicleta para se locomover pela estrada tendo o mar como horizonte.
 
-Porém, sejamos justos. Ninguém é muito apetitoso falando de atuações, e Reeves é a cereja do bolo. Esperamos ansiosamente por alguns bons momentos de uma boa história, mas cozido a fogo médio, o filme de Noxon nunca chega a nos premiar com algum momento muito profundo, preferindo discorrer em um ambiente realista sobre os motivos que tornam uma pessoa anoréxica, e como fazê-la sair dessa situação.
+Porém, esta também é uma comédia leve que nos leva a acompanhar a investigação com irreverência, nos remetendo aos lúdicos jogos de criança. Isso acontece porque este não é um caso de "quem matou?", mas um mero "quem escreveu?", e o peso dessa pergunta é menor que a obstinação de seu protagonista, exatamente quando nós, crianças, nos aventuramos por uma busca não importando o objetivo.
 
-Qual o mínimo para viver quando a vida não faz muito sentido? Talvez nada. O que justificaria um final menos feliz por aqui. Infelizmente, as pessoas possuem esperanças sem motivo, mesmo.
+O Mistério de Henri Pick pode, então, ser considerada diversão despretensiosa, não fosse seu sub-texto que sussurra em nossos ouvidos em alguns momentos da investigação. É uma biblioteca de manuscritos rejeitados pelas editoras, a história sobre um livro ser mais importante que o livro em si e a antipatia que as pessoas nutrem pelo crítico em busca da verdade. Todos esses elementos nos querem dizer que há algo de errado com a literatura. Mas deixemos isso para depois. A investigação é uma atividade mais prazerosa por enquanto.
 

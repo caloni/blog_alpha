@@ -1,26 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-09-17'
-link: https://www.imdb.com/title/tt0120338
+date: '2017-08-06'
+link: https://www.imdb.com/title/tt1658851
 tags:
 - movies
-title: Titanic
+title: 'Toast: A História de uma Criança com Fome'
 ---
 
-Vinte anos depois revejo este drama épico de James Cameron. Na época em que estava em cartaz assisti umas cinco vezes, então sabia de todos os movimentos de câmera e diálogos de cor. Mas o que torna este filme um exemplo de Cinema em seu máximo, mesmo sendo extremamente brega?
+Este é um drama leve que conta com alguns segredos sutis em sua história e algumas atuações marcantes ou no mínimo bem corretas. Helena Bonham Carter é o destaque e o centro de um filme que poderia ser chato como biografia, mas consegue ser fascinante ainda que não conheçamos de quem se está falando.
 
-Pra começar, seu lado piegas e clichê é abraçado sem ressalvas. O filme de fato acredita no amor incondicional entre dois jovens que se conheceram no navio, pertencentes a duas vidas diferentes, duas classes sociais diferentes. Isso não é convincente pelo realismo, mas pela fantasia, como em Diário de uma Paixão. É a lupa do impossível, do sonho, do romântico.
+A biografia no caso é de Nigel Slater, um famoso cozinheiro de TV. O filme conta sua infância conturbada, com a mãe moribunda, péssima em culinária doméstica, preferindo comprar tudo enlatado, e o pai arrumando uma nova esposa a partir de sua faxineira (Bonham Carter), e que se revela uma excelente, quase obsessiva, cozinheira.
 
-E aqui a vida é idealizada como valor absoluto. Mais vale a pena viver, ainda que sem recursos, do que morrer lentamente obedecendo a regras da sociedade da época. O filme vai além, pois admite que vale a pena viver o caminho que faça a maior diferença para as pessoas -- incluindo você mesmo -- do que o caminho seguro e ensolarado. Isso para uma mulher faz muito mais sentido que para um homem. A mãe de Rose explica: "querida, nossas escolhas nunca são fáceis: somos mulheres".
+Oscar Kennedy como o jovem Slater e Freddie Highmore (A Fantástica Fábrica de Chocolate) como o adolescente fazem um ótimo trabalho em personificarem uma criança em desenvolvimento, um tanto mimada, e tendo que conviver com mudanças que giram em torno de comida. Nigel aprecia o trabalho do jovem jardineiro da família, de uma maneira que só vamos perceber por completo o subtexto muito tempo depois. A única coisa que ele aprecia na cozinha de sua mãe é a torrada que ela de vez em quando prepara para ele, mas afetivamente ele possui um retorno muito melhor.
 
-Rose é a protagonista dessa história e Jack é apenas um rostinho bonito na multidão. Kate Winslet ainda está em construção e faz uma persona que não está acostumada. Ela tem que fazer uma menina de 17 anos (na época com 22) mimada da aristocracia do início do século 20, quando o iluminismo levou as pessoas a pensarem que o homem era invencível. Ele construíra uma mansão sobre as águas para lembrá-lo disso. O Titanic foi o maior navio do mundo na época, o mais luxuoso, e afundou em sua viagem de estreia.
+A direção de arte aqui é boa em resgatar uma época onde não se via grandes problemas em comida industrial e com plena gordura na cozinha. Tanto que não precisamos ser apresentados aos perigos de se comer demais naquela época, que é justamente o que o pai de Nigel começa a fazer depois que arruma a voluptuosa Mrs. Potter como faxineira e eventualmente cozinheira. A rivalidade entre os dois para conseguir a atenção do seu patrão/marido e pai é o estopim necessário para que Nigel saia das asas de todos eles e comece a se descobrir, como cozinheiro e ser humano.
 
-E a opinião do filme é clara desde o início: não foi apenas um navio que afundou. Ele marcou uma mudança importante na mentalidade da época. Seu naufrágio marca um golpe pesado do capitalismo em cima da nobreza tradicional. Talvez o último grande golpe antes de 29 estraçalhar os menos aptos ao novo jogo. James Cameron, que dirige e roteiriza, coloca todas as frases e momentos épicos deste acontecimento no filme, desde a "contagem de almas", passando pela orquestra tocando até o fim e o capitão aceitando sua maldição.
+A direção de S. J. Clarkson é ágil, mas ao mesmo tempo detalhista. Ainda que com algumas pequenas manipulações do roteiro de Lee Hall, que dramatiza um pouco além da conta as memórias do real Nigel Slater, é possível entender toda a trama apenas pelo ponto de vista de uma criança e adolescente, o que é admirável, pois nos mantém sempre com o ponto de vista do protagonista. No entanto, alguns detalhes são citados burocraticamente e não se encaixam direito na trama, como o fato do pai de Nigel ser mórmom, ou a sexualidade do futuro cozinheiro.
 
-A história de mais de três horas mistura o romance entre Jack e Rose com os detalhes históricos da tragédia, e ainda realiza um arco com Rose, ainda viva nos tempos atuais, que analisa as mudanças de sua vida a partir de seu romance a bordo.
-
-Cameron em seu projeto construiu uma versão menor do navio em um lago gigantesco para realizar as tomadas da maneira mais realista possível. Há muita computação, que hoje soa mais ou menos datada, mas as cenas hoje clássicas estão lá, firmes e fortes. Além das cenas de ação, realistas, que irão figurar com certeza no panteão do Cinema. Pelo menos o comercial.
-
-O projeto é grandioso, e tem suas merecidas cenas. Foi um processo desgastante, mas hoje vê-se que valeu a pena. A trilha sonora que evoca o pop junto do irlandês clássico. O figurino que consegue se mostrar sem parecer ridículo (quase não consegue). As piadas sem graça de um diretor obcecado em perfeição. Até as piadas funcionam. É um filme fofinho. Ele te carrega no colo se você abrir seu coração, e te joga da poltrona se estiver interessado em complexidade. Não há nada de complexo aqui. Ícones pop, como Freud e Picasso, são citados para que tudo fique mais fácil para o espectador médio. Não é necessário complicar uma obra de arte feita sobre e para as massas. Aprecie o espetáculo do velho Cinema de Cecil B. de Mille nos típicos anos 90. O filme até que envelheceu bem. Se apesar de piegas ele se tornará um clássico moderno como Superman, só saberemos daqui a mais 20 anos...
+No entanto, admirável em ser coeso e com uma produção de época charmosa e bem-humorada -- com direito a uma batedeira que surge de um fundo falso -- "Toast" é um inusitado divertimento em um drama que consegue ser levado com leveza, mas ainda assim se manter presente. Um equilíbrio difícil de ser alcançado, mas que aqui a ligação do herói com comida traduz muito bem.
 

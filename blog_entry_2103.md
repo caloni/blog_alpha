@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2018-09-15'
-link: https://www.imdb.com/title/tt5686062
+date: '2017-02-17'
+link: https://www.imdb.com/title/tt3741834
 tags:
 - movies
-title: Limites
+title: 'Lion: Uma Jornada Para Casa'
 ---
 
-Este é o típico filme fácil de classificar: road trip sobre família disfuncional com o peso de um drama intimista sobre relacionamentos e traumas do passado. Ele também é fácil de acompanhar, pois não há nada além que aconteça em sua história que nos fará olhá-lo de novo. Ele também é um dos piores filmes para se escrever a respeito, porque ele não é tão bom a ponto de ser digno de nota nem tão ruim a ponto de ser digno de pena.
+Este é o filme indicado ao Oscar por fazer chorar. E por falar de um caso real, emocionante, e por falar sobre miséria e como os brancos são privilegiados. Se for um branco que fala inglês, então, nem se fala: a maioria do filme é falado em inglês.
 
-O que há para se dizer é que Vera Farmiga e Christopher Plummer não seguram a onda. Farmiga se dá bem em papéis menos intimistas (ou mais superficiais), como a médium em Invocação do Mal, mas aqui ela desempenha um papel crucial para levar o espectador a entender seu problema, e o que acontece é que ela simplesmente não está lá para nós. Já Plummer, é divertido de vê-lo atuar, mas alguma coisa não está certa nas dezenas de diálogos supostamente espirituosos que o entregaram.
+E até por ser falado em inglês ele é selecionável para o Oscar.
 
-Talvez seja o roteiro de Shana Feste (do para mim ótimo Amor Sem Fim), que veste do começo ao fim a carapuça de filme medíocre e não se preocupa em criar nenhuma reviravolta que se preze, mantendo a história em fogo morno todo o tempo. Sabemos minutos antes de acontecer uma "surpresa", e nada disso acaba soando natural (exceto quando seus personagens não condizem com o que esperaríamos que eles fizessem, como o episódio envolvendo uma pá). Shana parece estar conduzindo o filme a 50/h enquanto o espectador já está na estrada principal. Quando eles chegam em São Francisco nós já estamos quase voltando.
+Porém, esquecendo a parte emocionante da trama, o que dá mais gosto de ver em Lion é sua montagem. E a edição, já que a primeira metade realiza transições no tempo com uma facilidade que quase dispensa os letreiros. Mas a montagem, na segunda metade, consegue juntar a saudade e as memórias de Saroo com momentos imaginados por ele de quando deixou sua família. Aliás, deixou é eufemismo, pois o menino se perdeu e rodou o país de trem por dias. Sem condições de voltar e terminando em uma espécie de orfanato, é adotado por um casal de australianos.
 
-Ao mesmo tempo temos a comédia, que não funciona: um traficante de drogas velhinho vendendo maconha para monges budistas não é engraçado. É apenas peculiar. Da mesma forma todos os episódios do filme são apenas episódios peculiares para deixar claro como o personagem de Plummer é tão problemático. E a cartilha de seu personagem é completa: ele visita seus amigos e diferente do que imaginaríamos são todos gente boa (inclusive há participações especiais curiosas, como Christopher Lloyd e Peter Fonda), e aos poucos cria uma amizade com seu neto, porque mesmo que isso não seja importante para a história é preciso cumprir a cartilha do gênero.
+A estrutura narrativa de Lion é muito simples de entender, e é para ser mesmo, já que sua maior força reside nos atores, e a atuação de Dev Patel é surpreendentemente coesa -- mesmo não sendo o tipo de ator que saia da rotina -- mas a maior descoberta é o pequeno Sunny Pawar (e o pequeno Saroo), que faz a alma do filme inteiro em sua primeira metade. E até Nicole Kidman tem seus bons momentos.
 
-E ao mesmo tempo que o roteiro de Shana Feste não ajuda, sua direção é intervencionista demais. Talvez para tentar desesperadamente chamar atenção para uma história que não está funcionando com o elenco escolhido Shana resolve tremer mais a câmera e muitas vezes impedir o espectador de ver os atores atuando, o que é péssimo para um drama. Note como quando somos apresentados ao personagem de Christopher Lloyd mal conseguimos reparar em como ele envelheceu, pois além do enquadramento deixá-lo sempre no topo da tela a câmera não pára de tremer. E nada disso é necessário no filme (como ele se refrescar pelado em sua varanda e convidar suas visitas).
+Mas, de qualquer forma, volto à montagem. O seu uso e os enquadramentos do diretor Garth Davis salvam o dia junto do editor Alexandre de Franceschi, pois transformam uma história que poderia ser até interessante, mas morosa, burocrática. Com uma câmera na mão, quase sempre focando os atores, e permitindo que apenas vejamos o cenários quando ele é relevante para a busca de Saroo, temos sua perspectiva como criança (fugindo à noite de adultos inescrupulosos) e como adulto, pois seu horizonte continua limitado por um verdadeiro muro de pedras.
 
-Mas não deveria estar surpreso com a incapacidade de Shana Feste trazer alguma alma ao projeto: em um filme literalmente infestado de pets não se explora em nenhum momento essa busca interminável da personagem de Farmiga pelo aconchego inexistente em sua infância com pai ausente através de seus animaizinhos acolhidos da rua. São apenas mais uma coleção de esquisitice ao rol do filme, ele próprio se tornando um pouco esquisito no final das contas. Sobre o que era a história, mesmo?
+Por fim, apresentando uma Rooney Mara de luxo como par romântico do protagonista -- e sem muito o que fazer -- Lion é um filme realmente de Oscar: empolgante, emocionante, e um drama da vida real. Uma história inacreditável que apenas por ser filmada já é digna de prêmios.
 

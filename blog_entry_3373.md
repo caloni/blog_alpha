@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2016-12-31'
+date: '2023-01-02T22:56:39-03:00'
 tags:
-- food
-title: Santa Rita 120 Reserva Especial Syrah 2014
+- wine
+title: Hakushika
 ---
 
-Amadeirado, pouco aromático, quente, azedo. Deixei com a rolha e agora está cheirando a uva; gelado é meio verde; esquentando volta o amadeirado leve.
+Para quem acha que todo saquê é seco, ou seja, eu, esta é uma novidade bem agradável. Ganhei de presente de minha amiga nesse final de ano e achei bem bão para beber solo, sem pretensão, e sem a secura extrema de alguns saquês.
 

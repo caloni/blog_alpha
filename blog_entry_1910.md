@@ -1,16 +1,16 @@
 ---
 categories:
-- writting
-date: '2014-03-24'
-link: https://www.imdb.com/title/tt2042568
-tags:
-- movies
-title: 'Inside Llewyn Davis: Balada de um Homem Comum'
+- blogging
+date: '2023-04-04'
+tags: null
+title: Instalei um contador de visitas
 ---
 
-Os irmãos Coen (Onde os Fracos não Têm Vez, Fargo) são mestres em contar histórias prosaicas e mergulhar fundo nas sensações que estas geram, sempre de uma forma estilizada e com uma fotografia impecável (Bravura Indômita, O Grande Lebowski) que evoque o ambiente onde se situa a ação. Esse "Inside Llewyn Davis - Balada de Um Homem Comum" não foge à regra e se torna a partir da transformação em ficção do músico folk Dave Van Ronk um verdadeiro estudo de personagem.
+Estou revisando como fazer para estar no Flow durante leisure time e uma das poucas regras necessárias é que você precisa coletar feedback sobre como está indo na atividade. No caso da escrita achei difícil eu mesmo ser o responsável por esse feedback, principalmente por não estar sendo no momento um leitor assíduo. Então minha primeira ideia foi saber se pessoas estão lendo meus posts, aproveitando o fato deles serem públicos.
 
-Porém, está longe de ser apenas isso, pois o filme é apenas um recorte do que foi a vida do cantor. O Llewyn Davis (Oscar Isaac) do filme é um fracassado que consegue inspirar a discórdia de todos ao seu redor, procurando um sofá onde dormir toda noite. Sua relação com o gato de um casal de amigos aos poucos se torna seu termômetro social, pois em determinados momentos o bichano assume uma importância desproporcional ao que está acontecendo (como ao discutir a gravidez de uma ex-amante). A música folk, obviamente, se transforma em um narrador onisciente de tão indispensável. A atuação de Oscar Isaac é precisa em diversos momentos, onde o nervosismo e o sarcasmo do sujeito vai saindo aos poucos. Seu rival mais visceral é um velho duplamente repugnante (John Goodman).
+Para minha surpresa hoje me deparo, além das minhas próprias visitas, alguém lendo sobre a sorveteria Banana da Terra em Morretes. Com certeza não sou eu, já que o dispositivo é um MacOS e dos EUA. Outro acesso tinha relação com o vcpkg.
 
-Tematicamente "Inside Llewyn Davis" faria um par indissociável de Turnê (2010), ambos apresentados após o mais leve e simpático Frances Ha, pois é a história de um fracasso artístico e pessoal levados ao extremo. Porém, repito, essa é apenas a visão dos diretores, o que faz toda a diferença. Note a inversão de expectativas da sequência inicial em que ele leva uma surra e verá a mágica de como a narrativa é que constrói a nossa visão de mundo.
+Não sei bem se esse é um analytics com histórico ou são os acessos de tempo real. De qualquer forma agora já sei de pelo menos alguém que está acessando o blogue. Isso é um feedback válido? Deixe o que acha nos comentários.
+
+Ops, não há comentários no blogue. Não dá para aguentar tanto feedback da humanidade.
 

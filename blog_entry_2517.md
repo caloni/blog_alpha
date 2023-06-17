@@ -1,18 +1,33 @@
 ---
 categories:
 - writting
-date: '2016-05-29'
-link: https://www.imdb.com/title/tt2168180
+date: '2019-07-24'
+link: https://www.imdb.com/title/tt9646768
 tags:
+- cinemaqui
 - movies
-title: 'Nise: O Coração da Loucura'
+title: No Coração do Mundo
 ---
 
-Glória Pires desperdiçada em Tempo de Despertar brasileiro. Acompanhamos o fascinante tratamento psiquiátrico conduzido por Nise da Silveira, uma personagem da vida real, aos pacientes do instituto psiquiátrico Engenho de Dentro, no Rio de Janeiro de 1940. As mulheres independentes não são bem vistas, e Nise se coloca entre a ala masculina de doutores explorando novos métodos de lobotomia de pacientes (como se os estivessem curando) enquanto Nise tenta uma abordagem mais Jungiana, voltada para entender o inconsciente de seus pacientes, que carinhosa ou respeitosamente, insiste em chamar de clientes (embora não durante todo o tempo, falha de roteiro). Acima das divergências científicas, o que está em jogo é um tratamento mais humano e que tente de fato melhorar a vida dessas pessoas isoladas do mundo por distúrbios mentais.
+No Coração do Mundo é exercício de estilo, filme de golpe, drama social/poético e antologia mineira, e algumas dessas características deste adorável longa você deve gostar. Nem que seja da antologia mineira. Fique para um cafezinho.
 
-Nesse sentido, "Nise" é um passeio delicioso pelas possibilidades da mente e da comunicação humanas, enquanto de quebra nos entrega um sopro de esperança em uma área dominada por médicos mais interessados em se livrar do inconveniente que seus pacientes geram do que de fato entender o que acontece com os chamados "malucos" daquela época.
+Aliás, de todas as referências de Minas Gerais que têm nesse filme, só faltou o cafezinho. As pessoas não têm tempo para isso. Elas estão sempre trabalhando, fazendo negócios e tramando. Digo pessoas porque são muitos personagens. Essa é uma história que nos apresenta vários que de uma forma ou de outra se conectam, para eventualmente voltar a focar nos três principais: Ana, Miro e Selma.
 
-No entanto, o filme tenta mostrar o milagre sem mostrar o santo. Dessa forma, a figura de Nise soa apagada, e é difícil entender seu valor, já que o tratamento dos pacientes pela pintura parece muito mais obra do acaso do que a intenção bem definida e bem intencionada da figura da doutora. Sabemos que a ciência caminha muito pela especulação e experimentos ousados, assim como acompanhamos a curiosidade e empenhos científicos de Robin Williams para entender as causas da paralisia de seu paciente interpretado por Robert de Niro em Tempo de Despertar, já citado. Porém, em Nise não há espaço para esse estudo fascinante dos métodos da ciência, já que o mesmo é ocupado por um panfleto anti-reacionário bobo que coloca todos os psiquiatras do instituto como vilões míopes -- e reacionários! -- em contrapartida com a progressista e moderna Nise. Em determinado momento, um deles a "acusa" de ser comunista, mas só pesquisando a bibliografia da mulher da vida real para entender que ela já foi presa por estar em posse de livros dessa ideologia.
+Ana é cobradora de ônibus que está tirando agora a carta de motorista. Ela é dessas inúmeras figuras que você vê na paisagem urbana. Ela é a protagonista, mas você só vai perceber isso se reparar como todo o resto das pessoas no filme, para bem ou para mal, a impulsiona a tomar uma decisão arriscada sobre sua vida. A atuação de Kelly Crifer nos entrega uma pessoa do povo cuja motivação aos poucos se revela como a de cada um de nós que está na luta: sair de onde está.
 
-Por isso e pelo melodrama barato, que tenta explorar os sentimentos do espectador usando uma trilha sonora para fazer chorar a todo momento, Nise acaba ficando aquém da sua história extraordinária. Não é algo inusitado. O Cinema brasileiro contemporâneo continua infectado pelos berros autoritários de um ufanismo socialista que ofusca histórias muito maiores que o bobinho jogo político de produções que buscam dinheiro público a todo custo. Uma pena. Nise, como conceito, flerta seriamente como um dos melhores exemplos de "filme baseado em história real", com uma história inspiradora. Graças ao efeito "Que Horas Ela Volta", filme da diretora Anna Muylaert que traz à tona movimentos socialistas revolucionários da cabeça de parte da elite, vira apenas uma tentativa imbecil de fazer valer as ideias erradas em comparação com pessoas mais erradas ainda.
+Apesar de passiva, é Ana que começa o filme entregando uma mensagem gravada de aniversário para seu namorado, Miro, que a recebe sem jeito, cheio de uais, e que momentos depois se revela um homem mais enérgico, o que demonstra em pouco tempo suas diferentes facetas. Agindo na surdina, para a mãe e a irmã ele é a esperança perdida da família. Robert Frank nos entrega esse ar de passividade de Miro que soa um desabafo de todos os medíocres e suas inúteis vidas.
+
+Se erguendo acima do casal Ana e Miro surge Selma, em um papel que move de fato a história para onde ela deseja ir. Obstinada em fazer a roda de sua vida girar, Selma é a mais safa. Ela não tem medo de virar as costas para as dificuldades, como ela demonstra ao falar sobre seu passado. Ela ganha vida no filme através da atriz Grace Passô, que já demonstrou uma habilidade ímpar em Temporada em mesclar essa figura popular que sai por cima das adversidades, e é impressionante como as duas personagens que interpretou se assemelham na garra, ainda que mudem o modus operandi de como dirigem suas vidas.
+
+Fechando o elenco, os coadjuvantes de No Coração do Mundo são uma familiar ponte entre a ficção e o realismo das ruas, especialmente a periferia. Uma curiosidade é a participação especial da cantora MC Carol, que faz uma amiga de longa data de Miro e que através de diálogos cotidianos explora mais esse lado pé-no-chão do longa.
+
+Ela e o resto do elenco foram escolhidos a dedo para diálogos montados pela dupla de diretores/roteiristas, Gabriel Martins e Maurílio Martins, que exibem uma boa parcela dessa antologia mineira. Usando não apenas do sotaque típico, como das expressões da região, como o autêntico "garrar" (estar preso no trânsito em alguma situação), a dupla Martins trouxe à vida um mundinho linguístico conhecido de quem mora ou já se aventurou por aquelas bandas, mas além disso mescla diferentes tons sociais de uma periferia da região sendo descoberta.
+
+Porém, "No Coração" é muito mais que seu coeso roteiro, já que é através das escolhas de locação e dos cenários montados que muitos elementos da mineiridade se revelam sem querer, em uma abordagem realista e orgânica da cultura da região e em grande parte do Brasil. Sua caracterização é potente no mesmo nível do excelente Arábia (2017), a ponto de fazer crer que um se inspirou no outro, embora as filmagens tenham sido feitas quase na mesma época.
+
+Como produção, também, o filme esteticamente se aproxima muito do trabalho de João Dumans e Affonso Uchoa, seja pelo exemplar trabalho de som, que consegue mesclar sons do ambiente que revelam uma tridimensionalidade da vida surpreendente, como ouvir sons de carro passando na rua ou pessoas realizando um canto religioso ao fundo ou a fotografia que favorece as cores desbotadas de uma Minas charmosamente decadente; talvez até esquecida, pelos que aprenderam sobre a região apenas do ponto de vista turístico.
+
+Porém, além disso, o filme ainda se destaca pela sua inusitada escolha de músicas, que mesclando rap com pops icônicos demonstra também sonoramente essa diversidade querendo enriquecer ainda mais a experiência da inserção naquela realidade múltipla, mas que se observarmos de perto se sintetizam na luta do dia-a-dia.
+
+Todos os ricos elementos de cena de "No Coração" somam em seu ato final, quando o filme de duas horas parece curto e acaba prematuramente. Isso porque há momentos de clímax pesado próximo do final, e essa quebra no marasmo nos enche de adrenalina. Uma má escolha de timing ou uma mensagem proposital do filme, a busca pelo coração do mundo, o lugar onde finalmente nos sentimos bem com nós mesmos, é eterna. O filme nos fazer pensar a respeito é uma baita de uma virtude.
 

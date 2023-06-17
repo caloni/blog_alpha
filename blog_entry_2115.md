@@ -1,20 +1,46 @@
 ---
 categories:
+- reading
 - writting
-date: '2019-05-29'
-link: https://www.imdb.com/title/tt0384504
+date: '2017-03-14'
 tags:
-- movies
-title: Livrando a Cara
+- books
+title: 'Mastery: The Keys to Success and Long-Term Fulfillment'
 ---
 
-É um romance lésbico. É uma cinquentona grávida. É uma novela chinesa em solo nova-iorquino. A cartilha é completa e espero no mínimo um casório e uma corrida para o aeroporto nos momentos finais. Paguei meu ingresso pra isso. Oh, não, eles refazem a cena da noiva entrando no ônibus daquele clássico com Dustin Hoffman. Por essa eu não esperava. Uma cena que faz sentido e seria genial colocada no filme que a diretora Alice We pensa que fez.
+O livro de George Leonard é um curto e didático passeio através dos mistérios que tornam o ser humano cada vez mais habituado ao seu "eudaimonia" aristotélico, ou seja, o estado de plenitude do ser que está ao alcance de todos que se derem a liberdade da melhora contínua em qualquer coisa que fizermos nesse mundo.
 
-Essa mistura de diálogos em inglês e chinês (e não me pergunte o porquê) poderia se tornar um drama sensível sobre as amarras da tradição e preconceito, sobre a solidão na vida de uma médica interina e sobre os desafios que enfrentamos em sociedade para sermos felizes. Porém, fora o fato de ser tudo isso ele não faz pensarmos nessas coisas durante o filme.
+Ele parte do princípio que para melhorarmos em qualquer aspecto de nossa vida, seja uma habilidade em um esporte ou na cozinha ou até na faxina, é necessário amar a prática do dia-a-dia e se esforçar de vez em quando para atingir cada vez níveis mais altos, em uma gradação torta, mas constante, de auto-melhora progressiva e agradável. Seria a síntese da vida no próprio conceito aristotélico, onde a virtude do ser humano está em atingir a perfeição de cada uma de suas virtudes e tentar sempre manter-se em equilíbrio.
 
-Um dos motivos para isso é que ele simplesmente não se importa. Dirigido com uma displicência de quem apenas cumpre tabela, a estreante Alice We começa a delinear esse microcosmos dos chineses morando na América, mas não se concretiza por completo. Ele se desdobra apenas até o momento de termos o dramalhão instaurado e depois vira uma dessas séries em que aguardamos pelo final, felizmente nos divertindo no processo.
+Como contra-exemplos ele cita três típicas personas que tentam burlar o caminho duro e legítimo da auto-melhora:
 
-Além disso, quando digo microcosmos estou também me referindo aos lugares onde a ação se passa. O hall do hospital e a casa da protagonista parecem fazer parte de um seriado genérico. As ruas, praças e pontes de Nova York, apesar de vermos a cidade que inspirou tantos romances, não está realmente lá. Ela é filmada em um dia nublado e com pressa; quem filmou está se escondendo e não valorizando o privilégio de fazer parte do rol onde cineastas como Woody Allen podem assinar com orgulho, pois introduziu a ponte do Brooklin com o charme que ela merece.
+1. __The Dabbler__. Esse é o que queima no começo e logo depois desiste.
+2. __The Obsessive__. Esse é o obstinado em sempre melhorar, mas que por isso mesmo entra em uma espiral de terror e auto-mutilação.
+3. __The Hacker__. Esse é o que adora atalhos, mas nunca consegue manter-se firme pela falta da excelência na prática.
 
-Talvez eu esteja pedindo demais de um romance intimista de baixo orçamento, a conclusão de curso de cinema de alguém que teve a ideia genial de refazer mais uma história por causa da trama novelesca e não pela busca de um cinema novo e fresco. Mas é que se isso é Cinema se dê ao respeito. É uma arte. Nos convença que ela vale mais a pena do que assistir Netflix.
+Leonard é incisivo contra a cultura americana que foca nos resultados em vez de no caminho para a perfeição. Ele também é crítico de nossa cultura imediatista do Ocidente, que desiste fácil quando algo é difícil, e que quer a todo custo o prêmio instantâneo do que o prazer de sentir estar melhorando a cada novo dia. Ele de certa forma flerta com o caminho das pedras que os russos parecem dominar tanto, onde para se aprender bem algo é necessário prática, prática e... prática.
+
+Através de cinco dicas-chave, __instruction, practice, surrender, intentionality e the edge__, o autor nos explica a forma com que o dia-a-dia se traduz de maneira simples em como receber instrução válida para melhorar, a prática contínua, a capacidade de abrir mão do ego e obedecer às ordens do mestre de maneira honesta, a visão clara do objetivo para que não se perca no caminho, e, por fim, aquele boost temporário que irá te levar para o novo nível, sempre ligeiramente acima do anterior, e que após uma pequena queda irá lhe colocar em um novo patamar, onde através da constância irá te manter lá.
+
+{{< image src="UoDkC54.png" caption="" >}}
+
+Até o próximo boost.
+
+Depois há uma visão dos perigos mais comuns que nos levam para longe da prática do _mastering_, e como evitá-los ou tratá-los. É um guia simples, e como todo o livro, fácil de acompanhar e lembrar.
+
+Por fim, seus últimos capítulos são mais voltados para a prática esportista e o uso do exercício físico contínuo para conseguir energia e se manter eternamente como um mestre: disposto a se entregar pela auto-melhora. Sempre um eterno aprendiz.
+
+#### Citações Favoritas
+
+> To love the plateau is to love the eternal now, to enjoy the inevitable spurts of progress and the fruits of accomplishment, then serenely to accept the new plateau that waits just beyond them.
+
+> Ultimately, the master and the master's path are one.
+
+> In terms of energy, it's better to make a wrong choice than none at all.
+
+> Ultimately, nothing in this life is "commonplace," nothing is "in between." The threads that join your every act, your every thought, are infinite. All paths of mastery eventually merge.
+
+> Are you willing to wear your white belt?
+
+"Mastering" está disponível [em formato físico](https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560) na Amazon e outras livrarias, e no formato ebook em [coleções particulares](https://drive.google.com/drive/folders/0B5raq27YbkvOZHN0a2xmOFhON0U?usp=sharing). Não sei se há tradução em português.
 

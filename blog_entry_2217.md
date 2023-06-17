@@ -1,18 +1,27 @@
 ---
 categories:
 - writting
-date: '2014-02-05'
-link: https://www.imdb.com/title/tt0213847
+date: '2019-03-13'
+link: https://www.imdb.com/title/tt4504044
 tags:
+- cinemaqui
 - movies
-title: Malena
+title: Maligno
 ---
 
-Não é preciso tornar a mulher uma vítima da sociedade para fazer uma crítica social, mas o diretor de Cinema Paradiso o faz com tanta paixão pelo lúdico, pelo erótico e pelo que significa ser italiano, essa cultura controversa com traços que trazem um misto de vergonha e identidade, que Malena vira um hino sobre a impotência de indivíduos frente à pressão da massa, seja político ou social. E tudo através dos olhos de um garoto sem ele perceber o que isso significa. Ou pelo menos a esperança do longa é que no final ele saiba pelo quê essa mulher passou.
+Para fãs de terror, "Maligno" é uma viagem que no mínimo paga o ingresso, mas vem com um final que pode deixar o pessoal mais antenado em justiça social com um gosto ruim na boca. Angustiante em alguns momentos e tenso em quase todos, ele vai te consumindo por dentro enquanto você acompanha uma história que é à prova da razão humana.
 
-Logo em seu início já é possível detectar aquela magia ingênua e cinematográfica do cinema de Giuseppe Tornatore e seus enquadramentos que viram quadros de pendurar na parede. O que não é possível detectar tão fácil é uma história quase que 100% visual que mantém laços maduros e sensíveis com um passado não tão distante, quando as mulheres se resumiam em seres que, se com curvas voluptuosas, serviam de fonte de prazer masculino e inveja feminina.
+Essa é uma história horripilante demais para sermos racionais e científicos. Ela coloca o espírito de um serial killer morto pela polícia de volta à Terra no corpo de um recém-nascido. Já crescido, Miles é visto como um prodígio pelos pais, Sarah e John, pois aprende rápido e dá sinais de uma inteligência fora do comum. Porém, seus problemas em socializar o torna uma criança solitária, e aos poucos sua mãe percebe que há algo de errado e sombrio na natureza de seu filho.
 
-O mais fascinante é que o filme comenta todo o contexto social e político da época (Segunda Guerra) sem qualquer diálogo explicativo, se limitando com inteligência na repetição exaustiva de cenas que escancaram o assédio que a mulher-título vivida por Monica Bellucci sofre dia após dia enquanto aguarda o retorno de seu marido da guerra. Os nossos olhos são os olhos de Renato (Giuseppe Sulfaro), um garoto que, mesmo usando as curvas de Malena para suas fantasias eróticas noturnas, desde o início se mostra o único a apreciar outras características em torno daquele corpo, como a música que ela gosta, e mais tarde a protegê-la (ainda que com manifestações pueris de vingança), se tornando a única pessoa ciente do mal que a cidade faz para a moça ao enxergá-la apenas como um pedaço de carne.
+Maligno é escrito por Jeff Buhler, que esse ano também estreia uma nova adaptação de O Cemitério Maldito. Jeff insere detalhes da trama que torna aquelas pessoais mais reais e fragilizadas. O pai de Miles, por exemplo, possui um histórico de violência com seu próprio pai, o que o torna impotente como uma voz que contrarie seu menino. Ao mesmo tempo Sarah está encantada por ter um filho especial, e ninguém parece possuir autoridade para punir Miles quando coisas estranhas começam a acontecer em sua volta.
 
-Por fim, é impossível desassociar a narrativa da belíssima trilha composta por Ennio Morricone, que consegue comentar tanto os momentos dramáticos quanto as válvulas de escape em um mundo extremamente intolerante, mas ao mesmo tempo, e isso é vital para entendermos, inconsciente dessa intolerância. Os únicos olhos que se tornam conscientes são os de Renato, que são os nossos olhos, e assim como Totó de Paradiso é o único que acaba compreendendo o valor do Cinema como transformador de mundos.
+Ao mesmo tempo nós, espectadores, sabemos que Miles não é culpado. Ele entra em transes e realiza ações perversas, mas quando volta sabemos que ele conscientemente não as fez. E isso torna tudo muito mais complexo, já que ao mesmo tempo que temos uma criança sinistra em casa essa mesma criança também é uma vítima.
+
+Todos esses elementos já foram abordados em vários filmes de terror aqui e ali, e Maligno não tenta reinventar nada disso. Seu diretor, Nicholas McCarthy, usa a batida cartilha hollywoodiana do gênero em uma história que merecia um tratamento mais artístico. Porém, como a trama é boa do começo ao fim ela acaba adicionando um belo exemplar à antologia norte-americana, regionalizando o que poderia ser universal.
+
+A atuação de Jackson Robert Scott como Miles é icônica. Há um preparo muito competente de uma criança em uma atmosfera onde ela precisa falar palavrões bem feios e machucar pessoas. Ou seja, há momentos que sabemos que Jackson não poderia ter participado integralmente da cena, mas ainda assim não é possível percebermos como. E nisso a produção de Maligno merece aplausos, pois é muito difícil tornar uma criança um ser complexo dentro de uma história de terror, e não um mero fantoche para assustar os incautos.
+
+Ao mesmo tempo Taylor Schilling (da série Orange is The New Black) consegue compreender que o papel de mãe compreensiva e apoiadora possui seus limites, e ela consegue de maneira sutil demonstrar como é possível a uma mulher nessa situação manter seu instinto maternal e ao mesmo tempo manter em suspenso sua própria razão e tentar o impossível. Ela possui a cena mais difícil no terceiro ato, onde mãe e "filho" se revelam de uma maneira difícil de esquecer.
+
+Como havia dito, Maligno pode não agradar os que precisam que mesmo o terror siga uma cartilha politicamente mais correta, principalmente no que diz respeito à violência contra a mulher. Isso gera um problema complexo do ponto de vista artístico: como chocar e ao mesmo tempo "dar exemplo"? Esse filme não encontra a resposta, mas ainda assim sua história é irrepreeensível do começo ao fim. O terror como gênero se coloca à prova de julgamentos morais.
 

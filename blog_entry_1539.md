@@ -1,69 +1,33 @@
----------------------------------------------------------------------
-pack_report: getpagesize()            =      65536
-pack_report: core.packedGitWindowSize =   33554432
-pack_report: core.packedGitLimit      =  268435456
-pack_report: pack_used_ctr            =      22324
-pack_report: pack_mmap_calls          =      10353
-pack_report: pack_open_windows        =          4 /          6
-pack_report: pack_mapped              =  101069594 /  163170978
----------------------------------------------------------------------
-```
+---
+categories:
+- writting
+date: '2020-07-20'
+link: https://www.imdb.com/title/tt11988512
+tags:
+- cinemaqui
+- movies
+title: Expresso do Destino
+---
 
-É óbvio que nem tudo serão mil maravilhas. Eu, por exemplo, encontrei um problema com case-sensitive que me deu algumas dores de cabeça:
+Expresso do Destino começa meio estranho. Os diálogos são fracos. Um misto entre realismo e amadorismo. Este é o cinema independente do século 21, onde tudo já foi tentado e a mínima diferença se destaca e ganha prêmios.
 
-```
-fatal: Path Something/Resource.h not in branch
-fast-import: dumping crash report to .git/fast_import_crash_676
-bzr: broken pipe
-```
+Mas sabemos que é cinema atual porque as cenas com a câmera na mão são de vídeo-clipe e a vida nunca foi tão próxima disso. Este casal improvável ouve músicas pelo You Tube e conversa durante uma viagem de trem de 17 horas, onde irão descobrir que apesar de estarem indo para o mesmo casamento a contragosto possuem mais em comum do que imaginam. Sim, é clichê, mas o diretor Ozan Açiktan disfarça bem suas intenções com tanto carinho em sua decupagem que torna o clima aparentemente claustrofóbico de um trem em um ambiente relaxante que inspira a reflexão sobre a vida.
 
-O Git gera um arquivo de report onde estão as informações do ocorrido. Uma forma de contornar esse tipo de problema é primeiro exportar para um arquivo e editá-lo (corrigindo o case, por exemplo):
+Neste filme, assim como a vida, o trajeto é mais importante que o destino. Quando o clímax chega é como se o espectador já viesse pedindo por ele há um tempo, pois é a conclusão natural de tudo o que essas duas pessoas viveram até agora. E isso prova ser esta a direção absoluta. Diretor do filme e maquinista do trem seguem de mãos dadas. Sempre é poética e inspiradora uma história de reflexão, mas se ela passar em um trem em movimento, ganha pontos pela metáfora batida sobre a vida, que a cada década que é usada adquire coloração diferente e nunca perde o charme.
 
-```
-bzr fast-export --plain . > plain-export.txt
-gvim fast-export.txt
-hack hack hack
-type fast-export.txt | git fast-import
-```
+Sobre o roteiro, as dúvidas são muitas. Como um advogado gosta de poesia? Ele sofre desde os 14 anos de idade, quando teve um infarto e acionou o alerta interno de sua família, preocupados em quando surgirá o segundo ataque. Esta é no fundo mais uma metáfora, sobre o mal que todos sofremos, de estarmos preocupados a vida toda se o que estamos fazendo é certo ou errado, se estamos machucando, ou vamos machucar. As pessoas boas, claro, pois as más estão indo casar.
 
-_Note que talvez você precise de um editor que suporte arquivos gigantescos (como o Vim) e precise se debruçar sobre merges com arquivos com mesmo nome e diferentes cases. Isso que dá manter projetos com refactoring pesado._
+A participação de Metin Akdülger como este advogado, Ali, é confusa e apagada, mas nós percebemos sua rasa e confusa intenção em se dirigir para o casamento, ainda que ele e suas falas não nos ajudem a entender essa quase pessoa. Não há uma personalidade natural por trás dessa pessoa que parece ter tudo sob controle, exceto seu emocional. Apenas acenamos a cabeça e seguimos viagem, com nossa pulga cinematográfica atrás da orelha.
 
-Por fim, faça a conversão para todos os .bzr que tiver e haverá um .git com todo o histórico desses anos usando Bazaar. O próximo passo é montar o histórico de todos eles em apenas um repositório (se assim desejar). Segue uma série de comandos que pode ajudar para usar em uma batch:
+Agora, sobre um advogado gostar de poesia, pensando como roteirista, tem seu sentido funcional: a moça precisa se afeiçoar ao rapaz de alguma forma. Talvez seja essa bagunça que vira um ser humano que não sabe mais viver depois de levar o fora da ex, que está prestes a se casar. As pessoas reagem de maneira diversa à ruína emocional. Alguns fazem limonada dos limões, mas a maioria quer mesmo é se afogar na vodca. Psicologicamente o roteiro tem seus motivos, mas a forma como ele conduz nossas expectativas não está à altura do maquinista deste trem. Afinal de contas, essas duas pessoas já se feriram a ponto de desistir de tudo isso. Não há pretensões no começo da interação. Apenas mágoas que surgem à superfície até na conversa entre dois estranhos. O que dirá quando descobrirem que não são tão estranhos assim.
 
-```
-@echo off
-git remote add -f bzr ..\PathToOldConvertedRepo\%1
-git merge bzr/master
-git remote remove bzr
-mkdir Archive\%1
-echo Mova os arquivos importados
-pause
-git add --all
-git ci -m "Archiving old Bazaar repo (%1)."
-```
+Não há muita personalidade, mas na vida real ninguém é mesmo assim especial como nos filmes. E isso traz um realismo bom, não forjado. Ou quase. O roteiro não consegue equilibrar falas ruins, "improvisadas", com o que pessoas da vida real falariam. Ele não é completamente honesto, mas, pensando na vida real, quem de fato é. Existe show bizz misturado em todo trabalho independente que precisa se vender, o que é uma lástima para a torcida dos cinéfilos que enxergam no cinema pequeno a arte que tanto falta em Hollywood.
 
-Você pode chamar um a um em cima de um repo novo:
+Os diálogos não são espertos de forma sobrenatural como na Trilogia do Amanhecer de Richard Linklater, com o casal Ethan Hawke e Julie Delpy, mas também não são reais e tocantes (no sentido dramático) como em Seguindo o Coração, um trabalho indiano que mostra como um relacionamento abusivo é escancarado frente às câmeras. Expresso do Destino fica no meio termo, ainda competente, mas se entrega menos do que poderia. Deve haver uma relação ótima entre negócios e arte, e este filme não encontra esse tom. Encontra apenas o bom, que já está de bom tamanho para os fãs de indies medíocres. Aplaudirão em algum momento em suas mentes, mas haverá vergonha de aplaudir em público.
 
-```
-mkdir NewRepo
-cd NewRepo
-git init
-..\MyMergeBatch.bat OldRepoName
-..\MyMergeBatch.bat OldRepoName2
-..\MyMergeBatch.bat OldRepoName3
-```
+E, fora sua qualidade narrativa virtuosa, sempre há essa menina, linda e verdadeira. Leyla, a personagem de Dilan Çiçek Deniz, está perdida de fato. Espontânea sem ser exagerada. Diferente dele, ela mantém uma personalidade que conseguimos descrever para outras pessoas que quiserem saber sobre o filme. Se trata de uma mulher sem os anseios do tradicionalismo do Oriente Médio, mas vive uma tempestade interna de emoções que ela resolve abraçar em vez de máscaras. Não é possível descrever completamente Leyla, claro, pois são apenas dezessete horas em um trem, e ela é mais complexa do que isso (ou pelo menos sugere muito bem). Çiçek entendeu a proposta, suas falas a beneficiam, mas ao mesmo tempo ela consegue dizê-las na maioria das vezes com autenticidade. Ninguém pode negar que são suas as falas, dessa menina que já passou mais tempo e se dedicou mais em um relacionamento, seis anos, e já superou. Ela é mais madura. Porém, até pessoas maduras merecem ganhar novas experiências. E lá está ela, disposta a vivenciar o casamento do seu ex que dizia que casamento não era para ele. Dói, mas quem disse que é possível evoluir, crescer e amadurecer sem dor?
 
-Para conseguir ter acesso ao histórico dos arquivos movidos, basta usar a opção -all do log:
+Falando agora da estética narrativa de Expresso do Destino, a divisão em partes incomoda por diminuir o ritmo do longa e o cortar em episódios que não existem. É mais um cacoete de usar uma música e uma passagem para a pausa reflexiva, mas depois de umas oito partes aprendemos que é assim que vemos a vida e os nossos episódios internos. Nós realmente dividimos nossa vida em "a hora do chá", "o momento impróprio", etc? A diferença é que geralmente há um título em algum lugar de nossas cabeças caóticas. A divisão em partes numeradas do filme soa automático e distante. Foi uma decisão funcional, mas é impessoal e pertence a outro filme. É a perda do controle do realismo embutido no filme em prol de algo mais palatável ao grande público.
 
-```
-git log --all -- MyRemovedPath
-```
-
-## Update
-
-Tive alguns problemas em rastrear o histórico utilizando a estratégia de fazer merge no mesmo branch. A solução que encontrei, embora não exatamente direta, foi realizar os merges em branches apartados primeiro, mover os arquivos (de preferência, usando o git, para que ele detecte o rename), aplicar o commit e realizar o merge com o master. Há uma vantagem nessa estratégia, além do log --follow funcionar melhor: mantenha os branches originais, além do ponteiro para remote. Dessa forma, depois de alguns anos, saberá de onde veio esse merge maluco.
-
-## Update2
-
-Depois de um tempo testando essa técnica, descobri que o Git se perde novamente e não encontra mais todos os logs, mesmo com --follow  mesmo movendo os arquivos. O meu problema está relacionado com mesmos paths dos arquivos em repositórios diferentes. Paciência.
+E esta é a grande briga interna deste filme que sonha em ser um símbolo de nossos tempos de vídeo-clipe no You Tube e relacionamentos-relâmpago, onde seis anos parece uma eternidade, mas não consegue se desvencilhar completamente do projeto comercial que o torna possível de ser realizado. É a vida real, dentro e fora dos estúdios. E como reflexo de nossos irônicos tempos, não é nada romântico, apesar de desejarmos ardentemente que seja. Infelizmente pegamos o trem errado.
 

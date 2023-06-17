@@ -1,16 +1,15 @@
 ---
 categories:
 - writting
-date: '2010-08-10'
-link: https://www.imdb.com/title/tt0432289
+date: '2023-02-09T18:29:18-03:00'
 tags:
-- movies
-title: Marcas do Passado
+- coffee
+title: Maria Bonita Robusta
 ---
 
-Basicamente temos a história de um vendedor (Guy Pearce) que, ao consultar um vidente em uma estrada longe de tudo põe à tona sua consciência sobre fatos do passado que levaram seu amigo a ser preso. Isso faz com que o sujeito reavalie sua própria ambição descontrolada.
+A Mitiko achou um café 100% robusta de Minas com venda direto do produtor, em grãos, descafeinado, e é mais barato que café de mercado. Este achado é para poucos. Só o frete é caro. Encomendamos um quilo.
 
-Escrito e dirigido por Mark Fergus, que também escreveu o competente Homem de Ferro e o empolgante Filhos da Esperança, o longa possui um pouco do tema que relembra a tortura do remorso vivido por Tom Neal em Curva do Destino (de 1945!), assim como seu notável baixo orçamento.
+A qualidade é boa. Bem pouco oleoso, fácil de moer. O sabor não é acentuado. Lembra café mineiro, mas um pouco diferente. Será o tipo de grão diferente? Vale a pena a experiência.
 
-Porém, as semelhanças são meramente temáticas, já que nem Fergus nem Pearce conseguem sequer iniciar a curva evolutiva do caráter do protagonista, sendo curioso lembrar que até em Amnésia, vivido pelo próprio Pearce, onde isso não seria possível, podemos perceber alguma mudança no aspecto do personagem atormentado pelo fato de nunca se lembrar do que viveu 10 minutos atrás.
+Eu ainda estava experimentando com maior tempo de infusão, moagem mais fina, etc. Gelado ele fica muito bom. Mas quente parece que falta corpo. Meu último experimento (2023-02-18) foi com 25g de café e o resultado começou a aparecer mais presente no copo. Devo manter em um nível alto, cerca de 20g, para os próximos.
 

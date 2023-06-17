@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2015-03-13'
-link: https://www.imdb.com/title/tt2316411
+date: '2015-01-17'
+link: https://www.imdb.com/title/tt1972571
 tags:
 - movies
-title: O Homem Duplicado
+title: O Homem Mais Procurado
 ---
 
-Quando ouvimos o professor de história repetir a mesma fala a respeito de ditaduras controlarem o povo através de poucas informação e isso se repetir ao longo da história de forma cíclica é uma pista do que o filme irá falar. Porém, o mais fascinante em O Homem Duplicado é que, assim como as ditaduras, o diretor Denis Villeneuve, do excelente Os Suspeitos (2013), não quer nos revelar todas as informações por trás dessa história.
+O Homem Mais Procurado é um daqueles filmes que tenta te manter quase que completamente atento apenas pelo poder de persuasão de seu protagonista. Para sorte do diretor Anton Corbijn (Um Homem Misterioso), o intérprete Philip Seymour Hoffman, apesar de ter ido jovem, foi um dos grandes de sua geração, e constrói mais uma vez um personagem, se não multidimensional, crível naquele esquema de espionagem pós-atentados 11/9.
 
-E ela fica bastante estranha sem essas informações. Jake Gyllenhaal interpreta tanto Adam, o professor de história, quanto Anthony, um ator que ele encontra casualmente ao alugar um vídeo. O que nos leva à grande primeira questão: quais as chances de uma pessoa que não costuma assistir filmes alugar justamente o filme que revela que ele possui um sócia que coincidentemente vive na mesma cidade que ele?
+Estamos na Alemanha, e o objetivo de Günther Bachmann é manter o mundo mais seguro, mesmo que isso envolva ir contra os princípios malucos dos governantes da época, que inclui matar e torturar o maior número de prisioneiros, terroristas ou até mesmo suspeitos de serem ou financiarem o terrorismo. Eles estão governando para o povo paranoico ou eles mesmos são a paranoia? É uma questão interessante, mas que não é abordada aqui.
 
-A resposta, como devemos presumir, está nos sonhos de Adam (ou Anthony? ou ambos?), sempre relacionados com aranhas, mulheres nuas e salas obscuras, assim como sua própria sala de estar. Adam vive nas trevas, decepcionado com sua profissão, e namora Mary (Mélanie Laurent), que vem a seu apartamento para jantar, ter sexo e ir embora. Sua rotina não é a das melhores, e seu interesse pelo seu sócia, compreensível.
+O que temos aqui é mais um O Espião que Sabia Demais mais fácil de digerir, embora com o mesmo nível de detalhes do que é uma operação de espionagem bem feita. Temos poucos diálogos quando estamos na ação das ruas, porque o editor Claire Simpson (O Leitor) sabe como conduzir um ritmo que exige paciência, mas que sempre te entrega algo. Ao mesmo tempo, Corbijn consegue escolher os melhores ângulos para que a onipresença de Bachmann e seus "comparsas" não seja percebido pelos seus alvos, ainda que esteja óbvio para nós, espectadores.
 
-Já Anthony, o outro lado da moeda, é uma incógnita. Ele é casado com Helen (Sarah Gadon), que está grávida de seis meses; eles são um casal feliz. Porém, sua moral é duvidosa, e Helen tem ciúmes fundamentado em casos passados de seu marido. O inevitável encontro entre Adam e Anthony não é tão estranha por serem idênticos -- até detalhes como uma cicatriz -- mas é mais ameaçador pelo que está passando em suas mentes naquele momento. Podemos até tentar adivinhar através de seus diferentes olhares, expressões e tons de voz. Por um ou dois momentos a voz dos dois é facilmente confundida, mas eu discordo. As palavras que saem da boca do instável Anthony são muito mais temerosas do que as que saem do receoso professor.
+Infelizmente, os personagens são limitados, e até o homem mais procurado do título fornece poucas pistas sobre sua personalidade. Mesmo Bachmann, obviamente com um passado que o deixou amargurado e fumando como uma chaminé, nunca consegue soar mais interessante que seus momentos introvertidos. Sequer sabemos como funciona sua profissão (apenas que eles "não deveriam existir", como uma C.I.A. europeia). Ao mesmo tempo, figuras como uma advogada idealista (Rachel McAdams) são monótonas se limitam-se a andar de bicicleta e querer ajudar a "ponta mais fraca".
 
-De qualquer forma, estamos trabalhando com poucas informações aqui (lembra?), mas isso não impede que O Homem Duplicado se torne um thriller que se aproveita da sua complexidade para tornar o espectador sempre boquiaberto para cada nova situação. Nos sentimos como Adam, mas depois do segundo encontro com Anthony, esse sentimento se torna estranho. Podíamos até imaginar o que faríamos em tal situação, mas nunca viver. E é essa sensação que Villeneuve, desde seu terrível (no bom sentido) Incêndios, entrega mais uma vez.
-
-PS: Não fique encucado com a cena final. Ela faz parte de uma lógica interna inabalável, exatamente pela falta de informações. Resta saber qual é. Palpites?
+Em suma, a narrativa eficiente de "A Most Wanted" é a sua maior virtude junto da atuação de Hoffman, mas nem isso garante um trabalho memorável, pois seus personagens estereotipados dificilmente causam qualquer comoção ou estão ligados de alguma forma aos eventos que participam. No entanto, sua conclusão pessimista, apesar de provavelmente causar o ódio da maioria da plateia, tem sua força na mensagem final de que, por mais que quisermos a liberdade de fazer bem o nosso trabalho, sempre teremos burocratas agindo pelo bem da imagem governamental, seja lá o que for que isso signifique.
 

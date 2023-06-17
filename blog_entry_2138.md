@@ -1,20 +1,19 @@
 ---
 categories:
 - writting
-date: '2021-09-13T23:04:22-03:00'
+date: '2019-10-29'
+link: https://www.imdb.com/title/tt7014694
 tags:
 - cinemaqui
 - movies
-title: Los Lobos
+title: Lost Holiday
 ---
 
-Esta produção mexicana não foge do padrão e preenche a cartilha dos filmes independentes que vemos todos os dias, com imigrantes, periferia, trabalho e pobreza. Esse é o chamariz para entrar nos festivais mundo afora. É praticamente obrigatório. Se você não estiver produzindo filmes com gente não-branca você é um racista e é melhor ser cancelado. Los Lobos é uma pequena ode aos novos tempos, onde histórias de imigração são recontadas. Não as antigas dos fugitivos de guerra, mas as novas, sobre a pobreza dos países vizinhos e a desgraça dos vícios.
+Lost Holiday engana a princípio, pois lembra aqueles filmes de conclusão de curso ou independentes estadunidenses que usam como muleta a estranheza de personagens para levar uma história nem tão inspirada adiante. Porém, a estreia dos irmãos Matthews na direção (e no roteiro) aos poucos se desdobra em uma trama inteligente justamente por não se colocar em evidência. É na estranheza de seus personagens, ou em sua banalidade, que se esconde a alma de um filme que soa inseguro o tempo todo, mas que tem todas suas amarras sob controle.
 
-Em seu núcleo abre-se uma janela de observação desses dois meninos presos em um apartamento em um bairro humilde de Albuquerque, nos Estados Unidos. Eles e sua mãe acabaram de chegar do México e estão reconstruindo sua vida após seu pai terminar a dele. Não se sabe exatamente por que precisaram sair de onde moravam, então podemos preencher com nossos preconceitos. Há uma revelação próxima do final, uma cena única, poderosa, onde "o mistério da lâmpada" do filme se revela ao espectador, com uma trilha sonora bacana.
+Tudo começa quando Margaret, interpretada por Kate Lyn Sheil como uma versão exagerada dela mesma, visita no feriado de Natal e Ano Novo sua cidade natal, Washington (que é a cidade natal dos diretores), e por causa de suas memórias escolares arruma qualquer coisa para se divertir. Esse qualquer coisa acaba envolvendo Henry, interpretado por um dos diretores que também é ator, Thomas Matthews (do filme Trapaça), como uma versão exagerada de qualquer amigo chato que você já teve, que também está de volta, e é o único solteiro divertido afim de se divertir. Os dois passam a investigar um sequestro noticiado na cidade, e assim nós temos uma noção mais palpável de qual é a definição de diversão dessa dupla.
 
-Los Lobos não tem muitos diálogos e seu ritmo é lento. Ele deve implorar pela paciência do espectador, principalmente por não mostrar nada de novo. O seu fiapo de história será desvendado depois que nos acostumarmos com seus personagens, uma técnica muito útil em séries de TV que pode ser usado em filmes após a primeira hora: faça-nos acostumar com seus simpáticos heróis e depois tanto faz o que eles estiverem fazendo, vamos acompanhar.
+Vendido como road movie, mas apenas porque na maioria do tempo a dupla está andando de carro por Washington DC, nós testemunhamos as reviravoltas que vão surgindo durante esse feriado muito louco como se estivéssemos fazendo esses rolês com eles, pois esses são personagens baseados em pessoas que todos nós conhecemos na vida real. Barulhentas, cheias de piadas ruins e de se achar, é horrível conviver com extrovertidos como Henry e Margaret, mas os vendo através de uma telona é menos insuportável. E temos a chance de assistir a uma confusão que a maioria de nós nunca se colocaria.
 
-Eu gostaria de dizer algo bacana sobre essas crianças, mas só consigo pensar em seus intérpretes. Irmãos na vida real, Maximiliano e Leonardo Nájar Márquez são figuras infantis naturais em qualquer cotidiano. Eles funcionam e o diretor Samuel Kishi precisa apenas ligar a câmera. O mesmo acontece com o casal de senhorios da família, o simpático casal Cici e Johnson T. Lau. Enquanto Cici emerge timidamente um pouco de humanidade prática no dia-a-dia dos meninos o Sr. Lau protagoniza a cena mais profunda do longa, quando ele está desenhando sua árvore genealógica na parede e explica o porquê de um dos galhos estar com a foto arrancada: "não aceitamos cholo na família". Se você não sabe o que quer dizer "cholo" precisa cavar mais fundo na realidade dos mais pobres de espírito ou entender a riqueza das tradições.
-
-A interpretação de Martha Reyes Arias como a mãe é a mais sóbria possível. Incomoda seu equilíbrio, mas admiramos sua dignidade. Ela é uma mulher linda escondida nos trapos que trouxe consigo e na simplicidade de suas ações. Sua força em criar seus filhos sozinha está igualmente escondida, e apenas um olhar mais atento ou com mais experiência sentirá sua dor.
+Lost Holiday não é nada do que parece à primeira vista, e termina de um jeito que não é possível antever antes dos últimos minutos. Farejamos a novidade conforme ela vai acontecendo, e a trama se desdobra de maneira complexa demais para dar tempo de bolarmos a nossa própria teoria a respeito de um caso policial. Tudo isso acrescenta uma névoa muito bem-vinda em filmes que geralmente já têm tudo sob controle. O Lost do título (perdido) está aí realmente querendo dizer algo.
 

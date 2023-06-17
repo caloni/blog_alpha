@@ -1,26 +1,25 @@
 ---
 categories:
 - writting
-date: '2019-01-20'
-link: https://www.imdb.com/title/tt0361862
+date: '2017-11-06'
+link: https://www.imdb.com/title/tt5222918
 tags:
+- cinemaqui
 - movies
-title: O Operário
+title: O Outro Lado da Esperança
 ---
 
-O Operário é daqueles filmes que apesar de ser um thriller caminha bem no drama, e isso funciona na primeira vez que você assiste, sem saber por que o personagem de Christian Bale não consegue dormir, quanto na segunda vez, quando você já pode se interessar em aspectos mais sutis do excelente roteiro.
+O Outro Lado da Esperança cria metáforas visuais que ao longo da história servirão para martelar o incômodo e o absurdo. Vemos um navio se aproximando. A câmera se aproxima dele, que atraca no porto. É um navio que carrega asfalto. E do asfalto eis que surge um imigrante. Sujo de ponta a ponta. Toma um belo banho e está limpo de novo. A "mesma coisa" acontece com o vendedor que se livra de todo seu estoque e transforma o seu dinheiro em um restaurante. Ambos estão tentando tocar suas vidas, mas é difícil, pois ambas estão tocadas pela truculência das autoridades. Bom, pelo menos há um pouco de humor para ilustrar o absurdo da situação.
 
-Esse duplo aproveitamento do filme funciona porque a personalidade que Bale nos entrega de Trevor Reznik é de uma pessoa que foi se tornando solitária naturalmente, talvez por conta da morte da mãe. Mas para chegar ao ponto de desenvolver uma relação de intimidade com uma garota de programa que contrata mais por companhia e menos por sexo e dar gorjetas extremamente generosas a uma garçonete em um café onde costuma ficar por ter alguém para conversar de madrugada ele precisa ter desenvolvido uma baixa estima considerável.
+O novo filme de Aki Kaurismäki explora pequenos absurdos cotidianos que não são engraçados, mas simplesmente... absurdos. O resultado é um filme leve, gráfico, teatral, mas ao mesmo tempo surreal. Ele caminha fácil entre planos, levando sua história a pontos que possivelmente já imaginaríamos, mas não com tanta criatividade.
 
-O mais impactante na performance de Bale, contudo, é ver materializado em sua magreza extrema essa personalidade cada vez mais nula. Ambas as garotas dizem a ele a mesma frase: "se ficar mais magro vai deixar de existir". Há algumas lendas sobre como e por que Bale teve que ficar magro daquele jeito. O próprio ator disse que conseguiu o feito de perder 30 quilos comendo uma lata de atum e uma maçã por dia, e o ator Michael Ironside disse que o peso pedido pelo roteiro foi fruto de um erro de digitação: "o roteirista estimou o peso do personagem de alguém vários centímetros abaixo da altura de Bale". Seja como for, o resultado você pode conferir: a aparência de Bale sem camisa é angustiante.
+O filme fala sobre imigração, isso é óbvio. Mas ao mesmo tempo quer dialogar com todo homem comum que deseja mais. E quando o imigrante e o vendedor desejam mais, todos se viram contra eles. Mas o próprio sistema já é uma contradição ambulante. Assim como as pessoas. Repare no vendedor. Ele está insatisfeito com sua mulher, que bebe sem parar. Então ele deixa a aliança na mesa, se despede e parte para abrir um restaurante, que é um ótimo negócio, pois "as pessoas bebem quando as coisas estão mal, bebem quando as coisas estão bem".
 
-E isso colabora muito para que nós sintamos empatia pelo rapaz. Ele não faz nada de errado no filme, mas por algum motivo não consegue se encaixar. Quando ele é responsável por um acidente, quem o distraiu foi um novo colega, o misterioso Ivan (John Sharian), que vira a peça-chave para que Trevor consiga sair desse pesadelo.
+Já o imigrante, caracterizado com uma presença de espírito ímpar pelo ator estreante Sherwan Haji, consegue manter seu tom do começo ao fim. Ele quase não muda, mas o vemos mudar. Nem que seja por dentro. Ele espera resgatar sua irmã para tentar construir uma vida onde foi parar: na Finlândia. Mas a Finlândia é uma terra de loucos. Pelo menos a trilha sonora é divertida. E a música tocada pelo seu personagem, Khaled, perfura nossos corações em poucos segundos.
 
-O diretor Brad Anderson escolhe um aspecto noir para seu filme, o que faz todo sentido: essa é a história de um homem consumido provavelmente pelo seu passado, desconhecido, mas cujas consequências conseguimos compreender. O jogo de pistas montado pelo roteirista Scott Kosar é repassado ao espectador de maneira visual, onde a escolha de dois caminhos possíveis, a visão de uma caixa de água, a rota 66, bilhetes na geladeira e tantos outros elementos são jogados para que percebamos a paranoia em que Trevor está entrando, e é difícil perceber em que momento ele simplesmente não consegue mais sair.
+Agora observe a trajetória dos dois protagonistas. Para um deles, o vendedor, as coisas estão dando sempre certo. Quero dizer, o sujeito vende todo seu estoque de camisetas e vence o chefão de uma jogatina ilegal e sua quadra com um straigh flush. E mesmo lotando seus sushis com toneladas de wasabi, dezenas de clientes orientais aparecem para conferir.
 
-A trilha sonora de Roque Baños peca pelo exagero, pois ele tenta nos levar a todo custo para um filme do Hitchcock ou algum desses mistérios antigos, evocando sempre uma chamada um tanto lado B em seus toques. Baños parece empolgado demais pelo material, que sem dúvida é uma oportunidade única, mas ele acaba quase levando tudo a perder.
+Já a trajetória de Khaled é o extremo oposto. Tentando jogar pelas regras ele se cadastra no programa de imigração do país, fica à deriva por um bom tempo e é atacado por radicais nazistas. Mesmo quando ele se dá bem por um momento, sabemos que no máximo será isso: um momento. O que não impede que a sua história também seja otimista, ou pelo menos leve.
 
-Mais comedido, apesar de incisivo, é Xavi Giménez, com sua fotografia drenada de cores felizes e onde o cinza e os tons pastéis estão sempre escurecidos pela feiúra e pela falta de iluminação. Note que quando a energia no apartamento de Trevor é cortada é quando as coisas começam a realmente sair do controle de sua vida, e consequentemente o escuro passa a dominar seu coração.
-
-O Operário é um filme que te faz pensar em tudo isso em uma revisita, enquanto para os marinheiros de primeira viagem soa como uma performance pesada de Christian Bale em um ótimo drama. Ele envelheceu bem nesses quase 15 anos, e tem tudo para continuar envelhecendo como um exemplo de direção, roteiro e atuação trabalhando em uníssono.
+Mas seja de uma forma ou de outra, "O Outro Lado..." não consegue acertar bem o que pretende falar. Ele é estiloso, possui bons personagens em criativos momentos. Seu humor vai crescendo aos poucos, mesmo sem conseguir ser inteligível. Mas sua mensagem... essa se perdeu no mar. Apenas os imigrantes sobreviveram.
 

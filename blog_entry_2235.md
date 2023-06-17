@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2015-08-20'
+date: '2018-01-17'
 tags:
 - food
-title: Manos Negras Malbec 2012
+title: Mantissa Café Fazenda Campestre
 ---
 
-Interessante, seu amargor é curioso.
+Equilibrado, mais doce e bem sutilmente amargo; pouco amadeirado com retrogosto semi persistente em corpo fraco e pouco aromático. Preparando no meio da tarde conversando com a Renata/Regina.
 

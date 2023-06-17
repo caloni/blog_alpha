@@ -1,14 +1,16 @@
 ---
 categories:
 - writting
-date: '2010-11-26'
-link: https://www.imdb.com/title/tt1182350
+date: '2013-10-19'
+link: https://www.imdb.com/title/tt2551492
 tags:
 - movies
-title: Você Vai Conhecer o Homem dos Seus Sonhos
+title: Wajma
 ---
 
-Personagens que Allen adora colocar em cena: a cartomante que faz papel de psiquiatra, a velhinha que procura uma cura para sua tensão pós-separação, o ex que está velho demais para recomeçar (e acredita ter os genes da longevidade), o escritor fracassado de um sucesso só, casado com a consultora de artes em um casamento que logo, logo, irá se abalar, e a noivinha pronta para sair do casamento.
+Mais um daqueles filmes que exploram de maneira corriqueira, quase novelística, o drama das mulheres do Oriente Médio que precisam se manter virgens para seu possuidor oficial, futuro marido. Não que seja ruim, pois ele desenvolve com certa destreza o drama das mulheres frente à ausência completa de ajuda (na figura do pai ausente e da mãe e avó passivas). Até resolve tomar partido da filha (óbvio), mas se esquece de desenvolvê-la como um ser humano, assim como acontece na vida real. Mulheres ainda adolescentes, em sua plena formação de caráter, são julgadas por um sistema social injusto e cruel (ultrapassado, como em determinado momento o próprio filme admite).
 
-Os pontos mais engraçados do longa são o esforço cego que as pessoas fazem para ter sucesso, mas não há jeito para elas, como quando o chefe dela a descarta veementemente, ou quando o plano de roubar o livro do amigo dá sinais que não vai dar certo. E a ironia é um forte do diretor/roteirista, como podemos ver quando o escritor se muda para o apartamento à frente do seu e imediatamente vê sua ex-mulher se trocando pela janela. A crueldade da filha quando ela precisa do empréstimo e a mãe nega por conselhos da vidente e ela se vira contra ela argumentando exatamente como o marido, que ela é uma charlatã que apenas diz o que ela deseja saber.
+Feito de propósito ou não, a falta de um desfecho mais incisivo e cruel poderia gerar um efeito muito mais efetivo, já que o objetivo é claramente criticar o status quo. Me impressiona que ainda que em defesa legítima de suas vítimas, o longa não consiga utilizar o mesmo final impactante de filmes como [O Menino de Pijama Listrado], por exemplo. Pelo visto, o abuso e injustiças contra a mulher ainda viva está longe de ser um drama tão grave quanto os milhões de judeus massacrados pela guerra.
+
+[O Menino de Pijama Listrado]: {{< relref "o-menino-do-pijama-listrado" >}}
 

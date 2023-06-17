@@ -1,20 +1,24 @@
 ---
 categories:
 - writting
-date: '2012-11-25'
-link: https://www.imdb.com/title/tt0780653
+date: '2013-11-22'
+link: https://www.imdb.com/title/tt1817273
 tags:
 - movies
-title: O Lobisomem
+title: O Lugar Onde Tudo Termina
 ---
 
-Desde o início é possível perceber que a fotografia e a direção de arte usadas para narrar a lenda do homem que se transforma em "lobo", ou fera, é de uma beleza ímpar, estetizada ao máximo e que cobre os cenários de maneira quase onírica, já lembrando do caráter lendário do monstro em questão. No entanto, toda essa beleza acaba sendo desperdiçada em uma história pedestre, que transforma os personagens em meras caricaturas, e suas relações absurdas fazem cair abaixo o teor realista da trama.
+É uma satisfação imensa presenciar tantas virtudes técnicas juntas em um filme ambicioso também em seu lado narrativo e temático. Há muitas ideias a serem interpretadas e sentidas em O Lugar Onde Tudo Termina, sendo a principal delas é: até que ponto nossas escolhas conseguem influenciar de alguma forma o futuro? Há uma justiça (divina ou não) em algum lugar ou tudo é uma questão de interpretação?
 
-Narrando o drama de Lawrence Talbot (Benicio Del Toro), que deve retornar à sua terra natal para o enterro do irmão Ben (Simon Merrells) e consequentemente rever o há muito visto pai John (Anthony Hopkins) e de maneira surpreendente sua cunhada Gwen (Emily Blunt), a causa da morte brutal pode ter sido um ser que os nativos acreditam ser um monstro mítico que surge em noites de lua cheia e só pode ser abatido por uma bala de prata (durante quase todo o tempo o nome "lobisomem" não é pronunciado). Assustados pelo visitante daquela família já amaldiçoada pela morte da matriarca (um evento narrado rapidamente nos pensamentos de Lawrence), além da má-vinda comunidade de ciganos, que acampa próximo do vilarejo e cuja cultura alimenta a natureza do suposto monstro.
+Iniciamos a história com Luke (Ryan Gosling), um motoqueiro cuja longa sequência sem corte em que o vemos adentrar em um globo da morte e fazer peripécias com três motos juntas já apresenta também sua habilidade e denota a intenção do diretor Derek Cianfrance de tornar seus atores famosos em figuras mais humanas e realistas (como já havia feito no excelente Namorados para Sempre). Há um relacionamento passado que revela que Luke é pai (uma referência e reversão de expectativa interessante com os arquétipos de Star Wars), resultado de uma aventura amorosa com Romina (Eva Mendes). A tristeza de Luke perante a incapacidade de formar uma família ou ao menos manter-se por perto é o ponto de transição que faz com que ele se isole de sua fama e reinicie sua vida se fixando no local.
 
-A situação se complica exponencialmente quando o próprio Lawrence é vítima da fera, mas não é morto, permanecendo ferido e, na visão do povo, um ser amaldiçoado eternamente e cujo único fim sadio para o vilarejo é o sacrifício. O filme junta desastrosamente elementos de diversas categorias, tais como aventura, terror, "Robert Rodriguez" (sim, esta é uma categoria, assim como uma mão arrancada que atira e uma cabeça arrancada que fala) e tenta ao mesmo tempo manter o clima dramático de sua história. A direção de Joe Johnston parece não ter a menor noção de qual o tom que irá empregar em sua história, evitando ao máximo impor uma linha temática e investindo em tudo que tem à frente: ótimos efeitos digitais, um ótimo elenco e cenários de encher os olhos.
+Porém, quando conhece Kofi (Ben Mendelsohn) e sua vida passada de assalto a bancos, Luke vê aí uma possibilidade de conseguir ao menos sustentar financeiramente seu filho. É o amor de pai que o move para o mundo do crime e o figurino afiado mostrando suas roupas esfarrapadas e seu deixo frouxo de falar que deixa claro que não há muitas alternativas para o obviamente limitado intelecto de Luke.
 
-Infelizmente, tanta pomposidade não corresponde à história e nem aos seus personagens, que são obrigados a seguir linhas absurdas do roteiro de Andrew Kevin (A Lenda do Cavaleiro Sem Cabeça) e David Self (A Casa Amaldiçoada, o que diz muito). Há uma necessidade perene, por exemplo, em tentar criar um romance entre Lawrence e Gwen que simplesmente não funciona e não faz sentido. Ao mesmo tempo os motivos de seu pai John de ter feito alguns atos do passado de qual não se arrepende são pedestres e cheiram a decisões tomadas próximas do final das filmagens.
+E é aí que reside o ponto mais ambicioso da trama: acontecimentos que não vêm ao caso trazem à tona outro personagem relevante no meio do filme. A ambição narrativa dos quatro roteiristas e a perfeição técnica com que a narrativa é alinhada com a ajuda do montador Jim Helton concebem uma fluidez admirável para um filme que simplesmente descarta qualquer afeição com a pessoa que iniciou toda a história.
 
-Baseado no longa de 1941, escrito por Curt Siodmak, essa refilmagem, embora plasticamente impecável, carece de uma alma que a acompanhe, lhe defina e que consiga fazer parte do imaginário do espectador, que não sabe se espera por cenas de ação, um drama pessoal ou simples terror gore no "melhor" estilo de Robert Rodriguez ou Guy Ritchie.
+Não apenas isso: a fotografia, inicialmente de um ensolarado e planos abertos que evocam os sentimentos selvagens de Luke e seu desejo de liberdade se fecha para um azul melancólico e que acompanha planos cada vez mais fechados (cenas mais internas, closes mais próximos com menos iluminação). Vemos aos poucos o lado podre da justiça de maneira sistemática e revoltante. Porém, ao mesmo tempo, aguardamos ansiosos pelo desenrolar dos eventos que praticamente atravessam o personagem de Bradley Cooper.
+
+O que nos leva mais uma vez a uma "troca de foco". Dessa vez, quinze anos se passam, e o peso disso é repassado na maquiagem e no clima fúnebre em que isso acontece. Não são dadas dicas explícitas, pois o filme respeita a inteligência do espectador. Porém, sabemos de imediato a conclusão da última conversa que testemunhamos quinze anos atrás. Também descobrimos quase que de supetão o que ocorre com a primeira parte do filme, em mais uma participação digna de destaque para Dane DeHaan (Poder sem Limites).
+
+Ao final, o destino daquelas pessoas já não é mais tão particular. A transição que completa a trama e fecha o ciclo representa a sobrevivência de algo maior que transcende o mero estudo de personagens. O filme se torna o estudo do Cinema como arte de narrar histórias.
 

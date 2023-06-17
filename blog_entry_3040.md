@@ -1,19 +1,25 @@
 ---
 categories:
 - writting
-date: '2018-05-07'
+date: '2018-02-10'
+link: https://www.imdb.com/title/tt7115328
 tags:
+- cinemaqui
 - movies
-title: A Pior e Mais Ridícula Crítica de Todos os Tempos
+title: Paulistas
 ---
 
-Estava lendo um dos livros de Pauline Kael, uma das poucas coletâneas disponíveis dessa escritora que é considerada a melhor da história do Cinema, 5001 Nights at the Movies. Nesse livro em questão há resenhas rápidas que eram publicadas nos rodapés do jornal onde Kael escrevia. São textos curtos, de um parágrafo no máximo, mas que fluem, embora condensados em uma ou duas impressões no máximo sobre o filme analisado. Apesar de ser divertido de ler, falta textura, conteúdo, nesses recortes. Portanto procurei por esta textura que tanto falam a respeito dos textos de Kael pela internet. Por um bom tempo me perguntei onde estariam esses textos completos e mais densos dessa escritora, e por que eles não viraram relevantes coletâneas para a análise da crítica cinematográfica. E no meio dessas minhas pesquisas eis que surge o texto de Alex Sheremet.
+Paulistas é daqueles documentários "raiz", onde observar é vital. Estamos em um vórtex do tempo que se abre levemente e revela um mundo onde ninguém da cidade grande está acostumado. E no processo algo muito inspirador vai acontecendo: impera a paz, o simples, o cotidiano e milenar. Tudo junto. Uma ode às nossas origens sem apelar para o apelo emocional e clichê da ecologia.
 
-Sheremet esmiuça o contexto circunstancial em que Kael se tornou relevante não apenas para o Cinema, mas para todo tipo de crítica. Em Pauline Kael: one of film's worst and most ridiculous critics o escritor analisa como atualmente diversos críticos uma vez considerados importantes autoridades no assunto estão sendo desbancados por uma análise minuciosa de seu conteúdo. Sheremet tem um bom motivo para fazer esta análise. Ele é o autor de Woody Allen: Reel To Real, um livro que analisa a cinematografia de Allen que Pauline Kael tanto fazia questão de desbancar. No entanto, indo a fundo nos textos de Kael, Sheremet consegue de lá escavar a irrelevâncias das críticas de Kael ao cineasta nova-iorquino.
+A base da história é que desde 2014 não há jovens habitando a região de Paulistas e Soledade, no sul de Goiás. O diretor Daniel Nolasco é de Paulistas. A maior parte dos "personagens" são parentes de primeiro ou segundo grau. O foco da narrativa gira em torno de três irmãos -- Samuel, Vinícius e Rafael -- que dividem o filme em três partes bem abstratas.
 
-No texto em que critica outro autor, Jonathan Rosenbaum, ele diz o seguinte: "The problem, however, is not that Rosenbaum is negative or dismissive, but that, like Pauline Kael before him, he rarely offers any real evidence for his claims, many of his reviews are a mere four to five sentences long, and when he does, they simply dont align with the assertions made. So, for a purportedly comprehensive essay titled "Some Notes Toward a Devaluation of Woody Allen", there is remarkably little evaluation, to start, and even less Woody Allen, the essays purported subject."
+A escolha do filme em não ter narração falada, se limitando a apenas entrelaçar cenas do cotidiano da região durante as férias, quando os jovens que migraram para a cidade grande vão visitar seus parentes, é um tiro no pé da história que ele pretente contar. Isso porque é um tema mais complexo do que apenas registrar o estado dessa região. De acordo com o diretor a intenção era contar as principais dificuldades em manter a vida por lá depois que é construída uma barragem para uma usina hidrelétrica e a vinda do agronegócio em modelos corporativos.
 
-E é exatamente isso que vemos em 5000 Nights. São textos que acertam algumas vezes sobre o filme em questão e erram tantas outras. Assim como no Cinema, onde o espectador precisa ajudar o filme a criar textura, os textos de Kael precisam que o leitor use a imaginação para inserir as percepções da escritora no filme de fato. Mas isso nem sempre funciona. Sheremet também comenta que ele não foi o primeiro crítico de Kael que surgiu. Contemporâneo a ela temos Renata Adler, sua maior crítica, e que Alex comenta que ela "não bateu forte em Kael quanto poderia".
+Nós vemos essas duas forças sendo citadas, em uma trilha sonora que quer dizer algo. Mas tudo isso soa espalhado e sem foco, e o que fica mais presente é a vida dos idosos na região, cuidando de suas plantações e seus animais como era feito séculos atrás. A forma de falar dos habitantes é cativante pela simplicidade. Eles sabem que estão sendo filmados, mas ainda assim este se torna um trabalho autêntico.
 
-Enfim, o texto é longo e minucioso e não cabe aqui abri-lo. É um primeiro passo interessante nesse mundo da "crítica da crítica", pois abre um terreno poderoso e frutífero na nossa era da internet: onde ninguém, absolutamente ninguém, está a salvo de ser duramente e propriamente criticado.
+A melhor parte talvez nem esteja relacionada com as atividades dos irmãos, mas com um senhor que tenta tocar pelo menos uma música que compôs na década de 50. Nos créditos finais vemos a música citada junto de várias outras contemporâneas, e essa já é uma pista relevante de onde o passado encontra o presente, pois não há músicas no meio do caminho: ou é 1954 ou 2013. O que houve no meio?
+
+E para preencher esta lacuna o longa também é deficitário. Estréia de Daniel Nolasco na direção, ele é o responsável pela beleza extraída dos registros da região e sua cadência, e embora falte roteiro suficiente para nós entendermos o que está acontecendo, vermos essas imagens humanas por si só, em meio a um apuro visual realista, mas poético, é possível se deixar compenetrado nos hábitos dessas pessoas tão distantes de nossa realidade.
+
+Dessa forma, "Paulistas" se compromete como documentário denúncia ou ficção documental (em que a narrativa seria expõr os acontecimentos trágicos da região), mas ao mesmo tempo ganha peso quando vemos os hábitos primitivos da região, com pessoas que sabem matar um porco e aproveitar suas partes para o jantar da noite (aviso: as cenas podem ser fortes). E de quebra, fica de aviso: há um curta de animação que será exibido antes das sessões do filme, "Quando os Dias Eram Eternos", que vale cada rabisco. Programa duplo.
 

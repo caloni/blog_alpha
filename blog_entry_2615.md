@@ -1,26 +1,20 @@
 ---
 categories:
 - writting
-date: '2011-10-24'
-link: https://www.imdb.com/title/tt1841584
+date: '2015-04-15'
+link: https://www.imdb.com/title/tt1130080
 tags:
 - movies
-title: O Desaparecimento do Gato
+title: O Desinformante!
 ---
 
-Diferente da ótica tão comum nos filmes de encarar a loucura como uma doença trágica, Carlos Sorín dedica seus esforços em sua nova película para entreter o espectador e deixá-lo ver com seus próprios olhos que a loucura, de uma maneira geral, pode estar em todos nós, da maneira mais corriqueira e cotidiana que for. De maneira brilhante, O Desaparecimento do Gato consegue transmitir essa sensação através de inúmeras facetas.
+Esse filme começa com uma pequena mentira e termina em uma interminável cornucópia de detalhes sobre uma trama que teve inspiração em um caso real envolvendo a empresa Archer Daniels Midland na década de 90. Baseado no livro do jornalista Kurt Eichenwald, a história gira em torno do testemunho do vice-presidente da companhia, Mark Whitacre (Matt Damon), a partir de uma suspeita de extorsão comercial fabricada pelo próprio Mark para se livrar da culpa da queda na produção de milho causada por uma bactéria. Whitacre cresceu profissionalmente na área técnica, e todas as suas narrações em off envolvem curiosidades e reflexões a respeito da produção e comercialização de produtos consumidos pela população em geral cuja origem nunca é pesquisada a fundo.
 
-A história começa com o relatório médico de três especialistas que decidem que um de seus pacientes está curado, e que portanto está livre para voltar à sua vida normal do lado da esposa. No entanto, esta, por ter vivenciado seu ataque de loucura, não está tão certa ainda da sanidade de seu marido, e embora tente de tudo para voltar à normalidade, acaba sempre voltando para a mesma questão que a remoe por dentro: estará seu marido verdadeiramente curado de uma doença mental?
+O curioso é que, como havia dito, a história começa com essa mentira, que não nos é revelada como tal, mas facilmente deduzível pela situação. Depois que o FBI se envolveu e Mark ter confessado seu "crime", as próximas mentiras envolvendo um sistema de cartel para controlar os preços montado entre os concorrentes do mundo todo começam cheirando mal, mas agora já não conseguimos mais distinguir fatos da imaginação fértil do loquaz Whitacre.
 
-De forma quase que metafórica, o gato da família é usado como estopim para suas suspeitas, pois assim que seu marido chega ele some de casa e nunca mais aparece. Aliás, a piada recorrente da mulher colocando comida à noite para ele é eficiente em todas as vezes, pois Sorin entende que o próprio espectador aguarda com certa ansiedade a resolução do "caso".
+Matt Damon, aliás, aqui é 50% do filme, e sua capacidade de nos fazer sentir empatia pelo rapaz -- embora sua idade não esteja muito compatível com seu cargo -- ao mesmo tempo que vamos desvendando aos poucos sua mente doentia e suas estratégias para conseguir mentir por mais tempo é o grande trunfo do filme. Isso, e a capacidade do diretor Steven Soderbergh (Magic Mike) de juntar a excelente fotografia dele mesmo, que explora um mundo que lembra as décadas de 50 e 60 embora estejamos claramente em uma época mais atual (e a própria iluminação revela isso sutilmente quando se liberta do amarelo), e a trilha sonora, que esbanja um charme de uma época que também não é vivida no filme e que consegue também criar um clima mais ameno para fraudes que se acumulam sobre o currículo do sujeito.
 
-Mais interessante, no entanto, é que aos poucos somos levados a crer que tudo o que acontece na vida do casal é, de certa forma, normal na vida de qualquer pessoa, e muitas das esquisitices de Luis (Luque) nós mesmos muitas vezes já nos pegamos na mesma situação. Aliás, Luis Luque é eficiente ao máximo ao deixar essa faceta de sua personalidade oscilando, de forma que sempre nos acalmamos com sua face inocente (mas sempre com um pé atrás). Norma Argentina, como sua esposa Ángela, dá um banho nas expressões e no modo de agir preocupada, criando um equilíbrio quase imperceptível entre os dois personagens.
+Quando até a produção de um filme se esforça para manter uma época que no fundo está errada é porque estão frouxas as amarras entre realismo e ficção, e nesse caso a sensação é ótima. Porém, nada disso seria possível se o roteiro adaptado de Scott Z. Burns não conseguisse captar a essência do seu protagonista e se perdesse em detalhes minuciosos, mas complexos demais para qualquer linha de raciocínio que fosse tentada. O que acontece no terceiro ato, onde os melhores momentos se revelam, é uma perseguição mental em torno de cada vez mais sessões com advogados e investigações do FBI. Nesse sentido, o momento-chave é a conversa entre Mark e o agente Brian Shepard (Scott Bakula) a respeito de um atestado médico, fazendo ecos com outro embate mental semelhante: O Espião que Sabia Demais. Não importam mais os detalhes, mas como eles estão sendo acumulados em uma vida cada vez mais problemática.
 
-Porém, e aí entra a genialidade de Sorín, essa "vida normal" que vemos é exposta através de uma lente que insiste em olhar as coisas de ângulos diferentes, onde até ouvir uma pessoa cantando pode despertar um sintoma preocupante (e a transição de uma trilha sonora de suspense para o sinal de um telefone é surpreendentemente funcional). Outro ponto são os closes um pouco acima do normal das faces dos personagens, o que evoca o ponto de vista de cada um sobre o que vai acontecendo (ao mesmo tempo que deixa todo o resto meio desfocado, em uma alusão ao mundinho privado em que os loucos vivem).
-
-E diferente de um filme recente que vi (o péssimo [Roubando Vidas]), onde o óbvio chega a ser uma ofensa ao espectador, nesse caso sabemos que muitos elementos do longa são previsíveis, mas entramos de tal forma na atmosfera paranoica da esposa que um simples saco de lixo pode se transformar de uma hora pra outra em algo mais. Isso funciona tão bem porque, assim como ela, nós também temos nossas dúvidas sobre a sanidade de Luis.
-
-Mantendo o controle absoluto da história, a conclusão tensa enriquece novamente toda a experiência, pois detalhes menos importantes passam a corresponder ao nosso entendimento (como as férias para o Brasil). E isso faz toda a diferença em uma história de qualidade.
-
-[Roubando Vidas]: {{< relref "roubando-vidas" >}}
+Por fim, o humor controverso de Soderbergh consegue ainda amarrar as pontas sem soar moralista ou dramático. Não queremos que seja perdida a inocência de Mark, mas ao mesmo tempo gostaríamos que ele reconhecesse seus erros. É difícil quando olhamos para ele e o que vemos é uma versão anos 60 do assustador Ripley.
 

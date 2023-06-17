@@ -1,58 +1,29 @@
 ---
-
-Um dos [últimos posts](https://groups.google.com/forum/#!topic/ccppbrasil/-AC9U7J-0Zg) no grupo CCPPBR do Thiago Adams chama mais uma vez a atenção para a complexidade infinita que linguagens como C++ estão preferindo tomar. Esta é a geração que irá sofrer as dores de compatibilidade com o passado mais que todas as outras que virão.
-
-Isso porque mudanças pontuais que vão sendo aplicadas na linguagem e biblioteca, como *move semantics*, não cabe mais em exemplos de livrinhos de C++ para iniciantes da década de 90:
-
-```
-#include <string.h>
-#include <stdlib.h>
-#include <memory>
-
-struct X
-{
-    char * pString = 0;
-    X() {}
-    X(const char* s)
-    {
-        pString = _strdup(s);
-    }
-    ~X()
-    {
-        free(pString);
-    }
-};
-
-int main()
-{
-    X x1;
-    const X x2("a");
-    x1 = std::move(x2);
-
-    return 0;
-}
-```
-
-Neste singelo exemplo, que está errado by design, a classe X não se preocupa em proteger-se de cópias simples. Mas o programador também não se protege da ignorância e usa **std::move** como se ele magicamente movesse referências const, o que é absurdo.
-
-{{< image src="zi5GJxE.png" caption="Imgur" >}}
-
-A questão, porém, não é sobre qual é o problema no código, mas os aspectos de design de C++ que podem levar futuros programadores a se depararem com o mesmo problema em versões multicamadas de complexidade. Este é um exemplo óbvio, mas até quando será?
-
-Esta crítica pode levar (pelo menos) para dois diferentes caminhos:
-
- - O funcionamento do std::move não é intuitivo e pode levar a erros semânticos ("se usar o move estou movendo referências"); programador não conhece o funcionamento por completo.
- - Em C++ o esforço de manter uma classe é muito maior hoje do que em 98/03 ("tomar cuidado com reference, const reference, rvalue reference..."); isso concordo; as mudanças são bem-intencionadas, mas a linguagem é velha com alguns esqueletos que podem começar a balançar.
-
-C++, assim como o Brasil, desde o começo nunca foi para amadores. Hoje em dia ele é impossível. Ouço galera falar que está ficando lindo, mas, francamente, está virando é um ninho de cobras. Mantenedores de bibliotecas, se não estão já arrancando os cabelos, deveriam começar.
-
-Mas talvez com C++ 17+ os cabelos passem a cair sozinho...
-
----
-categories:
-- coding
-date: '2020-06-21'
-link: https://en.cppreference.com/w/cpp/language/coroutines
+categories: []
+date: '2008-01-04'
 tags:
-- ccpp
-title: C++ Co Routines
+- ccppbr
+title: CppCon III
+---
+
+O ano de 2008 promete. Pelo menos no começo.
+
+Está marcado para dia 19 desse mês em São Paulo o terceiro encontro de programadores C++, cujas informações mais atualizadas você poderá acompanhar em nossa wiki. A grade de eventos, pelo menos por enquanto, é essa:
+
+  * 09:30 a 10:00 - Introdução e Apresentação dos Membros do Encontro
+  * 10:00 a 11:00 - C++  com WxWidgets por  Ivo Nascimento
+  * 11:00 a 11:30 - Debate
+  * 11:30 a 11:45 - Coffee break
+  * 11:45 a 12:45 - C++0x - Novas características de suporte a projetos de bibliotecas genéricas por Pedro Lamarão
+  * 12:45 a 13:15 - Debate
+  * 13:15 a 14:30 - Almoço
+  * 14:30 a 15:30 - Threads no CPP ISO - Wanderley Caloni
+  * 15:30 a 16:00 - Debate
+  * 16:00 a 16:15 - Coffee break
+  * 16:1 a 17:00 - Fórum sobre a Organização do Grupo de Usuários e da C/C++ Conference Brasil
+  * 17:30 a 00:00 - C/C++ Beer Meeting!
+
+Conto com a participação de todos que se interessam, usam ou aprendem sobre essas fabulosas linguagens de programação. Vamos levantar a moral de C++ no cenário brasileiro!
+
+Errata: na verdade o que ocorreu dia 19 foi um encontro de C++ com direito a palestras e coffee break, o que de certa forma invalida o nome CppCon. Futuramente teremos o que poderemos chamar de conferência C++, no sentido amplo do termo. Te espero lá.
+

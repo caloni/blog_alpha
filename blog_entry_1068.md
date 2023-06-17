@@ -1,110 +1,16 @@
 ---
-
-Nota de desempenho: esse artigo finaliza (finalmente) a republicação de todos os artigos do antigo blogue. Isso quer dizer que a partir de agora eu sou obrigado a trabalhar, e, se quiser manter meu ritmo atual, vou ter que fazer mais do que cinco cliques do mouse.
-
-Como todas as coisas que fazemos e pensamos depois, descobrimos que sempre existe uma outra maneira de fazer a mesma coisa. Se é melhor ou não, pode ser uma questão de gosto, estética, objetivos de vida, etc. Com a [implementação das variáveis mapeadas globais] não foi diferente. Bem, é isso que se espera fazer com código experimental: experimentos. E deu no que deu: SharedVar versão 2.0 alpha Enterprise Edition.
-
-Quando comentei no final do artigo anterior que existem pessoas que só conseguem gerar código dentro de uma classe, não estava brincando. Existem linguagens, inclusive, que suportam apenas o paradigma de orientação a objetos, e levam isso muito a sério. C++ com certeza não é uma dessas linguagens, o que quer dizer que você tem a liberdade e a responsabilidade de tomar o melhor caminho para determinado problema.
-
-Nessa segunda solução do nosso programa alocador de variáveis globais, pra variar, vamos utilizar uma classe. E pra entrar de vez no mundo POO vamos utilizar de quebra tratamento de erro orientado a exceções. Como vamos notar, aplicadas adequadamente, essas duas características da linguagem conseguirão um código mais simples de entender, embora não se possa dizer o mesmo da implementação "under the hood".
-
-    /** Classe helper para as nossas funções de alocação de variáveis
-    compartilhadas com o mundo. */
-    template<typename T>
-    class SharedVar
-    {
-    public:
-      // se conseguir, parabéns; senão, retorna BUM!
-      SharedVar(PCTSTR varName)
-      {
-        m_memPointer = 0;
-        m_memHandle = AllocSharedVariable(&m_memPointer, varName);
-    
-        if( ! m_memHandle || ! m_memPointer )
-          throw GetLastError();
-      }
-    
-      // libera recursos alocados para a variável
-      ~SharedVar()
-      {
-        FreeSharedVariable(m_memHandle, m_memPointer);
-      }
-    
-      T& operator * ()
-      {
-        return *m_memPointer;
-      }
-    
-    private:
-      // não vamos nos preocupar com isso agora
-      SharedVar(const SharedVar& obj);
-      SharedVar& operator = (const SharedVar& obj);
-    
-      T* m_memPointer;
-      HANDLE m_memHandle;
-    }; 
-
-Como podemos notar, em programação "nada se cria, tudo se reutiliza". Reutilização é boa quando podemos acrescentar características adicionais ao código sem deturpar seu objetivo original. E isso é bom.
-
-Note que nossa classe tenta fazer as coisas logo no construtor, já que seu único objetivo é representar uma variável da memória cachê. Se ela não for bem-sucedida em sua missão, ela explode, porque não há nada que ela possa fazer para garantir a integridade do objeto sendo criado e ela não tem como saber qual o melhor tratamento de erro para o usuário da classe. Geralmente o melhor - ou pelo menos o mais adequado - é o tratamento que o usuário dá ao seu código, porque o usuário da classe é que deve saber o contexto de execução do seu código.
-
-Bem, como o código agora está em uma classe e o erro é baseado em exceção, o código cliente muda um pouco:
-
-    /** Exemplo de como usar as funções de alocação de memória compartilhada
-    AllocSharedVariable, OpenSharedVariable e FreeSharedVariable.
-    */
-    int _tmain(int argc, PTSTR argv[])
-    {
-      try
-      {
-        // passou algum parâmetro: lê a variável compartilhada e exibe
-        if( argc > 1 )
-        {
-          system("pause");
-    
-          // array de 100 TCHARs
-          SharedVar<TCHAR [100]> sharedVar(_T(SHARED_VAR));
-    
-          _tprintf(_T("Frase secreta: \'%s\'\n"), *sharedVar);
-          _tprintf(_T("Pressione <enter> para retornar..."));
-          getchar();
-        }
-        else // não passou parâmetro: escreve na variável 
-        // compartilhada e chama nova instância
-        {
-          // array de 100 TCHARs
-          SharedVar<TCHAR [100]> sharedVar(_T(SHARED_VAR));
-    
-          PTSTR cmd = new TCHAR[ _tcslen(argv[0]) + 10 ];
-          _tcscpy(cmd, _T("\""));
-          _tcscat(cmd, argv[0]);
-          _tcscat(cmd, _T("\" 2"));
-    
-          _tcscpy(*sharedVar,
-          _T("Vassora de sa, vassora de su, vassora de tuturuturutu!"));
-          _tsystem(cmd);
-    
-          delete [] cmd;
-        }
-      }
-      catch(DWORD err)
-      {
-        _tprintf(_T("Erro %08X.\n"), err);
-      }
-    
-      return 0;
-    } 
-
-Existem duas mudanças significativas: 1. a variável sozinha já representa a memória compartilhada; 2. o tratamento de erro agora é centralizado em apenas um ponto. Se pra melhor ou pior, eu não sei. Tratamento de exceções e classes são duas "modernisses" que podem ou não se encaixar em um projeto de desenvolvimento. Tudo vai depender de tudo. Por isso a melhor saída depende de como será a entrada.
-
-[implementação das variáveis mapeadas globais]: {{< relref "compartilhando-variaveis-com-o-mundo" >}}
-
----
 categories:
 - writting
-date: '2019-05-10'
-link: https://www.imdb.com/title/tt7425520
+date: '2014-06-06'
+link: https://www.imdb.com/title/tt2007360
 tags:
-- cinemaqui
 - movies
-title: Compra Me Um Revólver
+title: Computer Chess
+---
+
+Já virou um clichê cinematográfico: se vai fazer filme de xadrez, sua história tem que ser complexa. No caso de Computer Chess, essa complexidade nos personagens e em suas relações é complementada pelo fato de um filme de 2013 emular os anos 80 através de filmagens em preto e branco, com razão de aspecto quadrada e erros de edição. Um possível encontro de programadores entusiastas em um torneio disputado entre suas máquinas de fazer cálculo. A ideia é parecer um documentário, mas sua estrutura possui o tom ficcional, com cortes definidos e diálogos obviamente vindos de um roteiro. Vemos a câmera e o cameraman diversas vezes, o que obviamente já nos revela aquele ser um filme amador sobre um documentário sendo feito em um campeonato de programas de xadrez, o que com certeza dá o tom da complexidade que comentei.
+
+Os personagens existem, não há dúvida. São eles que nos entretem, e não o jogo em si. Alguns deles possuem arcos unidimensionais, tal qual peças em um tabuleiro (daí o clichê). Quem conclui isso é um dos programadores. Inserido nessa atmosfera também está um grupo de casais em terapia feita em uma sala compartilhada pelos nerds em momentos distintos.
+
+O que torna Computer Chess um bom filme é sua capacidade de nos prender pelos pequenos traços marcantes dessas pessoas exóticas (nerds ou não) e a observação quase clínica de como essas pessoas interagem em um espaço fechado, alguns sob pressão perdendo continuamente, outros sem ter onde dormir e sem dinheiro. O que o torna medíocre é o fato do diretor/roteirista Andrew Bujalski se achar um gênio e esquecer de amarrar esses traços em algo mais palpável, permitindo que a liberdade da narrativa atrapalhe sua maior virtude. Diferente de filmes como Amor (Haneke, 2012), que mostram o real para impactar, Computer Chess mostra o real para se fazer de esperto. Essa esperteza, no entanto, não sobrevive a uma análise mais enxadrística.
+

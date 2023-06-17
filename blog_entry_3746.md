@@ -1,39 +1,22 @@
 ---
-categories: []
-date: '2007-08-27'
-title: ToDoList
+categories:
+- writting
+date: '2019-06-11'
+link: https://www.imdb.com/title/tt0976060
+tags:
+- movies
+title: Tokyo!
 ---
 
-Vou aproveitar que o recente blogue do meu amigo resolveu falar um pouco sobre administração de tempo e citar a ferramenta que venho utilizando há quase um ano para tentar organizar minhas idéias, minhas tarefas e minha vida. Assim como o Kabloc, eu estava em sérias dificuldades para tentar fazer e organizar todas as coisas que eu tinha em mente. Ainda continuo com dificuldades para fazer, mas o mais importante é que agora eu tenho um roadmap de para onde eu quero ir.
+Só tem diretor foda nesse filme. Mas diretores foda podem fazer cagada de vez em quando. Felizmente não é o caso de "Tokyo!", que nos apresenta o tema cidade-título de uma maneira que Nova York/Paris Eu Te Amo nem sonham em fazer.
 
-Eu sempre ouvi falar nesse programa desde que freqüento o The Code Project, um sítio onde programadores publicam seus minicódigos para serem aproveitados (e avaliados) por toda a comunidade. Possuo algumas pequenas contribuições por lá.
+Mas estou sendo desonesto. Esses dois outros trabalhos de curtas em volta de uma cidade ficam mais no aspecto romântico das megalópoles. Em "Tokyo!" o espírito da cidade grande japonesa se transmorfa em diferentes formas de viver, seja em um relacionamento insatisfatório com outra pessoa, uma relação de ódio com a sociedade ou até o desejado reencontro com a humanidade em um mundo que ironicamente apesar de ter tanta gente morando por perto nos escondemos mais e mais.
 
-O fato é que por preguiça de testar e pelo seu screenshot inicial, me pareceu um programa demasiado complexo e pesado. Por isso passei vários anos sem sequer baixá-lo.
+Embora o estilo do diretor Michel Gondry, de Brilho Eterno, o puxe para trucagens na tela que o faz escolher temas como "uma pessoa se transforma em uma cadeira", ele não está preso apenas ao estilo. Habilidoso em encontrar formas de contar a história que se propõe, Gondry analisa o relacionamento de um casal em que ela está tão apagada que não consegue ter uma conversa séria com o namorado há muito tempo, e não consegue sequer conseguir um lugar para morar. Essa necessidade de ter um lar aliada à dificuldade disso em uma cidade como Tóquio se unem de uma forma que seria inadmissível em um projeto mais comercial. Aqui a liberdade artística voa longe, e nos deixa pelo menos pensativos sobre não apenas o filme, mas nossas próprias vidas. Se você vive em uma grande cidade talvez se identifique mais.
 
-No entanto, houve um momento em minha vida em que eu precisava definitivamente reunir e organizar todas as minhas idéias e atividades para conseguir concluí-las, tanto no trabalho quanto na vida pessoal. Houve então uma pequena pesquisa de minha parte de programas que fizessem o que eu precisava. Foi aí que eu baixei e testei o ToDoList, um programa pequeno, portátil (posso levar em meu PenDrive) e muito flexível. Eis abaixo o screenshot original do artigo do Code Project:
+Já Leos Carax é aquele cara que vem para causar. É dele a história de Merda, um monstro que vive no esgoto da cidade e que resolve ir à superfície para declarar todo seu ódio pelas pessoas. Carax possui o controle absoluto da narrativa, como pode-se verificar nas rimas visuais com o telejornal ou a caminhada sangrenta que este monstro realiza em uma rua movimentada. A analogia com Godzilla é apenas uma primeira camada que atinge interpretações que caminham pelo terrorismo contemporâneo, intervenções norte-americanas e até uma certa dose de xenofobia. Mas tudo isso só funciona por causa do ator e sua caracterização, que nos gera empatia mesmo que ele cometa atrocidades. Os motivos pelo qual ele odeia os japoneses é uma cereja no bolo. Este é um filme que pode ser interpretado de tantas formas diferentes e o trabalho de Carax é tão intenso. Seu personagem volta a nos assombrar em Holy Motors, interpretado pelo mesmo ator, queridinho do diretor, o talentosíssimo Denis Lavant.
 
-Bem, me parecia mais do que eu precisava. No entanto ele é flexível, e suas colunas podem ser configuradas da maneira que lhe aprouver. Abaixo um screenshot de como utilizo o ToDoList:
+E por fim Joon-ho Bong (O Hospedeiro) nos presenteia com uma mensagem de esperança em meio a terremotos na terra do sol nascente. Para isso ele utiliza a figura controversa de uma pessoa que não sai de casa há 10 anos e uma entregadora de pizza que o desperta para uma visão profética sobre o mundo onde somos prisioneiros desse sentimento de auto-proteção em meio às multidões. Apenas repare nesse segmento como ele utiliza uma mera sombra atrás de uma porta de vidro que se distancia como se dissolvendo e testemunhe um mestre do terror trabalhando com elementos naturais. A sequência do terremoto na rua é um marco de primor e uma das cenas marcantes daquele ano no Cinema.
 
-{{< image src="todolist.png" caption="" >}}
-
-Entre algumas coisas legais que gosto nesse programa que me fizeram ficar com ele, consigo me lembrar da seguinte lista:
-
- - Posso levar onde quiser e salvar minhas configurações em um arquivo ini.
- - Ele fica na área de notificação e posso ativá-lo com um atalho global.
- - Ele conta o tempo de uma tarefa se você quiser.
- - Ele exporta as listas em formatos como Excel, HTML e texto puro.
- - Ele é pequeno e não precisa de instalação.
- - O código-fonte é disponível e está sempre sendo atualizado.
- - Posso salvar minhas listas em XML (padrão) ou encriptado.
- - Pode ser estendido por meio de plugins.
-
-Bem, ele sozinho não resolveu meus problemas. Assim como o Kabloc disse, é você, e unicamente você, o responsável por organizar a sua agenda. E eu tive que passar muito tempo junto da minha para conseguir encontrar a maneira ideal para eu trabalhar. Cada um tem a sua.
-
-Há um tempo atrás não acreditava muito em idéias, mas a partir de um dado momento um outro amigo meu conseguiu me convencer que idéias são os verdadeiros motores do mundo, e um mundo sem idéias seria um mundo de fazedores de coisas sem cabeça. Não adianta ser muito bom no que se faz se não se pensa no que se faz. Essa é um boa razão para explicar por que boas idéias permanecem para sempre, mesmo que seus criadores já tenham morrido há muito tempo.
-
-Por esse motivo que uso o ToDoList para catalogar e listar todas as idéias que tenho sobre o que pretendo fazer. Como você deve adivinhar, a lista nunca acaba e só tende a crescer. Mas tudo bem, o objetivo não é acabar, mas sim não perder a idéia que se teve, pois ela aos poucos pode ser extendida e aprimorada no próprio ToDoList, até chegar a hora de implementar. Quando for a hora de botar a mão na massa muito dos problemas já foi pensado e analisado naqueles momentos de divagação no banheiro, no ônibus, ou na sala de aula. Os momentos mais frutíferos, aliás.
-
-Porém, é claro que catalogar tudo também não é tudo. É preciso agir. Por esse motivo costumo dividir minhas tarefas em duas listas (fora a da empresa onde trabalho): Curto Prazo e Longo Prazo. As tarefas no curto prazo são as mais imediatas, e representam as coisas que devo fazer antes da semana, do mês ou do ano acabar. Geralmente dou uma olhada diária nessa lista. As de longo prazo não são menos importantes, mas possuem um tempo de finalização mais longo, ou porque não são interessantes atualmente, ou porque fazem parte do meu projeto de vida, algo que se deve pensar mais e agir aos poucos. Costumo dar uma olhada semanal nessa lista.
-
-Enfim, cada pessoa tem sua maneira de encarar problemas, catalogar idéias e fazer acontecer. Essa ferramenta, na minha opinião, pode ajudar.
+"Tokyo!" não é de maneira alguma um filme fácil para as massas. Ele é interpretativo na maioria do tempo e não deixa nada muito mastigado para aquele espectador preguiçoso. Mas fala sobre a cidade, indo até além. E possui a estética e a competência de três diretores top de linha. Eles possuem pouco tempo em seus curtas, mas comprovam que para um artista completo basta meia-hora para virar seu mundo dos avessos.
 

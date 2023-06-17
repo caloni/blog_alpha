@@ -1,21 +1,99 @@
 ---
 categories:
-- writting
-date: '2022-10-25T20:14:49-03:00'
-tags:
-- cinemaqui
-- mostra
-- movies
-title: Lobo e Cão
+- coding
+date: '2015-06-05'
+tags: null
+title: Logs em serviços (e outras coisas)
 ---
 
-O Lobo e o Cão é um porre incomensurável. Parece que não há uma única cena no filme inteiro que valeu a pena ter sido filmada. Aguardamos eternamente por alguma história começar e quando sentimos que deve estar terminando parece que não acaba nunca.
+Já uso logs há muito tempo. Me lembro muito bem que quando programava em BASIC o "passou por aqui" já era útil. Depois de fazer muitas bibliotecas super-flexíveis de escrita em saídas diferentes, níveis configuráveis e uso do mais complexo ao mais banal, cheguei à seguinte conclusão:
 
-Nada fica em suspenso no filme de Cláudia Varejão, que estreia na direção após trabalhar como editora e fotógrafa. Nada na história é elevado à categoria de "prestar atenção". Sem narrativa, a análise que sobra em uma obra dessas é a análise do nosso sono. Pelo menos até quanto durar a vontade de acompanhar personagens alheios à nossa vontade. E até quando vencer a vontade de ficarmos acordados.
+{{< image src="p9kH1LW.jpg" caption="" >}}
 
-Se bem que não entender o sotaque tão característico da Ilha dos Açores, em Portugal, ajuda a mantermos uma distância natural dos assuntos que teoricamente estão acontecendo. Para não dizer que não há nada, este filme "explora" a sexualidade de seus personagens. E coloco explorar entre aspas porque ele simplesmente mostra a rotina desses jovens em busca do prazer fácil de sua idade onde todos são bonitos, não importa o estilo ou a orientação.
+### Log("Quero um log mais simples possível (de preferência ", 15, " vezes mais simples)");
 
-Dessa forma, Ana e Luís são os bichos citados no título, uma forma bem-humorada de relacionar a sexualidade com um bicho diferente. Em uma sala de aula cada aluno veste a cabeça de um animal em uma espécie de sarau. Essa é a analogia que deve ter parecido muito sagaz às roteiristas Varejão e Leda Cartum. Durante todo o filme vemos a dupla da história se relacionando com outros jovens. Luís é o mais empolgado. Ele participa ativamente da comunidade. Ana, por outro lado, é uma menina quieta, na dela, mas quando surge sua prima sexy, vinda do exterior, aí é que o bicho pega.
+Vou tentar defender meu ponto de vista.
 
-Filmado na ilha de Açores e com um casting formato por membros de comunidades sobre orientação sexual não-normativa, Lobo e Cão tenta demonstrar como não existe nada de errado na forma de viver desses jovens, mas justamente por focar demais no lado sexual seus objetivos se viram contra eles mesmos. É o equivalente do episódio do South Park sobre pessoas que nascem com um feto em suas cabeças: de tanto falar sobre isso, e apenas sobre isso, vira uma espécie de bullying-homenagem.
+Esse [artigo do Dr. Dobbs](http://www.drdobbs.com/cpp/a-lightweight-logger-for-c/240147505) explica de uma maneira bem completa como fazer uma lib de log leve e configurável. O que eu peguei desse exemplo foi a forma mais C++ de formatar as linhas, deixando para trás o estilão printf que depois de variadic templates já está datado.
+
+```
+#include <iostream>
+#include <sstream>
+
+inline void Log(std::ostringstream& os)
+{
+	std::cout << os.str() << std::endl;
+}
+
+template<typename First, typename...Rest >
+void Log(std::ostringstream& os, First parm1, Rest...parm)
+{
+	os << parm1;
+	Log(os, parm...);
+}
+
+template<typename...Rest >
+void Log(Rest...parm)
+{
+	std::ostringstream os;
+	LogHeader(os);
+	Log(os, parm...);
+}
+```
+
+Por que eu acho a minha versão mais legal (não valendo falar que foi porque eu fiz):
+
+ - É mais simples ainda, tem poucas linhas e pode ser copiada sem peso na consciência. Pode até estar em um header que o overhead é mínimo.
+ - Não requer configuração de arquivo, debug output, named pipe, etc. Isso tem a ver com o uso de cada um. O próximo motivo explica melhor isso.
+ - Se for executado em um prompt já exibe as informações para serem filtradas; se for executado como um serviço encapsulo a saída.
+
+Encapsular a saída e o comportamento de um serviço hoje em dia é algo banal. Há diversos programas que fazem isso para você, sendo desnecessário programar toda aquela parte de comunicação com o Windows. O [cara do DriverEntry](http://driverentry.com.br/blog/?p=461) (vulgo o kernel-mode programmer motta-focka Fernando) fez um aplicativo que faz isso, que é simples de usar e continua funcionando no Windows 8.1. Atualmente uso um outro encontrado pelo igualmente fodástico [Rodrigo Strauss](https://nssm.cc/): o Non Sucking Service Manager (seu nome já explica por que defendo utilizar o mínimo possível das firulas da Microsoft).
+
+Além de ser extremamente flexível e não ter falhado nas vezes que o utilizei, o NSSM consegue redirecionar a saída do aplicativo que encapsula como um serviço para um arquivo e rotacionar o arquivo por tamanho ou data (ou reexecução do serviço):
+
+{{< image src="v12mGG3.png" caption="" >}}
+
+Abaixo uma receitinha básica para configurar seu aplicativo:
+
+```
+nssm.exe install MyService C:\Path\MyService.exe <args>
+nssm set MyService AppStdout C:\Path\Logs\MyService.log
+nssm set MyService AppStderr C:\Path\Logs\MyService.log
+nssm set MyService AppRotateFiles 1
+nssm set MyService AppRotateOnline 1
+nssm set MyService AppRotateBytes 10485760
+```
+
+_(para quem está se perguntando, 10485760 bytes são 10 MB.)_
+
+Com essa forma de fazer serviços, há uma dupla vantagem:
+
+ - Retirar todo o código para lidar com o Service Manager do Windows das suas mãos.
+ - Continuar tendo um aplicativo que roda pelo prompt e já imprime seu comportamento (e pode ser redirecionado também).
+
+E ainda uma vantagem-bônus:
+
+ - Você pode executar programas-filho que o redirect para o log vai funcionar do mesmo jeito.
+
+### Bônus final
+
+Acho que cada um deve escrever no seu header o que achar melhor para depurar seus programas. No entanto, acho válido compartilhar quais são as informações que tem sido úteis para mim:
+
+```
+inline void LogHeader(std::ostringstream& os)
+{
+	SYSTEMTIME st;
+	char buffer[48] = "";
+
+	GetLocalTime(&st);
+
+	sprintf_s(buffer, "%04d-%02d-%02d %02d:%02d:%02d %04X.%04X %08X ",
+		st.wYear, st.wMonth, st.wDay,
+		st.wHour, st.wMinute, st.wSecond,
+		GetCurrentProcessId() & 0xFFFF, GetCurrentThreadId() & 0xFFFF,
+		GetLastError());
+
+	os << buffer;
+}
+```
 

@@ -1,10 +1,20 @@
 ---
 categories:
-- reading
-date: '2017-06-27'
-tags: []
-title: Prefácio de O Capital Vol. 1
+- writting
+date: '2014-01-29'
+link: https://www.imdb.com/title/tt0125659
+tags:
+- movies
+title: Preso na Escuridão (aka Abra os Olhos)
 ---
 
-Embora se trate de um rascunho, os Grundrisse possuem extraordinária relevância, pelas ideias que, no todo ou em parte, só nele ficaram registradas e, sobretudo, pelas informações de natureza metodológica. Uma dessas ideias é a de que o desenvolvimento das forças produtivas pelo modo de produção capitalista chegaria a um ponto em que a contribuição do trabalho vivo se tornaria insignificante em comparação com a dos meios de produção, de tal maneira que perderia qualquer propósito aplicar a lei do valor como critério de produtividade do trabalho e de distribuição do produto social. Ora, sem lei do valor, carece de sentido a própria valorização do capital. Assim, o capitalismo deverá extinguir-se não pelo acúmulo de deficiências produtivas, porém, ao contrário, em virtude da pletora de sua capacidade criadora de riqueza.
+Acabei de ver o original de Vanilla Sky, aquele com o Tom Cruise correndo como um louco. Uma produção espanhola/italiana/francesa, o filme de 1997 conta também com a participação de Penélope Cruz como Sofia, mas diferente do tom experimental em 2001 dado pelo diretor Cameron Crowe (Jerry Maguire - A Grande Virada), a direção madura de Alejandro Amenábar (Os Outros), por incrível que pareça, transforma completamente a narrativa de dois filmes que foram filmados praticamente quadro a quadro.
+
+Eu disse "praticamente".
+
+A composição de Amenábar conta com o uso acertado de frases-chave (ele também assina o roteiro) que permeiam a vida de César (Eduardo Noriega) de maneira a conseguir trazer à tona mais facilmente os ecos do passado que o protagonista tem que conviver quase como um pesadelo que não se revela. Mais importante, porém, é o maior tempo dado à primeira metade do filme, pois a experiência final não seria tão intensa caso não compreendêssemos em detalhes as relações entre aquelas pessoas.
+
+Porém, o filme vai muito mais além do que um mero jogo de descobrir a sacada do final. A cena na cama entre César e Sofia/Núria, por exemplo, funciona como uma lenda de Narciso às avessas, pois a impotência do rapaz de conseguir fazer sexo com a pessoa que o atrai vira reflexo de sua própria incapacidade de obter sua beleza original de volta. É por isso que essa cena funciona tão bem como clímax dramático, assim como todo o seu desenrolar até o momento no apartamento de Sofia, quando temos o melhor momento do filme.
+
+Não que o filme desanime caminhando para o final, ou que sua metade inicial não tenha nada de mais. Essas duas partes são fundamentais, pois ligam o início e o fim de uma experiência angustiante, e apenas sua existência é que torna as cenas mais tensas tão... tensas.
 

@@ -1,20 +1,23 @@
 ---
 categories:
 - writting
-date: '2017-03-05'
-link: https://www.imdb.com/title/tt0107144
+date: '2018-03-01'
+link: https://www.imdb.com/title/tt4157844
 tags:
+- cinemaqui
 - movies
-title: Top Gang 2! - A Missão
+title: Torquato Neto - Todas as horas do fim
 ---
 
-Top Gang 2! é mais uma comédia-paródia de trabalhos da época. E é um trabalho hilário. Primeiro porque ele reúne o maior número de gags por segundo. E segundo porque ele abraça o besteirol sem qualquer ressalva. Quando as flechas de nosso herói acabam, ele simplesmente olha para o chão e acha a galinha-flecha que ele precisava. Esse é o nível de insanidade do trabalho de Jim Abrahams.
+Torquato Neto, a ver pelo seu próprio documentário -- Torquato Neto - Todas as horas do fim -- foi um rapaz sem muita lógica. Ele é um poeta que sente, e sai a escrever, falar, cantar. Um dos influenciadores do movimento contracultural da Tropicália, trabalhou com grandes nomes hoje da música brasileira como Gilberto Gil, Gal Costa e Edu Lobo. Se suicidou aos 28 anos após passar uma noite inteira com amigos, em uma verdadeira incógnita. Como deve ser. Mas esse filme, violando as leis caóticas da mente do compositor, tenta encontrar uma razão para seu trágico fim. E isso é imperdoável.
 
-Abrahams não apenas dirigiu e escreveu este Top Gang 2, como o original, toda a série "Corra Que A Polícia Vem Aí", "Apertem os Cintos... O Piloto Sumiu" e o clássico (como se esses já não fossem) "Top Secret!". A coletânea de piadas que todos esses filmes nos fornecem, considerando que a maioria envelheceu bem, é inestimável.
+Dirigido e escrito pela dupla Eduardo Ades e Marcus Fernando, o trabalho de desencavar um verdadeiro arcabouço multimídia da época é digno de aplausos. Eles resgataram uma parte da arte brasileira que estava esquecida e jogada em um canto empoeirado e com isso transformaram este filme naquelas obras necessárias. Porém, ser necessário não o torna indispensável, e navegando pela burocrática cronologia do artista encontramos uma repetição de velhos cacoetes de cineastas empolgados demais com o conteúdo e se esquecendo de polir a forma.
 
-Aqui tudo parece correr bem, e uma cena se liga a outra de maneira dinâmica. Todo o contexto da história da missão de resgate, com a femme fatale, o amor antigo e até a tentativa de quebrar o recorde de filme mais violento, tudo se encaixa perfeitamente nas decisões megalomaníacas do filme. A sequência em que o casal que irá dormir junto é mirada pelo chofer é hilária do começo ao fim. É uma piada que vai ganhando com seu crescimento, em vez de soar repetitiva. Ela funciona como gag e se transforma na maior piada sobre o tema do gênero.
+O filme é uma sequência ininterrupta de testemunhos que não se sentam em uma cadeira de frente para a câmera, mas são filmados por arquivos ou cenas esparsas que dão um rosto às suas vozes. Isso é uma boa característica. Porém, o que eles dizem não aumenta em nada nossa percepção de quem era, afinal de contas, Torquato Neto. Suas músicas são ouvidas, seus versos são ditos, mas isso nós já sabemos. "Torquato foi um dos maiores..." é o que conhecemos por contar história para boi dormir. Parece que o filme inteiro tenta justificar o valor de seu protagonista, como que não confiando o suficiente que o espectador o fará.
 
-Charlie Sheen é o garanhão mais falastrão do cinema na época, e consegue com facilidade reprisar seu papel em Top Gang. E Lloyd Bridges é com certeza o tiozinho mais sem-noção que o gênero de comédia já teve. Porém, é Valeria Golino que verdadeiramente rouba a cena, pois sua atuação é tão orgânica, e mulheres geralmente se saem tão mal em comédias pastelão, que ela praticamente serve de exemplo do que deve ser feito para que sua personagem consiga ser o interesse amoroso e ainda assim ser hilária do começo ao fim. Ela não se furta de brincar com sua própria persona de grande amor para tal, e se disfarça de homem com um bigode postiço impagável.
+E isso é necessário em alguns trabalhos. Talvez até seja nesse. Torquato não tinha um rosto com que poderíamos nos identificar com suas músicas, pois ele era o compositor, não o intérprete. O único rosto que se repete várias vezes é a do vampiro, sua figura imortalizada quando fez o "Nosferatu" brasileiro. Mas este não é o filme em que ele recita suas poesias.
 
-Top Gang 2 é um filme onde as gags se acumulam em um nível absurdo, e apenas no final há um certo descompasso entre elas e o que vemos na tela. De qualquer forma, o formato de usar o clichê para se aproveitar e espancá-lo com todas as piadas prontas boladas para cada cena é genial. Se você piscar muito, poderá assistir mais duas ou três vezes este filme. Ele terá algumas piadas que você perdeu na primeira vez.
+A história narrada por testemuhos e ilustrada por arquivos de fotos e vídeos acompanha a história de Torquato desde seu nascimento no Nordeste até seu pequeno tour pela Europa para "conhecer gente famosa" (Jimmy Hendrix, John Lennon), enquanto no Brasil imperava uma ditadura e uma censura que impediam a voz tresloucada do poeta de acontecer. Cada testemunho procura encontrar razão para seu suicídio, seja em alguma coisa que ele disse ou algum detalhe de sua vida. O fato é que todos seus amigos até hoje nunca encontraram esse motivo, e o filme não deveria tentar.
+
+A impressão geral é que o documentário é sobre o suicídio, e de repente, incidentalmente, ocorre uma transformação biográfica que nos conta começo, meio e fim de um artista brasileiro esquecido pelas massas, assim como as vaias para a Tropicália. Agora ele está disponível, em áudio e vídeo, imortalizado em um arquivo que deve durar algumas décadas, e que deve servir de ponto de partida para algumas experiências inusitadas na filmografia brasileira.
 

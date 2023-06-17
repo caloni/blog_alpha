@@ -1,35 +1,27 @@
 ---
 categories:
 - writting
-date: '2019-08-13'
-link: https://www.imdb.com/title/tt6704880
+date: '2017-04-04'
+link: https://www.imdb.com/title/tt4715290
 tags:
 - cinemaqui
 - movies
-title: Filhas do Sol
+title: Filhos de Bach
 ---
 
-O objetivo de Filhas do Sol é ser algo grandioso e poético como os filmes do Terrence Malick (Árvore da Vida, você conhece o sujeito), ou a adaptação de um romance épico, que exalte as verdadeiras heroínas que essas mulheres são, arriscando suas próprias vidas em uma guerra. Que mártires.
+Filhos de Bach, uma co-produção entre Brasil e Alemanha, é um filme que tenta alçar voo muitas vezes, mas sempre é sabotado por sua história episódica, que também é simplista e desonesta. Tudo pelo objetivo de tentar mostrar duas culturas bem diferentes entre si, além de uma aparente visão social.
 
-O primeiro grande problema para nós comprarmos essa ideia é que homens, mulheres e crianças morrem em uma guerra contra civis, mas é impossível comparar a quantidade de cada um dos grupos. Isso porque homens morrem absurdamente mais, por motivos óbvios, pois são obrigados moralmente e legalmente a se alistarem e lutarem na frente armada. Isso já é um fato documentado depois de muitas e muitas guerras travadas pela humanidade. O Oriente Médio não é exceção.
+A história tenta de forma livre unir as histórias de órfãos alemães e brasileiros. Os alemães, uma dupla, viajaram o mundo com seu sucesso reinterpretando músicas de Johann Sebastian Bach, até sua eventual separação, quando um deles se casa com uma brasileira e vive o resto de sua vida em Ouro Preto, Minas Gerais, Brasil. Quando vem a falecer deixa de herança para seu antigo companheiro, Marten Brückling (Edgar Selge), uma partitura inédita e inestimável do músico que tanto admiravam.
 
-O segundo grande problema é que temas grandiosos pedem histórias grandiosas, e uma história chega nesse patamar graças ao seu protagonista, o que ele viveu, o que ele fez e o que precisa fazer. As mulheres da pequena guerrilha deste filme são vítimas das circunstâncias. A líder é uma mulher ex-classe média que teve os homens de sua família executados no muro da frente de sua casa, só que eles aparecem por tão pouco tempo que você nem ligaria se no lugar de levar bala eles fossem queimados, por exemplo.
+Sendo obrigado a ir para o Brasil receber sua herança por "ser uma obra de arte", ele é assaltado e tem sua partitura roubada, além de seu instrumento. Ficando no país mais do que devia, vai aos poucos se habituando à cultura e à região através de Candido (Aldri Anunciação), o bem-humorado morador da cidade que fala alemão graças ao falecido músico. Não demora muito para que ele comece a ensinar crianças de um centro de convívio, incluindo, claro, os dois irmãos delinquentes.
 
-A líder é a nossa protagonista. Seu nome é Bahar, interpretada por Golshifteh Farahani com um eterno olhar de dor. Já disse que ela perdeu seu marido, mas também perdeu contato com seu filho, que ficou em uma escola de uma cidade controlada pelo Isis. Ela sabe que seu filho está sendo treinado para ser uma máquina de guerra, e por isso planeja resgatá-lo custe o que custar. Nem que tenha que sacrificar todo seu pelotão.
+Uma pergunta fica no ar enquanto avançamos na história: se já havia um músico alemão morando por quarenta anos na região, por que apenas Candido é o único a ter esse conhecimento?
 
-Teoricamente e ironicamente nossos olhos nessa história é uma fotógrafa da imprensa, Mathilde, uma mulher que teve o namorado "explodido" e seu olho esquerdo perfurado por uma granada, situação que ela contorna com um tapa-olho, que acrescenta à poesia do momento. Ela tem uma filha, mas ela está em segurança, e o que a move é mostrar a verdade através de suas fotos. É mais uma vez pouco para nos envolvermos, e ela sabe disso. "As pessoas fazem de tudo para ignorar a verdade.", diz ela. Mathilde não poderia estar mais próxima da verdade.
+De qualquer forma, a direção do alemão Ansgar Ahlers é ágil e atravessa rapidamente seu início, até se esquecendo de pontuar, talvez, que ele toca ao lado do cemitério como uma forma de se comunicar com o ex-companheiro, embora não saiba disso. Da mesma forma, o Ahlers consegue extrair o máximo de informações visuais que ajudam a explicar de maneira muito mais razoável do que os diálogos que ouvimos, que preferem soar engraçadinhos sem conseguir ser engraçado e sem querer dizer muita coisa, apenas se focando nessa diferença entre o alemão e o português brasileiro.
 
-A história de fundo dessas mulheres começa a cair em um padrão que as generaliza, e portanto as desvaloriza como seres humanos. Seria importantíssimo que nos primeiros quinze minutos estivéssemos prontos para invadir o front inimigo junto com elas, mas isso não acontece em nenhum momento do longa. Esperamos, sim, que tudo dê certo. Mas não conte conosco, pois essa missão é suicida.
+Mas este é também um filme que atravessa sua história de maneira burocrática, sem nunca ter um momento em que ele se solte de seu esquemático roteiro, que vai inventando motivos esdrúxulos para que o músico continue no Brasil e até parta para uma empreitada arriscada demais para quem ainda tem medo de estar em outro mundo.
 
-Nenhuma dessas histórias é grandiosa como o filme é ou pretende ser, com tomadas cinematográficas belíssimas, fotografadas com o melhor filtro, o filtro triste, com tons frios em uma terra quente, e uma música que evoca através de seus acordes tortos a eterna dissonância e insanidade dos tempos de guerra. A fotografia nos mostra um horizonte apocalíptico, e no momento da ação nuvens de fumaça negra e cinza não se misturam: se colaboram. Para a foto ficar bonita.
+De qualquer forma, este também é um filme bonito, que extrai os cartões postais de praxe de uma Ouro Preto chuvosa e vazia. Além disso, provavelmente a tecnicidade sonora alemã foi responsável dessa vez por conseguir colocar em um filme brasileiro um design de som inteligível, algo importantíssimo para um filme que mexe tanto com música.
 
-Há "ótimas" sequências em Filhas do Sol, como a passagem pelos túneis que podem estar infestados de minas enterradas, ou uma sequência de fuga de um cativeiro de mulheres que poderia render muita tensão, mas este nunca vira um filme tenso porque não há preocupação com as pessoas que vemos, e nunca um filme de guerra porque já conhecemos essas cenas de outros filmes melhores. O conflito armado é cru, sem motivo, sem paixão. O resultado são cenas corretas em meio a uma narrativa que nunca nos empolga ou nos conquista.
-
-Este é um filme que procura por uma mártir e que fará de tudo para que ela permaneça assim, mas até heróis (ou principalmente heróis) precisam passar por alguma provação para entendermos seu valor. Aqui não há testes de coragem, pois estas mulheres já estão mortas. Morreriam em paz em combate se assim fosse necessário. Então o que vale seguir em frente?
-
-É comum quem vê muito filmes encontrar algumas atuações ruins por causa da afetação que os atores empregam. As atuações desse filme não conseguem se afetar com nada. Quero dizer verdadeiramente se afetar. Vemos rostos de susto, de tristeza, de solidão e desesperança, mas todas essas expressões nos lembram ser de um filme, pois é isso o que se espera nos filmes. Mas com isso esquecemos dos personagens como pessoas de carne e osso, que se assustam de verdade, entristecem de verdade. Perdem as esperanças de verdade.
-
-Muito se tem falado ultimamente sobre o abuso de alguns cineastas que torturam o psicológico dos seus atores para que tenham um resultado em frente às câmeras mais realista. Este é um assunto polêmico porque o problema é que realmente alguns resultados são notáveis, embora o elenco saia do projeto traumatizado. Me pergunto se o cinema não voltará mais a ter esses momentos, agora que está crescendo uma consciência contra esses abusos. Este filme parece ser um exemplo de ambiente salutar para se fazer filmes. Pena que quando vemos filmes de guerra pedimos pela insanidade temporária de seus astros.
-
-Torço para que a diretora Eva Husson não esteja se fazendo de desentendida e aplicada a direção a la Tom Hooper (O Discurso do Rei), com cortes bruscos, movimentos de câmera involuntários e um imenso vazio temático no ar. Pior do que fazer isso com filmes engraçadinhos como sobre um rei gago é aplicar a mesma fórmula em filmes que retratam a crueldade humana em lentes de alta definição. Existe um pacto não-dito entre cineastas e espectadores, ou pelo menos eu gostaria que houvesse, de que na guerra vista pelo cinema a beleza só deve existir para exaltar a dor de seus participantes ou a esperança de que um dia isso acabe. E eu não vejo nenhum dos dois em Filhas do Sol.
+Ainda assim, como havia falado, nada em Filhos de Bach empolga muito. Nem seus momentos finais. Isso porque seus fundamentos estão quebrados. Eles se baseiam em roubo e chantagem, que não são perdoáveis por serem feitos por personagens que não transmitem empatia alguma. Não sabemos seu passado, só sua condição. Isso torna a experiência genérica a ponto de não nos importarmos. O que acaba não sendo uma bela mensagem para um filme que fala da esperança das crianças.
 

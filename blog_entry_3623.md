@@ -1,25 +1,33 @@
 ---
 categories:
-- writting
-date: '2012-10-03'
-link: https://www.imdb.com/title/tt1637725
+- playing
+date: '2023-01-12T21:21:37-03:00'
+link: https://www.chess.com/game/daily/321199162
 tags:
-- movies
-title: Ted
+- chess
+title: Tem um lance brilhante aqui e não imagino por quê
 ---
 
-Quando assistimos à introdução que marca o início da amizade entre John, um garoto de 8 anos (Bretton Manley), e Ted, um ursinho de pelúcia que começa a falar a partir de um desejo que o garoto faz para uma estrela cadente, entendemos ser essa amizade o núcleo da história dirigida e escrita por Seth MacFarlane, do desenho politicamente incorreto [Family Guy], e que aqui além de dirigir dubla o ursinho com sua voz. Apenas o fato do filme acreditar nessa relação entre os dois é o suficiente para fazer com que o espectador faça o mesmo, e desista de assistir mais um besteirol com piadas envolvendo ursinhos de pelúcia falantes. Ted é tão ou mais real do que John, e depois que ele e John "crescem" (Mark Wahlberg) nunca deixam de honrar a promessa que fizeram quando crianças: que seriam companheiros inseparáveis.
+Negras jogam.
 
-O problema é que, apesar de John e Ted agora terem vozes mais grossas e John estar até namorando por quatro anos com a estonteante Lori (Mila Kunis) não faz com que ambos deixem suas manias de quando crianças, como fazer trocadilhos estúpidos, usar referências aos anos 80 e fazer piadas sobre peidos. No entanto, a proporção com que isso ocorre reflete a fase adulta, e agora a dupla de amigos, bebe, cheira e faz piadas envolvendo inúmeros palavrões (suavizadas por uma legenda mutiladora, o que provavelmente deve se repetir na versão dublada). Esse desapego de John com a vida adulta faz com que Lori se canse deles, e a relação entra em um impasse: ou ela ou o urso.
+{{< image src="board.jpeg" >}}
 
-A produção abraça os anos 80 e toda a nostalgia da época através de uma fotografia com cores mais pálidas e uma trilha sonora muito à vontade com o tema, buscando inspiração em obras como E.T. e [Esqueceram de Mim]. Sua direção de arte busca retratar o período sem exageros, mas aplica cuidados necessários para que percebamos se tratar de uma singela homenagem. Afinal de contas, o mundo de John reflete essa realidade, onde o centro é seu ursinho Ted. O saudosismo faz parte da experiência de convivermos com o ser de pelúcia falante, e o diretor Seth MacFarlane consegue perceber isso e não estragar tudo engarrafando a história no formato medíocre das comédias românticas que seguem uma fórmula.
+```
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2021.03.21"]
+[White "cavaloni"]
+[Black "fssantana"]
 
-Nesse sentido, a comédia politicamente incorreta é inteligente o suficiente para não cair na batidíssima gafe da auto-paródia, se mantendo na superfície com uma história tão sensível quanto cômica, e ainda conseguindo manter uma saudável dose de humor negro (e, sim, isso é possível). Seus personagens são cativantes, por parecerem reais, e a sensação final é de que deveríamos passar mais tempo com esses caras. Não importa que um deles seja um urso de 30 centímetros se ainda consegue ser divertido.
-
-Vendo dois anos depois, Ted me parece um filme extremamente coeso e coerente com sua proposta, algo quase que imprevisível, considerando que seu diretor e roteirista Seth MacFarlane é conhecido pela série de animação com piadas sem contexto formada por gags que produzem risos pelo absurdo e pela repetição de piadas: Family Guy.
-
-Porém, é necessário dar o braço a torcer: usando como premissa o urso que magicamente ganha vida para uma criança e passa a conviver com ela até depois dos seus 30 anos é uma metáfora eficiente para os jovens que se recusam a amadurecer e costumam colocar a culpa no resto do mundo pelo seus fracassos. A maneira com que o filme discute isso consegue trazer ao mesmo tempo as piadas sem contexto de Ted assim como o drama de um personagem (um Mark Wahlberg assustadoramente eficiente) que ganha vida pelas conversas com seu urso (dublado pelo próprio MacFarlane).
-
-[Family Guy]: {{< relref "family-guy" >}}
-[Esqueceram de Mim]: {{< relref "esqueceram-de-mim" >}}
+1. e4 c5 2. Nc3 d6 3. Bb5+ Nc6 4. d3 a6 5. Bxc6+ bxc6 6. Bg5 f6 7. Bh4 $6 e5 8.
+f4 Be7 $6 9. f5 Nh6 10. Qh5+ Nf7 11. Nf3 d5 12. O-O-O $6 d4 13. Ne2 $6 Qa5 14. a3 $6
+Qa4 $6 15. Nd2 Rb8 $6 16. Nc4 $1 a5 17. Be1 Ba6 18. b3 Qb5 19. a4 Qb7 20. Nxa5 Qb6
+21. Nc4 Qc7 22. h4 O-O 23. Bd2 Nd6 24. Nxd6 Bxd6 25. Qg4 c4 26. dxc4 Bxc4 27.
+Bc3 dxc3 28. Nxc3 Ba3+ 29. Kd2 Qa5 30. bxc4 Rbd8+ 31. Ke2 Qxc3 $1 32. Kf1 $2 Bc5 33.
+Qe2 Rxd1+ 34. Qxd1 Qxc4+ $4 35. Qd3 Qxa4 36. Ke2 Bb6 $6 37. Qb3+ $6 Qxb3 $1 38. cxb3
+Rd8 39. Rc1 c5 40. Rd1 Rd4 41. Rxd4 cxd4 42. h5 g6 43. h6 $6 gxf5 44. exf5 e4 45.
+b4 d3+ 46. Kd2 Bd4 47. b5 Kf7 48. Ke1 Ke7 {<br /><br />Game may have
+continued...} (48... Ke7 49. Kd2 Kd6 50. b6 Bxb6 51. Kc3 Ke5 52. Kb4 Ba5+ 53.
+Kxa5 {-13.3}) 0-1
+```
 

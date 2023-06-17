@@ -1,21 +1,23 @@
 ---
-
-Entre Linhas ensaia ser pretensioso, ou de alguma maneira intrincado. Porém, para que isso aconteça, é necessário que seus personagens tenham algo a dizer além de questões existenciais sobre relacionamentos. E mesmo que fôssemos elogiar sua emaranhada montagem, que preza por idas e vindas entre dois namorados muito parecidos da protagonista, isso se torna impossível a partir do momento que percebemos que não se trata de descobrir um motivo para o vai-e-vem temporal, mas de ser diferente pelo simples prazer de ter mais personagens a dizer frases aleatórias sobre a vida.
-
-E, se formos notar, o próprio filme entrega sua mediocridade em uma produção em estilo independente, que mistura uma trilha sonora tensa de mistério com uma fotografia televisiva, personagens na contra-luz e, como já disse, uma montagem que não é necessariamente confusa; apenas irrelevante.
-
-Irrelevante pelo menos para a história que deseja contar. É sobre um diretor de teatro (Harry Hamlin) e uma escritora, Jacqueline (Irina Björklund), construindo uma peça sobre os próprios relacionamentos da autora, ou são relacionamentos fictícios vivenciados por ela como em primeira pessoa (que pode estar montando um personagem através de diferentes impressões de relacionamentos). No final das contas, isso não importa, já que seus namorados são galãs tirados de telenovelas, o que torna as comparações insípidas. Um gosta de velejar sozinho por longos dias; outro teve problemas na justiça e tenta se reabilitar através de sua arte. Esse segundo até gera algumas questões interessantes, como a incapacidade de Jacqueline de viver sob o mesmo teto com outro criador (artístico). Além disso, Jack tem uma amiga que tem um cachorro e com quem discutem esses relacionamentos e questões mais genéricas, como traição. Daí você me fala: isso tem ou não tudo a ver com uma telenovela mexicana cult?
-
-Para piorar, há um flerte sempre no ar entre diretor/roteirista que beira o clichê, mas que o atinge completamente quando começam os testes com a atriz que  fará a heroína no teatro. Não por acaso, o narrador de tudo isso é o próprio diretor, que começa toda essa elucubração ao observar os atores em cena junto de sua roteirista.
-
-O que salva parcialmente a experiência é que ele pode ser visto como um longa metragem rápido. O que não o salva é se você perceber que no fundo é um curta-metragem, quase um conto, extremamente longo. Nesse caso, apenas desejo que você goste de novelas.
-
----
 categories:
 - writting
-date: '2020-02-14'
-link: https://www.imdb.com/title/tt11388406
+date: '2022-08-27T14:04:48-03:00'
+link: https://cinemaqui.com.br/wp-admin/post.php?post=41301&action=edit
 tags:
 - cinemaqui
 - movies
-title: Entre Realidades
+title: Entre Rosas
+---
+
+Pelo menos alguma coisa você irá aprender em Entre Rosas: enxerto, hibridização, fecundação por eugenia, colheitas fora de época e como filmes franceses economizam drama em seu terceiro ato.
+
+O filme de Pierre Pinaud e seu batalhão de roteiristas passeia pelo subgênero de superação após decadência de uma protagonista nostálgica e melancólica. Ela perdeu o pai, um floricultor de prestígio, há 15 anos, e o mundo mudou em sua volta; mas ela não. Depois de perder pela oitava vez consecutiva uma premiação de melhor criação para a personificação da indústria e do capitalismo ela terá que se mexer para aprender uma lição ou duas de que tudo muda, mas é a essência que permanece.
+
+A aventura conduzida por Pinaud é modesta, ligeiramente engraçada e introduz seus poucos personagens para fazer volume. O único que importa, fora a participação competente de Catherine Frot Marguerite (2015), é de Fred (Melan Omerta), um jovem renegado pelos seus pais e que possui um dom que pode mudar sua vida criminosa. O encontro da florista vintage e a nova geração é a muleta que move o clichê de vencer os desafios da vida.
+
+O tema de flores é usado em um tom documental, isolado da história. Cada detalhe que aprendemos é um episódio da National Geographic. Eles alternam entre a história ficcional e o mundo das flores, em particular as rosas, avançando um pouquinho de cada vez. Faz o espectador ser hipnotizado pelo ritmo mais do que pela sua narrativa.
+
+A beleza das rosas não é suficiente neste filme que dialoga demais e mostra de menos. Como qualquer trabalho intelectual ele corre o risco de perder o espectador pelas beiradas se não houver paixão suficiente que mova essas pessoas. E não há. Todos estão no piloto automático na missão de salvar a arte de criar flores, mas se tudo der errado não é como se fosse um grande desastre. Um pequeno incômodo no pior dos pesadelos.
+
+O conflito principal é se a florista aceita ter o negócio de seu pai aglutinado pelo tycoon da área (papel de Vincent Dedienne). Ela poderia iniciar uma linha especial de grife trabalhando para ele, tendo acesso a recursos para suas futuras criações. O CEO diz que a admira e não há motivos para pensarmos o contrário. Não há nada que ela tenha que ele já não tenha conquistado na última década. Fica um gostinho de orgulho bobo francês pelo individualismo que está fora de moda. E estar fora de moda não costuma ser a dança dos franceses.
+

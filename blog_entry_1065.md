@@ -1,145 +1,180 @@
 ---
-
-O WinDbg fornece aos programadores diversos meios (muitos redundantes) de comparar valores inteiros em quaquer lugar da memória, em qualquer tamanho (8, 16, 32, 64 bits). Porém, quando precisamos comparar strings, que todos sabem ser uma sequência de bytes de tamanho arbitrário (se for em C, até o zero terminador).
-
-Uma solução simples e rápida é comparar os 4 primeiros bytes de uma string, ou os 4 primeiros bytes que diferem de uma lista grande.
-
-Por exemplo, imagine o seguinte código que abre todos os arquivos da pasta de sistema:
-
-```
-#define _CRT_SECURE_NO_WARNINGS
-#include <Windows.h>
-#include <stdio.h>
-
-int main()
-{
-	CHAR sysPath[MAX_PATH];
-	CHAR findPath[MAX_PATH];
-
-	GetSystemDirectory(sysPath, MAX_PATH);
-	sprintf(findPath, "%s\\*.*", sysPath);
-
-	WIN32_FIND_DATA findData;
-	HANDLE findH = FindFirstFile(findPath, &findData);
-
-	if( findH != INVALID_HANDLE_VALUE )
-	{
-		do
-		{
-			CHAR filePath[MAX_PATH];
-
-			sprintf(filePath, "%s\\%s", sysPath, findData.cFileName);
-			HANDLE fileH = CreateFile(filePath, GENERIC_READ, 
-				FILE_SHARE_READ, NULL, OPEN_EXISTING, 0, NULL);
-
-			if( fileH )
-			{
-				CHAR firstBytes[4];
-				DWORD wasRead = 0;
-
-				if( ReadFile(fileH, firstBytes, 4, &wasRead, NULL) && wasRead == 4 )
-				{
-					printf("%s: %02X %02X %02X %02X\n", findData.cFileName,
-						(int) firstBytes[0], (int) firstBytes[1], 
-						(int) firstBytes[2], (int) firstBytes[3]);
-				}
-
-				CloseHandle(fileH);
-			}
-		}
-		while( FindNextFile(findH, &findData) );
-
-		FindClose(findH);
-	}
-}
-```
-
-Queremos colocar um breakpoint no momento em que o arquivo shell32.dll estiver sendo aberto. Para isso, devemos nos atentar para os parâmetros passados para a função CreateFile.
-
-    
-    windbg strcmpwindbg1.exe
-    
-    0:000> bp kernel32!CreateFileA
-    
-    Breakpoint 0 hit
-    
-    eax=001bf918 ebx=7efde000 ecx=001bf7e0 edx=001bf7e0 esi=001bf824 edi=001bfd90
-    
-    eip=7663ca6e esp=001bf804 ebp=001bfd90 iopl=0         nv up ei pl zr na pe nc
-    
-    cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
-    
-    kernel32!CreateFileA:
-    
-    7663ca6e 8bff            mov     edi,edi
-    
-    0:000> da poi(esp+4)
-    
-    001bf918  "C:\Windows\system32\accessibilit"
-    
-    001bf938  "ycpl.dll"
-    
-    0:000> g
-    
-    Breakpoint 0 hit
-    
-    eax=001bf918 ebx=7efde000 ecx=001bf7e0 edx=001bf7e0 esi=001bf824 edi=001bfd90
-    
-    eip=7663ca6e esp=001bf804 ebp=001bfd90 iopl=0         nv up ei pl zr na pe nc
-    
-    cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
-    
-    kernel32!CreateFileA:
-    
-    7663ca6e 8bff            mov     edi,edi
-    
-    0:000> da poi(esp+4)
-    
-    001bf918  "C:\Windows\system32\ACCTRES.dll"
-    
-O padrão aqui é que todo path passado para o CreateFile vai começar com c:\windows\system32, o que não é uma informação que podemos usar para buscar um arquivo específico.
-
-Temos que nos atentar para o padrão de bits após esse path. Vamos dar uma olhada por dentro da string.
-
-    0:000> db 001bf918
-    001bf918  43 3a 5c 57 69 6e 64 6f-77 73 5c 73 79 73 74 65  C:\Windows\syste
-    001bf928  6d 33 32 5c 41 43 43 54-52 45 53 2e 64 6c 6c 00  m32\ACCTRES.dll.
-    001bf938  79 63 70 6c 2e 64 6c 6c-00 cc cc cc cc cc cc cc  ycpl.dll........
-
-O nome do arquivo começa no offset 16+4 = 20, ou 14 em hexa. Dessa forma, podemos capturar o padrão de bits da seguinte maneira:
-
-    0:000> dd poi(esp+4)+14 l1
-    001bf92c  54434341
-
-Para nos certificarmos que é realmente esse o padrão, e para já montarmos nosso próprio padrão para o shell32.dll, vamos alocar um pedaço de memória e verificar se a sequência de bits está correta.
-
-    0:000> dd poi(esp+4)+14 l1
-    001bf92c  54434341
-    0:000> .dvalloc 100
-    Allocated 1000 bytes starting at 00030000
-    0:000> ea 00030000 "ACCTRES.dll"
-    0:000> dd 00030000 l1
-    00030000  54434341
-
-Ótimo. Os padrões bateram, então podemos colocar um breakpoint condicional partindo do padrão de bits do nome do arquivo que precisamos.
-
-    0:000> bp kernel32!CreateFileA "j (poi(poi(esp+4)+14)=6c656873) ''; 'g'"
-    breakpoint 0 redefined
-    0:000> g
-    eax=0021f48c ebx=7efde000 ecx=0021f354 edx=0021f354 esi=0021f398 edi=0021f904
-    eip=7663ca6e esp=0021f378 ebp=0021f904 iopl=0         nv up ei pl zr na pe nc
-    cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
-    kernel32!CreateFileA:
-    7663ca6e 8bff            mov     edi,edi
-    0:000> da poi(esp+4)
-    0021f48c  "C:\Windows\system32\shell32.dll"
-    
-Com isso, economizamos alguns minutos de puro tédio, verificando os nomes um a um conforme eles são abertos. Ou, dependendo da massa de dados, algumas décadas. Quem sabe. Pode ser muito mais útil um outro dia.
-
----
 categories:
-- writting
-date: '2021-11-01T22:36:28-03:00'
-tags:
-- coffee
-title: Comparar métodos de extração de café é inútil
+- coding
+date: '2008-01-30'
+title: Compartilhando variáveis com o mundo
+---
+
+Desde que comecei a programar, para compartilhar variáveis entre processo é meio que consenso usar-se a milenar técnica do crie uma seção compartilhada no seu executável/DLL. Isso funciona desde a época em que [o Windows era em preto e branco]. Mas, como tudo em programação, existem mil maneiras de assar o pato. Esse artigo explica uma delas, a não-tão-milenar técnica do use memória mapeada nomeada misturada com templates.
+
+Era comum (talvez ainda seja) fazer um código assim:
+
+    // aqui definimos uma nova seção (note o 'shared' usado como atributo)
+    #pragma section("shared", read, write, shared)
+    
+    // um conjunto de variáveis agrupadas para facilitar o compartilhamento
+    struct EstruturaDoCoracao
+    {
+      int meuIntPreferido;
+      char meuCharAmigo;
+      double meuNumeroDePontoFlutuanteCamarada;
+    };
+    
+    // uma instância da struct acima para podermos usar nos processo amigos
+    __declspec(allocate("shared")) EstruturaDoCoracao g_coracao;
+    
+    int main()
+    {
+      g_coracao.meuCharAmigo = 'C';
+      g_coracao.meuIntPreferido = 42;
+      g_coracao.meuNumeroDePontoFlutuanteCamarada = 3.14159265358979323846264338;
+    } 
+
+Aquele pragma do começo garante que qualquer instância do mesmo executável, mas processos distintos, irão compartilhar qualquer variável definida dentro da seção "shared". O nome na verdade não importa muito - é apenas usado para clareza - , mas o atributo do final, sim.
+
+Algumas desvantagens dessa técnica são:
+
+ - Não permite compartilhamento entre executáveis diferentes, salvo se tratar-se de uma DLL carregada por ambos.
+ - É um compartilhamento estático, que permanece do início do primeiro processo ao fim do último.
+ - Não possui proteção, ou seja, se for uma DLL, qualquer executável que a carregar tem acesso à área de memória.
+
+Muitas vezes essa abordagem é suficiente, como em hooks globais, que precisam apenas de uma ou duas variáveis compartilhadas. Também pode ser útil como contador de instâncias, do mesmo jeito que usamos as variáveis estáticas de uma classe em C++ (vide shared_ptr do boost, ou a CString do ATL, que usa o mesmo princípio).
+
+Houve uma vez em que tive que fazer hooks direcionados a threads específicas no sistema, onde eu não sabia nem qual o processo host nem quantos hooks seriam feitos. Essa é uma situação onde fica muito difícil usar a técnica milenar.
+
+Foi daí que eu fiz um conjunto de funções alfa-beta de compartilhamento de variáveis baseado em template e memória mapeada:
+
+    #pragma once
+    #include <windows.h>
+    #include <tchar.h>
+    
+    /** Aloca uma variável em memória mapeada, permitindo a qualquer processo
+    com direitos enxergá-la e alterá-la.
+    */
+    
+    template<typename T>
+    HANDLE AllocSharedVariable(T** pVar, PCTSTR varName)
+    {
+      DWORD varSize = sizeof(T);
+      HANDLE ret = CreateFileMapping(INVALID_HANDLE_VALUE, NULL, PAGE_READWRITE,
+        0, varSize, varName);
+    
+      if( ret )
+      {
+        *pVar = (T*) MapViewOfFile(ret, FILE_MAP_ALL_ACCESS, 0, 0, 0);
+    
+        if( ! *pVar )
+        {
+          DWORD err = GetLastError();
+          CloseHandle(ret);
+          SetLastError(err);
+        }
+      }
+      else
+        *pVar = NULL;
+    
+      return ret;
+    }
+    
+    /** Abre uma variável que foi criada em memória mapeada, permitindo ao
+    processo atual enxergar e alterar uma variável criada por outro processo.
+    */
+    template<typename T>
+    HANDLE OpenSharedVariable(T** pVar, PCTSTR varName)
+    {
+      DWORD varSize = sizeof(T);
+      HANDLE ret = OpenFileMapping(FILE_MAP_ALL_ACCESS, FALSE, varName);
+    
+      if( ret )
+      {
+        *pVar = (T*) MapViewOfFile(ret, FILE_MAP_READ | FILE_MAP_WRITE, 0, 0, varSize);
+    
+        if( ! *pVar )
+        {
+        DWORD err = GetLastError();
+        CloseHandle(ret);
+        ret = NULL;
+        SetLastError(err);
+        }
+      }
+      else
+        *pVar = NULL;
+    
+      return ret;
+    }
+    
+    /** Libera visualização de uma variável em memória mapeada. Quando o último processo
+    liberar a última visualização, a variável é eliminada da memória.
+    */
+    template<typename T>
+    VOID FreeSharedVariable(HANDLE varH, T* pVar)
+    {
+      if( pVar )
+        UnmapViewOfFile(pVar);
+      if( varH )
+        CloseHandle(varH);
+    } 
+
+Como pode-se ver, o seu funcionamento é muito simples: uma função-template que recebe uma referência para um ponteiro de ponteiro do tipo da variável desejada, o seu nome global e retorna uma variável alocada na memória de cachê do sistema. Como contraparte existe uma função que abre essa memória baseada em seu nome e faz o cast (coversão de tipo) necessário. Ambas as chamadas devem chamar uma terceira função para liberar o recurso.
+
+O segredo para entender mais detalhes dessa técnica é pesquisar as funções envolvidas: CreateFileMapping, OpenFileMapping, MapViewOfFile e UnmapViewOfFile. Bem, o CloseHandle também ;)
+
+Ah, é mesmo! Fiz especialmente para o artigo:
+
+    #define _CRT_SECURE_NO_DEPRECATE
+    #include "ShareVar.h"
+    #include <windows.h>
+    #include <tchar.h>
+    
+    #include <stdio.h>
+    
+    #define SHARED_VAR "FraseSecreta"
+    
+    /** Exemplo de como usar as funções de alocação de memória compartilhada
+    AllocSharedVariable, OpenSharedVariable e FreeSharedVariable.
+    */
+    int _tmain(int argc, PTSTR argv[])
+    {
+      // passou algum parâmetro: lê a variável compartilhada e exibe
+    
+      if( argc > 1 )
+      {
+        system("pause");
+    
+        TCHAR (*sharedVar)[100] = 0; // ponteiro para array de 100 TCHARs
+        HANDLE varH = AllocSharedVariable(&sharedVar, _T(SHARED_VAR));
+    
+        if( varH && sharedVar )
+        {
+          _tprintf(_T("Frase secreta: '%s'n"), *sharedVar);
+          _tprintf(_T("Pressione <enter> para retornar..."));
+          getchar();
+        }
+      }
+      else // não passou parâmetro: escreve na variável 
+      // compartilhada e chama nova instância
+      {
+        TCHAR (*sharedVar)[100] = 0; // ponteiro para array de 100 TCHARs
+        HANDLE varH = AllocSharedVariable(&sharedVar, _T(SHARED_VAR));
+    
+        if( varH && sharedVar )
+        {
+          PTSTR cmd = new TCHAR[ _tcslen(argv[0]) + 10 ];
+          _tcscpy(cmd, _T("\""));
+          _tcscat(cmd, argv[0]);
+          _tcscat(cmd, _T("\" 2"));
+    
+          _tcscpy(*sharedVar, _T("Tuintuintuclaim"));
+          _tsystem(cmd);
+    
+          delete [] cmd;
+        }
+      }
+    
+      return 0;
+    } 
+
+Preciso lembrar que essa é uma versão inicial ainda, mas que pode muito bem ser melhorada. Duas idéias interessantes são: parametrizar a proteção da variável (através do SECURITY_ATTRIBUTES) e transformá-la em classe. Uma classe parece ser uma idéia bem popular. Afinal, tem tanta gente que só se consegue programar se o código estiver dentro de uma.
+
+[o Windows era em preto e branco]: http://dqsoft.blogspot.com/2006/10/gerenciamento-de-memria-windows-16-bits.html
+

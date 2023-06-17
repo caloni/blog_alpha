@@ -1,23 +1,24 @@
 ---
 categories:
 - writting
-date: '2015-03-13'
-link: https://www.imdb.com/title/tt1568343
+date: '2010-09-24'
+link: https://www.imdb.com/title/tt1320244
 tags:
-- cinemaqui
 - movies
-title: O Último Ato
+title: O Último Exorcismo
 ---
 
-Al Pacino é um dos grandes atores do nosso tempo e das décadas de ouro do Cinema norte-americano, com descobertas de grandes diretores como Francis Ford Coppola, Oliver Stone e Martin Scorsese. Esse fato não pode passar batido de O Último Ato, em que ele interpreta Simon Axler, um ator no início de sua decadência. Lá pelos seus 60 anos, Simon não consegue mais se lembrar de suas falas no palco e em uma crise nervosa se lança para a plateia, colocando um fim temporário em sua carreira.
+Esse é "O Exorcista" invertido. Aqui o padre, que na verdade é tipo um reverendo de sua religião, possui suas dúvidas com respeito a Deus, e usa a religião como um meio de ganhar a vida. Reflexo exato do atual status das religiões polêmicas, que as usam também como um meio de se proliferarem, o próprio padre afirma que o principal é fazer as pessoas abrirem a mão, pois não se vive só de fé.
 
-O diretor Barry Levinson também fez alguns trabalhos de destaque nos anos 80, como Rain Main e Bugsy. Rain Main, com Dustin Hoffman como um autista com capacidades impressionantes de cálculo com números, lembra um pouco o personagem de Al Pacino no sentido de que agora que sua carreira está em pausa as pessoas apenas lembram de seus grandes trabalhos como ator, mas sua vida pessoal é um completo caos e não parece haver nada que Simon faça que a melhore. Na verdade, é no caos que ela começa a ficar um pouco mais interessante quando reencontra sua afilhada, Pegeen (Greta Gerwig, do ótimo Frances Ha), e desenvolve um esperado relacionamento amoroso (Pegeen nutria um romance platônico de longa data com seu padrinho).
+Afetado pelo recente assassinato de um menino que foi vítima de um exorcismo mal planejado, o padre vira protagonista de um documentário que busca mostrar um exorcismo sendo feito, e pretende demonstrar como tudo isso é fajuto, exatamente para evitar que as práticas do exorcismo ainda sejam levadas adiante. De acordo com ele, o exorcismo hoje em dia está mais ativo que nunca, e o próprio Vaticano multiplicou por várias vezes o número de exorcistas que ele mantém.
 
-Levinson não tem pressa em desenvolver a história de Buck Henry e Michal Zebede, baseados no romance de Philip Roth, e acaba tornando o que poderia ser uma grande farsa dramática em um romance quase leve. O que o impede são situações incomuns que são encaradas como bizarras, sendo que se o bizarro fosse o padrinho se enamorar da afilhada mais de 30 anos mais jovem, isso já aconteceu. Não é a ex-namorada que trocou de sexo que vai tornar as coisas piores. Nesse sentido, o roteiro tem passagens equivocadas que não acrescentam em nada ao filme, embora sirvam de estopim para a já esperada crise do casal.
+Praticante de ilusionismos simples que tornam tanto seus cultos quanto os exorcismos impressionantes, a primeira parte é mostrada como um documentário real, inclusive com várias partes com pessoas pedindo que se desligue a câmera, cortes não previstos e perdas de foco (às vezes até demais). É mostrado até um "pseudo-exorcismo" feito pelo padre, com seus efeitos mágicos, e termina com ele recebendo uma soma em dinheiro e indo embora.
 
-É nessa fase que a participação de Greta Gerwig é primordial em realizar tudo o que uma de suas ex ameaçava por telefone para Simon, de forma que sua simples presença na casa praticamente intocada de Simon acaba se tornado um incômodo invisível, pois é apenas pelas sucessivas conversas de Simon com seu psiquiatra que conseguimos entender a influência que a moça vai tomando em sua vida.
+Já a segunda parte pressupõe que a menina está realmente possuída, pois ela vai até onde o padre está hospedado, a 8 km de sua casa, e aparece de repente, transtornada e não se lembrando de nada. Depois de levada ao hospital e entregue ao pai, que evita qualquer tratamento psiquiátrico, ela ataca seu irmão e torna as coisas mais tensas em uma noite inesquecível com a dupla de cinegrafistas e o padre.
 
-O terceiro ato, contudo, consegue se destacar por completo do resto do filme, pois apresenta um interessante comparativo do romance de Simon com o que aconteceu com uma mulher que ele conheceu no instituto psiquiátrico (Kyra Sedgwick) durante sua recuperação e que desde então tem tentado persuadi-lo a matar seu marido. Na verdade, parece que a história inteira ganha novos contornos que não podem ser negados, e até os delírios de Simon, quando este não consegue distinguir realidade de ficção.
+Nunca revelando um teor sobrenatural de fato, o filme brinca muitas vezes com o improvável, mas nunca se revela forçado, rendendo alguns bons momentos de tensão, em especial a sequência que a menina pega a câmera e sai com ela, indo de encontro ao padre e atacando-o, tudo mostrado com giros fortes, mas sempre mostrando o que mais importa.
 
-Quando chegamos no "Último Ato" do título brasileiro, que apresenta uma performance admirável de Al Pacino, que parecia se conter até o momento, e realiza uma rima interessante com seu contemporâneo Birdman. No fundo, o próprio conceito de Birdman e O Último Ato parece revelar uma preocupação atual com a dualidade entre o real e o imaginário na arte, principalmente o Cinema, e como o faz-de-conta enlatado do segundo muitas vezes enfraquece o primeiro. Felizmente, temos trabalhos como esse para nos lembrar que a arte muitas vezes transcende a vida e a enriquece.
+Por fim, temos uma conclusão de que de fato a menina está traumatizada e fantasiando, pois ficou grávida de um rapaz que trabalha em uma lanchonete de estrada e está com vergonha de si mesma. O que seria, na minha opinião, o final mais que aceitável, depois de tanto medo e tensão.
+
+No entanto, o filme revela-se mais um da série "Atividade Paranormal" ao exagerar na narrativa, ao mostrar os personagens descobrindo ser esta explicação do menino forjada (ele é gay) e encontram a menina sendo vítima de um ritual "antisatânico" que aborta seu filho ("isso não é humano", de acordo com o padre, e dando um ar de Bebê de Rosemary em que o bebê aparece). Por fim o trio é descoberto com o padre indo de encontro à fogueira onde o demônio é queimado (revelando uma mudança drástica em sua forma de pensar), a apresentadora é assassinada e o "cameraman" é pego pelo irmão da garota.
 

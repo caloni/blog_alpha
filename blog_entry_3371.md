@@ -1,11 +1,12 @@
 ---
 categories:
 - writting
-date: '2017-12-25'
+date: '2020-09-05'
+link: https://santograo.com.br
 tags:
-- food
-title: Santa Helena Reservado Cabernet Sauvignon 2015
+- coffee
+title: Santo Grão
 ---
 
-Acho que fritou no mercado, pois ele ficou bem pouco aromático e um tanto amargo com corpo médio pra fraco. Aberto no Natal aqui em casa.
+O doce tânico, o corpo médio, a caneca de café perfeita, regular, mas falta algo. Equilibrado demais, talvez? Não. Experimentei tomar com uma proporção mais pesada, 10g por 100ml, e fez diferença. O sabor mais presente revela uma combinação inebriante entre o amadeirado tânico da torra média e o amargor que envolve esse café aveludado. É um dos cafés mais equilibrados de linha que já provei.
 

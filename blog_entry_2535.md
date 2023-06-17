@@ -1,26 +1,20 @@
 ---
 categories:
 - writting
-date: '2021-03-14'
-link: https://www.imdb.com/title/tt0086022
+date: '2019-03-17'
+link: https://www.imdb.com/title/tt0808399
 tags:
 - movies
-title: Nostalgia
+title: Nova York, Eu Te Amo
 ---
 
-Pedir para um ser humano médio ler algum autor russo já é maldade. Para um ocidental é como se houvesse algo místico inalcançável. Para um oriental há uma narrativa obrigatoriamente enfadonha.
+Todas as comédias românticas americanas se passam em Nova York. Todos os romances se passam em Nova York. Toda a carreira de Woody Allen antes das duas últimas décadas se passa em Nova York (OK, Noivo Neurótico, Noiva Nervosa não). Logo, ou "por quê??", que tal mais um filme onde histórias se entrelaçam, só que dessa vez em Nova York?
 
-Nos mesmos moldes, dizer para um espectador médio de cinema que se ele quiser transcender na cinefilia ele precisa assistir às obras de Andrei Tarkovsky já não é nem maldade: é tortura pura.
+Essa cidade significa muito para os americanos. É a cidade com menos americanos na América. Também é a única com alguma personalidade que é fácil de lembrar, diferente de todas as outras cidades e estados americanos em que todos insistem que possuem suas particularidades. Não importa. Nova York é a única realmente globalizada, com uma cara de cidade do mundo moderno e portanto com uma, duas, vinte, infinitas histórias para contar.
 
-Mas é verdade. Cineasta russo da época soviética, seu pai ou avô foi um famoso poeta e seu filho agora segue os passos do pai (um documentário sobre Andrei de sua autoria passou na Mostra de SP de 2019). O diretor de Solaris, Stalker, entre outros, não é apenas um habilidoso cineasta fora do circuito narrativo convencional: ele é um dos poucos poetas da sétima arte que figura entre os grandes.
+Da mesma forma com que foi feito em "Paris, Te Amo" esse "Nova York, Eu Te Amo" (que nome original) reúne diversos realizadores em torno de pequenas histórias, com a diferença que nesse caso elas se cruzam e se consolidam, em uma espécie de "Simplesmente Amor" mais poético, mais gráfico. Esse filme é uma pincelada geral na cidade e nos seus relacionamentos do dia-a-dia, carregado do característico cinismo e táxis mal-educados. O filme como um monolito se imagina muito progressista e pinta caricaturas como mulheres no Central Park que não imaginam que na cidade mais diversificada do Novo Mundo um negro possa ser pai de uma garotinha loira. Também brinca com a diferença entre as culturas e os muros (sagrados) invisíveis que se colocam entre as pessoas. É um passeio divertido, despretensioso. Quase esquecível.
 
-Suas obras são imensas pérolas intimistas e pessoais que ganham a universalidade quase que por mágica.
+O fato é que a maioria das ideias funciona maravilhosamente bem porque são intensas o suficiente para chamar a atenção e não necessitam de muito tempo de tela para impregnar algum sentimento, reflexão ou raciocínio em cima do que está sendo proposto. Eu diria que mais tempo de tela estragaria boa parte dessas ideias, e justamente a necessidade de juntá-las ao final constitui o pior momento do longa.
 
-Olhe Nostalgia, por exemplo. É um filme 100% sobre o período de vida do diretor em que ele se muda para a Itália e sente saudades de casa. Mas ele não é português para saber o que são saudades. Então ele filma um longa de mais de duas horas sobre a dor de ser um criador perdido em suas memórias do passado, sem certeza do que fazer de sua vida. Termina com mais uma obra-prima cheia de momentos icônicos do Cinema.
-
-Mas verdade há de ser dita, o cineasta não é acessível. Seus filmes não são historinhas que dá para acompanhar em uma sessão pipoca. A história começa despretensiosa e meio solta, mas se você prestar atenção demais vai ter seus sentidos sequestrados e não vai conseguir mais voltar a ser normal. Você anseia por respostas? Não. Você não sente mais a necessidade delas, pois o caminho já é interessante por si só.
-
-Criador de quadros e sequências que lembram pinturas do impressionismo, Tarkovsky realiza aqui uma obra menor com momentos maiores. Uma mescla mais coesa talvez fosse desejável? Não sei. Do jeito que está já é arrebatador, embora sonolento. Talvez uma versão "tudo explicadinho", como a juventude YouTube gosta hoje em dia, colocaria suas virtudes em segundo plano e suas fraquezas como o assunto do filme.
-
-Assim como o sentimento de nostalgia, quando temos certeza, assim como o personagem de Meia-Noite em Paris, que a época não mais vivida (ou nunca vivida) é a melhor de todas, talvez seja o sentimento sobre o passado seu grande valor, e não o passado tal como realmente foi.
+Mesmo feito de curtas, a sensação é que o tempo não passa, e poderia assistir facilmente mais duas horas de tudo aquilo. Se há um pecado no filme é não conseguir exaurir todas as possibilidades que uma cidade cosmopolita como Nova York proporciona. Ela é tão cosmopolita que nenhuma das formas aceitáveis do nome da cidade para nós, falantes de português, pegou bem. Nem New York (do original), nem Nova Iorque (totalmente traduzido). Assim é Nova York: uma mistura de palavras ao vento. Oportunidades perdidas. As ruas pulsantes de erotismo na mesma intensidade que todos os outros sentimentos. Este filme preferiu focar no romantismo. Que loucura.
 

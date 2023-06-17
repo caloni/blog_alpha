@@ -1,27 +1,12 @@
 ---
 categories:
 - writting
-date: '2013-07-12'
-link: https://www.imdb.com/title/tt1951264
+date: '2020-08-19'
+link: https://www.imdb.com/title/tt6146586
 tags:
 - movies
-title: 'Jogos Vorazes: Em Chamas'
+title: 'John Wick 3 - Parabellum '
 ---
 
-É curioso que quase uma década depois a estrutura narrativa de Catching Fire nos faça lembrar do ótimo [Matrix Reloaded]. Apesar de também ser uma continuação, [Jogos Vorazes] pelo menos sabia que não terminaria no primeiro. No entanto, ambos tratam de esperança surgida em meio a uma guerra eterna, e embora a escravidão consentida pelos Distritos à Capital por tantas gerações soe às vezes meio forçada, o fato é que o aspecto político e social é o que mais cativa na história.
-
-Mas essa também é uma história para as menininhas irem ao Cinema suspirarem pelo amor não correspondido do jovem Peeta pela sempre tensa Katniss (e comentarem durante toda a sessão). Eis um outro aspecto curioso de uma trama que explora a tendência atual dos reality shows e de como as pessoas tomam por verdade tudo que veem pela TV.
-
-Juntando essas duas vertentes temos a cena mais memorável (do longa e da série): Katniss veste uma roupa que nos arrebata pela beleza estonteante de suas curvas e suas cores, mas também pela mensagem de liberdade política, que adquire vários significados em poucos segundos, um verdadeiro milagre do Cinema conseguir expressar tanto apenas com simples imagens em sequência.
-
-O que me faz lembrar que outra virtude memorável em Jogos Vorazes é como suas cores e formas combinam uma direção de arte absolutamente dedicada a enviar uma mensagem clara de riqueza da Capital em detrimento da pobreza de seus Distritos.
-
-Esse filme já adota uma postura melhor adequada de violência. Se no original Katlin não seria capaz de ferir uma pessoa, aqui está disposta a matar se for preciso. Isso por um lado é reflexo de voltar para um lugar que tinha certeza que não mais sairia, e outra por entender que não se trata mais de um inocente jogo como todos os outros patrocinados anualmente.
-
-Se a beleza das imagens dizem quase tudo, é uma pena que o roteiro não seja nem um pouco sutil no desenrolar da história, quase nos fazendo crer em uma reviravolta completamente articulada pelo criador do jogo (o sempre ótimo Philip Seymour Hoffman). A trilha sonora não se sai muito melhor, com exceção da música tema, que já se tornou memorável.
-
-Mesmo com seu pecadilhos, Jogos Vorazes mantém o interesse constante em seu 140 minutos de duração.
-
-[Jogos Vorazes]: {{< relref "jogos-vorazes" >}}
-[Matrix Reloaded]: {{< relref "matrix-reloaded" >}}
+Está sentindo um cheiro de "trilogia" no ar? Um estúdio se deu bem no seu primeiro filme de ação dirigido por veteranos na arte das cenas de luta. E agora temos que aguentar mensagens sociais até em filmes de ação. A arte no século 21 respira justiça social, e por isso as salas de cinema fedem tanto. Porém, Parabellum possui um nome elegante e uma marca de grife de filmes tentando se estabelecer no ramo. Esta terceira versão é muito mais John Wick versão luta coreografada com um ator que finalmente mostra sinais de velhice, e menos aquele drama intimista sobre nossos fantasmas do passado que o original ensaiou fazer. Se você gosta dessa versão, vai adorar as cenas de morte e luta e sangue. Se quiser ver filme de ação para refletir, imagine esse mundo subterrâneo em Nova York e como praticamente todo mundo, desde os mendigos até os ricaços, parecem jogar. E existe hierarquia, e existe o poder do Capital. A única diferença são armas. Muitas armas. Quer dizer, talvez não haja diferença nenhuma.
 

@@ -1,20 +1,21 @@
 ---
 categories:
 - writting
-date: '2012-05-07'
-link: https://www.imdb.com/title/tt0412019
+date: '2021-10-31T21:14:53-03:00'
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Flores Partidas
+title: Fogo nas Montanhas
 ---
 
-Don Johnston (Bill Murray, impagável) tem seu nome frequentemente confundido com seu quasi-homônimo Don Johnson ("o meu é com T"). No entanto, o que intimamente gostaria de ser é seu outro homônimo, Don Juan, conquistador inveterado de corações femininos. Um belo dia recebe uma carta rosa que menciona a existência de um filho já crescido, fruto de uma de suas inúmeras amantes. Crente de ter as qualidades de um verdadeiro conquistador, Don parte em uma jornada pelo país para verificar qual das quatro mulheres que consegue se lembrar de seu passado possuem vínculo com a suposta carta.
+Fogo nas Montanhas é uma mistura bem-humorada e ao mesmo tempo dramática entre cultura indiana e a corrupção dentro de cada um de nós. A corrupção é tão intensa que mentimos para nós mesmos, e quando isso encontra a religião essa volta completa em torno do ser e da comunidade se dá o nome de cultura: as mentiras socialmente aceitas.
 
-Dirigido e escrito por Jim Jarmusch ([Sobre Café e Cigarros], Estranhos no Paraíso) baseado em ideias de seus colegas Bill Radem e Sara Driver, Flores Partidas parte de um pressuposto personagem e realiza um arco dramático que diz muito sobre a visão do homem moderno sobre suas conquistas femininas e sobre a auto-imagem que fazemos de nós mesmos e que na esmagadora maioria das vezes não passa de uma ilusão bem construída com a ajuda da opinião de amigos e conhecidos. No caso de Don, o conhecido é seu vizinho Winston (Jeffrey Wright), que, aparentando monotonia de sua própria vida, frequentemente se mete nos detalhes da vida íntima de seu amigo.
+A história: família que mora no topo da montanha passa por complicações financeiras porque seu filho caçula após um acidente não consegue mais andar por cinco meses. Ele não vai à escola e precisa do suporte da mãe quase todo momento e gasta uma fortuna com o médico picareta. Enquanto isso o pai submisso acredita estar amaldiçoado por sua divindade e a filha mais nova se apaixona pela atenção de anônimos na rede social Tik Tok. O líder político local posterga a construção de uma estrada que ajudaria a todos, mas prejudicaria seus próprios negócios. Soa familiar algum desses detalhes da história ou este é um filme brasileiro?
 
-Sem muitos detalhes sobre quem é aquele homem ou do que vive, a evolução de um relacionamento é ilustrado com cada visita que ele faz, começando super-bem com uma ex-amante que possui uma ninfeta, ambas atraentes e convidativas (de uma maneira exagerada, pois é a ilusão ainda fazendo valer). No entanto, conforme vamos avançando começamos a entender coisas sobre o passado de Don que seria melhor se fosse deixado de lado. A jornada, no entanto, nunca perde o interesse, apresentando transições inteligentes que sempre estão em harmonia com o estado de espírito de nosso incansável protagonista.
+Não, é indiano mesmo. E bem peculiar artisticamente. Se passa próximo da região do Himalaia conhecida como a Suíça indiana. Cada região diferente da Índia é uma cultura ligeiramente diferente do todo, que não existe, é uma ilusão da época do império britânico. Mais ou menos como acontece com o Brasil e suas regiões arbitrárias entregues ao comando do lugar-nenhum chamado de Brasília.
 
-Ao final, um giro de 360 graus nos revela o homem completo e ao mesmo tempo faltando partes. As ideias não encaixam perfeitamente, como a vida muitas vezes é.
+A trama segue os caminhos de uma comédia engraçadinha, mas o filme nunca se esquece como pode ser doloroso mentir para os outros, e por consequência para si mesmo. Não é uma história universal, mas justamente por isso encontramos alguns detalhes tão particulares, como o menino que sofre bullying na escola e que prefere ficar para sempre em uma cadeira de rodas do que voltar para lá, que é do particular que o filme atinge uma mensagem mais global para o espectador do mundo inteiro.
 
-[Sobre Café e Cigarros]: {{< relref "sobre-cafe-e-cigarros" >}}
+Fogo nas Montanhas está ainda passando na Mostra desse ano, inclusive online. É a estreia em longas do seu diretor, Ajitpal Singh. Uma visão bem peculiar e divertida de costumes locais que demonstra como não é apenas o nosso mundo em volta que está mudando, mas até vilarejos remotos da "nova Índia", a que coloca satélites no espaço.
 

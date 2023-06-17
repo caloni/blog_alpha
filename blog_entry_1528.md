@@ -1,12 +1,11 @@
 ---
-
-Bom, mas sem muitos aromas.
-
----
 categories:
 - writting
-date: '2015-05-19'
-link: https://www.imdb.com/title/tt0470752
+date: '2017-03-28'
 tags:
-- movies
-title: Ex Machina
+- food
+title: Excelência Mineira Botelhos MG
+---
+
+Café com gosto de mineiro, seco, sem frescura.
+

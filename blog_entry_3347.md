@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-09-20'
+date: '2017-05-03'
 tags:
-- beer
-title: Saint Golden Ale
+- food
+title: Salentein Reserve Malbec 2014
 ---
 
-É ligeiramente melado, corpo médio com pouca espuma. Artesanal da região de Floripa, bom custo/benefício. Primeira cerveja da viagem do Native Floripa.
+Violáceo com aroma de frutas maduras; última taça com um amargor não-característico.
 

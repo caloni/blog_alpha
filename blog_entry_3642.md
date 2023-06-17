@@ -1,42 +1,25 @@
 ---
-categories: []
-date: '2008-01-22'
+categories:
+- writting
+date: '2017-10-27'
+link: https://www.imdb.com/title/tt5362988
 tags:
-- ccppbr
-title: Terceiro encontro C++
+- cinemaqui
+- movies
+title: Terra Selvagem
 ---
 
-Nesse último sábado aconteceu, como previsto, o terceiro encontro de usuários/programadores C++. Foi um sucesso bem maior que o esperado, pelo menos por mim e pelas pessoas com quem conversei. A organização foi fantástica, e o patrocínio muito importante, o que deu abertura para pensamentos mais ousados sobre o futuro de C++ no Brasil. Foi gerada uma lista de resoluções para o futuro (que começa hoje), onde pretendemos, inclusive, fazer reuniões no mesmo estilo trimestralmente.
+Terra Selvagem é o melhor filme da carreira de Jeremy Renner, que já possui alguns trabalhos bem interessantes, mas nunca tão intensos como esse. E isso dentro de um filme redondíssimo, que atravessa eventos que poderiam render vários clichês e desvia de todos eles pela sua qualidade narrativa e construção de atmosfera. E, claro, por Jeremy Renner.
 
-Aqui segue um breve relato sobre as palestras que ocorreram no evento.
+Este não é um filme que tenta a todo momento soar politicamente correto, mas tenta algumas vezes, o que já soa enjoativo por natureza. Mas ainda assim, seu núcleo é animalesco, instintivo, e não depende muito dos detalhes da história para universalizar seu tema. Basta ver o início, em que vemos o caçador Cory Lambert (Renner) abater um dos lobos que ameaçava um rebanho de ovelhas. Vemos o lobo levar um tiro, sangrar, morrer e ser arrastado pela neve, deixando um rastro. Este é o tom que deve pautar todo o resto da história.
 
-C++ com wxWidgets, de Ivo Nascimento. Inicialmente o palestrante focou o ponto muito pertinente da visão comercial do uso de um framework multiplataforma que possa rodar nos três sistemas operacionais mais usados no Brasil: Windows, Linux e MacOS. É um fato que programadores precisam se alimentar e alimentar seus filhos, então essa questão pode ser interessante para aqueles que precisam expandir seus mercados.
+Baseado em eventos reais e se passando quase todo o tempo em uma neve espessa, os acontecimentos viscerais do longa não permitem que não encontremos o filme Fargo como seu irmão mais velho, e ainda assim o filme se distancia do trabalho tragicômico dos irmãos Coen para abordar temas mais sérios. Entre eles está o descaso e o desrespeito histórico aos índios nativos que ali dominavam a região por séculos. Hoje eles vivem à margem de uma sociedade que não reconhece sua cultura e nem há a possibilidade de adaptação.
 
-Como sempre deve rolar, houve demonstração por código de como um programa wxWidgets é estruturado. Basicamente temos inúmeras macros e um ambiente controlado por eventos, da mesma maneira que MFC e outros frameworks famosos.
+Porém, o pior mesmo é o desrespeito. Não serem tratados como seres humanos. E isso o filme consegue um exemplo perfeito de como a hipocrisia americana de direitos individuais, seu pilar patriótico, não vale para certas etnias. Não na prática, pelo menos. A maneira velada com que vamos descobrindo isso chama mais a atenção do que se fosse dito palavra por palavra. É o luto de um pai pela filha e o forte laço entre amigos que desperta a sensação de solidariedade entre os que sofrem em silêncio.
 
-Para mim foi uma imensa vantagem e economia de tempo ter assistido à palestra, já que faz um tempo que eu tento dar uma olhada nessa biblioteca. Para quem também gostou da idéia, dê uma olhada nos tutoriais disponíveis no sítio do projeto.
+Renner faz um caçador de predadores que busca desde a morte de sua filha uma forma de conviver com a dor. Quando a filha do seu melhor amigo também é assassinada é como se suas preces fossem ouvidas, e mesmo que o sujeito seja inabalável vemos que ele se dá o direito de viver intensamente à sua maneira. Note sua composição de personagem. À vontade, sem forçar seu lado interiorano porque no fundo ele é essa pessoa de fala mansa, com sotaque natural (em vez de forçado, como é comum em atores menos habilidosos), e que observa todo o tempo em modo de caça. Nada abala Renner e sua sniper.
 
-C++0x - novas características, de Pedro Lamarão. Para quem achava que as palestras iriam ser superficiais no quesito linguagem deve ter ficado espantado com o nível de abstração, formalidade e profundidade com que foi tratado o assunto das novas características da linguagem C++ que serão aprovadas pelo novo padrão e que irão tornar a programação genérica muito mais produtiva e eficiente.
+A inexperiente agente do FBI, que vem em primeiro nos créditos, serve simplesmente como o elemento que irá explicar como este caçador é muito bom, e como seu conhecimento e sua vontade de ajudar serão importantes para uma investigação no meio do nada com quase nenhum suporte externo. São vários elementos que justificam a história que irá se desenvolver. A atuação e o papel de Kelsey Asbille não justificam seu destaque. Mas, como já havia avisado, este é um filme com doses leves de politicamente correto. Traduzindo: um filme que fala da violência contra a mulher precisa ter uma protagonista mulher, embora saibamos que sua posição no roteiro, apesar de flertar com uma Clarice Starling (Silêncio dos Inocentes), nunca chega a ficar próximo de ser comparável.
 
-O foco do palestrante foi no mais importante: quais os problemas que as novas mudanças irão resolver, e de que modo a linguagem irá se tornar mais poderosa para suportar programação genérica, paradigma que, de acordo com o debate que houve após a apresentação, ainda é muito novo, mas que poderá se tornar futuramente uma base sólida de programas mais simples de serem mantidos e especializados.
-
-Para quem se interessou pelo tema e pretende estudar um pouco mais sobre as novidades na linguagem, aqui vão algumas expressões-chave para pesquisa:
-
- - Proposed Wording for Variadic Templates
- - Proposed Wording for RValue Reference
- - Specifying C++ Concepts
-
-Threads em C++, por Wanderley Caloni. O foco principal desse tema foi dividido entre a interface, óbvia, para suportar programas multithreading em C++, incluindo abstrações de sincronismo e variáveis de condição, e a mudança significativa no padrão para definir um modelo de memória consistente com programas multithreading, a grande vantagem dessa biblioteca ter sido votada, pois tendo as bases para o que eles estão chamando de "execução consistente", a interface é mera conseqüência.
-
-Durante a apresentação foi mostrado um exemplo de uso das classes thread e mutex. O código foi melhorado (mas não completado). Ao final da palestra, fiquei devendo os links. Bem, aqui estão algumas expressões-chave também:
-
- - ISO C++ Strategic Plan for Multithreading
- - Thoughts on a Thread Library for C++
- - A Memory Model for C++: Strawman Proposal
- - Multi-threading Library for Standard C++
-
-Para finalizar, segue o [álbum de fotos] disponibilizado pelo [Alberto Fabiano], organizador-mor do evento.
-
-[álbum de fotos]: https://www.facebook.com/media/set/?vanity=ccppbrasil&set=a.1692292557687519
-[Alberto Fabiano]: http://techberto.wordpress.com/
+Embora exista o desejo claro de realizar discursos sociais, o roteiro de Taylor Sheridan, que aqui estreia na direção, evita cair no lugar-comum e através de sua narrativa e seus inspirados diálogos se manter firme em estar inserido no modo de viver daquelas pessoas, e assim como seu roteiro anterior, A Qualquer Custo, dar uma sensação muito nítida do espírito americano.
 

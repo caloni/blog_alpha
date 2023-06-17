@@ -1,90 +1,18 @@
 ---
 categories:
-- coding
-date: '2007-10-26'
+- writting
+date: '2011-06-30'
+link: https://www.imdb.com/title/tt0054215
 tags:
-- ccpp
-title: Proteção dos membros protected
+- movies
+title: Psicose
 ---
 
-Quando queremos que um membro de nossa classe seja visível apenas dentro dos métodos da classe e dentro dos métodos das classes derivadas dessa classe usamos o nível de proteção protected. Isso, é claro, não quer dizer que uma classe derivada vá ter acesso aos membros protegidos de outra:
+A sensação de assistir Psicose na telona do cinema se compara a voltar ao próprio tempo em que o filme estreou. Ainda considerando que a última vez que o assisti estava eu abaixo da regra dos 15 anos e, portanto, livre do meu senso crítico, me fez revisitar as sequências mais importantes do longa como se agora sim eu tivesse algo a dizer. Ledo engano. Saí do cinema sem saber mentalizar uma frase sequer. Nem de efeito. Estava sem palavras diante de uma obra de arte. Petrificado. Extasiado. Feliz.
 
-    #include <iostream>
-    
-    using namespace std;
-    
-    class Base
-    {
-    protected:
-      int m_protected;
-    };
-    
-    class Derived : public Base
-    {
-    public:
-      int GetProtected();
-      int GetAnotherProtected();
-    };
-    
-    class AnotherDerived : public Base
-    {
-    };
-    
-    int Derived::GetProtected()
-    {
-      return m_protected;
-    }
-    
-    int Derived::GetAnotherProtected()
-    {
-      AnotherDerived anotherDeriv;
-      return anotherDeriv.m_protected;
-    }
-    
-    int main()
-    {
-      Derived deriv;
-      deriv.GetProtected();
-      deriv.GetAnotherProtected();
-    }
-    
-    >./program
-    error C2248: 'Base::m_protected' : cannot access protected member declared in class 'Base'
-    see declaration of 'Base::m_protected'
-    see declaration of 'Base'
+E continuo assim. Poderia afirmar inocuamente que a fotografia é lindíssima, mas isso seria reafirmar o óbvio. Poderia ir mais fundo e dar exemplos, de como a vegetação em torno da casa de Normal Bates cria não só o conceito de refúgio, como auxilia a aumentar as sombras em torno da casa, tornando uma fotografia escura ainda mais sombria. E por falar em sombrio, poderia devanear em torno de como o próprio Bates caminha sempre nas partes mais escuras de seu hotel.
 
-Esse é o motivo fundamental do porquê não podermos fazer isso:
+Também poderia bater na mesma tecla da edição de som, que orquestra, na cena do chuveiro, um verdadeiro repertório de técnica e harmonia. Sem falar, é claro, nos diversos ângulos e cortes que a cena de 3 minutos contém que, juntos com o zoom intermitente, aumentam a tensão. E junto, também, da trilha sonora, é claro. A magnífica composição de Bernard Herrmann, ou até mesmo a significativa transição entre o ralo e o olho de Janet Leight. Aliás, eu poderia divagar por parágrafos a fio em torno apenas da cena do chuveiro. Tudo seria muito enfadonho e repetitivo, pois tudo que havia para ser dito já foi.
 
-    int Derived::GetAnotherProtected()
-    {
-      Base base;
-      return base.m_protected;
-    } 
-
-Ao acessar membros protegidos é importante o tipo da expressão que está do lado esquerdo do "." ou "->". Afinal, o nível de proteção se baseia no escopo, e as classes são um escopo. É por isso que consigo acessar os membros protegidos de um outro objeto de minha classe, mesmo sendo outro objeto:
-
-    int Derived::GetAnotherProtected()
-    {
-      Derived deriv; // typeid(deriv) == typeid(*this).
-      return deriv.m_protected; // OK
-    } 
-
-A definição do escopo é tudo o que o compilador dispõe para saber se acessa ou não acessa um membro. Podemos ter acesso a m_protected enquanto somos do tipo Derived, mas não quando o mesmo objeto é usado como Base:
-
-    int Derived::GetAnotherProtected()
-    {
-      Base& base = *this; // typeid(deriv) != typeid(*this).
-      return base.m_protected; // ERROR
-    } 
-
-Essa proteção parece desnecessária e até mesmo incoerente quando lidamos com o mesmo objeto que acessa. Afinal, somos nós mesmos! Só que o compilador não sabe disso, e ele deve desconfiar de tudo e de todos para evitar esse tipo de "ataque":
-
-    int Derived::GetAnotherProtected()
-    {
-      AnotherDerived anotherDeriv;
-      Base& base = anotherDeriv; // typeid(deriv) != typeid(*this)
-      return base.m_protected; // ERROR
-    } 
-
-Agora a proteção do compilador faz sentido. Parece um detalhe frívolo, mas depois que vi alguns programadores de respeito se debatendo pela "burrice" do compilador, imaginei que talvez houvesse mais pessoas com a mesma dúvida de se existe ou não um "bug na linguagem".
+Meu único pensamento é o testemunho de que, mesmo hoje vista como supervalorizada, a produção de Psicose continua sendo, sem sombra de dúvida, um clássico a ser visto e revisto por qualquer pessoa que ame e se interesse por cinema. É passagem obrigatória, com certeza.
 

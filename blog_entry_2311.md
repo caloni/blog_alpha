@@ -1,15 +1,15 @@
 ---
 categories:
 - writting
-date: '2020-12-26'
-link: https://www.imdb.com/title/tt0382189
+date: '2023-03-26T12:47:45-02:00'
 tags:
 - movies
-title: Meu Amor de Verão
+title: Meu Irmão é Filho Único
 ---
 
-Pawel Pawlikowski, diretor polonês dos premiados [Ida] e [Guerra Fria], dirige esta produção inglesa local em uma sinergia de atuações fascinante entre a já experiente Emily Blunt e a estreante Natalie Press. Ambas irão se apaixonar em um romance que resgata de maneira bem clichê os dogmas progressistas da falsidade das religiões e da vida burguesa e não a subverte, mas entrega outro olhar, mais maduro e renovado. Apenas um polonês obcecado com a observação dos pequenos detalhes do comportamento e da essência humana para não se deixar levar pela cartilha vigente. Este filme não é nada demais, mas é repleto de virtudes em sua composição, que você pode não reconhecer até a última reviravolta, mas que conseguirá sentir e repensar seus próprios dogmas.
+Este filme estreou quando eu já conhecia a Mitiko, em 2007, mas nunca havia ouvido falar. Ele é italiano, se passa no pós guerra e seu herói é um fascista. Além de estar do lado certo da história luta bravamente contra o irmão e a namorada, comunistas de carteirinha. Depois que o rapaz transa vira comunista, demonstrando a personalidade de pessoas relaxadas e relapsas.
 
-[Ida]: {{< relref "ida" >}}
-[Guerra Fria]: {{< relref "guerra-fria" >}}
+Há uma parte hilária onde Ode à Alegria de Beethoven é adaptada porque os comunistas estão cansados de lembrar da música associada ao movimento de extrema direita por causa da irmandade e confraternização que ela exala. Então eles começam a citar na letra Mão Tse Tung, Trotsky, Lenin. É uma pataquada.
+
+Este é um ótimo filme. Ele cria um triângulo amoroso desajeitado em torno de uma família pobre comum e os detalhes ao longo das décadas vamos descobrindo pelo ponto de vista do filho mais esperto, o fascista, que muda de ares algumas vezes e que se mantém fiel à ideia, como seu amigo Mário lhe recomendou. Sempre se manter fiel à ideia se torna uma lei para se manter são e vivo nos tempos modernos. Mais tarde nosso herói come a esposa de Mario, que vai preso. A esposa de Mario é uma gostosona. Justificável, é um filme de arte e todos gostamos de sexo e fascismo.
 

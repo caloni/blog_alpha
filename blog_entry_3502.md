@@ -1,21 +1,27 @@
 ---
 categories:
 - writting
-date: '2018-11-01'
-link: https://www.imdb.com/title/tt7519174
+date: '2018-10-18'
+link: https://www.imdb.com/title/tt8296592
 tags:
 - cinemaqui
 - movies
-title: Sobre Pais E Filhos
+title: Sofia
 ---
 
-Sobre Pais e Filhos é o tipo de filme que o diretor já ganha nota máxima apenas por ter filmado tudo aquilo e voltar com vida, mas ele é ao mesmo tempo um trabalho narrativo impactante na medida certa e para os corações mais fortes, conseguindo realizar uma imersão completa do espectador para aquela realidade, poir mais revoltante, angustiante, insuportável e horrível que ela seja.
+"As pessoas conseguem se acostumar com tudo", um personagem diz em certo momento de Sofia, um filme que se você não parou pelo menos por alguns minutos para refletir após ter assistido, pense de novo. O personagem tem razão.
 
-A história é simples: o próprio diretor, Talal Derki, volta ao seu país natal, a Síria, e é recebido por uma família islamita radical, jihadistas e defensores do califado (uma espécie de monarquia islâmica e religiosa, claro). Ele convive com eles por dois anos e acompanha o crescimento de principalmente dois dos seus filhos: Osama e Ayman, de 13 e 12 anos. Desde os momentos lúdicos com as brincadeiras de criança até o momento em que eles precisam se alistar como combatentes jihadistas, Talal Derki está atento a todos os valores dessa cultura e modo de viver no meio àquele caos.
+Esse é daqueles filmes que brinca com nossas percepções de certo e errado. Ele vai fazer alguém que está predisposto a atacar culturas machistas a ter algumas boas surpresas em sua reviravolta final. Mas mais do que isso, vai nos fazer pensar em vários aspectos do que permeia nossa noção de moral e costumes, incluindo a questão das oportunidades na vida. Porém, principalmente, vai nos fazer rever a ideias que nós temos sobre o que é uma vítima.
 
-O resultado são declarações extremamente polêmicas de seu anfitrião e pais das duas crianças, como por que ele escolheu o nome de seus filhos (um deles tem o nome do terrorista que derrubou as torres gêmeas). Ele vive de buscar minas enterradas onde vivem para coletar o material com que ela é feita e conseguir dinheiro. O grupo ao qual ele pertence está alinhado com a Al Qaeda, e você ouvirá os motivos pelo qual ele defende a posição radical onde está inserido.
+E, acredite, no final você irá pensar se existe de fato alguma vítima, ou tudo são oportunidades para melhorar de vida.
 
-E ao mesmo tempo que os diálogos revelam exatamente os valores desse grupo de muçulmanos, não exatamente a exceção, você também irá acompanhar a ação do dia-a-dia, como a educação que seus filhos recebem, como jogar pedras nos alunos de uma escola ou brincar de fazer uma bomba caseira com terra e ácido. O treinamento de jihadistas é a parte mais pesada para as crianças, mas até lá você irá entender que elas já estão inseridas nessa realidade desde a raiz, então não há de fato muito o que se pode fazer. É um outro mundo, e a grande virtude de Derki é nos entregar este mundo por completo, sem restrições, sem vitimismo.
+O filme segue um tom intimista no seu começo, apresentando uma família durante o almoço que acaba revelando duas coisas: este também é um almoço de negócios (uma oportunidade para essa família humilde melhorar de vida) e que a jovem Sofia estourou sua bolsa ao acabar de descobrir que está grávida (um empecilho, como qualquer um que conhece as culturas do Oriente Médio sabe muito bem).
 
-O objetivo mais nobre de um documentário é conseguir documentar um ponto de vista em um momento histórico em todas as suas nuances. "Sobre Pais e Filhos" é um desses filmes, cria de "Nanook of the North" (um dos primeiros documentários que fez isso no Cinema) e que consegue nos mostrar o começo e o fim de um sistema cruel, radical e violento. Mas autêntico. Real. Indissociável de sua própria narrativa. Há tantos momentos dignos de nota que ficarei listando o filme inteiro aqui. Então assista ele, do começo ao fim, e viva uma imersão que apenas documentários podem nos trazer.
+Esse roteiro já seria ótimo como uma peça de teatro, mas sendo cinema nada substitui a câmera na mão, os zooms exagerados nos rostos dos personagens e a captura do momento exato daquela expressão do personagem que fala por mil palavras. E considerando o fundo de pano social e a escassez de atores competentes com a etnia "correta", nada como refazer a mesma cena mil vezes para acertar o tom. Mais um ponto a favor do cinema e da diretora Meryem Benm'Barek-Aloïsi em seu segundo longa e exibindo um controle invejável de mise-en-scene.
+
+É Meryem também que nos coloca em tensão constante ao nunca nos revelar detalhes que serviriam para nos acalmar, como o estado emocional do pai e da mãe. Vemos tudo sob os olhos da prima, a mais bem-intencionada da família e que portanto levará o maior tombo no final.
+
+Outro ponto a favor de "Sofia" é nunca dar mais detalhes da história de vida dos personagens. Com isso a situação pelo qual eles passam se torna universal e fica mais fácil nos identificarmos (além de obviamente tomar um dos lados na discussão que ocupa quase todo o filme).
+
+Como resultado, "Sofia" é consistente com sua ideia, eficiente ao transmiti-la e termina por machucar um pouquinho sua fé na humanidade (se lhe resta alguma).
 

@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2016-01-05'
-link: https://www.imdb.com/title/tt0050986
+date: '2018-06-25'
+link: https://www.imdb.com/title/tt0388644
 tags:
-- movies
-title: Morangos Silvestres
+- series
+title: Morte na Escadaria (Staircase)
 ---
 
-Os filmes de Ingmar Bergman tem um efeito hipnótico que é difícil se desvencilhar. Pelo menos para mim. Todo filme que assisto dele, quase morro de sono.
+Mais uma série que demonstra a incompetência e/ou a má fé do sistema americano de justiça. Ou podemos dizer a má fé de qualquer sistema de justiça estatal? Perdoem-me os religiosos, mas um sistema que paga juiz e advogado de acusação pela mesma folha não tem muitas chances de ser algo remotamente imparcial.
 
-Embalando sua história em um ritmo acalentador, nesse caso nostálgico e dramático, Bergman em Morangos Silvestres mostra que é possível fazer Grande Cinema sem se importar muito com o público. Aqui ele conta a história de Dr. Isak Borg e seus pensamentos a respeito de um dia incomum em sua vida, quando irá receber um prêmio no final dela, mas se questiona se suas decisões pessoais até hoje não foram egoístas. Sua mulher já está morta, sua mãe não. A conversa que tem com sua nora no mínimo revela um caráter desagradável de Isak, mas apenas se você conhecer melhor esse distinto senhor. Como sua governanta já aprendeu, é melhor não dar intimidade ou confiança para essa pessoa.
+O que me chamou mais a atenção foi que o juiz era negro e uma das promotoras era mulher e negra, julgando um branco rico pela séria acusação de homicídio. Mas você não vai ver ninguém sugerindo o suposto racismo no sistema judiciário americano, não é mesmo?
 
-Tentando buscar inspiração no conflito bíblico de Isaque, filho único de Abraão com sua esposa Sara. Não o sacrifício de Abraão de seu filho ao deus Javé, mas sua vida familiar. Ele e sua esposa Rebeca tiveram gêmeos, apesar que Isaque acreditava que sua esposa era estéril. Uma questão inversa se coloca entre o filho de Isak e sua nora, que não desejam filhos. Até ela se questionar a respeito do suposto egoísmo por trás dessa decisão.
+Nem os idealizadores, documentaristas franceses que realizaram o brilhante e tenso Making a Murderer. Eles possuem a disciplina e competência de filmar, a pedido do acusado, um escritor famoso, o circo que se forma em torno da morte acidental de sua esposa, caindo da escada bêbada e sangrando até morrer. Se trata de um caso que exige ciência e razão para que não se confunda com agressão doméstica, até pelas fotos do estado da mulher, que parece ter sido duramente abatida.
 
-Viajando facilmente no tempo, quando vemos a adolescência de Isak e uma versão controversa de uma família naquela época, Morangos Silvestres possui seus melhores momentos em suas questões filosóficas, apesar de pecar pontualmente em como estabelece a dinâmica de seus personagens, sempre simbólicos. Quando eles encontram um triângulo amoroso pela estrada, a analogia com a decisão quando jovem de Isak é óbvia demais. Da mesma forma, as discussões eternas entre um outro casal, esse mais velho, quando quase bate de frente com o carro do Dr.
+Só que racionalidade não existe no condado de Durham, que apesar de bem ao norte da Carolina do Norte, ainda pertence ao Sul dos EUA, e o pensamento preconceituoso limitado e tendencioso de seus habitantes. Peterson não é bem quisto entre as autoridades. Ele é um escritor de sucesso e escreveu uma coluna política no jornal local onde tecia duras críticas a representantes do governo por lá. E como ele mesmo diz, ninguém se esquece quando é feito de idiota.
 
-Seja para morrer de sono pelo ritmo de Bergman, ou ficar fascinado pelas questões religiosas e filosóficas do diretor, o fato é que Morangos Silvestres é um filme que deve ser visto pelo menos uma vez em cada fase da vida. Com certeza ele irá resgatar memórias que merecem ser revistas cada vez que damos um passo em direção à inevitável morte.
+Além disso temos a situação da sexualidade de Peterson. Dentro de um casamento heterossexual em uma família formada por outro casamento e diversos filhas e um filho vivendo em harmonia por tantos anos, Peterson também tinha um lado homossexual conhecido apenas por sua esposa. Quando isso vem à tona é como se fosse sua declaração de culpado por homicídio estampado em sua testa.
+
+Recheado de incongruências em seu processo, e nos dando de brinde sua conclusão em 2017 (os documentaristas estavam a postos para fechar seu arco da vida real), Staircase é um trabalho coerente do começo ao fim, que consegue aparar as arestas de um tortuoso processo, que no começo nos dá o benefício da dúvida de ambos os lados, mas que acaba descambando para o inevitável: a justiça humana possui falhas tão inerentes à nossa natureza que a única coisa que nos resta é lamentar.
 

@@ -1,20 +1,18 @@
 ---
 categories:
 - writting
-date: '2019-02-28'
-link: https://www.imdb.com/title/tt0095895
+date: '2012-12-30'
+link: https://www.imdb.com/title/tt1242460
 tags:
 - movies
-title: Powaqqatsi - A Vida em Transformação
+title: Precisamos Falar Sobre o Kevin
 ---
 
-Powaqqatsi é o filme do meio da trilogia Qatsi, uma série documental não-narrativa produzido e dirigido por Godfrey Reggio com a trilha sonora encantadoramente repetitiva de Philip Glass. O filme tem sido promovido pelos diretores Francis Ford Coppola e George Lucas, como sua capinha do DVD nos diz. O filme segue o estilo do documentário clássico Um Homem com uma Câmera, mas moderno, só que no bom sentido.
+Precisamos Falar Sobre o Kevin aborda de maneira surpreendente e inovadora o ponto de vista não de Kevin, um menino problemático que se tornará na sua adolescência autor de uma tragédia, mas o drama de sua mãe, chamada Eva de maneira significativa, a que deu à luz Caim, o primeiro assassino do mundo bíblico, e interpretada por Tilda Swinton de maneira brilhante e sem qualquer reservas.
 
-Digo no bom sentido porque a beleza das cenas aéreas e em câmera lenta realizam um balé sobre a humanidade e o fluxo de sua vida nos quatro cantos do mundo. Não chega a ser um filme experimental daqueles que não faz sentido, pois ele possui uma linha narrativa, embora não declarada. Começando com jovens subindo um morro cheios de argila para coletar minério, vamos passando por agricultura, as grandes cidades, religião, tecnologia, etc. Todos os grandes marcos de nossa espécie são aos poucos retratadas em um baile coreografado pela montagem e por técnicas de filmagem.
+Não se privando de esconder os acontecimentos futuros que irão ocasionar uma mudança radical na vida de toda a família, mas principalmente de Eva, a direção de Lynne Ramsay e a montagem de Joe Bini preferem "brincar" com um jogo de causa e consequência que consegue de maneira impressionante potencializar ainda mais a tensão, o suspense e o drama que se estabelece na vida de Eva a partir do nascimento de Kevin (Jasper Newell e Ezra Miller), seu primeiro filho e que parece não desenvolver suas habilidades morais e emocionais como as outras crianças. Note que eu disse "parece", e um outro elemento intensificador de tensão usado pela diretora é exatamente nunca deixar clara essa relação de causalidade, preferindo utilizar as percepções e sentimentos da mãe, esta que talvez possua um destino tão trágico quanto uma deusa grega que conhece o seu destino, mas não consegue evitá-lo.
 
-O que une tudo isso é a trilha sonora de Philip Glass, que vai se repetindo ao longo da trajetória de 100 minutos, mas nunca de maneira monótona. Há muito o que ser visto de diferentes culturas, idades, classes sociais. É claro que o cineasta Godfrey Reggio e sua equipe privilegiam a pobreza, essa admirável característica humana que nos acompanha por praticamente toda a história humana, deixando de ser uma realidade apenas no último século, mas que ainda gera na ficção e em casos anedóticos os melhores dramas e os melhores sorrisos. Pessoas que quase não têm nada não se preocupam em perder alguma coisa. Estão sempre curiosas, tranquilas, em sua rotina, seja ela qual for.
+Ao mesmo tempo em que a história caminha pelas sutilezas da montagem e de idas e vindas pelo futuro e passado de seus personagens, o uso igualmente arraigado do vermelho na direção de arte e fotografia dos cenários, onde até mesmo um singelo ursinho de pelúcia pode representar perigo, é digno de aplausos. E igualmente significativa é a edição de som, que consegue sussurrar mensagens subliminares por todo o trajeto mental que Eva parece percorrer após a sua vida não ter mais volta. Os ecos formados entre esses sons e as músicas escolhidas pelo projeto são uma brincadeira à parte.
 
-Os movimentos dos humanos individualmente ou em grupos coesos vai aos poucos sendo substituído pela massa dos grandes conglomerados no globo, como as grandes cidades do primeiro e terceiro mundos. E é curioso como o movimento das massas se confunde com a própria natureza, como o mar ou a grama sendo tocada pelo vento. Há uma transição belíssima entre grama, mar e multidão. Os pedintes nas ruas são homenageados com a figura dos transeuntes como fantasmas transparentes, passando rapidamente por eles.
-
-Há beleza humana misturada com natureza, seja em suas construções, palácios, atividades ou simplesmente o sorriso das crianças curiosas. É um registro sem diálogos indispensável sobre nossa era, e deve ser guardado para as gerações futuras. Talvez estejamos no limiar dessas transformações, e sabe-se lá quanto tempo vai durar nossas diferenças étnicas e culturais. Mas enquanto durar, curtamos a magia da diversidade de nós, seres humanos, vivendo cada um à sua maneira, sob sua ótica de sua própria realidade, nesse planeta que compartilhamos.
+Nunca nos permitindo parar para respirar, mas em vez disso conseguindo manter um ritmo adequado para processarmos tudo o que virá no esmagador terceiro ato, o brilhantismo de "Precisamos falar..." reside não em sua história, mas as soluções desenvolvidas por toda a equipe para transmitir seu significado de maneira mais visceral possível sem cair no óbvio. Ao abalar nossos sentimentos mais instintivos, como o amor materno, se torna um filme merecedor de revisitas frequentes.
 

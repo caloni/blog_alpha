@@ -1,11 +1,13 @@
 ---
+
+Mais jovem parece melhor.
+
+---
 categories:
 - writting
-date: '2017-06-25'
+date: '2017-10-11'
+link: https://www.imdb.com/title/tt4210344
 tags:
-- food
-title: El Legado Syrah Reserva 2015
----
-
-Leve, mas com muitas frutas negras; pouco tânico por ser reserva. Vai bem com lasanha de escarola que fiz no domingo com molho italiano.
-
+- cinemaqui
+- movies
+title: El Pampero

@@ -1,22 +1,22 @@
 ---
 
-Hanami conta a história de um casal que mantém uma vida pacata no interior da Alemanha enquanto mantém uma relação distante com seus três filhos, especialmente o caçula, que vive em Tóquio. O sonho da esposa é poder visitá-lo, pois, além da saudade, é visivelmente encantada pela cultura japonesa, como pode-se perceber pelos detalhes de decoração da casa deles e pelo seu interesse no butô, um estilo de dança teatral que utiliza a expressão do corpo e seu efeito na sombra formada pelos movimentos.
+Era de se esperar uma queda básica na qualidade narrativa do original Happy Feet, de 2006. Na época pegando carona no belíssimo documentário do ano passado, [A Marcha dos Pinguins], o filme traçava um paralelo do que aconteceria se um dos filhotes da espécie apresentasse uma característica... inusitada. No caso, todos os pinguins da raça Imperador são exímios cantadores, enquanto o filhote diferente gostava de sapatear. Ambas as características suportaram números de encher os olhos e os ouvidos, com performances de cair o queixo, com destaque absoluto para Somebody to Love (Queen).
 
-Assim como o butô, a direção de Doris Dörrie ([Felicidade]) trabalha sua narrativa de maneira sutil, desenhando e evoluindo as emoções do marido a partir da sombra de sua mulher, que sempre determina suas ações a partir de um momento-chave no longa. Para isso, é vital a entrega do ator Elmar Wepper, que compreende que viver passa a ter como função realizar os desejos de sua mulher, e daí a dicotomia da dança, que une marido e esposa como corpo e sombra (sendo que quem comanda os movimentos é justamente a sombra, na visão de uma dançarina de butô que surge no filme no segundo ato).
+Aqui a dança muda um pouco. É indiscutível a qualidade gráfica dos pinguins, como já era 5 anos atrás, mas agora dois novos componentes da "fauna" antártica merecem o destaque absoluto: Will e Bill, dois espécimes de Krill: desde a textura até os movimentos dos olhos, tudo é perfeito nesses dois, que combinam suas cores com o fundo do mar gelado de maneira absolutamente natural e, de certa foram, poética.
 
-Hanami é o costume dos japoneses de observar a beleza das flores. Esse costume possui mais tradição na época em que as cerejeira florescem. No filme, a cerejeira desempenha um papel mais simbólico do que funcional, mas tem seus motivos, pelo menos filosóficos: ciente que não vai viver por muito mais tempo, o marido resolve como último impulso viver o resto de seus dias trazendo significado para a mulher, ainda que suas ações pareçam tão efêmeras, como a própria beleza das cerejeiras, que florescem em um determinado período do ano em abundância, mas logo desaparecem.
+O filme começa bem, ressaltando a importância do ecossistema como um todo, com todas as espécies se ajudando entre si, mesmo que pelas leis do acaso. O ponto forte é a questão filosófica dos Krill, que se perguntam se existe algo além do "cardume" (eles vivem no meio de uma massa incontável de irmãos vagando pelos mares glaciais). O final encontra a rima dessa história de maneira satisfatória, que é quando vemos a performance musical mais emocionante do filme (sem maiores detalhes).
 
-Esse simbolismo, aliás, também é usado na ideia de que é raro que o Monte Fuji apareça aos olhos humanos devido à névoa que cobre toda a região em volta. Porém, quando isso acontece, devemos aproveitar essa oportunidade e fazer tudo que devemos fazer.
+Já o problema do longa se encontra no seu desenvolvimento. Nunca conseguindo focar em um tema específico, o drama principal dos pinguins presos entre as geleiras fica esmaecido, quase esquecido em alguns momentos, pois não existe ritmo ou até mesmo coerência em contar essa história, dando maior importância às brincadeiras visuais (que funcionam metade do tempo) e falas completamente descartáveis (nem a antes figura carismática de Ramon consegue salvar).
 
-Não é assim com a própria vida, tão efêmera, mas tão valiosa?
+Porém, esse deve ser o filme que vai impressionar mais as plateias pela maneira impecável que ele junta suas duas pontas extremas, mesmo se despreocupando totalmente em como desenvolvê-las de maneira no mínimo interessante.
 
-[Felicidade]: {{< relref "felicidade" >}}
+[A Marcha dos Pinguins]: {{< relref "a-marcha-dos-pinguins" >}}
 
 ---
 categories:
 - writting
-date: '2016-01-22'
-link: https://www.imdb.com/title/tt0448157
+date: '2018-05-16'
+link: https://www.imdb.com/title/tt2452242
 tags:
-- movies
-title: Hancock
+- series
+title: Feliz!

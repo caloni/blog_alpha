@@ -1,28 +1,22 @@
 ---
 categories:
 - writting
-date: '2016-07-29'
-link: https://www.imdb.com/title/tt3460252
+date: '2011-12-20'
+link: https://www.imdb.com/title/tt0056869
 tags:
 - movies
-title: Os Oito Odiados
+title: Os Pássaros
 ---
 
-Se há um motivo para a existência de Os Oitos Odiados é dar o mais que merecido Oscar para o compositor Ennio Morricone. No entanto, esse prêmio negado ao músico de trilhas icônicas como Os Intocáveis, Era Uma Vez na América e Cinema Paradiso irá agora figurar como o mesmo Oscar negado a Martin Scorsese em toda sua carreira até Os Infiltrados: longe de ser o melhor trabalho; apenas um prêmio de consolação.
+A cena que mais evidencia a tensão presente na casa da família Brenner após um ataque-relâmpago de pássaros ensandecidos é quando vemos a câmera focar a matriarca da família olhando para o teto, assustada. Então a câmera se afasta, e, no mesmo quadro, é possível ver que os outros dois adultos estão fazendo a mesma coisa. Ao final desse quadro tão emblemático, sabemos que o diretor conseguiu o total controle sobre nossa atenção e sentidos, que, naquele momento, teimam em se comportar irracionalmente e exatamente como aquelas pessoas.
 
-Por outro lado, temos uma revelação surpreendente em Jennifer Jason Leigh, que cria uma vilã que se diverte imensamente em ser a mensageira do diabo em um "barzinho" que irá virar a boca do inferno cercada de uma nevasca interminável.
+Um dos últimos filmes de Hitchcock, já famoso, renomado e podendo gastar bem em suas produções, Os Pássaros gira em torno de uma pequena cidade à beira da costa que começa a presenciar, aos poucos, um comportamento agressivo e atípico dos pássaros da região. Conforme a trama principal se desenvolve, que gira em torno de um casal que tenta firmar seu romance, mesmo que sob os olhares suspeitos da mãe super-protetora, aos poucos notamos pequenos eventos relacionados com com animais-título que aos poucos vão tomando conta da história.
 
-Ainda do lado das atuações de destaque, Samuel L. Jackson usa todo o poder de um personagem que ganha sua liberdade na recém-terminada guerra civil americana, mas que continua fortalecendo sua posição a cada gesto e diálogo do próximo sulista rancoroso que encontrar pela frente. Podemos imaginar o personagem de L. Jackson como reencarnação de Django no filme anterior do diretor, onde um negro ousava andar livre e armado ao redor de plantações do rio Mississipi.
+Esse é meu segundo filme do diretor que (re)assisto em um festival de cinema. Comecei com um dos primeiros clássicos ([O Homem que Sabia Demais], de 34) e, curiosamente, continuei com um dos últimos (se não o último, se desconsiderarmos Cortina Rasgada e lembrarmos que Trama Macabra, de 76, é considerado por muitos como um dos piores de sua carreira). Devo dizer que essa exposição está sendo admirável e me surpreendeu pela qualidade das exibições (ambas, por enquanto). Quando podem, os organizadores estão usando a película original. Na sessão de Os Pássaros, por exemplo, pode-se notar as cores pálidas usadas usadas para fotografar Bodega Bay (o vilarejo de Os Pássaros), em sintonia com o escuro do bando de gralhas se "acotovelando" em uma cerca e tornando a luz usada ainda mais tenebrosa.
 
-Já Quentin Tarantino, em seu oitavo filme -- como gosta de alardear nos créditos iniciais -- se apaixona perdidamente pela sua técnica e se esquece momentaneamente como fazer filmes que prendem a atenção do começo ao fim. Ele agora arrasta do começo ao fim o desenrolar da história, como se estivesse com dó de cortar cenas ou de deixar a direção (o diretor diz que quer fazer apenas 10 filmes no total, sendo o motivo apontado por às vezes contar em que número estamos).
+Uma curiosidade final diz respeito às piadas. Assim como em O Homem que Sabia Demais, aqui existem os momentos cômicos habituais (como o bêbado anunciando diversas vezes o fim do mundo). Mais interessante, no entanto, é saber que em Hitchcock as piadas conseguem sempre seu intuito: nos deixar ainda mais tensos. Pois, ao mesmo tempo que fazem rir, não nos deixam esquecer da situação perigosa em que a população vive. Essa "situação", vale notar, enquanto inicia na vida das pessoas como uma curiosidade, ou algo atípico, chega ao limite de dominar todas as suas ações, momento esse no qual todos discutem em um bar, que se torna o ápice de ação. Analogamente, é exatamente nesse momento que comicidade e tragicidade se juntam em um balé de nervos que apenas um diretor de talento consegue orquestrar.
 
-O elenco em geral já trabalhou com o diretor e se esforça em manter um clima western parte Sergio Leoneano, parte Tarantinesco. Os diálogos são espertos demais para serem reais, e há um clima investigativo em um momento que desfaz toda a atmosfera rústica daquelas pessoas vivendo uma época onde andar armado (e saber atirar) é mandatório.
+Por fim, chega a ser inacreditável comentar que hoje, com toda a tecnologia disponível para criar as ameaças mais criativas possíveis, um bando de pássaros voando consegue ser mais assombroso que muitos Blockbusters por aí.
 
-Mas não há nada na estética do filme que decepcione. Estamos assistindo a um filme autêntico de bang-bang, no melhor estilo superprodução e com uma fotografia (Robert Richardson) de fazer-nos parar por minutos apenas para apreciar a beleza das paisagens externas, além da competência com que a interna é retratada, sem perder-se em sombras.
-
-Aliás, a falta de "pecadilhos" em um filme dessa época acaba soando mais teatral do que devia. Claro que o clima Tarantinesco das mortes (especialmente por envenenamento) contribui para fugirmos daquele universo (e lembrarmos, mais uma vez, que este é um filme de Tarantino... oitavo, certo?), mas talvez a excessiva compaixão das pessoas envolvidas, e a forma com que conversam, torna as coisas estranhas.
-
-Já a história é a convenção em pessoa, o que nos remete diretamente aos problemas do roteirista Quentin Tarantino. Se em filmes do velho oeste -- especialmente os de Sergio Leone -- há de se experimentar situações extremas que irão fazer o chão vibrar, aqui toda a "logística" envolvida para fazer esses personagens interagir é mecânico demais. Os personagens do filme não são humanos vivendo uma época dura, mas arquétipos vivendo o sonho Tarantinesco.
-
-E tudo isso joga Os Oito Odiados ainda mais perto do palco e mais longe da tela. Não que a história não valesse a pena acompanhar, nem o desempenho dos atores em personagens no mínimo curiosos. No entanto, tudo isso é irrelevante, se pressentirmos que todo este tabuleiro de xadrez já estava montado quando a partida começou.
+[O Homem que Sabia Demais]: {{< relref "o-homem-que-sabia-demais-1934" >}}
 

@@ -1,27 +1,78 @@
 ---
-categories:
-- writting
-date: '2019-02-15'
-link: https://www.imdb.com/title/tt6690004
-tags:
-- cinemaqui
-- movies
-title: Primeiro Ano
+categories: []
+date: '2008-06-26'
+tags: null
+title: Primeiros passos na documentação de código-fonte usando Doxygen
 ---
 
-Quero que imagine uma cena: há poucos minutos de começar um exame importantíssimo na vida deles, dois amigos massageiam a carótida um do outro, uma artéria que irriga o cérebro, para que seus batimentos cardíacos diminuam e assim possam realizar a prova com mais calma. Esse é o momento de Primeiro Ano onde nada mais importa. Não há diferenças, não há concorrência, não há individualismo. Duas almas em uníssono buscando o bem maior por si só.
+Comentários são essenciais em um código-fonte bem feito. O código pode até fazer milagres, salvar vidas e multiplicar pães, mas se não tiver um apóstolo eficiente que escreva um evangelho para ele, as pessoas não vão conseguir usar!
 
-Este é o terceiro trabalho do diretor Thomas Lilti sobre medicina (os outros foram Insubstituível e Hipócrates). Isso porque ele próprio, além de roteirista e diretor, é antes de tudo um doutor. Porém, aqui a história do filme é um pouco diferente: ela trata do processo seletivo dos estudantes. E, rapaz, é um negócio sério. Com pouquíssimas vagas para uma massa caótica de jovens, a luta anual entre cursinho e primeiro ano para a seleção de especialização pode ser uma prova muito maior de persistência que a própria eventual carreira após formados.
+OK, a analogia foi horrível.
 
-Acompanhamos nessa batalha intelectual o repetente Antoine (Vincent Lacoste) e o mais tranquilo, reptliano Benjamin (William Lebghil). Como aluno empenhado em passar nas provas, Antoine é pura emoção e amadorismo juvenil protegidos por uma quase timidez. Enquanto isso Benjamin come por três e analisa mais o sistema como um todo antes de se jogar aos livros. Ambos tiveram diferentes origens e situações, mas mais importante, personalidades díspares. Mas ambos se encontraram e viram em sua amizade uma possibilidade de sinergia que poderia beneficiar a ambos, embora fique claro no momento que tanto um quanto outro precisam de algum apoio além da família nesse momento tenso e solitário.
+Bom, já que é pra fazer comentários, porque não fazê-los de uma forma que seja possível extrair todo esse texto diretamente do fonte e transformá-lo em documentação? Dessa forma você evita ter que abrir o Word (arght!) e evita que a documentação fique desatualizada quando o documentador do seu projeto for embora da empresa.
 
-Filmado quase em tom documental, acompanhamos o sistema de aulas e seleção de uma universidade francesa e todas as reações e brincadeiras de jovens cheios de energia e motivação. O bater nas mesas, as palmas dessincronizadas, o grito de revolta e de curtição. Conseguimos sentir os hormônios à flor da pele e ao mesmo tempo o auto-controle para que esses candidatos a ser alguém na vida consigam seu objetivo tão almejado: uma vaga em um curso superior.
+Vocês não têm documentador no projeto? Ah, tá. Bem-vindo ao grupo.
 
-Todos esses jovens são o pano de fundo quando acompanhamos o amadurecimento da amizade dos dois, sempre em torno de livros e das expectativas do processo. Lilti está tão interessado nessa amizade quanto está em quase denunciar o sistema de seleção como algo cruel, muito embora o espectador acabe tendo a liberdade de selecionar o melhor valor para si. A seleção tanto pode ser cruel quanto justa, e tenho certeza que qualquer pessoa que já ralou na vida irá enxergar certa virtude na disciplina e no sacrifício desses jovens.
+O Doxygen é uma ferramenta que consegue extrair comentários do seu código-fonte, formatados ou não, e transformar em arquivos html, doc, chm, etc. O resultado é muito impressionante, pois ele é capaz de interpretar algumas linguagens (como C++) e mostrar a hierarquia de classes e funções.
 
-Os diálogos do filme quase sempre giram em torno das matérias dos alunos e dos conhecimentos. Palavras longas e complicadas são exibidas para entendermos a complexidade e a escala que o conhecimento humano chegou ao mesmo tempo que entendemos o porquê de tanto esforço. O diretor em sua entrevista nos traduz seus objetivos, que é de mostrar como o sistema acabou se tornando mais importante que a paixão de ser médico de alguns. Porém, esses objetivos estão alheios ao filme, pois são sutis o suficiente para que entendamos que a vida é assim e cada um reage de uma maneira.
+Ele não obriga que o desenvolvedor formate corretamente os comentários, mas ao fazer isso podemos descrever o funcionamento exato de funções de interface, como o que cada parâmetro significa, o valor de retorno, algumas observações quanto ao uso, etc.
 
-Um filme sobre esse tema teria tudo para se tornar monótono, mas aqui não é o caso. Montado de maneira dinâmica e oscilando momentos viscerais, de lutas por espaço na biblioteca e nas carteiras das salas, com pausas necessárias, como a troca de comida entre Benjamin e sua vizinha estrangeira, Primeiro Ano consegue colocar o espectador no lugar daquelas pessoas e os fazer quase que relembrar os esforços passados para tentar passar no vestibular. Parte disso está em uma edição fuida, mas uma boa parcela de êxito se deve aos atores Vincent Lacoste e William Lebghil, que conseguem uma química invejável mesmo sem qualquer diálogo expositivo. Tudo acontece praticamente nos olhares e expressões.
+Aprender a usar Doxygen é muito fácil. Ele possui uma ajuda com vários exemplos com os quais podemos começar a programar um código auto-documentado.
 
-E isso se revela como um filme contemplativo ao mesmo tempo que intenso. Ele fará o espectador se segurar na poltrona em alguns momentos, e em outros até torcer. E tudo isso com uma importante reflexão sobre o valor da amizade. Mais do que do sacrifício. É a amizade o pilar que segura esse filme sobre competitidade extrema, por mais paradoxal que seja. É quando um amigo massageia a carótida do outro, em uníssono, esperando por um dia melhor.
+Por ser uma ferramenta bem flexível, são permitidos inúmeros formatos para se auto-documentar o código. Vou descrever como eu faço, mas pode ser que outro formato lhe agrade mais. Para conhecê-los, dê uma olhada no seu manual.
+
+A primeira coisa a saber sobre comentários de documentação é que eles devem vir sempre ANTES do elemento que estamos comentando. Por exemplo, uma classe:
+
+    /** Nova classe de exemplo
+    *
+    * Essa classe é um exemplo de como utilizar o Doxygen
+    */
+    class ClasseDeExemplo
+    {
+       // ...
+    };
+
+Note que o comentário inicia com um duplo asterisco "/**". Isso indica ao Doxygen que vem documentação por aí.
+
+Observe que seria mais simples que o Doxygen pegasse todo e qualquer comentário e transformasse em documentação. No entanto, existem comentários que não devem ser publicados, pois são muito específicos do funcionamento interno da função. Dessa forma o programa-documentador lhe dá a liberdade de fazer comentários documentáveis e não-documentáveis.
+
+Também existe um outro formato bem popular, usado pelo pessoal do Java, que são os comentários que se iniciam com três barras:
+
+    ///
+    /// Nova classe de exemplo
+    ///
+    /// Essa classe é um exemplo de como utilizar o Doxygen
+    /// E esse comentário é equivalente ao anterior
+    ///
+    class ClasseDeExemplo
+    {
+       // ...
+    };
+
+Além desse estilo de comentário, existem campos-chave que podemos colocar. Para definir um campo-chave, uma forma válida é usar o arroba seguido do seu nome, e a descrição. Eis um exemplo cheio deles:
+
+    /** @brief Função de exemplo
+    *
+    * Essa função tem por objetivo exemplificar o uso do Doxygen
+    *
+    * @param firstParam Serve como primeiro parâmetro da função
+    * @param[out] anotherParam Esse é outro parâmetro que recebemos
+    *
+    * @return Se der erro, retorna -1. Se der tudo certo, 0.
+    *
+    * @remarks Essa função não pode ser chamada antes de ChamaEuPrimeiro.
+    */
+    int FuncaoDeExemplo(int firstParam, int anotherParam)
+    {
+       // ...
+    }
+
+Vejamos:
+
+ - brief. Serve como descrição inicial e sucinta do que a função faz. Mais explicações podem existir depois dessa primeira linha introdutória.
+ - param. Descreve o objetivo de um parâmetro, assim como se ele é de entrada ou saída.
+ - return. Explica os diversos retornos que a função pode ter.
+ - remark. Observações especiais que podem ajudar quem chama a função.
+
+Existem diversos outros tipos de marcadores e com certeza você encontrará muita utilidade em outros. No entanto, esse é o basico que todo desenvolvedor do seu time deve saber para já começar a documentar suas funções.
 

@@ -1,20 +1,23 @@
 ---
 
-Meninas virgens costumam ter o que vulgarmente se conhece como "amor de pica", que é quando ela não consegue largar o garoto que a desvirginou; para o resto de sua vida. Trágico. Em contrapartida, Houve Uma Vez Dois Verões parte da história de um menino virgem que tem uma única noite com a garota perfeita, jogadora de fliperama, e desenvolve o que chamaríamos por tabela, e também vulgarmente, de "amor de xana".
+Pesquisando sobre como tornar o fermento (e o pão feito com ele) menos azedo que o tradicional pão de fermentação longa, encontrei este artigo dividido em duas partes. Essas anotações dizem respeito à primeira parte.
 
-André Arteche é Chico, um adolescente comum que com seu amigo procuram oportunidades para transar em qualquer lugar e situação para sair do ponto de partida. Apesar de passarem as férias na maior praia por extensão do mundo, no Sul do Brasil, para economizar seus pais fazem a viagem em baixa temporada, e o que vemos é uma praia maior ainda, quase abandonada, e com nenhuma menina interessante à vista.
+ - Os elementos para controlar o azedo do pão deste artigo são temperatura, escolha da farinha e maturidade.
 
-Mas a sorte de Chico muda com a aparição milagrosa de Roza (com Z mesmo), encarnada pela paradisíaca Ana Maria Mainieri (ou paradisíaca vista por adolescentes espinhudos, pelo menos). Ambos irão viver uma trama de mentiras e joguinhos que tanto faz sucesso nas comroms.
+ - Farinha branca entre 21 e 24 graus favorece menos acidez, e farinha integral entre 28 e 29 graus uma maior acidez, e o estado de maturação com menos acidez é no ou logo antes do pico do crescimento para o fermento, e no caso da massa até o dobro. Para uma maior acidez espere até o fermento baixar e no caso da massa mais que dobrar de tamanho.
 
-Os diálogos descompromissados do cineasta Jorge Furtado, o mesmo de Meu Tio Matou um Cara, valem o filme, e seus elenco, apesar de amador, é filmado em uma edição vibrante, que se solta do teatral por ser dinâmico. É ágil, de cortes elegantes e decupagem primordial em uma produção de baixo orçamento.
+ - Quem gera a acidez são os lactobacilos da cultura, enquanto quem gera gás carbônico é a levedura, um fungo unicelular presente na cultura do fermento. Há uma simbiose entre eles, na proporção aproximada de 100 lactobacilos por levedura, mas pode-se favorecer o aumento de um ou de outro, sendo que a tendência é que os lactobacilos (as bactérias) aumentem e a levedura permaneça em um nível populacional.
 
-O resultado é uma divertida comédia adolescente, despretensiosa e esquecível. Há algumas tiradas difíceis de esquecer, principalmente porque nunca mais serão permitidas ("hoje eu como até gorda"). Vem de um universo inocente, menos politizado, onde nem tudo precisa ser desconstruído, discutido, debatido. É bom para esquecer a derrocada da sociedade que vivemos.
+ - Um pão saudável é desenvolvido através de um fermento que neutralize o ácido fítico, e a presença do ácido láctico auxilia nesse controle. Porém, a contrapartida é que soluções muito ácidas irão gerar pães mais azedos. Podemos fazer uma relação simplória entre pães mais azedos e mais saudáveis, e se o objetivo for um sabor mais suave acabaremos sacrificando parte da saúde do pão.
+
+ - A maturidade da fermentação determina a quantidade de acidez. Em torno do pico de altura da massa madre é onde existe a menor acidez, mas o tempo de fermentação da massa (e seu volume) também irão determinar a acidez do pão.
+
+ - Para qualquer mudança no regime de alimentação do fermento, como temperatura, farinha e hidratação, demora cerca de 10 dias para que essas mudanças sejam sentidas na cultura (há uma discussão sobre o ritmo de refresh nos comentários e a reação das novas bactérias sendo adicionadas, mas faltam evidências).
 
 ---
 categories:
-- writting
-date: '2015-11-28'
-link: https://www.imdb.com/title/tt3205802
+- coding
+date: '2008-05-27'
 tags:
-- series
-title: How to Get Away with Murder - Primeira Temporada, Episódios 1 ao 3
+- english
+title: How to run anything as a service

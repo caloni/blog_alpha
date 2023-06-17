@@ -1,22 +1,18 @@
 ---
 categories:
 - writting
-date: '2016-06-06'
-link: https://www.imdb.com/title/tt1937390
+date: '2017-06-05'
+link: https://www.imdb.com/title/tt2735996
 tags:
 - movies
-title: Ninfomaníaca Vols 1 e 2
+title: Ninguém Deseja a Noite
 ---
 
-Um estudo de personagem puro. A revisão de ambos os filmes, estreando agora na Netflix brasileira, revela que não há de fato uma história amarrada, onde uma coisa leva a outra. A única coisa que move Joe são as coincidências e as variações de sua libido. A curiosidade do filme é mais sobre esse universo e menos sobre suas memórias.
+Juliette Binoche se transforma completamente em uma americana aristocrata (vinda da França, até pelo nome) e que sai em busca de seu marido, um aventureiro que deseja mais que tudo ser o primeiro a atingir o Polo Norte e fincar uma bandeira. Ela vai em ajuda dos guias para o norte do Canadá, e o que encontra lá com certeza não era o que esperava.
 
-Dessa forma, Lars Von Trier escancara isso para o público transformando o filme em uma alegoria que permite reflexões e analogias nunca antes tentadas de maneira tão lúdica quando se fala de apetite sexual e comportamento humano. Ela encontra o ser mais assexuado possível, e juntos vão apresentar não apenas a história de Joe, mas de toda mulher que decidiu ser diferente do esperado. Claro, em diferentes níveis.
+Baseado em fatos reais (mas sem dar detalhes de qual história estamos vendo, o que cheira manipulação), acompanhamos um filme que se dedica a dar o peso real ao desafio de viver no gelo absoluto, seja como esquimó ou como "povo civilizado". Estamos no comecinho do século 20, e a diretora Isabel Coixet (Fatal), auxiliada pelo roteirista Miguel Barros e, claro, uma irreconhecível Juliette Binoche, criam uma persona frágil e ao mesmo tempo petulante, teimosa, elitista, preconceituosa e... que vira nossos olhos e sentimentos naquela terra estranha. A única personagem à altura é a atriz Rinko Kikuchi (Babel), sempre surpreendente e que aqui faz a jovem esquimó Allaka, e que já havia feito a ótimo Kumiko em "Caçadora de Tesouros". A dinâmica entre as duas é irregular e por isso funciona como uma pena para a questão levantada pelo filme, das diferentes visões de mundo.
 
-Mas, falando em analogias, talvez eu esteja sendo ingênuo demais. Afinal de contas, é perfeitamente possível que alguém já tenha feito uma conexão entre as portas com sensor automático na entrada dos prédios com uma vagina ultra-sensível. Mas, como tudo no Cinema, depende de contexto. E o contexto aqui é sexualidade, em todas suas nuances.
+É claro que chega uma hora que tudo vira uma versão feminina de Dança com Lobos, mas sem a sutileza, e com um certo pelo exagero nas falas. Uma esquimó não falaria tão bem assim tantas vezes. Mas o que é irrepreensível são as virtudes estéticas e técnicas do filme, que inserem o espectador no gelo ártico com muita propriedade. Com o design de som e os ventos, ou o próprio isolamento das montanhas, ou a escassez de recursos, o gelo quebradiço... e até a decupagem, que coloca Kikuchi e Binoche em planos cada vez mais estreitos, conforme o inverno se aproxima. É como conseguir fazer o espectador sentir frio de dentro de um filme.
 
-A versão mutilada disponível na Netflix possui no início de cada volume cortes sem sentido nos diálogos que traem a fluidez de sua história. Há um letreiro que deixa claro que o diretor não teve nada a ver com isso. Depois desse início embaraçoso, não há muitos outros momentos confusos o suficiente para serem notados. No seu lugar, cortes fabulosos que recriam a mística da ninfomaníaca de maneira profética, religiosa, sagrada. Os comentários de seu amigo incidental nunca vêem com uma conotação sexual distinguível, mas o simples fato de estarmos na casa de um assexuado mostra que em qualquer criação humana, seja pescaria ou religião, sempre há o elemento sexual.
-
-Em determinado momento Joe fala que a última digressão de seu amigo foi a mais fraca. No fundo, de todas as digressões linguísticas que o diretor aplica em seus filmes, talvez essa seja a mais fraca. Com quatro horas de duração, sobrou alguma gordura desnecessária para seus objetivos.
-
-No final, um discurso feminista que faz todo sentido, seguido da lembrança de que tudo o que vimos foi um ser humano tentando achar seu lugar na sociedade. Infelizmente, com todas as mulheres temendo que seus maridos sejam roubados. Que maneira triste, mesquinha e... verdadeira de enxergar a sociedade.
+Ninguém Deseja a Noite cria a profundidade de seu drama para discutir questões mais profundas ainda, como nossos costumes culturais e as diferentes formas de enxergar a realidade. Não chega a ser tocante, e possui um final um tanto desonesto, mas não poupa ninguém das consequências das decisões dessas duas mulheres. Um filme para ver e refletir.
 

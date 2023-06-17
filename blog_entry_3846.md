@@ -1,21 +1,25 @@
 ---
 categories:
 - writting
-date: '2019-03-02'
-link: https://www.imdb.com/title/tt8405810
+date: '2019-03-13'
+link: https://www.imdb.com/title/tt6040662
 tags:
 - cinemaqui
 - movies
-title: Um Amor Inesperado
+title: Um Ato de Esperança
 ---
 
-Um Amor Inesperado, apesar de ser falado em espanhol, apesar de ser argentino, apesar de ter Ricardo Darín, é, antes de tudo, uma comédia romântica. E que muito se aproxima das hollywoodianas, daquelas que não possuem profundidade o suficiente para fazer pensar sobre relacionamentos como algo mais geral, mais reflexivo. O maior erro em ver esse filme é supor que por conta de ser cinema argentino com Darín deve ser algo muito acima da média.
+Dramas no tribunal costumam chamar a atenção do espectador automaticamente. É do interesse humano querer saber qual será o destino das pessoas envolvidas. Quando é sobre um crime ou casos de família o interesse é maior. Dentro dessa ótica, filmes como Um Ato de Esperança já sai na vantagem logo na largada.
 
-Mas como comédia romântica ele diverte, é bem feito e tem personagens cativantes. Ou quase. Lidando com uma crise de meia-idade de um casal de pais que se despede do filho indo morar longe para fazer a faculdade, o filme simplifica todo o processo a ponto de se tornar insosso acompanhar essas pessoas, mas como elas são interpretadas por Darín e Mercedes Morán há algo magnético em descobrirmos para onde irá a vida desses dois depois de se separarem. Eles parecem "gente como a gente" e isso nos aproxima de seus dramas pessoais.
+Mas há um outro motivo do porquê esse filme de Richard Eyre sair na vantagem. Seu nome é Emma Thompson. Versátil, ela consegue eficiência tanto em papéis de comédia (Razão e Sensibilidade), de drama (Tinha Que Ser Você) ou ambos (Os Meyerowitz). Aqui ela é uma protagonista extremamente forte em um drama pesado e cuja vida das pessoas julgadas dependem 100% do seu intelecto e poder de encontrar a resolução mais justa para cada caso.
 
-O tempo passa rápido em Um Amor Inesperado. As cenas que acompanhamos vão se espaçando em dias, semanas, meses. Mas o tempo entre as relações e experiências que ambos vão acumulando é suficiente para sentirmos não apenas a passagem do tempo, como o desencanto que ambos vão sentindo, bem aos poucos, com toda essa liberdade dos pós-separação. A princípio, para o espectador jovem, talvez não pareça nada disso e se trate apenas de momentos comuns que divorciados costumam passar até encontrar seu próximo grande amor. Para os já experientes irão entender melhor que tudo aquilo não apenas é caminho comum, mas que não existe essa de grande amor.
+O roteiro de Ian McEwan, que se baseou em seu próprio livro, é uma imersão realista no mundo dos juízes de primeira instância, mas que usa um drama fácil para incitar algumas questões universais. Todos sabemos que a grande maioria dos casos são simples enunciações do que a lei já prevê ou uma coleção massiva de julgamentos anteriores. É muito difícil que no mesmo ano um juiz decida casos inéditos e polêmicos. Fazer a juíza Fiona Maye, a personagem de Thompson, decidir dois casos polêmicos de vida e morte na mesma semana é forçar um pouco demais a ficção.
 
-A voz de mais sabedoria nesse filme são as da terceira idade. Representada em uma ou duas cenas entre o pai do personagem de Darín e a mãe da personagem de Morán, eles já sabem pelo quê vale a pena viver após os filhos criados, e estão dispostos a compartilhar. A mais bela cena do filme é quando o "pai" de Darín demonstra como ele fez para tirar da cabeça a ideia de que estava morrendo. Ela é o exemplo perfeito de como a mente nos engana enquanto o corpo quer apenas continuar.
+Porém, essa é a vantagem da ficção: intensificar um pouco as coisas para que elas ganhem uma nova tonalidade. E nós nos acostumamos a esse drama, vendo uma ou outra novela mexicana ou um filme de sangue latino que usa daquela tensão falsa que soa real porque a música está muito tensa e o rosto dos atores muito sombrio. Esse é um caso típico que ainda é alimentado pela intepretação intensa de Thompson, o que garante uma sessão exaustiva, ainda que intelectualmente desafiadora.
 
-Além dessa crise o filme tenta unir outros temas interessantes, como a vida sem graça da classe média e como os aplicativos de relacionamentos não são essa maravilha que as pessoas que nunca usaram imaginam. São momentos divertidinhos, que deve entreter mais uma vez os menos experientes. Já os mais experientes... mereceriam algo melhor.
+Thompson faz uma pessoa que chega aos cinquenta anos compenetrada em um trabalho que adora fazer. Ela pula de caso em caso e se esquece dos finais de semana e das noites com o marido (Stanley Tucci, que consegue dizer coisas crueis para a esposa com afeto). Não tendo filhos, logo se vê que há anos ela executa a mesma rotina. E ao observarmos os casos de vida e morte que está julgando, como podemos pensar diferente? Sua personagem soa não apenas absolta no trabalho, mas uma verdadeira altruísta, sacrificando sua vida pessoal pelo bem comum; evitando ao máximo que suas emoções nunca atrapalhem suas ações.
+
+No entanto, a juíza Fiona Maye tem uma semana difícil. Seu marido a acusa com propriedade de sabotar o relacionamento há anos e declara que deseja ter uma amante. Sem tempo para sequer discutir com ele, ela pula para o próximo caso onde tem que julgar se pode-se forçar um adolescente com quase 18 anos a receber uma transfusão de sangue que o salvará. A religião em que foi criado proíbe esse tratamento, mas o caso seria de simples resolução de acordo com a lei de menores (o Children Act do título original), que coloca o bem estar da criança/jovem acima de tudo. Sim, apesar de toda a tensão na corte esse seria um caso simples; não fosse o fato dela estar emocionalmente perturbada, o que a faz de maneira imprevisível capturar um detalhe que está faltando no julgamento e que precisa para chegar a uma decisão: o próprio garoto. Porém, ao entrar em contato com ele sua interferência vai além da simples aplicação da lei.
+
+Discutindo questões racionais, emocionais e religiosas ao mesmo tempo, Um Ato de Esperança nunca perde seu fôlego inicial, criando ao mesmo tempo uma atmosfera sufocante para sua heroína. Ela não consegue o tempo e o espaço necessários para tomar decisões a respeito de sua própria vida, além de estar sempre acostumada a não utilizar suas emoções; o que acaba ironicamente nos lembrando do próprio jovem cujo destino está decidindo como seu oposto. Após viver toda sua vida em um ambiente controlado sob leis que ele nunca ousou questionar, agora ele é levado a abrir os olhos à força, mas acaba se apaixonando pelo que vê: um mundo cheio de possibilidades, poesia e amor.
 

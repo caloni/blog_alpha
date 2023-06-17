@@ -1,28 +1,31 @@
 ---
-
-A fórmula Marvel de produzir super-heróis enlatados é tão maldita que só um filme como Deadpool, que brinca com toda a produção desses mesmos enlatados, para conseguir se desvencilhar, ainda que parcialmente, dos seus outros filmes lançados a balde.
-
-É por isso que até seus créditos iniciais brincam com o processo de escalação, apresentando os personagens pelos seus estereótipos, tais como Um Cara Durão, Um Vilão, Um Personagem Feito de CGI, Uma Gostosa. Mais do que isso: declara que os roteiristas é que são os verdadeiros heróis.
-
-Nada mais justo: realizando a façanha de através da meia-hora mais criativa e envolvente que um filme de herói tem há alguns anos, é de lá que saem os melhores diálogos, as melhores construções de personagem, os melhores ganchos para o resto do filme e a melhor quebra de quarta parede já vista em uma produção do sub-gênero, e que ainda por cima insiste em ser bem-humorado enquanto estoura miolos, arranca cabeças e esmaga corpos humanos.
-
-E tudo isso seguindo à risca o processo de engessamento de histórias aplicado pela Marvel. É possível sentir a tensão que deve ter havido entre os roteiristas e entre quem estava com o dinheiro. Sim, os roteiristas serem os verdadeiros heróis faz todo o sentido para mim.
-
-Os fãs devem dizer (ouço falar) que esse personagem merece o tratamento 18 anos (ou 16, no caso do Brasil) porque sem a violência gráfica seria impossível produzir um filme com ele. A violência existe, sim, e é desferida não a robôs vindos de outra galáxia ou qualquer coisa feita por computador, mas humanos. Genéricos, irrelevantes, mas humanos.
-
-Outro ponto é que a violência é apenas violência. O "herói" Deadpool mata e ameaça pessoas, mas não passa de uma versão Peter Parker com uma moral bem flexível. E seu passado provavelmente conturbado até tenta explicar esse seu lado negro, mas não sem um propósito: ele conhece uma prostituta... quer dizer, dançarina... quer dizer, só garçonete de boate, mesmo. Ambos tem um passado pesado, e é isso. No processo até tenta se desculpar pelo conteúdo machista e... convenhamos, de controverso, quase não sobra mais nada. Ele é um herói mutante que não quer se vestir de amarelo com os X-Men. Ponto.
-
-E, se for pensar, o que mais cansava em todos os heróis é essa tendência mágica e sobrenatural de praticar o bem (e é um bem livre de qualquer suspeita, BTW). Ate Homem de Ferro foi "corrompido" pelo câncer do politicamente correto. São tempos sombrios para figuras como Dead Pool.
-
-E uma das grandes sacadas de casting é colocar Ryan Reynolds como o herói. Sua objeção a um uniforme verde (ele foi Lanterna Verde) e seu histórico de galã (não à toa, foi casado com Scarlett Johansson) favorecem esse jogo de anti-herói e sua aparência desfigurada. Tudo converge harmoniosamente para um anti-filme da Marvel.
-
-E é por isso que o terceiro ato é tão decepcionante. Não pelas lutas, que são divertidinhas. Nem pelos efeitos, impressionantemente feitos em computador. O que decepciona mesmo é a volta para a normalidade, o previsível e o risco zero. Já sabemos tudo que vai acontecer desde o momento em que A Gostosa é raptada. Isso é para acabar com os poderes de qualquer mutante. E eu não colocaria dessa vez a culpa nos roteiristas.
-
----
 categories:
 - writting
-date: '2018-05-19'
-link: https://www.imdb.com/title/tt5463162
+date: '2017-09-18'
+link: https://www.imdb.com/title/tt0877057
 tags:
-- movies
-title: Deadpool 2
+- animes
+- series
+title: 'Death Note: Notas da Morte'
+---
+
+Esta série japonesa se estende por mais tempo do que devia e não entende todo o seu potencial narrativo. Esta é uma história que possui altos e baixos em torno de uma ideia poderosa, e arrisco dizer que seus altos superam seus baixos. Mas sua conclusão é clichê, comercial demais para sentir-se o peso do que estava sendo discutido.
+
+Como praticamente todas as séries de animes japoneses que se baseiam em mangás, as falas revelam demais e os quadros são parados demais. Como contraponto, a arte é muito bem finalizada (os detalhes de cada demônio) e a edição de som facilita a sensação de movimento.
+
+Mas esta é uma história naturalmente parada. Seu (anti?) herói é Light, um estudante brilhante que acha um caderno que lhe dá o poder de matar qualquer pessoa do mundo simplesmente escrevendo seu nome em uma das folhas do caderno. Acompanhado desde então pelo dono original do caderno, uma entidade sobrenatural chamada de Shirigami, vamos aos poucos entendendo todas as regras de uso do caderno e a maneira com que Light planeja "limpar a Terra" de todo mal, trazendo a paz e a justiça tão desejada por todos.
+
+A parte mais fascinante de Death Note são os primeiros 10 capítulos, onde vamos acompanhando as dificuldades de um serial killer em se manter impune enquanto fica óbvio para as autoridades que alguém, de alguma forma, anda assassinando criminosos à distância. Os detalhes da investigação conduzida pelo próprio pai de Light trazem à tona a figura estereotipada de L, um super-detetive que sempre resolve seus casos e senta em cadeiras da forma mais desconfortável possível. Infelizmente este é um dos seus cacoetes. E todo herói japonês precisa ter o seu. É como eles se diferenciam.
+
+Mas o mais impressionante na figura de L é seu aspecto não-humano. Ele tem trejeitos de um vampiro que sempre vive nas trevas, tem olhos esbugalhados que dão medo, é um anti-social convicto e pensa tão rápido quanto seu inimigo. É respeitado por todos da polícia pelo seu resultado. Sua desconfiança eterna em L em Light é montada de maneira eficiente, de forma que sua participação pode ser alongada sem soar cansativo.
+
+Aliás, o embate intelectual dos dois vive na sombra, como os mistérios dos romances de Agatha Christie. Como espectadores somos presenteados vez ou outra com os detalhes das artimanhas de cada um, mas um dos aspectos principais de Death Note é deixar-nos torcendo por Light e buscando montar um quebra-cabeças com peças faltando.
+
+Isso entretém até um momento. Depois o lado comercial da série vem à tona e o que era para ser um final épico vira um reboot que, não tão brilhante quanto o primeiro, se aproveita das virtudes do antecessor para gerar novamente aquele sentimento de impotência e sagacidade.
+
+A fotografia de Death Note é sempre sombria, mesmo que seus personagens principais usem branco. O pior do ser humano poderia estar representado na figura de Light e seu lado sombrio, mas, como dita a referência obvia, Light é "luz", iluminado. Lúcifer, em outras palavras. E não há figura bíblica mais injustiçada que ele.
+
+Detendo o poder de subjugar a raça humana, ele decide acabar com os maus. Quantos teriam revelado a mesma virtude, em vez de trilhar o caminho mais fácil do poder, dinheiro e fama? Light quer fama, mas está disposto a sacrificar todo o resto para seguir seu código moral que, na visão dele, irá trazer o melhor dos seres humanos à tona, eliminando as víboras, os parasitas, as pragas da sociedade. Não é um objetivo digno de um vilão, mas de um herói. E o fato de sabermos que Light é um gênio apenas eleva suas ideias como provavelmente certas.
+
+O "filme" de 13 horas se recusa a explorar essa questão de maneira dúbia, o que o tornaria aí sim algo de respeito. Ele prefere o caminho e o final fáceis. Light ficaria extremamente desapontado, mais uma vez, com a humanidade.
+

@@ -1,19 +1,31 @@
 ---
 categories:
 - writting
-date: '2012-04-20'
-link: https://www.imdb.com/title/tt2142055
+date: '2018-03-26'
+link: https://www.imdb.com/title/tt3409848
 tags:
+- cinemaqui
 - movies
-title: Xingu
+title: Zama
 ---
 
-É um sintoma relevante do Cinema no Brasil que os temas mais polêmicos, salvo jovens clássicos como [Cidade de Deus] e [Tropa de Elite], sofram uma obliteração criativa. Xingu, novo trabalho de Cao Hamburguer na direção (O Ano em Que Meus Pais Saíram de Férias), com produção de Fernando Meirelles (que dispensa apresentações), não consegue fugir desse estigma completamente, embora tenha seus bons momentos.
+Em algum momento na metade de Zama, da diretora argentina Lucrecia Martel, o protagonista se muda para um casebre pior de onde estava e começa a ser rodeado de mulheres que não existem. Esse poderia ser o clímax de um desejo reprimido que foi aumentando na mesma medida que suas frustrações, perdido em uma terra de ninguém. No entanto, como o filme nunca muda de tom, ainda estamos no mesmo estado de quando o filme começou. Exceto o sentimento de tempo perdido e um sono épico.
 
-Baseado nas experiências que três irmãos passaram durante uma expedição de reconhecimento de áreas inabitadas no Brasil, o filme traça uma relação entre os históricos Villas-Bôas e suas versões fictícias. Com narração em off de um dos irmãos o filme segue um rumo didático e burocrático, salvo os empolgantes momentos de ação ampliados pela ótima trilha sonora. Os pensamentos narrativos depois de um certo momento nem mais importam, pois o impacto gerado pelo encontro entre os índios e a nossa civilização dispensa palavras (em que língua deveriam elas ser ditas?).
+O protagonista é Don Diego de Zama (Daniel Giménez Cacho), um oficial menor da colônia espanhola em continente sul-americano. Assim como o romance existencial de Antonio Di Benedetto, onde apesar de coisas aconterem nada realmente sai do lugar, a diretora/roteirista Lucrecia Martel executa o mesmo processo usando a linguagem cinematográfica, o que se revela um tremendo porre artístico.
 
-Porém, em troca dos ótimos momentos silenciosos entre dois povos no meio da mata virgem há uma mensagem idealizada e romantizada a respeito da situação dos ingênuos e incapacitados índios após a chegada dos brancos maldosos e gananciosos que simplesmente fica difícil de engolir. Podemos sentir esse ponto de vista unilateral não apenas nos representantes do governo central estereotipados, mas também na fotografia granulada que nos remete para uma realidade utópica e distante. Se não é o bastante, a própria visão desgarrada do mundo real de Cláudio Villas-Bôas é destruída por ele próprio e seus impensados atos.
+Zama está o tempo todo delirando; ele ouve de alguém a história de um peixe que nasce e luta para se manter na água, que o tenta expulsar todo tempo. O peixe vive sempre à margem do rio. Assim como Zama, que começa o filme às margens de um rio, observando nativos. No final ele se encontra no rio, mas não da mesma forma. Ainda assim, e sabendo que haverão transformações irreversíveis para ele, permanece o sentimento de que nada mudou.
 
-[Cidade de Deus]: {{< relref "cidade-de-deus" >}}
-[Tropa de Elite]: {{< relref "tropa-de-elite" >}}
+O bandido mais procurado e mais injustiçado neste mundo é Vicuña Porto (Matheus Nachtergaele), que é um daqueles criminosos brasileiros que povoaram a pior nação da América do Sul: a que fala português. Disfarçado entre os colonos, já passou-se muito tempo desde que ele virou uma lenda viva, o que quer dizer que praticamente todos os eventos negativos do vilarejo e ao seu redor a ele são atribuídos. Ele virou o bode expiatório que a História há de imortalizar.
+
+Essa é uma produção argentina/brasileira, mas mais argentina que brasileira. É um filme de baixo orçamento e com aqueles roteiros intraduzíveis. Ele não quer dizer (quase) nada; apenas acompanhar a vida de Zama, um corregedor às margens da Coroa Espanhola e que nunca chegará perto do centro.
+
+Aquele vilarejo onde vivem é o purgatório, o limbo ou algo que o valha (interpretação minha). O corregedor nunca troca de roupa, que é vermelha e que referencia o seu final. Ele está vendo pessoas que não existem e as que existem não lhe dão atenção ao seus choramingos egoístas. Ele quer voltar para a esposa e os filhos, mas o governador está mais interessado em um relatório de um livro sendo escrito sem o aval do governo.
+
+Ao ar livre nunca vemos a luz do Sol e dentro das casas não vemos mais miséria só por causa da escuridão. As pessoas nesse filme estão alheias à realidade. Um homem careca faz sexo com uma das belas filhas de um dos moradores, que se preocupa que seja mais uma vez, claro, obra de Vicuña Porto. Quando descobrem que o corregedor esteve lá, logo surge mais um causo: Zama matou Vicuña.
+
+Pensando agora em épicos, os livros de História perdem um pouco do brilho através das lentes de Lucrecia Martel, que esfrega em nossa cara como a realidade pode ser registrada baseada em boatos de pessoas que não estão interessadas na verdade. Embora isso não esteja relaconado com a história de Zama (que é fictício), imagine o quanto não foi inventado de todos os personagens que um dia a história escrita imortalizou.
+
+A primeira metade de "Zama" é tão arrastada que seu terceiro ato por comparação é um filme de ação. Há algumas cenas com índios que se pintam de vermelho terra que é o forte da produção. Há uma certa mensagem aí sobre a chegada do europeu de fato sobre a terra que conquistou. Ficam todos vermelhos. Mas como nos mostra a diretora, a vida real é bem mais complexa que isso.
+
+Todas músicas são interpretadas pelos Índios Tabajara. Isso seria uma bela piada brasileira, habituados que nós estamos ao Caceta e Planeta; mas pelo jeito é real, mesmo. Então... interessante.
 

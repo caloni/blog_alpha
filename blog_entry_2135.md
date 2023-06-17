@@ -1,34 +1,20 @@
 ---
 categories:
 - writting
-date: '2020-08-04'
-link: http://www.loretto.com.br
+date: '2021-09-13T23:04:22-03:00'
 tags:
-- coffee
-title: Loretto
+- cinemaqui
+- movies
+title: Los Lobos
 ---
 
-Os cafés da Loretto se dividem em três tipos: Bourbon, Espresso e o Gourmet. Bourbon é o mais doce deles, com um sabor mais presente que o aroma. Bom, talvez nenhum desses cafés seja lembrado pelo aroma, e parte disso é por causa de seu sistema de vendas nem sempre entregar os grãos mais frescos ou melhor torrados. Este é um café de exportação e com o mercado agitado fica difícil reter talentos.
+Esta produção mexicana não foge do padrão e preenche a cartilha dos filmes independentes que vemos todos os dias, com imigrantes, periferia, trabalho e pobreza. Esse é o chamariz para entrar nos festivais mundo afora. É praticamente obrigatório. Se você não estiver produzindo filmes com gente não-branca você é um racista e é melhor ser cancelado. Los Lobos é uma pequena ode aos novos tempos, onde histórias de imigração são recontadas. Não as antigas dos fugitivos de guerra, mas as novas, sobre a pobreza dos países vizinhos e a desgraça dos vícios.
 
-Porém, ele não é um café caro dentro dos padrões gourmet e pode fazer companhia como uma opção melhorzinha do que os cafés que se acham no mercado. O Espresso eu senti uma força maior na torra. O sabor é idêntico ao aroma dos grãos, e você sente o fruto (adocicado) e um tanino muito presente. O corpo é leve, mas preenche toda a boca com um aveludado e um final levemente amargo.
+Em seu núcleo abre-se uma janela de observação desses dois meninos presos em um apartamento em um bairro humilde de Albuquerque, nos Estados Unidos. Eles e sua mãe acabaram de chegar do México e estão reconstruindo sua vida após seu pai terminar a dele. Não se sabe exatamente por que precisaram sair de onde moravam, então podemos preencher com nossos preconceitos. Há uma revelação próxima do final, uma cena única, poderosa, onde "o mistério da lâmpada" do filme se revela ao espectador, com uma trilha sonora bacana.
 
-Tanto o Bourbon quanto o Gourmet ficaram mais próximo daquele suco de café que quem não curte amargo deve apreciar. Tanto que não precisa da mesma quantidade de Bourbon para o mesmo volume de água.
+Los Lobos não tem muitos diálogos e seu ritmo é lento. Ele deve implorar pela paciência do espectador, principalmente por não mostrar nada de novo. O seu fiapo de história será desvendado depois que nos acostumarmos com seus personagens, uma técnica muito útil em séries de TV que pode ser usado em filmes após a primeira hora: faça-nos acostumar com seus simpáticos heróis e depois tanto faz o que eles estiverem fazendo, vamos acompanhar.
 
- - 2018-02-04 Bourbon. O aroma e gosto da avelã e o equilíbrio entre um leve amargor e o tânico tornam este café um dos mais balanceados e leves que já provei. Passado na aeropress após moer do grão.
+Eu gostaria de dizer algo bacana sobre essas crianças, mas só consigo pensar em seus intérpretes. Irmãos na vida real, Maximiliano e Leonardo Nájar Márquez são figuras infantis naturais em qualquer cotidiano. Eles funcionam e o diretor Samuel Kishi precisa apenas ligar a câmera. O mesmo acontece com o casal de senhorios da família, o simpático casal Cici e Johnson T. Lau. Enquanto Cici emerge timidamente um pouco de humanidade prática no dia-a-dia dos meninos o Sr. Lau protagoniza a cena mais profunda do longa, quando ele está desenhando sua árvore genealógica na parede e explica o porquê de um dos galhos estar com a foto arrancada: "não aceitamos cholo na família". Se você não sabe o que quer dizer "cholo" precisa cavar mais fundo na realidade dos mais pobres de espírito ou entender a riqueza das tradições.
 
- - 2018-03-19 Espresso. Essa versão do café do Espírito Santo do Pinhal tem uma torra mais intensa e um amargor equilibrado em corpo médio com um tânico no retrogosto médio. Moídos 23g e passado na Aeropress.
-
- - 2018-05-22 Espresso. É o café com gosto de café do Espírito Santo do Pinhal, no limite entre Minas Gerais e São Paulo. Amargo e forte na medida certa, você ajusta com a quantidade de pó. O corpo é médio pra forte. Para mim 20g em um aeropress é viciante porque é leve, mas para os que gostam de mais força recomendo 30g.
-
- - 2018-09-14 Bourbon. São fracos demais? Esse Loretto possui um equilíbrio entre amargor, doçura e corpo imbatíveis. Seu doce desagradará o brasileiro médio, que gosta de um soco no estômago. Passados 23g em moagem fina por 1.5 min na Aeropress com 350ml de água próxima de ferver.
-
- - 2019-01-23 Bourbon. Cold Brew de casa extraordinariamente excelente; você começa a sentir vários sabores que vão se alterando conforme o gelo derrete e torna a bebida mais suave.
-
- - 2019-02-10 Premium Espresso. É um dos melhores 100% arábica com ótimo custo/benefício do mercado. Os caras torram os grãos a semanas de vender no Mercado Livre. Essa é a versão adocicada e ligeiramente mais intensa que o Bourbon, ótimo para fazer um espresso. Mas como eu só tenho aeropress quebra o galho.
-
- - 2019-02-24 Blend Caseiro. Este espresso arábica e bourbon na prensa francesa me impressionou pela delicadeza das notas doces, que por contraste torna o 100% espresso um café de quem dá o toba.
-
- - 2019-04-28 Bourbon, que é doce, corpo leve pra médio, retrogosto esquecível, mas com uma leve lembrança que dá vontade de passar mais uma caneca.
-
- - 2019-05-20 Anda com os grãos muito feios. O sabor tem mudado um pouco também, sem tantas nuances.
+A interpretação de Martha Reyes Arias como a mãe é a mais sóbria possível. Incomoda seu equilíbrio, mas admiramos sua dignidade. Ela é uma mulher linda escondida nos trapos que trouxe consigo e na simplicidade de suas ações. Sua força em criar seus filhos sozinha está igualmente escondida, e apenas um olhar mais atento ou com mais experiência sentirá sua dor.
 

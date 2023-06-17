@@ -1,16 +1,16 @@
 ---
 categories:
 - writting
-date: '2013-12-29'
-link: https://www.imdb.com/title/tt2347569
+date: '2015-01-04'
+link: https://www.imdb.com/title/tt1605717
 tags:
 - movies
-title: Frances Ha
+title: Frank
 ---
 
-Nunca vi um filme tão alto astral com uma personagem tão... errada. E fascinante. O mundo de Frances é medíocre. Ela é uma dançarina (ou gostaria de ser) e como todo artista que se preza, tenta viver em Nova York. Porém, como sua amiga bem observa, só um artista rico para se manter próximo da Broadway. Acompanhamos, então, suas vicissitudes, inicialmente com sua melhor amiga, que parece ser a única que lhe resta. Ela é "inamorável", como um amigo costuma dizer. Pegamos partes de sua personalidade de seu convívio com as pessoas.
+As bandas de música cada vez mais se medem pela quantidade de seu público online: pessoas que baixam seus singles, seguem nas redes sociais, compartilham e curtem. Porém, nem toda banda tem ou precisa de um público. São coisas independentes. Mas é claro que essa não é a opinião do jovem Jon (Domhnall Gleeson), que luta para ter a inspiração de um grande compositor e durante o processo já tem uma conta no Twitter onde compartilha sua evolução como se já fosse um pop-star.
 
-O filme é em preto e branco, o que o torna mais artístico, mais realista e mais... belo. Talvez essa proximidade dos diálogos rápidos (e muitas vezes precisos) com roteiros de Woody Allen peça tanto um filme em NY quanto em P&B. As músicas também seguem esse tema artístico, tratando a vida de Frances como um palco em um teatro. As músicas começam e terminam em pontos determinados por seu estado de espírito ou alguma ação pontual (correr até o caixa eletrônico mais próximo, visitar Paris em um fim-de-semana).
+Forças do destino o fazem virar o tecladista de uma banda extremamente underground em que seu maior expoente é Frank (Michael Fassbender), um sujeito que tem um trauma que o faz usar uma cabeça gigantesca. Jon se junta ao grupo durante a confecção de seu álbum e aos poucos ganha a confiança de Frank a ponto de influenciar nas decisões de negócio da banda, algo que irrita obviamente todos os seus membros.
 
-Nada disso seria lá muita coisa sem a participação inspirada de Greta Gerwig, que cria sem dúvida uma personagem memorável e complexa. Nem sempre conseguimos entender suas decisões, mas mesmo assim, de alguma forma, a apoiamos. É um mundo grande e cruel lá fora. Só o fato de alguém o estar desafiando é digno de nota, respeito e inspiração.
+A questão que o filme coloca é se o sucesso é algo definido pelas massas ou é algo já presente em qualquer empreitada bem-sucedida para os envolvidos (como a criação do já citado álbum). No entanto, sem apresentar corretamente os envolvidos, o filme fica na metade do caminho em sua história, apenas tocando a superfície de um conceito fascinante. O que é uma pena, pois Michael Fassbender tem uma performance fenomenal mesmo com seu rosto completamente coberto.
 

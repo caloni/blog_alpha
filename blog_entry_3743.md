@@ -1,33 +1,39 @@
 ---
-categories:
-- writting
-date: '2018-04-09'
-link: https://www.imdb.com/title/tt5607038
-tags:
-- cinemaqui
-- movies
-title: Todo Clichê do Amor
+categories: []
+date: '2007-08-27'
+title: ToDoList
 ---
 
-Tenho o prazer desta vez de poder falar sobre um filme nacional que não dependeu de quaisquer incentivos públicos, produzido de forma completamente independente. E se fazer arte é um ato político, a produção de Todo Clichê do Amor diz muito mais sobre a época que vivemos do que qualquer manifestação na Paulista.
+Vou aproveitar que o recente blogue do meu amigo resolveu falar um pouco sobre administração de tempo e citar a ferramenta que venho utilizando há quase um ano para tentar organizar minhas idéias, minhas tarefas e minha vida. Assim como o Kabloc, eu estava em sérias dificuldades para tentar fazer e organizar todas as coisas que eu tinha em mente. Ainda continuo com dificuldades para fazer, mas o mais importante é que agora eu tenho um roadmap de para onde eu quero ir.
 
-Com toda a originalidade possível que um projeto desses implica, a produção de Daniel Gaggini e a direção, roteiro e atuação de Rafael Primot elencam três protagonistas mulheres em torno de recortes exóticos do dia-a-dia dos relacionamentos amorosos. O objetivo é brincar com os clichês desses filmes de amor ao mesmo tempo que se faz um. Temos uma prostituta que ao mesmo tempo que cuida de um cliente de sadomasoquismo conversa com o marido -- ator pornô -- a respeito de seu desejo imediato de ter um filho. Enquanto isso, madastra e enteada trocam farpas sobre a vida ao terem que se encontrar sobre o enterro do pai/marido. E para fechar a trilogia a paquera inocente entre dois jovens que, diz-se, vivem mundos e destinos distintos, mas que no fundo... no fundo sempre há um clichê para juntá-los.
+Eu sempre ouvi falar nesse programa desde que freqüento o The Code Project, um sítio onde programadores publicam seus minicódigos para serem aproveitados (e avaliados) por toda a comunidade. Possuo algumas pequenas contribuições por lá.
 
-Este filme brinca com o sexo e o seu orgasmo é o clichê romântico. E orgasmos aqui nunca são alcançados, quase como uma metáfora sobre a definição do amor. Ou como a comédia no filme, pois apesar de estarmos presenciando o humor em momentos pontuais de histórias que arriscam ser leves, todo o texto existencialista que se finge de cotidiano não nos deixa desvencilhar do drama inerente de cada história. É como se a profundidade que Rafael Primot alcança com essas histórias sabotasse sua própria ideia de humor atrelada ao drama.
+O fato é que por preguiça de testar e pelo seu screenshot inicial, me pareceu um programa demasiado complexo e pesado. Por isso passei vários anos sem sequer baixá-lo.
 
-Isso quer dizer que o material apresentado neste filme, apesar de emular as narrativas frustrantes de globochanchadas ou até de romances piegas, acaba soando imensamente mais complexo, o que se torna fascinante por si só. Há vários momentos que a força da história não reside nela mesma, mas na auto-análise que o filme nos força a fazer, desconstruindo sua narrativa em prol da observação aguçada do que torna um clichê do amor uma matéria-prima tão essencial para a produção de histórias.
+No entanto, houve um momento em minha vida em que eu precisava definitivamente reunir e organizar todas as minhas idéias e atividades para conseguir concluí-las, tanto no trabalho quanto na vida pessoal. Houve então uma pequena pesquisa de minha parte de programas que fizessem o que eu precisava. Foi aí que eu baixei e testei o ToDoList, um programa pequeno, portátil (posso levar em meu PenDrive) e muito flexível. Eis abaixo o screenshot original do artigo do Code Project:
 
-Tome, por exemplo, as narrações em off. Elas começam com os homens, mas dizem muito mais sobre as mulheres, objetos de desejo. E elas não são desejadas como objetos, mas como conceitos de seres humanos. E apesar de ser muito difícil enxergar um ser humanos neste filme feito de momentos, não é muito difícil perceber como uma atendente de hamburgueria que aprende língua de sinais para ajudar jovens carentes já é um pouco mais que um entregador aleatório "como qualquer outro que você vê na cidade", como ele mesmo se define (a atuação é do próprio diretor).
+Bem, me parecia mais do que eu precisava. No entanto ele é flexível, e suas colunas podem ser configuradas da maneira que lhe aprouver. Abaixo um screenshot de como utilizo o ToDoList:
 
-E esse é um dos elementos dos filmes românticos. Nunca é sobre as pessoas, mas esse sentimento que, como um vapor, paira no ar, e que ao tentar definir ele se esvai. É sobre comunicação, também. Temos aqui uma abertura para absurdos como nunca antes visto, já que o próprio filme em seu título (e na fonte dos créditos iniciais do seu título) já reverencia o lugar-comum, então nada mais justo que tentar fugir do comum o exarcebando. É apenas através dessa forma que é concebível um casal onde ela não enxerga e ele não tem paladar. Ambos se complementam de uma das maneiras mais estranhas e românticas possíveis. E esse casal simboliza que Rafael não está brincando em serviço.
+{{< image src="todolist.png" caption="" >}}
 
-E apesar disto, mais um símbolos do lugar-comum, as histórias que se entrelaçam, é visto aqui como ferramenta de entretenimento. No começo acompanhamos a conversa entre madastra e enteada como a realidade número um, mas conforme a história avança dicas importantes para as outras histórias que se iniciam serão lembradas nestas, ativando a isca plantada em nós, espectadores, já acostumados a tentar desvendar onde cada história se encaixa na outra. Pode ser uma ficção dentro de outra no melhor estilo Mundo de Sofia (o livro de filosofia de Jostein Gaarder), ou pode ser algo mais poético como as vidas que se cruzam em Um Beijo Roubado (o filme de Wong Kar-Wai de 2007). O mais importante aqui é que não nos importamos (muito) em desvendar o processo, mas ele fica no nosso inconsciente, o que aumenta nossa atenção; cada detalhe das historietas poderá ser importante para montar este quebra-cabeças, incluindo as formas de enxergar o amor de cada personagem.
+Entre algumas coisas legais que gosto nesse programa que me fizeram ficar com ele, consigo me lembrar da seguinte lista:
 
-E por falar em personagens, não é muito difícil se sentir apaixonado ao admirar o sorriso aberto de Débora Falabella, a atendente da lanchonete que poderia ser uma versão resumida da já-resumida atendente da primeira história do longa de Hsiao-Hsien Hou (Three Times). Vemos seu sorriso ao vivo através dos olhos do atendente "humildão" que sabe se expressar melhor do que imaginaríamos, mas mesmo a foto do sorriso de Falabella no quadro de funcionária do mês já seria suficiente para inspirar suspiros colegiais. E o fato de Falabella manter uma história com tão pouco texto a ser dito é o que torna seu sorriso mais poderoso. Ela é falante de libras, a língua de surdo-mudos, e ela brilha em uma cena inusitada onde sua fala é dita em libras. Não sabemos na hora o que é dito, e isso é importante para entendermos a força que a atriz possui naquele singelo momento.
+ - Posso levar onde quiser e salvar minhas configurações em um arquivo ini.
+ - Ele fica na área de notificação e posso ativá-lo com um atalho global.
+ - Ele conta o tempo de uma tarefa se você quiser.
+ - Ele exporta as listas em formatos como Excel, HTML e texto puro.
+ - Ele é pequeno e não precisa de instalação.
+ - O código-fonte é disponível e está sempre sendo atualizado.
+ - Posso salvar minhas listas em XML (padrão) ou encriptado.
+ - Pode ser estendido por meio de plugins.
 
-Difícil é a tarefa de Marjorie Estiano, que não se encaixa em nenhum dos quesitos do que nós homens chamamos de "mulherão". Ela, Estiano (desculpem, não resisti), tem que performar uma prostituta de luxo com um certo ar misto entre familiaridade e incompetência. Consegue deixar a marca de uma garota que fez isso a vida toda, ou trata sua profissão como uma banalidade. E aqui o humor funciona melhor, não nas falas, mas na situação que a fala denota. Ela liga no meio do programa fazendo uma lista de mercearia. O tom que ela emprega para citar os usos do chantily demonstra mais a segurança da atriz do que seu uso do famigerado e desgastado chicote de BDSM.
+Bem, ele sozinho não resolveu meus problemas. Assim como o Kabloc disse, é você, e unicamente você, o responsável por organizar a sua agenda. E eu tive que passar muito tempo junto da minha para conseguir encontrar a maneira ideal para eu trabalhar. Cada um tem a sua.
 
-Enquanto isso o dueto teatral entre Clarissa Kiste e Maria Luísa Mendonça funciona justamente por estar inserido em um filme teatral. As falas de Clarissa são ditas em um tom levemente ficcional, o que lembra o estereótipo sem largar a personagem. E Maria Luísa entrega uma mulher à beira de um ataque de nervos sem perceber que ela evapora diante da postura firme, pseudo-melancólica e com um quê de mimada de Clarissa. Clarissa faz uma surda que usa aparelho, mas este é um detalhe que nos lembra mais da importância da inclusão de deficientes em filmes do que um aspecto do personagem, estereótipo ou não. Ele é usado em momento climático, mas não precisaria. Se trata daqueles elementos de cena que se pensa mais sobre ele do que na verdade mereceria.
+Há um tempo atrás não acreditava muito em idéias, mas a partir de um dado momento um outro amigo meu conseguiu me convencer que idéias são os verdadeiros motores do mundo, e um mundo sem idéias seria um mundo de fazedores de coisas sem cabeça. Não adianta ser muito bom no que se faz se não se pensa no que se faz. Essa é um boa razão para explicar por que boas idéias permanecem para sempre, mesmo que seus criadores já tenham morrido há muito tempo.
 
-Além de atuar, Rafael Primot dirige aqui com absoluta tranquilidade e uma certa petulância, que pode ou não fazer parte do jogo dos clichês. Apostando nas cenas mais fechadas ele mantém o orçamento sob controle e nos traz mais para a intimidade daquelas pessoas. Foram sete dias de filmagens com pouquíssimo tempo para ensaios que realizaram um pequeno milagre que merece ser visto na tela de cinema. Há algo aqui querendo ser dito sobre o processo de "amorização" do cinema, e pode ser algo que não havia sido dito antes. Ou, sei lá, talvez nós estivéssemos entretidos demais nos velhos e eficientes clichês do gênero.
+Por esse motivo que uso o ToDoList para catalogar e listar todas as idéias que tenho sobre o que pretendo fazer. Como você deve adivinhar, a lista nunca acaba e só tende a crescer. Mas tudo bem, o objetivo não é acabar, mas sim não perder a idéia que se teve, pois ela aos poucos pode ser extendida e aprimorada no próprio ToDoList, até chegar a hora de implementar. Quando for a hora de botar a mão na massa muito dos problemas já foi pensado e analisado naqueles momentos de divagação no banheiro, no ônibus, ou na sala de aula. Os momentos mais frutíferos, aliás.
+
+Porém, é claro que catalogar tudo também não é tudo. É preciso agir. Por esse motivo costumo dividir minhas tarefas em duas listas (fora a da empresa onde trabalho): Curto Prazo e Longo Prazo. As tarefas no curto prazo são as mais imediatas, e representam as coisas que devo fazer antes da semana, do mês ou do ano acabar. Geralmente dou uma olhada diária nessa lista. As de longo prazo não são menos importantes, mas possuem um tempo de finalização mais longo, ou porque não são interessantes atualmente, ou porque fazem parte do meu projeto de vida, algo que se deve pensar mais e agir aos poucos. Costumo dar uma olhada semanal nessa lista.
+
+Enfim, cada pessoa tem sua maneira de encarar problemas, catalogar idéias e fazer acontecer. Essa ferramenta, na minha opinião, pode ajudar.
 

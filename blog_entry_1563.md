@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2019-05-30'
+date: '2018-08-03'
 tags:
-- beer
-title: Faxe IPA
+- food
+title: Fazenda Bom Destino Padre Fialho MG
 ---
 
-É uma IPA mais fortinha, com amargor sólido. É interessante, mas ainda prefiro as outras cores da latinha.
+Essa foi a última safra que adquiri antes de suspender as entregas do Grão Gourmet. Bom café. Docinho na boca (mesmo sem açúcar) e que requer pouco pó para quem não gosta daquele extra-forte do mercado.
 

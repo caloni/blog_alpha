@@ -1,26 +1,42 @@
 ---
 categories:
-- writting
-date: '2011-10-17'
-link: https://www.imdb.com/title/tt0770703
+- playing
+date: '2022-06-19T21:47:14-03:00'
+link: https://www.chess.com/game/live/49423127947
 tags:
-- movies
-title: Qual Seu Número?
+- chess
+title: Dois peões ganham de um se há torres no tabuleiro?
 ---
 
-Aparentemente não há limites para a "criatividade" de Hollywood para comédias românticas. Quem diria que a Cindy (Anna Faris), da franquia Todo Mundo em Pânico, seria par romântico com o [Capitão América] (Chris Evans)? Um desafio interessante para ambos, visto que seus respectivos currículos de "menina fácil (e alvo de socos) em comédia-paródia" e "super-herói simpático" são ligeiramente diferentes nesse novo longa de Mark Mylod (Quem é Morto Sempre Aparece).
+{{< image src="board.jpeg" >}}
 
-A história gira em torno da fascinação feminina pelas pesquisas de revistas femininas (nesse caso, a Marie Claire). Ally (Faris), durante os preparativos para o casamento de sua irmão Daisy (Graynor), percebe que o número de seus parceiros sexuais está ligeiramente acima da média nacional (o dobro) através de uma pesquisa da citada revista, e, de acordo com a mesma reportagem, mulheres que passam dos 20 parceiros acabam nunca se casando. Por coincidência, falta apenas um parceiro para que ela preencha os 20 redondos, e fatidicamente ela acaba preenchendo "a vaga" com quem não desejaria se casar. Desiludida, tem a "brilhante" ideia de reciclar seus ex-parceiros para conseguir não fugir às estatística da reportagem da revista feminina e evitar a maldição de ficar pra titia.
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.06.20"]
+[White "cavaloni"]
+[Black "daycri83"]
 
-Essa proposta inicial (!?) é o que precisamos para dar início à caça de seus ex-namorados. Com potencial para ser divertido, soa bobo na maior parte das piadas, ainda mais quando percebemos cedo que a história já tem final definido, como quase sempre em comédias do gênero, mas que aqui infelizmente ainda nem a reviravolta gera o mínimo de tensão nos personagens.
-
-Chris Evans, por sua vez, demonstra um apreço maior na simpatia de seu personagem, e é inevitável que ele ganhe carisma ao longo da trama, e esse inevitável é tanto por mérito de Evans quanto pela antipatia de Anna Faris, que parece mais determinada à comédia do que qualquer aspiração romântica que o filme possa ter.
-
-Consciente da espécie de "road-movie metafórico" produzido, o diretor tenta escolher transições de planos que acabam chamando mais atenção para si mesmo que para o que está ocorrendo na tela. Pior ainda, porém, são as inconstantes câmeras tremidas, cujo motivo desconfio seja forçar a urgência nas ações de Ally, mas basta um momento de pausa para percebermos que não há motivo algum para tanta pressa assim da personagem.
-
-Ciente da falta de emoção na maioria do longa, a trilha investe então na cena do casamento, apostando artificialmente em músicas românticas e consagradas em um volume nitidamente mais alto, tornando óbvio o desespero para que prestemos atenção ao destino de Ally (e é gritante a lição de moral "seja você mesma" jogada às pressas no terceiro ato, tanto que se aproveita da irmã, que até então era um simples adorno do roteiro, tanto que uma das músicas é de um cantor favorito de Ally).
-
-Bobo e infantil do começo ao fim, ao menos possui coerência interna, e uma seleção de músicas simpática. Mas é só.
-
-[Capitão América]: {{< relref "capitao-america-o-primeiro-vingador" >}}
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 Nc6 {Essa é uma boa defesa
+contra o Gambito Tennison, pois protege a Dama contra a armadilha do xeque
+descoberto do bispo.} 6. O-O h6 7. Nf3 e5 8. Re1 Bd6 9. Nc3 Bg4 10. h3 Bh5 11.
+Ne4 Nd4 12. Nxf6+ Qxf6 13. Be4 O-O-O 14. Qd3 Bc5 ({Aparentemente essa linha
+deixaria as negras ganhas porque minha torre não consegue se mexer.} 14... Bb4
+{-4.43} 15. Qe3 {-4.24} 15... Bxe1 {-4.47}) 15. Nxe5 {Pus tudo a perder
+novamente contando com o xeque descoberto em cima da Dama (mais uma vez) não
+vendo que isso deixava a minha Dama desprotegida contra o xeque descoberto do
+adversário.} 15... Nf3+ 16. Qxf3 Bxf3 17. Nxf3 Rhe8 18. Bxb7+ Kxb7 19. Bd2 Qxb2
+{E de repente eis que meu adversário entrega sua Dama também, em troca de uma
+Torre.} 20. Reb1 Qxb1+ 21. Rxb1+ Ka8 22. Bf4 Re2 23. Bg3 Rxc2 24. a4 g5 25. Rf1
+Rdd2 {Agora ele entrega outra Torre, facilitando para mim.} 26. Nxd2 Rxd2 27.
+Bxc7 Ra2 28. a5 Kb7 29. Bd8 Bd6 30. g4 Bc7 31. Rb1+ Kc8 32. Bxc7 Kxc7 33. Rb5
+Kc6 34. Rf5 a6 {Agora era a hora de trazer o Rei e não ficar brincando de dar
+xeque com a Torre.} 35. Rf6+ Kb5 36. Rf5+ Kc6 37. Kg2 Rb2 38. Rxf7 Rb5 39. Rf6+
+Kb7 40. Rxh6 Rxa5 41. h4 gxh4 42. Rxh4 Rb5 43. f4 a5 44. g5 Kc8 45. g6 Rb8 46.
+g7 Kd7 {Th8 já liquida a partida; mas não, vamos deixar mais emocionante.} 47.
+f5 Ke7 48. Rf4 Kf7 49. f6 Ra8 50. Kg3 a4 51. Rh4 {Toda a questão em torno dessa
+final era impedir a promoção do adversário usando a Torre e levar meu Rei para
+apoiar a promoção de algum dos peões. Agora pensando em retrospecto faz todo
+sentido.} 51... a3 52. Rh8 Rg8 53. Rh2 Ra8 54. Rh8 Rg8 55. Rh2 Ra8 1/2-1/2
+```
 

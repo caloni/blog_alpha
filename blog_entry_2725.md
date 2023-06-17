@@ -1,22 +1,24 @@
 ---
 categories:
 - writting
-date: '2018-10-23'
-link: https://www.imdb.com/title/tt6257174
+date: '2016-02-23'
+link: https://www.imdb.com/title/tt3183630
 tags:
 - movies
-title: O Mau Exemplo de Cameron Post
+title: O Menino e o Mundo
 ---
 
-O Mau Exemplo de Cameron Post é um dos melhores exemplos sobre hipocrisia e lavagem cerebral religiosa quando o tema é homossexualidade. Ele é tão bom assim porque ele espalha as incoerências e intolerância durante um suposto tratamento para uma cura gay. E quer melhor momento para rever esse tema?
+O Menino e o Mundo é uma animação sobre os olhos de um menino enxergando o mundo. E de fato ele consegue isso, com maestria: o mundo que vemos é estático, simplista, ingênuo e dramatizado até a última gota de tinta.
 
-Estamos nos anos 90 e a Cameron Post do título, interpretada por uma surpreendentemente intensa (apesar de sua cara de novata) Chloë Moretz, é uma jovem adolescente que participa de um grupo de estudos da Bíblia com sua namorada. Sim, você já viu onde isso vai dar. Ao serem descobertas "no flagra" Cameron é internada em um centro de tratamento gay iniciado por uma psicóloga de araque que curou o próprio irmão.
+Conta a história desse menino de um lugar isolado que, quando o pai parte de casa, vai atrás dele, e em uma mini-aventura ele descobre que há forças conflitantes no mundo. De um lado um latifundiário do algodão; do outro escravos... ops, funcionários colhendo e fabricando tecido; do outro os militares... ops, a polícia, aparentemente ditatorial; e um pouco mais longe, o capital estrangeiro, dominando tudo e a todos.
 
-Este não é um internato pesado como um sanatório, o que quer dizer que não há de fato tentativas coercitivas de manter os jovens fora das tentações do "pecado". São apenas pessoas religiosas brincando de ser terapeutas com adolescentes de pais religiosos preocupados, ou pior, indignados que seu próprio filho tenha um comportamento que repudiam.
+Apenas descrever esse cenário é risível. Tão risível quanto os traços usados pela equipe do diretor e roteirista Alê Abreu, que investe em cores e formas lúdicas, como se fosse giz de cera. O resultado é bonito, poético e pobre. Tão pobre quanto a ideologia marxista por trás de sua história, em um drama que não possui heróis ou vilões: apenas a imaginação nefasta de uma criança não tão jovem assim.
 
-Isso quer dizer que alguns dos jovens encaram isso a sério porque já estão condicionados a obedecer autoridades e porque nessa fase da vida os hormônios podem indicar várias coisas sobre o próprio corpo. Há a devida representatividade que hoje é norma, onde homens e brancos fazem parte dos que tentam de fato se converter, e os indígenas, latinos e a Moretz são os que questionam o sistema, então não se preocupe em ir assistir. Além disso, os líderes religiosos que comandam o local possuem o estereótipo daquele pessoal que organiza cultos suicidas (ou talvez religiosos lembrem ambos os grupos): são gentis, sempre tentam falar e agir calmamente e parecem saber tudo sobre você (embora não).
+Mas o filme não é apenas pobre de espírito: é covarde, também. Explora uma situação para convenientemente jogá-la para o passado, embora esteja com os olhos no presente. Dessa forma se exime de qualquer imperfeição desse universo fantasioso, pseudo-surreal, que talvez exista em uma realidade alternativa, do alto de um terraço gourmet de um artista que aprendeu a venerar seu dinheiro público espalhando propaganda doutrinária. Não à toa, o patrocínio é anunciado como do BNDES, Petrobras e por aí vai a valsa. Já sabemos onde isso chega:
 
-Por isso a melhor parte do longa são as contradições e hipocrisias que vão sendo reveladas aos poucos. A minha favorita é quando uma colega de Cameron durante o confessionário faz uma crítica ofensiva à garota, a coordenadora comenta que Cameron pode até não concordar com ela, mas precisa respeitar a sua verdade. Ora, ora, mas é exatamente isso que os movimentos gays pedem: apenas respeito pela sua verdade. É esse exemplo que torna o filme absurdamente superior, pois não esfrega as suas mensagens, deixando o próprio espectador chegar às conclusões necessárias (e se não estiver mal intencionado e de mente aberta conseguirá).
+Ao Oscar! Sim, o filme foi indicado a melhor animação; o mundo está polarizado, e os filhos de Occupy Wall Street estão preocupados com o verde de suas fazendas, ou é apenas uma culpa se alastrando até o terceiro mundo. Ou o mais provável: uma animação universal, embora com foco local, mas que não é falado em nenhum idioma conhecido, o que poupa os membros da academia de lerem legendas.
 
-Este é um drama leve e engraçado de assistir hoje onde há mais esclarecimento sobre os gays, mas serve igualmente de um alerta para quem ainda tem receios e preconceitos velados: olhe para si mesmo, e veja as incoerências em suas ações ou discursos para depois tentar entender o que se passa na cabeça dos outros. Cada um com sua verdade.
+Com o uso de uma trilha sonora igualmente passada e que se repete à exaustão, O Menino e o Mundo pode ser confundido com um hino cheio de cores e formas que se apresentam como uma ideia. Não nos importemos agora com o que ela transmite: isso é Cinema panfletário da melhor qualidade. É envolvente embora simplório, ritmado embora capenga. Ele consegue extrair do seu pouco o tudo que necessita falar. Não há como não gostar de um filme que consegue fazer tanto com tão pouco, embora esse tanto não seja tanto assim...
+
+O Menino e o Mundo deverá ser revisitado na próxima década. E na próxima, e na próxima. É uma história universal que diz mais sobre o contador da história do que da história em si. E nos ensina uma lição: podemos acreditar no que uma criança nos conta, mas nunca na interpretação dela por um adulto. Principalmente se esse adulto esteja do lado dos que monopolizam as armas.
 

@@ -1,25 +1,14 @@
 ---
 categories:
-- coding
-date: '2016-12-27'
-link: https://youtu.be/TWvY9ynmIDM
+- writting
+date: '2021-02-16'
+link: http://www.dolucawines.com/products/our-wines-detail/56/villa-doluca-classic-rose
 tags:
-- videos
-title: 'Vídeo: Usando clang no Visual Studio'
+- wine
+title: Villa Doluca Classic Rose
 ---
 
-Com o surgimento da infraestrutura LLVM, que possibilita a união entre diferentes ferramentas que suportam diferentes plataformas para o desenvolvimento de software, e o clang, um font-end para C/C++ que roda não só em UNIXes da vida, como também no Windows, como também no Visual Studio, tem sido uma vantagem para projetos que usam as novas features do C++ moderno, muitas ainda não implementadas no compilador da Microsoft, unir o útil (Visual Studio) ao agradável (C++ modernos via clang). Este vídeo tem como objetivo demonstrar como essa união é simples e fácil de ser realizada dentro do próprio Visual Studio. De quebra, vamos descobrir alguns problemas que podem ocorrer nessa união de toolsets e como corrigir.
+Mais um vinho dessa Vila do Luca. Esse Luca sabe fazer vinhos interessantes. Localizada na Turquia, uma das maiores produtoras de uvas, mas não de vinhos (por motivos religiosos), Villa Doluca é uma produtora e exportadora desses rótulos.
 
-Este é um guia bem básico, mas atende os requisitos de quem quer começar a mexer com essas duas tecnologias (além de aficionados pelo novo C++ que está em desenvolvimento, mas não abre mão de uma IDE tão poderosa quanto o Visual Studio):
-
- 1. Criar um novo projeto clang no Visual Studio.
- 2. Utilizar o projeto com um Console Win32 padrão e toolset Visual Studio.
- 3. Implementar uma feature ainda não suportada pelo Visual Studio.
- 4. Utilizar essa feature no Console Win32.
- 5. Corrigir e entender problemas no meio do caminho.
-
- - CLang
- - LLVM
- - C++ compiler support
- - Fold expression
+Esse Classic Rose é um dos únicos no mundo. Feito com as uvas locais Calkarasi e Kalecik Karasi, ele é muito mais encorpado que qualquer Rose que você for provar na vida. Bem seco, mas mantendo o frescor de um Rosé, recomendo fortemente obter um gole dessa bebida para ampliar seus horizontes fora do roteiro dos tintos.
 

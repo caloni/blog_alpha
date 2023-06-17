@@ -1,20 +1,10 @@
 ---
 
-Acabou a sétima temporada, então fomos para a última. A mulher deu play e assistimos o que pensávamos ser o primeiro episódio da última temporada de House MD.
-
-Só que não. Era o último. Aprendemos na última cena.
-
-Mas até então eu estava analisando como se fosse a primeira, o que rendeu alguns insights. Nem todo spoiler vem para o mal.
-
-Por exemplo: deu para entender todo o episódio. Sério. Mesmo sem ter visto nada da última temporada. Nós imaginamos as partes que faltam porque estamos o tempo todo trabalhando as lacunas de conhecimento implantadas na história. Descobrir uma parte da fórmula sendo exposta dessa forma é gratificante e ao mesmo tempo vê-se parte da trapaça de soar como um roteiro esperto e intrigante.
-
-Outro aspecto do final fascinante é como eles retomam, observam ou respeitam a conexão com Sherlock Holmes e alguns episódios das aventuras do detetive original, como forjar a própria morte. É uma homenagem e um aproveitamento do que não existe tão bem na adaptação.
+Esta série de anime adorável é sobre voltar a enxergar a ternura do dia-a-dia, a fazer do carinho entre mascotes e filhos o tema principal. Não há vilões (pelo menos não até onde acompanhei) nem reviravoltas. Apenas uma pequena múmia adorável e seus amigos. A descoberta sobre o que ela come, como ela trata uma doença e se outros compartilharão do mesmo respeito e admiração dessas criaturinhas sabendo que elas existem.
 
 ---
 categories:
-- writting
-date: '2020-09-06'
-link: https://www.imdb.com/title/tt0322629
-tags:
-- movies
-title: Houve uma Vez Dois Verões
+- cooking
+date: '2019-12-26'
+tags: []
+title: How to Make Sourdough More or Less Sour Part I

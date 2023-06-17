@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-09-23'
+date: '2015-04-29'
 tags:
-- wine
-title: Tamari AR
+- food
+title: Tarapaca Cabernet Sauvignon
 ---
 
-Malbec 2013 é daqueles momentos onde valeu muito a pena beber vinhos medíocres, pois este é sensacional. Frutado, tânico, estruturado em corpo médio pra forte.
+Continua sendo um bom custo/benefício. Geléia de frutas sem ser tão enjoativo quanto um Malbec nacional depois de oxidar.
 

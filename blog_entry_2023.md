@@ -1,24 +1,20 @@
 ---
 categories:
 - writting
-date: '2010-09-09'
-link: https://www.imdb.com/title/tt0266697
+date: '2016-12-04'
+link: https://www.imdb.com/title/tt3341582
 tags:
 - movies
-title: 'Kill Bill: Volume 1'
+title: Killa
 ---
 
-Não é preciso dizer que Quentin Tarantino é um diretor pop e cult, e uma coisa o levou à outra. Também não é preciso dizer o quanto filmes de artes marciais são um pedaço importantíssimo na cultura pop/"trash" dos anos 70 e 80. Se juntarmos esses dois universos teremos Kill Bill, um filme feito para ser um só, mas que por motivos comerciais acabou inchando e dividindo-se.
+Killa é um drama indiano de uma criança e se passa em uma cidadezinha, girando em torno das amizades do garoto na escola. É pesadamente regional, necessário ter um pouco de conhecimento dos costumes de lá, e o próprio drama é desenvolvido pelo diretor Avinash Arun de uma maneira hermética, quase impossível de tirar alguma moral, parecendo aqueles filmes que são sobre uma experiência sem maiores consequências. Felizmente, em seu terceiro ato, lá no finalzinho, ganhamos algo. O arco está cumprido.
 
-A primeira parte introduz A Noiva (Uma Thurman), uma matadora profissional que acaba traindo ou deixando seu grupo e é caçada e abatida em seu próprio casamento em uma capela no meio do nada. O absurdo da situação não poderia ser mais estilizado. O início do filme em preto e branco evidencia a crueldade milimetricamente calculada com que A Noiva é almejada.
+A interpretação do pequeno Archit Deodhar, aliás, cabe perfeitamente aqui. Ele é um garoto introvertido, que consegue ser capaz de atos generosos -- como salvar um cãozinho atormentado pelos meninos da vila -- ou ao menos seus atos podem soar generosos vistos por alguém de fora (nós, espectadores). Quando um ato é o oposto disso, como dizer que a comida dos anfitriões cheira mal, todos estão presentes. Da mesma forma, seu personagem, Chinmay, é mimado e trata sua mãe como criada. Ela sequer tem um nome no filme, e é personificada pela atriz Amruta Subhash como uma sombra apagada.
 
-Sabemos quem é Bill logo no início da trama, com seu nome escrito no lenço que enxuga o rosto ensanguentado da noiva. Sabemos também que, pela ordem da matança, ela irá sobreviver ao seu primeiro desafio de sua busca por vingança.
+O diretor Avinash Arun não tem muita pressa em estabelecer sobre o que a história se trata. O roteiro escrito a quatro mãos tampouco se decide muito por um caminho simples. É possível entender o formato geral, de criança que perdeu o pai cedo e que muda de escola constantemente, de que não se esforça por fazer amizades, mas sabe construir uma linha de influências para que ele próprio fique em evidência (o que, para alguém vindo de uma cidade maior, não é algo difícil de fazer, nem lá na Índia, nem aqui no Brasil).
 
-Mesmo assim, o Volume 1 levanta algumas questões que ficam sem ser respondidas, mas que criam uma graça na própria história da protagonista. Por que censurar seu nome? Talvez tenha um significado especial dentro do contexto da história, mas nunca ficamos sabendo. Da mesma forma, algumas decisões do diretor evidenciam sua disposição em homenagear esse Cinema asiático de raiz que tanto nos cativou em O Tigre e o Dragão já formatado como "arte". É por isso que vemos a tela dividida na cena do hospital, onde podemos observar tanto a sua fragilidade em coma quanto a crueldade de sua inimiga se aproximando com uma injeção letal. Da mesma forma, a sirene nos avisa do perigo iminente. Se algumas perguntas são deixadas em suspenso, as respostas berram em alto e bom som aos quatro cantos da tela.
+Mimado, manhoso, introvertido, autoritário e com nada em seu currículo que agrade ninguém, é um mistério por que seus amigos continuam sendo seus amigos. Quando um acontecimento deixa o garoto perturbado, é compreensível vindo de alguém tão egocêntrico, e é fácil entender por que finalmente seus amigos se distanciam (o que não explica o que acontece depois, exceto que crianças não ligam para essas bobagens).
 
-Mesmo apelando para violência gratuita, ela é estilizada e se torna menos visceral que em Cães de Aluguel ou mesmo Pulp Fiction. O anime, além do seu aspecto agressivamente expressivo, já explora o absurdo das mortes e do sangue jorrando das vítimas de golpes de espada, um efeito que se repetirá no próprio filme, dando uma espécie de prévia do surrealismo que presenciaremos nas lutas do Japão. Da mesma forma o som segue o repertório de filmes do gênero, com a espada fazendo barulho de lâmina sempre que é manuseada, ou a cabeça de um louco 88 mexendo e fazendo barulho de eco.
-
-A grande sequência do filme, apesar de artificial e soar sem propósito, possui uma técnica primorosa, pois precisa mudar de foco para acompanhar o movimento do cenário, pois não há um personagem único atrás das câmeras. E o surrealismo das cenas de luta do restaurante é incrementado pelo tom cerimonioso da própria luta e da situação de todos.
-
-Infelizmente, por ordens comerciais, o filme foi mutilado em dois e lançado em um espaço de meses no cinema. Isso torna a experiência frustrante, mas não o filme, se visto como um todo.
+Construído como um filme de experiências no estilo Conta Comigo, "Killa" é muito hermético para passar alguma experiência maior do que eventos que ocorrem com essa família que está temporariamente em um vilarejo. Não nos acostumamos com o garoto -- que nunca entendemos -- mas por algum motivo inexplicável -- empatia? -- entendemos quando um pequeno arco foi fechado logo no final do filme. Fica a sensação de um filme que acabou de começar... e terminou.
 

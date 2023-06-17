@@ -1,11 +1,16 @@
 ---
 categories:
 - writting
-date: '2022-10-13T18:40:43-03:00'
+date: '2014-03-02'
+link: https://www.imdb.com/title/tt1155592
 tags:
 - movies
-title: O Edifício Yacoubian
+title: O Equilibrista
 ---
 
-Este filme egípcio imita aqueles grandes épicos, com trilha sonora grandiosa e movimentos de câmera evocativos. Muitas vezes não sabemos o que eles invocam e sentimos vergonha pelo filme. Se trata de várias histórias que giram em torno do edifício título em sua época decadente. Uma pequena introdução histórica no começo nos conta que o prédio onipotente surgiu em tempos gloriosos do Egito, mas que isso se foi depois da guerra, quando estrangeiros compraram a sociedade e a trocaram. A moral está em decadência e grupos religiosos fanáticos começam a fazer sentido. Ao mesmo tempo é tudo um novelão, com belas mulheres, flertes, abusos e relações entre classes sociais distintas. A ousadia em filmar essa antologia é o que torna o filme palatável. A falta de vergonha da produção levanta sua bandeira do pertencimento. E as duas horas e quarenta passam tranquilamente.
+O Equilibrista é um trabalho fascinante de documentário porque explora de diversas maneiras o uso da câmera, montagem e roteiro para conseguir trazer a atenção do espectador no seu máximo em torno de um projeto que poderia muito bem virar uma reportagem sem graça de cinco minutos em um telejornal qualquer.
+
+No entanto, os esforços do diretor James Marsh (Project Nim) e sua equipe em conseguir captar a função, a relação e o espírito de cada membro da "gangue" que tornou possível que o equilibrista Philippe Petit passeasse por um cordão estendido entre as torres gêmeas na altura do seu topo é o que torna a história fascinante do começo ao fim. Porém, mais do que isso, a montagem de Jinx Godfrey merece mais aplausos ainda por conseguir oscilar entre presente e passado em um ritmo que nunca cansa, mas sempre instiga para que saibamos mais da história daquelas pessoas e de Petit. Juntando pedaços e colagens de fotos, arquivos e entrevistas, tanto a montagem de Godfrey quanto a fotografia de Igor Martinovic transformam tudo isso em um todo, um álbum de colagens do evento que consegue empolgar a cada virada de página.
+
+Por fim, o longa se beneficia imensamente pela nostalgia e simbolismo que cercam a localização das agora extintas torres gêmeas. É como se espiássemos por uma fresta do passado um acontecimento que não faz mais parte dessa realidade. Não após os ataques com os aviões. Não com a mudança geopolítica e a campanha anti-terrorismo. Um mundo, podemos dizer, mais ingênuo. Um mundo onde a arte ganha contornos quase tão surreais quanto a altura do World Trade Center. Um mundo onde tudo é possível. Uma pena que a ausência das torres indique que esse mundo pode ser que não exista mais por um longo tempo.
 

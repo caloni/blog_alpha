@@ -1,22 +1,11 @@
 ---
 categories:
 - writting
-date: '2016-05-22'
-link: https://www.imdb.com/title/tt4181052
+date: '2021-06-22T23:11:00-03:00'
 tags:
-- movies
-title: Special Correspondents
+- coffee
+title: Spot Coffee em Blumenau
 ---
 
-Ricky Gervais arrisca pouco, mas ganha. Special Correspondents tem a cara e o gosto do diretor/roteirista em suas inúmeras comédias (The Office, Derek, Life is Too Short), mas por se tratar de um longa-metragem, evita a batidíssima câmera na mão e tenta criar uma ficção de fato.
-
-Claro, com as piadas, gags, situações e comentários sociais que ele está acostumado a fazer.
-
-E não dá para dizer que o enquadramento do filme, nem sua fotografia, são um esmero de perfeição. Acostumado com takes estáticos, todas as cenas soam meio deslocadas, e pouco inspiradas. Mas é uma lição de casa bem feita.
-
-A história é a mais clichê: um jornalista de rádio bonitão (Eric Bana) e um técnico de som feião (Gervais) vão ao Equador cobrir uma guerra civil. Ou iriam, se eles não perdessem seus passaportes e fossem obrigados a forjar notícias para não serem pegos. A esposa de Gervais é usada como link entre os dois personagens, e tudo gira em torno de tentar levemente fazer uma crítica ao falso jornalismo e às aparências.
-
-Faltando peso dramático para tal, o ponto forte do longa acaba sendo, como sempre, o timing cômico de Gervais, que assume um papel itinerante que não exige muito de seus dons interpretativos.
-
-Tudo mais constante, temos uma comédia de situação em Nova York que, bem-humorada do começo ao fim, entretem, diverte pontualmente e serve para ser esquecida no minuto subsequente.
+Caímos em uma rua de um bairro de classe média alta e nela havia esse café antes do nosso destino. Experimentei o filtrado pequeno deles por exorbitantes 9 reais. Bom café, torra escura, um sabor amargo que puxa para os sabores da Starbucks. O ambiente interno não é aberto, mas existem mesas na calçada. Não estava com tanto movimento no meio da manhã. Atendimento rápido e eficiente.
 

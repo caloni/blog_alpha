@@ -1,24 +1,20 @@
 ---
 categories:
 - writting
-date: '2013-01-02'
-link: https://www.imdb.com/title/tt2059255
+date: '2014-04-27'
+link: https://www.imdb.com/title/tt1280011
 tags:
 - movies
-title: 'No'
+title: No Impact Man
 ---
 
-No poderia muito bem ser um documentário, uma vez que seu objetivo principal é aproximar o espectador pelo seu realismo. No entanto, a decisão de "estilizar" essa realidade com um pouco de ficção não poderia ser mais propício em um filme que, acima de política, trata dos detentores atuais do poder da influência no mundo: a publicidade.
+Esse é daqueles documentários ecológicos que se baseia no escritor Colin Beavan e sua família, a esposa compradora compulsória Michelle Conlin e a pequena e inocente filha. Os três passarão um ano cuidando de suas vidas sem tentar causar qualquer impacto ambiental no meio de Nova York. Primeiramente, devo perguntar: o que seria um impacto ambiental para uma família dessas, e por quê?
 
-Quando o ditador chileno Augusto Pinochet decide, pressionado pela opinião pública de um mundo cada vez mais globalizado, realizar um plebiscito para decidir se ele ficaria no poder por mais 8 anos, duas campanhas opostas ganham cada uma 15 minutos de espaço na televisão: uma pelo Sim, outra pelo Não. O publicitário René Saavedra (Gael García Bernal) é procurado para conduzir a propaganda democrática. Bem de vida, é um dos primeiros a possuir um micro-ondas, e sem motivos para entrar em um debate que poderia manchar sua reputação com seus clientes, René é movido por um misto de vaidade profissional e pessoal. Pelo lado profissional classifica seus trabalhos como expoentes máximos da comunicação com o público. Pelo lado pessoal sua ex-mulher e mãe do seu filho é uma perseguida política, o que poderia pincelar um pouco de humanidade em sua enigmática expressão.
+Aliás, acho que o filme é que deveria fazer essa pergunta em primeiro lugar, já que ele se deixa levar pelas ambições de Colin e seu senso comum do que seria causar algum dano à natureza, como consumir carne, usar eletricidade e papel higiênico. É um ato de protesto, sem dúvida, mas a questão maior é como esse protesto poderia impactar em nossas decisões do dia-a-dia se não há conhecimento o suficiente para embasá-lo?
 
-O uso da tela quadrada e câmeras que tremem a todo momento denunciam o tom documental e caseiro da produção, ganhando o filme de imediato duas vantagens: 1) evocar o realismo necessário à nossa imersão na disputa política e 2) não causar a fuga dessa imersão toda vez que vemos os resultados das campanhas gravados como vídeos com qualidade televisiva da época e exibidos em "tela cheia". Poderia até dizer que existe uma terceira vantagem aberta a interpretações: estamos na era de Pinochet e um quadrado representa de maneira simbólica a realidade limitante e sufocante da ditadura.
+É muito fácil para Colin dizer que, para o leigo, a única coisa que ele precisa fazer para se juntar a essa causa é não consumir qualquer produto que ele não conheça seu produtor e/ou seus métodos de produção. Isso torna tudo muito mais romântico do que prático, e o homem que não causa impacto na natureza produz um filme que não causa impacto nenhum na natureza de nosso consumismo compulsivo.
 
-A interpretação sóbria de Gael García Bernal (Má Educação, [O Passado]), nunca nos deixando perceber se ele de fato é a favor do "Não", consegue estabelecer um clima ambíguo ou pelo menos um futuro pálido ao não conseguirmos focalizar no filme se de fato a campanha tem dado certo com o público. Essa dúvida se torna tão eficaz que prova disso é ficarmos muitas vezes na incerteza de um evento ocorrido décadas atrás e teoricamente conhecido por todos. Ao mesmo tempo sua expressão praticamente inalterada ao acompanhar um projeto comercial em paralelo revela uma faceta interessantíssima do filme de Pablo Larraín (do filme Tony Manero), mesmo que levemos nossas ideologias para a sala de projeção e defendamos internamente nossas posições fica óbvio que o trabalho de René é pura publicidade e manipulação da opinião popular por meios não pensantes (o que traz à memória o plebiscito de 93 realizado no Brasil cuja presença de atores globais teve papel decisivo no resultado das urnas).
+Boa parte da culpa vem das decisões dos diretores Laura Gabbert e Justin Schein, que se entregam ao roteiro escrito por marido e esposa sem questionar qual é a grande história por trás desse maluco que quer voltar a viver como 100 anos atrás. O próprio documentário assume em diversos momentos a insanidade do projeto e talvez do protagonista, o que não ajuda em nada para sua mensagem.
 
-Quando ambas as campanhas vão avançando e aprimorando-se é inegável a força que o hino criado a favor do "Não" possui uma força incomparável com o apelo patético e repetitivo do Sim, cada vez mais caricato e vestindo suas tradicionais vestes acusadoras da oposição. Isso chega a ser sintomático nos dias de hoje, pois a democracia vendida pela campanha do Não possui um formato que não passa, de acordo com seu idealizador, de uma cópia barata de outras cópias.
-
-E de certa forma a própria democracia é posta em xeque quando ela pode vencer através não da coragem do seu povo, mas pela visão de pessoas felizes que poderiam estar votando pela sua liberdade e felicidade ou por qualquer outro motivo. Como comprar coca-cola, por exemplo.
-
-[O Passado]: {{< relref "o-passado" >}}
+Mesmo assim, em tempos de poluição e de catástrofes anunciadas, qualquer mensagem de esperança, qualquer sinal de como podemos melhorar nosso consumismo desenfreado, sempre será boa notícia. Por isso No Impact Man pode servir de ao menos uma breve reflexão sobre o que estamos fazendo nesse exato momento que pode estar impactando negativamente a nossa breve estadia nesse planeta.
 

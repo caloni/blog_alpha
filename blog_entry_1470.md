@@ -1,27 +1,36 @@
 ---
-
-Equilibrium é um filme que sofre do próprio efeito afetado de seus personagens, pertencentes a uma espécie de paródia de "1984" a respeito de um futuro distópico onde é proibido sentir. Se o sentir para os personagens é algo natural, transformar isso em linguagem cinematográfica é um desafio que o diretor/roteirista Kurt Wimmer topa conduzir, gerando no processo resultados mistos.
-
-Especialista no roteiro em thrillers de ação (O Vingador do Futuro, Salt), Wimmer não consegue evitar transformar uma reflexão até que interessante sobre uma humanidade que teme sucumbir a uma quarta guerra mundial (sim, houve uma terceira) em um... thriller de ação. Vestindo Christian Bale como um padre mortal, o "alto-clero" dessa sociedade coletivizada, menos coletivizada como abelhas programadas geneticamente, mais como frutos de mais um delírio autoritário, e os símbolos dessa nova nação, diga-se de passagem, lembrando na cor e no formato o nazismo, o que não poderia ser menos óbvio, é natural que cenas estilizadas surjam, fruto do treinamento militarizado e, ironicamente, individualizado do personagem de Bale.
-
-Apresentando de maneira totalmente maniqueísta essa realidade, na forma de discursos e exposições nada naturais -- como se fosse rotina na vida dessas pessoas reafirmar a mesma coisa todos os dias -- a necessidade de não sentir é conseguida com uma espécie de droga que inibe a parte mais instintiva do ser humano. Dessa forma, apenas quem está no poder é que, naturalmente, irá conseguir sentir algo. Sim, sempre há alguém no poder, não seguindo as próprias regras que este impõe.
-
-Christian Bale é o astro da vez, conseguindo transformar um personagem nada interessante em um ser enigmático, onde suas ações nunca são claras, mas se tornam ainda menos claras quando este decide, devido as circunstâncias, parar de tomar a tal droga. Com isso, surge um thriller de mistério, pois ser pego é algo tão inevitável nesse mundo que a tensão toda se desdobra em torno de quando será esse momento.
-
-Aliás, nunca se sabe se a trilha sonora dramática remete à situação que a humanidade chegou para inibir seus próprios instintos, ou se é a dor interna do protagonista, dor essa representada lindamente em um momento e uma sequência onde simplesmente não consegue se livrar de um cachorro.
-
-A seriedade com que o tema é tratado, toda a solenidade envolvida na trilha sonora, toda a sisudez nas formas geométricas que formam os ambientes internos e externos daquele mundo, todos os tons monocromáticos das roupas de seus habitantes, altamente impecáveis. Tudo isso não impede que o filme foque constantemente em brincar com a situação de uma forma completamente inapropriada, tentando inserir o humor onde é muito difícil encontrá-lo. Por conta disso, há bons momentos no filme, mas pouco se aproveita. Ainda assim, ele nunca deixa de ser interessante. Mesmo que tenhamos que passar pelas mesmas situações duas ou três vezes (incluindo aquele momento que Bale mata todos à volta).
-
-No entanto, ao chegar no terceiro ato, o clichezão básico de passar por vários capangas necessariamente -- para a ação se revelar melhor do que no resto do filme -- soa tão clichê, que simplesmente desistimos de acompanhar o drama e passamos a apreciar o casamento do Tarantinesco e o Orweliano.
-
-Interessante por suas ideias, que logo são deixadas de lado, e mais interessante pela beleza estética de suas cenas de luta, Equilibrium tenta instigar algo mais do que um thriller de ação, mas, assim como Vingador do Futuro (o remake), está mais focado em impressionar ativamente do que deixar o espectador respirar um pouco e ter algumas ideias de sua própria cabeça.
-
----
 categories:
 - writting
-date: '2017-03-10'
-link: https://www.imdb.com/title/tt5067984
+date: '2019-08-23'
+link: https://www.imdb.com/title/tt7131622
 tags:
-- cinemaqui
 - movies
-title: Era O Hotel Cambridge
+title: Era Uma Vez em... Hollywood
+---
+
+Os últimos filmes de Quentin Tarantino são ótimos, mas me incomodam por terem que ser filmes do Tarantino. Explico. Ele é um ótimo diretor e já trabalhou com roteiros muito mais coesos, como Kill Bill, ou transcendentais, como Pulp Fiction: Tempo de Violência. A vantagem desses dois filmes é que eles pedem sangue e momentos violentos, o que se encaixa certinho no esquema do diretor. Porém, "Era Uma Vez em... Hollywood" não precisa, e é aí que seu último trabalho, como filme, começa a colapsar.
+
+Sou desde o começo alucinado com os trabalhos do diretor e sua história de vida, mas descobri ao longo dos filmes que não sou um fã de Tarantino como roteirista. Exceto, é claro, aquele grande trabalho para o Cinema que se chama Pulp Fiction. Fora isso, no resto do tempo Tarantino está se divertindo e nos divertindo com a sua mente cinematográfica, construída ao longo dos anos por milhares de filmes, e uma inquietude em comentar o Cinema que, como espectadores e cinéfilos, nos incomoda, nos absorve e nos encanta.
+
+A mente de Tarantino não pára e vemos isso em seus filmes. Eles são frenéticos. Podem explorar diálogos cotidianos com a maior calma do mundo, mas são frenéticos mesmo assim. Sua montadora, Sally Menke, falecida em 2010, conseguia colocar algum freio em suas loucuras, mantendo na maioria das vezes um ritmo que conseguia fazer seus filmes respirar. Menke foi substituída pelo segundo editor, Fred Raskin, que não parece estar dando conta de manter o material filmado dentro do compasso de valsa que ele merece. Porém, continua tecnicamente impecável.
+
+Mas impecável por impecável, ao assistir ao filme você irá obviamente notar que há uma sequência belíssima envolvendo uns hippies e um lugar que eles tomaram para morar. É uma cena que constrói tensão a partir do nada. Apenas de nossas próprias referências do que é Cinema. Ela funciona, mas qual o objetivo dessa cena, exceto demonstrar como Tarantino é um ótimo diretor?
+
+Por outro lado, não tem preço acompanhar uma atriz assistindo a um filme que ela participa em uma sessão matinê junto de espectadores rindo de seus momentos cômicos e aplaudindo o momento de triunfo. Este momento, que também não possui nenhum motivo de existir na história, pode figurar sem esforço como um dos mais belos momentos no cinema esse ano. E o fato dessa mesma atriz ter também participado da indústria pornô revela o caráter amplo do filme, que quer englobar por completo seus personagens, já que não consegue atingir a psique deles.
+
+Mas, voltando a Tarantino, você conseguirá observar que essas duas impecáveis cenas são inúteis para a história, apesar de contribuir para a atmosfera do filme como um todo. Justamente o contrário do último trabalho de Tarantino e Sally Menke, Bastardos Inglórios, onde a primeira cena contribui para criar toda a atmosfera do que veremos a seguir: o interrogatório de um nazista na casa de camponeses franceses em plena Segunda Guerra. Um primor de roteiro, direção e, principalmente, edição, e que dá ritmo para todo o resto do filme.
+
+Como qualquer tiozinho que bebe demais no bar da esquina, Tarantino sente necessidade de contar o que sabe para o mundo. O que é ótimo, pois ele possui um conhecimento enciclopédico sobre Cinema que encanta qualquer cinéfilo que não se fecha para gêneros como western ou de artes marciais dos anos 70. E por reter muito conhecimento sobre a área ele deixa vários assuntos de seus filmes em aberto, o que eu acho ótimo também.
+
+No fundo os filmes dele acabam se revelando uma grande e aberta discussão sobre o que é Cinema, e em "Era Uma Vez em... Hollywood" essa discussão está em torno das pessoas que fazem e amam cinema. Não importa de onde você venha, seu status social ou financeiro. Neste filme a tentativa clara é de imersão no mundo glamuroso tirando toda a paparicagem de seus astros. Assim como os gângsters Jules e Vincent em Pulp Fiction, aqui o objetivo é vermos as pessoas que fazem a mágica acontecer como meros mortais tendo que sobreviver em uma insensível indústria.
+
+A história gira em torno do núcleo desses dois amigos, ou chame-os como quiser. Rick Dalton é o astro de uma série icônica de TV de faroeste dos anos 60, e Cliff Booth é seu dublê. Um vive em uma casa chique de Hollywood, bem no topo, o outro tem um carro velho e surrado que faz a comparação entre os dois sem nenhuma palavra ser dita. Suas histórias estão em decadência de maneiras distintas. Rick é um ator de um papel só, e Cliff vive como pode com as migalhas que recebe do amigo em declínio. Independente de como você interprete essa relação, nunca entenderemos de fato quem são essas pessoas, pois são recortes de algo maior.
+
+"Era Uma Vez" junta a esse núcleo eventos violentos que ocorreram com pessoas reais no final da década de 60 envolvendo famosos e hippies porque você precisa dos ingredientes tarantinescos. Dessa junção surgem as obrigatoriedades de sua marca, como títulos, referências, narrações em off com detalhes de horário de algo importante que irá acontecer, flashbacks e memórias, diálogos não-vitais, sequências "cinematográficas" e, claro, violência desmedida. Sem esse check-list o filme não estaria completo para os fãs.
+
+Ao mesmo tempo este é um trabalho que pode ser comparado com A Noite Americana (François Truffaut, 1973) e "Ave, César!" (Irmãos Coen, 2016) no que se diz sobre analisar a indústria do cinema, e é adorável acompanhar como o filme escolhe falar sobre o tema. Os cortes secos no meio de um diálogo que se estendeu mais do que devemos acompanhar mostram estar aí para o espectador perceber a linguagem; a trilha sonora vinda do carro que de repente é "desligada", pois era só o rádio, demonstram o poder diegético do som; os erros de fala de Rick nos faz finalmente perceber que estão filmando uma cena. Tudo isso é não apenas falar sobre cinema, mas nos fazer pensar em estrutura e linguagem. Não é uma aula profunda nem rasa, mas uma análise que fica no meio, entre a arte e a técnica.
+
+Portanto, se torna irônico que Tarantino precisa se estender além do necessário para ser Tarantino, e com isso acaba sabotando seus trabalhos passados em um exercício que parece perigosamente proposital. Há uma cena envolvendo um lança-chamas que, assim como em Bastardos Inglórios, brinca com reescrever História. Há outra cena que refaz o final de uma luta de Kill Bill com uma garota com a cara deformada e se agitando loucamente. Ao final, Tarantino junta ambos os elementos e realiza um momento que pode-se chamar de comportamento auto-destrutivo do cineasta. Ao chamar seu oitavo filme de Os Oito Odiados ele fez um trocadilho bem humorado. Aqui ele parece estar disposto, ainda que de maneira inconsciente, a destruir seu próprio legado.
+
+Veneramos um cineasta por se desdobrar para nos mostrar que ele não é tão importante assim? Começo a desejar profundamente ver um filme dirigido por Tarantino e escrito por Charlie Kaufman.
+

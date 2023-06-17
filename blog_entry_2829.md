@@ -1,21 +1,20 @@
 ---
 categories:
 - writting
-date: '2016-10-25'
+date: '2011-08-22'
+link: https://www.imdb.com/title/tt0821642
 tags:
 - movies
-title: O Silêncio da Noite É Que Tem Sido Testemunha das Minhas Amarguras
+title: O Solista
 ---
 
-Esta é uma antologia necessária do sertão nordestino. Há muito que repentistas ficam às margens dos "verdadeiros poetas". Pois bem. Este documentário deve corrigir parte do desconhecimento geral de que a poesia de repente possui apenas rima e métrica. Esses são detalhes que reforçam a mensagem, mas é o espírito que importa. E neste filme há de monte. Começando pelo título, ele próprio um desafio ao repente.
+Seguindo o filme de duplas, dessa vez com Robert Downey Jr. e Jamie Foxx, o drama O Solista é baseado em livro homônimo escrito pelo jornalista-personagem Steve Lopez, que se torna obcecado pela vida de Nathaniel Ayers, um sem-teto que tinha tudo para ser um grande músico, mas devido aos seus problemas mentais, acaba se refugiando da sociedade nas ruas.
 
-Narrado pelos próprios repentistas, que contam em sua maioria das lendas que passaram pela região onde fica a cidade de Santo Antônio do Egito, a história e os causos de cada um vai aos poucos colorindo a paisagem onde vemos apenas pobreza nordestina. Começando em uma feira, palco de muitos repentistas, e passando casa a casa de nomes dessa arte, aos poucos o diretor Petronio Lorena vai "povoando" a roda com mais e mais pessoas. É um almoço de domingo, um encontro casual ou até um evento maior. Lá estão eles, prontos para tirar de cabeça versos não apenas corretos, mas tirados do coração, com uma alma coletiva que vai sendo descoberta aos poucos, com cada pequena passagem.
+Adaptado por Susannah Grant (do excepcional Erin Brockovich, também baseado em história real) e dirigido por Joe Wright (Desejo e Reparação, Orgulho e Preconceito e Hanna), o filme se concentra acertadamente no drama de Nathaniel Ayers (Foxx) e sua incapacidade de "dar a volta por cima", e para essa observação humana dessa figura carismática temos os olhos bem preparados de Steve Lopez (Downey Jr.), que faz questão de tentar ajudar Nathaniel de todas as formas ao seu alcance, mesmo que este às vezes se mostre confuso, sombrio e incapaz de dar um único passo à frente em sua vida.
 
-O uso de diferentes ângulos, mas quase sempre do lado de uma mesa com álcool e uns petiscos serve também para sugerir o habitat natural desses artistas: o bar. Há também na paisagem degraus pintados com versos e lendas que ficam sendo contadas e recontadas até o ponto de se tornarem imortais. A sensação é que não é apesar da pobreza que eles existem, mas por causa dela. Como todo artista, o sofrimento, ou o uso das drogas, é o combustível para suas criações.
+Para essa conexão com o sem-teto, a interpretação de Downey Jr. é primordial, pois é ele que escala todo o caminho de Nathaniel de volta à sociedade, e o momento-chave do filme é quando este confessa à sua editora estar deslumbrado pela capacidade de Nathaniel em sentir a música ao seu redor. Porém, sua participação é por vezes de caráter enigmático, pois nunca temos certeza se sua motivação é de fato sincera ou ele se aproveita do drama alheio para conseguir alavancar sua carreira de colunista.
 
-A maioria dos poetas é homem, mas há uma passagem ou outra de algumas mulheres, tão sofridas e tão geniais quanto. Há uma poeta maldita no meio deles que discursa sua arte profana e deliciosa a respeito de seus casos sexuais. Quase como uma versão sertaneja dos mutantes e astros do MPB, essas pessoas faziam o folclore da região se manter vivo. Daí a importância desse filme.
+Como Nathaniel é obcecado por Beethoven, temos no longa belíssimas passagens que são fruto de uma escolha discreta da "discografia" de seu ídolo, rivalizando com o belo mas inócuo Ao Som do Coração, que tem um drama semelhante, mas caracterizado por um rapaz órfão (Freedie Highmore, de A Fantástica Fábrica de Chocolate, entre outros).De certa forma, a ideia de conceber o estado de espírito do protagonista com as músicas do longa funcionam pela beleza das composições (de quadro) e pela interpretação competente de Jamie Foxx. Mesmo assim, o diretor acertadamente tira Foxx de foco em um momento-chave, em que utiliza cores para representar a música que está tocando.
 
-Porém, não espere muita lógica narrativa. Ela também vai surgindo, de improviso. É difícil saber quando o filme vai acabar, já que ele tem alguns falsos finais, com nomes surgindo a esmo e uma influência cinematográfica um pouco caótica -- fruto desses artistas de esquerda avessos à razão, ainda que artística. De qualquer forma, o trabalho fica com a sensação de incompleto.
-
-O que de longe é uma coisa boa. Talvez esse seja o começo de uma antologia ainda maior, com mais regiões e mais artistas. Tomara. Já é tempo de sair da pseudo-arte urbana, que se finge de cult soando confusa. Aqui há métrica, aqui há postura, aqui há motivos de sua existência. O repente, espero, não morreu. Apenas vai mudando de formato.
+Patinando em vários momentos, e sem ter muito o que contar, o longa se segura nas interpretações consistentes da dupla. Mais um exemplo, assim como Um Parto de Viagem, onde a interpretação eleva o fraco roteiro ao nível de filme agradável pela história.
 

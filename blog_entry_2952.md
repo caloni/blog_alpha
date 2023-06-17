@@ -1,20 +1,19 @@
 ---
 categories:
 - writting
-date: '2014-10-04'
-link: https://www.imdb.com/title/tt0114814
+date: '2012-11-01'
+link: https://www.imdb.com/title/tt2208192
 tags:
+- mostra
 - movies
-title: Os Suspeitos
+title: Os Visitantes
 ---
 
-Em 1995 Kevin Spacey entrou em uma dobradinha (favor ignorar "Epidemia") que virou clássica nos filmes de suspense e policiais. "Seven: Os Sete Crimes Capitais" remodelou o gênero de serial killer em uma conclusão que deixou muita gente filosofando por meses a fio (os mais fanáticos, como eu, até hoje). E Os Suspeitos ganhou a mesma fama (esse eu cheguei a ver no cinema, tinha acabado de completar 16 ou quase). Ambos são filmes em que o mal prevalece? Não necessariamente. Temos aí uma relativização assimétrica do mal. Os policiais nem sempre são bonzinhos. Por outro lado, os bandidos continuam maus, mas agora assumem o papel de justiceiros involuntários.
+Os Visitantes é o primeiro longa do alemão Contudo Knoche e talvez por disso mesmo com o tema dramático possui uma leveza e ingenuidade que o torna particularmente cômico. Iniciando com a visita inesperada do pai Jacob (Uwe Kockisch) aos seus três filhos Arnolt, Sonni e Karla (Jakob Diehl, Anne Müller e Anjorka Strechel), o atípico convívio com eles é usado para desvendar mais sobre aquelas pessoas do que sobre a visita em si. (Note como apenas os primeiros nomes são usados, levando automaticamente nossa relação com os personagens a um nível familiar.)
 
-O que empolga durante os rapidíssimos 106 minutos do filme de Bryan Singer (da série X-Men) é a desenvoltura de um interrogatório informal que se desenvolve de maneira natural a partir de um criminoso menor que resolveu dar a língua nos dentes: Roger 'Verbal' Kint (Spacey). Apelidado por falar muito, é curioso que em todos os flashbacks que acompanhamos da história de Verbal ele quase não fala, ainda que seja conhecido como o "homem do plano" em todos os golpes aplicados por uma gangue aleatoriamente formada durante uma caça a suspeitos de um roubo de caminhão anos atrás.
+Já ganhando a atenção do público, as coisas começam a ficar mais interessante ainda ao descobrirmos que existem na verdade dois acontecimentos a serem discutidos: um trazido pelo pai e outro (Andreas Leupold, como Hans) pela mãe, Hanna (Corinna Kirchhoff). A maneira como ambos se relacionam e como isso revela mais sobre os filhos do que sobre os pais é o que move a história através de diálogos sutis cujo pano de fundo sempre será a estrutura patriarcal clássica na incompatível vida contemporânea e o que ela formou como visão de mundo dos filhos.
 
-Verbal possui um ar infantilizado, quase inofensivo. Sua deficiência no pé parece favorecer isso, mas são suas expressões e seu tom de voz que apontam para qualquer um presente que ele chega a quase ser uma vítima das circunstâncias. Porém, como pode ser isso se era ele que planejava as ações criminosas?
+Usando um ritmo sem pressa, econômico e competente em esboçar visualmente o seu objetivo, a reaproximação daquela família que há tempos não tinha uma conversa como essa irá, como nos filmes do gênero, abrir algumas feridas e paulatinamente fechá-las. O passado de ausências que acabou por moldar o caráter desses jovens é revisitado, e tudo fica mais empolgante com a troca de farpas.
 
-Aí entra a parte mais fascinante do roteiro de Christopher McQuarrie (No Limite do Amanhã): temos apenas o testemunho de Verbal durante todo o filme, e exceto por uma ou outra pista eventual a única forma de ligar os pontos em sua história é a partir dela mesma. Qual a realidade que Verbal está montando em sua cabeça? Quais seus objetivos? Por que um aleijado inútil mentiria? Os diálogos em ritmo frenético contribuem para nossa percepção caótica dos eventos, e Verbal parece ser a única maneira de juntar as peças.
-
-Tendo pouquíssimos pontos fracos em sua trama (como a falta de perspicácia de um delegado facilmente influenciável) Os Suspeitos é exemplo de roteiro, de direção e de atuação, mas mais que isso: é um exemplo de vida. Quantas vezes somos levados pela versão dos fatos a concluir exatamente o que as pessoas que estão narrando esse "fato" desejam que concluamos? Quantas vezes precisamos acordar o nosso cérebro para discernir entre uma realidade que gostaríamos que fosse verdade e a versão mais plausível e menos floreada? Ou pior: geralmente somos nós que queremos chegar à essa conclusão (como acontece no filme). A realidade é mais fascinante que a ficção, mas infelizmente ela não dispõe da vantagem de ter um efusivo narrador em seu apoio.
+Nunca desinteressante em seu desenrolar um tanto óbvio, mas que com seu timing perfeito e o desempenho competente de todo o elenco o torna, Os Visitantes conclui seus conflitos com uma visão encantadoramente otimista caso seja essa também sua impressão. Contudo, o filme prefere não se intrometer mais ainda na vida daquela família, o que é admirável se considerarmos que já a tomamos como pessoas de carne e osso durante todo esse tempo.
 

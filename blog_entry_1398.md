@@ -1,11 +1,11 @@
 ---
+
+Seco e frutado. Corpo médio, frutado maduro, cheiro de vinícola. Aberto na degustação de pão italiano com manteiga, queijos e molhos em casa.
+
+---
 categories:
 - writting
-date: '2018-09-01'
+date: '2023-01-02T22:56:26-03:00'
 tags:
 - wine
-title: El Porvenir Amauta Corte III 2017
----
-
-Essa família de vinhos da El Porvenir possui 4 cortes, cada um com sua personalidade; este Corte III é Reflexão; um Malbec/Cabernet com corpo médio pra forte, pouco frutado e aromático, mas seu corpo compensa as frivolidades vermelhas que os Malbecs costumam ter.
-
+title: El Porvenir Laborum Malbec

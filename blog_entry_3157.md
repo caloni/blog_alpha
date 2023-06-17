@@ -1,20 +1,47 @@
 ---
-categories:
-- writting
-date: '2010-12-20'
-link: https://www.imdb.com/title/tt0374546
-tags:
-- movies
-title: Primavera, Verão, Outono, Inverno... e Primavera
+categories: []
+date: '2008-06-13'
+tags: null
+title: Primeiro ano do novo Caloni.com.br
 ---
 
-Este é o filme mais poderoso do diretor e roteirista Kim Ki Duk e ele é o único cineasta capaz de contar essa história sem resistir à tentação das respostas fáceis. Enquanto outros dos seus filmes -- Casa Vazia, Fôlego, Time, Pietá -- apresentam um conceito-chave que será explorado à exaustão até nos darmos por rendidos e aceitarmos aquele novo escopo de sentimentos, em "Primavera, Verão" não existe novidade, e o que nos prende durante e após o filme é a nossa tentativa fugaz de captar algum significado. Este é um filme simples, mas que você precisa interpretar. E no preciso momento em que o estiver vendo saberá do que se trata, mesmo que ninguém diga isso verbalmente. Palavras são inúteis frente a imagens poderosas. Simples, mas poderosas.
+Melhor que ter feito aniversário de dois anos no antigo blogue foi ter feito o primeiro aninho nesse novo formato, mais atualizado, mais diversificado e mais antenado com o meu dia-a-dia real.
 
-O diretor esbanja a qualidade indiscutível de narrar uma história mortal com eventos sobrenaturais de forma a prender a atenção do espectador na medida em que a simplicidade está sempre acima do sobrenatural, é o objetivo final, e o sobrenatural apenas o caminho pelo qual nossa percepção dos eventos será guiada. A pergunta de quem movimenta o barco para que o mestre possa observar seu pupilo vai perdendo sua força conforme a história avança, e quando descobrimos qual é o mecanismo ele não importa mais.
+No dia 14 de junho de 2007 foram publicadas as [boas vindas], e desde então o número de artigos tem se mantido sempre no formato três por semana, dois por semana, consecutivamente, distribuídos na segunda, quarta e sexta, terça e quinta. Esse [jogo de xadrez] tem me mantido bem ocupado, admito, mas no final até que vale a pena. Chegamos à marca de 130 artigos e 182 comentários dentro de 29 categorias.
 
-Nunca com pressa e sempre sem perder o timing, somos apresentados à dupla principal de mestre e pupilo de uma maneira quase contemplativa na primeira parte do longa (que é dividido em cinco partes, como é possível deduzir pelo título). No entanto, a identificação com esses personagens será vital para atravessarmos praticamente o resto de suas vidas em pulos de anos à frente, de maneira que não percamos o senso de continuidade, mesmo com tanto tempo sendo atravessado. É a identificação que nos permite continuar acompanhando uma história que se separa por décadas, e apenas a identificação do sofrimento humano que universaliza esta parábola sobre a existência.
+E por falar em variedade, falamos de vários assuntos desde o início. Entre um devaneio e outro, conseguimos explorar algumas particularidades das linguagens C/C++, o funcionamento obscuro do Windows, algumas dicas sobre programação e ferramentas, e até tivemos tempo de explorar coisas mais específicas, como depuração, engenharia reversa, controle de fonte e C++ Builder.
 
-Para isso, o diretor também se aproveita dos elementos comuns da história: a casa flutuante e toda a disposição dos "móveis" internos (o templo de oração e as camas, que possuem ocupantes distintos no verão e no outono), os portões do lago (que têm outra função importante: fazem o papel de cortinas que anunciam uma nova parte da história), o próprio barco que vem e vai (e esse fluxo é vital para que esse ritmo faça parte constante da narrativa).
+No placar, as coisas ficaram mais ou menos distribuídas:
 
-Nada está à toa neste filme, e tudo, mesmo o mais mundano, como um totem que não deve ser usado como banco, possui uma função dupla: narrativa e simbólica. Essa foi a maneira do cineasta nos aproximar da filosofia budista, que não diz sobre algo específico deste mundo, mas do próprio mundo, de tudo que está nele, incluindo nós mesmos, tentando entender alguma coisa. Como espectadores não há presente melhor do que um filme que não se explica, tal como a vida, pois é da experiência de assisti-lo que encontramos a paz que nos falta em vida. É de sabermos que há alguém igualmente perdido e fascinado que entendemos que esta é uma vida de valores, que seguimos ou não, e para cada caminho há um diferente destino.
+    Assunto      Artigos
+    ===========  =======
+    Programação  10
+    C++          31
+    Windows      11
+    Depuração    10
+    WinDbg       18
+    Dicas        27
+    Código       15
+
+Sobre os visitantes, eles ainda são uma incógnita. Relacho meu, admito. Não faço nem uma simples pesquisa para saber se a maioria está no nível iniciante Juquinha ou avançado "The Guy". Prometo melhorar isso no segundo ano. Em números houve um crescimento de 711 visitantes únicos em janeiro de 2007 para 5223 em maio de 2008.
+
+Pela quantidade crescente de visitantes, dá até pra imaginar que estou "no caminho certo". Mas, quer saber? Que caminho é esse? Não quero fundar um fã-clube, não quero me tornar rico e famoso (talvez só a parte do rico) e, muito menos, influenciar ninguém. Além do que, quanto mais velho um saite se torna, e sendo freqüentemente atualizado, é natural ser mais visitado. Por isso que eu acredito piamente que na maioria dos casos estatística é uma merda, pois mostra uma realidade cheia de conteúdo mas sem nenhum significado.
+
+Por outro lado, alguns dados são muito interessantes, pois podem moldar o futuro de um blogueiro profissional (não é o meu caso), como os resultados mais-mais do google:
+
+    Palavras     Buscas
+    ===========  =======
+    softice      86
+    windbg       27
+    caloni       26
+
+No entanto, saber que o topo da lista é formado por buscas por "softice" não irá me fazer escrever mais artigos sobre esse depurador mais do [que eu já escrevi], até porque já é um depurador morto usado hoje em dia em raríssimos casos (no meu caso). Se você quer craquear um programa, mesmo que isso seja contra a lei, aprenda WinDbg que você ganha mais!
+
+Das novidades que aconteceram durante esse ano, a maior e mais interessante foi o renascimento do nosso grupo de C++, que talvez continue dessa vez a sua vida normal. Ou não. Esperemos que sim =)
+
+Eu fico sinceramente muito feliz em saber que existem muito mais pessoas interessadas em C++ do que eu mesmo, até porque isso me dá muito mais tempo para escrever sobre outras coisas que não seja C++ que, admiro humildemente, não chego a usar 20% no meu dia-a-dia.
+
+[boas vindas]: {{< relref "hello-world" >}}
+[jogo de xadrez]: {{< relref "influence-board" >}}
+[que eu já escrevi]: {{< relref "introducao-ao-softice" >}}
 

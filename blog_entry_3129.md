@@ -1,36 +1,24 @@
 ---
 categories:
-- coding
-date: '2007-10-18'
-title: Por que minha DLL travou?
+- writting
+date: '2012-06-10'
+link: https://www.imdb.com/title/tt0058461
+tags:
+- movies
+title: Por Um Punhado de Dólares
 ---
 
-O resumo da ópera é que o código do Windows chamador do DllMain das DLLs carregadas/descarregadas utiliza um objeto de acesso exclusivo (leia "mutex") para sincronizar as chamadas. O resultado é que, em um processo, apenas um DllMain é chamado em um dado momento. Esse objeto é chamado de loader lock na documentação da Microsoft.
+"Per un pugno di dollari", o clássico do bangue-bangue macarrônico, primeiro dos três filmes idealizado por Sergio Leone a partir de sua fascinação após assistir a outro clássico da época, Yojimbo (de Kurosawa), nos apresenta pela primeira vez a figura do Homem Misterioso, ou homem sem nome, interpretado por um Clint Eastwood ainda jovem para o seu Gran Torino, mas com um olhar já duro e seco para com os maus que governam uma cidadezinha perto da fronteira entre os EUA e o México. À procura de dinheiro (como o título já sugere), esse homem resolve ficar por um tempo na cidade, mesmo em uma terra que odeia forasteiros. Existem duas famílias que tomam conta dos negócios locais, enquanto na violência com que as decisões são tomadas os corpos se acumulam no cemitério na mesma proporção com que as viúvas. O ódio e a ambição pelo ouro fala mais forte em uma terra sem lei.
 
-{{< image src="loader_lock.gif" caption="Loader Lock explicado" >}}
+O Homem Misterioso possui duas funções muito claras na narrativa: primeiro, por ser tão forasteiro quanto o espectador, ele serve de guia para que nós mesmos entendamos as circunstâncias em que os fatos vão se sucedendo. É ele que, por exemplo, fica escondido às margens do rio e presencia o massacre que lá ocorre. É ele que, observador e inteligente, consegue entender melhor que os moradores do vilarejo o papel dos capangas das duas famílias, e busca assim tirar proveito de ambas, e sempre que possível nunca tomando um partido. Leone deixa claro que o Homem não é um herói comum. É bruto e violento como todos os outros, mas que ao mesmo tempo, se sobrar tempo, tenta ajudar os injustiçados. Existe algo em seu passado que determina seu caráter, mas salvo uma breve e imperceptível fala, nunca é mencionado.
 
-Escrevi um [código besta] para exemplificar, mas representa o que já vi em muito código-fonte, e muitas vezes não consegui perceber o que estava acontecendo (tanto porque desconhecia a existência desse loader lock quanto o código estava obscuro demais pra entender mesmo).
+E não é à toa. Não são os diálogos que formam o caráter do sujeito, mas a ausência deles. Como um observador nato, nos colocamos a seu lado e de alguma forma torcemos por ele, pela sua imagem, pelo seu estilo. As outras pessoas falam demais, se exibem demais. Ele só fala quando tem algo a dizer. E atira quando precisa.
 
-Uma simples vítima disso pode ser um pobre executável usando uma pobremente escrita DLL, assim como no código abaixo:
+Nesse universo de tela larga e expressiva, onde a fotografia revela cores profundas, tanto de dia e seu calor em cores quentes quanto à noite, é possível praticamente sentir o frio da noite e suas densas penumbras. Da mesma forma, os closes que Leone realiza revelam muito mais sobre os personagens do que suas falas. Quando estão mais próximos da câmera, tudo fica mais claro e mais dramático. Vemos os sulcos em torno de suas faces iluminados pela noite, e de dia seu suor escorrendo pelas rugas, assim como as estradinhas de terra atravessadas por seus cavalos. Os olhos do Homem Misterioso surgem sempre expressivos, observadores e pensativos.
 
-    int main()
-    {
-      printf("load dll");
-    	HMODULE lockDll = LoadLibrary(_T("dll_lock.dll"));
-    
-    	if( lockDll )
-    	{
-    		Sleep(2000);
-        printf("free dll");
-    		FreeLibrary(lockDll), lockDll  = NULL;
-        printf("done");
-    	}
-    }
+Mas Leone sabe que nada adianta um herói sem um vilão à altura. E por isso mesmo somos apresentados a Ramon; primeiro pela sua fama, depois pelas suas ações, e por último pelas suas falas. E aqui é importante ressaltar que o que ele diz não está de acordo com os atos que acabamos de presenciar. Portanto, é um mentiroso, e é capaz de tudo para conseguir o que deseja, como matar qualquer um que se opuser. Esse sinal de desvio de caráter é uma espécie de maniqueísmo orgânico que nos ajuda a separar com precisão alegórica o bom do mau no palco de conflitos que se arma: de um lado, a família do xerife; do outro, dos bandidos sanguinários; e, no meio, o não-nomeado: o desequilíbrio que faltava.
 
-É importante sempre lembrar que a Microsoft acha feio, muito feio você ficar dependendo do DllMain pra fazer alguma coisa, mas admite que em alguns casos o único lugar onde podemos rodar código é no DllMain. Nesses casos -- e em alguns outros -- utilize uma comunicação paralela com sua thread travadona, por meio de um evento ou algo do gênero, antes que ela realmente saia. Com isso a thread pode ainda não ter saído, mas pode avisar a thread principal que o que ela precisava fazer já foi feito.
+O embate não é apenas físico, mas, principalmente, psicológico. Ao acompanharmos as artimanhas do homem de poncho acompanhamos seu raciocínio. Nos poucos diálogos que escapam de sua boca compreendemos que não haverá pistas sobre seus planos. Talvez nem ele saiba ao certo, pois tudo vai acontecendo mais ou menos que por acidente. Mas é um acidente planejado, previsto em roteiro, só que o brilhantismo da história está em não percebermos isso. Da mesma forma, os personagens que precisam existir para atingir a dramaticidade de seu desfecho são desenvolvidos durante os acontecimentos do segundo ato. Como não há muito tempo para eles, alguns até o nome já soam significativos (Jesus e Marisol). Até o preto vestido por uma personagem em específico já denuncia o que virá. Tudo é muito gráfico e visceral, e não apenas nas cenas de ação.
 
-Entre os clássicos e inestimáveis artigos de Matt Pietrek no Microsoft Journal há na [edição de setembro de 1999] um bem curto a respeito da inicialização de DLLs. Essa é a leitura mais sucinta, didática e esclarecedora sobre a questão.
-
-[código besta]: dll_lock.cpp
-[edição de setembro de 1999]: http://bytepointer.com/resources/pietrek_debug_init_routines.htm
+Aliás, o fato da história ter algumas reviravoltas apenas alimenta nosso desejo pela ação, que quando vem, também é divinamente orquestrada. O herói surge em meio a fumaça, como imortal. Aumenta o som e a dramaticidade da trilha sempre presente e inspirada de Ennio Morricone, o John Williams da Itália, que ilustra com precisão a jornada do herói na versão faroeste. Assim como Clint Eastwood, o Yojimbo de Leone acabara de surgir como um herói a resgatar o bom e velho bangue-bangue.
 

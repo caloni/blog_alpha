@@ -1,24 +1,26 @@
 ---
 categories:
 - writting
-date: '2020-10-25'
-link: https://mostraplay.mostra.org/film/masters-in-short/
+date: '2011-12-20'
+link: https://www.imdb.com/title/tt0133093
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Masters in Short
+title: Matrix
 ---
 
-A proposta da sessão Masters in Short da Mostra de São Paulo esse ano é apresentar alguns curtas de diretores consagrados. São cinco curtas ao total e seis diretores diferentes.
+Animes, quadrinhos, Kung-Fu, filosofia, tecnologia: Que filme conseguiria compor, de forma inquestionável, esses universos tão grandiosos quanto diferentes entre si?
 
-Nos é dito no início que a proposta tem relação com o período de quarentena esse ano, mas o único óbvio exemplo é o primeiro. "A Visita", de Jia Zhangke, que apresenta dois cineastas se visitando para assistir a um filme sendo produzido. Todas as situações comuns vividas esse ano, como o medidor de febre à distância, o uso das máscaras e do álcool gel, e a proibição tácita de se dar as mãos, é revisitada. É um aceno de cabeça para o espectador que sabe bem do que o filme está falando. Talvez bem até demais para ser visto em um filme.
+Dirigido pelos Irmãos Wachowski (V de Vingança, [Speed Racer]), o filme contém uma história com elementos nada criativos, mas que possuem algo em comum: faziam parte do universo da época (fazem?), onde computadores e internet começavam a dominar o mundo, e a diferença entre mundo real e mundo virtual começava a aparecer na vida das pessoas.
 
-Os dois curtas seguintes são experimentais. "Os Caçadores de Coelhos" e "O Adivinhador", de Guy Maddin, Evan Johnson e Galen Johnson, são absurdistas e caóticos. Enquanto narram a existência de adivinhos profissionais e o sonho de alguém que já morreu, usos diferentes de luzes e narrativas são tentados para chamar nossa atenção. Ou pelo menos tentar, já que o resultado é nos afastar, nos pensamentos e para dentro de nossos próprios sonhos... dormindo.
+Se fosse exibido hoje (2011) ainda seria visto como a identificação da nossa era. Já conhecido e aglutinado ao universo de onde as ideias vieram, hoje é visto como um clássico, uma visão que estava à frente do seu tempo, e nos acompanhou até hoje. Seria uma nostalgia dos tempos ainda ingênuos, quando ainda estávamos engatinhando no conceito de vida virtual.
 
-Outro campeão em fazer passar sono é este "Uma Noite na Ópera", de Sergei Loznitsa. Feito apenas com imagens de arquivos das décadas de 50 e 60 ele captura toda a pomposidade com que diferentes celebridades do show business e da política adentram o teatro de ópera em Paris, Palais Garnier. Cerca de 70% do filme é sobre a entrada da burguesia ao recinto e 30% vemos a performance de uma cantora. Que vale todo o preço, já que é uma performance de respeito, ainda que por alguns meros minutos.
+E se parece exagero, uma prova maior de sua influência são as referências internas do filme, que tentam homenagear os universos de onde foi inspirado, e que acabam por fim referenciando o próprio universo criado, misturando-se com a evolução dos mundos onde foi inspirado.
 
-Também vale uma espera a menos glamurosa "Escondida", de Jafar Panahi, em que diretor e filha acompanham uma amiga até um vilarejo distante no Irã em que ela descobriu uma menina com uma voz maravilhosa. Proibida de cantar pela família, o clima deste curta é de documentário informal filmado com celulares Apple, o que combina bem com o estilo desse diretor. Eles filmam com dois celulares. Um deles se afasta durante a rápida performance da menina, escondida atrás de um pano. É nesse momento que aprendemos a função do movimento no cinema. Depois que a câmera para, não tem por que continuar a ouvindo.
+Na época do lançamento nada se sabia, nem se cogitava sobre o enredo. Algum tempo depois, podia-se ouvir burburinhos reverenciando a obra como tão cult quanto Blade Runner foi em seu tempo. Hoje esse burburinho é fato, e não há muitas controvérsias quando analisamos uma obra de arte que se identifica tanto com sua era, com seu momento.
 
-Curioso como "a mágica" do cinema de repente some quando nada se mexe na tela. E a parada do movimento, em todos os sentidos... isso, sim, tem tudo a ver com a quarentena.
+Antigamente, a fotografia verde representava dentro da matrix, enquanto azul representada o lado de fora: o mundo real. Note os elementos verdes predominantes em cada cena (batente de portas, gravatas, detalhes específicos para tornar a coloração mais esverdeada) ou azul, no caso do mundo real (vestimentas da tripulação, maquinário, luzes azuis). Se digo antigamente, é porque, tal como Traffic ganhou maturidade em 21 Gramas, com as histórias paralelas sendo representadas, por fim, em uma só cor, dado que o público evoluiu em seus conceitos de narrativa cinematografia, também podemos dizer o mesmo dos mundos real x virtual, onde já não se diferencia mais onde estamos, tamanha a conexão crescente com a rede mundial, com celulares, smartphones e gadgets em geral que possibilitam a uma pessoa estar em vários lugares ao mesmo tempo (virtuais ou não).
+
+Cada vez que entramos a fundo, hoje, na análise de Matrix, são tantas as analogias nas telas com o mundo real (e virtual) que chega a ser uma paródia ou referência do mesmo universo que homenageia. A forma como é demonstrado como o conhecimento instantâneo é adquirido pelo cérebro para o uso prático no mundo virtual, ou a forma como são carregados novos programas, de maneira instantânea.
+
+[Speed Racer]: {{< relref "speed-racer" >}}
 

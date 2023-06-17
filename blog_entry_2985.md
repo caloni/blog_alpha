@@ -1,18 +1,33 @@
 ---
-categories:
-- writting
-date: '2016-06-26'
-link: https://www.imdb.com/title/tt2170299
+categories: []
+date: '2020-11-08'
+link: https://www.slideshare.net/WanderleyCaloni
 tags:
-- movies
-title: Palavrões
+- lists
+title: Palestras
 ---
 
-Tão diferente que perde o foco. Porém, é um "indie" no conceito básico dessa nova categorização: muitas das coisas que vemos em Palavrões dificilmente estaria em uma produção hollywoodiana.
+Segue a lista de palestras que ministrei ao longo dos anos que possuem alguns slides úteis (os com slides inúteis não estão disponíveis e devem estar na memória dos que assistiram ou em algum post perdido por aí). Have fun =)
 
-Mas isso é bom? Em certos momentos, sim. Como a divertida relação entre o "gênio" Guy Trilby e uma criança indiana que se torna (à marra) seu amigo.
+ - [Antidebugging: Eu Não Quero que Você Mexa no Meu Código]
+ - [AWK]
+ - [Depurando até o Fim do Mundo]
+ - [Engenharia Reversa para Principiantes]
+ - [Entendendo a Compilação]
+ - [Patch de Emergência]
+ - [Pôquer Online]
+ - [Resumo de Debug Remoto]
+ - [Stack Overflow]
+ - [Troubleshooting em Equipes Remotas com Debugging Tools]
 
-Porém, em outros momentos, o filme se perde feio no que deseja contar. A premissa é interessante: um adulto acha uma brecha nas regras dos campeonatos de soletração para crianças e vira um competidor. Seu objetivo? É sobre isso que o filme deveria tratar. Em vez disso, vemos algum discurso criticando o status quo e a própria existência de regras, mas nada muito profundo. Jason Bateman, que atua e dirige, parece se divertir excessivamente por estar rodando um filme se muitas barreiras, mas se esquece do seu público no meio do caminho.
-
-Isso quer dizer que Palavrões consegue, sim, ser um filme interessante, pela inusitada história e seu inusitado desenvolvimento. Porém, está longe de alcançar a maturidade, preferindo se manter inexplicavelmente sob o ponto de vista de seu "herói", um adulto com sérios problemas de relacionamento e que vive as consequências disto.
+[Antidebugging: Eu Não Quero que Você Mexa no Meu Código]: https://github.com/Caloni/lectures/blob/master/antidebugging-eu-nao-quero-que-vc-mexa-no-meu-codigo.pdf
+[AWK]: https://github.com/Caloni/lectures/blob/master/awk.pdf
+[Depurando até o Fim do Mundo]: https://github.com/Caloni/lectures/blob/master/depurandofimdomundo.pdf
+[Engenharia Reversa para Principiantes]: https://github.com/Caloni/lectures/blob/master/engenhariareversaparaprincipiantes.pdf
+[Entendendo a Compilação]: https://github.com/Caloni/lectures/blob/master/entendendo-a-compilacao.pdf
+[Patch de Emergência]: https://github.com/Caloni/lectures/blob/master/patchdeemergencia.pdf
+[Pôquer Online]: https://github.com/Caloni/lectures/blob/master/poqueronline.pdf
+[Resumo de Debug Remoto]: https://github.com/Caloni/lectures/blob/master/debug-remoto-resumo.pdf
+[Stack Overflow]: https://github.com/Caloni/lectures/blob/master/stack-overflow.pdf
+[Troubleshooting em Equipes Remotas com Debugging Tools]: https://github.com/Caloni/lectures/blob/master/troubleshooting-em-equipes-remotas-com-debugging-tools-for-windows.pdf
 

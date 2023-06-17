@@ -1,26 +1,33 @@
 ---
-
-Uma comédia mista, cuja criatividade consegue protagonizar pelo menos um momento icônico (no deserto), está cheio de galhofas pretensiosas envolvendo filmes de faroeste Sergio Leoleano espalhadas em uma história que diverte pelo seu elenco, mas falha lamentavelmente no drama que procura mesclar e substituir o humor.
-
-A história, que se finge de complexa, mas que acaba se revelando boba e sem qualquer reviravolta que preste, gira em torno de quatro amigos que passaram por revezes em suas vidas após a estréia do filme onde todos trabalharam. Descoberto que a falta de dinheiro foi menos pelo sucesso do filme e mais pelo golpe aplicado pelo produtor -- que mudou de vida para virar um empreendedor... quer dizer, padre de sucesso -- um dos atores monta uma trama que pretende envolver seus amigos e inúmeras pessoas que ele parece conhecer de forma onisciente ou sobrenatural.
-
-O problema nesse formato 2 Coelhos é que a história parece ter sida terminada pela metade e o filme termina sem qualquer cerimônia, descartando uma longa e complexa introdução que parece existir mais para colocar pulgas atrás da orelha do espectador. Toda a trama montada acaba se resumindo em um plano de vingança simples, bobo e ultrapassado há muito tempo. Depois de Assalto ao Banco Central ter imitado Os Suspeitos, um filme da década de noventa, Entrando em Uma Roubada aumenta a impressão que alguns brasileiros parecem viver pelo menos duas décadas atrasados no formato do gênero, insistindo em fórmulas batidas que não irão causar qualquer reação em um público já instruído por inúmeras obras semelhantes, muitas vezes melhor articuladas.
-
-Dito isto, é preciso dar os créditos merecidos aos aspectos técnicos do filme, já que direção, fotografia e, principalmente, a edição, fazem uma espécie de milagre para manter todas as variáveis de um roteiro confuso e sem recompensa alguma em algo esquemático, empolgante e sempre em movimento. Se beneficiando de um elenco de luxo para uma história aquém das expectativas, as ideias por trás de inventar a produção de um novo filme em que os personagens saem pela estrada roubando lojas de conveniência quando de fato estão fazendo realmente isso com o conhecimento apenas do diretor e roteirista tinha tudo para criar uma obra enigmática, ambígua e poderosa. No entanto, o estilo globochanchada das comédias hoje em dia parece afetar até os filmes com um apelo mais diferente como esse.
-
-Na área de humor talvez alguns digam que foi uma boa ideia ter um personagem com alucinações que sonha com um menino que o atormentou em uma festa de criança. Como ideia, poderia até ser, mas a cena inicial que apresenta o pequeno pimpolho é idiota o suficiente para não causar a comoção necessária que justifique as inúmeras cenas em que o menino aparece. Mesmo a criativa brincadeira da "dualidade" Coringa vs Batman merecia um filme melhor para ser explorado, apesar de esta ser mais uma das ideias batidas da história.
-
-Ao mesmo tempo, apresentar o ator Marcos Veras como um vilão vendo-o apenas ensinar dois funcionários como fazer para arrancar o máximo possível dos fiéis de sua igreja é chover no molhado, já que até o cinema nacional já tem melhores vilões baseados em pastores corruptos -- e olhe que usar pastor como o vilão é um clichê brasileiro que continua sendo uma ótima ideia. Veras se limita a chamar seus colegas de idiotas, um comportamento quase sem sal quanto Loki em Os Vingadores abrir os braços e mostrar os seus dentes.
-
-Em resumo, esqueça a história por trás de tudo. Ela é tão fictícia quanto o plano resumido pelo título. Foque-se nas pernas de Debora Secco -- que continua uma bela atriz -- e se divirta com as brincadeiras pseudo-sérias de uma novela que está estreando no Vale a Pena Ver de Novo.
-
-PS: A Ancine, que é citada de forma exagerada nos crédito iniciais e finais, está de parabéns em cumprir seu papel inglório mais uma vez ao tirar o dinheiro das pessoas e produzir filmes que tentam imitar Hollywood de duas décadas atrás com pouco orçamento. De certa forma enriquece a obra ao dar um duplo sentido ao título. Meio metalinguístico, não?
-
----
 categories:
 - writting
-date: '2020-08-29'
-link: https://www.imdb.com/title/tt8946378
+date: '2017-10-02'
+link: https://www.imdb.com/title/tt7308092
 tags:
+- cinemaqui
 - movies
-title: Entre Facas e Segredos
+title: Entre Irmãs
+---
+
+Entre Irmãs é um filme de época feito também em outra época. Uma época mais ingênua, onde filmes como esse não seriam tão clichês, tão bregas. Infelizmente, para o público de hoje, clichê e brega é exatamente o que ele se propõe.
+
+E longo. Muito longo.
+
+A história você já conhece. Duas irmãs separadas pelo destino, cada uma delas vivendo uma vida diferente e oposta. Órfãs desde pequena, elas vêm de uma infância dura, criadas pela tia. Tornam-se costureiras como ela, e como uma delas diz, "costureira não é uma coisa que você pode deixar de ser". E assim o são, cada uma a sua maneira. Uma vira mulher do cangaceiro mais procurado do Nordeste. Outra vira membro da alta sociedade de Fortaleza.
+
+Elas perdem a comunicação por muito tempo, e o tempo do filme corre muito bem, em lapsos, pequenos saltos que vão dando a impressão de meses e anos. A única forma de uma saber da outra é lendo o jornal. E ambas aparecem nele. Em seções diferentes, claro. Uma nas fofocas da burguesia e outra é manchete junto de seu marido, Carcará, o cangaceiro sanguinário que tem fama de arrancar os olhos de suas vítimas.
+
+Mas na história você vai ficar sabendo, se já não descobriu, que Carcará tem seus motivos para fazer o que faz. Afinal de contas, ele e sua gangue são os mocinhos, e como todos mocinhos sempre têm seus nobres motivos para derrubar sangue. E quando lhes falta um motivo, ainda resta a desculpa da necessidade da dureza de seu exército, em briga constante com o coronelismo do Sertão, vivendo sua liberdade sofrida com pouca água.
+
+O Sertão, aliás, é filmado com um tom sépia escuro que favorece a dramatização acima do realismo, o que faz todo sentido neste drama romântico e teatral. Parece que estamos assistindo a uma reconstrução estilizada do livro onde foi baseado o filme. Do outro lado, na cidade "grande", Fortaleza carece de cenários que a estabeleça como metrópole da época, se mantendo sempre sob fachadas que sabemos que é papelão cinematográfico. A qualidade de produção de uma novela.
+
+Ainda nos detalhes técnicos, é curioso notar como a irmã que vira burguesa embranquece sua cara assim que adentra o teto da família Afonso Coelho. O uso inspirado da iluminação nos figurinos o tornam mais dignos, assim como a maquiagem. Note como fica o rosto da irmã cangaceira depois de lutar por muito tempo, sujo e cheio de sequelas do castigo solar.
+
+Se a direção de arte faz valer cada centavo -- embora fique claro que são poucos centavos -- o mesmo não se pode dizer da trilha sonora. Não que ela seja barata. Muito pelo contrário. A música de Gabriel Ferreira é atordoantemente expansiva. Seu entusiasmo sem limites em pontuar cada cena, cada sorriso, cada choro ou batalha a torna supérflua e irritante. E paradoxalmente ela é responsável por aumentar o sono das quase três horas de projeção.
+
+Já quem, de maneira alguma, prejudica o filme é seu elenco. Afiado, harmonioso e com alguns bons momentos desperdiçados pelo roteiro, o trio formado por Marjorie Estiano, Nanda Costa e Julio Machado mereceria material melhor. Se Julio, que faz Carcará, convence desde a primeira cena (e a estende) como um homem que vive a única opção de sobrevivência que o destino lhe ofertou, as irmãs, vividas por Marjorie e Nanda, reafirmam suas personalidades através das expressões no rosto e no olhar que são muito mais sutis que os diálogos expositivos, que já revelam todos os pensamentos e sentimentos dos personagens antes que seja dada a chance disso ser revelado simplesmente olhando para eles. Como quando a irmã que fica cuidando da tia comenta que ela anda doente, apenas para que na cena seguinte ela volte para casa e a tia comece a tossir copiosamente.
+
+Esse é apenas um dos primeiros exemplos de um roteiro burocrático, que apenas segue o que lhe é esperado. Como dividir as atenções entre as irmãs (como o título sugere) e fazer rimas previsíveis com o que vai acontecendo com ambas. Como o filme é longo o espectador tem a chance de aprender durante o filme. Se uma coisa acontece a uma irmã, pode apostar com seu vizinho de poltrona que algo parecido (ou idêntico) irá acontecer com a irmã. E logo na próxima cena. No terceiro ato, quando acontece o esperado (a essa altura você já sabe), a narrativa soa ainda mais preguiçosa, pois vai apenas jogando os eventos em uma ordem simples e sem emoção. Exceto, claro, a já citada trilha sonora estridente.
+
+O diretor Breno Silveira também mereceria material melhor. Sem conseguir aplicar o seu golpe de sorte de estreia em longas com o milagre "2 Filhos de Francisco", cambaleia um confuso "Gonzaga: De Pai pra Filho" e agora entrega este "Entre Irmãs" como sua descida derradeira. Aparentemente lhe falta história à altura, e um roteiro menos criativo. Mas não técnica. O filme é um prazer visual desprovido de alma. Se "2 Filhos" é pura emoção e técnica competente, "Entre Irmãs" é pura técnica com emoção competente. E você já viu alguma vez na vida uma emoção ser "competente"?
+

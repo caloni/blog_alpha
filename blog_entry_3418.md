@@ -1,28 +1,24 @@
 ---
 categories:
 - writting
-date: '2019-10-01'
-link: https://www.imdb.com/title/tt8473532
+date: '2010-11-26'
+link: https://www.imdb.com/title/tt1424432
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Sem Túmulo
+title: Senna
 ---
 
-O cinema do Oriente Médio em geral exporta para o mundo filmes que esmiuçam relações sociais e familiares, e têm se saído bem no Ocidente por nos oferecer essa discrepância de culturas. Sem Túmulo não é exceção, e constrói através de sua pequena janela de dois dias uma compilação de sentimentos remoídos do passado de uma família, mas se esquece de se conectar com seu espectador.
+De que são feitos os heróis? Como uma pessoa cresce internamente e transparece externamente, para o resto do mundo, como alguém que faz a diferença; tanto profissional, quanto moralmente?
 
-O que inicia a história é a morte de um homem já idoso, no fim inevitável de sua vida. Porém, uma informação importante que é guardada por muito tempo é que ele se matou com a ajuda de Majid, seu cuidador, que tem passado uma década ao lado dele. Os motivos por trás desse ato final e das motivações de Majid serão revelados em momento oportuno durante a viagem para seu sepultamento, com seus dois filhos e filha, em um vilarejo que ninguém conhece, mas que faz parte do último desejo de seu pai.
+Uma trajetória de sucesso de um dos ícones de final de século no esporte nacional e mundial, o que vemos no início do documentário é um ser humano em seu estado latente, habilidoso no que sabe fazer (correr), mas ainda inapto para sobreviver nas agruras do jogo de dinheiro e poder que ocorre na nata da indústria automobilística: a Fórmula 1, campeonato mundial máximo na carreira de um piloto de corridas.
 
-Se você não é um espectador de primeira viagem já consegue imaginar sem muita dificuldade onde tudo isso vai dar. Entretanto o diretor estreante Mostafa Sayari nos entretém construindo um clima tenso entre os envolvidos, sozinhos na estrada e com muitas questões mal resolvidas pelo caminho. É o drama clássico da falta de comunicação entre os integrantes da jornada.
+A narração em off de pessoas que conviveram com o piloto enquanto, em paralelo, assistimos imagens das corridas e dos bastidores devidamente mescladas, torna a experiência interessante mesmo em acompanhar algo que já conhecemos. E o fato de termos em sua maioria entrevistas e imagens vindas de fora do Brasil é um bônus ao espectador nacional, em uma espécie de novidade dentro do já visto (pelo menos para os que acompanharam sua carreira).
 
-Os enquadramentos que Sayari compõem evocam significado melhor que os diálogos escritos a seis mãos. Uma mulher se aproxima timidamente do seu irmão mais impulsivo e sua face fica escondida por trás das paredes do automóvel que os separam. Ainda dentro do mesmo automóvel um homem observa o passado de seu pai, mas é o reflexo no espelho que nos indica a direção no tempo. Existe uma metáfora óbvia que a história sugere sem nunca afirmar: a diferença entre pais e filhos não ser suficiente para libertá-los do seu destino de repetir as mesmas ações. Neste filme a metáfora é mais sutil: observamos o comportamento dos filhos tentando entender a personalidade do pai, que nunca vemos vivo.
+O uso da montagem a partir de filmagens de diversas origens, como as câmeras das corridas e vídeos amadores dos bastidores das equipes, faz com que a narrativa adote uma estrutura de mosaico que funciona com uma fluidez admirável, ainda mais ao percebermos que nada daquilo foi produzido para o filme. Junto da história temos uma trilha sonora básica e muitas vezes apagada, sendo exatamente essas duas características que a tornam tão efetiva, pois nunca se coloca à frente do que virá, mas que sempre acompanha o mais importante: o estado de espírito do protagonista.
 
-Mas quisera eu que o filme fosse tão significativo assim. No fundo ele não é, e o que o Sayari mais faz é brincar com possibilidades, sem nunca se decidir qual caminho tomará em sua mensagem. E na impossibilidade de concluir, resolve pela passividade e introspecção, o que é frustrante a ponto de questionarmos se no fundo nunca valeu a pena nos dedicarmos a observar essas pessoas.
+O final, pausado e reflexivo, remete a uma dramatização criada em filmes de ficção, e que aqui assume essa postura de forma bem competente, transformando até mesmo as tomadas mais sensacionalistas da televisão de urgência como se fosse uma cena de despedida previamente escrita em algum roteiro (como as cenas aéreas, propositadamente em câmera lenta, do carro acidentado). 
 
-Sem Túmulo não se beneficia de suas atuações de maneira tão clara quanto sua fotografia, que revela através das sombras e das luzes em seus atores o humor do momento. Mas isso não é suficiente para que haja conexão com o espectador. Há longas pausas no filme que serve mais para contemplarmos que beleza de fotografia, que harmoniza com o deserto a sua paleta árida de cores, mas nunca temos muita ideia do porquê.
+Por fim, mesmo que a direção e montagem apenas mantivessem o pulso firme na construção da narrativa, teríamos no máximo um relato histórico bem feito. No entanto, existe ainda um esforço consciente e elaborado em construir ao mesmo tempo a psique do seu personagem-título, acompanhar seus erros e acertos que irão culminar na evolução do seu próprio caráter. É na busca incessante pelo seus objetivos que o documentário converge para drama, que personagem vira protagonista, que protagonista torna-se herói.
 
-Até a violência no filme é insípida e frustrante. É sugerida uma vez, onde apenas vemos como consequência alguém limpando o punho sangrando, e mostrada em outra, e em nenhuma delas gera qualquer reação no espectador. Sabemos que há atrito entre essas pessoas, mas o ato inevitável se torna meramente simbólico; uma simbologia inacessível, que aos poucos se torna banal.
-
-Se revelando como mais uma novela de costumes para entreter o ocidental que deseja sentir momentos de uma vida impossível em sua própria cultura, Sem Túmulo não é universal de propósito. É marketing iraniano, desses para crítico de cinema aplaudir. Mas o que o espectador comum não sabe é a dificuldade de se aplaudir um filme apenas por ter sido produzido no Irã. Às vezes até de assisti-lo. Felizmente neste caso não é para tanto.
+E é na rima final, quando perguntado qual piloto com quem havia corrido que admirava mais, que Senna realmente prova ter sido digno de todos os seus feitos em vida e dos méritos que recebeu, pois nunca, durante toda a carreira, havia abandonado os princípios que o guiaram do começo ao fim em busca do que faz um verdadeiro piloto, esteja ele onde estiver: correr o mais rápido que puder.
 

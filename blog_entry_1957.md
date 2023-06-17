@@ -1,13 +1,12 @@
 ---
 categories:
-- writting
-date: '2020-07-15'
-link: https://www.imdb.com/title/tt12031040
+- reading
+date: '2020-08-29'
+link: https://youtu.be/5M-8XFkQ33k
 tags:
-- animes
-- series
-title: Japão Submerso
+- body
+title: Jejum de Dopamina
 ---
 
-A animação é menos cartunizada e um pouco mais realista. São capturados momentos e sensações, as coisas que prestamos atenção quando algo acontece em nossa volta. E muitas coisas já acontecem no E01.  Sentimentos de culpa e sobrevivência e impotência cerceam Japão Submerso, uma série animada de catástrofe.
+Na verdade é um jejum de super estímulos, que tem por objetivo apagar o incêndio causado pelos neuroreceptores de dopamina de hábitos compulsivos em busca de prazer fácil para uma vez estabilizado em níveis saudáveis observarmos os gatilhos que nos faz voltar para esses hábitos, observando nossos impulsos para voltar a essas atividades, geralmente associados ao nosso estado emocional interno. Apenas dessa forma, seguindo o modelo de terapia cognitiva, para que o equilíbrio do sistema dopamínico se mantenha, e possamos apreciar como se deve atividades vistas hoje como chatas, como ler, escrever, meditar, passear ao ar livre. Ouvir.
 

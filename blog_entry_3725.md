@@ -1,22 +1,31 @@
 ---
 categories:
 - writting
-date: '2019-06-10'
-link: https://www.imdb.com/title/tt0497986
+date: '2023-04-05'
+link: https://www.coffeegeek.com/mini-review/timemore-chestnut-c2-grinder-first-look
 tags:
-- movies
-title: Time - O Amor Contra a Passagem do Tempo
+- coffee
+title: Timemore C2
 ---
 
-Você sempre sai de um filme do diretor coreano Kim-Ki Duk (Fôlego, Pieta, Primavera Verão Outono Inverno e Primavera,  Tipo Ruim) pensativo. É uma marca deste cineasta não fechar as pontas e abrir mais algumas. "Time" faz isso, e faz de uma maneira que dá pra se divertir no processo.
+Chegou meu segundo moedor manual depois do quebra-galho que foi o [Hario Slim]({{< ref uma-breve-historia-sobre-preconceito-e-cafe >}}) por mais de dois anos. Depois de muito pesquisar fiquei muito satisfeito em comprar este modelo da Timemore, por três motivos.
 
-Ele conta a história de um casal de namorados que após dois anos juntos estão sofrendo um certo desgaste. Ela acha que ele não liga mais para seu corpo e seu mesmo rosto enfadonho. Ela é linda. Ele é mulherengo e distraído. Ela é louca.
+Para começar o custo/benefício é imbatível. Há muitos moedores manuais hoje em dia, mas nenhum entrega tanta qualidade com tão poucos moluscos. No caso da Timemore a construção de seu moedor de entrada é barateado por conta de algumas partes feitas em plástico reforçado, mas ainda assim a engenharia por trás do mecanismo criado por eles impressiona por não ser um top de linha. A sensação ao segurar um moedor desse é que ele parece mais caro.
 
-Este é um filme que fala sobre a indústria da cirugia plástica estética, aquela feita apenas para as pessoas se sentirem bem com seu corpo e rosto. Junte isso e a loucura dos relacionamentos monogâmicos e você terá um thriller contemplativo.
+Depois do custo o que mais me conquistou com certeza foi sua velocidade e comodidade. Estou acostumado a gastar cerca de três minutos todos os dias para moer meu café no Hario Slim, e isso sabendo que havia várias opções mais rápidas no mercado. Agora eu me sinto mais zen e privilegiado em conseguir colocar minha água para esquentar e apenas depois começar a pesar os grãos e moê-los, pois eu sei que o máximo de tempo que irei gastar são 40 segundos (isso moendo para Aeropress). Eu gostaria de dizer que não tem preço para isso, mas na verdade tem. Olhe o item anterior =)
 
-Kim-Ki Duk é um diretor e roteirista que trabalha seus temas com afinco. Ele usa rimas visuais, como o eterno café onde o casal se encontra e faz escândalo, assim como um enigmático bilhete escrito Eu Te Amo inúmeras vezes, um em cima de outro. Quantas vezes na vida as pessoas dizem isso, nem sempre para a mesma?
+Por fim, e apesar de já ter tocado no assunto de qualidade, acredito que o conjunto deste motivo final poderia ser chamado de versatilidade. Isso porque a fabricação do moedor permite futuros upgrades das mós, além de sua suposta longevidade (e rapidez, claro) me permitir relaxar por mais que dois anos dessa vez. Enquanto não me aventuro no espresso, o único ponto fraco deste moedor de acordo com os reviews, posso com alegria explorar muitas opções de moagem e de extração dessa bebida gloriosa de todas as manhãs.
 
-A passagem do tempo é um tema recorrente em sua cinegrafia, assim como a superficialidade da matéria em detrimento ao bem espiritual mais valioso, e aqui recebe um tratamento rústico, quase uma carpintaria abstrata onde não temos certeza do que ele está falando, ou pelo menos não poderíamos verbalizar o que significam os acontecimentos do filme. Quer dizer, poderíamos, mas apenas narrar não soluciona o enigma da vida a dois. E o brilhantismo do filme está em não se esforçar para resolver este quebra-cabeças afetivo, pois cada um de nós terá uma forma de entender.
+# Cliques sugeridos
 
-Eu sinceramente espero que você não deixe passar em branco a última cena do filme e a entenda como uma rima para o começo. Só assim para que o filme esteja completo. Porém, mesmo sem entender, há um acidente de carro próximo do final que já te deixará pensativo. Time consegue essa proeza algumas vezes.
+ - Espresso: 7-10 clicks
+ - Moka Pot: 9-11 clicks
+ - **Aeropress**: 13-14 clicks (testando com sucesso 11)
+ - Siphon (cloth): 13-15 clicks
+ - **Pour Over (cloth)**: 13-15 clicks
+ - Siphon (metal, glass filter): 15-16 clicks
+ - **Pour Over (paper)**: 15-17 clicks
+ - Chemex: 17-19 clicks
+ - Pour Over (metal filter): 18-20 clicks
+ - **Press Pot**: 25-29 clicks
 

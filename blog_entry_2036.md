@@ -1,15 +1,20 @@
 ---
 categories:
 - writting
-date: '2021-11-08T19:02:49-03:00'
+date: '2015-06-21'
+link: https://www.imdb.com/title/tt3263614
 tags:
-- animes
-title: Komi Can't Communicate
+- movies
+title: Kumiko, a Caçadora de Tesouros
 ---
 
-A estética do anime me agrada muito. Esse lance de cenários em 3D e personagens semibidimensionais inseridos em suas próprias neuras através de ajuda visual, mudança de fundo, etc. A própria movimentação da câmera é muito agradável de se ver e a direção acerta em cheio, pois o tema é sobre a tensão de alguém com crise de ansiedade ao tentar interagir com outras pessoas.
+Kumiko é uma fábula criada a partir de uma história real (ou pelo menos levemente inspirada em uma pessoa). Embalando uma história impossível em torno de um outro filme sobre uma história impossível (e, este também, baseado em uma história real), Kumiko é uma experiência entusiasmada, embora na maioria das vezes, não tenha lá seus motivos.
 
-Um ponto negativo para os espectadores no Brasil é que as legendas em português estão estragadas, foram adaptadas por um retardado ou foi a pedido da Netflix que o idioma foi corrompido no momento que apresenta um garoto que veste saia. Esta é uma tendência bem atual. Quer dizer, não garotos que vestem saia, mas garotos que o fazem achar que são tão importantes que merecem a reescrita do gênero neutro como já estava sendo usado há séculos. No caso do português, o uso masculino também é neutro. Caso encerrado. Apenas um pouco curioso para saber de quem veio a decisão... não, já passou. Apenas um retardado aleatório seguindo ordens de fãs e grupos sociais preocupados com sua agenda.
+Dirigido por David Zellner (que participa do filme) e co-escrito com seu parente (irmão?), a história gira em torno da Kumiko do título, uma garota insegura que trabalha em um emprego que não gosta e que tem todos em sua volta constantemente a assediando para que ela se ajuste ao padrão do que se espera daquela sociedade de uma mulher em sua idade. Estamos no Japão, então isso faz muito sentido, e o que torna Kumiko um tanto mais heroica (transgredir as regras sociais no Japão, para uma mulher, com certeza é heroico, ainda que nos tempos atuais).
 
-Ainda assim, se ignorarmos os episódios e os momentos onde a língua portuguesa é assassinada por quem não a conhece (afinal, tradutores precisam conhecer a língua, mesmo?), Komi Can't Communicate não traz nada de novo como tema, é a alocação de dinheiro para assuntos socialmente engajados do serviço de streaming, como pessoas socialmente inadequadas e vamos falar sobre isso. Porém, sua linguagem visual é uma coisa apartada da história, e se engana bem. Melhor que tudo em sua volta.
+Quando Kumiko encontra uma fita VHS antiga enterrada em uma caverna na praia contendo o filme Fargo (sim, aquele dirigido pelos irmãos Coen), ela pensa ter encontrado um mapa para o tesouro: o lugar onde o personagem de Steve Buscemi no filme enterra o dinheiro do sequestro que deu errado. A partir daí a vemos planejar passo-a-passo seu objetivo. Bom, na verdade, mais ou menos. Sua rotina e sua vida solitária é mais o foco aqui, e como pessoas libertas das convenções sociais, ainda que notadamente malucas, são vistas com maus olhos.
+
+Plasticamente um belo filme, com uma fotografia limpa e com o tema vermelho impregnando a tela, "Kumiko" é um filme tecnicamente irrepreensível, embora não tenha nenhuma ambição mais do que entregar a jornada da nossa heroína quase como uma conquistadora espanhola. Brincando com o destino real da garota (na vida real, ela se matou), alguns detalhes da japonesa em carne e osso são transmitidos mais como metáforas, e até a posição do diretor como um personagem que faz de tudo para ajudá-la é metalinguístico.
+
+Contudo, como mensagem, assim como muitos filmes que se espelham em um acontecimento do noticiário, é vazio, o que se torna um pouco decepcionante. Ainda assim, mesmo não sendo um grande filme, Kumiko merece mil vezes mais ser assistido por ousar diferente, do que tantos filmes igualmente medíocres, mas sem qualquer traço artístico que se destaque das aventuras formulaicas que estamos acostumados a assistir. Só por isso já valeria uma visita.
 

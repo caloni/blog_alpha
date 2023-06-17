@@ -1,31 +1,87 @@
 ---
 
-Se você gostou de Guardiões da Galáxia é quase certeza que irá apreciar as novas aventuras do time de escanteio da Marvel, que ironicamente são os que mais lembram, com orgulho e um certo sarcasmo, a mídia original de onde vieram: os quadrinhos. Agora, se você é como eu, tenho certeza que achou que nada de bom viria de um filme onde novamente há uma equipe de anti-heróis de mentirinha formados por um guaxinim bancando o bad ass, um macho alfa genérico e seu objeto de desejo pintado de verde (porque é uma atriz negra), um brutamontes genérico isento de neurônios no cérebro e papas na língua e uma árvore falante (Eu sou Groot) dublada por Vin Diesel (que agora é pequena, o que torna Vin Diesel por tabela fofinho). Para você que pensa como eu, acredito que provavelmente você estará errado em julgar prematuramente uma continuação que faz de tudo dessa vez para acertar as pontas soltas desse ensaio bem-humorado dos quadrinhos para as telonas.
+Houve um bom motivo para que, semana passada, eu estivesse caçando inúmeras versões de um projeto desenvolvido fora da empresa: falta de controle de código. Esse tipo de lapso pode consumir de horas a dias de tempo perdido, dependendo de em quantas cópias de máquinas virtuais ficou espalhado o código.
 
-Dessa vez o tom meio bonachão ensaiado no primeiro filme está aqui a todo vapor. Graças a um ritmo alucinante que une cenas de ação irreais e um timing cômico orgânico, praticamente todo o filme respira o mundo dos quadrinhos, onde é preciso economizar balões de diálogos e abusar do visual, com cores berrantes que não são desse mundo. A não ser que esse mundo esteja desenhado em páginas brilhantes de um almanaque Marvel.
+Já [escrevi a respeito] da importância de controlar e gerenciar o código-fonte para que a falta de um histórico exato das alterações não seja motivo de recorreções de problemas, binários no cliente sem contraparte para ajustes, além de uma série de dores de cabeça que costumam começar a ocorrer assim que nos damos conta que nosso software está uma bagunça que dói.
 
-E de uma maneira semelhante aos X-Men celebrando a diversidade, aqui o humor usa e abusa das subversões e confusões quando se mistura duas (ou várias) culturas, povos, raças e planetas da mesma galáxia, onde se na Terra Mary Poppins é uma coisa, em outro ponto da galáxia pode virar outra completamente diferente. É possível sentir que o pedaço de universo onde a Terra se encontra agora é um lugar mais rico graças à diversidade da vida. Mas, diferente de Star Wars, aqui a vida não depende de muitos efeitos visuais, bastando um pouco de tinta (uma maquiagem competente) e atuações impressionantes para o gênero. Atuações essas que são vitais para o desenvolvimento da história, que confia mais na interação entre seus personagens e os problemas universais de convívio entre as pessoas (relação pai/filho, irmãs rivais, duas pessoas com visões de mundo diferentes, o renegado pelo bando e o complexo de inferioridade de um guaxinim).
+Na época, discursei brevemente sobre alguns exemplos de gerenciadores de fonte que utilizam modelo centralizado, e nos exemplos práticos usamos o famigerado Source Safe, velho amigo de quem já programa ou programou Windows por alguns anos. Além dele, temos os conhecidíssimos CVS e Subversion, ambos largamente utilizados no mundo todo.
 
-Vou pegar apenas um exemplo, que sequer é o principal da trama: as irmãs brigadas. Note como a constituição robótica da irmã menos talentosa de acordo com os padrões do seu pai é uma metáfora para quando se nega a humanidade de alguém, tentando trocar as peças supostamente defeituosas por versões artificiais. A forma como o filme resolve o conflito entre as duas, com uma mega-luta entre duas criaturas extremamente poderosas, é de tirar o chapéu. É um espetáculo que está ligado com um drama familiar. Nem George Lucas conseguiu fazer o mesmo com Luke Skywalker, pois ele não tinha alguém com o talento de pessoas como Karen Gillan, que como Nebula conquista pela economia de expressões, mas são expressões de angústia, pesar e remorso bem definidas pela atriz.
+No entanto, uma nova forma de controlar fontes está nascendo já há algum tempo, com relativo sucesso e crescentes esperanças: o modelo distribuído. Nesse tipo de gerenciamento, a liberdade aumenta exponencialmente, permitindo coisas que no modelo antigo seriam muito difíceis de serem implementadas. Não vou me delongar explicando a teoria por trás da idéia, sabendo que, além de existir um ótimo texto explicando as vantagens em cima do modelo centralizado [disponível na web], o próprio sítio das implementações atuais explica a idéia de maneira muito convincente. E são elas:
 
-A irmã de Gamora, portanto, representa em seu drama aquela briga boba de irmãos quando crianças, mas que gera cicatrizes profundas no ser. De uma forma semelhante, todos os personagens nesse filme possuem problemas pendentes que vão ter que resolver ou aprender a conviver. Assim, Rocket, dublado com uma entonação irritada, mas ao mesmo tempo neutra por Bradley Cooper, está sempre querendo chamar a atenção e possui um complexo de inferioridade que se traduz desde sua estatura ou pouca relevância para a equipe até suas ações menos nobres (como roubar baterias inúteis pelo simples prazer de roubar).
+ - [Mercurial] (ou hg). Sem dúvida o mais fácil de usar. Bem documentado e com comandos intuitivos para o usuário, vem ganhando mais adeptos a cada dia. Seu desempenho é comparável ao do Git, e seu sistema de arquivos é bem eficiente.
 
-Já o mercenário "red neck" Yondu, interpretado por Michael Rooker (The Walking Dead) com seus dentes tortos, exibe seu sotaque caipira e uma naturalidade em ser líder mesmo após ser renegado pela liga de mercenários comandada por Sylvester Stallone. É de longe a figura mais complexa da trama, pois é acusado injustamente por traficar uma criança, um peso que sentimos no seu olhar por detrás de seu jeito durão. Seu arco, embora com pouco tempo de tela, é quase shakesperiano sem as falas pomposas, mas apenas gestos e expressões nobres. E isso estamos falando de um ser que assobia e faz voar uma flecha que sai matando todos seus inimigos.
+ - [Bazaar] (ou bzr). O irmão mais próximo do Mercurial, com comandos bem parecidos. Um costuma lembrar os comandos do outro, com pequenas diferenças. Seu desempenho não chega a ser comparável aos dois acima, mas sua robustez compensa, pois é o único, de acordo com testes e estudos, que suporta o controle total de operações de renomeação de arquivos e pastas. Recentemente seu projeto tem evoluído muito.
 
-O alívio cômico natural -- a total ignorância das coisas que temos na Terra -- dessa vez é usado de maneira exemplar. Peter Quill (Chris Pratt, o protagonista) pede desculpas a Rocket por chamá-lo de guaxinim (lembrando que ele não é um guaxinim, pois isso só existe na Terra); ele o chama no lugar de lixo de panda, o que é muito pior, mas que não tem efeito nenhum até que o próprio Quill explique isso. E o brutamontes Drax (Dave Bautista), o personagem mais apagado, consegue arrancar alguns bons momentos com seu jeito desprovido de sutileza, como ao perguntar a um novo personagem se ele possui órgãos genitais como se estivesse perguntando se ele usa relógio. Esse tipo de humor em Vol. 2 é quase inexistente no original, ou apagado pela sua suposta seriedade, mas aqui é o que de fato constrói uma trama que desenvolve o universo como ele foi idealizado: escrachado para explorar as confusões culturais entre as pessoas, dando um novo olhar em como a subjetividade das experiências pode isolar as pessoas.
+ - [Git] (ou git). Conhecido como o controlador de fontes do kernel do Linux. Escrita a versão inicial por Linux Torvalds em C e módulos de Perl pendurados, hoje em dia tem como principal desvantagem a falta de suporte nos ambientes Windows, impactando negativamente em projetos portáveis. Sua principal vantagem, no entanto, é a rapidez: é o controle de fonte mais rápido do oeste.
 
-E por falar em isolar, o personagem de Kurt Russell, Ego, é o exemplo máximo da obra. Sendo um Celestial, algo semelhante a um deus, podendo criar seu próprio mundo, sua única visão de significado no universo é criar um universo formado por ele mesmo. Seu isolamento completo de todas as pessoas gera uma anomalia em sua visão de mundo, e é isso que é usado como vilão no filme e ao mesmo tempo como escape humorístico. Seus planos podem ser acusados de convenientemente maquiavélicos, mas é necessário aqui, mais uma vez, colocar o chapéu de Celestial e entender suas motivações, por mais bizarras que estas sejam. A interpretação de Russell, e muito menos suas ações, não deixa muita margem para empatia, o tornando aos poucos o mal desde o início declarado de maneira velada.
+Nos sistemas centralizados o repositório de fontes fica em um lugar definido, de onde as pessoas pegam a última versão e sobem modificações, ou não, caso não tenham direito para isso. Nos sistemas distribuídos, o histórico e ramificações ficam todos locais. Como assim locais? Bom, locais do jeito que eu estou falando quer dizer: na própria pasta onde se está desenvolvendo.
 
-E até personagens mal conduzidos, como Teaserface, consegue não apenas ser usado para um momento de humor simples e eficaz a respeito do seu nome (com direito a repeteco mais pra frente), mas também é um exemplo de como a maquiagem consegue ser tão eficaz em Guardiões, com sua face meio desfigurada que lembra alguém que já passou por muita violência, construindo um mundo absurdamente real em uma fantasia ironicamente mais absurda que todos os filmes da Marvel juntos. Conseguindo tanto referenciar o mundo dos quadrinhos com cenários deslumbrantes e enquadramentos cafonas, em câmera lenta e com seus personagens soando desnecessariamente imponentes com uma excelente trilha sonora dos anos 80 (terráqueo), a fotografia com cores exageradas está aí justamente para servir a esse propósito, e se transforma em algo tão lindo de se ver como significativo em seu tema. E me surpreendeu que o 3D do filme, apesar de ser prejudicado nas cenas de ação frenética (felizmente poucas), consegue dar um ar de imersão interessante, pois ele também serve como uma maneira de utilizar a mídia cinematográfica em algo mais comics.
+É lógico que pode existir uma versão de ramificações no servidor, que no caso do controle distribuído é mais um membro da rede peer-to-peer de ramificações, já que cada colaborador possui seu próprio repositório local, capaz de trocar revisões entre colaboradores e subir revisões os servidores que interessarem.
 
-Guardiões Vol. 2 contém em seu núcleo de roteiro e direção de James Gunn (do primeiro Guardiões, mas principalmente do excelente e desconhecido Super) um mundo ainda a ser explorado em inúmeras continuações. Ele não tem medo de expor um pouco de violência, nem de matar alguns personagens pelo motivo dramático. Porém, principalmente, ele não tem medo do ridículo, pois entende que este universo é o lugar ideal para explorar esse lado B das produções de super-heróis sem perder a produção classe A. E, assim como Deadpool, comprova que o universo Marveliano merece cada vez mais menos seriedade e mais trilhas sonoras saudosistas. É quase como voltar a ser criança durante o tempo de projeção.
+Além disso, o conceito de ramificações (branches) e consolidação de versões (merging) é muito mais presente do que em sistemas como o Subversion, onde o commit (ato de enviar as revisões de um código para o repositório central) ocorre de forma controlada. Da maneira distribuída, é comum criar um branch para cada problema ou feature sendo desenvolvida, e ir juntando tudo isso imediatamente após terminado, gerando um histórico bem mais detalhado e livre de gargalos com modificações temporárias.
+
+Porém, a maior vantagem em termos de desenvolvimento acaba sendo a liberdade dos usuários, que podem trocar modificações de código entre si, sem existir a figura centralizadora do branch oficial. Ela pode existir, mas não é mais uma condição sine qua non para modificações no fonte.
+
+Comecei a usar em meus projetos pessoais o Mercurial por ter ouvido falar dele primeiro. Achei a idéia fantástica, pois já estava à procura de um substituto para meu velho Source Safe, meio baleado das tantas inovações de controle de fonte que surgiram nos projetos de fonte aberto. Outro motivo para desistir do Source Safe foi o fato de ser uma solução comercial que custa dinheiro e não chega a ser absurdamente mais fácil de usar a ponto de valer a pena usá-lo.
+
+O princípio de uso de uma ferramenta distribuída é muito simples: se você tiver um diretório de projeto já criado, basta, dentro dessa pasta, iniciar o repositório de fontes.
+
+    > hg init
+
+Após isso, será criada uma pasta com o nome .hg. Dentro dela é armazenado todo o histórico dos fontes. Podemos inicialmente adicionar os arquivos do projeto existente e fazer o primeiro commit, que irá começar a controlar os arquivos adicionados dentro dessa pasta e subpastas:
+
+    > hg add
+    adding Header.h
+    adding Main.cpp
+    adding Project.cpp
+    adding Project.vcproj
+
+    > hg commit -m "Primeira versao"
+
+Se o programa não disse nada ao efetuar o commit, é porque está tudo certo. Agora podemos controlar as mudanças de nosso código usando o comando status. Para vermos o histórico usamos o comando log.
+
+    > hg log
+    changeset:   0:e9246bcf2107
+    tag:         tip
+    user:        Wanderley Caloni <wanderley@caloni.com.br>
+    date:        Tue Apr 15 09:05:27 2008 -0300
+    summary:     Primeira versao
+
+    > echo bla bla bla >> Main.cpp
+    
+    > hg status
+    M Main.cpp
+    
+    > hg commit -m "Alterado algumas coisas"
+    
+    > hg log
+    changeset:   1:829b081df653
+    tag:         tip
+    user:        Wanderley Caloni <wanderley@caloni.com.br>
+    date:        Tue Apr 15 09:06:29 2008 -0300
+    summary:     Alterado algumas coisas
+    
+    changeset:   0:e9246bcf2107
+    user:        Wanderley Caloni <wanderley@caloni.com.br>
+    date:        Tue Apr 15 09:05:27 2008 -0300
+    summary:     Primeira versao
+
+Como vimos, ao alterar um arquivo controlado este é mostrado pelo comando status como alterado (o M na frente do Main.cpp). Também existem controles para cópia e exclusão de arquivos.
+
+Esse é o básico que se precisa saber para usar o Mercurial. Simples, não? O resto também é simples: fazer branches e juntá-los é uma questão de costume, e está entre as boas práticas de uso. Eu recomendo fortemente a leitura do tutorial "Entendendo o Mercurial", disponível no sítio do projeto, até para entender o que existe por trás da idéia do controle descentralizado de fontes.
+
+Como usuário de Windows, posso dizer que a versão funciona muito bem, e é possível fazer coisas como, por exemplo, usar o WinMerge para juntar branches ou comparar versões automaticamente, o que por si só já mata toda a necessidade que eu tinha do Source Safe.
+
+Testei o Mercurial por cerca de três meses desde que o conheci. Esse fim-de-semana conheci mais a fundo o Bazaar, e pretendo começar a testá-lo também para ter uma visão dos dois mundos e optar por um deles. Ambos são projetos relativamente novos que prometem muito. De uma forma ou de outra, os programadores solitários agora possuem um sistema de controle de fontes sem frescura e que funciona para todos.
+
+[escrevi a respeito]: {{< relref "guia-basico-de-controle-de-codigo-source-safe" >}}
+[disponível na web]: http://ianclatworthy.files.wordpress.com/2007/10/dvcs-why-and-how3.pdf
+[Git]: http://git.or.cz/
+[Mercurial]: http://www.selenic.com/mercurial/wiki/
+[Bazaar]: http://bazaar-vcs.org/
 
 ---
 categories:
-- writting
-date: '2018-10-17'
-link: https://www.imdb.com/title/tt6543652
-tags:
-- cinemaqui
-- movies
-title: Guerra Fria
+- coding
+date: '2007-09-12'
+title: Guia básico de controle de código (Source Safe)

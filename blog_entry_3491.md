@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2015-04-30'
-link: https://www.imdb.com/title/tt2179136
+date: '2015-01-20'
+link: https://www.imdb.com/title/tt1441395
 tags:
 - movies
-title: Sniper Americano
+title: Sob a Pele
 ---
 
-Sniper Americano é um filme de Clint Eastwood, e com isso deduzimos de onde vem a sensibilidade da maior parte do filme e a calma com que o tempo é conduzido na história de Chris Kyle (um Bradley Cooper irreconhecível), um "caipira" patriota e que resolveu se candidatar ao exército de elite, desistindo de sua vida de caubói e deixando sua esposa sozinha cuidado de seus filhos em longos hiatos, que são as operações que ele participou na última cagada norte-americana: a Guerra do Iraque.
+Sob a Pele lembra um remake de trashes obscuros dos anos 70, mas é um filme recente. O estilo é mimetizado, o que tem tudo a ver com a história da alienígena que finge ser uma humana e seduz homens para "comê-los". Dentro desse aspecto do filme também há vários bons motivos para escolher Scarlett Johansson nesse papel, e ser uma "musa corporal" é apenas um deles. Atraindo sempre homens solitários através da mesma técnica de se fingir de perdida, são unicamente eles os responsáveis por serem suas vítimas, tanto que ela apenas tem a missão de verbalizar, andar, tirar a roupa.
 
-Ressaltando com exatidão os dilemas morais do sujeito, e universalizando essa dúvida conosco, espectadores, a primeira cena já é forte o suficiente para repensarmos toda essa bobagem de guerra: matar uma criança é justificável para salvar um bando de soldados que, adultos, escolheram esse risco? Igualmente preciso em imaginar a rotina de um atirador de elite através de sua arma, uma sniper de longo alcance e ótima pontaria, o filme é realista no ponto certo e em um ritmo rápido para trazer à tona o tema da guerra.
+A trilha sonora esquisita remete ao tom fabuloso da história alienígena. Os poucos diálogos reforçam essa sensação. É um filme ímpar em narrativa, pois praticamente nada precisa ser dito para explicar a história. É um filme para ser sentido, não verbalizado. A fêmea é apenas isso: uma mulher com dotes físicos atraentes. Fica difícil chamá-la sequer de vilã, ainda mais quando há a ameaça de estupro. Quando ela encontra um homem para lhe fazer companhia, é o sexo novamente que entra em jogo.
 
-No entanto, uma vez que a atmosfera é estabelecida, não temos mais nenhum avanço significativo na história. Entendemos a tensão acumulada em Chris e todos os seus assassinatos, mas não é preciso muito tempo de tela para entendermos isso. Até na primeira cena, que corta para o futuro, onde agora pai treina seu filho que atira em um veado.
-
-Sem altos e baixos, mas sem igualmente pontos altos, Sniper Americano é um filme OK, que conta uma história OK e que termina abruptamente, cortando sua narrativa em prol da história baseada em fatos reais, nunca uma notícia muito boa.
+E o sexo é a razão que nos faz acompanhar sua história sem sequer piscar. O balanço da música nos leva para os sonhos mais bizarros, os pesadelos mais gentis. Simbolismos podem ser retirados, mensagens sociais, políticas, filosóficas. Interpretações à parte, o ser humano é antes de tudo um animal, e ser um animal é a porta de entrada de ações bestiais e primitivas.
 

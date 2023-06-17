@@ -1,27 +1,34 @@
 ---
 categories:
 - writting
-date: '2018-11-13'
-link: https://www.imdb.com/title/tt5230380
+date: '2011-04-07'
+link: https://www.imdb.com/title/tt0399295
 tags:
-- cinemaqui
 - movies
-title: O Segredo De Davi
+title: O Senhor das Armas
 ---
 
-O Segredo de Davi é sobre um estudante de Cinema e sobre Cinema. Um dos poucos filmes de gênero que costumam sair em circuito comercial aqui no Brasil em um gênero que curiosamente até mantém seu público cativo através das décadas, mas que nunca se transformou em algo viável em terras tupiniquins. Agora nós temos uma produção brasileira de tirar o fôlego em todos os quesitos técnicos e narrativos, o que é uma ótima notícia. E apesar de flertar com os enlatados norte-americanos ele mantém seu charme local.
+O roteirista-diretor Andrew Niccol, que esteve nessa função dupla nas produções Gattaca e S1mone, além de ter escrito O Show de Truman e O Terminal, dessa vez parte para uma imersão no real, tratando do submundo do comércio ilegal de armas.
 
-Se trata da história de Davi (Nicolas Prattes), um garoto tímido que estuda artes visuais e que vive sozinho no centro de São Paulo. Atraído inicialmente em observar as pessoas, filmando-as no processo, Davi é um misto entre narrador em off e protagonista subjetivo. Aos poucos vamos percebendo que quem está contando a história é ele, sob seu ponto de vista. E seu ponto de vista é distorcido, surreal, onírico. Cinematográfico e sobrenatural ao mesmo tempo, e o resultado em pouco tempo é um certo desconforto de nós observá-lo.
+Nicholas Cage faz Yuri Orlov, um negociante de armas ilegais, durante sua ascenção em uma carreira mais que controversa. Narrado em off, insere-se no papel por completo, e ao mesmo tempo que narra as atrocidades que seus clientes fazem com as armas e toda a podridão que existe por trás de sua profissão, parece nunca fazer parte disso, alheio aos problemas locais das várias partes do mundo que visita. Mesmo sua mulher, tão desejada em sua adolescência, não o preenche tanto quanto sua profissão, e nisso é relevador que o momento em que seu filho dá seus primeiros passos é o mesmo momento em que ele fica em êxtase, não pelo filho, mas sim pelo fim da Guerra Fria, significando mais possibilidades de comércio de armas para ele.
 
-Isso porque Davi começa a agir em relação ao que observa, e sem querer revelar muita coisa, o que vemos não é bonito. Porém, continuamos vendo, pois o fascínio que ele tem inicialmente em observar é passado para o espectador, que precisa continuar imaginando por que Davi está fazendo tudo isso. Os motivos vão sendo revelados aos poucos, com um certo clima de desorientação. Já não sabemos o quão claro Davi está sendo conosco, mas sabemos que ele está ciente das consequências. Mas o tímido garoto não consegue evitar. Vai surgindo uma força, bem aos poucos. No começo é bem conveniente, mas depois, quando ele flerta com uma garota, ele ganha nossa cumplicidade ao mesmo tempo que torcemos para que ele mude seus objetivos. Ele não muda, e o clima vai ficando cada vez mais pesado.
+Há um motivo para a introdução do personagem ser tão corrida e artificial. Como veremos a partir do segundo ato, a única coisa que torna Yuri Olov vivo são as vendas de armas que negocia de maneira tão magistral. E vê-lo comparar suas vendas a sexo não é um ato gratuito.
 
-A atuação de Nicolas Prattes é um ponto fora da curva. Cercado de personagens convencionais, ele se destaca não apenas pela competente transformação de Prattes, mas também pelo uso combinado de câmera e cores. Note como o esguio Davi começa se vestindo com sua roupa toda branca e a cabeça cabisbaixa, e repare como a sua feição não muda tanto assim, mas suas roupas ficam escuras e seus movimentos mais agitados, apressados e até certo ponto descontrolados.
+Vindo de uma família que no passado fingiu ser judia para conseguir se repatriar, o que reforça sua crise existancial em torno do seu mundo, Orlov admira sua própria importância no contexto em que se insere. A parte que melhor resume toda essa imersão é quando, conversando com sua mulher sobre seu trabalho, em certo momento diz que não é sobre o dinheiro, mas que ele faz aquilo realmente bem. Cada vez que ele visita seus clientes, aos poucos nos sentimos cada vez mais como ele: morto por dentro, onde a única excitação é negociar as armas.
 
-A direção de arte desse filme é um primor. Apenas fico triste de não ter visto outras partes da sinistra cidade de São Paulo retratadas pelas cores cinzentas de Kaue Zilli (Todo Clichê do Amor), apesar de concordar que a decisão de estar nos cenários externos mais marginais do centro seja uma ótima ideia, pois torna a figura de Davi um tanto distante, mas nem tanto. Perigosamente onisciente das mazelas do sujo, abandonado e desatento centro da cidade.
+Por outro lado, a insistência de manter seu irmão mais novo no negócio em momento nenhum é justificado. Talvez apenas um conforto tê-lo presente, pois não constitui nenhuma ajuda.
 
-Mas o filme não é todo escuro, e é isso que o torna digno de nota. O design de produção de Fernando Cacerez auxilia em criar na mesma cena um misto entre luz e sombra que se separam de maneira tão gritante que em certos momentos parecemos estar vendo um filme 3D. E é justamente isso que se passa na cabeça de Davi, que vivendo nas sombras entende seu objetivo através de uma foto icônica, ensolarada e feliz. Davi vai tentando recriar sentimentos mistos de felicidade e ódio dessa foto.
+Mesmo com um tropeço aqui e ali, a direção consegue destacar as características de cada personagem em cada região e unificar Yuri como o elemento em comum, o facilitador de todos. Nicholas Cage, por sua presença de espírito prova mais uma vez ser um bom ator nos papeis certos, e aqui não é uma exceção.
 
-A direção de Diego Freitas insiste em closes exagerados e enquadramentos estilizados, mas essa insistência é justificada, pois nos faz ter a mesma sensação de desconforto de seu protagonista. Esse desconforto é ressaltado pelo uso do som e suas quebras constantes entre silêncio e um barulho ensurdecedor, usado além do limite do razoável e que lembra um pouco (demais) os thrillers psicológicos americanos.
+Ao mesmo tempo, as narrações em off conseguem na maioria do tempo harmonizar com a ação, que não é pouca. O próprio uso dessas transições entre as regiões serve como continuidade da própria história, em um ótimo exemplo de economia narrativa.
 
-Freitas também assina o roteiro competente, que teve ajuda da crítica Ana Maria Bahiana, e que embora capenga em seus minutos finais é eficiente na maioria do tempo. Note como alguns detalhes nem precisam ser ditos ao espectador, como quando descobrimos quem realmente está namorando a amiga de Davi, ou a relação entre Davi e seu misterioso pai. E o uso repetido de frases-chave ressaltam o caráter repetitivo das vozes que Davi escuta, em mais um sinal de respeito à inteligência do espectador. Além disso, a reviravolta evita muitos flashbacks para não soar pedante, se limitando ao necessário. Funciona. O Segredo de Davi, você irá notar, possui narrativa econômica do começo ao fim. Vai prender a atenção de muita gente.
+Ao evitar computação, principalmente em cenas como o pouso do avião, ou até mesmo os tanques enfileirados na entrada da Ucrânia, torna toda a experiência mais realista. Houve um trabalho igualmente recompensado em escalar figurantes locais, que se adequam ao cenário como nunca, como a cena em que vemos uma velha senhora enfileirando os ladrilhos de uma rua. Ao mesmo tempo, nota-se a competência em tentar encaixar a melhor fotografia e trilha sonora com o momentum do personagem.
+
+Mesmo com todas essas virtudes técnicas, a filosofia (ou a mensagem) por trás da história é o ponto forte do longa, que consegue, em seus momentos finais, causar o que todos esperamos ao assistir um bom filme: reflexão.
+
+Trivia
+
+É irônico o fato dos produtores do filme trabalharem realmente com gunrunners de armas ilegais para conseguir as armas, e ser mais barato as armas reais do que se falsificassem.
+
+O filme foi financiado por instituições internacionais (nenhuma produtora dos Estados Unidos bancaram o filme).
 

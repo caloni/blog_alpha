@@ -1,18 +1,27 @@
 ---
 categories:
 - writting
-date: '2015-01-18'
-link: https://www.imdb.com/title/tt2397535
+date: '2019-07-11'
+link: https://www.imdb.com/title/tt7175992
 tags:
+- cinemaqui
 - movies
-title: O Predestinado
+title: O Professor Substituto
 ---
 
-Apesar de ser um fã incondicional de Efeito Borboleta, sei que o longa possui alguns defeitos indesculpáveis. Sua lógica interna, como todo instigante filme de viagem no tempo, não foi costurada tão bem a ponto do espectador não se preocupar muito com seus paradoxos, e embora sua maior virtude resida nas possibilidades múltiplas de seus personagens, não existe essa de licença poética no Cinema. Se sua narrativa não consegue ser coesa, suas pontas soltas irão te ferir por dentro.
+Uma classe de alunos está compenetrada estudando. O calor é tão forte que é possível sentir seu barulho, no começo incômodo, no final ensurdecedor. O professor pega uma cadeira para chegar ao parapeito da janela e se joga, deixando seu posto vago de uma maneira mórbida. O Professor Substituto chega em um momento delicado para a escola, para os alunos e para toda a sociedade.
 
-Já em O Predestinado o objetivo é exatamente o contrário: ele expõe tanto a vida do policial vivido por Ethan Hawke quanto seus paradoxos. Ele dedica boa parte do seu tempo esmiuçando a curiosa história de vida da personagem vivida por Sarah Snook sem pressa em uma conversa que lembra muito as divagações despropositadas de Um Beijo Roubado, o que é lindo, ingênuo e delicado. Seu flashback ocupa tanto tempo que começamos a duvidar deste ser um filme sci-fi, e nos esquecemos que nenhum sci-fi que se preste é apenas sobre ficção científica, mas principalmente uma metáfora para os dramas da vida. Quem somos nós? Quem é você? Se existe destino, como ele é?
+Este é um thriller que acompanha o processo em que um quarentão galã e perdido se vê no direito de cuidar e de se preocupar com seus alunos e ao mesmo tempo não consegue evitar mergulhar em sua análise comportamental quando ele próprio se vê diante de um thriller comandado por seis crianças que seriam consideradas problemáticas se não fossem espertas demais para disfarçar isso para os outros professores.
 
-Quando finalmente vemos a primeira viagem no tempo tudo acontece tão rápido que é como se diversas camadas de história estivessem sendo descascadas na nossa frente, tal como uma dobra temporal, e ficássemos praticamente impotentes diante do poder dos eventos inevitáveis sobre nosso protagonista, que não param de acontecer.
+O filme nos prende nessa dinâmica repetitiva que infelizmente funciona. Elaborada junto de um design de som preocupado em nos manter ocupados analisando o significado dessa estranheza, acompanhamos os devaneios do grupo de jovens inseridos em forma de vídeos caseiros sobre o destino do aquecimento global, da extinção em massa e da tortura dos animais, tudo em cenas fortes que podem pegar alguém desprevenido caso a pessoa já não tenha sido impactada com a tentativa de suicídio da primeira cena.
 
-Porém, os diretores e roteiristas Irmãos Spierig não se esquecem de sua ponta dramática, e um jantar casual vira um intrincado jogo de raciocínio: quem veio primeiro? O pensamento ou a adivinhação? E isso é apenas o começo de uma série de reviravoltas que, apesar de menos imprevisíveis, arremessam os mesmos questionamentos emocionais em níveis de ambição diferentes, onde a tentativa de salvar o maior número de pessoas pode até ser compreendido como uma paranoia pós-11/09 (na vida real) em que uma balança macabra calcula a quantidade ótima de quantas pessoas devem morrer.
+Para, assim como o professor, prestarmos atenção no que essas crianças estão aprontando, o filme os coloca em um pedestal de supremacia. São alunos adiantados do resto da escola e que se vêem como tendo que carregar o fardo de verem o que ninguém mais consegue ver, isolados em sua arrogância e compenetrados em rituais de auto-tortura como a passar uma mensagem aos sobreviventes do fim do mundo que está chegando.
+
+Este poderia ser um trabalho risível e descartável, não fosse a empatia trazida ao filme por Laurent Lafitte (Elle), que interpreta Pierre, o professor substituto do título. Pierre realmente acredita que algo de muito crítico acontece com seus alunos. Ele é a parte inexistente em trabalhos como O Elefante, que aguarda ansioso pela tentativa de uma tragédia como Columbine, estando pronto para intervir e assim lutar contra todo o establishment acadêmico alheio às condições psicológicas de seus alunos.
+
+Porém, ao se aprofundar demais em suas investigações e relevar todo o resto da escola, incluindo outros professores e alunos, a história se isola de uma maneira exagerada, que evidencia a paranoia do professor além do aceitável, fazendo-o se tornar uma paródia desses filmes conspiratórios. Para ajudar a piorar seus alunos cantam músicas inadequadas demais para o ambiente escolar, envolvendo dinheiro e prosperidade em um tom de crítica cartunesca. A estranheza que o filme quer nos passar é a própria barreira para entendermos sua mensagem, se é que há alguma.
+
+O diretor Sébastien Marnier trabalha a adaptação do livro de Christophe Dufossé em sua tentativa infrutífera de apontar dedos sem saber o ângulo exato. Ele absorve os acontecimentos econômicos e políticos e cospe um bando de alunos super-dotados que sofrem bullying por serem desagradáveis com o resto da escola em um processo que se retroalimenta. Seu trabalho apresenta material para reflexões sobre o tempo que vivemos e nossas falhas de comunicação e empatia, mas sem ele próprio ter refletido a respeito. É um trabalho cru travestido de algo maior.
+
+Bons filmes nos ensinam lições sobre como o mundo é sem nos entregar as respostas definitivas, entendendo que esta é um tarefa impossível. Filmes não tão bons quanto O Professor Substituto nos ensinam que nada substitui o senso crítico do próprio espectador.
 

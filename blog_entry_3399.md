@@ -1,87 +1,154 @@
 ---
 categories:
 - coding
-date: '2008-03-10'
-title: Sed, Grep e afins
+date: '2023-04-17'
+link: https://youtu.be/Ic7OO3Uw6J0
+tags:
+- interview
+title: Árvore de segmentos
 ---
 
-Esse artigo é resultado de eu ter me matado para conseguir encontrar a forma correta de usar o aplicativo sed para fazer uma filtragem simples nos resultados de uma listagem de arquivos.
+Não existe sequer uma entrada em português sobre Segment Tree, uma árvore binária específica para guardar intervalos. E este acredito ser um assunto importante para testes de entrevista ou competições de programação porque ele é muito útil para alguns problemas. Vamos dar uma olhada em como ela funciona.
 
-Primeiramente, eu gostaria de expressar minha total surpresa ao não conseguir encontrar um guia simples e confiável de uso dessas ferramentas na web. Existem três teorias: ou eu não sei usar as palavras mágicas certas no Google, ou a indexação das páginas realmente importantes sobre o assunto não funcionam com o Google, ou de fato não existe documentação fácil sobre o tema.
+Em primeiro lugar, ela é uma árvore binária. No entanto, seus ramos representam intervalos. A raiz possui o intervalo inteiro (mínimo e máximo) e os ramos vão se dividindo em intervalos menores, até que as folhas indiquem apenas um elemento.
 
-Como esta é uma exceção em anos de "googadas", eu fico com a terceira opção.
+É importante notar que uma árvore de segmento é maior que simplesmente um array, mas diferente de um array, a árvore brilha quando precisamos somar intervalos.  Como ela está estruturada de maneira que cada ramo contém a soma de seus galhos, para obter a maioria dos intervalos sua complexidade desce de O(N) para O(log N).
 
-Existem algumas ferramentas que já salvaram minha vida uma dúzia de vezes e devo admitir que são tão poderosas e flexíveis quanto difíceis de usar:
+{{< image src="segment_tree.png" >}}
 
- - Grep. Use esta se quiser fazer uma busca, qualquer busca, em um arquivo, um conjunto de arquivos ou uma enxurrada de caracteres do prompt de comando.
- - Sed. Use esta se quiser processar a entrada de um arquivo, um conjunto de arquivos ou uma enxurrada de caracteres do prompt de comando.
- - Sort. Use esta se quiser ordenar qualquer coisa da entrada padrão (inclusive arquivos, conjunto de arquivos...).
+Dessa forma, podemos concluir que o espaço ocupado por uma árvore binária para implementar um segment tree completo deve ocupar por volta de `2*N-1`, o espaço para implementar uma árvore binária completa com N folhas.
 
-Essas ferramentas são nativas do ambiente Linux, mas podem ser instaladas no Windows através do Cygwin, do Mingw ou nativamente através das ferramentas GnuWin32.
+No entanto, o tamanho para estocar uma segment tree não é esse, mas tipicamente `4*N`. O motivo disso é que nós precisamos de `2*next_power_of_two(N)-1` para garantir que as divisões da árvore todas vão estar representadas, mas como custa processamento descobrir qual a próxima potência de 2 que é maior que N uma aproximação válida é usar `4*N`.
 
-O que eu queria era processar a saída de um programa de forma que eu tivesse a lista de todas as extensões dos arquivos. Por exemplo, para a seguinte entrada:
+Vamos observar a implementação de uma árvore de segmentos. A primeira coisa é alocar o espaço necessário em um vetor. Digamos que nossa árvore irá conter os intervalos de 1 a 1000 (inclusive).
 
-    c:\path\arquivo1.cpp
-    c:\path\arquivo2.h
-    c:\arquivo3.hpp
-    c:\path\path2\arquivo4.cpp
+```
+vector<int> tree[4*1000];
+```
 
-Eu gostaria de uma saída no seguinte formato:
+Nossa árvore está pronta. =)
 
-    .cpp
-    .h
-    .hpp
+Vamos atualizar algum valor nela. Por exemplo, definir o valor 42 para o node 666:
 
-Basicamente é isso.
+```
+void update(int node, int left, int right, int pos, int value, vector<int>& tree) {
+    if (left == right) {
+        tree[node] = value;
+    } else {
+        int nodeLeft = 2 * node;
+        int nodeRight = 2 * node + 1;
+        int middle = (left + right) / 2;
+        if (pos <= middle)
+            update(nodeLeft, left, middle, pos, value, tree);
+        else
+            update(nodeRight, middle+1, right, pos, value, tree);
+        tree[node] = tree[nodeLeft] + tree[nodeRight];
+    }
+}
 
-Para filtrar o path do arquivo, e ao mesmo tempo retirar seu nome, podemos usar o seguinte comando (fora outras trilhões de variantes):
+int main() {
+    vector<int> tree(4 * 1000);
+    update(1, 1, 999, 666, 42, tree);
+}
+```
 
-    programa | sed -e "s/^.*\\//" -e "s/.*\.\(.*\)/\1/"
+Algumas informações relevantes sobre esses parâmetros:
 
-Após esse processamento, a saída é um monte de extensões vindas de um monte de arquivos:
+ - node é a localização do ramo atual;
+ - left é o início do intervalo que estamos;
+ - right é o final do intervalo que estamos;
+ - pos é o número do ramo que pretendemos trocar;
+ - value é o valor que pretendemos colocar no ramo;
+ - tree é a árvore de segmentos.
 
-    cpp
-    h
-    cpp
-    h
-    c
-    h
-    cpp
-    h
-    mak
-    vcproj
-    h
-    cpp
-    h
-    cpp
-    h
-    cpp
-    h
-    cpp
-    h
-    c
-    h
-    txt
-    c
-    cpp
-    h
-    mak
-    vcproj
-    cpp
-    h
-    ...
+Todos esses parâmetros existem porque a função update é recursiva e ela precisa passar a localização dentro do array no formato de um mapa para uma árvore binária. A busca também segue o mesmo princípio, de O(log N), ou seja, para encontrar a posição desejada (variável pos) a função irá seguir limitando o intervalo entre left e right até que ambos tenham o mesmo valor, situação em que estaremos em uma folha.
 
-Como podemos ver e é óbvio de imaginar, muitas extensões irão se repetir. Para eliminar as repetições e ordenar a saída da saída corretamente, usamos o comando sort:
+Depois da atualização vem a parte interessante: os ramos acima da folha são atualizados com a soma entre seus ramos esquerdo e direito, recursivamente. Isso quer dizer que o valor 42 irá ecoar por todos os ramos de cima até chegar na raiz, que também irá conter 42, já que este é o primeiro valor diferente de zero de toda a árvore.
 
-    programa | sed -e "s/^.*\\//" -e "s/.*\.\(.*\)/\1/" | sort -u
-	
-Os caracteres .*[]^$\ dão problemas se usados sem escape no sed, pois fazem parte dos comandos para procurar expressões regulares. Use-os com o caractere de escape `\`.
+Vamos definir mais alguns valores em outras posições para em seguida implementar a soma:
 
-Para concatenar comandos no sed, use sempre -e "comando". A ordem de execução dos comandos é a ordem em que eles são inseridos na linha de comando, ou seja, podemos confiar que no segundo comando o primeiro já terá sido executado e assim por diante.
+```
+int main() {
+    vector<int> tree(4 * 1000);
+    update(1, 1, 999, 666, 42, tree);
+    update(1, 1, 999, 600, 58, tree);
+    update(1, 1, 999, 700, 45, tree);
+    update(1, 1, 999, 999, 55, tree);
+}
+```
 
-Para fazer o escape das barras do caminho de um arquivo temos que usar o conjunto `\/` (obs.: caminhos em formato Unix). Para evitar esse uso enfadonho podemos substituir o caractere de divisão do comando s colocando-o na frente:
+Com isso a soma dos seguintes intervalos deve contar os seguintes totais:
 
-    s/path\/muito\/muito\/muito\/longo.cpp/outropath\/muito\/muito\/longo.cpp/s#/path/muito/muito/muito/longo.cpp#/outropath/muito/muito/longo.cpp#
+ - o intervalo [666,666] deve conter o valor 42, da única folha selecionada;
+ - o intervalo [600,700] deve conter o valor 145, da soma de 666, 600 e 700;
+ - o intervalo [600,999] deve conter o valor 200, da soma adiciona de 999;
+ - a raiz, ou o intervalo [1,999] deve conter o mesmo valor;
+ - intervalos abaixo de [1,599] devem conter 0.
 
-Para agrupar expressõe, use sempre `\(` e `\)`. É o contrário do uso dos caracteres especiais. Coisas de Unix.
+Vamos implementar a função de soma e descobrir.
+
+```
+int sum(int node, int left, int right, int posLeft, int posRight, const vector<int>& tree) {
+    if (posLeft > posRight)
+        return 0;
+    if (posLeft == left && posRight == right)
+        return tree[node];
+    int nodeLeft = 2 * node;
+    int nodeRight = 2 * node + 1;
+    int middle = (left + right) / 2;
+    return sum(nodeLeft, left, middle, posLeft, min(posRight, middle), tree)
+        + sum(nodeRight, middle + 1, right, max(posLeft, middle + 1), posRight, tree);
+}
+
+int main() {
+    vector<int> tree(4 * 1000);
+
+    update(1, 1, 999, 666, 42, tree);
+    update(1, 1, 999, 600, 58, tree);
+    update(1, 1, 999, 700, 45, tree);
+    update(1, 1, 999, 999, 55, tree);
+
+    vector<vector<int>> intervals = { 
+        {666, 666}, {600, 700}, {600, 999}, 
+        {1, 999}, {1, 599} };
+
+    for (const vector<int>& i : intervals) {
+        int isum = sum(1, 1, 999, i[0], i[1], tree);
+        cout << "the interval [" << i[0] << "," << i[1] 
+            << "] has the value " << isum << endl;
+    }
+}
+```
+
+Mais uma vez, existem muitos parâmetros porque a função é recursiva e precisa se localizar, e o princípio é o mesmo da função update, de usar as variáveis como um mapas para navegar por uma array.
+
+ - node é a localização do ramo atual;
+ - left é o início do intervalo que estamos;
+ - right é o final do intervalo que estamos;
+ - posLeft é o início do intervalo que queremos a soma;
+ - posRight é o final do intervalo que queremos a soma;
+ - tree é a árvore de segmentos.
+
+Note que a única variável que de fato indexa o array é a variável node. Porém, qual vai ser o índice de node é determinado pelos cálculos que giram em torno de ir para a direita ou para a esquerda pela árvore. Se for pela esquerda o próximo índice é o índice em node vezes 2, pois existem node ramos no nível em que estamos, e se for pela direita o próximo índice é node vezes 2 mais um, que é o próximo após o ramo da esquerda.
+
+Se ficou difícil de entender, lembre-se que a busca em uma árvore binária segue a mesma lógica daquele jogo de adivinhação, em que você chuta um número de X a Y e a pessoa que sabe qual o número irá dizer se o número é maior ou menor do que você chutou. Como você é muito esperto irá sempre dividir a faixa de onde está para acertar o número o mais rápido possível.
+
+Por exemplo, vamos supor que você deve chutar qual número é de 1 a 100. O número é 64.
+
+ - seu chute inicial é 50;
+ - a resposta: mais alto;
+ - seu próximo chute é 75 (entre 50 e 100);
+ - a resposta: mais baixo;
+ - seu próximo chute é 63;
+ - a resposta: mais alto;
+ - seu próximo chute é 67;
+ - mais baixo;
+ - 65;
+ - mais baixo;
+ - 64;
+ - acertou!
+
+Entre 100 possíveis chutes foram feitos 6, ou cerca de log 100 chutes. Exatamente como é feita a busca na árvore binária, seja de segmentos ou não. Essa é a grande vantagem de usar o mapa para se localizar no array como uma árvore binária, pois a busca não será linear.
+
+O fato da árvore ser de segmentos é apenas um detalhe que incorre em mantermos atualizados os nodes com a soma de todos os ramos abaixo, algo custoso a princípio, mas que na hora de obter a soma de intervalos faz valer a pena.
 

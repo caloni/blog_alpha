@@ -1,32 +1,24 @@
 ---
 categories:
 - writting
-date: '2017-10-21'
-link: https://www.imdb.com/title/tt0458352
+date: '2012-09-06'
+link: https://www.imdb.com/title/tt1645170
 tags:
 - movies
-title: O Diabo Veste Prada
+title: O Ditador
 ---
 
-Meryl Streep em um dos melhores papéis de sua carreira (o que não é pouca coisa). Olhe sua entonação entediada, sem levantar a voz, sem sequer olhar para os olhos de seus funcionários. Olhe como enumera de maneira apática e precisa de onde veio o azul que sua nova secretária está usando. O azul dela tem um nome específico, a secretária não se liga pra moda, e Streep simplesmente a coloca em seu lugar.
+Sacha Baron Cohen possui o melhor de duas comédias que particularmente gosto muito: a com estilo pastelão e a com piadas ácidas, de um humor negro que só é permitido pelas cenas absurdas que sugerem que devemos suprimir nosso sistema moral por cerca de uma hora e meia.
 
-"That's all."
+O que, se tratando do ator de Borat, não é algo tão difícil de se deduzir. Com sua própria TV narrando a biografia do ditador sanguinário Aladeen, e o nome é um toque tão genial quanto o bigode de Chaplin em Grande Ditador, vemos o protagonista ainda bebê exibindo uma gigantesca barba e um pelo tão espesso que não é possível ver suas genitais. Se isso não for uma dica do que vem pela frente, não imagino o que seja.
 
-O brilhantismo da escalação de Streep é que o roteiro nunca a coloca em posição de protagonismo, o que poderia ser perigoso para a magnética atriz, que rouba os holofotes de Amy Adams em Julie & Julia. Aqui cada participação de Streep é magnética na medida certa, pois ela se resume a interações com a personagem de Anne Hathaway.
+Porém, comédia é um dos gêneros mais subjetivos. Mesmo uma boa comédia pode não cair no agrado da maioria por conter piadas que ofendem sua moral, que resiste apesar das cenas que berram aos olhos que o que estamos vendo é apenas um exercício de absurdo, e tudo é permitido porque ninguém deve levar a sério aquelas bobagens. Bobagens essas que divertem apenas os que entendem a mensagem, que resolveram abrir um pouco a mente e degustar o que é uma comédia original, livre das repetitivas e enfadonhas séries de pseudo-paródias. E entender que, por mais absurdo que sejam as situações que Aladeen encontre pela frente ao visitar a inimiga Nova York, é apenas um pano de fundo para uma discussão um pouco mais profunda sobre as características de um regime político, seja dito democrático ("afinal de contas, a China também é uma democracia") ou ditatorial.
 
-Dessa forma Hathaway tem a oportunidade de ouro de construir um personagem convincente graças à sua vilã. Ela é a gata borralheira (aqui jornalista idealista) que precisa do emprego para se manter, e aos poucos simpatiza pelo mundo da moda, ou pelo menos entende as motivações de sua chefe, a megera odiada e aclamada e que todos possuem um exemplo em suas áreas de atuação. Afinal de contas, este filme é baseado em um livro homônimo escrito por um funcionário, descontente ou não (essa parte da minha crítica é ficcional). De qualquer forma a mensagem faz sentido: chefes rudes e implacáveis é uma regra de empresas bem-sucedidas; não exceção.
+Além de uma comédia física e que apele às vezes para o escatológico e o sexual, há por trás das ideias de O Ditador verdadeiras pérolas de pensamento sobre o tema, como a criativa subversão das palavras perante o magnífico general-comandante, ao ponto de antônimos como positivo e negativo virarem apenas uma palavra: Aladeen. Ou, mais um exemplo, o costume de mandar executar qualquer pessoa ou animal que o desagrade, mesmo que isso seja pegar o brinquedo da caixa de cereal.
 
-Porque o fato é: se você tem mais de trinta anos e já passou pela fase humanista ao extremo, em que você sonha e acorda com unicórnios, sabe que a vida real funciona assim. Os mais obstinados com excelência prevalecerão, pelo menos enquanto forem úteis para o sistema. O sistema não tem coração, mas tem paixão. Ele não ama as pessoas que fazem parte dele, mas adora como as roupas, os adornos e as cores combinam com a construção de identidade dessas mesmas pessoas. Fútil? Me fale mais como a maioria das mentes humanas é tão fascinante. Spoiler: não é.
+Porém, não é só a ditadura que é vítima de escracho. Estamos na América a maior parte do tempo, e a democracia é, sim, alvo de inúmeras piadas que se engrandecem pelo ridículo. Note, por exemplo, como a união de todas os estereótipos do que seria um ambiente livre de preconceitos e amarras políticas, como é a loja dirigida pela simpática e exageradamente ativista Zoey (Anna Faris), onde até seu nome é um clichê, consegue extrair graça do que seria se tudo que representa a liberdade fosse concentrado em doses extremas.
 
-Então se a beleza interior é pura invenção para que ninguém saia se matando por aí, o universo da moda gira em torno de sacrifícios, de fazer o que se odeia, de ser uma masoquista disfarçada de sádica. E essa posição, essa condição, nem a editora da revista mais famosa de moda de Nova York consegue fugir.
+Não que o filme seja pró-Estado, muito pelo contrário. Melhor do que isso, as situações na maioria das vezes fazem pensar e refletir como alguns conceitos tão enraizados em nossa cabeça, como a visão dos EUA como o símbolo mágico de liberdade, consegue aos poucos ir se desfazendo pela força do ridículo e chegar ao ponto máximo de um discurso irretocável no terceiro ato, digno de extrair lágrimas no meio dos risos.
 
-Afinal, ela é capaz de manter um jantar após um evento traumático e escolher uma pessoa que detesta para promoção, se isso for relevante para seus planos. E seus planos giram em torno de continuar sendo a mesma para sempre.
-
-No extremo oposto, a secretária original, do filme, uma das mil garotas que se matariam para estar no seu lugar, faz um trabalho em que é ignorada. Ela é a outra ponta nessa equação, mas se trata da mesma fórmula. Seres humanos glorificam seres humanos acima deles para que o ser humano alfa enfim faça uma reverência, e um sacrifício, para o deus moda. A continuação temática do que estou falando está em um filme mais recente, Demônio de Neon.
-
-Com uma trilha sonora passada, ainda que divertida, com músicas da moda, e os cortes com carros passando enquanto vemos nossa heroína com diferentes conjuntos de roupas estonteantes, Diabo Veste Prada usa sua sua linguagem visual da maneira mais visceral possível, o que o torna ainda mais convincente em sua mensagem sobre futilidades.
-
-Além disso, ele ainda é um filme adulto de Hollywood, onde namorados podem se separar e na mesma semana fazer sexo com outras pessoas (e sem arrependimentos mortais). Mas ao mesmo tempo a ingênua mas competente secretária começa a notar como está se parecendo com sua chefe, no momento em que ela se toca no que vai se tornar. Este, portanto, não é um filme de mudança de personagem, mas de aprendizado. E por mais piegas que pareça, aprender quem nós somos ainda é um desafio à altura. E Diabo Veste Prada o faz de salto alto, para o bem e para o mal.
-
-Isso é tudo.
+É esse tipo de detalhe que consegue fazer valer a pena ignorar as bobagens e cenas descartáveis do filme. E é esse tipo de comédia que faz valer a pena sempre revisitar os personagens estereotipados que Cohen consegue como ninguém apresentar em seu pequeno universo.
 

@@ -1,27 +1,117 @@
 ---
-
-Esse é um detalhe que pode passar despercebido da maioria da população Borland, mas o Builder, assim como o Visual Studio, possui sua suíte para depuração remota. E tudo o que você precisa fazer é instalar um pacote no cliente.
-
-  1. No CD de instalação, existe uma pasta chamada RDEBUG.
-  2. Na máquina cliente, execute o arquivo setup.exe contido nesta pasta. De preferência, não instale como um serviço (a menos que tenha um motivo).
-  3. Crie uma aplicação tosca de teste (ou use uma aplicação tosca existente).
-  4. Lembre-se que as DLLs do Builder não estarão disponíveis na máquina remota. Para não depender delas desabilite as opções "Use dynamic RTL" (aba Link) e "Build with runtime packages" (aba Packages) do seu projeto.
-  5. Copie a aplicação para a máquina remota ou torne-a acessível através de mapeamento.
-  6. Em Run, Parameters, habilite na aba Remote a opção "Debug project on remote machine"
-  7. Em Remote Path especifique o path de sua aplicação visto da máquina remota.
-  8. Em Remote Host especifique o nome ou o IP da máquina remota.
-  9. Execute o aplicativo através do Builder (certifique-se que o cliente do Builder está rodando na máquina remota).
-  10. Bom proveito!
-
-Infelizmente essa opção não está disponível nas versões Standard do produto, assim como não está o debugging remoto no Visual Studio Express. Porém, a nova versão do Builder, renomeada para Borland Turbo C++, é gratuita a possui essa feature embutida. O único porém é que a instalação não é automatizada, e os arquivos devem ser copiados "na mão", seguindo um dos tópicos da ajuda. Melhor que nada.
-
-Para os que utilizam o Visual Studio Express, realmente ainda não achei solução a não ser usar o bom, velho e fiel companheiro WinDbg. Não saia de casa sem ele.
-
----
 categories:
 - coding
-date: 2019-03-06 21:33:15-03:00
-desc: Remote Debugger disponível em qualquer instalação do Visual Studio. Use-o para
-  depurar serviços, por exemplo.
+date: '2017-06-13'
 tags: null
-title: Debug Remoto no Visual Studio 2010 ou Superior
+title: Debugger remoto do Visual Studio
+---
+
+Então você está quebrando a cabeça para descobrir por que seu código não faz o que deveria fazer? Então você é desses que acha que é melhor ficar imaginando com um bloquinho de papel na mão do que colocar logo a mão na massa e ver exatamente o código passando pelo processador? Talvez você mude de ideia ao ver como é ridiculamente fácil depurar código em uma máquina remota, seja uma VM ou a máquina do cliente. Neste post vou ensinar a maneira mais antiga e a mais nova que conheço de usar o depurador do Visual Studio. Vamos usar a versão 2003 e a versão 2017 RC.
+
+Há muito tempo atrás eu falei sobre [o depurador remoto do C++ Builder], na época a ferramenta que eu mais utilizava para programar. Hoje disparado é o Visual Studio, já faz mais de uma década. Desde o VS2003 tem sido muito simples depurar remotamente. Tão simples que eu realmente esqueci que talvez algumas pessoas não saibam o quanto é útil essa ferramenta no dia-a-dia.
+
+É possível depurar qualquer executável, tendo seu código-fonte ou não. A diferença é que sem código você terá que olhar o assembly e se for compilado como release você pode olhar o código mas ele não fará muito sentido em alguns momentos (onde estão minhas variáveis locais?). O melhor dos mundos, é claro, é depurar um executável que você tenha os símbolos, o código e esteja compilado em **debug**. Daí o código irá falar com você da maneira mais fácil.
+
+É simples de achar essa opção no projeto em qualquer Visual Studio. Vá nas opções do projeto, Linker e irá encontrar em algum lugar sobre a geração do PDB. Não tenha medo de explorar as opções do projeto. Elas refletem como o XML do projeto muda (sim, é um XML). Se estiver querendo saber exatamente como ele muda, use um controle de fonte e vá experimentando.
+
+{{< image src="znl7K0b.png" caption="" >}}
+
+Para depurar pelo Visual Studio 2003 há um programa chamado **msvcmon.exe** que deve ser copiado e executado na máquina-alvo. Ele é um executável que pode ser copiado para qualquer lugar. Junto dele devem estar duas DLLs: a **natdbgdm.dll** e a **natdbgtlnet.dll**. Se você tiver o VS2003 instalado deve achar esses arquivos em algum lugar, ou no pior dos casos no CD de instalação. Por via das dúvidas sempre há um link amigo na internet para ajudar alguém a achar o que precisa.
+
+Copiados esses arquivos na máquina-alvo é necessário copiar também o executável. Afinal de contas, ele irá executar remotamente! O arquivo PDB, no entanto, você só precisa guardar com você. Lembre-se que toda recompilação em Debug altera de maneira significativa o PDB, então não recompile seu projeto enquanto estiver depurando. Se for fazê-lo, troque o executável na máquina-alvo.
+
+A primeira execução de toda ferramenta, seu help, irá nos mostrar o seguinte no msvcmon:
+
+```
+C:\Tools\msvcmon-vs2003>msvcmon /?
+Microsoft (R) Visual C++ Remote Debug Monitor(x86) Version 7.10.3077
+Copyright (C) Microsoft Corporation 1987-2002. All rights reserved.
+
+Usage: msvcmon.exe [options]
+
+Options:
+
+-?
+        Display options
+
+-anyuser             (tcp/ip only)
+        Allow any user to debug through msvcmon
+
+-maxsessions number  (tcp/ip only)
+        Change the number of concurrent debug sessions allowed
+
+-nowowwarn
+        Do not warn when running under WOW64
+
+-s pipe_suffix_name  (pipe only)
+        Create main pipe with suffix pipe_suffix_name appended to pipe name
+
+-tcpip
+        Operate in tcp-ip mode
+
+-timeout seconds     (tcp/ip only)
+        Termination timeout - reset on every connection request
+        (use -1 for no timeout)
+
+-u xyz\abc           (pipe only)
+        Allow "abc" user/group in domain "xyz" to connect
+
+C:\Tools\msvcmon-vs2003>
+```
+
+Minhas opções favoritas são **-tcpip -anyuser -timeout -1**, o que libera o acesso a qualquer usuário direto por TCP/IP e o timeout da execução é infinito. All access no limits =)
+
+```
+C:\Tools\msvcmon-vs2003>msvcmon -tcpip -anyuser -timeout -1
+Microsoft (R) Visual C++ Remote Debug Monitor(x86) Version 7.10.3077
+Copyright (C) Microsoft Corporation 1987-2002. All rights reserved.
+Maximum number of concurrent sessions:20
+
+**TCP-IP Mode**
+
+WARNING: TCP-IP mode is not a secure way to debug your application. For better
+security use msvcmon in pipe mode or the default port in the processes
+dialog to debug your application.
+
+To use the default port you will need to install the full set of remote
+debugging components. For further information see 'Remote Debug Setup' in Help.
+
+*WARNING- infinite timeout value set. Msvcmon will not timeout and exit*
+Waiting for Connections - everyone is allowed access
+```
+
+Agora no Visual Studio 2003 vá em Debug, Processes (ou Ctrl+Alt+P para os íntimos) e escolha a opção de Transport como TCP/IP, digite o IP... explore sua ferramenta, poxa!
+
+{{< image src="bZVsEj8.png" caption="" >}}
+
+Depois de conectar remotamente por essa janela o console do msvcmon irá mostrar que usuário se logou:
+
+```
+*WARNING- infinite timeout value set. Msvcmon will not timeout and exit*
+Waiting for Connections - everyone is allowed access
+        A Debug session has been started for user: Caloni
+```
+
+Para configurar o início da depuração remota pelo próprio projeto você terá que ir nas opções de debug dele:
+
+{{< image src="mrktmwE.png" caption="" >}}
+
+E para começar os problemas é sempre bom lembrar que projetos compilados como debug precisam das DLLs de runtime do Visual Studio que sejam debug. Mas você já sabe disso.
+
+{{< image src="7EHOpJ1.png" caption="" >}}
+
+Depois que tudo isso estiver OK é só iniciar seus processos remotamente em modo de depuração ou atachar pela primeira janela que vimos.
+
+Agora você deve estar se perguntando: "mas esse VS é muito velho! e os mais novos?"
+
+Bom, desde o VS 2010 e até o VS2017 RC essa ferramenta está disponível na pasta de instalação, mudou um pouco de cara e você pode encontrar procurando por "remote". No Caso do VS mais novo que tenho em mãos aqui, o 2017 RC, existe já uma pasta pronta para copiar e colar na máquina-alvo, em Common7, IDE, Remote Debugger. Há duas pastas disponíveis: x86 e x64. Dependendo do tipo de compilação que deseja realizar (e de qual o seu executável) copie uma das duas, rode o executável da pasta e apenas configure.
+
+{{< image src="2yUrl8z.png" caption="" >}}
+
+Você até já sabe qual o caminho do sucesso: **[All access to everyoooone]**!!! ;)
+
+{{< image src="ajBG8fM.gif" caption="" >}}
+
+[o depurador remoto do C++ Builder]: {{< relref "debug-remoto-no-c-builder" >}}
+[All access to everyoooone]: {{< relref "o-profissional" >}}
+

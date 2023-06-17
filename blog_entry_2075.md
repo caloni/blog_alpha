@@ -1,21 +1,64 @@
 ---
 categories:
-- writting
-date: '2021-10-24T21:50:33-03:00'
-tags:
-- cinemaqui
-- mostra
-- movies
-title: Laranjas Sangrentas
+- coding
+date: '2008-06-04'
+tags: null
+title: Launchpad e a democracia do código-fonte
 ---
 
-Nem só de drama social vive a Mostra. Laranjas Sangrentas é uma comédia com drama social, olha só. Mas não é só isso. Ela é bem-humorada porque é absurda e não quer finais felizes, mas finais pensantes. Nisso estamos todos de acordo.
+Após a publicação dos projetos que ando mexendo no próprio saite do Caloni.com.br, recebi uma enxurrada de downloads e quase atingi meu limite de fluxo mensal no provedor.
 
-Essa é uma mescla de personagens que se cruzam, blá-blá-blá, mas mais importante que isso são os temas variados. De política a politicamente correto passando por drama senil e as maravilhas dos hormônios na puberdade, este segundo longa de Jean-Christophe Meurisse constrói dois momentos tarantinescos icônicos sem ser um plágio. É mais uma releitura da linguagem. Até divisão de tela é usado no momento certo. Ambos os momentos giram em torno de um personagem que aparece no filme apenas para isso. Ele é instrumental e invisível, representa "o monstro".
+Devido a esse problema inesperado, irei fazer o inevitável: publicar os projetos em um repositório sério. E aproveitando que já estou usando o Bazaar, nada melhor que usar o Launchpad.net.
 
-Uma cena é praticamente a mesma de Pulp Fiction, quando o líder de uma gangue é currado. Nesse o líder é um ministro da França, mas isso apenas coloca o ser currado sob outra perspectiva. Em algum momento nos faz lembrar do episódio piloto de Black Mirror, talvez.
+O Launchpad nada mais é do que um lugar onde é possível publicar seus projetos de fonte aberto para que pessoas possam ter livre acesso ao seu histórico de mudanças, assim como a liberdade de criar sua própria ramificação (branch). O esquema todo é organizado no formato comunidade, o que permite o compartilhamento não só de código, mas de bugs, traduções e, principalmente, idéias.
 
-A segunda cena é a mais catártica, hilária e fantasiosa. Uma licença poética das feministas que defendem vingança violenta contra homens violentos. Aliás, quem defende isso nem os chamam de homens. Animais, mesmo. Dou todo o apoio. Pela maior dor e sofrimento possível, por favor. Essa cena é imperdível, apesar de perder as estribeiras do real, fugindo um pouco desse tecido levemente desproporcional que é o filme.
+A idéia é uma das primeiras que usa a modalidade de controle de fonte distribuído, e permite o uso do Bazaar como o controlador oficial, ou importação de outros controles de fonte, em um processo conhecido como espelhamento. Tudo foi feito de forma a amenizar o processo de migração dos sistemas de controle de código centralizado, como CVS e Subversion.
 
-No meio de algumas loucuras o que mais sobressai no filme é um frescor de linguagem e diálogos soltos, cotidianos, que nos fazem pertencer à discussão. O roteirista Jean-Christophe não está interessado em defender lados, mas pincelar um pouco de contemporaneidade de todos os lados. Há representação para todo mundo nesse caos que estamos vivendo. Um caos divertido para alguns (eu incluso) e trágico para a maioria (ops, foi mal). Se você faz parte da maioria, não desanime. Vai piorar. Venha assistir TV e curtir os melhores momentos da derrocada da sociedade.
+Para ter acesso aos meus projetos iniciais é simples: basta usar o mesmo comando que é usado para obter um novo branch de um projeto do Bazaar:
+
+ - [MouseTool] - Simulador de clique de mouse
+
+    bzr branch https://code.launchpad.net/mtool
+
+ - [Influence Board] - Complemento ao Winboard que mostra a influência das peças
+
+    bzr branch https://code.launchpad.net/infboard
+
+ - [Conversor Houaiss Babylon] - Converte de um dicionário para o outro
+
+    bzr branch https://code.launchpad.net/houaiss2babylon
+
+> Atualização: Aviso de plantão. Não irei mais atualizar os projetos acima no LaunchPad, pois estou considerando reorganizar os fontes para algo mais simplificado. Aguardem por novidades no próprio blogue.
+
+Como o Bazaar foi feito integrado com o Launchpad, também é possível usar um comando bem mais fácil:
+
+    bzr branch lp:project_name
+
+Assim como é possível usar comandos de repositório, também é possível navegar pelo histórico de mudanças do projeto simplesmente usando os linques acima no navegador de sua preferência. E é nessa hora que começa a ficar interessante publicar seu projeto na web. Por falar nisso, que tal aprender como criar seu próprio projeto no Launchpad?
+
+Tudo que precisamos é de um login, facilmente obtido na página principal, e de registrar um projeto. Para criar o primeiro branch e fazermos alterações precisaremos também de um par de chaves pública e privada para a conexão SSH criada automaticamente pelo Bazaar. Tudo isso é facilmente possível com o uso das ferramentas do [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html), um cliente SSH para Windows.
+
+Dessa forma os passos são os seguintes:
+
+ 1. Criar um login
+
+ 2. Registrar um projeto
+
+ 3. Criar um par de chaves através do PuTTYgen
+
+    Devido a alguns problemas, recomendo que use o texto exibido na tela do gerador de chaves em vez de copiar diretamente do arquivo da chave pública para o cadastro no saite. Guarde bem essas chaves com você, pois você as usará sempre que necessário fazer uma modificação no projeto.
+
+ 4. Atualizar no cadastro do saite (item "Update SSH keys")
+
+ 5. Usar o Pageant para carregar a chave privada na memória
+
+ 6. Use os comandos do Bazaar passando o usuário e o branch:
+
+    bzr branch lp:~seu-usuario/projeto/branch
+
+Simples e direto. E funciona!
+
+[MouseTool]: {{< relref "mousetool" >}}
+[Influence Board]: {{< relref "influence-board" >}}
+[Conversor Houaiss Babylon]: {{< relref "conversor-de-houaiss-para-babylon-parte-2" >}}
 

@@ -1,20 +1,45 @@
 ---
-categories:
-- blogging
-date: '2022-12-04T23:13:20-03:00'
-link: https://coletivocritico.com
-tags:
-- mostra
-title: Natália Bocanera
+categories: []
+date: 2018-09-28 19:43:04-03:00
+tags: null
+title: Native Floripa 2018
 ---
 
-A advogada em seu tempo livre escreve sobre cinema para o saite Coletivo Crítico, dando sua visão feminista sobre a arte cinematográfica. Peguei alguns textos dessa última Mostra para ler e é possível constatar que ela de fato sabe escrever. Mais do que isso: pincela com certa habilidade os pontos principais que anotou sobre os filmes que assistiu. Sempre, claro, sob o viés feminista junto do pacote ideológico que dispensa apresentações.
+O [Native Floripa](http://www.nativefloripa.com.br/) desse ano foi um evento de nerds que adoro e também uma viagem e encontro de nerds (que também adoro). Isso quer dizer que este é um post duplo, onde analiso tanto a viagem quanto o evento.
 
-É curioso observar as falhas no raciocínio de Bocanera ao esmiuçar uma obra sob o filtro ideológico, algo muito comum para os que abraçam uma causa. Eu já fui muito e ainda sou eventualmente vítima desse engodo de escrever sem retirar minhas vestes egoístas da forma radical como enxergo o mundo. Sabendo disso, não quero apontar dedos. Apenas observar.
+Como viagem Floripa é uma cidade que se divide em ilha e continente. Na ilha há um emaranhado de rodovias que circulam pelos morros e que se cruzam onde percebemos que a prefeitura não tem o mínimo de cuidado e investimento em fazer conexões decentes. Há dois elevados em obras que facilitaram a transição entre rodovias. Vimos um no caminho do aeroporto para Barra da Lagoa, e o motorista do Uber comentou que está há dez anos em obras, já tendo gasto todo o dinheiro em um amontoado de madeira e concreto inúteis, o que resume o que tenho a dizer sobre a organização da cidade como um todo.
 
-Veja, por exemplo, [seu texto sobre A Febre do Mediterrâneo](https://coletivocritico.com/2022/10/22/46a-mostra-febre-do-mediterraneo/), um dos melhores filmes dessa mostra. A escritora está obcecada em listar as questões referentes à inversão de papéis, já que o protagonista é homem e fica em casa cuidando dos filhos, pois abandonou seu emprego para virar um escritor sem livros, muito semelhante a nós, críticos sem imprensa, já que ninguém liga mais para leitura. Este é um homem desempregado, sem função na família. Um inútil. Faz sentido ter depressão.
+Felizmente o povo do sul é um povo decente, de respeito e que graças a Deus não parece ter dado muita atenção nos movimentos de "justiça social" que assolam o país. Há uma casa de coxinhas muito boa, a Maria Coxinha, onde um dos pratos se chama Kibexinha. Isso é tudo que precisa ser dito sobre a saúde do povo da cidade.
 
-A mulher do protagonista é quem sustenta a casa. Do ponto de vista do texto de Bocanera, a depressão do marido seria também a causa de muitas mulheres que são donas de casa e possuem jornadas duplas. Ela também cita jornadas não remuneradas, provavelmente se referindo ao trabalho doméstico. Ou seja, a observação até pertinente caberia apenas às mulheres, mas não ao marido, e principalmente ao personagem, que não vive nada do que é descrito. Nesse caso é até irônico constatar que ele e a família são de boa vida, de classe média. O trabalho que ele tem com os filhos não é praticamente nada se não fosse seu estado clínico.
+{{< image src="nBLf4ZB.png" caption="" >}}
 
-Bocanera é uma escritora com um pé na erudição e outro na narrativa. Preocupada em contextualizar o leitor sobre as camadas dos filmes que analisa, talvez até mais para si mesma, seus textos não são tão inacessíveis quanto saites que não se lê por aí. Porém, também não são de jovens despreocupados com o conteúdo e que mal sabem compor um parágrafo que não seja estendendo a sinopse. De qualquer forma, tenho minhas dúvidas se aproveitaria ler algo que ela produz. Um tradutor de ideologias ou o material compilado para a imprensa é muito próximo, e já está pronto no dia da cabine de imprensa.
+O evento teve lugar, como no ano passado, na [Acate](https://www.acate.com.br/), uma incubadora de startups, nos dias 22 e 23 de setembro de 2018 (sábado e domingo). Houve em alguns momentos duas trilhas, que eu condeno por ser um evento pequeno, mas no salão principal houve a filmagem para publicação na internet, que eu invejo, pois logo teremos disponível para todos as palestras da trilha principal. Essa filmagem se torna ainda mais especial quando se percebe que houve muitos poucos participante no evento, girando em torno de 20 no sábado e 10 no domingo. As palestras do ano passado já se encontram publicadas, mas como houve uma demora de alguns meses talvez esse ano teremos a mesma espera.
+
+Confesso que fazia um bom tempo que não participava de um evento como esses. Nossa tentativa de realizar o próximo encontro em sp miou por falta de público em um momento em que C++ está em obras e com discussões importantíssimas sobre a linguagem e bibliotecas necessárias. O Native Floripa atendeu essa necessidade em pelo menos algumas palestras.
+
+O destaque do evento com certeza foram as corrotinas em C++. Verdadeiras máquinas de performance onde se economiza troca de contexto, houve três palestras sobre o assunto, podemos dizer. Duas delas ministradas por Vinicius, mantenedor da Boost.Http, onde ambas dialogam sobre a fascinante questão de como adequar o uso de corrotinas sem interferir no fluxo do programa. A terceira palestra é minha, onde discurso sobre a dificuldade atual de depurar corrotinas sem ferramentas atualizadas para este "novo" paradigma.
+
+{{< image src="gx0X8pr.png" caption="" >}}
+
+Outra palestra que me lembro com muita empolgação é a sobre WebAssenbly. Não torça o nariz antes de entender. O palestrante nos apresenta algo ainda em andamento sobre transpilar código C/C++ para uma máquina virtual criada a partir de JavaScript. A estrutura da palestra é muito boa e o palestrante melhor ainda. Ele chegou a alterar o código durante a palestra para nos demonstrar diversos usos dessa tecnologia. Ainda em testes, mas muito promissora.
+
+{{< image src="l8iCVUL.png" caption="" >}}
+
+Por fim, as conversas entre os palestrantes e os participantes foi muito frutífera. Assim como nosso grupo do Telegram, importa menos o tema do que as pessoas envolvidas. E todos concordam que não há nada melhor no mundo que conversar com pessoas inteligentes e beber chopes do Sul. E lá na Acate há a melhor praça de alimentação que já vi na vida. Comida e bebida (chopes e vinhos por taça) boa e barata. Há massas e carnes de muita qualidade. O Madero do lado, que já não é nada de mais, ficou ainda menor.
+
+> O chope Putz IPA têm lúpulos cheirosos e corpo leve, pouco alcoólico e bem agradável gelado. Ou seja, nem parece IPA.
+> Coruja Pilsen é uma... pilsen? Bom, tem um salgadinho próximo de uma witbier prestes a ser esquecida.
+> O chope da Strappa Gingerberry é um chá preto fermentado com gengibre e gradação alcoólica ridícula de 0.6%. Ele é ainda frutado (possui morango) e deixa a garganta quentinha. Ótima opção entre bebidas mais fortes. Dá uma pausa etílica e estilosa na balada.
+> Kairós Sol Poente é uma West Coast IPA de respeito. Equilibrada de corpo leve, seu chope é aromático e um pouco salgado com amargor presente sem exageros.
+
+Ficamos hospedados em uma casa na Barra da Lagoa pelo AirBnB em alta concentração de temas filosóficos. Fizemos um churrasco imprestável, fomos em restaurantes medíocres da orla, mas a conversa foi sempre interessante. Era como se o grupo de filosofia do Telegram tivesse se mudado temporariamente para lá. Temas como metafísica, política, social justice, auto ajuda e imprint de traumas eram frequentes. A paisagem belíssima, a casa aconchegante e a companhia agradável.
+
+{{< image src="tQXeDFn.png" caption="" >}}
+
+Native Floripa virou já uma tradição. Ano que vem nos vemos de novo.
+
+#### Minhas palestras
+
+ - [Vcpkg e vc td a ver](https://www.slideshare.net/WanderleyCaloni/vcpkg-e-vc-td-a-ver)
+ - [Co co-co-co-co-corrotinas](https://www.slideshare.net/WanderleyCaloni/co-cococococorrotinas)
 

@@ -1,20 +1,21 @@
 ---
 categories:
 - writting
-date: '2017-04-01'
-link: https://www.imdb.com/title/tt6724372
+date: '2018-08-24'
+link: https://www.imdb.com/title/tt7186092
 tags:
-- series
-title: Netflix Live
+- cinemaqui
+- movies
+title: Nico, 1988
 ---
 
-Prepare-se para o "streaming" mais emocionante já lançado por um serviço de "streaming". Netflix Ao Vivo possui momentos do cotidiano que podem se tornar emocionantes, divertidos, hilários e até empolgantes!
+Abre uma janela em "Nico, 1988" sobre os últimos anos da artista Christa Päffgen (aka Nico). Decadente e ainda brilhante, a uma vez influenciada pela banda Velvet Underground se torna ela mesma uma influenciadora. O seu estilo niilista consciente é a raiz que muitos movimentos musicais adotaram para representar essa geração de perdidos, que em vez de buscar significado na vida vai na base das drogas se manter em uma constante e absurda viagem.
 
-Através da narração inspirada do dublador da série animada BoJack Horseman, vamos acompanhar momentos ao lado de figuras marcantes, e muitas vezes essenciais. Estaremos cara a cara, e ao vivo, do lado de um micro-ondas, uma torradeira, uma luta de polegares, o interior de uma geladeira -- com uma salada de uma tal de Jéssica -- palavras cruzadas e quebra-cabeças, e até um motorista tentando estacionar o carro!
+O filme, dirigido e escrito pela italiana Susanna Nicchiarelli, realiza uma amarração interessante entre o fim e o começo dessa pessoa com um momento muito breve na infância de Nico. Observando de longe uma Berlim pegando fogo na segunda guerra, os sons que ela ouve são o motivo que faz com que ela ande sempre com um gravador. Ela deseja encontrar a clareza e a pureza do som da derrota. Os poucos momentos desse passado longínquo também servem como uma forma elegante de não precisar entrar em muitos outros detalhes de sua vida, pois o filme não é sobre nenhum deles.
 
-Dentro da Netflix, começamos a entender de onde saem as brilhantes ideias. Adam Sandler realiza uma luta de polegares com uma desconhecida. Um rapaz arremessa as peças de um quebra-cabeças para o chão em um acesso de raiva inesquecível (e revisto em câmera lenta!). Um estagiário aponta dezenas de lápis em um provável setor de apontamento de lápis.
+O que temos no núcleo da história é Nico, interpretada por Trine Dyrholm, e seu agente, Richard (John Gordon Sinclair). Dyrholm, uma dinamarquesa que já se entregou em papéis complicados, como a matriarca de uma comunidade de amor livre em A Comunidade, se transforma em sua versão de Nico com tamanha naturalidade que ela nos traz aquela impressão injusta de atriz de um papel só. Ela é tão autêntica falando como Christa Päffgen quanto cantando (é sua voz nas músicas do filme), sendo que cantando não se torna apenas um show de imitação, pois cada música cantada em momentos distintos da história recebe uma entonação de acordo com o que está acontecendo. Note sua voz desafinada e desinteressada quando ela canta para desavisados clientes de um hotel que não possuem a mínima noção de sua arte e compare com seus saltos enérgicos e empolgados em um show proibido em Praga (talvez o melhor momento do longa).
 
-A narração de Will Arnett não para por aí. Ele comenta fatos obscuros, desnecessários e descartáveis sobre sua própria vida, teoriza a vida daquelas pessoas e objetos que estamos observando. Chega a ser uma poesia sobre o vazio do tédio, ou a capacidade da mente humana em estar em constante movimento. É um trabalho ambicioso mesmo para os padrões Netflix (que "arrisca" tudo que pode em uma série que recicla e enlata resquícios dos anos 80 para seus nostálgicos fãs).
+Já Gordon Sinclair representa bem uma série de emoções que um espectador-fã reconheceria em si mesmo: amor, admiração, paixão. Este não é um agente que simplesmente acredita em sua estrela: ele vive e entende Nico talvez melhor do que ela. Ele se torna testemunha de seu declínio, mas não parece ligar a mínima. Para ele sua musa sempre estará no topo, e ele fará sempre questão de que ela seja tratada da melhor forma à disposição, o que não impede que seja visível que esta não é uma banda que está arrasando na audiência. Lembrando uma versão mais digna de Mathieu Amalric em Turnê (2010), Sinclair até se veste de forma a pontuar que ele não faz parte do show business como qualquer outro vendedor de talentos: ele é parte do que defende.
 
-Se você está entediado com a vida, não sabe que filme assistir e não possui nenhuma habilidade na vida para fazer algo de útil para o mundo, junte-se a nós! Aproveite cada segundo dessa empolgante experiência analisando o vazio da existência humana.
+Essa insistência em enxergar a situação da banda se torna uma mensagem triste e ao mesmo tempo necessária do filme. Artistas influentes como Nico e tantos outros talvez só consigam sua inspiração tendo essas vidas sofríveis, no limite. Dessa forma, a postura da diretora/roteirista Susanna Nicchiarelli é correta em nos trazer um filme realista, onde as quedas do dia-a-dia não são lamentadas como algo desastroso, mas como simplesmente parte da vida. Quando eles precisam ficar alguns dias na casa de um amigo por não conseguirem pagar um hotel é quando Nico tem uma refeição memorável com um amigo. A criação de Trine Dyrholm entra nessa vibe, e junto com ela todos os que interpretam membros da banda e equipe. A sobrevivência de Nico e seus fãs como exilados não é algo a se lamentar, mas a se observar. Admirar, talvez. Olhe que lindo um mundo onde nem todos fazem parte do rebanho.
 

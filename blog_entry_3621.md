@@ -1,21 +1,20 @@
 ---
 categories:
 - writting
-date: '2019-12-26'
-link: https://www.imdb.com/title/tt7808344
+date: '2015-12-31'
+link: https://www.imdb.com/title/tt2637276
 tags:
-- animes
-- series
-title: 'Teasing Master: Takagi-san'
+- movies
+title: Ted 2
 ---
 
-É muito fácil não gostar dessa série por causa dela não explorar um tema que você goste e esteja na sua zona de conforto, e muito difícil deixar de gostar depois que você entende seu tema pueril. Ela é um respiro de ar livre de tensões fictícias, heróis e vilões, explosões e o salvamento do mundo, ou até como lidar com um poder inusitado. É apenas a história de um menino e uma menina pré-adolescentes. Eles sentam um ao lado do outro na escola e ela o provoca de maneira inteligente, como mulheres costumam agir, e ele encara as provocações como uma competição, como homens parecem encarar toda sua vida.
+Personagens tão carismáticos em um filme tão disposto a comprar a ideia de um urso de pelúcia com vida adulta não poderia gerar uma continuação mais chata, mecânica e automática das comédias pastelonas.
 
-A maturidade da série em explorar esta lúdica situação eternamente é uma das melhores coisas que surgiu na Netflix em anos. É simples, mas não simples demais; apenas o suficiente. A complexidade das relações homem/mulher emergem naturalmente, em traços tão significativos que não requer muitos diálogos, e nunca falas que expõem o que está realmente acontecendo, e por que existe essa tensão entre eles.
+Seth MacFarlane é criador, diretor, roteirista e dublador de Family Guy, uma animação para adultos que segue o modelo de comédia sitcom, onde os atores piscam para a "audiência" e há piadas deslocadas todo o tempo. Aparentemente sem ter ideia de como continuar o ótimo primeiro roteiro de Ted, esse segundo filme é uma réplica do modelo de Family Guy (sem contar que MacFarlane dubla o ursinho com a voz do protagonista da série, nos distraindo constantemente com a imagem de Peter McGriffin).
 
-É quase imperativo que seja assim, pois se tratam de crianças, mas é na maneira ingênua que é possível entender melhor como agem os homens e mulheres depois de adultos, além de nos lembrarmos como agíamos nessa idade, e entender que pouca coisa mudou, pelo menos para a maioria.
+Mas não me levem a mal: há piadas deslocadas, de baixo calão e politicamente incorretas, e isso às vezes é bom, pois elas são muito, muito engraçadas. Porém, isso por si só não desculpa ou compensa pela total falta de estrutura e lógica de sua história principal, que tenta provar nas cortes americanas que Ted é um indivíduo com direitos, nos mesmos moldes com que os negros escravos tiveram que fazer (e não conseguiram), só que com muito menos sangue e com muito menos "appealing" (ou talvez na época não houvesse também tanta comoção pelos imigrantes africanos, vai saber...).
 
-Que homens são imaturos por natureza não é novidade, mas o frescor com que a série apresenta a contraparte desse fato, através de uma menina adorável que contraria as regras orientais de etiqueta para seu gênero, que deve ser tímida por obrigação, é um dos pontos fortes. Pode não parecer para nós, ocidentais, mas esta menina de 12, 13 anos está desafiando o status quo dos papéis da sociedade japonesa.
+Se em um dado momento o argumento da advogada que os ajuda (Amanda Seyfried, que está no filme até para ser comparada com o Gollum do Senhor dos Anéis) é pautada na lógica e razão, usando termos filosóficos certeiros como autoconsciência e capacidade de sentir amor, o advogado que apela para criação divina está algumas décadas deslocado da discussão, mas mesmo assim ganha facilmente. Isso parece quase uma trolagem do que ocorre quando Morgan Freeman entra em cena (sem querer esmiuçar os detalhes), mas dá a impressão que as participações especiais do filme conseguem distrair ainda mais que a dublagem de McFarnale.
 
-Os colegas de classe complementam a série, servindo como estereótipos em situações conhecidas por todos espectadores. O ritmo é lento e contemplativo, e por isso mesmo valioso. Cada segundo de não-ação contribui para aproximarmos nossos próprios pensamentos em situações lúdicas que se disfarçam de infantilidade para os que ainda não perceberam que adultos são crianças crescidas, mas ainda assim eternas crianças.
+Tentando concluir sua "trama" com novamente a perseguição do original, além de incluir aí um evento de nerds para atrair o seu público pseudo-inteligente, Ted 2 só não fica pior graças, novamente, a seus heróis, que continuam divertidos à sua maneira juvenil e imatura de ser.
 

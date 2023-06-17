@@ -1,14 +1,18 @@
 ---
 categories:
 - writting
-date: '2014-06-06'
-link: https://www.imdb.com/title/tt0015324
+date: '2020-12-08'
+link: https://www.imdb.com/title/tt3845892
 tags:
-- movies
-title: Bancando o Águia (aka Sherlock Jr.)
+- series
+title: 'Sherlock: The Final Problem'
 ---
 
-Sherlock Jr., ou "Bancando o Águia", como quer o IMDB do Brasil, é uma obra de arte de 1924 em diversos sentidos, mas principalmente nas invencionices do seu diretor e ator, Buster Keaton. Tentando associar suas trapalhadas pelo fato de tentar fazer duas coisas: ser projecionista de um Cinema e aprender a profissão de detetive, o protagonista sem nome é obviamente relacionado com o próprio Keaton, que dirige e atua cenas mirabolantes que usam e abusam de efeitos visuais criados na época, brincando com metalinguagem e sketches físicos a todo momento. Nunca deixando de entreter, Sherlock Jr. ao mesmo tempo que é uma bela homenagem ao Cinema recém-nascido, um prenúncio do que viria pela frente, além de conseguir contar sua história sob diversas camadas de metalinguagem. Tudo isso em apenas 44 minutos.
+O último episódio da série da BBC sobre o detetive mais famoso de todos os tempos (e sua família) está longe de ser o melhor de todos, mas assistindo agora em revisita soa melhor do que a primeira vez. Talvez as séries e filmes que assisti nesses últimos três anos não tenham ajudado muito a elevar a sétima arte, com raras exceções. O mundo está muito chato e condescendente com uma barra que talvez nunca tenha baixado tanto em tão pouco tempo.
 
-A comicidade de Keaton deve ser entendida como uma parceria entre seus trejeitos e sua criatividade sem limites como cineasta e ator. A sequência mais icônica, quando Keaton atravessa a tela do cinema onde é projecionista e tenta se desvencilhar de diversos cortes que mudam o cenário onde está, também é uma criação tão original e tão pertencente ao seu propósito que dificilmente vemos exemplos disso até hoje em dia (Matrix?), ainda mais com o propósito de fazer rir.
+É nesse estado de podridão e perdição que o episódio sobre a irmã perdida e psicopata de Sherlock vem bem a calhar. É a vilã perfeita. Um gênio incompreendido, se torna uma assassina sem pudores, porque "percebeu" desde cedo, observando o mundo em sua volta, que a moral é relativa, que bem e mal são criações úteis para a lei da evolução, mas não tão úteis para quem não consegue enxergar nada além da razão pura.
+
+Então ela se diverte matando pessoas como um jogo e um experimento social. Ela quer entender algum sistema emocional com quem teve mais intimidade, e nesse caso é do seu irmão mais próximo de idade. Ele o leva para lugares de sua mente que ele não se atreveu a explorar em todos os episódios da série, mas agora se torna obrigado a usar como uma arma contra a loucura das deduções perfeitas de sua irmãzinha amiga do finado e celebrado Moriarty.
+
+É um final digno. Envolvente. Formulaico, claro, mas envolvente. Não se pode dizer que ele não traz questões no mínimo interessantes, que nos faz pensar no valor das relações humanas. Um caso de família. Uma família de sociopatas, no caso. O episódio é glorificado e, assim como o primeiro, tenta pavimentar o caminho que irá colocar Sherlock Holmes e Watson novamente em um pedestal. Um pedestal moderno, com conexão wi-fi, mas, ainda assim, um pedestal. Imortalizado, e talvez finalizado. Será esse o fim da série?
 

@@ -1,24 +1,23 @@
 ---
 categories:
 - writting
-date: '2018-05-26'
-link: https://www.imdb.com/title/tt6060156
+date: '2020-03-21'
+link: https://www.imdb.com/title/tt0365748
 tags:
 - movies
-title: Toc Toc
+title: Todo Mundo Quase Morto
 ---
 
-Este é um filme de mau-gosto. Ele explora como comédia diferentes tipos de Transtornos Obsessivo-Compulsivos. E ele não é de mau-gosto por causa do Politicamente Incorreto, mas justamente por causa dele. Como ele é leve demais se torna uma afronta usar a doença dessas pessoas para criar um filme sem graça, com piadas soltas e que não possui sequer personagens reais.
+Sempre que amigos se reúnem para aquela cervejinha básica e começam a conversar sobre zumbis e cinema é inevitável que surjam várias piadas que parecem muito boas de se colocar em um filme. Shaun of the Dead é esse filme, que o diretor Edgar Wright estreou nos cinemas, e que comprova sua energia em dirigir comédias, além de como seu talento será melhor exposto em trabalhos posteriores.
 
-Todos neste filme espanhol são estereótipos de criaturas que estão lotando os consultórios de psicólogos e terapeutas, afetados pela vida moderna. Mas são estereótipos fraquinhos, feitos para dar risadas esporádicas. Olhe para o senhor com Síndrome de Tourette, por exemplo, um transtorno em que a pessoa fala palavrões aleatoriamente sem controle. Aqui ele fala palavrões quase sempre a serviço do fraco roteiro de Vicente Villanueva.
+Aqui as piadas que a reunião de amigos fez brotar aparecem, mas quando as vemos em cena algo está errado. Não era bem assim que eu imaginava enquanto devorava salgadinhos tomando minha IPA. Sim, são as mesmas piadas que elaboramos, e elas continuam ótimas isoladas. Veja esta, por exemplo, quando o personagem de Simon Pegg escorrega em algo pegajoso no chão, e mesmo sem vermos, sabemos instintivamente que é aquele sangue nojento derramado de alguma vítima do apocalipse zumbi. Essa foi uma piada que funcionou no filme, mas que precisou de uma sequência inteira de outras piadas que sofreram para serem contadas. E que não funcionaram.
 
-Baseado na peça de Laurent Baffie, Villanueva escreve e dirige um pedaço de cotidiano jogando esses malucos em um consultório aguardando por um doutor que nunca chega. E eles fazem o que é mais provável, claro: começam a tentar curar suas maluquices por eles mesmos.
+Mas enquanto as piadas não se esforçam para serem engraçadas, mas apenas fazer parte do repertório do filme, notamos com certa simpatia que o diretor Edgar Wright mantém a mesma energia que empregará mais tarde no espetacular [Scott Pilgrim Contra o Mundo], mas está trabalhando com um roteiro bem inferior assinado por ele e Simon Pegg. É um trabalho a quatro mãos bem-humorado, quase informal. Lembra quando Adam Sandler se reúne com os amigos e "cometem" mais um filme, mas diferente de Sandler aqui há certos critérios que tornam o produto final minimamente assistível.
 
-Para a diversão do didático filme há entre os malucos, tirando o que xinga sem querer, uma senhora que é fascinada por sinais religiosos e por conferir dezenas de vezes os registros de água, luz, se a janela está aberta, se as luzes estão apagadas, etc, antes de sair. Ela é interpretada com uma competência desperdiçada por Rossi de Palma, colaboradora frequente do diretor espanhol Pedro Almodóvar.
+A própria sequência do personagem de Simon indo buscar seu jornal e alguma coisa para comer é um exemplo do que estou falando. Ela é a cena clássica do antes e depois do ataque zumbi. Ela funciona como cena, mas não como parte da história. Não há personagens para haver uma história. São estereótipos. Ele é um namorado relapso. Ele tem um amigo parasita (Nick Frost) e dois amigos dela (ela é Kate Ashfield) que fazem o papel de defendê-la contra o cara que está namorando que a leva todo santo dia ao mesmo pub.
 
-Também temos Blanca, cujo nome reflete sua obsessão por lavar as mãos e o medo incessante de micróbios. Para você ter uma ideia do nível dos estereótipos, ela trabalha em um laboratório. A atriz que a faz, Alexandra Jiménez, é famosa também, e começo a me perguntar o que tanta gente famosa faz em um filme desses.
+Essa piada foi reciclada por Wright em um de seus trabalhos posteriores, quase uma continuação da vida de Shaun. Em [Heróis de Ressaca], uma comédia sobre perdedores, vemos novamente Simon Pegg, Nick Frost e até Martin Freeman, que faz aqui uma ponta, juntos de novo, mas adultos e quarentões. É uma versão melhorada, onde existe ainda o charme da informalidade, mas junto das habilidades de um diretor mais maduro.
 
-O personagem mais irreverente é Otto, que nas mãos de Adrián Lastra faz um taxista com obsessão em contar coisas. Ele quase sempre nos distrai, junto dos personagens de Paco León e Ana Rujas, do verdadeiro marasmo que é este filme de 90 minutos.
-
-Muitas pessoas devem gostar desse filme como gostam de uma comédia de stand up medíocre porque existem piadas no meio do caminho. As piadas são engraçadas, mas seus personagens não. O que nos leva ao seguinte dilema: aguentar todas essas pessoas presas em um consultório tentando conviver de uma maneira completamente irreal, ou ir assistir a uma comédia de standup, que é feita para isso? O Politicamente Correto traz umas crias às vezes que é difícil de assistir sem ficar com algum cacoete.
+[Scott Pilgrim Contra o Mundo]: {{< relref "scott-pilgrim-contra-o-mundo" >}}
+[Heróis de Ressaca]: {{< relref "herois-de-ressaca" >}}
 

@@ -1,17 +1,22 @@
 ---
 
-Essa menina resume para todos nós tímidos o que era o ensino médio. Cercados de preocupações sobre como se comportar em sala de aula ou desenrolar uma conversa informal, nossas cabeças estavam o tempo todo maquinando um plano e revendo episódios passados.
+Holy Motors é o refresco que todo cinéfilo pede de vez em quando. Com uma abordagem surrealista, ele permite fazer uma crítica e uma homenagem à nossa sensação de estarmos na realidade enquanto assistimos filmes. Mais do que isso: ele brinca com essa percepção aproveitando o pouco de pé que fincamos nessa realidade no início do filme. A partir daí, ele nos puxa cada vez mais para o inusitado. Porém, não é gratuito. Parece que tudo que está ali é necessário e poderia ter sido contado da maneira convencional, mas seria um resultado aquém do que precisamos. Sim, precisamos de um Holy Motors no Cinema de vez em quando.
 
-Hitori Bocchi é essa garota que é forçada pela ex-amiga do primário a arrumar amigos depois que se separaram. Aliás, bem mais do que isso, pois este é um anime de humor: fazer amizade com todos os alunos de sua classe. Humanamente impossível até para os mais populares, um desafio divertidíssimo de acompanhar.
+Para nos manter com essa parcela do real durante toda a experiência, há mais ou menos uma história: um dia na vida de um ator com idade avançada, mas que ainda precisa realizar o seu trabalho. Ele é levado de limusine branca para todas as locações, e ele próprio se maquia e se transforma para viver seu próximo personagem. Em determinado momento, os resquícios do personagem anterior se misturam com o próximo personagem, mas pode ser que não seja um novo personagem, e apenas um diálogo entre colegas de profissão. É possível permearmos esse traço de realidade em um futuro distópico onde as câmeras são praticamente invisíveis, não há uma equipe de produção em volta do cenário e tudo é feito da maneira mais perfeccionista possível.
 
-Na primeira temporada ela vai acumulando algumas amigas que são quase tão estranhas quanto ela mesma. A discussão sobre amizades forçadas e naturais surge a todo momento e é a força motriz que nos faz entender por que temos amizades afinal de contas. É um roteiro com um pouco de caos que anima os corações.
+E, mesmo assim, o público pede mais. Não é isso o que vivemos no dia-a-dia dos efeitos visuais, da ação desenfreada?
 
-A estrela será sempre Bocchi, que na segunda-feira passa de carteira em carteira introduzindo seu nome para ter certeza que as novas amizades não a esqueceram. Ela também interpreta tudo errado. Quando ela ouve falar nos obstáculos para começar uma nova amizade ela já planeja ingressar na aula de atletismo. Ela é o Bob Esponja dos animes, mas porque sua mente está muito cheia de preocupações sobre resgatar sua antiga amizade, mas às vezes parece que ela é apenas cabeça-oca.
+A fotografia se alia perfeitamente aos objetivos do diretor e roteirista Leos Carax (do ótimo Boy Meets Girl). Ela é estilizada por Yves Cape e Caroline Champetier (Homens e Deuses) e leva um tom verde onde é necessário criar uma certa dúvida sobre essa realidade quase virtual onde se passa a história (note o aspecto de cores através da câmera dentro da limusine). A edição de Nelly Quettier parece nunca perder o ritmo, mesmo quando está lidando com sequências completamente diferentes, mesmo se tornando óbvia com o passar do tempo, quando aprendemos o ritmo "personagem feito, próximo papel, pasta no banco".
+
+Porém, nada disso seria possível sem a total entrega de Denis Lavant, que faz um trabalho que exige fôlego e elasticidade. Ele está cercado de ótimos atores que fazem o trabalho secundário, mas é dele o filme, e sem ele não seria possível atingir tamanho impacto. Seus personagens conseguem nos tirar cada um do ato anterior, parecendo uma cornucópia mágica que cospe atores novos em folha para viver o papel de sua vida.
+
+Por tudo isso Holy Motors é passagem obrigatória dos cinéfilos. É um filme sobre Cinema, para o Cinema e com uma carga crítica que pode ser revisitada várias vezes. Nada que está ali é verdade, e tudo, ao mesmo tempo. Isso é o que torna cada segundo dessa experiência uma revisita ao nosso sistema de suspensão de descrença, nosso pulmão para respirar o ar da Sétima Arte.
 
 ---
 categories:
 - writting
-date: '2015-09-24'
+date: '2015-07-28'
+link: https://www.imdb.com/title/tt0145487
 tags:
-- beer
-title: Hoegaarden trigada
+- movies
+title: Homem-Aranha

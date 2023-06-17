@@ -1,18 +1,21 @@
 ---
 categories:
-- writting
-date: '2016-10-28'
-link: https://www.imdb.com/title/tt2614722
+ - reading
+date: '2023-06-15T21:24:12-03:00'
+draft: true
 tags:
-- movies
-title: Umrika
+ - books
+title: Unabomber Manifesto (Theodore Kaczynski)
 ---
 
-Este é um drama bem construído que envolve uma família indiana e as dores da separação e da ilusão entre eles. Às vezes apela para a emoção (principalmente no final), mas em sua maioria é uma trama bem desenvolvida e que merece o título de um indie que não soa indie, pois foge das fórmulas mais comuns e acaba caindo em um pesado sonho indiano pautado no americano. Ou deveria dizer umrikaniano?
+Theodore Kaczynski, conhecido como Unabomber, apareceu morto esses dias em sua cela. Ele estava preso pagando uma pena maior que a vida. Em sua época gloriosa ele forçou o jornal Washington Post a publicar seu manifesto, um livro com centenas de parágrafos explicando o porquê a revolução industrial foi e tem sido um desastre para a raça humana e como no futuro deve ser pior ainda.
 
-A história gira em torno de Lalu, irmão mais novo de uma família de um vilarejo onde o irmão mais velho sai em busca de uma vida melhor nos EUA. Primeiramente fonte de saudades incuráveis da mãe, e sem resposta por muito tempo, eventualmente eles começam a receber correspondência, no que são cartas de um Marco Polo ao contrário, descrevendo as maravilhas de um mundo à frente do vilarejo onde cresceram, embora ninguém tenha muita certeza de por que.
+Eu não conhecia seu material intelectual e comecei a ler o início e me interessei muito, pois sua didática e argumentação são muito boas. Pode não ser um paper científico, mas é um ensaio sobre sociedade e política amplo e atraente, sendo que a parte do atraente talvez possa ser pelo autor e eu compartilharmos da mesma opinião sobre esquerdismo, e este me parece um texto que explica muito bem sobre essa doença, sem o viés de defender alguma opinião. Note como diversas vezes Kaczynski abre a ressalva que se a opinião da pessoa de esquerda é a "correta" ou não pouco importa, pois ele está destrinchando o psicológico doentio desse arquétipo dos dias de hoje.
 
-Evitando usar a Índia e a cultura indiana como muleta para se vender em festivais mundo afora, o diretor e roteirista Prashant Nair prefere a tarefa mais difícil de fazer o espectador se interessar pelo pequeno Lalu, que se torna um jovem responsável e decide ir atrás do irmão para descobrir o que está acontecendo com ele, onde necessariamente ele irá trilhar seus mesmos caminhos. A narrativa não tem pressa, mas mantém sempre um ritmo de descobertas que mantém o espectador atento. Tudo é novo para Lalu a partir do momento que ele sai do vilarejo de onde nunca havia saído, mas ele aprende rapidamente o que deve ser feito, em um ótimo exemplo de quando a necessidade é a mãe de qualquer força de vontade.
+# Recortes
 
-A direção de Nair é competente, utilizando construções de cenas tradicionais para dramas, como a filmagem em primeira pessoa, a transposição de personagens em diferentes campos, o uso da luz para significar esperança (ou a falta de, note como quando Lalu se aproxima da parte obscura de suas entregas informais a luz começa a fazer falta no ambiente). Metalinguístico, o filme utiliza a tela umas duas ou três vezes para estabelecer a fixação indiana pelo Cinema (seja ele clássico, noveleiro ou de ação, como em uma sequência impagável de Indiana Jones e o Templo da Perdição).
+> In all ESSENTIAL respects most leftists of the oversocialized type want to make the black man conform to white, middle-class ideals. They want to make him study technical subjects, become an executive or a scientist, spend his life climbing the status ladder to prove that black people are as good as white. They want to make black fathers “responsible,” they want black gangs to become nonviolent, etc. But these are exactly the values of the industrial-technological system. The system couldn’t care less what kind of music a man listens to, what kind of clothes he wears or what religion he believes in as long as he studies in school, holds a respectable job, climbs the status ladder, is a “responsible” parent, is nonviolent and so forth.
+
+> The problems of the leftist are indicative of the problems of our society as a whole. Low self-esteem, depressive tendencies and defeatism are not restricted to the left. Though they are especially noticeable in the left, they are widespread in our society.
+
 

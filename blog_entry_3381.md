@@ -1,13 +1,21 @@
 ---
 categories:
 - writting
-date: '2021-12-05T21:30:21-03:00'
+date: '2021-04-04'
+link: https://www.imdb.com/title/tt10635210
 tags:
-- beer
-title: Scarpas Pilsen
+- animes
+title: Science Fell in Love, So I Tried to Prove It (Rikei ga Koi ni Ochita no de
+  Shōmei Shite Mita)
 ---
 
-O bairro de Scarpas em Capitólio é bem chique. Um condomínio de alto luxo em contraste com o centro simplão de interior mineiro. Se buscar bem você acha um barzinho no centro onde os locais vão tomar birita. Se você explorar o condomínio de Scarpas vai achar um helicóptero em cima de uma mansão.
+Este é um [Cells At Work] para o método científico. Você irá aprender neste anime alguns conceitos fundamentais que faz com que a ciência avance. E tudo gira em torno de um casal de cientistas apaixonados.
 
-Nesse contraste é que reside essa cerveja local, que une a simplicidade do estilo Pilsen com a elegância do malte, leve, mas perceptível. Aromático, mas refrescante. Simples de beber. Assim como Capitólio é simples de visitar.
+Ela declara estar apaixonada por ele. Ela diz: é amor. Ele responde: então prove.
+
+Science Fell in Love tem muito pouco de trama, mas muita criatividade para inserir os elementos que pretende ensinar na historinha. Hipótese Nula, Normalização de Dados, Problema do Caixeiro Viajante... enquanto você assiste você aprende ou pelo menos relembra algumas dessas idéias que movem o mundo do conhecimento.
+
+E ao mesmo tempo se mantém pensando: é possível definir e medir o amor?
+
+[Cells At Work]: {{< relref "cells-at-work" >}}
 

@@ -1,105 +1,26 @@
 ---
-
-Eu simplemente não entendo a organização dos cabeçalhos e fontes dos SDKs da Microsoft. Houve uma vez em que o [ATL](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_ATL) era distribuído junto com o SDK, e dessa forma conseguíamos usar o [WTL](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_wtl) sem ônus. Porém, um belo dia, isso é retirado do pacote, para tristeza dos que já haviam convertido a biblioteca de janelas para fonte aberto.
-
-No entanto, num belo dia, qual não foi minha surpresa ao notar umas pastinhas chamadas atl21, atl30 e atl71 dentro da distribuição do WDK (o finado DDK, renomeado sabe-se-lá-por-quê)? Pelo visto, tem alguém arrastando coisa errada pra onde não devia nos instaladores de Seattle. Esses estagiários!
-
-{{< image src="OoiV6X7.png" caption="" >}}
-
-O fato é que eles fizeram isso, e agora é possível ter o WTL mais novo compilado com o WDK. E nem é tão difícil assim.
-
-A primeira coisa a fazer é obter o tal doWDK. Para variar um pouco, agora existe um [processo de registro](http://www.microsoft.com/whdc/DevTools/WDK/WDKpkg.mspx) antes de obter acesso ao _download_, mais ou menos nos termos da Borland para baixar o [Builder](http://cc.codegear.com/free/turbo) / [Turbo](http://cc.codegear.com/free/turbo) / [Developer Studio](http://cc.codegear.com/free/turbo).
-
-<blockquote>Aliás, para os que baixaram esses produtos gratuitos da Borland versão C++ e não funcionou em algumas máquinas, como foi o meu caso, está disponível para baixar uma versão mais nova; dessa vez não vi nenhum problema na compilação e depuração. Ainda.</blockquote>
-
-Após instalado, em qualquer lugar da sua escolha, configure no seu [Visual Studio Express](http://www.microsoft.com/Express/) o caminho de onde se encontra a pasta atl71 (ou a 30, ou a 21). Aproveite também para colocar a pasta do WTL e o diretório de LIBs:
-
-{{< image src="TJyNrlE.png" caption="Configurando o diretório de cabeçalhos no Visual Studio." >}}
-
-{{< image src="VLryS9L.png" caption="Configurando o diretório de biblioteca no Visual Studio." >}}
-
-Isso vai fazer com que pelo menos os exemplos que vêem com o WTL compilem.
-
-No entanto, você verá o seguinte erro durante a compilação dos recursos:
-
-    
-    ------ Build started: Project: MTPad, Configuration: Debug Win32 ------
-    Compiling resources...
-    Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
-    Copyright (C) Microsoft Corporation.  All rights reserved.
-    Linking...
-    CVTRES : fatal error CVT1100: <font color="#ff0000">duplicate resource</font>.  type:MANIFEST, name:1, language:0x0409
-    LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
-    Build log was saved at "file://c:\Lng\WTL\Samples\MTPad\Debug\BuildLog.htm"
-    MTPad - 2 error(s), 0 warning(s)
-    ========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
-
-Para resolver esse problema, remova a inclusão do arquivo de manifesto no arquivo RC:
-
-    
-    2 TEXTINCLUDE DISCARDABLE
-    BEGIN
-        "#include ""atlres.h""\r\n"
-        "\0"
-    END
-    
-    <font color="#ff0000">3 TEXTINCLUDE DISCARDABLE
-    BEGIN
-        "CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST ""res\\\\MTPad.exe.manifest""\r\n"
-        "\0"
-    END</font>
-    
-    #endif    // APSTUDIO_INVOKED
-    
-    ...
-    
-    #ifndef APSTUDIO_INVOKED
-    /////////////////////////////////////////////////////////////////////////////
-    //
-    // Generated from the TEXTINCLUDE 3 resource.
-    //
-    <font color="#ff0000">CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "res\\MTPad.exe.manifest"</font>
-    
-    /////////////////////////////////////////////////////////////////////////////
-    #endif    // not APSTUDIO_INVOKED
-
-Depois dessa alteração, deve ainda existir o seguinte erro de linquedição:
-
-    
-    ------ Build started: Project: MTPad, Configuration: Debug Win32 ------
-    Compiling resources...
-    Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
-    Copyright (C) Microsoft Corporation.  All rights reserved.
-    Linking...
-    <font color="#ff0000">mtpad.obj : error LNK2019: unresolved external symbol
-       "void * __stdcall ATL::__AllocStdCallThunk(void)" (bla bla bla)
-    mtpad.obj : error LNK2019: unresolved external symbol
-       "void __stdcall ATL::__FreeStdCallThunk(void *)" (bla bla bla)
-    </font>.\Debug/MTPad.exe : fatal error LNK1120: 2 unresolved externals
-    Build log was saved at "file://c:\Lng\WTL\Samples\MTPad\Debug\BuildLog.htm"
-    MTPad - 3 error(s), 0 warning(s)
-    ========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
-
-Esse problema ocorre porque as funções de alocação e desalocação de memória da ATL estão em outra LIB que os exemplos da WTL desconhecem. Para resolver, basta incluir essa nova dependência:
-
-    
-    #pragma comment(lib, "<strong>atlthunk.lib</strong>")
-
-E pronto! Agora temos todo o poder das 500 milhões de classes da ATL aliadas à ilimitada flexibilidade das classes de janelas da WTL.
-
-#### Para aprender a usar WTL
-
-	
-  * [Explicando a sopa de letrinhas da programação C/C++ para Windows: WTL](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_wtl)
-
-	
-  * [WTL for MFC Programmers](http://www.codeproject.com/KB/wtl/wtl4mfc1.aspx)
-
----
 categories:
+- reading
 - writting
-date: '2019-06-09'
-link: https://www.imdb.com/title/tt9184994
+date: '2016-05-14'
 tags:
-- series
-title: Como Vender Drogas Online (Rápido)
+- books
+title: Como Ver Um Filme
+---
+
+O livro de Ana Maia Bahiana é cativante do começo ao fim. Ele dá dicas sem frescuras e para o cinéfilo amador -- aquela pessoa que adora ver filmes, mas não sabe muito sobre sua criação nem como escolher um filme ou apurar seu gosto -- e ao mesmo tempo evita a todo custo soar pedante, crítica ou pior: erudita. Muito pelo contrário: o conteúdo é informativo e atinge das camadas mais básicas (como funciona a indústria de Hollywood) até as mais controversas (o que é gênero?).
+
+Minha única bronca com esse livro é sua diagramação. Sua forma de abrir parênteses para curiosidades e aqueles quadros "saiba mais" quebra o ritmo da leitura principal. Literalmente. Estamos lendo uma empolgada defesa dos terrores mais eficientes, no meio de um parágrafo, quando de repente surge uma página preta com curiosidades sobre um certo diretor. Duas páginas inteiras! Isso faz ou que paremos de ler o que estávamos lendo ou percamos a página preta depois de terminada a leitura do principal. Esse modelo simplesmente não funciona bem.
+
+Tirada essa pedra de lado, haverá também leitores folheando a sessão de Cinema na livraria ou bisbilhotando a capa da pessoa do lado no metrô que constatarão, horrorizados, como é de mal gosto um livro que se predispõe a ensinar às pessoas algo que "todos já sabem". Afinal de contas, qual a dificuldade de sentar na poltrona/sofá e apertar o play/comer a pipoca? A arrogância do espectador eventual é esperada, e até certo ponto do cinéfilo mais... "ingênuo".
+
+Porém, é exatamente sobre isso que o livro trata. Ele ensina que nós de fato não, não sabemos como assistir filmes e aproveitá-los ao máximo. Seja a pessoa que vai pela primeira vez no cinema ou o crítico de longa data, estamos sempre reaprendendo formas de enxergar uma película, assim como diretores ousados reinventam a forma a todo momento, com resultados mistos. Entender que a humildade na hora de ver um filme é sua arma mais poderosa para extrair o máximo da experiência -- mesmo que seja um péssimo filme -- é a chave que o livro de Ana Maria tenta passar.
+
+Acostumada ao ecossistema do filme, Bahiana nos apresenta toda a criação de um filme, suas influências artísticas (e monetárias), dando exemplos bem populares da sétima arte e misturando parcimoniosamente com filmes e diretores clássicos, mas não muito conhecidos, do público em geral. Com isso, ela automaticamente faz uma contribuição ao cinéfilo amador que ele não vai enxergar como um "vai estudar!", mas mais como um "esses filmes que você adora certamente são incríveis; provavelmente você vai gostar desses outros aqui".
+
+Além disso, a discussão em torno do que faz um filme ser ótimo, quais as principais regras de roteiro, de direção, de fotografia, figurino, trilha sonora e a edição são momentos que poderiam ser pesados se estivéssemos falando de um compêndio excessivamente didático ou perfeccionista. Porém, Ana Maria, assim como os filmes de que tanto fala, sacrifica a exatidão por algo muito mais louvável: prender a atenção de seu "espectador". Com isso, tanto cinéfilos mais exigentes quanto os mais iniciantes poderão se beneficiar do conteúdo sem bocejar.
+
+E arrisco dizer que até cinéfilos mais seletivos e menos abertos a novas visões poderiam se beneficiar de partes do livro, se estiverem dispostos a arriscar sair só um pouco do lugar-comum, ou de sua zona de conforto da comédia romântica ou filme de ação.
+
+Dessa forma, Como Ver um Filme é uma obra única, pois chama a atenção para todos os tipos de pessoas que simplesmente gostam de ver filmes mais que a média, ou o suficiente para ler esse livro. Seja você um leitor ávido de literatura da Sétima Arte, ou apenas um apreciador eventual da máquina de sonhos, tenho certeza que irá se beneficiar do seu conteúdo. E de sua forma (mas esqueça as páginas pretas).
+

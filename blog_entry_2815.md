@@ -1,27 +1,22 @@
 ---
 categories:
 - writting
-date: '2018-12-13'
-link: https://www.imdb.com/title/tt5028340
+date: '2011-11-02'
+link: https://www.imdb.com/title/tt1161864
 tags:
-- cinemaqui
 - movies
-title: O Retorno De Mary Poppins
+title: O Ritual
 ---
 
-A Disney vem realizando alguns esforços duvidosos em resgatar para live action (com atores de carne e osso) praticante todos seus clássicos de animação, um a um. Porém, em O Retorno de Mary Poppins o filme original já é "de verdade", e seu maior desafio é nos entregar mais uma vez essa união impossível entre o lúdico e o sóbrio. Bom, se tem algo que Walt Disney sempre nos ensinou é que para ele, e para a Senhorita Poppins, até o impossível é possível.
+Um "noviço" que, desistindo da vocação de padre, resolve dar uma última chance ao seu superior fazendo um curso de exorcismo no Vaticano. Há um diálogo estranho do superior insistindo no rapaz. Com o uso de uma cena forçada do superior causando a morte de uma ciclista, parece que o filme irá jogar suas causas de uma maneira não-orgânica.
 
-Esse novo filme avança algumas décadas do primeiro, que se passada nos anos 10. As crianças cresceram e o casal de irmãos agora pode ser visto junto de mais três crianças em uma versão que mescla elegantemente um pai e uma tia em uma referência disneylesca clássica que colocava tios no lugar de pais porque muitas crianças se tornavam órfãs na época da guerra. Estamos nos anos 30, na Grande Depressão, e é a situação perfeita para uma hipoteca que vence e o risco de perder a casa da Rua das Cerejeiras para o próprio banco onde o Sr. Banks trabalhava. Uma trama tão óbvia que dispensa detalhes, embora os detalhes sejam colocados de forma elegante neste roteiro finalizado a seis mãos.
+O clima de conspiração lembra Anjos e Demônios (a trilha corrida), e eu consigo relacionar quase sem querer a relação dos demônios na terra assim como os terroristas ("seu maior poder é nos convencer que não existe", "eles guardam a sete chaves suas identidades"). Seu pai e sua família cuidarem de maquiar defunto não me parece motivo para nada no filme.
 
-Mas a trama nunca foi o forte de "Mary Poppins". Se fosse não teria a menor graça a acompanharmos com os olhos de uma criança. O que importa mais são os números musicais, a imaginação, a esperança e os desafios de uma aventura que não pretende responder muitas perguntas. Como sabemos, se tem algo que a Senhorita Poppins não faz é explicar as coisas. E muito mais importante do que o que acontece no filme é qual a postura de Poppins, que dá o tom que precisamos.
+Dando a impressão em seu início sóbrio que o filme é inseguro de si, ele resolve partir logo para a apelação, o que denota também a insegurança de seu espectador.
 
-E ela é magnífica. Vivida agora por Emily Blunt, nas primeiras cenas fica óbvio que ela não conseguirá a proeza realizada por Julie Andrews, que imortalizou a figura icônica, adorável e... britânica. No entanto, ela realiza a mímica e possui "senso de palco" o suficiente para as cenas musicais, além de conseguir dizer boa parte das frases que tornaram a personagem célebre em seu filme debut, o que não é pouca coisa. Blunt sabe que está à sombra de uma lenda e mesmo assim ela consegue seu espaço ao sol. Não será lembrada, no entanto, como Andrews sempre será.
+Nessa situação, nem um ator do calibre de Anthony Hopkins consegue salvar este projeto. Pior para ele, vítima das cenas mais grotescas filmadas, como ao bater em uma menina.
 
-Como havia dito no meu blog, acredito que no primeiro filme a maior virtude cinematográfica é sem dúvida toda a sequência em que atores reais e desenhos se misturam, em uma combinação inusitada que funciona tão bem que se torna memorável e curioso que não tenha nunca mais sido tentado (não daquela forma pitoresca), se tornando então marca registrada e única deste clássico. E combina tão bem com este universo que não há maneira de não incluir outra sequência nesta continuação.
+Todas as vezes que os detalhes sutis ganham contorno, como uma cena que o personagem se corta ao fazer a barba, ou uma menina cortando cabelo, ou até mesmo uma travessura utilizando sapos, o filme fica interessante. Infelizmente a história nos leva cada vez mais acerca do sobrenatural, que não é tão interessante assim.
 
-E essa nova sequência, que começa de forma inusitada e divertida, é mais longa e mais aprimorada. Ela consegue tirar nosso fôlego em sua primeira e segunda partes, emplacando uma perseguição em sua terceira e última parte completamente descartável. Agora a computação permite que os atores "interajam" com objetos animados, mas é a mesma computação que torna, por exemplo, a sequência na água tão chinfrim, vazio de espírito, apesar de cheio de boas intenções. Inchado pelas novas possibilidades técnicas, a computação é primorosa na junção de cores e efeitos, mas muitas vezes durante "O Retorno" acharemos que o filme não tem nada a dizer; apenas cantar palavras ao vento.
-
-Mas isso não impede que não seja divertido. As sequências musicais passam voando. Parte disso é graças à coreografia que coloca os personagens muitas vezes deslizando e voando pelo palco. Em contrapartida, não há música à altura do tema de Mary Poppins ("uma colherada de açúcar"), e nem deveria. Ela é usada com muita sutileza como trilha sonora instrumental, e consegue manter o espírito no ar para os mais atentos.
-
-E apesar de não ser um filme sobre uma história, mas um estado de espírito, "O Retorno de Mary Poppins" tem a sua voz social e política. Enquanto a menina do original vira uma militante pelos trabalhadores o próprio núcleo da narrativa em torno das ações do banco do filme original pode ser visto como uma discussão honesta sobre onde estão nossos valores humanos quando se fala de dinheiro. E note que é quando o dinheiro vira algo impessoal, frio e cruel, que surge dos céus a postura humanista, mas nunca servil, de uma babá que precisa colocar os pingos nos i's. Seja bem-vinda novamente, Senhorita Poppins.
+Com caracterizações nada marcantes em um exorcismo que chega a ser patético, e nunca conseguindo no convencer de suas reais intenções, as fraquezas de O Ritual estão presentes demais durante todo o longa, o suficiente para obliterar suas poucas e sutis virtudes.
 

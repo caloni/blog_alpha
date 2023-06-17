@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2015-04-30'
-link: https://www.imdb.com/title/tt2872718
+date: '2020-03-28'
+link: https://www.imdb.com/title/tt0101316
 tags:
 - movies
-title: O Abutre
+title: O Amante
 ---
 
-Uma fase estupidamente frutífera de Jake Gyllenhaal, que fez com o diretor Denis Villeneuve em 2013 dois filmes muito interessantes: Os Suspeitos e O Homem Duplicado e que agora faz o seu terceiro papel completamente diferente. Não se poderia dizer diferente de Dan Gilroy, que trabalhou em roteiros de filmes curiosos como Gigantes de Aço, mas que aqui estreia na direção de uma história que ele mesmo escreveu e que ultrapassa o limite do óbvio para se emaranhar em uma discussão acalorada, divertida e abrangente sobre a mídia sensacionalista.
+Eis um filme perfeito do início ao fim. Seu início é enfadonho e preguiçoso, mas no primeiro momento em que este milionário chinês e esta ninfeta europeia se encontram na cama de um quarto sujo de um bairro pobre e distante dos grandes centros, ele nunca mais volta a ser enfadonho.
 
-A história gira em torno de Louis Bloom (Gyllenhaal), que costuma roubar peças de metal para revender, mas que procura agora conseguir um emprego para se dedicar. Renegado por ser um ladrão, acaba testemunhando um acidente na estrada e junto dele um cinegrafista amador que, de posse de um assistente e uma van, parece fazer dinheiro vendendo vídeos das atrocidades que ocorrem na cidade para os telejornais locais, que noticiam a desgraça diária pela manhã, quando Louis metódica e rotineiramente rega sua planta e prepara como será seu dia.
+Sua história é bem direta: é um Lolita realista, épico, mostrado do ponto de vista de uma garota de quinze anos e meio em uma situação completamente diferente. É uma obra quase autobiográfica de Marguerite Duras, que viveu no Vietnã no início do século na pobreza com seus irmãos e a mãe, e já revelando seu final no começo do filme, se tornou a escritora que tanto desejava no início de sua vida. Ao custo de, de acordo com suas palavras, "ter envelhecido completamente aos 18 anos".
 
-O escalada "profissional" de Louis já seria uma curiosidade à parte, pois o sujeito obviamente possui alguns problemas em seu passado que parecem despertar de uma maneira catalisadora através de frases de motivação de escritório (dessas que se acha em livros sobre liderança, gerenciamento de projetos, negócios, etc) que ele sempre tenta encaixar em cada nova situação. Quando contrata seu assistente (Riz Ahmed) esse vira alvo de uma avaliação rigorosa. Podemos dizer a mesma coisa de sua relação com a mulher que compra seus vídeos, Nina (Rene Russo), e um dos jantares mais insensíveis e precisos que você irá assistir.
+A relação entre ela e o chinês é puramente sexual. E este só pode ser um filme biográfico, pois os detalhes com que eles fazem sexo só pode ter saído da cabeça de quem realmente teve essa experiência. Nunca um filme antes havia mostrado o ato conforme ele acontece, e agora, graças à ajuda do diretor Jean-Jacques Annaud e o roteiro de Duras, temos um exemplo concreto, paupável e inesquecível. Não há freios morais aqui como no Ocidente contemporâneo que pare essas descrições visuais.
 
-No entanto, a escalada de Louis vem acompanhada da escalada no conteúdo dos seus vídeos e como eles são produzidos. Desde o começo abordando a discussão de o quanto as câmeras atrapalham as atividades de socorro às vítimas, esse atrapalhar é visto como uma cadeia que começa nas ruas e só termina nos índices de audiência de uma população obcecada com violência, talvez no pior sentido da palavra. A direção de Dan Gilroy consegue ainda respeitar a inteligência do espectador, e omite propositalmente alguns fatos que são facilmente entendidos (como a ausência do início de uma fita que Louis grava em um bairro nobre), mas ao mesmo tempo escancara algumas situações para que nós mesmos a julguemos (quando ele altera a posição do corpo da vítima para conseguir um melhor enquadramento).
+O achado do filme foi Jane March, uma modelo que em seus dezoito anos protagoniza com propriedade a estrangeira ninfeta que faz o papel da estrangeira em um mundo exótico. Não há muitos personagens, e sequer há nomes para os dois principais. Há apenas a descrição visual e narrativa, um tanto brega, mas eficiente, e a percepção do espectador do que pensar sobre tudo isso. Nossa mente caminha livre pela beleza desse [Império dos Sentidos] adolescente.
 
-É por isso que a sequência final acaba sendo irretocável do começo ao fim. Não por ela em si, mas pelo que se construiu durante todo o longa. É por isso que a frase de Louis ao seu assistente é acompanhada de um temor pelo espectador. É por isso que a girada de 180 graus do carro de Louis em frente ao acidente soa tão ou mais ameaçador do que os bandidos que eles estavam perseguindo. E, por fim, é por isso que seus resultados tenham mais o teor de crítica do que a fácil vingança a um vilão ou anti-herói que é mais uma metáfora do que um culpado em que se possa apontar o dedo. Tal qual os apresentadores de telejornais de violência explícita.
+Cinema é sexo, como já sugeria a crítica Pauline Kael, nos títulos dos seus livros e no prazer que lhe era proporcionado pelos anti-heróis que subvertiam a ordem moral. E O Amante é o filme que ela adoraria escrever sobre.
+
+[Império dos Sentidos]: {{< relref "o-imperio-dos-sentidos" >}}
 

@@ -1,14 +1,13 @@
 ---
 categories:
 - writting
-date: '2019-08-10'
-link: https://www.imdb.com/title/tt0087928
+date: '2022-04-26T22:45:13-03:00'
 tags:
 - movies
-title: Loucademia de Polícia
+title: Loucos do Coração (Going Places)
 ---
 
-Quem não se lembra dessa série de filmes que passava na Sessão da Tarde ad infinitum? Mahoney, Tackleberry, e tantos outros. As piadas certeiras. O Blue Oyster. E o melhor momento do original, quando o Comandante Lassard acredita que Carey Mahoney lhe pagou sexo oral. Ele vai furioso procurá-lo e diz ao Tenente Harris que ele fez algo muito ruim, no que o tenente pergunta a quem ele fez algo ruim e a cara do Comandante Lassard dizendo "eu não sei" é a melhor declaração pró-amor livre que você vai ver em um filme nos anos 80.
+Miou Miou na interpretação mais marcante de sua carreira é a puta de dois bandidos. Um deles é Gerard Depardieu antes de virar um monstro. A personagem de Miou não sente tesão de nenhum dos dois e parece uma boneca sexual perfeita na cama. Até dar para um psicopata e ter seu primeiro orgasmo.
 
-Hoje este é um filme quase datado, mas que pode ser assistido com um pouco de nostalgia e pipoca sem problemas. É um filme leve, nível do programa Os Trapalhões, e não tem muitas ambições narrativas exceto repetir os mesmos estereótipos da décadas: o safo que irá se dar bem e aprender uma importante lição (Mahoney), a linda garota com quem ele vai ficar (Thompson), seus amigos esquisitos de bom coração (Jamanta, Barbara, George Martin) e os que querem estragar tudo e sempre se dão mal (Tenente Harris e patota).
+Este é um filme de emoções fáceis. Dois capangas meio molengas vão vivendo de golpe em golpe sem medo de ser feliz. Eles assediam mulheres na rua, estão no auge da juventude e não querem trabalhar. Contestam as coisas como elas são roubando os outros. É um filme de contracultura que seria feito por Godard se Godard soubesse escrever e dirigir.
 

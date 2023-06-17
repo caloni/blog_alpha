@@ -1,21 +1,24 @@
 ---
 categories:
 - writting
-date: '2015-02-22'
-link: https://www.imdb.com/title/tt2473794
+date: '2010-11-20'
+link: https://www.imdb.com/title/tt1781866
 tags:
-- cinemaqui
 - movies
-title: Mr. Turner
+title: Muita Calma Nessa Hora
 ---
 
-Luzes, câmera, ação. Para os pintores, especialmente para o excêntrico pintor britânico Joseph Mallord William Turner (Timothy Spall), o primeiro elemento da tríade cinematográfica também é o mais importante de uma das artes de onde se derivou a sétima. A luz, nunca levada em conta pelo público médio, é vital para a compreensão do que um quadro quer dizer, seja ele uma pintura de aquarela ou as paisagens estáticas do filme escrito e dirigido por Mike Leigh (O Segredo de Vera Drake).
+Mari é constantemente assediada por seu chefe na agência publicitária onde trabalha; cansada de ser confundida com uma mulher fácil, decide não ficar mais com homem nenhum. Tita é a mulher certinha, virgem de um homem só (o marido), mas que encontra seu noivo com outra em seu apartamento e, desacreditada, decide esquecer esse negócio de monogamia e partir pra tirar o atraso. Aninha, uma eterna indecisa, já trancou sete vezes a faculdade por nunca ter certeza do que quer fazer; sim, ela concorda com ambas as amigas; ao mesmo tempo.
 
-O filme protagonizado por Timothy Spall (mais conhecido por seu papel de Peter Pettigrew na série Harry Potter) acompanha a vida do pintor romântico desde a morte do pai até a sua própria e esperada morte. Spall consegue a proeza de se afastar de seus papéis cômicos e colocar um filtro de mistério por trás daquele esquisito homem que bufa e respira como um porco, se mantém quieto na maioria de suas observações, mas quando fala nunca é algo que esperamos, mas sempre mais profundo e igualmente misterioso.
+Prestes a contar a aventura das três em uma lua-de-mel bem diferentes na praia de Búzios, no Rio de Janeiro, a história possui uma introdução rápida como nas comédias de televisão (como a cena da traição), empregando um ritmo eloquente com a juventude das personagens e usando de algumas artimanhas para desde o início distinguir a personalidade de cada uma de suas protagonistas: trilha sonora diferenciada e legendas a la Tarantino.
 
-O mistério, aliás, é muito bem mostrado naquela própria época, onde as primeiras descobertas físicas estavam ainda sendo arranhadas, e onde coisas como prismas, agulhas magnetizadas e câmeras fotográficas eram a tecnologia de ponta. Turner vira nosso guia por diversos níveis daquele mundo, seja os primeiros passos da ciência desbravando a origem da luz, a academia de pintores e suas discussões acaloradas ou até colegas históricos e suas desavenças. Chega a arriscar ideias além do próprio personagem, questionando a propriedade das obras de arte após a morte de um artista, e se seria ético mantê-las trancadas pelo bel prazer do dinheiro de poucos, ou pertencer ao próprio povo e terras que serviram de inspiração.
+No caminho dessa história conhecemos os simpáticos e eficientes personagens secundários, como Estrela, a menina natureba e ingênua que busca se reencontrar com o pai, pescador, na mesma praia para onde as meninas estão indo. E personagens menores, que são muitos, e representam os velhos estereótipos que vemos em outros filmes do gênero (ou em programas humorísticos como Zorra Total): o mauricinho que adora suas bugingangas tecnológicas, o vendedor de bebidas gay que anima as festinhas da praia, o baiano maconheiro fã de Chiclete com Banana, e por aí vai a valsa.
 
-Porém, o que o diretor Mike Leigh parece mais fascinado é nos situar em uma época de maneirismos sociais exóticos e um ritmo lentíssimo para os padrões atuais maquiado com cortes longos -- e infelizmente muitas vezes perde-se a passagem do tempo. É um jogo arriscado que funciona mais do que deveria porque entendemos que a arte só conseguiu se concretizar através de diferentes vivências e percepções de um artista que buscava captar o momento de forma mais abrangente do que uma pessoa sentada em uma cadeira estática por dez segundos. Há vida nos rabiscos de Turner que ganham vida extra comparadas com a atmosfera de sua própria.
+Se estereótipos costumam ser sinônimo de piadas medíocres, não é isso que acontece em "Muita Calma". A competência do elenco de apoio sustenta seus personagens e suas piadas na maioria das vezes; e se não divertem por mais tempo é devido aos muitos cortes bruscos que são feitos ou pela repetição da mesma piada diversas vezes, como na cena do vômito (clímax), seguida pela cena do carro (exagerada).
 
-Isso explica, também, como o que há em seus quadros é o que falta em suas interações sociais. Em determinado momento sua mulher tenta afastar Turner por um breve momento de seu quadro recém-pintado, no que se transforma em seus últimos suspiros. Você não afasta um homem do que ele é, nem por um segundo.
+Aos poucos notamos uma certa necessidade do roteiro em tentar encarar mais profundidade nos conflitos dessas três jovens, exaltando visualmente seus problemas (e a troca do nome de Aninha para Soninha é icônica nesse sentido, pois demonstra claramente, e de forma divertida, a indecisão da garota até pelo próprio nome). Porém, como é de convir em comédias do gênero, as piadas nem sempre combinam com essa tentativa, muitas vezes o tom sério atrapalhando o cômico e vice-versa, enfraquecendo ambos os lados que o filme decidiu adotar.
+
+Se, por um lado, é possível dar boas risadas com as situações e piadas criadas especialmente para nos fazer rir, o desfecho pediria um pouco mais de dramatização (com cenas forçosamente emotivas, como a conversa de Aninha sobre seu aniversário e suas frase de auto-ajuda seguida de música faça-chorar). Esse drama não existe; nem no filme, nem no espectador, que não está preocupado com o destino das jovens, mas envolto nas piadinhas espalhadas em episódicas cenas.
+
+E se não existe essa necessidade de dramatizar uma comédia despretensiosa, pra que se preocupar? O bom mesmo é rir e se divertir com as partes boas, e deixar todo esse lero-lero de pseudo-conflitos existenciais no saquinho de pipoca.
 

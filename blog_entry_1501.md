@@ -1,37 +1,24 @@
 ---
-
-Eu sei como você se sente, Kaufman. Eu sei. E não vai passar. O novo filme dirigido e escrito por Charlie transpõe para a tela o ritmo exato de declínio da sociedade contemporânea. A maior prova disso é que ninguém vai entender. Irão buscar vídeos explicativos de seus gurus favoritos que lhe digam o que pensar. Mas não é apenas a sociedade que este longo e tortuoso filme espelha: também espelha seu idealizador, Charlie Kaufman.
-
-Quando digo isso me refiro à filmografia do sujeito, principalmente os roteiros. Existenciais e profundos, a preocupação de definir interações humanas em um mundo cercado de egocêntricos é latente. E após Sinédoque, por exemplo, conseguimos entender que o caminho que o cineasta percorre é sem volta. Sem mais o que dizer, só resta ao criador permanecer calado, afirmar o vazio e comentar auto-referências.
-
-Charlie se sente tão confortável discorrendo sobre o vazio, principalmente sobre o que não aconteceu e sobre o estado de mediocridade dos narcisos, que é quase fascinante. Ele é um Woody Allen maquiavélico e sem paixão. Seu estilo pelo estilo invade a tela, e você sabe quando está vendo uma obra escrita ou adaptada quando surgem desnecessárias confusões, as mesmas que entregam o ouro em seus filmes. Aí seu lado humano prevalece. Ele está interessado em nossa natureza, talvez dele próprio, e usa o particular para atingir o universal. Por isso, apesar da jornada dos personagens ser irrelevante comparada aos grandes temas, não é o tema nem a história que fascinam, mas a textura do universo onde tudo se passa.
-
-Aqui ele narra os últimos momentos da vida de um zelador que se imagina apresentando a namorada que ele próprio desconhece para seus agora inexistentes pais. Ele imagina esse encontro do ponto de vista da garota, que é narradora e protagonista. Jake mistura épocas e passagens de sua vida, elementos que constituíram quem ele se tornou, e acabou se tornando por tempo demais. Agora que está no fim ele está preso na inevitabilidade de viver o que não foi, e seu grande desafio, o grande desafio deste filme, e para todos nós, até certo ponto, é conviver com nós mesmos depois de tudo o que não foi conquistado, o que não foi vivido. Quando o agora é tarde demais.
-
-A forma de Kaufman é o que traz o sabor a filmes como esse. Seu lado surrealista transforma todas as cenas em momentos de reflexão sobre qualquer coisa que não seja um estudo de personagem. Porque não é. Kaufman está mais interessado em ser tão particular que acaba universalizando sua mensagem. Ele sequer se lembra que existem personagens em suas histórias. Às vezes, como em Adaptação, ele mesmo se recicla em uma delas. Em outros, como Anomalisa, ele enxerga através dos meros bonecos de carne que fundamentalmente somos.
-
-Há tanto por dizer e refletir que é como se o filme inteiro fosse relevante e ao mesmo tempo parte nenhuma dele. É a sensação que fica no ar. Não são detalhes, por mais geniais que sejam. Este é um Kaufman surpreendentemente mais humilde em suas pretensões. Quanto mais genial ele se torna menos convicto está de que é capaz de escrever estas pérolas que anda escrevendo já faz décadas.
-
-Como consequência, insere referências que o tornam menor frente às telas. Em uma piada tão espirituosa quanto acidental, um filme dentro do filme, uma comédia romântica piegas, se revela como dirigido por ninguém menos que Robert Zemeckis. Ao encontrar em cena um discurso sobre uma vida inteira, Kaufman usa nada menos que o diálogo mais icônico dos anos 90, direto da boca de John Nash de [Uma Mente Brilhante]. E, incerto de suas capacidades, ele nos dá a exata noção de pequenez quando "ele próprio" de certa forma se diminiu, ou se coloca em seu devido lugar, ao inserir um longo monólogo vindo de uma análise da crítica de cinema mais brilhante de todos os tempos, [Pauline Kael]. O cineasta não está atacando a figura do crítico como muitos fazem. Seria banal demais para seus objetivos. Pelo contrário: ele sempre a admirou, e cresceu a lendo, como muitos de nós. E como todos nós, ele sabe que Kael foi muito mais esperta.
-
-Soando interpretativo, a mensagem de Estou Pensando em Acabar com Tudo é óbvia demais para ficarmos apenas nesses joguinhos. Jake não consegue o que tanto deseja nem em seus próprios pensamentos. E ele não está sozinho. Quantos de nós está em completo descontrole emocional, reagindo instintivamente à rotina diária, presos à situação do momento, nos conformando com o breve e aconchegante calor depositado em nossas costas por um sol indiferente à vida quando saímos de uma sombra em direção à próxima. Todos nós sabemos que o destino de cada um é em direção à maior sombra de todas, da qual nunca mais vamos voltar. Estarmos gratos pelo sol fazer o que sequer controlamos é um dos mecanismos da natureza que nos assombra pela poesia e pelo horror que o caos representa.
-
-E que vida é essa no pós-moderno em que nada faz sentido a não ser que nós mesmos arregacemos as mangas para embutir significado? E este significado nem foi nossa decisão, mas nosso cérebro trabalhando em segundo plano enquanto tentamos viver mais um dia.
-
-Apesar do casal principal filosofar muito você pode ignorar e prestar atenção aos meros detalhes de quem é Lucy, ou nunca foi, e como ela pula entre profissões, e como ela nunca está completa. E como Jake, apesar de estar na direção de seu carro e levar sua namorada pela nevasca, é incapaz de pedir um sorvete, com medo dos fantasmas do passado. E o passado se aproxima cada vez mais quando o futuro fica menor.
-
-Todos os mistérios cercando a história principal, a interpretação final da adaptação da obra literária homônima do escritor estreante Iain Reid, são contornos que nós mesmos às vezes fazemos para evitar enxergar a verdade bem na frente de nossos olhos. E quando nem isso funciona, bem, você tem essa interpretação maravilhosa, caricatural e ao mesmo tempo fascinante de Toni Collete, sendo a mãe caipira que não consegue esconder o quão inatingível ela foi para o filho, e como a visão dele sobre ela tenta esconder atrás do orgulho o desespero de ter parido um filho extremamente limitado. Seu maior orgulho, uma medalha ou troféu por algo pequeno em sua juventude, é ao que ela mais se segura. E o ritmo meticulosamente irregular de sua estranha risada junto dos movimentos com a cabeça para trás e os olhos piscando e se revirando é um misto de descontrole involuntário nas mãos de uma das maiores atrizes da atualizade, onde até uma caricatura desperta a reflexão.
-
-Kaufman anda se soltando cada vez mais em sua estrutura. Este é o seu filme mais frouxo de longe, e com certeza o menos empolgante. Todo o seu tom intimista e deprimente nos faz sentir mal, mas não pelas pessoas na tela, mas por nós mesmos. Por quais caminhos miseráveis a humanidade avança quando os índices de depressão, suicídio e ansiedade sobem, enquanto nossa maior preocupação é qual termo politicamente correto devemos adotar para não ferir os ouvidos dos que não estão presentes. Que final miserável para uma sociedade tão próspera, não conseguir agarrar o significado que nos faz agir todos os dias, e lamentar pelo passado inevitável que nos conduz ao futuro repetido. E não adianta nada elogiar aquele poeta ou aquela crítica de cinema se não conseguirmos enxergar além para onde devemos ir a partir de onde os que nos precedem chegaram. Este parece ser mesmo o fim da linha. Nos contentamos com uma lambida em um sorvete imaginário no meio de uma nevasca inevitavelmente real e próxima.
-
-[Pauline Kael]: {{< relref "conversations-with-pauline-kael" >}}
-[Uma Mente Brilhante]: {{< relref "uma-mente-brilhante" >}}
-
+categories: []
+date: '2008-03-06'
+title: Estranho
 ---
-categories:
-- writting
-date: '2017-08-07'
-link: https://www.imdb.com/title/tt1605777
-tags:
-- movies
-title: Estranha Obsessão
+
+Bom, é hora de dizer tchau. Essa é minha última semana escovando bits na empresa onde estava por três anos. É estranho e esquisito dizer isso, mas me sinto um tanto aliviado. Nessa empreitada, porém, aprendi algumas coisas que valem a pena colocar na bagagem. Sempre é melhor entender do que criticar.
+
+Por exemplo, vejamos a palavra estranho: quantas vezes você já pronunciou essa palavra quando estava diante de um problema daqueles esotéricos? Muitas vezes, não foi? E os problemas não-esotéricos?
+
+Quando nos acostumamos a usar uma palavra para aliviar a dor de não entendermos o que está acontecendo diante de nós, visto pelos nossos próprios olhos, estamos nos condicionando a parar de cutucar nosso cérebro para encontrar uma resposta rápida e racional para o que está acontecendo. Em suma: nos fechamos ao mundo falando "estranho".
+
+Não por esse motivo, mas por estarmos cansados de tanto ouvir falar essa palavra, eu e meu amigo Thiago começamos a instituir uma "taxa simbólica" de 1 (um) real para os que proferirem a dita cuja, e passamos a usar o dinheiro arrecadado para o bem da comunidade, comprando o que nós, programadores, mais veneramos nos momentos de debugging: bolachas!
+
+Essa "medida provisória" aos poucos foi se alastrando pelas mesas do departamento, ao ponto máximo de todos da área técnica, além do diretor comercial, colaborar para a nossa "caixinha de um real".
+
+Criamos um ambiente livre de estranhos. E criamos um trauma em nossas cabeças. A partir das primeiras semanas, toda vez que estávamos em algum lugar em que uma pessoa desconhecida (um estranho) dizia a palavra, soava um sino em nossas cabeças, quase fazendo com que nossa mão acusadoramente se erguesse e fizesse o gesto com o dedo indicando que a pessoa, a partir daquele momento, estava devendo um real para nossa caixinha comunitária.
+
+E assim fomos indo, meses a fio, sem falar essa palavra na presença dos fiscais do um real, que éramos todos nós. A proibição foi linear e englobou todas as situações de vida social em que poderíamos nos expressar: no trabalho, no almoço, por mensagem instantânea, por e-mail, pelo celular, fora do trabalho, nos artigos do blogue...
+
+Pois é, caro leitor, nos artigos do blogue. Se você procurar nestes últimos três anos qualquer menção à palavra "estranho" por aqui com certeza não irá encontrar.
+
+Até agora, quando finalmente foi quebrado o encanto. Quer dizer, oficialmente a cobrança está extinta, mas nossas mentes sempre irão conter esse sino acusador tocando no ônibus, nas ruas, no cinema, no shopping, em casa. Enfim, nos códigos estranhos de nossa vida.
+

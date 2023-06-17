@@ -1,14 +1,24 @@
 ---
-
-Jim Carrey e Jeff Daniels finalmente conseguiram realizar a continuação (ou remake?) do seu clássico de comédia e os irmãos Farrely, do original de 1994, estão dirigindo. Os Farrely fizeram também Quem Vai Ficar com Mary?, Passe Livre, Eu, Eu Mesmo e Irene e tantas outras comédias.
-
-Iniciando com pegadinha monumental que ainda faz o gancho com 20 anos atrás, percebe-se que nada se perdeu da dupla original exceto o seu primoroso roteiro. Tentando dessa vez realizar um paralelo com as cenas do primeiro, Debi e Lóide partem em busca da filha que Lóide descobre ter para que ela doe o rim para seu pai. Isso pede obviamente um road-movie, uma dupla de vilões para impedir e todas as esquisitices da história original. O problema aqui é que nem todas as piadas são... engraçadas. Eu sei que humor é uma coisa relativa, e eu sei que muitas pessoas podem até gostar mais da continuação, mas sejamos francos: a comédia mudou muito em 20 anos. Usar a mesma dupla de patetas corre esse risco quando as coisas saem um pouco atrasadas.
-
-Dito isto, é preciso ressaltar que a participação dos atores originais é fundamental para que tudo funcione, diferente da tentativa frustrada de um prequel anos atrás. O carisma de ambos os personagens continua intocável, e mesmo que você não dê risada todo o tempo, vale a pena revê-los mais uma vez na tela.
-
----
 categories:
 - coding
-date: '2007-10-02'
-link: https://youtu.be/mXDROf0rLkI
-title: Debug da BIOS com o SoftIce 16 bits
+date: '2007-12-13'
+title: Debug remoto no C++ Builder
+---
+
+Esse é um detalhe que pode passar despercebido da maioria da população Borland, mas o Builder, assim como o Visual Studio, possui sua suíte para depuração remota. E tudo o que você precisa fazer é instalar um pacote no cliente.
+
+  1. No CD de instalação, existe uma pasta chamada RDEBUG.
+  2. Na máquina cliente, execute o arquivo setup.exe contido nesta pasta. De preferência, não instale como um serviço (a menos que tenha um motivo).
+  3. Crie uma aplicação tosca de teste (ou use uma aplicação tosca existente).
+  4. Lembre-se que as DLLs do Builder não estarão disponíveis na máquina remota. Para não depender delas desabilite as opções "Use dynamic RTL" (aba Link) e "Build with runtime packages" (aba Packages) do seu projeto.
+  5. Copie a aplicação para a máquina remota ou torne-a acessível através de mapeamento.
+  6. Em Run, Parameters, habilite na aba Remote a opção "Debug project on remote machine"
+  7. Em Remote Path especifique o path de sua aplicação visto da máquina remota.
+  8. Em Remote Host especifique o nome ou o IP da máquina remota.
+  9. Execute o aplicativo através do Builder (certifique-se que o cliente do Builder está rodando na máquina remota).
+  10. Bom proveito!
+
+Infelizmente essa opção não está disponível nas versões Standard do produto, assim como não está o debugging remoto no Visual Studio Express. Porém, a nova versão do Builder, renomeada para Borland Turbo C++, é gratuita a possui essa feature embutida. O único porém é que a instalação não é automatizada, e os arquivos devem ser copiados "na mão", seguindo um dos tópicos da ajuda. Melhor que nada.
+
+Para os que utilizam o Visual Studio Express, realmente ainda não achei solução a não ser usar o bom, velho e fiel companheiro WinDbg. Não saia de casa sem ele.
+

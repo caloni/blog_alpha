@@ -1,30 +1,28 @@
 ---
-
-Existe uma linha tênue entre Crepúsculo e dois tipos de filmes: no primeiro tipo existem as paródias, onde tudo que aparece na tela soa irreal e quase que completamente absurdo, quase sempre fazendo referência a filmes mais sérios; nessa categoria a saga dos vampiros não se sai tão mal, sendo o único grande problema ele insistir em levar a sério um romance que consegue ser, no melhor dos casos, risível e superficial (e eu já citei absurdo?). No segundo tipo de filme existem os romances e dramas sérios, que conseguem extrair um pouco de empatia do público, por pior que seja a história. Infelizmente, se for esse o caso, Crepúsculo consegue ser o anti-exemplo completo, pois não consegue extrair a mínima reação a partir do improvável casal formado pela antipática Bella Swan e o seu stalker psicopata vampiresco Edward Cullen.
-
-Senão, vejamos: pelo fato de seu padrasto viajar muito, Isabella Swan (Kristen Stewart, O Quarto do Pânico) precisa ir morar com o pai afim de cursar o colégio normalmente. Ele é um policial de uma cidadezinha de Washington com seus 1230 habitantes (a maioria formada por jovens, pois o colégio da cidade aparentemente vive lotado). Ela, não acostumada a se relacionar com pessoas, faz em seu primeiro dia de escola apenas 2, 3... 4 amigos. Eles conversam sobre os estranhos Cullen, uma família cujos jovens frequentam esporadicamente o mesmo colégio (menos em dias de sol), e normalmente maquiam suas faces de branco, ou possuem uma característica genética rara que deixa seus rostos embranquecidos, menos seus pescoços. Aliás, há dias que nem os rostos ficam tão brancos assim.
-
-Bom, vamos esquecer esse negócio da maquiagem por enquanto.
-
-O "mais estranho" dos Cullen (por não ter uma namorada) é o tal do Edward Cullen (Robert Pattinson, [Harry Potter e o Cálice de Fogo]), que aparentemente não consegue ficar longe da menina, aparecendo sempre repentinamente ao seu lado para dizê-la para ficar longe dele (seria mais fácil se ele facilitasse...).
-
-Porém, o problema logo é explicado: Cullen se apaixonou por Bella. Aparentemente, desde o primeiro momento que a viu. Coincidência dos filmes, o sentimento de Bella é recíproco. Não só isso: é mais forte. Depois de descobrir que Cullen é na verdade um vampiro (nada como uma pesquisa no Google) Bella se recusa a deixar de ver o rapaz (na verdade, ele é que nunca para de revê-la). Aparentemente, a teimosia de ambos é o que os torna inseparáveis e fortes para suportar tudo o que de ruim que essa relação acarreta, que é... bom, não fica muito claro o que pode acontecer, mas parece que no pior dos casos ele pode mordê-la a torná-la imortal como ele, o que faria com que vivessem juntos para sempre. Porém, não é isso que Edward deseja. Na verdade, pensei que fosse isso, afinal de contas ele não consegue viver sem ela. Ah, já sei: não é o que ele acha certo para Bella, pois afinal de contas ela tem uma vida inteira para ser vivida. Porém, a garota não o larga de jeito nenhum. Bom, na verdade, como já disse, ele é que insiste em estar sempre por perto.
-
-Rapazinho confuso, esse.
-
-O fato é que os dois são um poço de contradição. Talvez isso explique, no caso de Edward, o porquê do seu vampiro ser totalmente diferente do que a literatura e os filmes normalmente dizem a respeito dessa criatura. Talvez no fundo esses escritores e diretores sejam muito burros, e não tenham entendido a questão do jeito certo, que é explicado aqui, baseado em um livro dos anos 2000.
-
-Bom, confuso do jeito que é, dificilmente a história poderia ficar menos dispersa. Porém, não contavam com grupos distintos de vampiros que costumam sugar o sangue humano, diferente dos Cullen, que aprenderam a se alimentar apenas do sangue de animais (se consideram "vegetarianos" à moda deles). Esses grupos são rivais por um motivo qualquer, da mesma forma com que são os vampiros e os lobos, que são citados apenas au passant.
-
-Pois é, fascinante, não? Não posso perder [o resto] dessa saga e entender finalmente o que deu na cabeça de Bella para se meter nessa história. Se bem que já imagino: uma garota que mexe os lábios como um tique nervoso e que parece achar isso sensual de fato não mereceria um destino melhor do que se apaixonar por um psicopata.
-
-[Harry Potter e o Cálice de Fogo]: {{< relref "harry-potter-e-o-calice-de-fogo" >}}
-[o resto]: {{< relref "a-saga-crepusculo-lua-nova" >}}
-
----
 categories:
 - writting
-date: '2022-04-18T21:37:28-03:00'
+date: '2019-08-19'
+link: https://www.imdb.com/title/tt0074360
 tags:
-- series
-title: Crescidinhos
+- movies
+title: Cria Corvos
+---
+
+Engraçado como a memória funciona. Organizada de maneira não-linear em nosso cérebro, perdendo algumas ligações aqui e ali, ganhando outras sem querer... no final das contas esse conjunto de quase-conhecimento sobre nós mesmos, sobre quem amamos ou a sociedade onde vivemos é tudo o que podemos chamar de "eu". A nossa identidade inteira, baseada em frágeis conexões elétricas bem atrás de nossos olhos.
+
+Cria Corvos é um filme que brinca o tempo todo com a memória, com a vida e com a morte, como deveria ser todo filme que se passa durante um regime militar (no caso o espanhol). Acompanhamos Ana em suas incursões pela casa burguesa, de militar, onde mora. Conforme Ana anda pela casa surgem suas memórias de sua falecida mãe, misturadas com o presente acontecendo aqui e agora, com sua repugnante tia, que acabou cuidando de suas sobrinhas neste breve período.
+
+Seguindo a tradição de Goddard, logo enxergamos a crítica à vida burguesa e todos seus elementos risíveis: a empregada e as regras de etiqueta, o não-fazer nada do resto da casa e os eventuais casos extra-conjugais para quebrar o tédio. Seria esse marasmo que faz a pequena Ana se lembrar de sua mãe? Tenho dúvidas se a vida com ela era minimamente diferente ou se ela apenas está idealizando algo que nunca teve. Essa memória e seus truques...
+
+Esta também é uma história que mexe com a morte, e um possível assassinato, mas isso não importa muito. A primeira coisa que vemos é Ana testemunhar a amante do seu pai saindo do quarto onde ele agora repousa morto, sufocado. Ana adentra o quarto para fazer carinho no corpo do pai. O único momento que ela faz carinho no seu hamster de estimação é também quando ele repousa morto. Carinho é recurso escasso naquela família, deve ser usado com moderação.
+
+Há outras irmãs, uma grande e uma pequena. Mas isso também pouco importa, são coadjuvantes de luxo que não podem sequer tocar e dançar uma música quando sua tia está por perto. A diversão é proibida ou mantida sob um controle tão mesquinho que perde a graça. A mesma coisa observamos durante as refeições e os momentos dos passeio no jardim, que mais se assemelha a um presídio.
+
+Seguido da morte, segue-se também o luto. Mas até o luto não tem graça nesta vidinha. Lamentar pela morte de um pai ausente e mulherengo, que apenas alimentou a dor da vida de sua mãe ao "não permitir" que ela seguisse sua carreira de pianista não é exatamente um luto. A própria Ana, que vemos adulta, analisando sua infância como um testemunho, não parece ter certeza de suas memórias.
+
+O diretor Carlos Saura (do excelente Argentina) está bem à vontade em filmar presente e flashback, tudo junto. Ele sequer divide os momentos que Ana vê sua mãe e logo depois encontra sua tia. Isso porque essa memórias, presente e passado, estão no mesmo lugar, nesta casa. O espectador entende de imediato. Não precisamos de mais explicações sobre espíritos e fantasmas, pois o tom da narrativa, sóbria, descarta possibilidades fantásticas.
+
+Já a direção de arte, em plenos anos setenta, é ironicamente um frescor visual para os tempos atuais. Praticamente todos os cômodos da casa por onde Ana passa possuem traços riquíssimos de design. A geladeira velha, a mobília com madeira de lei, os brinquedos e quadros de personagens infantis. Tudo soa como um verdadeiro documentário explorado como uma viagem sensorial por esta fraca linha que une os momentos de nossa vida. São apenas férias escolares seguido de um luto, mas o filme transforma esse hiato em verdadeira poesia de uma vida e de uma sociedade.
+
+Sobre o que se trata Cria Corvos, afinal? Esta é uma pergunta fácil e difícil. É fácil dizer que é um filme de momentos na vida de uma criança que revelam a síntese dessa vida de rico onde falta vida (pois "vida é sofrimento", como já diria Jordan Peterson), ao mesmo tempo analisando de maneira depressiva o papel da mulher, vista em três gerações e diferentes papéis. Já mais difícil é dizer que é um filme sobre as lembranças da morte. O cineasta deseja morrer, ele vive em uma ditadura, e por isso se torna uma constante para essas pessoas, assim como é o tema principal nas memórias de Ana. Mas sabemos como a memória pode ser um ambiente aberto a interpretações. Exatamente como acontece após uma ditadura. Enfim, só um pensamento que veio à memória.
+

@@ -1,19 +1,25 @@
 ---
 categories:
-- writting
-date: '2017-01-12'
+- coding
+date: '2016-12-27'
+link: https://youtu.be/TWvY9ynmIDM
 tags:
-- movies
-title: Vidas de Carolina
+- videos
+title: 'Vídeo: Usando clang no Visual Studio'
 ---
 
-O curta documental Vidas de Carolina é o primeiro trabalho da diretora Jessica Queiroz. Ele aborda a vida de uma catadora de lixo reciclável e seu talento para a narrativa. A ideia era mostrar que a capacidade pode vir de qualquer lugar e que muitos não conseguem reconhecimento por falta de oportunidade.
+Com o surgimento da infraestrutura LLVM, que possibilita a união entre diferentes ferramentas que suportam diferentes plataformas para o desenvolvimento de software, e o clang, um font-end para C/C++ que roda não só em UNIXes da vida, como também no Windows, como também no Visual Studio, tem sido uma vantagem para projetos que usam as novas features do C++ moderno, muitas ainda não implementadas no compilador da Microsoft, unir o útil (Visual Studio) ao agradável (C++ modernos via clang). Este vídeo tem como objetivo demonstrar como essa união é simples e fácil de ser realizada dentro do próprio Visual Studio. De quebra, vamos descobrir alguns problemas que podem ocorrer nessa união de toolsets e como corrigir.
 
-Infelizmente, essa oportunidade também é perdida em seu filme. Carolina, já falecida, mantinha suas histórias em um caderno. De acordo com um dos entrevistados, o caderno datava da década de 50, informação essa que dá asas à imaginação do espectador, que poderia resgatar inclusive memórias do trabalho excepcional de Marcos Prado, "Estamira". No entanto, pouco vemos dos escritos de Carolina, com pouquíssimas frases lidas por uma moça que surge em preto e branco (Carolina Maria de Jesus), resgatando as memórias da senhora falecida e esteticamente produzida com uma glorificação visual que não se encaixa na história da homenageada.
+Este é um guia bem básico, mas atende os requisitos de quem quer começar a mexer com essas duas tecnologias (além de aficionados pelo novo C++ que está em desenvolvimento, mas não abre mão de uma IDE tão poderosa quanto o Visual Studio):
 
-No entanto, apesar do endeusamento acidental e pouco propício há uma fuga da realidade, ou o seu maquiamento, já que sequer vemos a pobreza e a miséria que eram as condições de vida de nossa heroína. O conteúdo visual se disassocia da mensagem do vídeo traduzida pelos entrevistados, que sugere que as condições eram horríveis e que esta é uma situação lamentável.
+ 1. Criar um novo projeto clang no Visual Studio.
+ 2. Utilizar o projeto com um Console Win32 padrão e toolset Visual Studio.
+ 3. Implementar uma feature ainda não suportada pelo Visual Studio.
+ 4. Utilizar essa feature no Console Win32.
+ 5. Corrigir e entender problemas no meio do caminho.
 
-A direção de Jessica (e provavelmente seu roteiro) se perde ao partir para conclusões apressadas, sem antes desenvolver uma história que, a meu ver, mereceria ser contada com muito mais tempo de tela. Além disso, como todo diretor estreante, Queiroz não evita o uso de diferentes ângulos e cortes (ela também assina como montadora) que não possuem uma função muito bem definida. Há muito o que contar dessas pessoas invisíveis que perambulam pelas grandes capitais, catando o lixo que os incautos cidadãos "deixam escapar" de suas mãos ocupadas.
-
-Finalizando muito mais cedo do que a proposta inicial, Vidas de Carolina apenas não se beneficia por não ser um simples trailer para um conteúdo muito maior e se resumir ao próprio vídeo que estamos vendo. Dessa forma, fica um gostinho de quero mais no momento mais inadequado para isso: o seu próprio final.
+ - CLang
+ - LLVM
+ - C++ compiler support
+ - Fold expression
 

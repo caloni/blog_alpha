@@ -1,23 +1,23 @@
 ---
 categories:
 - writting
-date: '2020-10-18'
-link: https://www.imdb.com/title/tt13034494
+date: '2015-03-13'
+link: https://www.imdb.com/title/tt1568343
 tags:
 - cinemaqui
 - movies
-title: O Tremor
+title: O Último Ato
 ---
 
-Onde está O Tremor que destruiu um vilarejo perdido no meio da Índia? Este é o tema deste filme minimalista, de pouco mais de uma hora de duração, que acompanha um fotojornalista em busca do epicentro de sua profissão: registrar o desastre alheio. Quando mais catastrófico melhor.
+Al Pacino é um dos grandes atores do nosso tempo e das décadas de ouro do Cinema norte-americano, com descobertas de grandes diretores como Francis Ford Coppola, Oliver Stone e Martin Scorsese. Esse fato não pode passar batido de O Último Ato, em que ele interpreta Simon Axler, um ator no início de sua decadência. Lá pelos seus 60 anos, Simon não consegue mais se lembrar de suas falas no palco e em uma crise nervosa se lança para a plateia, colocando um fim temporário em sua carreira.
 
-Ouço ecos de O Abutre, aquele filme em que Jake Gyllenhaal busca por desastres na cidade grande que se traduzem por mais e mais violência. Em O Tremor a violência é remota e distante, quase sugerida, mas nunca vista. Ela está na busca e nas poucas palavras do fotógrafo, que deseja a confirmação de que uma vila inteira foi destruída por um terremoto. Sua grande vitória será chegar primeiro que seus colegas.
+O diretor Barry Levinson também fez alguns trabalhos de destaque nos anos 80, como Rain Main e Bugsy. Rain Main, com Dustin Hoffman como um autista com capacidades impressionantes de cálculo com números, lembra um pouco o personagem de Al Pacino no sentido de que agora que sua carreira está em pausa as pessoas apenas lembram de seus grandes trabalhos como ator, mas sua vida pessoal é um completo caos e não parece haver nada que Simon faça que a melhore. Na verdade, é no caos que ela começa a ficar um pouco mais interessante quando reencontra sua afilhada, Pegeen (Greta Gerwig, do ótimo Frances Ha), e desenvolve um esperado relacionamento amoroso (Pegeen nutria um romance platônico de longa data com seu padrinho).
 
-Balaji Vembu Chelli estreia na direção de longas com este trabalho simples que não evoca muitas questões direto na tela, mas nos faz pensar sobre elas. A ação ocorre em nossa mente. O filme nos dá tempo e combustível para confabularmos sobre as fraquezas de caráter eminentes na natureza humana, que se revela, por exemplo, quando diminuímos a velocidade do carro para ver um acidente na estrada, ou nos apinhamos na multidão de curiosos observando mais uma consequência nefasta (e frequentemente violenta) do caos urbano.
+Levinson não tem pressa em desenvolver a história de Buck Henry e Michal Zebede, baseados no romance de Philip Roth, e acaba tornando o que poderia ser uma grande farsa dramática em um romance quase leve. O que o impede são situações incomuns que são encaradas como bizarras, sendo que se o bizarro fosse o padrinho se enamorar da afilhada mais de 30 anos mais jovem, isso já aconteceu. Não é a ex-namorada que trocou de sexo que vai tornar as coisas piores. Nesse sentido, o roteiro tem passagens equivocadas que não acrescentam em nada ao filme, embora sirvam de estopim para a já esperada crise do casal.
 
-É do não-movimento que esses pensamentos nos chegam, em uma história visualmente repetitiva e que nos oferece muitas estradas sinuosas em primeira pessoa e o ponto de vista de quem nunca consegue encontrar seu destino e está cada vez mais perdido em suas esperanças mórbidas. O personagem do filme, interpretado de maneira automática por Rajeev Anand, não é um vilão. Ele representa o que nós como espécie mais lamentamos: o saber da desgraça do outro apenas por saber. Afinal de contas, o que faremos a respeito de uma notícia no jornal sobre dezenas de mortos do outro lado do mundo?
+É nessa fase que a participação de Greta Gerwig é primordial em realizar tudo o que uma de suas ex ameaçava por telefone para Simon, de forma que sua simples presença na casa praticamente intocada de Simon acaba se tornado um incômodo invisível, pois é apenas pelas sucessivas conversas de Simon com seu psiquiatra que conseguimos entender a influência que a moça vai tomando em sua vida.
 
-Aos poucos chega ao espectador a sensação que o filme quer trazer: da irrelevância dessas notícias-catástrofe; mais da notícia, menos da catástrofe. Até porque desastres naturais que matam grupos de humanos ocorrem desde o início dos tempos, e não havia telejornais na época para fotografar tudo (vamos ignorar as pinturas rupestres em consideração ao filme).
+O terceiro ato, contudo, consegue se destacar por completo do resto do filme, pois apresenta um interessante comparativo do romance de Simon com o que aconteceu com uma mulher que ele conheceu no instituto psiquiátrico (Kyra Sedgwick) durante sua recuperação e que desde então tem tentado persuadi-lo a matar seu marido. Na verdade, parece que a história inteira ganha novos contornos que não podem ser negados, e até os delírios de Simon, quando este não consegue distinguir realidade de ficção.
 
-O Tremor é um momento fugaz em que nos escondemos da rotina frenética para nos observar e refletir: até que ponto acompanhar notícias ruins nos torna humanos melhores?
+Quando chegamos no "Último Ato" do título brasileiro, que apresenta uma performance admirável de Al Pacino, que parecia se conter até o momento, e realiza uma rima interessante com seu contemporâneo Birdman. No fundo, o próprio conceito de Birdman e O Último Ato parece revelar uma preocupação atual com a dualidade entre o real e o imaginário na arte, principalmente o Cinema, e como o faz-de-conta enlatado do segundo muitas vezes enfraquece o primeiro. Felizmente, temos trabalhos como esse para nos lembrar que a arte muitas vezes transcende a vida e a enriquece.
 

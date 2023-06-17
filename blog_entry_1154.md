@@ -1,43 +1,102 @@
 ---
-
-O artigo de Jeff Dailey, The Digital DNA of Bugs Dump Analysis as Forensic Science, em que ele compara a nossa atividade de "cientistas do debugging" com a atividade dos profissionais da análise forense, é exatamente o que eu penso sobre nossa profissão. Freqüentemente assisto à série CSI: Las Vegas e mais freqüentemente ainda uso os métodos científicos empregados pela equipe de Gil Grissom para resolver os problemas mais escabrosos que podem ocorrer em um sistema.
-
-Jeff fez uma divertida comparação entre todas as etapas de uma análise forense com todas as etapas de nossa análise do bug. Aqui vai a tradução livre dessas etapas (em linguagem cinematográfica):
-
-> São duas horas da manhã. A câmera focaliza um pager explodindo sobre um criado-mudo... só pode querer dizer uma coisa: algo de ruim aconteceu e pessoas estão à procura de ajuda. O detetive acorda e diz para sua mulher: "Desculpe, eles precisam de mim... Eu tenho que ir".
-
-Engraçado, eu fiz a mesma coisa, só porque alguém encontrou um servidor morto.
-
-> O detetive aparece na cena do crime. Todos os policiais estão confusos, então eles apenas mantém a área isolada até que os experts cheguem. Seus anos de experiência e iluminação única irão permiti-lo ver coisas que os outros não vêem.
-
-Umm... Isso só me parece apenas familiar. Eu tipicamente uso Live Meeting ou Easy Assist...
-
-> Usando uma combinação de ferramentas especializadas e métodos aprendidos tanto na escola quanto os aprendidos com o tempo, a evidência é coletada na cena para que seja feita uma pesquisa adicional no escritório. Testemunhas são questionadas: "Por volta de que horas isso ocorreu?", "Você ouviu algum barulho estranho", e "você viu alguém ou alguma coisa não usual". Fotos são tiradas, objetos são arquivados, fibras e amostras de DNA são coletadas.
-
-Ok, então o escopo do problema está determinado e todas as informações disponíveis foram obtidas. Ummm... eu faço isso todo dia.
-
-> O prefeito chama o oficial para que diga ao chefe dos detetives que nós devemos resolver este caso. Isso não pode acontecer de novo.  Nós devemos capturar o vilão!
-
-Sinta-se livre para substituir "prefeito" com qualquer figura de alto nível gerencial. Uau, isso ou é um cara mau e asqueiroso ou o driver de alguém está causando pool corruption causando um servidor crítico falhar!
-
-> Nós agora cortamos onde o detetive está no laboratório, usando luminárias,  procurando por evidências de DNA, refletindo sobre os fatos principais do caso, pesquisando crimes passados.
-
-Eu não sei sobre você, mas eu simplesmente me refiro a isso como o processo de depuração.
-
-> Finalmente um progresso: o DNA coletado na cena do crime identifica um suspeito que não deveria estar lá. Ao fazer uma pesquisa adicional, o suspeito tem um histórico desse tipo de atividade. O cara mau é capturado, os custos são arquivados e o caso está resolvido!
-
-Isso deve ser o mesmo que encontrar a causa principal, preencher um bug, e lançar uma correção.
-
-Para finalizar, uma frase do artigo original que resume tudo:
-
-> "Ultimately that's what we do.  We are all detectives looking for the digital DNA of bugs in the wild affecting our customers.  We hunt them down using tools, expertise, and experience."
-
-Dmitry Vostokov imaginou [siglas mais imaginativas] e fiéis a todos os que depuram problemas em software, independente deste rodar em servidores ou máquinas de café. Além, é claro, de uma ótima dica de livro sobre análise forense. O significado da sigla neste post foi uma de suas sugestões. Thanks, Dmitry!
-
-[siglas mais imaginativas]: https://www.dumpanalysis.org/blog/index.php/2008/05/22/on-csi-abbreviation/
-
----
-categories: []
-date: '2009-07-27'
+categories:
+- coding
+date: '2011-07-26'
 tags: null
-title: Cuidado com a cópia de arquivos na VMWare
+title: Cuidado com variáveis temporárias
+---
+
+Um dos problemas que a linguagem C++ possui para seus iniciantes é o de não deixar muito explícito partes do seu comportamento, principalmente as partes que lidam com ponteiros/referências e o jogo da vida dos objetos. Às  vezes a coisa fica de tal como complexa que fica até difícil explicar o porquê das coisas.
+
+Por exemplo, vejamos o singelo caso de alguém que precisa formatar uma saída de erro e para isso escolheu um stringstream:
+
+```
+#include <sstream>
+#include <exception>
+#include <iostream>
+
+using namespace std;
+
+void LogError(const char* msg)
+{
+    cerr << "** " << msg << endl;
+}
+
+void func()
+{
+    //doSomething();
+    throw exception("sbrubles exception");
+}
+
+int main()
+{
+    try
+    {
+        func();
+    }
+    catch(exception& e)
+    {
+        stringstream ss;
+        ss << "Error calling func: " << e.what() << endl;
+        const char* errorMessage = ss.str().c_str();
+        LogError(errorMessage);
+    }
+}
+```
+
+Quando chamamos func, ele lança uma exceção que é capturada no main que, por sua vez, formata uma stream e obtém sua string (através do método str) e através dessa string obtém o ponteiro da string em C puro (através do método c_str). Porém, a mensagem resultante na saída-padrão de erro não era o esperado:
+
+{{< image src="Gs3Khz7.png" caption="" >}}
+
+Depurando diretamente, vemos que a stream, de fato, contém o que esperávamos. O único elemento errante é justamente o ponteiro obtido através da chamada dupla de métodos.
+
+{{< image src="x3n9FXS.png" caption="" >}}
+
+O porquê isso ocorre só fica óbvio quando vemos [a ajuda](http://www.cplusplus.com/reference/iostream/stringstream/str/) (ou a assinatura) da função str da classe stringstream:
+
+> Get/set the associated string object The first version returns a copy of the string object currently associated with the string stream buffer.
+
+Ora, a função str retorna uma **cópia** do objeto string usado internamento pelo buffer de nossa string stream. Duas coisas ocorrem em qualquer cópia de um objeto retornada por uma função:
+
+  * A cópia do objeto original e seu desacoplamento (óbvio).
+  * A construção de um objeto baseado no original e que, após o fim da expressão onde foi chamado o método, **é destruído**.
+
+Uma vez que a chamada a str termina, é entregue uma instância de uma string que contém a string original que está sendo usada pela string stream para a expressão da chamada, que geralmente vem seguida de uma cópia:
+
+    //
+    // 1. str retorna uma cópia;
+    // 2. atribuição copia retorno para buf.
+    //
+    string buf = ss.str();
+
+A variável buf no exemplo acima será, portanto, a terceira string usada aqui até então. Ao final da expressão, a string intermediária retornada por str é automaticamente destruída, por se trata de uma cópia temporária para obedecer a sintaxe de retorno da função.
+
+Agora, o que acontece se, **na cópia temporária**, é feita uma operação para obter seu ponteiro interno usado para armazenar sua string estilo C?
+
+Obviamente ele fica inválido após o fim da expressão!
+
+Vamos ver em câmera lenta:
+
+{{< image src="vXQjDjK.png" caption="" >}}
+
+Nada como assembly fresquinho para refrescar os conceitos de C++ por baixo dos panos.
+
+### Update
+
+Após uma enxurrada de programadores gerenciáveis perguntarem qual seria, então, a solução ideal, segue o snipet mais explicitado:
+
+    // 1. Copie a string retornada para uma variável não-temporária
+    string buf = message.str();
+    
+    // 2. Use essa string dentro de seu escopo válido (até o final do catch, no exemplo do artigo).
+    const char* text = buf.c_str();
+
+### Update 2
+
+Outro leitor sugeriu fazer toda a chamada em uma única instrução, economizando em expressividade e ainda evitando a destruição da variável temporária criada ao chamar str.
+
+    // 1. Matar três coelhos com uma instrução só.
+    LogError(ss.str().c_str());
+
+Particularmente, gosto de instruções simples que me permitam ver claramente o que está acontecendo de forma simples pelo depurador (até porque sei que o compilador irá otimizar tudo no final em versão Release, ainda mais se estiver quebrado em instruções simples). Porém, toda solução que evita o uso da variável temporária após a execução do método str é válida.
+

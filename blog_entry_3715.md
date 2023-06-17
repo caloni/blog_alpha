@@ -1,22 +1,23 @@
 ---
 categories:
 - writting
-date: '2018-05-16'
-link: https://www.imdb.com/title/tt6126346
+date: '2012-04-02'
+link: https://www.imdb.com/title/tt0800369
 tags:
 - movies
-title: 'Thi Mai: Rumo ao Vietnam'
+title: Thor
 ---
 
-Este filme feministinha dirigido por Patricia Ferreira e escrito por Marta Sánchez (deu pra notar? ambas são mulheres!) irá trazer boas risadas. Sabe por quê? Porque este trio de mulheres (e um gay!) irão viver altas aventuras nesta terra inexplorada do Vietnã, onde comunistas vivem bem usando capitalismo para se curar de suas duas guerras. E de quebra um sistema de adoção de criancinhas que parece projeto (sem fins lucrativos) da família Pitt/Jolie. Foi muito machista da minha parte colocar o sobrenome do homem primeiro?
+Não há nada para se ver em Thor. É bobinho, está na direção automática e possui uma fotografia e uma trilha sonora que combinam com sua falta de personalidade. Ou seja, a Marvel pode levar a sério seus cronogramas e personagens, mas não o Cinema em si.
 
-A história começa triste. A filha de uma delas morre (ah...). Além disso, a mais gata é demitida por ser velha (puxa...). E, como se não bastasse, a terceira é dona de casa. Que vida horrível! Mas quando a mãe em luto recebe a notícia que sua filha conseguiu adotar uma vietnamita bonitinha ela vê uma ótima forma de conseguir ajuda para sua loja de ferragens (brincadeira; é pela bondade mesmo) e com suas duas amigas partem nessa viagem tresloucada.
+Inspirado no herói homônimo da revista em quadrinhos, que por sua vez foi inspirado na mitologia nórdica, o Thor do filme vem do espaço, de uma civilização mais avançada que os humanos e que preza pela paz entre os nove planetas por eles conhecidos com vida inteligente. Foram eles que expulsaram os Gigantes de Gelo da Terra quando eles nos atacaram (daí a mitologia). Thor é um dos dois filhos de Odin, rei da civilização e grande guerreiro que, mais do que ninguém, percebeu que a solução dos problemas não está na guerra.
 
-Adotar vietnamitas está na moda e há uma longa fila de espera. As autoridades realizam um processo burocrático que demora anos para ser aprovado. Porém, basta uma adoção ficar vaga para que segundos depois o próximo casal seja o próximo da fila e deixe a mãe em luto tento que lutar contra o tempo para conseguir a guarda de sua neta adotiva. Estranho, não? Nem tanto. Os acontecimentos em "Thi Mai" ocorrem por conveniência. Veja o orfanato, por exemplo, onde é terminantemente proibido estranhos passearem por lá. Em alguns momentos os portões estão fechados. Como quando a mãe em luto irá realizar a batidíssima cena da mulher de idade que vai pular o muro para se encontrar com sua neta. Porém, em outros momentos, os portões estão abertos e livres. Como no final do filme, quando... bem, se você já assistiu a algum filme desse gênero já sabe o final. Enfim.
+Seu filho mais velho (Chris Hemsworth, colírio de revistas adolescentes), Thor, é jovem demais para entender isso. Loki, o caçula, parece inofensivo, mas assume em seu semblante de quem pensa mais do que fala. Ao desobedecer Odin, Thor é jogado para a Terra sem seus poderes para aprender o valor de seus atos. Na verdade o filme faz um flashback logo no início, entortando desnecessariamente a história, já que logo depois do início na Terra somos apresentados diretamente ao herói da história.
 
-A graça do filme nunca está na história, que é previsível, chatinha e até sonolenta em alguns pontos. Não, não, não. A graça reside nas atrizes, que conseguem ser engraçadas à sua maneira, abraçando seus estereótipos. Uma delas exibe uma inocência autêntica ao comer um prato de carne de cachorro junto de camponeses plantadoras de arroz. Afinal, este é um filme sobre o Vietnã e está no contrato: deverá mostrar plantadoras de arroz com chapéus cônicos. Além disso, todas vivem esta história como se fosse uma grande história de amor e superação. 
+Herói este que possui uma curva de aprendizado tão rala quanto outros projetos mal-sucedidos, como o [Lanterna Verde]. Fora isso, o enredo secundário desaponta tanto na Terra quanto em Asgard. Nem Natalie Portman consegue convencer através de sua personagem bobinha cuja única função parece ser a de correr atrás do loiro alto que caiu do céu. Da mesma forma, suas contrapartes terrenas fazem rima com os amigos de Thor pois são tão desinteressantes e unidimensionais quanto estes. E Loki, ainda que comece a apresentar algum perigo na história, nunca é tão ameaçador a ponto de se fazer sentir presente na trama.
 
-E na verdade é. Porém, tanto diretora quanto roteirista parecem incapazes de enxergar o drama inerente mesmo quando ele está à frente de seus narizes. Note como a mãe em luto e seu marido vivem um período difícil no relacionamento, e a morte da filha torna tudo pior. Eles estão à beira da separação, o que seria muito natural de acontecer, e o surgimento de uma nova vida para eles cuidarem seria uma salvação vinda dos céus. Mas o marido não quer abandonar a ideia do luto a tempo. Tudo isso vai se abrindo nas conversas entre eles pelo telefone, mas nenhum detalhe desses é colocado em relevo no filme, que prefere focar em amantes homossexuais brigando, um romancezinho improvável entre um guia vietnamita e uma executiva de sucesso (porém demitida) e uma dona de casa que de repente se livra das amarras do desagradável marido.
+As tomadas abertas, por fim, acabam comprovando que os efeitos visuais do filme são elementos mais importantes do que a própria história dessas pessoas. O objetivo da história é sairmos ilesos e termos apresentados mais um personagem do futuro filme [Os Vingadores], que tem gerado mais e mais filmes medíocres sem qualquer personalidade ou argumentação.
 
-No fundo, quem se importa? Talvez elas saibam que esse conteúdo é batido demais para trabalhar os elementos periféricos que tornam Thi Mai um filme bonitinho, quase acima da média. Mas são tantos os estereótipos que se torna tarefa ingrata. E pior que estereótipos que é possível dar risada são os estereótipos que se levam a sério. Como o viés feminista. Esse dá vontade de dar risada, mas não é pelo filme, mas pelos seus idealizadores.
+[Lanterna Verde]: {{< relref "lanterna-verde" >}}
+[Os Vingadores]: {{< relref "os-vingadores" >}}
 

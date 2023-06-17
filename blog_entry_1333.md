@@ -1,20 +1,82 @@
 ---
-categories:
-- writting
-date: '2012-08-06'
-link: https://www.imdb.com/title/tt0057012
-tags:
-- movies
-title: Dr. Fantástico
+
+O sistema de drag and drop do C++ Builder é muito fácil de usar, integrado que está com o sistema de classes e objetos do framework. Tanto para o objeto de drag quanto para o objeto de drop tudo que temos que fazer é definirmos a propriedade DragMode para dmAutomatic como mostra a figura. Isso fará com que toda a troca de mensagens seja manipulada automaticamente pela VCL.
+
+{{< image src="trocatroca.gif" caption="Troca-troca" >}}
+
+A parte (ridídula) do código fica por conta da manipulação do evento de drop. Para aceitar um objeto, devemos tratar o evento OnDragOver. Basta isso para que a variável Accept tenha seu valor default definido para true. Podemos, entretanto, escolher se iremos ou não tratar um possível drop de um objeto. Verificando seu tipo, por exemplo:
+
+    void __fastcall TMain::FormDragOver(TObject *Sender, TObject *Source,
+          int X, int Y, TDragState State, bool &Accept)
+    {
+    	Accept = true;
+    }
+    
+    void __fastcall TMain::ListBoxDragOver(TObject *Sender, TObject *Source,
+          int X, int Y, TDragState State, bool &Accept)
+    {
+    	Accept = dynamic_cast<TWinControl*>( Source ) ? true : false;
+    } 
+
+A parte mais interessante do código fica por conta da hora que o objeto é "jogado", no evento OnDragDrop. Nela recebemos o ponteiro para o Sender (como sempre), que é o target object, e um Source. Geralmente para manipular o source object é necessário antes realizar um cast para um tipo mais conhecido.
+
+    void __fastcall TMain::ListBoxDragDrop(TObject *Sender, TObject *Source, 
+    	int X, int Y)
+    {
+    	if( TListBox* listBox = dynamic_cast<TListBox*>(Sender) )
+    	{
+    		TWinControl* winCtrl = static_cast<TWinControl*>(Source);
+    
+    		if( listBox != winCtrl )
+    		{
+    			listBox->Items->Add(winCtrl->Name);
+    			winCtrl->Visible = false;
+    		}
+    	}
+    }
+
+    void __fastcall TMain::FormDragDrop(TObject *Sender, TObject *Source,
+    	int X, int Y)
+    {
+    	if( TForm* form = dynamic_cast<TForm*>(Sender) )
+    	{
+    		TControl* ctrl = 0;
+    
+    		if( TListBox* listBox = dynamic_cast<TListBox*>( Source ) )
+    		{
+    			for( int i = 0; i < listBox->Count; ++i )
+    			{
+    				if( listBox->Selected[i] )
+    				{
+    					ctrl = this->FindChildControl(listBox->Items->Strings[i]);
+    					listBox->Items->Delete(i);
+    					break;
+    				}
+    			}
+    		}
+    		else
+    			ctrl = dynamic_cast<TControl*>(Source);
+    
+    		if( ctrl )
+    		{
+    			ctrl->Top = Y;
+    			ctrl->Left = X;
+    			ctrl->Visible = true;
+    		}
+    	}
+    } 
+
+E mais uma vez voilà! Pouquíssimas linhas de código e um movimentador e empilhador de controles. Dois detalhes merecem ser destacados:
+
+ - O uso de dynamic_cast em cima dos ponteiros da VCL é uma maneira saudável de checar a integridade dos tipos recebidos - particularmente do Sender. O uso do primeiro parâmetro dos tratadores de eventos também torna o código menos preso à componentes específicos do formulário;
+ - O método FindChildControl é deveras útil quando não temos certeza da existência de um controle. Geralmente é uma boa idéia confiar no sistema de gerenciamento de componentes da VCL. Não é à toa que existe um framework por baixo do ambiente RAD.
+
 ---
-
-O absurdo das hierarquias e do sistema de proteção para decisões vitais para a paz mundial, junto como os militares são colocados no filme, irresponsáveis que parecem estar na corporação simplesmente pelo acaso da vida, parece ser a matéria-prima dessa excelente comédia de Stanley Kubrick (Laranja Mecânica, [2001]). No entanto, não é por isso que o filme deixa de ser realista, e as cenas de combate, tanto no ar quanto na terra, são tão tensas quanto as conversas na cúpula do Pentágono.
-
-Kubrick não nos poupa nenhuma faceta para demonstrar o absurdo que é uma guerra, ainda mais mundial. E junto com ele está a figura eterna de Peter Sellers, que aqui incorpora três personagens simultâneos, dois bizarros e um presidente que, por mais comedido que seja, não possui as rédeas de nada.
-
-A construção do drama de cada lado é feita paulatinamente e com uma dosagem surpreendente entre elas, e a forma como o roteiro une as pontas é indissociável pela lógica e pela emoção.
-
-Mais para frente, na cinegrafia do autor, poderemos ver a guerra novamente enfocada com seus absurdos em Nascido Para Matar. Porém, como comédia, Dr. Strangelove é uma sátira muito mais dramática e eterna que qualquer outra crítica séria poderia causar.
-
-[2001]: {{< relref "2001-uma-odisseia-no-espaco" >}}
-
+categories:
+- playing
+date: '2023-02-18T21:07:17-03:00'
+link: https://www.chess.com/game/live/70502605623
+tags:
+- english
+- chess
+title: Decided to draw a won game

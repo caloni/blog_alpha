@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2014-09-07'
-link: https://www.imdb.com/title/tt0286112
+date: '2015-10-29'
+link: https://www.imdb.com/title/tt3472226
 tags:
 - movies
-title: Kung-Fu Futebol Clube
+title: Kung Fury
 ---
 
-Shaolin Soccer é uma "versão beta" do hilário Kung-Fusão, mas é muito mais coerente em sua proposta de usar o Kung-Fu como uma forma de todas as pessoas melhorarem o que quer que façam no dia-a-dia através dessa arte milenar chinesa. Coerente, mas não menos confusa: apresentando personagens de maneira mais ou menos aleatória, e com o desafio de montar um time de futebol com personagens obviamente simplistas (o gordo, o fumante, o magro, etc), os únicos que possuem um pouco mais de polimento no roteiro são as versões original e nova da lenda conhecida como "Pé de Ouro": pernas dotadas de uma força descomunal que chutam bolas (e qualquer outra coisa) com força desproporcionalmente absurda. (Ah, sim, claro, e o interesse amoroso do herói.)
+Este curta (média?) metragem mistura anos 80, raptors, cop-raptor, arcades, Hitler, hackerismo, gostosas medievais, lasers, Thor, Kung-Fu, viagem no tempo, uma profecia e esse é apenas o começo de uma salada que apela para o absurdo usando efeitos digitais grotescos que se tornam caricatos e conseguem manter pelo menos meia-hora de um sentimento de confusão, identificação e êxtase juvenil. Afinal de contas, em que universo paralelo você pensou que veria um dinossauro lutar contra uma água dourada nazista?
 
-O forte do filme com certeza não é sua história, que oscila entre o humor, o drama e o tocante, sendo que o "tocante" sempre é exagerado através não apenas do recurso batido da trilha sonora, mas de situações absurdamente cruéis e/ou desproporcionais. Sua força, ironicamente, provém da mesma característica: tentando apresentar formas diferentes de jogar futebol com habilidades de lutadores de artes marciais o filme acaba quase incidentalmente criando uma nova forma de contar uma história sobre um esporte.
+Dirigido, escrito, atuado e produzido por David Sandberg, Kung Fury não se priva de inventar as mais ousadas sequências porque, afinal de contas, nada faria sentido do mesmo jeito. Provocativo, deixa nas entrelinhas os absurdos que somos obrigados a engolir nos filmes de ação que levam toda essa farofa a sério. Pelo menos este filme sabe que nada é sério, e brinca constantemente com as facilidades com que o herói sai de qualquer situação impossível de resolver.
 
-Mas é na sua mensagem central que Shaolin Soccer consegue chamar a atenção: apelando para símbolos e alegorias que lidam basicamente com o desapego do ego e a concentração dos lutadores, fica claro que para vencer não basta ter os poderes de um super-lutador, mas de aceitar que antes de tudo aquelas pessoas não são ninguém sem a dedicação incondicional à arte que dominaram.
-
-O resto basicamente são lutas coreografadas e animadas com efeitos visuais interessantes na época, mas hoje já soam datados. Mesmo assim, uma diversão à parte.
+Este filme não foi feito por acaso: ele é exatamente o que você vê. Não houve falha na produção. Kung Fury tem o potencial de liberar a imaginação de futuros idealizadores, ou no mínimo servir de referência para uma época onde é possível colocar nazistas no lado oculto da lua, no centro da Terra e viajando no tempo. Nunca é tarde para reinventar e misturar épocas, gostos e referências. Com nosso poder computacional, nada mais fará sentido. Kung Fury é apenas o começo.
 

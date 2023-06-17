@@ -1,24 +1,25 @@
 ---
 categories:
-- reading
 - writting
-date: '2016-11-03'
+date: '2017-03-28'
+link: https://www.imdb.com/title/tt3790172
 tags:
-- books
-title: O Mundo de Sofia
+- cinemaqui
+- movies
+title: O Mundo Fora do Lugar
 ---
 
-Este foi o livro meio unanimidade dos fóruns de filosofia quando questionado qual o melhor começo para a área, que dê uma visão global, histórica e funcional do que é, afinal de contas, filosofia. Bem, e também o começo mais divertido, o que para uma área como essa deve se resumir aos quadrinhos do Existencial Comics e o livro de Jostein Gaarder.
+O Mundo Fora do Lugar é uma sutil defesa dos psicologicamente abusados (coincidentemente mulheres em um relacionamento). Ele usa um drama familiar do passado com revelações de novela, mas faz isso com muito charme e boa música. E é um filme alemão, o que nesse caso quer dizer que as emoções estarão contidas, embora elas existam.
 
-Esta é uma ficção infanto-juvenil, que poderia muito bem constar no currículo de qualquer escola que leve a sério ensinar seus alunos a pensar. Ele contém uma história em que ela própria já instiga a investigação racional do próprio ato de escrever e ler um livro, mas ao mesmo tempo faz um resumão dos pensadores mais famosos de cada era, além das correntes de pensamento vigentes.
+O pilar da história é Sophie uma mulher que não consegue manter um relacionamento por mais de dois anos (Katja Riemann). Ela ironicamente realiza cerimônias não-oficiais de casamento, e observa com um certo tom de sarcasmo o que torna um casal junto por quase uma década. Sua paixão é cantar, como sua mãe, mas ela é demitida por estar no lugar errado. Ela não se encaixa no mundo em sua volta, e tudo o que resta a ela é se cobrir em sua cama e lamentar.
 
-Começando pelos gregos, esta é a parte mais útil, pois consegue abstrair de forma fascinante o que os primeiros filósofos pensavam, corrigindo em muito a visão escolar que dá a entender que os gregos eram um povo ainda primitivo e místico, acreditando nos elementos básicos como terra, fogo e ar. Oras, nada mais distante da verdade. É até possível dizer que eles levavam a questão muito mais a sério que os pensadores contemporâneos, pois com muito pouco constituíram uma cadeia de pensamentos e conclusões que nunca foram ultrapassadas pela linha de pensamento racionalista. E, é preciso lembrar, tudo com a força da mente e poucos instrumentos científicos. Nesse sentido, o livro merece créditos por explicar de uma maneira muito mais realista o que escolas encaram como contos de fadas ou mitologia de povos ignorantes.
+Até que seu pai (Matthias Habich) a chama. Ele achou na internet uma cantora de ópera que é idêntica à sua esposa (Barbara Sukowa), falecida há um ano. Ela é famosa e vai se apresentar no Metropolitan, em Nova York. E ele praticamente exige que ela faça um voo intercontinental e vá se encontrar com ela, em uma situação obviamente embaraçosa.
 
-Aliás, o livro também consegue separar e explicar bem tanto o hiato racional entre a Antiguidade e a Idade Média, além de estabelecer as bases do conflito milenar entre empiristas e os racionalistas. Tudo isso não apenas é aproveitável no livro como fornece as bases necessárias para que o próprio leitor comece a explorar a realidade de maneira pensante, e não um mero repetidor do que a ciência diz ser a verdade.
+Mas mais embaraçoso fica por conta do temperamento fechado e mau-humorado de Caterina Fabiani. Ela atrai fama com seu canto lírico e afasta todos seus potenciais amigos, mantendo na linha seu ex-marido e apenas um tratamento correto, embora distante, com seu filho. O que ela menos quer é uma "fã" que acha que sua mãe se parece muito com ela.
 
-Já a historinha entre Sofia, a protagonista, e seu professor de filosofia, Alberto, é um passatempo relativamente divertido, que no melhor formato dos contos juvenis, expõe um mistério a ser resolvido. E enquanto o mistério existe, o livro é ótimo. No decorrer de sua resolução, a ficção se despedaça como um castelo no ar. Gaarder arrisca uma metafísica e epistemologias ligeiramente infantis pelo bem da compreensão da epistemologia adulta, pois os adultos apenas conseguem filosofar depois que assumem uma visão de criança acerca dos mistérios do mundo (como bem explica o ótimo capítulo sobre o coelho dentro de uma cartola).
+O tom do filme escrito e dirigido por Margarethe von Trotta não é de comédia, mas de um drama que usa a sobriedade e pomposidade de seus cenários aliado a tons escuros ou neutros para evocar um distanciamento entre os personagens, mesmo os da mesma família. A exceção são as casas do agente de Caterina, que vira o novo namorado de Sophie, e um personagem-surpresa, que não vale a pena explicar, já que estragaria todo o desenvolvimento de uma investigação que revela mais sobre a família de Sophie do que do paradeiro desse personagem.
 
-E embora as descrições de Gaarder sejam instigantes no começo, além de particularmente precisas, o desenvolvimento pós-Idade Média demonstra um absoluto desapego com o pensamento crítico ou uma simplificação que torna o conteúdo tão enfadonho quanto uma aula de história que não explica os mecanismo por trás das mudanças. Quando o misticismo impera entre os filósofos, e a maioria das conclusões vistas no livro contrariam a própria proposta do personagem Alberto, que diz constantemente para que sua pupila não pule direto para conclusões, o livro desaba novamente.
+Digamos apenas que a sutileza de von Trotta não favorece muito a narrativa. Detalhes como a forma como os homens bebem vinho pode ser extremamente revelador de suas personalidades, e até o uso da música Norma poderia ser vital para entendermos melhor o que está acontecendo em dado momento.
 
-Gaarder quando escreveu o livro era um professor de filosofia relativamente jovem, e seu interesse no livro consegue ser descoberto apenas pelo plot. Aliás, talvez todos que gostam de fazer perguntas que não podem ser respondidas devem adorar a primeira metade do livro, independente da ficção e até se você não concordar com a visão dos antigos. E isso independente da idade. Afinal de contas, todos nós podemos ainda nos admirar com o coelho gigante saindo da cartola. Eternamente.
+No entanto, apesar de drama pesado, este é um filme que sempre vai pelo caminho mais delicado. Seus personagens, embora bem interpretados, são contidos, e apenas a petulância da figura de Matthias Habich, o pai de Sophie, é capaz de chacoalhar um pouco as coisas.
 

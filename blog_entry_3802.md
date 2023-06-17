@@ -1,20 +1,16 @@
 ---
 categories:
 - writting
-date: '2010-12-04'
-link: https://www.imdb.com/title/tt0084827
+date: '2010-10-08'
+link: https://www.imdb.com/title/tt1555149
 tags:
 - movies
-title: 'Tron: Uma Odisséia Eletrônica'
+title: 'Tropa de Elite 2: O Inimigo Agora é Outro'
 ---
 
-Mesmo assistindo hoje, 28 anos depois, Tron ainda parece um filme dedicado principalmente a vender vídeo-games.
+Os trailers da continuação da história do morro do ponto de vista do Cap. Nascimento deixam bem visível, inclusive no seu subtítulo, que iremos acompanhar uma nova guinada na explicação do sistema, algo um pouco mais acima da hierarquia: vai entrar no mundo da política. Isso pode dar a impressão que a história ficaria mais monótona e com pouca ação. Talvez dê até a impressão que não será possível fazer os belos quadros que vimos no primeiro, que junta todos os pontos da narrativa de maneira tão eficaz. Ledo engano: essa continuação fica ainda mais densa e com uma história ainda mais perversa e criativa, nos dando a oportunidade de ir mais além na história do morro, imaginando como seria se o BOPE realmente detonasse os traficantes.
 
-Com sua narrativa inserida dentro de um ambiente de computação gráfica que reproduz na imaginação o que aconteceria dentro de um computador, e uma premissa bobinha de um protagonista injustiçado que tenta conseguir a prova que seu jogo foi copiado por um magnata dos game, a história possui bons momentos de ação, e chega a impressionar que esses bons momentos são feitos dentro de um ambiente hoje com sofríveis efeitos especiais.
+Os cortes entre a teoria (o professor de história e defensor dos direitos humanos explicando sobre os presídios) e a prática (os prisioneiros invadindo uma facção e matando) também facilita vermos de ambos os lados, ambos pontos de vista. E quando isso se junta com o Gaspar chegando no presídio para negociar com os detentos a coisa toma uma nova dimensão. O diretor economiza nos cortes de maneira eficiente, e quando o Cap. Nascimento vai dar uma bronca no Matias por este ter falado mal do governador e ter sido preso por 30 dias, a câmera está voltada para nós, e é quase diretamente para nós que ele fala. Logo depois, a câmera vira, pois o Matias é que retruca, e vemos a cara do capitão no espelho do banheiro, tudo em uma tomada.
 
-De qualquer forma, o uso de preto e branco para a face dos participantes daquela simulação computacional, que de vez em quando é ofuscado como uma imagem de televisão que falha, é acertada, pois dá a exata impressão da instabilidade daquele mundo, onde blocos se formam e se "desformam" com uma velocidade impressionante.
-
-Por outro lado, o próprio design de arte do ambiente "real" onde a primeira metade da história passa também remete para a construção de blocos e figuras geométricas. Não é à toa que o protagonista acessa o Master Control de cima de uma construção de tubos brancos que lembram alguma arte abstrata, ou que os corredores do império do mal são diagonais com tons de cinza. Até a cidade, no final do filme, se assemelha aos mesmos circuitos de computadores, em uma passagem rápida de tempo com os carros circulando.
-
-Se houver alguma tentativa de traçar um paralelo entre os programas que são mostrados dentro do sistema e os seres humanos que lá estão fora, isso ficou bem óbvio.
+Por fim, mais um ato final de coragem, terminando a narrativa levantando mais uma vez o comando, com a aérea de Brasília, deixando o planalto e a bandeira do Brasil para trás.
 

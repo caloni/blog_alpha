@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-03-25'
+date: '2019-04-13'
 tags:
 - beer
-title: Kirin Ichiban Puro Malte
+title: Kloser
 ---
 
-Uma cerveja pilsen maltada que rivaliza com a Proibida.
+A degustação revelou cerveja com gosto de sorvete da infância.
 

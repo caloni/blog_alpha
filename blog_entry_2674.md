@@ -1,18 +1,37 @@
 ---
 categories:
 - writting
-date: '2015-01-18'
-link: https://www.imdb.com/title/tt2278388
+date: '2012-12-17'
+link: https://www.imdb.com/title/tt0903624
 tags:
 - movies
-title: O Grande Hotel Budapeste
+title: 'O Hobbit: Uma Jornada Inesperada'
 ---
 
-Wes Anderson sendo, como sempre, Wes Anderson, pode prejudicar um pouco seus trabalhos com seu enquadramento engessado e seus cenários surrealmente coloridos. Porém, quando o material se encaixa em seu estilo, temos um resultado espetacular. Como é o caso desse O Grande Hotel Budapeste, cuja história remete a um país meio Leste Europeu, meio Oriente, e que contém elementos fantasiosos que remetem justamente ao mundo que o diretor possui em sua mente.
+Baseado no romance de 310 páginas escrito por J. R. R. Tolkien, conhecido aqui no Brasil como O Hobbit - Lá e de Volta Outra Vez, e dirigido por Peter Jackson (trilogia Senhor dos Anéis), a história do pequeno hobbit em sua jornada na companhia de 13 anões e um mago foi dividida em três filmes. Esse texto diz respeito ao primeiro deles, "Uma Jornada Inesperada".
 
-A história contém quatro camadas muito bem definidas, sendo que as duas primeiras apenas encobrem o pano de fundo de um livro. Seu autor (Tom Wilkinson) narra a conversa entre o atual dono do hotel e um jovem escritor (Jude Law) explicando como ele conseguiu sua posição. A partir daí vamos para a quarta camada onde se encontra a história de fato, uma história de amizade e lealdade entre M. Gustave (Ralph Fiennes), o dono do hotel na década de 30, e Zero (Tony Revolori), o recém-contratado Lobby Boy. Essa camada é dividida em partes, de forma que toda a estrutura está disposta em compartimentos que Wes Anderson apresenta com uma riqueza infinita de detalhes e cores. Cores tanto no sentido físico quanto metafórico, como as sutis expressões dos participantes desse longo conto.
+A introdução que conta a história da montanha habitada por anões e que é subitamente atacada por um gigantesco dragão (Smaug) é sucinta e não desperta o mesmo fervor da fábula épica iniciada em Senhor dos Anéis - A Sociedade do Anel. Da mesma forma a solução apresentada pelo roteiro escrito a oito mãos (!) para que o jovem Bilbo Bolseiro (Martin Freeman, [Sherlock]) participe da empreitada junto com os anões que decidiram reconquistar sua terra soa desproporcional à sua vontade de viver uma aventura. Isso por si só enfraquece toda a premissa. (E depois que este quinto hobbit aceita sair do conforto do seu condado para viver agruras na inóspita Terra Média, começo a duvidar do caráter caseiro dessas curiosas criaturas.)
 
-Narrando as desventuras da dupla, é impressionante como cada novo evento consegue se encaixar com o próximo com o uso da trilha sonora, de objetos de cena (cartas, cartões, etc) e com a própria estrutura de camadas já citada. Dessa vez, até o uso de atores famosos é relevante, pois em uma sala lotada de pessoas interessadas na leitura de uma herança, olhar para rostos conhecidos já nos dá dicas de quais serão os personagens que irão participar por mais tempo dos acontecimentos entre M. Gustave e Zero.
+Mesmo assim, "O hobbit" ganha forma através não de Bilbo, mas do mago Gandalf (Ian McKellen), que aqui mexe muito mais com o destino de seus companheiro do que na jornada anterior, chegando a sugerir ações futuras para dois deles. Sempre simpático e hábil em lidar com as criaturas do universo criado por Tolkien, é o único personagem que consegue surpreender sem exagerar.
 
-Dessa vez, como havia acontecido na animação O Fantástico Sr. Raposo, há cenas de ação e suspense que, por mais absurdas, cumprem seu papel de se tornar uma espécie de "thriller a la Wes Anderson". Como havia dito, o fato do estilo do filme ter que se curvar ao seu criador não o diminui quando bem feito, mas em alguns momentos soa engessado. Esse é um feliz exemplo disto.
+E se a música-tema cantada pelos anões na noite em que se reúnem pela primeira vez é encantadora, já não é tanto a atitude de Jackson em empregar os mesmos acordes de Howard Shore incessantemente durante toda a narrativa, o que pode perigosamente a enfraquecer nos momentos primordiais de ação.
+
+E já que falamos de ação, não são as cenas movimentadas que impressionam o espectador atento com aquele universo, mas dois diálogos especialmente inspiradores e que, realizados praticamente sem qualquer vínculo com os anões ou o próprio destino de Bilbo, curiosamente seus participantes são as figuras mais interessantes da trilogia anterior, o que é um alívio.
+
+Com uma conclusão satisfatória, mesmo que saibamos se tratar de apenas um terço do livro, "Uma Jornada Inesperada" estabelece a jornada da mesma forma com que foi feito em "A Sociedade do Anel", mas sem o tom épico, sem a força da jornada espiritual e, principalmente, sem um fio condutor que nos diga o que é importante nesse universo tão rico e fascinante.
+
+## Sobre os 48 FPS (frames por segundo)
+
+Uma nova tecnologia nasce no Cinema. Pode ser revolucionário ou temporário. Vai depender, como sempre, dos espectadores.
+
+Como cinéfilo, preciso apontar minha satisfação em detectar algumas vantagens na nova forma de projeção, principalmente aliado ao 3D: geralmente mais escuro por motivos óbvios, apenas metade da luz passa por um óculos 3D, a outra metade serve para dar o efeito de profundidade, a exibição de um quadro a mais por segundo consegue dar mais nitidez às cenas noturnas ou com pouca luz. Se antes o que víamos era um borrão escuro, agora pelo menos temos a chance de observar pequenas nuances e texturas.
+
+Da mesma forma, a mesma nitidez em vermos o dobro de quadros por segundo permite que Peter Jackson em O hobbit possa mover sua câmera com mais velocidade e mesmo assim não perdermos o foco ou o senso de profundidade. Acostumados a perder um pouco do movimento do cenário quando a câmera se move, em 48 fps parece que a ação nunca se perde, e os contornos dos objetos continuam, independente de quanta ação está sendo mostrada na tela.
+
+Agora, os defeitos (sim, eles existem): quando usado em cenas com a luz do dia, os atores parecem exatamente o que são: atores. Ou seja, não há aquela suspensão de realidade criada pelo filtro fotográfico aplicado na pós-produção nem pela perda de silhueta quando os personagens se movem. O que vemos é a performance muito próxima a de um teatro. Isso pode quebrar em um primeiro momento para os cinéfilos mais atentos o que chamamos de imersão cinematográfica. O risco é se tornar popular para o espectador acostumado a televisores que já utilizam o efeito de inserir mais quadros por segundo do que a projeção original, "estragando" a visão de diretores como James Cameron em [Avatar], fazendo o filme se parecer com um telejornal.
+
+Se esse espectador médio, não-exigente por padrão, começar a apreciar esse novo formato na sétima arte, poderemos ter mais um dilema indústria x arte no Cinema.
+
+[Avatar]: {{< relref "avatar" >}}
+[Sherlock]: {{< relref "sherlock-a-study-in-pink" >}}
 

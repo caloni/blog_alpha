@@ -1,67 +1,130 @@
 ---
+
+O programa está rodando no servidor do cliente, que é acessível por sessão remota do Windows, mas de repente ele capota. Existem aí duas possibilidades fora o debug remoto (que, nesse caso, não é possível):
+
+  1. Analisar um dump gerado.
+  2. Depurar localmente o problema.
+
+{{< image src="imt8kmB.png" caption="" >}}
+
+### Analisar um dump gerado
+
+Para a primeira opção, basta abrir o Gerenciador de Tarefas, localizar o processo e gerar o dump através do menu de contexto.
+
+{{< image src="RWPemAU.png" caption="" >}}
+
+Com o dump e o Windbg em mãos, basta analisá-lo. Porém, se o seu processo é 32 bits e o servidor é 64 bits (geralmente é), o dump gerado será de 64 bits, EMBORA seja de um process 32. Ou seja, ao abri-lo, o sistema vai mostrar as threads de manipulação do SO para sistemas 32 (todos com o nosso amigo wow64cpu).
+
+    Microsoft (R) Windows Debugger Version 6.12.0002.633 AMD64
+    Copyright (c) Microsoft Corporation. All rights reserved.
+
+    Loading Dump File [C:\Tests\CrashOnServer.DMP]
+    User Mini Dump File with Full Memory: Only application data is available
+
+    Executable search path is:
+    Windows 7 Version 7600 MP (2 procs) Free x64
+    Product: WinNt, suite: SingleUserTS
+    Machine Name:
+    Debug session time: Tue Jul 26 09:26:23.000 2011 (UTC - 3:00)
+    System Uptime: 0 days 0:35:47.425
+    Process Uptime: 0 days 0:00:42.000
+    ...........WARNING: MSVCR100D overlaps MSVCP100D
+
+    
+    *** ERROR: Symbol file could not be found. Defaulted to export symbols for ntdll.dll -
+    *** ERROR: Symbol file could not be found. Defaulted to export symbols for wow64cpu.dll -
+    wow64cpu!TurboDispatchJumpAddressEnd+0x690:
+    00000000`745d2dd9 c3 ret
+    0:000> kv
+    Child-SP RetAddr : Args to Child : Call Site
+    00000000`001ce6c8 00000000`745d282c :  : wow64cpu!TurboDispatchJumpAddressEnd+0x690
+    *** ERROR: Symbol file could not be found. Defaulted to export symbols for wow64.dll -
+    00000000`001ce6d0 00000000`7464d07e :  : wow64cpu!TurboDispatchJumpAddressEnd+0xe3
+    00000000`001ce790 00000000`7464c549 :  : wow64!Wow64SystemServiceEx+0x1ce
+    00000000`001ce7e0 00000000`76deae27 :  : wow64!Wow64LdrpInitialize+0x429
+    00000000`001ced30 00000000`76de72f8 :  : ntdll!LdrGetKnownDllSectionHandle+0x1a7
+    00000000`001cf230 00000000`76dd2ace :  : ntdll!RtlInitCodePageTable+0xe8
+    00000000`001cf2a0 00000000`00000000 : : ntdll!LdrInitializeThunk+0xe
+
+    Para entrar dentro do Inception, é necessário usar a extensão wow64exts e usar o comando ".effmach x86".
+
+    0:000> .load wow64exts
+    0:000> .effmach x86
+    Effective machine: x86 compatible (x86)
+    0:000:x86> kv
+    ChildEBP RetAddr Args to Child
+    ..
+    0035ec98 0035ecac 0035ecfc 0035ecac 0035ecfc ntdll_76f80000!KiUserExceptionDispatcher+0xf (FPO: [2,0,0])
+    *** WARNING: Unable to verify checksum for CrashOnServer.exe
+    WARNING: Frame IP not in any known module. Following frames may be wrong.
+    0035f0bc 01181ca9 0035f198 0035f19c 00000000 0x35ecac
+    0035f190 01181b7d 009d80a0 5fb4d717 00000000 CrashOnServer!Log::LogError+0x29
+    0035fb08 01186f1f 00000001 009d1410 009d1c68 CrashOnServer!main+0x12d
+    0035fb58 01186d4f 0035fb6c 76543677 7efde000 CrashOnServer!__tmainCRTStartup+0x1bf
+    0035fb60 76543677 7efde000 0035fbac 76fb9f02 CrashOnServer!mainCRTStartup+0xf
+    0035fb6c 76fb9f02 7efde000 771dc110 00000000 kernel32!BaseThreadInitThunk+0xe
+    0035fbac 76fb9ed5 01181316 7efde000 00000000 ntdll_76f80000!__RtlUserThreadStart+0x70
+    0035fbc4 00000000 01181316 7efde000 00000000 ntdll_76f80000!_RtlUserThreadStart+0x1b
+
+Após esse último passo, siga para o último passo desse tutorial. Ou escolha a segunda opção:
+
+### Depurar localmente o problema
+
+Para depurar localmente, supondo que seja um executável simples, você precisa dos seguintes itens:
+
+  * Pasta do WinDbg copiado (a Debugging Tools instalada pelo SDK, ou sua pastinha particular guardada no PenDrive).
+  * Símbolos dos binários envolvidos (em sincronia com os binários que iremos analisar).
+  * Fontes da compilação dos binários (a versão exata seria ideal; grave o revno do controle de fonte pra facilitar).
+
+Os fontes, no caso de uma conexão por Terminal Server, podem ser disponibilizados através do mapeamento de drives entre as máquinas. Os símbolos, no entanto, por serem usados extensivamente pelo WinDbg, é recomendável que estejam locais na máquina depurada, pois do contrário você terá que tomar uma quantidade excessiva de cafés para executar meia-dúzia de instruções.
+
+Supondo que temos tudo isso, só precisamos executar alguns passos básicos para o setup:
+
+#### 1. Abrir o WinDbg e escolher File, Open Executable. Escolha o executável e pare por aí.
+
+{{< image src="A2p4Q9y.png" caption="" >}}
+
+#### 2. Na tela de comando do WinDbg (View, Command, ou Alt + 1) execute os comandos abaixo:
+
+    .symfix 
+    .sympath+ 
+    .reload
+    .srcpath 
+    .reload /f CrashOnServer.exe
+
+#### 3. Ao executar lm, o módulo cujo símbolo foi carregado deve conter o nome do pdb logo à frente.
+
+    0:000> .symfix c:\tools\symbols
+    0:000> .sympath+ C:\Projetos\Caloni\Posts\Debug
+    Symbol search path is: srv*;C:\Projetos\Caloni\Posts\Debug
+    Expanded Symbol search path is: SRV*c:\tools\symbols*http://msdl.microsoft.com/download/symbols;c:\projetos\caloni\posts\debug
+    0:000> .reload
+    Reloading current modules
+    ......
+    0:000> .srcpath C:\Projetos\Caloni\Posts
+    Source search path is: C:\Projetos\Caloni\Posts
+    0:000> .reload /f CrashOnServer.exe
+    *** WARNING: Unable to verify checksum for CrashOnServer.exe
+    0:000> lm
+    start end module name
+    00000000`01170000 00000000`01193000 CrashOnServer C (private pdb symbols) C:\Projetos\Caloni\Posts\Debug\CrashOnServer.pdb
+    00000000`745d0000 00000000`745d8000 wow64cpu (deferred)
+    00000000`745e0000 00000000`7463c000 wow64win (deferred)
+    00000000`74640000 00000000`7467f000 wow64 (deferred)
+    00000000`76da0000 00000000`76f4c000 ntdll (pdb symbols) c:\tools\symbols\ntdll.pdb\\ntdll.pdb
+    00000000`76f80000 00000000`77100000 ntdll32 (deferred)
+
+#### 4. Feito isso, está tudo OK. Podemos colocar breakpoints, monitorar variáveis, verificar stacks, etc.
+
+Por último, execute o seguinte comando na tela de comandos do WinDbg:
+
+    .hh
+
+E boa sorte =)
+
+---
 categories:
 - coding
-date: '2008-03-24'
-title: Depuração da MBR
----
-
-Dando continuidade a um artigo bem antigo sobre [depuração da BIOS usando SoftIce], como já vimos, podemos igualmente depurar a MBR após a chamada da INT13. Porém, devo atentar para o fato que, em algumas VMs, e sob determinadas condições do tempo e quantidade de ectoplasma na atmosfera, é possível que a máquina trave após o hot boot iniciado pelo depurador. Isso provavelmente tem cura usando o espaço de endereçamento alto da memória com a ajuda de aplicativos como LH e UMB.
-
-Porém, estou aqui para contar uma nova forma de depurar essa partezinha do código que pode se tornar um tormento se você só se basear em tracing na tela (ou na COM1): usando o aplicativo debug do DOS.
-
-O debug é um programa extremamente antigo, criado antes mesmo do MS-DOS pertencer à Microsoft e do Windows Vista ter sido criado. Como todo sistema operacional, é essencial que exista um programa para verificar problemas em outros programas. Essa foi a "motivação" para a criação do Debug.
-
-Com o passar do tempo e com a evolução dos depuradores modernos, o uso do debug foi diminuindo até a chegada dos 32 bits, quando daí ele parou de vez de ser usado. Com um conjunto limitado de instruções, a versão MS é incapaz de decodificar o assembly de 32 bits, mostrar os registradores estendidos e de depurar em modo protegido.
-
-O FreeDOS é um projeto de fonte aberto que procura criar uma réplica do sistema MS-DOS, com todos seus aplicativos (e um pouco mais). Entre eles, podemos encontrar o debug refeito e melhorado. A versão com código-fonte possui suporte às instruções "novas" dos processadores 32 e suporta acesso à memória estendida, modo protegido e melhorias na "interface com o usuário" (como repetição de comandos automática, mudança no valor dos registradores em uma linha, etc). Enfim, nada mau. É por isso que comecei a utilizá-lo e é nele que me baseio o tutorial logo abaixo.
-
-Para conseguirmos essa proeza é necessário reiniciarmos a máquina com algum sistema 16 bits, de preferência que caiba em um disquete. Junto com ele basta uma cópia do debug.com. Após reiniciarmos e aparecer o prompt de comando, podemos chamar o depurador e começar a diversão:
-
-{{< image src="debug.com.png" caption="Debug" >}}
-
-A MBR fica localizada no primeiro setor do HD ativo (master). A BIOS automaticamente procura esse HD e faz a leitura usando a INT13, função da própria BIOS para leitura de disquetes e derivados.
-
-Lembre-se que nem sempre existirá um MS-DOS para usarmos a INT21, tradicionalmente reservada para este sistema operacional. Portanto, se acostume com as "limitações" das funções básicas da BIOS.
-
-O debug.com inicialmente começa a execução em um espaço de memória baixa. Podemos escrever um assembly qualquer nessa memória e começar a executar. Isso é exatamente o que iremos fazer, e a instrução escolhida será a INT13, pois iremos ler o primeiro setor do HD para a memória e começar a executá-lo. Isso é a depuração da MBR.
-
-Para fazer isso, algumas informações são necessárias, e tudo está disponível no sítio muito simpático e agradável de [Ralf Brown], o cara que enumerou todas as interrupções conhecidas, além de diversas outras coisas.
-
-Como queremos ler um setor do disco, a função da interrupção que devemos chamar é a AH=02:
-
-    DISK - READ SECTOR(S) INTO MEMORY
-    
-    AH = 02h
-    AL = number of sectors to read (must be nonzero)
-    CH = low eight bits of cylinder number
-    CL = sector number 1-63 (bits 0-5)
-    high two bits of cylinder (bits 6-7, hard disk only)
-    DH = head number
-    DL = drive number (bit 7 set for hard disk)
-    ES:BX -> data buffer
-
-Muito bem. Tudo que temos a fazer é preencher os registradores com os valores corretos:
-
-    rax 0201 ; função e número de setores (1)
-    rcx 0001 ; número do cilindro e do setor (cilindro = 0, setor = 1)
-    rdx 0080 ; número da cabeça (0) e do drive (HD = 0, o bit 7 deve estar levantado)
-    res 0000 ; segmento em que é executada a MBR
-    rbx 7e00 ; offset em que é executada a MBR
-
-Essa é a maneira em que as coisas são. Você certamente poderia usar outro endereço, mas estamos tentando deixar a emulação de um boot o mais próximo possível  de um boot de verdade. E, tradicionalmente, o endereço de execução da MBR é em 0000:7E00. Para recordar disso, basta lembrar que o tamanho de um setor é de 0x200 bytes, e que dessa forma a MBR vai parar bem no final do endereçamento baixo (apenas offset).
-
-Essa organização é diferente do endereço inicial da BIOS, que é por padrão 0xFFFF0.
-
-Após definir corretamente os registradores, tudo que temos que fazer é escrever uma chamada à INT13 no endereço atual e executar. O conteúdo inicial do disco será escrito no endereço de memória 0000:7E00. Após isso trocamos o IP atual para esse endereço e começamos a depurar a MBR, como se estivéssemos logo após o boot da máquina.
-
-{{< image src="debug_debug.png" caption="Debug em ação" >}}
-
-Além da MBR, muitas vezes é preciso depurar a própria BIOS para descobrir o que está acontecendo. Nesse caso, tudo que precisamos fazer é colocar o ponteiro de próxima instrução para a região de memória 0xFFFF0, que traduzido para segmento/offset fica f000:fff0 (mais explicações sobre isso talvez em um futuro artigo).
-
-    -rcs f000
-    -rip fff0
-    -t
-
-[depuração da BIOS usando SoftIce]: {{< relref "debug-da-bios-com-o-softice-16-bits" >}}
-[Ralf Brown]: http://www.ctyme.com/rbrown.htm
-
+date: '2011-10-18'
+tags: null
+title: 'Depuração de emergência: receita de bolo'

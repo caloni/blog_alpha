@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2017-04-16'
-link: https://www.imdb.com/title/tt2937158
+date: '2012-11-18'
+link: https://www.imdb.com/title/tt0247586
 tags:
 - movies
-title: Nota de 1000 Rúpias
+title: Nove Rainhas
 ---
 
-Um pequeno conto indiano em formato de filme, narrado quase como uma peça de teatro com enquadramentos poéticos e dramáticos no melhor estilo Central do Brasil, Nota de 1000 Rúpias caminha pelo inevitável drama do povo indiano e sua pobreza explorada ou subjugada pelos ricos e poderosos e corruptos políticos e seus asseclas, igualmente alheios à imoralidade de suas ações.
+Conheci esse filme através do seu clone norte-americano, Criminal, de 2004 (também conhecido como 171). Havia achado um roteiro incrível, principalmente pela sua capacidade de enganar o espectador durante tanto tempo. Nas minhas lembranças dos idos de 2005 o ato final continua sendo tão sensacional quanto seu original argentino. Porém, ao assistir à versão portenha é preciso tirar o chapéu: um ótimo roteiro com uma direção calma, precisa e cirúrgica conseguem deixar o remake no chinelo, se transformando em uma verdadeira ode aos engana-trouxas de todos os tempos.
 
-O filme começa bonito e simples. Uma mulher que perdeu seu filho agricultor, que se suicidou depois de não conseguir pagar sua dívida ao agiota, ganha notas de 1000 rúpias de um político durante um discurso em seu vilarejo. Acostumada a gastar em torno de 2 a 3 rúpias diárias, no máximo, ela se vê agora com o grande problema de conseguir gastar aquelas notas graúdas no mercado de um vilarejo maior. Acompanhada pelo seu amigo e afilhado na prática, eles se veem em confusão quando são acuados por um policial que não possui o mínimo de decência ou respeito por pessoas simples e humildes.
+Construindo seu ponto de partida no primeiro encontro entre Juan (Gastón Pauls), um rapaz que retira dinheiro das caixas ingênuas aplicando psicologia e matemática, e Marcos (Ricardo Darín), um expert da "carreira", que consegue não apenas aplicar os golpes de Juan como fazer-nos acreditar no que está dizendo diante de suas vítimas, mesmo nós, espectadores, sabendo que se trata de um golpe. A química entre os dois nunca é completa, pois fica no ar aquele sentimento de "um está tentando enganar o outro". Não sabemos quem é o enganador, porque no fundo a cada momento o jogo parece virar.
 
-A atuação da velha senhora é uma pequena pérola na primeira metade, que exige um folclore além do normal. Com tomadas coloridas com fachos de luz lúdicos que passam pelo seu dia-a-dia, essa parte é vital para a segunda metade, quando o drama se instaura, e o terror da impotência dos remediados é o combustível para este drama. Porém, aqui a personagem se vê limitada pela atuação da atriz, e o cinema indiano fica mais uma vez preso aos arquétipos de heróis pobres e humildes e vilões ricos e poderosos. Se transforma em uma novela sem ter muito o que mostrar.
+Passamos um dia na vida desses larápios até que se encontram com a irmã de Marcos, Valéria (Leticia Brédice), que apresenta-nos o falsificador Sandler (Oscar Nuñez), que tem em suas mãos o golpe de sua vida: a venda de uma falsificação perfeita de um selo a um milionário de passagem pela cidade. Por motivos de saúde, Marcos e Juan acabam assumindo a tarefa e boa parte dos lucros. Porém, o que poderia ser simples vai se complicando, e o desenvolvimento da história serve de pano de fundo para que cresça a tensão e o mistério por trás das reais intenções de cada integrante da dupla. Cada acontecimento se junta ao anterior, criando uma cadeia de pseudo-verdades que sobe uma cortina de fumaça para o espectador, que precisa confiar no que está sendo mostrado, mas sabe que existe algo invisível se configurando.
 
-Exceto, claro, toda aquela poesia em torno dos valores corrompidos de uma Índia fadada ao fracasso. E quando pensamos um pouco mais além, vemos que o problema é bem maior: é um fracasso de toda a humanidade, refém de sua própria incapacidade de tomar as rédeas de sua vida e ser dominada por uns poucos mafiosos e seus paus mandados. Sabe como é: o que seria da democracia sem esses senhores bem-intencionados?
+Nunca deixando de surpreender, Nove Rainhas eleva seu trunfo pela conclusão bombástica e inesperada. Porém, o que é mais precioso no filme é que sabermos o final não estraga a experiência de uma revisita. Podemos assistir quantas vezes quisermos, pois a profundidade de sua trama cria sensações diferentes a cada momento. Como devem ser os maiores golpes de boa fé.
 

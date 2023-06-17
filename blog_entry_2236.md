@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2015-07-26'
+date: '2017-09-11'
 tags:
 - food
-title: Manos Negras Pinot Noir 2013
+title: Mantissa Café Fazenda Especial Poços de Caldas
 ---
 
-É azedo com final amargo, um Pinot Noir mais forte, seco. Alcoólico ao abrir, leve.
+Café chique comprado no mercado de Poços de Caldas. Na despensa.
 

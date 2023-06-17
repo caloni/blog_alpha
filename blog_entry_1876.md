@@ -1,20 +1,16 @@
 ---
 categories:
 - writting
-date: '2020-02-19'
-link: https://www.imdb.com/title/tt0084116
+date: '2015-11-02'
+link: https://www.imdb.com/title/tt0313792
 tags:
 - movies
-title: Identificação de Uma Mulher
+title: Igual a Tudo na Vida
 ---
 
-Antonioni é aquele diretor italiano que junto com Fellini e outros realizou trabalhos de neo-realismo, um período em que a Itália convive com seus fracassos políticos bem de perto, olhando para a população. Abandonando tudo isso nas décadas seguintes chegamos neste soft porn com cara de filme de arte. Temos a estonteante Daniela Silverio nua em vários momentos, e quando ela some é claro que Tomas Milian vai atrás.
+Este é um filme típico de um Woody Allen contemporâneo: atores conhecidos em outras comédias (Jason Biggs é o protagonista em American Pie) realizando as personas de Allen como trabalhadores intelectuais e suas crises de relacionamentos enquanto passeiam por Nova York. Porém, diferente dos "bons Woody Allen", este patina sobre um mesmo tema sem levantar qualquer questão mais ou menos interessante, entregando personagens patéticos por si só, sem precisar de nenhuma crise ou complexo grandes o suficiente para tornarem suas vidas amorosas um desastre.
 
-Este é um filme com várias ideias interessante e uma direção extremamente competente. O que dá errado é que não adianta juntar várias ideias boas em um conjunto onde nenhuma delas colabora para algo em comum. O resultado é que podemos nos entreter por todo o trajeto, mas no final fica a sensação que era melhor ter ficado em casa. Por quê?
+Allen aqui faz o papel de Dobel, um lunático que conhece palavras difíceis e acredita que o anti-semitismo ainda ronda a sociedade onde vive. Ele incentiva Jerry (Biggs) a comprar um fuzil para se defender, além de largar a obsessão de sua vida: a volátil Amanda (Christina Ricci), que depois de um tempo juntos não consegue mais ter relações sexuais com o rapaz, trazendo sua mãe para morar juntos em seu apartamento. Aliado a isso, Jerry tem sérios problemas para largar qualquer relação de parasitismo, onde se encaixa seu vendedor, o bonachão Harvey (Danny DeVito), que mantém Jerry como seu único cliente e só faz analogias no mundo dos escritores de piadas com lojas de roupas.
 
-Porque Antonioni não consegue encontrar nesta obra algo que seja diferente do que fazer um filme. Cineastas contemporâneos famosos estão andando nesse mesmo círculo que Antonioni percorre perdido. Tarantino, Almodóvar, Lars von Trier. Apenas Woody Allen parece se salvar, mas a sociedade em que ele sobrevive já não entende/pensa mais a respeito, o taxando de pedófilo machista.
-
-Quando um cineasta decide que irá fazer um filme porque não consegue evitar, as chances de sair um grande filme são grandes, e as chances de alguém pará-lo, mínimas. Contudo, depois que um cineasta tem seu nome consagrado e pode fazer o que quiser, a ideia que não sai mais de sua cabeça é escrever e/ou digirir um filme sobre ele mesmo e seus percalços até a fama. E agora que veio a fama, a dificuldade de entrar na rodinha dos milionários.
-
-O protagonista desse filme é Niccolò, um diretor de cinema que está em busca de um rosto feminino para seu próximo filme. Enquanto isso se enamora de uma cliente de sua irmã ginecologista e frequenta as rodas de amigo da bela e lascívia Mavi. Ele não se encaixa com ela nessas rodas, apenas na cama. E quando ela some toda a construção da trama em boa parte do filme desanda de uma vez.
+Competente em sua estrutura, o filme nos faz ficar impacientes pelas voltas intermináveis em torno da mesma questão levantada em meia-hora de filme: Jerry simplesmente não consegue largar as pessoas que o fazem mal, e ao mesmo tempo revemos as loucuras das pessoas em sua volta, que nunca mudam. Quando algo acontece em Igual a Tudo na Vida, percebemos a força interna do roteiro de Allen. Porém, quase nada acontece durante o filme, e os diálogos estão particularmente sem sal. Até um acesso de fúria de Dobel é usado apenas para manter a loucura no ar, sem maiores implicações. Os passeios pelo Central Park são inócuos, pois assim como seus caminhos, não levam a lugar algum.
 

@@ -1,22 +1,25 @@
 ---
 categories:
 - writting
-date: '2021-03-27'
-link: https://www.imdb.com/title/tt0238924
+date: '2019-10-12'
+link: https://www.imdb.com/title/tt10074454
 tags:
+- cinemaqui
 - movies
-title: Meninos de Deus
+title: Mente Perversa
 ---
 
-Este filme de 2002 ainda cheira a anos 90. O padre interpretado por Vincent D'Onofrio fuma em plena igreja e não lembra em nada um padre, exceto que suas bolas ficam bem presas na presença da Jodie Madre Superiora Foster.
+Mente Perversa pode causar extremo desconforto a mentes mais sensíveis, mas é um filme da categoria necessário por vários motivos, sendo o principal deles fazer você pensar pelo ponto de vista de alguém cuja natureza o impede de viver plenamente. O motivo? Seria um crime horrível.
 
-D'Onofrio fez o alienígena mais famoso do primeiro MIB. Era ele que se incomodava quando alguém matava uma barata. Ele é parte de um elenco talentoso deste comercial quase enlatado americano. Está na companhia do irmão de Macaulay Culkin, a própria Jodie Foster (ainda que no automático) e Jena Malone, que é a única que eleva a experiência em algo que lembra mais um drama adolescente, embora o próprio filme não leve isso a sério. O que é bem estranho e incômodo se formos pensar que há incesto e morte na história.
+Esse julgamento ético e moral poderia ser dado a homossexuais antigamente (ou em alguns países ainda hoje) e serial killers em qualquer lugar do mundo. Porém, existe um grupo de pessoas em que suas ações não dependem apenas da conivência dos participantes, nem são tão brutais quanto assassinar uma pessoa: os pedófilos.
 
-Se aproveitando do formato jovens fazendo besteira e desafiando a autoridade da escola religiosa onde estudam, Meninos de Deus ainda possui a péssima ideia de usar os desenhos de Todd McFarlane como o imaginário desses adolescentes espinhudos, que se unem para desenhar e escrever histórias quase depravadas sobre seus super-heróis como seus alter-egos. O filme vai traçando um paralelo como se houvesse um traço unindo as histórias, mas é apenas uma ideia boba. Distrai, mas não de um jeito bom.
+Markus (Max Riemelt) é um deles; arquiteto bonitão, vem tentando viver sem fazer mal a nenhuma criança. Ele tira e revela fotos de garotos de sua TV e da piscina, e se masturba compulsivamente, além de usar o boxe como escape. Recusa investidas de qualquer mulher que queira se aproximar, além de evitar se socializar com conhecidos por medo das situações que podem envolver perigos para seu comportamento. Portanto ele é recluso e tudo estaria bem se ele pudesse manter assim, mas as circunstâncias não estão a favor do auto-controle de Markus depois que uma mãe e seu filho Arthur vêm morar no apartamento do lado.
 
-Já a história envolvendo a personagem de Jena Malone (Contato, Jogos Vorazes, Sucker Punch) é a que melhor nos transporta para as incertezas e medos de uma vida sexual que começa de um jeito torto. Malone escolhe o garoto mais bonitinho para compartilhar seus anseios, e todos nós sabemos por quê, menos o garoto. Talvez nem o filme saiba direito por quê, pois traduz os sentimentos adolescentes do ponto de vista de um. Mas não importa. O sorriso de Jena é o suficiente para elevar a sub-trama.
+"Mente Perversa" foi escrito e dirigido por Savas Cevik conseguindo abordar praticamente qualquer dúvida que teríamos sobre se seu protagonista não poderia resolver seu problema de alguma forma sem machucar crianças. Indo além, ele torna óbvio que o próprio Markus está ciente do que pode acontecer se um dia perder o controle e não desejaria em nenhum momento ser quem ele é. Acompanhamos sua escalada em direção ao inevitável abuso infantil de maneira intensa, mas é quando ele se encontra com um psiquiatra que o filme assume uma forma muito mais densa e depressiva.
 
-Outro ator talentoso é Kieran Culkin, mais até que seu irmão, o astro-mirim de Esqueceram de Mim. Ele possui o autocontrole de seu sorriso irônico e é bem aproveitado em dois momentos tensos sobre a morte. É o personagem masculino que mais levamos a sério.
+Empregando uma fotografia escura e cinzenta com pouquíssimos tons coloridos, o filme está drenado de qualquer sinal de alegria que poderia haver. Até o vermelho da sala escura onde Markus revela suas fotos se assemelha a sangue. Markus não acende as luzes de sua casa por vergonha de si mesmo, e os espectadores do filme devem ficar receosos de começar a se identificar com um pedófilo e sentir o seu inescapável drama, o que reforça mais ainda seu problema, já que se nos sentimos culpados apenas por compactuar com o que deve estar se passando pela cabeça de um pervertido, imagine o que a sociedade em geral não pensa dessas pessoas.
 
-A direção de Peter Care é automática demais para deixarmos nossas mentes trabalhando durante o filme. Ele entrega o serviço, mas não é caprichado como seu trabalho em videoclipes. Há algo que incomoda o diretor neste material que tem tudo para ser sensível e profundo, mas que acaba sendo uma história sobre como ignorar os reais problemas da vida nessa fase jovem.
+A abordagem na atuação de Max Riemelt é ser exagerado em sua atração por garotos porque o diretor Savas Ceviz utiliza planos muito próximos de Markus para harmonizar com os planos-detalhe dos garotos que está observando. Se na mente do protagonista a ação se passa em um nível extremamente íntimo, a qualquer momento em que ele perceba que pode estar sendo observado a câmera volta a se afastar, gerando nessa dinâmica uma sensação de desconforto no espectador que se aproxima ou sugere o que acontece internamente para o arquiteto.
+
+Se no começo o desconforto é evidente por começarmos a entender o drama de um pedófilo que sabe que a conclusão dos seus atos seria um ato horrível contra seres humanos ainda em desenvolvimento, no final "Mente Perversa" nos convida a pensar nas contradições da vida humana, entre sermos parte animais e parte moralmente responsáveis. E ele consegue isso com quase nenhum texto descritivo. Se trata apenas da observação da contradição em pessoa vivendo em nossa sociedade. Se você nunca pensou a respeito desses dilemas, este filme com certeza é uma ótima oportunidade.
 

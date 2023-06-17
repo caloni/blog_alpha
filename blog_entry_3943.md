@@ -1,16 +1,21 @@
 ---
 categories:
 - writting
-date: '2019-01-28'
-link: https://www.imdb.com/title/tt0029546
+date: '2017-04-11'
+link: https://www.imdb.com/title/tt2614400
 tags:
+- cinemaqui
 - movies
-title: Vamos Dançar?
+title: Variações de Casanova
 ---
 
-Não é porque é um filme antigo com os dançarinos icônicos Fred Astaire e Ginger Rogers que o filme tem que ser bom. Nesse caso ele é uma bagunça, cheio de plots repetidos, piadas que já perderam a graça já na década de 30 e com muitas poucas cenas de dança. Este é um filme sobre dança e música ou não é?
+Variações de Casanova consegue provar que a ópera, até mesmo a transformada em filme, não é desse mundo. Não o mundo de hoje. Ela é terrivelmente mais lenta que isso, e por isso mesmo alheia à sua existência. Mas, além disso, aqui temos uma versão de Casanova que está em descompasso com a visão positiva de conquistador de mulheres. É um moribundo, e isso sim, diz muito mais sobre a época em que vivemos do que uma ópera de Mozart.
 
-Eu diria que não vale a pena. Ele tem quase duas horas e vemos os dois dançarem por 10 minutos. Sua história é batida e fica dando voltas em torno de um relacionamento que não possui qualquer desculpa, e se complica desnecessariamente por causa de um casamento anunciado. A trupe de roteiristas já deixa claro que Astaire e Rogers estavam sob os holofotes, mas não escolheram bem seus projetos. Aqui parece uma desculpa para vê-los dançar, mas isso não acontece quase nunca.
+Baseado em três fontes distintas e escrito pelo diretor Michael Sturminger, a criativa história usa a persona sensual do ator John Malkovich (Ligações Perigosas) interpretando em uma peça que mistura cenários reais e o palco, além de misturar personagens e o público. Os atores/personagens interagem com a plateia e até tornam seus assentos parte do cenário. As câmeras registram tudo como um show televisionado, mas uma edição inspirada une todas as três formas de enxergar essa história.
 
-Astaire faz um astro da dança simpático e brincalhão, e Rogers a velha diva que precisa se cuidar para continuar relevante. Ambos são os alter-egos desses dois dançarinos em palco, e enquanto um show é planejado reviravoltas serão feitas para decidir se ambos vão ou não se casar. Enquanto isso, o espectador dança ao esperar que eles dancem.
+Casanova é o Don Juan plebeu que se ancorava na nobreza. Uma figura decadente na época que acumulava conquistas amorosas. Um "ninfomaníaco" de seu tempo que hoje é visto no filme como uma figura tão grotesca quanto trágica. Alguém que trouxe apenas dor para suas amantes e a si mesmo. Mas, assim como ele pontua na peça, a dor em si não consegue ser lembrada, mas apenas as circunstâncias em torno da dor.
+
+Essa fascinação que sua figura exerce no imaginário coletivo tem seus dias contados no filme, que vai dilacerando em diálogos com uma misteriosa visitante (Veronica Ferres) a verdadeira faceta de alguém que "não consegue viver de repetições". Se trata de uma história curta alongada pelos inúmeros números musicais que nessa bagunça de unir teatro, literatura e cinema, se diverte imensamente mais que o permitido pela paciência do espectador.
+
+O resultado é um filme sem muito o que dizer, e que contrariando o próprio Casanova, vive de repetições. E ninguém consegue viver de repetições. Nem mesmo em um filme.
 

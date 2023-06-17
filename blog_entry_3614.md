@@ -1,25 +1,15 @@
 ---
 categories: []
-date: '2014-07-08'
+date: '2015-06-11'
 tags: null
-title: TDC 2014
+title: TDC SP 2015 (Call for Papers)
 ---
 
-O programador C/C++ de médio e baixo nível em Windows precisa estar familiarizado com as potencialidades de suas ferramentas de trabalho. Entre elas, o WinDbg é de longe o mais completo e complexo, além de ser quase desconhecido pela comunidade.
+Antes do nosso encontro 12 no Rio, no segundo semestre, teremos o TDC São Paulo, que já está em sua fase de chamada de trabalhos. Se você tem alguma coisa para apresentar, não se acanhe. Todos são bem-vindos! =)
 
-Essa palestra visa um público que deseja conhecer novas técnicas de depuração para problemas específicos, mas comuns, como leak de memória, travamento durante shutdown da máquina e análise de processos de maneira não-intrusiva.
+Peço que os palestrantes que não tiveram a oportunidade de apresentar seu trabalho colaborem com o evento, já que nosso próximo encontro será no Rio, cujo público, acredito eu, deverá mudar em sua maioria.
 
-Apresentando o WinDbg: para os ainda não iniciados, uma visão geral do que é o WinDbg, como ele funciona e em que ele pode ajudar o programador C/C++.
-
-Leak de Memória: nessa segunda parte já passamos para a prática, adicionando ao cinto de utilidades do programador dicas valiosas para detectar rapidamente onde está ocorrendo vazamento de memória constante.
-
-Depurando até o último segundo: para análises mais hardcore às vezes é necessário depurar onde até o sistema operacional está indo embora; essa terceira parte da palestra visa mesclar técnicas de user-mode e kernel-mode para depurar um serviço que trava durante o reboot da máquina.
-
-Dicas e truques rápidos: nesta última parte aprenderemos um apanhado de truques para o iniciante não se perder muito tempo nos problemas que eventualmente encontrará usando o WinDbg. Também aprenderá a realizar tarefas mais raras, como comparação de strings, busca na memória, etc.
-
-Ainda estou pensando quais truques colocar. Se tiver alguma sugestão de algo que seja muito difícil de fazer na depuração Windows ou tenha alguma dica para compartilhar, ainda dá tempo.
-
-O TDC continua sendo esse evento com muitas trilhas, mas que tem como virtude reunir comunidades que geralmente ficam muito afastadas umas das outras. Na trilha C/C++ a vantagem é ainda maior, pois a área onde um programador da linguagem atua pode variar enormemente. Esse ano teremos palestras sobre metaprogramação (Rodrigo Madera), modularização de código (Felipe Lavratti), c++ para android e ios com o mesmo fonte (Fernando Luiz Rizzato), análise dos passos de uma compilação (Rodrigo Strauss), uma olhada no sistema wow64 do kernel do Windows (Fernando Roberto da Silva) e programação funcional (Fabio Galuppo). Ou seja, uma grade espetacularmente variada!
-
-Então é isso. Garanta seu ingresso, faça networking, assista as palestras do seu interesse e pode me procurar durante o dia para tirar dúvidas sobre qualquer assunto relacionado a C++ e coisas que já mexi.
+ - Submissão de palestras até 15 de junho às 18h
+ - Notificação de palestras aprovadas ou não entre 16 e 22 de junho
+ - Evento acontecerá de 21 a 25 de Julho
 

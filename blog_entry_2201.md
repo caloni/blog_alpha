@@ -1,17 +1,22 @@
 ---
 categories:
 - writting
-date: '2022-02-22T21:30:08-03:00'
+date: '2020-10-11'
+link: https://www.crunchyroll.com/pt-pt/magia-record-puella-magi-madoka-magica-side-story
 tags:
-- movies
-title: Mães Paralelas
+- animes
+title: 'Magia Record: Puella Magi Madoka Magica Side Story'
 ---
 
-Um Almodóvar com toda a pompa e universo almodovariano sobre bebês trocados no nascimento e uma Penélope Cruz imersa e no meio de diferentes pontos de vista. Essa tensão entre os personagens é rica como de costume, mas o terceiro ato se infla de uma importância que se perde depois da revelação final, que não é impactante nem catártica. Fica a novela, mas o pano de fundo histórico e até talvez político não se torna o personagem oculto antes de se mostrar como um mero detalhe contratual da produtora Netflix, incentivadora desses assuntos.
+Meu Deus, como essa produtora gosta de títulos gigantescos em seus animes. Isso acontece principalmente porque a obra original foi um game ou mangá e a única estratégia conhecida da distribuidora pelo mundo é deixar bem claro: é uma continuação do mangá dramático Madoka Mágica, mas uma história de spin-off, e baseado em um video-game produzido pela Magia Record e depois adaptado para mangá, e finalmente para anime. Entendeu a confusão?
 
-A opinião de Almodóvar está sonora e clara em uma fala de uma personagem que passa batida. Ela diz que gostaria muito de ser atriz, mas começou tarde e seu jeito burguês não facilita. "Todos que trabalham no ramo são de esquerda. Eu sou apolítica. Gosto de mostrar meu trabalho para todos."
+[Madoka Mágica] continua sendo meu anime favorito. No Crunchyroll existe esse spin-off com uma nova personagem, a solitária Iroha Tamaki, vinda do vídeo-game. A direção de arte nos oferece uma revisita àquele mundo que nunca mais foi o mesmo após o último episódio de Madoka, mas ainda assim queremos (queremo$?) sentir o que há mais por trás dos duelos das meninas mágicas contra as forças inexoráveis do universo, mais conhecido como caos. A nova mescla entre computação 3D e animes tem criado alguns planos interessantes, mas nessa série nenhum deles está presente. Se tornam uma distração para uma história que se diz complexa, mas é apenas difícil de seguir por ser tão episódica.
 
-Nós entendemos, senhor diretor. Mas como sem agenda política não tem dinheiro o filme, que nem precisaria ter fundo político, vem vilipendiado, e longo demais da conta.
+Este novo livro do universo de Madoka acaba sendo um breve e relapso capítulo onde Iroha se esqueceu qual foi seu desejo realizado para aceitar se tornar uma garota mágica, mas logo ela se lembra e parte em busca da irmã. Agora ela e outras garotas estão tendo sonhos que devem se dirigir para uma cidade para serem salvas das bruxas de uma vez por todas, sem a necessidade de lutar. Uma promessa fácil que, como já sabemos, paga-se caro no final.
 
-Mas ele é bem feito, possui todos elementos que os fãs do cineasta irão se identificar. E é isso que importa afinal de contas. São tempos em que a arte importa menos que o discurso e a afirmação do ego dos que assistem.
+Instigante o suficiente para continuar assistindo, mas preguiçoso nos detalhes narrativos. Falta personalidade. Soa como revisita desnecessária e monetizadora. Não há o toque instigador de Mefistófoles, imortalizado em Fausto de Goethe e na Madoka Mágica original. O universo é claramente inspirado em um video-game e não consegue se desvencilhar de sua origem porque seus episódios estão estruturados em fases que as heroínas devem passar para conseguir chegar ao chefão final. Nada disso existe em Madoka, que utiliza um único mistério que se expande conforme essa Alice vai indo mais fundo para sua toca do coelho existencial.
+
+Além disso, no original, as garota realmente podem morrer. No primeiro episódio isso ocorre. O peso dramático da história se estabelece conforme vemos uma das garota perder a vida na luta contra uma bruxa. O perigo é real. Apenas dessa forma você consegue fazer o espectador prestar atenção. Do contrário é uma fantasia inofensiva. E jogável.
+
+[Madoka Mágica]: {{< relref "madoka-magica" >}}
 

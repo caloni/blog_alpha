@@ -1,18 +1,22 @@
 ---
 categories:
 - writting
-date: '2018-10-07'
-link: https://www.imdb.com/title/tt3416742
+date: '2013-05-17'
+link: https://www.imdb.com/title/tt2925942
 tags:
 - movies
-title: O Que Fazemos nas Sombras
+title: O Que Se Move
 ---
 
-Taika Waititi é um diretor neo-zelandês. Ele uma fez fez um filme chamado Loucos por Nada, um indie onde estrelava o curioso ator Jemaine Clement. Sete anos depois os dois dirigem e estrelam este O Que Fazemos nas Sombras, que é uma versão mais longa de um trabalho homônimo feito em 2005. Então, vejam bem, esses cineastas estão empenhados em explorar as partes bizarras da existência humana, como seus mitos, em forma de mocumentário.
+Montador de [Trabalhar Cansa] (2011, Marco Dutra e Juliana Rojas), uma das mais agradáveis surpresas daquele ano no Cinema Nacional, Caetano Gotardo estreia na direção desse filme quase experimental. Quase, pois as nuances inseridas em suas três historietas trágicas e casuais criam uma dimensão emotiva que não pode ser ignorada. O detalhe mais marcante são as canções entoadas pelos seus próprios atores (não se preocupe quem não gosta de musicais, pois existem apenas três momentos). Nesse sentido, talvez o tempo de experiência na montagem tenha feito uma diferença notável em sua percepção da realidade (aqui a montagem é assinada por outra pessoa, não achei seu nome depois , mas a direção, montagem e até a composição das canções principais são de sua autoria).
 
-O que nesse caso é ótimo. Eles pegam essa ideia para vampiros (e um pouco de lobisomens, zumbis, etc). Os dois e Jonny Brugh fazem o trio de vampiros que dividem uma casa onde o maior problema é discutir por que Deacon não lavou louça nos últimos cinco anos, período que ele foi escolhido para a função, e por que quem for trazer uma vítima para o jantar não pode simplesmente colocar alguns papéis toalha no chão antes de perfurar o pescoço de sua comida?
+Portanto, por mais inconsequentes e despretensiosas que sejam os três episódios, há um crescente emotivo envolvente, ainda que sua primeira história inicial pareça não se esforçar para isso. Podemos dizer que o choque inicial ao final do primeiro episódio seja o estopim necessário para que enxerguemos o que está sendo proposto, e mesmo com seus defeitos (como os diálogos pavorosos, propositais ou não) cumpre bem o que se propõe. Dito isso, ouvir a mãe cantar uma música sem rimas, sem ritmo e sem propósito nenhum a não ser estabelecer o óbvio (explicar o que ocorreu com o filho com a carga dramática de uma mãe embutida) se torna um guia necessário para entendermos o que está acontecendo diante de nós.
 
-Escrito por eles e dirigido com um tom de gore, com um ou dois momentos bem feitos e o resto trucagens de câmera pseudo-criativas que dão conta do recado graças à iluminação e computação gráfica, "O Que Fazemos..." consegue explorar várias situações do dia-a-dia (ou da noite-a-noite?) com o pano de fundo de como é ser um vampiro, ter séculos de existência, precisar ser convidado para entrar nos bares noturnos, etc. Há até piadas feministas, como uma serva que faz tudo para um deles e que espera um dia ser transformada também. "Se eu tivesse um pênis já seria uma vampira", protesta. Ao mesmo tempo temos Stu (Stu Rutherford), o amigo de uma vítima deles que virou vampiro e que agora é o humano mais sem noção que já fez parte de um filme de vampiros.
+Ao ligar os episódios de maneira mais metafísica do que orgânica, a segunda história envolvendo outra família consegue aos poucos subir o degrau de significados. Alguns ocultos, outros parecendo mero artifício "para aparecer" e outros ainda revelando a alma do filme de maneira a fisgar cada vez mais nossa atenção. No entanto, algumas coisas ainda teimam em nos atirar para fora: mais uma vez os diálogos chegando ao embaraço, o acúmulo de cenas desconexas ou desproporcionalmente longas (que quando estão querendo dizer algo, soam óbvias, e quando não estão, soam obscuras).
 
-O humor que Clement e Waititi entregam em uma hora e meia é ágil e dá pouco tempo para pensar. Quando há muito tempo as gags não funcionam. Quando há pouco tempo as ideias são tão bizarras ("briga de morcegos!") que acabam funcionando. Quando esses amigos encontram uma gangue de lobisomens no meio da noite é um momento tenso, e descobrimos que os próprio lobisomens possuem seus problemas de convívio da matilha. É o frescor das ideias que sempre torna esse filme engraçado, original e imperdível.
+Mesmo assim o diretor/roteirista insiste em sua temática, o que revela em seu terceiro ato os momentos mais tensos e propositadamente desconcertantes de todo o filme. Boa parte desse efeito pode ser atribuído à revelação do longa, Fernanda Vianna, a atriz que faz a terceira mãe. Ela quase rouba a nossa atenção completa se a situação já não nos forçasse a isso: o primeiro encontro com o filho roubado da maternidade.
+
+Enquanto tentamos juntar as peças derrubadas pela catarse gerada pela evolução de personagens e situações, o que mais fica na mente é o tema proposto, o que há de comum naquelas histórias. Nos esquecemos do resto e, assim como o cisne do primeiro episódio, vemos o tempo passar sem muito o que fazer.
+
+[Trabalhar Cansa]: {{< relref "trabalhar-cansa" >}}
 

@@ -1,27 +1,14 @@
 ---
-
-Esta partida estava sendo bem jogada por ambos os lados. Estava difícil de progredir, pois não havia muitas ideias. Estava lento. Até que minha ideia de pesar na coluna do bispo ao mesmo tempo que atacava a dama fez meu adversário pensar demais, acredito eu, pois ele estava ameaçando o peão da torre com o bispo dele. Tanto pensou que pendurou a dama. Uma pena. Estava equilibrado (acredito).
-
-{{< image src="board.gif" >}}
-
-```
-[Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2023.06.08"]
-[White "hcnchc"]
-[Black "cavaloni"]
-
-1. e4 c5 2. Bc4 Nc6 3. Nf3 e6 4. Nc3 d6 5. O-O Nf6 6. Re1 h6 7. h3 Be7 8. d4
-cxd4 9. Nxd4 O-O 10. Nf3 e5 11. Nd5 Nxd5 12. Bxd5 Be6 13. a3 Qc7 14. Nh2 Rac8
-15. Re3 Bxd5 16. Qxd5 Kh8 17. Rg3 Bf6 18. Be3 Ne7 19. Bxa7 Nxd5 0-1
-```
-
-
----
 categories:
-- writting
-date: '2020-06-01'
-link: https://www.imdb.com/title/tt0060268
-tags:
-- movies
-title: Cul-de-Sac
+- cooking
+date: '2021-09-25T21:17:33-03:00'
+tags: []
+title: Cupcake
+---
+
+Fiz a primeira vez essa receita passada por uma boleira amiga (apenas a massa).
+
+Para 24 cupcakes sem cobertura você vai precisar de 3 ovos, 1 xícara de leite, 1 xícara e meia de açúcar e 1 xícara de óleo. Bata tudo isso no liquidificador. Então em uma travessa você coloca 2 xícaras de farinha de trigo, 1 xícara de chocolate e 1 colher (sopa) de fermento. Misture bem esses sólidos com fuê e acrescente os líquidos; misture aos poucos e distribua nas formas de papel de cupcake, cerca de metade do copinho, pois irá crescer.
+
+Coloque no forno pré-aquecido a uns 180 graus por uns 20 minutos. Fique de olho no crescimento, pois quando ele estiver "transbordando" já pode espetar um palito de dentes e ver como está a textura interna. Dependendo de sua preferência, pode deixar um pouco mais mole ou mais seco. Daí é só retirar, aguardar esfriar um pouco e partir pro abraço. Bem simples e deu super-certo, embora acho que na próxima irei tirar um pouco antes para ficar mais úmido (embora a textura estivesse macia).
+

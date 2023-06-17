@@ -1,12 +1,10 @@
 ---
 categories:
-- writting
-date: '2010-06-23'
-link: https://www.imdb.com/title/tt1424381
-tags:
-- movies
-title: Predadores
+- reading
+date: '2017-06-27'
+tags: []
+title: Prefácio de O Capital Vol. 1
 ---
 
-Último filme de uma longa série que envolve predadores e alienígenas, Predadores cria um ambiente hostil para humanos e uma trama suficientemente coesa para que tenhamos cenas de ação e tensão durante essa mini experiência dentro desse universo onde humanos são sempre caças, e os predadores, seus caçadores. Possui uma participação especial de Laurence Fishburne, além de uma Alice Braga eficiente como par violento de Adrien Brody. Por fim, um filme esquecível depois que colocamos o pé para fora da sala de projeção. Duvido que seja relembrado daqui uns anos.
+Embora se trate de um rascunho, os Grundrisse possuem extraordinária relevância, pelas ideias que, no todo ou em parte, só nele ficaram registradas e, sobretudo, pelas informações de natureza metodológica. Uma dessas ideias é a de que o desenvolvimento das forças produtivas pelo modo de produção capitalista chegaria a um ponto em que a contribuição do trabalho vivo se tornaria insignificante em comparação com a dos meios de produção, de tal maneira que perderia qualquer propósito aplicar a lei do valor como critério de produtividade do trabalho e de distribuição do produto social. Ora, sem lei do valor, carece de sentido a própria valorização do capital. Assim, o capitalismo deverá extinguir-se não pelo acúmulo de deficiências produtivas, porém, ao contrário, em virtude da pletora de sua capacidade criadora de riqueza.
 

@@ -1,16 +1,22 @@
 ---
 categories:
 - writting
-date: '2016-07-18'
-link: https://www.imdb.com/title/tt2277860
+date: '2016-10-21'
+link: https://www.imdb.com/title/tt5354986
 tags:
 - movies
-title: Procurando Dory
+title: Profundidade Dois
 ---
 
-Mas é claro que este é um caça-níqueis. E é claro que tenta emocionar, ser fofinho e engraçado. A única coisa que Procurando Dory não tenta é ultrapassar o seu original, Procurando Nemo. Na verdade, ele se empenha tanto em se tornar um filme divertido para as férias que se perde em sua própria pequenez. Um filme praticamente para TV, onde entram junto nesta lista não-gloriosa da Pixar: Carros, Carros 2, Aviões, Carros 3 (já fizeram?), Operação Big Hero, Vida de Inseto.
+Um documentário que é uma peça de museu. Fala sobre um massacre "de guerra" feito em civis perpetrado pelos capangas psicopatas de um presidente. Bom, o que há de novo? 100% dos massacres são assim.
 
-O problema com os filmes menores da Pixar é que, quando estes estreiam, todos esperam ver mais um exemplar da outra lista de filmes da produtora: WALL-E, Os Incríveis, Ratatouille, Up! Porém, é preciso lembrar que eles têm contas pra pagar, e filmes para produzir, não importa a ideia. Aliás, talvez importe, sim: que seja uma continuação.
+Tendo como pano de fundo a guerra da Iugoslávia contra o território de Kosovo e a entrada da OTAN no conflito após acusações de abusos nos direitos humanos, o filme resgata mais abusos de direitos humanos, dessa vez dentro do próprio território controlado pela própria Iugoslávia, às vésperas de sua dissolução com a independência de suas repúblicas formadoras, que durante toda a História nunca resolviam seus conflitos.
 
-E esta tem a desvantagem de se transformar em um passeio no parque. Enquanto Procurando Nemo até certo ponto assusta ao vermos o pequeno peixe-palhaço com uma barbatana pequena perdido na imensidão do oceano, com seus perigos infinitos, aqui os peixes nadam, andam, voam em qualquer lugar. Por mais rodeios que existam, todos sabemos que tudo vai dar certo desde a primeira cena. O passeio no parque, portanto, apesar de engraçado, é previsível e até certo ponto chato.
+A narrativa é feita toda sem vermos as testemunhas que estão falando, mas elas foram gravadas durante tribunais de julgamento do caso. O que vemos é a sensação da ação conforme acontecia pelo ponto de vista dessas pessoas que vivenciaram o horror diante dos seus olhos.
+
+O caso mais impressionante é de uma mulher que sofreu uma explosão em seu corpo, tiros e ainda se jogou de um caminhão na estrada. Boa parte do filme vale a pena justamente pelo seu testemunho.
+
+As tomadas do diretor Ognjen Glavonic são inspiradíssimas, mas é difícil de desvencilhar de sua falta de ritmo. Porém, graças a diferentes causos alternados no tempo é possível ter uma quase-vida no que vemos e sentimos, embora dependa muito do espectador.
+
+O impressionante de tudo isso é que os locais que são mostrados possuem um clima lúdico, pacífico e pacato. Nada disso impediu, no entanto, que aquelas pacatas pessoas fossem submetidas ao poder de fogo estatal, que utiliza corpos humanos como se fossem matéria a serviço do prazer sádico ou qualquer outra bobagem que inventem. Aliás, voltando à mulher invencível, é sintomático que um de seus algozes fosse um rapaz cuja família ela conheceu . Ela chega a ouvir a voz de sua mãe após o massacre ter ocorrido. Tudo depende de que lado você está quando a barbárie começa.
 

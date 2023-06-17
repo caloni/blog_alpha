@@ -1,20 +1,11 @@
 ---
 categories:
 - writting
-date: '2016-05-20'
-link: https://www.imdb.com/title/tt4145760
+date: '2022-10-13T23:09:16-03:00'
 tags:
 - series
-title: The Lizzie Borden Chronicles (piloto)
+title: The Midnight Gospel
 ---
 
-Juro que esperava peitinhos. Uma série com a sempre "interessante" Christina Ricci (A Família Addams ou... O Oposto do Sexo?) sempre promete algo assim. Ela como a assassina sanguinária Lizzie Borden, então...
-
-A série possui uma temporada e oito episódios, e tem por intuito contar a respeito do caso dessa mulher do final do século 19, que matava pessoas com um machado.
-
-A série é assustadoramente televisiva, com aqueles zooms acelerados seguidos de câmera lenta, e cortes bruscos e sem motivo. Além disso, a direção de arte e figurino parecem estar prontos para rodar uma telenovela, com pouquíssimo apuro em filmar uma história de época. As roupas de metade dos atores pode ser confundido com antigo, o resto pode ser confundido com o Projac.
-
-Além disso, a história gira em torno da perda da fortuna da tal Lizzie depois que seus pais vão dessa para melhor (provavelmente obra dela mesma). Basicamente é apenas isso em quase uma hora de série. A vemos andar de preto com sua irmã, falar com o advogado, com seu irmão semi-bastardo e a caveira horrenda (de mal feita) de um bebê.
-
-Basicamente é isso. Um pouquinho de gore, com menos ainda de violência, e nenhum, praticamente nenhum... peitinho.
+A pegada dessa animação viajada é colocar um áudio e um visual descolado para as reflexões e anseios do mundo moderno. A história é sobre um jovem que viaja para diferentes dimensões para fazer seu podcast, e no meio disso rolam alguns acontecimentos enquanto ele tem um papo transcedental (leia: cheirado) com algum ser desse mundo diferentão. É fácil se conectar porque eles conversam sobre temas universais e ao mesmo tempo íntimos. É fácil se conectar até mesmo se você estiver sob o uso de alucinógenos criativos. Mas talvez ao apenas assistir você já sinta um barato. Quer um?
 

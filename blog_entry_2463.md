@@ -1,11 +1,14 @@
 ---
 categories:
 - writting
-date: '2022-10-09T17:58:12-03:00'
+date: '2012-09-03'
+link: https://www.imdb.com/title/tt1415283
 tags:
-- wine
-title: Nanni Tannat Reserve 2019
+- movies
+title: Nanny McPhee e as Lições Mágicas
 ---
 
-Reserva de 12 meses em barrica da mesma uva, que com muito esforço conseguimos matar. Não por ser ruim, estava delicioso. Esse gosto adstringente, agressivo, dos vinhos de Cafayate já me encantou novamente, mesmo sem ser fã dessa vinícola. O amadeirado chega meia hora depois de aberto.
+"Uma produção com um toque britânico (e atores) que consegue entreter mais pela curiosidade das próximas ações da babá mágica para controlar os sete diabinhos do desafortunado viúvo, que ainda depende de uma tia impiedosa para a sobrevivência da família, do que pela história em si, que é bobinha e previsível. O filme ainda emociona por situações naturalmente emotivas (como a decisão de escolher uma filha para entregar à tia), mas por algum motivo mágico, consegue caminhar até sua conclusão pelo menos ileso de apelações maiores. Talvez uma última da babá pós-créditos?" (Nanny McPhee, A Babá Encantada).
+
+Fora os detalhes de uma direção de arte virtuosa, que consegue extrair magia até de uma fazenda infestada de esterco de todos os animais que ali vivem, e é plot para um dos raros diálogos inspirados, a história segue um ritmo morno e repetitivo, que não traz nada de novo que o longa original.
 

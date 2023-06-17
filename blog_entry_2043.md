@@ -1,16 +1,21 @@
 ---
 categories:
 - writting
-date: '2015-10-29'
-link: https://www.imdb.com/title/tt3472226
+date: '2018-10-26'
+link: https://www.imdb.com/title/tt1893269
 tags:
+- cinemaqui
 - movies
-title: Kung Fury
+title: Kusama - Infinito
 ---
 
-Este curta (média?) metragem mistura anos 80, raptors, cop-raptor, arcades, Hitler, hackerismo, gostosas medievais, lasers, Thor, Kung-Fu, viagem no tempo, uma profecia e esse é apenas o começo de uma salada que apela para o absurdo usando efeitos digitais grotescos que se tornam caricatos e conseguem manter pelo menos meia-hora de um sentimento de confusão, identificação e êxtase juvenil. Afinal de contas, em que universo paralelo você pensou que veria um dinossauro lutar contra uma água dourada nazista?
+Kusama - Infinito é um documentário de praxe, desses que tem aos montes na TV e na Netflix (aliás, este possui agradecimentos do serviço de streaming nos créditos finais, o que indica que em breve deve estar disponível para os assinantes).
 
-Dirigido, escrito, atuado e produzido por David Sandberg, Kung Fury não se priva de inventar as mais ousadas sequências porque, afinal de contas, nada faria sentido do mesmo jeito. Provocativo, deixa nas entrelinhas os absurdos que somos obrigados a engolir nos filmes de ação que levam toda essa farofa a sério. Pelo menos este filme sabe que nada é sério, e brinca constantemente com as facilidades com que o herói sai de qualquer situação impossível de resolver.
+Ele fala da surpreendente carreira da artista contemporânea Yayoi Kusama, que no ápice da loucura se internou voluntariamente em uma clínica psiquiátrica por medo de ter ataques nervosos que trariam um fim à sua vida. Mas ela não podia morrer. Diagnosticada com Transtorno Obsessivo-Compulsivo, Kusama leva as obsessões mentais em sua cabeça a sério. Ela está no limite do que pode-se considerar normal, e é isso que faz ela trazer sua genialidade à tona.
 
-Este filme não foi feito por acaso: ele é exatamente o que você vê. Não houve falha na produção. Kung Fury tem o potencial de liberar a imaginação de futuros idealizadores, ou no mínimo servir de referência para uma época onde é possível colocar nazistas no lado oculto da lua, no centro da Terra e viajando no tempo. Nunca é tarde para reinventar e misturar épocas, gostos e referências. Com nosso poder computacional, nada mais fará sentido. Kung Fury é apenas o começo.
+O documentário vai cronologicamente explicando sua trajetória, com testemunhos de diretores de arte e alguns amigos. Lembra um dos episódios de Abstract, uma série que apresenta artistas modernos e suas tentativas de transcender, mas com um pouco de drama embutido, como os limites sociais que Kusama encontrou, como a panelinha de arte que favorecia certas pessoas de poder expor nas galerias, ou até a associação que se faz com suas posturas políticas possivelmente controversas, como ser contra a guerra do Vietnã e militar em diferentes protestos nua.
+
+As explicações de sua arte são a melhor parte para leigos, pois tenta nos explicar o porquê dessa mulher ser tão importante para a arte moderna. Porém, o próprio conceito de arte moderna cai na contradição infinita de conseguir definir o que é arte, então há alguns exemplos de valores das obras e outros exibidores famosos, o que pode dar uma ideia mais precisa do peso de Kusama em todo o movimento.
+
+Do início ao fim convencional, mas não burocrático, pois consegue em pouco mais de uma hora expor a vida inteira de Yayoi Kusama, "Infinito" é um registro necessário dessa artista, mas que poderia ser mais criativo, já que estamos falando de um dos pilares da criação moderna.
 

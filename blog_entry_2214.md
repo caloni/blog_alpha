@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2015-09-12'
-link: https://www.imdb.com/title/tt4341500
+date: '2014-02-05'
+link: https://www.imdb.com/title/tt0213847
 tags:
-- series
-title: Mais um Verão Americano (piloto)
+- movies
+title: Malena
 ---
 
-A Netflix é uma empresa, e como toda empresa ambiciona o lucro. Por causa disso obviamente não consegue se desvencilhar do seu destino Hollywoodiano de descobrir uma fórmula e repeti-la à exaustão. É assim com seu conteúdo adulto -- sexo ocasional + violência exarcebada -- e é assim com suas comédias agrada-público-medíocre -- atores divertidos/comediantes, uma ou outra fala interessante, o tema acima da arte.
+Não é preciso tornar a mulher uma vítima da sociedade para fazer uma crítica social, mas o diretor de Cinema Paradiso o faz com tanta paixão pelo lúdico, pelo erótico e pelo que significa ser italiano, essa cultura controversa com traços que trazem um misto de vergonha e identidade, que Malena vira um hino sobre a impotência de indivíduos frente à pressão da massa, seja político ou social. E tudo através dos olhos de um garoto sem ele perceber o que isso significa. Ou pelo menos a esperança do longa é que no final ele saiba pelo quê essa mulher passou.
 
-E é assim que nasce uma fábrica de obras que reciclam o velho seriado norte-americano da época de Nanny, Full House, Um Maluco no Pedaço e tantos outros que capturaram o espírito americano de dar risada e globalizaram em uma fórmula fácil de pegar para todo mundo. O brasileiro, então, acostumado a fórmulas de stand-up verdadeiramente medíocres -- fruto de nossa ainda presente censura -- é um alvo certeiro. Pelo menos essa é a ideia inicial.
+Logo em seu início já é possível detectar aquela magia ingênua e cinematográfica do cinema de Giuseppe Tornatore e seus enquadramentos que viram quadros de pendurar na parede. O que não é possível detectar tão fácil é uma história quase que 100% visual que mantém laços maduros e sensíveis com um passado não tão distante, quando as mulheres se resumiam em seres que, se com curvas voluptuosas, serviam de fonte de prazer masculino e inveja feminina.
 
-E é por isso que Web Hot American Summer: First Day of Camp constrói suas expectativas em cima do óbvio, do certeiro e do que está na moda. O clima anos 80, 90, a necessidade de parecer moderno sem ser, e as velhas piadas recicladas em um formato idem. É o que torna fácil fabricar novas séries, e de certa forma o que confirma suas escolhas é justamente o público, que está preferindo cada vez mais conteúdo mais fácil de mastigar.
+O mais fascinante é que o filme comenta todo o contexto social e político da época (Segunda Guerra) sem qualquer diálogo explicativo, se limitando com inteligência na repetição exaustiva de cenas que escancaram o assédio que a mulher-título vivida por Monica Bellucci sofre dia após dia enquanto aguarda o retorno de seu marido da guerra. Os nossos olhos são os olhos de Renato (Giuseppe Sulfaro), um garoto que, mesmo usando as curvas de Malena para suas fantasias eróticas noturnas, desde o início se mostra o único a apreciar outras características em torno daquele corpo, como a música que ela gosta, e mais tarde a protegê-la (ainda que com manifestações pueris de vingança), se tornando a única pessoa ciente do mal que a cidade faz para a moça ao enxergá-la apenas como um pedaço de carne.
 
-E o que dizer de Unbreakable Kimmy Schmidt e sua velha história batida Punky Brewster e os inúmeros clichês de atores/atrizes que vão para Nova York tentar a sorte. Nem comento a respeito da cápsula do tempo, pois isso é exatamente sobre o que é a produção da série: pega-se o que já tem cinquenta anos, reproduz na tela via streaming. E viva o lugar-comum e as pessoas que o adoram.
+Por fim, é impossível desassociar a narrativa da belíssima trilha composta por Ennio Morricone, que consegue comentar tanto os momentos dramáticos quanto as válvulas de escape em um mundo extremamente intolerante, mas ao mesmo tempo, e isso é vital para entendermos, inconsciente dessa intolerância. Os únicos olhos que se tornam conscientes são os de Renato, que são os nossos olhos, e assim como Totó de Paradiso é o único que acaba compreendendo o valor do Cinema como transformador de mundos.
 

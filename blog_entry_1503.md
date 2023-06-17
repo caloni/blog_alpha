@@ -1,27 +1,22 @@
 ---
-
-Bom, é hora de dizer tchau. Essa é minha última semana escovando bits na empresa onde estava por três anos. É estranho e esquisito dizer isso, mas me sinto um tanto aliviado. Nessa empreitada, porém, aprendi algumas coisas que valem a pena colocar na bagagem. Sempre é melhor entender do que criticar.
-
-Por exemplo, vejamos a palavra estranho: quantas vezes você já pronunciou essa palavra quando estava diante de um problema daqueles esotéricos? Muitas vezes, não foi? E os problemas não-esotéricos?
-
-Quando nos acostumamos a usar uma palavra para aliviar a dor de não entendermos o que está acontecendo diante de nós, visto pelos nossos próprios olhos, estamos nos condicionando a parar de cutucar nosso cérebro para encontrar uma resposta rápida e racional para o que está acontecendo. Em suma: nos fechamos ao mundo falando "estranho".
-
-Não por esse motivo, mas por estarmos cansados de tanto ouvir falar essa palavra, eu e meu amigo Thiago começamos a instituir uma "taxa simbólica" de 1 (um) real para os que proferirem a dita cuja, e passamos a usar o dinheiro arrecadado para o bem da comunidade, comprando o que nós, programadores, mais veneramos nos momentos de debugging: bolachas!
-
-Essa "medida provisória" aos poucos foi se alastrando pelas mesas do departamento, ao ponto máximo de todos da área técnica, além do diretor comercial, colaborar para a nossa "caixinha de um real".
-
-Criamos um ambiente livre de estranhos. E criamos um trauma em nossas cabeças. A partir das primeiras semanas, toda vez que estávamos em algum lugar em que uma pessoa desconhecida (um estranho) dizia a palavra, soava um sino em nossas cabeças, quase fazendo com que nossa mão acusadoramente se erguesse e fizesse o gesto com o dedo indicando que a pessoa, a partir daquele momento, estava devendo um real para nossa caixinha comunitária.
-
-E assim fomos indo, meses a fio, sem falar essa palavra na presença dos fiscais do um real, que éramos todos nós. A proibição foi linear e englobou todas as situações de vida social em que poderíamos nos expressar: no trabalho, no almoço, por mensagem instantânea, por e-mail, pelo celular, fora do trabalho, nos artigos do blogue...
-
-Pois é, caro leitor, nos artigos do blogue. Se você procurar nestes últimos três anos qualquer menção à palavra "estranho" por aqui com certeza não irá encontrar.
-
-Até agora, quando finalmente foi quebrado o encanto. Quer dizer, oficialmente a cobrança está extinta, mas nossas mentes sempre irão conter esse sino acusador tocando no ônibus, nas ruas, no cinema, no shopping, em casa. Enfim, nos códigos estranhos de nossa vida.
-
----
 categories:
 - writting
-date: '2022-05-17T21:15:52-03:00'
+date: '2020-07-11'
+link: https://www.imdb.com/title/tt0254312
 tags:
 - movies
-title: Estranhos no Paraíso
+title: Estrela Nua
+---
+
+No final da época das pornochanchadas, este filme, como se diz em grupos menores de homens, "paga peitinho", mas se veste de drama intimista, que é quando a coisa desmorona. Se levar a sério demais é o primeiro passo que todo filme ruim deve dar se quer se tornar péssimo a partir daí.
+
+Não que este o seja, pois ainda mantém o tema simpático dos dubladores brasileiros, sempre com orçamento apertado e um péssimo trabalho. E "o que não é feito nas coxas no Brasil? O que é enfiado no rabo, logicamente." é uma das melhores fala de toda filmografia nacional.
+
+Ela é loira, corta o cabelo curtinho e vira dubladora de uma atriz que morreu antes de dublar seu último trabalho. É um tema Almodovarístico e se pode fazer muito com ele, como Almodóvar geralmente faz, mas aqui a história engessa na chanchada e no pseudo-drama, se esquecendo que com esse orçamento o melhor a ser feito é apostar no trash. Estava indo bem e vira masturbação de estudante de cinema. É triste ver tanta pretensão jogando ótimos momentos, naturais, no lixo.
+
+Mas ele "paga peitinho", e era isso que importava em uma época em que brasileiro precisava de um incentivo para comprar os ingressos e sair de casa. Ele tem também uma parca mensagem política para preencher a tabela das necessidades de um filme brasileiro sair do papel. Faz lembrar em como cada trabalho para ser vendido em território nacional tem que preencher a cartilha ideólogica ou fora, mesmo que o filme em questão talvez quisesse em seu roteiro original apenas "pagar peitinho".
+
+Compondo o elenco um filho que sei lá pra que (servir de babá durante as filmagens?), um ex igualmente descartável, uma melhor amiga que viaja e se casa com um fazendeiro. A conclusão que homens, únicos que assistirão a este filme, é que merecia enxugar essa trama aí e ter mais peitinho.
+
+Mas não: alguém se achou esperto demais.
+

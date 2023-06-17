@@ -1,20 +1,21 @@
 ---
 categories:
 - writting
-date: '2016-10-12'
-link: https://www.imdb.com/title/tt2415458
+date: '2012-09-03'
+link: https://www.imdb.com/title/tt1764651
 tags:
 - movies
-title: Os Irmãos Lobo
+title: Os Mercenários 2
 ---
 
-Este documentário conta a história de vários irmãos que não podiam sair de casa durante a infância e alimentam sua visão do mundo através dos filmes. É interessante em alguns momentos, principalmente o seu começo, mas aos poucos ele parte para um estilo "casos de família" que apenas estende sua narrativa para virar um filme.
+Mercenários 2 já começa sua história querendo arrebentar o maior número de muros, cabeças e corpos humanos por centímetro cinematográfico quadrado. O som das armas parece verdadeiro, ou melhor: parece surreal. Não há nada pode deter o maior arrebatamento de heróis de ação de um passado já distante, mas que é aqui comemorado de uma maneira perigosamente indulgente.
 
-E, convenhamos, o tema sobre viver enfurnado em um apartamento boa parte da vida, assim como a alienação que vivemos hoje em dia, seriam ótimos combustíveis para a documentarista Crystal Moselle, que se limita a ser conduzida pelos meninos do filme.
+A história começa com um resgate genérico de um bilionário asiático, mas se transforma assim que o agente Churh (Bruce Willis) faz uma ligação para Barney Ross (Stallone) para um acerto de contas em troca da segurança de uma pequena caixa que contém o mapa de uma mina de toneladas de plutônio que, se cair nas mãos erradas, pode acabar explodindo com o mundo centenas de vezes (como se fosse necessário plutônio para explodir pessoas pelos ares).
 
-O mais fascinante no filme é a capacidade criativa dos meninos, que recriam de uma maneira intensa filmes como Cães de Aluguel e Pulp Fiction. Os diálogos são anotados no papel, e o figurino e a caracterização é levada a sério.
+O que vimos é uma sucessão de mais do mesmo de [Mercenários], só que melhor orquestrado. Há sequências de ação realmente eficientes, como a introdutória. É uma pena que se torna algo blasé justamente quando o filme resolve homenagear aqueles ícones com sequências onde pequenos mitos guerreiam e lutam juntos. De qualquer forma, fica o gostinho de assistir novamente aos clássicos onde essa galera fazia o que havia de melhor e com o bônus de um roteiro melhor qualificado (algumas vezes).
 
-Há uma ponta de necessidade do filme em se perder em seus relatos, e alguma coisa teatral obviamente escapou, tornando a experiência menos eficiente ainda.
+Podem falar o que quiser do novo filme do Stallone, mas não podem negar o óbvio: a aposta de juntar o maior número possível de peças de musel de filmes de ação de décadas passadas parece estar ganha. Quer dizer, pelo menos até [Mercenários 3].
 
-Válido pela história, desnecessário como filme. Assista se tiver curiosidade de conhecer a família Wolfpack.
+[Mercenários]: {{< relref "os-mercenarios" >}}
+[Mercenários 3]: {{< relref "mercenarios-3" >}}
 

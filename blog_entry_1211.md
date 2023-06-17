@@ -1,11 +1,11 @@
 ---
-
-Suave, frutado sem ser pesado, taninos sedosos; fácil de beber. Um pouco amargo (frutas maduras demais?), corpo médio pra suave, azedo equilibrado. Churrasco a dois no terraço.
+Frutado em corpo leve sem parecer geleia como Malbec, mas como frutas secas (ameixa) frescas. Festa mexicana casa da cunhada da Su.
 
 ---
 categories:
 - writting
-date: '2017-05-17'
+date: '2020-12-06'
+link: https://www.imdb.com/title/tt0101700
 tags:
-- food
-title: Del Fin Del Mundo Pinot Noir Reserva 2015
+- movies
+title: Delicatessen

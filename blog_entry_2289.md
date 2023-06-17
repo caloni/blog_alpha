@@ -1,25 +1,18 @@
 ---
 categories:
 - writting
-- blogging
-- coding
-date: '2023-03-26T12:47:27-02:00'
+date: '2020-02-02'
+link: https://www.imdb.com/title/tt0102587
 tags:
-- series
-title: O melhor teste técnico até agora
+- movies
+title: Memórias de Ontem
 ---
 
-As três séries citadas neste post foram: "Que Cilada!",  "Três Metros Acima do Céu" e "A Vida Mentirosa dos Adultos".
+Memórias de Ontem é um filme excepcional dos Estúdios Ghibli sobre personagens da vida comum. Feito nos anos 90 e lançado internacionalmente em 2015, somos levados pelo passado da criança Taeko através da mente da adulta Taeko, que usa suas férias no trabalho como desejaríamos fazê-lo se fôssemos corajosos a esse ponto, tal como a máxima do filósofo Henry David Thoreau: vida a vida que você sonhou.
 
-Hoje fiz mais um teste técnico. O melhor de todos. Não posso contar, por contrato, sobre o que ele se trata, mas posso contextualizar que não é um exercício de lógica, de estrutura de dados e de pegadinhas com complexidade de algoritmo para resolver problemas fictícios. Se trata de um problema que os devs da empresa tiveram que resolver, resolveram e agora pedem para que o candidato resolva. Dão nove horas para isso, começando quando quiser. O sistema de envio valida a compilação do código, que você pode enviar quantas vezes quiser, semelhante ao HackerRank, e no final, depois dos testes que eles atenciosamente lembram para você fazer, você clica no botão para submeter sua resposta. Caso falhe o sistema te diz por que falhou e lhe dá ainda mais uma segunda chance.
+O que torna as memórias do filme em algo agridoce é a interpretação sensorial e racional da Taeko adulta por trás de suas passagens tragicômicas de quando criança, ao finalmente viver o que não teve quando criança nas férias do seu trabalho. Enquanto somos levados pelo embalo psicológico de suas lembranças, Taeko repensa em como todos os nãos que recebeu poderiam significar uma mudança radical em sua vida no presente.
 
-Achei tudo muito correto, além de excitante. Lembra trabalho de verdade. É um simulacro do que seria meu dia a dia de trabalho após passar por todo o processo de contratação. Achei foda. Foi um dos dias mais divertidos desde que fui demitido.
+Este é um filme de "e se" maduro e lindamente desenhado pelos estúdios. A paleta de cores monocromática e quente das lembranças, seus contornos que lembram poesia e fascinação, e sua falta de bordas que nos remete diretamente às nossas próprias percepções de quando nos lembramos de algo vagamente e distante no tempo, além da música de fundo tímida que cresce na proporção com que o passado se torna mais forte. O resultado é arrebatador e emocionante. Arrebatador porque somos levados junto dela através de um passado muito característico, desenhado com paixão, do Japão na década de 60. Emocionante porque a trilha sonora vem no momento certo. Este é um filme com o timing emocional quase perfeito. Suas virtudes estéticas nos permitem enxergar uma história madura se configurando em tornos desses inúmeros "e ses".
 
-Não passei. A resposta não estava exatamente correta e não tinha muita certeza de alguns corner cases que o problema pedia, e não tinha pra quem perguntar. Não importa. Foi uma experiência curiosa. Talvez pense em resolver mais tarde.
-
-Hoje foi um dia de séries italianas. Três delas. Dormi na primeira, sobre alguma morte e dois comediantes em uma história requentada. A segunda é um cotidiano de colégio adolescente nas férias de verão com aquela diversidade que dá preguiça a partir do momento que olhamos. Há motocicletas de corrida e quase nenhuma personalidade nos personagens.
-
-A última pareceu mais promissora. É sobre uma filha mimada de uma família rica. O pai é distante burguês e a tia é uma renegada. O primeiro episódio termina com a sobrinha conhecendo a tia e as duas versões desse encontro, a primeira narrada pela filha ao reencontrar o pai e a segunda a versão que vemos ao som de Edith Piaf. As séries hoje em dia abusam da trilha sonora boa para disfarçar a falta de profundidade no drama. Mas a direção é agradável. Nada de mais, mas agradável. Há uma mescla entre anos 80 e 90 com atualidade. A caracterização da atmosfera é competente. Não deu sono. Ou poderia ter dado, mas a primeira comédia já me fez cochilar.
-
-PS: este novo formato de escrita de tudo no mesmo post, conhecido por blogging do modo chique e fofocando sobre a própria vida na internet de forma chula, é um teste para conseguir escrever mais sem uma pauta fixa. Estou tentando me desvencilhar dos títulos de filmes e séries agora que teoricamente me livrei deste fardo literário.
+Apesar de possuir um roteiro episódico e a separação didática de uma passagem por memória, sua edição fluida não reflete isso, pois pula entre presente e passado como partes indivisíveis do processo. É a magia da animação que não precisa da técnica para funcionar, mas com ela ganha um ar universal mesmo se tratando de uma história local. E seus personagens são tão vivos em seus movimentos e expressões que poderiam ser atores de carne e osso. Seus trejeitos tão bem equilibrados entre o caricato e o característico que dos traços emerge personalidade.
 

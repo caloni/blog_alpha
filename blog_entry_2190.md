@@ -1,31 +1,22 @@
 ---
 categories:
 - writting
-date: '2018-03-19'
-link: https://www.imdb.com/title/tt6045466
+date: '2014-04-14'
+link: https://www.imdb.com/title/tt1773185
 tags:
-- cinemaqui
-- movies
-title: Madame
+- animes
+title: Madoka Magica
 ---
 
-É uma comédia de costumes que analisa a elite decadente que janta em uma mansão em Paris como parte do jogo de ser rico. No meio deles está a governanta da anfitriã, disfarçada de realeza. Só que a história é menos sobre a plebeia e mais sobre como aquelas criaturas interagem com aquele brinquedo ocasional.
+A revisita a este animê que para mim ainda é meu favorito -- pela originalidade e pela fuga do lugar-comum e dos roteiros fáceis que a maioria das adaptações dos quadrinhos japoneses são submetidos -- foi feita em apenas uma noite. Mais de quatro horas depois posso reafirmar com convicção: é uma obra ousada para seu formato tanto em história quanto na direção/edição/arte. Desafia o espectador a esquecer os detalhes centrais de uma história que vai se abrindo muito lentamente, e sua força é sentida exatamente por esse cuidado em cada detalhe.
 
-E é essa interação que revela a habilidade da diretora e roteirista Amanda Sthers em captar o quão fascinante é o tom burguês secular que aquelas pessoas adotam enquanto todos parecem alheios à própria existência, ou à existência de outras pessoas na sala. Eles se acham relevantes, mas têm menos o que dizer que a plebeia. Quando um deles critica, de maneira automática e acéfala, Hugh Grant e os finais melosos de seus filmes, ele recebe um insight maravilhoso de como todos adoram finais felizes, e como as pessoas não conseguem evitar a esperança.
+Madoka Mágica é um trabalho caricatual que segue à risca a cartilha de heroinas de cosplay (ou, diria, se usa desse artifício como metalinguagem e crítica ao gênero), mas, mais do que isso, segue um tratamento estilizado e inspirado levemente no surrealismo, mas que empurra a animação para além das histórias de luta ao lidar com conceitos complexos como auto-sacrifício, religião, viagens no tempo, destino e física teórica (além de vida extraterrena) sem perder seu ritmo com história secundárias bobinhas para fazer rir/ganhar tempo. É uma fantasia com um pé na ciência, um pé na filosofia e outro pé na arte. Esse tripé mantém a câmera posicionada nos lugares mais inusitados para capturar cada quadro como se esse fosse uma obra de arte única a resumir aquele momento através de sutis e significativos movimentos.
 
-"As pessoas..." é a ultima frase do filme e sobre o que este filme fala.
+E há vários momentos que merecem ser congelados para nossa apreciação.
 
-Para isso funcionar de maneira tão certeira como aqui funciona, dois elementos são vitais: os personagens e suas interpretações. E os dois estão afiados com a maneira que Sthers enxerga as pessoas. Basicamente como símbolos. Vamos à metáfora mais permanente.
+A história gira em torno de Madoka Kaname, uma garota comum que encontra um bicho estranho e mágico que revela que existem garotas mágicas que lutam contra bruxas e salvam pessoas de suicídios. Na verdade, revela mais: ela e sua amiga, Sayaka Miki, podem se tornar garotas mágicas também, e a recompensa por este feito heróico é terem um desejo, qualquer desejo, realizado pelo tal bicho mágico.
 
-O jantar em questão deveria ser de 12 pessoas, mas um "apóstolo" indesejado, o filho alcoólatra da família, chega sem avisar. Na Santa Ceia, constituída de 13 pessoas, o cabalístico número do azar, o décimo-terceiro convidado é Judas. Para evitar esse número a Madame coloca sua governanta como a de número 14, que se revela como sua maldição quando um influente amigo (Michael Smiley) se interessa por ela.
+O curioso da série é que ela não tem pressa em realizar o que 90% das produções semelhantes ocidentais fariam: um grupo de garotas lutando contra o mal a la Meninas Superpoderosas. No fundo, o "mal" aqui não está materializado e nem tem desejo de fúria. Ele é um conceito, e relativo, dependendo do ponto de vista. Sequer há emoções em jogo. Na verdade, é mais profundo que isso: a emoção aqui é usada de uma maneira completamente diferente. Uma Meninas Superpoderosas para gente grande.
 
-A simbologia não acaba por aí. Outro tema do filme é a falência do patriarca, que tenta vender uma Santa Ceia pintada por um artista famoso para sobreviver mais um tempo. O nível de decadência da burguesia é tamanha que até a religião teve que ser vendida. Onde chegamos na característica mais peculiar do longa: Judas possuía seu próprio evangelho. E, assim como Mateus, Marcos, Lucas e João, Judas também possui sua versão da história sendo escrita (o filho da família de anfitriãos também é escritor, e encontrou sua próxima história quando encontrou a governanta da família no meio do jantar).
-
-Toda essa simbologia vai sendo captada conforme o filme passa do interessantíssimo jantar para o que vai ocorrendo depois. Não se trata de uma narrativa amarrada, com final certinho, mas uma história que captura os momentos-chave sobre o que acontece quando uma serviçal participa do mundo dos ricaços. É interessante notar que a história abriga no jantar representantes dos impérios modernos, como Inglaterra, Estados Unidos, França.
-
-Toni Collete é a Madame do título, e nos entrega uma mulher repulsiva sem sair dos saltos. Ela consegue no mesmo segundo fazer um comentário que soa bondoso ("me sinto bem em ajudar uma filha talentosa como a sua") e após um sorriso convencional, realizar a chantagem mais odiosa, pois apela para os sentimentos ("odiaria ter que parar de fazer isso"). Enquanto isso, seu marido, interpretado por um Harvey Keitel inspiradíssimo, exibe todo seu talento em soar sarcástico enquanto caminha ladeira abaixo em sua posição financeira. É dele as melhores falas, mas são melhores apenas porque é Keitel que está dizendo.
-
-Já Rossy de Palma, como Maria, soa autêntica. Ela em momento algum muda seus hábitos de governanta, e nos deixa perceber como os velhos costumes a atrapalham no novo ambiente quando se levanta para ajudar uma criança a cortar a carne da refeição. Ela se torna um alívio cômico sem exageros, o que serve também para o lado humano do longa, que é rodeado de criaturas grotescas que parece olhar a todo momento para seu próprio umbigo. Sua postura de nunca se entregar ao vitimismo é o que nos permite aproveitar o show.
-
-Com momentos inspirados que extraem o verdadeiro significado do que é fazer parte de uma sufocante e decadente burguesia, "Madame" entretém do começo ao fim e no caminho nos entrega mais do que "foi pedido": uma análise social ácida escondida no meio das risadas.
+Mas além da empolgante história o que cativa mesmo o espectador é a qualidade narrativa criada não apenas a partir dos sensacionais traços dos criadores, mas de uma invejável e coesa trilha sonora (Yuki Kajiura) e uma fotografia de cair o queixo (Shinichiro Eto). Tudo isso, com a edição de Rie Matsuhara, combina em uma experiência sensorial cada vez mais fácil de ser encontrada em séries de TV ambiciosas e menos nos cinemas comerciais.
 

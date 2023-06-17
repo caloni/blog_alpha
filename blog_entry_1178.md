@@ -1,14 +1,12 @@
 ---
-
-O final das pornochanchadas dá origem a este filme da diretora Ana Carolina, seguidora de Godard na linha de frente contra a lógica opressora burguesa. Ela abandona todo e qualquer sentido neste trabalho onírico que documenta as cantigas e brincadeiras de boca suja de um colégio de garotas e da insinuação de sexo a todo momento com todo mundo. Ela pode levantar a bandeira libertina enquanto não mostra nenhuma nudez nem sexo daquelas garotas com pessoas mais velhas, pois do fundo de um artista da contracultura há uma moral careta como qualquer outra.
-
-Os devaneios do personagem de Antônio Fagundes fazem eco com os devaneios vindouros de uma nova democracia: a democracia impossível. Este é um filme 100% brasileiro que não consegue se desvencilhar de nossa incapacidade de conciliar a miscelânea cultural, para não dizer bagunça, que vivemos.
-
-Ele é divertido em boa parte do tempo, e no resto dele enfadonho. Os exageros e os gritos se tornam repetitivos. No começo o absurdo encanta, mas logo depois se perde o interesse. Como uma criança birrenta que apronta o tempo todo, ela só merece atenção nos primeiros minutos até entendermos que se trata apenas de uma criança birrenta.
-
----
 categories:
-- coding
-date: '2016-08-16'
-tags: null
-title: DBAccess
+- writting
+date: '2012-10-28'
+link: https://www.imdb.com/title/tt0444653
+tags:
+- movies
+title: De Bico Calado
+---
+
+O pastor de uma pequeníssima comunidade com cerca de 50 habitantes (Rowan Atkinson) possui como preocupações diárias uma palestra que precisa proferir no encontro de pastores. Enquanto isso, sua cansada esposa (Kristin Scott Thomas) começa a planejar uma fuga com seu amante professor de golfe (Patrick Swayze). A vinda da nova governanta (Maggie Smith), porém, pode mudar completamente o que o pastor e sua esposa tinham em mente. De Bico Calado é ágil como deve ser uma comédia com pouquíssimas e pontuais tiradas, e se dedica a fazer um rodízio entre esses poucos temas. É leve para um humos britânico, e esquecível logo depois de assistido.
+

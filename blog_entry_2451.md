@@ -1,24 +1,21 @@
 ---
 categories:
 - writting
-date: '2021-09-26T21:42:08-03:00'
+date: '2022-10-26T19:50:17-03:00'
 tags:
 - cinemaqui
+- mostra
 - movies
-title: Na Ponta
+title: Nação Valente
 ---
 
-Este filme é uma farofa russa que usa todo o protocolo. Tem música dramática, transições de ação, reviravoltas já manjadas, riscos controlados. Até o final já sabemos, pois o resultado das Olimpíadas do Rio em 2016, clímax do filme, já é conhecido de todos, e o filme bate com a realidade (exceto o nome dos personagens). A questão de todo embate nos esportes quando se passa no cinema é: qual o real motivo da história? Nunca é a vitória por si só. Pelo menos não nos bons filmes.
+Grupos nacionalistas não costumam ser bem vistos, mas e quando além de nacionalistas eles também são zumbis? Nação Valente, vencedor de melhor filme europeu no Festival de Locarno, é um épico que trata de questões históricas da década de 70 sobre Portugal. Essas questões estão presas, entaladas na garganta do povo português, mas também na história de uma terra estrangeira tomada pelo colonialismo.
 
-Esse não é um deles. Porém, entretém mesmo assim. Essa é o velho esquema da lutadora veterana dando lugar para a impulsiva, rebelde, arrogante novata. A melhor parte do filme é ver ambas duelando com palavras, e a pior parte são as cenas de esgrima. A direção de Eduard Bordukov caminha por todos os clichês hollywoodianos de cenas de ação, com direito a câmera lenta, ultra-zoom, giros nada elegantes e uma completa falta de noção de espaço. Nunca vemos uma luta de esgrima no filme inteiro em que é possível entender o que é esse esporte moderno; não apenas seus modernos detectores de toque, mas os movimentos em si, do começo ao fim. O excesso de cortes confunde e aliena.
+O filme de Carlos Conceição acompanha um batalhão de soldados isolados em Angola. Eles estão há décadas por lá e não têm a menor ideia de quanto tempo passou. A retomada da região pelas tribos locais envolveu mantê-los presos em terra estrangeira sem nem eles mesmos saberem. A guerra já acabou faz tempo, mas na mente desses soldados a loucura permanece.
 
-Então o foco acaba sendo nas personagens. Svetlana Khodchenkova como Aleksandra Pokrovskaya é uma escolha adequada de postura. Quem assistiu a O Espião Que Sabia Demais deve lembrar dela como Irina. Ou não, aquele filme é tão confuso que fica difícil se desvencilhar da trama. De qualquer forma, seu tom melancólico e amargurado serve como um bastião amargo de passagem para a novata Kira Egorova, que nas mãos da jovem e mirrada atriz Stasya Miloslavskaya estabelece um bom contraponto entre energia e desenvoltura, embora não a postura de uma campeã. Em nenhum momento acreditamos nisso.
+Uma das sacadas do filme é manter esse mesmo suspense para o espectador. Não sabemos quanto tempo passou, apenas que foi muito. É comum haver história de soldados que ficaram sem comunicação por anos a fio sem saber sua próxima missão. Então eles simplesmente ficam no local aguardando ordens. E muitos deles começam a sentir uma saudade imensa da mãe, o que é um símbolo curioso se você pensar no evento traumático, violento e irracional, que acontece no começo da história.
 
-O treinador de ambas e da equipe russa que irá para as Olimpíadas, Konstantin, interpretado pelo simpático Aleksey Barabash, é simpático demais como treinador. Não acreditamos em suas palavras ríspidas. Nada convincente como alguém que tenta elevar o espírito de suas atletas além do aceitável. E apesar disso ele está na capa do filme.
+Diferente de História contada em sala de aula as circunstâncias aqui são mais fantasiosas e de certa forma mais atraentes, porque apela para nossa visão subjetiva, emocional, de qual foi o real impacto para os habitantes. O exemplo mais impactante é que os nativos que eram mortos naquela época não podiam ser velados pelos obrigatórios três dias de cantos pelos vivos porque o homem branco os ouviriam e os matariam também. Só que isso faz mal para a alma do defunto, que não se aquieta, e pode levantar do túmulo. E nos sonhos mais terríveis isso de fato acontecia.
 
-Aliás, tudo é muito burocrático em Na Ponta. Todas as reviravoltas já são conhecidas do público médio dessas obras. Como uma telenovela de duas horas, apenas acompanhamos o desenrolar da nada surpreendente história e passamos a prestar atenção em detalhes da confecção do filme em si em vez de sermos capturados pelos dramas dessas pessoas. As próprias interpretações não nos mostram drama algum.
-
-Os tons escuros da fotografia ajudam a montar o palco onde a ação se desenrola, geralmente cenários internos ou externos com ajuda de computação. Esse detalhe fica bem óbvio nas sequências "filmadas" no Rio de Janeiro, próximo do final, mas você poderá notar também nas cenas de Paris e Genebra. Quer dizer, acho que é Genebra, as legendas não diziam os locais, apesar deles aparecerem no início das cenas. Mas as legendas diziam duas coisas "importantes": os créditos iniciais (incluindo diretor de fotografia) e quando alguma música da trilha sonora começa a tocar. Esta é a única legenda com problemas do Festival de Cinema Russo. Todas as outras merecem os parabéns pela dedicação, em especial aos créditos.
-
-Por que estou falando de fotografia e legendas? Ah, sim, porque já disse tudo que tinha que dizer sobre o filme em si. Uma farofa. Para fãs de esgrima, assistam ao playback das Olimpíadas. Para os fãs de cinema, assistam aos outros filmes do festival (que está demais). Para o embate entre Kira e Sasha, prefira o da vida real.
+A linha entre a morte e a vida é ultrapassada, ou muito tênue. E a saudade dos que ficaram é imensa, de ambos os lados. Só há dores em Nação Valente, e o filme explora o sentimento de dor de vários ângulos. Faz uma sessão dupla boa com Mosquito, outro filme que já passou em Mostras passadas. Se enxerga muita culpa do povo português nessa cinematografia sobre as dívidas do passado. E também se enxerga muita violência. Ao menos eles não têm medo de retratar a brutalidade dos acontecimentos, que choca, mas é por motivo justo.
 

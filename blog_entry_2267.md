@@ -1,22 +1,28 @@
 ---
 categories:
 - writting
-date: '2018-12-07'
-link: https://www.imdb.com/title/tt0117008
+date: '2017-09-18'
+link: https://www.imdb.com/title/tt0242653
 tags:
 - movies
-title: Matilda
+title: 'Matrix: Ghost in The Shell'
 ---
 
-Matilda passa na regra dos 15 anos. Se trata de um filme infantil, com premissas infantis, enxergadas do ponto de vista de uma criança. Mas, perdoem os maniqueísmos, é uma louvável lição sobre como quando as coisas certas acontecem nos ambiente errados.
+De todas as teorias malucas criadas em torno da trilogia das Irmãs Wachowski, acredito que esta que tenho para lhes falar supera em simplicidade e elegância. Por isso mesmo acredito que esta seria a solução empregada por elas caso quisessem deixar toda a trama às claras. Felizmente, não quiseram, o que deu vazão para um esoterismo e obscurantismo que torna o conjunto de três filmes indecifrável. Mas, fala sério. Sou programador. Depois de Ghost in the Shell as coisas têm se tornado mais claras ainda. Quer ver como toda essa fábula é explicada por ela mesma?
 
-Em primeiro lugar a história exalta a inteligência, livre espírito e iniciativa de Matilda, que no sorriso peralta e ao mesmo tempo honesto de Mara Wilson vira uma base moral para toda a história, recheada de adultos que, alheios à vida virtuosa e engrandecedora, simplesmente não entendem. Pior: tentam a todo momento esmagar a individualidade dos pequeninos no filme.
+Preciso dizer que Spoilers irão ser enviados pelas máquinas nos próximos parágrafos?
 
-O roteiro de Nicholas Kazan e Robin Swicord abraça completamente o ponto de vista infantil e cria uma fábula bem-intencionada. Torcemos obviamente pelo sucesso de Matilda, pois ela é o bem absoluto no filme. Ela e sua adorável professora. Mas não queremos o mal de seus pais ou da implacável diretora da escola (nas mãos da possuída Pam Ferris). Por quê? Oras, eles simplesmente não entendem. Vivem suas vidas auto-centradas de adultos, em seu mundinho minúsculo e mesquinho. Isso revela grande parte da humanidade hoje em dia. Matilda é a heroína da história porque ela se recusa a participar do circo animalesco que os humanos fazem com suas vidas.
+A primeira e principal pista para entendermos o que se passa em Matrix Reloaded é o discurso final do Arquiteto. Ele explica sobre o código malicioso que é colocado de propósito na Matrix para que haja um movimento de revolta dos humanos, uma profecia, e que tudo isso se concentre na figura do Escolhido. É o Escolhido que carrega este código, e já houve vários deles. Neo é apenas mais um, com sutis diferenças que apontarão para uma mudança drástica no caminho delineado pelo personagem de Helmut Bakaitis (que, claro, também é um programa de computador).
 
-Este é um filme colorido, com magia, mas acima de tudo, com coração. Ele não se entrega à dura realidade onde mágica não existe, mas tampouco nos diz que isso não é possível e que é apenas uma fábula. É uma metáfora do poder que nosso cérebro possui quando ganha conexões, muitas conexões, sobre o infinito mundo lá fora. A frase mais linda do filme é quando o narrador afirma que Matilda, tendo lido grandes livros de aventuras de diferentes e consagrados autores, descobre que não está sozinha neste mundo.
+No entando, como este discurso é muito complexo, cheio de detalhes feitos para confundir o espectador, peço que preste atenção não a ele, mas à fuga do Agente Smith da realidade virtual para a qual foi criado. Ele vira um vírus e uma de suas cópias escapa para o cérebro de um dos humanos de Zion. A partir daí é ele que toma controle desse humano e as máquinas o respeitam. Ele é um agente infiltrado, apesar de ser um bug. Ele não é herói nem vilão, mas um problema a ser resolvido por ambos os lados.
 
-Os efeitos estão passados, mas a direção de arte não. E a própria direção de Danny DeVito, que participa como o pai de Matilda e vendedor canastrão de carros usados, usa com perfeição os enquadramentos grandiosos dos cenários que são usados para ilustrar este livro infantil em forma de filme. Tudo funciona no universo de Matilda, exceto talvez a tensão, que é aliviada por muitas palmadas nas costas dos oprimidos.
+O que ocorre no final de Reloaded e em todo Revolutions é que Neo aparentemente consegue controlar as máquinas do lado de fora da Matrix e também enxergá-las, apesar de ter ficado cego. Isso não deveria ser uma surpresa se nos lembrássemos que, uma vez que vimos que é possível a programas como Smith se infiltrar no cérebro de humanos e assim controlá-los direto na realidade, nada mais justo que os humanos presos no gigante casulo estejam à mercê do mesmo procedimento.
 
-De qualquer forma, se você está com seu espírito um pouco desanimado, pensando talvez que não valha a pena o auto-crescimento, se veja com novos olhos, os olhos mais mágicos que existem em nossa humanidade: os que têm a visão de uma criança após abrir seu primeiro livro. E sua mente, que se expande e que nunca mais se contrai.
+E é exatamente esse o procedimento de injetar código que o Arquiteto se refere quando se dirige a Neo.
+
+Imaginemos, então, que um processo semelhante foi feito em Neo. Código de um programa da Matrix foi injetado nele, assim como o programa Smith foi injetado no outro humano. Porém, não totalmente, mas apenas uma parte. Neo manteve sua consciência. Não precisamos tirar isso dele. Porém, ele também ganhou a capacidade de mudar as regras físicas da Matrix e de controlar as máquinas pelo lado de fora (além de enxergá-las sem precisar de olhos humanos). Tudo isso graças a código de computador inserido em seu cérebro.
+
+Dessa forma, toda a fábula de realidade virtual vira uma maneira do romance Ghost in The Shell de se expressar por caminhos mais obscuros. Humanos são escravizados por máquinas, que possuem Inteligência Artificial, e que descobre que conseguem realizar elas também patchs de atualização no cérebro de humanos, que viram parte humano, parte máquina. Ou até totalmente máquina.
+
+Se bem que o que eu chamo aqui de máquina é simplesmente código que não foi gerado por DNA. Tanto o cérebro humano quanto a IA das máquinas é o mesmo processo. Todos estão conectados. E é aí que reside a beleza da trilogia. Ela não tem uma conclusão correta, nem interpretações para a trama fechadas. Estamos falando sobre consciência e inteligência, mas não apenas de humanos. É uma guerra de consciências, e entender que máquinas com IA somos como nós é vital para entender como Matrix ainda continua milênios à frente do que nossa vã filosofia tecnológica tenta imaginar para o nosso futuro.
 

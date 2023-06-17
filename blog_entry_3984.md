@@ -1,27 +1,18 @@
 ---
 categories:
-- writting
-date: '2016-06-09'
-link: https://www.imdb.com/title/tt3480164
+- coding
+date: '2016-08-12'
+link: https://youtu.be/78bYgerQVt4
 tags:
-- cinemaqui
-- movies
-title: Vida Selvagem
+- videos
+title: 'Vídeo: Depurando código C++ no Visual Studio'
 ---
 
-Vida Selvagem conta a história verídica de um pai (Mathieu Kassovitz) que sequestrou seus filhos (David Gastou, Sofiane Neveu) para viverem no mato. Os fatos são descritos de uma maneira que não deixa muitas brechas para interpretação. As cenas fazem parte de uma narrativa apressada, intimista e, de certa forma poética.
+Olá de novo. Este é o segundo vídeo da série "o que que eu tô fazendo no YouTube?". Dessa vez abri o Visual Studio para depurar um código de 10 linhas com um bug absurdamente absurdo, mas que pode enganar muita gente. Há quem acredite que esse bug foi proposital, mas não foi. O importante é que ficou muito legal. Vamos ver?
 
-O que mais encanta no filme é sua história, impressionante e que dá asas à imaginação. Conforme a acompanhamos, e vemos o tempo passar para os envolvidos, repensamos o conceito de civilização moderna, onde um pai pode, sim, ser privado e até preso por cuidar dos filhos, e uma mãe possui, sim, o privilégio de ter a guarda padrão até que a lenta justiça caminhe. Não é questão de tomar a opinião contrária, mas de refletir a respeito de por que as coisas são assim.
+Pra começo de conversa, é importante ressaltar que este é um vídeo introdutório, para quem deseja começar a programar em C++, ou até para quem quer alguma dica de uso da IDE do Visual Studio. Já trabalhei algumas décadas (uma e meia) com a ferramenta, quando ainda se chamada Visual C++ e foi horrorosamente renomeada para Visual Studio .NET (arght!!!). Com o tempo fui me acostumando com a lerdeza cada vez mais crescente da ferramenta, acreditando piamente que um dia iriam transformar tudo em Java para ficar mais rápido.
 
-Da mesma maneira, ao acompanhar a vida "selvagem" do título, repensamos quais as bases dessa civilização, e por que elas existem. É impossível separar a invenção da propriedade privada e os contratos entre pessoas do respeito ao próprio indivíduo. Essas coisas são citadas no filme, em situações que ilustram como selvagem pode ser alguém que não está nem aí para as regras estabelecidas de comum acordo (não sujar um lugar comum) ou alguém que não respeita a propriedade dos outros, nem que seja um simples documento.
+Acho que não foi o caso. De qualquer forma, o vídeo acima tem o potencial de funcionar em quase qualquer versão do Visual Studio. Portanto, não se acanhe se ainda está mexendo em projetinhos jurássicos com o .NET 2003 (eu estou, mas só abro em emergência). Tudo deve funcionar exatamente como está no vídeo.
 
-Ao mesmo tempo, o filme dá motivos de sobra para desdenhar das absurdas leis que regem o comportamento humano. Afinal de contas, a sociedade julga um pai não pela forma com que ele cria seus filhos, mas pela diferença em relação à norma.
-
-Sim, há muita filosofia nessa história que também mexe com o coração. Aprendemos a entender o drama dessa família, e para isso temos interpretações fabulosas do elenco-mirim, que logo depois se torna mais fabuloso ainda pela comparação dos jovens que se tornaram (interpretados por Romain Depret e Jules Ritmanic).
-
-Não há muito dialogo expositivo, e essa é uma experiência quase toda visual. Por isso é essencial o figurino e a direção de arte, que estabelecem não só a essência de cada personagem por suas vestimentas -- e como isso muda, principalmente na mãe (Jenna Thiam, visceral) -- mas também a ilustração de uma vida rústica, mas nem tanto, pois o pai é alguém instruído, e vive essa vida por opção. Viver na natureza é um sonho compartilhado por muita gente que mora na cidade e que não teria coragem de vivê-la, abrindo mão do conforto e consumismo. Pois bem: este é o resultado de um meio caminho, já que obviamente a família ainda se mantém "refém" do capitalismo para algumas coisas,  como roupas, cadernos, e até um simples lápis; do contrário, não haveria como conseguir coisas tão baratas ou acessíveis.
-
-Com uma direção disposta a entregar a experiência completa, este é um filme que se beneficia do controle enxuto de Cédric Kahn. Nenhuma tomada é feita à toa, e tudo é filmado seguindo basicamente o livro da família Fortin, apenas com diálogos compilados por Nathalie Najem e o próprio Kahn. A câmera na mão e as tomadas estilo filme independente são sacadas de gênio, pois se o filme fala de viver uma vida mais simples, este é um filme produzido de uma maneira mais simples que o normal.
-
-O que de maneira nenhuma desmerece todo o trabalho feito em Vida Selvagem, que surpreendentemente se constitui como uma experiência fugaz das histórias batidas que estamos acostumados a ver.
+Ou não. Nesse caso, RTFM ou comente aqui =)
 

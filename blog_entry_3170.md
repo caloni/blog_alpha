@@ -1,33 +1,16 @@
 ---
-categories: []
-date: '2012-05-27'
-tags: null
-title: Problemas comuns no WinDbg e suas soluções
+categories:
+- writting
+date: '2014-12-20'
+link: https://www.imdb.com/title/tt1307068
+tags:
+- movies
+title: Procura-se um Amigo para o Fim do Mundo
 ---
 
-Depois de uma agradável manhã e tarde acompanhando o [curso de desenvolvimento de drivers do meu amigo Ferdinando](http://driverentry.com.br/blog/?page_id=16) voltei para a casa para brincar um pouco mais com o mundo kernel e voltar a encontrar problemas com o WinDbg & Cia que há mais ou menos 1 ano atrás não tinha.
+Esse filme começa com uma premissa interessante e um tanto absurda: foi declarado que um meteoro irá se chocar com a Terra em 21 dias e que todos irão morrer. No mesmo instante a mulher do personagem de Steve Carell (sua própria esposa, Nancy Carell) sai do carro e foge de sua vida. No dia seguinte o vemos indo ao serviço como se nada tivesse acontecido e, o pior: há pessoas indo trabalhar normalmente.
 
-Pesquisando por um problema específico envolvendo PDBs reencontrei o [blogue do Ken Johnson](http://www.nynaeve.net/), MVP Microsoft e analista por profissão e diversão, é conhecido por suas excelentes contribuições no mundo da depuração de sistema (notadamente WinDbg). Existe um post específico que ele escreveu para economizar tempo com problemas que ocorrem de vez em quando em uma sessão ou outra de depuração, mas nunca paramos tempo o suficiente para resolver.
+Bom, se a premissa começa absurda, ela se torna insustentável conforme o contador colocado de tempos em tempos pela diretora Lorene Scafaria se aproxima do dia do Armageddon. Steve Carell conhece a personagem de Keira Knightley, que é namorada de um hippie emotivo estranho e gosta de fazer caretas e divulgar seus sentimentos para qualquer estranho que acaba de conhecer. Ambos possuem um motivo fraquíssimo para viajarem juntos após abandonarem suas casas de um motim: ele quer se reencontrar com um antigo amor que lhe enviou uma carta três meses atrás e ela quer se encontrar com sua família mas perdeu o último voo. Ambos também possuem um motivo fraquíssimo para se apaixonarem, já que Carell (ou seu personagem, Dodge) é um homem que prefere viver seguro e com tudo sob controle (e que não possui qualquer reação saudável ao descobrir que vai morrer, ao contrário de todos os seus amigos), enquanto Knightley (ou seu personagem, Penny) é emotiva, uma romântica inveterada e que adora tomar decisões erradas em sua vida... é, talvez haja, no fundo, um bom motivo para esse casal ficar junto.
 
-Além de outros, ele lista alguns que particularmente já aconteceram comigo ou com colegas de depuração:
-
-**O WinDbg demora um tempo absurdo para processar o carregamento dos módulos e está usando tempo máximo de processamento em apenas uma CPU.**
-
-Isso ocorre porque existem breakpoints ainda  não resolvidos. Resolva deixando apenas esses tipos de breakpoints que são absolutamente necessários, pois cada vez que um módulo é carregado o depurador precisa fazer o parser de cada um deles para verificar se ele já consegue resolve-lo.
-
-Às vezes, porém, existe algum lixo nos workspaces carregados por ele que permanecem mesmo depois de apagarmos todos os breakpoints inúteis ou reiniciar o sistema. Em último caso, sempre podemos apagar o workspace do registro, em **HKCU\Software\Microsoft\Windbg\Workspaces**.
-
-**O WinDbg continua demorando décadas para analisar o carregamento, mas agora nem consome tanta CPU assim.**
-
-Isso ocorre porque na cadeia de paths para procurar por símbolos existe algum endereço de rede/internet errado que faz com que ele tenha que caminhar em falso diversas vezes. Esse e outros erros de símbolos sempre poderão ser analisados através do universal **!sym noisy**, que imprime todo tipo de informação útil do que pode dar errado durante um .reload explícito (eu digitei) ou implícito (lazy reload).
-
-**O WinDbg continua recusando carregar um símbolo que eu sei que existe e sei que é válido.**
-
-Talvez ele exista, mas por algum motivo foi copiado corrompido para o symbol server. Mais uma vez, **!sym noisy** nele e deve acontecer algum erro de **E_PDB_CORRUPT**. Nesse caso, apague o PDB culpado e tente de novo.
-
-E, como brinde, um grande aliado da produtividade: **como evitar que o WinDbg bloqueie seu PDB enquanto você precisa constantemente recompilar seu driver:**
-
-.reload -u modulo
-
-Fonte: Blog do [Nynaeve](http://www.nynaeve.net/?p=164).
+Sem a menor intenção de abortar o plano maligno de acabar com a espécie humana, Scafaria parece se divertir com o fato do casal ter se conhecido apenas alguns dias do final do mundo e se apaixonado. Maior sadismo você nunca verá em uma comédia romântica.
 

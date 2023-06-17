@@ -1,23 +1,22 @@
 ---
 categories:
 - writting
-date: '2016-04-27'
-link: https://www.imdb.com/title/tt3596952
+date: '2016-12-21'
+link: https://www.imdb.com/title/tt1615147
 tags:
-- cinemaqui
 - movies
-title: Maravilhoso Boccaccio
+title: Margin Call - O Dia Antes do Fim
 ---
 
-Fracamente inspirado no Decameron, a coletânea de novelas do autor italiano do Século 14, Maravilhoso Boccaccio é filmado como uma grande novela de contos, além de sua produção lembrar tanto uma peça de teatro quanto produções televisivas de baixo orçamento. Ainda assim, possui o mérito narrativo em suas ótimas e curtas histórias.
+Hoje Margin Call já tem mais de quatro anos de quando foi lançado. É uma conversa pra lá de realista sobre qualquer empresa de investimentos em 2008 que teve a sacada final de que tudo o que haviam feito nos últimos anos não valia praticamente nada. O filme não dá a menor dica para o espectador sobre o que está acontecendo exatamente, o que é ótimo, pois isso comprova hoje que ele envelheceu tão bem que nem é necessário que ele fale sobre a crise recente. Pode ser um outro momento mais à frente, ou no passado. Que diferença faz? No final das contas, as manipulações estatais na economia sempre irão gerar, inevitavelmente, mais crises.
 
-O pano de fundo é a Itália na época da Peste Negra, quando pessoas morriam aos montes e alguns belos jovens se isolaram de Florença, indo viver em uma casa no interior por alguns dias. Só para sentir o dramalhão que os diretores Paolo Taviani e Vittorio Taviani se envolveram ao adaptar Bocaccio, temos uma cena no início em que um pai enterra esposa e filho em uma das fossas coletivas das vítimas da praga, e os protege das pazadas de terra que recebem.
+Esta é uma reunião que vai escalando rápido. Após um downsizing inicial, onde o maior analista de riscos da empresa é mandado embora, um de seus colegas analisa os dados que ele estava prestes a revelar, e descobre que o fim está mais próximo do que ele imagina. Isso vai disparando um efeito de escritório conhecido como "quem come quem". Todos aos poucos vão sendo envolvidos: estagiário, supervisor, gerentes, diretores. Até a chegada do capitalista malvadão, o dono da empresa. De helicóptero (é claro!). E é aí que começa a festa.
 
-A trilha sonora pitoresta da TV, os zooms exagerados, os ângulos teatrais e a história contada como uma poesia mal amarrada tornam a experiência de ver cada um dos jovens contar uma história para não se entediarem uma oportunidade para relaxar e deixar fluir a imaginação em torno da época. Infelizmente, tal qual a recente "superprodução" brasileira Os Dez Mandamentos, o figurino disfarçado de antigo não ajuda, ainda mais quando vemos uma calcinha moderna escondida entre os panos de uma moça.
+Escrito e dirigido por J. C. Chandor, não estou certo se esse era o objetivo de Chandor, mas este filme é um estudo independente de personalidades em escritórios. Temos o cara que sempre quer saber quanto cada um "está tirando" de salário e bônus. Temos os técnicos que realmente fazem o trabalho, mas cuja discrição logo os tornam vulneráveis a processos de downsizing. Temos os gerentes gerais promovidos muito cedo que se comportam como garotos mimados de quinze anos. E temos, aos montes, aquelas pessoas que ficam na defensiva, esperando o momento certo de pegar a peteca e jogar pro coleguinha.
 
-Porém, as histórias possuem suas virtudes, principalmente as últimas. O processo todo de acompanhar cada história, interpretada pelos próprios atores da "trama" principal, é um aprendizado dessa dinâmica, onde não há nada mais a ser contado do "lado de fora" desse vai-e-vem dos personagens principais.
+Dessa forma, Margin Call não é exatamente um filme só sobre a crise de 2008. Não obstante, a história monta uma alegoria simples e eficaz que pinta os donos de bancos de investimentos como os arquitetos do capitalismo. Vemos todos os personagens, em sua maioria, do topo de um prédio onde se vê toda a cidade. A forma com que o dono da empres em questão fala dá a entender que ele faz parte de um grupo muito seleto de senhores que dá todas as cartas no mundo inteiro de como os mercados devem funcionar (o nome do grupo é Iluminati, google for it), sempre (é claro!) às custas dos mais humildes, pessoas simples que não tem nada a ver com isso (exceto apoiar um modelo corporativista e de alta regulação financeira que torna qualquer estado um manipulador de bombas-relógios para o mercado, como foi o caso da última crise, a penúltima, todas as passadas e futuras).
 
-Dessa forma, é muito mais interessante ver a história do artesão ingênuo que acredita ter encontrado uma pedra que o torna invisível, ou de uma madre superiora dando um sermão a uma das freiras sobre luxúria com uma cueca na cabeça, ou até mesmo a história mais forte de todas, a de um falcão que se torna o melhor e único amigo de um caçador que vai à falência. Esses são passatempos que valem a pena se deliciar em torno da estrutura episódica do filme. Porém, sempre ao seu final ressurge a sensação de estar apenas acompanhando uma espécie de seriado com mini-episódios de curtas independentes e que nunca se relacionam com nada. Qual a moral da história? Há muitas morais a ser extraídas, mas nenhuma ideia do que os autores imaginaram ao juntar todas essas histórias.
+Há um momento em que o chefão até começa a contar os anos de crashs casualmente. 2007, 1932, 1984... ele já está acostumado a esse jogo. Como não estaria? Desde que foram criados os bancos centrais, há quase 100 anos, tudo que o mundo vê são mais e mais crises financeiras. Curiosamente, quando o capitalismo começou de fato, há 300 anos atrás, não se ouvia muita coisa sobre bolhas. Exceto quando muitos holandeses tentavam vender tulipas ao mesmo tempo... mas aí nem havia surgido a Revolução Industrial.
 
-Ao fim, Maravilhoso Boccaccio parece uma espécie de homenagem a um autor já conhecidíssimo da Idade Média em um formato mais palatável para o grande público italiano. Poderia ir direto para a TV e teria algum público cult, mas como Cinema, se torna tão competente quanto as aventuras de Moisés televisionado pela emissora de Edir Macedo.
+Todo o elenco está afiado, mas é o roteiro que delineia cada participação como um maestro regendo uma orquestra. De maneira surpreendente, Margin Call se passa em sua maioria em um escritório, no meio da noite, as pessoas só falam, algumas olham algum das centenas de monitores espalhados, e mesmo assim todo o filme é fascinante, passando muito rápido.
 

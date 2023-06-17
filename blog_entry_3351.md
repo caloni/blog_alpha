@@ -1,12 +1,11 @@
 ---
 categories:
 - writting
-date: '2010-07-30'
-link: https://www.imdb.com/title/tt0944835
+date: '2021-09-13T23:04:32-03:00'
 tags:
 - movies
-title: Salt
+title: Salto Alto
 ---
 
-Angelina Jolie protagoniza este thriller de ação que contém pelo menos uma sequência memorável na autoestrada, mas que em sua estrutura se esquece de contar uma história mais densa. A figura de Jolie sozinha como espiã é o suficiente para levar a história em seu andamento natural, mas a falta de algo a mais torna Salt, ironicamente, um filme sem sal.
+Este é o típico Almodóvar com mulheres complicadas e poderosas, sobre relações familiares conturbadas, sobre sessão Hitchcock com assassinato e mistério, sobre gravidez, acidentes e coincidências. O pacotão novela está todo aí, mas a trama vai enfraquecendo na confusão. No começo lembra trabalhos inesquecíveis como Tudo Sobre Minha Mãe, mas no final vira um imenso bolo de merda como Abraços Partidos.
 

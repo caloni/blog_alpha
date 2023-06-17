@@ -1,23 +1,76 @@
 ---
 categories:
-- writting
-date: '2016-08-12'
-link: https://www.imdb.com/title/tt2461150
-tags:
-- cinemaqui
-- movies
-title: Gênios do Crime
+- coding
+date: '2010-08-26'
+tags: null
+title: Gerando dumps automatizados
 ---
 
-Gênios do Crime não é o melhor momento de ninguém do seu elenco. Porém, também não é o pior. É apenas aquela sensação de que já vimos isso antes, e embora não exatamente daquela forma, não chega a ser tão diferente de qualquer comédia de situação. E, como eles mesmos no filme admitem, ainda é um filme de roubo a banco. Sim. Mais um filme de roubo a banco.
+Agora que a temporada das telas azuis passou estou às voltas com o nosso sistema de detecção de crashes, além de alguns dumps e logs pra relaxar de vez em quando.
 
-Esse, baseado em eventos reais, de um dos maiores roubos (em valores monetários) da história dos EUA, não tem muita margem para mudanças, mas elas acontecem e aos montes. Não estamos diante de atores acostumados com verossimilhança, então a primeira e marcante mudança é que os personagens não fazem a mínima ideia do que estão fazendo. Mas o fazem de qualquer jeito.
+Fiquei impressionado com a simplicidade com que podemos capturar qualquer exceção que ocorra em um programa, independente da thread, e gravar um minidump com o contexto exato em que o problema ocorreu. O uso da função API [SetUnhandledExceptionFilter](http://msdn.microsoft.com/en-us/library/ms680634%28VS.85%29.aspx) aliado com a já citada na palestra [MiniDumpWriteDump](http://msdn.microsoft.com/en-us/library/ms680360%28VS.85%29.aspx) pode agilizar muito a correção de crashes triviais como Access Violation.
 
-E se em comédias parecidas -- no sentido de ser baseada na vida real e ser sobre criminosos -- como O Golpista do Ano ainda há o fator de que a realidade ultrapassa a arte, o que justifica Jim Carrey pelo seu exagero, aqui se torna difícil acreditar que tudo o que de fato ocorreu sequer foi levemente semelhante ao que vemos no filme, com as pessoas que vemos.
+A mágica é tão bela que resolvi gravar um vídeo do que ocorreu quando compilei e testei o programa abaixo. Note que o tamanho do arquivo de dump ficou em torno dos 10 KB, ridículos nessa era de barateamento de espaço.
 
-Dessa forma, as figuras montadas por Zach Galifianakis, Kristen Wiig, Owen Wilson e Jason Sudeikis (e até a simpática Leslie Jones) soltam seus diálogos despropositados e engraçados apenas pelo absurdo, mas não como uma forma de pontuar que apenas tal personagem diria tal coisa, pois isso é aparentemente irrelevante para os propósitos do filme, que é fazer rir apenas pelo absurdo destacado de contexto (como dar um tiro na própria bunda).
+```
+/** @file OnCrash
 
-Não que eles não estejam bem. Porque estão (como constatei no primeiro parágrafo). Só que estão atuando para o filme errado. O roteiro escrito a seis mãos (que contou ainda com a consultoria de alguns dos envolvidos no roubo de verdade) não consegue se situar nem entre o drama engraçado ou a comédia escrachada. É simplesmente uma história que vai se desenrolando com o tempo suficiente de projeção para que os atores digam suas falas e encenem as situações engraçadas.
+@brief Exemplo de como capturar exceções no seu programa.
 
-Nesse sentido, Gênios do Crime até é engraçado, embora não seja hilário. Para chegar no hilário precisaríamos nos preocupar com seus personagens. Algo que é querer demais quando sequer os entendemos além de seus estereótipos.
+@author Wanderley Caloni <wanderley@caloni.com.br>
+@date 2010-08
+*/
+#include <windows.h>
+#include <dbghelp.h>
+#include <time.h>
+
+#pragma comment(lib, "dbghelp.lib")
+
+LONG WINAPI CrashHandler(_EXCEPTION_POINTERS* ExceptionInfo)
+{
+	LONG ret = EXCEPTION_CONTINUE_SEARCH;
+	MINIDUMP_EXCEPTION_INFORMATION minidumpInfo;
+
+	minidumpInfo.ClientPointers = FALSE;
+	minidumpInfo.ThreadId = GetCurrentThreadId();
+	minidumpInfo.ExceptionPointers = ExceptionInfo;
+
+	HANDLE hFile = CreateFile("OnCrash.dmp", GENERIC_WRITE, 0, NULL, CREATE_ALWAYS, 0, NULL);
+
+	if( hFile != INVALID_HANDLE_VALUE )
+	{
+		MINIDUMP_TYPE dumpType = MiniDumpNormal;
+
+		if( MiniDumpWriteDump(GetCurrentProcess(), GetCurrentProcessId(), 
+			hFile, MiniDumpNormal, &minidumpInfo, NULL, NULL) )
+		{
+			ret = EXCEPTION_EXECUTE_HANDLER;
+		}
+
+		CloseHandle(hFile);
+	}
+
+	return ret;
+}
+
+DWORD WINAPI CrashThread(PVOID)
+{
+	int* x = 0;
+	*x = 13;
+	return 0;
+}
+
+int main()
+{
+	SetUnhandledExceptionFilter(CrashHandler);
+	HANDLE crashThread = CreateThread(NULL, 0, CrashThread, NULL, 0, NULL);
+	WaitForSingleObject(crashThread, INFINITE);
+}
+ 
+
+```
+
+{{< image src="finddump.png" caption="oncrash.png" >}}
+
+Espero com isso aliviar a carga pesada de A.V.s que sempre aparece quando menos se espera. Cuidar de toneladas de código legado exige algumas pitadas de automatização nos lugares certos. Como já dizia meu primeiro chefe: se a mente não pensa...
 

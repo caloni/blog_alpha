@@ -1,20 +1,18 @@
 ---
 categories:
 - writting
-date: '2012-04-02'
-link: https://www.imdb.com/title/tt1482459
+date: '2015-01-11'
+link: https://www.imdb.com/title/tt0032138
 tags:
 - movies
-title: O Lorax, em Busca da Trúfula Perdida
+title: O Mágico de Oz
 ---
 
-O Lorax parte de uma premissa bonitinha e se esquece que em um roteiro, mesmo de animação, há muito mais do que piadinhas isoladas e ótimos efeitos visuais. Tudo começa com Ted, jovem morador de uma cidade feliz por ter conseguido dominar o plástico como solucionador de todos os problemas. A consequência é que a única forma de vida existente na cidade são seus moradores humanos; nem gatos ou cachorros têm vez. Querendo conquistar a garota dos seus sonhos, Ted parte em busca de uma jornada para conseguir o que não existe mais na paisagem onde mora: uma árvore.
+Não dá para assistir a O Mágico de Oz e automaticamente não relacionar com Alice no País das Maravilhas já que a estrutura e muito provavelmente a ideia veio justamente do romance de Lewis Carroll. No entanto, ao relacionarmos também com o momento histórico dos EUA temos uma visão muito mais interessante. Uma crise financeira devastou o país por uma década e o filme estreia semanas antes da Segunda Grande Guerra oficialmente começar. Virou o símbolo de uma geração (além de ter uma belíssima música). Quando as pessoas perdem a esperança, é função do Cinema fazê-las as distrair com histórias fantasiosas, super-heróis impossíveis e viagens no espaço.
 
-O garoto precisa ouvir a história que um velho que mora isolado em um lugar inóspito a respeito do que aconteceu com ele e com as árvores que outrora encantavam o vale, assim como criaturas fofinhas e ignorantes da presença humana no mundo.
+Uma das ideias mais interessantes do longa é utilizar a cor sépia para o mundo real onde a garota Dorothy (Judy Garland) mora, uma fazenda no Kansas, e o filme em cores para o mundo de Oz. Não apenas o filme em cores: foi utilizado o technicolor, uma tecnologia conhecida pela sua saturação de cores. Sabendo disso o filme ganha um outro aspecto, principalmente porque a sua chegada ao mundo de Oz é um oceano de cores pela festa que os moradores fazem por ela ter matado uma bruxa má durante a queda. Outro detalhe interessante da produção é que praticamente todos os fundos são pintados, uma forma barata de conseguir criar ambientes complexos e fantasiosos em estúdio.
 
-Misturando flashbacks de uma história cativante a respeito da natureza e como a encaramos hoje em dia e a mais fraca história inicial, Lorax consegue entreter justamente onde não termina, e a maior prova é os idealizadores da história colocarem o título do filme para um personagem que não participa ativamente dos acontecimentos em sua volta, nem é determinante em nenhum ponto crucial. Além disso, as músicas colocadas em torno da história soam muito artificiais e em determinado momento acusam justamente a falta de lógica para as resoluções finais.
+A história é simples, com conceitos fundamentais de bem contra o mal. Logo no início a "bruxa boa" pergunta a Dorothy se ela é uma bruxa boa ou má, deixando entender que no mundo de Oz, essa dicotomia praticamente "Disneylesca" é a regra. Ela foi baseada em um romance de 1900, então é razoável supor que diversos detalhes foram omitidos, o que dá um certo ar de estranheza em alguns personagens mal desenvolvidos. De certa forma, não há personagens, mas apenas símbolos, incluindo a própria Dorothy. Os seres que a acompanham se sentem incompletos por não terem um cérebro, um coração e coragem. Dorothy apenas quer novamente um lar.
 
-De qualquer forma, é sempre bom poder ver ideias novas de uma outra produtora que não seja a Pixar ou a Dreamworks, e nesse ponto podemos dizer que a criadora de [Meu Malvado Favorito] vem avançando em qualidade gráfica. Esperamos apenas que um dia suas histórias sejam tão fascinantes diante das principais rivais.
-
-[Meu Malvado Favorito]: {{< relref "meu-malvado-favorito" >}}
+O filme se tornou um clássico americano, e foi um dos filmes mais assistidos e conhecidos por várias décadas. É citado em Matrix (1999), 60 anos depois, e várias de suas falas se tornaram icônicas. Até quem nunca assistiu (eu até hoje) sabe o que quer dizer "não há lugar como o lar". Uma metáfora ainda hoje rica em um filme que envelheceu razoavelmente bem.
 

@@ -1,24 +1,24 @@
 ---
-
-Confesso que este filme me dava sono, mas havia algo mágico em seu ritmo quando o vi a primeira vez aos vinte e poucos anos. Ainda que de maneira inconsciente, havia percebido uma linda mensagem por trás dos eventos sempre banais da história dos ricos e famosos.
-
-Diálogos precisos e situações icônicas criam a atmosfera perfeita para um diálogo universal sobre solidão e isolamento. Este, sim, é um filme perfeito para se assistir nos momentos insuportáveis da quarentena, pois mostra o quão sozinho e sem esperança conseguimos nos sentir mesmo estando cercados de centenas de pessoas.
-
-Obviamente que Sofia Coppola deve ter sofrido muito disso. Filha de um dos diretores símbolos de sua geração, a filmografia da diretora está sempre observando a rotina das celebridades que ela não apenas conhece, mas vive, desde O Poderoso Chefão, quando era apenas um bebê no colo dos Corleone, para virar dois filmes depois a "interpretação mais fraca da trilogia", um consenso da crítica "especializada" a respeito da então atriz.
-
-As experiências cinematográficas da diretora afiam seu tema constante. Começa com [As Virgens Suicidas] e a desilusão amorosa boba por trás da figura masculina, mas ganha corpo em Maria Antonieta e principalmente [Um Lugar Qualquer], indo de novo ao encontro no banal e divertido [Bling Ring]. Pertencente à mesma bolha social, Coppola enxerga em seus personagens um grito surdo por significado em suas vidas livres de dores financeiras, mas cheias de insignificância.
-
-Apesar de uma filmografia pelo menos competente desde o começo, é apenas em Encontros e Desencontros que encontramos um trabalho menos inciviso e petulante, o que dá abertura para uma experiência mais rica e complexa do que é ter o mundo nas mãos e não conseguir a atenção das pessoas próximas (como a própria família). Se a trilogia de seu pai criou a antologia definitiva da história americana, e por tabela do mundo, os filmes de Coppola são a consequência do acúmulo de riquezas do país mais próspero da História: falta de objetivos na vida, consumismo e o trabalho como ferramenta de alienação.
-
-[As Virgens Suicidas]: {{< relref "as-virgens-suicidas" >}}
-[Bling Ring]: {{< relref "bling-ring-a-gangue-de-hollywood" >}}
-[Um Lugar Qualquer]: {{< relref "um-lugar-qualquer" >}}
-
----
 categories:
 - writting
-date: '2014-06-21'
-link: https://www.imdb.com/title/tt1731141
+date: '2010-09-03'
+link: https://www.imdb.com/title/tt1024899
 tags:
 - movies
-title: 'Ender''s Game: O Jogo do Exterminador'
+title: Enfim Viúva
+---
+
+Essa é uma comédia francesa em que uma mulher tem seu marido morto em um acidente de carro justo quando está prestes a se despedir deste e fugir com seu amante, um pescador da região, e morar com ele na China. Junto da morte do marido vem toda sua família, inclusive seu filho, que fazem de tudo para "cuidar dela" e impedi-la de "curtir" seus primeiros momentos de viuvez.
+
+Um detalhe musical: enquanto ela escuta músicas mais animadas (e é curioso que no início ela comece cantarolando o tema do filme antes do som invadir as caixas de som), seu marido ouve música clássica, e vive se preocupando com coisas que podem acontecer daqui a 100 anos, indicando claramente seu distanciamento da vida a dois entre eles.
+
+Durante o enterro, temos a câmera mostrando a visão do que ela está realmente prestando atenção: pessoas em sua volta (fora de foco) e o pai de seu marido caindo atrás do arbusto.
+
+Algumas cenas parecem ocupar espaço à toa, apenas para fazer graça (a velha decrépita do bar perto do cais) ou para ficar bonito (o zoom out dela sentada no banco de frente para o mar).
+
+Por outro lado, alguns detalhes revelam um pensamento um pouco além do convencional, como a câmera que balança no ritmo do mar quando alguém olha uma pessoa em terra firme por um barco, talvez até mesmo simbolizando a vida estável que é com o marido dela (note que a câmera não balança na visão contrária) em contraponto à vida bem mais instável de seu amante pescador.
+
+E se enquanto somos infestados com piadinhas de gosto duvidoso e caricaturas que não contribuem muito para o desenvolvimento da história, quando a narrativa ganha o tom dramático do encontro dos personagens mais presentes (a esposa, o amante e o filho), a curva que vemos da comédia para uma filosofia um pouco mais "profunda" ("agora estou verdadeiramente de luto, pois perdi o homem que eu amo") contrasta de forma significativa, mas não de forma abrupta, pois somos levados aos poucos a entender o drama por trás da comédia de situação.
+
+Por fim, uma conclusão óbvia e bobinha (os dois se reencontram onde ela gostaria de morar, nas montanhas), mas que não tira o mérito de termos experimentado uma história um pouco mais realista que uma comédia comum.
+

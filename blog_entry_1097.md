@@ -1,18 +1,20 @@
 ---
-
-Dos mesmos produtores de Cidade de Deus, este é um filme em que os personagens do roteiro foram sendo contruídos na preparação de elenco. Não é um elenco de primeira, mas o resultado sim, e mais realista do que se os papéis fossem entregues para celebridades. O resultado é visceral pela história, realista pelos diálogos e potencialmente um quase documentário ficcional.
-
-A história se passa em São Paulo, capital, e essas pessoas vivem suas vidas de pobre como em qualquer megalópole: moram longe do centro urbano, mas estão sempre por lá. A religião e a violência são pauta para análise dessa família disfuncional onde o pai bate na filha adolescente e a madastra tem uma lascívia incontrolável quando o marido não está em casa, mas cortejando uma evangélica que conheceu no culto.
-
-Contra Todos é um retrato fiel da sociedade contemporânea de vários ângulos. A câmera, com baixa resolução e tremendo como as de telejornal, passeia pelos cenários reais do cotidiano e seus elementos: um ferro de passar velho, o leite com café e açúcar de manhã, as conversas fiadas que escondem o que não se deve falar na mesa.
-
-O que fascina mais é apenas observar o dia-a-dia dessas pessoas, e não necessariamente a crítica social à sua moral. Até porque o filme adota uma narrativa naturalista, onde as decisões que cada um toma faz sentido dentro do seu microcosmos, e por isso não há necessariamente mocinhos e vilões, ou são todos vilões do nosso ponto de vista que julga qualquer comportamento fora do normal. O objetivo nem é chocar pelo aspecto cru de seus personagens, mas pelo modo realista de encará-los.
-
-Há sexo realista, violência realista e diálogos realistas. Contra Todos é quase um documentário se for analisada sua atmosfera, mas mesmo assim ainda exibe um pouco de estrutura, principalmente no final, quando as pontas vão se amarrando e reviravoltas acontecem. Na vida real não há tantas reviravoltas. Eu poderia viver muito bem sem nenhuma, e assistiria esse filme mesmo se ele tivesse seis horas.
-
----
 categories:
-- coding
-date: '2015-04-20'
-tags: null
-title: Convenção de Chamada
+- reading
+- writting
+date: '2020-08-10'
+link: https://gist.githubusercontent.com/Caloni/e2772b5107b99f151d00152f710cc8f9/raw/09e2101bac330ba7b1109e06f35478ea47f203a7/conversations-with-pauline-kael.txt
+tags:
+- movies
+- books
+title: Conversations With Pauline Kael
+---
+
+Este livro é uma pequena pérola para quem ainda não conhece Kael, a crítica mais versátil, corajosa e indigesta da história do cinema. Suas opiniões são fortes e você provavelmente vai discordar da maioria. Mas seu texto é delicioso.
+
+Essa coletânea editada por Will Brantley envolve vários momentos de sua carreira e a descreve a partir de vários pontos de vista, já que cada entrevistador a enxerga de certa maneira. Este compilado acaba se tornando, então, no conjunto, um "Cidadão Kael", fazendo um trocadilho com a obra mais conhecida que Kael já esmiuçou, o filme Cidadão Kane. Nunca saberemos quem de fato foi o ser humano por trás da crítica, e após ler o livro terminamos sabendo ainda menos.
+
+Contrária a tudo e a todos, sua visão política se resume a estar do lado dos menos representados (no cinema americano os conservadores, sem sombra de dúvida), mas não é fácil resumir qualquer traço da escritora em uma frase. Sua bússola moral é o cinema, e se movimentos sociais acabam produzindo trabalhos ruins, ela se posiciona totalmente contra. Se Thelma e Louise é um filme com uma história sem lógica, ainda que feminista, então Ridley Scott será posto à prova por Pauline. Imagino o que ela acharia então de Capitã Marvel, se fosse obrigada a escrever sobre os filmes da Marvel.
+
+Ao mesmo tempo ela é contra Hollywood como sendo a mega indústria que se tornou após os anos setenta. Seu artigo Why The Movies Are So Bad explica o processo pós-Star Wars e a retirada do risco financeiro do negócio de filmes, já vendidos antecipadamente para a TV. É um prazer acompanhar o raciocínio de uma pessoa tão sagaz e uma frustração nunca conseguir compreendê-la por inteiro. Ela se torna mais complexa hoje do que os filmes que são lançados, e a solução é rever os filmes dos quais ela fala em seus livros, ou em artigos arquivados do The New Yorker, lugar onde trabalhou por três décadas.
+

@@ -1,18 +1,20 @@
 ---
-
-A história clássica de Rapunzel é recriada com o novo senso se humor Disney/Pixar, em que o príncipe é um ladrão procurado, e a frágil princesa não é tão frágil assim. Temos aí os mesmos elementos que tornaram a Disney tão amada pelas crianças e adultos: números de música inspirados (com destaque para o bar do patinho) e uma história sem muitos conflitos e um final feliz.
-
-Uma fotografia aprimorada, que dá a iluminação adequada em todas as cenas (claras e escuras). Uma dublagem duvidosa do príncipe -- versão brasileira --, mas competente dos outros personagens, com destaque para a madrasta da princesa.
-
-Algumas cenas forçadas, que tentam livrar a cara do roteirista que chegou em situações um tanto difíceis de sair: a princesa precisa se lembrar dos seus pais para se livrar de sua madrasta, e as gotas de lágrima dela são curadoras tanto quanto os cabelos.
-
-Destaque para a movimentação dos personagens e suas expressões, uma marca Disney, mas ainda cada vez melhor. A cena dos balões é a mais emocionante, e tem uma equiparação com a da morte do vagalume no trabalho anterior (A Princesa e o Sapo), embora Enrolados seja muito superior em termos de narrativa.
-
----
 categories:
 - writting
-date: '2011-11-27'
-link: https://www.imdb.com/title/tt0067185
+date: '2016-11-02'
 tags:
+- mostra
 - movies
-title: Ensina-me a Viver
+title: Então Morri
+---
+
+Um documentário que passa direto para nossos sentidos. Começa na morte e vai voltando pela dor, alegria, ou seja, emoções dos seus personagens da vida real.
+
+Em todos eles, miséria, religião, simplicidade. Não apenas do modo de viver, mas de pensar, e consequentemente de falar a respeito da vida. São pequenas lições ouvir as pequenas poesias que essas pessoas dizem, em palavreado simples e ações mais simples ainda, como um soco ou chute, um beijo ou carregar um caixão.
+
+A edição é ágil, fluida, e ao avançar cria closes absurdos e uma qualidade sofrível das imagens trazem a realidade para um nível naturalista. A trilha sonora começa diegética, dentro daquele universo, e vai se alastrando pelas cenas, como memórias. Trilhas sonoras da vida, assim como os diálogos, assim como as faces daquelas pessoas, que personalizam a vida em seu básico, instintivo; a poesia do existir.
+
+Os diretores Bia Lessa e Dany Roland, empenhados também em realizar fotografia, roteiro e edição (com a ajuda de Julia Bernstein), agradecem ao final pelo documentário-mestre do Brasil, Eduardo Coutinho. Não à toa. Os idealizadores captaram a inteligência emocional de Coutinho em um trabalho simples, mas poderoso, que consegue extrair palavras da vida que são tão comuns, mas tão poderosas. 
+
+De um grupo de mulheres esperando os homens para carregar um caixão à noite da avó falecida até um grupo de crianças comentando uma briga recente entre meninas, Então Morri abraça a vida de um jeito que não é possível largar. Acompanhamos a sequência exata de um filme rebobinando, desde a morte até o nascimento, como espectadores que se conectam com aquela película quase sem filtros.
+

@@ -1,33 +1,19 @@
 ---
 categories:
 - writting
-date: '2019-07-24'
-link: https://www.imdb.com/title/tt9646768
+date: '2021-11-01T21:16:13-03:00'
 tags:
 - cinemaqui
+- mostra
 - movies
-title: No Coração do Mundo
+title: No Limite do Destino
 ---
 
-No Coração do Mundo é exercício de estilo, filme de golpe, drama social/poético e antologia mineira, e algumas dessas características deste adorável longa você deve gostar. Nem que seja da antologia mineira. Fique para um cafezinho.
+No Limite do Destino é a ambição do ator Yusuke Kitaguchi em dirigir seu primeiro filme, baseado em um drama sobre uma órfã e seu reencontro com a mãe problemática. E ele consegue. Faz um vídeo educado de um minuto para nos introduzir seu filme na Mostra de SP (disponível no Mostra Play, plataforma de streaming).
 
-Aliás, de todas as referências de Minas Gerais que têm nesse filme, só faltou o cafezinho. As pessoas não têm tempo para isso. Elas estão sempre trabalhando, fazendo negócios e tramando. Digo pessoas porque são muitos personagens. Essa é uma história que nos apresenta vários que de uma forma ou de outra se conectam, para eventualmente voltar a focar nos três principais: Ana, Miro e Selma.
+A história é sobre Otose Nishizono, essa garota que foi emancipada do orfanato onde foi parar depois de fugir da casa de sua mãe e padastros abusivos ainda criança. No primeiro mês de sua independência, aos 18 anos, ela reencontra sua mãe, que quer o dinheiro do seu salário, e a relação abusiva simplesmente continua a partir daí.
 
-Ana é cobradora de ônibus que está tirando agora a carta de motorista. Ela é dessas inúmeras figuras que você vê na paisagem urbana. Ela é a protagonista, mas você só vai perceber isso se reparar como todo o resto das pessoas no filme, para bem ou para mal, a impulsiona a tomar uma decisão arriscada sobre sua vida. A atuação de Kelly Crifer nos entrega uma pessoa do povo cuja motivação aos poucos se revela como a de cada um de nós que está na luta: sair de onde está.
+No Limite do Destino brinca com o tema sem muita pretensão. Seu roteiro é simples e direto, retirado diretamente do contemporâneo onde moças sonham em se tornar famosas em uma banda de idols e ninguém está muito afim de trabalhar. No entanto, as épocas se misturam, pois a mãe de Otose fuma dentro de uma cafeteria e está tudo bem. A ideia de mescla de gerações faz sentido na história, pois acompanharemos também a trajetória de uma outra jovem que fica grávida de um homem casado e precisa sacrificar sua carreira de cantora logo no início.
 
-Apesar de passiva, é Ana que começa o filme entregando uma mensagem gravada de aniversário para seu namorado, Miro, que a recebe sem jeito, cheio de uais, e que momentos depois se revela um homem mais enérgico, o que demonstra em pouco tempo suas diferentes facetas. Agindo na surdina, para a mãe e a irmã ele é a esperança perdida da família. Robert Frank nos entrega esse ar de passividade de Miro que soa um desabafo de todos os medíocres e suas inúteis vidas.
-
-Se erguendo acima do casal Ana e Miro surge Selma, em um papel que move de fato a história para onde ela deseja ir. Obstinada em fazer a roda de sua vida girar, Selma é a mais safa. Ela não tem medo de virar as costas para as dificuldades, como ela demonstra ao falar sobre seu passado. Ela ganha vida no filme através da atriz Grace Passô, que já demonstrou uma habilidade ímpar em Temporada em mesclar essa figura popular que sai por cima das adversidades, e é impressionante como as duas personagens que interpretou se assemelham na garra, ainda que mudem o modus operandi de como dirigem suas vidas.
-
-Fechando o elenco, os coadjuvantes de No Coração do Mundo são uma familiar ponte entre a ficção e o realismo das ruas, especialmente a periferia. Uma curiosidade é a participação especial da cantora MC Carol, que faz uma amiga de longa data de Miro e que através de diálogos cotidianos explora mais esse lado pé-no-chão do longa.
-
-Ela e o resto do elenco foram escolhidos a dedo para diálogos montados pela dupla de diretores/roteiristas, Gabriel Martins e Maurílio Martins, que exibem uma boa parcela dessa antologia mineira. Usando não apenas do sotaque típico, como das expressões da região, como o autêntico "garrar" (estar preso no trânsito em alguma situação), a dupla Martins trouxe à vida um mundinho linguístico conhecido de quem mora ou já se aventurou por aquelas bandas, mas além disso mescla diferentes tons sociais de uma periferia da região sendo descoberta.
-
-Porém, "No Coração" é muito mais que seu coeso roteiro, já que é através das escolhas de locação e dos cenários montados que muitos elementos da mineiridade se revelam sem querer, em uma abordagem realista e orgânica da cultura da região e em grande parte do Brasil. Sua caracterização é potente no mesmo nível do excelente Arábia (2017), a ponto de fazer crer que um se inspirou no outro, embora as filmagens tenham sido feitas quase na mesma época.
-
-Como produção, também, o filme esteticamente se aproxima muito do trabalho de João Dumans e Affonso Uchoa, seja pelo exemplar trabalho de som, que consegue mesclar sons do ambiente que revelam uma tridimensionalidade da vida surpreendente, como ouvir sons de carro passando na rua ou pessoas realizando um canto religioso ao fundo ou a fotografia que favorece as cores desbotadas de uma Minas charmosamente decadente; talvez até esquecida, pelos que aprenderam sobre a região apenas do ponto de vista turístico.
-
-Porém, além disso, o filme ainda se destaca pela sua inusitada escolha de músicas, que mesclando rap com pops icônicos demonstra também sonoramente essa diversidade querendo enriquecer ainda mais a experiência da inserção naquela realidade múltipla, mas que se observarmos de perto se sintetizam na luta do dia-a-dia.
-
-Todos os ricos elementos de cena de "No Coração" somam em seu ato final, quando o filme de duas horas parece curto e acaba prematuramente. Isso porque há momentos de clímax pesado próximo do final, e essa quebra no marasmo nos enche de adrenalina. Uma má escolha de timing ou uma mensagem proposital do filme, a busca pelo coração do mundo, o lugar onde finalmente nos sentimos bem com nós mesmos, é eterna. O filme nos fazer pensar a respeito é uma baita de uma virtude.
+O drama estabelecido em No Limite do Destino puxa tensão forçando a barra na relação abusiva entre mãe e filha e não arreda o pé. É difícil se identificar com uma pessoa tão passiva quanto Otose, e não sabemos (pelo filme) de onde veio sua personalidade, exceto que ela é materializada na figura de um homem de preto. É tudo tão fechado e formal, bem no estilo japonês. Não é uma experiência ruim, mas você irá sentir a estranheza do estrangeiro a todo momento. "O que está acontecendo", "por que ela continua fazendo isso" e "não consigo entender essa garota" serão pensamentos constantes nessa sessão. E, sem querer dar spoiler, não posso afirmar que a coisa vai melhorar em algum momento.
 

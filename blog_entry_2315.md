@@ -1,26 +1,24 @@
 ---
 categories:
 - writting
-date: '2010-12-20'
-link: https://www.imdb.com/title/tt1323594
+date: '2013-02-14'
+link: https://www.imdb.com/title/tt1588173
 tags:
 - movies
-title: Meu Malvado Favorito
+title: Meu Namorado é um Zumbi
 ---
 
-Meu Malvado Favorito é um ótimo exemplo de filme que divide opiniões, assim como Transformers: de um lado as pessoas que veem claramente uma péssima construção de história em conjunto com péssimas sequências para esta história. De outro, as pessoas que enxergam seus méritos no projeto ou 1) por gostarem do argumento desde o início ou 2) por entenderem sua proposta de uma maneira menos... crítica?
+R (Nicholas Hoult) é um zumbi, mas isso não evita que ele pense e avalie suas ações. Comer cérebros, por exemplo, é quase uma necessidade, pois R não pode dormir e sonhar, mas através dos cérebros dos humanos ele consegue visualizar as memórias da vida que acabou de matar e, assim, se sentir vivo novamente por alguns momentos.
 
-O fato é que estou do lado dos que defendem a produção, pois, apesar de perceber a artificialidade em seu roteiro e a maneira capenga com que a história é desenvolvida, consigo me divertir com as inspiradíssimas piadas, mesmo que estas soem deslocadas do contexto geral. O que segue são minhas impressões à época da estreia nos cinemas.
+É com essa descrição meio cômica, meio poética que o filme de Jonathan Levine estabelece uma relação quase doentia entre comédia e romance. Os zumbis aqui não são levados muito a sério, o que pode prejudicar um pouco a dramaticidade da história. Em compensação, a velha fórmula do diretor de zumbis George Romero aqui é usada, e a comparação com os humanos de hoje em dia é mais que apropriada, principalmente quando R tenta imaginar como as pessoas antes de se tornarem zumbis poderiam confraternizar entre si e imagina um aeroporto onde só vemos humanos desperdiçando a dádiva da vida enfurnados em seus smartphones.
 
-No início percebemos uma certa plasticidade nos personagens e cenários, parecendo mais um jogo de videogame que um filme com movimentos próprios. Mas aos poucos vamos nos acostumando com esse estilo limitado de animação, em que a física não é muito realista.
+Há outro fator que torna o filme único: R se apaixona por uma garota humana. E a leva para sua casa. Tudo que aprendemos nas comédias românticas adolescentes pode ser aproveitado aqui para extrairmos da experiência de R e Julie um humor acidental e quase natural, como a constante tentativa de R de não soar anormal diante de sua amada e até nos costumes atípicos do rapaz, como preferir discos de vinil ao iPod por estes parecerem mais vivos.
 
-A piada sobre o "Banco do Mal" (antigo Lehman Brothers) é datada, mas pode ser considerada sob vários ângulos, pois eles realizam empréstimos de um negócio geralmente sem futuro, e é curioso notar as estátuas segurando as colunas da entrada do banco, esmagando-as aos poucos.
+A relação entre R e Julie com certeza é o ponto alto do longa, pois assim que somos apresentados ao humanos militarizados o filme volta para o lugar-comum. Se bem que o fato de terem construído um gigantesco muro que lembra madeira - o velho truque de arrastar os móveis para as portas e janelas elevado à loucura - e serem comandados por um lunático-sádico interpretado por ninguém menos que John Malkovich coloca certa dúvida se Jonathan Levine na verdade não está brincando com nossa concepção idealizada de como deveriam ser os sobreviventes de um apocalipse zumbi.
 
-Os flashbacks do protagonista e suas ideias imaginadas possuem um toque de humor negro, quando por exemplo ele imagina se livrar das meninas na montanha-russa.
+De qualquer forma, os humanos e os zumbis já possuem uma "rivalidade natural", e o que soa mais acessório de luxo na história é a existência de uma terceira raça resultante da putrefação final de um zumbi: os esqueléticos. A sua função não é de grande valia: servir de alvos não-antropomorfizados (como as [tropas de Darth Vader]) e servir como foco de efeitos digitais igualmente supérfluos. Supostamente seriam assustadores, mas não com esses efeitos.
 
-Significativo que o raio encolhedor estava sendo desenvolvido no leste asiático, já que eles costumam "encolher" invenções tecnológicas do Ocidente.
+até o fim que o romance entre seres tão diferentes - faz uma brincadeira com Romeu e Julieta - não pode dar certo em uma atmosfera de medo, Meu Namorado é Um Zumbi poderia ser acusado de meloso. Eu diria que a sua "melosidade" brinca com a nossa percepção de como é difícil para algumas pessoas aceitarem as diferenças, e a maior prova disso é que um beijo entre um humano e um zumbi possa parecer tão romântico quanto... errado.
 
-As diferenças entre o Vetor e o protagonista se fazem sentir pelo estilo clássico e antiquado do último, conforme sua casa decorada com elementos ditos "malignos" (sofá de crocodilo, poltrona de rinoceronte, porta-casacos de cobra), detalhes démodé (carpete vermelho, maçaneta decorada das portas). O primeiro, por ser mais jovem, possui aquele estilo descolado e nerd de usar coisas com curvas mais suaves (repare a diferença no design de ambas as naves) e mais da moda (ele joga um videogame que se assemelha ao Wii).
-
-O final, que termina com com todos dançando (inclusive seu vilão) lembra filmes no estilo "poderia ser um pouco melhor". Como Quem Quer ser Milionário?, por exemplo.
+[tropas de Darth Vader]: {{< relref "star-wars-guerra-nas-estrelas" >}}
 

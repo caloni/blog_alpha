@@ -1,22 +1,46 @@
 ---
 
-"Não sei o que há, mas há principalmente o elogio fácil. Seria ótimo que os críticos falassem a verdade." - Hilda Hilst. Este filme é uma oportunidade perfeita para demonstrar a irrelevância intelectual do espiritismo, mas infelizmente, para os que ainda não conhecem a obra de Hilda Hist, esta pode ser uma péssima porta de entrada, cercada das reverências vazias e, como a própria Hilda coloca na citação, "o elogio fácil".
+Confesso que adoro estudar sobre a história da linguagem C. Essa verdadeira adoração pela linguagem me fez estudar suas precursoras, como as linguagens BCPL e B. Posso dizer que todo esse conhecimento, no final das contas, valeu a pena. Hoje entendo muito melhor as decisões tomadas na criação da linguagem e, principalmente, a origem de algumas idiossincrasias e boas idéias que permaneceram até hoje.
 
-Mas isso ocorre não por falta de críticos do seu trabalho, mas porque o filme apela para testemunhos que basicamente rasgam seda em elogios vazios sobre a autora. Não se trata de analisar uma pessoa e sua obra, mas apenas de a homenagear. E se o objetivo é apenas elogiar, então o filme de Gabriela Greeb cumpre este objetivo de maneira exemplar, estruturado como uma busca eterna por sinais sonoros em rádio de Hilda em sua casa no campo, recriando a cena e a atmosfera em que isso ocorreu por vários anos com a ajuda de uma atriz, as gravações originais e uma direção que explora com propriedade visual este limiar entre a poesia e a prosa da autora.
+{{< image src="martin_richards.gif" caption="Esse distinto cavalheiro inglês é Martin Richards" >}}
 
-Tudo isso ainda cria novas sensações, visuais e sonoras, que se unem à busca do sobrenatural. Note como a câmera foca nos pés das pessoas andando pela floresta, de noite e de dia, para seguir após os chamados por uma resposta pelo ar, pelas folhas das árvores, e por infindáveis fitas magnéticas que se lançam ao infinito, mas que começam (ou terminam?) nas mãos de Hilda. Essa síntese do que a autora significa tem um poder expressivo arrebatador, e poderia estar imortalizado em um quadro estático. Não em um longa metragem.
+Em 21 de julho de 1967 Martin Richards libera [o manual] da sua recém-criada linguagem BCLP. Na verdade, ela havia sido criada em 66 e implementada na primavera do ano seguinte no Instituto de Tecnologia de Massachusetts (vulgo MIT). Seus objetivos eram claros, como para todo criador de uma nova linguagem: melhorar uma linguagem anterior. Nesse caso, foi uma melhoria da Combined Programming Language (CPL), retirando, de acordo com Martin, "todas aquelas características da linguagem completa que tornavam a compilação difícil".
 
-Um documentário por definição tem uma responsabilidade que vai além de documentar: vai em teoria em busca pela verdade. Mas dificilmente será difícil arrancar a verdade, ou explorar mais de um lado, sobre uma pessoa que já morreu. Através dos seus entes queridos as críticas somem, a pessoa é beatificada. Vira uma santa em formato líquido, vibrante, e que nunca erra.
+E BCPL era de fato bem simples. Não tinha tipos, era limpa e poderosa. Porém, mais importante que tudo isso, ela era portável. E essa portabilidade, aliada ao fato que escrever compiladores para ela era bem mais simples (alguns compiladores rodavam com apenas 16 KB), a tornaram especialmente popular na época.
 
-Amada por tudo e por todos, seus amigos falam mais de uma vez a facilidade com que ela transitava e conversava com pessoas e obras das mais humildes às mais eruditas. Explorando a amizade com físicos teóricos e bebendo de filósofos metafísicos como Kierkegaard, fica fácil entender porque a totalidade dos seus amigos lembram uma elite brasileira no formato classe média "esclarecida", intelectualizada, que come macarrão e bebe vinho até dormir, e vai nos seus sonhos ter seus delírios de poder. Enquanto isso, não vejo em nenhum deles a figura do humilde, do simples, deixando claro que a autora, embora esclarecida em inúmeros níveis, nunca criou nenhum laço mais duradouro do que o tempo para criar mais uma bela história sobre a lenda do bom humilde.
+Essa portabilidade era obtida com o uso de um artifício mais ou menos conhecido da comunidade C/C++ hoje em dia: a divisão entre código objeto e código final. O compilador era dividido em duas partes: a primeira parte era responsável por criar um código em estado intermediário feito para rodar em uma máquina virtual. Esse código era chamado de O-code (O de object). A segunda parte do compilador era responsável por traduzir esse O-code no código da máquina-alvo (onde iria ser rodado o programa). Essa sacada genial de 40 anos atrás permitiu que fosse mais simples fazer um compilador para uma nova plataforma e portar todo o código que já tinha sido escrito para uma plataforma anterior, driblando o grande problema daquela época: a incompatibilidade entre plataformas.
 
-Nem laços sobrenaturais ela criou. Quando analisamos suas fitas gravadas percebemos que seu comportamento em nada difere ao de uma criança mimada e petulante. Certa que basta chamar os nomes certos da maneira certa para que essas figuras já mortas se unam ao seu projeto aparentemente solo, com o tempo ela passa à raiva de não obter resposta e à barganha de quem deseja ansiosamente que tudo aquilo que ela imagina não passe de fé cega. Em determinado momento ela admite para si mesma que a fé brota de cada um; não depende de evidências. Mas logo em seguida conclui: "mas seria tão bom se eu tivesse alguma prova... pelas pessoas que têm medo da morte". Ela se exclui da massa de tementes, mas não desiste da busca. Porque é muito boa, claro.
+{{< image src="ocode.gif" caption="Processo de geração do BCPL O-code" >}}
+
+Perceba que é possível fazer toda a parte do compilador detrás do código-objeto uma única vez e, conforme a necessidade, criar novos interpretadores BCPL para máquinas diferentes.
+
+{{< image src="portable_bcpl.gif" caption="Interpretação do o-code para código da máquina alvo" >}}
+
+O código intermediário é gerado para uma máquina virtual. O interpretador, cerca de um quinto do compilador, tem a função de traduzir o código gerado para a máquina-alvo. Qualquer semelhança com Java ou .NET não é mera coincidência. Pois é. As boas idéias têm mais idade que seus criadores.
+
+É inevitável também não fazer a associação entre essa forma de funcionamento do compilador BCPL e a divisão feita em C/C++ entre o pré-processador, o compilador e o ligador (linker, em inglês).
+
+{{< image src="ccpp_build_steps.gif" caption="Processo de compilação C/C++" >}}
+
+O uso do pré-processador na linguagem C facilitou a portabilidade por um bom tempo, quando não existiam typedefs. Diferente do BCPL, C já tinha tipagem, o que quer dizer que era necessário escolher o espaço de armazenamento que seria utilizado para as variáveis. Com o pré-processamento, essa escolha pode ser feita de maneira seletiva, documentada e generalizada.
+
+    #ifdef SBRUBLE_PLATFORM
+    #define UINT unsigned char /* space limitation */
+    #else
+    #define UINT unsigned int
+    #endif
+
+Como é natural, o código-fonte de uma aplicação tende a crescer em muitas linhas durante sua evolução, especialmente se estamos falando de sistemas operacionais. A compilação desse código vai tomar cada vez mais tempo no processo de desenvolvimento. Por isso, manter esse código-fonte em um mesmo arquivo eventualmente torna-se inviável, tornando a compilação de módulos separados uma solução pra lá de elegante. Compila-se apenas o módulo que foi modificado e liga-se esse módulo com módulos pré-compilados.
+
+Para continuar lendo sobre a história da linguagem existe uma [segunda parte].
+
+[o manual]: {{< resource src="bcpl.pdf" >}}
+[segunda parte]: {{< relref "historia-da-linguagem-c-parte-2" >}}
 
 ---
 categories:
-- writting
-date: '2021-05-15'
-link: https://www.imdb.com/title/tt8253044
+- coding
+date: '2007-08-15'
 tags:
-- animes
-title: Hinamatsuri
+- ccpp
+title: 'História da Linguagem C: Parte 2'

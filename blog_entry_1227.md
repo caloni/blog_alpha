@@ -1,29 +1,28 @@
 ---
-categories:
-- coding
-date: '2015-05-26'
-link: https://www.infoq.com/br/presentations/depurando-ate-o-fim-do-mundo/
-title: 'Depurando até o fim do mundo e de volta de novo: source server com GitHub'
+
+Como depurar um programa que dá pau logo no final do desligamento de uma máquina?
+
+No cenário em que isso se passa não existem usuários logados no momento, o que significa a impossibilidade de rodar qualquer programa em uma sessão prévia e mantê-lo no ar após o logoff. A não ser que se trate de um serviço.
+
+O nosso programa é justamente um serviço, e por isso ele continua rodando até o final, ou bem perto dele. A primeira ideia que vem à mente é instalar o Msvcmon - depurador remoto do Visual Studio - como um serviço, como aliás já foi demonstrado neste blogue.
+
+Essa é uma boa ideia, de fato. Contudo, não podemos esquecer que a ordem de descarregamento dos serviços pode não favorecer o nosso depurador remoto e ele ir embora antes que consigamos "atachar" nosso VC no programa faltoso. Além do mais, a própria rede, que é disponibilizada com a ajuda de serviços, pode não estar no ar, mesmo que o Msvcmon esteja.
+
+Tudo bem, vamos dizer que você é um expert em configuração de dependências de serviços e conseguiu fazer com que a rede, o Msvcmon e o programa faltoso sejam os últimos serviços - com exceção dos drivers - a serem descarregados. Bravo!
+
+Contudo, isso não vai adiantar de muita coisa se for necessário parar a execução por um breve momento e analisar a pilha por, digamos,  cinco segundos. Esse é o tempo que o sistema - que continua rodando - precisa para desligar a máquina.
+
+Agora o problema é outro: não há tempo para análise durante a depuração, pois o sistema continua rodando. Nesse caso, teremos que ser mais radicais e parar o próprio sistema para que possamos depurar calmamente o problema. Isso implica em termos que utilizar um depurador de kernel (WinDbg), pois só ele tem poderes de congelar o sistema inteiro.
+
+Mas, ainda assim, precisamos de um depurador de user para fazer análises mais profundas ou, pelo menos, mais simples, com a ajuda de símbolos e tudo mais. Nesse caso é necessário usar um depurador de user que redireciona o controle para o depurador de kernel. A transição user mode >> kernel mode pode ser feita com apenas algumas configurações antes do reboot.
+
+E, após toda essa bagunça, podemos depurar, no conforto de uma VM, o bendito programa matador.
+
 ---
-
-Semana passada fiquei sabendo que o vídeo da minha palestra "Depurando até o fim do mundo" do TDC 2014 estava disponível online. Resolvi assistir para ver se aprendia alguma coisa. A despeito do palestrante ser muito ruim, ele disse uma coisa interessante: com o Debugging Tools (WinDbg para os íntimos) seria possível além de indexar os símbolos (PDBs para os íntimos) usando o esquema de Symbol Server que a própria Microsoft adota usar algumas ferramentas embutidas para conseguir obter o fonte através de um símbolo indexado.
-
-E de onde viria esse fonte? Bom, a priori é necessário que exista algum controle de fonte para que as versões estivessem já "indexadas" nesse controle e fossem mapeados com strings internas no PDB. Através dessas strings o WinDbg ao analisar um crash dump ou até mesmo depurando um processo com o uso do PDB conseguiria baixar os fontes automagicamente desse controle de fonte, desde que ele estivesse acessível (na internet, na intranet da própria empresa, na rede, em um disco rígido externo ou na própria máquina do desenvolvedor que não quer se matar para conseguir obter a versão exata dos fontes daquele binário).
-
-O detalhe que o palestrante (Caloni é o nome do sujeito) citou era que já existiam scripts prontos para realizar essa tarefa para os controles de fonte mais comuns, sendo que os mais comuns são: Source Safe (?????), CVS (????????) e, claro, Subversion! (?!?!?!?!??!??!?!). OK, pelo visto o pessoal da Microsoft mora em uma caverna ou não estão muito interessados em indexar os fontes para alguns controles de fonte que estão surgindo por aí, como Git sendo um exemplo aleatório.
-
-Já que o tal do Caloni disse que ainda não fizeram scripts para controles mais modernos. Nenhum descentralizado ainda está na lista. Os scripts são feitos em Perl, ou seja, estão disponíveis em uma linguagem um pouco mais fácil que .BAT. Ou talvez não. De qualquer forma, não parece muito difícil de entender a dinâmica do WinDbg e simplesmente gerar o que tem que gerar dentro dos PDBs.
-
-Pensando nisso, resolvi fazer uma primeira versão, em Python, de um script em que você passa alguns dados e ele processa seus PDBs. Depois você pode jogá-los em um Symbol Server e quando o WinDbg encontrá-lo através de um binário analisado, este irá conter o endereço no GitHub e um comando do Curl para baixá-lo, passando a exibi-lo imediatamente na tela do WinDbg.
-
-O funcionamento é muito simples, mas pede muitos parâmetros (recomendo criar um batch para armazená-los). Então vejamos:
-
- - dbgtools é o caminho onde está o Debugging Tools for Windows;
- - pdbpath é o caminho de onde devem ser pegos os PDBs, como um output da vida;
- - projname é porque preciso do nome do projeto com escopo do usuário para compor a URL, e.g. Caloni/GitIndex;
- - repo é o caminho do repositório local, pois o remoto eu já consigo pegar com o projname.
-
-Um detalhe importante: o revno que será usado é o HEAD do repositório local. Sim, futuramente podemos adicionar esse argumento como opcional. Porém, no momento, coisas mais urgentes devem ser feitas. Uma delas é que estou usando a visualização raw do GitHub para conseguir pegar um único arquivo-fonte, e para isso uso a ferramenta curl. Ou seja, quem é de Windows vai precisar baixar uma de suas versões e deixar no path do sistema. Quem não é de Windows... o que você está fazendo com um PDB, rapaz?
-
-Como esse ainda é um projeto muito cru, mas gostaria de compartilhar com vocês (pois algo muito cru é melhor que nada), deixei diversos batchs de teste para ficar mais claro o funcionamento do srcsrv. Há um doc muito bom (er... ou mais ou menos) sobre o seu funcionamento na pasta srcsrv (chama-se srcsrv.doc). Usei algumas informações de lá para conseguir fazer a coisa funcionar. Se quiser me ajudar no projeto, tiver alguma dúvida, sugestão de melhoria/evolução, vamos conversar! Esse projeto será muito útil para mim no futuro, e espero que seja muito útil para outras pessoas, também.
-
+categories:
+- writting
+date: '2015-07-28'
+link: https://www.imdb.com/title/tt2616280
+tags:
+- series
+title: Derek

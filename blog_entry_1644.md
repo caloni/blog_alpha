@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2014-08-15'
-link: https://www.imdb.com/title/tt1621039
+date: '2015-12-12'
+link: https://www.imdb.com/title/tt1119644
 tags:
-- movies
-title: Bons de Bico
+- series
+title: Fringe (piloto)
 ---
 
-Free Birds é um desenho com qualidade técnica discutível e narrativa idem. Suas ideias oscilam entre o divertido e o repetitivo. Seus personagens são quase cópias de outros desenhos. Dito isto, o conjunto da obra mais impressiona por conseguir levar a história do começo ao fim a despeito de todas suas limitações.
+Logo no começo, Fringe estabelece as conexões necessárias para uma longa jornada em torno do que a ciência descobriu, mas está nas mãos de poucos. Utilizando uma dose suficiente de tecniquês com senso comum, a primeira aventura utiliza efeitos visuais de primeira linha, um thriller policial com tons dramáticos convincentes e personagens em situações que permeiam muito bem o limite entre o plausível e a loucura.
 
-A história envolve viagem no tempo em um objeto que não apenas se assemelha a um ovo como à nave de Ellie em Contato (com suas paredes translúcidas), ou seja, espere por todas as homenagens necessárias a obras que brincam com esses conceitos, sejam o clássico Contato já citado ou os tri-clássicos De Volta Para o Futuro (há uma citação "divertidinha" de Doc. Brown a respeito de uma pessoa se encontrar com ela mesma do passado).
+Criado por J.J. Abrams (Lost) e seus amigos, a série tem como heroína a agente do FBI Olivia Dunham (Anna Torv). Junto dela, pessoas sombrias e cheia de mistérios mantém o clima fantasioso necessário para utilizar teorias de pseudo-ciência e conspirações silenciosas.
 
-Mesmo com piadas faltando aquele toque a mais e com pedaços de histórias não-originais, ainda assim a dedicação pessoal em contar essa história supera mais uma vez suas deficiências narrativas. Os personagens mais importantes são dois perus que voltam no tempo para alterar o evento onde eles se tornam o prato principal do feriado americano do Dia de Ação de Graças. O que encontram lá se torna a sequência mais interessante do filme.
-
-Jimmy Hayward já havia dirigido o subestimado "Horton Hears a Who!" em 2008 (Horton no Mundo dos Quem), e continua sendo uma alternativa curiosa dos grandes estúdios e seus milhões de pixels. Aqui em Free Birds há um espaço enorme de caixa de areia onde muitas ideias poderiam ser, mais uma vez, reaproveitadas em produções mais caras.
+O roteiro do primeiro episódio, mais longo que os outros, consegue manter uma estrutura próxima de um filme, mas que sacrifica um pouco de sua criação para dar lugar à continuidade esperada de uma série. Resta saber se a promessa inicial de uma história que se desenvolve a cada episódio irá se cumprir, ou se essa é apenas a velha fórmula de chamariz que irá em seguida reprisar a mesma fórmula de 50 minutos.
 

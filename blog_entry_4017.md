@@ -1,16 +1,16 @@
 ---
 categories:
 - writting
-date: '2013-01-14'
-link: https://www.imdb.com/title/tt1785670
+date: '2015-01-17'
+link: https://www.imdb.com/title/tt2004420
 tags:
 - movies
-title: Viúvas
+title: Vizinhos
 ---
 
-Projeto menor do diretor Marcos Carnevale (Elsa e Fred), Viúvas possui o seu núcleo na história de Elena (Graciela Borges), que perde o marido depois de um infarto. Fica conhecendo assim a sua amante, Adela (Valeria Bertuccelli), muito mais jovem e inexperiente com seus sentimentos. Unindo a vida pós-marido de ambas através de uma última promessa feita pela esposa, a sensação constante é de que ao tentarmos conhecê-las melhor existe um sentimento de repulsa por mulheres tão egoístas (cada uma à sua maneira).
+Vizinhos tem uma história e direção tão bagunçadas quanto as festas da fraternidade que se instalou na casa ao lado dos recém-casados e com uma pequena filha Mac (Seth Rogen) e Kelly (Rose Byrne). O tema do filme é aquela sensação dos casados que, cuidando de seu primeiro bebê, não está maduro o suficiente para se acostumar com essa nova fase, mas consegue medir com exatidão os eventos que estão deixando de ir ou as coisas que estão deixando de fazer. Vendo do outro lado, o líder da fraternidade tem tanto medo quanto eles, pois está prestes a cruzar esse portal das responsabilidades, o que faz com que ele se agarre com todas as forças no mural de seu grupo de faculdade e suas "lendas", como o cara que inventou que é possível continuar bebendo e vomitando ao mesmo tempo.
 
-O que é uma pena, pois o curioso plot coloca a questão dos sentimentos acima dos rótulos em pauta, e apesar do roteiro do próprio diretor deixar o tema morno e frequentemente revisto, o fato é que Viúvas não consegue se desvencilhar da óbvia rivalidade entre as duas desconsoladas para criar algo além de situações controversas e cômicas.
+Este é um dos poucos trabalhos do produtor e roteirista Nicholas Stoller que é dirigido por ele. Escrito por uma dupla envolvida em filmes como O Virgem de 40 Anos não é de estranhar a estrutura episódica da trama, que não convence justamente pelos acontecimentos geralmente estarem tão destacados de seus personagens que poderia funcionar tão bem (ou tão mal) caso a ordem dos eventos fosse invertida.
 
-De qualquer forma é notável que o núcleo de personagens seja formado apenas por mulheres, sendo que possíveis pretendentes, quando aparecem, são simples adornos para o ego das duas atraentes mulheres. Recriando situações engraçadas no vai-e-vem da história, Carnevale parece não beneficiar nem a comédia nem o drama, pois não há espaço para que as situações cresçam e se tornem a que vieram.
+Mesmo assim, a dupla Rogen e Byrne mantém o pique e conseguem trazer um filme agradável como passatempo, embora raso como uma poça. A diversão não está em seus personagens ou seus diálogos, mas em situações comuns que são elevadas ao absurdo. Afinal de contas, todo mundo aqui já quis matar o sujeito que faz uma festa que atravessa a madrugada sem qualquer consideração pelos seus vizinhos. Ou não?
 

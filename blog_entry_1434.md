@@ -1,20 +1,29 @@
 ---
-
-Não é sintomático que um filme chamado Emoji tenha tão poucas emoções? Talvez não. Afinal de contas, os emojis basicamente são a simplificação de nossa linguagem e dos nossos sentimentos. Onde um email com uma poesia é colocado na lixeira porque "usar textos é tão retrô" e onde no lugar de um emoji com uma única emoção enlatada surge um emoji com várias!
-
-Spoiler? Quem se importa com isso? Com certeza não os consumidores de trailers de cinema, que entregam praticamente toda a história do filme em poucos segundos. E sinto que com esse filme isso seria realmente possível. Talvez desde o argumento inicial desse filme pouca coisa mudou.
-
-Exceto uma coisa: quais vão ser os patrocinadores desta produção. Porque, claro, um filme hoje em dia que se passa dentro de um smartphone cheio de apps nada mais natural que as empresas desenvolvedoras dos apps paguem por ele. E isso pode ser tão sutil quanto Facebook, Twitter e Instagram (que devem ter sido até pagos para participar) ou gritante como Candy Crush, Just Dance, Spotify e Dropbox.
-
-A história é de um emoji, o "meh", que aqui se chama Gene e não consegue apenas fazer sua cara de meh. Ele tem um amigo, o "Bate Aqui", que irá lhe dar uma mãozinha. Se você entendeu essa piadinha infame e não deu risada, espere para você mesmo, espectador, fazer mais caras de meh durante o filme do que o próprio Gene. Talvez a solução para o problema dele estará disponível na Netflix em breve: seu próprio filme. Duvido que ao assisti-lo ele não ganhe permanentemente uma face blasé.
-
-Como se não fosse possível enfiar mais estereótipos e referências neste filme, incluindo os trolls de internet, os spams, o cavalo de Tróia, o firewall, os anti-vírus (e, sim, os vírus), e a hacker, "Emoji: Meh" copia descaradamente Detona Ralph em seu subplot (e sua música final) e ainda "detona" a ideia com uma personagem feminista de fazer vomitar (como se hoje em dia houvesse alguma feminista que não causasse esse efeito). Aliás, a própria história principal já lembra Divertidamente até demais (filme sobre emoções não serem tão simples, e os próprios pais de Gene possuem o mesmo problema da menina do filme da Disney: lidar com um adolescente problemático; claro que o adolescente ser um emoji poderia ser interessante... mas não é).
-
-Por fim, se você espera um filme clichezão tapa-buraco (filme sobre emoticons: check!) com pouca criatividade em sua história, seu roteiro, sua direção de arte e até fotografia (até Tron, o original dos anos 80, se sai bem melhor em sua abstração), "Emoji: Arght!" é o seu tipo de filme. No começo ouvimos uma narração em off de Gene. Em determinado momento, uns 20 segundos depois, ele comenta: "acho que a essa altura você nem está mais me ouvindo". Se você é esse tipo de espectador, e saca seu smartphone no cinema porque está entediado (com cara de meh), fico feliz de lhe apresentar a sessão que você deve ir (e consequentemente a que eu nunca irei).
-
----
 categories:
-- cooking
-date: '2019-01-07'
-repost: '2023-04-04'
-title: Empanadas Argentinas
+- writting
+date: '2012-06-14'
+link: https://www.imdb.com/title/tt0461770
+tags:
+- movies
+title: Encantada
+---
+
+Encantada inicia com um desenho de conto de fadas genérico, cuja introdução apenas serve para nos habituarmos com aquele mundo e a sua dinâmica. A largura da tela diminui sutilmente e faz-se a transição para o mundo real, mais amplo, na própria visão da princesa Giselle.
+
+É preciso dar créditos às verossímeis interpretações de Amy Adams ([O Vencedor], Os Muppets), James Marsden ([Hop: Rebelde Sem Páscoa]) e Timothy Spall (da [série Harry Potter]), que caracterizam perfeitamente suas contrapartes em desenho (ou vice-versa), além, é claro, de efeitos extremamente eficientes com os animais, que oferecem um encantamento adicional necessário para que compremos, de fato, a história que vai se passar.
+
+Porém, a grande virtude da direção é abraçar sem reservas o tema inicial, recriando sem tornar clichê cenas clássicas do imaginário Disney, como em um inspiradíssimo baile que consegue unir composições tão distintas como A Bela e a Fera, [Branca de Neve] e Cinderela sem soar banal.
+
+Como consequência desse comprometimento temos uma fotografia, direção de arte e figurino no mesmo compasso inspirador dos exageros do gênero. Por isso não nos incomodamos, por exemplo, com o óbvio contraste dele (e pessoas do seu mundo) sempre de preto enquanto ela, os animais e as pessoas que acompanham suas músicas sempre com cores "gritantes", no mesmo quadro.
+
+Contudo, não se pode falar o mesmo do roteiro, que manipula a história sem a mesma doce ingenuidade de sua protagonista, criando reviravoltas bem arquitetadas, mas que no fundo revelam seu caráter maniqueísta típico das produções live action da Disney. Nesse sentido, não é possível abraçar sem reservas o destino de todos os personagens, mesmo se tratando de um conto de fadas. Algumas de suas decisões mais absurdas (facilmente detectáveis, desnecessário revelar), embora soluções aparentemente obrigatórias acabam por enfraquecer a trama.
+
+O que não se pode dizer do sistema de pistas e recompensas com que o filme sabiamente salpica em torno dessas mesmas cenas.
+
+Dessa forma, podemos dizer que o esforço narrativo sobre o absurdo da história, assim como a eterna batalha entre o bem e o mal, prevalece.
+
+[Branca de Neve]: {{< relref "branca-de-neve-e-os-sete-anoes" >}}
+[Hop: Rebelde Sem Páscoa]: {{< relref "hop-rebeldes-sem-pascoa" >}}
+[O Vencedor]: {{< relref "o-vencedor" >}}
+[série Harry Potter]: {{< relref "harry-potter-e-o-prisioneiro-de-azkaban" >}}
+

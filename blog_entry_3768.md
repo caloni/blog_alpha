@@ -1,64 +1,23 @@
 ---
-categories: []
-date: '2010-12-27'
-tags: null
-title: Trabalhando em múltiplos ambientes
+categories:
+- blogging
+date: '2019-12-21'
+title: Tradicional Mensagem de Feliz Natal e Bom 2020 Versão Cinema
 ---
 
-Existem diversas maneiras de se trabalhar com o Bazaar. Eu já [havia definido](http://www.caloni.com.br/como-estou-trabalhando-com-o-bazaar) como fazer na máquina de desenvolvedor para modificar o mesmo código-fonte em projetos paralelos, onde basicamente tenho um branch principal conectado no servidor (assim todo commit vai pra lá) e crio branches paralelos e desconectados para fazer quantos commits eu tenho vontade durante o desenvolvimento. Após todas as mudanças e testes básicos, atualizo o branch principal (com mudanças dos meus colegas) e faço o merge com o branch paralelo onde fiz todas as mudanças. Antes de subir com o commit final, ainda realizo um build de teste local, se necessário.
+Tudo começou há mais ou menos... não me lembro. O que eu sei é que meu grande amigo Pikachu me colocou em um aviso anual sobre compilar uma mensagem de final de ano com referências a filmes que foram lançados esse ano no cinema (ou algum filme mais antigo de vez em quando, se surgir a oportunidade). Esta é a primeira vez que transformo essa mensagem em um post.
 
-Nos casos em que eu trabalho em casa (ou em outro ambiente), posso fazer basicamente a mesma coisa, só que meu branch paralelo é copiado para outra máquina:
+O ano de 2019, imitando 2016, foi escrito e dirigido pelo Tarantino, onde até um Era Uma Vez... em Hollywood consegue virar umA Maldição da Chorona. Com ou sem um Parasita atazanando a vida.
 
-    C:\>cd \Src\projeto-principal
-    
-    C:\Src\projeto-principal>bzr get . ..\projeto-principal.TravamentoServico.MeuNotePessoal
-    Branched 950 revision(s).
+Houve os momentos bons, como testemunharmos finalmente o Ultimato dos Vingadores, apesar que todas essas aventuras em fundo verde serviram para nos cansar de tantos efeitos e perceber que toda essa correria das Marveletes foi uma verdadeira Odisseia dos Tontos. E assim como tontos, cambaleando para fora da sala do cinema depois de ter visto uma atrocidade como Os Parças 2, perdemos muito no meio de discussões que não levam a nada. Esquecemos até o idioma, e trocando português por espanhol perdemos até "El Camino".
 
-Geralmente o que faço depois é compactar a pasta gerada (se desejar, use uma senha forte nesse passo), fazer uma cópia para um PenDrive e descompactar na máquina que irei trabalhar.
+Mas nessa nossa Vida Invisível em que entramos naquela salinha escura e nos descobrimos novamente atingimos nosso próprio Bacurau, bem No Coração do Mundo. E quando isso acontece fica difícil dizer que o cinema nacional vai mal, quando entendemos que O Paraíso Deve Ser Aqui. Não há melhor Retrato do Amor.
 
-    C:\Src\projeto-principal.TravamentoServico>hack hack hack
-    
-    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Uma mudancinha inicial"
-    Committing to: C:/Src/projeto-principal.TravamentoServico/
-    added teste.txt
-    Committed revision 951.
-    
-    C:\Src\projeto-principal.TravamentoServico>hack hack hack
-    
-    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Vamos ver se funciona"
-    Committing to: C:/Src/projeto-principal.TravamentoServico/
-    modified teste.txt
-    Committed revision 952.
-    
-    C:\Src\projeto-principal.TravamentoServico>hack hack hack
-    
-    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Não funcionou. Mais uma vez."
-    Committing to: C:/Src/projeto-principal.TravamentoServico/
-    modified teste.txt
-    Committed revision 953.
-    
-    C:\Src\projeto-principal.TravamentoServico>hack hack hack
-    
-    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Desconfio de uma coisa..."
-    Committing to: C:/Src/projeto-principal.TravamentoServico/
-    modified teste.txt
-    Committed revision 954.
-    
-    C:\Src\projeto-principal.TravamentoServico>hack hack hack
-    
-    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Corrigido travamento."
-    Committing to: C:/Src/projeto-principal.TravamentoServico/
-    modified teste.txt
-    Committed revision 955.
-    
-    C:\Src\projeto-principal.TravamentoServico>doc doc doc
-    
-    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Comentando e documentando solucao."
-    Committing to: C:/Src/projeto-principal.TravamentoServico/
-    modified teste.txt
-    Committed revision 956.
+Eu sei que vivemos em tempos difíceis, onde até uma criaturinha singela como um Pikachu pode virar detetive de um filme noir. Tempos sombrios, onde temos nossa Privacidade Hackeada e parece que nada podemos fazer. Às vezes dá vontade de largar o emprego e viver como um Irlandês, fazendo servicinhos para a máfia, se sentindo O Rei Leão em um trabalho fora da Legalidade e Fora de Série, que satisfaz nossos desejos mais violentos. É como sobreviver Um Dia de Chuva em Nova York e dar Adeus À Noite, em uma passagem de Dor e Glória.
 
-Terminado o trabalho naquela máquina, geralmente gero um branch novo (para limpar o diretório) e recompacto a solução, copio para o Pendrive, e descompacto na máquina da empresa. O resto do caminho é como se eu tivesse feito as modificações na própria máquina:
+Mas muita calma nessa hora. Não se deve confundir arte e vida real. Toda Arte é Perigosa. Não adianta sermos infantis e gritar Shazam!, esperando sair pelos ares, como um Rocketman, virar um Homem Aranha da vida (ainda que Longe de Casa) ou uma espécie de Anjo de Combate. Não podemos ceder ao nosso sentimento mais Maligno; até porque todos Nós temos em alguma parte de casa um teto de Vidro, e flertar com a vida de um anti-herói pode fazer de nós no mundo real um trágico Brinquedo Assassino, mesmo que esperássemos um Parque dos Sonhos.
 
-{{< image src="server-commit.png" caption="Commit no server" >}}
+Por isso, esqueça as trevas, não seja o dono ou A Dona do Mal. Olhe para O Farol no fim do oceano, estreando dia 2 do ano que vem, 2020. É sinal de paz e Ascenção, nossa ou de Skywalker. Iremos Rumo às Estrelas, esquecermos nossa Mente Perversa e torcer por coisas boas, como uma competição inocente entre Ford vs Ferrari, e não o calor inconsequente de um Retrato de Uma Jovem em Chamas, nem o frio congelante de um Frozen 2. Vamos pelo equilíbrio, reconstruir um novo mundo.
+
+Afinal, Deus é Mulher e Seu Nome é Petúnia. Espero que este estreie também em 2020 =)
 

@@ -1,14 +1,11 @@
 ---
 categories:
 - writting
-date: '2011-12-30'
-link: https://www.imdb.com/title/tt0423294
+date: '2022-10-20T21:41:34-03:00'
 tags:
-- movies
-title: Tá Dando Onda
+- series
+title: Takki
 ---
 
-O teste da nova televisão e novo tocador de Blu-Ray do quarto foi com essa primorosa animação. A história gira em torno de Cody Maverick, um pinguim que deseja se tornar um ás do surfe, mesmo sem ter treinado muito, confiando apenas nas mensagens de auto-ajuda de Big Z, uma lenda do esporte que desapareceu misteriosamente durante um campeonato. Para quem deseja experimentar as diversas nuances de sua TV esse é um ótimo filme, pois além de ser uma animação e contar com contornos precisos e movimentos "realistas", ainda possui inúmeras tonalidades de cores e de luzes, pois a história se passa não apenas na praia, mas na floresta, durante a noite fria e o dia ensolarado ou nublado. Filmado com um tom documental, existem cenas que frequentemente voltam no tempo e que possuem o efeito de vídeo envelhecido cheio de ruídos.
-
-A dublagem nacional ajuda muito a contar a história, que não é original e possui um mal ritmo, mas que acaba agradando pelo tom irreverente com que é contada. Personagens como João Frango acabam sendo um show à parte, e o filme acertadamente dedica mais minutos para contar suas histórias periféricas.
+Série indiana com episódios curtos que vão variando. Eles gostam de cortar no momento dramático. É uma novela com drama, ação e romance. Muito mal dirigido e editado. Os ângulos são de turista tirando foto e os cortes às vezes precisam dar seu jeito, como repetir uma cena que foi filmada com duração tão curta que não dá para saber onde estão os personagens. A lógica visual e espacial é divertidíssima. Em um momento há uma perseguição à noite que termina no dia seguinte. Esses indianos têm um fôlego admirável. E não têm medo de passar vergonha.
 

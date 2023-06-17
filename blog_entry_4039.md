@@ -1,20 +1,16 @@
 ---
 categories:
 - writting
-date: '2010-09-24'
-link: https://www.imdb.com/title/tt1027718
+date: '2020-07-05'
+link: https://www.imdb.com/title/tt0086567
 tags:
 - movies
-title: 'Wall Street: O Dinheiro Nunca Dorme'
+title: War Games
 ---
 
-Essa seria a continuação do original Wall Street, quando o protagonista sai da prisão e sua filha namora um operador de Wall Street.
+Jogos de Guerra se passa no auge dos anos 80. Matthew Broderick é um nerd/hacker vivendo sua adolescência em Seattle e buscando conciliar seus desejos por máquinas, além de uma garota fitness de sua sala. Ambos vivem uma aventura de tirar o fôlego e que se passa dentro de um enorme galpão cheio de luzes piscando e pessoas vestidas de militares. O fantasma da Guerra Fria está desaparecendo, mas fica uma reflexão pertinente quando computadores começam cada vez mais a fazer parte da família americana: qual a melhor estratégia para evitar uma nova guerra senão sequer começá-la?
 
-O que vemos no começo é a caracterização da crise na forma de personagens muito bem caracterizados e com papéis bem definidos, como na fatídica reunião da quebra do primeiro banco de investimentos, em uma reunião contada com uma fotografia sombria e movimentos tensos.
+Este é um filme que flerta com o trash de uma maneira saudosista. Queremos hoje viver esta época mais inocente, com truques para não pagar conta de telefone e o sabor da conquista ao encontrar o contato de uma empresa de jogos eletrônicos para espiar qual a novidade que anunciaram na revista. Os nerds desse filme são reais e vivem na sala ao fundo, e é melhor não levar uma garota para lá. A trilha sonora é empolgada antes de ser empolgante, e a edição fluida do começo ao fim. É um bonito filme, feito com amor e atitude. Vê-se poucos assim hoje em dia. Note todo o ritmo criado de uma coisa puxa outra não nos faz questionar a fantasia disso tudo. Como um [Goonies] para adolescentes fanáticos por tecnologia, War Games é um hino à curiosidade e aos limites entre humano e máquina do ponto de vista de quem viu a revolução da Machine Learning começar.
 
-O movimento de câmera, aliás, busca frequentemente tentar inovar, como na sequência em que o protagonista sobe o prédio e vemos a câmera girar a subir do lado de fora, acabando por atravessar a parede de vidro. Um tanto previsível, mas funciona para dar uma ideia da grandeza em volta daquele bairro de Nova York.
-
-Aliás, previsibilidade pode ser descrita de duas formas nesse filme: de um lado sabemos várias coisas que aconteceram na crise e que são reproduzidas uma a uma na narrativa, e por outro, o destino dos personagens é imprevisível seja pelo caos que vira o roteiro de ponta-cabeça, colocando uma filha que não se decide se gosta do pai, se gosta de dinheiro e quais suas motivações.
-
-Com boas cenas que mantém a tensão na primeira metade do filme (como as reuniões de negócio já citadas), o filme vai se esvaindo da sua premissa e vai perdendo seus personagens que tanto desejam caracterizar essa passagem de história econômica. Chegamos ao terceiro ato cansados de tantas reviravoltas sem sentido, já não sentindo mais pelo destino dos personagens, pois já não sabemos ao certo seus anseios.
+[Goonies]: {{< relref "os-goonies" >}}
 

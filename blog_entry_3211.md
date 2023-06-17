@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-01-10'
+date: '2018-10-28'
 tags:
-- food
-title: Quantum Classic Ruby Red Blend Merlot/Pinotage/Ruby Cabernet África do Sul
+- wine
+title: Quará Torrontes Dulce
 ---
 
-Oleoso, pouco tânico, mas amadeirado no aroma; frutas vermelhas, vibrante e quente sempre.
+Safra 2017 é docinho, simples, corpo médio e fácil de beber; pouco enjoativo.
 

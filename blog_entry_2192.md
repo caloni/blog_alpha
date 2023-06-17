@@ -1,27 +1,18 @@
 ---
 categories:
 - writting
-date: '2019-04-26'
-link: https://www.imdb.com/title/tt5584756
+date: '2015-02-14'
+link: https://www.imdb.com/title/tt0363547
 tags:
-- cinemaqui
 - movies
-title: Mademoiselle Paradis
+title: Madrugada dos Mortos
 ---
 
-Mademoiselle Paradis segue a cartilha dos filmes de época, mas não deveria. O filme é muito mais do que isso, abordando temas como etiqueta e a dualidade entre ser medíocre em tudo ou sacrificar uma vida para ser algo pelo qual será lembrada.
+Queria comparar algum filme de zumbis que não fosse de George Romero ou comédia (Zumbilândia, Meu Namorado é um Zumbi) e nem tão dramático/ação (World War Z), mas que carregasse aqueles símbolos do velho Cinema de Romero no melhor estilo A Noite dos Mortos-Vivos. E eis que finalmente vi esse Madrugada dos Mortos, de Zack Snyder (do interessante Sucker Punch, do sensacional Watchmen e do infelizmente medíocre Homem de Aço).
 
-Baseado em fatos históricos e inspirado pelo livro de Alissa Walser (Mesmerized), sua heroína é Maria Theresia Paradis, uma moça que desenvolveu cegueira completa pela idade de três anos. Tocando o piano de maneira impecável, seus pais parecem adestradores orgulhosos de sua filha nas exibições que realiza em sua casa.
+Com uma fotografia saturada, cenas ágeis, suspense com trilha sonora e sons de arrepiar os ouvidos, o apocalipse zumbi de Snyder aproveita a mitologia e o universo de Romero e a própria atmosfera, o que não é nenhuma surpresa, pois se trata de um remake do filme dos anos 70. Curiosamente, tanto o shopping (Terra dos Mortos) quanto a ilha (A Ilha dos Mortos) foram reaproveitados por Romero em trabalhos posteriores.
 
-Ninguém possui tato no século 19 e os deficientes são tratados como um estorvo e julgamentos estéticos são ditos na cara (uma de suas "amigas" a diz "depois do tratamento sua cabeça começou a feder e seus olhos ficaram ainda pior"). Como se não bastasse, os "cientistas" da época tinham à sua disposição uma vasta gama de experimentos completamente anti-éticos a ser realizados em seus pacientes.
+Usando uma introdução espetacular em que a enfermeira Ana (Sarah Polley) vê sua filha e seu marido estranhamente possuídos por uma doença semelhante a raiva, o filme mostra rapidamente o que o mundo se torna em uma sequência que enxergamos o carro inteiro de Ana e a atmosfera de sua vizinhança. Usando o mesmo esquema durante todo o filme, as sequências de ação são eficazes mesmo para uma produção de baixo orçamento, o que deixa no chinelo trabalhos trash cômicos como Sharknado (apesar de eu gostar dos tubarões voadores). O ritmo do filme serve tanto para esconder esses defeitos como para esconder a profundidade da narrativa, já que os personagens são, claro, unidimensionais, mas representam justamente seres humanos genéricos. Porém, mesmo assim, possuem mais profundidade que a grande maioria dos dramalhões Hollywoodianos.
 
-Um deles, Franz Anton Mesmer (Devid Striesow), tem tido êxito com vários pacientes usando o "poder mágico" do invisível e indetectável (e indolor) eletromagnetismo, o que causa um frisson na comunidade. Infelizmente estão todos cegos nesse mundo da realeza e ninguém percebe que na verdade cuidado e atenção são o segredo para as curas milagrosas.
-
-Este é um filme sobre como pessoas vistas como inferiores (em sua maioria mulheres, aleijados e criados) são tratadas como objetos, das mais diferentes formas. Se é uma serviçal assediada, é apenas um incômodo que ela tenha engravidado. Se uma criança demente sofre um acidente fatal, talvez fosse melhor assim em vez de viver uma vida miserável.
-
-Mas esses são detalhes de um filme longo e cansativo dirigido pela austríaca Barbara Albert, que não consegue fluir sua narrativa e ainda por cima decide não usar nenhuma trilha sonora artificial, o que torna algumas longas sequências onde quase nada acontece quase insuportáveis. Ele repousa quase inteiramente no talento da atriz principal, Maria Dragus.
-
-Dragus nos dá a exata sensação de alguém fora de qualquer categoria estável do mundo onde nasceu. Sua esperança era se tornar exímia pianista, mas quando ela começa a enxergar um pouco ela passa a não fazer nenhum dos dois direito. Os seus olhos se reviram de uma maneira completamente caótica, em uma mistura de paixão e passividade. Sua dor é sentida pelos seus agitados movimentos, mas ao mesmo tempo a alegria de fazer algo (tocar piano) tão bem feito.
-
-Infelizmente este é um filme disposto a descrever a História de maneira burocrática, que apenas pincela alguns comentários sociais. O resto é pura direção de arte de época, com figurinos bordados à mão e as bonitas músicas tocadas ao piano por Paradis. É bonito, mas oferece pouco aos mais ansiosos por comentários atuais sobre uma época grotesca.
+O melhor que há em Madrugada dos Mortos é sua despretensão e suas brincadeiras com metalinguagem. Quando conhecemos o destino do suposto vilão, por exemplo, é ele melhor que diz: "era de se esperar". Saber brincar com o próprio material é uma excelente forma de contar histórias que não devem ser levadas a sério. É curioso, portanto, como séries como The Walking Dead conseguem tantas temporadas com uma base dramática rala que usa zumbis, seres mitológicos cômicos, como o perigo constante. Faça-me o favor: os bichinhos sequer correm! Ponto a mais para Snyder.
 

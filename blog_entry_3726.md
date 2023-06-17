@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-04-04'
-link: https://www.imdb.com/title/tt2669336
+date: '2013-07-19'
+link: https://www.imdb.com/title/tt1046947
 tags:
 - movies
-title: Time Lapse
+title: Tinha Que Ser Você
 ---
 
-Mais um filme de viagem no tempo. Dessa vez quem viaja é só a luz. Uma câmera tira fotos 24 horas no futuro e entrega para três jovens que perderam a capacidade do livre-arbítrio. Isso porque agora eles precisam reproduzir a foto tirada custe o que custar, se não quiserem morrer.
+Eu sei que o desfecho final possui vários defeitos. É esquemático porque segue à risca a cartilha das comédias românticas, o que acaba prejudicando demais aqueles dois personagens até então bem construídos. Está longe do clima depressivo de todo o resto, onde o diretor tenta amenizar com músicas bonitinhas e um pouco do desconcertante humor britânico (mas a partir de um dado momento, acompanhar a mãe paranoica nem é mais interessante).
 
-Time Lapse tem o charme musical e temático daqueles thrillers onde algo muito estranho vai ficando ainda mais estranho conforme a história vai avançando. No entanto, ele se rende a um roteiro estruturado demais, que apenas vai passando dia após dia, e que mesmo com o risco eminente de dar tudo errado, prefere fazer um joguete de triângulo amoroso. É como se a câmera que tira as fotos, ou seu inventor, já soubesse que seu melhor uso é materializar fetiches dos espectadores.
+Porém, e coloco um grande porém agora, sua introdução e desenvolvimento são exemplares. A colocação do personagem de Dustin Hoffman como pai deslocado de uma família e de um emprego aos quais já não pertence mais é tocante por vir aos poucos e com certo ritmo. Tanto o desempenho de Hoffman quanto os enquadramentos ressaltando seu isolamento do mundo contribuem para a criação de um ser humano tão complexo quanto Bill Murray em [Encontros e Desencontros].
 
-Ele também conta com um namorado pintor que é o oposto do estereótipo de artista. Frio e calculista, ele sempre coloca na balança a situação sem nunca sentir muito mais que um leve desapontamento. Até quando sua namorada precisa beijar seu (suposto) melhor amigo em sua presença.
+Já Emma Thompson desenvolve uma solteirona sem os dramas existenciais. Alguém que já se acostumou com os foras, e é levada pela mãe a se empenhar em uma vida a dois que já não acredita mais. Sua cena sozinha no banheiro é a mais sintomática e tocante nesse sentido, pois revela algo já existente em seus olhos, sua voz e seus trejeitos, mas ainda não declarada.
 
-O filme também conta com um apostador extremamente estúpido, daqueles que acabou de achar o ganso de ovos de ouro e agora sempre vai comprar pãezinhos todas as manhãs com um quilo de ouro debaixo do braço, e que em vez de pensar em ganhar na loteria de vez prefere brincar de levantar suspeitas da máfia das corridas de cachorro.
+Os detalhes periféricos invadem nossa noção de realidade sem pedir licença. A trilha sonora, bonita, se coloca várias vezes para forçar a mudança de humor do quadro formado. Uma pena, pois enquanto Hoffman e Thompson nos aproximam do seu drama, a música nos afasta pelo seu melodrama barato. A insegurança do diretor quanto ao desempenho desses dois atores veteranos (ou do público mal formado) é risível.
 
-O que de certa forma demonstra que, mesmo que as pessoas tivessem o poder de ver o futuro, fariam tudo exatamente como seria esperado que fizessem. Ao mesmo tempo, o filme acaba virando uma doce e sagaz crítica de como a ambição desmedida das pessoas as faz se tornarem escrava do tempo, e não mais donas do seu próprio destino.
+Mesmo assim, seu primeiro desfecho é eficiente demais para não gostarmos dele. Tanto que poderíamos aceitar a tristeza e dor de uma partida repentina sem crise (pelo bem e integridade daquele casal). Não é o que acontece, contudo, o que gera o desapontamento do primeiro parágrafo desse texto.
 
-E tudo isso em um filme bobinho, que apesar de bem conduzido, também não consegue evitar ser bobinho o tempo todo. Parece que o roteiro foi sendo escrito uma página vinda do futuro por vez, e não havia nada a fazer.
+[Encontros e Desencontros]: {{< relref "encontros-e-desencontros" >}}
 

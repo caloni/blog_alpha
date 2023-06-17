@@ -1,20 +1,31 @@
 ---
 
-O que torna uma figura histórica, em períodos de guerra, um herói para seu povo? Quais sacrifícios são necessários para que as lembranças desse tempo sejam tão marcantes que acabam por serem inscritas nos extensos pergaminhos e cujas histórias sejam contadas de geração em geração ininterruptamente? É com esses questionamentos, vindos desde o título, e com uma premissa simples de um homem que ajudou o rei a manter sua integridade física, e que por isso, será agraciado pelo seu reino, que Yimou Zhang marca os compassos de sua narrativa impecável que narra através do episódio da unificação da China a história de seres extraordinários e suas ações e sentimentos mais nobres.
+There a tactic move here hidden. White move and get instant material.
 
-Para conseguir o resultado almejado, a estilização é naturalmente forte, e tanto os cenários grandiosos inspiram os sentimentos mais nobres dos personagens quanto as cores de cada ambiente sintetizam a essência dos acontecimentos. Não é preciso dizer muito da história. Os olhares de um elenco afiadíssimo, formado por quatro mestres na luta de espadas, são suficiente para entendermos muito mais das suas personalidades.
+{{< image src="board.png" >}}
 
-As cenas de luta, um diálogo mais aberto e de tirar o fôlego, não pecam pelo excesso, e se transformam na pulsação do filme. Cada momento que dois mestres esgrimam entre si possui o tempo exato que precisamos para entender o que está em jogo. Ao mesmo tempo, não deixa de ser uma experiência visual de encher os olhos, não apenas pelas coreografias, inspiradas diretamente de [O Tigre e o Dragão] e seus efeitos voadores, mas aumentada em um grau que torna tudo mais épico e mais solene. Os cenários fazem parte de cada luta, e com ela interagem (como a chuva e o velho que toca na casa de jogo, as areias do deserto, as folhas caindo das árvores e as cortinas verdes do palácio do rei e, por que não, a chuva de flechas que lembra um enxame mortal de gafanhotos).
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.18"]
+[White "cavaloni"]
+[Black "raajpatel10"]
 
-Partindo de um econômico, mas profundo e inspirador roteiro escrito por Feng Li, Bin Wang e o próprio Yimou Zhang, o diretor entende que precisa prender a atenção mais pelo visual do que pelos detalhes sutis de sua história, que, seguindo as lendas orientais, é simples e possui poucos contratempos, embora contá-los aqui estragaria boa parte dos seus imprevistos impactos: o exímio esgrimista Sem Nome (Jet Li) é recebido pelo Imperador Qin (Daoming Chen) para contar como conseguiu matar dois dos mais perigosos assassinos e inimigos do reino, Broken Sword (Tony Leung Chiu Wai) e Flying Snow (Maggie Cheung). Em meio a essa conversa temos a oportunidade de conhecer um pouco mais sobre o desconhecido herói, assim como indiretamente sobre o próprio imperador, uma pessoa extremamente sensata e ponderada. Apesar de simples, o potencial dramático surge espontâneo em cada situação nova que se desdobra, e que consegue enriquecer ainda mais as lutas, que não tornam-se apenas um espetáculo visual de um roteiro vazio. Pelo contrário: história e visual andam de mãos dadas, e ficam mais fortes.
-
-[O Tigre e o Dragão]: {{< relref "o-tigre-e-o-dragao" >}}
+1. Nf3 c5 2. e4 d5 3. exd5 Qxd5 4. Nc3 Qe6+ 5. Qe2 Nf6 6. Nb5 Na6 7. d4 cxd4 8.
+Nfxd4 Qxe2+ 9. Bxe2 e5 10. Nf3 e4 11. Nfd4 Bd7 12. Be3 Bxb5 13. Nxb5 Be7 14.
+Bxa7 O-O 15. Bb6 Nb4 16. O-O Nxc2 17. Rac1 Nb4 18. a3 Nbd5 19. Bd4 Rfc8 20. Bc4
+h6 21. b3 Bxa3 {There a tactic move here hidden. White move and get instant
+material.} 22. Rfe1 (22. Nxa3 Rxa3 23. Bxf6 gxf6 (23... Nxf6 24. Bxf7+ Kxf7 25.
+Rxc8) 24. Bxd5) 22... Bxc1 23. Rxc1 Nf4 24. Kf1 N6d5 25. Nd6 Rc7 26. Nxe4 Ra3
+27. Nd6 Rxb3 28. g3 Nd3 29. Rc2 Rb1+ 30. Ke2 1-0
+```
 
 ---
 categories:
 - writting
-date: '2016-03-19'
-link: https://www.imdb.com/title/tt1213663
+date: '2021-10-12T12:38:11-03:00'
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Heróis de Ressaca
+title: Higiene Social

@@ -1,19 +1,11 @@
 ---
 categories:
 - writting
-date: '2012-02-20'
-link: https://www.imdb.com/title/tt0198781
+date: '2020-10-13'
 tags:
-- movies
-title: Monstros S/A
+- wine
+title: Montepulciano
 ---
 
-Interessante notar como a Pixar em seus primeiros filmes costumava inserir brincadeiras que, de certa forma, acusavam o espírito jovem e experimentador daqueles tempos. Mais impressionante, porém, é perceber como esse deve ter sido a semente para o amadurecimento da técnica antes de filmarem jovens clássicos como Os Incríveis, Wall-E, [Ratatouille] e [Up!].
-
-Em Monstros S/A, é preciso lembrar, ainda estamos engatinhando nas animações computadorizadas para o cinema. Mas a passos largos. A grande novidade na época era a perfeição do efeito dos pelos de Sulley, um dos monstros da história que possui a função de assustar as crianças e assim poder coletar seus "gritos" em uma forma de energia que é usada no mundo dos monstros. Apesar de datado, a premissa do filme consegue ser uma das mais originais de todas as obras da Pixar, e seu personagem humano, uma garotinha apelidada de Boo que acaba entrando sem querer no mundo dos monstros, continua adorável, além de participar das cenas mais emocionantes do longa.
-
-Outro detalhe admirável é entender que entre os princípios de criação do estúdio estava o uso de temas e situações que nunca ficam datadas, servindo para que seus filmes envelheçam bem. No caso de Monstros S/A, isso continua funcionando bem, apesar de algumas referências já mais passadas e da perigosa dublagem brasileira que utiliza maneirismos na língua que logo estarão ultrapassadas.
-
-[Ratatouille]: {{< relref "ratatouille" >}}
-[Up!]: {{< relref "up" >}}
+Este vinho italiano "riserva" tem um aroma que começa azedo, subindo logo depois um doce. Por fim, o amadeirado domina, seguido por várias nuances que variam entre o frutado e o maduro. Não é um frutado fresco, pois ele é leve demais para se fazer presente, mas a palavra "leve" aqui depende do paladar de cada um. O corpo deste vinho para mim é médio para forte, e seu sabor bate exatamente com o descrito com o aroma, o tornando um trabalho final equilibrado. Para quem já visitou vinícolas irá se lembrar com ternura das cavas, lugares sagrados onde a madeira está mais presente, pois é lá que estão as barricas. Esse Montepulciano D'Abruzzo da vinícola Torre Cerere é um dos poucos vinhos do velho mundo que vi que há um período de reserva de 24 meses. É obrigatório para um vinho DOC (de origem controlada) que possa ser chamado de reserva fique dois anos descansando, e pelo menos nove meses, o período de uma gestação, em carvalho. Nesse caso ele ficou um ano inteiro em barricas e outro ano em tanques de aço inox. A safra de 2016 que tenho em mãos está no ponto ótimo de consumo. Um brinde à complexidade.
 

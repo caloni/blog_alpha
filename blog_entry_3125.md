@@ -1,49 +1,89 @@
 ---
 categories:
-- reading
-- writting
-date: '2018-07-15'
-tags:
-- books
-title: Por Dentro do Roteiro
+- coding
+date: '2010-04-21'
+tags: null
+title: Por que Long Pointer
 ---
 
-O livro de Tom Stempel, acadêmico e crítico cinematográfico, parece ter sido feito com um olho nos negócios e outro no entretenimento. Isso porque para Stempel o importante em um roteiro não é seguir uma estrutura estética agradável, nem mover a história em uma trama que te prenda, mas fazer os personagens serem tão reais que você os seguirá para onde quer que seja. Mesmo em um blockbuster.
+Esse artigo continua a explicação sobre [os typedefs arcaicos](http://www.caloni.com.br/typedef-arcaico), já que ainda falta explicar por que diabos os ponteiros da Microsoft começam com LP. Tentei explicar para [minha pupila](http://www.caloni.com.br/basico-do-basico-ponteiros) que, por ser código dos anos 80, as pessoas usavam LP para tudo, pois os CDs ainda não estavam tão difundidos.
 
-Isso é porque para ele Titanic, de James Cameron, não é um exemplo a ser seguido porque é, perdoe o trocadilho, superficial, ou os Episódios I, II e III da saga Star Wars são exemplos de roteiros ruins simplesmente porque não são escritos para convencer ninguém, mas apenas bater cartão no universo de George Lucas.
+    
+    /** @brief Para instanciar um Bozo. @date 1982-02-21 */ 
+    typedef struct _BOZO { 
+       char helloMsg[100]; /* definir para "alô, criançada, o bozo chegou..." */ 
+       float currentTime; /* definir para 5e60 */ 
+    }
+     BOZO, *LPBOZO;
 
-Ágil e acompanhando a história conforme ele vai descrevendo, o objetivo do autor não é ditar estruturas de sucesso como Syd Field, mas fazer o leitor pensar sobre a estrutura de uma história que está sendo assistida e como isso se encaixa na indústria de entretenimento. Quando ele comenta, por exemplo, que o roteirista precisa dar abertura para que os atores atuem, ou que existam momentos de abrir os olhos com efeitos visuais, ele está sendo pragmático ao mesmo tempo que tenta ser academicamente correto a respeito da profissão de escritor para o Cinema.
+    
+    /** @brief Para instanciar um Pokemon. @date 1996-03-01 */ 
+    typedef struct _PIKACHU 
+    { 
+     char helloMsg[100]; // setar para "pika, pika pikachuuuuuuu..." 
+     int pokemonID; // setar para 24 
+    }
+    PIKACHU, *CDPIKACHU;
 
-Por outro lado, ele é fã incondicional de Lawrence da Arábia porque o roteiro deste épico é formidável do começo ao fim do ponto de vista da estrutura de seu personagem. Ele usa as diferentes versões do roteiro e o projeto atribulado de adaptação das memórias de T.E. Lawrence para a telona para explorar a fabricação de um filme e como o roteiro se modifica conforme a dança. A primeira parte do livro geralmente dá bons exemplos de como o roteirista já em profissão pode trabalhar junto de uma equipe multidisciplinar e ainda se manter. E é assim que nascem os roteiros aclamados.
+Não colou. Então vou tentar explicar do jeito certo.
 
-A parte do meio já comenta sobre aqueles trabalhos medíocres balanceando o que os autores fazem de certo e o que fazem de errado, e uma análise acelerada de vários filmes que poderiam ser melhor. Mas o que importa para Stempel não é apontar o quê, mas perguntar para o leitor: como você faria diferentes nesta parte? Sua análise sobre Tróia é uma das melhores do capítulo e do livro.
+Antigamente, as pessoas mandavam cartas umas para as outras. Carta, para você, caro leitor de quinze anos, era um e-mail implementado em hardware.
 
-Já o final do livro deixa um gosto amargo na boca por tratar dos filmes que, segundo ele, possuem mais erros que acertos. E ele aponta no projeto porque eles não possuem a habilidade que um roteirista deveria ter em seu trabalho. Ele pega no pé particularmente de George Lucas e James Cameron, mas não faltam exemplos de trabalhos preguiçosos e que são criados pela inércia.
+Para mandar um e-mail, usamos o nome da pessoa e o domínio em que seu e-mail é endereçado, ex: nome-da-pessoa@dominio.com.br. Para mandar uma carta usamos duas informações básicas: o nome da rua e o número da casa.
 
- - Onde o filme começa?
- - No presente?
- - No presente, pulando para o passado?
- - No passado, saltando para o presente?
- - Como os personagens são estabelecidos?
- - Mostrando?
- - O que eles fazem. O que nós vemos. Contando?
- - O que eles dizem. O que escutamos a respeito deles. O que outras pessoas dizem a eles. Os personagens são adequados para o filme?
- - A história é adequada para os personagens?
- - O que o roteirista está nos contando ou mostrando?
- - Ou não nos contando?
- - Por quê?
- - Como o filme está se movimentando?
- - A história está se desenvolvendo?
- - Os personagens estão se desenvolvendo?
- - Os personagens estão se comportando de maneira tola?
- - Por quê?
- - Precisamos saber isso?
- - O roteirista segue o padrão de Syd Field ou o de Joseph Campbell muito rigidamente?
- - O filme está se afastando daquilo de que trata?
- - Ele está roubando dos melhores?
- - Sobre o final: Ele conclui a história que o filme começou a contar?
- - Satisfaz o espectador?
- - Demora muito?
- - O filme cumpre o que prometeu?
- - O filme é sobre o quê?
+{{< image src="endereco-da-carta.png" caption="Endereço de uma carta" >}}
+
+Consequentemente enviamos dois comandos ao carteiro: meu amigo, vá para a rua tal. Chegando lá, encontre o número 1065.
+
+Considere que estamos falando do mesmo bairro ou cidade, o que na minha analogia seria um computador e sua memória. Para enviar cartas para outros bairros em outras cidades (outros computadores em outras redes) teríamos que informar também outros dados, como nome da cidade e CEP.
+
+{{< image src="getting-right-on-street.png" caption="Encontrando o caminho" >}}
+
+Nesse exemplo também podemos usar o Juquinha do bairro para entregar a carta e economizarmos 10 centavos.
+
+Agora, repare que interessante: em uma rua, cabem no máximo N casas. Se você tentar construir mais casas vai acabar invadindo o espaço de outra rua.
+
+E, já que estamos falando do endereço do destinatário, já podemos relevar que esse endereço constitui um ponteiro em nossa analogia. Se você está usando dois dados para informar o endereço, então estamos falando de um ponteiro longo, long pointer, ou LP!
+
+{{< image src="relacao-endereco-carta-segmento-offset.png" caption="Relação Segmento x Offset com Rua x Número" >}}
+
+#### Long Pointers
+
+Na terminologia Intel para as plataformas 16 bits, a memória do computador era acessível através de segmentos (ruas) e offsets (números), que eram pedaços da memória onde cabiam no máximo N bytes. Para conseguir mais bytes é necessário alocar memória em outro segmento (outra rua).
+
+Os ponteiros que conseguiam fazer isso eram chamados de long pointers, pois podiam alcançar uma memória mais "longa". Os ponteiros que apenas endereçavam o offset (número) eram chamados, em detrimento, short pointers, pois podiam apenas apontar para a memória do seu segmento (rua).
+
+Ora, se seu destinatário está na mesma rua que você, tudo que você tem a dizer ao Juquinha é: "Juquinha, seu moleque, entrega essa carta no número 1065, e vai rápido!". Nesse caso você está usando um short pointer.
+
+Porém, no exemplo que demos, o destinatário está em outra rua. Se o Juquinha entregar a carta no número 1065, mas na rua errada, estará errando o destinatário. Por isso é que você deve usar um long pointer e falar para o Juquinha do segmento!
+
+{{< image src="getting-lost-on-streets.png" caption="Se perdendo nas ruas" >}}
+
+"Juquinha, seu moleque safado, entrega essa carta no Segmento 0xAC89, Offset 0x496E. E vê se anda logo!"
+
+Essa frase era muito usada nos anos 80, com seus 16 bits e tudo mais.
+
+#### Voltando ao Windows
+
+Com toda essa analogia, fica fácil perceber que o Windows não cabe em uma rua só. Seus aplicativos precisam de muitas ruas para rodar. Isso exige que todos seus ponteiros sejam long, pois do contrário o Juquinha estará entregando as cartas sempre nos endereços errados. Dessa forma, foi estipulado o typedef arcaico padrão para todos os tipos da API que usasse LP (Long Pointer) como prefixo:
+
+    
+    typedef unsigned long WORD, *LPDWORD;
+    typedef const char* LPCSTR;
+    typedef <coloque-seu-tipo-aqui> APELIDO, *LPAPELIDO;
+
+E é por isso que, historicamente, todos os ponteiros para os apelidos da API Win32 possuem sua contraparte LP.
+
+Com a era 32 bits (e mais atualmente 64 bits) os endereços passaram a ser flat, ou seja, apontam para qualquer lugar na memória. Se eu quisesse continuar minha analogia falaria que é o equivalente a uma coordenada GPS, também muito na moda, e que pode apontar para qualquer lugar do planeta. Eu, por exemplo, já trabalhei <del>trabalho</del> perto das coordenadas [-23.563596,-46.653885](http://maps.google.com.br/maps?f=q&source=s_q&hl=pt-BR&geocode=&q=av.+paulista,+sao+paulo&ie=UTF8&hq=&hnear=Av.+Paulista+-+S%C3%A3o+Paulo&z=15), o que eu costumo dizer que fica bem próximo do Paraíso =).
+
+#### Largando velhos hábitos
+
+De uns anos pra cá, existem novos typedefs nos headers que permitem o uso dos apelidos Win32 apenas com um P inicial.
+
+    
+    typedef unsigned long WORD, *LPDWORD, *PDWORD;
+    typedef const char *LPCSTR, *PCSTR;
+    typedef <coloque-seu-tipo-aqui> APELIDO, *LPAPELIDO, *PAPELIDO;
+
+A escolha é livre. Assim como com o typedef arcaico.
 

@@ -1,12 +1,12 @@
 ---
 categories:
 - writting
-date: '2020-10-22'
-link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-da-serra/
+date: '2020-08-10'
+link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-sao-francisco/
 tags:
 - coffee
-title: Fazenda da Serra
+title: Fazenda São Francisco
 ---
 
-Esse café é diferente do que se costuma provar nas rodas gourmet. Ele possui atributos florais, e não frutados. É menos doce, mais aromático (até no sabor) e pode soar sem graça para alguns, mas é o equilíbrio entre as nuances a chave para entendê-lo.
+Esse café tem um frescor que não sei se onde vem. Seu corpo é leve, mas o sabor é mais complexo, com notas cítricas, frutadas, misturadas com um levíssimo amargor típico de um café potente. A acidez é quase inexistente, se transformando em uma bebida viciante, onde uma caneca matinal de 300ml já não são mais suficientes.
 

@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2022-10-09T17:55:28-03:00'
+date: '2019-02-28'
 tags:
-- series
-title: Post Morten
+- beer
+title: Praya Wit Bier
 ---
 
-Uma visão realista e dramática sobre vampirismo na Noruega e que mantém sua trama fechada com personagens bem definidos em eventos que os amarram. O resultado é um drama de terror que lembra Deixa Ela Entrar.
+É uma cerveja do Rio de Janeiro com corpo muito leve e desnecessariamente valorizada. Ignore.
 

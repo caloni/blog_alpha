@@ -1,28 +1,56 @@
 ---
-
-Não há muito o que falar da história em Cowboys & Aliens, novo filme de Jon Favreau (dos [dois] [Homem de Ferro] e Zathura - Uma Aventura Espacial). O título já torna tudo muito óbvio, por mais bizarro que isso seja. No entanto, acredito que a definição desse gênero misto acabe sendo o principal motivo do filme não conseguir "decolar" em nenhum momento, sendo constantemente cozinhado em forno brando.
-
-O filme começa com uma introdução no deserto, onde um homem desconhecido (Craig), uma alusão ao personagem clássico de Clint Eastwood, se encontra com uma espécie de algema em um dos braços que irá se revelar uma arma alienígena quando estes aparecerem novamente por aquelas bandas.
-
-Nessa mistura de gêneros, mesmo com as óbvias homenagens, fica bem claro que o maior prejudicado é o western, que possui um Harrison Ford que cresce durante o longa e um Daniel Craig que consegue se estabelecer razoavelmente bem logo na primeira cena (e que parece ter sido sabotado pelo resto da história), mas é só. A direção e a razão de aspecto do longa privilegia o gênero, contando com cenas que lembram velhos clássicos (como a sequência do saloon e a própria introdução no deserto), ainda que estéreis do ponto de vista criativo.
-
-Ainda no elenco, Olivia Wide parece perigosamente caminhar para um tipo característico de personagem como fez em Tron, mas só.
-
-Já pulando para o "gênero ET", é interessante notar sua constituição em torno de um mundo mais primitivo dos humanos, pois da mesma forma esses alienígenas esboçam aspectos que refletem a própria época humana retratada (eles também são exploradores e possuem motivos tão mesquinhos quanto os humanos). Igualmente curioso é constatar que eles tenham também um único tipo de arma que se assemelha aos revólveres do velho oeste - e note como em determinado momento o personagem de Craig parece "empunhar" seu punho prestes a "sacar". Da mesma forma, suas naves possuem asas que lembram penas de aves, e seu método de caça é idêntico ao de um vaqueiro pegando bezerros na pradaria (e até o formato do feixe azul que emitem lembra uma corda de caubói).
-
-(Igualmente interessante é sua nave-mãe, que coincidentemente lembra nossos foguetes que irão existir daqui a duas centenas de anos.)
-
-É verdade que o filme empolga no final, e eventualmente diverte. Porém, o método burocrático de proteger ambos os gêneros talvez tenha travado o humor, por exemplo, que costuma ocorrer nos diálogos inspirados dos [clássicos de Sergio Leone], ou até os menos pretensiosos exemplos de Western-Spaguetti.
-
-[Homem de Ferro]: {{< relref "homem-de-ferro" >}}
-[clássicos de Sergio Leone]: {{< relref "tres-homens-em-conflito" >}}
-[dois]: {{< relref "homem-de-ferro-2" >}}
-
----
-categories:
-- writting
-date: '2015-12-17'
-link: https://www.imdb.com/title/tt3302820
+categories: []
+date: 2017-09-26 10:21:02-03:00
 tags:
-- movies
-title: 'A Conspiração da Vaca: O Segredo da Sustentabilidade'
+- ccpp
+title: C++ Moderno Arranca os Cabelos por Você (std::move e classes simples).
+---
+
+Um dos [últimos posts](https://groups.google.com/forum/#!topic/ccppbrasil/-AC9U7J-0Zg) no grupo CCPPBR do Thiago Adams chama mais uma vez a atenção para a complexidade infinita que linguagens como C++ estão preferindo tomar. Esta é a geração que irá sofrer as dores de compatibilidade com o passado mais que todas as outras que virão.
+
+Isso porque mudanças pontuais que vão sendo aplicadas na linguagem e biblioteca, como *move semantics*, não cabe mais em exemplos de livrinhos de C++ para iniciantes da década de 90:
+
+```
+#include <string.h>
+#include <stdlib.h>
+#include <memory>
+
+struct X
+{
+    char * pString = 0;
+    X() {}
+    X(const char* s)
+    {
+        pString = _strdup(s);
+    }
+    ~X()
+    {
+        free(pString);
+    }
+};
+
+int main()
+{
+    X x1;
+    const X x2("a");
+    x1 = std::move(x2);
+
+    return 0;
+}
+```
+
+Neste singelo exemplo, que está errado by design, a classe X não se preocupa em proteger-se de cópias simples. Mas o programador também não se protege da ignorância e usa **std::move** como se ele magicamente movesse referências const, o que é absurdo.
+
+{{< image src="zi5GJxE.png" caption="Imgur" >}}
+
+A questão, porém, não é sobre qual é o problema no código, mas os aspectos de design de C++ que podem levar futuros programadores a se depararem com o mesmo problema em versões multicamadas de complexidade. Este é um exemplo óbvio, mas até quando será?
+
+Esta crítica pode levar (pelo menos) para dois diferentes caminhos:
+
+ - O funcionamento do std::move não é intuitivo e pode levar a erros semânticos ("se usar o move estou movendo referências"); programador não conhece o funcionamento por completo.
+ - Em C++ o esforço de manter uma classe é muito maior hoje do que em 98/03 ("tomar cuidado com reference, const reference, rvalue reference..."); isso concordo; as mudanças são bem-intencionadas, mas a linguagem é velha com alguns esqueletos que podem começar a balançar.
+
+C++, assim como o Brasil, desde o começo nunca foi para amadores. Hoje em dia ele é impossível. Ouço galera falar que está ficando lindo, mas, francamente, está virando é um ninho de cobras. Mantenedores de bibliotecas, se não estão já arrancando os cabelos, deveriam começar.
+
+Mas talvez com C++ 17+ os cabelos passem a cair sozinho...
+

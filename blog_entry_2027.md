@@ -1,39 +1,32 @@
 ---
 categories:
-- playing
-date: '2023-02-15T17:36:26-03:00'
-link: https://www.chess.com/game/live/70231398971
+- writting
+date: '2015-05-20'
+link: https://www.imdb.com/title/tt2802144
 tags:
-- english
-- chess
-title: King exposure is the key to victory
+- movies
+title: 'Kingsman: Serviço Secreto'
 ---
 
-White plays and keep advantage.
+Estou passando atualmente por uns mal bocados à noite por causa de um culto religioso organizado por retardados mentais em um galpão próximo daqui. Além da figura horrenda de um pastor cuspindo seu ódio em gritos ao microfone que "elevam" a raça humana à posição de escória do planeta, tal evento é realizado muito provavelmente em um local infestado de pessoas cujo passado eu temo saber, já que ele tem que ser terrível o suficiente para que alguém se sujeite a um ritual que denigre a dignidade humana a níveis que, caso um mendigo estivesse presente, sem tomar banho nos últimos meses, tossindo um catarro de cor e forma desconhecidos enquanto grunhe e coça seus órgãos genitais, por comparação ele se transformaria no cavalheiro mais refinado, educado e interessante de todo o recinto.
 
-{{< image src="board1.png" >}}
+Entao não imaginam a coincidência irônica de eu estar assistindo a Kingsman exatamente no horário desse show de horrores. Isso porque nesse filme há um momento dos mais inspirados, onde o agente secreto realiza uma verdadeira carnificina em uma igreja dirigida por um pastor também vestindo seus trajes de ódio e rancor. Se eu precisasse te convencer a assistir a este filme seria precisamente por causa dessa cena.
 
-And now... black move and M4.
+Mas nem de longe o filme é apenas isso.
 
-{{< image src="board2.png" >}}
+Brincando todo o tempo sobre as referências a respeito de filmes de espiões, e filmado nos mesmos moldes (afinal de contas, é o Império Britânico), o filme dirigido pelo mesmo Matthew Vaughn de Kick Ass é de uma lógica absurda como os filmes de espionagem, mas aos poucos ele se revela como uma abordagem muito mais realista do que os próprios filmes que homenageia. E não são poucos: a série James Bond, a série Bourne, 24 Horas (conta como filme), Kill Bill, Pulp Fiction. Se Quentin Tarantino resolvesse filmar uma aventura de espionagem, esse seria um resultado muito próximo (talvez com mais cenas paradas e diálogos).
 
-```
-[Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2023.02.15"]
-[White "cavaloni"]
-[Black "elocubrado2001"]
+Não à toa, seu super-vilão é ninguém menos que Samuel L. Jackson em uma mistura de seus personagens nos filmes do Tarantino com um bônus: Corpo Fechado. Aqui faz Valentine, um bilionário que usa dinheiro de filantropia para tentar salvar o mundo, com um sotaque língua-presa que oscila com harmonia entre o cafona e o memorável (em determinado momento ele acusa uma outra pessoa de não estar falando direito). Avesso a qualquer visão de violência, como sangue, ele possui a capanga mais eficaz de todas (também fruto de uma série de filmes), que usa sapatos de corredor para deficientes como lâminas afiadíssimas, a ponto de cortar uma pessoa ao meio (coisa que de fato ela faz!). Seu nome? Gazelle (Sofia Boutella). Sim. Kingsman é divertido ao máximo até nos nomes.
 
-1. Nf3 e6 2. e4 h6 3. d4 d6 4. b3 a6 5. Bb2 Nc6 6. g3 Nf6 7. Nbd2 Be7 8. Bg2 O-O
-9. O-O Re8 10. Re1 Bf8 11. c4 d5 12. e5 Nd7 13. c5 b6 14. cxb6 Nxb6 15. Rc1 Nb4
-16. Bf1 Nxa2 17. Ra1 Nb4 18. Bc3 Nc6 19. Bd3 Ne7 20. Qe2 Bb7 21. Bxa6 Bxa6 22.
-Rxa6 Rxa6 23. Qxa6 Nc6 24. Ra1 Bb4 25. Qd3 Qd7 26. Ne1 Bxc3 27. Qxc3 Ra8 28. Nc2
-Rxa1+ 29. Qxa1 Na5 30. Qxa5 Qc6 31. Qc5 Qa8 32. Qxc7 Qa6 33. Kg2 Qa5 34. Nf3 Qb5
-35. b4 Nc4 36. Qc5 Qa4 37. Ne3 Nxe3+ 38. fxe3 Qa2+ {How to know that the King
-exposure keep my advantage $2} 39. Kh3 (39. Kf1 Qb1+ 40. Ke2 Qh1 41. Kf2 Qb1 42.
-b5) 39... Qe2 40. Nh4 g5 41. Ng6 {And now this M4... plot twist.} 41... fxg6
-(41... Qf1+ 42. Kg4 Qf5+ 43. Kh5 g4+ 44. Kxh6 (44. Kh4 Qg5#) 44... Qxg6#) 42.
-Qc8+ Kf7 43. Qd7+ Kf8 44. Qxe6 Qf1+ 45. Kg4 Qe2+ 46. Kh3 Qf1+ 47. Kg4 Qe2+ 48.
-Kh3 1/2-1/2
-```
+E por falar em nomes criativos, Kingsman é o nome grupo de agentes especiais que simulam a formação dos cavaleiros da Távola Redonda. Cada membro representa um cavaleiro e ganha o seu nome. Quando Lancelot (Jack Davenport) morre de uma forma trivial para quem acha que está assistindo uma ação quase estilo Mercenários (como sua introdução nos faz crer), o filme nos lembra que na vida real mortes acontecem com agentes ultra-especiais às vezes da forma mais trivial possível. E isso nos entrega a fórmula que torna o filme sempre empolgante: nunca sabemos o que pode acontecer, porque apesar de homenagear filmes com roteiros mais ou menos estruturados da mesma forma, ele resolve entregar um realismo que normalmente não está presente lá. Ao mesmo tempo, isso é uma pista que ecoa em dois momentos-chave do filme seu meio e seu final, justamente uma troca de diálogos entre Valentine e Galahad.
+
+Ah, me esqueci de apresentar Galahad. Bom, ele é Colin Firth sob o efeito de esteroides, mas ainda mantendo seu charme de O Direito de Amar e a aristocracia de O Discurso do Rei. Seu terno é feito sob medida, da mesma forma com que suas decisões em torno do filho de Lancelot parecem ser. Não há espaços para muitos sentimentos em Kingsman, mas quando eles acontecem, são bem embasados e estão organicamente inseridos em seus personagens, que vão se tornando, se não tridimensionais, cada vez mais críveis.
+
+É assim que o roteiro de Jane Goldman e o próprio Matthew Vaughn, baseados na graphic novel The Secret Service, de Mark Millar e Dave Gibbons, consegue transformar Lee (Jonno Davies) de um garoto sem rumo que vê sua mãe e irmã vítimas de violência doméstica (corajosamente inserida na trama), para um dos candidatos mais competentes nas provas de classificação de quem seria o próximo Lancelot, mesmo que este não tenha o pedigree esperado dos gabaritados jovens frequentadores de escolas como Oxford e Cambridge.
+
+A história de Lee vai cuidadosamente sendo preenchida, com detalhes tão pequenos quanto assumir a responsabilidade por roubar um carro, quanto detalhes mais palpáveis como a amizade que faz com seu cachorro, mesmo depois de perceber que ele não seria muito útil para o serviço. Quando acontece um ponto de virada no filme, não é à toa que ele se torna grandioso quase que automaticamente. Todos os personagens se assemelham a pessoas de carne e osso vivendo em um mundo colorido com a tinta dos filmes de ação. E, para falar a verdade, essa mesma tinta é a que parece colorir a cabeça da geração que não precisa se preocupar tanto com guerras e fome. A mesma geração que criou um Valentine e seus seguidores.
+
+Ao que chegamos na metade final do filme, que se torna absurdamente frenético, e que consegue preencher a tela com tantas referências de tantos filmes distintos (ou não) que acabamos ficando com outra coisa: um apanhado desse universo servindo ao propósito da narrativa com uma maestria meticulosa. Ele brinca com a tecnologia atual, que às vezes é incômoda e nem sempre funciona. Ele usa os velhos jargões do satélite que tem que ser destruído e o esconderijo secreto construído dentro de cavernas como se eles fossem algo novo. Ele não tem medo de usar a hiper-violência misturada com uma pequena dose de realismo para estabelecer seus argumentos.
+
+No final, fica difícil não gostar de um elenco fabuloso trabalhando com uma história afiadíssima. De quebra, temos as participações eficientes de Mark Strong e Michael Caine, que conseguem surpreender mesmo em posições de menor destaque. Enfim, um prato cheio de pipoca com uma taça cheia de vinho.
 

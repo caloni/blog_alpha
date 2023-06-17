@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2017-02-13'
-link: https://www.imdb.com/title/tt4034228
+date: '2014-05-20'
+link: https://www.imdb.com/title/tt0079522
 tags:
 - movies
-title: Manchester À Beira-Mar
+title: Manhattan
 ---
 
-Este é um filme que se constrói inteiro na performance do seu ator principal, Casey Affleck, que estabelece um protagonista (Lee Chandler) traumatizado com um realismo que só consegue ser sentido no seu último momento na companhia de sua ex-esposa (uma Michelle Williams igualmente competente e com muito menos tempo de tela). Também é um filme que te leva fácil, pois tem uma história fácil para contar. São as entrelinhas que interessam, e se fossem um pouquinho mais grossas dariam um filmaço. Mas o filme prefere ser ele mesmo e se tornar com isso impecável.
+A fotografia e a música de Manhattan fazem todo o filme parecer uma poesia cinematográfica espontânea, quase uma vida alternativa dentro das telas, especificamente dentro daquela tela larga e de maneira magistral usada por Woody Allen e sua equipe para torná-la mágica independente da história que irá ser contada. A própria história começa com inúmeras tentativas de Isaac (Allen) iniciar seu livro com uma síntese sobre Nova York e sua decadência cultural que, ainda que inevitável, consegue nos fascinar.
 
-Essas entrelinhas em torno da historinha são sentidas em todo momento através dos seus personagens secundários. É aquele momento incômodo no corredor quando Lee recebe a notícia que seu irmão morreu e ele não estava com a doutora de praxe (ela estava de licença, pois engravidou de gêmeas, referência ao trauma do próprio Lee). Também é aquele momento em que, diante de seu testamento, Lee recusa aceitar o pesadelo que terá sendo o tutor de seu sobrinho. E, com certeza, é aquele momento em que ele acompanha a esposa sendo levada para a ambulância, quando as rodas de sua maca insistem em travar. Esse pequeno detalhe é o melhor exemplo de como o diretor Kenneth Lonergan consegue extrair o incômodo de todas essas situações sem apelar para o dramalhão, preferindo abusar dos atos falhos das pessoas em torno de Lee Chandler.
+A partir daí conhecemos sua nova e jovem namorada Tracy (a bela Mariel Hemingway) em um encontro com seu amigo Yale (Michael Murphy) e sua esposa Emily (Anne Byrne Hoffman). Em um segundo momento (aparentemente já no dia seguinte) encontramos o mesmo Yale e sua amante Mary (Diane Keaton), que de início se torna insuportável para Isaac, mas que aos poucos vira seu interesse romântico "maduro".
 
-Não precisamos nem que nos seja dito que naquela cidadezinha próxima de Boston todos conhecem todo mundo, e todos conhecem principalmente as tragédias dos seus vizinhos, parentes, conhecidos. Isso inclui o que aconteceu com Lee e sua família, mas cuja revelação está longe de ser tão magnética quanto esses pequenos detalhes de seu retorno à vila onde tudo aconteceu.
+Onde caímos inevitavelmente no primeiro tema de Manhattan: as inexoráveis mudanças do tempo e o que ele faz com as pessoas. A visão de Isaac de que seu relacionamento com a jovem Tracy é algo passageiro na vida de ambos e que, no caso dela, apenas um "desvio" do seu rumo natural na vida, ou seja, conhecer pessoas de sua idade. Essa visão, embora tecnicamente madura, esconde um caráter egoísta e duro, provavelmente endurecido justamente pela passagem dos anos com as duas ex-esposas de Isaac, sendo que a última (Meryl Streep) o largou por uma mulher.
 
-A atuação de Casey Affleck é extremamente importante porque ele não pode trair o filme e entregar uma performance "over". Isso quer dizer que, mérito de quem seja, suas costas levemente curvadas, sua cabeça levemente pendurada e sua voz ligeiramente rouca e incapaz de falar mais alto que um sussurro são parte integrante desse estudo de personagem fascinante, a atuação perfeitamente oposta vista em Nebraska (e ambas perfeitas). E é fascinante porque o universo se dobra na estranheza de nós humanos diante da morte, essa companheira e seguidora eterna. Quando acontece, todos ao redor mudam. Às vezes para sempre.
+Onde caímos inevitavelmente no segundo tema de Manhattan: relacionamentos não são simples. Muitas vezes nossas expectativas se adaptam à situação, como o que ocorre no triângulo amoroso com Mary em um primeiro momento. Outras vezes não adianta qual seja a decisão racional, ela não será levada em conta, que é o que ocorre no segundo momento. Da mesma forma, o arco fechado em torno de uma decisão importante na vida de Tracy bate novamente na mesma tecla do egoísmo humano, que Allen insiste em criticar; e mais curioso é que os diálogos mais repulsivos saem da boca do próprio personagem que este interpreta.
 
-Contada através de músicas que evocam ao mesmo tempo sentimentos perenes, cerimônia e de certa forma a fragilidade da própria vida, Manchester By The Sea é uma ode à história comum e que empolga através da repetição. Vemos o sobrinho de Lee em suas investidas sexuais e o incômodo do próprio Lee em ter que interagir com as pessoas. Ele tenta dizer "obrigado" como uma forma de pontuar a interação, já que este homem está obviamente quebrado por dentro, não sabe como fazer para se comunicar.
-
-E o filme tampouco tenta facilitar para ele. Escrito também por Kenneth Lonergan, ele se diverte com a mesmice que impera na história, mas e ao mesmo tempo a avança. É uma maneira criativa de conseguir atrelar a narrativa em um protagonista cujo tempo parou por toda a vida.
+Ainda assim, com essa visão pessimista da vida (e da morte), Manhattan se beneficia da mesma passagem do tempo que no início é a cortina que se abre para a cidade. E se há um terceiro tema inequívoco no filme, é a própria Manhattan, que flerta durante todo o tempo com sua presença. A cidade permanecerá, mesmo mudada, mas os relacionamentos, as pessoas que ali habitam, não. Possivelmente se transformarão, no meio e no fim de suas vidas, em pessoas ressentidas e cínicas acerca dos sentimentos do outro. Porém, como em Casablanca (que é citado), onde "sempre teremos Paris", em Manhattan, sempre teremos novas Tracys e sua juventude e sua disposição de amar, acima de tudo, independente de tudo.
 

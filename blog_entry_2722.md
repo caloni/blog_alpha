@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2011-10-23'
-link: https://www.imdb.com/title/tt2166420
+date: '2018-10-23'
+link: https://www.imdb.com/title/tt6257174
 tags:
 - movies
-title: O Manuscrito Perdido
+title: O Mau Exemplo de Cameron Post
 ---
 
-Fradique Mendes, um poeta e aventureiro português, amigo de Eça de Queiroz, viveu na região que foi primeiro abordada pelos portugueses no começo do século XVI, evento esse que nós brasileiros conhecemos como "Descobrimento do Brasil". Esse evento, e muitos outros na história do país, no entanto, possuem ecos diversos na sociedade brasileira, como bem demonstra esse documentário de José Barahona. O mais relevante desse trabalho, porém, é constatar que esses ecos do passado continuam influenciando boa parte da nossa sociedade, e como ela é estruturada em torno da terra herdada.
+O Mau Exemplo de Cameron Post é um dos melhores exemplos sobre hipocrisia e lavagem cerebral religiosa quando o tema é homossexualidade. Ele é tão bom assim porque ele espalha as incoerências e intolerância durante um suposto tratamento para uma cura gay. E quer melhor momento para rever esse tema?
 
-O objetivo de Barahona é resgatar um suposto manuscrito escrito por Fradique ao deixar suas terras. Vítima de ódio de outros proprietários depois que este decide libertar seus escravos, o manuscrito é resultado de reflexões do poeta acerca da sociedade onde vivia.
+Estamos nos anos 90 e a Cameron Post do título, interpretada por uma surpreendentemente intensa (apesar de sua cara de novata) Chloë Moretz, é uma jovem adolescente que participa de um grupo de estudos da Bíblia com sua namorada. Sim, você já viu onde isso vai dar. Ao serem descobertas "no flagra" Cameron é internada em um centro de tratamento gay iniciado por uma psicóloga de araque que curou o próprio irmão.
 
-Apesar da qualidade das imagens capturadas deixar a desejar (ou foi a projeção tosca, mesmo?) e até mesmo o foco nos entrevistados apresentar problemas sérios nos primeiros momentos, a decupagem merece destaque, pois possui uma lógica visual competente, mesmo ao sabermos que diversos pontos da trama foram "costurados" com a ajuda de atores.
+Este não é um internato pesado como um sanatório, o que quer dizer que não há de fato tentativas coercitivas de manter os jovens fora das tentações do "pecado". São apenas pessoas religiosas brincando de ser terapeutas com adolescentes de pais religiosos preocupados, ou pior, indignados que seu próprio filho tenha um comportamento que repudiam.
 
-Através de uma narração em off, somos levados a crer que o documentarista está sozinho nessa empreitada, e o fato da maioria das tomadas ser gravada com a câmera em tripé reforça essa impressão. Porém, mais isolado que o cineasta estão as comunidades que ele visita, que parecem alheias a tudo que ocorre no mundo, com as pessoas vivendo em seus microcosmos resultantes de mudanças sociais de séculos atrás.
+Isso quer dizer que alguns dos jovens encaram isso a sério porque já estão condicionados a obedecer autoridades e porque nessa fase da vida os hormônios podem indicar várias coisas sobre o próprio corpo. Há a devida representatividade que hoje é norma, onde homens e brancos fazem parte dos que tentam de fato se converter, e os indígenas, latinos e a Moretz são os que questionam o sistema, então não se preocupe em ir assistir. Além disso, os líderes religiosos que comandam o local possuem o estereótipo daquele pessoal que organiza cultos suicidas (ou talvez religiosos lembrem ambos os grupos): são gentis, sempre tentam falar e agir calmamente e parecem saber tudo sobre você (embora não).
 
-Dessa forma, acompanhamos descendentes das tribos quilombolas, os primeiros escravos refugiados, assim como as tribos indígenas que, diferente da Amazônia, por estarem situados na costa do continente, sofreram influência direta por 500 anos.
+Por isso a melhor parte do longa são as contradições e hipocrisias que vão sendo reveladas aos poucos. A minha favorita é quando uma colega de Cameron durante o confessionário faz uma crítica ofensiva à garota, a coordenadora comenta que Cameron pode até não concordar com ela, mas precisa respeitar a sua verdade. Ora, ora, mas é exatamente isso que os movimentos gays pedem: apenas respeito pela sua verdade. É esse exemplo que torna o filme absurdamente superior, pois não esfrega as suas mensagens, deixando o próprio espectador chegar às conclusões necessárias (e se não estiver mal intencionado e de mente aberta conseguirá).
 
-E para terminar o caldo, indígenas e sem-terra disputam a posse de terras na mesma região, em um triste reflexo do que era naqueles tempos primitivos e que vem se repetindo de geração em geração, em um povo que pode carecer de muitos lazeres da vida moderna, mas que nunca deveria sentir falta do bem mais abundante no país: a própria terra.
+Este é um drama leve e engraçado de assistir hoje onde há mais esclarecimento sobre os gays, mas serve igualmente de um alerta para quem ainda tem receios e preconceitos velados: olhe para si mesmo, e veja as incoerências em suas ações ou discursos para depois tentar entender o que se passa na cabeça dos outros. Cada um com sua verdade.
 

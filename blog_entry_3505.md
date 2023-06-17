@@ -1,27 +1,24 @@
 ---
 categories:
 - writting
-date: '2018-10-18'
-link: https://www.imdb.com/title/tt8296592
+date: '2012-06-27'
+link: https://www.imdb.com/title/tt1077368
 tags:
-- cinemaqui
 - movies
-title: Sofia
+title: Sombras da Noite
 ---
 
-"As pessoas conseguem se acostumar com tudo", um personagem diz em certo momento de Sofia, um filme que se você não parou pelo menos por alguns minutos para refletir após ter assistido, pense de novo. O personagem tem razão.
+Em minha cabeça há um filme muito bonito que reconstrói Drácula com um apuro técnico que apenas um diretor como Tim Burton poderia conceber com sua singular visão gótica do mundo. Se transportarmos esse mundo para os coloridos anos 70 teremos então um divertido e promissor choque cultural entre épocas separadas por nada menos do que duzentos anos.
 
-Esse é daqueles filmes que brinca com nossas percepções de certo e errado. Ele vai fazer alguém que está predisposto a atacar culturas machistas a ter algumas boas surpresas em sua reviravolta final. Mas mais do que isso, vai nos fazer pensar em vários aspectos do que permeia nossa noção de moral e costumes, incluindo a questão das oportunidades na vida. Porém, principalmente, vai nos fazer rever a ideias que nós temos sobre o que é uma vítima.
+Não se pode negar que havia um ótimo potencial em Sombras da Noite, novo longa do diretor em sua secular parceria com o sempre interessante Johnny Deep. Nessa história ele interpreta Barnabas Collins, o filho de um empreendedor inglês que decide partir para a América e construir um imponente castelo para firmar o que ele considera a única riqueza que sobrevive ao tempo: a família. Quando seu filho, porém, ainda jovem, acaba desiludindo uma moça (Eva Green) que acaba se revelando uma bruxa (literalmente), ela lança uma maldição que não apenas mata sua verdadeira amada (Bella Heathcote) como impede que este se junte a ela, pois é transformado em um vampiro que, imortal, sofre a fúria da população local, que o enterra preso em um caixão.
 
-E, acredite, no final você irá pensar se existe de fato alguma vítima, ou tudo são oportunidades para melhorar de vida.
+Reiniciando a história na década de 70, somos apresentados pelo ponto de vista da nova babá (novamente Bella Heathcote) à problemática família que restou no castelo: Elizabeth Collins (Michelle Pfeiffer), a matriarca forte; David Collins (Gulliver McGrath), o menino que diz conversar com fantasmas, e seu desinteressante pai, Roger Collins (Jonny Lee Miller); Julia Hoffman (Helena Bonham Carter, sempre), a médica da família; e Carolyn Stoddard (Chloë Grace Moretz), a adolescente problemática.
 
-O filme segue um tom intimista no seu começo, apresentando uma família durante o almoço que acaba revelando duas coisas: este também é um almoço de negócios (uma oportunidade para essa família humilde melhorar de vida) e que a jovem Sofia estourou sua bolsa ao acabar de descobrir que está grávida (um empecilho, como qualquer um que conhece as culturas do Oriente Médio sabe muito bem).
+Montando um sugestivo pano de fundo que poderia muito bem render uma versão gótica do clichê muito usado em filmes independentes da família disfuncional, Burton consegue em um primeiro momento instigar a curiosidade a respeito dos membros da família, sugerindo sutilmente uma mudança de atitudes na casa que encubra possíveis "reais intenções" dos moradores depois que o herdeiro Collins retorna à casa. Porém, infelizmente logo se esquece de sua promissora introdução e se entrega às esquisitices de praxe, como uma bizarra cena de sexo com roupas e paredes, piadas de humor negro, e até uma completamente descartável festa, que parece ter sido inserida no roteiro simplesmente para termos no currículo do diretor "dark" um filme estrelando o igualmente bizarro (e secular) cantor Alice Cooper. Com pouco andamento da história aos poucos temos a impressão de movimento quase nulo em um filme desnecessariamente longo, pois a premissa da disputa comercial na cidadezinha litorânea entre as duas tradicionais famílias dos Collins e o império encabeçado por ninguém nada menos que Angelique Bouchard (novamente Eva Green), a bruxa responsável pelo feitiço em Barnabaslia Collins, parece ter parado no tempo assim como seu recém-patriarca.
 
-Esse roteiro já seria ótimo como uma peça de teatro, mas sendo cinema nada substitui a câmera na mão, os zooms exagerados nos rostos dos personagens e a captura do momento exato daquela expressão do personagem que fala por mil palavras. E considerando o fundo de pano social e a escassez de atores competentes com a etnia "correta", nada como refazer a mesma cena mil vezes para acertar o tom. Mais um ponto a favor do cinema e da diretora Meryem Benm'Barek-Aloïsi em seu segundo longa e exibindo um controle invejável de mise-en-scene.
+Dessa forma, não há muita surpresa quando o filme finalmente chega na hora de tentar amarrar as pontas e falha miseravelmente ao impor importância a personagens até então completamente esquecidos. Não há exemplo melhor do que considero ser um importante sinal de problemas sérios no roteiro: uma revelação bombástica a respeito de um personagem em pleno terceiro ato, descaradamente implantado apenas para inclui-lo na sequência final.
 
-É Meryem também que nos coloca em tensão constante ao nunca nos revelar detalhes que serviriam para nos acalmar, como o estado emocional do pai e da mãe. Vemos tudo sob os olhos da prima, a mais bem-intencionada da família e que portanto levará o maior tombo no final.
+Entendendo os aspectos que tornam a figura do Drácula tão fascinante, mas deixando de desenvolver os aspectos principais da história apenas por conta dessa fascinação, o roteirista Seth Grahame-Smith, que esse ano também assina por [Abraham Lincoln: Caçador de Vampiros], acaba não só desperdiçando uma ótima ideia como ótimos personagens em potencial. De qualquer forma, a culpa deve ser dividida com seu diretor, pois enquanto Burton se dedica a evasivos planos com a câmera suspensa para enfocar cenas que funcionam, mas que nunca contribuem para a história, desperdiça um elenco de luxo que nada consegue fazer para salvar um projeto começou apenas como uma boa ideia, mas que nunca se desenvolveu.
 
-Outro ponto a favor de "Sofia" é nunca dar mais detalhes da história de vida dos personagens. Com isso a situação pelo qual eles passam se torna universal e fica mais fácil nos identificarmos (além de obviamente tomar um dos lados na discussão que ocupa quase todo o filme).
-
-Como resultado, "Sofia" é consistente com sua ideia, eficiente ao transmiti-la e termina por machucar um pouquinho sua fé na humanidade (se lhe resta alguma).
+[Abraham Lincoln: Caçador de Vampiros]: {{< relref "abraham-lincoln-cacador-de-vampiros" >}}
 

@@ -1,22 +1,36 @@
 ---
 categories:
-- writting
-date: '2020-04-28'
-link: https://www.imdb.com/title/tt0475784
+- playing
+date: '2023-02-26T14:59:18-03:00'
+link: https://www.chess.com/game/live/71161028245
 tags:
-- series
-title: Westworld S03 E01
+- english
+- chess
+title: White move and win the game
 ---
 
-Não há muitos motivos por trás de quem deseja assistir à continuação de uma série como Westworld. Exceto a falta do que fazer, talvez. As ambições da série terminaram na [primeira temporada] e agora ela se estende pelas suas ideias que deixaram de ser filosoficamente ambiciosas e passaram a retroalimentar o sistema moralista vigente. A introdução do novo personagem da classe trabalhadora interpretado por Aaron Paul (ótimo casting) e a vida lá fora, com seus arranha-céus ecologicamente corretos, seriam motivo suficiente para assistirmos a mais uma temporada? Apenas pela computação? Esses jardim suspensos da Babilônia futuristas lembram e referenciam o império bizantino, tanto em seu esplendor quanto em sua grande derrocada, mas não há história no contorno desse fundo verde.
+A game with ups and downs. Entirely asymmetrical.
 
-A filosofia original, com as ideias ambiciosas por trás da criação de uma inteligência artificial e suas implicações, fica para trás. A atual mal chega a arranhar as questões profundas sobre o destino dessa nova civilização a alcançar a singularidade, pois continua narrando o mundo futuro com ares de semana que vem, com carros autômatos e ausência de empregados humanos. Não se vê uma alma nas ruas que não seja a alta classe e os malandros e viciados, na maioria das vezes fazendo parte do mesmo grupo. A sutileza de não tornar isso uma bandeira, mas apenas a consequência natural do capitalismo acelerado pela tecnologia da informação do século 21, é um dos traços de respeito da série comandada por Jonathan Nolan e produzida por J. J. Abrams, mas apesar das sutilezas a produção não está fora dos nossos tempos.
+White move and win the game.
 
-Nessa sociedade com menos camadas temos a figura de um Aaron Paul ex-soldado de guerra (e qual guerra existiria com soldados humanos?) que perdeu seu companheiro, mas que perdeu principalmente o seu mundo ao voltar para um lar em lugar para ele. E Caleb andar sempre pelas esquinas e nas sombras é uma característica tão marcante quanto a personagem de Evan Rachel Wood, que usa preto em uma fotografia noturna furtiva assim como a ausência de decotes e formas e seu cabelo eternamente preso, sinal de sua nova fase.
+{{< image src="board.png" >}}
 
-Os personagens de Bernard, Tandy e a moça de Thor: Ragnarok (Tessa Thompson) se mantém na penumbra e nada prometem para o momento. Exceto, claro, novos arcos que devem se assimilar com a vinda de um outro personagem: o arquiteto das simulações. E é claro que aqui a referência óbvia é Matrix Reloaded.
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.26"]
+[White "Bichokpo"]
+[Black "cavaloni"]
 
-Eu só não tenho certeza se gostaria de ver um Westworld Reloaded. A segunda temporada já tinha deixado um gosto insosso e artificial. Gosto de cartilha moralista reciclada.
-
-[primeira temporada]: {{< relref "westworld" >}}
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 b6 5. Bc4 Bb7 6. Nf3 Nc6 7. Bf4 e6 8. Nb5
+Rc8 9. Bd6 a6 10. Bxf8 axb5 11. Bxg7 bxc4 12. Bxh8 f6 13. e5 Nxe5 14. Nxe5 Bxg2
+15. Rg1 Rc5 16. f4 fxe5 17. Bxe5 Qh4+ 18. Ke2 Rxe5+ (18... Rd5 {And now the
+Queen is lost or M and some moves. By example:} 19. Qe1 Qh5+ 20. Kf2 (20. Ke3
+Qf3#) 20... Qf3#) 19. fxe5 Qe4+ 20. Kd2 Qd4+ 21. Ke2 Qe4+ 22. Kd2 Qd3+ 23. Kc1
+Qe3+ 24. Qd2 Qxg1+ 25. Qd1 Qxd1+ 26. Kxd1 Nh6 27. Kd2 Nf5 28. Rg1 Bd5 29. Rg8+
+Kf7 30. Rb8 Ke7 31. Rxb6 h6 32. Rb8 c3+ 33. bxc3 Bxa2 34. Rh8 Bd5 35. Kd3 Bc6
+36. c4 Kf7 37. c5 Kg6 38. Rg8+ Kh5 39. Rg2 Kh4 40. Rf2 Kg4 41. Kc4 Bf3 42. Kb5
+Kf4 43. Kb6 Ke4 44. Kc7 Bh1 45. Kxd7 Kxe5 46. c6 Bxc6+ 47. Kxc6 Kf6 48. Kc5 e5
+49. Kd5 h5 {White move and win the game.} 50. h3 (50. Ke4) 1-0
+```
 

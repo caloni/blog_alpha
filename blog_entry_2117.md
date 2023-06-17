@@ -1,37 +1,26 @@
 ---
 categories:
-- reading
-date: '2017-05-28'
-link: https://www.owl232.net/papers/fwill.htm
-tags: []
-title: Uma prova simples e modesta da existência do livre-arbítrio
+- writting
+date: '2011-01-30'
+link: https://www.imdb.com/title/tt1268204
+tags:
+- movies
+title: Lixo Extraordinário
 ---
 
-Uma prova simples e modesta do livre-arbítrio, ou pelo menos que refute o "determinismo duro" (que não admite nenhuma possibilidade de alternativas na ação) é dada pelo filósofo Michael Huemer através de 7 premissas e uma conclusão:
+O início e no programa do Jô possui um sentido maior por causa da mensagem de que, no final, o lixo de todas as pessoas que assistem a televisão vai parar no mesmo lugar?
 
-1. A respeito do livre arbítrio, nós devemos sempre evitar acreditar no que é falso (racionalmente).
-2. O que deveria ser feito pode ser feito (não se pode fazer o impossível).
-3. Se o determinismo (duro) é verdadeiro, então qualquer coisa que pode ser feita será feita (não há alternativa).
-4. Eu acredito no livre arbítrio (premissa).
-5. Com respeito ao livre arbítrio, nós podemos evitar acreditar no que é falso (de 1,2).
-6. Se o determinismo é verdadeiro, então com respeito ao livre arbítrio, nós evitamos acreditar no que é falso (de 3,5).
-7. Se o determinismo é verdadeiro, então o livre arbítrio é verdadeiro (de 6,8).
-8. O livre arbítrio é verdadeiro
+A história é sobre um artista plástico famoso por transformar lixo reciclável em obras de arte.
 
-Do original:
+Seu próximo desafio é transformar as pessoas responsáveis por catar esse lixo.
 
-1. With respect to the free-will issue, we should refrain from believing falsehoods. (premise) 
-2. Whatever should be done can be done. (premise) 
-3. If determinism is true, then whatever can be done, is done. (premise) 
-4. I believe MFT. (premise) 
-5. With respect to the free-will issue, we can refrain from believing falsehoods. (from 1,2) 
-6. If determinism is true, then with respect to the free will issue, we refrain from believing falsehoods. (from 3,5) 
-7. If determinism is true, then MFT is true. (from 6,4) 
-8. MFT is true. (from 7)
+Todo o processo é mostrado desde o início: a primeira visita ao local, o funcionamento da associação de catadores, a vida e o passado dos personagens escolhidos no meio da multidão de pessoas.
 
-O núcleo do raciocínio é que vemos que se o determinismo é verdadeiro o livre arbítrio é verdadeiro; do contrário evitaríamos acreditar nele. E como de fato alguns de nós acreditam nele (bastaria apenas um), ele é verdadeiro, tornando o determinismo auto-refutável.
+Dono de uma visão peculiar sobre toda aquela pobreza, ele próprio nasceu pobre, e aprendeu a manter a lição de que é possível se transformar.
 
-Há quatro objeções à lógica aplicada no raciocínio, sendo que algumas delas são interessantes, outras não. Sugiro dar uma lida no original. A mais interessante de todas é a primeira, que afirma a premissa (1) implorar a questão. No entanto, como Huemer desenvolve, a questão só consegue de fato cair na falácia circular de quem desenvolver o raciocínio já assumir que o determinismo é verdadeiro. Porém, se este for o caso, não há abertura para o desenvolvimento racional da questão, que é a própria conclusão final de Huemer. Ao aceitar o determinismo, as premissas básicas da própria lógica não podem ser aceitas, já que os conceitos de falso e verdadeiro são inúteis.
+O mais revelador é que assistimos a tudo ainda imaginando o que deverá sair ao final de todo aquele processo, sem entender ainda o efeito artístico sobre aquela vida sem perspectiva das pessoas.
 
-E esse é um ótimo motivo para acreditar em livre arbítrio.
+O impacto inicial, da transformação do lixo reciclável em arte usando como modelo as pessoas e a criação de riqueza nesse processo (um dos quadros criados é vendido por cem mil reais).
+
+O impacto final, quando os quadros criados são entregues aos seus respectivos "donos", e a mensagem que fica é imensamente maior que todo o processo: que é possível reciclar pessoas, por piores as condições que elas estejam ou pareçam estar.
 

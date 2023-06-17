@@ -1,23 +1,17 @@
 ---
 categories:
 - writting
-date: '2018-10-22'
-link: https://www.imdb.com/title/tt7204348
+date: '2021-10-30T19:30:43-03:00'
 tags:
 - cinemaqui
+- mostra
 - movies
-title: O Anjo
+title: O Atlas dos Pássaros
 ---
 
-Muitas pessoas ao assistir a O Anjo talvez percam a essência do filme, talvez por causa do caminho empolgado deste arcanjo assassino. Mas se você reparar que não se trata de um filme com cenas fortes, ou pelo menos que não trata suas cenas fortes com o peso que costumam ter em outros filmes, verá a ironia fina da subjetividade máxima de um psicopata glorificado.
+O Atlas dos Pássaros é uma incursão corporativa e familiar tensa do diretor iugoslavo (hoje a Eslovênia) Olmo Omerzu. Tudo começa com um pequeno detalhe na rotina do empresário Ivo Rona e CEO de uma companhia familiar, quando ele descobre que sumiu uma quantidade vultosa de dinheiro dos caixas da companhia. Esta é a maior crise nos negócios da empresa em três décadas e Omerzu filma tudo com uma cena puxando a outra. Não há pausas na tensão, mesmo quando Ivo Rona sofre um infarto e seus filhos passam a ser o foco em cena. Esta é apenas uma pausa para o café.
 
-Seu anti-herói é Carlos (Lorenzo Ferro), que desde que se conhece por gente gosta de roubar a casa de estranhos, além de dançar muito bem. Ele é inofensivo até encontrar Ramón (Chino Darín) e seu pai, que deixa Carlos atirar com sua arma. Essa combinação extremamente desastrosa faz com que muitas pessoas sejam mortas pelas mãos de Carlos, mãos essas angelicais. O filme o mostra como um mensageiro de Deus, pois ele mata unicamente pelo fim prático: não ser pego.
+A história escrita por Omerzu e por Petr Pýcha é crível a ponto de pararmos para pensar se não se trata de uma adaptação de uma notícia do jornal de economia da Eslovênia. E a coisa se desdobra em cima de um personagem cuja obstinada dureza carrega um piano nas costas (a companhia) e não quer nem aliviar a carga nem compartilhá-la com seus três filhos. Ele não suporta a administração de seus filhos homens e gostaria que sua filha mulher assumisse por ser a mais centrada e razoável. Porém, ela acabou de ter seu neto. E simples assim todo o plano de longa data de três gerações sai dos trilhos quando um caso clichê do magnata e sua "secretária" (aqui contadora) coloca não sua vida pessoal, mas a profissional a perder.
 
-Estamos na década de 70 na Argentina e a única preocupação da polícia é caçar terroristas, o que quer dizer que esses garotos de boa aparência e aparentemente inofensivos estão fora da lista por um tempo. E enquanto isso eles vão curtir com duas irmãs gêmeas lindas e a sempre bem-vinda trilha sonora da década das viagens astrais.
-
-Sobre a visão subjetiva (e divina) desse psicopata que só quer se divertir, repare em como suas vítimas morrem como se estivessem dormindo. Até sua primeira vítima, um senhor idoso sozinho em sua casa, ao ser alvejado pela "espada de fogo" de Carlos anda pela residência como um morto-vivo.
-
-O filme traça algumas metáforas que comparam a rotina de criminosos como viva, colorida e musical e a rotina do cidadão de bem como inerte, sem reação, em um mundo sombrio, sem cor e sem emoção.
-
-Esta poderia ser uma biografia, pois não há arco visível, apenas acontecimentos em torno de Carlos, que conta sua história em posição privilegiada. A sua erotização e glamour são apenas cerejas do bolo de um filme vibrante, embora com pouco a dizer.
+O tom de O Atlas dos Pássaros é bem noveleiro e o roteiro brinca com uma piada interna a respeito do dono da empresa cadastrar nos contatos do celular seus casos extraconjugais com nomes de pássaros. O filme dá voz aos pássaros das paisagens por onde se passam as cenas, o que vira mais uma distração do que qualquer coisa. No fundo o filme gostaria muito, aproveitando a moda, de fazer alguma crítica social a respeito de ricos e pobres e como todos irão morrer cedo ou tarde e se trata sobre o percurso, e não sobre o sucesso ou fracasso da empreitada, mas a incursão dos pássaros é tímida demais frente à trama principal.
 

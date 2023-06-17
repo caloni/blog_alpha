@@ -1,25 +1,21 @@
 ---
 categories:
 - writting
-date: '2018-04-29'
-link: https://www.imdb.com/title/tt5687040
+date: '2011-10-13'
+link: https://www.imdb.com/title/tt0089218
 tags:
-- cinemaqui
 - movies
-title: Os Fantasmas de Ismael
+title: Os Goonies
 ---
 
-Este é mais um filme sobre o processo de criação. Mas ele é tão intenso que se deixa levar como uma auto-análise do seu criador. Eu disse quase, já que Os Fantasmas de Ismael é um trabalho que se mantém sob controle se você olhar de perto, mas para o leigo, esta é uma aventura muito, muito louca, que com um pouco de esperança irá te dar alguns insights sobre como somos manipulados todo o tempo nas artes cênicas e na literatura.
+"'Um grupo de meninos embarcam em uma aventura após encontrar o mapa de um suposto tesouro escondido.' É com esse argumento simples que se constrói um dos filmes mais empolgantes e divertidos dos anos 80. Essa é a união do roteirista Chris Columbus, de O Enigma da Pirâmide, do diretor Richard Donner, de [Superman], e do idealizador Steven Spielberg, de... precisa dizer algo? Essa união produziu uma espécie de esfera criativa nunca antes vista, e que até produz ecos na filmografia contemporânea, em que o exemplo mais recente é o filme-homenagem [Super 8], de J.J. Abrams."
 
-Porém, este não é um trabalho obsessivamente controlado pelo seu roteirista como Adaptação, de Charlie Kaufman; tampouco é o caos se transformando em filme por acaso. Ele vai caminhando através do equilíbrio entre o coerente e a insanidade, aos poucos nos dando a impressão de estar assistindo a um trabalho de ficção, quebrando eventualmente a quarta parede da maneira mais sutil possível. Ele não nega isso, pois este é o assunto do filme, mas não deixa escrachado, pois você terá que perceber isso nos detalhes, como lágrimas que começam a escorrer quando um personagem diz a outro que ele deveria estar chorando, ou nos movimentos de câmera grosseiros que lembram filmes de suspense como os da época de Hitchcock (e não é à toa que o Bernard Herrmann, colaborador de Hitchcock na maioria de seus filmes, consta nos créditos musicais). E, assim como o próprio Hitchcock, a maestria do filme reside em esconder suas pegadas, mesmo que o assunto do filme seja sobre as pegadas em si.
+Esse foi o primeiro parágrafo de meu texto de 2011. A seguir segue-se um monte de elogios para o filme, como detalhes da fotografia, atuações, edição e trilha sonora, com destaque para a música-tema de Cindy Lauper. A música-tema de Lauper continua sendo ótima, mas minha visão oito anos depois não. Os Goonies é um filme de Sessão da Tarde, mas isso não é demérito. Ele é divertido, previsível, engraçado. Tudo em alguns momentos. Este é um filme feito de momentos. E não só de momentos vive um filme.
 
-Ou seja, é obviamente sobre metalinguagem. O começo do filme é o começo de um filme sendo escrito e dirigido pelo seu protagonista, o fumante e bebedor compulsivo Ismael (Mathieu Amalric). Ele já carrega o gene do escritor clichê, mas ele desconfia também carregar o gene responsável pelos seus contínuos pesadelos, geralmente envolvendo a morte. Ele e seu sogro (László Szabó, quase sempre na penumbra, como um fantasma) mantêm este drama em comum. O que faz todo sentido, pois sua esposa, Carlotta, desapareceu misteriosamente há mais de 20 anos e nunca mais deu notícia. Este é um clichê literário que adquire uma expressividade arrebatadora nas mãos de Marion Cotillard, que faz a garota crescida surgindo inexplicavelmente como um fantasma, e que acabará desencadeando a maior parte dos acontecimentos a partir de então.
+Um grande filme deveria unir todos esses momentos em algo mais coerente ou menos clichê, mas ou o clichê alcançou os Goonies e eles não conseguiram se salvar em um filme que não conseguiu envelhecer se tornando algo a mais, ou minha persona de criança não conseguiu capturar a magia que muitos espectadores ainda devem ver nesse trabalho de Donner.
 
-Explicar o plot de Os Fantasmas de Ismael seria não apenas uma tarefa ingrata, como inútil, já que o filme não é sobre a história em si, mas como os detalhes da possível vida real do escritor/diretor e dos detalhes de si mesmo e das pessoas em sua vida acabam se mesclando nos personagens que ele cria para suas histórias. Aqui o mais emblemático é um rapaz que acaba virando espião de uma organização fictícia no último filme que Ismael está dirigindo, e que combina detalhes de sua namorada (que é astrofísica) e de sua esposa desaparecida (surgir sem um passado, mas com muita vivência para seu novo emprego). Note, por exemplo, como ele segue seu interesse amoroso da mesma forma com que Ismael se oferece para conhecer a casa da personagem de Gainsbourg, mesmo depois dela deixar claro não se sentir confortável com a proposta.
+Talvez em uma próxima revisão mais velho...
 
-Se Mathieu Amalric e Marion Cotillard emplacam um casal que não existe mais, mas que inexplicavelmente ainda têm muito em comum, como a impulsividade de suas escolhas e a intensidade com que vivem, Charlotte Gainsbourg refaz a personagem periférica de Lars von Trier em Melancolia de uma maneira mais sóbria, mais auto-centrada, mas visivelmente afetada por Mathieu, com quem vive um relacionamento complicadíssimo depois que sua ex-mulher retorna das cinzas do passado. Porém, o triângulo amoroso que se forma (outro clichê) aos poucos vira o combustível para que Ismael consiga produzir mais páginas de seu roteiro, o que vai se tornando cada vez mais claro conforme vamos ficando mais a par do processo criativo do sujeito.
-
-Há referências para tudo quanto é lado sobre o cinema em geral e alguns trabalhos específicos, sobretudo de suspense. Porém, não é necessário conhecer nenhum deles, pois o filme os utiliza mais para a montagem de um universo ligeiramente exagerado que coordena duas ficções diferentes e que se cruzam nos detalhes de seus personagens. O paralelismo, apesar de desproporcional, funciona tão bem que somos levados a pensar sobre a narrativa ficcional da história principal por reflexo de acompanharmos um outro filme sendo produzido. E é justamente esse o exercício aqui proposto.
-
-Os Fantasmas de Ismael é um filme em constante construção. Assim como sua história interna. Portanto, fica difícil percebermos qual é sua conclusão quando o filme termina. Por isso é tão importante para o espectador que ele entenda que o que está sendo discutido no filme não são suas histórias, fictícia ou não, mas o processo em si. Uma vez que isso fique claro, a viagem metalinguística se torna verdadeiramente original e fascinante. Principalmente se nos lembrarmos que o diretor (real) do filme está com tudo isso em seu controle.
+[Super 8]: {{< relref "super-8" >}}
+[Superman]: {{< relref "superman-o-filme" >}}
 

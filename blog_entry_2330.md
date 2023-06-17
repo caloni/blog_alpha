@@ -1,26 +1,18 @@
 ---
 categories:
 - writting
-date: '2012-06-04'
-link: https://www.imdb.com/title/tt1409024
+date: '2016-10-23'
+link: https://www.imdb.com/title/tt3958276
 tags:
-- movies
-title: 'MIB: Homens de Preto III'
+- series
+title: 'Midnight Diner: Tokyo Stories'
 ---
 
-Possuindo uma dinâmica que se assemelha menos do que deveria com [o original] e mais do que deveria com sua continuação, além de já confiar desde o início na identificação que o público fará da dupla de agentes K e J, que trabalham em prol de uma organização que zela pelo convívio pacífico com inúmeros seres intergalácticos, o terceiro filme da série Homens de Preto conta com um novo ator (Josh Brolin, [Wall Street 2]) que interpreta a versão mais jovem de K, originalmente vivido por Tommy Lee Jones, e um novo vilão, Bóris, o Animal (Jemaine Clement, de [Loucos por Nada]), que munido de ótimos efeitos visuais faz uma grande promessa em sua sequência inicial que infelizmente nunca é cumprida: a de fato representar uma ameaça para os excelentes agentes da MIB.
+Como uma versão japonesa, mas mais folclórica e... gastronômica? de Easy (série da Netflix sobre desembaraçar relacionamentos), Midnight Diner é fofo, pois apela para o jeito animê do japonês se comportar (e os atores colaboram, vivenciando personagens impossivelmente agradáveis), e um passatempo curioso. Parece que quanto menos sabemos dos detalhes da vida dessas pessoas fictícias, mais emblemática se torna a história, e mais torcemos para que tudo dê certo. Uma série que evoca esses sentimentos do seu espectador não pode ser tão ruim assim.
 
-Quando o agente J precisa voltar no tempo para impedir que uma catástrofe atinja a Terra e seu parceiro, a fotografia aplicada nos anos 1969 consegue separar a versão antiga da MIB através de uma dose de sépia e menos de azul, aparentemente um sinal de avanço em nossa época. A direção de arte vai no mesmo ritmo, mostrando uma agência mais antiquada e, quem diria, mais racista, como é sugerido timidamente por uma observação sobre a proteção apenas dos seres humanos, além de no mundo exterior se resumir em uma coleção de estereótipos.
+E de fato não é. Tendo como base o humilde restaurante em Tóquio do cozinheiro "Master" (Kaoru Kobayashi), que abre da meia-noite às sete da manhã, o restaurante encontra nesse período as mais peculiares pessoas com seus mais interessantes dramas, histórias ou meras curiosidades. O primeiro episódio é apaixonante pela diversidade e pelo empenho em todos em ajudar. A partir daí a série já conquista quem estiver interessado em passar pouco mais de 20 minutos viajando em um pequeno conto que une pessoas em torno da comida, e através da refeição noturna aproveita para despertar inspiração, amores e piadas espirituosas.
 
-Rapidamente pode-se sentir a maior ausência da série: a criatividade na confecção dos personagens, antes um ponto fortíssimo no original e o que o tornava tão interessante, além da própria interpretação dos atores veteranos, que se colocam no automático na maioria das cenas, restando a Josh Brolin o papel de tornar o agente K um ser humano menos robótico em seus anos dourados.
+O japonês é uma criatura apartada da realidade, é o que parece se você apenas assistir esta série para se basear em sua cultura (e talvez um ou outro animê de comédia). O uso dos costumes para demonstrar como são relacionamentos, beijos, abraços e... sexo, é algo à parte também. Mais do que isso, na capital do Japão encontramos de madrugada motoristas de táxi mulheres, acompanhantes de boates, comediantes boca-suja, físicos premiados, mulheres fofoqueiras. Toda uma fauna (e flora) é criada em torno dos pratos típicos sendo criados, um a um, sempre um por episódio, pelo Mestre, que sempre observa e algumas vezes interage.
 
-Aliás, não é apenas nos aspectos técnicos que o filme declina seu humor, mas nas tiradas cômicas. Se antes a comédia em MIB era engrandecida pela temática do absurdo (e ainda assim, tolerância) com a existência de seres completamente bizarros convivendo no mesmo planeta e sendo protegidos de qualquer ato hostil dos "nativos" terráqueos, agora ela se resume em uma sequência de piadas prontas, sendo a maioria de cunho racista. Não considerar isso uma involução do tema é não entender o que faz do MIB original um filme e tanto, seja de ação quanto comédia.
-
-Como todo filme de viagem no tempo, existem seus paradoxos, mas eles não atingem o roteiro, que não desenvolve ou não precisa de reviravoltas além da inicial viagem ao passado, pois talvez confie excessivamente na força do seu desfecho. Tanto é verdade que quando Bóris tenta de alguma forma estragar os planos em torno de sua destruição não passam minutos até que alguém resolva de alguma forma simplista ou esquemática, nunca fazendo provar a expectativa inicial de que ele poderia de fato representar uma ameaça digna dos Homens de Preto.
-
-De certa forma, apesar do excelente clímax final, não deixa de soar como a única ideia verdadeiramente digna de uma continuação, pois durante todo o tempo somos levados de cá pra lá sem uma ideia clara de desenvolvimento da história. Dessa forma, a conclusão continua forte e impactante, mas não se pode dizer que leva o resto do filme para o mesmo caminho.
-
-[Loucos por Nada]: {{< relref "loucos-por-nada" >}}
-[Wall Street 2]: {{< relref "wall-street-o-dinheiro-nunca-dorme" >}}
-[o original]: {{< relref "mib-homens-de-preto" >}}
+Se considerarmos que as capitais do mundo carecem de humanidade, "Midnight Diner" resgata parte disso, transformando um pequeno restaurante em um ponto onde as pessoas podem voltar a ser humanas novamente. E qual a melhor oportunidade de socializar no Japão do que em torno da mesa, diante de uma refeição agradecida por todos?
 

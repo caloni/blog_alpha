@@ -1,203 +1,26 @@
 ---
-
-Padrão C (ISO/IEC 9899:1990)
-    
-    6.5.2.2 enum-specifier
-     enum
-
-    Padrão C++ (ISO/IEC 14882:1998)
-    
-    type-specifier
-     enum-specifier
-    
-    enum-specifier
-     enum
-
-Uma enumeração faz duas coisas: define um novo tipo, parecido com um inteiro, e cria uma **lista de constantes com nomes significativos**. A definição técnica do tipo de um enum é mais complicada, mas basicamente ele é um novo int.
-
-Como funciona: definimos uma lista com cada elemento tendo um valor inteiro, geralmente único. Todos os nomes usados na lista passam a fazer parte do espaço de nomes atual e funcionam como constantes com o seu valor definido no início.
-
-```
-enum FileType // criamos o novo tipo inteiro FileType
-{
-   Binary = 1, // Binary é uma constante com valor igual a 1
-   Text = 2, // Text é uma constante com seu sizeof igual a sizeof(FileType)
-   Mixed = 3 // Todas as constantes da enumeração são do mesmo tipo
-};
-```
-
-Obs.: Os elementos que não possuem valor definido são definidos automaticamente como o valor do elemento anterior acrescidos de um. Se for o primeiro elemento, seu valor padrão é zero.
-
-```
-enum Numbers
-{
-   zero,  // igual a zero
-   one,   // igual a um
-   two,   // igual a dois
-   three  // igual a tres
-};
-
-enum Hexa
-{
-   JulioCesar = 1,
-   Lucio = 3,
-   Juan,                // Juan = 3 + 1 = 4
-   Gilberto Silva = 6,
-   Felipe Melo          // 6 + 1 = 7
-}; 
-
-```
-
-_Detalhe bizarro_: você sabia que, apesar da vírgula ser usada para separar valores de enumeração, ela pode também terminar uma listagem? Por algum motivo exdrúxulo (se alguém quiser explicar), um valor de enumeração foi definido de tal forma que sempre poderá existir uma vírgula terminando ele:
-
-```
-enum VirgulaSafada { 
-   um = 1, 
-   dois, 
-   tres, // o que essa vírgula no final tá fazendo aqui?
-}; 
-
-```
-
-#### Uso prático
-
-Geralmente usamos enumerações para definir valores únicos (tag) em um argumento de função, ou, mais moderno, como substituto daqueles antigos defines em C para mapas de bits. Nesse último caso não usamos o tipo da enumeração, pois ele pode conter apenas um valor único definido, e não um conjunto deles:
-
-```
-enum ModoDeServir
-{
-   assado,
-   cozido,
-   frito,
-   cru
-};
-
-void Cook(Prato p, ModoDeServir ms);
-
-main()
-{
-   Cook(frango, cozido);
-}
-
-enum FileOpenMode
-{
-   fomRead   = 0x0001,
-   fomWrite  = 0x0002,
-   fomOver   = 0x0004,
-   fomDel    = 0x0008,
-};
-
-void OpenFile(DWORD fileOpenMode);
-
-main()
-{
-   OpenFile(fomRead | fomWrite);
-} 
-
-```
-
-Note que usamos uma enumeração nesse último caso para termos um nome significativo para uma flag, além desse nome fazer de fato parte dos nomes do programa, e não um define que, para o compilador, não existe.
-
-#### Boas práticas
-
-Como os tipos da enumeração passam a pertencer ao namespace atual, eles podem se misturar facilmente com todos os nomes daquele namespace. Dessa forma, é útil e bem organizado definir um prefixo para os nomes, que pode ser formado pelas iniciais do nome da enumeração, como no exemplo acima (fom = **F**ile**O**pen**M**ode).
-
-{{< image src="wNCAYCX.png" caption="enum-namespace.png" >}}
-
-O surgimento do enum veio como evolução de uma prática já consagrada pelo uso na linguagem C, que eram as listas de valores constantes criados através de defines com algum prefixo em comum (FILE_SHARE_*, SW_SHOW_*, etc). Portanto, sempre que se encontrar em uma situação para criar esse tipo de lista, a enumeração é o caminho atualmente ideal.
-
-```
-// A listagem abaixo pode virar um enum...
-#define FOM_READ   0x0001
-#define FOM_WRITE  0x0002
-#define FOM_OVER   0x0004
-#define FOM_DEL    0x0008
-
-// ... como este aqui!
-enum FileOpenMode
-{
-   FOM_READ   = 0x0001,
-   FOM_WRITE  = 0x0002,
-   FOM_OVER   = 0x0004,
-   FOM_DEL    = 0x0008,
-};
-
-// esse pedaço de código abaixo...
-int main()
-{
-   OpenFile(path, FOM_WRITE);
-}
-
-// ... vira isso após ser pré-processado...
-int main()
-{
-   OpenFile(path, 0x0002);
-}
-
-// ... mas isso se fossem usados enums...
-int main()
-{
-   OpenFile(path, FOM_WRITE); // FOM_WRITE faz parte da linguagem
-}
- 
-
-```
-
-#### Atualização: e qual a diferença?
-
-Perguntado [por um leitor](http://www.caloni.com.br/blog/enum#comment-17806) sobre qual a diferença prática do último exemplo, onde temos praticamente o mesmo resultado entre usar defines e enumerações, imaginei que a mesma dúvida pode ter surgido para várias pessoas, porque é uma boa dúvida. Dá a entender que o autor deste artigo está se atentando a preciosismos da linguagem (e está mesmo!), mas à vezes as aparências enganam.
-
-Para ilustrar melhor fiz um mais elaborado. Aqui, estamos lendo pedaços de dados que tiveram que ser alinhados com alguma "gordura".
-
-```
-// alinhamento obrigatório pelo leiaute dos dados
-#define CHUNKSZ_BASE 0x5000
-
-#define CHUNKSZ_TINY   0x1000 + CHUNKSZ_BASE
-#define CHUNKSZ_SMALL  0x2000 + CHUNKSZ_BASE
-#define CHUNKSZ_MEDIUM 0x4000 + CHUNKSZ_BASE
-#define CHUNKSZ_HUGE   0x8000 + CHUNKSZ_BASE
-
-// alinhamento obrigatório pelo leiaute dos dados
-static const int chunkSizeBase = 0x5000;
-
-enum ChunkSize
-{
-   chunkszTiny   = 0x1000 + chunkSizeBase,
-   chunkszSmall  = 0x2000 + chunkSizeBase,
-   chunkszMedium = 0x4000 + chunkSizeBase,
-   chunkszHuge   = 0x8000 + chunkSizeBase,
-};
-
-// Fonte original
-int main()
-{
-	// lendo quadro pedaços de dados (tamanho médio)
-   ReadChunkFromFile(file, CHUNKSZ_MEDIUM * 4);
-
-	// lendo quadro pedaços de dados (tamanho médio)
-   ReadChunkFromFile(file, chunkszMedium * 4);
-}
-
-// Pós-processado
-int main()
-{
-	// lendo sei lá o que (perde alinhamento)
-   ReadChunkFromFile(file, 0x4000 + CHUNKSZ_BASE * 4);
-
-	// lendo quadro pedaços de dados (tamanho médio)
-   ReadChunkFromFile(file, chunkszMedium * 4);
-}
-
- 
-
-```
-
-_Aviso para os programadores mais calejados, eu omiti propositalmente os parênteses obrigatórios para qualquer define que tenha cálculos matemáticos, para ilustrar que muitas vezes o que vemos **antes** não é o que aparece **depois.**_
-
----
-categories: []
-date: '2008-03-29'
+categories:
+- writting
+date: '2016-05-08'
+link: https://www.imdb.com/title/tt0238380
 tags:
-- ccppbr
-title: 'EPA-CCPP 4: nossa comunidade ganhando forma'
+- movies
+title: Equilibrium
+---
+
+Equilibrium é um filme que sofre do próprio efeito afetado de seus personagens, pertencentes a uma espécie de paródia de "1984" a respeito de um futuro distópico onde é proibido sentir. Se o sentir para os personagens é algo natural, transformar isso em linguagem cinematográfica é um desafio que o diretor/roteirista Kurt Wimmer topa conduzir, gerando no processo resultados mistos.
+
+Especialista no roteiro em thrillers de ação (O Vingador do Futuro, Salt), Wimmer não consegue evitar transformar uma reflexão até que interessante sobre uma humanidade que teme sucumbir a uma quarta guerra mundial (sim, houve uma terceira) em um... thriller de ação. Vestindo Christian Bale como um padre mortal, o "alto-clero" dessa sociedade coletivizada, menos coletivizada como abelhas programadas geneticamente, mais como frutos de mais um delírio autoritário, e os símbolos dessa nova nação, diga-se de passagem, lembrando na cor e no formato o nazismo, o que não poderia ser menos óbvio, é natural que cenas estilizadas surjam, fruto do treinamento militarizado e, ironicamente, individualizado do personagem de Bale.
+
+Apresentando de maneira totalmente maniqueísta essa realidade, na forma de discursos e exposições nada naturais -- como se fosse rotina na vida dessas pessoas reafirmar a mesma coisa todos os dias -- a necessidade de não sentir é conseguida com uma espécie de droga que inibe a parte mais instintiva do ser humano. Dessa forma, apenas quem está no poder é que, naturalmente, irá conseguir sentir algo. Sim, sempre há alguém no poder, não seguindo as próprias regras que este impõe.
+
+Christian Bale é o astro da vez, conseguindo transformar um personagem nada interessante em um ser enigmático, onde suas ações nunca são claras, mas se tornam ainda menos claras quando este decide, devido as circunstâncias, parar de tomar a tal droga. Com isso, surge um thriller de mistério, pois ser pego é algo tão inevitável nesse mundo que a tensão toda se desdobra em torno de quando será esse momento.
+
+Aliás, nunca se sabe se a trilha sonora dramática remete à situação que a humanidade chegou para inibir seus próprios instintos, ou se é a dor interna do protagonista, dor essa representada lindamente em um momento e uma sequência onde simplesmente não consegue se livrar de um cachorro.
+
+A seriedade com que o tema é tratado, toda a solenidade envolvida na trilha sonora, toda a sisudez nas formas geométricas que formam os ambientes internos e externos daquele mundo, todos os tons monocromáticos das roupas de seus habitantes, altamente impecáveis. Tudo isso não impede que o filme foque constantemente em brincar com a situação de uma forma completamente inapropriada, tentando inserir o humor onde é muito difícil encontrá-lo. Por conta disso, há bons momentos no filme, mas pouco se aproveita. Ainda assim, ele nunca deixa de ser interessante. Mesmo que tenhamos que passar pelas mesmas situações duas ou três vezes (incluindo aquele momento que Bale mata todos à volta).
+
+No entanto, ao chegar no terceiro ato, o clichezão básico de passar por vários capangas necessariamente -- para a ação se revelar melhor do que no resto do filme -- soa tão clichê, que simplesmente desistimos de acompanhar o drama e passamos a apreciar o casamento do Tarantinesco e o Orweliano.
+
+Interessante por suas ideias, que logo são deixadas de lado, e mais interessante pela beleza estética de suas cenas de luta, Equilibrium tenta instigar algo mais do que um thriller de ação, mas, assim como Vingador do Futuro (o remake), está mais focado em impressionar ativamente do que deixar o espectador respirar um pouco e ter algumas ideias de sua própria cabeça.
+

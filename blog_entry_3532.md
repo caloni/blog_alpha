@@ -1,12 +1,22 @@
 ---
 categories:
 - writting
-date: '2021-04-04'
-link: https://www.imdb.com/title/tt5446578
+date: '2016-05-22'
+link: https://www.imdb.com/title/tt4181052
 tags:
-- animes
-title: Space Patrol Luluco (Uchuu Patrol Luluco)
+- movies
+title: Special Correspondents
 ---
 
-A inventividade do nonsense nesta animação com vários conceitos artísticos que fogem do lugar comum, como mesclar fotos de lugares reais com as personagens do anime ou o uso de uma câmera frenética que lembra muito a falta de limites em Kill La Kill. A história é pano de fundo para o absurdo. As possibilidades de uma cidade japonesa onde terráqueos e aliens convivem são ilimitadas, mas em Uchu Patrol Luluco ainda existe um estilo de desenho cartoon que eleva mais ainda as fichas. Curto e simples de acompanhar.
+Ricky Gervais arrisca pouco, mas ganha. Special Correspondents tem a cara e o gosto do diretor/roteirista em suas inúmeras comédias (The Office, Derek, Life is Too Short), mas por se tratar de um longa-metragem, evita a batidíssima câmera na mão e tenta criar uma ficção de fato.
+
+Claro, com as piadas, gags, situações e comentários sociais que ele está acostumado a fazer.
+
+E não dá para dizer que o enquadramento do filme, nem sua fotografia, são um esmero de perfeição. Acostumado com takes estáticos, todas as cenas soam meio deslocadas, e pouco inspiradas. Mas é uma lição de casa bem feita.
+
+A história é a mais clichê: um jornalista de rádio bonitão (Eric Bana) e um técnico de som feião (Gervais) vão ao Equador cobrir uma guerra civil. Ou iriam, se eles não perdessem seus passaportes e fossem obrigados a forjar notícias para não serem pegos. A esposa de Gervais é usada como link entre os dois personagens, e tudo gira em torno de tentar levemente fazer uma crítica ao falso jornalismo e às aparências.
+
+Faltando peso dramático para tal, o ponto forte do longa acaba sendo, como sempre, o timing cômico de Gervais, que assume um papel itinerante que não exige muito de seus dons interpretativos.
+
+Tudo mais constante, temos uma comédia de situação em Nova York que, bem-humorada do começo ao fim, entretem, diverte pontualmente e serve para ser esquecida no minuto subsequente.
 

@@ -1,18 +1,18 @@
 ---
 
-Uma nova temporada de House of Cards significa que as peças do jogo serão remanejadas para dar início a outra partida, e a história é sempre sobre o remanejamento de peças, e não a partida em si. A Netflix usa e abusa de seu formato, já que a temporada inteira foi concebida para ser assistida em sequência. Os episódios quase nunca terminam em reviravoltas, mas em conclusões. São mini-capítulos da eterna história pela busca do poder.
+Quanto mais penso que House of Cards não teria por que figurar entre as melhores séries que já vi (até o momento), pois "não tem nada de mais", mais fico convencido que tem. A despeito das demonstrações de poder e ambição de Francis Underwood (o personagem de Kevin Spacey) que divertem o público em geral, as entrelinhas que sutilmente se formam entre os personagens sobriamente idealizados por Beau Willimon, cujo livro "Farragut North" foi brilhantemente adaptado por George Clooney em Tudo pelo Poder, ajudam a construir na série um clima tão realista que torna-se assustador imaginar que aqueles acontecimentos podem de fato ter ocorrido ou estar ocorrendo com outros nomes em outros lugares, mas que mantém a mesma premissa narrativa de depender do poder emanado pelo Estado para que as marionetes dancem em torno do palco que se forma.
 
-E, para todo mundo que já assistiu essa série, sabe que ela não é sobre mocinhos versus bandidos. Todos são bandidos. A ação quase sempre se passa na Casa Branca! É sobre a máfia estatal, seus capangas, seus dirigentes, seus espiões. Não há lugar para pessoas boazinhas por aqui, já que nossa evolução propriciou justamente o pior dos ambientes para que os piores psicopatas da região dominassem sobre todo o restante de primatas ignorantes e alienados. Francis Underwood cada vez mais se parece com o símbolo da busca incessante por poder, e ele aos poucos se distancia do vilão sem coração que foi pintado em momentos anteriores. Ele é apenas um dos personagens mais honestos da série, sendo divertido, mas repetitivo, acompanhar seus comentários paralelos com seu espectador (nós).
+O que me leva a considerar essa dança tão fascinante é que não é uma série unicamente sobre política e seu jogo de influências, mas uma história que basicamente envolve pessoas e o que elas fariam em determinadas situações. Conforme nos acostumamos com as regras do sistema político, algo mais intrincado emerge: o poder do networking manipulado. Pior: conforme nos acostumamos com o poder do networking, fica difícil não concordar com as decisões racionais dos personagens, por mais anti-éticos e controversos que sejam.
 
-A honestidade de Frank bate de frente com a tranquilidade de sua esposa, Claire, que começa aos poucos perceber a estratégia do marido, quase que por telepatia. Os dois estão empenhados, alinhados, e é ótimo ver isso. Quem não gostar das preferências (ou opções) sexuais dos dois irá se sentir ofendido por esse casal. Mas não é lindo como ambos são honestos a respeito de praticamente tudo? A Claire da Season 5 é a sequência direta da 4, e ela empolga por ganhar aos poucos terreno em um ecossistema feito para homens. Robin Wright não é apenas uma ótima atriz, mas dois dos melhores episódios da temporada, os dois últimos, são dirigidos por ela. Há muitos diretores desta vez, e um resultado um tanto irregular, o que dá ótimas oportunidades para Claire brilhar ainda mais.
+Kevin Spacey está, como de costume, um gênio. Seu tom de fala impassivo e tranquilo deixa transparecer que está no jogo há muito tempo. Suas ambições deixam claro que não chegou na posição atual por acaso. Todos os movimentos de House of Cards parecem demonstrar que, entre os "chefões", nada é por acaso (e sugere em seus minutos finais que existam outros chefões empenhados no jogo).
 
-Não é uma temporada com muitos momentos brilhantes, e ela foi cozida em fogo morno. Porém, ela tenta se reciclar, o que é louvável, mas já deveria ter terminado muito antes do seu quinquagésimo capítulo.
+E é esse "nada por acaso" que torna cada minuto de House of Cards, pois mais parado que seja, sempre interessante.
 
 ---
 categories:
 - writting
-date: '2017-05-30'
+date: '2016-03-13T20:20:00-03:00'
 link: https://www.imdb.com/title/tt1856010
 tags:
 - series
-title: House of Cards - Quinta Temporada, Episódio 1
+title: House of Cards - Segunda Temporada

@@ -1,29 +1,152 @@
 ---
+
+Mesmo as vezes que você não queira, algumas dependências pedem carona e o compilador deixa entrar. Daí mesmo que você não use uma função API, ela acaba te atazanando a vida.
+
+Foi o caso da ToolHelp32 no Windows NT 4.
+
+#### Como as coisas funcionam
+
+Quando compilamos, cada CPP vira uma coleção de funções que serão usadas, mais tarde, pelo linker, para juntar a bagunça. Para mais detalhes dessa fascinante história, recomendo o fantástico artigo sobre [Os diferentes erros na linguagem C](http://www.caloni.com.br/os-diferentes-erros-na-linguagem-c), seção **Linkedição**.
+
+Para as dependências localizadas fora do executável final, por exemplo, as DLLs do sistema, o linker cria uma entrada no formato padrão de executável que adiciona essa dependência extra que será resolvida na hora do programa rodar, quando o loader do sistema operacional terá que fazer um linker on-the-fly, catando todas as DLLs e funções necessárias para colocar o bichinho no ar.
+
+Dessa forma, quando existirem unresolved externals fora do executável final, o responsável por dar o erro é o loader do sistema:
+
+{{< image src="winnt4-process32next-unresolved2.png" caption="winnt4-process32next-unresolved2.png" >}}
+
+Isso significa que o seu processo não poderá ser executado, pois faltam funções no ambiente que ele depende.
+
+Um recurso muito útil para ver essas funções é o Dependency Walker, meu amigo de infância:
+
+{{< image src="depends-process32-not-found2.png" caption="depends-process32-not-found2.png" >}}
+
+<blockquote>"Mas, Caloni, eu nem uso essa função! Como ela pode ser necessária?"</blockquote>
+
+Pois é. As coisas nem sempre acabam sendo como o esperado. Se você possuir uma LIB, por exemplo, e nela existirem duas funções, como abaixo, e você se limitar a usar em seu programa apenas a primeira, todas as dependências da segunda também irão parar no executável final.
+
+```
+#include "LibMod.h"
+#include <windows.h>
+#include <Tlhelp32.h>
+#include <stdio.h>
+
+// Essa função é usada pelo nosso App
+int UsingOldApis()
+{
+	DWORD ver = GetVersion(); // API paleozoica, OK.
+	return int( (DWORD)(LOBYTE(LOWORD(ver))) );
+}
+
+// Essa função NÃO é usada pelo nosso App
+void UsingNewApis()
+{
+	// Opa: função moderninha!!
+	if( HANDLE snapshot = CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS, NULL) )
+	{
+		PROCESSENTRY32 procEntry;
+
+		// Tudo bem, nosso App não vai usar essa função.
+		if( Process32First(snapshot, &procEntry) )
+		{
+			printf("Process list:\n");
+
+			do
+			{
+				printf("%s\n", procEntry.szExeFile);
+			}
+			while( Process32Next(snapshot, &procEntry) );
+		}
+
+		CloseHandle(snapshot);
+	}
+}
+ 
+
+```
+
+```
+#include "LibMod.h"
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+	// Usando apenas funções paleozoicas, certo?
+	printf("Our Major OS version is %d\n", UsingOldApis() );
+	system("pause");
+}
+ 
+
+```
+
+#### Por que isso ocorre?
+
+Acontece que o nosso amigo linker gera uma lista de dependências por módulo (CPP), e não por função. Dessa forma, tudo que vier é lucro.
+
+Só que às vezes é prejuízo, também. Quando usamos um SO da época do guaraná com rolha, como o Windows NT 4, por exemplo, não conseguimos usar um programa porque este possuía uma função moderninha nunca usada, mas que estava dentro de um CPP junto de uma função comportada, usando apenas APIs documentadas no primeiro papiro da Microsoft.
+
+#### Solução?
+
+Sempre existe. Nesse caso, migrarmos as funções moderninhas para um segundo CPP, recompilarmos a LIB e a dependência milagrosamente desaparecerá!
+
+```
+#include "LibMod.h"
+#include <windows.h>
+#include <Tlhelp32.h>
+#include <stdio.h>
+
+// Essa função é usada pelo nosso App
+int UsingOldApis()
+{
+	DWORD ver = GetVersion(); // API paleozoica, OK.
+	return int( (DWORD)(LOBYTE(LOWORD(ver))) );
+}
+
+ 
+
+```
+
+```
+#include "LibMod.h"
+#include <windows.h>
+#include <Tlhelp32.h>
+#include <stdio.h>
+
+// Essa função NÃO é usada pelo nosso App
+void UsingNewApis()
+{
+	// Opa: função moderninha!!
+	if( HANDLE snapshot = CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS, NULL) )
+	{
+		PROCESSENTRY32 procEntry;
+
+		// Tudo bem, nosso App não vai usar essa função.
+		if( Process32First(snapshot, &procEntry) )
+		{
+			printf("Process list:\n");
+
+			do
+			{
+				printf("%s\n", procEntry.szExeFile);
+			}
+			while( Process32Next(snapshot, &procEntry) );
+		}
+
+		CloseHandle(snapshot);
+	}
+}
+```
+
+{{< image src="depends-process32-not-needed.png" caption="depends-process32-not-needed.png" >}}
+
+Agora a aplicação poderá rodar em paz naquele que é, como diz meu amigo, um sistema operacional de ponta... da outra ponta!
+
+---
 categories:
 - writting
-date: '2016-09-23'
-link: https://www.imdb.com/title/tt1974419
+date: '2021-03-27'
+link: https://www.imdb.com/title/tt6591406
 tags:
-- cinemaqui
-- movies
-title: Demônio de Neon
----
-
-A única esfinge presente na mitologia grega é um demônio e se assemelha a um leão alado com cabeça de mulher. Presente na peça Édipo Rei, Ela olha onipotente para os mortais que desejavam passar e desfere seu famoso enigma. Para os que não o decifram, ela os devora. O enigma tem relação com as diferentes fases na idade do homem, mas para acertar você precisa descobrir que a criatura disforme, que muda de patas durante o dia, é o próprio homem. Não por acaso, Demônio de Neon em sua primeira cena, ou melhor dizendo, em seu primeiríssimo quadro, mostra uma jovem de beleza estonteante deitada em um divã ao som de uma música estilo dance psicodélico, empolgante e ao mesmo tempo grandioso, revelando todos os passos de como este filme deve ser desvendado. A moça está morta, pois escorre sangue de seu braço até o chão de vidro com um tom rubi. Apesar de trágica, a cena permanece belíssima enquanto a câmera, nossos olhos, se afastam, como em fascinação. E o novo filme "de grife" do diretor Nicolas Winding Refn (Drive) explora justamente essa fascinação que temos, tanto do belo quanto do horrível. Muitas vezes ao mesmo tempo.
-
-E que melhor universo para retratar isso do que o mundo das modelos, acostumadas a conviver, como uma personagem diz, com um prazo de validade curtíssimo, e disputar a atenção de seus mestres -- seja um fotógrafo ou estilista -- e sendo objetos passivos aguardando serem escolhidas ou rejeitadas em um piscar de olhos, ou às vezes nem isso.
-
-Pois é justamente essa posição que privilegia a beldade que vimos no primeiro minuto de filme. Elle Fanning é a queridinha de Hollywood que faz a garota do interior que tem o sonho de se tornar alguém na cidade grande e no mundo da fama, em moldes semelhantes o que fez Naomi Watts em Cidade dos Sonhos (aqui, além de se passar também em Los Angeles, há claramente referências e homenagens ao filme de David Lynch). Nesse caso, porém, esse é apenas um papel que ela deve desempenhar enquanto aspirante a modelo, mas logo vemos que ela já sabe que tem uma pele, um rosto e um corpo que não podem ser ignorados nem mesmo pelos seus mestres mais exigentes, e, claro, nem pelas suas concorrentes mais ferozes. Porém, seu caminho é fácil, pois os deuses da genética foram generosos com seu físico. Dessa forma, o filme se configura uma viagem para ela e um passeio para nós, embora a história de Refn crie tensão apenas pela condição que ela está, e não onde ela quer chegar.
-
-A personagem de Fanning, Jesse, esconde sua arrogância através de sua aparência inocente, mas se revela em um ataque certeiro quando ameaçada, e certeiro no sentido que não sabemos tratar-se de maldade direcionada de Jesse ou apenas ingenuidade de uma moça recém-chegada do interior. Para o momento não importa. O que importa é que, durante esse processo de descoberta, isso acaba desagradando uma modelo que conheceu em uma festa durante uma conversa de banheiro e que responde à moça com uma moeda muito mais cruel, apelando para sua carência de pais, revelando ao mesmo tempo a insegurança da modelo e que, apesar de ter feito no mesmo dia uma amiga maquiadora fascinada por sua pele (a ótima Jena Malone) descobre que não existem muito segredos no mundo da moda, já que qualquer informação obtida pelas colegas poderá ser usada contra ela.
-
-Apesar de utilizar referências e homenagens ao estilo que pretende utilizar o filme escrito a várias mãos não se resume em repetir os clichês da área da moda, apesar de reconhecer sua influência até em filmes mais recentes como Mapa para as Estrelas. Esse clima de deslumbramento e fantasia é pintado para explorar o interior desses corpos divinamente arranjados pelos seus donos, mas evita apelar, por exemplo, para o uso de sexo para subir na vida. Se trata de algo muito pior: de fazer qualquer coisa para subir (e permanecer) na passarela.
-
-E a passarela, essa entidade viva, símbolo pelo qual as beldades precisam se sacrificar e lutar a todo custo, é vista quase como um ser dotado de desejos ritualísticos. Ele possui um símbolo iluminado ora de azul, mas eventualmente de vermelho, e tem por objetivo maior a aceitação do espelho, do ego, da aparência definitiva. A aparência, ou beleza, como bem observado por um outro personagem, não é apenas tudo: é a única coisa. A maior moeda de troca, e talvez a única realmente válida e eterna. Nesse mercado de beleza, todos sabem quando algo é falsificado ou é autêntico.
-
-Há diferentes visões na narrativa de Demônio de Neon que alimentam com simbolismo de cores e músicas um aspecto não apenas onírico, mas temático. O trabalho do diretor é assinado como uma coleção de outono (quando as folhas morrem) e azul e vermelho seguem um padrão simples, mas poderoso. Um ambiente azul (paz, inocência) sempre pode se tornar vermelho (perigo, o mal), assim como os ambientes onde se tiram as fotos e se faz o teste de desfile são amplos, sugerindo riqueza, opulência, divindade, enquanto as salas de preparação das modelos, assim como a moradia da protagonista, é escuro, apertado, feio.
-
-A maior virtude do filme é vir embalado em uma viagem sensorial fascinante, com enquadramentos de encher os olhos e música de encher os ouvidos. Ironicamente, se analisado como metalinguagem, pode acusar a própria "hipocrisia" do espectador em se deliciar com um trabalho feito por uma equipe que trabalha para entregar o máximo de prazer no audiovisual. Pense nisso quando estiver elogiando a entrega total da atriz X ou do ator Y e verá que o filme não se resume em um trabalho específico do mundo da moda. A arte exige sacrifícios e riscos que pessoas estão dispostas a correr, e espectadores dispostos a assistir.
-
-Por isso todo o filme dá essa sensação de estranheza ou incômodo. Aliás, é bom avisar: há cenas realmente fortes na conclusão. Afinal de contas, não há maneira melhor de demonstrar os sacrifícios alimentares das modelos senão pelo clima visceral que os símbolos em Demônio de Neon nos entregam. E não há sacrifício alto demais para realizar uma rima simbólica com o próprio mito da Esfinge. Felizmente para nós, espectadores, isso é apenas um incômodo temporário e maquiado. Nosso único incômodo talvez seja ouvir a belíssima música de fechamento de Sia Furler com uma conotação... diferente do usual.
-
+- animes
+- series
+title: Depois da Chuva (aka Koi wa Ameagari no You ni)

@@ -1,27 +1,20 @@
 ---
 categories:
 - writting
-date: '2016-03-31'
-link: https://www.imdb.com/title/tt1663655
+date: '2010-04-16'
+link: https://www.imdb.com/title/tt0978762
 tags:
-- cinemaqui
 - movies
-title: Martírio
+title: Mary e Max uma Amizade Diferente
 ---
 
-Martyrs, como todo terror que se preza, possui uma história bem simples. O que o torna envolvente é a sua forma de representar a insanidade humana, seja através da religião ou de uma ideologia qualquer que utilize o ser humano como objeto de sacrifício.
+Tudo em "Mary e Max" é construído para tentar responder uma das perguntas emocionalmente mais ambiciosas e filosoficamente mais intrigantes que nós, passageiros desse planeta em direção à morte, nos fazemos de vez em quando: o que é a amizade?
 
-Nesse sentido, ele é bem universal, o que, pelo menos em teoria, descartaria a necessidade desse remake norte-americano. Não vi o original, mas me parece que o único motivo de refilmar a produção francesa é a velha alergia que os americanos têm de legenda.
+Mary (Toni Collette), uma menina da Austrália, começa a se comunicar ao acaso através de cartas com Max (Philip Seymour Hoffman), um senhor de meia-idade de Nova York. Habitantes cada um do seu mundinho particular e distante, suas cores não se misturam, suas músicas possuem diferentes tons, suas idades são incompatíveis (o futuro de Mary é do mesmo tamanho que o passado de Max). Mesmo assim há algo que os une e a todos nós de uma maneira indissociável e misteriosa: a solidão, e uma fascinante melancolia que torna tudo triste à sua volta.
 
-Não existem grandes heróis ou heroínas no filme, mas apenas vítimas e vilões, o que é de se admirar. Vemos no início a jovem Lucie (Troian Bellisario, da série Pretty Little Liars) conseguir se livrar de amarras e sair correndo para longe de um lugar que parece ter sido seu cativeiro. Ela se torna, então, moradora de um orfanato, onde encontra sua melhor amiga, Anna (Bailey Noble). Lucie aos poucos se abre para a amiga, e revela que recebe a visita constante de monstros.
+Presos ou na infância lúdica e suas dúvidas e descobertas, ou na velhice autista e seus pequenos desafios do dia-a-dia, as confissões entre esses dois seres tão díspares flui de uma maneira admirável graças à direção precisa de Adam Elliot que com a ajuda de seu montador Bill Murphy combinam luz (Gerald Thompson), som (Dale Cornelius) e uma arte (Craig Fison) em "stop motion" em sincronia com os sentimentos dos seus personagens, que florescem em torno de uma narração onisciente (Barry Humphries) que lê as tais cartas de uma forma empolgante, quase como se conhecesse a fundo cada uma dessas almas separadamente e fizesse de tudo para juntá-las em assuntos comuns. O mais maravilhoso é perceber como até assuntos corriqueiros (como o nascimento dos bebês) se tornam fascinantes nas mãos do hábil roteirista que sintetiza tudo que eles escrevem de uma maneira surpreendentemente orgânica e trivial, mas que mantém uma profundidade digna dos diálogos de Antes do Amanhecer e suas continuações.
 
-Dez anos se passam. As jovens cresceram, e a história dá início a uma reviravolta particularmente inspirada, onde a dúvida se estamos presenciando um filme sobre a loucura humana ou sobre o sobrenatural é o pêndulo que se torna particularmente interessante de ver em movimento, mesmo que intuitivamente já saibamos a resposta (ou pelo menos a resposta que melhor se encaixaria no contexto da história).
+Porém, fora a descrição contemplativa, a versão animada da imaginação de ambos é uma diversão à parte, assim como os estranhos seres, animais e humanos, que permeiam a vida dos dois. Além disso, essa não é uma história estática que foca no passado, pois temos o privilégio de acompanhar o crescimento e amadurecimento de Mary, que vai aos poucos sentindo o peso da vida. O que a mantém em movimento em vários momentos é sua amizade com Max. A recíproca é verdadeira, e conseguimos captar através de uma comédia leve que consegue tornar a morte frequente de seus peixes de estimação como uma gag tão eficiente pelas risadas quanto significativa pelo que simboliza, que o velho Max está tão perdido quanto Mary, mas que graças ao seu suporte tenta melhorar de sua doença, nem que seja um pouco a cada dia.
 
-No entanto, a descoberta da ante-sala do inferno se torna o ponto alto do longa, onde a partir daí não há pudores na dor e sofrimento alheio. Muito parece gratuito e desnecessário, e o roteiro, embora bem construído, dá seus deslizes em saídas fáceis e explicações gratuitas (embora tente amarrar com alguma lógica).
-
-Desinteressado em florear muito seus motivos, Martyrs simplesmente é o que é. Não há melhor conspiração que a sua ausência e não há pior maldade do que a possível em um mundo onde já vivemos. Os simbolismos envolvidos na explicação são ótimos por dispensarem qualquer ideia mirabolante ou gancho espiritual.
-
-Sobre a direção dos irmãos Goetz, fica difícil não citar o uso de uma profundidade de campo reduzida, onde quase nada do cenário, ou personagens secundários, é possível ver. Esse artifício foi utilizado pelo vencedor do Oscar esse ano de filme estrangeiro, O Filho de Saul, por motivos semelhantes, além de um quê de esconder o objeto do medo sem precisar colocá-lo atrás da porta. E funciona razoavelmente bem em conseguir esconder também parte do gore que é desnecessário, e só diretores como Eli Roth fariam questão de mostrar.
-
-Mesmo assim, se você não é muito fã de violência gráfica extrema, haverá um ou dois momentos propícios para virar os olhos. Nada muito exagerado. É que o psicológico de Martyrs pega pesado. E, com um pouco de atenção, o filosófico também poderá pegar você de jeito.
+O que nos leva ao impecável terceiro ato, que depois de nos conquistar completamente com personagens tão verossímeis quanto atores de carne-e-osso de um drama "live action", tem a proeza de criar momentos tensos e dramáticos entre os dois mesmo mantendo a distância física que os separa. "Mary e Max" não consegue explicar do que são formadas as amizades, mas consegue descrever com perfeição a amizade desses dois, o que para mim já vale por todos nós.
 

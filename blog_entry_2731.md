@@ -1,20 +1,24 @@
 ---
 categories:
 - writting
-date: '2016-01-04'
-link: https://www.imdb.com/title/tt0119528
+date: '2013-02-20'
+link: https://www.imdb.com/title/tt1560747
 tags:
 - movies
-title: O Mentiroso
+title: O Mestre
 ---
 
-Jim Carrey é um comediante tão talentoso que, se inserido no projeto certo, pode render um filme que sem ele seria apenas um passatempo da sessão da tarde, mas com ele ganha contornos cartunescos que remetem o significado da história que acompanhamos para algo além do trivial.
+Desde o início Freddie Quell (Joaquin Phoenix) é um animal não domesticado, obediente aos seus instintos mais primitivos e dotado de traços animalescos e infantis (como se divertir com peidos). Constatamos isso ainda pelo seu ritual de beber um quase veneno preparado por ele e brigar como um animal raivoso e enxergar sexo em qualquer lugar.
 
-É assim com O Mentiroso, a fábula que envolve um pai separado que não consegue parar de mentir no emprego de advogado e para seu filho, o desapontando frequentemente, até que um pedido mágico do garoto faz com que ele não consiga mais mentir por um dia inteiro, o que vira um desastre por ser justo no dia em que, colocado à prova para entrar em sociedade no escritório onde trabalha, ele irá defender uma cliente baseado em mentiras.
+Acreditarmos em seu estado animalesco é vital para que entendamos desde o início. A suposta aura de superioridade que Lancaster Dodd (Philip Seymour Hoffman), o tal Mestre do título, parece atribuir à figura do homem não passa de um delírio da sociedade moderna. Para isso a colaboração incondicional dos dois atores em viverem essas caricaturas é o que determina o sucesso na comparação entre esses seres que parecem tão díspares. No entanto, note como Lancaster se enfurece ao menor sinal de crítica aos seus métodos, por mais ponderados e racionais que estes sejam, demonstrando que talvez seja uma versão podada do seu recém-amigo.
 
-Dirigido por um improvável Tom Shadyac (Todo Poderoso? Patch Adams??), o filme é um quê de grandiosidade, como podemos perceber pelas tomadas criativas de Shadyac, que usa uma sequência hilária de tomadas na cena mais engraçada da trama -- em que Jim Carrey tenta dizer que uma caneta azul é vermelha -- além de uma trilha sonora (John Debney) que remete diretamente a comédias épicas como Esqueceram de Mim.
+O diretor Paul T. Anderson não poupa esforços para demonstrar que o aparente cientificismo nos ensinamentos de Lancaster não passam nunca de sua visão subjetiva do mundo, no qual faz o papel de um profeta em uma seita. Se nos escapa o momento onde seja possível identificar qualquer indício de pensamento científico é porque a resposta mais simples é que simplesmente ele não existe.
 
-O pior é que com as caretas de Jim Carrey toda essa grandiosidade funciona, e na maior parte do tempo nos convence de que esta é uma história de proporções épicas, pois o que está em jogo é a felicidade de uma criança e um sucesso de um pai em sua tentativa de ser honesto com seu filho. Percebemos isso nos momentos mais sóbrios e tocantes, quando o vemos surpreso por dizer que quer o melhor para seu filho e constata que essa é uma verdade fácil de ser dita.
+Ainda que seja justificável a presença de Freddie como alguém disposto a "aprender" com o Mestre e consequentemente nos fazer entrar em seu universo, e mesmo que seja visível a necessidade de Lancaster em conseguir com que Freddie internalize seu lado animal (talvez até como um desafio ao seu método) o fato é que nunca é possível deslumbrar o porquê perder tanto tempo com alguém irrecuperável da "falha" de ser um humano visceral (e livre) quando é fácil perceber os objetivos de Lancaster giram melhor próximo dos bolsos das desenganadas (e ricas) velhinhas que consola através da viagem no tempo.
 
-Apelando sempre para o emocional, porém, o filme tem seus defeitos também no exagero, e tentar nos manipular com uma criança não parece ser a melhor maneira de ganhar a empatia do público. Felizmente, o resultado é mais pastelão do que lenços de papel.
+Philip Seymour Hoffman surge com um personagem que é seu reflexo obscuro do carisma que esbanja ao encarnar uma pessoa dotada do dom do discurso e desprovido de qualquer lógica, apelando, portanto, para a comédia barata para atrair a atenção de todos. Enquanto isso, Amy Adams, que faz sua filha, é sua versão meticulosa e mais sincera. Ela parece saber que o império crescente do seu pai poderá ser seu quando este partir, o que explica sua assustadora, para não dizer repugnante, determinação com que parece cuidar do seu pai (ajudando-o inclusive nos momentos mais íntimos).
+
+Quase todas as cenas carecem de trilha sonora, o que torna a introspecção dos atores muito mais realista. No entanto, quando surge, a trilha sonora revela o aspecto obscuro de Lancaster Dodd ao delinear uma série de sons incidentais, que conseguem ilustrar o lado místico e caótico de uma crença que tenta desviar o nosso olhar para o real.
+
+Em detrimento de todos os esforços, e mesmo sendo nobre a tentativa de ridicularizar a obviamente parodiada Cientologia é preciso assumir que o diretor exagerou por demais em seu ódio. Ou talvez não. Quando uma nova religião forma à sua volta as contas bancárias mais pomposas de Hollywood talvez uma crítica ácida e cinematográfica seja a única coisa honrosa a se fazer para nos salvarmos da insanidade de um mundo gerido pela ilusão do conhecimento.
 

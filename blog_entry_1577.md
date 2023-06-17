@@ -1,17 +1,19 @@
 ---
 categories:
 - writting
-date: '2022-04-24T12:21:53-03:00'
+date: '2012-10-25'
+link: https://www.imdb.com/title/tt1835980
 tags:
-- series
-title: Feel Good
+- mostra
+- movies
+title: Felicidade
 ---
 
-É comum comediantes de standup compartilharem suas histórias de vida de uma maneira cômica. Os melhores de uma maneira tragicômica. Porque, convenhamos, trazer o melhor da comédia exige dor e sofrimento. E se alguém tem que sofrer nessa história que seja o comediante.
+Há uma introdução vigorosa e poderosa em Felicidade, novo trabalho da diretora Doris Dörrie ([Cerejeiras em Flor]). Sem diálogos e um jogo de sons e imagens extremamente econômicos em sua mensagem, acompanhamos a vida perfeita e feliz de Irina (Alba Rohrwacher) em seu país de origem seguido da tragédia que vem com a guerra, representada por um grupo impiedoso de soldados. O choque de realidades é intenso, mas em poucos momentos aliviado com a visão de um cervo, que representa não apenas a última visão de Irina e sua terra natal, mas a capacidade do filme de amenizar passagens fortes de sua história, uma virtude e ao mesmo tempo a sua maior fraqueza.
 
-Feel Good transforma a história de vida de Mae Martin, comediante de standup canadense, em uma série curta com piadas e situações rápidas que faz o tempo passar gostoso. A série escrita por ela foca em seu trauma de infância e como ele se desenrolou ao longo de anos como um vício em drogas e em depender dos seus relacionamentos. A série também aborda a questão bem atual de identidade de gênero, mas com um tom muito mais divertido e absurdo do que você costuma ouvir por aí. Dá gosto de explorar o tema na maioria dos momentos em que ele é engraçado e você logo esquece dele quando o assunto fica sério, o que é um ponto positivo para a série, que mantém o foco em fazer rir em sua dinâmica primeira temporada.
+Mesmo debilitada emocionalmente, ou talvez por causa disso, Irina começa uma outra vida na cidade grande. A capacidade que ela tem de se manter de pé e continuar a respirar suas emoções só consigo atribuir à sua vida passada, plena e cheia de felicidade. A felicidade aqui tem cheiro e cor, representada por elementos simples como o mel ou um pouco de imaginação. Irina diz se alimentar de mel por ser uma abelha. Lembramos do enxame de sua fazenda fugindo dos tiros de canhão. O texto visual do filme é sempre forte e sutil como esse exemplo.
 
-Já na segunda a série enxerga que é necessário levar a sério o trauma da protagonista e viaja um pouco nessa questão, embora não fique tão pesado quanto poderia ser. Outro tema atual surge, os cancelamentos e os escândalos de assédio sexual no show business, mas mais uma vez o roteiro de Mae acerta em lançar mais perguntas do que entregar respostas.
+Irina conhece Kalle (Vinzenz Kiefer) e enxerga nele a mesma leveza que possui. Juntos tentam buscar novamente a felicidade, e mesmo que seja difícil nunca sentimos ser mais difícil do que é para qualquer um de nós, que precisamos quase sempre matar um leão por dia. É nesse ponto que a leveza do filme impede que acontecimentos particularmente trágicos e tensos não possuam espaço para crescer. Ao amenizar as situações, perde-se o potencial dramático por uma tenebrosa comédia, e com ela vai-se o significado maior do filme: a felicidade a qualquer custo sacrifica o poder da tristeza.
 
-Feel Good é uma boa surpresa na comédia de streaming por ser leve a respeito de temas que são tratados de maneira pesada. Torna nossa visão de mundo mais clara e nossa vida mais alegre. Nunca é demais rir das desgraças da vida.
+[Cerejeiras em Flor]: {{< relref "hanami-cerejeiras-em-flor" >}}
 

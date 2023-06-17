@@ -1,16 +1,16 @@
 ---
 
-Esta segunda aventura da série de adaptações cinematográficas dos livros infanto-juvenis da escritora J. K. Rowling já soa mais episódica que seu primeiro e antecessor, mas mantém na magia, nas reviravoltas e nas ótimas atuações de seu elenco um pouco do lampejo de seu original. É óbvio que esta é uma produção que quer chamar mais atenção para seus efeitos, que convertem o fundo verde em torno de um carro "voador" para a magia de sobrevoar os céus de Londres em plena luz do dia. Mais detalhes sobre as relações entre bruxos e trouxas são revelados, e principalmente entre bruxos e bruxos.
+A sensação do final é de que poderíamos muito bem assistir muito mais. Isso porque, com transições equilibradas entre cenas de ação e de reflexão, as quase duas horas e meia não soam cansativas durante a experiência, que é ao mesmo tempo empolgante e visualmente emocionante.
 
-Este é um filme para apresentar novos personagens-chave que farão diferença em toda a saga, como Lucius Malfoy, pai do menino irritante da família rival da escola de Hogwarts onde Harry Potter e seus amigos vivem sua costumeira aventura anual. Esta também é uma aventura que nos mantém alertas para o mal presente do vilão da saga, Lord Voldemort, que não está presente em corpo ainda, mas que justamente por isso alimenta ainda mais nossa imaginação.
+Visualmente porque por boa parte da história temos paisagens grandiosas onde os três amigos se escondem, ao mesmo tempo que o enquadramento muitas vezes escapa a localização no quadro gigantesco de planícies que parecem não ter fim, com o objetivo de exaltar ao máximo o isolamento que estes vivem, em um contrastre quase absoluto com os anos passados, quando tínhamos centenas de alunos e professores convivendo em harmonia.
 
-A grande atração dos computadores é um servo baixinho e de outra espécie chamado Dobby, dublado por Toby Jones, em mais um ponto para o grandioso e sério elenco britânico elevando a qualidade da série. Dobby está por trás de tantas reviravoltas que se torna cansativa uma revisita ao filme, que é facilmente desvendado, e cujos elementos fantásticos não sobrevivem muito além de pura diversão, o que se traduz para o mundo dos adultos que já conhecem toda a saga como sonolento. Mesmo observando as mágicas daquele início de século em computação, como uma aranha e uma cobra gigantes, falta substância que una as diferentes criaturas nesta parte da saga. É como se a continuação tivesse perdido o fôlego ainda que faltando vários livros por adaptar, mas que precisasse entregar mesmo assim este livro para o fim de ano.
+Uma coisa que logo salta aos olhos é o ambiente sombrio de todos os quadros, fechado em si mesmo, como uma névoa que se nega a exaurir, fruto da combinação exata entre a fotografia de pouca iluminação e da paleta pálida de cores usada pela direção de arte. Considerando o clima da história nesse momento, a escolha é com certeza correta, pois mais uma vez reforça o contraste com o que havia na primeira metade dessa longa história dividida em oito partes.
 
 ---
 categories:
 - writting
-date: '2019-12-27T18:24:00-03:00'
-link: https://www.imdb.com/title/tt0373889
+date: '2011-07-22'
+link: https://www.imdb.com/title/tt1201607
 tags:
 - movies
-title: Harry Potter e a Ordem da Fênix
+title: Harry Potter e as Relíquias da Morte - Parte 2

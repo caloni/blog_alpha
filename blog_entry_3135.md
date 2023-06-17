@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-12-31'
+date: '2016-12-20'
 tags:
-- wine
-title: Portillo
+- food
+title: Portillo Malbec Salentein 2016
 ---
 
-Salentein Portillo Malbec em sua edição 2017 continua o mesmo Malbec com sabor de frutas vermelhas (mais compota que frescas) e um corpo médio que é ótimo custo/benefício se você não pagasse imposto de importacão (infelizmente você paga, trouxa).
+Frutado maduro e azedo, cor violácea, bem tânico, pouco alcoólico.
 

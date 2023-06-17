@@ -1,23 +1,20 @@
 ---
 categories:
 - writting
-date: '2017-07-01'
-link: https://www.imdb.com/title/tt3072174
+date: '2019-06-05'
+link: https://www.imdb.com/title/tt0201003
 tags:
-- cinemaqui
 - movies
-title: Os Pobres Diabos
+title: Os Raptores
 ---
 
-Depois de quase quatro anos após ganhar o Festival de Brasília em 2013, chega nas telas Os Pobres Diabos, um filme onde provavelmente sua melhor parte é a primeira cena, que evoca O Palhaço (Selton Mello, 2011), com seu clima de desesperança poética nordestina de Graciliano Ramos e José Lins do Rêgo, uma trilha sonora inspirada em temas de circo com um toque de melancolia, e possivelmente um road movie. Toda essa promessa, infelizmente, dá entrada para um show de clichês cujo objetivo, diferente do circo mais humilde, está muito longe de entreter e muito próximo de virar propaganda ideológica da pior espécie: a que se coloca acima do seu conteúdo artístico.
+Um dos DVDs perdidos por aqui é esse Os Raptores, policial brasileiro do final dos anos 60, que se você assistir vai chegar à seguinte conclusão: havia muitos Fuscas no Rio e as pessoas falavam um português formal muito engraçado.
 
-Mas chamar este filme de propaganda ideológica chega a ser um elogio, já que sua história é um fiapo novelístico da pior espécie. Envolve a chegada de um circo itinerante caindo aos pedaços em uma cidadezinha minúscula. Eles montam sua lona bem distante, em um terreno baldio para não ter que pagar o caro aluguel de um terreno na cidade, o que de início já não faz muito sentido, se trata-se de uma cidade pequena e pobre. Menos sentido ainda é um eletricista da empresa de energia local vir fazer a instalação temporária para os itinerantes, e de uma paisagem desértica brota um poste de luz. E ao fundo vemos um inusitado "product placement" que é um vexame: moinhos de vento de energia eólica. Faltou apenas um letreiro com um slogan desses do governo. Brasil: um país de vento.
+Mas isso é normal. Meus avós falavam assim. O estranho é haver tantas informações nos diálogos desse filme. As testemunhas entregam praticamente um dossiê para o investigador, só faltando datilografar para os autos. Percebe-se também aquela tara por processo jurídico.
 
-Aos poucos vamos acompanhando o drama financeiro e emocional daquela trupe. O dono do circo mantém uma paixão platônica pelo homem forte, que assume-se leão-de-chácara com uma ingenuidade quase tocante. Sua irmã, assim como vários personagens secundários, é uma coadjuvante que está lá para fazer volume e servir de ouvinte para os diálogos insossos que seu irmão profere. Há uma anã (ou seria um anão?) particularmente conveniente em um pequeno auto que é interpretado durante o espetáculo, por fazer o papel de narradora. A "musa" do circo é interpretada por Sílvia Buarque, filha de Chico, e a sua dança de La Cucaracha (e canto, com sua própria voz) será a única coisa que provavelmente você levará de lembrança deste filme (e que certamente gostaria de apagar da memória). Seu "marido", interpretado por Gero Camilo, é assim como todos um personagem incompleto com uma profundidade nunca revelada. Seu papel aos poucos vira o de corno manso, que cuida de sua cabra como se fosse parente -- um animal, não a esposa -- e assobia quando está chegando em casa. Duas vezes.
+A direção é pedestre e engraçada, daquelas que sabemos que os atores estão sendo dublados (em estúdio) e com cortes entre as cenas que sabemos que foram feitas sob outra luz e provavelmente outro dia. Por outro lado é curioso o efeito de aproximar o rosto dos atores em diálogos, sabendo que não é possível colocar uma câmera àquela distância e manter o outro ator do lado. Nessa lista de gafes entra também as cenas que foram filmadas sem foco ou com foco oscilando.
 
-Alias, a "cena do corno", que o diretor/roteirista Rosemberg Cariry resolveu inserir duas vezes no filme sem qualquer justificativa, é a que começa a instigar o espectador a imaginar que tudo aquilo que vimos na história é tão real quanto o próprio auto do Lampião no Inferno. Tudo vai se tornando uma versão abominável sobre pobreza, religião, política e destino que com certeza os espectadores humildes dessa cidadezinha não estariam nem um pouco interessados em assistir, o que me leva a crer que não deve ter realmente nada para fazer nesse lugar. Nem um sorvete na praça.
+A história é sobre dois golpes de sequestro-relâmpago executados por uma quadrilha cujo mandante é uma pessoa erudita. Ele dá as ordens com um ar de conhecimento superior aos outros, mas ao mesmo tempo sentimos que ele também não é de confiança. A história é boa, mas a produção nem tanto. Ele se disfarça com peruca e barba branca, além de mancar, mas seus capangas nem isso percebem.
 
-Há também alguns personagens caricatos na cidade, como a esposa do eletricista, que é uma religiosa sisuda que -- adivinhem -- "surpreendentemente" se revela quando vai ao circo. Aliás, nada é surpreendente neste longa, exceto o seu declínio cada vez mais profundo nas qualidades técnicas, narrativas e artísticas. O design de som será o primeiro a ser sentido, pois há vários momentos onde não é possível entender o que os personagens estão dizendo (o que pode ser uma coisa boa), e outros momentos que entendemos praticamente tudo, mas o som é gravado em estúdio, o que soa insuportavelmente artificial. Quando chega a este nível é algo triste se comparado com a primeira cena, flertando com um drama épico em meio ao clima desértico do Nordeste. Mas que ledo engano.
-
-O "clímax" do filme envolve um baque psicológico em todos do circo, e provavelmente uma grande vergonha alheia para todos os espectadores que ainda estiverem assistindo. Não irei revelar aqui, mas quando começar, você já irá perceber uns 20 minutos antes. E o resto da história não poderia ser mais arrastada. Nada pior para um espetáculo do que revelar seus truques minutos antes deles acontecerem. No caso de Os Pobres Diabos, talvez se o filme durasse apenas isso -- minutos ao vento -- ele teria sido mais palatável.
+Este é um filme que hoje vale pela curiosidade. Acompanhar as investigações é uma atividade prazerosa no filme. Quem não gosta de um filme policial? Que tal ver como eram filmados no Brasil na década de 60 e produzidos por ninguém menos que Herbert Richers?
 

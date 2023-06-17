@@ -1,28 +1,24 @@
 ---
 categories:
 - writting
-date: '2017-09-18'
-link: https://www.imdb.com/title/tt0242653
+date: '2019-03-30'
+link: https://www.imdb.com/title/tt0085496
 tags:
 - movies
-title: 'Matrix: Ghost in The Shell'
+title: Maus Hábitos
 ---
 
-De todas as teorias malucas criadas em torno da trilogia das Irmãs Wachowski, acredito que esta que tenho para lhes falar supera em simplicidade e elegância. Por isso mesmo acredito que esta seria a solução empregada por elas caso quisessem deixar toda a trama às claras. Felizmente, não quiseram, o que deu vazão para um esoterismo e obscurantismo que torna o conjunto de três filmes indecifrável. Mas, fala sério. Sou programador. Depois de Ghost in the Shell as coisas têm se tornado mais claras ainda. Quer ver como toda essa fábula é explicada por ela mesma?
+Às vezes fico na dúvida se gosto mais da fase do Almodóvar raiz ou nutella, mas revendo Maus Hábitos me dou conta que a versão raiz é muito mais atraente. É de baixo orçamento, mas mais despojada, onde ele fazia muito (e mais) com pouco.
 
-Preciso dizer que Spoilers irão ser enviados pelas máquinas nos próximos parágrafos?
+Aqui a história se passa quase toda em um convento e ele nos diverte com freiras totalmente fora de controle. E a culpa é de Jesus! Explico.
 
-A primeira e principal pista para entendermos o que se passa em Matrix Reloaded é o discurso final do Arquiteto. Ele explica sobre o código malicioso que é colocado de propósito na Matrix para que haja um movimento de revolta dos humanos, uma profecia, e que tudo isso se concentre na figura do Escolhido. É o Escolhido que carrega este código, e já houve vários deles. Neo é apenas mais um, com sutis diferenças que apontarão para uma mudança drástica no caminho delineado pelo personagem de Helmut Bakaitis (que, claro, também é um programa de computador).
+Siga o raciocínio: o messias veio salvar os pecadores. As maiores pecadoras, depois de aprontarem demais, buscam redenção na casa de Deus. Semi-celebridades que tiveram uma vida interessante regada de luxúria e muitas drogas. O convento abriga essas mulheres para sua conversão, elas melhoram e partem. E quem fica se torna viciada nessa vida mundana. Ou seja, as próprias freiras. E quando a Madre Superiora fica enferma sem poder controlá-las, se apaixonando por uma cantora que se refugia no local, não há mais nada a ser feito.
 
-No entando, como este discurso é muito complexo, cheio de detalhes feitos para confundir o espectador, peço que preste atenção não a ele, mas à fuga do Agente Smith da realidade virtual para a qual foi criado. Ele vira um vírus e uma de suas cópias escapa para o cérebro de um dos humanos de Zion. A partir daí é ele que toma controle desse humano e as máquinas o respeitam. Ele é um agente infiltrado, apesar de ser um bug. Ele não é herói nem vilão, mas um problema a ser resolvido por ambos os lados.
+E a parte hilária dessa história é que ela faz sentido, ainda que em um universo levemente fantasioso.
 
-O que ocorre no final de Reloaded e em todo Revolutions é que Neo aparentemente consegue controlar as máquinas do lado de fora da Matrix e também enxergá-las, apesar de ter ficado cego. Isso não deveria ser uma surpresa se nos lembrássemos que, uma vez que vimos que é possível a programas como Smith se infiltrar no cérebro de humanos e assim controlá-los direto na realidade, nada mais justo que os humanos presos no gigante casulo estejam à mercê do mesmo procedimento.
+Almodóvar é o Woody Allen espanhol. Ambos sempre parecem estar fazendo uma comédia absurda sem um pé na realidade, mas no fundo o conhecimento humano desses dois é inexplicavelmente preciso e profundo. E a naturalidade com que fazem em seus roteiros nos faz perder a capacidade de análise lógica. Perde-se a referência de como se escrevem roteiros porque os deles não se parecem com um. Parecem uma versão da vida mais interessante de acompanhar.
 
-E é exatamente esse o procedimento de injetar código que o Arquiteto se refere quando se dirige a Neo.
+Maus Hábitos tem lá seus momentos teatrais, mas nunca é só isso. Note o enquadramento que coloca a áurea da santa de um quadro na cabeça da cantora foragida porque seu namorado foi envenenado por uma dose de heroína. Ou o desfile de moda com os vestidos que o padre desenhou para as irmãs, com um conjunto por estação. A mão do diretor espanhol está sempre conduzindo suas atrizes com diálogos à prova de mau gosto.
 
-Imaginemos, então, que um processo semelhante foi feito em Neo. Código de um programa da Matrix foi injetado nele, assim como o programa Smith foi injetado no outro humano. Porém, não totalmente, mas apenas uma parte. Neo manteve sua consciência. Não precisamos tirar isso dele. Porém, ele também ganhou a capacidade de mudar as regras físicas da Matrix e de controlar as máquinas pelo lado de fora (além de enxergá-las sem precisar de olhos humanos). Tudo isso graças a código de computador inserido em seu cérebro.
-
-Dessa forma, toda a fábula de realidade virtual vira uma maneira do romance Ghost in The Shell de se expressar por caminhos mais obscuros. Humanos são escravizados por máquinas, que possuem Inteligência Artificial, e que descobre que conseguem realizar elas também patchs de atualização no cérebro de humanos, que viram parte humano, parte máquina. Ou até totalmente máquina.
-
-Se bem que o que eu chamo aqui de máquina é simplesmente código que não foi gerado por DNA. Tanto o cérebro humano quanto a IA das máquinas é o mesmo processo. Todos estão conectados. E é aí que reside a beleza da trilogia. Ela não tem uma conclusão correta, nem interpretações para a trama fechadas. Estamos falando sobre consciência e inteligência, mas não apenas de humanos. É uma guerra de consciências, e entender que máquinas com IA somos como nós é vital para entender como Matrix ainda continua milênios à frente do que nossa vã filosofia tecnológica tenta imaginar para o nosso futuro.
+Chamar este filme de irreverente é pouco, mas chamar de polêmico parece um exagero. Almodóvar nunca é polêmico, pois soa tão natural quanto a própria vida real. Mesmo que aqui e ali esta "vida real" esteja pincelada de eventos dignos de uma novela mexicana.
 

@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-08-06'
+date: '2016-08-30'
 tags:
-- beer
-title: La Guapa Carmen
+- food
+title: La Perdices Petit Verdot 2015
 ---
 
-É a cerveja do restaurante anônimo produzida pela ZalaZ, de Paraisópolis (mineira), que é leve o suficiente para ser degustada e pesada o suficiente para ser degustada com empanadas. Seu aroma de laranja e maracujá do rótulo dá um tom cítrico, mas pouco perceptível por conta de seu corpo leve.
+Um vinho agradável, meio azedo, mas com um sabor que se mantém agradável em todo momento.
 

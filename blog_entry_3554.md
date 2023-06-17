@@ -1,28 +1,88 @@
 ---
 categories:
-- writting
-date: '2017-12-14'
-link: https://www.imdb.com/title/tt2527336
+- coding
+date: '2009-07-10'
 tags:
-- movies
-title: 'Star Wars: Os Últimos Jedi'
+- english
+title: Static Polymorphism
 ---
 
-Uma série de filmes que mantém uma mitologia sobre uma energia vital no Universo por décadas precisa ser atualizada de tempos em tempos para não perder o compasso com a Ciência. Se na primeira trilogia a Força era algo mais espiritual e na segunda trilogia algo mais biológico, essa terceira trilogia acertadamente a coloca como nem uma coisa nem outra: é algo metafísico. E com isso estabelece pela primeira vez uma base que se pode trabalhar com as diferentes camadas de realidade. Não só mais falamos sobre política em SW (essa dualidade esquerda/direita já cansou), mas sobre filosofia, moral, valores, etc. Quem diria que Star Wars chegaria em sua fase adulta?
+To explain the polymorphism nothing is better than see how stuff used to be. If you were a twenty old C programmer in the past and created the following functions:
 
-Um dos traços mais fascinantes do universo de Star Wars nos cinemas reside em sua compreensão cada vez maior do que começou a ser criado na década de 70. Nascido das super-produções fantasiosas que pipocavam por todos os lados (espaciais ou não), e estabelecendo-se como um marco no Cinema de entretenimento e arte, o universo de George Lucas faz 40 anos e continua impressionando seu público contemporâneo e ainda respeitando seu público antigo (e isso sem contar os que pegaram carona no meio do caminho). Mas isso não quer dizer que é necessário que os erros da franquia tenham que estar sempre lá. Esqueçamos os midichlorians por um instante, pois este não chega nem a estar perto de Jar Jar Binks na lista dos piores tropeços.
+```
+int soma(int x, int y);
+double soma(double x, double y);
 
-E por falar em tropeços, nessa série eles são aglutinados, sofrem transformação e renascem como algo melhor. A própria figura do Jar Jar Binks pode ser vista aqui como um C3PO mais contido (que é o lugar para um personagem como ele). E os midichlorians viraram algo que apenas um Jedi no final de um arco poderia capturar. Foram necessárias várias aventuras para que Luke Skywalker conseguisse se provar não apenas como um acidente da natureza messiânico, mas como o mentor de toda a "congregação" que representa o equilíbrio do Universo. E é claro que a participação especial de outro Jedi especial na saga é uma surpresa bem-vinda pelo potencial de fechar amarras.
+int main()
+{
+    int zi = soma(2, 3);
+    double zd = soma(2.5, 3.4);
+    return 0;
+}
+```
 
-A impressão geral da experiência é que não só alguns aspectos renascem reinterpretados; filmes inteiros também. O Episódio VII poderia ser entendido como uma mistura entre os Episódios IV e V, e este oitavo faz com que pensemos nele como um reboot do V, pelo seu clima pesado e dramático (pelo menos até o ponto em que Star Wars consegue ser dramático). Porém, além de se tornar um "Contra-Ataca Reloaded", ele quebra vários paradigmas que refletem a época em que vivemos (insegurança sobre o que é certo e errado). E apenas para citar algo do terceiro ato sem incorrer em spoilers, imagine o peso que a revelação sobre os pais de um certo personagem podem ter em uma série como essa que pega tanto na questão da herança de sangue, e reflita agora sobre a decisão do roteirista. Ele não está tentando repetir memórias ou torná-las recicladas, mas fazendo o fã refletir e questionar algo já estabelecido por vários filmes.
+Immediately the compiler would blame you about the following errors:
 
-E isso é apenas um minúsculo exemplo do que o trabalho de Rian Johnson faz aqui. Diretor e único roteirista deste Episódio VIII, o cineasta responsável por algumas das melhores partes da série Breaking Bad além do ótimo Looper mostra que é possível sim apostar na novidade em algo já estabelecido. Aliás, talvez esse seja o caminho para sairmos do marasmo de grandes produtoras de fantasia como a Marvel. Claro que EpVIII mantém o mesmo formato, os mesmos letreiros, fade-ins, fade-outs, histórias paralelas, heróis desconhecidos, etc. Porém, observe as diferenças: surgem novas questões a respeito da luta dos rebeldes contra o Império, novas formas de enxergar o lugar que os Jedi têm nessa história, e até novas maneiras que as pessoas enxergam esta guerra e o que ela significa.
+    
+    overload.c
+    
+    overload.c(2) : warning C4028: formal parameter 1 different from declaration
+    overload.c(2) : warning C4028: formal parameter 2 different from declaration
+    overload.c(2) : error C2371: 'sum' : redefinition; different basic types
+            overload.c(1) : see declaration of 'sum'
 
-Toda essa miscelânea de conceitos tinha sido adiada por vários filmes que foram apenas acumulando mitologia e sua história até chegarmos no Despertar da Força. Agora é a hora de recontar lendas e conquistar um novo público, mantendo o atual. Algo que "Os Últimos Jedi" consegue de ponta a ponta em sua história. Esta é a união entre o velho e o novo para seguirmos adiante em uma história paralisada por mais do mesmo por muito tempo. Cansados de lutas de sabre de luz medíocres, truques de batalha já vistos em outros filmes e revelações que beiram o novelístico ("eu sou seu pai"; ainda que funcionem), EpVIII suspende tudo isso iniciando vários arcos entre vários personagens ao mesmo tempo, conseguindo a proeza de contar uma história de guerra sobre os mais diversos pontos de vista tendo o mesmo peso cada um deles. Aqui acompanhamos não apenas as decisões dos comandantes e capitães, mas também dos pilotos, dos místicos, dos androides, das criaturas, de diferentes camadas sociais, e até de uma mecânica (Kelly Marie Tran, uma revelação), que protagoniza toda a síntese do que os criadores deste filme querem dizer. É dela também a fala que sintetiza isso: "devemos parar de destruir o que odiamos e abraçar o que amamos".
+This happens because in C **the identifiers are unique into the scope.** This is the reason why the following code is wrong also:
 
-Justiça fosse feita, todos os quesitos técnicos de Star Wars seriam indicados e premiados este ano. Começando pela fotografia (incluindo direção de arte e figurino) que consegue juntar diferentes mundos sob a mesma dualidade entre luz (cores quentes, sol e poeira das naves defasadas dos rebeldes) e trevas (cores frias, penumbra, vermelho e lugares sanitizados como as naves do Império). E terminando na trilha sonora (incluindo uma edição de som vibrante), que utiliza um John Williams que foi feito para trabalhos melodramáticos e poderosos como esse. Além do mais, justiça seja feita novamente, ao menos a edição deveria ser reconhecida, pois não é fácil conseguir não apenas dar o mesmo peso às diferentes questões e personagens que praticamente nunca se encontram durante o filme inteiro, mas saber impor ritmo para linhas do tempo paralela de forma com que elas se complementem sem destoar do conjunto da obra (Bob Ducsay também é o editor de Looper, e isso quer dizer alguma coisa sobre a cena da escada).
+```
+int main()
+{
+    int x = 0;
+    int x = 1;
+    return 0;
+}
+```
 
-Mas tudo isso seria inútil caso o roteiro de Rian Johnson não respeitasse o espectador e fosse entregando todas as respostas para os mistérios (por que os Jedi devem acabar?) com estardalhaço e diálogos expositivos. São as ações os argumentos mais válidos desta aventura, pois vários precisam se sacrificar. E são o que eles dizem que dão valor ao que fazem (mas as melhores cenas do final não precisa-se que nada seja dito). E note como depois de horas e mais horas de universo Star Wars ele ainda consegue impactar com a mesma fórmula dramática (os momentos-chave que você com certeza vai lembrar quando sair do cinema), embora elas nunca sejam repetitivas.
+    overload.c
+    overload.c(5) : error C2374: 'x' : redefinition; multiple initialization
+            overload.c(4) : see declaration of 'x'
 
-Star Wars pode ter feito aqui o seu melhor trabalho. Sim, melhor que Contra-Ataca. Não porque possui o roteiro mais intrincado, ou as cenas mais memoráveis ou os efeitos, direção e virtudes técnicas mais impecáveis. Sim, ele possui tudo isso. Mas o que o torna uma experiência acima de todas as outras é a sua capacidade de ressurgir das cinzas com o mesmo conceito criado há 40 anos atrás em um formato que o faz soar autêntico, ambicioso, provocador e ainda digno de seus fãs mais ferrenhos. Ele ainda se beneficia do acaso, inserindo a cena mais memorável entre Luke e Leia justo no momento que a atriz Carrie Fisher dá adeus ao mundo. E para ela com certeza não existiria melhor homenagem do que este filme.
+Back to the 90's, this is also wrong in C++. Even for a logic issue: how the compiler can pick a variable if we're using the same name for both of them?
+
+Even though, there's a little trick to stop the ambiguity when we talk about functions: the parameters that they receives.
+
+```
+int soma(int x, int y);
+double soma(double x, double y);
+
+int main()
+{
+    int zi = soma(2, 3); // dois tipos int: chamar soma(int, int)
+    double zd = soma(2.5, 3.4); // dois tipos double: só pode ser soma(double, double)
+    return 0;
+}
+```
+
+    C:Tests>cl /c overload.cpp
+    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 13.10.6030 for 80x86
+    Copyright (C) Microsoft Corporation 1984-2002. All rights reserved.
+    
+    overload.cpp
+    
+    C:Tests>
+
+This allowed in C++ the creation of static overload, that is exactly this: to call a function not just by its name, but also to match its signature, the number and the type of the received parameters. We call static because this is done just by the compiler, not creating any overhead during the execution.
+
+Among the most common uses some are as it follows:
+
+  * Functions with the same name treating different parameters;
+    * sum(int, int);
+    * sum(double, double);
+    * Obs.: This ignores, of course, the templates usefulness.
+  * New version of the same fuction with addictional parameters;
+    * export_data(void* buffer, int size);
+    * export_data(void* buffer, int size, unsigned long options);
+  * Same method name to set and get the value of a class property;
+    * Class::Property(int x); // setter
+    * int x Class::Property() const; // getter
+  * Well, whatever your imagination and needs demand =)
 

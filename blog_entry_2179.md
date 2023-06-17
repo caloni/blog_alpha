@@ -1,11 +1,20 @@
 ---
 categories:
 - writting
-date: '2022-02-22T21:29:45-03:00'
+date: '2010-10-10'
+link: https://www.imdb.com/title/tt0985694
 tags:
 - movies
-title: Má Educação
+title: Machete
 ---
 
-Esse foi um dos primeiros filmes que a Mitiko me levou para ver na região da Augusta, no coração sujo de São Paulo. Ela parecia querer me testar com este filme de Pedro Almodóvar que, como todos seus filmes, trata os gays como gente. No entanto, este tema é apenas circunstancial em uma trama construída com um roteiro soberbo, cheio de artimanha, que vai e volta no tempo e na ficção. Ele lida com abuso sexual, com co-dependências amorosas esdrúxulas e incidentais. Os travestis e os cineastas são mais uma vez o centro das atenções em um filme que certamente irá lidar com morte e paixão de uma maneira específica demais para você ignorar. Não é profundo, mas é entretenimento de primeira. Garcia Bernal é o camaleão que nem ele parece acreditar que é. Em espanhol e muitas, muitas cores. Mas é um dos filmes mais sóbrios do diretor, que estava nessa década migrando da novela para o thriller psicológico, mas ainda cartunesco.
+Mais um filme de violência absurda de Robert Rodriguez. Fotografia amarelada, como em todos os filmes que se passam perto do México. Só que em muitos filmes a violência absurda é usada em tons artísticos, como evocando os quadrinhos (Sin City) e sua realidade já absurda e exagerada e as artes marciais (Kill Bill) e suas lendas.
+
+Além da violência, há cenas absurdas, que deveriam ser engraçadas, como dirigindo o carro virando a machete dentro do corpo do policial disfarçado. Além disso, pistas-recompensas ridículas, como a do intestino ter 20 metros ou do abridor de garrafas. Além de diálogos horríveis, como o discurso horrível e artificial da agente de imigração. E por falar em roteiro, personagens unidimensionais em uma história patética que chega a ser pré-adolescente, mas nem por isso diverte.
+
+Além disso, Rodriguez mantém sua personalidade em seu novo filme, como seu lado machista "nonsense" onde todas as mulheres do filme querem estar e dar para Machete, ou ao criar super-heróis tão unidimensionais e absurdos quanto a freira e a caolha, que faz com que nunca nos importemos com eles.
+
+A situação é tão inverossímil que na luta final entre Seagal e Machete as suas duas musas ficam discutindo se ele irá ganhar ou não, concluindo que sim, pois ele é o Machete (!?). Não contente com tamanha falta de originalidade, colocam o senador justamente na fronteira, sendo morto como se fosse um imigrante. 
+
+No final ainda dá indícios (mesmo que cômicos) de ter duas continuações. Tomara que não.
 

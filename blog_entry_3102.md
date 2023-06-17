@@ -1,24 +1,27 @@
 ---
 categories:
 - writting
-date: '2015-01-15'
-link: https://www.imdb.com/title/tt2103281
+date: '2010-06-11'
+link: https://www.imdb.com/title/tt1212436
 tags:
 - movies
-title: 'Planeta dos Macacos: O Confronto'
+title: Plano B
 ---
 
-A raça humana foi dizimada por uma gripe. O fato do vírus ter vindo de um macaco não teria significado nada se esse animal não tivesse agora inteligência e aparentemente uma consciência, ainda que coletiva. Agora vocês vão me perdoar, mas essa "consciência coletiva" dá asas para a imaginação. Você pode falar que o filme é uma metáfora da libertação de grupos étnicos, tribais, religiosos, povos subdesenvolvidos e virtualmente qualquer massa rotulada. Eu prefiro ver apenas um filme sobre macacos, pois obviamente a questão sobre o que o ele representa foge à compreensão do próprio filme e adentra a nossa cultura com todas as forças. Se você tiver obsessões políticas, qualquer que seja sua posição, vai gostar do enredo porque ele lida com força, poder e supremacia (além da possibilidade bem remota de paz).
+O produtor e diretor de TV Alan Poul resolve fazer este seu único longa para o Cinema que se transforma em uma mesmice sem tamanho. E olha que em questão de comédias românticas, mesmice já é a regra.
 
-A sequência de ação inicial, mostrando os macacos organizando a sua caça, é um rouba-atenções de tirar o fôlego. Os efeitos digitais do cenário e principalmente da movimentação dos símios é de tirar o chapéu, tanto quanto a edição de som (ou seja, a criação da "voz" dos macacos). Ficamos atentos para entender como o grupo organizado por Caesar (Andy Serkis), o chimpanzé do filme anterior, evoluiu depois de um tempo na floresta. A história da evolução da sociedade humana não deve ter sido muito diferente, se baseando primeiramente com sinais, mas aos poucos verbalizando sua comunicação nos pontos mais relevantes. Poderíamos até especular se eles evitam a língua dos humanos como uma forma de diminuir sua importância. Como fã de Linguística, devo dizer que são questões fascinantes.
+Partindo de uma introdução artificial, ou sintética, mas que é efetiva porque já explica tudo bem rápido, há um romance no ar entre Stan (Alex O' Loughlin) e Zoe (Jennifer Lopez), que acabou de saber que terá gêmeos de sua inseminação artificial, ou seja, o começo de sua vida de mãe solteira começa a sumir logo no primeiro dia. O início é com a voz da protagonista em off, que é na verdade o pensamento dela, de forma que o final não combina com o começo, então já não estamos falando de um roteiro com alguma rima poética ou mais elaborada.
 
-A sequência composta unicamente por símios cumpre uma função muito interessante: quando avistamos o primeiro humano, surge a estranheza. Não pelos efeitos, mas pela situação, já que a montagem que mescla humanos e seres digitais, até quando estes interagem, soa muito natural.
+Por outro lado, o grande "trunfo" no filme é a própria filmagem. Explorando ao máximo a comédia de situação em um filme com um detalhe inusitado (os recém-namorados já devem planejar uma gravidez) e com atores não muito inspirados (são usados ângulos e câmeras que maximizem as expressões deles, e demonstrem muito bem o que estão sentindo no momento). No início temos a câmera descendo de uma chuva preparada especialmente para o dia em que a protagonista "é inseminada", e por mais triste que pareça a situação, a felicidade que ela sente impede que ela veja um palmo adiante do que acabou de fazer.
 
-Apesar de ter brincado que não vejo mais que um filme sobre macacos, o fato biólogico é que todos, incluindo humanos, se incluem no amontoado de símios que chamamos despreocupadamente de macacos. Dessa conclusão surge uma "nova" e belíssima moral, que se fosse usado em todas as sociedades humanas estaríamos muito melhor que hoje: nenhuma espécie é melhor que outra, mas indivíduos sim. Sua bondade ultrapassa os limites de espécie, o que é lindo de se ver, mesmo em um filme com uma estrutura tipicamente de ação. Questão de raça não define caráter elevada a espécie. Pode servir muito bem para qualquer agrupamento aleatório, desde fãs de uma banda até, claro: religiosos (que irão vibrar com o personagem que diz que os macacos são "apenas animais", ignorando que somos tão animais quanto).
+Como toda comédia romântica, há muitas tentativas de fazer humor engraçadinho, seja por situações ou por comédia física, mesmo (desmaios, e surpresa com ultrassom). O fato é que a atriz principal não inspira muito comédia, e seu personagem não tem o feitio, então o cachorrinho na cadeira de rodas é um alívio cômico que funciona para dar cadência e serenidade em algumas situações. Seja como for, já tentamos simpatizar com a personagem pois a história dela já nos força assim, da mesma forma com ele.
 
-O curioso do filme é que, mesmo sendo um filme de ação, ela não é bem desenvolvida, e se torna a parte mais fraca da narrativa. O ataque pela rua dos símios é confusa de ambos os lados, e o fato de escolherem a noite para ela acontecer não ajuda de muito.
+O filme ganha situações e expressões inusitadas (e um ritmo mais movimentado) a partir da cena em que ela chega na fazenda e o vê sem camisa, até a cena dos orgasmos múltiplos no "celeiro" de queijos, passando por algumas boas partes (espelho tentando contar sobre a gravidez).
 
-A escolha do ator Jason Clarke para a próxima "cara humana de herói" é adequada: cara de bom, se sai melhor que James Franco no original da nova série. Diferente do "líder" da raça humana (Gary Oldman), que se vestindo de preto todo momento, nem bom personagem é, apesar de quase ser um contraponto com o herói (o sem-família) interessante. Porém, dificilmente nenhum ator terá uma expressão mais marcante que Andy Serkis, ainda que com apenas um tom: bravo. Porém, a História já leva um tom monarca, estilo Rei Leão, e não esperamos menos do que um drama Shakesperiano, e novamente o longa falha em profundidade, com a desculpa de estar lidando com uma cultura ainda primitiva.
+No entanto, esse filme é cozido em banho-maria, sendo que me lembro apenas de dois momentos que ele finalmente parece se sair melhor do que é:
 
-Primitiva, porém não tanto. Quando macacos usam de preconceitos humanos sobre "macacos engraçadinhos" para conseguir armas e a regra moral de "macaco não mata macaco" evolui rapidamente para "você não é macaco", não podemos chamar essa sociedade de primitiva, ainda mais comparando com a morosidade moral da nossa própria. Podemos?
+ - Stan com o cara do parque, que com pouquíssimas palavras e muitos movimentos demonstra o que é ter três filho.
+ - A cena em que paulatinamente vamos percebendo que ela não faz parte do grupo das mães solteiras.
+
+Tirando isso, Plano B se sai melhor como um entretenimento no meio de uma tarde chuvosa sem ter mesmo muito o que fazer.
 

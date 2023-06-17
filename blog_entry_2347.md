@@ -1,14 +1,12 @@
 ---
-categories: []
-date: '2012-07-21'
-tags: null
-title: Minha palestra do TDC 2012
+categories:
+- writting
+date: '2017-01-27'
+link: https://www.imdb.com/title/tt2321405
+tags:
+- movies
+title: Minha Vida de Abobrinha
 ---
 
-Duas semanas atrás rolou a trilha C++ do TDC 2012, que contou com além da minha presença com a dos já conhecidos Fernando Roberto (DriverEntry), Rodrigo Strauss (1Bit), etc. Uma novidade: meu colega e programador .nerd Gabriel Guilherme também participou em uma palestra sobre um assunto que acredito que deveria ser mais promovido: interop. Afinal de contas, o poder de C++ não seria nada se não houvesse motivos práticos para usá-lo. Entre esses motivos, construir soluções com linguagens mais acessíveis é um deles.
-
-Na minha palestra foquei no conteúdo dos meus dois artigos sobre um fictício Patch de Emergência ([parte 1] e [parte 2] from Wanderley Caloni).
-
-[parte 1]: {{< relref "patch-de-emergencia" >}}
-[parte 2]: {{< relref "patch-de-emergencia-2" >}}
+Esta é uma animação em stop-motion irretocável, com um tema lúdico de cores e formatos belíssimos, texturas criativas e movimentos perfeccionistas. Tem pouco mais de uma hora de duração e durante todo esse tempo impressiona pelos seus dotes artísticos. Porém, como narrativa, peca, e muito. É simplório, bobinho, limitado. Assim como o bobo O Menino e o Mundo, que converte ideologias em fatos através dos olhos de uma criança -- talvez maior covardia não exista -- Minha Vida de Abobrinha nos remete a crianças de um orfanato saídas das "fanfics" da esquerda, onde vemos pequeninos de seis anos levantando em um ônibus lotado de adultos recitando sermões com palavras que não conhecem e motivos que apenas adultos entenderiam. Tem uma criança que teve seu pai preso por roubar uma loja. Desde então ele não gosta de policiais. Detalhe: ele tentou roubar uma loja para comprar tênis para seu filho. Sim, esse é o nível de manipulação. E infelizmente ele está presente em um filme sem maiores tensões que a vida "como ela é", e dentro de um universo criado com muito esmero.
 

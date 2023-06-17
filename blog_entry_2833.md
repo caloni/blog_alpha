@@ -1,24 +1,20 @@
 ---
 categories:
 - writting
-date: '2013-01-14'
-link: https://www.imdb.com/title/tt2190367
+date: '2016-01-11'
+link: https://www.imdb.com/title/tt0041959
 tags:
 - movies
-title: O Som ao Redor
+title: O Terceiro Homem
 ---
 
-O Som ao Redor não é o tipo de filme que a gente consiga descobrir através da sua história qual o tema e a opinião do diretor sobre o que ocorre na tela. A coisa toda está mais como um espelho, onde nossa observação dos fatos e a sua interpretação, sobretudo moral, é que irá inserir um significado. Mesmo assim, dadas as devidas proporções, todo filme possui essa liberdade de interpretação. Do contrário, nem existiria crítica, pois todas as respostas estariam no filme, e não haveriam perguntas.
+Um filme com uma trilha sonora leve e temática, e enquadramentos tortos que lembram que algo está errado. E está, mesmo: Viena está tomada por quatros povos diferentes, cada um fala um idioma, e o povo local fala alemão. Escambos perigosos no mercado negro estão por toda a parte. A atmosfera de O Terceiro Homem é densa, e seus acontecimentos precisos, cirúrgicos. É daqueles raros filmes que não se pode arriscar remover um momento ou expressão sequer. E muito menos uma das inúmeras câmeras tombadas.
 
-Acompanhamos a vida das pessoas de uma pequena rua em um bairro de classe média. Não somos propriamente apresentados a eles, mas o vemos meio como quem espia a vida alheia. No caso, várias vidas alheias. O tom de realidade é dado não apenas por interpretações convincentes de todo o elenco como pessoas comuns, como pela ausência completa de trilha sonora. O filme honra o seu título e possui percursão musical, temática e transitória através do aumento e diminuição do volume de determinados sons presentes no próprio ambiente e que, esses sim, nos são apresentados desde o começo, em uma sequência sem cortes de uma menina andando de patinete dentro de um condomínio. A sinfonia que se forma pelos lugares por onde passa é o suficiente para que identifiquemos boa parte dos ruídos que ouviremos deslocados de cena, mas presentes, de certa forma, no momento que percebemos que todas as vidas ali mostradas estão ligadas em maior ou menor grau.
+O diretor Carol Reed (Oliver!) desafia a gravidade e o senso estético da época com quadros colocados na diagonal que imprimem um ar expressionista em torno da destruída Viena. Seus pontos turísticos e suas ruínas de edifícios ganham outros contornos no filme. Isso sem contar nas sombras, tão ativas quantos seus personagens e cenários, e que o fotógrafo Robert Krasker (que lhe rendeu um Oscar) consegue captar com uma poesia intensa a cada quadro. A maioria pode ser emoldurada na parede.
 
-E qual o tema sugerido? Uma resposta das mais óbvias seria sobre a moralidade daqueles cidadãos.
+Seu herói é o escritor de livros de ficção de crimes fantasiosos Holly Martins (Joseph Cotten), mas ele passeia em torno de personagens muito mais pitorescos. Investigando a morte repentina de seu amigo, que lhe prometera um emprego quando chegasse à cidade, conhece uma mulher misteriosa e apaixonada (Alida Valli), com um visto falso que ganhou de presente, um investigador/major de polícia perspicaz (Trevor Howard), um porteiro que quase não fala inglês, uma senhora que também não fala e não se importa em ser entendida. Enfim, um mar de pessoas que povoam a imaginação de Martins enquanto este tenta achar lógica nos acontecimentos que culminaram no enterro de seu melhor amigo.
 
-Vejamos um pequeno exemplo para não nos estendermos demais: o toca-CDs da amiga de um personagem é roubado por um dos vizinhos, que, coincidência ou não, é seu primo. Após uma visita nada cordial, afinal, antes de acusar os outros, esteja certo de não insultar sua honra, mesmo que a pessoa seja culpada, o aparelho é devolvido. Só que não se trata do seu aparelho, mas do de outra. Ela decide, no entando, ficar com esse mesmo, que parecia até melhor do que ela possuía.
+Os créditos iniciais já denunciam a presença de Orson Welles, também, e é difícil não aguardar a aparição do diretor de Cidadão Kane. Harry Lime é o personagem-chave que ele encarna, e como nunca. Poucas expressões, falas e movimentos de corpo são necessários para identificá-lo como um criminoso da pior espécie. Seu diálogo mais famoso, que termina falando da invenção do relógio-cuco pelos suíços, é dito de cima de uma montanha-russa, onde sutilmente ameaça seu melhor amigo. No entanto, o filme não é só Welles. Antes e depois dele o filme tem tons distintos, e o terceiro ato é um dos mais tensos já produzidos, graças às construções de alianças e desconfianças no primeiro e segundo.
 
-Pois bem. Quem defenderia a inocência dessa mulher, de que ela não sabia que esse também era produto de um furto? Não precisa ser muito inteligente para saber disso, mas talvez exija um grau de moralidade muito acima da média, o que é uma triste notícia para nós como seres humanos.
-
-E isso é apenas um exemplo, mas existem vários que, apesar de não serem escancarados, o fato de serem sutis é mais um sintoma de que talvez tenhamos chegado em um nível de degradação moral que, haja o que houver, faríamos o mesmo. O fato de inconscientemente sabermos que se trata de um filme, ou seja, produto de fantasia, faz tudo parecer devidamente encaixado em uma realidade que não nos pertence.
-
-Será mesmo? E é aí que entra o espelho, acusando o espectador sem apontar para ele. Somos responsáveis por esse filme, ou pelo menos o que ele significa. Nesse sentido, O Som ao Redor tem muito a dizer como um filme para uma sociedade que acha tudo isso normal.
+Concluindo com uma sequência fabulosa debaixo das ruas de Viena, O Terceiro Homem pode fazer passar despercebido sua maestria. No entanto, note como a história voa, como todas as cenas são necessárias e se encaixam para revelar seus personagens sem quase nada gratuito. Poético, engraçado sem fazer rir, dramático sem fazer chorar. Um filme técnico irrepreensível. Um filme para pensar no Cinema sem ser uma história sobre o Cinema.
 

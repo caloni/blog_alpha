@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2022-10-09T17:55:16-03:00'
+date: '2017-12-24'
 tags:
-- movies
-title: Lords of Metal
+- food
+title: Los Gatos Pinot Noir 2016
 ---
 
-Uma comédia adolescente com roteiro mais elaborado que o normal e atuações razoáveis que criam pessoas fora do normal com tato e situações bem pensadas. A adaptação de heavy metal com violoncelo ficou soberbo demais.
+Peguei este bom custo/benefício para o Natal em Osasco, ele tem corpo muito fraco, vai fácil, pouco frutado e levemente aromático.
 

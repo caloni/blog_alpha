@@ -1,14 +1,16 @@
 ---
 categories:
 - writting
-date: '2014-01-18'
-link: https://www.imdb.com/title/tt1698648
+date: '2019-05-10'
+link: https://www.imdb.com/title/tt9097148
 tags:
 - movies
-title: Minha Vida Dava um Filme
+title: Minhas Famílias
 ---
 
-Kristen Wiig, distante de A Vida Secreta de Walter Mitty e próxima de Missão Madrinha de Casamento, protagoniza essa comédia em que faz o papel de Imogene, uma escritora fracassada que é literalmente obrigada a voltar a morar pelas próximas 72 horas com a sua mãe e família após ter maquiado seu suicídio. O fato da carta de despedida de Imogene ter sido tão bem escrita é o que consegue unir seu passado de potencial glorioso e o seu eminente fracasso.
+Minhas Famílias é uma pequeníssima janela que o documentarista Hao Wu abre a respeito de sua vida homossexual e a convivência com os pais e com a famíla em geral, chineses tradicionalistas. O lado ruim dele é que não há conteúdo suficiente para valer a pena um longa-metragem, ficando ele no meio do caminhho com seus 39 minutos, e o lado bom é que ele consegue ser sucinto a respeito e evita a todo custo criar um conflito que não existe. As coisas são como elas são. Essa é a mensagem.
 
-Com sacadas que funcionam quase todo o tempo pelo timing tão realista quanto cômico de Imogene, o roteiro sobrevive com a ajuda de aparelhos em meio a tantos detalhes e reviravoltas irrelevantes para a evolução da personagem, além de ser um filme visivelmente afetado pela ambiguidade de gêneros. Só isso para explicar porque as tragédias na vida da escritora se transformam de gags para outra coisa que não nos faz rir nem chorar, sem sabermos se aquela personagem já possui tridimensionalidade o suficiente para chorarmos por ela, ou ainda é um ser caricato digno de pena.
+Ele decide com seu namorado/marido/esposo ter dois filhos em simultâneo. Ele faz inseminação artifical em duas barigas-de-aluguel em paralelo e nove meses depois eles são pais de duas crianças. Vão mostrar aos pais. Desde sua saída do armário até a decisão de ter filhos, todas as opiniões são capturadas de seus familiares, mas quem brilha mais é sua mãe. De sangue italiano, ela parece ter uma luta interna não apenas com ele, mas com qualquer um que ameace sua família. Ela é a matriarca no sentido clássico da palavra, e seu marido, apesar de também seguir a tradição, quer muito ter um neto de seu único filho homem. Nós conseguimos entender o drama dos dois e compartilhar de sua frustração, e Hao, como cineasta, mas potencial protagonista (afinal, esta é a vida dele) se coloca fora da equação, resultando em um filme parcial.
+
+Essa parcialidade vem do fato que ninguém mais no mundo ocidental em sã consciência debate se homossexualidade é um problema (apenas os ignorantes e fanáticos religiosos, mas danem-se eles). Logo, é natural que ele tenha todos os espectadores do seu lado. É uma decisão inteligente abster-se de defender seu lado, que já foi defendido (e ganho) pelos movimentos LGBTXYZHJKHFIHDKHKHD+. E é muito bom que essa história tenha saído do papel graças à sua coragem de colocá-la em filme. É mais um relato de como a vida pode ser tão simples quanto ela verdadeiramente é.
 

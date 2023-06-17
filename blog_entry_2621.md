@@ -1,28 +1,32 @@
 ---
 categories:
 - writting
-date: '2018-02-26'
-link: https://www.imdb.com/title/tt4555426
+date: '2017-10-21'
+link: https://www.imdb.com/title/tt0458352
 tags:
 - movies
-title: O Destino de uma Nação
+title: O Diabo Veste Prada
 ---
 
-Esta é a versão cinematográfica de um momento na história da Inglaterra que talvez lendo os livros não tenha tanto apelo emocional quanto um Gary Oldman incorporando totalmente o tom feroz, bonachão e icônico de Sir Winston Churchill, que abraça na marra o espírito inglês de sobrevivência (ou insanidade). Se isso não for patriotismo, nada mais será.
+Meryl Streep em um dos melhores papéis de sua carreira (o que não é pouca coisa). Olhe sua entonação entediada, sem levantar a voz, sem sequer olhar para os olhos de seus funcionários. Olhe como enumera de maneira apática e precisa de onde veio o azul que sua nova secretária está usando. O azul dela tem um nome específico, a secretária não se liga pra moda, e Streep simplesmente a coloca em seu lugar.
 
-Centrado nos primeiros dias da Segunda Guerra Mundial (apenas se você pensar na Europa), quando o primeiro-ministro debilitado Neville Chamberlain renuncia e em seu lugar a figura mais inóspita de Churchill surge, Hitler e sua Alemanha nazista marcham em uníssono derrubando países em um piscar de olhos. Tomando conta da França e encurralando o exército inglês aliado na minúscula costa de Dunkirk, a até então silenciosa ilha precisa dizer ao mundo o que irá fazer frente a ameaça de um novo império surgindo.
+"That's all."
 
-E essa acaba sendo, como é de praxe, uma pergunta complexa dentro do Parlamento inglês. Tendo perdido a confiança pelas políticas desastrosas de batalhas do passado, Churchill é a figura britânica que mais se assemelha a um bode expiatório inglês, colocado como única opção viável no momento para tentar manter a unidade política do governo. E percebemos como isso deve ter sido difícil para ele, pois além dos embates políticos ele ainda precisa manter um orgulho inglês decadente frente a uma multidão de ovelhas temerosas e egoístas. O "bom senso" está a ditar as últimas decisões de uma Inglaterra ainda livre.
+O brilhantismo da escalação de Streep é que o roteiro nunca a coloca em posição de protagonismo, o que poderia ser perigoso para a magnética atriz, que rouba os holofotes de Amy Adams em Julie & Julia. Aqui cada participação de Streep é magnética na medida certa, pois ela se resume a interações com a personagem de Anne Hathaway.
 
-Esse pelo menos é o tom do filme dirigido por Joe Wright (Orgulho & Preconceito) e escrito por Anthony McCarten (do regular A Teoria de Tudo), que explora esses momentos históricos em uma sombria e triste Londres. Sempre se mantendo em uma luz fraca, que faz parecer que os britânicos estão nesse momento ainda na penumbra a se anunciar (maior verdade não há), Darkest Hour mostra esses momentos com a solenidade que o momento histórico merece e dificilmente nos coloca na intimidade dessas pessoas, sempre privilegiando a cartilha formal dos acontecimentos.
+Dessa forma Hathaway tem a oportunidade de ouro de construir um personagem convincente graças à sua vilã. Ela é a gata borralheira (aqui jornalista idealista) que precisa do emprego para se manter, e aos poucos simpatiza pelo mundo da moda, ou pelo menos entende as motivações de sua chefe, a megera odiada e aclamada e que todos possuem um exemplo em suas áreas de atuação. Afinal de contas, este filme é baseado em um livro homônimo escrito por um funcionário, descontente ou não (essa parte da minha crítica é ficcional). De qualquer forma a mensagem faz sentido: chefes rudes e implacáveis é uma regra de empresas bem-sucedidas; não exceção.
 
-Há apenas dois, ou três, brilhantes momentos, no filme todo. Em um deles vemos os três arquitetos do poder, primeiro-ministro atual, anterior e o que seria, planejando a negociação de paz. Nele vemos toda a complexidade inerente a uma decisão dessas que impacta a vida de milhões que essas pessoas precisam enfrentar em tempo recorde. Na cena imediatamente seguinte vemos Churchill encurralado no banheiro, ligando para o presidente americano e implorando por uma frota. O enquadramento dessa cena é belíssimo; vemos seu isolamento demonstrado pelo cubículo isolado de tudo e de todos, com o telefone e um alarme de incêndio, ambos em seus ombros, fora a tomada onde vemos o gigantesco rosto do primeiro-ministro se tornar grande, mas pequeno ao mesmo tempo, olhando levemente para baixo.
+Porque o fato é: se você tem mais de trinta anos e já passou pela fase humanista ao extremo, em que você sonha e acorda com unicórnios, sabe que a vida real funciona assim. Os mais obstinados com excelência prevalecerão, pelo menos enquanto forem úteis para o sistema. O sistema não tem coração, mas tem paixão. Ele não ama as pessoas que fazem parte dele, mas adora como as roupas, os adornos e as cores combinam com a construção de identidade dessas mesmas pessoas. Fútil? Me fale mais como a maioria das mentes humanas é tão fascinante. Spoiler: não é.
 
-E há o momento catarse, que se passa em um metrô, e que vocês precisam ver e sentir com seus próprios olhos e coração. Não é um momento gratuito, contudo. Ele é tão necessário quanto os momentos intimistas de Dunkirk, que Christopher Nolan soube tão bem empregar para daí subir para o alto escalão da pátria. Aqui é feito o caminho contrário, e é rápido, mas vale cada segundo. Quem dera os países tivessem líderes como os que são pintados nesse filme.
+Então se a beleza interior é pura invenção para que ninguém saia se matando por aí, o universo da moda gira em torno de sacrifícios, de fazer o que se odeia, de ser uma masoquista disfarçada de sádica. E essa posição, essa condição, nem a editora da revista mais famosa de moda de Nova York consegue fugir.
 
-Gary Oldman, como sempre, é um camaleão. Aqui ele tem uma "pequena" ajuda da maquiagem, o que o torna muito próximo da figura clássica de Churchill. Mas nada fica entre ele e o espectador quando ele emprega não apenas um sotaque engraçado e peculiar, mas quando ele usa de seus maneirismos com propriedade, como o uso das sobrancelhas e o jeito curioso de andar. Oldman se parece cada vez menos com o ator e mais com o primeiro-ministro conforme a história avança. Talvez ele se tenha se esquecido em um momento ou dois quem é, e para a imensa virtude deste longa revemos Winston ressucitado.
+Afinal, ela é capaz de manter um jantar após um evento traumático e escolher uma pessoa que detesta para promoção, se isso for relevante para seus planos. E seus planos giram em torno de continuar sendo a mesma para sempre.
 
-A trilha sonora de Dario Marianelli não é primorosa, apenas adequada na maioria das vezes, mas auxilia a aliviar um pouco a pesada fotografia de Bruno Delbonnel, que exagera nas sombras, nas formas e nas meia-luzes que permeiam toda a trama. Até quando há cenas externa o que mais vemos são sombras de trincheiras e sombras de aviões sobrevoando uma área. Há uma transição interessante entre essas trincheiras e o rosto de um soldado morto jogado provavelmente nas areias de Dunkirk, mas esse efeito estético é gratuito e em nada favorece a história.
+No extremo oposto, a secretária original, do filme, uma das mil garotas que se matariam para estar no seu lugar, faz um trabalho em que é ignorada. Ela é a outra ponta nessa equação, mas se trata da mesma fórmula. Seres humanos glorificam seres humanos acima deles para que o ser humano alfa enfim faça uma reverência, e um sacrifício, para o deus moda. A continuação temática do que estou falando está em um filme mais recente, Demônio de Neon.
 
-Que é uma história adulta. Este não é um filme de guerra, mas um filme de política, que é a guerra com etiqueta. Até o Parlamento está mais educado do que de costume (A Dama de Ferro, 2011), e olha que estão à beira de tensos momentos. Darkest Hour não possui a força ultra-realista de Dunkirk, mas permite enxergarmos a parte não-vista do longa de Nolan. Uma dupla sessão de respeito, com ambos indicados ao Oscar desse ano.
+Com uma trilha sonora passada, ainda que divertida, com músicas da moda, e os cortes com carros passando enquanto vemos nossa heroína com diferentes conjuntos de roupas estonteantes, Diabo Veste Prada usa sua sua linguagem visual da maneira mais visceral possível, o que o torna ainda mais convincente em sua mensagem sobre futilidades.
+
+Além disso, ele ainda é um filme adulto de Hollywood, onde namorados podem se separar e na mesma semana fazer sexo com outras pessoas (e sem arrependimentos mortais). Mas ao mesmo tempo a ingênua mas competente secretária começa a notar como está se parecendo com sua chefe, no momento em que ela se toca no que vai se tornar. Este, portanto, não é um filme de mudança de personagem, mas de aprendizado. E por mais piegas que pareça, aprender quem nós somos ainda é um desafio à altura. E Diabo Veste Prada o faz de salto alto, para o bem e para o mal.
+
+Isso é tudo.
 

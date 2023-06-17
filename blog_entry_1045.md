@@ -1,64 +1,67 @@
 ---
-
-Já fiz ofuscamento e embaralhamento de dados acho que umas três ou quatro vezes. Dessa vez, parti para o batidíssimo esquema de fazer o pré-processamento de um header com defines que irão virar estruturas reaproveitadas por uma função padrão que desofusca e ofusca aquela tripa de bytes em algo legível: a string original.
-
-Vamos ver um exemplo:
-
-    #define MY_STR "Essa é minha string do coração"
-
-Conseguimos capturar os três elementos desse define (um descartável) por um simples scanf:
-
-    scanf("#define %s \"%[^\"]", def, str);
-
-A função scanf retorna o número de argumentos capturados. Então se a coisa funcionou é só comparar com 2.
-
-Depois de capturado, imprimimos na saída (o arquivo pós-processado) uma estrutura que irá conter nosso amigo embaralhado:
-
-    printf("struct ST_%s { byte key; size_t bufferSize; byte buffer[%d] }\n"
-    	" %s = { %d, %d, { ";
-    
-    for( ; ; ) printf(Cada byte ofuscado);
-    
-    printtf(" } };\n");
-
-Pronto. Agora o usuário da string precisa abri-la usando uma macro esperta que irá chamar uma função esperta para desofuscar a string e entregar o ponteiro de buffer devidamente "casteado":
-
-    #include "header-pos-processado.h"
-    
-    #define ABRE_VAR(var, type) (type) OpenVar( (GENERIC_STRUCT) var)
-    
-    int main()
-    {
-    	char* str = ABRE_VAR(MY_STR, char*);
-    }
-
-Uma vez que a abertura se faz "inplace", ou seja, a memória da própria variável da estrutura original é alterada, pode-se fechar a variável novamente, se quiser, após o uso.
-
-    FECHA_VAR(MY_STR);
-
-A GENERIC_STRUCT do exemplo se trata apenas de um esqueleto para que todas as estruturas das 500 strings ofuscadas sejam entendidas a partir de um modelo. Sim, essa é uma solução usando linguagem C apenas, então não posso me dar ao luxo daqueles templates frescurentos.
-
-    struct GENERIC_STRUCT
-    {
-    	byte key;
-    	size_t bufferSize;
-    	byte buffer[1];
-    };
-
-Como a string é ofuscada? Sei lá, use um XOR:
-
-    for( size_t i = 0; i < bufferSize; ++i )
-    	buffer[i] ^= key;
-
-Dessa forma abrir ou fechar a variável pode ser feito usando a mesma função.
-
-Alguém aí gostaria de uma explicação didática sobre o operador XOR?
-
-PS: Acho que, além das minhas palestras, meus artigos estão também parecendo um brainstorm.
-
----
 categories:
 - coding
-date: '2021-05-13'
+date: 2018-01-26 20:53:30-02:00
 tags: null
-title: Como Ordenar Três Números em Uma Entrevista
+title: Como Parsear Argc Argv para um map STL
+---
+
+Os clássicos argv/argc são úteis quando os parâmetros de um programa são conhecidos e geralmente obrigatórios (até a ordem pode ser obrigatória). Isso funciona muito bem para C. Porém, há a possibilidade de STLzar esses argumentos de forma simples, usando a lógica \*nix de fazer as coisas e transformando tudo em um map de string para string. E tudo isso cabe em uma função pequena que você pode copiar e levar com você em seu cinto de utilidades:
+
+```
+/** Interpreta argumentos da linha de comando.
+
+@author Wanderley Caloni <caloni@intelitrader.com.br>
+@date 2015-06
+@version 1.0.0
+*/
+#pragma once
+#include <map>
+#include <string>
+
+typedef std::map<std::string, std::string> Args;
+
+inline void ParseCommandLine(int argc, char* argv[], Args& args)
+{
+	for (int i = 1; i < argc; ++i)
+	{
+		std::string cmd = argv[i];
+		std::string arg;
+		if (i < argc - 1 && argv[i + 1][0] != '-')
+		{
+			arg = argv[i + 1];
+			++i;
+		}
+		args[cmd] = arg;
+	}
+}
+```
+
+Com a função ParseCommandLine disponível assim que você adicionar este header (eu chamo de args.h) basta no início do seu main chamá-lo passando o argv e o argc recebidos:
+
+```
+int main(int argc, char* argv[])
+{
+	Args args;
+	ParseCommandLine(argc, argv, args);
+    // ...
+```
+
+O resultado é que a variável args irá conter um mapa entre parâmetros e valores. Se seu programa for chamado com, por exemplo, a seguinte linha de comando:
+
+```
+>program.exe --name Agatha --surname Christie --enable-log
+```
+
+A variável args irá conter três elementos: "--name", "--surname" e "--enable-log". Nos dois primeiros ele irá entregar os valores respectivos "Agatha" e "Christie" se indexado (args["--name"], por exemplo). No terceiro elemento o valor é uma string vazia. Apenas a existência dele é o flag. Costumo usar isso para conseguir depurar por parâmetro:
+
+```
+if( args.find("--debug") != args.end() )
+{
+    while( ! IsDebuggerPresent() )
+        Sleep(1000);
+}
+```
+
+De maneira geral argv/argc já estão divididos quando o programa começa. O que o ParseCommandLine faz é apenas entregar os parâmetros formatados da maneira usual para tratarmos rapidamente as opções passadas dinamicamente para o programa.
+

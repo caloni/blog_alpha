@@ -1,26 +1,95 @@
 ---
 categories:
-- writting
-date: '2019-10-12'
-link: https://www.imdb.com/title/tt8908514
-tags:
-- cinemaqui
-- mostra
-- movies
-title: Você Tem a Noite
+- coding
+date: '2011-03-01'
+tags: null
+title: VTable
 ---
 
-"Eu não tenho nada. Você tem a noite."
+Acho que na breve história desse blogue nunca contei a história do vtable. No máximo fizemos um [hookzinho nos métodos de um componente COM](http://www.caloni.com.br/hook-de-com-no-windbg). Mas só.
 
-Você Tem a Noite é daqueles filmes que ficamos durante o tempo todo tentando descobrir se estamos conseguindo acompanhar alguma história ou há algo mais do que vemos na superfície, e essa inconstância interpretativa no nosso cérebro não significa que o filme é ruim.
+Não encontro uma analogia simples, assim, de cabeça. Então vou contar no cru, mesmo. Talvez seja até mais divertido.
 
-A falência de uma empresa centenária causa a demissão de funcionários habitantes de uma cidade portuária, e o que testemunhamos através das melancólicas lentes do diretor Ivan Salatic (que assina o roteiro) diz respeito ao colapso da sociedade atual visto através dos tristes eventos de uma família, inserida nesse panorama a tal ponto que se tornam representantes dessa decadência.
+A vtable foi um mecanismo criado para implementar o polimorfismo em C++ quando falamos de ponteiros para classes base cujos métodos virtuais foram sobrescritos por uma classe derivada.
 
-Trocando em miúdos, esta é uma história sobre transição. O seu resumo pode ser ouvido de um homem velho, que lamenta seu infortúnio de não poder parar de trabalhar, e se antes, na juventude, o trabalho quebrava suas costas, pelo menos havia o "espírito coletivo" como significado, que compensa pela vida dura. Agora, destituído dos valores da camaradagem, indivíduos como ele sofrem ainda mais, destituídos até do significado de tal sofrimento.
+A coisa fica mais simples quando explicamos que em C++ você só paga pelo que usa. Se você declarar uma classe que não tenha nenhum método virtual, os objetos dessa classe não precisarão de uma vtable. No entanto, você não conseguirá sobrescrever um método dessa classe através de uma derivada:
 
-Ele está obviamente comparando os modos de produção comunista e capitalista, regimes pelos quais sua geração fez parte, respectivamente. E esta não é necessariamente uma ode aos velhos tempos, mas o questionamento em aberto do que se ganhou nessa transição. Agora o velho perde tudo, exceto seus conhecimentos de sobrevivência primitiva, como pescar e vender. Mas lhe faltam os equipamentos. O corporativismo, tornando os pequenos barcos obsoletos, tornou seus trabalhadores incapazes de sobreviver às crises como a que eles estão vivendo.
+```
+#include <iostream>
 
-"Você Tem a Noite" possui uma narrativa estruturada, mas prefere seguir por caminhos mais "artísticos". A beleza do filme reside em suas tomadas, enquadramentos que lembram quadros vivos e que dizem mais sobre o vilarejo e as pessoas que nela moram, seus costumes e valores, do que mover a história de fato. Formado por fragmentos, a narrativa é meio caminho para percorrermos essa parte da História acontecendo diante de nossos olhos. Há enormes dúvidas na composição do filme, e elas alimentam o tom melancólico do que vemos.
+class C
+{
+public:
+        void method()
+	{
+		std::cout << "C::method\n";
+	}
+};
 
-Um garoto tem o braço mordido por um cachorro. A tentativa de consertar um motor para a reforma de um barco dá errado. Um mergulhador morre. Casais se separam. Os fragmentos em si só não dizem nada, mas é a junção que Ivan Salatic faz que termina extraindo um pouco de significado em meio a este passeio panorâmico sobre Montenegro.
+class D : public C
+{
+public:
+        void method()
+	{
+		std::cout << "D::method\n";
+	}
+};
+
+void func(C* c)
+{
+        c->method(); 
+}
+
+int main()
+{
+        D d;
+        func(&d); // passa endereço de C "dentro de D"
+}
+```
+
+    
+    Saída
+    =====
+
+    
+    C::method
+
+No exemplo acima, a chamada feita em func irá chamar o método da classe C, mesmo que a classe D tenha sobrescrito esse método. O programador semi-experiente deve pensar "lógico, ela não é virtual!", e está certo, assim como qualquer pessoa que decora essas formulazinhas de vestibular.
+
+Para criarmos polimorfismo de verdade, precisamos declarar o método em C como virtual:
+
+    
+    class C
+    {
+    public:
+            virtual void method();
+    };
+
+Agora sim, a chamada em func irá ser para D::method.
+
+Pergunte para o programador semi-experiente em C++ por que as coisas são assim e provavelmente ele irá falar algo sobre vtable, mesmo que não saiba exatamente como ela funciona.
+
+A vtable é uma tabela que guarda o endereço dos métodos virtuais de uma classe. Se uma classe derivada sobrescrever um ou mais métodos de sua classe base, ela terá uma outra vtable com os endereços dos métodos "corrigidos".
+
+{{< image src="vtable11.png" caption="" >}}
+
+Dessa forma, algo um pouco diferente ocorre na chamada c->method() quando estamos lidando com classes polimórficas: o início de um objeto dessa classe terá um ponteiro para a vtable de sua classe. Quando um método virtual é chamado, em vez do compilador gerar uma chamada estática para o endereço do método da classe cujo tipo estamos usando, ele irá redirecionar essa chamada para uma posição na vtable para onde esse objeto aponta. No caso de um objeto do tipo D, a entrada para method em sua vtable apontará não para C::method, mas para D::method, uma função com a mesma assinatura contida na classe base C e que, portanto, a sobrescreve.
+
+Façamos um pequeno teste para comprovar o que falamos. Vamos escancarar a chamada feita a partir de uma instância de D e a partir de uma instância de C. Nada que um WinDbg não resolva de braços cruzados:
+
+    
+    int main()
+    {
+            D d;
+            C c;
+    
+            func(&d);
+            func(&c);
+    }
+
+    
+    cl /Zi vtable3.cpp
+    windbg vtable3.exe
+
+{{< image src="vtable2.png" caption="vtable2.png" >}}
 

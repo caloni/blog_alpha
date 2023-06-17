@@ -1,30 +1,22 @@
 ---
-
-Tokyo Story, ou Era Uma Vez em Tóquio, como seus títulos ocidentais sugerem, é um conto, que se constrói no Japão pós-guerra e faz uma dura crítica à sociedade ocidentalista da época, mas como todo grande filme se torna atual mesmo 50 anos depois pelas suas mensagens eternas sobre vida e família.
-
-Iniciando com uma viagem do marido e esposa já aposentados que vão se encontrar com seus filhos em Tóquio, vão aos poucos percebendo que a cidade grande e seus afazeres da vida moderna não têm tempo nem espaço para acomodá-los, com exceção de sua amável nora, que parece sempre priorizar o bem estar dos seus sogros mesmo que este não sejam de fato sua família e que seu marido já tenha falecido há mais de oito anos na guerra.
-
-Embora tenham lá seus momentos agradáveis e nunca transpareça que seus filhos no fundo acham sua presença um estorvo, a genialidade do filme aparece nos pequenos detalhes, nos diálogos e muitas vezes nas próprias situações que vão ocorrendo tão naturalmente que o diretor parece não querer julgar nada em momento algum. Isso faz com que o espectador nunca julgue, mas esteja sempre atento à reflexão do que aquelas cenas conseguem transmitir de mensagem.
-
-E parece ser isso a força invisível desse filme. Muitos excelentes trabalhos posteriores usaram a mesma receita - onde se encaixa com certeza o tocante [Hanami] - mas Tokyo Story tem aquele ingrediente mágico de fazer as pessoas pensarem por si sós o que tudo isso significa. Essa leveza de cores pode transformar a vida de muita gente por muitas décadas ainda.
-
-## Tokyo Story em Família
-
-Caloni, 2021-12-18.
-
-Assisti novamente este clássico, dessa vez em família. Família japonesa. Foi divertido acompanhar os comentários da minha sogra sobre sua avó e os costumes da época, assim como o quão apertadas já eram as casas em Tóquio na década de 50. A naturalidade com que as coisas acontecem em Era Uma Vez em Tóquio rivalizam com os enquadramentos bidimensionais dos personagens, enclausurados nesta realidade imutável do tempo.
-
-Ambas as virtudes pertencem ao seu diretor, Ozu, que parece deixar fácil uma história que transcende sua primeira camada. Quando a nora fala sobre ser egoísta e toda uma última discussão entre os personagens mais íntegros desta história, é quando percebemos a real profundidade deste filme. Ele é eterno, pois trata da humanidade como ela é. Como as gerações se tratam, o distanciamento, os interesses. Acaba sendo um reflexo histórico também do Japão da época, embora possa servir para qualquer época.
-
-E nisso entra Hanami, uma reencarnação mais jovem e artística. Hanami é obviamente uma homenagem e referência, e não um remake, pois o próprio assunto de sombra e espírito informam ao espectador que este é um tema antigo sob uma nova roupagem, não melhor ou pior, apenas diferente.
-
-[Hanami]: {{< relref "hanami-cerejeiras-em-flor" >}}
-
----
 categories:
 - writting
-date: '2013-01-10'
-link: https://www.imdb.com/title/tt1663661
+date: '2015-04-02'
+link: https://www.imdb.com/title/tt0087843
 tags:
 - movies
-title: Era Uma Vez Eu, Verônica
+title: Era Uma Vez na América
+---
+
+Esse é o filme que o diretor Sergio Leone escolheu fazer em vez da proposta da Paramount para que ele dirigisse O Poderoso Chefão. Baseado no romance The Hoods, de Harry Grey, ele tentou convencê-lo a filmar por muito tempo, até que Grey cedeu após assistir à Trilogia dos Dólares (e gostar). Ambos passaram mais de uma década conversando para que o diretor conseguisse entender o espírito norte-americano através dos olhos do escritor. A longa produção gerou seis horas de filmagens (já editadas) que foram recusadas pela produtora e viraram 4 horas e meia, que em sua versão para os EUA foi ironicamente mutilada em 139 minutos. Este texto diz respeito à versão lançada em Cannes, com 229 minutos de duração.
+
+Antes é preciso dizer algo: a música-tema composta por Ennio Morricone (Cinema Paradiso) ficará teimosamente na sua cabeça por pelo menos alguns dias. Dane-se: é uma linda imersão no espaço/tempo de uma época histórica, e valeria a pena escutá-la mesmo se eu ficasse vinte anos cantarolando suas notas. Ela possui dois momentos. Um é lúdico e alegre, representado por uma gaita que um dos personagens infantis geralmente toca. Outro é nostálgico, parece querer nos fazer lembrar de todos os momentos, eras e fases da vida de David 'Noodles' Aaronson (Robert De Niro na maior parte do tempo, mas Scott Schutzman Tiler na importantíssima fase da infância). Esses momentos se confundem com a história americana, principalmente a lei seca, quando era proibido comercializar bebidas alcoólicas e gângsteres se aproveitavam do óbvio mercado paralelo para fazer rios de dinheiro.
+
+A história se inicia durante uma caçada pela cabeça de Noodles após a morte de seus companheiros. A partir daí sua vida é contada menos em uma ordem cronológica e mais em uma ordem afetiva. Tanto que a sequência emblemática de um telefone tocando por 24 vezes atravessa o limite do tempo e acaba caindo sobre as costas de um homem consumido pela culpa. O ópio foi a droga escolhida para seu escapismo, em um bairro chinês incrustado na antiga Nova York. Apesar de estarmos acompanhando sua história, o filme muitas vezes parece querer lançar questões mais universais, como pobreza, amizade, lealdade, moral e amadurece para questões mais filosóficas (especialmente em seus últimos momentos).
+
+Sua passada pela estação avança rapidamente no tempo para o bar em um bairro decadente em que o antes torturado Fat Moe agora administra. Esse lugar tem muitas memórias, e na cabeça de Noodles uma linda, eterna memória: o tijolo solto do banheiro que permitia que ele visse a bela Deborah (Elizabeth McGovern/Jennifer Connelly) ensaiar seus passos de dança. A fotografia nesse momento, e particularmente em toda a fase "infantil" de Era Uma Vez na América é algo para se emoldurar na lembrança (algo que Morricone nos ajuda com sua música). Os cenários por onde se passa a história, aliás, são facilmente lembrados e se tornam memoráveis pela rápida transformação pelo qual parecem passar quando avançamos no tempo.
+
+Naqueles "inocentes" anos 20, a amizade que se forma entre o mais velho e "experiente" Max e seu "tio" Noodles é o pilar em torno do qual aquela gangue-mirim irá se estabelecer e se manter por laços de lealdade que não vemos, mas sentimos. É como o velho Mike diz no recente episódio do seriado Better Call Saul: você pode ser um criminoso ou não, mas o seu caráter se molda pelas promessas cumpridas. Nesse sentido, além de apanharem juntos, passarem por um processo de profissionalização do crime, e por fim contracenarem a cena mais triste e emblemática de todo o filme ("eu escorreguei"), é o retorno de Noodles depois de 12 anos enclausurado e a reação de sua antiga gangue que se torna o momento mais tocante.
+
+E a partir disso temos um intervalo no filme, onde a história depois dessa pausa tende a ser mais sombria, revelando (ou extrapolando) traços da personalidade de Max e Noodles que chocam ou quase chocam, mas incrivelmente nunca surpreendem. Tudo que esses dois fizerem, até o pior dos seus atos, será aceitável depois de os vermos "na ativa". E é essa a característica mais peculiar desse filme: ele parece primeiro sugar nosso senso moral para depois conseguir humanizar seus heróis, e é por isso que a fase criança é tão importante. No mesmo estilo dos faroestes de Leone, esse é um bangue-bangue na cidade, mas os inimigos não são facilmente identificáveis. Não à toa: aqui os antagonistas não são relevantes. É uma reflexão sobre a própria passagem da vida. Talvez uma reflexão sobre nossa própria história como espécie. Foi um grande filme que você não se esqueceu quando criança, é um grande filme quando revemos através de nossos olhos adultos e será um grande filme quando entendermos que maldade vem engarrafada em cada porção de vida que cada um de nós recebe nessa breve passagem do tempo.
+

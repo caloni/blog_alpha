@@ -1,14 +1,19 @@
 ---
 categories:
 - writting
-date: '2012-06-13'
-link: https://www.imdb.com/title/tt0296915
+date: '2010-11-01'
+link: https://www.imdb.com/title/tt2186866
 tags:
+- mostra
 - movies
-title: Valentin
+title: Vamos nos Conformar
 ---
 
-Filme que tirou do ostracismo o diretor-ator-roteirista Alejandro Agresti (também que depois foi à Hollywood filmar A Casa do Lago), é muito fácil gostar da história de Valentin. Sempre transbordando otimismo, ainda que a realidade não fosse mais diferente do que suas expectativas, acompanhamos a história do garoto-título vivido por Rodrigo Noya e enxergamos o mundo através do seu filtro de realidade, formado principalmente pela ausência da mãe (ele mora com a avó, vivida por Carmem Maura, uma das atrizes favoritas do diretor espanhol Pedro Almodóvar) e pelas visitas irregulares do pai.
+Esse documentário conta a história de quatro amigas que estão internadas em uma espécie de abrigo para filhas que foram abandonadas por suas famílias. Cada uma delas fala na sua vez sobre sua história, e conseguimos identificar facilmente a personalidade de cada uma: a que tem pena de si, a durona e irritada, a complicada e, por fim, a conformada. É ela que veremos frente a frente com os pais.
 
-O fato é que a carisma do personagem reside mais das circunstâncias que o cercam do que sua atitude perante elas. Porém, o mais curioso é perceber que os pensamentos que acompanhamos vem de um mero garoto de 8 anos, e sua pouca idade é o principal gancho para que caminhemos pelo seu mundo, onde ele almeja ser astronauta quando crescer (estamos na década de 60 pré-pouco na Lua, e os russos são os pop stars) e ao mesmo tempo deseja um dia poder conhecer a mãe. Não há nada de errado em explorar um drama desse tipo quando há respeito pelos seus personagens, e o respeito de Agresti por Valentin é sensível o suficiente.
+É possível entender o absurdo da situação dessas mulheres através do questionário do instituto, onde são feitas diversas perguntas atípicas, como se a pessoa já frequentou algum hospício ou se foi molestada quando criança. Fica óbvio que, após, darem entrada no local, elas vivem presas, pois os muros possuem arame farpado, janelas possuem grades e muitas nem vêm a claridade exterior dias inteiros.
+
+O ponto alto do documentário é a discussão do pai que visita a última menina entrevistada. Na concepção dele, a menina é uma desvirtuada sem solução. Ele ignora totalmente a possibilidade de uma sociedade diferente da idealizada por ele, onde as mulheres devem se esconder, ser submissas e nunca fazer coisas como usar maquiagem.
+
+Muito embora tenha momentos emocionantes, a narrativa não consegue gerar uma grande empatia pelas meninas, mas apenas pela sua causa. Nesse ponto, ele é tão efetivo quanto A Flor do Deserto, só que este último conta uma história mais interessante em tom ficcional.
 

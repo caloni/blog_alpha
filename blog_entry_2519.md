@@ -1,16 +1,16 @@
 ---
 categories:
 - writting
-date: '2016-02-08'
-link: https://www.imdb.com/title/tt0061811
+date: '2014-06-10'
+link: https://www.imdb.com/title/tt1631867
 tags:
 - movies
-title: No Calor da Noite
+title: No Limite do Amanhã
 ---
 
-Esse é um filme que expõe o racismo como nenhum outro. O personagem de Sidney Poitier aguarda o trem na estação da pequena cidade de Sparta para visitar sua mãe. Naquela mesma noite um figurão da cidade é assassinado. Um policial, um dos caipiras da cidade, encontra Portier sentado em um banco, e para ele o crime já está resolvido: único negro encontrado aquela noite, só ele poderia ser o culpado de um crime tão brutal.
+Filme futurista que faz uma homenagem a Feitiço do Tempo (de Harold Ramis com Bill Murray), mas não aproveita suas idas e vindas pelo mesmo caminho percorrido pelo protagonista, que precisa morrer várias vezes, mas acaba morrendo praticamente da mesma maneira (isso lembra um pouco nossa geração vídeogame, não?). O ponto mais negativo obviamente fica para o final, pois este é um filme onde Tom Cruise (Oblivion) é o herói, e heróis como ele e Will Smith muitas vezes se dão ao luxo de não trocar suas personas midiáticas por personagens mais reais. Ou podemos dizer que essa é uma crítica pontual ao espírito vídeo-game dessa geração, acostumado com desafios fáceis e pouco desafiadores.
 
-Dirigido por Norman Jewison, que já foi indicado a sete Oscar e não ganhou nenhum (apesar de "No Calor..." ter ganhado cinco, incluindo de melhor filme), o filme explora diferentes situações em que os moradores e a força policial da região têm que interagir com Virgil Tibbs (Portier), e o fato dele ser negro é um grande empecilho, já que com isso eles lhe negam o respeito (chamando-o pelo nome, mesmo já sabendo que ele também é um policial) e se sentem ofendidos muitas vezes apenas por Tibbs se encontrar no mesmo recinto. O melhor momento do longa é uma visita ao "dono" da cidade, que ainda mantém uma plantação de algodão com vários negros (como funcionários), conversa animadamente sobre Orquídeas com Portier, mas acha normal esbofetear a cara de um negro se este lhe faltar com o respeito.
+Esqueçamos as atuações -- exceto a de Bill Paxton, excelente -- e foquemos na técnica. A edição de James Herbert (colaborador habitual do cleptomaníaco Guy Ritchie) aliada à direção competente de Doug Liman (a trilogia Bourne) compensam enormemente um roteiro desnecessariamente prolixo escrito por não sei quantas pessoas. Há momentos inspirados, mas não estão na parte final. O núcleo desse ótimo filme está em sua narrativa dinâmica, que totalmente diferente da linguagem usada em Feitiço do Tempo se aproveita da agilidade atual do espectador e recorta cenas repetidas com uma velocidade inimaginável algumas décadas atrás. Com isso, o filme cria uma forma empolgante de avançar na história, onde não sabemos exatamente quanto tempo se passou (para o protagonista), mas sabemos que foi muito, já que ele misteriosamente sabe de diversos detalhes íntimos de várias pessoas que sequer possuem tempo em tela (uma das falhas mais graves no roteiro é não explicar a origem desses insights).
 
-O filme é fácil de entender, e tem um "appealing" emocional e uma história simples que o tornaram fácil indicação para Oscar. No entanto, por trás do filme censura livre se encontra hoje um exemplar único, que felizmente, será visto com repulsa pela maioria de seus espectadores atuais (na época já foi polêmico, mas hoje talvez fosse inconcebível). Sua trilha sonora é cantada por Ray Charles. Deu ao ator Rod Steiger o Oscar de ator principal, e deixou Portier injustamente fora do páreo. Talvez a polêmica da época não fosse tão descabida assim...
+Conseguindo de fato transformar toda a experiência em uma espécie de vídeogame apenas acompanhamos Cage (Cruise) aprendendo a lutar em uma guerra e a dar valor aos soldados que lutaram em seu lugar (Cage começa no filme mais como um publicitário do que um militar), o que é um arco razoável. A tensão aumenta um pouco mais para o final, quando um acontecimento já previsto ocorre, mas sofre com a falta de comprometimento com suas premissas básicas. Viagem no tempo é um tema fascinante e pode dar muita liberdade narrativa, mas uma vez que suas regras são lançadas, fica difícil se livrar da maldição auto-lançada.
 

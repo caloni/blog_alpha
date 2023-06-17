@@ -1,12 +1,11 @@
 ---
 categories:
 - writting
-date: '2021-01-14'
-link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-santa-helena/
+date: '2016-12-31'
 tags:
-- coffee
-title: Santa Helena Alfenas
+- food
+title: Santa Rita 120 Reserva Especial Syrah 2014
 ---
 
-Café que chegou esse mês do Grão Gourmet possui tanino equilibrado e tons semi-cítricos. Pouco amargo, levemente doce.
+Amadeirado, pouco aromático, quente, azedo. Deixei com a rolha e agora está cheirando a uva; gelado é meio verde; esquentando volta o amadeirado leve.
 

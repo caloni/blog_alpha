@@ -1,15 +1,14 @@
 ---
-categories: []
-date: '2019-09-07'
-tags: null
-title: 'Vcpkg: Atualizando Lib Asio'
+categories:
+- coding
+date: '2019-09-17'
+link: /code/vcpkg-openssl-cnf.patch
+title: 'Vcpkg: openssl.cnf'
 ---
 
-Hoje tive que compilar a versão 1.13.0 do Asio para Windows, mas o vcpkg não suporta essa versão ainda, apesar de suportar uma versão (1.12.2.2). Daí entra os problemas que todo programador Windows tem para manter bibliotecas de terceiro compilando em seu ambiente, mas agora com o vcpkg isso nem é tão difícil assim. Vamos lá.
+Mais uma aventura em vcpkg. Dessa vez o projeto openssl, a biblioteca de SSL open-source multiplataforma. O vcpkg divide esse port por SO, sendo o openssl-windows o port que alterei. A alteração foi enviada como PR para a Microsoft, mas no momento está apenas no repo da BitForge.
 
-Primeiro de tudo, os pacotes disponíveis no vcpkg podem não ser os disponíveis no branch oficial, que é apenas uma base, que está sendo atualizado e mantido por uma equipe grande que responde os issues, é verdade, mas nem sempre possui as versões que precisamos no dia-a-dia. Para adicionar ou modificar os pacotes deve-se mexer na pasta port do projeto. Dentro dela há uma pasta para cada pacote disponível.
+O que acontece é que alguns comandos executados no openssl.exe compilado e instalado do vcpkg precisam conter o arquivo de configuração disponível, como o genrsa. A compilação do openssl-windows pelo vcpkg gera o arquivo, mas o apaga após o build. Há uma checagem pós-build no vcpkg.exe que verifica se há arquivos sobrando na estrutura de diretórios que será copiada para a pasta installed/triplet após a conclusão da instalação no módulo postbuildlint. A função checknofilesindir verifica se há arquivos sobrando nos diretórios onde eles não deveriam estar e cancela a instalação. Por isso que originalmente o openssl-windows/portfile.cmake apaga o openssl.cnf gerado na pasta raiz e na subpasta debug do build.
 
-É lá que fica a pasta asio, com seus quatro arquivos: asio-config.cmake, CMakeLists.txt, CONTROL e portfile.cmake. No CONTROL temos o sumário do pacote (nome, descrição, versão), no asio-config.cmake a receita CMake para fazer o build e em CMakeLists.txt como instalar. Isso varia de pacote para pacote, mas no caso de libs como a asio ela fica no GitHub, então em algum lugar nas instruções de instalação (aqui no caso em portfile.cmake) você irá encontrar o uso da função vcpkgfromgithub.
-
-Essa função irá obter os fontes baixando pela referência master do git, mas poderia ser outro branch ou tag. Para trocar a versão para a 1.13-0, por exemplo, existe uma tag para isso. Tudo que você precisa é mudar em HEADREF, mas para ficar mais bonito mude em REF também (além de atualizar o CONTROL, que contém informações sobre o pacote que o vcpkg irá exibir para o usuário). De início o SHA512 do download irá falhar, mas assim que você rodar o vcpkg install asio ele irá cuspir qual o hash correto. Daí é só atualizar no arquivo e rodar novamente. Feito isso o pacote é baixado, compilado e instalado exatamente como a versão 1.12.
+Minha mudança foi apenas não apagar o arquivo openssl.cnf release e movê-lo para a pasta onde está localizado o openssl.exe. Dessa forma fica simples de detectá-lo, mas ainda assim é necessário apontar para a ferramenta onde ele está, definindo a variável de ambiente OPENSSLCONF ou passando como parâmetro.
 

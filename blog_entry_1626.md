@@ -1,25 +1,98 @@
 ---
-categories:
-- writting
-date: '2019-11-06'
-link: https://www.imdb.com/title/tt1950186
-tags:
-- cinemaqui
-- movies
-title: Ford Vs Ferrari
+categories: []
+date: '2017-03-23'
+tags: null
+title: Forma simples de baixar atualizações remotamente de um cliente para um servidor
 ---
 
-Ford Vs Ferrari narra uma corrida histórica, mas seu pano de fundo é um conto de fadas estadunidense com o objetivo de levantar questões controversas a respeito da postura dos "homens de verdade" das décadas pós-guerra, sendo a principal das questões qual a envergadura moral de um Henry Ford II em levantar a bandeira do industrialista orgulhoso, quando tudo o que lhe resta dos tempos gloriosos e do trabalho duro de seu avô são milhões de dólares e influência herdados e empacotados na forma de uma diretoria pronta para concordar com seu chefe apenas por ser seu chefe.
+A forma mais simples e independente de código para efetuar essa tarefa para Windows é no servidor subir um file server em qualquer porta disponível, e a forma de file server mais simples que existe é o embutido em qualquer instalação Python:
 
-Para quem trabalha na era da informação, onde boas ideias podem vir de qualquer lugar e nacionalidade, chega a ser risível a idolatria à hierarquia e nacionalismo dos anos 60, quando a própria geração de adolescentes já começava a se dar conta da mudança de valores no ar. O filme dirigido por James Mangold absorve essa atmosfera nos apresentando a ela primeiro, junto de seus principais personagens e conflitos, para depois nos aprofundar nos aspectos históricos da aventura.
+```
+python -m SimpleHTTPServer
+```
 
-Carroll Shelby é um piloto de corrida de automóveis de sucesso, o primeiro americano a vencer uma competição de resistência francesa e a se aposentar por problemas de saúde. Shelby se enxerga em seu amigo Ken Miles, um mecânico talentoso que entende de forma quase instintiva a dinâmica na pista quando participa como um piloto quase anônimo. Ambos representam esse lado ainda amador e nada glamuroso dos pilotos de corrida nos anos 60, muito diferente do que vemos hoje na Fórmula 1. E ambos são a versão artística que bate de frente com a indústria focada em produtividade e lucro de Henry Ford.
+Para que não seja necessário instalar o Python no servidor é possível transformar essa chamada em um executável e suas dependências standalone:
 
-O roteiro escrito a seis mãos dedica boa parte do tempo em conseguir nos convencer de que esses dois mundos podem trabalhar juntos para ganhar do símbolo de velocidade entre os jovens, a quase sempre vitoriosa empresa de automóveis de Enzo Ferrari, um italiano raiz que coordena, diferente de Ford, não uma linha de produção em que a repetição transforma mediocridade em produto, mas uma equipe de artesãos, cada um dedicado a fazer a melhor peça de um automóvel para que, em conjunto, reine o estado da arte.
+```
+import SimpleHTTPServer
+import SocketServer
 
-O resultado dessa história com detalhes demais para dar conta é um filme com peças sobressalentes, mas que na média oferece tensão e emoção, graças principalmente, além da direção, ao seu elenco. Matt Damon vive Shelby com a expressão enigmática de quem pensa muito mais do que de fato diz, mantendo em equilíbrio a rixa inevitável entre homens de terno arrogantes e a equipe dos homens de verdade que fazem o serviço de fato. Seu calcanhar de Aquiles é Ken Miles, com seu temperamento explosivo que se torna justificável frente a tamanho atrevimento cego dos homens do dinheiro. Miles é uma criatura autêntica cujo único intérprete com a energia e a capacidade de recriar até seu sotaque bem específico é Christian Bale (e a ironia da vida é que Bale também é conhecido nos bastidores como sendo uma criatura difícil de se lidar nas filmagens).
+PORT = 8000
 
-James Mangold estabelece essa dinâmica entre idas e vindas do roteiro em um nível morno porque nós sabemos que isso tudo vai dar na tal corrida de resistência da França, o 24 Les Mans, onde competidores devem correr pela pista por 24 horas. Toda a atmosfera dos vilões impessoais contra os homens de talento se paga quando os carros vão para a pista da corrida de 1966, materializada com computação e a fotografia de Phedon Papamichael, que nos faz pensar em como o sol na França cria padrões de cores muito mais ricas e humanas do que o eterno meio-dia do deserto americano. Nesse momento Mangold pode largar o freio de mão, pois praticamente tudo funciona, e Christian Bale pode finalmente homenagear os anônimos como Ken Miller, que fazem a coisa acontecer, independente das tramas que giram em torno de poder e dinheiro.
+Handler = SimpleHTTPServer.SimpleHTTPRequestHandler
 
-Ford Vs Ferrari possui já um público-alvo declarado, como os fãs de corrida e de automóveis, mas não fãs de filmes de ação como Velozes e Furiosos, que giram muito mais em torno da existência da ação do que os motivos por trás dela. James Mangold entende que qualquer cena tensa na pista envolvendo automóveis e pilotos só possui sentido se houver algo mais real em jogo do que planos de dominação mundial ou qualquer outra besteira que colocam nesses filmes onde pensar é opcional. Esse é um filme que glorifica elementos muito mais pessoais e por isso mesmo mais valiosos, como a integridade, a ousadia e o talento. Elementos que nenhum seguidor da filosofia Ford sequer irá notar a existência.
+httpd = SocketServer.TCPServer(("", PORT), Handler)
+
+print "serving at port", PORT
+httpd.serve_forever()
+```
+
+Esse script pode ser compilado pela ferramenta py2exe, instalável pelo próprio Python. É necessário criar um arquivo setup.py na mesma pasta do script e através desse script gerar uma pasta dist com o script "compilado" e pronto para ser executado.
+
+```
+from distutils.core import setup
+import py2exe
+
+setup(console=['fileserver.py'])
+```
+
+Pelo prompt de comando executar o seguinte comando que irá gerar a pasta dist:
+
+```
+python setup.py py2exe
+```
+
+Uma vez gerada a pasta, renomear para fileserver e copiar no servidor em qualquer lugar (ex: pasta-raiz). Executar de qualquer pasta que se deseja tornar acessível via browser ou qualquer cliente http:
+
+```
+cd c:\tools
+c:\fileserver\fileserver.exe
+```
+
+Para testar basta acessar o endereço via browser:
+
+{{< image src="hSnmzqv.png" caption="" >}}
+
+### Lado cliente
+
+Do lado cliente há ferramentas GNU como curl e wget para conseguir baixar rapidamente qualquer arquivo via HTTP. Para máquinas com Power Shell disponível há um comando que pode ser usado:
+
+```
+powershell wget http://127.0.0.1:8000/Procmon.exe -OutFile Procmon.exe
+```
+
+Porém, caso não seja possível usar o Power Shell o [pacote básico do wget do GnuWin32](http://gnuwin32.sourceforge.net/packages/wget.htm), de 2MB, já consegue realizar o download.
+
+```
+c:\Temp\bitforge\wget>dir
+ Volume in drive C is SYSTEM
+ Volume Serial Number is 5C08-36EE
+
+ Directory of c:\Temp\bitforge\wget
+
+23/03/2017  13:25    <DIR>          .
+23/03/2017  13:25    <DIR>          ..
+03/09/2008  17:49         1.177.600 libeay32.dll
+14/03/2008  19:21         1.008.128 libiconv2.dll
+06/05/2005  16:52           103.424 libintl3.dll
+03/09/2008  17:49           232.960 libssl32.dll
+31/12/2008  11:03           449.024 wget.exe
+
+c:\Temp\bitforge\wget>wget http://127.0.0.1:8000/Procmon.exe
+SYSTEM_WGETRC = c:/progra~1/wget/etc/wgetrc
+syswgetrc = c:/progra~1/wget/etc/wgetrc
+--2017-03-23 13:44:13--  http://127.0.0.1:8000/Procmon.exe
+Connecting to 127.0.0.1:8000... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2046608 (2,0M) [application/x-msdownload]
+Saving to: `Procmon.exe'
+
+100%[===================================================================================================================================>] 2.046.608   --.-K/s   in 0,006s
+
+2017-03-23 13:44:13 (348 MB/s) - `Procmon.exe' saved [2046608/2046608]
+
+c:\Temp\bitforge\wget>
+```
+
+E assim com poucas linhas de código já é possível iniciar um client/servidor via http que fornece arquivos de atualização. A própria versão do pacote e detalhes podem estar disponíveis na mesma pasta.
 

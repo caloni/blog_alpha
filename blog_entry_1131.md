@@ -1,18 +1,18 @@
 ---
-
-Se você pensou "esse é mais um daqueles documentários sobre conspirações em torno de algo polêmico como deixar de comer carne", parabéns. Você está 50% certo. Porém, se você também pensou que esse pode ser um filme que faz pensar em pelo menos alguma coisa a respeito de sustentabilidade, você já acertou mais da metade do filme.
-
-Dirigido pela dupla de novatos Kip Andersen e Keegan Kuhn, o filme entrega no começo um caminhão de números, estatísticas e proporções da relação com o que os seres humanos consomem de alimento de origem animal e o quanto consomem por causa disso de terras férteis, destruindo florestas e produzindo gases responsáveis pelo efeito estufa. Tudo isso em uma escala muito maior que todos os meios de transporte que usam queima de combustível fóssil. Surpreso? Espere até ver que o documentarista procurou diversas organizações ambientalistas e descobriu que eles não poderiam respondê-lo ou sequer atendê-lo (Greenpeace) a respeito do uso indiscriminado da agropecuária.
-
-Formando uma coletânea de opiniões de diferentes pessoas orbitando o assunto sobre o que fazer, durante um longo processo em que finalmente o autor se dá conta que o mundo ambientalista não é mais tão sincero quanto ele acreditava na infância, quando assistiu o documentário de Al Gore, Cowspiracy obviamente exagera no seu tom dramático, e isso diminui sua eficácia. No entanto, suas informações, se corretas, são úteis para qualquer ser humano que repense a todo momento o que poderia estar fazendo para tornar um mundo um lugar menos propenso a caminhar para um fim próximo.
-
-Essas opiniões geralmente divergem entre si, mas todas acreditam que proibir, taxar e etc seria a solução. Menos quando o filme encontra dados realmente relevantes a respeito de quanto do custo de produção de carne é subsidiada pelos governos, e a quantidade massiva de lobby que existe na política para que isso continue como está. Isso sem contar o número anormal de assassinatos de ativistas em lugares menos desenvolvidos como o Brasil. Se há um pouco de libertarianismo nesse filme, ele fica por conta de uns 10 minutos em algum lugar da história.
-
-Com tantos problemas envolvendo não apenas instituições feitas para proteger o ecossistema do planeta, mas também produtores alternativos de alimento, o filme tenta terminar com uma mensagem de esperança apontando para o modo de vida vegano. Pelo menos seus argumentos são honestos, e isso é uma coisa. Porém, radicalizar de repente acaba por criar uma sugestão de mudança de comportamento que para a maioria dos espectadores irá soar radical demais. Infelizmente, é aí que muitos irão parar de se importar.
-
----
-categories: []
-date: 2017-09-26 10:21:02-03:00
+categories:
+- coding
+date: '2020-06-21'
+link: https://en.cppreference.com/w/cpp/language/coroutines
 tags:
 - ccpp
-title: C++ Moderno Arranca os Cabelos por Você (std::move e classes simples).
+title: C++ Co Routines
+---
+
+Entre os gêneros mais famosos do cinema e da programação está o terror, esse estado mental que se caracteriza pelo medo ou pela aversão a uma situação que envolve a perda de controle. Nesse quesito se encaixam as novas corrotinas que serão adotadas pelo padrão C++.
+
+No último Caloni Bode Cast Live Privado, aqueles que não estão publicados no YouTube, conversei com um amigo por mais uma vez (já perdi a conta quantas foram) sobre a famigerada implementação, mas acho que dessa vez detectei melhor o que torna essa nova biblioteca de C++ tão repugnante para os amantes de boas soluções de engenharia e do padrão da linguagem.
+
+A primeira ressalva diz respeito à alocação dinâmica. Ao usar esse modelo de rotinas cooperativas o programador é obrigado a alocar espaço para o estado dinamicamente, o que fere duas premissas da linguagem: o controle absoluto do modelo de execução para o programador e a certeza que ele irá apenas pagar em performance o que ele usar. Se os fãs da linguagem fossem religiosos, eles diriam agora que esta não foi uma decisão muito cristã do comitê.
+
+Eu continuo defendendo que a linguagem C seja usada caso surjam contra-indicações na prática da STL.
+

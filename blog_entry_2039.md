@@ -1,20 +1,16 @@
 ---
 categories:
 - writting
-date: '2015-06-21'
-link: https://www.imdb.com/title/tt3263614
+date: '2011-06-12'
+link: https://www.imdb.com/title/tt1302011
 tags:
 - movies
-title: Kumiko, a Caçadora de Tesouros
+title: Kung Fu Panda 2
 ---
 
-Kumiko é uma fábula criada a partir de uma história real (ou pelo menos levemente inspirada em uma pessoa). Embalando uma história impossível em torno de um outro filme sobre uma história impossível (e, este também, baseado em uma história real), Kumiko é uma experiência entusiasmada, embora na maioria das vezes, não tenha lá seus motivos.
+A continuação das aventuras de Po, agora o Dragão Guerreiro, e os cinco furiosos, contém em sua essência os mesmos elementos que fizeram do original um sucesso como filme: as piadas irreverentes em torno da figura de um panda lutando Kung Fu (e Po é um personagem irreverente não apenas por natureza, mas em sua própria concepção de personalidade divertida), as sequências de luta orquestradas pela animada trilha sonora (que aqui já se torna um pouco mais confusa, e desafina um pouco se revermos o primeiro filme) e os primorosos efeitos visuais, que aqui ainda contém o interessante efeito da água no pelo de Po.
 
-Dirigido por David Zellner (que participa do filme) e co-escrito com seu parente (irmão?), a história gira em torno da Kumiko do título, uma garota insegura que trabalha em um emprego que não gosta e que tem todos em sua volta constantemente a assediando para que ela se ajuste ao padrão do que se espera daquela sociedade de uma mulher em sua idade. Estamos no Japão, então isso faz muito sentido, e o que torna Kumiko um tanto mais heroica (transgredir as regras sociais no Japão, para uma mulher, com certeza é heroico, ainda que nos tempos atuais).
+O que move os personagens nessa sequência é mais um vilão que tenta acabar com a China e com o Kung Fu, o que torna a motivação dos heróis repetitiva e confusa (novamente, como eles vão acabar com o Kung Fu, mesmo?). É lógico que um adulto consegue entender o impacto que as armas de fogo tiveram sobre a arte das lutas corpo a corpo, porém essa dedução sequer aparece na história de maneira explícita, ofuscando um pouco a motivação de tudo aquilo.
 
-Quando Kumiko encontra uma fita VHS antiga enterrada em uma caverna na praia contendo o filme Fargo (sim, aquele dirigido pelos irmãos Coen), ela pensa ter encontrado um mapa para o tesouro: o lugar onde o personagem de Steve Buscemi no filme enterra o dinheiro do sequestro que deu errado. A partir daí a vemos planejar passo-a-passo seu objetivo. Bom, na verdade, mais ou menos. Sua rotina e sua vida solitária é mais o foco aqui, e como pessoas libertas das convenções sociais, ainda que notadamente malucas, são vistas com maus olhos.
-
-Plasticamente um belo filme, com uma fotografia limpa e com o tema vermelho impregnando a tela, "Kumiko" é um filme tecnicamente irrepreensível, embora não tenha nenhuma ambição mais do que entregar a jornada da nossa heroína quase como uma conquistadora espanhola. Brincando com o destino real da garota (na vida real, ela se matou), alguns detalhes da japonesa em carne e osso são transmitidos mais como metáforas, e até a posição do diretor como um personagem que faz de tudo para ajudá-la é metalinguístico.
-
-Contudo, como mensagem, assim como muitos filmes que se espelham em um acontecimento do noticiário, é vazio, o que se torna um pouco decepcionante. Ainda assim, mesmo não sendo um grande filme, Kumiko merece mil vezes mais ser assistido por ousar diferente, do que tantos filmes igualmente medíocres, mas sem qualquer traço artístico que se destaque das aventuras formulaicas que estamos acostumados a assistir. Só por isso já valeria uma visita.
+Com um trabalho criativo em alguns detalhes da trama (como a forma encontrada pelos guerreiros para fazer com que o Panda também "voasse" em direção aos inimigos), e piadas irreverentes de Po, o longa consegue divertir de forma inquestionável. Porém, com a falta de uma narrativa coesa o suficiente para imprimir em sua conclusão o conhecido arquétipo de lição de moral (modelo já utilizado no primeiro filme), o trabalho todo acaba perdendo peso significativo em seu final. Isso, contudo, não impede que algumas sequências sejam emocionantes pelo simples fato de serem emocionantes.
 

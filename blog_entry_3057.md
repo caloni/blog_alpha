@@ -1,24 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-01-22'
-link: https://www.imdb.com/title/tt0449059
+date: '2016-01-15'
+link: https://www.imdb.com/title/tt3659388
 tags:
 - movies
-title: Pequena Miss Sunshine
+title: Perdido em Marte
 ---
 
-Na época o que mais havia eram filmes independentes sobre famílias disfuncionais. Isso virou um sub-gênero que até hoje é a base de muitos trabalhos, autorais ou não. Porém, Pequena Miss Sunshine aproveita este tema para desenvolver uma crítica ácida e bem-humorada sobre a cultura norte-americana, que divide a sociedade em vencedores e perdedores. Este filme celebra o fracasso não como um ato subversivo, mas como uma forma de dizer que vencer pode ser alguma coisa na vida que não necessariamente ganhar um troféu.
+Esse é um filme para nerds e hackers no seu sentido mais puro. Ele envolve pessoas usando todo seu conhecimento para resolver um problema de vida ou morte. Como consequência, é um exemplo do que todo grande cientista faz ao longo de sua carreira, só que espremido em um filme de ação, drama e comédia de pouco mais de duas horas. Ele é intenso e realista; como sci-fi, encontra maneiras criativas de evitar muitos tropeços científicos, e os que comete são pelo bem na narrativa.
 
-A história gira em torno do personagem da ainda jovem Abigail Breslin, que foi indicada ao Oscar pela sua atuação natural de Olive, uma garota empolgada com os concursos de Miss e que ganha uma vaga em um concurso estadual. Isso exige a presença de todos em uma viagem dentro de uma kombi: o avô expulso do asilo, o pai vendedor de curso de auto-ajuda, o tio gay que acabou de tentar suicídio, e o irmão obcecado em largar aquela família disfuncional o mais rápido possível.
+Tudo começa em uma tempestade em marte, durante uma missão com humanos. Acreditando que o astronauta Mark Watney (Matt Damon) foi morto em um acidente durante a evacuação do planeta, a tripulação decide abandonar as chances de resgatá-lo. No entanto, Mark está vivo e passa bem, com o detalhe que agora ele possui um mês de suprimentos de sobrevivência, bem menos que os quatro anos de tempo para que uma nova missão tripulada fosse enviada e o salvasse. Matt Damon então mantém seus melhores momentos na primeira meia-hora do filme, mantendo seus registro em vídeo e explicando como decidiu não morrer e irá utilizar todos seus conhecimentos de botânica e ciência para sobreviver o tempo necessário para seu resgate.
 
-A primeira coisa que impressiona no filme é a maneira que o roteirista Michael Arndt faz para que tematicamente entendamos que aquela família é obrigada a permanecer junta, esquecendo todas suas diferença. O carro deles quebra, exibindo que para conseguir dar a partida todos empurrem o carro e entrem nele em movimento. Aqui entram os enquadramentos belíssimos da dupla de diretores Jonathan Dayton e Valerie Faris, que não precisa muito dos diálogos de Arndt para explicar como aquelas figuras acabam sendo um microcosmos que exemplifica a vida em sociedade.
+Dirigido por Ridley Scott e escrito por Drew Goddard baseado no livro de Andy Weir, Perdido em Marte é um pequeno milagre do gênero. Ao apresentar tantos personagens diferentes interagindo em camadas que partem da mais básica sobrevivência humana (Mark) até os meandros da política internacional (NASA, China) o filme consegue estabelecer a tensão envolvendo pequenas decisões no grande conflito do filme: realizar um resgate de emergência em tempo recorde.
 
-Porém, ainda assim, são os diálogos e as situações engendradas no filme que conseguem abrir espaço para atuações memoráveis de Paul Dano, Abigail Breslin, Toni Collette, Steve Carell (que mostra sua competência no drama) e Alan Arkin, que se despe de boa parte de sua persona para criar uma figura surreal e ainda assim completamente palpável: um velho que não dá a mínima para onde está, desde que esteja com sua heroína e sua liberdade. E, como um gesto para as próximas gerações, ensina secretamente a sua neta a se livrar das amarras opressivas das opiniões dos outros.
+O mais impressionante, contudo, é que nada que acontece no filme é gratuito ou soa forçado. Partindo de sua premissa e desenvolvendo a história em torno, os acontecimentos mais trágicos no dia-a-dia de Mark poderiam muito bem ocorrer, e as decisões de mais alto escalão fazendo sentido do ponto de vista de uma organização que justamente por depender de dinheiro público, precisa ser justificado pela pressão pública. Do ponto de vista dos cientistas, é fascinante acompanhar seus esforços intelectuais em resolver um dos maiores desafios apresentados pela humanidade desde então. Ou pelo menos o desafio com menor tempo para a resposta.
 
-Há cenas memoráveis até hoje, como a do sorvete de chocolate e do daltonismo. São esses momentos que garantem o sucesso no tempo deste filme de mais de 10 anos atrás e que permanece intacto. Porém, ele merece ser assistido em sua totalidade, sem pausas, para que sintamos toda a tensão e o estresse da situação, para que se justifique cada medida desesperada da família.
+Apresentando-nos uma fotografia absolutamente deslumbrante, o trabalho de Dariusz Wolski (A Travessia) em conjunto com Ridley Scott consegue entregar cenários e transições poéticas do planeta vermelho, o que combinado com a edição de Pietro Scalia se torna um trabalho ambicioso e preciso, unindo dois mundos separados por 750 milhões de quilômetros trabalhando juntos por um objetivo em comum, com um dinamismo e fluidez exemplares.
 
-(Ah, de quebra, surgem pontas de Bryan Cranston e Dean Norris, que serão cunhados na série Breaking Bad. É um passatempo para quem ainda não assistiu descobrir onde eles irão aparecer.)
-
-Pequena Miss Sunshine não deixa de ser um filme indie sobre uma família disfuncional, mas faz isso carregando na bagagem um tema sensível à cultura americana, e o desconstruindo aos poucos. Pode não ser tão sutil, pode não ser tão completo, mas é sucinto e visualmente arrebatador.
+Conseguindo entregar também um elenco de luxo estabelecendo cada um sua função à sua maneira, Perdido em Marte é um trabalho não apenas tecnicamente perfeito, mas humanamente evocativo. Não se trata de um filme-catástrofe que tenta salvar a Terra de um meteoro que irá atingi-la. É justamente o contrário: toda a humanidade e suas melhores cabeças trabalhando juntos para o resgate de um ser humano perdido em um planeta inóspito. Acho que desde Contato (Zemeckis, 1997) não me sentia tão excitado pela capacidade humana através da ciência.
 

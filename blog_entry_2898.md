@@ -1,18 +1,14 @@
 ---
 categories:
 - writting
-date: '2012-03-04'
-link: https://www.imdb.com/title/tt0088930
+date: '2020-10-18'
+link: https://www.imdb.com/title/tt0101317
 tags:
 - movies
-title: Os 7 Suspeitos
+title: Os Amantes
 ---
 
-Já faz algumas décadas que não revia essa comédia ambientada nos anos 50 que mistura elementos de suspense, terror e policial de uma maneira particularmente competente. De certa forma, quando eu tinha cerca de 10 anos já sabia que a graça do filme residia tanto em sua história quanto na dinâmica do grupo, os suspeitos do título.
+Esta novela baseada em um evento real nos faz rir pelo exagero da abordagem. São amantes, a namorada é pura e virgem, mas aceita ser maculada para conquistar seu amor. O roteiro martela o que irá acontecer nos momentos finais e a sequência final é a mais bela de todas, onde acompanhamos todos os passos de uma nevasca até a chuva final. Maribel Verdú e Jorge Sanz contracenariam cenas picantes novamente no ano seguinte no muito melhor [Sedução], mas aqui ficou uma mistura sonolenta entre traição, desejo e luxúria. O objetivo do cineasta Vicente Aranda foi justamente esse, mas por um caminho que lembra mais telenovelas do que o drama de substância que o filme se propõe a narrar.
 
-Algumas piadas, é verdade, estão datadas, e muito dos comportamentos dos personagens podem gerar estranheza. Porém, a dinâmica entre os atores continua lá, e funciona, assim como a direção ágil e cheia de energia de Jonathan Lynn, que consegue, por exemplo, trocar a ambientação da casa para aterrorizante em um determinado momento do longa apenas para as gags que ocorrem quando o grupo resolve se separar em duplas para averiguar os aposentos da casa. Da mesma forma, quando o mordomo começa suas explicações, é nítido que os cortes ficam mais rápidos e fluidos. Para isso temos uma ajuda primordial da trilha sonora, que brinca com o aspecto "fanfarrão" do longa assim como a direção de arte e o figurino.
-
-Hoje em dia poderia constar como uma comédia bobinha dos anos 80 para muito dos jovens cinéfilos, mas o fato é que dirigir um filme naquela época e ainda hoje continuar com a maioria das piadas praticamente intactas é um privilégio de poucos (vide [Mulher Nota Mil] e outra cópias da época). Nesse sentido, temos uma pequena aula de como dirigir comédias pastelão.
-
-[Mulher Nota Mil]: {{< relref "mulher-nota-mil" >}}
+[Sedução]: {{< relref "seducao" >}}
 

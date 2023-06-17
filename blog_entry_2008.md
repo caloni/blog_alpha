@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2016-01-30'
-link: https://www.imdb.com/title/tt0048545
+date: '2010-08-27'
+link: https://www.imdb.com/title/tt1155076
 tags:
 - movies
-title: Juventude Transviada
+title: Karate Kid
 ---
 
-James Dean ficou conhecido como o ícone de uma geração. Morreu jovem, o que só ajudou a fortalecer a lenda. Fez no total três filmes para Cinema (esse estreou no ano de sua morte). Em Rebelde sem Causa -- ou Juventude Transviada -- ele faz um jovem mimado da classe média americana que arruma confusão em todos os lugares que passa. O filme começa com todos o paparicando: o delegado de polícia, seus pais, sua avó. Na própria delegacia ele já conhece seu melhor amigo, que tem uma forte carência paternal e instabilidade emocional, e seu par romântico, a "rebelde" Y, que também possui problemas com o pai, que evita beijos na boca de sua filha de 16 anos por considerar inapropriado. Olhando para ela e seus lábios pintados escandalosamente de vermelho, quem poderia culpá-lo?
+Esse é praticamente um remake do original, só que em vez de caratê, como o nome supõe, a luta do filme é o kung-fu, onde o mestre é nada mais nada menos que Jackie Chan, o Sr. Han, que irá treinar Jaden Smith, o filho de Will, para se preparar para o torneio de Kung Fue se livrar das perseguições da escola.
 
-Ela anda com uma gangue da pesada, que faz atividades como roubo de carros porque... bem, como alguém diz no filme, "você precisa fazer alguma coisa". Dean parece se sentir confortável em seu papel de um jovem quase 10 anos mais jovem que ele e participa de uma briga de facas com o líder da gangue quase insinuando um rito de iniciação. E também por causa do que lhe tem causado problemas: ele odeia ser chamado de covarde, porque isso lhe faz lembrar de seu pai molenga que sempre cede à esposa, pai este que jurou que nunca se tornaria, apesar de ser igualmente doce como ele, embora impulsivo como a mãe.
+Interessante como o filme aponta a modernização e crescimento da China, quando Dre, o personagem de Jaden Smith, afirma ver que na China só tem coisas velhas, e logo quando chegam à Pequim veem a cidade olímpica recém-construída. Hoje esse resultado já fica um pouco datado.
 
-Essa é uma sociedade doentia, onde não há lado certo. Os personagens são tão bem construídos que fica difícil perceber que se trata de um filme, e não de um documentário da época. Como "todo filme é um documentário de sua época", como dizia a crítica de cinema Pauline Kael, esse filme pode ser considerado um dos melhores dessa década. Não só isso, mas encontraremos forte inspiração nos anos 80 e nos filmes adolescentes de John Hughes (Curtindo a Vida Adoidado, Clube dos Cinco), que, contrariando o senso comum, não trata os adolescentes como idiotas.
+Este é um filme sobre amadurecimento (ou deveria ser) e no início vemos marcas do passado do garoto, como as que são feitas parar apontar sua altura conforme vai crescendo. E a última marca no batente da porta é quando eles se mudam para a China.
 
-PS: Em tempo. A trilha sonora encomendada pela Warner Bros serve os propósitos da época, mas quase que estraga um filme maravilhoso tentando se sobressair ao que vemos na tela. Tente ignorar a música imponente e totalmente deslocada.
+Jackie Chan continua divertindo com suas cenas de luta, mas infelizmente vemos apenas uma, quando ele defende o menino de ser atacado por meia-dúzia de colegas de escola. Porém, aqui o modo de andar do Sr. Han demonstra que Chan busca criar um personagem com mais dimensões que seus filmes de ação costumam ter, e se sai razoavelmente bem, como podemos notar na cena em que ele revela o que aconteceu com sua família.
+
+O estilo das lutas finais assume uma caricatura de videogame, com os pontos sendo contados em um telão no estilo jogos de luta, talvez para tentar amenizar a violência com as "crianças" como protagonistas. Ainda assim, eu diria que "Karate Kid versão 2010" impressiona mais pelo seu aspecto gráfico do que temático.
 

@@ -1,24 +1,140 @@
 ---
 categories:
-- writting
-date: '2016-10-16'
-link: https://www.imdb.com/title/tt0082971
+- coding
+date: '2008-02-15'
 tags:
-- movies
-title: Os Caçadores da Arca Perdida
+- ccpp
+title: Os diferentes erros na linguagem C
 ---
 
-Este é um filme clássico de aventuras. Ele transforma o personagem James Bond em um arqueólogo e que continua sendo, nos moldes tradicionais, um homem de verdade. Ele mata quando preciso, e as mortes acontecem de verdade -- com sangue e tiros. Indiana Jones está disposto a arriscar a vida pelo que acredita. Ele é durão em um filme que ri dos clichês sérios. Ele contém um tema musical inesquecível e uma trilha sonora que se confunde com Star Wars, outro filme estrelado por Harrison Ford na mesma época (e ambos compostos pelo músico John Williams).
+Uma coisa que me espanta de vez em quando é o total desconhecimento por programadores mais ou menos experientes dos níveis de erros que podem ocorrer em um fonte escrito em C ou C++. Desconheço o motivo, mas desconfio que o fato de outras linguagens não terem essa divisão de processos pode causar alguma nivelação entre as linguagens e fazer pensar que o processo de compilação em C é como em qualquer outra linguagem.
 
-A história está envolta pela lenda do Dr. Jones, um professor em uma universidade conceituada que além de todo seu arcabouço teórico sai a campo em busca de tesouros escondidos no melhor estilo Tomb Raider (aliás, este videogame emula em muito os filmes do herói), onde há armadilhas instaladas por povos antigos, quase sempre disparadas por alavancas ou o poder do sol. A história também está envolta dos nazistas, pois ela se passa na época da segunda guerra. Hitler é obcecado por religião e busca encontrar a arca de aliança entre Deus e os hebreus, onde estão as tábuas dos dez mandamentos originais. Ter uma ponte de comunicação com Deus seria a chave da vitória para os alemães. O filme é envolto em uma realidade em que, nos mesmos moldes de Dan Brown, contém boa parte de história real, mas diferente deste, vai até as últimas consequências, sejam elas sobrenaturais ou não.
+Porém, para começar, só de falarmos em compilação já estamos pegando apenas um pedaço do todo, que é a geração de um programa executável em C. Tradicionalmente, dividimos esse processo em três passos:
 
-Há uma linda moça para o herói, Marion, a estonteante Karen Allen, e que aqui gerencia um bar no Nepal que pertencia ao seu pai. Ela é jovem e era o interesse quase-pedófilo de Jones em um passado distante. Hoje vira sócia e par amoroso. Ela contém o carisma e o timing cômico melhor que Harrison Ford, mas ninguém consegue vencer do sorriso de lado deste herói bonachão que está alheio ao fato de estar em um filme de aventuras arqueológicas.
+  1. Preprocessamento
+  2. Compilação
+  3. Linkedição
 
-Aliás, este é um herói tão controverso que várias pessoas lhe salvam a vida durante o filme, seja com um tiro, uma hélice, ou até segurando uma tâmara no momento final, demonstrando sua fraqueza sozinho e sua força quando rodeado de amigos.
+Vamos dar uma olhada mais de perto em cada um deles e descobrir erros típicos de cada processo.
 
-O roteiro de Lawrence Kasdan (O Retorno de Jedi), baseado em história de George Lucas e Philip Kaufman, mantém impressionantemente suas pontas ligadas em torno de uma história simples, mas que sempre consegue levar o espectador adiante. Detalhes como tâmaras envenenadas, truques com cestos, antessalas temperadas com serpentes e uma perseguição de carros/caminhão que vai além do convencional são inseridas da maneira mais natural possível, e é justamente quando a realidade encontra a fantasia deste gênero que o filme se torna cada vez melhor.
+O preprocessamento é especificado pelos padrões C e C++, mas, tecnicamente, não faz parte da linguagem. Ou seja, antes que qualquer regra de sintaxe seja verificada no código-fonte, o preprocessamento já terá terminado.
 
-Aliás, é preciso elogiar a energia com que Steven Spielberg, o diretor, consegue nos conduzir por diferentes cenários e situações, além de através de seu editor, Michael Kahn (auxiliado por Lucas), nunca nos fazer perder o fio da meada, ou nos fazer perder de maneira proposital. A sequência dos cestos, onde há diferentes corredores em um lugar de comércio labiríntico é particularmente eficiente nesse ponto, pois nos faz perder o senso de direção enquanto consegue continuar a perseguição (e nós sabemos onde estão os bandidos e onde está o mocinho e a donzela, apesar de não muito certos). Ao mesmo tempo, a perseguição do caminhão é o ponto máximo do filme, onde a trilha sonora (e seu tema) ecoam mais forte porque é aí que reside boa parte do poder do personagem. A destreza de Indiana Jones combinada com sua força de vontade conseguem o milagre de tornar uma sequência relativamente realista em um nível de tensão que nenhum dos filmes Velozes e Furiosos ainda conseguiu. Isso porque, diferente da franquia de carros turbinados, aqui importam os personagens, e não os efeitos.
+Essa parte do processo lida com substituição de texto e diretivas baseadas em arquivos e símbolos. Por exemplo, a diretiva de preprocessamento mais conhecida
 
-E por falar em efeitos, o terceiro ato é sucinto e eficaz utilizando efeitos ainda convincentes e que remetem a tudo que foi dito a respeito da tal arca. Pode soar um deux ex machina, mas mesmo que soe, faz parte da história. Melhor mesmo, só a volta para as salas imponentes da universidade e a parceria com os representantes do governo -- que, aliás, lembram muito os investigadores de As Aventuras de TinTim pela sua incompetência, um filme recente de Spielberg -- demonstrando um final realista e, por isso mesmo, desapontador. A aventura, como vista no filme, permanece na força individual de seus heróis, e nunca na pesada mão do coletivo.
+    #include <stdio.h>
+
+faz com que todo o conteúdo do arquivo especificado seja incluído exatamente no ponto onde for colocada essa diretiva. Isso quer dizer que, antes sequer do código-fonte ser compilado, todo o conteúdo desse header padrão estará no corpo do arquivo C.
+
+Para evitar que o mesmo header seja incluído inúmeras vezes dentro da mesma unidade em C, causando assim erros de redefinição, existe outra diretiva muito usada para cercar esses arquivos públicos:
+
+    #ifndef __MEUHEADER__ // se já estiver definido, caio fora até endif
+    #define __MEUHEADER__
+    
+    // conteúdo do header
+    
+    #endif // __MEUHEADER__
+
+Esse conjunto de duas diretivas, por si só, é capaz de gerar os mais criativos e bizarros erros de compilação em C. E estamos falando de erros que ocorrem antes que sequer seja iniciado o processo de compilação propriamente dito. Obviamente que os erros serão capturados durante a compilação, mas o motivo deles terem ocorrido foi um erro decorrente do processo de preprocessamento. Por exemplo, vamos supor que um determinado fonte necessita de uma declaração de função contida em meuheader.h:
+
+    #include "header-do-mal.h"
+    #include "meuheader.h"
+    
+    int func()
+    {
+       meuheaderFunc();
+    }
+
+Porém, num daqueles acasos da natureza, o header-do-mal.h define justamente o que não poderia definir jamais (obs.: e isso pode muito bem acontecer na vida real, se usamos definições muito comuns):
+
+    #ifndef __HEADERDOMAL__
+    #define __HEADERDOMAL__
+    
+     // tirei header da jogada, huahuahua (risos maléficos)
+    #define __MEUHEADER__
+    
+    #endif // __HEADERDOMAL__
+
+Na hora do preprocessamento, o preprocessador não irá mais incluir o conteúdo dentro de header.h:
+
+    #ifndef __MEUHEADER__ // se já estiver definido, caio fora até endif
+    #define __MEUHEADER__
+    
+    int meuheaderFunc(); // talvez alguém precise disso
+    
+    #endif // __MEUHEADER__
+
+Conseqüentemente, durante a compilação do código-fonte já preprocessado, sem a declaração da função meuheaderFunc, irá ocorrer o seguinte erro:
+
+    error C3861: 'meuheaderFunc': identifier not found
+
+Isso em fontes pequenos é facilmente identificável. Em fontes maiores, é preciso ter um pouco mais de cuidado.
+
+Após o processo de preprocessamento, de todos os arquivos indicados terem sido incluídos, de todas as macros terem sido substituídas, todas as constantes colocadas literalmente no código-fonte, temos  o que é chamado unidade de compilação, que será entregue ao compilador, que, por sua vez, irá começar a análise sintática de fato, descobrindo novos erros que podem ou não (como vimos) ter a ver com a fase anterior. A figura abaixo ilustra esse processo, com algumas trocas conhecidas:
+
+{{< image src="preprocessor.gif" caption="Preprocessor" >}}
+
+Dica: quando o bicho estiver pegando, e tudo o que você sabe sobre linguagem C não estiver te ajudando a resolver um problema, tente gerar uma unidade de compilação em C e analisar sua saída. Às vezes o que é claro no código pode se tornar obscuro após o preprocessamento. Para fazer isso no VC++ em linha de comando, use o parâmetro /E.
+
+Se você conseguir passar ileso para a fase de compilação, pode se considerar um mestre do preprocessamento.  Por experiência própria, posso afirmar que a maior parte do tempo gasto corrigindo erros de compilação, por ironia do destino, não terá origem na compilação em si, mas no preprocessamento e linkedição. Isso porque o preprocessamento confunde muito o que vimos no nosso editor preferido, e a linkedição ocorre em uma fase onde não importa mais o que está dentro das funções, mas sim o escopo de nomes, um assunto um pouco mais vago do que a linguagem C.
+
+Na compilação você irá encontrar geralmente erros bem comportados, como conversão entre tipos, else sem if e esquecimento de pontuação ou parênteses.
+
+    int cannotConvertError(const char* message)
+    {
+    	int ret = message[0];
+    	return ret;
+    }
+    
+    int ret = cannotConvertError(3);
+    
+    error C2664: 'cannotConvertError' : cannot convert parameter 1 from 'int' to 'const char *'
+
+    if( test() )
+    	something;
+    	something-else;
+    else
+    	else-something;
+
+    error C2181: illegal else without matching if
+
+    while( (x < z) && func(x, func2(y) != 2 )
+    {
+    	something;
+    }
+
+    error C2143: syntax error : missing ')' before '{'
+
+Claro, não estamos falando de erros relacionados a templates, que são um pesadelo à parte.
+
+Dica: nunca subestime o poder de informação do compilador e da sua documentação. Se o erro tem um código (geralmente tem), procure a documentação sobre o código de erro específico, para ter uma idéia de por que esse erro costuma ocorrer, exemplos de código com esse erro e possíveis soluções. Ficar batendo a cabeça não vai ajudar em nada, e com o tempo, você irá ficar sabendo rapidamente o que aconteceu.
+
+Chegando na linkedição, onde a esperança reside, tudo pode vir por água abaixo. Isso porque você já espera confiante que tudo dê certo, quando, na verdade, um erro bem colocado pode fazer você desistir pra sempre desse negócio de programar em C.
+
+As características mais desejadas para corrigir erros nessa fase são:
+
+  1. Total conhecimento da fase do preprocessamento
+  2. Total conhecimento da fase da compilação
+  3. Total conhecimento de níveis de escopo e assinatura de funções
+
+Os dois primeiros itens são uma maldição previsível que deve-se carregar para todo o sempre. Se você não consegue entender o que aconteceu nas duas primeiras fases, dificilmente irá conseguir seguir adiante com essa empreitada. O terceiro item significa que deve-se levar em conta as bibliotecas que estamos usando, headers externos (com dependências externas), conflitos entre nomes, etc.
+
+Alguns erros mais encontrados aqui são as funções não encontradas por falta da LIB certa ou por LIBs desatualizadas que não se encaixam mais com o projeto, fruto de muitas dores de cabeça de manutenção de código. Essa é a parte em que mais vale a pena saber organizar e definir uma interface clara entre os componentes de um projeto.
+
+Do ponto de vista técnico, é a fase onde o linker junta todos os arquivos-objeto especificados, encontra as funções, métodos e classes necessárias e monta uma unidade executável, como ilustrado pela figura abaixo.
+
+{{< image src="linker.gif" caption="Linker" >}}
+
+Dica: uma LIB, ou biblioteca, nada mais é que uma coleção de arquivos-objeto que já foram compilados, ou seja, já passaram pelas duas primeiras fases, mas ainda não foram linkeditados. Muitas vezes é importante manter compatibilidade entre LIBs e os projetos que as usam, de forma que o processo de linkedição ocorra da maneira menos dolorosa possível.
+
+É óbvio que, por ter passado pelas três fases de transformação de um código-fonte em um programa executável, não quer dizer que este programa está livre de erros. Os famigerados erros de lógica podem se disfarçar até o último momento da compilação e só se mostrarem quando o código estiver rodando (de preferência, no cliente).
+
+Entre esses erros, os mais comuns costumam se aproveitar de macros, como max, que usa mais de uma vez o parâmetro, que pode ser uma chamada com uma função. A função será chamada duas vezes, mesmo que aparentemente no código a chamada seja feita uma única vez:
+
+    #define max(a, b) ( a > b ? a : b )
+    
+    int z = max( func(10), 30 );
+
+Um outro erro que já encontrei algumas vezes é quando a definição de uma classe tem um sizeof diferente do compilado em sua LIB, pela exclusão ou adição de novos membros. Isso pode (vai) fazer com que, durante a execução, a pilha seja corrompida, membros diferentes sejam acessados, entre outras traquinagens. Esses erros costumam acusar a falta de sincronismo entre os headers usados e suas reais implementações.
+
+Enfim, na vida real, é impossível catalogar todos os erros que podem ocorrer em um fonte em C. Se isso fosse possível, ou não existiriam bugs, ou pelo menos existiria uma ferramenta para automaticamente procurar por esses erros e corrigi-los. Bom, existe o Lint.
 

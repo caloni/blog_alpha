@@ -1,14 +1,20 @@
 ---
 
-Uma tragédia anunciada com todo o ritmo que isso exige. Este é o filme mais caprichado desde Azkhaban. A fotografia é densa, possui a textura do livro e de um épico, vários quadros inesquecíveis pela beleza. Sentimos o livro sendo aberto e lido com os visuais estonteantes e significativos na trama. São tempos sombrios na escola de Hogwarts, e aprendemos isso pelos nossos sentidos, não por diálogos.
+É difícil saber o que esperar dessa série de humor da Netflix. Ela oferece personagens que são sobrenaturalmente estúpidos. Mas, ao mesmo tempo, é tentador entender a mente de pessoas tão estúpidas interagindo, especialmente se essas pessoas possuem uma visão tão fechada sobre o mundo e pretendem ganhá-lo, elevando à fama a garota mais mimada da casa: Miranda Sings (o nome veios antes da fama, para saberem que o que ela faz no YouTube é cantar). Se os personagens são estúpidos, e alguns deles possuem atuações dignas de nota, eu arrisco dizer que nada disso é relevante se você não olhar para o desempenho de Colleen Ballinger e constatar: esse projeto nasceu nessa performance. Quer dizer... o que é isso?
 
-Segundo filme do diretor David Yates na saga, ele aprende a controlar o universo que tem em mãos e nos entrega o trabalho mais maduro até então, conseguindo um trabalho que flui pelos eventos como se todos eles de fato importassem, e não apenas como enchimento de linguiça. Soma-se o fato que estamos acostumados com os personagens, e uma nova aventura com Harry, Hermione e Ron é sempre bem-vinda.
+Ballinger consegue entonar seu nariz ao nível do ridículo sem soar exagerada além do que seu personagem propõe. Isso porque Miranda Sings é realmente idiota, não possui talento nem carisma. Mas possui algo que dizem que leva qualquer pessoa ao sucesso: força de vontade. Ela, assim como seu estúpido tio, acreditam em uma série de passos que irá levar Miranda aos holofotes mais potentes. E o primeiro passo, naturalmente, é gravar um vídeo e publicá-lo no YouTube.
+
+A direção mista de Andrew Gaynord e Todd Rohal criam um ambiente igualmente surreal, onde a cidadezinha lembra lugares de outros filmes, como Edward Mãos de Tesoura, Mulheres Perfeitas, O Show de Truman, e ao mesmo tempo possui seu charme particular: as pessoas não percebem quando outras são perigosamente estúpidas. Ou não ligam. Quer dizer, até o funcionário de uma loja de peixes fritar todos eles com luz artificial.
+
+O nível de gags da gangue de roteiristas oscila entre o simples idiota de um episódio de Chaves até o ligeiramente brilhante. É difícil saber o que virá em seguida. E parece que ambos os extremos costumam funcionar. Os que não funcionam não chegam a representar um perigo para a série, já que ela é composta -- já comentei isso? -- por personagens realmente estúpidos.
+
+A única coisa que costuma incomodar am Haters Back Off! -- quem diria -- é quando seu roteiro é inteligente o suficiente para gerar a dúvida se aquelas pessoas são verdadeiramente idiotas ou estão apenas fingindo. E isso você verá muito pouco. Portanto, se assistiu um episódio ou dois, fica minha sugestão: dê mais uns 50% de chance para Miranda Sings. Ela pode tocar seu coração ou até outro órgão. E, com certeza, nunca seu cérebro.
 
 ---
 categories:
 - writting
-date: '2019-12-27T18:22:00-03:00'
-link: https://www.imdb.com/title/tt0304141
+date: '2016-10-31'
+link: https://www.imdb.com/title/tt1121024
 tags:
 - movies
-title: Harry Potter e o Prisioneiro de Azkaban
+title: Haymatloz - Exílio na Turquia

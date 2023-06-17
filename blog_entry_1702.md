@@ -1,15 +1,11 @@
 ---
 categories:
-- coding
-date: '2020-03-22'
-title: Git Subtree
+- writting
+date: '2019-05-06'
+tags:
+- wine
+title: Gloria Cota Cosecha Tardia 2014
 ---
 
-É a segunda vez que uso subtrees no Git. Não é algo que me acostumei usar por rotina, mas é uma técnica que eu recomendo que todo programador conheça para unir repositórios que não dependa dos pesadelos de configurar submodules.
-
-Há vários tutoriais na internet sobre seu uso (como o da Atlasian), além do próprio manual do Git e sua ajuda. Só quero enfatizar neste post que ele existe, é fácil de usar, e pode resolver alguns problemas de gerenciamento de projeto:
-
- - Unir repositórios que foram separados em algum momento ou que nasceram separados.
- - Unir dependências que não estão online, mas que precisam estar caminhando em paralelo.
- - Compor árvores de histórico distintas e não se preocupar muito de onde elas vieram (exceto quando for necessário juntar de novo, e nesse caso o commit que as une possui algumas informações).
+É de uma vinícola de Mendoza e de uma uva desconhecida. Como toda colheita tardia, doce. Talvez por ter passado tanto tempo, apenas doce, mesmo. Um levíssimo gosto alcoólico (que se mistura do levíssimo amargo), mas continua com seus 13.5% e sobe rápido. Beber com queijo ou doces não muito doces.
 

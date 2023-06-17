@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-11-05'
+date: '2019-07-01'
 tags:
 - beer
-title: Invicta Saison
+title: IPA Gorillaz
 ---
 
-Tem aroma de coentro e não é soco no estômago como todas as Invictas que já provei (inclusive na própria cervejaria). É leve, clara, aromática e gasosa.
+Da cervejaria homônima de Poços de Caldas, tem corpo parrudo, amargor amigo com os snacks de mandioca e batata fritas cortadas fininhas e sequinhas do Justo no Terraço, um lugar bom para música ao vivo mais tranquila e papear sem pressa de ir embora.
 

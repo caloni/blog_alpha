@@ -1,20 +1,16 @@
 ---
 categories:
 - writting
-date: '2020-03-10'
-link: https://www.imdb.com/title/tt9760504
+date: '2016-02-08'
+link: https://www.imdb.com/title/tt0061811
 tags:
 - movies
-title: Ninokuni
+title: No Calor da Noite
 ---
 
-Uma animação dos Estúdios Ghibli recente, com distribuição Warner e Netflix. Os animadores juntam algumas cenas com computação para aumentar a resolução e construir exércitos de clones. O resultado é pavoroso. Felizmente são apenas alguns momentos.
+Esse é um filme que expõe o racismo como nenhum outro. O personagem de Sidney Poitier aguarda o trem na estação da pequena cidade de Sparta para visitar sua mãe. Naquela mesma noite um figurão da cidade é assassinado. Um policial, um dos caipiras da cidade, encontra Portier sentado em um banco, e para ele o crime já está resolvido: único negro encontrado aquela noite, só ele poderia ser o culpado de um crime tão brutal.
 
-Este filme é baseado em um vídeo game. Sua história é confusa e sem sentido, mas podemos ver suas origens em um Sword Art Online para adolescentes agitados. Também lembra e referencia o clássico D&D, ou Caverna do Dragão para os brazucas, com seu vilão que realiza morph com criaturas horrendas.
+Dirigido por Norman Jewison, que já foi indicado a sete Oscar e não ganhou nenhum (apesar de "No Calor..." ter ganhado cinco, incluindo de melhor filme), o filme explora diferentes situações em que os moradores e a força policial da região têm que interagir com Virgil Tibbs (Portier), e o fato dele ser negro é um grande empecilho, já que com isso eles lhe negam o respeito (chamando-o pelo nome, mesmo já sabendo que ele também é um policial) e se sentem ofendidos muitas vezes apenas por Tibbs se encontrar no mesmo recinto. O melhor momento do longa é uma visita ao "dono" da cidade, que ainda mantém uma plantação de algodão com vários negros (como funcionários), conversa animadamente sobre Orquídeas com Portier, mas acha normal esbofetear a cara de um negro se este lhe faltar com o respeito.
 
-É um conceito que distrai mais do que sua história. Na meia-hora final há umas reviravoltas e a resolução de um enigma que ninguém percebeu que seria melhor que ninguém tivesse percebido, mesmo. É tanta vergonha que você desejará não ter assistido. É teen até o osso, é inconsequente e inocente no mal sentido. É um jogo de criança nas mãos de animadores competentes.
-
-A vaga ideia de que existem dois mundos conectados pelas suas vidas se torna mais vaga ainda no final, e a pouca simpatia que tínhamos pelos adolescentes genéricos e estereotipados do começo irá passar rapidamente. Há violência e morte como forma de chamar a atenção, mas chega uma hora que nem isso funciona mais.
-
-Ghibli pós-Miyasaki vira uma pastelaria de animações que não amadureceram para começar a ser desenhadas. O resultado se torna pior com experimentos em computação para agilizar o que não se deve nunca apressar: o desenvolvimento natural e orgânico de uma obra de arte.
+O filme é fácil de entender, e tem um "appealing" emocional e uma história simples que o tornaram fácil indicação para Oscar. No entanto, por trás do filme censura livre se encontra hoje um exemplar único, que felizmente, será visto com repulsa pela maioria de seus espectadores atuais (na época já foi polêmico, mas hoje talvez fosse inconcebível). Sua trilha sonora é cantada por Ray Charles. Deu ao ator Rod Steiger o Oscar de ator principal, e deixou Portier injustamente fora do páreo. Talvez a polêmica da época não fosse tão descabida assim...
 

@@ -1,88 +1,28 @@
 ---
-categories:
-- coding
-date: '2007-10-24'
-tags:
-- ccpp
-title: Typeid e os perigos do não-polimorfismo
+categories: []
+date: '2009-05-08'
+tags: null
+title: Últimas pesquisas na blogosfera nacional
 ---
 
-Quando usamos o operador typeid geralmente desejamos conhecer informações sobre o tipo exato do objeto que temos em mãos, independente da hierarquia de herança a qual seu tipo pertença. Só que por ignorar, assim como o [sizeof], que esse operador possui duas caras, às vezes damos com os burros n'água e compramos gato por lebre. Não é pra menos. Uma sutil diferença entre classes polimórficas e estáticas pode dar aquele susto que só C++ pode proporcionar.
+É um imenso prazer constatar que hoje, mais de dez anos depois de eu ter iniciado minha caminhada pelo mundo da programação C/C++, temos uma reação de blogues e saites prontos para elucidar questões simples e avançadas dessas duas linguagens que ainda não morreram e, se depender de como as coisas andam, ainda vão durar pelo menos mais uns dez anos (sim, não sou tão otimista assim).
 
-Eis um exemplo singelo, sem dramatização (com dramatização == "500 linhas de código de produção além do código abaixo").
+Esse artigo é só para constar em minha lista de referência para o aprendizado de C, C++ e todas as outras coisas que vem depois. Se eu tivesse que escrever isso lá no início, provavelmente recomendaria mais linques de livros e saites em inglês. Hoje, felizmente, temos um conteúdo em pleno desenvolvimento em nossa blogosfera tupiniquim. E espero que continue assim!
 
-    #include <iostream>
-    #include <typeinfo>
-    
-    using namespace std;
-    
-    class Base
-    {
-    public:
-      Base()
-      {
-        cout << "Base()\n";
-        m_x = 0;
-      }
-    
-      ~Base()
-      {
-        cout << "~Base()\n";
-      }
-    
-      int m_x;
-    };
-    
-    class Deriv : public Base
-    {
-    public:
-      Deriv()
-      {
-        cout << "Deriv()\n";
-    
-        m_x = 1;
-        m_y = 0;
-      }
-    
-      virtual ~Deriv()
-      {
-        cout << "~Deriv()\n";
-      }
-    
-      int m_y;
-    };
-    
-    void func(Base* b)
-    {
-      cout << typeid(*b).name() << '\n';
-    }
-    
-    int main()
-    {
-      Base* b = new Deriv();
-      func(b);
-    } 
-    
-O typeid usado nesse exemplo será o estático, no estilo typeid(type), porque o tipo do objeto para a função é de "ponteiro para objeto de classe não-polimórfica", ou seja, sem nenhuma função virtual. É importante lembrar que o polimorfismo em C++ só é aplicado se houver razão para tal, pois na linguagem a regra é que "não existe sobrecarga de execução sem que o programador queira":
+  * Strings
+  * Strings e Números
+  * Os diversos tipos de casting
+  * Pointeiros e Referências
+  * Templates
+  * Smart Pointer - Introdução
+  * Auto Pointer (auto_ptr)
+  * Boost Shared Pointer, Weak Pointer e Scoped Pointer
+  * Boost Shared Array e Scoped Array 
+  * Quando usar cada um dos smart pointers
+  * As infinitas e riquíssimas discussões na lista C/C++
 
-    >./program
-    Base()
-    Deriv()
-    class Base
+  * Como usar o Visual Studio
+  * Compilando o Boost no Windows (usando Visual Studio)
 
-Se o esperado pelo programador fosse um class Deriv na última linha da saída, ou seja, que o typeid utilizado fosse a versão dinâmica, então a nossa classe Base tem que ser polimórfica:
-
-    virtual ~Base()
-    {
-      cout << "~Base()\n";
-    } 
-
-Esse é um erro equivalente ao chamar o operador delete usando o ponteiro recebido em func. Se isso fosse feito, seria chamado apenas o destrutor da classe Base. Por falar nisso, temos nesse exemplo um leak de memória (percebeu pela saída que os destrutores não são chamados?). Mas esse é um erro bem menos sutil que o visto pelo nosso amigo typeid amigo-da-onça ;).
-
-    >./program
-    Base()
-    Deriv()
-    class Deriv
-
-[sizeof]: {{< relref "what-happens-inside-the-sizeof-operator" >}}
+A internet brasileira cresceu como um todo. Mesmo que você deseje saber mais sobre microprocessadores ou drivers para Windows, em português, hoje isso é possível. É claro que o que não é possível é você se dedicar profissionalmente a essas áreas sem saber inglês. Mas é uma muito bem-vinda manifestação das pessoas que fazem acontecer todas essas coisas em nosso país.
 

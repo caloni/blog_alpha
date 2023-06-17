@@ -1,16 +1,27 @@
 ---
 categories:
 - writting
-date: '2014-05-10'
-link: https://www.imdb.com/title/tt0086250
+date: '2022-10-13T18:40:56-03:00'
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Scarface
+title: Scheme
 ---
 
-Scarface é um clássico instantâneo, desses que nasce um dia e já gera uma multidão de fãs. O mais novo seriado de sucesso, Breaking Bad, faz praticamente uma apologia ao filme de Brian de Palma. Porém, diferente de Walter White, Tony Montana já se mostra um bicho ruim desde a primeira cena, interrogado e acuado por americanos que precisam verificar quais dentre os milhares de cubanos que chegaram ao "país da liberdade" são criminosos. Tony se denomina um preso político, e fala horrores do regime e da figura de Fidel Castro. Sua revolta contra o comunismo encontrará uma rima poética em suas reclamações contra os capitalistas ambiciosos depois de um arco de quase três horas de duração ter se fechado.
+Scheme poderia ser reduzido ao drama das adolescentes em busca de dinheiro fácil tendo seus corpos explorados através do que podemos chamar de "prostituição light". Ele poderia ser reduzido ao drama, mas ele não é. Obcecado em descobrir como jovens garotas são atraídas para o covil de homens de meia-idade em festinhas particulares que levam ao consumo de drogas e sexo desenfreados, o filme vencedor do Generation 14Plus do Festival de Berlim, que chega agora à Mostra de SP, não está interessado em mais um drama juvenil sobre os abusos da idade. Está interessado no como.
 
-Aqui nós temos um trabalho certeiro tanto do diretor dOs Intocáveis quanto do roteirista Oliver Stone (Platoon). Esses caras fizeram parte de uma geração de gênios cineastas que construíram obras de referência que servem hoje para pavimentar o caminho. Al Pacino era o mestre da atuação, e seu Tony Montana em nada se assemelha a outro mafioso famoso no Cinema, Michael Corleone (O Poderoso Chefão, Coppola, 1972). O movimento do seu corpo, seu sotaque levemente arrastado, e, principalmente, seu jeito de se colocar à frente de tudo e de todos, é o que materializa a figura trágica do anti-herói odiável e ao mesmo tempo admirável do ponto de vista narrativo. O sujeito é um canalha da pior estirpe, mas continua no imaginário como um bad guy de respeito, um cara "que tem bolas".
+Para introduzir o assunto o diretor-roteirista do Cazaquistão Farkhat Sharipov utiliza logo na primeira cena sua abordagem. Ele cita de passagem na TV da sala o caso Jeffrey Epstein, aliciador de menores que em 2019 foi pela segunda vez condenado por abuso sexual. Scheme constrói em seu cerne um esquema muito próximo do de Epstein, e quando digo muito próximo é para não soar uma cópia descarada. A única coisa que falta é a menção direta aos poderosos que o Epstein da vida real mantinha conexões; entre eles nada menos que Bill Gates, um dos homens mais ricos do planeta.
 
-O excesso é o que permeia Scarface e o diferencia dos outros filmes de máfia. Nesse sentido, a direção de arte é fabulosa ao criar o refúgio do criminoso em um escritório marcado por vermelho e preto e peças antiquadas, mas grandiosas. De Palma está recriando o filme original da década de 30, que não assisti, e por isso faz uma homenagem aos diretores. Um bom filme de ação que permanece por décadas, e hoje é ainda mais relevante, perto dos filmes feitos para adultos infantilizados que gostam de ação sem suas consequências.
+Porém, essa obsessão em replicar o império sexual de Epstein sem adentrar em todo o esquema de fato gera problemas na versão cinematográfica. Outra questão é que ao caracterizar sistematicamente as festinhas que a jovem Masha e outras participam como o único protagonista da história o processo narrativo passa por cima do desenvolvimento de seus personagens.
+
+"Scheme" enxerga jovens de 14 a 18 anos, pura e simplesmente, como descerebrados que estão sendo levados ao sabor de jovens populares nas redes sociais com quem acabam tendo contato. A história de Masha gira em torno de Ram, o garoto pelo qual ela se apaixona e que está envolvido no esquema. E com isso o filme, aí sim, justifica jovens serem descerebrados. Ou usando o sinônimo desse estado mental: apaixonados.
+
+A condução do diretor Farkhat Sharipov caminha com a câmera na mão através de diferentes ambientes em sequência, como se cada vez mais a vida de Masha sumisse da escola e se resumisse unicamente na quantidade de horas que fica ao lado de Ram, o que envolve necessariamente consumo de drogas e fazer parte de ambientes propícios para libertinagens.
+
+A atuação de Victoriya Romanova é instrumental, pois a obsessão de Sharipov em caracterizar o esquema de Epstein está na mesma proporção dos objetivos de Romanova como atriz, que constrói uma jovem completamente alheia à sua própria vida, entregue aos anseios do jovem que ama. Masha inicia a história ainda na escola e usando uniforme, mas termina como uma boneca de carne, incapaz de tomar as próprias decisões.
+
+Scheme é ágil e vai direto ao ponto. Sua duração é pouco mais de uma hora. Talvez as horas restantes tenham sido cortadas na pós-produção, vai saber. Sua conclusão é ríspida, mas infelizmente correta. Não há muito o que se pode fazer contra esquemas desse tipo, assim como, brevemente citado no filme, não há como evitar que as pessoas participem de pirâmides financeiras. Está implantado em nosso cérebro.
+
+Nos resta, então, observar com mais atenção a mensagem de filmes como esse, que assim como o magistral Elefante, tentam nos fazer pensar mostrando o que há lá fora. E saber como os esquemas acontecem já é ganhar uma certa consciência. Não que isso ajude muito se você não souber quem são os poderosos por trás disso.
 

@@ -1,24 +1,26 @@
 ---
-categories: []
-date: '2007-11-01'
-title: Desenvolvendo em linha de comando
+
+Deslembro começa deslumbrando com seu nome, um trocadilho simpático e até poético sobre o desmembramento de uma família, o esquecimento de quem fomos e as ambiguidades dos idiomas românicos, como o português, o francês e o espanhol.
+
+Esse lado poético reverbera em cada cena do filme, em sua busca incessante por memórias básicas de nossa juventude. É uma viagem dúbia, que tenta resgatar ao mesmo tempo nosso passado jovem como pessoas e como (multi)nação.
+
+A história começa na França, mas se desenvolve quase todo o tempo no Rio. É a história de uma menina que é filha de pais revolucionários em sua época, derrotados no passado e em busca de justiça. Ela, Joana (Jeanne Boudier), não está inserida nessa luta.
+
+Isso porque suas memórias são negadas pela mãe, incluindo a morte/desaparecimento do próprio pai. Joana começa o filme com sua própria identidade, falando francês enquanto sua mãe quase não larga o português. O uso dos idiomas na história tem significado, e é importante reparar em como Jojô (apelido de Joana) vai aos poucos se desprendendo do que até então parecia sua terra natal e retornando à complexa, conflituosa e multicultural América Latina.
+
+A luta de Jojô, então, se passa internamente, no retorno gradual de suas memórias de infância, sua religação com a avó e com sua nova realidade. É significativo ela e a avó começarem distantes e irem se aproximando. Até a cena da igreja. Note que a poesia existe em diferentes níveis em Deslembro, assim como seu jogo de palavras. A reaproximação com a avó é sua forma de religião (palavra que vem do verbo religar, ou reconexão).
+
+Esse jogo de símbolos e referências também funciona no próprio ambiente multicultural do filme. Podemos até "inventar" nossas próprias. Quando ouvi Jojô e as fotos dos Beatles na parede não foi difícil se lembrar do personagem da música Get Back de Lennon/McCartney, uma letra que remete justamente pelo apelo que a pessoa "volte de onde veio". (Para os mais novos Jojô também é personagem do musical feito com as músicas da banda, Across The Universe.)
+
+Mais importante que as palavras é a música, que desempenha um papel central na narrativa, se misturando com memórias ainda embaçadas, mas que lutam para vir à tona. Misturando uma cantiga chilena, rock inglês e samba brasileiro, fica fácil observar a riqueza artística do filme, que mistura com harmonia esses estilos. Além disso, os sons são uma pista importante para entendermos o que está acontecendo na mente dessa menina, que busca de seus sonhos do passado um significado para viver.
+
+A diretora/roteirista Flávia Castro já trabalhou em projeto semelhante, embora documental, no seu autobiográfico Diário de Uma Busca. O tema é o mesmo com abordagens diferentes: o resgate dos fantasmas do passado. Mas a seleção de músicas e montagem em ambos os filmes são marca registrada (Castro também trabalha como montadora).
+
+O que é mais bonito em Deslembro é que ele possui todas essas camadas interconectadas, mas na sua superfície é uma simples história de readaptação de uma jovem a sua nova vida. Pode ser assistido por todos e acredito que cada um irá encontrar sua maneira de se conectar, seja pela história política, pela época saudosista dos anos 70 e 80, pelas músicas e poesia. É um filme fácil sobre um tema difícil, que segue calmo, embalando aos poucos. É a sensação de despertar para o que um dia fomos na vida.
+
 ---
-
-Desde uns tempos para cá o Visual Studio tem se tornado uma das ferramentas mais pesadas de desenvolvimento já criadas. Como se não bastasse, a compilação de pequenos trechos de código é algo desnecessariamente complicado no ambiente. Por esse motivo estou ganhando o costume de usar a linha de comando para esse tipo de tarefa. Afinal de contas, na maioria das vezes a única coisa que eu preciso fazer é abrir o atalho "Visual Studio Command Prompt" e digitar uma linha: cl meu-codigo-fonte-do-coracao.cpp.
-
-O problema é ter que "andar" do diretório padrão de início até a pasta onde está o código-fonte que desejo compilar. Porém, isso é facilmente resolvido com uma linha (no registro), dentro de HKCR, Folder, shell, Console, command crie a chamada ao cmd.exe passando a bat que constrói o ambiente para o Visual Studio C++. A partir daí, o comando "Console" existe no menu de contexto de qualquer pasta que clicarmos no Windows Explorer.
-
-Note que é possível criar outros comandos, como é o meu caso, onde preciso de vez em quando compilar utilizando o Visual Studio 2005 (o comando Console) e o Visual Studio 2003 (o comando VS2003). Ao escolher a opção, um prompt de comando é aberto com o ambiente de compilação montado e (adivinhe) com a pasta padrão sendo a que foi clicada no explorer.
-
-Nossos projetos aqui na empresa costumam ser divididos em inúmeras soluções do Visual Studio para evitar a bagunça que seria (foi) ter que abrir uma solução de 10^24324 projetos. O problema é que, se abrir um Visual Studio já pesa, imagine abrir cinco de uma vez.
-
-Por isso mesmo que, aproveitando que agora tenho uma linha de comando personalizada com o ambiente de compilação, faço uso da compilação de soluções em modo console que o devenv (a IDE do Visual Studio) oferece: devenv meu-solution-do-coracao.sln /build Debug ou devenv meu-project-do-coracao.vcproj /build Release. Além de ser rápido, pode ser usado em builds automatizados, coisa que já fazemos. O que quer dizer que podemos matar os itens 2 e 3 do [teste do Joel], nos deixando um passo mais próximo do purgatório.
-
-Tudo bem, mas eu preciso depurar o código! Você não quer que eu use o ntsd.exe, ou quer?
-
-Sabe que não é uma má idéia?
-
-Porém, se você prefere algo mais amigável, mais ainda que o WinDbg, você pode iniciar o depurador do Visual Studio por linha de comando: vsjitdebugger notepad.exe ou vsjitdebugger -p meu-pid-do-coracao.  Daí não tem jeito: você economiza no start, mas o Visual Studio vai acabar subindo. Ou um ou outro. Por isso eu recomendo aprender a usar o WinDbg ou até o NTSD. Quer dizer, é muito melhor do que esperar por uma versão mais light do Visual Studio no próximo ano.
-
-[teste do Joel]: https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
-
+categories:
+- blogging
+date: '2022-08-24T21:02:20-03:00'
+tags: null
+title: Desmaio

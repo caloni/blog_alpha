@@ -1,22 +1,16 @@
 ---
 categories:
 - writting
-date: '2019-06-02'
-link: https://www.imdb.com/title/tt0113451
+date: '2014-12-30'
+link: https://www.imdb.com/title/tt0116683
 tags:
 - movies
-title: Jade
+title: James e o Pêssego Gigante
 ---
 
-Que filme é esse... ele parece feito para a TV, mas tem uma direção frenética e quase impecável, com uma edição idem (Augie Hess) e uma trilha sonora de quinta categoria por James Horner, responsável pelas trilhas pomposas de James Cameron. Mas aqui não há nada de pomposo, neste thriller investigativo com uma sequência de perseguição dos anos 90 que não se faz mais hoje em dia. Isso é Cinema macho, com um diretor e um roteirista, como deve ser, e com uma equipe de qualidade.
+Antes de qualquer ataque óbvio ao roteiro formulaico e aos personagens caricatos e unidimensionais, é melhor avisar: se trata de um filme Disney. Ou seja, o mau é mau, o bom é bom e não há praticamente nada que fuja do bê-a-bá dos estúdios "da moral e dos bons costumes". Dito isto, damo-nos por satisfeitos a inexistência de princesas e fadas.
 
-A começar pelo casting. David Caruso é a escolha perfeita para o papel de investigador que não possui determinação nem moral exagerada, mas suficientes, e é o que tem para hoje. Caruso consegue imprimir essa faceta de herói não muito bem intencionado, algo importantíssimo na história, pois ele está atrás da mulher do amigo dele.
+Mesmo assim, o que torna James e o Pêssego Gigante um filme acima da média é logicamente esse efeito de viver com um pé na realidade e um pé na fantasia, pois mesmo que essa seja uma realidade Disney, não dá para negar que ela é necessária para essa dupla-fuga de James da casa de suas tias e da realidade que o cerca, da mesma forma com que não admitimos que Harry Potter continue passando sua infância vivendo debaixo da escada. É esse sentimento que se liberta na forma de uma animação que lembra stop-motion.
 
-Aliás, o amigo também é uma ótima seleção. Chazz Palminteri é a mistura entre canastrice e ingenuidade aqui. Ele é casado com Linda Fiorentino, que é a femme fatale mais sem graça que o cinema já viu. Ainda assim, ela é bela, tem pose e faz tudo certinho. Mas a melhor química rola entre Caruso e Palminteri, grandes amigos e que nos momentos juntos conseguem convencer.
-
-Este é um filme dirigido por William Friedkin. Sim, o mesmo de Operação França e O Exorcista. Friedkin tem essa qualidade de conseguir ultrapassar gêneros, mas é ao mesmo tempo autoral e dedicado. Esse filme seria um péssimo exemplo de filme B se não fosse por ele e seu roteirista, Joe Eszterhas, que, nenhuma novidade, assinou os roteiros de Instinto Selvagem e Invasão de Privacidade. Eszterhas tem um fraco por mulheres problemáticas. Assim como Friedkin se lembrarmos de O Exorcista.
-
-A direção deste filme caminha próximo do trash, usando câmeras em movimento, que tentam se inserir na ação, além de cortes e zooms frenéticos, tentando transformar um policial em algo mais ação. E consegue. A sequência de perseguição desse filme é uma obra à parte. Sugiro que pelo menos você a assista. Ela começa previsível e continua até o fim, mas não é essa sua maior virtude. É o nonsense dos anos 90 e a escalada de adrenalina que gerou as séries de filmes Duro de Matar, Máquina Mortífera e tantos outros.
-
-E a trama de Eszterhas, acredite ou não, é simpática. Ela nos faz caminhar por labirintos às vezes confusos demais, mas a parte importante nunca nos esquecemos. E sobre o jogo de poder envolvido neste filme, ele é tão real quanto qualquer filme de gângster no melhor estilo Los Angeles - Cidade Proibida. O roteiro nem se preocupa em explicar os detalhes para o espectador da última reviravolta. Mas se você é como eu, vai ficar refletindo durante todos os créditos finais. Assista sem pretensão alguma.
+As interações entre os personagens, a leveza da diversão a bordo do pêssego gigante e o senso de liberdade desse road movie nas águas é um conjunto que funciona bem melhor que a própria ideia de punir as tias no terceiro ato.
 

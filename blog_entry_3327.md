@@ -1,18 +1,17 @@
 ---
 categories:
 - writting
-date: '2017-01-21'
-link: https://www.imdb.com/title/tt0471042
+date: '2022-03-06T21:16:41-03:00'
 tags:
-- movies
-title: Roubo nas Alturas
+- series
+title: Rua Augusta
 ---
 
-Este é um filhote dos filmes que criticam os ricaços de Wall Street que fraudaram seus clientes. Juntando em um bolo só, aqui os clientes são também funcionários de um prédio chique em Nova York onde o ricaço é o cliente. Há um quê de retorno aos anos 80, com Eddie Murphy fazendo um ladrão pé-de-chinelo e um plot previsível entediante. O que salva é o elenco competente, com piadas engraçadas o suficiente para tornar a experiência passável.
+Uma coisa que se nota do começo ao fim dessa série do Prime, produzido por O2 Filmes e TNT, é que a mixagem visual é muito defeituosa. A câmera treme em todas as cenas, quase travando, nas aéreas, nas externas, nas cenas de cenário. É desafiador conseguir focar e prestar atenção na história, que é bem bacana, amarrada como uma boa peça de teatro, que une todos personagens, mas que não precisa de seis horas de duração. Poucas coisas na vida merecem seis horas de nossa vida, e uma série sobre uma rua mal cheirosa no centro de São Paulo não está nessa lista.
 
-A história, que não vem ao caso, envolve a lealdade dos competentes funcionários, sempre dispostos a ajudar seus clientes e a si próprios, e a falta de escrúpulos dos investidores de Wall Street em fraudar o suado dinheiro dos trabalhadores que acumularam por toda sua vida. A saída para o impasse de como fazer bandidos como esses pagarem não é pela justiça comprada, mas na mesma moeda. A introdução é eficiente em apresentar a maneira profissional e ao mesmo tempo cordial do personagem de Ben Stiller, que está bem como sempre fazendo o bom-caráter Ben Stiller.
+Mas há muita coisa legal na série. Peitinhos de gostosas, por exemplo. Cenas de sexo de brasileirinhas. Lembra as pornochanchadas, e nesse quesito merece nosso respeito. Mas se leva a sério demais por ser um policial. E mostra mais do que devia das locações em torno da cidade, principalmente, claro, a fatídica Augusta. Já entendi que alguém teve uma ótima ideia para economizar locações. Funcionou.
 
-Assim é que se reúne uma galerinha muito legal que de alguma forma vai roubar um suposto cofre na cobertura onde fica o ricaço. Eles já trabalharam no prédio e sabem como invadi-lo, o que já demonstra que não são tão competentes assim. O filme evita se aprofundar nos detalhes, pois tudo é muito vago e apenas motivo de piada. Não há tensão alguma do começo ao fim. Cada nova revelação pode ser prevista pelo espectador alguns bons minutos atrás, já que não há muita variação dos clichês do gênero.
+E as gostosas que pagaram peitinho devem ser baratas. Como atrizes, quis dizer.
 
-Uma turminha de atores simpáticos, Eddie Murphy provavelmente em um dos seus melhores papéis em sua década perdida, um plot previsível e uma crítica vazia ao mundo das finanças pós-2008. Faça pipoca e observe o tempo passar.
+"Rua Augusta", assim como a localidade, entretém. É como se estivéssemos observando aquelas figuras pitorescas andando pela região mais esdrúxula da capital paulista. No conforto do lar.
 

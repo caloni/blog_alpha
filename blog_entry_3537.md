@@ -1,18 +1,45 @@
 ---
-categories:
-- writting
-date: '2013-11-28'
-link: https://www.imdb.com/title/tt0811080
-tags:
-- movies
-title: Speed Racer
+categories: []
+date: '2019-07-21'
+tags: null
+title: SLQLocalDB
 ---
 
-Speed Racer está para os animes infantis assim como Scott Pilgrim está para o mundo dos vídeogames: dois filmes que homenageiam seu universo abraçando-o sem limites e que por isso são rechaçados pelo público em geral. Uma linguagem tão inovadora pode causar medo e desconforto, mas é o ponto de virada de todo cinéfilo que se preze e que que deseja sentir mais pelos filmes que assiste.
+Hoje foi o dia de redescobrir meu velho ranço com a solução Microsoft para banco de dados. Já perdi horas, dias e semanas com problemas de conexão com algum servidor SQL Server porque a instalação possuía configurações de segurança específicas, a string de conexão não estava exatamente de acordo com a versão instalada ou uma combinação macabra desses e de mais alguns problemas.
 
-Já era de se supor que os irmãos Wachowski (The Matrix, Cloud Atlas) iriam fundo no material de suas produções. Mesmo assim, quando o pequeno Speed Racer sai da escola para um céu com nuvens pintadas a surpresa e o contentamento são inesquecíveis. A "reimaginação" das crianças no filme sobre a realidade é alto tão hilário quanto tocante. O mundo dos Racer começa a fazer todo o sentido para mim conforme é desdobrado e a história empolga cada vez mais conforme entendemos melhor como funcionam aqueles carros saltitantes.
+Após degladiar novamente com problemas com o SQL Server Express 17 minha esperança para este projeto que requer este banco de dados foi uma versão mínima chamada de LocalDB [1]. Essa versão tem objetivo de servir para desenvolvedores, pois é tão mínima que apenas roda quando você usa, além de permitir isolamento por contas e compartilhamento entre contas e até remoto via named pipe. Parece bom, não?
 
-Porém, essa não é daquelas experiências visualmente deslumbrantes em cores vivas e chamativas tão somente. Há uma história a ser seguida: o embate entre o mundo dos negócios/dinheiro/poder controlando os resultados das corridas versus a arte pura de contornar desenhos na pista através de saltos inimagináveis; o empenho de toda uma família incentivando o que seu filho faz de melhor; a eterna luta do bem contra o mal, clássica e cartunesca.
+O marketing da Microsoft sempre será melhor do que as reais soluções entregues. Depois de ver tudo isso funcionar em um banco criado com o LocalDB em pequenos e simples passos, as dores de cabeça começaram na hora de compartilhar ou de criar do zero este mesmo banco em uma conta de sistema, que é como rodam geralmente os serviços do projeto:
 
-Rostos flutuam pela tela cortando as cenas. Personagens à frente da tela separam um fundo a milhas de distância. Closes são trocados em velocidade impressionante no meio da pista entre os corredores. Um filme não trivial merece uma abordagem específica para localizar essa emoção constante nas corridas do desenho original. O grande mérito do filme é buscar isso incansavelmente, em uma construção da cena absurda que nos libera para torcer pelo impossível. E quando ele acontece, é o que esperávamos todo o tempo, e pelo que valeu a pena adentrar nesse mundo fantasioso.
+    C:\WINDOWS\system32>psexec -s cmd.exe
+    
+    PsExec v2.11 - Execute processes remotely
+    Copyright (C) 2001-2014 Mark Russinovich
+    Sysinternals - www.sysinternals.com
+    
+    Microsoft Windows [Version 10.0.17763.615]
+    (c) 2018 Microsoft Corporation. All rights reserved.
+    C:\WINDOWS\system32>sqllocaldb i
+    MSSQLLocalDB
+    
+    C:\WINDOWS\system32>sqllocaldb create "test"
+    LocalDB instance "test" created with version 13.1.4001.0.
+    
+    C:\WINDOWS\system32>sqllocaldb start "test"
+    LocalDB instance "test" started.
+    
+    C:\WINDOWS\system32>sqlcmd -S (localdb)\test
+    ...
+    ... hangs forever
+    ...
+
+O fun fact até aqui é que a primeira versão que tentei, a Express 2017, sequer chegava nesse ponto, dando erros de conexão com named pipe ou timeout no login. Não estou certo de como funcionaria um login em um acesso local em um arquivo, mas essa era uma mensagem extremamente longa e potencialmente inútil. Encontrei uma outra alma sofredora na internet neste mesmo dia de hoje que recomendou fazer o rollback para o Server 2016 [2] (por isso a versão 13.1 no prompt acima), mas os erros apenas mudam de figura ou se repetem indefinidamente.
+
+Aliás, outro fato curioso e revoltante é que a Microsoft sequer mantém a versão anterior dos seus produtos para download. A versão 2016 achei no site de alguém que se dispôs a mantê-los. Do contrário, a solução seria ~~sentar e chorar~~ olhar o código-fonte.
+
+Rá, brincadeira. Não tem o código-fonte.
+
+Um erro frequente e algumas vezes reportado pelas internet é o do login, mesmo. Pesquisando mais a fundo encontrei um artigo no Code Project [3] (quem diria, velhos tempos em que postava nele) de 2014 onde a pessoa explicava que depois de ler muito e testar muito ele descobriu praticamente depurando a instância do SQL Server e descobrindo que o problema estava em um crash que nunca voltava, sendo necessário dropar todas as conexões (ou o conhecido restart que várias pessoas também recomendaram).
+
+Esse não é o meu problema. Meu problema é conseguir rodar a solução na conta de sistema, e desconfio que o modo em que o psexec executa o cmd.exe na conta de sistema pode estar relacionado, pois contas interativas em sistema são fontes clássicas de configuration mismatch (talvez falte ou sobre variáveis de ambiente, alguns handles perdidos, essas coisas).
 

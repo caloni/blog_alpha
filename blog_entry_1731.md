@@ -1,11 +1,11 @@
 ---
+Está mais azedo, forte, um tanto amargo. Em suma: agradabilíssimo em poucas quantidades.
+
+---
 categories:
 - writting
-date: '2018-04-25'
+date: '2013-10-17'
+link: https://www.imdb.com/title/tt1454468
 tags:
-- food
-title: Grão Gourmet Fazenda Colinas Luminária MG
----
-
-Cítrico, bem cítrico. Como limão. E tem um corpo leve para médio, um doce agradável, mas que não elimina aquele amarguinho característico de um café afetivamente relaxante. 21g em moagem média na aeropress.
-
+- movies
+title: Gravidade

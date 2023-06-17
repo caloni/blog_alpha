@@ -1,16 +1,17 @@
 ---
 categories:
 - writting
-date: '2011-12-20'
-link: https://www.imdb.com/title/tt1135503
+date: '2021-07-31T22:34:02-03:00'
 tags:
 - movies
-title: Julie e Julia
+title: Jumanji
 ---
 
-Paralelo interessante entre as duas histórias, não fica óbvio que passam em épocas diferentes, mas o espectador vai percebendo isso aos poucos. Interpretação de Meryl Streep fica sendo a principal, apesar da protagonista talvez não ser ela (será?).
+O filme original com Robin Williams tem a cara de um projeto comercial família que pega a onda das primeiras invencionices da década de 90 com computação digital. Também apresenta uma Kirsten Dunst surpreendentemente jovem se comparada à sua aparição no primeiro Homem Aranha de Sam Raimi.
 
-Faz paralelo também com as histórias, mas com um senso que não podem ser idênticas.
+O roteiro é farofa de família e consome tempo e paciência do espectador hoje em dia, mas na época que coloquei essa fita VHS no videocassete também estava impaciente até ver os grandes efeitos que criaram para a aventura do jogo de tabuleiro que traz criaturas da floresta para a fauna urbana decadente.
 
-Fotografia mais clara na França de época, tom escuro na nova casa de Julie.
+Quando você vê os macacos que eles criaram e o leão, é de morrer de dó. O filme envelheceu muito mal. Williams está no piloto automático com sua cara de pau carismática. Ele veste seus personagens como quem veste uma jaqueta para uma saída rápida à padaria na esquina. Não encontramos um centro emocional no filme, apenas caricaturas moldadas rapidamente para enfiar as destruições em massa das magias do tabuleiro.
+
+Quando a coisa começa a engatar o roteiro nos puxa de volta para o tédio. O reencontro do personagem de Williams com seu severo pai é galhofa no ponto de vomitar. A criança que eu era quando assisti isso pela primeira vez não percebeu e nem tinha problemas de carência afetiva com os pais, mas o adulto que hoje lhe escreve entende que este já era um filme insuportável na sua geração de adultos, e agora é insuportável e velho.
 

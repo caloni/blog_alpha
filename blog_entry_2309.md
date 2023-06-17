@@ -1,16 +1,12 @@
 ---
 categories:
 - writting
-date: '2014-09-13'
-link: https://www.imdb.com/title/tt0042546
+date: '2021-06-12'
+link: https://www.imdb.com/title/tt14267526
 tags:
-- movies
-title: Meu Amigo Harvey
+- series
+title: 'Meu Amor: Seis Historias De Amor Verdadeiro'
 ---
 
-Todos têm aquele amigo indesejável ou, o mais provável, aquela qualidade indesejável em um ente querido que queremos esconder para nos tornarmos aceitos pela sociedade. Se não for em um ente querido pelo menos em nós mesmos. A questão é: "Harvey", uma produção de 1950 dirigida por Henry Koster (O Manto Sagrado) e estrelada por James Stewart (dos filmes de Hitchcock) mostra isso de uma maneira genial: cria um coelho gigante como amigo invisível de um gentil senhor que vive com sua família.
-
-A partir dessa proposta simples e direta somos apresentados a Elwood P. Dowd e toda a polidez, generosidade e compreensão de mundo que um ser humano consegue ter quando está enfeitiçado pelo espírito do "não se levar a sério". Encarado por todos como um louco, o trunfo do filme é nunca negar isso, mas fazer repensar o conceito de loucura.
-
-Ele pode ter seus momentos escrachados, como toda comédia, e deixar algumas pontas soltas no processo, mas nunca se esquece de usar todo acontecimento a seu favor para provar o seu ponto: se é loucura ser gentil com todas as pessoas que encontramos no mundo, o quão mesquinho e miseráveis somos ao acreditar que o normal é exatamente o oposto.
+Um seriado de longas documentais sobre histórias de amor que já passam de décadas. Assisti o do casal do Brasil, Nicinha e Jurema. É sobre a rotina das duas moradoras da Rocinha, favela no Rio de Janeiro. De idade já avançada, elas trabalham o dia-a-dia com planos para o futuro sendo desenhados, os rituais do presente e tenras lembranças do passado. É uma edição relaxante, sem tensão alguma. Quase um vídeo de homenagem ao simples. Há pouco de tratamento na história. Elas são o que você vê na tela, e não tem como desgostar dessas duas. Não tem como desgostar de uma relação que tem dado certo por tanto tempo.
 

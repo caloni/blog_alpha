@@ -1,23 +1,78 @@
 ---
-categories:
-- writting
-date: '2007-07-12'
-tags:
-- essays
-title: Desejo insano de programar no kernel
+
+Uma das partes mais fáceis e divertidas de se mexer no C++ Builder é a que lida com gráficos. A abstração da VCL toma conta da alocação e liberação dos objetos gráficos da GDI e nos fornece uma interface para desenhar linhas e figuras geométricas, mexer com bitmaps, usar fontes etc. Concomitantemente, temos acesso ao handles "crus" da Win32 API para que possamos chamar alguma função esotérica necessária para o seu programa, o que nos garante flexibilidade suficiente.
+
+Vamos fazer da área da janela principal uma tela onde possamos desenhar. Para isso, só precisamos fazer duas coisas em nosso programa: saber quando o mouse está com algum botão pressionado e desenhar quando ele estiver sendo "arrastado".
+
+Saber o estado dos botões é trivial, podemos capturar isso nos eventos OnMouseDown e OnMouseUp e guardar em alguma variável.
+
+    //...
+    private:
+    	bool mouseDown; // essa variável guarda o estado do mouse...
+    //...
+    
+    __fastcall TForm1::TForm1(TComponent* Owner)
+    	: TForm(Owner)
+    {
+    	mouseDown = false; // ... e é importante iniciá-la
+    }
+    
+    void __fastcall TForm1::FormMouseUp(TObject *Sender, TMouseButton Button,
+    	TShiftState Shift, int X, int Y)
+    {
+    	mouseDown = false;
+    }
+    
+    void __fastcall TForm1::FormMouseDown(TObject *Sender, TMouseButton Button,
+    	TShiftState Shift, int X, int Y)
+    {
+    	Canvas->PenPos = TPoint(X, Y); // mais tarde veremos o porquê disso
+    	mouseDown = true;
+    } 
+
+Saber quando o mouse está sendo arrastado também é um passo trivial, uma vez que temos esse evento (OnMove) para tratar no controle da janela.
+
+{{< image src="builder-onmousemove.png" caption="Builder OnMouseMove" >}}
+
+Para desenhar, todo formulário e mais alguns controles gráficos possuem um objeto chamado Canvas, do tipo TCanvas (duh). Essa classe representa uma superfície de desenho que você pode acessar a partir de seus métodos. Isso é a abstração do conhecido device context da GDI, tornando a programação mais fácil. O desenho de uma linha, por exemplo, é feito literalmente em uma linha de código.
+
+    void __fastcall TForm1::FormMouseMove(TObject *Sender, TShiftState Shift,
+    	int X, int Y)
+    {
+    	if( mouseDown )
+    	{
+    		Canvas->LineTo(X, Y);
+    	}
+    } 
+
+O método LineTo() desenha uma linha do ponto onde está atualmente a caneta de desenho até a coordenada especificada. Esse é o motivo pelo qual no evento OnMouseDown alteramos a propriedade PenPos do Canvas para o ponto onde o usuário pressiona o botão do mouse.
+
+Voila! Temos o nosso Personal PaintBrush, com toda a tosquisse que menos de 10 linhas de código podem fazer. OK, ele não é perfeito, admito, mas pode ser melhorado. Temos o código-fonte =).
+
+Um dos problemas nele reflete o comportamento de gráficos em janelas no Windows. Seja o que for que tenhamos desenhado sobre uma janela, seu conteúdo é perdido ao ser sobrescrito por outra janela. Isso porque a memória de vídeo da área de trabalho é compartilhada entre todas as janelas do sistema (isso muda com o advento do "Avalon"). Precisamos, então, sempre repintar o que é feito durante a execução do programa.
+
+Se precisamos repintar, logo precisamos saber tudo o que o usuário fez até então. Uma das técnicas mais baratas no quesito memória para salvar o estado gráfico de uma janela é guardar um histórico das operações realizadas sobre sua superfície e executá-las novamente ao repintar a janela. A GDI é rápida o bastante para que o custo de processamento não seja sentido na maioria dos casos. Para o nosso _Paint_, apenas um array de coordenadas origem-destino já dá conta do recado:
+
+    //...
+    private:
+    	bool mouseDown; // essa variavel guarda o estado do mouse
+    	std::vector<TRect> mouseHistory; // um TRect guarda duas posicoes XY
+    //...
+    
+    // ...
+    {
+    	if( mouseDown )
+    	{
+    		// guardando a pincelada para reproduzi-la depois
+    		mouseHistory.push_back( TRect(Canvas->PenPos, TPoint(X, Y)) );
+    		Canvas->LineTo(X, Y);
+    	}
+    }
+    //... 
+
+{{< image src="amobuilder.gif" caption="Amo o Builder" >}}
+
 ---
-
-Muitas vezes meus amigos (um em particular) me perguntam por que não me interesso em programar em kernel mode, como se isso fosse um objetivo a ser alcançado por qualquer programador em user mode. Bom, não é.
-
-Claro que sempre me empenho em entender como o sistema funciona, nos menores detalhes e sempre que posso, o que nem sempre me leva para o kernel mode (entender como a CLR funciona, por exemplo). Posso até me considerar um ser privilegiado, já que trabalho com dois experts em kernel mode e .NET, respectivamente. Isso já faz algum tempo, e ambos possuem conhecimento e experiência necessários para sanar minhas dúvidas mais cruéis. Porém, uma coisa é o conhecimento da coisa. Outra coisa é a prática. E a teoria, como já dizia o Sr. Heldai, na prática é outra.
-
-Existem também aqueles programadores que, entorpecidos pela idéia de que seu software deve ser o mais baixo nível possível porque... bem, porque ele faz coisas muito profundas (?), ou é muito avançado (??), ou talvez até porque ele precisa ser otimizado ao máximo. Baseados nessas premissas (???), antes mesmo de conhecer o sistema operacional e pesquisar o que ele tem a oferecer que já está disponível em user mode partem direto para a programação nua e crua, pelo simples motivo de ser legal ou na ilusão de ser a melhor maneira de se fazer as coisas sob qualquer circunstância.
-
-Munidos de bons motivos para fazer drivers, o próximo passo seria então pedir ajuda desesperadamente (e urgentemente) em listas de discussões. Talvez esse seja o lugar menos apropriado para procurar por uma palavra amiga. Acompanhei por um tempo uma lista de kernel do Windows. Apenas para efeitos de descrição, o clima e a impressão com que fiquei de lá foi que os programadores em kernel não se dão muito ao trabalho de ajudar aqueles que estão perdidos no ring0. Então para que existe a lista? Aparentemente para aqueles que já sabem fazer o carro andar, já conhecem o motor e um pouco de mecânica dos fluidos.
-
-Digamos que é uma cultura bem diferente do que estamos acostumados a vivenciar em user mode. Eles estão muito mais ocupados com problemas relacionados especificamente com o desenvolvimento de drivers, e não dúvidas bestas do tipo "como eu faria isso". Lá não se briga entre linguagens gerenciadas e não-gerenciadas (nem entre linguagens gerenciadas), mas entre linguagens C e C++. Lá não se ajuda a fazer aquelas "gambis" que tanto ajudam o programador na hora do sufoco, mas sim redirecionam os hereges para o desenvolvimento "politicamente correto" (siga a documentação e seja feliz).
-
-Isso não é uma crítica destrutiva, apenas uma descrição narrativa. Nada que falo aqui é exagero ou blasfêmia. Podem perguntar para o meu amigo de kernel mode. Aliás, use o blog dele para aprender um pouco sobre o kernel.
-
-O fato é que bons programadores são bons onde quer que eles estejam (e os ruins serão ruins em qualquer lugar). E ser um desenvolvedor de qualidade exige tempo, dedicação, paciência e estudo. Pode ser um designer usando Action Script ou um engenheiro da NASA projetando foguetes. Tanto faz. Fazer as coisas com qualidade sempre exigirá mais tempo do que gostaríamos de despender. Não é uma questão de ser mais difícil em kernel mode ou mais fácil em Javascript. É saber qual dos dois será necessário usar para atingir o nível de funcionalidade e qualidade que o projeto exige. O resto é preconceito.
-
+categories: []
+date: '2007-11-01'
+title: Desenvolvendo em linha de comando

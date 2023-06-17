@@ -1,11 +1,11 @@
 ---
+
+Tânico e amadeirado; baunilha (aroma) e frutas negras (pouco); um bom buquê. Aberto para uma lasanha de escarola de domingo.
+
+---
 categories:
 - writting
-date: '2016-11-13'
+date: '2017-06-25'
 tags:
 - food
-title: El Legado Gran Reserva Edicion Especial Blend Tannat Syrah 2013
----
-
-Um vinho social bom com carne.
-
+title: El Legado Syrah Reserva 2015

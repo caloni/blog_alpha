@@ -1,26 +1,21 @@
 ---
 categories:
 - writting
-date: '2019-05-05'
-link: https://www.imdb.com/title/tt0100998
+date: '2022-10-14T21:05:24-03:00'
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Sonhos
+title: Sonne
 ---
 
-Assisti a Sonhos, de Akira Kurosawa, dividido em dois. Minha esposa dormiu na metade. Eu avisei para ela que esse cineasta é lento.
+Religiões do Oriente Médio são sinônimo de respeito absoluto aos costumes e às regras impostas aos fiéis, sobretudo as vestes de cerimônia. E é por isso que, nessa Mostra de SP, Sonne é um exemplo que foge à regra e faz você reavaliar esse sinônimo nos tempos atuais.
 
-As pessoas hoje em dia não têm paciência para observar e contemplar a beleza da composição dos quadros de Kurosawa. E não são apenas os quadros, como a verdadeira pintura dos cenários, do figurino e, principalmente, da imagem que fica em nosso inconsciente ao absorver todas aquelas cores que parecem fazer parte de quadros móveis em ângulos inusitados, mas misteriosamente perfeitos.
+O que chacoalha os conceitos são sempre eles, os jovens. A nova geração. Yesmin nasceu em território estrangeiro, na Áustria, faz faculdade com responsabilidade, mas às vezes se diverte com as amigas. Em uma dessas vezes as três gravam um vídeo cantando, dançando. Detalhe: usando hijab, vestimenta reservada para orações pela sua mãe. E rebolando. Ela não enxerga nada de errado nisso. Seu pai apóia as meninas, mas sua mãe ainda se lembra dos tempos difíceis se escondendo em sua própria casa quando ainda não haviam fugido para a Europa.
 
-O ritmo é lento porque é contemplativo. É algo para parar, observar, refletir, apreender, assimilar. E se modificar no processo.
+O que impacta no começo, o motivo de ser do filme, é essa gravação que Yesmin e as amigas fazem e acabam publicando na internet. Usando a mais que sugestiva música Losing My Religion (Perdendo Minha Religião) por boa parte do filme, pensamos este ser motivo suficiente para levar a história e o tema até o fim, até as últimas consequências.
 
-Em Sonhos o cineasta faz uma ode à natureza e alerta para os caminhos nefastos que a natureza humana está nos levando com os milagres da tecnologia. Pode ser uma argumentação anprim (anarco primitivista) ou, o mais provável, o espírito japonês, que se relaciona tão bem com a natureza. O animador Hayao Miyasaki é especialista nessa mensagem, trabalhos como Ponyo já demonstram, ou até mesmo o jovem clássico Meu Amigo Totoro.
+Ledo engano. Os caminhos tortuosos, naturalistas, do roteiro da diretora iraquiana Kurdwin Ayub preferem traçar um panorama em volta dessa família, que inclui seu outro filho caçula, que diferente de sua irmã é um adolescente como tantos outros, consumindo drogas e experimentando bobagens nas horas livres. O apoio do pai de sua filha e as críticas para seu filho viram a recorrência da história, que não consegue mais gerar a mesma tensão de seu início.
 
-Este é um filme cheio de curtas independentes, mas que se relacionam. No começo um garoto é punido por ver o que não devia: o casamento das raposas. Sua mãe não o deixa mais entrar em casa e ele deve ir se desculpar com elas ou se matar. A analogia cristã do pecado original é óbvia, mas transformada em alegoria japonesa é fabulosa. O ritmo da marcha, o mistério da música das "raposas", é sobrenatural, e ao mesmo tempo tão visualmente completo.
-
-Após ser expulso do "paraíso" o homem começa a ter uma relação doentia com a natureza, cortando árvores de pessegueiro e iniciando guerras. E Kurosawa não deixa por menos, utilizando sua maestria de contador de histórias para tornar a perda de soldados uma tragédia tanto para os que morrem quanto para os que se vêem responsáveis. São momentos fortes que vão compondo a sensação geral de todos nós, humanos, e nossa perda de conexão com o que nos era divino.
-
-Sendo tragicamente profético ao narrar o desastre nuclear que transformará o homem e a natureza em versões demoníacas de si mesmos, Kurosawa não quer apenas nos punir ou nos fazer sermão. Ele, assim como nós, é humano. E seu último sonho acaba sendo algo tão simples que fica difícil ter argumentos para com o velhinho de 103 anos vivendo em um vilarejo que nos faz lembrar dos ensinamentos de Kim Ki Duk em Primavera, Verão..., mas vai além, para o retorno do homem ao seu paraíso.
-
-Este pode ser um diretor de filmes lentos para minha esposa e a juventude eternamente conectada na internet, mas ele nunca será irrelevante. Pelo contrário, quanto mais avança mais se torna óbvio que uma mudança é necessária. Kurosawa mostra aqui sua sugestão de maneira primorosa. Já é um começo.
+Sonne constrói uma atmosfera propícia para a discussão sobre a mudança de ares, costumes e horizonte. E o filme decide não fazer nada disso. O motivo? Sem religião não há motivos. Talvez este seja o melhor eco do que acontece quando uma família perde suas origens ao preço da liberdade.
 

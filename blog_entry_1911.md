@@ -1,36 +1,25 @@
 ---
-categories: []
-date: '2017-05-28'
+categories:
+- writting
+date: '2020-01-14'
+link: https://www.imdb.com/title/tt8386898
 tags:
-- lists
-title: Insights sobre produtividade, auto-ajuda e melhora contínua
+- cinemaqui
+- movies
+title: Instinto
 ---
 
-É muito comum programadores, hackers e nerds em geral procurarem bons artigos que os tornem pessoas mais produtivas sem sacrificar a saúde física e mental. No decorrer dos anos me deparei com umas boas leituras. Tão boas que de vez eu quando eu volto a lê-las, e tão boas que acho que vale a pena compartilhar aqui:
+A imersão tensa e crescente de Instinto, estreia da atriz Halina Reijn na direção, possui suas bases nas atuações de Carice van Houten e de Marwan Kenzari, que fazem uma psicóloga e seu paciente, e ambos estão sem controle. Ela foi e é abusada pela mãe; ele é um estuprador em série em habilitação. Incapazes de tomar as rédeas de suas vidas, ambos caminham por essa tênue linha entre as regras de convívio social e uma intimidade física brutal.
 
- - 10 Passos para a Estratégia Kaizen
- - 5 Unusual Ways to Start Working Smarter, Not Harde,  Backed by Science
- - The Mechanics of Emotion
- - Best Writing Advice for Engineers I've Ever Seen. Period.
- - How to Beat Procrastination
- - How to Make Mistakes
- - How to be a great software developer
- - News is bad for you and giving up reading it will make you happier
- - O cansaço mental
- - Scott Adams: How to Be Successful
- - Sleep Everything You Need To Know
- - Technology is Heroin
- - The 10 commandments for happiness and success
- - What You'll Wish You'd Known
- - FLOW - a productivity hack for life
- - Flow (psychology))
- - Jessica Livingston's Pretty Complete List on How Not to Fail
- - Negative Emotions Are Key to Well-Being
- - Optimizing Your Development Environment
- - Start by Understanding the Emotions Involved
- - Willpower Improvement
+O trabalho de criação do roteiro por Esther Gerritsen passa pela história concebida por Halina e a assinatura que ela deixa na direção. Não é uma história fácil, pois possui sutilezas que se entendem mais pelo visual que pelo verbal. E não se trata apenas de uma troca de olhares ou entonações de voz, mas a postura física e a observação impotente. Halina em certo momento usa um espelho fragmentado e reflexos em seu quarto para representar uma mulher multifacetada, mas mais do que isso, sem controle nenhum, ela age como uma autômata, seguindo um protocolo apenas porque este é o esperado por todos.
 
-Espero que essa lista te ajude de alguma maneira.
+Mas Nicoline desconfia de algo que o resto da equipe do instituto de reabilitação ignora. Assistimos a uma reunião em que ela defende seu ponto de vista a respeito da psicopatia, mas além de sua visão aguçada para fatos que fogem à intuição, como o fato de psicopatas nunca mudarem independente da idade, ela é a única com as cicatrizes certas para saber que Idris, seu paciente em recuperação que estava há cinco anos em tratamento e prestes a ganhar a liberdade gradual, é no fundo um grande manipulador. Porém, nas conversas de corredor e nas próprias entrevistas dirigidas por Nicoline não é possível descobrir nada além de um homem que fez as pazes com seu passado e se mantém socialmente neutro, embora curioso a respeito de sua terapeuta.
 
-Fonte: Hacker News, internet, horas e mais horas de procrastinação, horas e mais horas perdidas de sono.
+O que a faz chegar nessa conclusão está além da observação neutra. Ela observa a alma. Entre as brincadeiras dos pacientes, Idris nunca se mete em brigas, e consegue com que um detento concorde em sofrer violência física "porque ele aguenta". Ela percebe a aproximação lenta e gradual entre ele e sua estagiária, que a acompanha nas entrevistas. Até que Nicoline vê ambos de flerte, experimentando uma comida, que Idris coloca na boca da estagiária. Quando a psicóloga se aproxima, ambos se afastam. E Nicoline está se sentindo excluída do jogo de sedução. Agora reimagine essa cena não entre seres humanos, mas entre chimpanzés. Uma fêmea recebe comida de um macho, mas este macho não compartilha a mesma comida e afeto com outra fêmea. Boa parte de Instinto trabalha com as diferenças entre informalidades sociais e o que realmente acontece por trás de nossas máscaras, em um nível físico.
+
+Carice van Houten entrega para sua Nicoline um olhar que diz muito mais quando se espera que ela diga algo. Passiva em todas as relações de sua vida, Houten adota um olhar melancólico e lábios retraídos que buscam chances de se humilhar. Seu momento amoroso com um colega é o mais icônico do filme, pois nos entrega o que se passa realmente na mente dessa complexa protagonista. E Houten brilha nessa e em outras cenas, pois entende que para a personalidade de Nicoline menos é mais, e o menos que ela constrói dói o coração, apesar de não entendermos exatamente por quê.
+
+Já Marwan Kenzari, que fez o vilão Jafar na versão live-action de Aladdin, realiza aqui um trabalho muito mais corporal com seu Idris, cuja comunicação parece sempre partir de avanços na zona de segurança dos outros. Narcisista sem perder o charme, Idris é uma figura a ser estudada em tempos de #metoo, pois enquanto os casos de abuso psicológico se alastram pelo mundo enxergados do ponto de vista das vítimas, cada vez menos se conhece sobre os monstros por trás disso. Kenzari nos oferece essa chance, pois apesar de Idris estar longe de uma figura que dê medo ou intimide, o espectador ou espectadora conseguirá reconhecer a manipulação que o detento realiza, quase que como parte de seu ser. É fascinante e aterrorizante ao mesmo tempo. Depois de entender um personagem como Idris e o que ele deseja das mulheres, o mundo lá fora parece mais perigoso mesmo sem violência física na maior parte do tempo.
+
+A diretora Halina Reijn maturou bem sua história com a ajuda da roteirista Esther Gerritsen, a ponto de hoje ser possível entendermos melhor como se desenrolam as relações de dominação que não são tão escancaradas quanto fetichistas sexuais. O problema é que hoje ninguém mais quer falar sobre isso. Somos seres ultraconectados pelos nossos dedos, mas esses mesmos dedos não podem mais relar em ninguém sem a prévia autorização verbal ou contratual. Viramos robôs que tentam esconder sua origem biológica. Os instintos dos personagens no filme estão quebrados, mas uma questão mais interessante emerge do universo concebido para o filme: não estaríamos todos nós quebrados?
 

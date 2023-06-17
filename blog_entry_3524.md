@@ -1,20 +1,29 @@
 ---
 categories:
 - writting
-date: '2016-01-04'
-link: https://www.imdb.com/title/tt3035582
+date: '2017-06-03'
+link: https://www.imdb.com/title/tt3332372
 tags:
+- cinemaqui
 - movies
-title: 'S.O.S.: Mulheres ao Mar'
+title: Soundtrack
 ---
 
-Este filme é um longo comercial de uma empresa de cruzeiros. A história poderia muito bem acontecer em uma cidade qualquer, já que não há nenhuma cena que justifique a presença dos personagens em um navio. Salvo, claro, as patéticas "homenagens" a Titanic, tornando-o, por comparação, como se Plano 9 do Espaço Sideral, considerado o pior filme de todos os tempos, homenageasse Cidadão Kane, considerado um dos melhores.
+Ao chegarmos no fim de Soundtrack percebemos que falta um pouco de alma ao projeto, o que torna sua conclusão, diferente do esperado, mais patética do que triste ou inspirador. Esse é o resultado de um roteiro e direção focados em muitas ideias racionalmente organizadas e pouco envolvimento emocional. Aquelas pessoas estão irremediavelmente isoladas de tudo e de todos, e quando algum tipo de aproximação acontece, ela soa forçada, artificial e contra os princípios dos personagens já estabelecidos.
 
-Pautado pelo já conhecido argumento das "globochanchadas" para mulheres inseguras, a história é que ela (Giovanna Antonelli) perde o marido para a amante e tenta resgatá-lo em uma viagem pelo mar para a Itália. Junto vão a melhor amiga, viciada em homens lindos e musculosos, e a sua secretária, essas empregadas que fazem sucesso nos programas de TV da emissora por serem simples e "humildes". A diversão da classe média brasileira sempre foi pautada no ridículo da plebe, até quando a audiência é formada pela própria plebe. E o amor sempre foi pautado na busca incessante de um macho-alfa, sem o qual as mulheres não são ninguém.
+O roteiro e a direção são da dupla Manitou Felipe e Bernardo Dutra, que assinam o filme como 300ml e são responsáveis pelo curta (que já virou cult) Tarantino's Mind, onde também estrelam Selton Mello e Seu Jorge. Aqui eles também fazem dois brasileiros, mas precisam falar inglês quase sempre porque vivem com mais três cientistas vindos de outros lugares do mundo.
 
-Até porque, para rivalizar com o marido, surge um outro macho-alfa, mais alto e gentil. Da mesma forma, suas duas companheiras também saem à caça dos homens que irão provê-las. O que seria dessas mulheres burras e desastradas se não fossem os homens que possuem um peitoral definido?
+Todos estão isolados nessa estação de pesquisa em uma área gelada e inóspita do planeta, e o companheiro de cabine do recém-chegado Chris (Mello), o britânico Ralph Ineson, possui uma filha e uma esposa que está grávida, mas há três meses vem acordando naquele inferno de gelo para coletar medições atmosféricas junto com mais centenas de pessoas espalhadas em volta do planeta. De acordo com o coordenador da estação, um chinês expatriado por usar a internet em seu país, esses cientistas possuem um instinto que todos deveriam ter: o sentimento de auto-preservação. Com isso sabemos que a proposta do filme flerta com uma mensagem ecológica, mas nunca chega a citar algo concreto, como o aquecimento global.
 
-Dirigido como uma comédia estilo europeu, recheada de trilhas italianas e piadas com um teor típico das comédias desse país, S.O.S. diverte moderadamente em doses homeopáticas, até por ter um trio de atrizes carismáticas e talentosas. Triste, portanto, que ao vestir esse estereótipo de donzela histéricas elas sejam sabotadas por essa necessidade patológica de precisarem de homens.
+Chris não é um cientista nesse grupo, mas um fotógrafo. Ele veio experimentar uma forma de arte que une imagem e som. Sua exposição deve não apenas mostrar suas fotos, mas o que estava ouvindo no momento em que foram tiradas. Há um motivo melancólico de Chris para esse projeto, que é revelado mais pra frente, mas quando descobrimos soa como manipulação para nos emocionar.
 
-Concluindo com um terceiro ato filosófico de botequim -- para mulheres que leem Sabrina -- S.O.S. passa a se tornar ridículo e hipócrita ao defender que não existe fórmula para a felicidade, pois logo em seguida o final reverte justamente para o mais formulaico possível. Talvez não haja fórmula para a felicidade, mas para o lucro há: use suas atrizes famosas em filmes com a moral dos livros Sabrina e venda isso como uma comédia inconsequente. Talvez a Globo tenha achado a sua fórmula de felicidade, direto para seus bolsos.
+Nessa história tudo ocorre como algo anti-natural, mas inevitável. Chris não ganha a simpatia do grupo de imediato, mas não se trata de grosseria ou o esperado bullying contra alguém fora do grupo da Ciência. Todos são adultos, e provavelmente cada um com seus motivos para estar lá. A história tenta explorar mais os motivos do amigo do colega de quarto de Chris, mas mesmo ele no final ainda é uma incógnita. Sabemos uma coisa ou outra dele através de suas falas, mas elas não convencem o suficiente.
+
+E a mesma coisa acontece com o personagem de Selton Mello. Chris, quando sozinho, aparentemente está perdido e surtando, mas a forma com que o filme resolve mostrar isso e a forma com que Mello resolve vivenciar estão em claro descompasso com a história, que não sabe direito onde focar. O resultado é um processo burocrático que só resta acompanhar, mas que nunca gera drama ou tensão para o espectador. Até porque ninguém sabe ao certo qual o objetivo de Chris.
+
+O problema talvez é que nem o próprio Chris ao certo sabe o que veio fazer naquele isolamento forçado, o que torna sua história algo complicado de contar sem muitas pistas de onde ela irá chegar. Chris chega dizendo que quer se desconectar do mundo, mas está a todo momento tentando agradar as únicas quatro pessoas em sua volta. O rapaz está confuso, mas não fica engraçado. Apenas patético, embora dê o tom bem-humorado à história (onde aí a pequeníssima participação de Seu Jorge faz com muito mais propriedade).
+
+O uso da trilha sonora aqui é uma outra incógnita. Utilizando momentos intensos, com a música tomando posse de algumas cenas com toda força e sendo cortada rudemente após isso, a lógica sonora do filme nunca faz sentido, é apenas uma distração estética. Considerando pelo título que ela deveria ser algo importante da história, ela mais confunde que ajuda. No máximo sua participação incidental demonstra que é possível mudar nossa percepção com sons. Ótimo. Isso já sabemos. Mas há uma cena sobre uma montanha que resolve explicar isso para o público leigo, só pra ter certeza.
+
+A pergunta que fica é se Soundtrack poderia ser um filme melhor ou, dado o material, esse é o máximo que ele chega? Ele entretém, isso é verdade, e isso a despeito de suas esquisitices. Mas não nos mantém muito a par de por que estamos tão interessados em sua história. Se isso é uma virtude ou não, acredito que isso fica a cargo do espectador descobrir. E ele que escolha sua própria trilha sonora para curtir o momento.
 

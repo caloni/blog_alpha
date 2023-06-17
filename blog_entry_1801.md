@@ -1,46 +1,31 @@
 ---
 
-Confesso que adoro estudar sobre a história da linguagem C. Essa verdadeira adoração pela linguagem me fez estudar suas precursoras, como as linguagens BCPL e B. Posso dizer que todo esse conhecimento, no final das contas, valeu a pena. Hoje entendo muito melhor as decisões tomadas na criação da linguagem e, principalmente, a origem de algumas idiossincrasias e boas idéias que permaneceram até hoje.
+Devido à grande procura através de mecanismos de busca (vulgo Google), estarei republicando esse artigo dividido em partes (até porque existem partes não acabadas), cada parte descrevendo um conceito geral do que representou cada versão do sistema operacional. Bem-vindos ao [História do Windows].
 
-{{< image src="martin_richards.gif" caption="Esse distinto cavalheiro inglês é Martin Richards" >}}
+Tudo começou em 1981, quando chegou às lojas o primeiro IBM PC, uma poderosa máquina de 4.7 MHZ, 64 (KB!) de RAM e um drive de disquete de 160 KB. Já havia sido lançado em agosto o MS-DOS, sistema operacional encomendado pela IBM à empresa recém-criada por Paul Allen e Bill Gates, a Microsoft Corporation. O DOS foi baseado num sistema básico anterior produzido pela Seattle Computer Products.
 
-Em 21 de julho de 1967 Martin Richards libera [o manual] da sua recém-criada linguagem BCLP. Na verdade, ela havia sido criada em 66 e implementada na primavera do ano seguinte no Instituto de Tecnologia de Massachusetts (vulgo MIT). Seus objetivos eram claros, como para todo criador de uma nova linguagem: melhorar uma linguagem anterior. Nesse caso, foi uma melhoria da Combined Programming Language (CPL), retirando, de acordo com Martin, "todas aquelas características da linguagem completa que tornavam a compilação difícil".
+No mesmo ano uma empresa chamada Xerox pôs ao mundo uma estação de trabalho gráfica chamada Star. Do Star vieram os conceitos de janelas, ícones, e o uso de um hardware apontador de tela chamado de mouse. De lá foram tiradas, portanto, as principais idéias que moldaram a criação dos futuros sistemas operacionais que revolucionaram o conceito de interação computador/usuário, como o LISA, da Apple -- que mais tarde também deu origem ao Macintosh -- e o sistema gráfico da Microsoft chamado Windows.
 
-E BCPL era de fato bem simples. Não tinha tipos, era limpa e poderosa. Porém, mais importante que tudo isso, ela era portável. E essa portabilidade, aliada ao fato que escrever compiladores para ela era bem mais simples (alguns compiladores rodavam com apenas 16 KB), a tornaram especialmente popular na época.
+Em novembro de 1983 a Microsoft Corporation anuncia oficialmente, no Plaza Hotel em Nova York, o Microsoft Windows, a próxima geração de sistemas operacionais que irá ter uma interface gráfica para o usuário (GUI) e ambiente multitarefa. É possível que o nome original do sistema tivesse sido Interface Manager se um dos gênios do departamento de marketing da Microsoft, Rowland Hanson, não tivesse convencido o fundador da empresa, Bill Gates, que Windows seria um nome melhor por ser mais intuitivo. A promessa inicial dizia que o sistema iria ser lançado em abril do próximo ano.
 
-Essa portabilidade era obtida com o uso de um artifício mais ou menos conhecido da comunidade C/C++ hoje em dia: a divisão entre código objeto e código final. O compilador era dividido em duas partes: a primeira parte era responsável por criar um código em estado intermediário feito para rodar em uma máquina virtual. Esse código era chamado de O-code (O de object). A segunda parte do compilador era responsável por traduzir esse O-code no código da máquina-alvo (onde iria ser rodado o programa). Essa sacada genial de 40 anos atrás permitiu que fosse mais simples fazer um compilador para uma nova plataforma e portar todo o código que já tinha sido escrito para uma plataforma anterior, driblando o grande problema daquela época: a incompatibilidade entre plataformas.
+No início daquele ano, então, foi mostrada uma versão beta aos chefões da IBM, que não se mostraram muito entusiamados. Na verdade, a criadora do Personal Computer estava trabalhando num novo projeto que substituiria o sistema original da Microsoft, o MS-DOS.
 
-{{< image src="ocode.gif" caption="Processo de geração do BCPL O-code" >}}
+Surgiram concorrentes potenciais do Microsoft Windows. VisiOn, da VisiCorp, foi a primeira GUI oficial lançada para PC. GEM (Graphical Environment Manager), lançada pela Digital Research no começo de 1983. No entanto ambos careciam do suporte de desenvolvedores para a plataforma. Ora, se ninguém quer fazer programas para um sistema, quem vai querer comprá-lo?
 
-Perceba que é possível fazer toda a parte do compilador detrás do código-objeto uma única vez e, conforme a necessidade, criar novos interpretadores BCPL para máquinas diferentes.
+Um produto chamado Top View fora lançado pela IBM em fevereiro de 1985, baseado em DOS com um gerenciador multitarefa, mas sem uma GUI. Era lento e precisava de muita memória. Acabou sendo descontinuado dois anos depois e nunca chegou a ter uma interface gráfica.
 
-{{< image src="portable_bcpl.gif" caption="Interpretação do o-code para código da máquina alvo" >}}
+Antes do lançamento do Windows, advogados da Apple alertavam sobre a possibilidade do sistema infringir os direitos e patentes que a empresa tinha sobre as características da sua interface gráfica, a LISA (janelas com barra de título, menus drop-downs, suporte a mouse, etc). Daí o fundador da Microsoft, Bill Gates, teve a idéia brilhante de firmar um contrato de licença com a Apple, dando-lhe o direito de incluir em todas as futuras versões do Windows e programas os conceitos de GUI adquiridos pelo sistema gráfico da Apple (isso antes do Windows ser lançado).
 
-O código intermediário é gerado para uma máquina virtual. O interpretador, cerca de um quinto do compilador, tem a função de traduzir o código gerado para a máquina-alvo. Qualquer semelhança com Java ou .NET não é mera coincidência. Pois é. As boas idéias têm mais idade que seus criadores.
+Finalmente, em 20 de novembro de 1985, a Microsoft lança o Windows 1.0, quase dois anos depois da promessa inicial. Foi vendido inicialmente por 100 USD. Continha em seu pacote: MS-DOS Executive, Calendar, Cardfile, Notepad, Terminal, Calculator, Clock, Reversi, Control Panel, PIF (Program Information File) Editor, Print Spooler, Clipboard, RAMDrive, Windows Write e Windows Paint.
 
-É inevitável também não fazer a associação entre essa forma de funcionamento do compilador BCPL e a divisão feita em C/C++ entre o pré-processador, o compilador e o ligador (linker, em inglês).
+{{< image src="windows1.png" caption="Windows 1.0" >}}
 
-{{< image src="ccpp_build_steps.gif" caption="Processo de compilação C/C++" >}}
+O novo sistema não fez muito sucesso de imediato. Pelo contrário, foi considerado lento e primitivo. Devido às limitações impostas pela Apple o sistema não pôde apresentar certas características como a sobreposição de janelas e a famosa lixeira (um conceito proprietário da Apple). Ficou cerca de dois anos boiando no mercado até que foi lançado um produto chamado Aldus PageMaker 1.0. PageMaker foi o primeiro programa WYSIWYG (What You Seee Is What You Get) para o PC. Tinha a grande novidade de juntar tipos e gráficos no mesmo documento. Depois de um ano, a Microsoft lança uma planilha de cálculos chamada Excel. Mais tarde outros produtos como Microsoft Word e Corel Draw ajudaram a aumentar a popularidade do Windows, embora esse ainda precisasse de muitas melhoras.
 
-O uso do pré-processador na linguagem C facilitou a portabilidade por um bom tempo, quando não existiam typedefs. Diferente do BCPL, C já tinha tipagem, o que quer dizer que era necessário escolher o espaço de armazenamento que seria utilizado para as variáveis. Com o pré-processamento, essa escolha pode ser feita de maneira seletiva, documentada e generalizada.
-
-    #ifdef SBRUBLE_PLATFORM
-    #define UINT unsigned char /* space limitation */
-    #else
-    #define UINT unsigned int
-    #endif
-
-Como é natural, o código-fonte de uma aplicação tende a crescer em muitas linhas durante sua evolução, especialmente se estamos falando de sistemas operacionais. A compilação desse código vai tomar cada vez mais tempo no processo de desenvolvimento. Por isso, manter esse código-fonte em um mesmo arquivo eventualmente torna-se inviável, tornando a compilação de módulos separados uma solução pra lá de elegante. Compila-se apenas o módulo que foi modificado e liga-se esse módulo com módulos pré-compilados.
-
-Para continuar lendo sobre a história da linguagem existe uma [segunda parte].
-
-[o manual]: {{< resource src="bcpl.pdf" >}}
-[segunda parte]: {{< relref "historia-da-linguagem-c-parte-2" >}}
+[História do Windows]: {{< relref "historia-do-windows" >}}
 
 ---
 categories:
 - coding
-date: '2007-08-15'
-tags:
-- ccpp
-title: 'História da Linguagem C: Parte 2'
+date: '2007-07-04'
+title: História do Windows - parte 2.0

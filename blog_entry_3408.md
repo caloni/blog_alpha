@@ -1,40 +1,17 @@
 ---
 categories:
-- coding
-date: '2023-04-09'
+- writting
+date: '2012-02-15'
+link: https://www.imdb.com/title/tt2231505
 tags:
-- interview
-title: Segundo maior número
+- movies
+title: Selkirk el verdadero Robinson Crusoe
 ---
 
-Esta é uma das primeiras questões que peguei para praticar para entrevistas que é ligeiramente mais complicada do que parece, apesar de simples o suficiente para matar em alguns segundos. A questão: como determinar qual o segundo maior número de um array?
+Impressionante essa animação argentina sobre o livro de Robinson Crusoé que, salvo alguns momentos difíceis tecnicamente, possui efeitos e direção dignos de outras produções mas conhecidas, como Wallace e Gromit (que também estreia recentemente com um filme de piratas).
 
-Note que não é o maior número, mas o segundo maior. O que parece fácil. O que está implícito e o candidato deve descobrir é que para saber o segundo maior é necessário manter o tracking do primeiro todo o tempo.
+Porém, melhor que os efeitos é a história, que além de seguir fielmente o espírito do livro não apela para piadas fora de contexto tão comuns em filmes infantis, além de não tentar suavizar por demasiado temas potencialmente impactantes, como morte (incluindo suicídio) e motim.
 
-Sempre que precisar resolver problemas com segundos ou terceiros elementos você deve manter uma segunda ou terceira variável. A primeira variável mantém o maior elemento e a segunda variável o segundo maior elemento. Sempre que você encontrar algum elemento maior que esses dois você deve atualizá-los de acordo. Depois de varrer toda a lista a segunda variável irá conter o segundo maior número.
-
-Em C++:
-
-```
-int SecondLargest(vector<int> array)
-{
-    int first = max(array[0], array[1]);
-    int second = min(array[0], array[1]);
-
-    for (size_t i = 2; i < array.size(); ++i)
-    {
-        if (array[i] >= first)
-        {
-            second = first;
-            first = array[i];
-        }
-        else if( array[i] > second )
-        {
-            second = array[i];
-        }
-    }
-
-    return second;
-}
-```
+É notória que a melhor sequência do longa fica por conta do momento em que Selkirk é abandonado na ilha e deve se virar com o que tem para sobreviver, inclusive com moedas de ouro, que para ele, isolado da sociedade, possuem outra função e valor (diga-se de passagem muito mais importante por ser mais essencial).
+Com ares de lição de moral, às vezes se confundindo com moral religiosa, Selkirk diverte de maneira moderada, mas possui o grande trunfo do aprendizado por exemplo, ainda que idealizado.
 

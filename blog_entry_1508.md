@@ -1,124 +1,22 @@
 ---
-
-Uma dúvida besta e importante ao mesmo tempo que muitos iniciantes em C++ possuem é saber qual a diferença entre um objeto declarado como _class_ e um objeto declarado como _struct_. A causa dessa dúvida é uma linguagem que se derivou de outra (C) que não possuía classes, e portanto criou a palavra-chave _class_ para "ficar bonito", pois, na prática, não muda muita coisa. Tomemos como exemplo o código mais simples de todos:
-
-```
-struct MinhaEstrutura
-{
-};
-
-class MinhaClasse
-{
-};
-
-int main()
-{
-    MinhaEstrutura me;
-    MinhaClasse mc;
-}
-
-```
-
-Ele compila e roda sem problemas:
-
-{{< image src="APlOm65.jpg" caption="StructVsClass" >}}
-
-"Estruturalmente" falando, **MinhaEstrutura** e **MinhaClasse** são idênticas, pois são os detalhes de sintaxe que diferem, e diferem pouco. Abrindo o jogo, a única diferença que poderá ser sentida em usar um ou outro é que **structs possuem seus membros públicos por padrão e classes possuem seus membros privados por padrão**. Apenas isso. O resto, nada muda.
-
-Isso pode ser visto quando adicionamos um construtor para nossos tipos de teste:
-
-```
-struct MinhaEstrutura
-{
-    MinhaEstrutura() {}
-};
-
-class MinhaClasse
-{
-    MinhaClasse() {}
-};
-
-int main()
-{
-    MinhaEstrutura me;
-    MinhaClasse mc;
-}
-
-```
-
-{{< image src="vwpucpm.jpg" caption="StructVsClass-Construtor" >}}
-
-Antes não havia problemas para **MinhaClasse** porque o construtor padrão criado para ela é público por default. Porém, explicitando no código um construtor e deixando sua privacidade ligada por padrão temos esse erro que NÃO ocorre em **MinhaEstrutura**.
-
-Mas, então, posso criar todas minhas classes usando a palavra-chave struct?
-
-Isso mesmo! Nada lhe obriga tecnicamente a usar class. Porém, assim como nada lhe obriga a usar uma linha para cada comando na linguagem ¿ afinal, todos poderiam estar na mesma linha separados por ponto-e-vírgula ¿ o uso da palavra _struct_ para classes no sentido de "objetos que possuem inteligência, métodos, herança, polimorfismo e outras firulas" não se enquadra nas boas práticas dos programadores C++.
-
-Geralmente uma _struct_ é uma forma de concatenar tipos primitivos e só. Algumas liberdades além disso geralmente são permitidas, mas desencorajadas, como um construtor que inicia os membros da _struct_ com valores-default.
-
-```
-#include <iostream>
-
-struct MinhaEstrutura
-{
-    MinhaEstrutura()
-    {
-        x = 0;
-        y = 2;
-        c = 'C';
-    }
-
-    int x;
-    int y;
-    char c;
-};
-
-int main()
-{
-    MinhaEstrutura me;
-    std::cout << "x: " << me.x << ", y: " << me.y << ", c: " << me.c << std::endl;
-}
-
-```
-
-{{< image src="rdpllNf.jpg" caption="StructVsClassStructConstructor" >}}
-
-E, por que não, uma sobrecarga do operador de stream para imprimirmos diretamente os valores de **MinhaEstrutura** para a saída com apenas um comando?
-
-```
-#include <iostream>
-
-struct MinhaEstrutura
-{
-    MinhaEstrutura() { x = 0; y = 2; c = 'C'; }
-    int x; int y; char c;
-};
-
-std::ostream& operator << (std::ostream& os, const MinhaEstrutura& me)
-{
-    std::cout << "x: " << me.x << ", y: " << me.y << ", c: " << me.c;
-    return os;
-}
-
-int main()
-{
-    MinhaEstrutura me;
-    std::cout << me << std::endl;
-}
-
-```
-
-{{< image src="np4trf9.jpg" caption="StructVsClassStreams" >}}
-
-Enfim, não há nenhum limite que se aplica a uma _struct_ além do bom senso. A criação da palavra _class_ não foi por falta do que fazer. Ela diz claramente que estamos definindo um objeto que contém usos mais adequados à orientação a objetos de C++ do que a programação estruturada de C, e vice-versa. É uma forma de tornar o código mais legível, mas nada do outro mundo. Sabemos, no final das contas, que o compilador trata as duas (quase) da mesma maneira.
-
-Qual será a próxima batalha épica? Você escolhe!
-
----
 categories:
 - writting
-date: '2021-05-22'
-link: https://www.vivino.com/wineries/etchart
+date: '2016-01-06'
+link: https://www.imdb.com/title/tt0344510
 tags:
-- wine
-title: Etchart
+- movies
+title: Eterno Amor
+---
+
+Um misto de remorso pelas agruras da guerra com a energia de uma investigação guiada unicamente pela fé (ou pelo amor). A beleza da fotografia fria e triste do front se contrapõe aos horizontes oníricos do presente nostálgico, que clama pela elucidação completa de um passado nebuloso que separou um casal apaixonado prestes a se casar. Eterno Amor é pura poesia na forma de criatividade narrativa. Um Pierre Jeunet que retrabalha sua Amélie Poulain em traços mais cruéis e menos esperançosos, e que tenta soar como um romance épico em torno de personagens com pouca alma e muita persistência.
+
+Utilizando novamente Audrey Tautou, a namoradinha da França, o diretor Jean-Pierre Jeunet mais uma vez aplica a belíssima fotografia de seu colaborador Bruno Delbonnel (Harry Potter e o Enigma do Príncipe, Inside Llewyn Davis: Balada de um Homem Comum, Amélie Poulain) e a dinâmica e inventiva montagem de seu editor Hervé Schneid (Micmacs - Um Plano Complicado) para contar uma história cheia de poder criativo, mas que encontra em seu núcleo um drama intransponível para o estilo do diretor.
+
+Sua busca incessante, no entanto, em tentar juntar todas as pistas que a bela mas manca Mathilde (Tatou) vai acumulando, testemunho após testemunho, em busca da verdade definitiva a respeito do paradeiro de seu amor, Manech (Gaspard Ulliel), é tão contagiante que o mundo que se cria em torno acaba compensando a total falta de realismo nesse conto quase-surrealista.
+
+Com aspectos técnicos impressionantes a cada cena -- exceto talvez pela música de Angelo Badalamenti, repetitiva e monótona, mas ainda assim condizente com a proposta do filme -- e com um ritmo que vai se formando pela repetição (a insistência do carteiro em espalhar o cascalho da entrada da casa de Mathilde, só pelo bem da "entrada triunfal"), o roteiro da dupla Guillaume Laurant e do próprio Pierre Jeunet, baseados no romance de Sébastien Japrisot, não consegue se desvencilhar da sua complexidade em utilizar diferentes personagens que se parecem em situações que se embaralham, o que se por um lado acaba contribuindo para a atmosfera de desorientação de Mathilde, vai aos poucos se tornando uma distração incômoda para o espectador, que já não espera encontrar qualquer conexão memorável entre as pistas.
+
+Até mesmo a dualidade de cores frias da guerra com as cores sempre aquecidas do presente da protagonista, fascinante no começo, também vai se esvaecendo com a cada vez mais distante capacidade de atribuir significado naquele emaranhado de símbolos. Jeunet se deixa sabotar pela sua própria obsessão de detalhes, e assim como seu mais recente trabalho, Uma Viagem Extraordinária, se esquece das emoções primárias de seus personagens para focar unicamente nas idiossincrasias de sua complexa história.
+
+O que acaba por fim em tornar tudo aquilo uma imensa espiral de eventos que revela uma estrutura tal qual as escadas do farol onde o casal se encontrava: aparentemente infinita, mas se encarada com dedicação e empenho, alcançável até por uma manca que deseja enxergar além de suas limitações físicas. É o metafísico celebrado em vida. A mágica de usar o cinema como cornucópia de simbolismos visuais.
+

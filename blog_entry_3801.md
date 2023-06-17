@@ -1,28 +1,26 @@
 ---
 categories:
 - writting
-date: '2016-11-17'
-link: https://www.imdb.com/title/tt1679335
+date: '2010-09-25'
+link: https://www.imdb.com/title/tt0861739
 tags:
 - movies
-title: Trolls
+title: Tropa de Elite
 ---
 
-Um milagre acontece. E está um bom ano para milagres em animação. Trolls, assim como Angry Birds como adaptação de games e Zootopia como a contemporaneidade da vida social, consegue se tornar um exemplo ainda melhor de como pegar um fiapo de argumento -- brinquedos feios da década de 80/90 -- e transformar em uma ode à felicidade, à referência de uma era, ao retorno da simples e não-cínica vida comum.
+Assisti depois de muito tempo ter sido uma febre entre as pessoas. As frases que se tornaram famosas ouvi pela primeira vez. Mas nem por isso o filme deixou de ter o peso que acreditava que tivesse.
 
-Para isso ele conta com uma quantidade monstruosa de canções famosas de várias décadas em vários formatos, que fazem o percurso histórico do dance e do pop através das simpáticas figuras de um grupo de pequenas criaturas que cantam, dançam e se abraçam de hora em hora -- essa basicamente é a cultura deles -- sempre incentivados por sua amada princesa, que conta as histórias de seu povo através de recortes fofinhos, e seu leal rei, que não abandona ninguém quando sua aldeia é invadida por terríveis "gigantes" (para eles) chamados de Bergens. 
+A história conta sobre o Batalhão de Operações Especiais da polícia do Rio de Janeiro, uma cidade em eterna guerra com os traficantes. Melhor que isso, a história aborda vários esquemas de corrupção e o funcionamento do treinamento dos policiais que integram o BOPE.
 
-A sequência de fuga é narrada como um épico, com uma trilha grandiosa e todo o peso que isso acarreta. Isso não impede que logo os Trolls se recuperem e voltem a contar os minutos até o próximo abraço coletivo. De certa forma, a luta pela felicidade torna o grupo sempre unido.
+Sempre com uma câmera nas mãos, pela urgência da história e pelo realismo das cenas, a ação nunca deixa de ser bem contada, com uma fluidez até mesmo nas cenas de mais movimentos.
 
-Exceto pela figura do antipático Branch (Justin Timberlake no original), um troll que evita a todo custo os rituais de seu povo, e que, diferente de todos eles, mantém em sua pele uma cor escura e de aspecto apagado. Todos os Trolls são coloridíssimos, e até a fauna e flora que os cerca contém cores surreais. Isso sem contar, é claro, com os mais enfeitados ainda, que soltam purpurina de orifícios que geralmente contém elementos desagradáveis da vida humana.
+Ainda com respeito aos enquadramentos, sou capaz de citar a transição entre o treinamento da tropa para uma das operações nos morros seguido de uma sequência que levanta nossa visão para aquele que parece mais uma praça de guerra como um dos grandes momentos em que podemos notar a competência da direção nos pequenos detalhes.
 
-Mas este não é um filme sobre humanos, mas como duas raças podem ser inimigas baseado de maneira acéfala em um ritual que diz que para os Bergens, a única forma de ser feliz é se alimentando de um troll. Bergens e Branch, logo se percebe, possuem algo em comum: desistiram de buscar a felicidade em si mesmos e na comunicação com os outros. Há uma sequência musical em que eles são apresentados em uma remixagem inspiradíssima de uma música da banda virtual Gorillaz de Justin Timberlake.
+É um bônus ter visto que os personagens são bem apresentados, tanto que a história se divide em capítulos que explicam primeiramente as duas escolhas do Capitão Nascimento, o protagonista do filme, que realiza um trabalho tenso e coeso com seu personagem que mantém-se "profissional" até nos piores momentos do BOPE, mas ao mesmo tempo uma pessoa de carne e osso, que sofre de estresse e tem problemas familiares. E é impressionante constatar que toda a ação e violência que vemos tão bem orquestrada nas telas nos remete justamente para este personagem, que encarna de maneira condensadora todas as questões em pauta em um filme tão rico de conteúdo quanto de visões de um mesmo problema.
 
-Aliás, desconfio que o dedo de Timberlake na produção e dublagem do filme conseguiu reunir toda a sequência musical de sua trilha sonora, em uma coleção de direitos autorais que formam uma mensagem clara através desses cabeludinhos coloridíssimos. Afinal de contas, a maioria das músicas é psicodelia pura que caminham desde uma época inocente (anos 60, 70) até as revisões do passado (anos 2000).
+Ainda acende novamente a velha discussão da segurança pública e o papel da sociedade, onde cada ação desencadeia outra, onde existem múltiplas visões de quem são os culpados por tanta violência, e onde longe de ser o esquema maniqueísta de mocinho x bandido que gostaríamos que fosse, este é um problema no fundo de todos nós, traficantes ou não, policiais ou não, corruptos, certinhos, ricos e pobres.
 
-Além disso, o uso inspirado da união entre os dois mundos torna a história de amor contida entre dois jovens Bergens o núcleo emocional da história em uma recapitulação de Cinderela que também homenageia clássicos da Disney em um formato solto em sua irretocável primeira metade, e que aos poucos dá lugar a uma estrutura quase convencional em seus finalmente.
+Mais uma coisa que tinha esquecido: o fato da narração ser em off e aparentemente onisciente (Cap. Nascimento) dá a impressão que o protagonista já foi dessa para melhor, como Beleza Americana, e como é zoado em Kick Ass. Por eu ter visto o trailer da sequência, não havia como me enganar, mas a intenção aparentemente do longa era exatamente essa, apesar dele não ter se envolvido em nenhuma encrenca.
 
-É preciso citar o apuro técnico da animação, que consegue criar feições humanas extremamente realistas no rosto dos bonecos -- como um sorriso preocupado da princesa Poppy ao se fechar uma porta -- e que aliado à criatividade dos roteiristas, cria diferentes formas de se utilizar os longos e flexíveis cabelos dos pequeninos, desde chicotes até camuflagem. A direção frenética da dupla Walt Dohrn e Mike Mitchell não dão tempo o suficiente para pensarmos a respeito do que vemos, o que é ótimos se entendermos que não há espaço em um filme sobre brinquedos de se voltar para tramas complexas e reviravoltas inesperadas.
-
-Não, tudo é previsível em Trolls, e ainda assim tudo se torna extremamente cativante e emocionante. Não é possível evitar o clichê no momento em que True Colors, uma remasterização Timberlake de Cyndi Lauper, finalmente é cantada. Porém, toda a pausa dramática para esse momento torna Trolls um filme que encanta pela capacidade de contar história abraçando a história que tem, sem ressalvas de soar simplista ou brega demais. Até porque esta é quase também uma ode muito bem feita à "breguice" dos hits do momento.
+Fora alguns detalhes mal resolvidos que parecem aberturas exatamente para deixar o filme mais aberto a conclusões diferentes, abordagens diversificadas e até mesmo para o realismo da história, o filme é um primor de lógica e continuidade, com ênfase na cena inicial que é resgatada no momento-chave em que Cap. Nascimento precisa de um substituto e está remoído de remorso pela morte do fogueteiro.
 

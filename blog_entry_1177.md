@@ -1,16 +1,51 @@
 ---
-
-O primeiro livro de Jeff Lindsay, que deu origem à série de livros do serial killer que mata serial killers (além da própria série televisiva de oito temporadas), é um relato intimista e bem-humorado de uma pessoa que não consegue se ajustar socialmente, então finge ser alguém que não é. Curto, mas suficiente, dá uma boa ideia sobre como é esse personagem tão fascinante, em um esboço criado a partir de seus próprios pensamentos. Lendo após terminar a série, vejo quão bem feito ficou o protagonista estrelado por Michael C. Hall, e quantas boas ideias surgiram de uma premissa interessante. Uma adaptação que começou muito bem na primeira metade, para covardemente tropeçar desfiladeiro abaixo na segunda metade.
-
-E isso porque a adaptação tinha tudo para dar errado. A narração em off de Dexter no livro é uma descrição muito mais interna que externa, e não há muitos momentos de ação no livro. A série sofre da falta de personagens secundários interessantes, e assim como House, patina em dramas paralelos que não acrescentam em nada na história principal. A parte acrescentada do universo onde vive o serial killer foi tirado de uma série genérica, o que é uma pena. Contudo, tamanho é a força do "herói" da história, e tamanha interpretação de C. Hall para o papel, que conseguimos desculpar boa parte das bobagens que vemos na TV.
-
-Já o livro mantém o clima de suspense, e muitas vezes trapaceia jogando a pista falsa. Seu forte é o bom humor, e um humor negro que revela o cerne da questão (do livro e da série): não é apenas a história de um serial killer, mas de cada um de nós. Disfarçados em uma persona que agrade a todos o suficiente para que não se façam perguntas em demasiado, todos nós carregamos um Passageiro Sombrio em nós mesmos. Claro, não matamos ninguém (pelo menos a maioria), mas a aula sobre como funciona socialização de seres humanos dada por Dexter, em como fingir expressões, dizer o que as pessoas esperam ouvir, e conseguir se livrar da maioria dos aborrecimentos que é conviver com os outros é a maior virtude do livro.
-
----
 categories:
-- writting
-date: '2020-03-28'
-link: https://www.imdb.com/title/tt0139961
-tags:
-- movies
-title: Das Tripas Coração
+- coding
+date: '2016-08-16'
+tags: null
+title: DBAccess
+---
+
+Bancos de dados são uma dor de cabeça para o desenvolvedor acessar. Quase tão motivation killer que as configurações do .NET. Se for um programador em C++ para Windows, então, desista.
+
+O DBAccess é mais um dos códigos-fonte desenterrados dos meus backups. Esse eu usei já em vários projetos, porque é simples e rápido de usar.
+
+```
+class DBAccess
+{
+public:
+	/// Factory para base de dados específica.
+	/// @param database Pode ser "sqlite" ou "oledb".
+	static DBAccess* CreateDBAccess(const std::string& database);
+
+	typedef std::string ColumnName;
+	typedef std::vector<std::string> Rows;
+	typedef std::map<ColumnName, Rows> RowSet;
+
+	virtual ~DBAccess() { }
+
+	virtual bool Connect(const std::string& connectionString) = 0;
+	virtual bool Disconnect() = 0;
+
+	/// Executa uma instrução SQL e retorna opcionalmente os resultados (se for uma query).
+	virtual bool Execute(const std::string& command, RowSet* response = 0) = 0;
+};
+```
+
+Sua função é abstrair a abertura de um banco de dados, sua execução e sua saída. Para isso ele cria uma interface simples que usa STL. Por debaixo dos panos, usa OLEDB, que abstrai qualquer coisa, só precisando de instalar o driver e aprender qual [das 500 mil combinações](https://www.connectionstrings.com/) é a string de conexão correta. Para não ter que usar outras funções para coisas simples como sqlite, foi incluído seu suporte (que é mais uma tradução entre interfaces), necessitando para seu uso daquele projeto do sqlite que contém um header e um .c (pelo jeito o pessoal desse projeto também gosta de simplificar as coisas).
+
+O código que trata o OLEDB é um pouco grande (umas 300 linhas) por conta da manipulação dos componentes COM. Porém, feito decentemente, faça uma vez e use um milhão (ainda falta fazer alguns unit tests, aliás).
+
+```
+IDataInitialize* pIDataInitialize;
+IDBInitialize* pIDBInitialize;
+IDBCreateSession* pIDBCreateSession;
+IDBCreateCommand* pIDBCreateCommand;
+```
+
+É um bom projeto para entender o uso da minha batidíssima biblioteca de parsear argumentos argv/argc (Args.cpp/h) e a mais batidíssima ainda [biblioteca de Log](http://caloni.com.br/logs-em-servicos-e-outras-coisas), que utiliza variadic templates para se livrar da maldição dos crashs causados pela falta de tipagem do printf e derivados (em Log.cpp/h).
+
+Além disso, observe como o uso de interface permite que os headers específicos do que tem que ser feito (e.g. oledb.h, atlbase.h, msdasc.h, sqlite.h e até windows.h) não precisa necessariamente estar presente no header da interface (oledb.h), e como o uso de um factory em um método estático da interface permite que a junção das tecnologias envolvidas fique apenas no oledb.cpp. Dessa forma, para retirar ou acrescentar novas formas de comunicação com um banco de dados é muito simples.
+
+_PS: A publicação do __DBAccess__ foi inspirada na thread iniciada por Spagiari no [nosso grupo C/C++](https://groups.google.com/forum/#!topic/ccppbrasil/3qtvxelVrdc)._
+

@@ -1,11 +1,14 @@
 ---
 categories:
 - writting
-date: '2022-02-22T21:29:57-03:00'
+date: '2012-01-09'
+link: https://www.imdb.com/title/tt0448694
 tags:
-- food
-title: O Garimpo de Embu
+- movies
+title: O Gato de Botas
 ---
 
-Fomos em família em uma segunda-feira 14:30, um período bem tranquilo. Os funcionários estavam esparsos e tivemos que ir ao fundo do restaurante para encontrar alguém para nos explicar como funcionava. Lá há um buffet de preço fixo e a la carte. Preferimos o buffet para experimentar um pouco de tudo. A salada estava boa, as comidas quentes bem temperadas, mas sem muita variedade. Das carnes um pouco de galinha, filé de frango, costelinha e linguiça. Todos muito bem temperados e um tanto fortes. Os sucos são feitos na hora e com bom sabor. Há um bom espaço entre as mesas, que estavam vazias. O atendente falou que há sete espaços no total, mais usados no final de semana. Talvez o a la carte seja mais especial, mas me pareceu um restaurante comum, bem cuidado, com boa aparência e em uma cidade turística. Há muitas opções no cardápio para escolher, o que pode te deixar bem perdido do que pedir.
+Direção de arte nova que dá um novo respiro ao gato. Sequências e sacadas inspiradas na intro (como o fato dele ser um gato implica em problemas de estatura, ou como segue luzinha no chão). Até a história do passado, apesar de não convencer, é contada de forma convincente, e a inclusão de Humpty Dumpt é muito bem vinda ao adicionar um caráter mais adulto e contraditório. Já se a intro da gata e dos dois vilões é primorosa, o mesmo não se pode dizer do seu desenvolvimento, esquecido, já que suas funções são pontuais/artificiais e nunca fazem muita diferença na narrativa.
+
+O fato é que, com exceção dos dois, não existe aqui nenhuma criação primorosa de personagem ou mesmo de história, que acaba prejudicando a continuidade na que poderia ser a melhor sequência do longa no pé de feijão, mas que perde o ritmo facilmente. E o que dizer da conclusão bobinha que revela que o projeto não contempla nem um fechamento coerente, se bastando nas gracinhas.
 

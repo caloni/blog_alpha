@@ -1,21 +1,20 @@
 ---
 categories:
 - writting
-date: '2018-10-28'
-link: https://www.imdb.com/title/tt7186036
+date: '2010-09-24'
+link: https://www.imdb.com/title/tt1027718
 tags:
-- cinemaqui
 - movies
-title: Volcano
+title: 'Wall Street: O Dinheiro Nunca Dorme'
 ---
 
-A Ucrânia pós-comunismo ainda tem uma lição ou duas a ensinar sobre como sociedades funcionam no Leste Europeu. Em Volcano ela coloca Lukas, um urbanoide civilizado, em contato com um ambiente hostil. Mas será mesmo hostil, ou estamos acostumados a pensar dentro da nossa caixa social que se organiza em presidente, ministros e o povo? Só o fato da estranheza do filme nos fazer pensar um pouco a respeito disso já é digno de nota.
+Essa seria a continuação do original Wall Street, quando o protagonista sai da prisão e sua filha namora um operador de Wall Street.
 
-Mas esta também é uma viagem interna de seu protagonista, onde ao encontrar o pitoresco Vova, interpretado por Viktor Zhdanov, Lukas, interpretado por Serhiy Stepansky, realiza o contraponto necessário para entendermos as diferenças na vida dos dois e o que os fez chegar onde chegaram.
+O que vemos no começo é a caracterização da crise na forma de personagens muito bem caracterizados e com papéis bem definidos, como na fatídica reunião da quebra do primeiro banco de investimentos, em uma reunião contada com uma fotografia sombria e movimentos tensos.
 
-A cidadezinha ao sul da Ucrânia é uma terra de ninguém e Lukas decide ficar por lá. Por quê? Talvez essa não seja a pergunta certa. Talvez a pergunta seja: por que não você? O que temos a perder nessa vida?
+O movimento de câmera, aliás, busca frequentemente tentar inovar, como na sequência em que o protagonista sobe o prédio e vemos a câmera girar a subir do lado de fora, acabando por atravessar a parede de vidro. Um tanto previsível, mas funciona para dar uma ideia da grandeza em volta daquele bairro de Nova York.
 
-Primeira ficção do diretor Roman Bondarchuk, Volcano é um trabalho que nos capta pelo ritmo, pela cadência e pelo clima. Estamos em um ambiente onde as regras precisam ser aprendidas aos poucos, e isso dá ao espectador algo para pensar por boa parte do filme. E ao final do filme ainda há muito o que ser desvendado, mas as ferramentas são expostas o suficiente para a sobrevivência do herói.
+Aliás, previsibilidade pode ser descrita de duas formas nesse filme: de um lado sabemos várias coisas que aconteceram na crise e que são reproduzidas uma a uma na narrativa, e por outro, o destino dos personagens é imprevisível seja pelo caos que vira o roteiro de ponta-cabeça, colocando uma filha que não se decide se gosta do pai, se gosta de dinheiro e quais suas motivações.
 
-O que mais fascina no filme é como ele consegue evitar diálogos desnecessários e passar para a observação pura e simples. E é através dessa observação que seus melhores momentos são forjados. Já seus piores momentos são as tentativas de colocar um pouco de ordem na história. Não precisamos de ordem. O que precisamos são pessoas que consigam pendurar a colher na testa.
+Com boas cenas que mantém a tensão na primeira metade do filme (como as reuniões de negócio já citadas), o filme vai se esvaindo da sua premissa e vai perdendo seus personagens que tanto desejam caracterizar essa passagem de história econômica. Chegamos ao terceiro ato cansados de tantas reviravoltas sem sentido, já não sentindo mais pelo destino dos personagens, pois já não sabemos ao certo seus anseios.
 

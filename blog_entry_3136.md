@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-05-30'
+date: '2018-06-25'
 tags:
-- food
-title: Portillo Malbec
+- wine
+title: Portillo Pinot Noir 2016
 ---
 
-Acidez média, cheiro de vinícola, frutas negras, corpo médio.
+O Pinot Noir da Salentein parece suquinho acompanhado de comida (estrogonofe que a Mitiko fez), mas tomando sozinho tem um leve azedo com leves aromas de um rosé (apesar de ser tinto). Fácil de beber e um perigo.
 

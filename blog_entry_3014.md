@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2021-09-25T21:15:21-03:00'
+date: '2019-03-22'
+link: https://www.imdb.com/title/tt0401711
 tags:
-- cinemaqui
 - movies
-title: Parentes
+title: Paris, Te Amo
 ---
 
-Parentes pode ser uma comédia ou um drama. É difícil escolher. E essa é uma das virtudes do filme. Ao mesmo tempo que rimos da desgraça que é esse pai carente e que se aproveita de um tumor no cérebro para levar a família em uma road trip pelo país, nos compadecemos de sua falta de talento em tudo. Ele é a geração que fracassou grandemente em sua família. E seu pai e seu filho são a geração que deu certo. A desgraça não é o tumor, mas sua medíocre existência.
+Este é um mega-projeto de cinema, com dezenas de diretores e roteiristas. Não há apenas o trabalho de compor os curtas, mas de juntá-los. Este é um filme com tantas visões diferentes que ele soa um pouco esquizofrênico. Mas como são todas visões mais ou menos alinhadas com o que a classe artista defende -- o que geralmente quer dizer a mesma coisa -- ele sobrevive ao pluralismo por causa da mesmice impregnada na mente de seus idealizadores.
 
-E quantos de nós não somos assim. Tenho certeza que você já deve ter se sentido assim em algum momento da sua insignificante vida. Eu já. Todos nós já tivemos essa dúvida se merecemos respirar no planeta e apreciar um novo dia mesmo com tantas falhas de caráter. As pessoas em volta parecem tão melhores. Elas fingem tão bem.
+E exatamente por conta dessa mesmice o projeto é sabotado. A ideia é mostrar diferentes visões do amor por Paris, essa cidade cosmopolita em que metade dos curtas falam inglês e a outra metade francês. Temos um cego, um não-falante, uma árabe, casais de idades diferentes, casais separados, casais brigando e casais se formando. A atitude com que o filme impõe Paris como o local onde todos esses eventos devem ocorrer é limitadora. É como se apenas em uma cidade como Paris tudo isso pudesse acontecer. Ao mesmo tempo, se considerarmos toda cidade grande como incubadora desses relacionamentos o filme está certo, pois relacionamentos em cidades pequenas nunca ganham tamanha diversificação cultural e histórica que vemos no filme.
 
-Eis a raiz dessa comédia. A estranheza em torno desse patriarca e suas decisões completamente desbaratinadas acerca de seu filho, sua nora, sua esposa, sua filha, seu pai. Esse cara não acerta uma. Acertaria mais se ficasse calado. Mas ele não pode, agora que tem apenas um ano de vida. Antes sim, ele poderia viver como sempre reclamando do governo e dos outros em paz. Agora não há jeito. Ele irá dessa pra melhor e deseja deixar sua marca, nem que seja cantando em um festival que só viu quando criança.
+Mas estou pintando a experiência de outra cor. Estamos falando de grandes nomes na direção mundial escrevendo pequenos ensaios sobre situações fictícias que dão apenas uma pincelada nesse enorme quadro. O filme já começa mostrando esse mosaico em pequenos retângulos onde se passa a ação, e vamos no decorrer da história preenchendo esses retângulos com os rápidos momentos que cada cineasta dedica ao projeto. Algumas histórias são muito boas, a maioria é medíocre e esquecível. Você com certeza terá sua favorita, ou favoritas.
 
-Há muitos momentos divertidos nesse filme, que fazem rir com aquele tom de estranheza no fundo. Nos faz pensar se deveríamos rir de um soldado paraplégico sendo atropelado. No final dessa cena descobrimos que sim, mas o filme quer atingir nosso âmago até lá, e junto um drama familiar escancarado, em plena rua, para todos verem. Quer que nos sintamos estranhos e ruins por rir disso. A sensação é muito boa. É um humor que transcende algumas regrinhas básicas de roteiro. Seu caos interno dá sensação de ser um trash, mas no final percebemos que há uma estrutura bonitinha por trás da história.
+O importante aqui é perceber como diferentes estilos se unem em uma reunião improvável. Essa experiência por si só é mais interessante do que o tema Paris. Temos Irmãos Coen em um lado, Assayas de outro e Cuarón de outro. Uma mistura totalmente nova se forma na tela e isso nos faz pensar na imensidão de vozes cinematográficas que há no mundo atualmente. É uma sensação de mostra cultural, de festival de cinema. Mas um festival só frequentado por gente de primeira.
 
-Este é também um filmes sobre família, e há lindos momentos de harmonia entre parentes, que se tornam mais lindos justamente por causa dos momentos vergonha alheia logo atrás. Então entendemos a odisseia do medíocre. Tudo faz sentido no final, mas é difícil chegar até lá.
+Então por que este não é um filme fora do comum? Bom, não se consegue isso com pinceladas tão breves. Como um filme único ele nunca funciona, pois vai pulando de história em história e mostrando personagens que não se conectam nem tematicamente nem narrativamente. A única conexão é que estamos em Paris. Esse é o laço. Sequer podemos chamar de romance, pois há quadros, como o de Walter Salles, que diz mais sobre amor e sociedade moderna. Já em Gus Van Sant temos algo mais experimental. Wes Craven nos entrega algo mais rotineiro e eficiente. Como conciliar tudo isso em torno de um longa-metragem?
 
-Muitas piadas estão soltas que soam boas ideias no papel e são filmadas sem pensar no todo. Roubar pães ou repintar a lápide da mãe não são detalhes que se encaixam na história, mas por isso mesmo ela acaba ganhando uma aura mais realista, menos esquemático de um roteiro onde nada sobra ou falta. Por não ser muito esperto o filme acaba ganhando dimensão. Que surpresa o diretor deve ter tido ao assistir o resultado.
+Não há solução. É um filme bom de se ver, de vez em quando. Mas ele não trará nenhum traço de unidade. É como se estivesse colocando para tocar o DVD de curtas da Disney. E até isso ainda teria uma unidade: são curtas idealizados pela mesma equipe. Aqui a mistura é forte demais para fazer sentido. Curta com seu(sua) companheiro(a).
 

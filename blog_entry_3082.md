@@ -1,15 +1,17 @@
 ---
 categories:
 - writting
-date: '2021-08-08T21:35:16-03:00'
+date: '2010-11-06'
+link: https://www.imdb.com/title/tt0084503
 tags:
-- animes
-title: Pilotos de Dragão
+- mostra
+- movies
+title: Pink Floyd - The Wall
 ---
 
-Como a Mitiko gostou de chamar, este é a Luluco de pobre. Para quem não sabe, Luluco Space Patrol é um dos melhores animes lançados pelos produtores de Kill La Kill. E Pilotos de Dragão copia alguns elementos da personagem que se misturam com clichês da arte: roupinhas curtas que causam embaraço, o protagonista não queria ser o escolhido, elementos mágicos se misturam com um horizonte mais realista.
+Reunindo várias filmagens que se assemelham a video-clipes e desenhos psicodélicos, o filme de Alan Parker parece dar um tom surreal à história e às impressões da banda britânica Pink Floyd. Jogando com o silêncio das cenas e da música e das letras de outras, o filme faz paralelo entre o passado, presente e futuro de um garoto que tem o pai morto na guerra, como notamos visualmente na transição entre a luz do lampião e a luz do sol com o garoto correndo ao horizonte.
 
-Porém, é uma produção pobre. A introdução parece aqueles vídeos de festinha no bairro, com música aleatória e cenas do próprio desenho. O ending são os personagens fazendo uma dancinha. Sim, é isso mesmo, e só isso.
+Uma câmera gira em torno do sofá, mostrando as cinzas de um cigarro que não foi fumado segurado pelas mãos do protagonista em catarse assistindo à TV. Tantos os símbolos mais óbvios quanto os mais íntimos se juntam para compor algo além. A faxineira abre a porta de seu quarto, ao bater a corrente, com as portas acorrentadas e de jovens em debandada, com paralelo com soldados correndo na guerra. Tudo parece se juntar em apenas uma harmônica.
 
-A história requentada é que dragões existem e estão escondidos na força aérea japonesa, e por algum motivo essa minazinha virou a piloto desse bicho milenar. O cockpit é no estômago do bicho, que a engole sempre que dá na telha. A logística é divertida, mas a trama envolvendo a rival e sua sensei não. É requentado demais e se for para ver dragão prefiro as voluptuosas de Kobayashi's Dragon Maid.
+Um filme para degustar com os olhos e ouvidos sintonizados.
 

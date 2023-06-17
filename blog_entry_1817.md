@@ -1,15 +1,20 @@
 ---
 
-Havia um job esta semana de um assunto que me encanta desde a época de investidor: base histórica de cotações. Estamos falando de ações da Bovespa. Na época que era investidor frequente mantinha uma base que era atualizada por um programinha em Java (esqueci o nome), mas nunca tive certeza se os ajustes feitos pelo programa eram os corretos. Surgiu agora a possibilidade de eu realizar código que converte uma base histórica recebida com um minuto por linha em campos divididos por ponto-e-vírgula (o CSV do Windows) para candles de várias periodicidades. E isso justo agora que ando estudando awk. Então não deu outra: usei esta linguagem clássica como ferramenta para esta conversão.
+Quatro anos depois do diretor Daniel Ribeiro realizar um dos curtas mais concisos e injustamente chamados de polêmicos a respeito da paixão de um garoto cego por um aluno novo da escola, eis que o mesmo Daniel Ribeiro dirige e escreve com os mesmos atores principais a versão em longa metragem dessa história, e se isso geralmente é uma péssima ideia por tentar alongar uma ideia que só funciona por dezessete minutos, nesse caso o resultado é no mínimo cativante.
 
-O código ficou, em minha humilde opinião, elegante e pequeno, pois se aproveita da composição das periodicidades. Ou seja, o período de cinco minutos é a consolidação de cinco linhas de um minuto, mas a de quinze minutos não são quinze linhas de um minuto, mas três de cinco minutos, que já estão sendo calculados a cada cinco linha. E assim por diante. Usando os arrays associativos do awk é possível manter o estado de cada candle até o momento de gerar a saída desejada, que no exemplo que codifiquei ficou como um comando SQL de insert em um banco fictício que grava cada tipo de candle em uma tabela.
+Buscando uma identidade visual (e sonora) ao abordar pela primeira vez Leonardo (Ghilherme Lobo) e sua amiga Giovana (Tess Amorim) de cima, estirados em torno da piscina, essa cena inicia no escuro com o som das ondas geradas pelo braço de Leo na água. O filme se esquece de usar essa mesma rima em diversos momentos apropriados, mas usa outra, essa muito mais eficiente: mostra seus personagens apenas das pernas para cima, como se andassem nas nuvens, além de diminuir a profundidade de campo sempre que possível, focando muitas vezes em um único ponto. Isso não é cegueira, mas para quem enxerga, consegue extrair muito da visão de mundo de Leo, que depende muitas vezes da ajuda dos outros para realizar alguma ação simples, mas evita, sempre que possível, transparecer sua dependência.
 
-O uso de um array por candle simplificou o código, pois ao criar uma função que manipula o candle que está finalizando e o próximo eu posso simplesmente passá-los como argumentos. Dessa forma eu só preciso compor os filtros de linhas de acordo com o resto da divisão do seu número. No exemplo inicial, o candle de cinco minutos está finalizando quando RN é igual a cinco ou múltiplos de cinco, enquanto um novo candle se inicia em múltiplos de seis.
+É, portanto, natural, até nessa idade, que Leo bata de frente com a super-proteção dos pais, que, sim, usam a deficiência visual do filho como um motivo presente, embora nem sempre dito. Já na escola ocorre justamente o contrário, pois sua deficiência sempre vira motivo ou de compaixão ou de brincadeiras. Dessa forma, se seus colegas costumam praticar o bullying nosso de cada dia, sua amiga Giovana se preocupa em demasiado com o amigo, talvez por gostar dele mais do que como um amigo. De toda forma, é compreensível que a vinda de Gabriel (Fabio Audi) dê essa sensação de novos ares, pois este não está acostumado com os "temas proibidos" de serem abordados com pessoas com essa limitação (como perguntar se viu um vídeo no YouTube).
+
+As descobertas dessa época sempre são excitantes e frustrantes ao mesmo tempo, e o filme consegue demonstrar isso de uma maneira equilibrada com o triângulo amoroso entre Léo, Giovana e Gabriel. Digo "triângulo" porque o roteiro evita criar complicações a respeito de uma quarta personagem, e com isso perde densidade. Talvez a relação nessas uma hora e meia de filme seja equilibrada demais, pois evita justamente as questões que poderiam estar presentes dos espectadores do curta-metragem (onde está o depois?), o que pode soar até um tanto covarde.
+
+No entanto, existem momentos "picantes" entre os meninos, o suficiente para fazer sair dos buracos mais escuros os moralistas de plantão. Porém, diferente do quasi-soft-porn Azul é a Cor Mais Quente, essa transição de sentimentos e sensações soa tão natural e tão de acordo com o ritmo do amarrado roteiro, que consegue explicar esse triângulo amoroso usando um eclipse, que esses momentos não são apenas esperados, mas até desejados. Afinal de contas, quem não quer sentir o prazer de ver pessoas decentes em busca de sua própria felicidade?
 
 ---
 categories:
 - writting
-date: '2021-10-04T20:41:16-03:00'
+date: '2014-05-15'
+link: https://www.imdb.com/title/tt2076220
 tags:
-- animes
-title: Hitoribocchi no Marumaruseikatsu
+- movies
+title: Holy Motors

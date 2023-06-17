@@ -1,27 +1,24 @@
 ---
 categories:
 - writting
-date: '2015-09-24'
-link: https://www.imdb.com/title/tt3194410
+date: '2013-01-06'
+link: https://www.imdb.com/title/tt0482629
 tags:
-- cinemaqui
 - movies
-title: O Preço da Fama
+title: O Presente
 ---
 
-No começo de O Preço da Fama somos avisados de que a história se baseia em fatos verídicos. O fato em si foi o roubo do caixão de Charles Chaplin, na Suíça (sua morada por 25 anos), por dois imigrantes desempregados, e a posterior tentativa de resgate. No entanto, os detalhes em torno desse único fato são aumentados em doses desproporcionais pela imaginação do curioso diretor Xavier Beauvois.
+O filme baseado no livro homônimo de Jim Stovall, escritor cego engajado em trabalhos para deficientes, claramente tenta passar uma mensagem de caridade para com os mais necessitados. Para isso, contudo, se esquece de estabelecer uma relação afetiva com seus personagens e acaba resumindo uma sequência de eventos simbólicos que forçam a emoção do espectador.
 
-Essa reimaginação dos fatos altera até as nacionalidades dos imigrantes (originalmente polonês e búlgaro). Eddy, recém liberto da prisão, é um animado belga que gosta de ter ideias mirabolantes para conseguir dinheiro sem trabalhar. Já o argeliano Osman (Roschdy Zem) possui uma filha e uma esposa e trabalha em bicos pela cidade para sustentar sua família, principalmente agora que sua mulher se encontra internada com problemas de saúde.
+A história gira em torno de Jason (Drew Fuller), um playboy irrelevante e sem personalidade que se vê diante de uma série de tarefas que deverá executar para receber a herança do seu recém-finado avô, um magnata do petróleo que construiu um império em torno do qual sua desprezível família cresceu. Acaba se encontrando acidentalmente com Emily Rose (Abigail Breslin), uma menina irritante pelos seus questionamentos autoritários e que sofre de leucemia (mais um motivo para chorarmos).
 
-Osman deve algo a Eddy, o que o faz buscar na saída da prisão e arrumar um trailer do lado de sua casa para ele ficar. "Por uma questão de princípios", responde à sua filha, a pequena Samira (a estreante e competente Séli Gmach). Participando ativamente da rotina da garota, e levando-a a lugares que ela nunca conheceu, Eddy acaba virando parte informal da família. Ou até formal, quando ao participar do Natal com eles, presenteia o amigo com uma televisão, que rapidamente vira o gancho para que eles descubram que Chaplin, antes próximo do seu personagem miserável Carlitos, acabara de falecer em condições financeiras abastadas.
+A participação de Abigail Breslin, aliás, é totalmente descartável e considero a maior inversão de expectativa do projeto: como pode a doce menina de [Pequena Miss Sunshine] se transformar em um ser tão irritante e continuar irritante mesmo que saibamos que ela possui pouco tempo de vida?
 
-E é aí que começamos a conhecer as origens das desconfianças de Osman para com Eddy, ao ouvir sua "brilhante" ideia: roubar o caixão de Chaplin e pedir o dinheiro de resgate. A princípio relutante, a conta do hospital bate à porta de Osman, e tendo sido gentilmente descartado do sistema financeiro de empréstimos dos bancos suícos, Osman enxerga na ideia maluca do amigo a única chance de conseguir trazer sua esposa de volta.
+Porém, isso não importa. O roteiro de Cheryl McKay consegue estragar praticamente toda e qualquer surpresa que poderia surgir do testamento do avô de Jason ao utilizar situações batidas aliadas a diálogos incrivelmente pedestres, em uma tentativa desesperada de tornar as cenas mais impactantes. Quando Jason e sua namorada estão em um restaurante logo após sabermos que todos os bens do rapaz foram confiscados, é óbvio que ele não será capaz de pagar a conta. Mesmo assim McKay insiste e faz o garçom comentar que o casal não está aproveitando sua garrafa de vinho e que é uma "garrafa muito cara para seus clientes".
 
-Gerando empatia desde o começo com um ritmo lento e observador, o diretor Xavier Beauvois consegue atrair a atenção do espectador para esses acontecimentos com a leveza que merece um filme que contém Charles Chaplin como seu núcleo em uma história que nunca se torna enfadonha. Porém, essa mesma leveza (ou inanição) sabota demais a ação, ou até o destino de seus personagens, até mesmo o próprio protagonista, o irreverente e atrapalhado Eddy, interpretado pelo ótimo Benoît Poelvoorde (3 Corações), mas ainda assim preso a um estereótipo que não faz jus ao seu papel, e cuja conclusão é arrastada sem muitos motivos senão licença poética.
+Conseguindo aliar um roteiro de estrutura previsível e situações específicas improváveis, o diretor Michael O. Sajbel tropeça na coerência da passagem do tempo, pois até a barba do rapaz cresce de maneira inimaginável durante uma semana preso, nem se comparando à sua mudança em um mês como mendigo: nenhuma.
 
-Da mesma forma, a partipação especial de Peter Coyote como o secretário fiel ao patrão (e que lutou no exército inglês) é o tipo de coisa que é bonito de ver pela interpretação de Coyote, mas confuso em encontrarmos sua função.
+Ao transformar o avô de Jason em um vidente-defunto com o desfecho do seu testamento-vídeo, a lição de moral de Jim Stovall consegue ser ainda mais doutrinária, chegando a rivalizar com Um Conto de Natal, de Charles Dickens. Infelizmente estamos a milhas de distância do poder da mensagem de Dickens com o seu Ebenezer Scrooge.
 
-Aliás, voltando para a licença poética, isso é o que é feito quando o filme usa exaustivamente a trilha sonora de Luzes da Cidade que, embora fascinante, vira uma quase-muleta em diversos momentos. O resultado de Beauvois se sai muitíssimo melhor quando ele tenta inverter expectativas no melhor estilo Chapliniano, como na sequência do resgate ou até mesmo a sutil homenagem ao cinema mudo feita durante um diálogo em que a chuva abafa a fala dos personagens. Ainda assim, foge muito da proposta inicial, e acaba deixando a trama meio sem rumo.
-
-Em todos esses altos e baixos, o saldo de O Preço da Fama acaba sendo positivo. Para uma história inspirada em fatos reais, há a ilusão do surreal e a alma de Carlitos o suficiente para adorarmos o resultado, nem que seja pela pura nostalgia e o desejo de continuarmos os sonhos de assistir um novo filme com o vagabundo imortal.
+[Pequena Miss Sunshine]: {{< relref "pequena-miss-sunshine" >}}
 

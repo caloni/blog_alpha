@@ -1,26 +1,14 @@
 ---
 categories:
 - writting
-date: '2020-08-10'
-link: https://www.imdb.com/title/tt0064612
+date: '2014-01-18'
+link: https://www.imdb.com/title/tt1698648
 tags:
 - movies
-title: Minha Noite Com Ela
+title: Minha Vida Dava um Filme
 ---
 
-A aposta de Pascal e o caos governando nossas vidas. É sobre discussões morais acerca do amor. Eric Rhoemer é o mestre francês. E não são os franceses os mestres na arte do amor?
+Kristen Wiig, distante de A Vida Secreta de Walter Mitty e próxima de Missão Madrinha de Casamento, protagoniza essa comédia em que faz o papel de Imogene, uma escritora fracassada que é literalmente obrigada a voltar a morar pelas próximas 72 horas com a sua mãe e família após ter maquiado seu suicídio. O fato da carta de despedida de Imogene ter sido tão bem escrita é o que consegue unir seu passado de potencial glorioso e o seu eminente fracasso.
 
-No entanto, este filme nos faz lembrar que o povo francês também possui valores religiosos que podem parece conflitantes quando se fala de amor livre e relacionamentos fora do casamento.
-
-É na igreja que ele começa. Uma missa tradicional como as que têm aqui em solo brasileiro, com a diferença que o pai nosso é rezado em francês. Um divertimento à parte para quem já foi católico.
-
-O herói do filme é um católico que estuda matemática e de regresso do estrangeiro pretende abordar uma jovem que observa na igreja.
-
-Porém, antes disso ele irá cair nos inusitados braços de uma amiga divorciada de um amigo que não via há catorze anos. Foi apenas aquela noite e esse é o título do filme.
-
-Este é um filme naquele estilo intelectualizado, porque o francês típico reza, faz amor e conversa sobre filosofia. Vários diálogos sobre Pascal, sobre o amor e sobre a fé, são trazidos à tona, e muitas cenas viram uma verdadeira aula sobre o tema. Bom para os interessados, se é que há algum assistindo uma comédia romântica. Bom, ele pode ser francês.
-
-Nessa receita inusitada de temas o filme soa banal, apesar de tratar de grandes temas. Seus personagens ficam sufocados, soterrados de diálogos. Não é o melhor do diretor no quesito de exploração da natureza humana. É diversão ocasional sem a garantia de que nos lembraremos de alguma cena no dia seguinte.
-
-Bom, há o pai-nosso em francês. Talvez isso baste.
+Com sacadas que funcionam quase todo o tempo pelo timing tão realista quanto cômico de Imogene, o roteiro sobrevive com a ajuda de aparelhos em meio a tantos detalhes e reviravoltas irrelevantes para a evolução da personagem, além de ser um filme visivelmente afetado pela ambiguidade de gêneros. Só isso para explicar porque as tragédias na vida da escritora se transformam de gags para outra coisa que não nos faz rir nem chorar, sem sabermos se aquela personagem já possui tridimensionalidade o suficiente para chorarmos por ela, ou ainda é um ser caricato digno de pena.
 

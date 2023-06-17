@@ -1,12 +1,11 @@
 ---
 categories:
 - writting
-date: '2020-09-05'
-link: https://santograo.com.br
+date: '2021-11-23T20:25:24-03:00'
 tags:
-- coffee
-title: Santo Grão
+- animes
+title: Sarazanmai
 ---
 
-O doce tânico, o corpo médio, a caneca de café perfeita, regular, mas falta algo. Equilibrado demais, talvez? Não. Experimentei tomar com uma proporção mais pesada, 10g por 100ml, e fez diferença. O sabor mais presente revela uma combinação inebriante entre o amadeirado tânico da torra média e o amargor que envolve esse café aveludado. É um dos cafés mais equilibrados de linha que já provei.
+O mesmo criador de Sailor Moon lança uma espécie de Madoka Mágica com meninos e que envolve tirar coisas da bunda. É uma viagem de ácido montada em várias camadas visuais. Fica difícil compreender tudo no primeiro episódio, mas parte da graça está em curtir o nonsense, então está tudo certo, pois é diversão garantida. Por enquanto não há trama mais longe do que "não mexa com espíritos que parecem sapos gigantes, pois eles não são e ficam brabos".
 

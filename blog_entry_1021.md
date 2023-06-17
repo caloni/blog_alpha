@@ -1,41 +1,35 @@
------- Build started: Project: MyFirstLib, Configuration: Debug Win32 ------
-Compiling...
-mymath.c
-Creating library...
-Build log was saved at "file://c:\Projects\temp\MyFirstLib\Debug\BuildLog.htm"
-MyFirstLib - 0 error(s), 0 warning(s)
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
-```
+---
+categories:
+- coding
+date: '2023-04-09'
+tags:
+- interview
+title: Como descobrir se uma string é mutuamente rotativa
+---
 
-Para usar uma LIB temos inúmeras maneiras de fazê-lo. A mais simples que eu conheço é criar um novo projeto no mesmo Solution de sua LIB. Um console, por exemplo:
+Uma string mutuamente rotativa é uma string que se rotacionarmos para a direita ou para a esquerda, com os caracteres "indo parar" do outro lado, é comparável com a string original. Exemplos:
 
-{{< image src="myfirstlib4.png" caption="MyFirstLib4" >}}
+ - "abacate" é mutuamente rotativa com "cateaba";
+ - "roma" é mutuamente rotativa com "maro";
+ - "ab" é mutuamente rotativa com "ba";
+ - "123456" é mutuamente rotativa com "456123".
 
-{{< image src="myfirstlib5.png" caption="MyFirstLib5" >}}
+Há alguns passos simples e um código esperto que consegue verificar isso. Os passos são os seguinte:
 
-{{< image src="myfirstlib6.png" caption="MyFirstLib6" >}}
+ - Inicialize as duas strings em duas variáveis;
+ - Veja se o tamanho das duas é similar (se não retorne false);
+ - Junte a primeira string com ela mesma (s = s + s);
+ - Verifica se a segunda string existe na string duplicada;
+ - Se existir quer dizer que uma é rotação da outra.
 
-Se você seguiu todos os passos direitinho, e eu estou assumindo que você já sabia como criar um projeto console, sua saída da compilação talvez seja mais ou menos essa:
-
-```
------- Build started: Project: MyFirstCmd, Configuration: Debug Win32 ------
-Compiling...
-mycmd.c
-Linking...
-mycmd.obj : error LNK2019: unresolved external symbol mult referenced in function main
-mycmd.obj : error LNK2019: unresolved external symbol sum referenced in function main
-c:\Projects\temp\MyFirstLib\Debug\MyFirstCmd.exe : fatal error LNK1120: 2 unresolved externals
-Build log was saved at "file://c:\Projects\temp\MyFirstCmd\Debug\BuildLog.htm"
-MyFirstCmd - 3 error(s), 0 warning(s)
-========== Build: 0 succeeded, 1 failed, 1 up-to-date, 0 skipped ==========
-```
-
-Dois erros! Ele não achou os símbolos mult e sum. Mas eles estão logo ali! E agora?
-
-Nada a temer: tudo que temos que fazer é falar para o Solution que o projeto myfirstcmd depende do projeto myfirstlib:
-
-{{< image src="myfirstlib7.png" caption="MyFirstLib7" >}}
-
-{{< image src="myfirstlib8.png" caption="MyFirstLib8" >}}
+Ficou confuso? Vai ficar mais simples ao ver a implementação em C++:
 
 ```
+bool RotationMutually(string s1, string s2)
+{
+    if (s1.size() != s2.size()) return false;
+    s1 += s1;
+    return s1.find(s2) != s1.npos;
+}
+```
+

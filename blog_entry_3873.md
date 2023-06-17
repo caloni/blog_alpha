@@ -1,22 +1,28 @@
 ---
 categories:
-- writting
-date: '2015-10-02'
-link: https://www.imdb.com/title/tt1571222
+- playing
+date: '2023-01-11T22:49:01-03:00'
+link: https://www.chess.com/game/live/67225834285
 tags:
-- movies
-title: Um Método Perigoso
+- chess
+title: Um movimento de peão e já era
 ---
 
-Cronenberg, um diretor geralmente fascinante (Terapia de Risco), por algum motivo, dirigiu um filme burocrático que conta a história de amizade entre Sigmund Freud (Viggo Mortensen) e Carl Jung (Michael Fassbender) como um documentário da BBC. No meio envolve a russa judia Sabina Spielrein (Keira Knightley), de paciente para amante e posteriormente médica.
+Brancas jogam e é mate em poucos lances.
 
-As partes interessantes é que não havia antes restrições quanto a tratar conhecidos (como Jung utiliza sua esposa em uma sessão de terapia), mas já há a noção de transferência (quando o paciente transfere sua identidade para seu médido, e acaba se tornando vulnerável).
+{{< image src="board.jpeg" >}}
 
-Com exceção da curiosa participação de Vincent Cassel como o controverso psicólogo Otto Gross, todo o elenco está devidamente alinhado com os objetivos do diretor: contar uma história envolvendo figuras famosas da psicologia, e talvez por isso mesmo envolvê-los em uma redoma de vidro, evitando retirar a aura de pensadores profundos. Não é possível retirar nada da personalidade de ambos durante todo o filme. São apenas estátuas repetindo diálogos e situações conhecidas. Sabemos de toda a história envolvendo os dois antes do filme começar, e nada muda. Se você nunca soube, poderia ter lido 10 minutos de Wikipédia.
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.12"]
+[White "cavaloni"]
+[Black "SYAHDAN28"]
 
-Ainda assim, Keira Knightley na primeira metade do filme dá um show de contorcionismo, fazendo caras e bocas que prometem. De fato, é a personagem mais interessante do começo ao fim, mas também fica envolta em um véu de invulnerabilidade, apesar de ser a persona mais vulnerável de todas.
-
-A grande questão da divergência entre Freud e Jung ou vira um caso de novela ou é abordado de maneira tão superficial, e as trocas de cartas é tão infrutífera, que fica difícil de fato se importar se um prefere usar sexo para tudo e outro prefere búzios jogados ao vento.
-
-Com efeitos visuais por computador que geram a estranheza de irrealidade, uma direção de arte simplesmente higienizada, uma trilha sonora repetitiva e monótona -- melhor o silêncio, na maior parte do tempo -- Um Método Perigoso está nos dizendo em seu título sobre essa forma de dirigir filmes, pois pode causar uma cura involuntária de insônia. Ou morte por monotonia.
+1. Nf3 c5 2. e4 Nc6 3. Bc4 d6 4. a3 Nf6 5. Nc3 e6 6. d3 Be7 7. Be3 e5 8. Ng5 O-O
+9. O-O h6 10. Nf3 Nd4 11. Nb1 Bg4 12. Nbd2 a6 13. c3 b5 14. Ba2 Nxf3+ 15. Nxf3
+c4 16. dxc4 bxc4 17. Bxc4 Nxe4 18. Bd3 Ng5 19. Be2 Bxf3 20. Bxf3 e4 21. Bxg5
+exf3 22. Bxe7 Qxe7 23. Qxf3 Rab8 24. Rfe1 Qg5 25. Re2 Qa5 26. Qd3 d5 27. Rb1 Rb3
+28. h3 Rd8 29. Rbe1 g6 30. Re8+ Kg7 31. Qd4+ 1-0
+```
 

@@ -1,27 +1,24 @@
 ---
 categories:
 - writting
-date: '2016-09-13'
-link: https://www.imdb.com/title/tt5125930
+date: '2013-01-14'
+link: https://www.imdb.com/title/tt2190367
 tags:
-- cinemaqui
 - movies
-title: O Silêncio do Céu
+title: O Som ao Redor
 ---
 
-O Silêncio do Céu é mais uma incursão do diretor Marco Dutra ("Trabalhar Cansa") em um filme que flerta entre o drama e o terror. Porém, nesse caso não há o apelo ao sobrenatural, mas a uma substância social que permeia cada um de nós: o medo.
+O Som ao Redor não é o tipo de filme que a gente consiga descobrir através da sua história qual o tema e a opinião do diretor sobre o que ocorre na tela. A coisa toda está mais como um espelho, onde nossa observação dos fatos e a sua interpretação, sobretudo moral, é que irá inserir um significado. Mesmo assim, dadas as devidas proporções, todo filme possui essa liberdade de interpretação. Do contrário, nem existiria crítica, pois todas as respostas estariam no filme, e não haveriam perguntas.
 
-E esse medo vem na forma da ausência de diálogos entre pessoas que se amam, o que o torna mais poderoso ainda. A história começa com a cena de um estupro de uma mulher em posição indefesa, que pode apenas observar, submissa por dois homens armados com uma faca. Começamos o filme enxergando seu ponto de vista, mas isso logo muda para o ponto de vista de seu namorado, Mario (Leonardo Sbaraglia) que, depois sabemos, presenciou toda a cena, mas foi incapaz de agir.
+Acompanhamos a vida das pessoas de uma pequena rua em um bairro de classe média. Não somos propriamente apresentados a eles, mas o vemos meio como quem espia a vida alheia. No caso, várias vidas alheias. O tom de realidade é dado não apenas por interpretações convincentes de todo o elenco como pessoas comuns, como pela ausência completa de trilha sonora. O filme honra o seu título e possui percursão musical, temática e transitória através do aumento e diminuição do volume de determinados sons presentes no próprio ambiente e que, esses sim, nos são apresentados desde o começo, em uma sequência sem cortes de uma menina andando de patinete dentro de um condomínio. A sinfonia que se forma pelos lugares por onde passa é o suficiente para que identifiquemos boa parte dos ruídos que ouviremos deslocados de cena, mas presentes, de certa forma, no momento que percebemos que todas as vidas ali mostradas estão ligadas em maior ou menor grau.
 
-Mario, dominado por uma imensidão de fobias, que vão de escorpiões a aviões, aprendeu a viver através de emular as outras pessoas, enquanto sobrevivia no porão o seu eu verdadeiro, aterrorizado e petrificado de medo. Essa sua personalidade alternativa se tornou tão forte após o evento traumatizante que assumiu seu controle, mas  ele começou a duvidar se era tão forte assim depois que viu a capacidade de sua namorada, Diana (Carolina Dieckmann), conseguir emular uma vida normal após o trauma, e mesmo assim questiona as atitudes de Mario, mesmo que através de imperceptíveis micro expressões em seu rosto e olhar.
+E qual o tema sugerido? Uma resposta das mais óbvias seria sobre a moralidade daqueles cidadãos.
 
-Toda essa camada subjetiva só funciona graças a podermos escutar os pensamentos de Diana, Mario e Diana novamente, em uma história tensa e conduzida com um controle absoluto do mise en scene. A dupla competente de atores consegue evocar tudo que é necessário para que esse filme quase sem diálogos significativos pode evocar.
+Vejamos um pequeno exemplo para não nos estendermos demais: o toca-CDs da amiga de um personagem é roubado por um dos vizinhos, que, coincidência ou não, é seu primo. Após uma visita nada cordial, afinal, antes de acusar os outros, esteja certo de não insultar sua honra, mesmo que a pessoa seja culpada, o aparelho é devolvido. Só que não se trata do seu aparelho, mas do de outra. Ela decide, no entando, ficar com esse mesmo, que parecia até melhor do que ela possuía.
 
-Há um exagero de azul celeste nos cenários que quer dizer que aquele dia com céu azulado ficou permeando os dias seguintes daquela família, influenciando  para sempre suas vidas. Só que em vez de significar paz de espírito, o azul aqui é o maldito lembrete daquela tarde horrível que ambos passaram. Há um punhado de simbolismos por trás dos elementos em cena, como o cacto e o vermelho, e se torna inútil tentar desvendar todos eles quando o aspecto onírico (e de pesadelo) começa a tomar conta da rotina, além deste ser um filme ambicioso que almeja atingir algo mais que uma simples história. Ele pretende desvendar o medo mais íntimo do ser humano: o dele mesmo.
+Pois bem. Quem defenderia a inocência dessa mulher, de que ela não sabia que esse também era produto de um furto? Não precisa ser muito inteligente para saber disso, mas talvez exija um grau de moralidade muito acima da média, o que é uma triste notícia para nós como seres humanos.
 
-Quando uma pedra do jardim é acidentalmente colocada no centro da casa, em cima de uma mesa para todos verem, e isso se torna um elemento recorrente nas cenas, mas nunca é citada por nenhuma daquelas pessoas, é porque há algo muito errado naquele lar, ou essa pedra simboliza justamente isso. É esse o nível de beleza dos símbolos que estamos falando.
+E isso é apenas um exemplo, mas existem vários que, apesar de não serem escancarados, o fato de serem sutis é mais um sintoma de que talvez tenhamos chegado em um nível de degradação moral que, haja o que houver, faríamos o mesmo. O fato de inconscientemente sabermos que se trata de um filme, ou seja, produto de fantasia, faz tudo parecer devidamente encaixado em uma realidade que não nos pertence.
 
-E o Marco Dutra consegue com a ajuda desses símbolos, de uma fotografia mestre (Pedro Luque) em dominar as luzes e sombras, e uma engenharia de som rebuscada e significativa -- que nos remete ao ótimo O Som Ao Redor -- remeter a um terror psicológico de arrepiar a mente. O som é feito pelos irmãos Guilherme e Gustavo Garbato com uma tecnicidade de fazer arrepiar em vários momentos. Note o barulho repetitivo dos brinquedos do parque ao lado de onde trabalha Diana, e como o barulho do escapamento do carro em um momento-chave da trama toma conta de todas as atenções (e é usada como trilha sonora). Ao mesmo tempo note o naturalismo de Dutra em montar suas cenas, que mesmo apelando para supercloses e objetos na penumbra consegue evitar uma edição tresloucada; a passos leves caminhamos em direção ao terror.
-
-Há algo de Hitchcock em O Silêncio do Céu, seja na perseguição de carros ou na maneira inquietante com que Mario adentra um mundo estranho que vai aos poucos se tornando terrivelmente familiar. Não é um filme para muitos, pois seu desfecho não satisfaz os que gostam de histórias amarradas com tudo resolvido. Porém, se engana desde o começo quem acha que haverá um final feliz em uma história que começa com um estupro.
+Será mesmo? E é aí que entra o espelho, acusando o espectador sem apontar para ele. Somos responsáveis por esse filme, ou pelo menos o que ele significa. Nesse sentido, O Som ao Redor tem muito a dizer como um filme para uma sociedade que acha tudo isso normal.
 

@@ -1,21 +1,16 @@
 ---
 categories:
 - writting
-date: '2021-10-16T12:11:57-03:00'
+date: '2015-10-08'
+link: https://www.imdb.com/title/tt2718492
 tags:
-- cinemaqui
-- mostra
 - movies
-title: I Comete - Um Verão na Córsega
+title: Ida
 ---
 
-I Comete é uma brisa de ar fresco pós-pandemia que muitos ainda esperam. Poder fazer parte de sua comunidade sem medo. Interagir sem qualquer restrição de espaço. Falar sobre o cotidiano. O quão pouco perdemos nos últimos dois anos acaba sendo o pouco que mais importa.
+O universo em torno de Ida torna a vida tão depressiva que até passar o resto dos dias em um convento não parece uma ideia tão ruim. Filmado em preto e branco, com uma tela praticamente quadrada e uma câmera que fica praticamente parada, a atmosfera é bela, lúdica e realista. Anna (Agata Trzebuchowska), a noviça, e Wanda (Agata Kulesza), a tia, fazem parte de um conjunto de planos-detalhes (quando a tela mostra apenas um close mais intimista) que capturam a essência do que está sendo mostrado. Interessante do começo ao fim.
 
-Estamos na ilha de Córsega, no Mediterrâneo. Quarta maior ilha da região, ela acabou sendo anexada pela França apesar da maioria da população falar outro idioma (corsa) e ter costumes bem diversos do continente. No entanto, o filme trata mais do que há de comum entre todos seres humanos e as diferenças formam uma camada fina, apenas mais uma situação motivo de conversa.
+A história gira em torno da busca do paradeiro dos corpos dos pais de Anna, que eram judeus e foram mortos durante a guerra na Polônia. Wanda, sua tia, uma juíza alcoólatra que vive um pesadelo comuno-socialista que remói seus remorsos por abandonar sua irmã, possui a maior parte das falas, mas é de Anna que capturamos a mensagem final de cada passagem. A menina está naquele dilema clichê de não querer sair do convento, mas é obrigada por sua superiora e agora começa a plantar dúvidas em sua cabeça (além, é claro, de ser linda). Ou seria clichê, já que este não é o caso. A maior parte do filme é mais sobre uma reflexão histórica e intimista do peso das decisões em nossas vidas. Ou deveria ser. A maior falha em Ida é nunca contar o suficiente para estabelecer seus parâmetros. Mas quem se importa? A história flui que é uma beleza, e diante de tantos cenários filmados belissimamente por dois diretores de fotografia faz o "road movie" valer toda a pena.
 
-Há muito bate-papo no filme, quase todo, sobre amenidades, opiniões ou decisões do dia-a-dia. Vários níveis de comunicação humana são vistos, e todas elas bem naturais e que devem ocorrer milhões de vezes todos os dias pelo mundo. O filme é uma gravação documental, sem muito roteiro. Os diálogos são inventados pelos personagens do cotidiano e apenas a linha geral das histórias segue a batuta do seu diretor. E roteirista. E ator. E editor.
-
-Esse filme de câmera sempre parada é o primeiro na direção de Pascal Tagnati, que já atuou em alguns trabalhos, sempre em participação menor, como A Odisseia de Alice e A Lei da Selva. Aqui ele faz Théo, um rapaz deprimido. Théo não une o resto dos personagens. Há pouca conexão na trama entre eles. O ponto em comum é que todos vivem esse verão no mesmo espaço da ilha. É o reencontro anual dos que moram no continente e os nativos.
-
-Apesar de duas horas, "Um Verão na Córsega" passa rápido. Com seu ritmo leve e muitos personagens e diferentes tramas que não levam a lugar algum, se trata de uma experimentação simpática e insossa. Uma fuga do espectador da vida comum direto para a vida comum dos outros. É o cinema como meio de transporte entre bolhas.
+Se desdobrando de maneira fascinante com uma série de acontecimentos nos últimos minutos do segundo tempo da prorrogação, Ida vira uma reflexão poderosa sobre a vida e suas rimas, mas como está com o tempo escasso de maneira superficial. Pelo menos faz o gancho com tudo o que foi visto, e de forma alguma é uma conclusão jogada. Com roteiro de menos, mas direção e fotografia de mais, o saldo é mais que positivo.
 

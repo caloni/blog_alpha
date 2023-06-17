@@ -1,23 +1,29 @@
 ---
 categories:
 - writting
-date: '2022-10-11T21:31:48-03:00'
+date: '2019-08-01'
+link: https://www.imdb.com/title/tt7745068
 tags:
 - cinemaqui
-- mostra
 - movies
-title: Mutzenbacher
+title: 'My Hero Academia: 2 Heróis - O Filme'
 ---
 
-Este livro pornográfico lançado na Áustria no início do século 20 é um clássico porque é bem escrito e foi alvo de críticas e censura por décadas. O motivo é se tratar das experiências de uma jovem que começou cedo sua vida sexual. Aos cinco anos. Todo o livro são suas experiências na infância e adolescência com todo tipo de homem que ela pudesse encontrar. E agora em Mutzenbacher, filme da Mostra de SP, a diretora Ruth Beckermann reúne em um mesmo set todo tipo de homem que ela pudesse encontrar para falar a respeito.
+Acho engraçado esses animes que viram filme e querem apresentar todo o contexto já no título. Esse é o caso de My Hero Academia: 2 Heróis - O Filme, que depois do mangá virar anime e agora virar filme tem dois subtítulos. Imagino o título do futuro live action que será lançado: My Hero Academia: 2 Heróis - O Filme - Live Action - Dublagem Especial Contratada Pela Sato Company: A Revanche.
 
-Descrito lindamente de forma vulgar, é óbvio que o livro se trata de um autor masculino fantasiando sobre a luxúria de possuir uma jovem, já que ela sente êxtase por fazer parte de tudo disso. As suspeitas maiores de autoria recaem sobre Felix Salten, escritor de Bambi. No entanto, apesar de óbvio, seu conteúdo não é tão simples e manipulador assim, pois do contrário seria esquecido há muito tempo. Nas entrelinhas se enxerga um misto de vergonha e dor intercalados às cenas que talvez todo homem secretamente queira fazer parte.
+A Sato, através do seu representante, fez questão de ressaltar o trabalho especial na dublagem desta versão cinematográfica do anime de sucesso, neste que é um dos exemplos de filme com potencial para ser exibido nas telonas além dos festivais. Segundo maior sucesso de bilheteria no cinema no Japão na categoria anime, desbancando Your Name, maior sucesso do diretor pop Makoto Shinkai, esta é uma história convencional de uma academia de jovens que pretendem se tornar heróis profissionais.
 
-Ruth Beckermann vira o jogo de uma maneira fascinante ao dar voz a estes homens de hoje em dia lendo e interpretando esta obra-fetiche, relacionando as cenas e livro como um todo com suas próprias experiências iniciais no sexo. A vaga no casting está aberta a qualquer ser masculino dos 16 aos 99 anos. Um sofá antigo com um estofado que sugere um fundo erótico é palco desses momentos de instrospecção. Nós somos convidados a interpretar a visão desses homens sobre a sexualidade e abordando temas dos mais controversos para se falar com estranhos, como pedofilia, incesto, trios e tabus. No entando, o poder da edição extrai os melhores momentos desta que deve ter sido uma atividade enfastiante.
+Existir muitos heróis é uma necessidade nesse mundo onde 80% das pessoas possuem algum tipo de poder, chamado de individualidade ou peculiaridade, e aparentemente heróis só podem atuar se devidamente registrados, o que me lembra a ótima paródia desse sub-gênero, One Punch Man, onde há um sindicato de heróis e uma hierarquia que se torna uma sensação maior que salvar o mundo dos terríveis vilões que surgem dizimando cidades.
 
-A boa ideia é colocar sob o prisma do espectador a percepção masculina sobre o sexo com uma jovem hoje considerada jovem demais. A luz interpretativa está sob nosso controle, e talvez além do interessante. Não saímos da experiência mais sábios. O filme explora questões pela metade, pois são pontos de vista dilapidados sem uma intenção uníssona. É abrir um debate sem foco de como discorrer ou terminar.
+Para os que não possuem individualidade resta ajudar os heróis como puderem, e nessa categoria se encaixam os cientistas do mundo, que realizam pesquisa e experimentos para tentar aprimorar os poderes dos especiais. Nesse grupo está o premiado cientista Dr. David Shield e a aspirante a cientista, sua filha Melissa, que também não possui um poder exceto seu carisma e vitalidade que a destaca do grupo sem precisar ser espalhafatosa.
 
-Logo, o potencial de dar voz a esses homens de ampla faixa de idade sobre assunto controverso é alto, mas o resultado insatisfatório. Não é como se houvesse algum momento sublime nessa exploração do antigo e do novo, dos "novos tempos" e como as coisas funcionavam antes para a mulher e como é agora. Há poucos momentos políticos que jogam uma luz no pensamento masculino atual sobre a opressão sofrida recentemente aos homens da sociedade moderna, mas não é apenas isso que está em debate, e logo termina, o que torna a discussão estéril nessa arena. A necessidade da diretora em tentar extrair conteúdo de seus candidatos acaba frustrando o projeto.
+Quando falo grupo digo muitos personagens, mais de dez. Um possui o poder do fogo, outro do gelo, outra de levitar pessoas, etc. Todos fazem parte da academia e todos conseguiram de uma forma ou de outra participar de um evento na I-Island, uma ilha flutuante que abriga essas pessoas que querem tornar o mundo melhor (heróis, cientistas, etc). Sendo flutuante ela pode estar em qualquer lugar do globo, evitando assim ser alvo de ataques. E é claro que é para lá que irão os vilões.
 
-Ou talvez para um homem este não seja um filme com alguma novidade sobre como funcionamos. Extrair a diversidade de opiniões possui o efeito indesejado em uma obra de arte em colocar tudo no mesmo patamar. A falta de uma opinião forte ou uma interpretação definida sobre o livro, por outro lado, acaba o glorificando mais uma vez. Talvez este seja o motivo deste ser um clássico da pornografia até os dias de hoje. E talvez seja por isso que eu espero ansiosamente por uma tradução para o português.
+Sem muita empolgação em sua história batida, resta observar a arte deste anime, e ele é algo a se notar. Lembrando um pouco Dragon Ball com detalhes faciais despojados, este é um desenho extremamente bem feito, seja em movimento ou parado. Não é nada original, mas é bom o suficiente para entreter, seja nas proporções agradáveis de Melissa Shield e sua textura de adolescente ou o divertido aspecto cartunesco de Minoru Mineta, um baixinho cujo poder é seu cabelo que se desfaz em bolotas e é usado como arma.
+
+A respeito da dublagem em português, a distribuidora brasileira Sato não estava brincando sobre a qualidade, que convence e muito, restando a você decidir se prefere a versão original japonesa ou a brazuca, que tende a mudar radicamente a dinâmica dos desenhos. Com uma equipe encabeçada por Guilherme Briggs, que faz o herói símbolo da paz All Might, temos nomes já conhecidíssimos da blogosfera nacional ou dos tradicionais e competentes dubladores tupiniquins, estando no primeiro grupo celebridades como Flora Paulita (Kyoka Jiro) e Gabi Xavier (Amplifier).
+
+A lista é extensa, mas no time dos profissionais você poderá conferir Fabio Lucindo (Pokémon, Dragon Ball, Hunter x Hunter) fazendo muito bem o explosivo Katsuki Bakugo, além de Lipe Volpato (Bungo Stray Dogs, One Punch Man) como o protagonista Izuku Midoriya, Yuri Chessman como o divertidíssimo Minoru Mineta, Glauco Marques como o vilão, Fernanda Bullara como Momo, entre outros.
+
+Não cabe a mim julgar muito a respeito do resultado do filme como um todo. No mundo dos otakus, nasci sem nenhuma peculiaridade. Resta a mim, portanto, dar suporte teórico a tantos trabalhos talentosos que freneticamente saem do Japão. My Hero Academia, como desenho, com certeza está entre eles. Mal espero por My Hero Academia: 15 Heróis - A Saga E A Revanche Juntos: O Ultimato.
 

@@ -1,26 +1,89 @@
 ---
 categories:
-- writting
-date: '2016-01-20'
-link: https://www.imdb.com/title/tt3682448
-tags:
-- movies
-title: Ponte dos Espiões
+- coding
+date: '2013-11-07'
+tags: null
+title: Ponto Flutuante Afundando
 ---
 
-Esse é um filme que carrega um conteúdo emocional graças ao seu diretor, mas uma história que é obviamente 100% sobre política. É sobre tempos mais sombrios do que os de hoje, a Guerra Fria, quando ignorar política poderia te levar à morte, seja ela física ou pública. Ser baseada em uma história real apenas eleva o roteiro a uma das melhores adaptações do ano.
+Quando armazenamos valores monetários em doubles seus cálculos conseguem manter a precisão e na maioria das vezes o ajuste de precisão funciona. Porém, encontrei alguns casos onde a subtração de dois valores fazia "perder" um centavo (ou comparações exatas) justamente pela limitação da precisão do ponto flutuante. Nesse exemplo os valores são 2.358,93 - 1.386,93, que em uma conta de padaria (mas correta) dá 972,00 ([até a Calc do Windows](http://www.codinghorror.com/blog/2009/01/if-you-dont-change-the-ui-nobody-notices.html) e [o Excel](http://dqsoft.blogspot.com.br/2007/09/ser-que-o-excel-2007-desaprendeu.html) funcionam), mas pelo Visual Studio 2010 chega perto, mas erra o alvo:
 
-Acompanhamos a captura e o julgamento de Rudolf Abel (Mark Rylance), acusado de ser um espião russo. Para sua defesa foi escolhido James B. Donovan (Tom Hanks), um advogado especializado em seguros. Seu discurso inicial, conversando com outro advogado, é um gancho propício que merece ser discutido. Donovan tenta argumentar que em um acidente envolvendo seu cliente, que atropelou cinco ciclistas, houve apenas um evento, e que o preço do seguro, portanto, é equivalente a um único prêmio. Apesar de, do ponto de vista dos cinco atropelados, cada evento ser independente, a defesa de Donovan é de que, se um furacão leva sua casa inteira, não há seguro sobre cada um de seus móveis dentro dela.
+```
+#include <iostream>
 
-É uma defesa boba, que nos apresenta alguém que enxerga o mundo de maneira técnica, e cujas leis e regras são -- supressa! -- para serem seguidas. Quando ele encontra, portanto, uma massa de ufanistas americanos querendo eletrocutar o réu russo simplesmente por ele ter feito seu trabalho para seu país, sacrificando valores que teoricamente estariam acima de todos, como uma tal Constituição, temos um conflito que não apenas escancara a máscara de ódio contra indivíduos das democracias, como revela como as leis de um país lhe são convenientes apenas conforme estejam dentro dos seus propósitos. No entanto, se olharmos mais de perto, essa situação também nos submete sutilmente a uma referência igualmente pertinente: executar bem o seu trabalho não era a defesa usada pelos soldados nazistas que matavam judeus? Deveria a repulsa à morte de inocentes, e o julgamento de seus responsáveis, ser direcionada apenas aos que puxam o gatilho e os que enviam a ordem abaixo, ou também a figuras mais indiretas, como espiões, cuja informação pode ou não ser usada para o mesmo fim?
+int main()
+{
+	double d1 = 2358.93;
+	double d2 = 1386.93;
+	double d3 = d1 - d2;
 
-Não por acaso, a primeira metade do filme é a melhor, pois apresenta tantos conflitos, cujas soluções estão longe de ser simples, e cujos lados não estão limitados a dois, que ela serve como uma micro-história dentro de algo maior. E o algo maior surge logo depois, quando, depois de uma reviravolta que pode ser chamada de golpe de sorte apenas aos que não analisam probabilidades (ou seja, todos menos Donavan), todos os elementos e personagens construídos até então servem de gancho para uma nova história envolvendo a troca de prisioneiros de uma guerra não-declarada entre três países, dentre eles nada menos que dois estão do outro lado do muro de uma revolução comunista.
+	std::cout << "d1: " << d1 << "\n";
+	std::cout << "d2: " << d2 << "\n";
+	std::cout << "d1 - d2 = 3d: " << d3 << "\n";
 
-Apresentando um Tom Hanks como sempre competente em criar personagens carismáticos e olhos do grande público, é Mark Rylance que rouba em seus relativos poucos momentos a graça do filme, ao expor um espião tão meticuloso que seus menores movimentos que ser espião parece ser algo que já nasceu com ele, em seu DNA, rivalizando com Gary Oldman em O Espião que Sabia Demais, e cujas falas são ditas da maneira mais sóbria e carismática possível. É impossível não se deixar levar por sua história do homem que se mantém de pé.
+	// comparando armazenamentos que diferem
+	std::cout << "d3 == 972.0: " << std::boolalpha << ( d3 == 972.0 ) << "\n";
 
-Steven Spielberg, o diretor, já está acostumado a trabalhar em filmes históricos que evocam grandeza de suas tomadas enquadráveis, claro que com a ajuda de seu fotógrafo-mestre, Janusz Kaminski, que utiliza a contraluz em um momento em uma ponte cheia de neve que cria vultos tão poéticos que rivalizam com a sequência que Donavan conversa com o contato da embaixada russa a respeito de fazerem o que é certo antes que os dois países tomem a última decisão errada.
+	// comparando armazenamentos similares
+	std::cout << "d1 == 2358.93: " << std::boolalpha << ( d1 == 2358.93 ) << "\n";
+	std::cout << "d2 == 1386.93: " << std::boolalpha << ( d2 == 1386.93 ) << "\n";
+}
 
-O trabalho de Spielberg se eleva também com o roteiro de Matt Charman e os irmãos Coen (Um Homem Sério, Fargo), pois cria um filme de ideias ambiciosas com uma narrativa inteligente que une diferentes situações nas duas metades do filme, incluindo as falas ("você não se preocupa?", "isso ajudaria?"), mas, principalmente, as transições. Em um determinado momento no tribunal, quando se pede que as pessoas se sentem, vemos alunos de uma escola se levantarem e fazerem o juramento da bandeira americana. Ao mesmo tempo, o desenrolar em paralelo da história do piloto Francis Gary Powers (Austin Stowell) é inteligente em nunca ameaçar parar em demasiado o processo que acontece com o espião russo, mas ao mesmo tempo contrair o movimento de polarização e autoritarismo que ocorre de ambos os lados.
+```
 
-Concluindo de uma maneira insatisfatória, mas à maneira de Spielberg de contaminar seus filmes com finais felizes, clichês e igualmente ufanistas (com exceção talvez do excepcional Munique), Ponte dos Espiões pode com certeza figurar na cinematografia do diretor como um dos trabalhos sérios que tentam dialogar sobre questões sérias, mas que recebem de brinde o calor que só filmes "Spielberguianos" conseguem gerar. Mesmo que a ação seja em um cenário tão gelado que todos em voltam pegam resfriados a cada cinco minutos.
+Isso ocorre porque sua representação dentro da variável double é diferente de 272.0 do outro double. Depurando vemos mais claramente:
+
+{{< image src="TnsgAlZ.png" caption="Ponto Flutuante Afundando" >}}
+
+Ou seja, quando fazemos a subtração de d2 em d1, nossa precisão raspa um pouquinho e escapa pela beirada:
+
+    
+    d1 2358.9299999999998
+    d2 1386.9300000000001
+    ======================
+    d3 971.999999999999777
+    ||||||
+    Esse é o valor "desejado".
+
+Na comparação com o valor redondo aparece a falha, mas note que isso não ocorre com os outros valores d1 e d2, já que o armazenamento adquire o mesmo formato:
+
+{{< image src="mqHh0wA.png" caption="Ponto Flutuante Afundando (2)" >}}
+
+##### Corrigindo o incorrigível
+
+Há uma forma de arredondamento [já disponível no C99](http://stackoverflow.com/questions/8316509/difference-dev-cpp-and-microsoft-visual-c-math-h) (mas não no Visual Studio 2010) que pode ser útil para esses casos. A única coisa que é preciso fazer é arredondar os valores antes do cálculo:
+
+```
+#include <iostream>
+
+double round(double r)
+{
+    return (r > 0.0) ? floor(r + 0.5) : ceil(r - 0.5);
+}
+
+int main()
+{
+	double d1 = 2358.93;
+	double d2 = 1386.93;
+	double d3 = round(d1) - round(d2);
+
+	std::cout << "d1: " << d1 << "\n";
+	std::cout << "d2: " << d2 << "\n";
+	std::cout << "d1 - d2 = 3d: " << d3 << "\n";
+	std::cout << "d3 == 972.0: " << std::boolalpha << ( d3 == 972.0 ) << "\n";
+}
+
+```
+
+É uma decisão arbitrária essa de arredondar para cima, mas se for adotada em todo o sistema (e já fazendo parte de um padrão, no caso, o C99), não deverão existir problemas de interpretação de cálculos entre os componentes.
+
+O mercado financeiro agradece =).
+
+**UPDATE**
+
+Não estou de acordo com o armazenamento de valores monetários em doubles em vez de inteiros pelo simples motivo que **não há moedas no sistema financeiro com unidades que se dividem ad infinitum**. Por consequência, existe sempre uma unidade básica e indivisível (que no caso do Brasil é o centavo de real). Ou seja, como o objetivo é contar o total dessas unidades **que não se dividem**, o uso de inteiros é brainless.
+
+**UPDATE 2**
+
+Existe uma discussão exatamente sobre isso no [Grupo C/C++ Brasil](https://groups.google.com/forum/#!topic/ccppbrasil/uzn6i0PJi8UEu), que recomendo a leitura, o que me levou a escrever o post. Particularmente, sigo o raciocínio do Pedro Lamarão.
 

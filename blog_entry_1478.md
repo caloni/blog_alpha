@@ -1,21 +1,22 @@
 ---
-
-Esta é uma série fantástica baseada tão fortemente em um mangá e anime que ele pode ser o delírio do fã das obras originais ou atiçar a curiosidade do cinéfilo. Por que a curiosidade? Se observarmos os movimentos de câmera, a forma de disposição dos personagens e dos elementos em cena perceberemos que esta obra continua sendo um anime em forma.
-
-Em conteúdo também. A narração dos pensamentos e sentimentos do herói é a típica adaptação narrativa que o Ocidente faz para o Oriente. Além disso a noveliza, para que o telespectador de celular perceba detalhes óbvios como quem é a mãe do personagem. Ao mesmo tempo cria situações extremamente improváveis, como alguém que acabou de acordar de um acidente e pergunta pra sua colega de trabalho por que ela trabalha. Ela responde: para realizar um sonho. Isso é tão atípico que só pode ser um programa da TV de domingo.
-
-Mas voltemos aos movimentos de câmera. Eles vão deslizando de lado em cenários com elementos animados. Às vezes são crianças brincando com balões coloridos, às vezes um trem surge perfeitamente ao fundo. Essa elementos ficam lindos em animações. Já neste live action com pouca inspiração em sua fotografia soa plástico, inventado. Esses detalhes fazem o cinéfilo pensar pra que tudo isso ou se isso quer reproduzir o anime e se tornar querido pelos fãs.
-
-Aliás, já notou como os eventos especiais do protagonista acontecem em um lugar aberto com as pessoas distribuídas de maneira uniformemente caótica? Parece uma praça ou uma rua cinematográfica ou quadros estáticos onde os talentosos desenhistas irão inserir elementos móveis.
-
-A história é criativa e pode ser interessante: o rapaz que não gosta da mãe por perto e tenta fazer seu mangá ter sucesso tem um poder: ele volta no tempo (um pouquinho só) quando algo ruim vai acontecer. Este algo ruim pode ser evitado por ele. Este é um acontecimento que ele não tem controle. Ou tem, como vimos próximo do final. Nunca saberemos se a regra dos roteiristas vai se formando pela conveniência ou por um intrincado jogo de causa e efeito como em Steins;Gate. Mas eu chuto pelo primeiro.
-
-A história gira em torno do acontecimento fantástico. O nosso herói tem uma personalidade que tanto faz. Ele é o centro de acontecimentos fantásticos e ponto. Ao final do episódio uma reviravolta que quebra uma certa regra, e está lançado o gancho para espectadores apaixonados por animes apreciarem um anime desenhado usando pessoas de carne e osso e balões de verdade.
-
----
 categories:
 - writting
-date: '2021-06-28T21:24:00-03:00'
+date: '2015-06-04'
+link: https://www.imdb.com/title/tt1816518
 tags:
 - movies
-title: Erin Brockovich
+title: Ernest and Célestine
+---
+
+É um desenho de 2012, indicado ao Oscar de 2014, que estreou na Netflix esse mês (2015). Falado em francês e dirigido por três pessoas, o filme parece possuir um maior poder de marketing do que de contar uma história diferente do que o velho clichê "eles vivem em mundos diferentes". Contudo, é bem desenhado, mantendo suas virtudes em seu toque artístico.
+
+A rata, Celestine, por algum motivo imagina um urso seu amigo e o desenha. Ela gosta de desenhar, apesar de ser criada na sociedade de ratos onde vive para coletar dentes de pequenos ursos. Os dentes viram os dois dentes da frente dos ratos, sem os quais eles falam estranho e nem os próprios ratos entendem (apesar de sempre haver algum chato no grupo que afirma estar entendendo). Isso é engraçadinho.
+
+O urso, Ernest, acorda da hibernação morrendo de fome, mas não tem dinheiro para comprar comida. Ele é músico, mas ninguém lhe dá valor. Perseguido pela polícia por vagabundear, acaba conhecendo sem querer Celestine e ambos viram amigos inseparáveis. Isso é sentimental.
+
+O casal de ursos, donos de uma doçaria e uma "loja de dentes", realizam um mercado perfeito: de um lado os jovens ursos compram e comem doces ao final da aula (a escola fica do lado da doçaria), e assim perdem os dentes mais rapidamente, e por isso precisam ir à loja de dentes conseguir mais. Como eles conseguem tantos dentes não é muito bem explicado, mas dá a entender que os mesmos dentes que os ursinhos perdem são usados para os ursos adultos. Isso é de uma lógica infantil, mas estamos falando mesmo de um desenho infantil, em todos os seus detalhes, e por mais que ele tente permear o campo das ideias, no máximo vira uma apologia às ideias francesas sobre economia, não muito raro resumidas, incompletas e tendenciosas.
+
+Como um desenho para crianças, o traço do filme segue a mesma lógica dos desenhos de Celestine, que vai melhorando com o tempo e que "surge" primeiro de um esboço em um papel branco. Contendo em sua lógica visual os traços de personalidade tanto da ratinha -- agitada -- quanto do urso -- lento e desengonçado --, o momento mais inspirado do longa é a perseguição da massa de policiais de ambos os mundos. Eu poderia dizer que a lógica do julgamento duplo também é interessante, mas não é. Maniqueísta ao máximo, resolve uma situação da forma mais preguiçosa possível, típico das animações em série da TV.
+
+Com uma didática e moral "certinhas", permeada de politicamente correto e traços curiosos o suficiente para expressarmos um "aha", Ernest and Celestine é a típica aventura de Sessão da Tarde, em que não há nada para fazer e nada a esperar. Aproveite e faça umas pipocas ou, se estiver frio e/ou chovendo, bolinhos de chuva. Só não coloque muito açúcar.
+

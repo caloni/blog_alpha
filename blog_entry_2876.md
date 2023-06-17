@@ -1,115 +1,31 @@
 ---
 categories:
-- coding
-date: '2023-06-06'
+- writting
+date: '2019-09-25'
+link: https://www.imdb.com/title/tt7937758
 tags:
-- reversing
-title: OnBoarding no baixo nível
+- cinemaqui
+- movies
+title: Onde Quer Que Você Esteja
 ---
 
-Uhu! Estou de volta para as baixarias =). Irei trabalhar com engenharia reversa, serviços e drivers no Windows, talvez algumas telas azuis da morte e alguns travamentos inexplicáveis. Ou seja, só diversão.
+Pelos sobrenomes dos dois diretores de "Onde Quer Que Você Esteja", Bel Bechara e Sandro Serpa, você não imagina que são casados, mas na coletiva de imprensa que aconteceu logo após a exibição do filme pode-se perceber a simbiose típica que ocorre entre duas pessoas que conviveram muito tempo juntas. Bel é encantada com os detalhes encontrados pelo seu elenco para enriquecer ainda mais seus personagens, como a ideia de Debora Duboc de sua personagem reciclada de um curta poder cantar em algum momento; para ela são esses pequenos momentos que valeram a pena todos os problemas orçamentários pelos quais os dois passaram durante a produção. Já Sandro, introspecto, possui uma visão técnica apurada sobre o projeto, entregando filmes de referência para seus atores se prepararem. No entanto, Bel também se interessa pelo processo, e observa todo o trabalho de ajustar as inúmeras camadas de som de um filme onde boa parte se passa em uma estação de rádio e com pessoas conversando ao fundo. E logo você vê que esta é de fato uma co-direção, onde não há hierarquia, mas parceria.
 
-E vou aproveitar meu processo de onboarding para recomendar as ferramentas que já utilizo no meu dia-a-dia e as novas que meus colegas me passaram.
+Ambos fizeram um curta há muito tempo explorando uma notícia de que havia uma rádio na Colômbia que servia para anunciar pessoas desaparecidas. Usado muito naquele país por causa dos frequentes sequestros das FARCs, os diretores transpõem essa ideia para São Paulo, Brasil, onde pessoas de uma classe social que escuta rádio busca conforto em divulgar ao município o desaparecimento de seus entes queridos: filhos, maridos e esposas que sumiram de repente e criam um vazio que precisa ser preenchido por qualquer ação que dê sentido à sua busca, ou que pelo menos ela não acabe. Então o filme começa a discutir se essa busca sem fim é algo bom ou ruim na vida dessas pessoas.
 
-## SDK ou Visual Studio
+Há muitos personagens neste filme, fragmentos de uma realidade muito próxima de quem vive em megalópoles como São Paulo, onde desaparecer e nunca mais ser visto pode ser questão de segundos, e temos a oportunidade de observar isso acontecendo em uma cena próximo do final. Além disso, para relacionamentos abusivos, sumir sem dar notícia pode ser uma válvula de escape necessária, e ainda que não saibamos dos reais motivos de vários maridos, esposas e adolescentes que se foram, sabemos por instinto que isso não aconteceria se houvesse preenchimento onde estavam.
 
-No Visual Studio já vem o SDK de desenvolvimento para Windows. E dentro dele vem as libs e headers para você conseguir compilar programas em C e C++ que usam a API do Windows.
+Essa é uma dicotomia valiosa ao acompanharmos a rotina muitas vezes problemática das pessoas que ficam em um estado de eterna espera. Uma família prepara uma festa de aniversário para o garoto de sete anos que está há quarenta dias desaparecido, anuncia na rádio, canta parabéns ao vivo. Se não há ninguém de fora para dizer que isto é uma loucura ficamos envolvidos na estranheza da situação: um bolo feito com carinho pela avó para um neto que ela sabe que não virá; o clima festivo dentro de uma família que não aceita o luto porque ele nunca foi anunciado.
 
-Porém, o importante de lá é que existem ferramentas para realizar análise de executáveis, como o DumpBin, e debug remoto através de uma porta TCP; na seção de VMs falo sobre isso.
+Bel Bechara e Sandro Serpa sabem usar rimas e apelos visuais de maneira sutil em um roteiro que não necessita de texto expositivo. No começo do filme observamos os presentes amontoados da festa citada em uma cama que não é usada há mais de um mês, e perto do final temos a visão do quarto de outra criança, vazio, mas ainda quente, criando uma tensão inconsciente no espectador. Acompanhamos a rotina da casa de um senhor de meia-idade se desmanchar desde que sua esposa sumiu. As roupas e a louça se acumulam. Ainda sobrou café da véspera, pois provavelmente a velha cafeteira surrada fazia a bebida certinha para os dois.
 
-## WDK
+Outros detalhes da história são muito sutis, inacessíveis ao espectador em um primeiro momento e bem-vindos em uma revisita. Há uma senhora, Lúcia, que é especialista em deixar mensagens na rádio. Ela é interpretada por Debora Duboc com uma convicção ritualística que nos faz crer que sua personagem vive esse momento há oito meses quase que com felicidade: ela toma banho, se arruma, passa pela portaria de seu prédio e vai direto para a rádio, com seu discurso preparado e decorado de antemão para o marido desaparecido. Isso é o que ela tem para hoje. Por isso entendemos, ainda que de forma inconsciente, que a chegada de um pretendente pode retirar a única coisa que restou de seu marido: a espera e as declarações de amor pela rádio. Lúcia é mais complexa do que a história nos permite enxergar, e como vários detalhes da história ficam sem ser ditos perde-se um pouco do impacto do seu arco.
 
-O WDK é o SDK para kernel mode. Lá haverá libs e headers também, mas mais focadas para o desenvolvimento de drivers. E uma ferramenta, ou melhor dizendo, um conjunto de ferramentas que não pode faltar e que está lá é o...
+Isso já não acontece com Zélia, que trabalha em um mercado, portanto rodeado de gente, mas que não consegue se conectar com ninguém, vivendo solitária. Ela observa de sua janela os vizinhos: uma mãe e seus sete filhos. Você não leu errado. Sete filhos em São Paulo. Não é à toa que não se vê o marido. Zélia faz parte da parte mais cômica e leve do projeto, pois introvertida, é desengonçada sem exagero e nutre uma saudade há vinte anos pela babá, a quem considera uma segunda mãe, que nunca mais viu. A atriz Sabrina Greve está mais acostumada a personagens dramáticos, mas sua Zélia vira um respiro de novos ares muito bem-vindos, pois sua dedicação ao humor da personagem, sob o controle dos diretores, manteve o interesse do espectador em uma história trivial em torno de tantos temas pesados como um respiro necessário.
 
-## WinDbg ou Debugging Tools
+Onde Quer Que Você Esteja é um filme de baixo orçamento que faz milagres em sua produção. Uma delas é o controle do som. Estamos em uma rádio e há dois ambientes: dentro e fora do estúdio. Além disso, pessoas aguardando do lado de fora conversam entre si, gerando diversos planos sonoros que precisam harmonizar diálogos fora da ação em meio a vinhetas, música e conversa paralela. Além disso o design de som é preciso, onde até o barulho ao se abrir uma janela de ferro velha é capturado, apenas para ter uma ideia de que baixo orçamento não é sinônimo de trabalho relapso. Bel Bechara e Sandro Serpa conseguem um elenco equilibrado sem realizarem muitos testes, e enquanto alguns se saem muito bem, como Greve e Duboc, nenhum deles prejudica a história. Exceto, talvez, pela menina do filme que parece saída de um comercial de TV e nos traz a mensagem errada: ela não incomodaria se desaparecesse do filme. Mas são pecadilhos como esse que passam despercebidos frente à obra geral.
 
-Sem WinDbg a vida fica um pouco mais triste. Dentro do pacote Debugging Tools há ele e suas variantes, como o kd, ntsd e cdb. Também há o gflags, para setar várias flags importantíssimas na depuração do sistema operacional, e uma documentação bem extensa para desenvolver scripts e extensões para depuração, além de outras coisas mais, como um servidor de símbolos.
+Mas por falar em mensagem, ela se torna confusa no terceiro ato e no filme como um todo, pois ao tentar embutir diversos subtextos em seu roteiro, o casal Bel e Sandro precisaria cortar mais na pós-produção para manter coeso seu universo de ideias. Do jeito que sairá nos cinemas o filme não apenas contém um terceiro ato inchado, daqueles com vários falsos finais, como mantém ideias desconexas juntas, na tentativa de garantir representatividade em todos os tipos de história de desaparecimento. Vira uma ficção com cara de documentário, destruindo boa parte das expectativas de arcos em seu início promissor e nas conclusões de algumas história lá pelo meio.
 
-## [x64dbg](https://x64dbg.com/)
-
-Não conhecia este depurador. Ele é fonte aberto, o que já é interessante. Baixei e pretendo olhar mais de perto. Jurava que iriam me sugerir o OllyDbg pelo livro que estou lendo de reversa. Este carinha deve ter sido lançado após o livro.
-
-## [PeTools](https://github.com/petoolse/petools/releases)
-
-Uma ferramenta de análise de PE, ou Portable Executable, o formato dos EXEs e DLLs do Windows. Eu particularmente uso o DumpBin, mas vou dar uma olhada nesta recomendação que deve agilizar um pouco as análises.
-
-## [Resource Hacker](http://angusj.com/resourcehacker/)
-
-Usava esse carinha há muitíssimo tempo atrás, para uma tarefa não-nobre: editar na mão os resources pós-compilados do C++ Builder porque ele vivia cheio de bugs. Ah, e também manipular chaves criptográficas guardadas nos resources. Ele também é bem legal para achar novos ícones e incrementar seu computador, além de um ótimo editor de strings.
-
-## [WinMerge](https://winmerge.org/)
-
-Eu já tentei usar o Vim no modo de comparação, mas WinMerge para Windows não se compara. Ele é simples e eficiente. Mantenho apenas o executável no meu cinto de utilidades e ele consegue se virar para pastas inteiras. Suas configurações permitem ignorar detalhes como final de linha e indentação.
-
-## [HxD](https://mh-nexus.de/en/hxd/)
-
-Um editor hexa que virou queridinho depois que um colega da Open me apresentou. Ele é daqueles um executável apenas que faz todo o serviço de mostrar dados em hexadecimal de qualquer arquivo ou mesmo da memória (ou do disco).
-
-## [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
-
-Não vou perder tempo descrevendo cada uma das fantásticas ferramentas da SysInternals, então tomaí: um toolkit cheio delas.
-
-## [RegShot](https://sourceforge.net/projects/regshot/)
-
-Não conhecia este aqui e fiquei muito empolgado. Ele faz comparação entre registros! Imagina a maravilha que isso será para alguns de meus projetos que envolvem diretivas de acesso...
-
-## [Wireshark](https://www.wireshark.org/)
-
-Essencial para analisar tráfego de rede no detalhe, já me quebrou muitos galhos quando precisava entender erros de comunicação com a bolsa de valores. Sim, eles também erram. Quem diria.
-
-## [ArtMoney](https://artmoney.ru/)
-
-Este é um scanner de memória feito para aplicar patches em jogos. Que feio! Porém, para um reverseiro pode ser útil para encontrar padrões e reconhecer comportamento.
-
-## [IDA](https://hex-rays.com/ida-free/)
-
-IDA é um disassembler que brilha na análise estática. Ele ajuda muito a reconstruir código-fonte ou entender comportamento de funções inteiras apenas lendo o assembly e os nomes sugestivos dos calls e jumps que a ferramenta lhe fornece.
-
-## [ShareX](https://getsharex.com/)
-
-Esta é uma ferramenta para gerar screenshots e vídeos, ou seja, gerar evidência. Qualquer uma na verdade serve, mas essa foi a sugestão do colega e pretendo guardar aqui.
-
-## VMWare
-
-Virtualizar o Windows é essencial para instalar drivers instáveis, analisar telas azuis e o comportamento do sistema como um todo, do user mode ao kernel. Portanto, trate de arrumar algumas das soluções disponíveis. Eu uso VMWare desde que foi lançada e já comprei algumas licenças de novas versões dos caras, porque eles são foda. Você pode usar também VirtualBox ou outras por aí. O importante é virtualizar.
-
-Por falar nisso, é importante lembrar que o Windows 11 requer um chip de TPM 2.0 disponível para ser instalado, e por isso você irá precisar do VMWare 17 ou superior. Se atente a [este guia de instalação] para conseguir rodar o Win11 virtualizado.
-
-## Remote Debugging
-
-A depuração remota é importantíssima quando se precisa acessar múltiplos ambientes, muitos deles montados de uma maneira bem específica para reproduzir um bug. Por isso o uso do msvsmon, disponível na instalação do Visual Studio, é primordial.
-
-Você pode encontrar as versões para x86 e x64 do msvsmon dentro da pasta de instalação do Visual Studio. Por exemplo:
-
-```
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\Remote Debugger
-```
-
-Para instalar na máquina guest tudo que você precisa é copiar essas pastas e rodar qualquer um dos msvsmon.exe disponíveis. Rode pelo menos uma vez para acertar a porta no Firewall do Windows. Depois disso pode rodar como tarefa automática.
-
-Eu acho muito útil configurar um serviço que rode o msvsmon, de forma que mesmo antes de logar já é possível depurar programas. Para isso eu uso uma outra ferramenta fantástica, o [NSSM](https://nssm.cc/download), mas qualquer outra ferramenta que transforme um programa em serviço já serve.
-
-Usando o NSSM configure o programa Msvsmon para rodar como um serviço. Aqui está uma configuração bem direta, sem autenticação, para usar o msvsmon através do nssm:
-
-```
-nssm.exe install msvsmon c:\tools\rmdbg\x86\msvsmon.exe /anyuser /noauth /timeout 9999999 /silent
-```
-
-Use o path completo de onde está o msvsmon.exe na máquina guest para rodar este comando. O serviço é instalado por padrão como automático, então ao reiniciar a máquina ele já estará em execução.
-
-[este guia de instalação]: https://www.digitalcitizen.life/install-windows-11-virtual-machine/
-
-## Kernel Debugging
-
-Qual a graça de depurar apenas os programas em user mode? E aquela tela azul marota, ou acompanhar o boot da máquina em câmera hiperlenta? Aproveite que já está com sua VM bonitinha no ar e configure o debug de kernel rodando um cmd como administrador e executando alguns comandos no bcdedit.
-
-```
-bcdedit /copy {current} /d Debug
-bcdedit /debug {new-id} ON
-bcdedit /dbgsettings SERIAL DEBUGPORT:1 BAUDRATE:115200
-```
-
-Isso irá criar uma segunda opção de boot que irá aparecer quando ligar a máquina (timeout padrão de 30 segundos para escolher). Se configurar debug pela porta serial crie uma na máquina virtual apontando para um named pipe. No WinDbg conecte usando este pipe (e.g. `\\.\pipe\com_1´).
-
-Agora começa a diversão =).
+Esse seria um grande defeito? Sabemos que a vida é caótica e que tudo é possível em casos de desaparecimento. Onde Quer Que Você Esteja não é fantasioso a ponto de ignorar uma premissa tão importante, mas seu erro é justamente tentar colocar alguma ordem em uma narrativa que já ficaria de bom tamanho em apenas abraçar o caos metropolitano, alimentar os sentimentos de ausência do outro, e analisar os dos que ficaram.
 

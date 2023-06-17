@@ -1,32 +1,18 @@
 ---
 categories:
 - writting
-date: '2010-12-20'
-link: https://www.imdb.com/title/tt0076085
+date: '2012-08-24'
+link: https://www.imdb.com/title/tt1535438
 tags:
 - movies
-title: Um Dia Muito Especial
+title: Um Divã para Dois
 ---
 
-Um drama de um relacionamento de um dia entre uma dona-de-casa e seu vizinho homossexual que mostra de diversas formas como a Itália fascista estava se transformando. O dia em questão calha com a visita de Hitler à Roma. O filme conta com Sophia Loren e Marcelo Mastroiana nos papéis principais, e é dirigido por Ecolla.
+Meryl Streep (Kay), e é preciso que comece esse texto com ela, está divina. Pra variar, seu tom de voz fino, distante e frágil remete justamente àquela mulher que, depois de 30 anos de casada, percebe que sua posição submissa e acomodada começa a perturbá-la pelo som repetitivo e ensurdecedor da rotina. Seu marido, Arnold (Tommy Lee Jones sendo Tommy Lee Jones), igualmente acomodado em uma cadência ininterrupta de ovos, bacon e escritório, mal consegue entender por que sua mulher pretende mudar aquele casamento estável indo para uma sessão de terapia de casais em uma cidadezinha feita sob encomenda. Pior: não entende por que gastar 4 mil dólares em algo tão fútil se poderia aplicar melhor esse dinheiro comprando um telhado novo?
 
-O filme inicia com um daqueles filmes políticos que passavam nos cinemas na época apresentando a visita de Hitler à Itália. Usando expressões que aos poucos denunciam o pensamento da sociedade da época, como a "majestosa simplicidade" com que o Fuher será recebido, ou a "doçura viril" de determinada pessoa, o prólogo em preto e branco nos dá a exata sensação do que seria viver naquela época, assistir filmes naquela época.
+Construído de maneira impecável e didática pelo diretor David Frankel, as primeiras cenas que demonstram como, apesar de casados, o convívio alargado e rotineiro criou uma barreira intransponível entre os dois, tal como o longo corredor que separa seus quartos, os ângulos opostos que cada um olha pela manhã (Arnold, para o jornal e para a janela, Kay, para o fogão e para Arnold) e o personagem invisível que se senta entre os dois no sofá de Dr. Feld (Steve Carell, mais simbólico que necessário).
 
-Há um corte brusco para o vermelho, uma bandeira nazista. A câmera sobe aos poucos mostrando mais bandeiras sendo hasteadas. No próximo corte temos uma câmera que entra dentro de uma das casas do condomínio, e através de uma arquitetadíssima e longa sequência somos apresentados à dona-de-casa que lá reside e vai acordando em cada cômodo a família. É como se fôssemos uma visita indiscreta a passear pela casa inteira.
+A coragem do diretor, aliás, em arriscar um arco dramático não linear e que impulsione os personagens da maneira mais realista do que um casal formado por Lee Jones e Streep poderiam ser fadado ao fracasso se não houvesse essa cumplicidade com o espectador. Com a confiança depositada em quem assiste e provavelmente já viveu situação semelhante (da rotina) é possível apostar em sequências relativamente lentas, se compararmos com as regras das comédias românticas, e deixar o espectador constrangido. Constrangido, aliás, é a palavra exata para definir o que se sente ao ouvir as diversas músicas bregas escolhidas a dedo para ilustrar os momentos cafonas de uma tentativa desesperada de um casal de meia-idade em tentar algo novo. A aposta do diretor atinge seu ápice ao nos colocar em uma sala de cinema que aparentemente quebra a quarta parede que nos separa do filme.
 
-Aos poucos o comportamento das pessoas reflete a mesma época que vimos no vídeo inicial, como críticas pesadas à masturbação ("você vai ficar cego assim") ou o uso de estrangeirismos.
-
-O diretor gosta de navegar a câmera da forma mais eficiente possível, como na cena em que ele está no telefone e, durante a conversa, a câmera dá um giro por trás dele, denunciando ao fundo a mulher na janela do apartamento à frente, ou quanto em um diálogo na casa deste, a mulher fica à frente da câmera e ele está parado no fundo à esquerda; conforme ela se move para a direita a câmera segue e para do lado dela e de um espelho, que reflete a mesma imagem dele (talvez uma interessante rima com o fato dele ser homossexual).
-
-O sobrenome da família é colocado como placa na frente na porta. Não sei se é um aspecto cultural ou, ao mesmo tempo uma influência do próprio fascismo. Uma prática semelhante é seguida na Japão, se não me engano.
-
-É significativo que a hora que os dois se juntam, sobre o terraço, a câmera foque debaixo de um coberto, e eles estão contra a luz; portanto, no escuro para a câmera.
-
-Por muitas vezes ouvimos diálogos memoráveis, bons demais para estarem na boca de pessoas comuns, mas considerando que a maioria deles são pronunciadas por Mastroiani entendemos sua cultua mais sofisticada: "Um bom homem deve ser pai, marido e soldado; eu não sou nem marido, nem pai, nem soldado", diz ele ao revelar sua homossexualidade.
-
-O tapa que ela dá na face dele também é dado na mesma contraluz do terraço. E acompanhamos a descida pela escada deles por uma câmera de fora, que desliza pelos andares rapidamente.
-
-Um corte preciso e orgânico; depois que ele prepara seu omelete, o vemos cortando no seu prato. Logo após esse corte o plano aumenta e vemos outro prato com outro omelete; ela está comendo ao seu lado.
-
-A câmera sempre escolhe os melhores ângulos; quando ela avança a mão para cima dele na cena de sexo, por exemplo, a mão que faz isso é a que contém a aliança. Temos câmeras mostrando ele por baixo e ela por cima, com representações significativas de ambos, mais dele, pela sua experiência heterossexual.
+Como consequência metafórica, saímos do filme com uma sensação de terapia, de livro de auto-ajuda. Uma bobagem? Sem dúvida. Porém, feita a partir da reciclagem do óbvio que encanta mais do que se víssemos mais do mesmo. Nesse sentido, a aposta de David Frankel, desajeitada em poucos momentos, sai da rotina ainda acima da média.
 

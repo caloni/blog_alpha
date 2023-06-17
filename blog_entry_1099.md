@@ -1,15 +1,131 @@
 ---
-
-Este livro é uma pequena pérola para quem ainda não conhece Kael, a crítica mais versátil, corajosa e indigesta da história do cinema. Suas opiniões são fortes e você provavelmente vai discordar da maioria. Mas seu texto é delicioso.
-
-Essa coletânea editada por Will Brantley envolve vários momentos de sua carreira e a descreve a partir de vários pontos de vista, já que cada entrevistador a enxerga de certa maneira. Este compilado acaba se tornando, então, no conjunto, um "Cidadão Kael", fazendo um trocadilho com a obra mais conhecida que Kael já esmiuçou, o filme Cidadão Kane. Nunca saberemos quem de fato foi o ser humano por trás da crítica, e após ler o livro terminamos sabendo ainda menos.
-
-Contrária a tudo e a todos, sua visão política se resume a estar do lado dos menos representados (no cinema americano os conservadores, sem sombra de dúvida), mas não é fácil resumir qualquer traço da escritora em uma frase. Sua bússola moral é o cinema, e se movimentos sociais acabam produzindo trabalhos ruins, ela se posiciona totalmente contra. Se Thelma e Louise é um filme com uma história sem lógica, ainda que feminista, então Ridley Scott será posto à prova por Pauline. Imagino o que ela acharia então de Capitã Marvel, se fosse obrigada a escrever sobre os filmes da Marvel.
-
-Ao mesmo tempo ela é contra Hollywood como sendo a mega indústria que se tornou após os anos setenta. Seu artigo Why The Movies Are So Bad explica o processo pós-Star Wars e a retirada do risco financeiro do negócio de filmes, já vendidos antecipadamente para a TV. É um prazer acompanhar o raciocínio de uma pessoa tão sagaz e uma frustração nunca conseguir compreendê-la por inteiro. Ela se torna mais complexa hoje do que os filmes que são lançados, e a solução é rever os filmes dos quais ela fala em seus livros, ou em artigos arquivados do The New Yorker, lugar onde trabalhou por três décadas.
-
----
 categories:
 - coding
-date: '2008-02-27'
-title: Conversor de Houaiss para Babylon - parte 1
+date: '2008-04-08'
+title: Conversor de Houaiss para Babylon - parte 2
+---
+
+Após algumas semanas de suspense, chegamos finalmente à nossa segunda e última parte da saga do dicionário Houaiss.
+
+Como devem [estar lembrados], a primeira parte se dispôs a desmontar a ofuscação usada nos arquivos do dicionário para permitir nossa posterior análise, com o simples e justo objetivo de importá-lo para o Babylon, cujas funcionalidades de busca são bem superiores.
+
+Feito isso, agora nos resta entender a estrutura interna do Houaiss para montar um conversor que irá ajudar o Babylon Builder a construir nosso Houaiss-Babylon. Simples, não?
+
+A primeira parte de toda análise é a busca por padrões com um pouco de bom senso. O Houaiss armazena suas definições em um conjunto de arquivos de nome deahNNN.dhx (provavelmente deah de Dicionario Eletrônico Antônio Houaiss). Os NNN variam de 001 -- o maior arquivo -- até 065, com algumas poucas lacunas, em um total de 53 arquivos originais.
+
+O nosso rústico importador fez o trabalho de desofuscar todos os 53 arquivos usando a mesma lógica encontrada pelo WinDbg: somar o valor 0x0B para cada byte do arquivo. Dessa forma foram gerados 53 arquivos novos no mesmo diretório, porém com a extensão TXT.
+
+Partindo do bom senso, abriremos o arquivo maior, deah001.txt, e abriremos o próprio dicionário Houaiss, em busca de um padrão que faça sentido. Como poderemos ver na figura abaixo, o padrão inicial não é nem um pouco complicado.
+
+{{< image src="houaiss-analysis.png" caption="Houaiss Analysis" >}}
+
+As duas primeiras observações do formato do arquivo nos dizem que (1) o primeiro caractere de cada linha indica o conteúdo dessa linha, e que (2) a formatação dos caracteres é feita dentro de um par de chaves {}.
+
+Dessa forma, podemos começar a construir nosso interpretador de arquivos do Houaiss em seu formato básico.
+
+    #include <iostream>
+    #include <string>
+    
+    int main()
+    {
+    	char cmd; // comando da linha atualmente lida
+    	string line; // linha atualmente lida
+    	int count = 0; // contador de palavras
+    
+    	while( getline(cin, line) )
+    	{
+    		cmd = line[0]; // guardamos o comando
+    		line.erase(0, 1); // tiramos o comando da linha
+    		format(line); // formatação da linha (explicações adiante)
+    
+    		switch( cmd ) // que comando é esse?
+    		{
+    		case '*': // verbete
+    			++count;
+    			cout << '\n' << line << '\n';
+    			break;
+    
+    		case ':': // definição
+    			cout << line << "<br>\n";
+    			break;
+    		}
+    	}
+    
+    	return 0;
+    }
+
+Simples e funcional. Com esse código já é possível extrair o básico que precisamos de um dicionário: os vocábulos e suas definições.
+
+Para conseguir mais, é necessário mais trabalho.
+
+A formatação segue o estilo já identificado, de forma que podemos aos poucos montar um interpretador de formatação para HTML, que é o formato reconhecido pelo Babylon Builder. Podemos seguir o seguinte molde, chamado no exemplo de código anterior:
+
+    void format(string& str)
+    {
+    	string::size_type pos1 = 0;
+    	string::size_type pos2 = 0;
+    
+    	while( (pos1 = str.find('<')) != string::npos )
+    		str.replace(pos1, 1, "<");
+    
+    	while( (pos1 = str.find('>')) != string::npos )
+    		str.replace(pos1, 1, ">");
+    
+    	while( (pos1 = str.find('{')) != string::npos )
+    	{
+    		if( pos1 && str[pos1 - 1] == '\\' ) // caractere de escape
+    			str.replace(pos1 - 1, 2, "{");
+    		else
+    		{
+    			string subStr;
+    
+    			pos2 = str.find('}', pos1);
+    
+    			if( pos2 != string::npos )
+    				subStr = str.substr(pos1 + 1, pos2 - pos1 - 1);
+    			else
+    				subStr = str.substr(pos1 + 1);
+    
+    			istringstream is(subStr);
+    
+    			string fmt;
+    			string word;
+    			is >> fmt;
+    			getline(is, word);
+    			if( word[0] == ' ' )
+    			word.erase(0, 1);
+    
+    			if( fmt.find("\\i") != string::npos )
+    				word = "<i>" + word + "</i>";
+    
+    			if( fmt.find("\\b") != string::npos )
+    				word = "<b>" + word + "</b>";
+    
+    			if( fmt.find("\\f20") != string::npos )
+    				word = "<font style=\"text-transform: uppercase;\">" + word + "</font>";
+    
+    			if( fmt.find("\\super") != string::npos )
+    				word = "<font style=\"vertical-align: super;\">" + word + "</font>";
+    
+    			if( pos2 != string::npos )
+    				str.replace(pos1, pos2 - pos1 + 1, word);
+    			else
+    				str.replace(pos1, pos2, word);
+    		}
+    	}
+    }
+
+Algumas partes ainda estão feias, eu sei. Mas, ei, isso é um código de ráquer, não é mesmo? Além do mais, se isso não é desculpa suficiente, estamos trabalhando em uma versão beta.
+
+A partir dessas duas funções é possível dissecar o primeiro arquivo do dicionário, e assim, construirmos a primeira versão interessante do Houaiss no Babylon.
+
+{{< image src="houaiss-babylon-installing.png" caption="Houaiss Babylon Installing" >}}
+
+Como é normal a qualquer dicionário do Babylon, podemos instalá-lo simplesmente clicando duas vezes no arquivo (em uma máquina com Babylon previamente instalado).
+
+{{< image src="houaiss-babylon.png" caption="Houaiss Babylon" >}}
+
+O projeto atual está um tanto capenga, mas já desencripta os arquivos do Houaiss e gera o projeto do Babylon Builder sozinho. Em anexo já está um projeto do Babylon Builder. Basta copiar o arquivo Houaiss.txt para a pasta do projeto e gerar o projeto do Babylon.
+
+[estar lembrados]: {{< relref "conversor-de-houaiss-para-babylon-parte-1" >}}
+

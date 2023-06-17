@@ -1,13 +1,13 @@
 ---
-categories: []
-date: '2011-05-29'
-tags: null
-title: Novo branch para projetos do Caloni.com.br
+categories:
+- writting
+date: '2021-10-04T20:40:37-03:00'
+tags:
+- animes
+title: Null & Peta
 ---
 
-Reestruturei meus projetos caseiros e coloquei todos em um branch no repositório do Assembla. A partir dele começarei a reestruturas os códigos de exemplo do saite, o deve facilitar o acesso. Para usuários do Bazaar, como eu, basta puxar o branch usando [seu endereço](http://subversion.assembla.com/svn/caloni/trunk) usando o comando `bzr get`:
+Um anime com algumas referências de programação (Null) porque a protagonista, uma garotinha gênio, reconstrói sua irmã (não sabemos seu paradeiro) no corpo metálico de um robô que mantém sua personalidade. Ou quase, e é essa a graça, quando criatura não se comporta como a criadora imaginava.
 
-{{< image src="nova-branch-bazaar-assembla.png" caption="" >}}
-    
-Para os usuários do Subversion, ou qualquer outro controle de fonte que consiga ler um branch feito em SVN, google for it.
+Uma história engraçada e dramática, pois a menina mora só e está engatinhando na recuperação da perda da irmã.
 

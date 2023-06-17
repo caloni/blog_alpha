@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2018-07-28'
-link: https://www.imdb.com/title/tt1545754
+date: '2016-11-17'
+link: https://www.imdb.com/title/tt0120631
 tags:
 - movies
-title: Para o Que Der e Vier
+title: Para Sempre Cinderela
 ---
 
-Aparentemente este é um filme sessão da tarde, mas ele tem personagens que são cativantes de acompanhar, seja por eles serem vividos por atores cujas personas já conhecemos ou pelos seus conflitos e desafios serem tão comuns quanto... banais.
+Esta revisita nos anos 90 ao conto dos irmãos Grimm usa os próprios documentaristas dessa fábula folclórica para dar um laço mais realista à história imortalizada por Disney. Usa atores competentes em situações interessantes -- o que Morgana faz como a madrasta? -- e ao mesmo tempo decide formatar seu núcleo em um romance convencional, de época e água com açúcar. Mas, ainda assim, apaixonante.
 
-Cada um tem o que pensar nesse filme dirigido e escrito por Matthew Weiner, um escritor para TV (Família Soprano, Mad Men). O personagem de Owen Wilson tem um emprego como homem do tempo em sua cidade local e vive de arrumar rolos com mulheres. Ele não sabe o que quer da vida, e gasta boa parte do seu tempo fumando uns baseados com seu amigo interpretado por Zack Galifianakis, que está escrevendo um livro sobre as mazelas do mundo de comida envenenada e a violência contra os animais em um caderno amassado. Quando o pai morre e deixa quase tudo para ele (e não para a irmã, Amy Poehler) para ele deixar se ser "porra louca" isso é motivo o suficiente para ele ficar louco de vez e deixar todos em sua volta preocupados, incluindo sua jovem, linda e perfeita madastra (a linda e perfeita Melissa Rauch, que para muitos vai passar batido, como eu, mas se trata da estranha mas voluptuosa Bernadette da série The Big Bang Theory).
+Temos como Cinderela Drew Barrymore, a queridinha da época e uma das panteras. O príncipe é Dougray Scott, que harmoniza ingenuidade e pomposidade de um sangue azul. Seus pais não querem que ele se case com uma plebeia, que se torna órfã a partir do momento que é entregue aos cuidados de sua inconsolável madrasta, Rodmilla (Huston). Há um quê histórico nessa nova versão que quer dar motivos para a aparente irracional maldade de Rodmilla, e é Anjelica Huston que consegue ser a peça-chave nesse núcleo emocional. Entendemos suas motivações e abraçamos o conto dessa vez muito melhor, já que a realidade das tragédias da vida real é um embrulho muito melhor do que a pura maldade em si.
 
-A dinâmica do filme é questionar os valores e ações de todos envolvidos, onde todos buscam se encaixar, o que já seria combustível para uma boa comédia, mas vira apenas apelo a auto-piedade e um drama existencialista embutido em um filme indie (em sua clássica fórmula de família disfuncional) adaptado para não cair no mais do mesmo.
+Da mesma forma suas duas filhas, constituída pela bonitinha da casa e pela gordinha. Elas não são comparsas nas maldades com a meia-irmã, e frequentemente discordam das atitudes da mãe em relação à Cinderela.
 
-O bom do filme são as falas, e todos têm oportunidade para dizer ótimas falas. Não me lembro exatamente de nenhuma agora porque elas não estão inseridas em uma história de primeira onde elas busquem um maior sentido, com personagens melhor construídos, com mais profundidade. Mas quem liga? Às vezes me sinto apenas folheando um livro barato de auto ajuda na loja, me inspirando um pouco com perguntas ou respostas sobre o que fazer quando não se tem nenhum problema sério na vida.
+E do lado da nobreza, nem precisava se esforçar muito. O casamento sem interesse já era algo inconcebível na época em que o filme se passa, e se torna emocionante esse embate moral, seja com os pais ou com o próprio príncipe.
 
-Infelizmente as falas nunca escondem o fato que a estrutura do filme é confusa. Em determinado momento vemos Owen Wilson com problemas com seu cartão de crédito, em vários encontros com mulheres diferentes. Em outro momento ele está na cama com a âncora do telejornal, mesmo tendo se apaixonado pela madastra do amigo. Ao mesmo tempo, Galifianakis faz o revoltadinho clássico (e problemático, uma marca do autor) que faz as pazes com o falecido pai enquanto vai se acostumando em como é ser "funcional" (o que inclui voltar a comer carne).
-
-"Para o Que Der e Vier" se vende como muitas coisas mas é superficial demais em todas elas. Nunca passa de uma folheada inspirada na sessão de auto ajuda de uma livraria. Boas risadas, mas nem lembro mais em quais livros eu dei uma olhada. Procure pelas capas menos vistosas.
+Filmado com calma, com uma trilha sonora serena e uma fotografia que transforma os poucos recursos da trama em castelos imortais e um baile rebuscado, Para Sempre Cinderela comprova que nem sempre recontar uma história é algo repetitivo ou enfadonho. É necessário uma nova época para enxergarmos os mesmos contos sob uma nova ótica.
 

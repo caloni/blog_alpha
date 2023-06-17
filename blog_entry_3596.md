@@ -1,18 +1,14 @@
 ---
 categories:
 - writting
-date: '2017-03-26'
-link: https://www.imdb.com/title/tt2049543
+date: '2011-12-30'
+link: https://www.imdb.com/title/tt0423294
 tags:
 - movies
-title: Synchronicity
+title: Tá Dando Onda
 ---
 
-Sabe aqueles filmes trash anos 80 que misturam tecnologia, terror e sci-fi? Exemplos são Tron (o original) e Mulher Nota 1000. Synchronicity emula com perfeição esse tipo de gênero. Com um roteiro capenga, atuações sofríveis, clichês de filme noir mal usados e trilha sonora de flashback, o resultado é uma viagem pelo mundo dos filme complicados apenas pelo gosto da complicação.
+O teste da nova televisão e novo tocador de Blu-Ray do quarto foi com essa primorosa animação. A história gira em torno de Cody Maverick, um pinguim que deseja se tornar um ás do surfe, mesmo sem ter treinado muito, confiando apenas nas mensagens de auto-ajuda de Big Z, uma lenda do esporte que desapareceu misteriosamente durante um campeonato. Para quem deseja experimentar as diversas nuances de sua TV esse é um ótimo filme, pois além de ser uma animação e contar com contornos precisos e movimentos "realistas", ainda possui inúmeras tonalidades de cores e de luzes, pois a história se passa não apenas na praia, mas na floresta, durante a noite fria e o dia ensolarado ou nublado. Filmado com um tom documental, existem cenas que frequentemente voltam no tempo e que possuem o efeito de vídeo envelhecido cheio de ruídos.
 
-Iniciando com a premissa de uma equipe formada por um jovem gênio cientista, seu melhor amigo e um colega meio retardado meio brilhante, a construção de uma máquina no tempo em um mundo futurista e "dark" é visto como uma coisa banal, um passatempo de startup que vale alguns milhões de urânio enriquecido e alguns minutos de tempo com um bilionário investidor que está tramando algo (seja lá o que for), e para isso usa uma garota gostosa como isca para nosso cientista brilhante que ela, depois de fazer várias anotações vazias no verso de bolachas de chope (minha preferida é "o tempo é nossa única moeda verdadeira") compara o garoto bonitão com o cientista Nicholas Tesla.
-
-O mais impressionante de tudo é que o rapaz cai na isca, e o que era para ser uma descoberta revolucionária da ciência vira uma caçada pela sobrevivência do herói, com o detalhe que ele agora precisa terminar sua história junto da garota que ama. Somos levados, então, a acompanhar duas versões do herói em ação: o que voltou no tempo uma semana e a versão que irá voltar. O passatempo vai se tornando enfadonho conforme percebemos que não há muito em jogo, e o único motivo por trás do roteiro do diretor Jacob Gentry e Alex Orr é criar quebra-cabeças que vão sendo desmontados pela plateia a cada novo momento revisitado.
-
-Você poderia dizer que pelo menos se trata de uma história factível dentro do universo de viagem no tempo. Eu responderia que se você insere universos paralelos em alguma coisa você não precisa de nenhuma regra anterior. E assim como o vampiro da saga Crepúsculo, qualquer regra serve para se encaixar em viagem no tempo.
+A dublagem nacional ajuda muito a contar a história, que não é original e possui um mal ritmo, mas que acaba agradando pelo tom irreverente com que é contada. Personagens como João Frango acabam sendo um show à parte, e o filme acertadamente dedica mais minutos para contar suas histórias periféricas.
 

@@ -1,28 +1,87 @@
 ---
 categories:
-- writting
-date: '2011-11-17'
-link: https://www.imdb.com/title/tt1671496
-tags:
-- movies
-title: Se Não Nós, Quem?
+- coding
+date: '2008-03-10'
+title: Sed, Grep e afins
 ---
 
-Na primeira cena do filme, vemos um gato comendo um filhote que põe o ninho muito baixo. Logo depois, um menino tenta esconder o gato. Na visão de seu pai, o gato é o judeu do mundo animal, e deve ser eliminado sem dó.
+Esse artigo é resultado de eu ter me matado para conseguir encontrar a forma correta de usar o aplicativo sed para fazer uma filtragem simples nos resultados de uma listagem de arquivos.
 
-O Cinema Alemão mais uma vez bebe dessa fonte inesgotável de ideias que foi o grande trauma da sociedade do século XX: o genocídio do povo judeu através de uma ideologia fanática que tentou restaurar a economia da Alemanha na pós-Primeira Grande Guerra. Perdidos estavam os dessa geração, mas mais ainda ficaram os filhos do Terceiro Reich, um evento devastador para o mundo, e mais ainda para o povo alemão, que teve que conviver com a culpa eterna de seus imperdoáveis atos. Sim, pois, depois de subjugados pelo mundo, quais ideias floresceriam das mentes de promissores escritores que viram pilhas de livros de filosofia sendo queimados aos montes, ou que tiveram seus pais participantes desse processo fanático que levou seu povo ao precipício moral? 
+Primeiramente, eu gostaria de expressar minha total surpresa ao não conseguir encontrar um guia simples e confiável de uso dessas ferramentas na web. Existem três teorias: ou eu não sei usar as palavras mágicas certas no Google, ou a indexação das páginas realmente importantes sobre o assunto não funcionam com o Google, ou de fato não existe documentação fácil sobre o tema.
 
-É essa questão que "Se Não Nós, Quem?" tenta responder através da história de Bernward Vesper (Diehl), filho de um escritor nazista que busca abrir sua própria editora, mas tem que conviver com as memórias do pai e de seu livro que enaltecia as ideias de Hitler. Com transições elegantes, que vão da batida de uma música à de uma porta, e passa por rimas visuais elegantes, sobretudo no figurino do elenco que passa pela transformação de duas décadas, o filme traça um paralelo entre os principais acontecimentos do mundo (sobretudo os EUA), que vemos através de documentários e filmagens da época, e a história de Vesper e sua companheira de luta e afetiva Gudrun Ensslin (Lauzemis), que viria a ser um dos membros fundadores da Fração do Exército Vermelho, uma organização guerrilheira alemã de extrema esquerda.
+Como esta é uma exceção em anos de "googadas", eu fico com a terceira opção.
 
-Como se pode ver, o filme brinca entre a realidade e a ficção porque de fato conta a história de personagens históricos de uma Alemanha ainda dizimada e que busca de todas as formas sua reconstrução, mas que, carente de escritores e ideias, acaba sendo levada pela corrente de revoluções do novo mundo.
+Existem algumas ferramentas que já salvaram minha vida uma dúzia de vezes e devo admitir que são tão poderosas e flexíveis quanto difíceis de usar:
 
-No filme, pequenos detalhes como a relação da mãe de Vesper com suas serviçais representa uma transição social que é devidamente caracterizada em seus pormenores conforme os anos passam. Contudo, o mesmo não ocorre de maneira evidenciada com seus personagens, que parecem andar em círculos enquanto o mundo se transforma rapidamente. A própria ideia defendida com persistência (e até teimosia) por Bernward em publicar uma reedição do livro de seu pai começa a se transformar de repugnante para anacrônica, e o passar dos anos é responsável por boa parte das mudanças que vemos na tela.
+ - Grep. Use esta se quiser fazer uma busca, qualquer busca, em um arquivo, um conjunto de arquivos ou uma enxurrada de caracteres do prompt de comando.
+ - Sed. Use esta se quiser processar a entrada de um arquivo, um conjunto de arquivos ou uma enxurrada de caracteres do prompt de comando.
+ - Sort. Use esta se quiser ordenar qualquer coisa da entrada padrão (inclusive arquivos, conjunto de arquivos...).
 
-Porém, independente de seu caráter histórico, o filme parece esquecer o desenvolvimento de seus personagens, que são meramente representados por falas mecânicas que determinam suas ações (igualmente mecânicas), o que termina por enfraquecer a narrativa principal, ainda que todo o resto esteja pincelado pela direção de arte de maneira convincentemente competente.
+Essas ferramentas são nativas do ambiente Linux, mas podem ser instaladas no Windows através do Cygwin, do Mingw ou nativamente através das ferramentas GnuWin32.
 
-Maior prova disso é o envelhecimento de Bernward e Ensslin, que nunca é convincente. Não por culpa da maquiagem falha (desculpável), mas pela própria cronologia de seus personagens, que nunca parecem sentir o peso das mudanças nas ideias em sua volta.
+O que eu queria era processar a saída de um programa de forma que eu tivesse a lista de todas as extensões dos arquivos. Por exemplo, para a seguinte entrada:
 
-Portanto, quando vemos um Bernward enlouquecido, ou uma Ensslin determinada a agir, ambos soam forçados, pois não possuem explicação narrativa o suficiente para que expliquem ao espectador suas reais motivações.
+    c:\path\arquivo1.cpp
+    c:\path\arquivo2.h
+    c:\arquivo3.hpp
+    c:\path\path2\arquivo4.cpp
 
-De certa forma, o filme cumpre o que se propõe ao desenvolver uma estrutura irregular que reflete na mesma falta de perspectiva daquelas pessoas que viveram uma época conturbada na história de seu país. Infelizmente, a mesma estrutura falha não cumpre a ambição de contar de fato a história dessas pessoas, o que torna o filme tão difuso quanto o que de fato ocorreu nas décadas passadas.
+Eu gostaria de uma saída no seguinte formato:
+
+    .cpp
+    .h
+    .hpp
+
+Basicamente é isso.
+
+Para filtrar o path do arquivo, e ao mesmo tempo retirar seu nome, podemos usar o seguinte comando (fora outras trilhões de variantes):
+
+    programa | sed -e "s/^.*\\//" -e "s/.*\.\(.*\)/\1/"
+
+Após esse processamento, a saída é um monte de extensões vindas de um monte de arquivos:
+
+    cpp
+    h
+    cpp
+    h
+    c
+    h
+    cpp
+    h
+    mak
+    vcproj
+    h
+    cpp
+    h
+    cpp
+    h
+    cpp
+    h
+    cpp
+    h
+    c
+    h
+    txt
+    c
+    cpp
+    h
+    mak
+    vcproj
+    cpp
+    h
+    ...
+
+Como podemos ver e é óbvio de imaginar, muitas extensões irão se repetir. Para eliminar as repetições e ordenar a saída da saída corretamente, usamos o comando sort:
+
+    programa | sed -e "s/^.*\\//" -e "s/.*\.\(.*\)/\1/" | sort -u
+	
+Os caracteres .*[]^$\ dão problemas se usados sem escape no sed, pois fazem parte dos comandos para procurar expressões regulares. Use-os com o caractere de escape `\`.
+
+Para concatenar comandos no sed, use sempre -e "comando". A ordem de execução dos comandos é a ordem em que eles são inseridos na linha de comando, ou seja, podemos confiar que no segundo comando o primeiro já terá sido executado e assim por diante.
+
+Para fazer o escape das barras do caminho de um arquivo temos que usar o conjunto `\/` (obs.: caminhos em formato Unix). Para evitar esse uso enfadonho podemos substituir o caractere de divisão do comando s colocando-o na frente:
+
+    s/path\/muito\/muito\/muito\/longo.cpp/outropath\/muito\/muito\/longo.cpp/s#/path/muito/muito/muito/longo.cpp#/outropath/muito/muito/longo.cpp#
+
+Para agrupar expressõe, use sempre `\(` e `\)`. É o contrário do uso dos caracteres especiais. Coisas de Unix.
 

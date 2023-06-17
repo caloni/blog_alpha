@@ -1,11 +1,14 @@
 ---
 categories:
 - writting
-date: '2018-03-15'
+date: '2021-05-22'
+link: https://www.imdb.com/title/tt6435350
 tags:
-- beer
-title: Mohave Yucca Witbier
+- animes
+title: Monster Girls (Demi-chan wa kataritai)
 ---
 
-Mais uma Witbier interessante dessa cerejaria artesanal carioca que nasceu entre amigos; em corpo médio é um ótimo começo de noite com comidinhas.
+Já nos primeiros minutos a série perde totalmente a graça. Seus personagens não possuem personalidade. A história se move pela curiosidade de um professor que gostaria de entrar em contato com semi-humanos, criaturas lendárias que existem nessa série. Não só existem como quatro delas estudam na mesma escola. E todas garotas. Que sorte dele, não?
+
+A brincadeira é entender se isso é alguma dessas metáforas como X-Men ou derivados, mas a narrativa é morna demais até para isso. Assim como Hinamatsuri, que tem garotas com poder de telecinese que não usam para nada que preste, essa série tem monstros para fingir ser algo diferentão.
 

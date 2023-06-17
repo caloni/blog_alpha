@@ -1,17 +1,12 @@
 ---
 categories:
 - writting
-date: '2021-10-30T19:30:43-03:00'
+date: '2020-12-06'
+link: https://www.imdb.com/title/tt0112445
 tags:
-- cinemaqui
-- mostra
 - movies
-title: O Atlas dos Pássaros
+title: O Balão Branco
 ---
 
-O Atlas dos Pássaros é uma incursão corporativa e familiar tensa do diretor iugoslavo (hoje a Eslovênia) Olmo Omerzu. Tudo começa com um pequeno detalhe na rotina do empresário Ivo Rona e CEO de uma companhia familiar, quando ele descobre que sumiu uma quantidade vultosa de dinheiro dos caixas da companhia. Esta é a maior crise nos negócios da empresa em três décadas e Omerzu filma tudo com uma cena puxando a outra. Não há pausas na tensão, mesmo quando Ivo Rona sofre um infarto e seus filhos passam a ser o foco em cena. Esta é apenas uma pausa para o café.
-
-A história escrita por Omerzu e por Petr Pýcha é crível a ponto de pararmos para pensar se não se trata de uma adaptação de uma notícia do jornal de economia da Eslovênia. E a coisa se desdobra em cima de um personagem cuja obstinada dureza carrega um piano nas costas (a companhia) e não quer nem aliviar a carga nem compartilhá-la com seus três filhos. Ele não suporta a administração de seus filhos homens e gostaria que sua filha mulher assumisse por ser a mais centrada e razoável. Porém, ela acabou de ter seu neto. E simples assim todo o plano de longa data de três gerações sai dos trilhos quando um caso clichê do magnata e sua "secretária" (aqui contadora) coloca não sua vida pessoal, mas a profissional a perder.
-
-O tom de O Atlas dos Pássaros é bem noveleiro e o roteiro brinca com uma piada interna a respeito do dono da empresa cadastrar nos contatos do celular seus casos extraconjugais com nomes de pássaros. O filme dá voz aos pássaros das paisagens por onde se passam as cenas, o que vira mais uma distração do que qualquer coisa. No fundo o filme gostaria muito, aproveitando a moda, de fazer alguma crítica social a respeito de ricos e pobres e como todos irão morrer cedo ou tarde e se trata sobre o percurso, e não sobre o sucesso ou fracasso da empreitada, mas a incursão dos pássaros é tímida demais frente à trama principal.
+As caras que essa menina faz compensam qualquer momento chato do filme. Ela chora como se não houvesse amanhã, fica irritada, desesperançosa. Seu jeito de juntar as mãos, sua maneira insistente de pedir. Ela fica receosa e nós ficamos receosos por tabela. Será que alguém vai ouvi-la? Todos escutam, mas ninguém de fato ouve. Fica esse suspense. A câmera de estreia do pupilo de Kiarostami, o diretor Jafar Panahi, não perde a metrópole em volta da pequena Razieh. Todos estão atarefados para o feriado de Ano-Novo e ela só quer um peixinho dourado vistoso para a hora da virada, uma tradição na região do Irã. Em vários momentos tememos se ela conseguirá, porque a tensão é muito poderosa nesse tipo de filmagem. Na maioria do tempo vemos o rosto dela ocupando a tela ou um adulto atarefado, alheio ao seu drama. E não estamos todos alheios aos dramas dos que passam do nosso lado? Um soldado senta-se para conversar brevemente com ela. Ela aprendeu a não falar com estranhos, mas ele vem de uma cidade pequena onde todos se conhecem e não existem estranhos. E é isso o que está sendo discutido nas entrelinhas. Essa alienação da cidade grande. Ninguém confia em ninguém. Nós como espectadores enxergamos aquela pequena menina como uma vítima da cidade e seus perigos. Ela carrega uma nota graúda consigo e isso é suficiente para ela correr grande risco. Que filme tenso, cômico, imperdível. Nenhum momento é desperdiçado. No último minuto surge o garoto do começo. O que vende balões. Ele já vendeu quase todos. Só falta o branco do título do filme. Quando a menina e seu irmão finalmente conseguem resolver o impasse ele vira paisagem. É o novo estranho. E ninguém liga para estranhos em uma cidade grande.
 

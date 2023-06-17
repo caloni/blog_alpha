@@ -1,24 +1,24 @@
 ---
 categories:
 - writting
-date: '2019-10-23'
-link: https://www.imdb.com/title/tt8236336
+date: '2018-01-12'
+link: https://www.imdb.com/title/tt0120815
 tags:
-- cinemaqui
-- mostra
 - movies
-title: O Relatório
+title: O Resgate do Soldado Ryan
 ---
 
-Nas últimas 72 horas este é meu décimo-quinto filme e texto da Mostra de São Paulo, mas O Relatório não me cansou em nenhum momento pela história que quer contar. O que me desanimou profundamente foi constatar que estava assistindo a um documentário político em forma de ficção com uma das escalações mais inúteis que tenho memória.
+Aquele filme que tem tudo pra dar errado, mas que por uma série de milagres se torna uma obra de arte. A farofa de Steven Spielberg aliada a um roteiro marcado por momentos que sintetizam o sentimento contraditório da guerra pelos olhos de seus soldados. E uma frase que marca o cinema de guerra: "cada pessoa que eu mato parece me levar cada vez mais longe de casa".
 
-Seu protagonista é interpretado por Adam Driver porque ele é um astro em ascenção (mais ainda depois que se tornou vilão em Star Wars), mas não porque este é um papel para ele. Sua atuação é inexistente, mas não é sua culpa. Driver não foi feito para fazer um funcionário público com motivações de investigar milhares de horas de depoimentos documentados pela CIA para descobrir por que eles apagaram 20 horas de vídeos de seus arquivos. Este filme não é Snowden, e Scott Z. Burns não é Oliver Stone.
+Após o dia D, os americanos precisam ganhar terreno, mas um gosto amargo na boca de seus líderes permanece: milhares de jovens mortos e famílias que nunca mais serão as mesmas. Na esperança de salvar o quarto filho enviado para se sacrificar, a missão inusitada de resgatar um soldado de infantaria em meio ao caos surge como apenas mais uma insanidade das inúmeras que aparecem em tempos sombrios.
 
-Após nos dizer que esta história é baseada em depoimentos e registros da CIA, o filme nos introduz com um Daniel Jones (Drive) aparentemente sendo incriminado por desviar documentos da agência de investigação americana após ter se dedicado por ininterruptos cinco anos de pesquisa de um escândalo envolvendo torturas realizadas após o ataque terrorista às torres gêmeas. O filme irá voltar para este mesmo ponto em seu terceiro ato, mas com uma desonestidade incrível refilmado em outro tom, como se não tivéssemos percebido a mudança. E esta aparentemente é a grande reviravolta do projeto, fora o fato de nos créditos finais sabermos também que o filme inteiro é baseado em um artigo de jornal.
+O apelo aqui é histórico e pomposo: recompensar a nação pelas carnificinas anteriores. O símbolo é uma carta escrita de próprio punho de Abraham Lincoln se desculpando pela perda dos filhos de uma mãe patriota durante a guerra de secessão. O objetivo é evitar a todo custo perderem-se os valores americanos de vida e liberdade. Comovente para americanos e sensível para o resto da humanidade.
 
-A primeira meia-hora de O Relatório pode ir de tedioso a insuportável, dependendo da paciência do espectador. Acompanhamos o início dessa investigação de Dan Jones e seu desenvolvimento ao lado da senadora que o propôs (Annette Bening, desperdiçada). Vamos aos poucos sendo apresentados aos outros personagens de ambos os lados desta história e para o outro lado é escalado Michael C. Hall (da série Dexter) como uma cara conhecida para lembrarmos qual o outro lado, que irá dizer alguns diálogos inúteis em um personagem que sequer conseguiremos nos lembrar a cada nova cena em que ele aparece.
+Este é o quarto Ryan que pode ser perdido. O nome Ryan vira sinônimo de soldado anônimo. Ele é um jovem que deverá ser salvo por uma tropa liderada por um capitão que era professor de colégio. Imagine você agora essa metáfora. Não é a última. Metáforas são úteis durante todo o percurso, onde até um pai francês tentando salvar sua filha caçula, além de ser uma cena clichê, pode conter uma mensagem poderosa.
 
-Porém, após essa meia-hora e a descoberta de um elenco inusitado (para dizer o mínimo) a trama começa a engrenar. Nós não entendemos praticamente nada do que aquelas pessoas estão falando, mas a própria dinâmica que o filme introduz se torna ferramenta importante para aos poucos conseguirmos interpretar o resto do filme. E aí a história fica interessante. Não instigante, nem empolgante, pois não há tensão alguma por não sermos apresentados a nenhum protagonista com conflito construído. Adam Drive só está aí para ser uma das caras conhecidas e aumentar ou diminuir o tom de voz dependendo do estado das investigações, mas até o que ele fala é intraduzível. Apenas seus esforços é que são compreendidos e os obstáculos que ele encontra no percurso. Que é o suficiente para nos interessarmos.
+Esta tropa é formada pelos atores perfeitos para o papel. Não é possível falar muito sobre eles no filme da mesma forma que em uma guerra relâmpago mal conhecemos nossos colegas exceto pelas ações de cada novo dia. A morte iminente transforma cada um deles em símbolo de resiliência, cada um de uma maneira peculiar. Suas faces dizem muito sobre cada um. Suas expressões e trejeitos explicam suas ações. E por mais perfeita que se saia esta tropa, há um ar de melancolia os cercando. Parece que vem dos prédios em ruínas.
 
-O Relatório pretende ser um filme de investigação política empolgante como Snowden e tantos outros que o precederam. Ele se baseia em fatos documentados da história recente americana e possui um pano de fundo apelativo o suficiente para ser relevante. Um fã da série House of Cards daria por satisfeito em 80% do filme, pois ele lida com detalhes legais e conflito político interno. Já um fã da série 24 Horas provavelmente já desiste na primeira meia-hora. Esse começo provavelmente é o verdadeiro muro que separa leigos dos aficionados pela Casa Branca.
+Há cenas de batalha em planos-sequência, câmera na mão, edição perfeccionista aliada a uma primorosa edição de som. Tudo isso compõe o deleite técnico da ação, que é memorável per se e ganha aliados dos fãs de filmes de guerra realistas e viscerais. Parece não haver o que reclamar da produção deste filme. Apenas o que aclamar.
+
+Contudo, as cenas que dialogam com a alma são as mais simples, com a câmera parada, estática, a respirar e refletir o momento. É o rapaz traduzindo a letra de uma música cantada por Edith Piaf saindo de um gramofone colocado em cima de um dos poucos muros de pé em uma escadaria imponente. Lá estão os meninos a observar. A letra fala de amor. O mesmo amor que é intraduzível quando o caos do ódio toma as rédeas do poder. Uma síntese política e idealista em uma única cena. Eis porque os milagres desse filme são sobrenaturais.
 

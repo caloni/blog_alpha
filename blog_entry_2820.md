@@ -1,20 +1,26 @@
 ---
 categories:
 - writting
-date: '2014-11-28'
-link: https://www.imdb.com/title/tt1259521
+date: '2011-06-26'
+link: https://www.imdb.com/title/tt1305806
 tags:
 - movies
-title: O Segredo da Cabana
+title: O Segredo dos Seus Olhos
 ---
 
-Há uma inversão de expectativas interessantíssima em O Segredo da Cabana, primeiro longa de Drew Goddard e escrito em parceria com Joss Whedon (sim, o cara dos Vingadores). Desde o começo (e por isso não conta como spoiler) enxergamos a velha história de terror e suspense dos jovens que vão passar o fim-de-semana em uma cabana na floresta como um ritual minuciosamente planejado por apáticos funcionários de uma organização aparentemente presente no mundo todo. O motivo? O mesmo que existe nesses filmes: aplacar a sede de vingança de espíritos, ou a força sobrenatural de zumbis, ou uma maldição fantasmagórica. Simplesmente escolha a sua.
+Juan José Campanella ([O Filho da Noiva], Clube da Lua) mostra como um roteiro bem escrito e uma direção impecável conseguem apresentar duas tramas entrecortadas de uma maneira tão fluida e transparente que, no fundo, parece que estamos assistindo a uma única história. Como se fosse pouco, a narrativa se desenvolve alternando um presente e um passado separados por mais de 25 anos. Em uma obra com tantas virtudes, acompanhar a evolução do personagem de Ricardo Darín (Un Cuento Chino) através desses dois momentos em sua vida é mais um bônus nesse filme que merece ser assistido por muitas e muitas vezes.
 
-O interessante da inversão que comentava é: como espectadores de filmes de terror, geralmente estamos acostumados com o desenrolar da mesma história contada milhares de vezes, e sequer prestamos atenção aos personagens que seguramente vão começar a morrer em questão de minutos. Aqui, não: esses jovens não são idiotas (como na maioria desses filmes) e não estão pedindo para serem mortos. Suas personalidades são alteradas quimicamente, os tornando vítimas antes mesmo de chegarem na famigerada cabana. Nesse sentido eles se tornam heróis que precisam desvendar a trama em que foram involuntariamente envolvidos antes de serem mortos por uma organização psicopata.
+Desde o início é possível perceber uma atração sutil, apenas entre gestos, olhares e diálogos enviesados, entre Benjamín Esposito (Darín), um conselheiro legal de origem humilde, e sua recém-chegada superiora, Irene Menéndez Hastings (Villamil). Vinda de família rica e superior em vários quesitos em comparação com o humilde Esposito, a delicadeza inata de apresentar posições invertidas em uma sociedade na época ainda patriarcal favorece nossa identificação com o drama de Esposito, que, assim como persegue seu suspeito número um do seu agora romance, e, como se soubesse o que o espera em sua vida, parece perseguir um outro futuro para si mesmo a todo momento em que a vê.
 
-Um dos personagens tem essa passagem filosófica onde analisa nos primeiros minutos do filme que nossa sociedade, ao escrever toda sua vida na internet através de blogues, tweets, postagens no Facebook e fotos, está cavando sua tumba definitivamente. Não estamos mais vivendo, apenas acompanhando nosso último processo de definhamento. O que se torna irônico justamente ao relembrarmos de tantos filmes de terror que serve apenas como uma escapatória da vida real por meio de uma história sempre patética onde há sangue para nossa diversão. E, vejam só, isso lembra exatamente os vilões supremos de O Segredo da Cabana!
+De acordo com o IMDB, o filme foi produzido com a mesma proporção de tela do antigo Cinemascope (2.35:1), e Campanella aproveita cada milímetro que pode (nem que seja a fresta da porta de um elevador refletida no espelho) para trazer à tona não apenas os personagens, mas aspectos marginais da trama que servirão, em outros momentos, para informações relevantes da trama. Uma exceção a essa conduta metódica nas cenas pode ser vista no que deve ser uma das sequências sem cortes mais geniais que o Cinema produziu, que se inicia em um estádio lotado durante uma partida de futebol e que, impecavelmente, consegue se aproveitar dessa largura tela para exibir toda a ação que lá transcorre. Se você é aficionado por técnicas de filmagem, apenas essa sequência serviria de incentivo para assistir ao filme inteiro.
 
-Os efeitos digitais são bem ruinzinhos, e uma coisa ou outra na montagem o tenta tornar um trash involuntário. Porém, o conteúdo da narrativa compensa esses deslizes, pois nunca se torna enfadonho, sempre desdobrando suas possibilidades e se auto-analisando com metáforas divertidas e que fazem uma justa homenagem aos verdadeiros trashes, sendo a parte em que um velho "colaborador" tenta dizer suas falas ritualísticas enquanto é zombado pelos funcionários, que o escutam pelo viva-voz do telefone.
+Ainda no campo técnico, a fotografia belíssima do brasileiro Félix Monti consegue traduzir eficientemente a austeridade do escritório de advocacia e transpor seu clima de formalidade para a tela. A trilha sonora, por sua vez, se insere delicadamente nas belíssimas composições de quadro que, por denotarem muitas vezes ação e reflexão ao mesmo tempo, não conseguiriam atingir o tom de maturidade necessário caso uma música do próprio filme atrapalhasse a concentração do protagonista (e, claro, do próprio espectador).
 
-Apenas pecando em seu final por levar a história até o seu extremo sem necessidade (não esperávamos por isso), talvez por tentar forçar uma espécie final feliz onde ele não cabe, pelo menos possui a cereja do bolo orquestrada por uma Sigouney Weaver estranhamente gorda, mas, por ser a heroína definitiva da "quadrilogia" Alien, significativa em seu simbolismo final.
+Além da direção e do roteiro, é o próprio Campanella que faz a montagem, e nela consegue fundir permanentemente presente e passado, de uma maneira muitas vezes intrigante. Em alguns momentos, a história do homicida se funde com a do próprio Esposito, como quando, em um acesso de raiva, atinge acidentalmente sua amada. Criando esses reflexos durante todo o tempo (note como Esposito faz uma cantada no início do filme da mesma forma como seu antigo amigo), a sensação que temos é a de existirem vários detalhes que se encaixam no filme como um todo.
+
+E por falar em pista-recompensa, por que não falar de uma muito mais sutil, que não me atrevo a dizer aqui, mas que se relaciona diretamente com parte do desfecho da história, 25 anos depois?
+
+O fato é que O Segredo dos Seus Olhos contém mais segredos em sua composição do que uma resenha sobre ele poderia revelar. Felizmente, sua tecnicidade não afeta sua compreensão e, portanto, nos mesmos moldes de O Poderoso Chefão, é possível, sim, acompanhar a trajetória de Esposito como um "simples" espectador e, ao mesmo tempo, ter uma mini-aula sobre como é fazer Cinema.
+
+[O Filho da Noiva]: {{< relref "o-filho-da-noiva" >}}
 

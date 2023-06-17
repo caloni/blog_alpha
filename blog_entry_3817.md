@@ -1,14 +1,16 @@
 ---
 categories:
 - writting
-date: '2014-05-10'
-link: https://www.imdb.com/title/tt0068555
+date: '2010-04-30'
+link: https://www.imdb.com/title/tt1178663
 tags:
 - movies
-title: Tudo o Que Você Sempre Quis Saber Sobre Sexo e Tinha Medo de Perguntar
+title: Tudo Pode Dar Certo
 ---
 
-Woody Allen até quando é medíocre acaba se saindo melhor que a média. Nos anos 70 suas comédias eram mais apelativas e populares, mas nem por isso não deixavam de conter alguma visão crítica sobre nossa realidade. Reinventando o conteúdo do famoso livro homônimo de David Reuben, Allen escreve e dirige uma série de curtas que dissertam, cada um ao seu jeito, sobre afrodisíacos, perversões, pesquisas científicas e travestis. Protagonizando a maior parte das histórias, minhas duas preferidas com certeza são a visão do sexo do ponto de vista do organismo como um sistema setorizado e a paixão de um médico por uma cabra. No entanto, nenhuma das duas esquetes rivaliza com a visão de um imenso seio andando solto por aí, matando pessoas com nata e leite.
+A imprevisibilidade e a forma como tudo o que acontece em torno da história é a síntese do próprio filme, onde o caos (e o nosso conhecimento sobre) bate de frente com nossas crenças. Obviamente, por se tratar de um filme de Woody Allen, tudo isso será devidamente criticado através do seu protagonista com crises existenciais pós-divórcio. Uma prova de que ele é o sócia do diretor é que, apesar de refinado intelectualmente, o protagonista sente os mesmos sentimentos humanos, mas os expressa de maneira mais sutil, o que ao mesmo tempo torna-os mais evidentes ao espectador.
 
-Infelizmente a comédia aqui está em alta com conteúdo em baixa. Não há muito o que dizer das situações absurdas do filme, nem o que seus personagens fazem com elas. É um riso fácil, ingênuo e bobo sobre o sexo. Esquecível, mas, ainda assim, lembráveis mesmo 40 anos depois (talvez pelo longo título?).
+Allen, como de costume, fez o filme para a sala de cinema, e a quebra da quarta parede, apesar de arriscada, funciona bem. Aliado a isso a câmera subjetiva de fato participa em muitos momentos do ponto de vista do espectador, como na cena em que, desejoso de falar a sós, o protagonista caminha em direção a outro cômodo. Note como a câmera anda como se estivesse acompanhando-o.
+
+O diretor continua ainda obcecado pelo tema caos e sorte, mas em uma perspectiva cômica; diferente do dramático, tenso e excelente Match Point. Diferente deste, porém, sua crítica ácida às superstições da moda (que Allen, obviamente, coloca no mesmo patamar das crendices cristãs) é a parte mais divertida do longa.
 

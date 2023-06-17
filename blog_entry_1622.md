@@ -1,21 +1,17 @@
 ---
 categories:
 - writting
-date: '2013-11-15'
-link: https://www.imdb.com/title/tt0264472
+date: '2011-11-01'
 tags:
 - movies
-title: Fora de Controle
+title: Fora do Figurino
 ---
 
-Um drama moral tão bem construído não deveria ser conduzido de forma tão insegura como é feito aqui. A direção de Roger Michell ([Um Lugar Chamado Notting Hill], [Uma Manhã Gloriosa]) combina uma atmosfera de thriller policial com filme de ação e peca justamente ao não nos aproximar dos seus dois personagens quando essa abordagem seria merecida ou necessária.
+Às vezes um filme pode ajudar a consolidar um conhecimento que fica na cabeça das pessoas, flutuando, inconsciente, mas que nem nos damos conta de que ele existe. Por exemplo: quantas vezes ao comprar uma peça de roupa (ou calçado) não nos damos conta que o tamanho anteriormente escolhido já não serve mais? Esse pequeno detalhe, que parece tão corriqueiro, no fundo é resultado de uma falta de padronização nas medidas do vestuário do brasileiro, e à adaptação (errada) do uso de medidas feitas com base no corpo de pessoas completamente diferentes, como um europeu ou um norte-americano.
 
-Em vez disso, muitos closes com uma câmera na mão e muitos cortes sem sentido nos dão a sensação de movimento alucinado em uma história que já cativaria pelo papel de Samuel L. Jackson, que faz um pai de família separado que está a um fio de voltar a ser alcoólatra quando um acidente de carro com um advogado (Ben Afleck) o faz perder a chance de se redimir. Em essência, esses dois homens procuram fazer o que acham correto naquele momento para salvarem suas vidas. O que o filme propõe é uma reflexão nesse "correto" para Ben e um aprofundamento das razões (e ações) de Jackson.
+Utilizando representantes de todas as esferas relacionadas com este problema, como costureiros, estilistas, políticos e os próprios usuários, o documentário de Paulo Pélico busca compreender a raiz desse problema tão conformado em nossas cabeças como algo imutável. A maneira com que a narrativa é feita faz com que aos poucos nos identifiquemos e relacionemos as mesmas dificuldades das pessoas que testemunham com nossas próprias situações vividas, o que torna a compreensão do problema muito mais simples (identificação primeiro, problematização depois).
 
-Como as definições morais ficam em um dégradé que vai se formando a cada novo passo de um dos dois protagonistas (mais Jackson, menos Ben), não existe a definição clássica do bem contra o mal, mas a dos antagonistas ocasionais. Tudo é caótico e dá errado para alguém, certo para outro. E vice-versa. O ritmo aos poucos começa a entediar. Mais um tropeço, dessa vez do roteiro do estreante Chap Taylor e do veterano Michael Tolking (dos medíocres Impacto Profundo e Nine), que transforma esse clima de acaso (que é positivo) em uma rota certa para um final mais ou menos previsível, não nos dando fôlego ou espaço para conjecturar o que poderia acontecer.
+O uso de uma edição que mantenha um ritmo tão eloquente quanto lógico em suas argumentações, sem nunca tornar o tema monótono, mas sim didático (sem soar burocrático) o longa sempre se atenta a explicar o básico sobre o tema e o que pode ser feito a partir do problema equacionado. O uso de atores conhecidos, além de ter apelo da influência que geram nas pessoas, também servem como exemplo de consumidores de outros mercados ao redor do globo, e a triste constatação que, se existe um país com dificuldades de adaptar a produção de vestuários à realidade de seu povo, é o nosso.
 
-Mesmo assim, há um momento de "redenção" para o espectador em um novo reencontro. Infelizmente, esse passa tão rápido para o final clichê que mal temos tempo para saboreá-lo. Voltamos para o lugar-comum onde acidentes acontecem, mas cujo destino já está escrito em páginas não tão inspiradas.
-
-[Um Lugar Chamado Notting Hill]: {{< relref "um-lugar-chamado-notting-hill" >}}
-[Uma Manhã Gloriosa]: {{< relref "uma-manha-gloriosa" >}}
+Pior ainda, conclui que a solução está muito mais distante do que poderíamos imaginar, fruto dos processos "burocratizantes", que assim como para a infraestrutura, engessa cada vez mais o nosso progresso como nação. Apesar de não parecer o objetivo, é criado um paralelo entre o "jeitinho brasileiro" para ajustar as roupas recém-adquiridas (a maior parte das roupas entregues aos costureiros é nova) com o "jeitinho político" de sempre empurrar pautas de difícil resolução com a barriga; tamanho GG.
 

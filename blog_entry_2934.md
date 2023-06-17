@@ -1,21 +1,14 @@
 ---
 categories:
 - writting
-date: '2012-09-03'
-link: https://www.imdb.com/title/tt1764651
+date: '2012-07-20'
+link: https://www.imdb.com/title/tt0087755
 tags:
 - movies
-title: Os Mercenários 2
+title: Os Muppets Conquistam Nova York
 ---
 
-Mercenários 2 já começa sua história querendo arrebentar o maior número de muros, cabeças e corpos humanos por centímetro cinematográfico quadrado. O som das armas parece verdadeiro, ou melhor: parece surreal. Não há nada pode deter o maior arrebatamento de heróis de ação de um passado já distante, mas que é aqui comemorado de uma maneira perigosamente indulgente.
+Para quem viu [o novo trabalho dos Muppets ano passado] deve ter percebido que a magia das trucagens dos anos 80 para fazer com que os bonecos de pano parecessem reais havia dado lugar para o uso sem imaginação da computação gráfica. É uma pena. Porém, ainda existe como colírio os musicais antigos, e da safra esse é o que melhor consegue transmitir essa magia com números protagonizados praticamente pelos bonecos! De brinde, é curioso notar toda a criatividade que Frank Oz aplica para conseguir tornar os personagens de Jim Henson tão carismáticos e multidimensionais quanto qualquer ser humano de carne e osso.
 
-A história começa com um resgate genérico de um bilionário asiático, mas se transforma assim que o agente Churh (Bruce Willis) faz uma ligação para Barney Ross (Stallone) para um acerto de contas em troca da segurança de uma pequena caixa que contém o mapa de uma mina de toneladas de plutônio que, se cair nas mãos erradas, pode acabar explodindo com o mundo centenas de vezes (como se fosse necessário plutônio para explodir pessoas pelos ares).
-
-O que vimos é uma sucessão de mais do mesmo de [Mercenários], só que melhor orquestrado. Há sequências de ação realmente eficientes, como a introdutória. É uma pena que se torna algo blasé justamente quando o filme resolve homenagear aqueles ícones com sequências onde pequenos mitos guerreiam e lutam juntos. De qualquer forma, fica o gostinho de assistir novamente aos clássicos onde essa galera fazia o que havia de melhor e com o bônus de um roteiro melhor qualificado (algumas vezes).
-
-Podem falar o que quiser do novo filme do Stallone, mas não podem negar o óbvio: a aposta de juntar o maior número possível de peças de musel de filmes de ação de décadas passadas parece estar ganha. Quer dizer, pelo menos até [Mercenários 3].
-
-[Mercenários]: {{< relref "os-mercenarios" >}}
-[Mercenários 3]: {{< relref "mercenarios-3" >}}
+[o novo trabalho dos Muppets ano passado]: {{< relref "muppets-o-filme" >}}
 

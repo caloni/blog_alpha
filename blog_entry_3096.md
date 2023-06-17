@@ -1,12 +1,16 @@
 ---
 categories:
- - writting
-date: '2023-06-15'
+- writting
+date: '2011-11-06'
+link: https://www.imdb.com/title/tt0762125
 tags:
- - food
-title: Pizzaria do Eataly
+- movies
+title: Planeta 51
 ---
 
-Íamos em outro restaurante essa noite, mas ele não estava aberto. Então lembramos que há muito tempo atrás fomos em uma pizzaria no Eataly com um casal de amigos e a comida estava até que boa. Bom, não foi dessa vez. Durante esse tempo eu aprendi a cozinhar massas e a fazer muita própria massa de pizza em casa assistindo canais no YouTube. Posso dizer que mesmo sem muita prática a minha massa é muito mais leve do que da pizzaria de cima. Ela é bem assada, mas sua borda é extremamente massuda. Onde deveria haver apenas ar há um monte de massa. O recheio também não teve nada demais, pedimos uma calabresa e uma com um queijo e molho. A de queijo estava OK, mas a de calabresa já provamos uma melhor perto de casa, pizzaria de Heliópolis, baratinha e bem feita. Ah, sim, tem esse detalhe: os produtos no Eataly são absurdamente caros, tanto por causa da região onde ele fica quanto o público que o frequenta; fora você não sente que o preço é justo. É apenas inflado. Por fim, o atendimento é nível paulistano padrão. Os atendentes distraídos e correndo entre as mesas. É quase um fast food, com a única diferença que levam os pratos para você. A gorjeta também não é nada justa: 15% por esse serviço. Eu preferiria ter dado esse valor para o entregador de pizza e ter comido a pizza baratinha aqui perto de casa. Ou ter feito a própria.
+A grande impressão ao assistir a introdução e o desenvolvimento de Planeta 51 é que, enquanto argumento, alguém lá no fundo pensou que poderia dar certo (talvez Joe Stillman, que aqui assina apenas como escritor, não roteirista). Talvez o fato de ter sido feito por uma produtora ainda sem experiência para a animação e dirigido e co-dirigido por três pessoas sem muito currículo tenha influenciado nos tropeços do desenvolvimento criativo da ideia e no uso funesto de trilhas sonoras batidas em sequências claramente sem merecimento.
 
+A história inverte os papéis que no cinema geralmente servem a nós, humanos, sempre atacados ou visitados por seres de outro planeta. A ideia é o que aconteceria se fossem eles que fossem visitados por um astronauta da NASA, que é exatamente o que acontece (embora sem muito mais explicações a respeito dessa viagem).
+
+Aproveitando o argumento original para expor o protagonista no velho clichê de "eu amo uma garota, mas tenho vergonha de me declarar e por isso ela fica com o cara mais descolado", o roteiro se esquece do argumento com maior potencial criativo e parte para uma narrativa rala que busca apenas contar as aventuras que o astronauta terá que passar para conseguir voltar para seu (agora amado) planeta natal.
 

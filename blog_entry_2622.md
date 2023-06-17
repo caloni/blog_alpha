@@ -1,23 +1,20 @@
 ---
 categories:
 - writting
-date: '2022-10-19T19:09:14-03:00'
+date: '2020-02-06'
+link: https://www.imdb.com/title/tt0058249
 tags:
-- cinemaqui
-- mostra
 - movies
-title: O Deus do Cinema
+title: O Diário de Uma Camareira
 ---
 
-Pela Perspectiva Internacional da Mostra de SP este ano, o japonês está nostálgico e cinéfilo. O Deus do Cinema chega no festival relembrando a indústria que estava nascendo no pós-guerra através de uma ficção inserida na época e recordada em plena pandemia. Feito para fazer chorar, uma vez que a quarta parede se quebra ela vira uma apelação bonitinha e teatral; um filme difícil de desgostar.
+Meu primeiro Luis Buñuel, este maluco surrealista (como deve ser todo surrealista) que abdica da razão para conseguir atingir a emoção freudiana. Com medo de se tornar o tipo mais comum e surrado das teorias do psicanalista, o neurótico, o cineasta escreve errado por linhas apagadas e conta a história de uma camareira deliciosa de Paris e como todos os homens do interior adorariam fazer qualquer coisa com ela.
 
-Seu núcleo é um triângulo amoroso formado na juventude e cujas vidas voltam a se cruzar no tempo presente. Suas vidas se cruzaram em torno do cinema japonês. Terashin, um projecionista, Goh, um assistente de direção e Yoshiko, uma atendente de bar tão simpática quanto Setsuko Hara em Era uma Vez em Tóquio (um dos filmes referenciados no longa). O flashback sobre essas pessoas é charmoso e instigante, pois tem relação direta com a produção cinematográfica.
+A fascinação canina dos homens pelas mulheres no filme chega no nível psicótico, mas o filme é dos anos 60 e, portanto, mais bem comportado do que nós poderíamos esperar hoje em dia de um filme falado em francês. Mas o que ele insinua é senão pesado muito atípico. O sexo é tratado como gostaríamos que fosse tratado se os americanos não tivessem institucionalizado o pudor como patrimônio do cinema ocidental, mas ao mesmo tempo a violência contra a mulher e as crianças atinge um nível alarmante demais até para o mais apaixonado pelos ideais libertinos.
 
-Conversar sobre cinema sempre é um prazer, e assistir a um filme sobre pessoas conversando sobre cinema o prazer é em dobro. Observar os jovens da época dá um quentinho no coração. A paixão juvenil de tentar transformar o velho drama e romance em algo mais fantasioso e introspectivo é ingênuo e revolucionário ao mesmo tempo. Essa é a forma do filme querer voltar no tempo e no estilo, onde novas ideias iriam pavimentar os novos caminhos da arte.
+A violência do crime, mesmo sem ser totalmente explícito, impacta o resto da produção. Após esse momento esperamos por mais lógica, e Buñuel nos entrega justamente o contrário, com personagens que mudam de ideia a todo momento, fugazes em seus valores. Acontecimentos podem ser reinterpretados após o final, e mesmo que o fossem nada muda. O truque de uma história sem pé nem cabeça é iludir o espectador como se ela de fato fizesse sentido.
 
-No entanto, a trama é conduzida pelo consagrado diretor Yôji Yamada com pouca imaginação. Seu roteiro feito em parceria com a escritora Maha Harada começa acompanhando essa família com o avô Goh viciado em apostas e bebida e conduz a explicação movido pelo amor da época em que ele poderia ser um grande diretor, com um roteiro nas mãos que de maneira cômica referencia um dos melhores filmes do centenário Woody Allen, A Rosa Púrpura do Cairo.
+Igreja e Estado ridicularizados juntos. Como deve ser. Mas há tanto nonsense em uma história simples que é como se, alvos de escárnio ou não, não fizesse muita diferença, pois não existem modelos do certo neste filme. Apenas modelos de como a vida pode ser bizarra, mesmo que no melancólico campo.
 
-A história vai ganhando contornos nostálgicos. O amor pelo cinema de Yôji Yamada e Maha Harada não precisa de esforços para conduzir esta experiência pelos bastidores das produções da época. No entanto, o núcleo da história perde a força conforme vamos descobrindo que não há reviravoltas. Tudo o que imaginamos para um final feliz é o que acontece, e não de uma maneira instigante, mas convencional.
-
-O Deus do Cinema soa como trabalho inacabado. O roteiro dentro do filme precisa ser atualizado para os tempos atuais para concorrer à altura em um prêmio literário de prestígio. A sensação é que o roteiro do próprio filme poderia se beneficiar de algumas reedições pós-pandemia. A nostalgia está no ar, mas não como a imaginávamos em 2019.
+Esses movimentos de câmera do cineasta espanhol, desejando ser inovadores, mas terminando por chamar atenção para si, hoje vira uma atração, ainda que na época pudesse ter seu valor. Porém, não durou como Cidadão Kane. E nem deveria. O surrealismo acabou mais rápido que o Dogma 95. E no cinema sua única marca lembrada é um olho sendo cortado por uma navalha. Bons tempos. Só que não.
 

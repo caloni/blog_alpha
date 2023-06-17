@@ -1,18 +1,36 @@
 ---
-
-Esta série pisca para os nerds. A geração X (é essa mesmo? Fxda-se) não quer nada da vida e o Zuckerberg da Alemanha resolve vender drogas na darkweb apenas por um motivo: bxcxta.
-
-O desenvolvimento é complicado. O roteiro vai desenvolvendo a historinha como novela, sempre usando os mesmos artifícios. O amigo nerd o odeia porque ele abandonou o projeto motivado pela ex-namorada que não o quer, o namastê rico e bonitão de olho na mina dele, ele hackeando as contas das pessoas estilo Mr. Robot pra saber seu próximo passo. Não há nada de novo aqui e isso entedia em cinco minutos.
-
-Mas o design visual é bonitinho às vezes, com essas telas de celular pulando na nossa tela, ou a pausa para carregar um vídeo que travou. São pequenos detalhes que serão usados em material de mais qualidade.
-
-Esta é uma tentativa de captar a atenção da geração Z (era isso mesmo?) para ela mesma. Então, geração W, faça o que você faz de melhor: pula logo pro final.
-
----
 categories:
-- reading
-- writting
-date: '2016-05-14'
+- coding
+date: '2023-04-11'
 tags:
-- books
-title: Como Ver Um Filme
+- interview
+title: Como verificar se um número é primo
+---
+
+Apesar de existir matemáticos ao redor do mundo tentando responder esta pergunta da maneira computacionalmente mais rápida possível, existe uma forma ingênua e eficiente para números baixos:
+
+- Faça um loop entre 2 e a metade do número;
+- Se algum desses números dividir sem resto retorne false;
+- Se acabar o loop retorne true: o número é primo.
+
+Note que a mesma lógica pode ser aplicada para obter os fatores de um número, seus divisores, etc.
+
+O código em C++:
+
+```
+bool PrimeNumber(int number)
+{
+    if (number == 2) return true;
+
+    for (int i = 2; i <= (number / 2); ++i)
+    {
+        if (number % i == 0)
+        {
+            return false;
+        }
+    }
+
+    return true;
+}
+```
+

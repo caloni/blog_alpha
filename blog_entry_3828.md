@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-11-05'
+date: '2022-01-14T22:34:15-03:00'
 tags:
-- beer
-title: Tupiniquim Anunciação IPA
+- food
+title: Turbaína
 ---
 
-É porradinha no estômago, mas seu lúpulo parece de respeito. Sinceramente, minha memória alcoólica deteriora na velocidade da luz.
+Esse refrigerante da Feráspari imita Tubaína, mas não pode usar o nome. Então o jeito foi usar este péssimo e divertidíssimo trocadilho. E o refri é ruim de doer. Nem juntando água com gás e groselha ficaria tão ruim assim. Mais uma surpresa de Joanópolis.
 

@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2015-11-18'
-link: https://www.imdb.com/title/tt2403029
+date: '2015-04-19'
+link: https://www.imdb.com/title/tt1951265
 tags:
 - movies
-title: Jogos Famintos
+title: 'Jogos Vorazes: A Esperança - Parte 1'
 ---
 
-Das paródias, talvez seja um dos poucos que segue boa parte do roteiro, ou pelo menos da história original. Sendo assim, se torna um filme até que simpático, pois pega carona em uma boa narrativa (a do original), além de nostalgicamente remeter aos bons momentos do primeiro filme da franquia baseada em livros.
+Jogos Vorazes é uma série de filmes que brinca com o conceito das aparências e como ela é muito mais importante atualmente do que como as coisas são. É dessa forma que os participantes de um reality show preferem abrir mão de suas personalidades para construir uma que garanta a vitória por parecer ser alguém que os possíveis fãs se identifiquem. É dessa forma também que o consumismo desenfreado leva as pessoas a comprar items puramente estéticos, como roupas de marca, maquiagem e operações no corpo. E, por fim, é dessa forma que governos populistas ganham a confiança e o respeito de milhões, preferindo gastar uma parcela irrisória do dinheiro delas mesmas em programas sociais como Bolsa Família, do que atacar o mal pela raiz (como diminuindo impostos para as camadas mais pobres, por exemplo).
 
-Com defeitos especiais que são risíveis em um primeiro momento, depois fica fácil se acostumar, embora quase nenhum deles funcione, pois são mal feitos e duram muito tempo na tela, diferente de vídeos semelhantes na internet (entre eles o ótimo Kung Fury). Os pontos positivos diferentes do conteúdo original ficam todos por conta de como é deturpada a visão já no estilo paródia de uma história que tenta criticar programas televisivos no estilo reality show. Aqui toda a trama é revelada e analisada direto no texto, e onde se perde sutileza se ganha em comédia gráfica e escrachada, como nos momentos que o jogo é paralisado para os comentaristas observarem uma cena -- como a morte pelos testículos, um ponto alto -- ou durante a hilária pausa do primeiro tempo.
+Nesse sentido, Jogos Vorazes se apresenta não apenas como uma crítica ao marketing ou mídia, mas como uma simples constatação que ele existe, é forte e poderoso. E no caso dessa continuação, com o péssimo título nacional Jogos Vorazes: A Esperança - Parte 1, ele é inclusive utilizado como ferramenta de guerra, usando a figura de Katniss (Jennifer Lawrence) para unir os distritos e incentivá-los a lutar contra a Capital. Da mesma forma, a Capital se utiliza de Peeta (Josh Hutcherson) e coloca na boca dele palavras sensatas para dissuadir a população. Mais fascinante que isso é observar as conversas da presidente da oposição, Alma Coin (Julianne Moore mais uma vez esse ano) e Plutarch (Philip Seymour Hoffman, infelizmente em um dos últimos filmes gravados antes de sua morte). A estratégia deles é como usar o povo como massa de manobra. É para uma boa causa? Sim, com certeza. Mas quantas pessoas morrerão no lugar deles por essa boa causa?
 
-A atuação da menina principal (Maiara Walsh, igualmente linda) é uma cópia ambulante de feições de Jennifer Lawrence, o que não deixa de ser curioso nos momentos que JenLaw não protagonizou em Jogos Vorazes. O uso de tantos figurantes quase que impressiona, já que sabemos que está é uma produção de baixo orçamento.
+De forma quase inédita, o filme de Francis Lawrence resolve mostrar de fato pessoas morrendo para arriscar uma vida melhor para os sobreviventes. Ele não suaviza além do necessário, e consegue transformar completamente o tom de uma narrativa que desde o primeiro filme se criava nos bastidores. Aqui as cenas de ação existentes são arrebatadoras justamente porque há um movimento de pano de fundo fascinante de acompanhar.
 
-Por fim, Jogos Famintos é uma prova que reality shows realmente chamam a atenção do público e podem render momentos curiosos e interessantes, mesmo que tudo não passe de uma farsa de uma farsa, e que no final tenhamos que suportar o velho clichê das cenas erradas. Até aqui isso funciona razoavelmente bem.
+Com um ou dois momentos piegas (como a velha sequência da porta fechando e alguém indo salvar um animal), Jogos Vorazes: A Esperança Parte 1 consegue se sair melhor ainda que seus antecessores, pois adiciona peso dramático às escolhas de seus personagens, em especial Katniss e Presidente Alma Coin.
 

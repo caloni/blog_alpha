@@ -1,17 +1,22 @@
 ---
 categories:
 - writting
-date: '2011-12-31'
-link: https://www.imdb.com/title/tt0086190
+date: '2019-02-18'
+link: https://www.imdb.com/title/tt0367790
 tags:
 - movies
-title: 'Star Wars, Episódio VI: O Retorno do Jedi'
+title: O Retorno de Sweetback
 ---
 
-Hora de assistir novamente a conclusão da saga de George Lucas, dessa vez após ter visto a nova trilogia e o significado que ela insere na antiga (em especial [A Vingança dos Sith]). Uma direção de arte cada vez mais impecável, que consegue equilibrar o tema espacial com a fantasia por trás da história. Quando C3PO narra a aventura épica dos personagens em torno da fogueira é o momento mais icônico e que melhor representa o conceito por trás das lendas filmadas de Star Wars. Parece não haver mais o que acrescentar a este universo, embora a direção aqui se mostre mais pausada, madura e consciente de seu final mais trágico que de costume.
+Um filme é produzido em 1971. Ele fala sobre um negro que mata policiais para sobreviver e se dá bem no final (foi isso que eu entendi). Ninguém branco produziria um filme desses nessa época. E hoje "O Retorno de Sweetback", em 2003, fala sobre a Odisseia que foi essa produção.
 
-Apesar de nossos heróis, é inegável que tudo converge para Darth Vader, e é ele quem rouba a cena, mesmo quando não está presente. É uma figura ameaçadora que foi crescendo a cada filme, onde agora tudo passa a girar em torno dele; até o Imperador, seu mestre, apenas existe para guiar seu pupilo por meio das trevas do Lado Negro da Força e impedir que Luke se torne um Jedi. O sentido da [Guerra nas Estrelas] e suas batalhas converge para a luta entre o bem e o mal, ainda em uma época em que esses conceitos eram muito bem definidos e onde o bem ainda não era relativo, como gostaria que fosse o Imperador Palpatine. Nesse sentido, a inversão temporal das trilogias ganha mais do que perde. Assisti-las em qualquer ordem lhe dará uma visão diferente dos fatos.
+O diretor é Mario Van Peebles, filho de Melvin Van Peebles, o diretor do filme sobre o que estamos falando. Ele interpreta seu pai naquela época. A narrativa é de ficção documental, com pessoas falando sentadas, mas principalmente a história sendo contada com imagens. O formato do filme é independente, com direito a câmera na mão e iluminação amarelada dos anos 70 com estilo filme 8mm, mas obviamente com muito mais qualidade (e wide). A capa do DVD lembra os primeiros filmes do Roberto Rodriguez ou até mesmo aqueles trashs esquecidos na última fileira da última estante de uma locadora decadente.
 
-[A Vingança dos Sith]: {{< relref "star-wars-episodio-iii-a-vinganca-dos-sith" >}}
-[Guerra nas Estrelas]: {{< relref "star-wars-guerra-nas-estrelas" >}}
+Sweetback -- original e making of -- tem a pegada do movimento negro. Cansados de tanta violência, de serem rebaixados ao status de sub-raça e incapazes de se mover socialmente, o(s) filme(s) foi feito por negros (ou minorias) para negros. É possível respirar o ar black nessa produção moderna, já antecipando o resgate do movimento com Black Lives Matter. Está no ar, está na fala, está na música e no gingado.
+
+Além disso, se trata de um filme de pura tensão. Acompanhamos a produção de um filme de baixo orçamento onde não há orçamento. E Van Peebles na época arriscou tudo, não apenas dinheiro. Já era um cineasta de relativo sucesso que trazia lucros para os donos brancos das produtoras onde trabalhava. E assim como quando todo negro resolve fazer um trabalho sério, uma crítica social, o mundo branco lhe dá as costas. Até aí nada de novidade.
+
+Mas seu filho diretor, Mario, resgata o verdadeiro suor e loucura que era produzir um filme independente black nos anos 70. Salas escuras e esfumaçadas. Brigas entre a reduzida equipe. Há um elenco de primeira. Destaque para Terry Crews como Big T e Joy Bryant como Priscilla (além do próprio diretor/ator). Para o cinéfilo também é um filme instrutivo, pois é possível aprender os percalços do Cinema que ninguém lhe ensinará na faculdade.
+
+Talvez isso sirva de lição para qualquer cineasta independente que queira filmar os seus valores. A trilha é comum a todos. Independente de sua cor, sinta-se negro em O Retorno de Sweetback.
 

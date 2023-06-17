@@ -1,22 +1,12 @@
 ---
 categories:
 - writting
-date: '2014-06-19'
-link: https://www.imdb.com/title/tt2372162
+date: '2012-07-20'
+link: https://www.imdb.com/title/tt0414387
 tags:
-- series
-title: Orange is the New Black - Terceira Temporada
+- movies
+title: Orgulho e Preconceito
 ---
 
-Orange is the New Black, apesar do título ultrapassado, ainda se mantém acima de sua irregular média. Digo irregular porque a série, apesar de possuir picos dramáticos e temáticos bem definidos, também possui os seus valores. Ou seja: se quiser aproveitar o que a série tem de bom, vai ter que aguentar muito lenga-lenga de mulher.
-
-Essa terceira temporada "surpreende" por seus ataques incessantes e cada vez mais incômodos da religião e de outros temas que flertam nervosamente com um esquerdismo até natural, vindo de um programa de TV que lida com detentas de um sistema presidiário mais do que o suficiente para manter seus "clientes" satisfeitos.
-
-Será, mesmo? A todo o momento somos lembrados que isto não é Oz, que as pessoas ali são mulheres, o que muda todo o contexto do que ocorre com essas pessoas. Elas podem até ter cometidos seus pequenos delitos e assassinatos, mas nunca parecem acusadas de nada que preste.
-
-Exceto Piper. A loirinha sem açúcar de Taylor Schilling merece um destaque como o instrumento por trás das babaquices do roteiro, incluindo um discurso inflamado -- um ponto alto -- a respeio de sua mais nova ideia: a venda de calcinhas sujas para pervertidos.
-
-Cansado das suas velhas artimanhas, a série não se acanha de usá-las para o bem da linguagem televisiva, ainda que travestida de algo cool/cult. Quem ganha é o público que adora uma novela, e com razão: a cada nova temporada o elenco principal quer se reinventar e realiza um show para poucos. É até difícil destacar alguém em um casting tão uniforme.
-
-Porém, sejamos honestos: se OitNB quiser se comparar -- ou sequer referenciar -- obras como Breaking Bad, acho bom se preparar para situações realmente desafiadoras, e não uns tapinhas em uma transexual. Isso só vai trazer fãs de movimentos minoritários fanáticos (ainda mais agora, que já acabaram de assistir Sense8).
+Há diversas formas de dirigir um Jane Austen, e frequentemente o que vemos é uma fórmula básica seguida pela maioria. Nesse sentido, Orgulho e Preconceito não apenas é um refresco para os olhos como uma empolgante dissertação cinematográfica sobre como narrar histórias de época e impor significados na obra de Austen, uma crítica feminista por natureza, com o uso do Cinema em seu estado mais puro. Dessa forma, planos selecionados, cores no figurino e até o posicionamento dos personagens fazem parte do repertório dos diretores Joe Wright, Katie Spencer e Jacqueline Durran. Como se não bastasse, há "escondido" dois ou três planos-sequência que são tão brilhantes quanto sua sutileza.
 

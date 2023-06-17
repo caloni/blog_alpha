@@ -1,20 +1,71 @@
 ---
 categories:
-- writting
-date: '2016-04-17'
-link: https://www.imdb.com/title/tt1411697
-tags:
-- movies
-title: Se Beber, Não Case! Parte II
+- coding
+date: '2014-06-24'
+tags: null
+title: 'Se iterando com os pseudo-ponteiros: uma breve introdução'
 ---
 
-Como seria o original se ele não tivesse graça. Não seria uma novidade se a sequência de Todd Phillips repetisse a fórmula exata da ótima comédia que é o filme original, que é o que este Parte II faz do início ao fim. A novidade é que, mesmo juntando o elenco original, o curioso é que quase nada funciona, quase nada é engraçado e muito pouco é imprevisível.
+Como [já vimos algumas vezes](http://www.caloni.com.br/remove_if-ate-remove-so-que-diferente), a STL não prima por interfaces intuitivas, preferindo abstrações que criem um leque de ferramentas genéricas para tratamento uniformizado de coleções de dados através de algoritmos. O problema disso é que novos programadores da linguagem terão que aprender uma maneira nova de lidar com problemas baseada na percepção dos criadores do padrão na época em que foi lançado de como seria a evolução da ciência da computação nos próximos anos. Muitos dos conceitos ali abordados realmente se tornaram padrão _de facto_, mas na briga pela expansão da linguagem quem perdeu por muito tempo foi o próprio desenvolvedor, que teve que se contentar com uma lista de algoritmos genéricos parcialmente compilado.
 
-Há situações pesadas o suficiente para tornar uma comédia um quase drama de um grupo de homens perdido em Bangkok, a capital da Tailândia, do sexo e da violência. Um macaco traficante é engraçadinho, mas não deixa de ser traficante. E um tiro de raspão em um país estrangeiro não deixa de ser um tiro.
+Dito isto, a abstração dos iteradores é a coisa mais linda do mundo.
 
-A questão é: nem tudo que acontece durante um "bebedaço" é engraçado ou inocente. Ao brincar com os heróis do filme original, brincamos com todo o conceito genial que se formou anteriormente. E tudo isso é sacrificado para tentar firmar uma fórmula de um filme só.
+{{< image src="0Kne7qd.jpg" caption="iteradores-como-ponteiros-a-imagem" >}}
 
-Nem Ken Jeong (Community) ou Zach Galifianakis são capazes de transformar esse filme esquecível em algo mais. Eles estão exagerados, mas não tanto quanto Ed Helms, que parece tentar defender a "sua" sequência com muita força (afinal, é o casamento de seu personagem).
+## Iteradeiros ou Ponteradores?
 
-Ainda assim, há um quê de nostálgico e saudosista em Parte II. A sensação de ter perdido a memória novamente é um dejá vu inevitável, mas nos passamos de espectadores de um evento turístico: o passeio às sensações de como deve ter sido o primeiro filme (para quem não assistiu, talvez até tenha ficado com uma impressão superior).
+Os dois únicos conceitos que é preciso se lembrar para sempre quando se trata de iteradores é que ele:
+
+  * Um iterador se comporta como um ponteiro opaco.
+
+  * O final de um contêiner está sempre um elemento além do último.
+
+Um ponteiro pode ser iterador, mas não o contrário!
+
+Tudo que um ponteiro faz de útil em C/C++ foi emprestado para a STL usar em seus contêiners, e tudo em que ele é prejudicial tentou ficar de fora. E o que um ponteiro faz de útil?
+
+  * Um ponteiro pode apontar para elementos sem conhecermos sua posição.
+
+  * Podemos incrementar ou decrementar ponteiros para caminhar em listas.
+
+  * Dois ponteiros podem ser subtraídos para sabermos a distância entre dois elementos.
+
+```
+
+template<typename T>
+T VaiSomandoVaiSomando(T begin, T end)
+{
+    T current = begin;
+    T next = begin + 1;
+
+    while( next != end )
+    {
+        *next = *current + *next;
+        ++current;
+        ++next;
+    }
+
+    return current;
+}
+
+#include <vector>
+#include <iostream>
+
+int main()
+{
+    int aInts[10] = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+
+    std::vector<int> vInts;
+    for( int i = 0; i < 10; ++i )
+        vInts.push_back(i);
+
+    std::cout << *VaiSomandoVaiSomando(&aInts[0], &aInts[10]) << std::endl;
+    std::cout << *VaiSomandoVaiSomando(vInts.begin(), vInts.end()) << std::endl;
+}
+
+```
+
+{{< image src="GmNutkz.jpg" caption="iteradores-como-ponteiros" >}}
+
+Da mesma forma, operações como cópia, movimentação, ordenação, caotização, pode ser feito usando dois ponteiros/iteradores de dois contêiners distintos, desde que algumas regras básicas sejam seguidas, como _um iterador deve sempre apontar para algo válido_ (ou disponibilizar alguma abstração que insira novos elementos em um contêiner menor). Veremos essas regras em um próximo post sobre o tema. Apontarei para ele _aqui_.
 

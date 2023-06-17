@@ -1,18 +1,20 @@
 ---
+
+Comédia romântica francesa datada de 70 e conduzida por François Truffaut. Nesse caso temos um casal vivendo sua vida em um condomínio de casas que mais lembra, nos minutos iniciais, um bom cortiço brasileiro. Mas aos poucos os detalhes culturais vão ganhando forma, não prejudicando a mensagem principal, que é contar a história de um casal como outro qualquer que passa por suas felicidades e tristezas, juntos ou separados.
+
+A atuação do casal principal, Antoine (Jean-Pierre Léaud) e Christine (Claude Jade), é muito importante para a conexão com o público, e temos momentos em que nos vemos completamente sintonizados com aquela realidade, como quando ele a acompanha até o táxi tentando beijá-la e, no final, ela que pede o beijo.
+
+A direção de Truffaut age e merece nota por sempre se utilizar dos enquadramentos que minimize o número de cortes e maximize as informações por quadro, como é facilmente visto nas cenas que se passa no quintal do domicílio, com várias pessoas interagindo e se movendo pelo campo visível.
+
+Mais que uma bela história, aqui podemos notar o que seria uma pitada de comédia francesa, com seus absurdos ao quadrado, porém sem perder nunca o tom da narrativa.
+
+---
 categories:
 - writting
-date: '2020-10-11'
-link: https://www.crunchyroll.com/pt-pt/domestic-girlfriend
+date: '2018-11-01'
+link: https://www.imdb.com/title/tt9025112
 tags:
-- animes
-title: Domestic Girlfriend
----
-
-Este "dranime" contém todos os elementos de uma novela dramática live action, somados à capacidade sobrenatural desse formato em decupar cenas com uma fluidez admirável, que nos coloca em sintonia com os pensamentos e memórias de seu protagonista, o jovem Natsuo.
-
-Ele dormiu com uma garota pela primeira vez na vida e a conheceu naquela noite. Foi sexo casual e se despediram como estranhos. Mas estranho mesmo será a relação dessa família recém-formada, criada por aquelas coincidências que só ocorrem em novelas. É, você entendeu o que vai acontecer.
-
-Mas não só isso. Ele mantém uma relação platônica com sua professora que também fará parte de sua rotina doméstica. Tudo converge nessa história para não acreditarmos no que vemos, embora ela seja apelativa na medida certa para apreciarmos o dramalhão.
-
-Porém, esse romance precisa ser desdobrado ainda para fazer sentido. Por que ele gosta tanto assim da professora? Por que a garota casual se sentiu mal em continuar a vê-lo? É uma série tecnicamente bem feita, mas com pontas soltas em seu roteiro. Pontas essas que irão se desenrolar lenta e pausadamente. Eis a abertura de uma novela. Uma novelanime.
-
+- cinemaqui
+- mostra
+- movies
+title: Domingo

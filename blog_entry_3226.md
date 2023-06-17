@@ -1,20 +1,16 @@
 ---
 categories:
 - writting
-date: '2019-08-02'
-link: https://www.imdb.com/title/tt0308071
+date: '2015-01-26'
+link: https://www.imdb.com/title/tt0119310
 tags:
 - movies
-title: Queimando ao Vento
+title: Querida, Encolhi a Gente
 ---
 
-Há algo de literário em trabalhos de adaptação de livros, como este, dirigido por Silvio Soldini e escrito com Doriana Leondeff, que se baseia no romance de Agota Kristof. É essa mania do protagonista ser o narrador e estar escrevendo um livro, mesmo que ele seja um maníaco desde criança e viva recluso fugido de seu país de origem.
+Parece demais um filme inteiro com a ideia de mostrar como as crianças conseguem se virar sozinhas sem a presença dos pais. Ainda mais por se tratar de uma continuação da continuação e tentar reciclar velhas ideias da série usando os mesmo efeitos que hoje já se pode notar algumas marcas do passado. E isso em um filme de 97!
 
-Esse país é a Tchecoslováquia, e o país para onde ele vai tem uma fábrica que atrai mais conterrâneos de sua terra, incluindo seu amor de infância, a razão de sua existência em todos esses anos. Há algo de intensamente poético na construção de Tobias, que o ator Ivan Franek e seus olhos esbugalhados conseguem demonstrar de maneira penetrante e um tanto relapso.
+A conclusão, portanto, é que Querida, Encolhi a Gente, lançado direto para vídeo, é daqueles filmes caça-níqueis que adota um roteiro preguiçoso e faz com que os pais das crianças sejam encolhidos acidentalmente não com um, mas com dois objetos (iguais) que caem no botão que aciona a máquina. Oportunista do começo ao fim, monta um trajeto que envolve os adultos-mirim descendo em uma isca de pesca, "pilotando" um carrinho de brinquedo por uma pista que envolve loops e saltos, caindo em um monte de roupa e voando dentro de bolhas de sabão. Tudo isso coloca em dúvida as reais intenções do personagem de Rick Moranis, supostamente um gênio: ele quer salvá-los ou encontrar a maneira mais divertida de deixar seus filhos órfãos?
 
-Antigos possíveis amantes que se reencontram em um país estrangeiro é tema de tantos filmes, e Queimando ao Vento é um deles com algumas peculiaridades que o tornam minimamente interessante. Temos a questão do incesto, do assassinato quando criança, da compulsão de Tobias em transar com todas as mulheres com quem encontra, se relacionando assim com o passado de sua mãe prostituta.
-
-Soldini entrega neste filme um trabalho sólido, onde pela repetição da rotina é onde acompanhamos as mudanças da vida do herói, além de ouvirmos seus pensamentos em formato de uma narração que sabemos no fundo ser o autor do livro original. A produção também é ótima, com fotografia, figurinos e música dramática em compasso com uma tragédia anunciada.
-
-Infelizmente toda a tensão construída em dois terços do filme não contém uma contraparte à altura, e a história acaba soando excessivamente dramática. Mas é um excepcional trabalho de atuações e direção, o que meio que compensa entendermos que todo nosso investimento nessas pessoas não precisa se pagar com mortes ou escândalos. Afinal, já era uma história triste quando começou.
+O mais decepcionante, porém, é que em nenhum momento o longa está olhando ou buscando situações que lembrem vagamente algo espontâneo. Com uma história que força situações cada vez mais inverossímeis (que o diga uma certa Senhora Aranha), o filme cobra do espectador uma suspensão de descrença -- o contrato com o espectador de fingir que aquele mundo é real -- alta demais.
 

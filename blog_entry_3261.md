@@ -1,18 +1,23 @@
 ---
 categories:
 - writting
-date: '2016-07-18'
-link: https://www.imdb.com/title/tt1967545
+date: '2016-09-30'
+link: https://www.imdb.com/title/tt4163644
 tags:
+- cinemaqui
 - movies
-title: Refém da Paixão
+title: Refúgio
 ---
 
-Kate Winslet e Josh Brolin são atores tão competentes que "Refém da Paixão" sai quase ileso de seu formato drama enlatado com situações previsíveis para tornar tudo um pouco mais tenso. Até Gattlin Griffith, que faz o jovem Henry, e que quando adulto é narrado por Tobey Maguire, consegue um desempenho interessante, e talvez tenha dado a sorte de pegar o personagem mais ou menos acompanhável. No entanto, a mãe amargurada Adele (Winslet) e o bom homem preso injustamente Frank (Brolin) são funções ingratas da dupla de atores veteranos, pois uma vez estabelecidos os estereótipos, eles nunca mudam.
+Refúgio é uma comédia de situação que brinca um pouco com essa sensação da meia-idade (defina você esse período da sua vida) em explorar outros horizontes, levar a cabo os sonhos da infância, reviver, enfim, os bons momentos que estão em nossas memórias. Porém, ao mesmo tempo que temos esse desejo, estamos ancorados na vida real, sujeitos às complicações da vida moderna.
 
-E, mesmo assim, esses dois insistem de uma maneira até compreensível em utilizar pequenas situações do dia-a-dia para elevar o estado de espírito neste que é talvez o trabalho mais fraco do diretor Jason Reitman, o até do roteirista Jason Reitman. Tendo estreado em Obrigado por Fumar e feito o texto de estreia de Diablo Cody em Juno, Reitan manteve a boa forma no ótimo Amor sem Escalas, seja na direção quanto no roteiro. Aqui, porém, por usar o romance de Joyce Maynard de uma maneira insípida, nunca temos a sensação de ver a história se movendo, mas sim parada, estática, nos mostrando como eram mágicos os épicos anos 80.
+O herói do filme, Michel (Bruno Podalydès), trabalha com computação gráfica, no meio de um bando de jovenzinhos focados em impressionar os outros. E a sua praia já não é ficar ancorado em uma vida tranquila e estabilizada. Ele começa, então, a desejar expandir sua visão do que é aventura. Fã do serviço aéreo postal que atravessava a cordilheira e inspirado pelo tema no trabalho sobre palíndromos -- palavras que são iguais lidas ao contrário -- ele adquire um caiaque ("kayak") e aos poucos monta todo um universo cheio de apetrechos para atravessar um rio.
 
-Justamente por isso, mas não retirando o mérito, a direção de arte de Mark Robert Taylor e a fotografia de Eric Steelberg tornam a atmosfera de 1987 algo imensamente satisfatório. A época em si se torna um personagem à parte, mas não sabemos bem por que. Talvez o filme tenha também se apaixonado erroneamente por esta década, como Adele acaba se entregando a um foragido da lei.
+O que se torna recorrente em refúgio é demonstrar como é possível carregarmos tantas distrações dentro do "caiaque da vida" sem sequer percebemos, e às vezes ficarmos fascinados por tanta "facilidade". Porém, ele mostra a diferença entre viver à mercê da tecnologia em busca de um conforto ilusório ou usá-la em prol da humanidade que cada um de nós tem guardado no fundo do barco (provavelmene na parte de suprimentos para uma vida feliz).
 
-De qualquer forma, por mais lindo que seja, Refém da Paixão nos mantém reféns de uma ideia com potencial que consegue ser explorada apenas pontualmente, mas não é páreo para um longa-metragem. Apesar observar a passagem do tempo e experimentar viver alguns minutos nesta época, com essas cores e esses molhos de tomate enlatados, só se torna atraente se você, assim como Adele, está amargurada pelo que o destino lhe pregou: uma prisioneira em sua própria casa, junto de seu filho. Essa imagem eternizada serve muito bem para um quadro, mas não fez a mínima diferença para um filme.
+Porém, ao andar com uma imensidão de coisas em seu barco é inevitável encalhar algumas vezes, onde Michel conhece novas pessoas e vai aos poucos descobrindo que há algo de errado em sua vida. Não necessariamente errado, mas ele quer se libertar do que desconhece simplesmente seguindo o fluxo da corrente. "Kayak", como sabemos, é um palíndromo, na palavra e no desenho da embarcação; ele pode ser visto de ambos os lados e ainda parecer igual. Pois é também é uma metáfora da vida, onde andar com a vida pra trás ou pra frente dá na mesma, e voltar às origem é um novo recomeço.
+
+Essa é uma comédia que tenta ser em alguns momentos meio escrachada, o que quase estraga a bela poesia do seu tema. Porém, isso ajuda em um filme que deseja ser leve falando do drama da vida moderna:  enquando estamos enfurnados de tecnologia, mesmo para curtir a natureza os penduricalhos vêm junto. Tudo possui um significado peculiar, lúdico e metafórico. Até o celular de Michel, azul e retangular, que acaba virando a metáfora de uma balsa improvisada, que conecta a vida a lugar algum, tal como a nossa vida tecnológica, se a deixarmos dominar nossa consciência.
+
+O filme para os saudosistas é um sonho, mas para os realistas um tormento. Ele traz uma bela mensagem de humanidade simbolizada em um homem de meia-idade tentando cruzar um rio sem experiência alguma. Não deixa de ser a situação de muitos de nós, perdidos nessa imensidão de informação em tempo real, consumismo desenfreado, "soluções" para problemas que não existiam antes das soluções terem sido criadas. E todo mundo rema seguindo a corrente.
 

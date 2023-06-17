@@ -1,20 +1,41 @@
 ---
-categories:
-- writting
-date: '2015-07-20'
-link: https://www.imdb.com/title/tt1862079
+categories: []
+date: '2008-04-25'
 tags:
-- movies
-title: Sem Segurança Nenhuma
+- ccppbr
+title: Seminário CCPP Portabilidade e Performance
 ---
 
-Até que não incomoda tanto o fato de Sem Segurança Nenhuma não se esforçar para sair de sua própria mediocridade, pois é possível constatar durante todo o trajeto guiado pela tensão de sua premissa inicial (a viagem no tempo) que há algo de agradável em sua eloquência, mesmo que seus personagens sejam batidos, suas histórias sejam clichês e suas piadas, assim como o melancólico Regular Show, tenham viajado para o presente direto dos anos 80.
+Reserve sua cadeira. Está marcado para o último dia do mês de maio o primeiro seminário de nosso grupo nacional de programadores e aficionados por C e C++. É bom ou não é?
 
-Porém, se eu mencionei a tal viagem no tempo, não fique tão entusiasmado: ela é apenas o gancho da história de uma estagiária (Aubrey Plaza) tentando sair de sua vidinha ridícula, assim como seu chefe (Jake Johnson) e seu colega indiano (Karan Soni). Juntos irão para uma cidadezinha investigar o caso de um anúncio no jornal local de um maluco (Mark Duplass) que diz que está recrutando voluntários para sua viagem para o passado. Anexo ao texto ele adverte: traga sua própria arma.
+O assunto gira em torno de duas preocupações constantes na vida de todo programador de linguagens de nível médio:
 
-Sempre se utilizando como suporte dramático da dúvida cruel se o maluco está ou não falando sério a respeito da máquina do tempo, o roteirista Derek Connolly (Jurassic World: O Mundo dos Dinossauros) nos mantém com essa dúvida por todo o trajeto, enquanto tenta desenvolver melhor seus personagens. As atuações tornam tudo uma comédia de situações morna, e Aubrey Plaza é a mais morna de todos. Repetindo suas caras e bocas da série em que ficou conhecida -- Parks and Recreation -- Plaza é incapaz de sugerir qualquer emoção, mesmo quando fala sobre a morte de sua mãe. Enquanto isso, Mark Duplass se sai muito melhor que o elenco, onde o "muito melhor" é conseguir convencer que seu Kenneth é uma pessoa amargurada pelas decisões do passado a ponto de dedicar toda sua vida a querer fugir do presente da maneira menos convencional possível.
+ - Quanta velocidade eu preciso nesse código?
+ - Em quais plataformas eu conseguiria compilar e rodar meu projeto?
 
-Quem também brilha são o diretor Colin Trevorrow (também de Jurassic World) e seus editores Joe Landauer e Franklin Peterson, que têm a proeza de manter interessante uma produção obviamente de baixo orçamento e baseada mais em diálogos do que ações, ainda que esses diálogos sejam ditos sempre em movimento (uma ideia eficiente). Além disso, os diferente ângulos e os cortes rápidos mantém o sentimento de urgência da situação, pois Kenneth pretende "zarpar" em breve, e a dúvida do espectador de se tudo aquilo é verdade parece escorregar por entre os dedos a todo o momento.
+Para responder estas questões teremos uma bateria de palestras com temas que, dessa vez, focam o simples, puro e independente uso das linguagens C/C++:
 
-Como eu disse, Sem Segurança Nenhuma não é nenhuma obra-prima, pois está baseada em uma história "nada demais". No entanto, seus esforços em tornar tudo aquilo muito mais do que uma experiência vazia são dignos de nota. Os criadores do filme podem dormir em paz, sem desejar voltar no tempo para a sala de edição.
+## Dicas e Truques de Portabilidade por Wanderley Caloni
+
+O objetivo dessa palestra é focar nos problemas da vida real que enfrentamos no dia-a-dia para tornar um código portável ou mais maleável para um dia ser. Nesse caso existem vários assuntos a tratar, como: construções ambígüas não-padrão, isolamento de particularidades de cada sistema, identificação de problemas de portabilidade, organização do código-fonte portável, entre outros.
+
+O nível dessa palestra será o intermediário, porque eu preciso que o público tenha o conhecimento prévio de programação C e C++. Quando você está aprendendo, uma dica ou outra sobre portabilidade pode ser interessante para não ser desvirtuado desde o início. Porém, para realmente começar a programar multiplataforma, existem desafios que devem ser transpostos por aqueles que já conseguem um nível de organização e desenvolvimento em C e C++ que não deixa dúvidas sobre a qualidade do código.
+
+## Programação Concorrente com C++ por Fábio Galuppo
+
+Fábio Galuppo estréia na nossa rede de palestrantes, depois de seu inspirador e excitante relato das peripécias do SD West desse ano. Ele irá falar de um tema extremamente atual, que é o uso de programação paralela, em especial usando C++. Existe uma série de coisas para entender, como os modelos a ser seguidos, o uso consciente de threads, a programação com bom desempenho nos novos chips com mútiplos núcleos de processamento e por aí vai.
+
+Apenas para ter uma idéia da importância em se ir em uma palestra como essa, imagine que 99,9% dos produtos da Google se baseiam nesse tipo de programação, envolvendo uma plantação de algumas centenas (milhares?) de máquinas trabalhando um banco de dados gigantesco no modo cooperativo para entregar a resposta mais rápida possível do outro lado. Sentiu o drama?
+
+## Programação Multiplataforma Usando STL e Boost por Rodrigo Strauss
+
+Voltando para o tema portabilidade, Rodrigo Strauss volta a repetir sua performance sobre Boost, dessa vez abrangendo o conjunto completo de bibliotecas que compõem essa extensão mais-que-necessária da STL para programadores produtivos e multiplataforma. Todos sabem que um código que apenas usa STL e C++ puro não consegue ir muito longe na vida real, apesar de ser 100% multiplataforma. O que muitos não sabem (inclusive eu) é como é possível turbinar o desenvolvimento portável com o uso do Boost, que é uma solução portável bem interessante.
+
+Por exemplo, a manipulação de arquivos e diretórios não é lá o forte da STL, concentrada no conceito de streams. Com o uso do Boost, podemos ter o melhor da STL, só que turbinada. Além disso, o novo padrão de threads ainda está longe de chegar ao mercado, e o Boost.Threads é uma solução viável atualmente.
+
+## Técnicas de Otimização de Código por Rodrigo Kumpera & André Tupinambá
+
+Essa é a estréia de dois palestrantes de uma só vez! Como um bom complemento, voltamos ao tema de otimização, dessa vez em aspectos mais genéricos. Entre questões mais ou menos banais como otimização de laços e benchmarkers, mas que faze toda a diferença saber, teremos ainda tópicos bem avançados, como a relação de nosso código com o cachê do processador, e a tão-falada técnica de branch prediction, presente na maioria dos processadores atuais.
+
+Além do aspecto genérico teremos uma pitada de matemática, como o uso de lookup tables e a otimização de algoritmos baseada em operações vetoriais. Ainda como um aspecto básico, mas importante, temos o uso eficiente da memória, muitas vezes entregue ao controle do sistema operacional, que nem sempre sabe bem o que o programa está fazendo.
 

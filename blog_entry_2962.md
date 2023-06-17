@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2015-04-13'
+date: '2015-01-04'
 tags:
-- food
-title: Oumsiyat Jaspe
+- beer
+title: Ouro Pretana Pale Ale
 ---
 
-Cheiroso, leve, mas nada de mais. Ainda razoável, frutado forte, quase amargo, pouco aroma.
+Bem equilibrado; refrescante com amargor e um pouco de doce.
 

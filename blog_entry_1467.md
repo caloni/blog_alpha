@@ -1,36 +1,58 @@
 ---
-
-"Talvez nós tenhamos interpretado erroneamente a Bíblia por muito tempo." Essa foi a frase-chave de uma coletiva com Darren Aronofsky que envolveu todas as interpretações polêmicas a respeito de seu novo filme, "Mãe!", que apresenta uma alegoria que inevitavelmente cai nas preocupações ecológicas atuais. Com a presença apenas do diretor, foi uma entrevista ágil, com boas perguntas e com uma presença de espírito de Aronofsky em cada resposta.
-
-Darren Aronofsky é um diretor bem peculiar. Sempre explorando o gnosticismo -- a busca e a afirmação de todo tipo de conhecimento, natural e sobrenatural -- seus filmes geralmente envolvem personagens no limite de seu conhecimento e capacidade. Claro que é difícil tentar relacionar Pi, Réquiem Para um Sonho, Fonte da Vida, O Lutador, Cisne Negro e Noé sob um mesmo tema. Mas não se trata apenas dos assuntos que o diretor prefere abordar, mas do seu estilo, que costuma ser bem intenso para seus personagens.
-
-E agora com "Mãe!" ele volta a explorar uma metáfora poderosa sobre o mundo, apelando, assim como Noé, para referências bíblicas, mas também, como em Fonte da Vida, como um apelo a múltiplas visões da realidade. Se bem que, se formos ao cerne da história, ela lembra mais Cisne Negro, pois apresenta uma protagonista mulher que se depara com experiências tão bruscas e intensas que desafiam sua própria identidade.
-
-A recepção da coletiva foi aquela muvuca de celebridades, com fotógrafos à frente e uma sala (de cinema) lotada de pessoas para aguardar um dos diretores mais badalados do momento. Por conta do número de pessoas não houve sessão de fotos, e a sessão de perguntas foi bem resumida, embora tenhamos passado cerca de 40 minutos na companhia de Aronofsky.
-
-A maioria das perguntas giraram em torno da produção e criação de "Mãe!", sempre com um pé nos vários significados da obra. Houve um chute que a personagem de Michelle Pfeiffer seria chave na história, chegando alguém até a comentar que todo o conflito de resume a ela (!). Muito tempo fora das telas e voltando agora à telona, Pfeiffer foi elogiada por Aronofsky em termos genéricos, como todo bom diretor costuma fazer. Foi curioso acompanhar as teorias da plateia de críticos e jornalistas, que de alguma forma pareciam impregnados de percepcão política a respeito de uma obra que sequer dá muitas aberturas para o tema.
-
-Isso pode ser um reflexo dos tempos atuais, cheios de conflitos, ou de como temas como a ecologia e o feminismo se misturam com política. Por falar em feminismo, ele foi citado, até por conta da protagonista ser uma mulher e interpretada por Jennifer Lawrence, que não se priva de falar a respeito do tema em entrevistas. Mais uma vez Aronofsky foi polido e comentou que Jen Law se adaptou muito bem ao papel desde o começo, mas a menção ao feminismo ficou por isso mesmo.
-
-Como é natural em obras abertas como "Mãe!", muita forçação de barra foi imposta pelo público. E o diretor parecia muito confortável com qualquer uma delas. Exceto uma. Ele abriu um parênteses enfático a respeito dos que entendem que o filme é dark apenas pelo prazer de ser dark. "A pessoa simplesmente não entendeu a proposta", disse. Não há nada mais triste para um artista que ver seu esforço minimizado por filtros banais como esse.
-
-Sobre a superação de vida de seus personagens (como em O Lutador e Noé), disse que sua criação é uma parte dele mesmo que ele estica até virar um personagem. E ele se apegou mais ao personagem da JenLaw, mesmo que tenha tirado alguns elementos do personagem de Javier Bardem, que representa personagem importantíssimo no filme. Bem-humorado, aproveitou para comentar sobre o que todos acham sobre a situação principal de você ter visitas mal-educadas em sua casa. Ele deu um exemplo de sua vida, um amigo, que até troca de canal quando o visita em sua própria casa. "Vocês podem usar esse meu exemplo, embora ele tenha melhorado; mas ainda assim...". Risadas da plateia.
-
-Mas os nervos ainda estavam inexplicavalmente mais para política do que visitas mal-educadas. Seja ou não uma coincidência política da situação atual (ele desmentiu pelo menos duas vezes, explicando como demorou o processo de confecção do filme), falou que ele, assim como todo mundo do planeta, não acreditava na eleição de Trump. Mas aconteceu. E que pelo menos a vantagem é que agora é possível, em suas palavras, "enxergar o câncer". Sobre Obama criticou a lentidão das mudanças em seu mandato.
-
-Talvez todo governo tenha de fato uma ou outra crítica válida sobre ambientalismo. Sobre a esperança de nós mudarmos como espécie nossa situação com a natureza, ele é um otimista. Acredita que ainda há tempo para salvarmos a mãe-natureza antes que "ela nos exploda". Salvar o planeta para nossos netos. "Nossos filhos, até."
-
-Outros assuntos interessantes que giraram em torno da produção de "Mãe!" foi essa maneira toda peculiar do diretor nova-iorquino conseguir, assim como seu conterrâneo Woody Allen, harmonizar o custo de seus filmes com seu sucesso comercial. Dessa forma, de produções mais modestas como Pi para um blockbuster como Noé, Aronofsky disse que produções no cinema estão sempre trabalhando no limite de seus custos. O que ele faz com sua equipe é simplesmente tentar obter o melhor com o dinheiro disponível.
-
-Isso tem relação direta com a direção de arte de seu novo filme, em uma história que se passa sempre em uma casa e foi construída em duas frentes. Uma casa externa, isolada de tudo, foi feita para o ganho na iluminação; nos estúdios foram feitos os três andares, que foram úteis para as partes de destruição. Além disso, Darren cria um clima subjetivo e claustofóbico pelo uso limitado de tipos de tomada. Como ele mesmo explica, foram usadas apenas três tipos de tomadas no filme inteiro, todas em torno da personagem de JenLaw: atrás de seus ombros, na cabeça e sua face. Ter a possibilidade de ver acima da cabeça foi algo que soou particularmente intrigante para um diretor acostumado com peculiaridades visuais.
-
-Se mostrando claramente empolgado com o seu maior desafio técnico até o momento, os últimos vinte últimos minutos de seu novo filme, Aronofsky resolveu concluir sua participação na coletiva voltando ao tema de ecologia e religião, abrindo um parênteses interessante sobre duas passagens aparentemente contraditórias no Gênesis, mas que na verdade se complementam. Conforme é dito para o homem no primeiro livro da Bíblia: vá e domine a Terra. Mas, ao mesmo tempo, também é dito que ele zele por ela. Hoje em dia, como ele disse, até o Papa fala sobre as responsabilidades do homem para com o planeta. E ele conclui com a frase que inicia este artigo: "Talvez tenhamos interpretado a Bíblia erroneamente por muito, muito tempo."
-
-Em aspectos gerais, Aronofsky é o tipo de diretor confortável em falar sobre o processo de produção, detalhes do roteiro e até mesmo sobre as opiniões acerca dos seus filmes. Ele não abraça qualquer ideia a respeito deles, mas respeitosamente ouve e conclui suas ideias. O tempo voou na coletiva graças a ótimas perguntas e respostas que, assim como seus filmes, fazem a gente refletir sobre o que estamos fazendo com nossa vida aqui na Terra.
-
+categories: []
+date: '2008-03-29'
+tags:
+- ccppbr
+title: 'EPA-CCPP 4: nossa comunidade ganhando forma'
 ---
-categories:
-- coding
-date: '2010-05-31'
-tags: null
-title: Enum
+
+Nesse último sábado ocorreu mais uma vez, como todos sabem, o Encontro de Programadores e Aficionados por C++, (in)formalmente apelidado de EPA-CCPP, de acordo com algumas conversas da nossa lista de discussão.
+
+Mais uma vez, temos que dar uma salva de palmas e agradecer de coração a todos que colaboraram direta ou indiretamente para a realização do evento, que teve uma qualidade ainda maior que o último encontro.
+
+E por falar em qualidade, as palestras dessa vez foram ricas em informação e diversidade, pois demonstraram diferentes visões que as pessoas possuem sobre a mesma coisa, que é o uso das linguagens C e C++ na vida real sobre alguma aplicação específica.
+
+Infelizmente cheguei um pouco atrasado por problemas de localização (me perdi geral), mas consegui pegar a parte mais divertida da palestra do Strauss: o código.
+
+## TCP/IP via Boost.Asio (Rodrigo Strauss)
+
+De uma maneira bem clara e direta, o palestrante nos mostrou como usar uma biblioteca de comunicação em redes feita de modo portável e extremamente antenada com o pensamento C++/STL de fazer as coisas. Partindo de um ponto de vista prático, deu dicas importantes para os iniciantes que desejarem começar a utilizá-la e passar mais facilmente pelo caminho das pedras que é aprender novas maneiras de fazer as mesmas coisas.
+
+Na verdade, foi além, pois ao exemplificar seu uso no código do dia-a-dia chegou a usar um projeto próprio com dezenas de CPPs e centenas (milhares?) de linhas de código utilizando 100% boost para a comunicação em rede, sendo compilável e rodável nos ambientes Windows e Linux.
+
+## Programação em C para microcontroladores (Daniel Quadros)
+
+Estava particularmente interessado nessa palestra para entender alguns truques e jogos-de-cintura necessários para utilizar a linguagem C em ambientes tradicionamente limitados em memória e poder de processamento. E, posso dizer, saí satisfeito.
+
+O panorama traçado por DQ dos inúmeros tipos de microprocessadores, suas "linhagens" e diferentes arquiteturas nos permitiram entender as dificuldades em implementar e usar um compilador C para programar em sistemas embarcados. Mais ainda, fez ver a importância de, antes de programar, entender de fato como o hardware funciona para daí pensar em fazer algo útil com ele.
+
+Ao final, um destaque especial para os conselhos finais sobre o desenvolvimento nessa área. Um conselho em específico ficou na minha mente, pois acredito que seja de extrema importância não só para sistemas embarcados, como para todo tipo de desenvolvimento: sempre pense em como será a depuração do sistema no projeto e em campo. Nunca se sabe onde e como o bug poderá ocorrer. Que ele existe, todos sabemos.
+
+## Desenvolvimento cross-platform em C++ com Qt (Basílio Miranda)
+
+Algumas coisas que me impressionaram na palestra anterior sobre wxWidgets me impressionaram mais ainda pelas explicações do funcionamento do Qt em suas diversas plataformas suportadas. Aos poucos entendemos que desenvolver frameworks de ambiente gráfico multiplataforma nem sempre é aquela coisa bonita e abstrata que imaginamos possível de fazer com as maravilhas da linguagem C++. No fundo, muitas das coisas relacionadas com o funcionamento do núcleo desses sistemas é feito com alguns "remendos" sintáticos e semânticos que só os projetistas devem realmente saber explicar o porquê.
+
+Por outro lado, o cuidado com a documentação e com os exemplos do ambiente Qt confortaram bastante o entusiasta que deseja explorar esse outro mundo de janelas além-Microsoft. Para os que reclamam do preço abusivo da licença da versão comercial, pode ser um alívio saber que projetos desenvolvidos com a licença GPL estão isentos de taxas, mesmo que comercializados. É uma questão de testar, medir e escolher alguma das alternativas.
+
+## Arquitetura e desenvolvimento de _drivers _com C para Windows (Fernando Silva)
+
+Voltando para o mundo microsoftiano, o foco da palestra do Fernando foi explicar os princípios básicos por trás do funcionamento do sistema operacional Windows desde a época que ele era um prompt do DOS. Como pudemos ver, essa é uma condição sine qua non para o desenvolvimento de drivers para essa plataforma, visto que são componentes que interagem diretamente com o sistema operacional, de código fechado, e muitas vezes com o hardware, uma caixinha de surpresas.
+
+Entre outras coisas, vimos como funciona a divisão entre os modos usuário e kernel, qual a organização da memória virtual, a importância dos níveis de prioridade de thread no desenvolvimento de drivers e, é claro, como podemos começar a desenvolver drivers desde já e gerar aquelas bonitas telas azuis.
+
+Ao final pudemos ver que foi um tema que gerou interesse especial do grupo, pois houve várias perguntas, como por exemplo se existe uma maneira de proteger o sistema operacional dos drivers (isso poderia gerar um artigo). Imagino que a palestra foi direto ao encontro do espírito do evento, que falou principalmente sobre o que cada um de nós faz com C/C++. Muito provavelmente temos uma montanha de assuntos diferentes e complementares que poderão ser cobertos nos próximos encontros.
+
+## Sorteios, mais eventos e agradecimentos
+
+No final, tivemos uma série de sorteios de livros-referência em C++, convites para o seminário C++ e algumas licenças de software. Por isso é importante lembrar aos que saíram antes que poderiam ter ganhado mais conhecimento, para que da próxima vez tentem apertar apenas mais um pouco seus compromissos.
+
+Além das palestras, tivemos o relato de Fábio Galupo sobre o que foi o SD West 2008, o evento que reuniu alguns gurus do C++ para discutirem, entre outras coisas, o futuro da linguagem. Entre outras tantas coisas interessantes que ele nos trouxe, achei duas particularmente interessantes.
+
+A primeira diz respeito à importância do bom uso de interfaces entre os programadores C++. Esse foi um tema levantado por Bjarne Stroustrup em uma de suas palestras, e é de fato algo preocupante em nossa linguagem, que não possui ainda uma organização tão produtiva quanto outros grupos de desenvolvedores.
+
+A segunda diz respeito à necessidade de aprendermos outras linguagens. Na posição de desenvolvedores de sistemas que vão interagir com o mundo afora, é de suma importância que conheçamos nossos vizinhos mais próximos: desenvolvedores da camada acima que irão aproveitar o nosso código rápido e leve.
+
+Após isso, ainda tive uma das mais felizes surpresas da minha vida: ganhei um exemplar do The C++ Programming Language, Special Edition, assinado por Bjarne Stroustrup!!! Foi um momento tão estupefato que nem sei direito o que eu fiz naquela hora, além de me levantar, agradecer mal e porcamente meus amigos da bancada (eu sei que para um presente desses não existe maneira de agradecer o suficiente), pegar meu livro e sentar novamente, ainda um pouco atordoado. Essas supresas podem matar!
+
+Aproveito o final deste artigo para mais uma vez agradecer toda a organização do evento e, por que não, a todos da comunidade que puderam participar. Como alguém bem disse mais uma vez, a comunidade somos nós, e não um ou outro que costumam ser o porta-voz de nossos movimentos. Portanto, a todos que usam C e C++ de alguma maneira em algum momento de suas vidas, sintam-se honrados de participar do seleto grupo do EPA. Nós merecemos.
+

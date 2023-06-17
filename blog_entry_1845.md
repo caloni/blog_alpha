@@ -1,46 +1,29 @@
 ---
 
-O [Fabio Montefuscolo](https://gist.github.com/fabiomontefuscolo) expandiu mais ainda o acesso do conversor Houaiss para Babylon implementando uma versão em Python, uma linguagem que estou aprendendo a adorar. Tudo é mais simples, rápido e direto em Python, e o [código que ele escreveu](https://gist.github.com/fabiomontefuscolo/9234485) utiliza todo esse potencial:
+Depois da analogia entre depuração e CSI, nada como fazer o mesmo com o seriado estilo House.
 
-```
-#!/usr/bin/python2
-# -*- coding: utf-8 -*-
+Quais as semelhanças com a profissão de programador-depurador?
 
-#
-# Coloque esse script na pasta com os arquivos dhx.
-# O resultado estarÃ¡ em iso-8859-1
-#
+Em primeiro lugar, a busca por pistas. Se algo está errado com o programa, vivemos criando teorias mirabolantes a respeito do porquê tal função estar retornando zero. No entanto, como não temos tanta capacidade adivinhatória assim, geralmente nossos palpites estão errados, e o fundo do poço irá nos mostrar uma outra função que nem estava ainda na história.
 
-#
-# Segui o tutorial em http://www.caloni.com.br/conversor-de-houaiss-para-babylon-parte-1
-#
+Mas existem alguns pontos-comuns de conhecimento que sempre desenvolvemos no decorrer da carreira:
 
-import os
+  * Se a última instrução do código é zero (ou algo próximo disso), provavelmente a pilha foi corrompida por alguém que tentou zerar uma variável, e junto dela o ponto de retorno de alguma função chamadora.
 
-files = os.listdir('.')
+  * Se um programa trava em um determinado momento, voltando após um período previsível de tempo (30 segundos), automaticamente sabemos que existe algum evento/mutex usado de forma errada que, dadas as circunstâncias, apresentou uma espera longa demais.
 
-for arq in files:
-    if not arq.endswith('dhx'):
-        continue
+  * Se uma versão nova capota em um procedimento em que a versão antiga nunca capotou, podemos divagar rapidamente quais as características da nova versão que fizeram com que isso acontecesse, ainda sem olhar para o código.
 
-    print 'Abrindo "%s"' % arq
-    origin = open(arq, 'r')
-    target = open('%s.txt' % arq, 'w+')
+Dessa forma é possível criar teorias a partir da análise mental do que o programa normal deveria estar fazendo, mas não está. É esse tipo de análise que é feita no seriado.
 
-    char = origin.read(1)
-    while char:
-        byte = ord(char) + 0x0B
-        new_char = chr(byte % 256)
-        target.write(new_char)
-        char = origin.read(1)
+Porém, o lado bom: podemos testar todas nossas hipóteses. Na vida real! Se, por enquanto, matar pacientes para depois ressuscitá-los é coisa de ficção, matar sistemas e reiniciá-los não é. E, dependendo do problema, podemos sempre replicá-lo em "outro paciente".
 
-    origin.close()
-    target.close()
-
-```
+Talvez isso faça a profissão tão realizadora e viciante: para resolver um problema, geralmente temos todas as cartas na mão, e se não temos, fazemos ter. Afinal de contas, somos nós que iremos ressuscitar o sistema perdido.
 
 ---
-categories: []
-date: '2008-12-30'
-tags: null
-title: HouaissParaBabylon versão 1.1
+categories:
+- writting
+date: '2022-05-18T21:40:06-03:00'
+tags:
+- series
+title: House M.D.

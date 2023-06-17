@@ -1,20 +1,16 @@
 ---
 categories:
 - writting
-date: '2016-10-21'
-link: https://www.imdb.com/title/tt4365518
+date: '2013-05-27'
+link: https://www.imdb.com/title/tt0099077
 tags:
 - movies
-title: Tempestade de Areia
+title: Tempo de Despertar
 ---
 
-A filmografia por trás da cultura do Oriente Médio vira e mexe acaba girando em torno dos costumes antigos de uma cultura predominantemente "machista e opressora". Em Tempestade de Areia, isso não é diferente. Contudo, encarando como toda a questão desenvolvida pelo filme consegue ser aplicada a qualquer sociedade e qualquer costume, vemos que muitas das nossas próprias ações, nós, do "mundo civilizado do Ocidente", que acreditamos ser atribuída à nossa liberdade de escolha, são apenas reflexos de uma cultura que já existia antes de nós existirmos. Onde está o seu livre-arbítrio agora?
+Robin Williams é sempre Robin Williams. Felizmente, esse fato não é o suficiente para estragar um filme que se esforça de maneira tocante ao tentar estabelecer uma conexão entre quem assiste e o drama dos pacientes que, sem se mover por décadas, conseguem experimentar milagrosamente uma janela de normalidade.
 
-A direção do estreante Elite Zexer torna tudo imediatista com sua câmera que não para (comparável com outro filme de destaque na região, "A Separação") e que observa a realidade quase sempre do ponto de vista da personagem mais atingida: a esposa mais velha. O filme começa com uma discussão entre o pai e a filha, que está tentando dirigir sendo a todo momento criticada por ele, que não coloca os olhos na estrada vazia. E a história continua com o pai tendo a opinião final de quase tudo que gira em torno de sua casa, a despeito de ser sua primeira esposa o pilar da família, a que cuida para que tudo funcione, que as crianças vão para a escola, etc.
+Porém, o mais interessante é poder analisar a "normalidade" na rotina de um hospital. O próprio doutor/pesquisador (Williams) precisa abrir uma grade todo dia para vislumbrar um pedaço do sol e das pessoas comuns. A vida comum pode ser vista como uma vantagem se presa cada vez mais à rotina e convenções? Leonard (de Niro), o paciente mais perspicaz, preso por 30 anos em um corpo que envelhecia sem vivenciar, consegue descobrir mais rápido que o introspectivo e desajeitado doutor. A falta de uma vida pode ser um sintoma válido tanto na rua quanto no hospital.
 
-As características físicas da velha esposa e da nova esposa já determinam quem está com a vida ganha e quem está sofrendo o martírio de uma vida não-escolhida por ela, mas que agora é sua inteira responsabilidade. Ela é o braço-direito de seu dono, e zela pelo futuro da filha mais velha, que está de namoro com um jovem de outra tribo. Quando a questão vem inevitavelmente à tona para o pai, a questão se complica e temos um conflito de liderança nas decisões basicamente culturais de "quem é que manda", ou melhor dizendo, "como as coisas devem ser feitas". A decisão nunca está nas mãos de alguém.
-
-A interpretação de todos está impecável, mas é Ruba Blal que segura nas costas a responsabilidade de demonstrar as incongruências de um sistema criado há milênios e que hoje encontra problemas na realidade. o entanto, o filme é muito mais sobre os detalhes sutis do que essas pessoas precisam fazer para tentar valer suas próprias decisões em vez do que está escrito na pedra, e é nesse ponto que ele se encontra com a força dos costumes, seja em um povo tribal ou em uma megalópole, no campo, enfim, em qualquer lugar onde haja pessoas o suficiente para serem criadas regras que irão delinear como cada um deve agir.
-
-E se o final do filme parece triste é porque ele é a conclusão lógica do que acontece com cada um de nós, preso ao sistema social vigente. A última tomada não está enfocando a próxima geração à toa. É a triste constatação de que, enquanto inocentes, nada podemos inferir. No entanto, depois de crescidos, talvez isso não mude muita coisa, mesmo que a gente acredite piamente estar no controle da situação.
+Tocante em muitos momentos ingênuos, mas desnecessariamente forçado em outros, Tempo de Despertar sofre de uma leve esquizofrenia ao não decidir se quer contar um drama filosófico ou um melodrama de hospital. Mesmo assim, um filme delicioso de ver e rever com o passar dos anos. O ser humano, pelo visto, precisa de algumas doenças para se sentir vivo.
 

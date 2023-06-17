@@ -1,19 +1,20 @@
 ---
 categories:
 - writting
-date: '2021-10-27T22:30:15-03:00'
+date: '2014-09-20'
+link: https://www.imdb.com/title/tt0457510
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Na Prisão Evin
+title: Nacho Libre
 ---
 
-Uma das sacadas da direção dupla deste longa-metragem sobre uma mulher transgênero é nunca mostrar a face de Amen. Curioso, mas não original, a história inteira se passa sob seu ponto de vista. Os personagens olham para a câmera como se estivesse olhando para ela. Isso acaba se tornando repetitivo, pois o estilo impõe a percepção. Porém, assim como o destino de Amen, não há mais volta. Na Prisão Evin nunca se trai sobre seu método de filmagem, mas o preço é perder em expressão.
+Comédias com Jack Black e Jim Carrey não são protagonizadas por atores atuando, mas antes por comediantes que usam a oportunidade para fazer suas esquisitices e deixar a plateia rir no vácuo de suas piadas muitas vezes de gosto duvidoso.
 
-Isso acontece porque não se identifica com o que não se vê. OK, pode-se dizer que nos identificamos com o personagem de O Escafandro e a Borboleta (ótimo argumento o seu, aliás), mas nesse caso ouvimos o pensamento do personagem de Mathieu Amalric, que é razoável e compreensível, além de em umas poucas tomadas vermos seu rosto e sua condição moribunda e objetificada. Com isso sabemos instintivamente que há um ser humano do outro lado da tela, e não uma pessoa filmando uma festa, como geralmente esses vídeos com todo mundo olhando para a câmera se parecem. E no caso deste filme da Mostra uma festa fúnebre.
+Aqui Jack Black é Nacho, que sonha em ser um astro da luta livre, mas que por enquanto tem que se contentar com seu emprego de cozinheiro (e frade) para órfãos de uma igreja isolada da cidade. Enquanto isso, surge por algum motivo uma nova professora para os meninos (são todos meninos) que é uma freira/interesse amoroso "how-convenient" para o nosso "herói" (a belíssima Ana de La Leguera).
 
-Portanto, se sacrifica a identificação com o espectador pela ideia mal-concebida de amar o que não vemos, mas, pior do que o personagem já comparado de O Escafandro, não vemos e não ouvimos. Quero dizer, ouvimos suas falas, mas elas são automáticas, robotizadas, esquemáticas. Amen responde ao que lhe perguntam como um autômato, e faz seus questionamentos na mesma moeda: sem emoção. Ela está lendo um roteiro e confusa sobre isso. "Quando que eu devo atuar?" E o filme termina.
+Aliando-se a um bandido que o havia roubado, a dupla se torna uma sensação na cidade, apesar de sempre perderem as lutas que participam. Ambiciosamente buscando sua fama através do lutador mais famoso e talentoso "do mundo" (que está na tal cidade de Nacho), buscam um golpe de mágica para conseguirem milagrosamente ficarem bons de luta livre sem nunca sequer terem treinado para tal (exceto uma corrida na terra, uma luta contra uma colmeia de abelhas e mais algumas esquisitices).
 
-O texto da dupla de diretores Mehdi e Mohammad Torab-Beigi não é ruim. Te leva a acreditar na situação. As atuações nos levam menos. Apenas o mistério mantém vivo o interesse. Uma metáfora envolvendo uma borboleta não. É brega e velho. Clichê para os Ocidentais aplaudirem o cinema do Oriente Médio "evoluindo" como nós. Talvez seja simbólico não mostrar frente às câmeras um transexual. Talvez seja uma lei não-escrita do país em que foi produzido. De ambas as formas uma escolha duvidosa para a arte.
+Geralmente o que funciona no filme são as piadas visuais, notadamente a forma usada pelos dois para costurar seus uniformes, pegando cada parte de elementos do cotidiano. Também funciona a participação do engraçadíssimo Héctor Jiménez como Esqueleto (o parceiro de Black), que, não importa o que fale, sempre arranca um riso com sua presunção hilariante. O que não funciona mesmo é a história, que está desprendida em episódios que não ganham impulso algum e estão meramente encadeados em uma sequência que dá a entender que o tal golpe mágico parece estar funcionando.
+
+Ou será que tudo não é fruto de um roteiro preguiçoso que simplesmente vai colocando os heróis sempre um passo mais próximo de suas ambições? Pois é, tudo para que esses comediantes tenham mais um tempinho para mostrar suas caretas e fazer suas esquisitices. Nesse caso, nem isso parece surtir muito efeito.
 

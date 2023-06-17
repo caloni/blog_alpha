@@ -1,25 +1,144 @@
 ---
-
-O livro de Ana Maia Bahiana é cativante do começo ao fim. Ele dá dicas sem frescuras e para o cinéfilo amador -- aquela pessoa que adora ver filmes, mas não sabe muito sobre sua criação nem como escolher um filme ou apurar seu gosto -- e ao mesmo tempo evita a todo custo soar pedante, crítica ou pior: erudita. Muito pelo contrário: o conteúdo é informativo e atinge das camadas mais básicas (como funciona a indústria de Hollywood) até as mais controversas (o que é gênero?).
-
-Minha única bronca com esse livro é sua diagramação. Sua forma de abrir parênteses para curiosidades e aqueles quadros "saiba mais" quebra o ritmo da leitura principal. Literalmente. Estamos lendo uma empolgada defesa dos terrores mais eficientes, no meio de um parágrafo, quando de repente surge uma página preta com curiosidades sobre um certo diretor. Duas páginas inteiras! Isso faz ou que paremos de ler o que estávamos lendo ou percamos a página preta depois de terminada a leitura do principal. Esse modelo simplesmente não funciona bem.
-
-Tirada essa pedra de lado, haverá também leitores folheando a sessão de Cinema na livraria ou bisbilhotando a capa da pessoa do lado no metrô que constatarão, horrorizados, como é de mal gosto um livro que se predispõe a ensinar às pessoas algo que "todos já sabem". Afinal de contas, qual a dificuldade de sentar na poltrona/sofá e apertar o play/comer a pipoca? A arrogância do espectador eventual é esperada, e até certo ponto do cinéfilo mais... "ingênuo".
-
-Porém, é exatamente sobre isso que o livro trata. Ele ensina que nós de fato não, não sabemos como assistir filmes e aproveitá-los ao máximo. Seja a pessoa que vai pela primeira vez no cinema ou o crítico de longa data, estamos sempre reaprendendo formas de enxergar uma película, assim como diretores ousados reinventam a forma a todo momento, com resultados mistos. Entender que a humildade na hora de ver um filme é sua arma mais poderosa para extrair o máximo da experiência -- mesmo que seja um péssimo filme -- é a chave que o livro de Ana Maria tenta passar.
-
-Acostumada ao ecossistema do filme, Bahiana nos apresenta toda a criação de um filme, suas influências artísticas (e monetárias), dando exemplos bem populares da sétima arte e misturando parcimoniosamente com filmes e diretores clássicos, mas não muito conhecidos, do público em geral. Com isso, ela automaticamente faz uma contribuição ao cinéfilo amador que ele não vai enxergar como um "vai estudar!", mas mais como um "esses filmes que você adora certamente são incríveis; provavelmente você vai gostar desses outros aqui".
-
-Além disso, a discussão em torno do que faz um filme ser ótimo, quais as principais regras de roteiro, de direção, de fotografia, figurino, trilha sonora e a edição são momentos que poderiam ser pesados se estivéssemos falando de um compêndio excessivamente didático ou perfeccionista. Porém, Ana Maria, assim como os filmes de que tanto fala, sacrifica a exatidão por algo muito mais louvável: prender a atenção de seu "espectador". Com isso, tanto cinéfilos mais exigentes quanto os mais iniciantes poderão se beneficiar do conteúdo sem bocejar.
-
-E arrisco dizer que até cinéfilos mais seletivos e menos abertos a novas visões poderiam se beneficiar de partes do livro, se estiverem dispostos a arriscar sair só um pouco do lugar-comum, ou de sua zona de conforto da comédia romântica ou filme de ação.
-
-Dessa forma, Como Ver um Filme é uma obra única, pois chama a atenção para todos os tipos de pessoas que simplesmente gostam de ver filmes mais que a média, ou o suficiente para ler esse livro. Seja você um leitor ávido de literatura da Sétima Arte, ou apenas um apreciador eventual da máquina de sonhos, tenho certeza que irá se beneficiar do seu conteúdo. E de sua forma (mas esqueça as páginas pretas).
-
----
 categories:
 - coding
-date: '2023-04-11'
-tags:
-- interview
-title: Como verificar se um número é primo
+date: '2011-05-22'
+tags: null
+title: Comparando strings no WinDbg
+---
+
+O WinDbg fornece aos programadores diversos meios (muitos redundantes) de comparar valores inteiros em quaquer lugar da memória, em qualquer tamanho (8, 16, 32, 64 bits). Porém, quando precisamos comparar strings, que todos sabem ser uma sequência de bytes de tamanho arbitrário (se for em C, até o zero terminador).
+
+Uma solução simples e rápida é comparar os 4 primeiros bytes de uma string, ou os 4 primeiros bytes que diferem de uma lista grande.
+
+Por exemplo, imagine o seguinte código que abre todos os arquivos da pasta de sistema:
+
+```
+#define _CRT_SECURE_NO_WARNINGS
+#include <Windows.h>
+#include <stdio.h>
+
+int main()
+{
+	CHAR sysPath[MAX_PATH];
+	CHAR findPath[MAX_PATH];
+
+	GetSystemDirectory(sysPath, MAX_PATH);
+	sprintf(findPath, "%s\\*.*", sysPath);
+
+	WIN32_FIND_DATA findData;
+	HANDLE findH = FindFirstFile(findPath, &findData);
+
+	if( findH != INVALID_HANDLE_VALUE )
+	{
+		do
+		{
+			CHAR filePath[MAX_PATH];
+
+			sprintf(filePath, "%s\\%s", sysPath, findData.cFileName);
+			HANDLE fileH = CreateFile(filePath, GENERIC_READ, 
+				FILE_SHARE_READ, NULL, OPEN_EXISTING, 0, NULL);
+
+			if( fileH )
+			{
+				CHAR firstBytes[4];
+				DWORD wasRead = 0;
+
+				if( ReadFile(fileH, firstBytes, 4, &wasRead, NULL) && wasRead == 4 )
+				{
+					printf("%s: %02X %02X %02X %02X\n", findData.cFileName,
+						(int) firstBytes[0], (int) firstBytes[1], 
+						(int) firstBytes[2], (int) firstBytes[3]);
+				}
+
+				CloseHandle(fileH);
+			}
+		}
+		while( FindNextFile(findH, &findData) );
+
+		FindClose(findH);
+	}
+}
+```
+
+Queremos colocar um breakpoint no momento em que o arquivo shell32.dll estiver sendo aberto. Para isso, devemos nos atentar para os parâmetros passados para a função CreateFile.
+
+    
+    windbg strcmpwindbg1.exe
+    
+    0:000> bp kernel32!CreateFileA
+    
+    Breakpoint 0 hit
+    
+    eax=001bf918 ebx=7efde000 ecx=001bf7e0 edx=001bf7e0 esi=001bf824 edi=001bfd90
+    
+    eip=7663ca6e esp=001bf804 ebp=001bfd90 iopl=0         nv up ei pl zr na pe nc
+    
+    cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+    
+    kernel32!CreateFileA:
+    
+    7663ca6e 8bff            mov     edi,edi
+    
+    0:000> da poi(esp+4)
+    
+    001bf918  "C:\Windows\system32\accessibilit"
+    
+    001bf938  "ycpl.dll"
+    
+    0:000> g
+    
+    Breakpoint 0 hit
+    
+    eax=001bf918 ebx=7efde000 ecx=001bf7e0 edx=001bf7e0 esi=001bf824 edi=001bfd90
+    
+    eip=7663ca6e esp=001bf804 ebp=001bfd90 iopl=0         nv up ei pl zr na pe nc
+    
+    cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+    
+    kernel32!CreateFileA:
+    
+    7663ca6e 8bff            mov     edi,edi
+    
+    0:000> da poi(esp+4)
+    
+    001bf918  "C:\Windows\system32\ACCTRES.dll"
+    
+O padrão aqui é que todo path passado para o CreateFile vai começar com c:\windows\system32, o que não é uma informação que podemos usar para buscar um arquivo específico.
+
+Temos que nos atentar para o padrão de bits após esse path. Vamos dar uma olhada por dentro da string.
+
+    0:000> db 001bf918
+    001bf918  43 3a 5c 57 69 6e 64 6f-77 73 5c 73 79 73 74 65  C:\Windows\syste
+    001bf928  6d 33 32 5c 41 43 43 54-52 45 53 2e 64 6c 6c 00  m32\ACCTRES.dll.
+    001bf938  79 63 70 6c 2e 64 6c 6c-00 cc cc cc cc cc cc cc  ycpl.dll........
+
+O nome do arquivo começa no offset 16+4 = 20, ou 14 em hexa. Dessa forma, podemos capturar o padrão de bits da seguinte maneira:
+
+    0:000> dd poi(esp+4)+14 l1
+    001bf92c  54434341
+
+Para nos certificarmos que é realmente esse o padrão, e para já montarmos nosso próprio padrão para o shell32.dll, vamos alocar um pedaço de memória e verificar se a sequência de bits está correta.
+
+    0:000> dd poi(esp+4)+14 l1
+    001bf92c  54434341
+    0:000> .dvalloc 100
+    Allocated 1000 bytes starting at 00030000
+    0:000> ea 00030000 "ACCTRES.dll"
+    0:000> dd 00030000 l1
+    00030000  54434341
+
+Ótimo. Os padrões bateram, então podemos colocar um breakpoint condicional partindo do padrão de bits do nome do arquivo que precisamos.
+
+    0:000> bp kernel32!CreateFileA "j (poi(poi(esp+4)+14)=6c656873) ''; 'g'"
+    breakpoint 0 redefined
+    0:000> g
+    eax=0021f48c ebx=7efde000 ecx=0021f354 edx=0021f354 esi=0021f398 edi=0021f904
+    eip=7663ca6e esp=0021f378 ebp=0021f904 iopl=0         nv up ei pl zr na pe nc
+    cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000246
+    kernel32!CreateFileA:
+    7663ca6e 8bff            mov     edi,edi
+    0:000> da poi(esp+4)
+    0021f48c  "C:\Windows\system32\shell32.dll"
+    
+Com isso, economizamos alguns minutos de puro tédio, verificando os nomes um a um conforme eles são abertos. Ou, dependendo da massa de dados, algumas décadas. Quem sabe. Pode ser muito mais útil um outro dia.
+

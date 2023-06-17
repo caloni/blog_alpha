@@ -1,33 +1,100 @@
 ---
 categories:
-- playing
-date: '2023-01-17T22:19:20-03:00'
-link: https://www.chess.com/game/live/67741344001
+- coding
+date: '2022-11-20T16:10:12-03:00'
+link: https://youtu.be/i9Focx4UXnc
 tags:
-- chess
-title: Partida boa, mas computador não acha tanto
+- ccpp
+title: Passagem de Parâmetros C vs C++
 ---
 
-Pretas jogam e é mate em dois.
-
-{{< image src="board.png" >}}
+Em C não é necessário declarar os parâmetros que uma função recebe. Isso é implícito. A linguagem C foi criada para ser um amontoado de assembly descrito com um pouco de syntax sugar e juntado pelo linker através de uma tabela de nomes. O que importa são os nomes. Vamos exemplificar:
 
 ```
-[Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2023.01.18"]
-[White "dudeperfect4"]
-[Black "cavaloni"]
+int main()
+{
+  int c = func(10, 20);
+  return c;
+}
 
-1. e4 c5 2. Bc4 Nc6 3. c3 Nf6 4. Qe2 Ne5 5. d3 Nxc4 6. dxc4 e5 7. Nf3 Bd6 8. O-O
-h6 9. Be3 O-O 10. h3 Re8 11. Nbd2 Qb6 12. Nb3 a5 13. Rab1 a4 14. Nbd2 Qc7 15. b3
-a3 16. b4 b6 17. Nb3 Nxe4 18. Qc2 Bb7 19. bxc5 bxc5 20. Rfd1 Re6 21. Nh4 Be7 22.
-Nf5 Bg5 23. Bxg5 Nxg5 24. Ne3 Nf3+ 25. gxf3 Bxf3 26. Rd3 {Este foi o erro fatal
-das brancas, que estão à mercê de um xeque de Torre e muitos ataques pra cima do
-rei adversário; difícil defender.} ({Bxf3 equilibra porque Cd5 impede a Dama de
-continuar na diagonal, já que em b8 ela está exposta ao ataque da Torre. Por
-exemplo:} 26. Nd5 Qb8 27. Nd2 Rg6+ 28. Qxg6 fxg6 29. Rxb8+ Rxb8 30. Nxf3) 26...
-Rg6+ {Este lance ainda não é bom, pois Cg4 segura.} 27. Kh2 {Agora já não deu
-mais: mate em 2.} 27... e4+ 28. Rd6 Qxd6# 0-1
+func(int a, int b)
+{
+  return a + b;
+}
 ```
+
+Viu? Você nem precisa conhecer o nome na hora de chamar a função no main. Duvida? Veja o vídeo desse post. Se você colocar cada função em um arquivo separado mesmo assim o compilador compila e o linker acha tudo e tudo funciona.
+
+Isso pode gerar alguns problemas em tempo de execução, já que o linker, assim como o compilador, confia cegamente no programador. Isso acontece porque antigamente os programadores eram bons.
+
+```
+int main()
+{
+  int c = func(10);
+  return c;
+}
+
+func(int a, int b)
+{
+  return a + b;
+}
+```
+
+Para que programadores que não são bons conseguissem programar em código nativo algumas facilidades surgiram na linguagem C++, como a declaração de função sendo levada a sério. No padrão C isso também foi levado em conta. Se você possui uma declaração de função o compilador irá checar os argumentos.
+
+```
+func(int a, int b);
+
+int main()
+{
+  int c = func(10);
+  return c;
+}
+
+func(int a, int b)
+{
+  return a + b;
+}
+
+error C2198: 'func': too few arguments for call
+```
+
+Em C++ com o mesmo código:
+
+```
+error C4430: missing type specifier - int assumed
+error C2660: 'func': function does not take 1 arguments
+error C4430: missing type specifier
+```
+
+Aí vem a questão de como declarar uma função em C++ que não recebe nada. Isso é uma boa prática, mas não obrigatório.
+
+```
+int func();
+
+int main()
+{
+  int c = func();
+  return c;
+}
+
+int func()
+{
+  return 23;
+}
+```
+
+O código acima compila normalmente. E roda. Mas se você por algum motivo está com projeto que tem C arcaico misturado com C++ e precisa definir melhor como as funções se comportam faz assim:
+
+```
+int func(void);
+```
+
+Isso vai funcionar em C e em C++. Em C, se você usar essa declaração e mesmo assim passar argumentos ele irá dar um warning:
+
+```
+warning C4087: 'func': declared with 'void' parameter list
+```
+
+Mas vai deixar rodar. Em C++ não tem jeito. Em C++ ele assume que você não é um bom programador.
 

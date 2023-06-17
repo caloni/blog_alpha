@@ -1,25 +1,18 @@
 ---
-
-"Se não fosse o governo, os pobres morreriam de fome." Quantas vezes já não se ouviu essa argumentação em acaloradas discussões políticas, geralmente no conforto do lar? No entanto, ninguém morre de fome nesse filme, assim como dificilmente alguém hoje em dia morre de fome no mundo civilizado. Se há algo que morre (e esta é uma morte lenta e dolorosa) é a dignidade das pessoas honestas e trabalhadoras. E isso, podemos dizer com um certo grau de certeza, milhões de pessoas vivendo sob o regime de bem-estar social morrem, pelo menos um pouco, todos os dias. E a grande virtude de "Eu, Daniel Blake", novo filme de Ken Loach, é desvendar esse processo com o mínimo de dramatização possível.
-
-Seu herói é o Daniel Blake do título, vivido como um verdadeiro mártir por Dave Johns. Ator e comediante stand-up, ele protagoniza logo no início o diálogo que irá criar seu conflito, ainda às escuras, nos créditos iniciais. Enquanto não o vemos, um pouco de humor pode ser extraído do tom sarcástico e impaciente de Johns, que luta internamente para conseguir responder às ridículas perguntas de sua avaliadora de saúde. No entanto, assim que as cortinas se abrem e vemos o olhar indignado de Johns, não é possível mais dar risada de um homem que está à beira de deixar de ser um homem para virar apenas um número no intrincado, burocrático, ineficiente e fúnebre sistema trabalhista do Reino Unido.
-
-Este é um filme fácil de acompanhar. Ele não possui nuances em narrativa. Ele é a coisa verdadeira. Daniel vive em sua casa sozinho, viúvo de sua esposa que cuidou enquanto doente, por tanto tempo que agora sente a necessidade de ajudar outras pessoas. Quando ele conhece a jovem mãe solteira de dois filhos Katie (Hayley Squires) na fila para ser atendida pelo sistema público (ou melhor dizendo, não ser atendida por chegar atrasada alguns minutos), para ele soa natural ajudá-la a se estabelecer em sua nova casa e mantê-la por perto de um pouco de humanidade. Aos poucos ele vai ganhando a confiança de seus filhos, e sem que sequer notemos ele vira um complemento à família.
-
-Enquanto isso, ele vai criando relações com seu vizinho, apelidado de China por importar coisas de lá pelo correio. China tem um plano para sair da corrida dos ratos: contrabandear tênis de marca. A hora de trabalho de um jovem como ele não vale nada. A crise europeia varre todos os empregos, e o que restou foi um sistema de vagas que funciona apesar de não haver vagas, só com trabalhadores desempregados.
-
-Apesar deste não ser um filme extremamente dramatizado, as situações que seus personagens vivem acabam o sendo, já que a realidade dos pobres é muito mais cruel do que aparece na TV. Daniel recebeu o diagnóstico de que não deve trabalhar por causa do estado do seu coração, mas sua pontuação está abaixo do que o governo acha necessário para que ele receba ajuda financeira. Dessa forma, ele fica sem poder trabalhar e sem poder receber por não poder trabalhar. Já Katie entrou com um processo contra o dono do lugar onde morava pelas péssimas condições e acaba sendo despejada com seus dois filhos, e enxotada de Londres, novamente pelo sistema estatal. Ambos levaram um tropeço em suas vidas, e ambos não possuem onde se segurar para levantar.
-
-O céu cinzento da Inglaterra cai como uma luva nas mãos do diretor Ken Loach, que utiliza o roteiro simples e direto de Paul Laverty em construções que vão terminando em fades cada vez mais obscuros. A pobreza representada por sombras nas casas dos personagens (ou até sua exclusão da sociedade) e um azulejo que se quebra quando uma mãe tenta tornar o banheiro mais confortável para seu filho enquanto passa fome é o tipo de detalhe que empodera o discurso do filme, que encontra na desesperança dessas pessoas o combustível de sua revolta.
-
-Por fim, a questão que fica é a que reside na carta de Daniel Blake, que afirma ele não ser um cachorro, mas um cidadão, o que mereceria no mínimo o respeito à sua dignidade. Depois de termos assistido "Eu, Daniel Blake" uma outra questão, mais poderosa, é que permanece: um cidadão nos dias de hoje seria um tipo especial de cachorro, onde são dados alguns direitos, mas onde dignidade é algo opcional?
-
----
 categories:
 - writting
-date: '2015-10-09'
-link: https://www.imdb.com/title/tt2965412
+date: '2019-02-15'
+link: https://www.imdb.com/title/tt0183505
 tags:
-- cinemaqui
 - movies
-title: Eu Estava Justamente Pensando em Você
+title: Eu, Eu Mesmo e Irene
+---
+
+Não considero Eu, Eu Mesmo e Irene um bom filme. Não é um bom exemplo dos irmãos Farrelly (Débi & Lóide: Dois Idiotas em Apuros, Quem Vai Ficar com Mary, Passe Livre). Seu roteiro não foi bem trabalhado e depende de um narrador e situações inusitadas demais para juntar seus personagens. Mas algo que me incomoda: se ele nem é tão bom porque consigo me lembrar de praticamente todos seus momentos?
+
+Isso se deve a uma sensibilidade ímpar do que faz uma comédia humana mesmo que caricata. Rimos menos da situação do personagem de Jim Carrey, uma pessoa traumatizada que acaba revelando um alter ego bad boy Hank. Ele e sua parceira amorosa eventual Irene (Renée Zellweger, de O Diário de Bridget Jones). Porém, antes disso o filme nos amarra em uma família que é puro amor e afeto apesar das diversidades. Essa família é formada pelo simpático policial rodoviário Charlie e os três filhos que adotou de sua ex-mulher e amante. É na capacidade dos irmão Farrelly de tornar essa família tão importante para o road movie que o transforma em algo mais do que um pastelão sem sentimentos.
+
+E em cima disso há uma história pouco plausível envolvendo gângsters, uma polícia corrupta e um rapaz traumatizado por nunca mais tomar as rédeas de sua vida e que desenvolveu uma segunda personalidade que convenientemente aparece para nos fazer rir ou tirar das situações que ele próprio se colocou. É um filme com vários momentos inesperados porque ninguém espera que as duas personalidades do nosso herói sejam tão incompetentes. É um filme que não se preocupa em não soar politicamente incorreto ao brincar com um albino porque ele tem um coração maior que essas piadas pequenas.
+
+E por tudo isso é possível assistir e reassitir a "Eu, Eu Mesmo e Irene" e ainda gostar, sem sair com gosto ruim da boca como tantas comédias sem pé nem cabeça. Para você ver o valor que há em um filme que mesmo sem cérebro é cheio de coração.
+

@@ -1,18 +1,26 @@
 ---
 categories:
 - writting
-date: '2019-05-05'
-link: https://www.imdb.com/title/tt0246405
+date: '2011-05-19'
+link: https://www.imdb.com/title/tt1385826
 tags:
 - movies
-title: Os 27 Beijos Perdidos
+title: Os Agentes do Destino
 ---
 
-Mais um filme russo dos anos 2k essa semana, filmado na Geórgia, Grécia, Alemanha, falado em russo, inglês, francês. Uma cidadezinha onde as jovens mulheres estão em polvorosa. Para piorar a cidade assiste Emanuelle as mil formas de amar. A única que não pode transar com seu grande amor, um professor de 41 anos, é a jovem Sibylla, de 14 anos. Enquanto isso o filho do professor tem direito a 100 beijos nessa menina, mas perde a chance de dar 27. Sim, a história é confusa desse jeito, além de ir a lugar algum.
+Em uma época em que religião e economia precisam ser reinventadas, a visão mesclada de ambas em uma organização fria e calculista não deixa de ser no mínimo curiosa. Porém, mais do que isso é constatarmos que os homens sisudos do filme têm por função coordenar algo que para nós, seres humanos, especialmente em tempos de crise, é sabidamente a única coisa de que realmente somos donos: o livre arbítrio.
 
-Mas esta produção russa tem seu charme cultural. Logo no começo, quando o ônibus chega na cidade trazendo Sibylla ele é bombardeado pelo Tenente que não consegue engravidar sua mulher, a igualmente deliciosa Veronica; o ônibus perde o freio e fica dando voltas na praça para as pessoas descerem. Há metáforas para todos os lados sobre sexo, ou simplesmente sobre a vida, erotizada como em qualquer história com uma lolita que não se importa de ficar pelada onde quer que seja.
+Sabendo disso, e ainda de bônus o fato do personagem de Matt Damon ser um político popular, jovem e em ascenção, mas que ao mesmo tempo se questiona sobre suas prioridades, conseguimos, desde o início, um filme que aborda discussões pelo menos um passo adiante sobre algumas de nossas principais convicções sociais.
 
-Este é um filme cujos acontecimentos servem para belas sequências de ação sem muito motivo de ser e onde a erotização é uma atração, sim, e pode interessar os marmanjos, embora tenha um leve toque de gênero sobre puberdade e paixão juvenil. A bela paisagem ainda serve de recepção a um capitão francês que traz seu barco sem o mar, e mais metáforas sobre o sexo e a vida surgem.
+De forma que, quando vemos o discurso de David Norris (Damon), refeito na hora de improviso, que estigma desde já o nosso conceito de espontaneidade, explicando para um público completamente hipnotizado pelo seu poder de comunicação como os sapatos que ele calçou durante a campanha são desgastados meticulosamente para que ao mesmo tempo atraia o trabalhador comum e não afaste a elite do mundo financeiro, somos levados através de um pano de fundo realista para uma experiência no mínimo intrigante sobre o funcionamento da nossa própria realidade.
 
-Vibrante sem muita cadência, 27 Beijos Perdidos é daqueles filmes que vai de nenhum lugar a lugar algum, cansa em alguns momentos e em outros entretém. Será que é porque vamos belas mulheres nuas pelo caminho em cenas de sexo calientes como em Emanuelle? Pode ser. Mas estou pensando com a cabeça de baixo.
+E, de fato, existe algo durante toda a projeção que nos incita a ficarmos permanentemente curiosos a respeito do futuro de David e Elise, pois, ao mesmo tempo que descobrimos como esse futuro é construído, não conseguimos concebê-lo desde o início, condicionados que estamos com a evolução de uma narrativa cinematográfica clássica, com seus imprevistos e percalços necessários ao arco dramático de nosso protagonista.
+
+E é justamente nesse momento que percebemos a maior fraqueza do filme: não conseguir estimular os anseios dos dois personagens, fixando-se, no lugar, em descrever durante o trajeto a forma como os tais agentes trabalham e os problemas que precisam enfrentar para tornar tudo funcionando da maneira que foram instruídos para funcionar.
+
+No entanto, essa é uma parte necessária ao tema do filme, e muito bem-vinda, pois assim como em A Origem, precisamos de explicações muitas vezes didáticas de como as coisas funcionam nesse universo. O problema, contudo, é que, no terceiro ato, ao tentar voltar-se completamente para David e Eloise, o filme perca toda a construção feita até então para dar foco ao casal do filme que sequer conseguiu se definir na narrativa. Dessa forma, a decisão de David de vê-la mais uma vez, e para isso montar uma estratégia de guerra, soa forçado demais.
+
+Portanto, é de esfriar os ânimos que um filme que se entregue em seu início tão corajosamente a instigar o raciocínio de seus espectadores mais abertos à filosofia, em seu final se entregue justamente ao seu oposto, quase como se o próprio filme, vítima de um plano maior, precisasse reassumir o lado clichê das produções de Hollywood e voltasse à normalidade em seus últimos quinze minutos.
+
+Porém, não seria essa a finalização metalinguística do seu próprio criador?
 

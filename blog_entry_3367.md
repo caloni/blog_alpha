@@ -1,11 +1,12 @@
 ---
 categories:
 - writting
-date: '2017-08-10'
+date: '2021-01-14'
+link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-santa-helena/
 tags:
-- food
-title: Santa Ana Seleccion 2016
+- coffee
+title: Santa Helena Alfenas
 ---
 
-Sem ano, sem uva, de Mendoça/Argentina; Sem muito aroma ou sabor, custa 12 reais no mercado; corpo fraco. Tomando porque a Mitiko comprou pra fazer bebida doce.
+Café que chegou esse mês do Grão Gourmet possui tanino equilibrado e tons semi-cítricos. Pouco amargo, levemente doce.
 

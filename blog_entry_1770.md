@@ -1,19 +1,16 @@
 ---
 
-Este não é um vídeogame, mas um filme que utiliza completamente a estética dos jogos de tiro em primeira pessoa. Ele tem uma narrativa coesa, e ainda que não tão bem articulada, qual filme de ação você conhece que consegue ser tão realista a ponto de enxergarmos toda a ação do ponto de vista do mocinho? Pior: que filme de ação hoje em dia consegue te entregar todo o pacote 18+, com direito a sangue, esquartejamento, esmagamento, esfaqueamento e outros "mentos" por aí, e não aquelas brincadeiras de criança da Marvel?
+Esta segunda aventura da série de adaptações cinematográficas dos livros infanto-juvenis da escritora J. K. Rowling já soa mais episódica que seu primeiro e antecessor, mas mantém na magia, nas reviravoltas e nas ótimas atuações de seu elenco um pouco do lampejo de seu original. É óbvio que esta é uma produção que quer chamar mais atenção para seus efeitos, que convertem o fundo verde em torno de um carro "voador" para a magia de sobrevoar os céus de Londres em plena luz do dia. Mais detalhes sobre as relações entre bruxos e trouxas são revelados, e principalmente entre bruxos e bruxos.
 
-Além disso, apesar da premissa simples (mocinho se vê em apuros e tem que sair dele) há várias ideias interessantes por trás de "Hardcore Henry", que piscam para os gamers, mas que consegue extrapolar isso para a sétima arte. As múltiplas vidas de seu amigo Jimmy é apenas a mais óbvia. O que dizer do vilão, um ser que consegue controlar através de sua mão objetos e pessoas, fazendo-os flutuar? E de quem é a brilhante ideia de utilizar memórias de jogos... quer dizer, vidas passadas -- ou implantadas -- para trazer motivação por trás dos ciborgues construídos em cima de seres humanos, senão a de um "gamer" (que, no caso, é justamente o vilão do filme por manipular seus "soldados")?
+Este é um filme para apresentar novos personagens-chave que farão diferença em toda a saga, como Lucius Malfoy, pai do menino irritante da família rival da escola de Hogwarts onde Harry Potter e seus amigos vivem sua costumeira aventura anual. Esta também é uma aventura que nos mantém alertas para o mal presente do vilão da saga, Lord Voldemort, que não está presente em corpo ainda, mas que justamente por isso alimenta ainda mais nossa imaginação.
 
-Além disso, há longas sequências de ação, com cortes que não incomodam. O filme começa meio desajeitado, mas aos poucos vamos aprendendo essa dinâmica. Há um tom futurista, mas não muito. A bio-engenharia é o ponto mais interessante desse mundo. A fotografia consegue às vezes manter a coerência de iluminação mesmo entre dois cenários extremamente distintos (como um corredor mal iluminado e uma sala com computadores e uma grande janela). A edição está, como em apenas uma longa sequência, na elaboração dos objetos e atores em cena.
-
-E para o gamer é claro que há uma "recompensa". Imagine qualquer fase de seu game favorito, e provavelmente ela estará no filme. Há uso de quase todo tipo de arma, lutas corpo a corpo, estratégia de guerra, explosões, granadas, cenas aéreas. É um filme, acima de tudo, de sensações. Há um roteiro -- escrito pelo próprio diretor, Ilya Naishuller, que ficou famoso após seu excelente curta ganhar 30 milhões de visualizações no YouTube -- mas ele não precisa ir muito além. O humor utilizado na figura de Jimmy é mais que o suficiente. O vilão, infelizmente, é meio unidimensional. Mas, mais uma vez... estamos acostumados com isso, não?
+A grande atração dos computadores é um servo baixinho e de outra espécie chamado Dobby, dublado por Toby Jones, em mais um ponto para o grandioso e sério elenco britânico elevando a qualidade da série. Dobby está por trás de tantas reviravoltas que se torna cansativa uma revisita ao filme, que é facilmente desvendado, e cujos elementos fantásticos não sobrevivem muito além de pura diversão, o que se traduz para o mundo dos adultos que já conhecem toda a saga como sonolento. Mesmo observando as mágicas daquele início de século em computação, como uma aranha e uma cobra gigantes, falta substância que una as diferentes criaturas nesta parte da saga. É como se a continuação tivesse perdido o fôlego ainda que faltando vários livros por adaptar, mas que precisasse entregar mesmo assim este livro para o fim de ano.
 
 ---
 categories:
-- reading
 - writting
-date: '2021-10-16T12:39:56-03:00'
+date: '2019-12-27T18:24:00-03:00'
+link: https://www.imdb.com/title/tt0373889
 tags:
 - movies
-- quotes
-title: Harold Rosenberg
+title: Harry Potter e a Ordem da Fênix

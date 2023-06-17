@@ -1,24 +1,24 @@
 ---
 categories:
 - writting
-date: '2019-10-09'
-link: https://www.imdb.com/title/tt7367960
+date: '2013-01-02'
+link: https://www.imdb.com/title/tt2059255
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Ninja Xadrez
+title: 'No'
 ---
 
-Imagine conciliar as histórias de uma criança escrava de um sweatshop morta a pauladas, seguido da vingança de um ninja de pelúcia com o espírito de um guerreiro e, para finalizar, o desafio comum de um garoto apaixonado pela garota popular da escola. Agora responda rápido: quem deve assistir a esse filme? Crianças ou adultos? Seriam crianças com uma mente de adulto ou adultos que adoram humor negro, mas têm um coração de criança (guardado em um pote na dispensa)? Ninja Xadrez é um filme que mistura elementos pesados em uma narrativa infantil, conseguindo agradar, ou melhor dizendo, desagradar, adultos e crianças ao mesmo tempo.
+No poderia muito bem ser um documentário, uma vez que seu objetivo principal é aproximar o espectador pelo seu realismo. No entanto, a decisão de "estilizar" essa realidade com um pouco de ficção não poderia ser mais propício em um filme que, acima de política, trata dos detentores atuais do poder da influência no mundo: a publicidade.
 
-Ele tem uma animação tecnicamente competente, uma trilha sonora até que bacana, mas uma dublagem apática (as vozes que ouvimos nos créditos finais são melhores trabalhadas), impedindo uma conexão com seus personagens. Você não irá se lembrar muito bem dos detalhes da animação cinco minutos após assistir, pois são genéricos demais, cumprindo apenas a função primária de acertar seus estereótipos, seja uma criança tailandesa, um adulto dinamarquês ou um cachorro de raça agressiva.
+Quando o ditador chileno Augusto Pinochet decide, pressionado pela opinião pública de um mundo cada vez mais globalizado, realizar um plebiscito para decidir se ele ficaria no poder por mais 8 anos, duas campanhas opostas ganham cada uma 15 minutos de espaço na televisão: uma pelo Sim, outra pelo Não. O publicitário René Saavedra (Gael García Bernal) é procurado para conduzir a propaganda democrática. Bem de vida, é um dos primeiros a possuir um micro-ondas, e sem motivos para entrar em um debate que poderia manchar sua reputação com seus clientes, René é movido por um misto de vaidade profissional e pessoal. Pelo lado profissional classifica seus trabalhos como expoentes máximos da comunicação com o público. Pelo lado pessoal sua ex-mulher e mãe do seu filho é uma perseguida política, o que poderia pincelar um pouco de humanidade em sua enigmática expressão.
 
-Esse é um filme que "revela" as maldades do terceiro mundo ao mesmo tempo que aponta o dedo para a apatia do primeiro mundo, ou alguma similaridade no jogo de poder de ambos. Os vilões são pessoas da vida comum que justificam suas ações com o velho "se não fosse eu outro o faria", e os heróis são o espírito milenar de um ninja protetor de crianças e uma criança que só quer viver em paz na escola e em casa. Mas a criança irá se tornar a exceção a esta regra "se não fosse eu" que torna o mundo cada dia pior. O problema é que quando isso acontece é tarde demais e o filme já acabou.
+O uso da tela quadrada e câmeras que tremem a todo momento denunciam o tom documental e caseiro da produção, ganhando o filme de imediato duas vantagens: 1) evocar o realismo necessário à nossa imersão na disputa política e 2) não causar a fuga dessa imersão toda vez que vemos os resultados das campanhas gravados como vídeos com qualidade televisiva da época e exibidos em "tela cheia". Poderia até dizer que existe uma terceira vantagem aberta a interpretações: estamos na era de Pinochet e um quadrado representa de maneira simbólica a realidade limitante e sufocante da ditadura.
 
-Eu não creio que possa recomendar esse filme para pais levarem suas crianças, mas poderia para pessoas que gostam de animações com temática semi-adulta e um certo humor negro que luta para não ir longe demais. É o filme que faríamos quando crianças, mas apenas as que cresceram nos anos 80 e 90 para justificar o politicamente incorreto.
+A interpretação sóbria de Gael García Bernal (Má Educação, [O Passado]), nunca nos deixando perceber se ele de fato é a favor do "Não", consegue estabelecer um clima ambíguo ou pelo menos um futuro pálido ao não conseguirmos focalizar no filme se de fato a campanha tem dado certo com o público. Essa dúvida se torna tão eficaz que prova disso é ficarmos muitas vezes na incerteza de um evento ocorrido décadas atrás e teoricamente conhecido por todos. Ao mesmo tempo sua expressão praticamente inalterada ao acompanhar um projeto comercial em paralelo revela uma faceta interessantíssima do filme de Pablo Larraín (do filme Tony Manero), mesmo que levemos nossas ideologias para a sala de projeção e defendamos internamente nossas posições fica óbvio que o trabalho de René é pura publicidade e manipulação da opinião popular por meios não pensantes (o que traz à memória o plebiscito de 93 realizado no Brasil cuja presença de atores globais teve papel decisivo no resultado das urnas).
 
-O diretor Thorbjørn Christoffersen possui a imensa vantagem de colocar a câmera como quiser, mas a desperdiça, pois está viciado nos velhos planos de live-action sem computação. Pior do que isso, em alguns momentos são maus planos, que se unem pela movimentação errada da câmera, confunde o espectador, que ele corrige voltando para planos abertos e mostrando onde a ação se passa tudo de novo. Esta não é uma decupagem para melhor localizar o espectador, mas uma série de story boards que não se imaginou que terminariam em um filme.
+Quando ambas as campanhas vão avançando e aprimorando-se é inegável a força que o hino criado a favor do "Não" possui uma força incomparável com o apelo patético e repetitivo do Sim, cada vez mais caricato e vestindo suas tradicionais vestes acusadoras da oposição. Isso chega a ser sintomático nos dias de hoje, pois a democracia vendida pela campanha do Não possui um formato que não passa, de acordo com seu idealizador, de uma cópia barata de outras cópias.
 
-As piadas utilizadas por Christoffersen e Anders Matthesen, que assinam o roteiro, são velhas demais, mas você pode rir de algumas se não assistiu muitas animações ou comédias na vida. Para o resto de nós reconhecemos as piadas com um acenar de cabeça. E ficamos imaginando enquanto isso se haverá alguma parte da história que irá nos surpreender. Além disso, o roteiro junta elementos por coincidência, como o garoto é vizinho do empresário malvado e tem o nome idêntico ao do pai da garota que está afim. E quando a ação é movida para os minutos finais, a tensão é chapada, no estilo que o mocinho consegue ou não consegue. Não há elementos secundários para nos entreter. Até uma criança bocejaria se um ninja feito com cashmere não fosse tão fofinho.
+E de certa forma a própria democracia é posta em xeque quando ela pode vencer através não da coragem do seu povo, mas pela visão de pessoas felizes que poderiam estar votando pela sua liberdade e felicidade ou por qualquer outro motivo. Como comprar coca-cola, por exemplo.
+
+[O Passado]: {{< relref "o-passado" >}}
 

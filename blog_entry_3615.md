@@ -1,15 +1,13 @@
 ---
 categories: []
-date: '2014-07-16'
+date: '2014-08-11'
 tags: null
-title: 'TDC 2014: Segurança'
+title: 'TDC2014: Trilha de C/C++ teve palestras para todos os gostos'
 ---
 
-Nesse TDC, além da minha palestra usual na trilha C/C++ irei participar da trilha de segurança, voltando às minhas origens, quando programava em empresas da segurança da informação. Foram 10 anos!
+A trilha da nossa(s) linguagem(ns) querida(s) do coração(ões) desse ano foi bem heterogênea: Rodrigo Madera pegando na mão dos ainda não-iniciados na magia-negra da TMP; Fabio Gallupo audaciosamente rabiscando uma roupagem funcional para C++11 (e 14, e 17!); Felipe Lavratti abrindo o código do seu projeto para vermos como é possível organizar e modularizar bem um código em C (sem classes); eu me virando nos trinta sem slides explicando os três passos de geração de código C/C++ (dei impersonate na conta do Rodrigo Strauss); Fernando Roberto do DriverEntry mais uma vez nos impressionando com as gamb... adpatações técnicas Microsoftianas no Windows para fazer tudo funcionar sem o usuário perceber (só quando as coisas ficam azuis); Fernando Luiz Rizzato mostrando que a equipe ex-Borland continua mandando muito bem criando uma IDE de C++ que porta código para diversos dispositivos mobile; eu novamente jorrando um dump das minhas memórias de 10 anos depurando código com WinDbg e suas powertools; e, acreditem ou não, nossa primeirA palestrante amante de C contando sua experiência em diversos projetos em um stand-up animado movido a diversos gifs animados.
 
-Estão marcadas duas palestras nesse dia (quinta-feira, 7 de agosto de 2014): uma já ministradas outras vezes sobre o processo de engenharia reversa do dicionário Houaiss, que gerou tantas discussões nos comentários e versões alternativas (inclusive em Python!) do código. Aqui, além de já explicar o processo que me fez abrir o dicionário Houaiss para uso no Babylon, pularei a parte do uso no Babylon e irei focar mais nas técnicas de segurança que podemos utilizar para tornar essa engenharia reversa não impossível, mas pelo menos um pouco mais difícil.
+O negócio é que tivemos um dia bem atípico, com direito a lotação (!) de nossa sala logo pela manhã. Os organizadores Rodrigo Strauss e Vinicius Jarina tiveram que dar um pushback na lista de vectors da sala. E todos, aparentemente, estavam no lugar certo.
 
-Já a segunda palestra é bem rápida -- espero! -- e fala sobre um artigo que li de Laura Diane Hamilton sobre algoritmo de embaralhamento de cartas para saites de pôquer. Esse artigo, que irei demonstrar, explica diversas falhas do código de um saite e eu tentarei explicar brevemente maneiras de se aproveitar dessas falhas, além -- é claro -- de como se proteger contra isso!
-
-Então é isso aí, mais um dia, mais uma trilha, mais bits e bytes. Nos vemos por lá!
+Foi bom estar de volta nesse evento tão importante para mantermos os diferentes programadores unidos por um bem comum: mostrar que C/C++ está tão vivo como nunca!
 

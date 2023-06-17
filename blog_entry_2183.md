@@ -1,11 +1,20 @@
 ---
 categories:
 - writting
-date: '2021-06-21T11:33:00-03:00'
+date: '2019-03-24'
+link: https://www.imdb.com/title/tt0082694
 tags:
 - movies
-title: Machuca
+title: 'Mad Max: A Caçada Continua'
 ---
 
-Este denso drama chileno se torna leve aos olhos do espectador porque acompanhamos a vida dessas crianças como, por sua vez,  meros espectadores das transformações sociopolíticas do Chile na década de 70. É nas sutilezas que se encontra o subtexto que irá agradar o cinéfilo mais atento, como as questões ideológicas e em que espectro político e social cada personagem, principal ou periférico, se posiciona nesse mosaico tão bem construído em torno da juventude de Gonzalez, Machuca e uma garota. Machuca não é o protagonista apesar do título, e apenas esse detalhe já revela todo um subtexto a respeito da atmosfera da época. Gonzalez é o garoto protagonista, pois de todos ele está mais no centro deste furacão que acontece nesses anos entre a eleição de um populista e a inevitável intervenção militar. Note os detalhes sutis desta história para testemunhar um grande filme, cheio de textura histórica e uma atmosfera de seu tempo.
+Mad Max 2 tem o subtítulo ridículo A Caçada Continua no Brasil, mas pra quem assiste filmes por aqui está acostumado com pagação de mico das distribuidoras. Lá fora é conhecido como Mad Max 2 e The Road Warrior, para ter uma ideia de como estavam em dúvida sobre relacionar com o primeiro. Ele conta a história de Max, sem esposa, sem filho e com um cachorro de lenço vermelho, um side kick que consegue manter uma arma apontada e engatilhada segurando um osso de brinquedo, prestes a estourar os miolos do sujeito. Esse é um mundo pós-apocalíptico, e sendo assim vale tudo, menos dar o toba.
+
+Max é Mel Gibson, que ainda não saiu da Austrália e sendo assim não conheceu Danny Glover para voltar a ser policial na série Máquina Mortífera. Mas ele conhece um piloto de um helicóptero pessoal que domestica uma cobra para assaltar transeuntes. Interpretado por Bruce Spence, este é o personagem mais carismático e humorado de uma série de pessoas bizarras usando colant, alguns com a parte dos fundilhos com abertura para ventilação.
+
+Mad Max 2 junta a sanidade do primeiro filme com a perda completa de controle do quarto. Ele mantém a trilha sonora genérica que toca nos momentos inapropriados, mas ganhamos de brinde uma história mais coesa, simples de acompanhar. Há um guri com um bumerangue de aço. Ele corta a testa do brother do sujeito dos fundilhos. Está declarada guerra ao último posto de gasolina do deserto, e Max quer se aproveitar da situação.
+
+Dirigido novamente por George Miller, este é um trabalho mais maduro, com mais dinheiro e fôlego. Há ótimas sequências de perseguição de carros e uma direção de arte que inspirou metade das referências usadas em  Rick and Morty (a outra metade só no terceiro).
+
+Há um pouco de gordura, uma fotografia com muitos grãos (note como as cenas noturnas são problemáticas) e ação de primeira. São os anos 80 deixando saudades.
 

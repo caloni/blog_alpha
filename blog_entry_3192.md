@@ -1,42 +1,21 @@
 ---
 categories:
-- cooking
-date: '2022-01-22T23:45:28-03:00'
-tags: []
-title: Pudim
+- writting
+date: '2017-05-18'
+link: https://www.imdb.com/title/tt1610525
+tags:
+- cinemaqui
+- movies
+title: Punhos de Sangue
 ---
 
-Não é fácil acertar um pudim. Requer certa paciência e atenção. O erro é achar que é fácil.
+Logo no início deste filme vemos uma frase de Rocky Balboa sobre ninguém se preocupar com você. Balboa, personagem fictício criado por Sylvester Stallone baseado na história de vida do meio-pesado Chuck Wepner, dizia também que o que mais importa no ringue, assim como na vida, não é o quão forte você consegue bater, mas quantos golpes você consegue aguentar. A história de Punhos de Sangue, que praticamente documenta a vida de Wepner, acaba misturando ambas as visões sobre a vida, e no momento que achamos que o "Rocky Balboa real" não irá mais aguentar tantos golpes em sua vida é quando nos lembramos sobre a fala de Balboa sobre ninguém se preocupar. Este é um drama sobre quando a própria pessoa não se preocupa com o caminho que sua vida está levando.
 
-Minha primeira tentativa de fazer pudim há alguns meses deu muito certo. Minha próxima tentativa foi essa semana, mas não havia anotado nada da primeira experiência bem sucedida. Então vamos lá.
+É claro que sendo um filme sobre boxe já deixa implícito que este não será um filme sobre boxe, mas sobre uma vida em seu auge e declínio, como tantos outros exemplos que temos no Cinema. Nesse caso estamos falando do cara que inspirou um dos personagens mais célebres do gênero, e não por acaso, o filme de Philippe Falardeau escrito por quatro pessoas segue à risca o modelo consagrado em trabalhos como o próprio Rocky (o primeiro), e em vários momentos sentimos o tom de homenagem. A própria vida de Chuck Wepner recebeu duas inspirações do Cinema, uma antes e outra depois da fama. Antes da fama ele se vê como no filme Réquiem Para um Lutador, onde Anthony Quinn interpreta com muita propriedade a vida decadente de um lutador aposentado procurando um emprego. Depois da fama ele se vê como sua própria versão cinematográfica em Rocky, Um Lutador. No entanto, a versão que Wepner adota de Rocky está mais próximo do mega-empresário do boxe Don King (citado no filme) do que das origens humildes do personagem interpretado por Sylvester Stallone.
 
-A ideia aqui era fazer um pudim de doce de leite argentino com sabor de café. Isso mesmo, já vou começar mudando todos os ingredientes. Me deseje sorte. Desejou? Spoiler: não deu certo.
+Liev Schreiber é Chuck Wepner, e ninguém diria o contrário mesmo sem o conhecer. Ele é um lutador de origem humilde e que se aproveita de oportunidades conseguidas pelo seu agente de um clube local (Ron Perlman). Quando o conhecemos ele está no ringue com um urso famoso da televisão, e fica difícil descobrir que se trata de seu futuro eu, já que o sujeito vive uma sequência ininterrupta de altos e baixos, e Wepner apenas ergue ligeiramente a cabeça quando está por cima, mas se arrasta inconsciente como Anthony Quinn quando conhece seu próprio e inevitável declínio. Só sabemos que ele possui uma esposa e filha porque a vemos, já que Wepner, como narrador em off, aparentemente não está muito preocupado em falar sobre as pessoas próximas a ele, mas apenas sobre si mesmo, o que logo se revela uma ironia trágica da frase inicial de Rocky Balboa. E por falar em ironias, Wepner além de adorar Réquiem Pra um Lutador nunca ouviu falar de Touro Indomável (Martin Scorsese, 1980), ainda a ser lançado, o que torna sua história tão inevitável quanto a história do Cinema e do gênero onde inconscientemente ele se situa.
 
-A primeira coisa que fiz foi café. Descafeinado. Fiz e congelei no freezer. Estava lá há algumas semanas. Desde o ano passado. Agora é a hora do pudim.
+Estamos nos anos 70 como ele deve ser para esse filme, e é possível ter certeza disso, já que o trabalho de direção de arte e figurino nos transporta para uma versão não apenas correta da época com seus casacos coloridos, penteados exagerados e roupas de baixo risíveis, mas também ligeiramente exagerado para nossa própria época, o que nos faz lembrar constantemente de que esta é uma versão, ainda que fictícia, querendo soar documental o máximo possível. Documental também é a abordagem do diretor Philippe Falardeau e seu diretor de fotografia, Nicolas Bolduc (O Homem Duplicado). Mesmo que este seja rodado como um drama ficcional, temos uma câmera ligeiramente trêmula com uma granularidade (o "ruído" da película) que lembra os filmes das décadas de 70, e como este é um filme sobre outros filmes, o jogo metalinguístico funciona em diferentes planos.
 
-Peguei um pote médio de doce de leite argentino da La Sereníssima (relativamente fácil de achar por aqui) e joguei no liquidificador. Enchi de leite. Joguei no liquidificador. Joguei 4 ovos. E comecei a bater. E a bater. E a bater. Bata bastante para não ficar cheiro de ovo.
-
-Joguei junto o café. Deixei um pouco para a calda. Péssima ideia.
-
-A calda se faz com caramelo. O caramelo se faz com açúcar e água. Só misturar um pouco na forma do pudim e ligar o fogo até a consistência estar menos líquida do que quando começou e levemente marrom. Sim, são instruções vagas porque não é fácil. É uma arte.
-
-Usando café no lugar da água você perde a morenação e fica só com a observação da textura. Pior: nem isso. O café deixou a mistura espumando, e eu tive que ficar mexendo para enxergar direito. E quando você mexe uma solução dessas corre o risco de açucarar, que é o açúcar juntar em pelotas e virar um doce. Doce de café. Foi o que eu fiz.
-
-Desisti da calda. Fiz outra com água, mesmo. No limite do aceitável.
-
-Calda feita, jogue o que está no liquidificador na forma, feche com papel alumínio e coloque em uma forma maior com água dentro. Vamos assar em banho maria até mais ou menos uma hora em fogo baixo.
-
-Não se vá. Com 30 minutos de forno dá aquela abridinha esperta e note a consistência, se está mais ou menos líquido. Uma pequena vibração com as mãos pode te revelar.
-
-Se estiver menos líquido é hora de espetar um palito de dentes até o final e tirar, entre as bordas. Se o palito não sujar está pronto. Pode tirar do forno. É um processo delicado, então muita atenção nesse momento, pois isso irá definir a textura final do seu pudim no dia seguinte.
-
-Espera, você disse dia seguinte? Sim! Eu comentei que precisa de paciência para fazer essa receita, né? Então.
-
-Ao tirar do forno não tire o papel alumínio até desenformar amanhã. A forma irá passar a noite assim na geladeira, mas antes ela precisa primeiro esfriar por completo.
-
-No dia seguinte não tem segredo: passa uma faca nas bordas e gire a forma para ver se o pudim se destacou. Se não esquentar do lado de fora da forma esfregando rapidamente suas mãos ajuda. Depois que soltar coloque um prato na boca da forma e vire.
-
-Essa minha primeira tentativa de pudim-café deu certo no sabor, mas deu ruim na textura. Ficou seco. Não tive essa atenção ao assado que a receita merece.
-
-Mas agora estou anotando para a próxima tentativa ;)
+Conseguindo unir ficção, realidade, realidade e ficção novamente, Punhos de Sangue se mostra um trabalho incrivelmente coeso e que segue à altura dos melhores trabalhos do gênero. Há tanto drama (real, não maniqueísta) em seu núcleo que as músicas ligeiramente animadas e as cores sutilmente coloridas tentam melhorar o clima durante a projeção. E assim como o comportamento auto-destrutivo de Wepner, elas não conseguem. E que melhor prova das virtudes desse filme quando, diferente de seu protagonista, nós não sabemos quantos mais golpes conseguiremos aguentar até o final?
 

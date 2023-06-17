@@ -1,21 +1,18 @@
 ---
 categories:
 - writting
-date: '2015-05-11'
-link: https://www.imdb.com/title/tt2933474
+date: '2014-09-13'
+link: https://www.imdb.com/title/tt0081573
 tags:
-- cinemaqui
 - movies
-title: Super Velozes, Mega Furiosos
+title: 'Superman II: A Aventura Continua'
 ---
 
-Super Velozes, Mega Furiosos é uma paródia de Velozes e Furiosos. Essa informação é tão irrelevante quanto o próprio filme, que brinca com os estereótipos dos atores da série e se esquece que a franquia já vem se tornando irrelevante sem precisar da ajuda de ninguém.
+Superman II teve complicações que começam lá na história do trabalho original. O diretor Richard Donner havia imaginado o final do primeiro como o início do segundo, e o clímax do segundo seria o final do primeiro. A versão original proposta por Donner foi quase totalmente refeita e lançada para Home Vídeo em 2006, uma vez que ele já havia filmado quase todas as cenas antes de ser demitido e ter seu lugar ocupado por Richar Lester (que refilmou todas as cenas).
 
-Escrito e dirigido pela dupla culpada por Todo Mundo em Pânico 1, 2, 3... e 4, a história se concentra nos detalhes do quinto filme da série original, quando os pilotos fora-da-lei precisam roubar uma quantia exorbitante de dinheiro de um mafioso local para conseguir fugir antes que o detetive Rock Johnson os coloquem atrás das grades. Brincando a sério com as personas de Vin Diesel e de Dwayne Johnson, os atores que os intepretam são tão competentes quanto os originais em imitar os seus trejeitos, o que traz a dúvida de qual é a pior dupla de atores: a original ou a falsa?
+A versão de Richard Lester é a conhecida de todos e a que estreou nos cinemas em 1980 e apresenta três vilões kriptonianos, os mesmos que haviam sido presos na zona fantasma no filme original, e que foram ironicamente soltos por uma bomba lançada ao espaço por Superman. A história paralelamente mostra General Zod e seus dois comparsas se aproximando da Terra e descobrindo seus poderes frente aos fracos terráqueos enquanto Louis Lane descobre aos poucos que sempre esteve do lado do homem de aço com óculos, o que faz com que confessem seu amor mútuo e faz com que Kar-El elimine sua parte alienígena para viver como um humano ao lado de Louis.
 
-Enquanto isso, piadas da década passada são recicladas (leia-se repetidas à exaustão), como a namorada de Vin Serento/Dominic Toretto ser lésbica, ou Rock Johnson/Dwayne Johnson ficar constantemente passando óleo de bebê em seus musculosos braços. O tom da narrativa nunca se acerta, pois enquanto há de fato algumas boas tiradas, como o fato de toda cena de crime ter mais de uma câmera apontando para o mesmo lugar de ângulos diferentes, ou o sócia de Paul Walker ser estigmatizado por ser 100% branco, piadas como o roubo da igreja são batidos demais e parecem nunca se encaixar com o "espírito" do projeto.
+Podemos encontrar ação e humor igualmente equilibrados nas sequências de Superman II, mas perde parte da força dramática de seu antecessor justamente por este já ter impactado o suficiente em sua sequência final envolvendo a mudança do tempo, além de transformar a vulnerabilidade de Kar-El em apenas 20 minutos de cena, quando ele descobre que o planeta foi invadido por kriptonianos menos nobres.
 
-Porém, há de fato um bom filme travestido de ruim em cerca de 50% da história. Inspirado em filmes mais "maduros" como Apertem os Cintos o Piloto Sumiu ou Top Secret!, constatar que os detalhes de como a gangue é escalada baseado na etnicidade esperada pelos fãs ao mesmo tempo que é revelado que eles na verdade são meros estereótipos manjados de filmes de ação (entre eles se encaixam Os Mercenários, por exemplo) é uma grata surpresa.
-
-Mesmo tentando ridicularizar uma franquia fraca, assim como seus "personagens", os fãs de Velozes e Furiosos vão passar batido das possíveis ofensas ao sub-gênero, por elas serem ou estúpidas ou obscuras demais. E, convenhamos, apenas o fato de haver uma corrida de super-carros já é o suficiente para chamar a atenção dos simpatizantes de Vin Diesel. É preciso mais do que um Todo Mundo em Pânico sobre rodas para manchar a imagem construída com o suor de sete filmes e dezenas de motores super-potentes (e movidos a nitro).
+Ainda assim, Superman II - A Aventura Continua se mostra bem superior à média das produções de super-heróis de hoje em dia, em que os gostos massificados dos fãs de quadrinhos -- mas não necessariamente de Cinema -- são resolvidos com mais cenas de lutas e efeitos digitais. Se até uma narrativa rasa de um filme dos anos 80 consegue ser mais ambiciosa que as infinitas continuações de remakes dessa década, para onde vai a imaginação dos verdadeiros fãs da arte do áudio-visual?
 

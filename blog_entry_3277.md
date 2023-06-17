@@ -1,46 +1,103 @@
 ---
-categories: []
-date: '2021-01-02'
+categories:
+- coding
+date: '2010-02-08'
 tags: null
-title: Resoluções 2021
+title: Restaurando o registro
 ---
 
-Inspirado no [post que vi] de meu amigo DQ sobre resoluções de ano-novo, algo que ele já vem fazendo desde 2007 (impressionante), resolvi compartilhar um pouco neste post sobre minhas resoluções de 2020. Na verdade não costumo fazer isso, mas ao passar a virada de 2019 para 2020 na casa de outro amigo, ele e sua esposa vieram com um presente e uma ideia para todo o grupo na ocasião: um caderno e uma caneta. Cada um deveria preencher nas primeiras folhas do caderno o que pretendia fazer durante o ano que se inicia. Algo mais ou menos assim, eu provavelmente já estava bêbado o suficiente para não me lembrar dos detalhes.
+Algumas ferramentas viram essenciais quando o importante é tempo. As minhas favoritas são: [Visual Studio](http://www.microsoft.com/exPress/) e [batch](http://www.microsoft.com/WINDOWS/). Com esses dois eu faço virtualmente qualquer coisa que preciso em pouquíssimo tempo. É lógico que, na ausência dessas, alternativas são bem-vindas, como [Notepad++](http://notepad-plus.sourceforge.net/uk/site.htm), [viM](http://www.vim.org/), [grep](http://gnuwin32.sourceforge.net/), [cygwin](http://www.cygwin.com/).
 
-Hoje abro nesse momento o caderno cuja primeira página havia preenchido e nunca mais olhado. Eis a minha pequena lista:
+Ontem tive que resolver uma "situação" no cliente, e graças ao bom Deus (ele também é programador) existia um Notepad++ na bagagem que levávamos. Além, é claro, do Excel e do sistema batch do Windows.
 
- 1. Assistir um DVD por semana.
- 2. Escrever 10 minutos por dia.
- 3. Andar de bike 1 vez por semana.
+O problema consistia basicamente em usar a saída do [RegMon](http://technet.microsoft.com/en-us/sysinternals/bb896652.aspx) para identificar e restaurar algumas modificações que danificavam a instalação do Internet Explorer. O sistema de reparo do IE não existia no cliente, pois ele estava sem Service Pack (bem-vindo ao mundo real), mas podíamos nos guiar através dele na nossa máquina virtual para saber o que faríamos. O estrago era feito durante o registro e/ou desregistro de um componente COM.
 
-Vejamos os resultados.
+<blockquote>_Aliás, não, eu não preciso usar o onipresente e onipotente Process Monitor para resolver um detalhezinho no registro. Você talvez precise, já que a Microsoft já tirou o Reg e o File de circulação._</blockquote>
 
-## Assistir um DVD por semana
+Para iniciar, filtramos os resultados do RegMon para apenas capturar escritas no registro, não importando se falharam ou deram resultado.
 
-Acredito que tenha cumprido essa meta em sua maioria. Alterei a funcionalidade de busca no blog para conseguir filtrar os filmes assistidos que não foram em cabines de imprensa e deram 110 resultados. Sabendo que há 54 semanas em um ano e que durante o ano cada vez menos assisti conteúdo via streaming por conta da péssima qualidade do cinema e TV contemporâneos, em uma conta de padaria acredito ter atingido o objetivo na média. Outro fator que contribui para meus cálculos é a quantidade de pilhas de DVDs que foram removidos da nossa coleção temporária. (A ideia é assistir os mais de 400 títulos e vendê-los.)
+{{< image src="Fz9QRP1.png" caption="Filtro no RegMon" >}}
 
-## Escrever 10 minutos por dia.
+A partir disso executamos o registro e desregistro do componente, além da restauração do IE6, responsável por limpar a bagunça. O processo responsável por registrar componentes é o **regsvr32** e o responsável por limpar a bagunça, **rundll32**.
 
-Esse foi mais complicado. Houve momentos de grande hiato em que eu lia cada vez mais posts aleatórios sobre como praticar a escrita ou qual a rotina de escritores (o que basicamente se resume em sentar a bunda na cadeira e escrever), mas também houve momentos em que li conteúdo importantíssimo para melhorar minha concentração e o incentivo interno para assumir cada vez mais uma rotina de escritor, como [o livro de Mihaly Csikszentmihalyi].
+{{< image src="Ps7V57G.png" caption="Restauração do IExplore" >}}
 
-Nos últimos meses comecei a revisar todos meus textos antigos em ordem cronológica e tenho obtido sucesso através de uma rotina em que realizo anotações no Kindle na leitura antes de dormir e nos momentos de sentar a bunda na frente do computador busco por essas anotações e vou checando cada post antigo como não-rascunho. Como a maior parte são textos de filmes esta é minha métrica. Usando mais uma vez a nova busca constato que há 1921 textos de filmes de antes de 2020, e no momento deixaram de conter a tag draft exatos 311, ou seja, 16% de todos os textos antigos foram revisados.
+Tendo a saída do RegMon exportada para formato texto, abrimos no Excel e filtramos o conteúdo pelo nome do processo. Note que existem duas instâncias de regsvr32 para usar, pois não sabemos em qual delas é danificado o registro.
 
-## Andar de bike 1 vez por semana.
+{{< image src="iEB0YQJ.png" caption="Filtro no Excel" >}}
 
-Consegui este feito com louvor em 2019, mas em 2020 caí nos mesmos imprevistos que o DQ comentou em seu post: chegou a pandemia e o isolamento. Praticamente não saí de casa ano passado. Devo conseguir contar nos dedos as vezes. E esta foi a tarefa alternativa a andar de bike.
+Para cada um dos filtros copiamos apenas o endereço da chave alterada para dois arquivos texto: regsvr32.txt e ierestore.txt. Usaremos esse primeiro para encontrar ocorrências no segundo, provando que um modifica o que o outro consertou.
 
-Enfim, minhas resoluções para o ano que inicia:
+Existe um comando muito simplório em batch Windows que é o aplicativo **find**. Através dele podemos encontrar a ocorrência de uma string em um arquivo. Para transformar todas aquelas linhas do registro do arquivo regsvr32 em comandos find poderíamos elaborar algumas colunas no Excel ou usar o Notepad++ e suas macros, mais rápidas.
 
-# Resolução 2021
+Para quem não conhece macros, saiba que elas são muito úteis. Às vezes até mais úteis que "regexes", pois não é necessário pensar muito na expressão a ser usada. Macros apenas repetem os movimentos do teclado que fazemos enquanto as estamos gravando. Por exemplo, eu tenho o meu monte de linhas de registro assim:
 
- 1. Assistir um DVD por semana.
- 2. Revisar textos antigos todo dia.
- 3. Andar de bike 1 vez por semana.
+    
+    HKLM\SOFTWARE\Microsoft\Cryptography\RNG
+    HKLM\SOFTWARE\Microsoft\Cryptography\RNG\Seed
+    HKCR\AppID\{EE62DE09-3A23-46DB-8FA2-266088F329CD}
+    HKCR\AppID\{EE62DE09-3A23-46DB-8FA2-266088F329CD}\(Default)
+    HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{C322BA70-E3E7-4737-821C-D25378A3F830}
+    HKCR\CLSID\{684E2452-19E1-42CC-9C93-A83044BA1AF2}
+    HKCR\CLSID\{684E2452-19E1-42CC-9C93-A83044BA1AF2}\Programmable
+    ...
 
-Sim, continua basicamente o mesmo, exceto o foco no item 2 para revisão em vez de escrever novos textos. Com os novos dados sobre o contágio do vírus e vendo que as pessoas estão menos paranoicas a respeito disso, exceto as malucas, mas que não devo encontrar nas minhas pedaladas, resolvi manter minha tarefa número 3, o que para mim significa reativar minha bicicleta e adicionar mais um exercício semanal além do matinal, que realizei com significativa frequência esse ano.
+Quero transformar cada linha em um comando find. Iniciou a gravação da macro no início da primeira linha e digito o seguinte (em pseudo-alguma-coisa):
 
-Não irei adicionar mais tarefas, pois estas estão em andamento e devem continuar consumindo um tempo que é possível se comprometer.
+find, espaço, abre aspas, end, fecha aspas, espaço, ierestore.txt, linha abaixo, home
 
-[o livro de Mihaly Csikszentmihalyi]: {{< relref "flow" >}}
-[post que vi]: http://dqsoft.blogspot.com/2021/01/resolucoes-de-ano-novo-edicao-2021.html
+    
+    find "HKLM\SOFTWARE\Microsoft\Cryptography\RNG" ierestore.txt
+    HKLM\SOFTWARE\Microsoft\Cryptography\RNG\Seed
+    HKCR\AppID\{EE62DE09-3A23-46DB-8FA2-266088F329CD}
+
+Pronto. Parar macro. Terei que repetir isso dois milhões de vezes até o final do arquivo. Ora, então mando o Notepad++ repetir a minha macro até o final do arquivo e adio minha tendinite para os próximos anos.
+
+{{< image src="XOUfV9L.png" caption="Filtro no Notepad++" >}}
+
+Só preciso agora renomear meu arquivo para .bat e executar. Posso redirecionar a saída da tela para um terceiro arquivo, de onde irei formatar minha lista de entradas no registro que foram adulteradas por ambos os programas (o registro do componente COM e a restauração do Internet Explorer).
+
+Nesse momento podemos ir tomar café. Bem melhor do que ficar horas e horas dando localizar, copiar, colar em todas as entradas do regsvr.
+
+{{< image src="jBRCDmf.jpg" caption="Tomando café" >}}
+
+Terminada a operação, abrimos o terceiro arquivo, retiramos as entradas insignificantes (por exemplo, o gerador de sementes de números randômicos) e os cabeçalhos do comando, algo bem fácil já que se trata do mesmo arquivo.
+
+    
+    ---------- IERESTORE.TXT
+    ...
+
+A próxima tarefa seria analisar cada entrada e ver se ela é relevante. Essa parte foi manual, mas, encontrado um padrão, listamos rapidamente o que poderia estar dando errado e criamos uma lista de entradas para exportar do registro "sadio" a fim de gerar um .REG que corrigiria sistemas danificados.
+
+Algumas passadas no Notepad++ para eliminar linhas duplicadas e algumas passadas pelo cérebro para eliminar chaves redundantes (chave dentro de chave) e tcharam!
+
+    
+    ...
+    HKCR\Interface\{3050F2E3-98B5-11CF-BB82-00AA00BDCE0B}
+    HKCR\Interface\{3050F2E5-98B5-11CF-BB82-00AA00BDCE0B}
+    HKCR\Interface\{3050F32D-98B5-11CF-BB82-00AA00BDCE0B}
+    HKCR\Interface\{3050F357-98B5-11CF-BB82-00AA00BDCE0B}
+    HKCR\Interface\{3050F35C-98B5-11CF-BB82-00AA00BDCE0B}
+    HKCR\Interface\{3050F37E-98B5-11CF-BB82-00AA00BDCE0B}
+    HKCR\Interface\{3050F38C-98B5-11CF-BB82-00AA00BDCE0B}
+    ...
+
+O próximo passo para nossa obra-prima é outra macro que irá reproduzir o comando reg, que pode realizar operações no registro do Windows.
+
+    
+    ...
+    reg export HKCR\Interface\{3050F240-98B5-11CF-BB82-00AA00BDCE0B} 3050F240-98B5-11CF-BB82-00AA00BDCE0B.reg
+    reg export HKCR\Interface\{3050F25A-98B5-11CF-BB82-00AA00BDCE0B} 3050F25A-98B5-11CF-BB82-00AA00BDCE0B.reg
+    reg export HKCR\Interface\{3050F25E-98B5-11CF-BB82-00AA00BDCE0B} 3050F25E-98B5-11CF-BB82-00AA00BDCE0B.reg
+    reg export HKCR\Interface\{3050F2E3-98B5-11CF-BB82-00AA00BDCE0B} 3050F2E3-98B5-11CF-BB82-00AA00BDCE0B.reg
+    reg export HKCR\Interface\{3050F2E5-98B5-11CF-BB82-00AA00BDCE0B} 3050F2E5-98B5-11CF-BB82-00AA00BDCE0B.reg
+    reg export HKCR\Interface\{3050F32D-98B5-11CF-BB82-00AA00BDCE0B} 3050F32D-98B5-11CF-BB82-00AA00BDCE0B.reg
+    ...
+
+E o último passo é juntar toda essa galera em um arquivo só.
+
+    
+    copy *.reg ierestore.reg
+
+Claro, não se esqueça de retirar os cabeçalhos duplicados (Windows Registry Editor Version X.XX). E Voilà! Fácil, não? Não?! Bom, então é por isso que eu sou bem pago =)
 

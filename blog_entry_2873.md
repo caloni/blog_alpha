@@ -1,60 +1,115 @@
 ---
 categories:
-- reading
-- writting
-date: '2019-08-16'
+- coding
+date: '2023-06-06'
 tags:
-- books
-title: On Writing, por Stephen King
+- reversing
+title: OnBoarding no baixo nível
 ---
 
-Eu lembro que em algum momento entre ler On Writing Well, um livro de William Zinsser sobre melhorar a escrita, e estar escrevendo meus reviews diários sobre filmes comecei a ficar bem insatisfeito com a qualidade dos meus trabalhos. Isso não é novidade para mim, o eterno insatisfeito, e não me surpreendi quando me vi novamente buscando literatura para me aprimorar. Afinal de contas, quando não se está praticando é a hora de afiar seus instrumentos, e esse momento para um escritor não é quando se está escrevendo, mas lendo.
+Uhu! Estou de volta para as baixarias =). Irei trabalhar com engenharia reversa, serviços e drivers no Windows, talvez algumas telas azuis da morte e alguns travamentos inexplicáveis. Ou seja, só diversão.
 
-Com isso me deparei com o que acreditava ser inevitável cedo ou tarde: "On Writing", de Stephen King. Ele já era um livro bem citado nas rodinhas do Hacker News para ser ignorado, mesmo que por um autor de não-ficção como eu. Como a insatisfação com a qualidade dos meus textos aumentou e eu estava sem nada mais importante para ler, este foi o primeiro livro que leio na vida desse autor, uma declaração provavelmente condenável se lida por algum fã.
+E vou aproveitar meu processo de onboarding para recomendar as ferramentas que já utilizo no meu dia-a-dia e as novas que meus colegas me passaram.
 
-> And when I lay in bed at night under my eave, listening to the wind in the trees or the rats in the attic, it was not Debbie Reynolds as Tammy or Sandra Dee as Gidget that I dreamed of, but Yvette Vickers from Attack of the Giant Leeches or Luana Anders from Dementia 13. Never mind sweet; never mind uplifting; never mind Snow White and the Seven Goddam Dwarfs. At thirteen I wanted monsters that ate whole cities, radioactive corpses that came out of the ocean and ate surfers, and girls in black bras who looked like trailer trash.
+## SDK ou Visual Studio
 
-Eu entendo meus receios em ler dicas de um autor de ficção, mas entendo também porque este livro é tão citado, e darei um exemplo de por que ele acaba sendo valioso mesmo para autores de não-ficção. No seu início Stephen começa a contar a história de sua vida como escritor. Ou seja, ele começa escrevendo ficção. É broxante e ao mesmo tempo extasiante, pois no começo ser imerso na vida de uma pessoa que não tinha certeza se viveria de palavras para alguns capítulos depois estar torcendo pelo sucesso de Carrie, A Estranha, não tem preço. No final das contas, mesmo que eu quisesse dedicar meu tempo com mais dicas de escrita, não sinto ter perdido tempo por torcer por Carrie: foi uma passagem de experiência de vida valiosíssima de um ex-membro da classe média baixa norte-americana e a busca do seus sonhos para um aspirante a escritor, tentando ser melhor a cada dia com o que tem.
+No Visual Studio já vem o SDK de desenvolvimento para Windows. E dentro dele vem as libs e headers para você conseguir compilar programas em C e C++ que usam a API do Windows.
 
-> I have spent a good many years since—too many, I think—being ashamed about what I write. I think I was forty before I realized that almost every writer of fiction and poetry who has ever published a line has been accused by someone of wasting his or her God-given talent. If you write (or paint or dance or sculpt or sing, I suppose), someone will try to make you feel lousy about it, that's all.
+Porém, o importante de lá é que existem ferramentas para realizar análise de executáveis, como o DumpBin, e debug remoto através de uma porta TCP; na seção de VMs falo sobre isso.
 
-Mas, experiências à parte, o que eu queria mesmo eram dicas. E elas começam no núcleo do livro, entitulado "On Writing", que é onde a coisa começa de verdade. Antes disso, na parte biográfica, o único destaque não-ficcional foi do seu primeiro editor, da época que ele escrevia artigos para um jornal esportivo. Ele disse ao então garoto Stephen King: escreve com a porta fechada; reescreva com a porta aberta. E essa dica é de ouro. Vamos colocar em destaque para pensar a respeito:
+## WDK
 
-> "When you write a story, you're telling yourself the story," he said. "When you rewrite, your main job is taking out all the things that are not the story."
+O WDK é o SDK para kernel mode. Lá haverá libs e headers também, mas mais focadas para o desenvolvimento de drivers. E uma ferramenta, ou melhor dizendo, um conjunto de ferramentas que não pode faltar e que está lá é o...
 
-Em "On Writing" há bons momentos que não deixam de ser a experiência de um escritor que lê muito. Suas dicas saíram de outras fontes sobre como escrever, como George Orwell e aquele livro sobre estilo escrito no começo do século passado (The Elements of Style, de William Strunk Jr.). Por exemplo, o famigerado e sempre dito não use advérbios, ou o já batido use sempre a voz ativa ou evite voz passiva como o diabo.
+## WinDbg ou Debugging Tools
 
-Mas, além disso, ainda há a experiência do próprio autor, escrevendo em seu escritório, dia após dia, várias horas ao dia. E suas leituras. E seus hábitos. E sua vida em família. Stephen King pode ser um ótimo autor de ficção, mas quando se trata de não-ficção, ele simplesmente não consegue se esquecer do hábito de transformar sua escrita em uma história.
+Sem WinDbg a vida fica um pouco mais triste. Dentro do pacote Debugging Tools há ele e suas variantes, como o kd, ntsd e cdb. Também há o gflags, para setar várias flags importantíssimas na depuração do sistema operacional, e uma documentação bem extensa para desenvolver scripts e extensões para depuração, além de outras coisas mais, como um servidor de símbolos.
 
-> I'm going to tell you as much as I can about the job. As promised, it won't take long. It starts with this: put your desk in the corner, and every time you sit down there to write, remind yourself why it isn't in the middle of the room. Life isn't a support-system for art. It's the other way around.
-> 
-> Remember that the basic rule of vocabulary is use the first word that comes to your mind, if it is appropriate and colorful.
-> 
-> But you need the room, you need the door, and you need the determination to shut the door.
-> 
-> Now comes the big question: What are you going to write about? And the equally big answer: Anything you damn well want. Anything at all... as long as you tell the truth.
-> 
-> What you need to remember is that there's a difference between lecturing about what you know and using it to enrich the story. The latter is good. The former is not.
+## [x64dbg](https://x64dbg.com/)
 
-Do que eu me lembrarei por mais tempo do livro serão as dicas já repassadas várias vezes por vários autores -- não usar advérbios, não usar voz passiva, nutrir amor pelas palavras como quem cuida de um jardim -- e também a questão da postura diante das reescritas. Escritas são valiosas, mas a reescrita, começo a perceber cada vez mais, é mais valiosa ainda. Ninguém deveria ler uma escrita de um escritor. Não vale nada. Mas a reescrita é o trabalho duro que recompensa tirar essas palavrinhas mágicas de nossa cabeça.
+Não conhecia este depurador. Ele é fonte aberto, o que já é interessante. Baixei e pretendo olhar mais de perto. Jurava que iriam me sugerir o OllyDbg pelo livro que estou lendo de reversa. Este carinha deve ter sido lançado após o livro.
 
-> Honesty in storytelling makes up for a great many stylistic faults, as the work of wooden-prose writers like Theodore Dreiser and Ayn Rand shows, but lying is the great unrepairable fault. Liars prosper, no question about it, but only in the grand sweep of things, never down in the jungles of actual composition, where you must take your objective one bloody word at a time. If you begin to lie about what you know and feel while you're down there, everything falls down.
+## [PeTools](https://github.com/petoolse/petools/releases)
 
-Além das dicas, é curioso notar a postura de Stephen King diante da verdade. A honestidade tem sido alvo de ataques mais ou menos constantes ao longo da história, e ironicamente vivemos mais um período de politicamente correto que visa higienizar novamente o dom da palavra. Tanto George Orwell em seu texto sobre política e King sobre os palavrões possuem a mesma forte opinião: se prepare para defender seu direito de dizer que deve ser dito, custe o que custar.
+Uma ferramenta de análise de PE, ou Portable Executable, o formato dos EXEs e DLLs do Windows. Eu particularmente uso o DumpBin, mas vou dar uma olhada nesta recomendação que deve agilizar um pouco as análises.
 
-> If you substitute "Oh sugar!" for "Oh shit!" because you're thinking about the Legion of Decency, you are breaking the unspoken contract that exists between writer and reader -- your promise to express the truth of how people act and talk through the medium of a made-up story.
-> 
-> The point is to let each character speak freely, without regard to what the Legion of Decency or the Christian Ladies' Reading Circle may approve of. To do otherwise would be cowardly as well as dishonest, and believe me, writing fiction in America as we enter the twenty-first century is no job for intellectual cowards. There are lots of would-be censors out there, and although they may have different agendas, they all want basically the same thing: for you to see the world they see... or to at least shut up about what you do see that's different. They are agents of the status quo. Not necessarily bad guys, but dangerous guys if you happen to believe in intellectual freedom.
+## [Resource Hacker](http://angusj.com/resourcehacker/)
 
-A parte mais difícil de On Writing é unir começo e fim, os dois extremos de uma viagem não-ficcional através do poder da magia da escrita. No começo, somos apresentados a um conceito fascinante que reverbera por todo o livro porque percebemos que é isso realmente que King acredita, do fundo do seu coração, e logo antes do final entendemos que esse conceito se une a outro mais prático e muito mais falado na rodinha de escritores, tornando-se, então, um mecanismo pragmático, e uma história circular.
+Usava esse carinha há muitíssimo tempo atrás, para uma tarefa não-nobre: editar na mão os resources pós-compilados do C++ Builder porque ele vivia cheio de bugs. Ah, e também manipular chaves criptográficas guardadas nos resources. Ele também é bem legal para achar novos ícones e incrementar seu computador, além de um ótimo editor de strings.
 
-A telepatia sobre a qual Stephen discorre se refere ao poder de nossos textos, que quando lidos pelo eventual leitor, separado no tempo e espaço, décadas depois de termos escrito, talvez, mas que graças ao poder de um livro/texto impresso/digital consegue ser tocado por essa ideia, essa impressão, esse pensamento, raciocínio, visão e várias sensações transmitidas unicamente pelo dom da palavra. O leitor traduz dentro de seu próprio campo de visão, experiência de vida, jardim das palavras, o que seja, o que está lendo de um escritor que possuiu um outro campo, outra experiência e outro jardim em um outro momento no espaço-tempo. E, contrariando todas as expectativas de quem viveu antes de Gutenberg, ambos dialogam.
+## [WinMerge](https://winmerge.org/)
 
-Já na outra ponta desse extremo, no finalzinho do livro, essa viagem poética, vem o outro conceito; o conceito pragmático: simbolismo. O por trás do que é dito. Em outras palavras: todo texto precisa ser sobre alguma coisa (mais um trecho para destacar e lembrar). E, tendo algo a dizer, a viagem da leitura telepática não terá sido uma mera viagem inconsequente. Pode ser "uma jornada mágica pela Terra Média", mas no final das contas é sobre lealdade, sobre coragem, sobre amizade. Sobre fazer o certo não porque é o esperado, mas porque é o certo. De certa forma, escrever segue o mesmo princípio. Escrevemos a verdade, seja ela qual for, para que o leitor a decodifique em seu próprio sistema de valores, através dessa "telepatia", a mágica por trás das palavras, que permite que ele possa contrair os símbolos que injetamos em nossas palavras; os nossos valores. Que conceito.
+Eu já tentei usar o Vim no modo de comparação, mas WinMerge para Windows não se compara. Ele é simples e eficiente. Mantenho apenas o executável no meu cinto de utilidades e ele consegue se virar para pastas inteiras. Suas configurações permitem ignorar detalhes como final de linha e indentação.
 
-Deixarei a última palavra com meu, agora estimado, Stephen King.
+## [HxD](https://mh-nexus.de/en/hxd/)
 
-> Not every book has to be loaded with symbolism, irony, or musical language (they call it prose for a reason, y'know), but it seems to me that every book—at least every one worth reading—is about something. Your job during or just after the first draft is to decide what something or somethings yours is about. Your job in the second draft— one of them, anyway—is to make that something even more clear.
-> 
-> But once your basic story is on paper, you need to think about what it means and enrich your following drafts with your conclusions. To do less is to rob your work (and eventually your readers) of the vision that makes each tale you write uniquely your own.
+Um editor hexa que virou queridinho depois que um colega da Open me apresentou. Ele é daqueles um executável apenas que faz todo o serviço de mostrar dados em hexadecimal de qualquer arquivo ou mesmo da memória (ou do disco).
+
+## [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+
+Não vou perder tempo descrevendo cada uma das fantásticas ferramentas da SysInternals, então tomaí: um toolkit cheio delas.
+
+## [RegShot](https://sourceforge.net/projects/regshot/)
+
+Não conhecia este aqui e fiquei muito empolgado. Ele faz comparação entre registros! Imagina a maravilha que isso será para alguns de meus projetos que envolvem diretivas de acesso...
+
+## [Wireshark](https://www.wireshark.org/)
+
+Essencial para analisar tráfego de rede no detalhe, já me quebrou muitos galhos quando precisava entender erros de comunicação com a bolsa de valores. Sim, eles também erram. Quem diria.
+
+## [ArtMoney](https://artmoney.ru/)
+
+Este é um scanner de memória feito para aplicar patches em jogos. Que feio! Porém, para um reverseiro pode ser útil para encontrar padrões e reconhecer comportamento.
+
+## [IDA](https://hex-rays.com/ida-free/)
+
+IDA é um disassembler que brilha na análise estática. Ele ajuda muito a reconstruir código-fonte ou entender comportamento de funções inteiras apenas lendo o assembly e os nomes sugestivos dos calls e jumps que a ferramenta lhe fornece.
+
+## [ShareX](https://getsharex.com/)
+
+Esta é uma ferramenta para gerar screenshots e vídeos, ou seja, gerar evidência. Qualquer uma na verdade serve, mas essa foi a sugestão do colega e pretendo guardar aqui.
+
+## VMWare
+
+Virtualizar o Windows é essencial para instalar drivers instáveis, analisar telas azuis e o comportamento do sistema como um todo, do user mode ao kernel. Portanto, trate de arrumar algumas das soluções disponíveis. Eu uso VMWare desde que foi lançada e já comprei algumas licenças de novas versões dos caras, porque eles são foda. Você pode usar também VirtualBox ou outras por aí. O importante é virtualizar.
+
+Por falar nisso, é importante lembrar que o Windows 11 requer um chip de TPM 2.0 disponível para ser instalado, e por isso você irá precisar do VMWare 17 ou superior. Se atente a [este guia de instalação] para conseguir rodar o Win11 virtualizado.
+
+## Remote Debugging
+
+A depuração remota é importantíssima quando se precisa acessar múltiplos ambientes, muitos deles montados de uma maneira bem específica para reproduzir um bug. Por isso o uso do msvsmon, disponível na instalação do Visual Studio, é primordial.
+
+Você pode encontrar as versões para x86 e x64 do msvsmon dentro da pasta de instalação do Visual Studio. Por exemplo:
+
+```
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\Remote Debugger
+```
+
+Para instalar na máquina guest tudo que você precisa é copiar essas pastas e rodar qualquer um dos msvsmon.exe disponíveis. Rode pelo menos uma vez para acertar a porta no Firewall do Windows. Depois disso pode rodar como tarefa automática.
+
+Eu acho muito útil configurar um serviço que rode o msvsmon, de forma que mesmo antes de logar já é possível depurar programas. Para isso eu uso uma outra ferramenta fantástica, o [NSSM](https://nssm.cc/download), mas qualquer outra ferramenta que transforme um programa em serviço já serve.
+
+Usando o NSSM configure o programa Msvsmon para rodar como um serviço. Aqui está uma configuração bem direta, sem autenticação, para usar o msvsmon através do nssm:
+
+```
+nssm.exe install msvsmon c:\tools\rmdbg\x86\msvsmon.exe /anyuser /noauth /timeout 9999999 /silent
+```
+
+Use o path completo de onde está o msvsmon.exe na máquina guest para rodar este comando. O serviço é instalado por padrão como automático, então ao reiniciar a máquina ele já estará em execução.
+
+[este guia de instalação]: https://www.digitalcitizen.life/install-windows-11-virtual-machine/
+
+## Kernel Debugging
+
+Qual a graça de depurar apenas os programas em user mode? E aquela tela azul marota, ou acompanhar o boot da máquina em câmera hiperlenta? Aproveite que já está com sua VM bonitinha no ar e configure o debug de kernel rodando um cmd como administrador e executando alguns comandos no bcdedit.
+
+```
+bcdedit /copy {current} /d Debug
+bcdedit /debug {new-id} ON
+bcdedit /dbgsettings SERIAL DEBUGPORT:1 BAUDRATE:115200
+```
+
+Isso irá criar uma segunda opção de boot que irá aparecer quando ligar a máquina (timeout padrão de 30 segundos para escolher). Se configurar debug pela porta serial crie uma na máquina virtual apontando para um named pipe. No WinDbg conecte usando este pipe (e.g. `\\.\pipe\com_1´).
+
+Agora começa a diversão =).
 

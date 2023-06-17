@@ -1,16 +1,16 @@
 ---
 categories:
-- cooking
-date: '2021-07-31T22:32:40-03:00'
-tags: []
-title: Receita falsa de Calzone
+- writting
+date: '2010-11-12'
+link: https://www.imdb.com/title/tt1245526
+tags:
+- movies
+title: 'RED: Aposentados e Perigosos'
 ---
 
-Segui essa receita no site onde costumo pegar receitas de pães, mas depois percebi que este Calzone não tem nada a ver com o resto da internet. O objetivo dele é ser mais fofo e menos pizza. Esse site perdeu uns pontos depois dessa 
+O encontro de astros que não deu certo em Mercenários aqui fez um trabalho divertido e descartável. Principalmente com a participação de Malkovich e Helen Mirren, que criam personagens que entretem pelas suas vidas atuais sendo consequência da vida de assassinatos do passado.
 
-A receita é básica de pão mas vai açúcar, 60% em relação ao sal, que é 2% como de costume em relação à farinha. Fermento e água (60%) e voltamos para o feijão com arroz. O que há de diferente aqui? Nada.
+Há transições inteligentes e tentativas de tornar o filme coeso através de cartões postais que fazem a troca de local.
 
-Durante a dobra o site pede para enrolar como um rocambole em torno do recheio. Coloquei fermento natural mais o instantâneo e ele cresceu bem. Ficou igual ao site.
-
-Só não é um Calzone.
+Já a participação de Mary-Louise Parker é igualmente divertida até o meio, quando ela desaparece do longa para dar espaço para a ação, que é boa, tem ritmo, mas quebra nosso envolvimento com a narrativa.
 

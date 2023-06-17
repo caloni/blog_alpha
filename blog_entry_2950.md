@@ -1,20 +1,24 @@
 ---
 categories:
 - writting
-date: '2015-12-12'
-link: https://www.imdb.com/title/tt0058182
+date: '2013-10-25'
+link: https://www.imdb.com/title/tt1392214
 tags:
 - movies
-title: Os Reis do Ié-Ié-Ié
+title: Os Suspeitos
 ---
 
-"Um filme é um documentário de sua época", dizia um crítico cujo nome não me recordo. No caso de "A Hard Day's Nigh", cinquenta anos depois, isso não poderia ser mais verdade.
+O cansaço, desânimo e um envolvimento ilimitado na busca de duas meninas desaparecidas é o que forma a base de Os Suspeitos, mantida todo o tempo por três pilares fundamentais: o detetive e o pai incansáveis formam dois deles; a direção impecável de Denis Villeneuve (do excelente [Incêndios]) no desenvolvimento da trama forma o terceiro.
 
-Dirigido por Richard Lester (Superman II), é o primeiro trabalho que o diretor realiza com os Beatles (mais tarde ele faria ainda Help! e Como eu Ganhei a Guerra, esse com John Lennon apenas). Ele retrata um dia na vida dos pop stars, quase sempre perseguidos por garotas onde quer que passem, e deixando seu empresário maluco com suas irreverências e fugas.
+Construindo a tensão mesmo antes que as duas crianças sumam usando a figura do furgão como uma ameaça sem rosto, o Dia de Ação de Graças entre os vizinhos vira um pesadelo em questão de segundos. Naquele mesmo momento, há uma economia preciosa ao cortar para a noite e já nos apresentar ao herói da trama, o Detetive Loki (Jake Gylenhaal). Sem nunca saber muito bem seu passado (algo incomum no gênero), pegamos fiapos de sua personalidade durante a incessante investigação, movida de perto e em paralelo pelo igualmente incansável Keller Dover, um dos pais da garota (Hugh Jackman).
 
-Várias gags são claramente inseridas ao acaso. A maior delas é um avô de Paul McCartney que viaja com os rapazes, e vive os colocando (e se colocando) em apuros, além de todos notarem que é um senhor "muito limpo".
+O que realmente empolga em Os Suspeitos é entender que um policial não precisa entregar todas as respostas de bandeja ao espectador, mas precisa sim manter sua atenção através de pistas (falsas ou verdadeiras) e uma narrativa que vá sempre nos movendo na história. No caso, a investigação de ambos os personagens (os pilares que mencionei) é primordial pelas formas distintas de pensamento e ação, o que nos divide: em determinado momento acreditamos na efetividade das ações do pai e em outro já desconfiamos que suas conclusões vão longe demais, quando passamos a acompanhar com mais cuidado os passos do detetive.
 
-O fato é que Paul, John, George e Ringo eram rapazes carismáticos, e interpretando a si mesmos não parecia em nenhum momento uma tarefa difícil. O engenhoso desse trabalho é de fato o uso inventivo da câmera, que persegue os garotos usando enquadramentos e montagens que lembram o que hoje conhecemos como vídeo-clipes. Bom, não essa mídia naquela época. Logo, temos algo a mais nesse filme que nem o Cinema nem a TV ainda faziam. E o difícil aqui é não se sentir contagiado ou anestesiado com tanta energia natural que sai das inúmeras sequências agitadas do longa, quase sempre acompanhadas de uma trilha sonora.
+Além disso, as dicas espalhadas pelo cenário são de prender a respiração. Quando notamos que símbolos, objetos e até mesmo o tempo (chove e neva com frequência no local) podem desempenhar uma função primordial nas investigações, além de manter o espectador sempre com condições de acompanhar o raciocínio que vai se formando.
 
-Recheado de sucessos do álbum homônimo, o maior atrativo são os momentos musicais. O filme é um documentário e um musical ao mesmo tempo, além de ser uma ficção neo-realista. Há muitos momentos gravados da banda, mas nenhum colocado no formato de filme. A Hard Day's Night é um legado que merece ser preservado.
+Porém, não é só a história que prende a atenção: as atuações são exemplares. Paul Dano representa a figura tão presente em filmes de suspense do jovem mentalmente limitado que possui informações vitais de uma forma completamente verossímil, e mesmo assim temos dúvidas quanto ao caráter do rapaz. Já Hugh Jackman representa o pai atordoado que não consegue parar de pensar que deveria estar sempre presente para proteger sua filha (e seus olhos ligeiros e pensamentos cada vez mais próximos de sua ação conseguem transpassar esse desespero). No topo da lista elencaria Jake Gyllenhaal como o detetive que possui mais personalidade quando não faz algo do que quando faz, sendo as discussões com seu chefe particularmente reveladoras. E não poderia citar outros personagens que se tornarão importantes demais para a trama no terço final.
+
+Enfim, um policial dos bons como não se costuma ver.
+
+[Incêndios]: {{< relref "incendios" >}}
 

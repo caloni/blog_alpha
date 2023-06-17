@@ -1,23 +1,18 @@
 ---
 categories:
 - writting
-date: '2016-03-19'
-link: https://www.imdb.com/title/tt2217859
+date: '2015-09-12'
+link: https://www.imdb.com/title/tt4341500
 tags:
-- cinemaqui
-- movies
-title: Mais Forte Que Bombas
+- series
+title: Mais um Verão Americano (piloto)
 ---
 
-Mais Forte Que Bombas consegue pegar o contexto mais imediatista dos conflitos armados, onde pessoas morrem e sofrem todos os dias, e através de uma fotógrafa que vive esse dia-a-dia trazer a questão de outros tipos de conflitos, mais internos e intrínsecos da convivência entre seres humanos. Se torna uma tarefa difícil considerar a depressão um problema tão urgente quanto soldados atirando em mulheres e crianças, mas a dedicação  do filme em elaborar uma intrincada rede de sentimentos, navegando por diferentes períodos na vida dos seus personagens, favorece imensamente essa conexão entre sofrimento interno e externo.
+A Netflix é uma empresa, e como toda empresa ambiciona o lucro. Por causa disso obviamente não consegue se desvencilhar do seu destino Hollywoodiano de descobrir uma fórmula e repeti-la à exaustão. É assim com seu conteúdo adulto -- sexo ocasional + violência exarcebada -- e é assim com suas comédias agrada-público-medíocre -- atores divertidos/comediantes, uma ou outra fala interessante, o tema acima da arte.
 
-E é assim que a primeira sequência, mostrando o nascimento do bebê de um casal jovem, se transforma em poucos minutos em um exemplo de desencontro que revela mais do que deveria. É no final de um abraço inesperado, e o que ele irá significar no futuro da relação da família recém-formada, que se mantém uma narrativa cheia de movimentos sutis e o vai-e-vem do tempo vai fazendo cada vez mais sentido, pois vamos entendendo melhor cada personagem e suas relações.
+E é assim que nasce uma fábrica de obras que reciclam o velho seriado norte-americano da época de Nanny, Full House, Um Maluco no Pedaço e tantos outros que capturaram o espírito americano de dar risada e globalizaram em uma fórmula fácil de pegar para todo mundo. O brasileiro, então, acostumado a fórmulas de stand-up verdadeiramente medíocres -- fruto de nossa ainda presente censura -- é um alvo certeiro. Pelo menos essa é a ideia inicial.
 
-O roteiro, composto por Eskil Vogt e Joachim Trier, este também assinando a direção, estabelece pequenos fragmentos de conversa entre a fotógrafa Erin (Rachel Brosnahan), seu marido Gene (Gabriel Byrne), seus filhos Jonah (Jesse Eisenberg) e Conrad (Devin Druid). Essas conversas estão espalhadas no tempo pois são guiadas pelo trauma e pelo impacto da morte de Erin em um acidente de carro. O filme dedica um bom tempo com o jovem problemático Conrad, pois esse tempo é precioso justamente para que entendamos que ele não é problemático. Seu arco romântico é o que melhor define essa percepção realista de Conrad.
+E é por isso que Web Hot American Summer: First Day of Camp constrói suas expectativas em cima do óbvio, do certeiro e do que está na moda. O clima anos 80, 90, a necessidade de parecer moderno sem ser, e as velhas piadas recicladas em um formato idem. É o que torna fácil fabricar novas séries, e de certa forma o que confirma suas escolhas é justamente o público, que está preferindo cada vez mais conteúdo mais fácil de mastigar.
 
-Porém, em torno dele, giram impressões diferentes dos outros dois homens na família que passam por momentos diferentes em seus relacionamentos amorosos. Jonah está desesperado, premeditando que sua esposa o irá deixar. Experimentando talvez aquela ansiedade de pai de primeira viagem, ele foge de seu relacionamento buscando amparo tanto em uma ex-namorada quanto na casa de seu pai, Gene. Este, por sua vez, passa por um momento de luto em que ele precisa manter seus dois filhos no radar, mas não evita se relacionar com uma professora do colégio onde leciona e onde seu filho Conrad estuda.
-
-A traição é um tema bastante explorado no longa, mas não da forma convencional. Estamos diante de seres particularmente maduros (ou discretos) a respeito de seus próprios defeitos, e tentam conviver com eles da melhor forma possível. Como um drama intimista, o filme realiza melhor suas peripécias ao revelar seus detalhes da trama casualmente. É dessa forma que um personagem pergunta ao outro se ele o traía, ou até descobrimos que uma determinada amante sabe da existência de sua esposa.
-
-São as lacunas, ou estilhaços, que se formam no tempo e no espaço entre esses personagens, que "Mais Forte Que Bombas" prevalece como uma oportunidade de assistir um filme sem um conflito suficientemente forte para nos manter tensos, mas, ainda assim, com personagens suficientemente interessantes para que a falta de um conflito maior se torne quase que irrelevante.
+E o que dizer de Unbreakable Kimmy Schmidt e sua velha história batida Punky Brewster e os inúmeros clichês de atores/atrizes que vão para Nova York tentar a sorte. Nem comento a respeito da cápsula do tempo, pois isso é exatamente sobre o que é a produção da série: pega-se o que já tem cinquenta anos, reproduz na tela via streaming. E viva o lugar-comum e as pessoas que o adoram.
 

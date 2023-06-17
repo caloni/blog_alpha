@@ -1,24 +1,21 @@
 ---
 categories:
 - writting
-date: '2016-10-21'
-link: https://www.imdb.com/title/tt6150202
+date: '2018-11-02'
+link: https://www.imdb.com/title/tt5523010
 tags:
+- cinemaqui
 - movies
-title: O Que Restou da Minha Vida
+title: O Quebra-Nozes e os Quatro Reinos
 ---
 
-Tratando da morte de uma maneira leve para depois reverenciar a perda das pessoas que amamos, O Que Restou da Minha Vida é um misto de temas que combina comédia, romance e drama em uma sequência de idas e voltas não necessariamente confusas, mas frustrantes.
+"O Quebra-Nozes e os Quebra Reinos" tem cara de filme que inicia franquia. Inspirado no famoso balé de Tchaikovsky que por sua vez se baseou em um conto do escritor E. T. A. Hoffmann, a essência da história foi totalmente modificada, estendida e esticada para basicamente propósitos de direção de arte e trilha sonora. Uma história que era sobre um soldadinho quebrador de nozes de repente vira uma espécie de versão em miniatura de Crônicas de Nárnia com direito a guerra, traição, perda e todo um conjunto dramático.
 
-O filme começa explicando o porquê de Schimon (Christoph Letkowski) não se incomodar tanto com a morte: desde pequeno ele gravava seu avô dizer para não se preocupar, pois a morte, segundo ele, é apenas um novo começo. Tanto que ele ouviu, em primeira mão, as ultimas batidas do coração de seu avô.
+A história gira em torno da jovem Clara (Mackenzie Foy, a filha do casal mais adorado na saga Crepúsculo) e sua busca pela chave que irá abrir o presente que a mãe, falecida, deixara para entregar aos seus filhos na véspera do Natal. O problema é que a chave faz parte de outro "presente", do seu padrinho, que localizado em um outro mundo, irá revelar uma espécie de fantasia real de sua mãe, que envolve quatro reinos que viviam em harmonia com um deles atualmente em guerra.
 
-O velho, além de contar de várias formas a maneira como encontrou sua amada durante a guerra, também dizia que as coisas acontecem por um motivo. Bem, se há algum motivo para a sequência desastrosa que levou Schimon a ficar viúvo da jovem Jella (Karoline Bär), seria para se encontrar com a sorridente Milena (Luise Heyer), com quem começa a namorar duas semanas depois do enterro da esposa.
+Se tratando de uma versão preguiçosa de crítica política onde as aparências enganam, sobre a relação complicada entre pai e filha após a morte da mãe e sobre o único soldado negro que guarda isolado a ponte para o reino em briga, "O Quebra Nozes" tenta não se prender muito na história, que serve unicamente para impulsionar novas cenas onde se pode ver a real virtude do filme: uma direção de arte aliada ao digital que cria cenários riquíssimos em cores, luzes e estilo. A inspiração é a Rússia imperial e a trilha sonora de Tchaikovsky, usada com certa economia porque já se trata de uma música usada e abusada no decorrer de mais de um século. É um filme sobre um sonho, mas ele próprio também sonha: em ser algo mais que apenas um filme.
 
-O diretor estreante -- e um dos roteiristas -- Jens Wischnewski começa, então, uma jornada que oscila entre o começo de dois romances: o que acabou em morte e o que começou nela. Cuidando para que ambas as histórias se completem e se influenciem, ele consegue unir a fugir de uma cadeira ou um balão roxo como símbolos de um luto que continua apesar da nova vida e do novo amor. Além disso, o roteiro usa e abusa de coincidências para tornar o romance entre eles como algo fruto do destino, mas se esquece de desenvolvê-los como se deve (o trabalho de Milena na ala terminal infantil é usada em uma cena, ignorando a parte triste de encarar a morte através dos inúmeros desenhos das crianças que por lá passaram).
+Seu aspecto mais temático e menos narrativo prejudica o elenco. Em específico Keira Knightley e Helen Mirren, que possuem mais tempo de tela e que precisam criar alguma dinâmica em suas personagens para manter a história interessante. Os exageros na entonação de Knightley e a gentileza aliada à robustez de Mirren entregam boas atuações em um pacote feito meramente para entreter, e nada mais. Isso é frustrante, porque assim que as brilhantes ideias do design de arte se acabam não sobra mais nada senão acompanhar o desfecho previsível e esquecível. E por mais impactante que seja o visual, ele é vazio de significado se não há história à altura.
 
-O que faz com que esse seja um filme com um senso de humor bem peculiar, do tipo onde a estátua da falecida é colocada no banco de trás de seu carro para que se encontre a nova namorada no porta-malas. Além disso, o vai-e-vem constante torna os sentimentos do espectador divididos entre o que é certo e errado para Schimon sentir nesse momento. Por outro lado, se torna uma forma visual bem interessante de mostrar como a perda de alguém que fez parte de nossa vida de fato nunca é o fim, pois as impressões e as memórias e parte do nosso caráter continua ativo em nós.
-
-Há elementos bem espertos que fazem do filme um trabalho rico em símbolos. Além do balão e da cadeira já citados, o uso da nova namorada tocando uma corneta soa como algo tão inapropriado quanto escrever músicas para banheiros. Como eu disse, há um senso de humor bem peculiar no filme, e desconfio que isso não se deve apenas por causa do luto.
-
-Porém, talvez a questão mais problemática seja mesmo o terceiro ato, que investe na figura de uma amante compreensiva demais com um sujeito que vem delineando sérios problemas psicológicos, além de subitamente fazer o rapaz retroceder sua vida em um dia especial para o novo casal, onde mais uma vez o roteiro soa forçado. De qualquer forma, há algo agradável em acompanhar Schimon através da descoberta do luto, seja pelo lado inesperado ou até pelo interessante conceito. O que não o torna automaticamente um trabalho complexo.
+Para as crianças mais jovens talvez tenebroso demais, para adolescente chato e sem nada a oferecer e para adultos uma experiência visual incrível que não encontra uma história que permaneça 10 minutos após a projeção, "O Quebra Nozes" é mais luz e menos ação. E ainda é tímido de usar uma trilha que virou patrimônio histórico e público do cinema e da TV. Como um mini-bônus ele tem a oportunidade de mostrar rapidamente as impressionantes performances dos dançarinos profissionais Misty Copeland e Zachary Catazaro, mas mais uma vez, a que público isso se destina?
 

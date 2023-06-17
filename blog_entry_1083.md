@@ -1,102 +1,27 @@
 ---
-
-Padrão C (ISO/IEC 9899:1990)
-    
-    6.5.3 type-qualifier
-     const
-     volatile
-
-    Padrão C++ (ISO/IEC 14882:1998)
-    
-    cv-qualifier
-     const
-     volatile
-
-#### Qualificadores de tipo
-
-Chamamos de qualificador de tipo as palavrinhas mágicas **const** e **volatile**. Na prática elas definem como uma determinada variável será usada e se comportará durante a vida do programa.
-
-#### Const
-
-Uma variável const não pode ser alterada pelo programa durante sua execução, apenas durante sua inicialização:
-
-    const float pi = 3.14; // até onde sabemos, pi não irá mudar neste Universo
-
-No exemplo acima, o valor de pi não pode mais ser alterado. Só que repare que ele foi, em determinado momento, alterado com um valor constante: na sua inicialização. Isso quer dizer que:
-
-  * pi é uma variável no programa representada por um local na memória **endereçável **pelo programa
-  * pi não é um define do pré-processador que irá virar uma constante literal (3.14, por exemplo)
-
-    // eu posso endereçar uma constante,
-    // desde que qualifique corretamente meu ponteiro
-    const float* ppi = & pi;
-
-{{< image src="V6eR9ln.png" caption="const-memory.png" >}}
-
-Teoricamente a região da memória que contiver uma variável const pode ser qualificada pelo sistema operacional como somente-leitura, mas isso não é uma obrigação. É obrigação do compilador avisar sobre tentativas de alteração da variável no meio do programa, mas nem sempre é possível enxergar que a memória não é alterável. Dessa forma, resultados imprevisíveis podem ocorrer.
-
-{{< image src="d51bAIH.png" caption="const-gpf.png" >}}
-
-#### Uso prático
-
-Eu costumo usar variáveis const no lugar de defines. Além de ganhar na tipagem as constantes não precisam ser necessariamente globais, nem acessíveis por outros módulos. Um outro uso muito comum é criar variáveis locais que você sabe que não devem ser alteráveis por ninguém, como o tamanho de matrizes primitivas.
-
-```
-namespace Math
-{
-	const float Pi = 3.14;
-}
-
-//...
-
-int func1(int x)
-{
-	float calc = x * Math::Pi;
-	return calc;
-}
-
-//...
-
-int func2(int y)
-{
-	const size_t PathSize = MAX_PATH * 2;
-	//...
-	char path[PathSize];
-	//...
-}
- 
-
-```
-
-#### Volatile
-
-O significado do volatile teoricamente muda de implementação para implementação, mas na prática é uma forma de definir uma variável que está sendo acessada por outros programas/threads/entidades espíritas que podem alterar o seu valor sem seu programa notar quando.
-
-{{< image src="carbzjo.jpg" caption="Se concentre! Não é esse tipo de volatile!" >}}
-
-O exemplo clássico da API Win32 é o [InterlockedIncrement](http://msdn.microsoft.com/en-us/library/ms683614%28VS.85%29.aspx), que realiza operações atômicas em valores inteiros. Para fazer isso é necessário usar um recurso interno disponível pelo processador que irá modificar a memória sem intrusão de outras threads/processadores.
-
-{{< image src="3mqVrqA.png" caption="interlocked-increment.png" >}}
-
-#### Uso prático
-
-Variáveis volatile geralmente interagem de alguma forma com o sistema em que rodam, e são representadas por ponteiros para memória retornada por esse sistema ou documentada como sendo de uso específico.
-
-#### Const e Volatile
-
-É possível que exista uma variável que não pode ser modificada pelo seu programa, mas é modificada pelo sistema, de forma que ela é uma mutante!
-
-    
-    /// endereça o relógio do sistema, atualizado a cada 1/100 milissegundos
-    const volatile int* g_systemClock = (const volatile int*) 0x7689B9D4;
-
-{{< image src="4zUSxmJ.jpg" caption="mutante" >}}
-
-A definição de *g_systemClock é de uma memória que não pode ser alterada; só que ela é, pelo sistema. Então a variável também é volatile. No entanto, independente de ser const ou volatile, o tipo nunca será **alterado**, apenas **qualificado**. São duas coisas diferentes na linguagem.
-
----
 categories:
-- coding
-date: 2019-04-29 20:56:48-03:00
-tags: null
-title: Const Int Pointer Var
+- writting
+date: '2018-03-28'
+link: https://www.imdb.com/title/tt7368464
+tags:
+- cinemaqui
+- movies
+title: Construindo Pontes
+---
+
+O ditado popular reza que futebol, religião e política não se discute. Discordo. Porém, ainda que seja necessário discutir todo e qualquer tema, acho difícil alguém discordar, incluindo os participantes de Construindo Pontes, que discutir política é de longe a atividade mais extenuante de todas.
+
+Porém, uma atividade necessária. E o que a fotógrafa Heloísa Passos faz aqui como documentarista é abrir feridas em sua própria família, uma ação que ela também julga necessária. E por família leia-se pai.
+
+Ela e seu pai nunca foram muito próximos desde a época em que ele mal tirava férias, mas com o passar do tempo a distância entre eles piorou quando cada um se moveu para um extremo diferente de opiniões. Quando a filha vira diretora e começa a construir uma narrativa em torno da usina de Itaipu e do afogamento de Sete Quedas, em plena ditadura militar, ela resolve consultar o pai, engenheiro dessa mesma época, e responsável por importantes obras no Paraná, principalmente pontes e ferrovias.
+
+Conforme Heloísa faz com que seu pai comente os vídeos das obras faraônicas daquela época surge a questão política entre eles. Para o engenheiro, o único momento que houve na história do Brasil um "projeto de país" foi em seu início (que ele chama de revolução). E essa opinião é o estopim para ouvirmos Heloísa retrucar, sempre em uma voz alta e afetada. Dinâmica que vai se tornando comum durante o longa, a narrativa de Heloísa vai mudando aos poucos, e a história de Sete Quedas, assim como ocorreu na construção da usina, fica soterrada de lama.
+
+Independente de quem está com a razão nas crescentes discussões dos dois (geralmente ninguém), elas chegam até o momento atual do país, com a Operação Lava Jato e a caça aos corruptos empregada pelo magistrado Sérgio Moro. E como você deve conseguir prever, caro leitor, é esse o momento de maior cisão entre os dois. E, indiretamente, de quem está na sala de cinema, se debatendo pelo menos contra um dos lados da discussão. Esse efeito irracional que bate em todos nós é fruto da necessidade instintiva de protegermos os nossos valores mais arraigados. E é essa a razão do ditado popular. É como se estivéssemos a todo o tempo sendo atacados, e o organismo response com picos de adrenalina.
+
+Por isso mesmo discutir política é uma atividade desgastante. E no caso do filme, aparentemente inútil. Pelo menos no que diz respeito ao objetivo inicial da diretora. Porém, ainda assim, dotado de mãos habilidosas em costurar uma narrativa conforme ela vai se formando, Heloísa sintetiza de maneira brilhante o atual momento de cisão do próprio país, que se divide binariamente em coxinhas e petralhas, criando assim um novo sentido para seu projeto. E essa cisão, é importante lembrar, existe inclusive (e talvez principalmente) entre as famílias, que ela resume como "o não-dito".
+
+A forma de Heloísa fotografar todas essas cenas não poderia ser melhor. Dotada de mecanismos praticamente caseiros para realizar este trabalho, em nenhum momento temos a sensação de amadorismo. Isso também graças à edição dinâmica, que vai se movendo de um ponto a outro da história rapidamente, sem nos dar sequer tempo de raciocinar sobre qual é o tema. Dentro desse aspecto, se torna genial, pois emula o próprio trabalho da diretora, que vai de edição para filmagem e de filmagem para edição, sem saber onde tudo isso vai parar. Um processo que, diga-se de passagem, é ignorado pelo seu pai. E ele, por outro lado, com um discurso mais vivido, esconde uma certa sabedoria em suas palavras ditas com cuidado para sua filha, que por sua vez, sempre falando um tom de voz acima do dele, desconhece.
+
+Dessa forma, qualquer projeto desses hoje em dia, que tente abrir feridas de discussões das mais arraigadas entre nós, tem certa chance de sucesso. Como foi em Construindo Pontes. O mérito fica todo por conta da realizadora, que colocou sua cara a tapa e revelou no processo uma realidade interessantíssima do atual momento da sociedade, que briga constantemente nas redes sociais. Trazer isso para a vida real, no seio de uma família, foi uma tarefa metalinguística no mínimo interessante.
+

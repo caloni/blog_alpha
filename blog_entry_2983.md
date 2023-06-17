@@ -1,19 +1,142 @@
 ---
-categories:
-- writting
-date: '2021-07-24T22:25:45-03:00'
-tags:
-- movies
-title: Paixão Selvagem
+categories: []
+date: '2017-02-19'
+tags: null
+title: 'Palestra: como criar moedas digitais em casa com C++ (kick-off)'
 ---
 
-Esse é um dos primeiros filmes que vi no Noitão Belas Artes. Talvez tenha sido o primeiro evento deles. O tema: paixões avassaladoras.
+Esta palestra tem como objetivo ensinar o que são moedas digitais, como o bitcoin, e cada passo necessário o algoritmo e implementação para torná-la real. Será utilizado C++ como a linguagem-base e o foco está mais na implementação do que na matemática ou no algoritmo. Assim como foi criado o bitcoin, o importante a aprender é como unir diferentes tipos de conhecimento e tecnologia em torno de um objetivo único, simples e prático.
 
-O filme é um marco em trabalhos trash. Praticamente um Almodóvar em francês. A história: um gay se apaixona por uma gamine de beira de estrada e não consegue enfiar no cuzinho dela porque todos os hotéis reclamam que ela grita muito.
+{{< image src="TAunJPB.png" caption="" >}}
 
-Esta é uma declaração de amor ao sujo, ao errado, ao tosco. É linda tamanha dedicação ao cinema independente, às histórias politicamente incorretas. Hoje seria proibido. Há um diálogo entre um gay e um negro e um xinga o outro. Há um baile onde acontecem sessões de stripteasing forçado e com zero sensualidade. O dono da hamburgueria é um grosso e vive peidando ("é o champanhe!"). Há um sentimento marginal que começa com um caminhão que carrega lixo, roupas usadas, bacias sanitárias e bidês, e o último refúgio de um casal de apaixonados em seu momento mais íntimo: o sexo anal mais barulhento, mais sensual e mais cafona que você verá em uma telona.
+A partir da criação da moeda surge a necessidade de facilitar o seu uso, um problema recorrente em todas as mais de 700 moedas digitais existentes no mercado e no laboratório, incluindo o bitcoin. Após a palestra teremos uma discussão de como levar a tecnologia ao usuário comum.
 
-Duas músicas principais, econômicas, são usadas para os dois casais desse triângulo amoroso. Ambas são inesquecíveis. A paixão e o seguro. A paixão é o idealizado impossível. O seguro é a vida arriscada dos comprometidos.
+### Construindo os princípios básicos
 
-Com uma participação minúscula de Gerard Depardieu dizendo que tem um pinto enorme que já causou problemas na polícia. Ele sai de cena acariciando seu cavalo. Já se convenceu e foi assistir?
+Para nossa moeda digital utilizaremos um sistema simples, rápido e prático para subir informações na memória de um nó (server) e repassar essas informações para outros nós, o tiodb. Este projeto mantém contêineres STL na memória da maneira mais enxuta possível e eles são acessíveis através do protocolo mais simples possível utilizando uma gama de linguagens (C, C++, Python, .NET).
+
+A primeira coisa é compilar o projeto tiodb, que irá disponibilizar alguns binários em sua saída:
+
+ - __tio.exe__ é o executável central cuja instância mantém contêineres na memória;
+ - __InteliHubExplorer.exe__ é uma interface simples para navegar por esses contêineres;
+ - __tioclient.dll__ é a biblioteca dinâmica que pode ser usada por clientes para acessar o tio.
+
+Podemos rodar o tio deixando ele usar os parâmetros padrão ou alterar número da porta e outros detalhes. Vamos executar da maneira mais simples:
+
+```
+C:\Projects\tiocoin\tiodb\bin\x64\Debug>tio
+Tio, The Information Overlord. Copyright Rodrigo Strauss (www.1bit.com.br)
+Starting infrastructure...
+Saving files to C:/Users/Caloni/AppData/Local/Temp
+Listening on port 2605
+Up and running!
+```
+
+OK, tio rodando e ativo. Podemos navegar já pelos seus contêineres usando o InteliHubExplorer:
+
+{{< image src="YJZ7wxC.png" caption="" >}}
+
+Por convenção os contêineres seguem um padrão de nomes que se assemelha a uma hierarquia de diretórios, e os nomes que começam com underline são internos/reservados. O contêiner __meta__/sessions, por exemplo, contém uma lista simples das conexões ativas deste nó.
+
+A partir do servidor funcionando é possível criar novos contêineres e mantê-los, adicionando, atualizando e removendo itens. A partir dessas modificações outros clientes podem receber notícias dessas modificações e tomar suas próprias decisões.
+
+Vamos criar e popular um contêiner inicial de transações com  um GUID zerado, e a partir dele vamos adicionando novas "transações". Também iremos permitir o monitoramento dessas transações.
+
+```
+try
+{
+    tio::Connection conn;
+    conn.Connect(server, port);
+
+    if (args.find("--build") != args.end())
+    {
+        tio::containers::list<string> transactionsBuilder;
+        transactionsBuilder.create(&conn, "transactions", "volatile_list");
+        transactionsBuilder.push_back("{00000000-0000-0000-0000-0000000000000");
+    }
+    else if (args.find("--add") != args.end())
+    {
+        tio::containers::list<string> transactionsAdd;
+        transactionsAdd.create(&conn, "transactions", "volatile_list");
+        string newTransaction = NewGuid();
+        if( newTransaction.size())
+            transactionsAdd.push_back(newTransaction);
+        else
+            cout << "Error creating transaction\n";
+    }
+    else if (args.find("--monitor") != args.end())
+    {
+        tio::containers::list<string> transactionsMonitor;
+        transactionsMonitor.open(&conn, "transactions");
+        transactionsMonitor.subscribe([](auto container, auto containerEvt, auto key, auto value)
+                {
+                int eventCode = stoi(containerEvt);
+
+                switch (eventCode)
+                {
+                case TIO_COMMAND_PING:
+                cout << "Ping!\n";
+                break;
+
+                case TIO_EVENT_SNAPSHOT_END:
+                cout << "Snapshot end\n";
+                break;
+
+                case TIO_COMMAND_PUSH_BACK:
+                cout << "New transaction " << value << " inserted\n";
+                break;
+
+                default:
+                cout << "Unknown event " << hex << eventCode << " with key " << dec << key << " and with value " << value;
+                break;
+                }
+                });
+        while (true)
+        {
+            conn.WaitForNextEventAndDispatch(0);
+            Sleep(1000);
+        }
+    }
+    else
+    {
+        tio::containers::list<string> transactionsReader;
+        transactionsReader.open(&conn, "transactions");
+        for( size_t transactionIdx = 0; transactionIdx < transactionsReader.size(); ++transactionIdx )
+            cout << "Transaction " << transactionsReader.at(transactionIdx) << endl;
+    }
+
+    break; // just testing and developing...
+}
+catch (tio::tio_exception& e)
+{
+    Log("Connection error: %s", e.what());
+    break;
+}
+catch (std::runtime_error& e)
+{
+    Log("Runtime error: %s", e.what());
+    break;
+}
+catch (...)
+{
+    Log("Catastrophic error");
+    break;
+}
+```
+
+Após executar esse código passando o argumento "--build" e atualizarmos o IntelihubExplorer poderemos ver o novo contêiner e seu conteúdo:
+
+{{< image src="3Mhj2lE.png" caption="" >}}
+
+É possível ler o código rodando o mesmo programa sem passar o argumento "--build":
+
+{{< image src="CxdmZhy.png" caption="" >}}
+
+Agora imagine que exista um cliente da tiocoin que está monitorando as transações deste servidor para verificar a partir de qual momento uma transação foi aceita (supondo que este contêiner possui as transações aceitas):
+
+{{< image src="kLrPawv.png" caption="" >}}
+
+Voilà! Agora temos um sistema inicial com um contêiner que irá manter os IDs de supostas transações de nossa moeda digital. Está compilando e está rodando, e em cima disso poderemos ir adicionando as funcionalidades.
+
+Atenção: você poderá encontrar o repositório do tiocoin [aqui](https://github.com/bitforgebr/tiocoin).
 

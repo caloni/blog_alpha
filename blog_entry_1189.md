@@ -1,20 +1,20 @@
 ---
-
-Encerrando a trilogia da viagem no tempo, o diretor-roteirista Robert Zemeckis vai audaciosamente 100 anos atrás, no velho oeste, para buscar a aventura e a curva dramática de um personagem até então esquecido, mas vital para o sucesso da franquia: o cientista pseudo-maluco Dr. Brown (Christopher Lloyd). Mais audaciosamente ainda, fecha com chave de ouro uma das trilogias mais bem sucedidas do Cinema ao fazer referência à própria Sétima Arte ao brincar com figuras como Clint Eastwood. Alan Silvestri adapta sua música-tema e sua orquestração para a época, e as tomadas tomam um aspecto completamente inusitado do que poderia se esperar de um filme de ficção científica.
-
-Talvez o último não seja mais tão científico, mas não há como negar que a ciência está ali, na figura de Emmett Brown. No entanto, mais do que uma aspiração materialista subentendido no primeiro, há aqui uma visão mais espiritual e filosófica do que significa o tempo, e como o destino consegue ser influenciado não apenas por uma engenhoca inventada por um cientista maluco, mas por escolhas que fazemos todos os dias. Não há como saber o que nos espera o futuro, pois a cada dia ele está sendo completamente reescrito.
-
-O romance entre Brown e Clara Clayton é instantaneamente encantador. Não à toa, ela é uma professora do interior fascinada por ciência e Julio Verne, assim como Doc. Brown, como convenientemente descobrimos nesse episódio. Marty vira um personagem coadjuvante, embora vital, para selar para sempre no tempo essa amizade que já dura três filmes e incessantes viagens no tempo, isso no espaço de algumas horas (se considerarmos os ganchos entre cada filme, tudo se resumiu a uma tarde no tempo de 1985).
-
-A presença novamente espirituosa de Thomas F. Wilson como Buford "Cachorro Louco" Tannen dá o tom do conflito mais uma vez. É preciso ressaltar a importância de um vilão tão caricato e adorável em todos os três filmes. Sem ele as viagens espaço-temporais de Doc Brown e Marty não seriam as mesmas.
-
-Rodado ao mesmo tempo que Parte II, esse é um filme que mais uma vez se destaca, comprovando que é possível realizar três filmes sobre viagem no tempo, cada um com sua temática e ritmo, usando os mesmos bem construídos personagens. Ele se transforma aos poucos em uma despedida e homenagem ao universo que tanto contribuiu para a Sétima Arte. Adoraria que fossem feitos mais sequências, mas temo que a época da inocência e do humor ingênuo já esteja em algum lugar do passado.
-
----
 categories:
 - writting
-date: '2016-02-27'
-link: https://www.imdb.com/title/tt1431045
+date: '2018-05-19'
+link: https://www.imdb.com/title/tt5463162
 tags:
 - movies
-title: Deadpool
+title: Deadpool 2
+---
+
+Hollywood é preguiçosa e todo mundo sabe. Eles só querem saber de dinheiro e não são altruístas. E quando Deadpool surgiu com as brincadeiras da violência e linguajar exagerados (pelo menos para filmes de super-heróis), além da quebra da quarta parede, onde o mocinho conversa com o espectador e fica jogando referências do mundo onde essas histórias são criadas, seu sucesso de bilheteria virou um bilhete de loteria para sua primeira continuação, que segue passo-a-passo a mesma fórmula do primeiro. Não é um filme sobre uma história de fato, mas uma história sobre um filme sendo escrachado. Não há nada, nadinha de nada de novo, nada vai surpreender, e nada vai aborrecer. É um filme quadrado que volta a falar conosco em um linguajar agressivo e violência de 18 anos (que alívio) para se pagar de cool mais uma vez sem precisar sair da mesmice. Os fãs esperam isso, este é um filme típico caça-níqueis de nicho, não foi muito bem finalizado, força seu CGI, e está estreando praticamente ao mesmo tempo que "Vingadores: Guerra Infinita" em uma clara mensagem que eles mesmos estão pouco se f...
+
+E em um jogo de metalinguagem rebuscado que atravessa alguns níveis para colocar o espectador preguiçoso onde eles precisa, eles conseguem. Um filme de super-herói tradicional que se paga de irreverente e esperto, pois posssui sempre na manga o Ás da quarta parede, brincando com a ideia de fazer um filme B e com personagens menores do que deveriam. O truque aqui é a auto-depreciação, não apenas do personagem Deadpool, mas de todo o filme. O filme berra para nós: "olha como somos diferentões! nós colocamos crianças gordas em meio a uma prisão barra pesada e fazemos piadas com racismo mesmo não sendo!". E ele não faz isso aparentemente apenas para seguir a cartilha politicamente correta, mas para sutilmente sabotá-la. Se torna simpático saber que a zoeira não tem limites, desde que ela fique entre essas quatro paredes.
+
+Para os fãs, eu garanto que haverá vários momentos-referências divertidíssimas de encontrar, piadas rápidas demais para dar tempo de pensarmos (vale uma revisão se você gostou muito), pelo menos duas sequências de ação memoráveis (a pré-créditos e um resgate a um caminhão onde a personagem de Zazie Beetz brilha) e uma certa beleza emergindo da pálida tentativa de fugir da mesmice. Ela persegue os filmes da Marvel mais do que nunca depois de dez anos batalhando para construir uma marca. Bom, essa marca está consolidada com Guerra Infinita. Parabéns. E sua audiência só sobe. O que é um pequeno agrado para os fãs mais sagazes como um Deadpool 2, tecendo comentários auto-depreciativos sobre a própria criação?
+
+Talvez Deadpool seja o último refúgio desses filmes menores, mas que conseguem manter o ritmo e a atenção graças a um trabalho de roteiro alinhado com a proposta. Rhett Reese é um escritor medíocre com boas ideias (a brincadeira nerd Zumbilândia e o trash espacial Vida). Paul Wernick está nos mesmos créditos. E Ryan Reynolds estreia no roteiro auxiliando a dar forma ao seu personagem. Ele também participa das ótimas brincadeiras pós-créditos (apenas um pouquinho pós; não precisa esperar muito) envolvendo os pequenos desastres de Wolwerine Origins e Lanterna Verde.
+
+Espertinho demais para gerar risadas autênticas (mas piscadelas a torto e a direito), Deadpool 2: O Retorno de Quem Não Foi soa como uma continuação preguiçosa e o próprio herói aponta isso duas vezes. O fato de você criticar seu próprio filme não o torna melhor, assim como a auto-depreciação não lhe torna digno de pena. São apenas caminhos lamentáveis para se manter relevante mesmo não sendo. Mas este é o show business, e para ele está de bom tamanho.
+

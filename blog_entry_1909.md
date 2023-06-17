@@ -1,23 +1,18 @@
 ---
-categories: []
-date: '2017-10-06'
+categories:
+- writting
+date: '2012-04-02'
+link: https://www.imdb.com/title/tt0278504
 tags:
-- ccppbr
-title: Inscrições para o 14o. CCPPBRSP
+- movies
+title: Insônia
 ---
 
-Como já foi avisado anteriormente (mas agora com local definido), nosso próximo encontro acontecerá em São Paulo (capital) dia 25 de Novembro de 2017 (sábado), no Station Vila Olímpia. Teremos uma sala equipada para palestras e coffe-break de manhã e de tarde. Mais detalhes no hot site do evento.
+Em um momento em que Hollywood se esqueceu que os bons policiais/suspenses quase sempre vem dotados de uma carga dramática e multidimensional em seus personagens, o segundo trabalho de Christopher Nolan na direção vem lembrar aos cinéfilos que é possível construir uma narrativa inteligente e ainda assim ser envolvente pela sua ação.
 
-As inscrições pagas estão abertas! O valor único por participante é de R$ 50 reais, o que lhe dará direito a:
+Fazendo como David Fincher em [Os Homens que Não Amavam as Mulheres] e refazendo um longa sueco (na verdade, também norueguês) de 1997, a história gira em torno de uma cidade em que o sol não se põe (no original, na Noruega, aqui, no Alaska) e um crime envolvendo uma jovem brutalmente assassinada. Quando os detetives Will Dormer (Al Pacino) e Hap Eckhart (Martin Donovan) chegam ao local, no entanto, o clima de tensão já estava no ar e apenas piora em terra.
 
- - Entrada ao evento, com duração o dia inteiro com no mínimo cinco palestras.
- - Coffee-break de manhã e de tarde.
+Sem revelar spoilers fica difícil falar sobre a trama, mas podemos dizer que a relação entre Al Pacino e o misterioso assassino consegue produzir as melhores cenas, cheias de significado.
 
-Você pode efetuar o pagamento por PagSeguro ou Bitcoins. Para o primeiro apenas efetue o pagamento e seu email será cadastrado como participante. Para mais de um participante efetue quantos pagamentos for necessário. Para o segundo efetue o pagamento com o preço de venda em reais do BTC equivalente a R$ 50 reais no dia da transação e envie seu nome, email e link da transação para wanderley@caloni.com.br. Para mais de um participante efetue o valor equivalente e nos informe os nomes e emails dos participantes.
-
-1HY1EABQBdvGprR41xVeWcjqKbEN2PvxcP
-
-Basicamente isso é o que temos de informação. Em breve a programação será divulgada. Fique de olho!
-
-E nos vemos lá =)
+[Os Homens que Não Amavam as Mulheres]: {{< relref "millennium-os-homens-que-nao-amavam-as-mulheres" >}}
 

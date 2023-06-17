@@ -1,12 +1,16 @@
 ---
 categories:
 - writting
-date: '2014-05-23'
-link: https://www.imdb.com/title/tt1860353
+date: '2018-02-27'
+link: https://www.imdb.com/title/tt4093826
 tags:
-- movies
-title: Turbo
+- series
+title: Twin Peaks (2017)
 ---
 
-Turbo é, assim como Um Ratinho Encrenqueiro, um resultado inesperado. Assim como o velho clichê de colocar um ratinho dominando uma casa abandonada funciona mediocremente na maioria das vezes, colocar um caracol disputando uma corrida de automóveis é quase certo que irá conter a mesma estrutura que tantas outras animações possuem, ensinando que o bem sempre prevalece e que é importante manter vivos os sonhos dentro do coração. Não que a história não seja essa, mas além disso, Turbo tira vantagem dos seus elementos absurdos (um caracol que se move como um carro de corrida) para construir uma animação que diverte moderadamente sem cair demasiadamente na mensagem de moral. Ele consegue entreter através das maneiras inventivas de colocar a história um passo à frente de cada vez, quase soando plausível que um caracol esteja de fato nas 500 milhas de Indianápolis. Obviamente isso exige muito de suspensão de descrença, mas é bem recompensada.
+Você que conhece o diretor David Lynch sabe que ele não é muito afeito a narrativas ortodoxas e pensamentos não-oníricos. Então faz muito sentido você, que não assistiu à primeira versão de Twin Peaks, se tornar completamente perdido ao acompanhar esta pseudo-continuação do diretor em uma versão mais moderna, mas ainda assim, hermética.
+
+Estamos falando de Twin Peaks, uma série que flerta com o sobrenatural da maneira mais direta e crua possível. Não temos sequer qualquer explicação para os acontecimentos, e talvez seja isso que nos mantenha vidrados no que está acontecendo, e como está acontecendo.
+
+Que pessoas são essas, e como elas se envolvem? E por que tudo converge para a cidadezinha de Twin Peaks? Essas e outras questões são o combustível de uma série de mistério que, diferente de Além da Imaginação ou Black Mirror, mexem com a imaginação do espectador sem respostas prontas. É uma viagem, que pode ou não fazer sentido, mas nunca será maçante. Bom, talvez um pouquinho.
 

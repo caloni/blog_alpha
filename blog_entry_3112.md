@@ -1,135 +1,86 @@
 ---
 categories:
 - coding
-date: '2014-05-06'
+date: '2009-07-10'
 tags: null
-title: Poker Face
+title: Polimorfismo estático
 ---
 
-O segundo round da segunda fase do Code Jam passou nesse sábado. Disléxico que sou, consegui fazer apenas 8 pontos ¿ como todo mundo ¿ no teste small do problema B, que envolvia apenas dois loops aninhados (a versão large fica para outro post). Na verdade, estou aqui para expressar minha gratidão ao campeonato por ter aprendido mais uma bela lição vendo o código do primeiro colocado do primeiro round, vulgo [Kaizero](https://code.google.com/codejam/contest/2984486/scoreboard?c=2984486#vf=1), um coreano que deu uma solução simples, rápida e prática para um problema de probabilidade tão error-prone que até os juízes do Google deram uma lambuja de alguns testes errados (sem contar que houve apenas a categoria small), e me fez pensar em quantas vezes pensamos em demasiado tentando encontrar a solução perfeita para algo que simplesmente... não precisa.
-
-Basta um hack e [commit](http://pcottle.github.io/learnGitBranching/?NODEMO&defaultTab=remote&command=levels).
-
-## É a incerteza, idiota!
-
-{{< image src="LmkKDXm.jpg" caption="Poker Jam" >}}
-
-O problema reza que existem dois algoritmos para embaralhar uma sequência numérica (de 0 a N): o bom e o ruim. Ambos traçam um loop do iníco ao fim pegando aleatoriamente um elemento da lista e trocando de lugar com o elemento que está sendo varrido no momento.
-
-{{< image src="UTQPIST.jpg" caption="ProperShuffle" >}}
-
-A diferença entre o bom e o ruim é que o bom pega aleatoriamente apenas os elementos DEPOIS do elemento que está sendo varrido, enquanto o algoritmo ruim pega qualquer um dos elementos SEMPRE. Isso aparentemente e intuitivamente não parece interferir na aleatoriedade do embaralhamento, mas se levarmos ao extremo de embaralhar repetidas vezes somando a lista resultante percebemos uma tendência gritante do algoritmo ruim em manter o ordenamento inicial, ou pelo menos na média sempre tender para números menores no início e números maiores no fim, como pode ser visto nesse teste que fiz, gerado pelo Excel:
-
-{{< image src="OL0hpLv.jpg" caption="Gráfico dos Algoritmos de Embaralhamento" >}}
-
-O que eu tentei fazer durante meu fim-de-semana retrasado e o feriado foi encontrar um detector de aleatoriedade (aliás, encontrei um bem interessante chamado [ent](http://www.fourmilab.ch/random/)), tanto "na mão" quanto pesquisando. O que eu não imaginava foi que o teste que eu tinha feito no início usando uma simples planilha Excel era a solução óbvia (naquelas de é óbvio só depois que você vê). E foi essa a solução adotada por Kaizero.
+Para explicar polimorfismo, nada como ver as coisas como elas eram. Se você fosse um programador C de vinte anos atrás e criasse as seguintes funções:
 
 ```
-/** @author Kaizero
-@desc Versão comentada (em português) e desofuscada do código do 
-Code Jam 2014, 1A, problema 3 (Proper Shuffle)
-por Wanderley Caloni (wanderley@caloni.com.br).
-*/
-#pragma warning(disable:4996) // warning, pra que te quero...
-#include<stdio.h>
-#include<algorithm>
-#include<vector>
-#include<time.h>
-
-using namespace std;
-
-// as variáveis monossilábicas...
-int w[1001], C[1001][1001], O[1001];
-
-// Note que uma delas (C) é uma tabela gigantesca:
-
-// 1     2    3     4   ...  1001
-// 2
-// 3
-// ...
-// 1001
-
-// tabela verdade?
-bool v[1001];
-
-struct A
-{	
-	int ord, R;
-
-	bool operator <(const A &p)const
-	{
-		return R < p.R;
-	}
-}
-p[1000];
+int soma(int x, int y);
+double soma(double x, double y);
 
 int main()
 {
-	freopen("input.txt", "r", stdin);
-	freopen("output.txt", "w", stdout);
-
-	int i, TC, T, n, j;
-
-	srand((unsigned)time(NULL)); // mexendo o saco de bingo...
-
-	// a parte mais demorada: construir um contador gigante estilo 
-	// Excel com 3 milhões de iterações
-	for (i = 0; i < 3000000; i++)
-	{
-		// 1. Preenchemos o array sequencial.
-		for (j = 0; j < 1000; j++)
-		{
-			w[j] = j;
-		}
-
-		// 2. Realizamos o algorimo ruim.
-		for (j = 0; j < 1000; j++)
-		{
-			swap(w[j], w[rand() % 1000]);
-		}
-
-		// 3. Pesamos o resultado do algoritmo ruim.
-		for (j = 0; j < 1000; j++)
-		{
-			C[j][w[j]]++;
-		}
-	}
-
-	// agora a parte "fácil"...
-
-	// ler número de casos de teste (sempre 120)
-	scanf("%d", &TC);
-	for (T = 1; T <= TC; T++) // iterar por cada linha
-	{
-		scanf("%d", &n);
-		p[T].ord = T; // guardando sua posição
-
-		// lendo os números de todos os casos
-		for (i = 0; i < n; i++)
-		{
-			scanf("%d", &O[i]);
-			p[T].R += C[i][O[i]]; // mas gravando o peso de cada posição (cálculo de 3M)
-		}
-	}
-
-	// ordenando pelo peso de cada posição
-	sort(p + 1, p + TC + 1);
-	for (i = 1; i <= 60; i++)
-		v[p[i].ord] = true; // metade tem que ser bom (a melhor metade)
-
-	for (i = 1; i <= TC; i++)
-	{
-		printf("Case #%d: ", i);
-		if (v[i])printf("GOOD\n");
-		else printf("BAD\n");
-	}
+    int zi = soma(2, 3);
+    double zd = soma(2.5, 3.4);
+    return 0;
 }
-
 ```
 
-O que ele basicamente faz é acumular os resultados de três milhões de embaralhamentos feitos pelo algoritmo ruim e inferir através dos resultados que metade é bom e metade é ruim. O ruim fica do lado desbalanceado da sequência.
+Imediatamente o compilador iria acusar os seguintes erros:
 
-{{< image src="oe3heEP.jpg" caption="Tabelona" >}}
+    overload.c
+    
+    overload.c(2) : warning C4028: formal parameter 1 different from declaration
+    overload.c(2) : warning C4028: formal parameter 2 different from declaration
+    overload.c(2) : error C2371: 'soma' : redefinition; different basic types
+            overload.c(1) : see declaration of 'soma'
 
-Tão óbvio, tão simples, tão elegante.
+Isso acontece porque em C **os identificadores são únicos por escopo**. Esse é o motivo por que o seguinte código também está errado:
+
+```
+int main()
+{
+    int x = 0;
+    int x = 1;
+    return 0;
+}
+```
+
+    overload.c
+    overload.c(5) : error C2374: 'x' : redefinition; multiple initialization
+            overload.c(4) : see declaration of 'x'
+
+De volta aos anos 90, isso também está errado em C++. Até por uma questão de lógica: como o compilador pode saber a qual variável estamos nos referindo se usarmos o mesmo nome para duas delas?
+
+Só que existe um truquezinho para impedir essa ambiguidade quando falamos de funções: os parâmetros que ela recebe.
+
+```
+int soma(int x, int y);
+double soma(double x, double y);
+
+int main()
+{
+    int zi = soma(2, 3); // dois tipos int: chamar soma(int, int)
+    double zd = soma(2.5, 3.4); // dois tipos double: só pode ser soma(double, double)
+    return 0;
+}
+```
+
+    C:\Tests>cl /c overload.cpp
+    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 13.10.6030 for 80x86
+    Copyright (C) Microsoft Corporation 1984-2002. All rights reserved.
+    
+    overload.cpp
+    
+    C:\Tests>
+
+Isso permitiu que em C++ fosse criada a sobrecarga estática, que é exatamente isso: chamar a função não apenas de acordo com seu nome, mas também de acordo com sua assinatura, ou seja, o número e o tipo dos parâmetros recebidos. Chamamos de sobrecarga estática porque isso é feito apenas pelo compilador, não pesando em nada durante a execução do programa.
+
+Entre seus usos mais comuns estão os seguintes:
+
+  * Ter funções com o mesmo nome mas que tratam de diferentes parâmetros;
+    * soma(int, int);
+    * soma(double, double);
+    * Obs.: Isso ignora, é claro, as facilidades dos templates.
+  * Versões novas da mesma função que recebem parâmetros adicionais;
+    * export_data(void* buffer, int size);
+    * export_data(void* buffer, int size, unsigned long options);
+  * Mesmo nome de método para setar e obter o valor de uma propriedade;
+    * Class::Property(int x); // setter
+    * int x Class::Property() const; // getter
+  * Bom, o que mais sua imaginação mandar =)
 

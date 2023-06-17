@@ -1,20 +1,19 @@
 ---
 categories:
 - writting
-date: '2012-07-31'
-link: https://www.imdb.com/title/tt0337692
+date: '2021-10-27T22:30:15-03:00'
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Na Estrada
+title: Na Prisão Evin
 ---
 
-É impressionante a capacidade que este filme tem de se manter coeso e tenso, apesar de cansativo. Porém, esse cansaço, permita-me deduzir, é proposital: estamos vendo uma história que se passa principalmente em horas de viagem, preenchidas pelos diálogos, sentimentos e sensações dos amigos/amantes de Dean Moriarty (Garrett Hedlund), uma dessas pessoas com personalidade magnética. Ele atrai inclusive o jovem escritor Sal Paradise (Sam Riley), que busca se envolver em sua vida justamente para conseguir material para seu primeiro grande livro.
+Uma das sacadas da direção dupla deste longa-metragem sobre uma mulher transgênero é nunca mostrar a face de Amen. Curioso, mas não original, a história inteira se passa sob seu ponto de vista. Os personagens olham para a câmera como se estivesse olhando para ela. Isso acaba se tornando repetitivo, pois o estilo impõe a percepção. Porém, assim como o destino de Amen, não há mais volta. Na Prisão Evin nunca se trai sobre seu método de filmagem, mas o preço é perder em expressão.
 
-Se passando de maneira linear, mas com grandes saltos temporais através dos diversos estados americanos da década de 40 que a trupe visita, sempre de carona (um costume muito mais comum na época) ou roubando gasolina e mantimentos nos postos pelo caminho, vemos basicamente o grupo fumar e beber as drogas da época, além do anseio por sensações diferentes a todo momento, e sexo é uma das variantes mais comuns.
+Isso acontece porque não se identifica com o que não se vê. OK, pode-se dizer que nos identificamos com o personagem de O Escafandro e a Borboleta (ótimo argumento o seu, aliás), mas nesse caso ouvimos o pensamento do personagem de Mathieu Amalric, que é razoável e compreensível, além de em umas poucas tomadas vermos seu rosto e sua condição moribunda e objetificada. Com isso sabemos instintivamente que há um ser humano do outro lado da tela, e não uma pessoa filmando uma festa, como geralmente esses vídeos com todo mundo olhando para a câmera se parecem. E no caso deste filme da Mostra uma festa fúnebre.
 
-No entanto, apesar de não ter um fio narrativo ou qualquer conflito maior, o grande motivo, a escrita do livro, está espalhada em diálogos inspiradíssimos, que fazem uma contraparte mais que justa com a solidão dos pensamentos de Sal, em busca do parágrafo perfeito. A técnica e o tema são conhecidos de Walter Salles, que já havia dirigido Diários de Motocicleta e [Central do Brasil]. Porém, a viagem por si só é algo que costuma cativar, e aprimorado pela irradiante fotografia e direção de arte, que conseguem nos transportar com clareza em uma época onde predominava o preto e branco (nos filmes e vídeos da época).
+Portanto, se sacrifica a identificação com o espectador pela ideia mal-concebida de amar o que não vemos, mas, pior do que o personagem já comparado de O Escafandro, não vemos e não ouvimos. Quero dizer, ouvimos suas falas, mas elas são automáticas, robotizadas, esquemáticas. Amen responde ao que lhe perguntam como um autômato, e faz seus questionamentos na mesma moeda: sem emoção. Ela está lendo um roteiro e confusa sobre isso. "Quando que eu devo atuar?" E o filme termina.
 
-Dessa forma, apesar de cansativo em sua forma, quando finalmente encontramos uma conclusão satisfatória, tanto pela sua poesia interna quanto pelo conhecimento que acumulamos dos personagens até aquele momento, há um sentimento de saudade que começa a aflorar assim que vislumbramos os créditos finais. Se essa não é uma prova incontestável da qualidade narrativa de Salles, não imagino o que seja.
-
-[Central do Brasil]: {{< relref "central-do-brasil" >}}
+O texto da dupla de diretores Mehdi e Mohammad Torab-Beigi não é ruim. Te leva a acreditar na situação. As atuações nos levam menos. Apenas o mistério mantém vivo o interesse. Uma metáfora envolvendo uma borboleta não. É brega e velho. Clichê para os Ocidentais aplaudirem o cinema do Oriente Médio "evoluindo" como nós. Talvez seja simbólico não mostrar frente às câmeras um transexual. Talvez seja uma lei não-escrita do país em que foi produzido. De ambas as formas uma escolha duvidosa para a arte.
 

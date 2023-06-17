@@ -1,22 +1,34 @@
 ---
-
-O estado de luto pró-ativo, ou limbo, é onde a personagem da agradabilíssima Juliette Binoche está, devaneando em torno de inúmeros homens. Mas ela não morreu, nem seu companheiro. Não se trata de um detalhe da história de fato, mas uma das inúmeras metáforas que vamos colecionando no decorrer de "Deixe a Luz do Sol Entrar". Vestida sempre de preto com detalhes escuros ela se senta eternamente nessa montanha russa de emoções aguardando por alguém que a preencha.
-
-Como os recorrentes momentos que a vemos como uma passageira olhando pela janela sugerem. Essa visão que a diretora Claire Denis nos faz captar por insistência serve tanto como a figura de uma mulher que aguarda, às vezes de maneira impaciente, ser levada para a felicidade, e ao mesmo tempo a óbvia passagem do tempo, e como o acúmulo de experiências apenas evidencia a falta de um final para seu problema de solidão.
-
-Ao buscar alguém que se importe, mas onde todos aparecem em sua vida com uma falta de sincronia angustiante, ela quer amar e ser amada, mas não consegue se fazer entender. A interpretação de Binoche é de uma mulher madura e sexy incapaz de encontrar o verdadeiro amor. Os homens que ela encontra são narcisistas e hedonistas, ávidos em projetar seu ser e bem-estar na pobre mulher que chora sozinha todas as noites.
-
-Este é um filme bem francês, se é que me entende. Ele conta com uma trilha sonora discretamente melancólica e tons sisudos da fotografia exaltam a cor da pele das pessoas, ou a luz que reflete sobre elas. Há um quê de Godard em subverter a linguagem cinematográfica esperada, buscando aquele real do dia a dia, dos cafés de Paris. Qualquer um que já tenha pulado entre diferentes relacionamentos em tempo recorde, ou os vivido ao mesmo tempo, entende essa insegurança de não estar aproveitando seu tempo ao lado de alguém significativo. Todos são temporários, mas o pior: incompletos.
-
-Essa é a maneira que Binoche vive, e daí toda sua tristeza existencial serve de filtro para analisar seus relacionamentos. Um ator faz um banqueiro acostumado a mandar em pessoas. Ele manipula sua amante como manipula um barman enquanto faz pedidos específicos demais para satisfazer seu mimado ego. Já outro ator interpreta um frustrado consigo mesmo por não conseguir se despedir de sua esposa e seu casamento falido, e ao mesmo tempo não consegue simplesmente calar a boca e beijá-la. Os momentos entre os dois no filme são os mais exemplares de como um relacionamento não deve começar nem continuar.
-
-A surpresa fica por conta do final, onde Gérard Depardieu aparece em um personagem de fechamento. Este é um filme com ótimos diálogos que discutem o que é estar junto com alguém pra valer, mas que ironicamente não consegue sustentar o diálogo tempo suficiente para estruturar nossos pensamentos. Ele vai se tornando caótico e ruma em direção ao esotérico. Se torna ofensivo como resposta a uma busca tão sincera de Binoche.
-
+categories: []
+date: '2009-04-09'
+tags: null
+title: Deixe o programador programar
 ---
-categories:
-- writting
-date: '2011-02-17'
-link: https://www.imdb.com/title/tt1228987
-tags:
-- movies
-title: Deixe-me Entrar
+
+Seis meses se passaram desde que defini o cronograma para um projeto importante (mas não urgente) que deveria ser entregue cinco meses atrás. O tempo em dias que estimei na época não havia mudado nada, mas uma série de desventuras (tarefas brotando do chão e umas férias bem merecidas) fizeram com que quase nenhuma linha de código tivesse sido produzida para aquele projeto. No entanto, tenho a consciência tranquila, já que estou em uma de minhas fases mais produtivas e inovadoras.
+
+Então eis que surge na porta do templo sagrado (a sala de desenvolvimento) um dos mortais que costuma acreditar que "dirige" seus funcionários. Vira-se para mim e "define" que esse projeto não poderá passar desse mês. E todas aquelas tarefas urgentes que estavam furando a fila de prioridades, como a última da semana passada, devem ser postergadas. É lógico que nada disso foi surpresa, visto que outros discursos desse tipo e outras tarefas urgentes já haviam aparecido no decorrer desses seis meses; mas, enfim, esse foi o primeiro deadline oficialmente definido.
+
+Por isso mesmo, com uma preocupação constante em minha cabeça, decido desestressar um pouco e ter um almoço bem alargado (quatro horas) em um outro bairro, em outro ambiente, com uns velhos amigos para jogar alguma conversa fora. Nada como a vida fluindo devagar para fazer esquecer detalhes menos essenciais, como trabalho e estresse no trabalho. Sou obrigado nessa hora a parafrasear o sócio mais espirituoso de nossa empresa, que coincidentemente estava presente no almoço: "mas, afinal de contas, quem foi que definiu que a vida tem que ter trabalho e estresse?".
+
+Eu assino embaixo.
+
+Porém, terminado o almoço, volto a pensar em como resolverei o impasse do cronograma do tal projeto superimportante, quando, ao passar pela entrada do metrô, colocam na minha mão justamente um desses panfletos de rua com mensagens subliminares. E nele estava, acreditem, leitores, a solução para todos os meus problemas!
+
+Se você está com algum PROBLEMA DE DIFÍCIL SOLUÇÃO e precisa de AJUDA URGENTE, peça esta ajuda a Santo Expedito que é o Santo dos Negócios que precisam de Pronta Solução e cuja invocação nunca é tardia. (Abaixo segue a oração ao Santo).
+
+É lógico que toda essa história fantasiosa pode ser pura ficção com um pingo sequer de realidade, e no fundo almocei foi mesmo é com meus amigos imaginários. No entanto, é capaz que esse não seja um cenário incomum em muitas empresas de tecnologia por aí afora, que insistem em fazer duas coisas que, aliadas, podem gerar qualquer coisa, menos um projeto bem feito e testado:
+
+- Pedir que seus funcionários elaborem um cronograma de um projeto complexo (um mês ou mais de trabalho).
+- Pedir que seus funcionários espremam o tempo definido para o projeto de alguma forma mágica.
+
+O problema é que, na área de informática, apesar de ciência esotérica e cheia de mistérios, não existem santos, não existem milagres e não existe mágica que gere um código de qualidade se não for despendido para ele uma soma considerável de tempo e trabalho. E não estou falando de nenhum luxo. É o tempo justo, mesmo.
+
+Por isso que há eras meu amigo Strauss e o conhecido Joel falam sobre as necessidades básicas de um programador e criticam o resto. As necessidades básicas, na minha opinião, se resumem em três regras de ouro:
+
+1. Dê condições para o programador pensar
+2. Dê condições para o programador trabalhar
+3. Dê condições para o programador programar
+
+Fora isso, o resto é perfumaria, perda de tempo e enchimento de saco. Os bons programadores não querem ser gerenciados: querem programar. Só isso. Deixe-os com seus problemas e vá tomar conta de algo que não atrapalhe suas vidas. Já estará fazendo um imenso avanço na produtividade de sua empresa.
+

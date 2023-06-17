@@ -1,31 +1,27 @@
 ---
 categories:
 - writting
-date: '2012-04-01'
-link: https://www.imdb.com/title/tt1392170
+date: '2013-07-12'
+link: https://www.imdb.com/title/tt1951264
 tags:
 - movies
-title: Jogos Vorazes
+title: 'Jogos Vorazes: Em Chamas'
 ---
 
-Há ótimas ideias em Jogos Vorazes, produção baseada no romance homônimo de Suzanne Collins (que também participa do roteiro) e que deve ser o primeiro de uma trilogia. Ambientado em um mundo futurista, mas devidamente verossímil, apresenta a delicada situação de 12 distritos que, após perderem uma tentativa de revolução contra o governo dominante, se veem sujeitos a sacrificar um casal de jovens anualmente em uma batalha por sobrevivência em uma floresta "criada" de maneira inóspita cujo objetivo é condecorar o último ser humano que restar.
+É curioso que quase uma década depois a estrutura narrativa de Catching Fire nos faça lembrar do ótimo [Matrix Reloaded]. Apesar de também ser uma continuação, [Jogos Vorazes] pelo menos sabia que não terminaria no primeiro. No entanto, ambos tratam de esperança surgida em meio a uma guerra eterna, e embora a escravidão consentida pelos Distritos à Capital por tantas gerações soe às vezes meio forçada, o fato é que o aspecto político e social é o que mais cativa na história.
 
-Acompanhamos essa história através dos olhos de Katniss Everdeen (Jennifer Lawrence, vinda dos ótimos [Inverno da Alma] e [X-Men: Primeira Classe]), uma moradora do Distrito 12 junto com sua irmã caçula e sua ausente mãe. A história dessa família e dos próprios distritos são apresentados en passant, pois o filme foca mais em descrever a vida dos organizadores dos jogos do título, e como isso destoa completamente da visão dos jovens sequestrados para essa diversão alheia.
+Mas essa também é uma história para as menininhas irem ao Cinema suspirarem pelo amor não correspondido do jovem Peeta pela sempre tensa Katniss (e comentarem durante toda a sessão). Eis um outro aspecto curioso de uma trama que explora a tendência atual dos reality shows e de como as pessoas tomam por verdade tudo que veem pela TV.
 
-E não há o que reclamar: o design de arte da produção é detalhista em tornar aquele mundo tão fascinante quanto impessoal. Note os largos aposentos (como o quarto de Katniss) sendo usados meramente como artefatos de exibição do poder que é exercido por aquelas pessoas.
+Juntando essas duas vertentes temos a cena mais memorável (do longa e da série): Katniss veste uma roupa que nos arrebata pela beleza estonteante de suas curvas e suas cores, mas também pela mensagem de liberdade política, que adquire vários significados em poucos segundos, um verdadeiro milagre do Cinema conseguir expressar tanto apenas com simples imagens em sequência.
 
-Ainda que o foco da história fosse justamente os tais jogos é o acompanhamento deles pelos que estão de fora que se torna mais interessante no decorrer da jornada, como podemos notar pelo dramático momento da morte de um personagem que gera uma comoção popular que não apenas enriquece a trama como dá pistas do que pode acontecer nos [próximos] [filmes].
+O que me faz lembrar que outra virtude memorável em Jogos Vorazes é como suas cores e formas combinam uma direção de arte absolutamente dedicada a enviar uma mensagem clara de riqueza da Capital em detrimento da pobreza de seus Distritos.
 
-O jogo da manipulação da mente, cada vez mais fraca.
+Esse filme já adota uma postura melhor adequada de violência. Se no original Katlin não seria capaz de ferir uma pessoa, aqui está disposta a matar se for preciso. Isso por um lado é reflexo de voltar para um lugar que tinha certeza que não mais sairia, e outra por entender que não se trata mais de um inocente jogo como todos os outros patrocinados anualmente.
 
-Como é triste quando a humanidade se perde em criar jogos onde nossos jovens são assassinados brutalmente, e quando esses homicídios são festejados como troféus. Triste quando isso é televisionado, controlado e manipulado de tantas formas que não existe algo que possamos fazer. Triste saber que a audiência para esses programas sobe cada vez mais, e a personalidade do ser humano cada vez mais decai ao nível de mediocridade e auto-flagelo de nosso potencial criativo.
+Se a beleza das imagens dizem quase tudo, é uma pena que o roteiro não seja nem um pouco sutil no desenrolar da história, quase nos fazendo crer em uma reviravolta completamente articulada pelo criador do jogo (o sempre ótimo Philip Seymour Hoffman). A trilha sonora não se sai muito melhor, com exceção da música tema, que já se tornou memorável.
 
-Triste saber que o único motivo de existência de muitas pessoas é conseguir ver o final do capítulo a tempo, e saber quem ganhou, quem foi o vencedor do jogo da manipulação.
+Mesmo com seu pecadilhos, Jogos Vorazes mantém o interesse constante em seu 140 minutos de duração.
 
-Feliz fico com o fato de tudo ser um filme, fruto da imaginação de produtores e que não existem coincidências com a vida real. Certo?
-
-[Inverno da Alma]: {{< relref "inverno-da-alma" >}}
-[X-Men: Primeira Classe]: {{< relref "x-men-primeira-classe" >}}
-[filmes]: {{< relref "jogos-vorazes-a-esperanca-parte-1" >}}
-[próximos]: {{< relref "jogos-vorazes-em-chamas" >}}
+[Jogos Vorazes]: {{< relref "jogos-vorazes" >}}
+[Matrix Reloaded]: {{< relref "matrix-reloaded" >}}
 

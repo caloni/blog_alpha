@@ -1,22 +1,99 @@
 ---
 categories:
-- writting
-date: '2012-05-04'
-link: https://www.imdb.com/title/tt1124058
-tags:
-- movies
-title: St. Nick
+- reading
+date: 2018-07-15 21:53:55-03:00
+tags: []
+title: Stanford Encyclopedia of Philosophy para Kindle
 ---
 
-Quando o filme se inicia, e não sabemos exatamente quem são aquelas crianças, é muito fácil confundi-las com uma situação comum que vemos todos os dias: crianças brincando de aventureiros. Porém, conforme adentramos no mundo lúdico, mas cruel, de suas realidades, a consciência pesa demais para um filme supostamente despretensioso. Mais interessante, porém, é constatar que as pessoas que as encontram imaginam o mesmo que nós imaginávamos minutos antes, o que não deixa de ser irônico e trágico, pois agora vemos que muito da vida passa na nossa frente sem sequer nos darmos conta. A nossa realidade, andando com pressa pela calçada, não enxerga muito além dela própria.
+A enciclopédia mais completa e de maior respeito da internet não é um enciclopédia geral, mas uma de filosofia. Está hospedada na Universidade de Stanford e possui revisão por pares e toda a autoridade de ser escrita por especialistas nos verbetes em questão. O único problema (até agora) era não ser possível baixá-la para degustar no Kindle. Até agora.
 
-Melancólico sem sequer forçar uma situação, mas simplesmente expondo a vida dos dois irmãos da maneira mais simples e bucólica possível, o peso dramático acaba ficando maior do que se nos tivessem empurrado uma trilha sonora triste de violinos. No fundo, o simples fato de vermos o menino carregando um porta-violinos e admirando sorrateiramente uma jovem ensaiando o violão em seu quintal é o suficiente para que entendamos muito mais do que qualquer fala que pudesse sair de sua boca pudesse nos revelar.
+Para realizar esta operação será necessário usar as seguintes ferramentas:
 
-A menina, em seus gestos e andar tímidos entre as crianças de uma festa de aniversário, em contraponto com sua segurança quando está com o irmão, é um poço de expressão, ainda que na maioria das situações esteja anônima e muda. Fala quando tem algo a dizer (como quando reclama do sanduíche do irmão, para logo depois a vermos degustando o tipo de sanduíche que a faz feliz). O menino, na posição de maior responsável, quase não exibe sorrisos, mas uma distante tristeza em seus olhos sempre serenos.
+ - wget
+ - sed
+ - sort
+ - Calibre
 
-Cortes certeiros e um ritmo mais que correto dão o tom milimetricamente planejado com uma embalagem indie, mas sem soar clichê/oportunista. É o cinema puro e singelo construído em torno de duas criaturas que aos poucos se tornam adoráveis e melancólicas. Seus motivos não nos interessam, mas o fato de estarem lá, sim. Compartilhamos com elas esse pensamento maldoso de qualquer adulto medroso: como será o amanhã? Haverá mais marshmallows?
+O projeto de conversão foi feito pensando em usuários do Windows, mas pode ser adaptado facilmente para qualquer ambiente. Se trata de um conjunto de arquivos batch (script) que realiza vários comandos, a saber:
 
-Traçando um pouco das influências que Terrence Malick teve para criar sua [A Árvore da Vida], a fotografia naturalista e os movimentos involuntários ao sabor do vento criam uma poesia involuntária incapaz de ser atingida por qualquer filtro fotográfico qualquer, embora as paisagens do horizonte sejam de encher o coração. É a poesia da vida real, da dura realidade de duas crianças que, ainda que passem seus sufocos, ainda podem sonhar.
+### calibre_download.bat (baixa conteúdo do site da Stanford)
 
-[A Árvore da Vida]: {{< relref "a-arvore-da-vida" >}}
+Este batch baixa todo o conteúdo do site da Stanford em um único diretório. O processo pode demorar mais ou menos, dependendo da sua banda, mas aqui em casa (50MB) demorou cerca de meia-hora pra mais.
+
+```
+wget --recursive --domains plato.stanford.edu --page-requisites --no-parent --convert-links --restrict-file-names=windows --no-directories --html-extension https://plato.stanford.edu/contents.html 
+```
+
+### calibre_clean_files.bat (limpa início e fim das entradas)
+
+Este batch chama dois outros batch, call calibre_remove_head.bat e call calibre_remove_bottom.bat, que limpam das entradas os cabeçalhos e finais em comum que são repetitivos e desnecessários para gerar um ebook, como links úteis de navegação. Como as entradas do site já possuem marcadores, isso facilitou o trabalho.
+
+#### calibre_remove_head.bat
+
+```
+for %%i in (index.html.*.html) do sed -n -i "/BEGIN ARTICLE HTML/,$p" %%i
+```
+
+#### calibre_remove_bottom.bat
+
+```
+for %%i in (index.html.*.html) do sed -i "/END ARTICLE HTML/,$d" %%i
+```
+
+### calibre_entries.bat (gera índice com as entradas)
+
+Esta batch gera os índices das entradas baseado em seus títulos, e os nomes dos arquivos serão usados para links no TOC do Calibre.
+
+```
+if exist calibre_entries.txt del calibre_entries.txt
+for %%i in (index.html.*.html) do calibre_title.bat %%i >> calibre_entries.txt
+sed -i -e "s/<em>//" -e "s/<\/em>//" calibre_entries.txt
+```
+
+### calibre_entries_clean.bat (limpa formatação das entradas)
+
+Algumas entradas possuem o marcador **em**, que deve ser retirado antes de ordenar os títulos.
+
+```
+sed -i -e "s/<em>//" -e "s/<\/em>//" calibre_entries.txt
+```
+
+### calibre_entries_sort.bat (ordena entradas por título)
+
+Se não ordenarmos por título o único índice de nosso livro será inútil.
+
+```
+sort calibre_entries.txt > calibre_entries_sorted.txt
+```
+
+### Apagar duplicatas
+
+Ao final do processo com o wget percebi que algumas entradas foram baixadas mais de uma vez. Várias delas. Por isso eliminei as duplicatas usando um programa Windows chamado [doublekiller.exe](https://www.bigbangenterprises.de/en/doublekiller/), mas basta você usar qualquer ferramenta que encontra os .html da mesma pasta que possuem o mesmo hash e eliminar as duplicadas. Isso deve ser feito nesse passo antes de:
+
+### calibre_entries_to_template.bat (converte entradas da enciclopédia para o template do Calibre)
+
+Essa parte do processo precisa converter as entradas no formato Título Link para entradas HTML com a tag **a**, no formato que o Calibre espera:
+
+```
+sed -e "s/\(^.*\) \(index.*$\)/        <a href=\"\2\">\1<\/a><br\/>/" calibre_entries_sorted.txt > calibre_template_entries.html
+```
+
+### calibre_merge_templates.bat (junta início, meio e fim do template do Calibre)
+
+Por fim, antes de usar o Calibre é necessário juntar os arquivos de template em um arquivo final de TOC, o calibre.html. Ao final desse processo passaremos ao Calibre em si.
+
+```
+copy /Y calibre_template_begin.html+calibre_template_entries.html+calibre_template_end.html calibre.html
+```
+
+### Usar Calibre para abrir calibre.html
+
+Para realizar este passo basta arrastar ou abrir o arquivo html central que foi criado, e a partir dele iniciar a conversão. Note que após arrastar já será criado um zip com todos os HTMLs relacionados.
+
+### Converter HTML zipado em outros formatos
+
+Após abrir pelo Calibre ele insere na biblioteca e é só converter para MOBI (Kindle) ou EPUB (outros leitores) ou qualquer outro formato desejado. A nota final aqui é que como se trata de um arquivo gigantesco (50 MB em HTML zipado, 80 MB em MOBI) é melhor baixar a versão 64 bits do Calibre e ter muita memória RAM. Voilà!
+
+E por hoje é só. Se tudo der certo você poderá copiar e colar dentro do seu leitor todas as entradas de uma enciclopédia indispensável para quem está estudando filosofia. Enjoy.
 

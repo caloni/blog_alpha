@@ -1,12 +1,11 @@
 ---
 categories:
-- coding
-date: '2018-07-24'
-link: https://youtu.be/7gOuiCy3T9Y
+- writting
+date: '2017-11-21'
 tags:
-- videos
-title: 'Vídeo: Depuração Visual Studio 101'
+- food
+title: Vilamonge Café Artesanal Gourme Poços de Caldas
 ---
 
-Redescobrindo meu canal no YouTube me empolguei em publicar mais alguma coisa. Os meu primeiros vídeos, no meu canal pessoal, são longos e possuem narração um pouco confusa, mas explicam bem alguns detalhes do Visual Studio. Agora com meu primeiro vídeo curto estou apenas demonstrando sem voz como é o depurador do Visual Studio. Enjoy =)
+Doce, equilibrado e de corpo bem leve, não é para quem gosta de café forte, mas é viciante. Vários aeropress durante os dias em casa.
 

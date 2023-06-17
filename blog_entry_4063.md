@@ -1,16 +1,19 @@
 ---
 categories:
 - writting
-date: '2018-12-30T19:00:00-03:00'
-link: https://www.imdb.com/title/tt0475784
+date: '2023-01-04T23:33:05-03:00'
 tags:
-- series
-title: Westworld S03 E02
+- movies
+title: Ruído Branco (White Noise)
 ---
 
-Então eles resolveram plagiar Matrix. Para ser sincero, em vários momentos soa como uma ingênua homenagem. Mas a soma de tantas homenagens acaba se tornando plágio, pois são tantas ideias vindas da mesma fonte, parte integrante e ativa da história que essa temporada pretende contar, que não há como deixar de pensar que vinte anos depois do blockbuster revolucionário de ação dos irmãos Wachowski vira um episódio acelerado que recapitula todos os elementos que amamos nos três filmes. Uma observação relevante: alguns amam apenas o primeiro, pois já havia na época o senso de que muito é demais. Por quê será que as séries de hoje em dia não aprenderam com os erros do passado?
+A mente amalucada e irreverente do cineasta Noah Baumbach encabeça este trabalho pós-pandemia que graças a Deus é bem humorado. Seus diálogos inflados e enfadonhos nos preparam melhor para o filme-catástrofe, que quando chega ganha a assinatura do diretor e um frescor de novos ventos. Metalinguístico por natureza, a narrativa interna fala sobre a narrativa em si, escapando de maneira esperta do velho caminho de todos os gêneros que ele aborda. Aliás, não escapa: comenta olhando de fora e se inserindo com uma roupagem que reflete tudo que sabemos e gostamos sobre cinema. Bom, talvez não tudo.
 
-Já havia apontado no primeiro episódio desta temporada que a existência de um arquiteto já indicaria fortemente um "Westworld Reloaded", mas não imaginava que este seria também um Matrix Reloaded, que explora maneiras diferentes de interagir com o mesmo conceito de mundos simulados. Essa é a única forma de conseguir trazer os personagens robóticos da série que foram assassinados de volta, e é por isso que seus idealizadores tomam esse atalho preguiçoso e ofensivo.
+Há um núcleo, mas vários epicentros que são simbólicos e que hoje se erguem como totens de uma nova era. A fascinação por Hitler, sendo comparada com Elvis em uma sequência imortal. A nova igreja, o supermercado, onde a comunidade mantém seus laços capitalistas e individualistas em uma dança secreta e consensual. E que dança pós-créditos, meus amigos!
 
-A história avança e a "complexidade" dá as caras, como a simpática reviravolta que revela logo no início que as duas duplas não estavam separadas no tempo, nem no espaço, mas na realidade. Por mais que tenhamos simpatia pelos personagens, em certo momento o roteiro perde a mão em suas inúmeras, exageradas e mal-aproveitadas ideias. Não é ruim, mas parece tão sobrecarregado quanto o próprio mundo que Maeve sabota, e quase tão pesado quanto a melodramática trilha sonora. Matrix usava menos acordes graves, mas impactava mais pelo que víamos na tela e pelas suas ambiciosas ideias do que pelo nosso carinho pela temporada original.
+Temas tão caros como o medo da morte e a era da desinformação surgem tão naturais que o filme faz parecer fácil abordar esses assuntos. White Noise pode até ser uma masturbação cinematográfica, mas é feminina, com orgasmos múltiplos, que podem ser tão ou mais potentes que um único. É difícil de dizer como você se sentirá. Com sono? Anestesiado? Ambos? Queremos falar sobre isso?
+
+Não, ninguém quer. E por isso obras que desejam nos trazer ar puro depois dessa nuvem negra e tenebrosa ter passado, com a promessa de novas tempestades, são tão raras e tão desejáveis.
+
+Continua sendo bom curtir um Baumbach em meio ao divertimento de streaming inconsequente. Ele está apoiado em material de primeira do escritor original, Don DeLillo, também de Cosmópolis. O diretor nos entrega algumas horas que podemos desperdiçar em nossas vidas em busca de paz sobre os medos que se passam quando tudo o que temos são freiras alemãs que não crêem no paraíso.
 

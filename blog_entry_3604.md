@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2016-02-01'
+date: '2015-12-10'
 tags:
 - food
-title: Tamandaré
+title: Tarapaca Cabernet Carmenére 2013
 ---
 
-Que café viciante! Quanto mais toma, mais quer tomar!
+Um pouco quente, mas encorpado atrativo; boa cor.
 

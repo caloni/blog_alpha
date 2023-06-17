@@ -1,18 +1,19 @@
 ---
-
-Um documentário que passa direto para nossos sentidos. Começa na morte e vai voltando pela dor, alegria, ou seja, emoções dos seus personagens da vida real.
-
-Em todos eles, miséria, religião, simplicidade. Não apenas do modo de viver, mas de pensar, e consequentemente de falar a respeito da vida. São pequenas lições ouvir as pequenas poesias que essas pessoas dizem, em palavreado simples e ações mais simples ainda, como um soco ou chute, um beijo ou carregar um caixão.
-
-A edição é ágil, fluida, e ao avançar cria closes absurdos e uma qualidade sofrível das imagens trazem a realidade para um nível naturalista. A trilha sonora começa diegética, dentro daquele universo, e vai se alastrando pelas cenas, como memórias. Trilhas sonoras da vida, assim como os diálogos, assim como as faces daquelas pessoas, que personalizam a vida em seu básico, instintivo; a poesia do existir.
-
-Os diretores Bia Lessa e Dany Roland, empenhados também em realizar fotografia, roteiro e edição (com a ajuda de Julia Bernstein), agradecem ao final pelo documentário-mestre do Brasil, Eduardo Coutinho. Não à toa. Os idealizadores captaram a inteligência emocional de Coutinho em um trabalho simples, mas poderoso, que consegue extrair palavras da vida que são tão comuns, mas tão poderosas. 
-
-De um grupo de mulheres esperando os homens para carregar um caixão à noite da avó falecida até um grupo de crianças comentando uma briga recente entre meninas, Então Morri abraça a vida de um jeito que não é possível largar. Acompanhamos a sequência exata de um filme rebobinando, desde a morte até o nascimento, como espectadores que se conectam com aquela película quase sem filtros.
-
----
 categories:
 - coding
-date: '2010-11-02'
-tags: null
-title: Então você ainda não usa controle de fonte?
+date: '2015-01-04'
+tags:
+- ccpp
+title: Entendendo a Compilação
+---
+
+Fiz alguns slides a pedido dos organizadores do TDC 2014, já que a palestra que ministrei com esse tema foi para ajudar meu amigo-sócio Rodrigo Strauss que não havia preparado nenhum slide a respeito.Felizmente eu já havia explicado alguns conceitos-chave para quem programa em C/C++ e precisa -- eu disse: PRECISA -- conhecer todo o passo-a-passo que leva o seu código-fonte a gerar um executável com código de máquina pronto para rodar.
+
+Como havia explicado anteriormente, existem três processos principais e clássicos (pode haver mais, dependendo do compilador, ambiente, etc) na formação de um código de máquina a partir de arquivos-fontes escritos em C ou C++ (ou ambos, são intercambiáveis). São eles: preprocessamento, compilação e linkedição.
+
+O preprocessamento é um trocador de textos. No máximo há macros, em que é possível passar argumentos (no formato texto). Exemplos são include, ifdef e define.
+
+A compilação é o núcleo da linguagem. Regras de sintaxe e gramática são validadas aqui pelo compilador. Cada compilação bem-sucedida recebe uma unidade de tradução e cospe um arquivo-objeto, que ainda não é executável, mas que já passou pela validação da linguagem.
+
+Por fim, a linkedição junta todos os arquivos-objeto, procurando ligar os nomes das funções e variáveis referenciadas um pelo outro. Os nomes externos são importantes neste passo para que o linker encontre as lacunas que precisa para consertar os saltos e assim gerar o executável final, que pode ser um programa com uma função main ou uma biblioteca dinâmica carregada por outro programa compilado seguindo esses três passos.
+

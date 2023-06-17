@@ -1,22 +1,27 @@
 ---
 categories:
-- writting
-date: '2016-10-16'
-link: https://www.imdb.com/title/tt0426769
+- playing
+date: '2021-12-19T22:57:39-03:00'
 tags:
-- series
-title: Peppa Pig
+- chess
+title: Perdi a Dama, mas Estava Equilibrado
 ---
 
-Eis um desenho que preza por histórias sucintas, rápidas e simples, ligeiramente divertidas e que estão atreladas ao fato da família principal ser constituída de porcos.
+Joguei bem uma siciliana, mas no meio da partida me confundi com as complexidades e sem pensar muito não vi a cravada da dama. No entanto, ao continuar jogando o adversário talvez no apuro do tempo não viu que estava fazendo lances muito ruins e em cima eu emendei vários xeques, ganhando a dama no último xeque. Mas já era tarde: ele perdeu no tempo.
 
-Aliás, mais do que isso. São porcos que vivem em uma casa, possuem um carro. Sua filha -- a Peppa do título -- vai a aulas de balé. Seus pais são gordos e simpáticos. Seus avós são ativos. Enfim, uma família normal que passa por peculiaridades que toda família passa.
+{{< image src="board.jpeg" >}}
 
-O desenho é tão simples que lembra rabiscos bem feitos com lápis de cor, o que deve empolgar particularmente as crianças menores (e meu sobrinho de 2 anos é prova viva disso). É fácil de entender os acontecimentos e os desenhos em torno deles (que envolve a família de porcos e outros animais), mas eles são feitos em um nível de inteligência acima de esquisitices mais precoces como Teletubbies ou Galinha Pintadinha (essa nem desenho é, são video-clipes infantis).
+```
+[Event "Live Chess"]
+[Date "2021.12.19"]
+[White "knightsdilemma244"]
+[Black "cavaloni"]
 
-O curioso é que não existe trama. Não há algo a ser corrigido, nem nada a ser aprendido. É um desenho sobre a  própria vida e como a vivemos. Mesmo trabalhos mais naturalistas como Meu Amigo Totoro se alimentam de tensão -- no caso de Totoro, a mãe doente -- mas aqui não há espaço para estratégias que envolvam três atos. A atenção dos pequeninos é limitada, e tudo tem que estar acontecendo naquele exato momento. Viva o agora, esse é o lema.
-
-E se trata de um bom lema. Fugindo do formato convencional das obras narrativas que possuem a ambição de passar alguma lição valiosa sobre a vida (algo meio inútil para pequeninos com a racionalidade subdesenvolvida), Peppa Pig só quer refletir a própria vida em forma de rascunhos para que crianças aos poucos percebam as semelhanças com suas próprias vidinhas.
-
-Para adultos, é fácil assistir dois, quatro, seis, doze episódios seguidos. E nem precisa ter muita atenção. Basta relaxar e se deixar levar por um monte de rabiscos que formam uma história simples, dessas que vivemos no dia a dia. De vez em quando arte é apenas percebermos que estamos vivos, mesmo que seja pela tela de uma televisão.
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Nc3 Bb7 7. h3 e6 8.
+e5 Nd5 9. Ne4 Be7 10. Bd2 Qc7 11. c4 Qxe5 12. Qf3 Qxb2 13. Rc1 Nf6 14. Nc3 Qa3
+15. Be2 Rb8 16. O-O O-O 17. Bg5 Rfe8 18. c5 Qxc5 19. Bxf6 Bxf6 20. Ne4 Qf5 21.
+Qd3 Be7 22. g4 Qd5 23. Qf3 f5 24. gxf5 exf5 25. Bc4 fxe4 26. Qxe4 Qxc4 27. Qxc4+
+Kh8 28. Qg4 Bc8 29. f4 Bf6 30. h4 Bd4+ 31. Kg2 c5 32. f5 d6 33. h5 Rb6 34. h6 g6
+35. Qg5 Rb2+ 36. Kh3 Re3+ 37. Kh4 Rh2+ 38. Kg4 Bxf5+ 39. Rxf5 Rg2+ 0-1
+```
 

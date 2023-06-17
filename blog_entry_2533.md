@@ -1,19 +1,21 @@
 ---
 categories:
 - writting
-date: '2012-11-02'
-link: https://www.imdb.com/title/tt0013442
+date: '2021-10-25T22:03:56-03:00'
 tags:
+- cinemaqui
 - mostra
 - movies
-title: Nosferatu
+title: Nostromo
 ---
 
-Mesmo 90 anos depois, Nosferatu consegue impressionar em suas pontuais cenas clássicas. O resto, resquícios do expressionismo alemão, mas de onde até hoje se emprestam algumas técnicas (como o jogo de sombras), pode ser engraçado pela bizarrice, mas define muito bem a loucura e a doença em torno do desconhecido, do sobrenatural.
+Nostromo é aquele filme que começa bem demais para ser verdade, e no meio da história ela acaba. Mas o filme não. E daí você já saca qual é a do diretor: recebeu um dinheiro para filmar aurora boreal, foi filmar um maluco vivendo sozinho e nada aconteceu. Só que no final deu apenas meia-hora de rolo gravado. Bom, bora filmar mais meia-hora. E mais meia-hora. Agora sim: "estou pronto para os festivais". Estou reproduzindo o pensamento totalmente fictício do diretor suíco Fisnik Maxville. E esse é um parágrafo bem-humorado sobre um filme não tão bom, mas que possui algumas virtudes estéticas admiráveis. Fique comigo mais um pouco.
 
-A nova trilha sonora composta em homenagem aos 100 anos do autor de Drácula faz dueto com a versão restaurada pelo instituto Murnau a partir das películas originais, e atualiza o horror para os tempos atuais, incluindo lembranças de outros clássicos, como o coral (A Profecia) e os toques frenéticos e repetitivos (Hitchcock). Para Nosferatu é solene, lhe dá dignidade e ao mesmo tempo mantém a tensão de sua tenebrosa história.
+A Mostra de SP exibe este primeiro longa-metragem de Maxville para demonstrar que ele deve se manter ainda nos curtas e médias-metragens, mas sua técnica de captura da atmosfera de um lugar é fantástica. A trilha sonora e os sons que ele escolheu para situar-nos nessa aventura de outro mundo é incrível. Somos levados para uma jornada que nenhum de nós provavelmente faria na vida real. Maxville nos transporta direto para a ação quando vemos, em primeira pessoa, a caça de um alce. E o animal abatido será desmantelado pelos humanos que o caçaram. É um daqueles momentos únicos, que você gostaria de ver pessoalmente. Mas é muito melhor com a atmosfera construída pelo diretor.
 
-O conde assemelha um humano, mas deixa claro que é uma criatura nefasta. Ele depende das trevas, ou seja, da desgraça humana. Não há símbolo melhor do que o sangue para representar a vida.
+Para isso ele monta flashes do cotidiano, evocando o sobrenatural e a estranheza. Movimentos involuntários emergem. Enquadramentos desajeitados. Tudo vale para o espectador nunca saber o que está acontecendo em detalhes na vida de Olivier, esse francês que decidiu ir morar em uma pequena ilha no Canadá. Sozinho. Então três visitantes chegam ao local, o que altera um pouco a dinâmica. Acompanhamos parte de sua rotina de caça, pesca e manutenção da sobrevivência mínima em uma floresta boreal cercada de água. É no mínimo diferente de se ver, se você nunca viajou para tão ao norte.
 
-Há muito texto na história, pois existem diversos detalhes da obra original que precisam ser abordados. Porém, elementos mais periféricos de fato apresentam uma gordura desnecessária na trama, como os caixões de terra. Já outros elementos apenas citados mereceriam um papel mais presente, como o diretor do hospício. Detalhes, enfim, que não diminuem a importância e o impacto do primeiro Drácula no Cinema, e que seria um tema recorrente nas décadas seguintes, e que com exceção da "saga" Crepúsculo, uma fonte de riqueza em seus símbolos e em suas diferentes maneiras de abordar uma lenda tão enigmática e fascinante.
+Porém, apenas esse maravilhamento sozinho não basta. Entrevistado, aprendemos os anseios de Olivier desde jovem em ir morar no mato. Admiramos sua força de vontade indiretamente, e ficamos gratos por algumas imagens cruas capturadas no filme sobre a rotina rústica dessa vida. E após isso, meia-hora depois, a história reverbera por mais uma hora antes de terminar. A sensação é que o diretor aguarda que algo inacreditável ocorra. Mas não há nada, além do (extra)ordinário daquele lugar e suas noites maravilhosamente estreladas e esverdeadas. Esse é o presente do filme, que no fundo vem das lentes e do uso de luzes e filtros de Jules Guarneri, o diretor de fotografia.
+
+Nostromo é uma referência, quero acreditar, à nave do filme "Alien: O Oitavo Passageiro". OK, eu sei que não é, já que a expressão italiana é mais antiga, mas se refere a viagens e companheirismo de jornada. Eu quero acreditar na versão sci-fi porque ela e mais estilosa e harmoniza com a estética desse filme que nos causa estranhamento em viver em um lugar muito diferente do que estamos acostumados. Só que no mesmo planeta. É de certa forma mágico. Mais mágico que o próprio filme.
 

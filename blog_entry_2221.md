@@ -1,16 +1,17 @@
 ---
 categories:
 - writting
-date: '2020-06-21'
-link: http://www.bodegamalma.com
+date: '2022-12-15T21:58:24-03:00'
 tags:
-- wine
-title: Malma
+- movies
+title: Mammals
 ---
 
-Faz um ano desde a última viagem para buscar vinho e conhecer lugares na Argentina. Fomos à Patagônia e conhecemos geleiras, Bariloche e essa vinícola de Neuquen que tem o charmoso rótulo de estrelas e um blend fora do comum. Comprei várias garrafas para envelhecer na minha adega e abri hoje mais uma delas. O teor alcoólico deste 2015 está bem menor que a última, e consigo sentir as frutas negras da região de maneira muito nítida, misturadas com o inesquecível Malbec e as frutas mais suaves, secundárias, seguidas de um ligeiro azedo.
+Esta série é sobre traição, mas também é sobre a dualidade entre a nossa vida mental e a realização no mundo real. E tudo passa pelo nosso filtro animal, o que tenta conciliar as regras sociais e os comportamentos contraditórios.
 
-Neuquen era uma região gigantesca de moradia de dinossauros e seu ecossistema do período jurássico. Eles possuem o maior dinossauro completo do mundo em um museu criado em torno dele, ao lado de uma gigantesca planície infestada de pegadas petrificadas em rocha. É impressionante vê-lo de tão próximo e se sentir tão indefeso como estaríamos na época se já existíssemos.
+O gancho é eficiente. Nossa atenção é sequestrada por eventos de impacto. Um casal sai de férias e avista uma baleia. Uma grávida perde o bebê, um chef prestes a abrir seu próprio restaurante com o nome da esposa descobre que ela teve pelo menos três amantes sexuais. Uma mulher solitária tem a experiência alucinógena de ser uma personagem em um livro sobre Coco Chanel.
 
-Tudo isso para comentar que existe matéria orgânica no solo. Petróleo. A Petrobrás está por lá. E é nesse solo que também florescem algumas uvas. Malma, Del Fin del Mundo e uma terceira vinícola são as três da capital seguidas de outras menores nas cidades satélites.
+Tudo acontece no espaço de seis horas de streaming em um tempo psicológico a ser definido. Não é um conteúdo muito alongado porque a trama te prende bem. A direção inusitada brinca com movimentos sem cortes para manter sequências tensas do início ao fim.
+
+E tudo termina da maneira que começou. Aberto, interpretativo. Uma exploração não muito ambiciosa, mas original, em busca do que faz da monogamia uma pedra fundamental na sociedade moderna e uma pedra no sapato do modernismo pós-burguesia.
 

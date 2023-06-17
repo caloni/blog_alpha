@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2017-11-23'
-link: https://www.imdb.com/title/tt3469046
+date: '2019-04-15'
+link: https://www.imdb.com/title/tt6789126
 tags:
 - movies
-title: Meu Malvado Favorito 3
+title: Meu Nome Não é Ruben Blades
 ---
 
-Esta é uma continuação nos mesmos moldes do primeiro e do segundo filme. O mesmo estilo de piada nos acompanha, seja de Gru, de Agnes, das outras meninas, da sua agora namorada, e agora do seu irmão gêmeo e um vilão que, ao contrário do primeiro moderninho Vetor, agora é um bandido ao estilo anos 80. E também descobrimos que o pai de Gru era um vilão estilo anos 60, digno dos filmes de James Bond. Ou Austin Powers.
+Rubén Blades é o cantor mais famoso do Panamá. Também já fez pontas de ator em Hollywood, se candidatou a presidente (foi nomeado ministro), faz ataques ferrenhos ao imperialismo americano enquanto mora em Nova York e defende o povo enquanto bebe água Perrier em seus shows. Ou seja, um membro da esquerda caviar básico. Isso tudo você aprende neste burocrático documentário.
 
-Todo esse emaranhado é traçado por um fiapo de história que está interessado principalmente nas piadas. E elas funcionam. Principalmente com os Minions. Criaturinhas curiosas, essas. Parecem um receptáculo das piadas mais escrotas que poderiam estar em um desenho animado. E elas funcionam. Pelo menos para os adultos mais crianças, ou as crianças mais adultas.
+O diretor e roteirista panamenho Abner Benaim precisa de um motivo para filmar esta produção patrocinada pelo governo argentino. Então ele usa o populismo das massas e mostra diversos shows lotados do cantor mais famoso do seu país. Abner Benaim parece gente boa olhando de longe, além de visivelmente inteligente.
 
-Além disso, há fofice no ar com Agnes, e ela quase sempre rouba a cena. Está em busca de um unicórnio em uma floresta. É impressionante como nada tem muita lógica nos filmes dessa série, mas por algum motivo nos esquecemos disso e deixamos passar. Parece pelo bem da diversão. Esqueçamos um pouco Disney/Pixar, Dreamworks. Essas grandes, sim, precisam zelar por muito. Aqui temos apenas que dar boas risadas.
+Mas sabemos menos sobre a celebridade do que a pessoa. Contado como se todos já soubessem quem é o cantor de salsa, "Meu Nome Não é..." parte da base de fãs para um trabalho correto que apenas diz mais do mesmo para quem já o conhece e não diz muita coisa para quem ainda não é fã (e provavelmente nunca será, pois o filme não instiga a curiosidade).
 
-E elas acontecem, mais do que o tédio. Há criações visualmente curiosas, como um avião estilo navio-pirata que conduz vários minions agrupados em um saco feito com roupas de presidiários. Mas uma torre-fortaleza do vilão dos anos 80 com um cubo mágico em cima foi de matar. Pior que isso só usar um Genius (aquele brinquedo de memória), walkman, gomas de mascar e clássicos da música da época. Ainda assim, fica difícil reclamar de um filme tão simpático.
+De qualquer forma, quando o filme trata de reviver alguns momentos pessoais da vida do cantor o filme se torna um pouco mais interessante, mas ainda assim uma incógnita. Para que ele foi feito? Como uma simples homenagem em vida? Não é um filme provocante, pois não apresenta nada de novo. Também não é um filme debate, pois apenas apresenta um ponto de vista.
 
-E é por isso que Meu Malvado Favorito 3 é um filme razoável, mesmo não tentando fazer nada de novo. Ele simplesmente é entretenimento que não pisa muito na bola. Não espere mais nada que o primeiro e um pouco menos que o segundo e estará bem.
+Sem saber direito por que fazem filmes sobre a vida das pessoas sem oferecer nada em troca (exceto ganhar um dinheirinho estatal), este filme com nome clichê é documentário clichê que passa como um episódio de tv. Da TV panamenha.
 

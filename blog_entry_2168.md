@@ -1,16 +1,25 @@
 ---
 categories:
-- blogging
-date: '2022-10-22T17:58:23-03:00'
-tags: null
-title: Luiz Carlos Merten
+- writting
+date: '2017-12-02'
+link: https://www.imdb.com/title/tt5954462
+tags:
+- cinemaqui
+- movies
+title: Lumière! A Aventura Começa
 ---
 
-Tem um crítico de cinema chamado Luiz Carlos Merten que foi [demitido do Estadão em 2020](https://archive.is/Uw8Fm) depois de décadas trabalhando com eles. Motivo: salário muito alto. Agora ele escreve em [um blog](https://oblogdomerten.wordpress.com) e a cada post durante a Mostra desse ano ele fala sobre Bolsonaro. Chega a ser doentio essa fascinação pelo sujeito. Talvez através dele eu esteja desvendando por que a esquerda é tão tarada em falar sobre esse tiozinho que calhou de ser o presidente.
+"Lumière! A Aventura Começa" entra nos arquivos dos inventores do cinematógrafo para descobrir onde surgiu o Cinema. Sim, porque a criação dos irmãos Lumière, assim como o cinetoscópio de Thomas Edison, ou qualquer outra invenção maluca da época, não era muito mais que isso: uma invenção maluca. Um entretenimento qualquer. E uma das muitas aventuras que estavam por vir no século seguinte.
 
-Merten sempre escreveu de maneira bem despojada sobre cinema. Seu estilo lembra uma Pauline Kael sem muita cultura. É gostoso de ler, fácil porque é para a classe média brasileira. Kael nem sempre, pois havia devaneios filosóficos que Merten apenas arrisca. Seu conhecimento sobre cinema é enciclopédico e sua forma de destrinchar o que está rolando no cenário mundial é pretensioso e muitas vezes autoritário disfarçado de vitimesco.
+O Cinema como arte surgiu em um momento depois, e foi uma nova descoberta: a linguagem cinematográfica. Era possível se expressar de maneira diferente dos habituais textos, pinturas, esculturas, peças e fotografias. As invenções da época foram diferentes formas de "asfalto" para que novos "veículos" trafegassem por ele, em uma época onde imperavam as charretes. Ou uma analogia mais direta: foram inventadas letras para que as pessoas pudesses usar palavras.
 
-Eu gosto muito de alguns textos desse senhorzinho que vejo de vez em quando nas cabines de imprensa. Já com seus mais de 75 anos é uma inspiração para todos nós, escritores. E uma profecia: estamos destinados a trabalhar de graça ou por muito pouco na seção de não-ficção.
+A proposta deste filme é apresentar a arte engatinhando. Não apenas nas mãos dos Lumière, mas de seus operadores de câmera também. Os criadores do cinematógrafo mandavam seus operadores apontar suas câmeras para cenas do cotidiano, cenários históricos e alguma ficção. Seu limite era uma câmera que precisava ficar parada no chão e os 50 segundos de limite do rolo de filme.
 
-Isso acontece porque no circuito de imprensa global é raro a figura de pessoas pensantes, que vão no âmago do assunto e tentam desvendá-lo com sinceridade. Muitas vezes acontece o que aconteceu com o Merten: ficou à deriva. Fala de política mais que Pablo Villaça e sem propriedade. Se tornaria trágico, se não fosse cômico. Hoje em dia quem liga para política está perdido.
+O resultado: mais de 1400 filmes em menos de 10 anos. A maioria desse conteúdo se perdeu no tempo, mas boa parte foi restaurada e remasterizada no formato digital. Este filme apresenta -- pasmem -- 108 filmes dessa época, que compreende entre os anos de 1896, a invenção do cinematógrafo, até 1905. E ele se torna, assim como o último Metrópolis exibido depois da restauração feita com cenas redescobertas, um pedido de desculpas à humanidade pela perda lastimável de um tesouro histórico e artístico.
+
+Essas desculpas chegam nos cinemas com uma narração (original) em francês que explica o contexto das gravações, aponta um ou outro elemento em cena e faz uma pequena interpretação, resenha ou até uma crítica do resultado. É como adentrar em um museu com um trabalho fenomenal de guia, além de um fundo musical inspirado, que recria sensações de pequenos pedaços de História em película. O narrador vai além do que o espectador médio vai, falando sobre travellings, enquadramento e a sofisticação dos operadores. Além de muitos, muitos golpes de sorte de momentos que aconteceram enquanto a câmera estava filmando.
+
+Mas ao mesmo tempo este é um filme fácil, para as massas. Como os Lumière sempre desejaram. O narrador explica detalhes técnicos, sim, mas de uma maneira tão didática, guiando os olhos do espectador sobre as circunstâncias da filmagem, o momento historico, etc. O que serve, junto da diversão de ver as primeira filmagens da história, como uma introdução a um estudo tímido mas eficaz de Cinema. O narrador compara um enquadramento com a marca registrada de um diretor japonês. Em outro momento estabelece ligação entre uma criança vestida de forma pomposa e o movimento impressionista do pintor Auguste Renoir.
+
+Não há muito o que falar da arte do filme em si, essa colagem histórica formatada com a dedicação que o material merece. Apenas que seu resultado é inestimável. Se trata do nascimento de uma invenção que todos nós adoramos. O perfeito reflexo da Revolução Industrial e a consequência do avanço tecnológico que mudou radicalmente aquela realidade que vemos em proporção 1.33 em um quase quadrado com cantos arredondados, emoldurado pra presente. Um presente que todo cinéfilo deveria ser grato por poder receber.
 

@@ -1,21 +1,23 @@
 ---
 categories:
 - writting
-date: '2020-05-16'
-link: https://www.imdb.com/title/tt3615002
+date: '2016-08-12'
+link: https://www.imdb.com/title/tt2461150
 tags:
-- animes
-- series
-title: Gekkan Shojo Nozaki Kun
+- cinemaqui
+- movies
+title: Gênios do Crime
 ---
 
-Assisti a esta série a temporada inteira e me esforcei para não debochar da fórmula e em troca ganhei algumas piadinhas. Algumas até engraçadas, mesmo que previsíveis. Quem não liga para isso é mais feliz assistindo animes.
+Gênios do Crime não é o melhor momento de ninguém do seu elenco. Porém, também não é o pior. É apenas aquela sensação de que já vimos isso antes, e embora não exatamente daquela forma, não chega a ser tão diferente de qualquer comédia de situação. E, como eles mesmos no filme admitem, ainda é um filme de roubo a banco. Sim. Mais um filme de roubo a banco.
 
-É até possível sair da fórmula imposta pelos gêneros de animes, como este "mangá para garotas", mas esta é uma série que não o faz. A ideia é uma história onde a menina se apaixona por um desenhista de... acertou: mangá para garotas. Quase como um Madoka Mágica Shojo, se este anime usasse sua ideia diferente não apenas como porta de entrada, mas também no desenvolvimento da história.
+Esse, baseado em eventos reais, de um dos maiores roubos (em valores monetários) da história dos EUA, não tem muita margem para mudanças, mas elas acontecem e aos montes. Não estamos diante de atores acostumados com verossimilhança, então a primeira e marcante mudança é que os personagens não fazem a mínima ideia do que estão fazendo. Mas o fazem de qualquer jeito.
 
-Para os que não conhecem, Madoka Mágica é um mangá/anime do estilo "garotas mágicas", mas ele subverte o gênero descrevendo uma ficção científica dark e pesada que caminha por devaneios filosóficos envolvendo moral, destino e sentimentos humanos. Apenas como chamariz, Madoka cita a obra máxima de Goethe, Fausto, e com propriedade, já que lida com pactos cujas consequências estão fora da compreensão do seu protagonista, seja Fausto ou Madoka. Porém, minhas desculpas a Goethe, mas Madoka acaba sofrendo mais.
+E se em comédias parecidas -- no sentido de ser baseada na vida real e ser sobre criminosos -- como O Golpista do Ano ainda há o fator de que a realidade ultrapassa a arte, o que justifica Jim Carrey pelo seu exagero, aqui se torna difícil acreditar que tudo o que de fato ocorreu sequer foi levemente semelhante ao que vemos no filme, com as pessoas que vemos.
 
-Quando uma obra dessas surge ela impulsiona ou revela um desejo latente na geração em explorar metalinguagem. Cansados das velhas fórmulas, as obras se voltam para si mesmas como uma maneira de se analisarem e com isso tentam criar algo novo, o que quase nunca funciona. Como se diz lá na Marvel: fazer um reboot.
+Dessa forma, as figuras montadas por Zach Galifianakis, Kristen Wiig, Owen Wilson e Jason Sudeikis (e até a simpática Leslie Jones) soltam seus diálogos despropositados e engraçados apenas pelo absurdo, mas não como uma forma de pontuar que apenas tal personagem diria tal coisa, pois isso é aparentemente irrelevante para os propósitos do filme, que é fazer rir apenas pelo absurdo destacado de contexto (como dar um tiro na própria bunda).
 
-Esta série entra nesse esquema de maneira preguiçosa, quase como um deboche ao gênero que representa. Com isso adota o caminho inverso do nobre drama sobre a existência de garotas mágicas em um universo fadado à entropia para mais um anime que usa os mesmos artifícios de história de menininha. O fato dela estar inserida na própria obra que analisa é mero capricho mercadológico.
+Não que eles não estejam bem. Porque estão (como constatei no primeiro parágrafo). Só que estão atuando para o filme errado. O roteiro escrito a seis mãos (que contou ainda com a consultoria de alguns dos envolvidos no roubo de verdade) não consegue se situar nem entre o drama engraçado ou a comédia escrachada. É simplesmente uma história que vai se desenrolando com o tempo suficiente de projeção para que os atores digam suas falas e encenem as situações engraçadas.
+
+Nesse sentido, Gênios do Crime até é engraçado, embora não seja hilário. Para chegar no hilário precisaríamos nos preocupar com seus personagens. Algo que é querer demais quando sequer os entendemos além de seus estereótipos.
 

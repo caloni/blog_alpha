@@ -1,22 +1,31 @@
 ---
+
+Brancas jogam e mantém a vantagem sem levar mate:
+
+{{< image src="board.png" >}}
+
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.28"]
+[White "cavaloni"]
+[Black "billswan"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Bf5 4. Nc3 Qd4 5. Qe2 h6 6. Qb5+ c6 {Aqui que fico
+bem, mas não enxergo que para segurar a vantagem precisa trocar o bispo branco
+para eliminar as ameaças de mate com meu rei exposto.} 7. Qxb7 hxg5 (7... Qb6 8.
+Qxa8 hxg5 9. d3 exd3 10. Bxd3 Bxd3 11. cxd3 e6 12. Be3 Qxb2 13. Rb1 Qxc3+ 14.
+Ke2 Qc2+ 15. Bd2 Bb4 (15... Bd6 16. Qxa7 Rh4 17. Rhc1 Qa4 18. Rxb8+ Bxb8 19.
+Qxb8+ Ke7 20. Bxg5+)) 8. Qxa8 Qb6 9. d3 exd3 {Essa é a hora da troca, onde nada
+foi feito e deixei as ameaças vivas.} 10. Be3 Qxb2 11. Rb1 Qxc3+ 12. Bd2 Qe5+
+{Caminhando na corda bamba, o único lance vencedor é Be3 e segurar o empate.}
+13. Kd1 dxc2+ 14. Kc1 cxb1=Q# 0-1
+```
+
+---
 categories:
 - writting
-date: '2020-12-06'
-link: https://www.imdb.com/title/tt5869202
+date: '2021-07-31T22:33:54-03:00'
 tags:
-- series
-title: Dietland
----
-
-Série sobre o de sempre: aceite seu corpo, indústria de cosméticos. Tudo muito suave para chamar a atenção. O feminismo do século 21 no Ocidente se limita a lutar contra a opressão das pessoas acharem que só existe um tipo de beleza. Ela recusa cantadas porque sabe que os homens só querem comê-la por fetiche. Ela passa mal por estar em uma dieta da moda que é horrível.
-
-## 2020-12-13
-
-Vi outro episódio. Parece que o objetivo da série é demonstrar como a protagonista não irá encontrar nenhum homem que se interesse por ela apesar de seu extra-peso e por isso ela precisa mudar o mundo. Que mundo triste, de fato. Muito diferente do real. É uma versão dramatizada de Beth, A Feia. Sem as risadas, com ideologia.
-
-Os únicos homens que ganham sua atenção o fazem por fetiche. I saw it coming. Ela chega a apanhar de um homem na rua porque enfiou um cachorro-quente cheio de molho em sua roupa e cuspiu nele o que havia em sua boca.
-
-Porém, ignore o tema por enquanto. O mais curioso é como Hollywood realiza a transição da situação em que "fulana acha a pessoa ideal" para "tem algo errado com o sistema". O sistema, ironicamente, é conduzido pela mesma Hollywood.
-
-Os donos não mudaram. A mídia não mudou. Ele está atendendo uma demanda do mercado. Se o pedido do cliente é por mais obras "revolucionárias" ela entrega de bandeja. Disponível em tamanho plus size.
-
+- movies
+title: Din e o Dragão Genial

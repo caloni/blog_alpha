@@ -1,22 +1,21 @@
 ---
 categories:
 - writting
-date: '2011-10-23'
-link: https://www.imdb.com/title/tt0364045
+date: '2022-10-18T19:42:19-03:00'
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Roubando Vidas
+title: Roza
 ---
 
-Esse é mais um thriller policial que envolve uma dupla de elementos que vem se tornando frequente: histórias previsíveis e Angelina Jolie. Nesse caso, Jolie é uma agente do FBI que precisa capturar um serial killer que rouba a identidade de suas vítimas.
+Nem sempre "heróis" do cinema são personagens que merecem ser fonte de inspiração para sermos pessoas melhores. No caso desse Roza, uma ode a pessoas fracas, chega a dar vergonha chamar qualquer uma dessas pessoas de herói.
 
-A trama principal, por se revelar boba e previsível desde seu início, se torna enfadonha, pois já sabemos seu desenrolar, o que se torna simples uma vez que o filme joga com todas as cartas marcadas, chegando a aplicar o velho clichê dos gêmeos de temperamentos diversos.
+Seu protagonista real, apesar dos créditos finais sugerirem quatro, é Hector. Pai de família, ele foge de casa e deixa mãe e pai, esposa e filho. O filme começa quando ele retorna, contra todos os prognósticos da família, e logo começa a arrumar problemas em casa. Mas sua esposa não o reconhece mais e seu filho não sabe sequer como reagir com sua presença. E sua mãe, agora viúva, é um autômato da geração passada, repetindo o que lhe foi ensinada sobre arrumar um porto seguro e sobreviver. Ela ainda fala a língua nativa de seu povo e não usa o espanhol.
 
-(É sempre bom repetir, nada tenho contra clichês bem usados, mas note a montagem dos diálogos da mãe de um dos suspeitos e perceberá parte do maniqueísmo empregado por todo o filme para enganar os espectadores mais desavisados.)
+Por falar em povo, este é claramente um filme onde a etnia interessa. De maneira pejorativa, no caso. Existe um descompasso entre o que esperamos que um ser humano ideal seja e as pessoas do filme. Como não fica claro quais os fantasmas que as atormentam, a conclusão natural do espectador é concluir ser este um caso genético, cultural ou ambos. De qualquer forma, sob qualquer ponto de vista de pessoas que almejam o melhor a cada dia, Hector é um desastre.
 
-Mesmo assim, o clima sombrio em que é transformada a cidade onde os crimes ocorrem, captada pelas eficientes lentes de Amir Mokri balanceiam a falta de personalidade da trilha sonora, que oscila entre noir e drama psicológico, sem nunca agradar em nenhum dos subgêneros.
+A escalação e atuação ajuda nesse sentido. De cara arredondada e quieto, a escolha de Hector Ramos é simbólica. Quando o ator diz algo é com uma voz fraca e fina. Falta fôlego e caráter nesse sujeito. Ele não tem fibra para afirmar nada, esteja certo ou errado. Com falhas graves de comunicação e de postura, se isolando de um mundo que não lhe interessa, é fácil entender a dinâmica dessa família disfuncional.
 
-E por falar em psicologia, talvez o maior erro do filme tenha sido apostar na performance mental do serial killer, o que, infelizmente nesse caso, ainda mais depois do desfecho, revela um conceito que parece ainda inacabado e que aplica subterfúgios pedestres para que pareça mais complexa do que de fato é. Não há detalhes que eu possa revelar sem deixar a história mais previsível ainda, portanto, me abstenho.
-
-Ao final, pelo menos ficamos com os olhos e os lábios de Angelina Jolie, o que é sempre um atrativo, não importando muito o gênero do filme ou sua história.
+O roteiro de Andres Rodriguez, ou melhor dizendo, a ausência de um, já que estes são personagens da vida real, é minimalista. Cria situações bem demarcadas sobre o retorno de Hector com começo, meio e fim. Não há trama, os eventos se sucedem como na vida real. E como um filme de arte preguiçoso que se preze, se há alguma mensagem escondida sua interpretação fica sob total responsabilidade do espectador, esse pobre coitado que entrou em uma daquelas sessões erradas da Mostra de SP. Acontece. O lado bom é que sempre há um próximo filme para tirar o gosto ruim do que já passou.
 

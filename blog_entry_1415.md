@@ -1,18 +1,29 @@
 ---
-
-Coincidência ver esse filme agora, pois semana passada estava conversando com um amigo meu sobre Boyhood e se a produção de um filme deve/pode interferir na forma como o filme é visto e avaliado. Esta é uma coincidência porque Elefante é um caso mais extremo ainda, pois se assistimos sem saber nada de antemão descobrimos apenas nos créditos finais que seus personagens são estudantes reais, e isso reflete diretamente sobre como enxegamos este trabalho excepcional de Cinema.
-
-Isso porque ele fala sobre o crônico problema americano de estudantes dos colégios entrarem com armas na escola e cometerem assassinatos em massa seguido de suicídio. Sim, é sobre isso, e o título "Elefante" para o filme é mais que conveniente, pois estabelece uma ligação completamente aleatória e sutil com um desenho de elefante na parede de um dos garotos envolvidos no massacre e também é uma deliciosa metáfora sobre o elefante na sala que ninguém quer falar sobre, ou pelo menos falar como se deve sobre: enquanto se masturba intelectualmente a psicologia envolvida nesse fenômeno, jovens que seguiriam sua vida normalmente estão sendo abatidos.
-
-Pois bem, nesse filme é impossível não falar sobre isso da maneira mais honesta possível porque o elefante está bem no meio da sala de aula, sendo alvo de escárnio, e ninguém fala nada. Aqueles personagens do filme são alunos que realizam as mesmas atividades que o vemos realizando no filme. O filme nos mostra seus nomens comuns e o que fazem durante o dia na escola, seja praticar fotografia, ficar de namoro, conversar com as amigas. Van Sant os acompanha como um grande prólogo que nos faz observar a vida comum e ordinária de estudantes. Não há nada de especial em nenhum momento no filme. A vidinha dessas pessoas não nos traz nada digno de se fazer um filme.
-
-Exceto pelo massacre. Pois depois disso a vidinha dessas pessoas foi tomada para sempre. Não existirão mais essas pessoas no mundo. E o impacto que o filme quer gerar é que esses são personagens da vida real. Apenas o massacre não aconteceu. Mas poderia acontecer. Mas tirando isso este é um filme completamente trivial que não oferece nada ao espectador. Se ignorarmos este elefante na sala, não há nada que resta senão a vida como ela é. Vale a pena conversar sobre isso?
-
----
 categories:
 - writting
-date: '2013-02-06'
-link: https://www.imdb.com/title/tt2132324
+date: '2019-03-07'
+link: https://www.imdb.com/title/tt8389758
 tags:
+- cinemaqui
 - movies
-title: Elefante Branco
+title: Elegia De Um Crime
+---
+
+Elegia de um Crime me faz pensar na ineficiência de uma torneira automática de um banheiro público. Às vezes a água vem com uma pressão que acaba molhando tudo em volta, obrigando um funcionário estar constantemente secando. Às vezes ela esguicha por muito pouco tempo, obrigando quem a usa a ficar apertando o botão em vez de lavar a mão. O ponto é que, de um jeito ou de outro, aprendemos a conviver com sistemas que parecem ter surgido com defeito desde o começo.
+
+Agora você deve estar se perguntando o que uma torneira ineficiente tem a ver com um filme sobre um assassinato hediondo. A torneira nada. A ineficiência tudo. Quando Cristiano, o diretor do filme, liga para a polícia com a localização exata do assassino foragido de sua mãe, a resposta é que ele deve ligar para outro setor da segurança pública, pois a pessoa do outro lado da linha é incapaz de ajudá-lo. E assim, como uma torneira com um defeito qualquer, o sistema parece nunca funcionar para o motivo pelo qual ele foi desenhado: lavar as mãos ou pegar criminosos.
+
+O filme dirigido por Cristiano Burlan e escrito por ele e Ana Carolina Marinho é a terceira parte de três filmes chamados de Trilogia do Luto, e caminha para processar a perda irracional de um ente querido e ao mesmo tempo recontruir a figura da querida Isabel, que apesar das poucas fotos, de acordo com seus familiares possuía o dom da beleza para sofrer na vida. Ela sofreu na vida, todos concordam, mas não é dito exatamente como, preferindo o filme manter essa vaga sensação de injustiça no ar.
+
+A morte da mãe parece ser uma ferida recente que filho/diretor tenta abrir como uma maneira de reagir ao brutal acontecimento: sua mãe Isabel é morta anos atrás de maneira covarde, asfixiada pelo seu parceiro, que nunca foi preso; pesa a impunidade e um evento trágico não-concluído nas mentes e corações de todos envolvidos. A filha de Isabel comenta que sempre que alguém que não sabe do falecimento pergunta pela sua mãe ela precisa descrever em detalhes tudo o que ocorreu. Ela espera fazer isso o resto da vida. Pelo menos espera não esquecer até lá.
+
+Da mesma forma Cristiano, já um diretor consagrado, com 14 filmes no currículo, deseja manter em memória de sua mãe um documentário sobre esses momentos. E felizmente ele o faz, pois o resultado constrói personagens da vida real que não são apenas autênticos, mas mais reais do que a ficção nunca será. Sua irmã é um pedaço de pessoa que todos nós já conhecemos. Os que moram ou já visitaram Minas, mais ainda. O sotaque mineiro e a cadência no falar revelam uma familiaridade machucada, traumatizada, mas que segue vivendo. É improvável que uma atriz conseguisse transparecer o trauma sem parecer condenada para o resto da vida. Essa é a virtude de filmar a vida real, ainda que editada.
+
+Já seu irmão, ex-detento e reformado não pelo sistema, mas pela sua vontade de se corrigir (em parte pela sua mãe), é a ovelha negra clássica que constrói o também clássico arco do desajustado. Sua participação começa despretensiosa, mas logo se revela uma daquelas pérolas da vida real, onde o (in)esperado ocorre. Cristiano, mais uma vez, prefere não revelar detalhes da vida de seu irmão, mas apenas seu desfecho recente. Quando acontece no filme gera a ideia de ciclo sem fim. O ciclo da violência oculta.
+
+Cristiano usa uma rima visual eficiente, tornando as pessoas próximas da câmera, ocupando toda a tela, nas cenas que lembram aqueles momentos que é como se a câmera estivesse desligada e as pessoas se soltassem para serem elas mesmas. Alternando entre o modo confessionário e o modo formal o filme vai tecendo uma narrativa poderosa que confia no poder da vida real. Auxiliado pelo teórico e crítico Jean-Claude Bernardet, que já trabalhou com o diretor como protagonista em Fome, existe em Elegia de Um Crime uma fina camada que separa realidade e ficção, tal como foi no filme onde Jean-Claude faz um mendigo que desistiu de sua vida de intelectual, ou levou-a até as últimas consequências. Aqui, lembrando de longe Cabra Marcado Para Morrer, as últimas consequências da impunidade é fazer um filme sobre o assunto.
+
+Este é o último filme da entitulada Trilogia do Luto e sua história também utiliza alguns traços sociais, como a violência contra a mulher. Não se trata do tema principal, mas de algo que paira no ar, alimentado pelos depoimentos que Cristiano coleta para seu filme, principalmente vindo das mulheres e quando elas parecem menos naturais em seu depoimento. O único que parece dar seu depoimento de maneira completamente honesta e natural é seu tio, que além da sinceridade mantém os pés no chão: como uma mulher vai se defender dos canalhas da vida real?
+
+A pergunta se mantém não-respondida durante todo o longa, mas vemos uma cena em que Cristiano treina dar tiros com uma pistola em um alvo inerte. Essa não é a resposta. Cristiano confessa que seu irmão e pai, se estivessem vivos, fariam justiça com as próprias mãos. Ele é incapaz. Seu jeito de se vingar é documentar tudo em um filme. E o jeito das mulheres se defenderem é denunciar essa violência. Tanto o filme quanto a denúncia parecem rasos demais. Principalmente quando Cristiano revela foto do assassino de sua mãe, por alguns poucos segundos. De aparência humilde, negro, ele não é um personagem no filme. O trabalho documental desaba um pouquinho no final ao percebermos que o realismo nem sempre é verdadeiro, mas construído. Mas quem irá criticar frente às injustiças da vida real, onde torneiras e policiais não funcionam como deveriam?
+

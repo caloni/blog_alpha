@@ -1,12 +1,11 @@
 ---
-
-Que é aquele amargor simples que sempre é sucesso quando não se quer prestar muita atenção à cerveja e mais à pizza do 430o em Jundiaí, massa feita com fermentação de 24 horas e estilo napolitana, com pizzas individuais pra comer com a mão.
-
----
 categories:
 - writting
-date: '2019-05-01'
-link: https://www.imdb.com/title/tt0168629
+date: '2018-12-31'
 tags:
-- movies
-title: Dançando No Escuro
+- wine
+title: Dancing Crow
+---
+
+Dancing Crow, Vineyards Zinfandel Lake County 2017. Estava aberto há uma semana, perdeu o pouco do álcool que tinha e a pouca vibração dos corvos que trazia. Mas o doce também se foi, deixando um gosto ligeiramente agradável de um Zinfandel californiano.
+

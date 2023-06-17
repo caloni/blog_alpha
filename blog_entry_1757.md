@@ -1,122 +1,35 @@
 ---
 
-A couple of days ago I subscribed to Hacker Hank, a website specialized in provide interview exercises. The site is as a better version of Code Jam, with the possibility to Compile & Run the code, as well as running several test cases.
+O mundo dos computadores na década de 90 poderia parecer muito intimidador para a pessoa leiga. Com a internet ainda engatinhando, as raras pessoas que sabiam mexer com esses dispositivos modernos eram considerados gênios incompreendidos, pois quase ninguém realmente entendia o que as pessoas faziam digitando naquela máquina de escrever eletrônica. O fato de ser incompreendido também gerava a desconfiança, pois quem controlaria essas pessoas dotadas do raro dom de conversar com as máquinas? Ao mesmo tempo, havia uma sensação de "perigo invisível", pois a priori qualquer pessoa dessas poderia ter controle nos sistemas que aos poucos estavam sendo entregues à informatização.
 
-Talking with friends about one of them proposed a interesting puzzle called Find the Running Median. This is a good problem because it is easy to understand and tricky to implement.
+O resultado de toda essa insegurança é o que vemos na primeira cena de Hackers, quando um grupo de policiais fortemente armados invade uma residência em busca do invasor do sistema de negociação de Wall Street, que acabou gerando perdas financeiras milionárias. Depois dessa operação especial não deixa de ser irônico constatarmos que a "mente criminosa" capturada, Dade Murphy, no fundo é um garoto de 11 anos, que no mundo virtual se auto-intitula com o nickname "Zero Cool".
 
-My first attempt was naive, but worked for test cases where there were no duplicated numbers, a detail I overlooked in the description and happenned the very first test (lucky me it is possible to download the test cases, input and output, giving in return some of the points accumulated solving other problems).
+Fora a pesada multa sobre a família pelos atos do garoto, ele é penalizado em não encostar mais em um computador ou telefone até que completasse 18 anos. Flash rápido, o vemos em um voo acompanhado da mãe pronto para sua maioridade. Ele é um garoto comum, mas, logo que tomamos seu ponto de vista, na janela do avião, o vemos observando os prédios e as avenidas de Nova York como se fossem chips e circuitos eletrônicos de um gigantesco computador.
 
-    /*
-     * Complete the runningMedian function below.
-     */
-    vector<double> runningMedian(ofstream& fout, vector<int> a) {
-        vector<double> ret;
-        set<int> oa;
-    
-        for( int n: a ) {
-            oa.insert(n);
-            auto oaMidIt = oa.size() == 1 ? oa.begin()
-                : next(oa.begin(), oa.size() / 2 - (oa.size() % 2 == 0 ? 1 : 0) );
-            auto oaMidIt2 = next(oaMidIt);
-            double median;
-            if( oa.size() % 2 == 1 ) {
-                median = *oaMidIt;
-            }
-            else {
-                median = ( *oaMidIt + *oaMidIt2 ) / 2.0;
-            }
-            fout << median << " " << n << "\n";
-            ret.push_back(median);
-        }
-    
-        return ret;
-    }
+E é essa a metáfora visual empregada pelo diretor Ian Softley (A Chave Mestra) para que nos aproximemos da mente privilegiada de Dave, agora intitulado Crash Override (Jonny Lee Miller).
 
-So I started to draw in my window a new solution, based on inplace sort algorithm, using the same vector proposed skeleton by the site. The idea was to just move elements inside the vector, ordering them as calculating the median to evey new number.
+Apesar dessa nobre tentativa de tornar o universo dos computadores inteligível para a pessoa comum, pode-se dizer que Hackers é antes de tudo um filme feito sobre hackers e para hackers. São tantas as referências culturais inseridas na história (a maioria escondida dos leigos) que fica difícil torná-la interessante para o cinéfilo comum, que não entende de tecnologia o suficiente para "pegar o jeito da coisa", e acaba por enxergar a produção como um filme B bem feito.
 
-    BEGIN --> 12,   4,   5,   3,   8,   7 <-- END
-              ^     ^
-              |     |-- SORTED_END
-            MEDIAN          ^
-                            |-- NEW
-    
-    BOOL ODD = TRUE;
-    
-    {
-        DOUBLE MEDIAN = ODD ? MEDIAN : (MEDIAN + MEDIAN+1) / 2
-        NEW = SORTED_END
-        RECURSIVE/ITERATIVE_INSERT(BEGIN, SORTED_END, MEDIAN, NEW)
-        ODD = ! ODD
-        SORTED_END++
-    } WHILE(  SORTED_END != END )
-    INSERT(BEG, END, NEW, MED, ODD) {
-        MED = SZ/2 - (SZ_ODD ? 0 : 1)
-    
-        1, 2, 3, 5, 6     (4)
-              -
-              < ?
-        RIGHT OR LEFT
-    /*my playground
-    vector<int> test = { 12, 4, 5, 3, 8, 7, 5, 5 };
-    for (size_t new_element = 1; new_element < test.size(); ++new_element)
-    	insert_new_element(test, new_element);
-    return 0;*/
+E ele é muito bem feito. A direção de arte investe em cenários e figurinos que remetem ao clima exótico e exuberante das mentes dessas pessoas (ajudados pela trilha tecno-psicodélica de Prodigy), o que acaba por também afastá-los da denominação de pessoas comuns. De dia são jovens comuns, mas à noite possuem rotinas específicas e maneiras diferentes de enxergar a realidade (como um dos novos amigos de Dave, que acredita em uma teoria da conspiração parecida com a do livro [1984]). Dessa forma, mantém uma vida secreta, noturna, onde podem fazer o que quiser. No fundo, os cenários surreais apenas tentam recriar um outro mundo da maneira que os hackers o enxergam: o mundo virtual.
 
-I still wasn't thinking about the sort algorithm until I began to try and fail several times, but this try/error bitch always taught me how to make things faster then embryological bullshit to born from scribbed windows. It only requested a debugger to make the edit, compile, debug triple step.
+Para extravasar mais ainda a realidade, existem sonhos, que se misturam à realidade. Boa parte da poeira levantada pelo roteiro tenta tornar a aventura dentro dos computadores no mínimo divertida e emocionante, onde até o lado erótico é ressaltado (com uma imensa ajuda de Angelina Jolie, que faz uma hacker adolescente de inteligência destacada, mas que não dispensa os prazeres carnais). No mundo virtual, a possibilidade mais excitante é poder controlar objetos reais, como um semáforo, um canal de televisão e até mesmo um navio através do acesso a um computador.
 
-I was still trying in the window, thought, until in one of these iteractions with the compiler/debugger I achieved a simples, clearer solution, using only offsets from the vector instead of iterators.
+Ao mesmo tempo, para dinamizar uma história quase que puramente mental, a câmera investe em ângulos inusitados e jogos de luz para tornar a vida secreta sempre vibrante. Para ajudar na ação, são inseridos um chefe de polícia, que persegue os hackers e a mídia para se auto-promover, e o chefe de segurança de computadores de uma companhia de petróleo, que vira o "hacker do mal", ou seja, um hacker que não almeja aprender e compartilhar conhecimento, mas obter benefícios próprios.
 
-    void insert_new_element(vector<int>& a, size_t new_element)
-    {
-    	size_t begin = 0;
-    	size_t end = new_element;
-    	size_t sz = end - begin;
-        size_t median= begin + sz / 2 - (sz % 2 ? 0 : 1);
-    
-        while( sz > 1 ) 
-        {
-            if( a[new_element] < a[median] ) 
-    			end = median;
-            else
-    			begin = median + 1;
-    		sz = end - begin;
-    		median = median == begin? begin : begin + sz / 2 - (sz % 2 ? 0 : 1);
-        }
-    
-    	size_t insert_offset = a[new_element] < a[median] ? median : median + 1;
-    	int element = a[new_element];
-    	a.erase(a.begin() + new_element);
-    	a.insert(a.begin() + insert_offset, element);
-    }
+Infelizmente aqui não existe um perigo tão real como a possibilidade de um conflito nuclear de [Jogos de Guerra], mas apenas um plano ambicioso para tirar dinheiro da companhia. Contudo, o universo hacker é tão diferenciado em sua forma de cores e luzes que torna a vida dos personagens interessantes o suficiente para que acompanhemos empolgados o grupo de nerds.
 
-This version almost done it, except for timeout error. Hacker Hank has a timeout of 2 seconds to C++ solutions and I was exceding it. After some thought (more try/error) I thought about change the container, but before I made a simples test: instead of using erase/insert methods make the things manually as in good old C.
+E muito embora a visão idealizada de um hacker esteja bem distante da realidade, isso no fundo não importa. Apenas a versão romantizada e inserida em nossas ruas, prédios e sistemas telefônicos é o suficiente para que tenhamos o gostinho de sermos vigiados por pessoas invisíveis. São as pessoas virtuais da nova era.
 
-    void insert_new_element(vector<int>& a, size_t new_element)
-    {
-        //...
-    
-    	size_t insert_offset = a[new_element] < a[median] ? median : median + 1;
-    	int element = a[new_element];
-        //a.erase(a.begin() + new_element);
-        //a.insert(a.begin() + insert_offset, element);
-    	memmove(&a[insert_offset + 1], &a[insert_offset], (new_element - insert_offset) * sizeof(int));
-    	a[insert_offset] = element;
-    }
+E que possuem um nickname.
 
-And it worked. Now what I learned looking the other solutions.
-
-There are incredible tools in C++, even since 98 or 11, that are frequently overlooked, but it is important to notice that the language has a framework for processing: containers, algorithms and so on. By example, looking for other solutions I learned about the characteristics of multiset and priorityqueue (spoiler: both have a ordering predicate and are logarithmic). There are smart functions in algorithm, too, as lowerbound.
-
-A lot of solutions simply ignored the skeleton provided by the site and began its own code from scratch, eliminating the "request" that the numbers must be stored first in a vector. Sometimes, when there as skeleton in our life, we use them as guidelines, forgetting that "there is no spoon".
-
-I hope you learned something, too. You can see my Hacker Rank attempts in the site (nickname caloni) or my GitHub repository.
+[1984]: {{< relref "1984" >}}
+[Jogos de Guerra]: {{< relref "war-games" >}}
 
 ---
 categories:
-- coding
-date: '2023-04-28'
-link: https://www.hackerrank.com/interview/interview-preparation-kit
+- writting
+date: '2012-05-14'
+link: https://www.imdb.com/title/tt0427327
 tags:
-- interview
-- english
-title: Hacker Rank Array - Part 1
+- movies
+title: 'Hairspray: Em Busca da Fama'

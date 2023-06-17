@@ -1,53 +1,18 @@
 ---
-
-Bancos de dados são uma dor de cabeça para o desenvolvedor acessar. Quase tão motivation killer que as configurações do .NET. Se for um programador em C++ para Windows, então, desista.
-
-O DBAccess é mais um dos códigos-fonte desenterrados dos meus backups. Esse eu usei já em vários projetos, porque é simples e rápido de usar.
-
-```
-class DBAccess
-{
-public:
-	/// Factory para base de dados específica.
-	/// @param database Pode ser "sqlite" ou "oledb".
-	static DBAccess* CreateDBAccess(const std::string& database);
-
-	typedef std::string ColumnName;
-	typedef std::vector<std::string> Rows;
-	typedef std::map<ColumnName, Rows> RowSet;
-
-	virtual ~DBAccess() { }
-
-	virtual bool Connect(const std::string& connectionString) = 0;
-	virtual bool Disconnect() = 0;
-
-	/// Executa uma instrução SQL e retorna opcionalmente os resultados (se for uma query).
-	virtual bool Execute(const std::string& command, RowSet* response = 0) = 0;
-};
-```
-
-Sua função é abstrair a abertura de um banco de dados, sua execução e sua saída. Para isso ele cria uma interface simples que usa STL. Por debaixo dos panos, usa OLEDB, que abstrai qualquer coisa, só precisando de instalar o driver e aprender qual [das 500 mil combinações](https://www.connectionstrings.com/) é a string de conexão correta. Para não ter que usar outras funções para coisas simples como sqlite, foi incluído seu suporte (que é mais uma tradução entre interfaces), necessitando para seu uso daquele projeto do sqlite que contém um header e um .c (pelo jeito o pessoal desse projeto também gosta de simplificar as coisas).
-
-O código que trata o OLEDB é um pouco grande (umas 300 linhas) por conta da manipulação dos componentes COM. Porém, feito decentemente, faça uma vez e use um milhão (ainda falta fazer alguns unit tests, aliás).
-
-```
-IDataInitialize* pIDataInitialize;
-IDBInitialize* pIDBInitialize;
-IDBCreateSession* pIDBCreateSession;
-IDBCreateCommand* pIDBCreateCommand;
-```
-
-É um bom projeto para entender o uso da minha batidíssima biblioteca de parsear argumentos argv/argc (Args.cpp/h) e a mais batidíssima ainda [biblioteca de Log](http://caloni.com.br/logs-em-servicos-e-outras-coisas), que utiliza variadic templates para se livrar da maldição dos crashs causados pela falta de tipagem do printf e derivados (em Log.cpp/h).
-
-Além disso, observe como o uso de interface permite que os headers específicos do que tem que ser feito (e.g. oledb.h, atlbase.h, msdasc.h, sqlite.h e até windows.h) não precisa necessariamente estar presente no header da interface (oledb.h), e como o uso de um factory em um método estático da interface permite que a junção das tecnologias envolvidas fique apenas no oledb.cpp. Dessa forma, para retirar ou acrescentar novas formas de comunicação com um banco de dados é muito simples.
-
-_PS: A publicação do __DBAccess__ foi inspirada na thread iniciada por Spagiari no [nosso grupo C/C++](https://groups.google.com/forum/#!topic/ccppbrasil/3qtvxelVrdc)._
-
----
 categories:
 - writting
-date: '2012-10-28'
-link: https://www.imdb.com/title/tt0444653
+date: '2013-03-15'
+link: https://www.imdb.com/title/tt2088962
 tags:
 - movies
-title: De Bico Calado
+title: De Coração Aberto
+---
+
+Javier (Édgar Ramírez) é o cirurgião do hospital onde Mila (Juliette Binoche) trabalha. São marido e mulher. Ou melhor dizendo, mulher e marido. A impulsividade de Javier e sua dependência da mulher vão aos poucos se desenvolvendo pela diretora (e atriz) Marion Laine. Seu alcoolismo o afasta das operações, o que é o estopim para que sua impulsividade tome o controle não apenas de sua vida, mas de Mila. As coisas pioram quando descobrimos que ela está grávida. As decisões de Mila são sempre em função de Javier, que é uma bomba-relógio.
+
+O argumento para o aborto de Mila é evitar "algo sem controle" na vida dos dois. A princípio podemos supor que ela fala sobre o bebê, mas logo fica claro sua maturidade frente ao comportamento quase primata do marido. Não precisamos de muitos diálogos expositivos. Marion Laine coloca Javier entre chimpanzés, e esse parece ser o que mais deseja.
+
+Os detalhes técnicos impressionam pela sutileza, como o som, que nos guia a todo o momento sem tornar-se demasiadamente invasivo. No entanto, ele pode estar presente tanto nos momentos mais sutis (como uma batida no capacete de um personagem) quanto nos mais urgentes (o som da água no rio). Já a fotografia é exibicionista, mas não revela seu significado, permanecendo como uma imagem indelével na mente. Brinca com o vermelho, às vezes nas roupas de Mila, outras na de Javier. A tragédia ronda a vida dos dois. Aos poucos percebemos que não importa o que seja feito tende a dar errado, ou está predestinado a dar. Em uma montagem primorosa somos levados de um exercício de ternura a um ato de violência sem controle, quando Javier e Mila exibem seus sentimentos de forma visual a respeito do seu filho.
+
+O terceiro ato termina como deve ser, ou como algo que esperávamos a qualquer momento. Com uma câmera que flutua entre transições viscerais entre um tranquilo sonho no rio e uma sala de cirurgia somos levados a juntar todas as peças elegantemente espalhadas pela história. Não precisamos que nos expliquem qual a grande mensagem por trás de tudo isso. No fundo, é desejável que cada um tire suas próprias conclusões.
+

@@ -1,20 +1,20 @@
 ---
-categories:
-- writting
-date: '2018-01-19'
-link: https://www.imdb.com/title/tt4047038
-tags:
-- series
-title: Dirk Gently's - Segunda Temporada
+
+Para os filhos da década de 50/60 a era Disco representou uma mudança radical de apreciar música. Essa mudança não ocorreu obviamente apenas na música, mas na maneira de pensar e agir, sobretudo na adolescência, época conturbada tão bem representada nos trabalhos de John Hughes (Curtindo a Vida Adoidado, O Clube dos Cinco).
+
+É nessa atmosfera que surge esse trabalho tão diferente quanto representativo do seu momento. Além de abordar temas polêmicos como o aborto, ainda que perifericamente, consegue mostrar essa revolução de pensamentos e músicas dos anos 80 como um reflexo das mudanças que ocorreram antes, nos anos 60, onde a história se passa.
+
+Todo esse significado não poderia soar mais óbvio através da encantadora 'Baby' (Jennifer Grey, de Curtindo a Vida Adoidado), apelido carinhoso pelo qual seus pais e sua irmã chamam Frances, a filha caçula da família que irá passar suas férias em um veraneio onde famílias se divertem através dos mesmos jogos e danças tradicionais devidamente programados para entretê-las.
+
+Com uma narrativa ambientada quase como uma fábula, onde Baby não mede esforços para ajudar todos que necessitam e ao mesmo tempo agarra as oportunidades de ser feliz, o que nos conquista é não só sua beleza e inocência, mas a forma como a história é conduzida através da dança, que tem papel primordial para estabelecer o status a qual as pessoas pertencem, dependendo, é claro, a que tipo de dança apreciam. Nesse sentido, o título coube perfeitamente aos propósitos narrativos.
+
+E a dança, maneira universal de comunicação física entre pessoas de qualquer cultura, é usada aqui de maneira impecável não só nas performances exuberantes de Patrick Swayze, Cinthia Rhodes e Jennifer Grey como é acompanhada com um ritmo e uma cronologia impressionantes na montagem, dando a exata impressão, errônea, mas que cabe perfeitamente à intenção, que cada música foi composta para cada cena.
+
 ---
-
-A segunda temporada de Dirk Gently's prova que é possível sim construir obras audiovisuais que se baseiam fortemente no espírito do autor britânico Douglas Adams. Se o filme Guia do Mochileiro das Galáxias já dava uma pequena ideia da mente criativa de Adams e DGS01 possuía um season finale de cair o queixo, este S02 coloca agora o próprio core da história, com suas dezenas de personagens, quase tão complexo, denso e fascinante quanto os próprios textos de onde essas ideias surgiram.
-
-Não é pra menos. Baseando-se em um plot que lembra O Mundo de Sofia com testosterona e um estilo geek inconfundível, não haveria nada mais instigante do que a história de um garoto que criou um universo de contos de fadas inteiro em sua mente, tal como se os textos de um livro dessem vida aos seus personagens.
-
-A história segue a mesma lógica da temporada anterior, partindo do bizarro como criaturas de cabelo rosa e espada de tesoura, ou até mesmo um barco no meio de uma plantação, para descobertas cada vez menos estranhas. A revelação final é muito bem arquitetada e a resolução final deixa a desejar por excesso de personagens. O que empolga mais na primeira metade desta nova temporada é a descoberta e criação dos seus novos heróis e vilões. Embora simples, as dinâmicas funcionam pela releitura do status quo desses papéis.
-
-Dessa forma, por mais clichê que seja, é divertido acompanhar o xerife novato em uma cidadezinha onde nada acontece (além de Sherlock Hobbs ser o melhor nome!). Ao mesmo tempo é hilário entender junto do obtuso diretor da maléfica organização Black Wing como suas controladoras ações do sobrenatural estão fadadas ao fracasso. E, apesar de cair no clichezão total, a escalada de uma inusitada rainha má não poderia ser mais imaginativa. Ponto extra para suas inventivas blusas com frases de auto-ajuda, que vão do bem sacado "girl power" para o escrachado "não me faça usar meus poderes". A participação das mulheres nessa saga é vital. Os personagens masculinos empalidecem, onde até o personagem-título entra em uma crise existencial.
-
-Aliás, se há algo que incomoda em "Dirk Gently's" são seus conflitos artificiais criados para mover a história, como a repetição do irmão que busca ficar bem com a irmã ou o próprio Dirk, adentrando em um marasmo sem fim onde ele questiona e evita seus próprios métodos de resolução de casos. Esses conflitos não são sentidos como tão importantes assim na trama como um todo.
-
+categories:
+- coding
+date: '2007-06-22'
+tags:
+- ccpp
+- english
+title: Disassembling the array operator

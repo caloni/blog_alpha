@@ -1,18 +1,20 @@
 ---
 
-Já sabemos que Frank Underwood (Kevin Spacey) é capaz de literalmente tudo por mais poder. Se isso não fica claro no desfecho trágico do final da primeira temporada, com certeza o início da segunda não deixará a menor dúvida da mente doentia e obstinada do agora vice-presidente.
+Acabou a sétima temporada, então fomos para a última. A mulher deu play e assistimos o que pensávamos ser o primeiro episódio da última temporada de House MD.
 
-Criando uma metáfora extremamente eficiente entre uma batalha da guerra civil americana e a obsessão de Underwook pela presidência, os símbolos e os desfechos cada vez mais irônicos dos personagens secundários povoam o imaginário do espectador de maneira sutil, mas permanente. Já não é mais possível pensar claramente a respeito da estratégia do nosso anti-herói sem se deixar ofuscar pelo rastro de ressentimento, ódio e mágoas deixados pelo caminho. Porém, a ironia da série está justamente em apontar, ainda que sutilmente, que todas aquelas pessoas envolvidas, em maior ou menor grau, estão tão obcecadas pelo jogo de poder quanto o personagem de Kevin Spacey. Se da primeira vez havia um herói por quem torcer (Peter Russo), agora ambos os lados do tabuleiro são culpados (ainda que possamos fazer uma curiosa comparação entre Russo e o desfecho trágico de outro personagem).
+Só que não. Era o último. Aprendemos na última cena.
 
-E se falo em guerra civil e tabuleiro no mesmo parágrafo é porque tudo se assemelha a um jogo de xadrez nessa história: fios narrativos aparentemente soltos entre os episódios criam uma trama extremamente coesa conforme as consequências começam a bater à porta, sendo exatamente uma das maiores virtudes dessa temporada conseguir manter a sutileza e ao mesmo tempo nos lembrar de personagens e fatos que aparecem apenas no início da história (ou em pequenos intervalos) para voltar nas horas finais. (E digo isso com "conhecimento de causa", pois demorei meses para concluir a série, sem querer acabar tudo de uma vez.) Tudo isso, enfim, são pistas milimetricamente posicionadas por um trabalho conjunto de roteiro e direção absurdamente magnéticos. O trabalho de nove diretores e quinze roteiristas é mover as peças nesse tabuleiro desenhado com uma fotografia sóbria e duramente realista sobre os usos e desusos do poder na democracia.
+Mas até então eu estava analisando como se fosse a primeira, o que rendeu alguns insights. Nem todo spoiler vem para o mal.
 
-A cereja do bolo obviamente são os dois episódios finais, quando o diretor James Foley volta com tudo e consegue tornar um acontecimento digno de uma catarse em um ritual fúnebre e previsto. Claro que "previsto" é que vamos descobrindo bem aos poucos, pois isso tiraria as surpresas e os riscos envolvidos. No entanto, quando Frank fala sobre "diminuir riscos" em uma última conversa com Tusk a respeito de seus métodos manipuladores das finanças conseguimos pescar que na verdade isso é o que o próprio Underwood consegue fazer na esfera política: com todas as peças já tendo sido colocadas em seus melhores lugares tempos atrás, basta executar o plano serenamente e observar o próximo passo a seguir. Depois de assistir a duas temporadas de House of Cards, só sendo bem mau-caráter para acreditar nas boas intenções dos governantes de um Estado. Qualquer um deles.
+Por exemplo: deu para entender todo o episódio. Sério. Mesmo sem ter visto nada da última temporada. Nós imaginamos as partes que faltam porque estamos o tempo todo trabalhando as lacunas de conhecimento implantadas na história. Descobrir uma parte da fórmula sendo exposta dessa forma é gratificante e ao mesmo tempo vê-se parte da trapaça de soar como um roteiro esperto e intrigante.
+
+Outro aspecto do final fascinante é como eles retomam, observam ou respeitam a conexão com Sherlock Holmes e alguns episódios das aventuras do detetive original, como forjar a própria morte. É uma homenagem e um aproveitamento do que não existe tão bem na adaptação.
 
 ---
 categories:
 - writting
-date: '2016-03-13T20:30:00-03:00'
-link: https://www.imdb.com/title/tt1856010
+date: '2020-09-06'
+link: https://www.imdb.com/title/tt0322629
 tags:
-- series
-title: House of Cards - Terceira Temporada
+- movies
+title: Houve uma Vez Dois Verões

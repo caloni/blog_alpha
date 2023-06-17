@@ -1,16 +1,45 @@
 ---
 categories:
-- writting
-date: '2011-04-27'
-link: https://www.imdb.com/title/tt0780571
-tags:
-- movies
-title: Instinto Secreto
+- coding
+date: '2007-12-05'
+title: Interação entre controles no C++ Builder
 ---
 
-Falarei brevemente deste que, para mim, é uma das maiores surpresas em Home Vídeo em muito tempo. A princípio, o filme emprega uma dinâmica inovadora com um mesmo personagem representado por duas psiques/atores, e o uso de atores que conseguem passar a impressão de serem a mesma pessoa (Kevin Costner e William Hurt) é mecanicamente a melhor coisa do filme.
+Como próxima lição da nossa jornada Borland, vamos aprender a fazer os controles de um form interagirem entre si com a força do pensamento.
 
-Ao mesmo tempo que não agride a inteligência do espectador, usando-o, de maneira genial, como um quase cúmplice dos pensamentos internos de Mr. Brooks, temos a exata sensação do que se está passando em ambas as esferas sociais, o que mais uma vez é um mérito ganho pelo funcionamento peculiar da narrativa.
+Para essa proeza precisaremos de:
 
-Apresentando-nos uma visão irônica e arrebatadora dos matadores em série, o filme consegue manter o interesse sempre crescente, com cenas que certamente figurarão entre os exemplos do que a arte cinematográfica bem dirigida consegue produzir.
+ - Dois TButtons
+ - Um TEdit
+ - Um TListBox
+
+Bom, sabemos já como colocar esses caras no form principal. Apenas espalhe-os de maneira que eles não fiquem uns em cima dos outros (essa técnica de espalhamento chama-se design).
+
+Agora no evento default do Button1 (duplo-clique nele) colocaremos o seguinte código:
+
+    void __fastcall TForm1::Button1Click(TObject *Sender)
+    {
+    	if( !Edit1->Text.IsEmpty() )
+    	{
+    		ListBox1->AddItem(Edit1->Text, 0);
+    		Edit1->Text = "";
+    	}
+    } 
+
+Percebeu? Não? Então rode e note o que acontece quando você aperta o botão.
+
+Agora iremos fazer algo mais interessante ainda com o segundo botão. Coloque no evento default o seguinte código:
+
+    void __fastcall TForm1::Button1Click(TObject *Sender)
+    {
+    	if( !Edit1->Text.IsEmpty() )
+    	{
+    		ListBox1->AddItem(Edit1->Text, 0);
+    		Edit1->Text = "";
+    	}
+    } 
+
+Mais simples, impossível. E com um pouco de imaginação, o mais besta dos aplicativos pode se tornar uma utilidade do dia a dia. Até sua mãe vai adorar.
+
+{{< image src="listadecompras.gif" caption="Lista de Compras" >}}
 

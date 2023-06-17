@@ -1,24 +1,103 @@
 ---
 categories:
-- writting
-date: '2019-10-24'
-link: https://www.imdb.com/title/tt8445700
-tags:
-- cinemaqui
-- mostra
-- movies
-title: Não me Ame
+- coding
+date: '2023-02-24T22:36:06-03:00'
+title: Não passei em uma entrevista técnica
 ---
 
-Não me Ame é cinema experimental, e eu admiro isso. Porém, seus símbolos vão se multiplicando a cada diálogo em um ritmo indecifrável, e isso não tem perdão.
+Fui ingênuo em minha primeira entrevista técnica depois de muito tempo sem fazer. Pensei que iam avaliar minha tentativa de resolver problemas, e não para resolver mesmo, naquela meia-hora de call, silêncio e compartilhamento de tela. Na metade da entrevista, depois de explicar para a entrevistadora, uma das arquitetas sênior do lugar onde pretendia trabalhar, como resolvi um [bug no algoritmo blowfish de tempo real asm de um boot de hd] ela me pede pra fazer um teste de programação. O teste consiste em comprimir números repetidos de uma string, algo digno de campeonato de programação.
 
-Brincando em espanhol com uma história de guerra no estilo invasão do Iraque misturado com o folclore bíblico, a ideia concebida por Sergi Belbel e Lluís Miñarro (dirigido por este último) nunca foi uma coisa boa, nem no começo, quando filmes como Cães de Aluguel e diretores como Kubrick são citados. Referências do diretor? Espero que não, ou isso quer dizer que nas aulas de cinema da atualidade os rolos de filmes são mais cheirados do que vistos.
+Até aí tudo bem, fui fazendo. Depois de umas três retentativas de compilar, rodar, depurar no "passou por aqui" (não havia depurador no ambiente web), estava quase pronto, faltando um detalhe recursivo no método pedido. Esse último detalhe que não deu tempo.
 
-Mas falando, agora, sobre a história desse filme me veio à memória alguns de seus momentos. Quase todos sensuais. Sua protagonista é a filha do general, Salomé, que é bela e se encanta com o prisioneiro de guerra que seu pai mantém escondido em uma caverna.
+O mais curioso é que fiquei com isso na cabeça. Após a entrevista fui ao dentista. Na sala de espera acessei o [replit] pelo celular, refiz o código e consegui resolver. Mas já era tarde. Eu estava na sala de espera do dentista, meia-hora depois da entrevista ter terminado.
 
-Ele é chamado de profeta, preso em cavernas subterrâneas e não falando coisa com coisa. Há um acampamento militar ao lado, onde se bebe vinho e se fala sobre filosofia. Em um futuro muito presente, os poderosos do mundo acertam como em um contrato qual será a próxima guerra entre eles. Qualquer semelhança com a realidade foi expurgada do filme, que não faz o menor sentido.
+```
+#include <iostream>
 
-Mas as cenas são bonitas. A fotografia também. Sei de pessoas que só por isso já falariam que este é um filme de respeito. Os cenário, teatrais, cumprem seu papel onírico, cercando personagens movidos por impulso. Podemos estar acompanhando fragmentos ligados no espaço-tempo. Vai saber... melhor não.
+using namespace std;
 
-Love Me Not é sobre a perdição do cinema americano. Ele pega desde as séries, apresentando os atores como se fizessem parte de uma, para saltos temáticos que existem apenas como provocação vazia ao espectador. É uma aposta, como todo filme experimental. Porém, ter uma direção de arte, figurino, fotografia e edição impecáveis em um filme desses... isso não tem perdão.
+string compress(string input)
+{
+    string orInput;
+    do
+    {
+        orInput = input;
+        for (size_t i = 0; i < input.size() - 1; ++i)
+        {
+            if (input[i] == input[i + 1])
+            {
+                size_t end = i + 2;
+                while (end < input.size() && input[end] == input[i])
+                {
+                    ++end;
+                }
+
+                input.erase(i, end - i);
+                --i;
+            }
+        }
+    } while (orInput != input);
+
+    return input;
+}
+
+int main()
+{
+    string input = "235554431";
+    string output = compress(input);
+
+    cout << "input: " << input << '\n'
+        << "output: " << output << endl;
+}
+```
+
+O objetivo estava cumprido:
+
+```
+input: 235554431
+output: 21
+```
+
+Na noite seguinte, antes de acordar, "sonhei" com uma solução mais elegante. Acho que me lembro. A ideia-chave era apenas reiniciar do começo da string após cada compressão.
+
+```
+#include <iostream>
+
+using namespace std;
+
+string compress(string input)
+{
+    for (size_t i = 0; i < input.size() - 1; ++i)
+    {
+        if (input[i] == input[i + 1])
+        {
+            size_t end = i + 2;
+            while (end < input.size() && input[end] == input[i])
+            {
+                ++end;
+            }
+
+            input.erase(i, end - i);
+            i = -1;
+            continue;
+        }
+    }
+
+    return input;
+}
+
+int main()
+{
+    string input = "235554431";
+    string output = compress(input);
+
+    cout << "input: " << input << '\n'
+        << "output: " << output << endl;
+}
+```
+
+Incrível como as ideias vêm quando menos esperamos. E elas não vêm na meia-hora que você mais precisa. Uma eternidade, agora pensando melhor.
+
+[bug no algoritmo blowfish de tempo real asm de um boot de hd]: {{< ref o-bug-mais-bizarro-que-ja-resolvi >}}
+[replit]: https://replit.com/@Caloni/Compress#compress_numbers_in_strings.cpp
 

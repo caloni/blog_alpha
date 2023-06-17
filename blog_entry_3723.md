@@ -1,18 +1,22 @@
 ---
 categories:
 - writting
-date: '2018-07-01'
-link: https://www.imdb.com/title/tt8342946
+date: '2017-04-04'
+link: https://www.imdb.com/title/tt2669336
 tags:
 - movies
-title: 'Tig Notaro: Happy to Be Here'
+title: Time Lapse
 ---
 
-Eu não sei como era a performance da comediante de standup Tig Notaro antes dela contrair uma doença séria, perder a mãe, terminar seu relacionamento na semana seguinte e desenvolver um câncer. Mas eu sei que graças a esses eventos, sua coragem e dedicação ao humor o show que ela fez neste momento de sua vida pode figurar tranquilamente na lista dos mais poderosos, inesquecíveis e memoráveis da história da humanidade.
+Mais um filme de viagem no tempo. Dessa vez quem viaja é só a luz. Uma câmera tira fotos 24 horas no futuro e entrega para três jovens que perderam a capacidade do livre-arbítrio. Isso porque agora eles precisam reproduzir a foto tirada custe o que custar, se não quiserem morrer.
 
-Isso porque ela simplesmente entrega no humor a leveza que todos precisam para seguir a vida adiante, e por estar de fato na situação sendo abordada na forma de comédia ela desconstrói o drama e em seu lugar entrega algo muito mais poderoso: nossa capacidade de rir das piores adversidades e seguir adiante.
+Time Lapse tem o charme musical e temático daqueles thrillers onde algo muito estranho vai ficando ainda mais estranho conforme a história vai avançando. No entanto, ele se rende a um roteiro estruturado demais, que apenas vai passando dia após dia, e que mesmo com o risco eminente de dar tudo errado, prefere fazer um joguete de triângulo amoroso. É como se a câmera que tira as fotos, ou seu inventor, já soubesse que seu melhor uso é materializar fetiches dos espectadores.
 
-O documentário da Netflix é inédito e merece uma visita, mesmo que na maior parte do tempo seja um mero relato da vida de uma pessoa, que não se torna mais especial por tentar ter um filho em barriga de aluguel. Mas por algum motivo os documentaristas acharam tão relevante a figura de Tig, sua persona, sua forma de reagir a cada novo momento de sua nova vida, que se formos assistir a esse filme no embalo, ele se torna um programa honesto e dotado de coração.
+Ele também conta com um namorado pintor que é o oposto do estereótipo de artista. Frio e calculista, ele sempre coloca na balança a situação sem nunca sentir muito mais que um leve desapontamento. Até quando sua namorada precisa beijar seu (suposto) melhor amigo em sua presença.
 
-E, claro, boas risadas.
+O filme também conta com um apostador extremamente estúpido, daqueles que acabou de achar o ganso de ovos de ouro e agora sempre vai comprar pãezinhos todas as manhãs com um quilo de ouro debaixo do braço, e que em vez de pensar em ganhar na loteria de vez prefere brincar de levantar suspeitas da máfia das corridas de cachorro.
+
+O que de certa forma demonstra que, mesmo que as pessoas tivessem o poder de ver o futuro, fariam tudo exatamente como seria esperado que fizessem. Ao mesmo tempo, o filme acaba virando uma doce e sagaz crítica de como a ambição desmedida das pessoas as faz se tornarem escrava do tempo, e não mais donas do seu próprio destino.
+
+E tudo isso em um filme bobinho, que apesar de bem conduzido, também não consegue evitar ser bobinho o tempo todo. Parece que o roteiro foi sendo escrito uma página vinda do futuro por vez, e não havia nada a fazer.
 

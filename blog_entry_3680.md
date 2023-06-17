@@ -1,24 +1,20 @@
 ---
 categories:
 - writting
-date: '2016-07-16'
-link: https://www.imdb.com/title/tt2400463
+date: '2017-01-11'
+link: https://www.imdb.com/title/tt0017075
 tags:
 - movies
-title: O Convite
+title: 'The Lodger: A Story of the London Fog'
 ---
 
-Esse filme de 2015 não estreou nos cinemas do Brasil, mas graças à Netflix está disponível para espectadores caseiros. Se trata de um thriller travestido de drama, com todos os atores desconhecidos, algumas técnicas batidas e um certo gosto de estranheza que acompanha a tela pela maioria do tempo.
+O primeiro filme sobre crime de Hitchcock já contém vários elementos que indicam a que veio esse diretor, que já demonstrava inventividade em seus trabalhos anteriores. Aqui ele mantém algumas boas ideias (como a câmera subjetiva, girando no meio de um quarto, olhando o reflexo do rosto no vidro, e até caminhando furioso em direção a uma pessoa amedrontada) e cria tantas outras novas. Porém, mais que isso, constrói um belo filme através de um roteiro até que mediano.
 
-Essa estranheza já começa na primeira cena, onde vemos um casal conversando sobre o convite que receberam da ex-mulher dele, Will (Logan Marshall-Green), junto de todos seus amigos e conhecidos. Eles estão no carro, e um animal acaba sendo atropelado. Ainda vivo, Will precisa sacrificá-lo com uma chave de rodas. Piedoso, talvez.
+A história gira em torno de um serial killer que se auto-intitula O Vingador (The Avenger, em um pedaço de papel no bolso da vítima), e mata garotas loiras às terças-feiras. Toda a construção do matador lunático é feita com elementos que lembram um psicopata e através da fantasia do grande público, que consome avidamente o jornal com as últimas notícias sobre os assassinatos. Um dos policiais responsáveis pelas investigações namora uma garota loira, e esta garota vive com os pais em uma casa grande que está com um quarto a alugar. A descrição do assassino é tão bem martelada em nossas cabeças que quando chega um rapaz para alugar o quarto, o imaginário hitchcockiano já foi implantado em nosso cérebro.
 
-E por falar em morte, Will e sua ex com um nome talvez simbólico, mas nem um pouco sutil, Eden (Tammy Blanchard), tiveram um filho, e este morreu em condições nefastas. Atormentados pela perda, é até natural que tenham se separado. O que não é natural é reunir todos os que presenciaram a tragédia em um jantar "especial".
+Os atores dessa época do cinema mudo eram bem caricatos, pois não havia à disposição os diálogos, apenas os intertítulos, usados apenas para informação que não conseguisse ser mimetizada pelos atores. Isso dava margem a interpretações exageradas, mas marcantes, como Nosferatu, e aqui o inquilino do filme, vivido por Ivor Novello de maneira icônica, com um tom perturbador cujo temperamento sugere fortemente que este é de fato o assassino que todos estão à procura. Ele cria essa persona com extrema propriedade. Novello é um artista multifacetado, e depois de seu último filme em 34 resolveu se dedicar inteiramente a seu outro talento: a música. Sua pele pálida, seus lábios finos e seu jeito afeminado constituíram talvez o primeiro personagem marcante dirigido por Hitchcock.
 
-O estranho do filme fica por conta tanto de Eden e sua nova companhia estarem fazendo parte de uma espécie de seita onde se prega a aceitação da perda de entes queridos, além da própria morte, e uma desconfiança constante de Will, que se pega a todo momento observando detalhes no tratamento de seus hóspedes e de seus estranhos novos amigos, como o fato das portas estarem trancadas (sem a chave na fechadura) e da insistência em que todos se sintam bem e façam confissões inesperadas.
+Curiosamente, este é um filme com dois plot twists, um deles impressionante para a época de hoje: uma mulher que beija dois homens, e se apaixona pela "pessoa errada". E o outro twist marca o primeiro da carreira do diretor, que quer mostrar os perigos de um julgamento apressado. Hitchcock nos dá as pistas e as retira depois. É um ato barato. Mas é tão bem articulado neste filme, quando percebemos realmente qual a moral da história, que acaba soando como um artíficio legítimo e poderoso.
 
-Ao mesmo tempo, cada vez que Will perde o foco o vemos impregnado de lembranças do filho. Cada cômodo da casa onde moravam remete a uma lembrança do garoto, tornando-se de certa forma impossível para ele imaginar que sua ex-esposa estivesse de fato tão bem como ela demonstra.
-
-The Invitation já seria ótimo se parasse por aí, e eu até arriscaria dizer que preferiria que ele parasse aí. No entanto, ele vai um pouco além na paranoia e o que ele revela pode não ser nada imprevisível, mas as consequências do que é revelado são interessantes per se.
-
-Não se trata de nenhum grande clássico, mas para quem gosta de thriller e está cansado da mesmice dos jovens na cabana isolada, talvez goste de uma relação semelhante envolvendo pessoas que são amigas e que se encontram de vez em quando. Talvez você até goste de ideia de imaginar-se na mesma situação em seu próximo evento social. Quem sabe até onde vai a loucura alheia...
+A inventividade de um diretor que filma embaixo de uma placa de vidro onde o ator anda de um lado a outro, e usa uma transição com o teto da sala da residência, onde podemos ver o lustre se mexendo, é a marca de alguém preocupado com todas as formas possíveis de contar sua história. Em uma época onde ainda a linguagem estava se desenvolvendo, ele vira um participante ativo na construção da própria arte cinematográfica. E começa a sessão de crimes que tanto marcaram o cineasta.
 

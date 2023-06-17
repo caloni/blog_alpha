@@ -1,14 +1,20 @@
 ---
-categories: []
-date: '2020-05-19'
-title: Fechado Para Reformas
+categories:
+- writting
+date: '2011-12-20'
+link: https://www.imdb.com/title/tt0107048
+tags:
+- movies
+title: Feitiço do Tempo
 ---
 
-Quase três mil posts durante quinze anos nessa vida de blogue e percebo que chegou a hora de atingir a maioridade. Escrever um rascunho e publicá-lo na internet não me torna melhor escritor que qualquer YouTuber de primeira viagem que não edita seu conteúdo ou tuítes que simplificam o pensamento humano de tal forma que ele parece totalmente válido ou inválido. Perde-se as nuances. A voz do autor fica solta demais para ser relevante nesse mar de informação que nos afogamos todos os dias (e noites).
+Bill Murray em um papel que é a cara dele: Phil Connor é o homem do tempo de uma emissora de televisão e precisa cobrir o tradicional "Dia da Marmota", uma cerimônia de uma cidadezinha secular cuja lenda uma marmota (ironicamente também chamada Phil) faz a previsão se haverá mais inverno.
 
-Para me tornar um escritor profissional eu devo revisar. Revisar é o que irá extrair valor dos meus textos. Brutos como estão nem eu consigo mais enxergar a virtude de escrever. O conteúdo não é nada se não for seguido pela arte da composição. E essa arte só se conquista compondo, lapidando, com o esforço de conseguir acabar uma obra com esmero e excelência, e ainda que não se consiga por completo esse é o caminho a ser seguido.
+Assim, ele parte para uma viagem à cidadezinha para uma estadia de apenas um dia para cobrir o evento com a ajuda do seu câmera man e sua produtora executiva, para a qual mantém um secreto interesse que inteligentemente vai se mostrando conforme o drama da história se desenvolve.
 
-Portanto, coloquei todos meus textos antigos para revisão, e os novos nascem no repositório como rascunhos, o que quer dizer que o texto não aparecerá em sua primeira versão no blog. O bebê não está pronto ainda. É durante a gestação que ele irá ganhar corpo e desenvolver sua mente. A edição, além de correções gramaticais, reorganiza o pensamento contido já no rascunho, mas não totalmente consolidado para ser consumido por outro ser humano que não seja o autor.
+A maldição que cai sobre o egocêntrico Phil também não deixa de ser irônico: descontente por ter que ficar um único dia na gelada cidadezinha, esse mesmo dia se repete indefinidamente, com as pessoas executando as mesmas ações, como se fosse a primeira vez que o dia se passasse, menos o próprio Phill, que sabe que já passou por isso antes.
 
-Escrever é coisa séria. Depois de tanto praticar, acredito que seja a hora de constatar este fato, tirar a poeira das milhares de páginas que já compus e tentar arrumar tempo para me atualizar na arte de criar telepatia para leitores do futuro.
+Usando de uma montagem inteligente que aos poucos corta várias cenas que são repetidas exatamente para demonstrar que os dias vão se sucedendo da mesma maneira, sendo que a única pessoa onisciente e que altera sua história é o personagem de Bill Murray, as cenas vão se sucedendo cada vez menores e em um ritmo que nos permite 1) acompanhar a evolução do drama do jornalista e 2) não ficarmos entediados pela situação; pelo contrário, as história que vão ocorrendo fazem com que ele aos poucos vá mudando e tentando diferentes soluções.
+
+A ideia genial do longa é justamente representar a história do resto do mundo várias e várias vezes e acompanharmos a evolução de apenas um único homem durante esse único dia, que, aparentemente se repete por muitíssimo tempo (ele aprende a tocar piano de maneira magistral, o que faz com que pensemos nos anos preso no mesmo dia).
 

@@ -1,18 +1,28 @@
 ---
-
-Quatro anos depois do sucesso do filme sobre viagem no tempo, o diretor Robert Semeckis e seu companheiro de roteirização Bob Gale planejam uma continuação em duas partes, o que criaria um desfecho de uma trilogia em dois passos. Para isso, dois roteiros foram produzidos e filmados praticamente ao mesmo tempo.
-
-O segundo filme, como um reflexo do primeiro, se volta para problemas que ocorrerão na família McFly 30 anos no futuro, o que implica em revisitarmos os mesmos conceitos do filme original com a grande diferença de estarmos visualizando um futuro possível para os idos anos 80, o que dá total liberdade de criação para a direção de arte, que amplia o universo do filme anterior e enriquece o atual com cores vibrantes e ideias e referências que pulam de todo lugar. É possível assistir o filme diversas vezes e ainda assim não encontrar todas elas.
-
-A trilha sonora do mestre Alan Silvestri, agora já consagrada, recebe um tratamento alternativo, mas mantendo o tema tão vivo na mente dos fãs. A história, a princípio idêntica à primeira, se abre como em um leque e possibilidades em quatro dimensões, e é como se estivéssemos acompanhando uma história que acontece não em três lugares distintos, mas em três tempos, nessa que é a grande virtude do roteiro, que justifica sua aparente complexidade central.
-
-Esse é o mais complexo dos três filmes, e pode se tornar corrido por boa parte do tempo. Ele passa num instante, o que prova o conceito de Einstein do tempo ser relativo. Também comprova as teorias audio-visuais no Cinema, que comprovam que uma edição eficaz consegue montar uma bagunça no roteiro tão bem composta como este Parte II.
-
----
 categories:
 - writting
-date: '2016-03-20'
-link: https://www.imdb.com/title/tt0099088
+date: '2016-02-27'
+link: https://www.imdb.com/title/tt1431045
 tags:
 - movies
-title: De Volta para o Futuro III
+title: Deadpool
+---
+
+A fórmula Marvel de produzir super-heróis enlatados é tão maldita que só um filme como Deadpool, que brinca com toda a produção desses mesmos enlatados, para conseguir se desvencilhar, ainda que parcialmente, dos seus outros filmes lançados a balde.
+
+É por isso que até seus créditos iniciais brincam com o processo de escalação, apresentando os personagens pelos seus estereótipos, tais como Um Cara Durão, Um Vilão, Um Personagem Feito de CGI, Uma Gostosa. Mais do que isso: declara que os roteiristas é que são os verdadeiros heróis.
+
+Nada mais justo: realizando a façanha de através da meia-hora mais criativa e envolvente que um filme de herói tem há alguns anos, é de lá que saem os melhores diálogos, as melhores construções de personagem, os melhores ganchos para o resto do filme e a melhor quebra de quarta parede já vista em uma produção do sub-gênero, e que ainda por cima insiste em ser bem-humorado enquanto estoura miolos, arranca cabeças e esmaga corpos humanos.
+
+E tudo isso seguindo à risca o processo de engessamento de histórias aplicado pela Marvel. É possível sentir a tensão que deve ter havido entre os roteiristas e entre quem estava com o dinheiro. Sim, os roteiristas serem os verdadeiros heróis faz todo o sentido para mim.
+
+Os fãs devem dizer (ouço falar) que esse personagem merece o tratamento 18 anos (ou 16, no caso do Brasil) porque sem a violência gráfica seria impossível produzir um filme com ele. A violência existe, sim, e é desferida não a robôs vindos de outra galáxia ou qualquer coisa feita por computador, mas humanos. Genéricos, irrelevantes, mas humanos.
+
+Outro ponto é que a violência é apenas violência. O "herói" Deadpool mata e ameaça pessoas, mas não passa de uma versão Peter Parker com uma moral bem flexível. E seu passado provavelmente conturbado até tenta explicar esse seu lado negro, mas não sem um propósito: ele conhece uma prostituta... quer dizer, dançarina... quer dizer, só garçonete de boate, mesmo. Ambos tem um passado pesado, e é isso. No processo até tenta se desculpar pelo conteúdo machista e... convenhamos, de controverso, quase não sobra mais nada. Ele é um herói mutante que não quer se vestir de amarelo com os X-Men. Ponto.
+
+E, se for pensar, o que mais cansava em todos os heróis é essa tendência mágica e sobrenatural de praticar o bem (e é um bem livre de qualquer suspeita, BTW). Ate Homem de Ferro foi "corrompido" pelo câncer do politicamente correto. São tempos sombrios para figuras como Dead Pool.
+
+E uma das grandes sacadas de casting é colocar Ryan Reynolds como o herói. Sua objeção a um uniforme verde (ele foi Lanterna Verde) e seu histórico de galã (não à toa, foi casado com Scarlett Johansson) favorecem esse jogo de anti-herói e sua aparência desfigurada. Tudo converge harmoniosamente para um anti-filme da Marvel.
+
+E é por isso que o terceiro ato é tão decepcionante. Não pelas lutas, que são divertidinhas. Nem pelos efeitos, impressionantemente feitos em computador. O que decepciona mesmo é a volta para a normalidade, o previsível e o risco zero. Já sabemos tudo que vai acontecer desde o momento em que A Gostosa é raptada. Isso é para acabar com os poderes de qualquer mutante. E eu não colocaria dessa vez a culpa nos roteiristas.
+

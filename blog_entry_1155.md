@@ -1,18 +1,27 @@
 ---
-
-Quebrei a cabeça com uma DLL de hook que não estava funcionando para usuários comuns. No entanto, para qualquer administrador funcionava.
-
-Isso acontece porque quando se arrasta uma DLL recém-compilada para a VMWare ela possui um mecanismo que primeiro cria esse arquivo no temporário do usuário atual e depois move esse arquivo para o lugar onde você de fato arrastou.
-
-Como sabemos, a pasta temporária de um usuário fica em seu perfil, que possui direitos de uso apenas do usuário e dos administradores do sistema. Se eu copio um arquivo de uma pasta restrita para outra pasta os direitos do arquivo permanecem. Isso quer dizer que apenas o usuário atual e os administradores terão acesso ao arquivo, mesmo que se trate de um arquivo para uso de todos.
-
-Resultado: arrastava a nova DLL de hook compilada da pasta de saída direto para a pasta de sistema da máquina virtual e esse caminho através do temporário era seguido, tornando a DLL inacessível para os usuários que eu estava testando.
-
-Solução: após arrastar o arquivo, mude suas permissões. Ou copie-o através do bom e velho copiar/colar. Diferente do arrastar, o Ctrl+C Ctrl+V não gera arquivos temporários.
-
----
 categories:
-- coding
-date: '2011-07-26'
-tags: null
-title: Cuidado com variáveis temporárias
+- play
+date: '2023-06-15'
+link: https://www.chess.com/game/live/79966923915
+tags:
+- chess
+title: Cuidado de ambos e a gafe no final com a dama
+---
+
+Esta partida estava sendo bem jogada por ambos os lados. Estava difícil de progredir, pois não havia muitas ideias. Estava lento. Até que minha ideia de pesar na coluna do bispo ao mesmo tempo que atacava a dama fez meu adversário pensar demais, acredito eu, pois ele estava ameaçando o peão da torre com o bispo dele. Tanto pensou que pendurou a dama. Uma pena. Estava equilibrado (acredito).
+
+{{< image src="board.gif" >}}
+
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.08"]
+[White "hcnchc"]
+[Black "cavaloni"]
+
+1. e4 c5 2. Bc4 Nc6 3. Nf3 e6 4. Nc3 d6 5. O-O Nf6 6. Re1 h6 7. h3 Be7 8. d4
+cxd4 9. Nxd4 O-O 10. Nf3 e5 11. Nd5 Nxd5 12. Bxd5 Be6 13. a3 Qc7 14. Nh2 Rac8
+15. Re3 Bxd5 16. Qxd5 Kh8 17. Rg3 Bf6 18. Be3 Ne7 19. Bxa7 Nxd5 0-1
+```
+
+

@@ -1,71 +1,28 @@
 ---
 categories:
-- coding
-date: '2014-06-24'
-tags: null
-title: 'Se iterando com os pseudo-ponteiros: uma breve introdução'
+- writting
+date: '2011-11-17'
+link: https://www.imdb.com/title/tt1671496
+tags:
+- movies
+title: Se Não Nós, Quem?
 ---
 
-Como [já vimos algumas vezes](http://www.caloni.com.br/remove_if-ate-remove-so-que-diferente), a STL não prima por interfaces intuitivas, preferindo abstrações que criem um leque de ferramentas genéricas para tratamento uniformizado de coleções de dados através de algoritmos. O problema disso é que novos programadores da linguagem terão que aprender uma maneira nova de lidar com problemas baseada na percepção dos criadores do padrão na época em que foi lançado de como seria a evolução da ciência da computação nos próximos anos. Muitos dos conceitos ali abordados realmente se tornaram padrão _de facto_, mas na briga pela expansão da linguagem quem perdeu por muito tempo foi o próprio desenvolvedor, que teve que se contentar com uma lista de algoritmos genéricos parcialmente compilado.
+Na primeira cena do filme, vemos um gato comendo um filhote que põe o ninho muito baixo. Logo depois, um menino tenta esconder o gato. Na visão de seu pai, o gato é o judeu do mundo animal, e deve ser eliminado sem dó.
 
-Dito isto, a abstração dos iteradores é a coisa mais linda do mundo.
+O Cinema Alemão mais uma vez bebe dessa fonte inesgotável de ideias que foi o grande trauma da sociedade do século XX: o genocídio do povo judeu através de uma ideologia fanática que tentou restaurar a economia da Alemanha na pós-Primeira Grande Guerra. Perdidos estavam os dessa geração, mas mais ainda ficaram os filhos do Terceiro Reich, um evento devastador para o mundo, e mais ainda para o povo alemão, que teve que conviver com a culpa eterna de seus imperdoáveis atos. Sim, pois, depois de subjugados pelo mundo, quais ideias floresceriam das mentes de promissores escritores que viram pilhas de livros de filosofia sendo queimados aos montes, ou que tiveram seus pais participantes desse processo fanático que levou seu povo ao precipício moral? 
 
-{{< image src="0Kne7qd.jpg" caption="iteradores-como-ponteiros-a-imagem" >}}
+É essa questão que "Se Não Nós, Quem?" tenta responder através da história de Bernward Vesper (Diehl), filho de um escritor nazista que busca abrir sua própria editora, mas tem que conviver com as memórias do pai e de seu livro que enaltecia as ideias de Hitler. Com transições elegantes, que vão da batida de uma música à de uma porta, e passa por rimas visuais elegantes, sobretudo no figurino do elenco que passa pela transformação de duas décadas, o filme traça um paralelo entre os principais acontecimentos do mundo (sobretudo os EUA), que vemos através de documentários e filmagens da época, e a história de Vesper e sua companheira de luta e afetiva Gudrun Ensslin (Lauzemis), que viria a ser um dos membros fundadores da Fração do Exército Vermelho, uma organização guerrilheira alemã de extrema esquerda.
 
-## Iteradeiros ou Ponteradores?
+Como se pode ver, o filme brinca entre a realidade e a ficção porque de fato conta a história de personagens históricos de uma Alemanha ainda dizimada e que busca de todas as formas sua reconstrução, mas que, carente de escritores e ideias, acaba sendo levada pela corrente de revoluções do novo mundo.
 
-Os dois únicos conceitos que é preciso se lembrar para sempre quando se trata de iteradores é que ele:
+No filme, pequenos detalhes como a relação da mãe de Vesper com suas serviçais representa uma transição social que é devidamente caracterizada em seus pormenores conforme os anos passam. Contudo, o mesmo não ocorre de maneira evidenciada com seus personagens, que parecem andar em círculos enquanto o mundo se transforma rapidamente. A própria ideia defendida com persistência (e até teimosia) por Bernward em publicar uma reedição do livro de seu pai começa a se transformar de repugnante para anacrônica, e o passar dos anos é responsável por boa parte das mudanças que vemos na tela.
 
-  * Um iterador se comporta como um ponteiro opaco.
+Porém, independente de seu caráter histórico, o filme parece esquecer o desenvolvimento de seus personagens, que são meramente representados por falas mecânicas que determinam suas ações (igualmente mecânicas), o que termina por enfraquecer a narrativa principal, ainda que todo o resto esteja pincelado pela direção de arte de maneira convincentemente competente.
 
-  * O final de um contêiner está sempre um elemento além do último.
+Maior prova disso é o envelhecimento de Bernward e Ensslin, que nunca é convincente. Não por culpa da maquiagem falha (desculpável), mas pela própria cronologia de seus personagens, que nunca parecem sentir o peso das mudanças nas ideias em sua volta.
 
-Um ponteiro pode ser iterador, mas não o contrário!
+Portanto, quando vemos um Bernward enlouquecido, ou uma Ensslin determinada a agir, ambos soam forçados, pois não possuem explicação narrativa o suficiente para que expliquem ao espectador suas reais motivações.
 
-Tudo que um ponteiro faz de útil em C/C++ foi emprestado para a STL usar em seus contêiners, e tudo em que ele é prejudicial tentou ficar de fora. E o que um ponteiro faz de útil?
-
-  * Um ponteiro pode apontar para elementos sem conhecermos sua posição.
-
-  * Podemos incrementar ou decrementar ponteiros para caminhar em listas.
-
-  * Dois ponteiros podem ser subtraídos para sabermos a distância entre dois elementos.
-
-```
-
-template<typename T>
-T VaiSomandoVaiSomando(T begin, T end)
-{
-    T current = begin;
-    T next = begin + 1;
-
-    while( next != end )
-    {
-        *next = *current + *next;
-        ++current;
-        ++next;
-    }
-
-    return current;
-}
-
-#include <vector>
-#include <iostream>
-
-int main()
-{
-    int aInts[10] = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-
-    std::vector<int> vInts;
-    for( int i = 0; i < 10; ++i )
-        vInts.push_back(i);
-
-    std::cout << *VaiSomandoVaiSomando(&aInts[0], &aInts[10]) << std::endl;
-    std::cout << *VaiSomandoVaiSomando(vInts.begin(), vInts.end()) << std::endl;
-}
-
-```
-
-{{< image src="GmNutkz.jpg" caption="iteradores-como-ponteiros" >}}
-
-Da mesma forma, operações como cópia, movimentação, ordenação, caotização, pode ser feito usando dois ponteiros/iteradores de dois contêiners distintos, desde que algumas regras básicas sejam seguidas, como _um iterador deve sempre apontar para algo válido_ (ou disponibilizar alguma abstração que insira novos elementos em um contêiner menor). Veremos essas regras em um próximo post sobre o tema. Apontarei para ele _aqui_.
+De certa forma, o filme cumpre o que se propõe ao desenvolver uma estrutura irregular que reflete na mesma falta de perspectiva daquelas pessoas que viveram uma época conturbada na história de seu país. Infelizmente, a mesma estrutura falha não cumpre a ambição de contar de fato a história dessas pessoas, o que torna o filme tão difuso quanto o que de fato ocorreu nas décadas passadas.
 

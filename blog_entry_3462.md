@@ -1,14 +1,14 @@
 ---
 categories:
-- writting
-date: '2021-05-15'
-link: https://www.imdb.com/title/tt8231064
-tags:
-- animes
-title: Shinya! Tensai Bakabon
+- cooking
+date: '2023-03-05T11:09:57-02:00'
+tags: null
+title: Shogayaki
 ---
 
-Essa continuação de uma série curta de anime dos anos 70 acompanha uma família em torno do inquieto pai Bakabon. O primeiro episódio é uma espécie de homenagem metalinguística ao original, o que deve ser melhor para quem conhece a fonte. Para quem chegou agora como eu é metade engraçado: a metade que não depende de referências passadas.
+Este prato vai tradicionalmente carne de porco e significa gengibre frito ou grelhado. São tirinhas finas ou bifes de qualquer parte de carne de porco junto de shoyu e gengibre no fogo. Entre os ingredientes mais tradicionais vai cebola, saquê e mirim (saquê doce). O gengibre é ralado, fatiado ou ambos. A mesma coisa com a cebola. São sugestões. Entre as dicas valiosas do preparo, a regra de ouro é nunca cozinhar demais carne de porco ou ela fica muito seca, pois perde mais fácil o suco antes de selar. Um dos truques é polvilhar farinha por cima para reter esse suco da carne. O modo de preparo também é variado, mas basicamente envolve fritar os dois lados da carne rapidamente, jogar a cebola para dourar e absorver o sabor do queimado e jogar a carne novamente junto de um suco formato pelo gengibre e saquê. O fininho da carne fica em torno de 3 milímetros de espessura.
 
-O pai quer mudar detalhes no anime para que seja uma nova estréia completamente nova. Então ele muda o bigode, o corpo, o gênero. Ele troca o filho por um transeunte, e o filho e seus cinco irmãos gêmeos produzidos em laboratório viram os transeuntes. Na gana de ser uma celebridade de respeito ele termina tentando fazer seu filho caçula ser preso por tráfico de drogas, pois é o que toda celebridade de respeito deve ter no currículo. Contando para vocês soa mais engraçado que assistindo, porque o ritmo, o tom e a própria referência deslocam a piada para uma espécie de Family Guy de outra dimensão. É caótico demais e se perde na construção.
+# 2023-03-05
+
+Estava quase acertando o ponto da carne, mas a receita que fazemos em casa vai brócolis e sua água atrasou um pouco o processo. Acredito que seja possível deixar um caldo mais ralo junto de amido de milho para engrossar, o que evitaria ter que reduzir o líquido do brócolis.
 

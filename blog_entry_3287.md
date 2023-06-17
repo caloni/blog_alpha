@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2013-07-21'
-link: https://www.imdb.com/title/tt0265459
+date: '2020-07-11'
+link: https://www.imdb.com/title/tt0233809
 tags:
 - movies
-title: Retratos de uma Obsessão
+title: Revelações Secretas de Uma Mulher
 ---
 
-Entre tantas coisas que poderiam ser destacadas da performance de Robin Williams como Seymour Parrish, um funcionário de uma hoje extinta reveladora de fotos, o que permanece ao final de Retratos de uma Obsessão são os inúmeros filtros que parecem cobrir sua vida de uma aura tão poética quanto trágica. Esse sentimentos ecoam principalmente através das cores, presentes nas fotos e nas vidas das pessoa para quem trabalha, mas que a ele são negadas. Quer uso mais metafórico da fotografia no Cinema do que a própria fotografia sendo o tema principal?
+Filme de baixo orçamento sobre a ex do seu diretor, Miyuki, uma feminista bissexual radical que tem tantos filhos que fica difícil contar o número dos pais. Kazuo Hara, o diretor, nasceu em 1945, um péssimo momento para estar vivo no Japão. Segundo longa seu e já habituado a polemizar em seus conteúdos.
 
-Dos fregueses de costume, uma família em específico é a "obsessão" de Parrish por anos, e sua dedicação em manter a imagem dessa família no decorrer dos anos é ao mesmo tempo tocante e doentio. Nesse sentido, as expressões de um Williams bem mais contido consegue de maneira eficaz a tarefa de nos manter presos a cada passo seu tentando se aproximar de completos estranhos. Da mesma forma, conforme a história começa a se misturar com seus desejos ocultos de pertencer à família, os abusos das cores azul e laranja começam a fazer sentido nesse mundo pálido.
+É um trabalho no mínimo interessante. Cumpre seu tom documental, embora seja hilário que o diretor se surpreenda com a briga constante entre a ex e sua namorada quando ele passa a viver sob o mesmo teto, filmando a briga. Dessa forma, o filme acaba explicando indiretamente a diferença entre homens e mulheres e um pouco da natureza humana.
 
-Já o trabalho do diretor/roteirista Mark Romanek constrói um thriller que oscila bem entre o clássico e a referência. Em determinado momento, um episódio de Os Simpsons mostra uma piada onde é usado o toque de O Cabo do Medo (Scorsese, 1991). Esse toque, além de uma brincadeira inocente, revela os objetivos do filme enquanto metalinguagem.
+A princípio o filme parece não ter sido uma boa ideia. Acompanhamos a rotina da mulher na ilha de Okinawa, o bairro Heliópolis do Japão. Ela se mudou para lá para conhecer o lado miserável dos japoneses em sua colônia mais controversa, geralmente um porto de marinheiros estrangeiros e base de nascimento de várias crianças mestiças com as trabalhadoras dos bordéis locais. Tanto as mulheres quanto as crianças vagam pela ilha. E Miyuki é tudo aquilo que seu diretor quer que ela seja. Sua narrativa é que comanda. Ela não confia nele por ele ser bom com as palavras, mas é vaidosa o suficiente para não descartar um filme em que ela é a protagonista máxima.
 
-Ainda assim, com todas as desculpas possíveis, é difícil ignorar que o diretor de fotografia Jeff Cronenweth não tenha exagerado um pouco. Mas só um pouco. Todo o resto é útil para a construção do personagem e das situações. A medida do exagero é quando todas essas cores insistem em nos jogar para fora do filme. Ou talvez o ritmo às vezes descompassado, que gera um efeito episódico sem necessidade.
+O filme finalmente emplaca quando nasce mais um filho dela na casa do diretor. Ele coloca a câmera de frente para sua vagina durante o parto, mas a providência divina e a tensão que ele sentia faz a câmera ficar fora de foco todo o tempo. São momentos que ficaram mais tensos por conta disso e por ela ter uma filha totalmente sozinha. Ao final do parto a criança fica lá jogada no chão, mas a mãe começa a dizer que está tudo bem e é natural. Não conseguimos entender o desdém dessa criatura, ou o que a move, se é que há algo.
 
-De qualquer forma, nada nos prepara para o final anti-climático, revelador e elegante em sua sutileza (e gritante em seu diálogo final, justo em um filme que na maior parte do tempo não precisa disso). Há algo de inocente nesse thriller enquanto thriller, mas algo de maravilhoso sendo construído com cores e enquadramentos enquanto exercício de estilo. Uma pena que ambos não consigam coexistir com total harmonia.
+Filmado com áudio independente, há vários momentos fora de sincronia, mas que soa até poético, quase como descrições fora da ação. Em dado momento o diretor trabalha com sua namorada e vemos como a ex é ciumenta e possessiva. Ambas engravidam nessa época e são bem diferentes entre elas.
+
+A conclusão que você irá chegar deste trabalho é que ele é bem pessoal, quase a ponto de não conseguirmos universalizar para tirarmos ideias sobre nós mesmos. Mas é isso o que o torna um filme que chama atenção: aprendemos também observando o outro, e quando o outro viveu em uma década em que não éramos nascidos em um país que nunca conhecemos com pessoas à margem da sociedade. Então ele se torna algo a mais do que nossas vidinhas pequeno-burguesas.
 

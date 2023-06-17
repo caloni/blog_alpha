@@ -1,21 +1,44 @@
 ---
-
-É cada vez melhor a surpresa com relação a comédias românticas (ou apenas comédias) protagonizadas por mulheres. O universo feminino independente do masculino estava escondido por gerações, mas hoje, no formato de uma sociedade que cada vez mais reconhece o direito da mulher de se divertir tanto quanto os homens, está a cada dia causando no Cinema resultados positivos, da mesma forma com que o universo masculino muitas vezes é representado (vide o último filme de Richard Linklater, "Jovens, Loucos e Mais Rebeldes") sem ressalvas pelo machismo e a quem isso possa doer. Ele existe. Assim como mulheres que transam por 100% de prazer e 0% de comprometimento.
-
-E para temperar estes filmes, a figura de Rebel Wilson é sempre bem-vinda. Ela é uma coadjuvante de luxo que consegue através de seu carisma e (quase sempre) ótimas tiradas tornar "Como Ser Solteira" um filme engraçado e dinâmico, evitando cair no clichê do drama feminino em busca de significado em sua vida.
-
-E por falar em sair de clichês, este filme roteirizado por quatro pessoas, apesar de confuso e não conseguir dar tempo suficiente para todas suas histórias e personagens, convence por sua tentativa de mostrar como o mantra do "dever ser" da sociedade pode ser prejudicial para qualquer pessoa. A necessidade da protagonista interpretada por Dakota Johnson ("Cinquenta Tons de Cinza") de viver uma vida de solteira antes de tomar a "grande decisão" de se casar com seu primeiro namorado é louvável, mas ignora que indivíduos são diferentes, além de que eles podem mudar.
-
-Da mesma forma a personagem irritantemente carismática (e neurótica) de Leslie Mann ("O Virgem de 40 Anos") subverte o clichê da mãe solteira que se dedicou por mais tempo que devia à sua vida profissional. E o que dizer da sempre divertida Alice Brie ("Community"), que faz o papel da mulher que nunca se encaixa em um relacionamento e cuja profissão de narradora de histórias para crianças inverte de maneira hilária seu futuro como a tia solitária e falsamente delicada?
-
-Através da direção segura de Christian Ditter somos levados a diferentes enquetes que se juntam e se entrelaçam em uma espécie de "Simplesmente Amor" para solteiros e enrolados. Não se sabe ao bem a moral da história, mas se sabe que o vigor com que Ditter avança sobre a história, competentemente editada por Tia Nolan, consegue fazer com que as divertidas atuações do elenco se tornem ainda mais inesquecíveis.
-
-E isso se tratando de personagens que beiram o estereótipo. No entanto, há em seu background história o suficiente para torná-las reais, e além disso, uma direção de arte digna de comédias de personagens em Nova York. Há cores exageradas de um lado, "apês" minimalistas de outro, e ricos inesperados de outro. Não há muita credibilidade, mas quem se importa com isso quando está se divertindo?
-
-Esqueça a previsibilidade do velho enlatado ComRom. Em Como Ser Solteira há criatividade demais na criação e desenvolvimento de seus personagens para ficar se martirizando com a velha história do casal que se odeia mas se ama. Prefira a volúvel Rebel Wilson e suas tiradas de duas palavras ("lunch time!").
-
----
 categories: []
-date: '2015-11-18'
-tags: null
-title: Como ser um hacker
+date: '2008-01-02'
+title: Como ser um melhor desenvolvedor em 2008
+---
+
+Aproveitando que está se aproximando meu prazo final para minhas resoluções de seis meses atrás, e o [DQ] já fez o checklist dele, vou dar uma espiada na minha lista de desejos atual e fazer uma nova lista para 2008.
+
+#### 1. Fazer um curso de memorização
+
+Comecei, fiz vários exercícios, mas ainda não acabei todas as aulas. Descobri que a memória pode ser muito mais bem treinada do que realmente é, e existem técnicas bem pensadas que fazem isso sem muito mais esforço do que apenas tempo despendido. De fato todos nós já temos uma memória incrível, só precisamos treiná-la adequadamente.
+
+Como comecei e ainda não parei considero esta tarefa realizada (começar e ganhar ritmo é o mais difícil) e estendido para 2008 inteiro.
+
+#### 2. Fazer um curso de leitura dinâmica
+
+Comecei, fiz quase todos os exercícios e terminei. De fato melhorou em muito minha capacidade de concentração na hora de ler um texto rápido, embora eu ainda fique com muito sono quando faço isso. O importante agora é nunca deixar de treinar, e melhorar cada vez mais o poder dos movimentos oculares.
+
+#### 3. Aprender o meu ritmo
+
+Não existe milagre, mas existem coisas que podemos fazer para ajudá-lo a acontecer. Foi isso que aprendi durante minhas inúmeras tentativas de dominar o tempo e o espaço no desenvolvimento de software. Aprendi muita coisa, inclusive que escritórios não foram criados para serem lugares produtivos, e quase sempre é necessário se defender dos riscos que a internet faz para a saúde.
+
+Enfim, essa tarefa também terminou. Agora é só manutenção constante e disciplinada.
+
+Por fim, considero se achar melhor depois de ter melhorado um ou dois itens da vida profissional uma "escrutinisse", tão inútil quanto achar-se já um desenvolvedor muito bom. Porque a qualquer hora podemos cometer novamente aquelas besteiras que fazíamos há cinco anos, e a qualquer hora podemos ter idéias brilhantes. O importante, na minha opinião, é aprender exatamente por que erramos e por que acertamos. Aprender exatamente, e lembrar-se disso, pode ser um enorme catalisador de anos de depuração aleatória.
+
+> "Cada problema que eu resolvo se torna uma regra que serve mais tarde para resolver outros problemas." - Rene Descartes
+
+#### 4. Lista inusitada de tarefas
+
+Sem estar na lista previamente concebida comecei a fazer outras coisas de maneira mais eficiente, relacionado ao trabalho ou não:
+
+ - Aprender o leiaute do teclado Dvorak. Treino todo dia cinco minutos há três meses a digitação usando esse leiaute, porque é mais simples, mais rápido e dói menos os dedos.
+
+ - Anotar todas as coisas importantes. Seja uma idéia nova, uma idéia sobre uma idéia, ou até mesmo melhoramentos em algum software que dou manutenção, é importante manter tudo anotado, porque sabe-se lá quando isso vai ser usado. Mas, quando for, quem vai se lembrar?
+
+ - Bloguear constantemente. Apesar dos sacrifícios que isso às vezes causa, é edificante nunca "deixar a bola cair". Minha regra é sempre publicar um artigo dia sim, dia não durante a semana. Em uma semana começo na segunda, em outra na terça, e assim sucessivamente. Tem funcionado desde que reiniciei o blogue há seis meses, e espero que continue assim.
+
+ - Usar novo controle de versão em casa. Há um mês mais ou menos conheci o Mercurial, que é um sistema de controle de versão muito leve e não-centralizado, duas coisas que fazem uns sininhos soarem em minha cabeça. Ele é baseado conjunto de modificações e merge, duas coisas a que não estou acostumado e me forcei a aprender.
+
+Não é muito difícil definir essa lista, pois ela na verdade são as mesmas duas listas que citei anteriormente. Comecei a fazer essas coisas seis meses atrás. Para um fumante de fato parar, uns cinco anos de abstinência é um bom indicador. Acredito que, para um hábito se enraizar, um ano e meio pode ser de bom tamanho.
+
+[DQ]: http://dqsoft.blogspot.com/search?q=resolu%C3%A7%C3%B5es+de+ano+novo
+

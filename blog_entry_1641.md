@@ -1,24 +1,18 @@
 ---
 categories:
 - writting
-date: '2012-11-16'
-link: https://www.imdb.com/title/tt1142977
+date: '2014-08-15'
+link: https://www.imdb.com/title/tt1621039
 tags:
 - movies
-title: Frankenweenie
+title: Bons de Bico
 ---
 
-Desde o início há algo de mágico em Frankenweenie. Baseado em um curta dirigido pelo próprio Tim Burton e, quem diria, produzido pela Disney, o diretor e roteiro repetem os mesmos passos certeiros do trabalho original, conseguem desviar dos errados e acrescentam, além de uma divertidíssima homenagem ao Terror em seus momentos mais fortes, uma saudável discussão em torno de como as pessoas enxergam a ciência hoje em dia. Afinal de contas, o Frankestein de Mary Shelley nunca esteve tão presente nas discussões de botequim, misturado com superstições religiosas que continuam assombrando-nos até hoje.
+Free Birds é um desenho com qualidade técnica discutível e narrativa idem. Suas ideias oscilam entre o divertido e o repetitivo. Seus personagens são quase cópias de outros desenhos. Dito isto, o conjunto da obra mais impressiona por conseguir levar a história do começo ao fim a despeito de todas suas limitações.
 
-A história reconta o clássico de terror sob o ponto de vista do garoto Victor Frankestein (Charlie Tahan) e o seu cachorro Sparky, que devido a um acidente fatal, acaba falecendo e deixando Victor desconsolado. Até que ele tem uma ideia inspirada nas explicações do seu estranho professor Sr. Rzykruski (Martin Landau), que tenta apresentar a ciência para as mentes jovens dos seus alunos como o potencial criador de perguntas e respostas que leva a humanidade a dar passos cada vez maiores. A ideia, como não poderia deixar de ser, dá certo, e Victor consegue trazer Sparky de volta do mundo dos mortos.
+A história envolve viagem no tempo em um objeto que não apenas se assemelha a um ovo como à nave de Ellie em Contato (com suas paredes translúcidas), ou seja, espere por todas as homenagens necessárias a obras que brincam com esses conceitos, sejam o clássico Contato já citado ou os tri-clássicos De Volta Para o Futuro (há uma citação "divertidinha" de Doc. Brown a respeito de uma pessoa se encontrar com ela mesma do passado).
 
-Ao apresentar seu cenário exageradamente peculiar dos subúrbios americanos já vistos no pequeno bairro de [Edward Mãos de Tesoura], além dos seus habitantes mais peculiares ainda, fica logo claro que a decisão de manter o remake em preto e branco favorece a construção da tensão e do terror que, mesmo infantilizado, é construído de maneira estilizada através das caricaturas que são os seus personagens, como a garota esquisita de pupilas minúsculas que acredita em profecias proferidas pelo seu gato igualmente esquisito que faz cocô com a inicial do nome da próxima pessoa atingida por grandes acontecimentos. Dessa forma, temos sim um filme infantil em seu formato, mas igualmente aterrorizante como os "filmes para adultos".
+Mesmo com piadas faltando aquele toque a mais e com pedaços de histórias não-originais, ainda assim a dedicação pessoal em contar essa história supera mais uma vez suas deficiências narrativas. Os personagens mais importantes são dois perus que voltam no tempo para alterar o evento onde eles se tornam o prato principal do feriado americano do Dia de Ação de Graças. O que encontram lá se torna a sequência mais interessante do filme.
 
-Confortável em retornar para fábulas "dark" como em A Noiva Cadáver e [O Estranho Mundo de Jack] (como produtor), Tim Burton recria aqui inúmeras referências a histórias de terror, como [Gremlins] e Godzilla, e mesmo histórias já fabulosas e que remetem ao caráter lúdico do projeto, como Chapeuzinho Vermelho. No entanto, as referências mais divertidas ficam por conta mesmo da maneira de dirigir e usar ângulos exagerados para personagens já "naturalmente" afetados pela fabulosa equipe de direção de arte, que consegue evitar muito diálogo com um visual que já diz tudo. O uso da luz e sombra, tão importante em filmes do gênero, aqui possui o papel que merece. E note como o diretor evita o susto fácil, tão frequente em produções apelativas.
-
-Contando ainda com uma conclusão inesperadamente emocionante, pelo menos para mim, que perdi minha cadela Pata em condições emocionalmente abaladoras, Frankenweenie faz eco com outra produção tão inversa quanto Marley e Eu, mas consegue extrair do seu universo a lição de moral que precisava para recolocar a questão da ciência nas mãos dos adultos. Afinal de contas, já é hora de esquecermo-nos dos inúmeros contos de fada em que acreditávamos e assumir que o conhecimento do mundo é uma dádiva que não podemos ignorar.
-
-[Edward Mãos de Tesoura]: {{< relref "edward-maos-de-tesoura" >}}
-[Gremlins]: {{< relref "gremlins" >}}
-[O Estranho Mundo de Jack]: {{< relref "o-estranho-mundo-de-jack" >}}
+Jimmy Hayward já havia dirigido o subestimado "Horton Hears a Who!" em 2008 (Horton no Mundo dos Quem), e continua sendo uma alternativa curiosa dos grandes estúdios e seus milhões de pixels. Aqui em Free Birds há um espaço enorme de caixa de areia onde muitas ideias poderiam ser, mais uma vez, reaproveitadas em produções mais caras.
 

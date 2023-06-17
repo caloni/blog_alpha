@@ -1,69 +1,28 @@
 ---
 categories:
-- coding
-date: '2015-10-28'
-tags: null
-title: Indexando símbolos com rapidez
+- writting
+date: '2016-10-23'
+link: https://www.imdb.com/title/tt0087469
+tags:
+- movies
+title: Indiana Jones e o Templo da Perdição
 ---
 
-Trabalhar com inúmeros projetos de diferentes clientes e diferentes binários pode ser uma loucura. Quando o mundo é Windows, algumas medidas precisam ser padronizadas para evitar a perda de informação durante todo o processo de desenvolvimento, testes, deploy e manutenção.
+A continuação das aventuras de Indiana Jones é tudo aquilo que eu lembrava de quando era criança e muito mais. A trilha sonora de John William conserta o plágio de Star Wars; "Indy" ganha um jeito mais escrachado, bonachão e cínico; Jonathan Ke Quan é o melhor alívio cômico da década; e Steven Spielberg faz em 1984 o que George Miller fez em "Fury Road": um filme de ação quase que completamente sem pausa para respirar. Dado a distância de nossos tempos digitais, o feito de Spielberg (e George Lucas como produtor) se torna ainda maior por comparação.
 
-A respeito do deploy e manutenção, um dos principais é manter o código sempre atualizado, limpo e asseado, além de estar dentro de pelo menos um controle de fonte, de preferência distribuído ([Mercurial], [Git], [Bazaar]).
+Não à toa. Estamos falando de um filme clássico de ação, onde os efeitos são gerados com enquadramentos que enganam o ponto de vista do espectador (olhe a perseguição de carrinhos de mina), há "matte paintings" (fundos pintados à mão) charmosíssimos (a aldeia indiana sob a luz do luar), trilhas sonoras que precisam realizar o milagre de fazer acreditar (e o hino de John Williams cumpre o papel), interação real entre os atores (sem tela verde), uso de dublês aliado com uma edição rápida (Michael Kahn edita o filme com um ritmo frenético), emoção trazida pelo enredo que alia a exploração histórica da Índia com a exploração dos indianos poderosos da massa de miseráveis (e crianças!).
 
-Porém, voltando ao mundo Windows, os fontes não são apenas a única fonte de preocupação e zelo. Os binários também são importante. Binários eu digo os EXEs, DLLs geradas, além dos seus símbolos (PDBs), que contém o mapa entre aquele monte de 1s e 0s e o código-fonte de onde ele saiu.
+É difícil de imaginar que um filme tão fantasioso fizesse sucesso hoje em dia. Ele não apenas inventa uma aventura maluca começando com dançarinas em um bordel (e que usa um "túnel metalinguístico" para os créditos iniciais, assumindo de uma vez por todas sua inspiração "James Bondiana"), como leva adiante personagens que são tão estereotipados quanto o filme gênero daquele ano, "Tudo por uma Esmeralda". Porém, Spielberg e Lucas abraçam a magia por trás do gênero de uma maneira tão empenhada que, assim como o hoje visto como brega Superman: O Filme, é difícil não se apaixonar pela história.
 
-Nós da [BitForge](http://www.bitforge.com.br) costumamos pelo menos indexar binários com fonte, através dos resources do binário. Como isso é feito? Basicamente editando o arquivo RC na parte da versão do binário e inserindo o hash do commit usado para gerar aquele binário. Com isso qualquer binário produzido possui seu pai ("use the source, Luke!"). Usamos um script em Python muito simples e muito eficaz para isso, que indexa .NET e C++ (através do Visual Studio, mas não está com muitas amarras de ambiente):
+Levados por uma introdução enérgica, que os coloca de um tiroteio para uma perseguição de carros e a queda de um avião, somos levados a um vilarejo de indianos que sofre com a seca e a fome, atribuídos ao roubo de uma pedra mágica da deusa Shiva. Para piorar as coisas, suas crianças foram raptadas. Me lembro que as cenas em torno do rapto de crianças maltrapilhas era extremamente emocionante. Os atores secundários dessa parte são indianos legítimos, dando um realismo para a fantasia que é difícil de reproduzir hoje em dia.
 
-```
-rc_new_content = re.sub(u'^.*ProductVersion.*$', product_version_string, rc_original_content, flags=re.MULTILINE)
-rc_new_content = re.sub(u'^.*FILEVERSION.*$', file_version_string, rc_new_content, flags=re.MULTILINE)
-```
+Trazendo em sua narrativa a maioria dos momentos que contribuíram para criar a lenda Indiana Jones nos cinemas, como o banquete exótico com cobras, cérebro de macaco, etc, ou o ritual de sacrifício -- um ótimo exemplo de como os anos 80 foram a última época em que era possível mostrar quase tudo na presença de crianças (menos nudez) -- o filme todo tem um ritmo de urgência, onde cada acontecimento leva ao próximo (eles fogem do tiroteio em um avião, que cai, que os leva à tribo, que os guiam até o palácio, onde dorme e descobrem uma passagem secreta, que...) e onde o gore é usado com propriedade (a caverna com insetos saindo pelos ladrões e o teto móvel cheio de caveiras são tanto épicos quanto símbolos de um gênero).
 
-Quando algum binário parar na máquina de algum cliente em algum lugar do universo, basta olhar para os detalhes pelo Windows Explorer, e ele estará lá:
+Harrison Ford está no modo enlouquecido. É uma de suas melhores atuações, se considerarmos que seu jeito bonachão pode ser atribuído ao seu outro personagem em Star Wars. No entanto, ele também protagoniza uma sequência onde é enfeitiçado, e tem seus momentos cômicos quando tem que enfrentar dois espadachins sem sua arma. Ele obviamente é auxiliado por Kate Capshaw, que faz uma Willie deliciosamente divertida. É um ponto extremamente positivo que as "indy-girls" sejam muito mais dotadas de presença de tela que a versão "bond", além de participarem também do alívio cômico.
 
-{{< image src="mogZt3n.png" caption="" >}}
+No entanto, neste filme o achado é mesmo o vietnamita Jonathan Ke Quan, cujo papel do pequeno "Short Round" lhe rendeu uma indicação ao Oscar e provavelmente teve influência em sua escolha como um dos Goonies no ano seguinte. Curiosamente agora ele é instrutor de artes marciais, tendo trabalhado com Jet Li nos anos 2000. Ke Quan consegue sempre trazer um ar fresco às cenas de ação, transformando um clima pesado em algo mais humano, além de suas falas ("muito engraçado!") trazerem também o frescor da juventude e inocência, algo que não seria possível apenas pelas figuras de Willie e Dr. Jones.
 
-Através desse a2f3c... podemos capturar o commit exato de onde saiu o binário. Tudo, é claro, confiando no procedimento de toda a equipe: apenas gerar um binário a partir de um commit publicado.
+O fotógrafo veterano Douglas Slocombe realiza aqui um de seus últimos trabalhos (o último seria coincidentemente A Última Cruzada). Apesar de ter sido indicado pelos Caçadores da Arca Perdida, aqui não há motivos para desgostar de uma coletânea de tons que vão desde o clima frio (com tons azuis) da mina de escavação até o amarelo ardente do sacrifício humano, passando pela floresta densa iluminada ou por um por-do-sol evocativo ou pelo luar de fantasia.
 
-Você também pode exibir a versão dos binários em uma pasta através das colunas do Windows Explorer:
-
-{{< image src="vfY2oan.png" caption="" >}}
-
-### Indexando símbolos e binários
-
-Outro detalhe de binários é que eles vivem sendo sobrescritos. Todo "Project, Build" sobrescreve o binário anterior, que pode ter sido justamente o enviado para o cliente. Se o cliente não possuir nenhum procedimento de armazenamento de versões dos binários gerados (às vezes ele nem precisa, essa é nossa função) não há como obter os símbolos de binários que podem gerar problemas futuros (todo _software_ tem bug).
-
-Para resolver isso, o mínimo que se deve fazer é super-simples e nada difícil: crie uma pasta em algum lugar, nomeie essa pasta seu servidor de símbolos, a cada novo binário que será entregue, indexe o binário e os seus símbolos. Como? Com o ["Debugging Tools for Windows"](https://msdn.microsoft.com/en-us/library/windows/hardware/ff551063(v=vs.85).aspx), como dizia um amigo meu, é mamão com açúcar:
-
-```
-"c:\Tools\DbgTools(x86)\symstore" add /r /f <MINHA-PASTA-COM-BINÁRIOS> /s c:\Tools\Symbols /t "IndexSymbols"
-```
-
-Essa e outra técnicas de indexar fontes e binário você pode ver no meu [artigo], na [palestra](http://caloni.com.br/ccppbr-rio-12/) e [vídeo de demonstração](https://www.youtube.com/watch?v=mZewxqlFShA). Se você for cego, ainda tem a vantagem da áudio-narração do vídeo. Brincadeira, ainda não temos isso.
-
-### Simplificando
-
-Com o poder do Windows Explorer, desde o Windows 95 podemos otimizar nossas tarefas nos baseando na extensão dos arquivos que estamos lidando. No caso do indexador de símbolos, eu simplesmente utilizo uma batch que contém exatamente a linha acima (com a diferença de %1 no lugar de <MINHA-PASTA-COM-BINÁRIOS>) que eu chamo direto do Explorer através de um comando que inseri no registro. Eis o comando:
-
-```
-Windows Registry Editor Version 5.00
-
-[HKEY_CLASSES_ROOT\dllfile\shell\Index Symbols]
-
-[HKEY_CLASSES_ROOT\dllfile\shell\Index Symbols\command]
-@="cmd.exe /c c:\\tools\\indexsymbols.bat  \"%1\""
-```
-
-Você pode baixar um arquivo reg aqui (update: não mais), copiar as linhas acima em um .reg que você gerar, ou simplesmente seguir o passo-a-passo dessas linhas e gerar seu próprio registro. Após feito isso, surgirá um novo comando para qualquer DLL que você clicar com o outro botão do mouse:
-
-{{< image src="tvCCYcm.png" caption="" >}}
-
-Você também pode gerar o mesmo comando para EXEs, bastando realizar o mesmo passo-a-passo na pasta **exefile** em vez de **dllfile**.
-
-Procedimentos como esse devem ser uma coisa simples, não difícil. Programadores e pessoas são preguiçosas, e precisam de algum incentivo. E nesse caso, o incentivo é: o que você vai fazer quando der um crash com um binário que você não sabe de onde veio nem qual fonte foi usado para compilá-lo? Pois é.
-
-[Mercurial]: {{< relref "guia-basico-de-controle-de-codigo-mercurial" >}}
-[Git]: {{< relref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}
-[Bazaar]: {{< relref "guia-basico-de-repositorios-no-bazaar" >}}
-[artigo]: {{< relref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}
+Não há nada faltando nessa aventura, seja sua história ou seus detalhes técnicos, passando pelas atuações. Até o tema, que explora até as máximas consequências a coletividade como algo maligno protagoniza um dos sacrifícios humanos mais evocativos da história do Cinema. Se não fosse pela decisão racional e interessada de um arqueólogo aventureiro, essa história não existiria. Mais um ponto para o romantismo do indivíduo, atravessando barreiras inconcebíveis para atingir algo maior que si mesmo.
 

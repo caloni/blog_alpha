@@ -1,19 +1,28 @@
 ---
-
-Do circuito ucraniano nessa Mostra temos este Como Está Katia, um filme tenso que no início parece ser mais um sobre as injustiças do mundo, mas que aos poucos vai descolorindo sua realidade dramática, drenando nossos sentimentos. Logo vemos um mundo onde apesar do egoísmo não ser desejável nos membros de uma sociedade, ele acaba se revelando inevitável ou talvez até necessário.
-
-"Exceto para a mãe de Katia", você diria, caro leitor, humano como eu, e portanto disposto automaticamente a defender o lado mais fraco. Porém, o que não está no script é que nem sempre o lado mais fraco é o que inspira nossa solidariedade. Não se observarmos de maneira totalmente racional. Cada um possui sua agenda. Às vezes é difícil se desvencilhar de sua ideologia, mas faça um esforço. Se coloque no lugar de todos os envolvidos.
-
-A história é simples e direta: Anna é uma médica de primeiros socorros e tem sua filha (a Katia do título) atropelada por uma adolescente, a filha de uma política eminente, e agora precisa decidir entre o sistema de vingança judiciário que colocará a jovem rica na gaiola por uns 2 a 3 anos ou aceitar de bom grado um acordo financeiro que irá resolver boa parte dos seus problemas em família, além dos problemas de publicidade da tal política. Ela pondera sobre isso até o momento que sua filha, na UTI, não resiste. E agora, sim, é sobre "justiça".
-
-A pintura nua da realidade no filme acaba se tornando bem cruel. Como Está Katia faz questão de caminhar por todas as relações da heroína: mãe, irmã e até o amante com família. Tudo para extrair, ou melhor dizendo, drenar as cores de sua realidade. No final não sobra nada. As sombras dominam este drama com todas as forças, e não há forças para suportar o cálculo objetivo de uma equação em que a morte de uma criança está na balança.
-
-Não se busca mostrar os dois lados de uma maneira simplista, mas escancarar a desesperança de um sistema não injusto, mas humano, e portanto falho. Note como todos neste drama estão seguindo seus instintos mais primitivos, o mecanismo de autoproteção, e é isso o que mais dói: é um mecanismo. E as engrenagens que o fazem girar são impessoais. A sensação de não conseguirmos fazer nada a respeito é o que faz com que a fotografia do filme seja tão drenada de luzes, exceto as luzes piscantes da ambulância de Anna que percorre as redondezas em busca da próxima fatalidade.
-
-Como Está Katia é sobre nosso pior lado como sociedade: o distanciamento social metafórico. Ninguém é responsável pelo próximo em uma democracia capitalista, a ficção doentia de que cada um de nós faz parte do mesmo povo. Seja na Ucrânia, no Uzbequistão ou qualquer outro país.
-
+categories:
+- writting
+date: '2016-06-26'
+link: https://www.imdb.com/title/tt2674426
+tags:
+- movies
+title: Como Eu Era Antes de Você
 ---
-categories: []
-date: '2008-06-24'
-tags: null
-title: Como estou trabalhando com o Bazaar
+
+Bonitinho, britânico, meh. Emilia Clarke com certeza já esteve melhor. Uma das protagonistas da série Game of Thrones e a Sarah Connor do último Exterminador do Futuro, o uso sintomático de suas sobrancelhas fornece simpatia nessa comédia romântica que lida com um interesse amoroso tetraplégico.
+
+E contém muitas poucas piadas perto do muitíssimo melhor Intocáveis.
+
+E é claro que a piada é a forma de lidar com essa situação em filmes como esse. Pessoas se sentem melhor do que angustiando em posição fetal e depressiva sobre as desgraças da vida. No entanto, o romance/roteiro de Jojo Moyes faz exatamente o contrário, insistindo na grande tristeza que é ver um moço jovem, bonito e atlético preso a uma cadeira de rodas para o resto de sua curta vida.
+
+Há tempos que Hollywood e a literatura tem se concentrado nesse universo inclusivo, como podemos ver como ícone principal o excelente A Culpa é das Estrelas. Os perdedores estão ganhando terreno de maneira geral, e isso é ótimo quando conseguimos enxergar suas virtudes, até então escondidas. Aqui, porém, esse garoto jovem que sofreu um acidente terrível (Sam Claflin, mais interessante como Finnick de Jogos Vorazes) não tem nada a oferecer para a bonitinha e engraçada ex-garçonete Lou Crark (Emilia Clarke), exceto o dinheiro de seus pais.
+
+E em um filme onde, obviamente, tenta-se fazer crer que o dinheiro não é lá tão importante, no fundo ele é de maneira gritante a única forma de tentar recuperar o conforto de viver do rapaz, e mesmo assim insuficiente. Por culpa de ninguém, é claro, mas ao mesmo tempo se elogia a força de vontade da heroína.
+
+Ao mesmo tempo, é o dinheiro que dá a liberdade para que Clark possa se sentir à vontade para tomar escolhas difíceis, como decidir sair ou não de seu emprego, e algo que é a premissa inicial logo se torna descartável. De qualquer forma, a direção de Thea Sharrock parece mais interessado em formar um videoclipe fofinho a cada 20 minutos do que contar de fato uma história que alcance alguma coisa.
+
+E isso explica o terceiro ato mais fraco que todo o resto. Se até então o filme havia fingido muito bem ser melhor do que de fato é, no final tudo se esvai em torno de uma escolha de músicas populares extremamente brega que pretende tomar conta de uma sequência tão dramática quanto a escolha de um indivíduo se matar ou não.
+
+Sim, Como Eu Era Antes de Você irá te fazer chorar (provavelmente), e irá conter uma cena ou duas fofinhas o suficiente para te fazer feliz por dois minutos. No entanto, não é um casal para levar para casa, nem para se lembrar por muito tempo após as luzes se acenderem na sala de projeção. Não há nada muito profundo lá, e é curioso que o filme nem se esforce muito por nos tentar enganar que de fato haja.
+
+O gosto e a necessidade do público de hoje, eu diria, é muito aquém de algo mais que uma série televisiva. Me dê uma menina bonitinha que se veste com todas as cores do mundo, apresente ao príncipe congelado de um castelo, tempere com músicas do momento e temos mais um dromance regado a pipoca e saídas fáceis. Divertido, sim, emocionante, quase, tocante... nem perto.
+

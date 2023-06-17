@@ -1,86 +1,26 @@
 ---
 categories:
-- coding
-date: '2009-07-10'
-tags: null
-title: Polimorfismo estático
+- writting
+date: '2016-01-20'
+link: https://www.imdb.com/title/tt3682448
+tags:
+- movies
+title: Ponte dos Espiões
 ---
 
-Para explicar polimorfismo, nada como ver as coisas como elas eram. Se você fosse um programador C de vinte anos atrás e criasse as seguintes funções:
+Esse é um filme que carrega um conteúdo emocional graças ao seu diretor, mas uma história que é obviamente 100% sobre política. É sobre tempos mais sombrios do que os de hoje, a Guerra Fria, quando ignorar política poderia te levar à morte, seja ela física ou pública. Ser baseada em uma história real apenas eleva o roteiro a uma das melhores adaptações do ano.
 
-```
-int soma(int x, int y);
-double soma(double x, double y);
+Acompanhamos a captura e o julgamento de Rudolf Abel (Mark Rylance), acusado de ser um espião russo. Para sua defesa foi escolhido James B. Donovan (Tom Hanks), um advogado especializado em seguros. Seu discurso inicial, conversando com outro advogado, é um gancho propício que merece ser discutido. Donovan tenta argumentar que em um acidente envolvendo seu cliente, que atropelou cinco ciclistas, houve apenas um evento, e que o preço do seguro, portanto, é equivalente a um único prêmio. Apesar de, do ponto de vista dos cinco atropelados, cada evento ser independente, a defesa de Donovan é de que, se um furacão leva sua casa inteira, não há seguro sobre cada um de seus móveis dentro dela.
 
-int main()
-{
-    int zi = soma(2, 3);
-    double zd = soma(2.5, 3.4);
-    return 0;
-}
-```
+É uma defesa boba, que nos apresenta alguém que enxerga o mundo de maneira técnica, e cujas leis e regras são -- supressa! -- para serem seguidas. Quando ele encontra, portanto, uma massa de ufanistas americanos querendo eletrocutar o réu russo simplesmente por ele ter feito seu trabalho para seu país, sacrificando valores que teoricamente estariam acima de todos, como uma tal Constituição, temos um conflito que não apenas escancara a máscara de ódio contra indivíduos das democracias, como revela como as leis de um país lhe são convenientes apenas conforme estejam dentro dos seus propósitos. No entanto, se olharmos mais de perto, essa situação também nos submete sutilmente a uma referência igualmente pertinente: executar bem o seu trabalho não era a defesa usada pelos soldados nazistas que matavam judeus? Deveria a repulsa à morte de inocentes, e o julgamento de seus responsáveis, ser direcionada apenas aos que puxam o gatilho e os que enviam a ordem abaixo, ou também a figuras mais indiretas, como espiões, cuja informação pode ou não ser usada para o mesmo fim?
 
-Imediatamente o compilador iria acusar os seguintes erros:
+Não por acaso, a primeira metade do filme é a melhor, pois apresenta tantos conflitos, cujas soluções estão longe de ser simples, e cujos lados não estão limitados a dois, que ela serve como uma micro-história dentro de algo maior. E o algo maior surge logo depois, quando, depois de uma reviravolta que pode ser chamada de golpe de sorte apenas aos que não analisam probabilidades (ou seja, todos menos Donavan), todos os elementos e personagens construídos até então servem de gancho para uma nova história envolvendo a troca de prisioneiros de uma guerra não-declarada entre três países, dentre eles nada menos que dois estão do outro lado do muro de uma revolução comunista.
 
-    overload.c
-    
-    overload.c(2) : warning C4028: formal parameter 1 different from declaration
-    overload.c(2) : warning C4028: formal parameter 2 different from declaration
-    overload.c(2) : error C2371: 'soma' : redefinition; different basic types
-            overload.c(1) : see declaration of 'soma'
+Apresentando um Tom Hanks como sempre competente em criar personagens carismáticos e olhos do grande público, é Mark Rylance que rouba em seus relativos poucos momentos a graça do filme, ao expor um espião tão meticuloso que seus menores movimentos que ser espião parece ser algo que já nasceu com ele, em seu DNA, rivalizando com Gary Oldman em O Espião que Sabia Demais, e cujas falas são ditas da maneira mais sóbria e carismática possível. É impossível não se deixar levar por sua história do homem que se mantém de pé.
 
-Isso acontece porque em C **os identificadores são únicos por escopo**. Esse é o motivo por que o seguinte código também está errado:
+Steven Spielberg, o diretor, já está acostumado a trabalhar em filmes históricos que evocam grandeza de suas tomadas enquadráveis, claro que com a ajuda de seu fotógrafo-mestre, Janusz Kaminski, que utiliza a contraluz em um momento em uma ponte cheia de neve que cria vultos tão poéticos que rivalizam com a sequência que Donavan conversa com o contato da embaixada russa a respeito de fazerem o que é certo antes que os dois países tomem a última decisão errada.
 
-```
-int main()
-{
-    int x = 0;
-    int x = 1;
-    return 0;
-}
-```
+O trabalho de Spielberg se eleva também com o roteiro de Matt Charman e os irmãos Coen (Um Homem Sério, Fargo), pois cria um filme de ideias ambiciosas com uma narrativa inteligente que une diferentes situações nas duas metades do filme, incluindo as falas ("você não se preocupa?", "isso ajudaria?"), mas, principalmente, as transições. Em um determinado momento no tribunal, quando se pede que as pessoas se sentem, vemos alunos de uma escola se levantarem e fazerem o juramento da bandeira americana. Ao mesmo tempo, o desenrolar em paralelo da história do piloto Francis Gary Powers (Austin Stowell) é inteligente em nunca ameaçar parar em demasiado o processo que acontece com o espião russo, mas ao mesmo tempo contrair o movimento de polarização e autoritarismo que ocorre de ambos os lados.
 
-    overload.c
-    overload.c(5) : error C2374: 'x' : redefinition; multiple initialization
-            overload.c(4) : see declaration of 'x'
-
-De volta aos anos 90, isso também está errado em C++. Até por uma questão de lógica: como o compilador pode saber a qual variável estamos nos referindo se usarmos o mesmo nome para duas delas?
-
-Só que existe um truquezinho para impedir essa ambiguidade quando falamos de funções: os parâmetros que ela recebe.
-
-```
-int soma(int x, int y);
-double soma(double x, double y);
-
-int main()
-{
-    int zi = soma(2, 3); // dois tipos int: chamar soma(int, int)
-    double zd = soma(2.5, 3.4); // dois tipos double: só pode ser soma(double, double)
-    return 0;
-}
-```
-
-    C:\Tests>cl /c overload.cpp
-    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 13.10.6030 for 80x86
-    Copyright (C) Microsoft Corporation 1984-2002. All rights reserved.
-    
-    overload.cpp
-    
-    C:\Tests>
-
-Isso permitiu que em C++ fosse criada a sobrecarga estática, que é exatamente isso: chamar a função não apenas de acordo com seu nome, mas também de acordo com sua assinatura, ou seja, o número e o tipo dos parâmetros recebidos. Chamamos de sobrecarga estática porque isso é feito apenas pelo compilador, não pesando em nada durante a execução do programa.
-
-Entre seus usos mais comuns estão os seguintes:
-
-  * Ter funções com o mesmo nome mas que tratam de diferentes parâmetros;
-    * soma(int, int);
-    * soma(double, double);
-    * Obs.: Isso ignora, é claro, as facilidades dos templates.
-  * Versões novas da mesma função que recebem parâmetros adicionais;
-    * export_data(void* buffer, int size);
-    * export_data(void* buffer, int size, unsigned long options);
-  * Mesmo nome de método para setar e obter o valor de uma propriedade;
-    * Class::Property(int x); // setter
-    * int x Class::Property() const; // getter
-  * Bom, o que mais sua imaginação mandar =)
+Concluindo de uma maneira insatisfatória, mas à maneira de Spielberg de contaminar seus filmes com finais felizes, clichês e igualmente ufanistas (com exceção talvez do excepcional Munique), Ponte dos Espiões pode com certeza figurar na cinematografia do diretor como um dos trabalhos sérios que tentam dialogar sobre questões sérias, mas que recebem de brinde o calor que só filmes "Spielberguianos" conseguem gerar. Mesmo que a ação seja em um cenário tão gelado que todos em voltam pegam resfriados a cada cinco minutos.
 

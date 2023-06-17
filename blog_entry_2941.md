@@ -1,24 +1,20 @@
 ---
 categories:
 - writting
-date: '2019-10-24'
-link: https://www.imdb.com/title/tt7534102
+date: '2015-01-28'
+link: https://www.imdb.com/title/tt1911658
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Os Olhos de Cabul
+title: Os Pinguins de Madagascar
 ---
 
-Os Olhos de Cabul veem tudo, menos que se está falando francês em pleno Afeganistão. Essa animação ganhou o prêmio Um Certo Olhar em Cannes e agora está sendo exibida na Mostra de São Paulo. Uma viagem honesta e sutil de uma realidade crua de uma sociedade tomada pela opressão e violência, mas que vez ou outra surgem seus heróis.
+Assim como Carros 2, jogar personagens secundários -- e engraçadinhos -- em um trabalho solo raramente gera bons resultados.
 
-Mas esses heróis estão acabando. As pessoas aprendem o status quo por repetição. Crianças já se divertem jogando pedras onde um cachorro bebe água ou jogando futebol com cordas de enforcamento na trave. Por mais bons que sejam, homens vivendo nesse ambiente se corrompem lentamente. A história contida aqui mostra um pouco desse processo.
+No caso dos hilários pinguins e seus estratagemas elaborados que milagrosamente funcionam, eles possuíam ótimas participações nos dois primeiros Madagascar. Porém, eram participações curtas, pontuais e até orgânicas. Em Pinguins de Madagascar eles são os mesmos, e não há história principal que sustente por tanto tempo as mesmas piadas.
 
-Começa com um apedrejamento. Um ex-professor de história, enquanto assiste à barbárie sendo ocorrida em local público, de maneira mecânica lança também a sua pedra. Ele não sabe por que, mas ele realiza a ação, e logo depois a ideia do que acabara de fazer o assombra.
+E o que temos na história? Temos a origem deles (como pinguins que rejeitam sua natureza coletiva), temos o pinguim-recruta que tenta deixar de ser apenas uma mascote, temos um vilão que surge usando a mesma ideia de "animais no zoológico adoram o público" já visto no primeiro Madagascar, e inacreditavelmente, temos um grupo de elite que imita a mesma dinâmica vista no igualmente ruim Carros 2.
 
-Sua mulher é uma desenhista, e é claro que não pode fazer nada exceto se trancar dentro de casa. Antigamente o casal ia de mãos dadas na livraria, ou até no cinema da cidade, agora em ruínas. Há uma sequência particularmente tocante que faz a transição das duas épocas. Essa mulher acredita em um futuro melhor e claramente é quem torna aquele homem transtornado um ser humano melhor. Mas isso tem prazo de validade. A moral imposta pela lei muçulmana da Sharia é impetuosa e aos poucos entra na mente dos que resolveram continuar na cidade se Cabul.
+O resto é o recheio que já conhecemos: piadas engraçadinhas, reviravoltas previsíveis -- ou alguém duvida do que vai acontecer com a tropa de elite em sua missão ultra-planejada? -, lições de moral, mensagens de auto-ajuda, cenas fofinhas e você já sabe o resultado. Sinceramente, desde a primeira cena de perigo até a última nunca nos preocupamos com o destino dos personagens. Apenas aguardamos a próxima vez de dar uma risada mais ou menos.
 
-Há outro casal no filme, mais velho e que já se encontra possuído pelos valores daquela sociedade. O filme adentra no pouco que resta de humano daquelas pessoas. Ele é o carcereiro que toma conta das mulheres que serão executadas. Ela sofre pelo seu câncer terminal, mas se mantém servil ao seu marido, cozinhando uma comida que ele não sente mais vontade de comer. No momento em que a vida desses dois casais se encontram algo mágico acontece, mas a essa altura do longa fica difícil acreditar na magia.
-
-Os Olhos de Cabul é uma animação de traços despojados que entrega uma história simples que se revela em seus detalhes a sua mensagem. Ela não procura exaltar seus poucos heróis, mas demonstrar como eles ainda são possíveis. E nos faz pensar até quando será possível.
+Em breve (não duvido), um longa contando a saga do esquilinho Scrat. É bom lançar logo para aproveitar o boom das longas, longas aventuras do Hobbit.
 

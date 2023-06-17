@@ -1,29 +1,18 @@
 ---
 categories:
 - writting
-date: '2018-08-19'
-link: https://www.imdb.com/title/tt2113681
+date: '2014-05-31'
+link: https://www.imdb.com/title/tt0489458
 tags:
-- cinemaqui
 - movies
-title: O Centenário Que Fugiu Pela Janela e Desapareceu
+title: O Cheiro do Ralo
 ---
 
-Este filme tem um longo nome. Tão longo quanto a vida de Allan Karlsson, o centenário que protagoniza essa comédia de erros. A princípio talvez você não entenda o que o filme quer dizer, além do que ele já diz no seu título. Então vai aqui uma dica: não pense, apenas assista.
+O Cheiro do Ralo fala sobre trocas, ou melhor dizendo, sobre o valor das coisas. Coisas podem se resumir em objetos que possuíam ou não valor sentimental para as pessoas que a oferecem ao Sr. Lourenço (Selton Mello), para receber em troca o dinheiro que, pelo menos naquele momento, é mais valioso que o objeto em si.
 
-Esse foi também o conselho que Allan recebeu de sua mãe, logo antes dela morrer e logo depois de seu pai morrer, um revolucionário que acreditava que a camisinha salvaria todos da miséria e que acabou sendo fuzilado. Seu problema era que ele pensava demais, dizia a mãe de Allan.
+A função do Sr. Lourenço é, obviamente, pagar o mínimo possível para obter o máximo de lucro. Essa rotina o fez virar um verdadeiro monstro materialista, pois seu poder (dinheiro) aliado à sua necessária habilidade em menosprezar os objetos ofertados e as pessoas que os ofertam. A bunda da garçonete no bar onde passa para almoçar é a coisa mais valiosa para ele. Nem o almoço é tão valioso, é acessório. Isso e coisas que representam bens intangíveis que ele nunca terá, como um olho, que para ele representa o pai.
 
-Então ele aprendeu outra coisa: que gostava de explodir coisas. Foi esse prazer que orientou toda sua vida. E apenas esse, já que ele foi praticamente castrado quando um biólogo racial o analisou e categorizou este sueco como negróide e afeito a comportamento agressivo. Este pode ser um filme simples com um roteiro que te manipula, mas ele é simpático, engraçado em alguns momentos e curioso em outros.
+Seu maior medo é que as pessoas confundam o cheiro que vem de um ralo defeituoso com seu próprio cheiro. Tendo virado um ser abjeto, não há dúvidas sobre o porquê de tanta preocupação. Seu Lourenço não é ninguém mais do que seu dinheiro e seu poder de barganha por objetos. Seu noivado foi supervalorizado, mas ele resolveu reprecificá-lo, confessando que não gosta da noiva. Confessando que não gosta de ninguém. Ele pode se dar ao luxo de ser sincero, mas nós não temos como saber se ele está na verdade o sendo, pois pode ser tudo um jogo de barganha.
 
-Por contar a história de um homem que não pensava muito antes de agir, é inevitável que ele lembre outro filme mais famoso: Forrest Gump, o Contador de Histórias. E não à toa, ambos são peças chave de alguns eventos históricos. Gump na América, Allan na Europa. É por isso que mais de um ditador já gritou com ele, enquanto Forrest foi apenas condecorado inúmeras vezes na Casa Branca.
-
-Esta é também uma história que fica indo e vindo entre passado e presente, mas em apenas um momento o passado de Allan será útil para ele no presente. Mas, acredite, para chegar nesse momento você terá que ouvir a história inteira. Apesar de não fazer muito sentido vale a pena.
-
-Essa também é aquela clássica comédia onde os bandidos vão atrás do herói, mas por uma série de acidentes eles nunca conseguem, só que até você perceber isso já terá se entretido com a história recente de Allan e seus novos amigos e não se importará com a reprise da sessão da tarde, até porque ela é muito bem feita.
-
-Alguns personagens somem, como a garota de uma gangue de motoqueiros, e temos até uma amnésia conveniente para colocar a trama de volta nos trilhos, mas perdoamos tudo isso (apesar de não esquecermos) porque já aconteceram coincidências demais na vida de Allan para questionarmos essas bobagens quando ele chega aos seus 100 anos.
-
-Apesar deste ser um "Forrest Gump" europeu sobre um velho solitário e viajante, esta não é uma produção cara, mas o dinheiro gasto é bem aproveitado. Não podemos acreditar, claro, em todas as cenas de pontes explodindo, mas podemos comprar a ideia de um homem sendo jogado da varanda e caindo do sexto andar. Olhe, o diretor Felix Herngren está mais preocupado em ser ágil para evitar os deslizes nos efeitos. Ele também está pensando pouco. Pelo menos no enredo. Na montagem, seus enquadramentos apressados escondem tão bem as trucagens que vira um charme a mais em um filme que já tem um velhinho centenário e uma elefanta.
-
-Com fôlego de sobra para mais um século, O Centenário Que Fugiu Pela Janela e Desapareceu diverte sem muitas pretensões em uma produção barata que parece um pouco mais cara. Isso é tudo que você precisa saber sobre este filme sueco de 2013 que passou despercebido por muita gente, e que agora sendo reexibido em festivais pode ser uma nova chance para cinéfilos compulsivos.
+Elevando o filme ao patamar filosófico a cada vez mais objetificar cada traço de sua existência em seu escritório amplo e empoeirado, a direção e roteiro de Heitor Dhalia deixa claro que Selton Mello representa tudo que há de ruim no materialismo, sendo que esse tudo nada mais é do que menosprezar o intangível. Mas será verdadeiro que os sentimentos não têm preço? A maior virtude do filme é nos fazer questionar o valor até das coisas mais abstratas, e pensar se, no fim das contas, não estamos a todo momento tentando barganhar um pedacinho de vida aqui e ali, para que no final, morramos no lucro.
 

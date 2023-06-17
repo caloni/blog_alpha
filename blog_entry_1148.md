@@ -1,46 +1,71 @@
 ---
-
-Today was a happy crush analysis day, because I receive an Outlook memory dump the moment it frooze the main window in the beginning of the process. I asked for one because it could be useful to another analysis I was doing with Office server communication.
-
-I discovered that the main window thread was waiting for a critical section used by a part of the Office code called `OsfIdentityManager` when calling the function `EnsureInit`. The code responsible for acquire the lock is associated with the name `OsfLock`. The same cs was trying to be acquired by another thread. Looking at another similar threads it seems a group of worker threads starting at the entry `mso20win32client!CIOPort::ThreadProc`. Bellow is the result of the `!cs` command in WinDbg:
-
-```
-DebugInfo          = 0x00000195b9ce4f00
-Critical section   = 0x0000019581b2d590 (+0x19581B2D590)
-LOCKED
-LockCount          = 0x2
-WaiterWoken        = No
-OwningThread       = 0x0000000000018e9c
-RecursionCount     = 0x1
-LockSemaphore      = 0xFFFFFFFF
-SpinCount          = 0x00000000020007d0
-```
-
-The moment the dump was generated the thread that had acquired this cs was inside the same function `OsfIdentityManager::EnsureInit` and several frames above was calling the native API `ntdll!NtQueryFullAttributesFile`, when I discovered that this application is using [Microsoft Application Virtualization (App-V)](https://learn.microsoft.com/en-us/windows/application-management/app-v/appv-getting-started) based on the hook it was installed:
-
-```
-. 58  Id: 661c.18e9c Suspend: -1 Teb: 0000003c`34078000 Unfrozen
-      Start: mso20win32client!CIOPort::ThreadProc (00007ff8`70ba3ef0)
-      Priority: 0  Priority class: 32  Affinity: fffff
- # Child-SP          RetAddr               Call Site
-00 0000003c`382fedc8 00007ff9`089c52a8     ntdll!NtQueryFullAttributesFile+0x14
-01 0000003c`382fedd0 00007ff9`089b9483     AppVIsvSubsystems64!vfs_query_full_attributes_request::pass_through+0x28
-02 0000003c`382fee00 00007ff9`089b384b     AppVIsvSubsystems64!AppV::VFS::Filesys::virtualize_nt_query_full_attributes+0xc3
-03 0000003c`382ff050 00007ff9`089b61fe     AppVIsvSubsystems64!vfs_hooks::NtQueryFullAttributesFile+0xeb
-04 0000003c`382ff100 00007ff9`7774849f     AppVIsvSubsystems64!vfs_hooks::hooked_NtQueryFullAttributesFile+0x2e
-05 0000003c`382ff130 00007ff8`70b957c0     KERNELBASE!GetFileAttributesExW+0x9f
-06 0000003c`382ff230 00007ff8`70b95779     mso20win32client!MsoGetFileAttributesW+0x20
-...
-```
-
-> Virtual applications are installed on centrally managed servers and delivered to users as a service in real time and on an as-needed basis. Users launch virtual applications from familiar access points and interact with them as if they were installed locally.
-
-Considering that that is the thread that is locking the cs that is freezing other two threads, including the main window thread, I believe that somehow there is a connection with the delivery service from the App-V with the Outlook slowliness when opening or perhaps in other moments where a unavailable module is requested. Results from the web have the usual troubleshooting sugestions as restore Office installation, run in safe mode and disable AppData network redirection, but I am not sure if this is the case.
-
-Two main commands used in WinDbg for the analysis was `!uniqstack` to show the... unique stacks in the process, and `!cs`, to show all critical sections and its states.
-
-
----
 categories: []
-date: '2007-10-04'
-title: Cronogramas
+date: '2011-06-04'
+tags: null
+title: Cronogramas baseados em fatos reais
+---
+
+[Já falei sobre cronogramas] por aqui e tudo que disse ainda se aplica. Contudo, comentei brevemente sobre entender seu próprio ritmo, que, instintivamente, sabia ser verdade. Depois que [li um pouco mais sobre técnicas XP/Scrum](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) (que nada mais são do que formalizações do que os programadores Agile perceberam no decorrer dos seus projetos) achei uma fórmula simples para transformar o tempo estimado em tempo realista.
+
+Vejamos o texto original (auto-plágio):
+
+Regra # 5: não inclua o ócio no cronograma
+
+Seja honesto consigo mesmo e com seu chefe: você realmente trabalha 8 horas por dia? É lógico que não! E não é nenhuma vergonha admitir isso. Todos nós temos emails para ler e responder, reuniões para presenciar e bloques importantes para acompanhar. Portanto, ignore essa conversa fiada de 8 horas e admita: não se deve contar os dias como se eles tivessem 8 horas.
+
+Qual o valor de um dia, então? Cada um sabe o valor que deve ser decrementado desse valor simbólico de 8 horas, mas esse valor sempre será menor. Não se iluda!
+
+Exatamente. Não se iluda! Isso tem seu reflexo na metodologia Agile. Basicamente quer dizer que você precisa aplicar índices que reflitam a realidade do seu próprio ritmo. Além disso:
+
+Regra # 4: uma tarefa estimada é uma tarefa completada
+
+É muito simples ilustrar e entender esse conceito com código. Voltando ao caso da função, digamos que você consiga terminar a bendita função em exata uma hora. Você é bom, hein?
+
+Porém, essa função ainda 1) não foi comentada,  2) não foi testada e  3) não foi testada em release.
+
+Logo, essa é uma tarefa em que você termina o mais importante em uma hora... mas não termina tudo. Deve-se sempre considerar a tarefa por completo, pois no final de quinze tarefas vai faltar comentar e testar tudo isso, o que aumentará consideravelmente a imprevisiblidade no seu cronograma.
+
+O que, novamente traduzindo, é mais um indicador a ser aplicado sobre seus números.
+
+E o que são seus números?
+
+Basicamente, o que a própria metodologia ensina: meça o esforço necessário para fazer código (mas é pra isso mesmo que somos contratados, não?) como se pudéssemos programar por todo esse tempo sem parar por um momento sequer (mesmo que sejam dezenas de horas). Lógico, aprenda a dividir o esforço em pequenos passos, mas estime o tempo considerando APENAS o esforço de fazer o código.
+
+Pronto? Agora é hora de aplicar os indicadores.
+
+### 1. Foco
+
+Mais uma vez, admita: programadores raramente conseguem manter o foco por muito tempo. São pessoas ao redor te desviando a atenção, o tweet que salta de uma janela ou até mesmo as necessidades orgânicas que todo ser humano tem. São elementos, enfim, que, em conjunto, nunca te possibilitarão ter 100% do foco durante todo o trabalho.
+
+Portanto, criemos um indicador: foco. Ele é um valor entre 0 e 1 e estima a porcentagem de foco que você consegue obter, em média, durante o dia. Por exemplo: eu consigo me focar 70% do dia inteiro em apenas codificar e o resto é perdido em reuniões e e-mails. OK. Esse número é, então, 0,7. Aplique sobre seu total de horas e terá o tempo real para codificar a tarefa:
+
+Levarei 35 horas para codificar todo o processo de autenticação por reconhecimento de face, trabalhando sem parar.
+
+    
+    35 / 0.7 = 50
+
+No entanto, como consigo apenas 70% de foco em média, sei que essa tarefa irá levar 50 horas na verdade.
+
+### 2. Finalização
+
+Já temos o tempo para o código ficar pronto, mas... é apenas código. Temos que reescalonar o tempo do projeto inserindo testes, retrabalho, comentários e documentação. Tudo ainda nas mãos do programador, que está ainda "aquecido" e que pode resolver retrabalhos em questões de segundos, se ninguém mais passar nada pra ele.
+
+Mesmo assim,é um indicador importante. Sem ele, a qualidade do serviço final fica muito restrita e sensível a testes de caixa preta, gerando a revolta da equipe de testes.
+
+Vamos supor, então, que, historicamente, essa fase tem sido, digamos, 20% do período de codificação (um chute bem otimista). Agora é fácil dizer o tempo final:
+
+Levarei 50 horas para codificar tudo considerando o quesito foco.
+
+    
+    50 * 1,2 = 60
+
+Porém, para poder entregar, preciso dedicar cerca de 20% aos testes, retrabalho e uma documentação mínima. Nesse caso, 60 horas é o prazo de entrega.
+
+_Note que, se quiser, pode fazer a análise contrária também, tanto de um quanto de outro. Assim, se geralmente você gasta 20% a mais na codificação do que estima, então use o fator foco como 1.2 e multiplique em vez de dividir. Da mesma forma, se codificar é 60% de todo o trabalho, o fator finalização é 0.6 e deve-se dividir as horas pós-indicador de foco._
+
+### Conclusão
+
+O número de horas ficou muito maior que o esperado? Não me admira que os projetos geralmente atrasem, então. Por pior que pareça o cálculo final, ele foi construído com base na realidade. E não há nada melhor do que nos basearmos na realidade para estimar seriamente o quanto pode custar à empresa um projeto qualquer.
+
+[Já falei sobre cronogramas]: {{< relref "cronograma" >}}
+

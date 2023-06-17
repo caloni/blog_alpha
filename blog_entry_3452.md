@@ -1,48 +1,22 @@
 ---
 categories:
 - writting
-date: '2018-01-25'
-link: https://www.imdb.com/title/tt1665071
+date: '2016-04-07'
+link: https://www.imdb.com/title/tt3845232
 tags:
 - series
-title: 'Sherlock: A Study in Pink'
+title: 'Sherlock: The Abominable Bride'
 ---
 
-Um estudo em rosa. A segunda visita a este episódio é mais lenta. Estamos sendo apresentados a Sherlock Holmes, Dr. Watson e como esta série atualiza o formato de histórias clássicas da dupla já imortalizada nos cinemas e na literatura. E o resultado não poderia ser melhor. Cortes ligeiros da mise en scene pela metade criam transições elegantes entre cenários. O uso da tecnologia da internet e dos celulares está totalmente integrado à história. E, de uma maneira meticulosa, engrenada, a edição e a trilha sonora embalam diálogos memoráveis desde o começo.
+A quarta temporada da série possui apenas um episódio por enquanto, e como todos os episódios anteriores, do tamanho de um filme de uma hora e meia, mantendo um clima morno metade do seu tempo, diminuindo seu ritmo para retratar a época vitoriana abandonada pela própria premissa da série de se atualizar. Neste episódio estamos na época original de Sherlock Holmes, e em uma de suas história originais, vinda de seus livros que, claro, continuam aqui sendo escritos por Watson.
 
-É preciso ter em mente que este é um episódio que vai construindo o universo destes dois personagens. E Benedict Cumberbatch e Martin Freeman estão à vontade em seus papéis, criando em torno deles e de suas personas elementos que nos permitirão observá-los em outros casos, como a ironia de Sherlock, a ingenuidade de Watson, e aquele sentimento que ambos esboçam quando concluem seu raciocínio: mais uma peça encaixada no quebra-cabeças.
+O episódio, claro, utiliza os mesmos atores e personagens, mas em disposições ligeiramente diferentes: o irmão mais velho de Sherlock é gigantesco de gordo, e Molly Hooper se disfarça de homem para trabalhar no necrotério. E o roteiro se diverte imensamente dessas diferenças: Sherlock e o irmão apostam em quanto tempo Mycroft irá morrer por comer feito um porco e, em vez de não perceber o amor platônico de Hooper, Holmes não percebe que ela é uma mulher de bigode. O grande trunfo deste episódio é dar uma oxigenada na série e reviver momentos semelhantes de maneira diferente ao de costume.
 
-O roteiro de Steven Moffat pega nas mãos do espectador e vai deixando pistas que permitem que nós antes mesmo de Sherlock concluamos algumas trilhas de pensamento deste. Porém, isso só vai ser realmente óbvio ao final do raciocínio. Note como a insistência na pergunta em qual pessoa passaria despercebida nas ruas de Londres possui uma certa ingenuidade e um tratamento charmoso do diretor Paul McGuigan, que nos apresenta a resposta acho que duas vezes antes mesmo de Sherlock chegar à conclusão.
+Além de manter os artifícios que tornaram "Sherlock" um trabalho monumental de roteiro e uma evolução no que diz respeito a direção de arte e fotografia, a direção mantém o mesmo ritmo de melhora contínua. As transições elegantes entre um labirinto de plantas e os dedos pensativos de Holmes ou um testemunho na sala de estar do detetive "se jogando" frente à cena do crime são dois exemplos de uma série racional, pautada em diálogos, mas sem perder seu dinamismo visual, sua provocação constante e eclética na mente do espectador.
 
->
-> Sherlock Holmes: Shut up.
-> DI Lestrade: I didn't say anything.
-> Sherlock Holmes: You were thinking. It's annoying.
-> 
-> Dr John Watson: Have you talked to the police?
-> Sherlock Holmes: Four people are dead, there isn't time to talk to the police.
-> Dr John Watson: So why are you talking to *me*?
-> Sherlock Holmes: [morosely] Mrs. Hudson took my skull.
-> Dr John Watson: So I'm basically filling in for your skull?
-> Sherlock Holmes: Relax, you're doing fine.
-> 
-> Sherlock Holmes: Dear God, what is it like in your funny little brains? It must be so boring!
-> 
-> Sherlock Holmes: Seen a lot of injuries then. Violent deaths.
-> Dr John Watson: Well, yes.
-> Sherlock Holmes: Bit of trouble too, I bet?
-> Dr John Watson: Of course. Yes. Enough... for a lifetime, far too much.
-> Sherlock Holmes: Want to see some more?
-> Dr John Watson: Oh God, yes.
-> 
-> Dr John Watson: I'm supposed to be helping you pay the rent.
-> Sherlock Holmes: Yeah, well, this is more fun.
-> Dr John Watson: Fun? There's a woman lying dead.
-> Sherlock Holmes: Perfectly sound analysis but I was hoping you'd go deeper.
->
+Sendo assim, se é divertido acompanhar os letreiros que pulam na tela quando um personagem recebe um bilhete, ou os recortes de jornais flutuando em frente a um Sherlock Holmes concentrado e dopado, esses detalhes escalam para o nível de brilhantismo quando descobrimos a verdade por trás da história, fazendo com que o roteiro de Mark Gatiss e Steven Moffat figure com honra entre os deliciosamente mais complexos e inusitados da série, provavelmente do lado de A Scandal in Belgravia. Depois da reviravolta principal nada mais parece o mesmo, e até um espectador menos atento irá perceber as referências inseridas de maneira mais orgânica até do que trabalhos igualmente minuciosos como [A Origem], que é excelente, mas burocrático e técnico.
 
-Claro que este modo fácil de jogar irá acontecer apenas neste piloto oficial. O piloto não-oficial nunca foi ao ar depois que a BBC pediu por mudanças drásticas no ritmo e abordagem da história, inflando os episódios de uma hora para 90 minutos. Essa pegada mais [canon], pautada no conteúdo original de Sir Arthur Donan Doyle, é brilhante em resgatar a mesma atmosfera dos [filmes das décadas de 30 e 40], com a dupla na pele de Basil Rathbone e Nigel Bruce, em versão contemporânea do detetive mais famoso de todos os tempos. O resto da série toma uma crescente que se torna mais e mais profunda, afastando o espectador médio e fidelizando os poucos com cérebro e paciência para se dar o prazer de se envolver em algo, e não apenas zapear os streamings.
+Jogando o espectador nos exatos quatro minutos em que Sherlock foi expatriado, logo no final do episódio anterior, a abertura desta quarta temporada é um trabalho tão ambicioso que mais uma vez sou obrigado a compará-lo com o melhor que o Cinema tem a oferecer. Mais uma vez um trabalho que merece não só estrear em streaming, mas ocupar algumas salas de cinema pelo mundo.
 
-[canon]: https://en.wikipedia.org/wiki/Canon_(fiction)
-[filmes das décadas de 30 e 40]: https://en.wikipedia.org/wiki/Sherlock_Holmes_(1939_film_series)
+[A Origem]: {{< relref "a-origem" >}}
 

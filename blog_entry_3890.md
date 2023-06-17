@@ -1,21 +1,25 @@
 ---
 categories:
 - writting
-date: '2022-11-07T22:15:39-03:00'
+date: '2021-02-15'
 tags:
-- series
-title: Uma Advogada Extraordinária
+- coffee
+title: Uma Breve História Sobre Preconceito (e Café)
 ---
 
-A qualidade dos atores na Coreia impressiona. Seja drama ou comédia sempre há ótimos momentos nas novelas coreanas, carregadas de clichês como manda o figurino, mas quase sempre vale a pena por causa do elenco, que abraça com muito afinco seus personagens. São atores que levam a sério a arte de entreter.
+Eu me lembro de vídeos antigos de moedores de café manuais em que o sujeito fica 10 minutos no YouTube girando aquela matraca até conseguir tirar de alguns grãos de café o pó para seu cafezinho matinal. Fiquei com a impressão de que todo moedor manual era assim e desisti na hora de ter um, optando por um elétrico.
 
-Entre os mais recentes, no topo da lista está Park Eun-bin. Ela começou aos cinco anos fazendo pequenos papéis para a TV, há dez anos estreou no elenco principal em Operation Proposal,  um romance de viagem no tempo, e atingiu seu ápice no drama esportivo Hot Stove League.
+Alguns anos depois o motor do meu moedor elétrico dá pau. Eu não sei o que é e ele não me deixa saber. A montagem é feita de tal forma que fica difícil arrancar o motor e a ignição para saber em que lugar é o problema. Depois de algumas horas analisando condutividade dos cabos desisto e parto para buscar um substituto, e rápido, pois estou com um estoque considerável de alguns quilos de grãos em casa.
 
-Agora Eun-bin demonstra todo seu talento em expressão e trejeitos vivendo uma advogada autista nesta série que mesmo sendo da Netflix é boa.
+Dólar subiu, quase não existem moedores nacionais e os que existem usam a tabela de fora. Ou seja, agora os preços dos moedores elétricos que havia pesquisado mais que dobraram de preço. Chateado de ter perdido o moedor tão cedo, começo a namorar a ideia de ter um manual novamente. Vejo novos vídeos que me apresentam a evidência de que alguns costumam demorar 40 segundos de moagem manual para o café matinal. Interessante.
 
-O autismo está em alta, mas nem todo ator/atriz ou até mesmo roteiristas aproveitam o tema. Nesta minissérie coreana temos um refinamento elegante entre o fantasioso e o realismo das pessoas dentro do espectro, além de tramas em episódios que se aproveitam do velho programa de júri sem muita apelação, embora alguns possam protestar por este trocadilho infame. A história acompanha a evolução da personagem sem apelar para manipulações baratas. Há um segredo que vai sendo revelado aos poucos, mas isso você já sabe. Essa é uma novela coreana, afinal de contas.
+Decido arriscar pelo moedor de entrada disponível rapidamente em qualquer loja online para entrega imediata. Se trata de um Hario Slim, um dos três modelos disponíveis desta fabricante de filtros que popularizou a ideia hipster de que há uma maneira adequada de passar o café e que essa maneira deixa fluir o líquido e o ar quente subindo em espiral, analisada por samurais por milhares de anos. Enfim, eles conseguiram uma parcela do mercado de hipsters para acreditar nessa psicologia barata para consumidores com dinheiro.
 
-Quando a produção permite que Eun-bin se mantenha livre em sua personagem a série brilha. Observe seus trejeitos desajeitados: isso é atuação meticulosa. Repare nesse equilíbrio delicado entre o cômico e o dramático através da ponta dos dedos de Park Eun-bin, ou no seu sorriso tímido e fugaz, quase invisível se você não aguardar até o final da cena. O tom calculista e cômico com que analisa os detalhes de um caso.
+O moedor deles é bom, de moinho, e de cerâmica (não enferruja) e emperra um pouco em alguns momentos. Chegando em casa decido testar uma moagem fina, apenas três níveis acima do fechamento completo do moinho. O resultado foi um pó de café incrivelmente consistente, inacreditavelmente melhor, inclusive, do que os resultados que obtinha com o meu antigo elétrico.
 
-Esta é uma série apaixonante. Talvez seja sua protagonista e o casal mais fofinho desde Amelie Poulain mesmo que falte personalidade no rapaz coreano. Talvez a afeição com pessoas intelectualmente desafiadas que topam o desafio e ousam se tornarem seres humanos em vez de animais acuados da sociedade vitimista. Ou talvez porque Park Eun-bin exercita a arte da atuação com tanto esmero em uma simples novela que é impossível não enxergar virtudes.
+Claro que nem tudo são flores. Essa moagem fina demorou alguns minutos de esforço físico para girar a matraca. Nada extenuante, no entanto. É praticamente o tempo que espero a água esquentar antes de passar o café. Fora que não uso moagem tão fina no dia-a-dia.
+
+Eu achei que ia ser só um quebra galho até encomendar outro elétrico na gringa. Porém, o sabor do café ficou absurdamente melhor! E o pior é que eu não tenho certeza do porquê. Há duas explicações possíveis. A mais esotérica é que moedores elétricos ou com moinho de metal deixam o sabor mais "metálico", o que me pareceu mais um golpe psicológico de marketing digno da Hario, que já vende um coador comum como se fosse mágico. A mais convincente para mim foi de que a qualidade do moinho de cerâmica faz o grão moído muito mais simétrico e consistente, ou pelo menos a moagem gera menos daqueles pozinhos que pegam estática e "sujam o café final". De qualquer forma, assim que é moído o café exala um aroma absurdo de vivo, melhor do que eu tinha com o elétrico, e o sabor é bem mais complexo.
+
+Espero que não seja um golpe psicológico que estou sofrendo e que isso se mantenha por mais tempo, pois a moral da história é que o mesmo grão que antes estava sendo moído eletricamente ficou mais equilibrado com o moedor manual. Mordi a língua ao falar mal dos manuais alguns anos atrás. Existem alguns que de fato são muito bacanas. Caros, pois são hipsters, mas bacanas. Para quem faz um café individual matinal pode ser uma escolha interessante, portátil e menos barulhenta.
 

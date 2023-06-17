@@ -1,28 +1,69 @@
 ---
 
-Doze anos e toneladas de super-heróis depois, Homem-Aranha 2 continua sendo um dos melhores filmes do sub-gênero já feito, digno de ocupar o pódio junto de pequenas obras-primas como "Superman: O Filme" e "Dark Knight".
+Basicamente existem duas maneiras de um executável obter o endereço de uma função API do Windows: ou ele usa uma lib de interface com a DLL (o chamado "link estático") ou ele chama a função GetProcAddress explicitamente [^1].
 
-O que o torna tão especial é que ele abraça o seu universo de tal maneira que fica difícil de soltar. O primeiro filme com o nerd mutante, também dirigido por Sam Raimi, continha esses mesmos elementos, mas ainda estava tímido demais. Nesse novo trabalho, não só os efeitos ficaram estupidamente melhores, por se adequarem melhor à selva urbana de Nova York, como estão dentro de um filme com peso dramático o suficiente para, mesmo sem ser realista, conseguir abordar os sentimentos dos personagens que habitam a tela.
+Para conseguir saber as funções das quais um executável obtém o endereço através da primeira técnica podemos utilizar o mundialmente famoso Dependency Walker. Ele nos mostrará quais DLLs ele utiliza e quais funções por DLL ele quer o endereço. Ele também nos avisa sobre as DLLs que estão utilizando delay load, uma técnica inventada no Visual Studio para que os executáveis não dependam estaticamente de APIs muito novas que podem não existir em versões do Windows mais antigas. Com o (carinhosamente chamado) Depends também é possível fazer hook de chamadas de API utilizando a opção profiling (F7), mas não costuma funcionar muito bem com trojans, pois eles capotam antes que alguma coisa interessante ocorra.
 
-E quem espera realismo de um plot como esse? É sobre um garoto nerd que virou herói de sua cidade ao ser picado por uma aranha, mas que junto ganhou a marca eterna do arrependimento por se sentir responsável pela morte de seu tio, e que agora, nessa segunda aventura, tornará esse fardo de poder e responsabilidade mais pesado ainda, graças à sua escolha de também abandonar quaisquer chances de se relacionar com o amor de sua vida, Mary Jane.
+O importante do Dependency Walker para o WinDbg é que com um editor é possível copiar todas as funções exibidas em sua interface para um editor, usar um pouco de regular expressions e criar uma batelada de breakpoints:
+    
+    ...
+    bp user32!GetDC ".echo GetDC; g"
+    bp user32!GetDesktopWindow ".echo GetDesktopWindow; g"
+    bp user32!GetDlgCtrlID ".echo GetDlgCtrlID; g"
+    bp user32!GetDlgItem ".echo GetDlgItem; g"
+    bp user32!GetDlgItemTextW ".echo GetDlgItemTextW; g"
+    bp user32!GetFocus ".echo GetFocus; g"
+    ...
 
-Como se não bastasse, o inimigo desta vez -- sim, estamos ainda na época em que existia apenas um inimigo nesses filmes -- também é um gênio da ciência, admira a inteligência de Peter Parker e sofre as agrúrias de sua própria invenção: um mecanismo de quatro braços mecânicos que, conectados ao seu cérebro e sua medula espinhal, começam a dominar sua mente. Não se trata de um louco maníaco, mas de um doutor que perdeu ao mesmo tempo sua esposa e a chance de ver sua obra-prima ser reconhecida. Não é um maníaco com sede de poder, mas um homem obcecado por reconhecimento.
+O comando "bp" cria um breakpoint no endereço requisitado. O que está entre aspas são os comandos que você deseja executar quando o breakpoint for disparado. No caso, para todas as funções será impresso o seu nome (comando ".echo") e a execução irá continuar (comando "g"). Ao rodar o programa, as chamadas das funções são mostradas na saída do depurador:
 
-E reconhecimento Homem-Aranha tem demais nesse filme. Muito possivelmente influenciado por "Superman 2: A Aventura Continua", a proximidade entre os nova-iorquinos e seu herói é maior ainda, como podemos notar na pequena música que é cantada nas ruas, além do desenvolvimento de uma maneira exemplar da melhor sequência de ação do filme, e uma das melhores sequências do sub-gênero: um trem fora de controle.
+    ...
+    GetDesktopWindow
+    GetDC
+    GetFocus
+    GetDlgItem
+    GetDC
+    GetDlgItem
+    GetDC
+    GetDlgItem
+    GetDC
+    GetDlgItemTextW
+    ...
 
-Há uma grandeza nos temas musicais que auxiliam bastante o envolvimento, e a direção de Raimi facilita essa conexão da homenagem ao heroísmo utilizando e abusando de enquadramentos que enaltecem seus personagens, além de sabidamente evocar a estética dos quadrinhos.
+Lindo, não? Porém ainda podem estar sendo chamadas as funções obtidas pela segunda técnica, a do GetProcAddress. Para esse caso devemos ir um pouquinho mais fundo e rodar o executável duas vezes. Na primeira, coletamos as funções que são obtidas por essa técnica através do seguinte comando:
 
-Esse também é um grande exemplo onde atores medíocres, se bem escolhidos, conseguem exercer seus papéis, se não com competência, pelo menos com dignidade. 	Tobey Maguire foi muito criticado por sua falta de expressão, ou melhor dizendo, a sua expressão exagerada para Peter Parker nas horas erradas. Porém, Kirsten Dunst em todos os momentos é a Mary Jane menininha dos sonhos do garoto (e a iluminação em torno dela torna bem óbvio isso), e nem por isso foi vista com maus olhos. James Franco, o amigo que vive o ódio de ter seu pai assassinado pelo herói da cidade, também faz pouquíssimo com seu personagem além de usar sua cara de playboy contrariado. E Alfred Molina, a quem pertenceria o peso de carregar todo o drama em sua expressão, é correto, carrega empatia, mas nada extraordinário.
+    bp kernel32!GetProcAddress "da poi(esp + 8); g"
 
-O que torna, então, "Homem-Aranha 2" um exemplar de sucesso na arte do áudio-visual pelo prazer estético de encontrar as personas da tragédia e comédia gregas em faces conhecidas, mas sem apelar para os excessos que dão Oscars a atores que emagrecem ou choram demais, entorpecidos pela complexidade de seus personagens. Isso nunca aconteceria aqui, já que não há nada tão complexo ameaçando sair de um filme que ligeiramente ri de si mesmo a todo momento. Se a recompensa pela falta de profundidade for um "I'm back, I'm back... my back, my back"... que seja!
+O comando "da" exibe o conteúdo de uma string em C (caracteres ANSI e terminada em zero) na memória. A memória no caso é o "apontado do valor contido no segundo parâmetro da pilha". Complicado? Nem tanto: lembre-se que o ESP aponta sempre pro endereço de retorno da função chamadora e os parâmetros são sempre empilhados na ordem inversa da declaração em C. Logo, se o protótipo de GetProcAddress é:
 
-Mas não se engane, esta não é uma comédia, mas um drama que usa comédia como um dos elementos que ajudam a construir essa realidade meio sobrenatural e simplificada. E de drama, há apenas o coro em uníssono dos conflitos principais daquelas pessoas. As cores cinzentas misturadas com o azul e o vermelho da fotografia de Bill Pope (Matrix) é o suficiente para entendermos a mágica daquele universo, onde é possível ver um garoto se pendurando em arranha-céus e cruzando a quinta avenida em segundos, e ao mesmo tempo a sua dura realidade, onde o sacrifício humano é necessário para que disso se ergua um adulto construído da mutação entre uma aranha e um garoto com espinhas.
+    FARPROC GetProcAddress(HMODULE hModule, LPCSTR lpProcName);
+
+O último parâmetro empilhado (ESP+4) é o hModule, e o penúltimo (ESP+8) é o lpProcName, que é o lugar onde é passado o nome da função.
+
+Devemos lembrar de colocar esse breakpoint bem no início da execução e rodar o executável uma vez. Com isso coletamos o conjunto de nomes de funções usadas para chamar GetProcAddress:
+
+    ...
+    746e29f8  "ImmReleaseContext"
+    746e2a30  "ImmNotifyIME"
+    746e2934  "CtfImmEnterCoInitCountSkipMode"
+    746e2978  "CtfImmLeaveCoInitCountSkipMode"
+    746e29bc  "ImmGetDefaultIMEWnd"
+    746e2a64  "ImmSetConversionStatus"
+    746e2aa0  "ImmGetConversionStatus"
+    746e2adc  "ImmGetProperty"
+    746e2b10  "ImmGetOpenStatus"
+    ...
+
+Daí é só organizar a lista obtida em ordem alfabética, acabar com duplicidades e criar o mesmo tipo de breakpoint que foi usado para as funções estáticas (pode ser sem o nome da DLL porque, embora não recomendado, o WinDbg se vira para encontrar os símbolos). Depois de criados os comandos, rodamos novamente o executável e, logo no início, já colocamos todos os breakpoints das funções coletadas.
+
+Essa é uma maneira rústica, porém eficaz e rápida de obter a lista de execução da API utilizada por um programa [^2].
+
+[^1]: Uma variação do método GetProcAddress é a técnica de delay load usado pelo Visual C++. Porém, como o Dependency Walker nos mostra também as DLLs que estão linkadas usando essa técnica se torna dispensável um tratamento ad hoc.
+
+[^2]: Essa técnica nem sempre funciona com todas as chamadas API, pois o aplicativo ainda pode utilizar outras maneiras de obter o endereço de uma função e chamá-la. A solução definitiva seria escrever diretamente um assembly esperto no começo da função, o que pode gerar mais problemas que soluções. Do jeito que está, conseguimos resolver 90% dos nossos problemas com análise de chamadas API. O resto nós podemos resolver em futuros artigos.
 
 ---
 categories:
-- writting
-date: '2015-11-07'
-link: https://www.imdb.com/title/tt0478970
-tags:
-- movies
-title: Homem-Formiga
+- coding
+date: '2007-09-18'
+title: Hook de COM no WinDbg

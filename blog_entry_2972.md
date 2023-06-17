@@ -1,25 +1,15 @@
 ---
 categories:
-- writting
-date: '2013-03-14'
-link: https://www.imdb.com/title/tt1623205
-tags:
-- movies
-title: 'Oz: Mágico e Poderoso'
+- coding
+date: '2020-08-04'
+title: Pacotes Nuget Again
 ---
 
-A visão em preto e branco em uma tela quadrada de Kansas nos revela um lugar com pouco lugar para imaginação. Isso não impede que Oscar (James Franco), um mágico em um circo itinerante, apresente seus espetáculos como shows inesquecíveis para o público. Isso gera uma crença descomunal do povo, que acha que o homem é capaz de realizar milagres. Por não pertencer a esse mundo, sua fuga o leva literalmente a outro: um fabuloso, colorido e dentro de uma ampla tela. É assim que o diretor Sam Raimi (trilogia Homem Aranha) quer que vejamos Oz, uma terra verdadeiramente mágica.
+Agora que mexo com .net no trabalho surgem problemas de "marinheiro de primeira viagem" (na verdade já mexi com o framework, mas há muitos anos). O que me fez gastar mais horas à toa sem dúvida é o versionamento dos pacotes nuget que viram dependências simples de colocar e difíceis de mexer.
 
-O espetáculo visual que é Oz não impede que sejam feitas referências no modo de construir o encantamento visual. Embora não precisasse, os cenários ao horizonte revelam o artifício de Matte Painting, pinturas no fundo do estúdio, usado no [filme original]. De certa forma, os recursos digitais mais aproximam-se do burlesco e de [Mary Poppins].
+Nesse problema em específico de tratava da lib Castle.Core na versão 4.4.0. Durante a compilação tudo estava lindo e maravilhoso. Porém, na hora de rodar, a exceção de I/O dizendo que não conseguiu carregar o assembly na versão certa pula na minha frente.
 
-James Franco não é um grande ator, mas sua simpatia combina com o personagem de Oz, que é um ser inventivo e carismático. O mesmo não se pode dizer das mulheres que o rodeiam, que fazem um esforço descomunal para parecerem inocentes (ou não). Mesmo Michelle Williams, inspiradora na primeira parte da história, é forçada pelo roteiro a se tornar uma mera coadjuvante feminina no melhor estilo Disney.
+Pesquisa de lá, pesquisa de cá, fuça de cá, fuça de lá, encontrei acho que pela segunda vez a solução. Se trata mesmo da versão errada sendo utilizada, mas não na compilação, mas na execução. É preciso definir a versão correta no arquivo de configuração.
 
-Mesmo que a história já seja conhecida, ou para aqueles que não se lembram, a reinvenção de Oz encanta conforme somos apresentados aos seus elementos narrativos. Reaprendemos a enxergar aquele mundo com mais doçura e inocência do que o início no circo. Essa evolução é importantíssima para o terceiro ato, quando vamos conhecendo os detalhes ainda secretos da história.
-
-Embora parta de um roteiro confuso que parece se esquecer que não estamos mais na década de 60 e o que parece imprevisível muitas vezes se revela banal, é admirável o que os trailers conseguiram, mantendo a discrição de uma história simples e que não poderia terminar diferente.
-
-Assim como Arthur C. Clarke imaginava a evolução da sociedade, que, apresentada a um povo suficientemente primitivo, se torna indistinguível de mágica. Aqui ironicamente um povo onde a mágica é comum não conseguiria distingui-la de tecnologia. Nesse sentido, a mensagem de "Oz" não poderia ser mais eficiente.
-
-[Mary Poppins]: {{< relref "mary-poppins" >}}
-[filme original]: {{< relref "o-magico-de-oz" >}}
+Feito isso todo o mundo maravilhoso de .nerd volta a fazer sentido.
 

@@ -1,14 +1,11 @@
 ---
-
-Mais um filme de estrutura média dirigido pelo filho de Hayao Miyazaki. Ele contém a delicadeza, dedicação e perfeccionismo da equipe de desenhistas dos estúdios Ghibli em retratar uma época e um local presentes apenas na imaginação da maioria dos espectadores não-japoneses, e ao mesmo tempo nos entrega uma história banal, um "melodrama", como o próprio personagem nos diz, com o simples objetivo de nos apresentar àquele mundo. É uma época de revolução, os anos 60, mas o filme é tímido em esboçar o inconformismo daqueles jovens. Se torna um retrato realista como em [Memórias de Ontem], mas sem sua maturidade.
-
-[Memórias de Ontem]: {{< relref "memorias-de-ontem" >}}
-
----
 categories:
 - writting
-date: '2018-12-08'
-link: https://www.imdb.com/title/tt5770788
+date: '2016-11-20'
 tags:
-- series
-title: Dá Licença, Saúde
+- food
+title: Dada de Finca Las Moras 2016
+---
+
+Muito frutado, fresco, fácil de beber, transparente.
+

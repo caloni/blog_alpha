@@ -1,22 +1,18 @@
 ---
 categories:
 - writting
-date: '2017-04-16'
-link: https://www.imdb.com/title/tt3874544
+date: '2015-01-18'
+link: https://www.imdb.com/title/tt2397535
 tags:
 - movies
-title: O Poderoso Chefinho
+title: O Predestinado
 ---
 
-É um alívio assistir a uma animação que não se esforça nem um pouco em ser a primeira de uma franquia, e que corajosamente atravessa todo o arco de seu herói para terminar como um "filme normal". Além disso, dirigido com uma fluidez dinâmica alimentada por uma criatividade sem limites de seu roteiro -- que usa uma chupeta da maneira mais inventiva possível -- e sua direção de arte -- que explora através de formas e cores os passeios deliciosos na mente de uma criança e suas aventuras -- O Poderoso Chefinho é uma animação que subverte um pouco o circuito comercial e em troca recebemos uma divertida história fácil de acompanhar, e que ainda que não esteja completa e redonda do começo ao fim, empolga mais que o suficiente para nos lembrarmos do filme com uma certa memória afetiva.
+Apesar de ser um fã incondicional de Efeito Borboleta, sei que o longa possui alguns defeitos indesculpáveis. Sua lógica interna, como todo instigante filme de viagem no tempo, não foi costurada tão bem a ponto do espectador não se preocupar muito com seus paradoxos, e embora sua maior virtude resida nas possibilidades múltiplas de seus personagens, não existe essa de licença poética no Cinema. Se sua narrativa não consegue ser coesa, suas pontas soltas irão te ferir por dentro.
 
-A história facilmente subverte, assim como Cegonhas, o próprio conceito de onde vem os bebês, explicando visualmente que há alguns bebês fabricados pela Baby Corp que não sentem cócegas e são encaminhados para a gerência. Sem o menor pudor ou explicações redundantes -- e destinadas ao fracasso -- o pequeno bebê que chega na residência dos Templenton é recebido pelos pais como algo normal, e apresentado ao seu irmão filho único até então como uma criatura adorável, ainda que vestida estranhamente de terno preto e carregando uma maletinha de homens de negócios.
+Já em O Predestinado o objetivo é exatamente o contrário: ele expõe tanto a vida do policial vivido por Ethan Hawke quanto seus paradoxos. Ele dedica boa parte do seu tempo esmiuçando a curiosa história de vida da personagem vivida por Sarah Snook sem pressa em uma conversa que lembra muito as divagações despropositadas de Um Beijo Roubado, o que é lindo, ingênuo e delicado. Seu flashback ocupa tanto tempo que começamos a duvidar deste ser um filme sci-fi, e nos esquecemos que nenhum sci-fi que se preste é apenas sobre ficção científica, mas principalmente uma metáfora para os dramas da vida. Quem somos nós? Quem é você? Se existe destino, como ele é?
 
-Apresentando mais conceitos que os inicialmente explorados no trailer, a história é surreal e ainda assim conseguimos acompanhar como um conto que é apaixonante em cores e sequências e engraçado no processo, para adultos (piadas subliminares da vida corporativa) e crianças (piadas de bebês, e elas funcionam!). Sua trilha sonora consegue habilmente trafegar entre a aventura onírica e o clima de máfia de filmes como Poderoso Chefão (apesar de apenas seu título brasileiro fazer menção ao clássico de Francis Ford Coppola).
+Quando finalmente vemos a primeira viagem no tempo tudo acontece tão rápido que é como se diversas camadas de história estivessem sendo descascadas na nossa frente, tal como uma dobra temporal, e ficássemos praticamente impotentes diante do poder dos eventos inevitáveis sobre nosso protagonista, que não param de acontecer.
 
-A direção consegue montar sequências habilmente sincronizadas pelo seu editor entre a imaginação de uma criança extremamente criativa em seu mundo de faz-de-conta e a realidade, e implora ao espectador que suspenda sua incredulidade em torno de tantas licenças poéticas. Principalmente as do terceiro ato, que exigem demais da trama, e acaba a desmontando como um castelo de cartas inacabado.
-
-Ainda assim, há alma e paixão em O Poderoso Chefinho o suficiente para entreter com ideias interessantes a respeito de como nossa geração está trocando bebês enérgicos por convenientes pets (e como culpá-los?), além dessa velha rixa entre os filhos únicos e seu novo irmãozinho (ou irmãzinha). Além disso, as piadas impróprias, como lançar algumas notas de dólares ao ar para compensar a falta de um artifício maior estão aí tanto como contra-exemplo como também uma alfinetada no politicamente correto.
-
-Com a fotografia exuberante, a trilha sonora empolgante (na maioria do tempo) e criaturas amáveis apresentadas pelas melhores técnicas de animação do momento aliadas às velhas técnicas do cinema de perspectiva, chegando até ao expressionismo alemão. Um feliz golpe de novidades para o campo dos desenhos para crianças.
+Porém, os diretores e roteiristas Irmãos Spierig não se esquecem de sua ponta dramática, e um jantar casual vira um intrincado jogo de raciocínio: quem veio primeiro? O pensamento ou a adivinhação? E isso é apenas o começo de uma série de reviravoltas que, apesar de menos imprevisíveis, arremessam os mesmos questionamentos emocionais em níveis de ambição diferentes, onde a tentativa de salvar o maior número de pessoas pode até ser compreendido como uma paranoia pós-11/09 (na vida real) em que uma balança macabra calcula a quantidade ótima de quantas pessoas devem morrer.
 

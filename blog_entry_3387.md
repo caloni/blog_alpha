@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2018-06-29'
-link: https://www.imdb.com/title/tt6148128
+date: '2016-04-17'
+link: https://www.imdb.com/title/tt1411697
 tags:
-- series
-title: Screenland
+- movies
+title: Se Beber, Não Case! Parte II
 ---
 
-Essa série parece ter a intenção de reconhecer a genialidade dos gamers em antecipar futuras tendências nos jogos eletrônicos que virão com a melhora da inteligência artificial e a construção de ambientes virtuais, sejam eles realistas ou não.
+Como seria o original se ele não tivesse graça. Não seria uma novidade se a sequência de Todd Phillips repetisse a fórmula exata da ótima comédia que é o filme original, que é o que este Parte II faz do início ao fim. A novidade é que, mesmo juntando o elenco original, o curioso é que quase nada funciona, quase nada é engraçado e muito pouco é imprevisível.
 
-Como o primeiro entrevistado sabiamente formula, a capacidade da mente humana em adaptar e interpretar nossa realidade será colocada à prova. Na verdade, já está sendo, como ele demonstrou em seu primeiro sucesso: um jogo que alia meditação com controle da consciência.
+Há situações pesadas o suficiente para tornar uma comédia um quase drama de um grupo de homens perdido em Bangkok, a capital da Tailândia, do sexo e da violência. Um macaco traficante é engraçadinho, mas não deixa de ser traficante. E um tiro de raspão em um país estrangeiro não deixa de ser um tiro.
 
-O formato desta série-documentário é o que incomoda. Com uma voz robótica e efeitos anos 90 dizendo como será a revolução digital de maneira profética, poética e piegas, a série nos tira a possibilidade de ativar nossa imaginação.
+A questão é: nem tudo que acontece durante um "bebedaço" é engraçado ou inocente. Ao brincar com os heróis do filme original, brincamos com todo o conceito genial que se formou anteriormente. E tudo isso é sacrificado para tentar firmar uma fórmula de um filme só.
 
-A coisa fica pior por causa do detalhamento inadequado da história. Em 20 minutos acompanhamos o desenvolvimento de duas criações experimentais sem saber direito como elas funcionam. Tudo bem existir o mistério do pra quê elas serão usadas (ninguém sabia direito para quê serviria o Twitter até ele começar a bombar), mas sem nos dar a chance de entender os objetivos por trás do autor da máquina de meditação fica difícil se identificar com seu protagonista.
+Nem Ken Jeong (Community) ou Zach Galifianakis são capazes de transformar esse filme esquecível em algo mais. Eles estão exagerados, mas não tanto quanto Ed Helms, que parece tentar defender a "sua" sequência com muita força (afinal, é o casamento de seu personagem).
 
-Da mesma forma, o projeto patrocinado por George R. Martin, criador da série de livros Game of Thrones, que se passa em um mundo fictício, mas muito semelhante à Idade Média, peca em não estabelecer quando este projeto deverá ser considerado pronto. Mesmo jogos aparentemente sem fim como Minecraft tiveram sua versão 1 lançada para deleite de seus early adopters.
-
-Sem saber direito a que veio e sem se destacar de vídeos do YouTube (alguns são melhor produzidos e mais atuais), está série está fadada a ser tão esquecível quanto as incursões de George Lucas em dourar sua pílula em uma galáxia tão distante. E isso ninguém precisa para viver.
+Ainda assim, há um quê de nostálgico e saudosista em Parte II. A sensação de ter perdido a memória novamente é um dejá vu inevitável, mas nos passamos de espectadores de um evento turístico: o passeio às sensações de como deve ter sido o primeiro filme (para quem não assistiu, talvez até tenha ficado com uma impressão superior).
 

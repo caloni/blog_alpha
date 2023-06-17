@@ -1,26 +1,28 @@
 ---
 categories:
 - writting
-date: '2016-09-07'
-link: https://www.imdb.com/title/tt2660888
+date: '2011-06-12'
+link: https://www.imdb.com/title/tt0121766
 tags:
 - movies
-title: 'Star Trek: Sem Fronteiras'
+title: 'Star Wars, Episódio III: A Vingança dos Sith'
 ---
 
-O reboot megalomaníaco da série de filmes inspirada pela série televisiva nerd dos anos 60 está com muita bala na agulha para poder gastar e pouca vontade de arriscar. Isso quer dizer que o novo filme com Capitão Kirk e Spock tem basicamente o mesmo enredo do filme anterior (Além da Escuridão) tirando a emoção.
+A impressão que temos ao assistir o último capítulo da nova saga criada por George Lucas é que este preparou os [dois] [filmes] iniciais tão somente para ter a chance de produzir este terceiro, tamanho o peso narrativo que o diferencia dos seus antecessores.
 
-Porém, a boa notícia é que os efeitos visuais gerados por computador têm garantidos boas supressas esse ano. Além do ótimo Warcraft, Star Trek possui algumas das sequências descritivas que irá tirar o fôlego do espectador, particularmente a apresentação de uma gigantesca estação no espaço criada pela Frota Estelar para manter uma base de apoio nas profundezas do limite onde humano algum jamais foi. Além disso, a versão 3D faz um ajuste mais que esperado: nas cenas escuras com pouca profundidade, apela ao 2D, auxiliando na claridade para quem está com óculos tampando metade da luz.
+Aqui, toda a angústia e tristeza do universo Star Wars são representados por uma fotografia mais escura e uma trilha sonora que transita cada vez mais pelos acordes do Império, e se pelo menos nisso somos obrigados a notar certa coerência desde A Ameaça Fantasma, o mesmo não ocorre no resto dos elementos cinematográficos, que juntos, participam na narrativa de uma forma completamente coesa e sofisticada.
 
-Em termos banais, essa nova aventura é onde a Enterprise irá para a periferia do espaço explorado pela civilização da Terra e irá encontrar ainda muita selvageria que precisa ser colonizada. Isso inclui uma pequena dose de filosofia de botequim, quando Capitão Kirk pensa em abandonar o posto da Enterprise por não ver mais sentido naquelas longas jornadas a bordo de uma nave que desconhece limites, exceto o da ignorância dos povos do espaço longínquo, onde tenta sempre vir com diplomacia e hospitalidade.
+Note, por exemplo, como a perturbação da Força é "sentida" nos primeiros minutos em Anakin (Christensen, mais maduro) e em sua lógica, antes apenas irreverente, mas agora facilmente percebível como deturpada pelo desespero gerado por seus pesadelos. E a força de sua transformação reside principalmente na escolha de um motivo humano para levá-lo para o lado obscuro de seus poderes. Afinal de contas, quem não arriscaria se enveredar por um mundo, mesmo que aterrorizante, para conseguir salvar um ente querido?
 
-Enquanto isso, Spock, interpretado cada vez melhor por Zachary Quinto, ainda pensa em seu povo vulcaniano e a dívida que teria com eles, o que gera um certo conflito bobo com sua namorada, a Tenente Uhura (Zoe Saldana). Além disso, há um pequeno ensaio para acrescentar a trágica morte do ator Anton Yelchin e seu personagem Chekov à série, que vai junto no mesmo ano que Leonard Nimoy, o Spock original.
+Apostando em movimentos de câmera mais intensos, mesmo em simples diálogos, como o momento em que Anakin descobre algo revelador sobre o Chanceler Palpatine, demonstra ao mesmo tempo o clima de urgência do Conselho Jedi, da República e do próprio Skywalker.
 
-Além dessas duas mortes, Star Trek anuncia sua próxima morte como produto inventivo nas mãos de vários roteiristas (incluindo Simon Pegg, que faz mais uma vez o engenheiro bem-humorado da Enterprise). Entrando oficialmente no automático, o filme é esteticamente belíssimo e funciona bem como ação e um pouco de espírito de equipe embalado nos embates cada vez menos intelectuais dos tripulantes da nave icônica, que representam o mundo como o vemos. E esse mundo está dando sinais de desgaste (o real e o futurista, de 250 anos à nossa frente).
+Com uma conclusão que infelizmente exclui o público mais infantil, ao escancarar a própria materialização do mal, o diretor decide por uma aceleração dos eventos, mas mesmo assim não perde as rédeas de sua narrativa, que consegue fechar todas as pontas de maneira primordial.
 
-É por isso que há (mais uma vez) um personagem coringa que irá anunciar que o ser humano está nos limites do seu conhecimento e de seu propósito, onde o embate entre a civilização e sua mensagem de paz e seu velho estilo selvagem de lutar e conquistar territórios entra mais uma vez em conflito, o que não deixa de ser, mais uma vez, uma bela analogia com a Europa invadida por bárbaros do século XXI, anunciando prematuramente seu fim como um paraíso socialista. O artefato usado como ameaça no filme é de um simbolismo à coletividade exagerado, e o próprio ataque que é feito à Enterprise se utiliza da mesma artimanha, sendo aliás, visualmente muito semelhante a Matrix Revolutions, um filme muito subestimado na época em que foi lançado, mas que continua surpreendendo em suas influências póstumas.
+E se, por fim, a maioria do filme prever o final não-feliz é uma atitude corajosa, a decisão de colocar o destino dos filhos de Anakin em foco nas últimas cenas é admirável, pois consegue sucintamente anunciar a vinda de [uma] [nova] [trilogia] que, aí sim, elevará Star Wars na categoria das melhores histórias de aventura espacial já contada de todos os tempos.
 
-A despeito da mensagem dúbia que o filme traz, ele deseja evitar a todo custo adentrar na complexidade da trama (que é bem simples) e das implicações de seu conflito até as últimas consequências, preferindo o desfecho simples e físico aos reais conflitos intelectuais das duas formas de enxergar o propósito do homem no mundo. Ele ainda tem a audácia de repetir o mesmo terceiro ato do filme anterior, mas com muita preguiça e leveza.
-
-Aparentemente não há fronteiras para a mediocridade no Cinema atual. Nem para séries ambiciosas intelectualmente como Star Trek.
+[dois]: {{< relref "star-wars-episodio-i-a-ameaca-fantasma" >}}
+[filmes]: {{< relref "star-wars-episodio-ii-ataque-dos-clones" >}}
+[nova]: {{< relref "o-imperio-contra-ataca" >}}
+[trilogia]: {{< relref "o-retorno-de-jedi" >}}
+[uma]: {{< relref "star-wars-guerra-nas-estrelas" >}}
 

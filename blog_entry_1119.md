@@ -1,22 +1,24 @@
 ---
-
-Esse filme é o prêmio que todo cinéfilo espera depois de assistir a vários filmes medíocres que seguem a mesma fórmula. "Corra, Lola, Corra" não é um deles. Ele quebra barreiras linguísticas (sobre a linguagem do cinema). Ele explora a mescla entre realismo e fantasia. Ele permite que o espectador acompanhe três versões de roteiro e as compare. E ele tem uma das trilhas sonoras mais perfeitas do cinema.
-
-A heroína é Lola (Franka Potente), que se veste como personagem de vídeo game e com seu cabelo vermelho a destaca do mundo que a cerca. Ela precisa correr. Seu namorado, Manni (Moritz Bleibtreu), precisa de 100 mil em 20 minutos ou está morto. Ele perdeu o dinheiro para um mendigo, que aliás é uma pessoa de carne e osso e não esses estereótipos de mendigo de filmes nova-iorquinos zumbificados.
-
-Este é um filme que foi infeccionado pelo vírus do vídeo-clipe. Ele inteiro parece um. E isso não é uma coisa ruim, pois é exatamente isso que essa história precisa para ganhar dinamismo. Lola sai correndo pelo corredor e ao descer as escadas vemos na tela da TV de sua vizinha o desenho dela própria correndo uma escadaria infinita. Aparece um obstáculo: um garoto e seu cachorro raivoso. Você não os vê em detalhes no filme, apenas no desenho. E isso instiga nossa mente a trabalhar com uma versão da realidade levemente fantasiada, onde alguém gritando pode estourar vidros.
-
-A direção desse filme está obcecada em perfeccionismo. Há muitas cenas que você sequer percebe o virtuosismo técnico, mas ele está lá. Está nos ângulos que a câmera se coloca dentro da cabine telefônica onde Manni espera por Lola. Está em Lola correndo vista de cima e sem cortes vista de frente. Está em um cassino onde a bola caindo na roleta possui uma física impossível. (Tenho quase certeza que eles tiveram que fazer um modelo aumentado para esse efeito, e ao tentar pensar nos efeitos é revelado o quão intrincado é fazer um filme desse.)
-
-Ele é rico em linguagem também. Usa o som de uma câmera fotográfica e fotos de possíveis futuros das pessoas que Lola encontra pelo caminho (o que também nos faz pensar constantemente em quando será o destino de Lola e Manni). Este filme também está infectado com o vírus do efeito borboleta. E por falar em fotos, ao final de cada versão da história de Lola e Manni os vemos em um lugar coberto da luz vermelha, como se eles fossem negativos a ser ainda revelados, seu destino ainda incerto. Isso é poesia em sétima arte.
-
-Nunca um filme foi tão conciso, ritmado, ambicioso como esse. Ele confia completamente em sua premissa e nunca a larga, investindo cada segundo em deixar o espectador grudado na tela contando os segundos. Há filmes que deixam um gosto ruim na boca porque prestamos atenção demais para algo que não merece o nosso respeito. "Corra, Lola, Corra" não é um deles. Pode mergulhar fundo, a recompensa estará espalhada pelo percurso. Por três voltas.
-
+categories: []
+date: '2010-02-01'
+tags: null
+title: Correção de bugs instantânea
 ---
-categories:
-- writting
-date: '2015-12-01'
-link: https://www.imdb.com/title/tt0095705
-tags:
-- movies
-title: Corra que a Polícia Vem Aí!
+
+Um programador tarimbado sabe que a melhor situação da vida dele para corrigir um bug é quando esse bug acontece em sua máquina de desenvolvimento, na versão Debug e ainda passo-a-passo. Como nessa situação a correção é um verdadeiro "passeio no parque" (ou na mesa do café) ela tende a quase nunca acontecer. Isso é Murphy Aplicado.
+
+Para quem programa para sistemas, então, só o fato de acontecer no mesmo processo toda vez que ele for executado já é o máximo (quem já programou serviços, plugins, GINAs e afins sabe do que eu estou falando).
+
+Porém, saber que uma determinada situação é mel na chupeta (by Thiago) por si só não adianta de muita coisa. É preciso conhecer as verdadeiras técnicas ninjas que conseguem resolver um bug escabroso num instante, coisa de deixar seu gerente de projetos tão feliz ao ponto dele não botar nenhum defeito na solução.
+
+Dentre as mais conhecidas entre os malloqueiros, temos:
+
+  * Comenta-descomenta-comenta
+  * Faz do zero
+
+Essas duas técnicas são tão úteis e tão fáceis de usar que merecem um artigo a respeito.
+
+Essa técnica milenar corresponde em tirar pedaços do código-fonte que poderiam estar causando o problema até que seja possível criar uma versão em que o problema não ocorra mais. Quando chega-se nesse nível, então volta-se a descomentar o código retirado até que o problema ocorra novamente. O processo é um fluxo de tira-código com volta-código, sendo que é necessário o bom conhecimento do projeto para não gerar outros problemas com a mutilação temporária do projeto.
+
+Se o código começa a ser tão mutilado que chegamos quase em uma versão vazia (sem código), então talvez a melhor forma de atacar o problema seja criar um esqueleto que contenha apenas o código necessário para que ele não faça nada. Isso mesmo. Não fazendo nada, mas instalado. Com isso prova-se que é possível estar lá sem fazer cagadas. A partir daí vai colocando-se o código do projeto real aos poucos no projeto-esqueleto, até que ele apresente o problema. Ou não. Já vi casos em que todo o código foi migrado e o problema sumiu. Ce la vie.
+

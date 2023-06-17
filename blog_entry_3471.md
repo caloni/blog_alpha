@@ -1,18 +1,34 @@
 ---
 categories:
-- writting
-date: '2020-04-22'
-link: https://www.imdb.com/title/tt0091954
+- coding
+date: '2008-02-07'
 tags:
-- movies
-title: Sid & Nancy, o Amor Mata
+- english
+title: 'Silly regex trick: finding the project who failed inside a big VS solution'
 ---
 
-Todo o clima insano, niilista, absurdo e depressivo do movimento punk da época dos Sex Pistols você confere neste filme sobre o baixista da banda e sua amada. Esta é uma biografia maior que suas partes, pois a sociedade vista por estas pessoas se reflete no filme e na forma com que seus heróis se enxergam.
+I know what you going to think about this one: "silly trick". That's why I just put it in the title. Anyway, that is something I use everyday, so I thought it might be useful to who cares about productivity.
 
-As músicas expressam esse clima regado a drogas e vivendo no limite. Não há nada de bonito na cabeça dessas pessoas, e é exatamente isso que gera as miniobras de arte neste filme, como a sequência de vídeo-clipe, absurda, horrenda e fantástica. Os maiores poetas são os que sofreram mais.
+Let's say you have to manage a big solution in Visual Studio made of more than 30 projects, and needs to rebuild all them. Suddenly, something goes wrong. The question is: how to discover, in a heartbeat, what project has failed?
 
-A direção de Alex Cox nos entrega uma imersão real e imediata, nos acompanhando com a câmera na mão pelos quartos e banheiros bagunçados e depressivos que esse casal frequentou. É como assistir a um documentário repulsivo e não conseguir virar a cara porque é tão viciante quanto as toneladas de drogas que eles ingerem. É real sem ressalvas ou proteção dos seus protagonistas. Eles foram usados e malhados como Judas em um filme que não torna o vício empolgante, nem bom, mas apenas parte da vida. Pelo menos de algumas.
+{{< image src="find-error-regex2.png" caption="Find Error in VS projects using regex" >}}
 
-Sem julgar nem proteger o conteúdo biográfico por trás da carreira de Sid Vicius, a entrega de Gary Oldman e de Chloe Webb é completa. O casal principal sai das telas para popular nosso imaginário. A atuação de ambos trabalha em uníssono, há uma simbiose inatacável, por mais moralista que você seja. A vida deles é bela, curta e miserável. Eles têm um ao outro e precisam se matar para fugir dessa vida.
+Note that you need to enable "Regular Expressions" option in the Find Dialog (not shown here).
+
+What I'm saying inside this regex is "find the first number different from zero followed by a space and the letters err". This lead us to the first project who has at least one error:
+
+    ------ Build started: Project: FailedProj, Configuration: Release Win32 ------
+    Compiling...
+    stdafx.cpp
+    Compiling...
+    FailedProj.cpp
+    FailedProj.cpp(2477) : error C2039: 'Blablabla' : is not a member of 'IBlabla'
+    Build log was saved at "file://c:Projects...ReleaseBuildLog.htm"
+    FailedProj - 2 error(s), 0 warning(s)
+
+If you think "what about when a project generates more than 9 errors? the regex wouldn't be able to catch this case", well, you're right. Anyway, that's the quicker form to search for the unsuccessful project inside a big solution. A more complex yet complete regex would be:
+
+    [1-9][0-9]* err
+
+For me, the first version is enough. It is faster to type, simpler to catch and solves my problem. I hope it can solve yours =)
 

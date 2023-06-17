@@ -1,38 +1,31 @@
 ---
 categories:
 - writting
-date: '2015-03-03'
-link: https://www.imdb.com/title/tt3190448
+date: '2019-08-01'
+link: https://www.imdb.com/title/tt1478839
 tags:
-- series
-title: Better Call Saul e Metástasis (piloto)
+- cinemaqui
+- movies
+title: Meu Amigo Enzo
 ---
 
-Tive uma experiência no mínimo curiosa esta noite. Não, não é o que você pode estar pensando se você não me conhece. Quem participou da experiência comigo foi a Netflix. E Saul Goodman, ou James McGill. E Walter White e seu alter ego latino, "Señor Blanco".
+Meu Amigo Enzo segue a tradição Disney de pequenas histórias de Sessão da Tarde que encantam pela leveza, simplicidade e conveniência. Tudo funciona na aventura da vida deste cachorro. Ele é o narrador de uma vida humana em que tudo no final deve dar certo e os percalços são necessidades para que seja feito um filme a respeito.
 
-E eu recomendo essa experiência.
+O motivo de nunca temermos pelo pior é porque este é um filme fofinho, que arranja novas maneiras de contar a velha história da família que passa por alguns problemas insolúveis (quem nunca) e por um piloto que evoca o espírito de Ayrton Senna, que encontra várias barreiras no seu caminho profissional, mas que sua habilidade de correr na chuva demonstra sua confiança no imprevisível. Nós também temos essa confiança, pois já sabemos como funciona um filme como esse: tudo vai dar certo.
 
-Better Call Saul está em seu quarto episódio e já apresenta pelo menos dois episódios imperdíveis. Não estou falando do piloto. Esse peca por demais no preciosismo e na dramatização, além de ficar parado por muito tempo em um futuro que nós já conhecemos enquanto aguardamos pelo passado glorioso dos anos 70, quando Saul Goodman era James McGill, um advogado lutando para conseguir clientes fora o círculo do inferno conhecido como sistema jurídico estatal norte-americano.
+Bom, como o final já está garantido, vamos dar uma olhada no processo. A história começa com um cachorro moribundo, morrendo no capacho da casa do seu dono. O cachorro é dotado de pensamentos filosóficos a respeito de sua vida e a do seu dono com uma sagacidade empolgante, uma sabedoria adorável e a voz de Kevin Costner. Ninguém pensaria duas vezes em poder ter um cachorro desses ao seu lado pelo resto da vida.
 
-Também não estou falando do terceiro episódio, esse intermediário que lembra por demais essas séries infinitas de investigação, policiais, FBI.
+Ou pelo menos pelo resto da vida do cachorro, pois, como sabemos, eles vivem muito menos que humanos. E por isso o filme já nos apresenta seu inevitável fim e nos coloca no começo, quando ele é comprado (certeza que isso vai gerar alguns chororôs dos militantes do "adote um animal"). Enzo, como é batizado pelo dono, é ainda filhote e entre em um momento-chave na vida de seu humano, Denny (Milo Ventimiglia), quando somos apresentados à sua vida de piloto, ainda solteiro, para em seguida, já em formato adulto, ele acompanhar a chegada de sua companheira, Eve (Amanda Seyfried), com toda sua simbologia da primeira mulher.
 
-Estou falando em específico do segundo episódio dirigido pela fodástica Michelle MacLaren, uma das produtoras e que dirigiu episódios em nada menos que três séries atualmente no topo da literatura de internet: Breaking Bad, The Walking Dead e Game of Thrones.
+A história segue sem maiores percalços, quando chega a filha dos dois e os dramas específicos dessa família perfeita que precisa que tragédias e conflitos sejam colocados pelo roteirista Mark Bomback, que adapta o livro de Garth Stein, que aparentemente tem em A Arte de Correr na Chuva seu único grande sucesso, e Bomback é um adaptador nato, tendo (re)feito trabalhos como O Vingador do Futuro e a nova série de filmes Planeta dos Macacos.
 
-Nesse episódio temos a primeira defesa de Saul -- não consigo chamá-lo pelo nome de batismo -- ancorado em um dos princípios morais mais primitivos e bárbaros: a lei de Talião. Olho por olho, dente por dente. Pelo menos essa lei faz mais sentido na cabeça oca do explosivo Tuco, o outro lado da negociação.
+Este se torna um filme tocante e em alguns momentos tenso porque é isso o que esperamos de um filme que tem um cachorro narrador. Então acompanhamos alguns acontecimentos tocantes, outros tensos, mas nada disso se compara a esse cachorro analisando nossa realidade sob o prisma dos olhos de um canino, que dizem mais do que se ele pudesse falar, mas que pensa de uma forma apaixonante. Ele chama o sogro e a sogra do seu dono de gêmeos por aturarem em uníssono, em uma das muitas piadas espirituosas que saem da boca... ops, do pensamento de Enzo. Poeta por vocação, o cão faz analogias sobre os medos da vida usando a chuva na pista de corrida. Meu deus, onde encontro um animal desses para mim?
 
-Através de um desempenho desajeitado, mas eficaz, Saul consegue salvar a vida de dois jovens pilantras. É seu primeiro "case" de sucesso, e significa o pilar moral de sua futura função que tanto nos divertiu em Breaking Bad, uma série que ainda merece muitas revisitas. Saul defende bandidos, mas arma uma arapuca mental para justificar seus atos. Ele age da mesma forma para justificar os atos de seus clientes. É um personagem discutindo acidentalmente a nossa moral enquanto torcemos por Walter White, um traficante e produtor de metanfetamina e uma lista de corpos que cresce a um ritmo exponencial. Agora Saul é o protagonista, o que nos permite analisar esse mecanismo mais de perto.
+Para quem possui animais, e eu digo de fato para suas vidas, e não como muletas de carência como têm sido usados cada vez mais, a resposta para "onde encontro esse animal" deve parecer boba, pois uma vez que você estabelece um laço com uma criatura dessas é como se você tivesse de fato um amigo, e ainda que não da mesma espécie, próximo o suficiente para termos empatia e conexão. E como Marley e Eu e Meu Amigo Enzo tentam demonstrar, uma amizade entre um homem e seu cão pode adquirir significado com o tempo sem necessariamente nenhum truque além do convívio dia após dia. Afinal, somos animais sociais e os lobos desde os tempos mais primórdios são nossa versão menos consciente e mais confiável para a vida selvagem.
 
-E onde chegamos no irretocável quarto episodio, quando aprendemos que o jovem Saul aplicava golpes que garantiam uma grana para garantir a birita da noite, mas que, principalmente serve de gancho para uma sequência que irá se desenrolar quase no outro extremo da história. Aqui a atuação de Bob Odenkirk começa a sair um pouco do arroz-com-feijão que estávamos acostumados (e que era ótimo) em Breaking Bad. Tenho bons pressentimentos sobre o desenrolar desse roteiro de Vince Gilligan e Peter Gould.
+O motivo dos dramas e conflitos no filme serem tão artificiais possui um significado, também, pois o mundo onde a história se passa possui um viés ligeiramente religioso, ou pelo menos espiritual, com o objetivo de nos fazer sentir bem apesar das mortes que acompanharemos. Ele usa reencarnação como paz para o espírito, mas de uma forma muito sutil ele ultrapassa interpretações fechadas e adquire um ar mais metafísico. O dono de Enzo é um piloto tão bom porque ele não vive no passado ou futuro, mas no presente. Cachorros são companhias eternas porque, não dotados da voz interior que ajuda e atrapalha, eles sempre vivem no presente, também.
 
-Não cansado daquele universo, resolvi dar uma olhada na nova série latina que estreou também na Netflix, Metástasis. E adivinha só? É do mesmo Vince Gilligan, ajudado por mais três roteiristas e dirigido por Andrés Baiz e Andrés Biermann, que não possuem nenhuma relação com a série original. Daí você me pergunta: "e daí?" Bom, se trata do mesmíssimo roteiro, com o mesmíssimo número de episódios. Daí você me pergunta (já impaciente). "OK, e daí?" E eu já vi que você não se interessa muito pela arte cinematográfica. O. Mesmo. Roteiro. Mas. Outra. Direção! Podemos comparar a mesma história, com praticamente os mesmos diálogos, mesmas cenas, mesmos personagens, e sentir qual o verdadeiro peso de uma direção em um filme/série.
+Porém, apesar deste fato, para maior participação de Enzo suas falas refletem momentos que não testemunhamos, quando seu dono fala sobre o que é ser um piloto e coisas da vida. Seria estranho testemunhamos ambos, porque apesar do título brasileiro Enzo é o protagonista dessa história, e apesar de nenhum ser humano ter sido ferido durante as filmagens eles foram cobaias neste experimento de troca de protagonismo.
 
-Obviamente que não é apenas a direção que muda. Fotografia, figurino, direção de arte, atores... digamos que pelo menos o roteiro não muda. E a trilha sonora ainda está por conta de Dave Porter, que faz as trilhas de Breaking Bad e Better Caul Saul também.
-
-A maior decepção talvez seja o ator que interpreta Jesse Pinkman no remake. Enquanto Walter White vira uma espécie de caricatura de si mesmo, Jesse é apático perto do desempenho de Aaron Paul desde o começo. Note como ele lembra o "Professor White" que ele não sabe de nada de química porque ele o reprovou.
-
-https://www.youtube.com/embed/K-JvsP56zbk
-
-Não é preciso dizer, claro, que não se pode esperar nada próximo do Walter White de Brian Cranston, que também oferece uma atuação digna de prêmios já no piloto da temporada. Não encontrei a sequência completa, mas o momento em que ele decide pôr fim à própria vida é hilário e tocante ao mesmo tempo. (A do remake também é, mas de uma maneira engessada e pausterizada.)
-
-Ainda assim, a sensação geral foi que direções muitas vezes são supervalorizadas. Um roteiro bem escrito consegue milagres, como é provado nesse piloto de Metastasis. Um trabalho menor, de baixo orçamento, mas que se fosse o original, atrairia um público pronto para sensações diferentes do mais do mesmo (assim como eu fui fisgado alguns anos atrás por Breaking Bad).
+Essa versão narrada por um cão fiel e reflexivo é uma maneira eficaz de renovar filmes com o mesmo propósito da tradição Disney de histórias doces, sobre família e religiosidade, em que tudo vai ficar bem. E como não ficaria? Se pensarmos como vive um cachorro doméstico, há poucas coisas que reclamar. Talvez aquele momento da vida em que o dono se esqueceu de alimentá-lo por 48 horas seguidas. Momento esse que, como cachorro, ele nem deve se lembrar. Viver no presente é uma ótima mensagem que deveríamos aprender dos nossos companheiros caninos.
 

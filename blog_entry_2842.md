@@ -1,24 +1,28 @@
 ---
 categories:
 - writting
-date: '2016-09-04'
-link: https://www.imdb.com/title/tt4844288
+date: '2019-10-12'
+link: https://www.imdb.com/title/tt9105628
 tags:
+- cinemaqui
+- mostra
 - movies
-title: O Traidor
+title: O Último Amor de Casanova
 ---
 
-Uma narradora que é uma velha e que faz graça com a desgraça de uma nação. Belas mulheres asiáticas que são estupradas por um imperador maluco, auxiliado por dois caçadores de beleza, pai e filho, que não confiam um no outro. Uma putaria e violência que começam desenfreadas, mas aos poucos caem no clichê moralista não sei bem por quê. Uma história mais ou menos histórica (Yeonsangun of Joseon, o décimo-rei da Coreia) que falha em uma narrativa sem entender a que veio.
+Parte da biografia oficial de Giacomo Casanova, uma mistura entre aventureiro, bon-vivant e relator dos costumes da época, O Último Amor de Casanova é um filme absurdo, lamentável e terrível. Ele não possui um elenco necessário, apenas objetos no cenário para dizer suas falas. Não estabelece conexão com o espectador, mas flerta com a possibilidade de acharmos seu protagonista e suas aventuras amorosas dignas de importância por motivos históricos.
 
-Pelo jeito, O Traidor tem muita estética, belas paisagens, figurino e direção de arte, e pouca ideia do que está fazendo. Ele quer chocar pelo erotismo, mas não conseque ser erótico. Quer impressionar pela violência, mas dá risada de si mesmo enquanto cabeças são cortadas (graficamente cortadas). Seus personagens são corriqueiros, mas fazem parte de uma miscelânea de eventos de duas horas, sendo que ao final o que resta é o clichezão do amor proibido.
+Ele gira em torno do único interesse amoroso do conquistador que de acordo com ele próprio não se tornou sua amiga, e por "conquistador" entenda por alguém com dinheiro e fama que compra suas companheiras, e "amiga" por alguém que ele tem acesso aos seus órgãos genitais. Essa pelo menos é a impressão do filme, muito embora não esteja muito longe dos costumes da época. A biografia de Casanova se tornou por muito tempo uma visão fiel (e abominável) do final do século 18 na Inglaterra.
 
-Que não tem sequer lógica interna em sua conclusão.
+Casanova só fala francês, mas podemos ouvir pessoas falando inglês por toda a parte, em uma imersão de um forasteiro em terras estrangeiras. Tudo isso são metáforas? Há alguma mensagem codificada nos detalhes do longa? Nunca saberemos, pois há uma distância entre espectador e filme intransponível. A fotografia é muito escura, naturalista, que vai piorando com o tempo. Se há algo claro em "Casanova" é que ele faz um esforço sutil, mas constante, em destituir esse período da História de todo glamour, pomposidade e romance que estamos acostumados de outros filmes.
 
-Mas olhemos para este tirano, Yeonsangun of Joseon. Ele é interpretado por Kang-woo Kim com uma competência que não faz jus ao filme que está. Ele é impulsivo e mimado, se aproveitando do seu status de rei para matar, violentar e falar o que quiser. Ele está inserido em uma sociedade milenar tradicionalista que não sabe o que fazer quando um retardado sobe ao trono, mas é obrigada a colaborar com o que vier de seu comandante, nem que seja sequestrar dez mil belas moças de seu país para escolher com qual irá copular. De certa forma, lembra outros monarcas de outros países que, estatísticas fazendo valer, foram gerados através de irmãos, primos e primas, trazendo defeitos genéticos para o sangue azul. É uma constante real que os grandes líderes da história sejam vistos como excêntricos, quando na verdade ou eram apenas idiotas ou dotados de legítimas doenças mentais.
+A ideia por trás da fotografia escura lembra filmes como Barry Lyndon, de Kubrick, que insistiu em usar iluminação da época, velas e candelabros, para iluminar não apenas o cenário, mas o set de filmagens, o que se torna uma diferença prática que contou com uma tecnologia desenvolvida na Nasa. Porém, em "Casanova" o clima sempre é cinzento, o que faz com que até durante o dia tudo seja escuro e apagado de vida.
 
-Isso está longe do que vemos, por exemplo, em O Império dos Sentidos (Nagisa Ôshima, 1976), onde, como escrevi, "Um senhor cheio de gueixas, uma esposa generosa e uma amante ninfomaníaca fazem a história de Império dos Sentidos percorrer uma curva de aprendizado sobre sexo." Não. Isso tem muito menos a ver com sexo do que com dominação, com uso irracional da força, com o apelo à autoridade para cometer atrocidades.
+Isso é uma descaracterização, pois projeta no espectador a impressão que as pessoas da época enxergavam daquela maneira. Causa perda de cores, e todos aqueles figurinos vistosos que estamos acostumados a ver se tornam meros rabiscos eventuais em torno de um cinza quase opressivo. A trilha sonora também paga o preço, sendo inexistente ou apenas dentro da história. E a filmagem das cenas são feitas em planos longos que trazem um aspecto realista pelo movimento e onírico pela câmera que flutua, o que remete diretamente a Arca Russa, trabalho monumental do diretor russo Alexander Sokurov que quis e conseguiu filmar um longa inteiro em uma única tomada.
 
-E irracional por irracional, este filme contém um roteiro confuso, que troca de tom todo momento. Não sabemos se ele está defendendo que filhas de açougueiros são nobres por estarem do lado dos traidores que tentaram matar o rei maluco, ou se é uma fatalidade que o líder supremo dessa nação seja um retardado. Não dá pra saber, pois o roteiro escrito por Yoon-Seong Lee e o diretor Kyu-dong Min passa de um lado para outro sem conseguir unir as pontas de sua trama. É como se de repente, no meio de um teste com as concorrentes (compulsórias) a rainha, o filme nos virasse de lado e começasse a contar a história da relação entre pai e filho e como isso é importante, mas ao mesmo tempo como o filho enxerga a traição ao rei a única saída para salvar seu amor pela açougueira.
+Todos esses traços estéticos são possíveis de serem notados sem pressa porque a história de Jérôme Beaujour se arrasta. Quase totalmente centrada na conquista frustrada de Casanova e sua pretendente, contada em flashback no momento em que ele escrevia sua biografia, com a ajuda de uma mulher, claro, a história não tem uma trama em si, mas se recarrega a cada novo momento dessa conquista. E enquanto vemos mais do mesmo refletimos sobre fotografia, sons e objetivos.
 
-Este é um filme interessante pela sua premissa e pelo sua narração histórica, mas que usa o clichê para unir diferentes linhas de sua história, e com isso passa despercebido qual a real mensagem de "O Traidor". Fica claro que não é o sexo... mas isso Frank Underwood, de House of Cards, já descobriu e revelou em uma cena: "tudo é sobre sexo; menos sexo; sexo é sobre dominação".
+A direção nem sempre coesa de Benoît Jacquot (3 Corações) também não ajuda. Jacquot não possui o menor interesse que o espectador se interesse, preferindo deixar a história fluir no automático. O problema aí é que não se trata de uma história lá muito empolgante, e fica ainda pior quando o diretor não nos mostra o caminho para fora desse labirinto de caracteríticas escolhidas a esmo.
+
+O Último Amor de Casanova possui uma virtude frente a tantos trabalhos que retratam a nobreza da época como algo mais pulsante. Ele é chato. Intragável. Em uma versão oposta de A Favorita, comédia de época empolgante do diretor grego Yorgos Lanthimos, este é um filme de época que realmente nos dá a impressão de como era fácil se entediar naqueles anos. E nem junto das aventuras de Casanova nos salvamos.
 

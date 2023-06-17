@@ -1,12 +1,11 @@
 ---
 categories:
 - writting
-date: '2020-07-20'
-link: https://www.imdb.com/title/tt12313914
+date: '2021-11-14T20:46:48-03:00'
 tags:
 - series
-title: 'O Grito: Origens'
+title: Homem de Castanha
 ---
 
-Assim como o original, falado em japonês, o que é um plus, mas ele é muito comum e seu tom inusitado é revelador demais. Não queremos este mistério desvendado, queremos levar sustos. A série de streaming leva tudo a sério e faz perder parte do que nos fazia gostar de O Grito: o gore, o trash e a falta de uma estética de terror que seja esquecível. Exceto seu grito do título, claro. Infelizmente a estética aqui é bem feita, com tons de cores dramáticas e personagens que tentam soar realistas e com peso. E quem quer se divertir sai frustrado. Aguardando um terror mal feito caímos no conto dos direitos comprados e reenlatados em um trabalho dramático que se perde em meio aos milhões disponíveis ao toque de um botão.
+Esta série investigativa policial dinamarquesa desenvolve bem sua trama e seus personagens. Note o parceiro desagradável, misterioso e traumatizado da heroína. Seu lado introvertido, calculista e obstinado retirado de algumas personas no imaginário do gênero funciona até hoje. O maior defeito da série é o desenvolvimento, como toda série hoje em dia. Seis horas para um filme de duas é tempo demais. A história não ofende nossa inteligência, mas a duração sim. Já vimos filmes melhores e mais concisos. É um desperdício narrativo e devemos ficar ofendidos por isso. Além do quê há algumas falhas ou imprecisões na trama, quando uma certa pessoa acha quase sem querer o esconderijo do serial killer, que não ornam com o conjunto da obra. Tem cara de adaptação mal feita de livro. E é mesmo, o autor é Søren Sveistrup e os roteiristas um batalhão.
 

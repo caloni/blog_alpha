@@ -1,16 +1,16 @@
 ---
 categories:
 - writting
-date: '2015-01-05'
-link: https://www.imdb.com/title/tt0027977
+date: '2013-12-24'
+link: https://www.imdb.com/title/tt2053463
 tags:
 - movies
-title: Tempos Modernos
+title: Terapia de Risco
 ---
 
-Charlies Chaplin foi o Leonardo da Vinci da Sétima Arte. Em Tempos Modernos ele não apenas atua e dirige, como escreve o roteiro, edita e compõe a trilha sonora, incluindo o belíssimo tema de casal. É um filme-fantasia que contém metáforas sobre a vida dura na cidade, onde a multidão caminha em uníssono para as fábricas na esperança de uma vida melhor, trabalhando em um ritmo frenético ditado pelo dono através de um monitor gigante. Não à toa, a primeira cena intercala essa multidão com um rebanho. Acompanhamos a história de apenas um desses trabalhadores (Chaplin) que é preso após ficar maluco trabalhando na linha de produção. Ironicamente, a prisão é um lugar mais agradável do que a vida lá fora.
+Me impressionei pela atuação de Rooney Mara (a Lisbeth Salander de Os Homens que Não Amavam as Mulheres) e sua construção de um personagem frágil mesmo que insensível. Os problemas de depressão de Emily são tão óbvios em seus olhares abaixados, esguios, em sua fala mansa e cansada, que tudo isso parece convincente demais.
 
-O que está presente em quase todas as cenas, independente de formarem cenários distintos para o humor clássico do humorista, como a patinação na loja de departamentos, um momento igualmente importante dos efeitos visuais da época, é essa tentativa de conquista dos sonhos. Mas, como em todo filme do cineasta, a vida não é muito fácil e o melhor jeito de lidar com os problema é rir deles. Ele conhece uma menina órfã e juntos tentam conquistar o sonho de viver em uma casa aconchegante. O humor de Chaplin é o suficiente para percebermos o contraste entre o desejado e o que "tem para hoje".
+E é onde reside a genialidade de sua atuação e onde adentramos no segundo ato de um drama que se torna de uma cena para outra, talvez a transição que eu menos goste, em um thriller que é impossível de desgrudar os olhos. Como não vimos isso? Como não percebemos? O que é loucura e o que é malícia? Onde estão as bases de um profissional da psique para desvendar tantas camadas de nossa personalidade muitas vezes vil e desprezível?
 
-Lembrado eternamente pela sequência em que o operário fica preso entre as engrenagens de uma máquina gigantesca que o mastiga, Tempos Modernos é muito mais do que isso. É um filme sobre a esperança do trabalhador comum, tem por objetivo alcançar a massa com sua mensagem simples. É uma estratégia política aversa à violência física como em Eisenstein (O Encouraçado Potemkin, A Greve), mas, na minha opinião, muito mais efetiva e universal: o riso pelo drama da vida real.
+Construindo sua narrativa entre sombras e um céu acinzentado com uma fotografia límpida e triste de Steven Soderbergh (que também assina direção), a fé no ser humano pode facilmente se dissipar conforme adentramos no drama do psiquiatra Jonathan Banks e na psique de Emily.
 

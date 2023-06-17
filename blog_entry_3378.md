@@ -1,17 +1,13 @@
 ---
 categories:
 - writting
-date: '2021-03-13'
-link: https://www.imdb.com/title/tt2309312
+date: '2021-12-05T21:30:21-03:00'
 tags:
-- animes
-- series
-title: Say I Love You (aka Suki-tte Ii na yo)
+- beer
+title: Scarpas Pilsen
 ---
 
-Traços expressivos e uma produção estilizada que chama a atenção para si pela edição, música e montagem formatam esta série como um trabalho denso sobre as profundezas de um trauma infantil. Mei não tem amigos por causa de um desses traumas do passado e chega à adolescência como uma garota quieta e isolada. Vista como maluca e antipática pelos colegas, ela chama atenção obviamente do cara mais popular da escola, pois caras populares estão cansados de rostinhos lindos lhe dando bola. Eles trocam números e forças do destino os fazem se beijar no primeiro episódio. "E agora?". Um anime sobre quando a vida volta a acontecer para quem já tinha perdido as esperanças na véspera.
+O bairro de Scarpas em Capitólio é bem chique. Um condomínio de alto luxo em contraste com o centro simplão de interior mineiro. Se buscar bem você acha um barzinho no centro onde os locais vão tomar birita. Se você explorar o condomínio de Scarpas vai achar um helicóptero em cima de uma mansão.
 
-Esta é uma série das mais sensíveis, que escancara as vicissitudes dos mais frágeis psicologicamente e com isso constrói uma ponte de empatia com qualquer um que já tenha sofrido por amor.
-
-A cada episódio a série amadurece um pouco mais, trazendo à tona os problemas reais que poderiam derivar de uma relação entre o garoto mais lindo e popular da escola e uma garota desconfiada e fragilizada pelos traumas da infância. Mei é uma jóia ainda na pedra, e por isso sua beleza externa não faz justiça aos seus sentimentos mais nobres. Portanto a série vai criando situações onde conseguimos ver que existe um ser humano completo do lado de dentro que só aparece para o mundo quando necessário.
+Nesse contraste é que reside essa cerveja local, que une a simplicidade do estilo Pilsen com a elegância do malte, leve, mas perceptível. Aromático, mas refrescante. Simples de beber. Assim como Capitólio é simples de visitar.
 

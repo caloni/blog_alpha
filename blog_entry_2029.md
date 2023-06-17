@@ -1,22 +1,17 @@
 ---
 categories:
 - writting
-date: '2018-03-05'
-link: https://www.imdb.com/title/tt4649466
+date: '2021-03-03'
+link: https://www.imdb.com/title/tt5879454
 tags:
-- movies
-title: 'Kingsman: O Círculo Dourado'
+- animes
+- series
+title: Kiss Him Not Me (aka Watashi ga Motete Dousunda)
 ---
 
-Não é tão bom quanto o primeiro, mas diverte. Ele possui algumas boas ideias que estão a serviço da história e do trash, muitas ao mesmo tempo. Mas ele não possui alma, apenas personagens fazendo graça. Ele tenta ser mais do mesmo em uma versão americana, mas tudo soa fake demais. Tentando agradar o público ele desce do pódio das grandes paródias de filmes de espionagem.
+Kae Serinuma é gorda e mantém uma rede de amigos lindos e perfeitos no segundo ano do colégio. O motivo: ela shipa secretamente os meninos. Otaku como sua amiga, juntas elas vivem esse mundo de amores 2D, mas Kae é mais podreira e não se vê namorando.
 
-Kingsman: O Círculo Dourado já começa fazendo graça no seu subtítulo (e a graça continua em um show onde o conceito de traição do puritanismo norte-americano dá um passo... à frente). Iniciando com uma cena de ação dentro de um táxi de perder o fôlego, é divertido acompanhar o ritmo frenético que o diretor Matthew Vaughn (do Kingsman original e Kick-Ass) utiliza em suas cenas. Abusando dos planos-sequência montados (não reais, com a câmera na mão, mas computador faz tudo hoje), Vaughn foi um dos pioneiros que iniciou essa tendência nos filmes de ação. Hoje até os filmes do Liam Nesson têm (como seu último, O Passageiro). A cena da igreja do original teve, e foi demais.
+Mas tudo muda quando ela fica uma semana em seu quarto, emagrece e se torna linda. Agora ela vai ter que lidar com a perseguição de todos esses garotos lindos que não deseja beijar, mas que beijem uns aos outros.
 
-A história tem algumas marcas da era Trump. A vilã é um estereótipo dos megalomaníacos que têm um QG em uma Ilha ou floresta. Entediada com os bilhões que ganha com seu império das drogas ilegais, ela não confia em humanos e usa robôs para mantê-lá segura. Os cães mecânicos da última temporada de Black Mirror são muito mais perfeitos, mas esses são fantasiosos, gordos, cheios de mecanismos. Ela gosta de usar rodas dentadas que esmagam seus inimigos. Seus traidores, ela mói e faz hambúrguer para seus novos aliados.
-
-Julianne Moore está tão à vontade no seu papel como Samuel L. Jackson esteve no filme anterior. Da mesma forma, o retorno de Colin Firth é bem-vindo justamente porque o garoto do primeiro, na pele de Taron Egerton, continua só um garoto, ainda que bem vestido nas ocasiões certas. O elenco de Kingsman pode se dar ao luxo até com Jeff Bridges em uma ponta, embora não veja ninguém melhor que Bridges para caracterizar a versão red neck dos agentes secretos.
-
-Mas falando sobre Trump, a sacada do filme é genial. Ela envenena os usuários de suas drogas e chantageia o estado americano para legalizá-las em troca do antídoto. O que ela não contava - ou contava - é que Trump... quero dizer, o "presidente conservador no poder no filme", não acha uma ideia tão má livrar o mundo dos junkies (que no filme, como na vida real, são pessoas normais que apenas ingerem uma substância que o governo não acha legal). O jogo todo revela a hipocrisia e a rede de poder de ambos os lados. Mais que isso só Elton John de refém e dando uma voadora mesmo sendo usuário costumeiro de drogas e gordo como um balão.
-
-Agora, o que é aquele laço elétrico de caubóis que corta gente? Sinceramente, Kingsman flerta sério com o trash! Tão sério que deveria no próximo filme abraçá-lo de vez e tornar a aventura realmente sem lição de moral. Por mais divertido que seja para os democratas ver Trump sofrendo um impeachment.
+Kiss Him Not Me é daquele anime com um tema bem específico e uma sensibilidade nos detalhes. É uma comédia sobre o que se passa na cabeça dessa menina adentrando em um círculo social enquanto ela precisa resistir à tentação de ser uma freak aos olhos dos garotos. Mas como resistir a tantos belos espécimes de testosterona sem imaginá-los como casais perfeitos (não necessariamente gays)? Este é o drama dos reclusos em formato colorido e fofinho.
 

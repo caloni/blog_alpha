@@ -1,22 +1,18 @@
 ---
 
-Era de se esperar uma queda básica na qualidade narrativa do original Happy Feet, de 2006. Na época pegando carona no belíssimo documentário do ano passado, [A Marcha dos Pinguins], o filme traçava um paralelo do que aconteceria se um dos filhotes da espécie apresentasse uma característica... inusitada. No caso, todos os pinguins da raça Imperador são exímios cantadores, enquanto o filhote diferente gostava de sapatear. Ambas as características suportaram números de encher os olhos e os ouvidos, com performances de cair o queixo, com destaque absoluto para Somebody to Love (Queen).
+Essa série foca mais nas emoções e memórias de traumas passados por essas duas meninas. Ela se estende para todos os personagens, que pouco ou muito, passaram por transformações em suas vidas e precisam encontrar uma maneira de sobreviver a tudo isso. A animação segue uma lógica visual como em [Madoka Mágica], mas fala de temas mais sérios do que a morte: a dor do passado.
 
-Aqui a dança muda um pouco. É indiscutível a qualidade gráfica dos pinguins, como já era 5 anos atrás, mas agora dois novos componentes da "fauna" antártica merecem o destaque absoluto: Will e Bill, dois espécimes de Krill: desde a textura até os movimentos dos olhos, tudo é perfeito nesses dois, que combinam suas cores com o fundo do mar gelado de maneira absolutamente natural e, de certa foram, poética.
+Pais desajustados montam o plano de fundo do que vemos, e o que vemos é uma interpretação distorcida da realidade. As imagens, principalmente as luzes, formas e cores subjetivas, montam um esquema de emoções que acompanhamos compenetrados. É profundo demais para ser traduzido em palavras, embora o anime tente. Não consegue. As imagens são mais fortes.
 
-O filme começa bem, ressaltando a importância do ecossistema como um todo, com todas as espécies se ajudando entre si, mesmo que pelas leis do acaso. O ponto forte é a questão filosófica dos Krill, que se perguntam se existe algo além do "cardume" (eles vivem no meio de uma massa incontável de irmãos vagando pelos mares glaciais). O final encontra a rima dessa história de maneira satisfatória, que é quando vemos a performance musical mais emocionante do filme (sem maiores detalhes).
+Há algumas reviravoltas e a primeira temporada termina inacabada, insatisfatória, embora com um final, mas larga seus personagens no meio da jornada. Há temas bem fortes para o público infantil, embora seja um trabalho fofinho, de esperança, para todos que sofreram traumas no passado. Vale a pena acompanhar? É quase uma viagem experimental. Então perto da mesmice é claro que vale.
 
-Já o problema do longa se encontra no seu desenvolvimento. Nunca conseguindo focar em um tema específico, o drama principal dos pinguins presos entre as geleiras fica esmaecido, quase esquecido em alguns momentos, pois não existe ritmo ou até mesmo coerência em contar essa história, dando maior importância às brincadeiras visuais (que funcionam metade do tempo) e falas completamente descartáveis (nem a antes figura carismática de Ramon consegue salvar).
-
-Porém, esse deve ser o filme que vai impressionar mais as plateias pela maneira impecável que ele junta suas duas pontas extremas, mesmo se despreocupando totalmente em como desenvolvê-las de maneira no mínimo interessante.
-
-[A Marcha dos Pinguins]: {{< relref "a-marcha-dos-pinguins" >}}
+[Madoka Mágica]: {{< relref "madoka-magica" >}}
 
 ---
 categories:
 - writting
-date: '2018-05-16'
-link: https://www.imdb.com/title/tt2452242
+date: '2016-08-16'
+link: https://www.imdb.com/title/tt3072482
 tags:
-- series
-title: Feliz!
+- movies
+title: 'Hardcore: Missão Extrema'

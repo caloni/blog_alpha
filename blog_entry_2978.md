@@ -1,16 +1,23 @@
 ---
 categories:
 - writting
-date: '2013-12-22'
-link: https://www.imdb.com/title/tt0388473
+date: '2013-02-04'
+link: https://www.imdb.com/title/tt2156927
 tags:
 - movies
-title: Padrinhos de Tóquio
+title: País do Desejo
 ---
 
-Essa animação natalina japonesa segue os mesmos moldes do ótimo Paprika, também dirigido e escrito por Satoshi Kon e co-dirigido por Shôgo Furuya, que já havia trabalhado como animador em A Viagem de Chihiro (2001). Quando digo os mesmos moldes me refiro à caracterização exagerada e satirizada da realidade que cerca os personagens. As expressões de rosto absurdas, tão comuns no anime, aqui funcionam em parte pelo seu humor e não funcionam em parte pela sua dramatização exagerada.
+Filmes como [A Febre do Rato] e [O Som ao Redor] possuem narrativas pouco convencionais, mas seus temas são tão bem explorados e ensinados ao espectador que não conseguimos imaginar maneira melhor de contar uma história. Que é exatamente o que não existe em País do Desejo, que articula temas complexos e polêmicos como o aborto e a castidade dos padres sem a mínima intenção de explorá-los como mereceriam.
 
-A história gira em torno de uma criança encontrada no lixo por três moradores de rua, sendo que os três também foram abandonados pelos seus pais. Formam uma família torta, onde o "pai" é um vagabundo irresponsável e a mãe é um gay. Nas ruas de Tóquio pode-se esperar de tudo, menos compaixão. Essa família, no entanto, se une em torno de seu passado aparentemente semelhante de abandono.
+Roberta (Maria Padilha, linda como sempre) é uma famosa artista que utiliza a música para se expressar. O passado trágico envolvendo sua mãe a torna enclausurada em sentimentos mórbidos (quer até usar um requiem, uma espécie de música mórbida, para seu próximo show). Sua relação de amizade com o Padre José (Fábio Assunção) indica sua necessidade de comunicação com o seu lado mais místico, e a fotografia que transita entre as sombras escuras de sua casa e a luz branca do sol e do quarto de hospital onde se encontra após um evento a transforma metaforicamente na figura angelical. Como contraparte, a enfermeira japonesa (Juliana Kametani) que vem cuidar da mãe do padre se veste de maneira sensual, se comporta sensualmente e gosta de provocar deixando a porta aberta do seu quarto enquanto passa creme seminua em seu corpo. Note como seu cabelo no ônibus que chega à cidade possui um aspecto de chifres. Qualquer relação dualidade anjo/diabo, por mais absurdo que possa parecer, está contido nas confusas mensagens do filme.
 
-A fraqueza do filme reside em seu roteiro cheio de coincidências que insistem em aparecer em momentos onde elas não são chamadas. Quebram o ritmo de uma história tão envolvente quanto bem desenhada. É uma pena, portanto, que boa parte dos seus momentos sejam estragados no final por uma "revelação" completamente desajeitada. OK, é um conto de natal. OK, estamos falando de uma fábula. Mas veja os fantasmas de Scrooge: surreal, natalino e eficiente.
+Já Padre José é aquela figura carismática que faz o bem aos seus fiéis pela bondade cristã de ajudar o próximo, o que o faz bater de frente com a visão sempre anacrônica da igreja, corporizada pela figura do bispo (Nicolau Breyner), seu superior, que parece convenientemente favorecer o status quo de sua religião hierárquica tanto pelos seus privilégios (que o diretor Paulo Caldas representa com um suntuoso almoço) quanto pela sua demonstração de poder.
+
+Se todos esses elementos não precisassem ser mastigados pelo espectador perdidos e sem pistas em uma novela de caráter global e que nunca permite que seus personagens digam a que vieram (com a possível exceção do bispo, unidimensional à risca) o trabalho de Paulo Caldas e do roteirista Pedro Severien seria infinitamente mais ambicioso.
+
+Porém, pelo visto, o diretor não quis entregar nada mais que os eventos enfileirados, o que parece mais material de pesquisa do que uma história pensada e trabalhada para comunicar ideias que ousam desafiar a narrativa clássica do cinema.
+
+[A Febre do Rato]: {{< relref "a-febre-do-rato" >}}
+[O Som ao Redor]: {{< relref "o-som-ao-redor" >}}
 

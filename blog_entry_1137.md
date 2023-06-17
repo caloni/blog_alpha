@@ -1,44 +1,15 @@
 ---
-
-Este livro foi recomendado pela minha amiga para treinar para as entrevistas técnicas que ando fazendo. Escolhi ler este em seguida após terminar o [Algorithm For Dummies]({{< ref algorithms-for-dummies >}}). As primeiras anotações são como compor o CV e qual a estratégia de cada big tech nos seus processos. Escapei esta parte, não estou interessado em trabalhar em um Google da vida. Porém, há alguns detalhes que achei relevante recortar.
-
-Estava em cerca de 8% do livro e desisti. Suas dicas são deveras avançadas para quem está apenas querendo tirar a ferrugem de algoritmos. Iniciei um outro chamado A Common-Sense Guide to Data Structures que parece mais a minha cara.
-
-# Recortes
-
->
-> False negatives are acceptable. This is sad (and frustrating for candidates), but true. From the company's perspective, it's actually acceptable that some good candidates are rejected. The company is out to build a great set of employees. They can accept that they miss out on some good people.
-> (...)
-> They're far more concerned with false positives: people who do well in an interview but are not in fact very good.
->
-
-> Could you learn it as needed? Sure. But it's very difficult to know that you should use a binary search tree if you don't know of its existence. And if you do know of its existence, then you pretty much know the basics.
-
-> Whiteboards also tend to encourage candidates to speak more and explain their thought process. When a candidate is given a computer, their communication drops substantially.
-
->
-> If you are thinking right now that you have too much experience and can't fit it all on one or two pages, trust me, you can. Long resumes are not a reflection of having tons of experience; they're a reflection of not understanding how to prioritize content.
-> (...)
-> For each role, try to discuss your accomplishments with the following approach: "Accomplished X by implementing Y which led to z". Here's an example:
-> - Reduced object rendering time by 75% by implementing distributed caching, leading to a 10% reduction in log-in time.
-> Here's another example with an alternate wording:
-> - Increased average match accuracy from 1.2 to 1.5 by implementing a new comparison algorithm based on windiff.
->
-
-> Which one is faster? The first one does one for loop and the other one does two for loops. But then, the first solution has two lines of code per for loop rather than one. If you're going to count the number of instructions, then you'd have to go to the assembly level and take into account that multiplication requires more instructions than addition, how the compiler would optimize something, and all sorts of other details. This would be horrendously complicated, so don't even start going down this road. Big O allows us to express how the runtime scales. We just need to accept that it doesn't mean that O(N) is always better than O(N2).
-
-> We already said that we drop constants. Therefore, 0( N2 + N2) would be O ( N2 ). If we don't care about that latter N2 term, why would we care about N? We don't. You should drop the non-dominant terms.
-
-> If your algorithm is in the form "do this, then, when you're all done, do that" then you add the runtimes. If your algorithm is in the form "do this for each time you do that" then you multiply the runtimes.
-
-> This is a good takeaway for you to have. When you see a problem where the number of elements in the problem space gets halved each time, that will likely be a 0( log N) runtime.
-
-> Rather than making assumptions, let's derive the runtime by walking through the code.
-
+categories: []
+date: '2016-03-01'
+tags: null
+title: Crash no Windows Explorer
 ---
-categories:
-- reading
-- coding
-date: '2008-04-17'
-tags: []
-title: 'Crash Dump Analysis: o livro'
+
+Quem nunca se deparou com um sistema Windows em que o Explorer travasse ou crashasse de vez em quando? O problema com esse tipo de problema (recursividade...) é que ele pode ocorrer por infinitos motivos. Tão infinitos quanto os shell extensions, aquelas DLLs irritantes que são carregadas automaticamente por todo processo explorer.exe, e que portanto podem gerar infinitas maneiras de travar seu shell.
+
+Um que estava me incomodando já há algum tempo era um deadlock que acabava em restart do Explorer (isso é automático no Windows 10). Para verificar o que era, antes configurei a geração de dumps automática para que qualquer novo crash gerasse um arquivo de dump para eu analisá-lo. Só passou algumas horas para ter algo que pudesse trabalhar: um dump pode ser analisado pelo Visual Studio (qualquer versão) ou depuradores como WinDbg (do pacote Debugging Tools for Windows). Como análise exploratório, apenas o Visual Studio é suficiente, pois ele pode exibir coisas como os módulos carregados pelo processo e a pilha de chamadas da thread faltosa.
+
+No caso do dump que eu estava analisando, verifiquei que a thread que gerou o travamento continha uma DLL da NVidia. Essa DLL, de acordo com o AutoRuns, estava cadastrada no registro como um Context Menu Handler para o shell. Depois de desativá-la e iniciar uma nova instância do Explorer foi possível verificar que a DLL não estava mais sendo carregada pelo processo.
+
+E "magicamente" o travamento não aconteceu nos próximos dias =).
+

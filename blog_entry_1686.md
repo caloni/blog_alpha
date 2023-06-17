@@ -1,48 +1,144 @@
 ---
 categories:
-- reading
-date: '2018-08-26'
-tags: []
-title: 'George Orwell: Politics and the English Language'
+- coding
+date: '2007-12-11'
+title: Gerenciamento de janelas em C++ Builder
 ---
 
-Politics and the English Language é um texto do George Orwell sobre como escrever de forma mais clara que os confusos escritores de nossa época. A língua inglesa era o que ele estava defendendo, não contra o empobrecimento como muitos eruditos, mas contra o seu uso por si mesma, tornando a mensagem, a coisa mais importante em um texto, secundária. Ao mesmo tempo ele, que é ídolo de vários movimentos totalitários, dá umas alfinetadas tão específicas nos "revolucionários" de hoje em dia que é merecida a citação. Vamos começar:
+As janelas criadas no C++ Builder são equivalentes às janelas criadas pela API, com o detalhe que a VCL gerencia tudo automaticamente. Isso não quer dizer que não podemos tomar controle de tudo. Quer dizer que não precisamos.
 
-> The word Fascism has now no meaning except in so far as it signifies 'something not desirable'. 
+Abra o Builder. Um projeto padrão é criado. Agora no menu File, vá em New, Form. Isso adicionará um novo formulário ao projeto padrão. Pronto! Temos dois formulários. Agora se formos dar uma passeada no WinMain, vemos que o código para iniciar a VCL se alterou conforme a música:
 
-Sim, o uso indiscriminado das palavras gera isso, que é praticamente o único motivo das discussões sobre política na internet. Satisfeitos, corruptores da língua?
+    try
+    {
+    	Application->Initialize();
+    	Application->CreateForm(__classid(TForm1), &Form1);
+    	Application->CreateForm(__classid(TForm2), &Form2);
+    	Application->Run();
+    }
 
-> The words democracy, socialism, freedom, patriotic, realistic, justice have each of them several different meanings which cannot be reconciled with one another. In the case of a word like democracy, not only is there no agreed definition, but the attempt to make one is resisted from all sides. It is almost universally felt that when we call a country democratic we are praising it: consequently the defenders of every kind of regime claim that it is a democracy, and fear that they might have to stop using that word if it were tied down to any one meaning.
->
-> Other words used in variable meanings, in most cases more or less dishonestly, are: class, totalitarian, science, progressive, reactionary, bourgeois, equality. 
+Porém, se rodarmos a aplicação nesse momento, podemos notar que o programa exibe apenas a janela correspondente ao primeiro formulário. De fato, ao chamar o método Application->Run(), apenas o primeiro form criado é exibido. Isso não significa, é claro, que o segundo form não tenha sido criado. Para demonstrar como ele está lá, coloque o seguinte evento no clique de um botão do Form1:
 
-O parágrafo seguinte é o que venho tentando evitar desde que meu amigo me recomendou este excelente texto. E de fato, se você se acostuma a ler textos contemporâneos fica mal acostumado e sai escrevendo longas linhas de texto sem sentido, mas estilisticamente bonito:
+    #include "Unit2.h" // extern PACKAGE TForm2 *Form2;
+    
+    void __fastcall TForm1::Button1Click(TObject *Sender)
+    {
+    	Form2->Show();
+    } 
 
-> As I have tried to show, modern writing at its worst does not consist in picking out words for the sake of their meaning and inventing images in order to make the meaning clearer. It consists in gumming together long strips of words which have already been set in order by someone else, and making the results presentable by sheer humbug. 
+Agora ao clicar do botão a janela correspondente ao formulário número 2 também aparece. Podemos fechá-la e abri-la quantas vezes quisermos que o aplicativo continua rodando. Apenas ao fechar a janela no. 1 o aplicativo realmente encerra. Esse comportamento segue o mesmo padrão da função main() na forma clássica das linguagens C/C++:
 
-Para isso é necessário se fazer algumas perguntas antes de começar a escrever:
+    ShowMessage(
+      "O MainForm de Application"
+      " é o primeiro TForm criado."
+      " É o princípio e o fim,"
+      " o Alfa e o Ômega."
+      " Nele tudo começa"
+      " e tudo termina"
+    );
 
- - O que eu estou tentando dizer?
- - Qual palavra irá expressar isso?
- - Que imagem ou expressão irá tornar mais claro?
- - Essa imagem é atual suficiente para ter efeito?
- - Eu posso dizer de maneira mais sucinta? E, por último:
- - Eu disse alguma coisa feia que posso evitar?
+Podemos, também como em C/C++ padrão, finalizar explicitamente a aplicação chamando o método Application->Terminate. O MainForm em tempo de execução é uma propriedade de somente leitura de Application. Em tempo de design, ele pode ser alterado pela ordem de criação dos formulários no código ou pela IDE em Project, Options, Forms. Lá você também escolhe quais forms serão criados automaticamente.
 
-> A scrupulous writer, in every sentence that he writes, will ask himself at least four questions, thus: What am I trying to say? What words will express it? What image or idiom will make it clearer? Is this image fresh enough to have an effect? And he will probably ask himself two more: Could I put it more shortly? Have I said anything that is avoidably ugly? 
+Esse funcionamento e automação na criação de janelas da VCL foi feita para facilitar a vida do programador. Contudo, nunca estamos presos a somente isso. As maneiras das coisas funcionarem apenas refletem o uso mais comum no ambiente e não tem como função limitar a criatividade do desenvolvedor.
 
-Orwell também ensina como os discursos políticos são moldados para que as ações não aceitas pela sociedade se tornem magicamente como um ato de patriotismo, como matar "inimigos":
+Para exemplificar, vamos inverter as coisas. Coloque um botão no segundo formulário que finalize o programa de maneira explítica:
 
-> Consider for instance some comfortable English professor defending Russian totalitarianism. He cannot say outright, 'I believe in killing off your opponents when you can get good results by doing so'. Probably, therefore, he will say something like this: 'While freely conceding that the Soviet regime exhibits certain features which the humanitarian may be inclined to deplore, we must, I think, agree that a certain curtailment of the right to political opposition is an unavoidable concomitant of transitional periods, and that the rigors which the Russian people have been called upon to undergo have been amply justified in the sphere of concrete achievement.' 
+    void __fastcall TForm2::Button1Click(TObject *Sender)
+    {
+    	Application->Terminate();
+    } 
 
-Por último, uma lista de coisas a evitar:
+Agora, no evento de OnClose (acho que você conhece o Object Inspector, não? Bom, se não conhece, talvez isso mereça um [artigo à parte]) do TForm1 insira o seguinte código:
 
- - Nunca use uma metáfora ou figura de linguagem que você se acostumou a ver na mídia.
- - Nunca use uma palavra longa onde uma curta já serve.
- - Se é possível cortar uma palavra, sempre corte.
- - Nunca use a voz passiva onde pode usar a ativa.
- - Nunca use uma frase ou expressão estrangeira, palavra científica ou jargão se você pode usar palavras do cotidiano no lugar.
- - Quebre qualquer uma dessas regras antes que você diga algo digno de um bárbaro.
+    void __fastcall TForm1::FormClose(TObject *Sender, TCloseAction &Action)
+    {
+    	Action = caNone;
+    } 
 
-Never use a metaphor, simile, or other figure of speech which you are used to seeing in print. Never use a long word where a short one will do. If it is possible to cut a word out, always cut it out. Never use the passive where you can use the active. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent. Break any of these rules sooner than say anything outright barbarous.
+Pronto! Agora você decide onde termina e onde acaba sua aplicação.
+
+{{< image src="cppbuilder-forms.png" caption="C++ Builder Forms" >}}
+
+Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o loop de mensagens que [já conhecemos].
+
+Para analisarmos melhor o que ocorre nos internals da coisa, criei um projeto simplista que possui dois forms, ambos com quatro botões: 1) mostrar o outro form, 2) esconder a si mesmo, 3) fechar a si mesmo e 4) terminar aplicação. Os dois formulários são tão parecidos que desconfio que sejam gêmeos.
+
+Além disso, iremos precisar do nosso velho e fiel amigo WinDbg, o que o trás de volta à cena do crime depois de alguns artigos de jejum. Para saber mais sobre o WinDbg e dar suas "WinDbgzadas", [faça uma busca] no blogue.
+
+A primeira coisa que um loop de mensagens deveria fazer seria chamar a função GetMessage, que obtém a primeira mensagem em espera na fila de mensagens da thread chamadora. Portanto, vamos dar uma olhada nas chamadas dessa função:
+
+    windbg Project1.exe
+    0:001> g
+    ModLoad: addr module1.dll
+    ModLoad: addr module2.DLL
+    ModLoad: addr module3.dll
+    ...
+    Ctrl+Break
+    0:001> bm /a user32!GetMessage?
+    1: 7e4191c6 @!"USER32!GetMessageW"
+    2: 7e42e002 @!"USER32!GetMessageA"
+    0:001> g
+
+E o resultado é... nada! Mesmo mexendo com a janela e apertando seus botões não há uma única ocorrência do GetMessage. Bruxaria? Programação oculta?
+
+Nem tanto. Uma alternativa ao GetMessage, que captura a primeira mensagem da fila de mensagens e a retira, é o PeekMessage, que captura a primeira mensagem da fila, mas mantém a mensagem na fila. Por algum motivo, os programadores da Borland fizeram seu loop de mensagens usando PeekMessage.
+
+    0:001> bc*
+    0:001> bm /a user32!PeekMessage?
+      1: 7e41929b @!"USER32!PeekMessageW"
+      2: 7e41c96c @!"USER32!PeekMessageA"
+    0:001> g
+    Breakpoint 2 hit
+    eax=00b1c6b0 ebx=00000000 ecx=0012ff44 edx=0012fef8 esi=00b1c6b0 edi=0012fef8
+    eip=7e41c96c esp=0012fec8 ebp=0012ff44 iopl=0         nv up ei pl zr na pe nc
+    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
+    USER32!PeekMessageA:
+    7e41c96c 8bff            mov     edi,edi
+
+Agora, sim!
+
+Analisando os parâmetros da função PeekMessage podemos obter algumas informações interessantes sobre uma mensagem, como seu código e a janela destino:
+
+    0:000> dd @$csp L2
+    0019fe9c  4005aa1c 0019fec8
+    0:000> dd poi(@$csp+4) L6
+    0019fec8  00160708 00000113 00000001 00000000
+    0019fed8  0869c6e1 00000244
+
+Podemos bater essas informações com as do aplicativo Spy++, que captura janelas e suas mensagens:
+
+    0:000> bd *
+    0:000> g
+
+Normalmente esses dois rodando juntos podem causar alguns conflitos internos. Por isso, quando for usar o Spy++, procure desabilitar seus breakpoints. Após mexer no Spy++, feche-o antes de continuar depurando.
+
+{{< image src="spyxx-window-search.png" caption="Spy++ Window Search" >}}
+
+{{< image src="spyxx-window-search-result.png" caption="Spy++ Window Search Result" >}}
+
+Como podemos ver, nesse caso a janela encontrada foi justamente a que não aparece: TApplication! Sim, a classe principal da VCL é representada em runtime por uma janela escondida, que controla algumas mensagens específicas da aplicação.
+
+Tem tudo a ver! Mais do que simplesmente programar interfaces, esses conhecimentos permitem fazer a análise de qualquer aplicativo que possua um loop de mensagens. O importante descoberto aqui é que o C++ Builder, assim como o .NET, o Java e o "próximo framework gerenciado", não pode escapar da fatal realidade de que, para exibir janelas, o aplicativo deverá dançar a música da API Win32.
+
+    0:001> bc*
+    0:001> bp user32!PeekMessageA ".echo PeekMessage; g"
+    0:001> bp user32!DispatchMessageA ".echo DispatchMessage; g"
+    0:001> g
+    PeekMessage
+    DispatchMessage
+    PeekMessage
+    DispatchMessage
+    PeekMessage
+    ...
+    DispatchMessage
+    PeekMessage
+    eax=77c3f88a ebx=00000000 ecx=77c3e9f9 edx=77c61a70 esi=7c90e88e edi=00000000
+    eip=7c90eb94 esp=0012fe64 ebp=0012ff60 iopl=0         nv up ei pl zr na pe nc
+    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
+    ntdll!KiFastSystemCallRet:
+    7c90eb94 c3              ret
+
+[artigo à parte]: {{< relref "introducao-ao-c-builderturbo-c" >}}
+[já conhecemos]: {{< relref "historia-do-windows-parte-30" >}}
+[faça uma busca]: http://www.caloni.com.br/posts/?q=windbg
 

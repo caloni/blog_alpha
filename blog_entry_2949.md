@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2019-06-05'
-link: https://www.imdb.com/title/tt0201003
+date: '2014-10-04'
+link: https://www.imdb.com/title/tt0114814
 tags:
 - movies
-title: Os Raptores
+title: Os Suspeitos
 ---
 
-Um dos DVDs perdidos por aqui é esse Os Raptores, policial brasileiro do final dos anos 60, que se você assistir vai chegar à seguinte conclusão: havia muitos Fuscas no Rio e as pessoas falavam um português formal muito engraçado.
+Em 1995 Kevin Spacey entrou em uma dobradinha (favor ignorar "Epidemia") que virou clássica nos filmes de suspense e policiais. "Seven: Os Sete Crimes Capitais" remodelou o gênero de serial killer em uma conclusão que deixou muita gente filosofando por meses a fio (os mais fanáticos, como eu, até hoje). E Os Suspeitos ganhou a mesma fama (esse eu cheguei a ver no cinema, tinha acabado de completar 16 ou quase). Ambos são filmes em que o mal prevalece? Não necessariamente. Temos aí uma relativização assimétrica do mal. Os policiais nem sempre são bonzinhos. Por outro lado, os bandidos continuam maus, mas agora assumem o papel de justiceiros involuntários.
 
-Mas isso é normal. Meus avós falavam assim. O estranho é haver tantas informações nos diálogos desse filme. As testemunhas entregam praticamente um dossiê para o investigador, só faltando datilografar para os autos. Percebe-se também aquela tara por processo jurídico.
+O que empolga durante os rapidíssimos 106 minutos do filme de Bryan Singer (da série X-Men) é a desenvoltura de um interrogatório informal que se desenvolve de maneira natural a partir de um criminoso menor que resolveu dar a língua nos dentes: Roger 'Verbal' Kint (Spacey). Apelidado por falar muito, é curioso que em todos os flashbacks que acompanhamos da história de Verbal ele quase não fala, ainda que seja conhecido como o "homem do plano" em todos os golpes aplicados por uma gangue aleatoriamente formada durante uma caça a suspeitos de um roubo de caminhão anos atrás.
 
-A direção é pedestre e engraçada, daquelas que sabemos que os atores estão sendo dublados (em estúdio) e com cortes entre as cenas que sabemos que foram feitas sob outra luz e provavelmente outro dia. Por outro lado é curioso o efeito de aproximar o rosto dos atores em diálogos, sabendo que não é possível colocar uma câmera àquela distância e manter o outro ator do lado. Nessa lista de gafes entra também as cenas que foram filmadas sem foco ou com foco oscilando.
+Verbal possui um ar infantilizado, quase inofensivo. Sua deficiência no pé parece favorecer isso, mas são suas expressões e seu tom de voz que apontam para qualquer um presente que ele chega a quase ser uma vítima das circunstâncias. Porém, como pode ser isso se era ele que planejava as ações criminosas?
 
-A história é sobre dois golpes de sequestro-relâmpago executados por uma quadrilha cujo mandante é uma pessoa erudita. Ele dá as ordens com um ar de conhecimento superior aos outros, mas ao mesmo tempo sentimos que ele também não é de confiança. A história é boa, mas a produção nem tanto. Ele se disfarça com peruca e barba branca, além de mancar, mas seus capangas nem isso percebem.
+Aí entra a parte mais fascinante do roteiro de Christopher McQuarrie (No Limite do Amanhã): temos apenas o testemunho de Verbal durante todo o filme, e exceto por uma ou outra pista eventual a única forma de ligar os pontos em sua história é a partir dela mesma. Qual a realidade que Verbal está montando em sua cabeça? Quais seus objetivos? Por que um aleijado inútil mentiria? Os diálogos em ritmo frenético contribuem para nossa percepção caótica dos eventos, e Verbal parece ser a única maneira de juntar as peças.
 
-Este é um filme que hoje vale pela curiosidade. Acompanhar as investigações é uma atividade prazerosa no filme. Quem não gosta de um filme policial? Que tal ver como eram filmados no Brasil na década de 60 e produzidos por ninguém menos que Herbert Richers?
+Tendo pouquíssimos pontos fracos em sua trama (como a falta de perspicácia de um delegado facilmente influenciável) Os Suspeitos é exemplo de roteiro, de direção e de atuação, mas mais que isso: é um exemplo de vida. Quantas vezes somos levados pela versão dos fatos a concluir exatamente o que as pessoas que estão narrando esse "fato" desejam que concluamos? Quantas vezes precisamos acordar o nosso cérebro para discernir entre uma realidade que gostaríamos que fosse verdade e a versão mais plausível e menos floreada? Ou pior: geralmente somos nós que queremos chegar à essa conclusão (como acontece no filme). A realidade é mais fascinante que a ficção, mas infelizmente ela não dispõe da vantagem de ter um efusivo narrador em seu apoio.
 

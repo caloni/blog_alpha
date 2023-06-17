@@ -1,16 +1,18 @@
 ---
 categories:
 - writting
-date: '2016-06-06'
-link: https://www.imdb.com/title/tt1937390
+date: '2013-07-14'
+link: https://www.imdb.com/title/tt0155711
 tags:
 - movies
-title: 'Ninfomaníaca: Volume 1'
+title: Ninguém é Perfeito
 ---
 
-Antes mesmo de ser anunciado, a ideia de um filme sobre uma ninfomaníaca dirigido pelo pessimista Lars von Trier (Dogville, Melancolia, Dançando no Escuro) já fazia todo o sentido: experimentando uma vida vazia de significado, mas cheia de sexo por todos os lados, a história de Joe (Charlotte Gainsbourg) atravessa todos os períodos da sua vida e aparentemente não há qualquer resquício nela de prazer, paixão ou saudade. Tendo que ser dividido em volumes por causa de sua longa duração, a experiência ainda recebe toques metalinguísticos, pois "Ninfomaníaca, Volume I" é uma experiência tão incompleta e inacabada quanto a sintomática personagem, vivida por Charlotte Gainsbourg de maneira amargurada ao calcular todo o mal que já fez para o mundo.
+Robert de Niro é Walt Koontz, um policial aposentado como herói. Philip Seymour Hoffman é Rusty, uma drag queen que canta em uma boate gay em seu próprio show. Ambos vivem em um prédio decadente dos subúrbios, e Walt odeia a ideia de conviver com esses seres bizarros, até que um roubo entre criminosos faz ambos se encontrarem e terem que conviver com suas diferenças.
 
-Por outro lado, o lado mais inesperado do filme é seu humor, e me admirei por estar rindo em um filme desse diretor. Conseguindo equilibrar a narrativa através de episódios bem definidos e tendo como interlocutor um homem culto (Stellan Skarsgård) e dotado de conhecimentos dos mais diversos que permitem que ele faça inúmeras analogias entre sexo e atividades aparentemente sem relação (como pescaria), o roteiro, também assinado por von Trier, pula entre períodos da vida de Joe com extrema facilidade e leveza, tornando a nossa percepção de sua vida menos impactante do que poderíamos esperar.
+Não é preciso comentar que ambos os atores são talentosos o suficiente para trazer vida a seus personagens sem os tornarem caricatos. Seymour Hoffman está irreconhecível, mas não particularmente tocante: o tom bizarro do filme impede nossa identificação. O mesmo pode-se dizer de Robert de Niro, que não possui diálogos particularmente inspiradores nem a chance de dizê-los. Porém, esse é um filme mais de momentos, gestos e faces que dizem muito mais sobre o que está ocorrendo em cena.
 
-No entanto, isso são apenas conjecturas de um trabalho ainda a ser apreciado em sua plenitude. Não sabemos se o futuro de Joe nos reserva mais luzes ou trevas. Tudo que sabemos é que ela foi encontrada inerte e machucada no chão duro do inverno. Se haverá ou não primavera, essa é uma surpresa que aguardo ansiosamente.
+Exatamente por causa disso, a direção de Joel Schumacher (Batman Eternamente) erra a mão ao não tornar o encontro entre esses dois em algo intimista. A visão geral é que pessoas bizarras existem, e não são exatamente ou apenas drag queens. Talvez seja até o oposto.
+
+Nesse sentido, talvez valha a pena uma revisita a este filme daqui uns anos.
 

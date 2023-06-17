@@ -1,15 +1,20 @@
 ---
 categories:
 - writting
-date: '2023-03-26T12:47:45-02:00'
+date: '2017-11-23'
+link: https://www.imdb.com/title/tt3469046
 tags:
 - movies
-title: Meu Irmão é Filho Único
+title: Meu Malvado Favorito 3
 ---
 
-Este filme estreou quando eu já conhecia a Mitiko, em 2007, mas nunca havia ouvido falar. Ele é italiano, se passa no pós guerra e seu herói é um fascista. Além de estar do lado certo da história luta bravamente contra o irmão e a namorada, comunistas de carteirinha. Depois que o rapaz transa vira comunista, demonstrando a personalidade de pessoas relaxadas e relapsas.
+Esta é uma continuação nos mesmos moldes do primeiro e do segundo filme. O mesmo estilo de piada nos acompanha, seja de Gru, de Agnes, das outras meninas, da sua agora namorada, e agora do seu irmão gêmeo e um vilão que, ao contrário do primeiro moderninho Vetor, agora é um bandido ao estilo anos 80. E também descobrimos que o pai de Gru era um vilão estilo anos 60, digno dos filmes de James Bond. Ou Austin Powers.
 
-Há uma parte hilária onde Ode à Alegria de Beethoven é adaptada porque os comunistas estão cansados de lembrar da música associada ao movimento de extrema direita por causa da irmandade e confraternização que ela exala. Então eles começam a citar na letra Mão Tse Tung, Trotsky, Lenin. É uma pataquada.
+Todo esse emaranhado é traçado por um fiapo de história que está interessado principalmente nas piadas. E elas funcionam. Principalmente com os Minions. Criaturinhas curiosas, essas. Parecem um receptáculo das piadas mais escrotas que poderiam estar em um desenho animado. E elas funcionam. Pelo menos para os adultos mais crianças, ou as crianças mais adultas.
 
-Este é um ótimo filme. Ele cria um triângulo amoroso desajeitado em torno de uma família pobre comum e os detalhes ao longo das décadas vamos descobrindo pelo ponto de vista do filho mais esperto, o fascista, que muda de ares algumas vezes e que se mantém fiel à ideia, como seu amigo Mário lhe recomendou. Sempre se manter fiel à ideia se torna uma lei para se manter são e vivo nos tempos modernos. Mais tarde nosso herói come a esposa de Mario, que vai preso. A esposa de Mario é uma gostosona. Justificável, é um filme de arte e todos gostamos de sexo e fascismo.
+Além disso, há fofice no ar com Agnes, e ela quase sempre rouba a cena. Está em busca de um unicórnio em uma floresta. É impressionante como nada tem muita lógica nos filmes dessa série, mas por algum motivo nos esquecemos disso e deixamos passar. Parece pelo bem da diversão. Esqueçamos um pouco Disney/Pixar, Dreamworks. Essas grandes, sim, precisam zelar por muito. Aqui temos apenas que dar boas risadas.
+
+E elas acontecem, mais do que o tédio. Há criações visualmente curiosas, como um avião estilo navio-pirata que conduz vários minions agrupados em um saco feito com roupas de presidiários. Mas uma torre-fortaleza do vilão dos anos 80 com um cubo mágico em cima foi de matar. Pior que isso só usar um Genius (aquele brinquedo de memória), walkman, gomas de mascar e clássicos da música da época. Ainda assim, fica difícil reclamar de um filme tão simpático.
+
+E é por isso que Meu Malvado Favorito 3 é um filme razoável, mesmo não tentando fazer nada de novo. Ele simplesmente é entretenimento que não pisa muito na bola. Não espere mais nada que o primeiro e um pouco menos que o segundo e estará bem.
 

@@ -1,99 +1,26 @@
 ---
 categories:
-- reading
-date: 2018-07-15 21:53:55-03:00
-tags: []
-title: Stanford Encyclopedia of Philosophy para Kindle
+- writting
+date: '2011-05-27'
+link: https://www.imdb.com/title/tt0120915
+tags:
+- movies
+title: 'Star Wars, Episódio I: A Ameaça Fantasma'
 ---
 
-A enciclopédia mais completa e de maior respeito da internet não é um enciclopédia geral, mas uma de filosofia. Está hospedada na Universidade de Stanford e possui revisão por pares e toda a autoridade de ser escrita por especialistas nos verbetes em questão. O único problema (até agora) era não ser possível baixá-la para degustar no Kindle. Até agora.
+Quando se mexe com algo sagrado como a trilogia clássica de Star Wars ou alguém está produzindo uma sátira ou essa pessoa é George Lucas. Por mais que os fãs apontem defeitos e/ou sugestões, o Criador da saga sempre teve palavra final. Portanto, não é de se admirar que a nova trilogia comece com seu roteiro, direção, e autoridade.
 
-Para realizar esta operação será necessário usar as seguintes ferramentas:
+Porém, autoridade não é sinônimo de competência. Não que o resultado final seja ruim, de fato, mas acaba se tornando reflexo do enorme poder de influência dos filmes anteriores, causando um certo tipo de "empolgação por tabela".
 
- - wget
- - sed
- - sort
- - Calibre
+Aqui temos a história de um evento na República que ameaça Rainha Amidala e seu povo, ao mesmo tempo que um Jedi encontra um menino dotado de capacidades especiais. Ambientada em diferentes planetas, como de costume, e em diferentes contextos, a narrativa mantém um subtexto através de pistas nos diálogos, no movimento de câmera e na música que tentam sempre definir o que está por vir, que é o surgimento de Darth Vader, o personagem mais marcante da trilogia clássica. A tentativa acaba funcionando na maioria dos casos, embora apresente pistas de uma maneira tão discreta que em um primeiro momento poderia passar despercebido pela maioria dos espectadores, o que é uma pena, pois é esse subtexto que é construído durante a trama que nos remete à história original e que une as pontas entre as diferentes aventuras da saga.
 
-O projeto de conversão foi feito pensando em usuários do Windows, mas pode ser adaptado facilmente para qualquer ambiente. Se trata de um conjunto de arquivos batch (script) que realiza vários comandos, a saber:
+São detalhes que já sinalizam o que vai acontecer, como a música-tema do Império quando Yoda confessa a Obi-Wan Kenobi (McGregor) que teme pelo treinamento de Anakin Skywalker (Lloyd), ou quando os Jedis comentam que os Siths, algo como "Jedis do mal", costumam andar sempre em pares (um aprendiz e um mestre), no que a própria câmera dá uma pista, uma prova da astúcia de Lucas de implantar pequenas dicas para os fãs mais atentos. E, ao final dos créditos, pode-se ouvir a respiração do personagem já citado.
 
-### calibre_download.bat (baixa conteúdo do site da Stanford)
+Porém, algumas construções não foram articuladas o suficiente para nos ausentar de algumas surpresas de roteiro, como o fato de Padme confessar que nunca deixará de cuidar de Anakin, sendo que não havia nenhum laço definido entre os dois que indicasse tamanha intimidade no "relacionamento" entre eles. Mais engraçado é que essa informação remete à nova trilogia, em uma tentativa agora de juntar as pontas nos três novos filmes, algo menos necessário e feito de maneira desajeitada.
 
-Este batch baixa todo o conteúdo do site da Stanford em um único diretório. O processo pode demorar mais ou menos, dependendo da sua banda, mas aqui em casa (50MB) demorou cerca de meia-hora pra mais.
+Ainda que existam indícios que unem os contextos da série, o fato é que nem sempre histórias, para serem contadas por completo, exigem o conjunto de três episódios. Portanto é compreensível que se entenda o primeiro desses episódios do ponto de vista puramente comercial, pois, se analisarmos em que Episódio I contribui para a saga como um todo, constataremos que quase nada, pois a história é, no máximo, episódica, necessário para apresentar personagens (tal como Superman I), mas como estamos falando aqui de uma narrativa das origens de personagens já existentes por três filmes seguidos, acaba por perder a Força.
 
-```
-wget --recursive --domains plato.stanford.edu --page-requisites --no-parent --convert-links --restrict-file-names=windows --no-directories --html-extension https://plato.stanford.edu/contents.html 
-```
+Ainda assim, alguns detalhes chegam a ser interessantes, e só. É curioso, por exemplo, notar a diferente postura dos Jedis frente a uma espera durante o conflito (o que por si só representa a postura frente à mesma Força). Ao mesmo tempo, se a intepretação de Ian McDiarmid como senador Palpatine não chega a ser primorosa, é envolvente e misteriosa o suficiente para dar as primeiras pistas de suas reais intenções (o melhor exemplo é seu sorriso disfarçado ao final de uma cena-chave da trama).
 
-### calibre_clean_files.bat (limpa início e fim das entradas)
-
-Este batch chama dois outros batch, call calibre_remove_head.bat e call calibre_remove_bottom.bat, que limpam das entradas os cabeçalhos e finais em comum que são repetitivos e desnecessários para gerar um ebook, como links úteis de navegação. Como as entradas do site já possuem marcadores, isso facilitou o trabalho.
-
-#### calibre_remove_head.bat
-
-```
-for %%i in (index.html.*.html) do sed -n -i "/BEGIN ARTICLE HTML/,$p" %%i
-```
-
-#### calibre_remove_bottom.bat
-
-```
-for %%i in (index.html.*.html) do sed -i "/END ARTICLE HTML/,$d" %%i
-```
-
-### calibre_entries.bat (gera índice com as entradas)
-
-Esta batch gera os índices das entradas baseado em seus títulos, e os nomes dos arquivos serão usados para links no TOC do Calibre.
-
-```
-if exist calibre_entries.txt del calibre_entries.txt
-for %%i in (index.html.*.html) do calibre_title.bat %%i >> calibre_entries.txt
-sed -i -e "s/<em>//" -e "s/<\/em>//" calibre_entries.txt
-```
-
-### calibre_entries_clean.bat (limpa formatação das entradas)
-
-Algumas entradas possuem o marcador **em**, que deve ser retirado antes de ordenar os títulos.
-
-```
-sed -i -e "s/<em>//" -e "s/<\/em>//" calibre_entries.txt
-```
-
-### calibre_entries_sort.bat (ordena entradas por título)
-
-Se não ordenarmos por título o único índice de nosso livro será inútil.
-
-```
-sort calibre_entries.txt > calibre_entries_sorted.txt
-```
-
-### Apagar duplicatas
-
-Ao final do processo com o wget percebi que algumas entradas foram baixadas mais de uma vez. Várias delas. Por isso eliminei as duplicatas usando um programa Windows chamado [doublekiller.exe](https://www.bigbangenterprises.de/en/doublekiller/), mas basta você usar qualquer ferramenta que encontra os .html da mesma pasta que possuem o mesmo hash e eliminar as duplicadas. Isso deve ser feito nesse passo antes de:
-
-### calibre_entries_to_template.bat (converte entradas da enciclopédia para o template do Calibre)
-
-Essa parte do processo precisa converter as entradas no formato Título Link para entradas HTML com a tag **a**, no formato que o Calibre espera:
-
-```
-sed -e "s/\(^.*\) \(index.*$\)/        <a href=\"\2\">\1<\/a><br\/>/" calibre_entries_sorted.txt > calibre_template_entries.html
-```
-
-### calibre_merge_templates.bat (junta início, meio e fim do template do Calibre)
-
-Por fim, antes de usar o Calibre é necessário juntar os arquivos de template em um arquivo final de TOC, o calibre.html. Ao final desse processo passaremos ao Calibre em si.
-
-```
-copy /Y calibre_template_begin.html+calibre_template_entries.html+calibre_template_end.html calibre.html
-```
-
-### Usar Calibre para abrir calibre.html
-
-Para realizar este passo basta arrastar ou abrir o arquivo html central que foi criado, e a partir dele iniciar a conversão. Note que após arrastar já será criado um zip com todos os HTMLs relacionados.
-
-### Converter HTML zipado em outros formatos
-
-Após abrir pelo Calibre ele insere na biblioteca e é só converter para MOBI (Kindle) ou EPUB (outros leitores) ou qualquer outro formato desejado. A nota final aqui é que como se trata de um arquivo gigantesco (50 MB em HTML zipado, 80 MB em MOBI) é melhor baixar a versão 64 bits do Calibre e ter muita memória RAM. Voilà!
-
-E por hoje é só. Se tudo der certo você poderá copiar e colar dentro do seu leitor todas as entradas de uma enciclopédia indispensável para quem está estudando filosofia. Enjoy.
+Outras cenas são pura diversão, como a corrida de podracers, que faz uma discreta homenagem à corrida de bigas de Ben-Hur.
 

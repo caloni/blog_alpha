@@ -1,19 +1,17 @@
 ---
 categories:
 - writting
-date: '2012-01-11'
-link: https://www.imdb.com/title/tt0119711
+date: '2022-02-22T21:30:08-03:00'
 tags:
 - movies
-title: Mãe e Filho
+title: Mães Paralelas
 ---
 
-Para aqueles que possuem prazer estético pelo Cinema e possuem paciência para narrativas não-convencionais como o recente e polêmico [A Árvore da Vida], vale a pena uma olhada nesse Mãe e Filho, do diretor Aleksandr Sokurov, o mesmo do igualmente "arrastado" (mas belíssimo) [Arca Russa].
+Um Almodóvar com toda a pompa e universo almodovariano sobre bebês trocados no nascimento e uma Penélope Cruz imersa e no meio de diferentes pontos de vista. Essa tensão entre os personagens é rica como de costume, mas o terceiro ato se infla de uma importância que se perde depois da revelação final, que não é impactante nem catártica. Fica a novela, mas o pano de fundo histórico e até talvez político não se torna o personagem oculto antes de se mostrar como um mero detalhe contratual da produtora Netflix, incentivadora desses assuntos.
 
-O filme narra a relação entre uma mãe já debilitada e seu filho, tudo que ela tem. A história tem seu sentido semântico, mas o que mais impressiona no filme é o uso das lentes e ângulos para montar a cada cena um quadro belíssimo, que exalta exatamente essa relação maternal e deixa todo o resto não exatamente desfocado, mas desapegado da realidade, como em uma pintura à óleo. Exatamente por isso, Sokurov usa tomadas lentas, que param por vários segundos (ou até mesmo minutos!) em um quadro que não se move, mas que apresenta uma beleza e um significado ímpares.
+A opinião de Almodóvar está sonora e clara em uma fala de uma personagem que passa batida. Ela diz que gostaria muito de ser atriz, mas começou tarde e seu jeito burguês não facilita. "Todos que trabalham no ramo são de esquerda. Eu sou apolítica. Gosto de mostrar meu trabalho para todos."
 
-Não há trilha sonora, quase não há efeitos sonoros ou diálogos. Porém, há algo inestimável nesse filme: uma visão diferente. Algo para pensar, nem que seja sobre o que o Cinema representa em obras como essa, ou o que ele consegue evocar apenas com a escolha certa de elementos minimalistas e aprofundar na expressividade com nada mais que isso.
+Nós entendemos, senhor diretor. Mas como sem agenda política não tem dinheiro o filme, que nem precisaria ter fundo político, vem vilipendiado, e longo demais da conta.
 
-[A Árvore da Vida]: {{< relref "a-arvore-da-vida" >}}
-[Arca Russa]: {{< relref "arca-russa" >}}
+Mas ele é bem feito, possui todos elementos que os fãs do cineasta irão se identificar. E é isso que importa afinal de contas. São tempos em que a arte importa menos que o discurso e a afirmação do ego dos que assistem.
 

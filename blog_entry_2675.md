@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2014-02-07'
-link: https://www.imdb.com/title/tt0118715
+date: '2012-12-12'
+link: https://www.imdb.com/title/tt1764234
 tags:
 - movies
-title: O Grande Lebowski
+title: O Homem da Máfia
 ---
 
-Um filme é basicamente contar uma história. A forma como você conta é que pode fazer toda a diferença entre um pedaço inútil de película (ou bits) ou um grande filme que, faça rir, faça chorar, mas, principalmente, faça pensar.
+Esse é um ótimo filme sobre as ações e decisões de um grupo de mafiosos a respeito do destino do seu negócio de jogatina. Basicamente o que se coloca em jogo é a confiança dos donos dessas casas depois que um deles, Markie Trattman (Ray Liotta), rouba seu próprio negócio. O que o torna um filme excepcional é que essa manutenção da confiança no sistema ilegal de jogos de azar traça um paralelo direto com a crise econômica nos Estados Unidos iniciada em 2007 e que até hoje ecoa pelas casas vazias e massas de desempregados cheios de dívidas. A confiança no sistema financeiro também foi abalada naquele momento e algo teve que ser feito.
 
-E é com esse ímpeto narrativo que O Grande Lebowski, dos irmãos Coen (Um Homem Sério, Onde os Fracos Não Têm Vez), consegue subverter o clímax final de uma história que diverte do começo ao fim e entrega tantos momentos icônicos que depois de duas horas você ainda está pronto para mais umas dez. Falando de comédia, cujo gênero produz filmes que não costumam passar de uma hora e meia, esse é um feito e tanto.
+O que o governo fez e faz para resolver o rombo em suas estruturas é o tema-recheio que se expande através dos olhos aguçados do roteirista Andrew Dominik, baseado no romance de George V. Higgins. No entanto, o que é mais impressionante é que o romance de Higgins, Cogan's Trade, foi publicado em 1974, e o que resta hoje são os vários diálogos que fazem parte de capítulos inteiros do livro, que preferem ruminar sobre a psicologia dos seus criminosos do que a ação em si.
 
-Diferente da obra-prima Fargo, aqui não existe aquela parte tensa do drama familiar. O Lebowski do filme, ou, como ele prefere ser chamado, "O Cara", vive sozinho, e seus parceiros no boliche são o mais próximo que ele poderia chamar de família. Para um protagonista cujo narrador em off (Sam Elliott) apresenta como que detentor de grandes feitos (apesar de não afirmar isso), ele é bem idiota. Um hilariante e surpreendente idiota Jeff Bridges (Tron: O Legado, Bravura Indômita, também com os irmãos Coen). Porém, o que o filme nunca faz é debochar de nosso herói. Pelo contrário: nos impressionamos cada vez mais com as reviravoltas de uma trama simples que vai aos poucos acrescentando mais e mais personagens (com um ótimo elenco), onde facilmente percebemos a bagunça que se forma na cabeça do confuso Cara.
+Nesse sentido, o plot do livro cai como uma luva. Utilizando o som de rádios e televisões que sintonizam a voz do na época senador Barack Obama e o presidente George W. Bush, as decisões políticas entrecortam os diálogos dos criminosos no filme. As cenas de ação são poucas, mas possuem uma intensidade incrível, além de um prazer estético que flertam com o Tarantinesco, só que com muito mais profundidade. Destaco dois: a longa sequência sem cortes de entrada e saída da casa de jogos, cuja tensão final é hipnotizante; o assasinato dentro do carro, cujas balas acompanham o movimento da música.
 
-Como todo filme dos diretores/roteiristas, esse é daqueles com uma fotografia estilizada ao máximo com uma seleção de músicas e referências que nunca cansam. A história se passa nos anos 70 ou 80, o que não importa muito exceto pela falta de celulares. Mesmo contando com um roteiro não-ortodoxo, o filme entrega os velhos clichês do mocinho fazendo sexo ou se encontrando com o chefão da maneira mais divertida possível. Não é à toa que a casa do magnata da pornografia lembre o covil de um dos inúmeros vilões de James Bond, com o detalhe que nesse caso estamos falando de um 007 às avessas.
+No entanto, mesmo que as cenas de ação mereçam um destaque são os diálogos que prendem a atenção pelas atuações sempre interessantes de todo o elenco, sempre parecendo ter algo mais a dizer. Brad Pitt como o frio e calculista Jackie mata a pau no início e no fim, mas o diálogo que ele tem com Frankie no bar a respeito dele ter opções é um momento icônico para a trama justamente pela expressão na cara de Scoot McNairy. E mesmo o insuportável Mickey (James Gandolfini) é uma caricatura construída exatamente para se tornar insuportável aos nossos olhos, para que nós mesmo percebamos que ele não é o cara certo para o serviço. E se Ray Liotta faz aqui uma participação mega-especial como o dono de jogatina Markie Trattman, e cujo caráter do personagem faz eco com seu personagem em [Os Bons Companheiros], a cereja do bolo é mesmo Ben Mendelsohn, que faz um Russell estúpido e crível, e cujas cenas onde está chapado servem tanto como exercício estilístico, como a bela transição entre a fumaça e as lanternas do carro, quanto como mais uma caracterização metafórica que deixa em aberto quais são os papéis dessas pessoas na jogatina profissional e os senhores que a controlam: respectivamente a bolsa de valores e o sistema financeiro/político americano.
 
-No final, é surpreendente que todas as lacunas de uma história recortada (leia-se sem pé nem cabeça) vá se fechando sempre da maneira mais plausível e provável. Ao concluir toda uma trajetória torta nunca nos surpreendendo faz nos sentir quase como idiotas. Porém, essa é mais uma das inúmeras virtudes do roteiro. Afinal de contas, não é esse o objetivo de toda narrativa "épica": nos fazer sentir como o herói do filme?
+[Os Bons Companheiros]: {{< relref "os-bons-companheiros" >}}
 

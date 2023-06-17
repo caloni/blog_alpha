@@ -1,22 +1,20 @@
 ---
+
+Tudo que é britânico eu já tenho meu preconceito que diz que vai ser bom. Agora, tudo que é humor britânico, eu tenho minhas certezas.
+
+Criado por Max Landis e escrito e baseado no livro de Douglas Adams, a história segue muito outro grande trabalho de Adams, O Guia do Mochileiro das Galáxias, onde o caminho é muito mais essencial que o destino. Sendo uma representação bem-humorada da própria vida, a história gira em torno da investigação de um crime em um hotel cujas pistas envolvem desde animais selvagens a domésticos, passando por situações ilógicas e viagens no tempo. Este parece ser um remake ou uma expansão de outro trabalho de 2010-12 (este sim verdadeiramente britânico).
+
+Os heróis dessa história são Todd Brotzman, um recepcionista desse hotel que vira suspeito e é demitido, vivendo em seguida uma série de acontecimentos estranhos em sua vida, entre eles o surgimento de Dirk Gently, que se auto-intitula "detetive holístico" (e proclama Todd seu assistente, apesar de suas negativas). Ambos são o núcleo de uma história habitada por uma assassina holística (que mata o que puder pela frente), dois agentes do FBI que lembram comédias de duplas dos anos 2000, uma gangue de carecas onde um é excessivamente polido na mesma medida que é violento.
+
+Enfim, o mundo de Dirk Genty's não é exatamente diferente do mundo normal. Ele possui sua dose de fantasia, mas o mais importante é que as pessoas desse mundo é que são verdadeiramente diferentes, extravasadas, exageradas. O que gera esse humor do absurdo, das situações, muito mais efetivo e perene que as piadas pontuais de, por exemplo, Haters Back Off!.
+
+Ainda assim, a série carece de uma trama mais intensa, que nos dê bons motivos para acompanharmos esses acontecimentos. Querer achar sentido não vale muito, pois já sabemos que isso é impossível, e se for feito irá trair seu próprio conteúdo. Diferente do Guia, onde a trama girava em torno de ter perdido a Terra, aqui vamos descobrindo coisas novas a cada episódio como uma guest de um RPG muito maluco. De qualquer forma, é no mínimo uma diversão inteligente o suficiente para chamar a atenção. E britânico o suficiente para ser hilário em alguns momentos. Mas só alguns momentos.
+
+---
 categories:
 - writting
-date: '2019-10-24'
-link: https://www.imdb.com/title/tt7037712
+date: '2017-04-21'
+link: https://www.imdb.com/title/tt4047038
 tags:
-- cinemaqui
-- mostra
-- movies
-title: Dinamarca
----
-
-Tempos difíceis geram homens fortes; homens fortes geram tempos fáceis; tempos fáceis geram homens molengas; homens molengas geram tempos difíceis. "Dinamarca" é uma história que se passa em nossos tempos difíceis e com um de seus homens molengas, um homem que não fará nada a respeito de sua própria vida exceto tentar se manter sendo servido por alguém.
-
-Contado como uma comédia que vai se tornando dramática, o roteiro por Jeff Murphy começa contando a história de Herb (Rafe Spall), um homem que perdeu seu benefício de saúde por não estar mais doente. Com inteligência limitada, Herb não se lembra qual foi a última vez que tinha um emprego. Não por acaso, ele tem um filho que não mora com ele e o ignora. A única coisa boa que aprendemos deste homem é que aparentemente ele conserta qualquer eletrodoméstico, quase como que por mágica.
-
-A atuação de Rafe Spall é uma melodia de uma nota só chamada melancolia; ele olha para a câmera em dois ou três momentos do filme porque seu diretor, Adrian Shergold, não tem a menor noção de como conduzir esta trama. Já o texto de Murphy vai nos levando conforme a correnteza nos diz onde deve ir. Depois de uma série de acontecimentos que não movem em nada o filme, Herb vê uma propaganda paradisíaca sobre os presídios na Dinamarca e resolve ir para lá ser preso. Devemos ficar tristes por ele? Esperançosos? Refletir sobre a incompetência de toda uma geração representada em figuras como Herb?
-
-É aí que a comédia vai aos poucos e sem muito aviso se transformando em um drama, mas nunca nos entrega um herói. Herb é apenas como um bebê chorão e perdido, que ninguém lhe dá oportunidade porque ele próprio não se dá, além dele se esquecer do princípio básico da vida que oportunidades não são dadas, mas conquistadas. Este filme pode ser visto como a ode do sistema contra o homem comum, sendo que o triste de tudo isso é que Herb é o exemplo que temos hoje de homem comum.
-
-Sem conseguir se desvencilhar do fato de não ter alguém por quem devamos torcer, Dinamarca permanece eternamente como um filme morno, onde as coisas vão acontecendo porque sim, e em seu terceiro ato coincidências irão acontecer porque o filme precisa acabar. É sobre aprender uma lição, mas a história se arrasta demais para aprendermos algo. Exceto que Herb é de fato bem incompetente na vida.
-
+- series
+title: Dirk Gently's Holistic Detective Agency - Primeira Temporada

@@ -1,11 +1,11 @@
 ---
+
+Encorpado, seco, tânico. Corpo médio pra forte, frutas maduras, bem amadeirado e seco. Com o bife de chorizo do Sonda coube perfeitamente.
+
+---
 categories:
 - writting
-date: '2017-05-17'
+date: '2017-12-20'
 tags:
 - food
-title: Domingo Molina M2 Malbec Malbec 2014
----
-
-Frutado arenoso e ácido e taninos leves. Pouco corpo, não muito interessante; oleoso, pouco tânico. Carnes no aniversário do Glauser e Rafael.
-
+title: Domingo Molina Sauvignon Blanc 2016

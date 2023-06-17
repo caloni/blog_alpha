@@ -1,20 +1,17 @@
 ---
 categories:
 - writting
-date: '2012-03-11'
-link: https://www.imdb.com/title/tt0118849
+date: '2017-08-23'
 tags:
 - movies
-title: Filhos do Paraíso
+title: Filmes e Diretores Favoritos
 ---
 
-Existe algo que vale a pena em Filhos do Paraíso. Se você notar, de repente acompanhamos uma história que não tem nada de original ou espetacular. Mas acompanhamos atentos. Existe algo de mágico em entrar dentro da vida dessa família. De entender seus conflitos, seu modo de viver e o problema que a perda de um par de sapatos representam.
+Essas perguntas no estilo de listas me fazem travar. Minha resposta sempre será injusta porque eu vou esquecer filmes e diretores que gosto mais do que os que eu citar. 
 
-É unindo o trágico com a fábula que o diretor consegue trazer à tona uma história tocante em que o protagonista é um tênis. Sim, um mero tênis. O resto dos personagens, pobres em sua essência (nem estou falando do lado financeiro), seguem na inércia da vida consertar as poucas coisas que conseguem ter algum controle. O resto é um caos.
+Mas, sei lá, no momento não estou focando em filmes ou diretores específicos, mas em técnicas e estilos específicos. Por exemplo, revendo séries que gostei muito, como Breaking Bad, Westworld e Mr. Robot. 
 
-Porém, quando temos essa chance, ela não é desperdiçada. Todos aqueles dias de tortura, compartilhando um tênis e lutando contra o tempo, agora possuem um significado especial na corrida da escola. É um momento de tensão. Talvez um dos mais tensos que já se viu no Cinema. Aguardamos e acompanhamos o trajeto quase sem respirar. Quase sem aguentar.
+Há uma miríade de virtudes escondidas na confecção desses trabalhos. Isso não os torna perfeitos, mas fascinantes e únicos. Quando falamos de diretores também falamos de algo semelhante. O último filme de um diretor é seu nível de progressão na arte, que ele pode avançar, retroceder ou arriscar algo novo. Eu gosto de diretores perfeccionistas que focam em sua linguagem. Aronovsky no sacrifício do indivíduo pela perfeição e conhecimento, Allen pela eterna discussão da mortalidade e banalidade do homem moderno, Nolan pelo domínio das métricas do espaço/tempo, Wo Pack pela questão da vingança, Ki Duk pelo indivíduo que transcende a si mesmo. E assim por diante :) 
 
-O importante a notar é que nem uma vitória seria motivo de orgulho ou felicidade. Não! O primeiro lugar representa tristeza e derrota. É nesses moldes que a mente daquelas pessoas trabalham. E é por isso que, se existe algum vencedor nessa história, é o próprio tênis.
-
-Esse teve garra e aguentou até o fim.
+Mas não posso deixar de reconhecer a virtude do diretor em si em pegar qualquer tema e dominá-lo, como os trabalhos de Sydney Lumet, por exemplo.
 

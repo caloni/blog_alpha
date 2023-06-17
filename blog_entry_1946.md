@@ -1,52 +1,20 @@
 ---
 categories:
-- coding
-date: '2008-03-04'
-title: Iteradores não são constantes
+- writting
+date: '2016-11-17'
+link: https://www.imdb.com/title/tt1181840
+tags:
+- movies
+title: Jack e a Mecânica do Coração
 ---
 
-Um bug que já encontrei uma dúzia de vezes entre os novatos da STL é a utilização de iteradores como se eles não fossem mudar nunca. Porém, a verdade é bem diferente: iteradores se tornam inválidos sim, e com muito mais freqüência do que normalmente se imagina. Entre as situações em que iteradores podem mudar estão as seguintes:
+Esta animação é a conquista emo e gótica ao mesmo tempo. Feito com um apuro artístico incomum para produções de baixo orçamento, a história possui um clima pessimista, romântico e inalcançável que crianças não irão gostar, e muito menos adultos não muito afeitos a água com açúcar.
 
- - Inserção de novo elemento no contêiner
- - Remoção de novo elemento no contêiner
- - Redimensionamento no tamanho do contêiner
+Regado com muitas músicas e cenas estilo videoclipe, o filme conta a história de um menino que tem um relógio no lugar do coração, mas tem mais coração que todos. Ele percebe a passagem do tempo e a realidade em sua volta pelo filtro da emoção, idealizando-a com outros seres igualmente estranhos.
 
-Por exemplo, o tradicional código do exemplo abaixo contém o tradicional erro de iterador inválido:
+A fotografia é triste, com muito branco e cinza, lembrando contos de terror de Edgar Alan Poe, e podemos dizer, referenciando e homenageando, já que a figura do corvo é recorrente na narrativa. O vilão canta um rap que combina melancolia, pessimismo e ódio. A mocinha é literalmente uma flor, e quando ameaçada surgem espinhos em volta de seus ombros. Tudo é muito visual nesse filme, o que o coloca em um patamar superior a de outros que usam apenas gags visuais sem um significado mais "profundo".
 
-    for( container::iterator it = obj.begin(); it != obj.end(); ++it )
-    {
-      if( it->member == 0 ) // condição para apagar elemento
-      {
-        obj.erase(it);  // a partir daqui it é inválido,
-                        // e não adianta incrementá-lo
-      }
-    }
+E se formos acusar o filme de algo, é justamente essa ambição por significado, frustrada muitas vezes durante o filme, quando percebemos que tudo que acontece é uma busca incessante pelo impossível. Não há como um filme gótico ter final feliz, assim como na vida sob a ótica do pessimista emocional, o romântico às avessas.
 
-Para operações como essa, o retorno geralmente nos dá uma dica de para onde vamos na varredura do contêiner. No caso do método erase, o retorno é o próximo iterador válido, ou o final (retornado pelo método end). Um código mais esperto gera um erro mais sutil:
-
-    for( container::iterator it = obj.begin(); it != obj.end(); ++it )
-    {
-      if( it->member == 0 ) // condição para apagar elemento
-      {
-        it = obj.erase(it); // ótimo, atualizou it. só
-                            // que se ele for o final,
-                            // será incrementado
-      }
-    }
-
-Algo de errado irá acontecer apenas se o elemento removido for o último localizado no contêiner.
-
-Esse é um erro comum para os acostumados com outros tipos de iteração (ex: ponteiros) e que não estudaram os princípios básicos da STL, entre eles o da reutilização de algoritmos. Se fosse usado este princípio, nada disso teria acontecido:
-
-    struct remove_if_zero
-    {
-      bool operator() (ObjElement& element)
-      {
-        return element->member == 0;
-      }
-    };
-    
-    obj.remove_if( remove_if_zero() ); // pronto!
-
-Quando precisamos fazer algo nos elementos de um contêiner STL, é quase certo que existirá um algoritmo genérico para essa tarefa, seja no próprio contêiner ou na forma de função (`<algorithm>`). Nunca se esqueça disso na hora de desenvolver seus próprios algoritmos e não precisará reinventar a roda todos os dias.
+O apuro estético muitas vezes impressiona, mas não tanto quanto a criatividade na montagem de cada cena. Quando Jack, o personagem principal, se apaixona, o vemos junto de sua amada em uma sequência que envolve perda da gravidade e transições tão elegantes entre quadros que fica difícil não se impressionar por tanta elegância em um número musical.
 

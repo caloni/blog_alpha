@@ -1,16 +1,20 @@
 ---
+
+A segunda temporada de Dirk Gently's prova que é possível sim construir obras audiovisuais que se baseiam fortemente no espírito do autor britânico Douglas Adams. Se o filme Guia do Mochileiro das Galáxias já dava uma pequena ideia da mente criativa de Adams e DGS01 possuía um season finale de cair o queixo, este S02 coloca agora o próprio core da história, com suas dezenas de personagens, quase tão complexo, denso e fascinante quanto os próprios textos de onde essas ideias surgiram.
+
+Não é pra menos. Baseando-se em um plot que lembra O Mundo de Sofia com testosterona e um estilo geek inconfundível, não haveria nada mais instigante do que a história de um garoto que criou um universo de contos de fadas inteiro em sua mente, tal como se os textos de um livro dessem vida aos seus personagens.
+
+A história segue a mesma lógica da temporada anterior, partindo do bizarro como criaturas de cabelo rosa e espada de tesoura, ou até mesmo um barco no meio de uma plantação, para descobertas cada vez menos estranhas. A revelação final é muito bem arquitetada e a resolução final deixa a desejar por excesso de personagens. O que empolga mais na primeira metade desta nova temporada é a descoberta e criação dos seus novos heróis e vilões. Embora simples, as dinâmicas funcionam pela releitura do status quo desses papéis.
+
+Dessa forma, por mais clichê que seja, é divertido acompanhar o xerife novato em uma cidadezinha onde nada acontece (além de Sherlock Hobbs ser o melhor nome!). Ao mesmo tempo é hilário entender junto do obtuso diretor da maléfica organização Black Wing como suas controladoras ações do sobrenatural estão fadadas ao fracasso. E, apesar de cair no clichezão total, a escalada de uma inusitada rainha má não poderia ser mais imaginativa. Ponto extra para suas inventivas blusas com frases de auto-ajuda, que vão do bem sacado "girl power" para o escrachado "não me faça usar meus poderes". A participação das mulheres nessa saga é vital. Os personagens masculinos empalidecem, onde até o personagem-título entra em uma crise existencial.
+
+Aliás, se há algo que incomoda em "Dirk Gently's" são seus conflitos artificiais criados para mover a história, como a repetição do irmão que busca ficar bem com a irmã ou o próprio Dirk, adentrando em um marasmo sem fim onde ele questiona e evita seus próprios métodos de resolução de casos. Esses conflitos não são sentidos como tão importantes assim na trama como um todo.
+
+---
 categories:
 - writting
-date: '2017-04-21'
-link: https://www.imdb.com/title/tt4047038
+date: '2012-02-15'
+link: https://www.imdb.com/title/tt0092890
 tags:
-- series
-title: Dirk Gently's Holistic Detective Agency - Primeira Temporada
----
-
-Eis que termino a primeira temporada dessa série, e sou obrigado a dizer que quem estiver disposto a assisti-la terá que necessariamente ir até o minuto final para entender a engenhosa estrutura de seu roteiro, que consegue tornar o todo melhor que a soma de suas partes. Não que já não seja divertido acompanhar tantos weirdos por metro quadrado.
-
-Conseguindo interpretar com extrema eficácia por Max Landis um dos mundos do intraduzível escritor Douglas Adams, Dirk Gently's confia mais na força de seus personagens para que estes carreguem uma trama complexa sem que ela se torne excessivamente hermética. Ela é muito obscura no começo, mas, assim como Dirk nos diz, as coisas irão fazer sentido depois de desvendada a trama. Claro que, dadas algumas licenças poéticas, tudo mais ou menos se encaixa. E talvez o maior trunfo da série seja não se render em explicar tudo. A própria viagem no tempo é encarada como algo simples, o que irá afetar bastante a permanência do espectador médio.
-
-A não ser que ele seja como eu e releve qualquer possível explicação em prol daquele mundinho onde as pessoas, independente da confusão em que se encontram, estão tentando se ajudar na medida do possível. Nesse sentido a série resume com perfeição a mente de Adams, onde assim como O Guia do Mochileiro, a cooperação entre as pessoas para viver nessa bagunça caótica e inexplicável de universo é vital para a sanidade.
-
+- movies
+title: 'Dirty Dancing: Ritmo Quente'

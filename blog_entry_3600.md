@@ -1,22 +1,21 @@
 ---
 categories:
 - writting
-date: '2012-04-09'
-link: https://www.imdb.com/title/tt1201167
+date: '2017-05-30'
+link: https://www.imdb.com/title/tt5975354
 tags:
+- cinemaqui
 - movies
-title: Tá Rindo do Que?
+title: Tal Mãe, Tal Filha
 ---
 
-Funny People, aqui no Brasil conhecido como "Tá Rindo do Que?" e lançado diretamente para as locadoras por não ser um filme típico para o grande, mas limitado, público de Adam Sandler, é uma mescla entre drama e comédia, que está presente exatamente por ser esta uma história em torno de um comediante de sucesso que, como muitos no ramo, iniciou sua carreira na comédia de stand-up (entre eles, Jim Carrey, Robin Williams e Eddie Murphy).
+Tal Mãe, Tal Filha supostamente é uma comédia, mas há poucos momentos em que me peguei dando risada. Por outro lado, houve vários momentos que observei, atônito, o quão baixo uma comédia consegue ir. E mesmo assim não funcionar.
 
-George Simmons é aclamado pelo público e faz sucesso com seus filmes de humor duvidoso (Adam Sandler, quem poderia ser). Quando ele se vê diante de um problema de saúde que pode lhe dar apenas mais algum tempo de vida ele decide refrescar seu repertório de piadas e voltar a ter mais contato com o público de stand-up, como se quisesse um contato mais íntimo com seus admiradores e ao mesmo tempo anunciasse para todos de forma velada seu fim mais ou menos próximo.
+Ele conta a história de uma mãe, Mado, que é jovem, inconsequente e totalmente dependente de sua filha, Avril. Mado, interpretada por Juliette Binoche, obviamente é deslumbrante, e consegue se passar pela geração meia-idade baladeira tranquilamente. Já Avril, interpretada por Camille Cottin, 14 anos mais jovem que Binoche, é produzida pelo filme para parecer mais feia, velha e chata em múltiplas proporções comparada à sua mãe. Ela também é um tanto incompetente no trabalho e casada com um marido imprestável, mas por algum motivo isso não a torna digna de pena, mas de escárnio. É como se esse ser humano nem merecesse viver.
 
-Para ajudá-lo ele encontra Ira Wright, um comediante que ainda está no início (Seth Rogen) e que lhe consegue criar piadas interessantes. Ira, com seus problemas em relação a mulheres, é cômico e trágico ao mesmo tempo, o que, como uma síntese interessante da psique do comediante é o que parece melhor resumi-lo. Exagerado em sua ingenuidade, consegue ser tocante em alguns momentos, como ao admirar o jatinho que o espera para acompanhar Simmons.
+Talvez porque ela faz questão de manter as aparências, como não contar aos seus sogros que seus pais se divorciaram há muito tempo, algo que foge completamente do estereótipo francês e ainda inspirar uma certa antipatia pela desonestidade familiar de Avril. Quando ela anuncia em frente a todos que está grávida a notícia surge mais que apagada que ela própria, que não consegue cinco minutos de atenção. O tipo de piada que surge nesse primeiro momento do filme não ajuda em nada. Mado pergunta à sua filha se ela pretende manter a gravidez. Ha ha ha. Sua sogra não convive bem com o mimado cachorro de seu pai, que no natal usa um chapéu de papai noel como ela. Ha ha ha. Em uma série de acontecimentos forçados Mado também fica grávida e acaba mantendo o filho porque a pílula do aborto era grande demais e ela estava sem água no momento. Ha ha... hã?
 
-Como comediantes que são, a vida desses sujeitos parece envolver sempre uma ou duas piadas em diálogos ocasionais, como se tirassem inspiração a partir daí, uma ideia muito poderosa, pois cria empatia para o público e os torna mais únicos em sua forma de fazer humor. Dessa maneira, enquanto Ira faz de maneira inconsciente piadas que evitam o contato feminino George aponta exatamente essa ferida no repertório do amigo, mostrando de maneira sutil o ressentimento que Simmons tem pelas pessoas.
+De inverossímil a grotesco, as piadas "arquitetadas" pela roteirista estreante Agathe Pastorino nunca funcionam. E nem poderiam. Apresentando personagens que de cara já não nos preocupamos, sequer acreditamos, o que segue são esquetes televisivos na melhor das hipóteses, e isso nem Juliette Binoche nem o clássico cachorro fofinho das comédias consegue salvar.
 
-Aliás, a atuação de Adam Sandler aqui pode-se dizer muito acima da média de seus trabalhos costumeiros, o que não implica em um grande papel, mas já é alguma coisa. Competente assim como o resto do grupo e contido como deveria ser um comediante prestes a morrer, Sandler impressiona mais por querer representar alguém que não seja ele mesmo, apesar de ironicamente estar inserido em um personagem que diz muito sobre sua personalidade. Significativo também notar que, talvez devido às limitações nas atuações do elenco, Judd Apatow tenha escolhido cortes frequentes em diálogos, mesmo os mais intimistas, demonstrando que muitas vezes apenas uma direção mais presente consegue extrair tomadas interessantes de atores na maioria das vezes medíocres.
-
-No entanto, a história move-se pelo drama e é uma pena sentir a duração maior do que necessária em diversas cenas expositivas do caráter do protagonista, como se precisássemos acreditar que por trás daquele humorista cruel existe um ser humano que se preocupa com seus entes queridos. O que não deixa de ser curioso, pois é justamente a parte engraçada da trama que consegue informar no subtexto das piadas contadas e apenas isso bastaria para informar o espectador.
+O material se torna quase um completo desastre nas mãos da diretora Noémie Saglio, que aqui redigiu os diálogos e pega uma história muito menos interessante, dinâmica e criativa que um de seus trabalhos anteriores, Beijei uma Garota, e que não entende o buraco em que se meteu. Misturando momentos pseudo-dramáticos e filmando-os como tal junto de uma confusa Juliette Binoche andando em círculos com sua moto cor-de-rosa, a história só consegue não se tornar completamente insuportável porque sabemos que se trata de uma comédia, que deve acabar, e deve acabar rápido.
 

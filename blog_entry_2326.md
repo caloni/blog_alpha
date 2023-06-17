@@ -1,19 +1,12 @@
 ---
-categories: []
-date: '2012-06-04'
-tags: null
-title: Meus repositórios no GitHub
+categories:
+- writting
+date: '2020-12-12'
+link: https://www.imdb.com/title/tt0119654
+tags:
+- movies
+title: 'MIB: Homens de Preto'
 ---
 
-Depois de vacilar por alguns meses, incentivado pelo meu amigo Chico Pimenta, resolvi experimentar o tal do GitHub, e consequentemente o sistema de controle de fontes distribuído Git, que antes era meio exclusivo do Linux (continua meio sendo, mas com suporte um pouco melhor para Windows).
-
-Com isso, dei uma pequena lida no livro de introdução e comecei a migrar meus fontes perdidos num canto do HD. O que notei de vantagem com relação a outros DRCSs foi que é muito fácil e rápido criar branches e que a comunicação remota e os commits são feitos de uma maneira mais organizada e estruturada, além da própria estrutura interna do repositório ser muito simples de entender: um bando de arquivos compactados cujo nome é o hash do que ele contém.
-
-Meus  repositórios estão armazenados em alguns branches que distribuí de acordo com o uso/importância:
-
-  * OpenSource. Projetos de fonte aberto que mantenho/ive e que poderiam se perder se alguém não fizesse backup (como o mouse tool ou regmon).
-  * Samples. Códigos de exemplo, de palestras e de testes feitos para escrever os artigos do blogue cujo autor vos fala.
-  * Caloni. Os códigos que fazem algo de útil, como o Houaiss2Babyulon, CopiaExata e DayToDay.
-  * Book. Um projeto em estado de larva sobre escrever um livro de engenharia reversa. Já possui um índice básico. Sugestões são bem-vindas.
-  * DriverEntry. Códigos do curso de desenvolvimento de drivers que estou fazendo com o Fernando, da DriverEntry Company. Recomendo!
+Revisitado, MIB cheira a anos 90. Tommy Lee Jones está fabuloso como o funcionário de uma agência de relações intergalácticas que se diverte apagando a memória das pessoas até se cansar e voltar para sua amada. Will Smith repete seu personagem da série Um Cara no Pedaço misturando ginga hip-hop e uma força de vontade incompreensível de ser um policial. Ambas as aspirações não são harmônicas. O único momento que entendemos sua motivação é quando ele conhece a gracinha da legista, que irá descobrir que existem mais anatomias no universo do que sua vã filosofia compreende. Oscar ou indicação de efeitos visuais e maquiagem mais que merecidos. Mais de 20 anos depois o filme funciona. Desde então Tommy Lee conseguiu refinar sua persona em trabalhos intimistas, enquanto Will Smith inflou seu ego do tamanho da galáxia e investe seu tempo em grandes produções onde é ele mesmo ou em produções menores onde é uma pessoa muito sábia e altruísta. O plot twist que ele não descobriu é que a galáxia comparável com o tamanho de suas capacidades de atuação é equivalente ao do filme.
 

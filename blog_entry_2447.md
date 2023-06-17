@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2017-10-16'
-link: https://www.imdb.com/title/tt4131800
+date: '2016-03-07'
+link: https://www.imdb.com/title/tt0780536
 tags:
 - movies
-title: 'My Little Pony: O Filme'
+title: Na Mira do Chefe
 ---
 
-"My Little Pony: O Filme" continua sendo tudo que os fãs de My Little Pony poderiam querer mais um pouco. E estou falando até dos fãs adultos da série de animação. Applejack, Rainbow Dash e suas amigas continuam usando o poder da amizade para enfrentar todos os perigos e transformar seus inimigos em leais aliados.
+Esse filme parece uma coisa, mas é outra. Vendido como uma comédia despretensiosa e potencialmente um pastelão, Na Mira do Chefe é um trabalho de roteiro que brinca com seu universo próprio achando graça em levar a sério as histórias de máfia.
 
-Tudo isso, contudo, não faz muito sentido na narrativa épica onde as princesas são congeladas, para que ao juntar todas, elas transformem um cajado de um vilão das trevas que irá lhe dar todo o poder para fazer maldades. No caminho para a solução as poneizinhas que já conhecemos encontram pilantras, piratas e até míticos hipogrifos para salvar o reino de Equestria (e todos os outros reinos). Apenas com o poder da amizade esses cavalinhos em miniatura conseguem transformar todos os corações. Talvez meu coração esteja duro demais, mas não se engane: eu também entendi o poder da amizade durante o filme =)
+No entanto, ao fazer isso, ele acaba se saindo muito melhor que o esperado. Criando personagens que aos poucos vão nos cativando, seja pelos diálogos pontualmente inspirados, seja pelas atuações convincentes, a narrativa possui a vantagem de nunca revelar ao espectador o que virá em seguida.
 
-A questão é que não há muito suspense, nem sustos, em uma versão em longa metragem do que já vimos no seriado. Todos os conflitos são rapidamente resolvidos, para que as crianças não tenham medo de dormir à noite. Apenas um bebê chorou durante minha sessão. As crianças estavam entretidas com as piadinhas espirituosas dessa turma divertida.
+Dessa forma, partindo de uma viagem despretensiosa por uma secular e onírica cidade belga em um molde que soa como um panfleto de viagem turística, chegamos em um drama sobre um homem que acidentalmente mata uma criança e é corroído pelo remorso. De quebra, no terceiro ato temos a participação mais que inspirada de um Ralph Fiennes caricato sem desfazer aquele mundo absurdo, mas crível, que fora criado.
 
-E como não se entreter? Elas vão narrando o que vai acontecendo na história de maneira bem-humorada. O uso de metalinguagem é a desculpa de My Little Pony para não precisar se esforçar muito e contar alguma história original, mas apenas deixar as meninas seguir um roteiro de video-game e... adivinhem: voltar para casa sãs e salvas. Ao bom som de uma Sia transformada em pônei.
+Com participações especiais de personagens que vão se acumulando, mas permanecem adicionando à trama principal, esse é um exemplo de como construir uma história original usando como mote um subgênero mais que batido.
 

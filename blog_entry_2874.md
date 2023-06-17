@@ -1,47 +1,30 @@
 ---
 categories:
-- reading
 - writting
-date: '2019-02-03'
+date: '2017-09-15'
+link: https://www.imdb.com/title/tt1536537
 tags:
-- books
-title: On Writing Well
+- movies
+title: Onde Está Segunda?
 ---
 
-On Writing Well de William Zinsser é considerado por muitos do Hackers News como uma ótima referência para se escrever bem não-ficção. Tenho minhas dúvidas. Mas justiça seja feita, o livro parece um Syd Field (Screenplay) para não-ficção, cheio de guidelines que podem auxiliar o escritor ainda amador tentando se profissionalizar e impressionar alguns editores por aí.
+Hoje em dia até os títulos dos filmes encomendados pela Netflix são ruins. E nesse caso não há erro: esse filme é muito ruim. Não ruim de trash (para se divertir), nem ruim de estilo (para ficar com ódio). Ruim de você não sentir nada, mesmo.
 
-A melhor parte em minha opinião é dos Princípios (Parte I), pois é ali que está o verdadeiro ouro do livro, onde ele ensina o bê-a-bá do que faz os textos hoje em dia serem tão ruins e como reverter essa situação lamentável. Ele até cita o artigo de George Owell, Politics and the English Language. Ainda assim, ele já dá sinais de SJW ao insistir na questão de como usar os gêneros para não ofender os sensíveis ouvidos da mulherada neurótica sobre como a gramática é patriarcal. Pelo jeito não aprendeu muito bem com Mr. Orwell.
+Talvez não seja exclusivamente deles. Ultimamente os filmes de sci-fi enlatados (Série Alien, Vida) estão em franco declínio de ideias. Toda uma vasta literatura do gênero e porções generosas de computação gráfica não torna as propostas comerciais minimamente interessantes como ideia. E nem execução.
 
-Além disso, é nos princípios que está a verdadeira mágica para se escrever bem: pratique, trabalhe, comece a escrever. Só há uma maneira de melhorar, e é essa. Não há atalhos.
+Nesse caso temos um Willem Dafoe desperdiçado vendo as sete gêmeas recém-nascidas de sua finada filha e falando/contando em voz alta: Domingo, Segunda, Terça...
 
-Citações:
+Trinta anos se passam e a história que é com essas meninas crescidas irá aos poucos explicar todo o sistema montado pelo avô para mantê-las vivas. Sim, este é um futuro distópico onde transgênicos causam uma ultra-fertilização das mulheres, fazendo-as terem muitos filhos por parto (risos incontroláveis). A solução do governo, que aqui se chama Agência pois um governo nunca faria engenharia social, apenas corporações malvadas (risos incontroláveis), é manter a regra de um filho por família, colocando todo o resto em estado criogênico para quando a Terra estiver menos super-habitada. Aham.
 
- - Eles sentam para cometer um ato de literatura, e o eu que emerge no papel é mais rígido que a pessoa que sentou para escrever.
- - Pensamento claro se torna escrita clara; um não pode existir sem o outro.
- - Escritores devem se perguntar constantemente: o que eu estou tentando dizer? É surpreendente o quão frequente eles não sabem.
- - Bagunça é o pesado eufemismo que transforma uma favela em uma área socioeconômica depressiva.
- - Nunca diga qualquer coisa na escrita que você não diria confortavelmente em uma conversa.
- - You'll never make your mark as a writer unless you develop a respect for words and a curiosity about their shades of meaning that is almost obsessive.
- - All writing is ultimately a question of solving a problem. Whatever it is, it has to be confronted and solved.
- - As for what point you want to make, every successful piece of nonfiction should leave the reader with one provocative thought that he or she didn't have before.
- - One reason for citing this lead is to note that salvation often lies not in the writer's style but in some odd fact he or she was able to discover.
- - When you're ready to stop, stop. If you have presented all the facts and made the point you want to make, look for the nearest exit.
- - Don't say you were a bit confused and sort of tired and a little depressed and somewhat annoyed. Be confused. Be tired. Be depressed. Be annoyed.
- - The assumption is that fact and color are two separate ingredients. They're not; color is organic to the fact. Your job is to present the colorful fact.
- - Don't annoy your readers by over-explaining -- by telling them something they already know or can figure out.
- - Writing is not a special language owned by the English teacher. Writing is thinking on paper. Anyone who thinks clearly can write clearly, about anything at all.
- - Always start with too much material. Then give your reader just enough.
- - If you're smitten by the urge to try the breezy style, read what you've written aloud and see if you like the sound of your voice.
- - Never hesitate to imitate another writer. Imitation is part of the creative process for anyone learning an art or a craft.
- - With so much noise in the air, was any American child being trained to listen? Was anyone calling attention to the majesty of a well-constructed sentence?
- - After verbs, plain nouns are your strongest tools; they resonate with emotion.
- - "The reader has to feel that the writer is feeling good. Even if he isn't." - S. J. Perelman
- - You also have to turn on the switch. Nobody is going to do it for you.
- - Living is the trick. Writers who write interestingly tend to be men and women who keep themselves interested. That's almost the whole point of becoming a writer.
- - Every such reduction of the unfamiliar will reduce your fear.
- - Writing to destroy and to scandalize can be as destructive to the writer as it is to the subject.
- - The moral for nonfiction writers is: think broadly about your assignment.
- - Trust your curiosity to connect with the curiosity of your readers.
- - Writing is related to character. If your values are sound, your writing will be sound.
- - Used in moderation, making yourself gullible -- or downright stupid -- gives the reader the enormous pleasure of feeling superior.
+Agora, tudo isso já é extremamente ridículo, mas a capacidade do diretor e seus roteiristas em extrapolar o senso de ridículo é incomensurável apenas se baseando no plot inicial. O que vemos é uma trama que se revela quando uma das gêmeas não volta para casa. Aliás, eu comentei que cada uma das irmãs tem um dia da semana para sair, e que todas como uma mesma identidade, já que a existência de mais de uma colocaria em risco a existência de todas? Não, não comentei. Mas adivinha qual dia da semana ficou reservada para uma pessoa que se chama Segunda? Acho que agora você está entendendo.
+
+No fundo este não é um sci-fi para fazer pensar, pois ele logo vira mais um filme de conspiração, perseguição, tiros e explosões, todos intercalados por frases óbvias ("cada uma de nós nos sacrificou por todas"). Mas o pior vem a seguir. Aos poucos vemos que o idealizador dessa história gosta muito do filme Matrix, fazendo questão de imitar algumas cenas e músicas. O resultado é um copycat horroroso que termina com uma personagem tendo como única saída pular uma distância considerável entre dois prédios. Auxiliada pela -- onisciente em todas as produções do gênero -- hacker de cadeira.
+
+Aliás, todas essas meninas são gênios, lutam bem, e ninguém tem a menor ideia de como elas praticaram tudo isso. Elas são amedrontadas desde o começo, ficando difícil entender a personalidade única de cada uma delas. A atuação da única atriz responsável pelas sete irmãs não é terrível. Apenas limitada, seja pelo roteiro ou por ela mesma.
+
+Aliás, o grande "mérito" do roteiro é não fazer parecer que duas horas de filme tem três horas de duração. A sensação é de duas horas, mesmo. Surpreendentemente há muito o que contar nessa trama pseudo-complexa.
+
+O mesmo não se pode dizer das reviravoltas do final, que nada servem para o impacto desejado. Quero dizer, convenhamos: este futuro já é uma droga. O que pode ser pior que isso? E se governos... desculpe, corporações malvadas podem fazer o que quiser hoje, o que dirá em uma eterna crise. A personagem da Gleen Close lamenta que a humanidade não tenha vislumbrado seu grande plano para o futuro, ingenuamente sem perceber que ele é um desastre já no papel.
+
+O que me lembra um pouco os dirigentes da Netflix. Talvez essas histórias enlatadas sejam o futuro distópico onde essa corporação do mal controla todos os roteiristas e diretores do mundo inteiro. Já pensou que terrível?
 

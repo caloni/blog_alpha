@@ -1,33 +1,14 @@
 ---
-categories: []
-date: '2020-11-08'
-link: https://www.slideshare.net/WanderleyCaloni
+categories:
+- writting
+date: '2021-05-22'
+link: https://www.imdb.com/title/tt5674066
 tags:
-- lists
-title: Palestras
+- animes
+title: Pan de Peace!
 ---
 
-Segue a lista de palestras que ministrei ao longo dos anos que possuem alguns slides úteis (os com slides inúteis não estão disponíveis e devem estar na memória dos que assistiram ou em algum post perdido por aí). Have fun =)
+Hehehe pão. Hehehe minazinhas. Hehehe pão com minazinhas. Quem é quem, nem sei mais. Os pães são mais fáceis de distinguir que as personagens.
 
- - [Antidebugging: Eu Não Quero que Você Mexa no Meu Código]
- - [AWK]
- - [Depurando até o Fim do Mundo]
- - [Engenharia Reversa para Principiantes]
- - [Entendendo a Compilação]
- - [Patch de Emergência]
- - [Pôquer Online]
- - [Resumo de Debug Remoto]
- - [Stack Overflow]
- - [Troubleshooting em Equipes Remotas com Debugging Tools]
-
-[Antidebugging: Eu Não Quero que Você Mexa no Meu Código]: https://github.com/Caloni/lectures/blob/master/antidebugging-eu-nao-quero-que-vc-mexa-no-meu-codigo.pdf
-[AWK]: https://github.com/Caloni/lectures/blob/master/awk.pdf
-[Depurando até o Fim do Mundo]: https://github.com/Caloni/lectures/blob/master/depurandofimdomundo.pdf
-[Engenharia Reversa para Principiantes]: https://github.com/Caloni/lectures/blob/master/engenhariareversaparaprincipiantes.pdf
-[Entendendo a Compilação]: https://github.com/Caloni/lectures/blob/master/entendendo-a-compilacao.pdf
-[Patch de Emergência]: https://github.com/Caloni/lectures/blob/master/patchdeemergencia.pdf
-[Pôquer Online]: https://github.com/Caloni/lectures/blob/master/poqueronline.pdf
-[Resumo de Debug Remoto]: https://github.com/Caloni/lectures/blob/master/debug-remoto-resumo.pdf
-[Stack Overflow]: https://github.com/Caloni/lectures/blob/master/stack-overflow.pdf
-[Troubleshooting em Equipes Remotas com Debugging Tools]: https://github.com/Caloni/lectures/blob/master/troubleshooting-em-equipes-remotas-com-debugging-tools-for-windows.pdf
+Dez episódios depois não aprendi a fazer pão e fiquei com vontade de fazer anpan. Quero meu fermento de volta.
 

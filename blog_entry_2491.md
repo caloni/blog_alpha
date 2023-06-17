@@ -1,12 +1,11 @@
 ---
 categories:
 - writting
-date: '2021-05-15'
-link: https://www.imdb.com/title/tt11653472
+date: '2017-02-05'
 tags:
-- animes
-title: Neko Neko Nihonshi
+- wine
+title: Nero D'Avola Duca Sargento
 ---
 
-História do Japão feudal com gatos. É divertidinho e criativo. Notas positivas para a viagem de boas vindas entre líderes, quando os gatos comem toda a  comida de presente, mas sobra o saco. E gatos adoram saco. Só não sabem o que fazer com o ouro. Divertido com vários níveis infanto-adulto.
+Italiano que demorou pra ficar bom; muito quente e sem aroma, mas depois de amaciado agradável.
 

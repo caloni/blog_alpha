@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-05-09'
+date: '2022-10-09T17:58:12-03:00'
 tags:
-- food
-title: Nanni Malbec Reserva 2016
+- wine
+title: Nanni Tannat Reserve 2019
 ---
 
-A madeira deixou o Malbec pouco frutado, ou com frutas muito maduras.
+Reserva de 12 meses em barrica da mesma uva, que com muito esforço conseguimos matar. Não por ser ruim, estava delicioso. Esse gosto adstringente, agressivo, dos vinhos de Cafayate já me encantou novamente, mesmo sem ser fã dessa vinícola. O amadeirado chega meia hora depois de aberto.
 

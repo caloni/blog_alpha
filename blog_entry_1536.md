@@ -1,29 +1,126 @@
 ---
-
-Exorcismos e Demônios é um filme que adota o estilo clássico de mistério que vai sendo desvendado, mas se esquece que para o espectador ficar interessado no mistério é necessário que ele de fato exista.
-
-O filme se trata de acompanhar a investigação da jornalista-mirim Nicole Rawlins (Sophie Cookson). Ou pelo menos ela parece uma jornalista-mirim, com seu rosto infantil e um pai editor de jornal. Fica muito claro desde o começo que esta é uma apelação para o público jovem, geralmente o alvo de terrores de qualidade questionável.
-
-Também fica muito claro para onde toda a história caminha. Se trata de um caso não-resolvido de exorcismo em 2004 na Romênia, que é anunciado no começo do filme como "baseado em fatos reais". Provavelmente a única coisa real no filme todo é este evento que de fato ocorreu na Romênia, onde um padre não-autorizado pela igreja católica realizou um ritual de exorcismo mesmo assim a uma garota de 23 anos que morre ao ser socorrida no caminho para o hospital. Ele foi preso e o filme começaria nesse ponto, mas você já viu o final do exorcismo e entende que o sobrenatural aqui existe. Ponto.
-
-Um fato curioso (do filme) é que a única jornalista aparentemente interessada no caso não é da Romênia, mas das longínquas terras do Tio Sam. E ela sai visitando todos os envolvidos conforme eles vão aparecendo e todos eles dão respostas prontas e satisfatórias para seu caso. Eu até poderia nesse momento comparar o processo que a jovem Nicole Rawlins executa no vilarejo com um jogo de video-game, mas isso seria injusto, já que jogos costumam ser mais difíceis que isso.
-
-Escrito pelos gêmeos Hayes (Invocação do Mal 1 e 2), esta história carece de qualquer emoção e possui um arco insatisfatório envolvendo a falecida mãe de Sophie e, claro, Deus. Sophie tem raiva da mãe por acreditar em Deus e como consequência terá que participar desse filme para receber alguma espécie de redenção por ser tão irredutível a respeito do sobrenatural. Para acompanhá-la nessa jornada a igreja dispõe de um belo e jovem padre local (Corneliu Ulici) que está visivelmente animado em ajudá-la e vira assunto nos sonhos eróticos noturnos da moça, o que torna sua alma cética ainda mais fraca e suscetível à possessão demoníaca que ainda ronda o local.
-
-Ambientado em uma versão sanitizada de um lugar inóspito em um país do ex-Segundo Mundo, o detalhe mais importante da arte é observar as paredes medievais e decadentes das igrejas, que referencia aquela fé antiga e rústica antes de nossos tempos de smartphone e internet. Apesar dos prédios católicos exibirem as marcas do passado miserável do povo romeno que sofreu com o comunismo, há uma certa elegância na organização dos santuários, que não possuem aquele pó característico de monumentos abandonados por séculos.
-
-Parte desse detalhe é devido à construção cinematográfica do local, que contém, por exemplo, um hotel cujos quartos possuem portas e janelas (e banheiras) que foram feitas para um parque temático de assombração, prontos para ranger e bater. Além disso, apesar de nunca ter saído da vila e ter usado o carro durante chuvas torrenciais, ele permanece intacto em uma noite enluarada onde a bela Sophie, ao sofrer uma possível alucinação, decide correr de medo para dentro de uma plantação, algo não muito sensato por pessoas que já assistiram alguns filmes de terror que já existiam em 2004.
-
-Ao mesmo tempo que a direção de arte é belíssima sem servir ao propósito de ser realista, os sustos preparados pelo diretor Xavier Gens caem sempre no convencional, o que nos mostra mais uma vez como é uma grande desvantagem seres humanos terem retaguarda de onde surgem as criaturas mais inesperadas do nada e como os barulhos mais inusitados ocorrem até em eventos comuns como uma simples queda de energia. Preparado especialmente para este filme, essa cidade não passa de um cenário onírico para onde vão nossas mentes quando imaginamos algo como... uma cidadela perdida na Romênia do século dos vampiros e lobisomens. Isso sem qualquer conhecimento histórico. Apenas sentimos que um lugar desses deveria ser assim.
-
-O que infelizmente não nos traz nenhuma surpresa, assim como esse filme. O que acontece então é que apenas acompanhamos Sophie em sua investigação sem muito interesse e apenas aguardando os momentos que já sabemos que irão ocorrer e as reviravoltas já marcadas no mapa. Resta saborear a pipoca e comentar como aquele padre induz ao pecado. A própria Sophie usa isso a seu favor, mesmo que já estivesse claro que o padre a ajudaria. Este filme é pior que um jogo, pois em um jogo você participa de alguns desafios. Aqui o único desafio para Sophie é manter o espectador da cabine de imprensa animado com um funcionário de um jornal jovem que consegue viajar a lugares exóticos e investigar casos já resolvidos.
-
-A propósito, voltando ao caso real, foi descoberto que a causa da morte da menina exorcizada foi uma overdose de adrenalina dada na ambulância. Mas é claro que este spoiler da vida real não apareceria nos créditos finais. Estragaria toda a graça do filme.
-
----
 categories:
-- writting
-date: '2021-06-21T20:46:00-03:00'
-tags:
-- movies
-title: Exótica
+- coding
+date: '2016-01-27'
+tags: null
+title: Exportando repositórios antigos do Bazaar para Git
+---
+
+Enquanto estudava sobre [controle de fontes distribuído](https://en.wikipedia.org/wiki/Distributed_version_control), experimentei e usei os projetos Mercurial e Bazaar, precursores desse modelo que funcionavam bem em Windows. Havia o Git, mas por conta da sua evolução assimétrica, o ambiente da Microsoft havia ficado para trás.
+
+Hoje com o Git sendo praticamente o _mainstream_ das conversões do SubVersion, e funcionando razoavelmente bem em ambientes Windows (64 ou 32), sobraram apenas os repositórios do Mercurial e do Bazaar. Na verdade, mais do Bazaar, pois eu havia migrado já do Hg pelo Bazaar possuir algo que hoje o Git emula, mas antes era um diferencial no projeto da Canonical: detecção de rename completo (com histórico e tudo). Isso para refatoração era vital, e suporte à refatoração pesada era o que eu precisava no momento.
+
+Agora é hora de manter esse histórico vivo, mas convertido para o que todos usam.
+
+### A migração
+
+A primeira coisa a ser feita é converter o repositório. Depois de convertido, como todas as operações estarão no universo Git, há [uma](http://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositories) de [entradas](http://stackoverflow.com/questions/13040958/merge-two-git-repositories-without-breaking-file-history) no StackOverflow para nos ajudar a reunir os repositórios em um só, meu objetivo, já que o Git é mais leve e mais versátil nesse quesito.
+
+No Windows, nas últimas versões do Bazaar o comando fast-export não estava mais funcionando. Parado desde 2012, não há previsão de correções. No entanto, para essa operação, a versão 2.4.2 atendeu bem. O comando é um pouco diferente, mas ele é rápido e rodou sem problemas em conjunto com o fast-import do Git.
+
+{{< image src="9gzHZOz.png" caption="" >}}
+
+```
+git init
+bzr fast-export --plain . | git fast-import
+
+12:03:59 Calculating the revisions to include ...
+12:03:59 Starting export of 2681 revisions ...
+12:04:05 Skipping empty dir Tools/Desenv in rev 
+12:04:05 Skipping empty dir Tools/Desenv in rev
+12:04:45 1000/2681 commits exported at 1308/minute
+12:05:12 2000/2681 commits exported at 1642/minute
+12:05:59 WARNING: not creating tag u'1.09' pointing to non-existent revision 
+12:05:59 WARNING: not creating tag u'1.50' pointing to non-existent revision 
+12:05:59 WARNING: not creating tag u'1.51' pointing to non-existent revision 
+12:05:59 WARNING: not creating tag u'1.49' pointing to non-existent revision 
+12:05:59 WARNING: not creating tag u'1.48' pointing to non-existent revision 
+12:05:59 WARNING: not creating tag u'1.45' pointing to non-existent revision 
+12:05:59 WARNING: not creating tag u'1.47' pointing to non-existent revision 
+12:05:59 WARNING: not creating tag u'1.46' pointing to non-existent revision 
+12:05:59 WARNING: not creating tag u'1.40' pointing to non-existent revision 
+12:05:59 WARNING: not creating tag u'1.39' pointing to non-existent revision 
+12:05:59 Exported 2681 revisions in 0:02:00
+C:\PROGRAM FILES (X86)\GIT\libexec\git-core\git-fast-import.exe statistics:
+---------------------------------------------------------------------
+Alloc'd objects:      35000
+Total objects:        33979 (      9714 duplicates                  )
+      blobs  :        15604 (      6833 duplicates       7747 deltas of      15389 attempts)
+      trees  :        15694 (      2881 duplicates      12881 deltas of      14635 attempts)
+      commits:         2681 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:          98 (         1 loads     )
+      marks:        1048576 (      2681 unique    )
+      atoms:           4549
+Memory total:          3567 KiB
+       pools:          2200 KiB
+     objects:          1367 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =      65536
+pack_report: core.packedGitWindowSize =   33554432
+pack_report: core.packedGitLimit      =  268435456
+pack_report: pack_used_ctr            =      22324
+pack_report: pack_mmap_calls          =      10353
+pack_report: pack_open_windows        =          4 /          6
+pack_report: pack_mapped              =  101069594 /  163170978
+---------------------------------------------------------------------
+```
+
+É óbvio que nem tudo serão mil maravilhas. Eu, por exemplo, encontrei um problema com case-sensitive que me deu algumas dores de cabeça:
+
+```
+fatal: Path Something/Resource.h not in branch
+fast-import: dumping crash report to .git/fast_import_crash_676
+bzr: broken pipe
+```
+
+O Git gera um arquivo de report onde estão as informações do ocorrido. Uma forma de contornar esse tipo de problema é primeiro exportar para um arquivo e editá-lo (corrigindo o case, por exemplo):
+
+```
+bzr fast-export --plain . > plain-export.txt
+gvim fast-export.txt
+hack hack hack
+type fast-export.txt | git fast-import
+```
+
+_Note que talvez você precise de um editor que suporte arquivos gigantescos (como o Vim) e precise se debruçar sobre merges com arquivos com mesmo nome e diferentes cases. Isso que dá manter projetos com refactoring pesado._
+
+Por fim, faça a conversão para todos os .bzr que tiver e haverá um .git com todo o histórico desses anos usando Bazaar. O próximo passo é montar o histórico de todos eles em apenas um repositório (se assim desejar). Segue uma série de comandos que pode ajudar para usar em uma batch:
+
+```
+@echo off
+git remote add -f bzr ..\PathToOldConvertedRepo\%1
+git merge bzr/master
+git remote remove bzr
+mkdir Archive\%1
+echo Mova os arquivos importados
+pause
+git add --all
+git ci -m "Archiving old Bazaar repo (%1)."
+```
+
+Você pode chamar um a um em cima de um repo novo:
+
+```
+mkdir NewRepo
+cd NewRepo
+git init
+..\MyMergeBatch.bat OldRepoName
+..\MyMergeBatch.bat OldRepoName2
+..\MyMergeBatch.bat OldRepoName3
+```
+
+Para conseguir ter acesso ao histórico dos arquivos movidos, basta usar a opção -all do log:
+
+```
+git log --all -- MyRemovedPath
+```
+
+## Update
+
+Tive alguns problemas em rastrear o histórico utilizando a estratégia de fazer merge no mesmo branch. A solução que encontrei, embora não exatamente direta, foi realizar os merges em branches apartados primeiro, mover os arquivos (de preferência, usando o git, para que ele detecte o rename), aplicar o commit e realizar o merge com o master. Há uma vantagem nessa estratégia, além do log --follow funcionar melhor: mantenha os branches originais, além do ponteiro para remote. Dessa forma, depois de alguns anos, saberá de onde veio esse merge maluco.
+
+## Update2
+
+Depois de um tempo testando essa técnica, descobri que o Git se perde novamente e não encontra mais todos os logs, mesmo com --follow  mesmo movendo os arquivos. O meu problema está relacionado com mesmos paths dos arquivos em repositórios diferentes. Paciência.
+

@@ -1,78 +1,35 @@
 ---
-categories:
-- coding
-date: '2007-12-19'
-title: Drag and drop no C++ Builder
+
+I could move (black) and M2, but I decided to draw =P.
+
+{{< image src="board.png" >}}
+
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.18"]
+[White "Tomsonht"]
+[Black "cavaloni"]
+
+1. d4 Nf6 2. Bf4 g6 3. Nf3 Bg7 4. e3 O-O 5. c3 Re8 6. Bd3 d6 7. e4 Nbd7 8. e5
+dxe5 9. Nxe5 Nd5 10. Bg3 Nxe5 11. Bxe5 Bxe5 12. dxe5 e6 13. Bc4 c6 14. Nd2 Bd7
+15. Ne4 Kg7 16. Bxd5 cxd5 17. Qf3 Rf8 18. O-O dxe4 19. Qxe4 Qe7 20. Rad1 Rad8
+21. Rd3 Bb5 22. Rxd8 Rxd8 23. Re1 Bc6 24. Qe3 h6 25. h3 a6 26. b4 Qg5 27. Qxg5
+hxg5 28. Re3 Rd2 29. a3 Ra2 30. c4 f5 31. exf6+ Kxf6 32. c5 Bd5 33. f3 Kf5 34.
+Kh2 Kf4 35. Rd3 Kf5 36. Kg3 Ra1 37. Re3 Ra2 38. Rd3 Bc4 39. Rc3 Bb5 40. Re3 Bc6
+41. Rd3 Rc2 42. Re3 Rc4 43. Rd3 e5 44. Re3 e4 45. fxe4+ Rxe4 46. Rf3+ Rf4 47.
+Rd3 Ke4 48. Rc3 Kd4 49. Rb3 Kc4 50. Re3 Kb5 51. Re5 Re4 52. Rxg5 Re3+ 53. Kf2
+Rxa3 54. Rxg6 Ra2+ 55. Ke3 Rxg2 56. Rxg2 Bxg2 57. h4 Kxb4 58. Kd4 a5 59. h5 a4
+60. Kd3 Bd5 61. h6 Bg8 62. Kc2 Kxc5 63. Kb2 Kb4 64. Ka1 b5 65. Kb2 Kc4 66. Ka3
+Kc3 67. h7 Bxh7 68. Ka2 b4 69. Ka1 a3 70. Ka2 Bg8+ 71. Kb1 b3 72. Ka1 {Black
+move and M2.} 72... a2 (72... b2+ 73. Kb1 a2#) 1/2-1/2
+```
+
 ---
-
-O sistema de drag and drop do C++ Builder é muito fácil de usar, integrado que está com o sistema de classes e objetos do framework. Tanto para o objeto de drag quanto para o objeto de drop tudo que temos que fazer é definirmos a propriedade DragMode para dmAutomatic como mostra a figura. Isso fará com que toda a troca de mensagens seja manipulada automaticamente pela VCL.
-
-{{< image src="trocatroca.gif" caption="Troca-troca" >}}
-
-A parte (ridídula) do código fica por conta da manipulação do evento de drop. Para aceitar um objeto, devemos tratar o evento OnDragOver. Basta isso para que a variável Accept tenha seu valor default definido para true. Podemos, entretanto, escolher se iremos ou não tratar um possível drop de um objeto. Verificando seu tipo, por exemplo:
-
-    void __fastcall TMain::FormDragOver(TObject *Sender, TObject *Source,
-          int X, int Y, TDragState State, bool &Accept)
-    {
-    	Accept = true;
-    }
-    
-    void __fastcall TMain::ListBoxDragOver(TObject *Sender, TObject *Source,
-          int X, int Y, TDragState State, bool &Accept)
-    {
-    	Accept = dynamic_cast<TWinControl*>( Source ) ? true : false;
-    } 
-
-A parte mais interessante do código fica por conta da hora que o objeto é "jogado", no evento OnDragDrop. Nela recebemos o ponteiro para o Sender (como sempre), que é o target object, e um Source. Geralmente para manipular o source object é necessário antes realizar um cast para um tipo mais conhecido.
-
-    void __fastcall TMain::ListBoxDragDrop(TObject *Sender, TObject *Source, 
-    	int X, int Y)
-    {
-    	if( TListBox* listBox = dynamic_cast<TListBox*>(Sender) )
-    	{
-    		TWinControl* winCtrl = static_cast<TWinControl*>(Source);
-    
-    		if( listBox != winCtrl )
-    		{
-    			listBox->Items->Add(winCtrl->Name);
-    			winCtrl->Visible = false;
-    		}
-    	}
-    }
-
-    void __fastcall TMain::FormDragDrop(TObject *Sender, TObject *Source,
-    	int X, int Y)
-    {
-    	if( TForm* form = dynamic_cast<TForm*>(Sender) )
-    	{
-    		TControl* ctrl = 0;
-    
-    		if( TListBox* listBox = dynamic_cast<TListBox*>( Source ) )
-    		{
-    			for( int i = 0; i < listBox->Count; ++i )
-    			{
-    				if( listBox->Selected[i] )
-    				{
-    					ctrl = this->FindChildControl(listBox->Items->Strings[i]);
-    					listBox->Items->Delete(i);
-    					break;
-    				}
-    			}
-    		}
-    		else
-    			ctrl = dynamic_cast<TControl*>(Source);
-    
-    		if( ctrl )
-    		{
-    			ctrl->Top = Y;
-    			ctrl->Left = X;
-    			ctrl->Visible = true;
-    		}
-    	}
-    } 
-
-E mais uma vez voilà! Pouquíssimas linhas de código e um movimentador e empilhador de controles. Dois detalhes merecem ser destacados:
-
- - O uso de dynamic_cast em cima dos ponteiros da VCL é uma maneira saudável de checar a integridade dos tipos recebidos - particularmente do Sender. O uso do primeiro parâmetro dos tratadores de eventos também torna o código menos preso à componentes específicos do formulário;
- - O método FindChildControl é deveras útil quando não temos certeza da existência de um controle. Geralmente é uma boa idéia confiar no sistema de gerenciamento de componentes da VCL. Não é à toa que existe um framework por baixo do ambiente RAD.
-
+categories:
+- writting
+date: '2012-10-05'
+link: https://www.imdb.com/title/tt1343727
+tags:
+- movies
+title: Dredd

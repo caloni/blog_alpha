@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2019-12-02'
-link: https://www.imdb.com/title/tt11131980
+date: '2016-05-29'
+link: https://www.imdb.com/title/tt2168180
 tags:
-- series
-title: Ninguém Tá Olhando
+- movies
+title: 'Nise: O Coração da Loucura'
 ---
 
-É gostoso assistir a uma série nova e sua ideia fresca, com algumas sacadas que revisitam temas anteriores, mas sob um novo olhar: o olhar brazuca. É assim que chega Ninguém Tá Olhando na Netflix, um trabalho conjunto entre uma cineasta de curtas documentais de aspecto social (Carolina Markowicz), o autor da terrível série 3% (Teodoro Poppovic) e um editor de filmes com forte fundo social, como Tropa de Elite e Cidade de Deus (Daniel Rezende), que justamente por conta de seus criadores e do formato televisito da rede de streaming vira uma maçaroca de dar dó já no seu terceiro episódio.
+Glória Pires desperdiçada em Tempo de Despertar brasileiro. Acompanhamos o fascinante tratamento psiquiátrico conduzido por Nise da Silveira, uma personagem da vida real, aos pacientes do instituto psiquiátrico Engenho de Dentro, no Rio de Janeiro de 1940. As mulheres independentes não são bem vistas, e Nise se coloca entre a ala masculina de doutores explorando novos métodos de lobotomia de pacientes (como se os estivessem curando) enquanto Nise tenta uma abordagem mais Jungiana, voltada para entender o inconsciente de seus pacientes, que carinhosa ou respeitosamente, insiste em chamar de clientes (embora não durante todo o tempo, falha de roteiro). Acima das divergências científicas, o que está em jogo é um tratamento mais humano e que tente de fato melhorar a vida dessas pessoas isoladas do mundo por distúrbios mentais.
 
-Narrando uma história confusa sobre um sistema burocrático de anjos criados por Deus em uma repartição pública dos céus, Ninguém Tá Olhando sonha desde o começo em ser uma série tão eterna quanto seus seres alados e engravatados, mas apesar de suas boas ideias iniciais, como quatro regras que os anjos não podem violar, semelhante aos dez mandamentos dados aos humanos, ambas as listas criadas para serem desobedecidas, ou todo o mecanismo por trás da escolha dos pares entre anjos e humanos que serão ajudados pelos primeiros, o fato é que a lógica desmorona tão rápido quanto começa.
+Nesse sentido, "Nise" é um passeio delicioso pelas possibilidades da mente e da comunicação humanas, enquanto de quebra nos entrega um sopro de esperança em uma área dominada por médicos mais interessados em se livrar do inconveniente que seus pacientes geram do que de fato entender o que acontece com os chamados "malucos" daquela época.
 
-Por exemplo, ao descobrir que o sistema de escalação de anjos é algo completamente aleatório e não está sob controle divino, nós, espectadores, imediatamente nos perguntamos por que os mesmos anjos, então, continuam sendo escolhidos para os mesmos humanos (como o rapaz que gosta de jogar video-game e se masturbar, a cargo do anjo novato criado para explicar todo o sistema a nós). E depois de explicar tantas regras por trás do funcionamento deste além-mundo, elas vão sendo quebradas uma a uma e sem uma forma fácil do espectador entender o que pode acontecer, tornando as possíveis consequências convenientes aos olhos dos roteiristas e igualmente aleatórias.
+No entanto, o filme tenta mostrar o milagre sem mostrar o santo. Dessa forma, a figura de Nise soa apagada, e é difícil entender seu valor, já que o tratamento dos pacientes pela pintura parece muito mais obra do acaso do que a intenção bem definida e bem intencionada da figura da doutora. Sabemos que a ciência caminha muito pela especulação e experimentos ousados, assim como acompanhamos a curiosidade e empenhos científicos de Robin Williams para entender as causas da paralisia de seu paciente interpretado por Robert de Niro em Tempo de Despertar, já citado. Porém, em Nise não há espaço para esse estudo fascinante dos métodos da ciência, já que o mesmo é ocupado por um panfleto anti-reacionário bobo que coloca todos os psiquiatras do instituto como vilões míopes -- e reacionários! -- em contrapartida com a progressista e moderna Nise. Em determinado momento, um deles a "acusa" de ser comunista, mas só pesquisando a bibliografia da mulher da vida real para entender que ela já foi presa por estar em posse de livros dessa ideologia.
 
-Será que um rato está por trás da escrita do roteiro desta série?
+Por isso e pelo melodrama barato, que tenta explorar os sentimentos do espectador usando uma trilha sonora para fazer chorar a todo momento, Nise acaba ficando aquém da sua história extraordinária. Não é algo inusitado. O Cinema brasileiro contemporâneo continua infectado pelos berros autoritários de um ufanismo socialista que ofusca histórias muito maiores que o bobinho jogo político de produções que buscam dinheiro público a todo custo. Uma pena. Nise, como conceito, flerta seriamente como um dos melhores exemplos de "filme baseado em história real", com uma história inspiradora. Graças ao efeito "Que Horas Ela Volta", filme da diretora Anna Muylaert que traz à tona movimentos socialistas revolucionários da cabeça de parte da elite, vira apenas uma tentativa imbecil de fazer valer as ideias erradas em comparação com pessoas mais erradas ainda.
 

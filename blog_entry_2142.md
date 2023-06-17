@@ -1,16 +1,20 @@
 ---
 categories:
 - writting
-date: '2014-02-09'
-link: https://www.imdb.com/title/tt0100157
+date: '2016-01-04'
+link: https://www.imdb.com/title/tt3948438
 tags:
 - movies
-title: Louca Obsessão
+title: Loucas pra Casar
 ---
 
-Baseado em um romance de Stephen King, este thriller do início da década de 90 que apresenta Kathy Bates como Annie Wilkes, a fã obsessivo-compulsiva que tem a "sorte" de resgatar o seu escritor favorito de um acidente de automóvel. Isolados pela neve, ela tem a chance de cuidar de Paul Sheldon (James Caan) enquanto ele se recupera. A mesma sorte não possui Sheldon, cuja editora acabou de publicar o último livro da série com a personagem Misery (o título original do filme) em que a mata.
+Dirigido e escrito como uma telenovela, Loucas Pra Casar tem uma boa ideia para uma peça de teatro (talvez até seja) e tenta esticá-la em um filme inteiro usando uma estrutura baseada em episódios descartáveis e bobos, tornando toda a experiência um exercício de futilidade com nenhuma tensão e zero carisma.
 
-Esse plot inicial é tudo que é necessário para vermos Kathy Bates possuída, onde diversos enquadramentos do diretor Rob Reiner (Conta Comigo) nos colocam na mesma posição dos adolescentes de hoje em dia que se assustam com cenas que assustam pelo barulho inesperado. Porém, diga-se de passagem, os sustos aqui não são gratuitos, mas fazem parte da construção da psique da personagem de Wilkes como uma mente conturbada e responsável por diversos assassinatos.
+Sua protagonista, Malu (Ingrid Guimarães), passou a juventude adulta pegando buquês e vendo suas amigas se casarem. Dedicada e metódica, profissionalmente é bem-sucedida e independente. No entanto, isso não evita que ela se sinta incompleta, já que não tem marido (que pecado para uma mulher em pleno século 21!). Sendo secretária do seu pretendente para esse "cargo", a única coisa que a atrapalha são as amantes de seu namorado. Ou seja, é o velho argumento machista das comédias românticas de Hollywood reciclada em um modelo brasileiro onde a putaria teoricamente é mais liberada.
 
-O resto é uma homenagem descarada de Psicose, de Hitchcock e da década de 60, incluindo a casa onde ambos ficam reclusos (além de ser uma boa fonte de inspiração para Fargo, dos irmãos Coen). Uma homenagem, diga-se de passagem, muito merecida, pois apresenta a tortura psicológica do inocente nas mãos do assassino por um ângulo completamente diferente.
+Teoricamente. Mesmo sendo brasileiro, o filme é surpreendentemente conservador, frio e distante, pois se concentra em gags televisivas inocentes que quase nunca movem a história para frente. Sem mover a história, nunca se cria tensão ou empatia de seus personagens, que se dividem em mulheres histéricas e um homem perfeito cujo único possível defeito é ter duas amantes: uma dançarina de boate e uma jovenzinha metida a crentelha.
+
+Pior que isso é reparar lá pela metade do filme para onde o roteiro desagradável de Marcelo Saback está nos levando, em uma reviravolta completamente sem sentido, onde até piadas como a de Malu falando com um porteiro só irão fazer sentido -- e, portanto, supostamente se tornar engraçada -- depois da reviravolta em si, quando tivermos entendido toda essa complexa "trama", criada pelo jeito por uma mente feminina construída como alimento para machos-alfa ávidos por três mulheres dispostas a disputá-lo a tapas.
+
+Loucas Pra Casar é um universo limitado demais para virar sequer um filme que acreditemos em seus personagens, pois os atores saíram de programas estilo Zorra Total, onde as mulheres fazem sexo impossível, de lingerie e calcinha, e onde o único objetivo da vida de uma mulher é conseguir um homem para casar. É curioso que para uma comédia, mesmo se fosse lançada trinta anos atrás, ainda poderia ser acusada de retrógrada.
 

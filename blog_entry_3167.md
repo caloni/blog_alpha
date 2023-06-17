@@ -1,24 +1,33 @@
 ---
-categories:
-- writting
-date: '2010-06-14'
-link: https://www.imdb.com/title/tt0473075
-tags:
-- movies
-title: 'Príncipe da Pérsia: As Areias do Tempo'
+categories: []
+date: '2012-05-27'
+tags: null
+title: Problemas comuns no WinDbg e suas soluções
 ---
 
-Inspirado pelo post recente do Daniel Quadros, um programador como eu, mas que gosta de se aventurar em outras áreas (como eu), resolvi publicar minhas impressões sobre esse filme de 2010, que assisti no cinema com o meu antigo caderno de anotações (hoje aposentado até segunda ordem). Minha ideia era apenas praticar minha sensibilidade sobre a sétima arte, mas aos poucos estou organizando os textos da época.
+Depois de uma agradável manhã e tarde acompanhando o [curso de desenvolvimento de drivers do meu amigo Ferdinando](http://driverentry.com.br/blog/?page_id=16) voltei para a casa para brincar um pouco mais com o mundo kernel e voltar a encontrar problemas com o WinDbg & Cia que há mais ou menos 1 ano atrás não tinha.
 
-Ainda que Jordan Mechner, criador do jogo, estivesse até certo ponto envolvido com o roteiro cinematográfico, é preciso inocentá-lo do formato bobo e previsível da história assinada por ninguém menos que três roteiristas, dois deles envolvidos em pequenos projetos da Disney, como Aprendiz de Feiticeiro e produções para TV. A despreocupação dos produtores em escolher seus roteiristas, aliás, é inversamente proporcional aos seus objetivos, que com esse subtítulo sugerem que, assim como ocorreu com Piratas do Caribe e As Crônicas de Nárnia, há a possibilidade de continuações.
+Pesquisando por um problema específico envolvendo PDBs reencontrei o [blogue do Ken Johnson](http://www.nynaeve.net/), MVP Microsoft e analista por profissão e diversão, é conhecido por suas excelentes contribuições no mundo da depuração de sistema (notadamente WinDbg). Existe um post específico que ele escreveu para economizar tempo com problemas que ocorrem de vez em quando em uma sessão ou outra de depuração, mas nunca paramos tempo o suficiente para resolver.
 
-De qualquer forma, esse filme tem começo, meio e fim. Ambientado na Pérsia antiga, a fuga do príncipe Dastan (Jake Gyllenhaal) do seu reino e, coincidentemente, da princesa Tamina (Gemma Arterton, , sempre uma princesa) desenvolvem a velha fórmula de aventuras destemidas e milimetricamente calculadas, algo inerente dos jogos de vídeogame, e que aqui não consegue se soltar. Em todas as cenas de ação existe o pano de fundo das fases mais difíceis e habilidades maiores requeridas.
+Além de outros, ele lista alguns que particularmente já aconteceram comigo ou com colegas de depuração:
 
-O par romântico que se forma, sempre um par romântico, possui tanta química quanto Jack Sparrow e Penélope Cruz em Piratas do Caribe 4: o velho clichê "se odeiam, mas se amam". Desde o início não há motivos para a ajuda vinda da princesa, que precisa também escapar o mais rápido possível.
+**O WinDbg demora um tempo absurdo para processar o carregamento dos módulos e está usando tempo máximo de processamento em apenas uma CPU.**
 
-Se muito o que oferecer em seus papéis, o alívio cômico fica por conta de um divertido Alfred Molina como um comerciante ganancioso. Ben Kingsley, por sua vez, se considerarmos sua participação no Ditador, parece estar entrando no velho esquema Hollywoodiano de "pagar o aluguel", se oferecendo em papéis menores de filmes de comédia/aventura.
+Isso ocorre porque existem breakpoints ainda  não resolvidos. Resolva deixando apenas esses tipos de breakpoints que são absolutamente necessários, pois cada vez que um módulo é carregado o depurador precisa fazer o parser de cada um deles para verificar se ele já consegue resolve-lo.
 
-Não que a experiência como um todo seja um desastre, mas fica muito aquém de suas possibilidades, já vistas no jogo homônimo. Há algumas tentativas de juntar as pontas, por exemplo, na cena em que vemos o Dastan treinando sua pirueta na parede (e falhando, lógico) e em uma cena de fuga real ele consegue efetuar a tal acrobacia e até acerta três capangas. Porém, mesmo dentro desses momentos inspirados é muito difícil tirar o jogo que originou o filme da cabeça, porque os ângulos e os movimentos do protagonista levam a crer que tudo aquilo é fantasioso, e o fato dos personagens tomarem decisões delicadas com tanta facilidade evidencia a falta de tensão. Mesmo que isso fizesse algum sentido no estilo de vida do príncipe como é visto em sua infância, o mesmo não valeria para a princesa Tamina, que assume o lado sério da relação, embora ela mesma não se leve tão a sério.
+Às vezes, porém, existe algum lixo nos workspaces carregados por ele que permanecem mesmo depois de apagarmos todos os breakpoints inúteis ou reiniciar o sistema. Em último caso, sempre podemos apagar o workspace do registro, em **HKCU\Software\Microsoft\Windbg\Workspaces**.
 
-Com cenas finais que mais uma vez evidenciam o caráter permanente do jogo na mente dos idealizadores, não deixa de ser um espetáculo visual a cena na areia, que consegue encaixar de maneira satisfatória a ideia de viagem no tempo. O problema reside na superficialidade que este artifício exerce na narrativa como um todo, deixando-a mais fraca do que já é, restando apenas a temporária diversão dos seus efeitos, que são esquecíveis assim que saímos da sala de projeção.
+**O WinDbg continua demorando décadas para analisar o carregamento, mas agora nem consome tanta CPU assim.**
+
+Isso ocorre porque na cadeia de paths para procurar por símbolos existe algum endereço de rede/internet errado que faz com que ele tenha que caminhar em falso diversas vezes. Esse e outros erros de símbolos sempre poderão ser analisados através do universal **!sym noisy**, que imprime todo tipo de informação útil do que pode dar errado durante um .reload explícito (eu digitei) ou implícito (lazy reload).
+
+**O WinDbg continua recusando carregar um símbolo que eu sei que existe e sei que é válido.**
+
+Talvez ele exista, mas por algum motivo foi copiado corrompido para o symbol server. Mais uma vez, **!sym noisy** nele e deve acontecer algum erro de **E_PDB_CORRUPT**. Nesse caso, apague o PDB culpado e tente de novo.
+
+E, como brinde, um grande aliado da produtividade: **como evitar que o WinDbg bloqueie seu PDB enquanto você precisa constantemente recompilar seu driver:**
+
+.reload -u modulo
+
+Fonte: Blog do [Nynaeve](http://www.nynaeve.net/?p=164).
 

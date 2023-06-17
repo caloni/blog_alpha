@@ -1,23 +1,25 @@
 ---
 categories:
 - writting
-date: '2017-07-26'
-link: https://www.imdb.com/title/tt3476694
+date: '2023-01-08T21:02:19-03:00'
 tags:
-- cinemaqui
-- movies
-title: Rifle
+- wine
+title: Rio Sol Gran Reserva Alicante Bouschet 2018
 ---
 
-Rifle poderia ser chamado de exercício de futilidade, mas quem faz exercício tem o objetivo de melhorar. E não é isso que vemos no filme. Nele há altos e baixos que poderiam sugerir alguma linha de pensamento. O espectador anseia por significado. Mas no final fica claro que tudo não passa de uma grande bobagem.
+Às vezes vem a sensação que essas anotações não são úteis, mas acontece que há muitos vinhos no mundo e pouco tempo, dinheiro e fígado para ficar tomando garrafas de todos os lugares, uvas e safras. Eu posso saber na hora se gostei de um vinho, mas isso não me ajudará a saber mais sobre outros vinhos.
 
-A história se passa no sul do Brasil, onde uma região pecuarista decadente está sendo comprada por grandes produtores de soja (aqui na história, folcloricamente apenas um comprador). Não é segredo que a maior parte da soja produzida no país é exportada. Assim como a carne. Então podemos dizer que há um empate técnico de interesses.
+Este Rio Sol foi uma das notas mais altas nos três testes às cegas que fiz com o pacote de dezesseis garrafinhas do [EniWine]. Eu votei consistentemente neste como se fosse a quinta maravilha do mundo. E a sorte é que ele é brasileiro, relativamente fácil de adquirir (pela própria EniWine). Mas não costumo beber muitas vezes o mesmo vinho. Uma exceção eram os vinhos do Outback, pois a seleção é pouca e eu ia muitas vezes lá para o double drink.
 
-Mas nada disso é discutido no filme. A maioria dos dados sobre o tema você irá ter que trazer de casa. A história em si é uma tentativa de romantizar e justificar a bandidagem. O ritmo com que a história é imposta, principalmente no começo, é de fazer dormir. Tudo gira lentamente no dia-a-dia da fazenda, e logo o tempo não importa mais, mas a causalidade. Há ladrões de carne espalhados pela região que fazem o que quiser com os moradores e suas reses. Aparentemente ninguém tem sequer um rifle nas residências para proteção.
+Mas isso é coisa do passado, eu não vou mais a este restaurante, a qualidade decaiu e os preços aumentaram. E mesmo que fosse: beber sempre os mesmos vinhos garante que os apreciarei sempre? Talvez. Mas e a surpresa, a fascinação por uma nova obra de arte?
 
-E é ironicamente a causalidade (o remorso de ter que sair da região) e um rifle que faz com que um jovem (Dione Avila De Oliveira) comece a praticar violência a distância contra veículos na estrada. Dessa forma o equipamento que serve para proteção é utilizado para descontar a raiva adolescente contra os mecanismos da realidade.
+Minhas anotações precisam de uma reforma. Elas precisam ser úteis de alguma forma. Talvez agrupando sensações parecidas? Uvas? Qual o critério? Preciso repensar sobre isso com tempo. As classificações do mundo do vinho já podem ajudar.
 
-Os atores do filme se tornam personagens. Seus nomes próprios são usados como os nomes dos personagens, e acreditamos que eles são pessoas reais. Tudo isso vai sendo entendido através de diálogos quase incompreensíveis dos nativos, que falam com sotaque em cima de um design de som pavoroso. Não é possível entender muito com essas falas, mas o pior é não conseguir entender a história pela narrativa, que é preguiçosa a ponto de não conseguir estruturar o que pretende, ou é algo tão aberto que chega a ser covarde suas conclusões. Escolha uma das duas opções. Tanto faz. O filme não fica melhor por causa disso.
+Mas não quero virar um Robert Parker em busca de vinhos com maior pontuação. Eles continuam sendo arte. A tarefa é entender a qual gênero um vinho pertence.
 
-Na verdade, fica pior. Este é um ótimo exemplo de como há um certo movimento no cinema brasileiro que está usando como clichê os cortes secos, a falta de trilha, o lugar-comum das discussões sociais vazias ou sem muito preparo. São crias de trabalhos muito mais ambiciosos, como Aquarius e Que Horas Ela Volta?, mas essas crias tentam discutir as mesmas questões dando murro em ponta de faca. Ou, no caso, atirando com um rifle na beira da estrada.
+Gêneros podem ser úteis nesse caso. Uma comédia leve pode ser aquele vinho fácil de beber sem complexidade alguma, mas ainda assim desejável. Todos entenderiam. Eu entenderia. Muito diferente deste é aquele drama pesado, encorpado, difícil de engolir de uma vez pois é preciso de tempo para assimilar todos os aromas ou sabores.
+
+E há também aquela aventura, que te leva para viagens sensoriais ousadas ou atrevidas. O vinho de quem quer emoção com a bebida e ao mesmo tempo curtir as saudades do novo.
+
+[EniWine]: {{< ref eniwine >}}
 

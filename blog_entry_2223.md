@@ -1,14 +1,18 @@
 ---
 categories:
 - writting
-date: '2014-02-15'
-link: https://www.imdb.com/title/tt2023587
+date: '2015-09-21'
+link: https://www.imdb.com/title/tt0019760
 tags:
 - movies
-title: Mama
+title: Um Homem com uma Câmera
 ---
 
-Mama, além de ter premissas ruins, nem filme de terror é. "Inspirado" pelo curta homônimo de 2008 do próprio Andrés Muschietti, o diretor recebe visibilidade através de Guillermo del Toro (O Labirinto do Fauno), que assina a produção. A história gira em torno de duas meninas que ficam abandonadas em uma cabana na floresta por cinco anos após terem sido raptadas pelo pai que por sua vez é capturado por uma espécie de assombração. Tendo um descartável irmão gêmeo do pai das meninas para restabelecer o elo com a casa onde moravam e sua namorada (Jessica Chastain) que fica aliviada por não estar grávida, mas vira alvo de ciúmes da já citada assombração que (oh!) se revela como um fantasma de uma mãe que perdeu seu filho.
+Man With a Movie Camera, ou "Chelovek S Kino-apparatom", provavelmente é o filme experimental mais conhecido pelos cinéfilos, talvez por ter sido recomendado e elogiado por críticos do mundo todo.
 
-Lotado de clichês que não funcionam, como o psiquiatra que vai aos poucos desvendando o "mistério", na maioria das vezes as pessoas decidem esperar anoitecer para terem um pouco de ação. E a ação do filme se resume basicamente em aplicar sustos esporádicos e mostrar cada vez mais a tal assombração, que obviamente é uma construção digital, o que faz perder 80% de todo o medo que ela poderia gerar.
+E não é à toa. O filme é de fato dirigido (e escrito) por um homem e sua câmera na mão, o russo Dziga Vertov. Vertov foi um daqueles cineastas que ninguém ouve falar que produzia os "newsreel", as sessões de Cinema que traziam notícias, pequenas estórias e itens de interesse comum. Iniciou sua carreira de diretor com os Kino-Pravda, ou "filme-verdade": "newsreel" que combinavam diferentes cenas para produzir um significado mais profundo. Um detalhe é que, geralmente filmando em lugares públicos pessoas que lá estava, ele costumava esconder sua câmera e filmar o que queria antes de pedir permissão. Isso é importante para entendermos toda a espontaneidade encontrada nessa sua obra celebrada e redescoberta até hoje.
+
+Apesar de ser experimental, "Man With..." é um documentário da vida dos sovietes no final da década de 20. No entanto, apenas com a edição inspiradíssima de Vertov e uma escolha adequada de músicas de autores mistos é que o filme se ergue do lugar-comum e constrói combinações através de trucagens de filmes sobrepostos -- geralmente onde vemos o cameraman ou sua câmera em destaque na multidão -- ou o uso de diferentes cenas em um vai-e-vem frenético -- onde a cena das telefonistas vira um ode à rapidez do mundo moderno -- ou até a transição de uma trilha sonora mais lenta que consegue captar a natureza humana quase sempre de uma maneira a ser impossível não sorrir (e chorar) através das sequências de um check-in no hotel de um casal seguido da assinatura de um divórcio por outro casal, ou a expressão encafifada de uma criança diante dos truques de um mágico.
+
+O fato é que não há muita história a ser contada, mas muita história dentro do que a câmera mostra. Se você for assistir hoje ela com certeza trará uma visão diferente de quando as pessoas assistiram à época (e sua conclusão dentro da sala de cinema é de uma recursão deliciosamente humana e artística ao mesmo tempo), e talvez ao assistir daqui a algumas décadas isso mude novamente. De certa forma, "Man With a Movie Camera" extrapola o que todo filme indiretamente é: um registro documental de uma era.
 

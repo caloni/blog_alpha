@@ -1,24 +1,24 @@
 ---
 categories:
 - writting
-date: '2017-03-26'
-link: https://www.imdb.com/title/tt1825157
+date: '2021-11-17T19:43:31-03:00'
 tags:
+- cinemaqui
 - movies
-title: O Duplo
+title: O Enigma da Chegada
 ---
 
-O Duplo é uma viagem moderna, animalesca, exagerada, utópica e livre de interpretações do livro homônimo de Fyodor Dostoevsky. Apresentando uma estética rica e impecável, o diretor Richard Ayoade adaptou o conteúdo do romance do autor russo com a ajuda de Avi Korine e entregaram um resultado além das expectativas que alguém poderia pensar de um filme protagonizado por Jesse Eisenberg como um herói tragicômico. Se trata de uma premissa simples: e se seu pior inimigo fosse você mesmo, mas em uma versão que todos reconheçam como um ser humano completo -- ainda que imoral -- e que você seja um mero espectador do sucesso que você poderia ser se pudesse, paradoxalmente, colocar seu próprio eu de lado, deixando de atrapalhar sua existência.
+Dá pra notar o amor do diretor Song Wen pelo cinema. Ele cita Wong Kar-Wai como se seus personagens não o conhecessem, e eles vão ao cinema ver pornô após a meia-noite e não para ver um trabalho do diretor chinês que passa logo antes. Eles estão alheios à arte, mas a fotografia de O Enigma da Chegada não, e portanto eles vão ser fotografados em preto e branco quando houver memórias de um passado tenebroso na vida desses jovens.
 
-O impressionante é que Eisenberg consegue fazer tanto Simon James quanto seu sócia, James Simon, de uma maneira inquietante. Se como Simon chega a dar desespero a introspecção e o senso de invisibilidade do rapaz, assim como James se torna sua sombra que toma conta. E a sua sombra, como vemos no filme, é uma representação fidedigna de seu personagem, pois ela passeia pelos muitos cantos claustrofóbicos dos cenários fotografados por Erik Wilson, cheios de sombra e drenados de cor.
+Mas eles são apenas jovens e estão curtindo seus hormônios. Furam a escola e paqueram duas lindas garotas que conheceram na discoteca. Este é um filme sobre memórias, portanto nada mais justo que vejamos apenas as melhores. É assim que nosso cérebro funciona. Podemos ter momentos que não queríamos ter passado e o tempo simplesmente dá um jeito de sumir com eles.
 
-Em um ambiente que poderia lembrar 1984 (o filme), Brazil (o filme) ou qualquer desses futuros distópicos onde a esperança foi aniquilada por corporações sem alma, o suicídio é algo comum. As pessoas deixam de existir e cometem suicídio ou comentem suicídio para deixar de existir nesse mundo? Para Simon, o único motivo dele viver é sua vizinha do prédio à frente, a doce, jovem, bela e loira Hannah, interpretada por Mia Wasikowska como uma mulher vulgar ou trivial, e não como a deusa imaginada por Simon.
+Mas não este rapaz que se torna homem. Zhao Xiaolong deseja de todas as formas descobrir o que realmente aconteceu com a garota que não sabia se estava afim. O filme forma um mosaico de possibilidades vagas, mas sem quebrar seu tino comercial. Como Wong Kar-Wai, aliás.
 
-O ambiente também sofre várias influências do anime japonês, seja pela trilha sonora estilizada de Andrew Hewitt, que investe em canções em japonês, ou pelo exagero dos enquadramentos de Richard Ayoade, que usa um solitário vagão para mover seus personagens de e para o trabalho.
+A ideia por trás de "O Enigma" é justamente brincar com nossa percepção do que é lembrado dos momentos nostálgicos. Isso cria um filme leve, pois para brincar com isso precisamos passar por esses momentos, que são doces, ingênuos. Tudo o que você precisa quando se é jovem: bebidas, garotas, zoeira.
 
-E que trabalho. Não sabemos o que é feito (como de costume em futuros distópicos), mas sabemos que as pessoas ficam com os cabelos brancos por lá. Se trata de um destino triste e solitário para Simon, cuja única felicidade é burlar um regulamento e imprimir apenas uma cópia na impressora para ir para o andar onde trabalha Hannah e pedir mais uma cópia. A assistente de Hannah lembra a megera de Expresso do Amanhã, assim como alguma outra megera de 1984.
+Parte da brincadeira primeiro é comparar o nível de maturidade entre os meninos e as meninas. Elas estão anos-luz à frente e é divertido entender toda a lógica por trás de um convite do tipo "vamos dar uma volta pela balsa à noite" e um jovem tirar a conclusão totalmente errada dias depois.
 
-No entanto, talvez o trabalho mais sofisticado do filme seja seu roteiro. Bem estruturado em todas suas partes, não deixando detalhes existirem a esmo (incluindo seu desfecho genial), a adaptação de Ayoade/Korine não deixa margem a dúvidas sobre o que está acontecendo, mas apenas o porquê. Mas ele também não torna as coisas fáceis para o espectador médio, que precisa entrar a fundo no tema para entender o que está acontecendo e não se importar tanto em um porquê bobo que irá estragar a festa. O importante na história não é como é possível existir um sócia e as pessoas não perceberem (até porque, em uma cena do hospital, vemos que isso é possível de acontecer com qualquer pessoa). Essa não é a pegada semi-realista de O Homem Duplicado, mas a viagem filosófica por trás do que tudo isso significa para o homem comum.
+Outra parte da brincadeira é entender as diferentes versões que cada um dos meninos se lembra de como foram aqueles momentos mágicos e inconsequentes, que se tornam quase umas férias escolares em suas lembranças.
 
-E é uma viagem sensorial, também. Exagerada quase além da conta. No entanto, não é necessário que seja assim, para entendermos que este é um assunto sério, seríssimo, mais do que uma simples brincadeira? O humor se encontra a todo momento nesse drama, mas vai se tornando cada vez mais "dark" a cada passo. Como é possível achar engraçado um destino tão desesperador?
+O Enigma da Chegada se torna tenso apenas nos momentos finais. E o protagonista escolhe ignorar isso. É a arte do esquecimento na era do fake news. Se é desagradável é melhor evitar esse momento com meus ex-amigos. Vamos ficar nas memórias boas de quando enchíamos a cara.
 

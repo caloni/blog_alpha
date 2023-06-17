@@ -1,40 +1,14 @@
 ---
 categories:
-- coding
-date: '2008-07-18'
-tags: null
-title: O conhecido unresolved external
+- writting
+date: '2012-02-20'
+link: https://www.imdb.com/title/tt0420238
+tags:
+- movies
+title: O Corajoso Ratinho Despereaux
 ---
 
-O artigo anterior mostrou que nem sempre as coisas são simples de resolver, mas que sempre existe um caminho a seguir e que, eventualmente, todos os problemas se solucionarão.
+Essa animação de 2008 passou meio que despercebida dos cinemas, apesar de possuir uma invejável direção de arte. Narrando uma fábula ocorrida na França antiga que relaciona sopa, princesas e ratos (dividindo-se em camundongos e ratazanas), o principal fator que move o filme é a pseudo-grandiosidade da história, onde um simples e pequeno camundongo recebe a missão de acabar com o luto interminável do rei, causado tempos atrás por um acidente causado por uma ratazana. A grande sacada da história é que o Despereaux do título é um camundongo que, além de ter duas gigantescas orelhas, diferente de todos os outros, nunca sente medo. Esse traço de sua personalidade irá permitir que ele transite entre os três mundos (dos humanos, das ratazanas e dele mesmo) e junte as peças da fábula.
 
-Porém, resolver um problema por si só não basta: é preciso rapidez. E como conseguimos rapidez para resolver problemas? Um jeito que eu, meu cérebro e o Dmitry Vostokov conhecem é montando padrões.
-
-Um padrão nos ajuda a não pensar novamente em coisas que sabemos a resposta, de tantas vezes que já fizemos. Só precisamos saber o caminho para resolver determinado problema.
-
-Mesmo assim, existem diversos caminhos a percorrer. Até mesmo para um singelo e batidíssimo "unresolved external".
-
-#### Primeiro passo: você está usando a LIB correta?
-
-O erro mais comum é usar uma LIB onde não está a função que estamos usando, ou usar uma versão diferente da mesma LIB que não contém a função, ou contém, mas com assinatura (parâmetros da função) diferentes. Isso pode ser verificado no código-fonte da LIB, se disponível, ou então pelo uso do dumpbin, como já vimos anteriormente.
-
-Dica extra: às vezes você pensa que está usando uma LIB em um determinado caminho, mas o linker achou a LIB primeiro em outro lugar. Para se certificar que está verificando a mesma LIB que o linker achou, use o Process Monitor.
-
-Às vezes, porém, não estamos usando a função diretamente e não conhecemos quem a usaria. Para isso que hoje em dia os compiladores mais espertos nos dizem em que parte do código foi referenciado a tal função:
-
-    test.obj : error LNK2019: unresolved external symbol func referenced in function main
-
-É sábio primeiro inspecionar a função que referencia, para depois entender porque ela não foi encontrada. Mesmo parecendo diferente, essa operação faz parte do primeiro passo, que é identificar a origem.
-
-#### Segundo passo: você digitou direito?
-
-Parece estúpido, mas às vezes é esse o caso. Essa é a segunda coisa a fazer porque não é tão comum quanto a primeira, visto que hoje em dia é rotina colocarmos as funções em um header e incluirmos esse cabeçalho em nosso código-fonte (em C++, praticamente obrigatório). Se houvesse discrepância entre o nome da função chamada e o nome da função existente, provavelmente teríamos um erro de compilação ("função não encontrada") antes do erro de linking.
-
-#### Terceiro passo: tente incluir a função diretamente no seu código
-
-Se a LIB não está cooperando, e der pouco trabalho, experimente incluir a função inteira (ou o cpp) dentro do seu projeto, para linkar diretamente. Se funcionar, então existe alguma diferença de compilação entre os dois projetos (o seu e o da LIB) para que haja uma divergência no nome procurado. Procure nas opções de projeto.
-
-#### Quarto passo: comece de novo!
-
-Sempre que nos deparamos com um problema que aos poucos vai consumindo o nosso tempo, tendemos a gastar mais tempo fazendo coisas inúteis que sabemos que não irá adiantar de nada. Às vezes fazer brute force pode dar certo. Outras vezes, seria melhor recomeçar a pesquisa e tentar entender de fato o que está acontecendo na compilação. Em outras palavras: gastar o seu tempo pensando pode ser mais produtivo do que agir instintivamente.
+Sustentando-se com apenas essa premissa, a história do ratinho pode-se tornar tediosa até mesmo diante de sua curta duração. Até porque, francamente, não existem sequências inspiradas, e até mesmo as situações de perigo do pequeno camundongo (e são muitas) não conseguem animar muito a trama. De certa forma, a tristeza do reino sem sopa é refletida nas cores sombrias e vazias de sua fotografia e de sua história.
 

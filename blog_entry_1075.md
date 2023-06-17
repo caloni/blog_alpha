@@ -1,38 +1,25 @@
 ---
-
-Mais um filme político de Scola. Dessa vez o foco da história é a concorrência entre um alfaiate e um lojista, que dividem a fachada de suas lojas e suas casas, a amizade de seus filhos menores e um romance entre seu filho e sua filha maiores. Possuem muitas coisas em comum, menos uma: uma família é de judeus; a outra, não.
-
-É com esse pano de fundo bem arquitetado que o filme vai mostrar, gradativamente, o que o regime fascista na Itália fez com as pessoas, com os pensamentos, com uma simples rua de uma simples vila se transformar de forma radical por um "bem" que ninguém conhecia, mas muitos criticavam.
-
-O início do diretor se dá com um econômico travelling que parte da loja de tecidos e vai até o quarto da fachada de sua casa, uma maneira que torna nossa invasão à privacidade dessa família mais natural.
-
-É impressionante também notar que cada trilha sonora é encaixada perfeitamente em uma cena, nunca soando demais, nunca perdendo a beleza da cena e dos magníficos enquadramentos de Scola, que consegue sempre criar quadros de suas tomadas, seguidos por toques simples que remetem à nostalgia e tristeza que são sentidas daquela época.
-
-Note como quando o rapaz lê o bilhete de sua amada na banheira a música que ela toca no concerto vem à mente dele e do espectador, um detalhe que faz parte do emaranhado planejado pelo diretor para nos fazer sentir realmente a história em todas as nuances.
-
-A criança desenha caricaturas dos personagens conforme a história passa, e de fato universaliza a situação que aquele pedaço da Itália está passando para todo o mundo, com seus personagens e tudo mais. A forma como é contado esse desenho (sempre que somos apresentados a um personagem, já existe o corte seco para a criança desenhando).
-
-Enquadramento de toda família na festa de 80 anos da vó.
-
-Sequência da moça descendo a escadaria para beijar o amado na parte de fora, sem cortes, para demonstrar um breve momento.
-
-Detalhes aos poucos são mencionados ou simplesmente mostrados, como a placa que proíbe falar de política, ou a confiscação do rádio dos judeus, e até o repúdio aos estrangeirismos. Aliás, existe uma belíssima cena sobre uma moça que vai à loja comprar um tecido e é mal atendida pela funcionária, para depois ser bem recebida pelo dono. Emana um não-sei-o-quê de Schindler no dono da loja nesse momento e tantos outros antes do final do filme.
-
-Note o belo enquadramento do interior da loja, no escuro, enquanto os dois irmãos visualizam a rua.
-
-Quando os dois meninos são separados pela proibição de estudar judeus em escolas percebemos que a ponta que estavam construindo ficou inacabada, em uma clara referência à quebra da aliança entre os povos que se acomete nesse regime.
-
-Mais que mostrar o lado repudiado, é interessante ver o lado "vencedor", como em frases "felizmente, somos católicos".
-
-Scola sempre usa o melhor quadro para mostrar a ação. Em visita ao seu concorrente, a cena mostra ele frente à cama do ângulo da fachada. Para uma cena final em que ele se aproxima da janela, ele inverte o ângulo, para economizar a caminhada da visita até a janela.
-
-Por fim, quando o quadro final está completo, com a despedida da família judia, o último quadro é de um menino no meio da rua, vestido com camisas listradas, olhando para o vazio: uma vez que você toma óleo de bacalhau junto com uma pessoa, ela se torna seu amigo para sempre.
-
----
 categories:
 - writting
-date: '2013-07-11'
-link: https://www.imdb.com/title/tt0097239
+date: '2016-08-20'
+link: https://www.imdb.com/title/tt1355631
 tags:
+- cinemaqui
 - movies
-title: Conduzindo Miss Daisy
+title: Conexão Escobar
+---
+
+Conexão Escobar volta a trazer Bryan Cranston em um papel memorável, mas mais do que isso, esse é um filme construído totalmente em cima de expectativas. Ele vai subindo aos poucos no alto escalão da máfia de cocaína e assim como O Poderoso Chefão e Scarface ele possui seu universo próprio. Porém, este também é um filme pautado em cima da biografia de Robert Mazur, ex-agente federal de combate ao tráfico de drogas, e por isso merece ainda mais crédito a criação dessa rede tensa e complexa que vive à mercê da lei.
+
+E por falar em lei, o filme ainda de brinde destaca que está andando todo tempo em uma corda bamba pendurada entre os EUA e a Colômbia; ele convida o espectador mais atento a comparar a hipocrisia de ambos os lados, como o fato dos EUA, através da CIA, financiar diversas guerras pelo mundo. E fatalmente ele conclui: comparado com a Casa Branca, a máfia da coca não passa de uns caipiras latinos.
+
+Porém, acima de tudo (até da lei), este é um filme sobre pessoas obcecadas pelo trabalho, seja este trabalho criminoso ou não. Pessoas habilidosas no que fazem, que amam suas funções, apesar de apenas algumas admitirem isso, como o divertido colega latino de Mazur, Frankie, interpretado por Daniel Mays com um humor e dignidade ímpares. Frankie não é o cara que estraga tudo pelo seu temperamento, mas é uma pessoa disposta a arriscar mais do que devia por um bom contato. É ele que sobe o primeiro degrau que irá levar Mazur para o topo, apesar das ressalvas do próprio Mazur, que, sempre discreto, fica visivelmente irritado que seu colega entre em sua casa no meio de uma reunião de amigos de sua família.
+
+Sua irritação, nesse momento do filme, parece desproporcional. Porém, a genialidade do roteiro da estreante Ellen Sue Brown é não entregar nada de bandeja, mas deixa o espectador perceber o tipo de pessoas com quem Mazur e Frankie precisam lidar no dia-a-dia não pelo clichê desses filmes, como a descrição dos crimes que eles cometeram, mas pela simples observação de seu comportamento em situações sociais, e até onde isso chega. Muito mais pra frente há uma situação em que Mazur, sob disfarce, é obrigado a fingir ser um "membro da gangue" na frente de sua mulher. Essa cena, enérgica e em uma crescente tensa e hipnotizante, consegue explicar todas as ressalvas do agente lá no começo do filme, em nunca misturar trabalho e família.
+
+Aliás, a direção de Brad Furman torna todas as cenas tensas ao apresentar ao espectador um mundo fechado, em uma abertura de campo limitada, em ambientes escuros, quando Mazur conversa com os capangas que irão abrir-lhe as portas para os grandes chefões do tráfico. Mais para a frente, ao conversar diretamente com os chefões, a câmera se abre, e vemos toda a opulência garantida pelas dezenas e centenas de milhões que estão sendo lavados por Mazur (ou seu nome secreto, Bob Musella), mas ao mesmo tempo a insegurança de não haver fuga simples do lugar em que chegaram. Não há nenhuma chance de sobreviver ao primeiro erro cometido, e por isso o filme se beneficia imensamente em tornar sempre claro que a perfeição no trabalho de Mazur e Frankie não é apenas desejável, mas essencial para a sobrevivência de ambos (e as consequências são explicadas da maneira sempre pouco sutil de Frankie em dado momento, o que inclui o tipo de tortura psicológica e física que essa gente costuma oferecer aos policiais infiltrados).
+
+Contudo, enquanto o perigo sempre constante é a forma do filme de dialogar com a tensão -- além de uma cena ou outra de extrema violência gratuita, onde vem também imagens referenciando Os Bons Companheiros -- há também o fato de que todos os envolvidos são seres humanos, que mesmo vivendo uma mentira, se relacionam de uma maneira intensa com as pessoas que estão enganando. Essa relação se torna particularmente tocante quando o agente, junto de sua falsa-noiva, passam a compartilhar momentos com o orquestrador da rede de mafiosos e sua esposa. Nesse momento, a vida de policial e de pai de família de Mazur ficam ausentes por um longo período, alimentando cada vez mais essa mentira, que flerta com quase virar a realidade do casal de disfarçados.
+
+Com um terceiro ato que, infelizmente, não consegue chegar aos pés da complexidade temática de todo o filme, se privando de concluir toda a trama de uma maneira significativa, preferindo a saída burocrática e oficial, "Conexão Escobar" irá deixar saudades desses personagens, que foram criados por um elenco inspirado, em um filme de ação que acertadamente decide investir no que move a ação: flertar com a confiança de sociopatas alimentados pelo mercado proibido das drogas.
+

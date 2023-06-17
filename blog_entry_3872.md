@@ -1,14 +1,14 @@
 ---
 categories:
 - writting
-date: '2013-12-25'
-link: https://www.imdb.com/title/tt1421051
+date: '2014-04-05'
+link: https://www.imdb.com/title/tt0961097
 tags:
 - movies
-title: Um Lugar Qualquer
+title: Um Monstro em Paris
 ---
 
-A rotina "solitária" do playboy/ator Johnny Marco (Stephen Dorff), cercado de tietes por todos os lados, mas que não abre mão de uma sessão privada de pole dance protagonizada por gêmeas, e a mudança que vai ocorrendo conforme sua filha Cleo (Elle Fanning) vai participando cada vez mais de sua vida, é mostrada pela lente humanamente aguçada de Sofia Coppola (Encontros e Desencontros), o que dispensa muitos diálogos.
+Uma animação francesa de alta qualidade em sua direção de arte, movimento dos personagens e números musicais que são bonitinhos por natureza, mas às vezes parecem mal trabalhados pela artificialidade do ritmo (talvez uma câmera aqui e ali resolvessem, mas a maioria dos números insiste em se manter na visão da plateia). É uma história batida a respeito de um monstro que surge na cidade de Paris na época em que ela abrigava ninguém menos que George Méliès, o mago da arte cinematográfica que tinha acabado de nascer e que foi homenageado recentemente no arranca-lágrimas Hugo Cabret.
 
-E não só os diálogos. Quase inexiste trilha sonora (apenas a que faz parte daquela realidade). As cenas são longas e quase não ocorre ação, mas o que ocorre, move a história, de maneira econômica e orgânica. Até quando Johnny vai moldar sua cabeça para efeitos visuais de seu filme, o monstro que vemos é aquele ser humano por dentro (ou como ele se sente ao se comparar com a filha). Não é sequer preciso explicar a existência de tantas mulheres em sua volta: na primeira cena o que vemos e ouvimos é tão somente sua Ferrari.
+O curioso da história é que o monstro na verdade é uma pulga superdesenvolvida, e isso é curioso porque boa parte dos truques de Mélès envolviam a ainda-não-velha técnica da perspectiva forçada: coloque uma lupa em um inseto e ele vira um monstro (ou um borrão, se formos realistas chatos). O batido da história é que há dois casais que com certeza ficarão junto no final do filme e sequer temos paciência de esperar isso acontecer. Podemos dizer que o roteiro se auto-sabota quando coloca essa questão em foco. O que salva realmente é a criatividade dos realizadores, principalmente a direção, que transforma o encontro entre o monstro e uma bela cantora do final da Belle Époque em um ponto forte.
 

@@ -1,20 +1,24 @@
 ---
 
-Há uma mensagem muito bela em Hairspray, sobre o fim da guerra inter-racial ocorrida nos EUA na década de 60. Aliada a danças empolgantes e teatrais, nos leva a concluir tristemente que sua moral pertence ao mundo dos sonhos, da dança. E é na dança que está a maior virtude e o maior defeito desse filme.
+Imagine que existe um super-herói que não gosta que lhe chamem de "asshole" (idiota na legenda brasileira, mas em inglês um xingamento que remete ao orifício anal). A maneira mais comum dele ameaçar quem lhe incomoda é enfiar a cabeça de um no orifício anal do outro. Achou engraçado? Se sim, esse é um filme de ação que você não pode perder. Se não, então talvez seja melhor assistir um filme da Marvel menos pretensioso (já viu Guardiões da Galáxia?).
 
-Ao empolgar pelas performances saudosas e vigorosas de personagens vindos de um filme dos anos 80 imitando a época dos anos 60, o musical perde ainda mais seu contato com o público. A trama principal, sabemos ser tão irreal quanto as cores pastéis estilizadas para os cenários, os figurinos e a maquiagem dos personagens. Até mesmo John Travolta, apesar de toda a técnica envolvida em transformá-lo em uma quarentona enorme servir apenas para ilustrar a bizarrice de uma história sem muito embasamento.
+O que poderia muito bem ser um projeto de Adam Sandler (desconfio que ele esteja envolvido de alguma forma) acaba ganhando alguém com um ego maior ainda: Will Smith. Fala sério: você já imaginava que isso iria acontecer, mais cedo ou mais tarde. Smith, acostumado a papéis em que ele se sacrifica pelos outros e possui uma culpa incomensurável (Sete Vidas), agora em sua versão com o sub-gênero mais popular atualmente.
 
-Não sei se é a figura ingênua encarnada por Nikki Blonsky que não consegue transmitir a emoção real da adolescência da época, ou até mesmo do original dos anos 80. Tudo é muito teatral. Isso não costuma ser ruim em filmes como A Noviça Rebelde, que virou um clássico exatamente por conseguir transpor facilmente a realidade e a ilusão. Porém, aqui tudo é muito difícil de engolir. Aqui a velha crítica das pessoas que os musicais são chatos porque as pessoas saem de qualquer lugar e começam a cantar e a dançar faz sentido. Até a figura de Queen Latifah como a idealista Motormouth Maybelle é excessiva e desmerece a dramática luta para a aceitação do negro na sociedade americana da década de 60.
+Um herói desajustado que vive bebendo, combate o crime e salva pessoas quase como um efeito da inércia, de tantas pessoas pedirem por isso, Hancock é odiado pela população de Los Angeles, pois suas atuações quase sempre custam muito caro à cidade e aos cofres públicos. Ao salvar uma pessoa presa dentro de um carro no trilho do trem, ele simplesmente vira o carro em cima de outro, parando o trem no processo e descarrilhando todos os vagões. Incompetente? Nem tanto. Parece mais o desleixo de quem não se importa.
 
-Se há algo que conseguimos tirar de Hairspray, são ótimas danças com sentimentos mistos de magia e decepção. A viagem para os anos 60 ficou incompleta nesse caso.
+Quem também parece que não se importa, agindo na inércia de sua atuação todo o tempo, é Will Smith. Fazendo sempre a mesma expressão de quem anda por outro mundo desiludido (e continua com a mesma expressão mesmo depois que o "arco" de seu personagem tenha concluído), Smith não parece interessado no projeto que lhe dá super-poderes. Talvez porque ele já acredite possuir poderes na vida real, o de, assim como Adam Sandler, lotar as salas de cinema onde passam seus filmes mais desinteressantes (e não tenho em mente As Loucas Aventuras de James West, que chega a ser divertido de tão ruim).
+
+A boa notícia do filme parece ser a presença de Charlize Theron, que comanda uma reviravolta já prevista desde o primeiro momento em que aparece em cena. Sua personagem parece ser a única que possui um fiapo de história para envolver o espectador, já que seu marido no filme, Jason Bateman, faz o papel mais inglório em filme de super-heróis: o do herói do cotidiano, cidadão comum, que tenta vender a ideia para as empresas de que se derem as coisas de graça para os que mais necessitam farão publicidade positiva para seus clientes, salvando o mundo. Awww...
+
+Com um roteiro padrão do sub-gênero de filme de herói (de um tal Vincent Ngo e... Vince Gilligan??), que parece estar de fato criando um filme de origem, com vilão e tudo mais, o diretor Peter Berg se esquece da própria irrelevância do projeto e filma sempre com a câmera na mão um filme que é basicamente uma comédia, dando a impressão que não entendeu a proposta, criando um ar documental em cenas que não possuem qualquer ar realista (ainda mais com os sofríveis efeitos digitais).
+
+Tendo talvez a gota d'água em uma ou duas referências nada sutis a Superman (sim, uma delas é a música-tema), Hancock apenas não afunda ainda mais por ser curto, tornando toda a experiência rápida demais para que o "épico" se concretize. Hancock salva o dia mais uma vez. Will Smith, não.
 
 ---
 categories:
 - writting
-date: '2019-10-09'
-link: https://www.imdb.com/title/tt6616336
+date: '2019-08-14'
+link: https://www.imdb.com/title/tt0091167
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Hálito Azul
+title: Hannah e Suas Irmãs

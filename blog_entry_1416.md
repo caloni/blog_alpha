@@ -1,21 +1,26 @@
 ---
-
-Novo filme do diretor Pablo Trapero ([Abutres]) traça na rotina das pessoas que ajudam uma favela a construir moradias dignas para seus habitantes um panorama fiel não apenas dos moradores, acostumados a viver às margens de uma sociedade que escolheu convenientemente ignorá-los em um terreno delimitado, mas da sociedade como um todo. E os que não são mostrados no filme obviamente são os que ignoram essa triste realidade.
-
-O Elefante Branco do título se refere a um hospital que nunca terminou de ser construído no mesmo terreno onde hoje moram cerca de 30 mil pessoas em condições precárias. O projeto do hospital passou por duas democracias e uma ditadura sendo que hoje repousa apenas um esqueleto que faz sombra aos casebres ajuntados. Desse fato duas curiosidades fascinantes também se erguem logo no início do longa: 1) a figura de um hospital inacabado faz rima com os programas sociais inacabados que deixaram a favela se alastrar e permanecer na área e 2) a própria definição de dicionário de elefante branco pode ser aplicada aos moradores, pois governo nenhum soube o que fazer daquelas pessoas vivendo à margem da sobrevivência por décadas a fio.
-
-A presença de um jovem padre recém-chegado, um padre veterano e um padre morto representa não apenas a desesperança de dias melhores, mas a sua desconstrução, como se a simples existência da religião naquele lugar fosse a prova do descaso de Deus com aquelas pessoas. Portanto, faz todo o sentido elas estarem constantemente cansadas e com medo. Não se enxerga saída em nenhum momento, e o que soa mais cruel é essa alegoria da vida real. Os moradores também participam do jogo, pela sua inércia e apatia.
-
-Trapero não diz nada disso, mas mostra através de sons e imagens. O som ecoa e aumenta o seu "grito" em momentos específicos da trama como a querer chamar a atenção do resto do mundo. As belíssimas sequências estão cumprindo a função de nos mostrar extensão: no início a extensão da própria favela (miséria); no protesto dos moradores a extensão da opressão; e, por fim, na irretocável sequência da fuga de carro, a extensão daquele destino que parece insistir em se repetir, imutável.
-
-[Abutres]: {{< relref "abutres" >}}
-
----
 categories:
 - writting
-date: '2019-03-07'
-link: https://www.imdb.com/title/tt8389758
+date: '2015-12-02'
+link: https://www.imdb.com/title/tt0126886
 tags:
-- cinemaqui
 - movies
-title: Elegia De Um Crime
+title: Eleição
+---
+
+Esse filme de Alexander Payne (Sideways, Os Descendentes) pode ter passado despercebido na época em que foi lançado, mas uma vez que você o assiste, seus detalhes políticos sórdidos irão infestar sua mente como nunca.
+
+É bom lembrar, porém, que este não é desses filmes chatos de política em que é preciso ficar atento a tudo que todos fazem a todo momento. Para começar, é sobre uma eleição escolar, o que alivia bastante a tensão e permite refletirmos nos movimentos dos personagens. E para ajudar ainda mais, acompanhamos cada um dos pensamentos das quatro pessoas envolvidas, o que aumenta ainda mais a transparência de cada nova reviravolta, além da empatia (ou antipatia) que nutrimos por cada um deles.
+
+Tracy Flick (Reese Witherspoon) é uma estudante-modelo, que parece dedicar cada minuto de seus dias para avançar em seu "projeto de poder". Vimos o passado da jovem garota e seus momentos-chave como se fizesse parte de um vídeo promocional, e a montagem de Kevin Tent (Nebraska) junto com a narrativa de Witherspoon parecem combinar uma espécie de anunciação profética. Como ela logo diz no começo, olhando furiosa e determinada para seu professor, Sr. Jim McAllister (Matthew Broderick), "não se mexe nas forças do destino".
+
+Talvez não mesmo. Porém, enquanto há uma autoridade no corpo docente, Broderick, fazendo aqui um professor que, de acordo com ele mesmo, adora ensinar -- uma doce ironia com seu filme de maior sucesso, Curtindo a Vida Adoidado -- mantém uma relação passivo-agressiva com Tracy. O professor Mr. McCallister não vai com a cara da garota; talvez não com sua atitude em sempre se sobressair. Em uma pergunta sobre a diferença entre ética e moral, ele espera dois alunos tentarem responder antes de entregar a palavra a ela, a primeira que havia levantado a mão por muito tempo. No começo, isso pode parecer apenas um professor tentando dar chance a outros alunos, mas aos poucos percebemos que é exatamente essa a estratégia do filme: fazer tudo parecer um gesto mais ou menos inocente, mas que por trás esconde as mais escusas motivações. Basta saber que a questão é sobre ética e moral.
+
+Vemos logo depois McAllister se lembrando de outro professor seu amigo, que se apaixonou por Tracy, o que acabou gerando o fim de sua carreira. Na visão dele, havia pelo menos dois bons motivos para manter Tracy na linha da mediocridade: sua aparente inocência pode ser perigosa, e a garota de fato parece ser muito mais empenhada que a grande maioria. Por isso seu desproporcional empenho em entender o processo da próxima eleição para presidente do conselho de estudantes, que Tracy obviamente é candidata, e inicialmente a única. Como disse Tammy (Jessica Campbell), outra estudante, ninguém liga a mínima para essas eleições. Por que deveriam?
+
+O fato é que Tammy se candidata para tentar se vingar de seu interesse amoroso, uma garota que também para se vingar namora agora seu irmão, Paul (Chris Klein), atraído pelo Sr. McCallister também para o palanque e auxiliado por um acidente que pausou temporariamente sua vida no esporte. Sim, o filme faz todo esse rodeio em uma eleição de um aluno na escola, e um de seus maiores trunfos é levar tudo isso o mais sério possível, utilizando para isso a trilha sonora dramática de Rolfe Kent como a coisa mais solene naquele universo (não sem também brincar com alguns poucos, mas bons momentos humorísticos, especialmente um que envolve uma corrida ao motel).
+
+Conforme vamos percebendo todo esse emaranhado de jogo de influências entre esses três personagens -- Tammy, Tracy e Mr. McAllister -- e suas motivações, fica claro que Eleição se torna muito mais do que uma ingênua escolha de presidente de grêmio: é um estudo aguçado de quatro personalidades -- incluo aí também o alienado mas bem-intencionado Paul, irmão de Tammy -- muito comuns no dia-a-dia, especialmente se categorizarmos as pessoas pelo seu interesse político. A genialidade do diretor Alexander Payne e seu companheiro de roteiro Jim Taylor, baseados no romance de Tom Perrotta, é não tornar tudo muito óbvio, mas deixar-nos ouvir os pensamentos deles a todo o momento. E mesmo assim, o que eles pensam não necessariamente traduz seus objetivos imediatamente. Quase como um House of Cards juvenil, aqui se dá tempo ao tempo para que tudo faça sentido, e se até mesmo o detalhe da motivação por trás da confissão de Tammy em dado momento quase nos escapa, é porque o filme vai confiando cada vez mais na capacidade de seu espectador de fisgar a linha de raciocínio das pessoas envolvidas. Nem todos querem a mesma coisa, e é isso o que torna a trama tão interessante.
+
+Conseguindo se conter em extrapolar sua conclusão muito além do necessário, Eleição toma por certo que o recado político foi dado a seu astuto espectador, além de utilizar uma pista-recompensa genial e com um tempo de tela absurdamente longo, e que mesmo assim -- ou talvez por causa disso -- se encaixa como uma luva. Vai ser difícil se esquecer das artimanhas de Mr. McAllister e seus alunos. Ainda mais quando parece haver muito mais do que percebemos nas entrelinhas deste exemplar projeto.
+

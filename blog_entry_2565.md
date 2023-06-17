@@ -1,21 +1,16 @@
 ---
 categories:
 - writting
-date: '2010-11-04'
-link: https://www.imdb.com/title/tt1130965
+date: '2013-10-20'
+link: https://www.imdb.com/title/tt0109445
 tags:
-- mostra
 - movies
-title: O Atleta
+title: O Balconista
 ---
 
-O filme começa com a luz do sol, tão presente durante o longa, se transformando na luz do projetor de cinema. Esse projetor fará parte do final, quando voltamos para o mesmo close no início. As tomadas iniciais dele chegando ao interior da Etiópia apresentam uma largura de campo estrondosa para dar a impressão de grandeza e imensidão que não acaba mais. Aliás, esse detalhe pode ser visto no belíssimo zoom out dele correndo do lado de um desfiladeiro. Aos poucos esse desfiladeiro vai sumindo e dando lugar à planície.
+Primeiro longa do diretor Kevin Smith, O Balconista não poderia deixar de ter algo a mais dos outros filmes que o trouxesse para os holofotes. No entanto, quase 20 anos depois, ele permanece como um dos filmes esquecidos que não merece ser revisitado.
 
-Existem vários paralelos no filme. Um dos primeiros é com um ônibus que ele ultrapassa na estrada (de carro, presente) e um ônibus de turistas que fica ao lado dos corredores da maratona (correndo, passado).
+Trazendo uma fotografia preto e branca sem qualquer motivo aparente, o filme gira em torno de Dante Hicks (Brian O'Halloran), que trabalha de balconista em uma pequena loja de conveniência logo do lado de uma pequena locadora de vídeos, cujo balconista é seu amigo. Dividido em diversas partes com títulos (também sem motivo aparente) somos apresentados a diferentes diálogos que retratam a vida e os pequenos detalhes de sua rotina com um ar cômico, ácido e auto-referencial. Fala-se sobre Star Wars, mulheres, drogas e o cotidiano. Acontecimentos inusitados acontecem, o que não parece mudar muito a rotina daquelas pessoas.
 
-Também são criados pequenos "arcos" para ilustrar partes da história. O mais bonito é durante a conversa com o padre para quem ele dá carona. Ele conta sobre sua infância, e o menino que ele vê através do carro executa as mesmas ações que estão sendo narradas por ele. Ao final da história, a família do menino está perto de um pequeno morro, para onde dá a estrada, que é onde o carro do corredor acaba de passar.
-
-Não há semelhança entre o ator e o corredor de verdade, e isso infelizmente pode ser visto em alguns cortes que juntam ambas as faces. Talvez o diretor tenha pensado que a interpretação dele ficou tão boa que resolveu ressaltar essa diferença facial em detrimento ao comportamento de ambos, tão em sintonia.
-
-Mais interessante é que ao final da corrida na neve temos mais uma transição, dessa vez para a sala de exibição onde o filme está passando, com todos aplaudindo o corredor ao final. É de lá que vem a luz do projetor do início do filme, e o arco se completa. Um filme de superação.
+O que é impressionante mesmo é que o filme tenha uma continuação. Dá pra acreditar?
 

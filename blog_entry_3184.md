@@ -1,17 +1,90 @@
 ---
-categories: []
-date: '2018-03-21'
-tags: null
-title: Projeto Aluno
+categories:
+- coding
+date: '2007-10-26'
+tags:
+- ccpp
+title: Proteção dos membros protected
 ---
 
-Observar um estudante de computação (qualquer curso) lutando nos primeiros meses para conseguir fazer seus programas compilarem em C é um misto de emoções. É uma mistura entre risos, risadas e gargalhadas. Há vários motivos para isso, mas o principal, o que vem à minha mente sempre que isso acontece, é a eterna questão: por que a pessoa encontra fórum de programação para perguntar sobre variável mas não consegue ler duas páginas de um livro?
+Quando queremos que um membro de nossa classe seja visível apenas dentro dos métodos da classe e dentro dos métodos das classes derivadas dessa classe usamos o nível de proteção protected. Isso, é claro, não quer dizer que uma classe derivada vá ter acesso aos membros protegidos de outra:
 
-Essa questão está intrinsicamente ligada ao fracasso completo do sistema de ensino (qualquer nível), que no caso de programadores, se proliferou em diversas faculdades caça-níqueis porque "este é o mercado onde se ganha bem". Ninguém questiona por que se ganha bem neste mercado. É só fazer uma faculdade e o dinheiro começa a fluir. Negócio certo.
+    #include <iostream>
+    
+    using namespace std;
+    
+    class Base
+    {
+    protected:
+      int m_protected;
+    };
+    
+    class Derived : public Base
+    {
+    public:
+      int GetProtected();
+      int GetAnotherProtected();
+    };
+    
+    class AnotherDerived : public Base
+    {
+    };
+    
+    int Derived::GetProtected()
+    {
+      return m_protected;
+    }
+    
+    int Derived::GetAnotherProtected()
+    {
+      AnotherDerived anotherDeriv;
+      return anotherDeriv.m_protected;
+    }
+    
+    int main()
+    {
+      Derived deriv;
+      deriv.GetProtected();
+      deriv.GetAnotherProtected();
+    }
+    
+    >./program
+    error C2248: 'Base::m_protected' : cannot access protected member declared in class 'Base'
+    see declaration of 'Base::m_protected'
+    see declaration of 'Base'
 
-Mas quando a primeira variável começa a dar problema, o desespero bate na bunda. "Por que esse programa não está funcionando?", "Eu só queria resolver isso e voltar pra internet", "Que droga, chegou a data limite e não sei de quem posso copiar", "Por que esse exemplo que peguei sei-lá-de-onde está dando esse erro que nunca vi na vida?".
+Esse é o motivo fundamental do porquê não podermos fazer isso:
 
-"O que é UB? Universidade do Brasil?", "Tá ficando mais complicado ainda; vou pesquisar pra ver se acho o email desse tal de Goku.", "Já sei, vou mudar de IDE! Isso, sim, vai resolver meu problema."
+    int Derived::GetAnotherProtected()
+    {
+      Base base;
+      return base.m_protected;
+    } 
 
-"Ah, não. Textão ninguém aguenta!", "TL;DR".
+Ao acessar membros protegidos é importante o tipo da expressão que está do lado esquerdo do "." ou "->". Afinal, o nível de proteção se baseia no escopo, e as classes são um escopo. É por isso que consigo acessar os membros protegidos de um outro objeto de minha classe, mesmo sendo outro objeto:
+
+    int Derived::GetAnotherProtected()
+    {
+      Derived deriv; // typeid(deriv) == typeid(*this).
+      return deriv.m_protected; // OK
+    } 
+
+A definição do escopo é tudo o que o compilador dispõe para saber se acessa ou não acessa um membro. Podemos ter acesso a m_protected enquanto somos do tipo Derived, mas não quando o mesmo objeto é usado como Base:
+
+    int Derived::GetAnotherProtected()
+    {
+      Base& base = *this; // typeid(deriv) != typeid(*this).
+      return base.m_protected; // ERROR
+    } 
+
+Essa proteção parece desnecessária e até mesmo incoerente quando lidamos com o mesmo objeto que acessa. Afinal, somos nós mesmos! Só que o compilador não sabe disso, e ele deve desconfiar de tudo e de todos para evitar esse tipo de "ataque":
+
+    int Derived::GetAnotherProtected()
+    {
+      AnotherDerived anotherDeriv;
+      Base& base = anotherDeriv; // typeid(deriv) != typeid(*this)
+      return base.m_protected; // ERROR
+    } 
+
+Agora a proteção do compilador faz sentido. Parece um detalhe frívolo, mas depois que vi alguns programadores de respeito se debatendo pela "burrice" do compilador, imaginei que talvez houvesse mais pessoas com a mesma dúvida de se existe ou não um "bug na linguagem".
 

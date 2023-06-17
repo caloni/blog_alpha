@@ -1,23 +1,28 @@
 ---
 categories:
 - writting
-date: '2022-10-21T19:56:14-03:00'
+date: '2021-10-12T12:37:56-03:00'
 tags:
-- cinemaqui
 - mostra
 - movies
-title: Luxemburgo, Luxemburgo
+title: Má Sorte No Sexo Ou Pornô Amador
 ---
 
-Há algo melancólico em Luxemburgo, Luxemburgo, um filme que deveria ser uma comédia. Ele é engraçado, mas há um ruído ao fundo de tristeza, ou pelo menos de saudade.
+Dvidido em três partes e com três finais, esta comédia ganhou Urso de Ouro em Berlim e eu não tenho palavras para este filme.
 
-Essa saudade está na época que Kolya e Vasya, dois irmãos de quase a mesma idade, faziam coisas de meninos juntos. Subiam em trens parados e pulavam assim que ele começasse a se mover. Nessa época o pai da família era alguém importante do mundo do crime. Quando ele precisava ir parar o trem porque um dos filhos ainda estava nele isso era feito com o poder da bala de seu revólver.
+Estamos na pandemia de 2020 e esta professora caminha pela capital da Romênia. Ela está indo para uma reunião de emergência com pais e professores que irão decidir seu destino após um vídeo íntimo com o marido vazar na internet e ser encontrado pelos seus alunos adolescentes. O vídeo você confere no começo do filme e ele está muito bom, foi um dos melhores que já conferi no PornHub/Mostra de SP. A garota está sensacional. Segue minha pequena crítica a este curta pornográfico de brinde na Mostra:
 
-Tudo isso não existe mais no tempo presente, que é o que acompanhamos, na fase adulta. Um dos irmãos vende drogas e trabalha como motorista se ônibus; outro segue a carreira de policial, sabotada pela conduta do irmão. A mãe vive em outro casamento e não há notícias do seu pai até então... quando ligam de Luxemburgo, avisando que ele está no hospital em seus últimos dias.
+O movimento de câmera é pedestre, mas há uma edição inusitada para um vídeo caseiro com dois adultos excessivamente empolgados. A moça tem belos peitinhos, mas seu forte fica na parte de trás, um prêmio apenas para o final. Enquanto isso ela paga um boquete sob os comentários inconvenientes de sua mãe atrás da porta do quarto a respeito do seu filho que não tomou remédio, uma denúncia sobre os cuidados relapsos de uma mãe excitada demais para ter o segundo em vez de cuidar do primeiro. O meio da sequência contém uma cena risível envolvendo um chicote, lembra comédia de quinta, e isso é uma grande queda antes do clímax envolvendo penetração cachorrinho, imperdível, mesmo com o áudio grotesco do marido. Por serem casados merece o descrédito do espectador de vídeos amadores: tenham vergonha que vão vender esse vídeo com o rótulo de vazado e confessem essa produção mediana do pornô europeu.
 
-Luxemburgo, Luxemburgo é uma mistura de sentimentos conforme cada novo episódio com os dois irmãos se desenrola. Há uma esperança lá no fim do túnel para ambos, mas, por algum motivo, a redenção demora a chegar. Talvez nunca chegue. Será que eles reviverão a época com o pai com saudosismo ou amargura?
+Agora voltamos para a "triste" realidade de 2020: as pessoas nas ruas usam máscara, passam álcool gel, todo aquele protocolo que nos acostumamos a viver por mais de um ano. Depois de um tempo assistindo você pode até pensar se precisa lavar as mãos. É uma sensação contagiosa mesmo assistindo no conforto do lar.
 
-Um ponto que me chamou a atenção no roteiro de Antonio Lukich (que também dirige) foi o episódio em que uma senhora é gravemente ferida por causa do irmão motorista. Interpretada por Lyudmyla Sachenko, a atriz é homenageada nos créditos finais, pois não pode se assistir, vindo a falecer depois das filmagens e antes da estreia.
+A câmera desfila pela cidade conforme acompanhamos sua caminhada. Ela vai andando. O diretor começa uma cena e termina ela em lugares inusitados da paisagem cotidiana, seja um shopping ou uma basílica, como se estivesse a fazer montagens. Para o espectador não-romeno é uma curiosidade.
 
-O que chama a atenção é que essa é a parte com a edição mais rica e uma participação maior no filme, além de ser um momento que vira a história do avesso. Isso faz pensar se o roteiro não foi modificado para inchar este momento, pois esse episódio é o único que foge de uma breve passagem para a mudança que irá chegar na conclusão. Mais do que isso, foi um verdadeiro milagre este momento, pois ele chacoalha um filme que estava quase definhando e dando sono.
+Há conflitos entre as pessoas, que estão de péssimo humor no meio de uma pandemia. Nós ouvimos os relatos da vida real, foi assim mesmo. Alguns até testemunharam, e aos poucos aprendemos aos poucos a segurar a onda (os menos inteligentes e extrovertidos criaram movimentos sociais no meio dessa bagunça). Quer dizer, espero que a maioria tenha aprendido o mínimo de civilidade nesse momento delicado. Como não ficar com ódio do coleguinha apenas porque ele escolheu não se vacinar. Detalhes da vida contemporânea.
+
+Há uma fixação do diretor nesse terço de filme em capturar os carros em cima da calçada e os muito caros e grandes. Ele quer com isso representar a desigualdade social da Romênia, que mudou drasticamente nesses 30 anos após cair a ditadura comunista. Vamos levando essa herança pela história. Nada muito sério. Esta é uma comédia.
+
+Prova disso são os cartazes de início de cada parte de fundo rosa e música engraçada. Se você sentiu nojo do pornô amador do começo ou alienado pela caminhada da garota que pagou um boquete ao marido, na segunda parte você poderá aprender um pouco mais sobre a humanidade. Sim, pois é um guia de curiosidades.  Não totalmente destacado do nosso tempo de ultra informação, pois é um comentário espirituoso do que virá a seguir.
+
+E o que vem a seguir é a cereja do bolo. Uma reunião na escola que lembra aquelas épicas de um condomínio classe média. O filme se revela de uma vez por todas uma comédia escrachada, mas é aí que começa a desfilar uma série de opiniões e desinformação na forma de entretenimento. Um microcosmos divertidíssimo se cria para comentar o pandemônio que o mundo vive. É engraçado, entretém, faz pensar. E conhecer. Você sabia que há estudos sobre memorização e conhecimento? Nem eu. Na verdade não há, é só opinião de uma autoridade romena. E por aí vai a valsa. Detalhes mais banais como holocausto e gripezinha são ditas de passagem. As fantasias complementam a peça.
 

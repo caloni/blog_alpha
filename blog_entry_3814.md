@@ -1,23 +1,14 @@
 ---
 categories:
-- coding
-date: '2020-04-07'
-title: Meu Try Lock de Pelúcia
+- writting
+date: '2014-05-10'
+link: https://www.imdb.com/title/tt0068555
+tags:
+- movies
+title: Tudo o Que Você Sempre Quis Saber Sobre Sexo e Tinha Medo de Perguntar
 ---
 
-Alguns implementam o famigerado "mutex pero no mucho", que é aquele mutex que não faz nada porque ele sabe que só tem uma thread rodando no processo. É uma solução elegante para abstrair o uso de lock em um processo que pode ou não rodar multithread.
+Woody Allen até quando é medíocre acaba se saindo melhor que a média. Nos anos 70 suas comédias eram mais apelativas e populares, mas nem por isso não deixavam de conter alguma visão crítica sobre nossa realidade. Reinventando o conteúdo do famoso livro homônimo de David Reuben, Allen escreve e dirige uma série de curtas que dissertam, cada um ao seu jeito, sobre afrodisíacos, perversões, pesquisas científicas e travestis. Protagonizando a maior parte das histórias, minhas duas preferidas com certeza são a visão do sexo do ponto de vista do organismo como um sistema setorizado e a paixão de um médico por uma cabra. No entanto, nenhuma das duas esquetes rivaliza com a visão de um imenso seio andando solto por aí, matando pessoas com nata e leite.
 
-Mas isso é uma coisa. Outra coisa é o try lock de pelúcia de um driver de uma empresa que trabalhei certa vez. Como havia situações onde o lock não era nunca liberado, e a thread estava rodando em um nível de interrupção que não poderia mais voltar, ou ela agendava uma execução menos prioritária ou obtia o lock. Mas baixar a prioridade não era uma opção para o programador MacGyver. Então o código acabou pegando o lock na marra.
-
-    if( ! try_aquire_mutex() )
-    // dá um tempo...
-
-    if( ! try_aquire_mutex() )
-    // dá um tempo...
-
-    // ...
-
-    // ah, dane-se,
-    // eu vou pegar esse mutex!
-    aquire_mutex();
+Infelizmente a comédia aqui está em alta com conteúdo em baixa. Não há muito o que dizer das situações absurdas do filme, nem o que seus personagens fazem com elas. É um riso fácil, ingênuo e bobo sobre o sexo. Esquecível, mas, ainda assim, lembráveis mesmo 40 anos depois (talvez pelo longo título?).
 

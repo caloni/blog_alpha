@@ -1,20 +1,47 @@
 ---
 categories:
-- writting
-date: '2019-03-10'
-link: https://www.imdb.com/title/tt2452244
+- coding
+date: '2023-04-09'
 tags:
-- movies
-title: Megarrromântico
+- interview
+title: Onde fica o meio de uma lista ligada?
 ---
 
-Eis que vemos, no começo do filme, uma criança pré-adolescente, um pouco obesa, mas não o suficiente para ser um caso grave. Detalhe: diferente do estereótipo ela não está comendo compulsivamente como um problema crônico. Ela está assistindo a uma comédia romântica. O filme é Uma Linda Mulher, com Julia Roberts no papel de "sorriso de um milhão de dólares", que recebe mimos de um milionário interpretado por Richard Gere. Ela sonha com este mundo mágico onde tudo é bonito e há finais felizes. Sua mãe, então, vomita algumas verdades sobre o mundo, jogando um sermão inflado demais para uma criança que está apenas se divertindo em frente à TV. Diz que ninguém faria um filme sobre "mulheres como elas", pois isso seria depressivo; em seguida lista defeitos físicos, no que eu concluo que quando ela diz "como elas" ela está se referindo apenas à aparência de mãe e filha. Pois bem. Diante dessa visão da vida que acabara de receber, a criança cresce. A vemos agora independente, trabalhando, e adivinha só? Ainda um pouco obesa. Ou ela não aprendeu nada com sua mãe ou desistiu de se transformar em Julia Roberts quando crescesse. Nunca sabemos disso na história, apenas que é uma amargurada pela falsidade dos filmes e que essa é uma história sobre "não quero aprender verdades da vida; logo vou desafiá-las e mudar o mundo". E vou continuar gorda, sim.
+É simples descobrir o meio de um array: pegue seu tamanho e divida por dois. Agora, para uma lista ligada, mesmo que você saiba qual o índice do meio, não é por meio de índices que acessamos seus elementos, mas por ponteiros.
 
-A versão cinematográfica do que o diretor Todd Strauss-Schulson quis fazer aqui é de uma heroína lutando contra os clichês do mundo moderno a respeito de beleza e status. Agora, crescida e arquiteta, ela mesma faz um discurso de horas para a amiga/colega sobre por que comédias românticas são falsas e mera ficção (não são para isso que filmes são feitos?). Ela conhece tão bem sobre os clichês dos filmes que odeia que me lembra um amigo meu que em determinado encontro queria ficar tocando em seu celular um vídeo-clipe de um coreano chamado Psy para me mostrar como ele era ridículo (ele fez isso duas vezes, e já havia assistido outras tantas). Quando uma protagonista odeia tanto esse mundo de mentirinha feito para as mulheres privilegiadas que fecham a boca fica difícil entender se "Megarrromântico" é uma homenagem ou uma crítica, ou ambos, pois desde o começo fica claro que o filme irá se tornar o exemplo mais didático e desinteressante do sub-gênero.
+Nesse caso é necessário dar uma de esperto:
 
-Mas o pior talvez não seja isso. Como este é um filme feito para TV tudo é exagerado para o espectador desatento. Até as alegorias sobre os clichês, como o amigo gay afetado (aqui ele é super-afetado) ou sobre a canastrice do par romântico errado (aqui ele é super-canastrão). Porém, os exageros são tamanhos que sequer conseguimos relacionar as situações com uma verdadeira comédia romântica. Músicas bregas são tocadas e pessoas dançam e sorriem à toa para a "linda" Natalie depois que ela bate a cabeça, mas além de não ser engraçado o filme não tem nada de romântico. Ironicamente ele descontrói o gênero ao qual pertence, se sabotando no processo. A mensagem implícita do filme todo o tempo é "comédias românticas são péssimas; olhem essa que você está assistindo".
+ - Declare dois ponteiros: primeiro e segundo;
+ - Ambos são inicializados para o início da lista;
+ - Faça um loop que percorra a lista até o final;
+ - A cada iteração incremente o primeiro ponteiro em dois nodes;
+ - A cada iteração incremente o segundo ponteiro em um node;
+ - Quando o primeiro ponteiro atingir o final o segundo estará no meio.
 
-E o pior é que Rebel Wilson não é uma má atriz. Ela é a Fat Amy de Escolha Perfeita (1, 2 e 3), além de participar de maneira não-automática no ótimo Como Ser Solteira e no excelente Missão Madrinha de Casamento. Quando você entrega a ela um papel interessante ela o torna mais ainda. Aqui sua personagem é um fiapo estereotipado que está lá apenas para dizer falas. Tirando seu número agradável em um karaokê não sobra nada. Essa menina está fora de controle, mas ninguém está lá para dar atenção a ela.
+O princípio de contador de lista ligada é a contagem de iterações do começo até o final da lista, mas para manter o tracking de uma posição relativa como o meio dessa lista é necessário manter um segundo contador.
 
-E Todd Strauss-Schulson sequer aproveita o tema escrito a seis mãos para pelo menos se inspirar em trabalhos que brincam com seus gêneros, como La La Land: Cantando Estações ou Encantada. Este é um diretor de TV que está no automático seguindo uma cartilha conhecida como roteiro. E tudo é seguido à risca. O resultado é que falta alma a um projeto que deveria priorizá-la, se realmente quisesse criticar os romancezinhos enlatados de Hollywood.
+Através dessa mesma lógica você poderia encontrar posições arbitrárias no meio da lista, como o terceiro elemento onde seu valor começa com a letra 'p', etc.
+
+Abaixo um código em C++ para não ficar tão abstrato:
+
+```
+shared_ptr<LinkedList> LinkedListTraverseToTheMiddle(shared_ptr<LinkedList>& head)
+{
+    shared_ptr<LinkedList> next = head;
+    shared_ptr<LinkedList> nextDouble = head;
+    bool secondNext = true;
+
+    while (nextDouble->next)
+    {
+        if (secondNext)
+        {
+            next = next->next;
+        }
+        nextDouble = nextDouble->next;
+        secondNext = !secondNext;
+    }
+
+    return next;
+}
+```
 

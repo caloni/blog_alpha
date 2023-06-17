@@ -1,20 +1,23 @@
 ---
 categories:
 - writting
-date: '2012-04-11'
-link: https://www.imdb.com/title/tt0459666
+date: '2018-10-26'
+link: https://www.imdb.com/title/tt3886454
 tags:
+- cinemaqui
 - movies
-title: Três Tempos
+title: Trinta Almas
 ---
 
-"Dê seu preço. Eu quero vender minha alma. Sem passado. Sem futuro. Apenas um ganancioso presente."
+Trinta Almas realiza o experimento de unir documental e ficção em filme com tons de terror e mistério, mas desde seu começo já demonstra esta não ser uma ideia tão boa quanto a realizada em A Bruxa de Blair, marco nos filmes estilo mockumentary. Se bem que rotular este filme dessa forma não seja o ideal. Este é também um experimento, um conceito, que poderia dar algumas sensações novas aos filmes do gênero. Mas não consegue. É confuso, parado e frustrante.
 
-Há uma unicidade entre as três histórias contadas em Three Times que consegue ser percebida tanto pelas suas semelhanças quanto pelas diferenças. O uso de fotografias diferentes, mas todas belíssimas, para distinguir as três épocas onde as história se passam é um meio de diferenciar que acaba juntando exatamente pelas belas cores utilizadas apropriadamente em cada situação: o belo é o elemento de união. Elementos mais óbvios como figurino e direção de arte também executam sua função divisora, mas ao unir os episódios em torno de dois carismáticos atores Zui hao de shi sabe que conseguirá acertar em cheio o tom de universalidade dos temas, por mais espaçados e únicos que eles sejam.
+A história já começa revelando a busca por uma menina chamada Alba. O vilarejo fica localizado entre florestas e montanhas, com muitos lugares para uma criança se perder. Ela, aprendemos, é uma menina médium e está narrando sua história, começando pelo fim. Como isso a única reviravolta do filme é retirada, e o resto é apenas um documentário casual sem tensão.
 
-Até porque, em sua essência, o filme como um todo fala sobre o tempo e como ele influencia as pessoas nos elementos mais simples, como a comunicação, seja ela por carta tradicional ou uma mensagem de texto dos tempos atuais. O que diferencia nossa percepção nem é a mensagem em si, mas o tempo que ela leva para chegar ao receptor.
+Por outro lado, a fotografia é belíssima, limpa e cristalina. No inverno ela adota um tom azulado surreal e que fica na memória. No verão há o sol e as diferentes formas de sua luz passar por entre as árvores. Dois espetáculos de imersão e estética difíceis de rivalizar com o resto do filme.
 
-Iniciando com a história apaixonante do jovem casal em uma visão idealizada do amor, repleta de ótimas músicas da época que refletem exatamente isso, Zui hao sabe que haverá um eco simétrico e revelador na parte final, passada nos tempos atuais entre um fotógrafo e uma cantora. Enquanto isso, a história do meio, mais antiga, mostra elipses imensas, de meses, além de usar de maneira inteligente a técnica do cinema mudo, ao tirar a voz da boca dos personagens e colocar em um letreiro que também lembra um pergaminho, referenciando que naquela época não tínhamos gravações de voz, e cada palavra era importante, ou cada diálogo, espaçado demais.
+Porém, este é um documentário muito bem produzido, então todas as cenas lembram ficção pelo seu uso estilizado de cores e a qualidade do filme. A parte pobre é o uso desnecessário de efeitos visuais para materializar as almas do filme, pequenas luzes flutuantes em casas abandonadas ou cavernas úmidas. Não funciona.
 
-Porém, a verdadeira maestria da montagem reside no ato final, onde temos exatamente o oposto: nossos pensamentos, falas e textos trafegam tão rápido, a informação que nos chega é tão instantânea, que ela simplesmente nos escapa, deixando-nos atrasados em relação à nossa própria fala. É por isso que só ouvimos as palavras de nossos personagens após seus lábios começarem a se mexer ou até mesmo a digitar. Se por um lado a primeira história era a mais romântica, não há mensagem filosófica mais poderosa e poética do que essa.
+Acompanhamos a rotina simples do vilarejo, desde a escola até sua relação com a morte, durante a missa e o feriado de Todos os Santos (seguido por Finados). Além disso, a prática da caça de um porco selvagem gera uma vítima fatal, mas a direção do filme prefere ser tão sutil nesse ponto que justifica o pseudo-documentário, mas faz as luzes flutuantes soar ainda mais inconveniente.
+
+Com uma bela produção e direção, mas sem roteiro que nos insira em uma história com seu rico cenário, Trinta Almas não consegue animar o espírito.
 

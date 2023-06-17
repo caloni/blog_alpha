@@ -1,11 +1,12 @@
 ---
 categories:
 - writting
-date: '2023-03-15T23:08:56-02:00'
+date: '2020-01-09'
+link: https://www.imdb.com/title/tt7335184
 tags:
-- movies
-title: Viveiro
+- series
+title: Você
 ---
 
-Filme cheio de metáforas sobre a vida de um casal de classe média. Ainda um jovem casal, eles são obrigados a viver o resto do seu sonho americano em 2x (ou mais), enclausurados em um condomínio de casas, tendo que cuidar de um filho que não pediram. Você já pescou algumas das metáforas. O filme foi feito para o espectador sair da sessão se achando muito esperto por entender algumas delas. Porém, o próprio filme não deve entender metade, pois joga símbolos na nossa cara como a evitar que olhemos para dentro e enxerguemos o vazio que é este filme.
+As boas ideias do mundo estão condenadas a se tornar séries medíocres de streaming. Este é o caso de You, que narra a história de um stalker que utiliza os mecanismos online que qualquer um de nós poderia utilizar, observa seu alvo pelas janelas e vitrines do mundo real, e que nutre um certo fascínio em conhecer a pessoa a distância. Esta é a única explicação para que o bem apessoado Joe Goldberg não se aproxime em definitivo da vida de Candance Stone, já que no primeiro encontro entre eles já ficou clara a conexão afetiva, e até uma certa tensão sexual. No entanto, os criadores da série Greg Berlanti e Sera Gamble colocam suas ideias à frente da lógica e desenvolvem a possibilidade de um relacionamento entre um stalker e sua vítima como se fosse uma alternativa ao convencional, e no processo vamos acompanhando como é estar na mente de uma pessoa que só consegue observar sua vida em volta. Se pensarmos em ironia o espectador deverá agora sorrir para si mesmo.
 

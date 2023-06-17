@@ -1,20 +1,42 @@
 ---
 categories:
-- writting
-date: '2016-03-20'
-link: https://www.imdb.com/title/tt1979320
+- playing
+date: '2023-03-01T17:04:51-03:00'
+link: https://www.chess.com/game/live/71438504179
 tags:
-- movies
-title: 'Rush: No Limite da Emoção'
+- chess
+title: Sacrifício de bispo infundado
 ---
 
-Rush não é um filme apenas sobre a rivalidade de dois pilotos de corrida, mas sobre dois estilos de vida. Melhor ainda, é sobre uma rivalidade que de fato existiu na vida real, entre o britânico James Hunt (Chris Hemsworth) e o austríaco Niki Lauda (Daniel Brühl). O primeiro é o ápice do estereótipo dos pilotos de Fórmula 1: sexo, drogas e fama. O segundo é seu oposto: um profissional das pistas. Hunt tem os cabelos compridos e em seu macacão está escrito "sexo: o café-da-manhã dos campeões". Lauda analisa o risco de não sair vivo de uma corrida e estabelece para si o limite de 20%.
+Negras jogam e é mate em 6 se capturar o bisco e mate em 3 se capturar o peão.
 
-Ron Howard talvez não fosse o diretor certo para o filme. Responsável por trabalhos como Uma Mente Brilhante, toda a farofa possível de se realizar em corridas será realizado por ele. Cortes ritmados, trilha sonora solene, e a visão de perfil e de close de seus astros olhando para o horizonte, a próxima curva que talvez nunca alcancem. Além do mais, o filme contém um homem cuja virtude se mede pela quantidade de mulheres com quem já esteve na cama, algo um pouco distante da imaginação do diretor, que prefere mostrar singelamente três pares de pés.
+{{< image src="board1.png" >}}
 
-No entanto, justiça seja feita, sua convicção de qual é o protagonista é certeira, e vital para o andamento da história. É o homem que vive nas sombras, o indesejado e que mantém uma rivalidade crescente que desafia seus limites humanos. Daniel Brühl vive um Lauda absolutamente crível, cujas falas possuem tanto a lógica irrefutável dos alemães (apesar dele não ser alemão) quanto um misto de inveja e auto-reflexão, comparando-se ao despreocupado, instável e fascinante James Hunt. Ao mesmo tempo, Hemsworth utiliza sua carisma da maneira certa, realizando o mesmo trajeto de seu rival, mas à sua maneira. Quando ele resolve dar uma lição em um jornalista atrevido, parte dos sentimentos de nobreza que desconfiávamos de Hunt até aquele momento foram confirmados. Não se trata de esmagar o inimigo, mas de cultivar uma rivalidade que impulsiona um ao outro.
+Brancas jogam e é mate em 3.
 
-As cenas das corridas exibem um senso estético interessante, mas nunca profundo. Com cortes rápidos e utilizando as narrações televisivas para informar o espectador a todo o momento o que está acontecendo (algo que é difícil de acompanhar até mesmo assistindo a uma corrida real), metade é apenas burocrático, e a segunda metade contém mais conteúdo graças aos acontecimentos que ocorreram anteriormente dentro, mas principalmente, fora da pista.
+{{< image src="board2.png" >}}
 
-Recriando com satisfação uma rivalidade épica da Fórmula 1 entre dois campeões igualmente épicos, Rush é um filme que sobrevive como um ótimo entretenimento e drama apesar de uma direção megalomaníaca.
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.03.01"]
+[White "cavaloni"]
+[Black "Rushan22"]
+
+1. Nf3 d5 2. b3 Bg4 3. Bb2 Nc6 4. e3 Nf6 5. Be2 e6 6. O-O Bd6 7. d3 O-O 8. Nbd2
+Nb4 9. Nd4 Bxe2 10. Nxe2 Bxh2+ {O sacrifício tem seu sentido: expor o rei e
+ameaçar mate com a entrada do cavalo e da dama. No entanto, isso precisa ser
+provado até o fim, pois o cavalo das brancas em f3 já defende a posição e não
+fica muito claro onde está a compensação pelo bispo.} 11. Kxh2 Ng4+ 12. Kg1 Qh4
+13. Nf3 Qh6 14. Nf4 f6 15. Nh3 e5 16. a3 {Expulsando o cavalo para defender o
+peão que será desprotegido em c2 quando ativar a dama e iniciar as trocas, pois
+estou com uma peça a mais.} 16... Nc6 17. Nh2 Nxh2 18. Kxh2 e4 19. dxe4 dxe4 20.
+Qg4 Rfe8 21. Qf4 Qg6 22. Rg1 Rad8 23. g4 Qf7 24. g5 {Mesmo com menos material, a
+melhor coisa a ser feita para as pretas é trocar as damas.} 24... f5 25. g6 Qe7
+26. gxh7+ Kh8 27. Rxg7 Qxg7 28. Bxg7+ {Mate em 6 se capturar o bisco e mate em 3
+se capturar o peão.} 28... Kxg7 29. Rg1+ (29. Qxf5 Rf8 30. Rg1+ Kh8 31. Qg6 Rg8
+32. Qxg8+ Rxg8 33. hxg8=Q#) 29... Kh8 {Mate em 3 novamente.} 30. Ng5 (30. Qh6
+Rg8 (30... Re7 31. Qf6+ Kxh7 32. Qh4#) (30... f4 31. Qg7#) 31. hxg8=Q#) 30...
+Rd7 31. Qxf5 1-0
+```
 

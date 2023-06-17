@@ -1,16 +1,33 @@
 ---
 categories:
-- writting
-date: '2015-03-29'
-link: https://www.imdb.com/title/tt1455151
+- playing
+date: '2023-03-01T17:13:52-03:00'
+link: https://www.chess.com/game/live/71279727071
 tags:
-- movies
-title: Minhas Tardes com Margueritte
+- chess
+title: Miniatura com sacrifício de bispo
 ---
 
-Esse é um filme doce e maniqueísta. Porém, seu maniqueísmo só se reflete nos personagens secundários, aqueles que são criados para criar tensão e colorir o universo de Germain Chazes, um faz-tudo que vive em um trailer. Todos zombam de Germain por ser ignorante, e sua ignorância é explicada através da diferentes flashbacks de sua infância onde ele é maltratado pelos professores e por sua própria mãe, que o considera um acidente. A relação entre os dois é a base para entendermos a dinâmica de sua nova amizade com Margueritte, uma senhora que se senta à tarde na praça da cidadezinha onde moram para observar os pombos e realizar uma atividade para ela prazerosa e para Germain uma verdadeira tortura: ler. Porém, à medida que ele aprende que ler é enxergar o mundo à sua volta através de símbolos cuja tradução lhe foi negada desde criança, Germain passa a se tornar o que chamamos de homem completo, o que é interessado em sua vida e busca seus próprios interesses. É capaz de se soltar das amarras nefastas da ignorância graças ao convívio com uma pessoa que, apesar de estar no fim da vida, ainda tem muito a oferecer a qualquer um que tiver a paciência de parar e ouvir.
+Brancas sacrificam e ficam ganhas.
 
-O filme de Jean Becker baseado em um livro tenta com uma certa insistência te levar às lágrimas, mas sem sucesso. No entanto, as interpretações do gigantesco Gérard Depardieu e da mirrada Gisèle Casadesus funcionam em uma dinâmica invejável, pois apesar de todos os clichês algo novo é criado. Não dá para negar que é o próprio Jean Becker que consegue a façanha, que junto com seu editor, Jacques Witta (trilogia das cores), liga as cenas com uma fluidez que faz a história passar bem rápido sem nunca se esquecer de pausar nos momentos importantes. Dessa forma, o dia-a-dia de Germain indo no bar, na feira e na praça pode estabelecer uma rotina de forma eficiente, mas quando este resolve abrir o seu presente de noite, um dicionário, e procurar nomes próprios, o filme dá todo o tempo do mundo para respirarmos junto com a curiosidade (e a frustração) de Germain.
+{{< image src="board1.png" >}}
 
-Obviamente concluindo no formato dramalhão -- e ainda sugerindo um passado humanitário para Margueritte -- Minhas Tardes com Margueritte já conseguiu ficar nos trilhos por um bom tempo de projeção a ponto daquelas duas pessoas serem importantes demais para deixarmos de lado seus destinos. Dessa forma, não importa o resgate no hospital, tanto quanto não importa uma morte relevante. O que importa é que continuemos a olhar para esse mundinho por um pouco mais de tempo, só para sairmos satisfeitos de como as coisas se encaixam com uma perfeição suspeita, mas cativante.
+Brancas jogam e aplicam mate em 4 de duas formas: uma bonita e uma como seguiu na partida.
+
+{{< image src="board2.png" >}}
+
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.27"]
+[White "cavaloni"]
+[Black "jucamarvado"]
+
+1. Nf3 Nc6 2. d4 d5 3. Bf4 Nf6 4. Nc3 e6 5. a3 Bd6 6. Bg3 Bxg3 7. fxg3 O-O 8. e3
+Ne4 9. Bd3 Nxc3 10. bxc3 a6 11. O-O b5 12. h4 Re8 {Depois de terminada a partida
+vejo que a engine manda mesmo sacrificar.} 13. Bxh7+ Kxh7 14. Ng5+ Kg6 15. Nxf7
+Qe7 {Mate em 4 de duas formas: uma bonita e uma como seguiu na partida.} 16.
+Qg4+ (16. Qd3+ Kh5 17. Qh7+ Kg4 18. Qg6+ Qg5 19. Qxg5#) 16... Kh7 17. Qh5+ Kg8
+18. Qh8# 1-0
+```
 

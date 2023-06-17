@@ -1,24 +1,22 @@
 ---
 categories:
 - writting
-date: '2013-11-22'
-link: https://www.imdb.com/title/tt1817273
+date: '2011-10-23'
+link: https://www.imdb.com/title/tt2166420
 tags:
 - movies
-title: O Lugar Onde Tudo Termina
+title: O Manuscrito Perdido
 ---
 
-É uma satisfação imensa presenciar tantas virtudes técnicas juntas em um filme ambicioso também em seu lado narrativo e temático. Há muitas ideias a serem interpretadas e sentidas em O Lugar Onde Tudo Termina, sendo a principal delas é: até que ponto nossas escolhas conseguem influenciar de alguma forma o futuro? Há uma justiça (divina ou não) em algum lugar ou tudo é uma questão de interpretação?
+Fradique Mendes, um poeta e aventureiro português, amigo de Eça de Queiroz, viveu na região que foi primeiro abordada pelos portugueses no começo do século XVI, evento esse que nós brasileiros conhecemos como "Descobrimento do Brasil". Esse evento, e muitos outros na história do país, no entanto, possuem ecos diversos na sociedade brasileira, como bem demonstra esse documentário de José Barahona. O mais relevante desse trabalho, porém, é constatar que esses ecos do passado continuam influenciando boa parte da nossa sociedade, e como ela é estruturada em torno da terra herdada.
 
-Iniciamos a história com Luke (Ryan Gosling), um motoqueiro cuja longa sequência sem corte em que o vemos adentrar em um globo da morte e fazer peripécias com três motos juntas já apresenta também sua habilidade e denota a intenção do diretor Derek Cianfrance de tornar seus atores famosos em figuras mais humanas e realistas (como já havia feito no excelente Namorados para Sempre). Há um relacionamento passado que revela que Luke é pai (uma referência e reversão de expectativa interessante com os arquétipos de Star Wars), resultado de uma aventura amorosa com Romina (Eva Mendes). A tristeza de Luke perante a incapacidade de formar uma família ou ao menos manter-se por perto é o ponto de transição que faz com que ele se isole de sua fama e reinicie sua vida se fixando no local.
+O objetivo de Barahona é resgatar um suposto manuscrito escrito por Fradique ao deixar suas terras. Vítima de ódio de outros proprietários depois que este decide libertar seus escravos, o manuscrito é resultado de reflexões do poeta acerca da sociedade onde vivia.
 
-Porém, quando conhece Kofi (Ben Mendelsohn) e sua vida passada de assalto a bancos, Luke vê aí uma possibilidade de conseguir ao menos sustentar financeiramente seu filho. É o amor de pai que o move para o mundo do crime e o figurino afiado mostrando suas roupas esfarrapadas e seu deixo frouxo de falar que deixa claro que não há muitas alternativas para o obviamente limitado intelecto de Luke.
+Apesar da qualidade das imagens capturadas deixar a desejar (ou foi a projeção tosca, mesmo?) e até mesmo o foco nos entrevistados apresentar problemas sérios nos primeiros momentos, a decupagem merece destaque, pois possui uma lógica visual competente, mesmo ao sabermos que diversos pontos da trama foram "costurados" com a ajuda de atores.
 
-E é aí que reside o ponto mais ambicioso da trama: acontecimentos que não vêm ao caso trazem à tona outro personagem relevante no meio do filme. A ambição narrativa dos quatro roteiristas e a perfeição técnica com que a narrativa é alinhada com a ajuda do montador Jim Helton concebem uma fluidez admirável para um filme que simplesmente descarta qualquer afeição com a pessoa que iniciou toda a história.
+Através de uma narração em off, somos levados a crer que o documentarista está sozinho nessa empreitada, e o fato da maioria das tomadas ser gravada com a câmera em tripé reforça essa impressão. Porém, mais isolado que o cineasta estão as comunidades que ele visita, que parecem alheias a tudo que ocorre no mundo, com as pessoas vivendo em seus microcosmos resultantes de mudanças sociais de séculos atrás.
 
-Não apenas isso: a fotografia, inicialmente de um ensolarado e planos abertos que evocam os sentimentos selvagens de Luke e seu desejo de liberdade se fecha para um azul melancólico e que acompanha planos cada vez mais fechados (cenas mais internas, closes mais próximos com menos iluminação). Vemos aos poucos o lado podre da justiça de maneira sistemática e revoltante. Porém, ao mesmo tempo, aguardamos ansiosos pelo desenrolar dos eventos que praticamente atravessam o personagem de Bradley Cooper.
+Dessa forma, acompanhamos descendentes das tribos quilombolas, os primeiros escravos refugiados, assim como as tribos indígenas que, diferente da Amazônia, por estarem situados na costa do continente, sofreram influência direta por 500 anos.
 
-O que nos leva mais uma vez a uma "troca de foco". Dessa vez, quinze anos se passam, e o peso disso é repassado na maquiagem e no clima fúnebre em que isso acontece. Não são dadas dicas explícitas, pois o filme respeita a inteligência do espectador. Porém, sabemos de imediato a conclusão da última conversa que testemunhamos quinze anos atrás. Também descobrimos quase que de supetão o que ocorre com a primeira parte do filme, em mais uma participação digna de destaque para Dane DeHaan (Poder sem Limites).
-
-Ao final, o destino daquelas pessoas já não é mais tão particular. A transição que completa a trama e fecha o ciclo representa a sobrevivência de algo maior que transcende o mero estudo de personagens. O filme se torna o estudo do Cinema como arte de narrar histórias.
+E para terminar o caldo, indígenas e sem-terra disputam a posse de terras na mesma região, em um triste reflexo do que era naqueles tempos primitivos e que vem se repetindo de geração em geração, em um povo que pode carecer de muitos lazeres da vida moderna, mas que nunca deveria sentir falta do bem mais abundante no país: a própria terra.
 

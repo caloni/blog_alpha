@@ -1,18 +1,19 @@
 ---
 
-Happy! é uma feliz (que surpresa!) importada do serviço de streaming Netflix de um conteúdo da produtora Syfi, responsável pelos jovens clássicos Sharknado. Criado pela dupla Grant Morrison e Brian Taylor baseado nos quadrinhos criado por Morrison e ilustrado por Darick Robertson, esta aventura de ação policial distópica se passa em um universo onde há muitas brechas para o sobrenatural, mas ao mesmo tempo garante um realismo fantástico bem típico dos criadores de Adrenalina (1 e 2).
+Este não é um vídeogame, mas um filme que utiliza completamente a estética dos jogos de tiro em primeira pessoa. Ele tem uma narrativa coesa, e ainda que não tão bem articulada, qual filme de ação você conhece que consegue ser tão realista a ponto de enxergarmos toda a ação do ponto de vista do mocinho? Pior: que filme de ação hoje em dia consegue te entregar todo o pacote 18+, com direito a sangue, esquartejamento, esmagamento, esfaqueamento e outros "mentos" por aí, e não aquelas brincadeiras de criança da Marvel?
 
-Esta aventura é de Nick Sax, um ex-investigador que está no momento em um ponto de sua história pessoal em que algo deu muito errado em sua vida (e é muito salutar da série sequer tocar nesse ponto em seu início). Sax está praticamente sendo movido pelas forças da natureza, e sobrevive por sua força, sorte e esperteza, embora não possamos estimar qual a porcentagem precisa desses elementos. O fantástico surge quando a pequena Hailey Hansen (Bryce Lorenzo) é raptada por um papai-noel do mal e seu amigo imaginário Happy (voz de Patton Oswalt) corre em busca de ajuda. E você já sabe qual ajuda ele encontra. Infelizmente essa ajuda está à beira da morte por ter se metido inadvertidamente com uma máfia italiana e com um segredo que envolve uma senha, demônios e a morte do caçula da família.
+Além disso, apesar da premissa simples (mocinho se vê em apuros e tem que sair dele) há várias ideias interessantes por trás de "Hardcore Henry", que piscam para os gamers, mas que consegue extrapolar isso para a sétima arte. As múltiplas vidas de seu amigo Jimmy é apenas a mais óbvia. O que dizer do vilão, um ser que consegue controlar através de sua mão objetos e pessoas, fazendo-os flutuar? E de quem é a brilhante ideia de utilizar memórias de jogos... quer dizer, vidas passadas -- ou implantadas -- para trazer motivação por trás dos ciborgues construídos em cima de seres humanos, senão a de um "gamer" (que, no caso, é justamente o vilão do filme por manipular seus "soldados")?
 
-Ambientado em um universo real, mas contando com malucos (reais ou não) como Sax e Happy, esta série utiliza violência na medida certa para pontuar a brutalidade das ruas, o que torna a presença de Happy a mais inusitada possível. Se trata de uma mescla de elementos de gêneros diferentes, mas não chega a ser um resultado engraçadinho. O que a série parece querer fazer é explorar o absurdo do lúdico em ambientes nada amistosos com personagens com histórias nada adequadas para crianças (portanto, fiquem avisados: existe o Happy, mas não existe Mercy).
+Além disso, há longas sequências de ação, com cortes que não incomodam. O filme começa meio desajeitado, mas aos poucos vamos aprendendo essa dinâmica. Há um tom futurista, mas não muito. A bio-engenharia é o ponto mais interessante desse mundo. A fotografia consegue às vezes manter a coerência de iluminação mesmo entre dois cenários extremamente distintos (como um corredor mal iluminado e uma sala com computadores e uma grande janela). A edição está, como em apenas uma longa sequência, na elaboração dos objetos e atores em cena.
 
-Christopher Meloni também é uma força da natureza, e embora falte jeito ao ator, não falta postura e energia. Meloni, com suas caras e caretas, ensaia um personagem cartunesco e ao mesmo tempo durão. Grande sem ser bonachão, vemos sua força e vemos seu dilema se fechar em um arco extraordinário nos segundos finais, que não apenas mantém o clima de desesperança como este pequeno gancho de esperança lúdica e absurda demais para ser verdade. Há algo aí que pode ser interessante.
+E para o gamer é claro que há uma "recompensa". Imagine qualquer fase de seu game favorito, e provavelmente ela estará no filme. Há uso de quase todo tipo de arma, lutas corpo a corpo, estratégia de guerra, explosões, granadas, cenas aéreas. É um filme, acima de tudo, de sensações. Há um roteiro -- escrito pelo próprio diretor, Ilya Naishuller, que ficou famoso após seu excelente curta ganhar 30 milhões de visualizações no YouTube -- mas ele não precisa ir muito além. O humor utilizado na figura de Jimmy é mais que o suficiente. O vilão, infelizmente, é meio unidimensional. Mas, mais uma vez... estamos acostumados com isso, não?
 
 ---
 categories:
+- reading
 - writting
-date: '2019-06-09'
-link: https://www.imdb.com/title/tt2452242
+date: '2021-10-16T12:39:56-03:00'
 tags:
-- series
-title: Feliz! S02
+- movies
+- quotes
+title: Harold Rosenberg

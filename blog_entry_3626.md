@@ -1,33 +1,20 @@
 ---
 categories:
-- playing
-date: '2023-01-12T21:21:37-03:00'
-link: https://www.chess.com/game/daily/321199162
+- writting
+date: '2016-10-21'
+link: https://www.imdb.com/title/tt3757648
 tags:
-- chess
-title: Tem um lance brilhante aqui e não imagino por quê
+- movies
+title: Tempestade
 ---
 
-Negras jogam.
+Este é um filme leve, com uma história simples e e fácil de digerir. Há algum simbolismo por trás do enredo, mas a falta de força dessas pessoas em tomar as rédeas de suas vidas é deprimente. É a típica história de "não somos donos do nosso destino" com uma pitada do ataque ao dinheiro. Uma conversa velha reciclada em um filme tão bem feito quanto descartável, já que não tem nada a dizer.
 
-{{< image src="board.jpeg" >}}
+O centro da história é Dom, que é um pescador do alto mar e fã de festas. Divorciado, ele eventualmente encontra os filhos adolescentes, que moram em sua casa e em seu coração (provavelmente o clima festeiro contribui mais para isso do que o fato dele ser pai de ambos).
 
-```
-[Event "Let's Play!"]
-[Site "Chess.com"]
-[Date "2021.03.21"]
-[White "cavaloni"]
-[Black "fssantana"]
+Tanto que Dom perde as rédeas de sua vida a partir do momento que ele é necessário como pai. Arrependido por desistir tão fácil do ofício para proteger o que mais ama na vida -- pescar -- ele entra nas águas turbulentas de conseguir seu próprio negocio e assim o desequilíbrio eminente naquela família acontece.
 
-1. e4 c5 2. Nc3 d6 3. Bb5+ Nc6 4. d3 a6 5. Bxc6+ bxc6 6. Bg5 f6 7. Bh4 $6 e5 8.
-f4 Be7 $6 9. f5 Nh6 10. Qh5+ Nf7 11. Nf3 d5 12. O-O-O $6 d4 13. Ne2 $6 Qa5 14. a3 $6
-Qa4 $6 15. Nd2 Rb8 $6 16. Nc4 $1 a5 17. Be1 Ba6 18. b3 Qb5 19. a4 Qb7 20. Nxa5 Qb6
-21. Nc4 Qc7 22. h4 O-O 23. Bd2 Nd6 24. Nxd6 Bxd6 25. Qg4 c4 26. dxc4 Bxc4 27.
-Bc3 dxc3 28. Nxc3 Ba3+ 29. Kd2 Qa5 30. bxc4 Rbd8+ 31. Ke2 Qxc3 $1 32. Kf1 $2 Bc5 33.
-Qe2 Rxd1+ 34. Qxd1 Qxc4+ $4 35. Qd3 Qxa4 36. Ke2 Bb6 $6 37. Qb3+ $6 Qxb3 $1 38. cxb3
-Rd8 39. Rc1 c5 40. Rd1 Rd4 41. Rxd4 cxd4 42. h5 g6 43. h6 $6 gxf5 44. exf5 e4 45.
-b4 d3+ 46. Kd2 Bd4 47. b5 Kf7 48. Ke1 Ke7 {<br /><br />Game may have
-continued...} (48... Ke7 49. Kd2 Kd6 50. b6 Bxb6 51. Kc3 Ke5 52. Kb4 Ba5+ 53.
-Kxa5 {-13.3}) 0-1
-```
+O filme dirigido por Samuel Collardey consegue manter nossa atenção centrada na jornada em terra firme de Dom do começo ao fim, mas não graças à história. Muito mais deve ser creditado ao ator Dominique Leborne, que nos submete a um olhar naturalista de um quarentão prestes a sucumbir à realidade da vida.
+
+Como parte de sua influência como pai (nos poucos momentos em que esteve presente) é assim que também agem seus filhos: desistem na primeira demonstração de dificuldade ("vou morar com a mãe, aqui está frio demais"). E mesmo quando alguém da família tenta impor sua decisão corajosa, como a filha mais velha, é logo desencorajada pela voz mais velha, que vem de um bom pai, mas mascara seu desejo egoísta de viver no mar.
 

@@ -1,28 +1,9 @@
 ---
-
-O ano de 2008 promete. Pelo menos no começo.
-
-Está marcado para dia 19 desse mês em São Paulo o terceiro encontro de programadores C++, cujas informações mais atualizadas você poderá acompanhar em nossa wiki. A grade de eventos, pelo menos por enquanto, é essa:
-
-  * 09:30 a 10:00 - Introdução e Apresentação dos Membros do Encontro
-  * 10:00 a 11:00 - C++  com WxWidgets por  Ivo Nascimento
-  * 11:00 a 11:30 - Debate
-  * 11:30 a 11:45 - Coffee break
-  * 11:45 a 12:45 - C++0x - Novas características de suporte a projetos de bibliotecas genéricas por Pedro Lamarão
-  * 12:45 a 13:15 - Debate
-  * 13:15 a 14:30 - Almoço
-  * 14:30 a 15:30 - Threads no CPP ISO - Wanderley Caloni
-  * 15:30 a 16:00 - Debate
-  * 16:00 a 16:15 - Coffee break
-  * 16:1 a 17:00 - Fórum sobre a Organização do Grupo de Usuários e da C/C++ Conference Brasil
-  * 17:30 a 00:00 - C/C++ Beer Meeting!
-
-Conto com a participação de todos que se interessam, usam ou aprendem sobre essas fabulosas linguagens de programação. Vamos levantar a moral de C++ no cenário brasileiro!
-
-Errata: na verdade o que ocorreu dia 19 foi um encontro de C++ com direito a palestras e coffee break, o que de certa forma invalida o nome CppCon. Futuramente teremos o que poderemos chamar de conferência C++, no sentido amplo do termo. Te espero lá.
-
----
 categories: []
-date: 2017-07-25 16:59:05-03:00
-tags: null
-title: CppTests
+date: '2020-08-24'
+link: https://rog.asus.com/forum/showthread.php?92088-GL553VD-Gaming-Normal-CPU-Temperature-Range&s=b1f7689c0bb3092110ec06ad4fe25684
+title: CPU Fritando com Intel Turbo Boost
+---
+
+É a segunda vez que isso acontece e esqueci quando foi a primeira. O cooler do notebook começa a assoprar que nem louco e em poucos minutos o computador desliga. O processo se repete, sempre que faço alguma atividade que exige mais processamento. Baixo o HW Monitor da CPUID e verifico que a CPU está alcançando limites acima de 90 graus celsius, e para segurança ela se auto-desliga. A solução? Ir em opções de energia do SO e trocar o limite máximo que a CPU pode ser usada de 100% para 99%. Isso mesmo, apenas abaixe um por cento. Com isso você está desabilitando o Intel Turbo Boost, que aparentemente não conhece limites físicos e sai fritando a CPU quando é necessário. Mas isso desgasta os chips e destrói a vida útil do sistema. E minha máquina já é rápida o suficiente para conseguir viver sem mais um Boost na minha vida.
+

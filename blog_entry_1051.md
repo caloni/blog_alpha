@@ -1,44 +1,24 @@
 ---
-
-A maior vantagem de se rodar um aplicativo como serviço, interativo ou não, é permitir que ele seja iniciado antes que seja feito um logon na máquina. Um exemplo que acontece comigo é a necessidade de depurar a [GINA]. Para isso, preciso que o depurador remoto do Visual Studio seja iniciado antes do logon. A solução mais fácil e rápida é rodar o Msvcmon, a parte servidora da depuração, como um serviço. Hoje eu descobri um atalho bem interessante para isso.
-
-Um [artigo do Alex Ionescu] falava sobre esse aplicativo linha de comando usado para criar, iniciar e apagar serviços. Mesmo não sendo o foco do artigo, achei muito útil a informação, pois não conhecia esse utilitário. Logo começaram a borbulhar idéias na minha mente:
-
-> "E se eu usasse esse carinha para iniciar o notepad?"
-
-{{< image src="wordclip.jpg" caption="Wordclip" >}}
-
-Bem, o Bloco de Notas é a vítima padrão de testes. Logo, a linha a seguir provaria que é possível rodá-lo na conta de sistema:
-
-    sc create Notepad binpath= "%systemroot%\NOTEPAD.EXE" type= interact type= own
-
-Porém, como todo serviço, é esperado que ele se comunique com o Gerenciador de Serviços do Windows. Como o Bloco de Notas mal imagina que agora ele é um motta-fucka service, expira o timeout de inicialização e o SCM (Service Control Manager) mata o processo.
-
-    >net start notepad
-    The service is not responding to the control function.
-    
-    More help is available by typing NET HELPMSG 2186.
-
-Como diria meu amigo [Thiago], "não bom".
-
-Porém porém, o SCM não mata os processos filhos do processo-serviço. Bug? Feature? Gambi? Seja o que for, pode ser usado para iniciar o nosso querido msvcmon:
-
-    set binpath=%systemroot%\system32\cmd.exe /c c:\Tools\msvcmon.exe -tcpip -anyuser -timeout -1
-    sc create Msvcmon binpath= "%binpath%" type= interact type= own
-
-Agora, quando iniciarmos o serviço Msvcmon, o processo cmd.exe será criado, que por sua vez irá rodar o msvcmon.exe que queríamos, e ficará esperando inocentemente pela sua "funesta morte" pelo SCM.
-
-{{< image src="msvcmon-service.png" caption="MsvcMon Service" >}}
-
-[GINA]: {{< relref "gina-x-credential-provider" >}}
-[artigo do Alex Ionescu]: http://www.alex-ionescu.com/?p=59
-[Thiago]: http://codebehind.wordpress.com/
-
+categories: []
+date: '2015-11-18'
+tags: null
+title: Como ser um hacker
 ---
-categories:
-- writting
-date: '2016-11-17'
-link: https://www.imdb.com/title/tt1292566
-tags:
-- movies
-title: Como Ser Solteira
+
+Talvez as pessoas estejam com preguiça de ler. Talvez estejam apenas inundadas por tanta informação que temos hoje. Talvez seja apenas falta de foco pelas interrupções consecutivas de novos "espertofones" ou nossas redes sociais viciantes, pois oferecem muito a troco de nada.
+
+O fato é: se você precisa perguntar para alguém (no caso, eu) o que é preciso fazer para se tornar um hacker, algo como um guia passo-a-passo, eu vou encarar o desafio numa boa, pensar por alguns dias, semanas e talvez meses, e chegar à conclusão que a pessoa que precisa que alguém lhe ensine está percorrendo o caminho errado. Ela nunca vai aprender o suficiente para se tornar algo que possa ser chamado de hacker.
+
+E o que é hacker, que mal lhe pergunte? Há uma definição curta e simplista, há a definição do botão (que eu nunca mais vou me esquecer) e há o Jargon. O que é o Jargon? É um guia dos primórdios da web que contém tudo que você precisa saber sobre o jargão hacker. Duvida? Leia ele primeiro.
+
+Falar em jargão me faz lembrar do nostálgico e muito curioso (e que já falei em outros artigos) Barata Elétrica, o fanzine jurássico de Derneval Ribeiro que consistia em copy&paste de partes interessantes da rede, em inglês e português, e um pouco da cultura hacker na América do Sul (sobretudo Buenos Aires) e sobre a vivência de seu editor no ambiente uspiano. Derneval pode até não ser um "hacker de verdade" (só pra citar a falácia do escocês), mas ler o Barata Elétrica me deu não conhecimentos técnicos, mas muito sobre a nossa era da informação, como informação é vital hoje em dia, além de outros conceitos interessantes que nos fazem ficar atentos para privacidade, governos, política, economia, filosofia, etc. Acho que foi lá a primeira vez que tive contato com 1984, PGP, Mitnick. Enfim, curiosidade, piadas e um pouco do clima social que a web tinha (para mais disso, nada como saudoso mIRC...).
+
+Para quem pretende se tornar um hacker, já deve ficar claro que não existe receita de bolo, nem lista de conhecimentos desejáveis. Isso não e uma vaga para preenchimento de currículo. Isso é a vida real. Se existe uma receita, ela é vaga e de auto-ajuda:
+
+ 1. Primeiro você aprende a gostar de viver de acordo com a definição abaixo.
+ 2. Viver é a busca incessante de conhecimento em todas as suas formas, uma autodescoberta e a busca da felicidade pessoal e instransferível, subjetiva e inalienável.
+ 3. Com base nisso, comece a aprender profundamente sobre tudo o que deseja, em todas as áreas, sobre qualquer assunto, pessoa, lugar.
+ 4. Repita o passo anterior até que a inescapável morte aconteça; o resto é mistério.
+
+Parece meio poético e filosófico, mas não é. Se eu te disser que para ser hacker precisa aprende a crackear programas no Windows, fuçar no WinDbg e esmiuçar a API Win32, disassemblar códigos em binário com o IDA e usar no percurso todas as ferramentas, sistemas operacionais, linguagens de programação e conhecimentos periférios necessários, vai ser apenas uma descrição pessoal que não te levará à satisfação que talvez você deseja nessa jornada. Se sua única satisfação será poder dizer que é um hacker, sinto muito, isso é inútil. Você não está procurando viver por si mesmo, mas se auto-promover sem conhecimento de causa do que realmente a palavra significa. Esqueça o assunto e vá ler um livro. Ou melhor dizendo, vá navegar em sua rede social favorita...
+

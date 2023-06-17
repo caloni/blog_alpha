@@ -1,12 +1,12 @@
 ---
 categories:
 - writting
-date: '2011-12-04'
-link: https://www.imdb.com/title/tt0088286
+date: '2012-01-09'
+link: https://www.imdb.com/title/tt0114709
 tags:
 - movies
-title: 'Top Secret!: Superconfidencial'
+title: Toy Story
 ---
 
-Ao contar uma paródia dos filmes de espionagem e guerra em que um astro do rock (Val Kilmer) se envolve com um grupo da Resistência Francesa para libertar um cientista preso pela Alemanha Oriental (Michael Gough), a direção tripla resolve brincar com trucagens comuns em filmes do gênero e de todo o cinema. Dessa forma, até um telefone no canto da tela pode ser motivo de chacota, ou a batidíssima piada dos olhos atrás da lupa funcionar tão bem na melhor sequência do filme, onde os atores contracenam uma cena invertida de trás pra frente, incluindo os diálogos, lembrando o dialeto sueco. Note como aos poucos o diretor vai dando dicas do que realmente está acontecendo, até o derradeiro movimento do cachorro.
+Achei melhor do que as vezes anteriores que tinha assistido. A direção se esforça ao enfocar a ação e o uso de ângulos criativos que inibem a ainda falta de tecnologia que torna as texturas simplórias, apesar de bem trabalhadas. A dublagem nacional mais uma vez empolga, com menção honrosa ao Sr. Cabeça de Batata.
 

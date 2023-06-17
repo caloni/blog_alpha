@@ -1,15 +1,20 @@
 ---
 categories:
 - writting
-date: '2021-08-12T22:19:11-03:00'
+date: '2016-04-22'
+link: https://www.imdb.com/title/tt1279935
 tags:
 - movies
-title: Uma Mulher é Uma Mulher
+title: Uma Noite Fora de Série
 ---
 
-De repente você está em uma comédia musical francesa absurdista com os toques estranhos de contracultura de Goddard. Ame-o ou deixe-o, este filme é simpático. Não porque ele tenha algo a dizer ou faça sentido, mas porque ele é diferente de tudo o que costumamos ver na tela. Não é virtude do diretor, nem do roteiro. São coincidências da vida. Filmes do Goddard são meros acidentes da natureza. Não se pode atribuir autoria nem mérito, mas pode-se observar com curiosidade e até admiração.
+Esse filme é uma bagunça de dois gêneros. Ele começa como uma comédia romântica um tanto dramatizada a respeito de como o tempo -- e filhos, e rotina, e a velhice -- desgasta um relacionamento. Há piadas com certeza inspiradas na vida real de alguns dos participantes na criação do filme, pois ele se alimenta do lugar-comum e consegue trazer simpatia para esse lado.
 
-A história é que essa menina é uma mulher que quer um filho. Ela viu no horóscopo e em um método científico que lhe diz que hoje é seu dia fértil. Então hoje é o dia e nada vai detê-la. Seu marido comunista que lê jornais comunistas acha absurdo. Vai entender. Ela é adorável e queria fazer parte de um musical, mas o máximo que conseguiu foi um filme francês dos anos 60 e dançar em uma boate de stripteasing. A tempo: há um ou outro peitinho, bem rápidos. Preste atenção.
+O outro lado é um filme de ação policial que sempre soa artificial e muito exagerado. Com a participação de um elenco secundário de luxo -- Mark Wahlberg, Kristen Wiig, Mark Ruffalo, James Franco, Mila Kunis -- essa parte nunca nos dá a sensação de perigo ou de situação insolúvel. Dá mais a sensação de enlatado. A trilha sonora colabora imensamente com isso, com seu tom genérico.
 
-Mas pedir pra prestar atenção em um filme do cineasta francês é pedir demais. Você devaneia no meio, volta em uma cena ou outra. Percebe algumas rimas e dá risada bem tímida. Os comentários do filme sobre cinema não são relevantes hoje em dia, mas a verdade é que continua acima da média. É entretenimento para a antiburguesia. E é leve, tem música. E peitinhos.
+No entanto, estamos diante de um ícone da comédia. E Steve Carell dá conta de uma ou outra ponta em que há de fato uma comédia sendo feita. E mesmo com um roteiro fraco, há seus bons momentos. E há Tina Fey, que quase passa despercebida.
+
+O diretor Shawn Levy se sai melhor em roteiros mais parados (Gigantes de Aço, Uma Noite no Museu) que não exigem aquele rebolado que trafega entre dois gêneros. Aqui, como já dito, não há comédia o suficiente para segurar tantas cenas de ação. E há, sim, uma boa ideia, como podemos notar quando o casal resolve discutir o relacionamento. No entanto, o diretor fica no meio do caminho, sem fôlego para cenas de ação, e sem muita paciência para desenvolver o drama.
+
+Maior prova do fiasco antecipado são os créditos finais, sempre um sinal confiável: recheado de erros de cena.
 

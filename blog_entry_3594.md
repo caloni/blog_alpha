@@ -1,18 +1,28 @@
 ---
 categories:
 - writting
-date: '2014-04-16'
-link: https://www.imdb.com/title/tt2250192
+date: '2019-10-19'
+link: https://www.imdb.com/title/tt8535968
 tags:
-- animes
-title: Sword Art Online - Primeira Temporada
+- cinemaqui
+- mostra
+- movies
+title: System Crasher
 ---
 
-O tema de mundos virtuais já tem certa data, mas é a primeira vez que vejo ele ser explorado nos jogos online. Mais interessante, ainda, é construir uma história cujo pano de fundo é o lançamento de mais um RPG online a la "World of Warcraft", com direito a versões beta, coleção de itens, aumento de experiência, novas habilidades, com a diferença que seu controle é exercido e sentido diretamente pelo cérebro dos jogadores atráves de um sensor na forma de capacete. O enredo principal: se os criadores de um jogo de realidade virtual conseguem controlar os sentidos de seus jogadores o que os impede de levar essa experiências às últimas consequências?
+System Crasher evita a todo custo julgar sua jovem e impossível protagonista, mas não se pode dizer o mesmo dos espectadores, que saíram da sessão vociferando palavras de ordem e disciplina como solução para uma menina de uns 10 anos que com inteligência acima da média e ataques explosivos é uma versão em miniatura de uma delinquente juvenil. Mas a grande questão para quem quiser analisar além das emoções primárias que o filme evoca é sua camada imediatamente superior: quais os objetivos de um filme como esse?
 
-Com base nisso e um bom toque de animê/novela é que Sword Art Online se baseia ao longo da sua temporada de 25 capítulos divididos tematicamente em duas "fases". A primeira é a melhor das duas, pois expande diversos conceitos curiosos a respeito desse futuro distópico, como a relação afetiva (e sexual) entre seus membros e qual é a definição de "sentimento" nesse mundo, além de em diversos momentos utilizar a figura do casal principal Kirito e Asuna para servir de olhos e reflexão do espectador sobre o que faria em determinadas situações, ou até onde vai a brincadeira. Nesse sentido, a vinda de uma personagem muito especial "adotada" pelos heróis é sintomático e um dos melhores momentos da série, além de representar muitas homenagens óbvias ao longo da narrativa, notadamente Matrix, a obra cinematográfica dos irmãos Wachoski (que já referenciava e homenageava praticamente todos os ramos do entretenimento e da filosofia em torno da possibilidade de estarmos sonhando acordados em um mundo de mentiras).
+Estamos em um país de primeiro mundo e a pequena Benni já passou por mais de 30 instituições de correção juvenil. Jovem demais para ser presa no que seria a daqui extinta Febem, acompanhamos os ataques de raiva da garota enquanto ela provoca e agride crianças, ou foge dos adultos que a estão supervisionando.
 
-É com o uso de uma excelente trilha sonora dramática quase nunca exagerada e ótimas cenas de ação que a primeira metade de SAO capta a essência de sua história. Claro que isso ocorre graças ao pano de fundo que vai sendo contruído junto com a relação entre seus personagens, pois essa não é uma série de lutas de espadas comuns, mas uma interessantíssima reflexão sobre o que o ser humano é capaz de fazer para sobreviver e manter a sua honra, seu caráter, seus princípios. Existiria uma ética em um mundo onde tudo é possível?
+O filme escrito e dirigido por Hora Fingscheidt se entrega completamente ao ponto de vista de Benni para nos tentar dar sua visão, falhando miseravelmente, pois ninguém conseguiria se identificar mesmo. Com fontes coloridas e infantis, e música animada e frenéticas durante seus ataques, os movimentos de câmera da diretora pretendem emular o comportamento da mente desta criança que foi traumatizada desde muito pequena, adotada duas vezes e devolvida muitas outras.
 
-Essas questões existenciais parecem que nunca envelhecem...
+A dinâmica para filmar a jovem atriz Helena Zengel é uma das mais tensas já vistas com atores-mirins. Com certeza fruto de trucagens, nós espectadores a testemunhamos dizendo palavrões de gente grande e agredindo gravemente muitas crianças, além de si mesma. A atuação da atriz é primitiva, e podemos dizer com certa confiança que ela está representando uma versão muito próxima dela mesma e exibindo sorrisos e expressões falsos, mas pelo menos isso conseguimos relacionar com crianças saudáveis.
+
+Este é um filme adulto que pode chocar adultos. Há cenas fortes, mesmo que não explícitas, mas que mexem com nossas emoções. Benni faz basicamente o que quiser e vemos adultos impotentes diante de uma criança. Em vários momentos do longa a dúvida de quais os objetivos dessa tortuosa e frustrante história começam a incomodar.
+
+No que chegamos na grande falha do filme: não nos dar resposta definitivas. E por que esta seria uma falha, já que de acordo com seu próprio título de trata de um filme de alguém que quebra o sistema de tratamento de crianças desse país? Bom, não adianta descrever uma situação fictícia se você não tem nada o que falar sobre ela. Depois de uma hora e meia o filme anda em círculos por mais meia hora, gerando simpatia apenas pela assistente social que acompanha Benni desde o começo, quase como uma muleta emocional para não nos deixar sem nada.
+
+Para chegarmos em uma conclusão sobre o filme não nos resta outra opção do que entender que esta é uma crítica velada ao sistema educacional que está sendo usado em crianças de países que não possuem mais nenhum problema real, exceto lidar com crianças mimadas que nunca tiveram sua vontade sob controle. Este é o fim da humanidade como se conhece, incapaz de impor disciplina em suas próprias crias. Nem as sociedades dos países mais pobres teriam um sistema tão podre quanto este, como o próprio longa sugere, citando mais de uma vez um bem-sucedido programa educacional no Quênia.
+
+Mas esta é minha visão. Posso estar sendo enganado pelas minhas emoções. O filme nos faz todo o tempo buscar por uma solução, sem nunca nos entregar uma luz no fim do túnel. Este é um mérito dele, afinal de contas. Se não ele se chamaria Consertador de Sistemas.
 

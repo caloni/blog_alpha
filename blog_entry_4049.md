@@ -1,21 +1,24 @@
 ---
 categories:
 - writting
-date: '2013-08-02'
-link: https://www.imdb.com/title/tt0080120
+date: '2018-12-30T19:10:00-03:00'
+link: https://www.imdb.com/title/tt0475784
 tags:
-- movies
-title: Os Selvagens da Noite
+- series
+title: Westworld (Revisita ao S01 com algumas questões e spoilers)
 ---
 
-Filmado claramente como um filme de batalhas do Império Romano, a la [Spartacus], Ben-Hur e tantos outros, nossa visão é forçada a enxergar aquelas gangues de rua como exércitos a defender seu território, o que é fascinante por si só, pois embute em nossa mente o mesmo perigo de morte que exércitos "tradicionais" teriam em zona inimiga.
+A revisita a Westworld vale muito a pena. Detalhes que só serão revelados no final são percebidos desde o começo, e a experiência se torna única novamente. Em meu primeiro texto não me lembro se liberei spoilers (vendo agora... não), mas este aqui é certeza que terão. Como toda revisita a esta série deve ter.
 
-O uso dos diálogos remetem a este universo, como quando o assunto é sobre diplomacia, e os ângulos engrandecem seus personagens; os atores foram escolhidos a dedo pelo seu físico e feições de rosto que facilitam sua identificação: o líder, o valente, o fraco, o estratégico, o bobão. Até personagens menores, como um policial, possui um rosto que remete tanto à sua brutalidade quanto à sua falta de arbítrio, se comportando como um homem a serviço da lei e que não pensa suas ações. Porém, tudo isso é construído através da lógica visual dos atores, e é a grande vantagem do Cinema comparado com o Teatro, vantagem essa defendida por teóricos lá no nascimento da sétima arte, dizendo que não é só a atuação que conta, mas o tipo físico que cria a persona. A trilha sonora, ou escolha de músicas, é um trabalho à parte, preocupada com o ritmo de cada cena, o que remete ao trabalho conjunto de uma montagem que consegue acelerar e desacelerar de forma extremamente elegante.
+Em primeiro lugar, fui desnecessariamente duro com a série em meu primeiro texto. Se trata de uma história necessária para os dias de hoje, e uma história cujo roteirista necessário é possível contar nos dedos. E Jonathan Nolan obviamente está na lista. É dele O Grande Truque, Amnésia e Interestelar. Todos eles possuem algo com Westworld em comum: lidam com mudanças bruscas no tempo, com tempos paralelos e trucagens no tempo.
 
-Mas repare que não é um filme de interpretações, embora os rostos, as expressões e até o tom de voz colabora com a criação de personas quase estereotipadas, mas que em conjunto funcionam, que é o que importa. Até o despretensioso vilão, sinônimo do mal encarnado, se torna um ícone e protagoniza a cena que imortalizou o filme no mundo pop e cinematográfico. "Warriors, come out to play" é usado ad infinitum por inúmeros filmes, até filmes menores como [Strippers Zumbi].
+Aqui a grande trucagem está nos bonecos de Westworld, que por não envelhecerem podem pertencer a períodos temporais distintos. Porém, seus personagens humanos, esses sim, estão bloqueados no tempo e em sua visão limitada da realidade. Os bonecos conseguem reprogramar suas narrativas de maneira muito mais eficiente que um ser humano, embora vivam seus sonhos (e pesadelos) como se fossem a própria vida. Essas diferenças entre humanos e andróides são vitais para entendermos a escalada dessas criaturas para sua merecida liberdade e consciência.
 
-E mesmo com tantos estereótipos e o mergulho no épico a questão social daqueles meninos (e menina) é levantada de forma orgânica e que nos faz questionar, como os próprios garotos fazem, se o destino final deles vale tanto a pena.
+Mas isso ainda está em xeque. Terão alguns andróides atingido a consciência, ainda que da forma deles? O que dizer de um programador de androides onde ele próprio é um androide? Ele está consciente?
 
-[Spartacus]: {{< relref "spartacus" >}}
-[Strippers Zumbi]: {{< relref "as-strippers-zumbi" >}}
+A questão do controle é bem curiosa, também, pois aqui os humanos fazem o papel das forças da natureza, já que humanos estão presos à sua natureza, e os androides, a humanos. Anthony Hopkins faz aqui um de seus melhores papeis, e arcos, e é deles o melhor pacote de frases profundas, embora todos tenham o seu papel na história. Principamente os androides.
+
+É curioso perceber como humanos pouco mudam durante a temporada, mas os androides, estes sim vivem sua revolução, de forma velada, mas vibrante. É um deleite filosófico acompanhar a narrativa do ponto de vista da capacidade deles adquirirem uma forma de consciência, fora os diferentes símbolos criados para esta consciência.
+
+Enfim, apenas um pequeno desabafo de uma das melhores séries ainda em execução. Espero extrair mais conteúdo da minha terceira vez em que assiti-la. Sua complexidade me fascina, mas ao mesmo tempo me consome. Não consigo imaginar como o espectador médio passar por esse martírio.
 

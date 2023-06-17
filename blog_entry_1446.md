@@ -1,24 +1,18 @@
 ---
-
-## O único teste em que ela passa é o de Bechdel
-
-Quando você pensa em escrever sobre um filme esquecível e irrelevante como  Enola Holmes a primeira coisa que vem à mente é rotular e julgar como um produto Netflix com todo seu checklist obrigatório, como o feminismo. Porém, isso é tão óbvio que não merece mais ser citado.
-
-O que merece ser refletido ao vemos um filme como Enola Holmes é como as estruturas do sistema transformam ideias com boas intenções em mecanismos de opressão.
-
-Você conhece o [Teste de Bechdel]? Foi um conceito criado para rotular filmes a partir de uma métrica simples que irei expandir conceitualmente aqui: há personagens femininas nesse filme que não são apenas instrumentos do protagonismo masculino?
-
-A popularidade dessa ideia nos faz refletir em quão poucos filmes passam nesse simples teste, e a brincadeira era como se fosse um teste. Hoje é um mecanismo de seleção de quais obras podem ou não ser produzidas.
-
-E o que isso tem relação com mecanismos de opressão e Enola Holmes? Tudo. Este romance adaptado poderia, assim como os milhares de romances lançados todo ano, a maioria com qualidade duvidosa, ser esquecido nas prateleiras, virtuais ou não, de uma livraria. A categoria: mulheres empoeiradas.
-
-[Teste de Bechdel]: https://pt.wikipedia.org/wiki/Teste_de_Bechdel
-
----
 categories:
 - writting
-date: '2015-07-03'
-link: https://www.imdb.com/title/tt1791682
+date: '2011-01-30'
+link: https://www.imdb.com/title/tt0398286
 tags:
 - movies
-title: Enquanto Somos Jovens
+title: Enrolados
+---
+
+A história clássica de Rapunzel é recriada com o novo senso se humor Disney/Pixar, em que o príncipe é um ladrão procurado, e a frágil princesa não é tão frágil assim. Temos aí os mesmos elementos que tornaram a Disney tão amada pelas crianças e adultos: números de música inspirados (com destaque para o bar do patinho) e uma história sem muitos conflitos e um final feliz.
+
+Uma fotografia aprimorada, que dá a iluminação adequada em todas as cenas (claras e escuras). Uma dublagem duvidosa do príncipe -- versão brasileira --, mas competente dos outros personagens, com destaque para a madrasta da princesa.
+
+Algumas cenas forçadas, que tentam livrar a cara do roteirista que chegou em situações um tanto difíceis de sair: a princesa precisa se lembrar dos seus pais para se livrar de sua madrasta, e as gotas de lágrima dela são curadoras tanto quanto os cabelos.
+
+Destaque para a movimentação dos personagens e suas expressões, uma marca Disney, mas ainda cada vez melhor. A cena dos balões é a mais emocionante, e tem uma equiparação com a da morte do vagalume no trabalho anterior (A Princesa e o Sapo), embora Enrolados seja muito superior em termos de narrativa.
+

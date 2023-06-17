@@ -1,29 +1,18 @@
 ---
 
-Depois da analogia entre depuração e CSI, nada como fazer o mesmo com o seriado estilo House.
+House of Cards estreia novamente na Netflix em seu formato de praxe, com tramas interligadas que irão necessariamente desencadear no plano de dominação da família Underwood. Vemos uma breve e eficiente recapitulação de toda a saga e logo vamos nos acostumando novamente a ver os personagens se digladiado por um pouco mais dessa droga viciante que é o poder.
 
-Quais as semelhanças com a profissão de programador-depurador?
+Nada ainda foi estruturado de forma contundente. Apenas as peças do jogo foram remanejadas para dar início a outra partida. O que já é o suficiente para ressaltar a falta que faz na televisão séries que envolvam o espectador sem ressalvas. Não há mocinhos ou bandidos em House of Cards, como qualquer espectador da série que se preza já aprendeu.
 
-Em primeiro lugar, a busca por pistas. Se algo está errado com o programa, vivemos criando teorias mirabolantes a respeito do porquê tal função estar retornando zero. No entanto, como não temos tanta capacidade adivinhatória assim, geralmente nossos palpites estão errados, e o fundo do poço irá nos mostrar uma outra função que nem estava ainda na história.
+Dessa forma, torcer pela ascensão do jovem governador e sua esposa, ainda que pareça uma lembrança vaga e inerte de figuras trágicas como Peter Russo, nunca mais irá evocar sentimentos muito empolgados no estilo "o bem pode prevalecer". Isto é como uma guerra entre nazistas e comunistas. Qualquer lado que vencer irá gerar infortúnios para todos os lados. A não ser que você seja um estatista irremediável e reconheça que existam bons ditadores, assassinos razoáveis e psicopatas com um coração paternal.
 
-Mas existem alguns pontos-comuns de conhecimento que sempre desenvolvemos no decorrer da carreira:
-
-  * Se a última instrução do código é zero (ou algo próximo disso), provavelmente a pilha foi corrompida por alguém que tentou zerar uma variável, e junto dela o ponto de retorno de alguma função chamadora.
-
-  * Se um programa trava em um determinado momento, voltando após um período previsível de tempo (30 segundos), automaticamente sabemos que existe algum evento/mutex usado de forma errada que, dadas as circunstâncias, apresentou uma espera longa demais.
-
-  * Se uma versão nova capota em um procedimento em que a versão antiga nunca capotou, podemos divagar rapidamente quais as características da nova versão que fizeram com que isso acontecesse, ainda sem olhar para o código.
-
-Dessa forma é possível criar teorias a partir da análise mental do que o programa normal deveria estar fazendo, mas não está. É esse tipo de análise que é feita no seriado.
-
-Porém, o lado bom: podemos testar todas nossas hipóteses. Na vida real! Se, por enquanto, matar pacientes para depois ressuscitá-los é coisa de ficção, matar sistemas e reiniciá-los não é. E, dependendo do problema, podemos sempre replicá-lo em "outro paciente".
-
-Talvez isso faça a profissão tão realizadora e viciante: para resolver um problema, geralmente temos todas as cartas na mão, e se não temos, fazemos ter. Afinal de contas, somos nós que iremos ressuscitar o sistema perdido.
+Dessa forma, resta continuar assistindo e entender como a depressiva série da Netflix irá nos entreter dessa vez ao acompanharmos mais uma rodada de manipulações e trapaças em geral. Qual série consegue nos trazer sentimentos de lealdade entre um casal com uma relação tão afetiva quanto a entre diplomatas de dois países longínquos, e ao mesmo tempo nos deixar pensando em qual dos dois irá trair a confiança do outro?
 
 ---
 categories:
 - writting
-date: '2022-05-18T21:40:06-03:00'
+date: '2018-11-16'
+link: https://www.imdb.com/title/tt1856010
 tags:
 - series
-title: House M.D.
+title: House of Cards - Sexta Temporada (Series Finale)

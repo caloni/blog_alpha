@@ -1,22 +1,22 @@
 ---
-
-Quando você pesquisa sobre isso no Google o que mais encontra é ferramentas "gratuitas" que prometem fazer a conversão ou algo do gênero. No entanto, há um procedimento simples em que o próprio Windows pode corrigir os problemas oriundos da conversão do boot UEFI/GPT. Depois, é claro, que você usar uma outra ferramenta esperta open-source =)
-
-Entre as diferentes distros do Linux há uma chamada SystemRescueCD que é cheia dos paranauê para manutenção de micros. Entre eles há uma ferramenta chamada testdisk que tem a "proeza" de sair buscando partições perdidas e reescrever o MBR (seja o código ou a tabela de partições). É uma ferramenta simples, interativa e ágil. É ela que deve ser usada para resgatar as partições da máquina após configurar a BIOS para voltar a bootar no modo legacy.
-
-Depois de feita essa manipulação é a vez do CD do Windows, que deverá estar em mãos porque o Windows simplesmente não irá mais bootar. A instalação feita através do modo UEFI não instala o BOOTMGR, o gerenciador de boots do Windows. Isso porque ele não é usado, já que é a partição UEFI que se torna responsável por gerenciar o boot dos SOs presentes.
-
-Mas isso não significa que essa instalação do Windows está perdida. Através de dois boots com o CD, ambos escolhendo o modo de restauração (Repair e Repair at Startup) é possível fazer com que o Windows ache o problema (o bootmgr faltando) e "conserte" a instalação.
-
-No primeiro boot o Windows irá achar um problema inicial na própria instalação, no segundo boot ele já encontra a instalação. E, acreditem só, ele descobre que o BOOTMGR está faltando!
-
-E a partir daí a partição UEFI se torna inútil, embora ainda exista no início do HD, já que o boot legacy usa o velho esquema de usar o código da MBR e a partir daí chamar a partição ativa, que agora será a Windows.
-
-Essa manipulação do boot pode dar algum trabalho, mas é gratuita e com todos os passos devidamente documentados. E não há mágica: reconstrução da MBR seguido de restauração de um SO pré-existente (Windows, no caso).
-
----
 categories:
-- coding
-date: '2010-03-15'
-tags: null
-title: Convivendo entre TodoList e Microsoft Project
+- writting
+date: '2011-10-11'
+link: https://www.imdb.com/title/tt1454910
+tags:
+- movies
+title: Copacabana
+---
+
+O novo trabalho do diretor-roteirista Marc Fitoussi faz um paralelo entre o estado de espírito de uma pessoa e o lugar onde esta vive. Para chegar a seus objetivos, rege de maneira impecável uma história em que as apostas que uma pessoa precisa fazer para chegar aonde quer não estão relacionadas com sua situação aparente, mas muito mais com seu estado interior e sua capacidade de transformar o mundo ao seu redor.
+
+Esta é a história de Baubou (Isabelle Huppert), uma mãe que vive feliz de acordo com seus valores, mas descobre que não corresponde aos anseios da filha (Lolia Chammah), que dá muito mais valor às convenções sociais, tanto que acaba por colocar a própria mãe em segundo plano. Desacreditada, Baubou precisa provar para ela seu valor, e para isso arruma um emprego em lugar distante para refazer sua vida. Enquanto isso, a filha planeja seu próprio casamento, mentindo para seus sogros que sua mãe se encontra em uma viagem pelo Brasil, e que não conseguirá voltar para a cerimônia.
+
+Só que o lugar onde Baubou realmente está se mostra frio e inóspito, não só pela sua aparência externa, mas pelas pessoas que lá habitam. Contratada para ser vendedora de apartamentos de veraneio, até seus colegas destoam totalmente de sua posição determinada e alegre, algo facilmente visto pela escolha acertada dos figurinos sóbrios do resto da equipe em detrimento à forma tresloucada de Baubou se vestir e se portar. Logo na primeira reunião entre eles, ela fica nitidamente apartada em um canto, e a câmera faz questão de isolá-la em algumas tomadas, exatamente para dar essa sensação de deslocamento.
+
+Diante das dificuldades que ela precisa passar em seu novo emprego e sabendo que foi rejeitada pela filha, fica impossível não nutrir uma simpatia incondicional pelos esforços da protagonista para se firmar em seu novo habitat. Esforços esses que ocorrem de maneira completamente natural, mas que possuem o objetivo oculto de conseguir a filha de volta nos olhos da interpretação admirável de Isabelle Huppert, que não demonstra exageros em um personagem que poderia facilmente cair no ridículo, mas que ao invés disso termina por soar tão realista e presente de corpo e alma que aos poucos o resto das pessoas, incluindo sua própria filha, é que parecem inertes e alheias à vida.
+
+O mais interessante é que nós mesmos, como espectadores, enquanto torcemos por ela, sabemos dos enormes riscos que ela corre de tudo não dar certo. E por isso mesmo suas ações parecem tão importantes, pois estabelecem essa nossa vontade de ter sucesso em nossas próprias ações do dia-a-dia, independente das dificuldades. A escolha da trilha sonora, adequadadamente acidental e que evoca a mentira da filha com compilações de MPB, não serve para as pessoas e o ambiente onde vive, e são fruto apenas da visão que a própria Baubou possui de sua realidade: uma visão muito mais otimista e alegre do que muitas pessoas gostariam de ter, mas que se escondem nas mesmas convenções que a sua filha tanto almeja.
+
+Por isso mesmo é que seus triunfos possuem um gostinho de rebeldia delicioso, que cativa o público facilmente. E exatamente por acreditarmos em Baubou é que seu final inusitado não parece nem de longe inverossímil, mas sim é o complemento necessário da grande ideia para o filme: não sabemos o futuro, esse futuro que parece tão sombrio e tenebroso para muitas pessoas. Porém, independente disso, podemos apostar com todas nossas fichas, se acreditarmos de verdade em nós mesmos.
+

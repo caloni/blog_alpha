@@ -1,74 +1,21 @@
 ---
 categories:
-- coding
-date: '2017-05-28'
-tags: null
-title: 'SystemRescueCD: um CD cheio de ferramentas Linux para desenvolvedores e suporte'
+- writting
+date: '2018-08-16'
+link: https://www.imdb.com/title/tt7336012
+tags:
+- cinemaqui
+- movies
+title: 'Takara: A Noite que Nadei'
 ---
 
-Há diversas distros Linux capazes de bootar via CD e com uma penca de ferramentas. Conheci há alguns anos uma delas: a [SystemRescueCd](http://www.system-rescue-cd.org/SystemRescueCd_Homepage): um disco de recuperação de HDs com diversas ferramentas embutidas. Dentro dele pode ser inserido outras ferramentas que achar interessante, e o mais importante, desenvolver através do próprio CD suas ferramentas.
+Largue essa pressa e esse jeito adulto de ser. "Takara - A Noite que Nadei", apesar de curto, é lento. Bem lento. Isso porque ele explora o tédio através dos olhos de uma criança, ao mesmo tempo que se transforma em um conto para refletirmos sobre liberdade nas mãos de uma criança.
 
-A modificação do CD pode ser feita bootando com ele mesmo, seguinto o [tutorial da própria SystemRescueCd](http://www.system-rescue-cd.org/Sysresccd-manual-en_How_to_personalize_SystemRescueCd). No entanto, para facilitar o uso, é possível utilizá-lo em um ambiente virtualizado (criar uma VMWare que boote pelo CD, por exemplo, e depois instalar no HD virtual).
+E o que o filme franco-japonês dirigido por Kohei Igarashi e Damien Manivel nos entrega é uma experiência minimalista, mas cheia de enquadramentos evocativos. Cercado de amontoados de neves por todos os lados, a cidade soa ameaçadora para uma criança de poucos anos sozinha neste frio do lado de fora. Mas ao mesmo tempo ao vermos que ela está bem se transforma em uma poesia sobre o poder da iniciativa humana em trilhar seu próprio caminho, por mais pequenino que seja o humano e por mais simplório que seja este o caminho.
 
-Outra opção interessante é montar outras partições partindo do próprio CD. Ao bootar com o CD da SystemRescue, após ter acesso ao terminal pela primeira vez, detecte e formate o HD Linux usando a ferramenta fdisk. Dentro da ferramenta use as opções padrão e crie uma particão Linux. Ao final, escreva com 'w', formate a partição (ex: mkfs.ext4) e a partição já deverá estar disponível no próximo boot.
+E para Takara, seu caminho é simples: filho de um trabalhador de uma peixaria, ele quer entregar o desenho que ele fez de um peixe para o pai. Por isso ele desvia da escola. Já era um plano premeditado, percebemos, quando ele saca de seu bolso uma mexirica para comer no caminho. O menino de uns cinco anos de idade tem tudo sob controle apesar de ter perdido a luva de uma mão.
 
-```
-ls /dev/sd*
-/dev/sda /dev/sdb
-fdisk /dev/sda
-mkfs.ext4 /dev/sda1
-```
+A direção dupla do filme orquestra a experiência sem um roteiro definido. É uma história simples e direta sem nenhum diálogo. Isso facilita para os não-falantes de japonês, pois não há o que ler, mas apenas observar. E o que vemos são momentos dos mais inspiradores. Pensando como adultos, ficamos o tempo todo preocupados, e o filme sempre tenta nos mover para o significado contrário dessa jornada: perceba a beleza inerente que é uma criança, com seu pouco discernimento, tentando atingir seu objetivo.
 
-Para formatar uma partição Windows é possível realizar o mesmo procedimento, mas trocar o tipo de partição para Windows FAT32. Com isso a partição estará disponível para ser montada tanto na máquina virtual quanto na real.
-
-Desligue a VM. A partir do Windows, monte o HD Windows e formate a partição criada. Ou, se a partição ainda não foi criada é só criar pelo Gerenciador de Discos do Windows.
-
-```
-shutdown -h -t 0 now
-```
-
-Obs.: Apenas a VM ou a máquina real podem utilizar o HD de uma vez. Portanto, para copiar arquivos para o HD virtualizado é necessário desligar a VM antes.
-
-## Customizando seu CD
-
-Seguindo o tutorial do SystemRescueCD ("Step-01: Mount the working partition"), vamos montar a partição Linux na pasta /mnt/custom.
-
-```
-% mkdir /mnt/custom
-% mount /dev/sda1 /mnt/custom
-```
-
-Em seguida extraia os arquivos atuais do CD para a pasta custom (essa operação pode demorar alguns minutos):
-
-```
-% /usr/sbin/sysresccd-custom extract
-```
-
-Após a conclusão dessa operação, os arquivos customizados poderão ser encontrados em /mnt/custom/customcd/files/bin
-
-```
-ls /mnt/custom/customcd/files/bin
-```
-
-Para copiar os arquivos novos, monte a partição Windows e copie de uma pasta para outra. Já existe uma pasta em mnt chamada windows que pode ser alvo da montagem. Abaixo os comandos necessários para atualizar um possível script:
-
-```
-mount /dev/sdb1 /mnt/windows
-cp /mnt/windows/script.sh /mnt/custom/customcd/files/script
-overwrite? y
-```
-
-Voilá! Agora que os arquivos já foram atualizados é hora de regerar um novo ISO do CD. Para isso, executar o seguinte script do RescueCD ("Step-10: Create the new ISO image"); esse comando pode demorar alguns minutos:
-
-```
-/usr/sbin/sysresccd-custom isogen escolha_um_nome
-```
-
-Após a conclusão do comando o novo ISO deverá estar no diretório /mnt/custom/customcd/isofile/ com a data/hora atual. Copie este arquivo para a partição Windows para ter acesso ao ISO na máquina real:
-
-```
-cp /mnt/custom/customcd/isofile/*.iso /mnt/windows
-```
-
-Desligue a máquina virtual e volte a montar o HD na máquina real. O ISO do novo CD estará disponível.
+A "interpretação" de Takara Kogawa é direta. Quase o vemos olhando para a câmera em alguns momentos. Quatro personagens existem nesse filme, e são todos da mesma família (no filme e na vida real): o menino, a irmã, pai e mãe. Esses últimos três quase não aparecem, apenas pavimentam o caminho para que o garoto faça seu show particular. O acompanhamos, e se tivermos paciência, seremos recompensados por um arco minimalista e que entrega 78 minutos que terminam em uma paz interior e um sentimento de leveza. Eis a alma de uma criança capturada por lentes apontadas apenas para ela.
 

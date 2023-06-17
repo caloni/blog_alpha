@@ -1,18 +1,11 @@
 ---
 categories:
 - writting
-date: '2021-05-22'
-link: https://www.imdb.com/title/tt14536160/
+date: '2021-06-26T21:19:00-03:00'
 tags:
-- series
-title: 'Love, Death & Robots: Snow in the Desert'
+- movies
+title: Love on Delivery
 ---
 
-Haha, que trocadilho genial. Muito bom, mesmo. Quase tão bom quanto essa história tão original e tocante.
-
-Pelo menos tem sangue, um pouco de sexo e cérebro voando. Não necessariamente nessa ordem. Eu não sei qual a prioridade nesse workshop de computação, mas a pele humana tem melhorado bastante entre as escurinhas, mas os caucasianos ainda estão um pouco estranhos. Falta o ar nojento.
-
-A fotografia é tão estilizada que as areias desse planeta inóspito não existe. É um sujo esteticamente impecável, cheio de sombras para você não reparar nesses detalhes.
-
-Tanta liberdade de câmera e os diretores insistem em usar a convencional, como se tivesse que colocar um tripé em algum lugar. É estranho poder tanto e não fazer nada. O cinema pede uma união dos talentos, não uma competição entre tech e arte.
+Stephen Chow escreve, produz, dirige, atua e coreografa seus filmes com uma energia admirável. A maioria é um lixo, mas um lixo prazeroso para o cinéfilo. As cenas de luta são bem montadas porque ele não é nenhum Jackie Chan (embora admire). As piadas são escrachadas próximo do nível do insuportável, mas nunca ultrapassa esse nível. Seu cinema é de uma grandiosidade que gostaríamos de ver na telona mais vezes em vez dessas produções mais caras que investem no público da mesmice. Cinema bom é cinema de apaixonados pela arte, e até trash de baixa qualidade como os seus filmes furam a fila dos insuportáveis blockbusters de franquia.
 

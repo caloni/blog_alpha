@@ -1,149 +1,24 @@
 ---
 categories:
-- coding
-date: 2019-05-06 22:23:40-03:00
-tags: null
-title: Visual Studio Unit Test (C++)
+- writting
+date: '2019-10-15'
+link: https://www.imdb.com/title/tt9682578
+tags:
+- cinemaqui
+- mostra
+- movies
+title: Vivir Ilesos
 ---
 
-Desde o Visual Studio 2015 há suporte a unit tests em C++ automatizado na IDE. Porém, a partir do VS 2017 15.5 o suporte aumentou drasticamente, vindo embutidos os suportes para as bibliotecas de teste Google Test, Boost.Test e CTest. Além, é claro, do Microsoft Unit Testing Framework for C++, o caseiro da M$.
+Vivir Ilesos começa deixando claro, talvez até demais, que é um filme de baixo orçamento. Ele se aproveita de um elenco medíocre para fazer referência a filmes policiais lado B dos anos 70. Por que ele faz isso? Porque o resultado é risível.
 
-Além disso, é possível você mesmo integrar o Visual Studio com outra lib de testes. Mas para que gastar tempo? Várias integrações já estão disponíveis no [Visual Studio Marketplace](https://marketplace.visualstudio.com/). Ligue já!
+E isso é importante porque a história escrita pelo diretor Manuel Siles é muito absurda, e ele precisa que abracemos esse nonsense desde o começo. Um casal de golpistas (Magaly Solier e Oscar Ludeña) é pego por um milionário inescrupuloso (Renato Gianoli) que sequestra a mulher e a toma como amante. O marido se recompõe e tenta descobrir seu paradeiro. Enquanto isso a força policial, representada por um delegado saído de alguma ditadura militar (Javier Trujillo), lentamente avança sua investigação.
 
-OK, parei com o merchan. Até porque não ganho nada com isso. Vamos ao código.
+O filme é escrachado por usar atores de segunda categoria e tomadas com detalhes que você fica se perguntando por que foram filmadas. Alguém consegue o número de telefone e vemos o bilhete onde ele está escrito. Alguém olha para um prédio e vemos sua fachada. Algumas cenas não fazem muito sentido, como uma arma que dispara na piscina com uma reviravolta inverossímil no final (apesar de ser um dos melhores momentos). O filme quer de todas as formas evocar a fantasia e a metáfora por trás da história.
 
-Pelo Wizard do VS podemos criar para um projeto C++ qualquer um projeto de teste. No momento estou vendo os tipos de projeto Native Unit Test e Google Test.
+Isso porque, pra variar, esta é uma crítica social. Fala sobre a impunidade dos mais ricos e poderosos e blá blá blá. Mas sobre isso você já deve saber, já que 12 em 10 filmes independentes falam sobre isso. O engraçado aqui é que o casal de golpistas tem princípios morais cuja consequência é que rejeitam trabalhar para viver, o que também é um clichê, mas aqui ganha uma certa comicidade por conta deles próprios se tornarem vítimas de uma versão mais sênior de si mesmos.
 
-{{< image src="Gk5fDHB.png" caption="" >}}
+E esse detalhe cumpre dupla função, já que até aquele momento no longa os ladrões de galinha do filme ainda não ganharam nossa empatia, mas agora, assumindo papéis sociais, ou pelo menos admitindo uma certa moral, por mais torta que seja, se tornam os heróis anônimos de uma sociedade corrompida, indo cair nos braços de quem acredita que isso se chame luta pela justiça.
 
-Este é nosso projeto de exemplo:
-
-```
-#include "CalculatorTabajara.h"
-
-int soma(int x, int y)
-{
-	return x + y;
-}
-
-int subtrai(int x, int y)
-{
-	return x - y;
-}
-
-int multiplica(int x, int y)
-{
-	return x * y;
-}
-
-int divide(int x, int y)
-{
-	return x / y;
-}
-
-int main()
-{
-}
-```
-
-Para conseguir testar o projeto principal adicione-o como referência.
-
-{{< image src="TbFrxIr.png" caption="" >}}
-
-Após isso basta incluir algum header que contenha os tipos, funções, classes e métodos que deseja testar e vá criando métodos de teste dentro da classe de exemplo:
-
-```
-#include "pch.h"
-#include "CppUnitTest.h"
-#include "..\CalculatorTabajara.h"
-
-using namespace Microsoft::VisualStudio::CppUnitTestFramework;
-
-namespace UnitTest1
-{
-	TEST_CLASS(UnitTest1)
-	{
-	public:
-		
-		TEST_METHOD(TestaSoma)
-		{
-			int z = soma(3, 2);
-			Assert::AreEqual(z, 5);
-		}
-
-		TEST_METHOD(TestaSubtracao)
-		{
-			int z = subtrai(3, 2);
-			Assert::AreEqual(z, 1);
-		}
-
-		TEST_METHOD(TestaMultiplicacao)
-		{
-			int z = multiplica(3, 2);
-			Assert::AreEqual(z, 6);
-		}
-
-		TEST_METHOD(TestaDivisao)
-		{
-			int z = divide(3, 2);
-			Assert::AreEqual(z, 1);
-		}
-	};
-}
-```
-
-Agora abrindo o jogo para você, amigo programador C++ que gosta de saber tudo que ocorre debaixo dos panos:
-
- - Um projeto Unit Test é apenas uma DLL com uns códigos de template.
- - Esse código já adiciona a lib de unit test da Microsoft e cria uma classe com exemplo de uso.
- - Adicione todo código do projeto original que ele precisa para compilar.
-
-Por isso eu tirei a tranqueira de precompiled header do projeto de unit test, retirei a referência (sugestão do tutorial da Microsoft) e apenas adicionei o mesmo cpp para ser compilado.
-
-Agora mais mágica: se você abrir a janela Test Explorer ele irá encontrar seus testes e enumerá-los!
-
-{{< image src="1ZVjQ4D.png" caption="" >}}
-
-Se você já programou um pouco em Windows com C++ já deve saber o truque: como o Unit Test é uma DLL ela simplesmente exporta os símbolos necessários para que o Visual Studio encontre o que precisa. O básico que um plugin dos velhos tempos faz: exportar interfaces com um pouco de reflection.
-
-{{< image src="en6DWQp.png" caption="" >}}
-
-Se você habilitar Undecorate C++ Functions no Dependency Walker verá que ele exporta justamente uma espécie de reflection, na forma de structs:
-
-{{< image src="jiBQxZ4.png" caption="" >}}
-
-E se você prestar atenção na ordem de exportação desse símbolos verá que o primeiro se chama GetTestClassInfo. Acabou a magia, não é mesmo?
-
-Os headers e fontes do CppUnitTest ficam em paths do Visual Studio como VC\Auxiliary\VS\UnitTest, nas pastas include e lib. Nele é possível dar uma olhada no significado das macros e das classes disponibilizadas. Logo abaixo das macros, no arquivo principal, é possível ver como funciona o reflection:
-
-```
-namespace Microsoft{ namespace VisualStudio {namespace CppUnitTestFramework
-{
-
-	struct ClassMetadata
-	{
-		const wchar_t *tag;
-		const unsigned char *helpMethodName;
-		const unsigned char *helpMethodDecoratedName;
-	};
-
-	struct MethodMetadata
-	{
-		const wchar_t *tag;
-		const wchar_t *methodName;
-		const unsigned char *helpMethodName;
-		const unsigned char *helpMethodDecoratedName;
-		const wchar_t *sourceFile;
-		int lineNo;
-	};
-
-	struct ModuleAttributeMetadata
-	{
-		enum AttributeType { MODULE_ATTRIBUTE };
-		const wchar_t *tag;
-		const wchar_t *attributeName;
-        //...
-```
-
-É uma lib pequena e elegante que permite uma interação não apenas com a IDE, como poderia ser automatizada por um script, uma vez que sabe-se o funcionamento interno e algumas interfaces.
+Apesar de tantos personagens criminosos, Vivir Ilesos é um filme leve, com a violência psicólogica maior que a física e com um formato tão despretensioso que ele consegue se tornar divertido ao mesmo tempo que faz pensar. Mas não pensar demais.
 

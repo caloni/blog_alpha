@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-05-03'
+date: '2017-05-14'
 tags:
-- food
-title: Salentein Reserve Malbec 2014
+- beer
+title: Salta Negra
 ---
 
-Violáceo com aroma de frutas maduras; última taça com um amargor não-característico.
+Gosto de café, pouco doce, after espumoso. Primeiro jantar no Dubai, restaurante árabe de Salta.
 

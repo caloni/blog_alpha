@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2010-05-21'
-link: https://www.imdb.com/title/tt0800320
+date: '2011-08-14'
+link: https://www.imdb.com/title/tt1046173
 tags:
 - movies
-title: Fúria de Titãs
+title: 'G.I. Joe: A Origem de Cobra'
 ---
 
-Fúria de Titãs busca ser uma superprodução sobre deuses e humanos, mas falha miseravelmente em sua abordagem 3D, especialmente em suas transições, onde um bebê no barco parece distorcido ou a aparência de Hades quando este aparece entre os humanos.
+G.I. Joe é um filme tão ruim assim como muitos têm falado? Talvez sim. O fato é que, baseado em uma franquia de action figure produzida pela empresa de brinquedos Hasbro (e vendido no Brasil sob o codinome Comandos em Ação), o filme tenta se firmar nessa superfície frágil e infantil usando conceitos mais infantis ainda que acabam por estabelecer relações entre os personagens absurdamente ilógicas e pedestres.
 
-Com uma introdução um tanto rápida do protagonista, talvez deixando pouco espaço para criação da empatia ou até da criação desse personagem, logo parte-se para as lutas, mas que quase nunca emplacam, tendo como muleta a sua forçada trilha sonora que não conta muito com criatividade. Mesmo nas sequências onde o remake deveria se sair melhor que o original datado, como a luta com o escorpião gigante, temos uma descompasso entre as cenas próximas de suas garras (rápido) e as cenas em que os personagens sobem em cima dele (lento), mesmo que esse ritmo se encaixe com a trilha sonora (que tem um raro bom momento). Outra falha notável é o fato do cenário ser 3D, mas o escorpião parecer em muitas ocasiões "fora" do quadro, como um efeito de projeção no fundo do cenário. Lembrou um Duna 3D (se esta tivesse sido feita com o uso da tecnologia). E, por fim, não há tensão, mesmo se tratando de uma luta mortal com um escorpião gigante, o que é um problema mais grave ainda, pois é disso que a aventura depende para engrenar. Como prêmio de consolação, o efeito visual das bruxas, do barqueiro e da Medusa são muito bem conduzidos, assim como as cenas de ação relacionadas com esses personagens.
+Existem dois recursos usados durante todo o filme que são particularmente irritantes: na direção nada imaginativa, os diálogos sempre são terminados com um zoom out para fora do veículo submerso onde se encontram; na narração, o passado de cada personagem precisa ser necessariamente contado em flashbacks. Não que eles sejam irritantes por serem repetidos várias vezes, pois um recurso usado com inteligência consegue não se fazer perceber e ainda assim ter sido repetido durante todo o filme. Nesse caso, ambos os recursos são repetidos mecanicamente, sem qualquer sombra de criação dramática, mais parecendo as montagens de séries japonesas seculares como Jaspion e Changeman (e não seria nenhuma surpresa se no final víssemos uma briga de robôs gigantes).
 
-Já a história possui alguns buracos ou detalhes que não fazem muito sentido, como os "homens-escorpião" ajudarem os humanos a combater os deuses mesmo que estes odeiem os humanos. Há uma parábola e simbolismo entre Perseus e Jesus: filho de deus supremo (Deus x Zeus), e pescador, tem que se sacrificar para salvar os humanos. A fala final de Zeus demonstra também isso, pois ele diz que não gostaria de sacrificar um filho pela humanidade. Temos também a figura dual entre deus e demônio representado por Zeus e Hades, pois os outros deuses no filme são menos coadjuvantes e mais enfeites de cenário. Por outro lado o filme encarna seres humanos tolos, levados pelo destino que é conduzido pelos deuses.
+Pior do que se limitar a recursos burocráticos em quase todas as cenas, é o roteiro perceber que ele precisa colocar falas artificiais para tentar fechar sua lógica na história e nos flashbacks, como o porquê certo personagem fez voto de silêncio.
 
-Por fim, a mania hollywoodiana de sempre mostrar tudo ao espectador, até a simples simbologia de morte de sua seguidora, enfraquece todo o mistério em torno de Olimpo. Curioso é que mesmo tendo tanto apelo visual por causa dos efeitos, carece de diálogos para explicar coisas óbvias, como quando um dos bichos voadores pega a bolsa com a cabeça da Medusa. Um trabalho ainda em desenvolvimento lançado aos gritos de 3D. Não funciona.
+Porém, mesmo assim, o diretor Stephen Sommers (A Múmia, Van Helsing) e seu habitual montador Bob Ducsay conseguem impor um ritmo interessante no ataque a Paris, utilizando para isso o corte paralelo entre duas perseguições distintas. Pena que essa não é a sequência final, muito mais problemática, tanto no comprimento quanto no problema já citado de fechar as histórias dos personagens.
 

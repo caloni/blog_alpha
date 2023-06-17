@@ -1,24 +1,25 @@
 ---
-categories:
-- coding
-date: '2009-07-07'
+categories: []
+date: '2017-05-28'
 tags: null
-title: Strings
+title: Como acessar submódulos no git inacessíveis?
 ---
 
-Como já vimos centenas e centenas de vezes, memória é apenas memória até que alguém diga que isso vale alguma coisa. Em seu estado latente é o que chamamos formalmente de dados. E dados são bytes armazenados na memória.
+Quando projetos remotos usam submodules é possível que algum deles seja acessível apenas através de chaves criptográficas. Isso exige que os sub-projetos necessários para fazer funcionar seu projeto podem estar fora do seu alcance e acesso, o que irá gerar durante seus comandos __pull__ recursivos erros de ssh (publickey access).
 
-No entanto, quando esses dados viram algo de útil em um determinado contexto, não necessariamente alterando-se seu conteúdo na memória, passamos a lidar com informação. Ou seja, é um dado com significado. E informação é a interpretação desses mesmos dados.
+A solução é ler a documentação e descobrir que é possível editar o arquivo .git/config para mudar a url de um submódulo inacessível pela forma do .gitmodules. Eis um exemplo de arquivo config dentro do .git:
 
-A conclusão óbvia para isso, falando de strings, é: uma série de bytes enfileirados na memória pode ser uma string.
+```
+[submodule "sbrubles"]
+	url = git@github.com:user/project.git
+```
 
-Para tanto precisamos apenas de dados (os bytes enfileirados) e significado (uma tabela de símbolos que traduza esses bytes para caracteres e a definição de como a string se organiza).
+Você pode localmente alterar o endereço ssh deste submodule para algo que todos têm acesso ou só você tem acesso, como uma pasta local ou o endereço https:
 
-Por exemplo, uma série de bytes diferentes de zero com valores que representam índices de uma tabela de tradução de caracteres e que termina sua sequência em um byte com o valor zero nele é considerada uma string C, ou string terminada em nulo.
+```
+[submodule "sbrubles"]
+	url = https://github.com/user/project.git
+```
 
-Já uma mesma sequência de bytes no mesmo molde só que sem o byte final com o valor zero, mas com um byte inicial que tem como valor não um índice de caractere, mas o número de bytes subsequentes, isso é uma string Pascal, ou uma string com contador de tamanho.
-
-Agora note por que tanto uma string vazia em Pascal e em C possuem os mesmos dados, mas informação diferente.
-
-Outras strings que não necessariamente possuem terminador nulo: std::string, UNICODESTRING.aspx), strings no kernel.
+Note que isso não irá interferir em nada no repositório localizado remotamente do projeto. Dessa forma diferentes membros da equipe podem usar diferentes formas de acessar um submódulo.
 

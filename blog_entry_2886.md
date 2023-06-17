@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2011-07-12'
-link: https://www.imdb.com/title/tt1430607
+date: '2014-06-19'
+link: https://www.imdb.com/title/tt2372162
 tags:
-- movies
-title: Operação Presente
+- series
+title: Orange is the New Black - Terceira Temporada
 ---
 
-A nova animação da Sony parte para o óbvio gênero de filmes natalinos dessa época, mas faz bonito: Operação Presente subverte nossos conceitos do que é atualmente o natal, parte do ponto de vista do Papai Noel e seus elfos e acusa de maneira inteligente o modo superficial pelo qual muitos de nós enxergamos essa data que um dia foi muito especial.
+Orange is the New Black, apesar do título ultrapassado, ainda se mantém acima de sua irregular média. Digo irregular porque a série, apesar de possuir picos dramáticos e temáticos bem definidos, também possui os seus valores. Ou seja: se quiser aproveitar o que a série tem de bom, vai ter que aguentar muito lenga-lenga de mulher.
 
-O filme começa com a leitura de uma das inúmeras cartas que são endereçadas ao bom velhinho, de uma menina em uma cidadezinha da Inglaterra que faz perguntas que são respondidas enquanto deslumbramos todo o esquema que é montado para que o Papai Noel consiga entregar presentes para tantas crianças em uma única noite. Também é mostrado como ele pode viver através de séculos, quando na verdade há uma sucessão de "Papais Noel", na verdade, mais incrível é saber que o atual tem dois filhos: Steve, que faz a parte "operacional" da entrega dos presentes, e Arthur, o mais novo e mais empolgado com a data mágica.
+Essa terceira temporada "surpreende" por seus ataques incessantes e cada vez mais incômodos da religião e de outros temas que flertam nervosamente com um esquerdismo até natural, vindo de um programa de TV que lida com detentas de um sistema presidiário mais do que o suficiente para manter seus "clientes" satisfeitos.
 
-Enquanto detalhes do escritório de Arthur o mostram como um lugar aconchegante, com pilhas de cartas escritas à mão pelas crianças e enfeites natalinos iluminados com cores quentes, em contraste temos a aparência limpa e sofisticada do centro de controle onde ficam os elfos. Dessa forma, a tecnologia dos dias de hoje acaba ganhando sua representação no próprio Papai Noel, que voa agora com uma nave ultrarrápida e trabalha em conjunto com milhares de elfos como ajudantes na entrega dos presentes.
+Será, mesmo? A todo o momento somos lembrados que isto não é Oz, que as pessoas ali são mulheres, o que muda todo o contexto do que ocorre com essas pessoas. Elas podem até ter cometidos seus pequenos delitos e assassinatos, mas nunca parecem acusadas de nada que preste.
 
-Contudo, mesmo com todo esse controle, uma criança acaba sendo esquecida, e esse é o ponto de partida para a Operação Presente do título. A consequência mais triste é que ela acaba virando uma porcentagem mínima se comparada com todas as crianças do mundo e entra no "controle de qualidade" de Steve como uma reles margem de erro, como se não houvesse uma criança por trás do número. Nesse momento, nos perguntamos se isso de certa forma torna todo o processo frio, automático e sujeito a racionalizações como a que é feita por Steve para justificar o "sucesso" da operação. E quantas vezes não fazemos o mesmo, nos esquecendo do essencial para nos focarmos em detalhes periféricos? (Apenas para dar um exemplo fora de contexto, quantos torcedores de futebol hoje se concentram bem mais nas estatísticas do seu clube do que nos jogos e jogadores em si?)
+Exceto Piper. A loirinha sem açúcar de Taylor Schilling merece um destaque como o instrumento por trás das babaquices do roteiro, incluindo um discurso inflamado -- um ponto alto -- a respeio de sua mais nova ideia: a venda de calcinhas sujas para pervertidos.
 
-Nesse sentido, a forma espontânea, embora atrapalhada de seu filho mais novo fazem um contraponto à toda aquela eficácia, e trazem à frente os valores mais essenciais do natal: as crianças. É nesse momento que o roteiro tem a sacada genial de apresentar o trenó do Papai Noel como um elemento nostálgico na trama, simbolizando as coisas feitas à mão. Note que o trenó em si não seria de muita importância em um filme tradicional de natal, mas aqui ganha um significado tão poderoso quanto o próprio trenó-chave de [Cidadão Kane].
+Cansado das suas velhas artimanhas, a série não se acanha de usá-las para o bem da linguagem televisiva, ainda que travestida de algo cool/cult. Quem ganha é o público que adora uma novela, e com razão: a cada nova temporada o elenco principal quer se reinventar e realiza um show para poucos. É até difícil destacar alguém em um casting tão uniforme.
 
-[Cidadão Kane]: {{< relref "cidadao-kane" >}}
+Porém, sejamos honestos: se OitNB quiser se comparar -- ou sequer referenciar -- obras como Breaking Bad, acho bom se preparar para situações realmente desafiadoras, e não uns tapinhas em uma transexual. Isso só vai trazer fãs de movimentos minoritários fanáticos (ainda mais agora, que já acabaram de assistir Sense8).
 

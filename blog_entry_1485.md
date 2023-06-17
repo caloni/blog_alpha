@@ -1,14 +1,11 @@
 ---
-
-Depois de uma pausa assisti por completo Escravas do Desejo, uma história de vampiras lésbicas com um cunho erótico, mas que ao mesmo tempo evoca um clima de mistério.
-
-A história começa com dois jovens, recém-casados, que se hospedam em um hotel vazio de uma cidadezinha isolada. Porém, a vinda de uma condessa e sua acompanhante irá tornar as coisas um pouco tenebrosas.
-
----
 categories:
-- reading
 - writting
-date: '2018-07-16'
+date: '2018-05-16'
 tags:
-- books
-title: Escrevendo Curtas
+- food
+title: Esmeril Chapadão de Ferro
+---
+
+Chapadão é um bom nome para este café insosso, mas gostoso. Estava quase acabando o pacote e não sabia muito o que dizer desse. É um café, sem dúvida. E eu recomendo moído na hora com 23g na Aeropress. Não importa muito o nível da moagem. Esquente a água e seja feliz.
+

@@ -1,18 +1,31 @@
 ---
 categories:
 - writting
-date: '2015-05-26'
-link: https://www.imdb.com/title/tt0310775
+date: '2017-05-23'
+link: https://www.imdb.com/title/tt5748480
 tags:
+- cinemaqui
 - movies
-title: Mr. Vingança
+title: Muito Romântico
 ---
 
-A vingança vista em Old Boy, de Chan-wook Park, é o segundo filme do diretor sobre o tema. O primeiro, esse Mr. Vingança, é mais bruto. Não no sentido da violência ou da revelação final. Não há revelações finais, aliás (spoiler alert!), mas há duas metades de uma história: na primeira metade as pessoas e suas relações são escancaradas para que, na segunda metade, uma espiral sem fim de atos de vingança tome conta da tela. Muitas vezes o filme tenta soar apenas um pouco além do que ele verdadeiramente é, e por isso trai sua própria perfeição estética em troca de uma história muitas vezes sem rumo ou simbólica demais. 
+Há um momento em Muito Romântico em que sua protagonista faz uma relação entre as memórias que carregamos na vida e uma colcha de retalhos. A colcha inteira, de acordo com ela, não tem sentido (assim como na vida). Porém, cada pequeno retalho mantém seu significado. Isso vale para as memórias que acumulamos durante a vida, imagino eu.
 
-Porém, esse é um pecadilho diante da construção de personagens e relações viscerais. Tudo começa com um câncer, que começa na irmã de Ryu, que precisa parar de trabalhar, e com isso deixa de conseguir manter Ryu em uma escola especial. Ele é surdo/mudo, mas gostaria de ajudar a irmã com a doença. Decide, então, doar seu órgão, descobrindo no processo que seu tipo de sangue é incompatível e que existem pessoas dispostas a comprar seu rim e vender outro no lugar. Obviamente enganado no pós-operação, resolve com sua namorada sequestrar a filha de um ricaço e com o dinheiro do resgate conseguir salvar a irmã.
+Nessa cena um dos retalhos pega fogo por debaixo da colcha, pois a pessoa que está debaixo dela coloca fogo. Isso cabe perfeitamente nessa analogia. O retalho queimado é o efeito de alucinógenos que queimam algumas de nossas memórias. Mas algumas vezes um pouco de drogas pode ser necessário na vida. Como para assistir esse filme, por exemplo. Talvez daí essa colcha de retalhos que é o filme faça algum sentido.
 
-E chega de entregar detalhes da história. O resto é uma infinidade de fins trágicos que não conseguem encontrar um culpado senão o câncer original. Esse câncer parece que se espalha por aquelas pessoas, e simbolicamente pela sociedade. A namorada de Ryu, Cha Yeong-mi, estudou na mesma escola que ele, apesar de não ser surda. Ela sente em seu coração e em seus ideais que o capitalismo está causando dor para muitas pessoas em seu país, e ele poderia ser interpretado como o "câncer" do mundo, também. Há várias simbologias nesse pacote. Chan-wook Park prefere não se meter em explicar muito a respeito.
+O sentido do filme, diferente do que você pode imaginar, não está no seu título. Muito Romântico é uma falsa apresentação, já que este é um filme anti-romântico, anti-conhecimento, meio esotérico ou cientificista com esotérico. Ele pode ser outras coisas, também (depende do seu nível de drogas). Porém, o que ele não pode ser, de jeito nenhum, é romântico.
 
-Cha Yeong-mi é interpretado por Doona Bae, a revelação de Cloud Atlas. Aqui ela também tem uma cena de sexo (não que isso seja muito relevante).
+Ou o romantismo desse século foi rebatizado. Romantismo era sobre valores e ideais. Os românticos eram a representação de alguém que buscava ou era o ideal de algo. Aqui talvez apenas o ato de fazer o filme possa ser chamado de romântico, mas não seu resultado.
+
+A história é sobre um casal que viaja em um navio cargueiro em direção à Alemanha para uma nova vida. Iniciando com uma sequência lenta que mostra como uma viagem pelos mares pode ser cansativa, também descobrimos que eles gostam de tirar fotos e filmar. São artistas contemporâneos, uma época gloriosa para qualquer um que queira chamar qualquer coisa de arte. Gloriosa menos para a Arte, talvez.
+
+Então descobrimos que este é um pseudo-documentário, ou um documentário filmado, roteirizado e dirigido por eles mesmos. Qual o roteiro? A primeira cena, uma leitura de uma poesia, já nos dá uma dica. Se trata de uma lista interminável de palavras e expressões vazias. Vazias se lidas em conjunto, mas cada uma delas talvez tenha o seu significado. Ainda lembra da colcha de retalhos?
+
+Há um fiapo de premissa, isso é verdade. Depois que chegam na Alemanha, um amigo ajuda o casal na pequena reforma do quarto para onde se mudam e onde praticamente toda a ação irá acontecer a partir daí. Ele comenta que é hora de parar de perder tempo com festas, bebidas e drogas e passar a produzir algo. Para a posteridade, diz ele. O significado da vida é ter feito algo que deixe sua marca no mundo. O rapaz, Gustavo, concorda. Mas logo em seguida ele e Melissa dão uma festa. Talvez apenas de boas-vindas, mas, sabe como é, com drogas e bebidas.
+
+A partir daí o quarto vai mudando, e eles mudam junto. Seus rostos são maquiados e as paredes pintadas. Um círculo redondo e preto é pintado do lado de um criado-mudo, e é dentro dele que ambas essas Alices, marido e mulher, cada um ao seu jeito, chegam no País das Maravilhas.
+
+A despeito de talvez tentar abrir horizontes com uma história não-convencional, a tela é quadrada e a fotografia não muito ajeitada (principalmente em alto-mar, que é sofrível), o que nos remete de volta para o gênero documentário. Alguns conceitos são interessantes, como a imaginação de cada um deles junto com a versão mais velha do parceiro. Mas documentários costumam funcionar melhor quando seus personagens fazem coisas interessantes. Aqui são duas pessoas desprovidas de algum talento marcante tentando "deixar sua marca no mundo".
+
+E quando a única marca é um buraco de nanquim pintado na parede de onde sai uma sequência caótica de fotos de suas vidas, soando como uma versão psicodélica da famigerada "hora de mostrar as fotos" que toda festa de casamento tem, daí fica até fácil recomendar: se for assistir esse filme, que seja sob o efeito de drogas. Ou que você concorde com Melissa, e já tenha memórias de sua vida que não faça muito sentido vistas em conjunto. Assim como esse filme.
 

@@ -1,29 +1,21 @@
 ---
 categories:
 - writting
-date: '2016-05-14'
-link: https://www.imdb.com/title/tt4466336
+date: '2014-12-23'
+link: https://www.imdb.com/title/tt0787474
 tags:
 - cinemaqui
 - movies
-title: Os Anarquistas
+title: Os Boxtrolls
 ---
 
-Uma névoa cinzenta cobre a fotografia de Os Anarquistas, um filme que trata mais da desesperança de um grupo revolucionário à margem de qualquer comparação do que a possibilidade de vitória.
+É muito difícil assistir Boxtrolls e se dar conta que aqueles efeitos foram forjados na boa e velha arte do stop-motion: capturar mais de vinte fotos de bonecos em cima de uma maquete para gerar um segundo de filme.
 
-E vitória, para eles, é o fim da burguesia e do protetor-mor dessa classe, o Estado. Não há nada no lugar, pois o capitalismo ainda é uma sombra do que irá se tornar, e os conceitos de propriedade privada seriam elementos mais de discordância do que de harmonia nas vozes desses intelectuais. O filme nos coloca no centro dessa mini-revolução idealista através dos olhos de Jean (Tahar Rahim), um policial infiltrado que igualmente não vê esperança em seu destino se continuar onde está. Ambicioso e prático, larga sua namorada deixando de presente um livro que ele gosta.
+Essa dificuldade em enxergar o truque é resultado do cuidado admirável dos seus criadores. Os detalhes da pitoresca cidade de Ponte Queijo vão até no nome das ruas (a rua Leite termina na Coalhada), mas ganham o primor mesmo através dos seus personagens cuidadosamente desenhados. Claro que, com seu toque lúdico, as imperfeições dos seres que usam caixas para cobrir o corpo -- daí o nome deles -- passam despercebidas ou podem até lembrar algum efeito de pseudo-realismo no computador, criando uma estranha e fascinante sensação.
 
-O grupo principal, que mora em uma casa grande e burguesa, é formado por pessoas simpáticas e com muito espaço para dúvidas e divergência, como mostra o primeiro e último debate político no bar onde se encontram. O grupo que acompanhamos é dos mais radicais, que não acreditam no processo político para conseguir mais direitos aos trabalhadores.
+Mas Boxtrolls não é apenas suas qualidades técnicas. Sua narrativa inclui de maneira nada sutil metáforas da vida adulta.  A obsessão do vilão de possuir um chapéu branco, por exemplo, é a velha sede de poder de todo ser humano, mesmo que esta esteja disfarçada do privilégio de provar dos queijos mais finos. Da mesma forma é divertido observar uma espécie de paródia infantil a respeito da típica incompetência e miopia do Estado, que antes de se preocupar com a construção de mais escolas prefere dirigir seus esforços para a edificação de um gigantesco queijo. Não é nada difícil encontrar paralelos entre países de população miserável financiando gigantescos projetos menos prioritários como eventos esportivos ou internet "de graça".
 
-Nesse sentido, o filme claramente define os limites entre o anarquismo e o comunismo -- ou socialismo -- da época. Infelizmente, a discussão termina por aí, e passamos a acompanhar mais sobre o romance entre Jean e Judith (Adèle Exarchopoulos, de Azul é a Cor Mais Quente), algo que não necessariamente gera tensão com o líder do grupo, Eugène (Guillaume Gouix), já que a bandeira do amor livre já fazia parte do pacote.
+A história principal gira em torno de convencer a todos da cidade que os Boxtrolls não são monstros, ou pelo menos não da forma com que seus exterminadores os pintam. A tal da propaganda enganosa com ares de propaganda política. O fato desses bichos serem bem estranhos e viverem debaixo da terra ajuda a criar preconceitos. Usarem caixas como roupa e roubar objetos da superfície também. No entanto, seu maior mito -- o de comerem bebês -- é de fato um mito, e é justamente esse o pilar para o discurso de ódio dos vilões.
 
-Além disso, presenciamos o aparecimento de personagens que representavam esse pensamento na virada entre os séculos 19 e 20, mas nunca com mudanças significativas. Apesar da única figura histórica, Mikhail Bakunin, ser citado de passagem, fica claro que o diretor Elie Wajeman, ao trabalhar o roteiro com Gaëlle Macé, estava mais interessado em esboçar um grupo revolucionário qualquer da moda para servir de pano de fundo de um romance clichê. Com o nome "anarquismo" e suas variantes aparecendo cada vez mais nas discussões políticas atuais, fica simples entender de onde veio essa necessidade de desenterrar um grupo filosófico sempre colocado à margem dos grandes pensadores, talvez justamente por nunca defender grandes nações, e considerar Paris um lugar "sem ar nenhum".
-
-Impressionante mesmo é a capacidade do diretor em nos gerar asfixia. Sempre com closes próximos e sombras em todos os cenários, quase não vemos a sufocante Paris de que falam, mas sim os chãos imundos da fábrica onde trabalhavam, ou dos espaços fechados e apertados dos bares onde se encontravam. Ao mesmo tempo, uma fotografia e figurino sombrios carregam a desesperança que um grupo desses deve sentir, lutando contra tudo e todos, nunca conseguindo apoio de fato de mais do que meia-dúzia de uma elite que tenta evitar a morte precoce de um ideal nobre, mas rapidamente esmagado pelo braço forte de um Estado cada vez mais alimentado pelo poder econômico de uma burguesia crescente.
-
-O filme se aproveita de maneira competente de Adèle Exarchopoulos como uma figura enigmática e sensual. Nunca sabemos o que ela ou outras mulheres realmente fazem, exceto que uma que é escritora, mas Exarchopoulos está aqui servindo muito mais como um objeto sexual com beleza de sobra e personalidade de menos; algo muito diferente de sua personagem em Azul é a Cor Mais Quente, um romance intimista muito mais eficiente.
-
-Por outro lado, a presença de Tahar Rahim é sentida, e seu personagem promete uma curva mais ou menos esperada de histórias desse formato ("infiltrado se apaixona pela causa ou por uma mulher que ali estava"). Ainda assim, o filme trata como se isso fosse algo digno de surpreender, mas se esquece de colocar uma trama o suficiente para pescarmos a tensão de ser um infiltrado, fora a ambição desmedida do rapaz. Não se trata de entender os riscos e lidar com eles, mas de apenas acompanhar um grupo paranoico em alguns momentos, mas extremamente relaxado em outros. Tudo isso tira a verossimilança, ou torna o resultado mais naturalista do que poderia ser.
-
-Dessa forma, "Os Anarquistas" é um resultado interessante esteticamente, usa um grupo revolucionário da moda -- nem que seja apenas o nome -- mas nunca consegue decolar, pois carece de história necessária para isso. A vida como anarquista é muito mais simples e muito menos tensa que qualquer religioso/estatista sonha em ter. Assim como um filme que lida com espiritismo, conseguir tensão do ar da liberdade é algo extremamente difícil.
+Arriscando seu tom lúdico de maneira certeira em uma ou duas cenas talvez fortes demais para as crianças, Boxtrolls sai um pouco daquele mundo tão revisitado por Disney, Pixar e Dreamworks e tenta explorar melhor uma história que caminha bem na maioria do tempo entre o mundo adulto e infantil, apesar de ter pouco apelo emocional no quesito "fofura". Em compensação será bem-vindo por crianças que, assim como eu, me divertia com uma ou outra reviravolta mais séria. Afinal de contas, até uma criança entende quando um político mente descaradamente.
 

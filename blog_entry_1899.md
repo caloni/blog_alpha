@@ -1,20 +1,19 @@
 ---
 categories:
 - writting
-date: '2013-06-17'
-link: https://www.imdb.com/title/tt1942884
+date: '2012-10-25'
+link: https://www.imdb.com/title/tt1643222
 tags:
+- mostra
 - movies
-title: 'Indie Game: The Movie'
+title: Inferno
 ---
 
-Focado principalmente no amor, dedicação, desespero e muitas vezes loucura dos criadores de jogos de computador independentes, Indie é uma grata surpresa ao mostrar os nerds solitários como artistas que lutam pelo reconhecimento, mas, acima de tudo, pela máxima expressão de si mesmos dentro dos bits e bytes que insistem em escrever.
+Um Inferno cresce bem, como qualquer trabalho de terror/suspense bem executado. O que fortalece o primeiro trabalho do diretor Tim Fehlbaum como trama, porém, é o uso sem ressalvas de um dos seus personagens mais importantes: o sol.
 
-Acompanhando a história de três jogos distintos que levaram anos para serem produzidos com os esforços individuais dos seus criadores, e que agora se preparam para ir a público, o diretor primeiro nos entrega a tensão dessas pessoas para depois reconstruir essa mesma tensão em nós mesmos, conforme conhecemos cada vez mais dos projetos e das pessoas por tudo aquilo.
+Acompanhamos a peregrinação de duas irmãs e um rapaz dentro de um carro completamente vedado através de um cenário que lembra um deserto, mas que possui estradas, florestas e postos de gasolina. Descobrimos que acontecimentos ainda não entendidos fizeram a temperatura na Terra chegar a níveis que matou boa parte da população por queimaduras e sede. Em um habitat agora seco, árido e sem leis, a busca por água é mandatória.
 
-Porém, não há mistérios o suficiente que consigam carregar essa áurea por tanto tempo, o que torna o filme arrastado em alguns momentos pela repetição exagerada das situações, o que talvez indique a falta de mais alguns exemplos de desenvolvedores que engrossem o caldo da vertente solitária dos programadores. Vendo os quatro rapazes isoladamente gera um ar de bando de malucos como Richard Stallman, ativista do movimento do software livre.
+O uso de uma fotografia que prioriza em absoluto a luz incandescente vinda do sol e que consegue oscilar para um escuro débil de noite é a chave para que sintamos o mesmo que seus personagens. O sentimento de urgência de início é representado por uma câmera inquieta cheia de zooms, que felizmente é interrompida quando o grupo é abordado por um bando de homens que por algum motivo vem capturando os aventureiros por aquelas bandas, que geralmente chegam sedentos e debilitados. O esclarecimento dos mistérios é feito sem pressa e com uma cadência que cria tensão pelas complicações crescentes que prenunciam um terror completo. Os personagens, diferente de suspenses medíocres, não são estúpidos, nem as soluções para os conflitos vem de maneira fácil e mágica. Cada novo passo em direção ao terror possui suas complicações, que se desencadeiam em direção a uma perseguição climática das mais estonteantes, mais uma vez protagonizado pelo sol.
 
-Boa parte da narrativa parece justamente querer isso, mostrando a infância problemática dos autores e suas opiniões egocêntricas e claramente infantis a respeito da indústria dos jogos, como falar que jogos de milhões produzidos por centenas de pessoas não passa de lixo. Ironicamente a mesma indústria é usada como alavanca de vendas (e pode ter sido uma péssima ideia usar a plataforma da Microsoft como exemplo de esperança de publicidade para programadores independentes, fazendo com que toda a narrativa pareça cair em uma dura contradição).
-
-De qualquer forma, Indie é uma compilação inédita de momentos com nerds onde a criação é mais importante que a criatura. Um bom motivo para uma olhada entre fases.
+O jogo de cenas é rápido o suficiente para que as pistas-recompensas surjam naturalmente, o que é um ponto forte para a conclusão, que não soa forçada. De uma maneira completamente inusitada, cria uma rima sutil com a animação Padak, do coreano também estreante Lee Dae Hee, que igualmente brinca com a busca pela liberdade de um grupo. Pode ser uma tendência contemporânea ou é a vida pregando na arte a sua ironia.
 

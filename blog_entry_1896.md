@@ -1,24 +1,20 @@
 ---
 categories:
 - writting
-date: '2016-11-03'
-link: https://www.imdb.com/title/tt0097576
+date: '2013-06-17'
+link: https://www.imdb.com/title/tt1942884
 tags:
 - movies
-title: Indiana Jones e a Última Cruzada
+title: 'Indie Game: The Movie'
 ---
 
-Há filmes que parecem diferentes dependendo do período da vida que você os assiste. A Última Cruzada, última aventura de Indiana Jones nos anos 80, para mim foi quando criança uma aventura sólida, divertida, emocionante e cujos valores cristãos eu compactuava na época. Hoje, mais velho, e alguns milhares de filmes depois, continuo vendo como quase tudo isso (tirando a parte cristã), mas com um sentimento que foi adicionado com o passar dos anos: o saudosismo, ou até a saudade, da época em que ação de verdade envolvia o herói ficar pendurado do lado de fora de um tanque e comer poeira aguardando sua morte imediata.
+Focado principalmente no amor, dedicação, desespero e muitas vezes loucura dos criadores de jogos de computador independentes, Indie é uma grata surpresa ao mostrar os nerds solitários como artistas que lutam pelo reconhecimento, mas, acima de tudo, pela máxima expressão de si mesmos dentro dos bits e bytes que insistem em escrever.
 
-Nesta aventura o roteirista Jeffrey Boam nos remete de volta ao primeiro filme, com nazista em busca de um artefato religioso supostamente com poderes mágicos, mas em vez dos judeus e a arca da aliança, agora estamos falando dos cristãos, onde um pequeno ramo da história remete ao rei Artur e suas lendas. Porém, a história também volta ainda mais no tempo, narrando (supostamente) a primeira aventura de um Indy ainda garoto, e em uma perseguição em cima de um trem do zoológico consegue inserir diversos elementos de seu universo, como o medo de cobras, o chicote e até o jeito bonachão de se sentir vitorioso. Ah, e claro, o chapéu.
+Acompanhando a história de três jogos distintos que levaram anos para serem produzidos com os esforços individuais dos seus criadores, e que agora se preparam para ir a público, o diretor primeiro nos entrega a tensão dessas pessoas para depois reconstruir essa mesma tensão em nós mesmos, conforme conhecemos cada vez mais dos projetos e das pessoas por tudo aquilo.
 
-É nesse momento que ouvimos seu pai, em seu escritório, ordenando que o garoto que entra excitado conte até cinco em grego. Mas até lá ele já perdeu o artefato que tinha roubado de exploradores para colocar no museu. Esse timing entre pai e filho se repetirá durante todo o filme, quando o filme avança para os tempos atuais e a história de ambos se cruzam quando seu pai desaparece durante as pesquisas que avançam em busca do cálice sagrado, a taça usada por Jesus em sua última ceia, e que de acordo com a lenda teria a propriedade de dar vida eterna a quem o usasse.
+Porém, não há mistérios o suficiente que consigam carregar essa áurea por tanto tempo, o que torna o filme arrastado em alguns momentos pela repetição exagerada das situações, o que talvez indique a falta de mais alguns exemplos de desenvolvedores que engrossem o caldo da vertente solitária dos programadores. Vendo os quatro rapazes isoladamente gera um ar de bando de malucos como Richard Stallman, ativista do movimento do software livre.
 
-Seu pai é interpretado por Sean Connery em um estado de espírito que consegue trazer um alívio cômico compatível com o garoto interpretado por Jonathan Ke Quan em O Templo da Perdição, mas de uma maneira mais natural e misturada com a emoção de vermos pai e filho contracenando, mesmo que o pai tenha sido apresentado apenas em trinta segundos. Isso porque Connery foge de sua zona de conforto desde o começo. Ele está disposto a viver essa persona de um velhinho inteligente, distraído e ainda assim, espirituoso. O roteiro de Boam também é responsável por criar ótimos momentos com a dupla. A primeira cena entre eles com Jones adulto já se torna clássica. O pai quebra um vaso Ming na cabeça do filho pensando que era um nazista; o pai lamenta que seja um Ming, no que o filho responde que está tudo bem (com a cabeça dele), no que o pai respira aliviado; mas não pelo filho: por descobrir que o vaso é uma mera falsificação.
+Boa parte da narrativa parece justamente querer isso, mostrando a infância problemática dos autores e suas opiniões egocêntricas e claramente infantis a respeito da indústria dos jogos, como falar que jogos de milhões produzidos por centenas de pessoas não passa de lixo. Ironicamente a mesma indústria é usada como alavanca de vendas (e pode ter sido uma péssima ideia usar a plataforma da Microsoft como exemplo de esperança de publicidade para programadores independentes, fazendo com que toda a narrativa pareça cair em uma dura contradição).
 
-Este filme não conseguiria ficar ao nível dos dois primeiros se não fosse pela química indispensável entre Connery e Harrison Ford, o que chacoalha a suposta mesmice que seria mais uma aventura "a la James Bond" de uma maneira que consegue manter o velho formato com mocinha e bandido e ampliá-lo pela ótica de mais uma geração em cena.
-
-Mais uma vez a fotografia usada por Douglas Slocombe é épica, com um amarelo que favorece as paisagens desérticas de onde está a aventura, além de usar uma certa iconografia pálida e triste dos nazistas -- incluindo o próprio Hitler -- durante uma queima de livros. Além disso, a dupla de editores formada por George Lucas e Michael Kahn é imbatível nas cenas de ação, realizando um ritmo que é lento o suficiente para vermos as reações de Jones e seu pai e ágil o suficiente para que continue sendo um filme de ação.
-
-Alguns efeitos soam passados, como o rápido envelhecimento de um personagem, mesmo que ainda impressione. Eu me lembro, quando criança, como essa cena me impactava muito, pelo medo de escolher a taça errada. Hoje ela me impacta por outros motivos. Entre eles a irracionalidade humana, que ambiciona o que não entende, e nessa busca estúpida por mais poder acaba sucumbindo por um desmoronamento de sua própria ignorância. A sensação é parecida, no entanto, quando Jones estala o seu chicote e o usa como cipó. Inesquecível e imutável.
+De qualquer forma, Indie é uma compilação inédita de momentos com nerds onde a criação é mais importante que a criatura. Um bom motivo para uma olhada entre fases.
 

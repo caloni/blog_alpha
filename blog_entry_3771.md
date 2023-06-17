@@ -1,23 +1,25 @@
 ---
 categories:
-- blogging
-date: '2019-12-21'
-title: Tradicional Mensagem de Feliz Natal e Bom 2020 Versão Cinema
+- writting
+date: '2019-08-24'
+link: https://www.imdb.com/title/tt2069774
+tags:
+- cinemaqui
+- movies
+title: 'Trailer - Flordelis : Basta Uma Palavra Para Mudar'
 ---
 
-Tudo começou há mais ou menos... não me lembro. O que eu sei é que meu grande amigo Pikachu me colocou em um aviso anual sobre compilar uma mensagem de final de ano com referências a filmes que foram lançados esse ano no cinema (ou algum filme mais antigo de vez em quando, se surgir a oportunidade). Esta é a primeira vez que transformo essa mensagem em um post.
+Dizem que Deus escreve certo por linhas tortas. Também dizem que ele já fez milagres como abrir o mar do Egito e ressuscitar seu filho dentre os mortos. Porém, esses milagres empalidecem frente ao trailer do filme "Flordelis: Basta Uma Palavra Para Mudar". Este, sim, um verdadeiro sinal de que Deus existe, e Ele é Muito Zuero. Amém.
 
-O ano de 2019, imitando 2016, foi escrito e dirigido pelo Tarantino, onde até um Era Uma Vez... em Hollywood consegue virar umA Maldição da Chorona. Com ou sem um Parasita atazanando a vida.
+O longuíssimo vídeo, talvez mais longo que o filme, começa com um personagem interpretado por Reynaldo Gianecchini dizendo que ele escutava das pessoas que era um caso perdido. Ele está com uma meia na cabeça, mas assim que a tira vemos que é o ator. Dizem que ele é um caso perdido e que milagre nenhum daria jeito. Agora eu te pergunto: se alguém com um rosto como o de Reynaldo Gianecchini milagre nenhum daria jeito, o que será de nós, meros feios mortais?
 
-Houve os momentos bons, como testemunharmos finalmente o Ultimato dos Vingadores, apesar que todas essas aventuras em fundo verde serviram para nos cansar de tantos efeitos e perceber que toda essa correria das Marveletes foi uma verdadeira Odisseia dos Tontos. E assim como tontos, cambaleando para fora da sala do cinema depois de ter visto uma atrocidade como Os Parças 2, perdemos muito no meio de discussões que não levam a nada. Esquecemos até o idioma, e trocando português por espanhol perdemos até "El Camino".
+Depois temos uma briga de um casal por uma criança de colo. Os nomes do elenco vão aparecendo nessas icônicas cenas, mas eu vou interromper essa análise para destacar a fotografia do trailer: preta e branca, daquelas que parece que a TV deu defeito. Eu já tive esse problema uma vez. Dizem que é o tubo que começa a pifar, mas é mentira, basta levar em uma autorizada para trocar a plaquinha, que custa mais ou menos o preço da TV. Ou seja, não compensa o conserto. Não há drama maior que ter uma TV funcionando sem cores e que você não consegue consertar. E por isso a produção do filme escolhe sabiamente uma música triste e emocionante para refletirmos nesses momentos de desesperança.
 
-Mas nessa nossa Vida Invisível em que entramos naquela salinha escura e nos descobrimos novamente atingimos nosso próprio Bacurau, bem No Coração do Mundo. E quando isso acontece fica difícil dizer que o cinema nacional vai mal, quando entendemos que O Paraíso Deve Ser Aqui. Não há melhor Retrato do Amor.
+Não demora muito para que comecem a surgir palavras em LETRAS MAIÚSCULAS em um fundo preto dizendo ao espectador sobre o que será essa história. Uma mulher andando na rua escura: "ESPERANÇA..." (o que são essas reticências?).  Uma mulher vai dar à luz: "SALVAÇÃO...". A criança nasceu! Mas o verdadeiro milagre é o elenco que vai sendo apresentado: Fernanda Lima, Déborah Secco, Cauã Reimond, Cris Vianna, Ana Furtado, Guilherme Beringer, Bruna Marquesine. Com uma música evangélica ao fundo. Não é pra dar glória, glória, aleluia de pé?
 
-Eu sei que vivemos em tempos difíceis, onde até uma criaturinha singela como um Pikachu pode virar detetive de um filme noir. Tempos sombrios, onde temos nossa Privacidade Hackeada e parece que nada podemos fazer. Às vezes dá vontade de largar o emprego e viver como um Irlandês, fazendo servicinhos para a máfia, se sentindo O Rei Leão em um trabalho fora da Legalidade e Fora de Série, que satisfaz nossos desejos mais violentos. É como sobreviver Um Dia de Chuva em Nova York e dar Adeus À Noite, em uma passagem de Dor e Glória.
+Então, quando você espera impacientemente que o trailer ou a música acabe, Marcello Anthony aparece dizendo que se Deus abriu o mar vermelho e derrubou o gigante Golias, ele vai fazer esse trailer ter o dobro de duração. E a minha fé de que Deus fazia apenas coisas boas diminuiu um pouco... (Vou começar a usar reticências, parece uma coisa boa.)
 
-Mas muita calma nessa hora. Não se deve confundir arte e vida real. Toda Arte é Perigosa. Não adianta sermos infantis e gritar Shazam!, esperando sair pelos ares, como um Rocketman, virar um Homem Aranha da vida (ainda que Longe de Casa) ou uma espécie de Anjo de Combate. Não podemos ceder ao nosso sentimento mais Maligno; até porque todos Nós temos em alguma parte de casa um teto de Vidro, e flertar com a vida de um anti-herói pode fazer de nós no mundo real um trágico Brinquedo Assassino, mesmo que esperássemos um Parque dos Sonhos.
+Vamos para mais uma bateria de palavras... todas minúsculas agora... listando... o que vai ter no filme? Como se fosse algo bom? ruim? neutro? Enfim, aparecem: "tráfico de drogas", "exploração infantil" (e Letícia Spiler aparentemente, é uma criança sendo explorada). Mais nomes de famosos aparecem. Meu Deus, esse filme vai ter nove horas de duração... quando, de repente, o rosto de uma mulher melecado de água/lágrimas surge e... um milagre acontece. Um verdadeiro milagre: a TV se conserta sozinha. As cores voltam! Aleluia, irmãos!
 
-Por isso, esqueça as trevas, não seja o dono ou A Dona do Mal. Olhe para O Farol no fim do oceano, estreando dia 2 do ano que vem, 2020. É sinal de paz e Ascenção, nossa ou de Skywalker. Iremos Rumo às Estrelas, esquecermos nossa Mente Perversa e torcer por coisas boas, como uma competição inocente entre Ford vs Ferrari, e não o calor inconsequente de um Retrato de Uma Jovem em Chamas, nem o frio congelante de um Frozen 2. Vamos pelo equilíbrio, reconstruir um novo mundo.
-
-Afinal, Deus é Mulher e Seu Nome é Petúnia. Espero que este estreie também em 2020 =)
+Preciso dizer que este trailer me emocionou de diferentes formas. Formas estas que prefiro não comentar aqui. Portanto, não perca: assine a garantia estendida de sua TV. Não passe por esse drama que esses famosos passaram. Deus vai te salvar uma boa grana no final das contas.
 

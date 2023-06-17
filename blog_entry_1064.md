@@ -1,35 +1,13 @@
 ---
-
-Apesar de existir matemáticos ao redor do mundo tentando responder esta pergunta da maneira computacionalmente mais rápida possível, existe uma forma ingênua e eficiente para números baixos:
-
-- Faça um loop entre 2 e a metade do número;
-- Se algum desses números dividir sem resto retorne false;
-- Se acabar o loop retorne true: o número é primo.
-
-Note que a mesma lógica pode ser aplicada para obter os fatores de um número, seus divisores, etc.
-
-O código em C++:
-
-```
-bool PrimeNumber(int number)
-{
-    if (number == 2) return true;
-
-    for (int i = 2; i <= (number / 2); ++i)
-    {
-        if (number % i == 0)
-        {
-            return false;
-        }
-    }
-
-    return true;
-}
-```
-
----
 categories:
-- coding
-date: '2011-05-22'
-tags: null
-title: Comparando strings no WinDbg
+- writting
+date: '2021-11-01T22:36:28-03:00'
+tags:
+- coffee
+title: Comparar métodos de extração de café é inútil
+---
+
+É muito difícil comparar diferentes métodos de extração de café quando feitos direito e com o mesmo café, porque se o café é ótimo todos os método produzem um ótimo café. A diferença? As nuances de sabor e aroma.
+
+Pegue a passagem pelo coador de pano. Eu queria saber se por passar muito rápido isso deixava o café menos intenso. Deixei, então, uma segunda extração em infusão com o pó por três minutos antes de passar pelo coador de pano. O resultado? Praticamente nenhuma diferença. Talvez por se tratar de uma torra média não faça muita diferença mesmo.
+

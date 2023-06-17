@@ -1,61 +1,80 @@
 ---
-
-Ao longo dos anos meu processo de fazer uma xícara de café mudou radicalmente. Já experimentei coado em papel, coado em pano, moka, prensa francesa, Aeropress. Alguns princípios mudaram, outros se mantiveram ou foram descobertos e mantidos no dia-a-dia. Este é um guia básico e genérico, mas não necessariamente prático, para quem deseja trilhar essa aventura de fazer sempre um café melhor que o de ontem. Ou pelo menos tentar. É um insight filosófico e um pouco científico; um apanhado de conhecimento que talvez você não saiba ainda, ou não dessa forma.
-
-Antes de tudo um aviso: é necessário ter vontade de se arriscar. Se você deseja consistência e simplicidade no seu café pode adquirir uma máquina automática de espresso por cápsula por um preço razoável e apertar o mesmo botão todo dia. Com isso o problema da consistência está resolvido, basta achar sua cápsula favorita. Porém, se você aceita riscos para obter novos aromas, sabores e conhecimento sobre a arte de fazer café, vem comigo, pois eu estou aos poucos trilhando o mesmo caminho.
-
-## Produção
-
-Fazer café quer dizer extrair do fruto do cafeeiro seus diferentes aromas e sabores para dentro de um copo de água. O café após colhido passa por vários processos de limpeza e seleção, e após isso é seco para estocagem. Apenas quando o café for usado ou pronto para ser entregue ao consumidor final ele deve ser torrado.
-
-Por que torrar? A torra é o que traz o aroma e o sabor que estão presos nos grãos à superfície. Existem níveis de torra: clara, média, escura. E um degradê entre elas. Quanto mais clara mais as propriedades originais do café estarão presentes, como o frutado e o frescor; quando você compra um café que usa palavras na embalagem referenciando frutas frescas pode ter certeza que se trata de uma torra mais clara ou média. Quanto mais escura mais dessas propriedades serão perdidas e haverá uma troca por mais corpo e sabores menos frutados, ou um frutado mais amadurecido; se você ler na embalagem coisas como caramelo, chocolate, nozes, pode ter certeza que a torra já passou da média e está em direção à mais escura.
-
-Uma vez torrado, o café começa a perder essas propriedades rapidamente através de sua superfície. Após uma embalagem a vácuo ser aberta, no decorrer de quatro a cinco semanas a maioria dos cafés torrados, expostos ao ambiente, estará livre de muitos aromas que surgem durante a torra. Esse tempo diminui se os grãos já estiverem moídos na proporção de quanto mais superfície estiver disponível no pó moído do café para que essas propriedades vazem para o ambiente. Por outro lado, é preciso lembrar também que como a torra envolve queimar o café isso gera gás carbônico, e parte dele ainda está nos grãos do café nos primeiros dias, o que quer dizer que uma torra muito recente também não é o melhor estágio para extrair suas propriedades.
-
-Uma vez que a torra traz essas propriedades para a superfície o último passo é nosso, consumidores finais ou baristas: moê-lo e extrair da superfície dos grãos moídos suas propriedades desejadas através de água. Por que moer? A moagem multiplica a superfície do café que estará exposta à água que irá extrair suas propriedades para a bebida. Você pode fazer o teste e passar água em grãos de café sem moer e verá que o sabor é bem insípido, pois há muito menos superfície em café não-moído.
-
-Agora que você já sabe o suficiente sobre as diferentes fases na produção de café após a colheita, note que existem muitos processos antes do café chegar no pacote de grãos adquirido por nós, e nenhum desses processos está sob nosso controle. As duas únicas formas que temos de controlar o sabor que desejamos no nosso café é 1) escolher bons grãos e 2) aprimorar nossa técnica de extração. E, claro, manter nosso café devidamente estocado para o uso. E obter água agradável de se beber pura (se já não é boa a água sozinha, por que seria o café passado nela?).
-
-## Extração
-
-As variáveis envolvidas na extração são muitas, então é melhor pensar primeiro no processo para depois extrair as variáveis, mais ou menos como o café é feito. Nós sabemos que as propriedades do café são extraídas pela água em contato com a superfície dos grãos torrados. Com isso em mente, imagine que pode-se usar mais ou menos café para a mesma quantidade de água (uma variável), a água pode ser usada em diferentes temperaturas (outra variável), ela pode entrar em contato por mais ou menos tempo (outra variável), ela pode ser agitada ou pressionada durante esse tempo (outra variável), pode haver mais ou menos superfície dependendo do nível de moagem utilizada que, como vimos, é responsável por aumentar a superfície dos grãos (outra variável).
-
-Existem duas famílias principais de métodos de extração do café de baixa concentração. Antes que você pergunte, o de alta concentração é o espresso. Os de baixa são dois: aqueles que mergulham o café por completo na água e os que passam um fluxo de água por uma cama de café. Existe uma diferença entre as duas famílias no nível físico, como aponta [Christopher H. Hendon] em The Chemistry and Physics Behind the Perfect Cup of Coffee:
-
-> From a physical perspective, the major difference is that the temperature of the coffee particulates is higher in the full immersion system. The slowest part of coffee extraction is not the rate at which compounds dissolve from the particulate surface. Rather, it's the speed at which coffee flavor moves through the solid particle to the water-coffee interface, and this speed is increased with temperature. - Christopher H. Hendon (2017).
-
-Portanto, estas são as principais variáveis que você deve se atentar: **proporção entre café e água, temperatura da água, tempo de extração, forma de extração e nível de moagem dos grãos**. Qualquer mínima mudança em uma dessas variáveis irá alterar radicalmente o resultado final. Portanto, preste muita atenção quando estiver fazendo café, pois é esse momento que deverá ser medido para depois ser aprimorado. Até se você faz um café ruim pode fazer um menos ruim da próxima vez.
-
-Após a moagem, os métodos de extração são diversos e variados, e como você já viu existem muitas variáveis para você cuidar. Essas variáveis são importantes porque como você percebeu café é altamente perecível. Cada detalhe durante a extração irá impactar no sabor e aroma final. Se duvida, faça alguns testes alterando uma dessas variáveis e veja o quanto você é sensível a essas variações. Talvez eu esteja exagerando e você é bem mais tolerante a essas mudanças. Se for o caso, não entendi porque está lendo este texto =)
-
-Independente do processo e medidas utilizadas tenha isso em mente: fazer um líquido chamado café é extrair suas propriedades químicas do fruto para a água. Essa extração pode retirar mais ou menos do café. Há uma ordem cronológica por tempo de infusão do café com a água, na ordem: **acidez, corpo, doçura, corpo novamente, amargor**. Quanto mais equilibrada a extração mais essas propriedades trabalharão juntas e em harmonia quando você degustar seu café. O que quer dizer que você conseguirá obter mais sensações a cada gole. Mais sensações é uma coisa boa, pois torna a bebida mais complexa. Mais complexidade é bom porque torna a busca por aromas e sabores um processo mais intenso, demandando mais nossa atenção e proporcionando uma experiência mais rica. E isso é bom porque experiências ricas nos tornam mais felizes.
-
-Uma última observação importante, além de uma curiosidade sobre o equilíbrio e harmonia no café a respeito do pó. Existe um efeito colateral em moagens muito finas em que a água fica impedida de prosseguir seu caminho e acaba encontrando no meio do café alguns caminhos que cedem mais facilmente. Isso é ruim porque ela irá passar muito mais por alguns lugares e muito menos por outros. O café estará desbalanceado, pois ficará super-extraído em algumas partes e sub-extraído em outras. Note que isso pode explicar alguns efeitos indesejáveis que você possa observar em seu dia-a-dia, como um amargor muito forte ao passar seu café, e o motivo pelo qual quando você dispõe o café para a passagem da água ele deve estar bem uniforme, além de se atentar de que quanto mais pressão for exercida na extração mais uniforme deverá ser o tamanho das partículas de sua moagem.
-
-## Método
-
-Como já visto, a superfície do café é responsável pelo desgaste do tempo. Sendo assim, o melhor investimento em equipamento de café que você pode fazer é em um moedor, para que você possa adquirir café em grãos que desgastam mais lentamente que os já moídos. Se não tiver jeito e você consuma grãos previamente moídos, tente obtê-los em pacotes menores para expor menos café quando for abrir a embalagem. Moer na hora de fazer o café é importante para manter esse frescor mantido dentro do grão ainda não-moído. Após isso todo o resto é menos importante, pois qualquer técnica bem executada em cima de excelentes grãos irá fazer pelo menos um ótimo café.
-
-Voltando às variáveis, sabendo que existem inúmeras para se trabalhar, a primeira coisa, talvez a única, que você vai precisar para aprimorar sua técnica de extração é métrica. Seja um cientista: meça seu procedimento de fazer café todo dia, um após o outro, para ajustar suas variáveis na próxima vez que quiser um resultado diferente.
-
-Como medir tudo isso? Usando sempre um padrão para cada variável.
-
-Um padrão para a temperatura da água. Exemplos: o tempo após a fervura, observar quando bolhas começam a subir, o tempo de aquecimento no microondas, usar um termômetro.
-
-Um padrão para saber quanto de café por xícara está sendo utilizado. Exemplos: usar a mesma colher como medida, pesar o café com uma balança de cozinha. Um detalhe importante é que usar volume estará sujeito a variações entre cafés e ambientes, então peso em gramas é o método mais preciso.
-
-Um padrão para medir o tempo de extração. Exemplos: contar mentalmente os segundos, usar um timer que conte segundos ou minutos por você.
-
-Na vida real nem tudo pode ser controlado como em um laboratório, e o próprio café tem sua vida própria; nenhuma caneca de café é exatamente igual a outra. Porém, outro objetivo além desse controle é prestar atenção em qual é a sua receita de hoje, nem que seja para alterá-la amanhã.
-
-A minha dica para quem está começando a prestar atenção, além de saber de cor como funciona a extração de café, é pensar em termos de mais e menos. Por exemplo, se você prefere um café menos forte deve diminuir uma ou mais variáveis de entrada quando for fazer café de novo. Se deseja um café mais forte deve aumentar. Mas o quê exatamente? Não sei. Depende de muitas variáveis. Pode-se aumentar a temperatura da água, a quantidade de café, o tempo de infusão. Então comece alterando uma delas e note a diferença. Se estiver indo pro caminho certo mantenha. Se estiver errado, volte pro começo e mude uma outra variável. Perceba em que a mudança interfere na hora de sentir o sabor do seu café.
-
-O que me faz lembrar que você também é uma variável. O degustador precisa entender de si próprio para saber o que deseja do seu café. Às vezes você está tomando café muito quente e isso impede que você sinta melhor todas suas propriedades. Às vezes você está tomando apressado ou tenso demais e não adianta quais variáveis mudam na extração o café: ele continua o mesmo. Pare, respire, aproveite. Café sempre é bom. Então aproveite. Este guia é para tornar o que já é bom em algo ainda melhor.
-
-[Christopher H. Hendon]: https://www.smithsonianmag.com/science-nature/science-behind-brewing-great-cup-coffee-180965049/
-
----
-categories: []
-date: '2008-06-16'
+categories:
+- cooking
+date: '2022-02-06'
 tags: null
-title: Como fazer merge de projetos distintos no Bazaar
+title: Como fazer pão
+---
+
+O pão clássico é resultado da fermentação de leveduras numa mistura de farinha, água e sal. Todo o resto são variantes dessa receita básica, mas o processo é o mesmo, então entender ele bem ajuda com qualquer receita de pão.
+
+# Farinha e água
+
+A farinha é alimento para o fermento e estrutura. A estrutura se forma quando se adiciona água, pois duas proteínas na farinha se juntam no processo: a gliadina, responsável pela extensibilidade, e a glutenina, responsável pela elasticidade. A união dessas duas é o que chamamos de glúten. O crescimento da massa tem relação direta no equilíbrio entre essas duas proteínas e suas duas propriedades principais. A extensibilidade permite à massa expandir seu tamanho. A elasticidade permite que ela retraia seu tamanho. Se muito extensa a massa se desfaz. Se muito elástica ela resiste ao crescimento.
+
+Há dois processos principais na formação dessas propriedades: a [autólise](https://www.madrepaesartesanais.com.br/autolise/) e a tensão, criada por dobras, sova ou ambos. A autólise é farinha mais água mais tempo, de 10 minutos a 8 horas. Sova é farinha mais água mais fricção, de 5 a 15 minutos. Dobras é modelar a massa realizando voltas nela mesma para gerar tensão, muito usado para massas com alta hidratação, onde a sova torna-se impraticável.
+
+Durante a autólise a extensibilidade da massa vai sendo desenvolvida. Quando começa a sova é que vem a elasticidade. A autólise, graças ao menor tempo de sova, torna o miolo da massa mais leve. O motivo químico para isso é porque há uma menor oxidação da farinha e melhor retenção de uns pigmentos chamados carotenóides cremosos.
+
+A sova é um método de fricção em torno da massa para alinhar a rede de glúten e aumentar a tensão. A sova pode ser feita por batedeiras potentes ou pela força humana, com a diferença na eficiência e no calor da mão humana interferindo no resultado. Deve-se ter um cuidado ao sovar demais com a batedeira, pois existe um limite para o desenvolvimento do glúten, e além desse limite a rede começa a se quebrar. Já com a força manual é mais difícil de atingir esse limite. Antes disso haverá muita tensão e o calor produzido pode prejudicar a massa. Para massas complicadas sempre pode-se fazer pausas de 10 minutos entre as sovas para relaxar a massa e ajustar sua temperatura. Untar as mãos e minimizar o contato também são técnicas válidas.
+
+A dobra é um método que exige menos esforço físico e pode servir melhor para massas com alta hidratação, onde a sova torna-se complicada de fazer. Basicamente é moldar a massa em torno dela mesma, gerando tensão. São movimento simples que se faz rapidamente, espaçados entre períodos de meia-hora a uma hora. É um método simples e eficaz para gerar tensão, mas por outro lado, assim como fazer massa folheada, exige que se esteja sempre por perto para realizar as dobras nos momentos certos.
+
+# Fermentação
+
+Então chega o fermento nessa mistura. O de mercado é a levedura Saccharomyces cerevisiae e suas diferentes formas: tablete, em grãos, em pó. Na natureza podemos encontrar a mesma levedura no seu modo selvagem, combinado com lactobacilos. Você pode manter uma cultura da levedura selvagem apenas misturando bem farinha e água e mantendo-a em temperatura ambiente por sete a dez dias. No decorrer dos primeiros dias vai perceber que essa mistura começa a fermentar. Então você pode alimentar essa cultura com mais farinha e água. A isso chamamos de fermento natural, um método usado pela humanidade por milhares de anos.
+
+Ao adicionar fermento na farinha e água a levedura se alimenta do amido encontrado na farinha, produzindo dióxido de carbono, que expande as proteínas do glúten e faz com que a massa cresça basicamente retendo ar dentro dela, a tornando mais leve, já que há mais volume para o mesmo peso. Quando umedecemos a superfície de uma massa fazemos para manter o crescimento interno e atrasar a formação da casca.
+
+# Sal
+
+O sal irá realçar o sabor e controlar o crescimento da levedura, já que sal mata algumas dessas bactérias. É semelhante, de maneira oposta, adicionar outros açúcares na massa para contribuir com um maior crescimento da cultura de bactérias.
+
+# Forno
+
+Por último entra o calor. Ele deve atuar de maneira uniforme em toda superfície do pão na hora de assar. Se esquentar apenas em cima o gás preso na base não irá se expandir na mesma velocidade que o topo e o miolo fica denso embaixo. Por isso se costumar usar uma pedra de assar no forno durante o pré-aquecimento.
+
+# Pão rústico
+
+Sabendo de tudo isso fica fácil fazer pão e experimentar receitas. A mais básica e fácil delas é misturar farinha, 2 terços do peso de água, uma colher de chá de fermento instantâneo e 1 terço de colher de chá de sal. Sove por dez minutos, cubra e espere quase dobrar de tamanho. Forme uma bola, coloque em uma forma e espere crescer novamente. Aqueça o forno e coloque a forma borrifando ou jogando um pouco de água na superfície. Em cerca de meia-hora o pão estará pronto. Diferente de massas de confeitaria você pode abrir a porta do forno no meio para verificar como está indo, mas lembre-se que a temperatura acaba baixando um pouco, então nunca abra muito para receitas que exigem a temperatura máxima do seu forno.
+
+O resto das receitas de pão são variações dessa receita básica. Os ingredientes giram em torno dessa proporção em peso, e geralmente tudo se pesa em relação à farinha: 65% de água, 1% de fermento instantâneo, 2% de sal. Quando é usado fermento natural ele pode ocupar cerca de 1 terço da receita e você deve fazer os cálculos para manter o nível de água desejado (lembre-se que fermento natural vai farinha e água).
+
+Essa receita é boa também para se aprender a sovar, que não é difícil. Sovar é esticar e rejuntar toda a massa continuamente. Existe também a sova que se joga a massa com toda a força na bancada. Há muito mais métodos, mas todos eles possuem o mesmo objetivo: alinhar a rede de glúten para manter a massa coesa e capaz de adquirir estrutura e crescimento durante a fermentação. Você aos poucos vai perceber quando a massa está no ponto. Ela começa a ficar mais elástica, mais homogênea e levemente grudenta. O véu de noiva, um teste comum entre padeiros, é esticar um pedaço da massa e verificar se ela estica até ficar transparente sem rasgar. É um bom teste porque você também consegue olhar para a rede de glúten formada e entender melhor o processo.
+
+Outra virtude para se aprender ao fazer essa massa simples é o nível de hidratação na hora de assar. Existem diferentes temperaturas na hora de assar e também diferentes formas de manter ou retirar a hidratação durante. Para manter a hidratação pode-se usar uma panela que possa ir ao forno e deixar a massa dentro (lembre-se de untar, colocar muita farinha ou usar papel manteiga; pode acontecer de grudar), ou se for um pão pequeno como o francês cobrir com papel alumínio. Pode-se esguichar água dentro do forno e por cima da massa. Pode-se deixar uma forma com água fervente por debaixo da massa. Fornos profissionais possuem um sistema de hidratação baseado em jogar vapor de maneira controlada na massa. Como já foi citado, hidratação é importante para manter o crescimento e retardar o momento que a casca do pão começa a ficar seca e dura. O que quer dizer que existe um momento que deve-se parar de hidratar a massa para que a casca fique seca e dura.
+
+# Pizza
+
+Pizza é um tipo de pão com uma boa e longa fermentação onde boa parte do ar é expulso da massa antes de assar, mas mantém a maciez interna com a crocância externa. Há uma imensidão de opções disponíveis: massa macia, crocante, fina, grossa, com fermentação rápida, longa fermentação, fermentação natural. É um ramo à parte. Por isso tem [um poste em andamento] apenas sobre esse assunto.
+
+# Pão francês
+
+O pão francês é uma versão brasileira do pão de sal com farinha refinada. Além dos ingredientes básicos de um pão vai um pouquinho de açúcar e gordura, ambos para dar as características que tornam este um pão francês brasileiro: casca fina e rachada, miolo leve e macio no estilo redemoinho. Pelo seu caráter uniforme ele exige um controle melhor do seu tamanho, de sua sova, dos períodos de fermentação e da umidificação do forno. Na prática o segredo é fermentar pouco e crescer muito para manter boa extensibilidade com certa elasticidade para aguentar o crescimento. São feitas várias dobras ou rolagens desse pão durante a moldagem, o que gera um miolo estilo redemoinho bem leve.
+
+Já testei as receitas dos canais [Pão da Casa](https://youtu.be/KCe85lhkfOg), [Amo Pão Caseiro](https://amopaocaseiro.com.br/receita/pao-frances/), [Isamara Amâncio](https://youtu.be/Uhy3gGR2d6s) e [Chefe Mancuzo](https://youtu.be/PLDdc5CLKko), todos com resultados próximos. Depois de ver alguns vídeos sobre o processo e pegar o jeito não há muito segredo fora o que já foi dito no parágrafo anterior.
+
+# Pão de forma
+
+O pão de forma, fora o [pão de queijo], é o primeiro com receita que utiliza mais ingredientes para tornar o pão mais macio. Este é aquele pão extra-macio para passar manteiga no chá da tarde. Delicioso e simples de fazer. A receita-base é [da minha sogra] e não usa fermentação clássica, mas o uso de fermento biológico, junto de ovos, leite e gordura. É o modus operandi da maioria das pessoas que não sova pão e não tem tempo de esperar a fermentação microbiótica. Em meia-hora você tem pão quentinho saindo do forno.
+
+# Pão de queijo
+
+Sim, este é um pão. Não, não fermenta. O que acontece com pães de queijo que crescem no forno é que o polvilho, se for azedo (fermentado), ele se expande ao aquecimento. De qualquer forma, uma estrutura se forma pelo polvilho (suco da mandioca decantada) durante a sova e isso junto dos ovos, do leite, do queijo, da gordura e da água gera uma massa com propriedades marcantes na culinária mineira. Tenho uma receita de [pão de queijo ao estilo mineiro], o que envolve sova e um pouco mais de complexidade, e uma receita de um [pão de queijo mais rápido e fácil de fazer], se estiver com pressa ;)
+
+# Pão de banana
+
+Originalmente a receita era com cará, mas com a ajuda da Mitiko criei este formato que [usa banana reduzida] e que fica sensacional. Vão muitos ovos, o que torna a massa macia, e um pouco de leite também. Com longa fermentação e a quantidade certa de banana o aroma e sabor são imbatíveis.
+
+# Panetone
+
+Sim, ele é um tipo de pão: festivo, doce, aromático e, quando feito com paciência e dedicação, delicioso. Minha [receita oficial] tem melhorado a cada ano. Não confunda com a versão de pobre (nunca faça a versão de pobre; melhor comprar).
+
+[um poste em andamento]: {{< relref "como-fazer-pizza" >}}
+[pão de queijo]: {{< relref "pao-de-queijo" >}}
+[da minha sogra]: {{< relref "pao-de-forma-da-dona-neusa" >}}
+[pão de queijo ao estilo mineiro]: {{< relref "pao-de-queijo" >}}
+[pão de queijo mais rápido e fácil de fazer]: {{< relref "pao-de-queijo-facil" >}}
+[usa banana reduzida]: {{< relref "pao-tranca-de-banana" >}}
+[receita oficial]: {{< relref "panetone" >}}
+

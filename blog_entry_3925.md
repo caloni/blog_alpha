@@ -1,21 +1,18 @@
 ---
 categories:
 - writting
-date: '2013-07-01'
-link: https://www.imdb.com/title/tt1453405
+date: '2013-04-01'
+link: https://www.imdb.com/title/tt1049413
 tags:
 - movies
-title: Universidade Monstros
+title: 'Up: Altas Aventuras'
 ---
 
-Usando o bê-a-bá que aprendemos em [Monstros S.A.], o diretor Dan Scanlon, auxiliado pelos quatro grandes da Pixar na produção e os dois roteiristas originais, reutiliza tudo que já foi visto no longa anterior e acrescenta detalhes que compõem o estilo de vida daqueles seres em uma evolução natural que usa a faculdade como um outro ponto de partida. O resultado é um filme que carece de um início que avise o espectador que este não é apenas uma continuação, mas um agradável e saudoso estudo de personagens. Na outra ponta, carece também de uma conclusão climática que o separe do trabalho original, ou revela um sintoma importante de todo o projeto: não há muito mais o que explorar no mundo dos monstros.
+Uma produção da Pixar possui, como todo o filme, o(s) nome(s) do diretor. Contudo, a dedicação dos seus produtores e toda a equipe é tamanha que transparece o amor pelo Cinema em cada canto da tela e em cada detalhe técnico de suas produções.
 
-Tanto é assim que as novas criaturas que vemos não apresentam o mesmo lampejo de criatividade, e a câmera passa rapidamente por eles como que tentando ignorar a crise de inspiração. Da mesma forma se comporta a faculdade inteira e o seu próprio roteiro, que são ótimos, mas mais se baseiam do que homenageiam a saga [Harry Potter] (com sua escola-castelo sombria), A Vingança dos Nerds e até mesmo Carrie, a Estranha (minha referência favorita).
+É o que podemos conferir em Up!, que pega uma história até que simples, um velho viúvo deseja realizar o grande sonho de sua falecida esposa, e consegue não apenas torná-la acessivel às crianças, mas faz um apelo à criança que ainda vive dentro de nós esquecida pela agruras da vida.
 
-Mesmo com tantas limitações inexistentes nas criações originais da Pixar, justiça seja feita: a história se sustenta até o fim. O que não se sustenta é a paciência das crianças, que precisam aguardar poucos momentos de humor físico ou mesmo aqueles momentos tocantes que exploram de maneira magnífica a essência humana. Aqui a Pixar parece querer atingir a puberdade, mas com isso se esquece dos pequeninos.
+Para isso a direção de arte não poupa esforços em apresentar cada elemento da vida de Carl Fredricksen remetendo à sua infância e sua vida feliz com sua amada Ellie. Não apenas isso, a própria ideia da viagem maluca de Carl já está anunciada desde o início da produção, em detalhes cada vez mais frequentes, como seu balão que simula o dirigível do seu herói, um explorador desenganado, como sua profissão de vendedor de balões. Dispensável dizer algo sobre a própria Ellie, que parece ser o grande símbolo que todos nós almejamos: a vida perfeita ao lado de alguém.
 
-Uma pena, pois essa dualidade era marca registrada dos estúdios de John Lasseter.
-
-[Harry Potter]: {{< relref "harry-potter-e-a-pedra-filosofal" >}}
-[Monstros S.A.]: {{< relref "monstros-sa" >}}
+PS: como é de praxe, preciso comentar dos primeiros 15 minutos dessa produção, que de tão sucinto e dotado das maiores qualidades narrativas do audio-visual, possui, assim como Wall-E, o seu lugar no Panteão dos grandes curtas lançados dentro de um longa. Além de emocionar o mais duro dos humanos que já viveu o suficiente para entender a grande mensagem do filme: a vida é uma aventura.
 

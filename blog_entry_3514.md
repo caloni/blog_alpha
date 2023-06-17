@@ -1,19 +1,26 @@
 ---
 categories:
 - writting
-date: '2016-10-31'
-link: https://www.imdb.com/title/tt4538652
+date: '2019-05-05'
+link: https://www.imdb.com/title/tt0100998
 tags:
-- mostra
 - movies
-title: Sonar
+title: Sonhos
 ---
 
-Este é o segundo filme que vejo na Mostra com um personagem que grava sons do ambiente (o outro é O Que Restou da Minha Vida). Sonar escolhe falar sobre uma imigrante mulher de um país africano que ainda trata mulheres como submissas. O interessante é que, considerando o que o filme faz dessa personagem, não temos pista nenhuma que nos faça evitar em pensar que, no fundo, ela também seria no Ocidente como apenas mais uma vadia.
+Assisti a Sonhos, de Akira Kurosawa, dividido em dois. Minha esposa dormiu na metade. Eu avisei para ela que esse cineasta é lento.
 
-Resgatando sua história através do editor de som Wyatt através de testemunhos das pessoas que conviveram com a jovem e manipuladora Leïla, o roteiro do diretor estreante Jean-Philippe Martin divide atenções entre Wyatt e Leïla, já que se por um lado a história principal é de Leïla, é a história de vida de Wyatt que surge no meio, como a gravação do perfil de uma ex-mulher em sua vida dá a entender. Dessa forma, há um filme que, dividido, não consegue se sair bem contando a história de seus personagens, já que até o chefe do introspectivo Wyatt contém um background mais interessante.
+As pessoas hoje em dia não têm paciência para observar e contemplar a beleza da composição dos quadros de Kurosawa. E não são apenas os quadros, como a verdadeira pintura dos cenários, do figurino e, principalmente, da imagem que fica em nosso inconsciente ao absorver todas aquelas cores que parecem fazer parte de quadros móveis em ângulos inusitados, mas misteriosamente perfeitos.
 
-Já a direção de Jean-Philippe é correta, poética e enfadonha até a morte. Seu uso de closes, câmera subjetiva tremendo apenas é aceitável quando intercalada com tomadas mais simples, que incluem o cenário, ou até as belas panorâmicas de Marrocos. Com uma fotografia que mistura frio e quente entre os ambientes, não sabemos o que o filme quer dizer, exceto ser um trabalho mais profundo do que na verdade é. Além disso, mesmo sendo idealmente um filme sobre os sons -- humanos ou não -- curiosamente a trilha sonora é quase completamente suprimida, exceto uma música branca para gerar transições. Além disso, os sons capturados por Wyatt de nada adiantam para desvendarmos o filme, pois o som ambiente tanto da França quanto da África se confundem. Ouvir pássaros e grilos se torna uma tentativa patética de dar vida aos cenários externos.
+O ritmo é lento porque é contemplativo. É algo para parar, observar, refletir, apreender, assimilar. E se modificar no processo.
 
-Ao final, somados os prós (direção correta) e contras (quase todo o resto) o filme ainda consegue ser assistido sem maiores percalços, o que é uma forma bonita de dizer que o espectador não vai morrer de tédio durante a sessão, mas tão pouco irá morrer de amores. Para um filme que brinca com o som, algo virtuoso na arte do Cinema, acaba se tornando para o espectador médio ruim e medíocre, mas para o cinéfilo decepcionante.
+Em Sonhos o cineasta faz uma ode à natureza e alerta para os caminhos nefastos que a natureza humana está nos levando com os milagres da tecnologia. Pode ser uma argumentação anprim (anarco primitivista) ou, o mais provável, o espírito japonês, que se relaciona tão bem com a natureza. O animador Hayao Miyasaki é especialista nessa mensagem, trabalhos como Ponyo já demonstram, ou até mesmo o jovem clássico Meu Amigo Totoro.
+
+Este é um filme cheio de curtas independentes, mas que se relacionam. No começo um garoto é punido por ver o que não devia: o casamento das raposas. Sua mãe não o deixa mais entrar em casa e ele deve ir se desculpar com elas ou se matar. A analogia cristã do pecado original é óbvia, mas transformada em alegoria japonesa é fabulosa. O ritmo da marcha, o mistério da música das "raposas", é sobrenatural, e ao mesmo tempo tão visualmente completo.
+
+Após ser expulso do "paraíso" o homem começa a ter uma relação doentia com a natureza, cortando árvores de pessegueiro e iniciando guerras. E Kurosawa não deixa por menos, utilizando sua maestria de contador de histórias para tornar a perda de soldados uma tragédia tanto para os que morrem quanto para os que se vêem responsáveis. São momentos fortes que vão compondo a sensação geral de todos nós, humanos, e nossa perda de conexão com o que nos era divino.
+
+Sendo tragicamente profético ao narrar o desastre nuclear que transformará o homem e a natureza em versões demoníacas de si mesmos, Kurosawa não quer apenas nos punir ou nos fazer sermão. Ele, assim como nós, é humano. E seu último sonho acaba sendo algo tão simples que fica difícil ter argumentos para com o velhinho de 103 anos vivendo em um vilarejo que nos faz lembrar dos ensinamentos de Kim Ki Duk em Primavera, Verão..., mas vai além, para o retorno do homem ao seu paraíso.
+
+Este pode ser um diretor de filmes lentos para minha esposa e a juventude eternamente conectada na internet, mas ele nunca será irrelevante. Pelo contrário, quanto mais avança mais se torna óbvio que uma mudança é necessária. Kurosawa mostra aqui sua sugestão de maneira primorosa. Já é um começo.
 

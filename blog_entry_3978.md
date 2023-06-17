@@ -1,19 +1,21 @@
 ---
 categories:
 - writting
-date: '2015-03-27'
-link: https://www.imdb.com/title/tt1791528
+date: '2013-10-28'
+link: https://www.imdb.com/title/tt2013293
 tags:
-- cinemaqui
 - movies
-title: Vício Inerente
+title: Vidas ao Vento
 ---
 
-Paul Thomas Anderson volta ao seu estilo Boogie Nights e, de certa forma, Magnólia, com esse Vício Inerente. A história gira em torno de Larry "Doc" Sportello (Joaquin Phoenix), um hippie, viciado em diversas drogas e detetive particular nas horas vagas. Horas vagas essas que se tornam uma constante quando ele vai pegando três casos de uma só vez que parecem estar ligados em torno da persona do empreiteiro Mickey Wolfmann. Tudo começa quando sua ex-namorada, Shasta (Katherine Waterston), lhe faz a mais estranha das visitas dizendo que Mickey é seu novo amante e pede que Doc impeça que a esposa do empreiteiro e seu amante internem-no em um asilo. Apenas essa premissa já seria complicada, mas as coisas vão piorando.
+Não há o que criticar da perfeição técnica dos estúdios Ghibli. Acostumados a entregar desenhos que já seriam motivo de prazer e satisfação só de olhar, os filmes dirigidos pelo mestre Hayao Miyazaki prezam também por uma história completa, uma trilha sonora, uma fotografia, direção de arte, efeitos sonoros que representam juntos sempre o ápice daquele estilo.
 
-Envolvendo na trama o detetive durão Christian F. "Bigfoot" Bjornsen (Josh Brolin) e uma dezena de atores conhecidos com papéis que complementam a história de maneira não-essencial, o filme é basicamente uma "viagem" completa que contém a atmosfera de sua época (anos 70) com seres surreais, incluindo mulheres libidinosas passeando pelos olhos do protagonista. Quer dizer, isso é o que vemos e que parece estar se passando na cabeça do nosso "herói", pois não há nenhuma cena sem sua presença. Doc, seu ar cansado digno dos filmes noir, é o centro de sua história e todos giram em torno dele, incluindo sua própria narradora onisciente, interpretada como uma mulher (Joanna Newsom) que decide seguir sua vida e narrar seus pensamentos.
+Aqui fugimos um pouco do mundo de fantasia de trabalhos como [Ponyo] e [A Viagem de Chihiro] para conhecermos a vida de Jiro (Hideaki Anno), um designer de aviões japonês que trabalhou durante a época da segunda guerra. O momento histórico é propício para uma análise dos últimos dias de um Japão pobre e medieval em direção à modernidade e o poder de destruição de uma Alemanha Nazista que se orgulhava de seus aviões bombardeiros. Interessante notar que existem dois assuntos levados à exaustão pela história. De um lado, Jiro e seus colegas se impressionam pela capacidade de engenharia e design dos alemães e de aviões em geral ignorando o destino dessas máquinas de guerra. Do outro, a necessidade do Japão de alcançar o nível tecnológico é ressaltado por um profundo sentimento de inferioridade de um país que ainda vivia na extrema pobreza de séculos atrás. Os detalhes históricos são abordados perifericamente, mas fica implícito que a mesma guerra recém-terminada contra a China será a alavanca através da qual o país irá se sobressair.
 
-O roteiro foi adaptado por Thomas Anderson a partir do romance homônimo de Thomas Pynchon, mas há tantos elementos visuais durante a narrativa que a história, "inerentemente" complexa, acaba ficando em segundo plano. Uma decisão mais inteligente que, por exemplo, Trapaça (2013), pois não usa sua trama para revelações finais previsíveis. É muito mais prazeroso sentir a atmosfera criada por Anderson e sua equipe, como película granulada, os figurinos femininos estonteantes (ou até as roupas surradas de Doc Sportello, que acompanham sua mente desgastada), a fotografia que se aproveita da falta de luz para fazer surgir o tom noir.
+Enquanto isso, uma história de amor de configura como um ato relapso, ainda que necessário, na vida de Jiro. Talvez como tentativa de humanizar um artista que caminha em direção à perfeição e não pode parar, um traço quase biográfico do próprio Miyazaki, a figura de Kayo (Mirai Shida), uma menina que Jiro conhece justamente através do vento (ela pega o seu chapéu) e de um desastre (um terremoto), consegue servir também como o lado humano da guerra, e o seu desenvolvimento na história não afirma nem nega a opinião do diretor sobre usar a destruição como ferramenta de evolução, mas expande nossa visão acerca do que pensavam os japoneses na época.
 
-No entanto, por mais belas que sejam as cenas, elas se tornam cansativas (talvez de propósito?) pela falta do que dizer, ou por querer dizer muitas coisas sem um foco. Nesse sentido a estrutura de Vício Inerente parece querer sugerir a própria psique de seu personagem, uma pessoa que nunca conhecemos de fato e que parece estar alheio à sua própria existência. Doc está preso em sua própria época (há uma hora em que ele sugere brincando estar em uma máquina do tempo) e o filme reflete isso com todas as forças de sua arte.
+Mesmo a parte de lição de moral com história de amor se tornando o lado mais mal resolvido da trama, o conjunto de ideias por trás de alguém que só queria construir os mais belos aviões da época e tendo que ignorar que está no fundo construindo pirâmides, às custas de muita dor e sofrimento, já é o suficiente para amarrar boa parte daquele contexto histórico e o que ele representou para o povo japonês.
+
+[Ponyo]: {{< relref "ponyo-uma-amizade-que-veio-do-mar" >}}
+[A Viagem de Chihiro]: {{< relref "a-viagem-de-chihiro" >}}
 

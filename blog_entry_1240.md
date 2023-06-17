@@ -1,29 +1,15 @@
 ---
-categories:
-- writting
-date: '2019-06-03'
-link: https://www.imdb.com/title/tt8900098
-tags:
-- cinemaqui
-- movies
-title: Deslembro
+
+Desmaiei duas vezes esse ano. A primeira delas foi por causa da vacina, que me deu febre de madrugada e me impediu de terminar meu número 1 (aka dar um mijão) no meio da noite. O resultado foi uma poça de sangue ao lado do banheiro e uma sensação nova, vibrante, de que poderia ter morrido lá mesmo, ou que deixar de viver é algo que pode acontecer a qualquer momento, "basta estar vivo"... ah, e um galo. Teve mais esse resultado.
+
+O segundo desmaio foi na coleta de sangue. Em casa também.  A enfermeira começou o procedimento alguns minutos depois de chegar. Apaguei no terceiro ou quarto picar de uma agulha tentando se fixar em uma veia pulsante. Foi questão de segundos de acordo com minha esposa. Para mim, em ambas as situações, minutos.
+
+O curioso desse momento foi a memória me pregando peça. A moca chegou há pouco tempo. Quando acordei é como se nunca a tivesse visto na vida. É como se aquela situação dela na minha frente nunca tivesse existido no espaço-tempo. Tudo em volta do ocorrido nunca existiu por alguns segundos e eu vivi sem saber quem eu era.
+
+Contexto é tudo para seres humanos. Sem contexto perde-se o fio da meada que forma o tecido do universo que está nos contando essa história dos átomos e das forças físicas e tals. Sem contexto, ainda que por alguns segundos, nós não existimos. Somos espectadores passivos de eventos naturais em torno do que chamamos de corpo, que com contexto chamaríamos de nosso, de eu. Sem contexto o que chamamos de mundo não existe.
+
 ---
-
-Deslembro começa deslumbrando com seu nome, um trocadilho simpático e até poético sobre o desmembramento de uma família, o esquecimento de quem fomos e as ambiguidades dos idiomas românicos, como o português, o francês e o espanhol.
-
-Esse lado poético reverbera em cada cena do filme, em sua busca incessante por memórias básicas de nossa juventude. É uma viagem dúbia, que tenta resgatar ao mesmo tempo nosso passado jovem como pessoas e como (multi)nação.
-
-A história começa na França, mas se desenvolve quase todo o tempo no Rio. É a história de uma menina que é filha de pais revolucionários em sua época, derrotados no passado e em busca de justiça. Ela, Joana (Jeanne Boudier), não está inserida nessa luta.
-
-Isso porque suas memórias são negadas pela mãe, incluindo a morte/desaparecimento do próprio pai. Joana começa o filme com sua própria identidade, falando francês enquanto sua mãe quase não larga o português. O uso dos idiomas na história tem significado, e é importante reparar em como Jojô (apelido de Joana) vai aos poucos se desprendendo do que até então parecia sua terra natal e retornando à complexa, conflituosa e multicultural América Latina.
-
-A luta de Jojô, então, se passa internamente, no retorno gradual de suas memórias de infância, sua religação com a avó e com sua nova realidade. É significativo ela e a avó começarem distantes e irem se aproximando. Até a cena da igreja. Note que a poesia existe em diferentes níveis em Deslembro, assim como seu jogo de palavras. A reaproximação com a avó é sua forma de religião (palavra que vem do verbo religar, ou reconexão).
-
-Esse jogo de símbolos e referências também funciona no próprio ambiente multicultural do filme. Podemos até "inventar" nossas próprias. Quando ouvi Jojô e as fotos dos Beatles na parede não foi difícil se lembrar do personagem da música Get Back de Lennon/McCartney, uma letra que remete justamente pelo apelo que a pessoa "volte de onde veio". (Para os mais novos Jojô também é personagem do musical feito com as músicas da banda, Across The Universe.)
-
-Mais importante que as palavras é a música, que desempenha um papel central na narrativa, se misturando com memórias ainda embaçadas, mas que lutam para vir à tona. Misturando uma cantiga chilena, rock inglês e samba brasileiro, fica fácil observar a riqueza artística do filme, que mistura com harmonia esses estilos. Além disso, os sons são uma pista importante para entendermos o que está acontecendo na mente dessa menina, que busca de seus sonhos do passado um significado para viver.
-
-A diretora/roteirista Flávia Castro já trabalhou em projeto semelhante, embora documental, no seu autobiográfico Diário de Uma Busca. O tema é o mesmo com abordagens diferentes: o resgate dos fantasmas do passado. Mas a seleção de músicas e montagem em ambos os filmes são marca registrada (Castro também trabalha como montadora).
-
-O que é mais bonito em Deslembro é que ele possui todas essas camadas interconectadas, mas na sua superfície é uma simples história de readaptação de uma jovem a sua nova vida. Pode ser assistido por todos e acredito que cada um irá encontrar sua maneira de se conectar, seja pela história política, pela época saudosista dos anos 70 e 80, pelas músicas e poesia. É um filme fácil sobre um tema difícil, que segue calmo, embalando aos poucos. É a sensação de despertar para o que um dia fomos na vida.
-
+categories: []
+date: '2014-05-27'
+tags: null
+title: Desmontando o Aulete Digital

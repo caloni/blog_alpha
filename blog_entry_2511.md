@@ -1,25 +1,18 @@
 ---
 categories:
 - writting
-date: '2017-11-16'
-link: https://www.imdb.com/title/tt3810810
+date: '2019-12-02'
+link: https://www.imdb.com/title/tt11131980
 tags:
-- cinemaqui
-- movies
-title: Ninguém Está Olhando
+- series
+title: Ninguém Tá Olhando
 ---
 
-Ninguém Está Olhando é um estudo de personagem eficiente, o que não quer dizer que necessariamente agradável. É difícil entender os motivos do protagonista sem cair nos velhos preconceitos. E com isso é difícil se identificar com um rapaz tão problemático. Porém, se você pertence à geração mimimi, tenho boas notícias pra você.
+É gostoso assistir a uma série nova e sua ideia fresca, com algumas sacadas que revisitam temas anteriores, mas sob um novo olhar: o olhar brazuca. É assim que chega Ninguém Tá Olhando na Netflix, um trabalho conjunto entre uma cineasta de curtas documentais de aspecto social (Carolina Markowicz), o autor da terrível série 3% (Teodoro Poppovic) e um editor de filmes com forte fundo social, como Tropa de Elite e Cidade de Deus (Daniel Rezende), que justamente por conta de seus criadores e do formato televisito da rede de streaming vira uma maçaroca de dar dó já no seu terceiro episódio.
 
-Nico, interpretado de maneira contida, carismática e sob constante pressão por Guillermo Pfening, é um ator que está encurralado em país estrangeiro. Ele se coloca propositadamente nessa posição de desesperança porque está sentindo a pressão de todos os lados, como aos poucos vamos percebendo. Não é pressão financeira, mas é ela que bate mais forte no sujeito, que enquanto astro de uma novela de sucesso em seu país de origem, Argentina, é um ilustre desconhecido nas ruas de Nova York. Sua amiga e sua colega de apartamento são legais, mas nem tanto. Entendemos até certo ponto as motivações do sujeito, que sofre uma desilusão amorosa junto de outra desilusão na carreira. A falta de dinheiro é o menor dos problemas.
+Narrando uma história confusa sobre um sistema burocrático de anjos criados por Deus em uma repartição pública dos céus, Ninguém Tá Olhando sonha desde o começo em ser uma série tão eterna quanto seus seres alados e engravatados, mas apesar de suas boas ideias iniciais, como quatro regras que os anjos não podem violar, semelhante aos dez mandamentos dados aos humanos, ambas as listas criadas para serem desobedecidas, ou todo o mecanismo por trás da escolha dos pares entre anjos e humanos que serão ajudados pelos primeiros, o fato é que a lógica desmorona tão rápido quanto começa.
 
-Mas isso não impede que a diretora/roteirista Julia Solomonoff queira abrigar neste tema intimista uma visão um pouco mais cosmopolita da própria produção, que é argentina e brasileira, mas se passa na maior parte do tempo na cidade norte-americana. É por isso que a falta de recursos pesa tanto? Não se sabe. Um ator de talento que depois de um ano na geladeira não tem recursos para passar alguns meses em terra estrangeira. Ele faz um bico de babá do filho de sua amiga enquanto aguarda um premiado diretor mexicano conseguir uma boquinha das produtoras após a fronteira.
+Por exemplo, ao descobrir que o sistema de escalação de anjos é algo completamente aleatório e não está sob controle divino, nós, espectadores, imediatamente nos perguntamos por que os mesmos anjos, então, continuam sendo escolhidos para os mesmos humanos (como o rapaz que gosta de jogar video-game e se masturbar, a cargo do anjo novato criado para explicar todo o sistema a nós). E depois de explicar tantas regras por trás do funcionamento deste além-mundo, elas vão sendo quebradas uma a uma e sem uma forma fácil do espectador entender o que pode acontecer, tornando as possíveis consequências convenientes aos olhos dos roteiristas e igualmente aleatórias.
 
-O jogo de estereótipos é forte: temos o marido da amiga de Nico, um americano business man frio padrão, uma produtora de cinema rígida e pragmática, crianças e suas mães latinas ilegais nos brinquedos do Central Park e uma linha tênue entre o dramalhão independente e um retrato universal do sofrimento, da solidão e da desilusão. Nico se auto-sabota a todo momento. O sujeito é orgulhoso e não possui a mente limpa e clara para decidir o que fazer da vida. Quer apenas se vingar de seu desafeto, mas nutre sentimentos mistos por ele. Enquanto isso evita a todo custo tentar sobreviver, em um movimento suicida sutil, mas inquieto.
-
-Para tudo isso a câmera tremida de Solomonoff acompanha Nico em lindos quadros estilizados, mas com um olhar frio, enquanto narra este conto em quatro estações (embora nos créditos finais seja avisado que são apenas três; possivelmente inverno, verão e outono). A rotina de nosso herói aos poucos vai o sufocando, ou melhor dizendo, o encurralando. Mas não podemos culpar sua má sorte quando é ele mesmo que a estimula. E mesmo assim ele caminha a passos orgulhosos. É a síntese do farsante que se sente bom demais para recomeçar a vida.
-
-Se torna um pequeno feito que o ator Guillermo Pfening consiga nos fazer identificar seu drama sem perdermos o interesse. Seu olhar é distante e patético. Andando sempre cabisbaixo, suas decisões são sempre as piores. Sua vida é uma poesia triste e sonolenta, que quase mergulha na própria depressão. É curioso até que não haja momentos muito perigosos em sua vida. "Ninguém Está Olhando" não quer forçar nada além do aceitável, mas monta um circo que encaixa perfeitamente com a incapacidade deste rapaz de olhar as coisas de maneira um pouco mais realista.
-
-Para quem busca um retrato sutil de um pedaço de realidade específico demais, este é um filme que embala sonhos e decepções como ninguém. Ele é leve, mas que leva fácil. Pode ser assistido por corações sensíveis que vai gerar no máximo uma pequena tristeza que passa assim que a pessoa chegar na próxima Starbucks. E quando chegar, peça uma bebida quente, mesmo que esteja no verão. Enquanto estiver bebendo, pense em quantas pessoas estão vivendo nesse momento uma desilusão amorosa no mundo, e reflita. Termine sua bebida e passe para o próximo filme. Tente um mais alegrinho.
+Será que um rato está por trás da escrita do roteiro desta série?
 

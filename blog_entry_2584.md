@@ -1,20 +1,17 @@
 ---
 categories:
 - writting
-date: '2020-04-28'
-link: https://www.imdb.com/title/tt0379199
+date: '2023-01-25T09:51:23-03:00'
 tags:
+- cinemaqui
+- mostratiradentes
 - movies
-title: O Caminho das Nuvens
+title: O Cangaceiro da Moviola
 ---
 
-Você sabe sobre o que é essa história? Se souber me avise. Avise o diretor, também. No começo se diz que é baseado em fatos reais. Ele conta a história de uma família que viaja de bicicleta pelo país inteiro porque o marido quer um emprego de mil reais. A direção é de um vídeo-clipe que marca a virada do século. É um road movie com pontos turísticos religiosos que se escondem porque a mensagem é muito vaga sobre o que isso significa.
+Um filme sobre um montador que precisa de montagem. O filme, não o montador. Este trabalho de Luís Rocha Melo é de catalogar momentos gravados e gravações já em arquivo dos trabalhos do homenageado, o cineasta Severino Dadá que ficou mais conhecido pelos trabalhos na sala de montagem dos filmes que ajudou a finalizar.
 
-Cláudia Abreu rouba o filme toda vez que a câmera enfoca seu rosto, e Wagner Moura apagado ofusca participação do ator que faz filho mais velho, que acaba se tornando parte da história, que fala sobre amadurecimento, puberdade, se tornar homem. O fato é que o filme não tem ideia do foco e acaba querendo falar de muitas coisas. Agrada sem causar impacto. Este filme é uma homenagem ao cantor Roberto Carlos e possui muitas canções do rei, e por isso não se pode esperar nada provocativo.
+Quando um documentário surge com a ideia de biografia o mínimo que se espera é uma opinião e uma estrutura. Aqui só existe a homenagem, que é saudosa e tudo mais, mas acaba diminuindo o homenageado para uma figura não-humana, sem desejos ou ambições. Dadá vira uma estátua, erguida para a posteridade e que pode ser observada por todos. Porém, inerte, incapaz de evocar sentimentos de saudade no espectador daquilo que não vimos. Como o próprio Dadá comentou antes do início da sessão: ele virou cineclube.
 
-A constante é a religião e a puberdade do garoto, que precisa de uma menina urgente, mas que apesar de chamar atenção não consegue se aproximar de nenhuma. Esta segue buscando a aprovação do pai, e se esforça por merecer respeito tentando fumar, único sinal da virilidade de quem o pôs na vida.
-
-É curioso como o primogênito ser inapto para a vida social faz lembrar [Capitão Fantástico], onde o pai torna seus filhos aptos para viver como ermitões e incapazes de abraçar o caos das relações humanas. A certeza dos pais desses dois filmes é a causa do fracasso de seus filhos na vida. Um defende a convicção católica; o outro, a convicção materialista dialética. Cada um com sua religião sem saber o que fazer com cada uma delas, exceto evitar dar respostas ou regras à sua prole. O fracasso acaba sendo o da vida moderna.
-
-[Capitão Fantástico]: {{< relref "capitao-fantastico" >}}
+O que é uma pena, pois as inúmeras referências de filmes que o montador trabalhou são de trabalhos poucos conhecidos que poderiam ser porta de entrada para algo além das chanchadas da época ou dos filmes pós reabertura, dos quais nos recordamos mais dos divulgados lá fora.
 

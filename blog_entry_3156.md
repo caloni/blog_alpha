@@ -1,16 +1,27 @@
 ---
 categories:
 - writting
-date: '2020-05-13'
-link: https://www.imdb.com/title/tt1578707
+date: '2019-02-15'
+link: https://www.imdb.com/title/tt6690004
 tags:
+- cinemaqui
 - movies
-title: Pretérito Perfeito
+title: Primeiro Ano
 ---
 
-Filme de diretor millennial sobre puteiro carioca icônico, visto por ele como peça de museu. Um local "cultural". Gustavo Pizzi não sabe de nada da vida e não consegue sequer boas tomadas, boa edição e muito menos uma história. Ele consegue alguns frequentadores antigos para dar seu depoimento, mas não aproveita o tempo deles para contar algo que preste. É um documentário feito para TV, ou seja, para ninguém que esteja prestando atenção.
+Quero que imagine uma cena: há poucos minutos de começar um exame importantíssimo na vida deles, dois amigos massageiam a carótida um do outro, uma artéria que irriga o cérebro, para que seus batimentos cardíacos diminuam e assim possam realizar a prova com mais calma. Esse é o momento de Primeiro Ano onde nada mais importa. Não há diferenças, não há concorrência, não há individualismo. Duas almas em uníssono buscando o bem maior por si só.
 
-Desses projetos encomendados para desviar verba pública em prol de estudantes de artes que usam a câmera como vídeo-clipe caseiro, a edição, também de Pizzi, é cheia de efeitos de distorção, que combinam com uma trilha incidental apagada, desprovida de qualquer personalidade, para disfarçar a péssima qualidade da captação de luz noturna. O filme em si, a "película", ficou horrível. Sem história nem técnica muito menos estilo, é surpreendente que tenham levado adiante na pós-produção e lançado como um DVD. Até o título do filme é pretensioso e vago ao mesmo tempo. Um exemplo de tudo que pode dar errado no cinema quando o dinheiro vem fácil. Nesse caso pelo menos deve ter saído barato.
+Este é o terceiro trabalho do diretor Thomas Lilti sobre medicina (os outros foram Insubstituível e Hipócrates). Isso porque ele próprio, além de roteirista e diretor, é antes de tudo um doutor. Porém, aqui a história do filme é um pouco diferente: ela trata do processo seletivo dos estudantes. E, rapaz, é um negócio sério. Com pouquíssimas vagas para uma massa caótica de jovens, a luta anual entre cursinho e primeiro ano para a seleção de especialização pode ser uma prova muito maior de persistência que a própria eventual carreira após formados.
 
-Os entrevistados, muito mais velhos e experientes que o cineasta, dominam a situação o tempo todo. É vergonha alheia assistir um documentarista sem a mínima ideia do trabalho que ele conduz. Qual o objetivo do filme? Até onde pode-se tentar deduzir, bosta nenhuma. É isso o que acontece quando a mesma ideia sem reflexão é martelada na cabeça dos jovens: cultura é importante. Mas o que é cultura? Isso ninguém sabe responder, ou a resposta é: dar dinheiro de todos para reformar e manter um prédio que foi um histórico puteiro de políticos e marinheiros do Rio de Janeiro nas décadas de 30 a 90.
+Acompanhamos nessa batalha intelectual o repetente Antoine (Vincent Lacoste) e o mais tranquilo, reptliano Benjamin (William Lebghil). Como aluno empenhado em passar nas provas, Antoine é pura emoção e amadorismo juvenil protegidos por uma quase timidez. Enquanto isso Benjamin come por três e analisa mais o sistema como um todo antes de se jogar aos livros. Ambos tiveram diferentes origens e situações, mas mais importante, personalidades díspares. Mas ambos se encontraram e viram em sua amizade uma possibilidade de sinergia que poderia beneficiar a ambos, embora fique claro no momento que tanto um quanto outro precisam de algum apoio além da família nesse momento tenso e solitário.
+
+Filmado quase em tom documental, acompanhamos o sistema de aulas e seleção de uma universidade francesa e todas as reações e brincadeiras de jovens cheios de energia e motivação. O bater nas mesas, as palmas dessincronizadas, o grito de revolta e de curtição. Conseguimos sentir os hormônios à flor da pele e ao mesmo tempo o auto-controle para que esses candidatos a ser alguém na vida consigam seu objetivo tão almejado: uma vaga em um curso superior.
+
+Todos esses jovens são o pano de fundo quando acompanhamos o amadurecimento da amizade dos dois, sempre em torno de livros e das expectativas do processo. Lilti está tão interessado nessa amizade quanto está em quase denunciar o sistema de seleção como algo cruel, muito embora o espectador acabe tendo a liberdade de selecionar o melhor valor para si. A seleção tanto pode ser cruel quanto justa, e tenho certeza que qualquer pessoa que já ralou na vida irá enxergar certa virtude na disciplina e no sacrifício desses jovens.
+
+Os diálogos do filme quase sempre giram em torno das matérias dos alunos e dos conhecimentos. Palavras longas e complicadas são exibidas para entendermos a complexidade e a escala que o conhecimento humano chegou ao mesmo tempo que entendemos o porquê de tanto esforço. O diretor em sua entrevista nos traduz seus objetivos, que é de mostrar como o sistema acabou se tornando mais importante que a paixão de ser médico de alguns. Porém, esses objetivos estão alheios ao filme, pois são sutis o suficiente para que entendamos que a vida é assim e cada um reage de uma maneira.
+
+Um filme sobre esse tema teria tudo para se tornar monótono, mas aqui não é o caso. Montado de maneira dinâmica e oscilando momentos viscerais, de lutas por espaço na biblioteca e nas carteiras das salas, com pausas necessárias, como a troca de comida entre Benjamin e sua vizinha estrangeira, Primeiro Ano consegue colocar o espectador no lugar daquelas pessoas e os fazer quase que relembrar os esforços passados para tentar passar no vestibular. Parte disso está em uma edição fuida, mas uma boa parcela de êxito se deve aos atores Vincent Lacoste e William Lebghil, que conseguem uma química invejável mesmo sem qualquer diálogo expositivo. Tudo acontece praticamente nos olhares e expressões.
+
+E isso se revela como um filme contemplativo ao mesmo tempo que intenso. Ele fará o espectador se segurar na poltrona em alguns momentos, e em outros até torcer. E tudo isso com uma importante reflexão sobre o valor da amizade. Mais do que do sacrifício. É a amizade o pilar que segura esse filme sobre competitidade extrema, por mais paradoxal que seja. É quando um amigo massageia a carótida do outro, em uníssono, esperando por um dia melhor.
 

@@ -1,16 +1,17 @@
 ---
 categories:
 - writting
-date: '2014-04-05'
-link: https://www.imdb.com/title/tt0472160
+date: '2022-11-28T23:36:16-03:00'
 tags:
 - movies
-title: Penelope
+title: Pepsi, Where is my Jet?
 ---
 
-Peguemos um livro de contos infantis e transformemos em um filme live-action (com atores de carne-e-osso). Pode ser aquela história da maldição da empregada que é renegada pelo seu amor de um aristocrata, de novo?, e cuja mãe é uma bruxa e roga uma praga que transforma a primeira filha da família de sangue azul em uma abominação. Quer dizer, o nome "abominação" vai depender de quem consegue enxergar na bela Christina Ricci um monstro, quando no fundo a única coisa que incomoda em seu visual são suas orelhas flácidas e seu focinho de porco. Nada que justifique tantas janelas quebradas de pretendentes que parecem ter se encontrado com uma besta selvagem prestes a devorá-los.
+A história: no clímax de um dos seus inúmeros comerciais milionários da década de 90, a Pepsi oferece sem letras miúdas um jato militar em troca de pontos que valeriam muito menos. Um garoto resolve comprar a briga com a gigante corporativa de ter seu prêmio em troca desses pontos.
 
-Porém, a virada de expectativas que o filme prometia, onde o monstro não é Christina Ricci, mas a sociedade onde ela vive (família inclusa), ele alcança defeituoso. Nas amizades que a garota ganha quando escolhe sua independência, incluindo a bonitinha Reese Witherspoon, há uma crítica ácida sobre as pessoas que buscam contato com pessoas famosas em algum lugar, mas que se perde no roteiro de Leslie Caveny, acostumado com produções televisivas de fácil degustação e pouca recompensa cinéfila. E o que dizer da reviravolta bobinha a respeito do que poderia quebrar a maldição?
+O potencial: a ingenuidade de uma geração mimada que foi ensinada a conseguir tudo que quisesse.
 
-Entre altos e baixos Penélope alcança o seu divertimento moderado em poucos momentos onde é claro se devemos rir ou chorar (incluindo a "moral de história"). Um passatempo televisivo que se veste como Cinema, contudo, não merece muita atenção. Sobre o que falávamos, mesmo?
+A realidade: uma série de streaming em quatro partes dramatizada e pesadamente editada que passa logo.
+
+Mas pouco fica dessa experiência. Há recortes de uma época incrível, nas mentes de quem a viveu com a cara grudada na TV. Há transições elegantes entre os jovens por trás da história, mas não há conexões fáceis entre o passado e o presente que justifique o retorno para essa época MTV.
 

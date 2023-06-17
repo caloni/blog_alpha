@@ -1,32 +1,22 @@
 ---
 
-Estou revendo essa série médica onde na época encontrei a metáfora perfeita para debugging: diagnosticar "doenças" do software. A maioria delas bem comum; mas algumas bem raras.
+A sexta e última temporada de House of Cards foi marcada por alterações drásticas em seu elenco, todas encabeçadas pela saída do seu protagonista, Francis Underwood, interpretado pelo insubstituível Kevin Spacey e que teve que ser substituído porque a patrulha dos bons costumes estava de olho em um caso ocorrido há mais de 30 anos onde Spacey avançou sexualmente para cima de um jovem de 14 anos (algo assim; leia os jornais se quiser saber mais). Apesar do ator também ser o produtor executivo da série, isso não impediu sua distribuidora por streaming, a Sjwflix, decidir reorganizar todo o meio de campo da produção da série antes de estrear esta que será sua última temporada, excluindo (apenas) nela todo e qualquer envolvimento do ator. Não se pode corrigir o passado quando ele está ainda dando lucro.
 
-Há inclusive [um texto da época] onde este era um blog apenas técnico onde demonstro minha empolgação com essa analogia. Hoje é a vez de analisar como série.
+Isso quer dizer que nenhuma cena, foto ou áudio do protagonista da série inteira foi usado na produção de seu último capítulo, marcado por um número menor de episódios e reviravoltas e plots inacabados que comprovam que as medidas tomadas pela equipe criativa foram desastrosas em respeito à série, tornando o que era um exemplo televisivo a ser seguido em um show de horrores narrativo. Praticamente nada faz sentido do começo ao fim, e todos os conflitos e tramas soam descartáveis, jogadas ao vento e até cheiram conflitos de novela mexicana, onde completam uma cartela de bingo com os itens gravidez, filho adotivo e mortes repentinas e desajeitadas.
 
-E House não possui nada demais como trama ou história, exceto seu núcleo. O protagonista vivido por Hugh Laurie é o centro desse drama sobre um médico brilhante e seus métodos não convencionais de diagnosticar seus pacientes, geralmente casos raros.
+Tudo porque seus idealizadores transformaram sua esposa e agora presidente americana, Claire Underwood (Robin Wright), na protagonista da série, seguida cada vez mais de perto por Doug Stamper (Michael Kelly), que já comprovou sua eficácia em conduzir praticamente uma temporada inteira, mas que soa impotente diante de uma trupe de roteiristas que não conseguiu arrancar a participação do ator, que é a carta de fundação desse castelo, e sair ilesos com a qualidade da obra.
 
-Há uma fórmula usada em cada episódio e ela aos poucos vai sendo revelada ao espectador comum. De vez em quando se trata de um câncer de difícil detecção, outras vezes é um conjunto de fatores que desencadeou os sintomas bizarros. Havia um certo charme nos primeiros episódios, mas como toda série a fórmula é levemente modificada para que a história não fique muito previsível ou enfadonha.
+Participaram também do desastre, claro, o fato da personagem Claire ser mulher, o que gerou um escape ideológico para aberrações como a luta de uma mulher contra o velho patriarcado formado de homens brancos de terno e cabelos grisalhos encabeçados pelo seu vice, Mark Usher (um Campbell Scott perdido), e o novo corporativista-vilão, o decrépito Bill Shepherd (o ótimo Greg Kinnear). Há também a figura indispensável de Diane Laine, que faz a irmã maquiavélica de Shepherd, e que levanta um pouco a moral de Claire ao ter uma adversária à altura.
 
-Parte das mudanças está na potencial evolução do protagonista, que é um viciado em um medicamento chamado vicodin. A causa dele ingerir o analgésico é devido às dores de sua perna direita após a necrose muscular do membro, fruto de uma cirurgia que acabou salvando sua vida. Muitos dos personagens acessórios dizem que House sempre foi mal-humorado e polêmico, outros que ele ficou ainda pior após a cirurgia.
+Enquanto coadjuvante e diretora (ela dirigiu alguns episódios) Robin Wright se sai muitíssimo bem como suporte classudo para um político baixinho com mania de grandeza. Porém, Wright obviamente não daria conta sozinha de uma temporada inteira, e isso é comprovado pelos péssimos momentos onde passa a conversar com o espectador. É ela e Stamper agora os responsáveis por quebrar a quarta parede, mas nenhum deles, principalmente Wright, possuem a malícia e o olhar sábio e repleto de camadas de Spacey, que conduzia sua própria história com vilania, mas a postura de um lorde das trevas.
 
-O vicodin é formado por duas substâncias: hidrocodona e paracetamol. Graças à hidrocodona os receptores de opióides dos neurotransmissores são ativados, o que deprime o sistema nervoso central. Apesar do médico-chefe só conseguir pensar claramente para resolver o diagnóstico de seus pacientes sob o efeito da droga, ironicamente ela diminuiu sua atividade cerebral.
-
-A dinâmica da descoberta das doenças dos pacientes passa pela análise de sua equipe, que é a melhor parte da série, por evocar os poderes de dedução nos espectadores leigos (meu caso). É de lá que surgem as frases mais marcantes e as discussões mais empolgantes sobre ética e o quebra-cabeças vivo que é o corpo humano.
-
-Tudo no primeiro episódio é feito para explicar qual será a fórmula dos próximos. Os personagens importantes se apresentam inicialmente pelo roteiro (a versão televisionada cortou essas cenas). Em menos de uma hora entendemos parcialmente este mundo que se abre; a impressão é de assistir a um Sherlock Holmes em um universo paralelo. Porém, Hugh Laurie não imita o personagem secular de Conan Doyle, decidindo criar uma nova persona, conhecedora da mente humana como ninguém, mas sob os olhos frios da ciência e o julgamento sarcástico de quem está eternamente com tédio e dor.
-
-Lendo comentários feitos [neste site que possui uma visão técnica dos episódios](https://web.archive.org/web/20150117075644/http://www.politedissent.com/house_pd.html) é possível encontrar pontos importantes para quem é de fora da área. Por exemplo, alguém observa que não há outros médicos realizando os exames pedidos para a equipe, e às vezes são procedimentos simples, como um exame de sangue ou raio-X. E o motivo é claro, embora sutil: House não confia em outros médicos.
-
-Como o próprio protagonista vive dizendo, as pessoas não mudam. E no caso da série nem sua narrativa central: surge um novo caso, o primeiro diagnóstico nunca funciona, abre-se o primeiro ato e cria-se uma atmosfera de mistério, que efetivamente gera alguma tensão. Nós leigos apenas imaginamos o que poderá ser, sendo que na realidade não conseguimos sequer mensurar a dificuldade dessa tarefa de adivinhação, embora a série se lembre eventualmente que House é o melhor de sua área. Isso implica que nem o especialista mor consegue acertar de primeira um diagnóstico. Com esses parâmetros em mente essa ciência "exata" de diagnosticadores se torna mais empolgante para alguém com um olhar de fora.
-
-[um texto da época]: {{< relref "house" >}}
+Tentando reproduzir os mesmos passos em uma versão mais humana (onde a cena do passarinho é o reflexo da primeira cena de Spacey na série, onde executa um cachorro), a ideia central da sexta temporada seria (teoricamente) demonstrar como todos se tornam influenciáveis pela podridão do poder, e não há salvação nem para as mulheres (que obviamente são santas). Porém, a história é morosa, as reviravoltas são perdidas (em um dado momento uma personagem foge das tentativas de assassinato, se esconde, apenas para voltar e ser assassinada sem alterar nada na história) e a parte feminista não empolga.
 
 ---
 categories:
 - writting
-date: '2017-06-05'
+date: '2016-03-13T20:10:00-03:00'
 link: https://www.imdb.com/title/tt1856010
 tags:
 - series
-title: House of Cards - Quinta Temporada
+title: House of Cards - Primeira Temporada

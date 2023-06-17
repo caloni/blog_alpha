@@ -1,28 +1,26 @@
 ---
 categories:
-- coding
-date: '2010-08-12'
-tags: null
-title: Foto dos melhores momentos
+- writting
+date: '2017-04-18'
+link: https://www.imdb.com/title/tt4972582
+tags:
+- movies
+title: Fragmentado
 ---
 
-Mais um quebra-cabeças antes da nossa palestra, esse "baseado em fatos reais".
+Este é mais um suspense de M. Night Shyamalan baseado em "eventos reais" que flerta com as possibilidades sobrenaturais de suas premissas. Mas mais "sobrenatural", contudo, é a forma simplista com que a história é contada, como se o diretor/roteirista não se importasse muito com a verossimilhança da história que quer contar, já que, marca registrada do diretor, obviamente tratará de um tema que brinca com coisas "Além da Imaginação".
 
-A história é a seguinte: o cliente instalou uma versão nova do produto em algumas máquinas que, ato contínuo, começaram a apresentar telas azuis constantemente. Como essas máquinas tinham que ser usadas pelos funcionários, a administradora rapidamente desinstalou essa versão buguenta, e logo em seguida pediu por uma correção.
+Considere, por exemplo, o rapto de três garotas. Se trata de um homem, não muito forte, que as mantém presas, mas não imobilizadas, em um quarto com uma porta de madeira. Um detalhe vital é que este homem se comporta de maneira diferente algumas vezes que ele interage com as moças, e isso imediatamente faz com que uma delas, a mais problemática, conclua que o rapaz tem diferentes personalidades, ou pessoas, dentro dele.
 
-Até aí tudo bem. O problema maior era que ninguém havia capturado dump de nada.
+Mas isso em um mundo onde a ciência não aceita a teoria das múltiplas personalidades. Ou pelo menos não da forma como a Dra. Fletcher a enxerga. Convencida que seus pacientes traumatizados são superiores aos seres humanos saudáveis, ela realiza sessões com Dennis frequentemente, e está não apenas interessada em seu caso, mas positivamente admirada.
 
-Por isso pedi encarecidamente por qualquer fragmento de tela azul (minidumps) que pudessem ainda estar nas máquinas afetadas. Dito isso, ela confessou que havia voltado a imagem padrão nesses equipamentos para que os funcionários pudessem voltar ao trabalho rapidamente. Só que sem dump eu não conseguiria trabalhar rapidamente.
+Isso levanta uma questão importantíssima em toda a história: qual o nível de irresponsabilidade que um psiquiatra no mundo real precisa ter, mesmo que digamos que este enxergue o que os outros não viram, para influenciar e impactar de maneira tão contundente a vida e o destino de um paciente que obviamente precisa de mais cuidados que sessões de terapia?
 
-Mas eis que no dia seguinte ela me liga, comentando que um funcionário, empolgado (?) pela tela azul em sua máquina, havia tirado uma foto da mesma para "recordação". Sem nenhuma cerimônia, então, pedi rapidamente que ela conseguisse essa foto para a minha coleção.
+Essa dualidade entre a psiquiatra que desenvolve através de anos de pesquisa uma teoria revolucionária sobre múltiplas pessoas (leia: personalidades) vivendo no mesmo corpo e a garota perturbada que de primeira conclui qual é a do sujeito maluco que se comporta como criança fragiliza a premissa, não nos permitindo deduzir qual o tom de credulidade deveríamos ter. Ao mesmo tempo, as tentativas de fuga das meninas são patéticas, principalmente se considerarmos tanto tempo disponível para elas arquitetarem um plano melhor do que sair correndo, já que desde o começo Dennis não oferece um perigo tão imediato, talvez uma falha de atuação, roteiro ou mesmo direção do elenco. Eu chuto que o ritmo dos filmes de Hitchcock funcionam muito melhor para esse tipo de história. Shyamalan o emula com uma certa competência, mas de maneira apressada, relapsa, pedante e quase automática, sem pensar em seu conteúdo.
 
-{{< image src="tela-azul-de-recordacao.jpg" caption="Tela azul de recordação" >}}
+Por outro lado, o primor técnico com que o diretor conduz a história diminui essas falhas, transformando um suspense banal em uma história fascinante que vai se desdobrando com o passar de um tempo que não precisa de contagem para se sentir. E a capacidade de Shyamalan em saber ligar um evento ao outro, como o tempo entre Cassie observar o perigo em sua volta e a tentativa de abrir a porta do carro, são os elementos que tornam um suspense médio em momentos de prender a respiração.
 
-A foto que ela me manda é exatamente a que está acima, apenas censurado o nome do driver, o que não vem ao caso. Assim que a recebi pude constatar o problema direto no código-fonte, corrigi-lo e enviar uma nova versão, que após alguns dias de testes se revelou bem sucedida.
+Da mesma forma, o uso exagerado de enquadramentos inquietantes, como o teto transparente da escadaria, ou o movimento já clichê de um corredor cheio de canos que sem fim, assinam a obra do diretor, que não poderia ser mais ninguém, mas ao mesmo tempo afastam o espectador da história. A mesma coisa pode ser observada na trilha sonora, eficiente, mas que usada ao exagero flerta com o trash.
 
-A questão é: como eu resolvi o problema? Como você teria procedido nessa situação?
-
-A resposta para esse enigma também contará pontos para nossa brincadeira com o livro Windows Internals, como foi explicado no [artigo anterior]. Vamos lá, Sherlock!
-
-[artigo anterior]: {{< relref "nao-e-minha-culpa" >}}
+E trash é um traço que M. Night não conseguiu ficar longe tempo suficiente para um filme inteiro. Uma pena. No entanto, a chamada pós-créditos para um outro trabalho do diretor é capaz de dar arrepios aos fãs de seu trabalho. Pena que sua assinatura do começo ao fim diminui a empolgação de vermos uma história verdadeiramente nova.
 

@@ -1,15 +1,16 @@
 ---
-categories: null
-date: '2023-04-09'
-tags: null
-title: Métodos de extração de café e suas sutilezas
+categories:
+- writting
+date: '2014-09-13'
+link: https://www.imdb.com/title/tt0042546
+tags:
+- movies
+title: Meu Amigo Harvey
 ---
 
-Comprei um Melitta e filtros de papel. O objetivo é usar como suporte para meu filtro de pano, mas aproveitei para voltar a praticar passar café como todas as pessoas fazem, mas também para degustar o resultado e entender se há alguma diferença com outros métodos que utilizo diariamente.
+Todos têm aquele amigo indesejável ou, o mais provável, aquela qualidade indesejável em um ente querido que queremos esconder para nos tornarmos aceitos pela sociedade. Se não for em um ente querido pelo menos em nós mesmos. A questão é: "Harvey", uma produção de 1950 dirigida por Henry Koster (O Manto Sagrado) e estrelada por James Stewart (dos filmes de Hitchcock) mostra isso de uma maneira genial: cria um coelho gigante como amigo invisível de um gentil senhor que vive com sua família.
 
-Posso estar enganado, mas a sensação geral para mim é que o resultado é cheio de sutilezas, mas nenhuma delas determinante. O mesmo café passado na prensa francesa possui corpo, textura e acidez bem presente. Feito na Aeropress no filtro de papel carece de acidez, mas apresenta um equilíbrio maior junto de uma certa doçura no final. Passado no pano revela notas mais ácidas junto de uma textura próxima da prensa, mas sem amargor.
+A partir dessa proposta simples e direta somos apresentados a Elwood P. Dowd e toda a polidez, generosidade e compreensão de mundo que um ser humano consegue ter quando está enfeitiçado pelo espírito do "não se levar a sério". Encarado por todos como um louco, o trunfo do filme é nunca negar isso, mas fazer repensar o conceito de loucura.
 
-Já o Melitta foi o primeiro método que trouxe um certo amargor para este café, além de um corpo que eu não sabia que poderia encontrar em filtros de papel. Interessante. Já valeu a pena gastar 10 reais neste conjuntinho. O filtro de papel é cerca do dobro do preço dos da Aeropress, o que faz sentido, pois a quantidade de papel é muito maior. O curioso nessa comparação de preços é que Melitta é um método usado pelas massas com um preço por filtro bem maior que Aeropress, um método mais elitizado e hipster, mas que acaba oferecendo um custo/benefício melhor em seus insumos. E isso porque nem falamos no filtro de metal.
-
-Porém, o bom do mundo do café é que você sempre pode gastar mais. Mesmo em filtros de papel do tipo Melitta. Já ouviu falar na iniciativa Hario V60?
+Ele pode ter seus momentos escrachados, como toda comédia, e deixar algumas pontas soltas no processo, mas nunca se esquece de usar todo acontecimento a seu favor para provar o seu ponto: se é loucura ser gentil com todas as pessoas que encontramos no mundo, o quão mesquinho e miseráveis somos ao acreditar que o normal é exatamente o oposto.
 

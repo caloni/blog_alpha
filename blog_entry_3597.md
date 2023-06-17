@@ -1,28 +1,22 @@
 ---
 categories:
 - writting
-date: '2019-10-19'
-link: https://www.imdb.com/title/tt8535968
+date: '2012-04-09'
+link: https://www.imdb.com/title/tt1201167
 tags:
-- cinemaqui
-- mostra
 - movies
-title: System Crasher
+title: Tá Rindo do Que?
 ---
 
-System Crasher evita a todo custo julgar sua jovem e impossível protagonista, mas não se pode dizer o mesmo dos espectadores, que saíram da sessão vociferando palavras de ordem e disciplina como solução para uma menina de uns 10 anos que com inteligência acima da média e ataques explosivos é uma versão em miniatura de uma delinquente juvenil. Mas a grande questão para quem quiser analisar além das emoções primárias que o filme evoca é sua camada imediatamente superior: quais os objetivos de um filme como esse?
+Funny People, aqui no Brasil conhecido como "Tá Rindo do Que?" e lançado diretamente para as locadoras por não ser um filme típico para o grande, mas limitado, público de Adam Sandler, é uma mescla entre drama e comédia, que está presente exatamente por ser esta uma história em torno de um comediante de sucesso que, como muitos no ramo, iniciou sua carreira na comédia de stand-up (entre eles, Jim Carrey, Robin Williams e Eddie Murphy).
 
-Estamos em um país de primeiro mundo e a pequena Benni já passou por mais de 30 instituições de correção juvenil. Jovem demais para ser presa no que seria a daqui extinta Febem, acompanhamos os ataques de raiva da garota enquanto ela provoca e agride crianças, ou foge dos adultos que a estão supervisionando.
+George Simmons é aclamado pelo público e faz sucesso com seus filmes de humor duvidoso (Adam Sandler, quem poderia ser). Quando ele se vê diante de um problema de saúde que pode lhe dar apenas mais algum tempo de vida ele decide refrescar seu repertório de piadas e voltar a ter mais contato com o público de stand-up, como se quisesse um contato mais íntimo com seus admiradores e ao mesmo tempo anunciasse para todos de forma velada seu fim mais ou menos próximo.
 
-O filme escrito e dirigido por Hora Fingscheidt se entrega completamente ao ponto de vista de Benni para nos tentar dar sua visão, falhando miseravelmente, pois ninguém conseguiria se identificar mesmo. Com fontes coloridas e infantis, e música animada e frenéticas durante seus ataques, os movimentos de câmera da diretora pretendem emular o comportamento da mente desta criança que foi traumatizada desde muito pequena, adotada duas vezes e devolvida muitas outras.
+Para ajudá-lo ele encontra Ira Wright, um comediante que ainda está no início (Seth Rogen) e que lhe consegue criar piadas interessantes. Ira, com seus problemas em relação a mulheres, é cômico e trágico ao mesmo tempo, o que, como uma síntese interessante da psique do comediante é o que parece melhor resumi-lo. Exagerado em sua ingenuidade, consegue ser tocante em alguns momentos, como ao admirar o jatinho que o espera para acompanhar Simmons.
 
-A dinâmica para filmar a jovem atriz Helena Zengel é uma das mais tensas já vistas com atores-mirins. Com certeza fruto de trucagens, nós espectadores a testemunhamos dizendo palavrões de gente grande e agredindo gravemente muitas crianças, além de si mesma. A atuação da atriz é primitiva, e podemos dizer com certa confiança que ela está representando uma versão muito próxima dela mesma e exibindo sorrisos e expressões falsos, mas pelo menos isso conseguimos relacionar com crianças saudáveis.
+Como comediantes que são, a vida desses sujeitos parece envolver sempre uma ou duas piadas em diálogos ocasionais, como se tirassem inspiração a partir daí, uma ideia muito poderosa, pois cria empatia para o público e os torna mais únicos em sua forma de fazer humor. Dessa maneira, enquanto Ira faz de maneira inconsciente piadas que evitam o contato feminino George aponta exatamente essa ferida no repertório do amigo, mostrando de maneira sutil o ressentimento que Simmons tem pelas pessoas.
 
-Este é um filme adulto que pode chocar adultos. Há cenas fortes, mesmo que não explícitas, mas que mexem com nossas emoções. Benni faz basicamente o que quiser e vemos adultos impotentes diante de uma criança. Em vários momentos do longa a dúvida de quais os objetivos dessa tortuosa e frustrante história começam a incomodar.
+Aliás, a atuação de Adam Sandler aqui pode-se dizer muito acima da média de seus trabalhos costumeiros, o que não implica em um grande papel, mas já é alguma coisa. Competente assim como o resto do grupo e contido como deveria ser um comediante prestes a morrer, Sandler impressiona mais por querer representar alguém que não seja ele mesmo, apesar de ironicamente estar inserido em um personagem que diz muito sobre sua personalidade. Significativo também notar que, talvez devido às limitações nas atuações do elenco, Judd Apatow tenha escolhido cortes frequentes em diálogos, mesmo os mais intimistas, demonstrando que muitas vezes apenas uma direção mais presente consegue extrair tomadas interessantes de atores na maioria das vezes medíocres.
 
-No que chegamos na grande falha do filme: não nos dar resposta definitivas. E por que esta seria uma falha, já que de acordo com seu próprio título de trata de um filme de alguém que quebra o sistema de tratamento de crianças desse país? Bom, não adianta descrever uma situação fictícia se você não tem nada o que falar sobre ela. Depois de uma hora e meia o filme anda em círculos por mais meia hora, gerando simpatia apenas pela assistente social que acompanha Benni desde o começo, quase como uma muleta emocional para não nos deixar sem nada.
-
-Para chegarmos em uma conclusão sobre o filme não nos resta outra opção do que entender que esta é uma crítica velada ao sistema educacional que está sendo usado em crianças de países que não possuem mais nenhum problema real, exceto lidar com crianças mimadas que nunca tiveram sua vontade sob controle. Este é o fim da humanidade como se conhece, incapaz de impor disciplina em suas próprias crias. Nem as sociedades dos países mais pobres teriam um sistema tão podre quanto este, como o próprio longa sugere, citando mais de uma vez um bem-sucedido programa educacional no Quênia.
-
-Mas esta é minha visão. Posso estar sendo enganado pelas minhas emoções. O filme nos faz todo o tempo buscar por uma solução, sem nunca nos entregar uma luz no fim do túnel. Este é um mérito dele, afinal de contas. Se não ele se chamaria Consertador de Sistemas.
+No entanto, a história move-se pelo drama e é uma pena sentir a duração maior do que necessária em diversas cenas expositivas do caráter do protagonista, como se precisássemos acreditar que por trás daquele humorista cruel existe um ser humano que se preocupa com seus entes queridos. O que não deixa de ser curioso, pois é justamente a parte engraçada da trama que consegue informar no subtexto das piadas contadas e apenas isso bastaria para informar o espectador.
 

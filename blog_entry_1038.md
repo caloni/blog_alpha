@@ -1,32 +1,62 @@
 ---
-
-Apliquei um perpétuo nesse final porque pensei que estava pior, mas a análise me dava mais de 5 pontos de vantagem. Olhando por que vi que quando o adversário avançou o peão ele deixou o rei propício a levar vários xeques, e há uma combinação com minha dama e torre (contra a dama e torre dele) cuja ideia é trazer ambos para aplicar o mate e forçar a dama a defendê-lo, e assim deixando de proteger a torre.
-
-Pretas jogam e espremem adversário:
-
-{{< image src="board.jpeg" >}}
-
-```
-[Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2022.08.13"]
-[White "MAXTURCO2"]
-[Black "cavaloni"]
-
-1. c4 e5 2. Nc3 Nf6 3. e3 Nc6 4. Nf3 Bc5 5. Be2 O-O 6. O-O d5 7. cxd5 Nxd5 8.
-Nxd5 Qxd5 9. b3 Qe4 10. Ng5 Qg6 11. Nxf7 Rxf7 12. Bc4 Bh3 13. Bxf7+ Kxf7 14.
-Qf3+ Kg8 15. Qxh3 Rf8 16. Bb2 Bd6 17. d4 Qg5 18. dxe5 Bxe5 19. Bxe5 Qxe5 20. Qg3
-Qf6 21. Qxc7 Ne5 22. Qxb7 Ng4 23. Qd5+ Kh8 24. f3 Nxe3 25. Qe4 Nxf1 26. Rxf1 h6
-27. h3 Qa6 28. Re1 Qxa2 29. b4 Qa6 30. Rb1 Qb6+ 31. Kh1 a5 32. bxa5 Qxa5 33. Rb4
-Qa1+ 34. Kh2 Qf6 35. Qg4 Qd6+ 36. Kh1 Qd1+ 37. Kh2 Qd6+ 38. g3 Qd2+ 39. Kg1 Qe1+
-40. Kh2 Qd2+ 41. Kh1 Qe1+ 42. Kg2 Qe2+ 43. Kh1 Qe1+ 44. Kh2 Qe2+ 45. Kg1 Qe1+
-46. Kg2 Qe2+ 47. Kh1 Qe1+ 1/2-1/2
-```
-
----
 categories:
-- reading
-- blogging
-date: '2023-04-05'
-tags: null
-title: Flow no dia-a-dia e na hora do lazer
+- coding
+date: '2023-04-09'
+tags:
+- interview
+title: Como inverter uma lista ligada
+---
+
+Inverter uma string ou qualquer array em geral é muito simples se for pensar: itere do começo ao fim e do fim ao começo trocando as posições dos primeiros elementos com os últimos. Caminhe até a metade. Fim.
+
+No entanto, para uma lista ligada a coisa não é tão intuitiva assim. É necessário um certo manejo e um certo entendimento de como uma lista é estruturada durante a troca de ponteiros.
+
+O passo a passo parece simples:
+
+- Declare três nodes: anterior, atual e seguinte;
+- Enquanto no node atual o node anterior será nulo;
+- Deixe o próximo do atual ser o anterior para inverter a lista;
+- Em cada iteração do loop os nodes atual e anterior são incrementados por 1.
+
+Esse desafio tem seus truques. O importante na lógica abaixo é atravessar a lista mantendo o tracking dos elementos seguinte e anterior. Tendo o elemento atual, anterior e próximo a troca de posições se torna simples, mas não tão simples quanto você deve estar imaginando porque:
+
+- o node seguinte se torna o próximo do atual;
+- o próximo do atual se torna o anterior (aqui é a invertida);
+- o anterior se torna o atual (aqui é o passado);
+- o atual se torna o próximo;
+- continue até que o antigo final da lista se torne o novo head, apontando para o último anterior.
+
+```
+H -> 1 -> 2 -> 3 -> 4 -> 5 -> 0
+1 -> 0
+2 -> 1 -> 0
+3 -> 2 -> 1 -> 0
+4 -> 3 -> 2 -> 1 -> 0
+5 -> 4 -> 3 -> 2 -> 1 -> 0
+H -> 5 -> 4 -> 3 -> 2 -> 1 -> 0
+```
+
+Os passos numerados estão de acordo com o código C++ abaixo:
+
+```
+shared_ptr<LinkedList> LinkedListReverse(shared_ptr<LinkedList> head)
+{
+    shared_ptr<LinkedList> present = head->next; // begin
+    shared_ptr<LinkedList> preceding = nullptr;
+    shared_ptr<LinkedList> following;
+
+    while (present != nullptr)
+    {
+        following = present->next; // 1
+        present->next = preceding; // 2
+        preceding = present;       // 3
+        present = following;       // 4
+    }
+
+    shared_ptr<LinkedList> rhead = make_shared<LinkedList>();
+    rhead->value = 0;
+    rhead->next = preceding;
+    return rhead;
+}
+```
+

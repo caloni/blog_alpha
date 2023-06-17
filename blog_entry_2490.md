@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-08-20'
+date: '2015-01-24'
 tags:
 - food
-title: Nederburg 1791 Cabernet Sauvignon 2016
+title: Nerderburgh Sul-Africano 2013
 ---
 
-Corpo leve, Cabernet bem comum; um pouco azedo, nada tânico. Lasanha na casa de Dona Neusa em casa cheia.
+Assim que abriu, vibrante, frutado. Depois de um tempo há um azedo bem presente. Bem azedo, um tanto forte demais em sua intensidade.
 

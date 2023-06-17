@@ -1,16 +1,18 @@
 ---
 categories:
 - writting
-date: '2010-09-03'
-link: https://www.imdb.com/title/tt1467388
+date: '2017-04-16'
+link: https://www.imdb.com/title/tt2937158
 tags:
 - movies
-title: Nosso Lar
+title: Nota de 1000 Rúpias
 ---
 
-Nosso Lar é um exercício de paciência para quem assiste, sempre em busca de um motivo de sermos levados aos mundos idealizados pelos espíritas, procurando algo pelo que torcer, algo por esperar ou acompanhar. Mas é difícil manter esse ritmo quando nunca enxergamos o fio condutor de alguma narrativa, por menor que seja.
+Um pequeno conto indiano em formato de filme, narrado quase como uma peça de teatro com enquadramentos poéticos e dramáticos no melhor estilo Central do Brasil, Nota de 1000 Rúpias caminha pelo inevitável drama do povo indiano e sua pobreza explorada ou subjugada pelos ricos e poderosos e corruptos políticos e seus asseclas, igualmente alheios à imoralidade de suas ações.
 
-É nesse clima que ocorre um dos primeiros filmes com um trabalho de direção de arte mais complexo que o que geralmente vemos no cenário nacional. Por outro lado, todo esse trabalho é tão vazio quanto a história, sendo uma pena tanta competência em distinguir os três mundos vistos (a terra, em sua fotografia saudosista, justamente pela narrativa seguir a primeira metade do século passado; o umbral, com seus lamaçais irradiados por um roxo tenebroso e sombrio (note a quebra das cores no primeiro corte do nosso lar para esse mundo, quando a câmera desce em direção ao tenebroso); e o nosso lar do título, um lugar claro, com predominância do branco, acompanhado por uma trilha sonora que beira o tédio, seja recompensado pela falta quase completa de tensão do começo ao fim.
+O filme começa bonito e simples. Uma mulher que perdeu seu filho agricultor, que se suicidou depois de não conseguir pagar sua dívida ao agiota, ganha notas de 1000 rúpias de um político durante um discurso em seu vilarejo. Acostumada a gastar em torno de 2 a 3 rúpias diárias, no máximo, ela se vê agora com o grande problema de conseguir gastar aquelas notas graúdas no mercado de um vilarejo maior. Acompanhada pelo seu amigo e afilhado na prática, eles se veem em confusão quando são acuados por um policial que não possui o mínimo de decência ou respeito por pessoas simples e humildes.
 
-Para variar, como toda cinegrafia de um filme espírita, há uma lição de moral baseada no além-vida. E, também para variar, essa lição toma contornos bíblicos com uma moral "obedeça ou verá", sem nenhuma tensão que a faça se tornar minimamente memorável depois de acabar.
+A atuação da velha senhora é uma pequena pérola na primeira metade, que exige um folclore além do normal. Com tomadas coloridas com fachos de luz lúdicos que passam pelo seu dia-a-dia, essa parte é vital para a segunda metade, quando o drama se instaura, e o terror da impotência dos remediados é o combustível para este drama. Porém, aqui a personagem se vê limitada pela atuação da atriz, e o cinema indiano fica mais uma vez preso aos arquétipos de heróis pobres e humildes e vilões ricos e poderosos. Se transforma em uma novela sem ter muito o que mostrar.
+
+Exceto, claro, toda aquela poesia em torno dos valores corrompidos de uma Índia fadada ao fracasso. E quando pensamos um pouco mais além, vemos que o problema é bem maior: é um fracasso de toda a humanidade, refém de sua própria incapacidade de tomar as rédeas de sua vida e ser dominada por uns poucos mafiosos e seus paus mandados. Sabe como é: o que seria da democracia sem esses senhores bem-intencionados?
 

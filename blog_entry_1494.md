@@ -1,16 +1,20 @@
 ---
-
-Esse foi o primeiro filme que eu vi no cinema. Não me lembro de tê-lo revisto por inteiro depois (nem na televisão) e curiosamente me recordo quase que na íntegra toda sua divertida e poderosa narrativa (diferente de Superman III, que vi no cinema três anos depois). É o tipo de filme que adultos e crianças podem gostar, mas provavelmente será por motivos diferentes. Antes eu adorava pelas invenções que o jovem Macaulay Culkin criava quase que de maneira sobrenatural (afinal, um menino de oito anos não teria tanta criatividade, pensava, lá com os meus... dez anos). Agora eu adoro pela apresentação de seus personagens, sua história, seus cenários, sua trilha sonora, seus enquadramentos feitos sob medida. Tudo para acreditarmos que é possível que uma família esqueça um de seus filhos sozinho em casa enquanto parte para uma viagem em um lugar distante. No Natal.
-
-Macaulay Culkin está longe de ser um bom ator, mas como vários atores-mirins, sua cara lembra expressões que combinam com o personagem que representa. Seu sucesso em Esqueceram de Mim, Meu Primeiro Amor e O Anjo Malvado construíram uma espécie de trilogia ocasional, onde no primeiro filme ele começa como a criança inocente e "adorável", enquanto no último passa a ser o antagonista mais temido (por lembram alguém inocente). Infelizmente os holofotes prematuros geraram problemas familiares e pessoais que o deixaram de lado na carreira da telona. Para ter uma ideia, o último trabalho que consta de Culkin no IMDB se entitula Macaulay Culkin Eating a Slice of Pizza (e, sim, é exatamente isso que ele faz nesse curta).
-
-É importante notar que este é mais um filme com as mãos de John Hughes (Clube dos Cinco, Curtindo a Vida Adoidado) como produtor e roteirista, além do diretor Chris Columbus (Os Goonies, Gremlins). Para finalizar o trabalho sensacional que os dois fazem de uma história que tinha tudo para ser uma comédia pastelão esquecível, o compositor John Williams cria um tema para Home Alone que, para variar, se torna inesquecível (tocá-la em diferentes momentos com diferentes tons e versões também ajudou um pouco).
-
-Independente de ter envelhecido bem, filmes como esse lembram que envelhecemos junto com os filmes, e uma revisita sempre é bem-vinda. Nunca sabemos quando iremos discordar de nós mesmo. Existe um podcast antigo de nerds que cunhou a regra dos 15 anos, sobre filmes supostamente ruins que assistimos em uma época que temos pouco senso crítico, ou seja, abaixo dos 15 anos de idade. Mas nem tudo que "é ruim" e adoramos segue essa regra. Experimente.
-
----
 categories:
-- coding
-date: '2011-01-17'
-tags: null
-title: Esse ponteiro vai até onde?
+- writting
+date: '2022-05-27T20:08:07-03:00'
+tags:
+- cinemaqui
+- movies
+title: Está Tudo Bem
+---
+
+Até o último momento você pensa que o velho homem estava se sabotando. Seria um bom final. Feliz, aliás. Quantos de nós simplesmente não suporta mais viver? Porém, a protagonista, Emmanuèle, é sua filha, e ela carrega essa relação sempre conturbada entre as gerações em que os traumas da infância batem à porta nos dias finais da pessoa que a criou. Você sente que o velho homem é um sacana esperto e manipulador que não tem muito apreço pela família ou amigos, o que ajuda a mantermos uma distância de sua iminente morte, mas não sabemos se essa é a visão da filha. Bom, de qualquer forma, em Está Tudo Bem, como o título já sugere, nós nem sentimos pelo estado lamentável de um moribundo. Desde, é claro, que ele seja rico e possa se dar ao luxo de escolher como deseja terminar sua vida.
+
+Dirigido e escrito por François Ozon (Frantz), o tema da eutanásia até é colocado sobre a mesa, mas não é o principal. Este é um filme mais sobre o sofrimento familiar que está por trás das decisões difíceis a respeito dos que amamos ou nos apegamos. As pessoas seguram esse fardo até o último momento, e muitos até anos após a perda, e parece que alguém não vai aguentar. No entanto, quem já perdeu alguém muito querido, mas antes teve que carregar essa difícil situação por vários meses ou anos, vai sentir aquele despertar que se segue depois que o "assunto" finalmente se encerra.
+
+Há um humor peculiar no sujeito em questão, o que trivializa o drama do filme. Seu intuito é, pelo menos em partes, ser uma comédia de situação com um tema relativamente sensível. O lado prático e as dificuldades da dinâmica de seus personagens gera a comédia. E apesar de ricos franceses, nós sentimos que a eutanásia ainda é um caminho bem difícil de percorrer no primeiro mundo; pelo menos há a Suíça, logo ali, na vanguarda das liberdades individuais.
+
+Ozon pega o livro de Emmanuèle Bernheim (biográfico) e gera tensão através de um roteiro fácil, quase automático, então não há graça alguma. Não há desafio a ser transposto, apenas situações para serem observadas que não nos dizem nada. É um passatempo comercial, como têm se tornado vários exemplares franceses ao longo desta década. O mundo dos brancos ricos carece das cores vivas e eróticas da rotina dos menos privilegiados, que sempre geram momentos mais interessantes de se acompanhar. Deve ser por isso que se fazem tantos filmes de miseráveis. Há um charme entre os cineastas de classe média em filmar aqueles que nunca foram e nunca serão. O que é completamente diferente de filmar a si próprio e enxergar um vazio interior tão grande que o resultado ecoa pelos corredores da mesmice.
+
+Você não vai querer se matar assistindo a Está Tudo Bem. Tampouco irá se sentir bem. É um filme leve e divertido quando não deveria ser. Há algo de muito errado nessa trajetória, e me pergunto como seria um filme sobre os motivos que fizeram Emmanuèle escrever seu livro. Isso, sim, é conteúdo provocativo. Artístico. Ver ricos moribundos no cinema só funciona se nós enxergamos o outro lado, os pobres, olhando do lado de fora.
+

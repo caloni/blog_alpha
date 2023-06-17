@@ -1,60 +1,21 @@
 ---
-categories: []
-date: '2016-08-30'
-tags: null
-title: Programa, Mãe Foca!
+categories:
+- coding
+date: '2020-03-15'
+title: Projeto Hu Cpp
 ---
 
-A história das metodologias de desenvolvimento de software segue mais ou menos as oscilações naturais do próprio software: caminha em direção ao caos (e as sessões de refactory buscam desacelerar essa inevitável tendência). Assim como aquela classe que parecia perfeita assim que foi feita, uma metodologia irá se desmanchar frente à lei da mediocridade. Você não consegue software bom com programadores ruins seguindo a melhor metodologia do planeta.
+Utilizo o Hugo como renderizador do meu saite já faz um tempo. Depois que juntei os posts do finado Cine Tênis Verde e do meu blogue técnico a soma dos textos ultrapassou a marca dos dois mil. Atualmente levo cerca de quinze segundos para renderizar todo o saite antes de publicá-lo.
 
-Então a solução nunca parece ser a metologia, já que programadores ruins não melhorarão seguindo qualquer metologia que seja.
+Não é uma marca ruim, considerando que estamos com quase três mil textos, e embora o leiaute do saite seja muito simples, é justamente o que eu desejo para rápido carregamento e busca. Não tenho do que reclamar.
 
-Porém, existe um método infalível. Um método que transforma os programadores mais UML do mundo em fazedores de código inquebrável. Programadores acostumados a 15 horas de reunião semanal fritando o processador de produtividade, esbanjando atalhos no Vim, coordenando threads como um maestro que coordena uma orquestra sinfônica tocando a trilha sonora da sua vida.
+Porém, um programador C nunca fica satisfeito com uma solução Golang.
 
-Esse método chama-se: Programa, Filho da P\*\*\*
+Sabe esses pensamentos que não saem da cabeça? Estava devaneando há uns dias sobre se não seria interessante renderizar meu saite usando uma solução em C ou C++ e ver qual seria o resultado. Claro que seria uma solução in house, cheia de bugs e completamente limitado. Mas quem liga? Meu único objetivo é a diversão, e não pretendo criar um produto genérico. Hugo já satisfaz até o mais exigente dos programadores (exceto o Elias), pois resolve vários problemas do interminável conflito entre conteúdo e design.
 
-{{< image src="O2dhzNc.png" caption="" >}}
+Por falar no dito cujo, me lembrei da nossa disputa no saite Os Programadores. Era uma resolução de exercício envolvendo leitura e parseamento de um arquivo json. Tive o insight de usar algo parecido com o que desenvolvi naquela vez.
 
-Ou, do inglês, PMF.
+O código que bolei lê um arquivo markdown e divide o header nos campos que eu utilizo e o texto em parágrafos. Esse é o começo mínimo para começar a converter os arquivos em html. Ele usa o mapeamento de arquivo em memória como no desafio do saite. Não precisaria, mas já que a diversão é fazer mais rápido que o Hugo, por que não?
 
-E o que o PMF tem a oferecer? [Esse cara](http://c00kiemon5ter.github.io/code/2011/04/16/Development-Methodologies.html) parece ter o esboço da resposta:
-
-```
-> Como nós iremos resolver problemas?
-> Programando, filho da p\*\*\*
-> Como nós iremos testar?
-> Programando, filho da p\*\*\*
-> Como iremos completar tarefas no prazo e abaixo do orçamento?
-> Programando, filho da p\*\*\*
-> Como nós iremos ter certeza que os programadores estão felizes e fazendo o seu serviço?
-> Programando, filho da p\*\*\*
-```
-
-E como ele pretende fazer isso? Bom, existe um algoritmo, é claro:
-
-1. Escreva uma lista da p\*\*\* que você tem que fazer, usando software escrito por algum programador filho da p\*\*\*
-2. Faça algumas dessas p\*\*\*s, novamente usando "programação, filho da p\*\*\*
-3. Teste se essa p\*\*\* está boa, e se não estiver então conserte com programação, filho da p\*\*\*
-
-E se você está preocupado com o foco muito no código, e não nos resultados para seu cliente, existe até um "capítulo" sobre gerência, a "Gerência, C*zão":
-
-> Para fazer Gerência, C*zão, você deve fazer o seguinte:
->
-> 1. Ache o que os clientes querem perguntando para eles.
-> 2. Arrume a p\*\*\* que os Programadores Filhos da P\*\*\* precisam fazer.
-> 3. Fale para os Programadores Filhos da P\*\*\* quando as p\*\*\* que eles fizeram não está boa o suficiente para vender.
-
-Simples e conciso. Acho que até a gerência deve conseguir se lembrar desses três passos.
-
-### O que há de errado com metologias Bazinga?
-
-Não há nada de errado em usar outras metologias em cima da PMF, mas há tudo de errado em substituir uma coisa por outra. A PMF é primordial para terminar alguma coisa. É o suprasumo da eficiência. Com ela todas as coisas eventualmente são solucionadas. Usar apenas a metologia do seu coração sem aplicar PMF não irá entregar nada.
-
-E por mais curioso que seja, há de fato uma tendência nas pessoas de enxergar a solução de todos os seus problemas não fazendo absolutamente nada. Apenas preenchendo cartões em um dashboard. Não é bem por aí. Claro que há uma parcela de nada que pode ajudar a organizar a bagunça que é uma equipe de programadores batucando código, mas esse nada nunca pode atrapalhar os... programadores batucando código!
-
-Afinal, é com código que se constrói algo, certo? Seja aumentando, modificando ou apagando código. Seja transformando código em um passo-a-passo em um txt. Ou em um papel de pão. Código é apenas uma abstração de resolução de problemas. O quão bem você resolver o problema é o que conta, não a sua linguagem de programação do coração. Muitos problemas podem ser solucionados apenas com papel e caneta (ou lápis). Linguagens de programação, até certo ponto, podem virar também metodologias mágicas que prometem entregar soluções mágicas sem dor.
-
-Mas adivinha, só? Seu cliente está c\*g\*n\*do qual é a linguagem, a ferramenta, o tamanho da fonte. Ele só quer seu problema resolvido.
-
-Então o jeito é: "Puroguramingu, Mazaafakkaa!" =)
+Meu próximo passo é pegar esse parser e converter todos os arquivos para html, da maneira mais porca possível. Quer dizer, quase da maneira mais porca. Não estou usando Pascal.
 

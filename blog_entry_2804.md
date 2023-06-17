@@ -1,20 +1,16 @@
 ---
 categories:
 - writting
-date: '2018-01-14'
-link: https://www.imdb.com/title/tt1485796
+date: '2019-03-06'
+link: https://www.imdb.com/title/tt0318403
 tags:
 - movies
-title: O Rei do Show
+title: O Rei Leão 3 Hakuna Matata
 ---
 
-O Rei do Show já foi formatado para ser de fato um show. Na broadway. Todos os elementos permanecem em cena. De repente um grupo começa a cantar (de novo! e de novo!) e eles participam de todos os cenários e grupos no palco na mesma canção. O show que está sendo celebrado é o da própria vida. Os números de dança não privilegiam ninguém em específico. Todos possuem igual importância no quadro. Tal qual a vida. Estamos todos aqui, na mesma pedra rochosa orbitando uma estrela média e onde as pessoas ainda têm medo e raiva do diferente. Só nos resta cantar em vez de falar. Não porque estamos em um musical, mas porque essa é a maneira de espantar o lado sombrio de nossa existência.
+Se Shakespeare tivesse visto essa versão de Rei Leão ele teria feito uma segunda versão de Sonhos de Uma Noite de Verão. Subtítulo: Hakuna Matata.
 
-Este filme do estreante Michael Gracey segue um roteiro delirante escrito por duas pessoas fora da sua área de conforto: o produtor da série Sex and the City e o diretor de Crepúsculo - Amanhecer. A história é aquele clichezão do garoto pobre que constrói sua própria sorte e corre atrás da garota que ama e do seu grande sonho: se tornar alguém importante nos holofotes. Ele fabrica então seu espetáculo abraçando o que todos ignoram, incluindo suas próprias famílias: humanos com uma ou outra deficiência. Um anão, uma mulher barbada, um homem extremamente alto, outro extremamente gordo e por aí vai.
+Essa é uma repaginada para Home Video do neoclássico da Disney com a participação especial de Timão e Pumba, os palhaços do original e que aqui são devidamente colocados como coadjvuvanistas de sua própria jornada. Há várias referências da história original para não perdermos a cronologia e para piadas auxiliares, mas nem é necessário, pois essa suricata e esse javali são companhia o suficiente. Uma vez que se juntam a química faz parte do processo.
 
-A produção deste filme é impressionante. As cores vibram, as luzes estão nos lugares certos e há ação a todo momento, mas enquadramentos muito loucos nos fazem perder o fio da meada e não conseguir ver direito o que está acontecendo. Mas tanta coisa acontece que isso não importa. Não há nenhuma sequência memorável neste filme, mas há muitos quadros que vez ou outra estão muito mais certos do que o conjunto da obra. E quando isso está cercado de boas músicas com bons intérpretes o emocional fala mais alto.
-
-Não que o grupo de atores seja formado por apenas ótimos cantores. É justamente o contrário e é aí que reside o truque. No filme há uma cantora de verdade, na figura da atriz Rebecca Ferguson (e dublada pela sensacional cantora Loren Allred). É ela o comparativo com a trupe de artistas que arrisca seus números. Incluo aí Hugh Jackman, que já tinha nos tentado em Os Miseráveis. Funciona porque é esta a ideia martelada no filme: todos possuem um lugar ao sol, seja um cantor medíocre, pobres ou pessoas com disfunções genéticas. A questão é: todos são pessoas.
-
-É difícil analisar a atuação em cena, pois tudo se resume a coreografia, que é confusa, rápida demais. Mais uma vez os enquadramentos confusos, junto de uma edição frenética (para dizer o mínimo) feita por nada menos que seis pessoas! E a trilha sonora continua. Ela sempre continua. Quando queremos uma pausa, alguém vai começar a falar... e canta. Hugh Jackman está impossível. De três coisas que ele tem pra falar ele acaba cantando quatro. E quando finalmente ele começa a apenas falar, no momento seguinte algumas notas são ouvidas e... começa um novo número. Broadway irá adorar este show. Como cinema, se mantém bonitinho e agradável para o grande público. Pelo menos é fiel a esta ideia, no filme e na vida real.
+Os idealizadores dessa história foram claramente contratados para produzir um conteúdo Home Video, mas nem por isso o resultado deixa de ser simpático. Este é um material de segunda produzido como de primeira, o que o torna acima da média para quem está alugando o DVD para deixar com as crianças. Deem uma olhada, adultos. Há uma pequena pérola aqui sobre a magia e a arte de estar de boa na lagoa.
 

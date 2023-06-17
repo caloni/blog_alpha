@@ -1,20 +1,22 @@
 ---
 
-Se a primeira aventura do até então desconhecido Homem de Ferro impressionou o público, a crítica e a própria Marvel, essa continuação morna é a consolidação de Tony Stark como garoto-propaganda dessa fase. Não só isso, mas serve como o gancho que os produtores precisavam para inserir novos personagens secundários que serão mais ou menos relevantes na teia de eventos (ou colcha de retalhos) criada em torno da tão esperada estreia de Os Vingadores, filme que pretende unir uma série de heróis que terão cada um seus trabalhos solo. Uma aposta inédita que parece ter ganhado força justamente por conta da atuação surpreendente de Robert Downey Jr.
+Durante praticamente toda a duração de Homem Livre um pensamento inquieto não deixava de passar pela minha cabeça: quem diabos respeita alguém chamado Hélio Lotte? Bom, Hélio foi um músico famoso com esse nome, o que já levanta suspeitas de que há algo errado nesse filme. Depois descobrimos que ele cometeu um assassino e saiu aparentemente intacto da prisão. Ou seja, sem traumas sexuais. Eu nunca esperaria tamanha dignidade de um Hélio Lotte.
 
-Aliás, se no primeiro filme ele consegue expressar tão bem a dualidade entre realismo e quadrinhos, aqui ele mantém sua simpática arrogância, favorecendo um roteiro menos ambicioso e mais burocrático, que se importa pelo menos em situá-lo naquele universo como um herói já consolidado. Exceto, claro, pelas preocupações monopolistas e bélicas do governo americano. Já do lado do povo... bem, ele voa em um robô de ferro. Se eu fosse um garoto, não precisaria de mais nada para adorá-lo.
+Esse devaneio sobre nomes vem à cabeça durante a projeção porque ela é muito lenta. A desculpa é criar tensão, pois este é um thriller psicológico que tenta chegar perto de trabalhos como O Operário, mas por querer abraçar o mundo com sua narrativa sobre igreja, corrupção, sociedade e culpa se revela mais como esquizofrenia roteirística braba.
 
-Mesmo assim, ainda precisamos de um vilão nos moldes de alguém para dar porrada, e apesar do Victor criado pelo bem-vindo Mickey Rourke (O Lutador) ser um candidato à altura, seu desenvolvimento na história segue a aborrecida cartilha de arqui-inimigos ressentidos por acontecimentos passados. Mas não me leve a mal: seu ódio por Stark é bem justificado, mas não a sua execução, que lembra vilões mais descerebrados e instintivos do que poderíamos esperar do gênio que Victor seria pela sua história.
+A história, porém, é básica: Hélio era um músico famoso que cometeu um assassinato e está saindo da prisão depois de 13 anos preso, acolhido por uma igreja evangélica de bairro indicada por seu irmão. E o medo se instaura na gente a partir do momento que ouvimos o Pastor Gileno (Flavio Bauraqui) falar mansamente com um sorriso obrigatório e um olhar que quer dizer algo mais que não sabemos. Não te dá medo pessoas de fala mansa dentro de igrejas? O mistério é alimentado mais ainda por um protagonista cuja única função na história (uma interpretação simples de Armando Babaioff) é ficar calado, cabisbaixo e olhar com desconfiança para todos, enquanto delira que pessoas estão tentando lhe fazer algum mal.
 
-Porém, não contentes com dois conflitos - e essa é uma continuação decente da história do primeiro filme - o "coração" energético e radioativo criado por Stark se mostra instável demais. Agora ele precisa consertar isso e manter sua vida e seus poderes intactos, o que envolve dois desafios particularmente inteligentes: resgatar o passado com seu igualmente gênio pai, e ultrapassá-lo em genialidade. Um drama tão comum envolvendo pai e filho e que por isso mesmo funciona tão bem. Às vezes as melhores ideias nos filmes de super-heróis não vêm de mega-vilões.
+Toda a trama por trás do desafio de Hélio em voltar às ruas e recomeçar sua vida é o que torna Homem Livre minimamente interessante. No começo da história eu anseio entender qual é o problema desse rapaz que mudou de vida por alguma besteira que fez no passado e que agora tem medo do que as pessoas irão fazer se descobrir que um assassino está à solta. É uma premissa digna de thriller. Mas qual a origem verdadeira de suas paranóias alimentadas noite e dia?
 
-Para finalizar, a receita básica aprendida em O Homem-Aranha de Sam Reimi. Você não mantém mais a tensão sexual entre heróis e mocinhas, mas deixa fluir. No caso do mulherengo Tony Stark, uma péssima ideia, pois tira a força ou imunidade ou influência que sua secretária aparentemente tinha sobre ele, como se fosse a única conquista inalcançável do herói. Aparentemente, o novo poder dos heróis dessa época é conseguirem o que quiserem sem muito esforço, nem arranhões, e muito menos sangue.
+Nunca saberemos. O filme está mais interessado em nos entregar inúmeros jogos de cena que nos fazem entrar em seu delírio sem nunca nos revelar o mecanismo por trás de sua dor. Há um ótimo momento onde Helio vê um vulto na cozinha de noite, mas quando acende a luz esse vulto desaparece. O que isso significa? Essa é a sua vítima? Mas por que ela está perseguindo seus sonhos? Quem é ela? Por que uma crente ninfeta de 18 anos está tão interessada em se entregar para nosso amigo Hélio Lotte? Sabemos que ela existe, o que estraga a reviravolta clichê dela ser um fantasma. Mas ela representa um fantasma do passado. E mais uma vez há o interesse do espectador em descobrir que fantasma é esse.
+
+Mas o roteirista Pedro Perazzo não nos quer contar. Ele fica repetindo a mesma cena de Hélio em um carro prestes a atropelar sua vítima -- uma mulher -- mas nunca nos diz como ela se relaciona com a ninfeta. Conforme a história avança as perguntas se acumulam, e respostas não se materializam. E isso aos poucos cansa. Chega uma hora que eu desisto. Não quero mais saber quem foi e quem é Hélio Lotte. Nem sequer mais me interesse pelo mistério de por que as pessoas o respeitam com esse nome. A partir daí basta assistir um filme no automático para depois esquecer.
 
 ---
 categories:
 - writting
-date: '2013-05-03'
-link: https://www.imdb.com/title/tt1300854
+date: '2016-07-22'
+link: https://www.imdb.com/title/tt4029356
 tags:
 - movies
-title: Homem de Ferro 3
+title: Homem na Parede

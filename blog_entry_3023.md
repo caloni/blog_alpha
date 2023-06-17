@@ -1,100 +1,18 @@
 ---
 categories:
-- coding
-date: '2022-11-20T16:10:12-03:00'
-link: https://youtu.be/i9Focx4UXnc
+- writting
+date: '2011-03-22'
+link: https://www.imdb.com/title/tt0480687
 tags:
-- ccpp
-title: Passagem de Parâmetros C vs C++
+- movies
+title: Passe Livre
 ---
 
-Em C não é necessário declarar os parâmetros que uma função recebe. Isso é implícito. A linguagem C foi criada para ser um amontoado de assembly descrito com um pouco de syntax sugar e juntado pelo linker através de uma tabela de nomes. O que importa são os nomes. Vamos exemplificar:
+Seguindo o exemplo de Rango, temos mais um filme com referências sutis que funcionam a maior parte do tempo. Com uma fotografia saudosista, de um granulado quase apático, e trilhas selecionadas a dedo (e não são muitas, já que apenas são inseridas em momentos pontuais), o novo trabalho dos irmãos Farrely (Quem Vai Ficar com Mary; Eu, Eu Mesmo e Irene) se posiciona acima da média das comédias românticas exatamente pela narrativa contida que evita o besteirol já cansativo na maioria das obras do gênero.
 
-```
-int main()
-{
-  int c = func(10, 20);
-  return c;
-}
+E aqui, mais uma vez seguindo essa tendência de mudança nas relações sociais (vide Amor Sem Escalas, e o mais recente Sexo Sem Compromisso), temos uma situação inusitada entre dois casais que irá desenvolver um raciocínio muito similar ao de "Sideways: Entre Umas e Outras": a oportunidade de uma aventura amorosa fora do casamento não é exatamente a idealizada pela nossa imaginação.
 
-func(int a, int b)
-{
-  return a + b;
-}
-```
+Como já havia dito, a decisão foi não inserir música em demasiado, o que, se tratando de uma comédia leve, ainda é uma decisão corajosa. No lugar, temos referências inteligentes e que não agridem nosso intelecto, como o uso do toque impagável da série secular Law & Order (e derivados) para estipular a passagem do tempo, como se estivéssemos presenciando um processo em andamento, ou até mesmo o uso parcial da trilha em que Mia Wallace e Vincent Vega se encontram pela primeira vez em Pulp Fiction, evocando um clima romântico (ainda que velado).
 
-Viu? Você nem precisa conhecer o nome na hora de chamar a função no main. Duvida? Veja o vídeo desse post. Se você colocar cada função em um arquivo separado mesmo assim o compilador compila e o linker acha tudo e tudo funciona.
-
-Isso pode gerar alguns problemas em tempo de execução, já que o linker, assim como o compilador, confia cegamente no programador. Isso acontece porque antigamente os programadores eram bons.
-
-```
-int main()
-{
-  int c = func(10);
-  return c;
-}
-
-func(int a, int b)
-{
-  return a + b;
-}
-```
-
-Para que programadores que não são bons conseguissem programar em código nativo algumas facilidades surgiram na linguagem C++, como a declaração de função sendo levada a sério. No padrão C isso também foi levado em conta. Se você possui uma declaração de função o compilador irá checar os argumentos.
-
-```
-func(int a, int b);
-
-int main()
-{
-  int c = func(10);
-  return c;
-}
-
-func(int a, int b)
-{
-  return a + b;
-}
-
-error C2198: 'func': too few arguments for call
-```
-
-Em C++ com o mesmo código:
-
-```
-error C4430: missing type specifier - int assumed
-error C2660: 'func': function does not take 1 arguments
-error C4430: missing type specifier
-```
-
-Aí vem a questão de como declarar uma função em C++ que não recebe nada. Isso é uma boa prática, mas não obrigatório.
-
-```
-int func();
-
-int main()
-{
-  int c = func();
-  return c;
-}
-
-int func()
-{
-  return 23;
-}
-```
-
-O código acima compila normalmente. E roda. Mas se você por algum motivo está com projeto que tem C arcaico misturado com C++ e precisa definir melhor como as funções se comportam faz assim:
-
-```
-int func(void);
-```
-
-Isso vai funcionar em C e em C++. Em C, se você usar essa declaração e mesmo assim passar argumentos ele irá dar um warning:
-
-```
-warning C4087: 'func': declared with 'void' parameter list
-```
-
-Mas vai deixar rodar. Em C++ não tem jeito. Em C++ ele assume que você não é um bom programador.
+Por fim, confesso que fiquei extremamente satisfeito pela forma sóbria que os conflitos são resolvidos, e mesmo que isso implique em alguns personagens alterados psicologicamente, suas ações em nada diminuem o tom controlado e a direção compulsiva da dupla Farrely, sempre apostando em planos que otimizem o impacto das piadas, ou que economizem o número de cortes, quando não os dois (quando, por exemplo, dois policiais abordam Fred em um ato ilícito).
 

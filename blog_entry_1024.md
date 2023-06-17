@@ -1,20 +1,23 @@
 ---
-
-Um "pai de família" procura um emprego de taxista. E nem como taxista ele é aceito. Então ele caminha pela rua, observa os transeuntes em uma praça, e avista uma senhora idosa vendendo alguma coisa de aspecto sujo em uma forma levantada pelo seu único braço. O outro braço ela não tinha. Ele tem um insight, e decide que precisa fazer um sequestro para conseguir ter meios para viver.
-
-O filme de Julia Rezende baseado na peça de Fernando Ceylão (que assina o roteiro) não deixa de ser teatral, por ter muitas falas, embora os cenários e a movimentação estilo "câmera na mão" aliado a enquadramentos distorcidos daquelas pessoas tentem tornar a história mais dinâmica e mais caricata. Consegue parcialmente. Quem completa é a fotografia de Dante Belluti, que narra uma comédia usando tons opacos que deixam o humor triste.
-
-Isso porque, apesar de ser comédia, "Como é Cruel Viver Assim" tenta ao mesmo tempo ser uma crítica social sobre as injustiças do mundo. Conseque parcialmente. As interpretações inspiradas de Silvio Guindane, como o Primo (esse é o apelido dele) do protagonista que mora com a mãe protetora e tem problemas de temperamento, e de Fabiula Nascimento, como Clivia, a esposa amorosa que faz comentários aleatórios a qualquer hora do dia, pincelam de maneira tão carismática e realista aquele mundo de desajustados tentando sobreviver que ambos já valem o ingresso.
-
-Esta é uma história que você já viu tantas e tantas vezes: filme de sequestro. O planejamento, o contato com o pessoal do crime e, obviamente, quando as coisas dão errado. É por isso que essa pincelada de realidade brasileira, ou melhor dizendo, carioca, é tão vital para tornar o resultado acima da média. Se bem que, vez ou outra, a história tropece em momentos onde o humor escracha, como uma ponta de Otávio Augusto como "O Velho" que tenta ser uma caricatura de Poderoso Chefão de pobre, sentado imponente na metade de uma banheira acariciando um gato mais bem cuidado do que ele. E é uma ponta porque, veja bem, O Velho aparece e some da história em uma cena.
-
-A parte mais corajosa do filme é seu final, inesperado e que faz o espectador refletir por mais tempo que todo o resto. É um final que nos avisa que esta foi apenas uma janela na vida daquelas pessoas, que vão continuar vivendo nessa tragicomédia leve até o final de suas vidas.
-
----
 categories:
 - writting
-date: '2011-08-22'
-link: https://www.imdb.com/title/tt0151804
+date: '2022-10-20T18:53:11-03:00'
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Como Enlouquecer seu Chefe
+title: Como Está Katia?
+---
+
+Do circuito ucraniano nessa Mostra temos este Como Está Katia, um filme tenso que no início parece ser mais um sobre as injustiças do mundo, mas que aos poucos vai descolorindo sua realidade dramática, drenando nossos sentimentos. Logo vemos um mundo onde apesar do egoísmo não ser desejável nos membros de uma sociedade, ele acaba se revelando inevitável ou talvez até necessário.
+
+"Exceto para a mãe de Katia", você diria, caro leitor, humano como eu, e portanto disposto automaticamente a defender o lado mais fraco. Porém, o que não está no script é que nem sempre o lado mais fraco é o que inspira nossa solidariedade. Não se observarmos de maneira totalmente racional. Cada um possui sua agenda. Às vezes é difícil se desvencilhar de sua ideologia, mas faça um esforço. Se coloque no lugar de todos os envolvidos.
+
+A história é simples e direta: Anna é uma médica de primeiros socorros e tem sua filha (a Katia do título) atropelada por uma adolescente, a filha de uma política eminente, e agora precisa decidir entre o sistema de vingança judiciário que colocará a jovem rica na gaiola por uns 2 a 3 anos ou aceitar de bom grado um acordo financeiro que irá resolver boa parte dos seus problemas em família, além dos problemas de publicidade da tal política. Ela pondera sobre isso até o momento que sua filha, na UTI, não resiste. E agora, sim, é sobre "justiça".
+
+A pintura nua da realidade no filme acaba se tornando bem cruel. Como Está Katia faz questão de caminhar por todas as relações da heroína: mãe, irmã e até o amante com família. Tudo para extrair, ou melhor dizendo, drenar as cores de sua realidade. No final não sobra nada. As sombras dominam este drama com todas as forças, e não há forças para suportar o cálculo objetivo de uma equação em que a morte de uma criança está na balança.
+
+Não se busca mostrar os dois lados de uma maneira simplista, mas escancarar a desesperança de um sistema não injusto, mas humano, e portanto falho. Note como todos neste drama estão seguindo seus instintos mais primitivos, o mecanismo de autoproteção, e é isso o que mais dói: é um mecanismo. E as engrenagens que o fazem girar são impessoais. A sensação de não conseguirmos fazer nada a respeito é o que faz com que a fotografia do filme seja tão drenada de luzes, exceto as luzes piscantes da ambulância de Anna que percorre as redondezas em busca da próxima fatalidade.
+
+Como Está Katia é sobre nosso pior lado como sociedade: o distanciamento social metafórico. Ninguém é responsável pelo próximo em uma democracia capitalista, a ficção doentia de que cada um de nós faz parte do mesmo povo. Seja na Ucrânia, no Uzbequistão ou qualquer outro país.
+

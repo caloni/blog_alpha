@@ -1,35 +1,34 @@
 ---
-categories: []
-date: '2010-04-01'
-tags: null
-title: Antigo bem-vindo do Cine Tênis Verde
+categories:
+- writting
+date: '2020-11-14'
+tags:
+- essays
+title: Sobre Nosso Déficit de Atenção
 ---
 
-Olá, caro cinéfilo! Aqui você irá encontrar a coletânea de textos escritos pelo aspirante a crítico de cinema Wanderley Caloni, criado e mantido desde 2010. São mais de 1500 textos sobre filmes e séries, de todos os gêneros, épocas e estilos.
+Nossa sociedade produtiva está doente, mas apenas constatar o fato não começa o tratamento. Nós sabemos os sintomas e a causa. A causa é a evolução tecnológica se aproveitando de nossas falhas biológicas por grandes corporações para vender anúncios. Os sintomas é uma geração inteira diminuindo sua capacidade de concentração e vivendo como autômatos que clicam em links.
 
-Críticos que costumo ler:
+Ironicamente existe [uma análise] feita por Tristan Harris, ex-eticista do Google e filósofo, que relaciona a "indústria da atenção" com a de alimentos, que aumenta níveis de sal, açúcar e outros condimentos para manipular nossa tendência a esses sabores. A nova indústria de entretenimento online utiliza a mesma estratégia, exacerbando nosso mecanismo de recompensas orientado por injeção de dopamina para fazer-nos cada vez mais checar por notificações quando estamos entediados, em um sistema de feedback positivo cujo final é não termos mais paciência para a realidade em nossa volta, e não conseguirmos mais parar de navegar pela infinitas luzes piscantes nas telas de nossos celulares.
 
- - Roger Ebert. O falecido crítico ainda possui seus textos publicados e textos de novos filmes compartilhados entre seus colaboradores.
- - Cinema Em Cena. Textos do melhor crítico técnico do Brasil da atualidade, Pablo Villaça, ativo há mais de 20 anos.
+No livro [Deep Work], de Cal Newport, o autor apresenta uma defesa de que é cada vez mais preocupante a escassez de pessoas no mercado com a habilidade de conseguir se concentrar por muito tempo em tarefas que exigem total atenção. Três trabalhos citados no livro, de William Powers, John Freemans e Alex Soojung-Kin, concordam que ferramentas de networking estão monopolizando nossa atenção, ao mesmo tempo que degradando nossa capacidade de permanecer focados.
 
-Se quiser mais conteúdo sobre cinema segue uma lista de links úteis:
+Apesar de sabermos desse efeito desde o nascimento da TV e dos vídeo-games, é agora que a causa científica da epidemia dos devaneios crônicos está chegando em um consenso. A resposta estaria ligada a uma camada gordurosa de tecido que envolve a conexão entre axônios no cérebro chamada [mielina]. Sua função é proteger e melhorar a comunicação entre as células cerebrais, e melhora aqui se traduz em trocas mais rápidas de informação dentro do cérebro (e com menos ruído).
 
- - Cine Tênis Verde: O Livro. Está à venda na Amazon os textos reunidos do blog desde seu início.
- - IMDB. Base de dados de (quase) todos os filmes da galáxia já lançados ou para lançar.
- - Rotten Tomatoes. Coletânea de reviews na gringa de críticos e usuários.
- - AdoroCinema. O queridinho atual no Brasil de quem curte filmes, possui programação dos cinemas, textos e links de críticas da imprensa e dos usuários do saite.
+Essa camada é construída naturalmente em torno das conexões mais usadas pela repetição de seu uso. As responsáveis por construí-las são outras células que mantêm o sistema neurológico. Elas detectam o uso repetido de neurônios e produzem camadas de mielina para proteger essas conexões.
 
-Assistir filmes pode ser usado como entretenimento e fuga da realidade. E, de fato, a maioria das pessoas usa o cinema para isso (eu incluso). No entanto, como tudo na vida, esta forma automática de reagir ao conteúdo que nos é jogado para consumir não é a melhor maneira de interagir com o mundo, nem de aproveitar duas horas de lazer de sua vida.
+A tradução leiga dessa descoberta científica já é de conhecimento comum há gerações: quando alguém se concentra em aprender algo os alicerces do conhecimento se tornam mais sólidos. Sabemos agora pela ciência que isso acontece porque quando a pessoa está efetuando uma única atividade sem distrações a tarefa de inocular as conexões cerebrais responsáveis por manter a informação não precisa ser compartilhada com outras fontes de atenção. É por isso que se alguém está aprendendo um novo idioma enquanto checa o Instagram essa pessoa absorve menos do que alguém 100% focado no novo conhecimento.
 
-O Cinema se construiu como parte integrante da era industrial, consequência quase que lógica do avanço do capitalismo e do fornecimento de bens e serviços para uma imensa massa que era antes excluída dos bens mais essenciais à vida humana. Isso torna tudo mais complicado, pois como pode, caro leitor, uma obra ser produzida como um produto, um empreendimento de risco, visando o lucro, e ao mesmo tempo conquistar corações e mentes, e, algumas raras vezes, elevar a comunicação audiovisual em um novo patamar estético e ser celebrado como uma nova forma de arte, talvez a mais completa e complexa que um ser humano poderá experimentar neste mundo?
+O importante a se lembrar desse processo no cérebro é que ele é permanente. A pessoa não consegue mais absorver melhor novo conhecimento sobre um assunto com o mesmo potencial de estar aprendendo pela primeira vez. Claro que com mais prática sabemos ser possível melhorar em qualquer área, mas a própria habilidade em aprender está sujeita a essa dinâmica de fortalecimento cerebral, e portanto abalada pelas constantes interrupções e multitarefa da vida moderna.
 
-Para que tudo isso faça sentido é vital que as pessoas assistam cada vez mais e mais filmes, pois apenas pela prática poderemos atingir a excelência em algo na vida. Porém, diferente de consumidores passivos, que deixam seu cérebro em uma tigela enquanto mastigam pipocas como zumbis observando a historinha que é colocada na sala escura cada vez mais cheia de pequenas telas dos celulares dos outros tipos de zumbis, é imperativo que usemos o cérebro e nossa mente como ferramentas de análise crítica do que nos é imposto pela mágica da projeção em 24 (ou 48) fps. Não aguentaremos mais os velhos formatos de uma mídia enlatada se conseguirmos projetar como consumidores ativos para quais tipos de obras dedicaremos nosso tempo e suado dinheirinho.
+Paradoxalmente, por outro lado, é conhecido que a melhor maneira de relembrar um conhecimento obtido anteriormente é interrompê-lo sem concluí-lo. O [efeito Zeigarnik], nomeado por causa da cientista soviética que o descobriu, é o motivo pelo qual é muito mais simples continuar o trabalho do dia anterior se ele estiver com lacunas a ser preenchidas. Exemplos seriam um escritor que deixa um parágrafo pela metade ou um estudante que deixa um cálculo matemático a terminar. É importante lembrar, porém, que houve tentativas mais recentes de tentar reproduzir este efeito sem sucesso. Acredite com cautela.
 
-E é essa a humilde proposta do Cine Tênis Verde, um canal de textos pretensiosamente simples que buscam fazer rápidas análises de filmes de todos os gêneros, línguas, povos, públicos e orçamentos. Nesta primeira edição do livro você irá encontrar a compilação de cerca de 1300 destes textos, escritos desde a fundação do blog em 2010, indexados por título, ano da obra, diretor, roteirista, elenco e ordem de entrada no blog (a leitura natural do livro). Haverá vários erros de gramática e ortografia que não foram pegos a tempo, além de textos iniciais que apenas listavam anotações feitas durante o filme (algumas, quase nenhuma, com alguns spoilers... esteja avisado!).
+Por fim, a tecnologia crescente pode estar desempenhando uma mudança mais significativa do que imaginamos na concepção do que é ser humano. Essa afirmação não está pautada em estudos, mas em observação humana. Daniel, o autor do texto [Technology is Heroin](http://tiny-giant-books.com/Entry1.html?EntryId=recgcpfuOFUesUpRy), relaciona o uso passivo da evolução em comunicação e entretenimento com a evolução do uso de drogas como heroína e ópio na época que eram comprados na farmácia da esquina. Na época a sociedade diminuiu sua produtividade, a economia começou a sofrer e a função humana nas relações sociais e de trabalho estava colapsando como um todo (carece de fontes). E a tecnologia poderia ser a segunda onda a destruir essas mesmas relações, ou transformá-las de maneira radical.
 
-Também há uma seção onde a ficha técnica de todos os trabalhos estão listadas, ao lado de uma clássica cotação de cinco estrelas. Os links entre textos e fichas existe para você poder caminhar com mais ou menos detalhes sobre o filme. Se preferir ler apenas os textos, apenas o diretor e o ano estarão especificados (além do ano em que o texto foi escrito).
+O surgimento do gramofone, do rádio, da TV e dos video-games, segundo o autor, está tornando as relações dos indivíduos com sua realidade cada vez mais um ato passivo, e não mais ativo, como era quando os tempos eram mais difíceis ou manuais, e até visitar um amigo ou ouvir sua música favorita era um esforço e tanto. Claro que o texto parte de um ponto de vista mais bucólico e talvez possa ser descartado em seu todo, mas sua mensagem parece possui algo inerentemente verdadeiro nos tempos de hoje: observamos jovens e adultos cada vez mais passivos e alheios à sua realidade, cada um criando sua própria bolha para se proteger do mundo cruel que um dia existiu lá fora.
 
-Por fim, espero que goste. O conteúdo continuará sendo atualizado (e corrigido) no próprio blog (http://www.cinetenisverde.com.br), e futuras edições irão surgir para a comodidade de uma leitura fluida. E nosso objetivo continuará sendo entender que todo filme, assim como tudo na vida, é melhor apreciado com o cérebro.
-
-UPDATE: o domínio do blogue Cine Tênis Verde foi extinto; agora todos os posts de lá estão no meu domínio principal (http://www.caloni.com.br).
+[uma análise]: {{< relref "leitura-how-technology-hijacks-peoples-minds" >}}
+[Deep Work]: https://caloni.com.br/deep-work/
+[efeito Zeigarnik]: https://en.wikipedia.org/wiki/Zeigarnik_effect
+[mielina]: https://pt.wikipedia.org/wiki/Bainha_de_mielina
 

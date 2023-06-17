@@ -1,16 +1,24 @@
 ---
 categories:
 - writting
-date: '2010-10-08'
-link: https://www.imdb.com/title/tt1555149
+date: '2017-10-29'
+link: https://www.imdb.com/title/tt2356777
 tags:
-- movies
-title: 'Tropa de Elite 2: O Inimigo Agora é Outro'
+- series
+title: 'True Detective: Primeiras Impressões do Piloto'
 ---
 
-Os trailers da continuação da história do morro do ponto de vista do Cap. Nascimento deixam bem visível, inclusive no seu subtítulo, que iremos acompanhar uma nova guinada na explicação do sistema, algo um pouco mais acima da hierarquia: vai entrar no mundo da política. Isso pode dar a impressão que a história ficaria mais monótona e com pouca ação. Talvez dê até a impressão que não será possível fazer os belos quadros que vimos no primeiro, que junta todos os pontos da narrativa de maneira tão eficaz. Ledo engano: essa continuação fica ainda mais densa e com uma história ainda mais perversa e criativa, nos dando a oportunidade de ir mais além na história do morro, imaginando como seria se o BOPE realmente detonasse os traficantes.
+True Detective, em sua primeira temporada, é uma série que apresenta Matthew McConaughey e Woody Harrelson em papéis principais em uma narração dupla baseada em depoimentos e flashbacks. Ao final do piloto percebemos que o assunto em que ambos estavam sendo investigados continua à tona, o que gera um dos ganchos mais impressionantes em uma série. Ambientado em Lousiana com locações em lugares pobres e isolados, esta é uma série que por estas pistas já deveria chamar a atenção de quem está procurando por algo acima da média. Mas deixe-me explicar como se chega a essa conclusão assistindo apenas ao primeiro episódio.
 
-Os cortes entre a teoria (o professor de história e defensor dos direitos humanos explicando sobre os presídios) e a prática (os prisioneiros invadindo uma facção e matando) também facilita vermos de ambos os lados, ambos pontos de vista. E quando isso se junta com o Gaspar chegando no presídio para negociar com os detentos a coisa toma uma nova dimensão. O diretor economiza nos cortes de maneira eficiente, e quando o Cap. Nascimento vai dar uma bronca no Matias por este ter falado mal do governador e ter sido preso por 30 dias, a câmera está voltada para nós, e é quase diretamente para nós que ele fala. Logo depois, a câmera vira, pois o Matias é que retruca, e vemos a cara do capitão no espelho do banheiro, tudo em uma tomada.
+Recentemente meu amigo me convidou a assistir um vídeo, "How to Recognize a Great Anime (in just one episode)", onde o piloto de Steins;Gate era escrutinado. O argumento do autor é que a qualidade de qualquer anime pode ser analisada apenas através do seu primeiro episódio. Mesmo polêmico, a "fica melhor depois" série de animação de viagem no tempo "Steins;Gate" segue de fato essa regra. Fiquei interessado se isso seria possível de extrapolar para séries em geral, ou até filmes mais longos. De fato, já havia ouvido falar de críticos que afirmam que os primeiros cinco minutos de um filme já são suficientes para pelo menos julgar se você irá ou não gostar do resultado completo.
 
-Por fim, mais um ato final de coragem, terminando a narrativa levantando mais uma vez o comando, com a aérea de Brasília, deixando o planalto e a bandeira do Brasil para trás.
+Pois bem. Resolvi fazer isso com True Detective. Observei sua estrutura narrativa, suas atuações, sua fotografia, seus ângulos e seu roteiro. O primeiro enquadramento, assim como "Steins;Gate", mostra o ponto de vista de uma câmera caseira filmando um dos protagonistas, o interiorano, boa gente, mas preocupado Detetive Mary Hart (Woody Harrelson). Repare suas pausas, seu modo de falar, sua escolha de palavras. Ele está dando um testemunho sobre seu antigo parceiro, o Detetive Rust Cohle, e embora se sinta incomodado com isso, ele bate na tecla mais de uma vez de como ele era inteligente e um "bom detetive". Em certo momento ele move as duas mãos, como que para cunhar o termo especialmente para seu parceiro: "ele é um bom detetive". Note seu modo pausado de afirmar isso.
+
+Hart está devidamente vestido, arrumado, e parece ainda exercer a profissão. Ao mesmo tempo acompanhamos o testemunho de Cohle, cujas roupas surradas, cabelo, barba e seu hábito de fumar e beber parecem dizer o exato oposto. Mas entendemos o futuro desses dois de imediato quando, após três meses de parceria (no passado), Hart pede enquanto estão no carro que Cohle se abra um pouco a respeito de si. E o que ouvimos já nos diz de imediato que esta será uma série niilista -- como é de praxe nesses dias -- mas que torna tudo mais interessante quando olhamos pelo filtro mais humano do personagem de Harrelson.
+
+A dupla de detetives parece clichê, mas estão inseridos em um universo realista, onde prostitutas podem lhe dar as resposta que você precisa. Não há aquela dinâmica "ninguém confia nos tiras" de tantas e tantas séries, réplicas umas das outras. Mas há a mesma atmosfera, sob uma vestimenta melhor, com atuações que dizem muito pela caracterização de uma ótima dupla de atores, e há um roteiro cativante pelos saltos no tempo, uma direção competente em realizar raccords curiosos, e uma fotografia pálida que nos impregna de névoa e pessimismo.
+
+Na primeira cena olhamos para Hart através de uma câmera de testemunho, mas logo saltamos para "o tempo presente" de ambos. Os investigadores cuidando do caso estão sentados frente a Hart e Cohle ao mesmo tempo, o que indica mais uma separação temporal. Em cada uma das salas os parceiros que os entrevistam estão sentados de forma invertida, o que dá uma certa pista de para onde cada um deles está olhando. O velho clichê dos detetives veteranos e/ou aposentados que voltam à ativa aparece nos momentos finais, mas com uma propriedade narrativa que a favorece em vez de desanimar.
+
+Sim, True Detective é uma série que pede mais do que apenas seu piloto.
 

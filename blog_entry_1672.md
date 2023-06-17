@@ -1,22 +1,21 @@
 ---
 categories:
 - writting
-date: '2011-05-21'
-link: https://www.imdb.com/title/tt1131734
+date: '2018-10-16'
+link: https://www.imdb.com/title/tt8633250
 tags:
+- cinemaqui
 - movies
-title: Garota Infernal
+title: Garotas em Fuga
 ---
 
-Aprendemos duas coisas assistindo Garota Infernal: que não se dá Oscar de melhor roteiro para uma estreante com delírios de grandeza (Diablo Cody, de Juno) e não se coloca atrizes como Megan Fox (Transformers e... argh! Transformers 2), que rivaliza com Kristen Stewart em atuação, em um papel principal.
+Garotas em Fuga é uma versão adolescente de Garota Interrompida com um andamento mais leve -- porque não há atrizes à altura -- e uma história mais pesada -- porque é ela que precisa apresentar seus personagens.
 
-Ou talvez se coloque. Afinal de contas, Fox não compromete em nada esse projeto mais do que bem vindo aos amantes de seu corpo e seus lábios. Na verdade, talvez seja a escolha ideal para uma personagem cuja principal função seja a de andar seminua por aí se alimentando de homens.
+Não se trata de um estudo de personagem, como o filme de Angeline Jolie e Winona Ryder, porque vamos descobrindo aos pouco sobre essas três garotas que fogem de um sanatório para jovens moças que por motivo ou outro precisam se isolar da sociedade e manter suas vidas na base de remédios. 
 
-Mas não posso dizer que não me diverti com o roteiro. Afinal de contas, surpresas como um pai que jura pendurar as bolas do assassino de seu filho e uma mãe que compara o corpo de seu filho com uma "lasanha com dentes" sempre podem impressionar.
+A protagonista é uma jovem perturbada com tendências suicidas (Lisa Viance) que precisa encontrar seu pai a todo custo e que impulsiona um road movie simples, despretensioso, parte na floresta. Episódico graças à sua companheira viciada (Yamina Zaghouanie) que rouba a cena em todo momento que participa (daí a dobradinha Ryder/Jolie mais uma vez), o terceiro elemento é uma garota que esconde seu trauma através da ansiedade infantil de comer compulsivamente (a adequada, embora clichezaça, Noa Pellizari).
 
-Jennifer (Fox) e Needy (Seyfried, assustada como o Chapeuzinho Vermelho) são melhores amigas que se conhecem desde a infância. Jennifer, uma jovem desejada pelos garotos que foi uma vez a mais popular da escola, pode ser comparada como o perfeito oposto de Needy, a garota desajeitada de óculos cuja definição "freak" nesse filme é ser uma pessoa normal. Aliás, não há de fato uma tentativa de se aprofundar na relação dessas duas jovens, embora a história sempre as coloque juntas ao final de cada cena, que sempre tende a ser episódica e que não muda muita coisa no contexto geral.
+O trio de atrizes e sua diretora estreante Virginie Gourmel (belga) usam o roteiro do também diretor Micha Wald para emplacar um thriller dramático que se aproveita de luz, sombra e cinza para dar o tom sombrio adequado para sua história onde uma jovem de 17 anos não consegue suportar o peso de uma realidade a esmagando todo dia. Não é à toa que ela está sempre com um moleton roxo, que é uma cor clássica para indicar morte no cinema. Sua escolha não é entre encontrar o pai e ser feliz ou tentar se matar (e eternamente presa em uma clínica), mas entre viver uma vida que vale a pena ser vivida ou simplesmente desistir.
 
-Confesso que muitos dos diálogos e "aparições" de Jennifer me pareceram ser um semi-preparo para um filme que se auto-intitula como "trash", ou seja, que não é ruim por defeitos de produção, mas erra consciente de ser essa a temática a ser adotada em uma história como essa. Infelizmente, isso não é verdade, pois podemos perceber claramente que existe uma tentativa de dramatização, ainda mais se considerarmos que a introdução tenta ligar-se à conclusão, em uma forma de dizer "está vendo? fizemos tudo planejadinho".
-
-Isso quer dizer que fica muito difícil defender um filme que abre planos para colocar atores pendurados por cabos ou encharcados de molho de tomate e ainda assim soar realista. De qualquer forma, a fotografia do filme colabora em muitos enquadramentos noturnos, onde vemos Jennifer e Needy sozinhas em uma imensidão de cenário tenebroso. (Aliás, é divertido lembrar que a maioria desses cenários está molhado para garantir a iluminação adequada na filmagem, mas sem uma desculpa razoável no roteiro, como chuva, por exemplo.)
+Este é um filme cru com reviravoltas naturais e que portanto não precisa manipular seus personagens, que são forças da natureza. A amizade inusitada e rápida entre uma pré-adolescente e um garoto de cinco anos gera os momentos mais reflexivos do filme, que se esforça para não soar clichê, utilizando de metáforas com animais inocentes perambulando pela floresta ao mesmo tempo que aborda questões adultas entre crianças, e é de onde vem sua força dramática. "Por que vivemos em um mundo onde a realidade bate à porta tão cedo de alguns jovens?" deveria ser a pergunta que o filme faz. "Porque a vida real cedo ou tarde acontece e o quanto antes as crianças forem introduzidas a eles melhor" seria a resposta correta. Mas não estou certo de que este drama é sério o suficiente para abordar respostas corajosas como essa.
 

@@ -1,21 +1,50 @@
 ---
-categories:
-- writting
-date: '2010-12-20'
-link: https://www.imdb.com/title/tt1149361
-tags:
-- mostra
-- movies
-title: Micmacs - Um Plano Complicado
+categories: []
+date: 2017-07-28 18:28:07-03:00
+tags: null
+title: Migrando Imagens Para Imgur
 ---
 
-A fotografia fabulosa de [Amélie Poulain] também cabe nessa fábula em que um homem, Bazil (Dany Boon), sofre uma dupla injúria em sua vida: a morte do seu pai por uma mina terrestre e uma bala em sua cabeça durante um tiroteio. Então ele resolve se vingar de ambas com o mesmo plano.
+Depois de migrar meus blogues para o [Hugo](https://gohugo.io) decidi deixar o repositório mais magro migrando as imagens para um serviço de imagens. O [imgur](http://imgur.com/) me pareceu uma solução simples com uma interface rápida (e uma API Python). Para realizar essa tarefa você vai precisar das ferramentas de sempre: grep, sed, python, vim. E lá vamos nós.
 
-Com os mesmos enquadramentos exagerados como em Amélie, mas sem a sua graça, Jean Pierre parece acreditar que o mesmo modelo pode servir a mais de um filme, e nesse caso parece acertar parcialmente. Digo parcialmente pois, enquanto em Amélie sua infância explique suas constantes fugas da realidade e seu caráter idealista, aqui o herói assume essas características sem possuir um passado que o justifique. Pior, ao ser adotado posteriormente por uma trupe de moradores de rua que parecem ter saído da mente criativa da protagonista do outro filme.
+Meu primeiro passo foi realmente limpar a pasta de imagens, eliminando as que não estavam sendo usadas. A pasta de imagens ficou se acumulando por anos, e muitas imagens foram sendo carregadas através dos Wordpress da vida e plugins que deram resize nas imagens, gerando várias cópias no processo. Tudo inútil e dispendioso.
 
-Embora ou por causa de nunca revelar a estratégia de Bazil por completo, a história torna-se fascinante pela criatividade com que é conduzida, nunca soando por demais exagerada, apesar de sempre estar no limite da ousadia, mas que recebe a bela explicação da trupe, circense na alma e sem muito o que perder na vida.
+```
+dir /b imagens\*.* > images.bat
+rem transformar cada linha de images.bat em:
+rem grep -c imagem.png all.md
+images.bat > result.log
+rem a partir do vim juntar o resultado das linhas e apagar os resultados não-zerados
+rem imagem-found.png
+rem 1
+rem imagem-not-found.png
+rem 0
+v/^[0-9]/j
+v/0$/d
+rem pronto; agora é só rodar o result.log como bat
+```
 
-A capacidade do filme de entreter é tanta que até nos esquecemos do real objetivo do herói, o que pode soar preocupante pois existe drama em sua história. Só que em vez de drama o que vimos são exercícios de relaxamento quando ele, ansioso, parece perder a respiração, e que mais uma vez inevitavelmente relembram a figura idealista de Amélie Poulain, principalmente por estarem esses inseridos como mera curiosidade, sem conexão com o que está ocorrendo na tela.
+O principal problema de subir tudo para o imgur é que os nomes dos arquivos irão mudar e perder a referências usadas no texto. Para conseguir renomear os arquivos dentro dos artigos é necessário conectar no serviço do imgur e através dele obter o nome original do arquivo, disponível na propriedade __name__:
 
-[Amélie Poulain]: {{< relref "amelie-poulain" >}}
+```
+import auth
+
+client = auth.authenticate()
+f = open('images.txt')
+imgs = f.readlines()
+for img in imgs:
+    img = img.strip('\n')
+    imgur = client.get_image(img)
+    origname = imgur.link[imgur.link.find(img):].replace(img, imgur.name)
+    print origname, '=>', img
+
+```
+
+Executando este script será possível gerar um log no formato nome-original-do-arquivo para id-da-imagem-usado-pelo-imgur. O ID deles também é usado para link direto da imagem, de onde virá o comando sed que vai substituir nos artigos os nomes originais pelo link do imgur:
+
+```
+sed -i "s/<nome-original-do-arquivo>/http\/\/:\/<link-da-imagem-no-imgur>/<id-do-imgur>.<extensao>/" *.md
+```
+
+Lembrar de apagar o all.md. Ele só foi usado para gerar a saída mais simples do grep.
 

@@ -1,16 +1,44 @@
 ---
 categories:
-- writting
-date: '2018-12-30T19:40:00-03:00'
-link: https://www.imdb.com/title/tt0475784
+- coding
+date: '2007-07-16'
 tags:
-- series
-title: Westworld S02 E01-06
+- ccpp
+- english
+title: What happens inside the sizeof operator
 ---
 
-"O homem não pode fazer-se sem sofrer, pois é ao mesmo tempo o mármore e escultor." Essa frase de Alexis Carrel não poderia ter um valor mais direto do que o visto em Westworld, com a devida correção, já que a grande questão sobre a qual gira o drama é a diferença entre androides e humanos. No entanto, androides também podem mudar, mas a um alto custo. A versão 2.0 do homem torna até Nietzsche, como sempre, relevante.
+The question: how to get the size of a struct member without declaring it as a variable in memory? In pseudocode:
 
-Do primeiro ao sexto episódio podemos dizer que a segunda temporada de Westworld é uma construção e tanto, que nos inspira os mais diversos pensamentos e sentimentos em relação à nossa (não-)individualidade, nossa consciência ou até mesmo o que é realidade. Nunca com medo de deixar os espectadores mais preguiçosos para trás e ancorado no que o sci fi tem de melhor -- ideias -- as suas diferentes narrativas traçam um panorama ímpar entre as grandes produções, pois conseguem reunir, assim como a maioria das produções dirigidas e escritas pela família Nolan, um blockbuster com ideias. E no caso dessa parceria entre Jonathan Nolan e Lisa Joy, algo que falta nos filmes de Chris Nolan: coração.
+    static const size_t FIELD_SIZE_MSGID = 15;
+    
+    struct FEEDER_RECORD_HEADER
+    {
+       char MessageID[FIELD_SIZE_MSGID];
+       char MessageIndex[10];
+    };
+    
+    // error C2143: syntax error : missing ')' before '.'
+    char MessageIndexBuffer[ sizeof( FEEDER_RECORD_HEADER.MessageIndex ) + 1 ];
+    
+    // error C2070: '': illegal sizeof operand
+    char MessageIndexBuffer[ sizeof( FEEDER_RECORD_HEADER::MessageIndex ) + 1 ]; 
 
-Todo o pequeno hiato aberto em uma versão oriental de Westworld poderia ser vista como descartável, mas note a reação dos personagens que já conhecemos ao encontrar seus sócias, seja em personalidade ou narrativa, e terá o preço pago. Isso sem contar a empatia que isso gera em Maeve, tornando sua jornada em busca da filha ainda mais significativa por acrescentar ainda mais dor e sofrimento pelo caminho.
+In this first try (even being a nice one) we can clearly see by instinct that the construction is not supposed to work. The compiler error is not even clear. The member access operator (the point sign) needs to have as its left some variable or constant of the same type of the struct. Since the operand is the type itself, there is no deal.
+
+The second test is more feasible. Even the compiler can alert us. We have accessed the right member in the right struct but in the wrong way. As we're not using a static member or, in other words, a class variable, we can't access the member by scope. We need an object. But in order to have an object we are supposed to have to create one, and this is exactly what is not allowed in our solution.
+
+This kind of problem reminds me about a curious feature inside the sizeof operator: it doesn't evaluate the expressions used as operands. How's that? Well, as the sizeof main purpose is to provide us the memory size filled by the expression, it simply doesn't make sense to execute the expression. We just need to note that the language we're talking about defends eficiency and clarity as main principles. If you want to execute the expression, we do it without using sizeof operator.
+
+So, now we know that everything put inside a sizeof is not going to be executed in fact. It works somewhat like the c++ "dead zone": is the place where - talking about executable code - nothing runs. That means we can build a object inside sizeof that nothing is going to happen, except for the expression size. Let's look the resulting assembly:
+
+    sz = sizeof( (new FEEDER_RECORD_HEADER)->MessageID ); // this...
+    mov dword ptr [sz], 0Fh ; ... is translated into this
+
+Another way to do the same thing (for those who can't bear the use of operator new delete, seeing the code as a memory leak):
+
+    sz = sizeof( ((FEEDER_RECORD_HEADER*)0)->MessageID ); // this...
+    mov dword ptr [sz], 0Fh ; ... is translated into this
+
+Conclusion: the operator new is called and nothing happens. We got what we wanted. That shows us one more time that the little details built inside a language layout are only very important in the exact time we need them.
 

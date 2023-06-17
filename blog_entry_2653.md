@@ -1,24 +1,20 @@
 ---
 categories:
 - writting
-date: '2016-05-01'
-link: https://www.imdb.com/title/tt0113568
+date: '2019-06-22'
+link: https://www.imdb.com/title/tt0168734
 tags:
 - movies
-title: O Fantasma do Futuro
+title: O Feitiço
 ---
 
-Não, esse não é o "original". Aliás, o conceito de originalidade, ou individualidade, é justamente o que é atacado em Ghost in the Shell, uma animação japonesa que precede em muito toda a discussão filosófica gerada pelo filme Matrix, dos irmãos Wachowski, e que marca a predominância do tema em Hollywood.
+Um épico em uma pequena história do século 20 no México. Pré-adolescentes descobrindo as delícias do sexo com mulheres maduras. A história econômica e política da região do ponto de vista dos trabalhadores. E tudo isso gira em torno de um suposto feitiço.
 
-Porém, atacar talvez seja uma palavra forte. Esse é um filme que explora de maneira intensa, intelectualmente falando, todas as nuances, consequências e questões existenciais que surgem em um mundo futurista onde já é possível trocar órgãos do corpo humano como se fossem peças de reposição, e os primeiros androides começam a ser fabricados, em um país desconhecido, mas que não preza muito pelos direitos humanos.
+Há um fascínio pelo desconhecido, seja uma simpatia de um ancião ou um rádio de onde se ouve vozes, mas a maioria tem que ganhar o dia e está alheia a tudo isso. Este é quase um Baaria, filme-biográfico de Giuseppe Tornatore sobre seu povoado de origem, só que do México, que pega um protagonista e através dele passamos por dez anos de História. E que deve ter custado doze vezes menos.
 
-Uma dessas androides é Motoko Kusanagi, que trabalha para o serviço de inteligência desse governo ao lado de Batou, um humano que já passou por tantas reposições em seu corpo que se identifica mais com uma androide do que com um humano. O que diferencia um ou outro nesse universo é o que é chamado de alma: sinais neurais de um ser humano original. Esse conceito, no entanto, terá que mudar em algum momento. A questão da individualidade já foi longe demais. 
+O diretor Carlos Carrera se apaixona pelo conteúdo e alonga o terceiro ato a ponto de vermos o que não queremos e torcer para que acabe no próximo fade. Qual a mensagem? Nenhuma. Mas o filme insiste em se tratar como um épico.
 
-Visualizado como um mundo sombrio, onde sobrados se elevam aos céus, como uma Xangai opressiva, mas parece manter as ruas vazias (exceto em uma sequência excelente, em uma feira de rua), a parte do mundo que vemos é mais a parte da elite estatal, que controla as relações diplomáticas e que tenta contornar crises, como o asilo de programadores, figuras ilustres em um mundo ultra-conectado.
+A fotografia é bela, imortaliza cenas com o uso apaixonado das sombras e dos tons que lembram quadros históricos pintados. É um filme plasticamente lindo, que evoca nossos sonhos e desejos em um carrossel de emoções construído com vários personagens. A música, grandiosa, significa que estamos testemunhando um evento único, mágico, e que convém este ritmo solene.
 
-Ghost in the Shell se sobressai em não extrapolar muito esse universo, considerando que, se ele vier a existir, deverá haver algum período de transição, onde algumas pessoas possuem o privilégio de reposição de órgãos, mas não todos, pois o custo de manutenção é proibitivo, e androides não são aceitos por toda a humanidade, mas surgem em regiões em que há um afrouxamento moral, mesmo que seja por motivos escusos.
-
-Tudo isso é muito bem explorado em uma saga curtíssima para a explosão de assuntos que nos submete, desde a criação de "memórias virtuais", implantes em cérebros humanos conectados "à nuvem", quanto ao assunto mais ambicioso do filme: a questão da individualidade.
-
-E, para discutir isso, só assistindo, e conversando depois, em um bom bate-papo de boteco. Há muitos diálogos, normalmente uma coisa ruim em animes japoneses, que carecem de ação para mover sua trama, mas nesse caso é plenamente justificável e desejável. Não é um filme fácil, também, no sentido das ideias que provoca, e pode ser desses que muda a vida de algumas pessoas. Foi baseado em um mangá, que já deve ter mudado a vida de tantos outros.
+Mas no final das contas este é apenas um filme confuso que tenta abordar temas demais com pouca estrutura, que vai ruindo aos poucos, com o passar dos anos.
 

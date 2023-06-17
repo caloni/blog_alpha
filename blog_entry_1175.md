@@ -1,22 +1,16 @@
 ---
-
-Mais uma produção enlatada da Netflix, mas dessa vez as pessoas falam alemão. É um conto alemão, em uma cidadezinha no interior da Alemanha, com muitos jovens em um colégio e uma fotografia sombria. Um prefácio anuncia que acontecimentos fantásticos irão ocorrer (Stranger Things feelings). Esses acontecimentos irão mexer com nossa noção do tempo. E de fato mexem: ao final do primeiro episódio de 50 minutos a sensação é ter visto um filme de três horas onde nada acontece.
-
-Dark é uma produção que tem por objetivo copiar alguns formatos já consagrados nas séries atuais de um mistério que será solucionado no final, e que depende de cliff hangers por todos os lados. A história é de uns garotos desaparecidos, um recentemente e o outro 30 anos atrás, e a série parece demorar esses mesmos 30 anos para finalmente mostrar um acontecimento fantástico: o garoto de 30 anos atrás parece ter viajado no tempo, para o futuro, justamente quando um outro garoto desaparece.
-
-Temos nesse pacote um suicídio mal explicado com uma carta com instruções de leitura em data e hora exatas, um adultério, um trio amoroso entre os jovens e basicamente é só isso. Tudo está distribuído entre os personagens e nenhum deles parece minimamente interessante. Mas essa fotografia é sinistra, e essa trilha sonora consegue arrancar alguns arrepios. O problema é que ainda não sabemos por quê.
-
-A estrutura do piloto de Dark nos demonstra que a série não tem a menor pressa em desenvolver sua história. Ela provavelmente irá nos enrolar por mais 10 horas e ainda não teremos muito o que contar. Claro, posso estar errado, mas a julgar pelo roteiro inicial, há poucos indícios de que algo muito relevante pode acontecer. Há falhas básicas no roteiro pra começar. Esta é uma cidade minúscula aparentemente, feita para manter uma usina nuclear. Mas há um hotel (em uma cidade com usina nuclear) cuja função é ser turístico. E ele está vazio teoricamente porque há 14 dias um garoto desapareceu. Todos aqueles turistas que planejaram suas férias ficaram sabendo do garoto e cancelaram suas reservas.
-
-Além disso, a trama envolvendo a família pricipal não convence. Há um suicídio e uma relação extra-conjugal da viúva e a mãe (é isso mesmo?) que foi expulsa da família e detém uma carta do filho que ela abre religiosamente conforme pedido no envelope. Nenhum desses elementos chama a atenção porque não há nada que nos leve a pensar nessas pessoas. Elas ainda são descartáveis, e os acontecimentos são esquecíveis.
-
-Dark não se esforça nenhum momento em ganhar a atenção do seu espectador, exceto pela ótima fotografia e uma trilha sonora de arrepiar. Mas eu já comentei isso pela terceira vez. Teremos alguma coisa a mais para contar no futuro ou no passado?
-
----
 categories:
+- reading
 - writting
-date: '2018-07-26'
-link: https://www.imdb.com/title/tt8725166
+date: '2016-08-24'
 tags:
-- series
-title: Dark Tourism
+- books
+title: Darkly Dreaming Dexter
+---
+
+O primeiro livro de Jeff Lindsay, que deu origem à série de livros do serial killer que mata serial killers (além da própria série televisiva de oito temporadas), é um relato intimista e bem-humorado de uma pessoa que não consegue se ajustar socialmente, então finge ser alguém que não é. Curto, mas suficiente, dá uma boa ideia sobre como é esse personagem tão fascinante, em um esboço criado a partir de seus próprios pensamentos. Lendo após terminar a série, vejo quão bem feito ficou o protagonista estrelado por Michael C. Hall, e quantas boas ideias surgiram de uma premissa interessante. Uma adaptação que começou muito bem na primeira metade, para covardemente tropeçar desfiladeiro abaixo na segunda metade.
+
+E isso porque a adaptação tinha tudo para dar errado. A narração em off de Dexter no livro é uma descrição muito mais interna que externa, e não há muitos momentos de ação no livro. A série sofre da falta de personagens secundários interessantes, e assim como House, patina em dramas paralelos que não acrescentam em nada na história principal. A parte acrescentada do universo onde vive o serial killer foi tirado de uma série genérica, o que é uma pena. Contudo, tamanho é a força do "herói" da história, e tamanha interpretação de C. Hall para o papel, que conseguimos desculpar boa parte das bobagens que vemos na TV.
+
+Já o livro mantém o clima de suspense, e muitas vezes trapaceia jogando a pista falsa. Seu forte é o bom humor, e um humor negro que revela o cerne da questão (do livro e da série): não é apenas a história de um serial killer, mas de cada um de nós. Disfarçados em uma persona que agrade a todos o suficiente para que não se façam perguntas em demasiado, todos nós carregamos um Passageiro Sombrio em nós mesmos. Claro, não matamos ninguém (pelo menos a maioria), mas a aula sobre como funciona socialização de seres humanos dada por Dexter, em como fingir expressões, dizer o que as pessoas esperam ouvir, e conseguir se livrar da maioria dos aborrecimentos que é conviver com os outros é a maior virtude do livro.
+

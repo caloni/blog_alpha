@@ -1,16 +1,22 @@
 ---
 categories:
 - writting
-date: '2018-05-29'
-link: https://www.imdb.com/title/tt7902072
+date: '2014-06-07'
+link: https://www.imdb.com/title/tt1587707
 tags:
-- series
-title: Safe
+- movies
+title: Saída pela Loja de Presentes
 ---
 
-Antes que me perguntem, não, Michael C. Hall não mudou muita coisa desde seu icônico personagem em Dexter. Ele sempre foi o ator perfeito para o papel de serial killer, e aqui se sai muitíssimo bem no papel de um viúvo pai de duas meninas, onde uma delas some misteriosamente. Estamos em um condomínio fechado da classe média alta americana com pais um pouco autoritários demais com seus filhos (crítica social!) e vizinhos bem estranhos para ter como vizinhos.
+Exit Through the Gift Shop, ou "Saia Pela Loja de Souvenires" (alguém viu isso lançado no Brasil?), um dos indicados ao Oscar 2011 de melhor documentário, parece um documentário, e se assume como um. No entanto, seu terceiro ato é tão surreal, mas tão surreal, que surgiu a especulação de que o personagem cuja vida serviu de base para a história na realidade nunca existiu. Mais do que isso, a estrutura criada (supostamente) pelo diretor e artista de rua "Banksy", que no próprio filme dá um depoimento com seu rosto censurado e sua voz transformada, é incrivelmente bem arquitetada, pois não faz o espectador se perder ao acompanhar o filme que conta a história do homem que queria fazer um filme sobre artistas de rua, incluindo o próprio Bansky.
 
-Há um churrasco no primeiro episódo de Safe, e não há nenhuma cena em todo o piloto que nos faça visitar aquele mundo de novo. Claro, você pode se sentir seduzido para descobrir o paradeiro da menina, o que aconteceu na festa de jovens, etc, etc, e etc. Mas para isso terá que ser atraído por qualquer tipo de suspense, já que este é genérico demais para nos preocuparmos com qualquer coisa. Os personagens são jogados e basicamente é isso.
+A princípio acompanhamos as filmagens de Thierry Guetta, um imigrante francês que mudou para Los Angeles e que a partir do momento que começou a filmar as coisas com sua câmera nunca mais parou. Sua garagem enche de fitas, mas ele nunca as olha novamente. Sua obsessão é estar sempre filmando sua vida e o que vê, como uma espécie de compensação por um trauma de infância.
 
-A produção possui um esmero interessante na fotografia sisuda e na forma como o próprio condomínio é retratado, como um lugar onde há eventos sociais para confraternização que no fundo é um grande elevador onde todos se olham sem dizer realmente nada. O luto da esposa do personagem de Michael C. Hall possui um ar de incógnita na reação de sua filha mais velha durante o enterro, e o próprio C. Hall parece guardar algum mistério. Ele deveria, já que o resto dos personagens passa longe de ser interessante. No máximo todos conseguem ser muito antipáticos. Se esse foi o objetivo inicial da série, parabéns.
+Quando conheceu seu primo, um artista de rua especialista em enfeitar as ruas com imagens dos alienígenas do jogo Space Invaders (ele se auto-denomina "Invader", o uso de pseudônimos é algo bem comum, como aprendemos no filme), Thierry começa a filmar suas intervenções noturnas às paredes de cidade e no processo vai conhecendo cada vez mais pessoas envolvidas na arte de rua, um movimento ainda não popularizado.
+
+Vemos os recortes de algumas filmagens de Thierry quando sabemos que ele decidiu fazer um filme sobre esse tema, mas desde o começo sabemos que o documentário que estamos vendo se trata sobre a vida do francês e seu encontro com Bansky, que virou o diretor desse segundo projeto. Porém, ambos os projetos parecem serem desenvolvidos em paralelo na narrativa, um feito e tanto que parece transformar o filme em dois em qualquer um de seus momentos.
+
+O que ocorre no desenrolar da história, que nunca fica monótona, mas sempre parece crescer em seus detalhes, é que a arte de rua é descoberta pelos artistas da mainstream e vira objeto de mercado, ao mesmo tempo que Thierry percebe que nunca fez um filme nem tem habilidade para tal, mas começa aos poucos a entender a mente das pessoas que acompanha todas as noites.
+
+O filme, ao mesmo tempo que discute o que é arte, realiza o que parece ser um dos maiores experimentos sobre o tema sendo filmado no exato momento em que acontece, o que é sensacional em diversas camadas e sentidos. O que parece absurdo está no documentário, e por isso ganha um ar realista como jamais existiria em uma ficção. Uma ficção nunca seria tão criativa quanto a realidade que vemos. E o que vemos? Eu assistiria o filme sem saber disso, se fosse você.
 

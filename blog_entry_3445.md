@@ -1,16 +1,22 @@
 ---
 categories:
 - writting
-date: '2014-03-01'
-link: https://www.imdb.com/title/tt2724064
+date: '2015-06-01'
+link: https://www.imdb.com/title/tt2872750
 tags:
 - movies
-title: Sharknado
+title: 'Shaun, o Carneiro: O Filme'
 ---
 
-Quando um filme brinca de ser do gênero trash ele faz um esforço mínimo para dar umas piscadelas para o espectador no melhor estilo "ei, eu estou brincando". Essa é uma característica óbvia no interessante Matadores de Vampiras Lésbicas (2009) e no ótimo Zumbilândia (2009). É preciso ter em mente que, sem essa piscadela básica, um trabalho que tenta subverter seu gênero pode acabar sendo o exemplo perfeito de tudo o que não se deve fazer em um filme. É exatamente por isso que Sharknado acaba sendo um marco nos filmes muito, muito ruins.
+Apesar de eficiente por oito anos em pequenos episódios de sete minutos, a série dos estúdios Aardman nunca se aventurou em um longa-metragem sobre um carneiro muito esperto, um cachorro e fazendeiro que lembram versões agrícolas de Wallace e Gromit, e um bando de ovelhas que esbanjam charme e bom humor. O resultado não é apenas um longo episódio como a série televisiva, mas um filme que se aproveita de homenagens e referências muitas antigas sobre o Cinema e o próprio universo sempre criativo desses personagens, onde o fato de serem miniaturas manipuladas em stop motion nunca é um empecilho para criar as mais hilárias sequências.
 
-Misturando o velho clichê "catástrofe em Los Angeles", efeitos visuais de péssimo gosto e diálogos "memoráveis" pela sua filosofia com a profundidade de uma piscina infantil (com tubarões), o trabalho do diretor Anthony C. Ferrante e do roteirista Thunder Levin nunca se transforma em algo péssimo a ponto de ser odiável simplesmente porque não tem sequer uma estrutura mínima para ser chamado de filme. Seus personagens são clichês dos clichês escrito em um papel de pão: o cliente cativo de um bar ("nunca mais reclame do meu assento"), o dono do bar, a garçonete que ama o dono do bar, a ex-mulher do dono do bar (uma vadia), os filhos do dono do bar que possuem problemas de relacionamento com o pai.
+Dirigido pelo roteirista Mark Burton e com a ajuda do estreante Richard Starzak, o filme se aproveita da dupla original, Justin Fletcher e John Sparkes, para interpretar Shaun e o Fazendeiro (que não tem um nome). A relação do trio carneiro, cachorro e fazendeiro é de longa data, e vemos uma foto empoeirada e descolorida de uma época bucólica e divertida. A rotina do dia-a-dia, no entanto, faz com que Shaun se desgaste, o que o faz bolar um plano para quebrar aquele ciclo interminável de acorda, levanta, e vai dormir. Seguindo a mesma estrutura de um episódio, mas com tempo o suficiente para explorar mais, o plano de Shaun parece que tem tudo para falhar quando o Fazendeiro vai parar na cidade grande, bate a cabeça e não se lembra mais quem é, se transformando em um famoso cabelereiro no processo.
 
-Porém, isso não seria um problema sério se a ameaça fizesse-nos relevar a falta de relevância daquelas pessoas, como no excelente Fim dos Tempos. O que não acontece, pois os tubarões que surgem pulando de dentro de qualquer lugar onde tenha água para molhar os joelhos sequer são vistos por mais de um segundo (problemas no orçamento?) e, pasmem, possuem menos personalidade que as pessoas-clichê que acabei de descrever. Assim fica realmente difícil.
+O fato do filme ser quase que inteiramente mudo, pois nenhum dos personagens fala senão grunhidos incompreensíveis, remete diretamente à epoca do Cinema mudo. Conseguimos detectar um pouco de Buster Keaton e suas atrapalhadas quando o trailer do Fazendeiro sai desgovernado na fazenda e vai parar na cidade (para surpresa dos seus habitantes). Da mesma forma, o jogo de transposições de Keaton e até mesmo o jogo de cintura de Charles Chaplin ganham uma revisão em uma animação infantil quando, por exemplo, as ovelhas se disfarçam de outdoor no terminal de ônibus.
+
+Assim como na série e nas produções do estúdio, os personagens possuem funções maiores que eles mesmos, pois servem de metáfora para a vida real. É por isso que o famoso com um penteado diferente acaba virando sensação, mesmo que inspirado no costume do Fazendeiro de tosar suas ovelhas. Ou as cores frias da cidade se sobrepõem ao sol sempre presente da vida no campo.
+
+Mas Shaun, o Carneiro: O Filme brilha mesmo é em suas referências cinematográficas e suas "trucagens" a la comédia dos anos 20. Até mesmo Silêncio dos Inocentes acaba sendo referenciado na sequência da prisão de animais. Não é demais lembrar que em inglês este filme se chama Silent of the Lambs; e "lamb" é ovelha em inglês.
+
+Enfim, sendo visto como um capítulo estendido da série ou como um filme com formato próprio que se aproveita da estrutura da obra original, Shaun Carneiro nunca decepciona, pois consegue obter o máximo de um formato batido, previsível e até monótono em obras semelhantes, como o fraquíssimo Pinguins de Madagascar. Entre os dois, opte pelo mais criativo.
 

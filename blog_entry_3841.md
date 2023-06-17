@@ -1,16 +1,16 @@
 ---
 categories:
 - writting
-date: '2018-11-17'
-link: https://www.imdb.com/title/tt7907916
+date: '2015-07-14'
+link: https://www.imdb.com/title/tt0283534
 tags:
-- series
-title: Ugly Delicious
+- movies
+title: Um Agente em Apuros
 ---
 
-O chef de cozinha David Chang é o astro dessa série criada por ele. Ela segue um caminho documental bem-humorado, com montagens bem conduzidas e a captura de momentos hilários entre Chang e seus amigos conversando sobre... adivinhou: comida.
+Essa é comédia britânica estilo anos 80, mas foi filmada em 2001. Passou no SBT (TV aberta) essas noites, por conta do falecimento de Omar Shariff esse mês. Shariff participa pontualmente, pois o "astro" é Steve Coogan, quase um sócia de Steve Carrel, mas que depende mais de gags. Coogan, pode-se dizer, manda bem.
 
-O trunfo da série é nos entregar diferentes e inusitados lugares para experimentar comida que está sendo produzida sob a influência cultural da região, da tradição e da inovação. Chang não é um tradicionalista apenas, mas alguém que aprecia boa comida, seja lá de onde vier. E por isso ele encontra verdadeiras pérolas em volta do mundo, explicando no processo como tudo funciona.
+A história é de um agente da condicional que testemunha um assassinato em que a polícia está envolvida. Sabendo da existência de uma fita que gravou todo o ocorrido, parte em busca dela, que foi guardada em um cofre de um banco (hein?) pela gangue de bandidos. Para conseguir reavê-la forma uma equipe com todos os criminosos que conseguiu "reabilitar": meia-dúzia. Conta também com a ajuda de uma policial bonitona que obviamente é o interesse romântico do nosso herói.
 
-Esta é mais uma série gastronômica, mais uma vez da Netflix. Seu objetivo é menos reverenciar os chefs como em Chef's Table, menos reverenciar a produção de comida como em Chef & My Fridge. É mais sobre o dia-a-dia de um chef de cozinha e seus amigos. É um encontro informal, como pode haver entre pessoas comuns. A única diferença é que alguém está obcecado em descobrir ótimos lugares para comer. Quem ganha é o espectador gourmand.
+Esse é um filme no estilo piadas vem e vão, mas o contexto se mantém no aceitável. Há algo de interessante em acompanhar toda a estratégia do grupo, mas algo ingênuo em suas atitudes. Porém, desconfio que seja essa mesma atitude que faz com que o humor funcione. Sem lições de moral, com gostinho de paródia, um RED: Aposentados e Perigosos um pouco mais coeso, embora quase tão facilmente esquecível.
 

@@ -1,21 +1,26 @@
 ---
 categories:
 - writting
-date: '2017-05-30'
-link: https://www.imdb.com/title/tt5975354
+date: '2022-05-29T20:54:48-03:00'
 tags:
 - cinemaqui
 - movies
-title: Tal Mãe, Tal Filha
+title: Tantas Almas
 ---
 
-Tal Mãe, Tal Filha supostamente é uma comédia, mas há poucos momentos em que me peguei dando risada. Por outro lado, houve vários momentos que observei, atônito, o quão baixo uma comédia consegue ir. E mesmo assim não funcionar.
+O tio desceu todo o rio para roubar um braço e deixar uma bagunça no cemitério para o coveiro arrumar. Todas Almas é essa aventura sinistra em torno de acontecimentos históricos colombianos que muitos ignoram, mas o filme não quer defender o estudo de história. Não antes de conseguir se revelar tedioso até a morte mesmo falando sobre assuntos tão importantes quanto os limites para o desumano.
 
-Ele conta a história de uma mãe, Mado, que é jovem, inconsequente e totalmente dependente de sua filha, Avril. Mado, interpretada por Juliette Binoche, obviamente é deslumbrante, e consegue se passar pela geração meia-idade baladeira tranquilamente. Já Avril, interpretada por Camille Cottin, 14 anos mais jovem que Binoche, é produzida pelo filme para parecer mais feia, velha e chata em múltiplas proporções comparada à sua mãe. Ela também é um tanto incompetente no trabalho e casada com um marido imprestável, mas por algum motivo isso não a torna digna de pena, mas de escárnio. É como se esse ser humano nem merecesse viver.
+Tudo começa quando José, o tio do parágrafo anterior, volta para casa pela manhã depois da pescaria e não encontra seus dois filhos. Então ele parte em busca dos seus corpos, seguramente dentro do rio. O pensamento é automático. Os paramilitares estão no poder e é essa a realidade vigente. E um adendo significativo: é proibido tirar os corpos de lá.
 
-Talvez porque ela faz questão de manter as aparências, como não contar aos seus sogros que seus pais se divorciaram há muito tempo, algo que foge completamente do estereótipo francês e ainda inspirar uma certa antipatia pela desonestidade familiar de Avril. Quando ela anuncia em frente a todos que está grávida a notícia surge mais que apagada que ela própria, que não consegue cinco minutos de atenção. O tipo de piada que surge nesse primeiro momento do filme não ajuda em nada. Mado pergunta à sua filha se ela pretende manter a gravidez. Ha ha ha. Sua sogra não convive bem com o mimado cachorro de seu pai, que no natal usa um chapéu de papai noel como ela. Ha ha ha. Em uma série de acontecimentos forçados Mado também fica grávida e acaba mantendo o filho porque a pílula do aborto era grande demais e ela estava sem água no momento. Ha ha... hã?
+José se torna, então, um fora-da-lei ao encontrar e resgatar o corpo do primeiro filho. Desobedecer leis pode não ser algo nobre, mas é o corpo do seu filho que estava lá no rio. Podemos abrir uma discussão sobre como decidir se uma lei é justa, mas a certeza é que não chegaremos a lugar algum, pois tudo é subjetivo. Escolha seu lado.
 
-De inverossímil a grotesco, as piadas "arquitetadas" pela roteirista estreante Agathe Pastorino nunca funcionam. E nem poderiam. Apresentando personagens que de cara já não nos preocupamos, sequer acreditamos, o que segue são esquetes televisivos na melhor das hipóteses, e isso nem Juliette Binoche nem o clássico cachorro fofinho das comédias consegue salvar.
+Não demora para seu barco ser roubado, e por um desertor dos paramilitares. Seria ele um paradesertor, então? As coisas são confusas quando o governo local não possui o controle da situação e impõe suas próprias restrições sobre retirar corpos do rio.
 
-O material se torna quase um completo desastre nas mãos da diretora Noémie Saglio, que aqui redigiu os diálogos e pega uma história muito menos interessante, dinâmica e criativa que um de seus trabalhos anteriores, Beijei uma Garota, e que não entende o buraco em que se meteu. Misturando momentos pseudo-dramáticos e filmando-os como tal junto de uma confusa Juliette Binoche andando em círculos com sua moto cor-de-rosa, a história só consegue não se tornar completamente insuportável porque sabemos que se trata de uma comédia, que deve acabar, e deve acabar rápido.
+Este é um filme bem longo que vai seguindo um ritmo até que agradável. É o assunto que nunca chega a lugar algum. Sua largura de tela é absurda e exibe longos e lentos planos em torno desse mundo com floresta, rio e José.
+
+Há uma sequência muito engraçada quando ele é capturado e tem uma conversa com o capitão de uma tropa enquanto restabelecem a energia elétrica para ele conseguir acompanhar o final da corrida de bicicletas. Recebendo ordens do líder dos paracoisas, José toma sopa até não poder mais. É uma cena forte, só que não. O peso de que ele pode morrer a qualquer momento já ficou perdido no desenvolvimento da história, que não se preocupa em estabelecer essas regras, por mais simples e óbvias que sejam. Como isto é cinema, se as regras que nos são apresentadas, espectadores, é que é normal ter corpos pelo rio e matar pessoas por qualquer motivo, então nossa conclusão é de que se José morrer naquele instante não haverá impacto algum.
+
+Há poucas cenas memoráveis junto desse protagonista que não sei se é um figurante ou uma pessoa de carne e osso seguindo um roteiro. Ele poderia ser um ótimo figurante ou um péssimo ator, mas independente disso sua presença é etérea. Nós acompanhamos por quase duas horas e meia ele buscando o corpo dos filhos, mas não há um único momento em que a pessoa por trás do personagem estabelece comunicação conosco. A única estratégia do filme é confiar no senso comum da plateia e nas cenas que demoram mais para cortar, cujo objetivo é fazer o espectador interpretar o vazio como se houvesse algo lá. É um truque comum de cineastas que não estão afeitos em forçar opiniões ou construir narrativas. O roteiro frouxo soa mais como neorrealismo.
+
+Sem trilha sonora e com fotografia e sons diegéticos minimalistas, Tantas Almas é uma experiência semidocumental que ironicamente não tem alma. Quando se assiste a uma obra de arte você deve esperar por opiniões, e quanto mais forte e complexa melhor. Porém, um filme tão minimalista que divide seu enredo entre os bons e maus desmorona ao menor sopro de razão. E por isso quando paramos para pensar sobre o que acabamos de ver, não há alma nenhuma nos atormentando.
 

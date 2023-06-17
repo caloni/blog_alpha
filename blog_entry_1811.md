@@ -1,18 +1,20 @@
 ---
 
-Já tinha ouvido falar deste clássico do enxadrista campeão mundial Emmanuel Lasker, mas nunca a oportunidade de lê-lo. Então ele caiu no meu colo em meio a inúmeros downloads de livros sobre xadrez e comecei a folheá-lo digitalmente. Para minha surpresa ele é curto, fluido e divertido para fãs do jogo. Há algo que nos leva a ler cada vez mais, principalmente se você é um enxadrista, amador ou profissional, e se encanta em como o xadrez passou por tantos séculos e tantas culturas diferentes, saindo do místico Oriente e indo se situar confortavelmente no berço europeu e, posteriormente, na União Soviética, de onde surgiram os maiores ícones do último século.
+Parece um road movie disfarçado, já que todas as cidadezinhas e pessoas envolvidas vivem à beira da estrada. Estamos no interior da Patagônia, Argentina, terra do vinho e da empanada. Um velho senhor nutre a esperança de poder reaver seu velho cão que fugiu diante de um comportamento condenável de seu dono. Uma jovem e humilde mãe é sorteada em um programa de televisão para concorrer a um multiprocessador de alimentos. Um vendedor detalhista e falastrão tenta entregar o bolo perfeito para o filho de seu interesse amoroso.
 
-Uma particularidade que é necessário ressaltar é como o jogo de xadrez foi por muito tempo um jogo de azar. Sim, os lances eram decididos nos dados, e talvez essa tenha sido a chave de sua longevidade imprevisível. Lasker nos premia com uma descrição de uma partida de xadrez sendo jogada com espectadores interessadíssimos nos resultados:
+Juntos, eles irão cavalgar por pequenas aventuras em direção a Julião, a cidade grande das redondezas. O velho é o pilar onde se constrói a história, mas os outros dois servem de apoio para um projeto que se entitula História Mínimas, um longa de Carlos Sorin que tenta focar na humanidade de seus personagens, mas que os enxerga mais como as paisagens que servem de pano de fundo às suas existências do que seres complexos e multifacetados. Dessa forma, o minimalismo em torno das três histórias acaba se sabotando, colocando uma história interessante sob um enfoque superficial.
 
-"...Uma partida dura horas. Muitas vezes, não termina senão no segundo dia. Nas proximidades, senta-se uma multidão de espectadores, que fitam o tabuleiro em silêncio. Quando, porém, é feito um lance, se for inesperado, belo ou brilhante e mais particularmente se envolver o sacrifício de uma peça, os espectadores pulam, gritam alto, mostram sinais de alegria ou dançam e até mesmo choram de excitação. O jogador muitas vezes pensa durante uma hora antes de fazer um lance. O final de uma partida é uma verdadeira cena de festa. A excitação muitas vezes leva os jogadores a aumentarem suas apostas ao ponto de a derrota no jogo envolver a ruína absoluta do vencido. Para começar, apostam-se as renas; depois, os cães; depois, as roupas; em seguida, todos os bens de um homem; e, no final, até mesmo as mulheres são apostadas..."
+É certo que existe um romantismo meio nostálgico daquela realidade longe da civilização. O filme é de 2002, mas a história é mais antiga, deve datar da década de 80, 70 quiçá. Os personagens são simpáticos, e os secundários ainda mais, sempre hospitaleiros em uma região desértica que parece já castigada pela natureza. Em determinados momentos os encontros do velho senhor soam até bíblicos, pelo tom bucólico com que seus recém-amigos o tratam. E quem não trataria bem um velho com uma charmosa bengala à beira da estrada?
 
-Notemos o quão sério o xadrez pode ser levado pelo homem e talvez estejamos mais próximos de tentar entender a própria complexidade do raciocínio humano em torno de jogos ou qualquer sistema simbólico que nos faça sentido. Fazer sentido pode ser entendido como uma droga. Tenho um amigo que já se viciou em xadrez, aliás. Espero nunca chegar nesse nível.
+Já o vendedor, este é uma figura à parte. Encarnado de maneira moderadamente divertida por Javier Lombardo, Roberto é aquela pessoa que acredita em seu eu prestando mais atenção aos objetos em sua volta (como um terno com o botão errado) do que às pessoas. Aliás, podemos dizer que essas pessoas são auxiliadas por outras que dão muito mais valor à observação do próximo do que elas mesmas, obcecadas por seus pequenos Santo Graal.
+
+Com um ritmo um pouco lento, mas sempre em movimento, Histórias Mínimas é para ir degustando aos pouquinhos, mesmo, sem pressa. O desenrolar da história vai impressionar pela sua visão da natureza humana (que é boa), principalmente em uma época em que o cinismo impera nos grandes centros urbanos.
 
 ---
 categories:
 - writting
-date: '2012-12-18'
-link: https://www.imdb.com/title/tt1454029
+date: '2020-06-22'
+link: https://www.imdb.com/title/tt0250081
 tags:
 - movies
-title: Histórias Cruzadas
+title: Histórias Proibidas

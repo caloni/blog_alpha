@@ -1,24 +1,16 @@
 ---
 categories:
 - writting
-date: '2013-10-25'
-link: https://www.imdb.com/title/tt1392214
+date: '2019-12-02'
+link: https://www.imdb.com/title/tt0368913
 tags:
 - movies
-title: Os Suspeitos
+title: Osama
 ---
 
-O cansaço, desânimo e um envolvimento ilimitado na busca de duas meninas desaparecidas é o que forma a base de Os Suspeitos, mantida todo o tempo por três pilares fundamentais: o detetive e o pai incansáveis formam dois deles; a direção impecável de Denis Villeneuve (do excelente [Incêndios]) no desenvolvimento da trama forma o terceiro.
+Escrito e dirigido pelo diretor afegão estreante em longas de ficção Siddiq Barmak, "Osama" se aproveita do timing trágico pós-atentado das Torres Gêmeas em Nova York, o ataque orquestrado cujo mandante foi o jihadista Osama Bin Laden, inimigo público número 1 dos EUA e do mundo dito civilizado. Esse timing nada tem a ver com o que se vê neste filme, que ficionaliza uma realidade muito próxima do próprio elenco que participa do filme.
 
-Construindo a tensão mesmo antes que as duas crianças sumam usando a figura do furgão como uma ameaça sem rosto, o Dia de Ação de Graças entre os vizinhos vira um pesadelo em questão de segundos. Naquele mesmo momento, há uma economia preciosa ao cortar para a noite e já nos apresentar ao herói da trama, o Detetive Loki (Jake Gylenhaal). Sem nunca saber muito bem seu passado (algo incomum no gênero), pegamos fiapos de sua personalidade durante a incessante investigação, movida de perto e em paralelo pelo igualmente incansável Keller Dover, um dos pais da garota (Hugh Jackman).
+Barmak pesquisou sobre o povo muçulmano tomado pelo medo dos grupos extremistas talibãs para compor o cenário onde se passa essa história de uma garota que precisa fingir ser menino para conseguir trabalhar e assim ajudar sua família de apenas mulheres a sobreviver. O filme aproveita a história para ilustrar diversos aspectos da doutrina, como a submissão completa da mulher, além de demonstrar o resultado catastrófico em uma sociedade como essa, onde medo e miséria convivem entre diferentes gerações.
 
-O que realmente empolga em Os Suspeitos é entender que um policial não precisa entregar todas as respostas de bandeja ao espectador, mas precisa sim manter sua atenção através de pistas (falsas ou verdadeiras) e uma narrativa que vá sempre nos movendo na história. No caso, a investigação de ambos os personagens (os pilares que mencionei) é primordial pelas formas distintas de pensamento e ação, o que nos divide: em determinado momento acreditamos na efetividade das ações do pai e em outro já desconfiamos que suas conclusões vão longe demais, quando passamos a acompanhar com mais cuidado os passos do detetive.
-
-Além disso, as dicas espalhadas pelo cenário são de prender a respiração. Quando notamos que símbolos, objetos e até mesmo o tempo (chove e neva com frequência no local) podem desempenhar uma função primordial nas investigações, além de manter o espectador sempre com condições de acompanhar o raciocínio que vai se formando.
-
-Porém, não é só a história que prende a atenção: as atuações são exemplares. Paul Dano representa a figura tão presente em filmes de suspense do jovem mentalmente limitado que possui informações vitais de uma forma completamente verossímil, e mesmo assim temos dúvidas quanto ao caráter do rapaz. Já Hugh Jackman representa o pai atordoado que não consegue parar de pensar que deveria estar sempre presente para proteger sua filha (e seus olhos ligeiros e pensamentos cada vez mais próximos de sua ação conseguem transpassar esse desespero). No topo da lista elencaria Jake Gyllenhaal como o detetive que possui mais personalidade quando não faz algo do que quando faz, sendo as discussões com seu chefe particularmente reveladoras. E não poderia citar outros personagens que se tornarão importantes demais para a trama no terço final.
-
-Enfim, um policial dos bons como não se costuma ver.
-
-[Incêndios]: {{< relref "incendios" >}}
+Seus atores são retirados diretamente dessa realidade, e nela voltam através de um diretor totalmente influenciado pela escola soviética, que influenciou o renascimento do Cinema por lá após a invasão russa. Dessa forma, há pouco enquadramento e muita montagem. O que vemos está sendo descrito de maneira dramática e exagerada porque seu idealizador respirou a teoria do autor de O Encouraçado Potemkin durante sua formação. O resultado é um filme tenso e necessário, embora exagerado para os dias de hoje, mas é seu exagero que nos informa o imediatismo e a urgência em que a história se passa.
 

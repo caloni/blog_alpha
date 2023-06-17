@@ -1,32 +1,31 @@
 ---
 categories:
 - writting
-date: '2018-04-11'
-link: https://www.imdb.com/title/tt1677720
+date: '2012-04-01'
+link: https://www.imdb.com/title/tt1392170
 tags:
 - movies
-title: Jogador No. 1
+title: Jogos Vorazes
 ---
 
-Se antes filmes medíocres de Spielberg poderiam contar com a sua emoção e carisma em conduzir uma história para subir sua média próxima do aceitável, em Jogador Número 1 esse efeito inexiste, pois estamos lidando com fantasmas sem alma como os heróis de um jogo cujas consequências na vida real já foram preguiçosamente definidas antes do jogo começar.
+Há ótimas ideias em Jogos Vorazes, produção baseada no romance homônimo de Suzanne Collins (que também participa do roteiro) e que deve ser o primeiro de uma trilogia. Ambientado em um mundo futurista, mas devidamente verossímil, apresenta a delicada situação de 12 distritos que, após perderem uma tentativa de revolução contra o governo dominante, se veem sujeitos a sacrificar um casal de jovens anualmente em uma batalha por sobrevivência em uma floresta "criada" de maneira inóspita cujo objetivo é condecorar o último ser humano que restar.
 
-Por outro lado, imagino que impacto este filme terá para as futuras gerações, estas sim, já aprisionadas em um verdadeiro beco sem saída, incapazes de sentir qualquer coisa e optantes por isso, ignorando um mundo desagradável demais para suas timelines. Não que as pessoas já não façam isso, ansiosas por sentimentos explosivos artificiais todo o tempo, seja através de comida, vídeo-games ou de filmes como esse. Porém, a tecnologia tem tornado cada vez mais simples colocarmos nossos óculos da ignorância, a ponto de um dia a tecnologia em si ser mais humana do que a espécie que a utiliza.
+Acompanhamos essa história através dos olhos de Katniss Everdeen (Jennifer Lawrence, vinda dos ótimos [Inverno da Alma] e [X-Men: Primeira Classe]), uma moradora do Distrito 12 junto com sua irmã caçula e sua ausente mãe. A história dessa família e dos próprios distritos são apresentados en passant, pois o filme foca mais em descrever a vida dos organizadores dos jogos do título, e como isso destoa completamente da visão dos jovens sequestrados para essa diversão alheia.
 
-Aqui definitivamente Spielberg conseguiu. As emoções desta história se concentram principalmente nas infinitas referências aos saudosos anos que a infância dos espectadores estão inadvertidamente presos desde que o presente se tornou um fardo pesado demais. Estamos na cidade fictícia de Columbus, onde vive o heroizinho do filme, Parzival/Wade, órfão graças a uma corporação do mal, a IOI (gostou do nome? então talvez goste desse filme). Ele vive na periferia, onde há casas apinhadas, mas ninguém liga, pois todos praticamente vivem na realidade virtual, em especial um jogo criado por um gênio da computação do passado, etc. O próprio Parzival vai explicar isso no começo, além de outras coisas. A narração em off é apenas o primeiro, mas não mais usado, recurso preguiçoso do longa.
+E não há o que reclamar: o design de arte da produção é detalhista em tornar aquele mundo tão fascinante quanto impessoal. Note os largos aposentos (como o quarto de Katniss) sendo usados meramente como artefatos de exibição do poder que é exercido por aquelas pessoas.
 
-O mais usado são efeitos digitais. E explosões. E músicas pop de época. E luzes piscando. E Alan Silvestri exagerando cada nota de sua trilha sonora, comentando o filme de cabo a rabo com força o suficiente para assistirmos tudo de olhos fechados. Talvez fosse uma boa ideia.
+Ainda que o foco da história fosse justamente os tais jogos é o acompanhamento deles pelos que estão de fora que se torna mais interessante no decorrer da jornada, como podemos notar pelo dramático momento da morte de um personagem que gera uma comoção popular que não apenas enriquece a trama como dá pistas do que pode acontecer nos [próximos] [filmes].
 
-Mas quem quer deixar de ver Gigante de Ferro, T-Rex e tantas referências pop literalmente pulando na tela? Apenas uma figura como Spielberg, produtor e detentor de tantas "marcas" do passado, e digno de conseguir licença para outras tantas, para produzir e dirigir esta façanha. Dessa forma, não é surpresa alguma que quando Parzival tira seu carro para uma corrida "descobrirmos" se tratar de um DeLorean, o carro usado por Doc. Brown e Marty McFly em De Volta Para... ah, se você cogitou em ver esse filme já sabe disso.
+O jogo da manipulação da mente, cada vez mais fraca.
 
-Aliás, este é um dos detalhes mais irritantes no longa. As referências são usadas como muletas, mas os personagens que vivem dentro delas a idolatram não pelo que representam, mas por serem... referências. Isso por um lado diz muito sobre o espectador saudosista que assiste Stranger Things por falar sobre os anos 80, e não pelo que ele tem a oferecer hoje. Consumidores estes que comem Member Berries (South Park) no café da manhã. Isso porque -- e mais uma vez a premissa do filme -- a vida real, o tempo presente, é muito insuportável para quem já tem uma visão idealizada do paraíso: os anos 80 dentro da televisão. Afinal, é muito mais divertido, embora não original, pegarmos nossos DeLoreans e venerar o que hoje é visto como grandes clássicos, embora na época provavelmente era visto como o último ou o primeiro Vingadores e não se lembrar direito qual é qual.
+Como é triste quando a humanidade se perde em criar jogos onde nossos jovens são assassinados brutalmente, e quando esses homicídios são festejados como troféus. Triste quando isso é televisionado, controlado e manipulado de tantas formas que não existe algo que possamos fazer. Triste saber que a audiência para esses programas sobe cada vez mais, e a personalidade do ser humano cada vez mais decai ao nível de mediocridade e auto-flagelo de nosso potencial criativo.
 
-Este filme está obcecado em contar uma história adolescente que tenha uma sensação de aventura tão falsa quanto em um videogame. Ou talvez mais, já que gamers podem pelo menos sentir algo a mais controlando seus avatares e sendo responsáveis por seus atos. Aqui nem Parzival nem sua trupe sentem o peso de suas ações, e muito menos as centenas de alienados que os seguem. Isso porque a maior parte da ação se passa no jogo virtual, onde os avatares são criações diferentes das personas vistas na vida real, gerando um descompasso.
+Triste saber que o único motivo de existência de muitas pessoas é conseguir ver o final do capítulo a tempo, e saber quem ganhou, quem foi o vencedor do jogo da manipulação.
 
-Porém, esse descompasso entre avatares e pessoas de fato está longe de ser dramático como na vida real, onde uma linda garota em um RPG pode ser de fato um grandissíssimo gordo nerd entalado em sua cadeira de gamer jogando por 24 horas em seu porão se alimentando de pizza vencida há dois dias. Aqui a mocinha do filme sequer é feia. Ela tem uma marca de nascença que a torna mais sexy! Ela é Olivia Cooke, descolada, bonitinha. A frase do nosso herói: "não estou decepcionado em te ver na vida real".
+Feliz fico com o fato de tudo ser um filme, fruto da imaginação de produtores e que não existem coincidências com a vida real. Certo?
 
-Ao mesmo tempo em que brinca inocentemente com questões sociais interessantíssimas como essa, que poderiam ser melhor exploradas, o roteiro de Zak Penn adaptado de um romance utiliza o vilão clássico, personificado, que na liderança da corporação capitalista malvadona (lembra dela?) irá fazer o possível para conseguir um legado deixado pelo criador do jogo em forma de enigmas. Você já viu esse filme antes, algumas vezes, e com melhores desculpas.
-
-As cenas de ação, pelo menos, recebem a mão habilidosa do diretor, que desde As Aventuras de Tintim ganha gosto em explorar as possibilidades da câmera em mundos virtuais. Porém, mesmo aqui, há muitas sequências cheias de cortes frenéticos onde fica difícil de acompanhar minimamente o que ocorre. Mas este não é sequer o maior problema. Estamos acompanhando um épico sem motivos válidos para nos emocionarmos. Tudo é tão vazio quanto um avatar sem jogador presente. Aliás, nem Mark Rylance e Simon Pegg no elenco, pesadamente maquiados/virtualizados, conseguem entregar humanidade.
-
-Com crianças que fingem ser adultos, incapazes de se divertir como os Goonies, e um Spielberg que finge ser uma criança discutindo história, economia e política, Jogador No. 1 tende a atrair pessoas afeitas ao saudosismo. Ela podem até se lembrar de quando o diretor trazia alguma novidade interessante através da emoção. Aqui a emoção ficou cara demais para surgir no pacote básico do game.
+[Inverno da Alma]: {{< relref "inverno-da-alma" >}}
+[X-Men: Primeira Classe]: {{< relref "x-men-primeira-classe" >}}
+[filmes]: {{< relref "jogos-vorazes-a-esperanca-parte-1" >}}
+[próximos]: {{< relref "jogos-vorazes-em-chamas" >}}
 

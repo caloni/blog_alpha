@@ -1,25 +1,21 @@
 ---
 categories:
 - writting
-date: '2023-01-08T21:02:19-03:00'
+date: '2018-10-23'
+link: https://www.imdb.com/title/tt7220696
 tags:
-- wine
-title: Rio Sol Gran Reserva Alicante Bouschet 2018
+- cinemaqui
+- movies
+title: Rir ou Morrer
 ---
 
-Às vezes vem a sensação que essas anotações não são úteis, mas acontece que há muitos vinhos no mundo e pouco tempo, dinheiro e fígado para ficar tomando garrafas de todos os lugares, uvas e safras. Eu posso saber na hora se gostei de um vinho, mas isso não me ajudará a saber mais sobre outros vinhos.
+Rir ou Morrer é um filme bobinho que encontra sua graça nos fiapos de personagens que vemos, baseados bem por cima em fatos reais que ocorreram durante a primeira guerra. Ironicamente é sua leveza que nos deixa imunes ao que pode acontecer com seus heróis.
 
-Este Rio Sol foi uma das notas mais altas nos três testes às cegas que fiz com o pacote de dezesseis garrafinhas do [EniWine]. Eu votei consistentemente neste como se fosse a quinta maravilha do mundo. E a sorte é que ele é brasileiro, relativamente fácil de adquirir (pela própria EniWine). Mas não costumo beber muitas vezes o mesmo vinho. Uma exceção eram os vinhos do Outback, pois a seleção é pouca e eu ia muitas vezes lá para o double drink.
+A história se passa durante os conflitos na Finlândia na Primeira Guerra, quando entre alemães e russos soviéticos, eles ficaram com os alemães. E a parte revolucionária que apoiava os russos, muitos do partido socialista, acabaram virando prisioneiros de guerra. Mas não eram soldados: eram comediantes. Entre o paredão de fuzilamento e uma nova chance eles precisam entreter seus novos líderes.
 
-Mas isso é coisa do passado, eu não vou mais a este restaurante, a qualidade decaiu e os preços aumentaram. E mesmo que fosse: beber sempre os mesmos vinhos garante que os apreciarei sempre? Talvez. Mas e a surpresa, a fascinação por uma nova obra de arte?
+Realizado com pouco menos que sete milhões de reais, essa produção finlandesa consegue muito com pouco. Situado em uma ilha, a prisão adaptada possui (quase) um realismo suficiente para a história. Porém, seu roteiro é simplista, teatral, e frequentemente coloca mudanças de humor em seus personagens que alteram todo o destino desses ex-combatentes.
 
-Minhas anotações precisam de uma reforma. Elas precisam ser úteis de alguma forma. Talvez agrupando sensações parecidas? Uvas? Qual o critério? Preciso repensar sobre isso com tempo. As classificações do mundo do vinho já podem ajudar.
+Sua estrela é Toivo Parikka (Martti Suosalo), o comediante mais famoso da Finlândia. Ele e sua trupe vão construindo uma peça adaptada para o gosto dos militares, e seguindo filmes do gênero, o resultado inesperado é revelado apenas no final. Enquanto isso vamos curtindo as pequenas reviravoltas que como citei vão alterando o destino dessas pessoas: morte ou não-morte. Mas isso cansa e eventualmente fica repetitivo. O tenente no comando muda de opinião sobre o que fazer com os soldados todo tempo, e há personagens demais para nos lembrar.
 
-Mas não quero virar um Robert Parker em busca de vinhos com maior pontuação. Eles continuam sendo arte. A tarefa é entender a qual gênero um vinho pertence.
-
-Gêneros podem ser úteis nesse caso. Uma comédia leve pode ser aquele vinho fácil de beber sem complexidade alguma, mas ainda assim desejável. Todos entenderiam. Eu entenderia. Muito diferente deste é aquele drama pesado, encorpado, difícil de engolir de uma vez pois é preciso de tempo para assimilar todos os aromas ou sabores.
-
-E há também aquela aventura, que te leva para viagens sensoriais ousadas ou atrevidas. O vinho de quem quer emoção com a bebida e ao mesmo tempo curtir as saudades do novo.
-
-[EniWine]: {{< ref eniwine >}}
+Feito para o espectador fazer rir, mas não muito, e conseguir através de algum drama bem localizado e com trilha sonora para fazer chorar, "Rir ou Morrer" é gênero de nicho, feito para o espectador comum. Simpático, terno e esquecível. Assistir entre sessões mais pesadas.
 

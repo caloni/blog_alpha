@@ -1,14 +1,12 @@
 ---
 categories:
 - writting
-date: '2020-04-15'
-link: https://www.imdb.com/title/tt0243133
+date: '2019-12-21'
+link: https://www.imdb.com/title/tt0787524
 tags:
 - movies
-title: O Homem que Não Estava Lá
+title: O Homem que viu o Infinito
 ---
 
-"Como o uso das cores no cinema hoje em dia é mais para distrair a atenção do espectador do que realmente importa." Essas foram as palavras de Roger Deakins, diretor de fotografia deste filme dos irmãos Coen. Deakins está em seu primeiro longa-metragem totalmente em preto e branco e sua entrevista no DVD que assistimos tem mais de meia-hora falando sobre as especificidades do formato, a escolha do processo de revelação durante as filmagens e uma visão artística e pessoal do fotógrafo sobre o passado, o presente e o futuro da fotografia no cinema. O seu entrevistador estava mesmo inspirado.
-
-Este é o nono filme creditado para Joel Coen (Ethan ainda não constava nos créditos como diretor) e é mais um daqueles estudos de linguagem cinematográfica, uma homenagem e exploração dos filmes noir e de investigação com o tom da década de 40 após a segunda guerra. No entanto, o filme vai além, pois acaba nos revelando ser um estudo de um personagem completamente alheio ao que lhe acontece. No final você sai perturbado, esquecido, desalentado. E extasiado. O uso da linguagem cinematográfica pelos Coen acaba vazando pela história, mas ela permanece relevante até o fim, pois não é possível para o espectador se desvencilhar daquele mundo absurdo.
+Bibliografia blasê e de conveniência, com matemáticos se dando tanta importância que chega uma hora que não importa mais. É a história de um indiano sem estudos formais que com a ajuda de um professor de Cambridge consegue publicar alguns trabalhos relevantes para outros matemáticos. Tudo é muito abstrato, incluindo as personalidades desses personagens, eternamente em um palco de teatro. Seus diálogos nunca se unem como nas supostas fórmulas elegantes desse indiano. É uma sucessão de frases de efeito que sequer tentam criar alguma importância real para a história, apenas vivem repetindo como é importante. Uma direção de arte e produção de filmes televisivos, mas com um elenco de primeira que nunca consegue entregar a coisa real. Exceto Dev Patel, como sempre absorto nas obsessões de seu personagem, incapaz de esboçar um sorriso que não implique em seriedade. Jeremy Irons não consegue salvar seu personagem do destino de um narrador glorificado. É como se diz hoje em dia sobre biografias, se você vai movimentar uma equipe inteira para mostrar visualmente o que é possível aprender em quinze minutos lendo a Wikipédia, prefira a Wikipédia.
 

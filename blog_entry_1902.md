@@ -1,19 +1,47 @@
 ---
 categories:
-- writting
-date: '2012-10-25'
-link: https://www.imdb.com/title/tt1643222
-tags:
-- mostra
-- movies
-title: Inferno
+- coding
+date: '2008-03-14'
+title: Influence Board
 ---
 
-Um Inferno cresce bem, como qualquer trabalho de terror/suspense bem executado. O que fortalece o primeiro trabalho do diretor Tim Fehlbaum como trama, porém, é o uso sem ressalvas de um dos seus personagens mais importantes: o sol.
+Há muito tempo sou enxadrista não-praticante. Acho que os anos de programação me deixaram mais viciado em codar do que pensar no xeque-mate. No entanto, sempre que posso, dou uma escapulida do Visual Studio e jogo uma partida ou duas na rede, quase sempre, é claro, tomando um piau psicológico.
 
-Acompanhamos a peregrinação de duas irmãs e um rapaz dentro de um carro completamente vedado através de um cenário que lembra um deserto, mas que possui estradas, florestas e postos de gasolina. Descobrimos que acontecimentos ainda não entendidos fizeram a temperatura na Terra chegar a níveis que matou boa parte da população por queimaduras e sede. Em um habitat agora seco, árido e sem leis, a busca por água é mandatória.
+A falta de prática e estudos pesa muito para um enxadrista amador, já que facilmente esquecemos das combinações mortíferas que podemos aplicar e levar. É muito difícil ter em mente aquelas três dúzias de aberturas que já são batidas (e suas variantes), ou então as regrinhas de praxe de como detonar nas finais com um cavalo e um bispo.
 
-O uso de uma fotografia que prioriza em absoluto a luz incandescente vinda do sol e que consegue oscilar para um escuro débil de noite é a chave para que sintamos o mesmo que seus personagens. O sentimento de urgência de início é representado por uma câmera inquieta cheia de zooms, que felizmente é interrompida quando o grupo é abordado por um bando de homens que por algum motivo vem capturando os aventureiros por aquelas bandas, que geralmente chegam sedentos e debilitados. O esclarecimento dos mistérios é feito sem pressa e com uma cadência que cria tensão pelas complicações crescentes que prenunciam um terror completo. Os personagens, diferente de suspenses medíocres, não são estúpidos, nem as soluções para os conflitos vem de maneira fácil e mágica. Cada novo passo em direção ao terror possui suas complicações, que se desencadeiam em direção a uma perseguição climática das mais estonteantes, mais uma vez protagonizado pelo sol.
+Por isso mesmo aprendi em um livro chamado Xadrez sem Mestre, de J. Carvalho, uma técnica universal e independente de decoreba que levei pra vida toda, e tem me trazido algumas partidas no mínimo interessantes. Se trata de analisar o esquema de influências em cima do tabuleiro. Influências, nesse caso, se refere ao poder de fogo das peças amigas e inimigas. O interessante é que deixa-se de lado a análise das próprias peças! Se estuda tão somente o tabuleiro, e apesar de parecer um método difícil, ele melhora sua percepção gradativamente, e é responsável por muitas das partidas simultâneas jogadas às cegas por alguns ilustres GMIs.
 
-O jogo de cenas é rápido o suficiente para que as pistas-recompensas surjam naturalmente, o que é um ponto forte para a conclusão, que não soa forçada. De uma maneira completamente inusitada, cria uma rima sutil com a animação Padak, do coreano também estreante Lee Dae Hee, que igualmente brinca com a busca pela liberdade de um grupo. Pode ser uma tendência contemporânea ou é a vida pregando na arte a sua ironia.
+{{< image src="influence-board.png" caption="Chess Board" >}}
+
+> Atenção: esse artigo trata sobre xadrez admitindo que o leitor saiba as regras básicas do jogo, assim como um pouco de estratégia. Se você chegou até aqui e está viajando, sugiro que pare de ler e vá jogar uma partida.
+
+Vamos supor que a posição no tabuleiro em um dado momento seja a seguinte:
+
+{{< image src="winboard-mate.png" caption="Winboard Mate" >}}
+
+Ora, é um mate inevitável, não é? Agora imagine por um momento que você não tenha percebido isso, e precise de uma ajudinha para saber onde cada peça pode ir ou atacar no próximo lance.
+
+{{< image src="winboard-mate-influence.png" caption="Winboard Mate (com influências)" >}}
+
+Agora ficou muito mais fácil de perceber que a única saída do rei não possui nenhuma proteção, já que tanto o peão quanto o próprio rei não podem fazer muita coisa se a dama atacar a diagonal vulnerável. E ela pode fazer isso.
+
+{{< image src="winboard-mate-final.png" caption="Winboard Mate Final" >}}
+
+Essa maneira de mostrar as influências em um tabuleiro de xadrez eu apelidei de Influence Board, e criei um projeto em linha de comando para fazer as devidas considerações a respeito de uma posição determinada. Mas como ninguém hoje em dia gosta de usar o WinDbg pra jogar xadrez, transformei meu projeto em pseudo-plugin para o [WinBoard], um famoso frontend de xadrez que costumo usar em minhas esporádicas partidas.
+
+Basicamente a única coisa que o futuro usuário das influências deve fazer é baixar o projeto WinBoard; no caso a versão disponível meu repositório do GitHub (update: not anymore) e compilar (suporta cmake). Caso queira uma versão nova do programa terá que fazer o merge entre as duas versões (a versão base usada foi a 2.4.7).
+
+    mkdir build && cd build
+    cmake -A Win32 ..
+    cmake --build .
+
+Após compilado, basta rodar o winboard.exe gerado; haverá uma nova opção "Show Influence" do menu General. Voilà! É possível até jogar às cegas com esse brinquedinho (opção Blindfold).
+
+{{< image src="winboard-options3.png" caption="WinBoard Options" >}}
+
+{{< image src="winboard-blindfold.png" caption="Winboard Blindfold e Influence" >}}
+
+Bom divertimento!
+
+[WinBoard]: http://www.tim-mann.org/xboard.html
 

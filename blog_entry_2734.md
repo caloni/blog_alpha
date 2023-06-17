@@ -1,24 +1,18 @@
 ---
 categories:
 - writting
-date: '2013-02-20'
-link: https://www.imdb.com/title/tt1560747
+date: '2014-05-01'
+link: https://www.imdb.com/title/tt0815245
 tags:
 - movies
-title: O Mestre
+title: O Mistério das Duas Irmãs
 ---
 
-Desde o início Freddie Quell (Joaquin Phoenix) é um animal não domesticado, obediente aos seus instintos mais primitivos e dotado de traços animalescos e infantis (como se divertir com peidos). Constatamos isso ainda pelo seu ritual de beber um quase veneno preparado por ele e brigar como um animal raivoso e enxergar sexo em qualquer lugar.
+"Um filme vendido como terror, mas que não consegue sequer chegar próximo de um suspense. Depois de passarmos quase duas horas acompanhando a movimentação de uma câmera que parece estar sempre revelando algo espantoso ou fantástico (não está), temos uma série de revelações completamente atrapalhadas sobre algo que não estávamos sequer procurando desvendar."
 
-Acreditarmos em seu estado animalesco é vital para que entendamos desde o início. A suposta aura de superioridade que Lancaster Dodd (Philip Seymour Hoffman), o tal Mestre do título, parece atribuir à figura do homem não passa de um delírio da sociedade moderna. Para isso a colaboração incondicional dos dois atores em viverem essas caricaturas é o que determina o sucesso na comparação entre esses seres que parecem tão díspares. No entanto, note como Lancaster se enfurece ao menor sinal de crítica aos seus métodos, por mais ponderados e racionais que estes sejam, demonstrando que talvez seja uma versão podada do seu recém-amigo.
+Essa foi a descrição que fiz ao assistir o original coreano de Medo, ou "A Tale of Two Sisters". Já esse remake norte-americano O Mistério das Duas Irmãs (ou "The Uninvited"), com Emily Browning, traz justamente o contrário: vendido como um suspense, ele funciona como um suspense na maior parte do tempo, justamente por abraçar desde o começo os delírios de Anna, a irmã caçula que sofre um trauma após um incêndio que mata sua mãe , além de ter seus sustos ocasionais. No entanto, o forte dele reside justamente em nunca nos deixar em dúvida se aquelas aparições são ou não reais (não são), evitando aquele joguinho bobo de filmes como Amigo Oculto e o próprio filme original.
 
-O diretor Paul T. Anderson não poupa esforços para demonstrar que o aparente cientificismo nos ensinamentos de Lancaster não passam nunca de sua visão subjetiva do mundo, no qual faz o papel de um profeta em uma seita. Se nos escapa o momento onde seja possível identificar qualquer indício de pensamento científico é porque a resposta mais simples é que simplesmente ele não existe.
+No entanto, existe uma dualidade presente justamente na segunda irmã da trama, e essa é desnecessária, clichê e que não possui propósito algum. Retire a irmã mais velha Alex (Arielle Kebbel) e troque o título do filme que ele continuará basicamente o mesmo. A necessidade dos Irmãos Guard (os diretores gostam de se apresentar assim nos créditos) de colocar Alex em diversas cenas acaba mais a enfraquecendo do que seu resultado final, que, convenhamos, é totalmente previsível e que não causa impacto nenhum.
 
-Ainda que seja justificável a presença de Freddie como alguém disposto a "aprender" com o Mestre e consequentemente nos fazer entrar em seu universo, e mesmo que seja visível a necessidade de Lancaster em conseguir com que Freddie internalize seu lado animal (talvez até como um desafio ao seu método) o fato é que nunca é possível deslumbrar o porquê perder tanto tempo com alguém irrecuperável da "falha" de ser um humano visceral (e livre) quando é fácil perceber os objetivos de Lancaster giram melhor próximo dos bolsos das desenganadas (e ricas) velhinhas que consola através da viagem no tempo.
-
-Philip Seymour Hoffman surge com um personagem que é seu reflexo obscuro do carisma que esbanja ao encarnar uma pessoa dotada do dom do discurso e desprovido de qualquer lógica, apelando, portanto, para a comédia barata para atrair a atenção de todos. Enquanto isso, Amy Adams, que faz sua filha, é sua versão meticulosa e mais sincera. Ela parece saber que o império crescente do seu pai poderá ser seu quando este partir, o que explica sua assustadora, para não dizer repugnante, determinação com que parece cuidar do seu pai (ajudando-o inclusive nos momentos mais íntimos).
-
-Quase todas as cenas carecem de trilha sonora, o que torna a introspecção dos atores muito mais realista. No entanto, quando surge, a trilha sonora revela o aspecto obscuro de Lancaster Dodd ao delinear uma série de sons incidentais, que conseguem ilustrar o lado místico e caótico de uma crença que tenta desviar o nosso olhar para o real.
-
-Em detrimento de todos os esforços, e mesmo sendo nobre a tentativa de ridicularizar a obviamente parodiada Cientologia é preciso assumir que o diretor exagerou por demais em seu ódio. Ou talvez não. Quando uma nova religião forma à sua volta as contas bancárias mais pomposas de Hollywood talvez uma crítica ácida e cinematográfica seja a única coisa honrosa a se fazer para nos salvarmos da insanidade de um mundo gerido pela ilusão do conhecimento.
+No final das contas o roteiro é o elo mais fraco da trama. Se não fosse pela interessante trilha sonora de Christopher Young (O Exorcismo de Emily Rose), que revive tons triviais de suspense, e pela competente fotografia de Daniel Landin que consegue representar melhor efeito visual que os próprios... efeitos visuais, o resultado estaria bem próximo do seu irmão coreano. Felizmente, uma direção igualmente competente dos "Irmãos Guard" garante a consistência e coerência de uma história fraca, mas bem contada.
 

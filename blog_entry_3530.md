@@ -1,22 +1,18 @@
 ---
 categories:
 - writting
-date: '2013-11-02'
-link: https://www.imdb.com/title/tt0158983
+date: '2010-07-20'
+link: https://www.imdb.com/title/tt0054331
 tags:
 - movies
-title: 'South Park: Maior, Melhor e Sem Cortes'
+title: Spartacus
 ---
 
-Não é nenhuma novidade que [a série South Park] preza pelo irreverente e polêmico em prol da comédia e, principalmente, na análise da estupidez humana (espectadores inclusos). No seu longa-metragem, portanto, nada muda. O diferencial é um frescor de piadas sobre os últimos acontecimentos no mundo que seriam feitas na versão televisiva de uma forma ou outra.
+O primeiro filme de Stanley Kubrick. Kirk Douglas, produtor executivo, substituiu o diretor original, Anthony Mann, após a primeira semana de filmagens. Nessa época Kubrick contava 30 anos de idade, e apesar de ter feito já 4 produções, nenhuma com uma grandiosidade como essa. E o mais impressionante em todo o filme é esse tom épico, com quadros que evocam claramente outro clássico, de Cecil B. DeMille: Os 10 Mandamentos. Vemos a multidão de escravos rebeldes crescendo, formando acampamentos, atravessando vales gigantescos apenas com a vontade de ser livre.
 
-Só que o estilo do seriado atira para todos os lados, e atira mais forte na moral americana que combate sexo e palavrões, mas favorece e até incentiva a violência, em um caráter permanentemente pró-bélico. A guerra no Iraque é, portanto, o grande alvo, potencializado pelo fato de Saddam ter sido morto e feito uma aliança de poder, sexo e influência com Satanás.
+No meio de tudo isso a figura de Spartacus (Kirk Douglas), o nome-título, mais como um símbolo do que como uma pessoa que determina seu destino. Isso é mostrado na cena em que os prisioneiros após a batalha final são convidados a reconhecer Spartacus para se verem livres do castigo de serem crucificados, no que todos dizem "Eu sou Spartacus". No fundo, todos são o mesmo escravo responsável pela luta pela liberdade.
 
-Em uma repetição do tema palavrões versus violência (como quando um garoto foi alvo de críticas por estar pelado e não por estar formando uma gangue armada), os comediantes Terence e Phillip são alvo de críticas por suas piadas de peidos e para isso instaura-se uma guerra contra seu país de origem: o Canadá. O que os americanos não sabem (exceto o espírito de Kenny) é que ao executar os comediantes serão abertos os portões do inferno para um período de trevas bíblico (claro que a religião não ficaria de fora).
+Spartacus, como é visto no filme e interpretado de forma brilhante, desde o início leve até o final cruel, por Kirk Douglas, personifica o homem comum que era o escravo. As cenas em que ele conversa com sua mulher e colegas são as mais significativas, mais contemplativas dessa situação em que ele vive. Seus sentimentos são postos para fora de uma forma tocante e ao mesmo tempo plausível vindo desse personagem que viveu escravo, mas possui o espírito livre.
 
-Desenvolvendo a história através de números musicais - mais uma alfinetada na moral e bons costumes - todos os personagens queridos da série ganham tempo em tela, além de novos e sagazes figuras (como o garoto-guerrilheiro que tem uma rixa pessoal com Deus). É preciso ressaltar dois sucessos inigualáveis "Blame Canada" e "Uncle Fucker", além de um momento inédito onde quatro números musicais são mostrados e cantados na tela ao mesmo tempo.
-
-Por tudo isso, "South Park - maior, melhor e sem cortes" é imperdível. Quem perder é um filho da puta fodedor de tios.
-
-[a série South Park]: {{< relref "south-park" >}}
+E do outro lado, o senado romano e suas estruturas de guerra eterna são mostradas da maneira mais vívida e realista possível, bem melhor que qualquer livro de história que alguém possa ler sobre esse evento. E a figura de Charles Laughton como senador Gracchus é imprescindível para que tenhamos a exata noção do nível de politicagem que corria solta no senado. Ao mesmo tempo, Laurence Olivier encarna o imperador-general Crassus representando, assim como Júlio César e Caio, aquela parte da elite romana que não entendeu bem ainda o que aconteceu com o Império.
 

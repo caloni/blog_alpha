@@ -1,18 +1,15 @@
 ---
 categories:
 - writting
-date: '2014-04-19'
-link: https://www.imdb.com/title/tt1126618
+date: '2021-08-12T22:19:11-03:00'
 tags:
 - movies
-title: Uma Manhã Gloriosa
+title: Uma Mulher é Uma Mulher
 ---
 
-Uma Manhã Gloriosa é o tipo de filme que tem tudo para ser mais uma comédia romântica clichê com um final feliz e uma boa lição de moral. No entanto, a direção sempre presente de Roger Michell consegue, assim como em Um Lugar Chamado Notting Hill, transformar um roteiro trivial em uma empolgante experiência pelo mundo da mídia televisiva.
+De repente você está em uma comédia musical francesa absurdista com os toques estranhos de contracultura de Goddard. Ame-o ou deixe-o, este filme é simpático. Não porque ele tenha algo a dizer ou faça sentido, mas porque ele é diferente de tudo o que costumamos ver na tela. Não é virtude do diretor, nem do roteiro. São coincidências da vida. Filmes do Goddard são meros acidentes da natureza. Não se pode atribuir autoria nem mérito, mas pode-se observar com curiosidade e até admiração.
 
-A história gira em torno de Rachel McAdams (Diário de uma Paixão), produtora executiva de um telejornal. Esperando por uma promoção, é demitida, e consegue um emprego apenas em um outro telejornal matinal largado às traças, como o próprio diretor do estúdio (Jeff Goldblum) o coloca. No entanto, o desespero da personagem de McAdams tenta de toda forma virar esperança, o que a faz tomar decisões arriscadas, como escalar um lendário e ranzinza âncora (Harrison Ford) que é conhecido nos bastidores como a terceira pior pessoa do mundo.
+A história é que essa menina é uma mulher que quer um filho. Ela viu no horóscopo e em um método científico que lhe diz que hoje é seu dia fértil. Então hoje é o dia e nada vai detê-la. Seu marido comunista que lê jornais comunistas acha absurdo. Vai entender. Ela é adorável e queria fazer parte de um musical, mas o máximo que conseguiu foi um filme francês dos anos 60 e dançar em uma boate de stripteasing. A tempo: há um ou outro peitinho, bem rápidos. Preste atenção.
 
-O filme consegue nos fazer pensar no pior mesmo sendo uma comédia, da mesma forma com que o brilhante Missão Madrinha de Casamento. Além disso, faz uma curiosa crítica sobre o conteúdo da TV estar sendo direcionado por um público que anseia cada vez mais pela risada fácil e menos pelo conteúdo. Harrison Ford convence do começo ao fim, o que não é pouca coisa considerando seus filmes de menor expressão (e até os blockbusters como Star Wars ou Indiana Jones).
-
-No fundo, o que uma dramédia romântica mais precisa é de personagens críveis, uma boa trilha sonora e uma história que não saia dos trilhos. Esse filme tem tudo isso e conseguimos enxergá-lo sem muito esforço. Afinal de contas, é um divertimento temporário ao qual estamos assistindo, não Cidadão Kane.
+Mas pedir pra prestar atenção em um filme do cineasta francês é pedir demais. Você devaneia no meio, volta em uma cena ou outra. Percebe algumas rimas e dá risada bem tímida. Os comentários do filme sobre cinema não são relevantes hoje em dia, mas a verdade é que continua acima da média. É entretenimento para a antiburguesia. E é leve, tem música. E peitinhos.
 

@@ -1,14 +1,17 @@
 ---
 categories:
 - writting
-date: '2018-05-07'
-link: https://www.imdb.com/title/tt2974412
+date: '2011-12-31'
+link: https://www.imdb.com/title/tt0086190
 tags:
 - movies
-title: O Renascimento do Parto
+title: 'Star Wars, Episódio VI: O Retorno do Jedi'
 ---
 
-Quase um panfleto institucional. Mas longo demais. O Renascimento do Parto é uma grande falácia pelo apelo à natureza, pelo apelo à emoção e muita desinformação que apela para evidências científicas ao mesmo tempo que fala sobre energia cósmica. Se trata da bagunça que surge quando o pessoal de humanas resolve debater. Quer dizer, não se trata de fato um debate, mas uma posição bem formada desde o início pró-alguma coisa e em seguida o descascamento de testemunhos e especialistas validando a única opinião que pode estar certa, e se você estiver errado você é... como é mesmo o nome? Ah, sim: fascista.
+Hora de assistir novamente a conclusão da saga de George Lucas, dessa vez após ter visto a nova trilogia e o significado que ela insere na antiga (em especial [A Vingança dos Sith]). Uma direção de arte cada vez mais impecável, que consegue equilibrar o tema espacial com a fantasia por trás da história. Quando C3PO narra a aventura épica dos personagens em torno da fogueira é o momento mais icônico e que melhor representa o conceito por trás das lendas filmadas de Star Wars. Parece não haver mais o que acrescentar a este universo, embora a direção aqui se mostre mais pausada, madura e consciente de seu final mais trágico que de costume.
 
-Piadas à parte, perto do final deste documentário uma das soluções apresentadas por um dos participantes é informar o público de maneira simples e clara, dando o poder para as mulheres decidirem a forma que elas acham melhor ter seus filhos. Nada contra. Porém, este mesmo filme poderia ser esse mecanismo se ele não abusasse de redundâncias e fades que o diretor Eduardo Chauvet preguiçosamente empurra um a um. Em um certo momento há um fade maior, e eu penso que vai acabar. Ledo engano, falta apenas meia-hora. Que parto de filme.
+Apesar de nossos heróis, é inegável que tudo converge para Darth Vader, e é ele quem rouba a cena, mesmo quando não está presente. É uma figura ameaçadora que foi crescendo a cada filme, onde agora tudo passa a girar em torno dele; até o Imperador, seu mestre, apenas existe para guiar seu pupilo por meio das trevas do Lado Negro da Força e impedir que Luke se torne um Jedi. O sentido da [Guerra nas Estrelas] e suas batalhas converge para a luta entre o bem e o mal, ainda em uma época em que esses conceitos eram muito bem definidos e onde o bem ainda não era relativo, como gostaria que fosse o Imperador Palpatine. Nesse sentido, a inversão temporal das trilogias ganha mais do que perde. Assisti-las em qualquer ordem lhe dará uma visão diferente dos fatos.
+
+[A Vingança dos Sith]: {{< relref "star-wars-episodio-iii-a-vinganca-dos-sith" >}}
+[Guerra nas Estrelas]: {{< relref "star-wars-guerra-nas-estrelas" >}}
 

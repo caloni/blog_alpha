@@ -1,16 +1,12 @@
 ---
 categories:
 - writting
-date: '2015-12-06'
-link: https://www.imdb.com/title/tt0497116
+date: '2012-07-31'
+link: https://www.imdb.com/title/tt0404030
 tags:
 - movies
-title: Uma Verdade Inconveniente
+title: Uma Vida Iluminada
 ---
 
-Dez anos após esse documentário de Al Gore, temos à disposição um material muito mais rico na série Cosmos. Porém, a diferença é que este filme é também uma espécie de discurso político disfarçado por um político que teve colegas cientistas em sua formação. Qualquer um consegue obter insights sobre a natureza em seu passado, e Al Gore teve a genialidade de inserir momentos sentimentais por todo seu discurso anti-aquecimento.
-
-Porém, a força de vontade de Gore quase é contagiante, e não fosse o apelo extremamente emocional, suas palavras tocariam mais ainda nas pessoas. Cansado de ir em inúmeras palestras em volta do mundo alertando as pessoas, decide fazer este documentário e atingir o maior número de pessoas possível. Deu certo. Ganhador do Oscar, é um dos documentários mais conhecidos atualmente.
-
-Entregando os dados mais indiscutíveis a respeito do aumento de gás carbônico na atmosfera, e relacionando de maneira inequívoca com o aumento da temperatura no planeta, o mais impressionante na primeira metade do filme são os resultados das pesquisas de pessoas dedicadas a buscar a verdade, custe o que ela custar. O aquecimento global com certeza é daqueles ramos da ciência que comprova que apenas a imparcialidade sobrevive ao tempo.
+A princípio promissor em seu formato, onde uma transição extremamente elegante e econômica delineia a vida inteira de Jonathan Safran Foer (Elijah Wood) como um colecionador compulsivo de lembranças de sua convivência com as pessoas, a história dele se enveredando por uma Ucrânia linda e falida em busca das origens de seu avô é dispersa, e não consegue interessar o espectador além da mera curiosidade pelo destino e características daqueles personagens tão incompletos e bizarros. Porém, verdade seja dita: a fotografia é algo de tirar o fôlego, e dá a impressão que o filme nos coloca em determinados cenários apenas para vislumbrarmos o horizonte de um passado que não está mais lá.
 

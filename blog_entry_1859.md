@@ -1,19 +1,45 @@
 ---
 
-Assisti alguns episódios deste que parece ser aquelas séries que causam sensação, talvez pelo seu final. O detalhe é que não importa como, todo novo episódio parece querer voltar nas mesmíssimas cenas finais, onde os estudantes de direito se metem em um assassinato e precisam... adivinhem? Lavar suas mãos.
+The biggest advantage running an application as a service, interactive or not, is to allow its start before a logon be performed. An example that happens to me is the need of debugging a [GINA]. In order to do this, I need the Visual Studio remote debugger be started before logon. The easiest and fastest solution is to run Msvcmon, the server part of debugging, as a service.
 
-Sem muita originalidade sequer na escola desses estudantes, o herói dessa empreitada, o jovem entusiasta Web Giggins (Alfred Enoch), é escolhido pelo seu empenho, apesar de até então não ter estudado muito nas aulas de Annalise Keating (Viola Davis), a professora que oferece prêmios baseado no desempenho de seus alunos em casos reais que analisam. Não faz muito sentido esse nível de aproximação dos estudantes de casos reais, mas faz muito menos casos de homicídio, muitas vezes noticiado na mídia (e que esses casos aconteçam tão frequentemente).
+Today I've figured out a pretty interesting shortcut to achieve it.
 
-Com uma inusitada direção mista em seus primeiros episódios, impressiona que mesmo com tantas visões diferentes, o resultado final fique igualmente televisivo e medíocre, apostando em trocas de cenas com o avanço em câmera rápida e no já citado flashback do final de ano da turma e sua decisão em como se livrar do assassinato que fizeram parte. Como testemunhas ou não, é um detalhe que iremos descobrir aos poucos.
+An [Alex Ionescu article] talks about this command line application used to create, initiate and remove services. Even not being the article focus, I found the information pretty useful, since I didn't know such app. Soon some ideas starting to born in my mind:
 
-Usando a professora como uma guia técnica que possui uma moral deturpada -- onde sua traição e detalhes do seu marido constituem basicamente o enredo principal -- How To Get Away... é mais um exemplo de como podemos pegar ideias interessantes que poderiam muito bem preencher duas horas ou três de um longa-metragem e esticá-las para caber em uma série de mais de 10 horas por temporada em que quase nada chama a atenção.
+> "What if I used this guy to run notepad?"
+
+Well, the Notepad is the default test victim. Soon, the following line would prove possible to run it in the system account:
+
+    sc create Notepad binpath= "%systemroot%\NOTEPAD.EXE" type= interact type= own
+
+However, as every service, it is supposed to communicate with the Windows Service Manager. Since Notepad even "knows" it is now a superpowerful service, the service initialization time is expired and SCM kills the process.
+
+    >net start notepad
+    The service is not responding to the control function.
+    More help is available by typing NET HELPMSG 2186.
+
+As would say my friend [Thiago], "not good".
+
+"Yet however", SCM doesn't kill the child processes from the service-process. Bug? Feature? Workaround? Whatever it is, it can be used to initiate our beloved msvcmon:
+
+    set binpath=%systemroot%\system32\cmd.exe /c c:\Tools\msvcmon.exe -tcpip -anyuser -timeout -1
+    sc create Msvcmon binpath= "%binpath%" type= interact type= own
+
+Now, when we start Msvcmon service, the process cmd.exe will be create, that on the other hand will run the msvcmon.exe target process. Cmd in this case will only wait for its imminent death.
+
+{{< image src="msvcmon-service.png" caption="MsvcMon Service" >}}
+
+[GINA]: {{< relref "gina-x-credential-provider" >}}
+[Alex Ionescu article]: http://www.alex-ionescu.com/?p=59
+[Thiago]: http://codebehind.wordpress.com
 
 ---
 categories:
 - writting
-date: '2020-11-22'
-link: https://www.crunchyroll.com/pt-pt/how-to-keep-a-mummy
+date: '2017-10-20'
+link: https://www.imdb.com/title/tt6573444
 tags:
-- animes
-- series
-title: How to Keep a Mummy
+- cinemaqui
+- mostra
+- movies
+title: Human Flow

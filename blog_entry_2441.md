@@ -1,16 +1,19 @@
 ---
-categories:
-- writting
-date: '2012-02-15'
-link: https://www.imdb.com/title/tt0079588
-tags:
-- movies
-title: 'Muppets: O Filme'
+categories: []
+date: '2014-11-21'
+tags: null
+title: MVP C++ Summit e/ou Visual C++ ressurgindo das cinzas.
 ---
 
-O potencial dos bonecos é evidente no filme, pois todos possuem personalidades marcantes que geram diversas situações ingenuamente engraçadas. E é de modo ingênuo que a história inicia, e a forma de narrar a vida dos irmãos, em que um deles é um boneco que portanto nunca cresce, já denota de modo inconsciente que a interação entre humanos e muppets é algo completamente comum naquele universo fabuloso.
+Esse ano aproveitei meu status de Most Valuable Professional (já renovado para mais um ano...  yes!) e visitei o Campus de Seattle da Microsoft no evento global MVP Summit. A ideia desse evento é que os MVPs troquem ideias entre eles e com as equipes dos produtos Microsoft. No meu caso, houve um dia que visitamos o prédio da equipe do Visual C++, assistindo apresentações sobre a nova e próximas versões de C++ e também dando opiniões e visões acerca do que é relevante e o que não é no momento para a comunidade de desenvolvedores.
 
-Mesmo assim, a fraca história (incluo aí o conflito batido em que há, acredite ou não, um magnata do petróleo) compromete os não tão inspirados números musicais, que na maioria das vezes apenas torna os defeitos do filme mais evidentes. Porém, não há como negar que a sequência do show final é admiravelmente engraçada, nostálgica e com números bem melhores por estarem inseridos apenas no mundo dos próprios Muppets.
+E é claro que eles já sabem que o mais relevante no momento é o acompanhamento do padrão.
 
-Enfim, um bom filme com promessas de continuações. Apenas aguardemos por roteiros mais ousados e criativos.
+Apesar de não estar no centro dos meus estudos e dedicação nos últimos anos, a velha queda que nutro pela minha linguagem de criação além do próprio título de expertise me fizeram escolher, por todos os dias que estive no evento mundial de MVPs, pela oportunidade de ouro de assistir o que a equipe de desenvolvimento do Visual C++ tinha a dizer. O saldo foi extremamente positivo.
+
+Como devem saber, há um blogue da equipe onde são compartilhadas informações sobre como anda esse projeto que já tem mais de duas décadas. As últimas novidades incluem ferramentas para desenvolvimento mobile (Android e Windows Phone) em C++ e o Visual Studio 2015 Preview e mais uma porrada de suporte aos padrões C++ 11, 14 e o futuro 17.
+
+E uma última novidade muito curiosa é um saite onde é possível testar código no último compilador compilado pela equipe!
+
+Enfim, sabemos que o GCC é o laboratório para as últimas features de C++, mas como também sabemos através do Java, nunca é muito saudável confiar em apenas um projeto para o desenvolvimento de uma linguagem. E quanto mais compiladores C++ modernos melhor!
 

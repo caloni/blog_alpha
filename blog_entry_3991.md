@@ -1,18 +1,17 @@
 ---
 categories:
-- coding
-date: '2016-08-12'
-link: https://youtu.be/78bYgerQVt4
+- writting
+date: '2023-06-05'
 tags:
-- videos
-title: 'Vídeo: Depurando código C++ no Visual Studio'
+- series
+title: Vilarejo do Amor
 ---
 
-Olá de novo. Este é o segundo vídeo da série "o que que eu tô fazendo no YouTube?". Dessa vez abri o Visual Studio para depurar um código de 10 linhas com um bug absurdamente absurdo, mas que pode enganar muita gente. Há quem acredite que esse bug foi proposital, mas não foi. O importante é que ficou muito legal. Vamos ver?
+Depois da carência que foi perder [Terrace House] durante a pandemia e com o suicídio de uma das participantes, este reality japonês abandona o glamour de colocar jovens bonitos com profissões moderninhas em uma casa estilosa e coloca quarentões isolados em uma casa clássica japonesa no meio do nada. E precisando de reformas. O objetivo? Eles encontrarem seu último, definitivo amor. Ousado? Sim. Tradicional? Graças a Deus.
 
-Pra começo de conversa, é importante ressaltar que este é um vídeo introdutório, para quem deseja começar a programar em C++, ou até para quem quer alguma dica de uso da IDE do Visual Studio. Já trabalhei algumas décadas (uma e meia) com a ferramenta, quando ainda se chamada Visual C++ e foi horrorosamente renomeada para Visual Studio .NET (arght!!!). Com o tempo fui me acostumando com a lerdeza cada vez mais crescente da ferramenta, acreditando piamente que um dia iriam transformar tudo em Java para ficar mais rápido.
+O principal nesta fórmula do amor deste novo programa é que o participante que quiser arriscar em um romance deve sair da casa. Ele irá tocar um sino e confessar na presença de todos da casa seu amor. A pessoa escolhida deverá responder no dia seguinte se sairá da casa junto. Não há segunda chance para quem toca o sino.
 
-Acho que não foi o caso. De qualquer forma, o vídeo acima tem o potencial de funcionar em quase qualquer versão do Visual Studio. Portanto, não se acanhe se ainda está mexendo em projetinhos jurássicos com o .NET 2003 (eu estou, mas só abro em emergência). Tudo deve funcionar exatamente como está no vídeo.
+Com dois comentaristas que nos fazem ter saudades dos de Terrace House porque eram muito melhores, Vilarejo do Amor possui um arco dramático dos mais inusitados. Nos faz pensar se essa história se desenvolveu naturalmente ou foi tudo planejado. É quando a paixão da vida real pode ou não estar em um roteiro. O que torna o programa bom é que isso acaba não importando tanto.
 
-Ou não. Nesse caso, RTFM ou comente aqui =)
+[Terrace House]: {{< ref terrace-house >}}
 

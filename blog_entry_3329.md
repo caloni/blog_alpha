@@ -1,21 +1,22 @@
 ---
 categories:
 - writting
-date: '2022-10-18T19:42:19-03:00'
+date: '2012-10-17'
+link: https://www.imdb.com/title/tt1839492
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Roza
+title: Ruby Sparks - A Namorada Perfeita
 ---
 
-Nem sempre "heróis" do cinema são personagens que merecem ser fonte de inspiração para sermos pessoas melhores. No caso desse Roza, uma ode a pessoas fracas, chega a dar vergonha chamar qualquer uma dessas pessoas de herói.
+Orquestrada pela dupla de diretores Jonathan Dayton e Valierie Faris ([Pequena Miss Sunshine]) e escrita pela atriz Zoe Kazan, que interpreta a Ruby Sparks do título, a história gira em torno de Calvin (Paul Dano), um jovem escritor que nem terminou o colégio e vendeu um livro de sucesso. Considerado por muitos um gênio da literatura (uma palavra que Calvin abomina), todos aguardam pelo seu próximo trabalho.
 
-Seu protagonista real, apesar dos créditos finais sugerirem quatro, é Hector. Pai de família, ele foge de casa e deixa mãe e pai, esposa e filho. O filme começa quando ele retorna, contra todos os prognósticos da família, e logo começa a arrumar problemas em casa. Mas sua esposa não o reconhece mais e seu filho não sabe sequer como reagir com sua presença. E sua mãe, agora viúva, é um autômato da geração passada, repetindo o que lhe foi ensinada sobre arrumar um porto seguro e sobreviver. Ela ainda fala a língua nativa de seu povo e não usa o espanhol.
+O problema é que Calvin não consegue mais escrever. Faz terapia para conseguir destravar sua inspiração, quando repentinamente começa a sonhar com uma garota (Zoe Kazan), algo normal na vida de alguém que está sozinho, já passou por uma decepção amorosa e não consegue encontrar alguém que preencha seu vazio. Ele escreve, portanto, em um ritmo cadenciado por suas noites de sonhos e páginas batidas em sua clássica máquina de escrever, um resquício, talvez, de um jovem escritor sem condições de ter um laptop ou um sinal de alguém que se considera único.
 
-Por falar em povo, este é claramente um filme onde a etnia interessa. De maneira pejorativa, no caso. Existe um descompasso entre o que esperamos que um ser humano ideal seja e as pessoas do filme. Como não fica claro quais os fantasmas que as atormentam, a conclusão natural do espectador é concluir ser este um caso genético, cultural ou ambos. De qualquer forma, sob qualquer ponto de vista de pessoas que almejam o melhor a cada dia, Hector é um desastre.
+As coisas começam a fugir do lugar-comum quando misteriosamente Ruby Sparks, a menina dos sonhos e páginas de Calvin, aparece na vida real do escritor. Ele não é bobo, e imagina, como toda pessoa normal, estar alucinando. Até que descobre que todos à volta conseguem enxergá-la. A realidade mostrada pelos diretores parece difícil de assimilar, mais difícil do que outro filme que lhe faz eco, Mais Estranho que a Ficção, que abraça a estranheza da relação autor/personagem de maneira muito mais fluida. Aqui, a relação é mais de autor/namorada, o que confere um grau maior de intimidade com a psique de Calvin, ou seja, todos os trejeitos de Ruby refletem tão somente os desejos infantis do rapaz em torno da garota perfeita.
 
-A escalação e atuação ajuda nesse sentido. De cara arredondada e quieto, a escolha de Hector Ramos é simbólica. Quando o ator diz algo é com uma voz fraca e fina. Falta fôlego e caráter nesse sujeito. Ele não tem fibra para afirmar nada, esteja certo ou errado. Com falhas graves de comunicação e de postura, se isolando de um mundo que não lhe interessa, é fácil entender a dinâmica dessa família disfuncional.
+O que ocorre em seguida possui lógica mas perde em espírito. Se por um lado a história é divertida e tem um potencial fabuloso, por outro dependemos da imaginação pueril de um escritor sem experiência com mulheres (como seu próprio irmão enfatiza) para avançarmos nessa "relação" baseada em controle. E controle, não importa a relação, nunca é algo bom. O resultado, conforme acompanhamos a vida a dois do casal, é naturalmente imprevisível e explosivo, nunca constituindo algo completo e realizador para ambos (e a maneira como Calvin ordena que seu cachorro, Scotty, faça cocô durante seus passeios matinais é a rima semântica para entendermos isso).
 
-O roteiro de Andres Rodriguez, ou melhor dizendo, a ausência de um, já que estes são personagens da vida real, é minimalista. Cria situações bem demarcadas sobre o retorno de Hector com começo, meio e fim. Não há trama, os eventos se sucedem como na vida real. E como um filme de arte preguiçoso que se preze, se há alguma mensagem escondida sua interpretação fica sob total responsabilidade do espectador, esse pobre coitado que entrou em uma daquelas sessões erradas da Mostra de SP. Acontece. O lado bom é que sempre há um próximo filme para tirar o gosto ruim do que já passou.
+De qualquer forma, "Ruby Sparks" agrada principalmente por não cair nos maneirismos do gênero, e por não transformá-lo em uma comédia barata. Existe a parte cômica, mas conforme o filme avança, vemos o lado cruel de seu protagonista, e a coisa deixa de ser engraçada para ganhar um peso dramático inesperado em uma história inicialmente tão leve. Apenas isso garante uma experiência única na telona.
+
+[Pequena Miss Sunshine]: {{< relref "pequena-miss-sunshine" >}}
 

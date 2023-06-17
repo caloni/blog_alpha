@@ -1,54 +1,24 @@
 ---
 categories:
-- coding
-date: '2020-08-04'
+- writting
+date: '2019-06-22'
+link: https://www.imdb.com/title/tt0162346
 tags:
-- ccpp
-title: GetArgs v. Array
+- movies
+title: 'Ghost World: Aprendendo a Viver'
 ---
 
-Algumas pessoas ficam chateadas quando não se programa usando Boost para tudo. E por isso eu continuo escrevendo código simples e funcional para meu blogue. Esse código vai continuar funcionando por mais cem anos e o código da Boost vai explodir antes que seus filhos nasçam.
+Duas garotas se formam no colégio. Uma encara a realidade, arruma um emprego e vai morar sozinha. A outra é a de artes. É aí que o filme começa.
 
-    /** Interpreta argumentos 
-      da linha de comando 
-      com suporte a arrays.
+O mundo concebido para Ghost World funciona com muito pouco. São duas garotas zanzando por aí e caçoando dos outros. A de artes desenha o momento em seu diário. Ela é a menos atraente, e por isso a outra é interpretada por Scarlett Johansson, e possui problemas de auto-estima que disfarça com críticas do mundo onde vive.
 
-    @author Caloni
-    @date 2020-08
-    */
-    #include <stdlib.h>
-    #include <string.h>
-    
-    const char** GetArgArray(
-      char* argv[], const char* arg)
-    {
-    	char** ret = NULL;
-    	size_t cur_off = 0;
-    
-    	while (*++argv)
-    	{
-    		if (strcmp(*argv, arg) == 0)
-    		{
-    			if (*(argv + 1))
-    			{
-    				char* new_arg = *(argv + 1);
-    				ret = 
-              (char**)
-              realloc(ret, (cur_off + 2) 
-                * sizeof(char*));
-    				ret[cur_off++] = new_arg;
-    				ret[cur_off] = NULL;
-    			}
-    		}
-    	}
-    
-    	return (const char**)
-        ret;
-    }
+Elas buscam nos classificados por oportunidades de trote e encontram esse pobre coitado (Steve Buscemi) que deixou um recado para uma desconhecida. Elas passam o trote e observam o quarentão beber um milkshake de baunilha e ir embora impaciente. A essa altura um espectador mais impaciente também deve ter ido embora.
 
-Esta versão do meu famigerado parser de argumentos vindos do argc e argv atende uma necessidade que tive recentemente em um projeto de teste: obter um array de argumento. Um array de argumentos é o mesmo argumento repetido n vezes se transformando em um array para ser consumido como tal. Para essa versão será necessário uma segunda função, especializada, que faça o serviço.
+Mas não se engane, Ghost World se paga, ainda que em suaves prestações. Quando menos se espera o filme vai conquistando espaço com observações aguçadas do mundo que nos rodeia, e quando menos se espera você está observando a tentativa pífia de conexão entre o mundo de um geek obcecado por ragtime e discos de vinil de 78 RPM e uma jovem com problemas de se ajustar ao mundo real.
 
-Alterei meu código mágico, simples e rápido para parsear linha de comando em C para suportar arrays. Na correria do projeto foi algo igualmente simples e rápido, embora com alguns truques interessantes de se aprender sobre libc. Basicamente o que ele faz é varrer o array argv construindo seu próprio filtrado apenas com os argumentos que interessam. Ele aloca e realoca a memória para esse array de ponteiros para char usando a função padrão realloc, que consegue fazer a alocação inicial e realocações mantendo o conteúdo da memória original.
+Baseado nos quadrinhos de Daniel Clowes (e ele mesmo adapta com o diretor), este é um universo realista que nos faz olhar mais de perto para as marcas da sociedade. Como um Donnie Darko adolescente, ele nos faz entender uma professora de arte através de suas observações em sala de aula, mas sem marcações de humor. Não há punch line. Ela recompensa os alunos com os trabalhos mais nonsense. E a garota de artes precisa sair por cima.
 
-Durante o laço é mantido um offset que é incrementado a cada novo argumento. Caso não exista nenhum argumento o retorno será NULL. O aprendizado de libc aqui fica por conta do uso do realloc para simplificar realocação, algo que C++ não possui até hoje (se você quiser fazer as coisas apenas no modo C++ com new e delete) e que depende de abstrações da STL como containers para fazê-lo.
+Sabemos disso não porque o filme nos disse, mas porque pelo acúmulo de experiências do seu lado, criticando a aparência das pessoas e mudando constantemente a sua própria (baseado na crítica das pessoas), sabemos que ela é uma jovem insegura. A virtude do filme é que percebemos isso não por momentos que servem para isso. Como uma comédia romântica que nos insere no mundo de, Harry e Sally, por exemplo, depois de um tempo não há mais surpresas, pois entendemos as ações daquelas pessoas.
+
+Este é o humor sem o momento do riso. É observar o mundo em volta como ele é, perceber que é uma droga e ainda assim não conseguir evitar se sentir leve por isso. Bill Murray se dá muito bem nesse tipo de filme. Infelizmente, Murray não está presente nesse.
 

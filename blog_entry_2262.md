@@ -1,18 +1,24 @@
 ---
 categories:
-- cooking
 - writting
-date: '2019-06-18'
+date: '2020-10-25'
+link: https://mostraplay.mostra.org/film/masters-in-short/
 tags:
-- food
-title: Massa Folheada Caseira
+- cinemaqui
+- mostra
+- movies
+title: Masters in Short
 ---
 
-Quantidade: 600g
+A proposta da sessão Masters in Short da Mostra de São Paulo esse ano é apresentar alguns curtas de diretores consagrados. São cinco curtas ao total e seis diretores diferentes.
 
-Ingredientes: 250 gr farinha sem fermento, 150 gr água fria, 1/2 c. chá de sal, 200gr manteiga.
+Nos é dito no início que a proposta tem relação com o período de quarentena esse ano, mas o único óbvio exemplo é o primeiro. "A Visita", de Jia Zhangke, que apresenta dois cineastas se visitando para assistir a um filme sendo produzido. Todas as situações comuns vividas esse ano, como o medidor de febre à distância, o uso das máscaras e do álcool gel, e a proibição tácita de se dar as mãos, é revisitada. É um aceno de cabeça para o espectador que sabe bem do que o filme está falando. Talvez bem até demais para ser visto em um filme.
 
-Preparo: misture a água com a farinha até formar uma pasta e modele como um quadrado, golpeie com uma faca como uma cruz e enrole em um pano, colocando na geladeira por cerca de 15 minutos, pegue a manteiga e dê umas pancadas com o rolo para ficar com o mesmo formato da massa, leve também para a geladeira, depois abra a massa puxando as quatro pontas e deixando um bolo no meio, coloque a manteiga e a embrulhe com as pontas. Agora passe o rolo e deixe como um retângulo para poder fechar como um envelope em três partes, vire como se fosse um livro abrindo para a direita e repita o procedimento do retângulo: essa são duas voltas. Coloque na geladeira por uma hora e repita o procedimento de duas voltas por mais quatro vezes, sempre deixando na geladeira por uma hora entre os procedimentos.
+Os dois curtas seguintes são experimentais. "Os Caçadores de Coelhos" e "O Adivinhador", de Guy Maddin, Evan Johnson e Galen Johnson, são absurdistas e caóticos. Enquanto narram a existência de adivinhos profissionais e o sonho de alguém que já morreu, usos diferentes de luzes e narrativas são tentados para chamar nossa atenção. Ou pelo menos tentar, já que o resultado é nos afastar, nos pensamentos e para dentro de nossos próprios sonhos... dormindo.
 
- - 2019-06-18 Erros da minha primeira vez: não devo ter aguardado o tempo correto, pois manteiga acabou escapando por uns lados (é preciso manter a massa firme para não lambuzar).
+Outro campeão em fazer passar sono é este "Uma Noite na Ópera", de Sergei Loznitsa. Feito apenas com imagens de arquivos das décadas de 50 e 60 ele captura toda a pomposidade com que diferentes celebridades do show business e da política adentram o teatro de ópera em Paris, Palais Garnier. Cerca de 70% do filme é sobre a entrada da burguesia ao recinto e 30% vemos a performance de uma cantora. Que vale todo o preço, já que é uma performance de respeito, ainda que por alguns meros minutos.
+
+Também vale uma espera a menos glamurosa "Escondida", de Jafar Panahi, em que diretor e filha acompanham uma amiga até um vilarejo distante no Irã em que ela descobriu uma menina com uma voz maravilhosa. Proibida de cantar pela família, o clima deste curta é de documentário informal filmado com celulares Apple, o que combina bem com o estilo desse diretor. Eles filmam com dois celulares. Um deles se afasta durante a rápida performance da menina, escondida atrás de um pano. É nesse momento que aprendemos a função do movimento no cinema. Depois que a câmera para, não tem por que continuar a ouvindo.
+
+Curioso como "a mágica" do cinema de repente some quando nada se mexe na tela. E a parada do movimento, em todos os sentidos... isso, sim, tem tudo a ver com a quarentena.
 

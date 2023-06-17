@@ -1,18 +1,21 @@
 ---
-
-E por que ele não é Sherlock? Cinema e televisão são linguagens que vão evoluindo com o passar dos anos, das produções e dos espectadores. Todos que gostam de séries de investigação já assistiram pelo menos um episódio ou ouviram falar de C.S.I., Bones, Law & Order e tantos outros -- onde até Sobrenatural se encaixa. Todas essas séries confiam em uma fórmula que existe no Cinema há muito tempo e é usado em praticamente qualquer filme, mas que em investigação se torna muito óbvio: primeiro há um caso, depois o protagonista demonstra como é esperto, depois há uma reviravolta e ele se mostra errado para depois descobrir no terceiro ato que ele estava certo desde o começo ou descobriu coisas novas que o levaram a acertar por último quem era o culpado.
-
-A série americana Elementary recria o personagem Sherlock Holmes em Nova York e introduz um Dr. Watson mulher (Lucy Liu). O que poderia ser interessante pela mudança de ares e época se torna desde o piloto um exercício de frustação com a ajuda da sempre defasada linguagem televisiva, que gasta mais uma vez o personagem icônico de Conan Doyle à toa, empregando artifícios já vistos em todas as séries citadas.
-
-Vejamos: Sherlock, assim como todos os protagonistas dessas séries, verbaliza o que está pensando. Ele e Watson conversam revolvendo tudo que está acontecendo em suas cabeças através unicamente de diálogos. Sherlock explica coisas demais, fala demais, e se torna o que ele sempre detestava: tédio.
-
-Pelo menos a série não é inútil por completo, pois serve de comparação com a contemporânea Sherlock, da BBC. É possível ver onde os criadores da série acertaram em sua caracterização em Londres atual. O mais óbvio foi abandonar os clichês de séries de investigação, sendo o mais importante deles o de verbalizar demais, algo inapropriado e incompatível com o morador da 221B Baker Street. Na série britânica vemos o detetive analisando a cena do crime e acompanhamos como espectadores suas observações através de marcações na própria tela. Os outros personagens que o acompanham sabem muito menos do que nós, e nós não sabemos muito bem o que fazer com o que compartilhamos com o protagonista até sua revelação. Isso dá a exata dimensão do poder de dedução do detetive sem exposições desnecessárias. Ao mesmo tempo, Watson continua sendo uma pessoa ingênua, mas com muita emoção e carisma, o que evita que ele se torne entediante para o detetive e para nós (além de render ótimas sequências apenas com sua participação). A Watson de Lucy Liu está completamente à mercê do detetive e não consegue construir uma personalidade nem de perto atraente para que faça parte das investigações, e por mais diálogos expositivos que coloquem isso não deve mudar.
-
-Vejam bem, eu disse "deve", já que estou apenas comparando o piloto de Elementary com a série Sherlock inteira. Porém, me lembro perfeitamente de cada detalhe no piloto de Sherlock para saber que ambos são perfeitamente comparáveis desde seu suspiro inicial. Elementary não me inspira nenhum tipo de progresso na linguagem das séries de investigação. É mais um insulto americano a um personagem icônico.
-
----
 categories:
-- coding
-date: '2014-06-11'
-tags: null
-title: 'Eles querem que a GINA vá embora: três posts sobre evolução Windows'
+- writting
+date: '2017-04-25'
+link: https://www.imdb.com/title/tt6096528
+tags:
+- cinemaqui
+- movies
+title: Elon Não Acredita na Morte
+---
+
+Elon Não Acredita na Morte é uma thriller policial que consegue manter seu suspense por um bom tempo. Desde que você seja paciente. Ele explora nossa percepção do cotidiano visto de duas maneiras muito peculiares. Uma delas é o senso comum guiando seu protagonista pelos corredores, portas e pessoas. A outra está em conseguirmos preencher uma lacuna vital para a compreensão do todo, um pequeno detalhe que fica em um passado próximo, mas que "infelizmente" se passa antes do filme começar. E é daí que vem todo o suspense.
+
+Dirigido por Ricardo Alves Jr de uma forma aparentemente relaxada, mas que ao mesmo tempo mantém um controle de luz e sombra complexo para não nos perdermos, a câmera quase sempre segue Elon (Rômulo Braga), o homem em busca da esposa, a fugaz Madalena (Clara Choveaux), que não voltou do trabalho. Através dele vamos conhecendo suas ligações com o mundo de sua mulher. A irmã que é dançarina de boate, o filho pequeno entregue ao ex, a sogra que parece ser a única a perceber algo de errado com o filho, embora não saiba o quê. Embora Elon pareça fazer todo o percurso correto de quando uma pessoa amada some, e embora possamos entender seu desespero a ponto de invadir a casa de sua cunhada, a única peça que não se encaixa nesse quebra-cabeças é sua aparente calma. Ou talvez faça parte daquele passado que citei, inalcançável. Mas se os desaparecimentos da mulher fizessem parte da rotina do casal, o que explica ele ir à delegacia apenas um dia depois de seu sumiço? Perceba como o roteiro nos entrega pedaços de informação flutuando no nosso inconsciente. Não se trata do que é dito, nem do não-dito, mas as circunstâncias apenas.
+
+A edição de som é tão precisa que ela se torna quase um personagem. Não fosse ela seria difícil acompanhar toda a ação, já que apesar de uma fotografia competente diante do desafio de filmar becos, salas e corredores sujos e mal-iluminados, há muito ainda não visto; apenas ouvido. E até o que é ouvido às vezes nem isso; como quando Elon vai tentar perguntar para uma colega no serviço de Madalena, diante de máquinas ensurdecedoras. Quase não ouvimos o que eles gritam, mas conseguimos entender a mensagem. É esse tipo de pérola que deve ser buscada nesse filme.
+
+A atuação de Rômulo Braga (O Que Se Move) é precisa em não revelar quase nenhum traço de sua personalidade, exceto a incapacidade de sentir qualquer coisa, como se estivesse anestesiado ou drogado. Ele apenas reage à soma das percepções em sua volta, como um soco na parede durante seu exercício, e até em um momento extremamente sensual, em plelo ato sexual, que indica que ao menos através de seus corpos ele e sua mulher se entendiam bem; mesmo assim, Elon se revela um homem quase que meticuloso, como ao segurar os cabelos de Madalena enquanto ela pratica oral, ou até seu próprio ritmo ao retribuir a amada. É sensual, mas é mecânico. Todo o filme é um suspense frenético, mas Elon está igualmente mecânico.
+
+Ah, sim. Isso me faz lembrar. "Elon Não Acredita..." é um filme adulto. Claro, o motivo oficial é o sexo e a nudez. Mas o verdadeiro motivo, desconfio, é o café. Você irá entender quando acontecer. Sempre é o café; principalmente quente. Não é mesmo?
+

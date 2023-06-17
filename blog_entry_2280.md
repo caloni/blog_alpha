@@ -1,23 +1,18 @@
 ---
 categories:
-- coding
-date: '2022-05-31T20:23:43-03:00'
+- writting
+date: '2010-12-03'
+link: https://www.imdb.com/title/tt1001526
 tags:
-- debug
-title: Meditação é self debugging
+- movies
+title: Megamente
 ---
 
-Depois que a tempestade na cabeça chega em um nível insuportável há uma calmaria, ou deveria haver, onde o corpo percebe que está vivo, que não existe no tempo e espaço. Existe apenas agora, e tão somente agora, pois o passado é uma máquina de estado mantida pelo cérebro, e o futuro a projeção extrapolada dessa máquina.
+Uma troca de papéis eficiente que faz repensar a dicotomia do bem contra o mal, ainda mais que hoje em dia, em que mais pessoas se livram das superstições antigas (religiões) que pregam essa dicotomia como algo inerente à existência, o filme transporta essa realidade para uma animação leve, mas que esconde algum drama mais complexo, quase que existencial.
 
-Quando se percebe que se está vivendo a partir de um algoritmo genético que está rodando há algumas décadas em um saco de carne com peças móveis é o momento que começamos a entender o que é reflexão, um poderoso mecanismo que pode nos ajudar mais do que o melhor dos psicólogos. Até porque este hipotético especialista da mente nunca teria acesso a tanta informação quanto você tem sobre suas próprias memórias e sobre seu jeito de agir.
+Mas mais do que uma crise interna sobre um auto-aclamado vilão, o filme discute até mesmo a necessidade dos dois lados para que exista esse conflito eterno e a vida tenha mais graça para ambos os lados, e diferente de [Meu Malvado Favorito], isso fica mais visível quando até mesmo o relacionamento herói-mocinha se converge para o lado do mal.
 
-Só você conseguirá extrair de uma autoanálise o conhecimento necessário para melhorar seu entendimento de como esse algoritmo funciona. Porém, há um problema: a própria reflexão faz parte desse algoritmo. O processo não pode analisar a si mesmo. Isso é impossível. E a solução é parar por completo. Interrompa esse fluxo mental constante a respeito de quem você é e deixe que a análise em tempo real aconteça. Pelo menos mais vezes do que no modo automático.
+A caricatura de Marlon Brando é óbvia, engraçada e necessária em um filme que trata do caráter dos super-heróis e dos vilões, e não deixa de ser divertido que quem exatamente se disfarça dessa caricatura de mentor é o próprio Megamente, representante máximo da vilania.
 
-A essa pausa para análise do mesmo processo chamamos de meditação. É pausar a execução dos pensamentos, ou observar a execução de algumas threads, para entender onde pode estar o próximo mecanismo a ser aprimorado ou corrigido.
-
-Você está muito ansioso nos últimos dias. Mais que o normal. Algo mudou, mas você não sabe o quê. O processo mental ocupa tempo e espaço o suficiente para você nunca saber.
-
-Então você pausa. Respira. Para de pensar de maneira consciente. Apenas observa os pensamentos passando por você e indo embora. Você está analisando as threads em execução, mas não está modificando o estado das variáveis ou da pilha. Você só quer entender onde está esse bug da ansiedade sem motivo.
-
-De repente você encontra. Era uma conversa aparentemente boba de alguns segundos que deixou você preocupado no inconsciente sobre como isso se desenrolaria no futuro. Essa thread estava presa no pior dos cenários, mas ele dificilmente poderia acontecer. Você então corrige as expectativas sobre essa questão e pronto, bug resolvido. Pode continuar a viver.
+[Meu Malvado Favorito]: {{< relref "meu-malvado-favorito" >}}
 

@@ -1,13 +1,20 @@
 ---
 
-É curioso como tudo em Gremlins é exagerado -- a vilã, o maluco, o cientista maluco -- e como essa atmosfera torna a existência desses bichinhos a menos perturbadora possível. De certa forma, é uma versão para crianças dos filmes de zumbi do George Romero, onde as pessoas têm menos personalidade e são menos vivas que as criaturas. Da mesma forma, há uma espécie de alegoria com produtos estrangeiros que hoje soa bem estranho (xenofobia a la Spielberg?). Outra coisa que impressiona são os efeitos não-digitais, que estão datados, mas ainda assim soam mais "reais" que aqueles jogos de computador (e suas continuações, thanks Marvel!) que estamos nos acostumando a ver na telona.
+O piloto dessa série pulou nos títulos aleatórios da Netflix. Já tinha visto um pedaço ou outro, mas primeira vez que começo a série. Assisti cinco minutos de Jupiter's Legacy nesse esquema, mas assisti o episódio inteiro de A Anatomia de Grey.
+
+As produções pré-streaming, mesmo que para TV, possuíam um formato manjado, tão ou mais quanto as produções de internet, mas havia uma qualidade inerente em sua estrutura, seus personagens, seu roteiro e produção. Era feito para não falhar, e não apenas mais um em um catálogo de horas infinitas na frente do sofá. Claro que, falando de uma série que começou em 2005, já se torna mais uma em um mar de outras.
+
+Um Plantão Médico com protagonista feminina, Grey's Anatomy tem a proposta de acompanhar esses estágios de medicina (tem um nome chique quando é estagiário de médico, mas esqueci agora), suas vicissitudes na profissão que acabou de começar, e junto dela um turbilhão de emoções regado a "noites" mal dormidas. O piloto até que é leve, introdutório, mas possui peso, flui natural, e os diferentes dramas desses aprendizes se entrelaçam em dois dias e noites no Hospital Central de Seattle.
+
+Não me admira que seja um seriado com tanto tempo no ar, nem que as pessoas se apaixonem pelos seus personagens. Eles estão muito à vontade em seus papéis desde o início. O casting é sensacional, mas a montagem é ainda melhor, pois nos tira o tempo precioso para refletirmos sobre um caso para gerar a sensação de desorientação, desesperança, medo. Talvez não seja um episódio tão leve assim, ou se é leve, ao mesmo tempo é profundo. Do seu minuto inicial ao final nada é desperdiçado para mover a história. E essa é uma diferença crucial das seriezinhas de internet, que pontuam pelo tempo de tela sem medo que o espectador clique no próximo canal do controle.
+
+Essa função de título aleatório está vindo bem a calhar.
 
 ---
 categories:
 - writting
-date: '2019-09-30'
-link: https://www.imdb.com/title/tt9477532
+date: '2014-12-10'
+link: https://www.imdb.com/title/tt0455760
 tags:
-- cinemaqui
 - movies
-title: Greta
+title: Gritos Mortais

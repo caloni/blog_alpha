@@ -1,13 +1,16 @@
 ---
 categories:
 - writting
-date: '2022-04-26T22:45:13-03:00'
+date: '2015-07-28'
+link: https://www.imdb.com/title/tt1492966
 tags:
-- movies
-title: Loucos do Coração (Going Places)
+- series
+title: Louie
 ---
 
-Miou Miou na interpretação mais marcante de sua carreira é a puta de dois bandidos. Um deles é Gerard Depardieu antes de virar um monstro. A personagem de Miou não sente tesão de nenhum dos dois e parece uma boneca sexual perfeita na cama. Até dar para um psicopata e ter seu primeiro orgasmo.
+O comediante, diretor, roteirista, ator Louis C. K. já protagonizou diferentes shows de stand up comedy e é um veterano no assunto. Talvez veterano seja dizer pouco: o cara é simplesmente fodástico na arte do humor. É uma das referências do gênero, e após a morte do mestre (que deus não o tenha) George Carlin, talvez Louis seja o melhor comediante norte-americano da atualidade.
 
-Este é um filme de emoções fáceis. Dois capangas meio molengas vão vivendo de golpe em golpe sem medo de ser feliz. Eles assediam mulheres na rua, estão no auge da juventude e não querem trabalhar. Contestam as coisas como elas são roubando os outros. É um filme de contracultura que seria feito por Godard se Godard soubesse escrever e dirigir.
+Além de já realizar algumas pontas no cinema (inclusive num dos últimos filmes do Woody Allen, Blue Jasmine) e em séries (Parks and Recreation) ele resolve estrear sua própria série de comédia baseada em sua persona artística (pai de duas filhas divorciado com mais de 40 que faz comédia para sobreviver). Isso poderia ser um tiro no próprio pé, já que tão bem estabelecido no formato de bar, por que tentar estender essa experiência fora dos palcos e arriscar colocar tudo a perder?
+
+Bem, ainda bem que existem pessoas que arriscam nesse mundo, já que a primeira temporada de Louie consegue rivalizar com séries escrachadas e inteligentes, como I.T. Crowd ou The Office e Community. Aproveita-se do formato antigo e o expande de maneira surreal. Se seus causos em palco são hilários per se, a realização destes na "vida real" é o que podemos chamar de Kaufmanização (do roteirista de cinema Charlie Kaufman) do drama cômico.
 

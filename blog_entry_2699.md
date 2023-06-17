@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2019-06-03'
-link: https://www.imdb.com/title/tt0074102
+date: '2018-10-21'
+link: https://www.imdb.com/title/tt7610008
 tags:
+- cinemaqui
+- mostra
 - movies
-title: O Império dos Sentidos
+title: O Ingrediente Secreto
 ---
 
-Meu amigo tem um conselho sobre mulheres: "arrume as vadias e fique longe das loucas." Este é um filme pra quem gosta de putaria. Ele tem putaria do começo ao fim. É um homem comendo um monte de mulher, até que chega a novinha louca. Ele não tem um amigo como eu, e está condenado a ser sugado, literalmente e metaforicamente, pela japinha insaciável.
+O Ingrediente Secreto é esse filme sobre uma relação entre pai e filho conturbada após um acidente matar a mãe e o irmão. Também fala sobre a situação precária da Macedônia e como todos reclamam do "jeito brasileiro" que eles possuem (como reflexo do governo e da cultura corrupta). Ah, sim, e claro, há também o lance da maconha. Tinha até esquecido.
 
-Um senhor cheio de gueixas, uma esposa generosa e uma amante ninfomaníaca fazem a história de Império dos Sentidos percorrer uma curva de aprendizado sobre sexo. Ambientado no Japão da década de 30, o mais curioso é que esse ato aparentemente podia ser praticado sem nenhum pudor na casa de alguém que tinha várias gueixas para servi-lo. Além disso, a própria gueixa-amante podia ir para outro senhor a possuí-la em troca de dinheiro, no caso o diretor de uma escola.
+A história começa com a vontade que o filho tem de aliviar a dor do pai, com câncer de pulmão. Surge a oportunidade de ganhar dinheiro quando ele encontra um pacote de maconha em uma busca policial dentro da fábrica onde trabalha. Porém, como ele descobre, a vida de cozinheiro de bolo de maconha é mais frutífera que de traficante de beira de estrada, onde a concorrência é muito violenta. Seu pai aliviado, mesmo sem saber por quê, logo surge a lenda do curador que possui uma receita milagrosa.
 
-Com uma personalidade estilo femme-fatale do sexo, Sada caracteriza uma mulher ninfomaníaca e impulsiva, possessiva ao extremo, ao ponto de proibir seu senhor de possuir sua própria esposa. Ela controla quando e como deseja ser possuída, o que geralmente é sempre e de todas as formas.
+O filme do diretor da Macedônia Gjorce Stavreski atravessa um drama entre pai e filho de maneira leve e cômica com a ajuda do improvável e do inusitado. O bom coração de seu herói é posto a prova algumas vezes, e isso fortalece a alma desse trabalho esquecível por não possuir maiores virtudes, mas agradável de se acompanhar pela simplicidade e algumas risadas.
 
-Tecnicamente o diretor Nagisa Ôshima possui um certo apreço estético, A cor vermelha simboliza várias coisas aqui, e começa a ser usado por Sada quando esta começa suas tendências sado-masoquistas. Ôshima está no final de sua carreira (irá produzir mais meia-dúzia de longas espalhados pelas próximas duas décadas) e parece ter tocado o foda-se para a indústria. E constrói um dos pornôs mais estruturados que você jamais viu.
+Estreia do diretor na Mostra de SP, embora já tenha dois curtas e um documentário, este é um trabalho particularmente autoral, pois parte de lugares-comuns para gerar um filme com um humor peculiar e situações que se resolvem meio que por mágica, especialmente no final. Falta contexto sobre a cultura macedônica, mas parte do prazer de assistir o filme é tentar desvendar o que é que falta.
 

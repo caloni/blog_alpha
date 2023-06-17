@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-09-23'
+date: '2017-09-11'
 tags:
-- beer
-title: Strappa Gingerberry
+- food
+title: Subasio Alto Brasileiro Poços de Caldas
 ---
 
-É um chá preto fermentado com gengibre e gradação alcoólica ridícula de 0.6%. Ele é ainda frutado (possui morango) e deixa a garganta quentinha. Ótima opção entre bebidas mais fortes. Dá uma pausa etílica e estilosa na balada.
+Mais um café do mercado de Poços de Caldas. Na despensa. Amargo, corpo médio pra forte, meio desequilibrado na acidez e pela prensa um tanto forte na gordura. Provando no café da manhã de domingo com a sogra e um pão na chapa de ferro.
 

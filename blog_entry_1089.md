@@ -1,10 +1,16 @@
 ---
-
-O ano é 2047. Apesar de 100% eficaz contra o SARS-COVID-T89, o transporte de passageiros do Uber por carros autômatos não é realidade para 100% da frota. O motivo disso foi a PEC-44 aprovada no começo da semana na câmara de vereadores da cidade de São Paulo, que determina a obrigatoriedade que no mínimo 80% da frota seja composta por motoristas humanos. O resultado foi comemorado pelo Sindicato de Condutores Liberais do estado. De acordo com o líder sindical, essa é uma vitória há muito aguardada e que visa proteger tanto o trabalhador autônomo quanto o cidadão, que muitas vezes precisa atravessar diariamente a cidade na companhia apenas de um robô ao volante. "Falta aquele contato humano. Mesmo com máscaras e o paredão isolador e o sistema de som integrado é importante para mantermos a sanidade, que é tão importante quanto a segurança na saúde, ainda mais em plena pandemia", concluiu.
-
----
-categories: []
-date: '2012-03-11'
+categories:
+- writting
+date: '2020-02-04'
+link: https://www.imdb.com/title/tt0104008
 tags:
-- ccppbr
-title: Conteúdo da Palestra
+- movies
+title: Conto de Inverno
+---
+
+Um dos filme da quadrilogia do proficiente Éric Rohmer (As 4 Aventuras De Reinette E Mirabelle), Charlotte Véry está leve e tresloucada em um papel de mãe solteira dividida entre três amores: dois presentes não lhe bastam, um ausente é sua razão de viver.
+
+Este é um filme moderno, de relacionamentos abertos e uma mãe que, diferente das de hoje em dia, não vira serviçal de sua criança. Rohmer adota uma postura quase que relapsa na condução dos seus atores e das próprias tomadas, mas com isso ganha um certo charme e simplicidade que remetem à vida cotidiana da capital da França ou da visão bucólica e vazia de uma cidade do interior. Com a narrativa em cortes rápidos a história pode avançar em cinco segundos, e com uma verborragia típica de intelectuais pode nos levar a discussões filosóficas cheias de conclusões a la francesas, vazias de substância, mas que soam profundas quando ditas. Duas formas diferentes de passar o tempo.
+
+Charlotte faz Félicie, uma mulher que viveu o grande amor e o perdeu por um lapso de memória. Este é o filme para descobrirmos com quem ela vai ficar no final, e a comédia surge quando descobrimos que ela toma grandes decisões depois de refletir por dois minutos.
+

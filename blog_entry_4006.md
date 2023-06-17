@@ -1,18 +1,25 @@
 ---
 categories:
 - writting
-date: '2016-03-18'
-link: https://www.imdb.com/title/tt2625270
+date: '2017-11-27'
+link: https://www.imdb.com/title/tt5598102
 tags:
+- cinemaqui
 - movies
-title: Vinho para Roubar
+title: Visages, Villages
 ---
 
-Esse filme argentino segue a cartilha do gênero "Onze Homens e um Segredo" e "Missão Impossível". Porém, com baixo orçamento, apresenta um romance para preencher as lacunas dos efeitos visuais, além de personagens agradáveis, mas quase invisíveis. Os filmes argentinos, bons ou ruins, nunca pecam pela falta de charme. No entanto, ao usar a abordagem hollywoodiana, assume o risco de perder até isso.
+Visages, Villages é um filme fácil de assistir. Se trata de um documentário road-movie com um artista jovem cuidando do projeto de uma artista experiente. Ambos se respeitam e estão juntos pelo mesmo objetivo: viver.
 
-E esse risco se encontra no roteiro, na direção e na trilha sonora. O roteiro tenta soar inteligente com mil reviravoltas, mas apresenta todos seus desafios como pequenos percalços, feito uma novela das sete. Além disso, seus personagens, cativantes no início, vão aos poucos perdendo a simpatia. A direção se engana em apresentar uma Mendoza igualmente pálida, pois fecha sua lente para espaços fechados ou com uma largura de tela insuficiente para apresentar a cidade como um outro personagem -- algo implícito na produção, encomendada para apresentar a região de vinhos para o resto do mundo. A trilha sonora, por fim, insiste no mesmo tom, todo o tempo. Isso cansa fácil e faz perder o ritmo várias vezes, pela sua monotonia instaurada pela repetição. Além do mais, a música é muito mais enlatada do que uma criação feita para o filme.
+E viver para um artista é botar o pé na estrada e sair fazendo arte. A arte dele são colagens. A dela é fotografia. Passando de vilarejo em vilarejo ele e ela tiram fotos das pessoas da paisagem e as expandem, fixando-as na mesma paisagem e nos mesmos muros, paredes e mentes dessas pessoas. Elas viram famosas por estarem destacadas do cotidiano.
 
-Por fim, para os conhecedores e apreciadores de vinhos, mesmo os mais leigos, a trama não poderia soar mais artificial. Qualquer um habituado com o processo de envelhecimento do vinho sabe que ele deve ser feito em um ambiente seco de temperatura controlada e no máximo por uma ou duas décadas. Peças de museu existem, claro, mas não são bebidas: são guardadas, eternamente.
+Os vilarejos do filme e do título não são exatamente o que nossa imaginação pode trazer à tona. Em vez daquelas casinhas e camponeses temos fazendeiros fabricando queijo, estivadores cuidando de um porto e funcionários de uma fábrica. Existem histórias inspiradoras do passado, como um casal que se casou via um sequestro de amor e uma única moradora que resiste se mudar de uma antiga vila de mineradores.
 
-Aliás, foi minha última visita à cidade que me fez ver o filme, que estreou na Netflix. O motorista do passeio guiado pelas vinícolas fez uma ponta nesse filme e deu os detalhes da produção (não o encontrei, uma pena). Se o objetivo era apresentar Mendoza através de uma trama chamativa que envolvesse o mundo do vinho, essa degustação ficou só na vontade.
+Para essa jornada eles usam um furgão com uma enorme lente de câmera desenhada. O estilo deles é a soma dos clichês. Mas isso só porque se trata de um documentário, onde a vida deveria ser maior que a arte. Não é o caso. Há alguma coisa barrando a arte e a vida. Um roteiro manipulador demais torna a experiência inofensiva. E mesmo que existam surpresas pelo caminho elas não são suficientes. É preciso conhecer quem são esses artistas para respeitá-los e ter uma ideia da importância do que fazem.
+
+Agnès Varda dispensa apresentações. A diretora belga de mais de 89 anos demonstra, apesar da idade, estar sob o controle de suas criações ao mesmo tempo que se torna protagonista de suas histórias. Dirigindo e escrevendo filmes desde a década de 50, Varda está em constante movimento e não se limita em definir o que faz com palavras simples. Suas observações enquanto vai entendendo o projeto durante a própria viagem são perspicazes demais para entendermos de primeira, o que torna a experiência rica e complexa.
+
+Já JR é um cineasta-incógnita. Sempre de óculos escuros e tendo estreado com um longa documental ("Women Are Heroes", em 2010), talvez seu curta mais conhecido seja Ellis (2015), onde Robert de Niro revisita sua origem de imigrante. JR também demonstra estar em constante movimento e faz sentido ele ser fascinado em fazer colagens. Seu objetivo é arquivar o mundo em paredes ou películas. Embora nunca faça muito sentido vê-lo junto de uma senhorzinha minúscula e cheia de estilo, aos poucos a combinação da "dupla dinâmica" vai fazendo algum sentido. Mas não muito.
+
+A questão é que "Visages, Villages" se mostra um trabalho em andamento que foi filmado como um documentário de si mesmo. O que aquelas pessoas significam no todo do filme? Tudo é muito vago para encontrarmos alguma linha de raciocínio aí. Se trata de um filme itinerante, mas doce, tranquilo, com um pouquinho de tratamento narrativo e muito improviso.
 

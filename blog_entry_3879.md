@@ -1,18 +1,23 @@
 ---
 categories:
 - writting
-date: '2011-08-22'
-link: https://www.imdb.com/title/tt1231583
+date: '2015-06-27'
+link: https://www.imdb.com/title/tt2639254
 tags:
+- cinemaqui
 - movies
-title: Um Parto de Viagem
+title: Um Pouco de Caos
 ---
 
-Aparentemente, alguém achou engraçado colocar Robert Downey Jr. (Homem de Ferro, Sherlock Holmes) e Zach Galifianakis (Se Beber, Não Case 1 e 2) contracenando um filme inteiro. De fato, o resultado foi, no mínimo, interessante. Engraçado, é discutível.
+Um Pouco de Caos é um passeio tranquilo, até demais, no mundo da aristocracia francesa (embora todos falem inglês sem cerimônias) para fazer-nos apreciar a atmosfera dominante do blasé frente aos que ainda precisam lutar para serem aceitos na alta sociedade. Durante o processo é tão óbvio que haverá um amor proibido que até isso se torna sem graça.
 
-O fato é que, interpretando duas figuras problemáticas (Zach, mais explícito, Downey Jr, mais inerte) que precisam conviver por dias em uma viagem cruzando o país não foi uma ideia lá muito original, mas que rendeu bons frutos graças ao carisma e à interpretação dos dois atores, que conseguem convencer -- e aí é que está a graça -- que Peter Highman e Ethan Tremblay possuem sérios problemas de convivência social.
+Dirigido por Alan Rickman -- o Professor Severus Snape da série Harry Potter -- depois de sua estreia na direção quase 20 anos atrás, é o primeiro filme em que ele também atua, como o Rei Luís XIV durante a construção dos jardins de Versalhes. O palácio, localizado longe do centro de Paris, suas doenças e seus pobres, contém uma coleção inigualável de jardins criados a mando do rei, e cujos projetos eram constantemente disputados pelos mais proeminentes paisagistas, especialmente os que seguem o guia moral de sua majestade: a perfeição da ordem.
 
-Dirigido e co-escrito por Todd Phillips, o filme se concentra basicamente nas reviravoltas que essa viagem ao estilo road movie proporciona para seus integrantes. Nunca tentando soar absurdo, a história se foca nos problemas pessoais dos dois personagens, e faz com que o drama de ambos ganhe um certo peso, mesmo se tratando de uma comédia.
+A história, portanto, historicamente populada, envolve em seu centro as figuras de Sabine de Barra (Kate Winslet) como uma jardineira que defende o estilo levemente caótico de suas criações, e André Le Nôtre (Matthias Schoenaerts), o arquiteto-chefe de Luís XIV e que resolve "comprar a briga" em cima da aposta de que uma guinada mais original para o próximo jardim poderia significar mais fama e apoio do monarca. E, como já sabemos, para manter Madame de Barra por perto.
 
-Não há muito o que falar do roteiro em si, que sempre se aproveita de um ou outro defeito de caráter de um dos dois, e embora soe maniqueísta em vários momentos, ao lembrarmos do plot inicial, tudo faz mais sentido.
+Para fechar com chave de ouro o triângulo amoroso de filmes de época, a esposa de Le Nôtre, Françoise (Helen McCrory), é a maçã podre do casamento, se veste de roxo e usa o seu poder de influência para impedir que seu marido avance o sinal nesse possível romance. Enquanto isso, Sabine sofre o trauma da morte de seu marido e filha, e tenta através de seus jardins se manter financeiramente.
+
+Com um amplo espaço para simbolismos e filosofias envolvendo jardins e nobreza de uma França em uma época 100% absolutista, o roteiro escrito a seis mãos resolve contar uma história trivial com personagens triviais, deixando o espectador à espera da grande sacada que irá erguer os ânimos. Infelizmente, ela nunca acontece. O que acontece frequentemente, no entanto, é sermos inundados pela trilha sonora de Peter Gregson, com seus toques empolgados demais, totalmente em descompasso com o ritmo arrastado do filme.
+
+Possuindo muito pouco dos seu elenco e menos ainda de sua história, Um Pouco de Caos ironicamente não possui nada de imprevisível ou surpreendente. É um passeio seguro pelos inúmeros jardins de uma época de ouro, onde os ricos podiam se dar ao luxo de planejar os inúmeros jardins, caminhar e dançar por eles.
 

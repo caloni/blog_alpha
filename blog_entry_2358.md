@@ -1,33 +1,16 @@
 ---
 categories:
-- playing
-date: '2023-03-04'
-link: https://www.chess.com/game/live/71688416247
+- writting
+date: '2015-01-04'
+link: https://www.imdb.com/title/tt2368672
 tags:
-- english
-- chess
-title: Miniature with hidden tactic
+- movies
+title: Minúsculos O Filme
 ---
 
-White move and gain advantage.
+Me encantam filmes cuja ideia não parece muito boa ou de difícil execução, mas então, remando contra a maré, surge um trabalho inspirador.
 
-{{< image src="board.png" >}}
+Esse é o resultado de Minúsculos: O Filme. Com seus personagens já criados e participando de curtas com cinco minutos de duração, o maior desafio de uma versão longa seria fazer o espectador suportar a falta de diálogo e ainda depender de uma antropomorfização limitada. Sim, limitada, pois os bichinhos criados em computador que vivem em um ambiente quase completamente real até possuem seus momentos "humanos" -- uma joaninha sofrendo bullying -- e até mágicos -- carregando objetos grandes e pesados. Porém, fora essas liberdades, acompanhamos a lógica comum da vida desses seres: formigas procuram e protegem açúcar como loucas; e uma asa, se arrancada, vai levar o seu tempo para crescer de novo.
 
-```
-[Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2023.03.04"]
-[White "cavaloni"]
-[Black "perajurit"]
-
-1. Nf3 e6 2. e4 h6 3. d4 a6 4. Nc3 b5 5. a3 c5 6. Be3 {Three pieces already
-developed and the adversary has none.} 6... cxd4 7. Nxd4 Bb7 8. f3 Nf6 9. Bd3
-Bc5 {There is a tactic here attacking the queen with the knight and the bishop.}
-10. O-O (10. Nxe6 fxe6 (10... dxe6 11. Bxc5) 11. Bxc5) 10... Nc6 {Now I am in
-trouble to defend the knight.} 11. Nce2 Nxd4 12. Nxd4 O-O 13. Qd2 Bxd4 14. Bxd4
-d5 {This allows me to e5 and I gain a lot of space to attack.} 15. e5 Nh7 16.
-Qf4 g5 {Creating permanent holes.} 17. Qg4 f5 18. exf6 Nxf6 19. Qh3 {Didn't see
-Qe6#} 19... Kg7 20. Qxe6 {f4 would be stronger, but the adversary resigned
-anyway} 1-0
-```
+É nesse ambiente dinâmico e muitas vezes cruel que se conta um épico, onde a únicas participações dos humanos, embora cruciais, se confundem com o habitat dos insetos (como um New Beetle visto no meio das árvores). O ciclo da vida segue independente de nossos sentimentos, em qualquer escala. Minúsculos está aí para provar que esses sentimentos humanos estão unicamente no observador. Há uma batalha épica e momentos vistos por nós como nobres. Porém, para esses insetos programados geneticamente, tudo isso já era esperado. Vendo o mundo dos insetos de perto percebemos que talvez nosso mundo de humanos não parece tão diferente assim.
 

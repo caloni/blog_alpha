@@ -1,20 +1,13 @@
 ---
 categories:
+- reading
 - writting
-date: '2014-01-29'
-link: https://www.imdb.com/title/tt0125659
+date: '2021-10-16T12:38:13-03:00'
 tags:
 - movies
-title: Preso na Escuridão (aka Abra os Olhos)
+- quotes
+title: 'Primeira crítica da História: Maxim Gorky, Rússia, junho de 1896'
 ---
 
-Acabei de ver o original de Vanilla Sky, aquele com o Tom Cruise correndo como um louco. Uma produção espanhola/italiana/francesa, o filme de 1997 conta também com a participação de Penélope Cruz como Sofia, mas diferente do tom experimental em 2001 dado pelo diretor Cameron Crowe (Jerry Maguire - A Grande Virada), a direção madura de Alejandro Amenábar (Os Outros), por incrível que pareça, transforma completamente a narrativa de dois filmes que foram filmados praticamente quadro a quadro.
-
-Eu disse "praticamente".
-
-A composição de Amenábar conta com o uso acertado de frases-chave (ele também assina o roteiro) que permeiam a vida de César (Eduardo Noriega) de maneira a conseguir trazer à tona mais facilmente os ecos do passado que o protagonista tem que conviver quase como um pesadelo que não se revela. Mais importante, porém, é o maior tempo dado à primeira metade do filme, pois a experiência final não seria tão intensa caso não compreendêssemos em detalhes as relações entre aquelas pessoas.
-
-Porém, o filme vai muito mais além do que um mero jogo de descobrir a sacada do final. A cena na cama entre César e Sofia/Núria, por exemplo, funciona como uma lenda de Narciso às avessas, pois a impotência do rapaz de conseguir fazer sexo com a pessoa que o atrai vira reflexo de sua própria incapacidade de obter sua beleza original de volta. É por isso que essa cena funciona tão bem como clímax dramático, assim como todo o seu desenrolar até o momento no apartamento de Sofia, quando temos o melhor momento do filme.
-
-Não que o filme desanime caminhando para o final, ou que sua metade inicial não tenha nada de mais. Essas duas partes são fundamentais, pois ligam o início e o fim de uma experiência angustiante, e apenas sua existência é que torna as cenas mais tensas tão... tensas.
+> Na noite passada, estive no Reino das Sombras. Encontrava-me no Aumont e vi o cinematógrafo de Lumière: trata-se de fotografias em movimento. A impressão extraordinária que o aparelho consegue criar é de tal forma singular e complexa que chego a duvidar da minha capacidade de descrevê-la em todas as suas nuanças... Parece trazer em si um prenúncio vago e sinistro, que faz emorecer o coração. A gente esquece onde se encontra. Imaginações estranhas invadem a mente, e a consciência vai-se desvanecendo. Repentinamente, ao nosso lado, ouve-se a alegre e tagarelice de uma mulher e sua risada provocante... e lembramo-nos de que estamos no Aumont, no Charles Aumont. Mas como, com tantos lugares que existem, foi exibida aqui esta notável invenção de Lumière, que atesta mais uma vez o poder e a curiosidade da mente humana, sempre procurando solucionar e abarcar tudo. (...) Estou convencido de que estes filmes logo serão substituídos por outros de um gênero mais adequado ao espírito geral do Concert Parisien. Passarão a ser exibidos filmes intitulados, por exemplo, Quando Ela se Despe ou Madame no Banho ou, ainda, A Senhora de Meias.
 

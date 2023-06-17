@@ -1,22 +1,18 @@
 ---
 categories:
 - writting
-date: '2016-04-13'
-link: https://www.imdb.com/title/tt1714206
+date: '2018-03-26'
+link: https://www.imdb.com/title/tt6873658
 tags:
-- movies
-title: O Maravilhoso Agora
+- series
+title: O Mecanismo
 ---
 
-Uma romance para ser realista ele tem que ser um drama. E para ser um drama ele tem que levar em conta a personalidade de seus personagens e levar isso até as últimas consequências. As últimas consequências para o herói de "The Spectactular Now" são trágicas, mas são reais. O que vimos de fato no final do filme é uma traição aos princípios desse personagem (que nunca mudaram) e, consequentemente, uma traição ao espectador que esteve lá por duas horas.
+Desde Narcos fica claro que Padilha não está bem. Acostumado a tentar chocar a sociedade usando detalhes sutis da realidade mais estranha que a ficção (Tropa de Elite, Tropa de Elite 2, Robocop (2014)), o diretor erradicado do Brasil por conta de ameaças à sua integridade e de sua família por conta de um possível Tropa de Elite 3, sua série "O Mecanismo" tenta resgatar o patriotismo brega de um brasileiro que já se esqueceu faz tempo o conceito de patriota, permeado de uma onda direitista extremamente brega. Se a esquerda sabe ser populista com a classe de um pedreiro, a direita consegue passar vergonha até quando está falando sério.
 
-Tirando essa particularidade espúria de um roteiro que parece ter tido seu final encomendado -- e mal executado, por conter guinadas rápidas e inesperadas demais -- o filme se sai maravilhosamente bem em explorar esse casal de jovens e os outros que o orbitam. A relação do garoto com sua ex é o trampolim para uma saída acochambrada de alguém que não quer ficar sozinho, mas que desperta o melhor em outra menina, a esquecida Aimee.
+Para essa missão de desvendar um processo de investigação política a série apresenta o detetive com uma síndrome absurda de "fazer o certo", Marco Ruffo, interpretado por um Selton Mello que precisa sussurrar no ouvido do espectador tudo que está pensando. Entre seus pensamentos escutamos como ele fica possesso de não conseguir pegar os caras maus, e como ele é brilhante por catar papéis cortados no lixo e resgatar uma operação milionária de um laranja. Através dessa operação bancária ele e sua escudeira, a delicinha Verena Cardoni (Caroline Abras, que também faz parte da narração) irão caçar os peixes grandes da política brasileira. Começando pelo doleiro "faço cara de pouco caso" Roberto Ibrahim (Enrique Diaz).
 
-A partir de um encontro natural, com diálogos naturais e uma evolução natural, o filme voa baixo, com os pés firmes no chão, mas não deixa de realizar uma crítica inerte sobre os conceitos de vencer e perder da sociedade americana, ou como o futuro se apresenta como uma bigorna pronta a destruir boa parte do que foi construído em sonhos e desejos da fase da puberdade.
+Usando nomes falsos ridículos no lugar dos nomes reais da Operação Lava-Jato, a maior operação de investigação e julgamento já feita na história da Polícia Federal, somos obrigados a ver e ouvir nomes que parecem ser usados apenas para tapar o sol com a peneira, e o resultado são os risíveis Banco Brasileiro e Petrobrasil. Além disso, fingindo ser possível colocar no lugar do sempre canastrão Lula e da sempre hilária Dilma atores e personagens completamente aquém da potencialidade que essas duas figuras surreais poderiam render em uma ficção com um elenco mais competente (a hora que Dilma fala sobre "estocar vento" em seu discurso é a primeira grande vergonha alheia do piloto da série), Padilha parece estar orquestrando uma obra pseudo-cômica de forma incidental, pois ela gera riso pela falta de jeito em tratar um tema sério em uma narrativa burocrática que apenas estimula bocejos.
 
-Ao mesmo tempo, faz uma crítica mais ácida ao uso do álcool, enxergando nas proibições legais de consumo aos jovens como uma oportunidade de mostrar como tudo aquilo é falso e está mais elencado ao caráter da pessoa -- e seus pais -- do que uma lei idiota. E agora que vivemos aqui no Brasil um processo semelhante, com os dizeres da proibição obrigatórios onde se venda algo com álcool, é um momento oportuno para investigar o que isso significa na vida real.
-
-Esse é mais um filme que apresenta os "adoráveis" Miles Teller e Shailene Woodley, que participaram, respectivamente, de suas versões mais intensas em Whiplash e A Culpa é das Estrelas. Possui um Bob Ordenkik em começo de carreira, ou ainda com um papel pequeníssimo que não lembra em nada sua participação em Better Call Saul ou Breaking Bad, exceto o fato de compararmos como ele está jovem.
-
-A vida não é fácil para os que decidem enxergá-la como ela é.
+A impressão que fica após assistir ao piloto da série que estréia com oito episódios é que a Netflix resolveu abraçar seus espectadores de direita carentes de obras que lhe representem (como sabemos, todas as obras atuais da operadora de streaming favorecem causas sociais de esquerda). No entanto, a maneira que ela escolheu para isso não poderia ser pior, pois entregar um enlatado de TV a cabo dirigido por um diretor que um dia foi relevante é prestar um serviço novamente à esquerda. No final das contas, talvez tudo não passe de um golpe, mesmo.
 

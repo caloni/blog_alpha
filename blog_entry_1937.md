@@ -1,19 +1,20 @@
 ---
 categories:
 - writting
-date: '2016-11-02'
-link: https://www.imdb.com/title/tt5104002
+date: '2019-11-07'
+link: https://www.imdb.com/title/tt0290673
 tags:
-- mostra
 - movies
-title: Irmandade
+title: Irreversível
 ---
 
-O longa caótico e desconexo de Pepe Diokno é justamente e apenas isso: caótico e desconexo. Desconexo não apenas no sentido narrativo, mas de conexão com o espectador. Como é impossível para nós nos conectarmos àquela realidade de Manila, devidamente manipulada em uma mistura de ficção e realidade, não é possível sequer sabermos qual a linha de raciocínio de um criador petulante que não consegue unir tomadas desconexas com significado ou empatia.
+Irreversível é essa experiência angustiante que vai desconstruindo uma história simples através dos seus momentos mais tensos. "O tempo destrói tudo" é o seu lema, e este é um filme que destrói o tempo antes que ele nos destrua.
 
-Dessa forma, as criaturas filipinas que observamos são nojentas, medíocres, maliciosas, ignorantes, maldosas e cruéis. Não há qualquer adjetivo que nos permita seguir em frente na identificação de protagonismo. Até Scarface tinha suas qualidades, mas aqui sequer sentimos a dor do próximo. Pior: fingindo um documentário, o resultado é ainda mais falso, pois muitas sequências são obviamente teatrais, e outras despertam a curiosidade apenas em detectar se é real ou não, mas ainda assim, sem significado.
+Semelhante a Amnésia a cronologia começa pelo final voltando cena a cena, mas diferente do roteiro de Jonathan Nolan aqui o que torna o resultado palatável pelo espectador é a intensidade do que vemos, nos impedindo de esquecer o que move a história: o estupro de uma mulher e a vingança de seu namorado.
 
-A qualidade em estruturar começo e fim, com um vídeo do YouTube a respeito da irmandade de estudantes de direito, e o título em letras garrafais seguidas pelo seu idealizador, sugere um egocentrismo seguido de megalomania que flerta com Amos Gitai, o diretor-sionista homenageado por vitimizar uma raça. No caso das Filipinas, possivelmente a pior nação oriental que se tem notícia, que comprova que, mesmo com todas as virtudes orientais de funcionamento coletivo, a religião baseada em sacrifício transforma tudo em pó e em desgraça. Uma desgraça que é celebrada aqui.
+Este com certeza é um filme 18+ e seu diretor Gaspar Noé usa toda violência que o justifique, começando por um braço sendo quebrado de forma brutal seguido por uma cabeça sendo estraçalhada com um extintor, em um dos exemplos mais eficientes do quê a união de várias técnicas de efeitos visuais de nosso tempo consegue fazer. As ações ficam muito tempo em nossa memória, criam uma impressão forte, que será usada para a montagem de nossa percepção dos personagens, suas motivações e personalidades. É um filme imediatista, que se passa em apenas uma noite, mas isso não impede que nas entrelinhas haja espaço para refletirmos.
 
-Roteirizado por três indivíduos, é difícil saber como é necessário três pessoas para esboçar esse fiapo de história. Há algo tão errado nas Filipinas, que talvez até seus idealizadores tenham sido atingidos pelo suposto câncer que submete essa sociedade cada vez mais em direção à desgraça moral.
+Note, por exemplo, como o amigo do personagem de Vincent Cassel, interpretado por Albert Dupontel como alguém que racionaliza até o ato sexual, e que se sente impotente ao que foi feito com sua ex (Monica Bellucci) ao encontrar o suposto culpado o agride até a morte certa, como um verdadeiro animal. E este é um filme sobre sexo e sexualidade, e o estupro é o momento central dessa discussão sobre o reflexo animal dos seres humanos, tão civilizados em alguns momentos, respeitando o fato que não estamos mais com uma pessoa como parceira sexual, até a traição banalizada, ou a possessão de um corpo pelo simples prazer e satisfação pessoal.
+
+Este não é um filme moralista. Ele não se permite julgar as ações de seus personagens porque insiste em fazer o espectador pensar no que está vendo. Muitas vezes pensar no que está sentindo. Nós somos moralistas a maior parte do tempo, mas o que acontece quando um filme como esse coloca nossos instintos mais primitivos na nossa frente, como um espelho?
 

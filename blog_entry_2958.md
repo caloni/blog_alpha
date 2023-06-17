@@ -1,16 +1,19 @@
 ---
 categories:
 - writting
-date: '2019-04-16'
-link: https://www.imdb.com/title/tt7043380
+date: '2022-10-12T18:01:40-03:00'
 tags:
-- series
-title: Osmosis
+- wine
+title: Oüled Thäleb
 ---
 
-Ah, se o amor fosse apenas um código em um computador orgânico -- aka nosso cérebro -- e que fosse possível descobrir sua alma gêmea simplesmente analisando esse código. E se essa série distópica da Netflix, baseada em uma versão mais romântica e dramatizada de um episódio de Black Mirror, fosse francesa, e exibisse todas as formas de amar de um futuro próximo? Bom, aí nós teríamos que perder uma hora assistindo ao piloto para concluir: ideia interessante. Poderia ser um bom filme. Mas séries estendem demais conceitos simples.
+Estou com um estoque de vinhos considerável em casa. Precisei usar meu armário e meu porquinho do lado da cama para dar conta. E vinho continua a chegar.
 
-E aqui há pequenos elementos que se unem para formar uma narrativa repetitiva que tenta abordar o tema do amor perfeito (ou a sua eterna busca) de várias maneiras, além de uma corrida contra o tempo para que a solução final fosse descoberta.
+Minha assinatura de dois vinhos bimestrais da Sociedade da Mesa me trouxe este marroquino. Eles sempre tentam inovar nos países de origem, mas as uvas dessa região mais desértica carecem de personalidade como as clássicas. Há dificuldade de nos relacionarmos com estes produtos exóticos, quanto mais a vinícola criar algo novo.
 
-Esta é mais uma das séries que gosta de brincar com o conceito de nossos cérebros serem não apenas maleáveis, mas facilmente traduzíveis. Um dos seus trunfos é entender que as questões não são tão simples assim.
+O resultado é um vinho jovem de corpo médio para forte e com um teor alcoólico que pode ser sentido mesmo aberto por mais de uma semana. Como é possível? Eu não sei. Essa foi a sensação.
+
+Marrocos tem uma história secular na produção de vinho, mas isso foi paralisado por conta do advento do Islã. Hoje a produção está na ativa e em alta velocidade. 40 milhões de garrafas por ano são produzidas no país, principalmente para uso doméstico. E Domaine des Ouled Thaleb é a vinícola mais antiga de lá. Em 1923 fizeram a primeira plantação em Benslimane, entre Casablanca e Rabat, perto do frio da costa, e 4 anos depois a primeira safra atingia o mercado. As uvas Viognier e Chardonnay vem de diferentes vinhedos da região de vinhos Zenata.
+
+2022-11-11 Mais uma garrafa dessa vinícola de Marrocos. O corpo médio desse vinho é muito bom nos primeiros dias aberto, particularmente depois de uma taça bem cheia.
 

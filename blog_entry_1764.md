@@ -1,24 +1,18 @@
 ---
 
-Imagine que existe um super-herói que não gosta que lhe chamem de "asshole" (idiota na legenda brasileira, mas em inglês um xingamento que remete ao orifício anal). A maneira mais comum dele ameaçar quem lhe incomoda é enfiar a cabeça de um no orifício anal do outro. Achou engraçado? Se sim, esse é um filme de ação que você não pode perder. Se não, então talvez seja melhor assistir um filme da Marvel menos pretensioso (já viu Guardiões da Galáxia?).
+Happy! é uma feliz (que surpresa!) importada do serviço de streaming Netflix de um conteúdo da produtora Syfi, responsável pelos jovens clássicos Sharknado. Criado pela dupla Grant Morrison e Brian Taylor baseado nos quadrinhos criado por Morrison e ilustrado por Darick Robertson, esta aventura de ação policial distópica se passa em um universo onde há muitas brechas para o sobrenatural, mas ao mesmo tempo garante um realismo fantástico bem típico dos criadores de Adrenalina (1 e 2).
 
-O que poderia muito bem ser um projeto de Adam Sandler (desconfio que ele esteja envolvido de alguma forma) acaba ganhando alguém com um ego maior ainda: Will Smith. Fala sério: você já imaginava que isso iria acontecer, mais cedo ou mais tarde. Smith, acostumado a papéis em que ele se sacrifica pelos outros e possui uma culpa incomensurável (Sete Vidas), agora em sua versão com o sub-gênero mais popular atualmente.
+Esta aventura é de Nick Sax, um ex-investigador que está no momento em um ponto de sua história pessoal em que algo deu muito errado em sua vida (e é muito salutar da série sequer tocar nesse ponto em seu início). Sax está praticamente sendo movido pelas forças da natureza, e sobrevive por sua força, sorte e esperteza, embora não possamos estimar qual a porcentagem precisa desses elementos. O fantástico surge quando a pequena Hailey Hansen (Bryce Lorenzo) é raptada por um papai-noel do mal e seu amigo imaginário Happy (voz de Patton Oswalt) corre em busca de ajuda. E você já sabe qual ajuda ele encontra. Infelizmente essa ajuda está à beira da morte por ter se metido inadvertidamente com uma máfia italiana e com um segredo que envolve uma senha, demônios e a morte do caçula da família.
 
-Um herói desajustado que vive bebendo, combate o crime e salva pessoas quase como um efeito da inércia, de tantas pessoas pedirem por isso, Hancock é odiado pela população de Los Angeles, pois suas atuações quase sempre custam muito caro à cidade e aos cofres públicos. Ao salvar uma pessoa presa dentro de um carro no trilho do trem, ele simplesmente vira o carro em cima de outro, parando o trem no processo e descarrilhando todos os vagões. Incompetente? Nem tanto. Parece mais o desleixo de quem não se importa.
+Ambientado em um universo real, mas contando com malucos (reais ou não) como Sax e Happy, esta série utiliza violência na medida certa para pontuar a brutalidade das ruas, o que torna a presença de Happy a mais inusitada possível. Se trata de uma mescla de elementos de gêneros diferentes, mas não chega a ser um resultado engraçadinho. O que a série parece querer fazer é explorar o absurdo do lúdico em ambientes nada amistosos com personagens com histórias nada adequadas para crianças (portanto, fiquem avisados: existe o Happy, mas não existe Mercy).
 
-Quem também parece que não se importa, agindo na inércia de sua atuação todo o tempo, é Will Smith. Fazendo sempre a mesma expressão de quem anda por outro mundo desiludido (e continua com a mesma expressão mesmo depois que o "arco" de seu personagem tenha concluído), Smith não parece interessado no projeto que lhe dá super-poderes. Talvez porque ele já acredite possuir poderes na vida real, o de, assim como Adam Sandler, lotar as salas de cinema onde passam seus filmes mais desinteressantes (e não tenho em mente As Loucas Aventuras de James West, que chega a ser divertido de tão ruim).
-
-A boa notícia do filme parece ser a presença de Charlize Theron, que comanda uma reviravolta já prevista desde o primeiro momento em que aparece em cena. Sua personagem parece ser a única que possui um fiapo de história para envolver o espectador, já que seu marido no filme, Jason Bateman, faz o papel mais inglório em filme de super-heróis: o do herói do cotidiano, cidadão comum, que tenta vender a ideia para as empresas de que se derem as coisas de graça para os que mais necessitam farão publicidade positiva para seus clientes, salvando o mundo. Awww...
-
-Com um roteiro padrão do sub-gênero de filme de herói (de um tal Vincent Ngo e... Vince Gilligan??), que parece estar de fato criando um filme de origem, com vilão e tudo mais, o diretor Peter Berg se esquece da própria irrelevância do projeto e filma sempre com a câmera na mão um filme que é basicamente uma comédia, dando a impressão que não entendeu a proposta, criando um ar documental em cenas que não possuem qualquer ar realista (ainda mais com os sofríveis efeitos digitais).
-
-Tendo talvez a gota d'água em uma ou duas referências nada sutis a Superman (sim, uma delas é a música-tema), Hancock apenas não afunda ainda mais por ser curto, tornando toda a experiência rápida demais para que o "épico" se concretize. Hancock salva o dia mais uma vez. Will Smith, não.
+Christopher Meloni também é uma força da natureza, e embora falte jeito ao ator, não falta postura e energia. Meloni, com suas caras e caretas, ensaia um personagem cartunesco e ao mesmo tempo durão. Grande sem ser bonachão, vemos sua força e vemos seu dilema se fechar em um arco extraordinário nos segundos finais, que não apenas mantém o clima de desesperança como este pequeno gancho de esperança lúdica e absurda demais para ser verdade. Há algo aí que pode ser interessante.
 
 ---
 categories:
 - writting
-date: '2019-08-14'
-link: https://www.imdb.com/title/tt0091167
+date: '2019-06-09'
+link: https://www.imdb.com/title/tt2452242
 tags:
-- movies
-title: Hannah e Suas Irmãs
+- series
+title: Feliz! S02

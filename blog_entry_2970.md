@@ -1,11 +1,21 @@
 ---
 categories:
-- cooking
-date: '2022-11-20T15:31:33-03:00'
-link: https://www.bbcgoodfood.com/recipes/perfect-scrambled-eggs-recipe
-tags: null
-title: Ovos Mexidos
+- writting
+date: '2012-10-23'
+link: https://www.imdb.com/title/tt2164058
+tags:
+- mostra
+- movies
+title: Pa-dak pa-dak
 ---
 
-Quebre os ovos em uma vasilha, adicione sal e creme de leite integral ou alguma gordura equivalente (já vi dicas até de maionese pela internet). Misture levemente com um garfo ou fue. Aqueça uma panela ou frigideira, de preferência antiaderente, com uma colher de manteiga ou a quantidade suficiente para cobrir o fundo com uma camada fina. Deixe em fogo baixo e despeje a mistura. Aguarde uns 20 segundos sem fazer nada e em seguida comece a dar voltas com uma colher ou espátula de pau, silicone ou borracha. Seu objetivo é retirar o ovo já cozido do fundo e deixar a parte de cima atingir a superfície da panela. Aguarde mais alguns segundos e repita até que toda a mistura esteja cozida e ainda molhada. Agora retire do fogo, mas mantenha na panela; a mistura continua cozinhando lá dentro. Faça uma última volta e sirva imediatamente.
+Padak, primeiro trabalho do diretor Lee Dae Hee, não cria uma história muito envolvente, mas possui um arco que chega a ser angustiante e libertador. Basicamente acompanhamos as tentativas frustradas de uma cavala (uma espécie de peixe) em tentar escapar de um aquário de um restaurante de frutos do mar. Há muito diálogo e pouca ação. Quando há ação, a animação peca por recorrer aos mesmos movimentos vistos.
+
+Talvez pelo aspecto técnico não chegar de fato a competir com os grandes estúdios, a fixação do diretor em animar sempre as cenas não corresponde aos seus esforços. Uma melhor forma de investir sua criatividade seria com o uso de cores e ritmo, estes sim com um potencial relevante. Dessa forma, chega a ser irritante o modo com que a câmera gira 90 graus a cada momento, um artifício repetido à exaustão, e empolgante as mudanças mais radicais de ângulo, como a que alterna a visão dos peixes e dos humanos, com a largura do quadro correspondendo a dois mundos tão distintos.
+
+No entanto, há algumas virtudes interessantes, que poderiam talvez existir apenas em produções independentes como essa. A crueldade com que os peixes são vistos, sendo decepados pelo funcionário do restaurante e o prazer dos clientes em degustar os pedaços de um peixe ainda com espasmos, ou o modo claustrofóbico com que os peixes se aninham em fila para olharem para o seu chefe, uma arraia com uma história traumática no passado e que hoje se esconde debaixo de uma tampa.
+
+Há números musicais, e são inspirados. A animação criada para eles é criativa, mas não consegue realizar uma transição do "mundo real" sem quebrar o seu ritmo. Se sai melhor os inúmeros flashbacks, que apesar de confundir presente e passado, passam uma imagem vívida da mente dos personagens, em especial uma cena envolvendo uma criatura à espera de sua morte.
+
+O uso competente de uma "pista e recompensa" especial e o ritmo milimétrico da última cena consegue criar o clima angustiante no último momento, que faz quase valer os rodeios que a história passou até então.
 

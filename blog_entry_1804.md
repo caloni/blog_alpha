@@ -1,31 +1,44 @@
 ---
 
-Devido à grande procura através de mecanismos de busca (vulgo Google), estarei republicando esse artigo dividido em partes (até porque existem partes não acabadas), cada parte descrevendo um conceito geral do que representou cada versão do sistema operacional. Bem-vindos ao [História do Windows].
+Bem-vindos. Esta é a série [História do Windows]. Nos anos 90, a relação IBM/Microsoft era muito próxima por causa do desenvolvimento do OS/2, o projeto de um novo sistema operacional. As empresas cooperavam entre si e tinham acesso uma ao código da outra. A Microsoft desejava avançar seu desenvolvimento no Windows, enquanto a IBM desejava que todo trabalho futuro fosse baseado em OS/2. Para resolver essa tensão as duas combinaram que a IBM iria desenvolver o OS/2 versão 2.0 para substituir o OS/2 versão 1.3 e o Windows v3.0, enquanto a Microsoft iria desenvolver um novo sistema operacional, o OS/2 versão 3.0 para depois suceder ao OS/2 anterior. Com tudo combinado entre as grandes corporações, é lógico que esse acordo foi por água abaixo.
 
-Tudo começou em 1981, quando chegou às lojas o primeiro IBM PC, uma poderosa máquina de 4.7 MHZ, 64 (KB!) de RAM e um drive de disquete de 160 KB. Já havia sido lançado em agosto o MS-DOS, sistema operacional encomendado pela IBM à empresa recém-criada por Paul Allen e Bill Gates, a Microsoft Corporation. O DOS foi baseado num sistema básico anterior produzido pela Seattle Computer Products.
+A relação IBM/Microsoft foi terminada. A IBM continuou a desenvolver o OS/2 v2.0 enquanto a Microsoft mudou o nome de seu ainda não lançado OS/2 v3.0 para Windows NT. O Windows NT foi tão massivamente promovido que a maioria das pessoas nem se deu conta que ele era um OS/2 redesenhado. Ambas as empresas obtiveram os direitos de utilizarem as tecnologias do OS/2 e do Windows que foram desenvolvidas até a quebra do acordo.
 
-No mesmo ano uma empresa chamada Xerox pôs ao mundo uma estação de trabalho gráfica chamada Star. Do Star vieram os conceitos de janelas, ícones, e o uso de um hardware apontador de tela chamado de mouse. De lá foram tiradas, portanto, as principais idéias que moldaram a criação dos futuros sistemas operacionais que revolucionaram o conceito de interação computador/usuário, como o LISA, da Apple -- que mais tarde também deu origem ao Macintosh -- e o sistema gráfico da Microsoft chamado Windows.
+A IBM lançou a versão 2.0 do OS/2 no início dos anos 90. O sistema foi uma grande melhora sobre o antigo OS/2 v1.3. Apresentava um novo sistema de janelas orientado a objetos (o Workplace Shell) para substituir o Presentation Manager, um novo sistema de arquivos (o HPFS) para substituir o sistema FAT utilizado pelo DOS e Windows e aproveitou todas as vantagens das capacidades 32 bits do processador 386 da Intel. Ele também rodava programas DOS e Windows 3.0, uma vez que a IBM tinha acesso e direito a essas duas tecnologias.
 
-Em novembro de 1983 a Microsoft Corporation anuncia oficialmente, no Plaza Hotel em Nova York, o Microsoft Windows, a próxima geração de sistemas operacionais que irá ter uma interface gráfica para o usuário (GUI) e ambiente multitarefa. É possível que o nome original do sistema tivesse sido Interface Manager se um dos gênios do departamento de marketing da Microsoft, Rowland Hanson, não tivesse convencido o fundador da empresa, Bill Gates, que Windows seria um nome melhor por ser mais intuitivo. A promessa inicial dizia que o sistema iria ser lançado em abril do próximo ano.
+Para concorrer com a IBM a Microsoft lançou o Windows 3.1, com pequenas melhorias à sua versão anterior, a 3.0.
 
-No início daquele ano, então, foi mostrada uma versão beta aos chefões da IBM, que não se mostraram muito entusiamados. Na verdade, a criadora do Personal Computer estava trabalhando num novo projeto que substituiria o sistema original da Microsoft, o MS-DOS.
+A Microsoft continuou a desenvolver o Windows NT. A empresa requeriu os serviços de Dave Cutler, um dos chefes arquitetos da VMS na Digital Equipment Corporation (hoje parte da Compaq) para desenvolver o NT dentro de um projeto de sistema operacional mais capaz. Cutler estava desenvolvendo um seguimento para o VMS na DEC chamado Mica, e quando a DEC desistiu do projeto ele acabou trazendo para a Microsoft sua especialidade nesse sistema e algum engenheiros do projeto com ele. A DEC acreditava que ele usara parte do código do Mica no Windows NT e acabou processando a Microsoft. A empresa de Gates teve que eventualmente pagar 150 milhões para a DEC, além de concordar em suportar o chip Alpha CPU da DEC na plataforma NT, e é por isso que existe uma pasta com essa arquitetura no CD de instalação do Windows NT.
 
-Surgiram concorrentes potenciais do Microsoft Windows. VisiOn, da VisiCorp, foi a primeira GUI oficial lançada para PC. GEM (Graphical Environment Manager), lançada pela Digital Research no começo de 1983. No entanto ambos careciam do suporte de desenvolvedores para a plataforma. Ora, se ninguém quer fazer programas para um sistema, quem vai querer comprá-lo?
+Sendo um sistema operacional completamente novo o Windows NT sofreu com questões de compatibilidade com hardware e software geralmente usados na época. Ele era também concentrado em recursos, o que o deixava aceitável apenas para máquinas maiores e mais caras. Tanto que inicialmente foi dirigido a servidores de rede, workstations e máquinas de desenvolvimento de software. Por causa disso, a maioria dos usuário foi incapaz de migrar para a plataforma NT. E o Windows NT ainda estava projetado graficamente como o Windows 3.1, o que era inferior ao OS/2 Workplace Shell. Em resposta, a Microsoft começou a desenvolver um sucessor para o Windows 3.1, um projeto de codinome Chicago. Chicago tinha por objetivo apresentar uma nova GUI que competisse com o OS/2 Workplace Shell. Ele também foi projetado para ser de 32 bits e suportar execução multitarefa, como o OS/2 e o Windows NT. Só algumas partes do Chicago, entretanto, foram convertidas para 32 bits, e o resto permaneceu em 16. A Microsoft argumentou que a conversão total iria atrasar em muito o projeto, o que acabaria por encarecê-lo além do limite.
 
-Um produto chamado Top View fora lançado pela IBM em fevereiro de 1985, baseado em DOS com um gerenciador multitarefa, mas sem uma GUI. Era lento e precisava de muita memória. Acabou sendo descontinuado dois anos depois e nunca chegou a ter uma interface gráfica.
+Para o Chicago foi desenvolvida uma nova API para substituir a de 16 bits do Windows anterior. Essa API foi chamada de Win32, e a outra renomeada para Win16. Houveram 3 ramificações: uma para o Chicago, outra para o NT e uma terceira chamada Win32s, que foi um subconjunto para o Windows 3.1 garantir a compatibilidade retroativa das versões. Também foi pensado num mínimo de compatibilidade entre o Chicago e o Windows NT, mesmo que os dois possuíssem duas arquiteturas radicalmente diferentes.
 
-Antes do lançamento do Windows, advogados da Apple alertavam sobre a possibilidade do sistema infringir os direitos e patentes que a empresa tinha sobre as características da sua interface gráfica, a LISA (janelas com barra de título, menus drop-downs, suporte a mouse, etc). Daí o fundador da Microsoft, Bill Gates, teve a idéia brilhante de firmar um contrato de licença com a Apple, dando-lhe o direito de incluir em todas as futuras versões do Windows e programas os conceitos de GUI adquiridos pelo sistema gráfico da Apple (isso antes do Windows ser lançado).
+Em setembro de 1994 é lançada o Windows NT 3.5. A versão Workstation substituiu o Windows NT 3.1 e a versão Server o Windows NT 3.1 Advanced Server.
 
-Finalmente, em 20 de novembro de 1985, a Microsoft lança o Windows 1.0, quase dois anos depois da promessa inicial. Foi vendido inicialmente por 100 USD. Continha em seu pacote: MS-DOS Executive, Calendar, Cardfile, Notepad, Terminal, Calculator, Clock, Reversi, Control Panel, PIF (Program Information File) Editor, Print Spooler, Clipboard, RAMDrive, Windows Write e Windows Paint.
+{{< image src="windows_workstation.jpg" caption="Windows NT 3.51 Workstation" >}}
 
-{{< image src="windows1.png" caption="Windows 1.0" >}}
+Como todo projeto de sucesso, a primeira coisa a ser feita é definir os objetivos principais. No caso do Windows NT não foi diferente. É importante para nós sabermos que objetivos eram esses e como eles foram mudando de acordo com o momento histórico de forma a analisarmos as conseqüências. Em outubro de 1988 os objetivos do novo sistema operacional eram os seguintes:
 
-O novo sistema não fez muito sucesso de imediato. Pelo contrário, foi considerado lento e primitivo. Devido às limitações impostas pela Apple o sistema não pôde apresentar certas características como a sobreposição de janelas e a famosa lixeira (um conceito proprietário da Apple). Ficou cerca de dois anos boiando no mercado até que foi lançado um produto chamado Aldus PageMaker 1.0. PageMaker foi o primeiro programa WYSIWYG (What You Seee Is What You Get) para o PC. Tinha a grande novidade de juntar tipos e gráficos no mesmo documento. Depois de um ano, a Microsoft lança uma planilha de cálculos chamada Excel. Mais tarde outros produtos como Microsoft Word e Corel Draw ajudaram a aumentar a popularidade do Windows, embora esse ainda precisasse de muitas melhoras.
+ - Compatibilidade com OS/2;
+ - Segurança;
+ - Suporte a POSIX;
+ - Multiprocessamento;
+ - Rede integrada;
+ - Confiabilidade.
+
+Como o Windows 3.0 fez um sucesso enorme, a compatibilidade nativa passou a ser do próprio Windows caseiro, sendo o OS/2 sendo implementado como um mero subsistema. Subsistema no Windows basicamente quer dizer ambiente virtual de execução de processos feitos para rodar em outro sistema operacional. Essa maneira de suportar processos de outros sistemas operacionais foi usado tanto para o OS/2 quanto para o Windows 16 bits, o MS-DOS e aplicativos POSIX, o padrão utilizado para arquiteturas derivadas do UNIX.
+
+O tempo do projeto foi inicialmente estimado em pouco mais de dois anos. Ao final, quatro anos e meio se passaram até a chegada do primeiro release, que era grande e lento para as máquinas da época. Assim foi iniciado o projeto Daytona, que teve como novos objetivos tornar a nova versão do NT mais rápida e confiável. Foi lançada então a versão 3.51.
+
+O Windows NT é um sistema operacional de 32 bits. Isso quer dizer, entre outras coisas, que ele suporta duas propriedades fundamentais dos sistemas operacionais modernos: modo protegido de execução e memória virtual. O modo protegido de execução permite a divisão entre a parte confiável do sistema operacional, que roda em kernel mode, e a parte não-confiável, que não possui acesso às instruções privilegiadas; a parte não-confiável chamamos de user mode. A memória virtual abstrai a memória física e permite isolamento de memória entre aplicativos, evitando que um programa invada a memória do outro.
+
+Além disso, foi criada uma camada de abstração do hardware (HAL, Hardware Abstraction Layer) que livrou boa parte do código de ter sido escrito em assembly, fazendo assim que ele fosse facilmente portável.
 
 [História do Windows]: {{< relref "historia-do-windows" >}}
 
 ---
 categories:
 - coding
-date: '2007-07-04'
-title: História do Windows - parte 2.0
+date: '2007-09-04'
+title: História do Windows - parte 4.0

@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2013-02-07'
-link: https://www.imdb.com/title/tt1707386
+date: '2011-12-12'
+link: https://www.imdb.com/title/tt1646974
 tags:
 - movies
-title: Os Miseráveis
+title: Os Nomes do Amor
 ---
 
-Baseado em uma peça musical (que é baseado no clássico literário de Vitor Hugo), a história de Os Miseráveis se passa na França pós-revolução e gira em torno de Jean Valjean (Hugh Jackman), um ex-prisioneiro que foi condenado por ter roubado um pão e que cumpriu pena por 19 anos. Os destinos de diversos personagens se encontram com Valjean, inclusive Javert (Russell Crowe), o inspetor que cuidava das galés onde realizava trabalhos forçados, e Fantine (Anne Hathaway), mãe da pequena Cosette (Amanda Seyfried crescida) e que faz de tudo para sustentar a filha, inclusive chegando a se prostituir.
+Ele, um esquerdista especialista em epidemias nos animais. Ela, uma libertária tão libertária que às vezes se esquece de colocar a roupa para sair de casa. Ambos, uma relação que mescla tanto as visões políticas quanto sexuais da França atual. Porém, mais importante, levanta a sensível questão da imigração, que vem engrossando caldo desde o movimento anti-terrorista liderado pelo governo Bush e evidenciado na crise europeia.
 
-Com praticamente todos os diálogos cantados, não há números de dança, mas uma trama que mantém o estilo de opereta. O cenário é completamente secundário e a grandiosidade dos horizontes existe apenas para que vejamos a miséria do povo francês alastrada até onde não se consegue ver (um horizonte de papelão no teatro serviria bem). Hugh Jackman está intenso e compenetrado, e o elenco acessório acompanha seu inabalável ritmo. Só que não há ritmo na direção, e nunca sabemos o porquê estamos vendo uma sequência inteira a respeito, por exemplo, de um amor não correspondido. Tudo que NÃO contribui para mover a história parece ter o dobro da duração.
+Narrando o passado dos pais e avós dos personagens como em entrevistas informais, isso ao mesmo tempo que expõem seus sentimentos, é usado como artifício de engajamento político e explica inclusive o relacionamento social de ambos. Dessa forma, o fato da geração anterior padecer nos campos de concentração ou ter origem estrangeira é motivo para que não se toque nunca no assunto ou se use qualquer expressão que remeta a esse passado. Ao mesmo tempo, o trauma dela de ter sido molestada quando criança, embora na maioria das vezes torna a pessoa quando adulta recatada, adota um aspecto prático e funcional (onde o sexo é usado para conversão política). Distraída ao máximo, é capaz de nunca reparar quando acidentalmente deixa seus peitos de fora (em público) e, embora tenha convicções políticas, acaba sempre votando no pior rival.
 
-No entanto, mesmo assim há surpresas pontuais que revigoram a história, mas que não necessariamente são conduzidos com a grandiosidade com que foram concebidos originalmente. A batalha entre os jovens revolucionários e os soldados, forte apenas pelo seu simbolismo, perde a mão na indecisão de Tom Hooper, que consegue a proeza de suavizá-la (e até mesmo banalizá-la) mesmo com a morte de uma criança.
-
-Se não é o elenco empenhando em resgatar o filme do desastre de direção, o estrago com certeza seria irreparável.
+Com uma trilha sonora leve, que acompanha o ritmo de seus personagens, e uma fotografia de cores básicas, que remete não apenas às cores da bandeira da França mas também ao uso generalizado de bandeiras no sentido de sempre defendermos nosso ponto de vista, Os Nomes do Amor caminha serenamente pelo seu caminho, sempre ressaltando os absurdos das opiniões extremadas e do racionalismo exacerbado que nos impede muitas vezes de pensar (como a funcionária que conhece a mãe do rapaz por 30 anos, mas se nega a emitir outro documento até que ela comprove cidadania francesa) ou de sentir. O mundo para muitos pode até ser preto e branco, mas o filtro cômico pelo qual o filme nos faz enxergar o comportamento insano das pessoas que pensam assim nos faz concluir que, na prática, o mais sensato é enxergamos a cinza paisagem, mesmo.
 

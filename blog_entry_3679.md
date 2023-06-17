@@ -1,16 +1,20 @@
 ---
 categories:
 - writting
-date: '2011-07-08'
-link: https://www.imdb.com/title/tt0150980
+date: '2016-05-20'
+link: https://www.imdb.com/title/tt4145760
 tags:
-- movies
-title: The Housemaid
+- series
+title: The Lizzie Borden Chronicles (piloto)
 ---
 
-O longa possui algumas reviravoltas que podem soar esquisito à cultura ocidental, mas a base do drama, que são os acontecimentos macabros rodeando a honrada família do professor de piano, criam um clima, se não de tensão, definitivamente macabro e sexy.
+Juro que esperava peitinhos. Uma série com a sempre "interessante" Christina Ricci (A Família Addams ou... O Oposto do Sexo?) sempre promete algo assim. Ela como a assassina sanguinária Lizzie Borden, então...
 
-Existe na literatura e no folclore em geral muito sobre o mito da viúva negra, por analogia ao comportamento reprodutivo dessa espécie de aranha. Cada um interpreta de uma forma. A forma visceral mostrada aqui por Ki-young Kim espanta pelo erotismo crescente, mesmo que não existam muitas cenas picantes. O que vemos, na verdade, é um flerte muito bem construído entre vida e morte, entre ascenção e decadência (mais decadência).
+A série possui uma temporada e oito episódios, e tem por intuito contar a respeito do caso dessa mulher do final do século 19, que matava pessoas com um machado.
 
-Quando a empregada se veste de preto tudo começa a se acelerar em direção ao inevitável e trágico final. Visualmente essa construção une de forma inteligente o tom escuro da vestimenta da empregada e o completo contraste com o branco puro, inocente e servil da matriarca. Não existe meio termo. E Ki-young Kim não irá nos poupar de toda a maldade e egoísmo humano para demonstrar, de uma maneira um tanto hardcore, que é isso que nos faz humanos.
+A série é assustadoramente televisiva, com aqueles zooms acelerados seguidos de câmera lenta, e cortes bruscos e sem motivo. Além disso, a direção de arte e figurino parecem estar prontos para rodar uma telenovela, com pouquíssimo apuro em filmar uma história de época. As roupas de metade dos atores pode ser confundido com antigo, o resto pode ser confundido com o Projac.
+
+Além disso, a história gira em torno da perda da fortuna da tal Lizzie depois que seus pais vão dessa para melhor (provavelmente obra dela mesma). Basicamente é apenas isso em quase uma hora de série. A vemos andar de preto com sua irmã, falar com o advogado, com seu irmão semi-bastardo e a caveira horrenda (de mal feita) de um bebê.
+
+Basicamente é isso. Um pouquinho de gore, com menos ainda de violência, e nenhum, praticamente nenhum... peitinho.
 

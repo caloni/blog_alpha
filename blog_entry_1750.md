@@ -1,52 +1,124 @@
 ---
 
-O primeiro passo para se passar no Teste do Joel é possuir algum tipo de controle de código. E ele está mais do que certo. Não existe nada mais frustrante do que não ter exatamente o código-fonte da versão que está rodando no cliente ou não saber o que mudou desde que a versão foi entregue. Esse tipo de coisa pode acabar com uma empresa ou fazer com que ela fique muito mal vista no mercado.
+> Vou aproveitar que meu amigo DQ publicou um artigo muito bom sobre [como fazer programas fáceis de manter] (merece ser lido!) e vou republicar um artigo do blogue antigo sobre o básico do básico para quem deseja entender como os programas funcionam. Não é nada sofisticado, apenas alguns conceitos comuns que, se você deseja ser programador, deveria procurar saber.
 
-Porém, independente do mercado, existe um bom motivo para o desenvolvedor possuir algum tipo de controle de código: controle. Se você ou sua equipe não conseguem corrigir todos os bugs, pelo menos saberão o que já foi feito. Se você achou um bug que não existia antes da versão 10, o histórico das mudanças entre a versão estável 9 e a versão não-tão-estável 10 vai te dar uma pista muito boa de onde o problema pode ter sido gerado. Visto dessa forma, não importa muito o tamanho da equipe ou da organização. O importante de um bom código é que suas mudanças estejam sempre registradas, visíveis e disponíveis a qualquer um.
+## Código, dados e processador
 
-Um controle de código para uma pessoa só não precisa ser nada muito sofisticado, sendo que um amontoado de ZIPs pode dar conta do recado. Porém, a partir do momento em que o número de desenvolvedores aumenta para dois ou mais, aí o controle baseado em ZIPs começa a ruir, e é necessário usar uma ferramenta mais apropriada. Existem algumas opções, que vai do gosto e necessidades de cada um:
+A primeira coisa a saber é o que é um programa. Podemos imaginá-lo como um arquivo que vai ser interpretado pelo computador. Essa interpretação chamamos de execução. Quando um programa está sendo executado também é comum dizermos que ele está rodando. Teoricamente ele pode rodar eternamente, mas o que acontece em casos normais é que ele tem um fim previsto, seja quando o usuário fechar a janela principal (evento externo) ou quando ele terminar o que tinha que fazer (lógica interna).
 
- - Visual Source Safe ou VSS não é gratuito nem robusto o suficiente para agüentar toneladas de código-fonte, mas vem junto do Visual Studio e pode ser apropriado para empresas de porte pequeno ou médio (e empresas de um programador só).
+E do que é feito um programa? Basicamente de duas coisas: dados de entrada e instruções (ou código). Os dados podem estar no próprio programa ou serem lidos de algum outro lugar (do teclado, de outro arquivo, da internet, etc). As instruções do seu programa é o que será interpretado pelo computador. E o que ele fará? Basicamente alterar os dados de entrada. O objetivo fundamental de um programa é gerar dados de saída. Esses dados são escritos/exibidos para algum outro lugar (para a tela, para um arquivo, para a internet, etc).
 
- - Concurrent Version System ou CVS é um sistema fonte aberto, gratuito e robusto. Suficiente para agüentar toneladas de código-fonte e equipes de vários andares. Atualmente está sendo substituído gradualmente pelo
+Vamos analisar essas abstrações em exemplos da vida real:
+    
+| Exemplo          | Dados de entrada            | Processamento                 | Dados de saída                    |
+| ---------------- | --------------------------  | ----------------------------  | --------------------------------- |
+| Bloco de Notas   | Digitação do usuário        | Leitura do teclado            | Texto exibido na tela             |
+| Chat Online      | Envio de mensagem           | Conexão com a internet        | Seu amigo recebe a mensagem       |
+| Editor de imagem | Movimento do mouse          | Interpretação de movimento    | Retângulo desenhado               |
+| Browser          | Clique do mouse em uma URL  | Conexão com o site            | Exibição da nova página           |
+| Jogo de Tiro     | Clique no botão de tiro     | Cálculo do projétil           | Inimigo acertado                  |
+| Compilador       | Código do programador       | Interpretação das instruções  | Código de máquina (seu programa!) |
 
- - Subversion ou SVN, um substituto moderno do antigo CVS; igualmente gratuito e poderoso, está rapidamente se tornando a opção predominante.
+Como podemos ver, podemos abstrair esse lance de "dados de entrada + processamento = dados de saída" com qualquer tipo de programa que usarmos. Basta relacionar o que fazemos (digitar algo, arrastar o mouse, apertar um botão, etc) para obtermos a saída desejada (texto/gráfico na tela, no arquivo, na impressora, etc). O programa é o elemento que fica no meio fazendo essa "mágica".
 
-Vou explicar aqui os principais passos para começar a utilizar um controle de código usando como exemplo o Source Safe versão 2005 que, apesar de não ser gratuito, é muito usado em empresas que programam para Windows e já utilizam o Visual Studio há muito tempo.
+## Dados do programa
 
-Antes de qualquer coisa é necessário criar uma base de dados onde estarão os fontes. Para isso a primeira execução do programa irá exibir um assistente que irá guiá-lo pelos poucos e simples passos para a criação de uma nova base.
+Existem informações intermediárias que precisamos guardar em um programa em execução para que no final consigamos apresentar a saída desejada ao usuário. Essas informações intermediárias também são dados, só que o usuário não os enxerga. A elas chamamos de variáveis. Entenda uma variável como "um lugar na memória onde o programa armazena alguma informação durante o processamento".
 
-O processo é bem simples, baseado em Next, Next, até que você chega em momento de decisão, onde deve escolher qual dos dois métodos de controle de fonte irá utilizar:
+Toda variável é apenas memória interpretada de uma maneira peculiar. Essa maneira de interpretar a memória é chamada de tipo. Cada variável possui o tipo que lhe convém. Basicamente, existem dois tipos de variáveis: número (ou inteiro) e texto (ou string).
+
+## Instruções do programa
+
+Imagine um programa sendo executado do começo ao fim. A ordem em que um programa é executado é chamado de fluxo de execução. A tendência natural de um programa é ser executado pelo computador da sua primeira instrução até a última, sempre nessa ordem. Ou seja, linha 1, linha 2, linha 3, ...., linha n. Pronto. Acabou.
+
+Porém, se fosse sempre assim, isso quer dizer que o programa seria executado sempre do mesmo jeito, e os dados de saída seriam sempre os mesmos, independente dos dados de entrada. Mas isso não acontece, certo? Quer dizer, se você não mirar direito e apertar o botão certo, o inimigo não vai cair no chão. Isso faz um certo sentido, não?
+
+Seguindo esse raciocínio, podemos deduzir que um programa deve tomar decisões para saber o que fazer. E para tomar essas decisões ele usa o que recebeu como entrada, que são exatamente os dados de entrada. Nesse contexto, tomar decisão significa alterar o fluxo de execução. Ou seja, a ordem não necessariamente será sempre linha 1, linha 2, linha 3, etc, mas poderá ser, por exemplo, linha 1, linha 52, linha 237643, linha 52 de novo, linha 890, e assim por diante.
+
+    001: inicia
+    002: lê entrada
+    003: atirar?
+    004: sim! ir para 514
+    005: não! ir para 002
+    006: ...
+    ...
+    514: acertei?
+    515: sim! ir para 489
+    516: não! ir para 234
+    517: ...
+    ...
+    234: fui acertado?
+    235: sim! ir para 918
+    236: não! ir para 002
+    ...
+    489: aumenta pontos
+    490: ir para 002
+    ...
+    918: diminui vida
+    919: morri?
+    920: sim! ir para 980
+    921: não! ir para 002
+    ...
+    980: game over!
+    981: sai do programa
+
+Note que existem várias perguntas que o programa precisa responder para seguir em frente. Para respondê-las, o programa pede a ajuda do computador para fazer comparações entre variáveis. E aí está o uso desses dados internos.
+
+## Mudando o fluxo
+
+Bem, até aqui você já aprendeu um montão de coisas:
 	
- - Lock-Modify-Unlock Model. O modelo clássico do Source Safe, permite que apenas um programador altere um fonte de cada vez. Se você é novo nesse negócio de controle de fonte, recomendo essa opção, que é a mais indolor. Em equipes pequenas costuma funcionar. E esse é o modelo que iremos utilizar aqui.
+ - Programas podem ser armazenados em arquivos.
+ - Quando executados, o computador interpreta suas instruções.
+ - Um programa usa dados de entrada para gerar dados de saída.
+ - Para tomar decisões, ele utiliza variáveis internas.
+ - A ordem das instruções é chamado fluxo de execução.
+ - A tomada de decisões altera o fluxo de execução de um programa.
 
- - Copy-Modify-Merge Model. Esse novo modelo segue o princípio do CVS e do Subversion. Nele todos podem alterar ao mesmo tempo qualquer código-fonte. Porém, na hora de subir as modificações de volta para a base é necessário um passo intermediário conhecido como merge. É onde são resolvidos conflitos, caso algum desenvolvedor tenha feito modificações no mesmo local que você. Geralmente é escolhida uma ou mais pessoas para gerenciar essa parte do processo. Esse modelo tem funcionado bastante em projetos de fonte aberto e de empresas grandes.
+Para concluir, vamos dar uma espiada nas estruturas de comparação de um programa em C e suas conseqüentes mudanças de fluxo. Note também que as comparações são feitas com variáveis internas.
 
-Agora que a base está criada, o próximo passo é torná-la disponível a todos. A maneira mais fácil de fazer isso é criando um compartilhamento na rede (de preferência oculto) e divulgando às pessoas interessadas. É claro que você, como bom administrador, irá ter que criar os usuários que irão acessar a base.
+If significa "se", ou seja, faz uma comparação, e retorna se a comparação é verdadeira (sim!) ou não (não!). Porém, o if apenas faz alguma coisa se o resultado for sim.
 
-Após esse processo de integração, os usuários podem começar a usar o Source Safe através da primeira opção do início do assistente (Database Selection).
+{{< image src="if.gif" caption="If" >}}
 
-Antes de começar a mexer nos fontes, o Source Safe pede que você defina um diretório raiz onde começa a ramificação de pastas dos seus fontes. Isso pode ser feito pela opção File, Set Working Folder (Ctrl + D). A partir daí, cada pasta é chamada de projeto (project) no Source Safe. Para criar novos projetos/pastas, use a opção "File, Create Project". Para adicionar novos arquivos, "File, Add Files". Cada usuário pode definir seu próprio diretório de trabalho por máquina, mas geralmente é uma boa idéia mantê-los todos utilizando a mesma pasta.
+Else significa "senão", ou seja, é o complemento do if. Lembra-se que o if só faz alguma coisa se o resultado da comparação for sim? Pois bem, o else permite fazer outra coisa se o resultado for não.
 
-Após adicionar os arquivos do projeto, é possível fazer modificações usando a opção check-out. O check-out quer dizer que os fontes saem (OUT) da base e são copiados com direito de escrita para seu disco local. Após feitas as modificações, usa-se a opção check-in para subir as modificações para o banco. O check-in quer dizer que as modificações feitas no disco local entram (IN) na base. Cada operação feita com esses dois passos é armazenada no histórico do Source Safe, e podem ser utilizadas para voltar versões antigas, comparar versões antigas novas, etc.
+{{< image src="else.gif" caption="Else" >}}
 
-Quando todos os fontes que subirem constituirem uma alteração madura, compilável, testada pelo desenvolvedor e pronta para ser repassada para os testadores, deve-se criar um rótulo, ou label, para que futuramente essa versão possa ser facilmente identificada entre os milhões de modificações de fonte que sua equipe irá fazer ao longo do tempo. Se essa versão se tornar uma "entregável", pode-se utilizar o rótulo para obter exatamente a versão entregue a qualquer momento, independente de quantas modificações terem sido feitas depois. Essa marcação de fontes pode ser muito útil na ocorrência de incêndios, e todos sabemos que eles ocorrem com mais freqüência do que gostaríamos. Por isso é importante estar preparado.
+While significa "enquanto", e é o nosso primeiro exemplo de laço, ou loop. Um loop faz constantemente a mesma coisa enquanto o resultado da comparação for sim. Uma vez que for não (pode ser a primeira, inclusive), ele não faz mais nada e o programa continua seu fluxo natural.
 
-Se você chegou até aqui, quer dizer que está realmente interessado em controlar seus fontes. Parabéns! O controle de fontes vem com algumas vantagens. Vamos supor que já exista uma versão estável no Source Safe e você precisa fazer alguma correção/teste como prova de conceito. Esse tipo de fonte normalmente seria descartável, mas agora que você possui uma ferramenta de controle de fonte funcionando, isso não é necessário.
+{{< image src="while.gif" caption="While" >}}
 
-Se é necessário desenvolver uma prova de conceito, pode-se optar por criar uma ramificação do fonte, ou branch. Essa opção cria um novo projeto no Source Safe com fontes existentes, mantém o histórico de modificações, mas gera uma nova linha de vida do fonte. Qualquer modificação feita em um branch fica nesse branch, seja o principal ou secundário. É possível também no futuro juntar dois branchs.
+For significa "por", com o mesmo sentido que em "ele me chutou por 5 vezes seguidas". Ele pode ter muitos usos, mas o tradicional é fazer n vezes alguma coisa, sabendo que n é um número de vezes já conhecido. Nesse caso, o loop serve apenas para repetir um determinado número de vezes uma ação, sem nunca variar esse número de vezes.
 
-Agora, se a modificação é um simples teste durante a depuração, pode ser feito o check-out para modificações temporárias. Se mais tarde for decidido que as modificações não serão efetuadas na base, basta executar a opção undo check-out, que volta o fonte da base para o disco local e mantém a versão intacta. Use essa opção com cuidado, pois quaisquer modificações no disco local serão perdidas.
+{{< image src="for.gif" caption="For" >}}
 
-Agora que os fontes estão vivendo tranqüilamente no controle de fontes, é possível executar builds automatizados de tempos em tempos. Isso garante a estabilidade do seu projeto, pois junto dos builds é possível fazer testes, tanto da compilação em si quanto depois de compilado.
+## É só isso?
 
-O Source Safe possui uma ferramenta em linha de comando que faz as mesmas operações que a versão gráfica, além de possuir uma série de interfaces COM que podem ser usadas para interagir com o controle de fontes através de scripts. Além de outras ferramentas de automação de builds que podem ser integradas, como o NAnt e o CruiseControl.
+Programar não tem segredo. É tudo uma questão de gostar, aprender, executar, aprender, gostar mais, aprender mais, executar mais, etc. Não exatamente nessa ordem. Tudo vai depender dos seus dados de entrada. Mas o fluxo já começou sua execução...
 
-O resumo da ópera é: cuide bem dos seus fontes. Muito trabalho, tempo e dinheiro são despendidos com desenvolvimento. Não cuidar do resultado de tudo isso é como botar fogo no estoque de uma fábrica.
+## Para saber mais
+
+ - [Arquitetura de von Neumann] - Wikipédia
+ - [Máquina de Turing] - Wikipédia
+ - [A inteligência do if] - parte 1
+ - [A inteligência do if] - parte 2
+
+## Se ainda está difícil compreender
+
+ - Resolva exercícios de lógica.
+ - Leia livros bem introdutórios (até para criança vale) como [Introdução Ilustrada à Computação].
+
+[como fazer programas fáceis de manter]: http://dqsoft.blogspot.com/2007/10/desenvolvendo-softwares-agradveis-de.html
+[Arquitetura de von Neumann]: http://pt.wikipedia.org/wiki/Arquitetura_de_von_Neumann
+[Máquina de Turing]: http://pt.wikipedia.org/wiki/M%C3%A1quina_de_Turing
+[A inteligência do if]: {{< relref "a-inteligencia-do-if-parte-1" >}}
+[A inteligência do if]: {{< relref "a-inteligencia-do-if-parte-2" >}}
+[Introdução Ilustrada à Computação]: {{< relref "introducao-a-introducao-a-computacao" >}}
 
 ---
 categories:
 - coding
-date: '2008-06-10'
+date: '2008-08-11'
 tags: null
-title: Guia básico de repositórios no Bazaar
+title: Guia para iniciantes no DriverEntry

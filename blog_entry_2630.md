@@ -1,22 +1,24 @@
 ---
 categories:
 - writting
-date: '2019-08-20'
-link: https://www.imdb.com/title/tt0070707
+date: '2017-03-26'
+link: https://www.imdb.com/title/tt1825157
 tags:
 - movies
-title: O Dorminhoco
+title: O Duplo
 ---
 
-Essa é uma das comédias pastelão dirigida por Woody Allen, como Tudo o Que Você Sempre Quis Saber Sobre Sexo e Tinha Medo de Perguntar e Um Assaltante Bem Trapalhão. Particularmente não sou muito fã dessa fase inicial do diretor, e nesse caso não é diferente. É uma comédia escrachada com ideias soltas e um roteiro que apenas nos leva em direção às piadas. Mas como isso é Woody Allen ainda resta uma certa textura no final das contas.
+O Duplo é uma viagem moderna, animalesca, exagerada, utópica e livre de interpretações do livro homônimo de Fyodor Dostoevsky. Apresentando uma estética rica e impecável, o diretor Richard Ayoade adaptou o conteúdo do romance do autor russo com a ajuda de Avi Korine e entregaram um resultado além das expectativas que alguém poderia pensar de um filme protagonizado por Jesse Eisenberg como um herói tragicômico. Se trata de uma premissa simples: e se seu pior inimigo fosse você mesmo, mas em uma versão que todos reconheçam como um ser humano completo -- ainda que imoral -- e que você seja um mero espectador do sucesso que você poderia ser se pudesse, paradoxalmente, colocar seu próprio eu de lado, deixando de atrapalhar sua existência.
 
-A história foi escrita junto com Marshall Brickman, que foi co-roteirista de Allen neste filme e, acreditem se quiser, em Noivo Neurótico, Noiva Nervosa e Manhattan. Uma curiosidade inútil: Marshall, apesar de ser americano e com pais americanos, nasceu no Rio de Janeiro. Curioso porque as pessoas geralmente vêm para o Brazil fazer os filhos, não dar à luz a eles.
+O impressionante é que Eisenberg consegue fazer tanto Simon James quanto seu sócia, James Simon, de uma maneira inquietante. Se como Simon chega a dar desespero a introspecção e o senso de invisibilidade do rapaz, assim como James se torna sua sombra que toma conta. E a sua sombra, como vemos no filme, é uma representação fidedigna de seu personagem, pois ela passeia pelos muitos cantos claustrofóbicos dos cenários fotografados por Erik Wilson, cheios de sombra e drenados de cor.
 
-Esta é uma ficção de futuro distópico que mistura um pouco elementos de Admirável Mundo Novo com 1984, mas que está afim mesmo de brincar com esse futuro alternativo onde há uma máquina de orgasmo e uma pessoa (Allen) foi congelada por 200 anos depois de um problema de úlcera que foi longe demais.
+Em um ambiente que poderia lembrar 1984 (o filme), Brazil (o filme) ou qualquer desses futuros distópicos onde a esperança foi aniquilada por corporações sem alma, o suicídio é algo comum. As pessoas deixam de existir e cometem suicídio ou comentem suicídio para deixar de existir nesse mundo? Para Simon, o único motivo dele viver é sua vizinha do prédio à frente, a doce, jovem, bela e loira Hannah, interpretada por Mia Wasikowska como uma mulher vulgar ou trivial, e não como a deusa imaginada por Simon.
 
-Ele apresenta a estonteante Diane Keaton como Luna, seu par romântico. Juntos, assim como em Um Assaltante Bem Trapalhão, eles tentam sobreviver às loucuras desse tempo, onde o personagem de Allen é procurado por ser um ilegal em um governo ditatorial em que o ditador existe como uma figura estilo Grande Irmão, mas que próximo do final temos uma revelação que é típica do humor do cineasta.
+O ambiente também sofre várias influências do anime japonês, seja pela trilha sonora estilizada de Andrew Hewitt, que investe em canções em japonês, ou pelo exagero dos enquadramentos de Richard Ayoade, que usa um solitário vagão para mover seus personagens de e para o trabalho.
 
-Como filme a narrativa é muito pedestre, com efeitos sofríveis, mas há algumas boas tiradas mesmo assim, como uma espécie de bazuca dos militares que nunca funciona e uma mochila propulsora feita com uma hélice risível por cima. Allen aqui demonstra seu timing para comédia física, que não é exatamente incrível, mas ele demonstra tê-la, o que torna o diretor de Manhattan alguém bem mais versátil que poderíamos imaginar.
+E que trabalho. Não sabemos o que é feito (como de costume em futuros distópicos), mas sabemos que as pessoas ficam com os cabelos brancos por lá. Se trata de um destino triste e solitário para Simon, cuja única felicidade é burlar um regulamento e imprimir apenas uma cópia na impressora para ir para o andar onde trabalha Hannah e pedir mais uma cópia. A assistente de Hannah lembra a megera de Expresso do Amanhã, assim como alguma outra megera de 1984.
 
-Feito para dar risada e fazer pensar muito pouco, O Dorminhoco não é o tipo de filme que eu gosto do diretor, e está longe de ser uma comédia à altura dos clássicos Top Secret ou Apertem os Cintos. É no máximo simpática. Esquecível, divertidinha e simpática. Se você já viu "Tudo Que Você Queria Saber Sobre Sexo...", já viu um Allen bem melhor.
+No entanto, talvez o trabalho mais sofisticado do filme seja seu roteiro. Bem estruturado em todas suas partes, não deixando detalhes existirem a esmo (incluindo seu desfecho genial), a adaptação de Ayoade/Korine não deixa margem a dúvidas sobre o que está acontecendo, mas apenas o porquê. Mas ele também não torna as coisas fáceis para o espectador médio, que precisa entrar a fundo no tema para entender o que está acontecendo e não se importar tanto em um porquê bobo que irá estragar a festa. O importante na história não é como é possível existir um sócia e as pessoas não perceberem (até porque, em uma cena do hospital, vemos que isso é possível de acontecer com qualquer pessoa). Essa não é a pegada semi-realista de O Homem Duplicado, mas a viagem filosófica por trás do que tudo isso significa para o homem comum.
+
+E é uma viagem sensorial, também. Exagerada quase além da conta. No entanto, não é necessário que seja assim, para entendermos que este é um assunto sério, seríssimo, mais do que uma simples brincadeira? O humor se encontra a todo momento nesse drama, mas vai se tornando cada vez mais "dark" a cada passo. Como é possível achar engraçado um destino tão desesperador?
 

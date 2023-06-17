@@ -1,25 +1,56 @@
 ---
 categories:
-- writting
-date: '2017-03-28'
-link: https://www.imdb.com/title/tt3790172
-tags:
-- cinemaqui
-- movies
-title: O Mundo Fora do Lugar
+- coding
+date: '2014-08-01'
+tags: null
+title: O novo 'como não dar step into' do Visual Studio 2012/13
 ---
 
-O Mundo Fora do Lugar é uma sutil defesa dos psicologicamente abusados (coincidentemente mulheres em um relacionamento). Ele usa um drama familiar do passado com revelações de novela, mas faz isso com muito charme e boa música. E é um filme alemão, o que nesse caso quer dizer que as emoções estarão contidas, embora elas existam.
+Toda vez que instalo um Visual Studio novo e começo a depurar sempre surge a necessidade de fazê-lo calar a boca nos step intos da STL, Boost, ATL e coisas-que-sei-que-não-vai-dar-pau. (Obviamente, quando dá pau, preciso ir no disassembly e cutucar a STL para ela me entregar qual o problema com o meu contêiner.)
 
-O pilar da história é Sophie uma mulher que não consegue manter um relacionamento por mais de dois anos (Katja Riemann). Ela ironicamente realiza cerimônias não-oficiais de casamento, e observa com um certo tom de sarcasmo o que torna um casal junto por quase uma década. Sua paixão é cantar, como sua mãe, mas ela é demitida por estar no lugar errado. Ela não se encaixa no mundo em sua volta, e tudo o que resta a ela é se cobrir em sua cama e lamentar.
+Nas edições antigas da IDE (até o 2010) existia uma configuração no registro para isso. Desde o Visual Studio 2012 isso mudou, e agora existe um arquivo em _%programfiles(x86)%\Microsoft Visual Studio 11(ou12).0\Common7\Packages\Debugger\Visualizers_ chamado default.natstepfilter (gostei do detalhe do "nat": "nat thou step into, little bestard!"). Ele é um XML que já vem preenchido com algumas opções interessante:
 
-Até que seu pai (Matthias Habich) a chama. Ele achou na internet uma cantora de ópera que é idêntica à sua esposa (Barbara Sukowa), falecida há um ano. Ela é famosa e vai se apresentar no Metropolitan, em Nova York. E ele praticamente exige que ela faça um voo intercontinental e vá se encontrar com ela, em uma situação obviamente embaraçosa.
+```
+<?xml version="1.0" encoding="utf-8"?>
+<StepFilter xmlns="http://schemas.microsoft.com/vstudio/debugger/natstepfilter/2010">
+  <Function><Name>__security_check_cookie</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>__abi_winrt_.*</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>_ObjectStublessClient.*</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>_Invoke@12</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>_RTC_Check(Esp|StackVars)</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>_chkstk</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>ATL::CComPtrBase.*::operator&amp;</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>ATL::CComPtrBase.*::operator-&gt;</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>ATL::CHeapPtrBase.*::operator&amp;</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>ATL::CHeapPtrBase.*::operator-&gt;</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>ATL::CComBSTR::operator&amp;</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>std::forward&lt;.*</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>std::move&lt;.*</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>Platform::EventSource::Invoke.*</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>std::.*</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>boost::.*</Name><Action>NoStepInto</Action></Function>
+</StepFilter>
 
-Mas mais embaraçoso fica por conta do temperamento fechado e mau-humorado de Caterina Fabiani. Ela atrai fama com seu canto lírico e afasta todos seus potenciais amigos, mantendo na linha seu ex-marido e apenas um tratamento correto, embora distante, com seu filho. O que ela menos quer é uma "fã" que acha que sua mãe se parece muito com ela.
+```
 
-O tom do filme escrito e dirigido por Margarethe von Trotta não é de comédia, mas de um drama que usa a sobriedade e pomposidade de seus cenários aliado a tons escuros ou neutros para evocar um distanciamento entre os personagens, mesmo os da mesma família. A exceção são as casas do agente de Caterina, que vira o novo namorado de Sophie, e um personagem-surpresa, que não vale a pena explicar, já que estragaria todo o desenvolvimento de uma investigação que revela mais sobre a família de Sophie do que do paradeiro desse personagem.
+Podemos simplesmente adicionar mais duas opções para o parzinho STL/Boost:
 
-Digamos apenas que a sutileza de von Trotta não favorece muito a narrativa. Detalhes como a forma como os homens bebem vinho pode ser extremamente revelador de suas personalidades, e até o uso da música Norma poderia ser vital para entendermos melhor o que está acontecendo em dado momento.
+```
+<?xml version="1.0" encoding="utf-8"?>
+<StepFilter xmlns="http://schemas.microsoft.com/vstudio/debugger/natstepfilter/2010">
 
-No entanto, apesar de drama pesado, este é um filme que sempre vai pelo caminho mais delicado. Seus personagens, embora bem interpretados, são contidos, e apenas a petulância da figura de Matthias Habich, o pai de Sophie, é capaz de chacoalhar um pouco as coisas.
+  <Function><Name>std::.*</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>boost::.*</Name><Action>NoStepInto</Action></Function>
+
+</StepFilter>
+
+```
+
+A boa nova, pelo menos para o Visual Studio 2013, é que agora é possível, se quisermos, entrar nas funções que serão ignoradas:
+
+{{< image src="5cda0E7.jpg" caption="Step Into Specific no Visual Studio 2013" >}}
+
+Eu não sei qual vai ser a próxima novidade do step into, mas para mim, já está bem ótimo.
+
+Fonte: [Andy Pennell's Blog](http://blogs.msdn.com/b/andypennell/archive/2004/02/06/69004.aspx)
 

@@ -1,11 +1,18 @@
 ---
 categories:
 - writting
-date: '2021-06-26T22:23:00-03:00'
+date: '2021-02-19'
+link: https://www.imdb.com/title/tt10394844
 tags:
-- food
-title: Sorveteria Banana da Terra em Morretes
+- series
+title: Soulmates
 ---
 
-Há alguns anos eu achava que não gostava mais de sorvete e que é coisa da infância. Essa moda de sorvetes gourmet em grandes capitais que custam o olho da cara e logo enjoam pelo excesso de açúcar processado apenas reafirmou minha convicção que sorvete não é coisa de paladar adulto.  No entanto, desde que me apaixonei pelos sorvetes argentinos, em especial os de doce de leite, faço uma caça pelas sorveterias locais em viagens de férias. Ainda existem as pequenas caseiras que te entregam aquele sabor artesanal que parecia perdido para sempre na infância. Na cidadezinha de Morretes a Banana da Terra ganha esse título. Localizado no meio da estrada próximo de uma pousada e de uma igreja, é um lugar tranquilo para parar e degustar um dos cerca de 20 sabores disponíveis, mas se você está com pouco tempo, precisa escolher pelo menos o sorvete de banana, que possui o sabor puro da banana em forma de sorvete cremoso, com pedaços de banana escondidos. O sabor não é de açúcar gelado como a maioria dos sorvetes de esquina, mas do doce da banana, mesmo. Além deste os de beijinho, que vem com um gostinho de abacaxi, e o de gengibre (embora suave demais para meu gosto) merecem uma degustação. Espero que essa sorveteria esteja aberta em minha próxima visita à região. Só assim para voltar a sentir o prazer infantil de tomar sorvete.
+A premissa dessa série é que no futuro haverá um Tinder mágico que dirá quando houver um match entre duas pessoas feitas uma para a outra. Já existem séries parecidas, mas a diferença aqui é que as histórias individuais de cada episódio exploram o que acontece quando a situação está longe de ser perfeita para que um casal seja formado.
+
+Futurista, mas bem pouco. O único traço constante são os celulares transparentes. Alguém na produção quis muito que isso fizesse parte do futuro.
+
+A direção é competente, mas no último episódio é mais, pois se trata de uma história difícil de ser desenvolvida sem a sensibilidade dos detalhes de seus personagens. Você poderia dizer que o elenco é bom, mas não é isso que determina o sucesso deste episódio, que confia em um thriller dramático manjado justamente porque sabe que o espectador mais atento irá captar aqueles detalhes sutis que só quem está interessado em uma série um pouco acima da média. E uma vez que ele perceba o conteúdo fica melhor.
+
+Claro que a série está infestada dos valores viventes nessa pseudo-revolução forçada que nossa sociedade está sofrendo sem nem entender seus motivos reais exceto manipulação corporativa. Feminismo, relações não-monogâmicas, o amor vencendo a religião extremista. Tudo isso cheira a décadas passadas hoje em dia, mas os serviços de streaming estão cada vez mais massificados, e este é um conteúdo visto pelo espectador médio (e de classe média) como algo impactante, engajado e todos os buzzwords que ele aprendeu a reconhecer como algo que ele deve defender, mesmo sem entender por que.
 

@@ -1,22 +1,31 @@
 ---
-
-Em Meus Sonhos é um filme turco independente desta Mostra de São Paulo em formato de streaming e não me parece o tipo de filme que entraria em uma seleção com sessões no cinema. Tem mais cara de filme lançado direto para TV. Que quase ninguém assiste. Se você tem esse perfil de ficar com insônia na madrugada, pode ser que no futuro esteja passando nos corujões da vida, porque o dono da emissora comprou um pacotão de filmes e veio esse de brinde.
-
-Experimental em sua narrativa, gira em torno de um garoto que perde o pai em um acidente de carro e coloca a mãe em coma. Com apenas oito anos, estas são "férias" forçadas para o pequeno Tarik, que passa a viver com seus avós em um vilarejo que mantém muitos dos costumes culturais e religiosos da região.
-
-Este é um filme onde o tema da morte acaba sendo abordado algumas vezes, mas quase não soa proposital. O louco da vila perdeu a amada antes de se casarem, e mesmo décadas depois conversa em seu túmulo. Uma burra é atropelada e vem a falecer, e seu filhote agora tem os dias contados, apesar dos esforços de Tarik e o louco conseguirem leite com todas as crianças.
-
-Tarik vive suas férias sonhando em reencontrar sua mãe. Cada novo momento do longa é entrecortado com esses sonhos. E o garoto acorda: está na casa dos avós. Ele desenvolveu amnésia no acidente e não consegue se recordar o que aconteceu, e não fica claro, mas aparentemente nem de seus pais. É como se ele fosse uma nova criança e que tem que ser ensinada tudo pela geração retrasada, que é o que seu avô, idealista e tranquilo, faz sempre que surge a oportunidade.
-
-O garoto faz amizades com o grupinho local de garotos e logo o filme vira um rito de passagem. A galerinha passa o tempo entre os pequenos eventos de uma vila do interior. O filme não parece nem um pouco interessado em tomar um rumo e seus personagens mal se dão conta de nos chamar a atenção. Quase não dá para perceber que tem um filme passando, não fossem as tentativas pedestres de seu diretor, Murat Çeri, em se colocar entre o espectador e este limitado universo. E o elenco amador.
-
-Mas por isso mesmo digo que ele é feito para TV, onde o espectador de sofá pode se distrair e não perder nada; mas para uma mostra de cinema fica devendo aos cinéfilos, um público que costuma ser mais exigente com a linguagem. Eu, por exemplo, não encontro nada que possa comentar que possa ter passado despercebido pelo público comum. Este texto é apenas uma carta aberta de indignação. E uma dica para os que têm insônia.
-
----
 categories:
 - writting
-date: '2016-02-27'
-link: https://www.imdb.com/title/tt0107207
+date: '2018-01-30'
+link: https://www.imdb.com/title/tt5723272
 tags:
+- cinemaqui
 - movies
-title: Em Nome do Pai
+title: Em Pedaços
+---
+
+Não há pior dor da perda do que uma mãe e seu filho. E não há sentimento maior de impunidade do que quando sabemos que algo não está certo e vai ficar dessa jeito mesmo. Esses dois sentimentos extremamente pesados estão misturados no ótimo Em Pedaços, que captura uma história de violência do cotidiano de hoje e a torna visceral do começo ao fim.
+
+Diane Kruger é Katja Sekerci, esposa do reformado Nuri Sekerci (Numan Acar) e mãe do fruto desse amor, o pequeno Rocco (Rafael Santana). Os três formam uma família perfeita, harmoniosa. Isso é o máximo que podemos reparar nos poucos minutos que os vemos juntos, pois logo depois um desastre toma conta da vida de Katja, de proporções trágicas e violenta: seu filho e marido morrem em um atentado terrorista.
+
+O que se segue então é um tortuoso processo de luto de Katja e em paralelo uma investigação carregada de preconceitos e suposições banais. Nuri era um ex-traficante e ex-presidiário que havia já pagado seus pecados na prisão. Quando ambos se casaram ele ainda está lá, como vemos na primeira cena, em um vídeo caseiro como os outros que irão separar o filme em três pedaços. Além disso, sua origem turca torna tudo mais complicado. Katja é alemã e eles estão na Alemanha, em um bairro de imigrantes. O investigador do caso junta essas peças e já conclui que só pode ser um ato de vingança perpetruado por alguma etnia descontente ou com os negócios escusos de Nuri ou com sua origem. Ou ambos.
+
+No centro desse redemoinho reside Katja, que vai aos poucos mostrando que é muito mais forte do que parece. Ela tem certeza que quem cometeu o atentado foi um grupo nazista e tem motivos anedóticos para pensar assim. No entanto, o caminho a ser percorrido para alcançar justiça é mais tortuoso ainda do que o próprio luto.
+
+A atuação de Diane Kruger é algo a se destacar. Com poucos diálogos, mas auto-centrada em suas dores e motivações, Katja é um personagem que surge do nada e vai crescendo aos poucos. Vamos descobrindo-a a cada nova fase, e muito provavelmente ela está se surpreendendo tanto quanto nós com suas decisões. Essa capacidade de transmitir empatia para o espectador é uma das especialidades de Kruger, que desde sua Bridget von Hammersmark de Bastardos Inglórios vem exercitando aquela pessoa que passa por muito mais internamente e onde podemos ver apenas uma penumbra de seu interior pelos seus atos.
+
+O que ajuda na construção de Katja é a trilha sonora do filme, quase sempre pautada em rocks pesados e que conseguem destacar corpo e alma; a maioria das músicas é obra da banda Queens of the Stone Age, cujo próprio nome já denuncia seu pé no Stoner Rock. Note como as músicas começam em um alternative metal, passam por stoner rock e eventualmente se tornam uma mescla mais balada. Não é coincidência que o arco de Katja siga o mesmo estado de espírito, que aliás, se alinha muito com os cinco estágios do luto de Kübler-Ross (negação, ira, barganha, depressão e aceitação).
+
+Contudo, o processo pelo qual Katja passa também pode ser visto como um cabo de força entre dois extremos, onde ela poderá se adaptar bem ao luto ou, no pior dos casos, perder boa parte de sua personalidade, ou o que a torna uma pessoa de carne e osso. Nesse sentido a última parte do longa, O Mar, é um exemplo triste e tortuoso das tentativas de alguém em trazer significado novamente à sua vida.
+
+O trabalho do diretor Fatih Akin (que assina o roteiro com Hark Bohm) poderia muito bem se tornar um simples thriller ocasional com um certo drama catártico, mas ele sabiamente utiliza seu material para dar um tom imediato, atual e relevante para o que a Alemanha está passando com a crise de imigrantes e a expansão de movimentos extremistas (incluindo, claro, a volta de nazistas). De quebra joga uma questão insolúvel e aberta a debates sobre justiça e punição.
+
+No entanto, Akin brilha mais em sua direção. Multifacetado em três parte com vídeos caseiros separando o processo pelo qual uma mãe suporta e sobrevive a um luto duplo, a passagem do tempo é feita com sequências que trafegam pelo microcosmos da vida da protagonista. A câmera não corta nos momentos-chave da história, preferindo orbitar em torno de Katja/Kruger e os acontecimentos em torno dela. Isso desde o fatídico começo, onde ela deixa o filho e dá uma última olhada para a fachada onde seu marido e ele estão. Não é possível mais conseguir criar sequências imprevisíveis, e sabemos que algo irá acontecer com os dois no momento em que ela se vira. É um objetivo de Akin transformar tudo aquilo em uma narrativa pelo menos com desfecho aberto; objetivo que ele alcança do começo ao fim custe a quem custar.
+
+Em Pedaços possui um título nacional de péssimo gosto, pois implica em chamar atenção para um ataque terrorista e sua mórbida consequência. Já o título em inglês, "In the Fade", ou na penumbra, no desvanecer, faz jus ao filme e o arco de sua protagonista. Além do mais, sugere de uma maneira melancólica um possível momento em que algo está sumindo e virando fumaça aos poucos. Seria nosso senso de justiça? Mais um instigante exercício de uma obra que termina de uma maneira nada fácil, mas necessária.
+

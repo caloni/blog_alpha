@@ -1,16 +1,16 @@
 ---
-
-Um dos filme da quadrilogia do proficiente Éric Rohmer (As 4 Aventuras De Reinette E Mirabelle), Charlotte Véry está leve e tresloucada em um papel de mãe solteira dividida entre três amores: dois presentes não lhe bastam, um ausente é sua razão de viver.
-
-Este é um filme moderno, de relacionamentos abertos e uma mãe que, diferente das de hoje em dia, não vira serviçal de sua criança. Rohmer adota uma postura quase que relapsa na condução dos seus atores e das próprias tomadas, mas com isso ganha um certo charme e simplicidade que remetem à vida cotidiana da capital da França ou da visão bucólica e vazia de uma cidade do interior. Com a narrativa em cortes rápidos a história pode avançar em cinco segundos, e com uma verborragia típica de intelectuais pode nos levar a discussões filosóficas cheias de conclusões a la francesas, vazias de substância, mas que soam profundas quando ditas. Duas formas diferentes de passar o tempo.
-
-Charlotte faz Félicie, uma mulher que viveu o grande amor e o perdeu por um lapso de memória. Este é o filme para descobrirmos com quem ela vai ficar no final, e a comédia surge quando descobrimos que ela toma grandes decisões depois de refletir por dois minutos.
-
----
 categories:
 - writting
-date: '2020-05-19'
-link: https://www.imdb.com/title/tt0137439
+date: '2020-05-16'
+link: https://www.imdb.com/title/tt0115940
 tags:
 - movies
-title: Conto de Outono
+title: Conto de Verão
+---
+
+Éric Rohmer é o diretor dessa quadrilogia sobre relacionamentos, onde cada título se passa em uma estação do ano. O forte dos filmes desta coleção de contos é o quão realista é a abordagem. Rohmer nos coloca direto em cena, em um lugar movimentado e com pessoas reais. Os cenários possuem vida própria porque não devem nada ao que acontece lá fora. Seus personagens somos nós, ou alguém que conhecemos. É menos um roteiro e mais uma percepção sensível de relacionamentos humanos.
+
+Mas ao mesmo tempo que imaginamos estar vendo um documentário seu lado fantasioso começa a se desenrolar. O filme nos permite imaginar situações improváveis que nossa cabeça vez ou outra ponderou. Que jovem nunca pensou em si mesmo como capaz de atrair a atenção de mulheres em sua volta pelo simples fato de existir e estar passando pela rua? É na dinâmica entre o ambiente real e uma situação criativa que repousa a diversão desses filmes. Não conseguimos desgrudar os olhos porque é tão fascinante observar seres humanos sozinhos com seus problemas e situações que parecem bobas, mas que justamente por isso se torna leve, divertido e inconsequente.
+
+Os diálogos criam tensão porque apresentam personagens mais interessantes do que na vida real. Essas garotas estão obviamente interessadas nesse rapaz, mas nunca entendemos por quê. Tudo não passa uma fantasia. Um Swimming Pool de comédia romântica. Uma brisa jovem que vem do mar apagar os corações mais atentos aos problemas de relacionamentos de quem começou a explorar o amor.
+

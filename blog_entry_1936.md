@@ -1,16 +1,12 @@
 ---
 categories:
 - writting
-date: '2020-04-17'
-link: https://www.imdb.com/title/tt0057187
+date: '2020-11-07'
+link: https://www.imdb.com/title/tt1698566
 tags:
 - movies
-title: Irma la Dulce
+title: Irmãs Jamais
 ---
 
-Longo para ser uma comédia, mas é Billy Wilder que dirige e nenhum minuto parece desperdiçado. A dupla Jack Lemmon e Shirley MacLaine consegue mais uma parceria com química invejável. Ela é linda e cheia de si. E ele será a inspiração de Jim Carrey décadas depois.
-
-As piadas são todas manjadas, mas é delicioso de assistir. Devia ser um espetáculo sair no sábado à noite para uma sessão de cinema com esses dois. A Lemmon se entrega papéis de travesti sem ressalvas nem sutileza. Ele se diverte com qualquer tipo, homem ou mulher. Não tem a mesma humanidade como em [Se Meu Apartamento Falasse]. Aqui ele faz um policial que acaba virando um cafetão e com ciúmes de sua amada se disfarça de Lorde Inglês para fazer com que ela não entre no quarto do hotel da rua mais movimentada de Paris com mais ninguém. The jokes on him.
-
-[Se Meu Apartamento Falasse]: {{< relref "se-meu-apartamento-falasse" >}}
+História sobre uma família da cidade turística de Bobbio, na Itália. A família é de verdade, mas a história é fantasia. O IMDB o chama de "nostalgic fantasy documentary", mas soa mais ficção estilizada. As atuações e os ângulos da câmera nos convencem mais do que a história, que é irrelevante. Este é um filme sobre personagens e a passagem do tempo. A caçula da família cresce a olhos vistos e um efeito Boyhood ocorre durante o filme. As filmagens de Marco Bellocchio são primorosas e o elenco familiar afiado. O diretor gosta de alusões à nostalgia, como seu mais recente Belos Sonhos. Estes são filmes gostosos de assistir sem o comprometimento de se preocupar em seguir uma história com começo, meio e fim.
 

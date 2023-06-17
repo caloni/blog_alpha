@@ -1,16 +1,12 @@
 ---
 categories:
 - writting
-date: '2015-02-14'
-link: https://www.imdb.com/title/tt1486834
+date: '2020-09-25'
+link: https://www.graogourmet.com/produto/cafe-gourmet-torrado-da-fazenda-serra-negra/
 tags:
-- movies
-title: Será Que?
+- coffee
+title: Serra Negra
 ---
 
-Uma comédia romântica de um diretor canadense com cheiro de humor britânico. A parte do humor britânico, obviamente, é o que torna tudo mais engraçado. Já chega de assistir àquelas ComRons que tentam blindar o amor contra piadas. Faça-me o favor: esses produtores ganham milhões em cima da reinvenção clichê de um sentimento falso responsável por distorcer boa parte da mente desses zumbis consumidores carentes.
-
-Aqui a dupla Daniel Radcliffe (da série Harry Potter, caso você tenha vivido em uma caverna na última década) e Zoe Kazan (do ótimo Ruby Sparks: A Namorada Perfeita) fazem um ótimo trabalho em diálogos e atuações que torna o tema do amor entre pessoas comprometidas algo leve e bem-humorado. A profissão e paixão da personagem de Zoe ainda colabora imensamente com uma direção de arte que usa e abusa das animações, mas em sua maioria funciona como mágica.
-
-O relacionamento deles passa, sim, por todos os clichês que conhecemos do gênero, mas não irrita, pois seus personagens mantém o pé no chão e é possível acompanhar sua evolução sem forçar a barra. Enfim, uma comédia leve, bem-humorada (humor britânico, lembra?) e que não ofense seu senso da realidade.
+Nossa, que café sensacional. O nível ideal dele está próximo de 20 gramas por 350ml (6g por 100?), ou talvez um pouco mais. Deixei mais que 30s (porque ele estava inchando e fazendo um espuminha convidativa) e menos que 1 min em infusão para duas canecas (36g). O resultado é um café encorpado, frutado, tânico e com um retrogosto complexo. São aromas e sabores maduros, que dialogam com você. Na temperatura ideal, um pouco acima do corpo humano, é uma bebida dos deuses. Você de fato sente uma acidez equilibrada e um final licoroso, alcoólico. Achei que estava brincando na embalagem, mas é verdade.
 

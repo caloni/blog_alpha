@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-11-10'
+date: '2017-01-05'
 tags:
-- wine
-title: Pata Negra
+- beer
+title: Patagonia Weiss
 ---
 
-Tempranillo 2016 é uma opção tão boa e leve que dois trouxeram para o rolê. Como se o Cabernet decidisse ter um pouco mais de frescor e personalidade.
+Doce, mas não tanto. Agradável.
 

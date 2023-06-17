@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2020-09-07'
-link: https://www.imdb.com/title/tt0114134
+date: '2012-04-02'
+link: https://www.imdb.com/title/tt1482459
 tags:
 - movies
-title: O Livro de Cabeceira
+title: O Lorax, em Busca da Trúfula Perdida
 ---
 
-Esta adaptação do texto clássico japonês recebe o tratamento experimental do diretor Peter Greenaway, o que quer dizer que durante quase todo filme você vai se sentir dentro de uma daquelas salinhas de museu de arte moderna vendo um vídeo conceitual. Infelizmente este vídeo tem duas horas de duração.
+O Lorax parte de uma premissa bonitinha e se esquece que em um roteiro, mesmo de animação, há muito mais do que piadinhas isoladas e ótimos efeitos visuais. Tudo começa com Ted, jovem morador de uma cidade feliz por ter conseguido dominar o plástico como solucionador de todos os problemas. A consequência é que a única forma de vida existente na cidade são seus moradores humanos; nem gatos ou cachorros têm vez. Querendo conquistar a garota dos seus sonhos, Ted parte em busca de uma jornada para conseguir o que não existe mais na paisagem onde mora: uma árvore.
 
-Como todo filme de arte este possui nudez explícita e real de seu elenco, sem nenhum objetivo claro exceto criar uma atmosfera fantástica onde os funcionários de um excêntrico editor de livros não ligam em receber a visita de homens pelados. E são homens apenas. A única mulher é a protagonista, interpretada por Vivian Wu, que já fez parte do elenco de outro filme do diretor, o igualmente "enigmático" Oito e Meia Mulheres.
+O garoto precisa ouvir a história que um velho que mora isolado em um lugar inóspito a respeito do que aconteceu com ele e com as árvores que outrora encantavam o vale, assim como criaturas fofinhas e ignorantes da presença humana no mundo.
 
-A montagem em paralelo de uma tela secundária e o movimento dos personagens de um lado para o outro do cenário tem o objetivo de dizer qual cineasta é responsável por esta obra. Greenaway recebeu atenção demais dos seus pares em sua época. Ele sofreu dos sintomas da roupa invisível do rei, pois não se pode criticar um artista pelo troço que ele fez. Ou como diriam seus pares: por ser um artista.
+Misturando flashbacks de uma história cativante a respeito da natureza e como a encaramos hoje em dia e a mais fraca história inicial, Lorax consegue entreter justamente onde não termina, e a maior prova é os idealizadores da história colocarem o título do filme para um personagem que não participa ativamente dos acontecimentos em sua volta, nem é determinante em nenhum ponto crucial. Além disso, as músicas colocadas em torno da história soam muito artificiais e em determinado momento acusam justamente a falta de lógica para as resoluções finais.
 
-Não criticarei, portanto. Até porque não é nada demais.
+De qualquer forma, é sempre bom poder ver ideias novas de uma outra produtora que não seja a Pixar ou a Dreamworks, e nesse ponto podemos dizer que a criadora de [Meu Malvado Favorito] vem avançando em qualidade gráfica. Esperamos apenas que um dia suas histórias sejam tão fascinantes diante das principais rivais.
+
+[Meu Malvado Favorito]: {{< relref "meu-malvado-favorito" >}}
 

@@ -1,24 +1,18 @@
 ---
 categories:
 - writting
-date: '2011-09-01'
-link: https://www.imdb.com/title/tt0000417
+date: '2013-08-11'
+link: https://www.imdb.com/title/tt0918575
 tags:
 - movies
-title: Viagem à Lua
+title: Victim
 ---
 
-O francês Georges Méliès foi um dos privilegiados que assistiu à famosa primeira projeção (coletiva) de Cinema da história: A chegada do trem na estação.
+Adoro filmes que me surpreendem. Melhor ainda quando eles começam não prometendo quase nada. É o caso desse "Meu Passado me Condena" (Victim, no original e no IMDB), que inicia como um thriller nada original, caminha por estradas tortuosas do gênero para finalmente se definir no terceiro ato com seu momento glorioso que nos faz voltar desde o começo e entender que nada do que parecia era exatamente como se supunha.
 
-E ficou maravilhado.
+Iniciando com um vídeo caseiro, supostamente do assassino de uma bela garota vinda do Kansas (Jennifer Howie), que parece ter relação com o sequestro e tortura psicológica de um rapaz bem apessoado que encontramos em um bar e cujo nome não sabemos (Stephen Weigand), acompanhamos seu sofrimento nas mãos do aterrorizante Dr. Rudolph Volk (Bob Bancroft), que tem uma voz inquietante, frases desconexas com a realidade e fala pausadamente para sua vítima, causando um mal estar pior do que já está. Tendo a ajuda de seu capanga igualmente enigmático e ainda dotado de músculos que é chamado pelo Doutor como simplesmente Sr. George (Brendan Kelly), entendemos a fuga ser algo no mínimo bem complicado, ainda mais ao acompanharmos os períodos em que o deixam debilitado através da falta de comida e por queimarem todos seus dedos de uma vez (o que mais uma vez reforça a nossa falta de identificação com o rapaz).
 
-Ao ganhar um protótipo de câmera criado por Robert William Paul, um cinematógrafo da época, ficou tão entusiasmado que saiu por aí filmando o cotidiano de Paris. Até que, sem querer, a câmera parou de rodar. Ao iniciar nova filmagem, percebeu que a ação na filmagem não batia com a sequência que estava gravada: nascia o stop-action, ou stop-motion. Com base nisso, começou a experimentar novas trucagens, no que foi descobrindo que a nova invenção não impunha limites à mente criativa: perspectiva forçada, múltiplas exposições e até filmagens em baixa e alta velocidade. Tudo isso através da câmera mágica. E isso há mais de 100 anos atrás!
+O fato de nunca conhecermos de fato quem são essas pessoas nem suas motivações é o que torna tudo mais aterrorizante. O estilo dos diretores Matt Eskandari e Michael A. Pierce de tornar a experiência mais "thrileresca" do que deveria diminui o filme, mas não o sabota. Se torna talvez apenas mais um traço que incomoda e ao mesmo tempo despista para o aburdo desenrolar e a arrebatadora conclusão que o coloca na mesma intensidade que seu filme gêmeo, que não devo citar aqui para evitar uma dupla surpresa para quem já o tiver visto. No entanto, quem o viu/verá com certeza sabe do que estou falando.
 
-Com toda essa vontade de filmar a aprender sobre esse novo fenômeno, Georges Méliès se tornou um dos precursores da nova Arte. Inventou diversas técnicas utilizando conceitos hoje simples, mas que criavam efeitos na época inimagináveis (algo como um Michel Gondry do passado). Seu filme mais famoso, A Viagem para a Lua, está na lista dos 1001 filmes para se assistir antes de morrer, e tem apenas 17 minutos: uma breve espiada pelo túnel do tempo de como era fazer cinema em sua pré-história.
-
-Apesar da cópia precária disponibilizada no Archive.org, podemos ver que se trata de uma produção de respeito. As cenas são elaboradas, e possuem uma arte final bem trabalhada. O grande destaque, o pouso do foguete na Lua, além do efeito de múltipla exposição de imagens, usa uma técnica narrativa que depois será copiada à exaustão: mostrar a mesma cena de formas diferentes.
-
-As regras para assistir A Viagem para a Luz são as mesmas de hoje em dia: temos que nos deixar enganar, suspender a realidade, e participar do mundo fantasioso criado por Méliès (e uma ajudinha de Júlio Verne). A Lua do filme, ironicamente, é o próprio ser humano. Os cientistas, muito eloquentes, se trancam em seus próprios pensamentos, discutem entre eles. Seria a ciência um grupo fechado de pessoas com suas maluquices peculiares aos olhos do cidadão comum? Teríamos conseguido estreitar as barreiras de comunicação das descobertas científicas com o povo, ou ainda a visão comum de muitas coisas beira o misticismo? Seria esse o motivo de tantas religiões e rituais primitivos ainda predominarem sobre a moral humanista, mesmo com tantos avanços tecnológicos e filosóficos?
-
-Nada que um filme de 100 anos atrás não faça pensar. Como diz o crítico de cinema Pablo Villaça: "não existe filme velho; só filme ainda não assistido."
+Dotado de uma conclusão que é capaz de nos fazer passar mal tanto pelos acontecimentos quanto pelo que eles significam metaforicamente, Victim é capaz de nos deixar pensando por horas após ter terminado, tentando colar as peças umas nas outras inutilmente. Um exercício de destreza narrativa que raramente gera aquela sensação de que gostaríamos ainda mais do resultado se pudéssemos conhecer mais sobre seus personagens. No entanto, talvez seja assim que as coisas devam permanecer. É melhor não fazer muitas perguntas e estragar todas as surpresas e mistérios que o curtíssimo longa já nos oferece.
 

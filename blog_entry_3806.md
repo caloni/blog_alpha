@@ -1,20 +1,28 @@
 ---
 categories:
 - writting
-date: '2016-04-03'
-link: https://www.imdb.com/title/tt0120201
+date: '2016-05-03'
+link: https://www.imdb.com/title/tt3754940
 tags:
 - movies
-title: Tropas Estelares
+title: Truman
 ---
 
-Star Wars, se Star Wars fosse filme de guerra. Mas não é. Starship Troopers é sobre as tropas de um mundo futurístico, é sobre a curva de responsabilidade dos jovens, é sobre a violência gore disponível aos montes, graças ao diretor Paul Verhoeven ("Robocop O Policial do Futuro"), e, por último, mas não menos importante, sobre a insanidade da guerra, e como ela se repete indefinidamente, de ambos os lados. Mesmo que o outro lado sejam insetos gigantes do outro lado da galáxia.
+Esse talvez seja um dos mais decepcionantes filmes com Ricardo Darín, mas não deixa de ser interessante em alguns momentos, como quando discute a diferença entre ser tratado como um ser humano ordinário e um ser humano moribundo.
 
-Conta a história de alguns jovens que estão se formando em uma Terra futurista, e a decisão de se tornar um "cidadão", e não apenas um civil. Um "cidadão" é alguém que luta pelo seu planeta e sua espécie, protegendo os civis. Isso é dito e venerado algumas vezes. O professor dessa turma, Jean Rasczak (Michael Ironside), perdeu um braço, mas continua firme em seu recrutamento informal durante suas aulas. Claro que não é um recrutamento em si, mas é claro que sabemos que no fundo qualquer coisa dita para aqueles jovens influenciáveis irá virar sua opinião. Porém, descrevendo de forma cínica esse processo, apenas dois jovens realmente acreditam nisso (um deles será participante da série How I Met Your Mother); os outros apenas seguem seus respectivos interesses amorosos ou querem se ver livre dos pais.
+A história é simples e foi feita para ser tocante. Tem até um cachorro -- que leva o título. Seu dono, Julián, está há um ano combatendo um câncer do pulmão e resolveu desistir. Seu cunhado, a pessoa mais próxima dele nesse momento, vive do outro lado do mundo. Ao visitá-lo, feridas serão abertas e questões resolvidas.
 
-A juventude é celebrada em Tropas Estelares, e a energia que os jovens têm a oferecer é contagiante. Esse é um retrato empolgante do exército, mas ao mesmo tempo revoltante que se utilize tanto potencial para gerar destruição. O que torna tudo ambíguo é que o inimigo é uma raça alienígena de insetos gigantes. A repulsividade comum a esses bichos não é o suficiente: a mídia faz questão de destacar como esses seres são selvagens e "com certeza" não possuem inteligência. Não é preciso pensar muito a fundo para perceber que o que se configura é exatamente o que vemos em Enders Game, mas com muito mais imaginação, recursos e sangue.
+Porém, para seu cunhado e melhor amigo, seu senso prático (e divertidamente egoísta) lhe diz que tudo está mais ou menos resolvido: não se tira a liberdade de alguém só porque se gosta muito desse alguém (ou, nesse caso, gosta, mas tem bons motivos para criticá-la). Há pessoas mais sentimentais, apegadas, que irão desenvolver seu ódio pessoal por não poder controlar o ente querido.
 
-O elenco está afiado, as cenas convencem, e o lado B do filme é um aviso constante, que através da mídia a todo o momento alerta o espectador do absurdo das situações vividas pelos heróis, por mais "nobre" que isso pareça.
+Esse apunhado de clichês e cutucadas pessoais está bem embalada em uma história leve, em que crescem como personagens os dois principais, mas lhe falta situações dignas das atuações do elenco.
 
-Mais longo do que os filmes habituais do gênero, Tropas Estelares é um exemplo de como é possível fazer Cinema, se divertir e ainda fazer pensar.
+E o cachorro, por mais que se pense nele, é muito difícil para encontrar um significado. Este é um filme simbólico de difícil acesso, se preferir, ou um drama água-com-açúcar. Em ambos os casos, simplesmente medíocre.
+
+Note como ele tenta puxar assunto de onde não há. Uma família de lésbicas que adota um menino russo. Um filho morando na Holanda. Qual o significado de tudo isso? A universalidade da morte? A morte sequer é citada; apenas a decisão de uma pessoa de não lutar mais contra ela.
+
+Darín, como sempre, representa um ser humano adequado para o que vive. Impaciente e surpreso com a reação das pessoas em sua volta. De certa forma, me lembra um amigo meu que não possui o famoso "simancol", mas acaba divertindo exatamente por isso.
+
+Porém, mais divertido ainda, apesar de muitas vezes soar repetitivo, é seu amigo. Interpretado por Javier Cámara como alguém que simplesmente veio fazer um favor, a sua luta interna entre o que ama e o que odeia no amigo é o ponto forte de sua amizade.
+
+Criando mais personagens secundários do que deveria, simplesmente para florear um pouco mais uma história que não sabe o que dizer de um tema delicado, Truman vira um passatempo leve demais para ser levado a sério, mas constitui uma diversão despretensiosa e livre de choro à toa. A não ser que você se emocione com qualquer coisa.
 

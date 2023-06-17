@@ -1,22 +1,28 @@
 ---
 categories:
 - writting
-date: '2011-10-18'
-link: https://www.imdb.com/title/tt1686328
+date: '2018-10-18'
+link: https://www.imdb.com/title/tt5069072
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Trabalhar Cansa
+title: Tragam a Maconha
 ---
 
-Esse drama-terror concebido e dirigido por Juliana Rojas e Marco Dutra (esse, um dos roteiristas do recente Meu País) busca evitar se posicionar claramente no sobrenatural, mas dá uma gélida impressão durante toda a trama que é exatamente com isso que estamos lidando, ainda que não seja dito ou declarado. E é esse o detalhe mais aterrorizante de todo o longa.
+Este é um mockumentary engraçadinho, que não tem muitas pretensões de ser mais que isso. Talvez seja uma boa pedida entre sessões mais pesadas da Mostra de São Paulo para dar uma aliviada no meio de tantos dramas e críticas sociais e políticas, porque por incrível que pareça, este filme não tem nada disso.
 
-Concebida sua introdução em moldes tradicionais -- como pode-se notar nos detalhes triviais de uma casa ou até mesmo do armazém recém-inaugurado -- o filme conta a história de Helena (Albergaria), Otávio (Descartes) e da pequena Vanessa, uma família que passa por apuros financeiros decorrentes da recente demissão do pai, e que tem a partir daí a figura da mãe como predominante, pois esta pretende abrir um armazém de bairro em um local antes abandonado pelos antigos comerciantes.
+Isso porque estamos falando de um assunto sério: a liberação da maconha. Uma causa que já deve somar umas cinco décadas pelo menos nos EUA e que teve como seu primeiro país do mundo a legalizá-la o Uruguai, um povo pacato da América do Sul. Seu presidente, Pepe Mujica (que possui algumas cenas no filme), é considerado o mais pobre do mundo. Ele tem um fusquinha, mora em uma casa humilde e quer deixar como legado essa lei.
 
-Desenvolvendo a trama da forma mais natural possível -- com trilha sonora inexistente -- aos poucos vamos percebendo a dinâmica marido-esposa e a determinação cada vez mais perniciosa de Helena em conseguir com que o armazém vá pra frente, enquanto assistimos ao declínio de Otávio, com sérias dificuldades de conseguir um novo emprego, aguçados ainda mais pela sua idade já avançada.
+Porém, uma vez que ela é aprovada, alguém precisa plantar. E como se trata de uma questão de Segurança Nacional (em letras maiúsculas) apenas o exército deve possuir licença para tal. Ou, como é explicado no filme, os militares estão entediados em um país pacífico e seria uma boa terem algo pra fazer. É esse o nível cômico da história, que se mistura facilmente com a vida real.
 
-Esses detalhes que delineiam as relações entre os personagens são os mesmos usados para nos fazer crer que algo oculto impede que Helena tenha sucesso em sua empreitada. Detalhes sutis chegam a evocar o sobrenatural, embora muito mais de uma forma metafórica ou até mesmo cultural, muito presente no uso dos sons, nas sombras e principalmente na câmera, que consegue arrumar um jeito em que até simples pegadas no chão são capazes de nos manter presos na poltrona com a respiração suspensa.
+Os heróis do filme, além de Pepe, são uma dona de farmácia e seu filho, que partem para os EUA em uma missão que coincide com o encontro entre o presidente uruguaio e Barack Obama. A missão extra-oficial dos dois é contrabandear maconha americana para iniciar os negócios em terra uruguaia enquanto a nacional não cresce. O filme ganha assim um ar internacional, com várias partes faladas em inglês, inclusive, e feito para todos darem risada de maneira mais universal.
 
-Porém, o astucioso roteiro não se entrega ao óbvio, nem que ele esteja tão próximo. Prefere dar esse gostinho ao espectador, que vai mastigando aos poucos, na imaginação, as lacunas que parecem faltar. Para alguns, parecerá simplista demais (ainda que irresistível de acompanhar). Para outros, um exercício estético e interativo tão delicioso quanto o que temos em A Bruxa de Blair, embora este mais refinado, nas entrelinhas.
+Este, porém, não é um mockumentary muito bom. Ele deixa nas entrelinhas se está falando sério, mas seu tom é exagerado demais para sequer pensarmos nisso. A não ser que você acredite que o Uruguai é o sítio de Mujica que virou um país para ficar mais fácil de plantar maconha e protegê-la com o exército, o filme corre o risco de nos fazer esquecer de sua parte crítica: a legalização da maconha não é um bicho de sete cabeças como as pessoas costumam pensar.
 
-A participação inspirada e apática de Helena comprova nossos pensamentos mais maldosos a respeito do destino do mercado, enquanto o declínio paulatino de Otávio passa quase despercebido, mas equilibra a história sobre dois pontos de vista: o mal crescente e o enfraquecimento do bem. Nós mesmo exercitaremos essa ambiguidade em muitos eventos. Quando o cachorro aparece a latir, por exemplo, se em um primeiro momento enxergamos o acaso do cotidiano, a montagem no ritmo certo nos permite chegar a outra conclusão, mais nefasta, o que vai se tornando mais comum até prevalecer completamente sobre o senso comum (em uma bela rima do que vai acontecendo no próprio filme).
+Para isso há um lado útil e informativo na história toda: os nossos heróis passeiam pelos eventos americanos relacionados ao consumo e comercialização da erva no estado de Colorado, onde a droga é legalizada e que une o jeito americano de ser com a tradicional defesa do direito individual. É engraçado quando eles vão entrevistar um político liberal clássico e vermos a sua surpresa em saber que a erva recreativa será tratada como assunto nacional no Uruguai (um país socialista).
+
+Nessa parte do filme vamos aprendendo mais sobre os consumidores e como o comércio se organiza em torno da droga. Há várias brincadeiras no meio do caminho também, como um policial uruguaio que encontram em NY ou a gangue de jamaicanos de onde pretendem conseguir a erva valiosa (que irá custar um dólar por grama no Uruguai, como anunciado mil vezes no filme, e para espanto dos americanos acostumados a pagar vinte vezes mais). O filme só não vira uma bagunça total porque ele não consegue enganar que todos os percalços fazem parte de um roteiro planejado desde o início, onde ele perde um pouco da graça e espontaneidade.
+
+De qualquer forma ele consegue contar uma história falsa com certa legitimidade graças ao bom humor do presidente uruguaio (e de todos os entrevistados que comentam como Obama era uma chaminé na faculdade). O filme é levemente divertido através de seus pobres personagens, mas deixa uma mensagem importante no ar: por que alguns levam esse assunto tão a sério?
 

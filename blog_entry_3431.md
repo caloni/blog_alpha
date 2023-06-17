@@ -1,12 +1,18 @@
 ---
 categories:
 - writting
-date: '2020-09-25'
-link: https://www.graogourmet.com/produto/cafe-gourmet-torrado-da-fazenda-serra-negra/
+date: '2015-09-17'
+link: https://www.imdb.com/title/tt0016332
 tags:
-- coffee
-title: Serra Negra
+- movies
+title: Sete Oportunidades
 ---
 
-Nossa, que café sensacional. O nível ideal dele está próximo de 20 gramas por 350ml (6g por 100?), ou talvez um pouco mais. Deixei mais que 30s (porque ele estava inchando e fazendo um espuminha convidativa) e menos que 1 min em infusão para duas canecas (36g). O resultado é um café encorpado, frutado, tânico e com um retrogosto complexo. São aromas e sabores maduros, que dialogam com você. Na temperatura ideal, um pouco acima do corpo humano, é uma bebida dos deuses. Você de fato sente uma acidez equilibrada e um final licoroso, alcoólico. Achei que estava brincando na embalagem, mas é verdade.
+Seven Chances é um filme de uma hora de Buster Keaton que mais uma vez consegue a proeza de contar uma história datada, fútil e banal da maneira mais prosaica, mais hilária e mais movimentada possível.
+
+Aqui ele é James Shannon, um homem de negócios à beira da falência e que recebe uma herança inesperada de seu avô, desde que ele atenda uma condição: estar casado até a data de seu aniversário de 27 anos às 19 horas.
+
+A partir daí ele se desentende de sua prometida há anos -- o vemos jurar amor estação a estação para ela na frente de sua casa -- e sai à cata da primeira mulher que aceitar se casar com ele. Quase desistindo, seu amigo (e sócio?) coloca um anúncio no jornal revelando o detalhe da herança, o que faz com que a igreja inteira encha de pretendentes.
+
+O que se segue então é a especialidade de Keaton: o humor físico e de perseguição. Cheio de trucagens já vistas em seus filmes anteriores e nos próximos -- como os trilhos de trem -- além de curiosidade verdadeiramente tensas até hoje -- como a perseguição das pedras -- Sete Oportunidades nunca se priva de se divertir, mesmo levando a sério sua história do começo ao fim. É uma comédia muda, preto e branco, e deliciosa. Keaton em ótima forma.
 

@@ -1,24 +1,20 @@
 ---
 categories:
 - writting
-date: '2016-02-23'
-link: https://www.imdb.com/title/tt3183630
+date: '2016-01-04'
+link: https://www.imdb.com/title/tt0119528
 tags:
 - movies
-title: O Menino e o Mundo
+title: O Mentiroso
 ---
 
-O Menino e o Mundo é uma animação sobre os olhos de um menino enxergando o mundo. E de fato ele consegue isso, com maestria: o mundo que vemos é estático, simplista, ingênuo e dramatizado até a última gota de tinta.
+Jim Carrey é um comediante tão talentoso que, se inserido no projeto certo, pode render um filme que sem ele seria apenas um passatempo da sessão da tarde, mas com ele ganha contornos cartunescos que remetem o significado da história que acompanhamos para algo além do trivial.
 
-Conta a história desse menino de um lugar isolado que, quando o pai parte de casa, vai atrás dele, e em uma mini-aventura ele descobre que há forças conflitantes no mundo. De um lado um latifundiário do algodão; do outro escravos... ops, funcionários colhendo e fabricando tecido; do outro os militares... ops, a polícia, aparentemente ditatorial; e um pouco mais longe, o capital estrangeiro, dominando tudo e a todos.
+É assim com O Mentiroso, a fábula que envolve um pai separado que não consegue parar de mentir no emprego de advogado e para seu filho, o desapontando frequentemente, até que um pedido mágico do garoto faz com que ele não consiga mais mentir por um dia inteiro, o que vira um desastre por ser justo no dia em que, colocado à prova para entrar em sociedade no escritório onde trabalha, ele irá defender uma cliente baseado em mentiras.
 
-Apenas descrever esse cenário é risível. Tão risível quanto os traços usados pela equipe do diretor e roteirista Alê Abreu, que investe em cores e formas lúdicas, como se fosse giz de cera. O resultado é bonito, poético e pobre. Tão pobre quanto a ideologia marxista por trás de sua história, em um drama que não possui heróis ou vilões: apenas a imaginação nefasta de uma criança não tão jovem assim.
+Dirigido por um improvável Tom Shadyac (Todo Poderoso? Patch Adams??), o filme é um quê de grandiosidade, como podemos perceber pelas tomadas criativas de Shadyac, que usa uma sequência hilária de tomadas na cena mais engraçada da trama -- em que Jim Carrey tenta dizer que uma caneta azul é vermelha -- além de uma trilha sonora (John Debney) que remete diretamente a comédias épicas como Esqueceram de Mim.
 
-Mas o filme não é apenas pobre de espírito: é covarde, também. Explora uma situação para convenientemente jogá-la para o passado, embora esteja com os olhos no presente. Dessa forma se exime de qualquer imperfeição desse universo fantasioso, pseudo-surreal, que talvez exista em uma realidade alternativa, do alto de um terraço gourmet de um artista que aprendeu a venerar seu dinheiro público espalhando propaganda doutrinária. Não à toa, o patrocínio é anunciado como do BNDES, Petrobras e por aí vai a valsa. Já sabemos onde isso chega:
+O pior é que com as caretas de Jim Carrey toda essa grandiosidade funciona, e na maior parte do tempo nos convence de que esta é uma história de proporções épicas, pois o que está em jogo é a felicidade de uma criança e um sucesso de um pai em sua tentativa de ser honesto com seu filho. Percebemos isso nos momentos mais sóbrios e tocantes, quando o vemos surpreso por dizer que quer o melhor para seu filho e constata que essa é uma verdade fácil de ser dita.
 
-Ao Oscar! Sim, o filme foi indicado a melhor animação; o mundo está polarizado, e os filhos de Occupy Wall Street estão preocupados com o verde de suas fazendas, ou é apenas uma culpa se alastrando até o terceiro mundo. Ou o mais provável: uma animação universal, embora com foco local, mas que não é falado em nenhum idioma conhecido, o que poupa os membros da academia de lerem legendas.
-
-Com o uso de uma trilha sonora igualmente passada e que se repete à exaustão, O Menino e o Mundo pode ser confundido com um hino cheio de cores e formas que se apresentam como uma ideia. Não nos importemos agora com o que ela transmite: isso é Cinema panfletário da melhor qualidade. É envolvente embora simplório, ritmado embora capenga. Ele consegue extrair do seu pouco o tudo que necessita falar. Não há como não gostar de um filme que consegue fazer tanto com tão pouco, embora esse tanto não seja tanto assim...
-
-O Menino e o Mundo deverá ser revisitado na próxima década. E na próxima, e na próxima. É uma história universal que diz mais sobre o contador da história do que da história em si. E nos ensina uma lição: podemos acreditar no que uma criança nos conta, mas nunca na interpretação dela por um adulto. Principalmente se esse adulto esteja do lado dos que monopolizam as armas.
+Apelando sempre para o emocional, porém, o filme tem seus defeitos também no exagero, e tentar nos manipular com uma criança não parece ser a melhor maneira de ganhar a empatia do público. Felizmente, o resultado é mais pastelão do que lenços de papel.
 

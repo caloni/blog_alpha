@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2015-04-27'
-link: https://www.imdb.com/title/tt2452200
+date: '2014-01-19'
+link: https://www.imdb.com/title/tt0484111
 tags:
 - movies
-title: Son of a Gun
+title: Sonhando Acordado
 ---
 
-Esse é um filme meio abandonado pelas distribuidoras nacionais e ainda não estreou por aqui, mesmo tendo um ator conhecido no elenco (o escocês Ewan McGregor). E por falar em estreia, depois de dirigir seis curta-metragens, o diretor Julius Avery comanda este longa que era para ser um super-filme de ação e drama sobre um garoto que acaba preso junto de um famoso criminoso que o ajuda a sair ileso de sua estadia na cadeia por seis meses, pedindo em troca que ele mexa os pauzinhos do lado de fora para realizar uma fuga nada crível, ainda mais se considerarmos que ele estava em um presídio de segurança máxima.
+Martin Freeman, da saga do Hobbit e do novo Watson, também consegue fazer um drama, ainda que hilário. Aqui ele vive um músico tão frustrado com seu emprego e namorada ( Gwyneth Paltrow, quem não estaria). Tentando encontrar algo de bom na vida quando está dormindo, compartilha seus sonhos com a estonteante Anna (Penélope Cruz), uma figura diametralmente oposta a seu próprio ego.
 
-Usando o xadrez como um gancho para que o impiedoso Brendan (McGregor) meio que adote o jovem JR (Brenton Thwaites) e o escale para seu próximo golpe, mesmo sabendo (ele e nós) que o garoto parece completamente novato no crime organizado, o filme não é nada modesto em seu roteiro, passando da fuga já citada para o roubo de nada menos do que barras de ouro no valor de 4,5 milhões de dólares. Ainda ingênuo na criação de seus personagens, mesmo que a relação de confiança da gangue seja um fiapo, Brendan confia todas as barras nas mãos de seu comparsa, ainda que momentos depois tenha feito um discurso como não se pode confiar nas mulheres.
+O filme ganha fôlego nesse mergulho de Freeman no mundo dos sonhos. Ele encontra Mel (Danny DeVito), um especialista em sonhos (e em sonhar). Note como DeVito inclina seu corpo para falar, tão mais à vontade que se sente na posição horizontal, e verá uma interpretação ímpar do ator. O controle maior no mundo onírico não acontece com Freeman, mas em vez disso o reflexo do seu descontrole da vida real cada vez maior. Nesse ponto o realismo das frustrações do ser humano atinge seu ápice.
 
-Ah, sim, mulheres. O jovem JR, como de praxe, é o galã que se apaixona por uma prostituta russa e é isso que acende a desconfiança de Brendan (não à toa). Ainda assim, o filme investe em mais situações amadorísticas, mais cenas de ação difíceis de acreditar, e diálogos mais rasos ainda. Ainda assim, fica na média, não estragando a experiência o suficiente para se tornar ruim, mesmo com a "reviravolta" capenga que insiste em usar o batidíssimo flashback para explicar como tudo foi feito. Sério, mesmo?
-
-De qualquer forma, McGregor está bem, o garoto é monossilábico, mas empático, e a garota é só mais uma garota. Há tiros, uma perseguição convincente, efeitos sonoros das armas bem arquitetados (ainda que estejam em desarmonia com os diálogos, que parecem muito baixo perto dos sons do filme). É um filme de ação que quase faz você dormir. Ou seja, não espere adrenalina escorrendo da tela.
+O filme perde fôlego ao tentar diminuir cada vez mais a barreira sonho/realidade. É interessante, mas não tanto quanto as sensações de uma vida que jamais será vivida. Ou quem sabe seja esse o objetivo: mostrar como os sonhos representam tudo de melhor em nossa existência. Tal como os filmes.
 

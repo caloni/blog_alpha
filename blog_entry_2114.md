@@ -1,26 +1,37 @@
 ---
 categories:
-- writting
-date: '2015-09-20'
-link: https://www.imdb.com/title/tt2625598
-tags:
-- movies
-title: Vivendo Com Um Dólar
+- reading
+date: '2017-05-28'
+link: https://www.owl232.net/papers/fwill.htm
+tags: []
+title: Uma prova simples e modesta da existência do livre-arbítrio
 ---
 
-Alguns filmes são propositadamente desonestos com suas premissas, dramatizando em excesso para conseguir validar seus argumentos. No processo, consegue realizar um bom trabalho, ainda que parcial demais. Dessa safra temos Blackfish e Chasing Ice.
+Uma prova simples e modesta do livre-arbítrio, ou pelo menos que refute o "determinismo duro" (que não admite nenhuma possibilidade de alternativas na ação) é dada pelo filósofo Michael Huemer através de 7 premissas e uma conclusão:
 
-Já outros dramatizam errado, trocando o drama em si por conteúdo, e acabam sendo parciais demais e ao mesmo tempo com resultados duvidosos. Tais como Indie Game e No Impact Man.
+1. A respeito do livre arbítrio, nós devemos sempre evitar acreditar no que é falso (racionalmente).
+2. O que deveria ser feito pode ser feito (não se pode fazer o impossível).
+3. Se o determinismo (duro) é verdadeiro, então qualquer coisa que pode ser feita será feita (não há alternativa).
+4. Eu acredito no livre arbítrio (premissa).
+5. Com respeito ao livre arbítrio, nós podemos evitar acreditar no que é falso (de 1,2).
+6. Se o determinismo é verdadeiro, então com respeito ao livre arbítrio, nós evitamos acreditar no que é falso (de 3,5).
+7. Se o determinismo é verdadeiro, então o livre arbítrio é verdadeiro (de 6,8).
+8. O livre arbítrio é verdadeiro
 
-Já este Living on One Dollar não poderia ser acusado de manipulador, pois não há nada muito exagerado em sua abordagem. Também não poderia ser acusado de parcial, já que não há muitos lados a se defender. E ainda que seus objetivos sejam propagandistas (ainda que "do bem"), o resultado final é uma perfeita aula de economia de como é possível que o ser humano tenha saído de sua situação natural -- de escassez e pobreza -- e galgado os degraus da geração de riqueza através da socialização e trocas. E ainda que o valor dos empréstimos pareça super-valorizado pelos diretores Zach Ingrasci, Sean Leonard e Chris Temple, eles nunca deixam de ter razão ao analisar o resultado que um pouco de confiança no trabalhador pode gerar.
+Do original:
 
-É nesse sentido que o filme sai do seu lugar-comum para extrair daqueles moradores da região pobre da Guatemala uma experiência de vida comum a um sexto da população mundial: viver com menos de 1 dólar por dia.
+1. With respect to the free-will issue, we should refrain from believing falsehoods. (premise) 
+2. Whatever should be done can be done. (premise) 
+3. If determinism is true, then whatever can be done, is done. (premise) 
+4. I believe MFT. (premise) 
+5. With respect to the free-will issue, we can refrain from believing falsehoods. (from 1,2) 
+6. If determinism is true, then with respect to the free will issue, we refrain from believing falsehoods. (from 3,5) 
+7. If determinism is true, then MFT is true. (from 6,4) 
+8. MFT is true. (from 7)
 
-O fascinante no projeto dos diretores -- que vivem essa experiência saindo de seus confortáveis lares norte-americanos após suas confortáveis infância e adolescência -- é que embora com a simples premissa de viver como os moradores de um vilarejo são os detalhes que impactam bruscamente na sua qualidade de vida. Então, por exemplo, saber usar o fogo com mais eficiência ou acrescentar gordura à dieta comum pode oferecer maiores chances de sobrevivência.
+O núcleo do raciocínio é que vemos que se o determinismo é verdadeiro o livre arbítrio é verdadeiro; do contrário evitaríamos acreditar nele. E como de fato alguns de nós acreditam nele (bastaria apenas um), ele é verdadeiro, tornando o determinismo auto-refutável.
 
-Ironicamente, outros detalhes, como a ajuda que um membro da comunidade oferece para salvar uma vida, e como essa pessoa, por possuir um emprego fixo, possui a chance de ajudar, prova que a máxima da esquerda de que "sem o governo, quem vai ajudar os pobres?" se torna tão falha quanto desonesta, já que o próprio pobre, em uma situação um pouco melhor que a média de seus vizinhos, possui a empatia necessária para alavancar vidas ou até salvá-las. Como um dos diretores coloca em dado momento do filme, a vontade de retribuir a gratidão do vizinho é imensa. E deve ser, mesmo. Seres humanos não são essa crueldade toda pintada por inimigos da livre iniciativa. 
+Há quatro objeções à lógica aplicada no raciocínio, sendo que algumas delas são interessantes, outras não. Sugiro dar uma lida no original. A mais interessante de todas é a primeira, que afirma a premissa (1) implorar a questão. No entanto, como Huemer desenvolve, a questão só consegue de fato cair na falácia circular de quem desenvolver o raciocínio já assumir que o determinismo é verdadeiro. Porém, se este for o caso, não há abertura para o desenvolvimento racional da questão, que é a própria conclusão final de Huemer. Ao aceitar o determinismo, as premissas básicas da própria lógica não podem ser aceitas, já que os conceitos de falso e verdadeiro são inúteis.
 
-Tanto é que o maior sinal de esperança do vilarejo parte justamente das iniciativas empreendedoras de seus moradores. Ou melhor dizendo, de suas moradoras, já que são elas com mais tempo livre (homens e crianças precisam trabalhar continuamente para sobreviver) e muito provavelmente melhores quando o assunto é administrar dinheiro. São elas que obtêm empréstimos de um banco rural e conseguem não só consertar o telhado de casa ou manter um fundo de emergência, mas criar novos negócios que garantem uma vida um pouco menos desconfortável. Não é muito difícil imaginar como um grupo de pessoas como esse consegue evoluir ao longo do tempo, graças à pequena ajuda vinda por meio de quem possui capital acumulado: o bom e velho empréstimo. Nada parece ser dado de graça no filme.
-
-E ainda que com uma mensagem buscando por caridade no final do filme pareça um pouco demais, além da conclusão de que "soluções mistas são a solução", ela é válida dado o teor do documentário, assim como um aviso à humanidade mais desenvolvida financeiramente: pare de empregar seu capital em empreitadas perniciosas não-geradoras de riqueza (em suma: gastos supérfluos ou investimentos errados). Se quer ajudar de fato a humanidade a evoluir, empreste dinheiro aos que podem fazer algo com ele. O governo, é claro, está excluído dessa lista.
+E esse é um ótimo motivo para acreditar em livre arbítrio.
 

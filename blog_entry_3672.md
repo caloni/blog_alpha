@@ -1,18 +1,17 @@
 ---
 categories:
 - writting
-date: '2015-10-24'
-link: https://www.imdb.com/title/tt1200060
+date: '2021-11-03T21:34:22-03:00'
 tags:
-- movies
-title: The English Surgeon
+- animes
+title: 'The Fruit of The Evolution: Before I Knew It, My Life Had It Made'
 ---
 
-A história do neurocirurgião Henry Marsh e de sua amizade com um médico na Ucrânia se confunde com os métodos vistos como arcaicos por ele em comparação com o sistema de saúde inglês. Acostumado a operar todo e qualquer paciente com um tumor detectado, lá ele leva sempre que visita a região apetrechos criados por ele em sua oficina a partir de restos de operações realizadas em sua terra natal. Quando uma broca de perfuração custa em torno de 80 euros e é usada só uma vez enquanto na ex-URSS uma é usada por muitos anos, nota-se um abismo gigantesco entre os sistemas de saúde dos dois países.
+"The Fruit of The Evolution: Before I Knew It, My Life Had It Made", ou TFOTEBIKIMLHIM para resumir, tem a grande vantagem de ser um anime com um título bem longo, o que dá para puxar assunto por bastante tempo com desconhecidos. Só de falar o título já se passou meia-hora de conversa, bem mais do que se você fosse falar de animes com títulos mais curtos como One Piece e Death Note.
 
-Dirigido por Geoffrey Smith como em The Unbelievers, ou seja, um encontro casual entre dois velhos amigos, quase nunca vemos uma entrevista direta, mas a conversa entre os dois e seus pacientes. A narração em off de Marsh complementa seus sentimentos a respeito do que pensa sobre seus procedimentos de visitante, e quais as diferenças de tratamento. O ponto alto do filme é a operação de um tumor cerebral em um rapaz que sofre de epilepsia e que, por limitações na equipe local, terá que ser feita sem anestesia geral. As cenas são semi-fortes, mas isso depende de quanto sangue você consegue ver.
+A história começa com um click bait. Aparece uma mulher completamente pelada com peitões gigantescos abraçando o protagonista pedindo para se casar com ela. E nunca mais você verá essa cena no primeiro episódio. No lugar colocam macacos feios com bunda engraçada. Propaganda enganosa, cadê o Procon? Quero os melões da ruivinha anunciados.
 
-Com um trauma que serve de arco a respeito de uma criança que acabou operando erroneamente -- e que constantemente se culpa --, The English Surgeon é desses documentários que engasga algumas vezes ao perder o foco -- a planta do hospital dos sonhos do ucraniano seu amigo -- ou o ritmo -- as conversas entre os dois nem sempre são editadas com suficiente ênfase no que está sendo dito --, mas que nunca se torna enfadonho a ponto de jogarmos de lado. Ele é reflexivo e pode fazer muitos espectadores acostumados com a tecnologia ocidental se sentirem extremamente privilegiados. Ele também é duro em não encontrar respostas para as muitas questões a respeito de como as coisas funcionam agora na recente democracia ucraniana, onde talvez o maior pecado do documentário é evitar contar em detalhes sobre a burocracia do país.
+Mas nem. Esta é a história de um colegial gordo que se mata de comer coisas estranhas depois de ser teleportado, assim como toda sua classe, para um outro mundo porque o diretor do colégio quis assim e anunciou pelo microfone da escola. O gordo come tudo o que vê pela frente (óbvio) e evolui. Em outras palavras: fica magro. Portanto, fica a dica para você que quer passar rápido aquela fase de RPG: coma que nem um gordo.
 
-Com uma trilha sonora que ajuda e muito a mastigar cada novo momento nessa experiência exótica em torno de países devastados pelo socialismo e autoritarismo extremo, The English Surgeon pode passar despercebido para a maior parte do público, e até ser esquecido depois de um tempo. Porém, um momento ou outro levaremos para sempre em nossas memórias, como um lembrete de que o ser humano progrediu muito em pouco tempo em alguns lugares do mundo, mas infelizmente nem de longe em todos eles.
+O resto do anime é parecido com "De Repente Slime" ou algo do tipo, onde são jogadas várias habilidades para o heroi da história porque sim e isso aparentemente é legal. E nada de melões.
 

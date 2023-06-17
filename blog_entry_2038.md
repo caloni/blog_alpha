@@ -1,22 +1,18 @@
 ---
 categories:
 - writting
-date: '2016-12-03'
-link: https://www.imdb.com/title/tt4302938
+date: '2014-12-14'
+link: https://www.imdb.com/title/tt0441773
 tags:
 - movies
-title: Kubo e as Cordas Mágicas
+title: Kung Fu Panda
 ---
 
-Kubo é uma animação em stop motion que usa um monte de elementos computacionais para tornar tudo muito mais fluido, mágico e... não-stop motion. Porém, ao mesmo tempo, ele se aproveita da técnica para tornar tudo muito mais real. Ele conta uma história oriental com o herói sendo uma criança, mas não são exatamente coisas de criança que ocorrem com ele. A maior virtude do filme talvez seja sua não-infantilização de um filme que entende que crianças podem aguentar discussões que envolvam a morte, e não há nada de errado em um garoto não ter seu olho esquerdo.
+Po é um panda, portanto gordo e lerdo. Ele vive em um vilarejo chinês em torno de uma montanha que hospeda os chamados cinco furiosos, mestres de kung fu que são animais que representam os diferentes estilos dessa arte marcial milenar: tigre, serpente, louva-deus, garça e macaco. Todos são aprendizes do mestre Shifu que, ironicamente também é um panda, mas uma espécie bem menor. Shifu, apesar de mestre, ainda é impulsivo e precisa dos conselhos de seu próprio mestre, uma tartaruga que parece ter vivido séculos. O orgulho de Shifu quando jovem o fez treinar um outro aprendiz que passou a usar suas habilidades pelo poder e não pelo conhecimento, desonrando o grande mestre e trazendo perigo para os inocentes habitantes do vilarejo, em sua maioria porcos e coelhos. Condenado a uma prisão de segurança máxima, sempre há o risco que ele busque vingança e consiga o segredo mais desejado por todos os lutadores: como se tornar o Dragão-Guerreiro, a escala máxima do kung fu e ambição de todos os aprendizes.
 
-Estreia do diretor Travis Knight, que já trabalhou como animador em Coraline, Paranormal e Boxtrolls, Kubo conta a triste história de uma mãe que foge de uma briga feia de família, onde uma de suas irmãs arranca os olhos de seu filho. Ambos vivem escondidos em uma caverna do lado de um vilarejo, onde Kubo todos os dias desce e conta uma história heroica sobre seu pai, através de seu shamisen, um instrumento de corda oriental clássico com três cordas, que faz com que suas folhas de papel saiam voando magicamente e criem as mais diferentes dobraduras de papel (origamis) que interagem entre si, para espanto e admiração das pessoas em volta.
+E o que tudo isso tem a ver com um panda grande e gordo? Bom, há uma cerimônia para revelar quem será o escolhido, o que por acidente acaba se tornando o tal panda. Isso quer dizer que agora Po precisa ser treinado por Shifu para combater seu aprendiz do mal. A má notícia é que Po é muito mais fã de kung fu do que um praticante. Tendo que ajudar seu pai em seu restaurante, sobra pouco tempo para este que é seu grande sonho.
 
-As construções de cenário, como estátuas de budas gigantes cobertos pela areia, ou até o alto mar e suas ondas, são construídos por mecanismos reais. O resultado é como se as páginas de um livro infantil com textura se abrissem com uma riqueza de detalhes, além das luzes e cores diferentes a cada passagem da história. As próprias expressões dos personagens impressionam pelo realismo e pela humanidade.
+Todos os elementos dramáticos de um grande filme de luta e superação se encontram em Kung Fu Panda, que ainda conta com a flexibilidade artística de uma animação. Isso permite que a equipe da Dreamworks, ao mesmo tempo que homenageie o gênero, assuma uma escala mais grandiosa -- evitando as leis da física, por exemplo -- e consiga também atingir o público mais jovem. É através de uma belíssima introdução em desenho estilizado que ficamos sabendo da história, o que já comprova o primor técnico da produção. Porém, na sua transição há a descoberta de mais uma poderosa virtude: o uso do humor escrachado.
 
-A história é escrita por Marc Haimes, Shannon Tindle e Chris Butler, e é impressionante que eles não tenham se inspirado em nenhuma lenda oriental específica. Quer dizer, com certeza vários elementos da história possuem como fonte de inspiração o espírito oriental de outras lendas, mas esta é uma história original, que possui uma estrutura simples, mas eficiente para o que dispoe: usar a narrativa para uma viagem de aventura e descoberta.
-
-E embora haja o pequeno problema de não haver muita tensão nas cenas mais movimentadas, mesmo que vejamos, por exemplo, batalhas na água (em um navio e no fundo do mar), esta não é necessariamente uma história focada em ação, mas muito mais reflexão. Uma reflexão sobre as perdas de entes queridos, acreditar em si mesmo, blá blá blá. E mesmo a moral da história não é tão completa assim.
-
-Por fim, Kubo existe realmente para demonstrar como as técnicas de animação estão cada vez mais eficientes, sejam stop motion ou não. É um prazer saber que o estúdio responsável por Boxtrolls e Coraline permaneça com um de seus pés no stop motion. Ele é o equivalente aos live actions que preferem usar algo mais real para que o efeito não seja apenas um monte de pixels se cruzando.
+E a soma desses ingredientes, apesar de parecer uma bagunça, é o que torna o filme um exemplo de ação, drama e humor, conseguindo oscilar facilmente entre piadas fáceis e cenas de lutas grandiosas e emocionantes, além de trazer -- como toda boa jornada do herói -- lições de humildade e superação. E por mais que isso soe piegas e repetitivo, nunca é tarde para recontar uma história já recontada um milhão de vezes em um novo formato para um novo público que pode agora, tais como os fãs da filmografia de Quentin Tarantino, buscar as suas origens.
 

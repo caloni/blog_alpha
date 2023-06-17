@@ -1,16 +1,14 @@
 ---
 categories:
 - writting
-date: '2015-07-28'
-link: https://www.imdb.com/title/tt1492966
+date: '2021-05-22'
+link: https://www.imdb.com/title/tt14536130/
 tags:
 - series
-title: Louie
+title: 'Love, Death & Robots: Automated Customer Service'
 ---
 
-O comediante, diretor, roteirista, ator Louis C. K. já protagonizou diferentes shows de stand up comedy e é um veterano no assunto. Talvez veterano seja dizer pouco: o cara é simplesmente fodástico na arte do humor. É uma das referências do gênero, e após a morte do mestre (que deus não o tenha) George Carlin, talvez Louis seja o melhor comediante norte-americano da atualidade.
+Um futuro estilo Wall-E só com humanos velhos e pets, sendo que pet pode ser um desses cachorros pequenos ridículos ou uma espingarda. As máquinas fazem tudo pelos humanos, inclusive causar um pouco de emoção, como um aspirador se revoltar e sair matando seu dono. É o que acontece nesse episódio da série que une efeitos digitais com histórias curtas e sangrentas ou sexuais (ou ambos, meu preferido).
 
-Além de já realizar algumas pontas no cinema (inclusive num dos últimos filmes do Woody Allen, Blue Jasmine) e em séries (Parks and Recreation) ele resolve estrear sua própria série de comédia baseada em sua persona artística (pai de duas filhas divorciado com mais de 40 que faz comédia para sobreviver). Isso poderia ser um tiro no próprio pé, já que tão bem estabelecido no formato de bar, por que tentar estender essa experiência fora dos palcos e arriscar colocar tudo a perder?
-
-Bem, ainda bem que existem pessoas que arriscam nesse mundo, já que a primeira temporada de Louie consegue rivalizar com séries escrachadas e inteligentes, como I.T. Crowd ou The Office e Community. Aproveita-se do formato antigo e o expande de maneira surreal. Se seus causos em palco são hilários per se, a realização destes na "vida real" é o que podemos chamar de Kaufmanização (do roteirista de cinema Charlie Kaufman) do drama cômico.
+A nova temporada da série estréia em baixa com uma história requentada de outros carnavais e com efeitos que não nos causa qualquer comoção. Seria até desejável que essa velhinha fosse finalmente assassinada. A série é sobre isso. E ela trai suas premissas. Não há morte. Não há sexo. Só robôs e humanos sem amor
 

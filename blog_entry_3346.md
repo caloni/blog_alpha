@@ -1,16 +1,11 @@
 ---
 categories:
 - writting
-date: '2021-05-15'
-link: https://www.imdb.com/title/tt6354518
+date: '2018-09-01'
 tags:
-- animes
-title: Saiki Kusuo No Psi Nan
+- wine
+title: Salentein Portillo Dulce Natural Sauvignon Blanc 2017
 ---
 
-Este anime de piadas ágeis e texto frenético é daquele humor mental, que não dá tempo de sentir e dar risada antes da próxima piada. É absurdo, também, mas um absurdo coeso. Tudo faz sentido se o protagonista é um vidente, telepata, pirotécnico.
-
-Saiki Kusuo nasceu especial em uma família normal e narra suas próprias aventuras no colégio. Sensato, explica ao espectador detalhes de sua vida atual, como porque deixou de expor seus poderes em público, ou porque é melhor resolver os conflitos entre seus pais em um casamento desgastado para que ele consiga comer seu delicioso pudim de café de sobremesa.
-
-Dinâmico e cheio de situações em um episódio só, No Psi Man entretem sem comprometer. Boa diversão ocasional sem pretensão.
+Que surpresa este vinho doce que achamos no mercado de Tucuman. Ele combina perfeitamente com o queijo de cabra que trouxemos para compartilhar com os amigos e ainda combinou com um delicioso doce de abacaxi da anfitriã. Não é um doce enjoativo, é um doce harmonioso, sem adição de açúcar; apenas esta inusitada uva do Sauv. Blanc em colheita tardia.
 

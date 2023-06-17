@@ -1,12 +1,18 @@
 ---
 categories:
 - writting
-date: '2021-01-07'
-link: https://www.vivino.com/villa-doluca-klasik-red/w/1178475
+date: '2016-03-18'
+link: https://www.imdb.com/title/tt2625270
 tags:
-- wine
-title: Villa do Luca
+- movies
+title: Vinho para Roubar
 ---
 
-Eu não sei como analisar este vinho. Há uma uva nele bem diferente do usual. Ela é turca, veio lá da vila do Luca. Descobri que na Turquia há uma das maiores viticulturas do planeta, mas infelizmente eles não produzem tanto vinho assim há séculos por causa da religião local que proíbe o consumo de álcool. Apenas recentemente a produção aumentou devido ao incentivo para as exportações, embora a grande maioria das uvas sejam para consumo não-alcoólico. Esta uva, Okuzgozu cheio de pingos, junto do blend com Shiraz e Merlot garante um aspecto mais tânico que essas outras duas, mas mais frutado. É bem diferente do usual dos vinhos europeus e inclusive do Novo Mundo.
+Esse filme argentino segue a cartilha do gênero "Onze Homens e um Segredo" e "Missão Impossível". Porém, com baixo orçamento, apresenta um romance para preencher as lacunas dos efeitos visuais, além de personagens agradáveis, mas quase invisíveis. Os filmes argentinos, bons ou ruins, nunca pecam pela falta de charme. No entanto, ao usar a abordagem hollywoodiana, assume o risco de perder até isso.
+
+E esse risco se encontra no roteiro, na direção e na trilha sonora. O roteiro tenta soar inteligente com mil reviravoltas, mas apresenta todos seus desafios como pequenos percalços, feito uma novela das sete. Além disso, seus personagens, cativantes no início, vão aos poucos perdendo a simpatia. A direção se engana em apresentar uma Mendoza igualmente pálida, pois fecha sua lente para espaços fechados ou com uma largura de tela insuficiente para apresentar a cidade como um outro personagem -- algo implícito na produção, encomendada para apresentar a região de vinhos para o resto do mundo. A trilha sonora, por fim, insiste no mesmo tom, todo o tempo. Isso cansa fácil e faz perder o ritmo várias vezes, pela sua monotonia instaurada pela repetição. Além do mais, a música é muito mais enlatada do que uma criação feita para o filme.
+
+Por fim, para os conhecedores e apreciadores de vinhos, mesmo os mais leigos, a trama não poderia soar mais artificial. Qualquer um habituado com o processo de envelhecimento do vinho sabe que ele deve ser feito em um ambiente seco de temperatura controlada e no máximo por uma ou duas décadas. Peças de museu existem, claro, mas não são bebidas: são guardadas, eternamente.
+
+Aliás, foi minha última visita à cidade que me fez ver o filme, que estreou na Netflix. O motorista do passeio guiado pelas vinícolas fez uma ponta nesse filme e deu os detalhes da produção (não o encontrei, uma pena). Se o objetivo era apresentar Mendoza através de uma trama chamativa que envolvesse o mundo do vinho, essa degustação ficou só na vontade.
 

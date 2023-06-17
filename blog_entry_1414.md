@@ -1,30 +1,20 @@
 ---
-
-Estava já há algum tempo pesquisando as melhores ferramentas para organizar carteiras bitcoin. E quando se fala em ter seus próprios bitcoins, a segurança deve ser prioridade número zero. Isso porque, diferente de bancos, quando você se dispõe a gerenciar seu próprio cofre, é você, e apenas você, o único responsável pela sua integridade.
-
-Isso quer dizer que apenas uma senha protegendo sua chave privada talvez não seja necessário. Algum hacker ou programa malicioso instalado na sua máquina (como um keylogger) pode facilmente obter essa informação.
-
-E, sim, é preciso pensar que pode haver um keylogger em cada teclado que você for usar para digitar sua bendita senha. Por isso ter uma senha segura, no caso de bitcoins, não funciona muito bem.
-
-Além disso, há também a segurança dos próprios dados. Não de serem roubados, mas perdidos. Nesse caso, uma estratégia muito interessante, por acrescentar entropia e comodidade, são as carteiras determinísticas. Elas se baseiam em um grupo de palavras que são usadas para gerar o par de chaves pública e privada e derivar as próximas chaves de sua carteira. Com isso, basta guardar (em papel, no seu cérebro, mas nunca em software!) essas palavras que você poderá resgatar sua carteira, reproduzindo o algoritmo de derivação.
-
-Outro ponto importante, para os mais paranóicos, é conseguir gerenciar carteiras "frias", que são carteiras que não podem ser usadas para gastar, apenas para receber. Funciona assim: você gera o seu endereço público para a transação, onde as pessoas podem depositar seus bitcoins, mas a chave privada, necessária para enviar bitcoins dessa carteira, é removida ou não está disponível. Dessa forma, ela vira uma carteira "watch-only", em que o portador só consegue verificar o saldo e as transações, mas não realizar uma (a não ser que ele assine a transação em outro computador com a chave privada, ou resgate a chave privada de algum lugar, que seria o lugar "quente").
-
-Esse cold storage de carteiras, como é chamado, só é possível de duas maneiras: sendo você próprio um servidor da blockchain ou utilizando a infraestrutura da nuvem para validar as transações. A primeira forma é muito custosa, pois a blockchain cresce a olhos vistos, e demora hoje alguns dias para resgatar toda ela desde 2009. A segunda opção é mais rápida, mas depende da integridade dos servidores, libera mais informações sobre as transações do que devia, além de ser lento.
-
-Dentro dessa segunda opção, porém, existe uma maneira rápida de verificar a transação sem comprometer seus dados, enviando coisas a mais para o servidor que irá validá-lo. Se chama Simple Payment Verification, e já estava prevista no paper original de Satoshi. Ela se baseia apenas em uma árvore de hashes montada justamente para compor a blockchain. Gerenciar essa informação economiza muito mais tempo e processamento, além de liberar apenas a informação essencial para os servidores validarem.
-
-Todos esses elementos estão juntos no Electrum, uma ferramenta feita em Python que possui uma versão monolítica (um exe apenas) para Windows e que mantém as carteiras em texto plano em sua máquina. Sim, não há criptografia desnecessária. Afinal de contas, só a chave privada é que precisa ser protegida, e ela é aberta apenas durante a assinatura de uma transação, tornando todo o processo muito rápido.
-
-Em sua página é possível tirar todas as dúvidas de como fazer uma carteira offline (fria), como apenas assinar transações, como gerenciar as carteiras, em que arquivo elas ficam, o que comem, etc. Estou usando e estou muito feliz, pois é o primeiro software que gerencia bitcoins que consegue a proeza de ser simples de usar, flexível e rápido.
-
-Ah, e ainda possui um console em Python, para rodar seus programas =)
-
----
 categories:
 - writting
-date: '2019-03-31'
-link: https://www.imdb.com/title/tt0363589
+date: '2013-02-06'
+link: https://www.imdb.com/title/tt2132324
 tags:
 - movies
-title: Elefante
+title: Elefante Branco
+---
+
+Novo filme do diretor Pablo Trapero ([Abutres]) traça na rotina das pessoas que ajudam uma favela a construir moradias dignas para seus habitantes um panorama fiel não apenas dos moradores, acostumados a viver às margens de uma sociedade que escolheu convenientemente ignorá-los em um terreno delimitado, mas da sociedade como um todo. E os que não são mostrados no filme obviamente são os que ignoram essa triste realidade.
+
+O Elefante Branco do título se refere a um hospital que nunca terminou de ser construído no mesmo terreno onde hoje moram cerca de 30 mil pessoas em condições precárias. O projeto do hospital passou por duas democracias e uma ditadura sendo que hoje repousa apenas um esqueleto que faz sombra aos casebres ajuntados. Desse fato duas curiosidades fascinantes também se erguem logo no início do longa: 1) a figura de um hospital inacabado faz rima com os programas sociais inacabados que deixaram a favela se alastrar e permanecer na área e 2) a própria definição de dicionário de elefante branco pode ser aplicada aos moradores, pois governo nenhum soube o que fazer daquelas pessoas vivendo à margem da sobrevivência por décadas a fio.
+
+A presença de um jovem padre recém-chegado, um padre veterano e um padre morto representa não apenas a desesperança de dias melhores, mas a sua desconstrução, como se a simples existência da religião naquele lugar fosse a prova do descaso de Deus com aquelas pessoas. Portanto, faz todo o sentido elas estarem constantemente cansadas e com medo. Não se enxerga saída em nenhum momento, e o que soa mais cruel é essa alegoria da vida real. Os moradores também participam do jogo, pela sua inércia e apatia.
+
+Trapero não diz nada disso, mas mostra através de sons e imagens. O som ecoa e aumenta o seu "grito" em momentos específicos da trama como a querer chamar a atenção do resto do mundo. As belíssimas sequências estão cumprindo a função de nos mostrar extensão: no início a extensão da própria favela (miséria); no protesto dos moradores a extensão da opressão; e, por fim, na irretocável sequência da fuga de carro, a extensão daquele destino que parece insistir em se repetir, imutável.
+
+[Abutres]: {{< relref "abutres" >}}
+

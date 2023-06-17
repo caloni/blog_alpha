@@ -1,37 +1,33 @@
 ---
 categories:
 - writting
-date: '2010-11-05'
-link: https://www.imdb.com/title/tt1789810
+date: '2019-02-02'
+link: https://www.imdb.com/title/tt5507620
 tags:
-- mostra
+- cinemaqui
 - movies
-title: José e Pilar
+title: Jovens Infelizes Ou Um Homem Que Grita Não É Um Urso Que Dança
 ---
 
-Este é um documentário que conta, com imagens caseiras e inusitadas em eventos públicos, os últimos anos do escritor português, ganhador do prêmio Nobel, José Saramago, e sua esposa, Pilar. Por meio de uma intrusão na vida alheia do casal acompanhamos as viagens que ambos fizeram pelo mundo afora após ele ter ganho o prêmio.
+"Um Homem Que Grita Não É Um Urso Que Dança" é um segundo-título bem longo. Ele precisava, na minha cabeça, fazer sentido. Então fui pesquisar e encontrei a citação de Aimé Césaire, estudólogo de negritudes francesas. Foi aí que consegui conectar com o primeiro-título: "Jovens Infelizes". O que Césaire está querendo dizer nessa sua frase é que o sofrimento humano não é um espetáculo, usando como exemplo para comparação um urso dançante, desses de circo. É claro que ele não usaria um macaco dançante, por exemplo, pois isso seria inconveniente. Afinal de contas, Aimé Césaire foi um racistólogo profissional.
 
-Com esse filme percebemos a dedicação de sua esposa para com a carreira do marido, além do reconhecimento deste que, sem Pilar, não seria nem a metade do que era. Dentro desse ponto de vista é tocante perceber que o filme retrata exatamente esses dois personagens dessa maneira distinta. Se de um lado vemos Pilar ir de um canto ao outro, com uma câmera que denota movimento constante (e como por vezes é percebido ela falando enquanto está dentro de um ônibus ou algo que o valha), do outro lado temos a reflexão e serenidade de Saramago, sempre recheado com seus pensamentos originais e inusitados, ou muitas vezes com uma cena um tanto parada sendo banhada de sabedoria com a narração em off do próprio Saramago e alguma passagem de um de seus livros.
+Em primeiro momento, após assistir o filme do diretor e roteirista Thiago B. Mendonça, discordo do título jovens infelizes. Como podem ser infelizes jovens que não trabalham e só fazem sexo o tempo todo? Talvez seja esse um daqueles mistérios que no futuro explica ao adulto porque sua adolescência foi desperdiçada, quando ele "era feliz e não sabia".
 
-Para os fãs, temos momentos que são especialmente emocionantes, pois acompanhamos também a escrita de um novo livro, do início ao fim, além da recaída na saúde que teve no meio dessa nova obra.
+Esses jovens do filme se dizem revolucionários. De esquerda, claro. Estão indignados com tudo o que está acontecendo na vida deles, que se resume em um bar (com o sugestivo nome de Cabaré Vermelho) que terá que ser fechado, assim como lutam para tentar pagar o aluguel do teatro onde mostram sua arte. A prefeitura e a especulação imobiliária estão acabando com os lucros, quer dizer, com a harmoniosa comunidade onde as pessoas se reúnem para se expressar e serem felizes.
 
-De acordo com o próprio Saramago, tudo é autobiográfico, pois tudo o que fazemos é o que nos define e que faz marcas no mundo, como esse belo documentário demonstra, aparentemente criado de maneira informal e amadora, e que acaba, por isso mesmo, dando uma espontaneidade na história que pouco se vê em documentários mais bem formatados.
+Mendonça está situado na esfera política e social do seu tempo. Ele filma momentos dos protestos de 2013 e 2014 que ocorreram na cidade de São Paulo e outras, sobre o aumento da passagem de ônibus e sobre o superfaturamento das obras para a Copa do Mundo, respectivamente. Aqueles não foram bons anos para os governantes, pois estava começando a cair a máscara do governo bonzinho e no lugar começaram a voar bombas de efeito moral. Desde então só tem piorado.
 
-É revoltante e chocante a leitura de cartas agredindo o escritor por este ser ateu ou comunista. Muitas, em sua ignorância, desconhecem a própria existência do escritor e sequer sabem se trata-se de um homem ou mulher (como uma carta que o tratava como Sara Mago).
+Sob as lentes de Mendonça acompanhamos essa ficção sob as cores mais que realistas do preto e branco, evocando não apenas o golpe de 64 (jovens brasileiros em preto e branco) mas também aqueles momentos belíssimos em que as ruas estão um caos, há PMs batendo em manifestantes e vândalos botando fogo onde for conveniente para que um fotógrafo de algum jornal fique famoso pelo senso estético no campo de batalha. Tudo pelo enquadramento perfeito.
 
-O monólogo sobre sua crença em Deus, logo no início, dentro do carro, é breve e resume completamente tudo que se diz respeito às suas descrenças. Porém, voltamos ao tema uma vez ou outra, pois é uma das pedras no sapato de muita gente.
+Ao mesmo tempo, como citei, esses jovens fazem sexo como forma de arte e escapismo. E não há melhor maneira de flagrar seus lindos corpos nus do que usando os tons de cinza que embelezam o muquifo mais embostelado. Unindo seus corpos em um monte uniforme de pele, pelo e carne, a revolução está garantida.
 
-Os "moinhos de vento" que vemos ao fundo, em uma das imagens iniciais, são os mesmos nas imagens finais, como se o filme quisesse realmente criar um pequeno arco em torno de si, como é testemunhado na cena inicial (dedicatória a Pilar) que é repetido no final ("nos encontramos em outro sítio"). Ou o fato de José se reencontrar com os ossos da pata do elefante que é tema de seu último livro.
+Para tentar "chocar" o espectador, ou melhor dizendo, para tirar sua sensação de escândalo, vários momentos do filme são crus. A história é introduzida por uma mulher sensual com os dois braços e pernas arrancados. Há um suicídio coletivo de jovens como ato político. Há uma orgia em uma igreja. Um negro é linchado simbolicamente em praça pública (um momento bem bonitinho na Avenida Paulista). Não há limites para nos fazer tirar da zona de conforto. E ainda assim eu fiquei abismado todo momento em como as jovens de esquerda revolucionária feministas poderiam ter os corpos tão esbeltos. Liberdade poética em meio a tanto realismo?
 
-Ao mesmo tempo, vemos a opinião do celestial igualmente renegado por sua esposa, de uma forma diferente, mais baseada na ação, característica da personagem: ela explica como a necessidade de estar sempre em movimento na vida, pois a eternidade é algo impossível de caber em nossa cabeça, e será o que teremos após a morte.
+Mas nada mais choca as pessoas, como alguém comenta no filme. É verdade. Estamos anestesiados com tanta exposição gerada pelas mídias sociais. Não há mais limites e os que se dizem revolucionários soam como crianças mimadas. Colocar um pôster do Che Guevara na parede envolve um motivo. Sem ela se torna um clichê em forma de capitalismo. Nunca se vendeu tão bem a ideia de que jovens podem ser rebeldes sem causa e, pior, se sentir bem por isso.
 
-As memória de seu diário, como uma pequena nota a cada dia, são narradas igualmente em off, como passagens de seus livros, e ganham um significado a mais por estarmos vendo cenas exatamente do dia em que ele fez a nota.
+Eu fico curioso em como pessoas de diferentes visões políticas irão encarar os Jovens Infelizes. Imagino que a direita brasileira deve achar tudo aquilo uma representação repulsiva da realidade, um exemplo de como essa geração está perdida. Já a esquerda senil que vive nos jardins (bairro nobre de São Paulo) irá finalmente largar seus livros de masturbação intelectoide e encontrar seu verdadeiro espírito revolucionário em algum cinema da Augusta (rua para filmes anternativos em São Paulo) e sentir que os heróis da causa estão escondidos em algum beco do centro renovado, talvez em alguma ocupação mais limpinha.
 
-O pós-casamento, além de naturalmente emocionante, possui muito mais significado, pois aquele casal já vivera seus 20 anos juntos, e a dedicação de ambos um pelo outro já foi provada diversas vezes; o casamento ganha o significado muito mais enriquecedor de prêmio final do que uma promessa inicial. E o fato de acompanharmos a vida do casal já há mais de uma hora torna essa cena enriquecedora da relação de ambos.
+E esses heróis serão esbeltos, atraentes (ainda estou chocado). Irão transar coletivamente quando houver necessidade de uma arte revolucionária. Irão posar para as câmeras dos jornalistas quando as bombas de efeito moral fizerem a névoa que precisam para o apelo dramático.
 
-Combinando palavras e imagens de maneira a um complementar o outro, José e Pilar nunca ganha falta de interesse, pois são enriquecidos hora pelos textos e pensamentos de Saramago, hora pela agenda lotada que sua esposa insistentemente tenta organizar.
-
-Com uma fotografia pálida, amarelada, talvez prenunciando o fim dos dias do escritor, ou talvez a nostalgia de ter vivido esses últimos momentos. Não se sabe ao certo, mas possui uma certa uniformidade.
-
-Mais uma cena igualmente emocionante, Meirelles e ele vendo o filme juntos.
+Tudo isso cantando "Bella Ciao", o hino informal contra o fascismo no mundo todo. Você sabia que essa linda música folclórica era cantada pelos trabalhadores sazonais nos campos de arroz da Itália? Quem diria que alguém já trabalhou e cantou essa música ao mesmo tempo. Estou chocado de novo.
 

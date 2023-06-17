@@ -1,16 +1,21 @@
 ---
 categories:
 - writting
-date: '2012-09-05'
-link: https://www.imdb.com/title/tt1386703
+date: '2022-10-17T19:50:12-03:00'
 tags:
+- cinemaqui
+- mostra
 - movies
-title: O Vingador do Futuro (2012)
+title: Objetos de Luz
 ---
 
-Chega a ser impressionante a capacidade do diretor Len Wiseman (da "saga" Anjos da Noite/Underworld) em empregar sequências de ação descerebradas mas completamente extasiantes. Durante as quase duas horas de projeção somos jogados em uma realidade sci-fi não apenas verossímil, mas igualmente surreal. A direção de arte de Patrick Banister (Sucker Punch, Mandando Bala, Blade: Trinity) recria o mundo do original com Arnold Schwarzenegger no mesmo clima arrebatador que os efeitos visuais da época causaram.
+Filmes bons de 4 horas de duração podem ser curtos demais. Porém, Objetos de Luz, com sua pouco mas de uma hora, é longo demais. E depois de cinco minutos de projeção ele já dá poderes a qualquer espectador itinerante de rotulá-lo com muita propriedade como um porre descomunal.
 
-Estamos em um mundo futurista onde apenas duas regiões do mundo são habitáveis: 1) a colônia, onde residem os trabalhadores que diariamente se dirigem para o outro local, 2) a união britânica, a ditadura da vez. A fotografia de Paul Cameron (Deja Vu) difere com competência esses dois mundos, com uma chuva que não para de cair no submundo (lembrando/referenciando Blade Runner) e um céu límpido e com tons azuis no mundo "civilizado". É interessante notar também as diferentes etnias da ex-região próxima Ásia/Rússia, que parecem conviver inertes aos possíveis choques culturais. Da mesma forma, o filme tem um quê de contemporâneo, refazendo mais uma vez a temática da guerra dos países desenvolvidos contra o mundo terrorista. O que cabe como uma luva no caso de Total Recall, já que o mocinho não é exatamente do bem.
+Esta é uma reflexão sobre a luz (trocadilho proposital) trazida por um diretor de fotografia, Acácio de Almeida (do filme Raiva, entre dezenas), auxiliado pela atriz Marie Carré. O filme é movido a recortes de outros filmes, montagens com imagens do espaço e suas infinitas estrelas, trilha sonora constante e narrações em off para dar uma perspectiva do assunto. Há infinitos artifícios narrativos menos a própria protagonista: a luz.
 
-Porém, os debates filosóficos da história ficam quase sempre em segundo plano, pois o principal, a essência do que torna o novo Vingador extremamente eficiente é a reciclagem do nosso velho sistema supressor de crenças que permite que vejamos histórias absurdas no Cinema e mesmo assim compremos a ideia. Nesse caso, a ideia é de que tudo aquilo não passa de um sonho, uma memória implantada na mente de Douglas Quaid (Colin Farrell) e que pode e não deve fazer sentido em muitos momentos, pelo seu absurdo e pelo seu tom maniqueísta da realidade. Estamos falando de clichês de histórias de espiões, e eles existem aos montes e em alto e bom tom para todos notarem. Porém, o realismo de algo até então desconhecido é o que garante o benefício da dúvida, além de mais pra frente o leque de opções ter se aberto um pouco mais.
+É como se participássemos daquelas salas temáticas de arte moderna, mas no lugar da obra há um auxílio sonoro e recortes de jornal espalhados no recinto. Imagine essa galeria. Está escrito em um letreiro bem grande lá fora: LUZ. E dentro há depoimentos, textos a respeito, recortes de jornal. E tudo isso disponível em uma sala escura.
+
+É mais ou menos assim que você irá se sentir a bordo desta jornada em direção a coisa nenhuma. Uma ode à ignorância, talvez? A narração indica que sim. O texto faz analogias com DNA e fótons e ao mesmo tempo usa rimas de recursão, como "um filme aprisiona a luz e outra luz depois é necessária para libertá-la". Tudo isso é dito sem nenhuma vergonha. Pelo contrário. Há um certo orgulho e até um tom de grandiosidade. É como se Michael Bay, aquele diretor de filmes de explosões aleatórias, tivesse virado um minimalista e abraçado a arte moderna. Este seria um filme assinado por ele nessa sua nova era.
+
+Breve graças a Deus, assista a Objetos de Luz nesta Mostra de SP quando só tiver uma hora e meia entre sessões que realmente tentam fazer algo pelo cinema. Se sobrar mais tempo depois você me diz aqui nos comentários o que achou de toda essa bobagem pretensiosa.
 

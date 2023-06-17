@@ -1,18 +1,22 @@
 ---
 categories:
 - writting
-date: '2018-02-20'
-link: https://www.imdb.com/title/tt2380307
+date: '2017-05-02'
+link: https://www.imdb.com/title/tt1083452
 tags:
 - movies
-title: 'Viva: A Vida é uma Festa'
+title: Voando Alto
 ---
 
-Um filme sobre família. E é sobre gerações. A Pixar, como (quase) sempre, perfeccionista até nos detalhes das calçadas por onde corre o pequeno e sonhador Miguel e nas rugas de sua bisa. Ah, sim, este é mais um filme sobre buscar o seu sonho apesar de todos os obstáculos e... apesar de estar quase morto. Porém, isso é Disney, então pode se despreocupar. Ninguém vai sequer ficar ferido, exceto o vilão. E um cachorro que é literalente um saco de pulgas que cai por onde quer que se coce.
+Este é um filme para observar a atuação de Taron Egerton em um papel muito diferente do que ele fez em Kingsman. Também é um filme para observarmos como nem sempre a persona de Hugh Jackman, como visto em Gigantes de Aço, consegue ser tão eficaz. E, de forma geral, este é um filme que repassa alguns momentos da vida real de Eddie Edwards, uma criança inglesa que já nasce com a ideia obcecada de participar das olimpíadas.
 
-Iniciando com uma introdução adorável que já virou tradição em seus filmes, aqui eles usam umas bandeiras monocromáticas que juntas realizam a transição do tempo na história do começo, que passa por não três, mas quatro gerações. A história gira em torno do patrono e matrona da família, os tataravós de Miguel, mas o filme realmente é sobre Coco, a bisavó do rapaz e que leva o título original do filme, além de ser dublada o original por Ana Ofelia Murguía, uma atriz mexicana de 85 anos.
+Há algo de mágico nesta história, e a direção do ator Dexter Fletcher percebeu isso. Há momentos grandiosos em câmera lenta com uma música imponente. Há também momentos vergonhosos onde vemos em câmera lenta uma sequência de bocas maravilhadas se abrindo (bem ao estilo de humor britânico, despojado). No meio de tudo isso, a história ganha um tratamento de épico, mas sem alma. Se trata de um passeio burocrático por uma história maravilhosa, talvez, mas não o suficiente para imprimir momentos inesquecíveis que você irá levar nas suas memórias cinematográficas.
 
-E por que mexicana? Ora, porque este é (mais) um filme sobre a festa dos mortos, aquele dia onde todos homenageiam e entram em contato com seus familiares falecidos. Há uma bonita metáfora e analogia entre o mundo dos vivos e dos mortos, com uma ponte sensacional coberta de pétalas e a tocante ideia de que os familiares que não são lembrados mais por ninguém desaparecem do mundo dos mortos.
+Se não fossem as atuações e a determinação de Eddie estampada no rosto limpo de Taron Egerton, quase que completamente convertido no real Eddie Edwards, e as tomadas que deixam claro que saltos de 90 metros de altura em um esqui podem gerar sequelas irreparáveis, este filme não seria tão impressionante. Porém, se o salto de 90 metros é tão perigoso assim, por que não vemos nenhuma acidente fatal no percurso de Eddie em direção ao seu tão almejado sonho?
 
-A Pixar demonstra mais uma vez que sabe emocionar em dobro, tecnicamente e pela sua historinha. Claro, eles ainda não sabem o que fazer com o vilão, mas o diretor e roteirista de Toy Story (2 e 3) Lee Unkrich sabe fazer chorar. Como sabe. E se você, como quase todo mortal, respeita e admira sua família, é melhor pegar seu lencinho antes de entrar na sala de cinema.
+Enquanto isso, um drama de relacionamento entre Eddie e o personagem de Hugh Jackman se espelha em um passado onde seu personagem era um esquiador talentoso que se deixou levar pela falta de disciplina, perdendo a confiança de seu técnico, uma aparição de luxo de Christopher Walken, que é autor do livro que une o objetivo de ambos: provar para as pessoas que ama que ele está certo.
+
+No entanto, tudo é ridiculamente exagerado. O pai de Eddie está motivado a qualquer custo em fazer o filho desistir de seu sonho sem muitos motivos claros exceto a visão de incapacidade que ele tem do próprio filho. Ao mesmo tempo, Hugh Jackman exibe pouco carisma em um papel automático de uma caricatura prática e eficaz do esportista que perdeu sua chance e hoje bebe para esquecer. E o próprio Eddie não possui mais qualidades exceto sua determinação sem limites.
+
+Tentando extrair do seu espectador a emoção que lhe falta, tudo vale para incitar lágrimas ou a emoção da missão cumprida em grande estilo. Dificilmente você sairá decepcionado, pois tudo funciona perfeitamente nesse filme. A decepção fica por conta que não existem riscos o suficiente nessa jornada (a de assistir o filme). O único disposto a correr riscos é a figura de Eddie Edwards. Dessa forma, o filme que o homenageia passa longe de sua cartilha de como vencer na vida assumindo os riscos necessários para atingir seus objetivos.
 

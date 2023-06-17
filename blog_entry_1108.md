@@ -1,20 +1,22 @@
 ---
-
-O que é o patriotismo senão uma outra forma de religião? Da mesma forma com que a igreja católica destroçava povos e arrancava suas almas, a mente de soldados norte-americanos cansados no final da segunda guerra nos revela em Corações de Ferro uma noção de que até atos de heroísmo estão manchados de sangue e uma moral no mínimo duvidosa. O estresse de ter matado (e muito) pode servir de desculpa, mas assim como em Sniper Americano, não por muito tempo.
-
-Girando (literalmente) em torno de um tanque norte-americano que está em sua última missão de fazer render o resto do exército alemão, o sargento Don 'Wardaddy' Collier (Brad Pitt) comanda uma equipe de soldados que, realistas mas nem tanto, servem metaforicamente como a representação dos rumos de um EUA mais atual do que há meio século atrás. Talvez apenas alguns anos. A morte de um deles gera sua substituição por um novato de escritório (Logan Lerman), que vira nossos olhos leigos naquele mundo de assassinatos legalizados.
-
-O passeio épico que o filme escrito e dirigido por David Ayer é floreado não apenas com sua câmera que exalta a grandiosidade do tanque em torno dos campos de batalha por onde passa, mas com uma trilha sonora igualmente grandiosa e temática, dividindo a experiência em fases de uma escalada "evolutiva" de um ser humano se transformando em um soldado, e que testa nossa percepção do que é humano quase a todo momento. Com uma fotografia e um ritmo invejáveis em todo o percurso, o sentimento geral é semelhante a Cidade de Deus e seus conflitos morais. Temos noção do que é necessário para vencer uma guerra, mas quase nunca sentimos nos filmes que as retratam como decisões são tomadas quase sempre com pouquíssimo tempo de reflexão e muito sangue quente correndo nas veias.
-
-O personagem de Brad Pitt é o ser mais complexo da trama, cercado de atuações dignas de compartilharem esse espaço. Seus diálogos com o novato, o igualmente competente Logan Lerman, são admiráveis pela lógica e naturalidade com que são desenvolvidos, além da inserção progressiva de uma relação pai/filho que parece quase sempre fazer sentido. O tempo do filme é curto para tanto, mas há vários e tensos episódios, grudados um no outro, que são suficiente para essa visão acelerada de como as coisas funcionam.
-
-Pecando talvez por simplificar a questão de homens lutando (e matando) juntos por muito tempo, submete o filme à prova em um momento crucial que se passa debaixo do tanque, e que parece ter sido o motivo de todo o filme. Se o "patriotismo" que muitos exaltam já não estivesse devidamente surrado no filme de Ayer, aqui ele recebe um golpe de misericórdia complexo e memorável.
-
----
 categories:
 - writting
-date: '2012-08-19'
-link: https://www.imdb.com/title/tt1653653
+date: '2011-11-29'
+link: https://www.imdb.com/title/tt0327597
 tags:
 - movies
-title: Corações Sujos
+title: Coraline e o Mundo Secreto
+---
+
+Existem filmes que encantam apenas pelo seus esforços periféricos (direção de arte, música, fotografia) e existem os que apenas chamam a atenção pelo seu desenvolvimento central (roteiro e direção). No caso de Coraline é difícil não ficar deslumbrado com o apuro técnico de todo um mundo criado e que ganhou movimento graças ao tradicional uso do stop motion, onde a ação é montada quadro-a-quadro. Além disso, é o primeiro filme desse estilo ao ser rodado em 3D, o que levanta alguns aspectos interessantes da sua narrativa, como o uso das agulhas.
+
+A história gira em torno obviamente da Coraline do título, uma menina curiosa, mas que não anda recebendo muita atenção dos seus pais, que precisam terminar um catálogo de jardinagem (e que ironicamente nunca olham para o jardim de casa). Eles acabaram de se mudar para a Casa Rosa, um pequeno vilarejo com poucos e decadentes vizinhos que aguçam a imaginação da menina.
+
+Um deles é Wybie, um garoto que anda com apetrechos que dão medo, mas que servem para ações típicas de garotos de sua idade, como capturar lesmas. Ele tem como amigo um gato arisco, que sempre leva consigo. Depois de um primeiro contato com Coraline, ele encontra na casa de sua avó uma boneca idêntica a ela, e que passa a lhe fazer companhia.
+
+Em um ambiente nada infantil, com uma fotografia acizentada e triste, e um clima sempre chuvoso e nebuloso, passa-se uma outra história em um mundo alternativo, mais quente e aconchegante, que acaba por seduzir Coraline e a faz conhecer de maneira diferente seus pais, que dedicam-se a tarefas que mais agradam Coraline. Além disso, seus decadentes vizinhos viram suas próprias ambições, e divertem a menina. Tudo banhado em uma luz quente e aconchegante, apesar de alguns detalhes parecerem sombrios.
+
+Elementos recriados no mundo real (como um porta-retratos no formato de grilo) viram elementos fantasiosos no segundo. Ângulos forçados, em câmera alta ou baixa, aumentam o tom fantasioso da história e a aparente desconexão entre os mundos. Aos poucos torna-se evidente que é muito difícil recomendar esse filme para crianças muito jovens, pois ele se torna assustador em determinados momentos.
+
+De qualquer forma, a moral implícita na história é válida independente da idade. Uma obra que merece a atenção de todos, criança ou não: sinais tanto de um bom livro quanto de um bom filme.
+

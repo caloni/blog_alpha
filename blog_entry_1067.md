@@ -1,180 +1,27 @@
 ---
-
-Desde que comecei a programar, para compartilhar variáveis entre processo é meio que consenso usar-se a milenar técnica do crie uma seção compartilhada no seu executável/DLL. Isso funciona desde a época em que [o Windows era em preto e branco]. Mas, como tudo em programação, existem mil maneiras de assar o pato. Esse artigo explica uma delas, a não-tão-milenar técnica do use memória mapeada nomeada misturada com templates.
-
-Era comum (talvez ainda seja) fazer um código assim:
-
-    // aqui definimos uma nova seção (note o 'shared' usado como atributo)
-    #pragma section("shared", read, write, shared)
-    
-    // um conjunto de variáveis agrupadas para facilitar o compartilhamento
-    struct EstruturaDoCoracao
-    {
-      int meuIntPreferido;
-      char meuCharAmigo;
-      double meuNumeroDePontoFlutuanteCamarada;
-    };
-    
-    // uma instância da struct acima para podermos usar nos processo amigos
-    __declspec(allocate("shared")) EstruturaDoCoracao g_coracao;
-    
-    int main()
-    {
-      g_coracao.meuCharAmigo = 'C';
-      g_coracao.meuIntPreferido = 42;
-      g_coracao.meuNumeroDePontoFlutuanteCamarada = 3.14159265358979323846264338;
-    } 
-
-Aquele pragma do começo garante que qualquer instância do mesmo executável, mas processos distintos, irão compartilhar qualquer variável definida dentro da seção "shared". O nome na verdade não importa muito - é apenas usado para clareza - , mas o atributo do final, sim.
-
-Algumas desvantagens dessa técnica são:
-
- - Não permite compartilhamento entre executáveis diferentes, salvo se tratar-se de uma DLL carregada por ambos.
- - É um compartilhamento estático, que permanece do início do primeiro processo ao fim do último.
- - Não possui proteção, ou seja, se for uma DLL, qualquer executável que a carregar tem acesso à área de memória.
-
-Muitas vezes essa abordagem é suficiente, como em hooks globais, que precisam apenas de uma ou duas variáveis compartilhadas. Também pode ser útil como contador de instâncias, do mesmo jeito que usamos as variáveis estáticas de uma classe em C++ (vide shared_ptr do boost, ou a CString do ATL, que usa o mesmo princípio).
-
-Houve uma vez em que tive que fazer hooks direcionados a threads específicas no sistema, onde eu não sabia nem qual o processo host nem quantos hooks seriam feitos. Essa é uma situação onde fica muito difícil usar a técnica milenar.
-
-Foi daí que eu fiz um conjunto de funções alfa-beta de compartilhamento de variáveis baseado em template e memória mapeada:
-
-    #pragma once
-    #include <windows.h>
-    #include <tchar.h>
-    
-    /** Aloca uma variável em memória mapeada, permitindo a qualquer processo
-    com direitos enxergá-la e alterá-la.
-    */
-    
-    template<typename T>
-    HANDLE AllocSharedVariable(T** pVar, PCTSTR varName)
-    {
-      DWORD varSize = sizeof(T);
-      HANDLE ret = CreateFileMapping(INVALID_HANDLE_VALUE, NULL, PAGE_READWRITE,
-        0, varSize, varName);
-    
-      if( ret )
-      {
-        *pVar = (T*) MapViewOfFile(ret, FILE_MAP_ALL_ACCESS, 0, 0, 0);
-    
-        if( ! *pVar )
-        {
-          DWORD err = GetLastError();
-          CloseHandle(ret);
-          SetLastError(err);
-        }
-      }
-      else
-        *pVar = NULL;
-    
-      return ret;
-    }
-    
-    /** Abre uma variável que foi criada em memória mapeada, permitindo ao
-    processo atual enxergar e alterar uma variável criada por outro processo.
-    */
-    template<typename T>
-    HANDLE OpenSharedVariable(T** pVar, PCTSTR varName)
-    {
-      DWORD varSize = sizeof(T);
-      HANDLE ret = OpenFileMapping(FILE_MAP_ALL_ACCESS, FALSE, varName);
-    
-      if( ret )
-      {
-        *pVar = (T*) MapViewOfFile(ret, FILE_MAP_READ | FILE_MAP_WRITE, 0, 0, varSize);
-    
-        if( ! *pVar )
-        {
-        DWORD err = GetLastError();
-        CloseHandle(ret);
-        ret = NULL;
-        SetLastError(err);
-        }
-      }
-      else
-        *pVar = NULL;
-    
-      return ret;
-    }
-    
-    /** Libera visualização de uma variável em memória mapeada. Quando o último processo
-    liberar a última visualização, a variável é eliminada da memória.
-    */
-    template<typename T>
-    VOID FreeSharedVariable(HANDLE varH, T* pVar)
-    {
-      if( pVar )
-        UnmapViewOfFile(pVar);
-      if( varH )
-        CloseHandle(varH);
-    } 
-
-Como pode-se ver, o seu funcionamento é muito simples: uma função-template que recebe uma referência para um ponteiro de ponteiro do tipo da variável desejada, o seu nome global e retorna uma variável alocada na memória de cachê do sistema. Como contraparte existe uma função que abre essa memória baseada em seu nome e faz o cast (coversão de tipo) necessário. Ambas as chamadas devem chamar uma terceira função para liberar o recurso.
-
-O segredo para entender mais detalhes dessa técnica é pesquisar as funções envolvidas: CreateFileMapping, OpenFileMapping, MapViewOfFile e UnmapViewOfFile. Bem, o CloseHandle também ;)
-
-Ah, é mesmo! Fiz especialmente para o artigo:
-
-    #define _CRT_SECURE_NO_DEPRECATE
-    #include "ShareVar.h"
-    #include <windows.h>
-    #include <tchar.h>
-    
-    #include <stdio.h>
-    
-    #define SHARED_VAR "FraseSecreta"
-    
-    /** Exemplo de como usar as funções de alocação de memória compartilhada
-    AllocSharedVariable, OpenSharedVariable e FreeSharedVariable.
-    */
-    int _tmain(int argc, PTSTR argv[])
-    {
-      // passou algum parâmetro: lê a variável compartilhada e exibe
-    
-      if( argc > 1 )
-      {
-        system("pause");
-    
-        TCHAR (*sharedVar)[100] = 0; // ponteiro para array de 100 TCHARs
-        HANDLE varH = AllocSharedVariable(&sharedVar, _T(SHARED_VAR));
-    
-        if( varH && sharedVar )
-        {
-          _tprintf(_T("Frase secreta: '%s'n"), *sharedVar);
-          _tprintf(_T("Pressione <enter> para retornar..."));
-          getchar();
-        }
-      }
-      else // não passou parâmetro: escreve na variável 
-      // compartilhada e chama nova instância
-      {
-        TCHAR (*sharedVar)[100] = 0; // ponteiro para array de 100 TCHARs
-        HANDLE varH = AllocSharedVariable(&sharedVar, _T(SHARED_VAR));
-    
-        if( varH && sharedVar )
-        {
-          PTSTR cmd = new TCHAR[ _tcslen(argv[0]) + 10 ];
-          _tcscpy(cmd, _T("\""));
-          _tcscat(cmd, argv[0]);
-          _tcscat(cmd, _T("\" 2"));
-    
-          _tcscpy(*sharedVar, _T("Tuintuintuclaim"));
-          _tsystem(cmd);
-    
-          delete [] cmd;
-        }
-      }
-    
-      return 0;
-    } 
-
-Preciso lembrar que essa é uma versão inicial ainda, mas que pode muito bem ser melhorada. Duas idéias interessantes são: parametrizar a proteção da variável (através do SECURITY_ATTRIBUTES) e transformá-la em classe. Uma classe parece ser uma idéia bem popular. Afinal, tem tanta gente que só se consegue programar se o código estiver dentro de uma.
-
-[o Windows era em preto e branco]: http://dqsoft.blogspot.com/2006/10/gerenciamento-de-memria-windows-16-bits.html
-
----
 categories:
-- coding
-date: '2008-02-01'
-title: Compartilhando variáveis com o mundo v2
+- writting
+date: '2019-05-10'
+link: https://www.imdb.com/title/tt7425520
+tags:
+- cinemaqui
+- movies
+title: Compra Me Um Revólver
+---
+
+Compra Me Um Revólver começa com a seguinte premissa: "em um México sem lei, a população diminui porque estão desaparecendo as mulheres". Assistindo ao filme entendemos que o problema populacional não se deve à falta de úteros, mas ao excesso de pênis. Todos sabem que o nível de violência em uma sociedade varia de acordo com a quantidade de pênis disputando território.
+
+A heroína da história e sua narradora é Huck (Matilde Hernandez), uma garota que vive com seu pai cuidando de um campo de beisebol apossado pela máfia local. Ambos estão em um ambiente onde Huck não deveria viver, pois por ser mulher, ainda que criança, ela se torna uma espécie de recompensa para os homens, que de tão poucas fêmeas disponíveis vestem roupas floridas por cima de seus coletes.
+
+Além das roupas estão todos sempre fortemente armados com fuzis, espingardas, pistolas, e as carregam sempre em punho. A noção da realidade de acordo com o diretor/roteirista Julio Hernández Cordón é bem atípica, mas funciona, se considerarmos que há o elemento fantasioso de uma criança nos pincelando os detalhes.
+
+Este é um filme pesado, que nos faz lembrar de como as crianças estão cada vez mais envolvidas em histórias de violência. Isso se deve aos efeitos visuais e sonoros, que impedem que de fato os atores e atrizes mirins tenham contato com a maior parte das atrocidades que vemos na tela, mas ao mesmo tempo soa um sinal de como o futuro pode ser a repetição de um passado que não gostaríamos de ver nunca mais.
+
+Podemos dizer que estamos em um México pós-apocalíptico ou distópico, mas o realismo pode ser brutal como visto no filme. O pai viciado em heroína perde esposa e filha mais velha, sobrando para ele uma única função: proteger a filha caçula. Sabemos que desarmado e trabalhando para uma gangue sempre armada e sem compaixão não é a melhor forma de se proteger, mas por sua condição de dependente entendemos que seu lado covarde o mantém preso nesse pesadelo como um círculo vicioso.
+
+A câmera subjetiva e imediatista de Cordón nos entrega em vários momentos do longa uma experiência lancinante. O momento em que a menina é descoberta por um dos capangas é um exemplo de tensão extrema, mas não é possível esquecer que o filme está a todo tempo usando Huck e suas ações inconsequentes para nos levar para a ação. Quando aprendemos o truque perde um pouco o brilho, mas nunca a tensão.
+
+Em meio ao deserto e uma paleta opressiva de cores, onde até a grama do campo de beisebol não parece assim tão verde por causa do sol castigando a todos, as camadas interpretativas da jovem Huck são o momento que o filme cresce, assim como sua ótima seleção de músicas. Um trompete cospe uma fumaça roxa que inebria o ar. Os mortos espalhados pelo chão viram desenhos com detalhes em vermelho. Os pássaros em torno do rio conferem o ar de redenção da pequena Huck. Há poesia nesses momentos, e é uma pena que apenas pontualmente ela seja usada.
+
+No resto do filme há um tom de estranhamento, mas ele soa apenas incorreto. Um erro de gênero, uma escolha equivocada de quadros. Sua mensagem é um sussurro no deserto para um filme que pede vários gritos de socorro. O que há com aquelas pessoas? O que este mundo se tornou, afinal? Perguntas sem resposta. Resta apenas curtir a música e um ambiente exótico em que a ultraviolência é desumana, mas pior que isso, irracional.
+

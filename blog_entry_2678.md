@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2012-12-12'
-link: https://www.imdb.com/title/tt1764234
+date: '2011-09-11'
+link: https://www.imdb.com/title/tt2027178
 tags:
 - movies
-title: O Homem da Máfia
+title: O Homem do Futuro
 ---
 
-Esse é um ótimo filme sobre as ações e decisões de um grupo de mafiosos a respeito do destino do seu negócio de jogatina. Basicamente o que se coloca em jogo é a confiança dos donos dessas casas depois que um deles, Markie Trattman (Ray Liotta), rouba seu próprio negócio. O que o torna um filme excepcional é que essa manutenção da confiança no sistema ilegal de jogos de azar traça um paralelo direto com a crise econômica nos Estados Unidos iniciada em 2007 e que até hoje ecoa pelas casas vazias e massas de desempregados cheios de dívidas. A confiança no sistema financeiro também foi abalada naquele momento e algo teve que ser feito.
+O novo longa de Cláudio Torres (dos divertidos A Mulher do Meu Amigo e A Mulher Invisível) flerta com mais um tema que faz parte do imaginário coletivo: quem nunca desejou mudar algo que fez no passado, principalmente se isso teve implicações negativas por toda sua vida?
 
-O que o governo fez e faz para resolver o rombo em suas estruturas é o tema-recheio que se expande através dos olhos aguçados do roteirista Andrew Dominik, baseado no romance de George V. Higgins. No entanto, o que é mais impressionante é que o romance de Higgins, Cogan's Trade, foi publicado em 1974, e o que resta hoje são os vários diálogos que fazem parte de capítulos inteiros do livro, que preferem ruminar sobre a psicologia dos seus criminosos do que a ação em si.
+Esse é o caso de Zero (Moura), que inclusive mudou de nome depois desse evento que mudou sua vida para sempre. Físico e professor (de física), está empenhado na obtenção de uma nova forma de energia enquanto dá aulas com um sotaque engraçado que lembra seu deslocamento social. Embora empolgado com suas pesquisas, parece ter uma triste conformidade com o que ocorreu no passado e que o transformou em um ser solitário e desajeitado.
 
-Nesse sentido, o plot do livro cai como uma luva. Utilizando o som de rádios e televisões que sintonizam a voz do na época senador Barack Obama e o presidente George W. Bush, as decisões políticas entrecortam os diálogos dos criminosos no filme. As cenas de ação são poucas, mas possuem uma intensidade incrível, além de um prazer estético que flertam com o Tarantinesco, só que com muito mais profundidade. Destaco dois: a longa sequência sem cortes de entrada e saída da casa de jogos, cuja tensão final é hipnotizante; o assasinato dentro do carro, cujas balas acompanham o movimento da música.
+No entanto, a primeira reviravolta do filme coloca Zero acidentalmente em uma máquina do tempo que o transporta para o mesmo dia onde o tal evento ocorreu, lhe dando a oportunidade de criar uma nova realidade no futuro (tudo de acordo com suas próprias concepções de física quântica que possui).
 
-No entanto, mesmo que as cenas de ação mereçam um destaque são os diálogos que prendem a atenção pelas atuações sempre interessantes de todo o elenco, sempre parecendo ter algo mais a dizer. Brad Pitt como o frio e calculista Jackie mata a pau no início e no fim, mas o diálogo que ele tem com Frankie no bar a respeito dele ter opções é um momento icônico para a trama justamente pela expressão na cara de Scoot McNairy. E mesmo o insuportável Mickey (James Gandolfini) é uma caricatura construída exatamente para se tornar insuportável aos nossos olhos, para que nós mesmo percebamos que ele não é o cara certo para o serviço. E se Ray Liotta faz aqui uma participação mega-especial como o dono de jogatina Markie Trattman, e cujo caráter do personagem faz eco com seu personagem em [Os Bons Companheiros], a cereja do bolo é mesmo Ben Mendelsohn, que faz um Russell estúpido e crível, e cujas cenas onde está chapado servem tanto como exercício estilístico, como a bela transição entre a fumaça e as lanternas do carro, quanto como mais uma caracterização metafórica que deixa em aberto quais são os papéis dessas pessoas na jogatina profissional e os senhores que a controlam: respectivamente a bolsa de valores e o sistema financeiro/político americano.
+A partir daí o filme segue utilizando sacadas habituais de filmes de viagem no tempo (as que acho mais interessantes são a mudança do valor de nossa moeda e a proibição de fumantes em espaços fechados), mas sempre colocando o trauma de Zero como foco da narrativa. Dessa forma, O Homem do Futuro consegue divertir e emocionar de uma maneira equilibrada e compreensível. Parte de nossa facilidade em compreender a trama se sustenta na fotografia e direção de arte que juntas identificam as situações utilizando cores vibrantes e larguras de campo menores na festa-evento, enquanto aplica um branco e cinza em cenários várias vezes maiores, o que imediatamente gera a sensação de solidão e isolamento (e não é à toa que a prisão que um certo personagem se encontra no futuro alternativo use a mesma lógica para descrevê-lo).
 
-[Os Bons Companheiros]: {{< relref "os-bons-companheiros" >}}
+Tendo o controle narrativo da trama nas mãos dos aspectos visuais, o filme consegue deslanchar camadas superiores de complexidade sem maiores problemas e tornando a experiência mais interessante ainda. Porém, o mesmo não ocorre no relacionamento de seus personagens, que em determinado nível se desestrutura e infelizmente revela a artificialidade de toda a situação em que se encontram (e por tabela revela que aquilo é só um filme).
 

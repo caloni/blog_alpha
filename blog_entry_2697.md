@@ -1,23 +1,22 @@
 ---
 categories:
 - writting
-date: '2016-12-03'
-link: https://www.imdb.com/title/tt4686692
+date: '2013-01-07'
+link: https://www.imdb.com/title/tt1649419
 tags:
-- cinemaqui
 - movies
-title: O Ídolo
+title: O Impossível
 ---
 
-O Ídolo possui um começo dinâmico e tocante, mas não usa isso a seu favor no resto do filme. Ele aposta na catarse fácil que já vemos na televisão e em vídeos do YouTube. O que ele acaba fazendo, então, é apenas dar uma cara e uma atuação para mais um personagem da vida real.
+A abordagem que o diretor espanhol Juan Antonio Bayona realiza para contar a história da família que se separa durante o Tsunami de 2004 que matou mais de 230 mil pessoas consegue transmitir a emoção pelo drama específico sem se esquecer da perda incomensurável de vidas naquela tragédia que mudou a vida de muito mais pessoas que podemos imaginar. Diz ainda o que números nunca serão capazes de dizer: que cada vida que se perde é uma tragédia particular.
 
-Porém, pior que isso é usar esse personagem como herói. Por ter uma boa voz e uma boa vontade. A voz ele herda da genética (e um pouco do seu teimoso instrutor de canto), e a boa vontade herda da sua irmã, que possui uma energia admirável. Ela não é apenas uma otimista, mas um ser humano que possui uma visão clara do que é capaz se tentar muito, e tirar do seu caminho tudo que não a ajudar, como uma insuficiência renal e até um possível namoradinho. Diz ela: "eu não tenho tempo para isso". Ela tem 12 anos no máximo. E é interpretada por Hiba Attalah com uma intensidade admirável.
+Os efeitos visuais e sonoros, com certeza ocupando a maior quantia da verba para o projeto, são importantes para que o trágico espetáculo fique na nossa mente por um bom tempo, mas apenas o seu uso inteligente, visceral, garante a sua efetividade no máximo. As tomadas mais apavorantes são as que nada vemos, mas ouvimos apenas, o barulho destruidor.
 
-Essa intensidade com que Attalah personifica a imagem da irmã do talentoso Assaf, a urgência daquelas crianças em tentar sair de Gaza a todo custo e o dinamismo do diretor Hany Abu-Assad (Paradise Now) confirmam a importância dessa parte tocante e trágica do filme em todo seu resto, quando, em um piscar de olhos, o jovem Assaf (Kais Attalah) dá lugar a um adulto Assaf (Tawfeek Barhom) e o remorso de ter tido cortado o seu sonho o faz reavaliar sua infância com a irmã e seus amigos e tentar seguir em frente, como se estivesse dormindo durante todo esse tempo. A montagem é uma poderosa arma de O Ídolo.
+A trilha sonora, tão importante quanto os sons do próprio filme, marca presença até quando não se ouve, pois precisamos daquele respiro do silêncio, a reflexão entre cenas, para seguir adiante. Tão digno de nota quanto é a maquiagem utilizada especialmente em Maria, a mãe dos meninos, que sofre sérios ferimentos e vai aos poucos definhando, debilitada, tornando cada fala sua um ato de coragem por si só.
 
-O que não quer dizer que seu roteiro seja. Escrito pelo próprio Hany Abu-Assad e Sameh Zoabi, a história gira em torno daqueles casos do programa televisivo de talentos. O cantor (que você já imagina quem é, e até qual programa de TV estamos falando, graças ao título do filme), além de ter uma voz impressionantemente linda (e ela é usada pelo menos uma vez como arma de manipulação, algo lindo de se ver), ele possui um passado marcante. E, como se isso não bastasse, ele mora em Gaza, o que o coloca na lista de heróis sobreviventes, muito embora não vejamos muito da violência ou do terror ou do risco de se morar na fronteira fortemente murada (e fuzilada) entre Israel e Palestina.
+Desde o início percebemos uma troca muito justa: a inevitável previsibilidade do ocorrido deixa espaço para a intensidade de cada momento. O uso inteligente da câmera a torna uma testemunha com "opinião formada": se aproxima quando exige intimidade, treme como nós mesmos tremeríamos e ainda tem a vantagem da uma visão panorâmica que tanto assusta quando é usada. É ela que acusa um Deus ausente, procurando-o nos céus logo após a tragédia e, já no hospital, usa-a na "primeira pessoa" para expressar que, se Ele existe, parece observar, impotente, os mortos enfileirados e a mãe que aguarda pela segunda cirurgia. As pessoas desse filme parecem ter muito mais força que seu Deus, e quase não sabemos de onde elas tiram a vontade de continuar.
 
-O interessante é que a premissa é poderosa o suficiente para concluir em um filme impactante. Porém, nada funciona no agitado terceiro ato. O Assaf adulto carrega uma visão um pouco amarga do mundo, e não é por acaso. Um acontecimento traumático em seu passado faz com que ele suspenda seu sonho, talvez para sempre, e todos nós entendemos esse trauma em sua vida, tanto que torcemos pelo personagem.
+Quase não sabemos, mas está ali todo o momento. Seus olhares denunciam facilmente, especialmente os de Lucas (Tom Holland), que transforma seu desespero em esperança de reencontrar o pai. Seu desempenho é a grande revelação do filme. Nitidamente à frente dos adultos, enxergar tanta vontade de viver e de ajudar o próximo em uma criança se torna de repente a mensagem mais poderosa que poderíamos aprender, essa nossa geração envelhecida e hipócrita.
 
-Mas não é o suficiente. A história de O Ídolo caminha por caminhos corretos e mantém uma tensão graças às ótimas direção, edição e trilha sonora. Porém, o suspense é perdido logo no começo. Quando é feita uma transição no final entre ficção e vida real (talvez uma tendência nos filmes biográficos de hoje em dia, vide Snowden), essa transição quase não funciona, ou demora para funcionar. O personagem do presente não é tão rico (em facetas) como o filme imagina; apenas seu passado e sua história.
+Criando ou recriando um final cinematográfico, o que embute na mente do espectador que tudo aquilo poderia realmente ter ocorrido, vibramos e torcemos por aquela família como se fosse a única sobreviventes que se desmanchou pela fúria das águas. Pecando talvez apenas ao não pontuar corretamente o esforço do pai, que varre literalmente todos os hospitais de abrigados (e deve ter perdido um pedaço de esperança em cada um deles) O Impossível não tem um final 100% feliz justamente por não esquecer que desastres como esse costumam marcar uma geração inteira. A coragem de não se esquecer disso é digna dos aplausos finais, uma decisão capaz de mudar algo em nós mesmos.
 

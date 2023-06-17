@@ -1,82 +1,16 @@
 ---
 categories:
-- coding
-date: '2022-06-09T11:43:45-03:00'
+- writting
+date: '2015-03-23'
+link: https://www.imdb.com/title/tt2397619
 tags:
-- windbg
-title: Windbg Everywhere
+- movies
+title: 'Woody Allen: A Documentary'
 ---
 
-# Usando WinDbg em situações onde não há Visual Studio
+Espero que esse não seja o primeiro, muito menos o último dos documentários a respeito do cineasta/comediante/músico de jazz Woody Allen. A direção e o roteiro de Robert B. Weide é tão óbvia e caminha por tantos lugares-comuns que fica a dúvida se ele realmente tem alguma conexão com Allen ou foi apenas um projeto encomendado pela BBC.
 
-Com essa premissa me vem à mente os seguintes cenários:
+O filme se resume em recontar a história já conhecida (e revista algumas vezes) do comediante-escritor que é obcecado pela morte desde quando era criança. Através de depoimentos e algumas transições elegantes (como ao mostrar diversas manchetes sobre o "fenômeno Woody Allen" entrando dentro do O de Woody), sendo que um dos testemunhos obviamente é o próprio Allen, seja em arquivo ou na atualidade, o longa não se preocupa em mostrar nada de novo. Nem um pensamento, uma reflexão. Nada. Apenas um punhado de momentos em seus filmes que refletem sua personalidade que por sua vez volta para os filmes, suas mulheres, seu caso com a filha adotada, sua transição da comédia para dramas mais sofisticados (como o ambicioso Match Point) e pela sua fissura atual de fazer um filme por ano. Até o podcast do site Cinema em Cena sobre o cineasta se sai melhor, desenvolvendo uma questão muito interessante acerca de quem é a pessoa adúltera e como isso não tem qualquer relação com o artista.
 
- - Não é possível instalar Visual Studio
-   - Só copiar a pasta onde está rodando o windbg.exe.
- - Arquivos de dump muito grandes
-   - Processo que capota consumindo o mundo de memória.
-   - Cópia de arquivos em alguns ambientes demoraria séculos.
- - Processos que não podem parar
-   - Bug raro de acontecer e se parar o processo já era.
-   - Manter processo em observação até reprodução (memory leaks macabros).
- - Único lugar que acontece o bug
-   - É raro, mas acontece sempre.
-
-## Colinha de todo dia
-
- - !analyze -v
- - !sym noisy, .symfix, .sympath
- - .reload /f, x
- - bp, bl, bu, g
- - db, dd, dv, da, du
- - ~, k, kv, kvn
-
-## Leak de memória
-
- - !address -summary
- - !heap -stat, -srch AllocSize
-
-## [Máquina com rede e com firewall](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/process-servers--user-mode-)
-
- - WinDbg é de hackudos, então [firewall não funciona](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/two-firewalls) com ele graças ao proxy reverso.
-
-## Preciso do kernel
-
- - Começa a parte divertida: [gerar tela azul](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/forcing-a-system-crash-from-the-keyboard).
-
-## Boot da máquina
-
- - bcdedit /dbgsettings, /copy {current}, set debug on
- - VM: \\.\pipe\kd
- - windbg.exe -k com:pipe,port=\\.\pipe\kd,resets=0,reconnect -b
- - Para bem no [código-fonte de David Cutler](https://systemroot.gitee.io/pages/apiexplorer/d6/d5/4_2kdinit_8c-source.html) para um debugger portável do kernel.
- - !process 0 0
-
-## [Serviços no limite da existência](https://www.infoq.com/br/presentations/depurando-ate-o-fim-do-mundo/)
-
- - I get by with a [little help] [from my kernel](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/controlling-the-user-mode-debugger-from-the-kernel-debugger).
-
-## Profiling
-
- - Para ver [quanto tempo leva](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/wt--trace-and-watch-data-) chamar uma função.
-
-## Engenharia reversa
-
- - [Breakpoints condicionais](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/setting-a-conditional-breakpoint).
- - [Quebrando Houaiss].
-
-## [Servidor de símbolos](https://docs.microsoft.com/en-us/windows/win32/debug/using-symstore)
-
- - Use o [symstore](https://docs.microsoft.com/en-us/windows/win32/debug/using-symstore) para montar uma fazenda de símbolos.
- - Use o [SymProxy](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/symproxy) para [publicar](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/http-symbol-stores).
- - O SymProxy também é útil como um... proxy =).
-
-## [GFlags](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/gflags)
-
- - Heap tagging e stack trace database para caçar leaks de memória.
- - Coleta silenciosa de dumps.
- - Chamar kernel debugger ao iniciar processo (parâmetro `-d` do ntsd.exe).
-
-[little help]: {{< relref "kernel-mode-user-mode" >}}
-[Quebrando Houaiss]: {{< relref "conversor-de-houaiss-para-babylon-parte-1" >}}
+De qualquer forma, Woody Allen: A Documentary pode ser pensado como um "Woody Allen para dummies", pois revela a ascenção e a manutenção de um ícone da comédia em um ícone do Cinema. Alguém que é relevante até hoje, e apesar de negar sua genialidade, sempre terá seu lugar entre os cinéfilos de carterinha.
 

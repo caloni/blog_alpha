@@ -1,21 +1,16 @@
 ---
-
-Hollywood é preguiçosa e todo mundo sabe. Eles só querem saber de dinheiro e não são altruístas. E quando Deadpool surgiu com as brincadeiras da violência e linguajar exagerados (pelo menos para filmes de super-heróis), além da quebra da quarta parede, onde o mocinho conversa com o espectador e fica jogando referências do mundo onde essas histórias são criadas, seu sucesso de bilheteria virou um bilhete de loteria para sua primeira continuação, que segue passo-a-passo a mesma fórmula do primeiro. Não é um filme sobre uma história de fato, mas uma história sobre um filme sendo escrachado. Não há nada, nadinha de nada de novo, nada vai surpreender, e nada vai aborrecer. É um filme quadrado que volta a falar conosco em um linguajar agressivo e violência de 18 anos (que alívio) para se pagar de cool mais uma vez sem precisar sair da mesmice. Os fãs esperam isso, este é um filme típico caça-níqueis de nicho, não foi muito bem finalizado, força seu CGI, e está estreando praticamente ao mesmo tempo que "Vingadores: Guerra Infinita" em uma clara mensagem que eles mesmos estão pouco se f...
-
-E em um jogo de metalinguagem rebuscado que atravessa alguns níveis para colocar o espectador preguiçoso onde eles precisa, eles conseguem. Um filme de super-herói tradicional que se paga de irreverente e esperto, pois posssui sempre na manga o Ás da quarta parede, brincando com a ideia de fazer um filme B e com personagens menores do que deveriam. O truque aqui é a auto-depreciação, não apenas do personagem Deadpool, mas de todo o filme. O filme berra para nós: "olha como somos diferentões! nós colocamos crianças gordas em meio a uma prisão barra pesada e fazemos piadas com racismo mesmo não sendo!". E ele não faz isso aparentemente apenas para seguir a cartilha politicamente correta, mas para sutilmente sabotá-la. Se torna simpático saber que a zoeira não tem limites, desde que ela fique entre essas quatro paredes.
-
-Para os fãs, eu garanto que haverá vários momentos-referências divertidíssimas de encontrar, piadas rápidas demais para dar tempo de pensarmos (vale uma revisão se você gostou muito), pelo menos duas sequências de ação memoráveis (a pré-créditos e um resgate a um caminhão onde a personagem de Zazie Beetz brilha) e uma certa beleza emergindo da pálida tentativa de fugir da mesmice. Ela persegue os filmes da Marvel mais do que nunca depois de dez anos batalhando para construir uma marca. Bom, essa marca está consolidada com Guerra Infinita. Parabéns. E sua audiência só sobe. O que é um pequeno agrado para os fãs mais sagazes como um Deadpool 2, tecendo comentários auto-depreciativos sobre a própria criação?
-
-Talvez Deadpool seja o último refúgio desses filmes menores, mas que conseguem manter o ritmo e a atenção graças a um trabalho de roteiro alinhado com a proposta. Rhett Reese é um escritor medíocre com boas ideias (a brincadeira nerd Zumbilândia e o trash espacial Vida). Paul Wernick está nos mesmos créditos. E Ryan Reynolds estreia no roteiro auxiliando a dar forma ao seu personagem. Ele também participa das ótimas brincadeiras pós-créditos (apenas um pouquinho pós; não precisa esperar muito) envolvendo os pequenos desastres de Wolwerine Origins e Lanterna Verde.
-
-Espertinho demais para gerar risadas autênticas (mas piscadelas a torto e a direito), Deadpool 2: O Retorno de Quem Não Foi soa como uma continuação preguiçosa e o próprio herói aponta isso duas vezes. O fato de você criticar seu próprio filme não o torna melhor, assim como a auto-depreciação não lhe torna digno de pena. São apenas caminhos lamentáveis para se manter relevante mesmo não sendo. Mas este é o show business, e para ele está de bom tamanho.
-
----
 categories:
 - writting
-date: '2017-09-18'
-link: https://www.imdb.com/title/tt0877057
+date: '2014-12-10'
+link: https://www.imdb.com/title/tt2096672
 tags:
-- animes
-- series
-title: 'Death Note: Notas da Morte'
+- movies
+title: Debi & Lóide 2
+---
+
+Jim Carrey e Jeff Daniels finalmente conseguiram realizar a continuação (ou remake?) do seu clássico de comédia e os irmãos Farrely, do original de 1994, estão dirigindo. Os Farrely fizeram também Quem Vai Ficar com Mary?, Passe Livre, Eu, Eu Mesmo e Irene e tantas outras comédias.
+
+Iniciando com pegadinha monumental que ainda faz o gancho com 20 anos atrás, percebe-se que nada se perdeu da dupla original exceto o seu primoroso roteiro. Tentando dessa vez realizar um paralelo com as cenas do primeiro, Debi e Lóide partem em busca da filha que Lóide descobre ter para que ela doe o rim para seu pai. Isso pede obviamente um road-movie, uma dupla de vilões para impedir e todas as esquisitices da história original. O problema aqui é que nem todas as piadas são... engraçadas. Eu sei que humor é uma coisa relativa, e eu sei que muitas pessoas podem até gostar mais da continuação, mas sejamos francos: a comédia mudou muito em 20 anos. Usar a mesma dupla de patetas corre esse risco quando as coisas saem um pouco atrasadas.
+
+Dito isto, é preciso ressaltar que a participação dos atores originais é fundamental para que tudo funcione, diferente da tentativa frustrada de um prequel anos atrás. O carisma de ambos os personagens continua intocável, e mesmo que você não dê risada todo o tempo, vale a pena revê-los mais uma vez na tela.
+

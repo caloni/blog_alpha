@@ -1,16 +1,23 @@
 ---
 categories:
 - writting
-date: '2016-06-06'
-link: https://www.imdb.com/title/tt2382009
+date: '2017-04-18'
+link: https://www.imdb.com/title/tt6230488
 tags:
+- cinemaqui
 - movies
-title: 'Ninfomaníaca: Volume 2'
+title: Ninguém Entra, Ninguém Sai
 ---
 
-Podemos chamar Joe de vadia, vulgar ou de qualquer outro adjetivo que achemos o pior em uma pessoa. No entanto, uma coisa que Lars von Trier te impede de fazer durante todas as seis horas de projeção de Ninfomaníaca é permitir que, do topo de nossa suposta moral, a chamemos de vítima. E é isso que autentica essa personagem como uma dura crítica ao nosso modo de pensar a respeito de sexo e da relação entre seus praticantes. Joe, interpretada de maneira dura e auto-reflexiva pela impassível Charlotte Gainsbourg, é que pode, do topo de sua experiência no assunto, julgar a hipocrisia humana.
+Assistir a "Ninguém Entra, Ninguém Sai" é embarcar em uma viagem para a comédia brasileira dos anos 90. Porém, também é uma maneira divertida de referenciá-la, já que ninguém espera uma comédia anos 90 nos dias atuais. Há claramente uma ambiguidade entre o retrógrado e o apenas grotesco, e no meio de tudo isso atuações e participações especiais que, para bem ou para mal, remetem a figurinhas da televisão, do cinema e da internet.
 
-O segundo e último volume lançado aqui no Brasil, não sei por que um filme como esse teria um viés comercial na cabeça desses distribuidores, mas enfim..., perde um pouco sua introdução quase cômica para começar a pesar as decisões de Joe acerca de sua vida. Nem as divertidas analogias de seu ouvinte fazem mais efeito, senão o de nos fazer lembrar que Von Trier enquanto narra analisa seu próprio processo, o que poderia ter o prejuízo de nos fazer sair do filme se não fosse a câmera documental e as transições que fluem sem pudor entre diálogos e "ação" (além de já nos acostumarmos com essa dinâmica).
+A história é tão surreal quanto a realidade brasileira hoje. Um vírus novo, mortal e altamente contagioso, Xabu (sim!), é detectado em um paciente só pelo olhar de um médico arrogante. A partir daí todas as pessoas dentro do lugar onde o paciente trabalhava quando foi infectado são isoladas em uma quarentena, com o risco de levarem três tiros cada ("só pra garantir", diz um policial) se tentarem sair. O lugar é um motel chique, e o governo começa a bancar os recursos para as pessoas lá detidas. Precisa explicar mais a alegoria política?
 
-No primeiro texto sobre o primeiro volume havia dito que um projeto como esse fazia todo o sentido para o diretor pessimista que é Von Trier, que olha o mundo pela ótica de alguém que não tem pudores de dizer qualquer coisa. Vemos isso claramente nas discussões políticas e sociais dessa parte final, e me agrada em muito a visão de Joe pela doença atual do politicamente correto, onde para muitos poderia ser chocante. A vida não te ensina que colocar rótulos mais leves no que as pessoas são torna a vida mais leve. Ninfomaníaca, já em seu próprio título, nos ensina isso pelo óbvio: o sexo não deixa de ser sexo porque é mostrado pela nossa sociedade como algo deturpado e digno de culpa. O sexo apenas é. Joe me ensinou isso. E, sim: ela é uma ninfomaníaca.
+As pessoas hospedadas representam parte da sociedade brasileira. Há uma juíza que na cama é uma dominatrix (que usa seu guarda-costas como dominado), um casal de menores que passa pela vista grossa da recepcionista com um documento de identificação que diz terem 30 anos, um casal formado por um motoboy quebrado e uma "periguete" gostosíssima que, acreditem ou não, quer casar, um assaltante e sua refém (a eterna virgem neurótica que "passou do ponto" e cantarola uma música do Fabio Jr) e uma faxineira maluca (Guta Stresser, talvez a única participação do elenco que levou sua caricatura às últimas consequências) que segue uma seita que condena todos os atos libidinosos do hotel e que venera uma figura enigmática em seu armário como se fosse um santo protetor.
+
+Todos esses personagens acabam eventualmente interagindo em uma história que poderia muito bem ser uma peça de teatro, já que o diretor estreante no cinema Hsu Chien Hsin usa zooms que tornam o cenário meramente decorativo, e não há qualquer tentativa de juntar as ações que ocorrem em paralelo exceto o velho corte seco entre uma situação e outra, e nenhuma ação é realmente necessária. É uma coletânea de caricaturas e suas piadas, nada que você não tenha visto inúmeras vezes em sua infância ou adolescência. Talvez você desse risada naquela época.
+
+Mas falar de humor, que é algo tão íntimo de cada um, é um assunto complicado. O curioso das piadas aqui é que, para um mundo cercado de politicamente correto para todos os lados, o roteiro tenta encontrar um meio termo entre o que hoje é considerado ofensivo e as boas e velhas piadas estilo Trapalhões. Não é difícil imaginar a influência dos próprios atores nessa concepção, já que temos no elenco não apenas a ponta divertida de Gabriel Totoro mas em dois dos papéis principais um atual integrante e uma ex-integrante do canal de piadas polêmicas da internet Porta dos Fundos, que ficou conhecido justamente porque a internet desconhece barreiras para o humor.
+
+A sensação geral ao assistir esse filme é de uma ótima produção nacional com temas repetidos vistos sob um novo olhar. O filme vai fácil, assim como as atuações, e a despeito de se passar quase todo em um motel não é motivo para baixaria: ninguém fica de fato pelado, e o objetivo quase nunca é sensualizar, mas apenas divertir. O problema, portanto, fica na questão se o "divertir" fica acima ou abaixo das expectativas de uma "globochanchada" de todo mês.
 

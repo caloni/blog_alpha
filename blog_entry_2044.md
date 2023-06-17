@@ -1,20 +1,11 @@
 ---
 categories:
 - writting
-date: '2013-10-06'
-link: https://www.imdb.com/title/tt0373074
+date: '2021-08-25T22:06:58-03:00'
 tags:
 - movies
-title: Kung-Fusão
+title: L'Enfant
 ---
 
-Após uma revisita ao filme-gêmeo de [Shaolin Soccer], ambos exploram esse conceito do Kung-fu extrapolado ao cotidiano, a sensação é de um frescor de ingenuidade e violência comparados a Kick Ass (e não me admiraria que este fosse inspirado naquele). Só pelo fato da violência existir com mortes e essas mortes serem relevantes para estabelecer o peso da tensão em um filme que obviamente é uma comédia já mereceria créditos de sobra.
-
-Depois de assistir À Família, uma tentativa de brincar com humor em um filme de gângsteres, fica óbvio o que Luc Besson faz de errado e o diretor Stephen Chow realiza com pontaria certeira em Kung-Fusão: os gângsteres são desonestos e violentos como em um drama, mas diferente de um, suas vítimas são tão violentas quanto. Da mesma forma com que Yun e Yang se complementam, a força malévola dirigida ao pobre vilarejo se volta na mesma proporção contra seus malfeitores.
-
-Mas havia falado de ingenuidade, e esse que pode ser o ponto fraco nas cenas que exploram a relação do herói com a menina que havia salvo quando crianças. De qualquer forma, a entrega é cinematográfica, com direito a mudanças sutis no movimento, na fala e nas transições elegantes e lúdicas entre um pirulito desenhado em sangue e um doce/coração despedaçados. Esse lirismo parece não caber nesse filme, mas quando ocorre, é de parar a mais frenética cena de ação.
-
-Por fim, as habilidades crescentes dos opositores ligam tudo junto em um manifesto pró-kung fu que possui seus deslizes, mas em sua alma, mantém sua grandeza intacta.
-
-[Shaolin Soccer]: {{< relref "kung-fu-futebol-clube" >}}
+Drama naturalista dos irmãos Dardenne. Encontram o casal de jovens perfeito para encarnarem uma história não tão comum de garotas seduzidas por homens fracos, mentirosos compulsivos. Não há violência física, mas o que faz uma mulher se sujeitar a objetos humanos como esse é fascinante e doloroso. Ambos os atores vivem momentos íntimos de partir o coração, de dor e felicidade. Eles têm uma criança. Ela acabou de nascer. Para Bruno é algo trivial. Mas ele precisa dela para sobreviver, não desabar como o ser abjeto que no fundo é. Vivendo de mentiras e pequenos furtos, ele vende o filho. E isso é natural para ele. O que segue é um estudo primoroso de personagens em situações que evocam um realismo aceitável para a trama. As rimas são concebidas pela dupla de diretores e roteiristas como a rotina do rapaz. Começa com ela, mas ele vira o protagonista. Ele tenta incessantemente reatar com ela. Seu tempo de liberdade está acabando. Ele não consegue se suportar. Que filme poderoso.
 

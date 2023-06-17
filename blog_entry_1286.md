@@ -1,23 +1,27 @@
 ---
-categories: []
-date: '2019-05-20'
-tags: null
-title: Dixit (Jogo)
+
+Django Livre é divertido moderadamente e possui um conteúdo pseudo-histórico de impacto que faz jus aos bons faroestes. Quentin Tarantino poderia ter futuramente, caso conseguisse controlar seu gigantesco ego, a mesma habilidade e maestria na direção que tornou Sergio Leone conhecido para sempre na história do Cinema.
+
+Poderia, mas não é dessa vez.
+
+Em plena época escravocrata do Sul dos EUA, a história gira em torno de Django (Jamie Foxx), um escravo que foi liberto por Dr. King Schultz (Christoph Waltz), um alemão caçador de recompensas. Agora ele precisa resgatar sua esposa de uma das maiores fazendas de algodão da época, controlada por Calvin Candie (Leonardo DiCaprio), um escravagista absoluto que utiliza os escravos não apenas para o trabalho duro mas também para sua diversão pessoal e cruel, fazendo-os lutar até a morte tais como gladiadores romanos.
+
+Só que para chegar nesse ponto o filme possui um longuíssimo prefácio que estabelece a relação de amizade entre Django e Schultz, além de criar e recriar ótimas cenas de ação que não apenas homenageiam o gênero, mas os principais diretores responsáveis por elevá-lo à sétima arte. A filmagem, feita com a técnica de CinemaScope que estabelece uma proporção de tela em torno de 2.35 por 1, torna tudo mais grandioso, assim como fez Sergio Leone em sua trilogia dos dólares. Mesmo assim, uma das cenas mais emocionantes tem sua finalização em uma tela quadrada, limitadas pelas portas de um celeiro e que juntam os dois protagonistas de maneira definitiva, o que comprova o conhecimento e a experiência do diretor em não ignorar o uso inteligente do espaço na tela.
+
+Porém, estamos em um filme Tarantinesco feito por Tarantino, e é lógico que os seus absurdos estão espalhados por toda a narrativa, como os dois fatos indissociáveis de Django atirar bem desde o primeiro momento em que pega em uma arma e os seus alvos explodirem em jorradas de sangue esteticamente impecáveis. Esse não é um problema, mas um detalhe de seu cinema autoral e que aqui se mescla com as técnicas emprestadas do próprio Leone e que também eram utilizadas como combustível para nossa imaginação, o que faz com que qualquer cena mais ou menos exagerada seja assimilada como um jogo de estilo. Já as cenas cruéis e violentas fazem parte do repertório do diretor, que consegue criar a tensão justamente escondendo os detalhes sórdidos dos atos iniciados por Calvin Candie, onde um homem devorado por cachorros é muito mais traumático de se ver na expressão estarrecida das pessoas em volta do que diretamente.
+
+Voltando aos detalhes culturais, a visão de Calvin Candie sobre o mundo é similar aos romanos instruídos, que se sentindo deuses perante seus servos, se deixa fascinar pelo que seus "macacos de circo" conseguem fazer. Aconselhado, no entanto, por um Samuel L. Jackson irreconhecível, revela-nos a informação vital de quem está verdadeiramente no comando de suas ações. Com uma trilha sonora elegantemente escolhida e uma faixa de músicas que tenta sempre trazer o conflito para os tempos atuais, a mescla de carruagens passando ao som de um rap diz muito sobre a mistura cultural que no filme se configura e que tanto nos fascina pela possibilidade de mescla. Tarantino prova aqui, ainda que talvez inconsciente e de forma metafórica, que o que nos torna mais fortes como seres humanos é justamente essa mistura de épocas, de culturas e conhecimento. Além disso, utiliza de maneira brilhante a costumeira surpresa dos cidadãos que veem um forasteiro por suas bandas pela mesma estranheza a respeito de um negro em cima de um cavalo, provando por contrastre que a ignorância nunca é algo saudável.
+
+Onde chegamos ao terceiro e decepcionante ato, onde talvez as participações inspiradas de Christopher Waltz e Leonardo DiCaprio tenham suas "parcelas de culpa", pois em ambas as ausências tornam o personagem de Jammie Foxx obviamente obliterado. Porém, o que fica óbvio é que Tarantino mais uma vez sabota sua própria obra, colocando o seu ego à frente dos eventos e criando uma reviravolta extremamente incoerente com um dos seus personagens no momento mais crucial da sua história, parecendo que com o único objetivo de fazer-nos ver mais tiroteio e chuvas de sangue estilizadas. O efeito para os fãs do diretor pode até funcionar, mas para os fãs do Cinema é um verdadeiro soco para fora do filme, que fica ainda maior quando nos deparamos com o próprio Tarantino atuando.
+
+Dizer que os últimos 20 minutos de filme estragaram toda a experiência é ser um tanto desonesto, mas não se pode negar que a maestria de Tarantino é tamanha que é incômodo constatar que esta foi boicotada por ninguém nada menos que... Quentin Tarantino.
+
 ---
-
-Uma festa com karaokê e jogos de mesa. O que pode surgir de interessante em um cenário millenial como esse? Um jogo de cartas que em sua simplicidade revela um intrincado sistema que soluciona todos os problemas que outros jogos de mesa costumam ter.
-
-Dixit é um jogo de cartas ilustradas que os competidores ficam em mãos e usam em toda rodada. Em cada rodada um deles vira o "narrador" e usa uma frase para descrever a carta que escolheu. Todos os outros competidores escolhem suas cartas que melhor se encaixam na descrição do narrador e sem saber qual a carta de cada um o objetivo é ter sua carta escolhida pelos outros.
-
-Porém -- e aí está o ponto-chave do jogo -- se a carta do narrador não for escolhida por ninguém ou for escolhida por todos ele não ganha pontos. O objetivo do jogo é incentivar nosso lado subjetivo e fazer com que apenas algumas pessoas te sigam nesse jogo de metáforas, enquanto outras não. E do ponto de vista dos outros jogadores o objetivo é que através de uma descrição que você não tem controle você escolha a melhor carta que se encaixe.
-
-A beleza do jogo está que as cartas em si podem significar muitas poucas palavras inequívocas, mas o narrador poderia detalhar completamente sua carta e perderia, ou poderia usar um termo muito vago e também perderia. O jogo incentiva não uma concordância total entre os jogadores, mas festeja a multiplicidade de visões. E além disso resolve uma série de problemas que jogos costumam ter.
-
-Resolve a universalidade, já que não há qualquer relação nem verbal nem cultural com as cartas em si, apenas com seus jogadores, e o sistema de votos usa simples números, outro traço universal. E ao mesmo tempo, se tratar-se de um grupo culturalmente diverso, explora as diferentes formas de cada pessoa enxergar os significados que as cartas podem ter. O jogo se torna até mais interessante quanto mais diverso for o grupo.
-
-Por depender unicamente da visão dos participantes do jogo ele também resolve a questão da idade (biológica ou mental), pois grupos de idades diferentes terão uma dinâmica diferente. Crianças e jovens usarão descrições das cartas de uma maneira completamente diferente dos mais velhos. Seja um grupo unicamente de velhos ou de jovens isso deve funcionar bem. Porém, mais uma vez, na diversidade de idades é que o jogo deve brilhar mais. Onde jogos geralmente perdem a graça quando são jogados por pessoas com idades e capacidades diferentes aqui o desafio é justamente o diálogo entre os dois mundos.
-
-Conforme jogos vão sendo jogados pelas mesmas pessoas cria-se o vício e logo torna-se manjado ganhar. Porém, em Dixit isso não ocorre, pois aquelas pessoas vão evoluindo a compreensão uns dos outros juntas. Então o mesmo conjunto de cartas vai servindo para diferentes formas de enxergá-las dos mesmos jogadores em níveis diferentes de experiência com o jogo. Com isso Dixit resolve o problema da novidade, enquanto que ao mesmo tempo permite a vinda de novas cartas, que não precisam se relacionar de uma maneira especial (apenas na mente dos participantes).
-
-Por fim, por incentivar a participação em seu núcleo, permitindo que todos ganhem pontos e interajam de maneira ativa em cada rodada, Dixit resolve também o problema da espera, em que muitos jogos os participantes ficam aflitos esperando a sua vez de jogar, que geralmente é o momento mais empolgante. Não nesse jogo. Todo momento é empolgante sempre, o que torna este o estado da arte do entretenimento de mesa. Simples, universal, participativo e criativo.
-
+categories:
+- writting
+date: '2018-10-07'
+link: https://www.imdb.com/title/tt7862998
+tags:
+- cinemaqui
+- movies
+title: Djon Africa

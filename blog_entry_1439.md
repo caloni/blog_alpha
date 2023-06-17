@@ -1,22 +1,14 @@
 ---
-
-Encontros é um abraço de "oi, sumido" em um mundo pós-apocalíptico. E por apocalipse eu quero dizer a pandemia que varreu as relações humanas para debaixo do tapete. Agora é a hora da reconstrução.
-
-O rápido filme em quatro atos do diretor coreano Hong Sang-soo (A Câmera de Claire) comenta em um melancólico e burocrático preto e branco reencontros entre amigos, amantes, família e profissionais. Todos após longo hiato. Há mudanças de expectativa o tempo todo na história. Inclusive troca de papéis no meio de uma sequência.
-
-Para fazer um carinho no caos iminente nas relações que tateiam o território do outro com cautela os diálogos são simples a ponto de serem esquecidos no meio da cena.
-
-A câmera estática e tímida quase nunca se move. Só quando precisa. Ela enfoca essa retomada de vidas com um otimismo honesto, mas evita construir rimas. A montagem é chapada, quase inexistente. 
-
-É um filme de teatro, onde as expressões dos atores comandam o tom, mas eles também estão tímidos. Tanto que quando um diálogo desajeitado -- e há mais de um -- é proferido sentimos vergonha alheia. Mas ninguém no recinto percebe.
-
-Não olhamos para Encontros com reação alguma e o filme não impõe sentimentos. É um acordo tácito e velado. Vamos com calma, um reencontro de cada vez. Afinal, há muitos "oi, sumido" aguardando na fila. E nem sempre saberemos se vamos conseguir de maneira adequada. Se é que lembramos o que era adequado antigamente.
-
----
 categories:
 - writting
-date: '2020-07-26'
-link: https://www.imdb.com/title/tt0335266
+date: '2014-06-21'
+link: https://www.imdb.com/title/tt1731141
 tags:
 - movies
-title: Encontros e Desencontros
+title: 'Ender''s Game: O Jogo do Exterminador'
+---
+
+Por que estão treinando crianças para guerrear contra um povo alienígena? Se já se passaram 50 anos, onde estão os jovens dessa geração? A função de Ender é explicada em mais da metade do filme, mas qual a função de todos os outros da equipe, e por que foram escolhidos? Todas essas perguntas podem permanecer sem resposta, pois "Ender's Game" é praticamente um folclore que tenta ensinar -- ou ao menos fazer pensar -- a respeito de nossa posição no mundo entre as diferentes espécies que ajudamos a ameaçar de extinção, o que gera uma última e fatal pergunta: onde está a ética que define a sobrevivência de qual espécie é a mais importante?
+
+O que comprova ser um folclore, e ainda infantil, é o uso de uma raça alienígena que se assemelham a formigas (quem nunca matou uma formiga na vida?) e o uso de jogos inofensivos para treinamento de combate. O fato do exército ser composto de crianças é um bônus por criar uma interessante discussão entre qual a diferença de enviar crianças para a guerra e jovens de 20 anos (cinco anos, sete no máximo)? Pois é exatamente isso que nossos países fazem, ou farão, se necessário. Jovens comandados pelos mais velhos cuja maior ambição não é diminuir o número de baixas, mas aumentar o número do outro lado do fronte.
+

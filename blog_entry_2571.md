@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2019-06-24'
-link: https://www.imdb.com/title/tt1473832
+date: '2016-02-09'
+link: https://www.imdb.com/title/tt1979388
 tags:
 - movies
-title: O Bebê de Bridge Jones
+title: O Bom Dinossauro
 ---
 
-Fui convidado a assistir um filme simples, dos que se desliga o cérebro. Tão simples que é a segunda continuação de uma história e você não precisa saber muita coisa ou nada de como anda esta novela em que Renée Zellweger fala com sotaque britânico admirável. Detalhe: ela é americana.
+É uma satisfação ver que a Pixar continua com sua vontade de arriscar de vez em quando, e possivelmente possui os desenhistas mais ambiciosos do mercado. O Bom Dinossauro é um trabalho estético e artístico admirável, que causa estranheza em alguns momentos, mas em outros faz valer totalmente a pena.
 
-Aliás, uma das piadas que funcionam tem a ver com nacionalidade: sua mãe fica horrorizada em saber que a filha pode estar grávida de um americano.
+Contando uma história simples, onde há 65 milhões de anos um asteróide NÃO bateu em nosso planeta, aqui os dinossauros falam e são agricultores pacatos, e os "humanos" ou humanoides ainda são criaturas primitivas que andam nas quatro "patas". Um dos dinossauros, Arlo (Jack McGraw/Raymond Ochoa), nasceu diferente, com suas pernas bambas, e não consegue ajudar muito a família, pois tem medo até das galinhas que alimenta todos os dias. Ao perder seu pai, as coisas pioram na fazenda, e ao se perder, pioram ainda mais. É quando ele conhece Spot (Jack Bright), um garoto humano que vira seu mascote de estimação.
 
-Mas este filme deveria ser mesmo um Orgulho e Preconceito dos tempos modernos. Temos Mr. Darcy na pele de Colin Firth com a erudição no nível exato em que você para de ser apenas intelectual e começa a ter problemas em se relacionar com as pessoas em volta. Ele nunca sorri, apenas de maneira doce, e sua postura é de um perfeito cavalheiro.
+Apresentando diferentes cenários, personagens e situações em uma espécie de "road-movie" exótico, o roteiro simples desenvolvido por sete pessoas praticamente não exige diálogos, embora eles estejam lá para os espectadores mais jovens, e para mostrar a inversão dos valores, quando os dinossauros são mais evoluídos que os humanos. E como um Avatar para crianças, apresenta diferentes espécies que juntas formam um mosaico pré-histórico regado com músicas de country (parece que os idealizadores do projeto também comeram da frutinha que gera alucinações).
 
-Infelizmente não temos a contraparte feminina, pois a personagem de Zellweger é apenas mais uma dessas que protagoniza comédias românticas. Todo o lado romântico se perdeu entre um filme e outro. Agora ela é Bridge Jones e não precisa provar nada para o mundo. Apenas realizar seu sonho de ter um bebê.
+No entanto, nem tudo é inovação. Se inspirando levemente em O Rei Leão, o uso mais uma vez de um trio de abutres, quer dizer, pterodátilos, soa repetitivo demais, e até desnecessário. No entanto, a participação especial de três "T-Rexes" é um ponto alto, além do próprio cenário contribuir para o maravilhamento espontâneo que surge ao observar uma natureza tão real que chega a parecer real (se não for).
 
-E o filme basicamente é sobre isso, com piadas e cenas criadas para isso. Hugh Grant ficou de fora, o que é uma pena, mas um outro bonitão chega no lugar, Patrick Dempsey, com mais discrição do que Grant e seu jeito canastrão inconfundível.
+Outros detalhes, mas esses incomodam um pouco, é a escolha pitoresca de uma cobra com patas cuidando de um fruto inacessível, além de uma outra família de humanos que difere a ponto de parecer outra espécie, mas nem tanto. A impressão que fica é que por algum motivo os produtores são tentados a não ofender alguns religiosos, sem coragem também para assumir esse "bem bolado", onde evolução e criação dão as mãos.
 
-Esta é a terceira parte de uma saga que parece ter chegado ao fim. Seu único momento britânico é quando dois machos alfa esmagam uma grávida em uma porta rotatória, podendo o filho ser de um deles. Todo o resto está americanizado e livre de momentos embaraçosos. Ou seja, um tédio que faz rir de vez em quando.
+Entregando uma conclusão satisfatória, com mais um momento Disney de fazer chorar (mas esse plenamente justificado), O Bom Dinossauro erra em pouquíssimos pontos e acerta na média. Uma diversão não tão boa para crianças pequenas, mas interessante para jovens e imperdível para adultos mais curiosos.
 

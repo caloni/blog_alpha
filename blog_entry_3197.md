@@ -1,31 +1,26 @@
 ---
 categories:
 - writting
-date: 2023-03-20
+date: '2011-10-17'
+link: https://www.imdb.com/title/tt0770703
 tags:
-- wine
-title: Pyros Appellation Syrah 2019
+- movies
+title: Qual Seu Número?
 ---
 
-Pyros é uma nova linha da Bodega Calia Alta. Não, não, tudo errado. Pyros na verdade é uma nova vinícola que nasceu do desejo por uma nova forma de expressão dos vinhos de San Juan, mais especificamente do Vale do Perdernal, uma região que apenas em 2008 recebeu sua denominação geográfica pela legislação argentina e que desde então vê nascer bodegas com uma nova personalidade, de uvas plantadas em um terreno único no país. Um terreno pré histórico e calcário.
+Aparentemente não há limites para a "criatividade" de Hollywood para comédias românticas. Quem diria que a Cindy (Anna Faris), da franquia Todo Mundo em Pânico, seria par romântico com o [Capitão América] (Chris Evans)? Um desafio interessante para ambos, visto que seus respectivos currículos de "menina fácil (e alvo de socos) em comédia-paródia" e "super-herói simpático" são ligeiramente diferentes nesse novo longa de Mark Mylod (Quem é Morto Sempre Aparece).
 
-Aprendemos sobre Perdernal visitando a bodega Callia lá em San Juan, a província ao norte de Mendoza. Calia foi comprada pelos donos da Sallentein, esta, sim, de Mendoza. Esses holandeses reconstruíram a bodega onde fica Callia, que era uma grande produtora de vinho em grandes quantidades.
+A história gira em torno da fascinação feminina pelas pesquisas de revistas femininas (nesse caso, a Marie Claire). Ally (Faris), durante os preparativos para o casamento de sua irmão Daisy (Graynor), percebe que o número de seus parceiros sexuais está ligeiramente acima da média nacional (o dobro) através de uma pesquisa da citada revista, e, de acordo com a mesma reportagem, mulheres que passam dos 20 parceiros acabam nunca se casando. Por coincidência, falta apenas um parceiro para que ela preencha os 20 redondos, e fatidicamente ela acaba preenchendo "a vaga" com quem não desejaria se casar. Desiludida, tem a "brilhante" ideia de reciclar seus ex-parceiros para conseguir não fugir às estatística da reportagem da revista feminina e evitar a maldição de ficar pra titia.
 
-Você talvez conheça o nome Calia Alta se gosta de vinho e frequenta o Outback, aquele restaurante australiano que se espalhou por São Paulo. A carta de vinhos do Outback é bem limitada, mas eles têm ótimos rótulos. Um deles é o Calia. Conheci o vinho lá e descobri ser fácil de achar nos mercados.
+Essa proposta inicial (!?) é o que precisamos para dar início à caça de seus ex-namorados. Com potencial para ser divertido, soa bobo na maior parte das piadas, ainda mais quando percebemos cedo que a história já tem final definido, como quase sempre em comédias do gênero, mas que aqui infelizmente ainda nem a reviravolta gera o mínimo de tensão nos personagens.
 
-Faz muito tempo que não frequento o restaurante, que não possui mais os cortes de carne que adorava, mas a paixão pelo vinho continuou. Isso me fez visitar a vinícola, aproveitando que estávamos de passagem durante a viagem de quase um mês pelo oeste viticultor argentino. A visita valeu muito a pena. Estava uma manhã tranquila e nossa guia foi ótima.
+Chris Evans, por sua vez, demonstra um apreço maior na simpatia de seu personagem, e é inevitável que ele ganhe carisma ao longo da trama, e esse inevitável é tanto por mérito de Evans quanto pela antipatia de Anna Faris, que parece mais determinada à comédia do que qualquer aspiração romântica que o filme possa ter.
 
-Foi lá que ficamos sabendo de vários detalhes dessa nova região a 90 km da cidade de San Juan e da própria vinícola Pyros, apresentada durante a degustação. Queridinha da região desde uns anos atrás quando ganhou uma competição as cegas na Coreia pelo título de melhor vinho, com competidores e especialistas de todo mundo. Esse evento fez o mundo virar as atenções para esta nova região.
+Consciente da espécie de "road-movie metafórico" produzido, o diretor tenta escolher transições de planos que acabam chamando mais atenção para si mesmo que para o que está ocorrendo na tela. Pior ainda, porém, são as inconstantes câmeras tremidas, cujo motivo desconfio seja forçar a urgência nas ações de Ally, mas basta um momento de pausa para percebermos que não há motivo algum para tanta pressa assim da personagem.
 
-O Syrah dessa edição de Pyros é aromático do tom violeta. Eu não tenho conhecimento treinado ou adquirido de Sommelier. Não nasci nem cresci em família de apreciadores de vinhos. Minha memória afetiva vem das próprias visitas sensoriais pelas vinícolas da América do Sul. E por causa disso Syrah me lembra um aroma… violeta. Essa é a palavra. Seu sabor para mim é um misto de vegetal e frutado. Quando o abri hoje para tomar comendo um hambúrguer não imaginava que fosse tão bom.
+Ciente da falta de emoção na maioria do longa, a trilha investe então na cena do casamento, apostando artificialmente em músicas românticas e consagradas em um volume nitidamente mais alto, tornando óbvio o desespero para que prestemos atenção ao destino de Ally (e é gritante a lição de moral "seja você mesma" jogada às pressas no terceiro ato, tanto que se aproveita da irmã, que até então era um simples adorno do roteiro, tanto que uma das músicas é de um cantor favorito de Ally).
 
-Agora relembro nossa viagem pela região. Foi no Pedernal que almoçamos em uma vinícola chique, a Graffigna. A paisagem era belíssima, mas os vinhos nem tanto, e não houve visitação. Mas foi a experiência mais incrível dirigir pela ruta e chegar no local.
+Bobo e infantil do começo ao fim, ao menos possui coerência interna, e uma seleção de músicas simpática. Mas é só.
 
-Calia fica mesmo em San Juan, cidade, no Vale de Tulum. Pedernal fica mais ao sudoeste, próximo das cordilheirs. Há mais três regiões de vinhos por lá: Ulum, a oeste da cidade; Vale de Zonda, mais a oeste ainda; e Callingasta, bem distante, entre a cordilheira e a pré.
-
-A garrafa que abri é da série Appellation, mantida em guarda de barricas francesas e americanas por 12 meses e seis meses em garrafa. Esta teoricamente é um exemplo característico do Syrah de Perdernal.
-
-O nome Pyros vem de fogo, referência ao solo de Perdernal, que pelo próprio nome lembra esse tipo de rocha calcária pré-histórica que se formou na região, única na Argentina, e que dizem as lendas foram usadas para produzir fogo por nossos antepassados. Essa pedra, do inglês flint, é muito fácil de produzir faíscas.
-
-Pyros também me ajudou a produzir faíscas, mas em minha mente. É daquelas surpresas que só quem mantém em sua adega rótulos que prefere não saber quanto custaram nem se ficaram de guarda pode ter. Todas essas descobertas em torno do vinho vieram depois de degustar. Mas assim como a pedra calcária do vale onde suas uvas foram produzidas, ele já tinha potencial de gerar faíscas, traduzidas em sinapses dentro do meu cérebro.
+[Capitão América]: {{< relref "capitao-america-o-primeiro-vingador" >}}
 

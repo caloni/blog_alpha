@@ -1,30 +1,23 @@
 ---
 categories:
 - writting
-date: '2011-09-05'
-link: https://www.imdb.com/title/tt0110357
+date: '2017-08-06'
+link: https://www.imdb.com/title/tt4685554
 tags:
+- cinemaqui
 - movies
-title: O Rei Leão
+title: 'O Reino Gelado: Fogo e Gelo'
 ---
 
-O Rei Leão visto como deve ser visto, ou seja, em 2D, consegue impressionar pela síntese dramática que escolhe para não tornar o programa demasiadamente infantil para o seu principal público-alvo (as crianças) mas consegue se manter íntegro e representar de maneira irretocável a contribuição Disney para manter viva a lenda e uma das peças mais conhecidas de Shakespeare: Hamlet.
+O Reino Gelado é a continuação da continuação de uma série de animação russa fora do circuito Disney/Dreamworks, então não é um filme que se possa esperar o ápice de qualidade dos grandes estúdios. E mesmo assim não deixa de ser uma aventura razoável, com história feita para televisão, mas com efeitos que lembram como hoje há uma acessibilidade incrível a efeitos digitais que antigamente demandavam anos e muitos milhões.
 
-Quando eu digo íntegro quero dizer que até mesmo temas que hoje em dia são covardemente evitados mesmo entre o público adulto como a morte e o sexo são inseridos na narrativa e com direito a uma trilha sonora excepcional, que consegue oscilar dinamicamente entre a comédia e o drama épico como ondas que se formam durante a história.
+Aqui a história continua a partir dos dois irmãos que depois de derrotar a Rainha de Gelo se tornaram órfãos, e ganham a vida indo de escola em escola narrando suas aventuras que se tornaram lendas. Mas reviver tudo isso e não possuir uma família está desgastando a relação entre os dois, até que um jovem espanhol os traz uma nova lenda a respeito de uma fonte de desejos, despertando o interesse da menina em conseguir ter seus pais de volta.
 
-Criando personagens de maneira econômica, mas que se firmam na narrativa pelo que representam, o macaco sábio, os palhaços salvadores de Simba, a princesa como elo com o passado, o criado fiel , a história se entrelaça de maneira simples o suficiente para que os espectadores infantis entendam o destino de Simba, mas de forma complexa o suficiente para que entendamos toda a filosofia por trás da alegoria com animais, como o reino decadente e o significado da nobreza.
+O Reino Gelado é uma espécie de reimaginação de vários trabalhos que lidam com reinos, mistérios e magia. Muitos irão se lembrar de Frozen: Uma Aventura Congelante, pois é inevitável. Aqui fogo e gelo se tornam forças sobrenaturais que se unem para destruir os trolls e os outros habitantes daquela região.
 
-Com uma conclusão que aspira por aplausos em pé, o uso da metáfora do círculo da vida nunca foi tão significativo e poderoso.
+A dublagem brasileira deixa a desejar pela artificialidade das falas, mas ao menos não há muitos regionalismos, algo cada vez mais comum nas grandes produções. Já o uso de efeitos rebuscados em exaustão entretém um pouco, pois há belos momentos no filme, mas a falta de uma narrativa que acompanhe nossa imaginação sempre coloca a experiência abaixo do que poderia ser.
 
-Voltando agora da sessão 3D (leia-se: mutilada) do clássico dos clássicos da Disney, mas ainda me custa a entender por que esse desenho, em detrimento de tantas produções mais criativas, é tão supervalorizado pelas plateias.
+A trilha sonora do italiano Fabrizio Mancinelli é um exagero. A música faz questão de acompanhar todas as cenas, e pontuar cada pedacinho da ação, seja drama ou comédia. Mas o mais irritante é a comédia. Baseando-se nos toques clichês de cada momento, a música chega a incomodar mais do que as falhas de roteiro, pois tenta nos convencer de que as cenas são muito mais do que é mostrado.
 
-É óbvio que a trilha sonora é magnífica, e consegue oscilar perfeitamente entre as cenas dramáticas, de ação e de humor, como podemos ver pela leveza da música-lema de Timão e Pumba, em detrimento ao clima sombrio e ameaçador dos toques sufocantes da fuga para os espinheiros. Da mesma forma, a sequência do estouro dos antílopes consegue unir de maneira completamente orgânica o trotar das centenas de animais em disparada e o tema composto por Hans Zimmer para a cena, que evoca um misto de urgência e perigo, caindo no final, para um melancólico destoar.
-
-Já a fotografia, marca registrada das produções 2D da Disney, consegue se expressar aqui com o uso de traços que lembram aquarela, ainda que mantenha sua precisão. E perceba como o humor de Simba e do reino de seu pai é determinante para a palheta dominante, e perceba como o acizentado sombrio e desconfortante da morada das hienas toma o lugar que antes era cheio de cores vivas e em movimento.
-
-Da mesma forma, o roteiro segue uma coerência inatacável, embora a força da história esteja justamente em sua simplicidade que deve conseguir tocar o coração de pessoas de todas as idades. Muitos dizem que O Rei Leão evoca um tema Shakesperiano, e muito provavelmente a alma de Shakespeare passeia pelo reino de Mufasa e seu ciclo da vida.
-
-Porém, ainda que tenham passados meros 17 anos de sua estreia (pouco para se transformar realmente em um clássico), seu envelhecimento no que diz respeito ao timing cômico, ou mesmo algumas piadas (assisti à dublagem brasileira) cheiram levemente a datadas.
-
-Mas quem sou eu para criticar um filme tão bem feito e tão amado por crianças e adultos de todas as idades.
+Tentando criar uma nova aventura de carona nas animações anteriores, O Reino Gelado é previsível e enlatado, mas ainda assim pode entreter os espectadores mais jovens em uma ou outra piada. Mas se para isso é necessário passar por uma história que não é lá muito empolgante, é melhor procurar os enlatados de Hollywood, mesmo.
 

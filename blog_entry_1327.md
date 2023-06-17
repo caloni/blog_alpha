@@ -1,11 +1,11 @@
 ---
+
+Uma das cervejas dessa cervejaria de Nova Lima, próximo de BH, mas tomado em Diamantina (no restaurante de esquina próximo da descida).
+
+---
 categories:
 - writting
-date: '2018-01-05'
+date: '2018-08-08'
 tags:
 - beer
-title: Dos Caras American Wheat
----
-
-Para um trigado não muito doce nem denso. Tomado no Pub Catedral.
-
+title: Double Hop Monster IPA

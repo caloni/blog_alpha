@@ -1,28 +1,123 @@
 ---
-
-"Fortran é uma nova e excitante linguagem usada por programadores para se comunicar com computadores..." -- começa lendo Dorothy Vaughan, líder das programadoras de cor da NASA. É difícil imaginar como uma espécie tão irracional a ponto de subestimar a mente humana baseada na cor e sexo do corpo que a carrega teria conseguido chegar até ao espaço. Assistindo a Estrelas Além do Tempo torna-se difícil imaginar como colocariam um homem branco orbitando o planeta se não fosse pela genial mente humana de Katherine G. Johnson, uma mulher, negra, e gênio.
-
-Dirigido por Theodore Melfi a partir de seu roteiro e de Allison Schroeder, baseados no romance de Margot Lee Shetterly, Hidden Figures (o nome original) como filme de ação é quase uma continuação temática de Perdido em Marte. Só que agora em vez de acompanharmos um astronauta e cientista interpretado por Matt Damon visitaremos um escalão abaixo: o dos engenheiros e matemáticos que tornaram a própria viagem espacial possível. E isso em uma época onde "computador" era o nome dado a alguém, uma pessoa, que computava, ou seja, fazia cálculos. Havia uma sala cheia dessas pessoas. Os primeiros grandes computadores da IBM, os mainframes, que hoje cabem no bolso de cada um (chamamos de celulares), mas antes ocupavam uma sala inteira, estavam apenas começando a chegar, e ainda havia muito trabalho a ser feito manualmente. Havia tanto trabalho que a NASA estava disposta a, em plena segregação norte-americana, trazer tanto os cérebros caucasianos quanto os cérebros afro-descendentes para trabalharem juntos.
-
-Quer dizer, "juntos" é um eufemismo mais do que forçado, já que havia a tradicional separação de salas, de bebedouros e de banheiros. E, no caso das mentes avançadas dos matemáticos, separação entre os cafés. Além disso, frequentemente sendo impedidas de subir em suas carreiras, as negras que ali trabalhavam ainda precisavam se subordinar a uma hierarquia de brancas, em que a imagem de Kirsten Dust como a "bitch" do local não poderia soar mais adequado.
-
-É nessa atmosfera inóspita e pouco atraente que acompanhamos três mentes brilhantes avançarem em seus campos de estudo e trabalho e ainda por cima se desvencilhando da ignorância e do preconceito. Apenas apoiando uma à outra é que Katherine (Taraji P. Henson), Dorothy (Octavia Spencer) e Mary (Janelle Monáe) podiam suportar trabalhar entre os brancos e tocar suas difíceis vidas. E mesmo se conseguimos sentir essa dificuldade, quase nada no filme é dramatizado, e tudo faz muito sentido histórico. Não há muitas situações que reforcem a mensagem do filme, mas há muitas cenas que o diretor Theodore Melfi consegue resumir em poucos quadros a loucura que estávamos vivendo. Para mim, bastam os inúmeros momentos onde vemos o diretor dos matemáticos Al Harrison (Kevin Costner) conversando com seu time, todos de uniforme branco, e um ponto verde escuro, Katherine, isolada da massa zumbificada.
-
-Porém, apesar de imensas equipes de cientistas para todos os lados, esse é um filme que acima de tudo celebra a conquista individual de cada um, e mesmo que ele tente levar no embalo uma raça inteira, fica óbvio que o mérito é completamente dessas garotas e sua determinação de fazer o que é certo: seguir adiante.
-
-Há diversas interpretações competentes neste elenco, em que Kevin Costner é a mais simpática justamente por parecer mais real (do elenco masculino). No entanto, Taraji P. Henson entrega em Katherine uma figura complexa apenas através da sua caracterização de uma nerd de verdade, e não os estereótipos da série The Big Bang Theory (Jim Parsons, o "Sheldon", está no filme, BTW). O inabalável foco e determinação da garota apenas encontram empecilhos nos preconceitos em sua volta, e é não apenas tocante, mas compreensível em um nível que vai além da mera linguagem corporal, constatar o medo de Katherine sempre que entra em uma nova sala onde normalmente não seria aceita exceto para limpar as mesas. Os olhares de estranheza dos presentes é menos assustador do que a falta de cérebros no recinto, já que o que vemos é apenas o reflexo irracional de uma cultura desprezível por definição, e quando somos lembrados da importância dos esforços da NASA para com a nação ocorre um misto de reverência pela capacidade humana, mas desgosto por entendermos a quem esses esforços estão servindo.
-
-Se dessa vez a trilha sonora de Hans Zimmer (A Origem) equipado por Benjamin Wallfisch (12 Anos de Escravidão) e Pharrell Williams (O Espetacular Homem-Aranha 2) é mais sutil, perene e eficiente, quem se sai maravilhosamente bem é a fotografia de Mandy Walker, sóbria e ao mesmo tempo eterna e saudosista, se beneficiando dos tons esverdeados e azulados dos anos 60, que enfeitam salas feitas de paredes cinzentas como uma marca de uma era. E vemos tudo isso ao mesmo tempo como um retrato vivo da época. O próprio figurino de Renee Ehrlich Kalfus, evitando distrações, consegue auxiliar os grandes momentos visuais do projeto, que em apenas um quadro resumem toda a grandiosidade daqueles momentos, visto do ponto de vista de quem mais importou para o programa espacial: os cabeções dentro de escritórios, lutando para descobrir a matemática certa que irá executar o impossível.
-
-Sim, o filme é obviamente também sobre o racismo, e está entrando no Oscar infelizmente com a marca das cotas raciais depois do escândalo do ano passado, quando diziam que a premiação estava "muito branca". Sem estarem cientes, essas pessoas cometem o mesmo erro em subvalorizar o sucesso de cada indivíduo através de seu próprio esforço, influenciando medidas que soam como compensatórias, e isso sim de fato é um escândalo. Se Katherine tivesse sido selecionada por um sistema de cotas para adentrar no recinto cheio de caucasianos de uniforme branco, possivelmente a história seria outra, e ela não seria vista como a heroína que é hoje. Aliás, qualquer herói, independente de cor, raça e gênero, poderia jamais brilhar, se "dependesse" do aval da grande massa de ignorantes dando-lhe o privilégio de viver conforme regras coletivistas.
-
-Há muita coisa que podemos aprender sobre a corrida espacial da NASA e sobre essas três garotas. E definitivamente nenhuma delas tem a ver com o poder do coletivo. É justamente o contrário que move a humanidade. Afinal de contas, é o coletivo que obriga um gênio a correr em seu serviço quilômetros todos os dias apenas para usar o banheiro. Se pessoas como Einstein e Euler tivessem nascido mulher e negra, provavelmente estaríamos um pouquinho ainda mais atrasados no programa espacial.
-
----
 categories:
-- reading
-- writting
-date: '2018-07-17'
-tags:
-- books
-title: Estrutura de Roteiro
+- coding
+date: '2014-05-20'
+link: https://www.youtube.com/watch?v=zn7-fVtT16k
+tags: null
+title: 'Estruturas VS Classes: fight!'
+---
+
+Uma dúvida besta e importante ao mesmo tempo que muitos iniciantes em C++ possuem é saber qual a diferença entre um objeto declarado como _class_ e um objeto declarado como _struct_. A causa dessa dúvida é uma linguagem que se derivou de outra (C) que não possuía classes, e portanto criou a palavra-chave _class_ para "ficar bonito", pois, na prática, não muda muita coisa. Tomemos como exemplo o código mais simples de todos:
+
+```
+struct MinhaEstrutura
+{
+};
+
+class MinhaClasse
+{
+};
+
+int main()
+{
+    MinhaEstrutura me;
+    MinhaClasse mc;
+}
+
+```
+
+Ele compila e roda sem problemas:
+
+{{< image src="APlOm65.jpg" caption="StructVsClass" >}}
+
+"Estruturalmente" falando, **MinhaEstrutura** e **MinhaClasse** são idênticas, pois são os detalhes de sintaxe que diferem, e diferem pouco. Abrindo o jogo, a única diferença que poderá ser sentida em usar um ou outro é que **structs possuem seus membros públicos por padrão e classes possuem seus membros privados por padrão**. Apenas isso. O resto, nada muda.
+
+Isso pode ser visto quando adicionamos um construtor para nossos tipos de teste:
+
+```
+struct MinhaEstrutura
+{
+    MinhaEstrutura() {}
+};
+
+class MinhaClasse
+{
+    MinhaClasse() {}
+};
+
+int main()
+{
+    MinhaEstrutura me;
+    MinhaClasse mc;
+}
+
+```
+
+{{< image src="vwpucpm.jpg" caption="StructVsClass-Construtor" >}}
+
+Antes não havia problemas para **MinhaClasse** porque o construtor padrão criado para ela é público por default. Porém, explicitando no código um construtor e deixando sua privacidade ligada por padrão temos esse erro que NÃO ocorre em **MinhaEstrutura**.
+
+Mas, então, posso criar todas minhas classes usando a palavra-chave struct?
+
+Isso mesmo! Nada lhe obriga tecnicamente a usar class. Porém, assim como nada lhe obriga a usar uma linha para cada comando na linguagem ¿ afinal, todos poderiam estar na mesma linha separados por ponto-e-vírgula ¿ o uso da palavra _struct_ para classes no sentido de "objetos que possuem inteligência, métodos, herança, polimorfismo e outras firulas" não se enquadra nas boas práticas dos programadores C++.
+
+Geralmente uma _struct_ é uma forma de concatenar tipos primitivos e só. Algumas liberdades além disso geralmente são permitidas, mas desencorajadas, como um construtor que inicia os membros da _struct_ com valores-default.
+
+```
+#include <iostream>
+
+struct MinhaEstrutura
+{
+    MinhaEstrutura()
+    {
+        x = 0;
+        y = 2;
+        c = 'C';
+    }
+
+    int x;
+    int y;
+    char c;
+};
+
+int main()
+{
+    MinhaEstrutura me;
+    std::cout << "x: " << me.x << ", y: " << me.y << ", c: " << me.c << std::endl;
+}
+
+```
+
+{{< image src="rdpllNf.jpg" caption="StructVsClassStructConstructor" >}}
+
+E, por que não, uma sobrecarga do operador de stream para imprimirmos diretamente os valores de **MinhaEstrutura** para a saída com apenas um comando?
+
+```
+#include <iostream>
+
+struct MinhaEstrutura
+{
+    MinhaEstrutura() { x = 0; y = 2; c = 'C'; }
+    int x; int y; char c;
+};
+
+std::ostream& operator << (std::ostream& os, const MinhaEstrutura& me)
+{
+    std::cout << "x: " << me.x << ", y: " << me.y << ", c: " << me.c;
+    return os;
+}
+
+int main()
+{
+    MinhaEstrutura me;
+    std::cout << me << std::endl;
+}
+
+```
+
+{{< image src="np4trf9.jpg" caption="StructVsClassStreams" >}}
+
+Enfim, não há nenhum limite que se aplica a uma _struct_ além do bom senso. A criação da palavra _class_ não foi por falta do que fazer. Ela diz claramente que estamos definindo um objeto que contém usos mais adequados à orientação a objetos de C++ do que a programação estruturada de C, e vice-versa. É uma forma de tornar o código mais legível, mas nada do outro mundo. Sabemos, no final das contas, que o compilador trata as duas (quase) da mesma maneira.
+
+Qual será a próxima batalha épica? Você escolhe!
+

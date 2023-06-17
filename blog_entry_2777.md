@@ -1,27 +1,28 @@
 ---
 categories:
 - writting
-date: '2017-12-09'
-link: https://www.imdb.com/title/tt5503688
+date: '2011-11-17'
+link: https://www.imdb.com/title/tt1637688
 tags:
-- cinemaqui
 - movies
-title: O Poder e o Impossível
+title: O Preço do Amanhã
 ---
 
-Esse é um filme que teria de tudo para não dar certo, ser clichezão, etc. Ele lembra 127 horas, mas enquanto James Franco não é um exemplo de empatia o ator Josh Hartnett atinge a glória ao nos preocuparmos com seu destino, mesmo que na neve ele seja um completo idiota.
+A grande sacada do gênero de ficção-científica, tanto no cinema quanto na literatura, é conseguir discutir alguma questão da sociedade atual sob a ótica de um mundo fantasioso. Para isso, as pessoas são colocadas em situações em que normalmente não existiriam, mas que lembram ou simbolizam uma questão do mundo real, ainda que encoberto de uma aura futurista.
 
-E, sim, essa é a ideia que quiseram passar para caracterizar o jogador de hóquei Eric LeMarque. Ele é um idiota, comeria até neve se pudesse (ao contrário do que se poderia pensar, ela desidrata em vez de ajudar na sede). Ele está isolado em uma cabana na neve, faz snow boarding para se manter ativo, e é viciado em drogas em recuperação gradual. O mundo fica mais focado depois que ele ingere da substância, em uma ótima ideia para tornar isso visível para o espectador.
+Este é um mundo onde as pessoas são geneticamente modificadas para não envelhecerem a partir dos 25 anos. Porém, como tudo tem um preço, este passa a ser o próprio tempo de vida que essas pessoas possuem, pois do contrário viveriam para sempre. Dessa forma, o próprio filme entrega a conclusão (óbvia) da trama antes mesmo de seu protagonista ser informado, o que já revela um problema eminente na argumentação do filme como um todo: estaremos nós, espectadores, sendo subestimados, ou existe algo mais inteligente por vir?
 
-Falei que a história lembra 127 horas porque assim como o filme de Danny Boyle, o esportista aqui vem de uma história real e fica preso em uma situação de vida ou morte. Conforme o tempo passa surgem os flashbacks sobre sua infância dura com o pai abusivo e sua relação de amor e ódio com o hóquei. E também nesse sentido a história encaixa melhor, já que o nosso passado geralmente tem a ver com nosso presente. E no formato de filme isso evita longas exposições, o que tornaria o drama atual fraco demais.
+A forma didática, repetitiva e até irritante com que o diretor nos mostra como são feitas as transferência de recursos entre as pessoas desse mundo demonstram não só certa indulgência com a "fabulosa" ideia que o roteirista-diretor supostamente teve como a incrível insegurança em seu espectador, com medo de que este não entenda algo que todos estamos acostumadíssimos a compreender, tanto que até existe um ditado que traduz isso diretamente: "tempo é dinheiro".
 
-E o ator Josh Hartnett se aproveita de todas as oportunidades em que ele sente dor. Sua perna está contundida porque ele é um idiota, tinha se trancado do lado de fora de sua cabana e arrombou a porta com os pés descalços. Isso em um frio de 10 graus negativos é um senhor incômodo, mas a menos trinta é a certeza de morte. Assim também o vê a gerenciadora de riscos e resgate Sarah (Sarah Dumont), que só descobre que há alguém sumido em sua região alguns dias depois. Mira Sorvino faz a mãe do rapaz, a única pessoa que o apoia. A única amiga.
+Algumas ideias interessantes: New Greenwich (divisão em fusos horários) e a pressa dos pobres em realizar as tarefas comuns. Como tudo tem um preço, estipular uma taxa abusiva entre os fusos é o mesmo motivo pelo qual algumas pessoas viajam de ônibus e outras de avião em nosso mundo (ou moram em uma determinada região menos favorecida, em detrimento à região mais rica, porém com um custo de vida muito maior).
 
-O roteiro do estreante Madison Turner se aproveita do livro do próprio LeMarque e Davin Seay e conta uma história que vai apresentando os acontecimentos no gelo dia após dia que demonstra como quando praticamente tudo que pode dar errado dá errado ficamos entre a vida e a morte. Claro que a todo momento o longa frisa que de fato LeMarque é um completo ignorante sobre sobrevivência no gelo, e que graças à sua garra e sua vontade de viver ("não posso deixar que ela (a mãe) me veja assim") é que ele vai durando mais tempo do que deveria.
+Com um arsenal enorme de piadas prontas, já que dinheiro e tempo sempre estiveram relacionados até em nossa própria sociedade (embora eu confesse ter gostado da reinvenção da frase "Don't waste my time").
 
-Mas se não fosse pelo diretor Scott Waugh este filme seria bem sessão da tarde. Graça a ele e sua escolha da mise en scene somos levados a crer em toda a desorientação do rapaz, em como o frio interfere em nosso julgamento, em como a fome nos faz tomar más decisões e em como aos poucos nossa humanidade vai sendo drenada pela mãe natureza e sua fúria irracional. Tudo em volta de LeMarque está contra ele, e ele não possui nada, exceto sua força de vontade, para continuar existindo.
+Pessoas não precisam morrer, pois há tempo para todos (mas não há espaço) se revela ingênuo, pois é fácil fazer a transição entre as expressões tempo e espaço para dinheiro e recursos em nosso mundo real. Logo, não há de fato nada de novo nessa abordagem.
 
-Mas ele é drenado aos poucos, e Waugh sabe disso. Sua cara vai queimando aos poucos. Sua perna vai ficando vermelha aos poucos. Ela apodrece. Ele come um pedaço dela. O desespero do rapaz é crescente. Não explode de repente. E é em um determinado momento que o filme demonstra todo seu potencial dramático sendo aproveitado: LeMarque está deitado. O quadro é um plano-detalhe extremamente próximo do seu rosto cheio de gelo, queimaduras e sua pouca barba. Seu pelo no rosto forma uma "cena" pitoresta que lembra os pinheiros na neve. LeMarque se transformou na neve. Ele está completamente tomado. É um momento solitário, silencioso e dramático não porque a música insiste, mas porque a situação simplesmente não poderia ser diferente.
+Chega a repetir duas vezes que o custo de uma ligação de um minuto custa... um minuto. Além do som da transferência de tempo ser tão repetitiva quanto a câmera insistentemente mostrando os braços juntos.
 
-O Poder e o Impossível é um filme forte e tenso. Não é uma história com um final feliz tão fácil assim. É um ritual de passagem. Talvez para um amadurecimento. Isso não fica totalmente claro. Mas é menos de sobrevivência e mais de compreensão do que é a vida. Se para isso LeMarque teve que ressuscitar, é algo que se deixa para a interpretação do espectador.
+Depois que as cenas de ação são exauridas, o filme perde o fôlego, o que acaba denunciando a falta de ideias além de seu argumento inicial. Os personagens ficam patinando em suas posições, à espera de mais cenas de ação, pois não há, de fato, mais filosofia a ser aplicada (nem trocadilhos com relação a dinheiro).
+
+Depois da sessão, confesso que não consegui pensar em como desenvolver o argumento do filme de uma forma mais... produtiva. Isso explicaria, em partes, porque o diretor do filme é o roteirista e o próprio produtor. Ninguém mais compraria uma ideia como essa para produzir um filme de milhões... nem que tivesse tempo sobrando.
 

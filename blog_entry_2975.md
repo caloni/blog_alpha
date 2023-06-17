@@ -1,15 +1,16 @@
 ---
 categories:
-- coding
-date: '2020-08-04'
-title: Pacotes Nuget Again
+- writting
+date: '2013-12-22'
+link: https://www.imdb.com/title/tt0388473
+tags:
+- movies
+title: Padrinhos de Tóquio
 ---
 
-Agora que mexo com .net no trabalho surgem problemas de "marinheiro de primeira viagem" (na verdade já mexi com o framework, mas há muitos anos). O que me fez gastar mais horas à toa sem dúvida é o versionamento dos pacotes nuget que viram dependências simples de colocar e difíceis de mexer.
+Essa animação natalina japonesa segue os mesmos moldes do ótimo Paprika, também dirigido e escrito por Satoshi Kon e co-dirigido por Shôgo Furuya, que já havia trabalhado como animador em A Viagem de Chihiro (2001). Quando digo os mesmos moldes me refiro à caracterização exagerada e satirizada da realidade que cerca os personagens. As expressões de rosto absurdas, tão comuns no anime, aqui funcionam em parte pelo seu humor e não funcionam em parte pela sua dramatização exagerada.
 
-Nesse problema em específico de tratava da lib Castle.Core na versão 4.4.0. Durante a compilação tudo estava lindo e maravilhoso. Porém, na hora de rodar, a exceção de I/O dizendo que não conseguiu carregar o assembly na versão certa pula na minha frente.
+A história gira em torno de uma criança encontrada no lixo por três moradores de rua, sendo que os três também foram abandonados pelos seus pais. Formam uma família torta, onde o "pai" é um vagabundo irresponsável e a mãe é um gay. Nas ruas de Tóquio pode-se esperar de tudo, menos compaixão. Essa família, no entanto, se une em torno de seu passado aparentemente semelhante de abandono.
 
-Pesquisa de lá, pesquisa de cá, fuça de cá, fuça de lá, encontrei acho que pela segunda vez a solução. Se trata mesmo da versão errada sendo utilizada, mas não na compilação, mas na execução. É preciso definir a versão correta no arquivo de configuração.
-
-Feito isso todo o mundo maravilhoso de .nerd volta a fazer sentido.
+A fraqueza do filme reside em seu roteiro cheio de coincidências que insistem em aparecer em momentos onde elas não são chamadas. Quebram o ritmo de uma história tão envolvente quanto bem desenhada. É uma pena, portanto, que boa parte dos seus momentos sejam estragados no final por uma "revelação" completamente desajeitada. OK, é um conto de natal. OK, estamos falando de uma fábula. Mas veja os fantasmas de Scrooge: surreal, natalino e eficiente.
 

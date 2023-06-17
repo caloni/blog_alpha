@@ -1,67 +1,28 @@
 ---
-
-Tantas linguagens hoje em dia tentando implementar a abstração de corrotinas e inserindo mais camadas de abstração (fibras e cereais)... há duas implementações já no Boost, ambas dependendo de uma biblioteca de contexto de stack que é dependente de arquitetura (programada em Assembly).
-
-E aqui está a linguagem C com sua elegância, minimalismo e a filosofia "just works", por mais ou menos 50 anos.
-
-Estava pesquisando sobre bibliotecas de corrotinas em C e encontrei a [Picoro](http://dotat.at/cgi/~fanf/dotat/~fanf/dotat/git/picoro.git), de Tony Finch. O repositório pode ser baixado em git://git.chiark.greenend.org.uk/~fanf/picoro.git. Três coisas me encantaram nela: 
-
- 1. portabilidade (fácil de testar em qualquer arquitetura).
- 1. simplificade (um header e um .c com menos de 200 linhas, e a maioria são comentários).
- 1. manutenção (o último commit é de 2010, ou seja, ninguém mais mexeu nela por nove anos).
- 
-Ela é uma biblioteca feita para resolver o problema mais básico de toda corrotina: troca de contexto. Isso é feito de maneira descentralizada, embora ela inicie com uma corrotina principal: a primeira que constrói uma corrotina. A partir dessa é possível criar outras e dar resume em qualquer uma delas que não tenha terminado.
-
-A linguagem C já implementa troca de contexto através das funções padrão `setjmp` e `longjmp`. Há um tipo dependente de arquitetura, `jmp_buf`, que é usado para guardar o contexto. O salto é feito no estilo da função `fork` do Unix, ou seja, não há inclusão de mais nenhuma sintaxe diferente do usual: é um if que retorna 0 (contexto principal) ou não-0 (estamos em outro contexto).
-
-O picoro organiza tudo isso em torno de uma lista ligada. Aliás, de duas listas ligadas: `running` e `idle`, onde o head de cada uma delas é usado para verificar se há corrotinas paradas ou em execução. Há algumas regras básicas para que tudo funcione. Por exemplo, uma corrotina que já foi executada até o final ou que está bloqueada pela chamada de `resume` não pode ser posta para rodar.
-
-Vamos começar com um exemplo simples: apenas um corrotina que recebe um inteiro e incrementa três vezes. A cada vez que ele incrementa ele devolve o controle de execução via yield. O `main` cria três dessas corrotinas e dá resume em cada uma delas três vezes, finalizando a execução de todas. Ao final, o counter final é de 9.
-
-```
-#include "..\picoro\picoro.h"
-#include <stdio.h>
-
-void* mycoroutine(void* arg)
-{
-	int* counter = (int*) arg;
-	(*counter) += 1;
-	yield(arg);
-	(*counter) += 1;
-	yield(arg);
-	(*counter) += 1;
-	return arg;
-}
-
-int main()
-{
-    int counter = 0;
-	int i;
-	coro coroutines[3];
-	int maxi = sizeof(coroutines) / sizeof(coro);
-
-	for (i = 0; i < maxi; ++i)
-		coroutines[i] = coroutine(mycoroutine);
-
-	for (i = 0; i < maxi; ++i)
-		resume(coroutines[i], &counter);
-	for (i = 0; i < maxi; ++i)
-		resume(coroutines[i], &counter);
-	for (i = 0; i < maxi; ++i)
-		resume(coroutines[i], &counter);
-
-    printf("final counter: %d\n", counter);
-	return 0;
-}
-```
-
-É importante observar que o uso de troca de contexto pode facilmente consumir a pilha, pois ela está sendo compartilhada com muitas funções em paralelo. Para reservar espaço a `coroutine_start` aloca um array de 16 KB (fixo). Esses detalhes de implementação podem ser alterados, pois a biblioteca é tão mínima e simples de entender que construir qualquer coisa em cima dela é trivial.
-
----
 categories:
 - writting
-date: '2018-01-13'
-link: https://www.imdb.com/title/tt5607714
+date: '2019-07-24'
+link: https://www.imdb.com/title/tt0217869
 tags:
 - movies
-title: Corpo e Alma
+title: Corpo Fechado
+---
+
+O que segura Corpo Fechado do começo ao fim é o seu tema, que se resume em uma pergunta, a mais instigante das perguntas: seriam os heróis dos gibis exageros do mundo real?
+
+Essa não é uma pergunta tão ingênua a ponto de soar fantástica, pois basta observar os mitos antigos e os livros sagrados e seus inúmeros milagres relatados para perceber que o mundo já está cheio de imaginação e metáforas nas artes e cultura. Gigantes podem ser pessoas que nasceram com estatura muito acima do normal e monstros pessoas muito feias/repugnantes. Por que não super-heróis não seriam versões exageradas e idealizadas de seres humanos com algumas habilidades que soam sobrenatural a qualquer outro ser humano medíocre?
+
+M. Night Shyamalan é o típico diretor/roteirista/produtor que adora discorrer sobre esse tipo de questão. Em O Sexto Sentido ele explora o sobrenatural além-vida, e aqui, em seu segundo filme de sucesso (descartar seus dois primeiros, Praying with Anger e Olhos Abertos), Shyamalan adentra no universo alternativo dos gibis.
+
+Digo alternativo porque desde que me conheço como gente meus amigos fãs de HQs sempre citaram a dualidade eterna de Marvel e DC. Não havia muito espaço para fugir do padrão comercial de criar meia-dúzia de heróis e vilões e comercializar infinitas histórias com esses mesmos personagens. Aqui há uma espécie de fenda no espaço-tempo onde o personagem de Samuel L. Jackson, Elijah Price, vira um colecionador e especialista em verdadeiras obras de arte, quase como a versão HQ do que chamamos de "cinema alternativo" ou "cinema de arte".
+
+Esse interesse de Elijah surge desde criança, incentivado pela mãe a sair pelo menos para o parque em busca de um novo quadrinho. Seu nascimento é a primeira coisa que vemos no filme, e ele já nasce com vários ossos quebrados. Ele é o Sr. Vidro, como era chamado pelas crianças, possuindo uma doença que torna sua estrutura óssea tão fraca que qualquer queda é quase mortal. Osteogenesis imperfecta é o nome da doença e ela é real.
+
+Corta para Bruce Willis e seu David Dunn, um homem melancólico que abandonou a promissora carreira de futebol após um acidente e que segue um processo de separação de sua mulher sob os olhos de seu filho, o pequeno e insuportável Joseph Dunn, interpretado por Spencer Treat Clark com uma face de criança exageradamente incômoda. Spencer não está atuando neste filme, apenas exibindo seus olhos magnéticos, sua face branquíssima e lágrimas de mentira escorrendo em momentos-chave.
+
+Voltando para Willis/Dunn. Ele sofre mais um acidente, este de trem, que causa a morte de todos os passageiros a bordo. Todos menos ele, que sai sem um arranhão. Ele chama a atenção do agora Mr. Price, um respeitado colecionador de quadrinhos e que coleciona e acompanha acidentes em busca de seu suposto oposto: alguém como David Dunn.
+
+O desenrolar dessa história é irregular, possui cortes que não se encaixam como deveriam, mas a maestria com que Shyamalan captura algumas cenas meio que compensa essa falta de jeito na narrativa. O importante neste filme é manter sempre constante nossas dúvidas a respeito do que pode ser real e o que pode ser mero exagero da nossa imaginação, como a intuição de David que faz com que ele descubra pessoas suspeitas nas filas com dezenas de pessoas para entrar no estádio onde trabalha de segurança. Intuição ou super-poder? O filme nunca nos entregará a resposta. Pelo menos não até o final do filme.
+
+E é isso o que o torna tão magnético e tão intenso. Há uma cena em que David com a ajuda do seu filho vai colocando cada vez mais pesos para ver até quanto aguenta levantar. Não direi até onde vai essa história, mas note que é esse tipo de cena que vemos por todo o filme: pode soar arrastada, mas nós queremos a todo custo ver o que acontece no final.
+

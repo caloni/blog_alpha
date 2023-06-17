@@ -1,23 +1,23 @@
 ---
 categories:
 - writting
-date: '2016-09-29'
-link: https://www.imdb.com/title/tt3612984
+date: '2018-10-11'
+link: https://www.imdb.com/title/tt5774796
 tags:
 - cinemaqui
 - movies
-title: Romance à Francesa
+title: Rosas Selvagens
 ---
 
-Romance à Francesa é como se alguém pegasse um roteiro de Woody Allen (dos últimos anos, pelo menos), extraísse todo o pessimismo e trocasse por romantismo. Isso em uma época que, assim como A Comunidade, lutamos por entender, conviver e experimentar formas de amor que fujam do convencional.
+Wild Roses é uma combinação perigosa e sutil entre a defesa da liberdade da mulher e as regras rígidas e sem sentido da religião católica. Quer dizer, algo mais ou menos nessa linha, porque a sutileza do roteiro e atuações nos mantém sempre pouco atentos para o que o filme realmente quer dizer. Trocando em miúdos: é um filme que desperta o desinteresse pela sua heroína.
 
-A comparação com o estilo do diretor/roteirista/comediante nova-iorquino se justifica pela doçura com que os diferentes aspectos dos relacionamentos dos personagens são abordados, mas mais do que isso, quando vemos o tanto de coincidências e situações forçadas necessárias para que o filme consiga chegar nos temas que pretende abordar. Enquanto engraçado pelo absurdo, ele vai aos poucos criando um renovado estilo de comédia romântica que é charmoso, inteligente, puro e sem malícias gratuitas.
+Iniciando com um mistério em torno de sua visita ao hospital, onde não sabemos se ela possui uma doença grave ou grávida (e se for a segunda opção, se fez um aborto ou entregou o bebê), essa mãe de duas crianças é hostilizada pela mais velha, que possui problemas de temperamento e claramente nunca aprendeu limites com sua mãe, além de soltar as observações mais perspicazes do filme inteiro. Isso vindo de uma menina de uns 10 anos de idade é algo a se considerar.
 
-A história já começa absurda quando Clément (Emmanuel Mouret), um professor de crianças comum e distraído, se encontra pela terceira vez com uma moça, Caprice (Anaïs Demoustier), em uma peça de teatro. Clément, no entanto, não se interessa por muito mais do que leitura e Alicia Bardery. Portanto, quando vemos a atriz procurando um professor para seu filho na escola onde Clément leciona, o circo de coincidências está montado.
+As atuações de Rosas Selvagens não ajudam nem um pouco. A diretora polonesa Anna Jadowska não consegue se desvencilhar dos olhares de perfil e de baixo de seus atores e com isso nós, espectadores, pouco conseguimos extrair dos personagens do filme. Depois de quase uma hora inteira construindo a tensão o evento climático ocorre, o único no filme, e que termina com um anti-clímax. E ainda por cima o final é tão conformista que gera verdadeira repulsa.
 
-Com uma fotografia teatral (cores, luzes, sonhos) e exuberante (para não dizer delirante), os cenários estáticos vistos pela diagonal do diretor Emmanuel Mouret caem como uma luva em uma narrativa que se esforça para observar aquelas pessoas e refletir sobre cada nova situação que aparece, sempre de maneira bem-humorada, mas com um fundinho de reflexão. Dessa forma, vemos uma mise en scene toda rebuscada sem soar apelativa. Pessoas andando na frente da câmera soam charmosas criando cenas memoráveis, pois os diálogos são inspirados, sempre regados com jazz ou música de situação.
+Mais empenhado em nos mostrar belíssimos enquadramentos da natureza polonesa em ação, com diferentes tons claros de vestidos longos sempre iluminados pela luz do sol, Rosas Selvagens, como o próprio nome já parece acusar, é uma telenovela sem paixão e sem diálogos; um verdadeiro quebra-cabeças de três ou quatro peças que é disposto sempre da forma errada para o espectador por todo o tempo da projeção.
 
-Aliás, é necessário abrir um parênteses para a trilha sonora que foi escrita a dedo para cada situação. Conseguindo evocar ao mesmo tempo a atmosfera "familiar" de Domicílio Conjugal (Truffaut, 1970) e a arritmia perplexa de Masculino-Feminino (Godard, 1966), as composições conseguem oscilar sutilmente entre o romântico, o suspense e o drama.
+Porém, o exercício de tentar entender aquelas pessoas sem sequer entender quem são aqueles personagens poderia ser um estudo da sociedade polonesa, ainda entregue fortemente nas tradições católicas, incluindo a moral e os bons costumes. Mas nem isso é forte o suficiente, pois como já citei, uma criança que acaba de fazer a comunhão é a criatura mais mal-educada de um vilarejo que teria tudo para ficar escandalizado; mas nem isso temos para alimentar a tensão.
 
-Para os muitos que se esquecem que ficção é lidar com o inusitado para construir conteúdo, é importante lembrar que a "forçação de barra" do roteiro deve ser relevada pelo bem do argumento. Quase tudo que surpreende é por um motivo maior, e não para soar inteligente. É assim com Romance à Francesa, e é assim nos melhores momentos de Woody Allen (com ou sem pessimismo).
+Todos odeiam essa mulher cuja filha a repudia e o marido distante desconhece. Ela vive em uma verdadeira solitária cercada de pessoas estranhas, incluindo sua própria mãe. Se este é o grande problema do filme ele não entrega nada além do conformismo covarde e desnecessário.
 

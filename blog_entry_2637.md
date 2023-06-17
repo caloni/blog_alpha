@@ -1,16 +1,16 @@
 ---
 categories:
 - writting
-date: '2014-03-02'
-link: https://www.imdb.com/title/tt1155592
+date: '2012-08-04'
+link: https://www.imdb.com/title/tt0948470
 tags:
 - movies
-title: O Equilibrista
+title: O Espetacular Homem-Aranha
 ---
 
-O Equilibrista é um trabalho fascinante de documentário porque explora de diversas maneiras o uso da câmera, montagem e roteiro para conseguir trazer a atenção do espectador no seu máximo em torno de um projeto que poderia muito bem virar uma reportagem sem graça de cinco minutos em um telejornal qualquer.
+Talvez o diretor Marc Webb não saiba, mas o fato de estar reiniciando uma franquia que foi admiravelmente "assentada" pelo seu antecessor Sam Raimi não pode ser ignorado, pois ambos bebem da mesma fonte. Pior: é um reinício apenas 10 anos depois, ou seja, a geração que verá "The Amazing" é a mesma que já viu ["Spider"]. E já tendo visto "Spider", posso afirmar que o filme de Webb peca por não conseguir se desassociar do seu original por falta de ousadia. O roteiro burocrático vai passeando pelo início do super-herói como quem conta algo que todos nós já sabemos. OK, todos nós já sabemos. Porém, diferente da pessoa ingênua e doce que foi Peter Parker de Tobey Maguire, não conhecemos muito sobre o novo Aranha. E o fato de continuarmos sem conhecê-lo mesmo após ele vestir sua máscara cria uma barreira sentimental. É difícil se empolgar com as aventuras do herói se ele se parece mais com uma aranha pré-fabricada do que um ser humano. E mesmo que o 3D utilizado em seus saltos seja digno de nota, já que faz querer saltar pelas paredes após sair da sala de projeção, ele não é suficiente para impor uma nova alma ao personagem.
 
-No entanto, os esforços do diretor James Marsh (Project Nim) e sua equipe em conseguir captar a função, a relação e o espírito de cada membro da "gangue" que tornou possível que o equilibrista Philippe Petit passeasse por um cordão estendido entre as torres gêmeas na altura do seu topo é o que torna a história fascinante do começo ao fim. Porém, mais do que isso, a montagem de Jinx Godfrey merece mais aplausos ainda por conseguir oscilar entre presente e passado em um ritmo que nunca cansa, mas sempre instiga para que saibamos mais da história daquelas pessoas e de Petit. Juntando pedaços e colagens de fotos, arquivos e entrevistas, tanto a montagem de Godfrey quanto a fotografia de Igor Martinovic transformam tudo isso em um todo, um álbum de colagens do evento que consegue empolgar a cada virada de página.
+Não que o filme seja ruim. Ou talvez fosse até melhor que fosse ruim, já que é necessário um tipo especial de incompetência para tornar um herói tão legal quanto Spider em uma experiência na tela apenas satisfatória. Ou, quem sabe, ainda estou vestindo o antigo uniforme da Aranha Humana (cuja referência está no novo Spider, fria e solitária), ainda estou rindo das antigas piadas que funcionavam pela espontaneidade (e não porque precisavam estar lá), ainda estou torcendo por um herói que não existe mais. Foi substituído. O legado do nerd clássico se foi, junto com a música "Raindrops Keep Fallin' on My Head", deixando no lugar um nerd estiloso, fake, mas dentro dos conceitos da nova década, de jovens que preferem parecer algo do que realmente se preocuparem em viver a aventura da vida.
 
-Por fim, o longa se beneficia imensamente pela nostalgia e simbolismo que cercam a localização das agora extintas torres gêmeas. É como se espiássemos por uma fresta do passado um acontecimento que não faz mais parte dessa realidade. Não após os ataques com os aviões. Não com a mudança geopolítica e a campanha anti-terrorismo. Um mundo, podemos dizer, mais ingênuo. Um mundo onde a arte ganha contornos quase tão surreais quanto a altura do World Trade Center. Um mundo onde tudo é possível. Uma pena que a ausência das torres indique que esse mundo pode ser que não exista mais por um longo tempo.
+["Spider"]: {{< relref "homem-aranha" >}}
 

@@ -1,15 +1,15 @@
 ---
 
-A cada cinco minutos do filme, a cada cena obviamente maquiada e implantada na narrativa da maneira mais artificial possível, eu me fazia uma nota mental que dizia sempre a mesma coisa: "É um filme feito pra Páscoa; pra ESSA Páscoa".
+Adam Sandler consegue a proeza de tornar a tosca dublagem brasileira menos pior do que ouvi-lo arriscar um sotaque que é uma mistura de Zohan com trechos de Little Nick.
 
-E no fundo, essa é uma maneira sensata de classificar Hop, que agora faz parte das famigeradas produções que não serão lembradas nunca mais. Se forem, da mesma forma que as pessoas não entenderão por que diabos Luciano Huck está dublando um (futuro?) clássico da Disney, ficarão pensando quais são aquelas músicas usadas no filme com o coelho engraçadinho cuja única ação toda hora é: fazer coisas engraçadinhas.
+Ele é o conde Drácula dessa sequência da animação onde a próxima preocupação do pai superprotetor é seu neto. Nascido de sua filha vampira e seu genro humano -- claro que eles tiveram que casar antes -- paira a dúvida em sua cabeça se ele se tornará um "monstro", com suas presas de vampiro, se transformando em morcego e tudo mais, ou se continuará com a aparência e comportamento de uma singela, inocente e inofensiva criatura humana. Com a cara do pai humano, é isso que deixa Drácula possesso.
+
+E é isso que o leva a pegar o carro fúnebre com seus amigos de longa data -- Frankenstein, Lobo, Homem-Invisível e Geléia Estranha -- para alguns experimentos que irão tentar fazer nascer as presas de seu pequeno neto, em um breve road movie noturno. O resultado é tão divertido quanto seu original, e pelo menos dessa vez existe um pouquinho mais de história, coesa, acontecendo.
+
+Não que isso nos faça esquecer da dublagem de Sandler. Nem um pouco.
 
 ---
-categories:
-- writting
-date: '2012-11-02'
-link: https://www.imdb.com/title/tt1665412
-tags:
-- mostra
-- movies
-title: Hot Hot Hot
+categories: []
+date: '2011-04-28'
+tags: null
+title: Houaiss 1.3

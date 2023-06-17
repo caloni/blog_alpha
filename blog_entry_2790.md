@@ -1,21 +1,17 @@
 ---
 categories:
 - writting
-date: '2019-10-26'
-link: https://www.imdb.com/title/tt8212958
+date: '2021-09-11T21:47:09-03:00'
 tags:
-- cinemaqui
 - movies
-title: O Que Arde
+title: O Que Eu Fiz Para Merecer Isso?
 ---
 
-É um sentimento profundo, que vai além da razão, testemunhar uma floresta ser devastada. Árvores caindo ao movimento de um trator e a fumaça denunciando um incêndio não muito longe dali marcam o início de O Que Arde, terceiro filme do diretor Santiago Fillol escrito pelo seu parceiro usual, Oliver Laxe, e ambos não deixam fácil extrair algum significado disso tudo.
+Um clássico dos anos 80 de Pedro Almodóvar mistura o humanismo de Elia Kazan, sua paixão pelo cinema, pela sensualidade e, principalmente, pelo adorável trash que o tornou conhecido no mundo todo.
 
-Amador Arias faz Amador Coro, um homem que acabou de cumprir a sentença de dois anos por iniciar um incêndio criminoso. Ele não é exatamente bem-vindo na cidade onde vivia, mas retorna para morar com a mãe e três vacas em uma vida serena no campo, não nos deixando perceber que este homem é um criminoso, o que nos faz pensar como é que um crimoso deveria ser. Sua mãe, que leva o mesmo primeiro nome de sua intérprete, Benedicta Sánchez, nos faz pensar como o roteirista Oliver Laxe não está interessado em criar personagens, pois sequer lhes dá um nome diferente para o elenco. Sánchez, é necessário dizer, também não se comporta como a mãe de um criminoso.
+A história é básica, porém cheia de nuances. Há algumas pérolas nas falas, sobretudo ditas pela personagem de Chus Lampreave, que atua como se vivesse. Você coloca ela na frente das câmeras e recebe um realismo tão absurdo de avós pelo mundo latino que vira uma atração à parte.
 
-Quando o filme de Santiago Fillol nos entrega essa relação mãe e filho no campo e sabemos o que o filho pode ter feito -- não há uma relação causal na história que nos permita afirmar convictos disso -- o que ele está fazendo no fundo é usar a tensão inicial de árvores sendo derrubadas para sequestrar 100% de nossa atenção para o que virá, mas o que vem é a rotina completamente banal dessas pessoas, onde ações como esquentar o pão da manhã usando o fogo do fogão a lenha ou dizer algo contra os eucaliptos não é suficiente para apontar dedos.
+Carmen Maura segura o protagonismo até o fim. É um de seus melhores papéis no cinema. Seu sorriso muda que é um assombro entre trepar com um dos rapazes musculosos que encontra no vestiário do serviço e com uma maquiagem forçada preparando janta para seu insatisfeito marido. A pobreza é enfocada de frente nessa família tradicional, e quem viveu os anos 80 vai ter dificuldades em dar risada disso, pois é muito real e presente nas memórias da infância.
 
-Ele também evita usar o caminho contrário, mostrando como Amador é um filho atencioso ou carinhoso, e por isso suas ações passadas estão no passado. Entender um ser humano apenas através do pouco que conhecemos dele nos torna os piores juízes possíveis.
-
-O Que Arde, por ser tão banal, acaba se tornando insuportável para a maioria dos espectadores. É uma história reta e sem emoções, mas estamos acostumados a nos chacoalhar no cinema, e acompanhar o tratamento de uma vaca enferma pode não ser o tipo de diversão que valeria um ingresso. No entanto, se o que busca é uma outra visão de aspectos mais internos do ser humano, como a questão da moralidade e da convivência em sociedade, este é um filme que lhe entrega justamente isso. Questões complexas são o combustível para pensar, e assistir um filme desses pode acender o pavio.
+A miscelânea de personagens, incluindo um dentista pedófilo que adota o caçula da família, só rivaliza com a mistura de estilos que o diretor arrisca. Ele não tem medo de soar ridículo e no processo soa tão autêntico e vivo que se torna impossível não se apaixonar pelo cinéfilo enrustido em um corpo de cineasta. Isso que é cinema destemido.
 

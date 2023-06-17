@@ -1,23 +1,55 @@
 ---
 categories:
-- writting
-date: '2021-04-10'
-link: https://www.imdb.com/title/tt9415108
-tags:
-- cinemaqui
-- movies
-title: O Protocolo de Auschwitz
+- coding
+date: '2007-12-25'
+title: O que acontece quando o contador estoura
 ---
 
-História baseada em fatos registrados sobre a fuga de dois judeus eslovenos do campo de concentração nazista mais famoso, em O Protocolo Auschwitz a chave é a direção sóbria de Peter Bebjak que entrega uma visão fatalista, claro, pois todos sabemos o desfecho geral da segunda guerra, mas ao mesmo tempo realista. E não estamos falando daquele realismo dramático. A câmera de Bebjak acompanha esses dois heróis e seus companheiros pelo pesadelo de olhos abertos que essas pessoas viveram nesses duros dias de um passado que vai se tornando cada vez mais apagado na memória do povo.
+Dois conceitos de programação relacionados a limites computacionais são bem conhecidos do programador: o famigerado overflow e o não-tão-famoso underflow (embora seja fácil imaginar que ele é o oposto do primeiro). O primeiro ocorre quando somamos a uma variável inteira não-nula um valor cujo resultado não consegue ser representado pelo tamanho de memória usado para armazenar esse tipo inteiro (que pode ser um caractere, um inteiro curto, inteiro longo e por aí vai). O underflow, por outro lado (outro lado mesmo), é o resultado de uma subtração que não pode ser representado pelo número de bits do seu tipo inteiro.
 
-Para atingir esse efeito não existe música durante boa parte do filme. A trilha sonora só começa a comentar o drama quando voltamos ao mundo civilizado e existe espaço para algum lazer, nem que seja ter alguns coisa familiar para comer.
+Nada melhor que um código para ilustrar melhor esses dois ilustres acontecimentos:
 
-Acompanhando os poucos tons de uma história brutal, a fotografia de Martin Ziaran se limita a esboçar tons de vermelho que surgem de maneira sobrenatural sobre os personagens. É como se eles literalmente estivessem em uma versão do inferno na Terra. E, assim como a música, isso só muda no terceiro ato. Mas muda do vermelho infernal para o melancólico, desesperançoso, cínico, frio e conveniente azul. E mais uma vez o espectador não vai se surpreender, pois esta é uma história sem final feliz.
+    #include <limits.h>
+    #include <iostream>
+    
+    int main()
+    {
+    	int x = INT_MAX;
+    
+    	std::cout << x << std::endl;
+    	x = x + 1;
+    	std::cout << x << std::endl;
+    } 
 
-A parte mais linda, embora manjada, são as microtransiçōes entre cenas. Em um dado momento um prisioneiro é torturado com chicotadas. Enquanto o capataz executa a violência há um rápido avanço no tempo e vemos ele efetuar o mesmo movimento para presos enterrados até o pescoço. Ele esmaga o crânio de um deles. A mensagem é clara: uma vez que a violência atinge um certo limite o discernimento entre os tipos de dor e sofrimento vira uma questão de gosto do torturador, que usa sua ferramenta de controle mecanicamente.
+    Saída:
 
-É importante ressaltar que o final anticlimático não foge do tema inicial, pois os nazistas aqui não são retratados com aquela caricatura de sádicos sedentos por sangue. No mesmo ritmo da diplomacia dos aliados, da burocracia dos americanos e da fuga conveniente da mídia, os alemães estão apenas dançando no ritmo que lhes foi imposto. E o único ponto condenável ou discutível do filme é tornar algumas cenas consideravelmente lindas. A estética dos enquadramentos e das sombras evoca momentos enquadráveis daquele universo arredio. Curioso de se ver, bonito como cinema. Mas condenável do mesmo jeito.
+     2147483647
+    -2147483648
 
-Você talvez esteja se perguntando por que mostrar mais do mesmo, já que filmes retratando o holocausto foram lançados ad nauseam. É verdade. Porém, cada novo filme lança uma luz à realidade vigente. E a realidade da vez é acreditar que a história se repetirá em breve com outras minorias, ou até novamente com os judeus. Durante os créditos finais ouve-se diversas falas imbecis, ou ditas por imbecis ao redor do mundo. Pessoas defendem a teoria que essas falas sejam discurso de ódio, e portanto sujeito a censura. E por isso mais um filme sobre holocausto nunca é apenas um filme sobre holocausto. Está embutido com ideologia política e documentando nossa... curiosa época. Nisso, sim, podemos dizer que é mais do mesmo.
+O indicador de que algo está errado é simples: como diabos foi um número positivo virar negativo, já que eu somei ao invés de subtrair? No entanto, computacionalmente parece extremamente correto: o próximo número após o maior valor positivo possível é o menor número negativo possível.
+
+Nos computadores atuais tudo no final acaba sendo representado por zeros e uns, até o sinal de negativo dos números menores que zero. Por isso mesmo, para que consigamos usar números menores que zero, precisamos gastar um bit para indicar que este número é negativo. Existem muitas representações interessantes, dentre as quais a mais popular acabou sendo a de complemento de dois. A regra é simples:
+
+> Toda representação binária que tiver o bit mais significativo ligado (o bit mais à esquerda) significa um número negativo cujo valor absoluto se obtém invertendo-se o resto dos bits e adicionando um.
+
+Quando o bit mais à esquerda não está ligado o valor absoluto é ele mesmo; ou seja, é um número positivo, incluindo o zero. Como vamos ver, isso facilita em muito os cálculos para o computador. Para nós, a coisa não fica lá muito difícil. Só precisamos lembrar que, em hexadecimal, todos os valores que tiverem o byte mais significativo igual ou maior que 8 (que é 1000 em binário) é negativo e temos que aplicar o método de complemento de dois para obter seu valor absoluto. Vejamos o valor -8, por exemplo:
+
+  1. Primeiro temos a representação real (em um byte): 1111 1000.
+  2. O bit mais significativo está ligado: é um número negativo. Descartamos o sinal, fica 111 1000.
+  3. Devemos agora inverter todos os bits: 111 1000 se torna 000 0111.
+  4. Por fim, somamos um: 000 0111 + 1 = 000 1000.
+  5. Como vimos no parágrafo anterior, 000 1000, ou simplesmente 1000, é 8. Na verdade, -8!
+
+O que significa, na notação complemento de dois, a representação onde estão todos os bits ligados, independente do número de bytes?
+
+Se alterarmos o código acima para imprimir na saída os números hexadecimais, obteremos a seguinte saída:
+
+    7fffffff
+    80000000
+
+E o mais legal é que agora sabemos que o primeiro número é o maior valor positivo possível nesse tamanho de int, pois possui todos os bits ligados exceto o bit de sinal. Já o segundo número, o primeiro incrementado de 1, possui todos os bits desligados exceto o bit de sinal: é o menor número negativo possível!
+
+Consegue imaginar como os cálculos são feitos pelo computador? Curioso? Então dê uma olhada na Wikipedia sobre [complemento de dois].
+
+[complemento de dois]: http://en.wikipedia.org/wiki/Twos_complement
 

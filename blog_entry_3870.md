@@ -1,18 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-02-07'
-link: https://www.imdb.com/title/tt2671706
+date: '2015-10-02'
+link: https://www.imdb.com/title/tt1571222
 tags:
 - movies
-title: Um Limite Entre Nós
+title: Um Método Perigoso
 ---
 
-Fences é um filme baseado em uma peça. Mas isso dá pra saber logo nos primeiro minutos do filme dirigido por Denzel Washington e adaptado pelo próprio dramaturgo August Wilson. A história se passa praticamente na casa e nos arredores da casa dos Maxson, uma família cujo patriarca, Troy (Washington), é uma figura encontrada facilmente entre as camadas mais pobres da sociedade, muitas vezes criado por pais ainda mais rígidos que ele. É lógico que muitos de nós tiveram pais ou conhecidos com pais assim. E nem por isso há algo de sintomático por trás de tudo isso. A menos que seja inserido um dedinho da esquerda progressista a investigar que tudo aquilo no fundo é resquício da violência praticada contra os negros. Resquício ou não, este é um drama de primeira qualidade basicamente por causa de Viola Davis e Denzel Washington, que carregam o filme como se fosse extremamente fácil interpretar seus personagens.
+Cronenberg, um diretor geralmente fascinante (Terapia de Risco), por algum motivo, dirigiu um filme burocrático que conta a história de amizade entre Sigmund Freud (Viggo Mortensen) e Carl Jung (Michael Fassbender) como um documentário da BBC. No meio envolve a russa judia Sabina Spielrein (Keira Knightley), de paciente para amante e posteriormente médica.
 
-Nada mais longe da verdade. Note como Viola Davis tricota casualmente em seu quintal quando vem receber o marido, logo na primeira cena. Observe como seu jeito gracioso de dona de casa tradicional esconde um certo respeito e medo de seu marido, com quem brinca de maneira pseudo-inocente, mas que fica claro que tudo aquilo é um jogo de cena que se fazia por muitas e muitas décadas. Porém, isso só se percebe aos poucos, em cada diálogo, em cada micro-expressão dos personagens. E há diálogos suficientes para percebermos (é uma peça de teatro, lembra?), assim como há interpretações afiadas e quase naturalistas como de Davis.
+As partes interessantes é que não havia antes restrições quanto a tratar conhecidos (como Jung utiliza sua esposa em uma sessão de terapia), mas já há a noção de transferência (quando o paciente transfere sua identidade para seu médido, e acaba se tornando vulnerável).
 
-Já Denzel Washington impressiona mais por sua atuação do que direção, que é típica de diretores ainda engatinhando na arte cinematográfica. Washington diretor passeia sua câmera, muda enquadramentos, e quase acerta alguns ângulos prosaicos, como deixar a mulher fora de foco na cozinha enquanto os homens conversam na sala. Agora, particularmente fascinante é tentar enxergar o ator por trás de uma emulação não apenas perfeita de um negro sulista, com suas gírias, sua forma de usar as pausas, o sotaque e o movimento da cabeça. Porém, mais do que isso, seu Troy é cheio de alma, de caráter. Ele é gordo como se deve, um marido esteticamente nojento ainda que reverenciado por sua esposa. E ainda assim, confiante de si. Troy caminha de cabeça erguida para não correr o risco de nunca mais conseguir levantá-la. Ele usa os ensinamentos do pai e é a pedra no sapato de toda família.
+Com exceção da curiosa participação de Vincent Cassel como o controverso psicólogo Otto Gross, todo o elenco está devidamente alinhado com os objetivos do diretor: contar uma história envolvendo figuras famosas da psicologia, e talvez por isso mesmo envolvê-los em uma redoma de vidro, evitando retirar a aura de pensadores profundos. Não é possível retirar nada da personalidade de ambos durante todo o filme. São apenas estátuas repetindo diálogos e situações conhecidas. Sabemos de toda a história envolvendo os dois antes do filme começar, e nada muda. Se você nunca soube, poderia ter lido 10 minutos de Wikipédia.
 
-Fences é indicado ao Oscar para preencher uma cota que em 2017 está sobrecarregada, com três filmes protagonizados por negros em ficção e mais dois documentários (e uma série) lidando com o racismo. Como filme ele se encaixa naquela categoria das melhores atuações, e o filme é mais falado do que visualmente apelativo. O seu coração, no entanto, é puro e honesto. Ele não quer polemizar além do necessário. Seria quase naturalista se esses personagens da vida real não tivessem tantas frases de efeito, frases poéticas, que traem seu realismo denunciando a dramaturgia por trás da arte que imita a vida.
+Ainda assim, Keira Knightley na primeira metade do filme dá um show de contorcionismo, fazendo caras e bocas que prometem. De fato, é a personagem mais interessante do começo ao fim, mas também fica envolta em um véu de invulnerabilidade, apesar de ser a persona mais vulnerável de todas.
+
+A grande questão da divergência entre Freud e Jung ou vira um caso de novela ou é abordado de maneira tão superficial, e as trocas de cartas é tão infrutífera, que fica difícil de fato se importar se um prefere usar sexo para tudo e outro prefere búzios jogados ao vento.
+
+Com efeitos visuais por computador que geram a estranheza de irrealidade, uma direção de arte simplesmente higienizada, uma trilha sonora repetitiva e monótona -- melhor o silêncio, na maior parte do tempo -- Um Método Perigoso está nos dizendo em seu título sobre essa forma de dirigir filmes, pois pode causar uma cura involuntária de insônia. Ou morte por monotonia.
 

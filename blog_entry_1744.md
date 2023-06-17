@@ -1,34 +1,21 @@
 ---
 
-Eu já sabia que havia um sistema de criptografia de arquivos no Vim. Isso pode ser útil para textos secretos, ou para enviar qualquer bobagem para outra pessoa que sabe de uma senha que só vocês conhecem. Porém, o método default de criptografia dele não me animava. O pkzip é usa um algoritmo fraco, e os inúmeros programas que quebram zips encriptados estão aí para demonstrar. Além do mais, o blowfish da versão 7 do Vim tem problemas em gerar seu salt que favorece ataques de força bruta [tão baratos quanto um XOR](https://dgl.cx/2014/10/vim-blowfish). E é aí que entra em cena o Vim 8.
+Guerra Fria é o tipo de filme que acerta em tantos níveis que se torna injusto tentar resumir todas essas camadas de uma só vez. Porém, podemos dizer que obras sobre essa época tenebrosa que o título confessa geralmente usam apenas a atmosfera conspiracionista para se estabelecer e se esquecem de como as pessoas viviam na época. Felizmente o novo filme de Pawlikowski está concentrado na natureza humana de maneira tão intensa que o resultado é uma síntese brilhante do que significou uma era.
 
-A nova versão do meu editor favorito não apresenta o defeito do algoritmo blowfish anterior, ou apresenta, mas dessa vez fornece uma versão atualizada (claro que, por razões de compatibilidade, foram mantidos os algoritmos anteriores).
+A história começa com músicas e cantos belíssimos dos camponeses da Polônia, anexada pela União Soviética. O plano do maestro Wiktor (Tomasz Kot) é capturar o que há de melhor entre os artistas simples do povo e mostrar ao Partido. Wiktor é um polonês orgulhoso de sua origem, como podemos notar quando este observa com pesar uma igreja destruída e o fato que seus cantores não poderão cantar as canções folclóricas com suas belíssimas vozes em sua língua-mãe. Porém, bonitão, ele também possui desejos mundanos, e logo se engraça com Zula (Joanna Kulig), uma polonesa que também sabe jogar o mesmo jogo que ele para se manter vivo.
 
-O que eu gosto no modelo do Vim de encriptar arquivos é que eles são encriptados apenas na escrita, e na leitura o usuário deve digitar a senha. Se a senha não correponder ao que foi usado para encriptá-lo, não há mensagem de erro: o editor irá simplesmente exibir o lixo gerado pela sua senha errada. Isso gera uma situação vantajosa e uma perigosa.
+Esse começo com cantores atinge diretamente o nosso coração através das vozes e canções daquelas pessoas, que por causa disso consegue amolecer em meio aos planos burocratas dos russos de exaltar a nova República através dos povos dominados. E quando vemos o resultado esperado por eles, de alterar as letras para exaltar o ditador Stalin, é de partir o coração. Uma mistura de asco com medo de um dos genocidas mais aclamados da História. Pawlikowski está interessado, como o Grande Irmão em 1984, em destruir almas, e não apenas apagá-las. Para isso ele utiliza seus personagens Wiktor e Zula como incapazes de ser felizes a partir do momento que se conhecem e pelos anos que se seguem, seja do lado direito ou esquerdo do muro de Berlim.
 
-A vantajosa é que não há como automatizar um brute force em cima de arquivos encriptados pelo Vim, pois não há muitos sinais de que o arquivo foi desencriptado. Claro, por amostragem de texto é possível saber se a senha foi ou não satisfatória, mas a beleza está em não existir nada específico na estrutura do editor que diga se a senha foi ou não bem sucedida.
+Aliás, note como não apenas o uso de preto e branco e da razão de aspecto quadrada da tela nos localiza historicamente, como é usado para exaltar a irrealidade retratada. A paleta de cores acizentada costuma ter um efeito onírico por fugir um pouco mais da realidade, mas Pawlikowski vai um pouco além, usando reflexos como símbolos para criaturas sem alma. Dessa forma, ainda que Wiktor no piano seja perfeito em sua performance, a cena em que o vemos fazendo isso começa com o reflexo das teclas e de suas mãos no piano, indicando como ele se comporta como mero autômato para se manter vivo em um país de espírito massacrado.
 
-A perigosa é que uma vez que você digite a senha errada, muito cuidado com o lixo que você verá no seu buffer. Se por força do hábito for salvar o conteúdo, poderá perder o conteúdo do arquivo original, que estava encriptado com uma senha que você conhecia, mas que agora foi salvo após ter sido desencriptado com a senha errada. Ou seja, não há como reaver o conteúdo original a não ser com muito suor.
+Porém, o filme vai mais ainda além, quando vemos o mesmo Wiktor do outro lado do muro, em Paris, tocando a mesma música em um bar, e novamente o diretor começa a cena mostrando o reflexo das teclas no piano (embora invertida; direita/esquerda; um toque de gênio), e o músico novamente se encontra executando automaticamente a performance, diante dos outros músicos, parados, inúteis para o acompanhar, preocupados com tamanha falta de alma à "tarefa" de tocar um instrumento, eles que tocam empolgadíssimos jazz e outros ritmos mais animados.
 
-O mais prático de tudo é usar esse modelo de arquivo encriptado pelo Vim para salvar senhas. Um arquivo de senhas pode ser tão simples quando login/senha de todas as senhas que você deseja guardar, e tão bem protegido quanto a força de sua senha master. Nada mais, nada menos. De quebra, um arquivo pequeno cujo backup pode ser sincronizado instantaneamente na nuvem (usando Google Drive, Dropbox ou One Drive), ou até mantido em um controle de fonte (embora ele seja tratado como binário).
+Ou seja, este não é um filme que quer apenas criticar o regime comunista autoritário do norte, o que seria simples demais, mas também a falta de alma no mundo capitalista, que cheio de cores, luzes, músicas excitantes e barulhentas, mulheres e álcool fáceis remete à mesma falta de significado nas ações das pessoas que nele vivem, demonstrando o paradoxo da liberdade plena como uma outra espécie de prisão. Isso fica claro quando Zula, apesar de gravar um disco e fazer sucesso, mal consegue conter seu desespero niilista ao som de Rock Around the Clock (um símbolo do nascimento do rock estado-unidense).
 
-Se você gostou desse modelo, seguem os comandos para pesquisar (:help comando):
-
-```
-; define o algoritmo que será usado para encriptar arquivo
-:set cm=blowfish2
-
-; define senha de criptografia ao salvar arquivo
-:X
-```
-
-Este post foi inspirado em meu próprio uso do Vim, mas mais inspirado ainda depois de ler [o artigo da invert](https://invert.svbtle.com/using-vim-as-a-password-manager).
+Guerra Fria não é um filme apenas sobre pessoas, mas como essas pessoas são afetadas pelo espírito do tempo. É um filme difícil, pois não há solução para seus personagens. A redenção ocorre apenas via religiosa, a única fonte presente na memória das pessoas (quando os regimes comunistas caem, geralmente a primeira coisa que as pessoas fazem é reconstruir as igrejas e seus rituais, antes proibidos). Também não é um filme sobre cortina de ferro, conspiração e tratamento desumano. É uma tortura psicológica, lenta e sistemática, que esmaga a alma dos mais desavisados que entraram na sala de cinema.
 
 ---
-categories:
-- writting
-date: '2014-12-06'
-link: https://www.imdb.com/title/tt2015381
-tags:
-- movies
-title: Guardiões da Galáxia
+categories: []
+date: '2015-03-04'
+tags: null
+title: Guia de alocação (nos clientes)

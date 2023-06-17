@@ -1,45 +1,22 @@
 ---
-categories: []
-date: '2019-07-21'
-tags: null
-title: SLQLocalDB
+categories:
+- writting
+date: '2012-05-04'
+link: https://www.imdb.com/title/tt1124058
+tags:
+- movies
+title: St. Nick
 ---
 
-Hoje foi o dia de redescobrir meu velho ranço com a solução Microsoft para banco de dados. Já perdi horas, dias e semanas com problemas de conexão com algum servidor SQL Server porque a instalação possuía configurações de segurança específicas, a string de conexão não estava exatamente de acordo com a versão instalada ou uma combinação macabra desses e de mais alguns problemas.
+Quando o filme se inicia, e não sabemos exatamente quem são aquelas crianças, é muito fácil confundi-las com uma situação comum que vemos todos os dias: crianças brincando de aventureiros. Porém, conforme adentramos no mundo lúdico, mas cruel, de suas realidades, a consciência pesa demais para um filme supostamente despretensioso. Mais interessante, porém, é constatar que as pessoas que as encontram imaginam o mesmo que nós imaginávamos minutos antes, o que não deixa de ser irônico e trágico, pois agora vemos que muito da vida passa na nossa frente sem sequer nos darmos conta. A nossa realidade, andando com pressa pela calçada, não enxerga muito além dela própria.
 
-Após degladiar novamente com problemas com o SQL Server Express 17 minha esperança para este projeto que requer este banco de dados foi uma versão mínima chamada de LocalDB [1]. Essa versão tem objetivo de servir para desenvolvedores, pois é tão mínima que apenas roda quando você usa, além de permitir isolamento por contas e compartilhamento entre contas e até remoto via named pipe. Parece bom, não?
+Melancólico sem sequer forçar uma situação, mas simplesmente expondo a vida dos dois irmãos da maneira mais simples e bucólica possível, o peso dramático acaba ficando maior do que se nos tivessem empurrado uma trilha sonora triste de violinos. No fundo, o simples fato de vermos o menino carregando um porta-violinos e admirando sorrateiramente uma jovem ensaiando o violão em seu quintal é o suficiente para que entendamos muito mais do que qualquer fala que pudesse sair de sua boca pudesse nos revelar.
 
-O marketing da Microsoft sempre será melhor do que as reais soluções entregues. Depois de ver tudo isso funcionar em um banco criado com o LocalDB em pequenos e simples passos, as dores de cabeça começaram na hora de compartilhar ou de criar do zero este mesmo banco em uma conta de sistema, que é como rodam geralmente os serviços do projeto:
+A menina, em seus gestos e andar tímidos entre as crianças de uma festa de aniversário, em contraponto com sua segurança quando está com o irmão, é um poço de expressão, ainda que na maioria das situações esteja anônima e muda. Fala quando tem algo a dizer (como quando reclama do sanduíche do irmão, para logo depois a vermos degustando o tipo de sanduíche que a faz feliz). O menino, na posição de maior responsável, quase não exibe sorrisos, mas uma distante tristeza em seus olhos sempre serenos.
 
-    C:\WINDOWS\system32>psexec -s cmd.exe
-    
-    PsExec v2.11 - Execute processes remotely
-    Copyright (C) 2001-2014 Mark Russinovich
-    Sysinternals - www.sysinternals.com
-    
-    Microsoft Windows [Version 10.0.17763.615]
-    (c) 2018 Microsoft Corporation. All rights reserved.
-    C:\WINDOWS\system32>sqllocaldb i
-    MSSQLLocalDB
-    
-    C:\WINDOWS\system32>sqllocaldb create "test"
-    LocalDB instance "test" created with version 13.1.4001.0.
-    
-    C:\WINDOWS\system32>sqllocaldb start "test"
-    LocalDB instance "test" started.
-    
-    C:\WINDOWS\system32>sqlcmd -S (localdb)\test
-    ...
-    ... hangs forever
-    ...
+Cortes certeiros e um ritmo mais que correto dão o tom milimetricamente planejado com uma embalagem indie, mas sem soar clichê/oportunista. É o cinema puro e singelo construído em torno de duas criaturas que aos poucos se tornam adoráveis e melancólicas. Seus motivos não nos interessam, mas o fato de estarem lá, sim. Compartilhamos com elas esse pensamento maldoso de qualquer adulto medroso: como será o amanhã? Haverá mais marshmallows?
 
-O fun fact até aqui é que a primeira versão que tentei, a Express 2017, sequer chegava nesse ponto, dando erros de conexão com named pipe ou timeout no login. Não estou certo de como funcionaria um login em um acesso local em um arquivo, mas essa era uma mensagem extremamente longa e potencialmente inútil. Encontrei uma outra alma sofredora na internet neste mesmo dia de hoje que recomendou fazer o rollback para o Server 2016 [2] (por isso a versão 13.1 no prompt acima), mas os erros apenas mudam de figura ou se repetem indefinidamente.
+Traçando um pouco das influências que Terrence Malick teve para criar sua [A Árvore da Vida], a fotografia naturalista e os movimentos involuntários ao sabor do vento criam uma poesia involuntária incapaz de ser atingida por qualquer filtro fotográfico qualquer, embora as paisagens do horizonte sejam de encher o coração. É a poesia da vida real, da dura realidade de duas crianças que, ainda que passem seus sufocos, ainda podem sonhar.
 
-Aliás, outro fato curioso e revoltante é que a Microsoft sequer mantém a versão anterior dos seus produtos para download. A versão 2016 achei no site de alguém que se dispôs a mantê-los. Do contrário, a solução seria ~~sentar e chorar~~ olhar o código-fonte.
-
-Rá, brincadeira. Não tem o código-fonte.
-
-Um erro frequente e algumas vezes reportado pelas internet é o do login, mesmo. Pesquisando mais a fundo encontrei um artigo no Code Project [3] (quem diria, velhos tempos em que postava nele) de 2014 onde a pessoa explicava que depois de ler muito e testar muito ele descobriu praticamente depurando a instância do SQL Server e descobrindo que o problema estava em um crash que nunca voltava, sendo necessário dropar todas as conexões (ou o conhecido restart que várias pessoas também recomendaram).
-
-Esse não é o meu problema. Meu problema é conseguir rodar a solução na conta de sistema, e desconfio que o modo em que o psexec executa o cmd.exe na conta de sistema pode estar relacionado, pois contas interativas em sistema são fontes clássicas de configuration mismatch (talvez falte ou sobre variáveis de ambiente, alguns handles perdidos, essas coisas).
+[A Árvore da Vida]: {{< relref "a-arvore-da-vida" >}}
 

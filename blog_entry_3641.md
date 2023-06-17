@@ -1,23 +1,21 @@
 ---
 categories:
 - writting
-date: '2022-10-24T20:26:13-03:00'
+date: '2016-10-26'
+link: https://www.imdb.com/title/tt0072446
 tags:
-- cinemaqui
 - mostra
 - movies
-title: Terceira Guerra Mundial
+title: Terra Prometida
 ---
 
-Que filme maravilhoso esse Terceira Guerra Mundial. Ele te coloca em uma posição constante de reavaliar o que está vendo na tela. Sua manipulação é cinema e sua trama é perfeita para isso. O pano de fundo político trazido no título ganha contornos bizarros que flertam com o trash enquanto mantém o drama real e vivo durante toda a história.
+Uma farsa deliciosa dramatizando o apocalipse enxergado por Karl Marx. Mostra os capitalistas inescrupulosos sem valor à vida humana para defender o comunismo que dá valor aos humanos como ferramenta de sacrifício. Não é um filme para levar a sério, mas como qualquer propaganda vermelha que se preze, ela tem que ser dramática; quiçá hilária. Na verdade, é de uma série de filmes do diretor que ridiculariza a propaganda soviética.
 
-Ela começa simples e engraçada, mas não se engane, pois fica "pior". No entanto, o que nos fisga desde sua introdução é a inconformidade em ver trabalhadores comuns sendo transformados por uma espécie de coerção em extras de uma filmagem que os colocam na pele dos judeus em um campo de concentração em plena Segunda Guerra.
+O diretor, polonês, e homenageado desta Mostra, criou este drama sob o filtro romântico e manipulador dos políticos comunistas de sua época, que discursavam sobre a "pobreza gerada pelo capitalismo", "forte desigualdade" e todo o pacote que hoje em dia infelizmente é levado a sério. O diretor então distorce ainda mais as lentes desse filtro (assim como as de sua câmera), transformando a burguesia no que era a nobreza: porcos ignorantes, desprezíveis, estúpidos, imorais, desumanos e mesquinhos. Nada pode ser levado a sério em um filme que não se leva a sério, exceto a piada que é feita do outro lado. Em determinado momento, um personagem, após aplicar um golpe, senta-se no chão, dá uma risada de satisfação e acena para a câmera, para o espectador.
 
-No epicentro dessa loucura está Shakib, que surge de uma origem extremamente humilde, um ninguém, para se tornar de uma hora pra outra o astro dessa produção dentro do filme. Não há muita explicação de como isso é possível, e é melhor que fique assim mesmo. Afinal, esta é a visão dos bastidores do poder, que nunca escala. Ficamos o tempo todo observando apenas o ponto de vista dos que não tem onde cair mortos.
+O filme de quase três horas é filmado como um épico fantasioso, e é delicioso de se ver. Com uma trilha sonora empolgante e movimentos de câmera dinâmicos, a história nunca para. Seus personagens são enérgicos e estão sempre gritando. A cor é exagerada, sobretudo o vermelho do sangue derramado do proletariado, pessoas do mesmo sangue das famílias judias que concentravam capital. O figurino é caracterizado com cores berrantes para a burguesia, o frio azul e marrom para os trabalhadores. Há um charme arrebatador nos muros e portões das fábricas, assim como suas chaminés, eternamente enfocadas por Andrzej Wajda e eternamente soltando fumaça.
 
-WWIII possui o controle coeso e tenso do diretor sírio Soudade Kaadan. O uso de campo reduzido permite focar em detalhes do fundo com muito controle. Vemos uma câmera de passagem pelo escuro, um alçapão que se abre rapidamente com alguém jogando neve, ou os corredores "infinitos", porque é muito difícil ver seu final.
+A atuação de todos os homens é exagerada, e os anjos, como uma mulher que pensa no ser humano, é vista como íntegra e a única heroína que se preza. No meio temos todo tipo de traição: adultério, incêndios criminosos, golpes financeiros. Mas todos são bem-humorados ou afetados, o que torna tudo impressionista. As máquinas frequentemente cortam e espremem carne humana, jorrando sangue e desprezo dos patrões, que reclamam que sujou tecido bom.
 
-A trilha sonora de Rob Lane e Rob Manning é econômica, pois mantém notas evocativas que nunca cumprem a promessa de comentar o filme, o que é a melhor parte. É sempre um falso começo que atordoa na medida certa e define um tema.
-
-A atmosfera da ficção se amplia sob o contexto social. Essa relação de poder na questão econômica entre as classes envolvidas permite criar a rima que Mark Twain cita, em sua frase sobre a história usada no começo do filme: "a História raramente se repete, mas quase sempre cria rimas".
+De caricato temos sobretudo um trio de amigos, os personagens principais, que passeiam por essa miscelânea de criaturas. Eles querem fundar uma sociedade e começar um negócio, uma fábrica de tecido. Cada um deles possui absolutamente nada, o que, para eles, "somados é o suficiente", como uma bela inversão da ideia marxista que a burguesia roubou algo do proletariado. Suas aventuras para conseguir o que querem são despretensiosas, mas possuem a energia da vida. Pode existir um certo drama e uma certa crítica, mas esse filme é quase em sua maioria uma comédia utópica. Uma deliciosa comédia utópica. À luta, camaradas!
 

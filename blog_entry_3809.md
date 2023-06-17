@@ -1,28 +1,164 @@
 ---
 categories:
-- writting
-date: '2016-05-03'
-link: https://www.imdb.com/title/tt3754940
-tags:
-- movies
-title: Truman
+- coding
+date: '2021-05-20'
+link: 'null'
+tags: null
+title: Truques e Macetes na Hora de Programar
+toc: true
 ---
 
-Esse talvez seja um dos mais decepcionantes filmes com Ricardo Darín, mas não deixa de ser interessante em alguns momentos, como quando discute a diferença entre ser tratado como um ser humano ordinário e um ser humano moribundo.
+Este artigo é para organizar meu raciocínio e pesquisa para uma passagem de conhecimento na empresa. Foi sugerido ensinar um pouco do que é possível fazer para acelerar um pouco o desenvolvimento de um programador no dia-a-dia, não só para codificar, mas para todo o resto que consome bem mais tempo.
 
-A história é simples e foi feita para ser tocante. Tem até um cachorro -- que leva o título. Seu dono, Julián, está há um ano combatendo um câncer do pulmão e resolveu desistir. Seu cunhado, a pessoa mais próxima dele nesse momento, vive do outro lado do mundo. Ao visitá-lo, feridas serão abertas e questões resolvidas.
+> macete1 /ê/ substantivo masculino 1.  m.q. MACETA ('pequeno instrumento'). 2. tipo de martelo us. para esculpir em madeira ou, em trabalhos de carpintaria e marcenaria, para bater nos cabos dos formões.
 
-Porém, para seu cunhado e melhor amigo, seu senso prático (e divertidamente egoísta) lhe diz que tudo está mais ou menos resolvido: não se tira a liberdade de alguém só porque se gosta muito desse alguém (ou, nesse caso, gosta, mas tem bons motivos para criticá-la). Há pessoas mais sentimentais, apegadas, que irão desenvolver seu ódio pessoal por não poder controlar o ente querido.
+Lembrando que as sugestões foram bem vagas e gerais, então essa é só uma pincelada pessoal sobre os assuntos; nada muito objetivo. As perguntas podem vir depois.
 
-Esse apunhado de clichês e cutucadas pessoais está bem embalada em uma história leve, em que crescem como personagens os dois principais, mas lhe falta situações dignas das atuações do elenco.
+## Como buscar por melhores resultados nas pesquisas
 
-E o cachorro, por mais que se pense nele, é muito difícil para encontrar um significado. Este é um filme simbólico de difícil acesso, se preferir, ou um drama água-com-açúcar. Em ambos os casos, simplesmente medíocre.
+ - Não use o Google como Banco de Dados. O seu Cérebro é o Banco de Dados. Use o Google como um índice remissivo do seu cérebro. Use livros e artigos densos para alimentar seu Banco de Dados.
 
-Note como ele tenta puxar assunto de onde não há. Uma família de lésbicas que adota um menino russo. Um filho morando na Holanda. Qual o significado de tudo isso? A universalidade da morte? A morte sequer é citada; apenas a decisão de uma pessoa de não lutar mais contra ela.
+ - Nunca use a primeira resposta do Stack Overflow. Por quê? Porque ela é a mais popular.
 
-Darín, como sempre, representa um ser humano adequado para o que vive. Impaciente e surpreso com a reação das pessoas em sua volta. De certa forma, me lembra um amigo meu que não possui o famoso "simancol", mas acaba divertindo exatamente por isso.
+ - Stack Overflow para pedaço de código; artigos para entender o código; livros para entender o código.
 
-Porém, mais divertido ainda, apesar de muitas vezes soar repetitivo, é seu amigo. Interpretado por Javier Cámara como alguém que simplesmente veio fazer um favor, a sua luta interna entre o que ama e o que odeia no amigo é o ponto forte de sua amizade.
+## Como otimizar o tempo programando
 
-Criando mais personagens secundários do que deveria, simplesmente para florear um pouco mais uma história que não sabe o que dizer de um tema delicado, Truman vira um passatempo leve demais para ser levado a sério, mas constitui uma diversão despretensiosa e livre de choro à toa. A não ser que você se emocione com qualquer coisa.
+Como diria Caloni:
+
+ - Para quê você vai querer fazer isso, se o tempo mais prazeroso do trabalho se passa programando?
+
+Como diria [edw519], um dos membros mais populares do Hacker News:
+
+ - Alguns caminhos são melhores que outros, mas qualquer caminho é melhor que nenhum. Ex: fazer API HTTP com tudo GET.
+
+ - Comece com a resposta, então trabalhe ao contrário. Ex: quero uma API HTTP, então começo chamando.
+
+ - É muito mais fácil julgar algo que já existe que definir algo que não existe. Ex: uma API HTTP com tudo GET é feio, mas dá pra melhorar (porque já existe).
+
+ - Esteja preparado para cavar quantos níveis de detalhe precisar para entender ("um hacker é uma pessoa que sabe exatamente o que acontece quando se pressiona um botão do teclado").
+
+ - Não ligue o computador a menos que você tenha uma tarefa específica (para pessoas que trabalham em lugares que você não ganha pelo tempo sentado).
+
+ - Beleza é importante, mas entrega é mais importante. Ex: a API HTTP GET tá pronta e pro usuário funcional; próxima versão a gente melhora.
+
+ - Mantenha extremamente simples no começo. Complique conforme avança. Ex: para mexer na API HTTP GET tem um ponto de entrada cheio de ifs; agora comece a criar funções e outros pontos de entrada.
+
+ - Codifique todos os dias (memória muscular).
+
+Como diria René Descartes, um cara não muito popular nas rodinhas da Idade Média:
+
+ - Cada problema que eu resolvo se torna uma regra que serve mais tarde para resolver outros problemas. Ex: se o problema é perder tempo com uma tarefa repetitiva ache uma maneira mais automática de fazer a mesma tarefa.
+
+Para além disso, ou problemas modernos de déficit de atenção enquanto compila (galerinha do C++ e do Rust), leia livros:
+
+ - [The ONE Thing], de Gary Keller ("There will always be just a few things that matter more than the rest, and out of those, one will matter most").
+
+ - [Deep Work]: Rules for Focused Success in a Distracted World, de Cal Newport ("Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit").
+
+ - [Flow], The Psychology of Optimal Experience, de Mihaly Csikszentmihalyi ("engagement in an activity that is both challenging and attainable").
+
+## Atalhos nos terminais (Linux e Windows) e como encontrar atalhos
+
+ - Entenda a estrutura de diretórios e arquivos do seu sistema; organize (do seu jeito, mas organize).
+
+ - Em ambos SOs, para navegar entre diretórios mantendo o histórico: pushd, popd.
+
+ - Para buscar por arquivos no Windows dir; para buscar por arquivos no Linux find; use o manual.
+
+ - Como encontrar mais atalhos: encontre o subconjunto que você usa. Ex: atalhos das tarefas mais comuns do seu editor favorito.
+
+ - Caso de uso #1: como eu encontrava atalhos e janelas escondidas no Visual Studio.
+
+ - Caso de uso #2: como eu decorava atalhos no Vim.
+
+## Ferramentas úteis para análise
+
+> A lenda conta que em uma competição para ver quem cortava a árvore mais rápido, o lenhador mais velho passou a maior parte do tempo amolando o machado, enquanto o competidor mais jovem dedicou-se em golpear a árvore com toda a sua força. Quando o jovem estava no meio do tronco o competidor mais experiente começou a cortar sua árvore.
+
+Como diria, edw519, um dos membros mais populares do Hacker News:
+
+ - Use a ferramenta certa para o trabalho certo. Ex: Vim para tudo.
+
+ - Quase qualquer ferramenta pode fazer o trabalho. Algumas são melhores que outras. Ex: uma leiteira é multiuso.
+
+ - Lembre-se dos padrões que você usou antes. Você irá usá-los novamente. Ex: atalho chato no Visual Studio para economizar dez digitações por uma.
+
+### Process Explorer e como encontrar quem travou seu arquivo
+
+ - Find, Find Handle or DLL...
+
+ - Como saber onde está o executável de um processo.
+
+ - Como saber a linha de comando do processo.
+
+ - Como saber as portas de rede abertas.
+
+ - Como saber as variáveis de ambiente do processo.
+
+ - Como saber as strings em memória do processo.
+
+ - Como saber as threads e stack de cada thread de um processo (com nomes de funções usando símbolos).
+
+ - Como... bom, vocês pegaram a ideia.
+
+### Process Monitor e como ver quem escreveu no arquivo
+
+ - Filter, Filter...
+
+ - Como saber a linha de comando do processo que escreveu no arquivo.
+
+ - Como saber como foi aberto o arquivo pelo processo.
+
+ - Como saber a duração dessa chamada de escrita em arquivo.
+
+ - Como saber quando foi que o processo foi iniciado.
+
+ - Como saber a pilha de chamadas da thread que escreveu no arquivos... bom, vocês pegaram a ideia.
+
+### TCP View, WinMerge, BareTail, WinDirStat
+
+ - Portas abertas na máquina.
+
+ - Comparar versões diferentes de arquivos e pastas.
+
+ - Ter um tail portátil e para múltiplos arquivos e filtro.
+
+ - Saber quem está ocupando espaço na máquina que o cliente pediu para limpar.
+
+### Ferramentas UNIX (desde 1970 por aí)
+
+ - Turbinar Windows usando Git (sed, grep, ls): colocar no path do usuário ou do sistema.
+
+ - Grep: buscar coisas dentros dos arquivos.
+
+ - Sed: modificar coisas dentros dos arquivos.
+
+ - Tail e head: ver o início e o final de um arquivo; seguir o final do arquivo conforme for sendo escrito.
+
+ - Sort e uniq: sortear e uniqar coisas; ou ambos (sort -u).
+
+ - Pipe: poder dos programadores de Roma; nunca subestime juntar ferramentas UNIX.
+
+ - Regex: poder dos programadores do Olimpo; use o guia do Aurelio Jargas se nunca ouviu falar.
+
+ - Awk: poder dos programadores de Asgard; use o guia GNU.
+
+### Git
+
+ - Leia [o livro] na segunda vez que ficar confuso usando Git fazendo a mesma coisa.
+
+ - Encanamento: Git é um map de chave/valor em arquivo.
+
+ - Porcelana: Git é uma lista encadeada de arquivos patch.
+
+ - Comandos esotéricos: cherry-pick, rebase, squash, revert, sub-tree.
+
+### Perguntas?
+
+[edw519]: {{< relref "the-best-of-edw519" >}}
+[Flow]: {{< relref "flow" >}}
+[The ONE Thing]: {{< relref "the-one-thing" >}}
+[Deep Work]: {{< relref "deep-work" >}}
+[o livro]: https://git-scm.com/book/en/v2
 

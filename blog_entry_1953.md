@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2019-10-27'
-link: https://www.imdb.com/title/tt0269389
+date: '2013-01-15'
+link: https://www.imdb.com/title/tt0047396
 tags:
 - movies
-title: Jalla! Jalla!
+title: Janela Indiscreta
 ---
 
-Filmes independentes como esse do diretor estreante Josef Fares podem ter muitos defeitos na produção que soam ridículos na tela. Um ritmo esquisito, cortes abruptos, péssimo casting, posição da câmera de vídeo caseiro e trilha sonora brega. Diferente das produções caras, de estúdio, com grandes astros, não há muito a perder, exceto a reputação de seu diretor, que a essa altura da carreira está próxima de zero.
+Um dos trabalhos mais lembrados da carreira do mestre de suspense Alfred Hitchcock, o ponto mais marcante da história de L.B. 'Jeff' Jefferies (James Stewart), um fotógrafo que precisa manter-se em seu apartamento por conta de sua perna engessada, é o seu único ponto de vista de todos os acontecimentos. Acostumando-se a observar a vida dos outros prédios em volta, é ele que testemunha um suposto crime. Note que a incerteza dos acontecimentos aliado às histórias paralelas dos seus vizinhos contribui para nossa desorientação, que chega ao seu ápice quando o próprio protagonista passa também a correr perigo.
 
-Então surge essa comédia divertida e sem pretensão de se tornar algo memorável (não que uma coisa tenha a ver com a outra). É um filme feito para que Fares exerça o seu estilo, produzido com seus familiares e amigos para rirem juntos do resultado final. Ele depende do estado de espírito de seu espectador, que não pode se levar muito a sério. Apenas absorva o ridículo da edição sem ritmo, dos zooms exagerados, dos sons de comédia pastelão e curta um ensaio sobre como fazer filmes após a faculdade.
+A questão do ponto de vista é levada a sério do começo ao fim, de forma que o filme transforma os espectadores em uma espécie de voyeurs, já que a maioria dos detalhes cruciais da história são vistos com a ajuda de binóculos e uma lente panorâmica. O uso correto do zoom nas tomadas que temos da visão de Jefferies sem esses aparatos aguça mais ainda a curiosidade, pois não podemos enxergar as expressões das pessoas que vemos à distância. Da mesma forma, mesmo com o uso de lentes, não sabemos exatamente o que essas pessoas falam, o que por si só é um forte gancho para nossa imaginação.
 
-Fares é um libanês que imigrou para a Suécia aos 10 anos de idade com a família, mas não parece muito interessado em esclarecer nenhuma das duas culturas, mantendo sua exploração de temas ao nível de novela. Temas como casamento arranjado e impotência sexual são desculpas de programa de humor para que seus personagens, garis que folgam o tempo todo, saiam da inércia e busquem resolver os problemas que acabaram de surgir em suas vidas.
-
-Quando a narrativa tende a esfriar, o inexperiente Fares coloca todo mundo para brigar ou correr. Ou os dois. A trilha sonora frenética surge como em uma tentativa risível de imitar os mestres da edição de sua época. Como um Guy Ritchie em "Jogos, Trapaças e Dois Canos Fumegantes" sem alguns milhões para gastar, Josef Fares é influenciado, mas não consegue influenciar. No máximo terminar seu trabalho de conclusão de curso.
+Porém, mais revelador é perceber que, assim como no início é citada uma passagem de conhecimento comum sobre todos nós estarmos nos tornando aos poucos xeretas da vida alheia, há uma espécie de prenúncio do que acontece com os personagens (e com o próprio protagonista, que no início olha pela janela apenas com a intenção de se distrair de sua situação). Isso também é, por que não, um quase prenúncio do que nos tornaríamos em frente à televisão e seus reality shows e telejornais sensacionalistas exploradores de violência. E quando digo nós, pretendo mesmo falar no coletivo, pois o fato de não assistir esses programas não nos limita à sua grande influência exercida através dos que o fazem, uma grande massa da sociedade se transformando em inquisidores da vida alheia e espectadores da violência urbana.
 

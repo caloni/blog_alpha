@@ -1,25 +1,25 @@
 ---
 categories:
 - writting
-date: '2018-02-10'
-link: https://www.imdb.com/title/tt7115328
+date: '2018-10-09'
+link: https://www.imdb.com/title/tt2050452
 tags:
 - cinemaqui
 - movies
-title: Paulistas
+title: Pedro e Inês
 ---
 
-Paulistas é daqueles documentários "raiz", onde observar é vital. Estamos em um vórtex do tempo que se abre levemente e revela um mundo onde ninguém da cidade grande está acostumado. E no processo algo muito inspirador vai acontecendo: impera a paz, o simples, o cotidiano e milenar. Tudo junto. Uma ode às nossas origens sem apelar para o apelo emocional e clichê da ecologia.
+"Pedro e Inês" é uma viagem lindíssima por três tempos, três costumes e a mesma perda. Brincando com diferentes narrativas e suas trágicas coincidências, o estado da loucura pode ser impossível de mapear na razão ou é apenas a beleza do essencial que ofusca a rotina.
 
-A base da história é que desde 2014 não há jovens habitando a região de Paulistas e Soledade, no sul de Goiás. O diretor Daniel Nolasco é de Paulistas. A maior parte dos "personagens" são parentes de primeiro ou segundo grau. O foco da narrativa gira em torno de três irmãos -- Samuel, Vinícius e Rafael -- que dividem o filme em três partes bem abstratas.
+A história principal de Pedro e Inês, que compartilham nomes e relações nas outras duas histórias, termina em um sanatório. O filme começa lá e vai nos desvendando os devaneios de Pedro, que nos tempos atuais tenta trazer alguma luz ao clichê máximo do romantismo: o amor proibido.
 
-A escolha do filme em não ter narração falada, se limitando a apenas entrelaçar cenas do cotidiano da região durante as férias, quando os jovens que migraram para a cidade grande vão visitar seus parentes, é um tiro no pé da história que ele pretente contar. Isso porque é um tema mais complexo do que apenas registrar o estado dessa região. De acordo com o diretor a intenção era contar as principais dificuldades em manter a vida por lá depois que é construída uma barragem para uma usina hidrelétrica e a vinda do agronegócio em modelos corporativos.
+Trazendo interpretações do elenco em mais dois tempos distintos, a monarquia e possivelmente um futuro pós apocalíptico (embora isso não seja certo), a narração de Pedro e sua história soa como um poema em prosa, pois possui a reflexão dos acontecimentos sem precisar explicar os detalhes, que vamos acompanhar em uma filmagem convencional, quase teatral, mas estilizada de maneira magnífica, imortalizada, pela arte e fotografia.
 
-Nós vemos essas duas forças sendo citadas, em uma trilha sonora que quer dizer algo. Mas tudo isso soa espalhado e sem foco, e o que fica mais presente é a vida dos idosos na região, cuidando de suas plantações e seus animais como era feito séculos atrás. A forma de falar dos habitantes é cativante pela simplicidade. Eles sabem que estão sendo filmados, mas ainda assim este se torna um trabalho autêntico.
+Esses detalhes estéticos são importantes, pois os três cenários são limpos, sem poeira, como se os três estivessem acontecendo de fato como Pedro imagina: não com a separação de séculos, mas em paralelo. E se formos levar a questão metafísica que ele levanta, sobre a alma, imortal, sendo condenada a sofrer o mesmo destino várias vezes, o que é o tempo senão a situação dos costumes de uma época? Os seres humanos continuam humanos, e junto deles seus já conhecidos pecados: ciúmes, poder, ambição, desejo por normalidade às regras vigentes.
 
-A melhor parte talvez nem esteja relacionada com as atividades dos irmãos, mas com um senhor que tenta tocar pelo menos uma música que compôs na década de 50. Nos créditos finais vemos a música citada junto de várias outras contemporâneas, e essa já é uma pista relevante de onde o passado encontra o presente, pois não há músicas no meio do caminho: ou é 1954 ou 2013. O que houve no meio?
+Pecando pela perfeição extrema na narrativa, "Pedro e Inês" parece assim elevar o essencial: Pedro precisa de algo para viver, para ser completo. Esse alguém é Inês. Mas por analogia imagine que não fosse essa amada sem personalidade e apenas beleza. Ela poderia ser uma metáfora mais poderosa ainda, sobre o que cada ser humano deseja mais que tudo. E isso, segundo o filme pessimista, nunca lhe será dado pelas situações da época (ou pela natureza humana).
 
-E para preencher esta lacuna o longa também é deficitário. Estréia de Daniel Nolasco na direção, ele é o responsável pela beleza extraída dos registros da região e sua cadência, e embora falte roteiro suficiente para nós entendermos o que está acontecendo, vermos essas imagens humanas por si só, em meio a um apuro visual realista, mas poético, é possível se deixar compenetrado nos hábitos dessas pessoas tão distantes de nossa realidade.
+A interpretação de Diogo Amaral é do mesmo rapaz, preso mentalmente no tempo e espaço onde a história se passa, incapaz de se desvencilhar de sua tragédia e ainda capaz de perceber que ela aconteceu em outros momentos da História, em outras transformações de sua mesma alma. Amaral é apenas impressão que nos traz tensão. Ele e os outros atores não estão ali para criar pessoas de carne e osso, mas para representar peças que se juntam em um emaranhado simples de sensações. É impressionante que mesmo sem muita história para contar, ou com uma história previsível para se desvendar, o filme consiga seguir um ritmo graças à narração apaixonada do ator.
 
-Dessa forma, "Paulistas" se compromete como documentário denúncia ou ficção documental (em que a narrativa seria expõr os acontecimentos trágicos da região), mas ao mesmo tempo ganha peso quando vemos os hábitos primitivos da região, com pessoas que sabem matar um porco e aproveitar suas partes para o jantar da noite (aviso: as cenas podem ser fortes). E de quebra, fica de aviso: há um curta de animação que será exibido antes das sessões do filme, "Quando os Dias Eram Eternos", que vale cada rabisco. Programa duplo.
+Mas não necessariamente ele vai agradar a todos. Solene e com uma trilha sonora coerente, "Pedro e Inês" pode dar sono em um espectador desatento em um primeiro momento, podendo soar como uma história que já se viu tantas outras vezes. Mas calma, respire e pense nas diferenças das outras histórias. Aqui o objetivo não é encontrar semelhanças ou diferenças desses personagens em diferentes momentos do tempo. Ele é algo mais como A Viagem (Cloud Atlas), onde é a essência que nos transporta para as lendas. Esqueça o amor proibido; foque no que você sempre quis e que por algum motivo não está conseguindo.
 

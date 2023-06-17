@@ -1,20 +1,29 @@
 ---
 categories:
 - writting
-date: '2011-11-01'
-link: https://www.imdb.com/title/tt1645109
+date: '2020-02-06'
+link: https://www.imdb.com/title/tt4516162
 tags:
+- cinemaqui
 - movies
-title: Maria My Love
+title: Martin Eden
 ---
 
-Existem filmem que costumam martelar um mesmo conceito por um motivo qualquer. No caso de Maria My Love, projeto independente filmado em um discutível digital (mas "assistível"), o amadorismo no uso do foco é o tal conceito, pois pode-se perceber durante todo o filme sua insistência irritante em nunca manter a lente focada, não importando se o que estamos vendo é um personagem ou objeto.
+Martin Eden... Martin Eden... Martin Eden. Ouvimos esse nome tantas vezes neste filme que ele se torna inconfundível. Um nome que pode significar tantas coisas acaba se tornando indecifrável. No final ele se confunde com a espuma do mar. Nunca existiu este escritor, e nunca existirá, mas ele é a síntese de todos os que já existiram.
 
-Essa "fuga" do foco talvez seja um reflexo de Ana (Judt Marte), a protagonista com problemas em aceitar a morte recente da mãe, que tatua em sua homenagem, em suas costas, os dizeres Maria My Love e sai cambaleando pela vida (e a câmera idem), encontrando um rapaz que vira seu namorado e que por isso mesmo tenta entendê-la e ajudá-la, algo que ela mesma não havia feito ainda consigo mesma.
+Jack London, o mais vendido, mais bem pago e mais popular escritor norte-americano de seu tempo, era um homem de mente rápida e que escrevia romances como correntes de pequenas estórias, e este filme italiano que adapta uma de suas obras mais conhecidas possui um pouco desse emaranhado de sentimentos e momentos. De caráter semi-biográfico, este é um estudo de personagem que se universaliza pelas dores humanas. A história de Martin sugere que ele viu a mesma miséria que Jack, e ela é tão profunda que sequer a enxergamos no filme.
 
-Encantada pelo fato dele ajudar jovens como voluntário em um programa social, ela tenta trilhar o mesmo caminho para de certa forma compensar a falta de atenção que acredita ter sido culpada para com a mãe no leito de morte, mas acaba sendo rejeitada para o cargo (reflexo de sua própria indisposição para ajudar a si mesma?). Ocasionalmente encontra uma mulher debilitada que precisa de cuidados especiais, mas que insiste em morar sozinha e cuidar de si mesma. Enquanto isso, visita eventualmente sua meia-irmã, enquanto evita ter contato com o pai por causa de traumas da época em que sua mãe era tratada.
+Luca Marinelli e Pietro Marcello escrevem um roteiro que mistura elementos literários dramáticos que Pietro Marcello dirige como elementos cinematográficos teóricos. Há cenas belíssimas em um filme com uma fotografia feita para um épico e que não encontra a personalidade com que sonha. Da mesma forma a música, a produção, e seus personagens. Há montagens lúcidas que Marcello conduz que são sutis em suas mensagens, mas que aos poucos se tornam um berro inaudível, pois são incompreensíveis pela racionalidade.
 
-É sintomático que a protagonista não consiga entrar em um hospital (não aceitar ajuda), assim como sua relação com os outros poucos personagens se torna problemático no decorrer da história. O fato é que a relação com a tal mulher, que possui o mesmo nome de sua mãe, se estreita mais do que com seus próximos, e é justamente essa relação que torna a história mais interessante. Utilizando-se de eventos comuns mas ao mesmo tempo incomuns entre estranhos, o filme ganha ritmo ao usar de uma sutileza inteligente por nunca tornar a simbiose entre as duas tão na cara. No fundo, nos custamos a acreditar que exista algo de errado com Ana justamente por causa disso, e é necessário um evento traumático para que isso ocorra.
+Esta é a história de um homem de origem humilde, um marinheiro que navega pelo mundo, e que decide ao visitar uma família burguesa que deseja ser como eles. Porém, nós sabemos que isto não é verdade, pois Martin está apenas apaixonado por Elena, a deusa da beleza, a queridinha do brasão Orsini. Sem completar sua educação formal ele inicia sua jornada para se tornar escritor, pois se apaixona pelas palavras. Acompanhamos, então, a velha batalha dos que decidem ter sua voz publicada, ao mesmo tempo que este romance que une plebe e realeza nos tempos do capital nos entretém ao fundo.
 
-No entanto, embora seja justificável e até louvável essa forma de contar uma história que poderia facilmente soar desinteressante, a verdade é que não há saída, pois a direção começa a devanear por questões menores, o que acaba virando uma muleta narrativa até sua conclusão óbvia, um pouco arrastada, mas cujo maior defeito é revelar artificialmente o que vinha sendo construído durante toda a narrativa. Com isso, voltamos à estaca zero, e nos esquecemos a bem da verdade quem era essa tal de Maria...
+Não é possível evitar se apaixonar por Elena. Jessica Cressy é a coisa mais bela na tela em toda cena em que aparece, tanto que o filme sabiamente retira todo o cenário em volta nas cenas em que apenas ela aparece. Quando Martin está longe de sua amada a imagina em um fundo de cor primária, e apenas ela, com seu sorriso, seu olhar e seus lábios repete a fala que ele acabou de ler em uma das inúmeras trocas de correspondência que surpreendentemente eles conseguem trocar, já que é óbvio que a família desde o início não considera este um relacionamento sério.
+
+Quem também está apaixonado é Pietro Marcello, pelo autor do livro que dirige. Ele mistura ficção e realidade, mesclando imagens de arquivo da época em que Jack London era vivo, para ilustrar o que o autor supostamente viu e imaginou quando estava inspirado. Marcello deixa Martin de lado em alguns momentos, pois quer mostrar imagens que decifrem seus pensamentos sem precisar de palavras, e por isso faz de tudo para inseri-lo no contexto histórico adequado, seja uma cena de crianças dançando quando ele se lembra da infância com a irmã ou um barco de velas antigo quando se lembra de sua origem humilde de marinheiro. O resultado é mil vezes mais fascinante do que a história de Martin. Sua trajetória como escritor já vimos muitas vezes em outros filmes, mas essa mistura de referências soa a poesia, e poesia no cinema é coisa rara.
+
+Se Jessica Cressy é de fato, como o nome de sua personagem denuncia, a deusa grega da beleza, Luca Marinelli como Martin é um frescor de hombridade, um heroi no sentido mais clássico possível. A virtude da atuação de Marinelli é como ele se desvincula de sua beleza quando necessário, na pós-fama e à beira da loucura e solidão, e a usa quando convém ao seu momento de "evolução", como quando é parte da burguesia, ainda que um invasor, mas se sente, ou quer se sentir, um deles. O ator é verdadeiro em cada momento, mais verdadeiro que a incógnita que surge das páginas escritas por Braucci e Marcello.
+
+"Martin Eden" viaja através da sociedade e da política como a dizer coisas muito importantes, mas como seu protagonista é um individualista convicto seu discurso é inatingível tanto pelos socialistas quanto pelos liberais. Disposto a caçoar de tudo e de todos, este é um filme que não deve ser levado a sério em suas mensagens ideológicas, pois ele de fato não as possui, usando apenas o que é necessário para construir uma figura polêmica e contraditória. Mas o mais engraçado será acompanhar as rodinhas de discussão em torno do que ele diz, ou ver alguns tuítes raivosos.
+
+Eu, particularmente, prefiro me manter firme e forte como acompanhador de memes. E gifs animados.
 

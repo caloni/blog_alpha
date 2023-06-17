@@ -1,16 +1,20 @@
 ---
 categories:
 - writting
-date: '2015-08-23'
-link: https://www.imdb.com/title/tt1361313
+date: '2013-07-28'
+link: https://www.imdb.com/title/tt2243389
 tags:
 - movies
-title: Os Acompanhantes
+title: Os Amantes Passageiros
 ---
 
-Não é de hoje que acompanho o ótimo desempenho de Paul Dano e sua ascenção desde Pequena Miss Sunshine. Dotado de uma feição característica, sua figura simpática e ingênua soa familiar na maioria dos seus filmes em que é o mocinho. Porém, o que mais gosto nele são seus trabalhos como vilão (Sangue Negro, 12 Anos de Escravidão, Os Suspeitos), pois sua feição "característica" adquire uma função muito mais efetiva: a vontade de socar a sua cara.
+Almodóvar volta às suas origens das divertidas comédias dramáticas voltadas para personagens homossexuais, videntes e todo o tipo de intriga novelesca. Aliás, a diferença vital entre novelas televisivas e Almodóvar é que este conta uma história como ninguém (e geralmente assina o roteiro).
 
-Por isso é de se entender que em Os Acompanhantes quem se sai melhor é Kevin Kline com seu excêntrico Henry Harrison. A história basicamente é sobre o convívio desses dois em um apartamento em Nova York. Henry é um falastrão que vive às custas de seus contatos com a alta sociedade e pequenos truques do dia-a-dia. O personagem de Dano, Louis Ives, é fã de livros que retratam a década de 20 (O Grande Gatsby) e imagina sua vida ilustrada por um narrador desse tipo de livro/filme. Porém, mais do que isso, Louis vive em uma indecisão a respeito de sua sexualidade, pois a lingerie afeta o rapaz de tal maneira que ele sente a necessidade de se vestir de mulher.
+Outros aspectos da cinegrafia que o fez famoso se mantêm, ainda que ausente em penúltimo trabalho ([A Pele que Habito]), o que demonstra que o diretor sabe se livrar de suas "marcas" quando o filme precisa, e que aqui volta com tudo: vermelho, amarelo, azul, roxo... tudo no Cinema de Almodóvar é exagerado, nada sutil e, hoje em dia, pouco polêmico.
 
-O resultado é um filme simpático, igualmente excêntrico, bem conduzido pela dupla de diretores Shari Springer Berman e Robert Pulcini, responsáveis pelo mediano Minha Vida Dava um Filme. A direção de arte de Charles Kulsziski consegue unir o moderno com o de época com poucos elementos, embora a atuação de Paul Dano faça praticamente todo o serviço de transição (tanto que ele nem parece pertencer à mesma época em que a história se passa).
+A única "polêmica" parece estar apenas na "modernice" de seus temas: fraudes financeiras e como elas são escandalosamente menos escandalosas que o sexo, e o mundo hiper-conectado (onde o melhor exemplo é uma divertida e útil metáfora envolvendo um telefone quebrado que permite que todo o avião ouça o que está sendo dito). Apreciamos pequenos contos que parecem ter saído da própria filmografia do cineasta dentro de um avião que precisa realizar um pouso de emergência, mas enquanto aguarda por um aeroporto que coopere precisa entreter seus passageiros de alguma forma.
+
+Quase nunca deixando de entreter, as mensagens das histórias estão tão interconectadas e tratadas de maneira tão "passageira" que sua força se esvai com a própria conclusão, querendo dizer 1) mais uma vez um eco das nossas efêmeras relações com o mundo moderno ou 2) a falta de foco do próprio idealizador, afetado pelo mundo que tenta criticar. De qualquer forma, ruim ou bom, um filme novo de Pedro Almodóvar sempre será algo bem-vindo.
+
+[A Pele que Habito]: {{< relref "a-pele-que-habito" >}}
 

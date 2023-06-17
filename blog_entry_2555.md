@@ -1,22 +1,25 @@
 ---
 categories:
 - writting
-date: '2020-03-28'
-link: https://www.imdb.com/title/tt0101316
+date: '2015-01-06'
+link: https://www.imdb.com/title/tt2639344
 tags:
+- cinemaqui
 - movies
-title: O Amante
+title: O Amor é Estranho
 ---
 
-Eis um filme perfeito do início ao fim. Seu início é enfadonho e preguiçoso, mas no primeiro momento em que este milionário chinês e esta ninfeta europeia se encontram na cama de um quarto sujo de um bairro pobre e distante dos grandes centros, ele nunca mais volta a ser enfadonho.
+Esse é um filme sabotado por sua própria doçura e leveza. E, mesmo assim, se não tivesse o seu final, poderíamos estar diante de um drama melancólico. Apesar de ter participações de outros personagens em pé de igualdade, a história principal gira em torno de George (Alfred Molina), Ben (John Lithgow) e o casamento dos dois: uma linda cerimônia que reuniu toda a família para celebrar uma união já existente há 40 anos. Infelizmente, ela é o estopim para os problemas que o casal terá que enfrentar.
 
-Sua história é bem direta: é um Lolita realista, épico, mostrado do ponto de vista de uma garota de quinze anos e meio em uma situação completamente diferente. É uma obra quase autobiográfica de Marguerite Duras, que viveu no Vietnã no início do século na pobreza com seus irmãos e a mãe, e já revelando seu final no começo do filme, se tornou a escritora que tanto desejava no início de sua vida. Ao custo de, de acordo com suas palavras, "ter envelhecido completamente aos 18 anos".
+A Igreja, como de costume, tem que zelar pelos seus valores retrógrados e incompatíveis com a felicidade do maduro casal, e mesmo George sendo um cristão praticante ela é obrigada a dispensá-lo do coral onde leciona, o que coloca o casal em dificuldades financeiras. Ironias à parte, o padre já sabia de tudo há muito tempo, mas tem que tomar as devidas providências quando o fato acaba sendo publicado em uma rede social. 
 
-A relação entre ela e o chinês é puramente sexual. E este só pode ser um filme biográfico, pois os detalhes com que eles fazem sexo só pode ter saído da cabeça de quem realmente teve essa experiência. Nunca um filme antes havia mostrado o ato conforme ele acontece, e agora, graças à ajuda do diretor Jean-Jacques Annaud e o roteiro de Duras, temos um exemplo concreto, paupável e inesquecível. Não há freios morais aqui como no Ocidente contemporâneo que pare essas descrições visuais.
+Os parentes, obviamente transtornados, tentam acolher Ben e George da melhor maneira possível enquanto eles procuram um novo lar. É quando descobrimos que a relação amorosa do casal não é o "estranho" do título, como uma ideia pré-concebida sobre filmes de temática gay. Isso nem é mais uma novidade na família, como dois simpáticos e inusitados policiais podem provar. O "amor" do título é o que se manifesta em cada um dos envolvidos. É a maneira torta com que uma sobrinha prefere não comentar o quão incômodo é o tio a desconcentrando o dia inteiro com suas conversas. É a paciência de George tendo que conviver com incessantes reuniões e festas em torno da sua cama improvisada: o sofá da sala. É a comovente carta com que George se despede de seus alunos, se livrando de qualquer sentimento de rancor ao som de Chopin.
 
-O achado do filme foi Jane March, uma modelo que em seus dezoito anos protagoniza com propriedade a estrangeira ninfeta que faz o papel da estrangeira em um mundo exótico. Não há muitos personagens, e sequer há nomes para os dois principais. Há apenas a descrição visual e narrativa, um tanto brega, mas eficiente, e a percepção do espectador do que pensar sobre tudo isso. Nossa mente caminha livre pela beleza desse [Império dos Sentidos] adolescente.
+O principal afetado na história, no entanto, em foco desde o início quando o vemos sorrir durante o matrimônio é o jovem e inseguro Joey (Charlie Tahan). Ele vive uma amizade controversa com Vlad (Eric Tabach) que preocupa seus pais de uma maneira não-ambígua. Ele é o gancho para uma belíssima rima que encontra sua força no segundo final já citado.
 
-Cinema é sexo, como já sugeria a crítica Pauline Kael, nos títulos dos seus livros e no prazer que lhe era proporcionado pelos anti-heróis que subvertiam a ordem moral. E O Amante é o filme que ela adoraria escrever sobre.
+Infelizmente, o recheio dessa estrutura carece de algum empenho em se fazer notar, e apesar de entendermos a abordagem quase natural do diretor Ira Sachs em não se meter no andamento da história, fica óbvio que na conclusão ele desiste e parte com um ímpeto agressivo que teria funcionado muito melhor se tivesse sido feito antes. A grande virtude do filme reside muito mais no roteiro (assinado pelo próprio Sachs e o carioca Mauricio Zacharias, de O Céu de Suelly). A sua maneira de aproveitar todas as oportunidades de diálogo para ir revelando detalhes que vão compondo um mosaico muito mais complexo dos personagens é o que beneficia os atores.
 
-[Império dos Sentidos]: {{< relref "o-imperio-dos-sentidos" >}}
+E quem melhor aproveita os diálogos inspirados aliado à direção pouco invasiva são John Lithgow e Alfred Molina, que criam um casal absolutamente adorável e perfeitamente crível. Sentimos isso através dos detalhes na forma de se entenderem que esses dois estão juntos há muito tempo. O primeiro diálogo do filme é quando Ben acorda buscando seus óculos e George, já prevendo as futuras ruminações do parceiro, exclama um "hoje não!". Logo em seguida, ao tentar inutilmente conseguir um táxi, ambos têm uma breve discussão que logo é desfeita, dando a entender que não vale a pena ficar se desentendendo com trivialidades. O amor entre eles vale mais que qualquer atribulação passageira.
+
+Dessa forma, mais uma vez voltamos em como o amor se manifesta das mais estranhas maneiras. É complicado considerar esse um ótimo filme sobre o tema apenas pelas suas nobres intenções, quando até a dispersa A Árvore da Vida consegue amarrar melhor sua trama. No entanto, O Amor é Estranho está longe de ser um trabalho irregular. Ele convence, embora com profundidade moderada.
 

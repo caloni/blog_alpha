@@ -1,11 +1,19 @@
 ---
 categories:
-- writting
-date: '2017-05-24'
+ - blogging
+date: '2023-06-15'
+link: https://www.wireguard.com/
 tags:
-- beer
-title: Wild River Double Hopped Pale Ale
+ - english
+title: WireGuard
 ---
 
-Red Ale que parece Pale Ale não tão amarga.
+This is the VPN solution used in the project I am working on, a simple and secure packet distribution and controlled by the IP addresses configured for each peer. There is a very nice example in [the home of WireGuard project](https://www.wireguard.com/).
+
+>
+> In other words, when sending packets, the list of allowed IPs behaves as a sort of routing table, and when receiving packets, the list of allowed IPs behaves as a sort of access control list.
+>
+> This is what we call a Cryptokey Routing Table: the simple association of public keys and allowed IPs.
+>
+
 

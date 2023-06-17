@@ -1,11 +1,11 @@
 ---
+
+Amargor com frutas maduras, pouco tânico, mas fácil de ser sentido. Degustação pós-visita na bodega.
+
+---
 categories:
 - writting
-date: '2019-04-20'
+date: '2017-05-17'
 tags:
-- wine
-title: El Esteco
----
-
-Malbec 2014 que achei no Carrefour de Neuquen (Argentina) por 30 conto e estava amargo demais. Deixei na geladeira e depois de um tempo ficou bacananinha, adstringentes e com frutas negras, alguma textura, apesar de ainda nada demais para um Malbec envelhecido em supermercado.
-
+- food
+title: El Esteco Ciclos Cabernet Sauvignon 2014

@@ -1,26 +1,22 @@
 ---
 categories:
 - writting
-date: '2011-05-27'
-link: https://www.imdb.com/title/tt0120915
+date: '2011-06-23'
+link: https://www.imdb.com/title/tt0076759
 tags:
 - movies
-title: 'Star Wars, Episódio I: A Ameaça Fantasma'
+title: Guerra nas Estrelas
 ---
 
-Quando se mexe com algo sagrado como a trilogia clássica de Star Wars ou alguém está produzindo uma sátira ou essa pessoa é George Lucas. Por mais que os fãs apontem defeitos e/ou sugestões, o Criador da saga sempre teve palavra final. Portanto, não é de se admirar que a nova trilogia comece com seu roteiro, direção, e autoridade.
+Sem modelos anteriores além dos arquétipos narrativos como a clássica jornada do herói, o primeiro Guerra nas Estrelas brilha pela sua produção inusitada. Flertando entre o trash e o onírico fantasioso precursor da era das superproduções, o trabalho de George Lucas transita sem avisar entre o risível e o épico. Ele pode ser entendido como a mescla perfeita que gera o pop, esse sentimento de auto-importância criado na base do berro que fascinou e fascina gerações.
 
-Porém, autoridade não é sinônimo de competência. Não que o resultado final seja ruim, de fato, mas acaba se tornando reflexo do enorme poder de influência dos filmes anteriores, causando um certo tipo de "empolgação por tabela".
+O épico do filme é sentido melhor ao analisarmos o universo dessa galáxia tão distante e suas criaturas bem trabalhadas em um filme que envelheceu bem. Há Chewbacca, um ator com uma fantasia de pelos brilhantes que se comunica por sons animalescos indecifráveis. Há C3PO, um ator vestido com pedaços metálicos brilhantes cujas articulações são visíveis ao mesmo tempo que seu lado humano em suas análises emotivas em meio a perigosas missões de guerra. Note que ambos usam materiais brilhantes da mesma forma com que a palavra "brilhante" pode ser entendido como algo genial ou apenas algo que brilha.
 
-Aqui temos a história de um evento na República que ameaça Rainha Amidala e seu povo, ao mesmo tempo que um Jedi encontra um menino dotado de capacidades especiais. Ambientada em diferentes planetas, como de costume, e em diferentes contextos, a narrativa mantém um subtexto através de pistas nos diálogos, no movimento de câmera e na música que tentam sempre definir o que está por vir, que é o surgimento de Darth Vader, o personagem mais marcante da trilogia clássica. A tentativa acaba funcionando na maioria dos casos, embora apresente pistas de uma maneira tão discreta que em um primeiro momento poderia passar despercebido pela maioria dos espectadores, o que é uma pena, pois é esse subtexto que é construído durante a trama que nos remete à história original e que une as pontas entre as diferentes aventuras da saga.
+Seus heróis são pessoas comuns, seres humanos em meio a diferentes raças. Eles são princesas, mercenários e catadores de lixo com potencial de salvar a galáxia das forças malignas do Império. E o Império é a versão espacial e alternativa do que aconteceria se os nazistas tivessem inventado a bomba atômica primeiro. Aqui ela é chamada de Estrela da Morte com um sentido poético e trágico: em vez de iluminar a vida dos planetas em sua volta este aparato consegue explodir um planeta inteiro e suas vidas em questão de segundos.
 
-São detalhes que já sinalizam o que vai acontecer, como a música-tema do Império quando Yoda confessa a Obi-Wan Kenobi (McGregor) que teme pelo treinamento de Anakin Skywalker (Lloyd), ou quando os Jedis comentam que os Siths, algo como "Jedis do mal", costumam andar sempre em pares (um aprendiz e um mestre), no que a própria câmera dá uma pista, uma prova da astúcia de Lucas de implantar pequenas dicas para os fãs mais atentos. E, ao final dos créditos, pode-se ouvir a respiração do personagem já citado.
+Esta é verdadeiramente uma guerra nas estrelas, com naves, explosões e confrontos com lasers e sabres de luz. Há no meio um elemento místico, a Força, que une os seres vivos em torno de uma energia capaz de criar e destruir com a mesma intensidade. A crença na Força, o jedismo, virou uma religião de fato nessa galáxia, trazendo ironia e metalinguagem na mesma tacada.
 
-Porém, algumas construções não foram articuladas o suficiente para nos ausentar de algumas surpresas de roteiro, como o fato de Padme confessar que nunca deixará de cuidar de Anakin, sendo que não havia nenhum laço definido entre os dois que indicasse tamanha intimidade no "relacionamento" entre eles. Mais engraçado é que essa informação remete à nova trilogia, em uma tentativa agora de juntar as pontas nos três novos filmes, algo menos necessário e feito de maneira desajeitada.
+Guerra nas Estrelas é um filme inacabado. Está sendo constantemente retocado pelo seu criador, George Lucas, embora seu destino hoje esteja em outras mãos. O filme se tornou uma saga amarrada nos seus elementos mais primordiais e uma trilha sonora composta por John Williams em um momento de puro deleite. A máxima de que filmes devem ser vistos na sala de cinema nunca foi mais atual.
 
-Ainda que existam indícios que unem os contextos da série, o fato é que nem sempre histórias, para serem contadas por completo, exigem o conjunto de três episódios. Portanto é compreensível que se entenda o primeiro desses episódios do ponto de vista puramente comercial, pois, se analisarmos em que Episódio I contribui para a saga como um todo, constataremos que quase nada, pois a história é, no máximo, episódica, necessário para apresentar personagens (tal como Superman I), mas como estamos falando aqui de uma narrativa das origens de personagens já existentes por três filmes seguidos, acaba por perder a Força.
-
-Ainda assim, alguns detalhes chegam a ser interessantes, e só. É curioso, por exemplo, notar a diferente postura dos Jedis frente a uma espera durante o conflito (o que por si só representa a postura frente à mesma Força). Ao mesmo tempo, se a intepretação de Ian McDiarmid como senador Palpatine não chega a ser primorosa, é envolvente e misteriosa o suficiente para dar as primeiras pistas de suas reais intenções (o melhor exemplo é seu sorriso disfarçado ao final de uma cena-chave da trama).
-
-Outras cenas são pura diversão, como a corrida de podracers, que faz uma discreta homenagem à corrida de bigas de Ben-Hur.
+Nesse quesito, Star Wars consegue não só criar planetas, raças e as relações diplomáticas entre eles, mas recriar dentro desse mundo conceitos filosóficos do nosso próprio mundo, servindo de um espelho da própria raça humana, escancarando nossas virtudes e defeitos em seres que, mesmo que fruto da fantasia de George Lucas, conseguem transmitir sua "humanidade" em sua melhor e pior formas.
 

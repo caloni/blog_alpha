@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2016-10-22'
-link: https://www.imdb.com/title/tt4016454
+date: '2014-09-19'
+link: https://www.imdb.com/title/tt0839995
 tags:
-- series
-title: Supergirl
+- movies
+title: Superman II - The Richard Donner Cut
 ---
 
-A nova série da "menina de aço" parece importada do seu original de 1984 e atualizada de maneira preguiçosa com os temas do momento (leia: feminazismo). Se até a metade do piloto conseguimos nos importar minimamente com a trama e, principalmente, com o destino de Kara e a decisão de ser quem ela verdadeiramente é (uma super-heroína), de lá pra frente o que vemos é a entrega total ao televisivo, a soluções fáceis e a modelos de entretenimento que utilizam referências dos últimos trabalhos da DC para soar antenado.
+Richard Donner's cut é superior à versão original não por causa da inspiração original da história. Isso é besteira, pois o roteiro já havia sido mastigado inúmeras vezes, ao ponto de ter sido dito que não havia nem mais um palavra de Mario Puzzo (que havia escrito ambos os originais). Além disso, o próprio original foi modificado para encaixar o final da rotação da Terra que seria usado apenas em sua continuação e por um motivo mais legítimo (Zod e sua trupe teriam destruído boa parte do planeta).
 
-O que torna tudo uma pena é que a garota, interpretada por Melissa Benoist, parece ter feito o dever de casa, ao menos nas expressões e movimentos de corpo que fizeram de sua versão masculina --  Clark Kent -- tão divertido quando a imponência do seu verdadeiro eu. Aqui temos o cômico nas caras de Benoist sem a imponência de sua versão "adulta", o que pode ser até explicado como apenas o começo de seu arco narrativo.
+Porém, o tom deste Superman II está em sintonia com o drama filosófico/religioso do original, além de saber usar o humor em momentos pontuais que não fogem da trama, diferente das tiradas sem critérios adicionadas por Richard Lester (o novo diretor sequer encontra freios após um momento em que todos acham que Superman está morto). Também é preciso dar créditos para o diálogo original com Jor-El, mal adaptado ao usar sua esposa depois que Marlon Brando se recusou a voltar ao set de filmagem para refazer suas cenas (curiosamente sua fala como está foi usada por Brian Singer em Superman Returns).
 
-Os efeitos visuais dão para o gasto. São bem elaborados, o salvamento do avião é convenientemente feito à noite e com closes bem próximos da improvisada Supergirl de preto. Os detalhes técnicos de uma produção e baixo orçamento para os computadores de hoje parece um mero detalhe que não deve incomodar o fã; pelo contrário, deve conquistá-lo pela atualização do que é possível fazer hoje com séries secundárias como essa.
+Mesmo a trilha sonora consegue ser visivelmente mais inspiradora, tanto por usar os arranjos originais de John Williams (posteriormente modificados por Ken Thorne no filme de 80) quanto por entender a proposta deste ser mais uma aventura épica do super-herói dos quadrinhos que irá alterar as bases morais do personagem, e não um episódio grandioso, embora desnecessário.
 
-O que incomoda mesmo é o modo acelerado e burocrático com que o episódio piloto resolve apresentar todo mundo e já fazer as devidas conexões para um formato que no minuto final já está definido, o que implicitamente é uma fórmula para séries medíocres e enlatadas, que usam o mesmo formato em todo episódio para encher linguiça eternamente (ou até a audiência abaixar). E se a interpretação de Melissa Benoist como Kara seria interessante, todo o resto dela e de todo o elenco não é, pois cai no convencional e cartunesco, tornando a experiência já inflada desde o começo.
+E mesmo o tratamento à história, apesar de quase idêntica, tem seus méritos por não fugir tanto do pseudo-realismo criado na estreia do herói, como o salto de Louis Lane para provar que Clark Kent é Superman (e também faz muito mais sentido ela perceber isso mais no início da trama, e não depois de ter revisto o homem de aço meia-dúzia de vezes). A fantasia dos óculos tem um limite, um contrato frágil com o espectador. É saudável não forçar demais a barra.
 
-Bom, ao menos, como disse uma atendente de lanchonete de passagem, agora as filhas das pessoas terão em quem se espelhar como heróis, nos mesmos moldes das caça-fantasmas de hoje em dia. Talvez seja pedir demais por algo além do enlatado televisivo. Talvez eu, quando era um moleque, também me espelhava nas péssimas séries do Superman e Batman sem me importar com arcos narrativos, elipses ou complexidade de personagens. O que importa é romance e pancadaria.
+Por fim, apesar da conclusão parecer cópia descarada do original é preciso lembrar, como já havia dito, que isso foi fruto da confusão do lançamento do original com atraso, em que o roteiro de ambos se juntaram para que fosse terminado pelo menos o primeiro filme. Engraçado que ambos são usados exclusivamente por causa de Louis, o que me faz reavaliar a fala de Ursa quando diz que o super-herói da humanidade "se contenta com pouco".
+
+Na minha humilde opinião, já não podemos mais dizer o mesmo de Amy Adams no novo Homem de Aço (para a atriz, que fique bem claro; infelizmente a fala de Ursa ainda é verdade para o seu personagem frágil e sem sentido).
 

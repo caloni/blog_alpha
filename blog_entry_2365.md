@@ -1,21 +1,20 @@
 ---
 categories:
 - writting
-date: '2020-10-13'
-link: https://www.crunchyroll.com/pt-pt/miss-kobayashis-dragon-maid
+date: '2019-03-17'
+link: https://www.imdb.com/title/tt0120755
 tags:
-- animes
-- series
-title: Miss Kobayashi's Dragon Maid
+- movies
+title: 'Missão: Impossível 2'
 ---
 
-# Atualizado em 2020-10-22
+Quem diria que Thandie Newton, da série Westworld, era uma Hunt Girl da segunda aventura da série? E ela está um pitelzinho. Sua função no filme é ser uma delícia linda, basicamente. Se observarmos ela e o número de câmeras olhando para seu lindo rosto (e corpo), muitos em câmera lenta, vamos aos poucos entendendo todas as falhas desse que é o pior filme de todos os outros até agora. Ele é farofa em um mal sentido, ele é datado em sua estética e lembra tudo de ruim que estava acontecendo com os filmes de ação depois do nerd Matrix chegar e roubar a cena.
 
-Ela se diz um dragão, mas é doméstica e tem peitão. Essa série possui traços fofos e nos remete a épocas menos estilizadas. Um episódio ou dois é suficiente para matar a curiosidade, mas seus personagens são cativantes e são apresentados aos poucos, o que merece uns episódios a mais (depois cai na mesmice). Você já os viu antes em outros animes, mas não com essa personalidade cativante. São dragões no corpo de humanos. A graça está no contraste cultural. Ela odeia humanos, mas se apaixona por uma. Não é preciso explicar demais, entendemos apenas como acompanhantes desta despretensiosa e deliciosa história.
+Ethan Hunt é encontrado escalando montanhas com suas próprias mãos. Seu vilão derruba um avião cheio de inocentes; ele rouba um vírus mortal que foi fabricado para gerar bilhões para um empresário ganancioso, embora feito por um doutor que é fã de mitologa grega, o que torna tudo mais interessante, com os papos de Quimera e o escambal. O diretor John Woo olha para uma locação na Espanha e a usa como um símbolo de alguma coisa quando Hunt e Thandie (fazendo a bela ladra Nyah) se encontram pela primeira vez.
 
-A fofice dos seus personagens não está apenas nos traços, mas nas atitudes. É um anime que coloca questões de relacionamentos acima das velhas fórmulas de casal. Aliás, não existe literalmente nenhum casal homem e mulher tradicional na história. Zero. Mas você tem os casais de uma moça dragão e uma humana, uma criança e uma dragão extra-peituda, entre duas crianças, e uma delas é um dragão, e entre dois jovens, um deles, claro, também dragão. Perceba como ser um dragão acaba sendo uma desculpa conveniente e bem humorada para falar sobre esses sentimentos não-usuais entre inusitadas duplas. Não que casais gays sejam inusitados em um século que os celebra, mas ao torná-los uma curiosidade inofensiva e lúdica, em vez de afastar os espectadores mais tradicionalistas ele flerta com a possibilidade de trazer novos adeptos da comunidade DDDDD+ (Dragon, Dragon, Dragon, Dragon e outros).
+Essa é a aventura que tenta explorar novas ideias para a série e falha miseravelmente. Mas é interessante ver como as ideias vão sendo recicladas a cada novo filme. Me pergunto se vermos Protocolo Fantasma ou Nação Secreta daqui a 20 anos nos trará uma sensação de datado e ridículo como esse "Mission: Impossible II" nos traz.
 
-Essa é a desculpa perfeita para demonstrar como duas garotinhas do segundo ano da escola podem nutrir uma pela outra uma paixão platônica, mesmo que com atração física, e ainda serem amigas em que uma suporta a outra. Da mesma forma dois jovens que jogam video-games juntos em uma minúscula casa e se entendem na hora de cozinhar ou quando um deles vai dormir e o outro madrugar é o exemplo perfeito de amizade entre homens que se amam pelo que são um pelo outro, e onde nesse caso não há nada de atração física, mas antes o companheirismo de verdadeiros amigos.
+O excesso de câmeras lentas e de explosões sem sentido, além de um Tom Cruise impossivelmente fanático em cima de uma moto, nos faz lembrar do período louco onde ainda boa parte dos efeitos era feito com dublês e montagens (e não computadores como hoje). Ao mesmo tempo, como história esse é um filme que se dá moderadamente bem para o gênero. Cria sub-tramas que convencem e com poucas falhas (se não prestar muita atenção) e vai aos poucos criando os momentos onde Tom Cruise fará algo de difícil execução. O problema aqui é que isso demora muito, e enquanto isso não há muito o que fazer senão olhar para o canastrão de Dougray Scott, que faz a primeira tentativa de vilão marcante, com seu Sean Ambrose, mas é demais para o ator.
 
-Miss Kobayashi's Dragon Maid resgata esses sentimentos lúdicos e que soam antiquados hoje em dia e os torna mais do que desejáveis: os torna naturais.
+O filme apresenta um novo e temporário membro da equipe de Cruise com Richard Roxburgh como o britânico Hugh Stamp (além do sempre presente personagem de Ving Rhames, Luther Strickell) e uma ponta para dar seriedade de Anthony Hopkins (curioso Hopkins e Newton estarem no mesmo filme e duas décadas depois voltarem ao mesmo conteúdo com Westworld). Chega de curiosidades. Sobre o filme, é difícil pensar muito nele por muito tempo, exceto do que ele representa na série. E basicamente é tentar alavancar os próximos filmes.
 

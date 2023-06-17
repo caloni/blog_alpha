@@ -1,43 +1,24 @@
 ---
-categories: []
-date: '2008-07-14'
-tags: null
-title: Segunda versão do Houaiss2Babylon
+categories:
+- writting
+date: '2020-03-27'
+link: https://www.imdb.com/title/tt8771910
+tags:
+- series
+title: 'Self Made: Inspired by the Life of Madam C.J. Walker'
 ---
 
-Depois de vários comentários de pessoas tendo problemas em converter seus dicionários Houaiss para o formato Babylon, resolvi criar vergonha na cara e dar uma pequena melhora na versão beta do conversor.
+Daquelas séries biográficas que pode ser lida em quinze minutos na internet. E de quebra você estará melhor informado sobre os fatos e não engolirá a cartilha social corrente. Por exemplo, é óbvio que a filha dessa milionária negra não era lésbica na vida real, assim como não existia uma vilã milionária mestiça para confrontar a pureza do sangue de uma afro-americana. Parece existir apenas uma verdade nessa mistureba roteirizada por Nicole Jefferson, Elle Johnson e a tataraneta da protagonista: no fundo todos gostariam de ser brancos.
 
-Agora a maioria dos erros que houver será descrita por uma mensagem no seguinte formato:
+O primeiro episódio é amador, com fotografia pedestre e que joga as cenas como o palco de um teatro. Octavia Spencer é a única coisa que nos convence a continuar assistindo os próximos episódios, pois Spencer pode interpretar um poste e esse poste ganhará o Oscar. Os diálogos e a narração em off, risíveis se não fosse pela atriz, nem chegam a se comparar ao teatro, mas de novela. Lembra o meme "cries in spanish" na versão "fala maldades em inglês sulista americano".
 
-{{< image src="houaiss2babylonerror.png" caption="Erro no Babylon" >}}
+Após o desastroso piloto a fotografia se ajusta ao conteúdo: uma protagonista que enriquece e vira uma versão muito bem-vinda de Dagny Taggart, a heroína de A Revolta de Atlas, clássico absoluto de como empresários são figuras fascinantes mesmo em histórias caricatas como a da novelista filósofa Ayn Rand.
 
-O primeiro erro acima ocorre principalmente se não houver algum Houaiss instalado que o programa possa detectar. Resolva este problema comprando um.
+Octavia Spencer continua sendo a melhor coisa da série do começo ao fim. Sua presença sempre eleva a qualidade das cenas, a textura entre os personagens e a profundidade das emoções em jogo. Isso não é graças aos diálogos, que continuam muito ruins. São pedaços de texto genéricos, com quase nenhum momento digno. Exceto por um ancião, interpretado por Garrett Morris com uma dignidade que falta à série, quando ele dá um sermão em seu filho, lembrando o que era um relacionamento duro de verdade com sua esposa, na época que ambos eram escravos.
 
-Abaixo segue a função criada para exibir essas mensagens:
+Estes são os EUA do início do século 20, em que os escravos livres ainda estão vivos, e os filhos mestiços com seus antigos donos são bem vistos por terem a pele clara. Ou pelo menos essa é a visão entregue pela série dirigida pela dupla DeMane Davis e Kasi Lemmons, escolhidas provavelmente por serem mulheres negras, e não por qualquer virtude narrativa que elas possuam, já que a série se desenvolve sem alma alguma.
 
-```cpp
-void MessageError(DWORD err, PCSTR msg, ...)
-{
-	CHAR errBuffer[100];
-	CHAR msgBuffer[ERR_STR_BUF_SIZE];
-	va_list vaList;
+Porém, a história de superação de C. J. Walker por si só já seria motivo da série, que busca de forma incessante criar uma vilã para essa heroína sem perceber que assim como no drama de Ayn Rand é o espírito do tempo que se torna o verdadeiro vilão de uma heroína como Walker, uma mulher que nunca se acostumou a pedir perdão ou licença. Ela faz o que deve ser feito, a despeito do que os outros achem.
 
-	va_start(vaList, msg);
-	vsprintf(msgBuffer, msg, vaList);
-	va_end(vaList);
-
-	sprintf(errBuffer, " Erro de sistema número %d.", (int) err);
-	strcat(msgBuffer, errBuffer);
-
-	MessageBox(NULL, msgBuffer, STR_PROJECT_NAME, MB_OK | MB_ICONERROR);
-}
-```
-
-Se você notou, a função acima pode receber um número de argumentos variáveis para formatar a string da mensagem principal do erro, além de exibir seu código. Essa mágica pode ser feita usando-se o cabeçalho padrão "stdarg.h". Através dele temos acesso ao tipo va_list, que representa uma lista de argumentos variáveis.
-
-Pela convenção de chamada da linguagem C (e C++), quem desmonta a pilha é o chamador. Sendo assim, a função chamada não precisa conhecer o número de argumentos com que foi chamado.
-
-A função de formatação de string é uma variante do conhecidíssimo printf, na versão que recebe um tipo va_list. Muito útil para formatação de logs.
-
-A versão beta do Houaiss2Babylon está para sair. Não estarei mais atualizando o saite do projeto no LaunchPad. Aguardem por mais novidades no próprio blogue.
+Curioso como o mau gosto musical anda de mãos dadas em obras onde a heroína é uma empresária que move os motores do mundo. Aqui a mescla entre uma série de época com músicas pop contemporâneas é no mínimo desastrosa. É como se estivéssemos assistindo a uma versão com trilha sonora provisória e cuja escolha era o que estava passando no Spotify naquela hora. Esses dois mundos nunca se encaixam em "C. J. Walker", assim como a cartilha social vigente nunca se encaixará em uma história que enaltece uma mulher que se faz sozinha.
 

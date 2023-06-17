@@ -1,28 +1,18 @@
 ---
 categories:
-- playing
-date: '2023-01-11T22:49:01-03:00'
-link: https://www.chess.com/game/live/67225834285
+- writting
+date: '2011-08-22'
+link: https://www.imdb.com/title/tt1231583
 tags:
-- chess
-title: Um movimento de peão e já era
+- movies
+title: Um Parto de Viagem
 ---
 
-Brancas jogam e é mate em poucos lances.
+Aparentemente, alguém achou engraçado colocar Robert Downey Jr. (Homem de Ferro, Sherlock Holmes) e Zach Galifianakis (Se Beber, Não Case 1 e 2) contracenando um filme inteiro. De fato, o resultado foi, no mínimo, interessante. Engraçado, é discutível.
 
-{{< image src="board.jpeg" >}}
+O fato é que, interpretando duas figuras problemáticas (Zach, mais explícito, Downey Jr, mais inerte) que precisam conviver por dias em uma viagem cruzando o país não foi uma ideia lá muito original, mas que rendeu bons frutos graças ao carisma e à interpretação dos dois atores, que conseguem convencer -- e aí é que está a graça -- que Peter Highman e Ethan Tremblay possuem sérios problemas de convivência social.
 
-```
-[Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2023.01.12"]
-[White "cavaloni"]
-[Black "SYAHDAN28"]
+Dirigido e co-escrito por Todd Phillips, o filme se concentra basicamente nas reviravoltas que essa viagem ao estilo road movie proporciona para seus integrantes. Nunca tentando soar absurdo, a história se foca nos problemas pessoais dos dois personagens, e faz com que o drama de ambos ganhe um certo peso, mesmo se tratando de uma comédia.
 
-1. Nf3 c5 2. e4 Nc6 3. Bc4 d6 4. a3 Nf6 5. Nc3 e6 6. d3 Be7 7. Be3 e5 8. Ng5 O-O
-9. O-O h6 10. Nf3 Nd4 11. Nb1 Bg4 12. Nbd2 a6 13. c3 b5 14. Ba2 Nxf3+ 15. Nxf3
-c4 16. dxc4 bxc4 17. Bxc4 Nxe4 18. Bd3 Ng5 19. Be2 Bxf3 20. Bxf3 e4 21. Bxg5
-exf3 22. Bxe7 Qxe7 23. Qxf3 Rab8 24. Rfe1 Qg5 25. Re2 Qa5 26. Qd3 d5 27. Rb1 Rb3
-28. h3 Rd8 29. Rbe1 g6 30. Re8+ Kg7 31. Qd4+ 1-0
-```
+Não há muito o que falar do roteiro em si, que sempre se aproveita de um ou outro defeito de caráter de um dos dois, e embora soe maniqueísta em vários momentos, ao lembrarmos do plot inicial, tudo faz mais sentido.
 

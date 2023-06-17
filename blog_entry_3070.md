@@ -1,26 +1,22 @@
 ---
 categories:
 - writting
-date: '2016-09-11'
-link: https://www.imdb.com/title/tt2709768
+date: '2015-06-26'
+link: https://www.imdb.com/title/tt0138704
 tags:
 - movies
-title: 'Pets: A Vida Secreta dos Bichos'
+title: Pi
 ---
 
-O estúdio responsável pelo Meu Malvado Favorito e Os Minions agora vem reciclar sua biblioteca de criaturas e vai explorar justamente mas uma coisa que humanos acham uma fofura: animais domesticados.
+Pi é uma viagem quase psicodélica ao âmago da questão: a linguagem do Universo é a Matemática. Extrapolando isso, mas ao mesmo tempo mantendo o suspense de que isso poderia ser real, enxergamos a insanidade através das lentes P&B saturadas de uma luta interminável entre fé, conhecimento e a pura ganância.
 
-E não se sai tão mal em seu início.
+Primeiro trabalho em longa-metragem do diretor Darren Aronofsky (O Lutador, Cisne Negro, Noé), a história gira em torno de Max Cohen (Sean Gullette), um matemático obcecado com sua teoria de que todo o Universo poderia ser descrito através de um padrão, e da mesma forma como grandes pensadores encontraram padrões existentes na natureza em abundância, como a espiral derivada da proporção áurea, a medida de um retângulo recursivamente gerado ao se tornar um quadrado, ele acredita que encontrará um padrão que irá descrever as oscilações caóticas da bolsa de valores, um universo próprio de mini-decisões humanas.
 
-Introduzindo a rotina dos pets em Nova York (sempre ela), com seus donos saindo pela manhã e voltando à tarde, o roteiro escrito a várias mãos explora essa noção que temos dos animais. O cachorro como amigo fiel, o gato como um ser que não está nem aí para humanos, e assim por diante. A animação é de qualidade, e o uso de cenas panorâmicas e câmeras se movendo por cima de uma versão romantizada de NY torna tudo aquilo muito fofinho e engraçado.
+Tendo como companhia eventual uma vizinha fascinada pelo rapaz, uma menina japonesa que adora ver como Max é tão rápido em fazer cálculos quanto uma calculadora, um rabino interessado em desvendar um aparente código secreto da Torá, e uma mulher, sua chefe?, que o contrata exatamente pela chance de poder dominar o jogo de Wall Street, Max frequentemente se isola na casa de seu ex-professor, Sol (Mark Margolis, o Tio Salamanca de Breaking Bad), uma mente igualmente brilhante que estava às voltas de entender a lógica interna do número Pi (3,1416...), mas que teve que paralisar seus esforços devido a um derrame, e que agora se contenta em jogar Go com seu aluno e alimentar seus peixes.
 
-Depois entramos em uma trama mais que conhecida. Uma das donas de um dos cachorros (que é o protagonista, o.... Max) arruma um segundo cachorro muito maior, e juntos os dois acabam se desentendendo, entrando em uma enrascada, depois uma aventura e acabam bons amigos. Fim.
+Com esse microcosmos de mentes interessadas de alguma forma no conteúdo do cérebro de Max, Aronofsky sabiamente emprega um artifício brilhante para representar a angústia que se passa dentro de sua mente: seu companheiro de todos os dias é um computador (batizado carinhosamente de Euclides), e muito do que acontece com a placa de silício pode ser uma visão externa do que se passa no cérebro de seu usuário. Um dia ele gera um pane e entrega uma sequência de duas dezenas de dígitos, algo que levanta suspeitas de Max de que ele pode estar diante do padrão tão desejado. No entanto, seus ataques alucinatórios levam também o espectador a crer que tudo isso pode ser uma grande ilusão.
 
-"Tudo isso" para apresentar diferentes bichos em diferentes situações na cidade. Temos a gangue do coelho, com seu porco tatuado, um crocodilo e uma víbora, que moram nos esgotos da cidade (e menosprezam os humanos porque ninguém quis ficar com eles), temos um gavião que também não tem amigos, mas decide criar laços com uma cachorrinha só porque ela prometeu fazer amizade se achasse o amor dela perdido por aí, e temos mais alguns bichos que irão preencher as lacunas dos estereótipos que faltam (o veterano de cadeira de rodas, o porco-da-índia engraçadinho e sem personalidade, etc).
+Empregando um P&B enclausurante, o fotógrafo Matthew Libatique, junto do diretor, seu companheiro habitual, encontra uma maneira de visualmente expressar a lógica da narrativa: o caos, se reduzido ao máximo, irá entregar um padrão facilmente identificável, de onde se extrapola todas as regras do Universo. Tendo isso em mente, cada vez mais os traços do cenário e dos personagens vai se simplificando, tendo menos detalhes em volta, e mais preto no branco (ou vice-versa), demonstrando uma rima extremamente elegante com uma fala do professor de Max a respeito de como o Go, aquele joguinho de pedras pretas e brancas, representaria o próprio Universo.
 
-Toda essa turma no fundo foi criada para se divertir e fazer piadas divertidas. Não é muito diferente do que já vimos nos filmes anteriores do estúdio, mas acaba sendo um pouco superior a Minions, que tem a proeza de sequer conseguir terminar sua história decentemente.
-
-Aqui reina o clichê com piadinhas cada vez mais idiotas. Elas começam bem, mas vão aos poucos degringolando em um básico e primitivo "porque sim". Quando a preocupação dos roteiristas muda do instigante para o "deixa pra lá", o resultado acaba decepcionando um pouquinho mais a cada minuto de filme. Para piorar a situação, os dubladores do Brasil estão inspirados em tentar tirar leite de pedra com sotaques e gírias que vão se tornar incompreensíveis daqui a dez anos. Mas quem vai assistir esse filme depois de dez anos?
-
-Bom, mas o importante é que tudo se resolve em mais um dia no reino das franquias. Se colar e o filme fizer bastante sucesso, é isso que teremos.
+Mantendo-se sempre fiel ao suspense entre a verdade e o ilusório, Pi é um trabalho ambicioso criado com muito pouco orçamento, o que o torna tão admirável quanto Primer (outro filme barato e ambicioso sobre ficção-científica). Um trabalho e tanto da estreia de um diretor que vai se acostumando cada vez mais a retratar a ambiguidade da vida no Cinema.
 

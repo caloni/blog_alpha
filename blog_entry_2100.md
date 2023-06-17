@@ -1,25 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-02-25'
-link: https://www.imdb.com/title/tt3917210
+date: '2018-09-15'
+link: https://www.imdb.com/title/tt5686062
 tags:
-- cinemaqui
 - movies
-title: Life, Animated
+title: Limites
 ---
 
-O documentário "Life, Animated" conta a incrível história de Owen Suskind, diagnosticado como autista aos três anos de idade, incapaz de falar e de ações motoras minimamente coesas e que através dos filmes da Disney abriu um portal surpreendente de comunicação com o mundo externo. Apenas por esta premissa este filme vale cada segundo de nossa atenção.
+Este é o típico filme fácil de classificar: road trip sobre família disfuncional com o peso de um drama intimista sobre relacionamentos e traumas do passado. Ele também é fácil de acompanhar, pois não há nada além que aconteça em sua história que nos fará olhá-lo de novo. Ele também é um dos piores filmes para se escrever a respeito, porque ele não é tão bom a ponto de ser digno de nota nem tão ruim a ponto de ser digno de pena.
 
-E por quê? Simplesmente porque hoje o mundo enfrenta um desafio global intransponível. Estamos cada vez mais conectados e paradoxalmente desconectados. A comunicação não é mais um desafio tecnológico, mas fundamentalmente humano. E conseguir trazer os autistas para mais perto de nossa tribo mundial está entre um dos objetivos mais nobres e úteis para a sociedade.
+O que há para se dizer é que Vera Farmiga e Christopher Plummer não seguram a onda. Farmiga se dá bem em papéis menos intimistas (ou mais superficiais), como a médium em Invocação do Mal, mas aqui ela desempenha um papel crucial para levar o espectador a entender seu problema, e o que acontece é que ela simplesmente não está lá para nós. Já Plummer, é divertido de vê-lo atuar, mas alguma coisa não está certa nas dezenas de diálogos supostamente espirituosos que o entregaram.
 
-Owen é um caso a ser estudado, um exemplo de como a atenção e carinho de pessoas próximas aos autistas -- no caso, os pais -- conseguiu ser a diferença mínima que alterou profundamente seu futuro.
+Talvez seja o roteiro de Shana Feste (do para mim ótimo Amor Sem Fim), que veste do começo ao fim a carapuça de filme medíocre e não se preocupa em criar nenhuma reviravolta que se preze, mantendo a história em fogo morno todo o tempo. Sabemos minutos antes de acontecer uma "surpresa", e nada disso acaba soando natural (exceto quando seus personagens não condizem com o que esperaríamos que eles fizessem, como o episódio envolvendo uma pá). Shana parece estar conduzindo o filme a 50/h enquanto o espectador já está na estrada principal. Quando eles chegam em São Francisco nós já estamos quase voltando.
 
-E isso, infelizmente, o documentário não torna um de seus pilares. Ele prefere o caminho fácil de uma história emocionante: deixe as pessoas falarem, se emocionarem. Use uma narrativa simplista, pavimentada de desenhos que ilustrem o que se passa pela cabeça de Owen. Com isso o filme se rebaixa ao seu nível, e não permite que haja nada mais na história que a pequena introdução que fiz. Essa introdução -- autista usa Disney para se comunicar -- é repetido à exaustão sem acrescentar nada mais. Acompanhamos Owen se formar no colégio, ir morar sozinho, dar um discurso na França e ser aplaudido copiosamente, e nada disso sequer se compara à grande conquista daquela família, que já havia perdido as esperanças quando Owen fez três anos de idade.
+Ao mesmo tempo temos a comédia, que não funciona: um traficante de drogas velhinho vendendo maconha para monges budistas não é engraçado. É apenas peculiar. Da mesma forma todos os episódios do filme são apenas episódios peculiares para deixar claro como o personagem de Plummer é tão problemático. E a cartilha de seu personagem é completa: ele visita seus amigos e diferente do que imaginaríamos são todos gente boa (inclusive há participações especiais curiosas, como Christopher Lloyd e Peter Fonda), e aos poucos cria uma amizade com seu neto, porque mesmo que isso não seja importante para a história é preciso cumprir a cartilha do gênero.
 
-A narrativa conduzida pelo diretor Roger Ross Williams baseado em um livro escrito pelo pai de Owen nunca surpreende, sendo uma sucessão de pequenas reportagens televisivas esteticamente enfadonhas, burocráticas e repetitivas. Lá vem mais um desenho que irá mostrar o que Owen está pensando. Agora Owen está caminhando na praia com o irmão. Agora os pais vão contar mais um detalhe irrelevante e a mãe irá escorrer mais uma lágrima.
+E ao mesmo tempo que o roteiro de Shana Feste não ajuda, sua direção é intervencionista demais. Talvez para tentar desesperadamente chamar atenção para uma história que não está funcionando com o elenco escolhido Shana resolve tremer mais a câmera e muitas vezes impedir o espectador de ver os atores atuando, o que é péssimo para um drama. Note como quando somos apresentados ao personagem de Christopher Lloyd mal conseguimos reparar em como ele envelheceu, pois além do enquadramento deixá-lo sempre no topo da tela a câmera não pára de tremer. E nada disso é necessário no filme (como ele se refrescar pelado em sua varanda e convidar suas visitas).
 
-Sem qualquer paixão pelo projeto, os cineastas andam à deriva e possuem menos senso crítico do que o próprio Owen desenvolveu. Em certo momento há um revés inesperado na vida do jovem, que é tratado como um desastre pela família, uma calamidade, e que logo é racionalizado pelo próprio Owen. Não há drama na história exceto o forçado artificialmente pelo filme, que insiste em sua premissa por cansativos 90 minutos.
-
-Certamente há algo a se aprender com os autistas. Isso já está claro para o mundo e Owen é um brilhante exemplo. Porém, não é se colocando em seu próprio nível histérico de enxergar a realidade ou superestimar suas capacidades que os objetivos de comunicação com essas pessoas especiais e dignas de cuidado serão alcançados. Certamente não com um filme que emula o pior na Disney: suas esquisitices assépticas e simplificadas de como a vida funciona.
+Mas não deveria estar surpreso com a incapacidade de Shana Feste trazer alguma alma ao projeto: em um filme literalmente infestado de pets não se explora em nenhum momento essa busca interminável da personagem de Farmiga pelo aconchego inexistente em sua infância com pai ausente através de seus animaizinhos acolhidos da rua. São apenas mais uma coleção de esquisitice ao rol do filme, ele próprio se tornando um pouco esquisito no final das contas. Sobre o que era a história, mesmo?
 

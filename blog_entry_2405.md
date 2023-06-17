@@ -1,20 +1,29 @@
 ---
 categories:
 - writting
-date: '2020-10-22'
-link: https://www.imdb.com/title/tt5658540
+date: '2023-01-25T09:51:48-03:00'
 tags:
 - cinemaqui
-- mostra
+- mostratiradentes
 - movies
-title: Mosquito
+title: Mostra Foco Séries 2
 ---
 
-Mosquito, um filme português, é sobre a introspecção de um garoto em uma guerra próxima do final. Ele tem 17 anos e como todo jovem descerebrado cheio de energia para morrer espera poder fazer parte de uma batalha, mas está em um pelotão cujo objetivo é ficar "de boa na lagoa" (no caso na savana).
+KENZO ou o triunfo da auto-desintegração, de Pedrokas
 
-Então ele acaba se distanciando e vivendo uma imersão cultural numa tribo onde só há mulheres. Onde estão os homens, ele questiona. Quem é o chefe? Ele ignora que boa parte da força braçal entre o exército português são os escravos de suas colônias. Ele próprio vira escravo, pois é pequeno e mirrado e abatido. A escravidão já existia na África, e aqui é visto sob o ponto de vista invertido como algo mais "humano". Engraçado o poder de julgar a humanidade pelo quão gente boa você é para o seu escravo. Hoje em dia, por exemplo, a questão escravista fica apenas no passado muito recente, ignorando que já era praticada pelo menos desde a Antiguidade.
+Há limites para o tipo de porcaria que é aceito em uma mostra de cinema? Essa é a abordagem desse, dessa, dessu, disso aqui. O nome é Pedrokas e a viagem é pelo consciente poluído e improdutivo de um suposto cineasta em busca de aprovação ou aceitação de quem tiver coragem de assistir ao seu manifesto sobre o plágio dos que não criam. Tenho boas notícias para esta pedroca: você foi aceito. Agora a má notícia: qualquer um é aceito se pertencer a uma minoria.
 
-O delírio do garoto, picado pelo título do filme, é usado para relativizar suas viagens. Quando ele encontra dois desertores, um português, outro alemão, eles possuem dois motivos bem distintos. O português o chama para viagens mais amalucadas. O alemão tenta trazê-lo de volta para a sanidade. Ambos são inúteis, pois de uma forma ou de outra o garoto sempre sai perdendo. Há uma única cena verdadeiramente chocante, no final, que é quando acordamos. Apesar de lugar-comum de guerra, gostaríamos que não fosse verdade. Pelo menos a sanidade do garoto volta ao normal.
+Pedra Polida, de Danny Barbosa
 
-Óbvio que o filme é antibelicista. Qual a relevância aqui? Este é um filme sobre a lei do mais forte. "O leão é o que ruge mais alto", um comandante diz a ele. Mas esta é uma história onde quem ruge mais alto troca de lados várias vezes, seja pela força física ou pela lucidez. É uma viagem meio teatral, baseada em movimentos de câmera cambaleantes e um garoto ligeiramente abobalhado. Não há momentos visuais brilhantes como nos claramente fontes de inspiração Além da Linha Vermelha e Resgate do Soldado Ryan. É cansativo não compartilharmos das mesmas motivações de um garoto de 17 anos. A atuação de João Nunes Monteiro é má utilizada. Ele é o elo mais fraco da história, mas precisa ser o mais forte em seu protagonismo. Sem protagonistas o filme naufraga. A savana africana nunca foi tão desinteressante. Mesmo com uma fotografia de primeira.
+Novelinha sem graça se tirarmos o fator trans, Pedra Polida é um jogo de cartas marcadas e um guia sobre como estar mostrando seu filme apresentando nada mais exceto auto-referência. A tela de cinema como confessionário das virtudes que qualquer ser humano decente deveria possuir. A história gira em torno de uma enfermeira que estava em um relacionamento abusivo e tem uma mãe intolerante a lactose. De vez em quando a heroína do filme chega com uma camiseta manchada de sangue. O que isso significa? Precisamos assistir à versão longa para entender.
+
+SOLMATALUA, de Rodrigo Ribeiro-Andrade
+
+Este documentário do Rodrigo já passou e ganhou no É Tudo Verdade, festival de São Paulo de docs. Fiquei empolgado até a segunda cena, que se abre para um recorte de rimas visuais que reexaminam a história reescrita porque ela ainda não acabou, e o negro sairá por cima no final. Profético, não fosse contemporâneo, Rodrigo Ribeiro-Andrade está seguindo o que lhe foi pedido: registre a história evocando os deuses africanos e cenas da favela em que revele-se um caleidoscópio maldito de escadas e corredores infinitos nos levando ao vórtice das infinitas cópias da História.
+
+Remendo, de Roger Ghil (GG)
+
+Esta provocação de linguagem pelo cineasta Roger Ghil, GG para os íntimos, é divertida a cada segundo. O filme passa rápido e deixa um gostinho de quero participar deste universo por mais tempo. Detentor dos poderes que poucos curtas possuem de querermos ver uma versão mais longa, Remendo aproveita aqueles recursos do audiovisual já pausterizados para a TV e resgata sua essência, muito mais poderosa por flertar com o trash, que é atraente por natureza.
+
+Esta sessão terminou em alto astral.
 

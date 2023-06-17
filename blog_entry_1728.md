@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2019-05-20'
+date: '2018-04-25'
 tags:
 - food
-title: Gran Tarapaca Carménère Reserva 2017
+title: Grão Gourmet Fazenda Colinas Luminária MG
 ---
 
-Tomado em copo de plástico. Continua elegante, vistoso, frutoso e gostoso.
+Cítrico, bem cítrico. Como limão. E tem um corpo leve para médio, um doce agradável, mas que não elimina aquele amarguinho característico de um café afetivamente relaxante. 21g em moagem média na aeropress.
 

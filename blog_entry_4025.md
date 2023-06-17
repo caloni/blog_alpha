@@ -1,22 +1,21 @@
 ---
 categories:
 - writting
-date: '2017-05-02'
-link: https://www.imdb.com/title/tt1083452
+date: '2018-10-28'
+link: https://www.imdb.com/title/tt7186036
 tags:
+- cinemaqui
 - movies
-title: Voando Alto
+title: Volcano
 ---
 
-Este é um filme para observar a atuação de Taron Egerton em um papel muito diferente do que ele fez em Kingsman. Também é um filme para observarmos como nem sempre a persona de Hugh Jackman, como visto em Gigantes de Aço, consegue ser tão eficaz. E, de forma geral, este é um filme que repassa alguns momentos da vida real de Eddie Edwards, uma criança inglesa que já nasce com a ideia obcecada de participar das olimpíadas.
+A Ucrânia pós-comunismo ainda tem uma lição ou duas a ensinar sobre como sociedades funcionam no Leste Europeu. Em Volcano ela coloca Lukas, um urbanoide civilizado, em contato com um ambiente hostil. Mas será mesmo hostil, ou estamos acostumados a pensar dentro da nossa caixa social que se organiza em presidente, ministros e o povo? Só o fato da estranheza do filme nos fazer pensar um pouco a respeito disso já é digno de nota.
 
-Há algo de mágico nesta história, e a direção do ator Dexter Fletcher percebeu isso. Há momentos grandiosos em câmera lenta com uma música imponente. Há também momentos vergonhosos onde vemos em câmera lenta uma sequência de bocas maravilhadas se abrindo (bem ao estilo de humor britânico, despojado). No meio de tudo isso, a história ganha um tratamento de épico, mas sem alma. Se trata de um passeio burocrático por uma história maravilhosa, talvez, mas não o suficiente para imprimir momentos inesquecíveis que você irá levar nas suas memórias cinematográficas.
+Mas esta também é uma viagem interna de seu protagonista, onde ao encontrar o pitoresco Vova, interpretado por Viktor Zhdanov, Lukas, interpretado por Serhiy Stepansky, realiza o contraponto necessário para entendermos as diferenças na vida dos dois e o que os fez chegar onde chegaram.
 
-Se não fossem as atuações e a determinação de Eddie estampada no rosto limpo de Taron Egerton, quase que completamente convertido no real Eddie Edwards, e as tomadas que deixam claro que saltos de 90 metros de altura em um esqui podem gerar sequelas irreparáveis, este filme não seria tão impressionante. Porém, se o salto de 90 metros é tão perigoso assim, por que não vemos nenhuma acidente fatal no percurso de Eddie em direção ao seu tão almejado sonho?
+A cidadezinha ao sul da Ucrânia é uma terra de ninguém e Lukas decide ficar por lá. Por quê? Talvez essa não seja a pergunta certa. Talvez a pergunta seja: por que não você? O que temos a perder nessa vida?
 
-Enquanto isso, um drama de relacionamento entre Eddie e o personagem de Hugh Jackman se espelha em um passado onde seu personagem era um esquiador talentoso que se deixou levar pela falta de disciplina, perdendo a confiança de seu técnico, uma aparição de luxo de Christopher Walken, que é autor do livro que une o objetivo de ambos: provar para as pessoas que ama que ele está certo.
+Primeira ficção do diretor Roman Bondarchuk, Volcano é um trabalho que nos capta pelo ritmo, pela cadência e pelo clima. Estamos em um ambiente onde as regras precisam ser aprendidas aos poucos, e isso dá ao espectador algo para pensar por boa parte do filme. E ao final do filme ainda há muito o que ser desvendado, mas as ferramentas são expostas o suficiente para a sobrevivência do herói.
 
-No entanto, tudo é ridiculamente exagerado. O pai de Eddie está motivado a qualquer custo em fazer o filho desistir de seu sonho sem muitos motivos claros exceto a visão de incapacidade que ele tem do próprio filho. Ao mesmo tempo, Hugh Jackman exibe pouco carisma em um papel automático de uma caricatura prática e eficaz do esportista que perdeu sua chance e hoje bebe para esquecer. E o próprio Eddie não possui mais qualidades exceto sua determinação sem limites.
-
-Tentando extrair do seu espectador a emoção que lhe falta, tudo vale para incitar lágrimas ou a emoção da missão cumprida em grande estilo. Dificilmente você sairá decepcionado, pois tudo funciona perfeitamente nesse filme. A decepção fica por conta que não existem riscos o suficiente nessa jornada (a de assistir o filme). O único disposto a correr riscos é a figura de Eddie Edwards. Dessa forma, o filme que o homenageia passa longe de sua cartilha de como vencer na vida assumindo os riscos necessários para atingir seus objetivos.
+O que mais fascina no filme é como ele consegue evitar diálogos desnecessários e passar para a observação pura e simples. E é através dessa observação que seus melhores momentos são forjados. Já seus piores momentos são as tentativas de colocar um pouco de ordem na história. Não precisamos de ordem. O que precisamos são pessoas que consigam pendurar a colher na testa.
 

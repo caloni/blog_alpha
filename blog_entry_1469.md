@@ -1,60 +1,27 @@
 ---
-
-Nesse último sábado ocorreu mais uma vez, como todos sabem, o Encontro de Programadores e Aficionados por C++, (in)formalmente apelidado de EPA-CCPP, de acordo com algumas conversas da nossa lista de discussão.
-
-Mais uma vez, temos que dar uma salva de palmas e agradecer de coração a todos que colaboraram direta ou indiretamente para a realização do evento, que teve uma qualidade ainda maior que o último encontro.
-
-E por falar em qualidade, as palestras dessa vez foram ricas em informação e diversidade, pois demonstraram diferentes visões que as pessoas possuem sobre a mesma coisa, que é o uso das linguagens C e C++ na vida real sobre alguma aplicação específica.
-
-Infelizmente cheguei um pouco atrasado por problemas de localização (me perdi geral), mas consegui pegar a parte mais divertida da palestra do Strauss: o código.
-
-## TCP/IP via Boost.Asio (Rodrigo Strauss)
-
-De uma maneira bem clara e direta, o palestrante nos mostrou como usar uma biblioteca de comunicação em redes feita de modo portável e extremamente antenada com o pensamento C++/STL de fazer as coisas. Partindo de um ponto de vista prático, deu dicas importantes para os iniciantes que desejarem começar a utilizá-la e passar mais facilmente pelo caminho das pedras que é aprender novas maneiras de fazer as mesmas coisas.
-
-Na verdade, foi além, pois ao exemplificar seu uso no código do dia-a-dia chegou a usar um projeto próprio com dezenas de CPPs e centenas (milhares?) de linhas de código utilizando 100% boost para a comunicação em rede, sendo compilável e rodável nos ambientes Windows e Linux.
-
-## Programação em C para microcontroladores (Daniel Quadros)
-
-Estava particularmente interessado nessa palestra para entender alguns truques e jogos-de-cintura necessários para utilizar a linguagem C em ambientes tradicionamente limitados em memória e poder de processamento. E, posso dizer, saí satisfeito.
-
-O panorama traçado por DQ dos inúmeros tipos de microprocessadores, suas "linhagens" e diferentes arquiteturas nos permitiram entender as dificuldades em implementar e usar um compilador C para programar em sistemas embarcados. Mais ainda, fez ver a importância de, antes de programar, entender de fato como o hardware funciona para daí pensar em fazer algo útil com ele.
-
-Ao final, um destaque especial para os conselhos finais sobre o desenvolvimento nessa área. Um conselho em específico ficou na minha mente, pois acredito que seja de extrema importância não só para sistemas embarcados, como para todo tipo de desenvolvimento: sempre pense em como será a depuração do sistema no projeto e em campo. Nunca se sabe onde e como o bug poderá ocorrer. Que ele existe, todos sabemos.
-
-## Desenvolvimento cross-platform em C++ com Qt (Basílio Miranda)
-
-Algumas coisas que me impressionaram na palestra anterior sobre wxWidgets me impressionaram mais ainda pelas explicações do funcionamento do Qt em suas diversas plataformas suportadas. Aos poucos entendemos que desenvolver frameworks de ambiente gráfico multiplataforma nem sempre é aquela coisa bonita e abstrata que imaginamos possível de fazer com as maravilhas da linguagem C++. No fundo, muitas das coisas relacionadas com o funcionamento do núcleo desses sistemas é feito com alguns "remendos" sintáticos e semânticos que só os projetistas devem realmente saber explicar o porquê.
-
-Por outro lado, o cuidado com a documentação e com os exemplos do ambiente Qt confortaram bastante o entusiasta que deseja explorar esse outro mundo de janelas além-Microsoft. Para os que reclamam do preço abusivo da licença da versão comercial, pode ser um alívio saber que projetos desenvolvidos com a licença GPL estão isentos de taxas, mesmo que comercializados. É uma questão de testar, medir e escolher alguma das alternativas.
-
-## Arquitetura e desenvolvimento de _drivers _com C para Windows (Fernando Silva)
-
-Voltando para o mundo microsoftiano, o foco da palestra do Fernando foi explicar os princípios básicos por trás do funcionamento do sistema operacional Windows desde a época que ele era um prompt do DOS. Como pudemos ver, essa é uma condição sine qua non para o desenvolvimento de drivers para essa plataforma, visto que são componentes que interagem diretamente com o sistema operacional, de código fechado, e muitas vezes com o hardware, uma caixinha de surpresas.
-
-Entre outras coisas, vimos como funciona a divisão entre os modos usuário e kernel, qual a organização da memória virtual, a importância dos níveis de prioridade de thread no desenvolvimento de drivers e, é claro, como podemos começar a desenvolver drivers desde já e gerar aquelas bonitas telas azuis.
-
-Ao final pudemos ver que foi um tema que gerou interesse especial do grupo, pois houve várias perguntas, como por exemplo se existe uma maneira de proteger o sistema operacional dos drivers (isso poderia gerar um artigo). Imagino que a palestra foi direto ao encontro do espírito do evento, que falou principalmente sobre o que cada um de nós faz com C/C++. Muito provavelmente temos uma montanha de assuntos diferentes e complementares que poderão ser cobertos nos próximos encontros.
-
-## Sorteios, mais eventos e agradecimentos
-
-No final, tivemos uma série de sorteios de livros-referência em C++, convites para o seminário C++ e algumas licenças de software. Por isso é importante lembrar aos que saíram antes que poderiam ter ganhado mais conhecimento, para que da próxima vez tentem apertar apenas mais um pouco seus compromissos.
-
-Além das palestras, tivemos o relato de Fábio Galupo sobre o que foi o SD West 2008, o evento que reuniu alguns gurus do C++ para discutirem, entre outras coisas, o futuro da linguagem. Entre outras tantas coisas interessantes que ele nos trouxe, achei duas particularmente interessantes.
-
-A primeira diz respeito à importância do bom uso de interfaces entre os programadores C++. Esse foi um tema levantado por Bjarne Stroustrup em uma de suas palestras, e é de fato algo preocupante em nossa linguagem, que não possui ainda uma organização tão produtiva quanto outros grupos de desenvolvedores.
-
-A segunda diz respeito à necessidade de aprendermos outras linguagens. Na posição de desenvolvedores de sistemas que vão interagir com o mundo afora, é de suma importância que conheçamos nossos vizinhos mais próximos: desenvolvedores da camada acima que irão aproveitar o nosso código rápido e leve.
-
-Após isso, ainda tive uma das mais felizes surpresas da minha vida: ganhei um exemplar do The C++ Programming Language, Special Edition, assinado por Bjarne Stroustrup!!! Foi um momento tão estupefato que nem sei direito o que eu fiz naquela hora, além de me levantar, agradecer mal e porcamente meus amigos da bancada (eu sei que para um presente desses não existe maneira de agradecer o suficiente), pegar meu livro e sentar novamente, ainda um pouco atordoado. Essas supresas podem matar!
-
-Aproveito o final deste artigo para mais uma vez agradecer toda a organização do evento e, por que não, a todos da comunidade que puderam participar. Como alguém bem disse mais uma vez, a comunidade somos nós, e não um ou outro que costumam ser o porta-voz de nossos movimentos. Portanto, a todos que usam C e C++ de alguma maneira em algum momento de suas vidas, sintam-se honrados de participar do seleto grupo do EPA. Nós merecemos.
-
----
 categories:
 - writting
-date: '2016-05-08'
-link: https://www.imdb.com/title/tt0238380
+date: '2017-03-10'
+link: https://www.imdb.com/title/tt5067984
 tags:
+- cinemaqui
 - movies
-title: Equilibrium
+title: Era O Hotel Cambridge
+---
+
+Era o Hotel Cambridge é um documentário que tenta se estruturar como ficção. Sua heroína é uma personagem da vida real. A mescla entre real e o faz-de-conta funciona como catalisador das transformações sociais e um retrato dramático da vida de pessoas que são excluídas de um populismo político que durou uma década e encontrou seu merecido fim: escassez, caos e violência.
+
+A história se passa em um dos inúmeros prédios abandonados do centro da cidade de São Paulo, Brasil. Quem transita frequentemente por estas ruas já se acostumou com o panorama político pintado em faixas vermelhas, com siglas das mais generalizantes, de movimentos de pessoas que invadiram esses prédios caindo aos pedaços com dezenas de famílias. Seus objetivos, além de ter um lugar para morar, é conscientizar a população de que não há, de fato, moradia para todos (diferente do que foi gritado aos quatro ventos pelo governo por uma década). O problema central vem na forma de uma decisão judicial de reintegração de posse, o que quer dizer que todas aquelas pessoas serão efetivamente despejadas do lugar.
+
+Isso não impede que a vida continue, e acompanhemos o dia-a-dia dessas pessoas, algumas reais, outras atores, e há uma mescla entre os dois. A equipe de produção do filme adentra em um ambiente de conflito para contar uma história surgida de muita pesquisa, e a sensação constante é de estar em um documentário que usa a ficção para se sentir mais forte. Porém, é a capacidade da diretora Eliane Caffé o grande trunfo da empreitada, já que sua narrativa esconde com sucesso as muitas cenas que vemos que não têm qualquer ligação com uma possível trama. Vemos um casal se beijando, e um voluntário cuidando da elétrica e um refugiado internacional recém-repatriado pelo movimento. Pessoas recitam poesias vazias, o que nos faz voltar frequentemente da ficção e inspecionar nossa consciência: essas pessoas são reais demais para terem sido inventadas.
+
+Além disso, há uma edição dinâmica, que conta os dias que faltam para o despejo usando números pintados nos prédios. A última cena, de ação, culmina na melhor sequência do longa em sintetizar os paradoxos políticos, onde policiais truculentos atacam uma população desenganada lutando pelos seus direitos, garantidos em Constituição, mas impossíveis de serem concretizados na vida real.
+
+Aqui segue um pequeno parênteses sobre a lógica e a dinâmica desses movimentos. Ele está fortemente representado no filme por figuras conhecidas do cotidiano atual, como imigrantes fugidos de seu país de origem, geralmente por causa da guerra e perseguição, mas também contém elementos mais peculiares ainda do panorama urbano: os migrantes de estados mais pobres do Brasil, que vieram também em busca de uma vida melhor.
+
+Porém, além disso, a despeito do não-mostrado no filme, ele está bem aparelhado politicamente. Esses movimentos organizam invasões em grandes mobilizações orquestradas por ônibus e marretas. Mas se trata de um documentário com algumas partes de fora, que não explica muito bem de onde vêm os recursos para isso. Se esse detalhe poderia mudar nossa opinião sobre esses grupos, nunca saberemos apenas pelo filme.
+
+As atuações funcionam bem porque há um clima de cenas ensaiadas, mas com pessoas reais. Sabemos que há uma atriz de verdade no grupo, o que parece levantar a moral do resto. E eles estão inspirados na fala. A preparação de elenco rivaliza com Cidade de Deus, com falas ágeis, com uma cadência natural que quem mora na cidade constataria como legitimamente paulista.
+
+Além disso, Era o Hotel Cambridge se constitui como um retrato legítimo das discussões sociais e políticas da atualidade. Sem muito jeito nem muita lógica, o apelo à emoção começa nas poesias recitadas por um refugiado do Oriente Médio e termina em um teatro de movimentos paralisados, exatamente a síntese de como militantes e ativistas se vêm: heróis imortalizados e/ou as vítimas/protegidos clássicos: os menos beneficiados pelo próprio Estado cuja existência por motivos sociais tanto defendem.
+

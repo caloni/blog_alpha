@@ -1,12 +1,11 @@
 ---
 categories:
 - writting
-date: '2020-07-26'
-link: https://www.imdb.com/title/tt8543390
+date: '2022-03-02T12:15:11-03:00'
 tags:
 - series
-title: Modern Love
+title: Am I...? Maybe This Quiz Will Tell Me
 ---
 
-O conceito é de histórias curtas baseadas na coluna homônima do New York Times. Tem a ver com amor representado de diferentes, inusitadas, formas. Possui uma direção enérgica que combina transições elegantes e músicas que evocam os sentimentos desejados do espectador, mas com muita delicadeza. É um trabalho sincero, de passar o tempo, fácil de apreciar, difícil de sair dos trilhos. Satisfação garantida pelos fãs do que é fofinho, mas não óbvio de maneira ofensiva. Modern Love dá espaço para o espectador respirar na maioria do tempo.
+Fazia tempo que eu não via algo tão novo. A direção da câmera é fluida, dinâmica, e a edição impecável. O episódio nos comunica vários detalhes no comportamento nos jovens hoje em dia ou desde sempre e é encantador acompanhar. O interesse do autor nesses gaps, nos momentos que ninguém está olhando, e como nos comportamos, cativa aos poucos. O uso exarcebado da jovem Katie do celular e como o caos impera nas sequências, com sons em volta, e a falta de um enquadramento parado por dois segundos dão o tom naturalista que a história pede. É sobre a descoberta da sexualidade muito jovem e sob um ponto de vista ainda muito ingênuo e engessado. Essas pré-adolescentes são espontâneas demais. O episódio se torna curto. Este universo merece um longa metragem.
 

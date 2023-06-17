@@ -1,11 +1,11 @@
 ---
 categories:
-- writting
-date: '2015-08-30'
+- reading
+date: '2019-09-08'
 tags:
-- beer
-title: Therezopolis Gold Malte Dunkel
+- quotes
+title: Thomas Mann
 ---
 
-Um pouco doce demais, o amargo no ponto; não tomar muito gelado, nem quente; vai bem com Yakissoba.
+"O escritor é um indivíduo para o qual a escrita é mais dolorosa do que para as outras pessoas."
 

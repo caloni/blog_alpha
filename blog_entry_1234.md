@@ -1,18 +1,30 @@
 ---
+
+Se você tem uma certa idade ou já se interessou por filmes de ação antigos provavelmente já se deparou com a série Desejo de Matar, protagonizada por um Charles Bronson que começava a formar a persona do "homem que busca vingança por algo que fizeram com sua família". Para os contemporâneos essa persona é de Liam Neeson e sua série Busca Implacável. Curiosamente este remake contém a mesma premissa do último filme de Neeson, O Passageiro, onde o homem comum, apesar de fazer tudo conforme a lei e os bons costumes, se vê acuado em uma vida opressiva e que ainda por cima dá a sensação de impotência e injustiça.
+
+E é aí que o homem comum sai à caça de seus direitos.
+
+Bruce Willis aqui opera no lugar de Charles Bronson sob sua sombra, sendo quase um símbolo, ou homenagem, da figura de Bronson. Ele é Paul Kersey, um cirurgião de sucesso que salva vidas de pessoas gravemente feridas, seja o paciente mocinho ou bandido, em um movimentado hospital de Chicago. Essa agitação nos corredores é por conta do aumento brutal na violência urbana, com a criminalidade tomando conta dos guetos e começando a invadir os bairros nobres.
+
+Incluindo sua casa, em uma noite de incidentes que culmina na sua esposa (Elisabeth Shue) morta e a filha em coma. Sem ter a menor ideia de como seguir com a vida suspensa dessa maneira brutal, e seguindo as pistas do cotidiano e seus instintos mais primitivos, essa figura funcional e inofensiva da sociedade aos poucos se vê no dever de acumular mais uma função, uma básica: tornar as ruas de sua cidade mais seguras. Uma função que deveria ser de todos nós e que há muito tempo atrás nos esquecemos disso, porque nos foi dito que deveríamos nos comportar como cordeirinhos e não interferir com o processo da lei. Como a terapeuta de Paul comenta, o luto pelo qual ele passa é um processo; e ele entende isso. Sua única ressalva é sobre qual deve ser o resultado final.
+
+Dirigido pelo discutível Eli Roth (O Albergue, 1 e 2) de uma maneira correta e sem imaginação, exceto talvez a escalada de Willis no mundo do crime enquanto vemos lado a lado o seu dia-a-dia como médico (minha parte favorita é ele colocando balas em sua arma enquanto coleta balas disparadas do corpo de um paciente), Desejo de Matar brilha nos seus pequenos detalhes do roteiro de Joe Carnahan (A Última Cartada), como os pequenos sinais que aparecem na vida que o ajudam a tomar a decisão radical de virar um justiceiro; como a forma com que seu sogro afasta caçadores ilegais (spoiler: com balas de rifle; como deve ser, claro).
+
+Logo temos a experiência de acompanharmos sua escalada e seu isolamento gradual da vida social, ocupando o porão como um bagunçado esconderijo de seu alter ego, o distanciamento do seu irmão, além das noites agindo como vigilante andando a esmo nos piores lugares para estar em uma cidade grande. Tudo isso é narrado como um filme de ação trivial, e não como um drama intimista de um pai de família que teve sua vida arrasada e que busca redenção aleatória. Mas dane-se, já que a sensação de poder e liberdade que Bruce Willis exibe e esse contraste de valores com os atuais movimentos sociais pacifistas (leia lenientes) paga-se sozinho. Só seria melhor se ele ajudasse mulheres e garotos negros que sozinhos precisam enfrentar bandidos impunes (pertencentes a todas as principais etnias). Ei, espera: ele faz justamente isso!
+
+Temos também a participação de Dean Norris como o detetive menos esperto que seu personagem em Breaking Bad, mas que se encontra também no dilema de investigar crimes cujo culpado foge de qualquer curva de perfil já estipulado pela polícia. Norris está presente em praticamente todas as cenas do crime onde o agora batizado pela mídia Anjo da Morte esteve, além de maneira muito improvável desconfiar do irmão do médico. Sempre entrando e saindo de salas com sua assistente, Norris é um recurso desperdiçado, embora seja simpático vê-lo novamente.
+
+As cenas de ação funcionam muito melhor no começo, quando Paul ainda está migrando aos poucos para o mundo do crime, mas conforme a história se torna mais sombria o quase realismo foge do controle. No final tudo que temos é um Bruce Willis completamente possuído pela sua persona de policial que sabe agir com uma (ou duas!) arma na mão.
+
+Há curiosas atualizações do roteiro da versão de 1976. Além da óbvia caracterização para os tempos atuais, a existência de câmeras em todos os cantos, além do uso de smartphones que servem como câmeras instantâneas para gravar os eventos e espalhar pelas redes sociais. Até a criação de memes foi um upgrade pertinente para nossa tribo digital (apesar de, em minha opinião, não terem sido mostrados os melhores memes na reportagem fictícia do filme). Além disso, o tempo passa de maneira irregular para o médico vigilante e consequentemente para nós. Não sabemos se entre uma cena e outra seguinte se passou algumas horas ou semanas. Estamos presos em sua visão de vida para nos identificarmos com esse improvável "herói", pois uma vez que ele atira a sangue frio em um bandido almejado por roubo e sequestro, talvez ele tenha sido riscado do código de conduta de muita gente. Não do meu.
+
+Os tempos complexos que estamos vivendo e os filmes que pegam leve com a criminalidade, ou que a problematizam para deixar de haver culpados nas estatísticas de violência, tornam por comparação o novo Desejo de Matar como uma desforra à altura. Pois quando lindas mulheres vendem estonteantes armas de fogo pela TV e há uma empolgante loja desses souvenirs que demonstra que é ridicularmente fácil comprar sua própria arma para se defender naqueles vinte minutos iniciais em que a polícia não estará presente na cena de um crime, isso pode escandalizar a maioria dos cordeirinhos neste novo, ilusório e triste século. Mas não esse aqui.
+
+---
 categories:
 - writting
-date: '2020-03-29'
-link: https://www.imdb.com/title/tt0336264
+date: '2018-05-22'
+link: https://www.imdb.com/title/tt0071402
 tags:
 - movies
-title: Desde que Otar Partiu
----
-
-Este filme tem cara de Mostra Internacional de Cinema de São Paulo. É simpático, inofensivo até. Assistimos como quem não quer nada, imaginando os motivos pelos quais este filme foi produzido. É um encanto ver a atriz Esther Gorintin. Ela é realmente idosa. Nascida na Polônia em 1913, logo se tornou Esther Gorinsztejn no recém-criado Império Russo. Na época das filmagens desse filme estava com seus oitenta anos. Faleceu aos 87, em 2010, quando este blog de cinema começou.
-
-Gorintin se comunica com o sorriso e com os gestos, curvada sobre a história de uma vida. A primeira cena é inesquecível, dela pedindo um bolo e o comendo com todo o prazer de quem ainda não está pronta para partir. Ela aguarda o sucesso do seu filho mais velho, Otar, que se mudou para Paris em busca de uma vida melhor. Sua neta observa o país onde vive desmoronando e também espera partir o mais cedo que puder, mas no momento ela precisa manter esse estratagema que mantém seu tio vivo aos olhos de sua avó.
-
-O filme da diretora Julie Bertuccelli fala sobre conflito de gerações de uma maneira muito sutil, e sobre a decadência da União Soviética como os sonhos perdidos de uma geração, como se fosse possível viver essa mentira por mais algumas décadas. Estupefatos em torno das ruínas de um sistema burocrático, as escadarias da Georgia são muito íngremes para os idosos do Império Russo.
-
-A França serve como exemplo. É a versão comunista mais bem sucedida do experimento do século 20, pois está amparada pelo capitalismo imperialista. Alheia a tudo isso, Eka é a vovó stalinista que quer viver de acordo com seus valores de adulta, quando a vida era mais simples, havia luta, mas junto dela um objetivo a ser alcançado.
-
+title: Desejo de Matar (1974)

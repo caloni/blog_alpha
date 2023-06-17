@@ -1,11 +1,11 @@
 ---
+
+Tem no mercado da frente de casa, é um bom custo/benefício; então sempre tem na geladeira; seu amargor é desequilibrado demais, e um tanto aguada, mas melhor que a maioria das pilsen, então
+
+---
 categories:
 - writting
-date: '2017-09-12'
+date: '2015-09-28'
 tags:
 - beer
-title: Eisenbahn Extra Escura Dunkel
----
-
-Não tão doce quanto a última vez que provei; uma dunkel que tem gosto de café por conta do malte cerrado; bom corpo e não-enjoativo. Almoço com bifum e purê apimentado. Combina perfeitamente com carne reduzina na pressão, como a que a Mitiko fez no almoço de hoje.
-
+title: Eisenbahn Pilsen

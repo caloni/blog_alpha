@@ -1,20 +1,31 @@
 ---
 categories:
 - writting
-date: '2016-01-19'
-link: https://www.imdb.com/title/tt0096438
+date: '2013-04-11'
+link: https://www.imdb.com/title/tt2231208
 tags:
 - movies
-title: Uma Cilada para Roger Rabbit
+title: Uma História de Amor e Fúria
 ---
 
-Um filme de 1988 que conseguiu unir desenhos com live action de uma maneira que até hoje não parece datado. Sua grande sacada é já fazer um filme de época, a Hollywood da década de 40, e embutir todos os desenhos icônicos em um longa-metragem que é usado apenas para realizar essa façanha, mas que em si possui um roteiro com uma trama inteligente por utilizar a própria fusão do mundo dos desenhos e dos humanos.
+Um delírio técnico e estilístico que permite que vejamos nossa história como povo através da lente da dura e cruel realidade dos oprimidos, Uma História de Amor e Fúria estabelece desde o início seu tom fantasioso ao revelar a idade do narrador e protagonista envolvido em uma jornada de cerca de 600 anos através do passado e futuro do Brasil.
 
-Seu herói é Roger Rabbit (Charles Fleischer), um coelho que foi criado para o filme e que atua em um desenho animado em Hollywood. Sim, os desenhos atuam em... desenhos. Quando seu produtor contrata o detetive Eddie Valiant (Bob Hoskins) para descobrir se a mulher de Roger o está traindo, a voluptuosa Jessica Rabbit (cuja modelo de corpo foi Betsy Brantley), uma rede de intrigas se forma quando Marvin Acme (Stubby Kaye), dono dos projetos que envolvem os desenhos, é assassinado. Perseguido como principal suspeito pelo Juiz Final (Christopher Lloyd) e sua gangue de fuinhas, Roger agora precisa provar sua inocência e reaver o suposto testamento que Acme teria escrito, deixando a terra dos desenhos para os próprios desenhos.
+Tanto o "amor" quanto a "fúria" do título podem ser sentidos desde a primeira das quatro histórias em que são desenvolvidos os dois personagens principais: um guerreiro imortal da tribo Tupinambá (Selton Mello) e sua amada e sempre belamente reencarnada Janaína (Camila Pitanga). O Rio de Janeiro, palco da história, já nasce de uma luta sanguinária entre franceses e portugueses pelo poder da região. A história apenas se mostra, mas se torna óbvio que aquela sociedade nascida da opressão utiliza a mesma estrutura em qualquer momento de sua evolução tecnológica.
 
-Pela premissa do filme já é possível imaginar que o diretor Robert Zemeckis (De Volta para o Futuro) abraçou o projeto de unir desenhos e pessoas de todas as formas possíveis, nunca se furtando em perceber o absurdo daquela realidade. Com isso, torna tudo muito mais crível, em um mundo onde todos consideram a existência de desenhos na vida real um fato consumado. Ao ver as sequências em que desenhos e humanos interagem chega a ser ainda impressionante, e isso 27 anos depois. Você acredita de fato que os desenhos fazem parte daquela realidade fantástica. Boa parte dessa crença também provêm dos próprios personagens humanos, que possuem um ar de desenho em sua forma de agir, o que pode ser explicado pelo próprio convívio com tantos desenhos.
+É uma história impactante, intensa e dona de uma triste verdade. Lembra [Cabra Marcado Para Morrer] pelo seu tema, que centraliza na opressão do governo (e da sociedade dominante) sobre um povo desde o começo miserável, escravo e injustiçado. Assim como "Cabra Marcado...", delineia sua história por várias gerações. Diferente deste, cria um futuro distópico que nos alerta para o que está ocorrendo nesse exato momento com a nossa sociedade (o que faz eco com outra produção recente, [O Som ao Redor]). Nesse mar de ideias, utiliza maravilhosamente bem a ficção científica ao mostrar um futuro com um povo alienado e sem paixão por nada. A sequência em que uma bola de futebol cai de um arranha-céu gigante para flutuar em uma espécie de bueiro ao céu aberto do lado de um grupo de crianças consegue resumir visualmente todo o sentimento estancado por décadas do nosso processo implacável de injustiça social.
 
-A direção ágil de Zemeckis não nos dá tempo de ficar pensando nos detalhes de logística de como seus efeitos são possíveis. Em vez disso, focando em sua trama e a levando em ritmo acelerado em um clima de eterna urgência, conhecemos o mundo dos desenhos, como eles funcionam, se podem morrer, se podem matar, e, o mais importante, qual é a sua moral. A resposta é simples: fazer rir.
+Sem conter pontos específicos de nenhuma das quatro histórias, o filme se revela e se transforma na história do casal apaixonado em uma bela metáfora em busca por essa paixão perdida no tempo, assim como a esperança por dias melhores. Assim como [A Viagem] (Wachowski/ Tom Tykwer, 2012), a mensagem do filme não poderia ser mais clara e necessária. Por isso o seu clima de urgência.
 
-Conseguindo unir figuras tão absurdas e ainda colocar um drama de filme "noir", cujo ótimo Bob Hoskins é protagonista, além de apresentar a estonteante Jéssica Rabbit, um feito e tanto para a época, Uma Cilada Para Roger Rabbit pode ainda ser acusado de ingênuo e infantil, o que é ótimo que o seja. Quer dizer que o projeto de unir adultos e desenhos funcionou em seu máximo.
+O que nos leva às suas virtudes técnicas. Cientes da intensidade que precisam passar em uma animação que começa como um estilo quase parado e contemplativo, a edição e mixagem de som mais do que compensam. Compostos pela mesma equipe de [Tropa de Elite], os sons todos juntos definem cada atmosfera através das falas e sons que se ouvem ao fundo. Enfatizam o tom emergencial ou apático pelo uso pincelado de sua trilha sonora.
+
+E não é apenas o som que impressiona, apesar deste ser ponto forte e acertadamente levado em conta. O uso inteligente da fotografia consegue claramente estipular uma evolução, iniciando em cores quentes e naturais da selva ainda virgem, passando pela cinzenta e inebriante fumaça do progresso dos anos 70, e atingindo seu ápice em um azul que incomoda justamente pelo seu tom de sofisticação em torno de uma sociedade onde ironicamente falta água, o elemento mais básico da subsistência humana. E esse recurso sagrado é tratado como negócio e defendido pelas classes superiores assim como hoje se defende os maiores privilégios para uma casta previamente selecionada. (Note que até viagens a Marte já são possíveis, e onde a presença de água já foi comprovada, mas são usadas para o carregamento de minério.)
+
+Dessa forma, se no começo a animação soa estranhamente estilizada, o costume dos nossos olhos e a sua sofisticação crescente a cada história faz o artifício se tornar cada vez mais necessário. Um trabalho de produção digno de nota por harmonizar esforços de tão escassos desenhistas em uma história envolvente pela própria natureza do ser humano de torcer pelo lado mais fraco.
+
+"Meus heróis nunca tiveram uma estátua, mas morreram lutando contra os que tinham", lamenta o nosso protagonista. Não podemos culpá-lo de lutar sempre pelo lado mais fraco, se está claro que ao menos parece o lado certo.
+
+[A Viagem]: {{< relref "a-viagem" >}}
+[Cabra Marcado Para Morrer]: {{< relref "cabra-marcado-para-morrer" >}}
+[O Som ao Redor]: {{< relref "o-som-ao-redor" >}}
+[Tropa de Elite]: {{< relref "tropa-de-elite" >}}
 

@@ -1,22 +1,24 @@
 ---
 categories:
 - writting
-date: '2019-01-29'
-link: https://www.imdb.com/title/tt1448755
+date: '2019-09-12'
+link: https://www.imdb.com/title/tt0813547
 tags:
 - movies
-title: Os Especialistas
+title: Os Falsários
 ---
 
-Jason Stahan, Robert de Niro e Clive Owen na capa deste DVD. Parece um filmão de ação para mim. Bom, nem tanto. De Niro fica quase o tempo todo preso, Owen está com um bigodinho mequetrefe e apenas Stahan salva o dia. E bem mais ou menos. Há duas explosões no filme todo.
+Os Falsários é uma história real embutida em um drama sobre a moral e o fazer certo, mesmo que arriscando sua própria vida. E não há cenário mais propício para se desenvolver uma trama como essa do que nos limites do homem: a guerra.
 
-A história é baseada em um livro biográfico de Ranulph Fiennes, ex-membro de uma organização secreta britânica conhecida como SAS. Seu relato é sobre uma operação de guerra iniciada no Oriente Médio e a consequente reação a ela: a vingança de um xeique pela morte dos seus filhos. E tudo isso está embrulhado em uma trama política mais ou menos interessante (poderia ser mais) em plena crise do petróleo.
+O filme escrito e dirigido por Stefan Ruzowitzky baseado no livro de Adolf Burger, que, coincidência ou não, o coloca como herói, conta a história de Sorowitsch (Karl Markovics), um falsificador de notas de dinheiro que é pego pela polícia e no final da segunda guerra é posto para trabalhar para os alemães, para fabricar notas inglesas e americanas e assim conseguir financiar por mais tempo a guerra.
 
-Mas Jason Stahan possui um plot secundário mais importante e mais clichê: salvar seu amigo de longa data e voltar para sua garota (a belíssima Yvonne Strahovski, que foi uma serial killer em uma temporada de Dexter, como o mundo dá voltas...). Stahan está mais Stahan que nunca, o que pode ser uma coisa boa para os fãs.
+A questão moral toda gira em torno dos prisioneiros no campo de concentração, ainda que mais bem tratados que seus colegas do lado de fora, estariam ajudando a perpetuar o nazismo se fabricassem notas que ambos os países inimigos atestassem a autenticidade. Sorowitsch é o melhor falsificador do mundo, e naquele momento a Alemanha tinha uma boa cartada.
 
-Já o personagem de Clive Owen é o que mais me desaponta. Sem muita moral, seja do lado dos mocinhos ou bandidos, ele sempre parece uma incógnita na história, mas o pior é que no final ninguém sabe direito o que ele está fazendo ali; talvez nem ele mesmo. Há uma necessidade dos papéis de Owen terem um passado obscuro e alguma perda, mas aqui ele parece mais um garoto de recados que se sentiu no dever de agir para evitar que todos esses patriotas assassinos morram nas devidas mãos de seus inimigos de uma guerra cujo final ainda não foi declarado.
+Porém, o autor do livro mantém seus ideais, principalmente por conta da esposa, também presa nos campos. É claro que cada um tem a sua visão do que deve ser feito em uma situação limite dessas, e Sorowitsch tem o cinismo que cada um de nós carrega em seu gene: fazer o que for preciso para se manter vivo por mais tempo possível.
 
-Bom, mas para animar, há perseguições de carro, os anos 80 estão começando junto com a guerra do golfo e um toque de ação que merecia mais motivação. Claro que é legal comer pipoca e ver caras trocando tiros e porradas, mas alguma coisa pra pensar sobre isso, realmente pensar sobre isso, deixaria essas cenas com mais tempero.
+Não é fácil manter o lado nobre sendo o empecilho do projeto que manteria aqueles prisioneiros vivos por mais tempo, mas a direção de Ruzowitzky resolve o problema escalando o simpático August Diehl como Burger, enquanto o falsário é interpretado por Karl Markovics com uma cara fechada e aspecto enigmático.
 
-Uma curiosidade: o diretor Gary McKendry e o roteirista Matt Sherring fazem aqui seu único trabalho creditado no IMDB. Alguém não deve ter gostado do resultado em fazer um filme de ação morno com três astros de Hollywood.
+O resultado é um thriller eficiente, que consegue se estender além do que seria permitido graças a essa escolha de atores e o desenvolvimento no estilo corrida contra o tempo (até a guerra acabar). No entanto, o tema não consegue se aprofundar mais, pois seus personagens são esquemáticos, e falta background para os entendermos.
+
+Dessa forma, Os Falsários acaba sendo um bom filme de suspense e drama porque guerra, mas ao mesmo tempo é incapaz de nos dar a profundidade que seus personagens merecem. Eu chamo isso de um ótimo entretenimento.
 

@@ -1,20 +1,14 @@
 ---
 
-A maior virtude criativa de Hot Hot Hot, primeiro longa do cineasta Beryl Koltz, é abordar o arco dramático de Ferdinand (Rob Stanley) do ponto de vista de um pequeno peixe e o seu processo migratório das águas frias de um aquário solitário para o ambiente quente - no sentido sexual e térmico - de uma sauna e a sua tão peculiar fauna.
+Erroneamente imaginando que a falta de acesso tinha alguma coisa a ver com a escrita de arquivos no disco, ou até mesmo com a execução de processos, descobri depurando (o bom e velho depurador) que a origem do acesso negado estava na função AssignProcessToJobObject.aspx). Misteriosamente, no Windows 7, ao chamar essa função ocorre esse erro, independente da execução ser como administrador ou não.
 
-Gastando o tempo necessário para apresentar os seus personagens secundários sob o ponto de vista do deslocado protagonista, a direção faz uma aposta certeira em demonstrar sempre com ângulos altos a pequenez do nosso heroi, não sem antes ganhar a nossa empatia com uma atuação acertadamente exagerada de Rob Stanley, em sintonia com a proposta fabulosa do roteiro, que investe ainda em inventivos sonhos e representações visuais do seu deslocamento. E exatamente pela sua timidez exagerada é que outra decisão acertada do roteiro é ouvirmos seus pensamentos, pois do contrário seria impossível identificar suas reações internas.
+Como já está se tornando tradição de uns tempos pra cá, a solução veio de um artigo do Stack Overflow, cuja melhor solução foi exatamente a que eu segui: inserir o manifesto do UAC e usar a flag CREATEBREAKAWAYFROMJOB.
 
-Como as possibilidades de analogia com o mundo aquático são aparentemente ilimitadas, também o são as brincadeiras do filme, que estabelece os pequenos ambientes da sauna como os próprios aquários da vida anterior de Ferdinand, ou seja, apertados (só que quentes).
-
-Mesmo com tudo isso fotografia e trilha sonora possuem papeis de destaque acima das invencionices, pois são as duas que realmente comentam e ilustram a realidade desse mundo, com o uso constante dos tons de azul e laranja para representar a mescla de protagonista e novo mundo. A trilha sonora, parte integrante e esquecida da vida de Ferdinand, passa a ter papel ativo no ambiente da sauna e de sua própria postura diante dos acontecimentos.
-
-Não direi mais nada. Não vale a pena estragar as surpresas da história, pois estas são secundárias. Em vez disso, se atente ao aspecto estético e temático. Há algo de sublime que se mantém independente da história.
+Agora é só esperar pelo próximo bug =)
 
 ---
-categories:
-- writting
-date: '2016-02-22'
-link: https://www.imdb.com/title/tt0837562
-tags:
-- movies
-title: Hotel Transilvânia
+categories: []
+date: '2011-03-22'
+link: http://zeribeiropena.wordpress.com/2011/03/21/dicionario-houaiss-e-babylon-no-kindle/#comment-3
+tags: null
+title: Houaiss no Kindle

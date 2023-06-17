@@ -1,18 +1,18 @@
 ---
-
-Ferro’s Bar, de Cine Sapatão (Aline A. Assis, Fernanda Elias, Nayla Guerra e Rita Quadros)
-
-Este curta documentário mantém um dinamismo e uma fluidez na narrativa invejável para muitos outros filmes da Mostra. Se trata do depoimento de 4 mulheres sobre o clima de um bar tolerante a lésbicas na década de 80 na cidade de São Paulo e o que se seguiu depois de um policial conservador invadir o lugar. Cada frase que uma termina emenda em uma cena ou na frase que outra começa. É enxuto, é eficiente, é emocionante. A construção do senso de direitos humanos e de que precisamos lutar por eles em pouquíssimos atos. E por isso mesmo poderoso.
-
-A Orquestra das Diretas, de Caue Nunes
-
-Mais um da série de cidadania e patriotismo é este causo que aconteceu durante as manifestações pelas Diretas Já na década de 80, que deu errado como resultado, mas certo como coesão democrática de várias frentes de cidadãos querendo mudanças. Entre elas a orquestra sinfônica de Campinas, que foi tocar nas manifestações e se conectar com o momento histórico de livre e espontânea vontade. O filme é lúdico e mantém uma ingenuidade que restabelece uma conexão com um passado democrático que por conta das bipolaridades da sociedade brasileira no momento está há décadas esquecido. Vale a reflexão.
-
----
 categories:
 - writting
-date: '2014-04-02'
-link: https://www.imdb.com/title/tt0091042
+date: '2010-10-13'
+link: https://www.imdb.com/title/tt0037638
 tags:
 - movies
-title: Curtindo a Vida Adoidado
+title: Curva do Destino
+---
+
+A história de um homem que busca se encontrar com sua mulher que está do outro lado do país. Para isso ele vai de carona em carona, de NY para LA. No caminho, encontra um homem que morre no carro. Esconde o corpo e encontra uma mulher que se envolveu com ele no caminho, também pedindo carona. Chegando a Hollywood descobrem que o pai do sujeito, milionário, morreu, deixando toda sua fortuna para o filho. Enquanto ela tenta convencê-lo a fingir ser o herdeiro, ele acidentalmente a mata com o fio do telefone. Deixando esse passado para trás, o nosso protagonista vaga sem destino, apenas esperando o momento em que será preso, por nenhuma razão.
+
+Como um dos primeiros filmes noir, a experiência de Detour é intensa dentro de uma história corriqueira. Dramática em seu âmago, sentimos pelo destino de seus personagens, pois sabemos que, de uma forma ou de outra, não haveria final feliz para eles. O tom "dark" do filme pode ser encontrado em todo lugar, desde as sombras que são formadas nos personagens quando estes estão dentro de algum hotel ou na imaginação do protagonista (quando este lembra da história apenas existe luz em sua testa).
+
+Usando de alguns movimentos atípicos, como quando a câmera passeia pelo quarto da mulher após ser acidentalmente assassinada, o foco é usado para dar um efeito de perdido ao mesmo tempo em que observa as provas espalhadas pelo quarto. A situação vai se complicando aos poucos, até chegarmos no beco sem saída que a vida desse homem simples que não tinha nada de errado começar a desmoronar. Vemos isso com uma grande empatia pelo sujeito, que é um simples mortal sendo levado pela enxurrada de acontecimentos.
+
+Poderia acontecer com qualquer um.
+

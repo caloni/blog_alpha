@@ -1,23 +1,23 @@
 ---
 categories:
 - writting
-date: '2012-11-18'
-link: https://www.imdb.com/title/tt1082868
+date: '2021-11-10T20:43:49-03:00'
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Quarentena
+title: Quatro Primaveras
 ---
 
-No início, por exemplo. Angela Vidal (Jennifer Carpenter, da [série Dexter] e [O Exorcismo de Emily Rose]) é uma repórter cobrindo uma noite na vida dos bombeiros junto de seu camera man Scott Percival (Steve Harris). Nesse momento temos o tom documental, tão comum hoje em dia nos filmes de terror, e que explora tão bem esse pedacinho de realismo em frente à telona. Há momentos engraçados e extrovertidos, como no momento em que a repórter começa a fazer brincadeiras com a masculinidade de seus entrevistados. Até aqui há o ponto positivo de entrarmos na atmosfera da história, embora ainda saibamos muito pouco dos seus personagens para que tenhamos algo a mais para seguir do que simplesmente o making of de uma reportagem.
+Por que um diretor de cinema não filmaria seus pais? A resposta rápida é que nem todo cineasta vem com pais que valem a pena ser filmados. Bom, este vem. E surge Quatro Primaveras, um filme sobre o diretor estreante Qingyi Lu que filma um casal adorável de pais que fazem tantas coisas sozinhos que me sinto mal de perder tanto tempo na internet.
 
-A partir do momento em que a ameaça se torna visível, o risco de uma doença se alastrando entre os moradores de um prédio e as autoridades literalmente isolando-os até que tenham o controle da situação, há um motivo para ficarmos atentos, mas não há pessoas onde devemos focar nossa atenção em especial: estamos entretidos pelo momento, assim como fazemos ao assistir programas televisivos sensacionalistas.
+Eles são a atração principal neste filme da Mostra Chinesa esse ano. Vivem em uma cidade próximo de montanhas e plantações de arroz. Plantam e cuidam de sua casa como se tivessem o dobro de horas por dia disponíveis que o resto dos seres humanos. E adoram as reuniões de família. Cozinham um banquete sozinhos. Não estou falando de apenas ele ou ela. Ambos não param um minuto. Suas atividades são uma inspiração para quem vive entediado.
 
-Quando o clima fica mais pesado, com pessoas morrendo por toda a parte e ataque dos infectados, fica muito difícil aguentar o riso, pois há algo de sobrenatural demais, caricato demais. Talvez seja essa cultura de zumbis cada vez mais presente e que haja repulsa e medo desse seres tão... inertes? A tensão se mantém, mas a comédia se estabelece aí para estragar a festa.
+O mais impressionante é que apesar da idade já avançada eles aprendem coisas novas, como cuidar de abelhas e editar músicas pelo computador. Quando não estão cada um em sua atividade caminham juntos pelas montanhas, colhendo novas plantas para cuidar em casa.
 
-Porém, e aí está uma grande sequência, no momento em que todas as luzes se desligam e somos obrigados a enfrentar o escuro através da filmagem noturna e o silêncio quase que completo, o destino dos personagens, e de nós, importa mais do que tudo. Nos identificamos quase que de imediato. O que é curioso, se pensarmos que até então estávamos apenas acompanhando sua agonia, desespero e gritos histéricos, mas a uma distância segura. Agora, não. Há o envolvimento direto conosco. Estamos presos na mesma sala, e temos que fazer alguma coisa.
+Não há diálogos explicativos neste documentário porque seus protagonistas se expressam de várias outras formas. É na interação entre eles ou com a família ou sozinhos. O filme nunca fica chato, pois há sempre algo novo sendo explorado por eles.
 
-Esse momento, infelizmente, não dura muito tempo.
+A direção do filho, Qingyi Lu, também é inspirada. Faz cortes precisos de momentos que se tornam únicos e nos faz esquecer que tudo isso é rotina para eles. A diferença é que a rotina deles é extraordinária para nós, humanos urbanóides da vida moderna, enfurnados em vidas inúteis ou promíscuas, com a mente improdutiva, crescendo erva daninha em volta. Quatro Primaveras é um hino para nos acordar para a vida.
 
-[série Dexter]: {{< relref "dexter-s07" >}}
-[O Exorcismo de Emily Rose]: {{< relref "o-exorcismo-de-emily-rose" >}}
+Há um momento difícil para eles. Uma perda de um ente querido. O diretor filma com forças que estão além do projeto. E o resultado é belíssimo na montagem. É difícil atingir profundidade em documentários, mas este é um achado chinês que sequer precisa de roteiro.
 

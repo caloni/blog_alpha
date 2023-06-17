@@ -1,16 +1,20 @@
 ---
 categories:
 - writting
-date: '2019-12-02'
-link: https://www.imdb.com/title/tt0368913
+date: '2017-10-24'
+link: https://www.imdb.com/title/tt4693358
 tags:
 - movies
-title: Osama
+title: Otherlife
 ---
 
-Escrito e dirigido pelo diretor afegão estreante em longas de ficção Siddiq Barmak, "Osama" se aproveita do timing trágico pós-atentado das Torres Gêmeas em Nova York, o ataque orquestrado cujo mandante foi o jihadista Osama Bin Laden, inimigo público número 1 dos EUA e do mundo dito civilizado. Esse timing nada tem a ver com o que se vê neste filme, que ficionaliza uma realidade muito próxima do próprio elenco que participa do filme.
+A protagonista de Otherlife é bem bonitinha. Tem olhos claros. Ela coloca um líquido negro nos olhos das pessoas, e muito mais nela mesma. É um composto de nanotecnologia que apresenta um programa que te leva aos sonhos mais malucos. Por que malucos? Porque tem bugs, seu bobinho!
 
-Barmak pesquisou sobre o povo muçulmano tomado pelo medo dos grupos extremistas talibãs para compor o cenário onde se passa essa história de uma garota que precisa fingir ser menino para conseguir trabalhar e assim ajudar sua família de apenas mulheres a sobreviver. O filme aproveita a história para ilustrar diversos aspectos da doutrina, como a submissão completa da mulher, além de demonstrar o resultado catastrófico em uma sociedade como essa, onde medo e miséria convivem entre diferentes gerações.
+Dirigido por Ben C. Lucas de uma maneira igualmente louca e desproporcional -- ele quer usar várias referências de si-fi ao mesmo tempo, sem controle algum -- este filme tem o roteiro assinado por algumas pessoas que se basearam em um romance chamado Solitaire. E, infelizmente, a mesma ideia do romance aqui dá origem a várias pataquadas sem sentido.
 
-Seus atores são retirados diretamente dessa realidade, e nela voltam através de um diretor totalmente influenciado pela escola soviética, que influenciou o renascimento do Cinema por lá após a invasão russa. Dessa forma, há pouco enquadramento e muita montagem. O que vemos está sendo descrito de maneira dramática e exagerada porque seu idealizador respirou a teoria do autor de O Encouraçado Potemkin durante sua formação. O resultado é um filme tenso e necessário, embora exagerado para os dias de hoje, mas é seu exagero que nos informa o imediatismo e a urgência em que a história se passa.
+Felizmente Ben C. Lucas, além de gostar de referenciar sci-fi dos outros, consegue nos manter entretidos de verdade. Mesmo com reviravoltas fracas, o thriller funciona razoavelmente bem, pois tudo é um grande sonho, e em dado momento não sabemos mais se estamos em um sonho ou não. A ideia inicial é bem explicada, e os lapsos no tempo dão uma boa pista de quão perdido o espectador pode ficar na cornucópia mágica de memórias.
+
+Boa parte do mérito do filme também vai para a atriz Jessica De Gouw, que se sai acima da média para um trabalho desse tipo. Ela é intensa além do necessário, o que dá um ar de sobrevida ao projeto. Nos convencemos que ela está em uma solitária por um ano inteiro. Por incrível que pareça!
+
+Curiosamente narrado como se fosse o begins de uma série de filmes (ou uma série mesmo), Otherlife como conceito é pouco interessante, como thriller fica bem interessante, mas como roteiro... um pouco confuso demais. E desnecessariamente. Não nos importamos tanto assim com os personagens. É um thriller sci-fi, afinal de contas. Se todos morrerem não vai ter a mínima comoção.
 

@@ -1,20 +1,14 @@
 ---
 categories:
-- coding
-date: '2010-01-18'
+- blogging
+date: '2023-03-19T21:39:26-02:00'
 tags: null
-title: Passagem por valor e emails com anexo
+title: Passei em uma entrevista técnica?
 ---
 
-Mais uma analogia vencedora para ponteiros, chamadas por valor e chamadas por referência: e-mails.
+Quis que o título deste poste fosse o contrário do anterior onde falo que não consegui resolver um problema simples de programação em meia hora com minha entrevistadora de olho. Porém, eu não sei se eu passei no teste. O que eu sei é que dos dois testes de programação que fiz, online pelo HackerRank, mas sem monitoração, ambos os códigos resolviam o problema, embora o último deles tivesse uma complexidade acima do desejável.
 
-Quando passamos um parâmetro por valor, estamos enviando um e-mail com um arquivo em anexo. Não importa o que o destinatário faça com o arquivo: nós não vamos saber o que foi mudado se ele não enviar uma outra cópia.
+Este foi um teste de uma hora e meia com 20 e tantas perguntas de C++ moderno, a maioria sobre obtenção de tipos por expressão e algumas maluquices com código criativo, e dois problemas de fazer código. Tudo feito pelo site. Você começava a fazer e um contador de 90 minutos dizia quando você deveria parar.
 
-Por outro lado, ao passar um parâmetro por referência, estamos enviando um e-mail com um endereço de onde está o arquivo. Se o usuário alterar o arquivo diretamente do endereço que enviamos será possível ver essa alteração imediatamente, pois ambos estão olhando para o mesmo valor na memória.
-
-A analogia pode ser levada mais longe, com ponteiros de ponteiros: enviamos um e-mail com o endereço de um arquivo; dentro desse arquivo existe um endereço para outro arquivo. Dessa forma é possível tanto alterar o arquivo final quanto o endereço de onde ele está; ou ainda "apontar" para outro arquivo, trocando o endereço de dentro do primeiro arquivo.
-
-Assim é fácil de visualizar que os dados estão sempre em um arquivo que ocupa espaço na memória (do disco ou da RAM), mas endereços também podem ocupar espaço, se estiverem salvos em um arquivo.
-
-Dessa forma, um e-mail que contenha um arquivo em anexo vai ser muito maior que um e-mail apenas com o endereço do arquivo, mas é porque todo o conteúdo do arquivo está dentro do e-mail no primeiro caso. No segundo caso, o endereço ocupa apenas alguns caracteres que identificam a localização do arquivo.
+Infelizmente não copiei os exercícios e seus links não servem mais. Agora resta [o código](https://github.com/Caloni/interview/tree/issue-3-hacker-rank-preparation/hackerrank/flow_traders). Então o jeito é continuar praticando.
 

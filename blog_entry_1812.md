@@ -1,19 +1,26 @@
 ---
 
-Depois de um filme inteiro martelando a segregação entre negros e brancos, a cena em que uma branca prepara um banquete para sua empregada negra é emocionante por detectarmos finalmente sentimentos naturais a qualquer ser humano sadio: solidariedade, compaixão, gratidão, respeito. O que não é natural é descobrirmos os sentimentos contraditórios presentes durante todo Histórias Cruzadas.
+Um filme pesado como Coringa e Parasita. Desses que você acha sensacional, mas não quer pensar a respeito das implicações morais da história. No caso, das duas histórias. Uma mais curta e outra mais longa. A curta se chama Ficção e a longa... acertou: Não-Ficção. E apesar dos nomes as diferenças são poucas. Ambas apelam para o lado mais dark do ser humano, em específico da sociedade norte-americana.
 
-Partindo do princípio que apenas um branco poderia resgatar a dignidade das empregadas na cidade de Jackson (capital do Mississipi), o roteiro e a direção de Tate Taylor caminham sem pressa em torno da decisão de Skeeter (Emma Stone), uma mulher "moderna" em plena década de 60 que decide escrever um livro que descreva os maus tratos dessas mulheres pelas suas patroas, um dos últimos resquícios visíveis do passado recente de segregação racial nos EUA. O motivo é claro e igualmente contraditório: Skeeter, assim como todas as crianças brancas, e apesar da repulsa dos brancos - que até defendem o uso de banheiros separados - foi criada por uma doméstica. A infância inteira de Skeeter foi construída sob a visão da velha empregada negra da sua família, que um belo dia foi misteriosamente demitida. Já crescida e lendo textos políticos da época, a conclusão de Skeeter sobre a exploração das empregadas é óbvia, o que torna a personagem mais um processo natural na evolução moral daquele povo do que propriamente a visionária revolucionária sugerida pelo filme.
+Já tem umas décadas que virou lugar-comum criticar a família americana que vive nos subúrbios, a famigerada classe média. Os que criticam são os baby boomers e seus filhos e netos, um pessoal que cresceu em um ambiente livre de privações financeiras e cuja única maneira de se revoltar contra tanta riqueza foi narrar o que viveram sob o viés marxista que aprendem nas universidades.
 
-Recheado de futilidades, o diretor parece se esforçar para explicar tudo pelo menos duas vezes, destruindo boa parte da sutileza de suas próprias tomadas. Se em determinado momento uma menina exclama para a empregada que ela é sua mãe de verdade, o fato de termos visto diversas vezes a empregada cuidando da menina e nunca termos visto a própria mãe carregando a filha parece não querer dizer nada para nós, espectadores. O que Taylor está nos ensinando, humanos estúpidos, é que essas mulheres são exploradas pelos brancos mesmo sendo as verdadeiras mães de toda a comunidade. Não aprendeu, ainda?
+Sob este viés paradoxalmente não existem valores nem moral. Somos apenas matéria interagindo com matéria. Átomos que encontram outros átomos. No entanto, os átomos ricos sentem pena dos átomos pobres. Pobres partículas! A partícula-empregada é a que mais é oprimida. Veio de um país miserável e violento sofrer no país mais rico do mundo. Seu triste destino é trabalhar como uma condenada e em troca sentir saudades da época maravilhosa em que vivia com sua família no inferno.
 
-Mesmo com essa premissa boba e ingênua, o filme passa ileso pelo seu ritmo sempre cadenciado e uma história leve e interessante todo o momento. O que não é possível é conseguir resgatar a humanidade por trás da história de "The Help", pois ela foi esmagada constantemente pela lembrança de que, se os negros conseguiram seu lugar ao sol, foi graças à compaixão de brancos revolucionários como Skeeter. Ainda bem que Tate Taylor está aí para nos dizer isso.
+Mas quem liga? Não somos apenas matéria interagindo com matéria? Átomos não possuem sentimentos, e se os possuem pouco importa. A dor é apenas reação química. Coisas como sentimento e senso de justiça não pertencem a este mundo. Não de acordo com Marx, que apenas descreve o mundo físico como se o homem vivendo nele não importasse o suficiente para ter uma voz. É curioso como esta voz uníssona pós-iluminismo tenha se tornado lugar tão comum nas mentes que de acordo com seus donos possui mais solidariedade. Hoje em dia monopolizam a virtude do bem, seja lá onde ele esteja.
+
+Vamos parar por aqui com a filosofia barata usada nesta produção independente, que quer começar chocando o mundo mostrando peitinhos de uma jovem que será a rival de Reese Witherspoon em Legalmente Loira (sim, é Selma Blair, e está fantastilícia). Os descendentes da prosperidade estão apenas tentando explicar o que está de errado no bairro onde passaram suas perfeitas infância e adolescência. E nada melhor que uma teoria totalmente desconexa da realidade para que qualquer conclusão seja válida, de preferência a sua conclusão, para dar vazão ao xororô dos artistas carentes dessa geração.
+
+Este é um filme que narra as aventuras de personagens que seu criador, Todd Solondz, não tem o mínimo interesse em humanizar. Até o adolescente problemático que é seu alterego (Solondz nasceu na cidade onde se passa a história) não possui uma alma. A vida é tão vazia nos subúrbios de New Jersey que fica difícil acreditar como aquela família ainda não se matou. "Eles são alienados", seria a explicação. Ainda bem que temos seres humanos revoltados... quer dizer, iluminados, que nasceram nessas famílias para nos esclarecer. Sob a forma de filme de arte.
+
+O universo onde se passa esta deprimente, previsível, fascinante e engraçada história é um proto-Beleza Americana, aguardando por mentes mais maduras, como Kevin Spacey, que não se deixa levar pelas hashtags da moda (#metoo) e que conclui seu raciocínio sem precisar de um desfecho deprimente, para melhorar o contexto. Histórias Proibidas é clichê demais fora de Hollywood para ser chamado de corajoso. Mas tem potencial. Tanto que sua versão adulta com Spacey diz a mesma coisa, mas sem o dramalhão da classe média alta, como visto em Parasita e neste filme.
+
+O exercício de futilidade ao qual o filme se entrega neste longa dirigido com muita paixão e pouco cérebro é belíssimo de acompanhar pela sua ironia intrínseca sobre qual a voz que está conduzindo esta crítica social. O resultado continua forte e tenso, mas só se você fingir que não existem bandeiras sendo levantadas.
 
 ---
 categories:
 - writting
-date: '2017-11-11'
-link: https://www.imdb.com/title/tt7133340
+date: '2018-08-23'
 tags:
 - cinemaqui
 - movies
-title: Histórias de Amor Que Não Pertencem a Este Mundo
+title: Histórias que Nosso Cinema (Não) Contava

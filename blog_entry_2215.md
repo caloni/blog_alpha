@@ -1,20 +1,19 @@
 ---
 categories:
 - writting
-date: '2016-02-07'
-link: https://www.imdb.com/title/tt5189670
+date: '2014-06-11'
+link: https://www.imdb.com/title/tt1587310
 tags:
-- series
-title: Making a Murderer
+- cinemaqui
+- movies
+title: Malévola
 ---
 
-Filmado por um período de 10 anos, Making a Murderer é um documentário que assume a posição do réu Steven Avery, que foi preso por 18 anos por um crime que não cometeu e que, posto em liberdade, precisa se defender novamente de mais uma acusação de um crime hediondo. Porém, mais do que isso, é um filme que nos ajuda a pensar a problemática das diferentes versões de um fato e como a construção de uma história se torna mais vital do que a própria história, além de colocar em xeque o sistema americano de justiça, quando uma comunidade inteira parece estar disposta a colocar um homem detrás das grades para sempre por um jogo de influências que é difícil de se desvencilhar. Indo mais além, o documentário, pode-se dizer, escancara como é sensivelmente falha a fé popular nas autoridades e na figura do próprio estado.
+Olhando para Angeline Jolie, com suas curvas de beleza grega, seus lábios que já fizeram muitos marmanjos -- desde Hackers -- suspirarem, fica difícil imaginá-la como uma das vilãs mais macabras de uma história Disney. Porém, lembrando dos recentes sucessos de Espelho, Espelho Meu (Julia Roberts) e o mais enigmático Branca de Neve e o Caçador -- onde Charlize Teron rouba praticamente o filme inteiro -- a ideia já não parece tão absurda. E no caso da relação entre a bruxa que dá título ao filme e a Bela Adormecida há algo de novo que a Disney vem tentando fazer, cujo melhor exemplo hoje em dia é a animação Frozen: a mulher não é mais o lado mais fraco, mas o lado que decide. E qual melhor atriz para esse papel do que a bela "Angeline ativista Jolie", um ser humano que não discursa em vão, mas que de fato ajuda os mais necessitados?
 
-Iniciando com o primeiro caso, um estupro que ocorreu no Condado de Manitowoc, a série originária da Netflix e dirigida, escrita e co-produzida pela dupla Moira Demos e Laura Ricciardi situa o histórico básico da família Avery e a antipatia das pessoas da comunidade de Manitowoc com relação à família que cuida de um ferro-velho localizado nos arredores da cidade. Além disso, registra de diferentes formas todo o processo que tornou Steven o principal suspeito até seu veredicto e posterior absolvição após 18 anos encarcerado. Concluindo com sua soltura e sua volta aos planos de sua nova vida, a chamada para o segundo episódio já é a segunda acusação que Steven irá receber injustamente.
+Aqui, além dos homens desempenharem um papel em segundo plano, as mulheres possuem personalidades mais complexas, sobretudo Malévola. Além disso, a passagem do tempo desempenha um papel primordial para que acreditemos nas mudanças de atitudes dos personagens. Não dos homens. O principal personagem masculino se limita a nutrir um ódio vingativo pela simples sede de poder, algo tão banal que curiosamente antes era a característica principal de uma bruxa má.
 
-O que se passa a seguir é uma montagem genial entre a investigação anterior do caso de estupro e o recente caso de assassinato, passando por relatos, testemunhos, gravações policiais e a maior parte do julgamento de Steven. Se antes havíamos visto um breve resumo de uma hora de um caso chocante de absolvição de culpa do estado em incriminar e prender um inocente, agora é como se esse pesadelo pessoal da família Avery estivesse se repetindo a olhos vistos, e mais uma vez, sem nenhum direito de justiça isenta de parcialidades e condutas controversas das autoridades que cuidam do caso.
+Aliado a tudo isso, uma direção de arte fabulosa aproveita os efeitos visuais ao máximo para conseguir harmoniosamente criar um reino mágico com diferentes criaturas, incluindo incríveis fadas do tamanho de Sininho -- ops, desculpem os mais novos: Tinker Bell --, mas com rostos humanos. Para quem gosta de admirar figurinos, também não é possível ignorar as diferentes vestes de Malévola em suas duas fases da história.
 
-Entendendo que cada detalhe precisa ser esmiuçado de maneira racional para que a inocência de Steven possa, pelo menos aos olhos do espectador, parecer algo não apenas provável mas inegável, o resultado não é o velho esquema do bem contra o mal, mas uma análise fria e calculista de como o sistema de justiça americano ultrapassa barreiras usando a fé cega da sociedade que o apóia e como a sensação de impunidade de um caso real pode chegar a limites quase que inimagináveis, não fossem estes frutos de um caso real e recente de julgamento.
-
-Terminando quando o "filme" atinge o tempo presente, Making a Murderer é um projeto praticamente ainda em andamento, pois demonstra que há ainda pontas soltas e, pior, algo de podre no ar.
+Por fim, o que garante uma experiência acima da média é a dicotomia revisitada do bem contra o mal. Não podemos dizer que não há o mal aqui representado, mas ele faz parte de um personagem que está no passado e cujas ações foram reavalidadas pelo eu presente, o que é muito interessante. Quantos de nós não revisitou alguma ação passada e se questionou se hoje em dia seria capaz de tal feito? É esse conceito da maldade que destrói um futuro que torna Malévola um filme sobre questionamentos morais, o que para um filme da Disney está de muito bom tamanho.
 

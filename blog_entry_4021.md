@@ -1,24 +1,126 @@
 ---
 categories:
-- writting
-date: '2019-10-15'
-link: https://www.imdb.com/title/tt9682578
-tags:
-- cinemaqui
-- mostra
-- movies
-title: Vivir Ilesos
+- coding
+date: '2015-07-28'
+tags: null
+title: Você sabe o que está usando no seu código?
 ---
 
-Vivir Ilesos começa deixando claro, talvez até demais, que é um filme de baixo orçamento. Ele se aproveita de um elenco medíocre para fazer referência a filmes policiais lado B dos anos 70. Por que ele faz isso? Porque o resultado é risível.
+Quando se mexe com C++ em múltiplos fontes logo vem aquela bagunça do versionamento e do compartilhamento de código. LIBs, DLLs, COMs (de Component Object Model, da Microsoft). É difícil a partir de um binário saber quais os fontes envolvidos em sua construção, a não ser que você os amarre através de um sistema automatizado de build onde todos os binários devem ser obrigatoriamente compilados (e suas dependências, claro).
 
-E isso é importante porque a história escrita pelo diretor Manuel Siles é muito absurda, e ele precisa que abracemos esse nonsense desde o começo. Um casal de golpistas (Magaly Solier e Oscar Ludeña) é pego por um milionário inescrupuloso (Renato Gianoli) que sequestra a mulher e a toma como amante. O marido se recompõe e tenta descobrir seu paradeiro. Enquanto isso a força policial, representada por um delegado saído de alguma ditadura militar (Javier Trujillo), lentamente avança sua investigação.
+Porém, há maneiras mais descentralizadas de se trabalhar. Alguém poderia simplesmente colocar a versão em cada CPP e atualizá-la, assim como comentários de histórico, toda vez que alguma mudança for feita:
 
-O filme é escrachado por usar atores de segunda categoria e tomadas com detalhes que você fica se perguntando por que foram filmadas. Alguém consegue o número de telefone e vemos o bilhete onde ele está escrito. Alguém olha para um prédio e vemos sua fachada. Algumas cenas não fazem muito sentido, como uma arma que dispara na piscina com uma reviravolta inverossímil no final (apesar de ser um dos melhores momentos). O filme quer de todas as formas evocar a fantasia e a metáfora por trás da história.
+```
+/** Estou começando esse meu CPP.
+*
+* @desc Esse CPP fará mágicas nunca antes tentadas,
+* e portanto tende a ser perigoso para os padawans
+* mais chegados em um coletor de lixo.
+*
+* @version 0.0.1
+*
+* @remark Estou usando Version Semantics logo acima.
+*/
+```
 
-Isso porque, pra variar, esta é uma crítica social. Fala sobre a impunidade dos mais ricos e poderosos e blá blá blá. Mas sobre isso você já deve saber, já que 12 em 10 filmes independentes falam sobre isso. O engraçado aqui é que o casal de golpistas tem princípios morais cuja consequência é que rejeitam trabalhar para viver, o que também é um clichê, mas aqui ganha uma certa comicidade por conta deles próprios se tornarem vítimas de uma versão mais sênior de si mesmos.
+OK, esse já é um modelo interessante, embora totalmente descartável se você já usa um sistema de build atrelado a um controle de fonte, já que você automaticamente já terá um número mágico para relacionar seus binários: o revno de seu commit (ou seus commits, no caso de mais de um repositório).
 
-E esse detalhe cumpre dupla função, já que até aquele momento no longa os ladrões de galinha do filme ainda não ganharam nossa empatia, mas agora, assumindo papéis sociais, ou pelo menos admitindo uma certa moral, por mais torta que seja, se tornam os heróis anônimos de uma sociedade corrompida, indo cair nos braços de quem acredita que isso se chame luta pela justiça.
+Uma versão um pouco mais... "binária", seria inserir uma string no próprio fonte com essa versão, e talvez até o nome de seu módulo/lib/etc:
 
-Apesar de tantos personagens criminosos, Vivir Ilesos é um filme leve, com a violência psicólogica maior que a física e com um formato tão despretensioso que ele consegue se tornar divertido ao mesmo tempo que faz pensar. Mas não pensar demais.
+static const char* LIB_VERSION = "minhalib 0.0.1";
+
+Dessa forma, por pior que seja a situação do controle de seus binários, sempre haverá a possibilidade de procurar a string lá dentro.
+
+{{< image src="strings-minha-lib.png" caption="Strings na minha lib" >}}
+
+Ops, esqueci que nesses compiladores modernos __o que você não usa não será incluído no binário final__. Isso quer dizer que se quisermos que essas strings de identificação de dependências apareça no binário compilado precisamos pelo menos dar a impressão de que ele esteja sendo usado:
+
+```
+class Using
+{
+public:
+    Using(const char* name)
+    {
+        static const char* st_UsingCollection = name;
+    }
+};
+
+static const Using st_Using("using minhalib 0.0.1");
+```
+
+Agora uma variável estática do módulo deverá ser inicializada como um objeto da classe Using e irá jogar em uma variável estática dentro do construtor. Se ela será usada fica a dúvida do compilador, que deixa tudo como está. Ou seja, ganhamos nossa string no binário:
+
+```
+#include "Using.h"
+
+static const Using st_Using("using minhalib 0.0.1");
+
+int main()
+{
+}
+```
+
+{{< image src="strings-minha-lib-ok.png" caption="Strings na minha lib" >}}
+
+Uma solução mais genérica pode ser aplicada utilizando as famigeradas macros e...
+
+O quê?!?!?!??! VOCÊ DISSE MACROS?!???!? TÁ MALUCO??!??!
+
+Sim. Macros. São inofensivas se você usar direito.
+
+E se reclamar vai ter goto.
+
+```
+// Using.h
+#pragma once 
+#define USING_FILE(version) static const Using st_Using ## __LINE__("using file " __FILE__ " " version)
+#define USING_CLASS(name, version) static const Using st_Using ## __LINE__("using class " #name " " version)
+#define USING_LIB(name, version) static const Using st_Using ## __LINE__("using lib " #name " " version)
+#define USING_FUNCTION(version) static const Using st_Using ## __LINE__("using function " __FUNCTION__ " " version)
+
+class Using
+{
+public:
+    Using(const char* name)
+    {
+        static const char* st_UsingCollection = name;
+    }
+};
+```
+
+A ideia é que qualquer pedaço de código, seja um conjunto de CPPs que você chama de LIB, ou um CPP que você compila em diferentes projetos (talvez em cópias diferentes ainda sendo usadas), ou até aquela função-chave, ou classe-chave. Na verdade, quando eu digo pedaço de código, é pedaço mesmo. Está livre para você imaginar e rotular o que quiser. Depois você consegue dar uma geral no resultado:
+
+```
+// File1.cpp
+#include "Using.h"
+
+USING_LIB(extralib, "0.0.1");
+
+void ImportantFunction()
+{
+    USING_FUNCTION("0.3.1");
+}
+
+// File2.cpp
+#include "Using.h"
+
+USING_FILE("0.0.1");
+
+// File3.cpp
+#include "Using.h"
+
+USING_CLASS(ImportantClass, "1.3.4");
+class ImportantClass
+{
+public:
+};
+
+#include "Using.h"
+
+USING_LIB(lib1, "0.0.1");
+```
+
+{{< image src="all-strings-using.png" caption="Todas as strings do meu projeto" >}}
+
+Com esse simples mecanismo que não gasta mais do que algumas chamadas de assembly no início da lib (antes do main) e o espaço ocupado na memória pelas strings somadas (menos de 1KB, provavelmente) você tem em suas mãos uma poderosa ferramenta de análise de como os binários estão sendo gerados pela sua equipe remota, ou por qual configuração foi usada na máquina de build para gerar aquela DLL com aquele problema antigo, ou porque algo que funcionava parou de funcionar e nada foi mexido (isso nunca acontece, não é mesmo?).
 

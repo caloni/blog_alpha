@@ -1,26 +1,15 @@
 ---
 categories: []
-date: '2011-06-30'
+date: '2015-07-13'
 tags: null
-title: TDC 2011
+title: TDC 2015 No More
 ---
 
-Se você gosta do tema e possui dúvidas a respeito, ou gostaria de mais detalhes sobre outros projetos, não deixe de comparecer. Antes e depois da palestra estarei disponível para conversarmos. O mais interessante de termos uma trilha em C++ é reunir pessoas envolvidas em torno da linguagem, não importando muito a área. Somos um grupo pequeno, e é importante que tenhamos um contato mais próximo de vez em quando.
+Eu represento o Grupo C/C++ Brasil. Sou um dos fundadores. A bem da verdade, todos que participam ativamente no Google Groups e/ou ajudam a organizar o nosso saite, e/ou ajudam a fortalecer a presença de uma comunidade C/C++ no país representam, em menor ou maior grau, a esse ideal que é: as linguagens C e C++ ainda são muito úteis na programação de uso geral, em cenários tão distintos e tão variados que fica difícil sequer listar onde elas são usadas sem parecer panelinha.
 
-C/C++ Caso de Uso: Engenharia Reversa com Windbg. Esta palestra é sobre desmontar e montar novamente. Iremos descobrir como as entradas do dicionário Houaiss eletrônico estão gravadas em um primeiro momento, para depois remontarmos essa informação de maneira que ela possa ser usada em um outro dicionário.
+Além de eu representar o grupo, eu seria um dos organizadores da Trilha C/C++ do TDC 2015 São Paulo desse ano. Seria, se as coisas não tivessem saído dos trilhos a partir desta thread, que colocou em xeque a presença da trilha.
 
-Ferramentas que serão usadas: Windows, WinDbg, Visual Studio (qualquer versão).
+Esse ano posso dizer que não há dúvidas: após a saída da organização de Rodrigo Strauss e de mim, a trilha foi oficialmente cancelada esse ano. Quem esperava assistir as palestras que foram disponibilizadas na grade sinto dizer que não acontecerão esse ano nesse evento. Podem acontecer em outro evento, nesse ou em outros anos? É capaz. O pessoal do Rio está fazendo um esforço admirável em montar nosso segundo encontro no ano, o que já é uma conquista e tanto para um grupo que peca às vezes pela parca frequência com que se reúne (talvez possamos resolver isso de forma mais informal através daqueles velhos papos de boteco que aconteceram algumas vezes no passado).
 
-Conhecimentos necessários: C/C++, Assembly 8086, Win32 API.
-
-Passo-a-passo da palestra:
-
- 1. Sobre Pirataria. Como identificar brechas na licença para que você possa usufruir do seu trabalho de refatoração binária.
- 2. Análise. Desmontando o dicionário Houaiss e desvendando seu funcionamento interno.
- 3. Programação. Remontando a estrutura identificada pela Engenharia Reversa em um formato aberto.
- 4. Sobre Fair Use. Explicando como abrir portas para o desenvolvimento de soluções baseada em nossa análise.
-
-Assuntos "similares" também nos esperam com Sergio Prado e programação segura e Rodrigo Almeida, abordando o desenvolvimento de microkernel. Além disso, também teremos Bruno Koga e Guilherme Andrade destrinchando o compilador LLVM para Objective-C, enquanto Antonio Ribeiro Alves Júnior explica sobre t100, um Middleware para Simulação Distribuída.
-
-Nos vemos lá.
+Bom, é isso. Espero encontrar alguns de vocês por lá. E espero que nos encontremos em Sampa com mais frequência ;)
 

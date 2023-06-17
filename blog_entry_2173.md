@@ -1,20 +1,18 @@
 ---
 categories:
 - writting
-date: '2019-05-04'
-link: https://www.imdb.com/title/tt0170259
+date: '2021-09-25T21:15:35-03:00'
 tags:
+- cinemaqui
 - movies
-title: Luna Papa
+title: Luta
 ---
 
-Esta é uma comédia russa que vai fazer você pensar várias vezes: mais um dia normal na Rússia.
+Luta tem a sinopse fácil de um documentário fofinho de superação sobre o primeiro time de futebol na Rússia para cegos. Como não gostar de um filme assim? Eu nem sabia que cego jogava futebol.
 
-Estamos na parte oriental, com turbantes, camelos, deserto e malucos de todo gênero. Uma trupe de atores passa pela cidade e um ator deixa um herdeiro, o narrador na história, na barriga de uma moça que adora o teatro.
+Os detalhes são passados bem por cima e você provavelmente vai terminar o filme sem ainda entender muito bem as regras. Não tem problema. O filme não é sobre isso, mas sobre seu técnico e fundador. Ele iniciou esse movimento na Rússia e conseguiu acumular troféus e prêmios conforme seus meninos foram ficando bons de bola. Tão bons a ponto de competir com as seleções da Europa.
 
-E o que se segue é um road movie misturado com fantasia e comédia temperados com cultura russa. A atriz que faz essa moça é fantástica. Ela tem uma linguagem corporal que transcende o roteiro. Seu pai e irmão complementam toda a teatralidade da experiência.
+Aí entra a politicagem russa, que insere um novo técnico no cenário. Inconformado, boa parte do filme é buscando entender essa rivalidade que surge, alimentando até certo ponto as diferenças entre os dois técnicos e a relação com os meninos jogadores.
 
-Este é um filme que tanto encanta quanto decepciona pela sua teatralidade, pois ao mesmo tempo que a aventura ganha fôlego a cada cena, com o passar da história vai ficando mais claro que seus idealizadores não têm a mínima ideia do que quiseram fazer. É uma narrativa itinerante, que deseja criar cenas memoráveis, mas o cinema não vive de cenas memoráveis se essas cenas não estão conectadas com o sentido que a arte deseja extrair.
-
-Mas filosofias colocadas à parte, Luna Papa diverte bem pela suas quase duas horas de duração, mas pode soar banal se analisarmos a história. Porém, é filme regional da Rússia Oriental. Se você tem poucas oportunidades de ver filmes dessa região do planeta, assista, e ganhe um pouco mais no seu imaginário na coleção das bizarrices russas.
+Do futebol, mesmo, vemos pouca coisa. O filme tem uma ideia interessante para nos fazer sentir como os jovens cegos em campo. Em muitos momentos não vemos o campo, nem o drible, nem o gol. Só a reação da torcida, do time, da equipe. Isso funciona até entendermos o motivo, mas logo o filme se trai e começa a mostrar alguns lances. Seria demais um filme de futebol sem vermos os gols mais importantes da equipe que acompanhamos desde o início. Mas seria honesto. Nenhum deles viu esses lances. Perde-se a comunicação com seu mundo para a comodidade do espectador.
 

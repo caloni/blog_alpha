@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2017-04-01'
-link: https://www.imdb.com/title/tt4540434
+date: '2013-01-20'
+link: https://www.imdb.com/title/tt1623288
 tags:
 - movies
-title: Paradox
+title: ParaNorman
 ---
 
-Paradox é o tipo de filme que vale a pena conferir pelos conceitos de seu roteiro. Ele é produzido em baixo orçamento, com fotografia de televisão, trilha sonora enlatada e atuações sofríveis. Porém, ignorando tudo isso, este é o filme de viagem no tempo que estava faltando: um que ironicamente evite nos colocar na velha questão dos paradoxos temporais.
+A única proposta original em Paranorman é que o seu protagonista consegue ver e falar com os mortos. Aliado a isso, a proposta infantil de lidar com o além-vida envolvendo um mundo de zumbis e bruxas, embora interessante enquanto desenvolve esse conceito atrelado à visão primitiva e violenta que as pessoas tinham em relação ao desconhecido, está envolta em mais e mais clichês que vão enfraquecendo o núcleo da sua original ideia.
 
-Se mantendo o tempo todo em um laboratório subterrâneo, uma equipe inusitada de cientistas realiza a primeira viagem no tempo da história para constatar que a natureza humana é podre. Uma hora após ligar a máquina (e próximo do final do filme) praticamente todos estarão mortos por um assassino misterioso, que é o grande mistério que nossos heróis do passado precisarão desvendar se quiserem continuar vivos.
+O que é uma pena. Assim como [Frankenweenie], as animações tem ganhado em expandir discussões geralmente restrita ao mundo dos adultos em forma de aventuras despretensiosas envolvendo crianças e animais de estimação. No entanto, diferente deste, nem a estilização curiosa de seus personagens consegue impressionar. Norman é um garoto normal e não possui nada especial exceto sua comunicabilidade com os mortos. Esse "dom" é usado para enganchar um dramazinho particularmente desinteressante a respeito do garoto ainda conversar com a falecida avó, que insiste em continuar na sala assistindo TV, e o desconforto dos seus pais de que o seu modo diferente de encarar a morte possa prejudicar seu desenvolvimento enquanto criança e covardemente temem que eles próprios sejam expostos às diferenças do seu filho.
 
-Porém, como eles próprios sabem, apesar de em vários momentos não admitirem, se a viagem no tempo é possível  -- e ela é -- paradoxos não são permitidos. O que significa que a velha questão se destino existe está respondida: sim! E não há nada que possam fazer a não ser acompanhar os acontecimentos e entregar para nós, espectadores, o prazer de um "trash" focado mais em ideias em vez de sangue. Mas, ainda assim, escorre muito sangue.
+Além do clichê da família problemática ainda temos o melhor amigo gordinho (o alívio cômico ingênuo) e a irmã mais velha que só pensa no físico dos rapazes de sua idade e cujos comentários giram irritantemente em torno das novidades tecnológicas do momento, You Tube, Facebook, o que já marca desde já o filme como datado e indiretamente nos lembra seu caráter aproveitador da tendência temporária de glorificar qualquer conteúdo da mídia que fale sobre zumbis.
 
-A melhor diversão da história é acompanhar duas repetitivas situações: as constantes "gafes" de roteiro e um vídeo capturado do futuro. Através das gafes acompanhamos a primeira decapitação intertemporal (no melhor estilo jogos de videogames em primeira pessoa) e pessoas falando o que está acontecendo ("ele está olhando para nós", "isso está acontecendo mesmo"). Através do vídeo do futuro acompanhamos o personagem da cadeira de rodas, que se diverte em ouvi-lo repetir as mesmas frases que ele ouviu de si mesmo. E o que dizer de uma câmera digital em que o vídeo vai sendo restaurado na ordem e de uma equipe de supostos gênios que em vez de tomar decisões racionais a respeito do que sabem sobre determinismo (ex: evitando a todo custo repetir o que aconteceu) preferem simplesmente entrar em pânico; o mesmo pânico que encontraremos uma hora depois. Gênios!
+E por falar em tendência, a conclusão das aventuras do menino freak volta a interessar pela discussão importantíssima sobre os reflexos atuais de uma sociedade em pleno século XXI e que se comporta de maneira cada vez mais intolerante para com as diferenças alheias. Só que até chegarmos lá teremos que passar por diálogos capengas emoldurados em cenas irritantemente longas e desnecessárias, tudo para que tenhamos a duração mínima de um filme. Paranorman é o filme que já chega tentando vender uma possível franquia ou série quando deveria ter começado apenas pelo último.
 
-Mas estou estragando parte do prazer que é assistir a um filme desses, que é ir tentando desvendar a mente das pessoas envolvidas em uma aventura muito doida. E, depois de assistido, você ainda terá o prazer de debater horas a fio com seus amigos a respeito da impossibilidade de paradoxos em viagens no tempo. Portanto, recomende esse filme. Eu estou apenas passando adiante. Ainda não consegui viajar no futuro para ver o que vai acontecer com o passado.
+[Frankenweenie]: {{< relref "frankenweenie" >}}
 

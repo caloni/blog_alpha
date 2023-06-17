@@ -1,21 +1,28 @@
 ---
 categories:
 - writting
-date: '2015-03-05'
-link: https://www.imdb.com/title/tt1361318
+- playing
+date: '2023-05-10'
 tags:
-- cinemaqui
-- movies
-title: Risco Imediato
+- games
+title: River Raid
 ---
 
-Esse é um filme bem violento, considerando que os heróis são um casal de estrangeiros tentando construir suas vidas em torno de uma casa caindo aos pedaços. Os bandidos parecem pouco interessados no dinheiro, fruto de um golpe, e na heroína deixada para trás pelo traidor da gangue, agora morto. E para piorar temos um francês buscando vingança da rede de corrupção instaurada por um bandido extremamente sanguinário. No pano de fundo de tudo isso reside um policial incorruptível e alheio à burocracia e política. Tudo que ele quer é compensação pela perda de sua filha para o mundo das drogas.
+Jogando River Raid com a Mitiko. Ele foi escrito em 1982 e tem a idade dela. Fomos olhar se o programador estava vivo ainda e está. E é uma programadora.  
 
-Aliás, todos parecem querer compensação em Risco Imediato. Até o jovem casal citado no início quer uma retaliação da vida por dar-lhes uma sobrevivência lastimável apesar de terem sido sempre corretos. Nem o "milagre" da fertilização eles parecem ter direito. Quem não criaria um motivo qualquer para ficar com mais de 200 mil libras? Uma das melhores partes é acompanhar seu processo gradual de relativização moral.
+Carol Shaw escreveu este como seu primeiro jogo quando começou a trabalhar na Atari. E arrasou.
 
-Isso não quer dizer que torcemos por eles. Ver a Kate Hudson com seu sorriso plástico enquanto admira as crianças dos outros não cria exatamente empatia; não conseguir engravidar logo se torna o menor dos seus problemas, mas ainda assim é usado como paninho dramático. Da mesma forma, James Franco faz o papel de um trabalhador braçal sem calo nas mãos que aumenta de inteligência rapidamente no final do filme. Se antes eles não tinham um plano melhor do que ficar com todo o dinheiro, de repente ele e sua mulher bolam uma armadilha ingênua para bandidos armados.
+O uso de cores básicas tornam o cenário do jogo simples de entender, mas não simplista. É possível discernir com uma certa satisfação as diferenças de superfície como o mar e o gramado. E é curioso entender como um avião pode sobrevoar o mar e se chocar com um gramado. A diferença sutil de cor identifica se tratar de uma montanha à frente. Ou pelo menos é o que nossa imaginação permite deduzir.
 
-A participação de Omar Sy como "Genghis Khan" é espirituosa em um filme cheio de personagens desinteressantes. Seu diálogo explicando sua situação é a mais magnética. Tom Wilkinson representa a integridade da justiça, embora tenha um motivo pessoal. É uma pena que sua perspicácia não venha acompanhada da energia de Bruce Willis no interessante 16 Quadras, que também lida com a luta contra a impunidade alimentada pela própria polícia.
+O padrão de criação de telas é algo de louco. Não é incomum jogos daquela época usarem uma seed para gerar os mapas, pois não havia espaço na memória para armazenar todas as fases. Porém, River Raid é o que menos aparece a técnica. A impressão é de que alguém de fato desenhou cada uma das partes do mapa.
 
-Mas o que acaba chamando mais a atenção todo o tempo é uma trilha sonora bem conduzida, que usa batidas de techno para ditar o ritmo da ação. Infelizmente a trilha dramática não é assim tão inovadora, se resumindo em forçar um clima que não necessariamente é o que está ocorrendo na tela. Eu gostaria de assistir a uma história melhor nesse universo sombrio e sem esperanças de uma Londres que olha para seus habitantes de cima. É preciso lembrar que a música de Serena Ryder nos créditos finais é um dos melhores momentos, apesar do tom erroneamente lembrar James Bond. Não a perca.
+Os checkpoints são uma forma inteligente de salvar a altura do mapa e permite que partidas de dois jogadores, ainda que cada um jogue sua vez, fique com cara de corrida.
+
+O movimento dos obstáculos, principalmente os navios e helicópteros, não se repete. Eles começam a se mexer em momentos diferentes a cada vez que se passa pelo mesmo ponto. Isso impede que o jogador decore como passar as telas porque ele nunca vai saber antes a posição dos obstáculos. Com isso ele precisa focar nas habilidades em mover seu avião.
+
+E aí entra a beleza do jogo. O avião pode executar seus movimentos de várias velocidades. Ele se mantém constante,  mas você pode mudar a aceleração indo para a frente e para trás. Essa mudança serve para evitar colisões. Ou você pode desacelerar para abastecer combustível, fazer manobras apertadas. As combinações são muitas para um jogo tão simples.
+
+No entanto, ao desacelerar, o controle do avião fica muito sensível, tornando mais fácil dançar com ele para os lados. Ou seja, não existe caminho fácil para passar pelo mapa.
+
+Outro detalhe fascinante são os tiros. É possível ficar atirando sem parar projéteis na tela, mas ao fazer isso se perde precisão para acertar os alvos. Então é necessário escolher a estratégia do momento: sair atirando em qualquer coisa ou aguardar o tiro certeiro antes da colisão.
 

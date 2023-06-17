@@ -1,16 +1,24 @@
 ---
 categories:
 - writting
-date: '2015-12-27'
-link: https://www.imdb.com/title/tt3168230
+date: '2017-08-28'
+link: https://www.imdb.com/title/tt4158110
 tags:
-- movies
-title: Mr. Holmes
+- series
+title: Filosofia De Mr Robot
 ---
 
-Ian McKellen protagoniza um Sherlock Holmes no fim de sua vida, se divertindo no processo com expressões de um velho quase senil, aposentado após um caso que se arrepende de seu desfecho, embora não se lembre mais qual foi. Tudo o que resta são pequenas pistas e flashes que surgem conflitando com a versão ficcional de seu amigo já falecido, Dr. Watson. Acompanhado de seu jovem amigo Roger (Milo Parker), filho da governanta (Laura Linney), tenta escrever a versão real da história que causou sua aposentadoria.
+Então eis que ergue-se um mundo niilista, até um pouco absurdista, onde o controle é uma ilusão. O sonho de garoto de salvar o mundo encontra novos significados do que é mundo e do que é salvar. Elliot não é apenas multifacetado pela figura de sua família; ele É sua família. E não apenas isso, mas consequência do próprio mundo que ele deseja salvar. Há desafios hercúleos em sua jornada, que parecem intransponíveis para nós, mortais. O que dirá , então, para um hacker esquizofrênico.
 
-Alguns detalhes do roteiro de Jeffrey Hatcher, baseado no romance de Mitch Cullin, são curiosidades, como o fato de Watson ter utilizado um falso endereço ao escrever as aventuras com o amigo, ou o fato dele nunca ter usado o chapéu descrito nos livros, e por ter desistido de fumar cachimbo depois que isto virou sua marca registrada. Aliado a isso, a direção de Bill Condon (A Saga Crepúsculo: Amanhecer - Partes 1 e 2) entrega o que o romance original provavelmente é: um retrato melancólico dos últimos dias de sanidade do detetive mais famoso da literatura e do Cinema. Talvez o único momento realmente cômico da obra seja quando vemos Mr. Holmes assistindo um filme baseado em um de seus livros, e se diverte com a falta de verossimilhança consigo mesmo. "Talvez não eu não seja mais o Real Sherlock Holmes", diz para seu amigo. Depois que os livros foram publicados, como isso influencia a persona em que eles foram baseados é mais uma curiosidade interessante.
+Elliot e o mundo que o cerca é a tradução do que estamos vivendo após a crise econômica de 2008. As pessoas estão revoltadas com um mundo criado contra elas. Elliot está revoltado pelo seu pai estar no comando, sendo que ambos estão equivocados. O mundo, em ambos os casos, é apenas reflexo de suas vítimas.
 
-Lento, pretensioso um pouco acima do que deveria, com uma trilha sonora irritante, Mr. Holmes é uma decepção visto pelas expectativas de seu protagonista ser quem é, mas um drama eficiente em chamar atenção para os detalhes de suas poucas histórias que vivem nas memórias de seu heroi. Infelizmente, a despeito do ótimo esforço de Ian McKellen, esses detalhes não criam nem de perto um retrato fiel do que gostaríamos de ver.
+Dessa forma pessoas endividadas por uma mega-corporação e uma criança abusada quando criança são reflexos dessas pessoas e dessa criança. Isso não significa que a criança possui alguma culpa por ter sido abusada. Significa que as pessoas não têm culpa, individualmente, de ter gerado essa crise. Porém, de maneira ambígua, os pais e o sistema financeiro mundial são ao mesmo tempo algozes e criaturas.
+
+Mr. Robot coloca tudo sob perspectiva. Todas as explicações, de todos os lados, são jogadas em cima da mesa. A consequência disso é que não é possível, logicamente, dizer que há bandidos e mocinhos nesta história. Quando fulano diz que gostou de sicrano ter se matado, pois era um fraco, sim, ele está logicamente correto. O que expõe a verdade crua da natureza humana do homem: a Teoria da Evolução. Só os mais "fortes", ou aptos, sobrevivem. Não de força física, mas mental. Somos animais racionais. Os que suportarem a existência humana e sua condenação inicial de que somos livres (Sartre) terão que tomar a decisão de cumprirem suas funções na sociedade (sejam elas quais forem) ou se transformarem conscientemente em robôs, vivendo uma ilusão onde há controle.
+
+Mas, adivinha só? Em ambos os casos, ninguém possui esse controle muito além de nossas próprias cabeças, e é por isso que o nível máximo de liberdade está chegando e está nas mãos de quem controla computadores. Software, máquinas inteligentes e inertes. Código maleável. Engenharia social, hackeando a própria mente humana. Bitcons, a solução tecnológica da moeda.
+
+Não deixa de ser irônico o fato que o herói da trama, apesar de ter todos os atributos necessários para conseguir o controle absoluto tão almejado, é o que menos consegue controlar sua própria cabeça.
+
+E concluímos, então, esse niilismo que vivemos hoje. Nada tem muito valor se analisado microscopicamente. E se nada tem valor, tudo pode. O trunfo da série é concluir que tudo no mundo nos torna escravos de nós mesmos.
 

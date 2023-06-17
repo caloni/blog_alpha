@@ -1,20 +1,26 @@
 ---
 categories:
 - writting
-date: '2013-04-12'
-link: https://www.imdb.com/title/tt1634003
+date: '2014-03-03'
+link: https://www.imdb.com/title/tt1490017
 tags:
 - movies
-title: Um Time Show de Bola
+title: Uma Aventura Lego
 ---
 
-Um Time Show de Bola possui a grande vantagem de ser dirigido por Campanella, que consegue impregnar uma emoção desproporcionalmente divertida nas cenas "em campo", conseguindo, por ser uma animação, a fluidez completa de suas longas sequências de ação. Por outro lado, acaba sendo uma desvantagem que o controle da produção esteja nas mãos do auto-inflado e "oscarizado" diretor de [O Segredo dos Seus Olhos], que adota um roteiro misto que não consegue contar bem uma única história e vira uma miscelânea de sentimentos a respeito de como o futebol atual é mais um jogo de negócios do que da paixão antiga e nostálgica.
+Eis um filme que constrói sua história em um universo de bonecos e peças montáveis que juntos somam todos os clichês possíveis e imagináveis do gênero aventura. Partindo dessa premissa tímida para um filme onde "Tudo é Incrível" talvez seja pretensioso demais, mas não para um ser cheio de sonhos, medos e desejos que se misturam para contar uma história jamais vista: a que sai da cabeça de uma criança.
 
-A história, ou conto, gira em torno de Amadeo, que desde menino está apaixonado por seu "time" de pebolim e não muda até atingir a idade adulta. Uma richa de infância com um dos meninos do vilarejo onde mora gera uma rivalidade descomunal na figura de Colosso, o mega-craque milionário jogador de futebol profissional que compra a cidade inteira e a ameaça de se transformar no maior estádio do mundo.
+Criado pela dupla de diretores e roteiristas Phil Lord e Christopher Miller (Tá Chovendo Hambúrguer), Uma Aventura Lego conta justamente o que o título sugere, mas revela em seu final o que tudo isso significa (caso você ainda não tenha visto, não se preocupe, não vou revelar nada aqui). O herói dessa história é um construtor comum, Emmet Brickowoski (Chris Pratt), alguém que segue à risca todas as instruções para se viver em Lego City: gostar do programa televisivo "Cadê Minhas Calças" (que apresenta sempre a mesma gag do marido perguntando para a esposa onde estão suas calças), das mesmas franquias de restaurantes e café e da música pop que escuta por 5 horas seguidas todos os dias ("Everything is Awesome", ou "Tudo é Incrível" no Brasil; ambas as versões são tão irritantes quanto viciantes).
 
-O maior problema do filme é criar conflitos onde não existe (se Colosso estava planejando demolir o bar onde foi derrotado e pegar a mesa de pebolim para si, por que precisou mandar seus capangas irem procurá-la no lixão? E o que aquela perua estava fazendo no lixão naquele horário da noite? E... um circo?). A maior virtude é sua paixão pelo esporte-arte (as sequências de ação no campo são de tirar o fôlego) e como a direção de arte se empenha em construir cenários detalhistas e ao mesmo tempo significativos sobre o tema.
+O detalhe é que Emmet encontra uma pedra mágica descrita por um mago cego chamado Vitruvius (e dublado por ninguém menos que Morgam Freeman) em uma profecia como a chave para a salvação dos planos maléficos do Presidente Negócios (Will Ferrell), o dono de todas as empresas importantes da Cidade Lego, incluindo a fábrica da máquina de votação. Daí você já conclui quem está no comando de todas as peças, grandes ou pequenas.
 
-Com seus prós e contras, a animação de Campanella diverte moderadamente. Tal como um jogo de cartas marcadas que estamos acostumados a assistir hoje em dia.
+Cercado de personagens interessantes, mesmo os que possuem pouco tempo de tela (como Superman e Lanterna Verde) ou os que servem como quebra-cenas (Batman), Uma Aventura Lego desmistifica o padrão dos filmes de aventura para recriar o seu próprio, com a diferença que este parece idealizado por uma criança. Que vergonha, senhores roteiristas, passados para trás por uma mente tão mais jovem!
 
-[O Segredo dos Seus Olhos]: {{< relref "o-segredo-dos-seus-olhos" >}}
+O fato é que a criatividade por trás de cada cena encontra respaldo nas próprias peças e mundos criados pela empresa Lego. Uma baita ironia se formos pensar que o vilão do filme é justamente alguém que controla como esses mundos devem funcionar, mas também uma mensagem de esperança se observarmos com cuidado a mensagem da história: você pode usar sua imaginação e criar o que quiser a partir dessas pequenas peças de plástico.
+
+Indo de encontro aos games e jogos pré-fabricados de nossa geração, onde a diversão recebe um tratamento micro-gerenciado, o filme se intromete em todos esses conceitos engessados, se dando ao luxo de empregar um fantasma de um certo personagem que aparece amarrado a um barbante e junta dentro da cabeça de um cachorro os maiores ícones da cultura pop de diferentes nichos (não apenas os "outros magos" Gandalf e Dumbledore estão presentes, como o Presidente Lincoln, Shakespeare e dois Michelângelos: o pintor e uma Tartaruga Ninja). Tudo isso está junto pelo simples fato de na mente infantil não existirem barreiras nestes mundos, mas uma oportunidade de ouro de sinergias infinitas.
+
+Porém, além da história amarrada em torno do lúdico com um pé na cultura pop, o que mais impressiona mesmo são os efeitos visuais, que por incrível que pareça (afinal, estamos falando de um filme protagonizado por pecinhas de montar) funcionam como se fizessem parte do mundo real. É possível ver em close os arranhos das peças, além do reflexo de uma suposta iluminação. Os cabelos são pedacinhos de plástico encaixáveis. E isso se aplica também ao macro, ao 3D, onde através dos cenários cheios de elementos vivos e múltiplos níveis de profundidade e movimentação conseguimos nos colocar sempre no centro da ação. São tantos detalhes que durante toda as sequências agitadas o único pensamento que me veio à cabeça foi: "vou precisar ver isso de novo; talvez mais de uma vez".
+
+O filme não deixa de entreter em nenhum momento, nem começa a soar bobo. Pelo contrário: a partir do terceiro ato, ele atinge seu nirvana entrando em um novo nível de interação, corajoso pela tentativa de mesclar duas interpretações incompatíveis. Se formos pensar de perto esse momento, as falas nunca se encaixariam de verdade. O que o filme faz, portanto, é pedir pela licença poética, ou melhor dizendo, pela licença infantil. E que criança-adulto, ou adulto-criança, seria capaz de dizer não?
 

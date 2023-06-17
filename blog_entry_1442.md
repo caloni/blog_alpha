@@ -1,21 +1,14 @@
 ---
-
-Essa é uma comédia francesa em que uma mulher tem seu marido morto em um acidente de carro justo quando está prestes a se despedir deste e fugir com seu amante, um pescador da região, e morar com ele na China. Junto da morte do marido vem toda sua família, inclusive seu filho, que fazem de tudo para "cuidar dela" e impedi-la de "curtir" seus primeiros momentos de viuvez.
-
-Um detalhe musical: enquanto ela escuta músicas mais animadas (e é curioso que no início ela comece cantarolando o tema do filme antes do som invadir as caixas de som), seu marido ouve música clássica, e vive se preocupando com coisas que podem acontecer daqui a 100 anos, indicando claramente seu distanciamento da vida a dois entre eles.
-
-Durante o enterro, temos a câmera mostrando a visão do que ela está realmente prestando atenção: pessoas em sua volta (fora de foco) e o pai de seu marido caindo atrás do arbusto.
-
-Algumas cenas parecem ocupar espaço à toa, apenas para fazer graça (a velha decrépita do bar perto do cais) ou para ficar bonito (o zoom out dela sentada no banco de frente para o mar).
-
-Por outro lado, alguns detalhes revelam um pensamento um pouco além do convencional, como a câmera que balança no ritmo do mar quando alguém olha uma pessoa em terra firme por um barco, talvez até mesmo simbolizando a vida estável que é com o marido dela (note que a câmera não balança na visão contrária) em contraponto à vida bem mais instável de seu amante pescador.
-
-E se enquanto somos infestados com piadinhas de gosto duvidoso e caricaturas que não contribuem muito para o desenvolvimento da história, quando a narrativa ganha o tom dramático do encontro dos personagens mais presentes (a esposa, o amante e o filho), a curva que vemos da comédia para uma filosofia um pouco mais "profunda" ("agora estou verdadeiramente de luto, pois perdi o homem que eu amo") contrasta de forma significativa, mas não de forma abrupta, pois somos levados aos poucos a entender o drama por trás da comédia de situação.
-
-Por fim, uma conclusão óbvia e bobinha (os dois se reencontram onde ela gostaria de morar, nas montanhas), mas que não tira o mérito de termos experimentado uma história um pouco mais realista que uma comédia comum.
-
+categories:
+- coding
+date: '2007-10-10'
+link: https://github.com/Caloni/lectures/blob/master/engenhariareversaparaprincipiantes.pdf
+title: Engenharia reversa para principiantes
 ---
-categories: []
-date: '2012-04-17'
-tags: null
-title: Engenharia Reversa em Itajubá
+
+Dei uma reformada em minha última palestra sobre engenharia reversa. O tema escolhido foi tentar abranger os níveis de conhecimento que uma pessoa disposta a se dedicar à engenharia reversa de programas deveria ter, desde programação, passando pelo sistema operacional e terminando no uso de ferramentas. Achei interessante abordar esse tipo de conteúdo pelo fato de existirem pessoas que gostariam de começar ou já começaram e não sabem para onde ir.
+
+Outra coisa que fiquei receoso de colocar (mas coloquei) foi a lista de tarefas para usar o conhecimento aprendido. Pode ser frustrante tentar procurar emprego nessa área aqui no Brasil e não adianta nada aprender e não usar. A engenharia reversa, assim como a área de segurança da informação, para ser efetiva, deve levar em conta como as coisas são feitas, o que quer dizer que fazer vírus e quebrar proteção de software faz parte do aprendizado.
+
+Se houverem interessados o suficiente poderei ministrar uma palestra online, para ilustrar os slides e tirar dúvidas. Lembrando que isso não inclui as perguntas "como eu quebro o programa X" ou "faz um vírus pra mim".
+

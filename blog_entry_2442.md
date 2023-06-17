@@ -1,19 +1,16 @@
 ---
 categories:
 - writting
-date: '2021-12-21T11:00:49-03:00'
+date: '2020-10-04'
+link: https://www.crunchyroll.com/my-first-girlfriend-is-a-gal
 tags:
-- music
-title: Música gótica sacra e secular
+- animes
+title: My First Girlfriend is a Gal
 ---
 
-Comecei meus estudos musicais caminhando na ordem cronológica pela história. O primeiro artista que me chamou a atenção foi Guillaume de Machaut, um poeta e compositor francês que para ter uma ideia de sua importância tem a data de sua morte como marcador do final de uma era na história musical da Idade Média.
+Não tire conclusões precipitadas. Gal é a transliteração de gyaru, do inglês girl, ou garota, mas não é apenas sobre garotas que este título fala. As Gals do anime são garotas que seguem o modelo exagerado (do ponto de vista japonês) com que as garotas se produzem. E a Gal que este virjão começa a namorar na série dá a exata noção de o quão distante ele estaria na vida real de uma mulher dessas. Felizmente ele é um personagem de anime.
 
-Este autor mistura música secular e sacra, além de diferentes estilos, como o uso de vozes polifônicas (e apenas isso) para uma peça, e alguns álbuns inspirados ou replicando seu trabalho literal usam instrumentos típicos da época. Há muito material produzido que se pode encontrar nos Spotify da vida.
+As piadas de seu grupo de amigos é muito próxima de um grupo de amigos virgens (e você já teve um): mulheres de revistas, objetivos bem definidos (transar) e nenhum plano de ação minimamente executável. My First Girlfriend is a Gal é uma viagem cotidiana dentro desse universo, com uma pegada menos infantil e mais adolescente, mais próximo de "Nerds" ou qualquer outro filme americano sobre garotos inaptos tentando conquistar garotas. Pode ser um porre eventualmente, mas possui lá suas tiradas. Como um ex-virjão eu curti.
 
-O que eu mais ouvi até agora é uma peça de pouco menos de uma hora chamada O Espelho de Narciso. São apenas vozes que narram uma história cantada com muita alma. A produção é assinada por Gothic Voices. É um trabalho de 1983 absolutamente magistral. Somos transportados para uma época muito diferente dos dias de hoje, mas mais do que isso, a voz humana aqui é exaltada em um nível que não estamos mais acostumados. Tanto a técnica quanto o local onde foram captados esses sons humanos evocam uma origem divina, quando o divino ainda era a referência para o mundo.
-
-Um trabalho mais musical e eclético, com diferentes estilos combinados, é esse Le Jugement du Roi de Navarre, um trabalho de produção mais recente (2003) e que ainda preciso me contextualizar melhor, mas me parece um texto narrativo.
-
-Isso está mais divertido que um filme.
+Uma curiosidade interessante sobre os tempos atuais (este anime é de 2020): essa série tem um personagem que é um pedófilo declarado, e faz declarações, em companhia de amigos e garotas, no mínimo constrangedoras, como "meninas do pré-fundamental são as melhores". Frequentemente quando seus amigos comentam sobre essa ou aquela garota ele se sente desanimado por elas serem muito velhas (todos os personagens giram em torno dos 15 aos 18 anos). Ele arruma um trampo de verão em uma creche onde bate papo com menininhas nas cenas em que é visto, e em um episódio onde todos vão para a praia, ele fica se deliciando ao ver crianças pré-puberdade de biquini.
 

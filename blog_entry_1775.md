@@ -1,22 +1,18 @@
 ---
 
-Assistir novamente a "Harry Potter e A Pedra Filosofal" depois dos atores crescidos e a computação dominar o cenário de efeitos visuais cria uma nostalgia quentinha no coração. Por ser um filme de origem, muitos detalhes da história tiveram que ser contados de forma burocrática, mas a imaginação de J. K. Rowling transforma o exagero do mundo mágico dos bruxos, coexistindo debaixo das barbas dos não bruxos (trouxas, esse é o nome), em uma diversão à parte. Quando uma chuva de cartas inunda a residência dos tios do pequeno órfão Harry Potter nós sabemos que as regras da magia podem dominar nossa percepção daquela realidade.
+Quarta aventura da série de filmes adaptados dos livros da escritora infanto-juvenil J. K. Rowling, este é o último ainda adolescente e que não envolve tragédias muito acenturadas no dia-a-dia dos estudantes bruxos da escola de Hogwarts. Ele termina com essa transição para o mundo adulto, onde a morte pode e deve acontecer de forma mais frequente para os protagonistas da história. É um arco, mas como filme serve para múltiplos propósitos dentro de uma série, como evoluir as relações do núcleo Harry, Hermione e Ron, além de revelar novas facetas do mundo dos bruxos, como sua existência em outros países, além do perigo sempre iminente que o Ministério da Magia no Reino Unido sofra ataques indiretos pelos capangas do mal maior no universo, representado por Lorde Voldemort.
 
-Além disso, detalhes desse mundo peculiar dos bruxos também preenchem nossa imaginação, como os banqueiros que guardam moedas de ouro em cofres acessíveis por um sistema de minas, ou a maneira poderosa como um chapéu escolhe a escola dos recém chegados alunos ou a varinha mágica que escolhe o seu dono, e não o contrário, como imaginaríamos.
+Ainda não está claro qual é a grande maldade de Voldemort, embora ele flerte pesadamente com a figura de Darth Vader, já que a existência entre bem e mal absolutos é marca de sagas fantasiosas como ambas. Além disso, as sugestões elitistas dos bruxos mals, que estão sempre atacando os bruxos mestiços, também sugere essa analogia que a escritora J. K. Howling aplica em seu mundo.
 
-Além disso, pequenos truques de magia como fotos e quadros animados e escadarias que decidem mudar de lugar conseguem nos inserir completamente naquele mundo mágico da escola de Hogwarts e nos dar uma impressão, ainda que parcial (são crianças) do mundo que Harry Potter e seus recém amigos estão adentrando.
+A direção de Mike Newell empolga, mas é burocrática demais para criar alguma personalidade. O mesmo universo é revisitado e as novidades não parecem ornar muito bem com o que já conhecemos. Parece um show off desnecessário do ponto de vista da história, embora seja muito empolgante assistir à Copa Mundial de Quadribol ou a existência de grupos de estudantes fazendo intercâmbio.
 
-Todas essas novas experiências são cercadas por um mistério envolvendo inimigos do bruxinho e uma história de vingança. Hoje ela é conhecida por todos, mas hoje também os filmes infantis são inofensivos, o que os tornam facilmente esquecidos. Aqui a morte passa próximo das crianças, e é isso que nos faz levar a aventura a sério.
-
-Ainda assim, a direção de Chris Columbus (Esqueceram de Mim) e a trilha sonora de John Williams (que cria o memorável tema da série) abraçam o caráter infantil desse primeiro trabalho cinematográfico da série de livros. As cores são muito vivas, e jogar quadribol voando em vassouras, apesar de arriscado, é uma atividade colorida e lúdica. Também o são as criaturas mágicas que habitam o castelo de Hogwarts e sua floresta.
-
-Eis um filme que consegue empolgar criança e adulto. Criança porque quem não adoraria viver um mundo onde a magia, além de realidade, é um mundo cercado de mistérios? E adulto porque quem não adoraria voltar a ser criança em uma versão mágica e livre das leis da física? Eu estou na fila.
+Trabalho menor dentro da saga, seu aspecto comercial hoje prevalece. Menos infantil, é claro, que os dois primeiros filmes, seu pecado é tanto tempo de tela apenas para expor os eventos sem explorá-los como cinema.
 
 ---
 categories:
 - writting
-date: '2010-11-19'
-link: https://www.imdb.com/title/tt0926084
+date: '2019-12-27T18:25:00-03:00'
+link: https://www.imdb.com/title/tt0417741
 tags:
 - movies
-title: Harry Potter e as Relíquias da Morte - Parte 1
+title: Harry Potter e o Enigma do Príncipe

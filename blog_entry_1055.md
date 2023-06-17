@@ -1,28 +1,42 @@
 ---
-
-Graças ao meu amigo Thiago estive acompanhando uma série de posts de gente renomada sobre o tema deste artigo. Eles fazem parte de uma nova modalidade entre os blogueiros (pelo menos para mim) chamada de tagging. Funciona assim: você escreve sobre algo (por exemplo, "como ser um melhor cozinheiro em 6 meses") e manda uma tag para que outras pessoas também escrevam sobre o mesmo assunto, o que pode ser feito referenciando o sítio dessas pessoas.
-
-Ainda não tive tempo de ler todos os artigos (nem vou ter, pela velocidade com que isso se espalha), mas acho que dá tempo de escrever um pouco sobre isso.
-
-Acredito que nós, programadores, tentamos aprimorar nossos conhecimentos e nossas técnicas com o objetivo de enxergar os problemas do dia-a-dia de todos os ângulos e de encará-los e resolvê-los da melhor maneira possível. Quer dizer, nós achamos que é a melhor maneira possível. E exatamente por acharmos que tentamos melhorar sempre, em busca da inalcançável perfeição.
-
-O problema existe quando nós, embriagados pela falsa crença de sabermos tudo (ou o suficiente), acreditamos realmente que estamos fazendo o melhor possível e que não há nem haverá maneira de melhorar. É lógico que sempre há. Melhor maneira de ver isso é pegar um código-fonte antigo e observar as mudanças de estilo. E nem precisa ser tão antigo assim. E nem precisa ser código. Pode ser uma idéia antiga de como implementar alguma coisa. A não ser que você seja um teimoso que quer fazer tudo em assembly verá que o que aprendemos ontem influencia nas decisões de amanhã.
-
-Minha lista não é muito diferente da dos outros. Basicamente se resume em: ler livros e blogs, programar mais e pensar mais ainda. O importante é que já estou ciente das coisas que devo melhorar, e é nelas que devo me focar nos próximos 180 dias:
-
- - Fazer um curso de memorização. Confesso que não ligava muito para isso e agora isso faz um diferença e tanto. Eu sei que hoje temos post-its e agendas, mas nada substitui a confiança que temos em nossa própria mente. E é frustrante ler um livro três meses atrás e não se lembrar de capítulos inteiros.
-
- - Fazer um curso de leitura dinâmica. Minha velocidade na leitura é deplorável e eu sei disso. Minha vontade de ler sempre ultrapassa o ato (isso deve ter acontecido com alguns de vocês). Mas o objetivo não é apenas ler mais rápido. É ter foco. Ler e absorver. Não estou dizendo isso de livros de ficção, que para mim são um entretenimento prazeroso. São os livros técnicos que pertubam, e urgem pela minha atenção quando os estou lendo.
-
- - Aprender o meu ritmo. Às vezes me impressiono com o meu descaso para comigo mesmo. Por exemplo, eu já sabia que "rendia" bem mais quando lia livros simultaneamente, e não em fila. Mas mesmo assim insistia em querer terminar um livro antes de começar o outro. O resultado? Aproveitamento 60%. Nada mau. Mas poderia ser bem melhor. Bastava seguir o método que melhor se adapte às minhas necessidades. E isso é o que eu chamo de aprender a si mesmo.
-
-Agora que já passei pelo sofrimento de taguear nada como escolher minhas vítimas. Não conheço pessoalmente muitos blogueiros, mas pelo menos essa minha lista é fiel e sincera. Rodrigo Strauss, Fernando Roberto e Thiago Oliveira: o que vocês farão nos próximos seis meses para se tornarem melhores desenvolvedores (ainda)?
-
+categories: []
+date: '2008-01-08'
+title: Como ter um melhor blogue em 2008
 ---
-categories:
-- writting
-date: '2015-12-09'
-link: https://www.imdb.com/title/tt1727776
-tags:
-- movies
-title: Como Sobreviver a Um Ataque Zumbi
+
+Não é exatamente uma receita de bolo, tampouco uma lista de regras imutáveis. Na verdade, apenas algumas dicas que o criador do termo (we)blog deu sobre como ele imagina que os blogueiros deveriam se comportar em relação aos seus blogues. Entre os toques, ele inicialmente comenta que o princípio de um weblog é ser um histórico dos sítios que navegamos, e que eventualmente podemos publicar conteúdo original. Bem, esse humilde blogue faz exatamente o oposto, acreditando que o conteúdo publicado aqui em português dificilmente será encontrado na web, além de que me sinto um inútil se não colaborar com o mundo usando o conhecimento que aprendi e aprendo no dia-a-dia.
+
+Por isso mesmo, aqui vão as dicas traduzidas, que encontrei no blogue de Lino Resende, verbatim (com meus comentários ao final de cada item):
+
+  1. Um blog verdadeiro é um log de todos os sítios que você gostaria de salvar ou dividir.
+   - Então, hoje, o del.icio.us é melhor para os bloggers do que o próprio Blogger. Isso seria como se os blogues fossem sítios de pesquisadores do google, o que não deixa de ser meia-verdade.
+
+  2. Você pode, é claro, colocar links sobre você fora do seu blog, mas se o blog tem mais posts originais do que links, recomendo aprender um pouco de humildade.
+   - É um golpe bem dado ao Caloni.com.br. Bom, espero ser mais humilde em 2008 =).
+
+  3. Se fizer uma pequena procura antes de postar, vai descobrir que alguém já falou do seu assunto e melhor do que você.
+   - Isso eu faço, mas, como já disse, conteúdo em português é mais escasso, o que compensa a publicação de artigos sobre assuntos já tratados em outras línguas.
+
+  4. Seja você mesmo, sem suprimir links que não o tratem favoravelmente. Seus leitores querem saber quem efetivamente você é.
+   - Essa dica é particularmente difícil para blogues técnicos, como o meu e de muita gente. No entanto, nós tentamos não parecer bots, acredite!
+
+  5. Você pode melhorar o título das páginas que sugere quando as descrever e dar o link. Assegure-se de sua descrição fará os leitores se lembrarem dela, reconhecendo páginas que já visitaram ou quando a visitarem novamente.
+   - Essa é mais fácil de fazer.
+
+  6. Use sempre algum adjetivo para descrever sua própria reação à página que recomenda (ótima, imaginativa, clara, útil).
+   - Essa dica foi clara e útil. Além de imaginativa e ótima, claro.
+
+  7. Dê os créditos à fonte que você usou. Assim, seus leitores podem conferi-la e "moverem-se para cima".
+   - Essencial, especialmente, mais uma vez, se tratando de blogues técnicos.
+
+  8. Cuidado com os problemas de formatação estranha, múltiplas páginas com histórias, textos muito longos, etc. Não esconda o link principal entre outros auxiliares, mal identificados ou pobres.
+   - Essa dica é mais para weblogs de fato. Eu passo.
+
+  9. Escolha alguns autores favoritos ou celebridades e crie um feed no Google News, acompanhando novas menções a eles. Assim, outros fãs podem segui-los através do seu blog.
+   - Você pode seguir os que sigo através da minha Home Page (update 2021-04-18: hoje em dia não sigo mais nada, mas links específicos existem nos posts; quem diria, acabei ficando mais blogger com o passar do tempo). Eventualmente compartilho posts através do Google Reader. Update 2021-04-18: não mais =(
+
+  10. Reindique seus links favoritos de tempos em tempos para quem os perdeu, esquece ou o está lendo pela primeira vez.
+   - Essa é uma coisa que está faltando aqui no Caloni.com.br, que é a manutenção dos artigos antigos. Prometo me esforçar mais em 2008. Promessa de ano-novo =).
+
+É isso. Concorda, discorda, sem corda? Imagino que a dica que mais me afetou foi aquela sobre humildade, lá no começo. Digo isso porque ainda está martelando na minha cabeça, pronta para transformar este blogue em algo mais democrático e transparente.
+

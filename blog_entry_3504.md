@@ -1,28 +1,24 @@
 ---
 categories:
 - writting
-date: '2019-09-20'
-link: https://www.imdb.com/title/tt8026554
+date: '2012-10-21'
+link: https://www.imdb.com/title/tt0069293
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Sócrates
+title: Solaris
 ---
 
-Sócrates, além de ser um filme arrebatador, como produção é mais um exemplo a ser seguido pelo cinema brasileiro. Iniciando com baixo orçamento, ganhando fôlego necessário na pós-produção, e viajando o mundo ganhando prêmios (Grécia, Alemanha, EUA), a única parte que não é admirável em todo o processo é ter que esperar todo esse tempo por sua estreia em seu país de origem. Mas, ainda assim: que momento para nos orgulharmos do cinema nacional.
+Solaris exige do espectador uma imersão surreal e ao mesmo tempo filosófica. Tudo bem que isso já é esperado de toda boa obra de ficção-científica, que nos coloca em uma realidade alternativa mas que continua debatendo temas da época em que foi feita.
 
-Tendo pouco mais de uma hora e contando a história de um garoto que luta basicamente para conseguir concluir sua despedida da mãe, seu único porto seguro, e que agora faleceu, sozinho e sem quem o ajudar, o garoto-título está à beira do desespero no pior momento de sua ainda curta vida, e as lentes do diretor/roteirista estreante Alexandre Moratto irão captar esses momentos como estrofes de uma poesia brutal e avassaladora com um tema tão simples, e que ao mesmo tempo se torna realista por seu tom imediatista do agora ou nunca.
+Só que aqui estamos falando de uma união entre sci-fi e filosofia Tarkosvkiana. Quero dizer, o diretor é intenso. E é russo. Sonhos aqui não são apenas descritos: são vividos.
 
-Este modesto projeto começou quando Alexandre bateu na porta e entregou seu roteiro no Instituto Querô, na cidade de Santos (São Paulo). O Instituto, apoiado pela UNICEF, realiza trabalhos em audiovisual com jovens em situação de risco, ironicamente ou não, em uma faixa etária que não conseguiriam emprego por determinação da lei, o mesmo problema do protagonista do filme. Irônico ou proposital, apesar de esforçado, Sócrates não consegue aproveitar as oportunidades de ganhar a vida por ser jovem demais. É uma questão confusa para muitas pessoas que "crianças" tenham que trabalhar, e não é função do longa abordar isso com profundidade, mas o Querô conseguiu uma ótima oportunidade de ao mesmo tempo encaminhar esses mesmos jovens da vida real para uma profissão e alavancar abruptamente a carreira do ator iniciante Christian Malheiros.
+E por falar em sonhos, nos colocamos na situação do psicólogo Kelvin (Donatas Banionis), cuja missão se passa na estação espacial em torno da atmosfera misteriosa do planeta Solaris, que possui um oceano que se comporta como uma espécie de cérebro, materializando criaturas que se parecem (e agem) como humanos. Como não poderia deixar de ser, essas aparições estão deixando a equipe de pesquisadores extremamente perturbada, o que não os ajuda em nada a desvendar o funcionamento do planeta.
 
-A narrativa tem essa pegada avassaladora em que o protagonista, desesperado, se entrega a qualquer mínima chance de continuar tendo uma vida digna sem a mãe, tentando preencher sua própria vaga como faxineira na rodoviária e bicos eventuais que surgem onde não se importam com sua data de nascimento. Sendo homossexual e em um momento fragilizado, ele desenvolve uma relação problemática com o esquivo Maicon (Tales Ordakji), que parece negar sua própria natureza e afunda o seu eu em bebida e agressividade, perigosamente levando Sócrates para o mesmo caminho.
+O mais curioso de uma história envolvendo gabaritados doutores é que estes fazem parte do filme, e por isso não conseguem entender algo que para nós, espectadores, munidos do poder da metáfora e alegorias, conseguimos enxergar de maneira muito óbvia: o oceano que adquire diversos formatos faz o papel da psique humana. E a psique não se desvenda, se interpreta.
 
-O filme acertadamente não nos dá tempo para pensar. É uma história emergencial. E por causa disso a montagem de Alexandre vira uma mescla de emoções que vão se sobrepondo em camadas de afetividade, carência, desespero e luto. Luto acima de tudo, pois no final das contas é o que move o protagonista para as camadas mais escuras de sua existência. Ele reencontra os familiares que o recusam por ser gay, ele tenta se entregar à despretensão de viver enchendo a cara, mas eventualmente um novo dia começa. Um novo dia sempre começa, e o tempo simplesmente não para neste longa metragem, não dando tempo sequer para o respiro cômico. É tudo tensão e solidão.
+E é exatamente isso que Tarkovski nos sugere, aplicando rebuscados planos e se estendendo em torno de quadros que repetem um padrão (ou a falta de). Quando Kelvin passa a conviver com sua ex-amada Hari (Natalya Bondarchuk), a experiência é tão intensa que é como se nós mesmos a conhecêssemos de outras vidas.
 
-A câmera na mão e seus movimentos leves ou agitados determinam o estado de espírito deste jovem na corrida pela vida que chega em alguns momentos a lembrar uma dança. O curioso é que ao comentar esse detalhe com o Alexandre, a produtora do filme que estava ao lado, Tammy Weiss, lembrou que o camera man é de fato também um dançarino profissional, o que fez tudo se encaixar a respeito dessa experiência quase a la Terrence Malick (A Árvore da Vida), onde a câmera dança em torno do motivo. E por falar em referências, há mais elementos de outros filme que se misturam, como A Rota Selvagem e Moonlight, onde alguém jovem e vulnerável passa pelo doloroso processo de descoberta de si em meio a um mundo que está alheio à sua existência ou reage de maneira hostil. Nenhum se compara a Sócrates, o filme, que resgata sua própria identidade nos ombros de seu inusitado herói-título.
+De certa forma, isso não é completamente mentira. O oceano de Solaris pode representar, de certa forma, a psique da humanidade inteira. A visão junguiana favorece as elucubrações filosóficas que ocorrem. E se estas podem parecer simplesmente jogadas, é preciso lembrar que ela está saindo da boca de representantes máximos da espécie humana (e Sócrates está presente em ambos os ambientes, na Terra e no Espaço). Estes homens não conseguiram desvendar Solaris assim como o Homem não consegue a si mesmo.
 
-O ator Christian Malheiros foi o primeiro a realizar o teste de ator e muito receoso se deveria. Depois de mais uma bateria de testes, com ele e mais tantos outros, foi finalmente selecionado. Christian foi a constante no processo da montagem do elenco e Sócrates é a constante nessa história que vai muito além de um triste episódio de sua vida. O papel de Christian em Sócrates é marcante porque ele representa o quão o cinema pode sequestrar nossas emoções por tanto tempo com tão pouco. Sua atuação não é exagerada, mas está tão presente em cada pedaço que nem precisa. É um ator encarnando um personagem autêntico, cuja existência não temos sombra de dúvida, e cuja essência pode ser desvendada nessas uma hora e pouco. Uma experiência e tanto para um projeto que nasceu tão despretensioso.
-
-Sócrates foi exibido na Mostra de São Paulo ano passado, mas agora, espero, deve ficar mais algum tempo em cartaz para que os brasileiros, finalmente, possam experimentar o que fãs de cinema de todo mundo já experimentaram.
+Que triste fim para o Homem que, por não saber quando vai morrer, vive apressadamente. Se pelo menos tiver apreciado uma sessão de Solaris, talvez a viagem não tenha sido feita em vão.
 

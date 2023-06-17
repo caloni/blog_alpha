@@ -1,20 +1,18 @@
 ---
 categories:
 - writting
-date: '2011-10-16'
-link: https://www.imdb.com/title/tt2006109
+date: '2012-08-16'
+link: https://www.imdb.com/title/tt0116282
 tags:
 - movies
-title: Família Vende Tudo
+title: Fargo
 ---
 
-É fato que Lima Duarte está no estado de gênio, e cada novela que participa é um desperdício do Cinema. Semelhantes comparações podem ser feitas em boa parte do elenco de Família Vende Tudo, novo longa de Alain Fresnot. Este é um filme adiado em suas interpretações, por mais que não façam sentido ou soem deslocadas. E é aí que temos outro indício de desperdício, dessa vez no próprio Cinema: a capacidade de vender uma ideia divertida e fácil em uma história que sequer consegue chegar a uma conclusão sobre seu assunto central, e que desperdiça interpretações primorosas em um projeto sem pé nem cabeça.
+É muito simples entrar em uma comédia-thriller dos irmãos Coen. Há dois princípios extremamente eficazes em Fargo: os diálogos que expõem desde o início o caráter de seus caricatos personagens, como ao apresentar em uma inspirada conversa a maneira com que os dois capangas (Steve Buscemi e Peter Stormare) contratados pelo hesitante Jerry Lundegaard (William H. Macy) irão efetuar o sequestro de sua mulher, e os ângulos inusitados de câmera escolhidos por Joel Coen que exaltam o clima surreal dos fatos que irão se sucedendo aos poucos, e para isso há tomadas belíssimas sobre uma neve que ofusca o resto da paisagem e dá preferência para que vejamos o que está de fato ocorrendo na pacata cidadezinha.
 
-O filme, em uma forte introdução de seus personagens, mostra a família-título em sua luta diária para sobreviver, comprando mercadorias no Paraguai e revendendo-as em São Paulo, ambas atividades ilegais e que acabam por deixar a situação financeira dessas pessoas, que já não era nada boa, uma calamidade, quando perdem tudo em uma barreira policial e em um arrastão da fiscalização.
+Tão pacata, parece, que a heroína acidental da história, a icônica policial Marge Gunderson (Frances McDormand), aparece quase no final do primeiro ato, com uma sonolência típica da região fria (e que é pontuada pelos vários momentos em que a vemos acordando), mas com uma persistência e sagacidade dignas de um dos melhores detetives que o Cinema já viu: o que, de fato, poderia existir. Aliás, todas as circunstâncias em torno de Fargo, ainda que absurdas, são factíveis, e é o poder da direção dos Coen que transforma tudo em algo mais... cinematográfico.
 
-Para tentar obter rapidamente o retorno do que foi perdido, o patriarca da familia (Duarte) tem uma ideia brilhante: fazer com que a filha engravide de um famoso cantor de música popular (Ciocler) e receba uma indenização por ter aliciado uma jovem "de menor". Detalhe que essa ideia foi inspirada em um dos testemunhos da igreja que seu filho frequenta (uma divertida participação de Marisa Orth).
+A presença espirituosa de McDormand é o que nos dá um divertido contraponto, uma vez que, inserida em um filme de teor cômico, a protagonista participa desse universo, mas ao mesmo tempo as ações que são desempenhadas para ir ao encalço de um assassino brutal são factíveis e é o que dá a força motriz para continuarmos acompanhando a história. Por outro lado, se não houvesse as risadas eventuais, e apesar de parecerem muitas, fazem parte intrínseca da narrativa do gênero, não haveria fôlego para acompanharmos tantos acontecimentos de embrulhar o estômago.
 
-Se, por um lado, mostrar a pobreza e a malandragem de uma família que tenta fazer de tudo para se dar bem rende boas e divertidas risadas (mais graças às interpretações do que às próprias piadas, que em geral soam de mal gosto e despropositadas), por outro lado não conseguir se firmar como comédia ou drama (ou até mesmo romance!?) durante o terceiro ato transforma a cambaleante experiência em um desastre total.
-
-É uma pena, portanto, que Lima Duarte, Vera Holtz e tantos outros se vejam vendidos em um projeto como esse, que mais uma vez demonstra o despreparo de idealizadores influenciados muitas vezes pelas nossas famigeradas novelas em abordar temas tão sensíveis com tanto despudor.
+E embrulhar estômagos sem partir para o humor escatológico é a maior virtude do trabalho dos Coen, um trabalho que já vai contando décadas de Cinema sadio e com um estilo próprio que sempre traz novidades.
 

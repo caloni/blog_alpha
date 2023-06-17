@@ -1,23 +1,28 @@
 ---
 categories:
 - writting
-date: '2022-10-20T18:52:36-03:00'
+date: '2020-11-01'
+link: https://www.imdb.com/title/tt11394182
 tags:
 - cinemaqui
 - mostra
 - movies
-title: Febre do Mediterrâneo
+title: Feels Good Man
 ---
 
-Febre do Mediterrâneo é o filme que ganhou o prêmio de roteiro na categoria Um Certo Olhar de Cannes e agora estreia na Mostra de São Paulo. No entanto, o nome também se refere a uma doença congênita que afeta principalmente povos dessa região: árabes, judeus, turcos. O sintoma é uma dor abdominal. No filme é o sintoma sentido por uma criança e que iniciou logo depois que sua professora de Geografia ensinou-o que Jerusalém é a capital de Israel. Detalhe: seu pai é palestino e não aceita a ocupação judia. E agora você começa a entender o poder da trama nesta comédia de humor negro.
+Feels Good Man é hilário, e o motivo disso é, por essas ironias do destino, o próprio tema desenvolvido no filme: um personagem de cartoon vira meme na internet e, sendo usado como símbolo por grupos de reclusos sociais, se torna o motivo principal pelo qual Donald Trump se tornou presidente dos EUA. Sim, isso mesmo que você leu. É ou não é para dar risada de pé, membros da Igreja do Santo Meme?
 
-Sua história é simples de acompanhar e é curioso que já não existam filmes com o mesmo argumento. Isso comprova que sempre é possível reciclar velhas ideias e surgir com algo fresco, instigante, hipnotizante como este trabalho da cineasta Maha Haj.
+A guerra memética está no ar. O termo cunhado por Richard Dawkins em seu livro O Gene Egoísta é uma analogia ao conceito da biologia que diz que o gene mais adaptado sobrevive no tempo. Bom, memes são a contrapartida cultural, o que significa que os pedaços indivisíveis da memória coletiva da sociedade que se adaptarem melhor aos novos tempos permanecerão como nossos valores e formas de enxergar esse mundo que vem mudando a passos largos.
 
-Seu pano de fundo é sobre Waleed, um escritor sem livros e sem ideias. Com depressão crônica por anos, decide se matar. As condições se tornam propícias quando seu novo vizinho Jalal se muda, um sujeito que possui atividades e conexões ilegais e que precisa urgente de dinheiro para uma dívida.
+Por isso eu entendo por completo a frustração de Matt Furie, o cartunista criador de Pepe The Frog. Ele vive com sua família na "chapada", hipster, politicamente correta e vegana São Francisco, e agora lamenta que a figura simpática de seu jovem sapo, que se inspirou em si próprio como lembrança dos tempos fáceis e simples dos amigos de faculdade, tenha caído na rede.
 
-Conduzindo a história com toda a calma do mundo, em pequenos passos que nos fazem entender um pouco mais sobre essas pessoas, Febre do Mediterrâneo, apesar de lidar de certa forma com um drama pesado, em momento algum fica parado. Isso porque seu ritmo é determinado pelos diálogos e ações. A direção de Maha Haj o transforma em uma comédia dark. Ah, e não há aqui a maldita muleta da narração em off, tão comum em filmes com personagens introspectivos como Waleed.
+O filme se divide em dois. Na primeira parte o significado de Pepe The Frog foi deturpado ao virar um meme simpático usado por milhões de pessoas, algo que Matt até curtiu, pois passou a vender camisetas com o sapo pela internet e faturar uma grana. O que ele não gostou, fruto da segunda parte do filme, e a mais dispersa na narrativa do diretor Arthur Jones, foi quando o meme caiu nas graças do povo do 4chan, um fórum na internet conhecido pelos progressistas estadunidenses como esconderijo dos supremacistas brancos, da extrema direita, da direita alternativa, dos neonazistas ou de qualquer outro termo que define um grupo de pessoas muito más e com cara de melão.
 
-Como não há uma voz que nos explique os sentimentos do protagonista, somos obrigados a prestar atenção em qualquer interação entre Waleed (Amer Hlehel) e Jalal (Ashraf Farah) em busca das entrelinhas. Eles estão se dando bem? Qual o limite dessa nova amizade?
+O resumo dessa história é que o povo da internet transformou esse sapo no símbolo de toda essa galera, que virou um fomentador dessas ideologias na rede, em formato de memes. De forma anônima, claro, pois há perseguição ativa desses grupos. Principalmente se alguém decide propagar teorias antissemitas ou que sugira que o mundo é controlado por judeus. Aliás, esse detalhe em específico gerou mais um efeito hilário no documentário. Em determinado momento da escalada de Pepe The Frog em direção à Casa Branca é dito que o personagem foi inserido na lista da Liga Antidifamação. Essa Liga é um órgão não-governamental que "define" o que é bom e ruim na internet. O detalhe hilário é que se trata de uma organização judaica.
 
-A interpretação dos atores Amer Hlehel e Ashraf Farah é instrumental. Rola uma antiquímica entre os dois, de forma que não é possível saber se a amizade entre eles está crescendo ou apenas os interesses mútuos. A análise de personagens feita pela roteirista Maha Haj é cirúrgica, pois em momento algum duvidamos que esse relacionamento pudesse de fato ir tão longe.
+Feels Good Man flerta de maneira sublime com aqueles momentos em que a vida é maior do que a arte, e se torna material potencial para trabalhos do nível de Exit Through the Gift Shop, um documentário sensacional que foi fruto de um projeto que começou com o objetivo de mostrar a vida de um francês maluco e terminou da maneira mais inesperada possível vendendo arte estilo Bansky, o pixador anarquista de rua, da maneira mais capitalista possível. Imperdível para quem ainda não viu.
+
+Infelizmente não houve ninguém para "hackear" o projeto Feels Good Man, e apesar de vibrante e frenético em sua edição ele se mantém medíocre no conteúdo do começo ao fim, ignorando a fina ironia nas críticas que faz aos membros do 4chan, como ao relacioná-los através das falácias mais baixas, fáceis de detectar, a jovens que ainda vivem no porão da casa dos pais, desajustados sociais, virgens involuntários ou qualquer outro estereótipo facilmente atacável (até por ser um estereótipo) pelos movimentos de esquerda da atualidade, os amantes da diversidade.
+
+Por outro lado, ainda é um trabalho válido e que pode gerar prazeres frívolos da vida em família. Lembre-se de comentar sobre este filme com seu tio, aquele todo cheio de papos políticos, no dia de Natal. Diga que o meme do sapo foi o grande catalisador da campanha de Trump, e que você tem um documentário para provar. Transforme aquela discussão chata de todo final de ano em uma boa piada, para todos rirem juntos em como a oposição consegue criar um bicho-papão tão infantil e fazer todos defenderem essa teoria. Talvez esteja surgindo um novo meme.
 

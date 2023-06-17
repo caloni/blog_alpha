@@ -1,22 +1,70 @@
 ---
 categories:
+- reading
 - writting
-date: '2018-12-11'
-link: https://www.imdb.com/title/tt6412452
+date: '2017-02-20'
 tags:
-- movies
-title: The Ballad of Buster Scruggs
+- books
+title: The Best of edw519
 ---
 
-Jack London e Stewart Edward White foram famosos escritores de sua época, lá pelo final do século 19 até o início do 20. Eles assinam duas estórias dessa antologia em que apenas os irmãos Coen conseguem completar. E não apenas no roteiro, mas na direção, imortalizando essa antologia como se todos esses seis contos em conjunto estivessem sendo contados pela primeira vez. Mas não exatamente.
+Ed Weissman, ou edw519 para os íntimos, é um dos comentaristas mais efusivos, pragmáticos e experientes do Hacker News. Ele tem programado profissionalmente há quase 40 anos. De mainframes a projetos web, a evolução dele passou basicamente pelo dobro de gerações que provavelmente você passou. Ele também já esteve envolvido como sócio/fundador em três empresas, vendendo tanto serviços quanto produtos. Ele trabalhou com centenas de pessoas em mais de mil projetos em mais de um milhão de linhas de código. Ele já compartilhou muitas opiniões com a comunidade, e agora juntou boa parte dessas opiniões em um livro, um ebook, disponível para qualquer um que queira observar alguém que esteve nas trincheiras por muitos anos e não tem medo de dizer o que pensa.
 
-O que permite que os Coen refaçam as trilhas de seus antecessores é um apuro estético e linguístico que permite que nós percebamos que eles estão cientes que não fazem nada de novo. Porém, fazem bem feito. É mais fácil perceber isso logo no seu começo, onde o próprio narrador inicia a trajetória cantando e magicamente como o melhor atirador onde quer que passe. Ele começa como uma figura onisciente que nos introduz a este mundo um tanto fantasioso do velho oeste, mas ancorado nas duras lições que os colonos aprenderam nessa terra árida, muitas vezes sem lei e sem água. E ele morre, como merece, pois os irmãos Coen não precisam de muletas narrativas para impor força em suas estórias.
+Se quiser ter apenas um gostinho do que vai encontrar lá, leia meus recortes abaixo (tradução minha):
 
-Essas duras lições do deserto semi-árido estadounidense estão sintetizadas e universalizadas na fala de um dos últimos personagens, ele próprio um ceifador de vidas: "as pessoas adoram ouvir histórias porque se identificam com seus personagens; elas querem ser eles sem ser exatamente eles; não no final, pelo menos." A morte parece estar sempre implícita na frase do sexto episódio, pois depois de assistirmos cinco trágicos contos começamos a entender um pouco melhor a moral em que eles estão fundamentados.
+ - Alguns caminhos são melhores que outros, mas qualquer caminho é melhor que nenhum.
+ - Como hackers, tudo que fazemos ou é plantar sementes ou colhendo. Se você não vê uma colheita hoje é porque você estava plantando sementes.
+ - Quanto eu contrato, eu não estou procurando por uma pessoa ou um recurso. Eu estou procurando por uma solução para meu problema.
+ - O que eu realmente me preocupo é como meu software é usado. E quem o usa. Há um stream infinito de pessoas que precisam de coisas e um stream infinito de problemas para solucionar.
+ - Apenas se mantenha humilde, lembre-se: nós todos estamos apenas a uma batida de cabeça da feliz ignorância.
+ - É muito mais fácil julgar algo que já existe que definir algo que não existe.
+ - Engenharia de software não está morta. É que o processo de depender de modelos antes de iniciar nunca funcionou em primeiro lugar.
+ - A necessidade de frameworks e linguagens de alto nível só se torna aparente quando crescemos tanto que não é possível achar mais hackers experientes o suficiente. Só quando você apela para as massas medíocres que você precisa dessa ajuda.
 
-Desde seu último trabalho, Ave, César!, os irmãos roteiristas e diretores parecem fascinados não apenas pelo misticismo que construiu a cultura norte-americana, mas na própria arte de contar histórias. Eles realizam todo o trajeto com um apuro técnico que sozinho já nos faz ficar boquiabertos diante de diferentes paisagens, texturas, fotografias e enquadramentos. Estamos de fato em uma viagem sensorial àquela época, e nada nos faz pensar diferente. Exceto, é claro, nosso narrador do começo, vestido de um branco impecável, e o protagonista do último (em um preto impecável). Note como os símbolos de vida e morte estão a todo momento cercando nossos herois.
+ - "Eu só vejo um lance à frente, mas é sempre o correto." - mestre de xadrez Jose Raul Capablanca
+ - "Você não pode resolver um problema com a mesma mente que a criou." - Albert Einstein
+ - "Foque no menor problema possível que você pode resolver cuja solução será potencialmente útil." - David Cohen
+ - "Cada momento que você está trabalhando em algo sem estar na arena pública, esse algo está na verdade morrendo, privado do oxigênio do mundo real." - Matt Mullenweb
+ - "Quando apresentado com um crescimento exponencial, lembre-se que as pessoas tendem a superestimar drasticamente o que irá acontecer a curto prazo, mas subestimam profundamente o que acontece sobre longos períodos de tempo." - Ryan McIntyre
+ - "O que nós acreditamos é baseado em nossas percepções. O que nós percebemos depende do que estamos procurando. O que nós estamos procurando depende do que pensamos. O que pensamos depende do que percebemos. O que nós percebemos é o que aceitamos como verdade. O que aceitamos como verdade é nossa realidade." - Gary Zukav
 
-A precisão artística dos Coen e sua equipe não recai apenas na narrativa em si, mas nos detalhes glorificados de um tempo que já se foi. Apesar de serem apenas carroças cobertas de pano, uma caravana de colonos repousando em círculo pertence a um imaginário popular por tanto tempo que ele poderia soar batido demais, mas não é o que acontece aqui. A mesma coisa com um garimpeiro experiente procurando por um bolsão de ouro em um terreno ainda intocado pelo homem. Essas figuras lendárias e reproduzidas em imagens nos livros de crianças recebem uma roupagem mais adulta, mas ainda possuem o apelo de histórias para dormir, pois os enquadramentos que os Coen utilizam são por demais óbvias. Elas apenas ficam mais poderosas. Tão poderosas que cada vez que uma termina ela acaba cedo demais, e quando outra começa torcemos para não ser a última.
+ 1. Comece com a resposta, então trabalhe ao contrário.
+ 1. Nomeie suas variáveis para que qualquer um saiba o que elas são.
+ 1. Nomeie suas funções para que qualquer um saiba o que elas fazem.
+ 1. Nunca escreva a mesma linha de código duas vezes. Use funções.
+ 1. Assuma que o usuário não sabe o que ele quer.
+ 1. Mesmo que o usuário saiba o que quer, assuma que ele não consiga verbalizar.
+ 1. O usuário sempre sabe o que ele não gosta. Prototipe frequentemente.
+ 1. Esteja preparado para cavar quantos níveis de detalhe precisar para entender.
+ 1. Quando estiver travado em um problema, desligue o computador.
+ 1. Não ligue o computador a menos que você tenha uma tarefa específica.
+ 1. Beleza é importante, mas entrega é mais importante.
+ 1. Nenhuma variável deve ser completamente contida dentro de outra variável.
+ 1. Todo nome de variável deve ter no mínimo três caracteres de tamanho.
+ 1. Use a ferramenta certa para o trabalho certo.
+ 1. Quase qualquer ferramenta pode fazer o trabalho. Algumas são melhores que outras.
+ 1. Faça benchmarks frequentes para aprender o que acontece por debaixo dos panos.
+ 1. Tente algo que nunca foi feito. Pode ser mais fácil do que você pensa.
+ 1. Lembre-se dos padrões que você usou antes. Você irá usá-los novamente.
+ 1. Mantenha extremamente simples no começo. Complique conforme avança.
+ 1. Codifique todos os dias.
 
-Isso porque nenhuma delas se parecem, mas todas contribuem como uma peça no quebra-cabeças que remonta a História com o apelo narrativo que nos deslumbra diante de personagens simples, mas poderosos, pois seus dramas são universais, apenas espelhados na realidade americana, mas que poderiam sair de qualquer outro lugar do planeta. A luta pela sobrevivência requer sacrifícios, mas nem sempre eles são recompensados. A partir de que momento na História recente começamos a nos esquecer disso?
+ - Como aprender a programar? Ache um cliente com um deadline absurdo. Alcance-o. Repita. Não vai ser bonito, mas você será o tipo de programador que eu iria para a batalha junto: ótimo nas coisas que realmente importam e medíocre nas coisas que não importam.
+
+ - Eu costumava ser muito desagradável em julgar os outros, "Ela é realmente esperta" ou "Ele é tão estúpido". Então eu aprendi muito com meu primeiro mentor. Ele me ensinou que frequentemente não há muita diferença entre alguém que parece esperto e alguém que não. Talvez ninguém gastou tempo suficiente com um deles. Talvez eles tenham outros desafios, como família, saúde ou circunstâncias. Talvez eles sejam um peixe fora d'água, gastando muito tempo em coisas que não o interessam. Ou talve eles pareçam burros porque eles realmente acreditam que o são. Foi dito a eles tantas vezes que agora eles acreditam.
+
+ - O que faz um programador sênior? Ótima pergunta. Pergunte para n programadores e você obterá n^2 respostas. Isso pode ser facilmente o assunto para outro post ou até um livro. Saindo do topo da minha cabeça em nenhuma ordem particular:
+
+   - entender o problema em mãos antes de escrever qualquer código
+   - usar a ferramenta certa para o trabalho certo
+   - seguir padrões aceitos e protocolos sem sacrificar a criatividade
+   - nomeia variáveis e funções como de fato serão para o próximo programador
+   - antecipa o que pode dar errado antes de confiar em um depurador ou testes
+   - entende a arquitetura implícita e como melhor utilizá-la
+   - nunca escreve o mesmo código duas vezes
+   - nunca escreve em 150 linhas o que poderia ser escrito em 100
+   - Código ruim: não-comentado. Medíocre: comentado. Bom: não precisa de comentários.
+   - entende o ciclo de vida do código inteiro e o escreve para durar
+   - tem pena da pobre alma que tem que mantê-lo e deixa uma dica ou duas
+   - escreve de maneira flexível para ser facilmente mudado antes que o projeto termine.
 

@@ -1,18 +1,24 @@
 ---
 categories:
 - writting
-date: '2013-08-26'
-link: https://www.imdb.com/title/tt2217458
+date: '2010-12-20'
+link: https://www.imdb.com/title/tt0901475
 tags:
 - movies
-title: Flores Raras
+title: Fôlego
 ---
 
-O tema "polêmico" de Flores Raras não existe há muito tempo, e apenas as mentes reduzidas de nossa época, que infelizmente não são poucas, irão enxergar qualquer anomalia no fato da história girar em torno de um triângulo amoroso entre três mulheres: Mary (Tracy Middendorf), a arquiteta Lota (Glória Pires) e a poetisa Elizabeth Bishop (Miranda Otto), todas encapsuladas em tramas tridimensionais. Sensível e inteligente, Bruno Barreto demonstra que a principal anomalia desse relacionamento é o ego controlador e descontrolado de Lota, uma arquiteta que através das influências políticas e dinheiro consegue manter em sua isolada casa no campo a ilusão de um mundo tolerante e tranquilo.
+Em um período mais inocente da minha vida de cinéfilo Kim Ki Duk estava entre os poucos dos meus diretores favoritos, em uma lista que hoje em dia está esparsa demais para fazer algum sentido. Mas o diretor coreano continua sendo para mim um exemplo de contar histórias para chamar a atenção do seu público, sempre utilizando o chamariz das situações bizarras que nos prende e nos impede de desgrudar os olhos da tela até o final do filme.
 
-Aliás, Glória Pires mais uma vez se firma como uma das grandes atrizes de nossa época ao encarnar uma personagem que oscila entre o amoroso e o cruel. No entanto, a grande surpresa fica por conta de Miranda Otto, que constrói e realiza um arco admirável em sua Elizabeth Bishop, que parte de um início tímido a um final... bem, não tímido. O resultado é tão satisfatório que sua personagem cria um aspecto inesperadamente sombrio à história.
+Escrevi a respeito de Fôlego em 2010, no primeiro semestre que estava começando a escrever sobre os filmes que assistia. Eram anotações em um caderninho que rabiscava durante a sessão, no Cine Belas Artes, em São Paulo. Depois eu repassava esses rabiscos em algo inteligível. Mas essa não é desculpa para minha inocência em desvendar um filme falando sobre símbolos e detalhes que devem ser vistos como um todo. O meu texto de 2010 é meramente um capricho, e um rabisco, que hoje não me serve mais para análise.
 
-A história inicia nos anos 50, passando pelo golpe militar brasileiro e avançando os anos com uma sutileza admirável, nos provocando a sensação de passagem no tempo mais pelo figurino e direção de arte. A psique dos personagens parece se manter quase intacta, como se pouca coisa tenha mudado mesmo que as rugas venham surgindo. Os problemas do longa parecem residir apenas na direção muitas vezes intrusiva de Barreto, que apela para o fantasioso sem qualquer motivo senão "sobredramatizar" (para não dizer "novelizar"). É por isso que, se uma chuva repentina causa surpresas, isso é passageiro, mas se o mesmo efeito se repete nas luzes de um parque ou em tantos outros momentos, podemos duvidar de nossa própria capacidade de entender as entrelinhas ou o filme duvida que aqueles acontecimentos não tenham força própria.
+Fôlego é um filme sobre sobrevivência, pura e simples. A sobrevivência de um casamento, a sobrevivência de uma carreira, a sobrevivência da própria vida. Quando perdemos o sentido de nossas vidas as que estão em nossa volta perdem o sentido também. Temos esse condenado à pena capital que matou a mulher e duas filhas. É de se pensar se poderia haver algum motivo para esses assassinatos que pudesse fazer sentido à razão humana, e a própria proposta de suavizar o ato deste criminoso pode soar repulsiva para a maioria das pessoas.
 
-Mesmo assim, é admirável constatar que, baseado em fatos, o hábil roteiro derivado de um romance consegue entregar uma história se não verossímil, degustável através da própria visão literária de sua protagonista. Isso por si só o equipara a thrillers psicológicos como Swimming Pool, uma ficção que faz rima inversa ao realismo da obra de Barreto.
+Porém, Kim Ki Duk não está interessado na opinião do espectador nem em justificar as ações deste rapaz. Ele nunca está. Seu interesse é em encontrar um eco, uma resposta positiva, para o que essa pessoa está pensando, presa em um cubículo com outros presos que estão alheios à sua situação.
+
+E para isso ele encontra uma esposa com marido e uma filha e cujo sentido da vida anda lhe faltando. O marido a trai e isso a deixou deprimida ou vice-versa. Ela acompanha o noticiário e vê que esse criminoso tentou acabar com sua própria vida antes do Estado cumprir com seu dever legal e tirá-la antes. Ele fica sem voz, e era apenas o que faltava para esses dois seres encontrarem semelhanças o suficiente para se envolverem.
+
+Fôlego não deixa fácil desvendá-lo porque o espectador não deseja, no fundo, fazê-lo. Seria amoral demais encontrar sentido em um assassino de família. Uma esposa insatisfeita em busca de conexão com outra pessoa, com o seu passado, é algo mais mundano e fácil de se relacionar. O que está implícito nesse drama sensual vai se desdobrando conforme o marido também entra na mente de sua mulher, a entende, a perdoa.
+
+Quantos filmes conseguem abordar temas tão delicados com tamanha propriedade? Quase nenhum. E por isso Kim Ki Duk continua na minha lista de favoritos. Ele é o diretor que faz temas impossíveis parecerem fáceis. Que o espectador não perceba isso de maneira consciente é mero detalhe.
 

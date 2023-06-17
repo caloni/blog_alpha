@@ -1,17 +1,115 @@
 ---
 categories:
-- writting
-date: '2011-11-01'
-tags:
-- movies
-title: Fora do Figurino
+- coding
+date: 2017-07-27 09:39:22-03:00
+tags: null
+title: Forma Mais Simples de Depurar Processos Antes do Logon
 ---
 
-Às vezes um filme pode ajudar a consolidar um conhecimento que fica na cabeça das pessoas, flutuando, inconsciente, mas que nem nos damos conta de que ele existe. Por exemplo: quantas vezes ao comprar uma peça de roupa (ou calçado) não nos damos conta que o tamanho anteriormente escolhido já não serve mais? Esse pequeno detalhe, que parece tão corriqueiro, no fundo é resultado de uma falta de padronização nas medidas do vestuário do brasileiro, e à adaptação (errada) do uso de medidas feitas com base no corpo de pessoas completamente diferentes, como um europeu ou um norte-americano.
+No [post anterior sobre debug] eu havia me focado mais na depuração de processos remotos no Visual Studio 2003 de maneira convencional. Aqui eu vou abordar o assunto de uma maneira menos convencional: usando o Visual Studio 2017 mais novo e depurando uma DLL (C++) que é carregada por um serviço antes do logon no Windows 7.
 
-Utilizando representantes de todas as esferas relacionadas com este problema, como costureiros, estilistas, políticos e os próprios usuários, o documentário de Paulo Pélico busca compreender a raiz desse problema tão conformado em nossas cabeças como algo imutável. A maneira com que a narrativa é feita faz com que aos poucos nos identifiquemos e relacionemos as mesmas dificuldades das pessoas que testemunham com nossas próprias situações vividas, o que torna a compreensão do problema muito mais simples (identificação primeiro, problematização depois).
+Em primeiro lugar, como vimos anteriormente, a ponta server do depurador é um programa que você executa com alguns parâmetros e ele fica escutando em uma porta. Simples assim. Para que isso funcione antes do logon é necessário instalar esse programa como um serviço. Tanto no caso de depuradores mais antigos (msvCmon) quando nos mais novos (msvSmon) há sempre um executável com alguns parâmetros passados via linha de comando.
 
-O uso de uma edição que mantenha um ritmo tão eloquente quanto lógico em suas argumentações, sem nunca tornar o tema monótono, mas sim didático (sem soar burocrático) o longa sempre se atenta a explicar o básico sobre o tema e o que pode ser feito a partir do problema equacionado. O uso de atores conhecidos, além de ter apelo da influência que geram nas pessoas, também servem como exemplo de consumidores de outros mercados ao redor do globo, e a triste constatação que, se existe um país com dificuldades de adaptar a produção de vestuários à realidade de seu povo, é o nosso.
+O depurador do Visual Studio mais novo fica em sua pasta de instalação Program Files, etc, Microsoft Visual Studio, 2017, Enterprise, Common7, IDE, Remote Debugger ou derivados. Dentro dessa pasta há subpastas para cada arquitetura, x64 ou x86. É essa pasta que deve ser copiada para a máquina que será depurada. Se você estiver depurando um processo 32 bits, use o x86; do contrário, vá de x64.
 
-Pior ainda, conclui que a solução está muito mais distante do que poderíamos imaginar, fruto dos processos "burocratizantes", que assim como para a infraestrutura, engessa cada vez mais o nosso progresso como nação. Apesar de não parecer o objetivo, é criado um paralelo entre o "jeitinho brasileiro" para ajustar as roupas recém-adquiridas (a maior parte das roupas entregues aos costureiros é nova) com o "jeitinho político" de sempre empurrar pautas de difícil resolução com a barriga; tamanho GG.
+No caso do msvsmon, se executado com /? (padrão entre programas Windows) ele abre um pequeno help com a ajuda necessária para executar os parâmetros corretos:
+
+{{< image src="CZIHbHZ.png" caption="" >}}
+
+No caso o comando maroto é o seguinte:
+
+```
+msvsmon.exe /timeout 999999 /anyuser /silent /noauth
+```
+
+E para transformar em um serviço podemos usar o [NSSM](https://nssm.cc/), já visto em outros artigos.
+
+```
+nssm.exe install Msvsmon msvsmon.exe /timeout 999999 /anyuser /silent /noauth
+```
+
+Isso cria um serviço de start automático que irá iniciar o debugger na ponta server quietinho, sem janelas, só escutando e esperando o Visual Studio atachar.
+
+## Nosso serviço e DLL
+
+Para este exemplo vamos usar um programa console que será convertido, assim como o msvsmon, em serviço, e uma DLL que ele carrega, chamando dois métodos; um de start, outro de stop. Nosso objetivo aqui é começar a depurar a DLL logo em seu início, na chamada do start.
+
+```
+#include <iostream>
+#include <windows.h>
+
+int main()
+{
+    if( HMODULE dll = LoadLibraryA("DLL") )
+    {
+        void (*start)(), (*stop)();
+        *((FARPROC*)&start) = GetProcAddress(dll, "DLL_Start");
+        *((FARPROC*)&stop) = GetProcAddress(dll, "DLL_Stop");
+        if( start )
+            start();
+        std::cout << "Type <enter> to exit\n";
+        std::cin.get();
+        if( stop )
+            stop();
+        FreeLibrary(dll);
+    }
+    else std::cout << "DLL not found\n";
+}
+```
+
+As funções de start e stop não fazem nada, apenas imprimem um passou-por-aqui:
+
+```
+#include "DLL.h"
+#include <iostream>
+
+void DLL_Start()
+{
+    std::cout << "DLL started\n";
+}
+
+void DLL_Stop()
+{
+    std::cout << "DLL stopped\n";
+}
+```
+
+Depois de copiar Service.exe e DLL.dll para a máquina-alvo (e não se esquecer de instalar as [dependências](https://www.google.com.br/search?q=visual+c%2B%2B+redistributable+2017&oq=visual+c%2B%2B+redistributable)) instalar da mesma forma com que foi instalado o msvsmon:
+
+```
+nssm.exe install Service service.exe
+```
+
+{{< image src="lgPCGyW.png" caption="" >}}
+
+Agora ache o IP da máquina-alvo e vá em Debug, Attach to Process (Ctrl+Alt+P) no Visual Studio, modo remoto e digite o IP.
+
+```
+cmd /k ipconfig | find "192"
+```
+
+{{< image src="GpNPhiC.png" caption="" >}}
+
+Lembre-se de iniciar o serviço.
+
+Após esse teste podemos modificar a DLL para aguardar por um depurador:
+
+```
+#include <windows.h>
+
+void DLL_Start()
+{
+    while( ! IsDebuggerPresent() )
+        Sleep(1000);
+    std::cout << "DLL started\n";
+}
+```
+
+Depois que houver o attach você irá continuar a execução. Portanto, coloque um breakpoint logo depois.
+
+{{< image src="hja6Y2Y.png" caption="" >}}
+
+Depois que isso funcionar já é possível iniciar sua depuração antes da tela de login. Os serviços executarão, e sua DLL estará aguardando um debugger ser atachado. Se houver necessidade é possível deixar esse modo de espera configurável, por timeout, etc.
+
+[post anterior sobre debug]: {{< relref "debugger-remoto-do-visual-studio" >}}
 

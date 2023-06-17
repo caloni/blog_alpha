@@ -1,16 +1,12 @@
 ---
 categories:
 - writting
-date: '2021-06-05'
-link: https://www.imdb.com/title/tt5614348
+date: '2020-07-15'
+link: https://www.imdb.com/title/tt0106080
 tags:
-- animes
-title: The Lost Village (Mayoiga)
+- series
+title: The Nanny
 ---
 
-A dinâmica do primeiro episódio é hipnotizante. O ar de mistério sobre quem são aquelas pessoas dispostas a desistir de suas vidas indo em direção a uma vila perdida para nunca mais voltar garante nossa atenção. Eles estão em um ônibus de excursão. E o motorista? Pessoas já "se perderam" por lá. E a polícia? Há criminosos no meio do grupo? E se alguém desistir?
-
-The Lost Village possui uma estética noturna atraente e misteriosa. Observar este ônibus adentrar um denso nevoeiro na estrada enquanto todos estão submersos em seus pensamentos é fruto de uma direção ritmada, intensa e com um jogo de câmera e luzes que mantém o clima de tensão.
-
-Por fim, uma trilha sonora primososa, unindo o fantástico com o drama pessoal e coletivo do que irá acontecer em seguida.
+Envelheceu bem. É um sitcom como os primeiros com risada gravada e piadas empilhadas em episódios curtos. Algumas atrizes se destacam, como a principal e a mirim. É sobre as diferenças sociais de uma vendedora de cosméticos de um bairro periférido de Nova York indo trabalhar como babá dos três filhos de um viúvo ricaço. Uma mistura de Sound of Music americano e alguma outra coisa que a torna americana. Ser enlatada, talvez.
 

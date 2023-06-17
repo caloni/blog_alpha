@@ -1,24 +1,27 @@
 ---
-categories:
-- writting
-date: '2010-09-24'
-link: https://www.imdb.com/title/tt1320244
-tags:
-- movies
-title: O Último Exorcismo
+categories: []
+date: '2017-02-20'
+tags: null
+title: O velho problema do project out of date do Visual Studio
 ---
 
-Esse é "O Exorcista" invertido. Aqui o padre, que na verdade é tipo um reverendo de sua religião, possui suas dúvidas com respeito a Deus, e usa a religião como um meio de ganhar a vida. Reflexo exato do atual status das religiões polêmicas, que as usam também como um meio de se proliferarem, o próprio padre afirma que o principal é fazer as pessoas abrirem a mão, pois não se vive só de fé.
+Acho que todo mundo já passou por isso. Você compila todo o projeto bonitinho e no final, ao depurar, ele faz aquela velha pergunta: "o projeto está desatualizado: deseja compilar novamente?". Mas como assim? Eu acabei de compilar, não faz nem cinco segundos. Está quentinho, saiu do forno agora.
 
-Afetado pelo recente assassinato de um menino que foi vítima de um exorcismo mal planejado, o padre vira protagonista de um documentário que busca mostrar um exorcismo sendo feito, e pretende demonstrar como tudo isso é fajuto, exatamente para evitar que as práticas do exorcismo ainda sejam levadas adiante. De acordo com ele, o exorcismo hoje em dia está mais ativo que nunca, e o próprio Vaticano multiplicou por várias vezes o número de exorcistas que ele mantém.
+{{< image src="x9EyDDe.png" caption="" >}}
 
-Praticante de ilusionismos simples que tornam tanto seus cultos quanto os exorcismos impressionantes, a primeira parte é mostrada como um documentário real, inclusive com várias partes com pessoas pedindo que se desligue a câmera, cortes não previstos e perdas de foco (às vezes até demais). É mostrado até um "pseudo-exorcismo" feito pelo padre, com seus efeitos mágicos, e termina com ele recebendo uma soma em dinheiro e indo embora.
+Às vezes o Visual Studio cria umas esquisitices que se perpetuam por todas as versões. Isso tem algum sentido. Funciona mais ou menos assim a lógica do "project out of date": se existir algum arquivo cuja data/hora eu não consigo verificar eu considero que o projeto está desatualizado. Por que? Pode ser que esse arquivo tenha que ser gerado automaticamente. Pode ser que houve erro de acesso. Pode ser várias coisas, mas ainda assim faz sentido.
 
-Já a segunda parte pressupõe que a menina está realmente possuída, pois ela vai até onde o padre está hospedado, a 8 km de sua casa, e aparece de repente, transtornada e não se lembrando de nada. Depois de levada ao hospital e entregue ao pai, que evita qualquer tratamento psiquiátrico, ela ataca seu irmão e torna as coisas mais tensas em uma noite inesquecível com a dupla de cinegrafistas e o padre.
+Exceto quando o arquivo realmente não existe.
 
-Nunca revelando um teor sobrenatural de fato, o filme brinca muitas vezes com o improvável, mas nunca se revela forçado, rendendo alguns bons momentos de tensão, em especial a sequência que a menina pega a câmera e sai com ela, indo de encontro ao padre e atacando-o, tudo mostrado com giros fortes, mas sempre mostrando o que mais importa.
+E isso é bem comum de acontecer em um projeto com algum refactory. Você acabou movendo alguns arquivos compartilhados entre projetos, mas em algum desses projetos o arquivo ainda está sendo apontado para o path errado, onde ele não mais existe. No entanto, por se tratar de um arquivo não-necessário para a compilação (ex: um header) não há erros na compilação. Apenas nessa detecção do Visual Studio.
 
-Por fim, temos uma conclusão de que de fato a menina está traumatizada e fantasiando, pois ficou grávida de um rapaz que trabalha em uma lanchonete de estrada e está com vergonha de si mesma. O que seria, na minha opinião, o final mais que aceitável, depois de tanto medo e tensão.
+O problema é que não existe nenhuma dica do que está errado em condições normais de temperatura e pressão. Para conseguiu olhar mais detalhes temos que ir em __Tools, Options__ e configurar mais saída para o build. Pelo menos como __detailed__:
 
-No entanto, o filme revela-se mais um da série "Atividade Paranormal" ao exagerar na narrativa, ao mostrar os personagens descobrindo ser esta explicação do menino forjada (ele é gay) e encontram a menina sendo vítima de um ritual "antisatânico" que aborta seu filho ("isso não é humano", de acordo com o padre, e dando um ar de Bebê de Rosemary em que o bebê aparece). Por fim o trio é descoberto com o padre indo de encontro à fogueira onde o demônio é queimado (revelando uma mudança drástica em sua forma de pensar), a apresentadora é assassinada e o "cameraman" é pego pelo irmão da garota.
+{{< image src="VxMIlQL.png" caption="" >}}
+
+A partir daí teremos mais saída na janela de output do build. Logo no começo (talvez pela equipe do VS saber que isso é bem comum) há uma dica de quais arquivos exige o rebuild (você pode fazer isso apenas clicanco em build do projeto que sempre acusa como out of date):
+
+{{< image src="DhX7Kj9.png" caption="" >}}
+
+Depois de detectado o arquivo faltante, é só removê-lo ou atualizar o path. Esse erro não deve mais acontecer e agora você só precisa compilar uma vez e sair depurando.
 

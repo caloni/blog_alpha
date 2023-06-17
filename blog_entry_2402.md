@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2018-06-25'
-link: https://www.imdb.com/title/tt0388644
+date: '2020-10-22'
+link: https://www.imdb.com/title/tt5658540
 tags:
-- series
-title: Morte na Escadaria (Staircase)
+- cinemaqui
+- mostra
+- movies
+title: Mosquito
 ---
 
-Mais uma série que demonstra a incompetência e/ou a má fé do sistema americano de justiça. Ou podemos dizer a má fé de qualquer sistema de justiça estatal? Perdoem-me os religiosos, mas um sistema que paga juiz e advogado de acusação pela mesma folha não tem muitas chances de ser algo remotamente imparcial.
+Mosquito, um filme português, é sobre a introspecção de um garoto em uma guerra próxima do final. Ele tem 17 anos e como todo jovem descerebrado cheio de energia para morrer espera poder fazer parte de uma batalha, mas está em um pelotão cujo objetivo é ficar "de boa na lagoa" (no caso na savana).
 
-O que me chamou mais a atenção foi que o juiz era negro e uma das promotoras era mulher e negra, julgando um branco rico pela séria acusação de homicídio. Mas você não vai ver ninguém sugerindo o suposto racismo no sistema judiciário americano, não é mesmo?
+Então ele acaba se distanciando e vivendo uma imersão cultural numa tribo onde só há mulheres. Onde estão os homens, ele questiona. Quem é o chefe? Ele ignora que boa parte da força braçal entre o exército português são os escravos de suas colônias. Ele próprio vira escravo, pois é pequeno e mirrado e abatido. A escravidão já existia na África, e aqui é visto sob o ponto de vista invertido como algo mais "humano". Engraçado o poder de julgar a humanidade pelo quão gente boa você é para o seu escravo. Hoje em dia, por exemplo, a questão escravista fica apenas no passado muito recente, ignorando que já era praticada pelo menos desde a Antiguidade.
 
-Nem os idealizadores, documentaristas franceses que realizaram o brilhante e tenso Making a Murderer. Eles possuem a disciplina e competência de filmar, a pedido do acusado, um escritor famoso, o circo que se forma em torno da morte acidental de sua esposa, caindo da escada bêbada e sangrando até morrer. Se trata de um caso que exige ciência e razão para que não se confunda com agressão doméstica, até pelas fotos do estado da mulher, que parece ter sido duramente abatida.
+O delírio do garoto, picado pelo título do filme, é usado para relativizar suas viagens. Quando ele encontra dois desertores, um português, outro alemão, eles possuem dois motivos bem distintos. O português o chama para viagens mais amalucadas. O alemão tenta trazê-lo de volta para a sanidade. Ambos são inúteis, pois de uma forma ou de outra o garoto sempre sai perdendo. Há uma única cena verdadeiramente chocante, no final, que é quando acordamos. Apesar de lugar-comum de guerra, gostaríamos que não fosse verdade. Pelo menos a sanidade do garoto volta ao normal.
 
-Só que racionalidade não existe no condado de Durham, que apesar de bem ao norte da Carolina do Norte, ainda pertence ao Sul dos EUA, e o pensamento preconceituoso limitado e tendencioso de seus habitantes. Peterson não é bem quisto entre as autoridades. Ele é um escritor de sucesso e escreveu uma coluna política no jornal local onde tecia duras críticas a representantes do governo por lá. E como ele mesmo diz, ninguém se esquece quando é feito de idiota.
-
-Além disso temos a situação da sexualidade de Peterson. Dentro de um casamento heterossexual em uma família formada por outro casamento e diversos filhas e um filho vivendo em harmonia por tantos anos, Peterson também tinha um lado homossexual conhecido apenas por sua esposa. Quando isso vem à tona é como se fosse sua declaração de culpado por homicídio estampado em sua testa.
-
-Recheado de incongruências em seu processo, e nos dando de brinde sua conclusão em 2017 (os documentaristas estavam a postos para fechar seu arco da vida real), Staircase é um trabalho coerente do começo ao fim, que consegue aparar as arestas de um tortuoso processo, que no começo nos dá o benefício da dúvida de ambos os lados, mas que acaba descambando para o inevitável: a justiça humana possui falhas tão inerentes à nossa natureza que a única coisa que nos resta é lamentar.
+Óbvio que o filme é antibelicista. Qual a relevância aqui? Este é um filme sobre a lei do mais forte. "O leão é o que ruge mais alto", um comandante diz a ele. Mas esta é uma história onde quem ruge mais alto troca de lados várias vezes, seja pela força física ou pela lucidez. É uma viagem meio teatral, baseada em movimentos de câmera cambaleantes e um garoto ligeiramente abobalhado. Não há momentos visuais brilhantes como nos claramente fontes de inspiração Além da Linha Vermelha e Resgate do Soldado Ryan. É cansativo não compartilharmos das mesmas motivações de um garoto de 17 anos. A atuação de João Nunes Monteiro é má utilizada. Ele é o elo mais fraco da história, mas precisa ser o mais forte em seu protagonismo. Sem protagonistas o filme naufraga. A savana africana nunca foi tão desinteressante. Mesmo com uma fotografia de primeira.
 

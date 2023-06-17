@@ -1,21 +1,26 @@
 ---
 categories:
 - writting
-date: '2017-07-05'
-link: https://www.imdb.com/title/tt5078158
+date: '2016-07-31'
+link: https://www.imdb.com/title/tt4326444
 tags:
-- cinemaqui
 - movies
-title: Julho Agosto
+title: Julieta
 ---
 
-O clima de um filme como "Julho Agosto" não poderia ser melhor para as férias de meio do ano. Aliás, poderia sim: nós aqui do Brasil poderíamos ter verão, e não inverno, nessa época. Infelizmente todo o calor e o frescor do filme ficam congelados junto com nossas mãos. Mas se você pelo menos estiver bem agasalhado é bem provável que irá conseguir ao menos sentir o coração derreter levemente diante dos acontecimentos inusitados que permeiam essa família moderna francesa.
+Como sempre, sabemos desde o começo que este é um filme de Pedro Almodóvar, no estilo melodramático dele (e das cores do figurino, da direção de arte de muito bom gosto, etc). A trama mais uma vez envolve o passado misterioso de uma mulher -- a Julieta do título -- e mais uma vez as mulheres são as personagens fortes. E, para não deixar em branco, há uma tragédia grega usada como pano de fundo. Almodóvar nunca muda seus trejeitos, mas sua inventividade reciclada não gera os melhores frutos.
 
-A história é quase que uma simples listagem de eventos que a menina pré-puberdade Laura e sua irmã mais velha Joséphine irão passar em suas férias, em companhia inicialmente da mãe e do padastro, para depois partirem para a casa do pai, na Bretanha. Não há nada complexo na trama, mas há um charme no ar, na paisagem e nas músicas, e o inevitável grito da puberdade chegando ou martelando sua dura existência.
+A história começa quando Julieta (Emma Suárez), depois de um ano planejando sua mudança para Lisboa com o marido, decide ficar em Madri após o encontro com uma amiga de longa data. Após o encontro, ela decide também redigir uma longa carta -- vulgo o filme -- onde conta para sua filha, desde o início, como conheceu o pai dela e os acontecimentos que levaram-na a um desfecho catastrófico para todos.
 
-Ninguém leva a menina Laura a sério, como toda pivete na família, mas ela está no meio do caminho para se tornar uma "moça". Seu jeito sapeca se mistura com suas tentativas de sedução e de amadurecimento "na marra", fumando e bebendo. Curiosamente é ela a que mais possui cabeça e tatos que a tornam a irmã sensata da dupla. Já Joséphine é uma incógnita inconsequente, e existe na história apenas para participar de um roubo que irá levar a divertidas surpresas mais para a frente. Joséphine está particularmente interessada em qualquer coisa que se traduza como diversão fácil, e Laura está desesperada para sair daquele lugar.
+Conseguindo ser um hábil contador de histórias assim como um hábil diretor, Almodóvar nos deixa tensos e presos à história, e a cada detalhe desta, do começo ao fim. Algumas vezes, é verdade, ele abusa um pouco da trilha sonora dramática, que soa repetitiva. Na maioria do filme, no entanto, é a própria história e a forma de contá-la que mantém em suspenso qual será o próximo acontecimento.
 
-Cada um dos seus pais e mães está sofrendo algum "viés", e cada um ao seu jeito, mas facilmente resumíveis em uma crise financeira e duas crises de meia-idade, cujas revelações fazem parte da trama e tentam criar algum drama onde não existe nenhum. De qualquer forma isso impacta nas férias das meninas, mas nada é motivo suficiente para estragar o clima, embora por algum motivo os jovens de classe média conseguem encontrar alguma razão para alterarem radicalmente o humor. São meninas mimadas, mas não insuportáveis. Apenas temperamentais.
+E isso é graças às famosas metáforas de sua obra. Aqui, Julieta é professora de literatura grega, e conta sobre as três palavras usadas pelos gregos para se referir ao mar, sendo uma delas tendo a semântica de "caminho", como se o mar fosse uma alternativa ao mundo mais estável e conhecido da terra firme: a aventura. Nós sabemos que os gregos possuíam o destino como um personagem à parte, se divertindo às custas dos humanos. Aqui nunca isso foi mais verdade.
 
-A melhor parte do filme é acompanhar sua trilha sonora, e tenho quase certeza que ela foi compilada para ir direto para um CD ou streaming vendável. Ela resume basicamente o que esperar deste filme: apenas momentos de entretenimento cercados de uma ou outra surpresa interessante sem ser demasiadamente arriscada. Não é o que todos esperam de umas belas férias?
+Vemos isso logo no começo da história, quando um galho bate no trem onde Julieta está, e um homem mais velho procurando por companhia adentra seu vagão. Uma tragédia ocorre a partir daí e poderíamos unir causa e consequência até o ato inicial de Julieta, o que a torna a própria mensageira da desgraça. Isso a marca para sempre, pois foi ali que conheceu Xoan (Daniel Grao).
+
+Xoan é um pescador que, começando a viver o luto da mulher que estava em coma há cinco anos, recebe a visita de Julieta e tem com ela uma filha; ao mesmo tempo, Julieta (Adriana Ugarte) reprova a falta de cuidados com sua mãe pelo seu pai, que arruma uma jovem amante estrangeira enquanto deixa a mãe enferma trancada em um quarto. A passagem do tempo é fugaz, quase não a vemos, apenas pelo ponto de vista de protagonista.
+
+A passagem acelerada do tempo, aliás, consegue convergir décadas em questões de minutos, e Almodóvar consegue sintetizar sua história maravilhosamente bem até a metade da projeção. Depois, suas metáforas perdem a força, e acontecimentos imprevistos explicam a perda de contato entre Julieta e sua filha. No entanto, a história muda de rumo no meio, mesmo anunciada nos minutos iniciais do filme.
+
+Dessa forma, Julieta é um trabalho mal-acabado, que prometia ser outro dos trabalhos magistrais do contador de histórias espanhol. Do jeito que está, se assemelha mais às novelinhas ocasionais do diretor, como Abraços Partidos.
 

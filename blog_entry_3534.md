@@ -1,14 +1,18 @@
 ---
 categories:
 - writting
-date: '2019-04-24'
-link: https://www.imdb.com/title/tt9381622
+date: '2013-11-28'
+link: https://www.imdb.com/title/tt0811080
 tags:
-- series
-title: Special
+- movies
+title: Speed Racer
 ---
 
-Ryan O'Connel criou e é o astro de sua própria série. Ele tem paralisia cerebral, é gay (pelo menos na série) e não tem vergonha de sair do armário. Por ser gay. Já por ser aleijado...
+Speed Racer está para os animes infantis assim como Scott Pilgrim está para o mundo dos vídeogames: dois filmes que homenageiam seu universo abraçando-o sem limites e que por isso são rechaçados pelo público em geral. Uma linguagem tão inovadora pode causar medo e desconforto, mas é o ponto de virada de todo cinéfilo que se preze e que que deseja sentir mais pelos filmes que assiste.
 
-Esta é uma série de humor negro, e apenas por isso eu a recomendo. Mas há mais coisas. Ele vai trabalhar em uma revista de millenials. Tem um cara usando suspensórios. A estrela do lugar é uma gorda porque ela vive escrevendo artigos sobre o orgulho de ser gorda. Ela diz no piloto: "falar sobre sua condição te libera; você acaba possuindo o que diz e ninguém mais pode controlar". Eu não tenho palavras para tamanha sensibilidade e falta de vitimismo. Esta é a série que estava esperando sair do armário depois de tantas tentativas frustradas (como o medíocre Atypical).
+Já era de se supor que os irmãos Wachowski (The Matrix, Cloud Atlas) iriam fundo no material de suas produções. Mesmo assim, quando o pequeno Speed Racer sai da escola para um céu com nuvens pintadas a surpresa e o contentamento são inesquecíveis. A "reimaginação" das crianças no filme sobre a realidade é alto tão hilário quanto tocante. O mundo dos Racer começa a fazer todo o sentido para mim conforme é desdobrado e a história empolga cada vez mais conforme entendemos melhor como funcionam aqueles carros saltitantes.
+
+Porém, essa não é daquelas experiências visualmente deslumbrantes em cores vivas e chamativas tão somente. Há uma história a ser seguida: o embate entre o mundo dos negócios/dinheiro/poder controlando os resultados das corridas versus a arte pura de contornar desenhos na pista através de saltos inimagináveis; o empenho de toda uma família incentivando o que seu filho faz de melhor; a eterna luta do bem contra o mal, clássica e cartunesca.
+
+Rostos flutuam pela tela cortando as cenas. Personagens à frente da tela separam um fundo a milhas de distância. Closes são trocados em velocidade impressionante no meio da pista entre os corredores. Um filme não trivial merece uma abordagem específica para localizar essa emoção constante nas corridas do desenho original. O grande mérito do filme é buscar isso incansavelmente, em uma construção da cena absurda que nos libera para torcer pelo impossível. E quando ele acontece, é o que esperávamos todo o tempo, e pelo que valeu a pena adentrar nesse mundo fantasioso.
 

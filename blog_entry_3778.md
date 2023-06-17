@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2011-07-06'
-link: https://www.imdb.com/title/tt1399103
+date: '2014-02-13'
+link: https://www.imdb.com/title/tt1800241
 tags:
 - movies
-title: 'Transformers: O Lado Oculto da Lua'
+title: Trapaça
 ---
 
-É muito difícil para quem começa a estudar aos poucos os segredos do cinema descobrir o que faz um filme ruim. Apenas o fato de não gostar do que se vê não é argumento satisfatório para entender quais mecanismos estão ali (ou não) para sabotar por completo uma experiência cinematográfica tão bem sucedida tecnicamente, como para mim foi esse Transformers 3.
+Uma história baseada em acontecimentos da década de 70 não poderia deixar de incluir em sua trilha sonora clássicos badalados de uma era musicalmente ambiciosa e transcendental como aquela. Também não poderia deixar de incluir o sexo livre, uma das frentes do movimento hippie iniciado na década anterior e que já operava mudanças na estrutura social americana (discussões sobre divórcio). E, de fato, as músicas escolhidas em Trapaça são um atrativo à parte que nos ajuda a mergulhar naquela atmosfera. Já o sexo, mais sugerido que prático, mantém a visão puritana atual (diferente dO Lobo de Wall Street, de Scorsese), mas não deixa de escandalizar ao trazer uma Amy Adams (Encantada, O Homem de Aço) completamente transformada em uma sex appeal disposta a usar suas curvas, pele e olhos como um atrativo e tanto para dezenas de olhares masculinos. Porém, o que Adams não exibe, mas sabemos no início que possui em boa dose, é sua inteligência. Diferente de Rosalyn (Jennifer Lawrence), cuja concorrência pela atenção do seu marido Irving (Christian Bale) é fisicamente e intelectualmente desleal.
 
-É muito óbvio perceber pequenos erros de montagem, que é quando uma cena não casa com a próxima, ou um conjunto delas. Mas isso por si só não deixa o filme, como um todo, em um patamar inaceitável. Faz parte do jogo. O nosso herói desajeitado Sam (LaBeouf) possui uma função pré-determinada desde o início dessa "trilogia", que é servir de representante para todos nós, adolescentes tarados por loiras gostosas e carros potentes que adora vê-los se transformar em robôs e "brigar pra valer". E tudo bem. Agora, isso não justifica vermos o rapaz em uma situação de perigo, e, logo em seguida, ele aparecer de um ângulo mais alto, posando de gatinho para um pôster do novo sucesso de Michael Bay.
+Na verdade, Sydney (a personagem de Adams) é tão encantadoramente sedutora que consegue dividir atenções na tela com seus flertes entre Irv e Richie (Bradley Cooper), quase nos fazendo esquecer que Irv e ela própria estão à mercê do agente federal que tenta realizar uma das maiores pescarias de corruptos e criminosos de todos os tempos. Pensando bem, até o próprio Richie parece se esquecer disso conforme a trama começa a ficar grande e complexa demais. Porém, uma das maiores virtudes do diretor David O. Russel (O Lado Bom da Vida) é nunca nos fazer perder o fio da meada, enquanto consegue ao mesmo tempo investir no crescimento dos seus personagens e do diretor Eric Warren Singer (Trama Internacional), que praticamente desfilam um elenco extremamente afiado em sequências memoráveis de interpretação (incluindo uma ótima participação de Jeremy Renner, que parece ter embarcado em projetos mais sérios desde Os Vingadores).
 
-Olhando dessa forma o filme (e ele nos faz enxergar assim), temos a sua trama patética desmascarada, o que faz perder toda a graça nas cenas de tensão. Porém, dessa vez temos uma obra de maestria técnica de encher os olhos em 3D. É possível perceber a profundidade de campo na maioria das cenas de ação, e quando isso ocorre dentro de um prédio em movimento angular porque está se despedaçando, é espetacular. De verdade!
+Ainda assim, Russel sabe que deve muito para o figurinista Michael Wilkinson (Watchmen: O Filme), tanto que ele aparece entre os primeiros nomes dos créditos finais. Boa parte do que está acontecendo se revela nas próprias roupas dos personagens (como o fato de Sydney vestir Richie como uma cópia amenizada de Irving, ou em um momento-chave em que Adams e Bale estão usando o mesmo tom) e, por que não, o que elas revelam (seria hipocrisia não admitir que os peitos de Adams não são um chamariz para desviar a atenção de certos personagens e até do espectador).
 
-Só que não é só de imagens que vive o cinema. Sim, um filme é uma sequência de imagens inicialmente desconexas, mas que, ao serem editadas, se transformam em linguagem, possuem respiração própria e contam a história que quiser. Aqui há apenas as imagens desconexas e só. Sozinhas, elas possuem o efeito vitrine que comentei, mas juntas, elas não revelam nada. Apenas uma longa, e angustiante, experiência.
+Pecando talvez apenas pontualmente em seu desfecho acelerado e inversamente climático, American Hustle flerta com nossas emoções enquanto tentamos julgar (ou não) o que é certo e errado em tantos personagens que assustam por serem tão reais quanto surreais.
 

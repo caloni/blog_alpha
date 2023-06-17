@@ -1,18 +1,26 @@
 ---
 categories:
 - writting
-date: '2020-03-30'
-link: https://www.imdb.com/title/tt0206013
+date: '2012-06-04'
+link: https://www.imdb.com/title/tt1409024
 tags:
 - movies
-- animes
-title: Meus Vizinhos, Os Yamadas
+title: 'MIB: Homens de Preto III'
 ---
 
-Isao Takahata foi um gênio da sétima arte. Cada novo trabalho que ele empreendia nos Estúdios Ghibli gerava um novo avanço na animação. Se [O Conto da Princesa Kaguya] acabou sendo o mais conhecido pela indicação ao Oscar, [Memórias de Ontem] foi um verdadeiro achado na Netflix, e, como se não bastasse, ele também assina a direção de O Cemitério dos Vagalumes, número 1 de filmes de fazer chorar de várias pessoas, mesmo que conscientemente elas não saibam o poder ilimitado de Takahata e sua equipe, cuja imaginação e criatividade estavam a todo momento criando diferentes formas para representar o drama humano, sempre com muita sensibilidade.
+Possuindo uma dinâmica que se assemelha menos do que deveria com [o original] e mais do que deveria com sua continuação, além de já confiar desde o início na identificação que o público fará da dupla de agentes K e J, que trabalham em prol de uma organização que zela pelo convívio pacífico com inúmeros seres intergalácticos, o terceiro filme da série Homens de Preto conta com um novo ator (Josh Brolin, [Wall Street 2]) que interpreta a versão mais jovem de K, originalmente vivido por Tommy Lee Jones, e um novo vilão, Bóris, o Animal (Jemaine Clement, de [Loucos por Nada]), que munido de ótimos efeitos visuais faz uma grande promessa em sua sequência inicial que infelizmente nunca é cumprida: a de fato representar uma ameaça para os excelentes agentes da MIB.
 
-"Meus Vizinhos, Os Yamadas" é uma diversão à parte. Dividida em blocos de pequenas histórias envolvendo uma família típica japonesa, as situações do dia-a-dia são comuns, mas se tornam imperdíveis com esses traços rabiscados emulando um movimento estabanado, um reflexo da vida percebida, e não a objetiva. Uma versão oriental de Snoopy com o charme dos desenhos japoneses.
+Quando o agente J precisa voltar no tempo para impedir que uma catástrofe atinja a Terra e seu parceiro, a fotografia aplicada nos anos 1969 consegue separar a versão antiga da MIB através de uma dose de sépia e menos de azul, aparentemente um sinal de avanço em nossa época. A direção de arte vai no mesmo ritmo, mostrando uma agência mais antiquada e, quem diria, mais racista, como é sugerido timidamente por uma observação sobre a proteção apenas dos seres humanos, além de no mundo exterior se resumir em uma coleção de estereótipos.
 
-[O Conto da Princesa Kaguya]: {{< relref "o-conto-da-princesa-kaguya" >}}
-[Memórias de Ontem]: {{< relref "memorias-de-ontem" >}}
+Rapidamente pode-se sentir a maior ausência da série: a criatividade na confecção dos personagens, antes um ponto fortíssimo no original e o que o tornava tão interessante, além da própria interpretação dos atores veteranos, que se colocam no automático na maioria das cenas, restando a Josh Brolin o papel de tornar o agente K um ser humano menos robótico em seus anos dourados.
+
+Aliás, não é apenas nos aspectos técnicos que o filme declina seu humor, mas nas tiradas cômicas. Se antes a comédia em MIB era engrandecida pela temática do absurdo (e ainda assim, tolerância) com a existência de seres completamente bizarros convivendo no mesmo planeta e sendo protegidos de qualquer ato hostil dos "nativos" terráqueos, agora ela se resume em uma sequência de piadas prontas, sendo a maioria de cunho racista. Não considerar isso uma involução do tema é não entender o que faz do MIB original um filme e tanto, seja de ação quanto comédia.
+
+Como todo filme de viagem no tempo, existem seus paradoxos, mas eles não atingem o roteiro, que não desenvolve ou não precisa de reviravoltas além da inicial viagem ao passado, pois talvez confie excessivamente na força do seu desfecho. Tanto é verdade que quando Bóris tenta de alguma forma estragar os planos em torno de sua destruição não passam minutos até que alguém resolva de alguma forma simplista ou esquemática, nunca fazendo provar a expectativa inicial de que ele poderia de fato representar uma ameaça digna dos Homens de Preto.
+
+De certa forma, apesar do excelente clímax final, não deixa de soar como a única ideia verdadeiramente digna de uma continuação, pois durante todo o tempo somos levados de cá pra lá sem uma ideia clara de desenvolvimento da história. Dessa forma, a conclusão continua forte e impactante, mas não se pode dizer que leva o resto do filme para o mesmo caminho.
+
+[Loucos por Nada]: {{< relref "loucos-por-nada" >}}
+[Wall Street 2]: {{< relref "wall-street-o-dinheiro-nunca-dorme" >}}
+[o original]: {{< relref "mib-homens-de-preto" >}}
 

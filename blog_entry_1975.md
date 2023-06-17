@@ -1,29 +1,27 @@
 ---
 categories:
 - writting
-date: '2020-08-03'
-link: https://www.imdb.com/title/tt4425200
+date: '2019-08-17'
 tags:
-- movies
-title: John Wick 2
+- food
+title: Restaurante Jojo Ramen
 ---
 
-## Um Novo Dia para Counter Strike
+Localizado fora do circuito dos lámens, o Jojo tem tudo o que um millenial precisa para ser feliz: lámen (que tá na moda), fila (que nunca sai de moda) e pessoas comentando o tempo todo, no melhor/pior estilo de paulista, em como é bom esse lugar.
 
-Quando o filme de pancadaria é mero pretexto para chamar público. O próprio gênero de ação trabalha com emoções minimalistas e brutais. Eis o motivo porque [Mad Max: Fury Road] funciona horrores: o único motivo de existência da história é a fuga, e o único motivo de existência de John Wick é vingança de quem não tem (mais) nada a perder. A trama funcionava bem no [original] em apresentar um começo, meio e fim para um herói atormentado em um drama de uma nota só. 
+Só não tem comida boa, mas quem é que está interessado nesse detalhe?
 
-Todos no filme falam de Wick como uma lenda, e nós temos que acreditar neles porque não é olhando para Keanu Reeves que vamos comprar a ideia. O ator faz o que tem de melhor, que é ser Keanu Reeves, e a equipe de lutadores, assim como em [Matrix], o prepara para as cenas que todos estão esperando, com porrada, sangue e porrada em cima de sangue. Embora nesses filmes violentos e comerciais do novo século sempre falte sangue.
+Já havia ido alguma vez em um passado distante no Jojo, onde notei que o miojo que eles vendem tem gosto de miojo com sal que você compra no Carrefour Express por 2,99 taoqueis, e por isso havia decidido que já era hora de parar de fazer papel de trouxa. Mas os amigos chamaram, e havia na conversa o miojo de porco, o tonkotsu, que eu tanto gosto do Ikkousha Rámen (esse, sim, na Liberdade, com preço justo e com caldo de porco de verdade; o verdadeiro caldo de mocotó japonês). Com esse diferencial em mãos, pensei: por que não tentar uma segunda vez? Meu papel de trouxa está novinho, e é só cinquenta taoqueis por um miojo e boa companhia.
 
-Os dois diretores que iniciaram essa franquia de sucesso, Chad Stahelski e David Leitch, vieram do mundo dos dublês. Acostumados com coreografias em cenas de ação, no primeiro filme aproveitam um roteiro mínimo para construir uma atmosfera do homem que é um fantasma do que um dia foi, e nossa imaginação preenche as lacunas.
+Indo lá, reserva de mesa para sete, chegamos os seis, faltando apenas um, mas eles não deixam entrar. É um lugar relativamente pequeno para tanto hipster, e eles precisam garantir a qualidade de seus pontos de humilhação nas redes sociais para que ele continue sendo bem falado (esses paulistas...). Enfim, esperamos meia-hora em uma noite de quinta-feira (cerca de 19 horas) até chegar o sétimo membro do grupo, e eles reservam para nós duas mesas: uma com cinco lugares (um senta na ponta) e a segunda para duas pessoas, "logo do ladinho", atravessando o corredor cheio de atendentes correndo de um lado para outro. Porém, devido à fome geral e o horário tarde para uma quinta-feira, lá fomos nós.
 
-Se você já jogou Counter Strike alguma vez na vida, um jogo de tiros em primeira pessoa, não perde nada em não ver a continuação de John Wick, exceto que é um CS sem precisar por a mão no controle. Há dúvidas se filmes de ação se sustentam apenas com violência coreografada e inofensiva. Mais sobre isso no [terceiro filme].
+Em nenhum lugar se diz, mas espera-se que você peça logo, coma logo, pague logo. Eles querem faturar, não apenas lotar as redes sociais com likes e reviews com fotos porque este lugar tem uma privada no banheiro super-descolada. Já sabíamos o que seria pedido: o tal tonkotsu. De entrada uns frango karaague.
 
-O filme original tinha um drama tão pertinente para o personagem de Keanu que esta continuação cheira unicamente a caça-níqueis para desavisados que acreditam terem achado o próximo grande herói de ação. Eles estão tão carentes dessa figura lendária que compram qualquer coisa. Até o simpático e nada másculo ator, que deixa a barba crescer em respeito ao personagem que interpreta sem nunca manter a postura. Está na moda heróis masculinos não serem mais "homens de verdade" ao estilo Clint Eastwoodiano. Wick é fraco, e daí vem seu próprio nome (do inglês "weak") e possui habilidades mortíferas em vez de um caráter forte. Ele é o melhor assassino de todos, mas está em análise se é um ser humano digno de aprovação. O único resquício de humanidade desse homem pós-moderno é nutrir memórias da perda da esposa e matar um monte de gente com eficácia, dois clichês que, não à toa, hoje em dia representam o ridículo.
+O karaguê chegou primeiro naquele estilo de frangos alienígenas bombadões levantadores de barra e frequentadores assíduos de crossfit: super gordões. Fizeram o treinamento do KFC, certeza. Já o tempero, vem parecendo jogado em cima, uma química que lembra aquelas comidas do Mc Donald's. Se vendessem no restaurante com o M na frente, aliás, já teriam um nome mais chamativo: Mc Karaguê. Seco e temperado na medida para quem não presta atenção no sabor autêntico de maturação em gengibre e shoyo que um verdadeiro karaguê deveria ter.
 
-Quanto aos vilões, esse monte de gente fazendo fila para ser o próximo chefão, eles representam O Sistema, o "novo" mal do século para a plateia jovem, ou para os mais velhos que catam as migalhas da virtude que restou desse tipo de protagonismo. Os mais lúdicos não ligam. Há explosão de cabeças para agitar uma noite de filme.
+Próximo prato: tonkotsu, ou miojo de massa feita na hora com caldo de porco, em qualquer variação possível disso. Ele chegou rápido, sendo servido às pressas (como tudo que é feito lá). Em um prato um macarrão frio com um pedaço de limão, em uma cumbuca um monte de bacon flutuando em um molho que parecia um vinagrete bem salgado com cebolinha flutuando (sempre a cebolinha), muita gordura e eu comentei já com muito sal? A pegada do lugar é o seguinte: molha o macarrão na cumbuca e coloque na boca, se preferir colocando um pouco de limão para soltar a massa antes de assim proceder. É um prato de verão, mas estávamos no friozinho do inverno.
 
-[Mad Max: Fury Road]: {{< relref "mad-max-estrada-da-furia" >}}
-[Matrix]: {{< relref "matrix" >}}
-[original]: {{< relref "john-wick" >}}
-[terceiro filme]: {{< relref "john-wick-3" >}}
+Eu comi das diferentes formas que se pode comer este prato: joguei o caldo por cima do macarrão do prato, joguei o macarrão dentro da cumbuca de mar salgado, agarrei um pedaço super-salgado de bacon com um monte de macarrão. Nenhum deles funcionou muito bem, pois o sal usado nessa mistura me lembrará para sempre de quão desagradável é comprar bacon mal curado em mercadinho, daqueles que tem um pouco de gordura além do aceitável e com tantos condimentos usados no maldito porco que a quantidade de sal é explosiva. Eu poderia jurar que o glutamato monossódico estava comendo solto no meu estômago.
+
+Eu posso dizer agora que já tenho mais experiência em Jojo Rámen. Posso dizer que é muito interessante o conceito de Mc Donald's que cobra o olho da cara para que se forme a fila de hipsters na frente e que se trate com pressa seu cliente. Mas, tirando as pequenas reclamações que fiz neste post, acho importante frisar que a comida não precisa ser boa para refeições com bons amigos. Isso é detalhe, mesmo, se for pensar no que ganha pelo social. Mas se gosta de um bom prato, essa é a única diversão que não terá no Jojo Rámen. Se preferir, na volta para casa passe no Express e pega aquele miojo de frango "caipira". Pelo menos é barato.
 

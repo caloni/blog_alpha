@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2014-05-14'
-link: https://www.imdb.com/title/tt0154506
+date: '2017-03-21'
+link: https://www.imdb.com/title/tt0414993
 tags:
 - movies
-title: Following
+title: Fonte da Vida
 ---
 
-Following é um filme-noir dos tempos atuais, mesmo sendo em preto e branco. É o primeiro longa-metragem dirigido, escrito e produzido por Christopher Nolan, o queridinho dos estúdios atualmente depois da trilogia Batman e trabalhos ambiciosos como Amnésia, A Origem e, claro, O Grande Truque. Ele conta a história de um jovem escritor que para conseguir inspiração começa a seguir pessoas a esmo, mas que comete o terrível erro de começar a seguir as mesmas pessoas. Isso o leva a descobrir o pior que há na natureza humana: roubos, chantagens, mentiras e assassinatos.
+Darren Aronofsky em Noé nos apresenta uma visão gnóstica da Bíblia e das crenças antigas, mas esse é apenas um pedaço da ambição desproporcional vista em Fonte da Vida, um filme que tenta sem sucesso (felizmente) unir ciência e misticismo em uma busca por conhecimento que ultrapassa limites da realidade, seja através da ficção de um romance espanhol ou pela abstração de nossa própria vida na Terra através de um sábio solitário tentando descobrir a combinação que nos trará vida eterna.
 
-A estrutura da narrativa  que lembra muito seu próximo trabalho que lhe trouxe a fama e duas indicações a Oscar por Amnésia  nos faz todo o tempo questionar se o que estamos vendo já aconteceu ou vai acontecer na cronologia principal. Logo percebemos que não existe uma cronologia principal, apenas a final, que se inicia com um depoimento com um policial contando o ocorrido. Essa estrutura complica um pouco desnecessariamente para o espectador por não dar muitas dicas de qual o tempo atual  assim como 21 Gramas  mas não deixa de produzir algumas surpresas interessantes que fazem valer a pena a complexidade, como pistas-recompensas plantadas em situações específicas que irão se revelar às vezes mais de uma vez durante a história (o par de brincos).
+E a busca por esse elixir mágico já encontrou muitos heróis de nossa história. A forma com que Fonte da Vida nos apresenta esse dilema ultrapassa a questão narrativa, mas ao mesmo tempo une três histórias diferentes através de seu tema, e de maneira muito semelhante com A Viagem (Cloud Atlas, Irmãos Wachoswki) há uma prioridade maior em esmiuçar as diferentes formas de ambicionar pela vida eterna, ou pela paralisação do processo de morte, do que de fato se preocupar com seus personagens.
 
-A fotografia é crua, simples e direta. Quase um nanquim. Os diálogos possuem bons momentos, a maioria pertence ao dinamismo com que os personagens comunicam tantas coisas em tão pouco tempo (mais um traço noir). Existem também frases de efeito e filosóficas, o que consegue imprimir uma profundidade maior na história e ao mesmo tempo nos deixar pensando em coisas comuns da nossa vida ("todo mundo tem uma caixa").
-
-É um roteiro de Nolan, então pode-se esperar uma complexidade acima da média e uma recompensa cinéfila igualmente alta. O universo do diretor é populado por rimas e auto-referências, além de uma confusão entre personagens, algo bem comum em sua cinematografia (O Grande Truque, Insônia). Para os fãs, mais uma diversão. Para os cinéfilos, mais um filme digno de se passar o tempo.
+Porém, este é mais um filme do diretor com uma pessoa obstinada e obcecada que dá tudo de si para alcançar seu objetivo. Aliás, os personagens: Tomas, Tommy, Tom. Os personagens de Hugh Jackman estão em busca não apenas da vida, mas do amor, e nessa relação dúbia entre o que é viver. Note como todos os simples elementos manifestados como símbolos no filme -- a tinta, o papel, a árvore, a estrela e o ser humano e um país morrendo -- vão constantemente aparecendo em pares que se unem para contar as três histórias de maneira intercalada, mas nunca deixando cair a peteca do tema. É o tema que está em jogo, e para isso o igualmente obstinado diretor (e roteirista) persiste em alcançar a melhor forma de mostrá-lo.
 

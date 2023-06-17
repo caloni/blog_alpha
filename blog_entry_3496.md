@@ -1,21 +1,23 @@
 ---
-categories:
-- writting
-date: '2021-04-12'
-link: https://www.imdb.com/title/tt7273648
-tags:
-- cinemaqui
-- movies
-title: Sobre Amor. Somente Para Adultos
+categories: []
+date: '2015-08-03'
+tags: null
+title: Sobre debates no SESC Santos
 ---
 
-Sobre Amor. Somente para Adultos. Um passeio bacaninha por alguns relacionamentos que parecem diferentões (não são) enquanto John Malkovich conduz sua palestra em Moscou sobre como a crescente enxurrada de divórcios ao redor do mundo, que só aumentam a cada ano, e o que fazer para manter o amor. Ah, esse amor idealizado. O amor é de fato hoje em dia essa coisa fluida profetizada por um sociólogo famoso cujo nome não lembro, mas vou pesquisar depois. Zygmunt Bauman. Essa internet decepciona menos os seres humanos do que sua busca por amor.
+Esse fds participei de uma rápida ida e volta para Santos para participar de um dia com dois debates de um evento organizado pelo meu editor no CinemAqui, o Vinicius Carlos Vieira.
 
-Apesar de flertar com amor livre, esse filme dirigido e escrito a várias mãos flerta com a pegada libertária de algumas séries de streaming como Easy, Modern Love, Wanderlust, entre outros. Porém, sua abordagem é mais popular, menos agressiva. Tem uma edição datada. As histórias do filme são cômicas de propósito, para trazer essa leveza. Sempre há um número musical de um artista famoso tocando, o artista faz uma participação video-clipe e a mesma montagem de divisão de tela acontece. A letra da música é genérica, mas fala de amor.
+Com um início atribulado por conta da nossa carona, uma taxista que também é artista plástica e que condenava sua situação atual e flertava com a ideia de uma possível oportunidade de virar caminhoneira e viajar o país, talvez o melhor da viagem tenha sido conhecer meu parceiro das críticas em Sampa, o Eduardo Sandrini. Sua lógica e suas opiniões acerca de diversos filmes, além do sempre bom papo sobre Cinema, talvez tenham sido o ponto alto do dia.
 
-Amor, sexo, casamento, traição, insegurança. O centro do filme é a palestra de Malkovich lançando seu livro sobre o assunto. No começo você não sabe se é um documentário misturado com ficção, mas aos poucos descobre ser uma ficção que une narrativas em torno do mesmo tema. Um Simplesmente Amor menos profundo, mais solto, sem pretensão nenhuma de querer chegar em algum lugar. Este filme está tão perdido quando qualquer relacionamento moderno.
+Disse talvez porque o debate em que ele participou, o primeiro, sobre crítica na internet, atingiu alguns temas até que relevantes, como o desafio atual da mídia impressa -- e, claro, da mídia virtual -- em conseguir atrair a atenção de um público cada vez mais alheio à cultura e à arte.
 
-E moderno é o que ele tenta ser, juntando efeitos digitais caseiros com montagens e colagens. Só que ele é tão 2017... nem existia o Tik Tok ainda. Já soa tão datado e bobinho. As coisas mudam tão rápido que filmes como esse além de esquecíveis têm prazo de validade. Mas tem uma curiosidade, ainda que passageira: John Malkovich sendo dublado em cima por um narrador russo. E, a cereja do bolo: a palestra acaba, Malkovich sai do palco, e acompanhamos sua vida íntima. E o narrador continua dublando suas falas. E de sua esposa. E de sua amante.
+Disse talvez também porque, embora instigante, o debate logo denotou seu objetivo paralelo em se tornar uma plataforma de publicidade. No caso, do saite Judao. Nada contra, aliás. Não o conhecia, dei meus 15 minutos (talvez menos) de visita, e foi legal. Bom saber que existe.
 
-O subtítulo Somente Para Adultos é um chamariz enganoso. Não há cenas picantes, sequer eróticas. É apenas uma forma de avisar os desavisados que poderão existir temas mais "sensíveis" como swing e relacionamentos abertos. Situações, enfim, ainda bem novas e polêmicas para o povão, que demorará algumas gerações para se deteriorar no nirvana de Bauman, o profeta que reza sobre uma sociedade que não mais se encontrará no outro, pois o outro vira apenas mais um item de prateleira de supermercado.
+Não me levem a mal, não sou desses nerds de HQs, games ou Cinema como plataforma de materialização de sonhos nerds (de HQs). Logo, não sou o público-alvo. Mesmo assim, achei no mínimo estranho um saite que evita comentários, no melhor estilo censura, preferindo deixar as discussões para o lado das redes sociais (que, pelo visto, são quase inexistentes). A ideia de divergir não parece agradar a linha editorial da equipe, e é de respeitar a tentativa de higienizar a opinião (não que fosse louvável).
+
+Mas divago. A questão mercadológica das notícias e da opinião para as massas foi o ponto forte, além da participação de um jornalista da Tribuna dos "velhos tempos". Tudo isso me pareceu bem novo e em um ambiente em que não estou acostumado.
+
+Sobre o Hype nerd, minhas ressalvas são talvez piores. Eu ter aprendido que, além da confusa noção de que o capitalismo é colocado como um bicho à parte, ficar com a noção de que é esperado de geradores de conteúdo cultural por algum motivo que eles estejam alheios ao mundo real, ou boa parcela dele, me parece desonesto. O tal politicamente correto foi citado, e eu até tinha algumas ideias sobre o assunto, embora não me parecesse correto cortar o efusivo colaborador do Judão.
+
+De certa forma, o segundo debate foi superficial em todos os seus meandros, embora o mediador tivesse tentado provocar com perguntas até que interessantes, embora meio repetitivas. Essa questão do capitalismo contra o sei-lá-o-quê-mas-que-precisa-de-dinheiro-também talvez tenha ficado mal explicada por falta de tempo ou elaboração, mas também pode ser um trauma do pessoal de humanas, que estava acostumado há quinze anos atrás, mas hoje vejo com estranheza. Male/male, uma experiência diferente. Havia dito, para o Eduardo, se não me engano, que experiências diferentes são positivas. Hoje, passado o "hype", fico com minhas dúvidas.
 

@@ -1,20 +1,18 @@
 ---
 categories:
 - writting
-date: '2014-06-06'
-link: https://www.imdb.com/title/tt0017136
+date: '2016-05-15'
+link: https://www.imdb.com/title/tt0096283
 tags:
 - movies
-title: Metrópolis
+title: Meu Amigo Totoro
 ---
 
-Se algumas pessoas torcem o nariz ao ver filmes como "O Gabinete do Dr. Caligari" e Nosferatu, pois hoje soam caricatos, nada se pode dizer a respeito de Metrópolis, um épico da ficção científica dirigido e escrito por Fritz Lang e sua esposa em 1927. Os três são representantes clássicos do expressionismo alemão, um movimento artístico cujos movimentos dos personagens são exatamente o que vemos na tela: caricatos, exagerados, quase simbólicos. Para filmes mudos da época, um prato cheio para entreter e ainda capturar a essência das palavras que não saem da boca dos atores.
+Uma animação imortal e irretocável. Meu Amigo Totoro é um dos primeiros filmes dos Estúdios Ghibli, de Hayao Miyazaki, e foi feito no auge dos anos 80. Ele apresenta uma história simples e ao mesmo tempo fascinante, sobre duas meninas que se mudam para um vilarejo no interior com o pai e a mãe, internada em um hospital. A região é conhecida pelas plantações de arroz, e pela imponente floresta. Totoro e seus amigos, espíritos protetores da região, se encontram com a doce e enérgica Mei e a mais velha, mas ainda criança, Satsuki.
 
-No caso de Metrópolis, é uma produção cara, que envolveu centenas de figurantes e cenários ao fundo belissimamente desenhados, além de diversos efeitos visuais que tornam criações como Maria icônicas ainda hoje. Uma obra de arte dessas, com esse porte, em menos de 90 anos se perdeu. Um quarto filme, acreditou-se, nunca mais seria encontrado no ambiente pós-guerra. Mesmo assim, Giorgio Moroder foi o primeiro a criar uma versão restaurada do clássico, onde coloriu e legendou o que antes era P&B e com intertítulos. Ganhou dois prêmios de pior filme e musical.
+O personagem Totoro virou automaticamente um astro da cultura pop japonesa, e este é um trabalho digno de ser comparado com Alice no País das Maravilhas, dos estúdios Walt Disney. Na verdade, é praticamente uma homenagem, com suas referências nada discretas, como uma toca de "coelho" que leva a um mundo mágico, e um gato-ônibus com um sorriso gigantesco.
 
-Diversos conflitos de copyright impediam o lançamento da obra para o público de Home Theater até que a produtora Kino International propôs resolver isso de uma vez por todas, produzindo uma versão restaurada não apenas disponível em DVD e Blu-Ray, mas com algumas reestreias no Cinema. Essa versão foi lançada em 2002, com a trilha original e intertítulos que explicavam as sequências que estavam faltando. Aos poucos, contudo, sequências restantes foram sendo redescobertas em museus e arquivos ao redor do mundo, que foram sendo integradas a essa versão.
+Não só as cores, mas a trilha sonora, e o movimento dos personagens e da natureza em torno do filme é praticamente uma réplica perfeita de um live action. As situações que os personagens vivem são fáceis de entender visualmente, mas as vozes estão impecavelmente integradas. Os enquadramentos usados por Miyazaki se tornam grandiosos e inesquecíveis, com uma paleta de cores, luz e sombra lúdicos, que encontram eco com o surreal e o imaginário que está sendo discutido.
 
-Até que em 2008 foi encontrado na Argentina uma versão reduzida de 16 mm da edição original. O filme havia passado de mão em mão desde sua estreia até cair nas mãos do curador do Museo del Cine, em Buenos Aires. Ele ficou curioso com uma piada que um gerente de um clube de Cinema a respeito da duração de Metrópolis que ele havia visto. Após o anúncio feito em Berlim sobre essa descoberta uma outra versão na Nova Zelândia foi anunciada, o que permitiu substituir pedaços defeituosos da cópia argentina. Depois de esforços hercúleos de restauração apenas duas curtas sequências não puderam ser salvas: uma envolvendo um monge pregando em uma catedral e uma luta entre Rotwang e Fredersen. Essas eram as únicas duas partes que, na versão restaurada de 2010, tiveram que usar cartões descrevendo-as. Uma nova trilha foi adaptada do original para a estreia mundial com a "duração completa". A 34a. Mostra de São Paulo teve a honra de exibir essa versão com orquestra ao vivo.
-
-E, convenhamos: a trilha sonora faz toda a diferença para um filme mudo, mais ainda para Metrópolis. Ela acompanha a ação passo-a-passo. A história é dividida por um Intermezzo. Antes é descrita uma cidade futurista criada e gerenciada por Joh Fredersen e mantida por milhares de trabalhadores que não vivem na cidade, mas no subterrâneo. A mensagem do filme é: "Não pode haver compreensão entre as mãos e o cérebro a menos que haja o coração como seu mediador.". O coração de Metrópolis é o filho de Joh Fredersen, Freder. A mensageira da vinda do mediador é Maria, e toda alegoria religiosa e política pode ser extraída das sequências visualmente arrebatadoras de Metrópolis, seus trabalhadores e suas máquinas.
+Um filme muitíssimo mais leve que A Viagem de Chihiro, mas bem mais ambicioso que Ponyo. É um filme enxuto, com uma perfeição difícil de ser alcançada. Cada cena está lá por um motivo, e cada momento nos revela mais um tom que pinta um quadro extremamente coeso e impagável. Dificilmente esse filme precisará ser visto mais de uma vez, mas exatamente por todas suas virtudes é exatamente isso que faremos de tempos em tempos.
 

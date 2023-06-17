@@ -1,24 +1,23 @@
 ---
 categories:
 - writting
-date: '2010-11-20'
-link: https://www.imdb.com/title/tt1781866
+date: '2017-06-13'
+link: https://www.imdb.com/title/tt6032376
 tags:
+- cinemaqui
 - movies
-title: Muita Calma Nessa Hora
+title: Mulher do Pai
 ---
 
-Mari é constantemente assediada por seu chefe na agência publicitária onde trabalha; cansada de ser confundida com uma mulher fácil, decide não ficar mais com homem nenhum. Tita é a mulher certinha, virgem de um homem só (o marido), mas que encontra seu noivo com outra em seu apartamento e, desacreditada, decide esquecer esse negócio de monogamia e partir pra tirar o atraso. Aninha, uma eterna indecisa, já trancou sete vezes a faculdade por nunca ter certeza do que quer fazer; sim, ela concorda com ambas as amigas; ao mesmo tempo.
+Apesar do que sugere o nome e a sinopse exagerada, Mulher do Pai é um estudo delicado e sutil sobre amadurecimento dos mais jovens, algo que não estamos mais acostumados a ver em um mundo cada vez mais conectado. De fora dessa aldeia global há ainda pequenos mundos rurais. E dentro desses mundos há a possibilidade de revisitarmos o bê-a-bá do crescimento humano.
 
-Prestes a contar a aventura das três em uma lua-de-mel bem diferentes na praia de Búzios, no Rio de Janeiro, a história possui uma introdução rápida como nas comédias de televisão (como a cena da traição), empregando um ritmo eloquente com a juventude das personagens e usando de algumas artimanhas para desde o início distinguir a personalidade de cada uma de suas protagonistas: trilha sonora diferenciada e legendas a la Tarantino.
+E é claro que o filme, como sugere o nome, gira em torno de sexo proibido, ou pelo menos do seu desejo e curiosidade. "Sexo é o que nos aproxima" talvez fosse a frase que resume este filme, mas há muito pouco dele na história, que gira mais em torno do toque, principalmente onde falta o olhar. A protagonista é Nalu (Maria Galant), uma garota de 16 anos que vive com seu pai, Ruben (Marat Descartes), que não consegue enxergar devido a uma doença desde seus 20 e poucos anos. Quando a avó de Nalu vem a falecer os dois passam a morar sozinhos, o que obriga uma maior comunicação entre eles.
 
-No caminho dessa história conhecemos os simpáticos e eficientes personagens secundários, como Estrela, a menina natureba e ingênua que busca se reencontrar com o pai, pescador, na mesma praia para onde as meninas estão indo. E personagens menores, que são muitos, e representam os velhos estereótipos que vemos em outros filmes do gênero (ou em programas humorísticos como Zorra Total): o mauricinho que adora suas bugingangas tecnológicas, o vendedor de bebidas gay que anima as festinhas da praia, o baiano maconheiro fã de Chiclete com Banana, e por aí vai a valsa.
+Ou pelo menos em teoria. O fato é que a cidade onde vivem é muito pequena e não há nada para fazer; sequer jovens garotos para ela e sua melhor amiga namorarem, apenas os colegas da escola "que só pensam em cavalos". Ambas ficam sonhando em viver na cidade grande e como seria muito mais empolgante. Só que enquanto isso seu pai, até então quase ignorado na casa, passa a ser a única referência de homem que Nalu tem, e que começa a virar a projeção do já conhecido Complexo de Édipo (mas para meninas).
 
-Se estereótipos costumam ser sinônimo de piadas medíocres, não é isso que acontece em "Muita Calma". A competência do elenco de apoio sustenta seus personagens e suas piadas na maioria das vezes; e se não divertem por mais tempo é devido aos muitos cortes bruscos que são feitos ou pela repetição da mesma piada diversas vezes, como na cena do vômito (clímax), seguida pela cena do carro (exagerada).
+A diretora Cristiane Oliveira consegue aqui evocar um visual cheio de significados em torno de uma vila que nunca vemos por inteiro (talvez porque não valha a pena ver) e principalmente em torno da casa da família. O nascer e o por do sol são oportunidades para vermos na parede o reflexo da sombra do pai cego sob a luz vinda da janela, ou a visão da porta que dá para o mundo, de onde vemos uma Nalu ansiosa para abrir suas asinhas e sair voando de lá.
 
-Aos poucos notamos uma certa necessidade do roteiro em tentar encarar mais profundidade nos conflitos dessas três jovens, exaltando visualmente seus problemas (e a troca do nome de Aninha para Soninha é icônica nesse sentido, pois demonstra claramente, e de forma divertida, a indecisão da garota até pelo próprio nome). Porém, como é de convir em comédias do gênero, as piadas nem sempre combinam com essa tentativa, muitas vezes o tom sério atrapalhando o cômico e vice-versa, enfraquecendo ambos os lados que o filme decidiu adotar.
+O roteiro, também escrito por Cristina, em parceria com Michele Frantz (Sonhos Roubados), não se preocupa em tornar tudo mais ou menos óbvio. Dessa forma, quando vemos a professora de arte de Nalu ensinando os alunos a moldar argila com os olhos fechados já imaginamos na vida de quem ela irá parar. Da mesma forma, quando um jovem uruguaio começa a ficar com a garota já sabemos onde isso vai dar. Não há nada de imprevisível em Mulher do Pai, mas é nos detalhes que o filme nos captura, fazendo com que sua história por si só já seja digna de acompanhar.
 
-Se, por um lado, é possível dar boas risadas com as situações e piadas criadas especialmente para nos fazer rir, o desfecho pediria um pouco mais de dramatização (com cenas forçosamente emotivas, como a conversa de Aninha sobre seu aniversário e suas frase de auto-ajuda seguida de música faça-chorar). Esse drama não existe; nem no filme, nem no espectador, que não está preocupado com o destino das jovens, mas envolto nas piadinhas espalhadas em episódicas cenas.
-
-E se não existe essa necessidade de dramatizar uma comédia despretensiosa, pra que se preocupar? O bom mesmo é rir e se divertir com as partes boas, e deixar todo esse lero-lero de pseudo-conflitos existenciais no saquinho de pipoca.
+Para uma rotina em que não acontece nada o filme te prende a cada detalhe. Isso porque com um roteiro minimalista, que carece de palavras mas sobra de imagens, vamos aos poucos tateando o que a história quer dizer. E, talvez, no final das contas, o título do filme acabe chamando a atenção pelo que ele nos faz esperar. E com personagens tão simbólicos quanto estes, isolados do mundo como estes, trabalhar apenas com expectativas já prova a capacidade do filme em surpreender mesmo em cima do óbvio.
 

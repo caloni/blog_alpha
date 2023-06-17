@@ -1,18 +1,16 @@
 ---
 categories:
-- writting
-date: '2011-01-30'
-link: https://www.imdb.com/title/tt1399683
-tags:
-- movies
-title: Inverno da Alma
+- cooking
+date: '2022-06-11T21:06:42-03:00'
+tags: []
+title: Iogurte
 ---
 
-O filme todo gira em torno da história da filha mais velha de uma família problemática que ainda por cima precisa encontrar o pai, pois este afiançou a casa onde moram e, se não comparecer ao tribunal no dia estabelecido, eles serão despejados.
+É bem simples de fazer. Basta ter tempo. E leite pausterizado. Não pode ser UHT. Tem que ser pausterizado. Fica na geladeira. E iogurte natural para começar sua fazenda de lactobacilos. Pode ser qualquer um.
 
-As duas primeiras coisas que sobressaem é a determinação da protagonista e a fotografia sombria, de um azul obscuro, que retrata o clima sem esperanças da jovem batalhadora.
+Ferva o leite. Espere esfriar a 40 graus (demora). Se não tiver termômetro espere até conseguir colocar o dedo dentro do leite por 10 segundos. Então misture bem o iogurte em movimentos leves. Fecha a panela e deixa umas 12 horas (da noite pro dia funciona).
 
-Com muitos diálogos e pouco movimento, a história se desenvolve em cima das descobertas que fazemos a cada nova visita que Ree faz em cada casa vizinha.
+Se quiser tirar o soro é só deixar ele suspenso em alguma toalha de papel ou pano limpo. Aqui eu uso uma peneira bem fina. Só deixar na geladeira. Deixei a última vez a noite inteira também. O sabor fica maravilhoso.
 
-Com dois momentos de tensão não muito arrebatadores, somos levados à conclusão da história sob o mesmo clima de desilusão, sendo que, no final das contas, o filme é deprimente do começo ao fim.
+Para fazer mais é só comprar mais leite pausterizado. O iogurte já pode ser o seu =)
 

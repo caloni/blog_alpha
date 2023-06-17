@@ -1,12 +1,19 @@
 ---
+
+Este filme tem cara de Mostra Internacional de Cinema de São Paulo. É simpático, inofensivo até. Assistimos como quem não quer nada, imaginando os motivos pelos quais este filme foi produzido. É um encanto ver a atriz Esther Gorintin. Ela é realmente idosa. Nascida na Polônia em 1913, logo se tornou Esther Gorinsztejn no recém-criado Império Russo. Na época das filmagens desse filme estava com seus oitenta anos. Faleceu aos 87, em 2010, quando este blog de cinema começou.
+
+Gorintin se comunica com o sorriso e com os gestos, curvada sobre a história de uma vida. A primeira cena é inesquecível, dela pedindo um bolo e o comendo com todo o prazer de quem ainda não está pronta para partir. Ela aguarda o sucesso do seu filho mais velho, Otar, que se mudou para Paris em busca de uma vida melhor. Sua neta observa o país onde vive desmoronando e também espera partir o mais cedo que puder, mas no momento ela precisa manter esse estratagema que mantém seu tio vivo aos olhos de sua avó.
+
+O filme da diretora Julie Bertuccelli fala sobre conflito de gerações de uma maneira muito sutil, e sobre a decadência da União Soviética como os sonhos perdidos de uma geração, como se fosse possível viver essa mentira por mais algumas décadas. Estupefatos em torno das ruínas de um sistema burocrático, as escadarias da Georgia são muito íngremes para os idosos do Império Russo.
+
+A França serve como exemplo. É a versão comunista mais bem sucedida do experimento do século 20, pois está amparada pelo capitalismo imperialista. Alheia a tudo isso, Eka é a vovó stalinista que quer viver de acordo com seus valores de adulta, quando a vida era mais simples, havia luta, mas junto dela um objetivo a ser alcançado.
+
+---
 categories:
 - writting
-date: '2012-07-20'
-link: https://www.imdb.com/title/tt0118954
+date: '2018-05-08'
+link: https://www.imdb.com/title/tt1137450
 tags:
+- cinemaqui
 - movies
-title: Desconstruindo Harry
----
-
-Ciente de que conseguiria conduzir uma experiência autoral refinada ao mesmo tempo em que dirige e atua, Woody Allen cria aqui uma pequena brincadeira metalinguística (não seria a primeira vez) com os sentimentos de um escritor em não conseguir publicar uma nova obra sem recair sobre sua vida pessoal e as pessoas que fizeram parte dela. Como consequência, além de entrar em conflito com as pessoas com quem conviveu simplesmente por descrever acontecimentos pertencentes às suas vidas privadas, o escritor ainda precisa lidar com o fato de que suas ligeiras adaptações revelam seus próprios medos e preconceitos em relação à realidade. Dos filmes de Allen, nunca ruins, eis um digno de nota.
-
+title: Desejo de Matar

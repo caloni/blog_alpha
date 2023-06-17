@@ -1,11 +1,15 @@
 ---
 categories:
 - writting
-date: '2017-05-27'
+date: '2022-08-24T21:03:16-03:00'
 tags:
-- food
-title: Vina Barroca Mencia Bierzo Tempranillo Reserva
+- wine
+title: Vinhos com Sr. Incrível
 ---
 
-Frutas Negras em vez de vermelhas, madeira e tanino sutil. Aberto na noite de pizza na casa do Incrível com o Jimmy.
+Malma está mais suave? Talvez, mas continua bem forte o tom de ameixa.
+
+Tannat do El Esteco aromático e mais agradável, mas reserva de 2013 parecia mais promissor.
+
+Cabernet Franc do Incrível de 2019 de Mendoza foi boa finalização de uma ótima noite de conversa.
 

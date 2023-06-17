@@ -1,17 +1,24 @@
 ---
-categories: []
-date: '2016-01-28'
-tags: null
-title: Não Atualize seu Sistema
+categories:
+- writting
+date: '2019-10-24'
+link: https://www.imdb.com/title/tt8445700
+tags:
+- cinemaqui
+- mostra
+- movies
+title: Não me Ame
 ---
 
-De quem é o interesse que você atualize constantemente seu sistema? Muito provavelmente não é seu. Sistemas -- operacionais ou não -- costumam ser escritos por programadores, que não fogem muito do que você conhece como ciclo de desenvolvimento, o que quer dizer que o sistema que atualiza sempre estará sempre testando suas novas features no seu dispositivo (computador, celular, tablet), verificando as mais nova correções e, claro, lhe fornecendo o que há de mais novo e mais difícil de contornar no que diz respeito a bugs, já que quase não haverá páginas no Stack Overflow te dizendo o que fazer sobre o bug que foi instalado em todas as máquinas do mundo há cinco minutos. Muito menos páginas descrevendo o SEU problema específico, com o SEU driver específico e hardware específico. Sim, Windows, eu estou falando com você.
+Não me Ame é cinema experimental, e eu admiro isso. Porém, seus símbolos vão se multiplicando a cada diálogo em um ritmo indecifrável, e isso não tem perdão.
 
-Porém, quando se trata de atualizações na velocidade do commit, a Microsoft não é um monopólio. Praticamente todos os apps, desktop ou web, precisam atualizar constantemente, freneticamente. Todos eles, sem exceção, nunca perguntam se você gostaria de fazer isso, ou se perguntam continuarão te enchendo o saco por toda a eternidade. Nenhum se preocupa em retornar ao estado anterior quando as coisas vão mal, o que triplicaria o problema de atualização global para eles. A Google nunca sai do beta, e por um bom motivo: no final do Sprint quinzenal, lá está o código novo em folha rodando na máquina do usuário. Um código que passou por milhões de testes unitários, bilhões de testes caixa-preta, menos o seu teste específico, coisa mínima, que irá lhe deixar um software capenga até (talvez) o próximo Update. Você não precisa daquela opção do menu, certo? Basta usar só mais um app adicional para isso.
+Brincando em espanhol com uma história de guerra no estilo invasão do Iraque misturado com o folclore bíblico, a ideia concebida por Sergi Belbel e Lluís Miñarro (dirigido por este último) nunca foi uma coisa boa, nem no começo, quando filmes como Cães de Aluguel e diretores como Kubrick são citados. Referências do diretor? Espero que não, ou isso quer dizer que nas aulas de cinema da atualidade os rolos de filmes são mais cheirados do que vistos.
 
-Não estamos falando de programadores medíocres ou sistemas legados. Todos sabemos que, por mais habilidosa a equipe e por mais bem estruturado o código, o estado natural de um software é a sua complexidade crescente engolir aos poucos seu funcionamento, até o próximo refactory que irá começar tudo de novo. É um ciclo sem fim. Porém, antes havia um tempo de respiro entre uma correção bem sucedida e a próxima bomba. Hoje você vai dormir sem saber se sua máquina vai bootar amanhã. Não há mais o prazer de usar uma nova versão e constatar, de fato, que ela é melhor que a anterior. A mais nova sempre será pior, justamente pela falta de cicatrizes de guerra para o código novo que está nascendo sem passar algum tempo sendo lustrado.
+Mas falando, agora, sobre a história desse filme me veio à memória alguns de seus momentos. Quase todos sensuais. Sua protagonista é a filha do general, Salomé, que é bela e se encanta com o prisioneiro de guerra que seu pai mantém escondido em uma caverna.
 
-O software não é mais versionado. Pelo menos não para o usuário. Passamos por tantas semi-versões diferentes que mesmo que mude o Major em algum momento, já estamos desgastados por todos os beta tests que fomos obrigados a fazer.
+Ele é chamado de profeta, preso em cavernas subterrâneas e não falando coisa com coisa. Há um acampamento militar ao lado, onde se bebe vinho e se fala sobre filosofia. Em um futuro muito presente, os poderosos do mundo acertam como em um contrato qual será a próxima guerra entre eles. Qualquer semelhança com a realidade foi expurgada do filme, que não faz o menor sentido.
 
-E ainda por cima o novo modelo de precificação acha que está lhe fazendo um favor em entregar uma versão quentinha toda sexta-feira e lhe cobra um valor mensal. Para sempre. E nunca a satisfação de usar um software no "estado da arte". Usuários de apps já se acostumaram a conviver com o estado do caos.
+Mas as cenas são bonitas. A fotografia também. Sei de pessoas que só por isso já falariam que este é um filme de respeito. Os cenário, teatrais, cumprem seu papel onírico, cercando personagens movidos por impulso. Podemos estar acompanhando fragmentos ligados no espaço-tempo. Vai saber... melhor não.
+
+Love Me Not é sobre a perdição do cinema americano. Ele pega desde as séries, apresentando os atores como se fizessem parte de uma, para saltos temáticos que existem apenas como provocação vazia ao espectador. É uma aposta, como todo filme experimental. Porém, ter uma direção de arte, figurino, fotografia e edição impecáveis em um filme desses... isso não tem perdão.
 

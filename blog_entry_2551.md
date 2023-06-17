@@ -1,25 +1,30 @@
 ---
 categories:
 - writting
-date: '2016-02-18'
-link: https://www.imdb.com/title/tt4285496
+date: '2016-12-09'
+link: https://www.imdb.com/title/tt0790663
 tags:
-- cinemaqui
 - movies
-title: O Abraço da Serpente
+title: O Aluno
 ---
 
-O Abraço da Serpente é uma viagem cósmica através da descendência de todos os homens. Razão e tradição se digladiam para contar uma história que atravessa o senso da individualidade sem perder o senso da responsabilidade. E, sim, é também sobre índios.
+Este é daqueles filmes bonitinhos, com lição de moral, ou lição de vida, que tenta aumentar a trilha sonora solene e emocionante sempre que pode, além de colocar lágrimas nos rostos dos personagens para induzir o espectador ao choro fácil. Choro fácil este que não vem, já que seus personagens não são assim tão carismáticos, e o protagonista, apesar da história de vida sofrida, não possui condições de exprimi-la de uma maneira civilizada.
 
-Porém, categorizar essa experiência de "filme de índio" é diminuí-la, muito embora ela trate todo o tempo do folclore, comportamento, cultura, conhecimento e crença de algumas tribos de índios da Amazônia após a invasão colombiana. Quando falamos de índios, surge aquela sensação de estranhamento, de culpa e de distanciamento. Nada nesse filme nos leva aos mesmos sentimentos.
+Mas o que pode ser um problema para um filme do gênero poderia muito bem ser uma defesa mais que inspirada no aspecto tribal da cultura africana. O filme trata disso, de como as tribos, apesar de rivais, viviam com uma certa harmonia -- ainda que separados e com rivalidade -- antes do homem branco chegar, representado pela Rainha da Inglaterra, e tocar o terror para conquistar e unificar. Fica a dúvida se essa desunião dos povos já existia ou foi mera estratégia do Império Britânico de conseguir aliados locais e chegar rapidamente à vitória.
 
-Contando a história (real) de Theodor Koch-Grunberg (Jan Bijvoet), um cientista alemão que pesquisa tudo a respeito da Amazônia e suas crias -- índios inclusos -- conhecemos um sobrevivente de uma tribo massacrada durante a invasão colombiana: Karamakate (Nilbio Torres). Ele é o herói da história. É dele a decisão de ajudar ou não o tal cientista através de uma planta sagrada de seu povo, sua única salvação. Junto dele acompanha um leal "índio domesticado", de roupas e sabendo usar uma arma.
+Começando como uma fábula lúdica, onde um velho tenta entrar em uma escola aberta para educação primária, o filme já começa demonstrando a estupidez dos governantes, que anunciaram orgulhosos "educação para todos" na mídia -- representada aqui por um locutor de rádio alterado e bem-humorado -- ignorando que não cabem 200 crianças em 50 cadeira em uma sala de aula, e que "todos" inclui... bem, todo mundo disposto a aprender.
 
-Então, de repente, somos transportados para o futuro, onde conhecemos os frutos da pesquisa de Theo, vindo de outro cientista, Richard Evans Schultes (Brionne Davis), este americano. Lá já aprendemos que Grunberg morreu na expedição (o que ainda falta descobrir é como e por quê), mas encontramos Karamakate (Antonio Bolivar), embora seja outro, mudado, que está perdendo paulatinamente sua memória, e junto com ela a memória de seu povo.
+Então o roteiro simplista de Ann Peacock demonstra como é desproporcionalmente violenta e sem sentido a revolta geral, não só da população, pais das crianças matriculadas, como do alto escalão responsável por coordenar o investimento em marketing... quer dizer, em educação, repetindo sempre a mesma lengalenga de qualquer governo populista: as crianças são o futuro da nação.
 
-A direção e narrativa (Ciro Guerra) de "O Abraço..." levam a crer que boa parte do roteiro (construído por Ciro através dos diários de Theo e Evans) tem um fundo simbólico. Durante todo o tempo nos questionamos a respeito mais das atitudes dos personagens do que dos personagens em si. Eles são meras representações do que ocorreu naquela floresta várias vezes. O grande trunfo do filme é ser baseado em relatos históricos desses dois exploradores, e ainda conseguir criar uma atmosfera fantástica que abraça esse mundo fantástico de uma floresta ainda enigmática e que, com a vinda do homem branco, deu origem a diferentes tipos de doenças, loucuras e crueldade, sejam elas vindas da religião, da ganância ou do puro delírio de grandeza, mesmo.
+De fato são. Mas qual futuro esperar de crianças que sequer conhecem o seu passado, de seus descendentes? Sem saber de onde veio o sangue que pavimentou as ruas da nova nação fundada à força, vemos como o populismo já alcança níveis absurdos em meio a tanta desigualdade.
 
-Todas essas formas são materializadas quase em um formato de mini-teatro, onde cada novo acontecimento ocorre em um local específico da floresta. O tom preto e branco com uma saturação forte torna as noites mágicas, e os dias pálidos demais. A pintura que vemos na cara dos indígenas vira uma máscara monocromática vestida com perfeição. Questões filosóficas, como a invasão cultural, estão inseridas de maneira tão arraigada na história que é ela que define os rumos de tudo o que ocorre.
+E é aí que entra o velho: Maruge.
 
-Concluindo de uma maneira tão irônica quanto seu início, 40 anos atrás, "O Abraço da Serpente" é um trabalho ambicioso que mantém por boa parte do tempo a proeza do suspense eterno. Nos espantamos com quase todo novo momento, toda nova cena, todo novo personagem. Não é um filme para muitos, mas os poucos que o verem irão se sentir satisfeitos por essa viagem no tempo e espaço.
+Interpretado de uma maneira vazia pelo simpático Liver Litondo, Maruge não consegue despertar simpatia por si só, mas apenas através de sua história. O que se torna um paradoxo, já que é a mesma pessoa que viveu os flashbacks que acompanhamos durante o filme, inclusive um trauma fortíssimo que fez com que ele não apenas ficasse com medo de apontadores de lápis, mas sem ouvir direito. Porém, Maruge não é alguém de espírito livre que decidiu aprender coisas novas no fim da vida. É um velho teimoso que quer provar um ponto.
+
+Ponto esse desperdiçado pelo longa ao relativizar os esforços do velho para aprender a ler no último minuto, e banalizado novamente pelo roteiro de Peacock, que enxerga um drama para família com estrutura básica onde reside algo muito mais violento, profundo e politizado.
+
+Este não é um filme para família, apesar de escrito e dirigido para tal. Mas não se pode ensinar as pessoas dessa forma, e nem entrentê-las. Se elas ficam revoltadas pela presença de um velhinho na sala de aula, quanto mais estupidez você acha que encontra nas massas?
+
+Claramente com ideais pseudo-liberais, O Aluno se sabota ao tentar simplificar um tema, e embora tenha um estilo competente, traz uma história fraca como pano de fundo. Fica a sensação de que poderia ser melhor... mas na verdade acho que não.
 

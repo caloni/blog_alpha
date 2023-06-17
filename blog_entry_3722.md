@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-03-10'
-link: https://www.imdb.com/title/tt2173244
+date: '2019-06-10'
+link: https://www.imdb.com/title/tt0497986
 tags:
 - movies
-title: Tiempos Felices
+title: Time - O Amor Contra a Passagem do Tempo
 ---
 
-Este é o clichê versão argentina daquela comédia onde o namorado quer se separar mas não consegue dizer para a namorada. A partir daí você já deve conseguir concluir que verá aquela velha cena dele imaginando que está se separando e as possíveis reações da sua ex-amada.
+Você sempre sai de um filme do diretor coreano Kim-Ki Duk (Fôlego, Pieta, Primavera Verão Outono Inverno e Primavera,  Tipo Ruim) pensativo. É uma marca deste cineasta não fechar as pontas e abrir mais algumas. "Time" faz isso, e faz de uma maneira que dá pra se divertir no processo.
 
-Porém, fica pior. Há uma organização secreta com moldes corporativos da década de 50 que promete conseguir a "façanha" de terminar o namoro sem desagradar seu cliente com detalhes como falar a verdade. É através dessa trama que o diretor se esquece completamente de nos surpreender e se entrega a todas as cenas obrigatórias e previsíveis desse gênero surrado: câmeras e escutas escondidas, a estranha sala de espera da tal empresa, as coincidências que fazem o herói perceber o que está acontecendo.
+Ele conta a história de um casal de namorados que após dois anos juntos estão sofrendo um certo desgaste. Ela acha que ele não liga mais para seu corpo e seu mesmo rosto enfadonho. Ela é linda. Ele é mulherengo e distraído. Ela é louca.
 
-Ele geralmente é o último a saber. E nós, espectadores, os primeiros. Isso geralmente não é um bom sinal para risadas, e não é mesmo, já que nem a atuação do protagonista consegue nos entregar qualquer tipo de detalhe inusitado. Aliás, o rapaz é extremamente antipático, e ela uma simpatia obrigada a soar como uma megera. Talvez as atuações estejam trocadas...
+Este é um filme que fala sobre a indústria da cirugia plástica estética, aquela feita apenas para as pessoas se sentirem bem com seu corpo e rosto. Junte isso e a loucura dos relacionamentos monogâmicos e você terá um thriller contemplativo.
 
-Ambientado charmosamente em uma época com pequenas tvs de tubo e um design de arte que evoca o antigo reciclado como um "vintage" saudosista no melhor estilo hipster de cabeceira, com artefatos antigos de tons coloridos escuros misturados pela casa do protagonista, e fora o preto comunzinho da máfia dos corações despedaçados, a impressão é ter pegado o bonde de Medianeras e com isso ter voltado no tempo. O detalhe é que sabemos que o filme se passa em um passado que só existe na cabeça de pessoas do século 21.
+Kim-Ki Duk é um diretor e roteirista que trabalha seus temas com afinco. Ele usa rimas visuais, como o eterno café onde o casal se encontra e faz escândalo, assim como um enigmático bilhete escrito Eu Te Amo inúmeras vezes, um em cima de outro. Quantas vezes na vida as pessoas dizem isso, nem sempre para a mesma?
 
-A dupla de amigos do nosso herói veio daqueles quadros humorísticos de tv. Eles nunca tratam bem os cliente de sua barbearia. As piadas seguem mais ou menos o ritmo televisivo, soando inofensivo, bobinho e nunca tentando nada muito além da velha comédia de esquetes.
+A passagem do tempo é um tema recorrente em sua cinegrafia, assim como a superficialidade da matéria em detrimento ao bem espiritual mais valioso, e aqui recebe um tratamento rústico, quase uma carpintaria abstrata onde não temos certeza do que ele está falando, ou pelo menos não poderíamos verbalizar o que significam os acontecimentos do filme. Quer dizer, poderíamos, mas apenas narrar não soluciona o enigma da vida a dois. E o brilhantismo do filme está em não se esforçar para resolver este quebra-cabeças afetivo, pois cada um de nós terá uma forma de entender.
 
-Tempos Felizes é tudo que não gostaríamos de ver repetido em filme do sub-gênero. Do começo ao fim temos aquele gosto amargo de ver uma versão pastel das comédias românticas que deveria evocar o brega em cada um de nós. Com pouca força, evoca o brega apenas dos produtores.
+Eu sinceramente espero que você não deixe passar em branco a última cena do filme e a entenda como uma rima para o começo. Só assim para que o filme esteja completo. Porém, mesmo sem entender, há um acidente de carro próximo do final que já te deixará pensativo. Time consegue essa proeza algumas vezes.
 

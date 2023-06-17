@@ -1,26 +1,24 @@
 ---
 categories:
 - writting
-date: '2019-10-17'
-link: https://www.imdb.com/title/tt6760876
+date: '2018-12-30T19:20:00-03:00'
+link: https://www.imdb.com/title/tt0475784
 tags:
-- cinemaqui
-- mostra
-- movies
-title: Wasp Network
+- series
+title: Westworld S02 E01-02
 ---
 
-Wasp Network faz o melhor com o que tem para contar uma história confusa sem protagonista definido, e o diretor/roteirista Olivier Assayas nos traz um filme leve quando essa opção seria a única que não poderia ser escolhida.
+Estava com saudade de voltar a escrever sobre Westworld. Agora comecei a ver a segunda temporada, os dois primeiros episódios, já que a temporada acabou. É curioso como o jogo de expectativas não funciona muito bem com uma série que praticamente arrasou logo em sua primeira temporada, que merece ser vista e revista algumas vezes. No entanto, é preciso ser mente aberta para aos poucos compreender o que os criadores da série pretendem.
 
-Com várias estrelas, Penélope Cruz, Wagner Moura e Gael Garcia Bernal, cuja posição política já é conhecida por todos (porque eles simplesmente não conseguem se conter), sabemos desde o começo que a história envolvendo uma Cuba pós-queda da URSS em plena decadência econômica se trata de uma fachada pobre e sem imaginação quando um piloto de Cuba foge para Miami, é acusado de desertor pelo governo e fala coisas horríveis do regime comunista, em uma trama que irá se desdobrar de maneira impressionante e inexplicável.
+O reinício da série lembra uma tentativa em refazer todos os conflitos da primeira temporada, mas de uma maneira pouco criativa. Os robôs tomam conta de suas próprias vidas, pelo menos as duas garotas mais promissoras, a doce Dolores (Evan Rachel Wood) e a ácida Maeve (Thandie Newton). Dolores era a cobaia do experimento da busca pela consciência. O experimento foi bem sucedido pelo diálogo existencialista que ela insiste em dizer sempre que ela e seus seguidores, incluindo seu amante de suas narrativas, Teddy (James Marsden), param em um lugar para punir seus agora inimigos: humanos.
 
-Porém, esta é a história inicial que acompanhamos por mais da metade deste longuíssimo filme: cubanos se unem em um movimento humanitári em solo americano para resgatar e dar apoio a refugiados que fogem do país sem condições de sobrevivência. Este movimento paga bem aos pilotos dispostos a lutar pela causa, então não há problema em ser patriota e ao mesmo tempo ganhar a vida em Miami. É como se diz na América, uma situação win-win.
+Mas é época de vingança, e ninguém melhor para liderar uma revolução do que a dona do prostíbulo, Maeve, que aprendeu por conta própria a usar uma falha em seu sistema de apagamento de memória para insurgir como o conjunto de tudo o que viveu e tudo o que lhe fizeram. Ela é ódio puro, mas sob controle do autômato com o maior QI a andar livre por aquelas terras. Por ser negra e ter perdido sua filha na narrativa passada, a metáfora sobre escravidão e dívida história está no ar. Rodrigo Santoro como o impiedoso Hector vira seu interesse amoroso, embora aqui, para ficar claro, os interesses amorosos de fato são os homens, que seguem suas mulheres líderes da revolução.
 
-O que faz este ser um filme longuíssimo é que ele se desdobra em outra história muito tarde, e por mais intensa que seja sua reviravolta, nos forçando a reinterpretar rapidamente os objetivos de cada um na história, ela continua soando rasa. Isso porque unindo tráfico de drogas, terrorismo e militância, o roteiro de Assayas se esforça para não fugir muito dos fatos históricos (apesar dos letreiros dizer ser apenas inspirado em fatos reais) e ainda precisa tornar interessantes as trajetórias pessoais de cada um dos envolvidos.
+A série também vê necessidade de explicar, ou apenas mostrar de maneira onisciente, os momentos do passado que culminaram na compra do parque por Wyatt (Sorin Brouwers), ou o Homem de Preto (Ed Harris). Como ele ainda está no jogo, seguindo os passos que Ford colocou para ele, não me parece nada inesperado seu encontro com Dolores. O que me parece inesperado são momentos e diálogos tão inspirados quanto os da primeira temporada. E nem espero pelas reviravoltas que vimos.
 
-Porém, assim como Bacurau, este é um filme sem protagonistas e com a bússola moral quebrada. Ele define a alegoria (ou espantalho) de uma Cuba comunista onde as pessoas morrem de fome de maneira porca, para logo depois convenientemente atacá-la. E da mesma forma que o filme 100% brasileiro de Juliano Dornelles e Kléber Mendonça Filho, que une gêneros e realiza truques de camadas para não soar tão ruim, Wasp Network não se importa com a narrativa, desde que haja mais e mais eventos sendo empurrados goela abaixo do espectador.
+Já Bernard (Jeffrey Wright) vira aqui um pouco do elemento gore com tons de terror psicológico, pois vive o desespero de se descobrir máquina apesar de ter acreditado por muito tempo ser humano, e potencialmente isso irá nos mostrar mais filosofia existencialista na trama futura. E mais uma vez (e espero estar errado) não espero nada muito profundo. Algo no nível do Pondé, digamos.
 
-Para piorar, o design de produção está preocupado em tudo menos a história. As músicas usadas para caracterizar cada época (ano?) é completamente desproposital, virando música de fundo que inicia um novo capítulo, e os letreiros de localização, quando não apontam um lugar que todos sabem onde fica, como Havana e Miami, são inúteis.
+Talvez a primeira temporada tenha entregue tudo que precisamos ver sobre a grande questão da singularidade. Agora apenas aprecie o passeio. It's (brainless) show time.
 
-De qualquer forma, Wasp Network não consegue ser um filme ruim. Ele tem a direção do competente Olivier Assayas (Personal Shopper), que nos entrega, cena após cena, momentos que nos deixam interessados em seus rasos personagens independente de seu pano de fundo. Isso quer dizer que ser um filme leve pode ter sido uma péssima ideia, mas, assim como a equivocada comédia As Aventuras de Hugo Cabret, de Martin Scorsese, nas mãos de um diretor habilidoso funciona mesmo assim.
+PS: Importante notar que o casal Jonathan Nolan e Lisa Joy não estão mais na liderança do projeto, que segue por uma equipe diversificada no roteiro e direção. Torçamos para que eles mantenham o legado vivo.
 

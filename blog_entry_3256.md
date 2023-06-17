@@ -1,12 +1,11 @@
 ---
 categories:
 - writting
-date: '2021-04-10'
-link: https://www.imdb.com/title/tt7662364
+date: '2018-02-23'
 tags:
-- animes
-title: Recovery of an Mmo Junkie (Netojuu no susume)
+- food
+title: RedCor Intrigante American Wheat Rye
 ---
 
-Esta série parece bem famosa pelo número de dublagens no Crunchyroll. Ela é fofinha e super-convencional. É sobre uma NEET (vagabunda) que gosta de jogos de MMO (RPG virtual de galera). Então ela conhece uma personagem e vivem flertes virtuais. Ao final do primeiro episódio eles se encontram no mundo real de passagem e um pouco de humor se revela neste anime de reaction e pouca complexidade.
+A cervejaria de Maringá que agora produz suas cervejas em Blumenau oferece um ponto de entrada entre uma Blonde e uma IPA com esta Wheat Rye frutada de corpo médio e amargor constante; é difícil não perceber que ela consegue ser refrescante mesmo mais forte que uma pilsen.
 

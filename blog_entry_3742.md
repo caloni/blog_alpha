@@ -1,14 +1,27 @@
 ---
-categories:
-- writting
-date: '2013-12-22'
-link: https://www.imdb.com/title/tt1532503
-tags:
-- movies
-title: Toda Forma de Amor
+categories: []
+date: '2008-09-12'
+tags: null
+title: Todo programador é um filósofo em potencial
 ---
 
-Um filme que retrata um solteirão em busca do amor após o falecimento do pai, que se assumiu gay aos 70 anos após a morte da esposa. O elo entre esses dois seres é um cachorro deixado de herança que se comunica por pensamento.
+Tivemos uma conversa muito frutífera hoje durante o almoço ao conhecer uma professora que sentava ao nosso lado, exímia conhecedora da mente humana e amante das artes nobres como a filosofia e a lógica. O importante dessa colóquio foi ter encontrado um motivo muito mais forte para gostar de programação do que qualquer outro que já me surgira na cabeça desde que mexo com essas coisas: O computador não deve dar ordens ao homem e este repeti-las como uma máquina. O homem, como ser pensante, deve dizer ao computador o que fazer, e este responder-lhe diligentemente.
 
-É difícil se envolver em uma história que utiliza tantos elementos fajutos tentando soar diferente e modernão. Assim como Minhas Mães e Meu Pai, o fato de abordar temas polêmicos da nossa época não significa que o filme mereça créditos a mais apenas por isso. A necessidade de se auto-afirmar não reside apenas nesse fato, mas também em sua construção de tempos paralelos, onde vemos a relação com o pai (passado) refletir em seu relacionamento amoroso (presente). Mas não há aqui o reflexo que o título Beginners sugere, pois não vemos o pai indeciso ou desconfortável com seu novo relacionamento (diferente de seu filho). Se essa era a tentativa da direção e roteiro de Mike Mills, ela ficou no meio do caminho.
+Para resumir desde o começo essa conclusão, um exemplo paupável: quando fazemos um curso de treinamento, uma especialização, uma faculdadeZINHA ou qualquer outro evento de "aprendizado" que nos propõe a digitar comandos sem fim, repetidamente para um computador, para no final ganharmos um comprovante de que sabemos digitar aqueles comandos decorados e repetitivos como ninguém, isso quer dizer que as coisas vão mal, se e quando tudo se resume a isso.
+
+Por outro lado, ao aprendermos, por nós mesmos ou pelos outros, a usar o computador como a ferramenta que vai fazer de nossas idéias realidade, e nossas criações se materializam de uma forma inimitável, então, somos criadores e comandantes da máquina, e não uma cópia de uma máquina que repete comandos. Então, nesse caso, temos um motivo para viver: criar sempre coisas novas e interessantes que surgem em nossas cabeças.
+
+E ser feliz é isso: achar significado para o que fazemos. É criar. Pura e simplesmente. Quem está sempre criando está sempre satisfeito com sua vida. Pois dá sentido a ela todo santo dia. Isso vale para qualquer profissão interessante o suficiente. Não precisa fazer código. Pode construir móveis, ensinar pessoas ou desenhar uma nova peça de roupa.
+
+Criar é pensar. Programadores pensam em coisas novas todos os dias e as executam. Quando encontram algo repetitivo, organizam o código para não terem que repetir mais a mesma baboseira e voltam a fazer coisas interessantes e originais. Se existe um processo enfadonho e chato, o programador inventa um jeito para o computador fazê-lo, e não ele. E a vida do programador sempre gira em torno desse ciclo: dispensa as coisas chatas mandando o computador fazer e se dedica a fazer coisas novas.
+
+A discussão não parou por aí, pois me levou a entender o vazio que eu sinto ao estudar coisas que não uso nunca. Porque aprender por aprender não vai me levar a lugar algum. Pode até ser perigoso ler coisas que não servem para nada. Me faz parecer inútil.
+
+E não livros longos, ricos em detalhes e que fazem perder o fio da meada ao terminá-lo.
+
+Também me mostra que mais vale a pena aprender a pensar, ou pensar melhor, do que aprender uma nova tecnologia em um livro recém-lançado de 1500 páginas. Quando aprendemos a pensar resolvemos os problemas por nós mesmos, e não por uma formulazinha mágica tirada do saite favorito de bricabraques.
+
+Ser programador é criar. Criar é bom. Criar nos faz felizes.
+
+E é por isso, realmente, que amo o que eu faço.
 

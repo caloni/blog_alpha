@@ -1,22 +1,21 @@
 ---
 categories:
 - writting
-date: '2019-07-29'
-link: https://www.imdb.com/title/tt8443704
+date: '2021-11-13T15:54:02-03:00'
 tags:
+- cinemaqui
+- mostrachinesa
 - movies
-title: Querido Ex
+title: Quero Uma Vida Com Você
 ---
 
-Dear Ex é uma dramédia de Taiwan falada em mandarim filmada em torno de uma estrutura inicial de comédia romântica misturada com novela, mas em seu núcleo esconde a oportunidade de atuações premiadas em uma narrativa que amadurece rapidamente depois que a criança insuportável que começa a história é posta de escanteio.
+Este conto lúdico, evocativo e transcedental do diretor chinês Sha Mo é o melhor "momento Hollywood" que você poderá esperar da edição desse ano da Mostra Chinesa no Brasil. Aqui curtimos o conhecido drama do amor impossível, representado pela barreira financeira que é sempre intransponível nesses filmes. É o choque entre a cultura oriental e a nova vida dos chineses, principalmente dos mais pobres, mas não menos trabalhadores.
 
-Dirigido pela dupla de tailandeses estreantes (no cinema) Mag Hsu e Chih-Yen Hsu, este é um filme cansativo no seu início, pois lembra aqueles trabalhos esquecíveis sobre o drama da separação, da morte, e da pobreza financeira e de espírito. O garoto Jay é órfão de pai há 95 dias e sua mãe está furiosa porque o beneficiário de seu seguro de vida está no nome do seu amante pelo qual ele abandonou a família. Jay é interpretado de uma maneira tão apática pelo ator Roy Chiu que os cineastas são obrigados a editar o filme com desenhos para tornar o resultado mais palatável até chegarmos onde importa.
+Esse casal se conhece desde o colégio, e ele, o intenso Lv Qinyang, faz uma declaração de amor a ela, a espontânea Ling Yiyao, para toda a escola: "me comprometo a dar uma vida digna de inveja para minha amada". Eles estão ainda estudando e tudo é poético, lindo e maravilhoso quando são os adultos que pagam as contas. Então chega a vida real e as portas de um trabalho honesto que pague bem estão fechando em um mundo em acelerado desenvolvimento, e com elas a porta do sonho da casa própria para o jovem casal que, natural, deseja ardentemente se casar. Ela está aguardando por ele, mas suas esperanças estão lentamente sendo drenadas.
 
-E onde importa é quando a viúva Liu Sanlian e o ex-amante Song Chengxi se digladiam com gestos e palavras, geralmente à distância. Note como a linda atriz Ying-Xuan Hsieh envelhece e realiza a transformação de caricatura para ser humano em poucos passos. Enquanto isso, Spark Chen interpreta Song Chengxi como alguém já habituado a ser julgado pela sua orientação sexual e escolhas financeiramente instáveis da vida.
+Mo Sha pincela em sua estreia nos cinemas um retrato muito comum das grandes cidades chinesas, cheias de empreiteiras para onde jorra dinheiro e falta caráter. Para nós, brasileiros, algo semelhante deve nos remeter à memória recente com os programas sociais que injetaram dinheiro "de graça" para as grandes construtoras do país através de fundos bancários de desenvolvimento, distorcendo a relação de oferta e demanda e criando oferta para uma demanda inexistente. O cenário é o mesmo: se o importante é construir mais tetos, eles serão construídos custe a quem custar, e mesmo que ninguém more debaixo deles.
 
-É fácil ter empatia por esse personagem que é uma versão masculina (ou feminina? ou masculina?) de Uma Mulher Fantástica: ele não importuna ninguém e nem sabia que havia dinheiro em sua conta por conta de ter vivido os últimos anos com seu amor. Por isso que a insistência idiota em tornar o garoto Jay um pilar dessa história, se questionando insistentemente em sua cabeça se o ex-amante de seu pai é que é o cara mau, cansa e sem motivos de o ser. Exceto, talvez, uma possível insegurança dos idealizadores do projeto sobre a resposta que os espectadores asiáticos teriam com relação a um personagem gay que é moralmente virtuoso, já que a região não costuma ser tão tolerante a diversidade quanto o Ocidente.
+É nesse horizonte que acompanhamos a saga de Lv Qinyang, interpretado pelo intenso Chuxiao Qu, disposto a tudo para conseguir dinheiro rápido e se casar com sua amada. Desde que os conhecemos por gente eles se adoram, e o roteiro começa com cenas do final com uma contagem de milhares de dias desde que eles se conheceram. Ou seja, este é um grande amor para ser vivido em uma telona à altura. No entanto, além de brincar com o gênero do romance o filme vai aos poucos espremendo nosso coração, que precisa se contentar com uma ficção montada em torno de cacoetes de roteiro, como a simbólica contagem de dias desde que se conheceram.
 
-De qualquer forma, Dear Ex consegue harmonizar a manipulação barata com a boa-vinda do seu Drama (com D maiúsculo), onde tira-se as crianças da sala e se converge toda a novela para momentos mágicos de atuação e edição, que através de flashbacks constroem uma narrativa fabulosa, ligando os pontos do passado nas consequências do presente, fazendo que a todos os espectadores seja revelado quem realmente são essas pessoas.
-
-Sua única falha é que os personagens do filme não são espectadores, não estão assistindo a este magnífico filme, e não têm como serem tocados por ele. Detalhes de roteiro.
+Quero Uma Vida Com Você é um romance, de fato, mas também está inserido em questões sociais que todos chineses vivem hoje em dia. Notem como em quase todo horizonte de filmes dessa Mostra de Cinema Chinês há a figura da construção civil. Este é um país que se tornou um pátio de obras há pelo menos duas décadas, e não há sinais desse projeto mundial arrefecer tão cedo. Enquanto isso as mazelas de jovens e suas paixões de vida ajudam a construir um cinema bem diferente do que estamos acostumados a ver no circuito comercial.
 

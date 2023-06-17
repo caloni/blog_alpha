@@ -1,35 +1,21 @@
 ---
 categories:
 - writting
-date: '2023-01-23T17:09:11-03:00'
+date: '2021-11-16T21:36:17-03:00'
 tags:
-- cinemaqui
-- mostratiradentes
 - movies
-title: Mostra Panorama Série 1
+title: Moulin Rouge
 ---
 
-O vampiro que pensa vozes, de Paulinho Sacramento
+Eu me lembro a primeira vez que assisti esse filme. Foi no fim de semana de estreia. Era a última sessão de sábado. Eu ia de bike sozinho até o shopping. Sabia que nessa sessão era garantido ter lugar disponível, pois ela iria terminar de madrugada.
 
-Paulinho Sacramento vem em resgate do falecido José Mojica Marins, o Zé do Caixão, e apresenta um vampiro trash muito ruim e muito pertinente na dramaturgia do lixão. Ele é o que o título diz que ele é. Ele faz terapia. Ele tenta destruir Bolsonaro com um teaser apontado para a TV. Ele é a síntese do ser politizado desse nosso Brasil antifascista antirascista e antitaxista. O curta é engraçadíssimo em alguns momentos. Em outros ele é apenas ruim, o que não deixa de ser bom. Se há algum curta que merece um longa, este é o cara. À Meia Noite levarei seus cinco reais. Esse seria o preço da sessão.
+Haviam vários casais de pombinhos na sala com lotação pela metade. Entrei com um saco gigante de pipoca. Não sabia nada sobre o filme. Estava na época de assistir qualquer porcaria, crescendo meus conhecimentos cinéfilos. Eu nem era muito fã de musicais. Muito menos romance.
 
-Espectro Restauración, de Felippe Mussel
+Começa o filme. Já estou com minhas mãos sujas de manteiga. A primeira sequência que apresenta a casa de shows parece uma versão da Disney do que é um prostíbulo. A sensação boêmia de não saber onde está, mas ao mesmo tempo curtir tudo isso, ainda é vívida em minha memória. Era a primeira vez que testemunhava a junção de duas músicas icônicas do pop e do rock sendo cantadas juntas, criando uma rima pra lá de original com Lady Marmalade de Christina Aguilera e uma adaptação do som do Nirvana Smells Like Teen Spirit. Logo depois há um pout-pourrit de frases sobre o amor trocadas entre Ewan McGregor e Nicole Kidman em cima de um elefante. Logo mais um número. Depois outro. Eu já estou em delírio.
 
-Experimental e sintético, o objetivo da reflexão de Felippe Mussel é ecológico. Ele monta uma relação entre a floresta perdida e o som das queimadas em um compilado que te obriga a abraçar o não-conformismo com a estrutura e ao mesmo tempo adota uma estrutura simplória para observarmos o que perdemos quando a natureza vai-se embora.
+Estamos em 2001. A montagem de vídeo-clipe está na moda. É a era pós-Matrix, com efeitos sendo a sensação. Sobe um sentimento poderoso sobre o brega e o pop que tomam conta do meu coração. A adaptação de Like a Virgin foi simplesmente a gota d'água. Este filme se torna oficialmente um show de horrores delicioso de se ver. Não consigo desgrudar os olhos e os ouvidos da tela.
 
-Corpo Onírico, de Marina Barbosa Mahmood
+Estou apaixonado. Uma paixão relâmpago como a de Nicole quando olha para Ewan, ainda garoto, cantando sem filtros. E Moulin Rouge é o musical mais gritantemente editado da história. Tudo é falso nesse filme que canta sobre o amor. O joguete é explícito e delicioso de se ver. Nicole está possuída na cena em sua suíte-elefante. McGregor acredita de fato ser a representação de todos os príncipes dos contos de fada encarnado em um boêmio escritor que conhece pela primeira vez absinto antes do que é o amor de verdade. Ele vive a ilusão enquanto nós a respiramos na sala de cinema, infectada com Moulin-Rougeness.
 
-Sem diálogos, a sensação de profundidade e movimento no trabalho de Marina Barbosa Mahmood é no mínimo curioso. Ela bebe da noção do que é sensual das irmãs Wachowski, no sentido que não é algo 100% feminino, mas é sensual sem determinar muito o gênero. São as cores, as curvas e o movimento. Perde-se no significado por não impor um discurso, mas ganha-se em sensações, em volume e em perspectiva.
-
-Cine Pornô – Fragmentos de Desejo e Medo, de Luis Teixeira Mendes
-
-Um filme muito curto quase todo montado em cima de fotografias indiscretas de momentos em um cinema pornô no centro do Rio de Janeiro. Já fizeram trabalhos de conclusão de curso com a temática dos dizeres em banheiros públicos. Trabalhos que fizeram alunos passar de ano e consumiram papel. Não há limites para a insignificância humana dentro da esfera social. Com este trabalho Luis Teixeira Mendes demonstra em cinco minutos como há infinitas horas de nada que preste dentro do audiovisual brasileiro. Uma lição para as próximas gerações. Uma falta de respeito com o pessoal da limpeza.
-
-Claudio, de Calebe Lopes
-
-Almodovariano sem ousar muito. Simbólico ser ousar ser tarantinesco. Há tantas influências fáceis neste trabalho de Calebe Lopes que ele perde a graça por causa do sentimento de Deja Vu. Em algum momento, depois de martelar a imagem de uma noiva usando máscara no meio da noite urbana, a proposta torna-se válida novamente. É o cinema enlatado da repetição. É mais um curta que vale um longa. E mais uma vez, a sessão custa cinco reais. Dois filmes pelo preço de um?
-
-De como me tornei invisível pra caber em meu espírito, de Padmateo
-
-A revelação de que a indefinição de gênero para algumas pessoas pode ser um trauma levado a série pela academia. E quando essa ferida é exposta como arte se torna um misto de vergonha alheia, incômodo coletivo, nojo e repulsa seguidos de pena. A obra íntima e biográfica de Padmateo não poderia ter vindo na melhor hora: a hora da transição. Se trata de cinema experimental de preparação. Senhoras e senhores e senhorus: preparem-se para o pior.
+Hoje, 20 anos depois, revejo este filme com outros olhos. Olhos mais cínicos, talvez. Mas ainda gosto do que vejo. Não bateria palmas como bati (mentalmente) na sala de cinema naquele fim de noite, indo embora pedalando leve e feliz, cantarolando Material Girl. Lá eu queria acreditar no amor. Nossa época não cabe mais essa crença. Algo mudou ou eu mudei? Não consigo assistir a este filme como se fosse a minha primeira vez?
 

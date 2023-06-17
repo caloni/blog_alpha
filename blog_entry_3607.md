@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2015-12-10'
+date: '2016-03-07'
 tags:
 - food
-title: Tarapaca Cabernet Carmenére 2013
+title: Taste Shiraz Cabernet 2013
 ---
 
-Um pouco quente, mas encorpado atrativo; boa cor.
+Um sabor agradável, desce bem; pouco alcoólico.
 

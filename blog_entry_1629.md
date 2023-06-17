@@ -1,98 +1,20 @@
 ---
-categories: []
-date: '2017-03-23'
-tags: null
-title: Forma simples de baixar atualizações remotamente de um cliente para um servidor
+categories:
+- writting
+date: '2018-01-12'
+link: https://www.imdb.com/title/tt0109830
+tags:
+- movies
+title: 'Forrest Gump: o Contador De Histórias'
 ---
 
-A forma mais simples e independente de código para efetuar essa tarefa para Windows é no servidor subir um file server em qualquer porta disponível, e a forma de file server mais simples que existe é o embutido em qualquer instalação Python:
+Difícil não sonhar com este filme. Ele é a síntese da história americana unida com a síntese do seu próprio espírito. Forrest Gump é tudo o que um ser humano médio nunca conseguirá ser, ainda que seu QI seja muito superior ao de Forrest. O que falta em nós e sobra em Forrest é ação. O que sobra em nós e falta em Forrest é o intelecto fruto dos sonhos vazios e incompletos de nossa existência. Dessa forma, Forrest é um ser humano completo como muitos nunca chegarão a sonhar ser.
 
-```
-python -m SimpleHTTPServer
-```
+É claro que estamos falando de uma lenda. Ele nunca existiu, assim como nunca foi condecorado duas vezes na Casa Branca, ou conheceu John Lennon em um programa de entrevistas, ou investiu no mercado de camarões ou na promissora Apple. Nada do que Forrest fez existiu, assim como quase nada que nós pensamos sobre nossas próprias vidas, pessoas de QI médio, foi realizado de fato. Nossa imaginação é mil vezes mais ativa que nosso próprio corpo. É por isso que Forrest existe em nossos sonhos. E sempre existirá. É a lenda do americano que foi lá e fez. Tudo.
 
-Para que não seja necessário instalar o Python no servidor é possível transformar essa chamada em um executável e suas dependências standalone:
+E por algum motivo o roteirista Eric Roth sente necessidade de inserir romance como a base de tudo. O amor de Forrest pela inalcançável Jenny (Robin Wright, mulher do congressista Frank Underwood em House of Cards). Jenny é linda e inquieta. Talvez ela seja inalcançável por ela mesma. Abusada pelo seu pai, sua vida é torta e cheia de percalços. Mas Jenny não realizou nada. Ela é fruto de adoração de uma lenda, e vai entender isso só muito tempo depois.
 
-```
-import SimpleHTTPServer
-import SocketServer
+Consideremos Tom Hanks. Ele é Forrest Gump na vida real. Ele não é muito inteligente, mas um ótimo ator e gente boa. Ele é o cidadão médio que paga seus impostos e ajuda velhinhas quando precisa. O camarada da Academia, ganhador de não-sei-quantos Oscars. Ele é um ator que chega e faz. Alguns resultados deixam a desejar, mas olhe para a fileira de personagens interessantes que ele já interpretou. Ele é Forrest Gump em carne e osso.
 
-PORT = 8000
-
-Handler = SimpleHTTPServer.SimpleHTTPRequestHandler
-
-httpd = SocketServer.TCPServer(("", PORT), Handler)
-
-print "serving at port", PORT
-httpd.serve_forever()
-```
-
-Esse script pode ser compilado pela ferramenta py2exe, instalável pelo próprio Python. É necessário criar um arquivo setup.py na mesma pasta do script e através desse script gerar uma pasta dist com o script "compilado" e pronto para ser executado.
-
-```
-from distutils.core import setup
-import py2exe
-
-setup(console=['fileserver.py'])
-```
-
-Pelo prompt de comando executar o seguinte comando que irá gerar a pasta dist:
-
-```
-python setup.py py2exe
-```
-
-Uma vez gerada a pasta, renomear para fileserver e copiar no servidor em qualquer lugar (ex: pasta-raiz). Executar de qualquer pasta que se deseja tornar acessível via browser ou qualquer cliente http:
-
-```
-cd c:\tools
-c:\fileserver\fileserver.exe
-```
-
-Para testar basta acessar o endereço via browser:
-
-{{< image src="hSnmzqv.png" caption="" >}}
-
-### Lado cliente
-
-Do lado cliente há ferramentas GNU como curl e wget para conseguir baixar rapidamente qualquer arquivo via HTTP. Para máquinas com Power Shell disponível há um comando que pode ser usado:
-
-```
-powershell wget http://127.0.0.1:8000/Procmon.exe -OutFile Procmon.exe
-```
-
-Porém, caso não seja possível usar o Power Shell o [pacote básico do wget do GnuWin32](http://gnuwin32.sourceforge.net/packages/wget.htm), de 2MB, já consegue realizar o download.
-
-```
-c:\Temp\bitforge\wget>dir
- Volume in drive C is SYSTEM
- Volume Serial Number is 5C08-36EE
-
- Directory of c:\Temp\bitforge\wget
-
-23/03/2017  13:25    <DIR>          .
-23/03/2017  13:25    <DIR>          ..
-03/09/2008  17:49         1.177.600 libeay32.dll
-14/03/2008  19:21         1.008.128 libiconv2.dll
-06/05/2005  16:52           103.424 libintl3.dll
-03/09/2008  17:49           232.960 libssl32.dll
-31/12/2008  11:03           449.024 wget.exe
-
-c:\Temp\bitforge\wget>wget http://127.0.0.1:8000/Procmon.exe
-SYSTEM_WGETRC = c:/progra~1/wget/etc/wgetrc
-syswgetrc = c:/progra~1/wget/etc/wgetrc
---2017-03-23 13:44:13--  http://127.0.0.1:8000/Procmon.exe
-Connecting to 127.0.0.1:8000... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 2046608 (2,0M) [application/x-msdownload]
-Saving to: `Procmon.exe'
-
-100%[===================================================================================================================================>] 2.046.608   --.-K/s   in 0,006s
-
-2017-03-23 13:44:13 (348 MB/s) - `Procmon.exe' saved [2046608/2046608]
-
-c:\Temp\bitforge\wget>
-```
-
-E assim com poucas linhas de código já é possível iniciar um client/servidor via http que fornece arquivos de atualização. A própria versão do pacote e detalhes podem estar disponíveis na mesma pasta.
+Talvez Forrest Gump não agrade os pé-no-chão. Mas peço que pense por um instante. Eu sou um pé-no-chão, também, mas entendo quando um filme quer me fazer voar. Nem que seja um pouco. Através desse voo ele irá me mostrar as maravilhas da imaginação. E, melhor ainda, o quanto podemos alcançar se deixarmos essa imaginação de lado. O quão realista isso soa para você?
 

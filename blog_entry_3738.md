@@ -1,20 +1,24 @@
 ---
 categories:
 - writting
-date: '2018-01-12'
-link: https://www.imdb.com/title/tt4809638
+date: '2018-05-26'
+link: https://www.imdb.com/title/tt6060156
 tags:
 - movies
-title: Tô Ryca!
+title: Toc Toc
 ---
 
-Selminha, ou Samantha Schmütz, faz aqui a pobretona padrão brasileira que mora no morro do Rio de Janeiro com sua amiga inseparável e igualmente quebrada Luane. Ambas com nome de pobre (e Selminha é de fato o nome dela, de RG) e sem muitas perspectivas de vida, ambas trabalham como frentista e são obrigadas a passar os perrengues do dia-a-dia de todo pobre: condução lotada, peguetes que não querem saber de compromisso e tudo o que você pode imaginar que os roteiristas Fil Braz e Vitor Brandt inspiradamente obteram do cotidiano padrão brasileiro, ligeiramente pintado como novela global.
+Este é um filme de mau-gosto. Ele explora como comédia diferentes tipos de Transtornos Obsessivo-Compulsivos. E ele não é de mau-gosto por causa do Politicamente Incorreto, mas justamente por causa dele. Como ele é leve demais se torna uma afronta usar a doença dessas pessoas para criar um filme sem graça, com piadas soltas e que não possui sequer personagens reais.
 
-Mas a atriz que faz Selminha não permite o disparate de a tornar uma caricatura à toa. A atriz Samantha Schmütz é eficiente no sentido de construir uma persona que pode participar de outras histórias e representar a pobretona brega e feia. Ela faz imitações guturais de pobre, se indigna como pobre. Ela confessa que rouba papel higiênico do trabalho como vingança (e coloca farofa no prato sem pesar no self-service). Ela está carregada de persona, e mesmo que estereotipada até as pontas desfiadas do seu cabelo, ela não se rende, esgotando sua energia a todo custo.
+Todos neste filme espanhol são estereótipos de criaturas que estão lotando os consultórios de psicólogos e terapeutas, afetados pela vida moderna. Mas são estereótipos fraquinhos, feitos para dar risadas esporádicas. Olhe para o senhor com Síndrome de Tourette, por exemplo, um transtorno em que a pessoa fala palavrões aleatoriamente sem controle. Aqui ele fala palavrões quase sempre a serviço do fraco roteiro de Vicente Villanueva.
 
-A história é clichê, sem sentido, manipuladora e com lição de moral. Ignore-a se conseguir e foque em Selminha. Mas apenas um início: ela ganha uma herança de um parente distante (com direito a pet no leito de morte e vídeo bem produzido demais para ser real) que bate as botas e coloca uma regra bizarra em cima de sua fortuna: para Selminha obtê-la ela terá que consumir sem acumular 30 milhões de reais em um mês. Cerca de um milhão por dia. E ela não pode comprar nada, doar e jogar quase nada. Se ganhar fica com centenas de milhões. Se perder, fica como veio ao mundo (ligeiramente mais, pois de roupas).
+Baseado na peça de Laurent Baffie, Villanueva escreve e dirige um pedaço de cotidiano jogando esses malucos em um consultório aguardando por um doutor que nunca chega. E eles fazem o que é mais provável, claro: começam a tentar curar suas maluquices por eles mesmos.
 
-O resultado é uma gastança brega, divertidinha e com alguns percalços imaginários. Há a trupe de advogados sisudos estilo mafiosos que por algum motivo desejam que Selminha não vença. Há seu secretário que é comprado por um cargo na empresa desses advogados (em vez de parte na fortuna). Há, claro, um dilema em não poder ajudar sua melhor amiga mesmo tendo o dinheiro (e não podendo contar para ninguém sobre o jogo; mais uma regra bizarra da herança bizarra).
+Para a diversão do didático filme há entre os malucos, tirando o que xinga sem querer, uma senhora que é fascinada por sinais religiosos e por conferir dezenas de vezes os registros de água, luz, se a janela está aberta, se as luzes estão apagadas, etc, antes de sair. Ela é interpretada com uma competência desperdiçada por Rossi de Palma, colaboradora frequente do diretor espanhol Pedro Almodóvar.
 
-Presa a um videogame primário, ela decide no terceiro ato se candidatar a prefeita do Rio para assim torrar toda sua grana em uma campanha. Por que não fez isso antes, e por que o secretário dela está tão empolgado com a campanha, já que ela é apenas para torrar grana? Eu não sei, e provavelmente o espectador nunca saberá. Resultado: nunca saberemos.
+Também temos Blanca, cujo nome reflete sua obsessão por lavar as mãos e o medo incessante de micróbios. Para você ter uma ideia do nível dos estereótipos, ela trabalha em um laboratório. A atriz que a faz, Alexandra Jiménez, é famosa também, e começo a me perguntar o que tanta gente famosa faz em um filme desses.
+
+O personagem mais irreverente é Otto, que nas mãos de Adrián Lastra faz um taxista com obsessão em contar coisas. Ele quase sempre nos distrai, junto dos personagens de Paco León e Ana Rujas, do verdadeiro marasmo que é este filme de 90 minutos.
+
+Muitas pessoas devem gostar desse filme como gostam de uma comédia de stand up medíocre porque existem piadas no meio do caminho. As piadas são engraçadas, mas seus personagens não. O que nos leva ao seguinte dilema: aguentar todas essas pessoas presas em um consultório tentando conviver de uma maneira completamente irreal, ou ir assistir a uma comédia de standup, que é feita para isso? O Politicamente Correto traz umas crias às vezes que é difícil de assistir sem ficar com algum cacoete.
 

@@ -1,24 +1,22 @@
 ---
 categories:
 - writting
-date: '2012-09-06'
-link: https://www.imdb.com/title/tt1645170
+date: '2019-08-20'
+link: https://www.imdb.com/title/tt0070707
 tags:
 - movies
-title: O Ditador
+title: O Dorminhoco
 ---
 
-Sacha Baron Cohen possui o melhor de duas comédias que particularmente gosto muito: a com estilo pastelão e a com piadas ácidas, de um humor negro que só é permitido pelas cenas absurdas que sugerem que devemos suprimir nosso sistema moral por cerca de uma hora e meia.
+Essa é uma das comédias pastelão dirigida por Woody Allen, como Tudo o Que Você Sempre Quis Saber Sobre Sexo e Tinha Medo de Perguntar e Um Assaltante Bem Trapalhão. Particularmente não sou muito fã dessa fase inicial do diretor, e nesse caso não é diferente. É uma comédia escrachada com ideias soltas e um roteiro que apenas nos leva em direção às piadas. Mas como isso é Woody Allen ainda resta uma certa textura no final das contas.
 
-O que, se tratando do ator de Borat, não é algo tão difícil de se deduzir. Com sua própria TV narrando a biografia do ditador sanguinário Aladeen, e o nome é um toque tão genial quanto o bigode de Chaplin em Grande Ditador, vemos o protagonista ainda bebê exibindo uma gigantesca barba e um pelo tão espesso que não é possível ver suas genitais. Se isso não for uma dica do que vem pela frente, não imagino o que seja.
+A história foi escrita junto com Marshall Brickman, que foi co-roteirista de Allen neste filme e, acreditem se quiser, em Noivo Neurótico, Noiva Nervosa e Manhattan. Uma curiosidade inútil: Marshall, apesar de ser americano e com pais americanos, nasceu no Rio de Janeiro. Curioso porque as pessoas geralmente vêm para o Brazil fazer os filhos, não dar à luz a eles.
 
-Porém, comédia é um dos gêneros mais subjetivos. Mesmo uma boa comédia pode não cair no agrado da maioria por conter piadas que ofendem sua moral, que resiste apesar das cenas que berram aos olhos que o que estamos vendo é apenas um exercício de absurdo, e tudo é permitido porque ninguém deve levar a sério aquelas bobagens. Bobagens essas que divertem apenas os que entendem a mensagem, que resolveram abrir um pouco a mente e degustar o que é uma comédia original, livre das repetitivas e enfadonhas séries de pseudo-paródias. E entender que, por mais absurdo que sejam as situações que Aladeen encontre pela frente ao visitar a inimiga Nova York, é apenas um pano de fundo para uma discussão um pouco mais profunda sobre as características de um regime político, seja dito democrático ("afinal de contas, a China também é uma democracia") ou ditatorial.
+Esta é uma ficção de futuro distópico que mistura um pouco elementos de Admirável Mundo Novo com 1984, mas que está afim mesmo de brincar com esse futuro alternativo onde há uma máquina de orgasmo e uma pessoa (Allen) foi congelada por 200 anos depois de um problema de úlcera que foi longe demais.
 
-Além de uma comédia física e que apele às vezes para o escatológico e o sexual, há por trás das ideias de O Ditador verdadeiras pérolas de pensamento sobre o tema, como a criativa subversão das palavras perante o magnífico general-comandante, ao ponto de antônimos como positivo e negativo virarem apenas uma palavra: Aladeen. Ou, mais um exemplo, o costume de mandar executar qualquer pessoa ou animal que o desagrade, mesmo que isso seja pegar o brinquedo da caixa de cereal.
+Ele apresenta a estonteante Diane Keaton como Luna, seu par romântico. Juntos, assim como em Um Assaltante Bem Trapalhão, eles tentam sobreviver às loucuras desse tempo, onde o personagem de Allen é procurado por ser um ilegal em um governo ditatorial em que o ditador existe como uma figura estilo Grande Irmão, mas que próximo do final temos uma revelação que é típica do humor do cineasta.
 
-Porém, não é só a ditadura que é vítima de escracho. Estamos na América a maior parte do tempo, e a democracia é, sim, alvo de inúmeras piadas que se engrandecem pelo ridículo. Note, por exemplo, como a união de todas os estereótipos do que seria um ambiente livre de preconceitos e amarras políticas, como é a loja dirigida pela simpática e exageradamente ativista Zoey (Anna Faris), onde até seu nome é um clichê, consegue extrair graça do que seria se tudo que representa a liberdade fosse concentrado em doses extremas.
+Como filme a narrativa é muito pedestre, com efeitos sofríveis, mas há algumas boas tiradas mesmo assim, como uma espécie de bazuca dos militares que nunca funciona e uma mochila propulsora feita com uma hélice risível por cima. Allen aqui demonstra seu timing para comédia física, que não é exatamente incrível, mas ele demonstra tê-la, o que torna o diretor de Manhattan alguém bem mais versátil que poderíamos imaginar.
 
-Não que o filme seja pró-Estado, muito pelo contrário. Melhor do que isso, as situações na maioria das vezes fazem pensar e refletir como alguns conceitos tão enraizados em nossa cabeça, como a visão dos EUA como o símbolo mágico de liberdade, consegue aos poucos ir se desfazendo pela força do ridículo e chegar ao ponto máximo de um discurso irretocável no terceiro ato, digno de extrair lágrimas no meio dos risos.
-
-É esse tipo de detalhe que consegue fazer valer a pena ignorar as bobagens e cenas descartáveis do filme. E é esse tipo de comédia que faz valer a pena sempre revisitar os personagens estereotipados que Cohen consegue como ninguém apresentar em seu pequeno universo.
+Feito para dar risada e fazer pensar muito pouco, O Dorminhoco não é o tipo de filme que eu gosto do diretor, e está longe de ser uma comédia à altura dos clássicos Top Secret ou Apertem os Cintos. É no máximo simpática. Esquecível, divertidinha e simpática. Se você já viu "Tudo Que Você Queria Saber Sobre Sexo...", já viu um Allen bem melhor.
 

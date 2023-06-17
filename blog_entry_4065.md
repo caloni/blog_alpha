@@ -1,25 +1,19 @@
 ---
 categories:
-- writting
-date: '2016-02-17'
-link: https://www.imdb.com/title/tt4284010
-tags:
-- cinemaqui
-- movies
-title: What Happened, Miss Simone?
+- reading
+date: '2019-02-03'
+link: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
+tags: []
+title: Why Facts Don't Change Our Minds
 ---
 
-"What Happened, Miss Simone" é uma coletânea de depoimentos, entrevistas, colagens de fotos e performances que, a despeito de seguir uma ordem cronológica certinha, consegue se tornar uma montanha-russa de emoções e pensamentos acerca da vida da artista e ativista Nina Simone. E mesmo criando um fechamento mais que convencional, desperta em seu final a sensação de que conhecemos talvez menos de 10% do que foi a música, cantora e ativista.
+Você sabe como funciona um vaso sanitário? Tem certeza? Faça o experimento, então: descreva de maneira verbal todos os passos envolvidos no funcionamento de dar descarga em um vaso. Depois pesquise e verifique como ele realmente funciona. Compare a realidade com o seu achismo e exploda sua cabeça.
 
-Mais um filme produzido pela Netflix, que vem se mostrando um foco de documentários com conteúdo riquíssimo, a direção de Liz Garbus (Bobby Fischer Against the World) deixa claro desde o começo que irá dramatizar pesadamente na carreira da artista, que começa já criança tocando piano na igreja onde sua mãe realizava sessões religiosas para os negros da região. Descoberta por uma professora de piano branca, a pequena Eunice Kathleen Waymon recebe uma tutora e já coloca um sonho em sua mente: se tornar a primeira pianista negra de música clássica.
+Mas não se preocupe, você não é o único. De acordo com inúmeras pesquisas desse artigo de Elizabeth Kolbert o ser humano dependeu dessa confiança cega no conhecimento do próximo para conseguir evoluir tão rapidamente desde a idade do bronze. Não era todo homo sapiens sapiens que precisava entender todo o mecanismo por trás da confecção de uma arma ou uma ferramenta rústica dos tempos primórdios. Muitos simplesmente confiavam no que lhe era dado pelo ambiente e sociedade onde vivia.
 
-Esse desejo logo é rejeitado pela instituição onde tenta ser aprovada; não por falta de aptidão, mas por ser negra. Estamos em um EUA segregado, onde atentados ocorrem de tempos em tempos, marcando paulatinamente na memória do povo afro-americano a memória do que seus antepassados sofreram. A jovem Waymon vive isso, e para continuar seu caminho artístico, se submete a tocar em bares que sua mãe ficaria horrorizada de conhecer. E é aí que nasce o nome Nina Simone: um fruto do medo de ser descoberta. A definição de liberdade para Simone não poderia ser mais óbvio: a falta de medo. Não medo de leões na savana africana, mas medo das pessoas em sua volta, seja sua mãe, seu futuro e violento marido ou simplesmente os brancos estranhos que vivem do outro lado do trilho do trem por onde ela caminha ainda criança. A época e o local não eram propícios para o nascimento de uma artista como Simone.
+Até aí há uma grande coincidência em como a sociedade funciona hoje. Claro, se escalarmos nossa evolução ao infinito após a Revolução Industrial, já que praticamente o funcionamento de nada no mundo contemporâneo consegue ser explicado por apenas um ser humano. Pior ainda se ele tentar fazer ele mesmo. Veja a história do cara que tentou fazer seu próprio sanduíche. Ele deveria produzir todos os ingredientes envolvidos em sua produção. Ele demorou seis meses e gastou 1500 dólares no processo. Um mero sanduíche.
 
-Auxiliado pelo testemunho de sua filha, Lisa Celeste Stroud, que também é produtora, de seu ex-marido, seu ex-colega de banda e um inusitado amigo, o filme consegue revelar bastante sobre a persona de Simone como cantora e como pessoa, mas a sensação é só conseguir capturar sua essência durante suas performances em palco. Dona de uma voz extremamente diferente para cantoras femininas, Nina consegue expressar as letras da música que toca de uma forma que parecem torná-las únicas naquele momento.
+No entanto, o assunto do artigo não é esse. Ele parte disso para nos ensinar uma importante lição como lidamos com o conhecimento no mundo e a partir disso demonstra como nem em todas as áreas isso é algo benéfico. No quesito democracia, por exemplo, esse nosso viés é muito ruim, já que as decisões escolhidas por milhões de pessoas não impactam diretamente suas vidas, mas a decisão em si exige conhecimento de cada um. Isso quer dizer que todos os votantes ou apoiadores de qualquer ação de seus governos deveriam estar a par de todo o movimento geopolítico e econômico da atualidade.
 
-Há na história, claro, seus momentos de ativista, quando vai convergindo aos poucos todo seu repertório para temas políticos. Nina participa de maneira tão intensa essa sua fase que sempre a vemos do lado de revolucionários extremistas. Em deteterminado momento diz que fulana a ensinou muitas coisas sobre Marx e Lênin. Em outro momento ela mesma admite que os negros só conseguirão a paz que tanto almejam se criarem seu próprio Estado. Engajada através de sua arte, percebemos que essa é a maneira que ela encontrou para gritar para o mundo o seu desespero interno. E o filme também se engaja, sempre mostrando em seu primeiro ato como o sucesso como cantora e o seu enriquecimento ainda não são suficientes para preencher uma necessidade interna de sua existência. Pelo jeito, a recusa da instituição musical custou caro aos sentimentos da artista.
-
-Porém, os melhores momentos são os últimos, onde vemos uma sequência de anos e décadas sendo narrada de uma maneira coesa e tão intensa quanto os anos 60. Sua fuga para Libéria e retomada da carreira na Suíça são ganchos para que voltemos a ser convidados a entender novamente quem é Nina Simone.
-
-E o mais impressionante de tudo é que, depois de tudo isso, talvez ainda falte uma resposta definitiva. Não que seja decepcionante, como biografias mal-feitas. É que pessoas como ela, passando por esse planeta por 70 anos, foram insuficientes para capturar boa parte de sua essência. Quando sua filha diz que, vendo a mãe já mais velha, percebe que ela não pertence mais à epoca, a resposta é que a época já não pertence mais a ela. Isso resume bem o sentimento de um filme como esse.
+Traduzindo isso na prática, uma intervenção americana na Ucrânia, por exemplo, para ter legitimidade de conhecimento da população, deve supor que todos ou a maioria dos habitantes está a par da situação política nesse país do Leste Europeu. Porém, quase ninguém sabe exatamente onde fica a Ucrânia. E pior: quando pedido aos entrevistados de uma pesquisa para apontar no mapa onde esse país fica, quanto mais distante dos EUA eles apontavam mais sua opinião era intervencionista. Coincidência?
 

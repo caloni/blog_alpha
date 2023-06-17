@@ -1,26 +1,29 @@
 ---
 categories:
 - writting
-date: '2020-04-20'
-link: https://www.imdb.com/title/tt0347149
+date: '2018-08-19'
+link: https://www.imdb.com/title/tt2113681
 tags:
+- cinemaqui
 - movies
-title: O Castelo Animado
+title: O Centenário Que Fugiu Pela Janela e Desapareceu
 ---
 
-É daquelas animações dos estúdios Ghibli que tira seu fôlego logo no começo. Magia e detalhes dos ambientes e paisagens que se misturam em momentos que se tornam mais realistas do que se estivéssemos assistindo a um filme live action, com atores de carne e osso, porque a carne e o osso dos humanos não é evocativo o suficiente para os traços desses desenhistas.
+Este filme tem um longo nome. Tão longo quanto a vida de Allan Karlsson, o centenário que protagoniza essa comédia de erros. A princípio talvez você não entenda o que o filme quer dizer, além do que ele já diz no seu título. Então vai aqui uma dica: não pense, apenas assista.
 
-Por exemplo, não tem como fazer dois seres humanos de carne e osso caminharem no vazio do ar e parecer que estão de fato andando sobre o nada. Mas os estúdios de Hayao Miyazaki consegue, com delicadeza, sinceridade, empenho e um certo charme. Se [Superman: O Filme] pode se gabar de colocar nos letreiros de marketing "você vai acreditar que um homem pode voar", 26 anos depois podemos dizer, finalmente, que um espectador vai acreditar que japoneses animados conseguem andar pelo ar.
+Esse foi também o conselho que Allan recebeu de sua mãe, logo antes dela morrer e logo depois de seu pai morrer, um revolucionário que acreditava que a camisinha salvaria todos da miséria e que acabou sendo fuzilado. Seu problema era que ele pensava demais, dizia a mãe de Allan.
 
-Os detalhes da sala de visitas do tal "castelo" é de nos deixar por horas a observar. Se a casa da bruxa em [A Viagem de Chihiro] já era um capítulo à parte por contar com um design de arte completamente diferente do visto na casa de banhos, aqui o nome Howl (gemido de dor) faz jus a essas referências de magia antiga, demônios e pactos nas mãos de um feiticeiro dominado por um passado tenebroso, cheio de drama quando perde sua impecável beleza. Comum em contos de fadas, como [Branca de Neve e os Sete Anões], nunca havíamos visto essa característica em um bruxo do sexo masculino: ser um escravo da vaidade.
+Então ele aprendeu outra coisa: que gostava de explodir coisas. Foi esse prazer que orientou toda sua vida. E apenas esse, já que ele foi praticamente castrado quando um biólogo racial o analisou e categorizou este sueco como negróide e afeito a comportamento agressivo. Este pode ser um filme simples com um roteiro que te manipula, mas ele é simpático, engraçado em alguns momentos e curioso em outros.
 
-A menina, Sophie, envelhece de uma vez, mas a beleza da animação vai nos mostrando aos poucos suas feições mais próximas. Às vezes ela está menos velha. Suas atitudes a aproximam de quem ela era. É sua postura que a transforma, e isso é alquimia pura traduzida em traços de um desenho. É sutil e poderoso como mágica de verdade.
+Por contar a história de um homem que não pensava muito antes de agir, é inevitável que ele lembre outro filme mais famoso: Forrest Gump, o Contador de Histórias. E não à toa, ambos são peças chave de alguns eventos históricos. Gump na América, Allan na Europa. É por isso que mais de um ditador já gritou com ele, enquanto Forrest foi apenas condecorado inúmeras vezes na Casa Branca.
 
-A equipe de animação dá uma aula de sequências de ação grandiosas. Uma guerra está ocorrendo e nós sentimos o seu peso pela escala e ritmo com que bombas são lançadas de veículos voadores em um mundo onde magia é comum e todos os reinos alistam seus melhores bruxos. Mas ao mesmo tempo esse exagero no final não se sente. Há uma perda desse peso porque o príncipe do castelo não parece estar morrendo. Nós não entendemos muito bem o desespero de Sophie, que se apaixona sem motivos visíveis pelo seu mago estiloso.
+Esta é também uma história que fica indo e vindo entre passado e presente, mas em apenas um momento o passado de Allan será útil para ele no presente. Mas, acredite, para chegar nesse momento você terá que ouvir a história inteira. Apesar de não fazer muito sentido vale a pena.
 
-Muitos elementos fantásticos como em Chihiro não são explicados, e isso não é um problema até o momento em que, assim como Chihiro, o filme sente que deve haver uma conclusão satisfatória para os eventos. E é quando o filme passa a ser sobre os eventos, e não as pessoas, que ele nos perde. A ocidentalização deste filme faz perder sua força na mesma proporção em que aumenta suas vendas pelo mundo.
+Essa também é aquela clássica comédia onde os bandidos vão atrás do herói, mas por uma série de acidentes eles nunca conseguem, só que até você perceber isso já terá se entretido com a história recente de Allan e seus novos amigos e não se importará com a reprise da sessão da tarde, até porque ela é muito bem feita.
 
-[A Viagem de Chihiro]: {{< relref "a-viagem-de-chihiro" >}}
-[Branca de Neve e os Sete Anões]: {{< relref "branca-de-neve-e-os-sete-anoes" >}}
-[Superman: O Filme]: {{< relref "superman-o-filme" >}}
+Alguns personagens somem, como a garota de uma gangue de motoqueiros, e temos até uma amnésia conveniente para colocar a trama de volta nos trilhos, mas perdoamos tudo isso (apesar de não esquecermos) porque já aconteceram coincidências demais na vida de Allan para questionarmos essas bobagens quando ele chega aos seus 100 anos.
+
+Apesar deste ser um "Forrest Gump" europeu sobre um velho solitário e viajante, esta não é uma produção cara, mas o dinheiro gasto é bem aproveitado. Não podemos acreditar, claro, em todas as cenas de pontes explodindo, mas podemos comprar a ideia de um homem sendo jogado da varanda e caindo do sexto andar. Olhe, o diretor Felix Herngren está mais preocupado em ser ágil para evitar os deslizes nos efeitos. Ele também está pensando pouco. Pelo menos no enredo. Na montagem, seus enquadramentos apressados escondem tão bem as trucagens que vira um charme a mais em um filme que já tem um velhinho centenário e uma elefanta.
+
+Com fôlego de sobra para mais um século, O Centenário Que Fugiu Pela Janela e Desapareceu diverte sem muitas pretensões em uma produção barata que parece um pouco mais cara. Isso é tudo que você precisa saber sobre este filme sueco de 2013 que passou despercebido por muita gente, e que agora sendo reexibido em festivais pode ser uma nova chance para cinéfilos compulsivos.
 

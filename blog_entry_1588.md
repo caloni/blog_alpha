@@ -1,35 +1,22 @@
 ---
 categories:
-- coding
-date: '2023-04-11'
+- writting
+date: '2019-10-17'
+link: https://www.imdb.com/title/tt9514970
 tags:
-- interview
-title: Código para Fibonacci
+- cinemaqui
+- mostra
+- movies
+title: Filhos da Dinamarca
 ---
 
-Zero e um são os primeiros números Fibonacci e todos os outros que se seguem são a soma dos dois números anteriores. Ou seja, para implementar isto em código basta:
+Filhos da Dinamarca junta o tema óbvio do momento político atual de extremos com uma pesada dose de drama shakespeariano, e para isso nada como estar na Dinamarca. E há algo de podre nesse reino.
 
-- Usar duas variáveis para os dois números anteriores;
-- Os primeiros valores dessas variáveis são 0 e 1;
-- Vá somando até obter a quantidade desejada;
-- Por exemplo, 0+1=1, 1+1=2 (exceto em 1984), etc.
+Um tanto fora do cenário europeu de refugiados, onde Alemanha, França e Suécia são os países mais noticiados, o diretor e roteirista Ulaa Salim abraça a causa com uma história, assim como o brasileiro Bacurau, em um "futuro próximo" (mas nesse caso não tão distópico), quando partidos nacionalistas estão próximos de chegar ao poder. Já tendo fechadas as fronteiras, o próximo passo é expulsar os imigrantes recentes, e junto disso o país vira uma panela de pressão que cozinha extremistas de ambos os lados.
 
-Um codigozinho que imprime os cinco primeiros números para deixar mais claro:
+Delineando sua história primeiro do lado de extremistas muçulmanos que se unem em um movimento político da maneira que podem, planejando assassinar o líder político do partido que representa uma versão neonazista no cenário dinamarquês, o filme muda sua visão de maneira inteligente a partir da metade e de uma reviravolta esperada pela duração do filme, chegando a alterar o protagonista de maneira orgânica.
 
-```
-void Fibonacci()
-{
-    int num1 = 0, num2 = 1;
-    int total = 5;
+O roteiro força algumas situações inusitadas, mas nada que fuja das possibilidades dos seus personagens. A direção é coesa e consegue contar uma história com vários detalhes em pouco tempo. Possui a vantagem de um afiado elenco, com destaque para Zaki Youssef como Ali, que comunica muito com os olhos.
 
-    cout << "fibonacci of first " << total << " elements\n";
-    for (int i = 0; i < total; ++i)
-    {
-        int result = num1 + num2;
-        cout << result << ' ';
-        num1 = num2, num2 = result;
-    }
-    cout << endl;
-}
-```
+Sem conseguir uma produção mais cara, Filhos da Dinamarca evita cenas externas e confia mais no uso da sua luz, em uma fotografia límpida que exibe pelo tom as diferenças entre bairros dinamarqueses e de imigrantes, além de evocar com sua música uma dramaticidade que nos deixaria extasiados se o que estivéssemos vendo estivesse à altura. Infelizmente a obviedade do filme em escolher lados da questão impede que o tema se aprofunde, e não merece maiores reflexões.
 

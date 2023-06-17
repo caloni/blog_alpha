@@ -1,82 +1,47 @@
 ---
 categories:
 - coding
-date: '2009-11-26'
-tags: null
-title: 'O boot no Windows: NTLDR'
+date: '2020-05-10'
+tags: []
+title: O Bug Mais Bizarro que já Resolvi
 ---
 
-Minhas análises estão demorando muito para ser feitas. Talvez seja a hora de revelar o pouco que sei (e pesquisei) sobre o próximo processo de boot do Windows: o NTLDR.
+Máquina IBM velha e empoeirada. Criptografia blowfish. Assembly 16 bits. Programa residente. E nenhum depurador funcionando. Tudo o que eu tinha se resumia em dois itens de inventário: o conhecimento, adquirido aos poucos do sistema, e minha imaginação. Era uma amena semana de abril em 2008 isolado em uma sala. Tudo que havia em volta eram papéis com anotações feitas. Observava uma nova pista todo dia, embora sem ter muita certeza. Àquela altura qualquer coisa serviria.
 
-{{< image src="galinha-preta.jpg" caption="Galinha Preta" >}}
+Do outro lado da sala, uma estagiária recém-chegada na empresa observava de longe, talvez com uma certa curiosidade, ou medo, daquele rapaz ligar e desligar um desktop empoeirado enquanto a cada aperto do botão de ligar ele olhava fixamente para a tela por uma ou às vezes duas horas seguidas. Ficava a manhã inteira observando um único boot em câmera lenta. A câmera mais lenta possível, dessas que capturam o bater de asas de um beija-flor. Cada movimentação de um registrador demorava vários minutos de reflexão.
 
-O nosso amigo NT Loader pode ser entendido através da leitura do já citado **Windows Internals** ou através de uma outra leitura que estou fazendo atualmente e que [pouquíssimos amigos blogueiros](http://www.driverentry.com.br) irão se lembrar: o [livro da galinha preta](http://www.amazon.com/Windows-File-System-Internals-Developers/dp/1565922492); formalmente conhecido como **Windows Nt File System Internals**.
+Toda essa odisseia começou com o cara do suporte, um sujeito bonachão que atraía os bugs mais bizarros para nossos sistemas só de olhar para eles. Não eram os piores bugs, mas com certeza os mais bizarros. E quando digo bizarro estou falando de bugs que não dá para imaginar acontecendo na vida real. Quando esse sujeito aparecia junto surgiam bugs na própria [Matrix]; um gato preto passa duas vezes seguidas pela porta, mas não caminhando: flutuando próximo do teto.
 
-Para os sabichões de plantão, inclusive os que me criticaram (?) no meu [último texto humorístico](http://www.caloni.com.br/programadores-de-verdade-nao-usam-java) sobre como Java é podre, eu sei que o bicho da capa não é uma galinha, mas um urubu. A troca de urubu por galinha vem do requisito básico para você fazer trabalhos esotéricos, como macumba e desenvolvimento de drivers: uma galinha preta na encruzilhada. Alguns usam [um papel dentro da boca de um sapo](http://www.driverentry.com.br/blog/2006/10/serial-killers.html), mas vai do gosto de cada um. =)
+O sujeito chegou na sala de desenvolvimento falando dessa máquina que tinha acabado de chegar do cliente. Haviam instalado a criptografia de disco. Os dados não estavam perdidos, pois o Windows ainda mostrava o seu logo esvoaçante segundos depois de ligarmos o velho desktop de guerra, que já havia vivido pelo menos duas décadas a vida de escritório e não seria agora que deixaria seus dados sumirem sem mais nem menos. Nada disso. O problema era que se você desligasse e ligasse de novo, nada mais aparecia. Tela preta. Sem logo esvoaçante ou cursor piscando. O disco rígido não se mexia. Era um mistério completo.
 
-E, para os que leram o livro, devem entender que para explicar sobre o funcionamento do sistema de arquivos do Windows, parte intrínseca do funcionamento do próprio kernel, foi necessário ao autor explicar várias partes do kernel, inclusive **sua inicialização**; e é nessa parte que podemos aprender algo mais sobre o NT Loader.
+Mas o bizarro mesmo não era isso, mas o que vinha depois. Você desligava a pobre máquina, novamente. Apertava o botão de ligar. E como uma mulher nos seus trinta ainda não vividos, ela subia com tudo no lugar: logo do Windows, barulhinho irritante da sua tela de boas vindas e as agulhas do disco magnético piscando freneticamente. Tudo certo mais uma vez na terra do Tio Bill. Era possível logar na máquina e usá-la o resto do dia com todos os dados criptografados íntegros.
 
-Podemos aprender, por exemplo, que ele é carregado **logo depois do NT Detect**, que é o executável que dá uma olhada no hardware e ajusta a configuração do boot de acordo com o ambiente encontrado. Após esse ajuste, o nosso amigo NT Loader faz algumas coisas pra lá de interessantes.
+Agora, sim, o bug está completamente descrito: nos boots ímpares a máquina não bootava. Nos boots pares não havia nada de errado (ou vice-versa). Antes que você comece a confabular o que poderia ser, um cacoete que todos nós, programadores, costumamos ter, já aviso que nesse bug não há relação com energia ou memória RAM. Você podia desligar a máquina e tirar da tomada. Ir tomar um café. Uma hora depois coloca a tomada de novo e a liga. A bendita não funciona. Tire a tomada novamente. Mais um café. Desenergizada novamente, botão de ligar. E tudo estava certinho.
 
-O NTLDR é um executável "híbrido" que possui tanto código em modo real quanto código em modo protegido. Com isso podemos supor que é ele o responsável por entrar em modo protegido, uma tarefa que exige [alguns conhecimentos da arquitetura](http://en.wikipedia.org/wiki/Protected_mode).
+A criptografia desse sistema operava em dois níveis, necessários naquela época. O PC é uma monstruosidade construída em camadas legadas, uma em cima da outra. Abaixo de tudo existe a BIOS que controla todo mundo. Até um certo ponto, pelo menos. O que importa é que nesse primeiro momento do boot não existe sistema operacional. Não existe a querida proteção de memória que os SOs implementam (com a ajuda da arquitetura) para isolar os programas, onde qualquer violação de memória é tratada graciosamente com uma mensagem de erro. Não, mano. Aqui é o modo real. Fica esperto, que se um ponteiro ficar doido você vai levar tiro pra tudo quanto é lado. Ou como diria Morpheus: "Welcome... to the desert... of the real."
 
-{{< image src="mRuFXJA.png" caption="ntldr-phase.png" >}}
+Nesse ambiente pesadão e promíscuo, onde as memórias se encostam e trocam de valores sem qualquer pudor, programas residentes se mantém em memória através do famigerado hook de interrupções. Interrupções é como chamamos as funções originais escritas e armazenadas na BIOS. Ponteiros de funções com código carregado da sua memória. Fazer um hook de uma interrupção é se colocar na frente de uma função dessas, trocando o ponteiro de função pelo endereço de sua função na memória. Então, por exemplo, se um programa roda e consegue sobrescrever o endereço da interrupção responsável por escrever na tela, esse programa pode ligar e desligar pixels que o programa original nem imagina. E em vez do logo esvoaçante e inofensivo do Windows, você poderia escrever o que seria o antepassado do gemidão do zap, versão ASCII Art.
 
-Além disso, como o próprio nome diz, ele tecnicamente "sobe" o sistema operacional, pois provê a comunicação entre o hardware (processador e periféricos da máquina) e o software (kernel e drivers de boot). O hardware é o que está espetado na máquina e o kernel é o arquivo **ntoskrnl.exe**; para a comunicação entre eles existe uma camada de abstração, o **hal.dll**.
+No caso de um programa de criptografia de disco a interrupção mais importantes é... acertou: a de disco. Uma interrupção de disco é responsável por ler e escrever dados de e para o disco. No primeiro momento do boot é vital para o sistema operacional que ele consiga ler setores do disco onde ele próprio está armazenado. Ele deve conseguir ler seus dados do disco, mesmo criptografados, e esses dados precisam ser descriptografados antes que exista um driver de criptografia instalado no Sistema Operacional no ar. É o dilema do ovo e da galinha. É aí que entra o que chamamos de programa residente, o que contém a função de criptografia e cujo endereço é colocado no lugar da interrupção da BIOS para comandos de disco.
 
-Esses dois arquivos, juntos dos drivers de boot, são carregados pelo NTLDR.
+É claro que contando isso para vocês a posteriori parece mais fácil, mas meu primeiro instinto foi espetar o WinDbg, o depurador de sistema do Windows, nessa máquina. Porém, rapidamente descobri que não existia sistema operacional para ser depurado. O Windows nem conseguiu subir ainda, quanto mais deixar as pessoas depurarem ele. Então a solução foi apelar para o SoftIce 16 bits, um depurador em modo real, que funciona até que bem sozinho. Porém, o próprio depurador já é um programa residente, e não funciona tão bem quando existem outros programas residentes querendo espaço no disco. Como o programa de criptografia instalava um hook na int13 (essa é a interrupção de disco), as sessões de depuração nessa fase ficavam estranhas rapidamente. O depurador de modo real travava nas primeiras passadas de código. Não havia memória o suficiente ou as chamadas das ints entravam em conflito. De qualquer forma, quando memória entra em conflito no modo real, o barato fica loko, e o jeito é começar tudo de novo em um novo boot (par ou ímpar, mas sempre o segundo).
 
-Depois de todo aquele trabalhão do setor de boot para analisar o sistema de arquivos, achar o NTLDR, carregá-lo na memória e executá-lo, o controle passa para o nosso amigo híbrido, ainda em modo real. Ele então abre a partição de boot e procura pelo arquivo boot.ini (estamos falando de um boot antes de bcdedit, mas o funcionamento seria aproximado). Como o driver do sistema de arquivos ainda não subiu, isso quer dizer que o NTLDR usa o próprio código embutido para interpretar uma FAT, NTFS ou outros sistemas suportados (um dos motivos por que não é possível instalar o Windows em um [ReiserFS](http://pt.wikipedia.org/wiki/ReiserFS)).
+Então o jeito foi usar o debug.com. Este era um programa que vinha no pacote MS-DOS e em alguns Windows mais velhos que consistia em um depurador de modo real. Era possível carregar um segmento de um arquivo ou da memória real para este depurador e ele seguia passo a passo para você a execução do programa. Em assembly de modo real, claro. Esse foi o jeito que eu consegui ir entendendo o fluxo de execução, pois eram muitos valores e variáveis. Eventualmente até o debug.com também travava, mas isso não importava tanto, pois era possível ir mapeando seu funcionamento aos poucos, anotando as descobertas uma a uma em um pedaço de papel. Uma técnica que pode ser interessante se você se encontrar em tal situação é escrever as ints 3 (interrupção de breakpoint) diretamente na memória do programa e deixar ela ser ativada para depois que capotar sobrescrever com o código antigo. Eventualmente isso também travava. Daí nesse momento o jeito era fingir que estava tudo bem e continuar a execução de um outro ponto, anotando em um pedaço de papel o estado dos registradores e da memória até o momento, para depois ir ligando os pontos.
 
-Nesse ponto o nosso amigo loader faz o que todo mundo já fez na infância (não fez?): trocar o modo de tela fazendo uma chamada para a BIOS para modo texto 80x50 em 16 cores. Ah, ele também faz algo que eu adorava fazer (você não?): encher a memória de vídeo de pixels pretos para limpar a tela!
+Depois de alguns dias nesse modus operandi o mundo externo importava cada vez menos. Eu só enxergava registradores sendo movidos, valores sendo empilhados e desempilhados. Na hora do café, esse era o meu tema favorito, para desespero dos meus colegas. Comecei a vislumbrar a possibilidade de existir um bug no código do algoritmo de criptografia. O algoritmo usado se chama Blowfish, um cifrador simétrico em bloco. Seu funcionamento é basicamente pegar um bloco de dados a serem criptografados, aplicar uma chave, e cuspir o mesmo tamanho do bloco de volta. Ele se chama simétrico porque aplicando a mesma chave a um bloco criptografado obtém-se o bloco original.
 
-Como ele leu a lista de kernels bootáveis, é isso que ele exibe naquela famosa tela que qualquer um que depura o kernel vê:
+Não lembro como tive esse insight, mas essa alternância típica dos algoritmos simétricos fazia tocar alguns sinos na minha cabeça de que o bug bizarro dos boots ímpares e pares poderia estar relacionado de alguma forma. Só não sabia ainda como.
 
-{{< image src="iJun9Gw.png" caption="é ele que exibe o menu de boot do sistema operacional??" >}}
+Pois bem: bora aprender como funciona esse algoritmo, passo a passo, pois o código usado no sistema estava obviamente escrito em assembly. Não é um código difícil em C, mas um tanto extenso em Assembly. De qualquer forma, tudo é possível se você está trancado em uma sala sem ninguém para importunar. Tudo que você precisa é de tempo e paciência. E café. Não se esqueça do café.
 
-Escolheu seu boot, é a partir daí que ele acha o executável do kernel: **ntoskrnl.exe**. Ele deve estar na pasta system32 (em ambientes 32 bits). Também é nesse momento que é carregada a HAL (hal.dll) e isola-se o hardware do software a partir daí. As DLLs que esses dois componentes dependem são identificadas e carregadas na memória.
+A semana passou rápido. Tudo que me lembro é que de fato foi uma semana de 40 ou mais horas, embora para mim o tempo tivesse parado. A mágica de estar compenetrado em um problema e fazer parte do problema, e eventualmente da solução, me fez descobrir a origem do bug. E a semana inteira se condensou em alguns poucos momentos de prazer em ter capturado esse desgraçado. Irei descrevê-lo agora.
 
-Agora é hora de abrir o registro. Quer dizer, parte dele. Dentro da pasta system32/config deve estar a [hive](http://en.wikipedia.org/wiki/Windows_Registry#Hives) SYSTEM, que é onde ficam os drivers que devem ser carregados a partir daí em vários níveis. Inicialmente são carregados os que possuem o valor **Start igual a zero**, como o driver Atapi (controlador de disco):
+Tudo começa com o IV: o Initialization Vector. Ele é um array de bytes usado em algoritmos criptográficos para diminuir a previsibilidade da série de bytes resultantes do algoritmo. Sem o IV pode-se usar força bruta com várias chaves até encontrar a certa. Com o IV, que é alterado de maneira previsível, mas difícil de rastrear, a mesma chave gera séries de bytes completamente diferentes, impedindo esse tipo de ataque.
 
-{{< image src="2ewkFhs.png" caption="driver-atapi.png" >}}
+O que estava acontecendo nesse caso para o boot estar intermitente era que, como comentado no [commit que gloriosamente assinei], as escritas em disco durante o boot gravavam a série de bytes com um IV invertido. Portanto, na hora de ler bytes do disco ele entregaria os dados errados, obviamente, e a máquina não bootaria. Porém, como o algoritmo blowfish é simétrico, e pelo boot conter sempre os mesmos dados no disco, uma segunda escrita feita em um segundo boot inverteria o IV já invertido, gravando os dados originalmente invertidos da maneira correta, e a vida nessa versão de boot seguia feliz e contente, com logo esvoaçante até a música de boas vindas do Windows. Bootando pela terceira vez era repetido o problema do boot pela primeira vez, e assim por diante. Essa era a mágica do boot bizarro desta máquina, a única máquina que descobrimos que escrevia nos setores do disco durante o boot. A maioria apenas lia setores onde estava o sistema operacional para carregá-lo.
 
-A partir daí vários componentes do kernel serão carregados progressivamente. Só que a partir do momento que é chamada a rotina interna **KiInitializeKernel** o NTLDR não tem mais nada pra fazer: o kernel, em sua forma básica e primitiva, está carregado.
+Descrevendo a descoberta desse bug hoje, doze anos após o ocorrido, ainda não entendo como consegui descobri-lo. Porém, ele exigiu tanta concentração que me lembro com um prazer indescritível de ter sido capaz de fazê-lo. Todo o tempo despendido se tornou uma marca de felicidade em minha memória, gravada em meu HD temporário desta vida. Lembrarei desses momentos com carinho, e como ela está criptografada também, entenderei que em alguns momentos ela irá soar amarga, mas em vários outros irei ter certeza de ter sido um feito e tanto para um ser humano entender uma máquina em seus detalhes mais obscuros. Esta é a verdadeira felicidade da profissão.
 
-    
-    windbg notepad
-    $$>a<<a href="http://www.caloni.com.br/carregando-dlls-arbitrarias-pelo-windbg-parte-2">scripts\loadlibrary.txt</a> <strong>ntoskrnl.exe</strong>
-
-    
-    0:000> lm m nt*
-    start    end        module name
-    00400000 00629000   ntoskrnl   (pdb symbols)          c:\tools\symbols\ntkrnlmp.pdb\46DFBE2D3E484140A0909F7519B1700A2\ntkrnlmp.pdb
-    7c900000 7c9b6000   ntdll      (pdb symbols)          c:\tools\symbols\ntdll.pdb\6992F4DAF4B144068D78669D6CB5D2072\ntdll.pdb
-    0:000> x ntoskrnl!KiInit*
-    005ef332 ntoskrnl!KiInitializePcr = <no type information>
-    005eefc0 ntoskrnl!KiInitQueuedSpinLocks = <no type information>
-    005ef1de ntoskrnl!KiInitSystem = <no type information>
-    00439ded ntoskrnl!KiInitializeTSS = <no type information>
-    <strong>005eadd2 ntoskrnl!KiInitializeKernel = <no type information></strong>
-    0043aefb ntoskrnl!KiInitializeAbios = <no type information>
-    005e4add ntoskrnl!KiInitMachineDependent = <no type information>
-    0058faa4 ntoskrnl!KiInitializePAT = <no type information>
-    005dde52 ntoskrnl!KiInitializeTSS2 = <no type information>
-    004105e5 ntoskrnl!KiInitializeUserApc = <no type information>
-    00415619 ntoskrnl!KiInitializeContextThread = <no type information>
-    0043afdb ntoskrnl!KiInitializeAbiosGdtEntry = <no type information>
-    005dde01 ntoskrnl!KiInitializeMachineType = <no type information>
-    005e51f7 ntoskrnl!KiInitializeMTRR = <no type information>
-    
-    0:000> u ntoskrnl!KiInitializeKernel
-    ntoskrnl!KiInitializeKernel:
-    005eadd2 6a28            push    28h
-    005eadd4 68c0784300      push    offset ntoskrnl!KiDebugRegisterContextOffsets+0x3c (004378c0)
-    005eadd9 e8a510e2ff      call    ntoskrnl!_SEH_prolog (0040be83)
-    005eadde e8b531ffff      call    ntoskrnl!KiSetProcessorType (005ddf98)
-    005eade3 e8cfffffff      call    ntoskrnl!KiSetCR0Bits (005eadb7)
-    005eade8 e8d334ffff      call    ntoskrnl!KiIsNpxPresent (005de2c0)
-    005eaded 8845e7          mov     byte ptr [ebp-19h],al
-    005eadf0 64a11c000000    mov     eax,dword ptr fs:[0000001Ch]
-
-Veremos nos próximos capítulos como podemos nos aproveitar do ntoskrnl.exe para poder depurar o código a partir daí. Até lá.
+[Matrix]: {{< relref "matrix" >}}
+[commit que gloriosamente assinei]: {{< resource src="o-bug-mais-bizarro-que-ja-resolvi.patch.txt" >}}
 

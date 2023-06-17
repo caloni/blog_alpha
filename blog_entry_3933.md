@@ -1,33 +1,44 @@
 ---
 categories: []
-date: '2016-09-18'
-tags: null
-title: Usando GVim com projetos do Visual Studio
+date: '2008-09-23'
+tags:
+- ccppbr
+title: V
 ---
 
-A vida dos programadores C/C++ Windows -- e que geralmente precisam do Visual Studio -- está um abandono total. A configuração de make dos projetos sempre foi baseada no uso de makefiles, assim como no Unix, e por isso mesmo o uso da ferramenta nmake do SDK do Windows era a maneira padrão de se compilar e ver o resultado de dentro do Vim para projetos Windows. Com o advento do .NET, do Visual Studio 2003 e dos XMLs disfarçados como arquivos de projeto e solution, o uso do makefile foi paulatinamente abandonado, gerando diferentes versões de ferramentas -- todas incompatíveis -- para conseguir compilar um ou mais cpps e conseguir ver o resultado.
+Parabéns a todos que participaram e ajudaram para que todos nós chegássemos ao quinto encontro de programadores/aficionados C/C++. Parece mentira, mas hoje temos capacidade para lotar um auditório razoável, e temos a ousadia de sempre poder contar com uma grade de palestras pra lá de avançadas. Vejamos o que foi visto até hoje nesses últimos três encontros (III, IV e o seminário):
 
-Por isso mesmo é um assunto pouco explorado nos fóruns do Stack Overflow como configurar decentemente o comando :make do Vim para conseguir realizar o ciclor program-compile-debug que já era feito desde a época do Amiga OS (e conhecido no manual do Vim como Quickfix). Ninguém se dá ao trabalho de usar esse modelo torto.
+  * C++ com WxWidgets
+  * O novo padrão C++0x
+  * Threads no C++ ISO
+  * C e microcontroladores
+  * Drivers para Windows
+  * TCP/IP via Boost.Asio
+  * C++ com Qt
+  * Dicas de portabilidade
+  * Programação concorrente
+  * C++ com STL/Boost
+  * Otimização de código
 
-Houve um tempo que eu mesmo pesquisei algumas soluções, e caí no velho problema de tentar conviver com diferentes versões do Visual Studio. Deixei de lado o Vim por uns anos, e passei a usar o VsVim, um plugin que roda em várias versões do Visual Studio e utiliza o vimrc de sua instalação.
+E esse é só o começo.
 
-Hoje voltei a fuçar esse problema e depois de algumas horas tentando entender qual a dinâmica que deve ser seguida, cheguei a dois usos legítimos do make no Visual Studio: o modo legado, através do devenv, e o modo comportado, que usa a ferramenta MsBuild para encontrar o projeto e a solution que devem ser compilados.
+04 de outubro de 2008, São Paulo, Brasil
+	
+  * Ferramentas para programação C++ para Windows por Rodrigo Strauss
+  * Programando com Conceitos no novo C++ por Leandro Melo
+  * Arquivos de memória mapeada no Windows com C++ por Basílio Miranda
+  * Explorando o Windows (Vista & Server 2008) com C++ por Fábio Galuppo
+  * Criando Linguagens Embutidas para Otimização por Felipe Almeida
 
-### Colocando as coisas no path
+08 de novembro de 2008, São Paulo, Brasil
+	
+  * Técnicas de Programação em C para Sistemas Embarcados por Daniel Quadros
+  * Utilização de C++ em Microcontroladores por Luiz Barros
+  * Explorando os 16 bits da Microchip e as ferramentas de trabalho por Daniel Rodrigues
+  * Otimização de código C para sistemas embarcados por Fábio Pereira
+  * Desenvolvimento Embedded no Mundo da eLua por Dado Sutter
 
-A não ser que você coloque o path das ferramentas direto nos comandos (algo que não recomendo pois as coisas no Vim começam a ficar estranhas com paths com espaços, algo abundante no Windows) é preferível que você escolha qual devenv e qual msbuild deseja utilizar e definir isso na variável de sistema path. No meu exemplo estou usando o msbuild para qualquer Visual Studio acima do 2010 (como o 2015), pois já está padronizado, e como tenho projetos no VS2003 para manter, escolhi deixar o devenv.com com ele.
+Se repararam, o número de palestras foi acrescido de um (palestras++) e o tempo para cada uma delas foi ligeiramente encolhido. Espero que esse não seja um empecilho para o desenvolver dos assuntos, pois existem alguns bem delicados acima (como a linguagem embutida e memória mapeada) para serem explicados em cerca de uma hora.
 
-```
-set path=%path%;C:\Program Files (x86)\MSBuild\14.0\Bin
-set path=%path%;c:\Program Files (x86)\Microsoft Visual Studio .NET 2003\Common7\IDE
-```
+É isso aí. Vida longa ao C++! (e ao C! e ao COBOL! e ao FORTRAN!)
 
-Note que essa configuração, para ficar persistente, precisa ser definida através do Painel de Controle ou Propriedades do Sistema. Google for it.
-
-Depois de configurado, qualquer projeto deve ser compilável em 2003 pela linha de comando (através do devenv.com):
-
-```
-C:\Projects\samples\FixCMake>devenv.com FixCMake.sln /build Debug
-
-Microsoft (R) Development Environment  Version 7.10.3077.
-Copyright (C) Microsoft Corp 1984-2001. All rights reserved.

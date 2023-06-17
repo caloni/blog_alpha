@@ -1,18 +1,22 @@
 ---
 categories:
 - writting
-date: '2010-07-20'
-link: https://www.imdb.com/title/tt0054331
+date: '2019-04-26'
+link: https://www.imdb.com/title/tt9381622
 tags:
-- movies
-title: Spartacus
+- series
+title: Special Primeira Temporada
 ---
 
-O primeiro filme de Stanley Kubrick. Kirk Douglas, produtor executivo, substituiu o diretor original, Anthony Mann, após a primeira semana de filmagens. Nessa época Kubrick contava 30 anos de idade, e apesar de ter feito já 4 produções, nenhuma com uma grandiosidade como essa. E o mais impressionante em todo o filme é esse tom épico, com quadros que evocam claramente outro clássico, de Cecil B. DeMille: Os 10 Mandamentos. Vemos a multidão de escravos rebeldes crescendo, formando acampamentos, atravessando vales gigantescos apenas com a vontade de ser livre.
+Tenho algo a confessar: o piloto de Special mentiu para mim. Pensei que seria uma série de humor negro onde alguém com paralisia cerebral seria atropelado constantemente por um carro. Mas não é. Está mais para um programa preenchendo cota para deficientes. E deficiente no caso físico, emocional e mental.
 
-No meio de tudo isso a figura de Spartacus (Kirk Douglas), o nome-título, mais como um símbolo do que como uma pessoa que determina seu destino. Isso é mostrado na cena em que os prisioneiros após a batalha final são convidados a reconhecer Spartacus para se verem livres do castigo de serem crucificados, no que todos dizem "Eu sou Spartacus". No fundo, todos são o mesmo escravo responsável pela luta pela liberdade.
+Nunca é explicado na série o que é realmente um paralítico cerebral, mas a conclusão que chegamos no final é que se trata de uma pessoa que não consegue fazer algumas coisas como amarrar sapatos e embaralhar cartas, mas outras sim, como usar o celular e o computador.
 
-Spartacus, como é visto no filme e interpretado de forma brilhante, desde o início leve até o final cruel, por Kirk Douglas, personifica o homem comum que era o escravo. As cenas em que ele conversa com sua mulher e colegas são as mais significativas, mais contemplativas dessa situação em que ele vive. Seus sentimentos são postos para fora de uma forma tocante e ao mesmo tempo plausível vindo desse personagem que viveu escravo, mas possui o espírito livre.
+Mas só se o computador usar Windows. Essa série é patrocinada pela Microsoft e usam até a Cortana. Quer pior vergonha que isso?
 
-E do outro lado, o senado romano e suas estruturas de guerra eterna são mostradas da maneira mais vívida e realista possível, bem melhor que qualquer livro de história que alguém possa ler sobre esse evento. E a figura de Charles Laughton como senador Gracchus é imprescindível para que tenhamos a exata noção do nível de politicagem que corria solta no senado. Ao mesmo tempo, Laurence Olivier encarna o imperador-general Crassus representando, assim como Júlio César e Caio, aquela parte da elite romana que não entendeu bem ainda o que aconteceu com o Império.
+De acordo com Ryan, sim. Ele fica a temporada inteira mentindo sobre um detalhe que ninguém realmente liga. Atropelado por um carro ou paralítico de nascença, no fundo o único com problemas em aceitar essa condição é o próprio Ryan. E uma série que começa tão bem nas piadas vira um show de autopiedade.
+
+Special se aproxima de outra série Netflix chamada Love, onde toda a trama é tipo um Big Brother do bem e ficção. Os acontecimentos das duas séries em cada episódio são coisas do tipo "agora fulano vai fazer sexo pela primeira vez", e o que acontece? Ele faz sexo pela primeira vez. "Que legal!", exclama a única pessoa que achou o plot interessante (o próprio roteirista).
+
+Chega uma hora que a Netflix pausa e pergunta: "tem alguém assistindo essa série?" (Eles fazem isso quando vc deixa os episódios passando no auto-play). E a resposta é "não, mas pode continuar passando; eu não ligo mais, mas vou escrever sobre essa bosta de qualquer jeito".
 

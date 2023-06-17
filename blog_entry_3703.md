@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2019-05-15'
-link: https://www.imdb.com/title/tt1312171
+date: '2013-04-03'
+link: https://www.imdb.com/title/tt1520211
 tags:
 - series
-title: The Umbrella Academy
+title: The Walking Dead - Segunda Temporada
 ---
 
-Estava assistindo The Umbrella Academy e lá pelo terceiro episódio tive uma ideia genial: assistir já o último. A ideia para um crítico de cinema como eu é clara: não há nada que seja desenvolvido nos episódios intermediários que não será citado ou terá referências no season finale, e se houver não importa tanto assim. Tempo economizado, pretendo fazer isso com todas as séries se o começo não tiver indícios de que o resto seja acima da média.
+Nunca se viu antes zumbis tão realistas e humanos tão inverossímeis. Não é tão difícil acreditar nos mortos-vivos, pois já vimos isso antes em inúmeras obras do que tornou um sub-gênero do terror. Porém, um grupo de humanos como esse tentando sobreviver nessa selva de carne podre (e dentes, claro) é algo inédito e inacreditável. E mesmo assim, é exatamente dessa forma que a maioria de nós vive, o que acaba não dando muitas esperanças caso o universo de George Romero realmente viesse à tona.
 
-Para seguir essa dica, imagine o seguinte: prestando atenção em uma série como em um filme é possível obter todas as informações relevantes em seus primeiros 10 minutos (assim como em um filme). Esta técnica apenas não é recomendada para quem for assistir a série como novela, se identificar com os personagens -- como eu fiz no ótimo Sense8 -- o que me lembra que séries são, sim, novelas glorificadas, já que é nossa identificação com os personagens que permite que vejamos infinitos episódios sobre o mesmo universo. Eu iria até além e encaixaria as séries de filmes, como os da Marvel, Star Wars. Quem diria que Vingadores é a novela mais cara produzida na história do Cinema?
+Baseado na criação de Frank Darabont e com a participação de inúmeros roteiristas e diretores, a segunda temporada de The Walking Dead se passa em uma fazenda que sobreviveu ao apocalipse zumbi, dando a possibilidade de dois grupos distintos interagirem: uma família tradicional e uma outra que se forjou na luta pela sobrevivência. Curiosamente o que vemos é o grupo original se despedaçando enquanto acampam no lugar mais tranquilo até agora na série. O motivo de estarem lá são as crianças: uma desaparecida (Sophia, Madison Lintz) e outra baleada (Carl, Chandler Riggs).
 
-Outro motivo para não seguir essa fórmula é para séries que merecem sua atenção, caro leitor que valoriza seu tempo. Por exemplo, em Breaking Bad, a história de um professor de química que vai se transformando aos poucos em um chefe de máfia é sobre o processo. Então mesmo que você "perca" alguns episódios o processo é valioso. Merece ser assistido do começo ao fim. E mais de uma vez, já que você economizou seu tempo evitando de ver séries bostas por inteiro.
+O ritmo é lento, se arrasta em cômodos 13 episódios. Mas esse não é o problema fundamental da série. Afinal, Breaking Bad se aproveitava do marasmo para criar sua tensão psicológica. Só que em TWD a tensão fica em suas bordas, salpicado aqui e ali com algumas cenas mais fortes. Tirando um zumbi ou outro que aparece quase sempre de repente, podemos dizer que essas pessoas estão tirando umas merecidas férias no campo depois de terem visto Atlanta se dissipar em uma fogueira de humanos. Agora é a tensão entre os humanos que cria o drama.
 
-Outra exceção fica por conta de séries cujos episódios são relativamente independentes e que você pode assistir em qualquer ordem, como South Park e Rick & Morty para animações, ou até Easy por ser breve e que foge do padrão, e, claro, Sherlock, tanto por ser independente e pela sua qualidade narrativa que instiga o espectador.
+Sem muito o que dizer em sua narrativa além de uma possível discussão moral a respeito da lei natural do mais forte, a história se limita em usar o artifício de pessoa ferida, convenientemente inserindo um médico (Hershel, Scott Wilson). Ele, aliás, possui uma crença particularmente peculiar a respeito dos zumbis (ou errantes, como de fato chamam a criatura na série e legendada de forma errada na versão brasileira). Essa maneira atípica de encarar essas criaturas faz sentido vindo de um profissional que dedicou sua vida salvando vidas e constitui a parte que melhor sintetiza a bondade nesse mundo dos avessos.
 
-Mas voltando à série: é descartável. Uma série de heróis da Netflix criada a esmo, embora ela se desenvolva de uma maneira curiosa, unindo o realista com o bizarro. E selecionando músicas para suas cenas como dificilmente vemos por aí. A morte de um bilionário excêntrico que foi o pai adotivo de sete crianças nascidas misteriosamente de mulheres que não estavam grávidas até o momento do parto é o estopim para o luto de todos não pelo pai, mas por um passado que os transformou no que não gostariam de ser. Todos possuem arrependimentos em Umbrella Academy. Alguns no passado, outros no futuro. Sim, porque seis desses sete jovens possuem poderes especiais (daí parecer uma série de heróis). Seis menos uma: a interpretada por Helen Page, uma garota que toca violino e parece saber ou pensar mais do que ela diz. Ela pode ser nossa testemunha ocular por estar de fora e também por ter traído o grupo ao publicar um livro biográfico expondo toda a família.
+Sem medo de repetir os mesmos conflitos e dúvidas, o novo episódio de suicídio, por exemplo, não consegue trazer à tona as mesmas reflexões da primeira temporada. Ele acaba gerando o efeito contrário, banalizando o ato, assim como a morte de maneira geral. Será que já estamos no inferno e não sabemos? Essas almas errantes em que se transformaram os humanos, talvez já esteja habitando também o mundo dos vivos.
 
-Está vendo como pular para o final é muito melhor?
+Ou no fundo talvez tudo não passe de uma série que cresceu devido à sua popularidade e desistiu de ousar, se limitando a picotar sua história em pedacinhos de quinze minutos e esticar para além dos quarenta. Das duas teorias, espero que a primeira esteja correta assistindo à terceira temporada.
 

@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2020-12-08'
-link: https://www.imdb.com/title/tt3845892
+date: '2017-04-16'
+link: https://www.imdb.com/title/tt3538760
 tags:
 - series
-title: 'Sherlock: The Final Problem'
+title: 'Sherlock: The Six Thatchers'
 ---
 
-O último episódio da série da BBC sobre o detetive mais famoso de todos os tempos (e sua família) está longe de ser o melhor de todos, mas assistindo agora em revisita soa melhor do que a primeira vez. Talvez as séries e filmes que assisti nesses últimos três anos não tenham ajudado muito a elevar a sétima arte, com raras exceções. O mundo está muito chato e condescendente com uma barra que talvez nunca tenha baixado tanto em tão pouco tempo.
+Sempre um prazer assistir a um novo episódio da série Sherlock, que atualizou o personagem e o gênero de investigação criminal através de um roteiro, direção e edição que insistem em correr além do espectador, jogando migalhas de pistas para que imploremos por mais. Diferente do [episódio anterior] aqui a história volta para os tempos atuais, e há uma certa mesmice, mas que é explorada com uma certa elegância e que contém em seu terceiro ato uma notícia bombástica e ao mesmo tempo covarde, pois coloca os dois companheiros de volta a um formato manjado, mas não menos apaixonante.
 
-É nesse estado de podridão e perdição que o episódio sobre a irmã perdida e psicopata de Sherlock vem bem a calhar. É a vilã perfeita. Um gênio incompreendido, se torna uma assassina sem pudores, porque "percebeu" desde cedo, observando o mundo em sua volta, que a moral é relativa, que bem e mal são criações úteis para a lei da evolução, mas não tão úteis para quem não consegue enxergar nada além da razão pura.
+A história apresenta novas formas de demonstrar como a mente do poderoso detetive funciona, e faz diferentes montagens com mecanismos de roteiro e elucubrações mentais, além de forçar os personagens de Benedict Cumberbatch e Martin Freeman além de suas atuais situações. O mesmo não funciona para o irmão mais velho de Sherlock, ou até mesmo para Mrs. Hudson, patrimônio britânico intocável.
 
-Então ela se diverte matando pessoas como um jogo e um experimento social. Ela quer entender algum sistema emocional com quem teve mais intimidade, e nesse caso é do seu irmão mais próximo de idade. Ele o leva para lugares de sua mente que ele não se atreveu a explorar em todos os episódios da série, mas agora se torna obrigado a usar como uma arma contra a loucura das deduções perfeitas de sua irmãzinha amiga do finado e celebrado Moriarty.
+No entanto, este exemplar é obviamente superior a tudo que se faz em torno de séries do gênero, e por isso merece ser, assim como a série inteira, degustada sem pudor.
 
-É um final digno. Envolvente. Formulaico, claro, mas envolvente. Não se pode dizer que ele não traz questões no mínimo interessantes, que nos faz pensar no valor das relações humanas. Um caso de família. Uma família de sociopatas, no caso. O episódio é glorificado e, assim como o primeiro, tenta pavimentar o caminho que irá colocar Sherlock Holmes e Watson novamente em um pedestal. Um pedestal moderno, com conexão wi-fi, mas, ainda assim, um pedestal. Imortalizado, e talvez finalizado. Será esse o fim da série?
+ - 2020-12-02: Sherlock já começa a inventar histórias que soam um pouco melodramáticas demais. Porém, foi o jeito para continuar com esta última, derradeira, temporada. Ladeira abaixo, mas ainda bem acima da média.
+
+[episódio anterior]: {{< relref "sherlock-the-abominable-bride" >}}
 

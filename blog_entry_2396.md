@@ -1,16 +1,20 @@
 ---
 categories:
 - writting
-date: '2014-05-10'
-link: https://www.imdb.com/title/tt0085959
+date: '2016-01-05'
+link: https://www.imdb.com/title/tt0050986
 tags:
 - movies
-title: Monty Python - O Sentido da Vida
+title: Morangos Silvestres
 ---
 
-Os comediantes do Monty Python parecem sempre querer se superar. Em O Sentido da Vida, apesar de estarmos vendo diversas esquetes, no melhor estilo do seu programa televisivo The Flying Circus, elas se juntam para tentar explicar, do nascimento à morte, qual é, enfim, o sentido da vida? Pegando emprestados alguns temas mais ou menos comuns com o livro (e pequeno filme) O Guia do Mochileiro das Galáxias, o filme inicia com um pequeno curta (que se juntará ao longa em determinado momento) que consegue, assim como a montagem Eisensteiniana, relacionar um grupo de contadores velhinhos de uma empresa de seguros durante a crise econômica dos ano 80 com um motim dos escravos de um navio.
+Os filmes de Ingmar Bergman tem um efeito hipnótico que é difícil se desvencilhar. Pelo menos para mim. Todo filme que assisto dele, quase morro de sono.
 
-Alguns números musicais ficarão para sempre na memória como o máximo da crítica e arte e divertimento no mesmo pacote. Como esquecer o coro de crianças cantando que "cada espera conta, cada esperma faz o trabalho"? E como tirar da memória a visão daquele senhor imenso que vai ao restaurante comer e vomitar? Por outro lado, a comédia surreal do grupo britânico atinge seu ápice em dois momentos distintos: a visão cósmica de como somos pequenos e insignificantes e a "reimaginação" do paraíso como um show musical televisivo.
+Embalando sua história em um ritmo acalentador, nesse caso nostálgico e dramático, Bergman em Morangos Silvestres mostra que é possível fazer Grande Cinema sem se importar muito com o público. Aqui ele conta a história de Dr. Isak Borg e seus pensamentos a respeito de um dia incomum em sua vida, quando irá receber um prêmio no final dela, mas se questiona se suas decisões pessoais até hoje não foram egoístas. Sua mulher já está morta, sua mãe não. A conversa que tem com sua nora no mínimo revela um caráter desagradável de Isak, mas apenas se você conhecer melhor esse distinto senhor. Como sua governanta já aprendeu, é melhor não dar intimidade ou confiança para essa pessoa.
 
-Tudo na vida é motivo de chacota para Monty Python. Se esse não é o verdadeiro significado da vida, não sei mais o que é.
+Tentando buscar inspiração no conflito bíblico de Isaque, filho único de Abraão com sua esposa Sara. Não o sacrifício de Abraão de seu filho ao deus Javé, mas sua vida familiar. Ele e sua esposa Rebeca tiveram gêmeos, apesar que Isaque acreditava que sua esposa era estéril. Uma questão inversa se coloca entre o filho de Isak e sua nora, que não desejam filhos. Até ela se questionar a respeito do suposto egoísmo por trás dessa decisão.
+
+Viajando facilmente no tempo, quando vemos a adolescência de Isak e uma versão controversa de uma família naquela época, Morangos Silvestres possui seus melhores momentos em suas questões filosóficas, apesar de pecar pontualmente em como estabelece a dinâmica de seus personagens, sempre simbólicos. Quando eles encontram um triângulo amoroso pela estrada, a analogia com a decisão quando jovem de Isak é óbvia demais. Da mesma forma, as discussões eternas entre um outro casal, esse mais velho, quando quase bate de frente com o carro do Dr.
+
+Seja para morrer de sono pelo ritmo de Bergman, ou ficar fascinado pelas questões religiosas e filosóficas do diretor, o fato é que Morangos Silvestres é um filme que deve ser visto pelo menos uma vez em cada fase da vida. Com certeza ele irá resgatar memórias que merecem ser revistas cada vez que damos um passo em direção à inevitável morte.
 

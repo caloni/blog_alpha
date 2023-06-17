@@ -1,11 +1,11 @@
 ---
+
+Não tem muito o que falar de um vinho topzera de uma vinícola topzera. Sabor intenso, equilíbrio entre taninos e o frutado puxando para ameixa.
+
+---
 categories:
 - writting
 date: '2017-05-17'
 tags:
 - food
-title: El Porvenir Icono 2013
----
-
-Seco e frutado. Corpo médio, frutado maduro, cheiro de vinícola. Aberto na degustação de pão italiano com manteiga, queijos e molhos em casa.
-
+title: El Porvenir Laborum Cabernet Sauvignon 2015

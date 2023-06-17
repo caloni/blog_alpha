@@ -1,26 +1,35 @@
 ---
 categories:
-- writting
-date: '2014-10-19'
-link: https://www.imdb.com/title/tt3114390
+- playing
+date: '2023-02-24T16:22:48-03:00'
+link: https://www.chess.com/game/live/71004431307
 tags:
-- animes
-title: Kill La Kill
+- english
+- chess
+title: Keep the advantage in pawn and king final
 ---
 
-"Não fazer sentido é com a gente!", repete a heroína Ryuko Matoi nos capítulos finais do anime Kill La Kill. Parte de sua inspiração vem de sua amiga inseparável Mako Mankanshoku, que muito provavelmente entraria em várias listas de personagens mais carismáticas, engraçadas e "sem sentido".
+Black to move and to keep the advantage there is a much instructive little plan to execute.
 
-Esse é o primeiro trabalho da produtora Trigger, fundada em 2011 por Hiroyuki Imaishi e Masahiko Ohtsuka. Importante notar que ambos faziam parte da Gainax, responsável por trabalhos visualmente ambiciosos como Neon Genesis Evangelion (que inspirou Guillermo del Toro, um idealizador fissurado em animes, a criar uma versão live action chamada Pacific Rim). Por que é importante notar isso? Porque Kill La Kill, embora não se beneficie de um roteiro bem construído, possui uma energia visual tão caótica quanto contagiante.
+{{< image src="board.png" >}}
 
-E por que o roteiro não é tão bom? Tirando uma ou duas reviravoltas particularmente empolgantes -- e bem construídas no decorrer do episódio onde ele se desenrola -- o formato dos episódios segue uma cartilha básica engessada que muitas vezes não encaixa com a história que quer contar. Todos adoram ver o momento Aleluia do alívio cômico da trama, Mako Mankanshoku, mas nem sempre esse momento cabe no meio da tensão de uma batalha ou do desgaste físico e psicológico dos personagens. Além disso, os flashbacks chegam a incomodar de tão mal colocados durante a apresentação da trama, como se cada episódio desconhecesse os próximos, e nada estivesse realmente definido. E o que dizer das surpresas finais que parecem ter sido jogadas de uma tarde de RPG com os amigos?
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.24"]
+[White "cavaloni"]
+[Black "antoneinsanton"]
 
-A direção também comete seus pecadilhos, abusando de repetições engessadas em demasia. Podemos notar isso nos letreiros e apresentações gigantescas (mesmo que estilosas), rituais de transformação reexibidos quadro-a-quadro, como o uso da música-tema de seus personagens mesmo em momentos onde é totalmente inapropriado (como em uma batalha com uma menina que ataca pelo som de sua orquestra).
-
-Tudo isso, porém, é compensado pelas trucagens visuais e uma inspiração que transforma uma gamificação dos personagens em um apelo surreal que funciona maravilhosamente bem: um mangá exagerado e em movimento. A edição é ágil em criar sequências de quadros praticamente paralisados, mas significativos esteticamente (lembrando Dragon Ball Z e Cavaleiros do Zodíaco).
-
-Tenho uma queda particular por filmes (ou séries) que exploram seu tema ao máximo. No caso de Kill La Kill como o tema são as roupas, não dá para negar que é um conceito explorado desde o básico até o mais inusitado. Aliás, as roupas são um lugar-comum tão natural em um mundo dominado por cosplays que até me admiro não ter visto mais trabalhos que explorassem essa relação dos poderes dos personagens e suas roupas. e isso ganha contornos (sem trocadilho) bem mais ambiciosos ao tentar unir a academia cercada de miseráveis, a eleição natural que ocorre e uma guerra onde todos são convocados. E o que dizer quando as explicações se desdobram em cada vez mais analogias.
-
-O seriado ganha realmente força com a primeira reviravolta relevante que dá inicio à sua segunda fase. Parece que a partir desse momento a equipe de Kill La Kill dá uma revitalizada em seus conceitos, se desprendendo ligeiramente das convenções estabelecidas e nos apresenta uma vilã psicótica e suficientemente interessante para rivalizar com Mako (não em alívio comico, é claro). Prova disso é a capacidade sutil dessa vilã de interagir com os letreiros gigantescos que a apresentam, expressando de maneira econômica que passamos para uma nova "camada da Matrix". Até as brincadeiras com metalinguagem, antes batidas, ganham um contorno mais divertido (Mako questiona-se finalmente ter atingido uma posição de destaque, tanto na academia quanto no roteiro). 
-
-Além de ignorar um pouco os chatos discursos expositivos, essa fase de KLK tem uma luta visualmente deslumbrante que agarra duas origens de animação para elevá-la ao máximo de criatividade e expressividade, chegando nesse momento a ser comparável com o espetacular Madoka Mágica (visualmente e até tematicamente). Pena que os roteiristas não conseguiram unir a beleza das lutas caóticas e da estilização das roupas e seus inesquecíveis (pelo menos visualmente) personagens com uma história um pouco menos... sem sentido.
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Nf6 4. Bc4 e6 5. O-O h6 6. Nh3 Bd6 7. d3 exd3 8.
+Bxd3 O-O 9. Bf4 Nc6 10. Nc3 Be5 11. Re1 Bxf4 12. Nxf4 Nd5 13. Nfe2 Ne5 14. Bb5
+Nxc3 15. Nxc3 Qxd1 16. Raxd1 Ng6 17. Rd2 a6 18. Bd7 Bxd7 19. Rxd7 Rac8 20. Red1
+Ne5 21. Re7 Nc6 22. Red7 Rfd8 23. f4 Kf8 24. Kf2 Ke8 25. R7d3 Rxd3 26. Rxd3 Rd8
+27. Ke3 Nb4 28. Rd2 Nd5+ 29. Nxd5 Rxd5 30. Rxd5 exd5 31. Kd4 c6 32. Ke5 Ke7 33.
+g3 g6 34. b4 f6+ 35. Kd4 Kd6 36. a3 h5 37. c3 g5 38. Ke3 g4 39. Kd4 f5 40. Kd3
+c5 41. Ke3 b6 42. Kd3 b5 43. Ke3 Kc6 44. Kd3 Kb6 45. Ke3 a5 46. Kd3 axb4 47.
+axb4 {Black to move and to keep the advantage there is a much instructive little
+plan to execute.} 47... cxb4 (47... Kc6 48. Ke3 d4+ 49. Kd3 dxc3 50. Kxc3 cxb4+
+51. Kxb4 Kb6) 48. cxb4 Kc6 49. Kc3 Kd6 50. Kd4 Kc6 51. Ke5 d4 52. Kxd4 Kd6 53.
+Kc3 Kd5 54. Kd3 Kc6 55. Kd4 Kd6 56. Kc3 Kd5 57. Kd3 Kc6 58. Kd4 1/2-1/2
+```
 

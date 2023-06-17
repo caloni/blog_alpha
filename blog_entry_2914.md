@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2015-12-11'
-link: https://www.imdb.com/title/tt0076666
+date: '2015-12-05'
+link: https://www.imdb.com/title/tt0265666
 tags:
 - movies
-title: Os Embalos de Sábado à Noite
+title: Os Excêntricos Tenenbaums
 ---
 
-John Travolta nos apresenta Tony Manero, o rapaz pobre que trabalha em uma loja de tinta e vive com sua sempre esquentada família italiana. Tony é fã de Bruce Lee e, claro, Rocky Balboa e Al Pacino (que alguém diz que ele é parecido). Ele tem uma irmã mais jovem e um irmão mais velho, que para orgulho da família virou padre (sim, é uma família realmente italiana). Tony gosta mesmo é de preparar seu cabelo e sair pela noite com seus amigos. Eles vão à danceteria e é lá que ele mostra seu potencial como dançarino.
+Esse é um filme sobre família desajustada, feito ainda em uma época onde filmes sobre famílias desajustadas ainda instigavam o interesse do público Tênis Verde. Até porque, geralmente, essas histórias eram perfeitas para produções independentes de baixo orçamento. Dessa premissa saíram pérolas como Pequena Miss Sunshine, alguns anos depois.
 
-Dirigido por John Badham (Short Circuit, Jogos de Guerra), este é um retrato fiel à adolescência de nossos pais, e hoje continua sendo um retrato próximo do que se passa na cabeça de jovens coletivizados em gangues com nenhum pensamento sobre o futuro. E, como o chefe de Tony comenta, "você não fode o futuro; o futuro te fode". Esse também é um filme recheado de ótimos diálogos ("sabe o que quatro dólares compra hoje em dia? nem três dólares"), e personagens que se constroem em uma aura realista quase-documental, roteirizado pelas melhores trilhas do grupo Bee Gees e por Norman Wexler, que transforma a história de Nik Cohn em algo palatável aos poucos, parecendo que não há muito conteúdo, mas há.
+No entanto, uma produção dirigida por Wes Anderson pode ter a vantagem de conseguir alocar atores extremamente conhecidos como Bill Murray, Gene Hackman, Angelica Huston e seus amigos do colégio, Luke e Owen Wilson (irmãos), e Ben Stiller, amigo deste último. Para chamar ainda mais a atenção, o personagem que observa toda aquela loucura (Danny Glover) e a estrelinha de Hollywood, Gwyneth Paltrow, que apesar de costumeiramente não fazer nenhuma diferença, é a chave central de um triângulo amoroso muito estranho.
 
-Travolta é um jovem fino que usa roupas da moda e possui um topete que é atingido pelo seu pai nos jantares de família. Na pista de dança ele protagoniza os melhores momentos de sua vida, e empolga as pessoas que o cercam. É visto como o mais talentoso do clube, e as mulheres se derretem por ele, especialmente Annette (Donna Pescow), que faria de tudo para deitar com ele no banco de trás do carro de um dos rapazes, que acaba engravidando uma garota e passa por uma crise existencial sem saber o que é isso.
+A história é atípica não pelas personalidades de seus personagens, mas pela simetria com que os acontecimentos que giram em torno de suas personas criam figuras dramáticas que irão chamar a atenção justamente por terem nascido do imaginário do quase sempre bibliográfico Anderson (cujo divórcio dos pais quando criança é descrito por ele como o acontecimento mais trágico para ele e seus irmãos, ainda jovens). Dessa forma, os três filhos de um casamento que termina se tornam prodígios em áreas distintas, mas por um motivo ou outro, mudam completamente de rumo. Para entendermos o que aconteceu, é necessário acompanhar todas as interações que ocorrem depois que o pai de família (Hackman) retorna 17 anos depois, dizendo que está prestes a morrer, reunindo no processo todos os familiares em torno do hotel onde vive desde que se separou.
 
-Quando ele conhece a madura Stephanie (Karen Lynn Gorney), ambos começam a treinar para o próximo torneio. Suas conversas não combinam. Ela é a garota certinha que se gaba por conhecer pessoas famosas (mas não famosas para pessoas como Tony). Ele não consegue se comunicar, é um jovem descerebrado, mas nas suas atitudes transparece aos poucos uma personalidade doce e cativante, contra todas as estatísticas do que vemos na casa de sua família. Mas não me levem a mal: não há um bem contra o mal, aqui. Temos apenas uma mãe preocupada e um pai desempregado que apenas critica seu filho mais jovem. As coisas são como elas são.
+Com uma direção de arte única com cores lúdicas e belíssimas estampadas nos detalhes do cenários, nas paredes e nos próprios personagens, Os Excêntricos Tenenbaums é um trabalho primoroso visualmente falando, e mesmo assim não nos deixa perder os detalhes de atuações extremamente afiadas. Flertando com o bizarro e surreal, no fundo é um trabalho mais poético, regado com uma trilha sonora charmosa que lembra uma outra época mais inocente e grandiosa, ainda que com um pouco de pó.
 
-Nos minutos finais, esses elementos inseridos de maneira perspicaz no roteiro de Wexler vira um turbilhão de acontecimentos tensos e angustiantes, que desencadeiam uma tragédia e sintetiza tudo o que vimos até agora. Manero é um rapaz sortudo, afinal de contas. Sabe dançar como ninguém, mas reconhece a realidade que o cerca. Nisso, pode-se dizer que ele é único em sua maneira.
+Se perdendo apenas nos infinitos detalhes dessas pessoas que ficam soltos nos diálogos por onde passam, boa parte do material é aproveitado para fechar o ciclo que se abre, onde podemos dizer que o filme consegue criar um tom harmonioso afinal de contas, forçado um pouco, mas não em demasiado. Perto do que aquelas pessoas representam em tons artísticos, qualquer conclusão a respeito deles teria que ter um ou outro elemento fantástico.
 

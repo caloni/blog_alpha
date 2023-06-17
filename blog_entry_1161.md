@@ -1,50 +1,29 @@
 ---
-
-Este artigo é uma reedição de meu blogue antigo, guardado para ser republicado durante minhas miniférias. Esteja à vontade para sugerir outros temas obscuros sobre a linguagem C ou C++ de sua preferência. Boa leitura!
-
-Em C e C++ as regras de sintaxe são extremamente flexíveis. Essa liberdade toda se manteve no decorrer dos tempos porque se trata de uma das idéias fundamentais da linguagem C, motivo de sua criação. Me lembro certa vez que, bitolado em C Standard 89, usei uma sintaxe não lá muito usual para acessar um elemento de um array. Foi apenas um experimento de estudante, coisa que nunca vi em código algum e queria comprovar.
-
-As regras de acesso a elementos de um array (subscrito) são definidas não em termos do array, mas em termos de um ponteiro e de um índice. "Me dê um ponteiro para T e um inteiro e te retorno um lvalue do tipo T". Essa é a idéia geral. A mesma idéia, com pequenas alterações, se manteve em C++. Eis parte do parágrafo que fala sobre isso:
-
-> 
-> A postfix expression followed by an expression in square brackets is a postfix expression. One of the expressions shall have the type "pointer to T" and the other shall have enumeration or integral type. The result is an lvalue of type "T". (...) The expression E1 [ E2 ] is identical (by definition) to *( (E1) + (E2) ).
-> 
-> C++: International Standard ISO/IEC 14882 First Edition 1998-09-01
-> 
-
-
-Isso traduzido em miúdos quer dizer que com duas expressões formando a construção E1 [ E2 ], sendo uma delas do tipo ponteiro para um tipo e a outra do tipo integral, o resultado é equivalente a *( (E1) + (E2) ). Como no código abaixo:
-
-    #include <iostream>
-    
-    int main()
-    {
-    	char ditado[] = "Diga-me com que programas e eu te direi quem és.";
-    	int indice = 8;
-    
-    	std::cout << "E a linguagem é: " << ditado[indice] << std::endl;
-    } 
-
-A teoria comprovada na prática: temos duas expressões no formato E1 [ E2 ] sendo uma do tipo ponteiro para char e a outra do tipo int, exatamente como a regra define. O detalhe obscuro que permaneceu durante a evolução dessas duas linguagens é que a regra de acesso a elementos não define a ordem das expressões. Assim sendo, me aproveito dessa flexibilidade e inverto os elementos do subscrito:
-
-    std::cout << "E a linguagem é: " << indice[ditado] << std::endl;
-
-Isso também compila e tem o mesmo resultado, pois também é equivalente a *( (E1) + (E2) ). No final dá na mesma. E do jeito que está a inversão nem dá tanto susto assim, pois estamos lidando com duas variáveis. A coisa começa a ficar mais [IOCCC] se colocarmos em vez de uma delas uma constante:
-
-    std::cout << "E a linguagem é: " << 8[ditado] << std::endl;
-
-Isso ainda é válido, certo? Os tipos das expressões estão de acordo com a regra. Fica simples de visualizar se sempre pensarmos no "equivalente universal" *( (E1) + (E2) ). Até coisas bizarras como essa acabam ficando simples:
-
-    std::cout << 5["Isso Compila?"] << std::endl;
-
-Nota do autor: esse tipo de "recurso obscuro" dificilmente passará por uma revisão de código, e com razão, dado que não é um método útil e muito menos conhecido. Sábio é saber evitar. Não acredito, porém, que o conhecimento de certos detalhes da linguagem em que se programa sejam completamente inúteis. Conhecimento nunca é demais, pois quanto mais se conhece maior é o número de ferramentas conceituais que se dispõe para resolver um certo problema. Em muitas vezes o "conhecimento inútil" de hoje se torna um guia sábio quando se precisa de bons conceitos sobre a coisa toda. No entanto, que não venha um [boi-corneta] me dizer que esse código fere as boas práticas de programação. Tenho dito.
-
-[IOCCC]: http://www.ioccc.org
-[boi-corneta]: http://www.google.com.br/search?q=boi+corneta+site%3Asualingua.com.br
-
----
 categories:
-- cooking
-date: '2023-05-28'
-tags: null
-title: Curry Indiano Caseiro
+- writting
+date: '2023-01-23T16:51:22-03:00'
+tags:
+- cinemaqui
+- mostratiradentes
+- movies
+title: Curtas Foco Minas Série 2
+---
+
+Essa rodada de curtas na Mostra Tiradentes explora sensações e experimentos na linguagem. Se trata da sessão leve do dia, pois a seguinte já pega mais pesado no cenário sócio-político. Estes são filmes de momentos, recortes de vidas privadas que evocam nossa identificação ou admiração pelo cineasta ou pela ideia. Ou por ambos.
+
+A última vez que ouvi Deus chorar, de Marco Antonio Pereira
+
+Com a estreia de Cibele Zêodi direto na telona, ela vive uma segunda Maria, uma jovem do interior do Brasil que pode ter engravidado de Deus. Porém, as injustiças do mundo geram um aborto espontâneo. É a figura do mítico sendo derrubada pelo apedrejamento do sagrado nos tempos de hoje, nos dias de cólera. É uma fotografia dissonante, com uma câmera cambaleante. É o estilo do velho Cinema Novo buscando novos espaços em um mundo sem saída.
+
+Não há coincidências ocupando esta carne, de Júlia Elisa
+
+Quinquagésimo filme sobre negritude da Mostra, dessa vez com um foco na didática das escolas em informar sobre a época da escravidão, o filme é uma colagem simbólica de sensações no imaginário negro a respeito do passado traumático e do presente que não consegue existir sem esses fantasmas a trazer a angústia histórica. Mais experimental que ficcional, o trabalho de Elisa cria uma rima com o mais enérgico Caixa Preta, longa que faz dupla dessa temática tão em voga e tão debatida com palavras vazias. Aqui sentimos o poder do audiovisual em ilustrar o berro de protesto sem a necessidade de eloquência ou argumentação. É a dor transformada em imagens e sons.
+
+Aragem, de Ricardo Alves Jr.
+
+Daquele gênero tão colado em produções de curta duração que é o pedaço da vida, Aragem busca pincelar momentos entre as vidas de uma mãe aposentada e sua filha com a agenda cheia. Elas vivem os poucos momentos juntas porque a correspondência de uma ainda é entregue na casa da outra. A mãe está vivendo em algum lugar do litoral brasileiro e surge espontanemente sua vontade de cuidar um pouco do neto. Com isso o diretor Ricardo Alves Jr. treina movimentos batidos da cinematografia brasileira, que de tão parecidos com os recém-saídos da faculdade de cinema vira um clichê. É aquele cinema subjetivo que encontra objetividade no marasmo da introspecção.
+
+Nossa Mãe era Atriz, de André Novais Oliveira e Renato Novaes
+
+Documentário homenagem póstuma à atriz Maria José Novais Oliveira, que aos 60 anos de idade de uma vida de dona de casa decide se tornar atriz e é indicada em Cannes por sua participação em O Quintal. Depois faz mais alguns filmes de relevância ao país, incluindo o muito premiado (e merecido) No Coração do Mundo. Os momentos do curta são obrigatórios para entendermos de onde vem a força de certas personagens. Vem desse sopetão, quando a arte encontra a vida. É um filme burocrático, desejoso de lágrimas ou sentimentalismo, mas sua parte documental está lá em alguns segundos bem filmados.
+

@@ -1,20 +1,26 @@
 ---
 categories:
 - writting
-date: '2020-06-07'
-link: https://www.imdb.com/title/tt0445336
+date: '2020-11-01'
+link: https://www.imdb.com/title/tt5024672
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Vocês, Os Vivos
+title: Walden
 ---
 
-Gosto de filmes assim. Sobre qual assunto? Sobre a vida. Com e sem sentido. Estamos aqui e é isso. Se fôssemos escolher o gênero que filmaríamos vida óbvio que seria comédia. Woody Allen vem dizendo isso há séculos, e ele tem razão. E agora este filme com produção em seis países vem dizer o mesmo, inclusive com a mesma trilha sonora de Allen, em um trabalho instigante e sem muitas respostas prontas. A única é que tudo isso é irrelevante. Então bora assistir TV.
+Nascida em Praga nos anos 60, a cineasta Bojena Horackova busca por liberdade no Ocidente em Paris aos dezessete anos. Várias décadas depois surge Walden, um filme que mistura traços biográficos de sua idealizadora e um tom nostálgico/romântico.
 
-Tons pastéis eternos, a estranheza dos quadros imutáveis, com a câmera parada. Até um prédio inteiro se move, mas a câmera permanece. Isso é entrega total. Muitos olham para nós. Nós somos os vivos. Eles são fruto da imaginação de um. Eles mesmos estão apenas em um filme, e nos contam, olhando para nós, seus desejos e frustrações disfarçados de sonhos. Não são complicados. É a simplicidade que toma conta da tela e nos ensina que não é preciso muito para viver.
+Horackova já desenvolveu suas ideias sobre o passado em "A l'est de moi", um semi-documentário de 2008, mas aqui existe a possibilidade de revisitar mais uma vez a época do comunismo no Leste Europeu em um filme que se localiza geograficamente na Lituânia e é falado em um idioma que pouquíssimas pessoas fora da região conhecem.
 
-Mas mesmo assim esse psiquiatra do filme nos confessa que trata de pacientes egoístas, egocêntricos e mesquinhos por vinte e sete anos tentando fazê-los felizes. Agora desistiu e se contenta em receitar medicamentos mais fortes. Há muitas bandas e tubas, tambores e trompetes. Se há algo na vida que faz sentido este algo é a música, não a psiquiatria.
+Apesar da barreira da língua a história é bem comum: casal de jovens decide que é hora de partir do inferno do comunismo em busca de oportunidades na Europa civilizada. Há empecilhos que ambos devem transpor, mas o primeiro delos é entender o quê querem da vida.
 
-Um homem sonha que está em uma festa de uma família que ele não conhece ninguém. Para quebrar a gelo ele faz pela primeira vez em sua vida o truque da toalha com a porcelana da trisavô da família e a destrói completamente. É sentenciado à morte pela cadeira elétrica. "Tinha 200 anos a porcelana". A sequência vai até o final e os comentários se tornam bizarros pelo incômodo do surreal. "Tente pensar em outra coisa", sugere o carrasco. Ao final o réu onírico conclui: "que invenção horrível a cadeira elétrica!"
+Ele é o que mais deseja partir. Vivendo com os pais e a avó em uma casa que é um cubículo, revende itens no mercado negro até surgir a chance de passar a fronteira.
 
-Este é um filme de sensações geradas por montagens estáticas, cuja câmera nunca se move, por orgulho, e pessoas fazendo coisas triviais no dia a dia, mas sempre com algo fora do lugar. Pode ser que nem todas funcionem com você, mas alguma com certeza você se lembrará sem querer daqui a alguns anos. Não é bizarra a vida? Mais do que a TV com certeza.
+Ela se inspira em suas ações. Gosta de fazer as vendas e enxerga uma possibilidade de ser livre de amarras que nem ela sabia existir no lugar onde nasceu.
+
+O clima de Walden é levemente melancólico. A fotografia cinzenta é típica de filmes da época na região, mas mais significativo é a ausência de pessoas nas ruas e a impressão de estar sempre vigiado.
+
+O filme faz uma guinada interessantíssima a partir de sua metade, juntando uma narrativa décadas depois com parte dos envolvidos. Só descobrimos aos poucos porque não esperamos esse desenrolar específico da história. Acostumados a romances onde os amantes se entregam de corpo e alma, a trama ao mesmo tempo que impressiona faz pensar no passado como fonte de ressentimentos ou de uma nostalgia boa, sobre as origens das decisões que nos fez chegar onde estamos hoje.
 

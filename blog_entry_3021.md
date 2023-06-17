@@ -1,32 +1,20 @@
 ---
 categories:
-- playing
-date: '2023-03-01T18:44:40-02:00'
-link: https://www.chess.com/game/live/71445213705
-tags:
-- chess
-title: Partida difícil de equilibrar
+- coding
+date: '2010-01-18'
+tags: null
+title: Passagem por valor e emails com anexo
 ---
 
-Negras jogam e colocam tudo a perder.
+Mais uma analogia vencedora para ponteiros, chamadas por valor e chamadas por referência: e-mails.
 
-{{< image src="board.png" >}}
+Quando passamos um parâmetro por valor, estamos enviando um e-mail com um arquivo em anexo. Não importa o que o destinatário faça com o arquivo: nós não vamos saber o que foi mudado se ele não enviar uma outra cópia.
 
-```
-[Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2023.03.01"]
-[White "Michigan100"]
-[Black "cavaloni"]
+Por outro lado, ao passar um parâmetro por referência, estamos enviando um e-mail com um endereço de onde está o arquivo. Se o usuário alterar o arquivo diretamente do endereço que enviamos será possível ver essa alteração imediatamente, pois ambos estão olhando para o mesmo valor na memória.
 
-1. d4 g6 2. c4 Bg7 3. Nf3 Nf6 4. Nc3 d5 5. Bf4 Nc6 6. e3 Ne4 7. Be2 Nxc3 8. bxc3
-dxc4 9. Bxc4 e6 10. O-O O-O 11. Re1 Bd7 12. e4 Ne7 13. Qd2 a6 14. Re3 Ba4 15.
-Ng5 b5 16. Bb3 c5 17. e5 c4 18. Bxa4 bxa4 19. Rh3 h6 20. Ne4 Kh7 21. Nf6+ Bxf6
-22. Rxh6+ Kg8 23. exf6 Nf5 24. Rh3 Qxf6 25. Bg5 Qg7 26. Bh6 Nxh6 27. Rxh6 f5 28.
-Qg5 Rf6 29. Re1 Kf7 30. Re3 Rh8 31. Rxh8 Qxh8 32. d5 exd5 33. Re5 Qd8 34. Qh6
-{Torre em d6, b6 e até rei em g8 são lances que mantém o equilíbrio. Porém,
-tentar avançar o peão colocou tudo abaixo.} 34... d4 35. Qh7+ Kf8 36. Qh8+ Kf7
-37. Qxd8 d3 {Brancas jogam e é mate em 1.} 38. Qd7+ (38. Re7#) 38... Kg8 39.
-Re8+ Rf8 40. Qe6+ Kg7 41. Re7+ Kh8 42. Qe5+ Kg8 43. Qg7# 1-0
-```
+A analogia pode ser levada mais longe, com ponteiros de ponteiros: enviamos um e-mail com o endereço de um arquivo; dentro desse arquivo existe um endereço para outro arquivo. Dessa forma é possível tanto alterar o arquivo final quanto o endereço de onde ele está; ou ainda "apontar" para outro arquivo, trocando o endereço de dentro do primeiro arquivo.
+
+Assim é fácil de visualizar que os dados estão sempre em um arquivo que ocupa espaço na memória (do disco ou da RAM), mas endereços também podem ocupar espaço, se estiverem salvos em um arquivo.
+
+Dessa forma, um e-mail que contenha um arquivo em anexo vai ser muito maior que um e-mail apenas com o endereço do arquivo, mas é porque todo o conteúdo do arquivo está dentro do e-mail no primeiro caso. No segundo caso, o endereço ocupa apenas alguns caracteres que identificam a localização do arquivo.
 

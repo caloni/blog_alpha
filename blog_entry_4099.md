@@ -1,17 +1,26 @@
 ---
 categories:
 - writting
-date: '2021-07-31T22:34:13-03:00'
+date: '2016-07-02'
+link: https://www.imdb.com/title/tt2948356
 tags:
-- series
-title: Young Royals
+- movies
+title: Zootopia
 ---
 
-Um trabalho bem sueco, com equipe sueca e casting sueco. Falado em sueco, inclusive. Sobre as idiossincrasias da realeza sueca em tempos de diversidade e discussões sociais.
+Direita x Esquerda? Opressores x Oprimidos? Predadores x Presas? A imbecilidade dos liberais americanos apenas compete com sua genialidade nesse novo filme da Disney, que explora um tema político em um filme para crianças que possui 2 ou 3 piadas bem pontuais, mas que no fundo é muito mais para adolescentes e com conteúdo adulto.
 
-Tudo começa quando um dos herdeiros do trono, o mais jovem, apronta em uma festa e precisa pedir desculpas em público para toda a nação. Internado em uma escola onde são vistos alunos de classes distintas e um pequeno abismo entre elas, o primeiro episódio da minissérie já pontua com precisão os temas que serão abordados durante sua história: a tensão política, juvenil e (portanto) sexual que se delineia entre aqueles representantes da explosão hormonal. Aristocratas, corporativistas e imigrantes serão vistos sob o ponto de vista de seus filhos. Suas relações no início da vida servirão de rima com a versão adulta.
+A história gira em torno de uma coelhinha muito fofinha (Ginnifer Goodwin), mas eu não posso dizer isso porque apenas coelhos podem se referir assim aos seus iguais. Em um mundo com regras sociais de segregação como esse os roteiristas da Disney querem contar uma história sobre viver em sociedade. Percebe a hipocrisia esquerdista espirrando para fora de uma história que tenta desesperadamente soar neutra?
 
-A direção e edição hipnotiza porque é econômica como cinema. É uma mescla sutil entre a redundância da narrativa televisiva e a densidade audiovisual dos trabalhos cinematográficos que costumam começar e terminar em menos de duas horas. Não vem ao caso a duração, mas sim a maneira de contar uma história. Por ela fugir do esquema automático de apresentar personagens e situações com a burocracia de alguém que está apenas cumprindo seu trabalho merece um destaque mínimo.
+A coelha, Judy Hopps (em inglês, "hopp" é salto, mas "hope" é esperança; sutil demais, não?), começa o filme em uma peça de teatro, ainda criança, onde seu amigo segurando um arco-íris diz que agora ninguém precisa se esconder (sutil, novamente), e todos podem ser o que quiserem em Zootopia, o lugar que quer ser o espelho tanto das cidades maconhadas da Califórnia quanto o ícone que é Nova York: uma cidade grande onde todos se respeitam.
 
-Resta saber se o investimento nesse primeiro quarto de hora vale a pena no resto dos outros cinco quartos de hora. Eu acho que não. Há algo que falta no primeiro episódio. Uma provocação autêntica, por exemplo. Nós estamos assistindo a um conteúdo de produção e condução competente, sem dúvida, mas a competência por si só não é suficiente para trazer algo novo. É acima da média tecnicamente falando, mas artisticamente seu conteúdo está drenado da vida do cinema. Como a maioria, ou talvez todas, as produções de streaming. Não se pode investir em conteúdo polêmico. Ou a polêmica está sob o controle do status quo ou não é vendável, se torna chato para as audiências.
+(No fundo, se refletirmos um pouco mais, o filme se situa nesse planeta, mas em uma época distante, milhares de anos à frente, quando os humanos já se foram, e os animais tomaram conta de tudo; mas, infelizmente, continuam se organizando em torno de um sentimento coletivista e no momento estão sofrendo uma crise do politicamente correto. Ou seja, não mudou muita coisa: animais, racionais ou não, continuam estúpidos.)
+
+O sonho de Judy é se tornar uma policial, mas nenhuma coelha jamais se tornou uma. Porém, é exatamente isso que ela se tornou, depois de se dedicar imensamente durante longos anos (onde está o seu deus das cotas, agora?). Seus pais estão preocupados com ela na cidade, principalmente se ela topar com alguma raposa, um elemento que "tem a malícia no seu DNA". E para provar que isso é verdade, depois de algumas reviravoltas, alguns predadores começam a ter um comportamento selvagem, se entregando aos instintos de milhares de anos atrás. Resta a pequena coelha investigar o que está acontecendo.
+
+O jogo político de "Zootopia" e as brincadeiras por trás disso são divertidas, e não tão má-intencionadas como estou descrevendo. Há um filme muito detalhista aí, cuja direção e roteiros coletivos conseguem explorar a questão das diferentes proporções entre os animais, seja dos mais minúsculos como roedores (que possuem uma mini-cidade dentro da cidade) aos mais gigantescos como as girafas (que possuem carros cujo para-brisas é impossivelmente alto para ser alcançado por um guarda de trânsito).
+
+No entanto, talvez por falta de autoestima, o filme sofre por querer pertencer à sub-série de filmes da produtora, como um Carros 2, Aviões e o subestimado O Bom Dinossauro. Tendo algumas influências que tentam transformá-lo em um episódio de TV (de uma possível série explorando a cidade rica em paisagens), o filme frequentemente se esquece de pontuar que é uma história de três atos, e uma até que competente.
+
+Ganhando pontos pela dublagem inspirada de Jason Bateman ("Palavrões") como a raposa Nick Wilde, além de uma fauna rica o suficiente para colocar Shakira novamente no topo das paradas como a top singer Gazelle, "Zootopia" sofre, como muitos filmes, de crise de identidade. Porém, nem isso conseguiu conter o ímpeto artístico de seus idealizadores, que conseguem contar uma história com uma moral distorcida, mas uma moral, até o fim. Sua mensagem pode ser jogada no lixo assim que termina, mas seu universo é interessante do começo ao fim, e permanece na memória como uma coisa boa.
 

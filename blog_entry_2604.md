@@ -1,16 +1,20 @@
 ---
 categories:
 - writting
-date: '2015-01-04'
-link: https://www.imdb.com/title/tt1821641
+date: '2015-07-26'
+link: https://www.imdb.com/title/tt2576852
 tags:
 - movies
-title: O Congresso Futurista
+title: O Conto da Princesa Kaguya
 ---
 
-Essa é a minha visão sobre o futuro. Obviamente, no filme as coisas não saem como o esperado. Mas quem disse que na vida real é diferente? Quantas vezes idealizamos algo e esse algo se perde no meio do caminho para virar outra coisa que, não obstante, parece bater de frente com nossos objetivos iniciais?
+Uma aventura narrada por traços que revelam o que mais importa em seus personagens: o "eu" interior, ou seja, as expressões que os tornam tão únicos quanto complexos. Porém, nunca simplificados, mesmo se tratando de um conto. Aliado a isso, uma música de poucos toques usada nos momentos exatos transforma a experiência em uma imersão completa na moral milenar oriental. Em suma: um desenho imperdível para adultos (e talvez assustador para crianças, mas ainda assim arriscaria levá-las...).
 
-No caso de O Congresso Futurista, a maior falha no roteiro de Ari Folman (de Valsa com Bashir, e que aqui também dirige) baseado no romance de Stanislaw Lem é não conseguir estabelecer com a exatidão necessária qual o objetivo de Robin Wright (House of Cards) em assinar seu último contrato de atuação, que permitirá à produtora "Miramount" (um trocadilho infame entre Miramax e Paramount) deter todos os direitos de atuação da cópia digital da atriz, impedindo que ela atue para sempre ou por um bom tempo. Os cuidados que tem com seu filho Aaron (Kodi Smit-McPhee) não conseguem convencer por si só. Sua face quase sempre enigmática também não ajuda.
+Contando a história da pequena Princesa Kaguya do filme, encontrada próximo a um bambu iluminado justamente por um cortador de bambu, o bebê mágico cresce rapidamente, e junto com ele acompanhamos os momentos mais interessantes do próprio crescimento humano. A felicidade completa está contida na primeira parte da história, onde Kaguya e seus amigos correm e se divertem juntos em um ambiente rural que exala natureza e contato do ser humano com sua essência animal.
 
-Dito isto, a maior virtude do filme se ampara em sua dualidade animação/vida real. Embora todos falem que esse "Admirável Mundo Novo" se trata de um mundo perfeito onde todos são o que desejam ser, os traços e os movimentos utilizados se assemelham muito mais a uma viagem de ácido temporária, pois se alguém permanecesse nesse delírio por mais de um dia com certeza ficaria maluco. No entanto, a breve olhada que temos do real, mas sujo e abandonado "Mundo Selvagem" é o suficiente para entendermos que não se trata de uma escolha entre o paraíso e o inferno, mas entre qual dos dois infernos é o mais suportável.
+Equilibrando com destreza suas metáforas a respeito de nossa vida e o quanto perdemos dessa essência durante o crescimento, a fase no palácio é comparativamente sombria e sem sentido, e é assim que o diretor Isao Takahata (do igualmente profundo Túmulo dos Vagalumes) quer que vejamos essa transição e pensemos se toda essa pomposidade em nossa sociedade realmente faz valer a pena o sacrifício. A época em que a história se passa apenas aguça essa visão, já que Kaguya, depois de oficializada princesa em uma grande festa, é alvo de uma dúzia de pretendentes que nunca a viram, mas que estão dispostos a se casar com ela unicamente para possui-la como um objeto.
+
+A felicidade é o tema recorrente em O Conto da Princesa Kaguya, como vemos o seu pai constantemente pensando na melhor forma de tornar a filha feliz. Se para nós é óbvio como espectadores, a maior virtude do filme seria fazer-nos pensar a respeito de nossa própria vida.
+
+Com um final deslumbrante que conta com cada segundo de música e movimento, a visão budista da partida não se torna religiosa justamente pela mensagem universal que ecoa em sua sequência. Um filme para ver e rever com o passar da idade. Parece longo, como a vida, mas passa em alguns segundos, como o crescimento de uma princesa.
 

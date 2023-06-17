@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2016-10-28'
-link: https://www.imdb.com/title/tt4428774
+date: '2012-03-06'
+link: https://www.imdb.com/title/tt0048356
 tags:
 - movies
-title: Marie e os Náufragos
+title: Marty
 ---
 
-Um filme que atravessa o indie usando uma metalinguagem Kaufmaniana, descobrindo seus personagens no percurso, realizando uma trama eficiente que, por mais absurda que seja, mantém sempre o interesse do espectador.
+O que faz Marty ser um filme tão marcante parece ser os mesmos motivos que fizeram com que [Laços Humanos], clássico de Elia Kazan, hoje fosse imortalizado. O fato é que, apesar do dramalhão quase mexicano envolvendo a família e os amigos do personagem-título, as atuações e os diálogos, principalmente entre Ernest Borgnine e Betsy Blair, tornam muito difícil não gostar de uma história tão humana e tão sensível.
 
-Tudo começa com Siméon, um rapaz desajustado que entra em um bar em Paris e é abordado casualmente por um viajante carente. Ambos cantam no karaokê e se despedem, deixando Siméon com uma triste notícia sobre o recém-amigo. A intensidade da cena muda de acordo com a versão que é tida como verdade, e é sobre isso o filme.
+Ainda assim, é preciso deixar claro que os estereótipos estão aí exatamente para rirmos deles, e não como vemos nos dias de hoje personagens unidimensionais comportando-se como se fossem importantes. Dessa forma, a tia pessimista e agourenta não é mais que uma caricatura, mas que exatamente por ser tão comum em qualquer família, é identificada rapidamente pelo nosso processo de identificação e auto-encaixe.
 
-Cada um dos seus personagens se apresenta em um momento, quebrando a quarta parede e apresentando seu background. Como nos livros. E o filme é sobre um autor de livros, que faz uma pesquisa pessoal para descobrir novas histórias. A obsessão de Siméon e a do próprio escritor pela jovem Marie é o tema do filme/livro, mas o autor só vai descobrir isso até o final.
+Da mesma forma ocorre com todos os outros personagens e com as situações, o que de certa forma transforma a experiência em algo próximo de uma fábula, e exatamente como o trabalho de Kazan, que explora as vicissitudes da pobreza e a fortaleza na estrutura familiar, aqui temos a batida história do filho mais velho que começa a envelhecer do lado da mãe e que aparentente não consegue encontrar nenhum partido para juntar os trapos. Sentimos todas as angústias e preocupações de Marty, e entendemos com isso a felicidade do rapaz quando este consegue finalmente encontrar alguém com quem conversar.
 
-Com personagens um tanto bizarros (esse é o lado indie), como um amigo que se torna sonâmbulo durante um novo projeto para criação de uma música eletrônica, o diretor Sébastien Betbeder faz aqui uma comédia divertida, leve, que utiliza o que tem ao seu redor para criar um universo característico, que enxerga detalhes nas pessoas que atravessa -- como a recepcionista do hotel, sempre ouvindo hip hop -- e se importa com elas, pelo menos em mostrar que elas existem, estão lá, mesmo que sejam passageiras e não tenham muita relação com a trama principal (exceto, claro, a música).
+É com uma estrutura orgânica e fluida que o diretor Delbert Mann, que parece ter feito dezenas de trabalho para a TV e o Cinema, consegue manipular facilmente nossas emoções e nossa empatia com o rapaz. E é com uma facilidade incrível com que o filme consegue ser transposto quase 50 anos depois e manter praticamente os mesmos efeitos benéficos que o imortalizaram. E muito provavelmente direi o mesmo daqui a 50 anos.
+
+[Laços Humanos]: {{< relref "lacos-humanos" >}}
 

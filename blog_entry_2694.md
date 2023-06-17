@@ -1,16 +1,23 @@
 ---
 categories:
 - writting
-date: '2020-04-26'
-link: https://www.imdb.com/title/tt0178585
+date: '2016-12-03'
+link: https://www.imdb.com/title/tt4686692
 tags:
+- cinemaqui
 - movies
-title: O Homem Que Virou Suco
+title: O Ídolo
 ---
 
-O pacote comunista completo anos 80 em um filme imperdível. Ele retrata São Paulo nessa época de maneira tão dinâmica e vibrante que se torna um documentário. Ele desbrava esse preconceito e esses maus tratos com o nordestino sem filtros, e com isso revela não uma ferida do passado, mas um motivo separatista: nordestinos e sulistas são povos distintos com culturas conflitantes.
+O Ídolo possui um começo dinâmico e tocante, mas não usa isso a seu favor no resto do filme. Ele aposta na catarse fácil que já vemos na televisão e em vídeos do YouTube. O que ele acaba fazendo, então, é apenas dar uma cara e uma atuação para mais um personagem da vida real.
 
-Seu herói, interpretado por José Dummont, faz Deraldo e Severino, o mesmo cabra da peste em reencarnações que levaram linhas da vida distintas. Um deles quer ser poeta na grande capital e trabalhar que é bom nada. O outro quer o poder acima de tudo e acaba sendo mau visto por todos os lados. O poeta é repentista, e de repente você não quer mais deixar de acompanhar sua história de abusos e miséria. Ah, como a miséria é um prato cheio de aventuras em nossa terra!
+Porém, pior que isso é usar esse personagem como herói. Por ter uma boa voz e uma boa vontade. A voz ele herda da genética (e um pouco do seu teimoso instrutor de canto), e a boa vontade herda da sua irmã, que possui uma energia admirável. Ela não é apenas uma otimista, mas um ser humano que possui uma visão clara do que é capaz se tentar muito, e tirar do seu caminho tudo que não a ajudar, como uma insuficiência renal e até um possível namoradinho. Diz ela: "eu não tenho tempo para isso". Ela tem 12 anos no máximo. E é interpretada por Hiba Attalah com uma intensidade admirável.
 
-Estão ampliando o metrô da cidade e Deraldo vai lá trabalhar. Tocam um vídeo imperdível, que posso jurar que é real, ou o foi na época, que mostra que aqui na cidade grande o cabra-macho não pode se dar ao luxo de ser um indivíduo e ter seus costumes estranhos de resolver tudo na peixeira. Ele se revolta com uma barata na comida e causa transtorno onde que passa. O que o filme de João Batista de Andrade quer, uma cartilha de protesto em todos os ambientes que o capitalismo gerou, acaba passando despercebido, de tão comum o tema patrocinado por governos como o nosso, quando esta película foi restaurada em 2006 pela Petrobras no meio de casos de corrupção. O que fica em alto relevo é a incapacidade do nordestino se encaixar neste mundo. A única coisa que ele consegue fazer, e mal, é trabalhar e reclamar. Eis o manifesto comunista pós-escassez.
+Essa intensidade com que Attalah personifica a imagem da irmã do talentoso Assaf, a urgência daquelas crianças em tentar sair de Gaza a todo custo e o dinamismo do diretor Hany Abu-Assad (Paradise Now) confirmam a importância dessa parte tocante e trágica do filme em todo seu resto, quando, em um piscar de olhos, o jovem Assaf (Kais Attalah) dá lugar a um adulto Assaf (Tawfeek Barhom) e o remorso de ter tido cortado o seu sonho o faz reavaliar sua infância com a irmã e seus amigos e tentar seguir em frente, como se estivesse dormindo durante todo esse tempo. A montagem é uma poderosa arma de O Ídolo.
+
+O que não quer dizer que seu roteiro seja. Escrito pelo próprio Hany Abu-Assad e Sameh Zoabi, a história gira em torno daqueles casos do programa televisivo de talentos. O cantor (que você já imagina quem é, e até qual programa de TV estamos falando, graças ao título do filme), além de ter uma voz impressionantemente linda (e ela é usada pelo menos uma vez como arma de manipulação, algo lindo de se ver), ele possui um passado marcante. E, como se isso não bastasse, ele mora em Gaza, o que o coloca na lista de heróis sobreviventes, muito embora não vejamos muito da violência ou do terror ou do risco de se morar na fronteira fortemente murada (e fuzilada) entre Israel e Palestina.
+
+O interessante é que a premissa é poderosa o suficiente para concluir em um filme impactante. Porém, nada funciona no agitado terceiro ato. O Assaf adulto carrega uma visão um pouco amarga do mundo, e não é por acaso. Um acontecimento traumático em seu passado faz com que ele suspenda seu sonho, talvez para sempre, e todos nós entendemos esse trauma em sua vida, tanto que torcemos pelo personagem.
+
+Mas não é o suficiente. A história de O Ídolo caminha por caminhos corretos e mantém uma tensão graças às ótimas direção, edição e trilha sonora. Porém, o suspense é perdido logo no começo. Quando é feita uma transição no final entre ficção e vida real (talvez uma tendência nos filmes biográficos de hoje em dia, vide Snowden), essa transição quase não funciona, ou demora para funcionar. O personagem do presente não é tão rico (em facetas) como o filme imagina; apenas seu passado e sua história.
 

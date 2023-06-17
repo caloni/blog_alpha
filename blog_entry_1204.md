@@ -1,24 +1,25 @@
 ---
-
-Degradê é um filme onde o seu começo é o melhor momento para suas personagens. E olha que nem é tão bom assim. Seguindo seu título à risca, a situação vai gradualmente de um dia quente e ensolarado para uma noite de pesadelos.
-
-E tudo isso fica por conta de onde a ação se passa, em uma zona de guerra no Oriente Médio. Não fosse isso, o apertado salão de cabeleireiros seria apenas uma reunião cotidiana dentre as mulheres do bairro. E se fosse em uma região menos religiosa e tradicionalista, com certeza as conversas girariam mais em torno de amenidades, como seus maridos, em vez do tema constantemente voltar para política e regras sociais. Bom, talvez até por falar de política, os seus homens acabam sendo eventualmente tema das discussões.
-
-Há apenas um homem relevante no filme. E um tigre. Eles são símbolos do que ocorre lá fora, mas no fundo nem são tão importantes assim. Escrita e dirigida pelos irmãos gêmeros Arab e Tarzan Nasser, a história vai mostrando através dos diálogos as diferentes personalidades e modos de enxergar a vida dessas cerca de dez mulheres enquanto aguardam seus cabelos serem cortados. Eu poderia enumerar cada uma delas pelas suas particularidades (ou pelo menos as mais importantes), mas este não é um filme que tenta exatamente contrapô-las para gerar conflito. Já há conflito de sobra lá fora. Se trata apenas de uma visão panorâmica de como é o dia-a-dia nessa região onde, controlados por diversos grupos paramilitares, tiroteios e bombardeios são constantes. Há até uma fala em que uma das mulheres explica a situação geopolítica da região. Apesar de soar didático às vezes, o filme funciona mais do que erra.
-
-Ele funciona, por exemplo, pela decisão dos diretores de usar sempre câmeras na mão e muito próximas de quem está falando, em um exercício de malabarismo fantástico, já que, cercados de personagens em diferentes níveis de altura, distribuídas por um lugar pequeno e cheio de espelhos, fica impossível entendermos qual foi a logística aplicada para conseguir filmar com tanto dinamismo os diálogos entre elas. Isso já começa em uma das primeiras cenas, onde vemos a preocupação de uma das cabelereiras de três ângulos distintos: de costas e de frente para dois espelhos, onde em um deles podemos observar o rosto das outras clientes aguardando.
-
-Se isso já é um esforço técnico impressionante, a coisa fica muito mais desafiadora quando a escuridão toma conta do recinto e os cortes começam a ficar cada vez mais rápidos. O trabalho de edição de Sophie Reine e Eyas Salman é paranormal, já que é como se nós estivéssemos presentes junto com elas, e um filme onde praticamente toda a ação se passa em apenas um lugar evita repousar sua câmera, sempre preferindo circular pelas diferentes interações daquelas mulheres, que vão se conhecendo de uma maneira orgânica, compartilhando dores, desejos, esperanças e, principalmente, lamentações.
-
-E por falar em esperança, há uma noiva no recinto. Ela aguarda ansiosa pelo seu penteado para a cerimônia, mas não se priva de lamentar que sua sogra (sentada logo atrás do lado de sua mãe) a odeia. Toda conversa que é iniciada acaba sendo comentada pelas beiradas por uma mulher faladeira no grupo, mas o que passa despercebido, e que torna o filme mais fluido ainda, é que existem diferentes conversas acontecendo ao mesmo tempo, e mesmo que sejamos distraídos por uma que pergunta qualquer entre os bancos de espera, o fio da meada nunca se perde, ou se ele se perde, é menos importante do que acompanhar toda aquela interação como um todo.
-
-Porém, ao chegar no fim, vemos que se trata mais de uma experimentação cinematográfica do que a tentativa de explorar algo novo nesta guerra interminável na região. Se trata de explorar como algo inofensivo, como um salão de cabelereiro, pode ficar, dependendo da situação externa, mais alterado do que imaginaríamos. Ou talvez seja assim com todos os seres humanos vivendo sob uma constante pressão e estresse, sem expectativa nenhuma de melhorar sua vida no local que é chamado de inferno várias vezes no filme. Escolha seu tom de degradê de sentimentos e veja com qual se identifica mais. O filme garante implicitamente que todos eles existem nas diferentes pessoas reais que habitam esse inferno mais do que real: fatal.
-
----
 categories:
 - writting
-date: '2020-05-29'
-link: https://www.imdb.com/title/tt1139797
+date: '2015-02-11'
+link: https://www.imdb.com/title/tt2139555
 tags:
+- cinemaqui
 - movies
-title: Deixa Ela Entrar
+title: Deixa Rolar
+---
+
+Ah, os clichês! Ruim com eles, pior sem eles. Para não funcionar alguém precisa usá-los de forma preguiçosa, relapsa. Afinal de contas, eles já fizeram sucesso milhares de vezes antes de se solidificarem em um lugar-comum. E no caso de Deixa Rolar não se pode dizer se eles são bons ou maus, já que sua própria estrutura depende da análise do que há de mais banal nesses filmes. Vejamos o plot:
+
+"Comédia romântica sobre um escritor tentando escrever uma comédia romântica e onde ele próprio é o narrador de sua história." Soa clichê? Espere até saber que ele nunca se apaixonou e que por isso passa por um bloqueio de criatividade.
+
+Apesar de soar estranho contratar alguém sem experiência no assunto, basta olharmos para seu editor (Anthony Mackie) e lembrar uma sutil e divertida referência a Hitch - Conselheiro Amoroso. Ou seja, é melhor se preparar, pois o que se segue é uma sequência ininterrupta de homenagens e -- obviamente -- clichês de gênero que serão escrutinados pela mente de um escritor em processo de criação enquanto ele vive sua própria história de amor.
+
+Essa é basicamente a fórmula por trás de Deixa Rolar, e é preciso dar créditos à sua coragem de "revelar" a dura e triste realidade das comédias românticas: as pessoas precisam de um pouco de açúcar na vida para deixá-la menos amarga, por mais estupidamente doce que este seja. Há um momento hilário em que a história de um personagem meio que resume as visões limitantes masculina e feminina do que esperar de um filme, passando por um tratamento piegas típico da Disney, mas criando um pouco de tensão usando uma animação com bastante testosterona. 
+
+Ou seja, até há um uso criativo e divertido dos clichês, só que curiosamente sua exploração em torno de uma comédia romântica soa ainda mais lugar-comum. É o típico caso de clichês sendo usados de maneira relaxada, como se apenas a auto-referência fosse suficiente para tentar se destacar desse lamaçal de ideias batidas. O que incomoda é que nosso protagonista está alheio a tudo isso, ele não ultrapassa a quarta parede e vem falar abertamente a nós, mesmo que boa parte das situações dependam da sua imaginação criativa, como se colocar em todas as histórias. No entanto, pior mesmo é a sua narração em off que explicita o óbvio ("por que ela está na minha imaginação?"), tornando boa parte das piadas sem graça justamente por estar sendo contada duas vezes. Isso se revela pior ainda com o personagem de Chris Evans, que demonstra pouca inteligência em seus devaneios, ainda que disfarçada de distração, já que ele sempre se coloca em um momento romântico inevitável e não saber o que dizer, como na bonitinha sequência dos "eu te amo".
+
+E quando eu digo inevitável é porque a persona de Chris Evans é charmosa, magnética. Seu jeito despojado -- muito provavelmente saído de sua mente escritora que devaneia praticamente durante todas as cenas -- acaba combinando perfeitamente com o seu jeito de bonitão que conquista diversas mulheres pelo caminho, incluindo a óbvia paquera da única mulher em seu grupo de amigos (Aubrey Plaza, a estagiária de Parks and Recreation). Sim, é claro que ele tem seu grupo de amigos, entre eles um romântico incorrigível que deixa livros perdidos pelos lugares para que as pessoas leiam. Boa parte dos momentos em que ele não está tentando se encontrar (ou se encontrando) com sua amada (a sempre bela Michelle Monaghan) é com eles que há aquela troca de ideias sobre o que ele está fazendo com a moça.
+
+Os clichês chegam sim a incomodar um pouco, mas o ritmo é tanto o principal culpado pela falta de jeito de Deixa Rolar quanto o que cria uma atmosfera para a análise do que fascina as pessoas pela sensação inalcançável do amor, chegando ao cúmulo de forjarmos um subgênero tão adorado quanto odiado. Será que as auto-referências também estão se tornando um clichê?
+

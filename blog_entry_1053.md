@@ -1,23 +1,24 @@
 ---
-
-Talvez as pessoas estejam com preguiça de ler. Talvez estejam apenas inundadas por tanta informação que temos hoje. Talvez seja apenas falta de foco pelas interrupções consecutivas de novos "espertofones" ou nossas redes sociais viciantes, pois oferecem muito a troco de nada.
-
-O fato é: se você precisa perguntar para alguém (no caso, eu) o que é preciso fazer para se tornar um hacker, algo como um guia passo-a-passo, eu vou encarar o desafio numa boa, pensar por alguns dias, semanas e talvez meses, e chegar à conclusão que a pessoa que precisa que alguém lhe ensine está percorrendo o caminho errado. Ela nunca vai aprender o suficiente para se tornar algo que possa ser chamado de hacker.
-
-E o que é hacker, que mal lhe pergunte? Há uma definição curta e simplista, há a definição do botão (que eu nunca mais vou me esquecer) e há o Jargon. O que é o Jargon? É um guia dos primórdios da web que contém tudo que você precisa saber sobre o jargão hacker. Duvida? Leia ele primeiro.
-
-Falar em jargão me faz lembrar do nostálgico e muito curioso (e que já falei em outros artigos) Barata Elétrica, o fanzine jurássico de Derneval Ribeiro que consistia em copy&paste de partes interessantes da rede, em inglês e português, e um pouco da cultura hacker na América do Sul (sobretudo Buenos Aires) e sobre a vivência de seu editor no ambiente uspiano. Derneval pode até não ser um "hacker de verdade" (só pra citar a falácia do escocês), mas ler o Barata Elétrica me deu não conhecimentos técnicos, mas muito sobre a nossa era da informação, como informação é vital hoje em dia, além de outros conceitos interessantes que nos fazem ficar atentos para privacidade, governos, política, economia, filosofia, etc. Acho que foi lá a primeira vez que tive contato com 1984, PGP, Mitnick. Enfim, curiosidade, piadas e um pouco do clima social que a web tinha (para mais disso, nada como saudoso mIRC...).
-
-Para quem pretende se tornar um hacker, já deve ficar claro que não existe receita de bolo, nem lista de conhecimentos desejáveis. Isso não e uma vaga para preenchimento de currículo. Isso é a vida real. Se existe uma receita, ela é vaga e de auto-ajuda:
-
- 1. Primeiro você aprende a gostar de viver de acordo com a definição abaixo.
- 2. Viver é a busca incessante de conhecimento em todas as suas formas, uma autodescoberta e a busca da felicidade pessoal e instransferível, subjetiva e inalienável.
- 3. Com base nisso, comece a aprender profundamente sobre tudo o que deseja, em todas as áreas, sobre qualquer assunto, pessoa, lugar.
- 4. Repita o passo anterior até que a inescapável morte aconteça; o resto é mistério.
-
-Parece meio poético e filosófico, mas não é. Se eu te disser que para ser hacker precisa aprende a crackear programas no Windows, fuçar no WinDbg e esmiuçar a API Win32, disassemblar códigos em binário com o IDA e usar no percurso todas as ferramentas, sistemas operacionais, linguagens de programação e conhecimentos periférios necessários, vai ser apenas uma descrição pessoal que não te levará à satisfação que talvez você deseja nessa jornada. Se sua única satisfação será poder dizer que é um hacker, sinto muito, isso é inútil. Você não está procurando viver por si mesmo, mas se auto-promover sem conhecimento de causa do que realmente a palavra significa. Esqueça o assunto e vá ler um livro. Ou melhor dizendo, vá navegar em sua rede social favorita...
-
----
 categories: []
-date: '2008-01-02'
-title: Como ser um melhor desenvolvedor em 2008
+date: '2007-07-18'
+title: Como ser um melhor desenvolvedor nos próximos seis meses
+---
+
+Graças ao meu amigo Thiago estive acompanhando uma série de posts de gente renomada sobre o tema deste artigo. Eles fazem parte de uma nova modalidade entre os blogueiros (pelo menos para mim) chamada de tagging. Funciona assim: você escreve sobre algo (por exemplo, "como ser um melhor cozinheiro em 6 meses") e manda uma tag para que outras pessoas também escrevam sobre o mesmo assunto, o que pode ser feito referenciando o sítio dessas pessoas.
+
+Ainda não tive tempo de ler todos os artigos (nem vou ter, pela velocidade com que isso se espalha), mas acho que dá tempo de escrever um pouco sobre isso.
+
+Acredito que nós, programadores, tentamos aprimorar nossos conhecimentos e nossas técnicas com o objetivo de enxergar os problemas do dia-a-dia de todos os ângulos e de encará-los e resolvê-los da melhor maneira possível. Quer dizer, nós achamos que é a melhor maneira possível. E exatamente por acharmos que tentamos melhorar sempre, em busca da inalcançável perfeição.
+
+O problema existe quando nós, embriagados pela falsa crença de sabermos tudo (ou o suficiente), acreditamos realmente que estamos fazendo o melhor possível e que não há nem haverá maneira de melhorar. É lógico que sempre há. Melhor maneira de ver isso é pegar um código-fonte antigo e observar as mudanças de estilo. E nem precisa ser tão antigo assim. E nem precisa ser código. Pode ser uma idéia antiga de como implementar alguma coisa. A não ser que você seja um teimoso que quer fazer tudo em assembly verá que o que aprendemos ontem influencia nas decisões de amanhã.
+
+Minha lista não é muito diferente da dos outros. Basicamente se resume em: ler livros e blogs, programar mais e pensar mais ainda. O importante é que já estou ciente das coisas que devo melhorar, e é nelas que devo me focar nos próximos 180 dias:
+
+ - Fazer um curso de memorização. Confesso que não ligava muito para isso e agora isso faz um diferença e tanto. Eu sei que hoje temos post-its e agendas, mas nada substitui a confiança que temos em nossa própria mente. E é frustrante ler um livro três meses atrás e não se lembrar de capítulos inteiros.
+
+ - Fazer um curso de leitura dinâmica. Minha velocidade na leitura é deplorável e eu sei disso. Minha vontade de ler sempre ultrapassa o ato (isso deve ter acontecido com alguns de vocês). Mas o objetivo não é apenas ler mais rápido. É ter foco. Ler e absorver. Não estou dizendo isso de livros de ficção, que para mim são um entretenimento prazeroso. São os livros técnicos que pertubam, e urgem pela minha atenção quando os estou lendo.
+
+ - Aprender o meu ritmo. Às vezes me impressiono com o meu descaso para comigo mesmo. Por exemplo, eu já sabia que "rendia" bem mais quando lia livros simultaneamente, e não em fila. Mas mesmo assim insistia em querer terminar um livro antes de começar o outro. O resultado? Aproveitamento 60%. Nada mau. Mas poderia ser bem melhor. Bastava seguir o método que melhor se adapte às minhas necessidades. E isso é o que eu chamo de aprender a si mesmo.
+
+Agora que já passei pelo sofrimento de taguear nada como escolher minhas vítimas. Não conheço pessoalmente muitos blogueiros, mas pelo menos essa minha lista é fiel e sincera. Rodrigo Strauss, Fernando Roberto e Thiago Oliveira: o que vocês farão nos próximos seis meses para se tornarem melhores desenvolvedores (ainda)?
+

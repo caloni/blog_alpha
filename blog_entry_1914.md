@@ -1,25 +1,167 @@
 ---
 categories:
-- writting
-date: '2020-01-14'
-link: https://www.imdb.com/title/tt8386898
-tags:
-- cinemaqui
-- movies
-title: Instinto
+- coding
+date: '2014-07-22'
+tags: null
+title: Integrando BitBucket/GitHub com Trello
 ---
 
-A imersão tensa e crescente de Instinto, estreia da atriz Halina Reijn na direção, possui suas bases nas atuações de Carice van Houten e de Marwan Kenzari, que fazem uma psicóloga e seu paciente, e ambos estão sem controle. Ela foi e é abusada pela mãe; ele é um estuprador em série em habilitação. Incapazes de tomar as rédeas de suas vidas, ambos caminham por essa tênue linha entre as regras de convívio social e uma intimidade física brutal.
+Eu nem acredito que estou escrevendo sobre desenvolvimento web, mas como foi algo que me fez dedicar algumas horas do meu fim-de-semana, e não encontrei facilmente uma solução já feita, acredito que pode ser útil para mais alguém que usa Trello e GitHub (ou BitBucket).
 
-O trabalho de criação do roteiro por Esther Gerritsen passa pela história concebida por Halina e a assinatura que ela deixa na direção. Não é uma história fácil, pois possui sutilezas que se entendem mais pelo visual que pelo verbal. E não se trata apenas de uma troca de olhares ou entonações de voz, mas a postura física e a observação impotente. Halina em certo momento usa um espelho fragmentado e reflexos em seu quarto para representar uma mulher multifacetada, mas mais do que isso, sem controle nenhum, ela age como uma autômata, seguindo um protocolo apenas porque este é o esperado por todos.
+Mas o que é [Trello](http://www.trello.com)? Basicamente é um TodoList feito da maneira mais inteligente possível: uma lista de listas de listas! Os espaços, ou desktops, onde você organiza suas tarefas são chamados de Boards. Em cada board vivem L listas, e em cada lista vivem C cards. Cada card pode conter comentários, histórico de mudanças, labels, checklists, due dates e todas as tranqueiras que geralmente existe em uma lista de tarefas. É um sistema online, desenvolvido pela empresa do Joel Spolsky (o mesmo do excelente blogue de programador [Joel on Software](http://www.joelonsoftware.com/) (ou em [português](http://brazil.joelonsoftware.com/), e que contém algo que eu adoro em sistemas web: atalhos!
 
-Mas Nicoline desconfia de algo que o resto da equipe do instituto de reabilitação ignora. Assistimos a uma reunião em que ela defende seu ponto de vista a respeito da psicopatia, mas além de sua visão aguçada para fatos que fogem à intuição, como o fato de psicopatas nunca mudarem independente da idade, ela é a única com as cicatrizes certas para saber que Idris, seu paciente em recuperação que estava há cinco anos em tratamento e prestes a ganhar a liberdade gradual, é no fundo um grande manipulador. Porém, nas conversas de corredor e nas próprias entrevistas dirigidas por Nicoline não é possível descobrir nada além de um homem que fez as pazes com seu passado e se mantém socialmente neutro, embora curioso a respeito de sua terapeuta.
+{{< image src="747UasT.png" caption="Atalhos do Trello" >}}
 
-O que a faz chegar nessa conclusão está além da observação neutra. Ela observa a alma. Entre as brincadeiras dos pacientes, Idris nunca se mete em brigas, e consegue com que um detento concorde em sofrer violência física "porque ele aguenta". Ela percebe a aproximação lenta e gradual entre ele e sua estagiária, que a acompanha nas entrevistas. Até que Nicoline vê ambos de flerte, experimentando uma comida, que Idris coloca na boca da estagiária. Quando a psicóloga se aproxima, ambos se afastam. E Nicoline está se sentindo excluída do jogo de sedução. Agora reimagine essa cena não entre seres humanos, mas entre chimpanzés. Uma fêmea recebe comida de um macho, mas este macho não compartilha a mesma comida e afeto com outra fêmea. Boa parte de Instinto trabalha com as diferenças entre informalidades sociais e o que realmente acontece por trás de nossas máscaras, em um nível físico.
+A ideia que tive foi usar os webhooks dos saites de repositórios de fontes para permitir comentar dentro dos cards o commit que foi feito, sua mensagem e o linque para o commit. OK, mas por que não usar o sistema de issues dos já feitos pra isso GitHub e BitBucket? Ele já faz isso muito melhor. De fato. Porém, fica espalhado pelos repositórios, e não é sempre que uma tarefa envolve código (comprar pão, por exemplo). Além do mais, praticamente qualquer serviço desses oferece hooks para a integração de outros projetos/serviços, então se um dia nascer mais um sistema de controle de fonte ou mais um saite que organiza essas tralhas haverá um hook e consequentemente mais uma adaptação do meu código PHP.
 
-Carice van Houten entrega para sua Nicoline um olhar que diz muito mais quando se espera que ela diga algo. Passiva em todas as relações de sua vida, Houten adota um olhar melancólico e lábios retraídos que buscam chances de se humilhar. Seu momento amoroso com um colega é o mais icônico do filme, pois nos entrega o que se passa realmente na mente dessa complexa protagonista. E Houten brilha nessa e em outras cenas, pois entende que para a personalidade de Nicoline menos é mais, e o menos que ela constrói dói o coração, apesar de não entendermos exatamente por quê.
+E por que PHP? Bom, PHP é uma linguagem fácil de mexer (se parece com C, mas é um script) e praticamente qualquer servidor web do universo, mesmo o mais baratinho, vem com o pacote Apache + PHP (e geralmente uma base MySql). Dessa forma, é uma solução que pode ser implantada fácil e rapidamente.
 
-Já Marwan Kenzari, que fez o vilão Jafar na versão live-action de Aladdin, realiza aqui um trabalho muito mais corporal com seu Idris, cuja comunicação parece sempre partir de avanços na zona de segurança dos outros. Narcisista sem perder o charme, Idris é uma figura a ser estudada em tempos de #metoo, pois enquanto os casos de abuso psicológico se alastram pelo mundo enxergados do ponto de vista das vítimas, cada vez menos se conhece sobre os monstros por trás disso. Kenzari nos oferece essa chance, pois apesar de Idris estar longe de uma figura que dê medo ou intimide, o espectador ou espectadora conseguirá reconhecer a manipulação que o detento realiza, quase que como parte de seu ser. É fascinante e aterrorizante ao mesmo tempo. Depois de entender um personagem como Idris e o que ele deseja das mulheres, o mundo lá fora parece mais perigoso mesmo sem violência física na maior parte do tempo.
+## Comentando no Trello
 
-A diretora Halina Reijn maturou bem sua história com a ajuda da roteirista Esther Gerritsen, a ponto de hoje ser possível entendermos melhor como se desenrolam as relações de dominação que não são tão escancaradas quanto fetichistas sexuais. O problema é que hoje ninguém mais quer falar sobre isso. Somos seres ultraconectados pelos nossos dedos, mas esses mesmos dedos não podem mais relar em ninguém sem a prévia autorização verbal ou contratual. Viramos robôs que tentam esconder sua origem biológica. Os instintos dos personagens no filme estão quebrados, mas uma questão mais interessante emerge do universo concebido para o filme: não estaríamos todos nós quebrados?
+Vamos começar pelo mais difícil que o resto vai fácil: comentar pela API do Trello. Sua [API é beta](https://trello.com/docs/), assim como sua documentação, então tive arrancar significado inexistente em seu help, mas acabou funcionando. Como qualquer API web, você precisa de uma chave, segredo e a permissão do usuário. Com essa permissão é possível comentar em todas as boards que esse usuário específico tem acesso.
+
+Pelo menos a parte de [geração de chave/segredo é simples](https://trello.com/1/appKey/generate), tanto que se você clicou nesse linque, já conseguiu gerar uma =).
+
+Depois disso, mesmo nessa página já é possível conseguir uma chave de acesso para o seu usuário.
+
+{{< image src="oQ97bDI.png" caption="Pedindo autorização para o Trello" >}}
+
+Por fim, para fazer o código que irá comentar dentro de um card no Trello, basta usar dois ou três métodos que lidam com enviar coisas pela web (não me pergunte mais que isso):
+
+```
+<?php
+
+$url = 'https://trello.com/1/cards/ID_DO_CARD/actions/comments';
+
+$msg = 'Hello, World!';
+
+$data = array(
+        'key' => 'AQUI_VAI_SUA_CHAVE', 
+        'token' => 'AQUI_VAI_SEU_TOKEN_DE_ACESSO',
+        'text' => $msg
+        );
+
+$options = array(
+        'http' => array(
+            'header'  => "Content-type: application/x-www-form-urlencoded\r\n",
+            'method'  => 'POST',
+            'content' => http_build_query($data),
+            ),
+        );
+
+$context  = stream_context_create($options);
+
+$result = file_get_contents($url, false, $context);
+
+?>
+
+```
+
+As informações _AQUI_VAI_SUA_CHAVE_ e _AQUI_VAI_SEU_TOKEN_DE_ACESSO_ você já obteve no linque de geração de key/secret. Já o _ID_DO_CARD_ é algo que depende de em qual lista seu card está, mas felizmente também existe um shortlink único e imutável para cada card no sistema:
+
+{{< image src="xONdnSw.png" caption="ID único de um Card" >}}
+
+Basta usar o ID em Base64-ou-o-que-o-valha no lugar de _ID_DO_CARD_ que já estamos OK. Depois que este código conseguir ser executado, basta ter acesso à internet que ele irá escrever "Hello, World" no cartão referenciado:
+
+{{< image src="rbCigTV.png" caption="Hello, World!" >}}
+
+Muito bem. Primeira parte da missão concluída.
+
+## Terminando com GitHub
+
+Como o [GitHub](http://www.github.com) é um dos serviços de repositório de fontes mais famoso, vamos torná-lo nosso caso de sucesso. Basicamente você deve ir no seu repositório do coração (essa é a parte ruim: se você tem mais de um coração, vai ter que repetir esse mesmo procedimento para todos os outros repositórios dos seus outros corações), Settings, Webhooks & Services.
+
+{{< image src="4Lph9w6.png" caption="Adicionando um WebHook ao GitHub" >}}
+
+Lembre-se de colocar seu código PHP em um servidor visível na web. Lembre-se também de usar o método de envio urlencoded do payload para simplificar seu tratamento. Para simplificar ainda mais o processo, coloque qualquer coisa no segredo (não validaremos neste post, mas #ficadica de segurança se você não quer que outros acessem seu PHP inadvertidamente).
+
+Pois bem. No código que irá receber o payload do GitHub precisamos de duas coisas: saber qual [a estrutura que vai ser recebida](https://developer.github.com/webhooks/) e _como localizar o id do card onde iremos enviar a informação_. Nesse caso, mais uma vez, para simplificar, vamos procurar pelo próprio linque permanente do cartão na mensagem do commit. Aliás, doS commitS (sendo um push, é provável que o evento seja gerado com diversos commits aninhados).
+
+```
+<?php
+
+$pushData = json_decode($_POST['payload']);
+
+foreach( $pushData->commits as $c )
+{
+    $msg = $c->message;
+    $pattern = '#http[s]*://trello.com/c/([A-Za-z0-9]+)#';
+    if( preg_match($pattern, $msg, $matches) == 0 )
+        continue;
+
+    $url = 'https://trello.com/1/cards/' . $matches[1] . '/actions/comments';
+    $msg = $c->message . ' Commit: ' . $c->url;
+    $data = array(
+            'key' => 'AQUI_VAI_SUA_CHAVE', 
+            'token' => 'AQUI_VAI_SEU_TOKEN_DE_ACESSO',
+            'text' => $msg
+            );
+
+    $options = array(
+            'http' => array(
+                'header'  => "Content-type: application/x-www-form-urlencoded\r\n",
+                'method'  => 'POST',
+                'content' => http_build_query($data),
+                ),
+            );
+
+    $context  = stream_context_create($options);
+
+    $result = file_get_contents($url, false, $context);
+}
+?>
+
+```
+
+Agora é só testar. Posso pegar esse mesmo artigo e comitá-lo no [repositório do blogue](https://github.com/Caloni/blog) usando o linque único do card da tarefa de escrever este artigo. Ou seja, aqui é Inception na veia, mermão!
+
+{{< image src="NzQPB9o.png" caption="Comitando o artigo para gerar evento que irá comentar no Trello para continuar este artigo que estou comitando.." >}}
+
+O que vai deixar você perplexo é entender como esse texto está sendo comitado antes mesmo de eu comitar este texto ;).
+
+{{< image src="ZIPNSpV.png" caption="Resultado do meu commit" >}}
+
+E o negócio é rápido, viu?
+
+{{< image src="vVmuKb7.png" caption="E o negócio é rápido, viu?" >}}
+
+## _Adendo: BitBucket_
+
+A única coisa que muda no caso do [BitBucket](http://www.bitbucket.org) é a tela onde deve ser inserido seu webhook (método POST, sempre) e a estrutura JSon que é enviada. De lambuja, eis o que deve ser feito com esse payload:
+
+```
+<?php
+
+$bitData = json_decode($_POST["payload"]);
+
+foreach( $bitData->commits as $c )
+{
+    $msg = $c->message;
+    $pattern = '#http[s]*://trello.com/c/([A-Za-z0-9]+)#';
+    if( preg_match($pattern, $msg, $matches) == 0 )
+        continue;
+
+    $url = 'https://trello.com/1/cards/' . $matches[1] . '/actions/comments';
+    $msg = $c->message . ' Commit: ' . $bitData->canon_url . $bitData->repository->absolute_url . 'commits/' . $c->raw_node;
+    $data = array(
+            'key' => 'AQUI_VAI_SUA_CHAVE', 
+            'token' => 'AQUI_VAI_SEU_TOKEN_DE_ACESSO',
+            'text' => $msg
+            );
+
+    $options = array(
+            'http' => array(
+                'header'  => "Content-type: application/x-www-form-urlencoded\r\n",
+                'method'  => 'POST',
+                'content' => http_build_query($data),
+                ),
+            );
+
+    $context  = stream_context_create($options);
+
+    $result = file_get_contents($url, false, $context);
+}
+?>
+
+```
 

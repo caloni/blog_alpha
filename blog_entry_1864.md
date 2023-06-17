@@ -1,11 +1,9 @@
 ---
 
-Malbec pouco frutado e mais encorpado que versão Edición Limitada. Festa mexicana casa da cunhada da Su. Degustação nervosa na casa do Incrível, este corte mendocino tem ricos aromas e um tanino que se pronuncia apenas próximo do final da garrafa.
-
+Os Malbecs do Rio Negro, na Patagônia argentina, são densos, mas ainda mantém a fruta e o aroma de um Malbec, como este Humberto Canale 2017, que é elegante em alguns momentos, ríspido em outros.
+date: "2019-05-29"
+categories: [ "food" ]
+title: "Humberto Canale"
 ---
-categories:
-- writting
-date: '2018-01-17'
-tags:
-- food
-title: Humberto Barberis Edicion Limitada 2015
+Humberto Canale Íntimo 2017 é Cabernet de Rio Negro, região de Neuquen, no começo é bem mais forte que os outros Cabernet, mas com o tempo ele suaviza mantendo corpo.
+

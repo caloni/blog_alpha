@@ -1,25 +1,20 @@
 ---
 categories:
 - writting
-date: '2017-03-22'
-link: https://www.imdb.com/title/tt4929038
+date: '2019-10-24'
+link: https://www.imdb.com/title/tt10409554
 tags:
 - cinemaqui
+- mostra
 - movies
-title: O Ornitólogo
+title: O Pai
 ---
 
-Cada diretor tem seu Holy Motors (Leos Carax, 2012) que merece. No caso do diretor português João Pedro Rodrigues, O Ornitólogo é uma história com uma estrutura igualmente coesa mas um final hermético e inacessível, tal qual não a arte cinematográfica, mas a mente religiosa.
+O Pai é um filme que vai se percebendo o drama aos poucos. Ninguém está narrando a história, então você terá que acompanhar os detalhes pelos diálogos. E depois de um filme inteiro, sua última frase ressignifica tudo o que havíamos visto anteriormente.
 
-A história gira em torno de Fernando (Paul Hamy), um estudioso de aves focado nas regiões em que elas vivem, seus hábitos e modo de vida. Isolado dos humanos, incluindo seu suposto namorado, e navegando pelos rios em seu caiaque, ele passa o dia com seu binóculo observando pássaros dos mais diversos em meio a uma natureza que o olha de volta. Ao sofrer um acidente é resgatado por um casal de chinesas perdidas, física e psicologicamente. A tortura mental começa a partir desse ponto, e através dele somos levados a níveis cada vez maiores de loucura e simbolismo.
+A história é simples: Pavel (Ivan Barnev) precisa urgentemente voltar para seu trabalho e casa após o enterro da mãe, mas seu pai, Vasil (Ivan Savov), está agindo estranho e precisa da proteção do filho nesse momento frágil. O filme gira em torno do filho tentando se livrar do pai sabendo que ele está seguro, e talvez o ponto mais fraco do longa, é óbvio que seu pai não estará seguro por boa parte da história.
 
-Roteirizado pelo próprio Pedro Rodrigues, a história carrega simbolismos e um mistério que teoricamente irão ser solucionados mais à frente. No entanto, o "trunfo" do filme é nunca revelá-los, preferindo jogar cada vez mais eventos misteriosos e símbolos. Embora esses eventos possam ser explicados racionalmente, o filme sempre nos puxa a olhar para ele de forma mais metafórica. Os personagens muitas vezes se tornam no melhor dos casos artificiais, e no pior elementos funcionais da história. A noção da realidade vai de diálogos vagos demais a um celular que é arremessado em direção a um pombo.
+Este é um trabalho em conjunto de dois diretores e roteiristas búlgaros Kristina Grozeva e Petar Valchanov. Ambos estudaram na mesma academia de cinema, e já trabalharam em vários projetos. Eles realizam uma comédia de situação que se transforma em um drama sem ninguém forçar nada no roteiro. Acompanhar a história é tão natural que parece fácil chegar nesse nível de fluidez.
 
-Todas as noções que o filme traz se interligam ao seu conceito religioso. Fala-se do Caminho de Santiago, de uma pomba e de um batismo cristão nada convencional. Através de lindas paisagens da natureza, vistas tanto pelo olhar curioso de um ser humano quanto pela noção holística de aves que o sobrevoam, o tom de mistério é adequado quando entendemos que ele é necessário, assim como é o sacrifício de um pouco de lógica em troca de uma visão mais aprofundada da realidade. Fernando é ateu, e o caminho de "revelação" do filme vai se tornando óbvio.
-
-Sem trilha sonora alguma exceto o que ouvimos dos animais em torno dos personagens, e sem tratamento fotográfico além do uso estético de uma floresta, planícies, montanhas e rios idealizados, a imersão do espectador é naturalista. Acompanhamos a saga de Fernando vista pelos seus próprios olhos e das aves que observa, com raríssimas exceções. No entanto, estamos um passo à frente de sua experiência, pois entendemos todos os idiomas usados no longa, enquanto ele se limita ao que é falado (e escrito) em português e inglês.
-
-Para os mais céticos, essa experiência em direção ao místico pode necessitar de mais explicações. Fiquei particularmente irritado com o fato de Fernando sempre voltar ao seu celular para tentar rede e conseguir fazer uma chamada telefônica, quando ao mesmo tempo ele lê as mensagens de seu amante sem sequer pensar em mandar uma mensagem de resgate. Não fica claro a transformação interna que o protagonista está passando, pois ela é gradual e praticamente imperceptível, exceto por um ou outro evento estranho.
-
-De qualquer forma, O Ornitólogo oferece uma aventura hermética, mas nunca enfadonha. Há acontecimentos misteriosos e de certa forma perturbadores o suficiente para entreter, sem que com isso nos revele de uma vez por todas o que tudo isso quer dizer. A busca por uma narrativa em um filme que começa sem é essa floresta que nosso herói se enfiou, cheio de símbolos indecifráveis, que de alguma forma o transformaram. Como qualquer religião do planeta, ecológica ou não.
+E isso porque há vários elementos que são iniciados e vão sendo explorados em paralelo. O mais tocante é o pedido da mulher de Pavel: trazer uma geleia caseira de um sabor específico. Esse pedido vai sendo realimentado pela história em vários momentos que soam naturais -- uma cena em uma delegacia parece o ápice dessa piada, mas não termina por aí -- e é justamente isso que torna "O Pai" um filme que vai te levando sem você nem perceber direito.
 

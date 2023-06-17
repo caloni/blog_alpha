@@ -1,20 +1,16 @@
 ---
 categories:
 - writting
-date: '2011-09-11'
-link: https://www.imdb.com/title/tt2027178
+date: '2014-12-01'
+link: https://www.imdb.com/title/tt0080678
 tags:
 - movies
-title: O Homem do Futuro
+title: O Homem Elefante
 ---
 
-O novo longa de Cláudio Torres (dos divertidos A Mulher do Meu Amigo e A Mulher Invisível) flerta com mais um tema que faz parte do imaginário coletivo: quem nunca desejou mudar algo que fez no passado, principalmente se isso teve implicações negativas por toda sua vida?
+Não vi muitos filmes do David Lynch, mas este é de longe o mais "comportado" em narrativa. Tem começo, meio e fim. Possui uma narração gradativa, dando tempo para pensarmos no que exatamente está acontecendo em volta de John Merrick (John Hurt), um homem desfigurado usado como atração de circo e conhecido como O Homem Elefante. Quando conhecemos Merrick ele não tem nome e quase não o vemos, só na imaginação. E ele tem um dono: um sujeito conhecido como Bytes (Freddie Jones), que não se preocupa em tratá-lo como um animal de fato. O próprio filme começa com a visualização dessa fantasia do imaginário popular: o filho de uma mulher e um elefante.
 
-Esse é o caso de Zero (Moura), que inclusive mudou de nome depois desse evento que mudou sua vida para sempre. Físico e professor (de física), está empenhado na obtenção de uma nova forma de energia enquanto dá aulas com um sotaque engraçado que lembra seu deslocamento social. Embora empolgado com suas pesquisas, parece ter uma triste conformidade com o que ocorreu no passado e que o transformou em um ser solitário e desajeitado.
+Comovido com a situação, mas ao mesmo tempo interessado no aspecto anatômico do pobre homem o médico Frederick Treves (Anthony Hopkins) resolve resgatá-lo. Para isso ele precisa do aval de todos os membros do London Hospital -- onde trabalha -- mas há uma dificuldade: Merrick é totalmente incurável. Não há como aliviar sua dor a não ser o tratando com dignidade, algo que é possível apenas ali, em torno de pessoas que compreendem que há um ser humano por trás das deformações de Merrick (será mesmo?). Isso também levanta uma questão ética sobre o que é mais importante: tratar um paciente curável ou reservar este espaço para um homem que sabidamente não conseguirá nada do mundo lá fora?
 
-No entanto, a primeira reviravolta do filme coloca Zero acidentalmente em uma máquina do tempo que o transporta para o mesmo dia onde o tal evento ocorreu, lhe dando a oportunidade de criar uma nova realidade no futuro (tudo de acordo com suas próprias concepções de física quântica que possui).
-
-A partir daí o filme segue utilizando sacadas habituais de filmes de viagem no tempo (as que acho mais interessantes são a mudança do valor de nossa moeda e a proibição de fumantes em espaços fechados), mas sempre colocando o trauma de Zero como foco da narrativa. Dessa forma, O Homem do Futuro consegue divertir e emocionar de uma maneira equilibrada e compreensível. Parte de nossa facilidade em compreender a trama se sustenta na fotografia e direção de arte que juntas identificam as situações utilizando cores vibrantes e larguras de campo menores na festa-evento, enquanto aplica um branco e cinza em cenários várias vezes maiores, o que imediatamente gera a sensação de solidão e isolamento (e não é à toa que a prisão que um certo personagem se encontra no futuro alternativo use a mesma lógica para descrevê-lo).
-
-Tendo o controle narrativo da trama nas mãos dos aspectos visuais, o filme consegue deslanchar camadas superiores de complexidade sem maiores problemas e tornando a experiência mais interessante ainda. Porém, o mesmo não ocorre no relacionamento de seus personagens, que em determinado nível se desestrutura e infelizmente revela a artificialidade de toda a situação em que se encontram (e por tabela revela que aquilo é só um filme).
+Esse é um caso real -- Joseph Merrick realmente existiu e viveu no século 19. Nessa época as pessoas menos instruídas o enxergavam apenas como um monstro, sendo que constantemente durante o filme somos levados a crer que é exatamente o contrário. Merrick aos poucos se revela um ser humano sensível e agradável. Lynch vai tirando as camadas de estranheza daquele ser um a um. Começamos apenas imaginando o "monstro", depois o vemos, depois o falar, depois o conversar e, finalmente, o se relacionar/pensar/sentir. De um "ser bestial" a um ser humano basta outros seres humanos o aceitarem como igual. Infelizmente no mundo real nem é preciso ter uma cabeça gigantesca para ser tratado como uma aberração.
 

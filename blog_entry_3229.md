@@ -1,16 +1,24 @@
 ---
 categories:
 - writting
-date: '2015-01-26'
-link: https://www.imdb.com/title/tt0119310
+date: '2011-08-17'
+link: https://www.imdb.com/title/tt1499658
 tags:
 - movies
-title: Querida, Encolhi a Gente
+title: Quero Matar Meu Chefe
 ---
 
-Parece demais um filme inteiro com a ideia de mostrar como as crianças conseguem se virar sozinhas sem a presença dos pais. Ainda mais por se tratar de uma continuação da continuação e tentar reciclar velhas ideias da série usando os mesmo efeitos que hoje já se pode notar algumas marcas do passado. E isso em um filme de 97!
+Muitas pessoas com certeza rirão das piadas sobre trabalho, sexo e racismo de Quero Matar Meu Chefe, tradução não-literal de Horrible Bosses (Chefes Horríveis, o que não melhora muito as coisas). Novo trabalho de Seth Gordon (Surpresas do Amor e umas pontas em The Office e Community), o longa reúne mais talentos cômicos do que supostamente ele conseguirá no resto de sua vida como diretor.
 
-A conclusão, portanto, é que Querida, Encolhi a Gente, lançado direto para vídeo, é daqueles filmes caça-níqueis que adota um roteiro preguiçoso e faz com que os pais das crianças sejam encolhidos acidentalmente não com um, mas com dois objetos (iguais) que caem no botão que aciona a máquina. Oportunista do começo ao fim, monta um trajeto que envolve os adultos-mirim descendo em uma isca de pesca, "pilotando" um carrinho de brinquedo por uma pista que envolve loops e saltos, caindo em um monte de roupa e voando dentro de bolhas de sabão. Tudo isso coloca em dúvida as reais intenções do personagem de Rick Moranis, supostamente um gênio: ele quer salvá-los ou encontrar a maneira mais divertida de deixar seus filhos órfãos?
+O filme inicia com três narradores oniscientes, Hick (Bateman), Kurt (Sudeikis) e Dale (Day), que assim que terminam a introdução são descartados, e passamos a acompanhá-los pelo quarto narrador (a câmera). Vivendo momentos sufocantes no trabalho devido a cada um de seus insuportáveis chefes, que eventualmente abusam de seu poder, os três rapazes resolvem solucionar seus problemas através da única maneira plausível: exterminando seus superiores, afim de ter um pouco de paz em suas insuportáveis vidas.
 
-O mais decepcionante, porém, é que em nenhum momento o longa está olhando ou buscando situações que lembrem vagamente algo espontâneo. Com uma história que força situações cada vez mais inverossímeis (que o diga uma certa Senhora Aranha), o filme cobra do espectador uma suspensão de descrença -- o contrato com o espectador de fingir que aquele mundo é real -- alta demais.
+O roteiro desenvolvido por Michael Markowitz e John Francis Daley comprova que a experiência dos dois na TV acabou por viciá-los em histórias episódicas que são reunidas por pouco mais que um argumento inicial. O fato é que as piadas desenvolvidas por eles funcionam na maior parte do tempo, e, graças ao simpático grupo de comediantes, acabam se transformando em inconsequentes risadas.
+
+Não que a narrativa seja inteligente por si só. Apelando muitas vezes para comportamentos ilógicos de muitos personagens (como o presidente da companhia que diz para onde vai o salário do cargo que pegou para si), acompanhamos a trama aos trancos e barrancos, sempre ajudados pelos rostos conhecidos que acabam por conduzir-nos da maneira menos dolorosa possível.
+
+Seguindo esse ritmo de gags sobre gags, conseguimos acompanhar as cada vez mais absurdas situações que o trio de amigos acaba se colocando, e a impressão que fica é que a única forma da narrativa conseguir "crescer" é aumentando cada vez mais os absurdos.
+
+Enfim, chega um momento em que as piadas não bastam mais e o terceiro ato atravessa inevitavelmente pela peneira da lógica completamente destroçado. Não é preciso dizer que à essa altura nada muito genial era esperado, de forma que o resultado ficou bem ao nível de toda a "trama".
+
+Após esse exercício de futilidade que poderia muito bem passar no sábado à noite, tudo que temos a fazer é sair da sessão e esperar pelo melhor para esse grupo de atores talentosos que acabou se metendo em uma verdadeira cilada.
 

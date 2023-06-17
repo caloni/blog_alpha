@@ -1,32 +1,20 @@
 ---
-categories: []
-date: '2016-10-25'
+categories:
+- writting
+date: '2017-04-18'
+link: https://www.imdb.com/title/tt3810760
 tags:
-- mostra
-title: Mini-Entrevista com Olaf Kraemer, diretor de 5 Mulheres
+- movies
+title: 'Minimalism: A Documentary About the Important Things'
 ---
 
-A sessão de ontem no Frei Caneca de 5 Mulheres estava mais ou menos lotado, o que foi uma surpresa (positiva). O thriller dirigido por Olaf Kraemer desaponta em muitos sentidos, incluindo o fato de ser confuso. Após a sessão, ele mesmo aparece para um pequeno debate de cinco perguntas (aqueles da mostra, que duram menos de 5 minutos, só pra tirar foto e sair vazado). O tradutor/entrevistador teve a consciência de avisar o público antes do filme começar, e o diretor nos avisou que haveria um curta exclusivo de festivais antes, que iria se relacionar com o longa depois.
+Este é um documentário bem convencional que acompanha dois amigos que descobrem que para ser feliz menos é mais. Estamos falando essencialmente de consumismo desenfreado. Em resumo: o modo americano de viver.
 
-Quanto custou a produção?
+Em um mundo onde o sonho é ter um salário que te permita ter mais coisas com menos tempo, esses dois amigos perceberam que suas escaladas na vida corporativa não estavam gerando a felicidade esperada. Foi quando decidiram adotar uma forma de vida minimalista, com menos peças de roupa, uma casa menor e menos coisas inúteis guardadas nela. Descobrem a fórmula para ser feliz e saem pelo país pregando a palavra.
 
-Kraemer: Foi uma produção de baixo custo, cerca de 300 mil (euros).
+Durante sua escalada em palestras que vão de duas pessoas a centenas, e de programas de rádios locais para "broadcasts" para milhões, acompanhamos opiniões de diferentes autores e especialistas em formas de simplificar a vida, além de uma análise econômica riponga que discursa sobre vida em comunidade, igualdade e essas besteiras. Ao mesmo tempo vemos cenas grotescas da Black Friday e empilhadeiras ajuntando pilhas de coisas jogadas fora pelas pessoas.
 
-Como foi alterada a maquiagem em na cena X (uma cena-chave)? Como vocês trabalharam essa questão? Você usa story boards?
+A direção consegue dar uma ideia da escalada no alcance dos dois amigos às pessoas que querem influenciar, mas falha miseravelmente em tentar diferenciar as diferentes famílias que mudaram de vida graças a eles. São pessoas geralmente de classe média alta, aparentemente perdidas por terem tanto e não saberem lidar com seus sucessos. É uma visão distorcida que apenas o autor de Zen Habits consegue expor de forma mais descomplicada, leve e bem-humorada.
 
-Kraemer: Usamos a mesma tinta dos quadros nas atrizes. Não uso story boards. Antes de filmar alguém faz um pequeno esboço da cena desenhado, mas é só.
-
-Há muitos casos de violência contra a mulher (na Alemanha)? (espectador comenta que é o quinto filme que vê na Mostra com a mesma temática)
-
-Kraemer: Na Alemanha as mulheres são sempre vistas como vítimas, mas aqui eu quis colocá-las também como algozes dos estupradores, tentar tirar esse estigma delas.
-
-Sua história foi baseada em algum caso real?
-
-Kraemer: Foi baseado em alguns, mas em uma versão muito diferente do que está retratado no filme.
-
-Como o curta inicial se encaixa tematicamente com o longa?
-
-Kraemer: Fiz esse curta como meu primeiro filme, e ele foi uma brincadeira com essa noção de inocência (tanto que o curta tem esse título).
-
-Houve vários elogios da plateia, que curtiu um bom thriller protagonizado (apenas) por mulheres.
+"Minimalism" é um documentário que possui coisas de menos para nos convencer, mas foque-se na mensagem e não precisará de um documentário inteiro para te convencer: não seja como aqueles casos de pessoas brigando na Black Friday. Menos é mais.
 

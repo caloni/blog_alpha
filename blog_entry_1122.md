@@ -1,11 +1,11 @@
 ---
-
-É uma... pilsen? Bom, tem um salgadinho próximo de uma witbier prestes a ser esquecida.
-
----
 categories:
 - writting
-date: '2018-10-09'
+date: '2016-05-12'
 tags:
-- wine
-title: Cosecha Tarapaca
+- food
+title: Cosecha Tarapaca Carmenére 2014
+---
+
+Bom custo Bom custo benefício, mas mais caro que a média.
+

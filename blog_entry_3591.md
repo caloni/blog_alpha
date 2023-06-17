@@ -1,32 +1,18 @@
 ---
 categories:
 - writting
-date: '2023-04-24'
+date: '2014-04-16'
+link: https://www.imdb.com/title/tt2250192
 tags:
-- movies
-title: 'Suzume no Tojimari: A Porta Fechada de Suzume'
+- animes
+title: Sword Art Online - Primeira Temporada
 ---
 
-Mitiko me convidou para ver este filme que pela capa tinha cara daqueles filmes adolescentes de Makoto Shinkai. Quando estávamos entrando na sala vi seu nome no pôster. O visual que o cara usa para [seus filmes] é tão batido que não foi conquista nenhuma adivinhar o diretor.
+O tema de mundos virtuais já tem certa data, mas é a primeira vez que vejo ele ser explorado nos jogos online. Mais interessante, ainda, é construir uma história cujo pano de fundo é o lançamento de mais um RPG online a la "World of Warcraft", com direito a versões beta, coleção de itens, aumento de experiência, novas habilidades, com a diferença que seu controle é exercido e sentido diretamente pelo cérebro dos jogadores atráves de um sensor na forma de capacete. O enredo principal: se os criadores de um jogo de realidade virtual conseguem controlar os sentidos de seus jogadores o que os impede de levar essa experiências às últimas consequências?
 
-Isso não é aleatório. Shinkai é idolatrado ou acredita ser no mundo inteiro. Isso faz com que o indivíduo alimente este vínculo com os fãs e consigo mesmo. Diretores autorais como Tarantino, Almodóvar, Allen fazem isso o tempo todo. Se trata de dedicar seu tempo e habilidade para manter um universo que foi criado através do hype das massas.
+Com base nisso e um bom toque de animê/novela é que Sword Art Online se baseia ao longo da sua temporada de 25 capítulos divididos tematicamente em duas "fases". A primeira é a melhor das duas, pois expande diversos conceitos curiosos a respeito desse futuro distópico, como a relação afetiva (e sexual) entre seus membros e qual é a definição de "sentimento" nesse mundo, além de em diversos momentos utilizar a figura do casal principal Kirito e Asuna para servir de olhos e reflexão do espectador sobre o que faria em determinadas situações, ou até onde vai a brincadeira. Nesse sentido, a vinda de uma personagem muito especial "adotada" pelos heróis é sintomático e um dos melhores momentos da série, além de representar muitas homenagens óbvias ao longo da narrativa, notadamente Matrix, a obra cinematográfica dos irmãos Wachoski (que já referenciava e homenageava praticamente todos os ramos do entretenimento e da filosofia em torno da possibilidade de estarmos sonhando acordados em um mundo de mentiras).
 
-No caso de Shinkai este hype sobrevive em um universo com um estilo muito peculiar. Há um exagero nas formas, cores e efeitos que trabalham juntos para reforçar sua própria estética e nada mais. Quando você olha para dentro desse universo o que você vê 100% do tempo é o quão belo é o resultado.
+É com o uso de uma excelente trilha sonora dramática quase nunca exagerada e ótimas cenas de ação que a primeira metade de SAO capta a essência de sua história. Claro que isso ocorre graças ao pano de fundo que vai sendo contruído junto com a relação entre seus personagens, pois essa não é uma série de lutas de espadas comuns, mas uma interessantíssima reflexão sobre o que o ser humano é capaz de fazer para sobreviver e manter a sua honra, seu caráter, seus princípios. Existiria uma ética em um mundo onde tudo é possível?
 
-Para a maioria das pessoas isso basta. Como toda pessoa saudável ainda não infectada pelo vírus do relativismo estético, apreciar uma obra de arte que é bela pela sua própria beleza é praticamente tudo o que podemos esperar de um filme. Algumas pessoas sequer se perguntam se poderia haver algo a mais.
-
-É natural hoje percebemos virtudes através da superfície das coisas, não apenas de um filme, mas de tudo. Porém, no caso do audiovisual a relação não poderia ser mais direta. Se a imagem é belíssima e a trilha sonora empolgante é óbvio que estamos presenciando uma obra belíssima e empolgante.
-
-Isso me faz lembrar a evolução das telas e seus pixels. Hoje os DVDs e sua resolução standard são coisa do passado longínquo (quem dirá o VHS). Até pouco tempo atrás o Blu-ray era o máximo de qualidade, e portanto virtude, que um filme poderia chegar. Hoje com a independência da mídia física podemos ir além, com transmissões de 4k, que possuem 4 vezes mais resolução, e portanto é quatro vezes melhor que um filme em Blu-ray. Acho que você já percebeu onde quero chegar, apesar de não ter pensado em ir tão longe.
-
-Shinkai está reproduzindo o óbvio de sua adorada obra que ele percebe pelo feedback de sua legião de fãs, mas também de seu próprio senso estético. Ele é um cineasta jovem que representa a próxima geração após os filmes dos Estúdios Ghibli, de Hayao Miyazaki. Essa turma viveu uma evolução cada vez mais rápida da forma, em um descompasso cada vez mais distante do conteúdo. É natural que obras como [Viagem para Agartha] entre outras sejam confundidas com [A Viagem de Chihiro] ou [Meu Amigo Totoro] como produtos de mesma qualidade. Na verdade, se formos pensar em termos de resolução de tela e efeitos visuais há ainda mais qualidade nas obras recentes de Shinkai.
-
-Desenhado à mão, Chihiro e Totoro não possuem a tecnologia disponível hoje de mesclar cenários e personagens 3D em cima da textura de um anime japonês, que é o que se observa nos filmes de Chinkai. Por causa disso, seguindo a lógica dos DVDs e do 4k, animes mais recentes são ainda melhores que os antigos e ultrapassados desenhos artesanais de uma época mais analógica.
-
-Eu acredito que você já consiga caminhar com seus próprios pés a partir dessa argumentação, caro leitor.
-
-[seus filmes]: {{< ref your-name >}}
-[Viagem para Agartha]: {{< ref viagem-para-agartha >}}
-[A Viagem de Chihiro]: {{< ref a-viagem-de-chihiro >}}
-[Meu Amigo Totoro]: {{< ref meu-amigo-totoro >}}
+Essas questões existenciais parecem que nunca envelhecem...
 

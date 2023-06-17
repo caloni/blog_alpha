@@ -1,20 +1,29 @@
 ---
 categories:
-- writting
-date: '2017-07-31'
-link: https://www.imdb.com/title/tt1672214
+- coding
+date: '2010-04-10'
 tags:
-- movies
-title: Usagi Drop
+- english
+title: Using TodoList and Microsoft Project together
 ---
 
-Há algo novelístico e caricato nesse filme cujo único defeito é ser uma história doce e sensível sobre paternidade. E quando digo paternidade não me refiro a pais biológicos, mas à relação entre adultos e crianças que estão sob sua guarda. Por ser um filme japonês há vários detalhes culturais, mas ainda assim ele se esforça por ser universal.
+The next article about bits is still in the oven. Taking vacation (40 days) had drop me out of ideas! At the moment, I can explain the tips and tricks using  TodoList to manage my team and synchronize my tasks in a Microsoft Project timesheet.
 
-Ele conta a história de uma menina de seis anos que morava com o avô do protagonista, possivelmente sua filha. O avô faleceu, estamos em seu funeral, e todo mundo deseja se livrar do fardo que é cuidar de uma criança. Ainda mais uma criança que não é nossa.
+The reasons why I am using TodoList are kind of obvious: it does everything I need to organize my day to day tasks and it is portable. Meanwhile, the Project, besides not being portable (I need to carry on with me a 200 MB installer? And do install?) it uses a hard to change format and it was made to project the world, and not to be easily shared.
 
-Soa irreal para mim ver japoneses se comportando como egoístas, conhecendo sua cultura de respeito ao próximo. Talvez crianças sejam um tabu maior hoje em dia, em uma nação que se constitui cada vez mais por pessoas da terceira idade.
+So, let's go. Everything we need is a current edition of TodoList and Microsoft Project. The first thing we must to do é to export the tasks we want to a default CSV, using the columns we would like to import to Project.
 
-Esta é a versão live-action de um animê que foi criado a partir de um mangá, Bunny Drop. Isso explica o cartunesco. Temos uma menininha adorável que é adorável apenas existindo. O protagonista é o jovem solteiro que a adota, seu sobrinho, e que agora irá viver o que nunca imaginou: ser pai solteiro.
+After that it comes the tricky thing, but not so much. We open the project to where we want to import the tasks and choose the option Open again, but this time we select our friend exported-tasks.CSV.
 
-Há algo de doce em Usagi Drop que se mantém em seus personagens, servindo de entretenimento para o espectador, mas nunca se aprofundando mais do que frases de efeito. De qualquer forma, uma história que vale a pena ser contada e acompanhada.
+Before we do import, we got to create a new column  that will keep the TodoList tasks IDs, to make sure that in the next imports we make we could merge datum together. So, create this column using a significant name.
+
+Now we can go on the import process. Imagining to be the first one, let's create a inicial map for this migration:
+
+The time we choose who is who in the columns list, we just need to setup which columns in Project are the counterpart for the columns in TodoList, and remember to allocate our special column ID.
+
+Just more a few Nexts and voilà! We got our tasks properly imported.
+
+But of course all this work would be useless if we had to (sigh) open the Project. To avoid this impure job, we keep on updating the project status in our tiny, tidy TodoList and, when we need, we just import the data again, but this time using a already saved map (follow the screenshots above) and setting our TodoList ID as the key. This way the tasks already present will be just updated, and the unknown tasks will be added. That's the most important trick in this post.
+
+After I researched all this, I just found out the Project won't be necessary anymore. Lucky me. Now, if you don't have such luck, you can use this post =)
 

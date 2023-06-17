@@ -1,16 +1,19 @@
 ---
 categories:
 - writting
-date: '2019-08-12'
-link: https://www.imdb.com/title/tt0109962
+date: '2018-10-26'
+link: https://www.imdb.com/title/tt7051048
 tags:
+- cinemaqui
 - movies
-title: From Beijing with Love
+title: Fuga
 ---
 
-Stephen Chow é o ator e diretor de trabalhos como Kung-Fu Futebol Clube e Kung Fusão. Nesta paródia de James Bond, em que ele faz um trocadilho do título original de Moscou Contra 007 (From Russia with Love), é possível identificar vários elementos trazidos dessa união do país do kung-fu com brincadeiras estilo Austin Powers (Mike Myers, 1997). Porém, mais do que isso, o grande legado deste filme é um gif animado em que uma mulher tenta usar uma arma e atira em si mesma duas vezes. Está pronto o meme de como é usar o código-fonte do colega.
+Fuga possui uma ideia fascinante a respeito de identidade, mas está disposto a desperdiçar com uma narrativa lenta e repetitiva em torno de um mistério bobo como em tantos outros filmes. Resta o exercício narrativo, mas isso é tão pouco que passa desapercebido.
 
-Fora isso, o filme é um trabalho inacabado. Há a busca por alguém que roubou o crânio de um dinossauro descoberto na China, mas nunca fica claro quais os motivos desse roubo nem porque Ling Ling Chai (Chow), um ex-agente que se aposentou e agora é cortador de carne de porco, é contratado para resolver o caso. Há alguns double crossing na personagem de Anita Yuen, filha de uma cantora e espiã, e o único traço de humanidade na história é sua dúvida se deveria acabar com a vida do único homem que aparentemente lhe deu atenção nesta vida.
+Começando com sua temática rica do som suplantar nossas memórias, aumentando o som em alguns momentos para dar a sensação de desorientação como nessa cena inicial, vemos saindo de um túnel de trens subterrâneos uma mulher atordoada. Suja, mas de salto, ela caminha pela plataforma até decidir abaixar sua meia-calça e começar a urinar ali mesmo. Ela passou por um trauma e esqueceu quem é, mas sua família a encontra. Ela tem mãe, pai, marido e um filho pequeno, Daniel, mas não se lembra de nada disso e sua personalidade não é mais de alguém que use salto alto ou cabelos longos.
 
-Se não ficou claro até agora, From Beijing with Love é um filme muito ruim. Ele tenta se aproveitar do mundo de invenções esquisitas dos agentes secretos e da reviravolta de que no final das contas Ling Ling Chai é um agente gabaritado, mesmo que use uma machadinha de cortar carne de porco como arma. Porém, se olharmos além de tudo isso, não resta nada. São cenas jogadas uma a uma para atingir a sensação de estar em um filme de espiões sem a necessidade de existir uma trama.
+O processo de ressocialização com a família possui um ar de mistério óbvio, mas como se trata de um exercício também para a família os poucos diálogos e o tempo estendido se faz necessário. Notamos como não é fácil passar a existir em uma vida que não tínhamos ideia, como uma pessoa em que não nos reconhecemos.
+
+O filme trata da transformação da mulher na sociedade, mas arranha muito mal o tema, não desenvolve a personagem (nenhum deles) para comparação com o antes e depois. Ele tenta ser universal, mas se esquece de primeiro nos envolver com uma história mais pessoal. De fotografia fria e quadros externos onde a natureza oprime o indivíduo, ele exalta a solidão, mas não nos dá motivos para refletir. É uma narrativa itinerante que nos esquecemos logo depois como a vida da heroína. Um filme que não passa de neblina na floresta.
 

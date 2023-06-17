@@ -1,24 +1,18 @@
 ---
 categories:
 - writting
-date: '2012-10-21'
-link: https://www.imdb.com/title/tt0069293
+date: '2016-12-04'
+link: https://www.imdb.com/title/tt2204371
 tags:
 - movies
-title: Solaris
+title: Somm
 ---
 
-Solaris exige do espectador uma imersão surreal e ao mesmo tempo filosófica. Tudo bem que isso já é esperado de toda boa obra de ficção-científica, que nos coloca em uma realidade alternativa mas que continua debatendo temas da época em que foi feita.
+Somm é um documentário no sentido mais didático da palavra, mas que consegue através de sua narrativa quase sempre fluida entregar um pouco de tensão nos preparativos de um trio de degustadores de vinhos que se preparam há anos para tirar o certificado mais cobiçado e exclusivo do planeta. E, de quebra, você irá aprender uma coisa ou outra interessante sobre o mundo do vinho.
 
-Só que aqui estamos falando de uma união entre sci-fi e filosofia Tarkosvkiana. Quero dizer, o diretor é intenso. E é russo. Sonhos aqui não são apenas descritos: são vividos.
+É necessário tomar cuidado com documentários que mexem com commodities assim como documentários que falam de ecologia e mundo sustentável. Ambos podem estar infectados com ideologias ou marketing puro. Felizmente, no caso de Somm o formato é mais biográfico, e acompanhamos a rotina exaustiva de três rapazes que ambicionam o título máximo entre os sommeliers, as pessoas que conhecem muito sobre vinhos e costumam trabalhar como especialistas em restaurantes chiques para auxiliar seus clientes.
 
-E por falar em sonhos, nos colocamos na situação do psicólogo Kelvin (Donatas Banionis), cuja missão se passa na estação espacial em torno da atmosfera misteriosa do planeta Solaris, que possui um oceano que se comporta como uma espécie de cérebro, materializando criaturas que se parecem (e agem) como humanos. Como não poderia deixar de ser, essas aparições estão deixando a equipe de pesquisadores extremamente perturbada, o que não os ajuda em nada a desvendar o funcionamento do planeta.
+O diretor e roteirista Jason Wise (trocadilhos com seu próprio nome e "wine"? (vinho)) entrega um filme que une depoimentos com o que eles representam visualmente, o que por si só já consegue ser melhor que a maioria dos documentários. Quando alguém comenta sobre determinado aspecto do vinho, somos logo levados a um lugar distante, em uma viníciola, ou adega ou restaurante, onde vemos de fato o que está sendo falado. Até o momento do teste em que eles precisam passar, embora não possa ser filmado, é narrado e pós-apresentado com uma tensão agradável de acompanhar.
 
-O mais curioso de uma história envolvendo gabaritados doutores é que estes fazem parte do filme, e por isso não conseguem entender algo que para nós, espectadores, munidos do poder da metáfora e alegorias, conseguimos enxergar de maneira muito óbvia: o oceano que adquire diversos formatos faz o papel da psique humana. E a psique não se desvenda, se interpreta.
-
-E é exatamente isso que Tarkovski nos sugere, aplicando rebuscados planos e se estendendo em torno de quadros que repetem um padrão (ou a falta de). Quando Kelvin passa a conviver com sua ex-amada Hari (Natalya Bondarchuk), a experiência é tão intensa que é como se nós mesmos a conhecêssemos de outras vidas.
-
-De certa forma, isso não é completamente mentira. O oceano de Solaris pode representar, de certa forma, a psique da humanidade inteira. A visão junguiana favorece as elucubrações filosóficas que ocorrem. E se estas podem parecer simplesmente jogadas, é preciso lembrar que ela está saindo da boca de representantes máximos da espécie humana (e Sócrates está presente em ambos os ambientes, na Terra e no Espaço). Estes homens não conseguiram desvendar Solaris assim como o Homem não consegue a si mesmo.
-
-Que triste fim para o Homem que, por não saber quando vai morrer, vive apressadamente. Se pelo menos tiver apreciado uma sessão de Solaris, talvez a viagem não tenha sido feita em vão.
+Somm é um filme fácil de assistir, com diversas informações do mundo do vinho, e que potencialmente não tem muito de marketing escondido. Parece um caminho seguro para aprender mais sobre a bebida dos deuses.
 

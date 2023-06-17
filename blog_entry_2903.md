@@ -1,17 +1,20 @@
 ---
 categories:
 - writting
-date: '2022-03-17T22:52:17-03:00'
+date: '2013-01-01'
+link: https://www.imdb.com/title/tt0099685
 tags:
 - movies
-title: Os Amores de Uma Loira
+title: Os Bons Companheiros
 ---
 
-A história começa tenra. E fofinha. Duas garotas na cama conversam sobre um crush. Ela, a loira, mostra a foto dele para sua amiga. Seus olhos brilham. Estamos em um pós-guerra em uma região da Tchecoslováquia onde há 15 mulheres para cada homem.
+A primeira sequência de Os Bons Companheiros começa com os personagens de Robert de Niro (James Conway), Ray Liotta (Henry Hill) e Joe Pesci (Tommy DeVito) tendo que parar o carro para dar fim ao corpo que ainda insistia em manter-se vivo no porta-malas. A violência gráfica com que isso ocorre é sanguinária tanto na luz quanto no ato que ocorre na traseira do veículo. Quando acompanhamos o crescimento de Henry entre os gângsteres e voltamos novamente a essa cena é como se fizéssemos já parte do grupo: da gangue e da família que estes formam.
 
-Essa união entre o romântico e o pragmático é o coração dessa comédia de costumes dos anos 60. Dirigido por Milos Forman (Amadeus), o toque humano está em cada comentário espirituoso, mas é nos detalhes da direção que constatamos o quão próximo estamos da vida real nesse filme preto e branco.
+Não há limites para a violência filmada por Scorsese, mas há sempre um motivo muito claro para ela acontecer, nem que seja um acesso de raiva de Tommy, que, já sabemos, parece explodir pelo menor dos motivos de uma hora para outra. O interessante é acompanhar como Henry encara a impulsividade de Tommy, pois esta é a história de um homem que pertence ao grupo dos "Goodfellas", mas parece manter um dos olhos abertos.
 
-A sequência que irá fazer você desabar é o baile dos reservistas. Chega um trem lotado de velhos e as garotas querem dançar. E começa um flerte dos mais juvenis entre esses homens casados que estão longe de casa há muito tempo. As garotas querem dançar, claro, mas não topam qualquer coroa.
+Filmado com uma fotografia absolutamente soberba, de comparar-se a outra obra máxima, O Poderoso Chefão, não possui quase nada comparável ao filme do Copolla mesmo ambos sendo filmes de máfia. A exceção óbvia fica por conta do seu virtuosismo técnico, presente em ambos. Já acostumado com uma equipe que equilibra fotografia, direção de arte e trilha sonora à altura do roteiro e direção impecáveis, como pode ser visto em [Taxi Driver] e Touro Indomável, Scorsese ainda conta com a magnífica montadora Thelma Schoonmaker, que junto com James Kwei tornam a tarefa de acompanhar mais de duas horas de tensão e envolvimento agradável graças às belíssimas transições.
 
-O ritmo cômico de toda essa sequência é o que nos aproxima desse material humano, sincero e fofinho. A história continua e sequer percebermos que se trata de um roteiro. É nos momentos sem graça que a arte se aproxima da vida como ela é. Que micro declaração de amor pela vida, pelo amor e pela juventude.
+Não há mais nada a dizer sobre Goodfellas por enquanto, pois é um filme que deve ser degustado com certeza mais de uma vez. A primeira é uma imersão tão completa que acabamos fingindo não se tratar de um filme. É a vida real, romantizada, dramatizada, mas tão real que fica difícil separar os elementos que formam a obra de arte.
+
+[Taxi Driver]: {{< relref "taxi-driver" >}}
 

@@ -1,31 +1,39 @@
 ---
-categories: []
-date: '2007-11-13'
+categories:
+- playing
+date: '2023-03-04'
+link: https://www.chess.com/game/live/71619340319
 tags:
-- english
-title: MouseTool
+- chess
+title: Movi a dama no pre-move e me ferrei
 ---
 
-Well, as most of you already know, I really don't like mice. Nevertheless I respect the users who use it and like it. That is the reason why I am writing a little more about it. This time, I going to show a program I use every day: MouseTool, for the users who does not use the mouse and like it.
+Brancas jogam e vencem.
 
-The program main purpose is to avoid clicking the mouse, simulating a click every time the user stops to move the cursor. Just this: simple, efficient and mouseless =).
+{{< image src="board.png" >}}
 
-There are some options like drag-and-drop and double-click, both available through the program. You can choose to use a keyboard shortcut or the mode state, where you can switch the program default among simple-click, double-click and drag-and-drop.
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.03.03"]
+[White "cavaloni"]
+[Black "eugjen111"]
 
-MouseTool was originally a open source tool. That means the lastest open source code is available, right? Wrong. Actually, I was unable to find it in every place I looked for.
-
-Fortunately, my friend [Marcio Andrey] has got the source, and just like me, he wanted to make it available to everyone who would like to use it and change it.
-
-Let's make use of this source and show how to explore a code not written by us. Normally the first things to do are: download the compacted file and extract the files into a new folder. So we find the project file (in this case, MouseTool.dsw) and try to open it. The result is a total failure, because I believe no one use the Visual Studio version that opens this kind of file (it will convert it to another one).
-
-Normally open source projects programmers are used to get the source code files, modify them, use them, publish them and all. But this is not always true about strict Windows commercial programmers.
-
-Given the source files, we can explore some interesting parts we'd like to do someday in our own programs. And the main part is: we have the source, but not the copyright.
-
-Click in the link in the end of the post and make good use of it.
-
-Update: MouseTool now has a home page and a Source Forge project! Its new name is [GMouseTool].
-
-[Marcio Andrey]: http://marcioandreyoliveira.blogspot.com/search/label/GMouseTool
-[GMouseTool]: http://gmousetool.sourceforge.net
+1. Nf3 e6 2. e4 d5 3. exd5 Qxd5 4. Nc3 Qd8 5. Bc4 Nf6 6. O-O Bd6 7. d3 h6 8. Be3
+O-O 9. Qd2 Ng4 10. h3 Nxe3 11. fxe3 Nc6 12. a3 Ne5 13. Ba2 Nxf3+ 14. Rxf3 Qg5
+15. Ne4 Qe5 16. Raf1 Qxb2 17. Bb3 Qxa3 18. Nxd6 Qxd6 19. Qf2 Qe7 20. e4 b6 21.
+d4 c5 22. d5 Ba6 23. c4 exd5 24. exd5 Rae8 25. Rd1 Bb7 26. Rfd3 a5 27. Ba4 Rd8
+28. Re1 Qg5 29. Qg3 Qxg3 30. Rxg3 Kh7 31. Re7 Ba6 32. Rc3 f5 33. Kf2 f4 34. Kf3
+Bc8 35. Bc2+ Bf5 36. Bxf5+ Rxf5 37. Rb7 Rd6 38. Ke4 Kg6 39. Rxg7+ Kxg7 40. Kxf5
+f3 41. gxf3 Rf6+ 42. Kg4 a4 43. Ra3 Rg6+ 44. Kf4 Rf6+ {A engine manda ser
+corajoso e avançar o rei para e5.} 45. Kg3 (45. Ke5 Kf7 46. d6 Re6+ 47. Kd5 Re1
+48. Kc6 Rd1 49. Kc7 Ke6 50. Re3+ Kf6 51. d7 Kf5 52. d8=Q Rxd8 53. Kxd8) 45... h5
+46. Rxa4 Kg6 47. Ra3 Kg5 48. Rd3 h4+ 49. Kf2 Rf4 50. d6 Kf6 {Brancas jogam e
+vencem.} 51. d7 Rd4 52. Rxd4 cxd4 53. d8=Q+ Ke5 54. Qxd4+ {Movi a dama no
+pré-move e me ferrei.} 54... Kxd4 55. Ke2 Kxc4 56. Kd2 b5 57. f4 b4 58. f5 Kd5
+59. f6 Ke6 60. Kc2 Kxf6 61. Kb3 Kf5 62. Kxb4 Kf4 63. Kc3 Kg3 64. Kd2 Kxh3 65.
+Ke1 Kg3 {E com esse lance perde uma vitória certa.} 66. Kf1 h3 67. Kg1 Kf3 68.
+Kh1 Kg4 69. Kh2 Kh4 70. Kh1 Kg3 71. Kg1 Kf3 72. Kh1 Kg4 73. Kh2 Kh4 74. Kg1 Kg3
+75. Kh1 Kf3 76. Kh2 Kg4 77. Kg1 Kg3 78. Kh1 Kh4 79. Kh2 Kg4 80. Kg1 Kg3 1/2-1/2
+```
 

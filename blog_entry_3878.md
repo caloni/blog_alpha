@@ -1,19 +1,21 @@
 ---
 categories:
 - writting
-date: '2018-10-11'
-link: https://www.imdb.com/title/tt6100336
+date: '2021-11-13T15:54:13-03:00'
 tags:
 - cinemaqui
+- mostrachinesa
 - movies
-title: Um Noir nos Balcãs
+title: Um Porto Seguro
 ---
 
-Era pra ser uma história simples sobre perdas e auto-destruição, como o ótimo Em Pedaços (do diretor Fatih Akin, com Diane Krueger), que de bônus tem uma trilha sonora ótima de rock pesado. Mas Um Noir nos Balcãs é apenas um filme que lembra vagamente o gênero noir, e resolve aplicar gracinhas cinematográficas no meio que não fazem o menor sentido, e de quebra tem uma trilha sonora pop bobinha. A protagonista até usa o título da música-síntese de uma cantora pop, Cyndi Lauper: "Girls Just Wann to Have Fun". E o único que não tem diversão nisso tudo é o espectador.
+As primeiras cenas de Um Porto Seguro são tensas. Descobrimos o motivo pelo qual um jovem estudante vira fugitivo após invadir a casa de um homem e no meio de uma briga matá-lo. Quinze anos se passam e a história continua boa, puxando as linhas do passado, em um presente cínico e sem esperança.
 
-Isso porque partindo de uma história simples -- uma mãe com a filha desaparecida há seis anos -- o filme mistura uma lógica temática que envolve propagandas antigas de cigarro como o inconsciente coletivo agindo. Mas além disso corta a história em pedaços, que nada contribui para entendermos seus personagens nem a história, que avança a passos de tartaruga e de forma confusa. Porém, mais uma vez, não é a forma confusa e de moral duvidosa de um noir, mas confuso por ser confuso, mesmo.
+Com certeza o diretor Li Xiaofeng é fã de um cinema noir. O tema musical é uma ode aos velhos tempos desse gênero que volta toda década, fora que o clima de desesperança de Um Porto Seguro cai muito bem. A estética do filme é muito próxima da atmosfera que lembra o gênero, mas os temas são distintos. O que evoca esse tom é de fato a falta de caráter de sua cidade-natal, de sua família e até de sua ex-colega de escola. Um intenso exercício sobre culpa, destino e justiça.
 
-Além dos truques com as propagandas de cigarros -- um achado divertido em si mesmo --  há também o uso indiscriminado de movimento de câmera, brincando com a percepção do espectador e nos jogando longe da ficção, como quando a câmera deita junto quando alguém derruba uma árvore (muito brega), ou "piscadas" feitas em alguns momentos em que alguém está acendendo o isqueiro ou socando alguma coisa. Nada disso contribui com a história e é mera diversão estética do diretor Drazen Kuljanin, que quer que olhemos para ele em vez do filme.
+Ainda assim, o filme é capaz de trazer um pouco de humor incidental quando o fugitivo se vê comparado a um tarado seguindo uma jovem de escola e um ser humano marginalizado ao se desviar das tentativas de sedução da "femme fatale" do longa. São apenas nesses momentos pontuais que respiramos. Aliás, a atriz veterana Jia Song está arrebentando em seu papel. Note como ela constrói o clima em volta do personagem de Yu Zhang como se fosse um fim de feira na cena de um bar, mas de repente ela se torna o evento, mesmo que cante muito mal.
 
-Não é possível extrair significado de toda essa bagunça sem ritmo exceto a própria estética aplicada no filme. Não é um filme sobre uma história. A história é mera isca para apreciarmos vídeos antigos de médicos promovendo o fumo ou imagens de bebês que piscam em alguns momentos. Um Clube da Luta sem imaginação nem propósito preparado artesanalmente em dois dias na Suécia e cinco na Sérvia. Não me admira que tenha sido feito tão rápido: não há roteiro enquanto o filme pisca para você. Vai um cigarro aí?
+Porém, quase nada são flores neste filme, que evoca seu clima pesado não apenas pelos seus personagens com tendências mafiosas, mas também através da solidão visual dos belíssimos enquadramentos de Li Xiaofeng, que mostra a vila onde aconteceu o trágico evento despedaçada por uma empreiteira, restando apenas uma casa, e da fotografia, com tons escuros e acizentados em uma cidade portuária que se recusa a mostrar um raio de sol que seja.
+
+Um Porto Seguro é cinema bem-feito, com competência e segurança. Xiaofeng dirige seu terceiro longa com extrema propriedade. Já recebedor de três prêmios internacionais, é uma bem-vinda e mais conhecida contribuição à Mostra de Cinema Chinês esse ano.
 

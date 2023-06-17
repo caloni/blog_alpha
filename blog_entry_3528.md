@@ -1,26 +1,24 @@
 ---
 categories:
 - writting
-date: '2016-11-23'
-link: https://www.imdb.com/title/tt5728684
+date: '2016-10-15'
+link: https://www.imdb.com/title/tt0121955
 tags:
-- movies
-title: Sour Grapes
+- series
+title: South Park - Vigésima Temporada, Episódios 1 a 4
 ---
 
-Este documentário mostra através de uma narrativa fluida e divertida uma das maiores fraudes na história do vinho. Pegando carona com a bolha de 2008, acompanhamos a história de Rudy Kurniawan, um asiático muito simpático que se inseriu na rodinha de velhos colecionadores de vinho e conseguiu ganhar amigos, fama, e muitos, muitos milhões.
+A vigésima temporada de South Park começa em um tom dramático que esconde o humor ainda mais dentro do absurdo de suas situações. Não deixa de ser poderosa sua mensagem, mas ele está se tornando, desde a temporada anterior, um longa-metragem anual de três horas e pouco. Isso é bom ou ruim? Talvez seja necessário esperar o fechamento do arco deste ano para termos certeza.
 
-No fundo, não há muito o que contar da história em si além da velha sequência de passos que levam pessoas bem-intencionadas a serem enganadas por alguém, como sempre, acima de qualquer suspeita. Dessa maneira, os diretores Reuben Atlas e Jerry Rothwell vão apresentando aos poucos todos os envolvidos na trama, começando pelo produtor de vinhos Laurent Ponsot.
+O que a série criada por Trey Parker, Matt Stone e Brian Graden parece nunca temer é ousar além dos caminhos de seus semelhantes (Simpsons, e Family Guy, isso é sobre vocês). Isso por um lado pode levar a resultados bem medíocres ou desastrosos, mas ainda ganha créditos por utilizar os personagens em situações que fazem todo sentido para eles, e ao mesmo tempo não, já que esta é uma série de humor.
 
-Produtor de vinhos em Borgonha, região tradicionalíssima na França, Ponsot fica intrigado ao descobrir que um de seus vinhos leiloados em Nova York foi acusado como falso. A partir dele acompanhamos a descoberta de um colecionador compulsivo de coisas -- entre elas, vinhos -- que descobre que no meio de sua volumosa adega encontram-se exemplares de vinhos cuja fonte é justamente Rudy Kurniawan.
+E o humor parece quase nunca existir nas situações pontuais da trama, que começa com os famigerados Member Berries, uma fruta que é vendida em cachos como uvas, formada por carinhas simpáticas que concordam com todas as memórias dos anos 80 e 90, que hoje são revividas em uma reciclagem de forma (e não de conteúdo) por J. J. Abrams, que pegou para si as missões de ressuscitar as séries Star Trek e Star Wars, ícones de duas gerações diferentes de nerds. Agora ele aceita a missão de reviver algo que está cada vez mais perdido, como monstram as eleições americanas deste ano: o hino nacional.
 
-Rudy, uma pessoa sempre acompanhada por um de seus melhores amigos, o diretor Jefery Levy, contém um histórico de imagens graças a ele, o que permitiu que os diretores e seu editor, James Scott, compusessem cenas com o colecionador/degustador de vinhos recém-chegado na Califórnia e um popstar por onde passasse. Todos ficavam impressionados com sua "paleta" (a quantidade de vinhos experimentados por ele) e ninguém sabia sua origem. Uma pessoa fácil de lidar, e que justamente por isso traz nos testemunhos de seus amigos um traço de decepção misturado com admiração.
+E o hino nacional é apenas uma chave para desvendarmos toda a miríade de metáforas e símbolos da série. O patriotismo americano não é o que está em jogo, mas o significado disso em primeiro lugar. Se as pessoas estão mais interessadas na discussão política entre escolher um babaca e um sanduíche de cocô (dualidade essa já feita na temporada 8), e em quais atletas irão se sentar ou não durante o hino (mesmo que seja em um jogo da escola regional), há algo de errado na vida real.
 
-Através do filme, conseguimos acompanhar o processo de falsificação de vinhos e também como funciona esse mercado de colecionadores. Entendemos o crescimento descomunal dos preços e do próprio mercado graças a duas bolhas (o .com e o de 2008), e uma pequena parte impulsionada pelas cada vez maiores vendas de Ruby em um leilão conceituado em Nova York que logo quebra recordes em volume financeiro.
+E é justamente essa a outra vertente da trama esse ano. Quando uma aluna cuja mãe é atacada por um troll de internet decide cometer a trágica decisão de... sair de seu Twitter, os alunos se reúnem com o conselheiro da escola para mandar tweets acalorados sobre a aluna, presente em corpo, mas destituída de seus direitos civis na internet: ter uma rede social. E do outro lado do oceano, na Dinamarca, terra natal dos lendários trolls (os da vida real), uma celebridade comete suicídio. A ponte entre member berries e as escolhas das pessoas no dia de hoje é sutil e vai engrossando conforme avançamos na história... mas é preciso apenas dizer que memórias não vêm em unidades, mas em cachos. O reboot de Star Wars e a escolha de um candidato que irá fazer "a América ótima novamente" afastando imigrantes do país não é uma triste coincidência.
 
-É interessante notar como nesse mercado, uma fraude é sequer vista e acompanhada, e os culpados raramente serão descobertos ou sentenciados, já que as vítimas preferem acreditar na mentira da autenticidade de sua adega a ter que abrir os olhos para a realidade. E não se trata apenas de dinheiro, já que para a maioria esse é apenas um detalhe (como o próprio Rudy diz em certo momento).
+É em cima dessa estrutura que os meninos e meninas de South Park adentram em uma luta de classes... quer dizer, de gêneros. Bom, pouco importa. Quando o diretor da escola é um SJW (Social Justice Warrior, ou Guerreiro da Justiça), ou seja, um levantador de bandeiras sociais com o uso do escudo do politicamente correto, qualquer motivo é um motivo válido para que grupos se ordenem não por causa do que indivíduos fizeram, mas sua representatividade nesse caldo irracional das maiorias e minorias.
 
-Aliás, é muito engenhosa a criação da narrativa em Sour Grapes, já que Rudy faz parte da maioria dos momentos, sendo que ele sequer respondeu ao pedido de entrevista dos produtores. Várias de suas frases são utilizadas de maneira criativa para pontuar o que está sendo dito por seus ex-amigos e pelos especialistas que vão à caça da verdade. Além disso, as somas vultosas das operações se tornam cada vez mais inacreditáveis conforme a história avança, e as investigações se tornam realmente empolgantes quando vai sendo descoberta a origem de Rudy e sua família.
-
-Por fim, fica a pesada lição de moral: se mexer com homens ricos, é bem capaz que sua pena seja maior do que a de alguns assassinos.
+Com os levantes dessas bandeiras, e com a criação novamente de uma mega-trama que tende a tomar a temporada inteira -- como foi, aliás, no ano passado -- South Park oficialmente se dedica imensamente a criar histórias dentro do contexto, e não perder mais tempo com piadas pontuais. Nesse sentido, ultrapassa Family Guy em milênios. Porém, fica a dúvida: isso será, de fato, engraçado?
 

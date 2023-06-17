@@ -1,73 +1,37 @@
 ---
-
-[Já falei sobre cronogramas] por aqui e tudo que disse ainda se aplica. Contudo, comentei brevemente sobre entender seu próprio ritmo, que, instintivamente, sabia ser verdade. Depois que [li um pouco mais sobre técnicas XP/Scrum](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) (que nada mais são do que formalizações do que os programadores Agile perceberam no decorrer dos seus projetos) achei uma fórmula simples para transformar o tempo estimado em tempo realista.
-
-Vejamos o texto original (auto-plágio):
-
-Regra # 5: não inclua o ócio no cronograma
-
-Seja honesto consigo mesmo e com seu chefe: você realmente trabalha 8 horas por dia? É lógico que não! E não é nenhuma vergonha admitir isso. Todos nós temos emails para ler e responder, reuniões para presenciar e bloques importantes para acompanhar. Portanto, ignore essa conversa fiada de 8 horas e admita: não se deve contar os dias como se eles tivessem 8 horas.
-
-Qual o valor de um dia, então? Cada um sabe o valor que deve ser decrementado desse valor simbólico de 8 horas, mas esse valor sempre será menor. Não se iluda!
-
-Exatamente. Não se iluda! Isso tem seu reflexo na metodologia Agile. Basicamente quer dizer que você precisa aplicar índices que reflitam a realidade do seu próprio ritmo. Além disso:
-
-Regra # 4: uma tarefa estimada é uma tarefa completada
-
-É muito simples ilustrar e entender esse conceito com código. Voltando ao caso da função, digamos que você consiga terminar a bendita função em exata uma hora. Você é bom, hein?
-
-Porém, essa função ainda 1) não foi comentada,  2) não foi testada e  3) não foi testada em release.
-
-Logo, essa é uma tarefa em que você termina o mais importante em uma hora... mas não termina tudo. Deve-se sempre considerar a tarefa por completo, pois no final de quinze tarefas vai faltar comentar e testar tudo isso, o que aumentará consideravelmente a imprevisiblidade no seu cronograma.
-
-O que, novamente traduzindo, é mais um indicador a ser aplicado sobre seus números.
-
-E o que são seus números?
-
-Basicamente, o que a própria metodologia ensina: meça o esforço necessário para fazer código (mas é pra isso mesmo que somos contratados, não?) como se pudéssemos programar por todo esse tempo sem parar por um momento sequer (mesmo que sejam dezenas de horas). Lógico, aprenda a dividir o esforço em pequenos passos, mas estime o tempo considerando APENAS o esforço de fazer o código.
-
-Pronto? Agora é hora de aplicar os indicadores.
-
-### 1. Foco
-
-Mais uma vez, admita: programadores raramente conseguem manter o foco por muito tempo. São pessoas ao redor te desviando a atenção, o tweet que salta de uma janela ou até mesmo as necessidades orgânicas que todo ser humano tem. São elementos, enfim, que, em conjunto, nunca te possibilitarão ter 100% do foco durante todo o trabalho.
-
-Portanto, criemos um indicador: foco. Ele é um valor entre 0 e 1 e estima a porcentagem de foco que você consegue obter, em média, durante o dia. Por exemplo: eu consigo me focar 70% do dia inteiro em apenas codificar e o resto é perdido em reuniões e e-mails. OK. Esse número é, então, 0,7. Aplique sobre seu total de horas e terá o tempo real para codificar a tarefa:
-
-Levarei 35 horas para codificar todo o processo de autenticação por reconhecimento de face, trabalhando sem parar.
-
-    
-    35 / 0.7 = 50
-
-No entanto, como consigo apenas 70% de foco em média, sei que essa tarefa irá levar 50 horas na verdade.
-
-### 2. Finalização
-
-Já temos o tempo para o código ficar pronto, mas... é apenas código. Temos que reescalonar o tempo do projeto inserindo testes, retrabalho, comentários e documentação. Tudo ainda nas mãos do programador, que está ainda "aquecido" e que pode resolver retrabalhos em questões de segundos, se ninguém mais passar nada pra ele.
-
-Mesmo assim,é um indicador importante. Sem ele, a qualidade do serviço final fica muito restrita e sensível a testes de caixa preta, gerando a revolta da equipe de testes.
-
-Vamos supor, então, que, historicamente, essa fase tem sido, digamos, 20% do período de codificação (um chute bem otimista). Agora é fácil dizer o tempo final:
-
-Levarei 50 horas para codificar tudo considerando o quesito foco.
-
-    
-    50 * 1,2 = 60
-
-Porém, para poder entregar, preciso dedicar cerca de 20% aos testes, retrabalho e uma documentação mínima. Nesse caso, 60 horas é o prazo de entrega.
-
-_Note que, se quiser, pode fazer a análise contrária também, tanto de um quanto de outro. Assim, se geralmente você gasta 20% a mais na codificação do que estima, então use o fator foco como 1.2 e multiplique em vez de dividir. Da mesma forma, se codificar é 60% de todo o trabalho, o fator finalização é 0.6 e deve-se dividir as horas pós-indicador de foco._
-
-### Conclusão
-
-O número de horas ficou muito maior que o esperado? Não me admira que os projetos geralmente atrasem, então. Por pior que pareça o cálculo final, ele foi construído com base na realidade. E não há nada melhor do que nos basearmos na realidade para estimar seriamente o quanto pode custar à empresa um projeto qualquer.
-
-[Já falei sobre cronogramas]: {{< relref "cronograma" >}}
-
+categories: []
+date: '2020-10-04'
+link: https://www.crunchyroll.com
+title: Crunchyroll
 ---
-categories:
-- writting
-date: '2021-11-23T20:25:51-03:00'
-tags:
-- movies
-title: Croods
+
+Comecei a compartilhar a assinatura do Crunchyroll com uma amiga e comecei a explorar a ideia fixa na minha cabeça (não-original [^1]) de que é possível analisar animes (ou qualquer obra audiovisual) pelos seus primeiros minutos ou episódios. Então estou fazendo isso pulando animes aleatoriamente enquanto vejo qual deles pode ser interessante.
+
+Bom, quase aleatoriamente. Obras muito populares não me interessam, assim como temas manjados (ao menos por enquanto), como animes de lutas. Por enquanto estou focando no que tem me atraído o interesse: a visão dos japoneses sobre relacionamentos. E o que mais abunda em animes são os relacionamentos na fase do colégio.
+
+Sendo assim, segue a lista desse primeiro fim-de-semana. Os textos estão horríveis e são muito pequenos, mas foi praticamente um binge-watching. Juntando com minha lista de uma dezenas de obras que ainda não havia escrito, a consequência da minha falta de disciplina, caro leitor, é "o que tem pra hoje" style.
+
+ - [Keep Your Hands Off Eizouken!]
+ - [Love is Like a Cocktail]
+ - [I Can't Understand What My Husband Is Saying]
+ - [Blend-S]
+ - [Tsudedure Children]
+ - [Love Tyrant]
+ - [Pop Team Epic]
+ - [My First Girlfriend is a Gal]
+ - [Tonari no Seki-kun: The Master of Killing Time]
+
+[^1]: tudo começou com meu amigo sugerindo assistir [Steins;Gate] e após isso me recomendou o vídeo [How to Recognize a Great Anime] (in just one episode).
+
+[Keep Your Hands Off Eizouken!]: {{< relref "keep-your-hands-off-eizouken" >}}
+[Love is Like a Cocktail]: {{< relref "love-is-like-a-cocktail" >}}
+[I Can't Understand What My Husband Is Saying]: {{< relref "i-cant-understand-what-my-husband-is-saying" >}}
+[Blend-S]: {{< relref "blends" >}}
+[Tsudedure Children]: {{< relref "tsudedure-children" >}}
+[Love Tyrant]: {{< relref "love-tyrant" >}}
+[Pop Team Epic]: {{< relref "pop-team-epic" >}}
+[My First Girlfriend is a Gal]: {{< relref "my-first-girlfriend-is-a-gal" >}}
+[Tonari no Seki-kun: The Master of Killing Time]: {{< relref "master-of-killing-time" >}}
+[Steins;Gate]: {{< relref "steins-gate" >}}
+[How to Recognize a Great Anime]: https://youtu.be/0kQrT8S2Mrw
+

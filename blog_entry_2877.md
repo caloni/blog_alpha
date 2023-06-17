@@ -1,30 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-09-15'
-link: https://www.imdb.com/title/tt1536537
+date: '2020-10-25'
+link: https://www.imdb.com/title/tt0388629
 tags:
-- movies
-title: Onde Está Segunda?
+- animes
+title: One Piece
 ---
 
-Hoje em dia até os títulos dos filmes encomendados pela Netflix são ruins. E nesse caso não há erro: esse filme é muito ruim. Não ruim de trash (para se divertir), nem ruim de estilo (para ficar com ódio). Ruim de você não sentir nada, mesmo.
+Apesar de ter planejado terminar em cinco anos, a inventividade da criação de Eiichiro Oda e o consumismo dos fãs é infinito. Existem muitos personagens nesta série de mangá que virou anime dois anos depois de ter virado um hit na primeira vez que apareceu na revista Weekly Shonen Jump em 1997. Mais de vinte anos se passaram, provavelmente com altos e baixos. Este texto diz respeito a apenas o primeiro episódio.
 
-Talvez não seja exclusivamente deles. Ultimamente os filmes de sci-fi enlatados (Série Alien, Vida) estão em franco declínio de ideias. Toda uma vasta literatura do gênero e porções generosas de computação gráfica não torna as propostas comerciais minimamente interessantes como ideia. E nem execução.
+Esta é uma série clássica do herói que não teme a ninguém porque ele tem algo pelo qual lutar. Ele quer ser o rei dos piratas e encontrar o One Piece, um tesouro que está escondido por aí. Ele sequer tem uma tripulação, mas isso não importa. Ele é alguém que decidiu o próprio destino, o que o torna o herói clássico e romântico por definição.
 
-Nesse caso temos um Willem Dafoe desperdiçado vendo as sete gêmeas recém-nascidas de sua finada filha e falando/contando em voz alta: Domingo, Segunda, Terça...
+No primeiro episódio ele encontra uma bucaneira assustadora e um garotinho inofensivo. A bucaneira monta sua tripulação através do medo, e o garotinho está com eles há dois anos simplesmente porque não consegue dizer não. Isso e a agressão física. A bucaneira hoje em dia seria rotulada como o típico estereótico de feminista: feia, gorda e um poço de carência. Seu navio tem corações e ela é um péssimo ser humano, querendo que todos a dêem atenção e que tudo gire em torno dela. É hilário, mas carrega um peso trágico.
 
-Trinta anos se passam e a história que é com essas meninas crescidas irá aos poucos explicar todo o sistema montado pelo avô para mantê-las vivas. Sim, este é um futuro distópico onde transgênicos causam uma ultra-fertilização das mulheres, fazendo-as terem muitos filhos por parto (risos incontroláveis). A solução do governo, que aqui se chama Agência pois um governo nunca faria engenharia social, apenas corporações malvadas (risos incontroláveis), é manter a regra de um filho por família, colocando todo o resto em estado criogênico para quando a Terra estiver menos super-habitada. Aham.
+O humor em One Piece passa por vários caminhos, mas geralmente vai pelo exagero da situação e dos traços inspirados de Eiichiro Oda. É engraçadinho e adorável para crianças (porque vai direto ao ponto). Se você possui uma alma infantil e aventureira irá adorar o plot. Não há artimanhas nem reviravoltas. Pelo menos não em um episódio.
 
-Agora, tudo isso já é extremamente ridículo, mas a capacidade do diretor e seus roteiristas em extrapolar o senso de ridículo é incomensurável apenas se baseando no plot inicial. O que vemos é uma trama que se revela quando uma das gêmeas não volta para casa. Aliás, eu comentei que cada uma das irmãs tem um dia da semana para sair, e que todas como uma mesma identidade, já que a existência de mais de uma colocaria em risco a existência de todas? Não, não comentei. Mas adivinha qual dia da semana ficou reservada para uma pessoa que se chama Segunda? Acho que agora você está entendendo.
+O piloto já consegue apresentar todos os personagens mais relevantes nessa jornada em uma tacada, mas esta é uma série que tem tudo para se desdobrar em várias fases, como assim o foi. Seu tema é eterno e seus valores sólidos. O autor é fã incondicional de dois Akiras: Toriyama, criador de Dragon Ball, e Kurosawa, diretor do clássico absoluto Os Sete Samurais. É fácil encontrar as influências da série, que ensina caráter e valores para as crianças. Mesmo ouvindo do menininho do episódio que ele deseja ser da Marinha e caçar piratas como ele isso não incomoda o herói, pois cada indivíduo deve ser livre para ser o que quer ser.
 
-No fundo este não é um sci-fi para fazer pensar, pois ele logo vira mais um filme de conspiração, perseguição, tiros e explosões, todos intercalados por frases óbvias ("cada uma de nós nos sacrificou por todas"). Mas o pior vem a seguir. Aos poucos vemos que o idealizador dessa história gosta muito do filme Matrix, fazendo questão de imitar algumas cenas e músicas. O resultado é um copycat horroroso que termina com uma personagem tendo como única saída pular uma distância considerável entre dois prédios. Auxiliada pela -- onisciente em todas as produções do gênero -- hacker de cadeira.
-
-Aliás, todas essas meninas são gênios, lutam bem, e ninguém tem a menor ideia de como elas praticaram tudo isso. Elas são amedrontadas desde o começo, ficando difícil entender a personalidade única de cada uma delas. A atuação da única atriz responsável pelas sete irmãs não é terrível. Apenas limitada, seja pelo roteiro ou por ela mesma.
-
-Aliás, o grande "mérito" do roteiro é não fazer parecer que duas horas de filme tem três horas de duração. A sensação é de duas horas, mesmo. Surpreendentemente há muito o que contar nessa trama pseudo-complexa.
-
-O mesmo não se pode dizer das reviravoltas do final, que nada servem para o impacto desejado. Quero dizer, convenhamos: este futuro já é uma droga. O que pode ser pior que isso? E se governos... desculpe, corporações malvadas podem fazer o que quiser hoje, o que dirá em uma eterna crise. A personagem da Gleen Close lamenta que a humanidade não tenha vislumbrado seu grande plano para o futuro, ingenuamente sem perceber que ele é um desastre já no papel.
-
-O que me lembra um pouco os dirigentes da Netflix. Talvez essas histórias enlatadas sejam o futuro distópico onde essa corporação do mal controla todos os roteiristas e diretores do mundo inteiro. Já pensou que terrível?
+O herói, Monkey D. Luffy, não manda nos outros e dá sua opinião sincera sempre ("bati porque me deu vontade"). Soa estranho no começo porque estamos doutrinados a aprender o coitadismo como algo natural e não algo a ser evitado, mas aos poucos cai a ficha.
 

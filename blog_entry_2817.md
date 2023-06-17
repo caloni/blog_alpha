@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2017-01-17'
-link: https://www.imdb.com/title/tt0018328
+date: '2014-11-28'
+link: https://www.imdb.com/title/tt1259521
 tags:
 - movies
-title: O Ring
+title: O Segredo da Cabana
 ---
 
-Hitchcock gosta de criar cenas icônicas em seus filmes. Aqui temos uma mulher apaixonada ao lado do seu amor, quase nocauteado no ringue. Ele também gosta de comédia de situações, e esta é uma delas, onde até o título do filme é um trocadilho em inglês ("ring" pode ser anel ou o ringue de boxe). Este não é um dos seus filmes de crimes, mas um triângulo... um quadrado amoroso. E confuso. São personagens que dificilmente conseguimos lembrar por muito tempo. Parecidos entre si, não caem nos estereótipos e exageros do cinema mudo. O que torna tudo muito difícil de acompanhar.
+Há uma inversão de expectativas interessantíssima em O Segredo da Cabana, primeiro longa de Drew Goddard e escrito em parceria com Joss Whedon (sim, o cara dos Vingadores). Desde o começo (e por isso não conta como spoiler) enxergamos a velha história de terror e suspense dos jovens que vão passar o fim-de-semana em uma cabana na floresta como um ritual minuciosamente planejado por apáticos funcionários de uma organização aparentemente presente no mundo todo. O motivo? O mesmo que existe nesses filmes: aplacar a sede de vingança de espíritos, ou a força sobrenatural de zumbis, ou uma maldição fantasmagórica. Simplesmente escolha a sua.
 
-A história começa em um parque de diversões, onde já vemos a destreza hitchcockiana em mesclar imagens (como de um homem rindo e um brinquedo onde deve-se acertar bolas dentro de uma face gigante. Uma das atrações é conseguir derrubar o "João Um Round", ou um nome que o valha. O campeão ganha uma bolada. Há uma moça bonita na bilheteria, que já estima João como um amigo de infância. Há também um homem bem apessoado na multidão, mais alto que a média, junto de seu amigo. Ele flerta com ela, e aceita o desafio. Ganha. Isso muda o destino de todos envolvidos.
+O interessante da inversão que comentava é: como espectadores de filmes de terror, geralmente estamos acostumados com o desenrolar da mesma história contada milhares de vezes, e sequer prestamos atenção aos personagens que seguramente vão começar a morrer em questão de minutos. Aqui, não: esses jovens não são idiotas (como na maioria desses filmes) e não estão pedindo para serem mortos. Suas personalidades são alteradas quimicamente, os tornando vítimas antes mesmo de chegarem na famigerada cabana. Nesse sentido eles se tornam heróis que precisam desvendar a trama em que foram involuntariamente envolvidos antes de serem mortos por uma organização psicopata.
 
-E por falar em destino, temos uma cigana/cartomante velha e baixinha e que fuma cachimbo como ninguém. Ela usa baralhos comuns para acertar a sorte da moça, e nele aparece o rei de copas. "Um homem alto e rico", diz. Porém, quem estará rico nesse futuro que ela almeja?
+Um dos personagens tem essa passagem filosófica onde analisa nos primeiros minutos do filme que nossa sociedade, ao escrever toda sua vida na internet através de blogues, tweets, postagens no Facebook e fotos, está cavando sua tumba definitivamente. Não estamos mais vivendo, apenas acompanhando nosso último processo de definhamento. O que se torna irônico justamente ao relembrarmos de tantos filmes de terror que serve apenas como uma escapatória da vida real por meio de uma história sempre patética onde há sangue para nossa diversão. E, vejam só, isso lembra exatamente os vilões supremos de O Segredo da Cabana!
 
-Hitchcock não quer saber de previsibilidades. Inventa mais um personagem lá no meio do filme, e cria situações apenas por criá-las. Vai "desenvolvendo" os três pretendentes em suas vidas, mas fica difícil entender o que o filme pretende. No final, uma luta magistral em um ringue muito maior, com um sino ("ring") icônico.
+Os efeitos digitais são bem ruinzinhos, e uma coisa ou outra na montagem o tenta tornar um trash involuntário. Porém, o conteúdo da narrativa compensa esses deslizes, pois nunca se torna enfadonho, sempre desdobrando suas possibilidades e se auto-analisando com metáforas divertidas e que fazem uma justa homenagem aos verdadeiros trashes, sendo a parte em que um velho "colaborador" tenta dizer suas falas ritualísticas enquanto é zombado pelos funcionários, que o escutam pelo viva-voz do telefone.
 
-A luta de boxe é um artifício enérgico e que sempre funciona no Cinema. Aqui não é diferente. Porém, qual o grande desafio a ser vencido? Dizem que uma luta de boxe no cinema nunca é sobre boxe. Aqui sim. Isso estraga a magia e nos transporta para o mundo fácil das histórias divertidas de cartoon. O garotão ganha a mocinha. Ele perde-a novamente. Ela vai até o lado dele e com seu rosto angelical faz com que ele vença a luta. Fim. E espero que o fim de filmes como esse na carreira do diretor.
+Apenas pecando em seu final por levar a história até o seu extremo sem necessidade (não esperávamos por isso), talvez por tentar forçar uma espécie final feliz onde ele não cabe, pelo menos possui a cereja do bolo orquestrada por uma Sigouney Weaver estranhamente gorda, mas, por ser a heroína definitiva da "quadrilogia" Alien, significativa em seu simbolismo final.
 

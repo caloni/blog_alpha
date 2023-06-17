@@ -1,22 +1,32 @@
 ---
 categories:
 - writting
-date: '2019-05-04'
-link: https://www.imdb.com/title/tt0765469
+date: '2023-03-28T20:30:28-02:00'
 tags:
+- cinemaqui
 - movies
-title: O Passado
+title: O Pastor e o Guerrilheiro
 ---
 
-O grande problema quando um relacionamento acaba é que, apesar de tentarmos com sinceridade seguir em frente com nossas vidas, a memória do tempo vivido com a outra pessoa existirá para sempre. Quando Rímini (Gael García Bernal) e Sofia (Analía Couceyro) se separam, mesmo que civilizadamente, algo parece impedir que Sofia aceite essa nova realidade. E este é um filme cuja expressão "peso do passado" realmente se sente.
+"Quando as nossas contradições ficaram irreconciliáveis e o precipício foi escancarado?", questiona, quase que de maneira retórica, José Eduardo Belmonte, diretor de O Pastor e o Guerrilheiro, um filme que explora acontecimentos reais do passado traumático na política brasileira através do pano de fundo dos conflitos particulares de seus personagens.
 
-Apesar da convicção sóbria de Rímini de alguém que mudou o suficiente para não querer mais a vida que tinha, ou embora sua expressão jovem pareça nos dizer que ele não é nada mais que as projeções das loucas que passaram por sua vida, a fotografia sépia de Ricardo Della Rosa denuncia o "peso do seu passado", nos lembrando constantemente que nada mudou, embora acompanhemos de qualquer forma as novas aventuras amorosas do rapaz. (Esta também é uma mensagem dúbia de como os homens são vistos (no filme e pela sociedade) como cães dispostos a trepar sempre que há a oportunidade, e as mulheres como dóceis cadelas prontas para se prender a um macho e chamá-lo de seu.)
+Levanta-se outra questão durante o filme: estaria o destino determinado pela luta individual e coletiva, ou a batalha apenas define o caráter de quem participa? O futuro já determinado vai sendo empurrado, como o fluxo de um rio, correnteza abaixo, pelas forças inevitáveis da História?
 
-Mas enxergado sob o prisma de novos relacionamentos que lembram o velho, o filme de Hector Babenco é mais um retrospecto ao contrário, onde vemos o que ocorre na vida de Rímini depois da separação, mas sempre tendo o passado como um fantasma a persegui-lo, transfigurado através de uma Sofia cada vez mais descabelada e com roupas de quem esteve trancada em casa todo o tempo. Dessa forma, enquanto seu ex se arrasta em direção a novas sensações, nunca o vemos estar de fato satisfeito com sua nova vida, mesmo que ela mude de maneira muito mais dinâmica do que de sua ex-mulher, ao menos como é sugerido em suas breves passagens.
+Para responder ambas as questões o longa caminha de igual para igual por duas épocas: os anos 70 com suas guerrilhas e perseguições políticas, e a virada do milênio, onde a releitura do primeiro passado é feita pela estudante Juliana, filha bastarda de um coronel que com sua morte deixa para ela sua riqueza construída na época da ditadura. Uma herança carregada com enormes contradições ideológicas.
 
-Transformando os prazeres da vida pós-relacionamento apenas como meras tentativas de fuga das lembranças do passado, o roteiro de Babenco e Marga Goes, baseado no romance de Alan Paulis, brinca com isso através de um curioso mal que acomete Rímini em determinado momento, que trabalha como tradutor audiovisual e intérprete, o que não deixa de ser interessante por fazer parte do tema do passado (e o que é o passado senão as memórias que carregamos conosco?). Porém, na maior parte do tempo a narrativa se limita a nos fazer ver as patinadas de Rímini em sua vida de novos amores, colocando seu argumento através do tédio. Uma pena, pois Sofia acaba surgindo em vários momentos não como uma louca, mas um sinal de sanidade em meio às turbulências da vida moderna.
+Mas não apenas a riqueza material é sua herança. Junto dos pertences do falecido Juliana encontra um livro que começa a ler, "Memórias de um Guerrilheiro". Nessa leitura a estudante restabelece sua conexão com o passado traumático da família, sobre uma época mais dura, quando seu pai protagonizou parte da História como antagonista dos valores que ela defende.
 
-Enfim, há várias interpretações sobre os diversos personagens que vão se introduzindo em uma história que corta rapidamente. Para ter ideia do ritmo do filme, uma cena de sexo corta para a mulher grávida andando preocupada pelo corredor. Outro corte ocorre depois de um táxi inusitadamente partir e o escritório de um advogado. Esses são os flashes que nos recordamos, e apesar de nosso cérebro remontar as lacunas como achar melhor, o passado é uma reconstrução eterna.
+É curioso como dá-se alto relevo a esta época de Juliana, já que as partes principais da narrativa giram em torno dela, mas ela acaba sendo mera espectadora, já que Miguel e Zaqueu, dois homens construídos com grande cuidado pelos três roteiristas deste projeto, é que são os protagonistas de fato. O curioso é como as demandas mercadológicas do presente influenciam na distorção de narrativas claramente diversas da cartilha ideológica do momento.
 
-O Passado para mim é um filme sobre as loucas e as vadias, como meu amigo sabiamente sempre me ensinou. Há vadias que não são loucas, e são estas que você deve procurar. Já as loucas, mesmo sendo vadias, a longo prazo não compensam. Atravesse a rua, meu chapa, olhe para o outro lado, e entre em um puteiro. Só assim para transformar O Passado em uma agradável fuga das mazelas do cotidiano de uma vida conjugal que já seria vista como loucura se nossa sociedade fosse minimamente sã.
+Miguel se torna um guerrilheiro nos anos 70 e é preso por coincidência junto de Zaqueu, que quase 30 anos depois é um pastor evangélico na periferia de Brasília. Estes são dois personagens que demarcam toda a estrutura dramática de uma história multifacetada. Miguel é movido pelo amor à sua ideologia e se transforma em uma força da natureza, sem passado e mirando apenas o futuro. Enquanto isso, o Zaqueu do futuro passa pelo dilema que seu filho mais velho e mais ambicioso apresenta: a expansão da religião que tanto ama, só que se distanciando de sua comunidade, por vias políticas e midiáticas.
+
+Ambos não deixam de serem idealistas, cada um à sua maneira. A parte mais forte do longa é o encontro desses dois como presos políticos, cada um cuidando de seus valores, mas se comunicando em diálogos inspiradores acerca da visão de mundo de cada um.
+
+Repare que não há brigas nas conversas entre Miguel e Zaqueu; apenas troca de ideias e argumentos. É uma época em que as contradições convivem em paz. E lembre-se que o diretor José Eduardo Belmonte questiona acerca de seu filme. Quando esse precipício entre opiniões, antes coberto por uma camada de civilidade, foi escancarado? Acho que nós do futuro de quando o filme se passa já temos fortes indícios: o avanço da tecnologia e sua aparente conexão entre as pessoas.
+
+Distantes da era dos celulares, Miguel e Zaqueu convivem em paz. O sentimento do espectador também é de paz. Os celulares, apesar de já existirem alguns, não estão nas mãos de milhões de pessoas, nem as redes sociais foram criadas.
+
+E este é o lado mais positivo de O Pastor e o Guerrilheiro: nos esquecemos de nossa própria época ao assisti-lo. As duas metades temporais pertencem ao passado e são observadas com um viés do presente que já acabou ano passado, com a transição de poderes em Brasília.
+
+É um filme melancólico por não conseguir responder uma pergunta tão presente em nossos dias. É um filme esperançoso ao abrir de certa forma um diálogo. Não com o outro lado, mas com o passado. Dialogar com o outro lado não é mais possível. O precipício foi escancarado e não há sinais de que um dia voltaremos a sermos civilizados.
 

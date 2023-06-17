@@ -1,32 +1,41 @@
 ---
 categories:
-- writting
-date: '2017-11-24'
-link: https://www.imdb.com/title/tt0974015
-tags:
-- movies
-title: Liga da Justiça
+- coding
+date: '2008-04-09'
+title: Linux e o DHCP
 ---
 
-Há alguns bons minutos no começo de Liga da Justiça onde eu gostaria muito de voltar a ser criança e vibrar vendo Mulher Maravilha, Batman e Flash juntos! Esses bons minutos, no entanto, passam logo, e no lugar vemos exatamente 120 minutos de uma obra sem começo nem fim, visualmente e narrativamente confusa, barulhenta e com uma miscelânea de cores que não combinam muito bem juntas. A colagem de Mulher-Maravilha dentro de um cenário, ambos com cores bem díspares, é o que representa para mim a união entre milhões sendo gastos em uma produção sempre barata demais.
+Quando procuramos no google por "linux dhcp", o que vem em resposta são diversas dicas, tutoriais, documentos oficiais e palpites sobre como configurar um servidor Linux.
 
-Continuando a história vista em Batman Vs Superman (que já tinha o sub-título A Origem da Justiça, já entregando o ouro), Batman (Ben Affleck) resolve reunir uma galera de heróis porque uns monstros muito bizarros começam a aparecer em Gothan City, e ele teme por não ter super-poderes e não conseguir lidar com essa ameaça como seu amigo criptoniano faria. Para os que já assistiram e os que não assistiram ainda o filme anterior (spoiler alert!), saiba que Superman nesse momento da história está morto. E quando digo "nesse momento" me refiro à máxima de que não existe morto permanente em filmes de super-heróis que não possa ser revertido, como chegaremos a testemunhas antes da metade da projeção, ou no final de qualquer trailer desse filme.
+Muito bem. E a outra ponta da história?
 
-A questão é que o diretor Zack Snyder precisa ter o time todo junto para conseguir mostrar como eles lutam tão bem quando estão juntos, embora cada um deles tenha objetivos diferentes. Para uni-los a história tem três cubos que eram guardados pelos três povos da Terra Média (ou algo assim), as Amazonas, os Molhados e os Seres Humanos. No grupo dos Molhados há o Aquaman. E para finalizar a equipe tem um rapaz que está se tornando andróide aos poucos. Pensei que ele fosse se tornar Brainiac, a IA de Krypton, um dos vilões do homem de aço; ou pelo menos seria responsável pelo seu surgimento. Mas não, ele é apenas um rapaz aleatório negro para prencher cota. Com ele e com Flash piadista está completa (mais ou menos) uma trupe que pode servir como uma versão DC de Guardiões, X-Men, Vingadores ou qualquer outro dos inúmeros grupos criados pela Marvel.
+Estes testes foram feitos em um Fedora 8, não me pergunte mais detalhes.
 
-Só que com as cores drenadas.
+O primeiro linque útil encontrado foi a documentação da Red Hat. Além disso seguem alguns macetes que eu descobri no decorrer do percurso. A primeira coisa a ser configurada é o arquivo /etc/sysconfig/network. Nele devemos, em uma configuração simplista, colocar uma única linha:
 
-Zack Snyder volta novamente à direção depois de BvS e volta a fazer aquelas introduções com câmeras lentas, dessa vez explorando a intolerância contra imigrantes e a violência irracional que tomou conta do planeta depois que Superman se foi. A linha histórica aqui é meio vaga e as alegorias são meio óbvias. É também de Snyder a atualização de Diana, a Mulher-Maravilha, cuja bunda ainda não havíamos o prazer de testemunhar em planos-detalhes desde que seu filme solo dirigido por uma mulher e com tons feministas estreou. No filme solo é impossível ver este plano-detalhe. Agradeço à conhecida misoginia de Snyder (Sucker Punch, 300) por conseguir negociar um plano-detalhe lento com ela andando de calças e um ou dois momentos em que vemos uma minúscula saia por baixo.
+    NETWORKING=yes
 
-Esta combinação de bons atores protagonizando uma história sem pé nem cabeça e com uma gostosa estilizada para completar o time é estranhamente coincidente com outro filme horrível: Esquadrão Suicida. Aparentemente as peças começam a se encaixar no universo DC. A lógica funciona mais ou menos assim: quando um grupo de heróis (ou "vilões") se reúne para combater uma ameaça ainda virtual, ela se torna real graças a este mesmo grupo. Aqui a história não foi exatamente essa, mas ao escapar mais uma vez da fórmula clássica "vilão surge primeiro, equipe se forma depois" o filme de Snyder se confunde com o de David Ayer, criando um padrão-DC.
+Tive alguns problemas com a entrada NETWORKING_IPV6, ou algo do gênero. A comunicação com o servidor DHCP da rede simplesmente não funcionava com essa linha, deixando o computador sem IP durante o boot. Má configuração do servidor? Pode até ser. Porém, não quis entrar nesses meandros.
 
-A parte mais triste deste filme é observar como os atores e personagens são até interessantes, mas eles estão inseridos em uma computação gráfica de muito mau gosto, protagonizando cenas de ação escuras, confusas e desnecessárias, e participando de uma história que não chama a atenção em nenhum momento. Quero dizer, o vilão precisa gritar toda hora para chamar a atenção para ele mesmo. E o que ele grita não faz sentido nenhum. "Eu sou a destruição do mundo!". E bla bla bla. OK, uma motivação tão aleatória como esta não é sequer uma alegoria do terrorismo ou do capitalismo opressor, vilões da moda: é uma alegoria da estupidez (o "herói" da moda).
+Por isso, se houver a linha sobre IPV6 e você tiver problemas, comente-a temporariamente.
 
-A capacidade de fazer piadas com seus heróis tem crescido na Marvel, mas precisa de sérios ajustes no universo DC. O Flash interpretado por Ezra Miller não é um escape cômico, mas um escape idiota. A história é muito densa, cheia de subterfúgios irônicos e sarcásticos e dark para que exista qualquer sinal de esperança. Quanto mais de piadas. Praticamente nenhuma piada funciona, ou funciona no nível da risadinha.
+O passo seguinte é configurar a interface de rede, que é no fim das contas a representação da sua placa. Para isso temos alguns arquivos em /etc/sysconfig/network-scripts no formato ifcfg-nome-da-interface. Se você digitar ifconfig na linha de comando terá os nomes de interface disponíveis. No meu caso, eth0.
 
-Até Henry Cavill, um ótimo Homem de Aço, surge aqui estranhamente plastificado, em um resultado gráfico que lembra o ator Peter Crushing em Rogue One. Porém, Peter Crushing está morto. Ou seria essa mais uma alegoria?
+    vi /etc/sysconfig/network-scripts/ifcfg-eth0
 
-Além disso, o universo criativo de Snyder, que também assina O Homem de Aço, é confusa e aos poucos se perde nas referências que cria. Utilizando a mitologia alienígena para recriar o conceito de Superman diferente do visto com o ator Christopher Reeve, e recriando um novo tema para o super-herói, Snyder resolve voltar a tocar o tema icônico de John Williams em um momento deste longa, evocando ecos do passado ao mesmo tempo que evoca a eterna questão: que universo de super-heróis é este, afinal de contas?
+    DEVICE=eth0
+    BOOTPROTO=dhcp
+    ONBOOT=yes
 
-Talvez ninguém ainda saiba. Experimentando conceitos até tentar acertar o ponto, Liga da Justiça termina como começou: mais um episódio narrativamente confuso que não leva a lugar algum e que finge ser algo tão interessante quanto o universo já estabelecido da Marvel. Talvez esse começo da Liga seja o exato momento para desfazê-la. E começar tudo de novo.
+    :wq
+
+Note que o valor BOOTPROTO é realmente BOOTPROTO, com um O no final. Tive alguns problemas de soletrar também nesse caso, o que me gerou mais alguns reboots mal-sucedidos.
+
+Bem, o que isso faz? Basicamente, manda o Linux utilizar o protocolo DHCP, procurando na rede algum servidor que lhe dê algum IP válido. Só isso. O resto ele faz dinamicamente.
+
+Inclusive alterar automaticamente o arquivo /etc/resolv.conf. Nele estão definidas algumas coisas como o domínio de nomes que estamos e os IPs de onde buscar a resolução de nomes.
+
+Feito isso, como se costuma dizer, voilà! Temos um cliente DHCP funcionando contente e feliz. Eu reiniciei a máquina para tudo dar certo, mas provavelmente devem existir maneiras mais saudáveis de reiniciar a rede (talvez um ifdown seguido de ifup resolvesse).  E agora eu posso finalmente ter acesso aos pacotes de instalação que precisava.
+
+Notas de um Linux padawan =)
 

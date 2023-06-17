@@ -1,19 +1,22 @@
 ---
-
-Afinal, eles são casados ou não? E o que são aqueles diálogos que não conseguimos ouvir? Por que não conseguimos acompanhar a ação dos dois personagens -- "marido" e "mulher" -- quando não estão conversando juntos? E, finalmente, por que nas conversas à mesa os personagens olham para nós?
-
-Desde a primeira cena de Cópia Fiel, de Abbas Kiarostami, já são mencionadas algumas dicas sobre o caráter metalinguístico desse filme. Afinal, o filme se chama Cópia Fiel e vemos no começo a capa de um livro com o mesmo título. A questão que o filme discute dentro do seu universo (o mundo dos personagens) e fora dele (ao abranger os seus espectadores) é se as cópias de uma obra de arte possuem o mesmo valor que a original. E, uma pergunta igualmente relevante: a partir de que momento algo pode ser chamado de original?
-
-Para isso, Kiarostami utiliza técnicas de narrativa pouco usuais que tentam aproximar ao máximo a experiência cinematográfica da experiência da própria vida. Ou seja, é uma tentativa de cópia da vida, que seria a obra de arte original, como um momento em que o escritor do livro, James Miller (William Shimell), observa a beleza da originalidade das árvores colocadas do lado da estrada.
-
-E na vida não temos onisciência. Logo, quando estamos distantes dos personagens, não há um corte que os aproxima. Simplesmente ficamos sem ouvir a conversa. Da mesma forma o tempo passa linearmente e em momento algum acompanhamos duas ações que ocorrem ao mesmo tempo. E o que mais aproxima o ponto de vista de alguém com quem conversamos à mesa é olharmos para essa pessoa diretamente, o que faz com que os atores olhem diretamente para a câmera. Aqui todos os movimentos de câmera não são sutis, mas ganham muito mais em sua naturalidade de poucos cortes -- a maioria do tempo acompanhamos sequência que mudam de cenário conforme os personagens se movem.
-
-Talvez a maior crítica que se possa fazer ao roteiro é nunca deixar muito claro qual o status de relacionamento atual do casal vivido pelos ótimos William Shimell e Juliette Binoche (sensacional). Contudo, observe como até isso é uma réplica da vida. Afinal de contas, ao acompanhar um casal conversando entre eles nunca ouviremos uma fala expositiva que afirme com todas as letras seu estado civil. Ou seja, queira ou não, a vida é complexa demais para caber em um pedaço de papel e ser coreografada em torno de cenários cheios de pessoas andando. Ou isso, ou estamos vivendo uma réplica milagrosa em película que só seria possível reproduzir pela sagacidade e genialidade de seu diretor.
-
----
 categories:
 - writting
-date: '2022-01-11T19:15:46-03:00'
+date: '2017-07-31'
+link: https://www.imdb.com/title/tt2948472
 tags:
 - movies
-title: 'Cópias: De Volta à Vida'
+title: Coração de Leão
+---
+
+Este filme beira o amador em sua fotografia e roteiro. As atuações, coitadas, não podem fazer nada com esses personagens que se olham o tempo todo e nada dizem de importante. Como seria retratar o começo de um relacionamento qualquer, que poderia ser de qualquer um de nós e que não teria qualquer detalhe diferente? Este filme é assim, com apenas uma exceção: um dos lados é mais baixo que o normal.
+
+Mas isso é rapidamente compensado. O lado baixo é rico, charmoso, insistente. E mais uma vez caímos em uma situação que poderia acontecer com qualquer um de nós. Talvez tudo isso seja para demonstrar como podemos ser hipócritas a respeito de dinheiro.
+
+Algumas situações circundam o romance do casal que servem como pano de fundo para piadas das mais clichês. Assim temos o anão que se senta em uma poltrona que lhe cobre (e as pessoas não notam sua presença), um tropeço na rua porque as pessoas não vêem alguém tão baixo vindo, um encontro acidental entre o anão e seu rival em um semáforo, onde eles travam o trânsito para que sejam proferidas mais algumas piadas de anão pelos motoristas.
+
+Ainda há uma pequena aula de como o próprio filme pode ser hipócrita, se negando a considerar que pessoas adultas não conseguem ser respeitosas com anões, mas o conseguem com surdos, enxeridas, desonestos. Em todo lugar que o anão aparece ele é motivo de chacota e risadas, o que poderia ser um drama. Mas o filme a todo momento nos convida a rir com ele. Qual o objetivo aqui?
+
+Foram feitos não um, mas dois remakes deste filme; um na Colômbia e o outro em francês. Assisti o francês, com Jean Dujardin (O Artista) no papel principal, devidamente tendo suas pernas cortadas por trucagens de câmera (como é feito aqui). Ele é melhor produzido e possui uma direção ao menos competente. Em contraste, o original carece dos elementos visuais mais básicos para fazê-lo não chamar atenção para si mesmo. Dessa forma, enquanto o remake curiosamente utiliza um plano-sequência na cena inicial, que envolve duas pessoas falando ao telefone, o original insiste em virar a câmera, realizar cortes, dividir em dois (e inverter os personagens), ampliar novamente. Uma série de artifícios que tenta tornar dinâmico um momento que cabe apenas às atuações e a bons diálogos. Aqui não temos nem um nem outro.
+
+A sensação de assistir a Coração de Leão é que este filme não sabe sobre o que quer falar. Ele é amoral. Ele encontrou um tema diferente para comédia romântica e o descartou por conta de seus próprios preconceitos e estereótipos. Não sei se esse foi de fato o objetivo dos produtores, mas algo me diz que ele atinge o exato oposto do que poderia atingir.
+

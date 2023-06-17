@@ -1,50 +1,25 @@
 ---
-categories: []
-date: 2017-07-28 18:28:07-03:00
-tags: null
-title: Migrando Imagens Para Imgur
+categories:
+- writting
+date: '2019-03-29'
+link: https://www.imdb.com/title/tt9353436
+tags:
+- cinemaqui
+- movies
+title: Mike Wallace Está Aqui
 ---
 
-Depois de migrar meus blogues para o [Hugo](https://gohugo.io) decidi deixar o repositório mais magro migrando as imagens para um serviço de imagens. O [imgur](http://imgur.com/) me pareceu uma solução simples com uma interface rápida (e uma API Python). Para realizar essa tarefa você vai precisar das ferramentas de sempre: grep, sed, python, vim. E lá vamos nós.
+Mike Wallace Está Aqui é um documentário ágil que pega bastante da linguagem televisiva, mas sem mastigar muito a informação. O formato parece estar um pouco acima do conteúdo, o que não é um problema para a televisão, mas é para o cinema.
 
-Meu primeiro passo foi realmente limpar a pasta de imagens, eliminando as que não estavam sendo usadas. A pasta de imagens ficou se acumulando por anos, e muitas imagens foram sendo carregadas através dos Wordpress da vida e plugins que deram resize nas imagens, gerando várias cópias no processo. Tudo inútil e dispendioso.
+De qualquer forma, se você nunca ouviu falar de Mike Wallace, assim como eu, este é um bom ponto de partida. Vemos vários entrevistados durante o filme em pontas dos vários programas que Wallace comandou (ele está na ativa desde a época do rádio). Não nos dizem quem eles são, mas há alguns momentos muito bons das entrevistas. Isso é virtude do entrevistador ou do entrevistado?
 
-```
-dir /b imagens\*.* > images.bat
-rem transformar cada linha de images.bat em:
-rem grep -c imagem.png all.md
-images.bat > result.log
-rem a partir do vim juntar o resultado das linhas e apagar os resultados não-zerados
-rem imagem-found.png
-rem 1
-rem imagem-not-found.png
-rem 0
-v/^[0-9]/j
-v/0$/d
-rem pronto; agora é só rodar o result.log como bat
-```
+E por falar em questões fundamentais, como será que eram as entrevistas antes deste que dizem (no filme) ter iniciado uma nova forma de fazer jornalismo popular? Não sabemos. Se tudo é questão de perspectiva, este filme não te dará nenhuma, apenas a homenagem a este repórter que surgiu do show business fazendo propaganda de cigarro.
 
-O principal problema de subir tudo para o imgur é que os nomes dos arquivos irão mudar e perder a referências usadas no texto. Para conseguir renomear os arquivos dentro dos artigos é necessário conectar no serviço do imgur e através dele obter o nome original do arquivo, disponível na propriedade __name__:
+E esta é a maior falha do filme de Avi Belkin, que acerta ao trazer para o cinema a tela dividida em entrevistado e entrevistador, um luxo da largura da projeção que a televisão não tinha na época. Mas apesar de um efeito bonito, ele é usado mais como formato, mesmo, pois logo depois de usar Belkin volta para as filmagens (editadas) feitas para a televisão.
 
-```
-import auth
+Esta é a biografia de um repórter que alterou o formato das perguntas das entrevistas, sendo menos formal ou mais direto, e ele é usado como trampolim para outros repórteres que se inspiraram nele. No filme se fala sobre os principais momentos de sua vida na televisão e um pouco de sua vida pessoal mais para o final.
 
-client = auth.authenticate()
-f = open('images.txt')
-imgs = f.readlines()
-for img in imgs:
-    img = img.strip('\n')
-    imgur = client.get_image(img)
-    origname = imgur.link[imgur.link.find(img):].replace(img, imgur.name)
-    print origname, '=>', img
+Se trata de um trabalho ágil, mas sem uma narrativa coesa, que nos leve a entender o que quer que seja a respeito do seu trabalho. No final sequer ficamos sabendo se era ele que fazia as perguntas mais pertinentes (ou impertinentes) ou ele era apenas um pau mandado do dono da produtora.
 
-```
-
-Executando este script será possível gerar um log no formato nome-original-do-arquivo para id-da-imagem-usado-pelo-imgur. O ID deles também é usado para link direto da imagem, de onde virá o comando sed que vai substituir nos artigos os nomes originais pelo link do imgur:
-
-```
-sed -i "s/<nome-original-do-arquivo>/http\/\/:\/<link-da-imagem-no-imgur>/<id-do-imgur>.<extensao>/" *.md
-```
-
-Lembrar de apagar o all.md. Ele só foi usado para gerar a saída mais simples do grep.
+Ou seja, o filme começa na incógnita e termina do mesmo jeito. Ele é divertido em um nível moderado, mas informativo em um nível frustrante. E isso para um documentário é um pecado e tanto.
 

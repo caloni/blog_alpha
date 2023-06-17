@@ -1,25 +1,59 @@
 ---
 categories:
-- writting
-date: '2017-04-06'
-link: https://www.imdb.com/title/tt2315582
-tags:
-- cinemaqui
-- movies
-title: Una
+- coding
+date: '2016-09-05'
+tags: null
+title: unit-menos-menos
 ---
 
-"Una" é a possibilidade de um diálogo entre dois adultos sobre o que fizeram quando um deles ainda era apenas uma criança. Baseado na peça "Blackbird", de David Harrower (que assina o roteiro), a direção do estreante Benedict Andrews cria um drama intimista que possibilita que o passado ecoe no presente e, em retrospecto, a vida dessas pessoas tente fazer algum sentido.
+Fazer o setup inicial de testes unitários em seu projeto C++ pode ser algo enfadonho se você precisa baixar e compilar uma lib do Google ou do Boost. Há uma alternativa mais leve e bem direta, que um dia apareceu nesses CodeProject da vida, mas que hoje está, até onde eu vi, no [GitHub](https://github.com/gcross/unit--).
 
-A história sempre é narrada através desses ecos, trocando rapidamente entre passado e presente com flashbacks e memórias do evento traumático. Andrews realiza cortes secos, como o bater de uma porta, e até cenas que duram pouquíssimos quadros, como apresentando o ápice de uma festa, que criam um ritmo ágil e que pula para os momentos mais interessantes, quando Una e Ray conversam a respeito do passado. Apesar de já estar claro o suficiente para o espectador nos momentos iniciais o filme insiste em tornar cada vez mais óbvio no desenvolvimento que Una (Rooney Mara), hoje crescida, foi abusada sexualmente quando tinha treze anos por um adulto: o seu vizinho Ray (Ben Mendelsohn). Essa é a versão oficial, e todo o clima do filme adota corretamente a seriedade da situação. No entanto, o reencontro entre os dois após mais de uma década possibilita que ambos revivam aquela época em suas mentes e tentem resgatar o que havia de bom em uma relação vista hoje pela sociedade como grotesca (antes do século 20, casamentos entre adolescentes e adultos era comum; embora a escravidão também fosse).
+E como se faz para começar a montar os testes unitários? Bom, suponha que você tenha um projeto qualque que já compila, roda e faz alguma coisa de útil:
 
-Ambientado na maior parte do tempo na empresa que Ray trabalha, há um clima de perseguição em boa parte do filme por conta dele ter sumido de uma reunião vital para o futuro da empresa. Da mesma forma isto cria um clima de urgência a respeito das pendências do passado, além do uso acertado de luz e sombra, com diversos cantos escondidos do dia-a-dia da empresa, e uma ótima metáfora sobre como foram os três meses de romance entre os dois, sempre se escondendo nas sombras e de olhares reprovadores ou desconfiados.
+{{< image src="HjYVkyp.png" caption="" >}}
 
-Ao mesmo tempo, o uso de flashbacks na forma de memórias de ambos mantém o passado sempre como referência. É aquele sentimento "como se fosse ontem" sendo utilizado em praticamente todo o filme, o que ajuda a nos situar sobre os detalhes que vão sendo abertos e ao mesmo tempo separa o filme da peça de onde se inspirou. Essa possibilidade de viajar no tempo e espaço é o que torna o filme o menos teatral possível, mas ainda assim mantendo toda a intimidade de uma conversa a dois pelo decorrer de um longo dia. E, de maneira bem gráfica, distingue entre o passado ensolarado e o presente acinzentado.
+Apenas crie um projeto do lado, console, ou copie e cole o projeto, mas use os arquivos-fonte do projeto original. Dessa forma ele irá compilar com os fontes que estão sendo modificados/compilados.
 
-E por falar em tempo, a trilha sonora sóbria praticamente evoca um ritmo de "tic-tac", como se, no final das contas, o grande martírio para Una fosse ter vivido todos esses anos após seu trauma sem nunca ter a possibilidade de sonhar com um futuro diferente do que foi seu passado. Nesse sentido, a atuação de Rooney Mara acaba sendo exagerada, pois coloca sua personagem não como um ser vulnerável, mas antes como uma alma atordoada e psicologicamente instável, mas, ainda assim, com uma auto-estima que desafia o bom senso do que é esperado de alguém que tenha sofrido situação semelhante.
+{{< image src="NT2C1SC.png" caption="" >}}
 
-Talvez por isso que o filme nunca tente de fato pender para um dos lados, pois não é possível ser ao mesmo tempo parcial e justo. O grande trunfo de "Una" é observar de maneira fria como um acontecimento como esse pode ser prejudicial para todos envolvidos, e nunca ser uma coisa boa, ainda que traga lembranças que podem ser confundidas nostalgicamente com algo positivo. Como o próprio Jay pergunta, como que Una tem ideia hoje de como ela era aos treze anos? Apenas ele sabia, pois, obviamente, o controle estava apenas nas mãos de quem já tinha a consciência plenamente desenvolvida.
+Apenas se lembra de não incluir o módulo que contém o int main. Esse módulo deve ficar apartado do projeto principal.
 
-"Una", apesar de abrir possibilidades de diálogo sobre um tema polêmico, se torna um terreno infértil quando decide avançar na questão, pois o máximo que consegue extrair de sua história é a inevitável e repetitiva dor de algo que aconteceu e que, não importa o que os envolvidos façam dali em diante, em nada irá mudar o que se tornaram. É um filme de alma pessimista que, assim como Confiar (David Schwimmer, 2010), apenas serve de alerta social. E ingênuo. Quer dizer, é como se um pedófilo assistisse o filme e colocasse sua mão na consciência.
+Depois basta incluir apenas um arquivo do projeto unit--, que é seu cpp principal.
+
+{{< image src="P8bEvns.png" caption="" >}}
+
+Com isso existirá um main lá dentro, definido em algum lugar. E tudo o que você precisa fazer é ir criando seus testes em outro arquivo fonte gerado para isso. O corpo e o formato dos unit cases é bem simples. Note que tudo que você fez para já sair testando seu projeto foi copiar um projeto já existente e inserir um módulo de outro projeto. Tudo compilando junto e já podemos fazer os primeiros testes do programa original (desde, claro, que ele seja testável, algo primordial):
+
+```
+// Precisamos definir uma suíte de testes.
+testSuite(DayToDayTests)
+
+// Se eu digito uma linha, ela deve estar no arquivo daytoday.txt.
+testCase(GetUmaLinha, DayToDayTests)
+{
+    //...
+    bool lineOk = TestAlgumaCoisa();
+    assertTrue(lineOk);
+}
+
+// Se eu digito duas linhas, ambas devem estar no arquivo daytoday.txt.
+testCase(GeraDuasLinhas, DayToDayTests)
+{
+    //...
+    bool lineOk = TestOutraCoisa();
+    assertTrue(lineOk);
+}
+```
+
+E assim por diante. O resultado é que quando você roda o executável de teste, ele execute toda a bateria e já te entregue todos os casos que você deseja testar, sem frescura:
+
+```
+......
+OK
+Total 6 test cases
+0 sec.
+Press any key to continue . . .
+```
+
+E voilà! Sistema de teste unitário pronto e rodando. Agora cada nova situação de erro ou que você precise validar, basta escrever um novo teste. Se esse projeto ir se tornando algo muito maior, a transição para testes unitários mais parrudos é apenas um regex. No momento, foque em codificar e testar muito bem o que está fazendo.
 

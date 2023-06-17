@@ -1,24 +1,20 @@
 ---
 categories:
 - writting
-date: '2018-10-31'
-link: https://www.imdb.com/title/tt1884351
+date: '2016-02-19'
+link: https://www.imdb.com/title/tt0060675
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Marx Reloaded
+title: Masculino-Feminino
 ---
 
-Marx Reloaded já é um filme antigo (de 2011), sobre os 200 anos de nascimento de Karl Marx, o economista/sociólogo/filósofo criador da ideologia que mais matou seres humanos em massa na história da humanidade. É curioso como o nível de intelectualização do pensador está diretamente proporcional à sua concordância com marxismo/comunismo como algo viável e inversamente proporcional à realidade no planeta Terra e da própria natureza humana.
+Jean-Luc Godard, em plena década de 60, em um filme aparentemente biográfico, que funciona leve, sem lógica, mas com acontecimentos que não fogem da realidade, mas entram em nossa estranheza do incompreendido, das coincidências exóticas. Mas é uma época pulsante, com questões juvenis incompreendidas. Godard tinha minha idade quando o fez (36), e ele discute muito sobre o homem, a mulher, e os dois juntos.
 
-O documentário é denso, pois utiliza esse nível de intelectualidade com diversos pensadores, que cospem conclusões sem nunca explicar nada. Se trata de um review criado para atualizar os conceitos de Marx para os tempos atuais, pós-crise 2008, e sugerir "soluções" para o "problema" do capitalismo. Fica claro para o espectador leigo que, assim como o pseudo-documentário "Quem Somos Nós", o formato da história segue o princípio de entrevistar todas as pessoas radicais que ainda levam o filósofo alemão em grande apreço e utilizar como contraponto um representante liberal (econômico) aleatório para ter em quem bater.
+Há a bela Madeleine (Chantal Goya), entre outras, que o filme insiste em mostrar em planos-detalhe em meio a mesas nas esquisas dos cafés da França, barulhos de rua, pessoas indo e vindo. Sua relação com Paul (Jean-Pierre Léaud) é platônica, mas é motivo suficiente para que isso gere ciúmes de outras mulheres. Ao mesmo tempo temos jovens igualmente interessados em Madeleine. Paul é o principal, e a morte ronda ele. Ah, como ronda!
 
-E da mesma forma o uso da mecânica quântica para tornar as pessoas felizes com a própria vida é equivalente a usar comunismo como solução para os problemas da humanidade. Exceto que no caso do comunismo você vai ter que matar os que discordam.
+Porém, não há história que abrace o que está sendo dito. Talvez experimental seja uma palavra mais adequada para extrair o gênero que Masculino-Feminino, usando seus sub-títulos, suas construções sonoras, seus diálogos inusitados e sem sentido. É um filme-poesia, que pode encantar quem procura algo diferente do normal (mesmo hoje) ou aborrecer quem não entende nada do que acontece. E isso tende a piorar.
 
-Para o espectador leigo talvez esse não seja um programa muito agradável. A discussão já parte em um nível em que você já deve ter um conhecimento mínimo sobre teoria política/econômica, além de filosofia e história aguçados para entender os diferentes argumentos e conclusões que vão atravessar a tela com a velocidade das balas de dezenas de agentes Smith tentando capturar a atenção de quem está imerso na Matrix. A analogia entre pílula azul e vermelha usada pelas irmãs Wachowsky na época de The Matrix (1999) é perfeita porque pode se aplicar sobre qualquer nível de realidade que estamos acostumados e a fuga dessa mesma realidade.
+Com uma linda fotografia P&B que serve quase como um documentário da época, a Guerra do Vietnã é o foco, e com isso o roteiro (do próprio Godard baseado em histórias de Guy de Maupassant) aproveita e questiona, ou melhor dizendo, joga questões não-respondidas, sobre política. Ele está conversando com o espectador, mas usa seus personagens todo o tempo. Ele não precisa de uma narrativa para mostrá-las, pois apenas a curiosidade em torno dos jovens é suficiente.
 
-A mensagem do filme é que sempre existirão pessoas a defender uma abordagem marxista para a solução de seus problemas (e forçadamente dos outros que não pediram), assim como nazismo, fascismo e similares. Vira um alerta invertido: se você acha a crise de 2008 algo ruim, espere para experimentar as novidades dos neo-comunistas. Cuidado com as pílulas que você toma.
-
-PS: A sessão da Mostra de SP é gratuita (sem mais-valia) e acompanhada de dois curtas. "Um Dia na Sepultura de Karl Marx" é um relato animado na época do aniversário de 100 anos de Marx que delineiam o perfil do filósofo e nos ajudam a entender uma visão que as pessoas tinham 100 anos atrás. Já "Um Jovem Chamado Engels" é sobre o amigo/filantropo de Marx antes que os dois se conhecessem. Se trata das cartas de Engels trocadas com inúmeros amigos. É a parte mais divertida da sessão inteira.
+Talvez o único defeito grande do filme é ficar sem moral, ou um fechamento chamativo. No entanto, está tudo lá, espalhado no meio da "história". Se fala de prostitutas como se fala de romance, ou de gravidez como se fala de pessoas morrendo na Índia. É uma coletânea de fatos e ficção entrelaçados em torno de nada. Se não há moral nesse experimento, não há como criticar ou julgar seus personagens e seu idealizador. Uma solução covarde ou uma plataforma de testes. Ainda assim, fascinante.
 

@@ -1,31 +1,16 @@
 ---
 categories:
-- coding
-date: '2008-01-14'
-title: Temas no WinDbg
+- writting
+date: '2012-08-18'
+link: https://www.imdb.com/title/tt0311866
+tags:
+- movies
+title: Tempestade Virtual
 ---
 
-Desde a versão 6.4.7.2 que o WinDbg fornece uma subpasta chamada Themes, onde lá estão diversos workspaces configurados. Existe até um passo-a-passo de como organizar esses temas e escolher o seu favorito. Segue algumas dicas de como transformar corretamente sua área de trabalho para depuração (e mantê-la).
+Mais como uma curiosidade de um fan-movie do que uma estrutura que de fato se esforce em contar uma história, Tempestade Virtual procura unir referências distintas do mundo hacker, incluindo aí [War Games], [Matrix] e o próprio [Hackers], mas sem conseguir agregar nada mais à sua narrativa. O resultado é que vemos Nick 'Jester' Chase (Nick Cornish) como um clone sem alma de "Zero Cool" (Hackers), seu amigo como o mesmo alívio cômico de "Phantom Phreak", sua mãe com o mesmíssimo dilema do longa original... enfim, antes fosse uma cópia cuja essência revelasse algo mais do que uma mera bobagem envolvendo jogos de realidade virtual e satélites com o poder de alterar as forças do clima.
 
-O WinDbg salva suas configurações no registro. Para apagar os valores previamente gravados, rode o seguinte comando:
-
-    reg delete HKCU\Software\Microsoft\WinDbg
-
-Você pode gravar um tema, rodar o WinDbg (sem parâmetros), ver se gosta do que viu, e tentar novamente. Quando estiver satisfeito com a aparência, fique com ela e comece o próximo passo.
-
-Nas depurações do dia-a-dia algumas configurações devem estar sempre muito bem configuradas, para que torne seus momentos de desespero porque nada está funcionando mais agradáveis. Por isso, assim que escolher seu tema preferido trate de configurar os seguintes itens:
-
- - Diretórios de símbolos. Você pode começar com .symfix, que vai montar uma string padrão, e adicionar mais diretórios com .sympath+.
- - Diretórios de código-fonte. Coloque a raiz dos seus projetos principais. Com o tempo, se você mexe muito nos seus diretórios, é necessário fazer uma manutenção desse valor.
- - Diretórios de executáveis. Basicamente é o mesmo do diretório de símbolos.
-
-Depois de configurar tudo isso, ajuste as janelas na melhor maneira e proporção que achar mais agradável. Esse será o último passo, pois depois você irá fechar o WinDbg e salvar o workspace, que a partir daí será o padrão sempre que abrir o depurador.
-
-Para que os arquivos fonte caiam no lugar que você escolheu, durante a configuração, abra um código-fonte e coloque no lugar que gostaria de ver todos os fontes listados, junto com um placeholder (um arquivo C usado como localizador, existem 5 dentro da pasta themes). Após isso, feche o código-fonte, mas mantenha o placeholder. Depois é só fechar o WinDbg salvando as configurações. Tudo deve funcionar como previsto (ou você esqueceu alguma coisa).
-
-Como esses passos deram algum trabalho, trate de salvar as configurações, caso tenha que usá-las em outras máquinas ou restaurá-las caso algo de ruim aconteça com seu SO (como quando você depura seus drivers na mesma máquina em que desenvolve, por exemplo).
-
-    reg save HKCU\Software\Microsoft\WinDbg c:\Tools\DbgTools\Themes\MyTheme.reg
-
-Leia a documentação do WinDbg sobre temas (dentro de Themes, Themes.doc). Foi de lá que eu fiz a tradução e adaptação dos passos mais importantes. E esqueça do Visual Studio =)
+[Hackers]: {{< relref "hackers" >}}
+[Matrix]: {{< relref "matrix" >}}
+[War Games]: {{< relref "war-games" >}}
 

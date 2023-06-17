@@ -1,17 +1,17 @@
 ---
 categories:
 - writting
-date: '2010-06-18'
-link: https://www.imdb.com/title/tt1250777
+date: '2022-11-21T20:12:39-03:00'
 tags:
-- movies
-title: Kick-Ass Quebrando Tudo
+- coffee
+title: Kiki Café
 ---
 
-Kick-Ass é uma experiência bem-sucedida que reúne super-heróis da vida real, ação, comédia, drama e Hit-Girl, estrelando Chloë Moretz e a tornando uma das atrizes-mirins mais bem-vistas pelo público jovem, com treze anos e aparentando ainda menos.
+Foi uma ótima surpresa do bairro do Ipiranga. No penúltimo andar de um prédio da Bom Pastor em um pequeno espaço fica esse simpático café com nerdices modernas espalhadas pelo local, como cubos mágicos, um minibat-sinal e livros do William Gibson (Neuromancer) e Douglas Adams (Guia do Mochileiro). A vista panorâmica virada para a Avenida do Estado é bacana, dá um motivo a mais para visitar. Há um pequeno terraço com apenas um lugar. Durante a Copa eles estarão com uma TV ligada nos jogos.
 
-A questão da justiça feita pelas próprias mãos e a sensação de impunidade pelo "herói" do filme, Aaron (Aaron Taylor-Johnson), é só o início para uma sequência incrível de ação imaginativa e bem-conduzida pelo diretor Matthew Vaughn. Vaughn só dirigiu depois disso [X-Men: Primeira Classe] e [Kingsman: Serviço Secreto], filmes que possuem energia de sobra e comprovam que, se quer filmes de ação, este é um bom nome de diretor para procurar.
+Estava um dia quente e pedimos cafés gelados, um doce e outro puro com gelo. O puro estava muito agradável, saboroso, mesmo. Feito com espresso. Há a opção de vir com uma rodela de laranja, mas preferi sem. O doce era com leite condensado, mas não estava tão doce quanto os da Starbucks. Era bem equilibrado. Dava pra sentir o gosto do café, refrescar e ainda curtir o leve sabor adocicado.
 
-[Kingsman: Serviço Secreto]: {{< relref "kingsman-servico-secreto" >}}
-[X-Men: Primeira Classe]: {{< relref "x-men-primeira-classe" >}}
+Para comer pedimos um misto de frango, patê e milho na baguete surpreendente para um lanche de café. Tudo é feito com muito capricho. De doce pedimos o brownie na versão quente. A textura estava excepcional. Uma massa úmida pela gordura, mas não pesada. Para alguns pode ser doce demais. Para mim estava no ponto.
+
+Vamos voltar mais vezes. Este é um ótimo achado, e próximo do bairro onde moramos. Além disso, é do lado do restaurante de culinária japonesa Oishisa e há uma parceria entre eles. Nada pode ser tão bom que não possa melhorar.
 

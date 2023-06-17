@@ -1,23 +1,24 @@
 ---
 categories:
 - writting
-date: '2021-10-08T22:15:16-03:00'
+date: '2022-03-06T21:15:48-03:00'
 tags:
-- series
-title: Round 6 (Squid Game)
+- cinemaqui
+- movies
+title: Rua Mercantil Nº3
 ---
 
-Esta é uma distopia contemporânea interessante, porque usa ideias mesmo que velhas passadas com mais organização e propriedade. As mortes violentas dão o tom e faz pensar mais no sistema do que nas mortes. As mortes não importam quando ocorrem em massa. É o sistema, a alegoria controlada do capitalismo, o forte da série.
+O que se ganha em ver um filme tão velho quanto Rua Mercantil Nº3 hoje em dia? Será que o cinema tem evoluído tanto que essas velharias sem som deixam de fazer sentido? Este texto tenta dar algumas respostas iniciais para essa questão cinéfila.
 
-Ela começa muito bem. De forma visceral já explica as regras do jogo desse povo endividado que foi convidado a participar e concorrer a um prêmio milionário. Eles foram voluntariamente sequestrados e assinaram um termo onde a palavra "eliminado" tem significado literal.
+Em primeiro lugar sugiro um exercício análogo, já que estamos pensando em obras de arte. Responda a seguinte pergunta: o que se ganha em analisar ou admirar obras como Mona Lisa de séculos atrás se as técnicas de desenho evoluíram absurdamente nas últimas décadas, sobretudo as digitais? Com certeza alguém já deve ter feito trabalhos muito superiores usando computadores e ferramentas como Photoshop.
 
-O primeiro episódio demora a começar para apresentar o herói e a situação lamentável que ele se encontra, endividado com a mãe doente, divorciado que vai se distanciar da filha, viciado em jogos. Um ser humano fraco. Mais fraco que eu e você, para não nos imaginarmos naquela situação de desespero em entrar em um Jogos Mortais versão Show do Milhão com alguns poucos toques lúdicos.
+Não estou com isso sugerindo que este filme soviético é tão relevante quanto a obra enigmática de Leonardo da Vinci, e tampouco estou sugerindo que o Museu do Louvre está ocupando espaço à toa exibindo uma pintura renascentista que milhares de pessoas vão olhar de várias partes do mundo.
 
-A produção é muito bem feita e capricha na estética. A trilha sonora impecável dá o tom daquela realidade exagerada e sistêmica do microcosmos onde matar não apenas é possível sem punição, mas é uma das regras do jogo. A ideia por trás é uma versão da vida real exagerada, um simulacro da natureza onde os mais fortes, sortudos e implacáveis deixam os mais fracos, azarados e bondosos para morrer. Quem poderá salvá-los senão o roteiro bonzinho?
+A proposta é apenas refletir sobre nossas prioridades artísticas quando o assunto é audiovisual, que tende a caminhar passo a passo com tecnologia. Até porque ao dar uma chance para Rua Mercantil Nº3 você verá que sua história não tem nada de velha ou ingênua. Ela observa Moscou como uma metrópole que não para, dinâmica e em constante mudança. A Revolução já passou e todos os dias pessoas chegam à capital russa em busca de emprego, mas nem todas possuem permissão para morar. Aí entra a solidariedade dos companheiros de guerra, como esses dois, onde o pequeno espaço onde compartilham moradia gera um triângulo amoroso inesperado e excitante.
 
-Porém, este não é um roteiro que anda por caminhos tão fáceis. Em sua eloquência vai deixando pistas para o espectador mais atento refletir. No primeiro episódio, por exemplo, você terá todas as pistas que precisa para recolher as recompensas pelo resto da temporada, começando pelo jogo infantil inicial, que apresenta uma amizade do passado, ou a corrida de cavalos, e a última esperança dos desafortunados.
+Sim, há traição e relacionamentos cruzados em um filme P&B e mudo, e a única diferença dos filmes de hoje é a resolução na tela. A exibição do Festival Soviético é de 8mm.
 
-Seu final, o verdadeiro final (ignorando o gancho pós-final para continuações), que ocorre em uma das melhores cenas dessas 8 horas de filme, acontece do alto de um prédio e com cortes exatos, milimétricos, entre um relógio, um doente terminal e um ser humano jogado na neve. São momentos tensos? Nem tanto. O que cria tensão é que a série nos faz pensar sobre tudo que passamos e qual a mensagem de tudo isso. O ser humano merece mais uma chance? Existe esperança? A resposta não é fácil, e a série não desaponta.
+E este não é um filme parado. Há poucos diálogos e muita reflexão em cima dos acontecimentos entre essa esposa, seu marido e seu amigo. Somos levados pelos acontecimentos a refletir sobre como somos preconceituosos. Não a respeito do tema, mas em pensar que filmes velhos possuem apenas temas ingênuos e históricos. Este não tem relação nenhuma com o regime Soviético. Exceto, talvez, que ele joga na tela montagens sobre seres humanos e máquinas tendo o mesmo papel no serviço e uma crítica bem aberta sobre a convenção do casamento burguês.
 
-Este seria um filme impecável de no máximo três horas de duração. Há momentos muito, muito bons, espalhados pelas rodadas sanguinárias. Mas era uma história boa demais para o serviço de streaming produzir em versão enxuta e acabável. Uma pena, mas um pecadilho frente à coesão dessa aventura pensante. Na medida do possível.
+Diferente do esperado, Rua Mercantil Nº3 acaba se revelando um trabalho até que divertido, dinâmico e que pode ser analisado sob a prisma dos tempos atuais. Uma revisita é válida, e agora está disponível.
 

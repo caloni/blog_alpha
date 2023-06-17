@@ -1,115 +1,27 @@
 ---
 categories:
-- coding
-date: 2017-07-27 09:39:22-03:00
-tags: null
-title: Forma Mais Simples de Depurar Processos Antes do Logon
+- writting
+date: '2019-09-18'
+link: https://www.imdb.com/title/tt7064620
+tags:
+- cinemaqui
+- movies
+title: Foro Íntimo
 ---
 
-No [post anterior sobre debug] eu havia me focado mais na depuração de processos remotos no Visual Studio 2003 de maneira convencional. Aqui eu vou abordar o assunto de uma maneira menos convencional: usando o Visual Studio 2017 mais novo e depurando uma DLL (C++) que é carregada por um serviço antes do logon no Windows 7.
+Foro Íntimo é uma viagem claustofóbica e tensa que usa todos os artifícios técnicos do cinema para contar uma história e manter seu efeito por toda sua interminável hora e pouco, se esquecendo até do motivo por trás do clima deste pesadelo em forma de filme.
 
-Em primeiro lugar, como vimos anteriormente, a ponta server do depurador é um programa que você executa com alguns parâmetros e ele fica escutando em uma porta. Simples assim. Para que isso funcione antes do logon é necessário instalar esse programa como um serviço. Tanto no caso de depuradores mais antigos (msvCmon) quando nos mais novos (msvSmon) há sempre um executável com alguns parâmetros passados via linha de comando.
+Acompanhamos um dia na vida de um juiz que está sendo mantido 24 horas no foro onde trabalha. Ele nem acorda e já tem pesadelos em que toma um tiro. Ao lado de um segurança fortemente armado que o acompanha todo o tempo. Um esquema de segurança é mantido para ele e sua família durante um processo criminal de gente grande, que consegue localizar a família e deixar uma foto debaixo do nariz de todos. "Este é um dia atípico", diz seu segurança. "O senhor devia cancelar as audiências de hoje". E agora não sabemos se seu segurança está sendo prudente ou faz parte das forças ocultas que tentam manipular a justiça.
 
-O depurador do Visual Studio mais novo fica em sua pasta de instalação Program Files, etc, Microsoft Visual Studio, 2017, Enterprise, Common7, IDE, Remote Debugger ou derivados. Dentro dessa pasta há subpastas para cada arquitetura, x64 ou x86. É essa pasta que deve ser copiada para a máquina que será depurada. Se você estiver depurando um processo 32 bits, use o x86; do contrário, vá de x64.
+O desconhecido é importante personagem em Foro Íntimo, filme que depende do clima de ameaça invisível que impede que este homem viva e exerça sua função como se deve. Sua vida está suspensa, seu trabalho em jogo e sua existência possivelmente nunca mais serão os mesmos. O filme não explora mais seu tema amplo, sobre a justiça, mas se pensarmos a fundo sobre essa problemática, onde um juiz chega a ter crise de pânico para tentar cumprir seu dever, talvez até suas sentenças no futuro não sejam mais as mesmas.
 
-No caso do msvsmon, se executado com /? (padrão entre programas Windows) ele abre um pequeno help com a ajuda necessária para executar os parâmetros corretos:
+A direção de Ricardo Mehedff é eficiente em criar este clima claustrofóbico usando uma razão de tela que vai se estreitando, esmagando seus ocupantes, conforme o dia avança. Mehedff usa a ajuda de Marilia Nogueira, segunda diretora, que também auxiliou um projeto semelhante, Homem Livre, em que um homem preso por assassinato é solto e vive em sua casa como uma outra forma de prisão. O uso do foco que o diretor escolhe desempenham um papel primordial em destacar a imagem do juiz em detrimento a todos em volta, indistinguíveis, ao fundo.
 
-{{< image src="CZIHbHZ.png" caption="" >}}
+A fotografia é outra pérola narrativa que trabalha em simbiose com os enquadramentos utilizados, quase sempre prendendo a figura do juiz em algum canto. A ausência de cores entrega um realismo inatingível de outra forma. Sim, é paradoxal, mas o p&b magnífico de Dudu Miranda (Lixo Extraordinário) ao drenar as cores revela apenas o que importa: as formas dos longuíssimos corredores do foro, as camadas sobrepostas dos andares, o sol iluminando parcialmente no céu, os corredores escuros onde repousam incontáveis arquivos.
 
-No caso o comando maroto é o seguinte:
+Além disso, o design de som torna cada elemento em cena um novo foco, pois de repente, sem trilha e diálogos, é a única coisa que se ouve. Uma xícara, um copo, um erro no computador. Formigas andando pelo duto de ar. Elas são reais? Poderiam ser, e mesmo assim não são elas que importam, mas o seu símbolo oculto enterrado junto ao fórum: a lenta, mas perceptível, degradação do sistema de justiça.
 
-```
-msvsmon.exe /timeout 999999 /anyuser /silent /noauth
-```
+Nada disso seria impressionante não fossem os papéis de Gustavo Werneck e Jefferson da Fonseca, respectivamente juiz e seu segurança. Não há absolutamente nada de especial nessas pessoas, exceto a total passividade e impessoalidade em suas posturas. Para o juiz parece não haver nada a fazer exceto passar por aquela tortura psicológica até o final do processo. Para o segurança tudo aquilo parece se traduzir em não levar um tiro, mas sua impessoalidade é tamanha que seu rosto se torna um enigma a ser interpretado de formas diferentes pelo espectador. Duas atuações que trabalham em conjunto.
 
-E para transformar em um serviço podemos usar o [NSSM](https://nssm.cc/), já visto em outros artigos.
-
-```
-nssm.exe install Msvsmon msvsmon.exe /timeout 999999 /anyuser /silent /noauth
-```
-
-Isso cria um serviço de start automático que irá iniciar o debugger na ponta server quietinho, sem janelas, só escutando e esperando o Visual Studio atachar.
-
-## Nosso serviço e DLL
-
-Para este exemplo vamos usar um programa console que será convertido, assim como o msvsmon, em serviço, e uma DLL que ele carrega, chamando dois métodos; um de start, outro de stop. Nosso objetivo aqui é começar a depurar a DLL logo em seu início, na chamada do start.
-
-```
-#include <iostream>
-#include <windows.h>
-
-int main()
-{
-    if( HMODULE dll = LoadLibraryA("DLL") )
-    {
-        void (*start)(), (*stop)();
-        *((FARPROC*)&start) = GetProcAddress(dll, "DLL_Start");
-        *((FARPROC*)&stop) = GetProcAddress(dll, "DLL_Stop");
-        if( start )
-            start();
-        std::cout << "Type <enter> to exit\n";
-        std::cin.get();
-        if( stop )
-            stop();
-        FreeLibrary(dll);
-    }
-    else std::cout << "DLL not found\n";
-}
-```
-
-As funções de start e stop não fazem nada, apenas imprimem um passou-por-aqui:
-
-```
-#include "DLL.h"
-#include <iostream>
-
-void DLL_Start()
-{
-    std::cout << "DLL started\n";
-}
-
-void DLL_Stop()
-{
-    std::cout << "DLL stopped\n";
-}
-```
-
-Depois de copiar Service.exe e DLL.dll para a máquina-alvo (e não se esquecer de instalar as [dependências](https://www.google.com.br/search?q=visual+c%2B%2B+redistributable+2017&oq=visual+c%2B%2B+redistributable)) instalar da mesma forma com que foi instalado o msvsmon:
-
-```
-nssm.exe install Service service.exe
-```
-
-{{< image src="lgPCGyW.png" caption="" >}}
-
-Agora ache o IP da máquina-alvo e vá em Debug, Attach to Process (Ctrl+Alt+P) no Visual Studio, modo remoto e digite o IP.
-
-```
-cmd /k ipconfig | find "192"
-```
-
-{{< image src="GpNPhiC.png" caption="" >}}
-
-Lembre-se de iniciar o serviço.
-
-Após esse teste podemos modificar a DLL para aguardar por um depurador:
-
-```
-#include <windows.h>
-
-void DLL_Start()
-{
-    while( ! IsDebuggerPresent() )
-        Sleep(1000);
-    std::cout << "DLL started\n";
-}
-```
-
-Depois que houver o attach você irá continuar a execução. Portanto, coloque um breakpoint logo depois.
-
-{{< image src="hja6Y2Y.png" caption="" >}}
-
-Depois que isso funcionar já é possível iniciar sua depuração antes da tela de login. Os serviços executarão, e sua DLL estará aguardando um debugger ser atachado. Se houver necessidade é possível deixar esse modo de espera configurável, por timeout, etc.
-
-[post anterior sobre debug]: {{< relref "debugger-remoto-do-visual-studio" >}}
+Foro Íntimo é acima de tudo uma aula sobre cinema na prática, na tecnicidade, nas escolhas que um diretor tem disponível em um projeto. Ele foge do lugar-comum com escolhas fáceis, entregando um trabalho coeso, onde todos os recursos trabalham juntos na narrativa. Seu único pecado é a falta de um diálogo externo, sobre as ideias por trás de um homem encarcerado em seu próprio local de trabalho, cuja função é encarcerar ou não pessoas. Irônico e trágico ao mesmo tempo.
 

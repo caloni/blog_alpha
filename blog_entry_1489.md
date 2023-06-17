@@ -1,23 +1,19 @@
 ---
-
-"(...) o filme se baseie provavelmente em um fim-de-semana que ele mesmo tirou com seus amigos (...)"
-
-"As piadas do filme parecem internas e da vida real."
-
-Essas foram duas anotações da minha crítica de [Gente Grande], trabalho anterior de Adam Sandler e de seu fiel escudeiro-diretor, Dennis Dugan.
-
-O mais triste é que elas se mantém para o novo longa.
-
-O que mais impressiona nesse novo filme é o número de tiradas feitas sobre o físico das pessoas (nesse, Sandler é um cirurgião plástico, então adivinhe) e a similaridade na estrutura "Fim-de-semana em família em lugar paradisíaco que irá colocar os pingos nos is dos relacionamentos".
-
-Com a participação de Jenifer Aniston como sua secretária, é possível comparar o abismo que existe no carisma e na interpretação dessa com a empatia limitada de Sandler. A primeira cena onde marido, "mulher" e "amante" se encontram é icônica nesse sentido.
-
-[Gente Grande]: {{< relref "gente-grande" >}}
-
----
 categories:
 - writting
-date: '2023-03-26T12:47:17-02:00'
+date: '2022-05-15T17:09:34-03:00'
 tags:
-- series
-title: Esposa em Tempo Integral
+- coffee
+title: Espresso Café Cooparaíso
+---
+
+Eu gostei desse café. Peguei da última vez que estávamos voltando de viagem de Minas e passamos em Espírito Santo do Pinhal, onde há uma cafeteria cheia de cafés gourmet da região. Foi lá que conhecemos o ótimo Loretto, BTW. Esse a moça falou que era o que eu estava procurando: sem as frescuras do gourmet (aquele gosto meio enjoativo), um pouco de corpo e amargor. Esse está na medida certa. Acabei de abrir e é de meio quilo, então ainda posso experimentar bastante com tempos de infusão, quantidade de pó e moagem, mas o padrão aeropress entrega um copo balanceado, não muito murro no estômago nem muito insosso como moagens mais claras (esta é média). Curioso que a embalagem praticamente toda está em francês. Eis alguns trechos:
+
+> L'alliance unique des meilleurs arabicas du Brésil
+>
+> Élaboré à partir de l'alliance de cafés pur arabica spécialement sélectionnés, le café Cooparaiso Espresso offre saveur, arôme et douceur dans le plus parfait des équilibres.
+>
+> Cultivé au coeur des hauts plauteaux du Minas Gerais, le goût exceptionnel et profond de ce café au corps marqué, ravira les palais les plus exigeants.
+
+Ou seja, a mesma lenga-lenga dos textos de embalagens brazucas, mas em francês. Chique, não?
+

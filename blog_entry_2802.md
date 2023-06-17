@@ -1,27 +1,30 @@
 ---
 categories:
 - writting
-date: '2017-07-21'
-link: https://www.imdb.com/title/tt5348236
+date: '2011-09-05'
+link: https://www.imdb.com/title/tt0110357
 tags:
-- cinemaqui
 - movies
-title: O Reencontro
+title: O Rei Leão
 ---
 
-O Reencontro traz Catherine Deneuve em boa forma em um filme que, apesar de leve, consegue trazer à tona o tema de uma pessoa que sabe que vai morrer. Porém, é mais que isso, pois ele junta a persona fantástica de Deneuve e de Catherine Frot através dos problemas sociais da atualidade em uma história que lida com perdas e ganhos que se entrelaçam em uma bonita composição da arte que fala sobre a vida.
+O Rei Leão visto como deve ser visto, ou seja, em 2D, consegue impressionar pela síntese dramática que escolhe para não tornar o programa demasiadamente infantil para o seu principal público-alvo (as crianças) mas consegue se manter íntegro e representar de maneira irretocável a contribuição Disney para manter viva a lenda e uma das peças mais conhecidas de Shakespeare: Hamlet.
 
-A história é simples e vai ficando complicada, indo e voltando no que construíra. Claire (Frot) tem que lidar com o fechamento da clínica de parto que trabalhou a vida inteira ao mesmo tempo que lida com sua madrasta, Béatrice (Deneuve), que ligou do passado longínquo querendo reatar laços que nunca foram muito estáveis. Ambas são o completo oposto em personalidade. Claire é metódica, tem uma vida solitária e apática, quase mecânica, apesar de dar à luz a inúmeras vidas todas as noites como parteira. Béatrice está com câncer, no fim da vida, sozinha, e não tem nem apoio afetivo nem financeiro. Ela aposta em jogos e bebe, fuma e consome carne vermelha e gordurosa. E exibe seu lindo sorriso como de costume, provando que Deneuve envelheceu bem e que prioriza, em suas palavras, "os milagres do prazer", do que uma vida bem regrada.
+Quando eu digo íntegro quero dizer que até mesmo temas que hoje em dia são covardemente evitados mesmo entre o público adulto como a morte e o sexo são inseridos na narrativa e com direito a uma trilha sonora excepcional, que consegue oscilar dinamicamente entre a comédia e o drama épico como ondas que se formam durante a história.
 
-Sua "filha", vemos aos poucos, apesar de seu completo oposto vive em situação semelhante; não costuma ingerir álcool, e tem medo de qualquer mudança nos rumos de sua vida, seja das investidas amorosas do filho do seu vizinho de canteiro ou do seu jovem filho, que nada no Rio Sena, faz medicina na faculdade e junto de uma colega esperam um bebê. Querem ser pais jovens, seguir sua paixão, mas sua mãe não consegue pensar outra coisa senão que falhou em sua educação. Ela vive sozinha em um prédio dos subúrbios de Paris e mantém uma rotina tão estável que literalmente não tem mudado em 30 anos. O seu medo de não ter vivido se aflora conforme sua madastra se aproxima, e ambas aos poucos devem viver um suporte mútuo, dissimulado ou sutil, que traz brilho a uma pálida paleta de cores sobre Paris (Yves Cape, que reproduz uma outra época com primor).
+Criando personagens de maneira econômica, mas que se firmam na narrativa pelo que representam, o macaco sábio, os palhaços salvadores de Simba, a princesa como elo com o passado, o criado fiel , a história se entrelaça de maneira simples o suficiente para que os espectadores infantis entendam o destino de Simba, mas de forma complexa o suficiente para que entendamos toda a filosofia por trás da alegoria com animais, como o reino decadente e o significado da nobreza.
 
-A partir da premissa básica de reatar um antigo desafeto se constroem momentos inspirados (embora uns nem tanto), onde as piadas vão se formando naturalmente. Um exemplo: assim que a Claire termina um discurso moral onde fala que devemos seguir nosso corpo e evitar os delírios de nossa cabeça ela descobre que a namorada do seu filho está grávida. Em um jogo de palavras inspirado, o roteiro é sutil para passar despercebido, mas os mais atentos ou sensíveis notarão um extremo bom gosto em favorecer a naturalidade das situações em vez da manipulação barata em filmes do gênero.
+Com uma conclusão que aspira por aplausos em pé, o uso da metáfora do círculo da vida nunca foi tão significativo e poderoso.
 
-O esparso diretor e roteirista Martin Provost faz aqui um trabalho importantíssimo para transformar uma história movida por situações em enquadramentos inspirados que nos levam além da história. Em um momento alguém nada no Rio Sena ao lado de uma ponte e a câmera necessariamente se distancia, evocando o passado da família e a nostalgia do espectador. Em outro momento quando visitamos o prédio imponente da ambiciosa corporação de obstetrícia onde Claire trabalharia para realizar partos como em uma linha de montagem, tetos gigantescos e corredores largos e quase infinitos dão o exato contraste com a clínica de bairro onde ela trabalhou sua vida toda. E uma barraca pequena e lúdica vira inusitadamente um ninho de amor inapropriado e aconchegante. E humano.
+Voltando agora da sessão 3D (leia-se: mutilada) do clássico dos clássicos da Disney, mas ainda me custa a entender por que esse desenho, em detrimento de tantas produções mais criativas, é tão supervalorizado pelas plateias.
 
-Tudo isso é levado por uma trilha sonora (Grégoire Hetzel, "Incêndios") que brinca com nossos sentimentos e memória, que evoca de maneira educada e certeira a fase de ouro de Deneuve, em um misto de drama, thriller e romance, e se entrássemos na sala por engano poderíamos acreditar que fomos transportados para uma sessão de clássicos europeus das décadas de 60 ou 70. Deneuve rouba a cena de uma forma despojada, quase inocente. Mas isso só funciona por causa da entrega incondicional de sua "filha" à sua persona, que vive o drama de revisita não só o seu passado traumático, mas o que viveu a partir daí, e realizar um saldo mental se valeu a pena. O arco de Catherine Frot funciona na medida em que não é forçado, e sua atuação favorece mais do que o roteiro.
+É óbvio que a trilha sonora é magnífica, e consegue oscilar perfeitamente entre as cenas dramáticas, de ação e de humor, como podemos ver pela leveza da música-lema de Timão e Pumba, em detrimento ao clima sombrio e ameaçador dos toques sufocantes da fuga para os espinheiros. Da mesma forma, a sequência do estouro dos antílopes consegue unir de maneira completamente orgânica o trotar das centenas de animais em disparada e o tema composto por Hans Zimmer para a cena, que evoca um misto de urgência e perigo, caindo no final, para um melancólico destoar.
 
-A cumplicidade que vai se construindo entre as duas é ligeiramente apressado e inusitado, o que torna os esforços da história em sair tudo bem um tanto falso. E é necessário apontar que existe uma ponta de covardia em seu final, disfarçada convenientemente de poesia.
+Já a fotografia, marca registrada das produções 2D da Disney, consegue se expressar aqui com o uso de traços que lembram aquarela, ainda que mantenha sua precisão. E perceba como o humor de Simba e do reino de seu pai é determinante para a palheta dominante, e perceba como o acizentado sombrio e desconfortante da morada das hienas toma o lugar que antes era cheio de cores vivas e em movimento.
 
-Mas dito isto: que bela poesia! Uma história bem amarrada muitas vezes faz perdoar um ou outro deslize como tropeços da própria vida. E um filme sobre o que significa uma vida bem vivida, sem floreios ou manipulações, merece alguns tropeços para se fazer real através do milagre da própria vida.
+Da mesma forma, o roteiro segue uma coerência inatacável, embora a força da história esteja justamente em sua simplicidade que deve conseguir tocar o coração de pessoas de todas as idades. Muitos dizem que O Rei Leão evoca um tema Shakesperiano, e muito provavelmente a alma de Shakespeare passeia pelo reino de Mufasa e seu ciclo da vida.
+
+Porém, ainda que tenham passados meros 17 anos de sua estreia (pouco para se transformar realmente em um clássico), seu envelhecimento no que diz respeito ao timing cômico, ou mesmo algumas piadas (assisti à dublagem brasileira) cheiram levemente a datadas.
+
+Mas quem sou eu para criticar um filme tão bem feito e tão amado por crianças e adultos de todas as idades.
 

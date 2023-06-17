@@ -1,19 +1,19 @@
 ---
 categories:
 - writting
-date: '2021-11-01T21:16:13-03:00'
+date: '2012-10-23'
+link: https://www.imdb.com/title/tt2016955
 tags:
-- cinemaqui
 - mostra
 - movies
-title: No Limite do Destino
+title: 'Noite #1'
 ---
 
-No Limite do Destino é a ambição do ator Yusuke Kitaguchi em dirigir seu primeiro filme, baseado em um drama sobre uma órfã e seu reencontro com a mãe problemática. E ele consegue. Faz um vídeo educado de um minuto para nos introduzir seu filme na Mostra de SP (disponível no Mostra Play, plataforma de streaming).
+Não é difícil se interessar por Clara e Nicolai, os dois personagens de Noite No. 1, primeiro trabalho em longa metragem de Anne Émond. Ambos possuem angústias mais ou menos universais, e é isso que de certa forma os acaba unindo para uma noite de filosofadas e aberturas íntimas de seus medos e fraquezas. Encontramos os dois em pleno ato sexual, sensual mas realista, para logo em seguida os sentirmos como completos desconhecidos para nós mesmos e um para o outro.
 
-A história é sobre Otose Nishizono, essa garota que foi emancipada do orfanato onde foi parar depois de fugir da casa de sua mãe e padastros abusivos ainda criança. No primeiro mês de sua independência, aos 18 anos, ela reencontra sua mãe, que quer o dinheiro do seu salário, e a relação abusiva simplesmente continua a partir daí.
+A descoberta aos poucos das "verdades" por trás de cada um dos jovens é o grude da história, e os subtextos que tentam poetizar ou tornar mais profundo o significado de suas confissões, embora bonito a princípio, acaba soando enfadonho e desnecessário para entendermos a plenitude de seus atos. E os dois momentos em que ela tenta sair do apartamento acaba soando igualmente artificial, não colaborando para a dinâmica do casal. Aliás, parece que apenas a troca de frases semiabertas consegue manter o suspense, quando na verdade esse é apenas a metade do caminho. Diferente de [Antes do Pôr do Sol], onde os personagens dinamizavam discussões relevantes e que ao mesmo tempo revelavam sobre a personalidade de cada um, aqui há uma parede invisível que impede essa conversa mais aberta, e transforma no fundo em dois monólogos feitos no mesmo ambiente.
 
-No Limite do Destino brinca com o tema sem muita pretensão. Seu roteiro é simples e direto, retirado diretamente do contemporâneo onde moças sonham em se tornar famosas em uma banda de idols e ninguém está muito afim de trabalhar. No entanto, as épocas se misturam, pois a mãe de Otose fuma dentro de uma cafeteria e está tudo bem. A ideia de mescla de gerações faz sentido na história, pois acompanharemos também a trajetória de uma outra jovem que fica grávida de um homem casado e precisa sacrificar sua carreira de cantora logo no início.
+Igualmente frustrante é sua conclusão, apressada e que passa despercebido de tão ignorada que é a dimensão dos traumas de Clara, que mesmo passando por uma espécie de catarse, jamais a colocaria na situação da última cena, colocando em xeque o respeito que o roteiro tem da sensibilidade do espectador. Um grave furo, se pensarmos que o filme todo se baseia apenas nisso.
 
-O drama estabelecido em No Limite do Destino puxa tensão forçando a barra na relação abusiva entre mãe e filha e não arreda o pé. É difícil se identificar com uma pessoa tão passiva quanto Otose, e não sabemos (pelo filme) de onde veio sua personalidade, exceto que ela é materializada na figura de um homem de preto. É tudo tão fechado e formal, bem no estilo japonês. Não é uma experiência ruim, mas você irá sentir a estranheza do estrangeiro a todo momento. "O que está acontecendo", "por que ela continua fazendo isso" e "não consigo entender essa garota" serão pensamentos constantes nessa sessão. E, sem querer dar spoiler, não posso afirmar que a coisa vai melhorar em algum momento.
+[Antes do Pôr do Sol]: {{< relref "antes-do-por-do-sol" >}}
 

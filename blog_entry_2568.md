@@ -1,16 +1,22 @@
 ---
 categories:
 - writting
-date: '2013-10-20'
-link: https://www.imdb.com/title/tt0109445
+date: '2019-06-24'
+link: https://www.imdb.com/title/tt1473832
 tags:
 - movies
-title: O Balconista
+title: O Bebê de Bridge Jones
 ---
 
-Primeiro longa do diretor Kevin Smith, O Balconista não poderia deixar de ter algo a mais dos outros filmes que o trouxesse para os holofotes. No entanto, quase 20 anos depois, ele permanece como um dos filmes esquecidos que não merece ser revisitado.
+Fui convidado a assistir um filme simples, dos que se desliga o cérebro. Tão simples que é a segunda continuação de uma história e você não precisa saber muita coisa ou nada de como anda esta novela em que Renée Zellweger fala com sotaque britânico admirável. Detalhe: ela é americana.
 
-Trazendo uma fotografia preto e branca sem qualquer motivo aparente, o filme gira em torno de Dante Hicks (Brian O'Halloran), que trabalha de balconista em uma pequena loja de conveniência logo do lado de uma pequena locadora de vídeos, cujo balconista é seu amigo. Dividido em diversas partes com títulos (também sem motivo aparente) somos apresentados a diferentes diálogos que retratam a vida e os pequenos detalhes de sua rotina com um ar cômico, ácido e auto-referencial. Fala-se sobre Star Wars, mulheres, drogas e o cotidiano. Acontecimentos inusitados acontecem, o que não parece mudar muito a rotina daquelas pessoas.
+Aliás, uma das piadas que funcionam tem a ver com nacionalidade: sua mãe fica horrorizada em saber que a filha pode estar grávida de um americano.
 
-O que é impressionante mesmo é que o filme tenha uma continuação. Dá pra acreditar?
+Mas este filme deveria ser mesmo um Orgulho e Preconceito dos tempos modernos. Temos Mr. Darcy na pele de Colin Firth com a erudição no nível exato em que você para de ser apenas intelectual e começa a ter problemas em se relacionar com as pessoas em volta. Ele nunca sorri, apenas de maneira doce, e sua postura é de um perfeito cavalheiro.
+
+Infelizmente não temos a contraparte feminina, pois a personagem de Zellweger é apenas mais uma dessas que protagoniza comédias românticas. Todo o lado romântico se perdeu entre um filme e outro. Agora ela é Bridge Jones e não precisa provar nada para o mundo. Apenas realizar seu sonho de ter um bebê.
+
+E o filme basicamente é sobre isso, com piadas e cenas criadas para isso. Hugh Grant ficou de fora, o que é uma pena, mas um outro bonitão chega no lugar, Patrick Dempsey, com mais discrição do que Grant e seu jeito canastrão inconfundível.
+
+Esta é a terceira parte de uma saga que parece ter chegado ao fim. Seu único momento britânico é quando dois machos alfa esmagam uma grávida em uma porta rotatória, podendo o filho ser de um deles. Todo o resto está americanizado e livre de momentos embaraçosos. Ou seja, um tédio que faz rir de vez em quando.
 

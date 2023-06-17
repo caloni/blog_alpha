@@ -1,25 +1,54 @@
 ---
 categories:
 - writting
-date: '2016-02-12'
-link: https://www.imdb.com/title/tt1374989
+date: '2016-09-11'
 tags:
-- cinemaqui
+- lists
 - movies
-title: Orgulho e Preconceito e Zumbis
+title: Os 10 melhores filmes dos anos 90... 1890!
 ---
 
-Há muitos filmes que se agarram a um conteúdo original pela força dramática que estes fornecem (como o recente Dez Mandamentos brasileiro), mas se esquecem de adicionar algo realmente valioso. Pelo contrário: se escondem covardemente "por trás das saias" de uma obra de referência, ambiciosa e complexa, e de lá atiram com pistolas de água no espectador, indeciso se gosta do que vê por lembrar algo que já viu ou furioso por terem brincado com algo que nunca deveria ter sido "tirado da caixa".
+Esta é uma ótima seleção feita pelo saite A.V. Club, que contém para variar vários trabalhos do genial Georges Méliès, além também dos trabalhos mais técnicos de Thomas Edison. É preciso lembrar que a sétima arte estava apenas engatinhando.
 
-Acho que poucos filmes seriam tão perturbadores nesse quesito que esse Orgulho e Preconceito e Zumbis, que utiliza os personagens, a história e os diálogos da obra literária de Jane Austen e do filme homônimo (Joe Wright, 2005). Claro, a obra já foi adaptada outras vezes e até virou série televisiva pela BBC. É um conteúdo hoje popular graças a isso. E justamente por isso o diretor e roteirista Burr Steers (do ótimo A Estranha Família de Igby) inseriu na história outro elemento igualmente popular nessa década: zumbis.
+Um primeiro exemplo do cotidiano, que não quer dizer nada em particular, mas que já documenta uma rotina da época, e hoje é um dos melhores exemplos dos curtas iniciais do cinema.
 
-O pano de fundo é a Peste Negra, trazida pelos franceses ("claro que foram eles") e espalhadas em diferentes formas. Entre elas, apodrecendo a carne das pessoas infectadas, mas mantendo-as sãs, falantes, pensantes. Desde, é claro, que elas não comecem a devorar cérebros humanos por aí. Se fizerem isso, estarão marchando para o caminho da perdição, do animalesco. Dentro da história surge um grupo que evita comer cérebros humanos para comer de porcos, e que através da fé conseguem se manter "vivos" e livres da tentação. Constituem a alta classe de zumbis. Seriam os intelectuais, a aristocracia. Se continuarem assim, alguém comenta, logo estarão no Parlamento inglês.
+https://www.youtube.com/embed/OYpKZx090UE
 
-A correlação com os zumbis de George Romero e seu A Noite dos Mortos Vivos e sequências não poderia ser mais viva e vibrante. Que ideia! Eu adoraria assistir um filme que relacionasse esses zumbis com a sociedade da época de Jane Austen, onde os nobres espantavam o tédio realizando bailes, que eram usados para que pares fossem arranjados, terras fossem transferidas de uma família para outra.
+Um teste de sincronização entre áudio e víduo já pode ser observado nesse conjunto de três tomadas de testes nos laboratórios Edison.
 
-Infelizmente, este filme é mais Orgulho e Preconceito e menos Zumbis. O que vemos neste é apenas um remake da obra de Austen em um formato mais explícito. Afinal, nós já sabemos que as mulheres são o sexo forte em seus romances, as verdadeiras heroínas. Aqui, são elas que realizam treinamento de artes marciais na Ásia (Japão se for rica, China se for pobre) e são elas que portam facas e espadas entre suas vestimentas delicadas. Tudo para se defenderem das criaturas comedoras de cérebro, que se mantém afastadas dos campos graças ao "entremeios", um sistema de defesa do exército britânico, que destruiu todas as pontes e mantém Londres separada do resto do mundo civilizado exceto por um único caminho.
+https://www.youtube.com/embed/Y6b0wpBTR1s
 
-Enquanto isso, a nobreza arruma tempo para elaborar seus bailes e seus estratagemas de troca de herança, quase como se não houvessem zumbis. E é isso que é decepcionante no filme. Zumbis existem, vemos eles uma hora ou outra, mas eles nunca de fato participam da história ou são extremamente vitais para seu desenrolar. É como se eles apenas fossem uma nação inimiga pronta para atacar a qualquer momento. E se retirarmos os zumbis da trama, a história se volta quase que integralmente para um Orgulho e Preconceito e Paródia. As cenas estão lá, os diálogos funcionam, só que às vezes em um contexto ligeiramente diferente.
+Várias trucagens dentro de um cenário de castelo idealizados por Georges Méliès, tudo na edição de corte, além de uso de fumaças, sobrescrita de película, etc.
 
-Isso não basta. Já vimos esse filme, e em um formato muito melhor: o drama original. A paródia não consegue nunca criar momentos cômicos interessante, pois se limita a repetir a receita do drama e inserir a novidade dos zumbis pontualmente. Depois da definição fantástica de como seriam os zumbis da aristocracia britânica, esse seria um filme que eu adoraria assistir. Infelizmente, vou continuar esperando.
+https://www.youtube.com/embed/OPmKaz3Quzo
+
+Esse é o clássico, conhecido pelo primeiro filme exibido em público e com a lenda de que os espectadores saíram correndo ou abaixavam as cabeças quando o trem chegava à estação. Na verdade, parece que os irmãos Lumière já estavam testando o mesmo filme em uma versão 3D, mas que foi colocada em exibição pouquíssimas vezes e muito tempo depois, no ano seguinte. Mesmo assim, podemos dizer que Cinema e 3D nasceram praticamente juntos.
+
+https://www.youtube.com/embed/1dgLEDdFddk
+
+Mais trucagens de Méliès, dessa vez em um filmeco de menos de um minuto. Mas ainda é fascinante de se ver. Um dos melhores exemplos daquela época de como se pode fazer muito com "pouco".
+
+https://www.youtube.com/embed/Sgr5FVjnXs
+
+Um curta de Méliès que resume toda a história de Cinderela. Tem como figura impressionante o velho do tempo, que surge no castelo. Já possui a noção de mudança de espaço, pois os cortes denotam lugares diferentes onde se passa a história. No final tem uma dança bem divertida, um espetáculo de alguns minutos para a época.
+
+https://www.youtube.com/embed/0caKk42n7A
+
+O primeiro filme polêmico foi feito em terras americanas. Um beijo de um casal foi acusado de pornográfico, mereceu críticas do Vaticano e hoje seria o equivalente a... sei lá. Dezenas de atores em uma suruba em um filme da Disney?
+
+https://www.youtube.com/embed/IUyTcpvTPu0
+
+Esse filme é bizarro. É sobre uma suporta fada, mulher doce, sei lá, que vai arrancando bebês de um jardim (bebês reais) e jogando no caminho. Hoje seria considerado um terror e tanto.
+
+https://www.youtube.com/embed/MTd7r0VkgnQ
+
+Mais um gore para a plateia. Para os que reclamam que hoje em dia há muito apelo à violência gráfica, esse filme é apenas isso: a decapitação de uma mulher (a tal Rainha de Scots). O corte até que foi bem feito. Deve ter impressionado à beça.
+
+https://www.youtube.com/embed/XgDGwc19aU
+
+Na época o Raio-X havia sido descoberto e a criatividade já começava a aflorar. Esse filmeco é bem divertido pela sua inocência, e demonstra como havia curiosidade a respeito das inovações tecnológicas e científicas. Aliás, a Scientific American aquele ano lançou um artigo explicando como fazer Raio-X em sua própria casa!
+
+https://www.youtube.com/embed/3gMCkFRMJQQ
+
+Fonte: [A.V. Club - The 10 best films of the 1890s](https://www.avclub.com/the-10-best-films-of-the-1890s-1798234254)
 

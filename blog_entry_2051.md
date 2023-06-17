@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2022-03-02T12:12:37-03:00'
+date: '2018-08-06'
 tags:
-- wine
-title: La Châsse Syrah Rosé
+- beer
+title: La Guapa Carmen
 ---
 
-Estou me impressionando com esses não tintos. Sempre pensei que a maioria fosse água, mas esse é bem forte. O sabor é cítrico, não me lembra nada em específico. O tanino é detectável, e a cor é maravilhosa. Parece envelhecido, tem um quê de âmbar rosa.
+É a cerveja do restaurante anônimo produzida pela ZalaZ, de Paraisópolis (mineira), que é leve o suficiente para ser degustada e pesada o suficiente para ser degustada com empanadas. Seu aroma de laranja e maracujá do rótulo dá um tom cítrico, mas pouco perceptível por conta de seu corpo leve.
 

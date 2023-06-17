@@ -1,21 +1,27 @@
 ---
 categories:
 - writting
-date: '2016-10-26'
-link: https://www.imdb.com/title/tt0072446
+date: '2020-03-08'
+link: https://www.imdb.com/title/tt6523720
 tags:
-- mostra
+- cinemaqui
 - movies
-title: Terra Prometida
+title: Terremoto
 ---
 
-Uma farsa deliciosa dramatizando o apocalipse enxergado por Karl Marx. Mostra os capitalistas inescrupulosos sem valor à vida humana para defender o comunismo que dá valor aos humanos como ferramenta de sacrifício. Não é um filme para levar a sério, mas como qualquer propaganda vermelha que se preze, ela tem que ser dramática; quiçá hilária. Na verdade, é de uma série de filmes do diretor que ridiculariza a propaganda soviética.
+Terremoto é sobre o sensível balanço entre nossas vidas em ordem e o caos violento da natureza com que temos que conviver. Seria este um alerta ecológico ou um filme-catástrofe? Ele consegue ser os dois, e evita tomar um caminho ou outro por definitivo. E esse é o seu valor, que se mede pela quantidade de passos de distância dos filmes-catástrofe norte-americanos.
 
-O diretor, polonês, e homenageado desta Mostra, criou este drama sob o filtro romântico e manipulador dos políticos comunistas de sua época, que discursavam sobre a "pobreza gerada pelo capitalismo", "forte desigualdade" e todo o pacote que hoje em dia infelizmente é levado a sério. O diretor então distorce ainda mais as lentes desse filtro (assim como as de sua câmera), transformando a burguesia no que era a nobreza: porcos ignorantes, desprezíveis, estúpidos, imorais, desumanos e mesquinhos. Nada pode ser levado a sério em um filme que não se leva a sério, exceto a piada que é feita do outro lado. Em determinado momento, um personagem, após aplicar um golpe, senta-se no chão, dá uma risada de satisfação e acena para a câmera, para o espectador.
+Isso porque, no fundo, se ele tentar se explicar demais o que pretende acabará por trair a própria premissa de sua história, que é abraçar a imprevisibilidade de nossas vidas, algo que nunca temos em filme de Hollywood, em que temos certeza que a família nuclear, apesar de passar por uns perrengues, sairá ilesa no último minuto. Em Terremoto essa certeza é posta em xeque de uma maneira brutal.
 
-O filme de quase três horas é filmado como um épico fantasioso, e é delicioso de se ver. Com uma trilha sonora empolgante e movimentos de câmera dinâmicos, a história nunca para. Seus personagens são enérgicos e estão sempre gritando. A cor é exagerada, sobretudo o vermelho do sangue derramado do proletariado, pessoas do mesmo sangue das famílias judias que concentravam capital. O figurino é caracterizado com cores berrantes para a burguesia, o frio azul e marrom para os trabalhadores. Há um charme arrebatador nos muros e portões das fábricas, assim como suas chaminés, eternamente enfocadas por Andrzej Wajda e eternamente soltando fumaça.
+Não há lição de moral no final do filme. Não há provas de coragem que compensem a brutalidade dos eventos que veremos. Assim como um Elefante, o filme de Gus Van Sant, Terremoto não possui a pretensão de construir uma narrativa que funcione em cima de algo que foge ao controle humano porque isso nos daria o poder de descobrir motivos ou causas e resolver como se conserta um pneu furado. Aqui não há pneu furado. Não é um meteoro que irá colidir com o planeta e temos como evitar. Nada pode ser feito, pois ninguém está preparado para o que o filósofo economista Nassis Nicholas Taleb chama de Cisne Negro: "um evento imprevisível e incalculável, geralmente com consequências extremas".
 
-A atuação de todos os homens é exagerada, e os anjos, como uma mulher que pensa no ser humano, é vista como íntegra e a única heroína que se preza. No meio temos todo tipo de traição: adultério, incêndios criminosos, golpes financeiros. Mas todos são bem-humorados ou afetados, o que torna tudo impressionista. As máquinas frequentemente cortam e espremem carne humana, jorrando sangue e desprezo dos patrões, que reclamam que sujou tecido bom.
+Mas apesar de não obedecer à fórmula restrita de como fazer filmes de coragem, sua estrutura lembra muito o clichê do herói de um evento passado que não consegue se recuperar. Ele abandona a família que salvou, e nunca entendemos os motivos, pois nem ele mesmo consegue explicar e a atuação de Kristoffer Joner é enigmática demais para conseguirmos extrair algo de sua expressão. Todas suas tentativas no filme de verbalizar esse paradoxo fortalecem nossa convicção de que ele não tem a menor ideia de por que é um ser humano incapaz, apesar de confiar que é um excelente geólogo, capaz de prever melhor do que uma agência inteira de geologia.
 
-De caricato temos sobretudo um trio de amigos, os personagens principais, que passeiam por essa miscelânea de criaturas. Eles querem fundar uma sociedade e começar um negócio, uma fábrica de tecido. Cada um deles possui absolutamente nada, o que, para eles, "somados é o suficiente", como uma bela inversão da ideia marxista que a burguesia roubou algo do proletariado. Suas aventuras para conseguir o que querem são despretensiosas, mas possuem a energia da vida. Pode existir um certo drama e uma certa crítica, mas esse filme é quase em sua maioria uma comédia utópica. Uma deliciosa comédia utópica. À luta, camaradas!
+E por isso o clichê do herói traumatizado não funciona como guia para o espectador, que terá que imaginar algo novo na cabeça. Algo mais realista. Nem sempre as pessoas sabem o que as afeta, e muito pior é tentar convencer os que estão em sua volta de que o apocalipse está próximo.
+
+Este insight é maravilhoso, pois consegue se desvencilhar da fórmula americana de como "problemas" são resolvidos, geralmente com receitas de anti-depressivos. Esta obra norueguesa demonstra uma rara atitude humana em um filme com efeitos de nos fazer prender nas cadeiras e prender a respiração em pelo menos dois momentos muito pontuais, momentos esses que ficarão em sua memória após a sessão e que envolvem obviamente situações de vida ou morte. E diferente de um filme com uma explicação, sairemos da sessão sem saber o que pensar sobre o que acabamos de ver. Não estamos satisfeitos. Não houve a resolução do conflito interno do herói. Nos lembraremos disto para sempre, enquanto os heróis americanos repousam em nossa memória como uma cópia de uma cópia de uma cópia.
+
+Esta é uma continuação do segundo filme-catástrofe roteirizado pela dupla norueguesa John Kåre Raake e Harald Rosenløw-Eeg. O primeiro filme foi enviado para concorrer ao Oscar como melhor filme estrangeiro. Para os que assistirem apenas este segundo (meu caso), a primeira cena, quando um geólogo anônimo for aplaudido efusivamente por uma plateia de uma programa de televisão, o significado será diferente. Para quem o vê pela primeira vez, este é um filme em que os heróis anônimos valem mais do que cientistas burocratas.
+
+O diretor de fotografia John Andreas Andersen toma as rédeas da câmera pela terceira vez em sua carreira e realiza um trabalho original em cima de uma tonelada de clichês. É difícil perceber o que ele está querendo dizer por trás de um suposto blockbuster, mas no momento em que entendermos que este é mais um drama do que seus efeitos, as coisas começam a fazer mais sentido.
 

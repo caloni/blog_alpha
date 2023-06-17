@@ -1,18 +1,22 @@
 ---
 categories:
 - writting
-date: '2012-08-24'
-link: https://www.imdb.com/title/tt1535438
+date: '2011-06-12'
+link: https://www.imdb.com/title/tt1673702
 tags:
 - movies
-title: Um Divã para Dois
+title: Um Gato em Paris
 ---
 
-Meryl Streep (Kay), e é preciso que comece esse texto com ela, está divina. Pra variar, seu tom de voz fino, distante e frágil remete justamente àquela mulher que, depois de 30 anos de casada, percebe que sua posição submissa e acomodada começa a perturbá-la pelo som repetitivo e ensurdecedor da rotina. Seu marido, Arnold (Tommy Lee Jones sendo Tommy Lee Jones), igualmente acomodado em uma cadência ininterrupta de ovos, bacon e escritório, mal consegue entender por que sua mulher pretende mudar aquele casamento estável indo para uma sessão de terapia de casais em uma cidadezinha feita sob encomenda. Pior: não entende por que gastar 4 mil dólares em algo tão fútil se poderia aplicar melhor esse dinheiro comprando um telhado novo?
+A trilha sonora fantasiosa que evoca tanto os [Batman de atualmente] como, de uma forma mais lúdica, os policiais infantis que líamos quando crianças, abre as cortinas para o novo trabalho de Alain Gagnol, projeto de mais de cinco anos onde, debruçado com sua equipe de 60 pessoas sobre os mais de 40.000 desenhos criados à mão, revela uma estética curiosa e ao mesmo tempo divertida.
 
-Construído de maneira impecável e didática pelo diretor David Frankel, as primeiras cenas que demonstram como, apesar de casados, o convívio alargado e rotineiro criou uma barreira intransponível entre os dois, tal como o longo corredor que separa seus quartos, os ângulos opostos que cada um olha pela manhã (Arnold, para o jornal e para a janela, Kay, para o fogão e para Arnold) e o personagem invisível que se senta entre os dois no sofá de Dr. Feld (Steve Carell, mais simbólico que necessário).
+A história começa com um gato que divide sua vida em dia e noite. De dia fica com uma menina triste pela morte do pai, que vive com a empregada e sua atarefada e ausente mãe. De noite, sai à caça com um vizinho cuja profissão é roubar joias.
 
-A coragem do diretor, aliás, em arriscar um arco dramático não linear e que impulsione os personagens da maneira mais realista do que um casal formado por Lee Jones e Streep poderiam ser fadado ao fracasso se não houvesse essa cumplicidade com o espectador. Com a confiança depositada em quem assiste e provavelmente já viveu situação semelhante (da rotina) é possível apostar em sequências relativamente lentas, se compararmos com as regras das comédias românticas, e deixar o espectador constrangido. Constrangido, aliás, é a palavra exata para definir o que se sente ao ouvir as diversas músicas bregas escolhidas a dedo para ilustrar os momentos cafonas de uma tentativa desesperada de um casal de meia-idade em tentar algo novo. A aposta do diretor atinge seu ápice ao nos colocar em uma sala de cinema que aparentemente quebra a quarta parede que nos separa do filme.
+Além disso, o filme conta com um bando de gângsteres que conseguem divertir na medida certa. O mais inusitado, no entanto, foi encontrar em sua rica introdução elementos de O Poderoso Chefão, [Os Bons Companheiros] e, pasmem, [Cães de Aluguel]!
 
-Como consequência metafórica, saímos do filme com uma sensação de terapia, de livro de auto-ajuda. Uma bobagem? Sem dúvida. Porém, feita a partir da reciclagem do óbvio que encanta mais do que se víssemos mais do mesmo. Nesse sentido, a aposta de David Frankel, desajeitada em poucos momentos, sai da rotina ainda acima da média.
+É com esse clima ao mesmo tempo infantil quanto caricato que Gagnol consegue, sem muitos saltos, narrar de maneira eficiente a história desses personagens e ao mesmo tempo exibir uma versão estilizada da noite parisiense.
+
+[Batman de atualmente]: {{< relref "batman-begins" >}}
+[Cães de Aluguel]: {{< relref "caes-de-aluguel" >}}
+[Os Bons Companheiros]: {{< relref "os-bons-companheiros" >}}
 

@@ -1,16 +1,18 @@
 ---
 categories:
 - writting
-date: '2011-06-12'
-link: https://www.imdb.com/title/tt1302011
+date: '2015-08-23'
+link: https://www.imdb.com/title/tt0240468
 tags:
 - movies
-title: Kung Fu Panda 2
+title: Kung Pow - O Mestre da Kung-Fu-São
 ---
 
-A continuação das aventuras de Po, agora o Dragão Guerreiro, e os cinco furiosos, contém em sua essência os mesmos elementos que fizeram do original um sucesso como filme: as piadas irreverentes em torno da figura de um panda lutando Kung Fu (e Po é um personagem irreverente não apenas por natureza, mas em sua própria concepção de personalidade divertida), as sequências de luta orquestradas pela animada trilha sonora (que aqui já se torna um pouco mais confusa, e desafina um pouco se revermos o primeiro filme) e os primorosos efeitos visuais, que aqui ainda contém o interessante efeito da água no pelo de Po.
+Como todo fã de Tela Class, a redublagem de filmes de artes marciais da década de 70 pelos comediantes Hermes e Renato, seria de se esperar que a expectativa em torno de Kong Pow, um filme completamente redublado e com novos atores "anexados" à construção da cena original, fosse alta pelo desafio que este representa. No entanto, a expectativa se torna frustração na maioria do tempo, pois parece que o real objetivo de Steve Oedekerk (Ace Ventura 2 - Um Maluco na África) é menos homenagear essas obras esquecidas em cineclubes empoeirados e na programação da TV Aberta (estou olhando para você, Band) e mais realizar uma espécie de paródia que ataca a obra original de uma maneira não muito... polida.
 
-O que move os personagens nessa sequência é mais um vilão que tenta acabar com a China e com o Kung Fu, o que torna a motivação dos heróis repetitiva e confusa (novamente, como eles vão acabar com o Kung Fu, mesmo?). É lógico que um adulto consegue entender o impacto que as armas de fogo tiveram sobre a arte das lutas corpo a corpo, porém essa dedução sequer aparece na história de maneira explícita, ofuscando um pouco a motivação de tudo aquilo.
+Dessa forma, a história da lenda dO Escolhido (Oedekerk) e a organização do mal cujo seu vilão faz parte, Meste Con Dor (Fei Lung), é um pretexto vazio e sem qualquer intenção de se tornar uma história minimamente desenvolvida para fazer chacota das falhas de gravação ("eu sou mágico, seu casaco agora é vermelho!") e recriar o universo para inserir piadas "novas" que na maioria das vezes podem ser classificadas como engraçadinhas.
 
-Com um trabalho criativo em alguns detalhes da trama (como a forma encontrada pelos guerreiros para fazer com que o Panda também "voasse" em direção aos inimigos), e piadas irreverentes de Po, o longa consegue divertir de forma inquestionável. Porém, com a falta de uma narrativa coesa o suficiente para imprimir em sua conclusão o conhecido arquétipo de lição de moral (modelo já utilizado no primeiro filme), o trabalho todo acaba perdendo peso significativo em seu final. Isso, contudo, não impede que algumas sequências sejam emocionantes pelo simples fato de serem emocionantes.
+Tentando criar um primeiro filme seguido por uma franquia, ainda apresenta personagens secundários que supostamente seriam importantes nas suas continuações, Kung Pow só não decepciona completamente porque observar o processo de recriação de um novo filme em cima das cinzas do original é fascinante por si só, além dele realmente conter sequências hilárias, como a troca de cores do casaco já citada, ou as brincadeiras em torno da lógica das lutas, ou até brincadeiras com o próprio gênero, como as mortes que não acontecem.
+
+Já havia assistido alguns anos atrás -- talvez muitos -- e não me havia incomodado os efeitos digitais passados. Hoje eles incomodam bem mais, e devem incomodar mais ainda daqui a dez anos. É um experimento temporal, com data de expiração. Poderia ser feito mais vezes, pois tem o potencial. Se o Tela Class é um trabalho fenomenal de humor, por que não um longa metragem inteiro?
 

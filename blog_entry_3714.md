@@ -1,11 +1,13 @@
 ---
 categories:
-- writting
-date: '2022-10-20T21:42:04-03:00'
+- reading
+date: '2019-09-08'
 tags:
-- series
-title: Thermae Romae Novae
+- quotes
+title: Thomas Piketty
 ---
 
-Este anime se passa na roma antiga e é engraçado ser dublado em japonês. Mas quando o protagonista viaja para o futuro ele não entende os japoneses com quem interage e fala em um latim safado. Esta é a história de diferentes formas de construir uma terma. O padrão de um episódio é sempre o mesmo: ele mergulha e vai parar no Japão. Fascinado em como os japoneses respeitam a cultura de termas, quando ele volta para seu tempo imita tudo que viu. A proposta de sua criadora é provocadora, mas sua fascinação pelas termas japonesas é legítima. Ela visita várias no decorrer da história. Ao final de cada episódio a vemos fazer isso, para mostrar de onde se inspirou. Nos primeiros dois episódios é bacana de acompanhar, depois fica repetitivo e episódico.
+"A desigualdade não é ruim por si só; decida se ela é justificável." (Capital in the Twenty-First Century)
+
+"Toda a riqueza do mundo daria para cada um 760 euros." (Capital in the Twenty-First Century)
 

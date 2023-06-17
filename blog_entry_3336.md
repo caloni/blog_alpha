@@ -1,11 +1,12 @@
 ---
 categories:
 - writting
-date: '2022-06-07T23:04:39-03:00'
+date: '2014-02-22'
+link: https://www.imdb.com/title/tt1212452
 tags:
-- movies
-title: Rumspringa - Ein Amish in Berlin
+- series
+title: Saco de Ossos
 ---
 
-Esta comédia pensa em choque de cultura, mas atinge os valores contemporâneos, ou a falta de. O que era para ser engraçado se torna um pouco melancólico. É um filme que diz mais sobre o roteirista e diretor que o universo sendo representado. Aborda temas atuais, como relacionamentos líquidos e ecologia, onde nada parece importar. Nem mesmo o roteiro. Uma aventura adolescente com alemães deliciosos e um jovem da comunidade Amish perdido em Berlim. Ele está nessa fase que pode experimentar a vida lá fora, mas o roteiro cria algumas barreiras mentais em sua cabeça para aos poucos ir quebrando. O diretor gostou de usar o efeito de câmera lenta girando e ultrazoom na cara dos atores para parecer íntimo e introspectivo e agora usa em todas as cenas que não sabe o que fazer. O cineasta está imerso no universo que quer representar no cinema sem saber usar a linguagem do audiovisual. Nem mesmo os exageros de videoclipe. Abusar de filtros é apenas ser usuário do Insta. Os conflitos são criados e resolvidos sem mais nem menos.
+O que impressiona nessa nova produção baseada em uma obra de Stephen King nem é a história, que segue mais ou menos os mesmos moldes da sua cinematografia que busca o grotesco e o fantasioso, exagerado e estilizado, mas o trabalho de som, a trilha e a direção de arte que, aliados a enquadramentos ousados, revelam os sonhos do protagonista como fazendo parte de sua realidade (como os imensos quadros pendurados). Infelizmente decidiram transformar em uma série com dois episódios que somados são um filme de 3 horas, quando imagino que se fossem cortadas algumas situações e personagens que em nada acrescentam à história (como a velha maluca), o resultado final poderia ser menos expositivo. Do jeito que está, a série grita para o espectador: "olhem para mim! sou uma obra do Stephen King!".
 

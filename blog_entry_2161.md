@@ -1,12 +1,11 @@
 ---
 categories:
 - writting
-date: '2020-10-04'
-link: https://www.crunchyroll.com/love-tyrant
+date: '2022-03-02T12:15:30-03:00'
 tags:
-- animes
-title: Love Tyrant
+- movies
+title: Luca
 ---
 
-O piloto dessa série é absurdamente hilário. Infelizmente a sequência não é a mesma, se perdendo já em formatos formulaicos. De qualquer forma, vale pelo piloto. Assista e caia fora. Envolve triângulo amoroso, assassinatos de mentira, homossexualidade forçada e incesto. Tudo em um pacote só. Estas são brechas magníficas para aflorar as piadas orientais sobre relacionamentos. Também são mensagens bem óbvias de o quão ridículo pode ser a forma como os orientais enxergam esse nosso ocidente indo pras cucuias.
+Filme da Disney explorando cultura italiana de forma obrigatória, inserindo macarronada, azeite de oliva e tudo o que um americano médio entende por Itália. É uma história de Home Video, apressada, mas fofinha, que pode ser interpretado como uma lição de tolerância um tanto bizarra, pois usa monstros marinhos que viram meninos.
 

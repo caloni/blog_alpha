@@ -1,120 +1,22 @@
 ---
 
-Here I am doing interview exercise tests at Hacker Rank. I am trying to recap what I've been doing the last two months before going on. Let's see what I learned, starting with the Warm Up exercises.
+A peça de Raul Brandão, escritor português, inspira um cineasta da região de Açores, Rodrigo Areias, a documentar uma vila de pescadores portugueses de onde veio sua família, e como consequência somos brindados com Hálito Azul, onde a poesia, a cultura, a religião e a ecologia do local, não são perdido no tempo, mas transformado em algo a mais.
 
-# Counting Valleys
+Esse algo a mais escapa do autor e diretor, mas por muito pouco, pois ao nos mostrar a vida dos pescadores como protagonistas de sua vida e encenar momentos belíssimos dentro e fora do mar o filme já mergulha em uma simbologia rica em detalhes visuais, restando desenvolver suas histórias. O palco está pronto para aventuras, mas o ensaio é eterno.
 
-To solve the [counting valleys problem] keep a valley counter that only increments when the hiker is coming up to the sea level. Monitor the altitude and the new altitude and compare. If the altitude was negative (into a valley) and the new altitude is zero (sea level) then that's a new valley to count. This strategy avoid to count valleys inside valleys before the hiker gets up to sea level.
+Acompanhamos a vida dos habitantes sob a ótica do cuidador do farol, cujo papel de narrador, visual de barba que molda a cara e touca característica veio direto da imaginação de obras sobre o mar, seja Mobi Dick e 20 Mil Léguas Submarinas ou Camões. Ele e tantos outros cantam justamente o que estão fazendo no momento: "estou procurando minhas chaves para abrir a porta da frente de minha casa". Involuntariamente isso cria um universo à parte que vira combustível para novas histórias que serão lembradas daqui a quinhentos anos.
 
-This solution has a complexity of O(n).
+Mas os mais novos são vistos sem trabalho ou sem interesse em frequentar a escola, premeditando tempos difíceis de transformação em um país e um continente que vivem de crise em crise se esquecendo do seu passado. O mar não é mais o mesmo e existem cotas de pesca para não exaurir as forças da natureza. Entre dominar e destruir o ecossistema há uma linha tênue muito fina que já foi lançada e quebrada no século passado.
 
-```
-int countingValleys(int steps, string path) {
-    int valleys = 0;
-    int altitude = 0;
+Não é certo enxergarmos beleza em Hálito Azul, mas o filme o faz de qualquer maneira. Ele está apaixonado pelo tema e nos traz uma das línguas mais belas já faladas pela humanidade, o português raiz, estranhamente dublado, ou vilipendiado, nas legendas em inglês, o que será uma pena para o espectador estrangeiro, mas uma impossibilidade intransponível em filmes falados que tivemos que nos acostumar. Brasileiro que sou mal entendo um pescador português falando, ainda mais nos Açores, mas não se trata da frase completa, mas da sonoridade das palavras e seus significados ocultos a um não-falante.
 
-    for (int s = 0; s < steps; ++s)
-    {
-        int step = path[s] == 'D' ? -1 : 1;
-        int newAltitude = altitude + step;
-
-        if (altitude < 0 && newAltitude == 0)
-        {
-            valleys++;
-        }
-        altitude = newAltitude;
-    }
-
-    return valleys;
-}
-```
-
-# Cloud Jump
-
-To solve the [cloud jump problem] create a loop and advance current position until finished. Try the double jump at first and ordinary jump else by incrementing position by 1 or 2 and incrementing jump counter. If in the end position just increment and get out of the loop. Return the jump counter.
-
-This solution has a complexity of O(n).
-
-```
-int jumpingOnClouds(vector<int> c) {
-    int jumps = 0;
-    size_t i = 0;
-
-    while (i < c.size()) {
-        if (i < c.size() - 2 && c[i + 2] == 0) {
-            i += 2;
-            ++jumps;
-        }
-        else if (i < c.size() - 1) {
-            i += 1;
-            ++jumps;
-        }
-        else {
-            i += 1;
-        }
-    }
-
-    return jumps;
-}
-```
-
-# Repeated Strings
-
-To solve the [repeated string problem] we count the 'a' occurrences for the full unique string and divide n by the size of the unique string size, getting the number of times we need to multiply the full occurrences.
-
-For the partial string after the number of full unique strings we format this string and count independently this last part.
-
-The total of occurrences is calculated multiplying the times there will be full unique strings and sum up the partial string 'a' occurrences.
-
-This algorithm has a complexity of O(n) because we got to count every char.
-
-```
-long repeatedString(string s, long n) {
-    long fullOccur = (long) count(s.begin(), s.end(), 'a');
-    long fullMult = n / s.size();
-    string partialStr = s.substr(0, n % s.size());
-    long partialOccur = (long) count(partialStr.begin(), partialStr.end(), 'a');
-    return fullOccur * fullMult + partialOccur;
-}
-```
-
-# Sales by Match
-
-To solve the [sales by match] problem we traverse all the array of socks and keep inserting and deleting a set of colors. If the current color is not found in the set we insert it. If the current color is found we increase a pair counter and remove the color from the set. The next time the same color appears it will be inserted again waiting for its pair.
-
-The complexity of this solution is O(N), since we have to traverse all array of socks.
-
-```
-int sockMerchant(int n, vector<int> ar)
-{
-    int ret = 0;
-    set<int> colors;
-    for (int color : ar)
-    {
-        if (colors.find(color) != colors.end())
-        {
-            ret++;
-            colors.erase(color);
-        }
-        else
-        {
-            colors.insert(color);
-        }
-    }
-    return ret;
-}
-```
-
-[cloud jump problem]: https://www.hackerrank.com/challenges/jumping-on-the-clouds
-[counting valleys problem]: https://www.hackerrank.com/challenges/counting-valleys
-[repeated string problem]: https://www.hackerrank.com/challenges/repeated-string
-[sales by match]: https://www.hackerrank.com/challenges/sock-merchant
+Curto e grosso e sem história para contar, Hálito Azul é um breve panorama do mundo hoje em um porto secular. Cumpre seu papel documental sem honras, pois não há guerra, não há conflito e não há documento, pois boa parte da história é ficcional, construída por Rodrigo Areias e Eduardo Brito para dourar a pílula. Os assuntos estão soltos, jogados ao mar. É filme de mostra, de festival, que não pretende ir mais além. Em termos das grandes navegações do passado, fica eternamente ancorado pela sua própria contemplação.
 
 ---
 categories:
 - writting
-date: '2011-11-19'
-link: https://www.imdb.com/title/tt0113243
+date: '2011-10-29'
+link: https://www.imdb.com/title/tt0910559
 tags:
 - movies
-title: Hackers
+title: Cerejeiras em Flor

@@ -1,33 +1,18 @@
 ---
 
-Depois de muitos fins-de-semana divididos em horas picadinhas de programação de lazer, está disponível em vosso saite a primeira versão para usuários do conversor do dicionário Houaiss para o aplicativo Babylon.
+Uma nova temporada de House of Cards significa que as peças do jogo serão remanejadas para dar início a outra partida, e a história é sempre sobre o remanejamento de peças, e não a partida em si. A Netflix usa e abusa de seu formato, já que a temporada inteira foi concebida para ser assistida em sequência. Os episódios quase nunca terminam em reviravoltas, mas em conclusões. São mini-capítulos da eterna história pela busca do poder.
 
-Foi uma longa jornada, sim, mas espero que valha a pena para quem esperou. Também espero poder receber inúmeras respostas com dúvidas, sugestões e até mesmo mais problemas que vierem a acontecer.
+E, para todo mundo que já assistiu essa série, sabe que ela não é sobre mocinhos versus bandidos. Todos são bandidos. A ação quase sempre se passa na Casa Branca! É sobre a máfia estatal, seus capangas, seus dirigentes, seus espiões. Não há lugar para pessoas boazinhas por aqui, já que nossa evolução propriciou justamente o pior dos ambientes para que os piores psicopatas da região dominassem sobre todo o restante de primatas ignorantes e alienados. Francis Underwood cada vez mais se parece com o símbolo da busca incessante por poder, e ele aos poucos se distancia do vilão sem coração que foi pintado em momentos anteriores. Ele é apenas um dos personagens mais honestos da série, sendo divertido, mas repetitivo, acompanhar seus comentários paralelos com seu espectador (nós).
 
-Segue um pequeno roteiro do funcionamento do programa, que é bem simples, aliás. Para que tudo dê certo, no entanto, é necessário que o computador onde será feita a conversão possua os três programas abaixo instalados e funcionamento corretamente:
+A honestidade de Frank bate de frente com a tranquilidade de sua esposa, Claire, que começa aos poucos perceber a estratégia do marido, quase que por telepatia. Os dois estão empenhados, alinhados, e é ótimo ver isso. Quem não gostar das preferências (ou opções) sexuais dos dois irá se sentir ofendido por esse casal. Mas não é lindo como ambos são honestos a respeito de praticamente tudo? A Claire da Season 5 é a sequência direta da 4, e ela empolga por ganhar aos poucos terreno em um ecossistema feito para homens. Robin Wright não é apenas uma ótima atriz, mas dois dos melhores episódios da temporada, os dois últimos, são dirigidos por ela. Há muitos diretores desta vez, e um resultado um tanto irregular, o que dá ótimas oportunidades para Claire brilhar ainda mais.
 
-  * Dicionário Houaiss. Testado na versão 2, deve ser instalado com opção de cópia dos arquivos no disco rígido.
-  * Babylon. Testado nas versões 6 e 7. Pode ser registrado ou não.
-  * Babylon Builder. O construtor dos dicionários Babylon. Apesar de ser possível construir dicionários personalizados para o Babylon, é necessário que se use esse aplicativo conversor. O HouaissParaBabylon o usa, e por isso precisa que ele esteja instalado corretamente.
-
-Tudo isso verificado, basta então clicar no botão de Iniciar Conversão, sentar e esperar. A primeira fase envolve três passos:
-
-  * Desencriptação do dicionário original. Isso é feito baseando-se em nossa análise de engenharia reversa.
-  * Montagem do projeto de dicionário Babylon. Para isso existe um processo de interpretação do formato Houaiss, agora desencriptado, e sucessivas traduções para um projeto que o Babylon Builder irá entender.
-  * Construção do dicionário Babylon. Essa parte é feita pelo Babylon Builder. Por ser o maior dicionário de português da atualidade, esse processo pode demorar bastante, e com certeza irá se tornar o maior dicionário já instalado na sua lista de dicionários do Babylon.
-
-Na segunda fase, após toda essa movimentação de HD, existe apenas uma coisa a fazer: instalar o dicionário no Babylon.
-
-Quem faz isso é o próprio Babylon, se devidamente instalado. Se tudo deu certo, o HouaissParaBabylon sai de fininho e deixa o usuário com o progresso da instalação do dicionário Houaiss-Babylon.
-
-Se não for encontrado o dicionário Houaiss devidamente instalado no disco rígido, será exibida uma mensagem de erro pedindo que a instalação seja feita dessa maneira. Se, contudo, não for possível localizar a instalação do dicionário, será pedido ao usuário que diga onde ela se encontra, ou aponte para a pasta "Houaiss" em seu CD de instalação, uma dica suficiente para que a operação seja bem-sucedida.
-
-Outros erros comuns, como o Babylon Builder não instalado, serão obviamente avisados ao usuário. Erros mais raros terão um tratamento mais genérico. No entanto, nem por isso ele está livre de solução. Ao sair de uma conversão mal-sucedida, o usuário tem a opção de exportar o log de operações que foram realizadas durante a malfadada operação. Dessa forma, ele próprio conseguirá diagnosticar o problema ou, em casos mais sérios, me enviar o resultado de suas tentativas.
-
-E é isso. Para uma versão inicial, talvez esteja razoável. Quem confirmará serão os ansiosos usuário que, espero sinceramente, consigam seus objetivos há tempos aguardados.
+Não é uma temporada com muitos momentos brilhantes, e ela foi cozida em fogo morno. Porém, ela tenta se reciclar, o que é louvável, mas já deveria ter terminado muito antes do seu quinquagésimo capítulo.
 
 ---
-categories: []
-date: '2010-01-25'
-tags: null
-title: House
+categories:
+- writting
+date: '2017-05-30'
+link: https://www.imdb.com/title/tt1856010
+tags:
+- series
+title: House of Cards - Quinta Temporada, Episódio 1

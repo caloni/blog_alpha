@@ -1,16 +1,16 @@
 ---
 categories:
 - writting
-date: '2020-05-19'
-link: https://www.imdb.com/title/tt0086087
+date: '2011-11-03'
+link: https://www.imdb.com/title/tt1522238
 tags:
 - movies
-title: Pauline na Praia
+title: Pedaço de Papel
 ---
 
-Woody Allen em francês e sem restrição de idade. Pauline é uma ninfeta com seus catorze, dezesseis anos no máximo, mas carece de curvas que a apresente aos homens do filme, mais velhos. Três faixas de idade criam tensão em um filme onde a ninfeta irá aprender as mazelas do amor, e como as emoções humanas simplesmente mascaram nossas contradições internas, movidas por desejos mais intrínsecos de nossa própria formação como indivíduos.
+Esse curta de 18 minutos fez sua publicidade internacional com o uso inteligente da narração fluida (quase um plano-sequência completo, encoberto por cortes de cenário), ausência de diálogos (para evitar legendas) e, o mais importante, a ausência de identidade. Não é possível afirmar ou até mesmo sugerir onde a história do filme é passada. Sabemos que tudo o que acontece na narrativa existe no Brasil, e sabemos do triste círculo vicioso da violência através de trabalhos mais cerebrais como Tropa de Elite.
 
-Sua prima mais velha a leva para a praia. Com uma lascívia apenas encontrada em mulheres que acabaram de se divorciar de um peso morto, ela encontra seu antigo amigo de antes do casamento e os dois estão bem, psicologicamente e fisicamente. Mas entra na jogada um tiozão mais boa pinta, que conquista pela postura, e mais uma vez o amigo se vê obrigado a se manter na famigerada e temida Friendzone. Contra a vontade, é claro, pois ele já se declarou inúmeras vezes.
+Porém, o curta não deseja ser tão ambicioso em sua história original. Deseja, antes de tudo, reconhecimento pelas suas virtudes técnicas (e são muitas): fotografia empalidecida nos remete à realidade triste que nos é mostrada em estilo de videoclip, "trajetos" originais da câmera nos entretem, ao mesmo tempo que nos apresentam a realidade sob um outro ângulo: o do dinheiro.
 
-Há muitos desentendimentos e relações assimétricas em Pauline na Praia, e tudo é delicioso de acompanhar. São situações dinâmicas, que parecem possuir mais diálogo do que o necessário quando na verdade é exatamente o que precisamos para extrair o máximo de cada personalidade. Rohmer faz aqui um dos seus melhores trabalhos como diretor e roteirista, pois o resultado é incompleto, ambíguo, trágico, cômico e irônico. Tal como a vida humana. É um filme difícil de desvendar como obra cinematográfica porque não é assim que deve ser feita sua leitura. Apesar do intricado jogo do roteiro as emoções humanas no filme estão mais para poesia incompleta. E por ser incompleta, mais humana, mais profunda.
+Para concluir, arrisco-me a dizer que o curta não seria nem a metade do que é se não fosse a presença dilacerante de sua trilha, evocando cada pedaço de uma cena com um tom obscuro e implacável que transforma o filme em uma obra quase irretocável de neo-realismo contemporâneo.
 

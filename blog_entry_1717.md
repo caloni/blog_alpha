@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2023-01-02T22:55:35-03:00'
+date: '2019-05-30'
 tags:
-- wine
-title: González de Alguma Coisa
+- beer
+title: Goose Midway Session IPA
 ---
 
-Tempranillo com sabor de Tempranillo. Nada demais.
+É amargada com lúpulos aromáticos e vem para acompanhar um queijo mais parrudo ou alguma comida picante.
 

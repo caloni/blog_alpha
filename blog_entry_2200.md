@@ -1,25 +1,22 @@
 ---
 categories:
 - writting
-date: '2020-10-11'
-link: https://www.imdb.com/title/tt10418630
+date: '2016-06-30'
+link: https://www.imdb.com/title/tt2870756
 tags:
-- mostra
 - movies
-title: Mães de Verdade
+title: Magia ao Luar
 ---
 
-O filme da diretora japonesa Naomi Kawase abre a Mostra Internacional de São Paulo e revela as dores de nosso tempo, pois possui a sensibilidade de um drama, mas a câmera, apesar de caminhar criando momentos memoráveis, não sabe exatamente o porquê são memoráveis, e com isso se torna apenas um exercício de estilo sem conexão com a realidade. É um épico do drama do cotidiano sem dizer ou saber qual é o motivo de choro.
+Woody Allen é um contador de histórias mediano, pois ele consegue utilizar (ou manipular) os personagens dos seus filmes (que dirige e escreve) ao seu bel prazer. Seu objetivo não é criar uma trama muito complexa, mas apenas discutir os temas recorrentes de sua cinegrafia mais recente. Dito isto, o que pode talvez elucidar porque há muitas pessoas que não gostam dos seus filmes, por outro lado essa ambição de sempre explorar ao máximo as premissas de seu raciocínio sobre questões além-vida (e a própria vida) são fascinantes per se, e na maioria das vezes não precisaria mais trama do que aparece em seus filmes para gerar uma boa discussão. Seus diálogos, pode-se dizer, são um monólogo constante sobre filosofia. Só isso já torna não apenas seus trabalhos altamente "assistíveis", mas, em geral, muito acima da média de Hollywood (que busca justamente o oposto: quanto menos o espectador precisar pensar, melhor).
 
-A trilha sonora leve, quase inexistente, empalidece comparada com os sons do ambiente; sobretudo da natureza. Vento, folhas e pássaros narram os sentimentos que estão no ar e que são incapazes de se materializar naquelas pessoas invisíveis ao mundo. É curiosa a abordagem "filhos da natureza", pois ela torna a doação, o tema central do filme, em algo antinatural, quando é justamente um dos aspectos mais lindos da história.
+Entre os temas constantes do cineasta, a questão do sobrenatural é uma delas, pois a sua presença (ou ausência) circunda completamente a noção individual de significado em cada uma de nossas vidas. Em "Você Vai Conhecer o Homem dos Seus Sonhos" há bastante disso, mas é possível ver espalhado em outros trabalhos, como "Tudo Pode Dar Certo". Já aqui, em "Magia ao Luar", a época que estamos facilita a exploração de um tema um pouco mais... preciso: as médiuns que encantam milionários.
 
-E a história começa de um jeito, sobre o possível empurrão dado pelo filho de uma família de área nobre em uma criança do jardim da infância e tudo o que isso decorre depois em um verdadeiro WPP asiático (White People Problem), mas de repente se transfigura na jornada de uma jovem adolescente, e tanto um quanto o outro são experiências que evidenciam o gigantesco vazio nessas pessoas.
+Estamos na Europa da década de 20, e um mágico que se traveste de oriental, Stanley (Colin Firth), é convidado por seu amigo (Simon McBurney) a desmascarar a bela e completamente inconvincente Sophie (Emma Stone). Stanley, um mágico de sucesso e viajado, está acostumado a ver os truques que essas pessoas utilizam para seduzir velhos ricos em busca de um pouco de amparo em sua futura (e breve) pós-vida. A alta classe onde predominam, portanto, é um prato cheio para que charlatões tentem a sorte grande exibindo pequenos truques que tentam angariar fundos para, assim, se sustentarem sem precisar trabalhar. A única diferença disso e das religiões-caça-níqueis recentes é que, enquanto os médiuns da época focam em um pote de ouro, as religiões obtém seu lucro da esperança de milhões de miseráveis.
 
-Este filme é em boa parte do tempo a jornada da adolescente revoltadinha, porque os pais tomaram uma decisão enérgica e necessária sobre seu próprio corpo. Em direção ao vazio da alma que sente e a suposta conexão com um pimentão, oco por dentro, algo típico de novela mexicana, nas mãos de Kawase se transforma em um épico sobre o vazio das emoções humanas. Mas nem por isso deixa de ser um porre.
+É, portanto, muito divertido e irritante ao mesmo tempo acompanhar a alta aristocracia daquela época, sempre extremamente desinteressante e sem conteúdo nenhum. As pessoas de "Magia ao Luar", sejam bem ou má intencionadas, são rasas e muitas vezes arrogantes. Colin Firth exibe o seu tom aristocrático ao máximo, contrastando de maneira magnífica com outros personagens seus muito mais carismáticos. Já Emma Stone é Emma Stone em seu modo "fascinável" 100% do tempo, o que se mostra levemente acertado com a proposta do projeto.
 
-O filme dá voz a essa revolta adolescente de uma maneira inadvertidamente hilária, como muito se tem feito pelo mundo. Séries onde jovens são escutados quando não têm nada a dizer. É a tentativa infrutífera de ouvir o vento como se ele estivesse de fato dizendo algo.
+Se a primeira metade do filme é apenas aceitável para o bem da narrativa e dos temas que Allen irá em breve -- esperamos -- colocar na mesa, seu terceiro ato é intenso em seus diálogos, e cuja profundidade não consegue ser alcançada ao máximo graças a uma trilha sonora equivocada, preguiçosa, que usa jazz para comentar praticamente qualquer cena, seja esta cômica ou trágica. Não fosse isso, as questões levantadas por Stanley constituiriam um dos melhores momentos da cinegrafia do autor.
 
-É uma tentativa nobre, sejamos sinceros, mas infrutífera. Os detalhes de emoções individuais são sutis demais para capturarmos, exceto que este é um filme feito por alguém sensível e tecnicamente competente. Mas há algo aí? A menina "apronta" aos catorze, apaixonadinha e tudo mais, para de repente ser o centro das atenções no filme, por ser ignorada com razão pela família. E o "drama" inicial com o empurrão entre as crianças revela ao mesmo tempo as futilidade dos pequenos problemas que inventamos em nosso dia-a-dia. De qualquer forma ele revela muito mais, como a futilidade em busca do dinheiro da família do garoto, por exemplo, ou onde está o sentido da vida nos casais que não possuem filhos, porque não podem ou porque não devem?
-
-Mas tudo isso fica para trás. Nos esquecemos do casal principal por um motivo: ou o filme se perdeu ou quis mostrar como esse detalhe do cotidiano é pequeno frente ao da outra mãe de verdade. E a jornada da busca, vamos chamar assim por falta de mais pistas no filme, se transforma em um exercício de estilo. Um filme belíssimo, arrebatador, e incrivelmente vazio. Não nos faz sentir nada exceto o prazer estético, mas sem motivo ele se desmancha à menor distração.
+Mas não seja por isso. A questão sobre vida após a morte, a racionalidade, ou o sentimentalismo, ainda vale a pena nesse filme. Não está cercado de tanto conteúdo inteligente, ou até pessoas inteligentes, como seria de se esperar, mas nós sabemos que é Allen falando conosco. Apesar de todo o charme de Firth ilustrando seus pensamentos.
 

@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-08-03'
+date: '2018-04-06'
 tags:
 - food
-title: Fazenda Bom Destino Padre Fialho MG
+title: Fazenda Kaynã
 ---
 
-Essa foi a última safra que adquiri antes de suspender as entregas do Grão Gourmet. Bom café. Docinho na boca (mesmo sem açúcar) e que requer pouco pó para quem não gosta daquele extra-forte do mercado.
+Talvez o primeiro café que percebi que o equilíbrio precisa ser ajustado em gramas (no meu caso, entre 17 e 19 no Aeropress); este café sustentável do Espírito Santo do Pinhal mantém uma fazenda agradável (tirando os mosquitos) com uma aparência clássica; eles produzem também farinha de milho feita na pedra, e vendem para o Ataya.
 

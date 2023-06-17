@@ -1,13 +1,11 @@
 ---
 categories:
 - writting
-date: '2022-03-06T21:17:50-03:00'
+date: '2023-02-20T13:52:17-03:00'
 tags:
-- series
-title: 'Modern Love: How Do You Remember Me'
+- movies
+title: Modern Love Tokyo
 ---
 
-O episódio é sobre dois crushes andando pela calçada por meia-hora e eventualmente se cruzando. Antes disso eles vão se lembrando, cada um à sua maneira, dos momentos de seu encontro de uma noite apenas e um final insatisfatório. O valor dessas memórias está em um tenro abraço e a moral do curta é nos fazer pensar nesses breves momentos da vida onde existe uma conexão profunda com um estranho que nunca mais veremos, e está tudo bem. A vida é uma sucessão desses encontros.
-
-O episódio é muito mal conduzido, com o ritmo irregular que não consegue convencer que dois blocos de calçada são percorridos em meia-hora. Além disso, as memórias de um e de outro se confundem. Não há personalidade quando observamos as impressões de cada um dos dois em separado naquela noite. São estereótipos fofinhos de homossexuais, um anti-Almodóvar, que apresentam este esquecível vislumbre de como atravessar meio bloco de calçada em meia-hora.
+A temporada japonesa está bem boa. A direção competente e um elenco afiado. A primeira e a última histórias são chamarizes errados, mas as histórias do centro são muito mais maduras e bem desenhadas. Há encontros de personagens que flertam com estilos de encontros a dois do cinema. Uma coincidência incrível acontece quando dois matches de app passam uma tarde tenra e iluminada para se descobrirem em um déjà vu que deu muito errado no passado, mas ao mesmo tempo muito certo. As forças do destino são encantadoras neste episódio. E o que dizer do misterioso homem que engana uma jornalista investigativa por nenhuma vantagem exceto sentir felicidade mais uma vez? Junto da história das pontes, onde um ex-casal reavalia o peso do sexo na relação, cada um à sua maneira, Modern Love merece sua atenção por estar acima da média. Por ter um coração. E por ser entretenimento emocionante inteligente.
 

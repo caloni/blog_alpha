@@ -1,53 +1,20 @@
 ---
 categories:
-- coding
-date: '2019-11-29'
-title: 'Vcpkg: Bootstrap'
+- writting
+date: '2017-04-18'
+link: https://www.imdb.com/title/tt4630562
+tags:
+- movies
+title: Velozes e Furiosos 8
 ---
 
-A versatilidade do vcpkg, gerenciador de pacotes multiplataforma da Microsoft, é permitir modificar tudo no projeto, desde código-fonte, pacotes instaláveis e a própria origem do repositório. Através do controle de fonte um vcpkg pode ser alimentado por diversas fontes, e por cada pacote existir em uma pasta separada permite a coexistência de várias versões e origens. Além disso, a forma de compilar os projetos e o código-base pode ser alterado exatamente da forma com que o projeto precisa.
+A série Velozes e Furiosos divide opiniões. Este é o mundo fantasioso onde motoristas/mecânicos habilidosos vivem à margem do crime e realizam manobras não apenas arriscadas, mas impossíveis. E para muitos isso é demais para acreditar. Porém, uma vez que você morda a isca tende a enxergá-lo basicamente como um filme de ação bem arquitetado ou pelo menos bem executado, com personagens com mais estilo do que verossimilhança. E depois de sete filmes, o oitavo vai fácil.
 
-Sabendo de tudo isso, a única coisa que você precisa em um projeto isolado é um script de bootstrap que baixe um repositório vcpkg customizado para o projeto, compile, instale os pacotes necessários e integre com o Visual Studio antes de iniciar a compilação do próprio projeto. Dessa forma é possível montar o ambiente de maneira automática e sanitizada para qualquer membro da equipe ou máquina de build.
+E quem não gosta de um videoclipe com o cenário paradisíaco de uma praia cubana (com mulheres cubanas), música latina e carros antigos correndo como nunca foram desenhados para correr? O ritmo das músicas com seus rápidos cortes e as cores vibrantes e saturadas de Fast & Furious tem o poder de hipnotizar corações, mesmo que a mente discorde que tudo aquilo seja real.
 
-Vejamos como seria um bootstrap.bat:
+Essa oitava versão segue em seu início o mesmo modelo dos "clássicos", com uma corrida imperdível no começo e muita ação no decorrer da trama. A diferença fica por conta de como os personagens são utilizados. Há uma certa emoção em ver Dom Toretto (Vin Diesel) sendo chantageado de maneira tão maldosa, assim como ver uma vilã de verdade (Charlize Theron) no comando de uma organização (essa sim, criminosa) e dizendo diálogos de fato interessantes (ou de uma forma que pareçam interessantes). Além disso, a participação do monstro de adrenalina e potência de Dwayne "The Rock" Johnson, assim como a perspicácia e sarcasmo de Jason Stahan, é sempre promessa de momentos empolgantes, e nesse filme eles estão mais inacreditavelmente fortes, rodopiando pessoas com chutes certeiros e usando corpos humanos como pesos de arremesso.
 
-    @echo off
-    
-    if not exist vcpkg (
-      git clone https://vcpkg.git
-    ) else (
-      echo vcpkg detected
-    )
-    
-    if not exist vcpkg\vcpkg.exe (
-      pushd vcpkg
-      call bootstrap-vcpkg.bat
-      popd
-    ) else (
-      echo vcpkg detected
-    )
-    
-    if exist vcpkg\vcpkg.exe (
-      pushd vcpkg
-      vcpkg update
-      vcpkg install pkg1
-      vcpkg install pkg2
-      vcpkg install pkgN
-      vcpkg integrate install
-      popd
-    )
+E é difícil não achar exuberante e profética uma sequência envolvendo carros autômatos, uma cena que certamente irá fazer os não-adeptos da "farofa" de Michael Bay torcendo o nariz para uma multidão de carros que fazem a festa dos que entendem a brincadeira (eu fiquei particularmente profético sobre como serão os filmes em um mundo sem motoristas humanos). Porém, na soma das gafes lógicas estão um emissor de interferência eletromagnética que só faz efeito por alguns segundos, uma fortaleza russa no meio do gelo que se abre quando falta energia, e, por falar em energia, o meu favorito: uma prisão de segurança máxima que em um curto-circuito abre todas as celas. O filme mantém uma seriedade absurda com tanta farofa e ainda tem tempo para cenas fortes, que convenientemente descarta um personagem pelo bem do drama.
 
-Com esse script na pasta raiz do seu projeto ele irá criar uma subpasta chamada vcpkg e após realizar as operações descritas acima integrar ao Visual Studio. Dessa forma quando for compilar o projeto os includes e libs já estarão disponíveis para que ele funcione, mesmo diretamente de uma máquina limpa.
-
-Esse script pode ser integrado à lib principal do projeto ou o projeto da solution que primeiro deve compilar (porque todos dependem dele). Para isso existe o Pre-Build Event nas configurações de um projeto do Visual Studio. Os comandos que estiverem lá serão executados sempre antes da compilação.
-
-    <PreBuildEvent>
-      <Command>
-        pushd $(SolutionDir)
-        call bootstrap.bat
-        popd
-      </Command>
-    </PreBuildEvent>
-
-O único passo não-descrito neste artigo é baixar o projeto e iniciar o build, tarefas triviais de integração.
+Portanto, se você já gostava da série de carros turbinados, V8 de forma alguma será um motivo para não gostar. Ele pega o mesmo conceito e eleva ao cubo, encontrando Triple X no meio do caminho.
 

@@ -1,85 +1,27 @@
 ---
 
-No princípio... não, não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados senhores dos Laboratórios Bell, K. Thompson e D. Ritchie, criaram uma linguagem chamada B. E B era bom.
+> Eu seu, eu sei. A maioria dos meus leitores odiou o tema [História do Windows] na era paleozóica. Porém, como eu disse na parte 1.0, estou apenas satisfazendo a outra parte de leitores que procurou no Google por esse tema e acabou caindo no meu antigo blog. Mas vejamos o lado bom: a partir da próxima versão iremos destrinchar a API do sistema, entendendo o porquê das coisas serem como elas são. No momento os deixo apenas com história, pois é desconhecido para mim como funcionavam os primeiros rabiscos do MS-DOS Shell, mais conhecido como Windows/386. Bom divertimento!
 
-{{< image src="kthompson_dritchie.jpg" caption="Ken Thompson (esquerda) e Dennis Ritchie (direita). Fonte: wikipedia.org" >}}
+Assim, em 9 de dezembro de 1987, é lançado o aperfeiçoadíssimo Windows 2.0, que fez do PC um ambiente muito mais parecido com um computador Macintosh. O novo sistema possui ícones para representar programas e arquivos, fornece suporte para memória expandida e janelas que podem se sobrepor(!). Porém, ainda utilizava o modelo de memória do 8088 e portanto era limitado a 1 Megabyte, ainda que certas pessoas houvessem tido sucesso rodando o sistema em cima de outro multitarefa como DesqView.
 
-O bom de B era sua rica expressividade e sua simples gramática. Tão simples que o [manual da linguagem] consistia de apenas 30 páginas. Isso é menos do que as 32 palavras reservadas de C. As instruções eram definidas em termos de ifs e gotos e as variáveis eram definidas em termos de um padrão de bits de tamanho fixo, geralmente a word, ou palavra, da plataforma, que utilizada em expressões definiam seu tipo. Esse padrão de bits era chamado rvalue. Imagine a linguagem C de hoje em dia com apenas um tipo: int.
+A Apple, vendo a extrema semelhança entre seu sistema e o Windows, abriu um processo em 1988 alegando ter a Microsoft quebrado o acordo feito em 1985. A Microsoft se defendeu tendo o argumento que a licença lhe dava o direito do uso dessas características. Uma guerra judicial se arrastou por quatro anos. A Microsoft ganhou. Ao final, a Apple declarou que a Microsoft havia infligido 170 de seus copyrights. A corte judicial disse que o acordo de licença dava direito de uso da Microsoft de todos menos nove. Então a Microsoft alegou que os copyrights restantes não poderiam ser reinvidicados pela lei do copyright, já que a Apple pegou suas idéias da interface gráfica desenvolvida pela Xerox em seus computadores Star. Assim, um impresso de 01/06/93, disponível no Microsoft Timeline, resumiu a solução final:
 
-Como esse padrão de bits nunca muda de tamanho, todas as rotinas da biblioteca recebiam e retornavam sempre valores do mesmo tamanho na memória. Isso na linguagem C quer dizer que o char da época ocupava tanto quanto o int. Existia inclusive uma função que retornava o caractere de uma string na posição especificada:
+> "Microsoft announces that Judge Vaughn R. Walker of the U.S. District Court of Northern California ruled today in Microsoft's favor in the Apple vs. Microsoft and Hewlett-Packard copyright suit. The judge granted Microsoft's and Hewlett-Packard's motions to dismiss the last remaining copyright infringement claims against Microsoft Windows 2.03 and 3.0, as well as, the HP NewWave."
 
-    c = char(string, i); /* the i-th character of the string is returned */
+Uma outra frase resume o caminho trilhado pela empresa a partir de então:
 
-Sim! Char era uma função, um conversor de "tipos". No entanto a própria variável que armazenava um char tinha o tamanho de qualquer objeto da linguagem. Esse é o motivo pelo qual, tradicionalmente, as seguintes funções recebem e retornam ints em C e C++:
+> "Microsoft become the top software vendor in 1988 and never looked back..." - Microsoft
 
-    int getchar( void ); // read a character from stdin
-    int putchar( int c ); // writes a character to stdout
-    void *memset( void *dest, int c, size_t count ); // sets buffers to a specified character
+Com o advento dos novos lançamentos da Intel, os processadores 80286 e 80386, o Windows acabou sendo atualizado duas vezes para aproveitar as novas características dos dois sistemas. E assim nasceram as versões 2.1.x do Windows, respectivamente conhecidas como Windows/286 e Windows/386.
 
-Segue o exemplo de uma função na linguagem B, hoje muito famosa:
+{{< image src="windows2.jpg" caption="Windows 2.0" >}}
 
-    /* The following function is a general formatting, printing, and
-       conversion subroutine.  The first argument is a format string.
-       Character sequences of the form `%x' are interpreted and cause
-       conversion of type 'x' of the next argument, other character
-       sequences are printed verbatim.   Thus
-    
-    	printf("delta is %d*n", delta);
-    
-    	will convert the variable delta to decimal (%d) and print the
-    	string with the converted form of delta in place of %d.   The
-    	conversions %d-decimal, %o-octal, *s-string and %c-character
-    	are allowed.
-    
-    	This program calls upon the function `printn'. (see section
-    	9.1) */
-    
-    printf(fmt, x1,x2,x3,x4,x5,x6,x7,x8,x9) {
-    	extrn printn, char, putchar;
-    	auto adx, x, c, i, j;
-    
-    	i= 0;	/* fmt index */
-    	adx = &x1;	/* argument pointer */
-    loop :
-    	while((c=char(fmt,i++) ) != `%') {
-    		if(c == `*e')
-    			return;
-    		putchar(c);
-    	}
-    	x = *adx++;
-    	switch c = char(fmt,i++) {
-    
-    	case `d': /* decimal */
-    	case `o': /* octal */
-    		if(x < O) {
-    			x = -x ;
-    			putchar('-');
-    		}
-    		printn(x, c=='o'?8:1O);
-    		goto loop;
-    
-    	case 'c' : /* char */
-    		putchar(x);
-    		goto loop;
-    
-    	case 's': /* string */
-    		while(c=char(x, j++)) != '*e')
-    			putchar(c);
-    		goto loop;
-    	}
-    	putchar('%') ;
-    	i--;
-    	adx--;
-    	goto loop;
-    } 
+A próxima versão do Windows é que vai alavancar as vendas da Microsoft de uma vez por todas. Veremos que boa parte da API que usamos hoje em dia já existia no Windows 3.0, e boa parte das peculiaridades que nos perseguem até hoje.
 
-Como podemos ver, vários elementos (se não todos) da linguagem C já estão presentes na B.
-
-[manual da linguagem]: http://cm.bell-labs.co/who/dmr/kbman.html
+[História do Windows]: {{< relref "historia-do-windows" >}}
 
 ---
-categories: []
-date: '2020-09-16'
-tags:
-- lists
-title: História do Windows
+categories:
+- coding
+date: '2007-08-03'
+title: História do Windows - parte 3.0

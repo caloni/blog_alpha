@@ -1,21 +1,22 @@
 ---
 categories:
 - writting
-date: '2011-10-13'
-link: https://www.imdb.com/title/tt0089218
+date: '2018-07-18'
+link: https://www.imdb.com/title/tt3606756
 tags:
 - movies
-title: Os Goonies
+title: Os Incríveis 2
 ---
 
-"'Um grupo de meninos embarcam em uma aventura após encontrar o mapa de um suposto tesouro escondido.' É com esse argumento simples que se constrói um dos filmes mais empolgantes e divertidos dos anos 80. Essa é a união do roteirista Chris Columbus, de O Enigma da Pirâmide, do diretor Richard Donner, de [Superman], e do idealizador Steven Spielberg, de... precisa dizer algo? Essa união produziu uma espécie de esfera criativa nunca antes vista, e que até produz ecos na filmografia contemporânea, em que o exemplo mais recente é o filme-homenagem [Super 8], de J.J. Abrams."
+Se passaram 14 anos desde que Os Incríveis estrearam, também dirigido e escrito por Brad Bird. Na época a Pixar ainda estava engatinhando e emplacando seus maiores sucessos, sempre baseados em uma direção de arte maravilhosa, uma qualidade criativa impecável e elevando o nível da sétima arte pelo bem da arte, e ainda conseguindo ganhar rios de dinheiro em cima disso. Hoje os rios de dinheiro continuam, a direção de arte continua estupenda e a qualidade criativa está entregue a um marasmo que só consegue pedir desculpas para os movimentos sociais, uma atitude que ironicamente é patética e nada heróica.
 
-Esse foi o primeiro parágrafo de meu texto de 2011. A seguir segue-se um monte de elogios para o filme, como detalhes da fotografia, atuações, edição e trilha sonora, com destaque para a música-tema de Cindy Lauper. A música-tema de Lauper continua sendo ótima, mas minha visão oito anos depois não. Os Goonies é um filme de Sessão da Tarde, mas isso não é demérito. Ele é divertido, previsível, engraçado. Tudo em alguns momentos. Este é um filme feito de momentos. E não só de momentos vive um filme.
+Graças à nostalgia do primeiro Os Incríveis, ou graças ao design caprichadíssimo desta continuação, as primeiras duas cenas de ação protagonizadas pela Mulher-Elástica neste novo filme são de cair o queixo. Filmadas de maneira ágil (uma das vantagens da animação) e com cortes precisos na ação, exatamente o que o primeiro filme fazia de melhor. Porém, entregando uma nova protagonista na marra e de forma preguiçosa colocando diversos heróis lutando juntos no pior sentido que a palavra diversidade tem tomado conta dos cinemas (tem até uma emo agora) as cenas de ação seguinte -- e em especial as do final do filme, que deveriam impactar mais -- são nitidamente inferiores, previsíveis e apenas preenchem um check list do que é esperado de um filme de ação animado com um leque de espectadores de todas as idades.
 
-Um grande filme deveria unir todos esses momentos em algo mais coerente ou menos clichê, mas ou o clichê alcançou os Goonies e eles não conseguiram se salvar em um filme que não conseguiu envelhecer se tornando algo a mais, ou minha persona de criança não conseguiu capturar a magia que muitos espectadores ainda devem ver nesse trabalho de Donner.
+O mais triste nisso é que a primeira metade de Os Incríveis 2 nos apresenta uma direção de arte inspiradíssima, que merecia uma história muitas vezes melhor. Conseguindo se equiparar e até ampliar o conceito do super-heroísmo como algo ultrapassado, o mundo onde vive a família Pera é antiquado porque é charmoso, e é high-tech porque é isso que nos dá a liberdade de ação. O charmoso dos anos 60, estilizados desde as figuras geométricas exageradas e os tons pastéis com iluminação amarelada, fora a trilha sonora que homenageia os melhores momentos James Bondianos do Cinema, não cabe aqui em uma história que tenta ser moderninha apenas ganhando pontos de opressão na cartela do bingo da justiça social. E mesmo do ponto de vista estritamente do roteiro, não há tempo suficiente para revelar logo a reviravolta que todos já sabem que vai acontecer meia-hora atrás, mas há tempo para tiradas com a palavra "empoderamento" que não chega a ser ridículo (só de mau gosto, mesmo).
 
-Talvez em uma próxima revisão mais velho...
+Mas não me leve a mal a respeito da discussão de papéis de gênero que o filme copiosamente utiliza. A ideia de inverter os papéis é algo que favorece a criação de uma história diferente da original (apesar dela mesma não ser original em nada), e isso está na lista dos elementos que funcionam no começo. Ao mesmo tempo conseguimos ver (mesmo sem "ver") como a Sra. Incrível era tão boa em cuidar da casa e dos filhos -- isso enquanto acumulava também a tarefa de heroína -- enquanto o Sr. Incrível apenas exibia seus músculos e usava todos os seus poderes: força descomunal. Por outro lado, é tocante, apesar de rápido demais, acompanharmos como ele se empenha, e tenta melhorar como pai, mesmo que conte com um bebê cheio de poderes, um garoto hiperativo e uma pré-adolescente com problemas de... pré-adolescente (e com suas coisinhas de mulher, como um romance bobo com um garoto genérico da escola).
 
-[Super 8]: {{< relref "super-8" >}}
-[Superman]: {{< relref "superman-o-filme" >}}
+Já toda a história envolvendo o legado do casal de filhos de um ricaço que fazia caridade para o super-heroísmo soa logo no começo como algo forçado demais, e as dublagens brasileiras não ajudam em nada. Empregando celebridades do mundo da TV (alguém ainda assiste TV?), como Raul Gil, a caracterização sofre e muito, pois os textos são ditos de maneira vagarosa e nada inspirada, gerando um contraste óbvio com os dubladores profissionais que fazem as vozes dos personagens principais.
+
+A Pixar, diferente da Marvel, já não tem a menor condição de continuar seu projeto de diversidade sem retomar as rédeas de um roteiro que seja instigante sem precisar se amarrar a um pacote politicamente correto que atenda todas as demandas das pessoas fora e dentro dos estúdios. Quando a arte é deixada em segundo plano para uma agenda política, nem a pipoca consegue segurar a diversão. Talvez ela esteja com pouco sal por exigência do governo.
 

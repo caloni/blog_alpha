@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2016-12-04'
-link: https://www.imdb.com/title/tt2204371
+date: '2015-04-27'
+link: https://www.imdb.com/title/tt2452200
 tags:
 - movies
-title: Somm
+title: Son of a Gun
 ---
 
-Somm é um documentário no sentido mais didático da palavra, mas que consegue através de sua narrativa quase sempre fluida entregar um pouco de tensão nos preparativos de um trio de degustadores de vinhos que se preparam há anos para tirar o certificado mais cobiçado e exclusivo do planeta. E, de quebra, você irá aprender uma coisa ou outra interessante sobre o mundo do vinho.
+Esse é um filme meio abandonado pelas distribuidoras nacionais e ainda não estreou por aqui, mesmo tendo um ator conhecido no elenco (o escocês Ewan McGregor). E por falar em estreia, depois de dirigir seis curta-metragens, o diretor Julius Avery comanda este longa que era para ser um super-filme de ação e drama sobre um garoto que acaba preso junto de um famoso criminoso que o ajuda a sair ileso de sua estadia na cadeia por seis meses, pedindo em troca que ele mexa os pauzinhos do lado de fora para realizar uma fuga nada crível, ainda mais se considerarmos que ele estava em um presídio de segurança máxima.
 
-É necessário tomar cuidado com documentários que mexem com commodities assim como documentários que falam de ecologia e mundo sustentável. Ambos podem estar infectados com ideologias ou marketing puro. Felizmente, no caso de Somm o formato é mais biográfico, e acompanhamos a rotina exaustiva de três rapazes que ambicionam o título máximo entre os sommeliers, as pessoas que conhecem muito sobre vinhos e costumam trabalhar como especialistas em restaurantes chiques para auxiliar seus clientes.
+Usando o xadrez como um gancho para que o impiedoso Brendan (McGregor) meio que adote o jovem JR (Brenton Thwaites) e o escale para seu próximo golpe, mesmo sabendo (ele e nós) que o garoto parece completamente novato no crime organizado, o filme não é nada modesto em seu roteiro, passando da fuga já citada para o roubo de nada menos do que barras de ouro no valor de 4,5 milhões de dólares. Ainda ingênuo na criação de seus personagens, mesmo que a relação de confiança da gangue seja um fiapo, Brendan confia todas as barras nas mãos de seu comparsa, ainda que momentos depois tenha feito um discurso como não se pode confiar nas mulheres.
 
-O diretor e roteirista Jason Wise (trocadilhos com seu próprio nome e "wine"? (vinho)) entrega um filme que une depoimentos com o que eles representam visualmente, o que por si só já consegue ser melhor que a maioria dos documentários. Quando alguém comenta sobre determinado aspecto do vinho, somos logo levados a um lugar distante, em uma viníciola, ou adega ou restaurante, onde vemos de fato o que está sendo falado. Até o momento do teste em que eles precisam passar, embora não possa ser filmado, é narrado e pós-apresentado com uma tensão agradável de acompanhar.
+Ah, sim, mulheres. O jovem JR, como de praxe, é o galã que se apaixona por uma prostituta russa e é isso que acende a desconfiança de Brendan (não à toa). Ainda assim, o filme investe em mais situações amadorísticas, mais cenas de ação difíceis de acreditar, e diálogos mais rasos ainda. Ainda assim, fica na média, não estragando a experiência o suficiente para se tornar ruim, mesmo com a "reviravolta" capenga que insiste em usar o batidíssimo flashback para explicar como tudo foi feito. Sério, mesmo?
 
-Somm é um filme fácil de assistir, com diversas informações do mundo do vinho, e que potencialmente não tem muito de marketing escondido. Parece um caminho seguro para aprender mais sobre a bebida dos deuses.
+De qualquer forma, McGregor está bem, o garoto é monossilábico, mas empático, e a garota é só mais uma garota. Há tiros, uma perseguição convincente, efeitos sonoros das armas bem arquitetados (ainda que estejam em desarmonia com os diálogos, que parecem muito baixo perto dos sons do filme). É um filme de ação que quase faz você dormir. Ou seja, não espere adrenalina escorrendo da tela.
 

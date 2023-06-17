@@ -1,11 +1,14 @@
 ---
 categories:
 - writting
-date: '2022-03-13T23:33:47-03:00'
+date: '2010-09-09'
+link: https://www.imdb.com/title/tt0378194
 tags:
 - movies
-title: Kiki
+title: 'Kill Bill: Volume 2'
 ---
 
-Mais um Almodovar que gosta de Cinema, que é apaixonado por tramas de suspense e crime para enfiar comédia e sexo naturalistas. Há uma mensagem pseudo-política talvez, mas a sensação hoje é que a longuíssima cena de estupro não é engraçada e não faz pensar. Só dá vergonha.
+Aqui temos a continuação do que é apenas um filme. Kill Bill Volume 2 é a segunda metade da mutilação feita nos cinemas do último filme do Tarantino. Destaque para o treinamento de Pai Mei, além de, assim como o primeiro, cenas de luta memoráveis, além de um exercício de superação no cemitério. Como bônus, um diálogo pop mais que inspirado sobre Superman e os poderes dos assassinos. Imperdível se você viu o [Volume 1].
+
+[Volume 1]: {{< relref "kill-bill-volume-1" >}}
 

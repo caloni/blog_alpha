@@ -1,87 +1,35 @@
 ---
 
-Houve um bom motivo para que, semana passada, eu estivesse caçando inúmeras versões de um projeto desenvolvido fora da empresa: falta de controle de código. Esse tipo de lapso pode consumir de horas a dias de tempo perdido, dependendo de em quantas cópias de máquinas virtuais ficou espalhado o código.
+Aproveitando um dos últimos artigos que fala sobre [conceitos básicos de programação], lembro que, tão importante quanto programar é possuir habilidades básicas de depuração, uma arte por muitos programadores ignorada.
 
-Já [escrevi a respeito] da importância de controlar e gerenciar o código-fonte para que a falta de um histórico exato das alterações não seja motivo de recorreções de problemas, binários no cliente sem contraparte para ajustes, além de uma série de dores de cabeça que costumam começar a ocorrer assim que nos damos conta que nosso software está uma bagunça que dói.
+É interessante notar como muitos ignoram a utilidade e conveniência das tradicionais e poderosas ferramentas de depuração passo-a-passo. O motivo pode ser puro desdém ou ignorância (no sentido de desconhecimento). Se for pelo segundo, aí vão algumas dicas para dar uma passada geral no seu programa e, quem sabe, encontrar um ou outro bug pelo caminho.
 
-Na época, discursei brevemente sobre alguns exemplos de gerenciadores de fonte que utilizam modelo centralizado, e nos exemplos práticos usamos o famigerado Source Safe, velho amigo de quem já programa ou programou Windows por alguns anos. Além dele, temos os conhecidíssimos CVS e Subversion, ambos largamente utilizados no mundo todo.
+{{< image src="debug.png" caption="" >}}
 
-No entanto, uma nova forma de controlar fontes está nascendo já há algum tempo, com relativo sucesso e crescentes esperanças: o modelo distribuído. Nesse tipo de gerenciamento, a liberdade aumenta exponencialmente, permitindo coisas que no modelo antigo seriam muito difíceis de serem implementadas. Não vou me delongar explicando a teoria por trás da idéia, sabendo que, além de existir um ótimo texto explicando as vantagens em cima do modelo centralizado [disponível na web], o próprio sítio das implementações atuais explica a idéia de maneira muito convincente. E são elas:
+Os comandos mais comuns de debug são: Start/Continue, Break, Stop, Restart, Show Next Statement, Step Into, Step Over e Step Out.
 
- - [Mercurial] (ou hg). Sem dúvida o mais fácil de usar. Bem documentado e com comandos intuitivos para o usuário, vem ganhando mais adeptos a cada dia. Seu desempenho é comparável ao do Git, e seu sistema de arquivos é bem eficiente.
+Run ou Debug é o comando primário. Simplesmente inicia uma nova execução de seu programa. Geralmente você deve utilizar esse comando quando já tiver definido seus breakpoints (mais sobre isso abaixo). Do contrário o programa vai iniciar, executar e sair, sem sequer você notar.
 
- - [Bazaar] (ou bzr). O irmão mais próximo do Mercurial, com comandos bem parecidos. Um costuma lembrar os comandos do outro, com pequenas diferenças. Seu desempenho não chega a ser comparável aos dois acima, mas sua robustez compensa, pois é o único, de acordo com testes e estudos, que suporta o controle total de operações de renomeação de arquivos e pastas. Recentemente seu projeto tem evoluído muito.
+O comando Step Over avança uma linha de código-fonte, parando na seguinte, de uma maneira iterativa. É a chamada execução passo-a-passo. Com ele você consegue, com a ajuda das janelas de watch e variáveis locais, analisar passo-a-passo a execução do fluxo de seu programa variando de acordo com as condições do sistema.
 
- - [Git] (ou git). Conhecido como o controlador de fontes do kernel do Linux. Escrita a versão inicial por Linux Torvalds em C e módulos de Perl pendurados, hoje em dia tem como principal desvantagem a falta de suporte nos ambientes Windows, impactando negativamente em projetos portáveis. Sua principal vantagem, no entanto, é a rapidez: é o controle de fonte mais rápido do oeste.
+Stop Into é um parente bem próximo do Step Over, com a importante diferença de entrar dentro das funções que são chamadas em cada linha de execução. Geralmente é usado quando você pretende revisar todo o fluxo de execução porque escreveu código novo ou porque ainda não chegou na situação que pretende simular ou ainda porque usou o Step Over antes e descobriu que existe algum problema na função X que você passou direto.
 
-Nos sistemas centralizados o repositório de fontes fica em um lugar definido, de onde as pessoas pegam a última versão e sobem modificações, ou não, caso não tenham direito para isso. Nos sistemas distribuídos, o histórico e ramificações ficam todos locais. Como assim locais? Bom, locais do jeito que eu estou falando quer dizer: na própria pasta onde se está desenvolvendo.
+Já o Step Out é o complemento dos dois Steps acima. Ele vai sair executar todo o resto da função onde você está e parar exatamente uma linha após a chamada dessa função. Em suma: você já viu o que queria ver dentro da função atual e quer continuar a execução um ou mais níveis acima na pilha de chamadas.
 
-É lógico que pode existir uma versão de ramificações no servidor, que no caso do controle distribuído é mais um membro da rede peer-to-peer de ramificações, já que cada colaborador possui seu próprio repositório local, capaz de trocar revisões entre colaboradores e subir revisões os servidores que interessarem.
+Você não precisa passar por todo o seu código e todos os seus loops/laços de 500 iterações até chegar ao ponto que quer analisar. O breakpoint é um comando nativo do sistema que é dos mais úteis para o programador, capaz de parar o fluxo de execução em um ponto específico do código. O depurador torna disponível para você esse comando que pode ser engatilhado em qualquer linha, geralmente em uma quantidade razoável. Para controlar todos os breakpoints definidos existe uma janela com essa lista que indica, entre outras coisas, se estão habilitados ou não, se possuem alguma condição de quebra, quantas vezes devem parar, etc. Costuma existir um ótimo controle sobre breakpoints nos depuradores, pois esse é um comando muito usado em programação (e dos mais antigos).
 
-Além disso, o conceito de ramificações (branches) e consolidação de versões (merging) é muito mais presente do que em sistemas como o Subversion, onde o commit (ato de enviar as revisões de um código para o repositório central) ocorre de forma controlada. Da maneira distribuída, é comum criar um branch para cada problema ou feature sendo desenvolvida, e ir juntando tudo isso imediatamente após terminado, gerando um histórico bem mais detalhado e livre de gargalos com modificações temporárias.
+Praticamente qualquer ferramenta de debug possui um mecanismo para que você consiga ver o que está dentro das variáveis de seu programa. Basicamente temos uma janela ou comando de watch, ou inspection, onde podemos inserir as variáveis que queremos espiar. Em um nível mais sofisticado, temos as janelas de locals e autos (o nome pode variar), onde podemos ver, respectivamente, as variáveis dentro da função e as variáveis mais próximas do ponto onde o código está parado (as que foram usadas na última linha e as que serão usadas na próxima, por exemplo). Claro que cada ambiente te fornece o que melhor ajudar durante a depuração, assim como o Delphi e o C++ Builder possuem o magnífico Object Inspector, uma janela com todas as propriedades de um objeto qualquer do sistema (uma janela, um botão, uma classe, etc).
 
-Porém, a maior vantagem em termos de desenvolvimento acaba sendo a liberdade dos usuários, que podem trocar modificações de código entre si, sem existir a figura centralizadora do branch oficial. Ela pode existir, mas não é mais uma condição sine qua non para modificações no fonte.
+Seguindo as janelas e comandos úteis de debug, a pilha de chamadas ou stack trace mostra a pilha da thread atual sendo depurada. Com ela você consegue ver o nome da função que chamou a função que chamou a função que chamou... até a função inicial (por exemplo, o nosso conhecido main, a primeira função de um programa "normal" em C/C++).
 
-Comecei a usar em meus projetos pessoais o Mercurial por ter ouvido falar dele primeiro. Achei a idéia fantástica, pois já estava à procura de um substituto para meu velho Source Safe, meio baleado das tantas inovações de controle de fonte que surgiram nos projetos de fonte aberto. Outro motivo para desistir do Source Safe foi o fato de ser uma solução comercial que custa dinheiro e não chega a ser absurdamente mais fácil de usar a ponto de valer a pena usá-lo.
+No caso de seu programa ser multithreading, ou seja, possuir várias linhas de execução, fluxos distintos de código rodando, existirá uma janela ou comando onde você pode ver qual a thread atual (a que está sendo depurada e destrinchada nas outras janelas) e quais as outras threads. Muitos ambientes permitem que com essa janela seja feito um switch de threads, que é a troca da thread atual, o que irá alterar a janela de pilha de chamadas, de variáveis locais, e muito provavelmente a janela do código-fonte atualmente em execução.
 
-O princípio de uso de uma ferramenta distribuída é muito simples: se você tiver um diretório de projeto já criado, basta, dentro dessa pasta, iniciar o repositório de fontes.
+Depurar esteve sempre ligado à programação desde os primórdios da humanidade. Por isso hoje em dia os depuradores estão muito evoluídos, geralmente integrados em um ambiente de desenvolvimento (exs: Visual Studio, KDE Develop) e possuem comandos e mais comandos e mais comandos. Existem comandos, por exemplo, para pular fluxo sem executar, definir um breakpoint temporário, visualizar registradores da máquina, visualizar páginas de memória, controle de exceções, misturar assembly com código-fonte, etc. Enfim, cada comando deve ser usado conforme a necessidade e conveniência. Não adianta querer usar tudo e entender tudo de uma vez. Os comandos acima já são um ótimo começo para uma depuração poderosa o suficiente para pegar alguns bugs.
 
-    > hg init
-
-Após isso, será criada uma pasta com o nome .hg. Dentro dela é armazenado todo o histórico dos fontes. Podemos inicialmente adicionar os arquivos do projeto existente e fazer o primeiro commit, que irá começar a controlar os arquivos adicionados dentro dessa pasta e subpastas:
-
-    > hg add
-    adding Header.h
-    adding Main.cpp
-    adding Project.cpp
-    adding Project.vcproj
-
-    > hg commit -m "Primeira versao"
-
-Se o programa não disse nada ao efetuar o commit, é porque está tudo certo. Agora podemos controlar as mudanças de nosso código usando o comando status. Para vermos o histórico usamos o comando log.
-
-    > hg log
-    changeset:   0:e9246bcf2107
-    tag:         tip
-    user:        Wanderley Caloni <wanderley@caloni.com.br>
-    date:        Tue Apr 15 09:05:27 2008 -0300
-    summary:     Primeira versao
-
-    > echo bla bla bla >> Main.cpp
-    
-    > hg status
-    M Main.cpp
-    
-    > hg commit -m "Alterado algumas coisas"
-    
-    > hg log
-    changeset:   1:829b081df653
-    tag:         tip
-    user:        Wanderley Caloni <wanderley@caloni.com.br>
-    date:        Tue Apr 15 09:06:29 2008 -0300
-    summary:     Alterado algumas coisas
-    
-    changeset:   0:e9246bcf2107
-    user:        Wanderley Caloni <wanderley@caloni.com.br>
-    date:        Tue Apr 15 09:05:27 2008 -0300
-    summary:     Primeira versao
-
-Como vimos, ao alterar um arquivo controlado este é mostrado pelo comando status como alterado (o M na frente do Main.cpp). Também existem controles para cópia e exclusão de arquivos.
-
-Esse é o básico que se precisa saber para usar o Mercurial. Simples, não? O resto também é simples: fazer branches e juntá-los é uma questão de costume, e está entre as boas práticas de uso. Eu recomendo fortemente a leitura do tutorial "Entendendo o Mercurial", disponível no sítio do projeto, até para entender o que existe por trás da idéia do controle descentralizado de fontes.
-
-Como usuário de Windows, posso dizer que a versão funciona muito bem, e é possível fazer coisas como, por exemplo, usar o WinMerge para juntar branches ou comparar versões automaticamente, o que por si só já mata toda a necessidade que eu tinha do Source Safe.
-
-Testei o Mercurial por cerca de três meses desde que o conheci. Esse fim-de-semana conheci mais a fundo o Bazaar, e pretendo começar a testá-lo também para ter uma visão dos dois mundos e optar por um deles. Ambos são projetos relativamente novos que prometem muito. De uma forma ou de outra, os programadores solitários agora possuem um sistema de controle de fontes sem frescura e que funciona para todos.
-
-[escrevi a respeito]: {{< relref "guia-basico-de-controle-de-codigo-source-safe" >}}
-[disponível na web]: http://ianclatworthy.files.wordpress.com/2007/10/dvcs-why-and-how3.pdf
-[Git]: http://git.or.cz/
-[Mercurial]: http://www.selenic.com/mercurial/wiki/
-[Bazaar]: http://bazaar-vcs.org/
+[conceitos básicos de programação]: {{< relref "guia-basico-para-programadores-de-primeiro-int-main" >}}
 
 ---
 categories:
 - coding
-date: '2007-09-12'
-title: Guia básico de controle de código (Source Safe)
+date: '2007-10-16'
+title: Guia básico para programadores de primeiro int main

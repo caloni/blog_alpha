@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2011-03-21'
-link: https://www.imdb.com/title/tt1411238
+date: '2014-03-01'
+link: https://www.imdb.com/title/tt2724064
 tags:
 - movies
-title: Sexo Sem Compromisso
+title: Sharknado
 ---
 
-Seguindo a tendência libertária de nossas relações sociais, que "evoluíram" sensivelmente nos últimos dez anos, "Sexo sem Compromisso" adota como pano de fundo a moderna relação de "amigos com benefícios", ou seja, o que o título do filme de fato sugere.
+Quando um filme brinca de ser do gênero trash ele faz um esforço mínimo para dar umas piscadelas para o espectador no melhor estilo "ei, eu estou brincando". Essa é uma característica óbvia no interessante Matadores de Vampiras Lésbicas (2009) e no ótimo Zumbilândia (2009). É preciso ter em mente que, sem essa piscadela básica, um trabalho que tenta subverter seu gênero pode acabar sendo o exemplo perfeito de tudo o que não se deve fazer em um filme. É exatamente por isso que Sharknado acaba sendo um marco nos filmes muito, muito ruins.
 
-O que torna a situação divertida e inusitada é que, nesse caso, é a mulher do casal que representa o lado moderno da relação, interpretado por Natalie Portman. O lado sentimental da relação fica por conta de Ashton Kutcher, que faz o filho de uma celebridade que, clichês mode on, não deseja aproveitar a fama do pai para conseguir alcançar seus objetivos.
+Misturando o velho clichê "catástrofe em Los Angeles", efeitos visuais de péssimo gosto e diálogos "memoráveis" pela sua filosofia com a profundidade de uma piscina infantil (com tubarões), o trabalho do diretor Anthony C. Ferrante e do roteirista Thunder Levin nunca se transforma em algo péssimo a ponto de ser odiável simplesmente porque não tem sequer uma estrutura mínima para ser chamado de filme. Seus personagens são clichês dos clichês escrito em um papel de pão: o cliente cativo de um bar ("nunca mais reclame do meu assento"), o dono do bar, a garçonete que ama o dono do bar, a ex-mulher do dono do bar (uma vadia), os filhos do dono do bar que possuem problemas de relacionamento com o pai.
 
-O que temos, então, é um apanhado de situações engraçadas que se sucedem conforme nossos personagens evoluem para algo parecido com uma curva de aprendizado, representado admiravelmente por Portman, mas nem tanto por Kutcher.
-
-Divertido por dentro e por fora. Aprecie com moderação.
+Porém, isso não seria um problema sério se a ameaça fizesse-nos relevar a falta de relevância daquelas pessoas, como no excelente Fim dos Tempos. O que não acontece, pois os tubarões que surgem pulando de dentro de qualquer lugar onde tenha água para molhar os joelhos sequer são vistos por mais de um segundo (problemas no orçamento?) e, pasmem, possuem menos personalidade que as pessoas-clichê que acabei de descrever. Assim fica realmente difícil.
 

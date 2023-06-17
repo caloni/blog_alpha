@@ -1,20 +1,18 @@
 ---
 categories:
 - writting
-date: '2013-10-16'
-link: https://www.imdb.com/title/tt2219514
+date: '2014-05-02'
+link: https://www.imdb.com/title/tt0092605
 tags:
 - movies
-title: Preenchendo o Vazio
+title: Presente de Grego
 ---
 
-Uma fuga de nossa cultura vigente às vezes faz bem. Curioso constatar que, mesmo imersos na rotina, crenças e cânticos da religião judia ortodoxa, os mesmos dramas humanos se configuram.
+Curioso como Rachel McAdams em Uma Manhã Gloriosa é a mulher "trabalhadeira" moderna e esse não é o grande tema deste filme de 2010. Quer dizer, não tanto um tema central e impactante quanto Diane Keaton 27 anos atrás em Presente de Grego. Neste filme de Charles Shyer (O Pai da Noiva) a executiva de sucesso precisa escolher entre dar atenção a suas contas milionárias da empresa onde trabalha ou a um bebê que "herdou" de primos distantes. É a dicotomia "mulher no trabalho" surgindo naquela época com todos os clichês da criança fofinha em um ambiente sério de senhores engravatados.
 
-A história gira em torno de Shira (a linda Hadas Yaron), filha caçula de uma família que possui já um casamento com a grávida Esther (Renana Raz) e uma das filhas pronta para ficar para tia Frieda (Hila Feldman). Shira já está sendo "encomendada" para o segundo casamento da família com um jovem que, mesmo estranho, parece ser a esperança da menina de viver algo de novo e diferente em sua rotina extremamente tediosa e repetitiva.
+Obviamente esse ambiente não existe mais, e um filme que trate o tema de forma tão descarada soa datado. Porém, não é o caso de jogá-lo fora. Há uma ótima história aqui que entoa um eco significativo nas mais diferentes casas onde vive um casal, ambos trabalham, que costuma discutir como será a vida a três, ou se ter um filho é um caminho viável nos dias de hoje.
 
-Aliás, a rotina de toda a comunidade que ali se vê é retratada dessa forma enfadonha, ainda mais quando a diretora estreante Rama Burshtein resolve junto com seu fotógrafo utilizar cores extremamente pálidas raramente jogadas em cima de um preto e branco que cansa. A tentativa da câmera de se movimentar possui um comportamento dúbio, pois não sabemos ao certo o que quer dizer. O uso dos espaços fechados, no entanto, deixa claro que aquela rotina é sufocante, e talvez Preenchendo o Vazio esteja mais se referindo àquela vida sem prazeres do que o que ocorre em seguida à morta de Esther.
+A primeira metade da história é intensa, se passa em Nova York, e tem como pano de fundo a rotina extasiante de Keaton tentando ser mãe e profissional de destaque. A segunda metade faz uma quebra de ritmo que prejudica um pouco o resultado final, mas que tem todo o sentido, já que agora a vida é no campo e com outras prioridades (como fazer papinha de neném). No entanto, estamos falando da mesma pessoa, e é isso que faz o núcleo da narrativa ser tão coeso e tão primoroso em seus detalhes. Embora não seja tão engraçado quando tente, o humor de situação é mais filosófico do que a maioria das comédias despretensiosas de hoje em dia.
 
-Sim, ela morre, e deixa a família inteira órfã de um casamento. Seu filho recém-nascido sobrevive, porém, e é isso que move sua avó a tentar agendar um novo casamento entre as duas famílias, desta vez utilizando Shira. O relacionamento entre esta e seu cunhado é controverso, e é aí que se configura o drama mais do que humano: deixar-nos levar pelo que seria certo na sociedade e sacrificar nossa vida, ou desapontar todos à sua volta à espera de um pretendente que pode, assim como para Frieda, nunca mais aparecer?
-
-O drama é forte, mas conduzido de forma fraca. O tedioso fica tenso, mas nunca se transforma em outra coisa. Pela repetição, Burshtein compromete sua eficácia. Mesmo assim, um trabalho que cumpre sua imersão em uma cultura radicalmente diferente ao mesmo tempo que comprova que humanos são humanos em qualquer condição de vida desse planeta.
+Será que não temos mais tantos conflitos existencialistas como antes, quando tentar ser algo de valor para para si envolvia passar por cima de valores seculares de uma sociedade patriarcal e ultrapassada em tantos sentidos?
 

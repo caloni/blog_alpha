@@ -1,16 +1,23 @@
 ---
 categories:
 - writting
-date: '2015-01-01'
-link: https://www.imdb.com/title/tt0864835
+date: '2021-11-01T22:34:22-03:00'
 tags:
-- movies
-title: As Aventuras de Peabody & Sherman
+- series
+title: Mr. Robot e sua redistribuição de riqueza
 ---
 
-Peabody (Ty Burrell) é um cão super-inteligente que nunca foi adotado por não se comportar como um pet convencional. Depois de ter ajudado a sociedade com uma série de invenções resolve adotar um garotinho, Sherman (Max Charles), o que gera algumas críticas da mesma sociedade que ajudou depois de uma briga na escola envolvendo seu filho. Se essa última frase, que envolve dizer que um garoto é filho de um cão, te incomoda, Mr. Peabody e Sherman é exatamente o filme que tenta quebrar esse estigma: a adoção de crianças por homossexuais. Sim, uma animação para crianças consegue levantar questões extremamente adultas de uma maneira super-divertida.
+Aquele momento mágico em que toda a riqueza dos malvadões é redistribuída de maneira equitativa entre a população falha por pelo menos dois motivos.
 
-Um detalhe ainda não mencionado é que o Sr. Peabody tem uma máquina do tempo, e é assim que Sherman costuma aprender sobre História. Embora iniciando a "aventura" da dupla com uma sequência boba em meio à Revolução Francesa, ela é importante para determinar que a inteligência de Peabody é capaz de livrar ele e Sherman das maiores confusões com relativa facilidade. Facilidade essa que é colocada de lado nas próximas aventuras, onde os problemas que a dupla enfrenta adquire um grau de dificuldade que nos deixa dúvidas se mesmo a inteligência do super-cão conseguirá gerar uma solução. E é isso que torna as sequências de ação sempre empolgantes, que mesmo que com uma trilha sonora das mais batidas possui invencionices o suficiente para entreter de forma inteligente (como quando Peabody engana os troianos com um presente em forma de cavalo).
+O primeiro é que os americanos estão bem longe de ser o povo mais pobre do mundo. Há miséria real fora da bolha ianque na mesma ordem em que eles são os 1% em relação ao mundo. Agraciá-los seria a pior forma de redistribuição de renda da história.
 
-Elevando nosso grau de descrença em alguns níveis durante todo o longa, e extrapolando um pouco mais durante seu terceiro ato, Mr. Peabody e Sherman é um filme que faz ótimas piadas de momentos e figuras históricas enquanto tenta no processo demonstrar como ter pais superprotetores pode ser um problema grave quando estes subestimam a capacidade de seus filhos. Melhor do que um filme com personagens inteligentes é um filme que não subestima a inteligência do seu espectador.
+Se fôssemos ser justos ao máximo no sentido de que riqueza foi roubada dos habitantes do planeta e está concentrada em 1% desses moradores teríamos que redistribuir essa riqueza entre todos os bilhões de seres humanos do planeta. Esqueça por um momento o lado logístico desse problema e foque mais no lado econômico.
+
+O escritor e defensor mais ferrenho dessa redistribuição de renda, Tomas Pikety, em seu livro O Capital no Século 21 afirma com base em cálculos bem básicos de matemática que se fôssemos fazer essa redistribuição de maneira equitativa entre todos os habitantes o saldo na conta de casa um de nós seria cerca de 4000 euros. Veja bem, é um bom valor para passar um mês em um lugar bem caro e até um ano em um lugar bem pobre, mas está bem longe de deixar qualquer uma dessas pessoas tranquila a respeito do longo prazo. Quanto mais rica.
+
+Na vida real, voltando alguns devaneios, imagine que apenas os americanos ganharam essa bolada. Nesse momento é o país mais igual do mundo. Na vida real em menos de um ano teríamos a mesma desigualdade. Uma minoria faria um bom uso da oportunidade, mas a maioria seguiria seu modus operandi que a tornou pobre e endividada, pois o dinheiro é mero reflexo disso.
+
+Se isso não fosse verdade teríamos uma mobilidade social muito maior, pois na realidade de fato temos, mas em um nível anedótico, o que faz sentido visto os esforços sobrehumanos que os casos de sucesso precisam se dedicar para mudar seus destinos radicalmente.
+
+Acreditar que a maioria faria isso se caísse uma bolada em sua conta bancária não é apenas ingenuidade. É infantil. Ou desonesto usar esta hipótese como um argumento sério.
 

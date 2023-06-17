@@ -1,23 +1,25 @@
 ---
-
-Um misto de remorso pelas agruras da guerra com a energia de uma investigação guiada unicamente pela fé (ou pelo amor). A beleza da fotografia fria e triste do front se contrapõe aos horizontes oníricos do presente nostálgico, que clama pela elucidação completa de um passado nebuloso que separou um casal apaixonado prestes a se casar. Eterno Amor é pura poesia na forma de criatividade narrativa. Um Pierre Jeunet que retrabalha sua Amélie Poulain em traços mais cruéis e menos esperançosos, e que tenta soar como um romance épico em torno de personagens com pouca alma e muita persistência.
-
-Utilizando novamente Audrey Tautou, a namoradinha da França, o diretor Jean-Pierre Jeunet mais uma vez aplica a belíssima fotografia de seu colaborador Bruno Delbonnel (Harry Potter e o Enigma do Príncipe, Inside Llewyn Davis: Balada de um Homem Comum, Amélie Poulain) e a dinâmica e inventiva montagem de seu editor Hervé Schneid (Micmacs - Um Plano Complicado) para contar uma história cheia de poder criativo, mas que encontra em seu núcleo um drama intransponível para o estilo do diretor.
-
-Sua busca incessante, no entanto, em tentar juntar todas as pistas que a bela mas manca Mathilde (Tatou) vai acumulando, testemunho após testemunho, em busca da verdade definitiva a respeito do paradeiro de seu amor, Manech (Gaspard Ulliel), é tão contagiante que o mundo que se cria em torno acaba compensando a total falta de realismo nesse conto quase-surrealista.
-
-Com aspectos técnicos impressionantes a cada cena -- exceto talvez pela música de Angelo Badalamenti, repetitiva e monótona, mas ainda assim condizente com a proposta do filme -- e com um ritmo que vai se formando pela repetição (a insistência do carteiro em espalhar o cascalho da entrada da casa de Mathilde, só pelo bem da "entrada triunfal"), o roteiro da dupla Guillaume Laurant e do próprio Pierre Jeunet, baseados no romance de Sébastien Japrisot, não consegue se desvencilhar da sua complexidade em utilizar diferentes personagens que se parecem em situações que se embaralham, o que se por um lado acaba contribuindo para a atmosfera de desorientação de Mathilde, vai aos poucos se tornando uma distração incômoda para o espectador, que já não espera encontrar qualquer conexão memorável entre as pistas.
-
-Até mesmo a dualidade de cores frias da guerra com as cores sempre aquecidas do presente da protagonista, fascinante no começo, também vai se esvaecendo com a cada vez mais distante capacidade de atribuir significado naquele emaranhado de símbolos. Jeunet se deixa sabotar pela sua própria obsessão de detalhes, e assim como seu mais recente trabalho, Uma Viagem Extraordinária, se esquece das emoções primárias de seus personagens para focar unicamente nas idiossincrasias de sua complexa história.
-
-O que acaba por fim em tornar tudo aquilo uma imensa espiral de eventos que revela uma estrutura tal qual as escadas do farol onde o casal se encontrava: aparentemente infinita, mas se encarada com dedicação e empenho, alcançável até por uma manca que deseja enxergar além de suas limitações físicas. É o metafísico celebrado em vida. A mágica de usar o cinema como cornucópia de simbolismos visuais.
-
----
 categories:
 - writting
-date: '2016-12-20'
-link: https://www.imdb.com/title/tt5168192
+date: '2015-10-09'
+link: https://www.imdb.com/title/tt2965412
 tags:
 - cinemaqui
 - movies
-title: Eu, Daniel Blake
+title: Eu Estava Justamente Pensando em Você
+---
+
+O amor está no ar, mas seus portadores estão com dúvidas existenciais, são espertos demais para senti-lo ou sofrem da doença do século: ansiedade.
+
+Ou melhor dizendo, "O" portador. Dell (Justin Long) é um jovem que super-analisa sua vida a todo momento. Curiosamente, o filme começa com ele sendo abordado por uma personagem secundária que nunca mais aparece, o que já indica caminhos tortos no roteiro para fazer ele parecer certo. Mas tudo bem, já que a primeira cena é a de outro personagem secundário em um pré-encontro torcendo para que isso que ele está vivendo não seja um sonho. Infelizmente, as paredes em sua volta estão pintadas com uma noite estrelada com meteoros, e todos já sabem o que isso significa.
+
+Isso também quer dizer que quando encontramos Dell na fila para um evento de chuva de meteoros, a história já está montada ao seu favor. Ou não. Mesmo encontrando Kimberly (Emmy Rossum), a mulher dos seus sonhos (trocadilho intencional), e enxergando todo seu futuro com ela em um piscar de olhos, a sua incapacidade de parar de pensar nos próximos cinco minutos de sua vida e viver de fato cinco minutos atrás -- ou seja, o Agora -- é o seu vilão interno, que faz com que ele reavalie quatro conversas futuras com Kimberly em lugares e tempos distintos como se fossem traços complementares da mesma pintura, enquanto tenta chegar a uma conclusão a respeito dos dois.
+
+Nesse processo há uma mão forte, narcisista e apaixonada pelo seu próprio roteiro e filme. Sam Esmail dirigiu e escreveu este trabalho antes de lançar seu seriado que anda fazendo fama, Mr. Robot, sobre um hacker que sofre de desordem de ansiedade social, o que já diz muita coisa sobre o Cinema provavelmente autoral de Esmail. Utilizando diálogos pseudo-inteligentes que conseguem manter a impressão de estarmos presenciando um "Antes do Amanhecer" contemporâneo, a questão primordial é que há, de fato, questões muito interessantes sobre relacionamentos, pessoas e o auto-conhecimento, mas infelizmente isso está embalado em muito mais bobagens que se pode suportar.
+
+O resultado é que, esperto demais em sua primeira metade, além de conseguir uma edição primorosa entre os cinco momentos que discute, essa esperteza se volta contra o próprio filme em sua segunda metade, onde a fascinação dá lugar à monotonia e a mais do mesmo, pois embora continuem pseudo-interessantes, seus personagens nunca mudam de fato através do tempo que passam juntos, e os cinco momentos do casal que acompanhamos obviamente ocorrem em fases distintas do relacionamento. Ao tentar catalisar a (até então) trilogia do "Amanhecer" de Richard Linklater, que simula encontros de um mesmo (esse sim) adorável casal em períodos de dez em dez anos na vida real, "Eu Estava..." cheira um método alternativo preguiçoso para atingir o mesmo fim.
+
+Mas se até então falei apenas de Dell, que é o dono de todos esses sonhos e ilusões, é porque ele é de fato dono de todas as conjecturas do filme, não sendo possível sequer culpar Kimberly por sua participação medíocre que se resume em dizer suas falas da maneira mais inteligente possível (o que -- surpresa! -- não torna o que diz algo automaticamente inteligente). Dell, por sua vez, capaz de transformar sua vida em um inferno e a de Kimberly em uma eterna espera por um "Eu te amo", ao tentar agilizar os resultados de suas ações o rapaz é incapaz de imaginar sua amada menos genérica para suas fantasias temporais, nem momentos diferentes de sua vida a dois -- exceto quando verbalizado, o que perde toda a graça -- o que faz com que ele também soe como um autista idealizando uma relação amorosa impossível. Conforme a "história" se desenrola, vamos percebendo que não existia de fato nenhum motivo para os tais cinco momentos das vidas dos dois senão dar corda para a incansável discussão de como esse rapaz é esperto em montar momentos na vida para discutir sua incansável obsessão.
+
+Enfim, "Eu Estava Justamente..." é esperto em utilizar mecanismos do Cinema como truque de metalinguagem, ou é ingênuo em achar que o público-alvo dessa comédia romântica acima-da-média-por-ser-mais-racional irá adorar o filme apenas pela sua pseudo-intelectualidade? Talvez a resposta mais sincera seja: não interessa. De uma forma ou de outra, ele se torna uma experiência divertida como exercício intelectual, e esquecível como qualquer outra comédia romântica. Mesmo que o público em geral ignore as bases dramáticas de seu herói no seu último "minuto de silêncio", o que importa é que pareça que há um final feliz em algo que podemos chamar de um entrosamento narcisista alto-astral. Nada mal para um primeiro filme.
+

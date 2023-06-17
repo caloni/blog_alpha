@@ -1,154 +1,24 @@
 ---
 categories:
-- coding
-date: '2023-04-17'
-link: https://youtu.be/Ic7OO3Uw6J0
+- writting
+date: '2019-11-26'
+link: https://www.imdb.com/title/tt8998738
 tags:
-- interview
-title: Árvore de segmentos
+- movies
+title: Seguindo o Coração
 ---
 
-Não existe sequer uma entrada em português sobre Segment Tree, uma árvore binária específica para guardar intervalos. E este acredito ser um assunto importante para testes de entrevista ou competições de programação porque ele é muito útil para alguns problemas. Vamos dar uma olhada em como ela funciona.
+Este é um Antes do Amanhecer feito com diálogos medíocres e um elenco menor que Ethan Hawke e Julie Delpy, que nasceram para seus Jesse e Céline. De certa forma Seguindo o Coração ironiza a perfeição com que os filmes de Richard Linklater trata seus adoráveis personagens se desenvolvendo. O realismo por trás das falas do casal de Before Sunrise é apenas aparente, pois funciona bem demais por muito tempo.
 
-Em primeiro lugar, ela é uma árvore binária. No entanto, seus ramos representam intervalos. A raiz possui o intervalo inteiro (mínimo e máximo) e os ramos vão se dividindo em intervalos menores, até que as folhas indiquem apenas um elemento.
+Já neste filme do diretor Aadish Keluskar existe um ultrarrealismo de uma relação abusiva que se arrasta por um ano em diálogos muito mais pé-no-chão, mas igualmente condensados no espaço de um dia para enfatizar os papéis de vilão e vítima de maneira a não esquecermos quem é a vítima. E não há muito o que fazer, pois o filme inteiro é tomado por esse sentimento. A única maneira de evitar é parar de assistir, um desejo que pode surgir em alguns momentos no começo, mas que tende a desaparecer conforme avançamos para o final.
 
-É importante notar que uma árvore de segmento é maior que simplesmente um array, mas diferente de um array, a árvore brilha quando precisamos somar intervalos.  Como ela está estruturada de maneira que cada ramo contém a soma de seus galhos, para obter a maioria dos intervalos sua complexidade desce de O(N) para O(log N).
+A câmera de Keluskar desfila pelo casal de nome desconhecido em uma Mumbai viva e sem preparo de filmagens, pois seria absurdo parar uma de suas avenidas mais movimentadas por vários quarteirões, que é onde o filme começa. Mas a câmera desfila de uma maneira caótica, e vem à mente a desconfiança de que ela está desviando de transeuntes que não foram previstos no trajeto. Às vezes olhamos para a margem do rio, outra para a avenida, e pensamos mais nisso do que o que essas pessoas estão conversando, pois não interessa tanto assim o texto, mas sim suas personalidades e seus objetivos tão díspares.
 
-{{< image src="segment_tree.png" >}}
+É um casal onde o homem é dominante. Ele fala muito sobre si, julga as pessoas em volta, a sociedade, o governo, e é incapaz de perceber o que está fazendo com esta pobre moça. Ou talvez até perceba, mas no fundo ele não liga, pois ela é feia, não tem muitos atributos desejáveis em seu corpo e seu único motivo em estar com ela é o sexo fácil disponível a qualquer hora.
 
-Dessa forma, podemos concluir que o espaço ocupado por uma árvore binária para implementar um segment tree completo deve ocupar por volta de `2*N-1`, o espaço para implementar uma árvore binária completa com N folhas.
+Ela surge como uma mescla entre a mulher independente e a antigona submissa que precisa se casar por ordens da mãe, ordens implícitas ou explícitas. Essa pressão ainda existe na Índia, mesmo nas grandes cidades, e pode ser vista em outros filmes recentes, como Retrato do Amor, onde um fotógrafo amador precisa arrumar uma pretendente para exibir para sua avó antes que ela morra.
 
-No entanto, o tamanho para estocar uma segment tree não é esse, mas tipicamente `4*N`. O motivo disso é que nós precisamos de `2*next_power_of_two(N)-1` para garantir que as divisões da árvore todas vão estar representadas, mas como custa processamento descobrir qual a próxima potência de 2 que é maior que N uma aproximação válida é usar `4*N`.
+Estamos olhando para uma vítima de abuso físico e psicológico em sua dolorosa escalada em busca de sua libertação, pois há de haver uma. Esse casal nunca deveria estar juntos, como toda Mumbai e todos nós, espectadores, podemos testemunhar. Mas apesar dela ser independente financeiramente não consegue viver sem alguém, mesmo que este alguém a maltrate como a um cachorro abandonado que ninguém liga, não por ser mulher, mas pela idade e por não ser bonita a ponto de chamar atenção.
 
-Vamos observar a implementação de uma árvore de segmentos. A primeira coisa é alocar o espaço necessário em um vetor. Digamos que nossa árvore irá conter os intervalos de 1 a 1000 (inclusive).
-
-```
-vector<int> tree[4*1000];
-```
-
-Nossa árvore está pronta. =)
-
-Vamos atualizar algum valor nela. Por exemplo, definir o valor 42 para o node 666:
-
-```
-void update(int node, int left, int right, int pos, int value, vector<int>& tree) {
-    if (left == right) {
-        tree[node] = value;
-    } else {
-        int nodeLeft = 2 * node;
-        int nodeRight = 2 * node + 1;
-        int middle = (left + right) / 2;
-        if (pos <= middle)
-            update(nodeLeft, left, middle, pos, value, tree);
-        else
-            update(nodeRight, middle+1, right, pos, value, tree);
-        tree[node] = tree[nodeLeft] + tree[nodeRight];
-    }
-}
-
-int main() {
-    vector<int> tree(4 * 1000);
-    update(1, 1, 999, 666, 42, tree);
-}
-```
-
-Algumas informações relevantes sobre esses parâmetros:
-
- - node é a localização do ramo atual;
- - left é o início do intervalo que estamos;
- - right é o final do intervalo que estamos;
- - pos é o número do ramo que pretendemos trocar;
- - value é o valor que pretendemos colocar no ramo;
- - tree é a árvore de segmentos.
-
-Todos esses parâmetros existem porque a função update é recursiva e ela precisa passar a localização dentro do array no formato de um mapa para uma árvore binária. A busca também segue o mesmo princípio, de O(log N), ou seja, para encontrar a posição desejada (variável pos) a função irá seguir limitando o intervalo entre left e right até que ambos tenham o mesmo valor, situação em que estaremos em uma folha.
-
-Depois da atualização vem a parte interessante: os ramos acima da folha são atualizados com a soma entre seus ramos esquerdo e direito, recursivamente. Isso quer dizer que o valor 42 irá ecoar por todos os ramos de cima até chegar na raiz, que também irá conter 42, já que este é o primeiro valor diferente de zero de toda a árvore.
-
-Vamos definir mais alguns valores em outras posições para em seguida implementar a soma:
-
-```
-int main() {
-    vector<int> tree(4 * 1000);
-    update(1, 1, 999, 666, 42, tree);
-    update(1, 1, 999, 600, 58, tree);
-    update(1, 1, 999, 700, 45, tree);
-    update(1, 1, 999, 999, 55, tree);
-}
-```
-
-Com isso a soma dos seguintes intervalos deve contar os seguintes totais:
-
- - o intervalo [666,666] deve conter o valor 42, da única folha selecionada;
- - o intervalo [600,700] deve conter o valor 145, da soma de 666, 600 e 700;
- - o intervalo [600,999] deve conter o valor 200, da soma adiciona de 999;
- - a raiz, ou o intervalo [1,999] deve conter o mesmo valor;
- - intervalos abaixo de [1,599] devem conter 0.
-
-Vamos implementar a função de soma e descobrir.
-
-```
-int sum(int node, int left, int right, int posLeft, int posRight, const vector<int>& tree) {
-    if (posLeft > posRight)
-        return 0;
-    if (posLeft == left && posRight == right)
-        return tree[node];
-    int nodeLeft = 2 * node;
-    int nodeRight = 2 * node + 1;
-    int middle = (left + right) / 2;
-    return sum(nodeLeft, left, middle, posLeft, min(posRight, middle), tree)
-        + sum(nodeRight, middle + 1, right, max(posLeft, middle + 1), posRight, tree);
-}
-
-int main() {
-    vector<int> tree(4 * 1000);
-
-    update(1, 1, 999, 666, 42, tree);
-    update(1, 1, 999, 600, 58, tree);
-    update(1, 1, 999, 700, 45, tree);
-    update(1, 1, 999, 999, 55, tree);
-
-    vector<vector<int>> intervals = { 
-        {666, 666}, {600, 700}, {600, 999}, 
-        {1, 999}, {1, 599} };
-
-    for (const vector<int>& i : intervals) {
-        int isum = sum(1, 1, 999, i[0], i[1], tree);
-        cout << "the interval [" << i[0] << "," << i[1] 
-            << "] has the value " << isum << endl;
-    }
-}
-```
-
-Mais uma vez, existem muitos parâmetros porque a função é recursiva e precisa se localizar, e o princípio é o mesmo da função update, de usar as variáveis como um mapas para navegar por uma array.
-
- - node é a localização do ramo atual;
- - left é o início do intervalo que estamos;
- - right é o final do intervalo que estamos;
- - posLeft é o início do intervalo que queremos a soma;
- - posRight é o final do intervalo que queremos a soma;
- - tree é a árvore de segmentos.
-
-Note que a única variável que de fato indexa o array é a variável node. Porém, qual vai ser o índice de node é determinado pelos cálculos que giram em torno de ir para a direita ou para a esquerda pela árvore. Se for pela esquerda o próximo índice é o índice em node vezes 2, pois existem node ramos no nível em que estamos, e se for pela direita o próximo índice é node vezes 2 mais um, que é o próximo após o ramo da esquerda.
-
-Se ficou difícil de entender, lembre-se que a busca em uma árvore binária segue a mesma lógica daquele jogo de adivinhação, em que você chuta um número de X a Y e a pessoa que sabe qual o número irá dizer se o número é maior ou menor do que você chutou. Como você é muito esperto irá sempre dividir a faixa de onde está para acertar o número o mais rápido possível.
-
-Por exemplo, vamos supor que você deve chutar qual número é de 1 a 100. O número é 64.
-
- - seu chute inicial é 50;
- - a resposta: mais alto;
- - seu próximo chute é 75 (entre 50 e 100);
- - a resposta: mais baixo;
- - seu próximo chute é 63;
- - a resposta: mais alto;
- - seu próximo chute é 67;
- - mais baixo;
- - 65;
- - mais baixo;
- - 64;
- - acertou!
-
-Entre 100 possíveis chutes foram feitos 6, ou cerca de log 100 chutes. Exatamente como é feita a busca na árvore binária, seja de segmentos ou não. Essa é a grande vantagem de usar o mapa para se localizar no array como uma árvore binária, pois a busca não será linear.
-
-O fato da árvore ser de segmentos é apenas um detalhe que incorre em mantermos atualizados os nodes com a soma de todos os ramos abaixo, algo custoso a princípio, mas que na hora de obter a soma de intervalos faz valer a pena.
+Seguindo o Coração observa tudo isso e exala tanta ironia por se achar esperto demais que acaba por se auto-sabotar em alguns momentos de reflexão pós-filme. Através de situações reais demais para ser verdade ele nos entrega um plot aparentemente acima de qualquer crítica, pois liga de maneira intensa e única uma história de amor contrária a tudo que Hollywood tenta vender. Seu próprio título brasileiro já ironiza o que vem a seguir, embora o original em inglês seja mais honesto (Lovefucked). Fico imaginando o que espectadores da Netflix devem achar deste filme da metade para o final, pois sua sutileza acaba no título. Depois fica mais escuro. E não há canções. Apenas uma no começo e outra no final. E a do final, apesar de muito longa, ainda é imperdível.
 

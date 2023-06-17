@@ -1,23 +1,21 @@
 ---
 categories:
 - writting
-date: '2015-10-26'
-link: https://www.imdb.com/title/tt2872462
+date: '2018-05-28'
+link: https://www.imdb.com/title/tt5897304
 tags:
-- cinemaqui
-- movies
-title: Mistress America
+- animes
+- series
+title: Mob Psycho 100
 ---
 
-O diretor Noah Baumbach faz aqui um trabalho menos intelectualmente fechado que seu "Frances Ha", mas emprega a mesma atriz, Greta Gerwig, que surge de sopetão e é a mesma Frances que conhecemos no filme anterior.
+Mob Psycho 100 sofre do mesmo problema de Death Note: a primeira metade é fascinante e a segunda metade é quase insuportável. Isso porque a grande sacada da série -- um paranormal super-poderoso que tem ambições onde o seu poder é inútil -- se trai totalmente em um momento onde seu irmão é envolvido na trama principal e todos os valores do protagonista são automaticamente descartados apenas por capricho de um roteiro que pega uma excelente ideia e transforma em mais uma daquelas aventuras com pessoas poderosas que falam demais. Não que você não tivesse visto isso antes em qualquer outro anime do passado.
 
-A história é saborosa do começo ao fim, com diálogos inteligentes, bem colocados, e com uma dinâmica que, assim como em "Juno", de vez em quando corre o sério risco de soar "inteligente demais para ser realista". E, de fato, em muitos momentos o espectador irá parar, respirar e se imaginar mais em um palco de teatro do que em uma sala de projeção.
+Essa traição se torna ainda pior quando lembramos do conflito entre ele e um estudante de outra escola que também é um paranormal, mas que usa seus poderes para proveito próprio. A conclusão a que ambos chegam e toda a evolução deste episódio o torna o melhor da série (anote: é o quinto: Ochimusha - Psychic Powers and Me), e a partir daí infelizmente não se volta nunca mais para o equilíbrio entre humor, ação e auto-crítica sobre animes de super-poderes que prometia ser uma versão alternativa, mais light, de One Punch Man (também criação do mesmo autor de mangás, One)).
 
-Ainda assim, a distinção fica por conta do ar menos indie que Baumbach emprega em seus personagens (escrito a quatro mãos entre ele e Gerwig), sempre apelando para a cultura pop mais acessível, além de realizar com sua editora, Jennifer Lame, um trabalho fluido demais para uma comédia pseudo-dramática, cheio de quadros certinhos até em sua simetria cômica (como quando três personagens se encontram geometricamente dispostos em uma escada olhando para o andar inferior, ou quando todos se juntam para ler).
+A grande vantagem da versão anime de Mob Psycho é que ela não é a versão live action lançada em parceria com a Netflix dois anos depois. Com baixo orçamento e tentando emular a versão mangá/anime, o live action carece de qualquer bom senso em adaptar a história reduzindo personagens e cenas com muitos efeitos, tornando seus personagens secundários (e até o próprio herói) meras sombras de suas versões animadas.
 
-A história gira em torno da recém-graduanda Tracy (Lola Kirke), que luta tanto para arrumar um amigo quanto para conseguir um lugar em um exclusivo clube de escritores da faculdade. Ao conhecer sua futura meia-irmã, a mais velha, mais faladeira e mais-tudo Brooke (Gerwig), acontece uma espécie de paixão platônica entre uma escritora e sua futura obra, e conforme ambas passam os dias juntos, ela compõe uma história através da percepção que tem da sua nova amiga.
+A fantástica criação de Mob termina precisamente no episódio seis (Discord - To Become One), onde através do abuso de poder dos membros do grêmio estudantil um caça-às-bruxas de bullies se torna corrupto por dentro, o que gera uma crise de consciência no irmão mais velho/mais novo do herói da história (é que uma hora ele parece ser o mais velho, mas em outra é o mais novo, em claras contradições narrativas). Há um longo hiato em um subplot que cresce para dar luz a uma corporação do mal (claro) conhecida como Garra e que utiliza paranormais para... enfim, o mesmo blá-blá-blá de sempre. Quem se importa. Personagens completamente esquecíveis falando uns para os outros como são poderoso e talz, lançando magias genéricas demais até para serem esteticamente interessante, e uma infindável série de sete episódios que irão fornecer uma, ou no máximo duas, cenas memoráveis envolvendo novamente o mestre de Mob e um ou outro fechamento interessante da história.
 
-Estamos em Nova York, mas curiosamente, diferente dos filmes de Woody Allen, esse é apenas um detalhe do filme. O que importa, mais do que tudo, é observar a dinâmica entre essas duas, que de dependência simbiótica passa a flertar com uma espécie de relacionamento passivo-agressivo. Assim como um casal secundário que participa da farra intelectual em que se metem quando Brooke decide lutar pela sua ideia de um restaurante onde todos possam viver suas vidas em harmonia indo visitar o ex-namorado roubado por sua amiga.
-
-Impulsionado mais pela "performance" dos diálogos do que pelos atores em si, "Mistress America" é uma longa exposição de ideias filosóficas por trás do que todos acham sobre mulheres. Diferente da eterna perdedora Frances, aqui temos uma escritora disposta a capturar os inúmeros momentos da amiga. Mas isso constitui uma exploração não-requisitada? Ou são simplesmente pessoas seguindo suas vidas egoístas e interesseiras? O filme toma um lado, mas a questão é muito mais além do que aparenta no filme. Se há algo digno de nota, é justamente a capacidade do filme em oscilar seu humor sem perder a sua moral, quase aristotélica, quase matemática, e ainda assim, apaixonante.
+Mob Psycho 100 é além de uma cópia alternativa baseada no sobrenatural de One Punch Man, é uma cópia que se corrompeu pelo caminho da adaptação do que parece ser uma longa história no mangá (até onde eu tinha visto havia seis volumes). Muito texto com pouca trama gera um sentimento de poderia ser melhor muito antes dele atingir um clímax em sua história maior. Ele se lança como ideia inicial muito boa e termina se sabotando ao se mover lentamente para o medíocre e o lugar-comum. Há um momento que um personagem diz que apesar de tantos poderes somos todos ordinários. Bem, talvez essa seja uma meia-verdade dita por alguém que está se referindo não a personagens genéricos que se dizem poderosos, mas a toda série de animes deste gênero, que também se dizem muito poderosos, mas no final das contas se rendem à insossa e nunca interessante mediocridade.
 

@@ -1,15 +1,13 @@
 ---
 
-Adam Sandler consegue a proeza de tornar a tosca dublagem brasileira menos pior do que ouvi-lo arriscar um sotaque que é uma mistura de Zohan com trechos de Little Nick.
+O projeto Houaiss2Babylon, iniciado há mais de 6 anos, já devia estar ultrapassado. Porém, cada vez mais pessoas compartilham seus usos e desusos do que foi um dia uma base de dados ofuscada e presa a apenas uma interface Windows. Agora, além de já ter sido convertido para Kindle, em Python e agora através do nodejs para o MySql!
 
-Ele é o conde Drácula dessa sequência da animação onde a próxima preocupação do pai superprotetor é seu neto. Nascido de sua filha vampira e seu genro humano -- claro que eles tiveram que casar antes -- paira a dúvida em sua cabeça se ele se tornará um "monstro", com suas presas de vampiro, se transformando em morcego e tudo mais, ou se continuará com a aparência e comportamento de uma singela, inocente e inofensiva criatura humana. Com a cara do pai humano, é isso que deixa Drácula possesso.
+O jornalista e programador [Arthur da Paz](https://github.com/arthurdapaz) desenvolveu esta última novidade no programa e gentilmente compartilhou conosco direto no repositório original do HouaissParaBabylon, colaborando felizmente para que esse nome perdesse um pouco mais do sentido (Babylon já está meio ultrapassado, não?). Além disso ele encontrou a solução para um bug que invertia a ordem de apresentação das Rubricas, cujos detalhes ele explica nos comentários do post sobre a última versão.
 
-E é isso que o leva a pegar o carro fúnebre com seus amigos de longa data -- Frankenstein, Lobo, Homem-Invisível e Geléia Estranha -- para alguns experimentos que irão tentar fazer nascer as presas de seu pequeno neto, em um breve road movie noturno. O resultado é tão divertido quanto seu original, e pelo menos dessa vez existe um pouquinho mais de história, coesa, acontecendo.
-
-Não que isso nos faça esquecer da dublagem de Sandler. Nem um pouco.
+Muito obrigado ao Da Paz e a todos que colaboram e compartilham melhorias para esse projeto. Um dicionário não é nada sem as pessoas que o utilizam.
 
 ---
 categories: []
-date: '2011-04-28'
+date: '2010-04-08'
 tags: null
-title: Houaiss 1.3
+title: Houaiss Para Babylon!

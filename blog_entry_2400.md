@@ -1,27 +1,20 @@
 ---
 categories:
 - writting
-date: '2019-04-18'
-link: https://www.imdb.com/title/tt8169178
+date: '2010-09-24'
+link: https://www.imdb.com/title/tt0948530
 tags:
-- cinemaqui
 - movies
-title: Mormaço
+title: Moscou Bélgica
 ---
 
-Mormaço tem a cara da ficção do documentário Favela Olímpica. Ambos são sobre as consequências das Olimpíadas no panorama da desigual cidade do Rio de Janeiro. E ambos chegam atrasados aos cinemas, mas felizmente (ou infelizmente) sem perder a atualidade.
+Essa é uma "comédia romântica" dramática que conta a história de uma mulher recém-separada que quer viver uma vida normal, mas bate o carro em um caminhão e conhece um italiano charmoso que a convida para sair. O resto é passado em uma longa história onde veremos, com nossos olhos incrédulos, a maneira deliciosa que a narrativa nos conta a evolução daquela mulher recém-separada que está literalmente acabada na primeira cena, no corredor escuro e fechado, com a câmera mais alta, fazendo compras no supermercado, e a outra, radiante, caminhando em direção ao nascer do sol do lado dos trilhos, abertos e livres.
 
-O tema escolhido pela diretora Marina Meliande lembra muito o que o cineasta Kleber Mendonça Filho discute em seus filmes sobre o sistema opressivo do poder que esmaga as relações sociais e desencadeia uma degradação lenta, mas fatal, da sociedade como um todo. Porém, a visão que Marina nos traz se distancia de O Som ao Redor ou Aquarius (para citar trabalhos de Mendonça) porque ela traz um nível de humanidade que se materializa no problema principal, conseguindo assim um poder de síntese admirável.
+Sempre com a câmera tremendo, a ansiedade e a tensão são intensificados de maneira realista e quase documental, embora tudo com um clima bem agradável e piadas inteligentes que desenvolvem o perfil de cada personagem e determina competentemente a função de cada um em torno da grandiosa protagonista que vemos evoluir durante toda a filmagem.
 
-Além disso, é muito satisfatório constatar que o que vemos no final está ancorado com os símbolos do começo quando vemos uma visão micro do que nos espera. Uma formiga carrega outra visivelmente seca. O musgo ao lado de uma queda d'água se expande. Em corte abrupto avistamos o Pão de Açúcar. Uma ponte se explode. A fumaça da explosão se apresenta de diferentes formas, todas cobrindo seus cidadãos, pela cidade.
+Não só isso, algumas cenas e cenários são escolhidos a dedo, em sequências econômicas e expressivas ao extremo, como quando vemos o namorado dela bêbado pela primeira e única vez brigando com sua ex-mulher e seu amante; note como a câmera treme de forma diferenciada, com o foco se perdendo fácil e cortes não-lineares.
 
-O palco desse tenso drama com leves toques sobrenaturais (ou metafísicos) é a cidade do Rio de Janeiro, uma vez maravilhosa, mas que hoje vive uma decadência trágica causada por crise econômica, especulação imobiliária e o consequente caos urbano. E o pilar humano dessa história pertence a Ana, que trabalha na defensoria pública e luta pelos moradores da Vila Autódromo, um bairro de moradores de mais de quarenta anos e que agora está sendo desapropriado pela prefeitura para a construção de empreendimentos relacionados às Olimpíadas.
+Por outro lado, veja como a luz que incide sobre o casal que reata na penúltima cena demonstra toda a fragilidade de ambos, tanto no choque entre eles (ela dá um soco no nariz dele) quanto na pureza deste (ele beija o punho que ela machuca no ato).
 
-Além do mais, Ana mora em um prédio tradicional de classe média que também está em risco de ser substituído por outro empreendimento corporativo, e se relaciona com o engenheiro responsável por avaliar os apartamentos. E isso é apenas a ponta do iceberg de um filme que realiza conexões narrativas e temáticas de uma maneira tão simples que parece fácil, mas é fruto de um trabalho monstruoso de edição e direção.
-
-Os roteiristas Felipe Bragança e Marina Meliande não conseguem traduzir exatamente em palavras o que querem dizer, mas isso torna o visual do filme muito mais importante, o que é ótimo porque nesse aspecto o trabalho conduzido por Meliande arrebenta em seus conceitos. Além disso, vários de seus diálogos e frases no filme querem dizer mais do que simplesmente sua primeira camada. Por exemplo, ao lado da construção de um estádio para o grande evento da cidade está escrito: "As Olimpíadas deixam muito mais para o Rio". E algo que supostamente era para ser positivo, nós sabemos graças ao tom angustiante do longa, está longe de o ser.
-
-Suportado por um trabalho de maquiagem e direção de arte impecáveis, é recompensador observar a perda gradativa de luz e cores nos ambientes (como o aumento de folhas mortas) que vamos nos acostumando conforme acompanhamos a rotina desgastante de Ana, que sofre de uma doença desconhecida com fundo psicológico que a faz sentir um calor acima do normal para quem mora no Rio e que começa a ser afetada fisicamente por isso.
-
-Aliás, a escolha de Marina Provenzzano como Ana é igualmente um símbolo. De pele clara e significando pureza, sua personagem aos poucos vai sofrendo o peso de ser uma mártir em uma cidade que a está esmagando por todos os lados, e lentamente. Provenzzano faz uma Ana corajosa, mas que está perdendo o rumo de suas ações. E o filme a utiliza como o símbolo final, para satisfação dos espectadores do Cinema que ultrapassa alguns limites da realidade para ascender como algo que não nos esqueceremos tão cedo.
+Mas se uma cena ou outra nos faz comovidos tão facilmente, apesar das posições e movimentos brilhantemente escolhidos pelo diretor, o grande "trunfo" de todo filme é a atriz principal, que constrói de maneira inequívoca uma personagem desatada com o que existe em sua volta, que insiste em comer as coisas com mostarda e não sente o gosto de nada (outra metáfora usada de maneira tão inteligente, como quando ela volta a usar mostarda quando volta com o marido). Enfim, uma mulher que deseja e tenta ardentemente ter uma vida normal, mas nunca consegue, e se sente frustrada e perdida por isso. Porém, aos poucos ela vai entendendo a dinâmica de sua vida a partir de suas experiências, decide agarrar com convicção o que tem aprendido e escolhe o que disse que sabia desde o começo da vida: ser feliz. Tudo isso sem explicações, sem diálogos expositivos, mas apenas com pequenas expressões e gestos tão bem trabalhados.
 

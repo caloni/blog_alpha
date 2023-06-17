@@ -1,14 +1,21 @@
 ---
 categories:
 - writting
-date: '2012-07-20'
-link: https://www.imdb.com/title/tt0096734
+date: '2010-12-20'
+link: https://www.imdb.com/title/tt1149361
 tags:
+- mostra
 - movies
-title: Meus Vizinhos são um Terror
+title: Micmacs - Um Plano Complicado
 ---
 
-Especializado em comédias do absurdo, como Um Dia a Casa Cai e Quero Ser Grande, Tom Hanks aqui vive a paranoia e a maldição que acomete todo americano que tenta mudar algum hábito nativo de sua cultura, como bisbilhotar a vida dos vizinhos. Nesse sentido, faz um par curioso com Tim Allen em [Um Natal Muito, Muito Louco]. Contudo, a maluquice é ainda maior do que as comédias natalinas de Allen, pois estamos nos anos 80 e tudo, literalmente, pode acontecer.
+A fotografia fabulosa de [Amélie Poulain] também cabe nessa fábula em que um homem, Bazil (Dany Boon), sofre uma dupla injúria em sua vida: a morte do seu pai por uma mina terrestre e uma bala em sua cabeça durante um tiroteio. Então ele resolve se vingar de ambas com o mesmo plano.
 
-[Um Natal Muito, Muito Louco]: {{< relref "um-natal-muito-muito-louco" >}}
+Com os mesmos enquadramentos exagerados como em Amélie, mas sem a sua graça, Jean Pierre parece acreditar que o mesmo modelo pode servir a mais de um filme, e nesse caso parece acertar parcialmente. Digo parcialmente pois, enquanto em Amélie sua infância explique suas constantes fugas da realidade e seu caráter idealista, aqui o herói assume essas características sem possuir um passado que o justifique. Pior, ao ser adotado posteriormente por uma trupe de moradores de rua que parecem ter saído da mente criativa da protagonista do outro filme.
+
+Embora ou por causa de nunca revelar a estratégia de Bazil por completo, a história torna-se fascinante pela criatividade com que é conduzida, nunca soando por demais exagerada, apesar de sempre estar no limite da ousadia, mas que recebe a bela explicação da trupe, circense na alma e sem muito o que perder na vida.
+
+A capacidade do filme de entreter é tanta que até nos esquecemos do real objetivo do herói, o que pode soar preocupante pois existe drama em sua história. Só que em vez de drama o que vimos são exercícios de relaxamento quando ele, ansioso, parece perder a respiração, e que mais uma vez inevitavelmente relembram a figura idealista de Amélie Poulain, principalmente por estarem esses inseridos como mera curiosidade, sem conexão com o que está ocorrendo na tela.
+
+[Amélie Poulain]: {{< relref "amelie-poulain" >}}
 

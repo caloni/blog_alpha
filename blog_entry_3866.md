@@ -1,21 +1,18 @@
 ---
 categories:
 - writting
-date: '2022-10-19T19:09:25-03:00'
+date: '2010-11-19'
+link: https://www.imdb.com/title/tt1440728
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Um Homem
+title: Um Homem Misterioso
 ---
 
-A vida lá fora é cruel. Não pode vacilar. Você tem que ser duro. Tem que manter o respeito. Ouvimos vários testemunhos como se estivéssemos em um documentário no começo de Um Homem, ficção da Mostra de SP sobre a completa impotência do sexo masculino nesta geração.
+A quebra inicial do filme de romance com o casal juntos no quarto, íntimos, e o tiro que ele dá na cabeça da amante, além de impactante, dá o tom exato da vida desse homem do título, que deve sempre se manter fechado a relacionamentos. Cortes rápidos nas cenas de tiro, como o corte dele atirando no segundo sueco que aparece no filme, pelas costas, ou ele virando para atirar no seu contratante, essa cena sem corte. Sem contar as inúmeras vezes em que a neurose do personagem é transmitida diretamente para nós, como na cena da vespa estourando o escapamento, ou o livro caindo da cama no meio da noite, e até mesmo os pés do personagem no escuro, com ele deitado, deixam o espectador sempre em constante tensão. O primeiro diálogo com o padre, sobre o fato dele ser americano e fazer questão de esquecer o passado e tentar viver no presente, é emblemático e tão bem colocado, por possuir um significado oculto, que parece até feito de mentira. Mas convence.
 
-Estamos em Bogotá, capital da Colômbia e da violência da América do Sul. Acompanhamos um desses testemunhos, Carlos. Ele acabou de fazer um novo corte. "Para homem", ele pediu à cabeleireira. Porém, sua cara e seu corpo não negam: ele é uma menina. Não uma garota, o que remeteria a uma mulher jovem. Uma menina, mesmo: frágil, vulnerável, delicada. E usa roupas esportivas para disfarçar. E caminha com gingada para se enturmar.
+São esses tipos de diálogo que fazem do filme uma experiência sempre interessante e nunca clichê, pois tentamos, juntando pistas aqui e lá, entender a vida do protagonista.
 
-O objetivo de Carlos é reunir novamente a família. A mãe está abrigada em algum lugar desconhecido. A irmã está se prostituindo nas ruas. Ele está em um abrigo para homens e faz um dinheiro vendendo drogas de um parceiro das ruas. É véspera de Natal e a saudade bate. Carlos faria de tudo para ter um final de ano normal.
+O filme é criado a partir de pequenas cenas e diálogos que juntas dão pistas sobre quem é esse homem. Usando ângulos em comum, mas que sempre capturam mais do que demonstram (a dedicação em montar a arma deixa a faca espetada na mesa até terminar de montá-la) faz sentido usar uma resolução tão larga de tela. Com detalhes que podem até parecer imperceptíveis e ocasionais, quando o carro sai para o piquenique, vemos de relance a pequena bolsa que ela carrega a arma em seu colo, e o fato dela ser rosa não é por acaso (pode ser vista até de relance).
 
-Este é um filme sem fim. Se trata do subgênero de uma fatia de vida (slice of life). A fatia de Carlos é fingir a todo momento ser um cara durão para sobreviver. Ele segue com a cara fechada e o movimento dos ombros, idioma oficial dos manos. Porém, ele chora em dois momentos de um filme curto sobre um assunto prático: sobreviver nas ruas. Patético.
-
-Menos crítica social e mais uma denúncia velada de como homens hoje em dia não são como antigamente, Um Homem termina rápido e fugaz. A lembrança é de um testemunho sobre o fracasso masculino nos ombros de uma menina.
+E, finalmente livre, ele consegue chegar no rio, onde sua amada o espera, e lá padece; o último corte chega a ser poético, pois foca, mas bem de leve, a borboleta de outra cena subindo no céu.
 

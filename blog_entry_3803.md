@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2018-05-14'
-link: https://www.imdb.com/title/tt1104001
+date: '2016-04-03'
+link: https://www.imdb.com/title/tt0120201
 tags:
 - movies
-title: 'Tron: o Legado'
+title: Tropas Estelares
 ---
 
-O universo redescoberto pela Disney nesta continuação da saga Tron, que revolucionou em sua época os filmes feitos por computador, demonstra aqui todo o potencial do CGI em um universo não apenas construído essencialmente por computadores, mas rodando dentro de um. Como cult dos anos 80, que revolucionou a computação gráfica na época. Hoje, o uso de televisores 3D e a câmera indo em foco da imagem 2D de um deles pode ser considerada a única revolução desse filme.
+Star Wars, se Star Wars fosse filme de guerra. Mas não é. Starship Troopers é sobre as tropas de um mundo futurístico, é sobre a curva de responsabilidade dos jovens, é sobre a violência gore disponível aos montes, graças ao diretor Paul Verhoeven ("Robocop O Policial do Futuro"), e, por último, mas não menos importante, sobre a insanidade da guerra, e como ela se repete indefinidamente, de ambos os lados. Mesmo que o outro lado sejam insetos gigantes do outro lado da galáxia.
 
-Além de Olivia Wilde, obviamente, ter curvas lindas, apreciadas da melhor maneira, em 3D, a aventura Disney conta sempre algo mais com a apresentação desse mundo, provavelmente já de olho em continuações, jogos, etc, do que com uma história minimamente interessante. Se trata do velho plot do filho que perde o pai quando pequeno, vive à sua sombra, um pouco revoltado (revoltado estilo bilionário que quer dar sua propriedade intelectual de graça) e que demonstra estar pronto para ser digitalizado e sobreviver em um mundo de jogos onde o game over é sua própria vida.
+Conta a história de alguns jovens que estão se formando em uma Terra futurista, e a decisão de se tornar um "cidadão", e não apenas um civil. Um "cidadão" é alguém que luta pelo seu planeta e sua espécie, protegendo os civis. Isso é dito e venerado algumas vezes. O professor dessa turma, Jean Rasczak (Michael Ironside), perdeu um braço, mas continua firme em seu recrutamento informal durante suas aulas. Claro que não é um recrutamento em si, mas é claro que sabemos que no fundo qualquer coisa dita para aqueles jovens influenciáveis irá virar sua opinião. Porém, descrevendo de forma cínica esse processo, apenas dois jovens realmente acreditam nisso (um deles será participante da série How I Met Your Mother); os outros apenas seguem seus respectivos interesses amorosos ou querem se ver livre dos pais.
 
-Deixe-me explicar o que a trilha sonora de Daft Punk significa neste filme. Ela é visceral, parte integrante e protagonista do começo ao fim. Ela representa tudo o que sabemos até hoje dessa cultura de vídeo-games, de música techno e de hits temporários, repetitivos e sem sentido. É nosso niilismo popularizado em notas digitais que são compostas cada vez mais com a ajuda de um computador. Estar vivenciando uma experiência em um mundo digital ouvindo uma música percursiva dessas é como um deleite extrasensorial. A sua tensão combinada com a eternidade do dia (não há dia e noite no mundo digital) e a efemeridade da existência (programas podem ser destruídos em questão de segundos) colocam este filme muito acima do que ele mereceria com sua narrativa preguiçosa e arrastada.
+A juventude é celebrada em Tropas Estelares, e a energia que os jovens têm a oferecer é contagiante. Esse é um retrato empolgante do exército, mas ao mesmo tempo revoltante que se utilize tanto potencial para gerar destruição. O que torna tudo ambíguo é que o inimigo é uma raça alienígena de insetos gigantes. A repulsividade comum a esses bichos não é o suficiente: a mídia faz questão de destacar como esses seres são selvagens e "com certeza" não possuem inteligência. Não é preciso pensar muito a fundo para perceber que o que se configura é exatamente o que vemos em Enders Game, mas com muito mais imaginação, recursos e sangue.
 
-A presença de Jeff Bridges no projeto traz um pouco de nostalgia e uma curiosidade. Bridges se tornou um ator muito mais interessante com o passar dos anos. Ele foi um achado no Tron original, mas aqui ele parece uma participação de luxo. Porém, o protagonista de O Grande Lebowski se joga aqui como no automático, e embora sua dicção emotiva e sua postura pertinente em defender seu mundo e sua visão pessimista sobre seu destino, ou em dizer falas ligeiramente embaraçosas torne-as superiores ao roteiro, a decepção bate mais forte que o encantamento.
+O elenco está afiado, as cenas convencem, e o lado B do filme é um aviso constante, que através da mídia a todo o momento alerta o espectador do absurdo das situações vividas pelos heróis, por mais "nobre" que isso pareça.
 
-"Tron: O Legado" não se tornou um hit da Disney assim como John Carter, Príncipe da Pérsia e tantas outras apostas furadas que a produtora fez em uma má época de lançamentos. Ela é uma das poucas produtoras que pode se dar ao luxo de gastar seus milhões obtidos em royalties com filmes da Pixar e suas centenárias animações que ainda (tentam) encantar crianças em todo o mundo e vender princesas em todos os seus formatos. Mas em Tron o objetivo era um pouco mais dark, e não foi nenhuma surpresa constatar que os limites sonhadores da produtora politicamente correta foi extremamente inadequado para o voo digital que Tron deveria fazer em seu segundo filme.
+Mais longo do que os filmes habituais do gênero, Tropas Estelares é um exemplo de como é possível fazer Cinema, se divertir e ainda fazer pensar.
 

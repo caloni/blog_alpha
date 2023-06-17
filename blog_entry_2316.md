@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2013-07-09'
-link: https://www.imdb.com/title/tt1690953
+date: '2021-09-13T23:04:48-03:00'
 tags:
+- cinemaqui
 - movies
-title: Meu Malvado Favorito 2
+title: Meu Nome é Badgá
 ---
 
-Apesar de suas fraquezas expostas por uma trama simplista, [Meu Malvado Favorito] (2010) possui momentos divertidos demais para ser esquecido (ainda mais se comparado com franquias já bem mais desgastadas, como [A Era do Gelo] e [Madagascar]). Pegando carona no sucesso conquistado, a sua sequência explora melhor a relação entre seus personagens sem deixar de perder a sua identidade: piadas ligeiras e rasteiras que divertem pontualmente e dialogam muito bem com seu público.
+Fala a verdade: não tem nada mais lindo que garotas skatistas. Estilosas, esbeltas, no ápice de seus corpos e habilidades, esbanjam personalidade sem precisar sair berrando aos quatro cantos "olhem pra mim!". Afinal de contas, não são garotos carentes por aprovação. Em Meu Nome é Badgá acompanhamos algumas dessas moradoras anônimas das comunidades de São Paulo que andam juntas. Há um esboço de personagens que nunca se concretiza. O objetivo é falar das situações do dia-a-dia dessas jovens, centrado na figura da garota-título, Bagdá.
 
-Com cortes elegantes entre inesgotáveis cenas de ação e piadas que criam uma fluidez inexistente no filme original, a história de Gru, antes um vilão e agora o pai adotivo das três órfãs do filme anterior, evolui agora para um "espião consultor" do bem que tenta descobrir o autor de um crime megalomaníaco envolvendo uma substância que altera radicalmente o comportamento de criaturas antes inofensivas.
+Ela se impõe sendo apenas ela mesma. Garante seu lugar ao sol andando de skate e curtindo sua vidinha nas periferias da cidade. É uma diferentona, mas não faz marca com isso. Apenas questiona as revistas femininas em esboçar apenas um ideal do feminino. Tá certo que essa revista deve ser de uns bons anos atrás, pois hoje em dia diversidade é a ditadura da vez. Encontre uma sequência de comerciais com família tradicional e etnia dominante e ganharás um prêmio. Mas isso não diminui o mérito dessa crítica social. Bom, na verdade diminui. Soa datado e infantil.
 
-Há muito para se divertir na segunda aventura para podermos nos preocupar em demasiado com alguns elementos inseridos em demasia, como a insistência da parceira de Gru em parecer legal e as incontáveis situações em que a adorável Agnes nos faz chorar sem querer.
+Infantil também são as elucubrações fantasiosas da diretora Caru Alves de Souza, que assina também roteiro e produção. Ela floreia e estende desnecessariamente a narrativa, inserindo números musicais breves, mas suficientes para perdermos o interesse na história. Aguardamos pacientes até sua morosa continuação.
 
-[A Era do Gelo]: {{< relref "a-era-do-gelo-4" >}}
-[Madagascar]: {{< relref "madagascar-3-os-procurados" >}}
-[Meu Malvado Favorito]: {{< relref "meu-malvado-favorito" >}}
+Um ponto alto do filme é sua trilha sonora recheada de gêneros, como punk rock, surf rock, jazz, funk. A maioria das músicas (senão todas) performada por mulheres. Este é um filme feminino sem largar o bastão da fala. É lindo quando isso acontece no conflito do filme, quando há um caso sério de abuso que sintetiza toda a questão do machismo nas mãos de quem vive na pele. Os diálogos melhoram muito na cena final, e quase nunca se vê nada no resto do filme.
+
+Exceto na irmã da protagonista, espontânea como se deve em um filme que ensaia ser uma ficção documental. O resto dos atores não compra a ideia tão bem e o resultado é misto. Mas sua irmã é o equilíbrio perfeito entre atitude e atuação.
 

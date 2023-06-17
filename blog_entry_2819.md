@@ -1,22 +1,23 @@
 ---
 categories:
 - writting
-date: '2019-10-17'
-link: https://www.imdb.com/title/tt9810932
+date: '2018-10-23'
+link: https://www.imdb.com/title/tt6892206
 tags:
 - cinemaqui
-- mostra
 - movies
-title: O Século da Fumaça
+title: O Segredo de Nápoles
 ---
 
-O Século da Fumaça parece uma reprise. Eu me lembro de ter visto um filme muito semelhante em outras mostras há um bom tempo, mas a data de produção de 2018 aponta para sua triste atualidade.
+O Segredo de Nápoles possui uma atmosfera de mistério junto de um drama pessoal que desafia nossa percepção da realidade, e seria ingênuo de nossa parte considerar verdade apenas o que pode ser provado. Afinal o que sabemos da vida está fadado a falhas e incertezas de nossa percepção.
 
-Se trata de um documentário sobre as condições dos habitantes do interior de Laos, ainda produtor e exportador de Ópio, uma droga altamente viciante e que geralmente consome rapidamente a vida dos viciados. Nessa região acompanhamos uma família e seus vizinhos. A maioria dos homens dessa geração estão no vício e as mulheres são responsáveis por trabalhar no campo, além de dividir a criação dos filhos.
+A história começa em uma escadaria, com a câmera girando em torno de si mesma. Em seguida, vemos uma mulher descarregando uma arma em um homem, que cai pelas escadas. Atrás surge uma "bambina". Ela viu tudo. Focamos em seu olho. O que é visto pelos olhos nos é como mais sagrado.
 
-O "pai de família" explica que parar de fumar ópio envolve fortes dores no corpo e a incapacidade de se levantar. Ele já está viciado há um ano e espera que o governo proíba a produção para que ele seja forçado a parar, não havendo mais ópio por perto. De acordo com ele seria a única maneira de ele conseguir se salvar, pois sua força de vontade é insuficiente (ele coloca a culpa na genética da família). E ele se sente grato por ter casado com uma mulher forte que possa trabalhar no campo.
+O tempo avança e acompanhamos a cena de sexo mais completa do filme. A bambina crescida agora é Adriana (Giovanna Mezzogiorno), uma doutora legista que sai com um famoso mergulhador pela primeira vez para a melhor noite de sua vida. Na manhã seguinte ela teria a continuação do relacionamento se não o tivesse desencontrado no museu de arqueologia e reencontrado na mesa do trabalho, com os olhos arrancados.
 
-O Século da Fumaça se chama assim porque este é um ciclo de 100 anos que ainda não acabou. Por mais que a produção de ópio seja coibida no mundo ainda há mercado, e as consequências podem ser vistas em primeira pessoa neste filme. A morte do primogênito na família é motivo de muita dor e sofrimento dos pais, o que os levou a ingerir também da substância. Simples, mas sábios pela idade, eles entendem o básico que seu filho vivo precisa: fazer qualquer coisa que envolva sair do vício. Sua mulher já pensou em se matar, mas precisar cuidar dos filhos é um sentimento maior. Este não é um filme fácil pelos fatos que estão aí.
+É um filme sobre um crime, ou na verdade sobre dois, pois o que a bambina viu ainda não está resolvido em sua cabeça. Agora o que ela viveu com o mergulhador se transforma em uma inquietante busca quando surge seu irmão gêmeo desconhecido a assombrar. O filme não está interessado em truques e reviravoltas, mas é bem capaz que o espectador médio caia em uma ou duas. O principal trata de uma imersão na cabeça dessa bambina crescida e ao mesmo tempo em nossas cabeças, através do que nós vemos.
 
-O filme é auto-contemplativo. Não há uma narrativa, serve mais como denúncia e fazer pensar. Há vários momentos parados como reflexo do ritmo de vida do local, cujo clima tropical faz variar o tempo religiosamente com a chuva do final do dia. E há 100 anos se explica o vício como a maldição de uma princesa muito bonita cuja flor que nasce do seu túmulo hipnotiza quem a inalar. É um filme sobre vidas em suspensão, onde o sofrimento se resolve inalando a fuga da realidade.
+Nápoles vira uma personagem onde os mistérios ocorrem, em seus corredores, ruas, museus e igrejas. Nas casas seculares, como onde ocorreu o primeiro crime. Nos jardins. A câmera do diretor Ferzan Ozpetek que começou girando pela escadaria segue em movimento leve sugerindo o aspecto de sonho. As transições de cena são suaves e a trilha sonora acalma em vez de gerar tensão. Mais uma vez: há morte, mas não é um thriller de suspense.
+
+O uso da câmera também funciona na subjetividade. Vira e mexe ela está atrás de seus personagens. E ela está certa para esse filme: seus personagens importam mais que os fatos. Os fatos, esses escravos de nossa percepção, às vezes veem à tona, às vezes não. O que aconteceu com alguém que não existe mais? Assista sem pressa.
 

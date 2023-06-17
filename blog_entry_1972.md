@@ -1,18 +1,29 @@
 ---
 categories:
 - writting
-date: '2015-04-19'
-link: https://www.imdb.com/title/tt1951265
+date: '2020-08-03'
+link: https://www.imdb.com/title/tt4425200
 tags:
 - movies
-title: 'Jogos Vorazes: A Esperança - Parte 1'
+title: John Wick 2
 ---
 
-Jogos Vorazes é uma série de filmes que brinca com o conceito das aparências e como ela é muito mais importante atualmente do que como as coisas são. É dessa forma que os participantes de um reality show preferem abrir mão de suas personalidades para construir uma que garanta a vitória por parecer ser alguém que os possíveis fãs se identifiquem. É dessa forma também que o consumismo desenfreado leva as pessoas a comprar items puramente estéticos, como roupas de marca, maquiagem e operações no corpo. E, por fim, é dessa forma que governos populistas ganham a confiança e o respeito de milhões, preferindo gastar uma parcela irrisória do dinheiro delas mesmas em programas sociais como Bolsa Família, do que atacar o mal pela raiz (como diminuindo impostos para as camadas mais pobres, por exemplo).
+## Um Novo Dia para Counter Strike
 
-Nesse sentido, Jogos Vorazes se apresenta não apenas como uma crítica ao marketing ou mídia, mas como uma simples constatação que ele existe, é forte e poderoso. E no caso dessa continuação, com o péssimo título nacional Jogos Vorazes: A Esperança - Parte 1, ele é inclusive utilizado como ferramenta de guerra, usando a figura de Katniss (Jennifer Lawrence) para unir os distritos e incentivá-los a lutar contra a Capital. Da mesma forma, a Capital se utiliza de Peeta (Josh Hutcherson) e coloca na boca dele palavras sensatas para dissuadir a população. Mais fascinante que isso é observar as conversas da presidente da oposição, Alma Coin (Julianne Moore mais uma vez esse ano) e Plutarch (Philip Seymour Hoffman, infelizmente em um dos últimos filmes gravados antes de sua morte). A estratégia deles é como usar o povo como massa de manobra. É para uma boa causa? Sim, com certeza. Mas quantas pessoas morrerão no lugar deles por essa boa causa?
+Quando o filme de pancadaria é mero pretexto para chamar público. O próprio gênero de ação trabalha com emoções minimalistas e brutais. Eis o motivo porque [Mad Max: Fury Road] funciona horrores: o único motivo de existência da história é a fuga, e o único motivo de existência de John Wick é vingança de quem não tem (mais) nada a perder. A trama funcionava bem no [original] em apresentar um começo, meio e fim para um herói atormentado em um drama de uma nota só. 
 
-De forma quase inédita, o filme de Francis Lawrence resolve mostrar de fato pessoas morrendo para arriscar uma vida melhor para os sobreviventes. Ele não suaviza além do necessário, e consegue transformar completamente o tom de uma narrativa que desde o primeiro filme se criava nos bastidores. Aqui as cenas de ação existentes são arrebatadoras justamente porque há um movimento de pano de fundo fascinante de acompanhar.
+Todos no filme falam de Wick como uma lenda, e nós temos que acreditar neles porque não é olhando para Keanu Reeves que vamos comprar a ideia. O ator faz o que tem de melhor, que é ser Keanu Reeves, e a equipe de lutadores, assim como em [Matrix], o prepara para as cenas que todos estão esperando, com porrada, sangue e porrada em cima de sangue. Embora nesses filmes violentos e comerciais do novo século sempre falte sangue.
 
-Com um ou dois momentos piegas (como a velha sequência da porta fechando e alguém indo salvar um animal), Jogos Vorazes: A Esperança Parte 1 consegue se sair melhor ainda que seus antecessores, pois adiciona peso dramático às escolhas de seus personagens, em especial Katniss e Presidente Alma Coin.
+Os dois diretores que iniciaram essa franquia de sucesso, Chad Stahelski e David Leitch, vieram do mundo dos dublês. Acostumados com coreografias em cenas de ação, no primeiro filme aproveitam um roteiro mínimo para construir uma atmosfera do homem que é um fantasma do que um dia foi, e nossa imaginação preenche as lacunas.
+
+Se você já jogou Counter Strike alguma vez na vida, um jogo de tiros em primeira pessoa, não perde nada em não ver a continuação de John Wick, exceto que é um CS sem precisar por a mão no controle. Há dúvidas se filmes de ação se sustentam apenas com violência coreografada e inofensiva. Mais sobre isso no [terceiro filme].
+
+O filme original tinha um drama tão pertinente para o personagem de Keanu que esta continuação cheira unicamente a caça-níqueis para desavisados que acreditam terem achado o próximo grande herói de ação. Eles estão tão carentes dessa figura lendária que compram qualquer coisa. Até o simpático e nada másculo ator, que deixa a barba crescer em respeito ao personagem que interpreta sem nunca manter a postura. Está na moda heróis masculinos não serem mais "homens de verdade" ao estilo Clint Eastwoodiano. Wick é fraco, e daí vem seu próprio nome (do inglês "weak") e possui habilidades mortíferas em vez de um caráter forte. Ele é o melhor assassino de todos, mas está em análise se é um ser humano digno de aprovação. O único resquício de humanidade desse homem pós-moderno é nutrir memórias da perda da esposa e matar um monte de gente com eficácia, dois clichês que, não à toa, hoje em dia representam o ridículo.
+
+Quanto aos vilões, esse monte de gente fazendo fila para ser o próximo chefão, eles representam O Sistema, o "novo" mal do século para a plateia jovem, ou para os mais velhos que catam as migalhas da virtude que restou desse tipo de protagonismo. Os mais lúdicos não ligam. Há explosão de cabeças para agitar uma noite de filme.
+
+[Mad Max: Fury Road]: {{< relref "mad-max-estrada-da-furia" >}}
+[Matrix]: {{< relref "matrix" >}}
+[original]: {{< relref "john-wick" >}}
+[terceiro filme]: {{< relref "john-wick-3" >}}
 

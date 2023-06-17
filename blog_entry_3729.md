@@ -1,22 +1,24 @@
 ---
 categories:
 - writting
-date: '2013-07-19'
-link: https://www.imdb.com/title/tt1046947
+date: '2020-06-22'
+link: https://www.imdb.com/title/tt1588895
 tags:
 - movies
-title: Tinha Que Ser Você
+title: Tio Boomie, Que Pode Recordar Suas Vidas Passadas
 ---
 
-Eu sei que o desfecho final possui vários defeitos. É esquemático porque segue à risca a cartilha das comédias românticas, o que acaba prejudicando demais aqueles dois personagens até então bem construídos. Está longe do clima depressivo de todo o resto, onde o diretor tenta amenizar com músicas bonitinhas e um pouco do desconcertante humor britânico (mas a partir de um dado momento, acompanhar a mãe paranoica nem é mais interessante).
+O diretor tailandês Apichatpong Weerasethakul afirmou em uma entrevista que acompanha este DVD que "sente inveja de quem vê seus filmes". Não é apenas a pretensão de um cineasta que vem à tona, mas todo o humor subjacente se lembrarmos que Tio Boomie é um lixo de filme. Inveja de quem assiste? Se ele pelo menos soubesse...
 
-Porém, e coloco um grande porém agora, sua introdução e desenvolvimento são exemplares. A colocação do personagem de Dustin Hoffman como pai deslocado de uma família e de um emprego aos quais já não pertence mais é tocante por vir aos poucos e com certo ritmo. Tanto o desempenho de Hoffman quanto os enquadramentos ressaltando seu isolamento do mundo contribuem para a criação de um ser humano tão complexo quanto Bill Murray em [Encontros e Desencontros].
+O filme é inspirado em um livro de 1983, mas apenas inspirado. O livro fez tanto sucesso que deve ter alavancado a produção. Há um curta-metragem também, "dirigido" por Apichatpong e lançado pouco tempo antes do longa. Quem viu esse curta antes deve ter pensado: como alguém que vê dezessete intermináveis minutos disso pensa que seria uma boa ideia algo ainda maior?
 
-Já Emma Thompson desenvolve uma solteirona sem os dramas existenciais. Alguém que já se acostumou com os foras, e é levada pela mãe a se empenhar em uma vida a dois que já não acredita mais. Sua cena sozinha no banheiro é a mais sintomática e tocante nesse sentido, pois revela algo já existente em seus olhos, sua voz e seus trejeitos, mas ainda não declarada.
+Os únicos símbolos que conseguem chegar a nós em um filme essencialmente enigmático são a selva, a caverna e os macacos, remetendo a tempos primordiais. Mas ele mais uma vez só faz sentido porque o título já explica sobre o que se trata. Seja sincero: você conseguiria imaginar que este é um filme sobre reencarnação se o título não fosse tão didático? O que seria de um filme desses se um produtor consciente não resolvesse dar pelo menos um fiapo de significado no pôster do lado de fora do cinema?
 
-Os detalhes periféricos invadem nossa noção de realidade sem pedir licença. A trilha sonora, bonita, se coloca várias vezes para forçar a mudança de humor do quadro formado. Uma pena, pois enquanto Hoffman e Thompson nos aproximam do seu drama, a música nos afasta pelo seu melodrama barato. A insegurança do diretor quanto ao desempenho desses dois atores veteranos (ou do público mal formado) é risível.
+Ao acreditar em um estilo autoral de se fazer filmes e convicto de suas qualidades de criador, as influências de Weerasethakul acabam revelando essa ponta de pretensão vista em Tio Boomie, louca para sair e gritar para todos ouvirem, mas ao mesmo tempo se mantém firme em seu objetivo primordial de nos fazer passar sono, confusão e essa sensação de estranhamento que pode-se traduzir como... tédio. Em nosso inconsciente surge a dúvida de como o diretor imaginou em algum momento que esse estranhamento seria uma coisa boa, mas o que é mais estranho nesse filme é o quanto o espectador que é fã da obra literária original acaba sabendo mais que seu próprio idealizador.
 
-Mesmo assim, seu primeiro desfecho é eficiente demais para não gostarmos dele. Tanto que poderíamos aceitar a tristeza e dor de uma partida repentina sem crise (pelo bem e integridade daquele casal). Não é o que acontece, contudo, o que gera o desapontamento do primeiro parágrafo desse texto.
+Esta é a marca da geração de diretores mimados, que junto da crença em um cinema de autor acredita que fazer cinema é combinar estilos, fazer montagem deles, referenciar, homenagear, usar símbolos porque ele aprendeu a usar na faculdade, sem saber que em um longa metragem há a necessidade de alguma conexão entre as partes. Qualquer conexão que não seja "este é o filme do fulano de tal; é assim que ele faz filmes e é uma referência". Referenciar referências é a forma mais baixa de autocompaixão, que é um disfarce conveniente do orgulho sem motivo. Como qualquer pessoa de vendas sabe, pessoas podem gostar de qualquer coisa se houver alguém convencido do seu lado, certo da qualidade incontestável do produto.
 
-[Encontros e Desencontros]: {{< relref "encontros-e-desencontros" >}}
+Para a parte mais pessoal do seu filme, uma sequência de fotos com uma narração futurista, que obviamente referencia Chris Marker e seu curta-metragem A Pista, inspiração do longa Os Doze Macacos. Nesta cena ele usa seu estilo autoral e quebra a quarta parede, quebra a narrativa, e quebra a nós, espectadores, que estamos na sala de cinema. Qual o objetivo? Eu não sei, e nem ele sabe. E não sou eu que estou dizendo: ele também afirma na tal entrevista.
+
+O uso de diferentes fotografias, no entanto, quase se torna interessante ao tentarmos desvendar a chave das diferentes narrativas. Há um semi-documentário, uma sequência de fotos, um filme para TV e um experimento metalinguístico no mesmo filme, e nenhum deles dialoga com o outro. Nem a fotografia. Então em dado momento o que era quase interessante se torna apenas repugnante. Na onda das referências, há tantas misturas de filmes, todos óbvios e sem sentido. Planeta dos Macacos, 2001, Star Wars. Apenas pelos macacos fantasmas com olhos vermelhos estilo povo do deserto você nota que este é um projeto sem solução. Há mais filmes, mas o resto procure você. Não quero ter mais flashes desse filme. Nem nessa nem em outras vidas.
 

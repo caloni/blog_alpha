@@ -1,19 +1,16 @@
 ---
 categories:
 - writting
-date: '2012-11-01'
-link: https://www.imdb.com/title/tt2208192
+date: '2019-04-16'
+link: https://www.imdb.com/title/tt7043380
 tags:
-- mostra
-- movies
-title: Os Visitantes
+- series
+title: Osmosis
 ---
 
-Os Visitantes é o primeiro longa do alemão Contudo Knoche e talvez por disso mesmo com o tema dramático possui uma leveza e ingenuidade que o torna particularmente cômico. Iniciando com a visita inesperada do pai Jacob (Uwe Kockisch) aos seus três filhos Arnolt, Sonni e Karla (Jakob Diehl, Anne Müller e Anjorka Strechel), o atípico convívio com eles é usado para desvendar mais sobre aquelas pessoas do que sobre a visita em si. (Note como apenas os primeiros nomes são usados, levando automaticamente nossa relação com os personagens a um nível familiar.)
+Ah, se o amor fosse apenas um código em um computador orgânico -- aka nosso cérebro -- e que fosse possível descobrir sua alma gêmea simplesmente analisando esse código. E se essa série distópica da Netflix, baseada em uma versão mais romântica e dramatizada de um episódio de Black Mirror, fosse francesa, e exibisse todas as formas de amar de um futuro próximo? Bom, aí nós teríamos que perder uma hora assistindo ao piloto para concluir: ideia interessante. Poderia ser um bom filme. Mas séries estendem demais conceitos simples.
 
-Já ganhando a atenção do público, as coisas começam a ficar mais interessante ainda ao descobrirmos que existem na verdade dois acontecimentos a serem discutidos: um trazido pelo pai e outro (Andreas Leupold, como Hans) pela mãe, Hanna (Corinna Kirchhoff). A maneira como ambos se relacionam e como isso revela mais sobre os filhos do que sobre os pais é o que move a história através de diálogos sutis cujo pano de fundo sempre será a estrutura patriarcal clássica na incompatível vida contemporânea e o que ela formou como visão de mundo dos filhos.
+E aqui há pequenos elementos que se unem para formar uma narrativa repetitiva que tenta abordar o tema do amor perfeito (ou a sua eterna busca) de várias maneiras, além de uma corrida contra o tempo para que a solução final fosse descoberta.
 
-Usando um ritmo sem pressa, econômico e competente em esboçar visualmente o seu objetivo, a reaproximação daquela família que há tempos não tinha uma conversa como essa irá, como nos filmes do gênero, abrir algumas feridas e paulatinamente fechá-las. O passado de ausências que acabou por moldar o caráter desses jovens é revisitado, e tudo fica mais empolgante com a troca de farpas.
-
-Nunca desinteressante em seu desenrolar um tanto óbvio, mas que com seu timing perfeito e o desempenho competente de todo o elenco o torna, Os Visitantes conclui seus conflitos com uma visão encantadoramente otimista caso seja essa também sua impressão. Contudo, o filme prefere não se intrometer mais ainda na vida daquela família, o que é admirável se considerarmos que já a tomamos como pessoas de carne e osso durante todo esse tempo.
+Esta é mais uma das séries que gosta de brincar com o conceito de nossos cérebros serem não apenas maleáveis, mas facilmente traduzíveis. Um dos seus trunfos é entender que as questões não são tão simples assim.
 

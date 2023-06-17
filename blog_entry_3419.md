@@ -1,41 +1,24 @@
 ---
-categories: []
-date: '2008-04-25'
+categories:
+- writting
+date: '2015-07-06'
+link: https://www.imdb.com/title/tt2431438
 tags:
-- ccppbr
-title: Seminário CCPP Portabilidade e Performance
+- series
+title: Sense8
 ---
 
-Reserve sua cadeira. Está marcado para o último dia do mês de maio o primeiro seminário de nosso grupo nacional de programadores e aficionados por C e C++. É bom ou não é?
+Essa é uma série que tem todos os motivos de ser "acusada" de novela, no sentido da história estar totalmente focada nas reviravoltas amorosas de seus personagens. Mas o que dizer quando o destino amoroso do personagem X, Y e Z estão unidos de uma maneira tão fantástica que é impossível de disassociá-los e montar a velha tabela par romântico ou trio amoroso?
 
-O assunto gira em torno de duas preocupações constantes na vida de todo programador de linguagens de nível médio:
+Curiosamente, existe um trio amoroso na história. E existe um drama familiar. Também existe um policial honesto, uma hacker "do bem", um assassino cruel, um casamento errado e a união de tudo isso através da música. Lírico demais essa descrição? Eu diria transcedental. Assim é o novo trabalho das irmãs Wachowski (A Viagem, Speed Racer, V de Vingança), que flertam tão bem com a novela quanto com a cena de ação, ou a luta de um contra todos, ou até a cena mais trivial de todas: o descanso no final do dia, em um por-do-sol compartihado de vários ângulos do planeta.
 
- - Quanta velocidade eu preciso nesse código?
- - Em quais plataformas eu conseguiria compilar e rodar meu projeto?
+Curioso que falar apenas em por-do-sol não é suficiente em Sense8, uma série que contém protagonistas espalhados pela maioria dos continentes, falando inglês por todos os cantos. Claro que sabemos que essa é uma "licença poética", e que os personagens da Coreia do Sul, por exemplo, estão falando coreano entre si (embora para nós seja inglês, mesmo). Também sabemos que alguma lógica relacionada ao tempo de duração de um dia também deve ser relevado. Aliás, todos os detalhes da vida real parecem ter sido suspensos para dar vazão ao tema principal da história: alguns seres humanos possuem a capacidade de se conectar com o outro lado do mundo e mesmo assim conversar como se estivessem na mesma sala. Oito deles começam essa jornada.
 
-Para responder estas questões teremos uma bateria de palestras com temas que, dessa vez, focam o simples, puro e independente uso das linguagens C/C++:
+Da lista de improbabilidades, estas oito pessoas estão espalhadas entre diferentes etnias, de lugares exóticos a cidades grandes. E quais as chances de entre oito pessoas escolhidas ao acaso duas serem gays? E de gêneros diferentes? E transgêneros? É óbvio que os trabalhos de de Lilly e Lana Wachowski, até desde o primeiro Matrix, é cercado de esoterismo, relacionamentos andrógenos (cujo gênero é o que menos importa) e descoberta da sexualidade. Elas são muito boas em escolher o casting dos seus trabalhos mais sexy, e deu vontade de vibrar em ver Mila Kunis em seu último filme, o médio O Destino de Júpiter (além de Donna Bae de Cloud Atlas ser um achado). Aqui não é diferente, mas com a sensação que há um filtro elegante e até atraente dos diretores em escolher a beleza que melhor se encaixa em cada personagem sem nunca apelar para as batidíssimas maquiagens que plastificam e idealizam a beleza photoshopada. O uso da luz em Sense8 atinge os personagens, o que é uma maneira sutil de dizer que eles não são inatingíveis, como muitos heróis dos tempos atuais nos parecem.
 
-## Dicas e Truques de Portabilidade por Wanderley Caloni
+E já que estamos falando de beleza e sensualidade, o pacote Netflix, em que violência e sexo não são apenas desejados, mas liberados em qualquer momento da trama, coube muito bem no estilo dos diretores e sua equipe, e cenas como uma orgia que não conhece a noção de limite espacial não é apenas divertida pelo seu conceito, mas é um dos grandes momentos da cinematografia das duas, e mais uma memorável cena Netflixeana comparável ao escandaloso ménage em House of Cards (segunda temporada). Essa falta de limites, no entanto, pode ceder alguns exageros que são controversos. Não no sentido moral da coisa, mas no estético, mesmo, e ainda estou em dúvida se foi uma decisão acertada mostrar a vulva e todo o orifício de diferentes recém-nascidos. Talvez seja mais um problema de computação gráfica. Nesse caso a estética falou mais alto, e quase a série sai dos trilhos.
 
-O objetivo dessa palestra é focar nos problemas da vida real que enfrentamos no dia-a-dia para tornar um código portável ou mais maleável para um dia ser. Nesse caso existem vários assuntos a tratar, como: construções ambígüas não-padrão, isolamento de particularidades de cada sistema, identificação de problemas de portabilidade, organização do código-fonte portável, entre outros.
+Porém, sair dos trilhos mesmo é algo que Sense8 não fez em nenhum dos seus primeiros doze episódios, e mesmo que não tivesse sido fantástico em todos eles (na verdade, quase nenhum), ele mantém uma coleção razoável de momentos memoráveis, muitos deles que merecem ser revistos. Uma pena que para rever, tenhamos que passar por tanta novela, por tanto embaraço e por tanto estica-estica. Sim, ele não é livre de defeitos. Eu diria que tem tantos defeitos quanto qualidades. Porém, pela ambição de suas qualidades, os defeitos ficam escondidos (com exceção da longa duração da experiência).
 
-O nível dessa palestra será o intermediário, porque eu preciso que o público tenha o conhecimento prévio de programação C e C++. Quando você está aprendendo, uma dica ou outra sobre portabilidade pode ser interessante para não ser desvirtuado desde o início. Porém, para realmente começar a programar multiplataforma, existem desafios que devem ser transpostos por aqueles que já conseguem um nível de organização e desenvolvimento em C e C++ que não deixa dúvidas sobre a qualidade do código.
-
-## Programação Concorrente com C++ por Fábio Galuppo
-
-Fábio Galuppo estréia na nossa rede de palestrantes, depois de seu inspirador e excitante relato das peripécias do SD West desse ano. Ele irá falar de um tema extremamente atual, que é o uso de programação paralela, em especial usando C++. Existe uma série de coisas para entender, como os modelos a ser seguidos, o uso consciente de threads, a programação com bom desempenho nos novos chips com mútiplos núcleos de processamento e por aí vai.
-
-Apenas para ter uma idéia da importância em se ir em uma palestra como essa, imagine que 99,9% dos produtos da Google se baseiam nesse tipo de programação, envolvendo uma plantação de algumas centenas (milhares?) de máquinas trabalhando um banco de dados gigantesco no modo cooperativo para entregar a resposta mais rápida possível do outro lado. Sentiu o drama?
-
-## Programação Multiplataforma Usando STL e Boost por Rodrigo Strauss
-
-Voltando para o tema portabilidade, Rodrigo Strauss volta a repetir sua performance sobre Boost, dessa vez abrangendo o conjunto completo de bibliotecas que compõem essa extensão mais-que-necessária da STL para programadores produtivos e multiplataforma. Todos sabem que um código que apenas usa STL e C++ puro não consegue ir muito longe na vida real, apesar de ser 100% multiplataforma. O que muitos não sabem (inclusive eu) é como é possível turbinar o desenvolvimento portável com o uso do Boost, que é uma solução portável bem interessante.
-
-Por exemplo, a manipulação de arquivos e diretórios não é lá o forte da STL, concentrada no conceito de streams. Com o uso do Boost, podemos ter o melhor da STL, só que turbinada. Além disso, o novo padrão de threads ainda está longe de chegar ao mercado, e o Boost.Threads é uma solução viável atualmente.
-
-## Técnicas de Otimização de Código por Rodrigo Kumpera & André Tupinambá
-
-Essa é a estréia de dois palestrantes de uma só vez! Como um bom complemento, voltamos ao tema de otimização, dessa vez em aspectos mais genéricos. Entre questões mais ou menos banais como otimização de laços e benchmarkers, mas que faze toda a diferença saber, teremos ainda tópicos bem avançados, como a relação de nosso código com o cachê do processador, e a tão-falada técnica de branch prediction, presente na maioria dos processadores atuais.
-
-Além do aspecto genérico teremos uma pitada de matemática, como o uso de lookup tables e a otimização de algoritmos baseada em operações vetoriais. Ainda como um aspecto básico, mas importante, temos o uso eficiente da memória, muitas vezes entregue ao controle do sistema operacional, que nem sempre sabe bem o que o programa está fazendo.
+Ao final, a história, essa longa e quase irrelevante trama, não merece ser discutida. Escolha assistir Sense8 exatamente pelo que seu título sugere: sensações. Reflexões. Será que estamos mesmos conectados? Com um mundo onde a notícia atinge a velocidade da luz, não importa de qual aldeia indígena, a melhor pergunta seria: será que os humanos estão realmente desconectados como imaginam?
 
