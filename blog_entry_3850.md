@@ -1,246 +1,37 @@
 ---
-categories: []
-date: '2017-02-04'
-tags: null
-title: Um commit por feature
+categories:
+- cooking
+- writting
+date: '2023-05-05'
+tags:
+- movies
+- series
+- food
+- essays
+title: Um Carê da Pesada à Indiana
 ---
 
-Imagine que você vai começar a trabalhar em algo novo. Daí você baixa a última versão do branch de dev e começa a codar. Então chega um momento em que o primeiro, segundo, terceiro commits são necessários para manter a ordem em sua cabeça. "Fiz isso logo de manhã, testei algo diferente antes do almoço e de tarde fui incrementando a solução final até passar todos os testes." Tudo bonito. Mas como fica na hora de subir essa bagaça pras pessoas verem?
+Neste post eu cito Um Tira da Pesada (Beverly Hills Cops), filme icônico dos anos 80 com Eddie Murphy, uma série da Netflix chamada Casamento à Indiana, e um carê muito doido que eu fiz.
 
-Vamos visualizar isso em commits. Você baixa a última versão do dev, começa a trabalhar e de duas uma:
+Um dos desafios de fazer carê é a textura dos legumes. O ideal é que você consiga senti-los inteiros, mas não duros. Macios e tenros. Ao usar diferentes legumes como batata, cenoura, mandioquinha, eles devem ser cozidos para terem o mesmo nível de dureza. É necessário tomar conta da maciez de cada um para que um não fique mais molenga ou duro que o resto. Sim, eu tive problemas em fazer carê da última vez.
 
-1. Percebe que dá para resolver tudo em um commit só.
-2. Percebe que o buraco é mais embaixo; vou precisar de mais tempo e mais commits.
+Os legumes não cozinhavam no mesmo ritmo e eu fiz vários ajustes para conseguir o efeito sem sucesso. No final reaproveitei o carê da véspera e bati tudo junto e cozinhei mais legumes em cima. O resultado ficou bom, mas estranho. Além da textura a Mitiko reclamou do sabor inexistente. Acredito que seja este curry em pó safado que compramos. Mesmo colocando uma porção generosa ele não embala sabor nos legumes.
 
-No caso 1, a solução é simples e direta: faça as modificações, rode os testes locais e aplique o commit já no formato definido pela sua equipe (número do ticket, texto no idioma correto, detalhes nos parágrafos abaixo). Suba e mande para code review.
+Por falar em coisas indianas, Mitiko está assistindo esta série de reality sobre uma casamenteira indiana que percorre o mundo juntando casais. É diferente do Tinder, pois ela que faz o filtro. Ela é como a representante dos casamentos arranjados do passado. Ela dá conselhos aos jovens afobados que querem desistir do pretendente depois do primeiro encontro por pequenos detalhes. Ela luta para manter viva a figura do destino que une os casais, e ela é uma representante.
 
-```
-C:\Temp\projectX>git pull
-Already up-to-date.
+É divertido assistir realities porque sempre tem esse misto entre realidade e ficção. Como sempre haverá uma câmera as pessoas nunca serão autênticas, mas versões construídas para o público. Mas esta série edita bem os momentos para nos contar uma história.
 
-C:\Temp\projectX>git branch
-* dev
-  master
+Algo semelhante acontece com Um Tira da Pesada, este filme icônico dos anos 80 recheado de ótimas músicas. Eddie Murphy é a alma deste filme. Ele está fazendo seu standup no meio de um personagem. Esta comédia policial tem um charme que não envelheceu, apenas fica melhor. Não é um ritmo que o espectador irá apreciar, mais lento que o usual e com cenas batidas que todos já sabemos o final. No entanto, olhe para a construção da trama, em cadência e sem pressa. O filme não quer preencher um checklist mesmo que acabe o fazendo.
 
-C:\Temp\projectX>gvim main.cpp
+Jonathan Banks é a surpresa no casting. Fazendo as mesmas caras de seu personagem Mike da série Breaking Bad, ele tem poucas falas e expressões menos ainda. Mitiko que descobriu na primeira cena quem era. Depois ficamos observando as entradas em seu cabelo e a cara derretendo, o que já denuncia seu futuro como persona.
 
-C:\Temp\projectX>git add main.cpp
+A trilha sonora deste filme é a música de fundo agradável de quem vai na sessão de cinema se descontrair, dar algumas risadas de Murphy. A batida é muito legal e deixa o filme menos sério, mais charmoso.
 
-C:\Temp\projectX>git ci -m "ISS-4 Changing test function return type to int."
-[dev 7f0121b] ISS-4 Changing test function return type to int.
- 1 file changed, 2 insertions(+), 1 deletion(-)
+A transição da caída Detroit e a paradisíaca, rica ou megalomaníaca Beverly Hills é o ponto de partida de uma história que fala sobre quais os limites de seguirmos as regras. Há uma discussão que dá voltas pelo departamento de polícia. Aqui o problema não é corrupção policial, mas o contrário. Eles são muito quadrados. E o personagem de Murphy se diverte muito com isso. Ele escapa de várias criando personas que atendem às expectativas de suas vítimas, como fingindo ser um jornalista que irá cobrir a vinda de Michael Jackson (na época em seu auge, dá para ver pelas pessoas fantasiadas nas ruas) e consegue se hospedar em um hotelzaço. Seu Chevy caindo aos pedaços é outra piada recorrente e sempre eficiente.
 
-C:\Temp\projectX>git status
-On branch dev
-Your branch is ahead of 'origin/dev' by 1 commit.
-  (use "git push" to publish your local commits)
-nothing to commit, working tree clean
+Eddie faz um curioso par com Chris Rock quando o assunto é falar das experiências com a pobreza e a negritude. É a coisa real, não a visão branca de hoje em dia vista por negros de classe média. Por isso é leve, divertido, autêntico.
 
-C:\Temp\projectX>
-```
+Não se faz nem se fará filmes como esse. Nem poderia. Qual o sentido se o filme continua charmoso e o cinéfilo pode se divertir reassistindo? Qual a vantagem de ter comido um carê estranho sem a oportunidade de pode fazer outro?
 
-Se a política de pull request estiver sendo usada, faça isso em um branch à parte, mas já mande para o reviewer aprovar o branch como se fosse um commit apenas e de preferência pronto para o rebase (o que não deve ser nem um problema se for uma mudança pontual).
-
-```
-C:\Temp\projectX>gvim main.cpp
-
-C:\Temp\projectX>git co -b ISS-5-changing-test-return-value
-M       main.cpp
-Switched to a new branch 'ISS-5-changing-test-return-value'
-
-C:\Temp\projectX>git add main.cpp
-
-C:\Temp\projectX>git ci -m "ISS-5 Changing test return value"
-[ISS-5-changing-test-return-value 38df69c] ISS-5 Changing test return value
- 1 file changed, 1 insertion(+), 1 deletion(-)
-
-C:\Temp\projectX>git status
-On branch ISS-5-changing-test-return-value
-nothing to commit, working tree clean
-
-C:\Temp\projectX>git push origin ISS-5-changing-test-return-value
-Counting objects: 6, done.
-Delta compression using up to 8 threads.
-Compressing objects: 100% (4/4), done.
-Writing objects: 100% (6/6), 618 bytes | 0 bytes/s, done.
-Total 6 (delta 2), reused 0 (delta 0)
-To ..\projectXRemote
- * [new branch]      ISS-5-changing-test-return-value -> ISS-5-changing-test-return-value
-```
-
-### Quando o buraco é mais embaixo
-
-Quando mais de um commit é necessário é porque vai rolar a festa. Vários commits com texto e modificações temporárias podem ser feitos, e caso o trabalho vire a noite, é recomendado subir tudo para um branch temporário remoto (de preferência que já seja identificado pela equipe como o branch para determinado issue).
-
-```
-C:\Temp\projectX>git branch
-  ISS-5-changing-test-return-value
-* dev
-  master
-
-C:\Temp\projectX>git co -b ISS-6-very-hard-hacking
-Switched to a new branch 'ISS-6-very-hard-hacking'
-
-C:\Temp\projectX>gvim main.cpp
-C:\Temp\projectX>git add main.cpp
-
-C:\Temp\projectX>git ci -m "Starting to test return 42."
-[ISS-6-very-hard-hacking e09cf24] Starting to test return 42.
- 1 file changed, 1 insertion(+), 1 deletion(-)
-
-C:\Temp\projectX>gvim main.cpp
-C:\Temp\projectX>git add main.cpp
-
-C:\Temp\projectX>git ci -m "Created backup test.
-[ISS-6-very-hard-hacking 80a7f71] Created backup test.
- 1 file changed, 5 insertions(+)
-
-C:\Temp\projectX>gvim main.cpp
-C:\Temp\projectX>git add main.cpp
-
-C:\Temp\projectX>git ci -m "Deleted backup function test."
-[ISS-6-very-hard-hacking 9620226] Deleted backup function test.
- 1 file changed, 5 deletions(-)
-
-C:\Temp\projectX>gvim main.cpp
-C:\Temp\projectX>git add main.cpp
-
-C:\Temp\projectX>git ci -m "Screwing around."
-[ISS-6-very-hard-hacking 18d3afa] Screwing around.
- 1 file changed, 2 deletions(-)
-
-C:\Temp\projectX>gvim main.cpp
-C:\Temp\projectX>git add main.cpp
-
-C:\Temp\projectX>git ci -m "Getting old version back."
-[ISS-6-very-hard-hacking f2a63d1] Getting old version back.
- 1 file changed, 2 insertions(+)
-
-C:\Temp\projectX>gvim main.cpp
-C:\Temp\projectX>git add main.cpp
-
-C:\Temp\projectX>git ci -m "Small fix after unit tests."
-[ISS-6-very-hard-hacking e612339] Small fix after unit tests.
- 1 file changed, 1 insertion(+), 1 deletion(-)
-
-C:\Temp\projectX>git log --oneline
-e612339 Small fix after unit tests.
-f2a63d1 Getting old version back.
-18d3afa Screwing around.
-9620226 Deleted backup function test.
-80a7f71 Created backup test.
-e09cf24 Starting to test return 42.
-7f0121b ISS-4 Changing test function return type to int.
-97222ec ISS-3 Testing something new.
-49d28aa ISS-2 Insertind comments and whatever.
-bff8edf ISS-1 First version.
-```
-
-Agora nós criamos uma bela duma bagunça, mas em um branch apartado e que ainda não foi enviado para pull requet ou inserido no branch de dev. Agora chega a hora de arrumar a casa. Para isso, como tudo no git, há várias maneiras, mas a mais direta é um rebase interativo (-i), onde você pega os commits e empacota tudo junto.
-
-(Obs.: se sua modificação demorou algum tempo é melhor atualizar o branch de dev para ver se há algo novo e fazer o merge com o branch de feature; o rebase daí não encontrará conflitos.)
-
-```
-C:\Temp\projectX>git merge dev
-Already up-to-date.
-
-C:\Temp\projectX>git rebase -i dev
-```
-
-Nesse momento o git irá abrir o editor com os commits trabalhados. Você deverá escolher quais operações fazer com cada commit. Se o objetivo é empacotar tudo, geralmente é pick no primeiro e squash em todos os outros:
-
-```
-pick e09cf24 Starting to test return 42.
-squash 80a7f71 Created backup test.
-squash 9620226 Deleted backup function test.
-squash 18d3afa Screwing around.
-squash f2a63d1 Getting old version back.
-squash e612339 Small fix after unit tests.
-```
-
-Ao final da operação mais uma vez o git irá exibir o editor. Agora é hora de você escolher o texto bonitinho, formatadinho, do seu único commit que será usado no branch de dev. Em outras palavras, transformar isso:
-
-```
-# This is a combination of 6 commits.
-# The first commit's message is:
-
-Starting to test return 42.
-
-# This is the commit message #2:
-
-Created backup test.
-
-# This is the commit message #3:
-
-Deleted backup function test.
-
-# This is the commit message #4:
-
-Screwing around.
-
-# This is the commit message #5:
-
-Getting old version back.
-
-# This is the commit message #6:
-
-Small fix after unit tests.
-```
-
-Nisso:
-
-```
-ISS-6 A very hard hacking, tested and ready to merge.
-
-This hack involved several operations:
- - Starting to test return 42.
- - Created backup test.
- - Deleted backup function test.
- - Small fix after unit tests.
-```
-
-Agora na hora de fazer o merge seu histórico estará redondo, sem ramificações e com o resultado final de seu hacking parecendo que foi feito bonito desde o começo (ah, vá):
-
-```
-C:\Temp\projectX>git log
-commit b4de47231f090e897053f4e9d19ea66c88d1f1fa
-Author: Wanderley Caloni <wanderley.caloni@bitforge.com.br>
-Date:   Sat Feb 4 10:59:18 2017 -0200
-
-    ISS-6 A very hard hacking, tested and ready to merge.
-
-    This hack involved several operations:
-     - Starting to test return 42.
-     - Created backup test.
-     - Deleted backup function test.
-     - Small fix after unit tests.
-
-commit 7f0121baac183eb1a832575781cca5d6e6a5489c
-Author: Wanderley Caloni <wanderley.caloni@bitforge.com.br>
-Date:   Sat Feb 4 10:51:54 2017 -0200
-
-    ISS-4 Changing test function return type to int.
-
-commit 97222ec4578f9a4bced847266739b18f933178f3
-Author: Wanderley Caloni <wanderley.caloni@bitforge.com.br>
-Date:   Sat Feb 4 10:50:29 2017 -0200
-
-    ISS-3 Testing something new.
-
-commit 49d28aa7faa02ff327ae9fac93676abad18ad0f3
-Author: Wanderley Caloni <wanderley.caloni@bitforge.com.br>
-Date:   Sat Feb 4 10:49:26 2017 -0200
-
-    ISS-2 Insertind comments and whatever.
-
-commit bff8edf06e4a30480088a9a33c9b0c2ca5b6e0b3
-Author: Wanderley Caloni <wanderley.caloni@bitforge.com.br>
-Date:   Sat Feb 4 10:47:11 2017 -0200
-
-    ISS-1 First version.
-```
-
-### O que aprendemos aqui
-
-Esta é uma das inúmeras formas de trabalhar com o git de maneira individual sem atrapalhar seus colegas. Basicamente você pode escolher outras estratégias de commits e branchs locais, mas através do comando rebase -i é possível sempre reorganizar a bagunça em commits comportados, e dar a impressão que esses programadores são enviados divinos que modificam o fonte e acertam de primeira.
+É, talvez casar felizes para sempre possa ser reavaliado depois que conversamos sobre filmes imutáveis e carês em constante progresso.
 

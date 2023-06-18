@@ -1,22 +1,16 @@
 ---
 categories:
 - writting
-date: '2019-07-29'
-link: https://www.imdb.com/title/tt8443704
+date: '2015-01-26'
+link: https://www.imdb.com/title/tt0119310
 tags:
 - movies
-title: Querido Ex
+title: Querida, Encolhi a Gente
 ---
 
-Dear Ex é uma dramédia de Taiwan falada em mandarim filmada em torno de uma estrutura inicial de comédia romântica misturada com novela, mas em seu núcleo esconde a oportunidade de atuações premiadas em uma narrativa que amadurece rapidamente depois que a criança insuportável que começa a história é posta de escanteio.
+Parece demais um filme inteiro com a ideia de mostrar como as crianças conseguem se virar sozinhas sem a presença dos pais. Ainda mais por se tratar de uma continuação da continuação e tentar reciclar velhas ideias da série usando os mesmo efeitos que hoje já se pode notar algumas marcas do passado. E isso em um filme de 97!
 
-Dirigido pela dupla de tailandeses estreantes (no cinema) Mag Hsu e Chih-Yen Hsu, este é um filme cansativo no seu início, pois lembra aqueles trabalhos esquecíveis sobre o drama da separação, da morte, e da pobreza financeira e de espírito. O garoto Jay é órfão de pai há 95 dias e sua mãe está furiosa porque o beneficiário de seu seguro de vida está no nome do seu amante pelo qual ele abandonou a família. Jay é interpretado de uma maneira tão apática pelo ator Roy Chiu que os cineastas são obrigados a editar o filme com desenhos para tornar o resultado mais palatável até chegarmos onde importa.
+A conclusão, portanto, é que Querida, Encolhi a Gente, lançado direto para vídeo, é daqueles filmes caça-níqueis que adota um roteiro preguiçoso e faz com que os pais das crianças sejam encolhidos acidentalmente não com um, mas com dois objetos (iguais) que caem no botão que aciona a máquina. Oportunista do começo ao fim, monta um trajeto que envolve os adultos-mirim descendo em uma isca de pesca, "pilotando" um carrinho de brinquedo por uma pista que envolve loops e saltos, caindo em um monte de roupa e voando dentro de bolhas de sabão. Tudo isso coloca em dúvida as reais intenções do personagem de Rick Moranis, supostamente um gênio: ele quer salvá-los ou encontrar a maneira mais divertida de deixar seus filhos órfãos?
 
-E onde importa é quando a viúva Liu Sanlian e o ex-amante Song Chengxi se digladiam com gestos e palavras, geralmente à distância. Note como a linda atriz Ying-Xuan Hsieh envelhece e realiza a transformação de caricatura para ser humano em poucos passos. Enquanto isso, Spark Chen interpreta Song Chengxi como alguém já habituado a ser julgado pela sua orientação sexual e escolhas financeiramente instáveis da vida.
-
-É fácil ter empatia por esse personagem que é uma versão masculina (ou feminina? ou masculina?) de Uma Mulher Fantástica: ele não importuna ninguém e nem sabia que havia dinheiro em sua conta por conta de ter vivido os últimos anos com seu amor. Por isso que a insistência idiota em tornar o garoto Jay um pilar dessa história, se questionando insistentemente em sua cabeça se o ex-amante de seu pai é que é o cara mau, cansa e sem motivos de o ser. Exceto, talvez, uma possível insegurança dos idealizadores do projeto sobre a resposta que os espectadores asiáticos teriam com relação a um personagem gay que é moralmente virtuoso, já que a região não costuma ser tão tolerante a diversidade quanto o Ocidente.
-
-De qualquer forma, Dear Ex consegue harmonizar a manipulação barata com a boa-vinda do seu Drama (com D maiúsculo), onde tira-se as crianças da sala e se converge toda a novela para momentos mágicos de atuação e edição, que através de flashbacks constroem uma narrativa fabulosa, ligando os pontos do passado nas consequências do presente, fazendo que a todos os espectadores seja revelado quem realmente são essas pessoas.
-
-Sua única falha é que os personagens do filme não são espectadores, não estão assistindo a este magnífico filme, e não têm como serem tocados por ele. Detalhes de roteiro.
+O mais decepcionante, porém, é que em nenhum momento o longa está olhando ou buscando situações que lembrem vagamente algo espontâneo. Com uma história que força situações cada vez mais inverossímeis (que o diga uma certa Senhora Aranha), o filme cobra do espectador uma suspensão de descrença -- o contrato com o espectador de fingir que aquele mundo é real -- alta demais.
 

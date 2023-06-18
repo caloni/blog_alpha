@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-12-30'
+date: '2018-11-21'
 tags:
 - beer
-title: Minerva Viena de Guadalajara
+title: Minerva artesanal do México
 ---
 
-É uma cerveja artesanal mexicana que vende dentro do aeroporto da Cidade do México. E não é aguada, é bem saborosa enquanto leve.
+É uma draft de corpo médio pra fraco com final de café por causa do malte tostado. Fica bom com nachos do lugar onde comemos no aeroporto.
 

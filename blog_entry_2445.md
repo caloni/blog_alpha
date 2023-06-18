@@ -1,12 +1,18 @@
 ---
 categories:
 - writting
-date: '2021-06-12'
-link: https://www.imdb.com/title/tt5373222
+date: '2017-10-16'
+link: https://www.imdb.com/title/tt4131800
 tags:
-- animes
-title: My Wife Is the Student Council President!
+- movies
+title: 'My Little Pony: O Filme'
 ---
 
-Comédia do absurdo. A linguagem se solta um pouco além da lógica. Há um teatro não-relacionado com a história e uso de enquadramentos e posições diferentes, proporções propositadamente exageradas. Os traços são imaginativos, unindo o exploitation de belas curvas de colegiais com uma pegada mais cartunesca, o que permite momentos fofinhos, e tudo funciona bem porque é muito bem feito. Lembra vagamente trabalhos da Trigger como Kill La Kill e Patrulha Espacial Luluco em alguns aspectos, mas não é a mesma coisa. Junto uma pegada que lembra o clima solto de Epic Pop Team, mas sem o anarquismo completo. É uma mistura de fato, não é original, mas consegue ser divertido com o que oferece.
+"My Little Pony: O Filme" continua sendo tudo que os fãs de My Little Pony poderiam querer mais um pouco. E estou falando até dos fãs adultos da série de animação. Applejack, Rainbow Dash e suas amigas continuam usando o poder da amizade para enfrentar todos os perigos e transformar seus inimigos em leais aliados.
+
+Tudo isso, contudo, não faz muito sentido na narrativa épica onde as princesas são congeladas, para que ao juntar todas, elas transformem um cajado de um vilão das trevas que irá lhe dar todo o poder para fazer maldades. No caminho para a solução as poneizinhas que já conhecemos encontram pilantras, piratas e até míticos hipogrifos para salvar o reino de Equestria (e todos os outros reinos). Apenas com o poder da amizade esses cavalinhos em miniatura conseguem transformar todos os corações. Talvez meu coração esteja duro demais, mas não se engane: eu também entendi o poder da amizade durante o filme =)
+
+A questão é que não há muito suspense, nem sustos, em uma versão em longa metragem do que já vimos no seriado. Todos os conflitos são rapidamente resolvidos, para que as crianças não tenham medo de dormir à noite. Apenas um bebê chorou durante minha sessão. As crianças estavam entretidas com as piadinhas espirituosas dessa turma divertida.
+
+E como não se entreter? Elas vão narrando o que vai acontecendo na história de maneira bem-humorada. O uso de metalinguagem é a desculpa de My Little Pony para não precisar se esforçar muito e contar alguma história original, mas apenas deixar as meninas seguir um roteiro de video-game e... adivinhem: voltar para casa sãs e salvas. Ao bom som de uma Sia transformada em pônei.
 

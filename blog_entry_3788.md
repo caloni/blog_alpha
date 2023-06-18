@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2016-04-08'
+date: '2016-11-18'
 tags:
 - food
-title: Três Corações Tradicional
+title: Três Corações Extra Forte
 ---
 
-Amargor desagradávell; difícil de engolir.
+Bem oleoso, mas com um amargor curiosamente melhor que o Tradicional. Oleoso, é o melhor custo/benefício do mercado.
 

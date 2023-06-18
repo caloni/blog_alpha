@@ -1,16 +1,24 @@
 ---
 categories:
 - writting
-date: '2017-03-21'
-link: https://www.imdb.com/title/tt0414993
+date: '2017-05-28'
+link: https://www.imdb.com/title/tt4276820
 tags:
 - movies
-title: Fonte da Vida
+title: Fome de Poder
 ---
 
-Darren Aronofsky em Noé nos apresenta uma visão gnóstica da Bíblia e das crenças antigas, mas esse é apenas um pedaço da ambição desproporcional vista em Fonte da Vida, um filme que tenta sem sucesso (felizmente) unir ciência e misticismo em uma busca por conhecimento que ultrapassa limites da realidade, seja através da ficção de um romance espanhol ou pela abstração de nossa própria vida na Terra através de um sábio solitário tentando descobrir a combinação que nos trará vida eterna.
+Esta é a história do primeiro fast-food do mundo, o famigerado McDonald's, ou a história de como uma rede de restaurantes se torna um império imobiliário. Todos os eventos baseados em fatos reais está disponível em "The Founder", ou a péssima tradução "Fome de Poder", com um tom excessivamente dramático e com a alma de um Michael Keaton que desde Birdman (ou Beetlejuice?) usa seu ego fora de controle para papéis megalomaníacos.
 
-E a busca por esse elixir mágico já encontrou muitos heróis de nossa história. A forma com que Fonte da Vida nos apresenta esse dilema ultrapassa a questão narrativa, mas ao mesmo tempo une três histórias diferentes através de seu tema, e de maneira muito semelhante com A Viagem (Cloud Atlas, Irmãos Wachoswki) há uma prioridade maior em esmiuçar as diferentes formas de ambicionar pela vida eterna, ou pela paralisação do processo de morte, do que de fato se preocupar com seus personagens.
+Aqui ele representa o espírito americano do empreendedorismo sob a ótica de uma geração pós-crise 2008 de socialistas acostumados a rotular qualquer tentativa de progresso individual como capitalismo selvagem. O resultado é o roteiro de Robert D. Siegel, que cria um interessante debate entre a forma visceral do americano enxergar a dicotomia sucesso/fracasso e também a maneira distorcida e irônica dos valores familiares.
 
-Porém, este é mais um filme do diretor com uma pessoa obstinada e obcecada que dá tudo de si para alcançar seu objetivo. Aliás, os personagens: Tomas, Tommy, Tom. Os personagens de Hugh Jackman estão em busca não apenas da vida, mas do amor, e nessa relação dúbia entre o que é viver. Note como todos os simples elementos manifestados como símbolos no filme -- a tinta, o papel, a árvore, a estrela e o ser humano e um país morrendo -- vão constantemente aparecendo em pares que se unem para contar as três histórias de maneira intercalada, mas nunca deixando cair a peteca do tema. É o tema que está em jogo, e para isso o igualmente obstinado diretor (e roteirista) persiste em alcançar a melhor forma de mostrá-lo.
+Este é um filme que certamente irá mexer com seus conceitos de mocinho e bandido, o bem e o mal, e irá te deixar com a pulga atrás da orelha sobre se esta é uma versão por encomenda da própria corporação cuja história vemos na tela. Há um quê de aura divina e sagrada na forma como esta não-tão-surpreendente história é contada, e o filme faz de tudo para transformar qualquer um dos seus personagens da vida real em ícones ou gênios. Os irmãos Dick e Mac revolucionaram o setor de restaurantes com sua ideia de linha de produção ao estilo Henry Ford, montada em uma quadra de tênis por seis horas. O vendedor frustrado Ray Kroc é a força motriz que conseguiu escalar um negócio do interior. Ele resume seu sucesso em uma palavra: persistência.
+
+E se observarmos o personagem de Michael Keaton de perto veremos que persistência é a única coisa que ele possui de fato. Sua forma de encontrar uma solução para o problema de qualidade em "seu" negócio percorreu o velho caminho da tentativa e erro dos mais persistentes, e nas suas incursões ao banco ele acaba tendo a sorte de encontrar um consultor financeiro. De certa forma esta é uma história impressionante, mas o exagero do diretor John Lee Hancock em tentar fazê-la voar, aliada a uma edição frenética, que corre contra o tempo e contar toda a história em menos de duas horas, gera um filme tenso, atribulado e que atropela tudo em sua frente. Hancock tenta criar momentos icônicos sem ter muito material para isso. O resultado é exagerado demais, mas funciona graças à cativante história.
+
+Michael Keaton está fora de controle, e seu sorriso enfurecido, seus maneirismos com as mãos e seu jeito canastrão tornam difícil entender como é que os irmãos Dick e Mac assinaram qualquer coisa com esse cara. Por outro lado, é difícil entender de onde veio a inspiração genial desses irmãos, especialmente Dick, já que há um trabalho de engenharia de dois empreendedores particularmente tocante, e que mereceria uma revisita prévia antes que eles conhecessem Mr. Kroc, em vez de um jantar onde cortes rápidos explicam em cinco minutos de onde essas duas mentes empreendedoras e engenhosas vieram.
+
+Por outro lado, há figuras caricatas como a esposa de Ray, interpretada por Laura Dern com uma melancolia e apatia prontas para transformá-la em uma caricatura prestes a ser deixada. E isso não torna Linda Cardellini uma figura menos caricata. Vista como o que faltava à visão egocêntrica de mundo de Ray Kroc, Cardellini é a mulher perfeita dos anos 60 para empresários obcecados com sucesso e mulheres que se dediquem aos sonhos de seus maridos.
+
+"The Founder" é uma experiência pitoresca de volta aos anos 50 sob uma repaginada que em vez de congratular automaticamente qualquer tentativa de sucesso, observa com olhares críticos por que alguns homens de sucesso encontram esse sucesso. Persistência pode ser a palavra-chave de discos de auto-ajuda da época, mas há algo mais intenso que está sendo visto com maus olhos: o desejo de ganhar a qualquer custo.
 

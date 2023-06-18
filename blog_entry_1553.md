@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2011-10-16'
-link: https://www.imdb.com/title/tt2006109
+date: '2019-04-29'
+link: https://www.imdb.com/title/tt0359254
 tags:
 - movies
-title: Família Vende Tudo
+title: Família Rodante
 ---
 
-É fato que Lima Duarte está no estado de gênio, e cada novela que participa é um desperdício do Cinema. Semelhantes comparações podem ser feitas em boa parte do elenco de Família Vende Tudo, novo longa de Alain Fresnot. Este é um filme adiado em suas interpretações, por mais que não façam sentido ou soem deslocadas. E é aí que temos outro indício de desperdício, dessa vez no próprio Cinema: a capacidade de vender uma ideia divertida e fácil em uma história que sequer consegue chegar a uma conclusão sobre seu assunto central, e que desperdiça interpretações primorosas em um projeto sem pé nem cabeça.
+Pablo Trapero nos entrega a experiência completa do que era uma família no tempo de nossos pais/avós. (Era, porque a família foi destroçada pelos marxistas culturais.) Todos os elementos estão no filme. As fotos inapropriadas que servirão para os mais velhos alimentarem suas memórias. O amor juvenil entre primos e as traições, que fazem rima com as declarações de amor eterno dos noivos. A matriarca e suas opiniões antiquadas, que soam familiares e por isso não conseguimos simplesmente dizer que ela está errada. Quem diria isso para a própria mãe ou avó?
 
-O filme, em uma forte introdução de seus personagens, mostra a família-título em sua luta diária para sobreviver, comprando mercadorias no Paraguai e revendendo-as em São Paulo, ambas atividades ilegais e que acabam por deixar a situação financeira dessas pessoas, que já não era nada boa, uma calamidade, quando perdem tudo em uma barreira policial e em um arrastão da fiscalização.
+Este é um road movie do começo ao fim. Depois de muito tempo sem se verem, em uma reunião a vovó recebe a notícia que sua sobrinha irá se casar e que ela foi escolhida como madrinha. Ela emocionada declara que todos irão para a festa, e ninguém consegue dizer não para a anciã próxima do fim da vida com felicidade nos olhos. Ao mesmo tempo ela sabe que não será uma viagem fácil, o que faz sua pressão subir.
 
-Para tentar obter rapidamente o retorno do que foi perdido, o patriarca da familia (Duarte) tem uma ideia brilhante: fazer com que a filha engravide de um famoso cantor de música popular (Ciocler) e receba uma indenização por ter aliciado uma jovem "de menor". Detalhe que essa ideia foi inspirada em um dos testemunhos da igreja que seu filho frequenta (uma divertida participação de Marisa Orth).
+A viagem feita em um trailer parte de Buenos Aires para o extremo norte do país, na província de Misiones, quase em Foz do Iguaçu, o rio à frente demarcando o limite com o território brasileiro. A paisagem inicia desértica com avestruzes em volta da estrada e vai ficando um verde vivo e ao mesmo tempo saudosista, daquelas fotos de anos 70 ou 80 de passeios pelo campo. O motorista é o orgulhoso e mal-humorado Tio Gordo (e toda família tem um tio gordo... eu tinha), que não deixa ninguém mexer em seu trailer e que olha para o cunhado com um misto entre desconfiança e desprezo.
 
-Se, por um lado, mostrar a pobreza e a malandragem de uma família que tenta fazer de tudo para se dar bem rende boas e divertidas risadas (mais graças às interpretações do que às próprias piadas, que em geral soam de mal gosto e despropositadas), por outro lado não conseguir se firmar como comédia ou drama (ou até mesmo romance!?) durante o terceiro ato transforma a cambaleante experiência em um desastre total.
+Há a bordo um casal de primos e uma amiga. A tensão sexual vista pelos olhos de Trapero sempre é sensual ao mesmo tempo que natural. E lindo. O contraste entre as gerações é um assunto recorrente, que o filme consegue abordar simplesmente mostrando as interações entre essas pessoas e como cada uma reage aos acontecimentos da viagem.
 
-É uma pena, portanto, que Lima Duarte, Vera Holtz e tantos outros se vejam vendidos em um projeto como esse, que mais uma vez demonstra o despreparo de idealizadores influenciados muitas vezes pelas nossas famigeradas novelas em abordar temas tão sensíveis com tanto despudor.
+O garoto mais novo da família acha um cachorro em um posto e o adota. Vemos a mãe dele lavando o pobre coitado dentro do vaso sanitário do trailer. A vovó, sempre com calor, reclama a viagem inteira. Quem tem pessoas mais velhas na família irá se identificar muito. Aliás, toda a viagem é a vida inteira em família resumida em um fim-de-semana.
+
+Este é um filme que usa o naturalismo de suas situações e tem a vantagem de um diretor obcecado pelo controle da câmera, entregando o melhor de dois mundos: uma história que evoca a vida real com um filtro estilizado que torna aquela pobreza das situações de uma beleza bucólica. Nunca se torna enfadonho, sempre está preocupado em mostrar a evolução das histórias paralelas e de seus personagens. Acompanhamos oito, nove pessoas e depois de dois dias as conhecemos como se fizessem parte da família.
 

@@ -1,26 +1,20 @@
 ---
 categories:
 - writting
-date: '2017-08-06'
-link: https://www.imdb.com/title/tt5541240
+date: '2018-12-08'
+link: https://www.imdb.com/title/tt7255502
 tags:
-- movies
-title: O Mínimo Para Viver
+- series
+title: O Método Kominsky
 ---
 
-Mais um drama da Netflix que usa o seu formato já usado em trabalhos como The Fundamentals of Caring (Amizades Improváveis no IMDB). Há uma pessoa que vive com dificuldades, as famílias e desconhecidos em volta, o Keanu Reeves porque sim (o bom é que ele já ganha a graninha do metrô) e um filme leve demais para conseguir causar qualquer comoção ou profundidade no tema que quer abordar.
+Essa nova criação de Chuck Lorre (Big Bang: a Teoria, Dois Homens e Meio) consegue elencar os excelentes Michael Douglas e Alan Arkin em plena forma, mas não parece dar lhes personagens dignos de suas performances. A série não parece muito certa de si se pretende seguir uma linha mais humorística ou dramática. Com certeza não consegue fazer os dois. Isso é para poucos, e do jeito que está o piloto já parece uma bagunça.
 
-O tema é anorexia. A menina principal já foi internada algumas vezes, tem pais separados, foi abandonada pela mãe que casou com outra mulher, vive com sua madrasta, pai sempre ausente e sua meia-irmã com bochechas rosadas.
+Douglas faz um professor de atuação com seu próprio método, que leva seu sobrenome e que vira o título da série. Não está muito claro qual seu arquétipo: ele é um perdedor que se alimenta de alunas? Talvez. Mas ele parece um ótimo professor quando o vemos ensinando uma delas a atuar sendo ela mesma. Então não cabe a comédia.
 
-Ela é magra, super-magra, e vem piorando. Ela não consegue comer, mas é bonita e artista. Uma de suas pinturas foi motivo para uma de suas fãs do seu Tumblr se matasse (sempre o Tumblr). Ela agora é internada em mais uma instituição. Essa dessa vez é regida pelo Keanu Reeves, então sabemos que vai dar tudo certo dessa vez.
+Já Arkin consegue com seu pouquíssimo tempo de tela emocionar sem manipular. Ele é apenas o marido de décadas com uma esposa que padece de uma doença incurável que a vai levando aos poucos. E ele não precisa de muitos diálogos para se abrir ao público.
 
-Ou talvez não. Você não vai imaginar como a expressão de Reeves anda tão abatida ultimamente.
+Alan Arkin é desses atores coadjuvantes que não estão no papel principal por incapacidade, mas por serem tão bons no que fazem que precisam de apenas alguns momentos diante das câmeras. Ele diz as falas de Lorre de maneira tão carismática que o efeito vai muito além de meramente engraçadinho. Lorre parece se contentar com a comédia e o drama fácil. Arkin não consegue evitar dizer muito além do seu papel apenas com suas expressões no rosto, sua dicção, sua garganta rasgada em um misto de emoção e frustração. Arkin é um tratado sobre como atuar em minimalismo. Lorre é um panfleto publicitário.
 
-O filme dirigido e escrito por Marti Noxon (Buffy: A Caça-Vampiros) coloca Lily Collins como Ellen, a menina artista sem graça um tanto depressiva e sem muita capacidade de empatia pelo espectador. Ela é simplesmente um ser humano que não sabe por que não consegue comer. Enquanto isso visitamos diferentes pacientes da instituição e seus dramas, cada um lidando do seu jeito, mas nenhum deles aparentemente melhorando.
-
-A intenção do filme é óbvia: dizer que as coisas não são tão simples quanto parecem. Esse é um lado bom da história. Ela também consegue te cativar, a despeito da protagonista, graças ao irritante e esquecível Luke (Alex Sharp). A tarefa de Sharp é aparentemente impossível, pois ele precisa não roubar o protagonismo de uma Collins quase completamente apática e inexpressiva, enquanto apesar de sabermos pouco sobre sua derrocada no balé, é o suficiente para despertar mais simpatia.
-
-Porém, sejamos justos. Ninguém é muito apetitoso falando de atuações, e Reeves é a cereja do bolo. Esperamos ansiosamente por alguns bons momentos de uma boa história, mas cozido a fogo médio, o filme de Noxon nunca chega a nos premiar com algum momento muito profundo, preferindo discorrer em um ambiente realista sobre os motivos que tornam uma pessoa anoréxica, e como fazê-la sair dessa situação.
-
-Qual o mínimo para viver quando a vida não faz muito sentido? Talvez nada. O que justificaria um final menos feliz por aqui. Infelizmente, as pessoas possuem esperanças sem motivo, mesmo.
+Não é preciso dizer que Lorre está analisando o processo criativo e o que faz sucesso na TV, dando como "desculpa" o fato de ter criado e produzido The Big Bang Theory, sucesso de audiência, o que o permitiria agora fazer algo mais intimista, mesmo correndo o risco de pouco público. Bom, ele está na Netflix, que não libera dados de audiência. São episódios curtos, é só dar play e ver meia-hora de dois mestres em atuação trabalhando com material limitado.
 

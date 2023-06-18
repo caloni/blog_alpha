@@ -1,33 +1,20 @@
 ---
 categories:
-- playing
-date: '2023-01-12T21:21:37-03:00'
-link: https://www.chess.com/game/daily/321199162
+- writting
+date: '2015-12-31'
+link: https://www.imdb.com/title/tt2637276
 tags:
-- chess
-title: Tem um lance brilhante aqui e não imagino por quê
+- movies
+title: Ted 2
 ---
 
-Negras jogam.
+Personagens tão carismáticos em um filme tão disposto a comprar a ideia de um urso de pelúcia com vida adulta não poderia gerar uma continuação mais chata, mecânica e automática das comédias pastelonas.
 
-{{< image src="board.jpeg" >}}
+Seth MacFarlane é criador, diretor, roteirista e dublador de Family Guy, uma animação para adultos que segue o modelo de comédia sitcom, onde os atores piscam para a "audiência" e há piadas deslocadas todo o tempo. Aparentemente sem ter ideia de como continuar o ótimo primeiro roteiro de Ted, esse segundo filme é uma réplica do modelo de Family Guy (sem contar que MacFarlane dubla o ursinho com a voz do protagonista da série, nos distraindo constantemente com a imagem de Peter McGriffin).
 
-```
-[Event "Let's Play!"]
-[Site "Chess.com"]
-[Date "2021.03.21"]
-[White "cavaloni"]
-[Black "fssantana"]
+Mas não me levem a mal: há piadas deslocadas, de baixo calão e politicamente incorretas, e isso às vezes é bom, pois elas são muito, muito engraçadas. Porém, isso por si só não desculpa ou compensa pela total falta de estrutura e lógica de sua história principal, que tenta provar nas cortes americanas que Ted é um indivíduo com direitos, nos mesmos moldes com que os negros escravos tiveram que fazer (e não conseguiram), só que com muito menos sangue e com muito menos "appealing" (ou talvez na época não houvesse também tanta comoção pelos imigrantes africanos, vai saber...).
 
-1. e4 c5 2. Nc3 d6 3. Bb5+ Nc6 4. d3 a6 5. Bxc6+ bxc6 6. Bg5 f6 7. Bh4 $6 e5 8.
-f4 Be7 $6 9. f5 Nh6 10. Qh5+ Nf7 11. Nf3 d5 12. O-O-O $6 d4 13. Ne2 $6 Qa5 14. a3 $6
-Qa4 $6 15. Nd2 Rb8 $6 16. Nc4 $1 a5 17. Be1 Ba6 18. b3 Qb5 19. a4 Qb7 20. Nxa5 Qb6
-21. Nc4 Qc7 22. h4 O-O 23. Bd2 Nd6 24. Nxd6 Bxd6 25. Qg4 c4 26. dxc4 Bxc4 27.
-Bc3 dxc3 28. Nxc3 Ba3+ 29. Kd2 Qa5 30. bxc4 Rbd8+ 31. Ke2 Qxc3 $1 32. Kf1 $2 Bc5 33.
-Qe2 Rxd1+ 34. Qxd1 Qxc4+ $4 35. Qd3 Qxa4 36. Ke2 Bb6 $6 37. Qb3+ $6 Qxb3 $1 38. cxb3
-Rd8 39. Rc1 c5 40. Rd1 Rd4 41. Rxd4 cxd4 42. h5 g6 43. h6 $6 gxf5 44. exf5 e4 45.
-b4 d3+ 46. Kd2 Bd4 47. b5 Kf7 48. Ke1 Ke7 {<br /><br />Game may have
-continued...} (48... Ke7 49. Kd2 Kd6 50. b6 Bxb6 51. Kc3 Ke5 52. Kb4 Ba5+ 53.
-Kxa5 {-13.3}) 0-1
-```
+Se em um dado momento o argumento da advogada que os ajuda (Amanda Seyfried, que está no filme até para ser comparada com o Gollum do Senhor dos Anéis) é pautada na lógica e razão, usando termos filosóficos certeiros como autoconsciência e capacidade de sentir amor, o advogado que apela para criação divina está algumas décadas deslocado da discussão, mas mesmo assim ganha facilmente. Isso parece quase uma trolagem do que ocorre quando Morgan Freeman entra em cena (sem querer esmiuçar os detalhes), mas dá a impressão que as participações especiais do filme conseguem distrair ainda mais que a dublagem de McFarnale.
+
+Tentando concluir sua "trama" com novamente a perseguição do original, além de incluir aí um evento de nerds para atrair o seu público pseudo-inteligente, Ted 2 só não fica pior graças, novamente, a seus heróis, que continuam divertidos à sua maneira juvenil e imatura de ser.
 

@@ -1,23 +1,45 @@
 ---
 
-Human Flow é um documentário em seu formato clássico. Provavelmente as 300 horas de filmagens do projeto servirão de acervo sobre a grande imigração de nosso tempo. E provavelmente as pouco mais de duas horas de filme serão lembradas dessa forma, também.
+The biggest advantage running an application as a service, interactive or not, is to allow its start before a logon be performed. An example that happens to me is the need of debugging a [GINA]. In order to do this, I need the Visual Studio remote debugger be started before logon. The easiest and fastest solution is to run Msvcmon, the server part of debugging, as a service.
 
-Isso porque o diretor Ai Weiwei, homenageado desta quadragésima-primeira Mostra Internacional de Cinema de São Paulo, não está dirigindo através de um filtro autoral. O que é curioso, já que Weiwei é ele próprio, podemos dizer, um imigrante. Foragido de seu país natal, ele é um refugiado na Alemanha, que ironicamente é o destino final de milhões de refugiados que chegam na Europa todos os anos pelo Mar Mediterrâneo. Mas infelizmente as fronteiras estão fechadas para esses povos.
+Today I've figured out a pretty interesting shortcut to achieve it.
 
-Human Flow trata bastante sobre refugiados, mas seu núcleo tenta ser mais amplo. É sobre migração humana. A larga escala em que ela acontece hoje em dia, seja por guerras, fome, miséria, ou até melhores oportunidades, foi o elemento-chave que fez com que Weiwei se aventurasse em contar essa história em escala global, em mais de 20 tribos temporárias espalhadas em áreas neutras do globo.
+An [Alex Ionescu article] talks about this command line application used to create, initiate and remove services. Even not being the article focus, I found the information pretty useful, since I didn't know such app. Soon some ideas starting to born in my mind:
 
-O filme vai capturar seu senso estético desde o começo. Usando uma fotografia límpida de regiões com paisagens diversas e estonteantes, o filtro da realidade aqui é quase nenhum. Pelo menos no que diz respeito às cores. Elas são vivas vindas de um trabalho que lembra programas da National Geographics e possui tomadas que lembram os noticiários do dia-a-dia. Isso até atrapalha um pouco a dramatização, já que a beleza dos lugares por onde passamos não contrasta com a realidade humana por aqueles lados, mas a complementa. Isso porque muitos fogem de um mal invisível. As pessoas possuem abrigos, dizem, de má qualidade. Mas apenas dizem. Nunca vemos nada de fato alarmante.
+> "What if I used this guy to run notepad?"
 
-O que nos leva para a investigação de quais seriam as reais intenções de seu criador. Filmado muitas vezes com o diretor dentro do quadro, segurando sua câmera, ele vira uma persona, ou se personifica, contando uma história que arrisca ter um herói (o diretor refugiado dirigindo bravamente um filme), o que soa como o exato oposto de uma brincadeira no filme, quando ele propõe a um refugiado anônimo de trocarem passaportes. "Respeito", ele diz, como se respeitasse a situação dessas pessoas. Mas as histórias não batem aqui. Weiwei se enxerga como figura pertinente na paisagem dos refugiados mais do que os próprio refugiados.
+Well, the Notepad is the default test victim. Soon, the following line would prove possible to run it in the system account:
 
-Outro fator estético marcante deste filme é sua trilha sonora. Naturalmente minimalista, nunca tenta exaltar os acontecimentos na tela, mas acompanhá-los de maneira reflexiva, solene e perene. Juntos, som e imagem realizam um passeio por cima e em torno de pessoas. Vê-las de cima frequentemente as transformam em curiosidades do planeta, meros adornos cuja função é exaltar a poesia da situação, ainda que trágica (e o filme sugestivamente usa diversos trechos de poetas de origem no Oriente Médio).
+    sc create Notepad binpath= "%systemroot%\NOTEPAD.EXE" type= interact type= own
 
-Excessivamente longo para um filme que possui um fiapo de narrativa, Human Flow é um filme necessário. Se foi a melhor maneira de fazê-lo, não se sabe. Há um desafio implícito quando se diz "vou fazer um documentário que envolve lugares isolados em várias partes do mundo". Esse desafio foi transposto com elegência e leveza. Tanta leveza que talvez o peso da migração precária dessas pessoas ficaram no caminho. Mas quem sabe esteja no resto do material que não foi para o filme.
+However, as every service, it is supposed to communicate with the Windows Service Manager. Since Notepad even "knows" it is now a superpowerful service, the service initialization time is expired and SCM kills the process.
+
+    >net start notepad
+    The service is not responding to the control function.
+    More help is available by typing NET HELPMSG 2186.
+
+As would say my friend [Thiago], "not good".
+
+"Yet however", SCM doesn't kill the child processes from the service-process. Bug? Feature? Workaround? Whatever it is, it can be used to initiate our beloved msvcmon:
+
+    set binpath=%systemroot%\system32\cmd.exe /c c:\Tools\msvcmon.exe -tcpip -anyuser -timeout -1
+    sc create Msvcmon binpath= "%binpath%" type= interact type= own
+
+Now, when we start Msvcmon service, the process cmd.exe will be create, that on the other hand will run the msvcmon.exe target process. Cmd in this case will only wait for its imminent death.
+
+{{< image src="msvcmon-service.png" caption="MsvcMon Service" >}}
+
+[GINA]: {{< relref "gina-x-credential-provider" >}}
+[Alex Ionescu article]: http://www.alex-ionescu.com/?p=59
+[Thiago]: http://codebehind.wordpress.com
 
 ---
 categories:
 - writting
-date: '2017-07-02'
+date: '2017-10-20'
+link: https://www.imdb.com/title/tt6573444
 tags:
-- food
-title: Humberto Barberis Corte Clássico 2015
+- cinemaqui
+- mostra
+- movies
+title: Human Flow

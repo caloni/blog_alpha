@@ -1,18 +1,64 @@
 ---
-categories:
- - writting
-date: '2023-06-15'
-link: https://www.tradicafe.com/
-tags:
- - coffee
- - food
-title: Tradi Café
+categories: []
+date: '2010-12-27'
+tags: null
+title: Trabalhando em múltiplos ambientes
 ---
 
-Existe uma cafeteria pequena no mercado municipal de Poços de Caldas localizada na parte de cima. Dentro há cafezes especiais que são torrados lá mesmo no mercado. Pedi um espresso e gostei muito; equilibrado sem amargor. Acabei levando para meu amigo que iria visitar em seguida a versão mais popular, de rapadura, e levei para casa a versão doce de leite. O aroma desse café depois de moído é sensacional. Porém, na hora de beber ele é bem mais leve, com pouco corpo e lembra apenas vagamente doce de leite (os aromas de café costumam enganar).
+Existem diversas maneiras de se trabalhar com o Bazaar. Eu já [havia definido](http://www.caloni.com.br/como-estou-trabalhando-com-o-bazaar) como fazer na máquina de desenvolvedor para modificar o mesmo código-fonte em projetos paralelos, onde basicamente tenho um branch principal conectado no servidor (assim todo commit vai pra lá) e crio branches paralelos e desconectados para fazer quantos commits eu tenho vontade durante o desenvolvimento. Após todas as mudanças e testes básicos, atualizo o branch principal (com mudanças dos meus colegas) e faço o merge com o branch paralelo onde fiz todas as mudanças. Antes de subir com o commit final, ainda realizo um build de teste local, se necessário.
 
-Conversando com o barista conheci também uma versão de torra clara que não sabia da existência e que de acordo com ele é muito popular entre os europeus que passam por lá. Lendo um pouco sobre [níveis de torra](https://thecaptainscoffee.com/pages/roast-levels) percebi que o que ele quis dizer é que os gringos vão até lá para experimentar o café no nível Cinnamon (ele disse um outro nome que não encontrei na web) para experimentação profissional. Este nível de torra fica bem no início dos estalos da torra, onde o próximo nível, City Roast ou Light Roast, seria o final dos estalos e a prova feita com muito pouco do que foi acrescido pela torra; fica mais do café, mesmo.
+Nos casos em que eu trabalho em casa (ou em outro ambiente), posso fazer basicamente a mesma coisa, só que meu branch paralelo é copiado para outra máquina:
 
-Eu experimentei esta torra em casa extremamente clara porque ele me deu uma prova de 20g. Foi bem difícil moer no Timemore, o que seria ainda mais difícil no Hario. Os grãos ficaram emperrando por quase todo o processo (moagem para Aeropress). A cor dele é de paçoca e minha memória ficava tentando me dizer que estava também cheirando a paçoca. A cor final dele é de caramelo, não é de café, e o sabor lembra grama e vegetais em geral. Há um nível perceptível de doçura, provavelmente proveniente da fruta do café, e zero de amargor. Não se assemelha em nada ao café tradicional que é passado, mas pode ser interessante para os fãs dessa moda de grãos fermentados e notas mais diferentonas. Lembrando que nesse caso o resultado também possui zero acidez.
+    C:\>cd \Src\projeto-principal
+    
+    C:\Src\projeto-principal>bzr get . ..\projeto-principal.TravamentoServico.MeuNotePessoal
+    Branched 950 revision(s).
 
+Geralmente o que faço depois é compactar a pasta gerada (se desejar, use uma senha forte nesse passo), fazer uma cópia para um PenDrive e descompactar na máquina que irei trabalhar.
+
+    C:\Src\projeto-principal.TravamentoServico>hack hack hack
+    
+    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Uma mudancinha inicial"
+    Committing to: C:/Src/projeto-principal.TravamentoServico/
+    added teste.txt
+    Committed revision 951.
+    
+    C:\Src\projeto-principal.TravamentoServico>hack hack hack
+    
+    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Vamos ver se funciona"
+    Committing to: C:/Src/projeto-principal.TravamentoServico/
+    modified teste.txt
+    Committed revision 952.
+    
+    C:\Src\projeto-principal.TravamentoServico>hack hack hack
+    
+    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Não funcionou. Mais uma vez."
+    Committing to: C:/Src/projeto-principal.TravamentoServico/
+    modified teste.txt
+    Committed revision 953.
+    
+    C:\Src\projeto-principal.TravamentoServico>hack hack hack
+    
+    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Desconfio de uma coisa..."
+    Committing to: C:/Src/projeto-principal.TravamentoServico/
+    modified teste.txt
+    Committed revision 954.
+    
+    C:\Src\projeto-principal.TravamentoServico>hack hack hack
+    
+    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Corrigido travamento."
+    Committing to: C:/Src/projeto-principal.TravamentoServico/
+    modified teste.txt
+    Committed revision 955.
+    
+    C:\Src\projeto-principal.TravamentoServico>doc doc doc
+    
+    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Comentando e documentando solucao."
+    Committing to: C:/Src/projeto-principal.TravamentoServico/
+    modified teste.txt
+    Committed revision 956.
+
+Terminado o trabalho naquela máquina, geralmente gero um branch novo (para limpar o diretório) e recompacto a solução, copio para o Pendrive, e descompacto na máquina da empresa. O resto do caminho é como se eu tivesse feito as modificações na própria máquina:
+
+{{< image src="server-commit.png" caption="Commit no server" >}}
 

@@ -1,32 +1,29 @@
 ---
 
-Estou revendo essa série médica onde na época encontrei a metáfora perfeita para debugging: diagnosticar "doenças" do software. A maioria delas bem comum; mas algumas bem raras.
+Depois da analogia entre depuração e CSI, nada como fazer o mesmo com o seriado estilo House.
 
-Há inclusive [um texto da época] onde este era um blog apenas técnico onde demonstro minha empolgação com essa analogia. Hoje é a vez de analisar como série.
+Quais as semelhanças com a profissão de programador-depurador?
 
-E House não possui nada demais como trama ou história, exceto seu núcleo. O protagonista vivido por Hugh Laurie é o centro desse drama sobre um médico brilhante e seus métodos não convencionais de diagnosticar seus pacientes, geralmente casos raros.
+Em primeiro lugar, a busca por pistas. Se algo está errado com o programa, vivemos criando teorias mirabolantes a respeito do porquê tal função estar retornando zero. No entanto, como não temos tanta capacidade adivinhatória assim, geralmente nossos palpites estão errados, e o fundo do poço irá nos mostrar uma outra função que nem estava ainda na história.
 
-Há uma fórmula usada em cada episódio e ela aos poucos vai sendo revelada ao espectador comum. De vez em quando se trata de um câncer de difícil detecção, outras vezes é um conjunto de fatores que desencadeou os sintomas bizarros. Havia um certo charme nos primeiros episódios, mas como toda série a fórmula é levemente modificada para que a história não fique muito previsível ou enfadonha.
+Mas existem alguns pontos-comuns de conhecimento que sempre desenvolvemos no decorrer da carreira:
 
-Parte das mudanças está na potencial evolução do protagonista, que é um viciado em um medicamento chamado vicodin. A causa dele ingerir o analgésico é devido às dores de sua perna direita após a necrose muscular do membro, fruto de uma cirurgia que acabou salvando sua vida. Muitos dos personagens acessórios dizem que House sempre foi mal-humorado e polêmico, outros que ele ficou ainda pior após a cirurgia.
+  * Se a última instrução do código é zero (ou algo próximo disso), provavelmente a pilha foi corrompida por alguém que tentou zerar uma variável, e junto dela o ponto de retorno de alguma função chamadora.
 
-O vicodin é formado por duas substâncias: hidrocodona e paracetamol. Graças à hidrocodona os receptores de opióides dos neurotransmissores são ativados, o que deprime o sistema nervoso central. Apesar do médico-chefe só conseguir pensar claramente para resolver o diagnóstico de seus pacientes sob o efeito da droga, ironicamente ela diminuiu sua atividade cerebral.
+  * Se um programa trava em um determinado momento, voltando após um período previsível de tempo (30 segundos), automaticamente sabemos que existe algum evento/mutex usado de forma errada que, dadas as circunstâncias, apresentou uma espera longa demais.
 
-A dinâmica da descoberta das doenças dos pacientes passa pela análise de sua equipe, que é a melhor parte da série, por evocar os poderes de dedução nos espectadores leigos (meu caso). É de lá que surgem as frases mais marcantes e as discussões mais empolgantes sobre ética e o quebra-cabeças vivo que é o corpo humano.
+  * Se uma versão nova capota em um procedimento em que a versão antiga nunca capotou, podemos divagar rapidamente quais as características da nova versão que fizeram com que isso acontecesse, ainda sem olhar para o código.
 
-Tudo no primeiro episódio é feito para explicar qual será a fórmula dos próximos. Os personagens importantes se apresentam inicialmente pelo roteiro (a versão televisionada cortou essas cenas). Em menos de uma hora entendemos parcialmente este mundo que se abre; a impressão é de assistir a um Sherlock Holmes em um universo paralelo. Porém, Hugh Laurie não imita o personagem secular de Conan Doyle, decidindo criar uma nova persona, conhecedora da mente humana como ninguém, mas sob os olhos frios da ciência e o julgamento sarcástico de quem está eternamente com tédio e dor.
+Dessa forma é possível criar teorias a partir da análise mental do que o programa normal deveria estar fazendo, mas não está. É esse tipo de análise que é feita no seriado.
 
-Lendo comentários feitos [neste site que possui uma visão técnica dos episódios](https://web.archive.org/web/20150117075644/http://www.politedissent.com/house_pd.html) é possível encontrar pontos importantes para quem é de fora da área. Por exemplo, alguém observa que não há outros médicos realizando os exames pedidos para a equipe, e às vezes são procedimentos simples, como um exame de sangue ou raio-X. E o motivo é claro, embora sutil: House não confia em outros médicos.
+Porém, o lado bom: podemos testar todas nossas hipóteses. Na vida real! Se, por enquanto, matar pacientes para depois ressuscitá-los é coisa de ficção, matar sistemas e reiniciá-los não é. E, dependendo do problema, podemos sempre replicá-lo em "outro paciente".
 
-Como o próprio protagonista vive dizendo, as pessoas não mudam. E no caso da série nem sua narrativa central: surge um novo caso, o primeiro diagnóstico nunca funciona, abre-se o primeiro ato e cria-se uma atmosfera de mistério, que efetivamente gera alguma tensão. Nós leigos apenas imaginamos o que poderá ser, sendo que na realidade não conseguimos sequer mensurar a dificuldade dessa tarefa de adivinhação, embora a série se lembre eventualmente que House é o melhor de sua área. Isso implica que nem o especialista mor consegue acertar de primeira um diagnóstico. Com esses parâmetros em mente essa ciência "exata" de diagnosticadores se torna mais empolgante para alguém com um olhar de fora.
-
-[um texto da época]: {{< relref "house" >}}
+Talvez isso faça a profissão tão realizadora e viciante: para resolver um problema, geralmente temos todas as cartas na mão, e se não temos, fazemos ter. Afinal de contas, somos nós que iremos ressuscitar o sistema perdido.
 
 ---
 categories:
 - writting
-date: '2017-06-05'
-link: https://www.imdb.com/title/tt1856010
+date: '2022-05-18T21:40:06-03:00'
 tags:
 - series
-title: House of Cards - Quinta Temporada
+title: House M.D.

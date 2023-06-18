@@ -1,14 +1,11 @@
 ---
 categories:
-- cooking
 - writting
-date: '2019-01-07'
+date: '2016-12-27'
 tags:
-- food
-title: Chimichurri
+- beer
+title: Chimay Pères Trappistes
 ---
 
-Ingredientes: 3 dentes de alho bem picados, 1 colher de cayena moído, 1 colher de pimentão doce (como páprica doce), 1 xicrinha de salsinha fresca, 2 xicrinhas de azeite, 1 xicrinha de vinagre de vinho, 1 colher de orégano, um pouquinho de noz-moscada, sal e pimenta a gosto.
-
-Preparo: Misturar tudo e cozinhar em fogo brando, mexendo até que ferva; apagar o fogo enquanto ferve (não deixar fervendo).
+Ela é bem amarga para uma trigada, mas possui um equilíbrio interessante.
 

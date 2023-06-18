@@ -1,31 +1,21 @@
 ---
 categories:
 - writting
-date: 2023-03-20
+date: '2017-05-18'
+link: https://www.imdb.com/title/tt1610525
 tags:
-- wine
-title: Pyros Appellation Syrah 2019
+- cinemaqui
+- movies
+title: Punhos de Sangue
 ---
 
-Pyros é uma nova linha da Bodega Calia Alta. Não, não, tudo errado. Pyros na verdade é uma nova vinícola que nasceu do desejo por uma nova forma de expressão dos vinhos de San Juan, mais especificamente do Vale do Perdernal, uma região que apenas em 2008 recebeu sua denominação geográfica pela legislação argentina e que desde então vê nascer bodegas com uma nova personalidade, de uvas plantadas em um terreno único no país. Um terreno pré histórico e calcário.
+Logo no início deste filme vemos uma frase de Rocky Balboa sobre ninguém se preocupar com você. Balboa, personagem fictício criado por Sylvester Stallone baseado na história de vida do meio-pesado Chuck Wepner, dizia também que o que mais importa no ringue, assim como na vida, não é o quão forte você consegue bater, mas quantos golpes você consegue aguentar. A história de Punhos de Sangue, que praticamente documenta a vida de Wepner, acaba misturando ambas as visões sobre a vida, e no momento que achamos que o "Rocky Balboa real" não irá mais aguentar tantos golpes em sua vida é quando nos lembramos sobre a fala de Balboa sobre ninguém se preocupar. Este é um drama sobre quando a própria pessoa não se preocupa com o caminho que sua vida está levando.
 
-Aprendemos sobre Perdernal visitando a bodega Callia lá em San Juan, a província ao norte de Mendoza. Calia foi comprada pelos donos da Sallentein, esta, sim, de Mendoza. Esses holandeses reconstruíram a bodega onde fica Callia, que era uma grande produtora de vinho em grandes quantidades.
+É claro que sendo um filme sobre boxe já deixa implícito que este não será um filme sobre boxe, mas sobre uma vida em seu auge e declínio, como tantos outros exemplos que temos no Cinema. Nesse caso estamos falando do cara que inspirou um dos personagens mais célebres do gênero, e não por acaso, o filme de Philippe Falardeau escrito por quatro pessoas segue à risca o modelo consagrado em trabalhos como o próprio Rocky (o primeiro), e em vários momentos sentimos o tom de homenagem. A própria vida de Chuck Wepner recebeu duas inspirações do Cinema, uma antes e outra depois da fama. Antes da fama ele se vê como no filme Réquiem Para um Lutador, onde Anthony Quinn interpreta com muita propriedade a vida decadente de um lutador aposentado procurando um emprego. Depois da fama ele se vê como sua própria versão cinematográfica em Rocky, Um Lutador. No entanto, a versão que Wepner adota de Rocky está mais próximo do mega-empresário do boxe Don King (citado no filme) do que das origens humildes do personagem interpretado por Sylvester Stallone.
 
-Você talvez conheça o nome Calia Alta se gosta de vinho e frequenta o Outback, aquele restaurante australiano que se espalhou por São Paulo. A carta de vinhos do Outback é bem limitada, mas eles têm ótimos rótulos. Um deles é o Calia. Conheci o vinho lá e descobri ser fácil de achar nos mercados.
+Liev Schreiber é Chuck Wepner, e ninguém diria o contrário mesmo sem o conhecer. Ele é um lutador de origem humilde e que se aproveita de oportunidades conseguidas pelo seu agente de um clube local (Ron Perlman). Quando o conhecemos ele está no ringue com um urso famoso da televisão, e fica difícil descobrir que se trata de seu futuro eu, já que o sujeito vive uma sequência ininterrupta de altos e baixos, e Wepner apenas ergue ligeiramente a cabeça quando está por cima, mas se arrasta inconsciente como Anthony Quinn quando conhece seu próprio e inevitável declínio. Só sabemos que ele possui uma esposa e filha porque a vemos, já que Wepner, como narrador em off, aparentemente não está muito preocupado em falar sobre as pessoas próximas a ele, mas apenas sobre si mesmo, o que logo se revela uma ironia trágica da frase inicial de Rocky Balboa. E por falar em ironias, Wepner além de adorar Réquiem Pra um Lutador nunca ouviu falar de Touro Indomável (Martin Scorsese, 1980), ainda a ser lançado, o que torna sua história tão inevitável quanto a história do Cinema e do gênero onde inconscientemente ele se situa.
 
-Faz muito tempo que não frequento o restaurante, que não possui mais os cortes de carne que adorava, mas a paixão pelo vinho continuou. Isso me fez visitar a vinícola, aproveitando que estávamos de passagem durante a viagem de quase um mês pelo oeste viticultor argentino. A visita valeu muito a pena. Estava uma manhã tranquila e nossa guia foi ótima.
+Estamos nos anos 70 como ele deve ser para esse filme, e é possível ter certeza disso, já que o trabalho de direção de arte e figurino nos transporta para uma versão não apenas correta da época com seus casacos coloridos, penteados exagerados e roupas de baixo risíveis, mas também ligeiramente exagerado para nossa própria época, o que nos faz lembrar constantemente de que esta é uma versão, ainda que fictícia, querendo soar documental o máximo possível. Documental também é a abordagem do diretor Philippe Falardeau e seu diretor de fotografia, Nicolas Bolduc (O Homem Duplicado). Mesmo que este seja rodado como um drama ficcional, temos uma câmera ligeiramente trêmula com uma granularidade (o "ruído" da película) que lembra os filmes das décadas de 70, e como este é um filme sobre outros filmes, o jogo metalinguístico funciona em diferentes planos.
 
-Foi lá que ficamos sabendo de vários detalhes dessa nova região a 90 km da cidade de San Juan e da própria vinícola Pyros, apresentada durante a degustação. Queridinha da região desde uns anos atrás quando ganhou uma competição as cegas na Coreia pelo título de melhor vinho, com competidores e especialistas de todo mundo. Esse evento fez o mundo virar as atenções para esta nova região.
-
-O Syrah dessa edição de Pyros é aromático do tom violeta. Eu não tenho conhecimento treinado ou adquirido de Sommelier. Não nasci nem cresci em família de apreciadores de vinhos. Minha memória afetiva vem das próprias visitas sensoriais pelas vinícolas da América do Sul. E por causa disso Syrah me lembra um aroma… violeta. Essa é a palavra. Seu sabor para mim é um misto de vegetal e frutado. Quando o abri hoje para tomar comendo um hambúrguer não imaginava que fosse tão bom.
-
-Agora relembro nossa viagem pela região. Foi no Pedernal que almoçamos em uma vinícola chique, a Graffigna. A paisagem era belíssima, mas os vinhos nem tanto, e não houve visitação. Mas foi a experiência mais incrível dirigir pela ruta e chegar no local.
-
-Calia fica mesmo em San Juan, cidade, no Vale de Tulum. Pedernal fica mais ao sudoeste, próximo das cordilheirs. Há mais três regiões de vinhos por lá: Ulum, a oeste da cidade; Vale de Zonda, mais a oeste ainda; e Callingasta, bem distante, entre a cordilheira e a pré.
-
-A garrafa que abri é da série Appellation, mantida em guarda de barricas francesas e americanas por 12 meses e seis meses em garrafa. Esta teoricamente é um exemplo característico do Syrah de Perdernal.
-
-O nome Pyros vem de fogo, referência ao solo de Perdernal, que pelo próprio nome lembra esse tipo de rocha calcária pré-histórica que se formou na região, única na Argentina, e que dizem as lendas foram usadas para produzir fogo por nossos antepassados. Essa pedra, do inglês flint, é muito fácil de produzir faíscas.
-
-Pyros também me ajudou a produzir faíscas, mas em minha mente. É daquelas surpresas que só quem mantém em sua adega rótulos que prefere não saber quanto custaram nem se ficaram de guarda pode ter. Todas essas descobertas em torno do vinho vieram depois de degustar. Mas assim como a pedra calcária do vale onde suas uvas foram produzidas, ele já tinha potencial de gerar faíscas, traduzidas em sinapses dentro do meu cérebro.
+Conseguindo unir ficção, realidade, realidade e ficção novamente, Punhos de Sangue se mostra um trabalho incrivelmente coeso e que segue à altura dos melhores trabalhos do gênero. Há tanto drama (real, não maniqueísta) em seu núcleo que as músicas ligeiramente animadas e as cores sutilmente coloridas tentam melhorar o clima durante a projeção. E assim como o comportamento auto-destrutivo de Wepner, elas não conseguem. E que melhor prova das virtudes desse filme quando, diferente de seu protagonista, nós não sabemos quantos mais golpes conseguiremos aguentar até o final?
 

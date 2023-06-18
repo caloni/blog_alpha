@@ -1,18 +1,20 @@
 ---
 categories:
-- writting
-date: '2011-03-22'
-link: https://www.imdb.com/title/tt0480687
-tags:
-- movies
-title: Passe Livre
+- coding
+date: '2010-01-18'
+tags: null
+title: Passagem por valor e emails com anexo
 ---
 
-Seguindo o exemplo de Rango, temos mais um filme com referências sutis que funcionam a maior parte do tempo. Com uma fotografia saudosista, de um granulado quase apático, e trilhas selecionadas a dedo (e não são muitas, já que apenas são inseridas em momentos pontuais), o novo trabalho dos irmãos Farrely (Quem Vai Ficar com Mary; Eu, Eu Mesmo e Irene) se posiciona acima da média das comédias românticas exatamente pela narrativa contida que evita o besteirol já cansativo na maioria das obras do gênero.
+Mais uma analogia vencedora para ponteiros, chamadas por valor e chamadas por referência: e-mails.
 
-E aqui, mais uma vez seguindo essa tendência de mudança nas relações sociais (vide Amor Sem Escalas, e o mais recente Sexo Sem Compromisso), temos uma situação inusitada entre dois casais que irá desenvolver um raciocínio muito similar ao de "Sideways: Entre Umas e Outras": a oportunidade de uma aventura amorosa fora do casamento não é exatamente a idealizada pela nossa imaginação.
+Quando passamos um parâmetro por valor, estamos enviando um e-mail com um arquivo em anexo. Não importa o que o destinatário faça com o arquivo: nós não vamos saber o que foi mudado se ele não enviar uma outra cópia.
 
-Como já havia dito, a decisão foi não inserir música em demasiado, o que, se tratando de uma comédia leve, ainda é uma decisão corajosa. No lugar, temos referências inteligentes e que não agridem nosso intelecto, como o uso do toque impagável da série secular Law & Order (e derivados) para estipular a passagem do tempo, como se estivéssemos presenciando um processo em andamento, ou até mesmo o uso parcial da trilha em que Mia Wallace e Vincent Vega se encontram pela primeira vez em Pulp Fiction, evocando um clima romântico (ainda que velado).
+Por outro lado, ao passar um parâmetro por referência, estamos enviando um e-mail com um endereço de onde está o arquivo. Se o usuário alterar o arquivo diretamente do endereço que enviamos será possível ver essa alteração imediatamente, pois ambos estão olhando para o mesmo valor na memória.
 
-Por fim, confesso que fiquei extremamente satisfeito pela forma sóbria que os conflitos são resolvidos, e mesmo que isso implique em alguns personagens alterados psicologicamente, suas ações em nada diminuem o tom controlado e a direção compulsiva da dupla Farrely, sempre apostando em planos que otimizem o impacto das piadas, ou que economizem o número de cortes, quando não os dois (quando, por exemplo, dois policiais abordam Fred em um ato ilícito).
+A analogia pode ser levada mais longe, com ponteiros de ponteiros: enviamos um e-mail com o endereço de um arquivo; dentro desse arquivo existe um endereço para outro arquivo. Dessa forma é possível tanto alterar o arquivo final quanto o endereço de onde ele está; ou ainda "apontar" para outro arquivo, trocando o endereço de dentro do primeiro arquivo.
+
+Assim é fácil de visualizar que os dados estão sempre em um arquivo que ocupa espaço na memória (do disco ou da RAM), mas endereços também podem ocupar espaço, se estiverem salvos em um arquivo.
+
+Dessa forma, um e-mail que contenha um arquivo em anexo vai ser muito maior que um e-mail apenas com o endereço do arquivo, mas é porque todo o conteúdo do arquivo está dentro do e-mail no primeiro caso. No segundo caso, o endereço ocupa apenas alguns caracteres que identificam a localização do arquivo.
 

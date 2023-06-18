@@ -1,11 +1,14 @@
 ---
 categories:
 - writting
-date: '2020-12-09'
+date: '2020-06-13'
+link: https://www.coffeehunter.com/the-coffee/fazenda-sao-joao-2/
 tags:
 - coffee
-title: Fazenda Tijuco Preto
+title: Fazenda São João (Produtor Osvaldo Bachião, Nova Rezende, Sul de Minas)
 ---
 
-A Fazenda Tijuco Preto fica em Sul de Minas, em Andradas. Comprei do estoque da Grão Gourmet porque meus cafezes estavam acabando e era o único disponível em grãos. Essa torra média possui baixa acidez, levíssimo amargor e um corpo fácil de tomar sozinho. Pouco aromático, é o famoso não fede nem cheira, que agrada paladares menos afeitos a disposições agressivas das moléculas presentes em torras e frutos mais algozes. PS: sabor mais floral, menos frutado.
+- 2021-05-15 Frutado maduro e tânico, esse Bourbon faz um belo corpo com poucos grãos. Sua persistência é perene; minutos depois do último gole ainda fica a sensação de um ótimo café.
+
+ - 2020-05-13 A torra foi feita na quinta, quarto dia de junho, e eu recebi na noite de segunda e foi o café da manhã da terça. Moído na hora para coado, vinte e poucos gramas, e passado na Aeopress com cerca de um minuto de infusão, seguindo da já tradicional virada antes de abaixar o êmbolo, este café ultra-fresco trouxe para mim, diferente de sua ficha, notas cítricas, lembrando limão. O sabor com certeza é tânico, algo que adoro e que me traz um vício desgraçado. O amargor desta torra média é equilibrado e seu corpo é quase médio.
 

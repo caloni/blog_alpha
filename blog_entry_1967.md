@@ -1,31 +1,18 @@
 ---
 categories:
 - writting
-date: '2012-04-01'
-link: https://www.imdb.com/title/tt1392170
+date: '2015-11-18'
+link: https://www.imdb.com/title/tt2403029
 tags:
 - movies
-title: Jogos Vorazes
+title: Jogos Famintos
 ---
 
-Há ótimas ideias em Jogos Vorazes, produção baseada no romance homônimo de Suzanne Collins (que também participa do roteiro) e que deve ser o primeiro de uma trilogia. Ambientado em um mundo futurista, mas devidamente verossímil, apresenta a delicada situação de 12 distritos que, após perderem uma tentativa de revolução contra o governo dominante, se veem sujeitos a sacrificar um casal de jovens anualmente em uma batalha por sobrevivência em uma floresta "criada" de maneira inóspita cujo objetivo é condecorar o último ser humano que restar.
+Das paródias, talvez seja um dos poucos que segue boa parte do roteiro, ou pelo menos da história original. Sendo assim, se torna um filme até que simpático, pois pega carona em uma boa narrativa (a do original), além de nostalgicamente remeter aos bons momentos do primeiro filme da franquia baseada em livros.
 
-Acompanhamos essa história através dos olhos de Katniss Everdeen (Jennifer Lawrence, vinda dos ótimos [Inverno da Alma] e [X-Men: Primeira Classe]), uma moradora do Distrito 12 junto com sua irmã caçula e sua ausente mãe. A história dessa família e dos próprios distritos são apresentados en passant, pois o filme foca mais em descrever a vida dos organizadores dos jogos do título, e como isso destoa completamente da visão dos jovens sequestrados para essa diversão alheia.
+Com defeitos especiais que são risíveis em um primeiro momento, depois fica fácil se acostumar, embora quase nenhum deles funcione, pois são mal feitos e duram muito tempo na tela, diferente de vídeos semelhantes na internet (entre eles o ótimo Kung Fury). Os pontos positivos diferentes do conteúdo original ficam todos por conta de como é deturpada a visão já no estilo paródia de uma história que tenta criticar programas televisivos no estilo reality show. Aqui toda a trama é revelada e analisada direto no texto, e onde se perde sutileza se ganha em comédia gráfica e escrachada, como nos momentos que o jogo é paralisado para os comentaristas observarem uma cena -- como a morte pelos testículos, um ponto alto -- ou durante a hilária pausa do primeiro tempo.
 
-E não há o que reclamar: o design de arte da produção é detalhista em tornar aquele mundo tão fascinante quanto impessoal. Note os largos aposentos (como o quarto de Katniss) sendo usados meramente como artefatos de exibição do poder que é exercido por aquelas pessoas.
+A atuação da menina principal (Maiara Walsh, igualmente linda) é uma cópia ambulante de feições de Jennifer Lawrence, o que não deixa de ser curioso nos momentos que JenLaw não protagonizou em Jogos Vorazes. O uso de tantos figurantes quase que impressiona, já que sabemos que está é uma produção de baixo orçamento.
 
-Ainda que o foco da história fosse justamente os tais jogos é o acompanhamento deles pelos que estão de fora que se torna mais interessante no decorrer da jornada, como podemos notar pelo dramático momento da morte de um personagem que gera uma comoção popular que não apenas enriquece a trama como dá pistas do que pode acontecer nos [próximos] [filmes].
-
-O jogo da manipulação da mente, cada vez mais fraca.
-
-Como é triste quando a humanidade se perde em criar jogos onde nossos jovens são assassinados brutalmente, e quando esses homicídios são festejados como troféus. Triste quando isso é televisionado, controlado e manipulado de tantas formas que não existe algo que possamos fazer. Triste saber que a audiência para esses programas sobe cada vez mais, e a personalidade do ser humano cada vez mais decai ao nível de mediocridade e auto-flagelo de nosso potencial criativo.
-
-Triste saber que o único motivo de existência de muitas pessoas é conseguir ver o final do capítulo a tempo, e saber quem ganhou, quem foi o vencedor do jogo da manipulação.
-
-Feliz fico com o fato de tudo ser um filme, fruto da imaginação de produtores e que não existem coincidências com a vida real. Certo?
-
-[Inverno da Alma]: {{< relref "inverno-da-alma" >}}
-[X-Men: Primeira Classe]: {{< relref "x-men-primeira-classe" >}}
-[filmes]: {{< relref "jogos-vorazes-a-esperanca-parte-1" >}}
-[próximos]: {{< relref "jogos-vorazes-em-chamas" >}}
+Por fim, Jogos Famintos é uma prova que reality shows realmente chamam a atenção do público e podem render momentos curiosos e interessantes, mesmo que tudo não passe de uma farsa de uma farsa, e que no final tenhamos que suportar o velho clichê das cenas erradas. Até aqui isso funciona razoavelmente bem.
 

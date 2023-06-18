@@ -1,12 +1,11 @@
 ---
 categories:
 - writting
-date: '2021-06-12'
-link: 'null'
+date: '2022-03-02T12:15:30-03:00'
 tags:
-- series
-title: Lúcifer
+- movies
+title: Luca
 ---
 
-Seu sotaque e sua dicção são sexy. Esta é uma série em que o diabo de férias na Terra gosta de brincar com os humanos. Muitos deles devem-lhe favores e ele está cheio de disposição para sair por aí trocando farpas verbais e um pouco de ação em mais essa série policial.
+Filme da Disney explorando cultura italiana de forma obrigatória, inserindo macarronada, azeite de oliva e tudo o que um americano médio entende por Itália. É uma história de Home Video, apressada, mas fofinha, que pode ser interpretado como uma lição de tolerância um tanto bizarra, pois usa monstros marinhos que viram meninos.
 

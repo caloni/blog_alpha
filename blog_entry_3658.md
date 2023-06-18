@@ -1,70 +1,27 @@
 ---
 categories:
-- reading
 - writting
-date: '2017-02-20'
+date: '2022-05-01T13:54:13-03:00'
 tags:
-- books
-title: The Best of edw519
+- movies
+title: The Batman
 ---
 
-Ed Weissman, ou edw519 para os íntimos, é um dos comentaristas mais efusivos, pragmáticos e experientes do Hacker News. Ele tem programado profissionalmente há quase 40 anos. De mainframes a projetos web, a evolução dele passou basicamente pelo dobro de gerações que provavelmente você passou. Ele também já esteve envolvido como sócio/fundador em três empresas, vendendo tanto serviços quanto produtos. Ele trabalhou com centenas de pessoas em mais de mil projetos em mais de um milhão de linhas de código. Ele já compartilhou muitas opiniões com a comunidade, e agora juntou boa parte dessas opiniões em um livro, um ebook, disponível para qualquer um que queira observar alguém que esteve nas trincheiras por muitos anos e não tem medo de dizer o que pensa.
+O que é isso, gente. Esse de longe é o Batman mais feio, mais raquítico e menos másculo de toda a saga. Perde até para o da série de TV dos anos 60, que pelo menos dava uns tabefes no Coringa.
 
-Se quiser ter apenas um gostinho do que vai encontrar lá, leia meus recortes abaixo (tradução minha):
+Ele é o alterego de Bruce Wayne, o pobre órfão de pai e mãe que herdou alguns bilhões e cresceu revoltadinho. Sua maquiagem, seu cabelo longo e mal feito, suas roupas desajeitadas levam a crer que ele ou é emo ou é gótico (ou os dois). Mas ele nasceu e cresceu em Gothan City, a cidade gótica, então pelo jeito nosso garoto já escolheu um lado. A cidade também. Diferente dos últimos filmes de Chris Nolan, que sanitiza a experiência de habitar uma Nova York menos quadrada, e diferente do divertido caos idealizado pelo fantasioso Tim Burton, o diretor Matt Reeves usa sua sensibilidade prática para pedir ao departamento de arte algo mais sujo, decadente e realista. Reeves é responsável pelos novos e impecáveis Planeta dos Macacos, e aqui o filme ganha as mesmas virtudes estéticas: funcionais e estéreis. Do fundo dos cenários vemos construções góticas envoltas em uma cidade decadente, vítima do socialismo institucionalizado. Seu último filantropo, o ricaço Thomas Wayne, assassinado antes de se candidatar a prefeito, deixou uma fortuna para projetos sociais, e todo mundo que viveu a Era Lula sabe o que isso significa nas mãos de políticos: um Mensalão generalizado que só verá fim agora que minorias são colocadas no holofote como representantes de moralidade e justiça por serem minorias.
 
- - Alguns caminhos são melhores que outros, mas qualquer caminho é melhor que nenhum.
- - Como hackers, tudo que fazemos ou é plantar sementes ou colhendo. Se você não vê uma colheita hoje é porque você estava plantando sementes.
- - Quanto eu contrato, eu não estou procurando por uma pessoa ou um recurso. Eu estou procurando por uma solução para meu problema.
- - O que eu realmente me preocupo é como meu software é usado. E quem o usa. Há um stream infinito de pessoas que precisam de coisas e um stream infinito de problemas para solucionar.
- - Apenas se mantenha humilde, lembre-se: nós todos estamos apenas a uma batida de cabeça da feliz ignorância.
- - É muito mais fácil julgar algo que já existe que definir algo que não existe.
- - Engenharia de software não está morta. É que o processo de depender de modelos antes de iniciar nunca funcionou em primeiro lugar.
- - A necessidade de frameworks e linguagens de alto nível só se torna aparente quando crescemos tanto que não é possível achar mais hackers experientes o suficiente. Só quando você apela para as massas medíocres que você precisa dessa ajuda.
+Mas deixemos esses detalhes de cartilha de lado, que nem importam mais. Nessa época racista onde pode-se usar a expressão "ricos brancos safados", a mulher-gato é um pitelzinho justamente por ser parda. Diferente daquela sem graça da branquinha de Nolan -- Anne Hathaway, tinha esquecido até o nome -- Zoë Kravitz tem pegada e atitude. Não tanto quanto a inesquecível Michelle Pfeiffer, mas tem. E mais até que Robert Pattinson, que observa tudo de longe em seu niilismo que se transfigura em uma loucura funcional movida por uma espécie de vingança adolescente com muito dinheiro no banco. Bruce não consegue se comunicar; é um recluso, apenas olha para as pessoas e observa, embora mantenha um diário detalhado por dois anos de seu projeto de justiceiro, que acaba virando a narração em off do filme, um belo toque à narrativa.
 
- - "Eu só vejo um lance à frente, mas é sempre o correto." - mestre de xadrez Jose Raul Capablanca
- - "Você não pode resolver um problema com a mesma mente que a criou." - Albert Einstein
- - "Foque no menor problema possível que você pode resolver cuja solução será potencialmente útil." - David Cohen
- - "Cada momento que você está trabalhando em algo sem estar na arena pública, esse algo está na verdade morrendo, privado do oxigênio do mundo real." - Matt Mullenweb
- - "Quando apresentado com um crescimento exponencial, lembre-se que as pessoas tendem a superestimar drasticamente o que irá acontecer a curto prazo, mas subestimam profundamente o que acontece sobre longos períodos de tempo." - Ryan McIntyre
- - "O que nós acreditamos é baseado em nossas percepções. O que nós percebemos depende do que estamos procurando. O que nós estamos procurando depende do que pensamos. O que pensamos depende do que percebemos. O que nós percebemos é o que aceitamos como verdade. O que aceitamos como verdade é nossa realidade." - Gary Zukav
+The Batman é um filme excessivamente longo porque ele teme o inevitável: que percamos o interesse. O que acaba acontecendo inevitavelmente nos minutos iniciais. E eis a estratégia para ganharmos o interesse novamente: nos acostumarmos com essa atmosfera e seus repetidos e ligeiramente diferentes personagens. No início do terceiro ato vemos uma bela performance do sempre ótimo Paul Dano por uns cinco minutos e temos a impressão de que o filme como um todo foi mais instigante, e não um apanhado de frases prontas ditas mecanicamente em um set estilo parque de diversões para crianças que se acham adultas. Quem em pleno 2022 tem coragem de recriar cenas de carros surgindo voando por uma névoa e a visão de um vingador se aproximando lentamente de ponta-cabeça, uma metáfora tão óbvia de morcego que dá sono? Porém, o mais importante para nunca mantermos nosso interesse: esse Batman nunca se revelou peça chave nessa dinâmica pela definição e posterior busca por justiça.
 
- 1. Comece com a resposta, então trabalhe ao contrário.
- 1. Nomeie suas variáveis para que qualquer um saiba o que elas são.
- 1. Nomeie suas funções para que qualquer um saiba o que elas fazem.
- 1. Nunca escreva a mesma linha de código duas vezes. Use funções.
- 1. Assuma que o usuário não sabe o que ele quer.
- 1. Mesmo que o usuário saiba o que quer, assuma que ele não consiga verbalizar.
- 1. O usuário sempre sabe o que ele não gosta. Prototipe frequentemente.
- 1. Esteja preparado para cavar quantos níveis de detalhe precisar para entender.
- 1. Quando estiver travado em um problema, desligue o computador.
- 1. Não ligue o computador a menos que você tenha uma tarefa específica.
- 1. Beleza é importante, mas entrega é mais importante.
- 1. Nenhuma variável deve ser completamente contida dentro de outra variável.
- 1. Todo nome de variável deve ter no mínimo três caracteres de tamanho.
- 1. Use a ferramenta certa para o trabalho certo.
- 1. Quase qualquer ferramenta pode fazer o trabalho. Algumas são melhores que outras.
- 1. Faça benchmarks frequentes para aprender o que acontece por debaixo dos panos.
- 1. Tente algo que nunca foi feito. Pode ser mais fácil do que você pensa.
- 1. Lembre-se dos padrões que você usou antes. Você irá usá-los novamente.
- 1. Mantenha extremamente simples no começo. Complique conforme avança.
- 1. Codifique todos os dias.
+E como definir a justiça em tempos tão líquidos? Há algumas injustiças pessoais sendo praticadas no filme em torno de impunidade, negligência e corrupção, mas nada tão sistêmico a ponto de precisar ser corrigido, ou se precisa ser corrigido não se pode confiar no mesmo sistema que a quebrou; um detalhe que a hoje admirável trilogia de Nolan soube explorar tão bem. O fato é que desde o pano de fundo do mais honesto Coringa (Todd Phillips, 2019) alguma coisa mudou para surgir esse lampejo de ingenuidade nos idealizadores de filmes dos supers.
 
- - Como aprender a programar? Ache um cliente com um deadline absurdo. Alcance-o. Repita. Não vai ser bonito, mas você será o tipo de programador que eu iria para a batalha junto: ótimo nas coisas que realmente importam e medíocre nas coisas que não importam.
+Uma pista é que este é um filme que quer se redimir dos insossos e insuportáveis Batman Vs Superman e Liga da Justiça. E ele começa de maneira nada sutil, ressignificando Ave Maria, a música que se tornou um porre porque Zack Snyder simplesmente não consegue parar de usar em seus trabalhos. O roteiro de Reeves junto de Peter Craig (escritor do final de Jogos Vorazes) vai além, inventando ou usando mais uma mãe morta cujo nome é Martha, para comprovar que vindo da DC zoeira pouca é bobagem (para os desavisados: há uma piada, ou vou chamar de piada, no final em BvS envolvendo mães com o nome Martha).
 
- - Eu costumava ser muito desagradável em julgar os outros, "Ela é realmente esperta" ou "Ele é tão estúpido". Então eu aprendi muito com meu primeiro mentor. Ele me ensinou que frequentemente não há muita diferença entre alguém que parece esperto e alguém que não. Talvez ninguém gastou tempo suficiente com um deles. Talvez eles tenham outros desafios, como família, saúde ou circunstâncias. Talvez eles sejam um peixe fora d'água, gastando muito tempo em coisas que não o interessam. Ou talve eles pareçam burros porque eles realmente acreditam que o são. Foi dito a eles tantas vezes que agora eles acreditam.
+Por fim, este é um trabalho técnico, e os fãs autistas geralmente se apaixonam pelo filme só por isso, se esquecem da arte implícita nessas obras. E não é à toa que o fã clube de Christopher Nolan reúna tantas pessoas no espectro. Então, nada mais justo que admirar as virtudes de mais uma produção estéril em ideias e pesada na maquiagem.
 
- - O que faz um programador sênior? Ótima pergunta. Pergunte para n programadores e você obterá n^2 respostas. Isso pode ser facilmente o assunto para outro post ou até um livro. Saindo do topo da minha cabeça em nenhuma ordem particular:
+A fotografia, por exemplo, que encara essa arte gótica ressignificada, é a mais escura de todos os Batmans, além de amarelo âmbar, e com o uso de muitos cortes e algumas cenas de ação deixa tudo geograficamente bem confuso de acompanhar. O lado bom é que há pouca iconografia e aqueles momentos solenes de Snyder em câmera lenta que todos nós agradecemos por não existir neste filme, mas ainda assim todas as cenas dramáticas continuam solenes demais a ponto de não ter a mínima graça e zero engajamento. Este é um Batman de passagem, não liga muito para si mesmo, e nós nos lembraremos dos de Nolan daqui a alguns anos. Desse não.
 
-   - entender o problema em mãos antes de escrever qualquer código
-   - usar a ferramenta certa para o trabalho certo
-   - seguir padrões aceitos e protocolos sem sacrificar a criatividade
-   - nomeia variáveis e funções como de fato serão para o próximo programador
-   - antecipa o que pode dar errado antes de confiar em um depurador ou testes
-   - entende a arquitetura implícita e como melhor utilizá-la
-   - nunca escreve o mesmo código duas vezes
-   - nunca escreve em 150 linhas o que poderia ser escrito em 100
-   - Código ruim: não-comentado. Medíocre: comentado. Bom: não precisa de comentários.
-   - entende o ciclo de vida do código inteiro e o escreve para durar
-   - tem pena da pobre alma que tem que mantê-lo e deixa uma dica ou duas
-   - escreve de maneira flexível para ser facilmente mudado antes que o projeto termine.
+E por fim novamente, já que detalhes técnicos são o parâmetro de qualidade na arte cinematográfica do século 21, talvez a exceção virtuosa seja mesmo a trilha sonora, que vem com um tema bacana, de Michael Giacchino, que poderá ser inserido em continuações mais lentas e cínicas. Quem sabe a produção emplaca e poderemos aguardar por um Robert Pattinson mais velho e igualmente cínico, próximo da persona de Ben Affleck em BvS, que assim como Paul Dano tem se tornado uma versão distorcida de alguém verdadeiramente maluco. Poderá o envelhecimento ser a salvação dos heróis e vilões da DC?
 

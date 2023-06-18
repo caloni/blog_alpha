@@ -1,18 +1,24 @@
 ---
 categories:
 - writting
-date: '2010-07-20'
-link: https://www.imdb.com/title/tt0054331
+date: '2016-10-15'
+link: https://www.imdb.com/title/tt0121955
 tags:
-- movies
-title: Spartacus
+- series
+title: South Park - Vigésima Temporada, Episódios 1 a 4
 ---
 
-O primeiro filme de Stanley Kubrick. Kirk Douglas, produtor executivo, substituiu o diretor original, Anthony Mann, após a primeira semana de filmagens. Nessa época Kubrick contava 30 anos de idade, e apesar de ter feito já 4 produções, nenhuma com uma grandiosidade como essa. E o mais impressionante em todo o filme é esse tom épico, com quadros que evocam claramente outro clássico, de Cecil B. DeMille: Os 10 Mandamentos. Vemos a multidão de escravos rebeldes crescendo, formando acampamentos, atravessando vales gigantescos apenas com a vontade de ser livre.
+A vigésima temporada de South Park começa em um tom dramático que esconde o humor ainda mais dentro do absurdo de suas situações. Não deixa de ser poderosa sua mensagem, mas ele está se tornando, desde a temporada anterior, um longa-metragem anual de três horas e pouco. Isso é bom ou ruim? Talvez seja necessário esperar o fechamento do arco deste ano para termos certeza.
 
-No meio de tudo isso a figura de Spartacus (Kirk Douglas), o nome-título, mais como um símbolo do que como uma pessoa que determina seu destino. Isso é mostrado na cena em que os prisioneiros após a batalha final são convidados a reconhecer Spartacus para se verem livres do castigo de serem crucificados, no que todos dizem "Eu sou Spartacus". No fundo, todos são o mesmo escravo responsável pela luta pela liberdade.
+O que a série criada por Trey Parker, Matt Stone e Brian Graden parece nunca temer é ousar além dos caminhos de seus semelhantes (Simpsons, e Family Guy, isso é sobre vocês). Isso por um lado pode levar a resultados bem medíocres ou desastrosos, mas ainda ganha créditos por utilizar os personagens em situações que fazem todo sentido para eles, e ao mesmo tempo não, já que esta é uma série de humor.
 
-Spartacus, como é visto no filme e interpretado de forma brilhante, desde o início leve até o final cruel, por Kirk Douglas, personifica o homem comum que era o escravo. As cenas em que ele conversa com sua mulher e colegas são as mais significativas, mais contemplativas dessa situação em que ele vive. Seus sentimentos são postos para fora de uma forma tocante e ao mesmo tempo plausível vindo desse personagem que viveu escravo, mas possui o espírito livre.
+E o humor parece quase nunca existir nas situações pontuais da trama, que começa com os famigerados Member Berries, uma fruta que é vendida em cachos como uvas, formada por carinhas simpáticas que concordam com todas as memórias dos anos 80 e 90, que hoje são revividas em uma reciclagem de forma (e não de conteúdo) por J. J. Abrams, que pegou para si as missões de ressuscitar as séries Star Trek e Star Wars, ícones de duas gerações diferentes de nerds. Agora ele aceita a missão de reviver algo que está cada vez mais perdido, como monstram as eleições americanas deste ano: o hino nacional.
 
-E do outro lado, o senado romano e suas estruturas de guerra eterna são mostradas da maneira mais vívida e realista possível, bem melhor que qualquer livro de história que alguém possa ler sobre esse evento. E a figura de Charles Laughton como senador Gracchus é imprescindível para que tenhamos a exata noção do nível de politicagem que corria solta no senado. Ao mesmo tempo, Laurence Olivier encarna o imperador-general Crassus representando, assim como Júlio César e Caio, aquela parte da elite romana que não entendeu bem ainda o que aconteceu com o Império.
+E o hino nacional é apenas uma chave para desvendarmos toda a miríade de metáforas e símbolos da série. O patriotismo americano não é o que está em jogo, mas o significado disso em primeiro lugar. Se as pessoas estão mais interessadas na discussão política entre escolher um babaca e um sanduíche de cocô (dualidade essa já feita na temporada 8), e em quais atletas irão se sentar ou não durante o hino (mesmo que seja em um jogo da escola regional), há algo de errado na vida real.
+
+E é justamente essa a outra vertente da trama esse ano. Quando uma aluna cuja mãe é atacada por um troll de internet decide cometer a trágica decisão de... sair de seu Twitter, os alunos se reúnem com o conselheiro da escola para mandar tweets acalorados sobre a aluna, presente em corpo, mas destituída de seus direitos civis na internet: ter uma rede social. E do outro lado do oceano, na Dinamarca, terra natal dos lendários trolls (os da vida real), uma celebridade comete suicídio. A ponte entre member berries e as escolhas das pessoas no dia de hoje é sutil e vai engrossando conforme avançamos na história... mas é preciso apenas dizer que memórias não vêm em unidades, mas em cachos. O reboot de Star Wars e a escolha de um candidato que irá fazer "a América ótima novamente" afastando imigrantes do país não é uma triste coincidência.
+
+É em cima dessa estrutura que os meninos e meninas de South Park adentram em uma luta de classes... quer dizer, de gêneros. Bom, pouco importa. Quando o diretor da escola é um SJW (Social Justice Warrior, ou Guerreiro da Justiça), ou seja, um levantador de bandeiras sociais com o uso do escudo do politicamente correto, qualquer motivo é um motivo válido para que grupos se ordenem não por causa do que indivíduos fizeram, mas sua representatividade nesse caldo irracional das maiorias e minorias.
+
+Com os levantes dessas bandeiras, e com a criação novamente de uma mega-trama que tende a tomar a temporada inteira -- como foi, aliás, no ano passado -- South Park oficialmente se dedica imensamente a criar histórias dentro do contexto, e não perder mais tempo com piadas pontuais. Nesse sentido, ultrapassa Family Guy em milênios. Porém, fica a dúvida: isso será, de fato, engraçado?
 

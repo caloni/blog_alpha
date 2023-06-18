@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2019-10-26'
-link: https://www.imdb.com/title/tt7128732
+date: '2017-02-28'
+link: https://www.imdb.com/title/tt5651844
 tags:
-- cinemaqui
-- mostra
-- movies
-title: Tremores
+- series
+title: Travelers
 ---
 
-Pablo está com um problema, e sua família se reúne para ajudá-lo. Quem não sabe da sinopse de Tremores pensa se tratar de um filme sobre vício em drogas pesadas, mas quando se revela a homossexualidade do protagonista, entendemos que o filme de Jayro Bustamante expõe a ferida, a vergonha e a irresponsabilidade humana das religiões cristãs de vertente protestante.
+Viagem no tempo, física quântica, mulheres bonitas e gostosas: uma fórmula que geralmente merece dar uma olhada, para diversos fãs, de diferentes conteúdos. No caso da primeira temporada de Travelers, da Netflix, a química entre esses elementos oscila de maneira irregular, quase sempre frustrando ideias mais ambiciosas e quase sempre se rendendo ao juvenil politicamente correto. Quer dizer, no futuro os animais são nossos amigos e as pessoas passam mal em ver bacon? Fala sério!
 
-Vindo de uma família cristã tradicional (e rica), o personagem interpretado por Juan Pablo Olyslager corre o risco de virar tema de melodrama sobre um escândalo extraconjugal gay, mas a sobriedade com que Jayro Bustamante conduz a história mantém sempre em foco o tema da intolerância, que assume contornos tão doentios que podem ser confundidos pelos mais esclarecidos como estupidez ou cegueira religiosa. O mais icônico de tudo é entendermos que o próprio Pablo está em dúvida, mas não é difícil termos essa percepção, afinal ele foi criado sob os mesmos valores.
+A ideia compartilhada por um batalhão de roteiristas (e dirigida por outro tanto) é que no futuro há uma catástrofe que irá destruir a humanidade (ou algo que o valha), mas há também tecnologia suficiente para enviar consciências de volta ao tempo, o que move uma organização coordenada por uma figura conhecida como Diretor que envia equipes prontas para cumprir cegamente as mais diferentes missões. Como os viajantes do tempo são todos politicamente corretos e há alguns protocolos que não podem ser quebrados (o que eu mais gosto é o Protocolo 2: "o futuro fica no passado") eles incorporam suas consciências em pessoas que, de acordo com os registros que possuem do passado, já iriam morrer em poucos segundos. Entre os protocolos há a regra de não alterar muito o presente em que vivem para não impactar o futuro, exceto as missões entregues às equipes e o fato das pessoas que iriam morrer continuar fazendo parte da vida de sua família e conhecidos.
 
-De qualquer forma, as caricaturas por trás dos personagens de Tremores estão sempre na corda bamba para virarem inverossímeis ou apenas manipuladores. O amante de Pablo, apesar dos hormônios masculinos bem ativos, é bondoso e compreensivo demais com a situação de seu companheiro. A mãe de Pablo é uma maquiavélica fácil de se traduzir, e antes de virar uma ameaça para a felicidade do filho acaba virando alvo de deboche. A jovem esposa de Pablo, alheia à realidade em sua volta, é uma pessoa impossível de existir.
+Isso gera uma questão poderosa, mas pouco explorada. Há duas pessoas casadas na equipe que acompanhamos. Seus marido e esposa iriam se tornar viúvos em um dia onde coincidentemente um viajante no tempo toma o corpo de seu companheiro(a). Isso faz com que exista um recomeço entre eles. Curiosamente os dois viajantes são também um casal no futuro. Ou seja, de uma maneira econômica, formam-se dois triângulos amorosos com apenas quatro pessoas (seis, se você contar os mortos). De qualquer forma, este não é o foco.
 
-Conforme acompanhamos os conflitos resultantes do roteiro de Bustamante nos damos conta da fragilidade de seus personagens, mas o longa ganha um ritmo novo em seu terceiro ato, quando testemunhamos descrentes os métodos de tratamento utilizados pela igreja. Sem entrar em detalhes, digamos que reunir homens gays para tomarem banhos todos juntos a princípio não me parece uma boa ideia de mantê-los longe do pecado.
+O foco do criador da série, Brad Wright, é fazer surgir mais um thriller policial com assuntos que interessam os assinantes da Netflix, e dessa forma criar mais conteúdo baseado nas estatísticas da empresa. Viagens no tempo está entre os meus temas favoritos, e geralmente rende altas discussões. Esse é o lado bom da série. O lado ruim é que sua história quase sempre se rende ao clichê, preferindo sempre se manter como um thriller policial com alguns traços de ficção científica.
+
+O fato é que a série consegue pelo menos absorver nossa atenção, pois de uma forma ou de outra, nos preocupamos com a equipe de viajantes, mesmo que estejamos whatever para o futuro da humanidade. Afinal de contas, quem quer viver em um mundo onde o bacon é mal visto?
 

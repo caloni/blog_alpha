@@ -1,21 +1,11 @@
 ---
 categories:
-- coding
-date: '2021-10-19T12:40:32-03:00'
-tags:
-- debug
-title: Como resolver ownership do SSH
+- cooking
+date: '2022-11-20T15:31:33-03:00'
+link: https://www.bbcgoodfood.com/recipes/perfect-scrambled-eggs-recipe
+tags: null
+title: Ovos Mexidos
 ---
 
-Primeiro tente logar com o usuário enquanto roda o comando abaixo no server para ver mensagens de log:
-
-    # see logs from ssh server
-    journalctl -f -t sshd
-
-Se for problema de ownership então resolva dessa forma:
-
-    # fix ownership for ssh server users
-    chmod go-w ~
-    chmod 700 .ssh
-    chmod 600 .ssh/authorized_keys
+Quebre os ovos em uma vasilha, adicione sal e creme de leite integral ou alguma gordura equivalente (já vi dicas até de maionese pela internet). Misture levemente com um garfo ou fue. Aqueça uma panela ou frigideira, de preferência antiaderente, com uma colher de manteiga ou a quantidade suficiente para cobrir o fundo com uma camada fina. Deixe em fogo baixo e despeje a mistura. Aguarde uns 20 segundos sem fazer nada e em seguida comece a dar voltas com uma colher ou espátula de pau, silicone ou borracha. Seu objetivo é retirar o ovo já cozido do fundo e deixar a parte de cima atingir a superfície da panela. Aguarde mais alguns segundos e repita até que toda a mistura esteja cozida e ainda molhada. Agora retire do fogo, mas mantenha na panela; a mistura continua cozinhando lá dentro. Faça uma última volta e sirva imediatamente.
 

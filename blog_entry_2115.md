@@ -1,46 +1,37 @@
 ---
 categories:
 - reading
-- writting
-date: '2017-03-14'
-tags:
-- books
-title: 'Mastery: The Keys to Success and Long-Term Fulfillment'
+date: '2017-05-28'
+link: https://www.owl232.net/papers/fwill.htm
+tags: []
+title: Uma prova simples e modesta da existência do livre-arbítrio
 ---
 
-O livro de George Leonard é um curto e didático passeio através dos mistérios que tornam o ser humano cada vez mais habituado ao seu "eudaimonia" aristotélico, ou seja, o estado de plenitude do ser que está ao alcance de todos que se derem a liberdade da melhora contínua em qualquer coisa que fizermos nesse mundo.
+Uma prova simples e modesta do livre-arbítrio, ou pelo menos que refute o "determinismo duro" (que não admite nenhuma possibilidade de alternativas na ação) é dada pelo filósofo Michael Huemer através de 7 premissas e uma conclusão:
 
-Ele parte do princípio que para melhorarmos em qualquer aspecto de nossa vida, seja uma habilidade em um esporte ou na cozinha ou até na faxina, é necessário amar a prática do dia-a-dia e se esforçar de vez em quando para atingir cada vez níveis mais altos, em uma gradação torta, mas constante, de auto-melhora progressiva e agradável. Seria a síntese da vida no próprio conceito aristotélico, onde a virtude do ser humano está em atingir a perfeição de cada uma de suas virtudes e tentar sempre manter-se em equilíbrio.
+1. A respeito do livre arbítrio, nós devemos sempre evitar acreditar no que é falso (racionalmente).
+2. O que deveria ser feito pode ser feito (não se pode fazer o impossível).
+3. Se o determinismo (duro) é verdadeiro, então qualquer coisa que pode ser feita será feita (não há alternativa).
+4. Eu acredito no livre arbítrio (premissa).
+5. Com respeito ao livre arbítrio, nós podemos evitar acreditar no que é falso (de 1,2).
+6. Se o determinismo é verdadeiro, então com respeito ao livre arbítrio, nós evitamos acreditar no que é falso (de 3,5).
+7. Se o determinismo é verdadeiro, então o livre arbítrio é verdadeiro (de 6,8).
+8. O livre arbítrio é verdadeiro
 
-Como contra-exemplos ele cita três típicas personas que tentam burlar o caminho duro e legítimo da auto-melhora:
+Do original:
 
-1. __The Dabbler__. Esse é o que queima no começo e logo depois desiste.
-2. __The Obsessive__. Esse é o obstinado em sempre melhorar, mas que por isso mesmo entra em uma espiral de terror e auto-mutilação.
-3. __The Hacker__. Esse é o que adora atalhos, mas nunca consegue manter-se firme pela falta da excelência na prática.
+1. With respect to the free-will issue, we should refrain from believing falsehoods. (premise) 
+2. Whatever should be done can be done. (premise) 
+3. If determinism is true, then whatever can be done, is done. (premise) 
+4. I believe MFT. (premise) 
+5. With respect to the free-will issue, we can refrain from believing falsehoods. (from 1,2) 
+6. If determinism is true, then with respect to the free will issue, we refrain from believing falsehoods. (from 3,5) 
+7. If determinism is true, then MFT is true. (from 6,4) 
+8. MFT is true. (from 7)
 
-Leonard é incisivo contra a cultura americana que foca nos resultados em vez de no caminho para a perfeição. Ele também é crítico de nossa cultura imediatista do Ocidente, que desiste fácil quando algo é difícil, e que quer a todo custo o prêmio instantâneo do que o prazer de sentir estar melhorando a cada novo dia. Ele de certa forma flerta com o caminho das pedras que os russos parecem dominar tanto, onde para se aprender bem algo é necessário prática, prática e... prática.
+O núcleo do raciocínio é que vemos que se o determinismo é verdadeiro o livre arbítrio é verdadeiro; do contrário evitaríamos acreditar nele. E como de fato alguns de nós acreditam nele (bastaria apenas um), ele é verdadeiro, tornando o determinismo auto-refutável.
 
-Através de cinco dicas-chave, __instruction, practice, surrender, intentionality e the edge__, o autor nos explica a forma com que o dia-a-dia se traduz de maneira simples em como receber instrução válida para melhorar, a prática contínua, a capacidade de abrir mão do ego e obedecer às ordens do mestre de maneira honesta, a visão clara do objetivo para que não se perca no caminho, e, por fim, aquele boost temporário que irá te levar para o novo nível, sempre ligeiramente acima do anterior, e que após uma pequena queda irá lhe colocar em um novo patamar, onde através da constância irá te manter lá.
+Há quatro objeções à lógica aplicada no raciocínio, sendo que algumas delas são interessantes, outras não. Sugiro dar uma lida no original. A mais interessante de todas é a primeira, que afirma a premissa (1) implorar a questão. No entanto, como Huemer desenvolve, a questão só consegue de fato cair na falácia circular de quem desenvolver o raciocínio já assumir que o determinismo é verdadeiro. Porém, se este for o caso, não há abertura para o desenvolvimento racional da questão, que é a própria conclusão final de Huemer. Ao aceitar o determinismo, as premissas básicas da própria lógica não podem ser aceitas, já que os conceitos de falso e verdadeiro são inúteis.
 
-{{< image src="UoDkC54.png" caption="" >}}
-
-Até o próximo boost.
-
-Depois há uma visão dos perigos mais comuns que nos levam para longe da prática do _mastering_, e como evitá-los ou tratá-los. É um guia simples, e como todo o livro, fácil de acompanhar e lembrar.
-
-Por fim, seus últimos capítulos são mais voltados para a prática esportista e o uso do exercício físico contínuo para conseguir energia e se manter eternamente como um mestre: disposto a se entregar pela auto-melhora. Sempre um eterno aprendiz.
-
-#### Citações Favoritas
-
-> To love the plateau is to love the eternal now, to enjoy the inevitable spurts of progress and the fruits of accomplishment, then serenely to accept the new plateau that waits just beyond them.
-
-> Ultimately, the master and the master's path are one.
-
-> In terms of energy, it's better to make a wrong choice than none at all.
-
-> Ultimately, nothing in this life is "commonplace," nothing is "in between." The threads that join your every act, your every thought, are infinite. All paths of mastery eventually merge.
-
-> Are you willing to wear your white belt?
-
-"Mastering" está disponível [em formato físico](https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560) na Amazon e outras livrarias, e no formato ebook em [coleções particulares](https://drive.google.com/drive/folders/0B5raq27YbkvOZHN0a2xmOFhON0U?usp=sharing). Não sei se há tradução em português.
+E esse é um ótimo motivo para acreditar em livre arbítrio.
 

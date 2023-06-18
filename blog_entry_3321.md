@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-12-30'
+date: '2022-02-15T22:28:09-03:00'
 tags:
 - wine
-title: Rosso California Red Wine
+title: Burebista Feteasca Neagra Rose 2020
 ---
 
-É o típico "vinho tinto default" da Califórnia. E não é nada demais. Não importa se você colocou por 36 meses na barrica.
+Não sei como é um vinho rosé, mas esse eu nunca tinha provado. Sabor até que marcante, aroma fresco e até um certo tanino para um jovem.
 

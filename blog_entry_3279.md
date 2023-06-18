@@ -1,76 +1,103 @@
 ---
-categories: []
-date: '2008-06-03'
-tags:
-- ccppbr
-title: Resultado do Seminário CCPP
+categories:
+- coding
+date: '2010-02-08'
+tags: null
+title: Restaurando o registro
 ---
 
-Aconteceu nesse fim-de-semana, como era previsto, o nosso primeiro Seminário CCPP Brasil, com direito a pessoas de todas as idades e origens, mas todas com algo em comum: a paixão e o interesse pelas linguagens-mestre do mundo da programação.
+Algumas ferramentas viram essenciais quando o importante é tempo. As minhas favoritas são: [Visual Studio](http://www.microsoft.com/exPress/) e [batch](http://www.microsoft.com/WINDOWS/). Com esses dois eu faço virtualmente qualquer coisa que preciso em pouquíssimo tempo. É lógico que, na ausência dessas, alternativas são bem-vindas, como [Notepad++](http://notepad-plus.sourceforge.net/uk/site.htm), [viM](http://www.vim.org/), [grep](http://gnuwin32.sourceforge.net/), [cygwin](http://www.cygwin.com/).
 
-{{< image src="seminario.jpg" caption="Seminário CCPP Portabilidade Performance" >}}
+Ontem tive que resolver uma "situação" no cliente, e graças ao bom Deus (ele também é programador) existia um Notepad++ na bagagem que levávamos. Além, é claro, do Excel e do sistema batch do Windows.
 
-Começo esse artigo agradecendo a todos os que direta e indiretamente participaram para o sucesso do evento, entre eles os organizadores, o carro-chefe responsável por acordar o espírito C++ da galera no início do ano, os palestrantes e, claro, óbvio, toda a comunidade C++ que participou em corpo (vulgo hardware) e alma (vulgo software).
+O problema consistia basicamente em usar a saída do [RegMon](http://technet.microsoft.com/en-us/sysinternals/bb896652.aspx) para identificar e restaurar algumas modificações que danificavam a instalação do Internet Explorer. O sistema de reparo do IE não existia no cliente, pois ele estava sem Service Pack (bem-vindo ao mundo real), mas podíamos nos guiar através dele na nossa máquina virtual para saber o que faríamos. O estrago era feito durante o registro e/ou desregistro de um componente COM.
 
-Termino a introdução fazendo uma minicrítica ao preço pago pelos participantes. Não que eu ache que seja muito, pelo contrário: dado o alto nível técnico das palestras, parece até mentira termos acesso a um evento com essa estrutura por tão pouco. Porém, o muito e o pouco são relativos, e ainda acredito que existam pessoas que não vão aos encontros por falta de recursos. Por isso mesmo vai um apelo para que nos futuros encontros tenhamos alguma forma de permitir às pessoas menos favorecidas de participar democraticamente dessa que é a expressão viva das linguagens C e C++ em nosso país.
+<blockquote>_Aliás, não, eu não preciso usar o onipresente e onipotente Process Monitor para resolver um detalhezinho no registro. Você talvez precise, já que a Microsoft já tirou o Reg e o File de circulação._</blockquote>
 
-Vamos às palestras!
+Para iniciar, filtramos os resultados do RegMon para apenas capturar escritas no registro, não importando se falharam ou deram resultado.
 
-## Dicas e Truques de Portabilidade, por Wanderley Caloni
+{{< image src="Fz9QRP1.png" caption="Filtro no RegMon" >}}
 
-{{< image src="seminario-caloni.jpg" caption="Seminário Caloni" >}}
+A partir disso executamos o registro e desregistro do componente, além da restauração do IE6, responsável por limpar a bagunça. O processo responsável por registrar componentes é o **regsvr32** e o responsável por limpar a bagunça, **rundll32**.
 
-É muito difícil analisar uma palestra feita por você mesmo. É mais difícil ainda quando essa palestra é a primeira de uma batelada de argumentações de alto nível técnico que seguiram o dia. Posso dizer, no entanto, que consegui o que queria quando fui para o evento: demonstrar as dificuldades e as facilidades de tornar um código portável, independente se entre sistemas operacionais, ambientes ou compiladores.
+{{< image src="Ps7V57G.png" caption="Restauração do IExplore" >}}
 
-Foi visto primeiramente o que faz da portabilidade uma coisa difícil. Detalhes como sintaxe e gramática fazem toda a diferença quando o que se almeja é um código limpo de imperfeições trazidas pelo ambiente de desenvolvimento. Também foi dada especial atenção às famigeradas extensões de compiladores, que fazem a linguagem parecer uma coisa que não é.
+Tendo a saída do RegMon exportada para formato texto, abrimos no Excel e filtramos o conteúdo pelo nome do processo. Note que existem duas instâncias de regsvr32 para usar, pois não sabemos em qual delas é danificado o registro.
 
-Por fim, foram apresentadas algumas sugestões movidas pela experiência e estudo dessas mesmas dificuldades. Para ilustrar, dois exemplos bem vivos de como um código portável deve se comportar, tanto no código-fonte quanto em sua documentação.
+{{< image src="iEB0YQJ.png" caption="Filtro no Excel" >}}
 
-## Programação Concorrente com C++, por Fábio Galuppo
+Para cada um dos filtros copiamos apenas o endereço da chave alterada para dois arquivos texto: regsvr32.txt e ierestore.txt. Usaremos esse primeiro para encontrar ocorrências no segundo, provando que um modifica o que o outro consertou.
 
-{{< image src="seminario-galuppo.jpg" caption="Seminário Galuppo" >}}
+Existe um comando muito simplório em batch Windows que é o aplicativo **find**. Através dele podemos encontrar a ocorrência de uma string em um arquivo. Para transformar todas aquelas linhas do registro do arquivo regsvr32 em comandos find poderíamos elaborar algumas colunas no Excel ou usar o Notepad++ e suas macros, mais rápidas.
 
-Para quem está acostumado com os temas geralmente "gerenciados" de Fábio Galuppo com certeza deve ter se surpreendido com a descrição teórica dos inúmeros problemas que cercam a vida do programador multithreading. O palestrante partiu do mais simples, o conceito de threads, conceito que, segundo ele mesmo, pode ser explicado em 15 minutos, para algo mais sutil e que gera muitos erros escondidos: o conceito de locks (semáforos, mutexes, etc).
+Para quem não conhece macros, saiba que elas são muito úteis. Às vezes até mais úteis que "regexes", pois não é necessário pensar muito na expressão a ser usada. Macros apenas repetem os movimentos do teclado que fazemos enquanto as estamos gravando. Por exemplo, eu tenho o meu monte de linhas de registro assim:
 
-Os programadores em nível de sistema devem ter adorado o contexto histórico dos problemas (você sabia que o primeiro lock inventado foi o semáforo?) tanto quanto o contexto teórico (explicação sobre modelo de memória).
+    
+    HKLM\SOFTWARE\Microsoft\Cryptography\RNG
+    HKLM\SOFTWARE\Microsoft\Cryptography\RNG\Seed
+    HKCR\AppID\{EE62DE09-3A23-46DB-8FA2-266088F329CD}
+    HKCR\AppID\{EE62DE09-3A23-46DB-8FA2-266088F329CD}\(Default)
+    HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{C322BA70-E3E7-4737-821C-D25378A3F830}
+    HKCR\CLSID\{684E2452-19E1-42CC-9C93-A83044BA1AF2}
+    HKCR\CLSID\{684E2452-19E1-42CC-9C93-A83044BA1AF2}\Programmable
+    ...
 
-Um destaque especial foram os experimentos com código rodando de verdade no Visual Studio, como o exemplo que tenta criar o maior número de threads possível na arquitetura 64. Simplesmente assustador!
+Quero transformar cada linha em um comando find. Iniciou a gravação da macro no início da primeira linha e digito o seguinte (em pseudo-alguma-coisa):
 
-Se por um lado faltou tempo para explicar os usos e princípios das bibliotecas de programação paralela disponíveis e mais usadas do mercado, por outro a palestra preencheu uma lacuna importante na minha primeira palestra sobre threads em C++, demonstrando os erros mais comuns e o que não se deve fazer em programas que rodam mais de uma thread.
+find, espaço, abre aspas, end, fecha aspas, espaço, ierestore.txt, linha abaixo, home
 
-Mais uma vez voltando à teoria, a palestra foca mais uma vez em bons princípios de design, como o padrão de projeto monitor e a descrição dos modelos onde é justificado o uso de mais de uma thread no programa.
+    
+    find "HKLM\SOFTWARE\Microsoft\Cryptography\RNG" ierestore.txt
+    HKLM\SOFTWARE\Microsoft\Cryptography\RNG\Seed
+    HKCR\AppID\{EE62DE09-3A23-46DB-8FA2-266088F329CD}
 
-## Programação Multiplataforma Usando STL e Boost, por Rodrigo Strauss
+Pronto. Parar macro. Terei que repetir isso dois milhões de vezes até o final do arquivo. Ora, então mando o Notepad++ repetir a minha macro até o final do arquivo e adio minha tendinite para os próximos anos.
 
-{{< image src="seminari-strauss.jpg" caption="Seminário Strauss" >}}
+{{< image src="XOUfV9L.png" caption="Filtro no Notepad++" >}}
 
-Como sempre, Strauss está apaixonado pelo Boost (e a STL). Descrevendo as partes mais importantes que todo programador C++ moderno deve saber sobre essas bibliotecas, ambas modernas, a palestra focou principalmente no uso do dia-a-dia, e as vantagens produtivas que o C++ atual pode ter sobre o velho e tradicional programa em C com listas encadeadas artesanais.
+Só preciso agora renomear meu arquivo para .bat e executar. Posso redirecionar a saída da tela para um terceiro arquivo, de onde irei formatar minha lista de entradas no registro que foram adulteradas por ambos os programas (o registro do componente COM e a restauração do Internet Explorer).
 
-Entre as coisas mais importantes citadas, que todo programador do novo século deveria saber, estão:
+Nesse momento podemos ir tomar café. Bem melhor do que ficar horas e horas dando localizar, copiar, colar em todas as entradas do regsvr.
 
- - A total falta da necessidade de desalocarmos objetos manualmente em nossos programas, visto que o auto_ptr (STL) e shared_ptr (Boost) dão conta do recado de maneira impecável.
+{{< image src="jBRCDmf.jpg" caption="Tomando café" >}}
 
- - A total falta da necessidade de usarmos aqueles velhos arrays em C que quase nunca sabemos o tamanho exato para guardar nossos valores (e que continuamente colocávamos com o tamanho 100, MAX_PATH, ou UM_OUTRO_DEFINE_COMUM_EM_LINUX). A classe boost::array provê todas as funcionalidades básicas, além das avançadas, do uso de arrays tradicionais, sem qualquer overhead adicional de um array em C.
+Terminada a operação, abrimos o terceiro arquivo, retiramos as entradas insignificantes (por exemplo, o gerador de sementes de números randômicos) e os cabeçalhos do comando, algo bem fácil já que se trata do mesmo arquivo.
 
- - A total falta de necessidade de ficar convertendo strings e inteiros. Com a ajuda da classe std::string e de construções geniais como lexical_cast (Boost), felizmente podemos deixar nossas velhas funções que precisavam de um buffer, como _itoa (embora não-padrão).
+    
+    ---------- IERESTORE.TXT
+    ...
 
-Enfim, para quem pôde ver, a palestra focou nos princípios que farão hoje em dia um programador C++ completo, profissional e que, como seus colegas de outras linguagens, se preocupa igualmente com a produtividade de seu código. Ah, sim, e não gosta nem um pouco de reinventar a roda.
+A próxima tarefa seria analisar cada entrada e ver se ela é relevante. Essa parte foi manual, mas, encontrado um padrão, listamos rapidamente o que poderia estar dando errado e criamos uma lista de entradas para exportar do registro "sadio" a fim de gerar um .REG que corrigiria sistemas danificados.
 
-## Técnicas de Otimização de Código, por Rodrigo Kumpera & André Tupinambá
+Algumas passadas no Notepad++ para eliminar linhas duplicadas e algumas passadas pelo cérebro para eliminar chaves redundantes (chave dentro de chave) e tcharam!
 
-{{< image src="seminario-otimizacao1.jpg" caption="Seminário Kumpera" >}}
+    
+    ...
+    HKCR\Interface\{3050F2E3-98B5-11CF-BB82-00AA00BDCE0B}
+    HKCR\Interface\{3050F2E5-98B5-11CF-BB82-00AA00BDCE0B}
+    HKCR\Interface\{3050F32D-98B5-11CF-BB82-00AA00BDCE0B}
+    HKCR\Interface\{3050F357-98B5-11CF-BB82-00AA00BDCE0B}
+    HKCR\Interface\{3050F35C-98B5-11CF-BB82-00AA00BDCE0B}
+    HKCR\Interface\{3050F37E-98B5-11CF-BB82-00AA00BDCE0B}
+    HKCR\Interface\{3050F38C-98B5-11CF-BB82-00AA00BDCE0B}
+    ...
 
-Aparentemente o que pensei que seria, em minha sincera opinião, um desastre (dois palestrantes falando sobre a mesma coisa) se transformou em uma combinação estupenda de teoria e prática aplicadas à arte de otimização de código. Rodrigo e André conseguiram destrinchar o tema harmoniosamente, sempre dividido entre técnicas avançadas (algumas demonstradas pela experiência dos palestrantes) e teoria disciplinar, que visa alertar o wannabe que otimizar pode ser uma coisa boa; porém, preste atenção aos que já fizeram isso têm a dizer.
+O próximo passo para nossa obra-prima é outra macro que irá reproduzir o comando reg, que pode realizar operações no registro do Windows.
 
-Com uma didática impecável, o novato nesse tema (como eu) pôde ver as dificuldades de conseguir determinar o objetivo de todo otimizador de código que, segundo eles, deve estar sempre atento na máxima de que "toda otimização é na verdade uma troca". Ou seja, se o programador quer melhor processamento, pagará com memória, se quiser otimizar espaço na RAM, irá gastar mais com processamento e/ou disco, e assim por diante.
+    
+    ...
+    reg export HKCR\Interface\{3050F240-98B5-11CF-BB82-00AA00BDCE0B} 3050F240-98B5-11CF-BB82-00AA00BDCE0B.reg
+    reg export HKCR\Interface\{3050F25A-98B5-11CF-BB82-00AA00BDCE0B} 3050F25A-98B5-11CF-BB82-00AA00BDCE0B.reg
+    reg export HKCR\Interface\{3050F25E-98B5-11CF-BB82-00AA00BDCE0B} 3050F25E-98B5-11CF-BB82-00AA00BDCE0B.reg
+    reg export HKCR\Interface\{3050F2E3-98B5-11CF-BB82-00AA00BDCE0B} 3050F2E3-98B5-11CF-BB82-00AA00BDCE0B.reg
+    reg export HKCR\Interface\{3050F2E5-98B5-11CF-BB82-00AA00BDCE0B} 3050F2E5-98B5-11CF-BB82-00AA00BDCE0B.reg
+    reg export HKCR\Interface\{3050F32D-98B5-11CF-BB82-00AA00BDCE0B} 3050F32D-98B5-11CF-BB82-00AA00BDCE0B.reg
+    ...
 
-{{< image src="seminario-otimizacao2.jpg" caption="Seminário Tupinambá" >}}
+E o último passo é juntar toda essa galera em um arquivo só.
 
-Foram apresentados exemplos reais de otimização, além de dicas muito importantes sobre o comportamento das compilações de cada dia.  Você sabia, por exemplo, que ao declarar em escopos mais locais suas variáveis usadas apenas em pequenos trechos de código estará dando uma poderosa dica ao compilador para que ele consiga usar os registradores no máximo de sua capacidade?
+    
+    copy *.reg ierestore.reg
 
-Ao final, como é de praxe, tivemos um sorteio de ótimos livros sobre programação e C++ em geral, com destaque aos livros do Herb Sutter. Rodrigo Strauss, conhecido fundador dos encontros, recebeu sua mais que merecida homenagem ao receber um de seus livros autografados. É o mais novo MVP da comunidade!
-
-E por falar em comunidade, e agora podemos ver claramente, estamos com uma força bem maior do que no início do ano. A seqüência de ótimos eventos, além de nossos mestres do conselho Jedi de programadores C++, prova finalmente que, se depender da qualidade dos desenvolvedores, o Brasil pode sim ser uma poderosa fonte de programas de qualidade que façam coisas bem mais interessantes do que acessar um banco SQL. Nós já temos a matéria-prima.
-
-Imagens do evento cedidas por Fernando Roberto (valeu, Ferdinando!).
+Claro, não se esqueça de retirar os cabeçalhos duplicados (Windows Registry Editor Version X.XX). E Voilà! Fácil, não? Não?! Bom, então é por isso que eu sou bem pago =)
 

@@ -1,22 +1,29 @@
 ---
 categories:
-- writting
-date: '2015-06-24'
-link: https://www.imdb.com/title/tt0369610
-tags:
-- movies
-title: 'Jurassic World: O Mundo dos Dinossauros'
+- coding
+date: '2007-08-17'
+title: Junctions
 ---
 
-A trilha sonora de John Williams é bem aproveitada nessa continuação de emoções de Jurassic Park, mais de 20 anos depois de ser produzido, para um público mais aficionado por efeitos, 3D e a computação gráfica no seu limite. Por isso mesmo não se pode negar que no quesito entretenimento ele se sai maravilhosamente bem, impressionando quase da mesma forma com que o filme de Steven Spielberg nos impressionou. E quase já é algo muito bom para uma franquia já desgastada tentando se reerguer com ideias "novas".
+Semana passada baixei uma nova imagem para minha máquina de desenvolvimento. Esse esquema do pessoal da engenharia instalar as coisas para você facilita muito as coisas, mas existe o risco de algo ser instalado no lugar errado, que foram os casos do DDK e do SDK do Windows. Aqui no desenvolvimento, para efeito de padronização, utilizamos a seguinte estrutura de diretórios para esses dois aplicativos:
 
-Outra coisa que não se pode negar é a escolha ideal de Chris Pratt para o papel de galã-macho-alfa, responsável por salvar o mundo controlado pela administradora do agora aberto ao público e renomeado parque, Claire (Bryce Dallas Howard, uma escolha também interessante). Pratt, recém-saído da série Parks and Recreation, se tornou sensação no último filme besteiro da Marvel, Guardiões da Galáxia, e desde então tem aprimorado seu jeito canastrão com uma ponta de seriedade. Aqui ele faz uma interpretação além do que se poderia esperar, criando um Owen à altura das elucubrações filosóficas do Dr. Ian Malcolm do original.
+    Library
+    |- ddk
+    |- legacy
+    |- mssdk
 
-Porém, a figura de Dr. Ian está dividida em Owen e em Lowery (Jake Johnson), uma figura mais consciente, ecologicamente falando, do que o oportunista e igualmente icônico personagem de Wayne Knight. Além dele podemos observar pessoas que lembram um ou outro traço das figuras mais icônicas daquele filme hoje empoeirado, mas que na época criava suspense com quase nada. E se estou falando basicamente de atuações e comparações com o original, é porque o original merece ser mencionado a partir do que o torna superior: seus personagens, sua eloquência e sua trama um pouco mais complexa do que um passeio no Parque dos Dinossauros se tivesse sido terminado e como isso pode -- e deve -- sair do controle para o prazer do público (nós, espectadores com ou sem óculos 3D).
+Porém, por algum motivo desconhecido os instaladores da Microsoft não seguem o nosso padrão: o SDK é instalado em %programfiles%, Microsoft Platform SDK e o DDK em C:, WINDDK, 3790.1830. Para corrigir este pequeno ato relapso eu até poderia reinstalar ambos os aplicativos no local correto, gastanto algumas horas do dia, mas existe uma outra solução mais rápida e simpática chamada de junction.
 
-Sim, nessa continuação existem questões interessantes a respeito das espécies híbridas, uma evolução pressentida da ciência atual, que futuramente poderá criar seres viventes diferentes de tudo o que já foi produzido pela Evolução, basicamente editando cópias de DNA, algo muito mais factível do que reconstruir exatamente os códigos genéticos de criaturas que viveram mais de 60 milhões de anos atrás, além de fruto de questões filosóficas igualmente fascinantes, como copyright de criaturas, e inclusive a questão da nomenclatura (como foi acertadamente apontado como o que tem sido feito hoje com o nome de estádios de futebol, ou até de times inteiros). Outra vantagem é explicar muito a ainda ausência de penas, um traço evolutivo que sabemos que deve estar presente em pelo menos algumas espécies da época (afinal, os próprios pássaros são herança direta dos dinossauros, como um inspirada transição inicial nos faz lembrar). Afinal de contas, não importa como os dinossauros realmente eram: para o público, e para o Cinema, a imaginação é o que conta.
+Um junction é um link simbólico (symbolic link) de diretório. É praticamente um atalho, com a diferença que ele se comporta exatamente como se fosse o próprio objeto para o qual aponta: qualquer arquivo criado ou apagado usando o junction cria ou apaga um arquivo real no diretório real para o qual ele aponta. Essa característica pode ser tão útil quanto perigosa, por isso devem-se utilizar junctions com cuidado.
 
-Todas essas boas ideias se unem para criar um híbrido que será a nova atração na ilha, e que ficou isolado durante todo o seu crescimento em cativeiro. O resultado, como todos esperam, nem é preciso dizer. A partir daí, o filme é adrenalina pura, e os dinossauros -- ou melhor dizendo: híbridos -- estão aí para repetir a mesma cena um trilhão de vezes para quem não viu (porque estava indo buscar pipoca) esses bichos gigantescos espreitando os humanos com suas faces em perfil. Aliás, essa mesma questão está inserida no filme, quando Claire comenta que o público já não tem o mesmo fascínio pelo que parecia ser um milagre na época, e hoje é visto como mais um elefante de zoológico.
+Para criar um junction pode-se usar uma ferramenta disponível no Windows Resource Kit chamada linkd.exe. Porém, para evitar de ter que baixar todo o pacote para usar um único arquivo, existe uma outra ferramenta desenvolvida à parte por Mark Russinovich chamada... junction. O comando para criar junctions é bem fácil e direto:
 
-E, convenhamos, um elefante caro, barulhento, viciado em sensações. Infelizmente, ou felizmente, para muitos, isso é tudo o que teremos pelo resto do filme: correria, gritaria, efeitos digitais. E felizmente estaremos confortavelmente sentados em nossas bolas de hamster providos de refrigerante gelado. Já a história, essa que estava inspirando questões bacanas... por essa provavelmente teremos que esperar por mais uma continuação. O que será que está passando da Marvel na sala ao lado?
+    junction c:\library\mssdk "path where is microsoft platform sdk"
+    junction c:\library\ddk "path where is winddk"
+
+E é isso aí. A partir de agora tanto as pastas originais quanto os junctions criados para elas respondem como se fossem a mesma coisa, porém com paths diferentes.
+
+> "Neo, sooner or later, you're going to realize, just as I did, that there's a different between knowing the path... and walking the path..."
+
+No Windows Vista os junctions também funcionam para arquivos e possuem seu próprio aplicativo nativo, o mklink.exe. Porém, ele chama os links para diretórios de junctions (em português, junções) e os links para arquivos de links mesmo. Você pode notar uma pequena gamb.. adaptação técnica ao mudarem o nome da pasta "Documents and Settings" para "Users" (ou "Usuários", na versão em português). Esse link é extremamente necessário para a compatibilidade daqueles aplicativos feitos às pressas que não se importam em perguntar para o sistema onde está a pasta de documentos do usuário, fixando o path como se ele fosse estar sempre lá.
 

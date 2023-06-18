@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-05-17'
+date: '2017-05-09'
 tags:
 - food
-title: Nanni Reserve Tannat 2015
+title: Nanni Malbec Reserva 2016
 ---
 
-Encorpado e frutado; taninos secos; aguardar três anos (menos seco e um pouco doce). Corpo médio, extremamente equilibrado e frutado com um tanino impressionante, assim que aberto. Abri pra comer com presunto espanhol e rondeli de SBC.
+A madeira deixou o Malbec pouco frutado, ou com frutas muito maduras.
 

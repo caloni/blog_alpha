@@ -1,14 +1,22 @@
 ---
 categories:
 - writting
-date: '2014-04-05'
-link: https://www.imdb.com/title/tt0961097
+date: '2015-10-02'
+link: https://www.imdb.com/title/tt1571222
 tags:
 - movies
-title: Um Monstro em Paris
+title: Um Método Perigoso
 ---
 
-Uma animação francesa de alta qualidade em sua direção de arte, movimento dos personagens e números musicais que são bonitinhos por natureza, mas às vezes parecem mal trabalhados pela artificialidade do ritmo (talvez uma câmera aqui e ali resolvessem, mas a maioria dos números insiste em se manter na visão da plateia). É uma história batida a respeito de um monstro que surge na cidade de Paris na época em que ela abrigava ninguém menos que George Méliès, o mago da arte cinematográfica que tinha acabado de nascer e que foi homenageado recentemente no arranca-lágrimas Hugo Cabret.
+Cronenberg, um diretor geralmente fascinante (Terapia de Risco), por algum motivo, dirigiu um filme burocrático que conta a história de amizade entre Sigmund Freud (Viggo Mortensen) e Carl Jung (Michael Fassbender) como um documentário da BBC. No meio envolve a russa judia Sabina Spielrein (Keira Knightley), de paciente para amante e posteriormente médica.
 
-O curioso da história é que o monstro na verdade é uma pulga superdesenvolvida, e isso é curioso porque boa parte dos truques de Mélès envolviam a ainda-não-velha técnica da perspectiva forçada: coloque uma lupa em um inseto e ele vira um monstro (ou um borrão, se formos realistas chatos). O batido da história é que há dois casais que com certeza ficarão junto no final do filme e sequer temos paciência de esperar isso acontecer. Podemos dizer que o roteiro se auto-sabota quando coloca essa questão em foco. O que salva realmente é a criatividade dos realizadores, principalmente a direção, que transforma o encontro entre o monstro e uma bela cantora do final da Belle Époque em um ponto forte.
+As partes interessantes é que não havia antes restrições quanto a tratar conhecidos (como Jung utiliza sua esposa em uma sessão de terapia), mas já há a noção de transferência (quando o paciente transfere sua identidade para seu médido, e acaba se tornando vulnerável).
+
+Com exceção da curiosa participação de Vincent Cassel como o controverso psicólogo Otto Gross, todo o elenco está devidamente alinhado com os objetivos do diretor: contar uma história envolvendo figuras famosas da psicologia, e talvez por isso mesmo envolvê-los em uma redoma de vidro, evitando retirar a aura de pensadores profundos. Não é possível retirar nada da personalidade de ambos durante todo o filme. São apenas estátuas repetindo diálogos e situações conhecidas. Sabemos de toda a história envolvendo os dois antes do filme começar, e nada muda. Se você nunca soube, poderia ter lido 10 minutos de Wikipédia.
+
+Ainda assim, Keira Knightley na primeira metade do filme dá um show de contorcionismo, fazendo caras e bocas que prometem. De fato, é a personagem mais interessante do começo ao fim, mas também fica envolta em um véu de invulnerabilidade, apesar de ser a persona mais vulnerável de todas.
+
+A grande questão da divergência entre Freud e Jung ou vira um caso de novela ou é abordado de maneira tão superficial, e as trocas de cartas é tão infrutífera, que fica difícil de fato se importar se um prefere usar sexo para tudo e outro prefere búzios jogados ao vento.
+
+Com efeitos visuais por computador que geram a estranheza de irrealidade, uma direção de arte simplesmente higienizada, uma trilha sonora repetitiva e monótona -- melhor o silêncio, na maior parte do tempo -- Um Método Perigoso está nos dizendo em seu título sobre essa forma de dirigir filmes, pois pode causar uma cura involuntária de insônia. Ou morte por monotonia.
 

@@ -1,123 +1,26 @@
 ---
 categories:
-- coding
-date: '2014-05-20'
-link: https://www.youtube.com/watch?v=zn7-fVtT16k
-tags: null
-title: 'Estruturas VS Classes: fight!'
+- reading
+- writting
+date: '2018-07-17'
+tags:
+- books
+title: Estrutura de Roteiro
 ---
 
-Uma dúvida besta e importante ao mesmo tempo que muitos iniciantes em C++ possuem é saber qual a diferença entre um objeto declarado como _class_ e um objeto declarado como _struct_. A causa dessa dúvida é uma linguagem que se derivou de outra (C) que não possuía classes, e portanto criou a palavra-chave _class_ para "ficar bonito", pois, na prática, não muda muita coisa. Tomemos como exemplo o código mais simples de todos:
+Às vezes dá vontade de ler todos os livros sobre um assunto e fazer um apanhado de dicas em 50 páginas. Mas isso passa rápido depois que você percebe que vai perder alguns anos de sua vida. Leonardo Bighi Lourenço perdeu 3 anos de sua vida para nós, e nos apresenta todas aquelas teorias de 4 atos (ou 3, com o do meio dividido em dois (???)), seus pontos de virada, conflito, protagonista, antagonista, ponto de impacto... enfim, a pataquada toda.
 
-```
-struct MinhaEstrutura
-{
-};
+O lado bom é que se trata de um livro pequeno e simples de ler. O lado ruim é que você provavelmente vai ter que ler e reler esse livro sempre que quiser lembrar dos termos. Sabe quando você precisa anotar coisas do livro que está lendo para não se perder? Imagine que este livro já são as anotações. A diferença é que existe um pouco de ênfase no que o Leonardo fala. Ele ficou realmente empolgado com o entendimento da estrutura clássica para montar histórias e como isso facilita a vida do escritor que está começando.
 
-class MinhaClasse
-{
-};
+Seguem alguns trechos aleatórios:
 
-int main()
-{
-    MinhaEstrutura me;
-    MinhaClasse mc;
-}
+> Já o Incidente Inicial, que vamos tratar aqui, é um pouco mais sutil. Ele vai introduzir o conflito na história, mas sem amarrar o protagonista nesse conflito ainda. 
 
-```
+> Pensa comigo. Que graça teria criar um grande conflito na sua história, se o personagem pudesse simplesmente falar "não quero saber de problemas, vou pra casa" e a história acabasse aí? Eu te respondo. Não teria graça nenhuma. Se o leitor não souber por quê seu protagonista está passando por todo o sufoco do conflito central, a empatia vai ser quebrada na mesma hora. O leitor vai achar que seu personagem é idiota ou masoquista. 
 
-Ele compila e roda sem problemas:
+> O Ponto de Aperto é um truque de ritmo. Ele existe pra dar uma quebrada na sequência de cenas da história e reforçar o perigo que existe. 
 
-{{< image src="APlOm65.jpg" caption="StructVsClass" >}}
+> É a primeira metade da história que vai cimentar a relação entre humano e personagem. 
 
-"Estruturalmente" falando, **MinhaEstrutura** e **MinhaClasse** são idênticas, pois são os detalhes de sintaxe que diferem, e diferem pouco. Abrindo o jogo, a única diferença que poderá ser sentida em usar um ou outro é que **structs possuem seus membros públicos por padrão e classes possuem seus membros privados por padrão**. Apenas isso. O resto, nada muda.
-
-Isso pode ser visto quando adicionamos um construtor para nossos tipos de teste:
-
-```
-struct MinhaEstrutura
-{
-    MinhaEstrutura() {}
-};
-
-class MinhaClasse
-{
-    MinhaClasse() {}
-};
-
-int main()
-{
-    MinhaEstrutura me;
-    MinhaClasse mc;
-}
-
-```
-
-{{< image src="vwpucpm.jpg" caption="StructVsClass-Construtor" >}}
-
-Antes não havia problemas para **MinhaClasse** porque o construtor padrão criado para ela é público por default. Porém, explicitando no código um construtor e deixando sua privacidade ligada por padrão temos esse erro que NÃO ocorre em **MinhaEstrutura**.
-
-Mas, então, posso criar todas minhas classes usando a palavra-chave struct?
-
-Isso mesmo! Nada lhe obriga tecnicamente a usar class. Porém, assim como nada lhe obriga a usar uma linha para cada comando na linguagem ¿ afinal, todos poderiam estar na mesma linha separados por ponto-e-vírgula ¿ o uso da palavra _struct_ para classes no sentido de "objetos que possuem inteligência, métodos, herança, polimorfismo e outras firulas" não se enquadra nas boas práticas dos programadores C++.
-
-Geralmente uma _struct_ é uma forma de concatenar tipos primitivos e só. Algumas liberdades além disso geralmente são permitidas, mas desencorajadas, como um construtor que inicia os membros da _struct_ com valores-default.
-
-```
-#include <iostream>
-
-struct MinhaEstrutura
-{
-    MinhaEstrutura()
-    {
-        x = 0;
-        y = 2;
-        c = 'C';
-    }
-
-    int x;
-    int y;
-    char c;
-};
-
-int main()
-{
-    MinhaEstrutura me;
-    std::cout << "x: " << me.x << ", y: " << me.y << ", c: " << me.c << std::endl;
-}
-
-```
-
-{{< image src="rdpllNf.jpg" caption="StructVsClassStructConstructor" >}}
-
-E, por que não, uma sobrecarga do operador de stream para imprimirmos diretamente os valores de **MinhaEstrutura** para a saída com apenas um comando?
-
-```
-#include <iostream>
-
-struct MinhaEstrutura
-{
-    MinhaEstrutura() { x = 0; y = 2; c = 'C'; }
-    int x; int y; char c;
-};
-
-std::ostream& operator << (std::ostream& os, const MinhaEstrutura& me)
-{
-    std::cout << "x: " << me.x << ", y: " << me.y << ", c: " << me.c;
-    return os;
-}
-
-int main()
-{
-    MinhaEstrutura me;
-    std::cout << me << std::endl;
-}
-
-```
-
-{{< image src="np4trf9.jpg" caption="StructVsClassStreams" >}}
-
-Enfim, não há nenhum limite que se aplica a uma _struct_ além do bom senso. A criação da palavra _class_ não foi por falta do que fazer. Ela diz claramente que estamos definindo um objeto que contém usos mais adequados à orientação a objetos de C++ do que a programação estruturada de C, e vice-versa. É uma forma de tornar o código mais legível, mas nada do outro mundo. Sabemos, no final das contas, que o compilador trata as duas (quase) da mesma maneira.
-
-Qual será a próxima batalha épica? Você escolhe!
+Pois é, são aleatórios mesmo. Eu não vou ficar anotando um livro desses, senão vou acabar anotando o livro inteiro. Minha dica: o leia de uma só vez, deixe esfriar, e depois que for começar a escrever, releia novamente.
 

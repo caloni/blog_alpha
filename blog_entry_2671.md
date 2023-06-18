@@ -1,18 +1,22 @@
 ---
 categories:
 - writting
-date: '2015-01-18'
-link: https://www.imdb.com/title/tt2278388
+date: '2013-10-24'
+link: https://www.imdb.com/title/tt0049406
 tags:
 - movies
-title: O Grande Hotel Budapeste
+title: O Grande Golpe
 ---
 
-Wes Anderson sendo, como sempre, Wes Anderson, pode prejudicar um pouco seus trabalhos com seu enquadramento engessado e seus cenários surrealmente coloridos. Porém, quando o material se encaixa em seu estilo, temos um resultado espetacular. Como é o caso desse O Grande Hotel Budapeste, cuja história remete a um país meio Leste Europeu, meio Oriente, e que contém elementos fantasiosos que remetem justamente ao mundo que o diretor possui em sua mente.
+A partir da apresentação dos personagens de O Grande Golpe, o diretor Stanley Kubrick vai aos poucos revelando que a "operação" em torno da qual gira o filme está muito bem arquitetada e vem sendo planejada cuidadosamente por todas as partes envolvidas: um tira corrupto, um apostador de cavalos, um barman, um caixa do guichê de apostas, entre tantos outros.
 
-A história contém quatro camadas muito bem definidas, sendo que as duas primeiras apenas encobrem o pano de fundo de um livro. Seu autor (Tom Wilkinson) narra a conversa entre o atual dono do hotel e um jovem escritor (Jude Law) explicando como ele conseguiu sua posição. A partir daí vamos para a quarta camada onde se encontra a história de fato, uma história de amizade e lealdade entre M. Gustave (Ralph Fiennes), o dono do hotel na década de 30, e Zero (Tony Revolori), o recém-contratado Lobby Boy. Essa camada é dividida em partes, de forma que toda a estrutura está disposta em compartimentos que Wes Anderson apresenta com uma riqueza infinita de detalhes e cores. Cores tanto no sentido físico quanto metafórico, como as sutis expressões dos participantes desse longo conto.
+Não sabemos a história de todos, mas focamos na vida de dois deles: o caixa e o mandante da quadrilha. Eles e suas respectivas esposas, diametralmente inversas em tudo o que diz respeito a caráter, são quase que reflexos de seus tipos físicos, assim como refletem o oposto de seus companheiros: a linda que mantém um amante - ou melhor dizendo, faz seu marido mantê-lo - e a feia que deseja apenas que os planos de seu companheiro deem certo, seja lá quais forem - pois está ciente da sua falta de atributos físicos e intelectuais.
 
-Narrando as desventuras da dupla, é impressionante como cada novo evento consegue se encaixar com o próximo com o uso da trilha sonora, de objetos de cena (cartas, cartões, etc) e com a própria estrutura de camadas já citada. Dessa vez, até o uso de atores famosos é relevante, pois em uma sala lotada de pessoas interessadas na leitura de uma herança, olhar para rostos conhecidos já nos dá dicas de quais serão os personagens que irão participar por mais tempo dos acontecimentos entre M. Gustave e Zero.
+Mas o Sr. Kubrick, diretor e roteirista, deixa-nos a par de quase tudo que está prestes a acontecer através de seu narrador onisciente, que muitas vezes explica o óbvio. A parte mais divertida é acompanhar os preparativos, a contratação de serviços especiais, o modus operandi que ainda não ficou claro.
 
-Dessa vez, como havia acontecido na animação O Fantástico Sr. Raposo, há cenas de ação e suspense que, por mais absurdas, cumprem seu papel de se tornar uma espécie de "thriller a la Wes Anderson". Como havia dito, o fato do estilo do filme ter que se curvar ao seu criador não o diminui quando bem feito, mas em alguns momentos soa engessado. Esse é um feliz exemplo disto.
+Até que chega o grande dia. Esse é um dia tenso. Fiquei dividido entre se estava torcendo para que tudo desse certo e entre aguardando o momento em que algo desse errado. É o momento de maior tensão no filme.
+
+Porém, se as coisas vão ou não até o fim, apenas quem assistiu ficou sabendo. O que eu sei é que a câmera oscila de forma abrupta entre a estabilidade de um plano médio para a subjetividade de alguns personagens. Trêmula com o que estava acontecendo. Incrédula se poderia sair-se bem de tudo aquilo.
+
+Um exercício de estilo, tanto na direção quanto no roteiro. Divertido do começo ao fim, a partir de um humor muito, muito peculiar.
 

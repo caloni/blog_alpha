@@ -1,12 +1,11 @@
 ---
 categories:
 - writting
-date: '2010-07-30'
-link: https://www.imdb.com/title/tt0944835
+date: '2018-09-01'
 tags:
-- movies
-title: Salt
+- wine
+title: Salentein Portillo Dulce Natural Sauvignon Blanc 2017
 ---
 
-Angelina Jolie protagoniza este thriller de ação que contém pelo menos uma sequência memorável na autoestrada, mas que em sua estrutura se esquece de contar uma história mais densa. A figura de Jolie sozinha como espiã é o suficiente para levar a história em seu andamento natural, mas a falta de algo a mais torna Salt, ironicamente, um filme sem sal.
+Que surpresa este vinho doce que achamos no mercado de Tucuman. Ele combina perfeitamente com o queijo de cabra que trouxemos para compartilhar com os amigos e ainda combinou com um delicioso doce de abacaxi da anfitriã. Não é um doce enjoativo, é um doce harmonioso, sem adição de açúcar; apenas esta inusitada uva do Sauv. Blanc em colheita tardia.
 

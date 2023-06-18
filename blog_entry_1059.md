@@ -1,103 +1,22 @@
 ---
 categories:
-- coding
-date: '2008-10-15'
-tags: null
-title: Como usar WTL com o ATL do DDK
+- writting
+date: '2019-01-18'
+link: https://www.imdb.com/title/tt2386490
+tags:
+- movies
+title: Como Treinar Seu Dragão 3
 ---
 
-Eu simplemente não entendo a organização dos cabeçalhos e fontes dos SDKs da Microsoft. Houve uma vez em que o [ATL](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_ATL) era distribuído junto com o SDK, e dessa forma conseguíamos usar o [WTL](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_wtl) sem ônus. Porém, um belo dia, isso é retirado do pacote, para tristeza dos que já haviam convertido a biblioteca de janelas para fonte aberto.
+Enquanto as animações quase sempre tentam se concentrar no poder de encantar e divertir seu público mais jovem através de piadas e caminhos fáceis de superação dos seus mini heróis, a saga Como Treinar Seu Dragão se arisca cada vez mais em flertar com a o rito de passagem do seu herói, Soluço, que caminha da puberdade para se tornar não apenas um adulto, mas o líder do povo que seu pai liderou.
 
-No entanto, num belo dia, qual não foi minha surpresa ao notar umas pastinhas chamadas atl21, atl30 e atl71 dentro da distribuição do WDK (o finado DDK, renomeado sabe-se-lá-por-quê)? Pelo visto, tem alguém arrastando coisa errada pra onde não devia nos instaladores de Seattle. Esses estagiários!
+E como todo rito de passagem Soluço deve ultrapassar seus pais, o que ele é forçado a fazer devido às circunstâncias: há um vilão de olho no seu dragão de estimação, Fúria da Noite. Esse vilão por algum motivo é poderoso demais para que eles permaneçam e lutem. As ideias nesse terceiro filme parecem mal trabalhadas, pois nada convence muito bem e não há profundidade no que é dito, parecendo mais uma extensão do seriado do que um novo longa metragem.
 
-{{< image src="OoiV6X7.png" caption="" >}}
+Mas isso não quer dizer que a execução não seja bem feita. Dotado de efeitos equiparáveis à sua concorrente gigante Disney/Pixar e com uma trilha sonora adorável de John Powell que dá vontade verdadeira de ouvir, Como Treinar Seu Dragão 3 não é um trabalho amador, mas onde sobra técnica parece faltar uma alma.
 
-O fato é que eles fizeram isso, e agora é possível ter o WTL mais novo compilado com o WDK. E nem é tão difícil assim.
+A crítica Pauline Kael falou algo semelhante do primeiro Star Wars ("um épico sem um sonho") e acho que a comparação aqui cabe, já que há uma tentativa subliminar de transformar esta saga em uma versão Viking do trabalho de George Lucas. Note a espada de fogo de Soluço e o aspecto rebelde que seu povo assume diante dos outros vikings e terá um vislumbre do que quero dizer. E em ambos os trabalhos o risco de se render ao caminho preguiçoso da jornada do herói é enorme. Nenhuma das duas séries de filmes parece ter ouvido a máxima do Tio Ben (Homem-Aranha): "com grandes poderes vêm grandes responsabilidades".
 
-A primeira coisa a fazer é obter o tal doWDK. Para variar um pouco, agora existe um [processo de registro](http://www.microsoft.com/whdc/DevTools/WDK/WDKpkg.mspx) antes de obter acesso ao _download_, mais ou menos nos termos da Borland para baixar o [Builder](http://cc.codegear.com/free/turbo) / [Turbo](http://cc.codegear.com/free/turbo) / [Developer Studio](http://cc.codegear.com/free/turbo).
+Mas este não é um filme infanto-juvenil com ideias adultas. Se trata de uma aventura sem riscos palpáveis onde aguardamos por uma resolução burocrática onde deveria haver mais emoção. Há um subtexto envolvendo os dragões que cheira a crítica social sobre imigrantes e conflito de povos, mas é um aroma suave demais para prestarmos atenção. Como eu disse, este é um trabalho que precisa de mais tratamento. Do jeito que está, é uma versão extendida da série que estão passando nos cinemas.
 
-<blockquote>Aliás, para os que baixaram esses produtos gratuitos da Borland versão C++ e não funcionou em algumas máquinas, como foi o meu caso, está disponível para baixar uma versão mais nova; dessa vez não vi nenhum problema na compilação e depuração. Ainda.</blockquote>
-
-Após instalado, em qualquer lugar da sua escolha, configure no seu [Visual Studio Express](http://www.microsoft.com/Express/) o caminho de onde se encontra a pasta atl71 (ou a 30, ou a 21). Aproveite também para colocar a pasta do WTL e o diretório de LIBs:
-
-{{< image src="TJyNrlE.png" caption="Configurando o diretório de cabeçalhos no Visual Studio." >}}
-
-{{< image src="VLryS9L.png" caption="Configurando o diretório de biblioteca no Visual Studio." >}}
-
-Isso vai fazer com que pelo menos os exemplos que vêem com o WTL compilem.
-
-No entanto, você verá o seguinte erro durante a compilação dos recursos:
-
-    
-    ------ Build started: Project: MTPad, Configuration: Debug Win32 ------
-    Compiling resources...
-    Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
-    Copyright (C) Microsoft Corporation.  All rights reserved.
-    Linking...
-    CVTRES : fatal error CVT1100: <font color="#ff0000">duplicate resource</font>.  type:MANIFEST, name:1, language:0x0409
-    LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
-    Build log was saved at "file://c:\Lng\WTL\Samples\MTPad\Debug\BuildLog.htm"
-    MTPad - 2 error(s), 0 warning(s)
-    ========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
-
-Para resolver esse problema, remova a inclusão do arquivo de manifesto no arquivo RC:
-
-    
-    2 TEXTINCLUDE DISCARDABLE
-    BEGIN
-        "#include ""atlres.h""\r\n"
-        "\0"
-    END
-    
-    <font color="#ff0000">3 TEXTINCLUDE DISCARDABLE
-    BEGIN
-        "CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST ""res\\\\MTPad.exe.manifest""\r\n"
-        "\0"
-    END</font>
-    
-    #endif    // APSTUDIO_INVOKED
-    
-    ...
-    
-    #ifndef APSTUDIO_INVOKED
-    /////////////////////////////////////////////////////////////////////////////
-    //
-    // Generated from the TEXTINCLUDE 3 resource.
-    //
-    <font color="#ff0000">CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "res\\MTPad.exe.manifest"</font>
-    
-    /////////////////////////////////////////////////////////////////////////////
-    #endif    // not APSTUDIO_INVOKED
-
-Depois dessa alteração, deve ainda existir o seguinte erro de linquedição:
-
-    
-    ------ Build started: Project: MTPad, Configuration: Debug Win32 ------
-    Compiling resources...
-    Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
-    Copyright (C) Microsoft Corporation.  All rights reserved.
-    Linking...
-    <font color="#ff0000">mtpad.obj : error LNK2019: unresolved external symbol
-       "void * __stdcall ATL::__AllocStdCallThunk(void)" (bla bla bla)
-    mtpad.obj : error LNK2019: unresolved external symbol
-       "void __stdcall ATL::__FreeStdCallThunk(void *)" (bla bla bla)
-    </font>.\Debug/MTPad.exe : fatal error LNK1120: 2 unresolved externals
-    Build log was saved at "file://c:\Lng\WTL\Samples\MTPad\Debug\BuildLog.htm"
-    MTPad - 3 error(s), 0 warning(s)
-    ========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
-
-Esse problema ocorre porque as funções de alocação e desalocação de memória da ATL estão em outra LIB que os exemplos da WTL desconhecem. Para resolver, basta incluir essa nova dependência:
-
-    
-    #pragma comment(lib, "<strong>atlthunk.lib</strong>")
-
-E pronto! Agora temos todo o poder das 500 milhões de classes da ATL aliadas à ilimitada flexibilidade das classes de janelas da WTL.
-
-#### Para aprender a usar WTL
-
-	
-  * [Explicando a sopa de letrinhas da programação C/C++ para Windows: WTL](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_wtl)
-
-	
-  * [WTL for MFC Programmers](http://www.codeproject.com/KB/wtl/wtl4mfc1.aspx)
+Mas eu gostaria de poder dizer que é interessante notar o rosto com pelos crescendo em Soluço anunciando seu status de pré-adulto, que os flashbacks com o pai é uma muleta emocional para nos envolvermos mais com a história e que o mundo dos dragões é um prisma caótico e esteticamente fascinante construído pela equipe Dreamworks. É uma ótima produção. Pena que com grandes produções nem sempre venham grandes histórias...
 

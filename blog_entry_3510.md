@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2015-04-27'
-link: https://www.imdb.com/title/tt2452200
+date: '2016-12-04'
+link: https://www.imdb.com/title/tt5161502
 tags:
 - movies
-title: Son of a Gun
+title: 'SOMM: Into the Bottle'
 ---
 
-Esse é um filme meio abandonado pelas distribuidoras nacionais e ainda não estreou por aqui, mesmo tendo um ator conhecido no elenco (o escocês Ewan McGregor). E por falar em estreia, depois de dirigir seis curta-metragens, o diretor Julius Avery comanda este longa que era para ser um super-filme de ação e drama sobre um garoto que acaba preso junto de um famoso criminoso que o ajuda a sair ileso de sua estadia na cadeia por seis meses, pedindo em troca que ele mexa os pauzinhos do lado de fora para realizar uma fuga nada crível, ainda mais se considerarmos que ele estava em um presídio de segurança máxima.
+Para os que assistiram ao documentário "Somm", este será uma continuação natural. Para os que não o viram, não irão perder nada, pois ele não é necessário para acompanharmos mais uma viagem didática e comportada -- como deve ser -- ao mundo do vinho, desde as besteiras de pontuação, até rixas de família pela mudança da tradição, até a abertura emocionante (pelo menos para os aficionados) de garrafas enclausuradas por décadas, para constatarmos, com alegria nos olhos e nas papilas gusta/olfativas, que para alguns vinhos, envelhecer pode ser uma ótima ideia.
 
-Usando o xadrez como um gancho para que o impiedoso Brendan (McGregor) meio que adote o jovem JR (Brenton Thwaites) e o escale para seu próximo golpe, mesmo sabendo (ele e nós) que o garoto parece completamente novato no crime organizado, o filme não é nada modesto em seu roteiro, passando da fuga já citada para o roubo de nada menos do que barras de ouro no valor de 4,5 milhões de dólares. Ainda ingênuo na criação de seus personagens, mesmo que a relação de confiança da gangue seja um fiapo, Brendan confia todas as barras nas mãos de seu comparsa, ainda que momentos depois tenha feito um discurso como não se pode confiar nas mulheres.
+E por falar em ideia, o objetivo mais uma vez do diretor Jason Wise é construir uma narrativa instrutiva e visual a respeito da história e dos detalhes sobre essa bebida tão "glamurizada" quanto amada. Muitas opiniões são ouvidas, desde o cultivo das uvas, as safras memoráveis, até o sistema de pontuação moderno de vinhos e a história de visionários, que transformaram determinadas regiões do planeta em novos pop stars do vinho.
 
-Ah, sim, mulheres. O jovem JR, como de praxe, é o galã que se apaixona por uma prostituta russa e é isso que acende a desconfiança de Brendan (não à toa). Ainda assim, o filme investe em mais situações amadorísticas, mais cenas de ação difíceis de acreditar, e diálogos mais rasos ainda. Ainda assim, fica na média, não estragando a experiência o suficiente para se tornar ruim, mesmo com a "reviravolta" capenga que insiste em usar o batidíssimo flashback para explicar como tudo foi feito. Sério, mesmo?
+Para quem assistiu ao documentário anterior, irá constatar que Wise pretende aqui abordar o que ele não conseguiu no primeiro filme ou, o mais provável, continuar uma possivel paixão desenvolvida na produção anterior (ou, uma terceira opção, puro marketing). Seja como for, para os amantes do vinho, este consegue ser um trabalho ainda mais agradável de se assistir. Em alguns momentos, quase emocionante.
 
-De qualquer forma, McGregor está bem, o garoto é monossilábico, mas empático, e a garota é só mais uma garota. Há tiros, uma perseguição convincente, efeitos sonoros das armas bem arquitetados (ainda que estejam em desarmonia com os diálogos, que parecem muito baixo perto dos sons do filme). É um filme de ação que quase faz você dormir. Ou seja, não espere adrenalina escorrendo da tela.
+Porém, a dinâmica do filme não permite, diferente do vinho, parar para respirarmos. Wise está disposto a dar um panorama geral do mundo do vinho em dez episódios que se abrem como uma carta de vinhos do restaurante. Muitos dos episódios se cruzam, e dão a ideia errada de seu título. Isso é uma falha mais dos entrevistados -- ou dos roteiristas -- do que a própria maneira de Wise de mostrar cada faceta do mundo do vinho. De qualquer forma, é interessante voltar a um tema já abordado para vê-lo com outros olhos, e se tratando de um filme curto e dinâmico como esse, curiosamente se aproveita mais indo e voltando a pequenos detalhes, como as notas de degustação, cujos sabores são vistos conforme os sommeliers os descrevem.
+
+"SOMM: Into the Bottle" quer iniciar uma franquia, reutilizando personagens do filme original e dando espaço para futuros trabalhos que adentrem em um aspecto mais técnico do mundo dos vinhos. Acredito que dificilmente atingirá esse objetivo se focar no espectador médio. Terá que ser mais um vídeo informativo para aficionados pelo tema, ou os roteiros terão que ser cada vez mais inspiradores para chamar a atenção. Seja como for, você na verdade nunca sabe o que esperar da próxima garrafa até abri-la.
 

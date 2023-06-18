@@ -1,35 +1,21 @@
 ---
 categories:
 - writting
-date: '2016-10-19'
-link: https://www.imdb.com/title/tt4258698
+date: '2010-12-20'
+link: https://www.imdb.com/title/tt1149361
 tags:
-- cinemaqui
+- mostra
 - movies
-title: Michelle e Obama
+title: Micmacs - Um Plano Complicado
 ---
 
-Se Frank e Claire Underwood da série House of Cards seriam o exemplo de "casal perfeito" entre os políticos que anseiam o poder a qualquer preço, a impressão que fica após assistir "Michelle e Obama" é que eles seriam o exato contra-exemplo, pois tanto ela quanto ele irradiam a energia positiva e generosa de quem está honestamente disposto a ajudar o próximo. Isso, é claro, levando em conta que o filme está narrando os primeiros passos do casal em direção a uma união que passará por décadas de vida política, o que poderá mudá-los de forma que se aproximem do casal de "arquitetos do poder" da Netflix.
+A fotografia fabulosa de [Amélie Poulain] também cabe nessa fábula em que um homem, Bazil (Dany Boon), sofre uma dupla injúria em sua vida: a morte do seu pai por uma mina terrestre e uma bala em sua cabeça durante um tiroteio. Então ele resolve se vingar de ambas com o mesmo plano.
 
-Mas este é apenas o primeiro encontro da vida deles, ainda jovens e esperançosos, em um verão de Chicago, do "lado negro" da cidade. O filme poderia muito bem fazer par com o primeiro filme de Richard Linklater sobre casais que se encontram pela primeira vez, "Antes do Amanhecer", pois é exatamente essa a estratégia adotada pelo estreante Richard Tanne em amarrar uma agradável tarde com o casal: eles andam e falam quase todo o tempo, e diferente da grande maioria dos casais da vida real, eles têm realmente algo a dizer.
+Com os mesmos enquadramentos exagerados como em Amélie, mas sem a sua graça, Jean Pierre parece acreditar que o mesmo modelo pode servir a mais de um filme, e nesse caso parece acertar parcialmente. Digo parcialmente pois, enquanto em Amélie sua infância explique suas constantes fugas da realidade e seu caráter idealista, aqui o herói assume essas características sem possuir um passado que o justifique. Pior, ao ser adotado posteriormente por uma trupe de moradores de rua que parecem ter saído da mente criativa da protagonista do outro filme.
 
-E apesar de seguir o modelo clássico de comédias românticas "se odeiam, mas se amam", este filme subverte este clichê ao dar bons motivos para que Michelle Robinson e Barack Obama não fiquem juntos. Ambos são colegas em um escritório de advocacia, além do principal receio de Michelle em seguir adiante um possível relacionamento com o colega de trabalho é justificado pelo que as pessoas iriam pensar, o que poderia ser negativo para uma carreira em que ela precisa trabalhar duro para se manter competitiva e melhor que todos para compensar -- segundo ela -- o fato de ser negra e mulher.
+Embora ou por causa de nunca revelar a estratégia de Bazil por completo, a história torna-se fascinante pela criatividade com que é conduzida, nunca soando por demais exagerada, apesar de sempre estar no limite da ousadia, mas que recebe a bela explicação da trupe, circense na alma e sem muito o que perder na vida.
 
-É tocante também ver tanta força de vontade de pessoas como Obama e Michelle sendo desperdiçada no meio político, utilizando de meios imorais para conseguir alguma melhora de vida nas pessoas que eles ajudam. Michelle é a dona dos princípios que sugerem que irão nortear boa parte dos esforços do futuro presidente, como não julgar as pessoas. Por outro lado, Obama se coloca na posição que o tornará futuramente líder de estado: um facilitador de discussão, a procura dos caminhos certos para conseguir obter sucesso. E, assim como o ex-presidente Lula (embora com muito mais elegância), a capacidade de atingir o coração de seu público e assim conquistar as mentes através das palavras que atingem o coração. O discurso na igreja resume tudo isso de maneira sucinta, mas bem colocada em pouquíssimas palavras, conseguindo resumir em espírito a sucessão de discursos emocionantes e inflados de Obama nesses oitos anos de seu governo na Casa Branca.
+A capacidade do filme de entreter é tanta que até nos esquecemos do real objetivo do herói, o que pode soar preocupante pois existe drama em sua história. Só que em vez de drama o que vimos são exercícios de relaxamento quando ele, ansioso, parece perder a respiração, e que mais uma vez inevitavelmente relembram a figura idealista de Amélie Poulain, principalmente por estarem esses inseridos como mera curiosidade, sem conexão com o que está ocorrendo na tela.
 
-Porém, na posição em que ainda estavam, uma conversa política acalorada poderia vir tanto de Jesse e Céline quanto de qualquer outro casal jovem e bem informado teriam. A virtude do roteiro de Tanne está em conseguir aliar política com a vida pessoal de ambos, o andamento de suas carreiras até aquele momento e seus planos de longo prazo. Além disso, o filme também apela com sucesso para os traumas do passado de ambos, principalmente o pai de Obama, que teria sido a figura mais ausente de sua infância.
-
-Realizando um trabalho admirável de imersão desses personagens dentro da ação onde se encontram -- seja um museu, uma dança típica ou um grupo de discussão -- o uso de uma profundidade de campo reduzida enquanto ambos conversam, além de desfocar boa parte do lugar onde se encontram em cada momento, os colocam como um verdadeiro casal tentando se descobrir, e onde os eventos em torno importam menos do que a companhia um do outro.
-
-Tika Sumpter faz uma Michelle leve, mas de opiniões fortes. Sua beleza reside não apenas no seu aspecto físico, mas na maneira com que ela anda, gesticula e observa Obama em seu habitat natural. Ela consegue vestir a personagem seja improvisando no meio de um grupo de dança ou encontrando colegas de trabalho em uma situação inadequada. A forma de tornar sua altura uma vantagem é sutil, mas sempre presente.
-
-Já Parker Sawyers, como seria de se esperar, copia os trejeitos do presidente americano, seja seu sorriso confiante ou seu jeito maroto de olhar de soslaio para a bela Michelle (quase que referenciando o que será um cacoete alvo de ciúmes da própria Michelle, quando em eventos com lindas mulheres líderes de estado). Não é muito difícil encontrar um pouco de Obama em sua forma de andar ou argumentar quando enfrentado, sendo um trabalho mais que adequado de caracterização.
-
-Tematicamente duas coisas são curiosas no filme. A mais óbvia é trazer o palanque de discurso para dentro de uma igreja, sendo difícil disassociar o momento que a plateia aplaude emocionada de qualquer outra plateia em uma manifestação de fé, lembrando que a democracia, assim como outros tipos de crença, é uma religião ainda muito popular.
-
-O outro detalhe, este muito mais presente e incrivelmente óbvio é colocar Obama sempre em uma posição inferior a de Michelle, como sentados no parque ou andando por degraus de diferentes níveis. É como se Obama estivesse sempre a admirar Michelle como um símbolo, a representação do que ele precisa seguir para ficar finalmente junto dela. E, é claro, reafirmar a frase clichê de que atrás de todo grande homem existe uma grande mulher.
-
-Com uma trilha sonora saudosista e apaixonante (embora sutil), e uma fotografia sugerindo "iluminação" (no sentido religioso), ao mesmo tempo que demonstrando o calor daquele verão em Chicago, o filme é uma experiência agradabilíssima se ser apreciada por espectadores pacientes, que ainda irão receber de brinde a citação ao crítico de Cinema mais famoso da cidade, Roger Ebert, na época em que estreava o clássico de Spike Lee, Faça a Coisa Certa (e o filme ainda é usado como gancho para explorar o tema do apartheid americano). Outro detalhe tocante são as críticas de Ebert (e provavelmente de outros) colocada na íntegra em um quadro do lado de fora do cinema, algo charmoso e que também está alinhado com a ideia do filme, de que aqueles tempos eram de jovens com um olhar mais crítico para a realidade do que a alienação pautada nos grunhidos de internet de hoje em dia.
-
-Por fim, a maneira com que edição trabalha a dualidade do casal, não como um casal, mas duas mentes pensantes cada vez mais em sincronia, consegue ainda se desvencilhar de mais um clichê: de que casais juntos formam uma voz uníssona. A defesa da individualidade de cada um, enquanto ao mesmo tempo vão alinhando seus "discursos" um com o outro, talvez seja o detalhe final para tornar Michelle e Obama um romance que conseguiu a mesma coisa que Antes do Amanhecer: ao final do filme, há ainda o desejo de acompanhar aquele casal por muito, muito mais tempo.
+[Amélie Poulain]: {{< relref "amelie-poulain" >}}
 

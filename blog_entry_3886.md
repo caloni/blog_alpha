@@ -1,21 +1,16 @@
 ---
 categories:
 - writting
-date: '2018-10-26'
-link: https://www.imdb.com/title/tt8896640
+date: '2011-12-25'
+link: https://www.imdb.com/title/tt1226236
 tags:
-- cinemaqui
 - movies
-title: Um Trem em Jerusalém
+title: Um Sonho de Amor
 ---
 
-Esses filmes do diretor sionista que exibe pedaços da vida de várias pessoas cruzando a Terra Santa são mensagens confusas e ambíguas, de um naturalismo capenga porque canalha. Esse mais recente, "Um Trem em Jerusalém", próximo de seu final nos dá vontade de falar ao seu diretor: vá para casa, Amos Gitai; você está bêbado.
+Essa história sobre a mudança dos valores sob vários aspectos é uma abordagem quase idílica do novo cinema italiano. Assistimos com certa solenidade o sisudo jantar em família (evidenciado pelo exagero de sombras) em que o patriarca, já debilitado, transfere o controle da empresa para seu filho e neto. O inusitado e refrescante dessa nova história é que nos bastidores (ou para ser mais direto, na cozinha) encontra-se a origem de mudanças radicais naquela forma de funcionar o mundo.
 
-Mas como voltar para casa quando sua própria existência ainda está em debate?
+Com detalhes que mesclam realidade e sonho, o filme acaba realizando um entrecorte que não necessariamente faz sentido, mas que acompanha principalmente a ascensão da mãe dessa família, Emma Recchi (Tilda Swinton), mais sob o aspecto amoroso, mas que faz rima com a ascenção da própria empresa familiar, que para crescer necessita se aventurar no universo das aquisições e fusões do mundo capitalista. E por falar em rima, faz de sua abordagem uma narrativa muito mais efetiva do que seu antecessor temático (outro italiano) [Baarìa], de Tornatore, no sentido de unir pessoas e valores.
 
-Nessa ficção pseudo-documental (e poética) Gitai passa o tempo todo filmando pessoas comuns (na verdade são atores, sendo o mais famoso o francês Mathieu Amalric) indo e vindo pelo trem de Jerusalém. Recortes do dia-a-dia ilustrados com música e diferentes nacionalidades, origens e passaporte. Uma miscelânea que dá oportunidade de tecer diferentes tipos de comentários e críticas sociais. Uma boa ideia, sem dúvida.
-
-Porém, não há conflito; nem narrativa; nem história. Gitai nos convida, mais uma vez, a conhecer a diversidade da Palestina e dar sua sutil cutucada sionista pelo tempo de tela onde ouvimos passagens da Bíblia e Torá. Os argumentos palestinos, pra variar, são muito fracos, mas essa é uma ficção e Amos o seu diretor incondicional.
-
-Mas a fotografia é bela, os movimentos de câmera divertem e há momentos belíssimos de canções típicas. O ator francês, Mathieu Amalric, em dado momento é o convidado de luxo que não quer saber dessa bagunça que é a Palestina. O turista acidental em seu percurso. Ele está com o filho e está fascinado por poder comparar a própria Jerusalém com os textos de um escritor relatando sua própria viagem. Talvez essa seja a comparação mais justa entre esse filme e uma viagem de fato na cultura e valores das pessoas que lá habitam.
+[Baarìa]: {{< relref "baaria-a-porta-do-vento" >}}
 

@@ -1,13 +1,46 @@
 ---
 
-Saindo mais um do forno.
+O [Fabio Montefuscolo](https://gist.github.com/fabiomontefuscolo) expandiu mais ainda o acesso do conversor Houaiss para Babylon implementando uma versão em Python, uma linguagem que estou aprendendo a adorar. Tudo é mais simples, rápido e direto em Python, e o [código que ele escreveu](https://gist.github.com/fabiomontefuscolo/9234485) utiliza todo esse potencial:
 
-Essa nova versão do conversor do dicionário Houaiss para Babylon corrige o problema de não encontrar o Houaiss 1.0. O problema ocorria porque o conversor se baseava na localização do desinstalador para encontrar o dicionário. Na primeira versão do dicionário o desinstalador fica na pasta c:\Windows, onde obviamente não estava o dicionário.
+```
+#!/usr/bin/python2
+# -*- coding: utf-8 -*-
 
-Nessa nova versão, além de procurar o caminho do dicionário no registro (desinstalador) e antes de pedir para o usuário o caminho correto é tentado o caminho padrão de instalação, %programfiles%\Houaiss. Se mesmo assim o dicionário não existir continuamos perguntando para o usuário, que tem a opção de dizer onde está instalado o dicionário no disco rígido ou apontar diretamente para o CD de instalação.
+#
+# Coloque esse script na pasta com os arquivos dhx.
+# O resultado estarÃ¡ em iso-8859-1
+#
+
+#
+# Segui o tutorial em http://www.caloni.com.br/conversor-de-houaiss-para-babylon-parte-1
+#
+
+import os
+
+files = os.listdir('.')
+
+for arq in files:
+    if not arq.endswith('dhx'):
+        continue
+
+    print 'Abrindo "%s"' % arq
+    origin = open(arq, 'r')
+    target = open('%s.txt' % arq, 'w+')
+
+    char = origin.read(1)
+    while char:
+        byte = ord(char) + 0x0B
+        new_char = chr(byte % 256)
+        target.write(new_char)
+        char = origin.read(1)
+
+    origin.close()
+    target.close()
+
+```
 
 ---
 categories: []
-date: '2008-11-15'
+date: '2008-12-30'
 tags: null
-title: HouaissParaBabylon versão beta
+title: HouaissParaBabylon versão 1.1

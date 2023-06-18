@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-10-28'
+date: '2018-07-07'
 tags:
 - beer
-title: Colorado Okto Session
+title: Colorado Murica
 ---
 
-Tem pouco álcool, lembra Tubaína e vem com caju. O amargor é sereno com corpo fraco pra médio; boa pedida com castanhas de caju.
+Assim como o Colorado Murica, que tem um creme aromático e um sabor igualmente cítrico, mas mais frutado, pois vem da graviola. É mais um dos experimentos da cervejaria do urso com frutas. Dessa vez a escolhida é a graviola, e, rapaz, o Sr. Laércio Shiya, Mestre Cervejeiro desde sempre, sabe fazer as coisas bem feitas em pequena e grande escala.
 

@@ -1,24 +1,23 @@
 ---
 categories:
 - writting
-date: '2016-09-04'
-link: https://www.imdb.com/title/tt4844288
+date: '2016-03-09'
+link: https://www.imdb.com/title/tt2652118
 tags:
+- cinemaqui
 - movies
-title: O Traidor
+title: 'O Tigre e o Dragão: A Espada do Destino'
 ---
 
-Uma narradora que é uma velha e que faz graça com a desgraça de uma nação. Belas mulheres asiáticas que são estupradas por um imperador maluco, auxiliado por dois caçadores de beleza, pai e filho, que não confiam um no outro. Uma putaria e violência que começam desenfreadas, mas aos poucos caem no clichê moralista não sei bem por quê. Uma história mais ou menos histórica (Yeonsangun of Joseon, o décimo-rei da Coreia) que falha em uma narrativa sem entender a que veio.
+Embora pareça ser um simples caça-níqueis, dezesseis anos depois do lançamento da pequena obra-prima de Ang Lee, a produção de "O Tigre e o Dragão: A Espada do Destino" possui uma qualidade acima de um "fan film", e respeita até um certo momento o universo original. Porém, se arrastando em diálogos e expressões sem qualquer trama muito complexa, o filme se torna uma série de pausas até a próxima luta.
 
-Pelo jeito, O Traidor tem muita estética, belas paisagens, figurino e direção de arte, e pouca ideia do que está fazendo. Ele quer chocar pelo erotismo, mas não conseque ser erótico. Quer impressionar pela violência, mas dá risada de si mesmo enquanto cabeças são cortadas (graficamente cortadas). Seus personagens são corriqueiros, mas fazem parte de uma miscelânea de eventos de duas horas, sendo que ao final o que resta é o clichezão do amor proibido.
+A boa notícia é que há algumas lutas que valem a pena ver. Entre as inúmeras, que tentam resgatar diferentes momentos do longa original -- como a "dança de pés", a luta na taverna e uma luta no meio de uma paisagem belíssima -- podemos encontrar aqui e ali alguns momentos interessantes, mas nunca empolgantes. Não há muito o que se empolgar com os fracos e monossilábicos personagens, que não possuem nenhuma história ou passado que valham alguma coisa senão a repetição de dramas -- mais uma vez -- vistos no original.
 
-Que não tem sequer lógica interna em sua conclusão.
+E se no caso de O Tigre e o Dragão o objetivo era muito mais eternizar os estilos de lutas de artes marciais em um universo onde as pinturas seculares dessa arte fossem levadas ao pé da letra, para isso criando obviamente cenas e sequências de tirar o fôlego, no caso da produção da Netflix, apesar de boa qualidade, há um quê de demonstrar avanços nos efeitos digitais, que como em todo o filme que se esbalda neles, mais uma vez passa vergonha com construções obviamente artificiais, como vilas, montanhas impossivelmente altas e uma pista no gelo naturalmente composta por uma fina camada de neve para que os espadachins pudessem realizar seus malabarismos.
 
-Mas olhemos para este tirano, Yeonsangun of Joseon. Ele é interpretado por Kang-woo Kim com uma competência que não faz jus ao filme que está. Ele é impulsivo e mimado, se aproveitando do seu status de rei para matar, violentar e falar o que quiser. Ele está inserido em uma sociedade milenar tradicionalista que não sabe o que fazer quando um retardado sobe ao trono, mas é obrigada a colaborar com o que vier de seu comandante, nem que seja sequestrar dez mil belas moças de seu país para escolher com qual irá copular. De certa forma, lembra outros monarcas de outros países que, estatísticas fazendo valer, foram gerados através de irmãos, primos e primas, trazendo defeitos genéticos para o sangue azul. É uma constante real que os grandes líderes da história sejam vistos como excêntricos, quando na verdade ou eram apenas idiotas ou dotados de legítimas doenças mentais.
+Além disso, a direção de Wood-Ping Yuen é burocrática, e quer transformar cada mudança de cena em um episódio para uma série de TV. Se gabando das construções computadorizadas que carecem de realismo, Wood-Ping faz travelings verticais à exaustão. Para "harmonizar", uma trilha sonora solene a ponto de dar sono no meio de uma luta faz um acompanhamento nada nobre às sequências engessadas da trama.
 
-Isso está longe do que vemos, por exemplo, em O Império dos Sentidos (Nagisa Ôshima, 1976), onde, como escrevi, "Um senhor cheio de gueixas, uma esposa generosa e uma amante ninfomaníaca fazem a história de Império dos Sentidos percorrer uma curva de aprendizado sobre sexo." Não. Isso tem muito menos a ver com sexo do que com dominação, com uso irracional da força, com o apelo à autoridade para cometer atrocidades.
+E se falta alma ao projeto, não importa o quão bem executada é uma luta. Se seu objetivo é apenas narrar um pequeno conto sobre um imperador sanguinário que deseja roubar uma espada lendária, além de no processo também narrar uma pequena lenda envolvendo bebês trocados, todas as cenas de ação são descartáveis e desnecessariamente longas. Nunca há o bom senso dos personagens, e todos eles possuem habilidades sobrenaturais e não fazem questão de torná-las críveis; apenas bonitas.
 
-E irracional por irracional, este filme contém um roteiro confuso, que troca de tom todo momento. Não sabemos se ele está defendendo que filhas de açougueiros são nobres por estarem do lado dos traidores que tentaram matar o rei maluco, ou se é uma fatalidade que o líder supremo dessa nação seja um retardado. Não dá pra saber, pois o roteiro escrito por Yoon-Seong Lee e o diretor Kyu-dong Min passa de um lado para outro sem conseguir unir as pontas de sua trama. É como se de repente, no meio de um teste com as concorrentes (compulsórias) a rainha, o filme nos virasse de lado e começasse a contar a história da relação entre pai e filho e como isso é importante, mas ao mesmo tempo como o filho enxerga a traição ao rei a única saída para salvar seu amor pela açougueira.
-
-Este é um filme interessante pela sua premissa e pelo sua narração histórica, mas que usa o clichê para unir diferentes linhas de sua história, e com isso passa despercebido qual a real mensagem de "O Traidor". Fica claro que não é o sexo... mas isso Frank Underwood, de House of Cards, já descobriu e revelou em uma cena: "tudo é sobre sexo; menos sexo; sexo é sobre dominação".
+E bonito por bonito, vale mais a pena rever o conteúdo original, também disponível na Netflix. Lá cada luta possui sua razão de ser, e o objetivo dos mestres não é se gabar de seu conhecimento em lutas marciais, mas utilizá-las com a mais alta sabedoria. Infelizmente, os mestres de A Espada do Destino devem ter sido contratados pelo Circo de Soleil.
 

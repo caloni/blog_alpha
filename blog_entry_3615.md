@@ -1,13 +1,15 @@
 ---
 categories: []
-date: '2014-08-11'
+date: '2015-07-13'
 tags: null
-title: 'TDC2014: Trilha de C/C++ teve palestras para todos os gostos'
+title: TDC 2015 No More
 ---
 
-A trilha da nossa(s) linguagem(ns) querida(s) do coração(ões) desse ano foi bem heterogênea: Rodrigo Madera pegando na mão dos ainda não-iniciados na magia-negra da TMP; Fabio Gallupo audaciosamente rabiscando uma roupagem funcional para C++11 (e 14, e 17!); Felipe Lavratti abrindo o código do seu projeto para vermos como é possível organizar e modularizar bem um código em C (sem classes); eu me virando nos trinta sem slides explicando os três passos de geração de código C/C++ (dei impersonate na conta do Rodrigo Strauss); Fernando Roberto do DriverEntry mais uma vez nos impressionando com as gamb... adpatações técnicas Microsoftianas no Windows para fazer tudo funcionar sem o usuário perceber (só quando as coisas ficam azuis); Fernando Luiz Rizzato mostrando que a equipe ex-Borland continua mandando muito bem criando uma IDE de C++ que porta código para diversos dispositivos mobile; eu novamente jorrando um dump das minhas memórias de 10 anos depurando código com WinDbg e suas powertools; e, acreditem ou não, nossa primeirA palestrante amante de C contando sua experiência em diversos projetos em um stand-up animado movido a diversos gifs animados.
+Eu represento o Grupo C/C++ Brasil. Sou um dos fundadores. A bem da verdade, todos que participam ativamente no Google Groups e/ou ajudam a organizar o nosso saite, e/ou ajudam a fortalecer a presença de uma comunidade C/C++ no país representam, em menor ou maior grau, a esse ideal que é: as linguagens C e C++ ainda são muito úteis na programação de uso geral, em cenários tão distintos e tão variados que fica difícil sequer listar onde elas são usadas sem parecer panelinha.
 
-O negócio é que tivemos um dia bem atípico, com direito a lotação (!) de nossa sala logo pela manhã. Os organizadores Rodrigo Strauss e Vinicius Jarina tiveram que dar um pushback na lista de vectors da sala. E todos, aparentemente, estavam no lugar certo.
+Além de eu representar o grupo, eu seria um dos organizadores da Trilha C/C++ do TDC 2015 São Paulo desse ano. Seria, se as coisas não tivessem saído dos trilhos a partir desta thread, que colocou em xeque a presença da trilha.
 
-Foi bom estar de volta nesse evento tão importante para mantermos os diferentes programadores unidos por um bem comum: mostrar que C/C++ está tão vivo como nunca!
+Esse ano posso dizer que não há dúvidas: após a saída da organização de Rodrigo Strauss e de mim, a trilha foi oficialmente cancelada esse ano. Quem esperava assistir as palestras que foram disponibilizadas na grade sinto dizer que não acontecerão esse ano nesse evento. Podem acontecer em outro evento, nesse ou em outros anos? É capaz. O pessoal do Rio está fazendo um esforço admirável em montar nosso segundo encontro no ano, o que já é uma conquista e tanto para um grupo que peca às vezes pela parca frequência com que se reúne (talvez possamos resolver isso de forma mais informal através daqueles velhos papos de boteco que aconteceram algumas vezes no passado).
+
+Bom, é isso. Espero encontrar alguns de vocês por lá. E espero que nos encontremos em Sampa com mais frequência ;)
 

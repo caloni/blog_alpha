@@ -1,21 +1,20 @@
 ---
 categories:
 - writting
-date: '2022-11-07T22:15:39-03:00'
+date: '2013-04-12'
+link: https://www.imdb.com/title/tt1634003
 tags:
-- series
-title: Uma Advogada Extraordinária
+- movies
+title: Um Time Show de Bola
 ---
 
-A qualidade dos atores na Coreia impressiona. Seja drama ou comédia sempre há ótimos momentos nas novelas coreanas, carregadas de clichês como manda o figurino, mas quase sempre vale a pena por causa do elenco, que abraça com muito afinco seus personagens. São atores que levam a sério a arte de entreter.
+Um Time Show de Bola possui a grande vantagem de ser dirigido por Campanella, que consegue impregnar uma emoção desproporcionalmente divertida nas cenas "em campo", conseguindo, por ser uma animação, a fluidez completa de suas longas sequências de ação. Por outro lado, acaba sendo uma desvantagem que o controle da produção esteja nas mãos do auto-inflado e "oscarizado" diretor de [O Segredo dos Seus Olhos], que adota um roteiro misto que não consegue contar bem uma única história e vira uma miscelânea de sentimentos a respeito de como o futebol atual é mais um jogo de negócios do que da paixão antiga e nostálgica.
 
-Entre os mais recentes, no topo da lista está Park Eun-bin. Ela começou aos cinco anos fazendo pequenos papéis para a TV, há dez anos estreou no elenco principal em Operation Proposal,  um romance de viagem no tempo, e atingiu seu ápice no drama esportivo Hot Stove League.
+A história, ou conto, gira em torno de Amadeo, que desde menino está apaixonado por seu "time" de pebolim e não muda até atingir a idade adulta. Uma richa de infância com um dos meninos do vilarejo onde mora gera uma rivalidade descomunal na figura de Colosso, o mega-craque milionário jogador de futebol profissional que compra a cidade inteira e a ameaça de se transformar no maior estádio do mundo.
 
-Agora Eun-bin demonstra todo seu talento em expressão e trejeitos vivendo uma advogada autista nesta série que mesmo sendo da Netflix é boa.
+O maior problema do filme é criar conflitos onde não existe (se Colosso estava planejando demolir o bar onde foi derrotado e pegar a mesa de pebolim para si, por que precisou mandar seus capangas irem procurá-la no lixão? E o que aquela perua estava fazendo no lixão naquele horário da noite? E... um circo?). A maior virtude é sua paixão pelo esporte-arte (as sequências de ação no campo são de tirar o fôlego) e como a direção de arte se empenha em construir cenários detalhistas e ao mesmo tempo significativos sobre o tema.
 
-O autismo está em alta, mas nem todo ator/atriz ou até mesmo roteiristas aproveitam o tema. Nesta minissérie coreana temos um refinamento elegante entre o fantasioso e o realismo das pessoas dentro do espectro, além de tramas em episódios que se aproveitam do velho programa de júri sem muita apelação, embora alguns possam protestar por este trocadilho infame. A história acompanha a evolução da personagem sem apelar para manipulações baratas. Há um segredo que vai sendo revelado aos poucos, mas isso você já sabe. Essa é uma novela coreana, afinal de contas.
+Com seus prós e contras, a animação de Campanella diverte moderadamente. Tal como um jogo de cartas marcadas que estamos acostumados a assistir hoje em dia.
 
-Quando a produção permite que Eun-bin se mantenha livre em sua personagem a série brilha. Observe seus trejeitos desajeitados: isso é atuação meticulosa. Repare nesse equilíbrio delicado entre o cômico e o dramático através da ponta dos dedos de Park Eun-bin, ou no seu sorriso tímido e fugaz, quase invisível se você não aguardar até o final da cena. O tom calculista e cômico com que analisa os detalhes de um caso.
-
-Esta é uma série apaixonante. Talvez seja sua protagonista e o casal mais fofinho desde Amelie Poulain mesmo que falte personalidade no rapaz coreano. Talvez a afeição com pessoas intelectualmente desafiadas que topam o desafio e ousam se tornarem seres humanos em vez de animais acuados da sociedade vitimista. Ou talvez porque Park Eun-bin exercita a arte da atuação com tanto esmero em uma simples novela que é impossível não enxergar virtudes.
+[O Segredo dos Seus Olhos]: {{< relref "o-segredo-dos-seus-olhos" >}}
 

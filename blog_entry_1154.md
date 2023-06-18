@@ -1,102 +1,17 @@
 ---
-categories:
-- coding
-date: '2011-07-26'
+categories: []
+date: '2009-07-27'
 tags: null
-title: Cuidado com variáveis temporárias
+title: Cuidado com a cópia de arquivos na VMWare
 ---
 
-Um dos problemas que a linguagem C++ possui para seus iniciantes é o de não deixar muito explícito partes do seu comportamento, principalmente as partes que lidam com ponteiros/referências e o jogo da vida dos objetos. Às  vezes a coisa fica de tal como complexa que fica até difícil explicar o porquê das coisas.
+Quebrei a cabeça com uma DLL de hook que não estava funcionando para usuários comuns. No entanto, para qualquer administrador funcionava.
 
-Por exemplo, vejamos o singelo caso de alguém que precisa formatar uma saída de erro e para isso escolheu um stringstream:
+Isso acontece porque quando se arrasta uma DLL recém-compilada para a VMWare ela possui um mecanismo que primeiro cria esse arquivo no temporário do usuário atual e depois move esse arquivo para o lugar onde você de fato arrastou.
 
-```
-#include <sstream>
-#include <exception>
-#include <iostream>
+Como sabemos, a pasta temporária de um usuário fica em seu perfil, que possui direitos de uso apenas do usuário e dos administradores do sistema. Se eu copio um arquivo de uma pasta restrita para outra pasta os direitos do arquivo permanecem. Isso quer dizer que apenas o usuário atual e os administradores terão acesso ao arquivo, mesmo que se trate de um arquivo para uso de todos.
 
-using namespace std;
+Resultado: arrastava a nova DLL de hook compilada da pasta de saída direto para a pasta de sistema da máquina virtual e esse caminho através do temporário era seguido, tornando a DLL inacessível para os usuários que eu estava testando.
 
-void LogError(const char* msg)
-{
-    cerr << "** " << msg << endl;
-}
-
-void func()
-{
-    //doSomething();
-    throw exception("sbrubles exception");
-}
-
-int main()
-{
-    try
-    {
-        func();
-    }
-    catch(exception& e)
-    {
-        stringstream ss;
-        ss << "Error calling func: " << e.what() << endl;
-        const char* errorMessage = ss.str().c_str();
-        LogError(errorMessage);
-    }
-}
-```
-
-Quando chamamos func, ele lança uma exceção que é capturada no main que, por sua vez, formata uma stream e obtém sua string (através do método str) e através dessa string obtém o ponteiro da string em C puro (através do método c_str). Porém, a mensagem resultante na saída-padrão de erro não era o esperado:
-
-{{< image src="Gs3Khz7.png" caption="" >}}
-
-Depurando diretamente, vemos que a stream, de fato, contém o que esperávamos. O único elemento errante é justamente o ponteiro obtido através da chamada dupla de métodos.
-
-{{< image src="x3n9FXS.png" caption="" >}}
-
-O porquê isso ocorre só fica óbvio quando vemos [a ajuda](http://www.cplusplus.com/reference/iostream/stringstream/str/) (ou a assinatura) da função str da classe stringstream:
-
-> Get/set the associated string object The first version returns a copy of the string object currently associated with the string stream buffer.
-
-Ora, a função str retorna uma **cópia** do objeto string usado internamento pelo buffer de nossa string stream. Duas coisas ocorrem em qualquer cópia de um objeto retornada por uma função:
-
-  * A cópia do objeto original e seu desacoplamento (óbvio).
-  * A construção de um objeto baseado no original e que, após o fim da expressão onde foi chamado o método, **é destruído**.
-
-Uma vez que a chamada a str termina, é entregue uma instância de uma string que contém a string original que está sendo usada pela string stream para a expressão da chamada, que geralmente vem seguida de uma cópia:
-
-    //
-    // 1. str retorna uma cópia;
-    // 2. atribuição copia retorno para buf.
-    //
-    string buf = ss.str();
-
-A variável buf no exemplo acima será, portanto, a terceira string usada aqui até então. Ao final da expressão, a string intermediária retornada por str é automaticamente destruída, por se trata de uma cópia temporária para obedecer a sintaxe de retorno da função.
-
-Agora, o que acontece se, **na cópia temporária**, é feita uma operação para obter seu ponteiro interno usado para armazenar sua string estilo C?
-
-Obviamente ele fica inválido após o fim da expressão!
-
-Vamos ver em câmera lenta:
-
-{{< image src="vXQjDjK.png" caption="" >}}
-
-Nada como assembly fresquinho para refrescar os conceitos de C++ por baixo dos panos.
-
-### Update
-
-Após uma enxurrada de programadores gerenciáveis perguntarem qual seria, então, a solução ideal, segue o snipet mais explicitado:
-
-    // 1. Copie a string retornada para uma variável não-temporária
-    string buf = message.str();
-    
-    // 2. Use essa string dentro de seu escopo válido (até o final do catch, no exemplo do artigo).
-    const char* text = buf.c_str();
-
-### Update 2
-
-Outro leitor sugeriu fazer toda a chamada em uma única instrução, economizando em expressividade e ainda evitando a destruição da variável temporária criada ao chamar str.
-
-    // 1. Matar três coelhos com uma instrução só.
-    LogError(ss.str().c_str());
-
-Particularmente, gosto de instruções simples que me permitam ver claramente o que está acontecendo de forma simples pelo depurador (até porque sei que o compilador irá otimizar tudo no final em versão Release, ainda mais se estiver quebrado em instruções simples). Porém, toda solução que evita o uso da variável temporária após a execução do método str é válida.
+Solução: após arrastar o arquivo, mude suas permissões. Ou copie-o através do bom e velho copiar/colar. Diferente do arrastar, o Ctrl+C Ctrl+V não gera arquivos temporários.
 

@@ -1,23 +1,18 @@
 ---
 categories:
 - writting
-date: '2022-10-21T19:56:14-03:00'
+date: '2021-09-25T21:15:35-03:00'
 tags:
 - cinemaqui
-- mostra
 - movies
-title: Luxemburgo, Luxemburgo
+title: Luta
 ---
 
-Há algo melancólico em Luxemburgo, Luxemburgo, um filme que deveria ser uma comédia. Ele é engraçado, mas há um ruído ao fundo de tristeza, ou pelo menos de saudade.
+Luta tem a sinopse fácil de um documentário fofinho de superação sobre o primeiro time de futebol na Rússia para cegos. Como não gostar de um filme assim? Eu nem sabia que cego jogava futebol.
 
-Essa saudade está na época que Kolya e Vasya, dois irmãos de quase a mesma idade, faziam coisas de meninos juntos. Subiam em trens parados e pulavam assim que ele começasse a se mover. Nessa época o pai da família era alguém importante do mundo do crime. Quando ele precisava ir parar o trem porque um dos filhos ainda estava nele isso era feito com o poder da bala de seu revólver.
+Os detalhes são passados bem por cima e você provavelmente vai terminar o filme sem ainda entender muito bem as regras. Não tem problema. O filme não é sobre isso, mas sobre seu técnico e fundador. Ele iniciou esse movimento na Rússia e conseguiu acumular troféus e prêmios conforme seus meninos foram ficando bons de bola. Tão bons a ponto de competir com as seleções da Europa.
 
-Tudo isso não existe mais no tempo presente, que é o que acompanhamos, na fase adulta. Um dos irmãos vende drogas e trabalha como motorista se ônibus; outro segue a carreira de policial, sabotada pela conduta do irmão. A mãe vive em outro casamento e não há notícias do seu pai até então... quando ligam de Luxemburgo, avisando que ele está no hospital em seus últimos dias.
+Aí entra a politicagem russa, que insere um novo técnico no cenário. Inconformado, boa parte do filme é buscando entender essa rivalidade que surge, alimentando até certo ponto as diferenças entre os dois técnicos e a relação com os meninos jogadores.
 
-Luxemburgo, Luxemburgo é uma mistura de sentimentos conforme cada novo episódio com os dois irmãos se desenrola. Há uma esperança lá no fim do túnel para ambos, mas, por algum motivo, a redenção demora a chegar. Talvez nunca chegue. Será que eles reviverão a época com o pai com saudosismo ou amargura?
-
-Um ponto que me chamou a atenção no roteiro de Antonio Lukich (que também dirige) foi o episódio em que uma senhora é gravemente ferida por causa do irmão motorista. Interpretada por Lyudmyla Sachenko, a atriz é homenageada nos créditos finais, pois não pode se assistir, vindo a falecer depois das filmagens e antes da estreia.
-
-O que chama a atenção é que essa é a parte com a edição mais rica e uma participação maior no filme, além de ser um momento que vira a história do avesso. Isso faz pensar se o roteiro não foi modificado para inchar este momento, pois esse episódio é o único que foge de uma breve passagem para a mudança que irá chegar na conclusão. Mais do que isso, foi um verdadeiro milagre este momento, pois ele chacoalha um filme que estava quase definhando e dando sono.
+Do futebol, mesmo, vemos pouca coisa. O filme tem uma ideia interessante para nos fazer sentir como os jovens cegos em campo. Em muitos momentos não vemos o campo, nem o drible, nem o gol. Só a reação da torcida, do time, da equipe. Isso funciona até entendermos o motivo, mas logo o filme se trai e começa a mostrar alguns lances. Seria demais um filme de futebol sem vermos os gols mais importantes da equipe que acompanhamos desde o início. Mas seria honesto. Nenhum deles viu esses lances. Perde-se a comunicação com seu mundo para a comodidade do espectador.
 

@@ -1,27 +1,23 @@
 ---
 
-Hoje não é aniversário do blogue. É meu. Há exatos (sic) trinta anos nascia eu, essa pessoa que vos fala. Legal, não?
+Nietzsche havia alertado aos pensadores mais livres já no século XVII: deus está morto. Hoje, de uma maneira irônica, um movimento encabeçado por cristãos anuncia aos quatro ventos: foda-se a lógica!
 
-Beeeem legal. Tão legal quanto saber que o núcleo de um átomo representa 99,9% de sua masssa ou que uma borboleta bate duzentas mil vezes a asa por hora (só chutando, eu não sei realmente).
+É basicamente sobre isso o longa dirigido por Harold Cronk, inspirado em diversos movimentos estudantis em faculdades americanas onde a liberdade de crença foi posta em xeque.
 
-Ou saber, talvez, que o homem deciciu contar sua idade terrena através do número de vezes que esse planetinha gira em órbita de sua estrela. É o tipo de curiosidade mais que suficiente para comentar em sua quinquagésima festa de aniversário durante a rodinha do tédio (aquela em que você não tem  nada pra comentar porque já é a quinquagésima festinha do ano e as pessoas já estão cansadas de se verem).
+No entanto, girando em torno de uma aula de filosofia, o filme já começa mal, pois dispondo de uma lógica cristalina apresentada pelo professor Radisson (Kevin Sorbo), o objetivo do semestre é estudar filósofos ateus cuja premissa básica é eliminar primeiramente as crendices sobrenaturais, algo natural e esperado.
 
-Dr. House: Ah, my birthday. Normally I'd put on a festive hat and celebrate the fact that the Earth has circled the Sun one more time; I really didn't think it was going to make it this year, but darn it if it wasn't the little planet that could all over again. (1.06 The Socratic Method)
+Ainda assim, os argumentos do único estudante que não consegue conciliar sua fé e sua razão e assinar um papel escrito "deus está morto" -- para tirar essa dúvida da cabeça dos estudantes desde a primeira aula -- são surpreendentemente razoáveis, e sua motivação louvável. Infelizmente, o jovem Josh Wheaton (Shane Harper) não é lá uma pessoa muito carismática, falhando em puxar o espectador para o seu caminho divino. Aliás, nenhum das centenas de outros personagens cristãos do filme possuem qualquer traço distinto do que se espera de um cristão estereotipado: calmo, não-agressivo, cabeça baixa, ideias parcas e frases bíblicas prontas para serem ditas ao vento.
 
-Do ponto de vista estatístico (sempre ela!), então, nem se fala. Na região onde eu moro vivem dez milhões de pessoas. Em uma conta de padaria, trinta mil fazem aniversário junto comigo. Na mesma hora, talvez umas mil. Bom, mas existem sessentas minutos em uma hora! Dessa forma, eu tenho a chance de ter nascido no mesmo minuto junto de cerca de vinte rebentos. Ah, e os segundos!?!? É verdade. Sou obrigado a torcer o nariz para o "fato" que tenho mais de 50% de chance de ser a única pessoa na região de São Paulo a ter nascido no mesmo segundo. Que especial! Bom, no mundo inteiro, é óbvio que não tenho nem um milissegundo pra mim, o que torna a data tão insignificativa quanto um alerta do orkut sobre a mesma.
+Por outro lado, o impertinente Radisson, a "voz da razão", não parece tão preocupado com o estudante quando oferece a ele 20 minutos de suas aulas para tentar defender a existência do ser criador do universo. Na verdade, ele se diverte, assim como nós. Enquanto isso, histórias são narradas em paralelo, todas com uma pontinha de parábola, seja em seu tom inacreditável, ou sua voz oculta de moral. Ah, essa moral tão conhecida dos religiosos, sempre à espreita para espinhar a vida dos não-crentes.
 
-	
-  * Se aplicarmos a mesma lógica matemática à morte e aos nascimentos chegaremos à inevitável (e óbvia) equação que a vida de um indivíduo para a nossa espécie hoje em dia vale menos que sua aposentadoria. Até porque, dessa imensa maioria de pessoas que nascem e morrem, a maioria é pobre e não tem condições de contribuir com uma boa parcela de gastos para o bem de nossa economia. A maioria é burra também, e pode contribuir menos ainda pelo valor agregado de nossa riqueza.
+A parte mais desonesta de Deus Não Está Morto é que os argumentos de Wheaton obviamente são fajutos, e desmascarados em cinco minutos de pesquisa na internet. Provavelmente várias pessoas já os ouviram. No entanto, o filme os mostra como frutos de uma mente sã e que resolveu de fato usar a razão para defender a ideia de um ser criador que, de acordo com ele, é inevitável. Criando dessa forma uma rivalidade entre o "sim" e o "não", há um quê de fascinante em tentar desvendar as reais intenções dos criadores do filme, ou como elas serão reveladas. Serão sutis?
 
-	
-  * Me foi contado que aniversários são eventos para celebrar a vida, principalmente do aniversariante. Ótimo! Isso quer dizer que a vida de cada um vale menos de 0,3% do ano inteiro, já que reservamos apenas um dia em 360 para confirmar que ainda estamos respirando.
+Nem um pouco. Na última meia-hora, uma enxurrada de moral invade nossos olhos, ensinando que todos os caminhos fora do apresentado pelo protagonista são maus e condenáveis. Até o do chinês, que é ateu por ter vivido em um país em que a religião é fortemente desencorajada, se não proibida. Mais um traço desonesto a ser lançado no jogo das cartas marcadas.
 
-Bom, esse artigo já devanou demais. E como meu objetivo nem foi chegar a uma conclusão, termino por aqui. Ah, para dar mais corda pra pensar: feliz natal!
-
-PS: Mensagens de feliz aniversário serão devidamente descartadas. Ah, e feliz ano-novo pra você, também.
+Não poupando sequer o prazer sádico ao determinar o destino de seu rival através das mais batida das "ameaças" que os crentes fazem a ateus, Deus Não Está Morto é a prova convicta que, se não sabemos ainda onde encontrar evidências de sua infinita bondade, ao menos sabemos onde está sua prova contrária: infinita maldade, mau-caratismo e desonestidade. Esses estão bem vivos, talvez mais do que nunca.
 
 ---
 categories: []
-date: '2009-12-30'
+date: '2009-12-14'
 tags: null
-title: Devaneio nerd rápido sobre profecias
+title: Devaneio nerd rápido sobre aniversários

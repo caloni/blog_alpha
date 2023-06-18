@@ -1,11 +1,11 @@
 ---
 categories:
-- writting
-date: '2021-09-19T11:29:07-03:00'
+- reading
+date: '2019-09-08'
 tags:
-- beer
-title: Stout da Container
+- quotes
+title: Stephen King
 ---
 
-Como essa cerveja dizia que precisa de acompanhamentos doces como chocolates e brownies aproveitei a sessão de degustação de bolos que pedimos para entregar. O bolo com blend de chocolates coube perfeitamente. Sozinho ele é bem cremoso e lembra café como todo Stout, mas diferente do da Colorado, é equilibrado. Não é um soco no estômago, só um afago.
+"Escreva com a porta fechada, reescreva com a porta aberta." (On Writing)
 

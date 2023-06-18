@@ -1,22 +1,22 @@
 ---
 
-Hanami conta a história de um casal que mantém uma vida pacata no interior da Alemanha enquanto mantém uma relação distante com seus três filhos, especialmente o caçula, que vive em Tóquio. O sonho da esposa é poder visitá-lo, pois, além da saudade, é visivelmente encantada pela cultura japonesa, como pode-se perceber pelos detalhes de decoração da casa deles e pelo seu interesse no butô, um estilo de dança teatral que utiliza a expressão do corpo e seu efeito na sombra formada pelos movimentos.
+A peça de Raul Brandão, escritor português, inspira um cineasta da região de Açores, Rodrigo Areias, a documentar uma vila de pescadores portugueses de onde veio sua família, e como consequência somos brindados com Hálito Azul, onde a poesia, a cultura, a religião e a ecologia do local, não são perdido no tempo, mas transformado em algo a mais.
 
-Assim como o butô, a direção de Doris Dörrie ([Felicidade]) trabalha sua narrativa de maneira sutil, desenhando e evoluindo as emoções do marido a partir da sombra de sua mulher, que sempre determina suas ações a partir de um momento-chave no longa. Para isso, é vital a entrega do ator Elmar Wepper, que compreende que viver passa a ter como função realizar os desejos de sua mulher, e daí a dicotomia da dança, que une marido e esposa como corpo e sombra (sendo que quem comanda os movimentos é justamente a sombra, na visão de uma dançarina de butô que surge no filme no segundo ato).
+Esse algo a mais escapa do autor e diretor, mas por muito pouco, pois ao nos mostrar a vida dos pescadores como protagonistas de sua vida e encenar momentos belíssimos dentro e fora do mar o filme já mergulha em uma simbologia rica em detalhes visuais, restando desenvolver suas histórias. O palco está pronto para aventuras, mas o ensaio é eterno.
 
-Hanami é o costume dos japoneses de observar a beleza das flores. Esse costume possui mais tradição na época em que as cerejeira florescem. No filme, a cerejeira desempenha um papel mais simbólico do que funcional, mas tem seus motivos, pelo menos filosóficos: ciente que não vai viver por muito mais tempo, o marido resolve como último impulso viver o resto de seus dias trazendo significado para a mulher, ainda que suas ações pareçam tão efêmeras, como a própria beleza das cerejeiras, que florescem em um determinado período do ano em abundância, mas logo desaparecem.
+Acompanhamos a vida dos habitantes sob a ótica do cuidador do farol, cujo papel de narrador, visual de barba que molda a cara e touca característica veio direto da imaginação de obras sobre o mar, seja Mobi Dick e 20 Mil Léguas Submarinas ou Camões. Ele e tantos outros cantam justamente o que estão fazendo no momento: "estou procurando minhas chaves para abrir a porta da frente de minha casa". Involuntariamente isso cria um universo à parte que vira combustível para novas histórias que serão lembradas daqui a quinhentos anos.
 
-Esse simbolismo, aliás, também é usado na ideia de que é raro que o Monte Fuji apareça aos olhos humanos devido à névoa que cobre toda a região em volta. Porém, quando isso acontece, devemos aproveitar essa oportunidade e fazer tudo que devemos fazer.
+Mas os mais novos são vistos sem trabalho ou sem interesse em frequentar a escola, premeditando tempos difíceis de transformação em um país e um continente que vivem de crise em crise se esquecendo do seu passado. O mar não é mais o mesmo e existem cotas de pesca para não exaurir as forças da natureza. Entre dominar e destruir o ecossistema há uma linha tênue muito fina que já foi lançada e quebrada no século passado.
 
-Não é assim com a própria vida, tão efêmera, mas tão valiosa?
+Não é certo enxergarmos beleza em Hálito Azul, mas o filme o faz de qualquer maneira. Ele está apaixonado pelo tema e nos traz uma das línguas mais belas já faladas pela humanidade, o português raiz, estranhamente dublado, ou vilipendiado, nas legendas em inglês, o que será uma pena para o espectador estrangeiro, mas uma impossibilidade intransponível em filmes falados que tivemos que nos acostumar. Brasileiro que sou mal entendo um pescador português falando, ainda mais nos Açores, mas não se trata da frase completa, mas da sonoridade das palavras e seus significados ocultos a um não-falante.
 
-[Felicidade]: {{< relref "felicidade" >}}
+Curto e grosso e sem história para contar, Hálito Azul é um breve panorama do mundo hoje em um porto secular. Cumpre seu papel documental sem honras, pois não há guerra, não há conflito e não há documento, pois boa parte da história é ficcional, construída por Rodrigo Areias e Eduardo Brito para dourar a pílula. Os assuntos estão soltos, jogados ao mar. É filme de mostra, de festival, que não pretende ir mais além. Em termos das grandes navegações do passado, fica eternamente ancorado pela sua própria contemplação.
 
 ---
 categories:
 - writting
-date: '2016-01-22'
-link: https://www.imdb.com/title/tt0448157
+date: '2011-10-29'
+link: https://www.imdb.com/title/tt0910559
 tags:
 - movies
-title: Hancock
+title: Cerejeiras em Flor

@@ -1,18 +1,24 @@
 ---
-categories:
-- writting
-date: '2015-12-09'
-link: https://www.imdb.com/title/tt1727776
-tags:
-- movies
-title: Como Sobreviver a Um Ataque Zumbi
+categories: []
+date: '2007-07-18'
+title: Como ser um melhor desenvolvedor nos próximos seis meses
 ---
 
-Mais um filme sobre zumbis que une o velho clichê da impopularidade de nerds -- nesse caso, escoteiros -- com uma daquelas aventuras juvenis que libera poucos peitinhos para muito sangue e tripas. Não há muito interesse no desenrolar dos personagens, nem se eles vão sobreviver (dica: vão) e muito menos o que começou tudo isso. Zumbis, jovens, e é isso.
+Graças ao meu amigo Thiago estive acompanhando uma série de posts de gente renomada sobre o tema deste artigo. Eles fazem parte de uma nova modalidade entre os blogueiros (pelo menos para mim) chamada de tagging. Funciona assim: você escreve sobre algo (por exemplo, "como ser um melhor cozinheiro em 6 meses") e manda uma tag para que outras pessoas também escrevam sobre o mesmo assunto, o que pode ser feito referenciando o sítio dessas pessoas.
 
-Há até uma festa secreta dos populares na escola. Há até mesmo a vizinha velha e chata. Há até mesmo uma breve sequência com gatos assassinos. Há algumas brincadeiras estilo homenagem, a velha sequência de planos separados por uma janela à prova de som, piadas com sexo, etc.
+Ainda não tive tempo de ler todos os artigos (nem vou ter, pela velocidade com que isso se espalha), mas acho que dá tempo de escrever um pouco sobre isso.
 
-O diretor, Christopher Landon, é roteirista dos filmes "Atividade Paranormal", e aqui desempenha um trabalho divertido quando ele consegue empregar algum ritmo. Infelizmente, na maioria das vezes não há ritmo nenhum, apenas diálogos e mais diálogos seguido de uma piada ou outra. Muitas vezes nem parece que estamos em um filme tão agitado. Outras vezes gostaríamos que o filme não fosse tão agitado.
+Acredito que nós, programadores, tentamos aprimorar nossos conhecimentos e nossas técnicas com o objetivo de enxergar os problemas do dia-a-dia de todos os ângulos e de encará-los e resolvê-los da melhor maneira possível. Quer dizer, nós achamos que é a melhor maneira possível. E exatamente por acharmos que tentamos melhorar sempre, em busca da inalcançável perfeição.
 
-Com pelo menos uma sequência memorável que envolve um velho, seu órgão sexual, uma janela e um pula-pula, Como Sobreviver a Um Ataque Zumbi em seu todo vira mais um desses filmes que esquecemos assim que ele termina, pois tudo não passou de meia-dúzia de fases de um vídeogame. O bizarro prazer da geração atual em assistir atores realizando um jogo em live-action com obstáculos e final já pré-definidos.
+O problema existe quando nós, embriagados pela falsa crença de sabermos tudo (ou o suficiente), acreditamos realmente que estamos fazendo o melhor possível e que não há nem haverá maneira de melhorar. É lógico que sempre há. Melhor maneira de ver isso é pegar um código-fonte antigo e observar as mudanças de estilo. E nem precisa ser tão antigo assim. E nem precisa ser código. Pode ser uma idéia antiga de como implementar alguma coisa. A não ser que você seja um teimoso que quer fazer tudo em assembly verá que o que aprendemos ontem influencia nas decisões de amanhã.
+
+Minha lista não é muito diferente da dos outros. Basicamente se resume em: ler livros e blogs, programar mais e pensar mais ainda. O importante é que já estou ciente das coisas que devo melhorar, e é nelas que devo me focar nos próximos 180 dias:
+
+ - Fazer um curso de memorização. Confesso que não ligava muito para isso e agora isso faz um diferença e tanto. Eu sei que hoje temos post-its e agendas, mas nada substitui a confiança que temos em nossa própria mente. E é frustrante ler um livro três meses atrás e não se lembrar de capítulos inteiros.
+
+ - Fazer um curso de leitura dinâmica. Minha velocidade na leitura é deplorável e eu sei disso. Minha vontade de ler sempre ultrapassa o ato (isso deve ter acontecido com alguns de vocês). Mas o objetivo não é apenas ler mais rápido. É ter foco. Ler e absorver. Não estou dizendo isso de livros de ficção, que para mim são um entretenimento prazeroso. São os livros técnicos que pertubam, e urgem pela minha atenção quando os estou lendo.
+
+ - Aprender o meu ritmo. Às vezes me impressiono com o meu descaso para comigo mesmo. Por exemplo, eu já sabia que "rendia" bem mais quando lia livros simultaneamente, e não em fila. Mas mesmo assim insistia em querer terminar um livro antes de começar o outro. O resultado? Aproveitamento 60%. Nada mau. Mas poderia ser bem melhor. Bastava seguir o método que melhor se adapte às minhas necessidades. E isso é o que eu chamo de aprender a si mesmo.
+
+Agora que já passei pelo sofrimento de taguear nada como escolher minhas vítimas. Não conheço pessoalmente muitos blogueiros, mas pelo menos essa minha lista é fiel e sincera. Rodrigo Strauss, Fernando Roberto e Thiago Oliveira: o que vocês farão nos próximos seis meses para se tornarem melhores desenvolvedores (ainda)?
 

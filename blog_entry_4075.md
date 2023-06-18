@@ -1,20 +1,128 @@
 ---
 categories:
-- writting
-date: '2016-03-27'
-link: https://www.imdb.com/title/tt4908644
-tags:
-- movies
-title: 'Winter on Fire: Ukraine''s Fight for Freedom'
+- coding
+date: '2008-09-23'
+tags: null
+title: Windows Jobs com Completion Port
 ---
 
-Um hino à liberdade em três atos. No primeiro ato, a repulsa à traição do líder máximo da nação com uma manifestação espontânea e apartidária. No segundo ato, um cenário de conflitos que são dominados pelo patriotismo e organização cooperativa. No terceiro ato, o estado, esse monstro disforme que mata tudo que toca, revela sua última faceta, e transforma o hino de liberdade em um banho de sangue.
+Ou "Como esperar o término de todos os processos-filho criados a partir de um conjunto de processos".
 
-A tomada da Praça da Independência em Kiev, capital da Ucrânia, por civis em posse de seus direitos de protestar, foi a melhor forma de se manifestar através da ação a teórica auto-determinação de um povo. Independente desde 1991 da Rússia Soviética, foi a chegada ao poder de um presidente-fantoche, aliado aos interesses russos de continuar submetendo os habitantes da Ucrânia aos desejos da mãe-russa, e sua recusa em assinar o tratado de livre comércio com a União Europeia, que deu origem ao estopim necessário para uma série de movimentos civis pró-liberdade. Sim, o objetivo claro e conciso dessas pessoas era simplesmente se verem livres da influência de um mundo que se provou avesso à liberdade e dignidade humanas, e marchar em direção ao mundo civilizado, o mundo do comércio pacífico entre as pessoas, o mundo da única chance do ser humano de se tornar algo a mais do que um animal submetido ao sacrifício: o capitalismo.
+Dessa vez confesso que esperava um pouco mais de documentação do MSDN, ou pelo menos um sistema de referências cruzadas eficiente. Outro dia demorei cerca de duas horas para conseguir [criar um _**job**_](http://msdn.microsoft.com/en-us/library/ms682409(VS.85).aspx), anexar o processo desejado e, a pior parte, esperar que todos os processos (o principal e seus filhos e netos) terminassem.
 
-No entanto, entre o desejo e sua concretização haviam barricadas, e soldados armados e treinados, dispostos a ferir e até matar pessoas. Sua motivação? Não se pode explicar como humana, mas apenas como animais contratados por um líder que se mostrou um tirano sanguinário em uma questão de meses. Note bem: se "mostrou", não se "transformou", pois na verdade já era. Essa é a natureza do estado, ou pelo menos a motivação mais primitiva: subjugar pessoas pelo uso da força. A retirada de indivíduos de seu livre-arbítrio. O presidente-fantoche era apenas o tirano da vez, que teve o azar de ter que tirar sua máscara para defender seu bem mais precioso: o poder sobre a liberdade de milhões de indivíduos, e todas as recompensar que veem junto disso.
+Além da [pouca documentação](http://msdn.microsoft.com/en-us/library/ms684161(VS.85).aspx), parece que não são muitas as pessoas que fazem isso e publicam na web, ou eu [não sei procurar direito](http://www.google.com.br/search?q=wait+all+processes+inside+job+object).
 
-O diretor Evgeny Afineevsky e o roteirista Den Tolmor realizam um trabalho que caminha passo-a-passo com a contemporaneidade do século 21 e seus celulares, milhares de câmeras informais espalhadas em torno de qualquer acontecimento ao redor do mundo. Através de uma narrativa que escolhe personagens importantes, ou significativos, para a história que quer contar, podemos facilmente navegar em meio ao caos dos dias que se passam na praça e nos conflitos, pois há sempre uma linha de raciocínio, a unir presente e passado dessas pessoas, para o imediatismo dos conflitos. Quando vemos uma dessas pessoas ser entrevistada, o que ela está dizendo nos remete diretamente à ação registrada por alguns desses milhares de celulares ou câmeras. A facilidade de acompanhar a ação dá impressão de ter sido uma edição fácil, mas na verdade isso é fruto de um trabalho afiadíssimo do montador Will Znidaric, que consegue dar uma fluidez invejável a um documentário, fazendo-o se comparar em intensidade aos melhores filmes de ação e drama, com o adendo significativo de tudo aqui filmado estar acontecendo de verdade.
+Mas, pra início de conversa, o que é um job mesmo?
 
-A paixão do povo ucraniano pode ser vista nesse documentário em uma revolução dos dias atuais e filmado como nos dias atuais. Graças à internet e à tecnologia, a vida acontece muito mais rápido. Não leremos nos livros de história a respeito da Revolução Ucraniana, mas a testemunhamos através dos celulares de indivíduos, registrando em tempo real, em cores, com alta definição e altíssima intensidade, a crueldade de um sistema político centralizando que, democrático ou não, deixa de servir ao seu povo quando os reais motivos de sua existência não mais estão suficientemente alinhados. Que isso sirva de lição para qualquer país que queira se tornar sério neste século. E que, como Cinema, este exemplo se torne o "Homem com uma Câmera na Mão" deste século, com a diferença desta câmera estar fragmentada em milhões de testemunhos.
+#### Leve introdução sobre o conceito de jobs
+
+Um job é um objeto "novo" no kernel do Windows 2000 em diante, e se prontifica a suprir a carência que havia anteriormente de **controle sobre o que os processos podem fazer e por quanto tempo**.
+
+A abstração mais coerente que eu consigo tirar de um job é como **um trabalho a ser executada por um ou mais processos**. O objeto job controla a criação, o término e as exceções que ocorrem dentro dele mesmo.
+
+{{< image src="job.gif" caption="Windows Jobs" >}}
+
+Entre as funções mais úteis de um job estão limitar o tempo de execução do conjunto de processos, o número de handles/arquivos/outros objetos abertos, limite de memória RAM ocupada e a possibilidade de terminar todos os processos de uma só vez.
+
+Para informações básicas de como criar um job e anexar processos recomendo o ótimo artigo de [Jeffrey Richter](http://www.microsoft.com/msj/0399/jobkernelobj/jobkernelobj.aspx).
+
+No final de um artigo de Jeffrey Richter (não mais disponível) sobre o assunto ele chega a citar o controle mais refinado dos processos através de uma [**completion port**](http://msdn.microsoft.com/en-us/library/aa365198(VS.85).aspx), que permitirá receber eventos que ocorrem dentro de um job durante sua vida útil. Apesar de citar, não há código de exemplo que faça isso.
+
+Bom, agora há:
+
+```
+#define _WIN32_WINNT 0x0500 // Jobs só existem do 2000 em diante
+#include <windows.h>
+
+/** @brief Função que cria um processo a partir de cmdLine
+ * e coloca-o dentro de um job. A função aguarda o término
+ * do processo e de qualquer subprocesso criado por este.
+ */
+DWORD CreateJobAndWait(LPSTR cmdLine)
+{
+   // primeiro, criamos um job sem nome
+   HANDLE job = CreateJobObject(NULL, NULL);
+
+   if( job )
+   {
+      STARTUPINFO si = { sizeof(si) };
+      PROCESS_INFORMATION pi;
+
+      // depois, criamos um processo suspenso (travado)
+      if( CreateProcess(NULL, cmdLine, NULL, NULL, FALSE, 
+         CREATE_SUSPENDED | CREATE_NEW_CONSOLE, NULL, NULL, &si, &pi) )
+      {
+         // atribuímos esse processo ao nosso jobo
+         AssignProcessToJobObject(job, pi.hProcess);
+
+         // rodamos o processo
+         ResumeThread(pi.hThread);
+
+         // essa é uma completion i/o port genérica
+         // (ou seja, não relacionada com nenhum arquivo
+         // ou outra completion port)
+         HANDLE port = CreateIoCompletionPort(INVALID_HANDLE_VALUE, 
+                 NULL, 0, 0);
+
+         if( port )
+         {
+            JOBOBJECT_ASSOCIATE_COMPLETION_PORT jobPort;
+
+            jobPort.CompletionKey = 0; // ver variável key abaixo
+            jobPort.CompletionPort = port; // nossa completion port vai aqui!
+
+            // definimos a c.p. em nosso job
+            if( SetInformationJobObject(job, 
+                        JobObjectAssociateCompletionPortInformation, 
+                        &jobPort, sizeof(jobPort)) )
+            {
+               ULONG_PTR key = 0; // ver membro CompletionKey acima
+               LPOVERLAPPED overlap = 0;
+               DWORD tranferred = 0;
+
+               // nosso loop de mensagens com completion port
+               while( GetQueuedCompletionStatus(port, &tranferred, 
+                  &key, &overlap, INFINITE) )
+               {
+                  // transferred especifica a mensagem
+                  DWORD msg = *(LPDWORD) &tranferred;
+
+                  // significa que não existem mais processos rodando
+                  if( msg == JOB_OBJECT_MSG_ACTIVE_PROCESS_ZERO )
+                     break; // saímos fora
+               }
+            }
+
+            CloseHandle(port); // fecha tudo
+         }
+
+         CloseHandle(pi.hThread); // fecha tudo
+         CloseHandle(pi.hProcess); // fecha tudo
+      }
+
+      CloseHandle(job); // fecha tudo
+   }
+
+   return 0;
+}
+
+int main(int argc, char* argv[])
+{
+   if( argc == 2 )
+      CreateJobAndWait(argv[1]);
+}
+```
+
+O exemplo acima cria um processo baseado em uma linha de comando e espera pelo término do processo criado e de todos os subprocessos criados a partir do primeiro processo. Note que mesmo que o primeiro processo termine, a Completion Port só receberá o evento que todos os processos acabaram depois que o último subprocesso terminar.
+
+Dessa forma, ao compilarmos o código e rodarmos mais um prompt de comando através de nosso programa ele fica travado mesmo ao fecharmos o prompt criado. O programa só será finalizado ao fecharmos o Bloco de Notas iniciado pelo segundo prompt.
+
+Além desse evento, que era o que eu estava procurando, esse método permite obter outros eventos bem interessantes:
+
+  * JOB_OBJECT_MSG_NEW_PROCESS. Um novo processo foi criado dentro do job.
+  * JOB_OBJECT_MSG_EXIT_PROCESS. Um processo existente dentro do job foi terminado.
+  * JOB_OBJECT_MSG_PROCESS_MEMORY_LIMIT. O limite de memória de um processo já foi alcançado.
+  * JOB_OBJECT_MSG_END_OF_PROCESS_TIME. O limite de tempo de processamento de um processo já foi alcançado.
+
+Enfim, jobs não terminam por aí. Dê mais uma olhada no MSDN e veja se encontra mais alguma utilidade interessante para o nosso amigo job. Eu encontrei e fiquei feliz.
 

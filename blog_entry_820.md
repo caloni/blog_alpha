@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-02-05'
+date: '2015-04-19'
 tags:
 - food
-title: Callia Alta Malbec 2016
+title: Callia Alta Malbec
 ---
 
-Vinho argentino bom como sempre; frutado no aroma e no sabor; cereja meio geleia; um pouco enjoativo sem acompanhamento. Um pouco mais amargo que o frutado típido do Malbec.
+Bem forte e equilibrava bem com o Skirt Steak do Ouback.
 

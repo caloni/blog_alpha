@@ -1,36 +1,16 @@
 ---
-categories: []
-date: '2017-05-28'
+categories:
+- writting
+date: '2014-03-24'
+link: https://www.imdb.com/title/tt2042568
 tags:
-- lists
-title: Insights sobre produtividade, auto-ajuda e melhora contínua
+- movies
+title: 'Inside Llewyn Davis: Balada de um Homem Comum'
 ---
 
-É muito comum programadores, hackers e nerds em geral procurarem bons artigos que os tornem pessoas mais produtivas sem sacrificar a saúde física e mental. No decorrer dos anos me deparei com umas boas leituras. Tão boas que de vez eu quando eu volto a lê-las, e tão boas que acho que vale a pena compartilhar aqui:
+Os irmãos Coen (Onde os Fracos não Têm Vez, Fargo) são mestres em contar histórias prosaicas e mergulhar fundo nas sensações que estas geram, sempre de uma forma estilizada e com uma fotografia impecável (Bravura Indômita, O Grande Lebowski) que evoque o ambiente onde se situa a ação. Esse "Inside Llewyn Davis - Balada de Um Homem Comum" não foge à regra e se torna a partir da transformação em ficção do músico folk Dave Van Ronk um verdadeiro estudo de personagem.
 
- - 10 Passos para a Estratégia Kaizen
- - 5 Unusual Ways to Start Working Smarter, Not Harde,  Backed by Science
- - The Mechanics of Emotion
- - Best Writing Advice for Engineers I've Ever Seen. Period.
- - How to Beat Procrastination
- - How to Make Mistakes
- - How to be a great software developer
- - News is bad for you and giving up reading it will make you happier
- - O cansaço mental
- - Scott Adams: How to Be Successful
- - Sleep Everything You Need To Know
- - Technology is Heroin
- - The 10 commandments for happiness and success
- - What You'll Wish You'd Known
- - FLOW - a productivity hack for life
- - Flow (psychology))
- - Jessica Livingston's Pretty Complete List on How Not to Fail
- - Negative Emotions Are Key to Well-Being
- - Optimizing Your Development Environment
- - Start by Understanding the Emotions Involved
- - Willpower Improvement
+Porém, está longe de ser apenas isso, pois o filme é apenas um recorte do que foi a vida do cantor. O Llewyn Davis (Oscar Isaac) do filme é um fracassado que consegue inspirar a discórdia de todos ao seu redor, procurando um sofá onde dormir toda noite. Sua relação com o gato de um casal de amigos aos poucos se torna seu termômetro social, pois em determinados momentos o bichano assume uma importância desproporcional ao que está acontecendo (como ao discutir a gravidez de uma ex-amante). A música folk, obviamente, se transforma em um narrador onisciente de tão indispensável. A atuação de Oscar Isaac é precisa em diversos momentos, onde o nervosismo e o sarcasmo do sujeito vai saindo aos poucos. Seu rival mais visceral é um velho duplamente repugnante (John Goodman).
 
-Espero que essa lista te ajude de alguma maneira.
-
-Fonte: Hacker News, internet, horas e mais horas de procrastinação, horas e mais horas perdidas de sono.
+Tematicamente "Inside Llewyn Davis" faria um par indissociável de Turnê (2010), ambos apresentados após o mais leve e simpático Frances Ha, pois é a história de um fracasso artístico e pessoal levados ao extremo. Porém, repito, essa é apenas a visão dos diretores, o que faz toda a diferença. Note a inversão de expectativas da sequência inicial em que ele leva uma surra e verá a mágica de como a narrativa é que constrói a nossa visão de mundo.
 

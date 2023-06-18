@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2012-03-04'
-link: https://www.imdb.com/title/tt0088930
+date: '2019-05-05'
+link: https://www.imdb.com/title/tt0246405
 tags:
 - movies
-title: Os 7 Suspeitos
+title: Os 27 Beijos Perdidos
 ---
 
-Já faz algumas décadas que não revia essa comédia ambientada nos anos 50 que mistura elementos de suspense, terror e policial de uma maneira particularmente competente. De certa forma, quando eu tinha cerca de 10 anos já sabia que a graça do filme residia tanto em sua história quanto na dinâmica do grupo, os suspeitos do título.
+Mais um filme russo dos anos 2k essa semana, filmado na Geórgia, Grécia, Alemanha, falado em russo, inglês, francês. Uma cidadezinha onde as jovens mulheres estão em polvorosa. Para piorar a cidade assiste Emanuelle as mil formas de amar. A única que não pode transar com seu grande amor, um professor de 41 anos, é a jovem Sibylla, de 14 anos. Enquanto isso o filho do professor tem direito a 100 beijos nessa menina, mas perde a chance de dar 27. Sim, a história é confusa desse jeito, além de ir a lugar algum.
 
-Algumas piadas, é verdade, estão datadas, e muito dos comportamentos dos personagens podem gerar estranheza. Porém, a dinâmica entre os atores continua lá, e funciona, assim como a direção ágil e cheia de energia de Jonathan Lynn, que consegue, por exemplo, trocar a ambientação da casa para aterrorizante em um determinado momento do longa apenas para as gags que ocorrem quando o grupo resolve se separar em duplas para averiguar os aposentos da casa. Da mesma forma, quando o mordomo começa suas explicações, é nítido que os cortes ficam mais rápidos e fluidos. Para isso temos uma ajuda primordial da trilha sonora, que brinca com o aspecto "fanfarrão" do longa assim como a direção de arte e o figurino.
+Mas esta produção russa tem seu charme cultural. Logo no começo, quando o ônibus chega na cidade trazendo Sibylla ele é bombardeado pelo Tenente que não consegue engravidar sua mulher, a igualmente deliciosa Veronica; o ônibus perde o freio e fica dando voltas na praça para as pessoas descerem. Há metáforas para todos os lados sobre sexo, ou simplesmente sobre a vida, erotizada como em qualquer história com uma lolita que não se importa de ficar pelada onde quer que seja.
 
-Hoje em dia poderia constar como uma comédia bobinha dos anos 80 para muito dos jovens cinéfilos, mas o fato é que dirigir um filme naquela época e ainda hoje continuar com a maioria das piadas praticamente intactas é um privilégio de poucos (vide [Mulher Nota Mil] e outra cópias da época). Nesse sentido, temos uma pequena aula de como dirigir comédias pastelão.
+Este é um filme cujos acontecimentos servem para belas sequências de ação sem muito motivo de ser e onde a erotização é uma atração, sim, e pode interessar os marmanjos, embora tenha um leve toque de gênero sobre puberdade e paixão juvenil. A bela paisagem ainda serve de recepção a um capitão francês que traz seu barco sem o mar, e mais metáforas sobre o sexo e a vida surgem.
 
-[Mulher Nota Mil]: {{< relref "mulher-nota-mil" >}}
+Vibrante sem muita cadência, 27 Beijos Perdidos é daqueles filmes que vai de nenhum lugar a lugar algum, cansa em alguns momentos e em outros entretém. Será que é porque vamos belas mulheres nuas pelo caminho em cenas de sexo calientes como em Emanuelle? Pode ser. Mas estou pensando com a cabeça de baixo.
 

@@ -1,16 +1,20 @@
 ---
 categories:
 - writting
-date: '2014-03-06'
-link: https://www.imdb.com/title/tt0084516
+date: '2021-03-07'
+link: https://www.imdb.com/title/tt1337051
 tags:
 - movies
-title: 'Poltergeist: O Fenômeno'
+title: Polícia, Adjetivo
 ---
 
-Um terror produzido e roteirizado em parte por Steven Spielberg não poderia ser lá muito assustador. Chega a ser até um pouco engraçado, como na cena inicial com dois controles remotos que controlam a mesma televisão. Porém, diferente de metade dos terrores produzidos antigamente e hoje em dia, pelo menos é coeso e tenta puxar um pouco mais o espectador.
+Cinema romeno nunca me desaponta. Nesse acompanhamos a rotina de um investigador de polícia vigiando três jovens que fumam maconha. No país ainda é crime consumir. O policial não quer fazer o flagrante para não ficar com a prisão de um jovem na sua consciência e porque "a lei logo vai mudar, na Europa inteira já não é assim". Sua rotina é monótona de propósito. O filme pede para observarmos seu ritmo de trabalho. É impecável. Quanto menos a história nos conta, focada apenas no ponto de vista do policial, mais ela nos dá a liberdade de refletir sobre o sistema.
 
-É assim com "Poltergeist, O Fenômeno", um filme da década de 80 onde ainda imperava a ingenuidade em tramas como essa. Nesse caso, entidades se comunicam com uma pequena menina de uma família tipicamente norte-americana (eles moram em um vale cheio de casas e quintais) através da estática da TV. Mais detalhes são inseridos aos poucos, seguindo a velha cartilha de terror usada até hoje , mas o que mais impressiona é a missão de resgate organizada por uma minúscula médium. O roteiro parece querer explicar mais do que deveria, como a existência de um antigo cemitério no local, mas isso não atrapalha a condução da história, apenas a atrasa.
+No final há um embate dialético de levantar e aplaudir. É tenso e ao usar esse adjetivo me faz ter vergonha de adorar este filme que a grande maioria dos espectadores deve achar um porre. Não consigo evitar. É demais para meu intelecto cansado de ser bombardeado de clichês no cinema medíocre e esquemão de todos os dias. Isso aqui é novo: faz pensar. Não te dá opiniões prontas. Você pode assistir com opinião formada, mas se ver até o final vai te balançar pelo menos um pouco. Se pensar a respeito, claro.
 
-Os efeitos não sobrevivem, ainda que bem feitos. O uso de quartos invertidos para simular as pessoas caminhando pela parede, como em A Hora do Pesadelo, ou o uso de maquetes envoltas de névoa, mais atrapalha do que ajuda, além dos claramente datados objetos que flutuam no ar. É um filme para o público adolescente, mas nem por isso ofensivo. E levar a sério o espectador já é metade do caminho para um ótimo filme.
+Dragos Bucur entrega uma performance autocentrada na figura de uma função burocrática que representa a lei e que age como um autômato em busca de respostas que lhe impeçam de fazer o que a lei determina. Seu olhar cabisbaixo e introspectivo revela mais quando ele interage no escritório com seus colegas. Os diálogos com sua esposa revelam um nível intelectual inesperado e fútil.
+
+O universo onde se passa essa história é surreal e ao mesmo tempo não dá para ser mais realista que isso. É inconcebível que este filme tenha sido produzido e chegado aos cinemas, mesmo que seja fisgado por organizadores de festivais por uma suposta mensagem social.
+
+Mas fico grato que outras pessoas tenham enxergado o mesmo que eu: ele é fascinante ao percorrer um caminho anticlimático e correto do começo ao fim. São quase duas horas em que quase nada acontece. Mas é um nada delicioso de acompanhar. Somos transportados para a rotina insuportável de outra pessoa. E obrigado por esses momentos.
 

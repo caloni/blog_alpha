@@ -1,26 +1,24 @@
 ---
 categories:
 - writting
-date: '2016-10-25T20:00:00-03:00'
-link: https://www.imdb.com/title/tt5709242
+date: '2016-10-23T20:00:00-03:00'
+link: https://www.imdb.com/title/tt5497778
 tags:
 - series
-title: Black Mirror - S03E02 - Playtest
+title: Black Mirror - S03E01 - Nosedive
 ---
 
-Como seria um episódio de hoje em dia da série "Além da Imaginação", que mistura lendas urbanas, teorias da conspiração e acontecimentos fantásticos, sempre com um fundinho de moral? Desconfio fortemente que seria como os idealizadores de Black Mirror nos fizeram passar este episódio-terror, que parece experimentar um Twilight Zone versão High-Tech. Este episódio, afinal de contas, também parece um playtest da série.
+É muito bom ter o Black Mirror de volta na Netflix, com episódios novos. Nenhum me desapontou até agora, tanto pelos aspectos técnicos, narrativos, mas, principalmente: em fazer pensar. E esse nos faz pensar apesar da ideia óbvia: redes sociais. Todas juntas, na vida "real", fazendo as pessoas se esforçarem por aumentar suas notas, sua popularidade. Tudo depende disso. E no caso, o tudo é uma vida cercada de mentiras. Como não amar uma série como essas?
 
-Em uma época onde os games se tornam cada vez mais detalhados, a realidade aumentada e virtual viraram uma onda frenética, e as redes neurais... ops, o machine learning nos leva cada vez mais próximos da singularidade (quando a inteligência artificial se tornar mais esperta que seus criadores). Tudo isso aliado a um protagonista que abandona sua família por não saber se comunicar com sua mãe após a morte do pai, e viaja pelo mundo enquanto vai elaborando como finalmente atender as incessantes ligações da mãe em seu celular.
+Black Mirror tem esfregado a realidade na cara do espectador há três temporadas. Agora ele conta a história de Lacie, uma garota solteira que vive com o irmão e que precisa se tornar extremamente popular rapidamente para conseguir mudar para a casa de seus sonhos (vendida pela corretora da maneira mais covarde possível: a colocando do lado de um grande amor, um holograma usado para todas as potenciais compradoras).
 
-As ideias de Black Mirror costumam ser bem mais mastigadas que isso. Parece que os roteiristas trabalharam por muito tempo para amadurecer cada um dos detalhes de seus excelentes episódios, que além de explorar bem seus temas narrativamente prendem a atenção até o fim. Nesse caso, talvez estejamos frente a um episódio desleixado, ou apenas uma miscelânea que tenta experimentar coisas novas na série (o que é ótimo, apesar de não chegar aos pés das experimentações da série da BBC Sherlock).
+Lacie tem se esforçado no social. Faz corridas pela manhã com o celular na mão, atualizando sua timeline e curtindo a dos outros. Na hora do café, cria uma foto fofa para conseguir mais likes (embora odeie café). No serviço, evita ficar do lado dos impopulares, além de bajular pessoas no elevador que mal conhece pessoalmente. Mas quem precisa conhecer pessoas hoje em dia, se a vida inteira delas, em tempo real, está no Facebook?
 
-De qualquer forma, há algo perene no ar que consegue prender a atenção até segundos finais antes dos acontecimentos catárticos finalmente acontecerem. É o mistério de qual o tipo de episódio que estamos assistindo. Pra variar, é um terror psicológico. Mas em qual camada? O que é tão aterrorizante?
+Lacie é interpretada por um achado. Bryce Dallas Howard consegue manter uma risada nervosa e falsa e hilária ao mesmo tempo que diz o nome "Greg". Apesar de pesadamente maquiada, seus olhos exibem uma versão mais doentia de Leslie Knope (a bem-intencionada da série Parks and Recreation), onde o objetivo é subir a pontuação de popularidade. Ela é enérgica consigo mesmo e com os outros, e consegue esconder sua raiva, angústia e frustração pelo bem de seus pontos.
 
-Justamente por atrasar demais suas revelações, o episódio fica arrastado, e as aparições tão aguardadas ficam não apenas aquém do que o espectador foi alimentando na sua muito mais poderosa imaginação, como o terceiro ato se torna confuso por desencadear detalhes aprendidos em revelações espalhadas pela história (há uma empresa de games promissora, eles pagam bem pelos beta testers, ele não atende sua mãe desde sua saída de casa, etc).
+E o mundo pintado pelos três roteiristas e dirigido por Joe Wright é ainda mais cruel, pois as empresas de serviço selecionam seus clientes com base em sua pontuação. Dessa forma, ou você se enquadra no que as pessoas consideram aceitável e até positivo, ou será um outcast apenas por ser você mesmo (se no caso o você mesmo for alguém desagradável para os outros). Isso leva a uma (esperada) derrocada de nossa "heroína" nesse mundo de faz-de-conta (mesmo se estivermos falando do ponto de vista desse mundo), onde ser falso é premiado, e ser honesto sempre é um risco que apenas podemos nos dar ao luxo de fazer com pessoas muito próximas como a família (o que explica porque Lacie não exita em criticar seu irmão, que está com pontuação medíocre e pouco se importa com isso).
 
-Além disso, as obvias referências, não apenas a games de terror (Resident Evil? Silent Hill?) como as obras literárias (Edgar Alan Poe), apesar de representadas em uma direção de arte fabulosa demais para uma série televisiva (e uma casa do terror tão impressionante que apenas ela é o suficiente para assustar), ainda assim, ou por causa da falta de personalidade, soam sempre fakes demais.
+Nesse mundo não quer dizer que você deve viver dessa forma ou morre. Os exilados existem, e aparentemente são mais felizes assim. A questão toda gira em torno da crítica a qualquer sistema semelhante (dê você o nome do que odeia mais: consumismo, aparência, o tal "capitalismo" que a esquerda demoniza). A série quase sempre critica o sistema, e não as pessoas que estão dentro dele. Até porque, se formos olhar de uma maneira clínica, não há praticamente nenhuma saída destes admiráveis mundos novos a não ser simplesmente ignorá-lo.
 
-Porém, há algo meio trash e meio reflexo distorcido no espelho neste episódio, que insiste em estruturar seu desfecho em camadas que tornam seu Grand Finale tão trágico quanto bizarro, daqueles casos que aparece no telejornal policial, onde não sabemos distinguir o que é humanidade do que é apenas instinto sádico e animal do ser humano.
-
-Bom, uma série como Black Mirror está a todo tempo brincando com esse conceito usando tecnologias quase na palma de nossas mãos. Nesse caso, o dos jogos de videogame, confesso que esperava muito mais imaginação por parte dos criadores. South Park já fez muito melhor.
+E, convenhamos, o final deste episódio fala por si mesmo, sem precisar de maiores explicações: os comentários de internet, principalmente os anônimos, são justamente os últimos momentos de Nosedive. Espero que se lembre disso da próxima vez que for espalhar o seu ódio em comentários inconsequentes.
 

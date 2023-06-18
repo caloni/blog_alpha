@@ -1,34 +1,27 @@
 ---
 categories:
-- coding
-date: '2008-02-07'
+- writting
+date: '2016-11-30'
+link: https://www.imdb.com/title/tt4466490
 tags:
-- english
-title: 'Silly regex trick: finding the project who failed inside a big VS solution'
+- cinemaqui
+- movies
+title: Sieranevada
 ---
 
-I know what you going to think about this one: "silly trick". That's why I just put it in the title. Anyway, that is something I use everyday, so I thought it might be useful to who cares about productivity.
+Sieranevada faz jus à descrição do Cinema, a sétima arte, como mundo dos sonhos, ou onde se sonha acordado. A sinopse deste filme: espiamos a vida de uma grande família durante os preparativos de uma refeição que parece que nunca vai ocorrer. Se isso parece um pouco fora de foco pra você, trago duas observações, uma objetiva e outra subjetiva, que podem ser importantes na hora de assisti-lo: o filme tem quase três horas de duração; e um dos seus maiores defeitos é ser curto demais.
 
-Let's say you have to manage a big solution in Visual Studio made of more than 30 projects, and needs to rebuild all them. Suddenly, something goes wrong. The question is: how to discover, in a heartbeat, what project has failed?
+A história começa com uma câmera que observa de longe um casal e sua filha se preparando para sair. Os barulhos da cidade abafam suas falas, que são ouvidas também de longe. Essa cena já nos prepara para um ritmo mais lento e contemplativo, e onde a curiosidade é o que move o espectador a todo momento. O que estão fazendo? Para onde vão? Por que deixaram o carro no meio da rua atrapalhando o trânsito? O diretor e roteirista Cristi Puiu é o narrador ativo desta história, já que sua câmera e os detalhes de sua trama são construídas de uma maneira autoral, sempre jogando com nossa percepção. No entanto, logo depois dessa cena e dos créditos iniciais que a cortam, temos uma abordagem que vai aos poucos nos levando para dentro da vida desta família e de todos seus parentes, que se reúnem na casa da mãe do marido para realizar um ritual pela morte de seu pai.
 
-{{< image src="find-error-regex2.png" caption="Find Error in VS projects using regex" >}}
+Dentro da casa há um naturalismo aconchegante nas falas, nos movimentos, na forma de posicionar os personagens (há poucos cortes, com uma câmera que sempre gira em torno dos cenários da casa e acompanha a ação quando esta convém). A impressão algumas vezes é como se fôssemos o convidado invisível para aquele evento. Em outras, é como se tivéssemos o privilégio de olhar em terceira pessoa como as pessoas se comportam em família e comparar com nossos próprios momentos.
 
-Note that you need to enable "Regular Expressions" option in the Find Dialog (not shown here).
+Isso acontece, por exemplo, quando uma mãe que recebe do filho uma bicicleta ergométrica para cuidar de sua saúde. O filho se senta na ponta da cama e vai abrindo o pacote. Ela conversa com ele enquanto consola a irmã após um caso de seu marido. O filho está preocupado com a tomada diferente da bicicleta, e se irrita rápido quando a mãe lhe pergunta quanto custou. A mãe também dá sinais de ter o pavio curto no segundo momento da cena, e logo percebemos que este vai ser um filme que lida com as pequenas diferenças e semelhanças entre pessoas e gerações.
 
-What I'm saying inside this regex is "find the first number different from zero followed by a space and the letters err". This lead us to the first project who has at least one error:
+Porém, nada é muito óbvio em Sieranevada. Temos que fazer parte daquela família para aos poucos entendermos o que está acontecendo, qual a relação de fulano com sicrano, quais as esquisitices de cada um. Há um que é viciado em teorias da conspiração sobre o governo Bush (que lê na internet), de onde surgem as conversas sobre política no grupo dos homens (além da mais velha do grupo ter sido uma ativista na época comunista da Romênia). Há também o drama entre um casal jovem com um bebê, a briga da tia com seu marido (e a tensão de seus filhos) e a espera impaciente pela vinda do padre, que irá realizar orações e benzer o local antes que todos possam comer.
 
-    ------ Build started: Project: FailedProj, Configuration: Release Win32 ------
-    Compiling...
-    stdafx.cpp
-    Compiling...
-    FailedProj.cpp
-    FailedProj.cpp(2477) : error C2039: 'Blablabla' : is not a member of 'IBlabla'
-    Build log was saved at "file://c:Projects...ReleaseBuildLog.htm"
-    FailedProj - 2 error(s), 0 warning(s)
+Não há muito foco específico na história que acompanhamos, exceto a própria interação entre aquelas pessoas e como tudo isso é pertinente ao compararmos com as famílias da vida real (nossa ou dos outros). Os velhos temas e as velhas formas de lidar com eles em família viram observações perspicazes nas mãos de Cristi Puiu, o que seria na vida real apenas uma tarde entediante. Os detalhes técnicos do filme também ganham corpo enquanto ficam no seu lugar, sutis, auxiliando a narrativa. Como a música, inexistente, exceto no radinho da cozinha (e que é desligado durante a missa do padre), ou uma direção de arte tão impecável que nos sentimos realmente na casa de uma família com três gerações, a casa da mama, onde as fotografias são empilhadas no armário da cozinha ou no quadro da sala de jantar, e onde as portas possuem vitrais charmosos enquanto velhos e empoeirados. E o que dizer do famigerado cantinho do cigarro, a janela da cozinha que dá pra fora, onde o frio invernal impera?
 
-If you think "what about when a project generates more than 9 errors? the regex wouldn't be able to catch this case", well, you're right. Anyway, that's the quicker form to search for the unsuccessful project inside a big solution. A more complex yet complete regex would be:
+A questão é: Sieranevada não é um filme que está disposto a agradar o espectador com floreios, e talvez por isso mesmo seja apaixonante acompanhar esta história focada na família. Há detalhes que precisamos pescar aqui e ali para extrair significado, e sempre é admirável quando um filme não tenta mimar o espectador, mas exige que este preste atenção. Dessa forma, usando o conflito do carro em dois momentos distintos do longa, a calma e o sarcasmo do protagonista e a discussão em torno da traição, temos o conjunto completo para uma discussão, embora velada, gritantemente espalhada pela história. O filme, aliás, poderia terminar em uma cena dentro do carro, exatamente como começou.
 
-    [1-9][0-9]* err
-
-For me, the first version is enough. It is faster to type, simpler to catch and solves my problem. I hope it can solve yours =)
+Só que não. Precisamos do almoço, esse maldito que atrasa mais de três horas. Precisamos não apenas para continuar o drama familiar, mas para nos abrigarmos novamente dentro daquela casa quentinha, cheia de humanos interagindo entre diferentes cômodos, diferentes cenas, diferentes humores. E voltamos para o sonho acordado, para finalmente nos entregarmos ao riso. Nessa hora o filme se torna curto, pois seria fácil, divertido até, acompanhar mais dramas de família como esses. Porém, tudo tem seu momento, e agora é hora de comer. Bom apetite.
 

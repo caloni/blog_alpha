@@ -1,15 +1,23 @@
 ---
 categories:
-- cooking
-date: '2019-09-08'
-tags: []
-title: Caldo de Frango
+- writting
+date: '2015-04-22'
+link: https://www.imdb.com/title/tt3442006
+tags:
+- cinemaqui
+- movies
+title: 'Cake: Uma Razão para Viver'
 ---
 
-Preparo: Colocar metade de um peito de frango com moela na panela de pressão com um fio de óleo e deixar fritar em fogo quente para tostar dos lados e soltar um queimado no fundo da panela. Depois solte o queimado do fundo e jogue cascas e pedaços de legumes (cenoura, batata, mandioquinha), alho, cheiro verde e coentro (devo ter exagerado no coentro) e frite da mesma forma com a tampa por cima sem fechar. Coloque água fervente no máximo, feche a panela e cozinhe por uma hora. Retire e coe a água que ficar do que restar. O peito pode ser usado depois em uma canja. O resultado é um caldo gorduroso, doce e cheiroso. Nunca colocar sal.
+Cake é aquele trabalho que uma atriz bonita se desfigura para parecer séria perante a Academia e "arrisca" ganhar um Oscar. Não foi dessa vez, pois o filme ganhou apenas uma indicação a melhor atriz no Globo de Ouro, o que teoricamente dá no mesmo em "importância". Jennifer Aniston desde a série Friends construiu uma carreira pautada na comédia, e agora possui umas cicatrizes no rosto e em seu passado para se tornar a amargurada Claire, que desde o suicídio de uma participante do seu grupo de apoio considera a possibilidade de usar o mesmo atalho e terminar de uma vez com suas dores intermináveis pelo corpo.
 
- - 2018-08-17 Fiz novamente ambos os caldos, mas dessa vez para estocar. E sem legumes. Muio melhor, pois depois é só inserir os legumes que se quer por um tempo no caldo base. Para o frango basta o peito de peru tostado com pouco óleo, jogar os pés (baratos) e deixar três horas em fogo baixo. Para a carne o ideal é músculo, mas não tinha, então foi buchada bovina com um pouco de coxão mole na pressão por uma hora e mais umas três horas em fogo baixo. A buchada no final fica molinha e o caldo bem oleoso.
- - 2018-08-13 Fiz caldo de frango e de carne. De frango usando moela, peito e pés. Os pés possuem ossos. Deixei só isso por três horas e o resultado ficou soberbo. Após isso coloquei cascas de legumes e cheiro verde, mas ando exagerando. Ficou suave demais. Acredito que apenas um pouco é suficiente para dar um cheiro. A mesma coisa aconteceu com o caldo de carne que experimentei com carne do freezer e rabada bovina (com osso no meio). Só depois de comprar pesquisei e vi que é melhor músculo. Três horas em fogo lento parecem suficientes.
- - 2018-06-18 A última canja e caldo de frango e legumes se mesclaram e os legumes e cheiro verde ficaram presentes demais. A culpa foi da falta de gordura no peito do frango e queimar demais a moela. De qualquer forma virou uma versão extremamente light e ainda saborosa para noites frias.
- - 2017-06-07 Jogue manteiga em uma panela e frite levemente legumes cortados em quadradinhos. Coloque frango desfiado, arroz e água. Cozinhar no mínimo por meia-hora e mexer de vez em quando para não grudar no fundo. Para um resultado melhor deixar mais de uma hora apurando em fogo baixo. Acerte sal e pimenta. Feito na janta em casa.
+Dor, aliás, é quase tudo o que a atriz representa. A vemos mal conseguir se agaixar, e no carro nunca consegue se levantar. O trauma de ter perdido o filho em um acidente de automóvel vai aos poucos sendo desvendado, assim como os pequenos detalhes que mudaram sua vida. O seu divórcio, a empregada como sua única companhia, seu empregado como único (e vergonhoso) alívio sexual, e sua atual obsessão com a história de Nina (Anna Kendrick), a garota-suicida que começa a aparecer para ela como um fantasma.
+
+O que tinha tudo para ser um drama complexo vai aos poucos desmoronando no roteiro convencional de Patrick Tobin e na falta de criatividade do diretor Daniel Barnz. É assim que um passeio por Tijuana é um pretexto idiota para uma tentativa de humanizar Claire que parece desumanizar o próprio filme (ou pelo menos escancarar a falta de lógica da protagonista em seu ato de bondade aleatório). É assim que uma jovem desconhecida se torna o passageiro do "quarto ato" da história para convenientemente realizar uma única função. E é assim que Jennifer Aniston pode até sacrificar sua beleza, mas a troca por uma carranca melancólica repetitiva serve apenas para que aos poucos revele a unidimensionalidade de seu personagem.
+
+Não é nem que o filme seja chato, arrastado ou insuportável. O problema é que ele se torna uma viagem convencional no pior estilo do sub-sub-gênero "filmes do Adam Sandler" (se Adam Sandler -- alguém o segure! -- fizesse dramas). Não é também que a história tenha prometido alguma coisa além do medíocre, já que o primeiro diálogo de Claire, que faz com que ela seja delicadamente convidada a se retirar do grupo de apoio, não causa o impacto que Barnz acredite ter gerado para subir os créditos iniciais.
+
+Seguindo essa dinâmica praticamente o filme inteiro, cada nova sequência desmorona em si mesma. Vejamos a cena em que Claire deseja sentir o que Nina sentiu olhando no mesmo ponto do viaduto em que se jogou. Ela olha, a câmera se aproxima, ela fecha os olhos e... o resto qualquer espectador médio imagina o que seja e também imagina o que é revelado depois em seguida. Com isso o filme não consegue nem estabelecer sua mensagem direito e menos ainda impactar no seu desfecho. Uma perda de tempo que se repete indefinidamente, e ainda que o novo relacionamento não-convencional com o viúvo de Nina seja um pouco a favor, este nunca é explorado além do (inonicamente) convencional.
+
+Cake poderia ser esses dramas mais leves que não possuem pretensão de ganhar prêmios. Porém, sua preocupação excessiva em soar diferente acaba o fazendo rodar em torno do mesmo lugar diversas vezes. Até isso o espectador médio conseguirá perceber no final da projeção: uma perda de tempo para si mesmo.
 

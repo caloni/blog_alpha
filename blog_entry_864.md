@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2022-05-14T20:40:34-03:00'
+date: '2021-06-26T10:25:00-03:00'
 tags:
-- coffee
-title: Casa do Colono
+- food
+title: Casa da Praça em Morretes
 ---
 
-Demorei um tempo até entender esse café. Comprei dentro das termas de Poços e ele é bem caro e feito na cidade mesmo. Gostei, mas nem tanto. Tem aquele sabor gourmet um pouco leve e doce. Não é ruim, mas é caro demais para pouca complexidade.
+Comer em restaurantes para turistas sempre é um risco se decepcionar. Foi isso que nos fez pesquisar os lugares onde os próprios locais vão comer. E aí que surgiu nossa visita à Casa da Praça, da rua de trás do rio. Eles servem um delicioso barreado junto de um buffet com muita qualidade e variedade. Você pode comer à vontade ou montar seu prato para viagem por quilo, tudo por um preço justo. O local é bem arejado e há horários mais tranquilos. Com poucos dias de visita à região, nós não arriscamos mais outro lugar e retornamos a esse mais uma vez. Comemos no local e ainda pedimos para viagem para garantir o almoço da volta.
 

@@ -1,46 +1,25 @@
 ---
 categories:
-- coding
-date: '2020-04-18'
-link: https://www.papobinario.com.br/v1/
-title: Minha Palestra Sobre Windbg
+- writting
+date: '2017-01-11'
+link: https://www.imdb.com/title/tt1472584
+tags:
+- cinemaqui
+- movies
+title: Max Steel
 ---
 
-A MBConf@Home2020 foi um sucesso. Parabéns aos organizadores, palestrantes e apoiadores. Eu nunca fui em um evento de tecnologia em que tudo funcionou do começo ao fim. Simplesmente fantástico o nível de qualidade da organização. Fora que trezentas pessoas ficaram em casa e participaram conosco dessa troca de conhecimento =).
+Ao assistir Max Steel você terá a impressão de estar vendo um fan film. E como todo filme feito por fãs, este tem orçamento bem limitado, o que se reflete em seu roteiro e direção pedestres, assim como a qualidade do elenco e dos efeitos visuais. Mas nós já vimos fan films que foram produzidos com o sangue e suor de uma massa de admiradores, e apesar de todos os defeitos, mantiveram ao menos um trabalho feito com paixão, e se é que isso serve de algum mérito, ao menos significa que alguém deve ter se divertido no processo. Aqui, porém, o filme tem todos os elementos capengas que o tornam elegível para a categoria de fan film, menos a paixão, o que nos leva ao pior resultado possível: um filme ruim feito por pessoas que não se importam tanto assim.
 
-Minha palestra foi a seguinte: dei uma pincelada no que é o WinDbg para os que ainda não conhecem e realizei algumas manobras pouco usuais de depuração, tentando fugir um pouco da rotina do programador e me enfiando no que seriam minhas sessões antigas de hacking ou cracking da época que analisava trojans ou depurava serviços que saíam depois que meu depurador remoto já tinha ido embora. Segue mais ou menos o roteiro e os pontos levantados.
+A história gira em torno de Max (Ben Winchell), um garoto órfão de pai que se muda constantemente com sua mãe (Maria Bello) por motivos não muito claros, mas que o acaba tornando solitário por falta de opção. Até ter sua bike atropelada por uma linda garota em uma caminhonete (a realmente bela Ana Villafañe). Ah, faltou contar que eles voltam para o mesmo lugar onde moravam quando ele era bebê, além de em um jantar sermos apresentados a um ex-colega e amigo do seu pai (Andy Garcia), que presenciou o acidente e hoje aparentemente continua as visionárias pesquisas de Jim McGrath (Mike Doyle) em torno de um uso muito mais eficiente de energia que os seres humanos estão acostumados.
 
-Hoje em dia o caminho mais fácil é pelo Visual Studio Community, que instala por padrão um Windows SDK. Nessa instalação é possível modificar os itens checando o "Debugging Tools for Windows", que é o pacote que contém o ecossistema do WinDbg.
+Max nem desempacotou suas coisas após a mudança e já percebe nas suas mãos possíveis sinais de sua puberdade. OK, isso saiu errado. É que suas mãos, quando se movem com ele olhando, parecem começar a interferir em equipamentos eletrônicos, como sua TV e celular. Surpreso, mas nem tanto, ele fica realmente indiferente, se tornando forte candidato ao prêmio blasé do ano, quando uma espécie de drone entra no banheiro do seu quarto. O mais curioso é que para ele aquele mini-robô falante não poderia ser o drone de alguém da escola querendo pregar uma peça ao novato, mas um alienígena que veio do espaço para protegê-lo, o que é muito mais plausível.
 
-Pulei essa parte. Tempo curto e me enrolei um pouco. E não era o caso de ficar focado na rotina de programador.
+E tudo, absolutamente tudo, é narrado de uma maneira misteriosamente empolgante pelo diretor Stewart Hendler. Ou ao menos ele e sua trilha sonora enlatada sugere que na tela estão passando cenas de arrepiar os cabelos, quando na verdade as cenas de ação se resumem em câmeras frenéticas se mexendo, explosões aleatórias e a incapacidade de conseguirmos ver até uma maquete, parada, em cima de uma mesa. E embora o filme continue sugerindo sem parar que veremos em algum momento algo -- qualquer coisa -- de encher os olhos, o máximo que ele consegue fazer é lacrimejarmos um pouquinho de sono e de arrependimento de estar presenciando algo que nem chega a ser ridículo (para ser engraçado) e nem levemente medíocre (para ser um Transformers em seus melhores momentos).
 
-Não fui eu que escrevi o MessageBox... juro. E nesse caso não ter o código-fonte é a rotina do crackudo, que vai ter que explorar no assembly o funcionamento de um programa. Depuramos um que chama MessageBox alterando a mensagem exibida (em 32 bits). Foi legal essa diferença entre Ansi e Unicode que me perdi no começo, pois serviu para exemplificar questões de API que precisam ser conhecidas.
+E por falar em Transformers, o roteiro no automático e por encomenda de Christopher Yost rouba descaradamente a ideia (ainda que idiota) das duas raças alienígenas muito semelhantes (exceto pela cor, azul versus vermelho) que guerreiam eternamente entre si, e o único objetivo do time vermelho (que é do mal, claro) é destruir tudo pela frente que for da cor azul.
 
-    void chama_eu()
-    {
-      MessageBox(NULL,
-        "Welcome to "
-        "MBConf@Home2020",
-        "MBConf2020", 
-        0);
-    }
+Toda essa falta de criatividade acaba influenciando seu fraco elenco principal, que possui os rostos desconhecidos de Ben Winchell e Ana Villafañe como parzinho romântico e que não tem nada a oferecer exceto executar mecanicamente as falas e os movimentos do roteiro. As exceções ficam por conta da mãe, interpretada por Maria Bello, que faz o mínimo para o estereótipo da mãe superprotetora (apesar de ser péssima em detectar dicas de que algo anda errado com o filho) e de Andy Garcia, que está surpreendentemente sério e gordo. E pensar que toda a história tem como protagonista um rapaz que sequer consegue mudar de expressão maravilhada. E isso é fora de seu novo uniforme de herói, pois dentro dele vira uma exposição de caricaturas (e mesmo isso não está em sincronia, por exemplo, quando vemos uma luta de bem contra o mal). E por falar em luta, voltando mais uma vez ao roteiro, talvez a ideia mais estúpida dele seja a de que, se você deixar sua TV ligada o tempo todo em filmes de lutas marciais magicamente você irá adquirir o conhecimento de "golpes" giratórios no ar.
 
-Abordamos o boot do Windows com NT, o uso do kd.exe por baixo dos panos do WinDbg (o DarkMode) e configuramos o cabo. Cabo? Cabo virtual, sargento. Usamos a VMWare, pré-configurada após alguns pesadelos de impressora se metendo no meio do caminho. Configuramos a porta serial, que é a melhor ever. E apontamos como named pipe para o WinDbg "de fora" conectar. Ou o kd.exe. As linhas abaixo são equivalentes.
-
-    windbg.exe -b -k com:pipe,port=\\.\pipe\com_1,resets=0
-    kd.exe -b -k com:pipe,port=\\.\pipe\com_1,resets=0
-
-Para exemplificar a depuração de um serviço bem no início (ou fim) ou o load de processos antes dele existir checamos uma flag na gflags.exe da máquina depurada para que quando o notepad.exe subisse o ntsd fosse depurá-lo e passasse o controle para o debug do sistema. E com isso fechamos o círculo sagrado da depuração holística.
-
-Não. Para depurar a BIOS local há o caminho do debug.com (um depurador bem simples da época do Windows 95) ou o Softice DOS, embora [eu me lembre] que tive umas dores de cabeça com ele por causa dos conflitos entre interrupções e programas residentes. A depuração estática acaba ganhando nesse quesito, que é basicamente abrir o assembly, papel e caneta. E imaginação.
-
-Já para debug de BIOS em rede. Bem... esse é um nível hackudo. Sei que a Intel tem desenvolvido chips para diagnóstico e obtenção de dados de hardware pela rede antes mesmo do SO estar ligado, mas não cheguei a pesquisar a fundo.
-
-Sim. Como o [Mercês] me ajudou a lembrar, existe um rundll32.exe, um executável que já vem no Windows e que pode carregar a DLL para você. Daí tudo que você precisa fazer é colocar o breakpoint das funções exportadas que deseja chamar. Dá para especificar essas funções pelo rundll32.exe também: rundll32.exe project.dll,chama_eu
-
-Recomendo sempre o [WinDbg.info] como cheat sheet e docs.microsoft.com em seus artigos "Getting Started with WinDbg (User-Mode)" e "Getting Started with WinDbg (Kernel-Mode)" (sorry, m$, vcs mudam os links demais para eu colocar aqui).
-
-[Mercês]: https://twitter.com/mer0x36
-[WinDbg.info]: http://windbg.info/
-[eu me lembre]: {{< relref "o-bug-mais-bizarro-que-ja-resolvi" >}}
+Quando vemos filmes assumidamente ruins como Sharknado (e suas sequências) sabemos que os criadores estão piscando para nós; eles sabem que de trata de um trash, e ao menos eles estão tentando reciclar um gênero com um certo estilo. Filmes como Max Speed bebem da fonte de todos os filmes de origem de super-heróis (brinquedos ou não) e tenta emular mecanicamente algo mais do mesmo, e sem nada a acrescentar, seja estilo ou paixão.
 

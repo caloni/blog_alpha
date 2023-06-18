@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2014-11-15'
-link: https://www.imdb.com/title/tt2267998
+date: '2018-01-30'
+link: https://www.imdb.com/title/tt1433775
 tags:
 - movies
-title: Garota Exemplar
+title: Garoojigi
 ---
 
-Todo mundo conhece aquela história em que a esposa desaparece em uma bela manhã e o marido vira o suspeito número um. Esse clichê é tão batido que o diretor David Fincher (A Rede Social) não faz o menor esforço para construir essa dúvida em nós, espectadores. Por isso ele escala para o papel o Ben acima-de-qualquer-suspeita Afleck. Na verdade ele parece mais interessado em discutir exatamente o oposto: a falta de dúvidas de uma sociedade ansiosa por tomar um lado e apontar rapidamente seu dedo para o "culpado" da vez, escolhido por uma mídia que irá decidir pela versão dos fatos que atrair para si mais consumidores de conteúdo.
+Este filme tem uma história tão ruim, mas como ela é baseada em um "conto antigo" (que nunca existiu) nos faz pensar que isso é coisa do pessoal das antigas, um bando de malucos onde fazer sexo com uma ursa pode salvar uma aldeia da infertilidade. E como não dar risada de um filme supostamente erótico onde vemos meia-dúzia de peitos e nenhum órgão reprodutor?
 
-Gone Girl esmiúça um casamento que desmorona por dentro através da narração em off de um diário e dos pensamentos da esposa, mas que começa curiosamente com uma reflexão do marido sobre a falta de comunicação dos dois. Ambos ironicamente são escritores, embora apenas ela tenha conquistado fama e sucesso, administrados de perto pelos orgulhosos pais que fazem o papel de relações-públicas da filha. Essa percepção que o público tem sobre ela faz toda a diferença sobre o julgamento dos fatos, apesar destes serem incompletos (ela sumiu, mas ele não está preocupado porque o casamento já ia mal).
+Isso vindo de um filme asiático pode ser desculpado pela cultura. Mas é preciso ressaltar que a visão de sexo dos cineastas é tão infantil quanto o de uma criança de 12 anos. Para eles o ápice do sexo é ter um pau gigantesco e ficar usando ele em movimentos repetitivos ad exhaustum. Além disso, associa impotência com pau pequeno. Há uma cena em que o protagonista de pau pequeno é pisoteado várias vezes pelo irmão mais velho porque sua virilha está pegando fogo. Sim.
 
-Depois de uma construção impecável sobre o fim de um romance, o segundo ato é visceral no sentido de entregar rapidamente toda a outra versão da história. E é justamente sabendo de tudo que o filme evita fazer qualquer julgamento de valor de seus personagens, talvez porque obviamente um dos lados é incuravelmente insano. Diferente do que Fincher havia feito em Os Homens que Não Amavam as Mulheres, aqui conhecemos ambos os lados antes da revelação final.
+Mas este não é um filme sem pé nem cabeça, o que dá a sensação de não ser assim tão ruim. Ele tem uma historinha que vai montando piadas na velocidade do Zorra Total. Isso quer dizer que sabemos da conclusão de suas piadas mais ou menos uns 30 segundos antes dela ser concluída. Como a seguinte piada: o rapaz de pau pequeno vai mijar no topo da montanha e um velho faz o mesmo. O jorro de urina do velho é muito maior e isso envergonha o rapaz. Quando nosso herói fica de pau grande ele vai para o mesmo local e encontra o mesmo velho mijando. Está ocorrendo um incêndio lá embaixo e alguma espécie de princesa está com seu grupo pegando fogo. Bom, não preciso continuar para você entender qual vai ser a reviravolta e o que ela vai fazer acontecer.
 
-Isso talvez se deva porque no terceiro ato a conclusão está nebulosa até o seu fim, e mesmo sabendo que o diretor não costuma ter muita fé na humanidade, torcemos por um "final feliz". Mas o que seria um final feliz nesse contexto? É de se pensar que, sob os holofotes, o importante é estar do lado da mídia, que se torna o lado certo pela osmose do nosso não-raciocínio coletivo.
+Esse tipo de piada é o que permeia Garoojigi, vindo de um conto erótico completamente inventado que tem por objetivo mostrar como o sexo pode ser algo perturbador na cabeça dos asiáticos. Eles não conseguem sequer concluir o raciocínio de que as mulheres comandam, mas sempre haverá um grupo de baderneiros homens no bar (que tem que ser defendido por um homem, claro).
 

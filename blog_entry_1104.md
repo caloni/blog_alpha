@@ -1,15 +1,20 @@
 ---
 categories:
 - writting
-date: '2022-01-11T19:15:46-03:00'
+date: '2014-11-16'
+link: https://www.imdb.com/title/tt1020773
 tags:
 - movies
-title: 'Cópias: De Volta à Vida'
+title: Cópia Fiel
 ---
 
-Este é um filme que se chama Cópias e não merece ser pirateado. Vocês não acreditam como um ator pode ser tão mal agenciado. Keanu Reeves é um ótimo exemplo. De trabalhos como Matrix e John Wick para Matrix 4 e este assombroso, péssimo, incrivelmente ruim, "trabalho" do diretor Jeffrey Nachmanoff baseado no "roteiro" de Chad St. John.
+Afinal, eles são casados ou não? E o que são aqueles diálogos que não conseguimos ouvir? Por que não conseguimos acompanhar a ação dos dois personagens -- "marido" e "mulher" -- quando não estão conversando juntos? E, finalmente, por que nas conversas à mesa os personagens olham para nós?
 
-Você não vai acreditar até ver com seus próprios olhos. A família deste gênio da biotecnologia morre em um acidente de carro. Uma esposa e três filhos. Ele resolve usar a ajuda do seu igualmente brilhante amigo para juntos clonarem os corpos e fazerem o upload do backup de suas mentes. Porém, como o total das cápsulas de clonagem é de apenas três ele deixa a filha caçula de lado, apaga as memórias da menina dos outros três entes queridos e inicia o processo. Tudo na mesma noite. Além de gênio o personagem de Reeves é um psicopata, e não sabemos se o que ele nutre pela sua família é amor ou dedicação pelas suas cobaias.
+Desde a primeira cena de Cópia Fiel, de Abbas Kiarostami, já são mencionadas algumas dicas sobre o caráter metalinguístico desse filme. Afinal, o filme se chama Cópia Fiel e vemos no começo a capa de um livro com o mesmo título. A questão que o filme discute dentro do seu universo (o mundo dos personagens) e fora dele (ao abranger os seus espectadores) é se as cópias de uma obra de arte possuem o mesmo valor que a original. E, uma pergunta igualmente relevante: a partir de que momento algo pode ser chamado de original?
 
-Enfim, o experimento dá certo e irá se desenvolver em uma trama em que a empresa onde ele trabalho o manipula para conseguir sua descoberta brilhante de cópia de mentes para usos escusos. Tudo vira uma perseguição sem sentido e você irá ver o quão longe esse psicopata irá para manter sua família intacta. Eu não entendo porque ele apenas não faz um backup deles na nuvem.
+Para isso, Kiarostami utiliza técnicas de narrativa pouco usuais que tentam aproximar ao máximo a experiência cinematográfica da experiência da própria vida. Ou seja, é uma tentativa de cópia da vida, que seria a obra de arte original, como um momento em que o escritor do livro, James Miller (William Shimell), observa a beleza da originalidade das árvores colocadas do lado da estrada.
+
+E na vida não temos onisciência. Logo, quando estamos distantes dos personagens, não há um corte que os aproxima. Simplesmente ficamos sem ouvir a conversa. Da mesma forma o tempo passa linearmente e em momento algum acompanhamos duas ações que ocorrem ao mesmo tempo. E o que mais aproxima o ponto de vista de alguém com quem conversamos à mesa é olharmos para essa pessoa diretamente, o que faz com que os atores olhem diretamente para a câmera. Aqui todos os movimentos de câmera não são sutis, mas ganham muito mais em sua naturalidade de poucos cortes -- a maioria do tempo acompanhamos sequência que mudam de cenário conforme os personagens se movem.
+
+Talvez a maior crítica que se possa fazer ao roteiro é nunca deixar muito claro qual o status de relacionamento atual do casal vivido pelos ótimos William Shimell e Juliette Binoche (sensacional). Contudo, observe como até isso é uma réplica da vida. Afinal de contas, ao acompanhar um casal conversando entre eles nunca ouviremos uma fala expositiva que afirme com todas as letras seu estado civil. Ou seja, queira ou não, a vida é complexa demais para caber em um pedaço de papel e ser coreografada em torno de cenários cheios de pessoas andando. Ou isso, ou estamos vivendo uma réplica milagrosa em película que só seria possível reproduzir pela sagacidade e genialidade de seu diretor.
 

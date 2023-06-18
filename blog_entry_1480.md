@@ -1,29 +1,137 @@
 ---
 categories:
-- writting
-date: '2018-08-14'
-link: https://www.imdb.com/title/tt4682788
-tags:
-- cinemaqui
-- movies
-title: Escobar - A Traição
+- coding
+date: '2007-08-21'
+title: 'Erro de compilação: funções muito novas na Win32 API'
 ---
 
-Escobar - A Traição é mais uma visita ao inesgotável mundo de Pablo Escobar, este cabrón que construiu um império em cima de outros impérios e teve que pagar as consequências. Uma história tão impactante e dramática como essa (porque é real) já foi explorada inúmeras vezes na ficção, e recentemente ganhou séries e filmes. Então, qual a grande novidade dessa vez?
+Quando fala-se em depuração geralmente o pensamento que vem é de um código que já foi compilado e está rodando em alguma outra máquina e gerando problemas não detectados nos testes de desenvolvedor. Mas nem sempre é assim. Depuração pode envolver problemas durante a própria compilação. Afinal de contas, se não está compilando, ou foi compilado errado, é porque já existem problemas antes mesmo da execução começar.
 
-A novidade, creio eu, fica por conta de Penélope Cruz e Javier Bardem, que fazem respectivamente Virginia, a colombiana bem sucedida e famosa em terra estrangeira e cujo livro inspirou este roteiro, e Pablo, este colombiano novo rico que se orgulha de sua terra e que comprou a briga contra todos que se meterem em seus negócios, sejam concorrentes, a polícia, os políticos ou sua amante.
+O fonte abaixo, por exemplo, envolve um detalhe que costuma atormentar alguns programadores, ou por falta de observação ou documentação (ou ambos).
 
-Não é muito difícil caracterizar Pablo Escobar, este senhor bigodudo de meia idade como rei da barriga e uma forma de se portar que demonstram uma pessoa comum que se equilibra na onda de dinheiro e poder como magnata da cocaína enquanto tenta zelar pela sua família à sua maneira. Mas Javier Bardem vai além que o lugar-comum de tantos intérpretes. Podemos começar notando (e como não notar?) sua magnífica barriga em forma de banheira, que faz questão de exibir sempre que pode, andando com a camisa aberta. Além disso, uma cena em que sai correndo pelado, apesar de desnecessária, e acredite, mesmo que você seja fã do físico de Javier, não há nada para se ver aqui, pode ser utilizada para mostrar que o ator (e produtor) leva seu papel a sério. Sua cara inchada e levemente suada, com os olhos beirando as lágrimas, atravessa neste filme o caminho que vai do topo do mundo para sua queda fatal, em uma construção de personagem que se baseia em nuances meticulosas.
+    #include <stdio.h>
+    #include <windows.h>
+    
+    void main(void)
+    {
+    	typedef enum _COMPUTER_NAME_FORMAT
+    	{
+    		ComputerNameNetBIOS,
+    		ComputerNameDnsHostname,
+    		ComputerNameDnsDomain,
+    		ComputerNameDnsFullyQualified,
+    		ComputerNamePhysicalNetBIOS,
+    		ComputerNamePhysicalDnsHostname,
+    		ComputerNamePhysicalDnsDomain,
+    		ComputerNamePhysicalDnsFullyQualified,
+    		ComputerNameMax
+    	} COMPUTER_NAME_FORMAT;
+    
+    	COMPUTER_NAME_FORMAT CF = ComputerNameDnsDomain;
+    
+    	char szDomainName[MAX_COMPUTERNAME_LENGTH];
+    
+    	DWORD dwSize = sizeof(szDomainName);
+    
+    	//GetComputerName(szDomainName, &dwSize);
+    	GetComputerNameEx(CF, szDomainName, &dwSize);
+    } 
 
-Observe como seu estado de humor, por exemplo, vai aos poucos mudando de brincalhão e confiante para irritado e com ataques de raiva cada vez mais frequente (e dê poder a um homem temperamental e logo veja os corpos começarem a cair). Veja também como seu olhar, geralmente de cima para baixo, começa aos poucos a cambalear junto com suas costas arqueadas, sua respiração mais dificultada, a olhar cada vez mais para o chão. É uma mudança de postura completa, mas sutil, que vale conferir durante o longa.
+Tirando o fato que o retorno void não é mais um protótipo padrão da função main e que a definição da enumeração COMPUTER_NAME_FORMAT dentro da função main é no mínimo suspeita, podemos testar a compilação e verificar que existe exatamente um erro grave neste fonte:
 
-Já Penélope Cruz sofre um pouco com sua personagem. É óbvio que os dois se enamoram por terem afinidades que vão além da origem ilícita do seu dinheiro. Quando ela observa as casas que Pablo mandou construir para o povo da favela onde morava, ela, quase como defendendo um governo, para de questionar de onde vem os recursos de seu namorado e apreciar o fim para o qual ele é usado. E claro, ela se apaixona no momento em que ele enche sua mala de dinheiro e pede para que não economize. Ela também é uma nova rica, mas depois de Pablo ela parece sentir que subiu mais um degrau na escala de poder e fama. O mais curioso é como ela considera isso naquele momento algo bom.
+    
+    cl getcomputername.cpp
+    getcomputername.cpp(26) : error C3861: 'GetComputerNameEx': identifier not found
 
-Por isso mesmo sua moralidade deveria ser questionada, mas não é. Narradora do filme, ela surge como a protagonista na história, sem praticamente muitos arranhões. Autora do livro que inspira o roteiro, Virginia Vallejo é a heroína de um filme onde sua personagem é apenas uma peça em um grande quebra-cabeças de interesses políticos. Ela está na posição errada para segurar toda a história ou ser fundamental. Primeiramente porque ela não é humana, mas uma ideia. Vista apenas com Pablo ou nas telas, não temos muitas informações sobre quem é a mulher por trás de suas ações, e sua influência no namorado é quase nula. Dessa forma, o filme rapidamente se transforma em mais um estudo de personagem de Escobar.
+A função GetComputerNameEx parece não ter sido definida, apesar de estarmos incluindo o header windows.h, que é o pedido pela documentação do MSDN.
 
-Da mesma forma a participação quase apagada do talentoso Peter Sarsgaard (ele é o vilão no remake de Sete Homens e um Destino de 2016) é meramente figurativa e serve apenas como uma ponte entre Virginia e Pablo. E nem Penélope Cruz consegue convencer-nos que sua personagem está sinceramente interessada em um agente da CIA. Ou talvez isso diga um pouco mais sobre Virginia e que o filme insiste em encobrir.
+Esse tipo de problema acontece na maioria das vezes por dois motivos:
+    
+  1. o header responsável não foi incluído (não é o caso, como vimos),
+  2. é necessário especificar a versão mínima do sistema operacional.
 
-Traçando um rastro de sangue e violência sem qualquer pudor o diretor Fernando León de Aranoa do ótimo Um Dia Perfeito aqui estabelece tão bem a mise-en-scene de suas locações (com destaque para a prisão de Pablo e um plano-sequência envolvendo um helicóptero no meio da floresta) e sabe estabelecer seu visual de maneira tão significativa (basta um movimento de câmera e ele coloca a periferia em conflito com a contrastante Medellín) que apenas rivaliza com o roteirista Aranoa, que consegue inserir comentários políticos sem soar prolixo ("elefantes estão bem aqui na Colômbia porque não leem jornais") e coloca na boca de seus personagens comentários sagazes que mantém uma dinâmica divertida, especialmente do casal principal. Para isso ele se beneficia da excelente química entre Bardem e Cruz.
+De fato, se criarmos coragem e abrirmos o arquivo winbase.h, que é onde a função é definida de fato, e procurarmos pela função GetComputerNameEx encontramos a seguinte condição:
 
-Pecando talvez apenas por uma trilha sonora excessivamente exagerada na tensão, tomando aspecto de um policial embora a princípio e por projeto estejamos falando da passagem de Virginia na vida do traficante, "Escobar - A Traição" passa voando apesar de sua pouco mais de duas horas, e coloca mais um ponto de vista sobre uma história que está incansavelmente sendo contada. Talvez a novidade dessa vez seja que, independente de qual história ele está contando, este é um filme que eu sairia de casa para assistir.
+    #if (_WIN32_WINNT >= 0x0500)
+    
+    typedef enum _COMPUTER_NAME_FORMAT {
+        ComputerNameNetBIOS,
+        ComputerNameDnsHostname,
+        ComputerNameDnsDomain,
+        ComputerNameDnsFullyQualified,
+        ComputerNamePhysicalNetBIOS,
+        ComputerNamePhysicalDnsHostname,
+        ComputerNamePhysicalDnsDomain,
+        ComputerNamePhysicalDnsFullyQualified,
+        ComputerNameMax
+    } COMPUTER_NAME_FORMAT ;
+    
+    WINBASEAPI
+    BOOL
+    WINAPI
+    GetComputerNameExA (
+        __in    COMPUTER_NAME_FORMAT NameType,
+        __out_ecount_part_opt(*nSize, *nSize + 1) LPSTR lpBuffer,
+        __inout LPDWORD nSize
+        );
+    WINBASEAPI
+    BOOL
+    WINAPI
+    GetComputerNameExW (
+        __in    COMPUTER_NAME_FORMAT NameType,
+        __out_ecount_part_opt(*nSize, *nSize + 1) LPWSTR lpBuffer,
+        __inout LPDWORD nSize
+        );
+    #ifdef UNICODE
+    #define GetComputerNameEx  GetComputerNameExW
+    #else
+    #define GetComputerNameEx  GetComputerNameExA
+    #endif // !UNICODE
+    
+    //...
+    
+    #endif // _WIN32_WINNT
+
+Ou seja, para que essa função seja visível a quem inclui o windows.h, é necessário antes definir que a versão mínima do Windows será a 0x0500, ou seja, Windows 2000 (vulgo Windows 5.0). Aliás, é como aparece na documentação. Um pouco de observação nesse caso seria o suficiente para resolver o caso, já que tanto abrindo o header quanto olhando no exemplo do MSDN nos levaria a crer que é necessário definir essa macro:
+
+    #define _WIN32_WINNT 0x0500
+    
+    #include <windows.h>
+    #include <stdio.h>
+    #include <tchar.h>
+    
+    void _tmain(void)
+    {
+    	TCHAR buffer[256] = TEXT("");
+    	TCHAR szDescription[8][32] = {TEXT("NetBIOS"), 
+    	TEXT("DNS hostname"), 
+    	TEXT("DNS domain"), 
+    	TEXT("DNS fully-qualified"), 
+    	TEXT("Physical NetBIOS"), 
+    	TEXT("Physical DNS hostname"), 
+    	TEXT("Physical DNS domain"), 
+    	TEXT("Physical DNS fully-qualified")};
+    	int cnf = 0;
+    	DWORD dwSize = sizeof(buffer);
+    
+    	for( cnf = 0; cnf < ComputerNameMax; cnf++ )
+    	{
+    		if (!GetComputerNameEx( (COMPUTER_NAME_FORMAT)cnf, buffer, &dwSize) )
+    		{
+    			_tprintf(TEXT("GetComputerNameEx failed (%d)\n"),
+    			GetLastError());
+    			return;
+    		}
+    			else _tprintf(TEXT("%s: %s\n"), szDescription[cnf], buffer);
+    
+    		dwSize = sizeof(buffer);
+    		ZeroMemory(buffer, dwSize);
+    	}
+    } 
+
+Outra observação que poderia ter ajudado na hora de codificar seria dar uma olhada no que os caras escrevem na seção de advertências (remarks) da documentação:
+
+> To compile an application that uses this function, define the _WIN32_WINNT macro as 0x0500 or later. For more information, see Using the Windows Headers.
+
+Podemos também notar pela definição do COMPUTER_NAME_FORMAT dentro do main que o código estava no meio do caminho de cometer um sacrilégio: declarar funções e estruturas que já estão definidas nos headers da API. Portanto, se você já encontrou algum código parecido com esse, é hora de colocar em prática algumas teorias de refactoring.
 

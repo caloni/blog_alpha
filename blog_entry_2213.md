@@ -1,24 +1,20 @@
 ---
 categories:
 - writting
-date: '2018-10-31'
+date: '2016-02-07'
 link: https://www.imdb.com/title/tt5189670
 tags:
 - series
-title: Making a Murderer S02
+title: Making a Murderer
 ---
 
-"Terminando quando o "filme" atinge o tempo presente, Making a Murderer é um projeto em andamento com pontas soltas e, pior, algo de podre no ar." Esse foi meu último parágrafo sobre a primeira temporada de uma série que influencia a vida real. Sim, pois a segunda temporada é praticamente impulsionada pela influência do documentário na vida de Steven Avery e familiares.
+Filmado por um período de 10 anos, Making a Murderer é um documentário que assume a posição do réu Steven Avery, que foi preso por 18 anos por um crime que não cometeu e que, posto em liberdade, precisa se defender novamente de mais uma acusação de um crime hediondo. Porém, mais do que isso, é um filme que nos ajuda a pensar a problemática das diferentes versões de um fato e como a construção de uma história se torna mais vital do que a própria história, além de colocar em xeque o sistema americano de justiça, quando uma comunidade inteira parece estar disposta a colocar um homem detrás das grades para sempre por um jogo de influências que é difícil de se desvencilhar. Indo mais além, o documentário, pode-se dizer, escancara como é sensivelmente falha a fé popular nas autoridades e na figura do próprio estado.
 
-E o resultado é que surge uma nova protagonista, a advogada Kathleen Zellner, famosa por absolver 17 condenados injustamente pela justiça americana. Zellner trabalha em modelo pro bono, o que quer dizer que seus esforços são milionários, mas estão à disposição para bater de frente com a justiça estatal. Boa sorte com isso.
+Iniciando com o primeiro caso, um estupro que ocorreu no Condado de Manitowoc, a série originária da Netflix e dirigida, escrita e co-produzida pela dupla Moira Demos e Laura Ricciardi situa o histórico básico da família Avery e a antipatia das pessoas da comunidade de Manitowoc com relação à família que cuida de um ferro-velho localizado nos arredores da cidade. Além disso, registra de diferentes formas todo o processo que tornou Steven o principal suspeito até seu veredicto e posterior absolvição após 18 anos encarcerado. Concluindo com sua soltura e sua volta aos planos de sua nova vida, a chamada para o segundo episódio já é a segunda acusação que Steven irá receber injustamente.
 
-A segunda temporada da série começa com a própria influência que a série causou na opinião pública e na resposta do promotor do caso, Ken Kratz. E ela segue com o caso de Zellner virando uma investigação criminal 10 anos depois dos acontecimentos que vimos na temporada anterior. O bônus é ver o quanto a ciência é capaz de descobrir sobre provas circunstanciais e como isso serve para desmascarar provas falsas colocadas por desafetos do réu. Para quem é fã de ciência vai ficar particularmente empolgado com um novo detector de mentiras que escaneia as memórias do cérebro e com as microscopias que revelam quais materiais existem em projéteis e em regiões contaminadas com DNA. Mais empolgante ainda: de onde poderiam vir os traços de DNA (naturalmente ou implantados).
+O que se passa a seguir é uma montagem genial entre a investigação anterior do caso de estupro e o recente caso de assassinato, passando por relatos, testemunhos, gravações policiais e a maior parte do julgamento de Steven. Se antes havíamos visto um breve resumo de uma hora de um caso chocante de absolvição de culpa do estado em incriminar e prender um inocente, agora é como se esse pesadelo pessoal da família Avery estivesse se repetindo a olhos vistos, e mais uma vez, sem nenhum direito de justiça isenta de parcialidades e condutas controversas das autoridades que cuidam do caso.
 
-Além disso, a série faz um serviço muito bom em harmonizar o lado técnico com a espera angustiante da família Avery, seus conflitos e dores. O lado humano de Making a Murderer tenta fazer as pazes com todos os lados pelo bem da verdade, mas ele tem a dignidade de nos demonstrar como não é fácil para os familiares da vítima aceitar desencavar esse assunto novamente e como do ponto de vista deles é doloroso ter que fazer isso.
+Entendendo que cada detalhe precisa ser esmiuçado de maneira racional para que a inocência de Steven possa, pelo menos aos olhos do espectador, parecer algo não apenas provável mas inegável, o resultado não é o velho esquema do bem contra o mal, mas uma análise fria e calculista de como o sistema de justiça americano ultrapassa barreiras usando a fé cega da sociedade que o apóia e como a sensação de impunidade de um caso real pode chegar a limites quase que inimagináveis, não fossem estes frutos de um caso real e recente de julgamento.
 
-Por outro lado a série faz questão de sempre no final dos episódios listar todos os que não quiseram conversar com os produtores do filme, e obviamente você já deve saber quem são apenas pelo teor da história. E esse é o outro lado da moeda que torna a série um exemplo de documentário, pois consegue tocar na ferida pela causa mais nobre de todas: a verdade objetiva acima de tudo, custe o que custar, doe a quem doer.
-
-E nesse sentido as constantes tentativas do Estado em obstruir o seguimento da justiça se torna não apenas revoltante, mas preocupante. É um alerta para toda a sociedade americana o que está acontecendo nesse caso, onde a tendência é tão parcial em favor do poder público que a situação beira o patético, mas com certeza já passou da linha do justificável.
-
-A questão do julgamento já chegou em um nível tão profundo que talvez seja necessário fazer um documentário sobre o documentário para entender qual o nível de poder de documentaristas, e por que isso seria prejudicial para a busca da verdade? Isso é relevante na medida em que entendemos que toda a mídia vai sendo manipulada aos poucos, de contra o réu para contra o Estado, se voltando lentamente de acordo com a vontade de seus espectadores. Como a própria advogada do caso, Kathleen Zellner, comentou, é fascinante estar vivendo isso.
+Terminando quando o "filme" atinge o tempo presente, Making a Murderer é um projeto praticamente ainda em andamento, pois demonstra que há ainda pontas soltas e, pior, algo de podre no ar.
 

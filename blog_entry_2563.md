@@ -1,21 +1,21 @@
 ---
 categories:
 - writting
-date: '2021-11-08T19:02:11-03:00'
+date: '2010-11-04'
+link: https://www.imdb.com/title/tt1130965
 tags:
-- cinemaqui
-- mostrachinesa
+- mostra
 - movies
-title: O Balão
+title: O Atleta
 ---
 
-Quando você menos espera está imerso em um conto folclórico chinês dos anos 80 sobre controle de natalidade, empoderamento feminino e superstições em geral. Alguns detalhes da trama se encaixam de forma a levar o espectador a pensar sobre os conflitos que essa família interiorana irá sofrer.
+O filme começa com a luz do sol, tão presente durante o longa, se transformando na luz do projetor de cinema. Esse projetor fará parte do final, quando voltamos para o mesmo close no início. As tomadas iniciais dele chegando ao interior da Etiópia apresentam uma largura de campo estrondosa para dar a impressão de grandeza e imensidão que não acaba mais. Aliás, esse detalhe pode ser visto no belíssimo zoom out dele correndo do lado de um desfiladeiro. Aos poucos esse desfiladeiro vai sumindo e dando lugar à planície.
 
-Porém, este é acima de tudo um trabalho bem-humorado. Tudo começa quando os dois filhos menores do pai encontram camisinhas escondidas debaixo do travesseiro da mãe e fazem dois lindos e cônicos balões. A primeira cena tem esse filtro branco da fotografia, que apenas depois de alguns segundos percebemos de onde vem. Aham. É uma jogada estética e narrativa que começou nos fisgando não apenas pelo bucólico da situação, mas por ser novidade na época. Várias novidades. Como diz o avô da família, "hoje estão todos montados nessas motos no lugar de cavalos". Pois é, vovô, espera só você descobrir os corredores de motomanos da capital paulista e vai ver o inferno que isso vira. Ao mesmo tempo o paraíso, pois já pensou uma tropa de cavaleiros entregando comida em sua casa? Bom, pelo menos haveria esterco de sobra para uma alimentação mais natureba.
+Existem vários paralelos no filme. Um dos primeiros é com um ônibus que ele ultrapassa na estrada (de carro, presente) e um ônibus de turistas que fica ao lado dos corredores da maratona (correndo, passado).
 
-Mas devaneio. O que quero dizer é que quando o avô questiona o pai das crianças de por que o balão que eles estavam brincando não é um balão para crianças é lindo, pois é um roteiro que estabelece em poucos diálogos e em uma única cena o choque de gerações. Além do quê, na direção de Pema Tseden, há poucos cortes, pois a troca de quadros, ou do motivo filmado, é feito movimentando a câmera, o que estabelece um certo dinamismo. Além de ser bem charmoso.
+Também são criados pequenos "arcos" para ilustrar partes da história. O mais bonito é durante a conversa com o padre para quem ele dá carona. Ele conta sobre sua infância, e o menino que ele vê através do carro executa as mesmas ações que estão sendo narradas por ele. Ao final da história, a família do menino está perto de um pequeno morro, para onde dá a estrada, que é onde o carro do corredor acaba de passar.
 
-Os personagens de O Balão estão lindamente vestidos e caracterizados. A estilização é tão completa quanto os traços de um anime bem inspirado, ou um épico fantasioso como Star Wars. Note cada peça de vestimenta dos membros da família, como é único e já fornece pistas do caráter e da personalidade de cada um. São humildes, e brutos, mas não violentos. Vivem na tradição e na pobreza honrosa. Seria um Vidas Secas pela descrição visual que o filme dá a cada elemento em cena. Lembrei do romance icônico de Graciliano Ramos pois acontece da mesma forma dessas pessoas não terem traços em seus rostos que determinem riqueza de detalhes. Os detalhes estão no cenário e nas roupas. Na cara deles está uma nota de sorriso medroso e envergonhado da mãe, do olhar bruto do pai, da eterna serenidade e peso da irmã.
+Não há semelhança entre o ator e o corredor de verdade, e isso infelizmente pode ser visto em alguns cortes que juntam ambas as faces. Talvez o diretor tenha pensado que a interpretação dele ficou tão boa que resolveu ressaltar essa diferença facial em detrimento ao comportamento de ambos, tão em sintonia.
 
-Este é um filme que entretém, mas ao mesmo tempo nos entrega uma conversa honesta com o espírito do tempo e mergulha em suas idiossincrasias de regiões isoladas das grandes cidades que no caso da China ainda nasceriam. É um retrato bem específico no tempo e espaço que temos o privilégio de visitar, e refletir. Uma ótima seleção para um festival daquele país, a Mostra de Cinema Chinesa, que ocorre em São Paulo este ano no formato de streaming.
+Mais interessante é que ao final da corrida na neve temos mais uma transição, dessa vez para a sala de exibição onde o filme está passando, com todos aplaudindo o corredor ao final. É de lá que vem a luz do projetor do início do filme, e o arco se completa. Um filme de superação.
 

@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2021-11-23T20:25:24-03:00'
+date: '2022-07-12T20:47:37-03:00'
 tags:
-- animes
-title: Sarazanmai
+- wine
+title: Merlot tem gosto de remédio?
 ---
 
-O mesmo criador de Sailor Moon lança uma espécie de Madoka Mágica com meninos e que envolve tirar coisas da bunda. É uma viagem de ácido montada em várias camadas visuais. Fica difícil compreender tudo no primeiro episódio, mas parte da graça está em curtir o nonsense, então está tudo certo, pois é diversão garantida. Por enquanto não há trama mais longe do que "não mexa com espíritos que parecem sapos gigantes, pois eles não são e ficam brabos".
+Eu não acho que todo merlot tem. Fato é que não tenho certeza se concordo com essa afirmação de minha esposa. Outro fato é que ela gostou dessa garrafa que foi aberta em uma visita a um casal de amigos em Floripa. Eles são uma das conexões mais inesperadas. Nos encontramos agora apenas duas vezes e parecem amigos de longa data. Sabe quando parece que conhece essas pessoas há mais tempo e todas as conversas se encaixam? Essas estranhezas boas da vida... como o eventual merlot de uma noite agradabilíssima.
 

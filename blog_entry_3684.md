@@ -1,12 +1,11 @@
 ---
 categories:
 - writting
-date: '2020-07-15'
-link: https://www.imdb.com/title/tt0106080
+date: '2022-10-13T23:09:16-03:00'
 tags:
 - series
-title: The Nanny
+title: The Midnight Gospel
 ---
 
-Envelheceu bem. É um sitcom como os primeiros com risada gravada e piadas empilhadas em episódios curtos. Algumas atrizes se destacam, como a principal e a mirim. É sobre as diferenças sociais de uma vendedora de cosméticos de um bairro periférido de Nova York indo trabalhar como babá dos três filhos de um viúvo ricaço. Uma mistura de Sound of Music americano e alguma outra coisa que a torna americana. Ser enlatada, talvez.
+A pegada dessa animação viajada é colocar um áudio e um visual descolado para as reflexões e anseios do mundo moderno. A história é sobre um jovem que viaja para diferentes dimensões para fazer seu podcast, e no meio disso rolam alguns acontecimentos enquanto ele tem um papo transcedental (leia: cheirado) com algum ser desse mundo diferentão. É fácil se conectar porque eles conversam sobre temas universais e ao mesmo tempo íntimos. É fácil se conectar até mesmo se você estiver sob o uso de alucinógenos criativos. Mas talvez ao apenas assistir você já sinta um barato. Quer um?
 

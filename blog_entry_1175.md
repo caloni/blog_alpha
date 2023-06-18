@@ -1,16 +1,20 @@
 ---
 categories:
-- reading
 - writting
-date: '2016-08-24'
+date: '2018-07-26'
+link: https://www.imdb.com/title/tt8725166
 tags:
-- books
-title: Darkly Dreaming Dexter
+- series
+title: Dark Tourism
 ---
 
-O primeiro livro de Jeff Lindsay, que deu origem à série de livros do serial killer que mata serial killers (além da própria série televisiva de oito temporadas), é um relato intimista e bem-humorado de uma pessoa que não consegue se ajustar socialmente, então finge ser alguém que não é. Curto, mas suficiente, dá uma boa ideia sobre como é esse personagem tão fascinante, em um esboço criado a partir de seus próprios pensamentos. Lendo após terminar a série, vejo quão bem feito ficou o protagonista estrelado por Michael C. Hall, e quantas boas ideias surgiram de uma premissa interessante. Uma adaptação que começou muito bem na primeira metade, para covardemente tropeçar desfiladeiro abaixo na segunda metade.
+Essa série que saiu na Netflix é uma boa série, porque ela contém todos os elementos que faltam hoje ao jornalismo pensante. Há obviamente um formato senso forçado, mas quando algo é bem feito, isso passa como diversão.
 
-E isso porque a adaptação tinha tudo para dar errado. A narração em off de Dexter no livro é uma descrição muito mais interna que externa, e não há muitos momentos de ação no livro. A série sofre da falta de personagens secundários interessantes, e assim como House, patina em dramas paralelos que não acrescentam em nada na história principal. A parte acrescentada do universo onde vive o serial killer foi tirado de uma série genérica, o que é uma pena. Contudo, tamanho é a força do "herói" da história, e tamanha interpretação de C. Hall para o papel, que conseguimos desculpar boa parte das bobagens que vemos na TV.
+Seu host é a figura de um americano caucasiano classe média turista padrão, cheio de receios e medo. A melhor parte de sua atuação são as perguntas medrosas com a reação silenciosa. A edição mantém um timing dinâmico, mas que sabe aproveitar esses momentos e ao mesmo tempo suas narrações, que sempre vão revelando o lugar inóspito que está sendo visitado com muita calma, sendo degustado a cada palavra.
 
-Já o livro mantém o clima de suspense, e muitas vezes trapaceia jogando a pista falsa. Seu forte é o bom humor, e um humor negro que revela o cerne da questão (do livro e da série): não é apenas a história de um serial killer, mas de cada um de nós. Disfarçados em uma persona que agrade a todos o suficiente para que não se façam perguntas em demasiado, todos nós carregamos um Passageiro Sombrio em nós mesmos. Claro, não matamos ninguém (pelo menos a maioria), mas a aula sobre como funciona socialização de seres humanos dada por Dexter, em como fingir expressões, dizer o que as pessoas esperam ouvir, e conseguir se livrar da maioria dos aborrecimentos que é conviver com os outros é a maior virtude do livro.
+Esta é uma série que preenche uma lacuna das séries de turismo: o dark tourism, feito por pessoas com um tédio acima do normal (geralmente a classe média sofre mais aventureira dos países de primeiro mundo). Afinal, quem se divertiria em um passeio em que você é tratado como um imigrante mexicano tentando atravessar a fronteira e não ser morto por bandidos e traficantes pelo caminho, ou sair do conforto do lar para sentir a tensão de um local com níveis de radiação muito acima do seguro?
+
+Mas essa série também começa a responder uma questão instigante: esse turismo está se tornando popular porque algumas pessoas em algumas partes do mundo estão perdendo a noção de realidade, presas em seu confortável e previsível mundo?
+
+Uma questão interessante de ser respondida com passeios como os feitos pelo host, David Farrier. E apresentados por ele.
 

@@ -1,16 +1,19 @@
 ---
 categories:
-- writting
-date: '2010-12-10'
-link: https://www.imdb.com/title/tt1462758
+- coding
+date: '2015-01-04'
 tags:
-- movies
-title: Enterrado vivo
+- ccpp
+title: Entendendo a Compilação
 ---
 
-O trabalho final em cima de um filme de um cenário só evoca uma trilha de suspense dos anos 60, além de ter seu design gráfico lembrando pequenos caixões que vão descendo a tela.
+Fiz alguns slides a pedido dos organizadores do TDC 2014, já que a palestra que ministrei com esse tema foi para ajudar meu amigo-sócio Rodrigo Strauss que não havia preparado nenhum slide a respeito.Felizmente eu já havia explicado alguns conceitos-chave para quem programa em C/C++ e precisa -- eu disse: PRECISA -- conhecer todo o passo-a-passo que leva o seu código-fonte a gerar um executável com código de máquina pronto para rodar.
 
-O início é óbvio: ouvimos apenas o som ofegante de uma pessoa, com a tela completamente escura, pelo tempo suficiente para não soar enfadonho. Diferente do protagonista, a câmera pode se mover à vontade, mas apenas dentro do limite do próprio caixão, o que contribui para a claustrofobia do espectador. Claramente com o intuito de conseguir variar o bastante para não tornar aborrecido um filme desses, a câmera por vezes se utiliza de ângulos inusitados, zooms diferentes, chegando a um travelling circular em volta do corpo do sujeito, passando atrás dos seus pés.
+Como havia explicado anteriormente, existem três processos principais e clássicos (pode haver mais, dependendo do compilador, ambiente, etc) na formação de um código de máquina a partir de arquivos-fontes escritos em C ou C++ (ou ambos, são intercambiáveis). São eles: preprocessamento, compilação e linkedição.
 
-O final é apelativo, e igualmente óbvio. Ainda assim, a linguagem inovadora do seu criador merece créditos extras. As vantagens de produzir conteúdo independente.
+O preprocessamento é um trocador de textos. No máximo há macros, em que é possível passar argumentos (no formato texto). Exemplos são include, ifdef e define.
+
+A compilação é o núcleo da linguagem. Regras de sintaxe e gramática são validadas aqui pelo compilador. Cada compilação bem-sucedida recebe uma unidade de tradução e cospe um arquivo-objeto, que ainda não é executável, mas que já passou pela validação da linguagem.
+
+Por fim, a linkedição junta todos os arquivos-objeto, procurando ligar os nomes das funções e variáveis referenciadas um pelo outro. Os nomes externos são importantes neste passo para que o linker encontre as lacunas que precisa para consertar os saltos e assim gerar o executável final, que pode ser um programa com uma função main ou uma biblioteca dinâmica carregada por outro programa compilado seguindo esses três passos.
 

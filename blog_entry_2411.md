@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2014-12-24'
+date: '2014-12-25'
 tags:
 - food
-title: Mountain Hector Sauvignon Blanc 2013
+title: Mountain Hector Pinot Noir 2013
 ---
 
-Sem muito aroma, corpo azedo, curioso.
+Bem frutado, azedo. O cheiro começou a lembrar aqueles dias visitando vinícolas, os tanques com vinho e o cheiro no ar. Acabei de abrir já lembra uma vinícola. Já não lembra tanto assim uma vinícola. Parece mais maduro.
 

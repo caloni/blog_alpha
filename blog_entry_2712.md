@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2020-09-07'
-link: https://www.imdb.com/title/tt0114134
+date: '2021-05-15'
+link: https://www.imdb.com/title/tt5774002
 tags:
-- movies
-title: O Livro de Cabeceira
+- series
+title: O Legado de Júpiter
 ---
 
-Esta adaptação do texto clássico japonês recebe o tratamento experimental do diretor Peter Greenaway, o que quer dizer que durante quase todo filme você vai se sentir dentro de uma daquelas salinhas de museu de arte moderna vendo um vídeo conceitual. Infelizmente este vídeo tem duas horas de duração.
+Estou adorando esse modo de título aleatório que a Netflix criou nas TVs LG (não sei se tem em mais algum dispositivo). Basicamente você clica em seu perfil e o serviço de streaming vai passando títulos "aleatórios". Você pode pular para o próximo em um clique do controle remoto. É como ter o modo TV de volta, com as vantagens de não ter comercial e tudo começar do começo.
 
-Como todo filme de arte este possui nudez explícita e real de seu elenco, sem nenhum objetivo claro exceto criar uma atmosfera fantástica onde os funcionários de um excêntrico editor de livros não ligam em receber a visita de homens pelados. E são homens apenas. A única mulher é a protagonista, interpretada por Vivian Wu, que já fez parte do elenco de outro filme do diretor, o igualmente "enigmático" Oito e Meia Mulheres.
+Por que estou falando isso em uma nota sobre Jupiter's Legacy? Porque foi assim que esse título apareceu para mim. Eu não clicaria nele de livre e espontânea vontade, nem se estivesse muito entediado. Mas o título aleatório me libera de ficar vendo trailers sem fim e vai direto ao ponto.
 
-A montagem em paralelo de uma tela secundária e o movimento dos personagens de um lado para o outro do cenário tem o objetivo de dizer qual cineasta é responsável por esta obra. Greenaway recebeu atenção demais dos seus pares em sua época. Ele sofreu dos sintomas da roupa invisível do rei, pois não se pode criticar um artista pelo troço que ele fez. Ou como diriam seus pares: por ser um artista.
+E o ponto dessa série adaptada de um graphic novel ou algo do tipo é contar a história de heróis que são filhos de um super. Começa contando com eles crianças e depois avançam no tempo e dão várias dicas de que esse é o garoto, aquela é sua irmã. O roteiro preguiçoso de sempre, mas pode ser outra coisa.
 
-Não criticarei, portanto. Até porque não é nada demais.
+Produções caras como essa precisam convencer o espectador que está com o cérebro desligado babando no sofá. Essa é a explicação mais sensata. A estrutura dos primeiros cinco minutos é muito próxima de três ou quatro produções do gênero, e não há um pingo de empatia em acompanhar essas pessoas.
+
+O resto do episódio eu não sei como foi, pois parei por aí. As vantagens da TV com controle remoto. Agora de volta com essa opção de títulos aleatórios. Melhor coisa que a Netflix lançou há muito tempo.
 

@@ -1,18 +1,13 @@
 ---
 categories:
 - writting
-date: '2010-12-03'
-link: https://www.imdb.com/title/tt1001526
+date: '2021-10-15T22:07:12-03:00'
 tags:
-- movies
-title: Megamente
+- animes
+title: Megalobot
 ---
 
-Uma troca de papéis eficiente que faz repensar a dicotomia do bem contra o mal, ainda mais que hoje em dia, em que mais pessoas se livram das superstições antigas (religiões) que pregam essa dicotomia como algo inerente à existência, o filme transporta essa realidade para uma animação leve, mas que esconde algum drama mais complexo, quase que existencial.
+Este anime contemporâneo começa como se fosse dos anos 80 e energizado com uma trilha pauleira, mas aos poucos se revela um estudo dedicado sobre detalhes do boxe, do esporte em si, e um pouco sobre esse arco fascinante dos perdedores escalando seu caminho rumo ao topo. A síndrome de Rocky, Um Lutador.
 
-Mas mais do que uma crise interna sobre um auto-aclamado vilão, o filme discute até mesmo a necessidade dos dois lados para que exista esse conflito eterno e a vida tenha mais graça para ambos os lados, e diferente de [Meu Malvado Favorito], isso fica mais visível quando até mesmo o relacionamento herói-mocinha se converge para o lado do mal.
-
-A caricatura de Marlon Brando é óbvia, engraçada e necessária em um filme que trata do caráter dos super-heróis e dos vilões, e não deixa de ser divertido que quem exatamente se disfarça dessa caricatura de mentor é o próprio Megamente, representante máximo da vilania.
-
-[Meu Malvado Favorito]: {{< relref "meu-malvado-favorito" >}}
+Os detalhes do esporte que eu digo é sobre postura do lutador, ritmo, relação peso e força, agilidade combinada com oportunidade. Eu nunca vi, nem no cinema, um trabalho tão dedicado em esmiuçar essas questões sem ser um documentário ou cheio de texto. Aqui você sente esses momentos nas lutas que assistimos, desenhadas com afinco para sentirmos o impacto das mudanças nas atitudes dos lutadores.
 

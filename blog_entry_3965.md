@@ -1,24 +1,18 @@
 ---
 categories:
 - writting
-date: '2011-09-01'
-link: https://www.imdb.com/title/tt0000417
+date: '2016-09-10'
+link: https://www.imdb.com/title/tt1311071
 tags:
 - movies
-title: Viagem à Lua
+title: Versos de Um Crime
 ---
 
-O francês Georges Méliès foi um dos privilegiados que assistiu à famosa primeira projeção (coletiva) de Cinema da história: A chegada do trem na estação.
+Depois do ótimo Na Estrada (Walter Salles, 2012), o requisitado personagem da vida real Allen Ginsberg, o poeta americano da geração beat dos anos 50, é encarnado por Daniel Radcliffe (da série Harry Potter), e tem ao seu lado o igualmente ótimo Dane DeHaan (Poder Sem Limites, O Lugar Onde Tudo Termina) e um Michael C. Hall (da série Dexter) curioso, mas um tanto ausente. A história é retratada como um drama novelístico e televisivo, com impecável direção de arte, mas uma narrativa burocrática demais para funcionar com poetas que estavam revolucionando o mundo da literatura.
 
-E ficou maravilhado.
+Aliás, essa noção revolucionária é passada de maneira periférica, assim como quase tudo no filme. Temos uma história arrastada que confia demais na interpretação de personagens que não querem dizer nada a não ser a angústia amorosa que sentem. Toda essa riqueza de conteúdo que esses poetas deveriam supostamente ter é frustrada pelo conteúdo que vemos em tela.
 
-Ao ganhar um protótipo de câmera criado por Robert William Paul, um cinematógrafo da época, ficou tão entusiasmado que saiu por aí filmando o cotidiano de Paris. Até que, sem querer, a câmera parou de rodar. Ao iniciar nova filmagem, percebeu que a ação na filmagem não batia com a sequência que estava gravada: nascia o stop-action, ou stop-motion. Com base nisso, começou a experimentar novas trucagens, no que foi descobrindo que a nova invenção não impunha limites à mente criativa: perspectiva forçada, múltiplas exposições e até filmagens em baixa e alta velocidade. Tudo isso através da câmera mágica. E isso há mais de 100 anos atrás!
+Por outro lado, a beleza dos cenários e a concepção de um drama a partir da figura de Ginsberg, sua mãe enferma e seu relacionamento unilateral com Lucien Carr (DeHaan) tornam a experiência palatável enquanto aguardamos alguma coisa realmente impactante acontecer. Revelando uma falta de interesse notável na história, o diretor John Krokidas se preocupa demais com a beleza estética do vazio, e passagens curiosas como a invasão à biblioteca se tornam meras curiosidades, nunca atingindo o ápice que deveria produzir.
 
-Com toda essa vontade de filmar a aprender sobre esse novo fenômeno, Georges Méliès se tornou um dos precursores da nova Arte. Inventou diversas técnicas utilizando conceitos hoje simples, mas que criavam efeitos na época inimagináveis (algo como um Michel Gondry do passado). Seu filme mais famoso, A Viagem para a Lua, está na lista dos 1001 filmes para se assistir antes de morrer, e tem apenas 17 minutos: uma breve espiada pelo túnel do tempo de como era fazer cinema em sua pré-história.
-
-Apesar da cópia precária disponibilizada no Archive.org, podemos ver que se trata de uma produção de respeito. As cenas são elaboradas, e possuem uma arte final bem trabalhada. O grande destaque, o pouso do foguete na Lua, além do efeito de múltipla exposição de imagens, usa uma técnica narrativa que depois será copiada à exaustão: mostrar a mesma cena de formas diferentes.
-
-As regras para assistir A Viagem para a Luz são as mesmas de hoje em dia: temos que nos deixar enganar, suspender a realidade, e participar do mundo fantasioso criado por Méliès (e uma ajudinha de Júlio Verne). A Lua do filme, ironicamente, é o próprio ser humano. Os cientistas, muito eloquentes, se trancam em seus próprios pensamentos, discutem entre eles. Seria a ciência um grupo fechado de pessoas com suas maluquices peculiares aos olhos do cidadão comum? Teríamos conseguido estreitar as barreiras de comunicação das descobertas científicas com o povo, ou ainda a visão comum de muitas coisas beira o misticismo? Seria esse o motivo de tantas religiões e rituais primitivos ainda predominarem sobre a moral humanista, mesmo com tantos avanços tecnológicos e filosóficos?
-
-Nada que um filme de 100 anos atrás não faça pensar. Como diz o crítico de cinema Pablo Villaça: "não existe filme velho; só filme ainda não assistido."
+Com tudo isso, Versos de Um Crime é mais uma história sobre garotos mimados que ainda não descobriram o sentido da vida e tentam constantemente se entregar a experiências para conseguir escrever algo que valha a pena. Infelizmente, nem isso é possível detectar no filme. Melhor ir ler direto da fonte.
 

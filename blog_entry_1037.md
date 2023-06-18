@@ -1,69 +1,33 @@
 ---
 categories:
-- reading
-- blogging
-date: '2023-04-05'
-tags: null
-title: Flow no dia-a-dia e na hora do lazer
+- playing
+date: '2022-08-13T17:41:14-03:00'
+link: https://www.chess.com/game/live/54161416339
+tags:
+- chess
+title: Como Ganhar De Torre Dama Encurralando O Rei
 ---
 
-Durante o trabalho é relativamente fácil alinhar o próximo objetivo e entrar no flow, ou, em outras palavras, focar. Já no tempo livre, mesmo que seu objetivo seja alguma atividade produtiva, não há valor no objetivo final se este não for estipulado.
+Apliquei um perpétuo nesse final porque pensei que estava pior, mas a análise me dava mais de 5 pontos de vantagem. Olhando por que vi que quando o adversário avançou o peão ele deixou o rei propício a levar vários xeques, e há uma combinação com minha dama e torre (contra a dama e torre dele) cuja ideia é trazer ambos para aplicar o mate e forçar a dama a defendê-lo, e assim deixando de proteger a torre.
 
-Por isso reli minhas anotações sobre [o livro de Mihaly Csikszentmihalyi]({{< ref flow >}}) sobre como estruturar nossa consciência de forma a conseguir aos poucos alinhar a energia psíquica a maior parte do tempo possível. E deve ser aos poucos, já que o "eu" não pode se sentir impelido a fazer algo; ele precisa entender dentro de si o que ele quer fazer mais que tudo na vida.
+Pretas jogam e espremem adversário:
 
-> Uma artista original começa um novo trabalho com uma forte intuição e objetivos indefinidos, se mantém modificando o trabalho em resposta a resultados inesperados que surgiram, e termina com um trabalho concluído que não lembra em nada o que havia imaginado no começo. Se a artista é responsável pelos seus sentimentos internos, sabe o que ela gosta e o que ela não gosta, e presta atenção ao que está acontecendo, um bom trabalho está prestes a emergir.
+{{< image src="board.jpeg" >}}
 
-Dentro dos meus recortes compilei esta lista de ações e dicas mais compactadas dos ensinamentos do livro.
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.13"]
+[White "MAXTURCO2"]
+[Black "cavaloni"]
 
-- Aprenda a controlar o corpo e seus sentidos;
-- Desenvolva habilidades para oportunidades disponíveis;
-- Ignore obrigações externas desde o começo e seja você o desejo de aprender;
-- Defina o objetivo geral e secundários;
-- Centralize sua atenção em objetos externos;
-- Ao iniciar um relacionamento alinhe os objetivos pessoais;
-- Encontre qual o feedback para medir seu progresso;
-- Se livre das recompensas sociais e fisiológicas;
-- Se concentre no que você está fazendo;
-- Sem input externo falta a atenção e começam os devaneios;
-- Vá definindo minidesafios envolvidos na atividade;
-- Se a atividade se tornar chata continue aumentando as apostas.
-
-
-# Recortes
-
-> The solution is to gradually BECOME FREE OF SOCIETAL REWARDS and learn how to substitute for them rewards that are under one's own powers. This is not to say that we should abandon every goal endorsed by society; rather, it means that, in addition to or instead of the goals others use to bribe us with, we develop a set of our own.
-
-> (...) unless a person LEARNS TO SET GOALS AND TO RECOGNIZE AND GAUGE FEEDBACK (...) she will not enjoy them (activities).
-
-> Because most jobs, and home life in general, lack the pressing demands of flow experiences, concentration is rarely so intense that preoccupations and anxieties can be automatically ruled out. Consequently the ordinary state of mind involves unexpected and frequent episodes of entropy interfering with the smooth run of psychic energy.
-
-> Some things we are initially forced to do against our will turn out in the course of time to be intrinsically rewarding.
-
-> When a society suffers from anomie, flow is made difficult because it is not clear what is worth investing psychic energy in; when it suffers from alienation the problem is that one cannot invest psychic energy in what is clearly desirable.
-
-> Gradually I learned to be indifferent to myself and my deficiencies; I came to CENTER MY ATTENTION INCREASINGLY UPON EXTERNAL OBJECTS: the state of the world, various branches of knowledge, individuals for whom I felt affection.
-
-> (...) the easiest step toward improving the quality of life consists in simply LEARNING TO CONTROL THE BODY AND ITS SENSES.
-
-> (a) to SET AN OVERALL GOAL, AND AS MANY SUBGOALS as are realistically feasible; (b) to FIND WAYS OF MEASURING PROGRESS in terms of the goals chosen; (c) to KEEP CONCENTRATING ON WHAT ONE IS DOING, and to KEEP MAKING FINER AND FINER DISTINCTIONS IN THE CHALLENGES INVOLVED IN THE ACTIVITY; (d) to DEVELOP THE SKILLS NECESSARY TO INTERACT WITH THE OPPORTUNITIES AVAILABLE; and (e) to KEEP RAISING THE STAKES if the activity becomes boring.
-
-> Leisure that uses up external resources, however, often requires less attention, and as a consequence it generally provides less memorable rewards.
-
-> (...) the importance of personally TAKING CONTROL OF THE DIRECTION OF LEARNING FROM THE VERY FIRST STEPS cannot be stressed enough. If a person feels coerced to read a certain book, to follow a given course because that is supposed to be the way to do it, learning will go against the grain. But if the decision is to take that same route because of an inner feeling of rightness, the learning will be relatively effortless and enjoyable.
-
-> Giving up the self with its instincts, habits, and desires is so unnatural an act that only someone supremely in control can accomplish it.
-
-> (...) keeping order in the mind from within is very difficult. We need external goals, external stimulation, external feedback to keep attention directed. And WHEN EXTERNAL INPUT IS LACKING, ATTENTION BEGINS TO WANDER, AND THOUGHTS BECOME CHAOTIC -- resulting in the state we have called "psychic entropy" (...)
-
-> Even pain is better than the chaos that seeps into an unfocused mind. Hurting oneself, whether physically or emotionally, ensures that attention can be focused on something that, although painful, is at least controllable -- since we are the ones causing it.
-
-> The ultimate test for the ability to control the quality of experience is what a person does in solitude, with no external demands to give structure to attention. It is relatively easy to become involved with a job, to enjoy the company of friends, to be entertained in a theater or at a concert. But what happens when we are left to our own devices? Alone, when the dark night of the soul descends, are we forced into frantic attempts to distract the mind from its coming? Or are we able to take on activities that are not only enjoyable, but make the self grow?
-
-> A person who rarely gets bored, who does not constantly need a favorable external environment to enjoy the moment, has passed the test for having achieved a creative life.
-
-> If a person is unwilling to ADJUST PERSONAL GOALS WHEN STARTING A RELATIONSHIP, then a lot of what subsequently happens in that relationship will produce disorder in the person's consciousness, because novel patterns of interaction will conflict with old patterns of expectation.
-
-> The process of discovering new goals in life is in many respects similar to that by which an artist goes about creating an original work of art. Whereas a conventional artist starts painting a canvas knowing what she wants to paint, and holds to her original intention until the work is finished, an original artist with equal technical training commences with a deeply felt but undefined goal in mind, keeps modifying the picture in response to the unexpected colors and shapes emerging on the canvas, and ends up with a finished work that probably will not resemble anything she started out with. If the artist is responsive to her inner feelings, knows what she likes and does not like, and pays attention to what is happening on the canvas, a good painting is bound to emerge. On the other hand, if she holds on to a preconceived notion of what the painting should look like, without responding to the possibilities suggested by the forms developing before her, the painting is likely to be trite.
-
-> For an autotelic person, the primary goals emerge from experience evaluated in consciousness, and therefore from the self proper.
+1. c4 e5 2. Nc3 Nf6 3. e3 Nc6 4. Nf3 Bc5 5. Be2 O-O 6. O-O d5 7. cxd5 Nxd5 8.
+Nxd5 Qxd5 9. b3 Qe4 10. Ng5 Qg6 11. Nxf7 Rxf7 12. Bc4 Bh3 13. Bxf7+ Kxf7 14.
+Qf3+ Kg8 15. Qxh3 Rf8 16. Bb2 Bd6 17. d4 Qg5 18. dxe5 Bxe5 19. Bxe5 Qxe5 20. Qg3
+Qf6 21. Qxc7 Ne5 22. Qxb7 Ng4 23. Qd5+ Kh8 24. f3 Nxe3 25. Qe4 Nxf1 26. Rxf1 h6
+27. h3 Qa6 28. Re1 Qxa2 29. b4 Qa6 30. Rb1 Qb6+ 31. Kh1 a5 32. bxa5 Qxa5 33. Rb4
+Qa1+ 34. Kh2 Qf6 35. Qg4 Qd6+ 36. Kh1 Qd1+ 37. Kh2 Qd6+ 38. g3 Qd2+ 39. Kg1 Qe1+
+40. Kh2 Qd2+ 41. Kh1 Qe1+ 42. Kg2 Qe2+ 43. Kh1 Qe1+ 44. Kh2 Qe2+ 45. Kg1 Qe1+
+46. Kg2 Qe2+ 47. Kh1 Qe1+ 1/2-1/2
+```
 

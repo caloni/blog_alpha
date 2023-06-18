@@ -1,19 +1,22 @@
 ---
 categories:
 - writting
-date: '2023-01-04T23:33:05-03:00'
+date: '2015-04-22'
+link: https://www.imdb.com/title/tt2582802
 tags:
 - movies
-title: Ruído Branco (White Noise)
+title: 'Whiplash: Em Busca da Perfeição'
 ---
 
-A mente amalucada e irreverente do cineasta Noah Baumbach encabeça este trabalho pós-pandemia que graças a Deus é bem humorado. Seus diálogos inflados e enfadonhos nos preparam melhor para o filme-catástrofe, que quando chega ganha a assinatura do diretor e um frescor de novos ventos. Metalinguístico por natureza, a narrativa interna fala sobre a narrativa em si, escapando de maneira esperta do velho caminho de todos os gêneros que ele aborda. Aliás, não escapa: comenta olhando de fora e se inserindo com uma roupagem que reflete tudo que sabemos e gostamos sobre cinema. Bom, talvez não tudo.
+As distribuidoras simplesmente não param. A cada dez filmes assistidos, onze possuem um subtítulo vergonha-alheia. Talvez elas estejam por trás da queda vertiginosa de público nos cinemas brasileiros. Afinal, quem vai querer ver "Em Busca da Perfeição" ou "Uma Razão para Viver" pela enésima vez?
 
-Há um núcleo, mas vários epicentros que são simbólicos e que hoje se erguem como totens de uma nova era. A fascinação por Hitler, sendo comparada com Elvis em uma sequência imortal. A nova igreja, o supermercado, onde a comunidade mantém seus laços capitalistas e individualistas em uma dança secreta e consensual. E que dança pós-créditos, meus amigos!
+Bom, divago. Em determinado momento de Whiplash, um personagem pergunta para o protagonista se esse negócio de julgar música não é um tanto subjetivo. O rapaz que pergunta é um colegial exímio em algum desses esportes norte-americanos, ou tem algum prêmio na ONU. No fundo, tanto faz. Seja um participante do eterno jogo de azar e probabilidade dos esportes, ou tendo alguma carreira "proeminente" de humanas, de ambas as formas, é a subjetividade em pessoa falando com alguém cujo esmero pela perfeição e a angústia de imaginar seu fracasso está atingindo níveis alarmantes nesse momento do filme. É óbvio que o rapaz que foi questionado ficou chateado, assim como nós. Porque, assim como ele, nós vivenciamos essa experiência em seus dedos calejados e sangrentos, em suas eternas horas noturnas praticando, em sua abstinência de ter uma namorada.
 
-Temas tão caros como o medo da morte e a era da desinformação surgem tão naturais que o filme faz parecer fácil abordar esses assuntos. White Noise pode até ser uma masturbação cinematográfica, mas é feminina, com orgasmos múltiplos, que podem ser tão ou mais potentes que um único. É difícil de dizer como você se sentirá. Com sono? Anestesiado? Ambos? Queremos falar sobre isso?
+O nosso rapaz é Andrew (Miles Teller), um jovem ainda em plena puberdade que parece ter ganhado a chance de ouro de conseguir fazer alguma coisa com seu talento como baterista, quando consegue fazer parte da seleta classe do rígido professor Fletcher (J.K. Simmons). Fletcher se orgulha de puxar o limite em seus alunos através de sermões, gritos e até cadeiras sendo arremessadas. Porém, pior que isso é sentir a própria subjetividade (olha ela de novo) no julgamento de seu baterista-titular, um posto que parece estar em rotatividade eterna por causa da incapacidade de seus candidatos conseguirem acompanhar seu tempo. A maior virtude do filme é fazer nos sentir exatamente como Andrew se sente a respeito desse posto oficial e o que ele significa para seu futuro como músico.
 
-Não, ninguém quer. E por isso obras que desejam nos trazer ar puro depois dessa nuvem negra e tenebrosa ter passado, com a promessa de novas tempestades, são tão raras e tão desejáveis.
+Agora, será, mesmo, que o professor tem seus motivos para tanto julgamento? Ou é tudo uma desculpa para que esse limite tão importante para Fletcher seja atingido? Sabemos que sim quando vemos a forma com que ele expulsa um músico por este não saber se estava ou não desafinado. Ou não sabemos. De qualquer forma, o clima de insegurança e tensão são imensos para seus alunos, ou pelo menos parecem assim para uma geração que cresceu acostumada a sempre ser elogiada. Uma hora o professor afirma que a frase mais destruidora de talentos dessa geração é quando alguém diz: "bom trabalho!".
 
-Continua sendo bom curtir um Baumbach em meio ao divertimento de streaming inconsequente. Ele está apoiado em material de primeira do escritor original, Don DeLillo, também de Cosmópolis. O diretor nos entrega algumas horas que podemos desperdiçar em nossas vidas em busca de paz sobre os medos que se passam quando tudo o que temos são freiras alemãs que não crêem no paraíso.
+E é essa talvez a questão mais interessante do filme. Quem está certo? Temos uma geração de mimados, ou o professor é um ser cruel que pensa apenas em torturar psicologicamente seus alunos? Talvez a resposta penda de um lado ou outro dependendo de qual sua visão de mundo e como você enxerga suas atitudes, uma a uma. E é isso que torna o filme tão fascinante. Mais fascinante pelo fato da interpretação de J. K. Simmons ser visceral, além de sua cara de buldogue ser um atrativo a mais para seu personagem.
+
+Esse é um filme que pode te causar revolta, transtorno, tensão, empatia, diversão. Pode te causar qualquer coisa, dependendo do ponto de vista de qual personagem deseja olhar. Porém, dificilmente será um filme em que uma pessoa assistirá apática. Não se pode ficar apático muito tempo com o jazz. E assim o é com Whiplash.
 

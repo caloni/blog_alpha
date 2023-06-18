@@ -1,53 +1,15 @@
 ---
-categories:
-- coding
-date: '2019-11-29'
-title: 'Vcpkg: Bootstrap'
+categories: []
+date: '2019-09-07'
+tags: null
+title: 'Vcpkg: Atualizando Lib Asio'
 ---
 
-A versatilidade do vcpkg, gerenciador de pacotes multiplataforma da Microsoft, é permitir modificar tudo no projeto, desde código-fonte, pacotes instaláveis e a própria origem do repositório. Através do controle de fonte um vcpkg pode ser alimentado por diversas fontes, e por cada pacote existir em uma pasta separada permite a coexistência de várias versões e origens. Além disso, a forma de compilar os projetos e o código-base pode ser alterado exatamente da forma com que o projeto precisa.
+Hoje tive que compilar a versão 1.13.0 do Asio para Windows, mas o vcpkg não suporta essa versão ainda, apesar de suportar uma versão (1.12.2.2). Daí entra os problemas que todo programador Windows tem para manter bibliotecas de terceiro compilando em seu ambiente, mas agora com o vcpkg isso nem é tão difícil assim. Vamos lá.
 
-Sabendo de tudo isso, a única coisa que você precisa em um projeto isolado é um script de bootstrap que baixe um repositório vcpkg customizado para o projeto, compile, instale os pacotes necessários e integre com o Visual Studio antes de iniciar a compilação do próprio projeto. Dessa forma é possível montar o ambiente de maneira automática e sanitizada para qualquer membro da equipe ou máquina de build.
+Primeiro de tudo, os pacotes disponíveis no vcpkg podem não ser os disponíveis no branch oficial, que é apenas uma base, que está sendo atualizado e mantido por uma equipe grande que responde os issues, é verdade, mas nem sempre possui as versões que precisamos no dia-a-dia. Para adicionar ou modificar os pacotes deve-se mexer na pasta port do projeto. Dentro dela há uma pasta para cada pacote disponível.
 
-Vejamos como seria um bootstrap.bat:
+É lá que fica a pasta asio, com seus quatro arquivos: asio-config.cmake, CMakeLists.txt, CONTROL e portfile.cmake. No CONTROL temos o sumário do pacote (nome, descrição, versão), no asio-config.cmake a receita CMake para fazer o build e em CMakeLists.txt como instalar. Isso varia de pacote para pacote, mas no caso de libs como a asio ela fica no GitHub, então em algum lugar nas instruções de instalação (aqui no caso em portfile.cmake) você irá encontrar o uso da função vcpkgfromgithub.
 
-    @echo off
-    
-    if not exist vcpkg (
-      git clone https://vcpkg.git
-    ) else (
-      echo vcpkg detected
-    )
-    
-    if not exist vcpkg\vcpkg.exe (
-      pushd vcpkg
-      call bootstrap-vcpkg.bat
-      popd
-    ) else (
-      echo vcpkg detected
-    )
-    
-    if exist vcpkg\vcpkg.exe (
-      pushd vcpkg
-      vcpkg update
-      vcpkg install pkg1
-      vcpkg install pkg2
-      vcpkg install pkgN
-      vcpkg integrate install
-      popd
-    )
-
-Com esse script na pasta raiz do seu projeto ele irá criar uma subpasta chamada vcpkg e após realizar as operações descritas acima integrar ao Visual Studio. Dessa forma quando for compilar o projeto os includes e libs já estarão disponíveis para que ele funcione, mesmo diretamente de uma máquina limpa.
-
-Esse script pode ser integrado à lib principal do projeto ou o projeto da solution que primeiro deve compilar (porque todos dependem dele). Para isso existe o Pre-Build Event nas configurações de um projeto do Visual Studio. Os comandos que estiverem lá serão executados sempre antes da compilação.
-
-    <PreBuildEvent>
-      <Command>
-        pushd $(SolutionDir)
-        call bootstrap.bat
-        popd
-      </Command>
-    </PreBuildEvent>
-
-O único passo não-descrito neste artigo é baixar o projeto e iniciar o build, tarefas triviais de integração.
+Essa função irá obter os fontes baixando pela referência master do git, mas poderia ser outro branch ou tag. Para trocar a versão para a 1.13-0, por exemplo, existe uma tag para isso. Tudo que você precisa é mudar em HEADREF, mas para ficar mais bonito mude em REF também (além de atualizar o CONTROL, que contém informações sobre o pacote que o vcpkg irá exibir para o usuário). De início o SHA512 do download irá falhar, mas assim que você rodar o vcpkg install asio ele irá cuspir qual o hash correto. Daí é só atualizar no arquivo e rodar novamente. Feito isso o pacote é baixado, compilado e instalado exatamente como a versão 1.12.
 

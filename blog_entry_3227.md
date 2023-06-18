@@ -1,18 +1,22 @@
 ---
 categories:
 - writting
-date: '2016-01-16'
-link: https://www.imdb.com/title/tt0097523
+date: '2019-10-21'
+link: https://www.imdb.com/title/tt9657946
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Querida, Encolhi as Crianças
+title: Querência
 ---
 
-Os efeitos estão datados, mas nem por isso não funcionam em sua maioria. Rick Moranis está hilário procurando seus filhos com uma lupa sobre seus óculos pendurado no jardim suspenso por uma televisão. Seus vizinhos são malucos em um sentido diferente, mas todos eles possuem um objetivo no roteiro esquemático: juntar novamente a família. O feminismo, quem diria, sempre foi um mote na série.
+Querência, quem diria, é uma cidade de verdade, localizada no estado de Mato Grosso. Mas o que acaba não sendo nem de verdade, nem de mentira, é este filme escrito e dirigido por Helvécio Marins, que cria uma ficção com personagens da vida real, e demonstra uma das péssimas formas de unir duas formas de filme em um resultado insosso e sem alma.
 
-O primeiro filme, dirigido por Joe Johnston (Capitão América: O Primeiro Vingador, Jumanji) e roteirizado por uma galera, apresenta a família Szalinski. Wayne (Moranis), o pai de família, é um cientista que busca provar que é possível encolher a matéria através de um raio laser, mas enquanto não conseguir a casa estará em um eterno caos. Isso fez com que sua esposa, Amy (Amy O'Neill), tivesse eternos conflitos com ele e seus filhos: o pequeno e adorável Nick (Robert Oliveri), que imita o pai em suas invencionices, e a mais velha, Diane (Marcia Strassman), cuja adolescência já estaria naturalmente complicada não fosse o encolhedor do pai tivesse tornado ela mais complicada ainda.
+Acompanhamos o drama de Marcelo Di Souza, um gerente de uma fazenda de gado que é assaltada. Cem cabeças de gado são levadas, o maior roubo de gado já registrado. É um caminho natural Marcelo se mudar, preocupado com sua segurança e desestimulado pelo acontecimento, e o filme enquanto acompanha essa mudança vai nos apresentando o ambiente do Centro-Oeste brasileiro e os outros personagens da vida real. No meio do caminho ele faz algumas críticas aleatórias sobre política que agrada algumas pessoas e este filme acaba ganhando prêmios (inclusive lá fora).
 
-Os dois filhos da família e os dois filhos do vizinho, que compartilham um drama familiar "pai não respeita os gostos dos filhos", são encolhidos em uma situação turbulenta. A princípio acreditando que eles tenham fugido, mais tarde Wayne descobre a verdade e sai à cata dos pequeninos. Tudo é muito exagerado e exploratório nesse filme que realiza trucagens interessantes, formigas-cachorros e muitos outros conceitos que são uma distração do que até então era uma história padrão.
+Querência tenta unir vida real e ficção gravando ou reproduzindo conversas durante sua história, mas a posição das câmeras, mais de uma, durante as cenas criadas, acaba revelando a "farsa", mais ou menos o efeito contrário que a câmera única na mão tem, de evocar realismo. Esse estilo foi usado também em outro filme exibido nesta Mostra de São Paulo, "E Em Cada Lentilha Um Deus", mas no caso do filme de Miguel Ángel Jiménez ele nos mantém presos na narrativa pela história pregressa do protagonista. Aqui não há esse artifício.
 
-O fato é que o roteiro escrito a não sei quantas mãos é confuso, deixa diversas pontas abertas e cria situações artificialmente (como os clientes da esposa aparecerem na casa da família para gerar constrangimento). Fora tudo isso, a direção de Johnston entrega um filme divertidinho, simpático e a marca de uma época mais inocente, mas nem tanto: o final dos anos 80.
+O que vemos neste filme não é muito diferente de outros filmes da região. Pessoas do interior isoladas da internet conversando dos estranhos hábitos do pessoal da cidade grande de chamar "tomar uma pinga" de "happy hour", rodeios, o evento principal da cidade, e o roubo dos gados, o acontecimento da região, e que será comentada por muito tempo, já que praticamente nada acontece por estas bandas, como o ritmo lento e as tomadas de pores do sol repetitivas. Lindas, mas repetitivas.
+
+É uma ode ao pequeno pecuarista brasileiro? Um mini-documentário sobre costumes da região? Uma tentativa de ficcionalizar a realidade? Talvez nenhum, talvez todos. Mas nenhum deles é o tema principal, desconhecido talvez até dos idealizadores. Mas Querência não mostra cenas ruins. Ele apenas não sabe o que fazer com elas.
 

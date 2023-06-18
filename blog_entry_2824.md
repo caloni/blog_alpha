@@ -1,17 +1,12 @@
 ---
 categories:
 - writting
-date: '2013-10-20'
-link: https://www.imdb.com/title/tt0120382
+date: '2020-03-28'
+link: https://www.imdb.com/title/tt0097814
 tags:
 - movies
-title: O Show de Truman
+title: O Serviço de Entregas da Kiki
 ---
 
-Daria para escrever um livro sobre O Show de Truman, do sempre interessante roteirista Andrew Niccol ([O Senhor das Armas], [O Preço do Amanhã]) e do simpático diretor Peter Weir (A Testemunha, Sociedade dos Poetas Mortos). Cheio de ideias que entrecruzam os dois mundos do entretenimento e dos espectadores, obviamente intercalando isso com nossa própria percepção do que é ser espectador (afinal, inevitável fazer o paralelo com o próprio Cinema), o filme é uma espécie de laboratório sobre o ato de assistir e ter o controle sobre nossas criações, sendo que o detalhe é quando essas criações fazem parte do mundo real.
-
-E nesse sentido The Big Brother, o filme permanece mais do que atual: terrivelmente profético. Assistimos programas de TV pela possibilidade de acompanhar a vida de outras pessoas. Séries nos mantém curiosos a respeito do destino de seus fictícios personagens. Tudo isso, no entanto, está longe do fascínio das pessoas pela vida alheia. E nada mais compreensível que um show que explore essa vida alheia em proporções megalomaníacas fosse o maior sucesso de todos os tempos.
-
-[O Senhor das Armas]: {{< relref "o-senhor-das-armas" >}}
-[O Preço do Amanhã]: {{< relref "o-preco-do-amanha" >}}
+Os animadores dos Estúdios Ghibli são sempre muito empenhados. Até este trabalho menor é encantador em seus detalhes e sua execução. Fala sobre uma bruxinha adolescente que sai de casa muito cedo para encontrar sua cidade e ser útil à comunidade. As dúvidas de uma jovem nunca são diferentes, e portanto o filme sai do comum ao nos mostrar as dúvidas de uma jovem que voa em uma vassoura.
 

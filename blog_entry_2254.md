@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2018-12-11'
-link: https://www.imdb.com/title/tt0058331
+date: '2010-04-16'
+link: https://www.imdb.com/title/tt0978762
 tags:
 - movies
-title: Mary Poppins
+title: Mary e Max uma Amizade Diferente
 ---
 
-Mary Poppins é um musical adorável que foi crescendo como um segundo clássico após Noviça Rebelde, ambos trabalhos fenomenais de Julie Andrews como a queridinha que canta e dança. Aqui sua persona é mais rígida, e tem tudo a ver com a história.
+Tudo em "Mary e Max" é construído para tentar responder uma das perguntas emocionalmente mais ambiciosas e filosoficamente mais intrigantes que nós, passageiros desse planeta em direção à morte, nos fazemos de vez em quando: o que é a amizade?
 
-Estamos na Inglaterra dos anos 10. O patriarcado, simbolizado pelo chefe da família Banks (David Tomlinson) tenta controlar a família como um banco: rigidez, mas a distância. Um problema clássico que é eternizado neste trabalho com direção de arte, fotografia e figurino impecáveis. Quando surge a nova babá, vinda das nuvens e de um pedido honesto e das próprias crianças, tudo se conecta: chaminés, vizinhos ex-marinheiros, homens de uma banda só, fantasia e realidade trabalhando em função do tema: como manter o frescor da infância apesar dos adultos por perto?
+Mary (Toni Collette), uma menina da Austrália, começa a se comunicar ao acaso através de cartas com Max (Philip Seymour Hoffman), um senhor de meia-idade de Nova York. Habitantes cada um do seu mundinho particular e distante, suas cores não se misturam, suas músicas possuem diferentes tons, suas idades são incompatíveis (o futuro de Mary é do mesmo tamanho que o passado de Max). Mesmo assim há algo que os une e a todos nós de uma maneira indissociável e misteriosa: a solidão, e uma fascinante melancolia que torna tudo triste à sua volta.
 
-A direção encomendada de Robert Stevenson estabelece o clima fantasioso desde o começo, nos créditos iniciais. Mary Poppins repousa em uma nuvem, com seu guarda-chuva e sua maleta onde tudo cabe. A partir daí há momentos sóbrios e malucos sendo alternados para sempre manter esses dois lados em relevância. Mas como esta é uma produção Disney a fantasia sempre prevalece.
+Presos ou na infância lúdica e suas dúvidas e descobertas, ou na velhice autista e seus pequenos desafios do dia-a-dia, as confissões entre esses dois seres tão díspares flui de uma maneira admirável graças à direção precisa de Adam Elliot que com a ajuda de seu montador Bill Murphy combinam luz (Gerald Thompson), som (Dale Cornelius) e uma arte (Craig Fison) em "stop motion" em sincronia com os sentimentos dos seus personagens, que florescem em torno de uma narração onisciente (Barry Humphries) que lê as tais cartas de uma forma empolgante, quase como se conhecesse a fundo cada uma dessas almas separadamente e fizesse de tudo para juntá-las em assuntos comuns. O mais maravilhoso é perceber como até assuntos corriqueiros (como o nascimento dos bebês) se tornam fascinantes nas mãos do hábil roteirista que sintetiza tudo que eles escrevem de uma maneira surpreendentemente orgânica e trivial, mas que mantém uma profundidade digna dos diálogos de Antes do Amanhecer e suas continuações.
 
-Prevalece principalmente no grande projeto de Disney: uma sequência onde atores e desenho se misturam. Um encanto até hoje. Envelheceu muito bem e é o ponto alto do longa, infelizmente logo no seu começo. Mas fica perene na memória até o seu final. Deve ter sido um processo caro, pois só o vemos naquele momento. O resto são cenários, música e dança. Todos coreografados de acordo com animações clássicas e filmes infantis de primeira.
+Porém, fora a descrição contemplativa, a versão animada da imaginação de ambos é uma diversão à parte, assim como os estranhos seres, animais e humanos, que permeiam a vida dos dois. Além disso, essa não é uma história estática que foca no passado, pois temos o privilégio de acompanhar o crescimento e amadurecimento de Mary, que vai aos poucos sentindo o peso da vida. O que a mantém em movimento em vários momentos é sua amizade com Max. A recíproca é verdadeira, e conseguimos captar através de uma comédia leve que consegue tornar a morte frequente de seus peixes de estimação como uma gag tão eficiente pelas risadas quanto significativa pelo que simboliza, que o velho Max está tão perdido quanto Mary, mas que graças ao seu suporte tenta melhorar de sua doença, nem que seja um pouco a cada dia.
 
-Esta é uma produção cara e rebuscada no sentido estético e musical, e por isso sobrevive até hoje. Ganhou uma continuação e que serve para reavivar nossa memória para esses filmes que populam o imaginário infantil e adulto e de vez em quando é revisitado.
+O que nos leva ao impecável terceiro ato, que depois de nos conquistar completamente com personagens tão verossímeis quanto atores de carne-e-osso de um drama "live action", tem a proeza de criar momentos tensos e dramáticos entre os dois mesmo mantendo a distância física que os separa. "Mary e Max" não consegue explicar do que são formadas as amizades, mas consegue descrever com perfeição a amizade desses dois, o que para mim já vale por todos nós.
 

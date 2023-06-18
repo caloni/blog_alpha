@@ -1,19 +1,23 @@
 ---
-categories: []
-date: '2014-11-21'
-tags: null
-title: MVP C++ Summit e/ou Visual C++ ressurgindo das cinzas.
+categories:
+- writting
+date: '2022-10-11T21:31:48-03:00'
+tags:
+- cinemaqui
+- mostra
+- movies
+title: Mutzenbacher
 ---
 
-Esse ano aproveitei meu status de Most Valuable Professional (já renovado para mais um ano...  yes!) e visitei o Campus de Seattle da Microsoft no evento global MVP Summit. A ideia desse evento é que os MVPs troquem ideias entre eles e com as equipes dos produtos Microsoft. No meu caso, houve um dia que visitamos o prédio da equipe do Visual C++, assistindo apresentações sobre a nova e próximas versões de C++ e também dando opiniões e visões acerca do que é relevante e o que não é no momento para a comunidade de desenvolvedores.
+Este livro pornográfico lançado na Áustria no início do século 20 é um clássico porque é bem escrito e foi alvo de críticas e censura por décadas. O motivo é se tratar das experiências de uma jovem que começou cedo sua vida sexual. Aos cinco anos. Todo o livro são suas experiências na infância e adolescência com todo tipo de homem que ela pudesse encontrar. E agora em Mutzenbacher, filme da Mostra de SP, a diretora Ruth Beckermann reúne em um mesmo set todo tipo de homem que ela pudesse encontrar para falar a respeito.
 
-E é claro que eles já sabem que o mais relevante no momento é o acompanhamento do padrão.
+Descrito lindamente de forma vulgar, é óbvio que o livro se trata de um autor masculino fantasiando sobre a luxúria de possuir uma jovem, já que ela sente êxtase por fazer parte de tudo disso. As suspeitas maiores de autoria recaem sobre Felix Salten, escritor de Bambi. No entanto, apesar de óbvio, seu conteúdo não é tão simples e manipulador assim, pois do contrário seria esquecido há muito tempo. Nas entrelinhas se enxerga um misto de vergonha e dor intercalados às cenas que talvez todo homem secretamente queira fazer parte.
 
-Apesar de não estar no centro dos meus estudos e dedicação nos últimos anos, a velha queda que nutro pela minha linguagem de criação além do próprio título de expertise me fizeram escolher, por todos os dias que estive no evento mundial de MVPs, pela oportunidade de ouro de assistir o que a equipe de desenvolvimento do Visual C++ tinha a dizer. O saldo foi extremamente positivo.
+Ruth Beckermann vira o jogo de uma maneira fascinante ao dar voz a estes homens de hoje em dia lendo e interpretando esta obra-fetiche, relacionando as cenas e livro como um todo com suas próprias experiências iniciais no sexo. A vaga no casting está aberta a qualquer ser masculino dos 16 aos 99 anos. Um sofá antigo com um estofado que sugere um fundo erótico é palco desses momentos de instrospecção. Nós somos convidados a interpretar a visão desses homens sobre a sexualidade e abordando temas dos mais controversos para se falar com estranhos, como pedofilia, incesto, trios e tabus. No entando, o poder da edição extrai os melhores momentos desta que deve ter sido uma atividade enfastiante.
 
-Como devem saber, há um blogue da equipe onde são compartilhadas informações sobre como anda esse projeto que já tem mais de duas décadas. As últimas novidades incluem ferramentas para desenvolvimento mobile (Android e Windows Phone) em C++ e o Visual Studio 2015 Preview e mais uma porrada de suporte aos padrões C++ 11, 14 e o futuro 17.
+A boa ideia é colocar sob o prisma do espectador a percepção masculina sobre o sexo com uma jovem hoje considerada jovem demais. A luz interpretativa está sob nosso controle, e talvez além do interessante. Não saímos da experiência mais sábios. O filme explora questões pela metade, pois são pontos de vista dilapidados sem uma intenção uníssona. É abrir um debate sem foco de como discorrer ou terminar.
 
-E uma última novidade muito curiosa é um saite onde é possível testar código no último compilador compilado pela equipe!
+Logo, o potencial de dar voz a esses homens de ampla faixa de idade sobre assunto controverso é alto, mas o resultado insatisfatório. Não é como se houvesse algum momento sublime nessa exploração do antigo e do novo, dos "novos tempos" e como as coisas funcionavam antes para a mulher e como é agora. Há poucos momentos políticos que jogam uma luz no pensamento masculino atual sobre a opressão sofrida recentemente aos homens da sociedade moderna, mas não é apenas isso que está em debate, e logo termina, o que torna a discussão estéril nessa arena. A necessidade da diretora em tentar extrair conteúdo de seus candidatos acaba frustrando o projeto.
 
-Enfim, sabemos que o GCC é o laboratório para as últimas features de C++, mas como também sabemos através do Java, nunca é muito saudável confiar em apenas um projeto para o desenvolvimento de uma linguagem. E quanto mais compiladores C++ modernos melhor!
+Ou talvez para um homem este não seja um filme com alguma novidade sobre como funcionamos. Extrair a diversidade de opiniões possui o efeito indesejado em uma obra de arte em colocar tudo no mesmo patamar. A falta de uma opinião forte ou uma interpretação definida sobre o livro, por outro lado, acaba o glorificando mais uma vez. Talvez este seja o motivo deste ser um clássico da pornografia até os dias de hoje. E talvez seja por isso que eu espero ansiosamente por uma tradução para o português.
 

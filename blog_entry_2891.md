@@ -1,39 +1,25 @@
 ---
 categories:
-- coding
-date: '2015-01-26'
+- writting
+date: '2016-02-12'
+link: https://www.imdb.com/title/tt1374989
 tags:
-- ccpp
-title: Origem do Tipo char
+- cinemaqui
+- movies
+title: Orgulho e Preconceito e Zumbis
 ---
 
-Programadores C e C++, preparem-se para explodir as cabeças! No princípio... não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados srs. dos Laboratórios Bell, K. Thompson e [D. Ritchie], criaram uma linguagem chamada B. E B era bom.
+Há muitos filmes que se agarram a um conteúdo original pela força dramática que estes fornecem (como o recente Dez Mandamentos brasileiro), mas se esquecem de adicionar algo realmente valioso. Pelo contrário: se escondem covardemente "por trás das saias" de uma obra de referência, ambiciosa e complexa, e de lá atiram com pistolas de água no espectador, indeciso se gosta do que vê por lembrar algo que já viu ou furioso por terem brincado com algo que nunca deveria ter sido "tirado da caixa".
 
-O bom de B estava em sua rica expressividade. Sua gramática extremamente simples. Teoricamente a evolução da [linguagem BCPL] criada por Martin Richards, ela era tão simples que o [manual da linguagem B] consistia de apenas 30 páginas. Isso é menos do que as 32 palavras reservadas de C. As instruções eram definidas em termos de if's e goto's e as variáveis eram definidas em termos de um padrão de bits de tamanho fixo, geralmente a palavra da plataforma, que utilizada em expressões definiam seu tipo; esse padrão de bits era chamado rvalue.
+Acho que poucos filmes seriam tão perturbadores nesse quesito que esse Orgulho e Preconceito e Zumbis, que utiliza os personagens, a história e os diálogos da obra literária de Jane Austen e do filme homônimo (Joe Wright, 2005). Claro, a obra já foi adaptada outras vezes e até virou série televisiva pela BBC. É um conteúdo hoje popular graças a isso. E justamente por isso o diretor e roteirista Burr Steers (do ótimo A Estranha Família de Igby) inseriu na história outro elemento igualmente popular nessa década: zumbis.
 
-Como esse padrão de bits nunca muda de tamanho, todas as rotinas da biblioteca recebiam e retornavam sempre valores do mesmo tamanho na memória. Isso na linguagem C quer dizer que o char da época ocupava o mesmo tamanho que um int. Existia inclusive uma função que retornava o caractere de uma string na posição especificada:
+O pano de fundo é a Peste Negra, trazida pelos franceses ("claro que foram eles") e espalhadas em diferentes formas. Entre elas, apodrecendo a carne das pessoas infectadas, mas mantendo-as sãs, falantes, pensantes. Desde, é claro, que elas não comecem a devorar cérebros humanos por aí. Se fizerem isso, estarão marchando para o caminho da perdição, do animalesco. Dentro da história surge um grupo que evita comer cérebros humanos para comer de porcos, e que através da fé conseguem se manter "vivos" e livres da tentação. Constituem a alta classe de zumbis. Seriam os intelectuais, a aristocracia. Se continuarem assim, alguém comenta, logo estarão no Parlamento inglês.
 
-    // the i-th character 
-    // of the string is returned
-    c = char( string, i );
+A correlação com os zumbis de George Romero e seu A Noite dos Mortos Vivos e sequências não poderia ser mais viva e vibrante. Que ideia! Eu adoraria assistir um filme que relacionasse esses zumbis com a sociedade da época de Jane Austen, onde os nobres espantavam o tédio realizando bailes, que eram usados para que pares fossem arranjados, terras fossem transferidas de uma família para outra.
 
-Sim! Char era uma função, um conversor de "tipos". No entanto a própria variável que armazenava um char tinha o tamanho de qualquer objeto da linguagem. Esse é o motivo pelo qual, tradicionalmente, as seguintes funções recebem e retornam ints em C:
+Infelizmente, este filme é mais Orgulho e Preconceito e menos Zumbis. O que vemos neste é apenas um remake da obra de Austen em um formato mais explícito. Afinal, nós já sabemos que as mulheres são o sexo forte em seus romances, as verdadeiras heroínas. Aqui, são elas que realizam treinamento de artes marciais na Ásia (Japão se for rica, China se for pobre) e são elas que portam facas e espadas entre suas vestimentas delicadas. Tudo para se defenderem das criaturas comedoras de cérebro, que se mantém afastadas dos campos graças ao "entremeios", um sistema de defesa do exército britânico, que destruiu todas as pontes e mantém Londres separada do resto do mundo civilizado exceto por um único caminho.
 
-    // read a character 
-    // from stdin
-    int getchar( void );
+Enquanto isso, a nobreza arruma tempo para elaborar seus bailes e seus estratagemas de troca de herança, quase como se não houvessem zumbis. E é isso que é decepcionante no filme. Zumbis existem, vemos eles uma hora ou outra, mas eles nunca de fato participam da história ou são extremamente vitais para seu desenrolar. É como se eles apenas fossem uma nação inimiga pronta para atacar a qualquer momento. E se retirarmos os zumbis da trama, a história se volta quase que integralmente para um Orgulho e Preconceito e Paródia. As cenas estão lá, os diálogos funcionam, só que às vezes em um contexto ligeiramente diferente.
 
-    // writes a character 
-    // to stdout
-    int putchar( int c );
-
-    // sets buffers to a 
-    // specified character
-    void *memset( void *dest, 
-      int c, 
-      size_t count );
-
-[D. Ritchie]: https://www.bell-labs.com/usr/dmr/www/
-[linguagem BCPL]: https://www.bell-labs.com/usr/dmr/www/bcpl.html
-[manual da linguagem B]: https://www.bell-labs.com/usr/dmr/www/kbman.html
+Isso não basta. Já vimos esse filme, e em um formato muito melhor: o drama original. A paródia não consegue nunca criar momentos cômicos interessante, pois se limita a repetir a receita do drama e inserir a novidade dos zumbis pontualmente. Depois da definição fantástica de como seriam os zumbis da aristocracia britânica, esse seria um filme que eu adoraria assistir. Infelizmente, vou continuar esperando.
 

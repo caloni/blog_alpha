@@ -1,16 +1,20 @@
 ---
 categories:
 - writting
-date: '2015-05-04'
-link: https://www.imdb.com/title/tt1355630
+date: '2016-04-17'
+link: https://www.imdb.com/title/tt1411697
 tags:
 - movies
-title: Se Eu Ficar
+title: Se Beber, Não Case! Parte II
 ---
 
-Fale-me mais sobre clichês. Esse filme tem de montes e nenhum é usado direito. Há a narrativa em off de uma protagonista que faz questão de ser desinteressante (mas parece que o filme acha o fato dela tocar violoncelo cool o suficiente para ser uma personagem digna de ser seguida), mas que mesmo assim arrisca nos primeiros 10 segundos a se comparar com Beethoven. Há o romance entre um casal igualmente desinteressante, mas que o filme acha muito cool pelo fato do rapaz cantar em uma banda e juntos formarem dois "extremos" musicais. Por fim, ele acha a família da moça tão cool que até evita falar muito sobre eles, para quando todos morrerem não fazerem a mínima falta, por mais que a garota berre ao saber do seu irmão mais novo.
+Como seria o original se ele não tivesse graça. Não seria uma novidade se a sequência de Todd Phillips repetisse a fórmula exata da ótima comédia que é o filme original, que é o que este Parte II faz do início ao fim. A novidade é que, mesmo juntando o elenco original, o curioso é que quase nada funciona, quase nada é engraçado e muito pouco é imprevisível.
 
-If I Stay é um filme feito para ser bonitinho e fazer as pessoas chorarem. Aparentemente as pessoas choram por qualquer bobagem. Basta contar que ela é bonita, tem um futuro pela frente, ele também, e que ela sofreu um acidente com sua família genérica, e pronto: tristeza constante instantânea. Infelizmente, uma rápida análise sobre esses personagens revela que eles são enfadonhos demais, e que o grande conflito do título não se sustenta, já que a decisão da moça, que está sempre andando como um fantasma pelo hospital, é se ela vai viver ou morrer, e não viver ao lado de um garoto.
+Há situações pesadas o suficiente para tornar uma comédia um quase drama de um grupo de homens perdido em Bangkok, a capital da Tailândia, do sexo e da violência. Um macaco traficante é engraçadinho, mas não deixa de ser traficante. E um tiro de raspão em um país estrangeiro não deixa de ser um tiro.
 
-Por incrível que pareça, apesar dela estar à beira da morte, um conflito que ocupa a maior parte do tempo é se ela seguiria sua carreira do outro lado do país ou ficaria com ele. Há umas seis horas de indecisão a respeito. É demais para o meu gosto.
+A questão é: nem tudo que acontece durante um "bebedaço" é engraçado ou inocente. Ao brincar com os heróis do filme original, brincamos com todo o conceito genial que se formou anteriormente. E tudo isso é sacrificado para tentar firmar uma fórmula de um filme só.
+
+Nem Ken Jeong (Community) ou Zach Galifianakis são capazes de transformar esse filme esquecível em algo mais. Eles estão exagerados, mas não tanto quanto Ed Helms, que parece tentar defender a "sua" sequência com muita força (afinal, é o casamento de seu personagem).
+
+Ainda assim, há um quê de nostálgico e saudosista em Parte II. A sensação de ter perdido a memória novamente é um dejá vu inevitável, mas nos passamos de espectadores de um evento turístico: o passeio às sensações de como deve ter sido o primeiro filme (para quem não assistiu, talvez até tenha ficado com uma impressão superior).
 

@@ -1,20 +1,24 @@
 ---
 categories:
 - writting
-date: '2011-02-23'
-link: https://www.imdb.com/title/tt0947798
+date: '2011-06-20'
+link: https://www.imdb.com/title/tt0450405
 tags:
 - movies
-title: Cisne Negro
+title: 'Circo dos Horrores: O Aprendiz de Vampiro'
 ---
 
-Nina é uma dançarina de balé que, assim como muitas, devota toda sua vida a essa arte. Perfeccionista ao extremo e apoiada pela mãe controladora, ela está prestes a participar da escolha de quem será a nova protagonista de uma nova versão do clássico O Lago dos Cisnes, dirigida pelo seu controverso diretor Thomas Leroy (Cassel).
+Darren (Massoglia) é um garoto estilo certinho, mas é amigo do problemático Steve (Hutcherson). Ambos acabam indo a um circo de horrores e lá conhecem um homem misterioso, Lasten Crepsley (Reilly), que se revela um vampiro secular. Após uma série de eventos, como o título já denuncia, Darren será obrigado a deixar sua vida normal e se tornar seu assistente. Porém, para complicar as coisas, ele irá descobrir que existem algumas escolhas a ser feitas no mundo dos vampiros.
 
-A primeira coisa que é notável na produção de Cisne Negro é a uniformidade nas escolhas da fotografia e direção de arte. A sinergia que ocorre entre os elementos do cenário, em sua maioria objetos e roupas das cores preta, branca e cinza, ajudam a fortalecer ainda mais todo o trabalho do projeto em busca da dualidade de sua protagonista. 
+Existem boas ideias em Cirque du Freak, e uma delas é inserir no ambiente de criaturas peculiares de um circo de horrores a figura do vampiro que, se existisse em nosso mundo, seria igualmente visto como uma aberração a ser evitada.
 
-Aliás, a dualidade de Nina e a insegurança sobre sua própria identidade são organicamente demonstradas pelo uso de câmeras em movimentos absurdamente competentes durante as danças e a troca constante do ponto de vista da câmera a partir de espelhos colocados organicamente na construção da cena.
+Matando a curiosidade do espectador em cinco minutos de projeção, somos apresentados, durante o espetáculo do circo, a uma sucessão de aberrações que rapidamente passam pelo palco. Se elas impressionam pelos efeitos, o mesmo não se pode dizer da criatividade em sua concepção, pois elas em quase nada acrescentam à história, mostrando em seu lugar que o que existe por trás das cortinas termina por cair no espaço comum de uma subtrama que em nada acrescenta à já esgotada literatura (e cinegrafia) sobre vampiros ou criaturas afins.
 
-E por falar em espelhos, eles são primordiais na construção da própria personagem e seu conflito interno. Usados de modo discreto e descarado, Nina e nós mesmos aprendemos a enxergar a realidade que nos é passada tanto através dos reflexos quanto através da própria realidade. Essa realidade, porém, e isso é o mais genial, também passa pelo filtro da lente da câmera que está filmando; e essa teima em tremer e parecer tão difusa, ou mais, que o próprio espelho. É o universo daquele mundo saindo de campo de visão e atingindo significados metafóricos.
+Escrito em parceria com o diretor, o texto de Brian Helgeland ([Sobre Meninos e Lobos], Teoria da Conspiração) mantém a ação para se focar no absurdo da situação para Darren, que aqui faz o papel de nós mesmos, aprendendo aos poucos como é, de fato, um vampiro "da vida real", sendo constantemente cortado em suas pré-concepções pelos comentários sarcásticos e impacientes de seu mestre Larten Crepsley (Reilly, ironicamente divertido).
 
-Dono de um invejável controle sobre a profundidade crescente com que trata os distúrbios emocionais de Nina, cada vez mais afetada pela pressão que a cerca de todos os lados, o roteiro, além de usar um modelo que difere do usual em filmes do gênero, ainda aposta acertadamente na inteligência do espectador para juntar as pontas conforme caminhamos para o desfecho.
+Para driblar as muitas falas e situações do roteiro, Weitz cria inúmeras transições que vão repassando as cenas em uma velocidade que nos impede de perceber, de imediato, o absurdo de toda aquela trama, aplicando muitas vezes a mudança de ângulo e tremidas na câmera aumentando ainda mais a desorientação. Se isso parece funcionar durante todo o desenvolvimento da história, o mesmo não se pode dizer da conclusão, que não percebe que ouvir os personagens criados naquele universo termina por nos jogar na mesma velocidade em um desfecho ao mesmo tempo previsível e irritante.
+
+O que é uma pena, pois mesmo com atores tão talentosos quanto Reilly e Hutcherson caímos no lugar comum sem nenhum aviso, criando a desgostosa sensação de auto-sabotagem em uma história no mínimo curiosa, mas que, em seu máximo, se parece com um castelo de cartas.
+
+[Sobre Meninos e Lobos]: {{< relref "sobre-meninos-e-lobos" >}}
 

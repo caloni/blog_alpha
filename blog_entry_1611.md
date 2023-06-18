@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2013-08-26'
-link: https://www.imdb.com/title/tt2217458
+date: '2012-05-07'
+link: https://www.imdb.com/title/tt0412019
 tags:
 - movies
-title: Flores Raras
+title: Flores Partidas
 ---
 
-O tema "polêmico" de Flores Raras não existe há muito tempo, e apenas as mentes reduzidas de nossa época, que infelizmente não são poucas, irão enxergar qualquer anomalia no fato da história girar em torno de um triângulo amoroso entre três mulheres: Mary (Tracy Middendorf), a arquiteta Lota (Glória Pires) e a poetisa Elizabeth Bishop (Miranda Otto), todas encapsuladas em tramas tridimensionais. Sensível e inteligente, Bruno Barreto demonstra que a principal anomalia desse relacionamento é o ego controlador e descontrolado de Lota, uma arquiteta que através das influências políticas e dinheiro consegue manter em sua isolada casa no campo a ilusão de um mundo tolerante e tranquilo.
+Don Johnston (Bill Murray, impagável) tem seu nome frequentemente confundido com seu quasi-homônimo Don Johnson ("o meu é com T"). No entanto, o que intimamente gostaria de ser é seu outro homônimo, Don Juan, conquistador inveterado de corações femininos. Um belo dia recebe uma carta rosa que menciona a existência de um filho já crescido, fruto de uma de suas inúmeras amantes. Crente de ter as qualidades de um verdadeiro conquistador, Don parte em uma jornada pelo país para verificar qual das quatro mulheres que consegue se lembrar de seu passado possuem vínculo com a suposta carta.
 
-Aliás, Glória Pires mais uma vez se firma como uma das grandes atrizes de nossa época ao encarnar uma personagem que oscila entre o amoroso e o cruel. No entanto, a grande surpresa fica por conta de Miranda Otto, que constrói e realiza um arco admirável em sua Elizabeth Bishop, que parte de um início tímido a um final... bem, não tímido. O resultado é tão satisfatório que sua personagem cria um aspecto inesperadamente sombrio à história.
+Dirigido e escrito por Jim Jarmusch ([Sobre Café e Cigarros], Estranhos no Paraíso) baseado em ideias de seus colegas Bill Radem e Sara Driver, Flores Partidas parte de um pressuposto personagem e realiza um arco dramático que diz muito sobre a visão do homem moderno sobre suas conquistas femininas e sobre a auto-imagem que fazemos de nós mesmos e que na esmagadora maioria das vezes não passa de uma ilusão bem construída com a ajuda da opinião de amigos e conhecidos. No caso de Don, o conhecido é seu vizinho Winston (Jeffrey Wright), que, aparentando monotonia de sua própria vida, frequentemente se mete nos detalhes da vida íntima de seu amigo.
 
-A história inicia nos anos 50, passando pelo golpe militar brasileiro e avançando os anos com uma sutileza admirável, nos provocando a sensação de passagem no tempo mais pelo figurino e direção de arte. A psique dos personagens parece se manter quase intacta, como se pouca coisa tenha mudado mesmo que as rugas venham surgindo. Os problemas do longa parecem residir apenas na direção muitas vezes intrusiva de Barreto, que apela para o fantasioso sem qualquer motivo senão "sobredramatizar" (para não dizer "novelizar"). É por isso que, se uma chuva repentina causa surpresas, isso é passageiro, mas se o mesmo efeito se repete nas luzes de um parque ou em tantos outros momentos, podemos duvidar de nossa própria capacidade de entender as entrelinhas ou o filme duvida que aqueles acontecimentos não tenham força própria.
+Sem muitos detalhes sobre quem é aquele homem ou do que vive, a evolução de um relacionamento é ilustrado com cada visita que ele faz, começando super-bem com uma ex-amante que possui uma ninfeta, ambas atraentes e convidativas (de uma maneira exagerada, pois é a ilusão ainda fazendo valer). No entanto, conforme vamos avançando começamos a entender coisas sobre o passado de Don que seria melhor se fosse deixado de lado. A jornada, no entanto, nunca perde o interesse, apresentando transições inteligentes que sempre estão em harmonia com o estado de espírito de nosso incansável protagonista.
 
-Mesmo assim, é admirável constatar que, baseado em fatos, o hábil roteiro derivado de um romance consegue entregar uma história se não verossímil, degustável através da própria visão literária de sua protagonista. Isso por si só o equipara a thrillers psicológicos como Swimming Pool, uma ficção que faz rima inversa ao realismo da obra de Barreto.
+Ao final, um giro de 360 graus nos revela o homem completo e ao mesmo tempo faltando partes. As ideias não encaixam perfeitamente, como a vida muitas vezes é.
+
+[Sobre Café e Cigarros]: {{< relref "sobre-cafe-e-cigarros" >}}
 

@@ -1,24 +1,23 @@
 ---
 categories:
-- writting
-date: '2019-06-23'
-link: https://www.imdb.com/title/tt0104036
-tags:
-- movies
-title: Traídos pelo Desejo
+- blogging
+date: '2019-12-21'
+title: Tradicional Mensagem de Feliz Natal e Bom 2020 Versão Cinema
 ---
 
-Vou ser sincero com você, caro leitor. E explícito. Se aguente, são minhas memórias. Quando eu assisti esse filme pela Videoteca da Folha, uma coleção de Fitas VHS lançada aos domingos, eu me lembro claramente de um pintão surgindo na pequena tela de tubo. Não porque foi traumático, nem porque foi excitante, mas principalmente porque este é o momento em que para o personagem de Stephen Rea o futuro perfeito que ele havia imaginado simplesmente virou de cabeça pra baixo.
+Tudo começou há mais ou menos... não me lembro. O que eu sei é que meu grande amigo Pikachu me colocou em um aviso anual sobre compilar uma mensagem de final de ano com referências a filmes que foram lançados esse ano no cinema (ou algum filme mais antigo de vez em quando, se surgir a oportunidade). Esta é a primeira vez que transformo essa mensagem em um post.
 
-Mas não se preocupe: este é um filme que fala sobre muitas outras coisas, não apenas do pintão. Há o conflito entre o grupo terrorista IRA e o exército britânico. Há uma insuspeita amizade entre um sequestrador e seu refém. Há um amor impossível de uma forma que transcende todos os clichês de Hollywood.
+O ano de 2019, imitando 2016, foi escrito e dirigido pelo Tarantino, onde até um Era Uma Vez... em Hollywood consegue virar umA Maldição da Chorona. Com ou sem um Parasita atazanando a vida.
 
-Esta é uma direção complicada de se fazer, e apenas o próprio roteirista, Neil Jordan (Entrevista com Vampiro) seria capaz de entender sua própria trama ao nível de detalhe de uma mera troca de olhares. É preciso que nossa localização geográfica não seja tão boa, mas ao mesmo tempo saibamos onde estamos, com quem estamos e para onde vamos. Ele mistura o gênero de espionagem e romance, ambos apresentados de uma maneira atrapalhada, para que consigamos encontrar o humor humano não em piadas fáceis de serem digeridas, mas em uma fina ironia onde a ficção vai além da vida real, embora eu quisesse acreditar que tudo isso aconteceu de verdade. E o filme nos entrega essa percepção justamente unindo esses temas.
+Houve os momentos bons, como testemunharmos finalmente o Ultimato dos Vingadores, apesar que todas essas aventuras em fundo verde serviram para nos cansar de tantos efeitos e perceber que toda essa correria das Marveletes foi uma verdadeira Odisseia dos Tontos. E assim como tontos, cambaleando para fora da sala do cinema depois de ter visto uma atrocidade como Os Parças 2, perdemos muito no meio de discussões que não levam a nada. Esquecemos até o idioma, e trocando português por espanhol perdemos até "El Camino".
 
-Veja bem: eu realmente não acredito que uma figura como Fergus possa existir, mas ainda assim Stephen Rea o materializa de tal maneira que é como se ele simplesmente existisse, em carne e osso, pronto para protagonizar uma das histórias mais absurdas que a Escócia já ouviu falar. Ele é um agente do IRA de um grupo que parece formado apenas por amadores, e a frase dita pelo personagem de Forest Whitaker, o soldado Jody, sobre esse povo reforça nosso inconsciente. Mas Fergus, além de amador, é uma alma generosa. Ele cuida do seu refém como se estivesse estreitando laços de amizade. Ele retira o pinto da calça dele para que ele possa mijar. Eu disse pinto? Bom, caro leitor, você já concordou no parágrafo inicial que deixaria eu ser explícito. Tire as crianças da frente da tela e deixe seus pudores para depois.
+Mas nessa nossa Vida Invisível em que entramos naquela salinha escura e nos descobrimos novamente atingimos nosso próprio Bacurau, bem No Coração do Mundo. E quando isso acontece fica difícil dizer que o cinema nacional vai mal, quando entendemos que O Paraíso Deve Ser Aqui. Não há melhor Retrato do Amor.
 
-Enfim, todo esse carinho demonstrado por Fergus é o pano de fundo mais importante de toda a trama, pois através disso percebemos não apenas que este é um homem com princípios humanitários necessários para que o desenvolvimento do segundo ato não pareça forçado. Além disso, é uma dica para entendermos que o bonachão Jody está manipulando o rapaz, da forma com que pode, e também com uma entrega de personagem que apenas atores do calibre de Whitaker. Este pode não ser um filme com um elenco de primeira, mas com certeza é um elenco escolhido a dedo, para cada cena.
+Eu sei que vivemos em tempos difíceis, onde até uma criaturinha singela como um Pikachu pode virar detetive de um filme noir. Tempos sombrios, onde temos nossa Privacidade Hackeada e parece que nada podemos fazer. Às vezes dá vontade de largar o emprego e viver como um Irlandês, fazendo servicinhos para a máfia, se sentindo O Rei Leão em um trabalho fora da Legalidade e Fora de Série, que satisfaz nossos desejos mais violentos. É como sobreviver Um Dia de Chuva em Nova York e dar Adeus À Noite, em uma passagem de Dor e Glória.
 
-E nisso entra a figura de Jaye Davidson como Dil, a cabeleireira e performer do The Metro, um bar de esquina que se tornou icônico para o Cinema graças a essa construção de personagens inusitados em uma história que permeia o realismo através de suas falhas humanas. Dil não poderia ser menos intensa desde o momento que seus olhos encontram o de Fergus, e logo você percebe que nas mãos certas um material desses vira um filme inesquecível para todo o tempo.
+Mas muita calma nessa hora. Não se deve confundir arte e vida real. Toda Arte é Perigosa. Não adianta sermos infantis e gritar Shazam!, esperando sair pelos ares, como um Rocketman, virar um Homem Aranha da vida (ainda que Longe de Casa) ou uma espécie de Anjo de Combate. Não podemos ceder ao nosso sentimento mais Maligno; até porque todos Nós temos em alguma parte de casa um teto de Vidro, e flertar com a vida de um anti-herói pode fazer de nós no mundo real um trágico Brinquedo Assassino, mesmo que esperássemos um Parque dos Sonhos.
 
-Infelizmente não há o pintão nessa edição de DVD; apenas um espaço escuro devidamente censurado para os anos 2000. Mas eu não sou mais um pré-adolescente, então foi fácil para mim detectar desde o começo o que está acontecendo por debaixo dos panos. E sua ausência, importante quando jovem, agora se recompensa pelas diferentes nuances de seus personagens e a devida incompreensão da natureza humana que este filme proporciona. O lindo de tudo isso é que este é um filme que está longe de ser desvendado por completo, não importando quantas vezes você o assista.
+Por isso, esqueça as trevas, não seja o dono ou A Dona do Mal. Olhe para O Farol no fim do oceano, estreando dia 2 do ano que vem, 2020. É sinal de paz e Ascenção, nossa ou de Skywalker. Iremos Rumo às Estrelas, esquecermos nossa Mente Perversa e torcer por coisas boas, como uma competição inocente entre Ford vs Ferrari, e não o calor inconsequente de um Retrato de Uma Jovem em Chamas, nem o frio congelante de um Frozen 2. Vamos pelo equilíbrio, reconstruir um novo mundo.
+
+Afinal, Deus é Mulher e Seu Nome é Petúnia. Espero que este estreie também em 2020 =)
 

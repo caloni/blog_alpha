@@ -1,16 +1,19 @@
 ---
 categories:
 - writting
-date: '2019-12-02'
-link: https://www.imdb.com/title/tt0368913
+date: '2012-11-01'
+link: https://www.imdb.com/title/tt2208192
 tags:
+- mostra
 - movies
-title: Osama
+title: Os Visitantes
 ---
 
-Escrito e dirigido pelo diretor afegão estreante em longas de ficção Siddiq Barmak, "Osama" se aproveita do timing trágico pós-atentado das Torres Gêmeas em Nova York, o ataque orquestrado cujo mandante foi o jihadista Osama Bin Laden, inimigo público número 1 dos EUA e do mundo dito civilizado. Esse timing nada tem a ver com o que se vê neste filme, que ficionaliza uma realidade muito próxima do próprio elenco que participa do filme.
+Os Visitantes é o primeiro longa do alemão Contudo Knoche e talvez por disso mesmo com o tema dramático possui uma leveza e ingenuidade que o torna particularmente cômico. Iniciando com a visita inesperada do pai Jacob (Uwe Kockisch) aos seus três filhos Arnolt, Sonni e Karla (Jakob Diehl, Anne Müller e Anjorka Strechel), o atípico convívio com eles é usado para desvendar mais sobre aquelas pessoas do que sobre a visita em si. (Note como apenas os primeiros nomes são usados, levando automaticamente nossa relação com os personagens a um nível familiar.)
 
-Barmak pesquisou sobre o povo muçulmano tomado pelo medo dos grupos extremistas talibãs para compor o cenário onde se passa essa história de uma garota que precisa fingir ser menino para conseguir trabalhar e assim ajudar sua família de apenas mulheres a sobreviver. O filme aproveita a história para ilustrar diversos aspectos da doutrina, como a submissão completa da mulher, além de demonstrar o resultado catastrófico em uma sociedade como essa, onde medo e miséria convivem entre diferentes gerações.
+Já ganhando a atenção do público, as coisas começam a ficar mais interessante ainda ao descobrirmos que existem na verdade dois acontecimentos a serem discutidos: um trazido pelo pai e outro (Andreas Leupold, como Hans) pela mãe, Hanna (Corinna Kirchhoff). A maneira como ambos se relacionam e como isso revela mais sobre os filhos do que sobre os pais é o que move a história através de diálogos sutis cujo pano de fundo sempre será a estrutura patriarcal clássica na incompatível vida contemporânea e o que ela formou como visão de mundo dos filhos.
 
-Seus atores são retirados diretamente dessa realidade, e nela voltam através de um diretor totalmente influenciado pela escola soviética, que influenciou o renascimento do Cinema por lá após a invasão russa. Dessa forma, há pouco enquadramento e muita montagem. O que vemos está sendo descrito de maneira dramática e exagerada porque seu idealizador respirou a teoria do autor de O Encouraçado Potemkin durante sua formação. O resultado é um filme tenso e necessário, embora exagerado para os dias de hoje, mas é seu exagero que nos informa o imediatismo e a urgência em que a história se passa.
+Usando um ritmo sem pressa, econômico e competente em esboçar visualmente o seu objetivo, a reaproximação daquela família que há tempos não tinha uma conversa como essa irá, como nos filmes do gênero, abrir algumas feridas e paulatinamente fechá-las. O passado de ausências que acabou por moldar o caráter desses jovens é revisitado, e tudo fica mais empolgante com a troca de farpas.
+
+Nunca desinteressante em seu desenrolar um tanto óbvio, mas que com seu timing perfeito e o desempenho competente de todo o elenco o torna, Os Visitantes conclui seus conflitos com uma visão encantadoramente otimista caso seja essa também sua impressão. Contudo, o filme prefere não se intrometer mais ainda na vida daquela família, o que é admirável se considerarmos que já a tomamos como pessoas de carne e osso durante todo esse tempo.
 

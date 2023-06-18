@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2018-12-07'
-link: https://www.imdb.com/title/tt0117008
+date: '2020-10-18'
+link: https://www.imdb.com/title/tt8387918
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Matilda
+title: Mate-o e Deixe Esta Cidade
 ---
 
-Matilda passa na regra dos 15 anos. Se trata de um filme infantil, com premissas infantis, enxergadas do ponto de vista de uma criança. Mas, perdoem os maniqueísmos, é uma louvável lição sobre como quando as coisas certas acontecem nos ambiente errados.
+Que viagem é este Mate-o e Deixe Esta Cidade. Ótima música pelo compositor e guitarrista polonês Tadeusz Nalepa, que esteve ativo na cena rock/blues nos anos 70 com a banda Breakout. É uma música que vai na alma e que tem tudo a ver com esta vigorosa, conceitual, mórbida animação.
 
-Em primeiro lugar a história exalta a inteligência, livre espírito e iniciativa de Matilda, que no sorriso peralta e ao mesmo tempo honesto de Mara Wilson vira uma base moral para toda a história, recheada de adultos que, alheios à vida virtuosa e engrandecedora, simplesmente não entendem. Pior: tentam a todo momento esmagar a individualidade dos pequeninos no filme.
+É um percurso sobre vida e morte e o relacionamentos entre humanos concentrados nas memórias um pouco nostálgicas, um pouco deprimentes, de seu protagonista. A existência como um todo, com uma visão peculiar, mas acurada, sobre o que "foi viver". Diálogos cortados no cotidiano colocam em evidência a pequenez da vida dos humanos, irrelevância da morte e o sofrimento dos outros animais posta na perspectiva que melhor entendemos: nos colocando em seu lugar.
 
-O roteiro de Nicholas Kazan e Robin Swicord abraça completamente o ponto de vista infantil e cria uma fábula bem-intencionada. Torcemos obviamente pelo sucesso de Matilda, pois ela é o bem absoluto no filme. Ela e sua adorável professora. Mas não queremos o mal de seus pais ou da implacável diretora da escola (nas mãos da possuída Pam Ferris). Por quê? Oras, eles simplesmente não entendem. Vivem suas vidas auto-centradas de adultos, em seu mundinho minúsculo e mesquinho. Isso revela grande parte da humanidade hoje em dia. Matilda é a heroína da história porque ela se recusa a participar do circo animalesco que os humanos fazem com suas vidas.
+O amor é cantado como a única coisa que torna as coisas melhores nesta vida suburbana que é mostrada no filme, triste e que envelhece as pessoas. Os seres humanos deste filme são retratados como decadentes, e até as crianças estão amaldiçoadas pela sociedade onde nasceram. Elas brincam apenas quando os adultos não estão olhando ou dando uma bronca.
 
-Este é um filme colorido, com magia, mas acima de tudo, com coração. Ele não se entrega à dura realidade onde mágica não existe, mas tampouco nos diz que isso não é possível e que é apenas uma fábula. É uma metáfora do poder que nosso cérebro possui quando ganha conexões, muitas conexões, sobre o infinito mundo lá fora. A frase mais linda do filme é quando o narrador afirma que Matilda, tendo lido grandes livros de aventuras de diferentes e consagrados autores, descobre que não está sozinha neste mundo.
+A animação é absurda de boa. Criada pela equipe de Mariusz Wilczynski e por ele próprio, que ainda assina roteiro, direção e arte, ela mistura diferentes artes através de luzes, sombras e traços em 2D com paisagens 3D; brincando com perspectiva, alucinações que mesclam a animação e cenário, junto da troca de papéis entre animais e humanos, é provavelmente um dos filmes desta Mostra de Cinema de São Paulo que abrirá mentes.
 
-Os efeitos estão passados, mas a direção de arte não. E a própria direção de Danny DeVito, que participa como o pai de Matilda e vendedor canastrão de carros usados, usa com perfeição os enquadramentos grandiosos dos cenários que são usados para ilustrar este livro infantil em forma de filme. Tudo funciona no universo de Matilda, exceto talvez a tensão, que é aliviada por muitas palmadas nas costas dos oprimidos.
-
-De qualquer forma, se você está com seu espírito um pouco desanimado, pensando talvez que não valha a pena o auto-crescimento, se veja com novos olhos, os olhos mais mágicos que existem em nossa humanidade: os que têm a visão de uma criança após abrir seu primeiro livro. E sua mente, que se expande e que nunca mais se contrai.
+Mate-o e Deixe Esta Cidade merece constar na lista de filmes esse ano. É mais uma janela que se abre sobre diferentes percepções do mundo. E de brinde contém lindíssimas, profundas, músicas de Tadeusz Nalepa, que se você ainda não conhecia, como eu, agora ganha esta chance.
 

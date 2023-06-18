@@ -1,44 +1,24 @@
 ---
 categories: []
-date: '2008-01-02'
-title: Como ser um melhor desenvolvedor em 2008
+date: '2015-11-18'
+tags: null
+title: Como ser um hacker
 ---
 
-Aproveitando que está se aproximando meu prazo final para minhas resoluções de seis meses atrás, e o [DQ] já fez o checklist dele, vou dar uma espiada na minha lista de desejos atual e fazer uma nova lista para 2008.
+Talvez as pessoas estejam com preguiça de ler. Talvez estejam apenas inundadas por tanta informação que temos hoje. Talvez seja apenas falta de foco pelas interrupções consecutivas de novos "espertofones" ou nossas redes sociais viciantes, pois oferecem muito a troco de nada.
 
-#### 1. Fazer um curso de memorização
+O fato é: se você precisa perguntar para alguém (no caso, eu) o que é preciso fazer para se tornar um hacker, algo como um guia passo-a-passo, eu vou encarar o desafio numa boa, pensar por alguns dias, semanas e talvez meses, e chegar à conclusão que a pessoa que precisa que alguém lhe ensine está percorrendo o caminho errado. Ela nunca vai aprender o suficiente para se tornar algo que possa ser chamado de hacker.
 
-Comecei, fiz vários exercícios, mas ainda não acabei todas as aulas. Descobri que a memória pode ser muito mais bem treinada do que realmente é, e existem técnicas bem pensadas que fazem isso sem muito mais esforço do que apenas tempo despendido. De fato todos nós já temos uma memória incrível, só precisamos treiná-la adequadamente.
+E o que é hacker, que mal lhe pergunte? Há uma definição curta e simplista, há a definição do botão (que eu nunca mais vou me esquecer) e há o Jargon. O que é o Jargon? É um guia dos primórdios da web que contém tudo que você precisa saber sobre o jargão hacker. Duvida? Leia ele primeiro.
 
-Como comecei e ainda não parei considero esta tarefa realizada (começar e ganhar ritmo é o mais difícil) e estendido para 2008 inteiro.
+Falar em jargão me faz lembrar do nostálgico e muito curioso (e que já falei em outros artigos) Barata Elétrica, o fanzine jurássico de Derneval Ribeiro que consistia em copy&paste de partes interessantes da rede, em inglês e português, e um pouco da cultura hacker na América do Sul (sobretudo Buenos Aires) e sobre a vivência de seu editor no ambiente uspiano. Derneval pode até não ser um "hacker de verdade" (só pra citar a falácia do escocês), mas ler o Barata Elétrica me deu não conhecimentos técnicos, mas muito sobre a nossa era da informação, como informação é vital hoje em dia, além de outros conceitos interessantes que nos fazem ficar atentos para privacidade, governos, política, economia, filosofia, etc. Acho que foi lá a primeira vez que tive contato com 1984, PGP, Mitnick. Enfim, curiosidade, piadas e um pouco do clima social que a web tinha (para mais disso, nada como saudoso mIRC...).
 
-#### 2. Fazer um curso de leitura dinâmica
+Para quem pretende se tornar um hacker, já deve ficar claro que não existe receita de bolo, nem lista de conhecimentos desejáveis. Isso não e uma vaga para preenchimento de currículo. Isso é a vida real. Se existe uma receita, ela é vaga e de auto-ajuda:
 
-Comecei, fiz quase todos os exercícios e terminei. De fato melhorou em muito minha capacidade de concentração na hora de ler um texto rápido, embora eu ainda fique com muito sono quando faço isso. O importante agora é nunca deixar de treinar, e melhorar cada vez mais o poder dos movimentos oculares.
+ 1. Primeiro você aprende a gostar de viver de acordo com a definição abaixo.
+ 2. Viver é a busca incessante de conhecimento em todas as suas formas, uma autodescoberta e a busca da felicidade pessoal e instransferível, subjetiva e inalienável.
+ 3. Com base nisso, comece a aprender profundamente sobre tudo o que deseja, em todas as áreas, sobre qualquer assunto, pessoa, lugar.
+ 4. Repita o passo anterior até que a inescapável morte aconteça; o resto é mistério.
 
-#### 3. Aprender o meu ritmo
-
-Não existe milagre, mas existem coisas que podemos fazer para ajudá-lo a acontecer. Foi isso que aprendi durante minhas inúmeras tentativas de dominar o tempo e o espaço no desenvolvimento de software. Aprendi muita coisa, inclusive que escritórios não foram criados para serem lugares produtivos, e quase sempre é necessário se defender dos riscos que a internet faz para a saúde.
-
-Enfim, essa tarefa também terminou. Agora é só manutenção constante e disciplinada.
-
-Por fim, considero se achar melhor depois de ter melhorado um ou dois itens da vida profissional uma "escrutinisse", tão inútil quanto achar-se já um desenvolvedor muito bom. Porque a qualquer hora podemos cometer novamente aquelas besteiras que fazíamos há cinco anos, e a qualquer hora podemos ter idéias brilhantes. O importante, na minha opinião, é aprender exatamente por que erramos e por que acertamos. Aprender exatamente, e lembrar-se disso, pode ser um enorme catalisador de anos de depuração aleatória.
-
-> "Cada problema que eu resolvo se torna uma regra que serve mais tarde para resolver outros problemas." - Rene Descartes
-
-#### 4. Lista inusitada de tarefas
-
-Sem estar na lista previamente concebida comecei a fazer outras coisas de maneira mais eficiente, relacionado ao trabalho ou não:
-
- - Aprender o leiaute do teclado Dvorak. Treino todo dia cinco minutos há três meses a digitação usando esse leiaute, porque é mais simples, mais rápido e dói menos os dedos.
-
- - Anotar todas as coisas importantes. Seja uma idéia nova, uma idéia sobre uma idéia, ou até mesmo melhoramentos em algum software que dou manutenção, é importante manter tudo anotado, porque sabe-se lá quando isso vai ser usado. Mas, quando for, quem vai se lembrar?
-
- - Bloguear constantemente. Apesar dos sacrifícios que isso às vezes causa, é edificante nunca "deixar a bola cair". Minha regra é sempre publicar um artigo dia sim, dia não durante a semana. Em uma semana começo na segunda, em outra na terça, e assim sucessivamente. Tem funcionado desde que reiniciei o blogue há seis meses, e espero que continue assim.
-
- - Usar novo controle de versão em casa. Há um mês mais ou menos conheci o Mercurial, que é um sistema de controle de versão muito leve e não-centralizado, duas coisas que fazem uns sininhos soarem em minha cabeça. Ele é baseado conjunto de modificações e merge, duas coisas a que não estou acostumado e me forcei a aprender.
-
-Não é muito difícil definir essa lista, pois ela na verdade são as mesmas duas listas que citei anteriormente. Comecei a fazer essas coisas seis meses atrás. Para um fumante de fato parar, uns cinco anos de abstinência é um bom indicador. Acredito que, para um hábito se enraizar, um ano e meio pode ser de bom tamanho.
-
-[DQ]: http://dqsoft.blogspot.com/search?q=resolu%C3%A7%C3%B5es+de+ano+novo
+Parece meio poético e filosófico, mas não é. Se eu te disser que para ser hacker precisa aprende a crackear programas no Windows, fuçar no WinDbg e esmiuçar a API Win32, disassemblar códigos em binário com o IDA e usar no percurso todas as ferramentas, sistemas operacionais, linguagens de programação e conhecimentos periférios necessários, vai ser apenas uma descrição pessoal que não te levará à satisfação que talvez você deseja nessa jornada. Se sua única satisfação será poder dizer que é um hacker, sinto muito, isso é inútil. Você não está procurando viver por si mesmo, mas se auto-promover sem conhecimento de causa do que realmente a palavra significa. Esqueça o assunto e vá ler um livro. Ou melhor dizendo, vá navegar em sua rede social favorita...
 

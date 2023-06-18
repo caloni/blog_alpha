@@ -4,7 +4,7 @@ categories:
 date: '2017-05-09'
 tags:
 - food
-title: El Transito Pietro Marini Roble Cabernet Sauvignon-Syrah
+title: El Transito Pedro Moises
 ---
 
 Não me lembro como foi a degustação na bodega (a primeira de Cafayate).

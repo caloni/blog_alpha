@@ -1,14 +1,12 @@
 ---
 categories:
 - writting
-date: '2021-05-04'
-link: https://www.imdb.com/title/tt0421357
+date: '2018-07-01'
+link: https://www.imdb.com/title/tt3641246
 tags:
-- animes
-title: Fullmetal Alchemist (Hagane no renkinjutsushi)
+- series
+title: Fugindo do Continente
 ---
 
-Este anime de luta usa a alquimia como o pano de fundo. A história vai ser revelada aos poucos, mas sabemos que esses dois irmãos quando criança violaram a lei mais sagrada ao tentar realizar uma transmutação humana. E pagaram caro. Agora são dois aventureiros em busca do que todo alquimista busca: a pedra filosofal. Essa foi fácil de adivinhar, não?
-
-O formato da história segue o velho padrão de lutinhas e poderes. Os personagens são galhofas, apenas servem à história dos irmãos quando precisa e a aventura pode não ter fim. Um anime que fez sucesso em seu gênero, bem desenhado, mas melhor editado. A câmera revela alguns movimentos interessantes. Porém, o piloto não faz jus à sua fama. Podem ser as revelações que irão se desdobrar.
+Fugindo do Continente é uma série de tv de e para britânicos. Ela aborda fugir da sua ilha para morar em algum dos países da Europa, seja Itália, Portugal, Espanha ou França. Dentre outros. É praticamente um guia de consumo e de turismo. Ele é prático, formatado em quatro empreendimentos apresentados pela apresentadora em um nível de corretora de imóveis, e se trata de uma "aventura" totalmente sob controle do conforto do seu sofá.
 

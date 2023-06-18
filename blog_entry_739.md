@@ -1,22 +1,16 @@
 ---
 categories:
 - writting
-date: '2019-10-22'
-link: https://www.imdb.com/title/tt11007198
+date: '2014-01-23'
+link: https://www.imdb.com/title/tt0086994
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Boy Meets Gun
+title: Boy Meets Girl
 ---
 
-Fazendo um trocadilho com o filme icônico de Leos Carax (Boy Meets Girl), Boy Meets Gun é uma mistura de drama, comédia e investigação policial que consegue entreter com o mundinho criado pelo roteirista Willem Bosch, que também é o escritor do roteiro do cativante Afterlife, também em exibição nesta Mostra.
+São filmes assim que me revelam como um cinéfilo ainda burro. Mesmo assim, tenho a ousadia de gostar de alguns deles, mesmo sem saber muito bem por quê.
 
-A parte mais inusitada e divertida do longa dirigido por Joost van Hezik é que a narradora, apesar de não ser uma personagem no sentido de realizar alguma ação propositada, é uma pistola Desert Eagle (se você já jogou Counter Strike sabe que arma que é; para quem não jogou imagine uma pistola de mão que faz metade do estrago de um rifle). Bonita e estilosa, ela conta a sua história de como foi parar nas mãos de um professor de filosofia, em uma sequência nada sutil, mas que serve para nos jogar na ação facilmente.
+Dirigido por Leos Carax na década de 80, do recentemente aclamado Holy Motors, em Boy Meets Girl o tema são as desilusões e os desencontros amorosos. Tudo parece dar errado na vida desses dois jovens, ou, algo muito diferente, nada dá certo. O filme nos mostra suas vidas sem se preocupar em estabelecer ligações ou interpretações. É um filme aberto, desses que espectadores-pipoca sempre odeiam. Até o final, se você não trabalhar com expectativas honestas sobre o que acontece, pode ser ambíguo. Mas pense um pouco: há um realismo sendo trabalhado nesse filme, ainda que onírico. Parte desse trabalho exige que compreendamos como a vida real é tão mais bagunçada, sem sentido e sem roteiro. O prólogo inicial deixa bem claro isso: nascer, crescer, viver um pouco e, finalmente, fim.
 
-Toda a trama é desenvolvida considerando que o detentor de uma Desert Eagle irá aumentar seu nível de "macheza" exponencialmente, e esse professor de meia-idade já se perguntando se existe de verdade acaba virando o jogo a partir do momento em que ele guarda essa arma na gaveta de sua mesa, não sem antes cuidá-la com carinho (a narradora agradece).
-
-Minimamente interessante, essa premissa vai aparentemente se tornando insuficiente, pois Willem Bosch começa a entregar um segundo filme de investigação policial junto de um drama de um jovem com a face descaracterizada que deseja fazer uma operação e aumentar sua auto-estima, já abalada de ter que conviver com seu sinistro pai, um "colecionador" de armas com um olhar que você não gostaria de cruzar na rua (e ele faz uma referência não muito inteligente com o vilão de Javier Bardem, Anton Chigurh, de Onde os Fracos Não Têm Vez, usando para isso o cabelo estranho como artefato).
-
-A história vai piorando conforme novos elementos vão sendo acrescentados ou expandidos, como uma aluna universitária que vira o interesse do professor em sua sala ou a incrível coincidência da investigadora de polícia conhecer um desses personagens. De certa forma, Boy Meets Gun é cercado de boas ideias, algumas são aproveitadas, outras não, mas a melhor delas nunca é usada: economia nos conceitos. Este filme ficaria infinitamente melhor se dividido em dois pelo menos.
+Mesmo me rendendo aos significados e dando vazão à estética, não dá para negar que a fotografia em P&B do filme é cativante pela beleza que evoca de momentos em que a misce-en-scene é um quadro em movimento (e não são poucos), ou poderíamos dizer quase sem movimento. Gosto particularmente dos momentos finais, da sombra de homem no garoto quando ele chega em seu quarto e na ligação a partir de uma cabine telefônica com o vidro quebrado. Gosto mais ainda da visão da bela Mireille Perrier em destaque com um consistente Denis Lavant ao fundo, desfocado.
 

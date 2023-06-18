@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2015-07-02'
+date: '2014-12-20'
 tags:
 - food
-title: Gourmet da Bonnie
+title: Gottweiger Berg Zweigelt 2011
 ---
 
-Razoável; tem suas bichisses, mas nada que incomode. É intenso, bom amargor, um pouco adocidado. (desconfio que seja o mesmo que comprei)
+Alcoólico, já 2 meses aberto na geladeira, meio vinagroso.
 

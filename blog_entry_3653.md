@@ -1,22 +1,16 @@
 ---
 categories:
 - writting
-date: '2021-03-27'
-link: https://www.imdb.com/title/tt9054364
+date: '2010-12-10'
+link: https://www.imdb.com/title/tt0964185
 tags:
-- animes
-title: That Time I Got Reincarnated as a Slime
+- movies
+title: Tetro
 ---
 
-Depois da [programadora que encheu a cara e convidou um dragão para morar com ela] este é um anime que começa com um executivo que é assassinado em plena luz do dia e, como diz o título, ele reencarna como um slime. E tudo como desculpa para uma aventura estilo Zelda.
+O aspecto teatral do longa já é exibido em sua introdução, numa espécie de pôster suspenso, além do próprio P&B, evocando seu tom artístico e expressivo ao contar a história da família Tetrocini. A introdução é mais do que efetiva, pois em parcas quatro cenas já sabemos tudo que precisamos saber para aos poucos ir desvendando a relação passada da família do ponto de vista dos irmãos.
 
-Mas não é bem um slime, ele tem um sistema operacional que parece tornar essa realidade uma simulação, que vai acumulando habilidades como um jogo de RPG.
+Com enquadramentos efetivos, em que não é necessário fazer o corte excessivo de diálogos. O P&B é límpido, dando a impressão de vazio, ao mesmo tempo de imensidão. Os acidentes são marca registrada da família, em que uma das mães morre em um acidente de carro e a outra fica em coma. Quando Benni reencontra o irmão, ele está com a perna engessada, e o próprio Benni ainda irá sofrer um acidente de carro.
 
-O começo do anime parece original, mas acaba sendo um chamariz para uma história medieval com raças, magia, poderes e tudo isso que o pessoal de RPG gosta.
-
-Mas as regras são muito confusas, as habilidades não fazem sentido. O slimezinho fica contente de conseguir ver a luz do sol de novo, mas ele nem sente seu calor. Ou sente? São habilidades demais que vão se somando e convenientemente vão aparecer quando a história precisar.
-
-Seria bem mais interessante acompanhar um simples slime em uma caverna escura. Para sempre.
-
-[programadora que encheu a cara e convidou um dragão para morar com ela]: {{< relref "miss-kobayashi-s-dragon-maid" >}}
+O último trabalho de Francis Ford Coppola (O Poderoso Chefão) conclui sempre com uma música leve e contemplativa, e é mais uma vez seu tom teatral que transforma Tetro em uma conquista pelos diálogos e pelo artístico; nunca pelo seu universo ou personagens.
 

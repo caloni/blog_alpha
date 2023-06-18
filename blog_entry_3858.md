@@ -1,29 +1,32 @@
 ---
 categories:
 - writting
-date: '2016-07-05'
-link: https://www.imdb.com/title/tt3577624
+date: '2010-12-20'
+link: https://www.imdb.com/title/tt0076085
 tags:
-- cinemaqui
 - movies
-title: Um Dia Perfeito
+title: Um Dia Muito Especial
 ---
 
-Esse é um filme que pode irritá-lo pela quantidade indiscriminada de músicas animadas (e rock pesado) floreando um drama bem-humorado e mais intenso do que na verdade é. No entanto, ignore isso e terá um ótimo filme que usa o humor para aproximar as pessoas de um drama que existe apenas em países longínquos que vivem em guerra, mas que, se olharmos mais de perto, acharemos algo estranhamente familiar nessas pessoas: elas são tão humanas quanto qualquer um de nós.
+Um drama de um relacionamento de um dia entre uma dona-de-casa e seu vizinho homossexual que mostra de diversas formas como a Itália fascista estava se transformando. O dia em questão calha com a visita de Hitler à Roma. O filme conta com Sophia Loren e Marcelo Mastroiana nos papéis principais, e é dirigido por Ecolla.
 
-O elenco é encabeçado por Benicio Del Toro, que faz Mambrú, chefe de um grupo comunitário de segurança, e que se diverte enquanto realiza mais essa ótima atuação, cheia de trejeitos que remetem tanto à sua incapacidade de lidar com a própria vida quanto à impaciência de nunca conseguir fazer algo pelas vidas que supostamente deveria ajudar.
+O filme inicia com um daqueles filmes políticos que passavam nos cinemas na época apresentando a visita de Hitler à Itália. Usando expressões que aos poucos denunciam o pensamento da sociedade da época, como a "majestosa simplicidade" com que o Fuher será recebido, ou a "doçura viril" de determinada pessoa, o prólogo em preto e branco nos dá a exata sensação do que seria viver naquela época, assistir filmes naquela época.
 
-Fora ele, temos a jovem Sophie (Mélanie Thierry), que é a novata em campo e que serve como nossos olhos para uma realidade já desgastada tanto para Mambrú quanto para seu cínico colega B (Tim Robbins), tanto que esqueceram de vez o caminho de casa. E junto deles, temos o intérprete local Damir (Fedja Stukan), e Katya (Olga Kurylenko), a ex-ficante de missões passadas de Mambrú.
+Há um corte brusco para o vermelho, uma bandeira nazista. A câmera sobe aos poucos mostrando mais bandeiras sendo hasteadas. No próximo corte temos uma câmera que entra dentro de uma das casas do condomínio, e através de uma arquitetadíssima e longa sequência somos apresentados à dona-de-casa que lá reside e vai acordando em cada cômodo a família. É como se fôssemos uma visita indiscreta a passear pela casa inteira.
 
-O roteiro adaptado pelo diretor Fernando León de Aranoa e baseado no romance de Paula Farias consegue, apesar dos diálogos iniciais capengas e nada originais, criar momentos entre praticamente todos esses personagens e mais alguns, que estão sempre interagindo para se ajudarem ou se suportarem, e mesmo que isso não fique claro em nenhum desses momentos, o conjunto da obra acaba ficando com essa sensação de um trabalho em equipe muito mais informal do que dentro de todos os protocolos que uma guerra exige.
+Aos poucos o comportamento das pessoas reflete a mesma época que vimos no vídeo inicial, como críticas pesadas à masturbação ("você vai ficar cego assim") ou o uso de estrangeirismos.
 
-Além disso, a história é econômica o suficiente para pontuar elementos que adicionam à personalidade dessas pessoas sem soar exagerado, como o costume de Mambrú de dar algo de beber aos seus amigos, como uma maneira de compartilhar algo no lugar de palavras. Note a naturalidade de Del Toro em fazer isso, o seu gesto significando quase que um cachimbo da paz, e verá um grande ator construindo seu personagem.
+O diretor gosta de navegar a câmera da forma mais eficiente possível, como na cena em que ele está no telefone e, durante a conversa, a câmera dá um giro por trás dele, denunciando ao fundo a mulher na janela do apartamento à frente, ou quanto em um diálogo na casa deste, a mulher fica à frente da câmera e ele está parado no fundo à esquerda; conforme ela se move para a direita a câmera segue e para do lado dela e de um espelho, que reflete a mesma imagem dele (talvez uma interessante rima com o fato dele ser homossexual).
 
-Da mesma forma, é curioso e engraçado -- e até certo ponto realista -- o pragmatismo de B em seguir mais o seu caderno de anotações empíricas para fugir das minas implantadas do que as centenas de páginas de um guia de conduta em guerra, compilado, de acordo com ele mesmo, por pessoas em Genebra que sequer viram uma mina na vida. Mais admirável, no entanto, é perceber que as minas terrestres são usadas o tempo todo como um grande gancho para a tensão, mas sem nunca apelar para o óbvio.
+O sobrenome da família é colocado como placa na frente na porta. Não sei se é um aspecto cultural ou, ao mesmo tempo uma influência do próprio fascismo. Uma prática semelhante é seguida na Japão, se não me engano.
 
-E se o roteiro e a história são interessantes acima da média, seus temas também não fazem feio. Girando em torno de um grupo de ajuda comunitária e tudo que gira em torno disso -- exércitos, ONU, civis espalhados no meio de todos -- Um Dia Perfeito tem como sua âncora -- quase literal -- o gigantesco corpo de um cadáver jogado em um poço. A urgência em retirá-lo antes que contamine a água e torne a vida dos habitantes mais miserável ainda é o que move a ação, muito embora o que está sendo discutido é mais as loucuras de uma guerra do que a necessidade dos personagens.
+É significativo que a hora que os dois se juntam, sobre o terraço, a câmera foque debaixo de um coberto, e eles estão contra a luz; portanto, no escuro para a câmera.
 
-E embora essa insistência em soar engraçado e divertido, o mais importante no filme reside em sua mensagem de paz. Ele não fala quem deve ser o responsável por ela, mas quem não deve. Del Toro consegue ajudar duas pessoas em um ato muito mais direto e simples, através da auto-determinação dessas pessoas. Ao contrário do que sua ex afirma, a opinião de um "de menor" não é irrelevante. Pelo menos não quando esse de menor já viveu tempo suficiente em um clima inóspito para saber o que é melhor para si mesmo. E, mais curioso, é que quando Mambrú consegue realmente ajudar alguém é o momento em que está ajudando a si mesmo, a conviver com a impotência dos dias mais longos.
+Por muitas vezes ouvimos diálogos memoráveis, bons demais para estarem na boca de pessoas comuns, mas considerando que a maioria deles são pronunciadas por Mastroiani entendemos sua cultua mais sofisticada: "Um bom homem deve ser pai, marido e soldado; eu não sou nem marido, nem pai, nem soldado", diz ele ao revelar sua homossexualidade.
 
-E tudo isso empalidece diante dos últimos segundos do longa, onde a mensagem de superação de uma dificuldade interna sem a ajuda dos que fizeram caso com isso é uma prova cabal de que não são só os inimigos que não tem a mínima ideia do que as pessoas atingidas pela guerra sofrem, mas os amigos, os que tentam ajudar, também não possuem o mínimo senso de como podem ser úteis.
+O tapa que ela dá na face dele também é dado na mesma contraluz do terraço. E acompanhamos a descida pela escada deles por uma câmera de fora, que desliza pelos andares rapidamente.
+
+Um corte preciso e orgânico; depois que ele prepara seu omelete, o vemos cortando no seu prato. Logo após esse corte o plano aumenta e vemos outro prato com outro omelete; ela está comendo ao seu lado.
+
+A câmera sempre escolhe os melhores ângulos; quando ela avança a mão para cima dele na cena de sexo, por exemplo, a mão que faz isso é a que contém a aliança. Temos câmeras mostrando ele por baixo e ela por cima, com representações significativas de ambos, mais dele, pela sua experiência heterossexual.
 

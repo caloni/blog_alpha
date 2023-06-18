@@ -1,16 +1,12 @@
 ---
 categories:
 - writting
-date: '2013-10-20'
-link: https://www.imdb.com/title/tt0109445
+date: '2020-12-06'
+link: https://www.imdb.com/title/tt0112445
 tags:
 - movies
-title: O Balconista
+title: O Balão Branco
 ---
 
-Primeiro longa do diretor Kevin Smith, O Balconista não poderia deixar de ter algo a mais dos outros filmes que o trouxesse para os holofotes. No entanto, quase 20 anos depois, ele permanece como um dos filmes esquecidos que não merece ser revisitado.
-
-Trazendo uma fotografia preto e branca sem qualquer motivo aparente, o filme gira em torno de Dante Hicks (Brian O'Halloran), que trabalha de balconista em uma pequena loja de conveniência logo do lado de uma pequena locadora de vídeos, cujo balconista é seu amigo. Dividido em diversas partes com títulos (também sem motivo aparente) somos apresentados a diferentes diálogos que retratam a vida e os pequenos detalhes de sua rotina com um ar cômico, ácido e auto-referencial. Fala-se sobre Star Wars, mulheres, drogas e o cotidiano. Acontecimentos inusitados acontecem, o que não parece mudar muito a rotina daquelas pessoas.
-
-O que é impressionante mesmo é que o filme tenha uma continuação. Dá pra acreditar?
+As caras que essa menina faz compensam qualquer momento chato do filme. Ela chora como se não houvesse amanhã, fica irritada, desesperançosa. Seu jeito de juntar as mãos, sua maneira insistente de pedir. Ela fica receosa e nós ficamos receosos por tabela. Será que alguém vai ouvi-la? Todos escutam, mas ninguém de fato ouve. Fica esse suspense. A câmera de estreia do pupilo de Kiarostami, o diretor Jafar Panahi, não perde a metrópole em volta da pequena Razieh. Todos estão atarefados para o feriado de Ano-Novo e ela só quer um peixinho dourado vistoso para a hora da virada, uma tradição na região do Irã. Em vários momentos tememos se ela conseguirá, porque a tensão é muito poderosa nesse tipo de filmagem. Na maioria do tempo vemos o rosto dela ocupando a tela ou um adulto atarefado, alheio ao seu drama. E não estamos todos alheios aos dramas dos que passam do nosso lado? Um soldado senta-se para conversar brevemente com ela. Ela aprendeu a não falar com estranhos, mas ele vem de uma cidade pequena onde todos se conhecem e não existem estranhos. E é isso o que está sendo discutido nas entrelinhas. Essa alienação da cidade grande. Ninguém confia em ninguém. Nós como espectadores enxergamos aquela pequena menina como uma vítima da cidade e seus perigos. Ela carrega uma nota graúda consigo e isso é suficiente para ela correr grande risco. Que filme tenso, cômico, imperdível. Nenhum momento é desperdiçado. No último minuto surge o garoto do começo. O que vende balões. Ele já vendeu quase todos. Só falta o branco do título do filme. Quando a menina e seu irmão finalmente conseguem resolver o impasse ele vira paisagem. É o novo estranho. E ninguém liga para estranhos em uma cidade grande.
 

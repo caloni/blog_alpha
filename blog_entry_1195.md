@@ -1,117 +1,52 @@
 ---
 categories:
 - coding
-date: '2017-06-13'
+date: 2019-03-06 21:33:15-03:00
+desc: Remote Debugger disponível em qualquer instalação do Visual Studio. Use-o para
+  depurar serviços, por exemplo.
 tags: null
-title: Debugger remoto do Visual Studio
+title: Debug Remoto no Visual Studio 2010 ou Superior
 ---
 
-Então você está quebrando a cabeça para descobrir por que seu código não faz o que deveria fazer? Então você é desses que acha que é melhor ficar imaginando com um bloquinho de papel na mão do que colocar logo a mão na massa e ver exatamente o código passando pelo processador? Talvez você mude de ideia ao ver como é ridiculamente fácil depurar código em uma máquina remota, seja uma VM ou a máquina do cliente. Neste post vou ensinar a maneira mais antiga e a mais nova que conheço de usar o depurador do Visual Studio. Vamos usar a versão 2003 e a versão 2017 RC.
+Já escrevi sobre [debug remoto no finado C++ Builder], sobre [como usar o msvcmon.exe no VS 2003 e o msvsmon.exe no 2010+]. Sobre [como depurar um serviço quando a máquina está para desligar], e até sobre [depurar através de um servidor de símbolos]. Está na hora de tornar a depuração mais simples para programadores de serviços Win32.
 
-Há muito tempo atrás eu falei sobre [o depurador remoto do C++ Builder], na época a ferramenta que eu mais utilizava para programar. Hoje disparado é o Visual Studio, já faz mais de uma década. Desde o VS2003 tem sido muito simples depurar remotamente. Tão simples que eu realmente esqueci que talvez algumas pessoas não saibam o quanto é útil essa ferramenta no dia-a-dia.
-
-É possível depurar qualquer executável, tendo seu código-fonte ou não. A diferença é que sem código você terá que olhar o assembly e se for compilado como release você pode olhar o código mas ele não fará muito sentido em alguns momentos (onde estão minhas variáveis locais?). O melhor dos mundos, é claro, é depurar um executável que você tenha os símbolos, o código e esteja compilado em **debug**. Daí o código irá falar com você da maneira mais fácil.
-
-É simples de achar essa opção no projeto em qualquer Visual Studio. Vá nas opções do projeto, Linker e irá encontrar em algum lugar sobre a geração do PDB. Não tenha medo de explorar as opções do projeto. Elas refletem como o XML do projeto muda (sim, é um XML). Se estiver querendo saber exatamente como ele muda, use um controle de fonte e vá experimentando.
-
-{{< image src="znl7K0b.png" caption="" >}}
-
-Para depurar pelo Visual Studio 2003 há um programa chamado **msvcmon.exe** que deve ser copiado e executado na máquina-alvo. Ele é um executável que pode ser copiado para qualquer lugar. Junto dele devem estar duas DLLs: a **natdbgdm.dll** e a **natdbgtlnet.dll**. Se você tiver o VS2003 instalado deve achar esses arquivos em algum lugar, ou no pior dos casos no CD de instalação. Por via das dúvidas sempre há um link amigo na internet para ajudar alguém a achar o que precisa.
-
-Copiados esses arquivos na máquina-alvo é necessário copiar também o executável. Afinal de contas, ele irá executar remotamente! O arquivo PDB, no entanto, você só precisa guardar com você. Lembre-se que toda recompilação em Debug altera de maneira significativa o PDB, então não recompile seu projeto enquanto estiver depurando. Se for fazê-lo, troque o executável na máquina-alvo.
-
-A primeira execução de toda ferramenta, seu help, irá nos mostrar o seguinte no msvcmon:
+Resumo dos comandos:
 
 ```
-C:\Tools\msvcmon-vs2003>msvcmon /?
-Microsoft (R) Visual C++ Remote Debug Monitor(x86) Version 7.10.3077
-Copyright (C) Microsoft Corporation 1987-2002. All rights reserved.
-
-Usage: msvcmon.exe [options]
-
-Options:
-
--?
-        Display options
-
--anyuser             (tcp/ip only)
-        Allow any user to debug through msvcmon
-
--maxsessions number  (tcp/ip only)
-        Change the number of concurrent debug sessions allowed
-
--nowowwarn
-        Do not warn when running under WOW64
-
--s pipe_suffix_name  (pipe only)
-        Create main pipe with suffix pipe_suffix_name appended to pipe name
-
--tcpip
-        Operate in tcp-ip mode
-
--timeout seconds     (tcp/ip only)
-        Termination timeout - reset on every connection request
-        (use -1 for no timeout)
-
--u xyz\abc           (pipe only)
-        Allow "abc" user/group in domain "xyz" to connect
-
-C:\Tools\msvcmon-vs2003>
+Busca do pacote de debug:
+c:\>dir /s /b "Remote Debugger"
+Executável:
+C:\Tools\Remote Debugger\x64\msvsmon.exe
+Argumentos:
+/noauth /anyuser /timeout 99999999 /silent
+Serviço:
+C:\Tools\nssm.exe install Msvcmon
 ```
 
-Minhas opções favoritas são **-tcpip -anyuser -timeout -1**, o que libera o acesso a qualquer usuário direto por TCP/IP e o timeout da execução é infinito. All access no limits =)
+Hoje em dia, às vésperas do Visual Studio 2019, espero que todo mundo use pelo menos o Visual Studio 2010 porque a partir dessa versão tornou-se muito fácil depurar remotamente, pois um pacote feito para isso já é instalado junto do Visual Studo. É uma pasta que basta copiar e colar na máquina-alvo. Para encontrá-la basta digitar "Remote Debugger" dentro do Program Files.
 
-```
-C:\Tools\msvcmon-vs2003>msvcmon -tcpip -anyuser -timeout -1
-Microsoft (R) Visual C++ Remote Debug Monitor(x86) Version 7.10.3077
-Copyright (C) Microsoft Corporation 1987-2002. All rights reserved.
-Maximum number of concurrent sessions:20
+{{< image src="bE6YxtY.png" caption="" >}}
 
-**TCP-IP Mode**
+Copie essa pasta para a máquina onde estará os processos que deseja depurar e escolha sua arquitetura (x86, x64, i64), pois cada uma possui uma sub-pasta com os mesmos arquivos. Executa uma vez o msvsmon.exe dentro de uma delas e ele irá configurar para você o firewall do Windows. Feito isso e configurando através da janela que aparece o resto dos parâmetros basta atachar o processo ou iniciá-lo remotamente pela configuração do seu projeto no Visual Studio.
 
-WARNING: TCP-IP mode is not a secure way to debug your application. For better
-security use msvcmon in pipe mode or the default port in the processes
-dialog to debug your application.
+{{< image src="hjjz55J.png" caption="" >}}
 
-To use the default port you will need to install the full set of remote
-debugging components. For further information see 'Remote Debug Setup' in Help.
+{{< image src="bA4u3NZ.png" caption="" >}}
 
-*WARNING- infinite timeout value set. Msvcmon will not timeout and exit*
-Waiting for Connections - everyone is allowed access
-```
+Mas este artigo não é sobre isso, é um pouco mais fundo: depurar serviços. Eles rodam na conta de sistema e muitas vezes é preciso depurá-los antes ou depois do logon na máquina. Às vezes é um teste sob as condições de sistema, o que é igualmente importante. Seja como for a maneira de fazer isso com o msvsmon.exe é transformá-lo também em um serviço. Para isso usaremos o [NSSM](https://nssm.cc/): o Non-Sucking Service Manager. Copie ele para a mesma máquina e o executa com o comando install <nome-do-serviço>. Os campos principais são os mais importantes.
 
-Agora no Visual Studio 2003 vá em Debug, Processes (ou Ctrl+Alt+P para os íntimos) e escolha a opção de Transport como TCP/IP, digite o IP... explore sua ferramenta, poxa!
+{{< image src="bU6sq33.png" caption="" >}}
 
-{{< image src="bZVsEj8.png" caption="" >}}
+Se você digitar msvsmon.exe /h ou algo do gênero irá encontrar os parâmetros que precisa:
 
-Depois de conectar remotamente por essa janela o console do msvcmon irá mostrar que usuário se logou:
+{{< image src="4uyf5t7.png" caption="" >}}
 
-```
-*WARNING- infinite timeout value set. Msvcmon will not timeout and exit*
-Waiting for Connections - everyone is allowed access
-        A Debug session has been started for user: Caloni
-```
+{{< image src="yEpsIR5.png" caption="" >}}
 
-Para configurar o início da depuração remota pelo próprio projeto você terá que ir nas opções de debug dele:
+Obs.: Eu costumo executar sem segurança alguma, pois minhas máquinas de teste são VMs locais e o perigo de vulnerabilidade não é menor do que minha própria máquina real.
 
-{{< image src="mrktmwE.png" caption="" >}}
-
-E para começar os problemas é sempre bom lembrar que projetos compilados como debug precisam das DLLs de runtime do Visual Studio que sejam debug. Mas você já sabe disso.
-
-{{< image src="7EHOpJ1.png" caption="" >}}
-
-Depois que tudo isso estiver OK é só iniciar seus processos remotamente em modo de depuração ou atachar pela primeira janela que vimos.
-
-Agora você deve estar se perguntando: "mas esse VS é muito velho! e os mais novos?"
-
-Bom, desde o VS 2010 e até o VS2017 RC essa ferramenta está disponível na pasta de instalação, mudou um pouco de cara e você pode encontrar procurando por "remote". No Caso do VS mais novo que tenho em mãos aqui, o 2017 RC, existe já uma pasta pronta para copiar e colar na máquina-alvo, em Common7, IDE, Remote Debugger. Há duas pastas disponíveis: x86 e x64. Dependendo do tipo de compilação que deseja realizar (e de qual o seu executável) copie uma das duas, rode o executável da pasta e apenas configure.
-
-{{< image src="2yUrl8z.png" caption="" >}}
-
-Você até já sabe qual o caminho do sucesso: **[All access to everyoooone]**!!! ;)
-
-{{< image src="ajBG8fM.gif" caption="" >}}
-
-[o depurador remoto do C++ Builder]: {{< relref "debug-remoto-no-c-builder" >}}
-[All access to everyoooone]: {{< relref "o-profissional" >}}
+[debug remoto no finado C++ Builder]: {{< relref "debug-remoto-no-c-builder" >}}
+[como usar o msvcmon.exe no VS 2003 e o msvsmon.exe no 2010+]: {{< relref "debugger-remoto-do-visual-studio" >}}
+[como depurar um serviço quando a máquina está para desligar]: {{< relref "depurando-ate-o-ultimo-segundo" >}}
+[depurar através de um servidor de símbolos]: {{< relref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}
 

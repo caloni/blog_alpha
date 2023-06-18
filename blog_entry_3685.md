@@ -1,16 +1,16 @@
 ---
 categories:
 - writting
-date: '2015-10-11'
-link: https://www.imdb.com/title/tt3317522
+date: '2012-04-02'
+link: https://www.imdb.com/title/tt1508304
 tags:
 - movies
-title: The Nightmare
+title: Le mystère du Snæfellsjökull
 ---
 
-Este documentário com cheiro de History Channel e seus canais auxiliares de balelas acompanha os testemunhos de várias pessoas cujo histórico de vida não sabemos quase nada, exceto que todos eles compartilham de visões durante a noite em que estão dormindo e acordados ao mesmo tempo, incapazes de se mexer. Diagnosticado atualmente como um transtorno chamado de paralisia do sono, o objetivo do diretor Rodney Ascher parece ser convencer ambos os lados: de que tudo aquilo são filmagens romantizadas dos testemunhos (pois sempre estamos a par dos efeitos visuais sendo aplicados) e que pode ser que haja algo sobrenatural acontecendo, nem que seja pelo menos os arquétipos de Jung em ação, presentes no inconsciente de toda a humanidade.
+Esse média-metragem islandês procura mostrar a história de uma região no país em que, de acordo com "relatos" e com a declaração de Júlio Verne de que ali seria o ponto de entrada para o centro da Terra, é um lugar de concentração de energias e poderia muito bem ser o ponto de contato com extraterrestres.
 
-Se passando em diferentes cidades dos EUA e Inglaterra, pulamos de um testemunho para o outro em um formato irritante que tenta capitular cada mínimo momento com um título chamativo. Com efeitos típicos de filme de terror lado B (o que costuma passar no Cinema na maioria do tempo), os sustos são manipulados com som, há montagens de cenas entre os participantes, trucagens de câmera, tudo que seja necessário para tentar dar um ar de sobrenatural ou fantástico em algo que é apenas uma série de descrições de pesadelos tentando achar um significado em comum.
+Oscilando relatos com canções da cultura, somos guiados sempre pela visão de pessoas que, de uma forma ou de outra, querem acreditar que o local é mais do que parece, escondendo seus segredos para os céticos e se abrindo para os que verdadeiramente veneram o que a região representa.
 
-Sem conclusão forte o suficiente para amarrar sua "trama", The Nightmare soa bem mais como um programa televisivo do que um documentário sério, disposto a chegar ao fundo de alguma coisa. Do jeito que é apresentado, o único objetivo é sensacionalismo e sustos baratos.
+Parecendo um pouco canalhesco em suas opiniões unilaterais, no fundo pode ser considerada uma crítica velada sobre crenças exacerbadas da humanidade, ou, por outro lado, uma espécie de homenagem às pessoas que decidiram nutrir suas vidas com os mistérios não resolvidos de sua existência.
 

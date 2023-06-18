@@ -1,22 +1,24 @@
 ---
 categories:
 - writting
-date: '2015-07-03'
-link: https://www.imdb.com/title/tt1791682
+date: '2020-11-14'
+link: https://www.imdb.com/title/tt7846844
 tags:
 - movies
-title: Enquanto Somos Jovens
+title: Enola Holmes
 ---
 
-Enquanto Somos Jovens mantém um roteiro tão bom e atuações tão alheias a isso (embora sempre interessantes) que suas falas parecem querer dizer muito mais ao espectador do que para seus próprios personagens. Ou talvez seja apenas a voz dentro da minha cabeça relembrando minha decisão atual de não ter filhos. Ainda é bom lembrar que, se a discussão central girasse em torno de ter ou não rebentos de carne-e-osso, essa seria uma das comédias que já conhecemos de Ben Stiller (com uma sempre inspirada Naomi Watts). Porém, ao mesclar o tema com filhos mais "autorais", como documentários, o filme enriquece ambos os lados, ainda que acabe envolvendo mais o segundo, já que seres humanos bebês são apenas uma desculpa para falar de algo mais importante.
+## O único teste em que ela passa é o de Bechdel
 
-O diretor (e roteirista) Noah Baumbach ficou conhecido pelo seu ótimo indie Frances Ha, uma história envolvendo atores, e nesse filme continua a permear o mundo da criação com Josh (Stiller), um cineasta de meia-idade que acredita na integridade da narrativa dos documentários, e que se perdeu por 10 anos acumulando mais de 100 horas de uma entrevista com um velho monótono em uma discussão complexa que não parece se encaixar em um filme acessível a algum tipo de público. Ele é casado com a adorável -- e igualmente preocupada com sua fase na vida -- Cornelia (Watts), e por isso ganha como brinde um sogro que é um documentarista que já pavimentou sua fama, motivo suficiente para Josh tentar trilhar o seu sem pedir ajuda (mas já sabemos disso, já que Stiller se especializou em papéis arrogantes em busca de aceitação). 
+Quando você pensa em escrever sobre um filme esquecível e irrelevante como  Enola Holmes a primeira coisa que vem à mente é rotular e julgar como um produto Netflix com todo seu checklist obrigatório, como o feminismo. Porém, isso é tão óbvio que não merece mais ser citado.
 
-O casal rediscute sua decisão de não ter filhos ao visitar um casal de amigos que acabou de serem pais, e rediscute sua rotina de casal já morna ao conhecer o jovem casal Jamie (Adam Driver) e Darby (Amanda Seyfried). Jamie filma tudo ao seu redor e parece se sentir à vontade com cada faceta de sua personalidade frenética (ele e a esposa assistem às aulas de Josh mesmo sem estar matriculados). Darby faz sorvete, o que pode virar um negócio por sugestão de Jamie (isso é importante notar). Ambos vivem em uma casa que parece homenagear uma época que Josh e Cornelia, apesar de terem vivenciado, hoje é algo distante para eles: discos de vinil, fitas VHS e livros "de verdade" (em vez de e-books); além disso, há sinais de uma vida ainda mais excitante do que imaginariam: uma mesa feita por seu próprio dono, ou experiências espirituais coletivas.
+O que merece ser refletido ao vemos um filme como Enola Holmes é como as estruturas do sistema transformam ideias com boas intenções em mecanismos de opressão.
 
-Enquanto isso, o casal mais velho é curiosamente mais prático, embora praticamente mais engessado. Utilizam o celular e tablet para tudo -- sendo o detalhe cômico a capa de celular de Josh: uma fita cassete -- , além de se vangloriarem de uma liberdade que parece puramente teórica, já que Josh e seu projeto de dez anos não parecem próximos do término, quase que berrando ao espectador que ter um filho pode ser limitante, mas qualquer projeto muito complexo acaba nos limitando a um estilo de vida por muito tempo.
+Você conhece o [Teste de Bechdel]? Foi um conceito criado para rotular filmes a partir de uma métrica simples que irei expandir conceitualmente aqui: há personagens femininas nesse filme que não são apenas instrumentos do protagonismo masculino?
 
-Com um roteiro fluido que nos leva de um canto a outro de maneira dinâmica, enquanto acelera graciosamente no tempo com cortes rápidos conduzidos por uma trilha sonora balanceada, o tom da história é mais contemplativo, mas sempre de maneira visual, o que curiosamente remete a... documentários. O que ocorre nas sombras geralmente é o mais importante, enquanto o que vemos de frente é a fachada divertida, e apesar de que muitas comédias românticas passariam ilesas apenas com as partes divertidas desse filme, Enquanto Somos Jovens quer extrair mais de seu conteúdo, flertando como se fosse um filme de Woody Allen em um universo paralelo onde não existisse o medo da morte (ops, mas ela também é citada, pontualmente).
+A popularidade dessa ideia nos faz refletir em quão poucos filmes passam nesse simples teste, e a brincadeira era como se fosse um teste. Hoje é um mecanismo de seleção de quais obras podem ou não ser produzidas.
 
-Com uma conclusão 15x mais madura do que qualquer ComRom que estrou ano passado, esse ano e os próximos cinco, Enquanto Somos Jovens representa uma mescla do divertido intelectual aliado à metalinguagem, já que aborda documentários como bebês de seus criadores. E se pensarmos mais a fundo, projetos de longo prazo quase não se diferenciam dessas criaturinhas semi-humanas: em nenhum dos dois não temos a mínima ideia onde isso vai parar.
+E o que isso tem relação com mecanismos de opressão e Enola Holmes? Tudo. Este romance adaptado poderia, assim como os milhares de romances lançados todo ano, a maioria com qualidade duvidosa, ser esquecido nas prateleiras, virtuais ou não, de uma livraria. A categoria: mulheres empoeiradas.
+
+[Teste de Bechdel]: https://pt.wikipedia.org/wiki/Teste_de_Bechdel
 

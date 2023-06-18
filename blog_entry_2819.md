@@ -1,23 +1,27 @@
 ---
 categories:
 - writting
-date: '2018-10-23'
-link: https://www.imdb.com/title/tt6892206
+date: '2018-11-13'
+link: https://www.imdb.com/title/tt5230380
 tags:
 - cinemaqui
 - movies
-title: O Segredo de Nápoles
+title: O Segredo De Davi
 ---
 
-O Segredo de Nápoles possui uma atmosfera de mistério junto de um drama pessoal que desafia nossa percepção da realidade, e seria ingênuo de nossa parte considerar verdade apenas o que pode ser provado. Afinal o que sabemos da vida está fadado a falhas e incertezas de nossa percepção.
+O Segredo de Davi é sobre um estudante de Cinema e sobre Cinema. Um dos poucos filmes de gênero que costumam sair em circuito comercial aqui no Brasil em um gênero que curiosamente até mantém seu público cativo através das décadas, mas que nunca se transformou em algo viável em terras tupiniquins. Agora nós temos uma produção brasileira de tirar o fôlego em todos os quesitos técnicos e narrativos, o que é uma ótima notícia. E apesar de flertar com os enlatados norte-americanos ele mantém seu charme local.
 
-A história começa em uma escadaria, com a câmera girando em torno de si mesma. Em seguida, vemos uma mulher descarregando uma arma em um homem, que cai pelas escadas. Atrás surge uma "bambina". Ela viu tudo. Focamos em seu olho. O que é visto pelos olhos nos é como mais sagrado.
+Se trata da história de Davi (Nicolas Prattes), um garoto tímido que estuda artes visuais e que vive sozinho no centro de São Paulo. Atraído inicialmente em observar as pessoas, filmando-as no processo, Davi é um misto entre narrador em off e protagonista subjetivo. Aos poucos vamos percebendo que quem está contando a história é ele, sob seu ponto de vista. E seu ponto de vista é distorcido, surreal, onírico. Cinematográfico e sobrenatural ao mesmo tempo, e o resultado em pouco tempo é um certo desconforto de nós observá-lo.
 
-O tempo avança e acompanhamos a cena de sexo mais completa do filme. A bambina crescida agora é Adriana (Giovanna Mezzogiorno), uma doutora legista que sai com um famoso mergulhador pela primeira vez para a melhor noite de sua vida. Na manhã seguinte ela teria a continuação do relacionamento se não o tivesse desencontrado no museu de arqueologia e reencontrado na mesa do trabalho, com os olhos arrancados.
+Isso porque Davi começa a agir em relação ao que observa, e sem querer revelar muita coisa, o que vemos não é bonito. Porém, continuamos vendo, pois o fascínio que ele tem inicialmente em observar é passado para o espectador, que precisa continuar imaginando por que Davi está fazendo tudo isso. Os motivos vão sendo revelados aos poucos, com um certo clima de desorientação. Já não sabemos o quão claro Davi está sendo conosco, mas sabemos que ele está ciente das consequências. Mas o tímido garoto não consegue evitar. Vai surgindo uma força, bem aos poucos. No começo é bem conveniente, mas depois, quando ele flerta com uma garota, ele ganha nossa cumplicidade ao mesmo tempo que torcemos para que ele mude seus objetivos. Ele não muda, e o clima vai ficando cada vez mais pesado.
 
-É um filme sobre um crime, ou na verdade sobre dois, pois o que a bambina viu ainda não está resolvido em sua cabeça. Agora o que ela viveu com o mergulhador se transforma em uma inquietante busca quando surge seu irmão gêmeo desconhecido a assombrar. O filme não está interessado em truques e reviravoltas, mas é bem capaz que o espectador médio caia em uma ou duas. O principal trata de uma imersão na cabeça dessa bambina crescida e ao mesmo tempo em nossas cabeças, através do que nós vemos.
+A atuação de Nicolas Prattes é um ponto fora da curva. Cercado de personagens convencionais, ele se destaca não apenas pela competente transformação de Prattes, mas também pelo uso combinado de câmera e cores. Note como o esguio Davi começa se vestindo com sua roupa toda branca e a cabeça cabisbaixa, e repare como a sua feição não muda tanto assim, mas suas roupas ficam escuras e seus movimentos mais agitados, apressados e até certo ponto descontrolados.
 
-Nápoles vira uma personagem onde os mistérios ocorrem, em seus corredores, ruas, museus e igrejas. Nas casas seculares, como onde ocorreu o primeiro crime. Nos jardins. A câmera do diretor Ferzan Ozpetek que começou girando pela escadaria segue em movimento leve sugerindo o aspecto de sonho. As transições de cena são suaves e a trilha sonora acalma em vez de gerar tensão. Mais uma vez: há morte, mas não é um thriller de suspense.
+A direção de arte desse filme é um primor. Apenas fico triste de não ter visto outras partes da sinistra cidade de São Paulo retratadas pelas cores cinzentas de Kaue Zilli (Todo Clichê do Amor), apesar de concordar que a decisão de estar nos cenários externos mais marginais do centro seja uma ótima ideia, pois torna a figura de Davi um tanto distante, mas nem tanto. Perigosamente onisciente das mazelas do sujo, abandonado e desatento centro da cidade.
 
-O uso da câmera também funciona na subjetividade. Vira e mexe ela está atrás de seus personagens. E ela está certa para esse filme: seus personagens importam mais que os fatos. Os fatos, esses escravos de nossa percepção, às vezes veem à tona, às vezes não. O que aconteceu com alguém que não existe mais? Assista sem pressa.
+Mas o filme não é todo escuro, e é isso que o torna digno de nota. O design de produção de Fernando Cacerez auxilia em criar na mesma cena um misto entre luz e sombra que se separam de maneira tão gritante que em certos momentos parecemos estar vendo um filme 3D. E é justamente isso que se passa na cabeça de Davi, que vivendo nas sombras entende seu objetivo através de uma foto icônica, ensolarada e feliz. Davi vai tentando recriar sentimentos mistos de felicidade e ódio dessa foto.
+
+A direção de Diego Freitas insiste em closes exagerados e enquadramentos estilizados, mas essa insistência é justificada, pois nos faz ter a mesma sensação de desconforto de seu protagonista. Esse desconforto é ressaltado pelo uso do som e suas quebras constantes entre silêncio e um barulho ensurdecedor, usado além do limite do razoável e que lembra um pouco (demais) os thrillers psicológicos americanos.
+
+Freitas também assina o roteiro competente, que teve ajuda da crítica Ana Maria Bahiana, e que embora capenga em seus minutos finais é eficiente na maioria do tempo. Note como alguns detalhes nem precisam ser ditos ao espectador, como quando descobrimos quem realmente está namorando a amiga de Davi, ou a relação entre Davi e seu misterioso pai. E o uso repetido de frases-chave ressaltam o caráter repetitivo das vozes que Davi escuta, em mais um sinal de respeito à inteligência do espectador. Além disso, a reviravolta evita muitos flashbacks para não soar pedante, se limitando ao necessário. Funciona. O Segredo de Davi, você irá notar, possui narrativa econômica do começo ao fim. Vai prender a atenção de muita gente.
 

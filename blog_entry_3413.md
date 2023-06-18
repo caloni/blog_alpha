@@ -1,20 +1,25 @@
 ---
 categories:
 - writting
-date: '2015-07-20'
-link: https://www.imdb.com/title/tt1862079
+date: '2010-12-20'
+link: https://www.imdb.com/title/tt1694539
 tags:
+- mostra
 - movies
-title: Sem Segurança Nenhuma
+title: 'Sem Medo: As Canções De Luciano Ligabue'
 ---
 
-Até que não incomoda tanto o fato de Sem Segurança Nenhuma não se esforçar para sair de sua própria mediocridade, pois é possível constatar durante todo o trajeto guiado pela tensão de sua premissa inicial (a viagem no tempo) que há algo de agradável em sua eloquência, mesmo que seus personagens sejam batidos, suas histórias sejam clichês e suas piadas, assim como o melancólico Regular Show, tenham viajado para o presente direto dos anos 80.
+Esse é um documentário que, em um tom misto de atualidade e nostalgia, conta a história dos italianos pelos olhos de sua Constituição, criada após a Segunda Guerra, e como esses ideais foram (ou não) evoluindo na passagem das gerações.
 
-Porém, se eu mencionei a tal viagem no tempo, não fique tão entusiasmado: ela é apenas o gancho da história de uma estagiária (Aubrey Plaza) tentando sair de sua vidinha ridícula, assim como seu chefe (Jake Johnson) e seu colega indiano (Karan Soni). Juntos irão para uma cidadezinha investigar o caso de um anúncio no jornal local de um maluco (Mark Duplass) que diz que está recrutando voluntários para sua viagem para o passado. Anexo ao texto ele adverte: traga sua própria arma.
+Usando um cantor pop (o Luciano Ligabue do título) como identidade para cada parte da história, ouvimos a opinião de vários representantes da sociedade, de uma adolescente a um padre. Há pessoas, inclusive, que passaram por momentos que gostariam de não se lembrar, como uma filha que teve o pai assassinado por ser testemunha de um crime político na empresa que trabalhava.
 
-Sempre se utilizando como suporte dramático da dúvida cruel se o maluco está ou não falando sério a respeito da máquina do tempo, o roteirista Derek Connolly (Jurassic World: O Mundo dos Dinossauros) nos mantém com essa dúvida por todo o trajeto, enquanto tenta desenvolver melhor seus personagens. As atuações tornam tudo uma comédia de situações morna, e Aubrey Plaza é a mais morna de todos. Repetindo suas caras e bocas da série em que ficou conhecida -- Parks and Recreation -- Plaza é incapaz de sugerir qualquer emoção, mesmo quando fala sobre a morte de sua mãe. Enquanto isso, Mark Duplass se sai muito melhor que o elenco, onde o "muito melhor" é conseguir convencer que seu Kenneth é uma pessoa amargurada pelas decisões do passado a ponto de dedicar toda sua vida a querer fugir do presente da maneira menos convencional possível.
+O uso do cantor de carne e osso como elo entre a sociedade e a política não é por acaso. Como no diálogo de início das elucubrações políticas, depois de escritos os direitos dos italianos pós-guerra, o povo ativo foi aos poucos se tornando o público de um regime que cada vez mais se distanciava dos ideais da nação que acabava de renascer.
 
-Quem também brilha são o diretor Colin Trevorrow (também de Jurassic World) e seus editores Joe Landauer e Franklin Peterson, que têm a proeza de manter interessante uma produção obviamente de baixo orçamento e baseada mais em diálogos do que ações, ainda que esses diálogos sejam ditos sempre em movimento (uma ideia eficiente). Além disso, os diferente ângulos e os cortes rápidos mantém o sentimento de urgência da situação, pois Kenneth pretende "zarpar" em breve, e a dúvida do espectador de se tudo aquilo é verdade parece escorregar por entre os dedos a todo o momento.
+Podemos dizer que, por meio desse documentário, Baarìa faz mais sentido do ponto de vista contextual, pois tanto este quanto aquele representam a necessidade que esse país tem de revisitar o que aconteceu e o que acontece no cenário político-econômico do povo italiano, e ambos o fazem de uma maneira similar: com enxurradas de ideologias e imagens entrecortadas do cotidiano.
 
-Como eu disse, Sem Segurança Nenhuma não é nenhuma obra-prima, pois está baseada em uma história "nada demais". No entanto, seus esforços em tornar tudo aquilo muito mais do que uma experiência vazia são dignos de nota. Os criadores do filme podem dormir em paz, sem desejar voltar no tempo para a sala de edição.
+E o que isso representa para nós, brasileiros? Antes que uma forma de enxergar as diferenças entre nossos povos, essa visão vem mais a calhar para que vejamos muitas coincidências e semelhanças em nossos modos, principalmente no que diz respeito à política. Há uma hora, por exemplo, que um repórter pergunta, nas vésperas da Copa do Mundo, se o evento esportivo não representaria um risco do povo esquecer dos problemas que o país enfrenta.
+
+Da mesma forma, quando vemos as pessoas aplaudindo a prisão de um conhecido mafioso enxergamos o que ocorre pros lados de cá quando um assassino que emerge da mídia é finalmente preso em consequência de seus atos e, mais importante, da pressão pública.
+
+A semelhança acaba no momento que vemos que o engajamento político do cantor, que exibe texto da Constituição de seu país enquanto canta uma das músicas no Coliseu. Há muito tempo por aqui esse costume também era uma realidade. Perto da cena em que ele usa uma filmadora para gravar os fãs naquele momento é dito que o povo não liga pra mais nada a não ser "o grande irmão" (Big Brother Itália?).
 

@@ -1,16 +1,60 @@
 ---
 categories:
-- writting
-date: '2013-01-14'
-link: https://www.imdb.com/title/tt1785670
-tags:
-- movies
-title: Viúvas
+- coding
+date: '2017-02-20'
+tags: null
+title: Visualizando QString no Visual Studio
 ---
 
-Projeto menor do diretor Marcos Carnevale (Elsa e Fred), Viúvas possui o seu núcleo na história de Elena (Graciela Borges), que perde o marido depois de um infarto. Fica conhecendo assim a sua amante, Adela (Valeria Bertuccelli), muito mais jovem e inexperiente com seus sentimentos. Unindo a vida pós-marido de ambas através de uma última promessa feita pela esposa, a sensação constante é de que ao tentarmos conhecê-las melhor existe um sentimento de repulsa por mulheres tão egoístas (cada uma à sua maneira).
+O Qt não é um framework que pode apenas ser usado no QtCreator. Através de um projeto bem configurado pelo CMake, por exemplo, é possível ter um projeto que pode ser compilado e depurado tanto nas ferramentas do Qt quanto no Visual Studio. No entanto, na hora de depurar algumas coisas são difíceis de fazer. Por exemplo: como olhar o conteúdo de uma QString?
 
-O que é uma pena, pois o curioso plot coloca a questão dos sentimentos acima dos rótulos em pauta, e apesar do roteiro do próprio diretor deixar o tema morno e frequentemente revisto, o fato é que Viúvas não consegue se desvencilhar da óbvia rivalidade entre as duas desconsoladas para criar algo além de situações controversas e cômicas.
+O Visual Studio utiliza um mecanismo que lembra os comandos bizarros que se usa no WinDbg, mexendo com registradores e tal. Através dessa combinação é possível dizer para o depurador como interpretar determinados tipos de objetos. Ele já vem obviamente pronto para std::string, CString (ATL) e deveria vir com QString, de tão famosa que é. Mas a versão do Visual Studio 2015 não vem. O jeito então é editar diretamente o arquivo onde ficam esses padrões.
 
-De qualquer forma é notável que o núcleo de personagens seja formado apenas por mulheres, sendo que possíveis pretendentes, quando aparecem, são simples adornos para o ego das duas atraentes mulheres. Recriando situações engraçadas no vai-e-vem da história, Carnevale parece não beneficiar nem a comédia nem o drama, pois não há espaço para que as situações cresçam e se tornem a que vieram.
+```
+; AutoExp.Dat - templates for automatically expanding data
+```
+
+O nome do arquivo é __autoexp.dat__ e ele fica em uma pasta no estilo Program Files, Microsoft Visual Studio, Common7, Packages, Debugger. É melhor você retirar ele dessa pasta antes de sobrescrevê-lo para não ter erro de acesso. Ao abri-lo verá que no começo há vários comentários que explicam como é o funcionamento desse padrão.
+
+```
+; type=[text]<member[,format]>...
+;
+; type		Name of the type (may be followed by <*> for template
+;			types such as the ATL types listed below).
+;
+; text		Any text.Usually the name of the member to display,
+;			or a shorthand name for the member.
+;
+; member	Name of a member to display.
+;
+; format	Watch format specifier. One of the following:
+;
+;	Letter	Description					Sample		   Display
+;	------	--------------------------	------------   -------------
+;	d,i		Signed decimal integer		0xF000F065,d   -268373915
+;	u		Unsigned decimal integer	0x0065,u	   101
+;	o		Unsigned octal integer		0xF065,o	   0170145
+;	x,X		Hexadecimal integer			61541,X		   0X0000F065
+;	l,h		long or short prefix for	00406042,hx    0x0c22
+;			  d, i, u, o, x, X
+;	f		Signed floating-point		3./2.,f		   1.500000
+;	e		Signed scientific-notation	3./2.,e		   1.500000e+000
+;	g		Shorter of e and f			3./2.,g		   1.5
+;	c		Single character			0x0065,c	   'e'
+;	s		Zero-terminated string		pVar,s		   "Hello world"
+;	su		Unicode string				pVar,su		   "Hello world"
+;
+; For details of other format specifiers see Help under:
+; "format specifiers/watch variable"
+```
+
+Felizmente (e também obviamente) o pessoal do Qt já fez [uma entrada na wiki](https://wiki.qt.io/IDE_Debug_Helpers) que explica como fazer para interpretar corretamente uma QString. Eles mesmos admitem que a coisa ficou difícil desde a última versão (Qt 5), mas ainda assim é possível. E, se tudo falhar, ainda é possível usar a janela de Watch:
+
+```
+(char*)str.d + str.d->offset,su
+```
+
+Mas não foi o caso dessa vez. Tudo funcionou perfeitamente assim que incluí os valores da Wiki logo no começo da sessão __Visualizer__.
+
+{{< image src="3dnGwGK.gif" caption="" >}}
 

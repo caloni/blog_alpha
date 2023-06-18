@@ -1,11 +1,11 @@
 ---
 
-Tem no mercado da frente de casa, é um bom custo/benefício; então sempre tem na geladeira; seu amargor é desequilibrado demais, e um tanto aguada, mas melhor que a maioria das pilsen, então
+Não tão doce quanto a última vez que provei; uma dunkel que tem gosto de café por conta do malte cerrado; bom corpo e não-enjoativo. Almoço com bifum e purê apimentado. Combina perfeitamente com carne reduzina na pressão, como a que a Mitiko fez no almoço de hoje.
 
 ---
 categories:
 - writting
-date: '2015-09-28'
+date: '2018-04-19'
 tags:
 - beer
-title: Eisenbahn Pilsen
+title: Eisenbahn Pale Ale

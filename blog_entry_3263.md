@@ -1,32 +1,23 @@
 ---
 categories:
-- playing
-date: '2023-01-12T19:12:57-03:00'
-link: https://www.chess.com/game/live/67299625587
+- writting
+date: '2016-09-30'
+link: https://www.imdb.com/title/tt4163644
 tags:
-- chess
-title: 'Rei mexeu: mate em dois'
+- cinemaqui
+- movies
+title: Refúgio
 ---
 
-E eu não vi. Mas já estava ganho. Vez das negras:
+Refúgio é uma comédia de situação que brinca um pouco com essa sensação da meia-idade (defina você esse período da sua vida) em explorar outros horizontes, levar a cabo os sonhos da infância, reviver, enfim, os bons momentos que estão em nossas memórias. Porém, ao mesmo tempo que temos esse desejo, estamos ancorados na vida real, sujeitos às complicações da vida moderna.
 
-{{< image src="board.jpeg" >}}
+O herói do filme, Michel (Bruno Podalydès), trabalha com computação gráfica, no meio de um bando de jovenzinhos focados em impressionar os outros. E a sua praia já não é ficar ancorado em uma vida tranquila e estabilizada. Ele começa, então, a desejar expandir sua visão do que é aventura. Fã do serviço aéreo postal que atravessava a cordilheira e inspirado pelo tema no trabalho sobre palíndromos -- palavras que são iguais lidas ao contrário -- ele adquire um caiaque ("kayak") e aos poucos monta todo um universo cheio de apetrechos para atravessar um rio.
 
-```
-[Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2023.01.12"]
-[White "senad640"]
-[Black "cavaloni"]
+O que se torna recorrente em refúgio é demonstrar como é possível carregarmos tantas distrações dentro do "caiaque da vida" sem sequer percebemos, e às vezes ficarmos fascinados por tanta "facilidade". Porém, ele mostra a diferença entre viver à mercê da tecnologia em busca de um conforto ilusório ou usá-la em prol da humanidade que cada um de nós tem guardado no fundo do barco (provavelmene na parte de suprimentos para uma vida feliz).
 
-1. g3 Nc6 2. Bg2 Nf6 3. d3 d5 4. Nf3 e5 5. O-O Be6 6. Ng5 Bd6 7. Nxe6 fxe6 8. b3
-O-O 9. Bb2 d4 10. Nd2 Ng4 11. e3 dxe3 12. Qxg4 exd2 13. Qxe6+ Kh8 14. Bc3 Qg5
-15. Rad1 Rae8 16. Qc4 Nd4 17. Bxd2 Qf6 18. c3 Nf3+ 19. Bxf3 Qxf3 20. Be3 b6 21.
-Qe4 Qf5 22. Qb7 Ra8 23. c4 Rfb8 24. Qc6 Qc8 25. c5 bxc5 26. Bxc5 Qb7 27. Qxb7
-Rxb7 28. Bxd6 cxd6 29. Rc1 Rd8 30. Rc2 g6 31. Rfc1 Rb4 32. Rc4 Rdb8 33. Rxb4
-Rxb4 34. Rc8+ Kg7 35. Rc2 Rd4 36. Rd2 e4 37. Kg2 Rxd3 38. Re2 d5 39. Kh3 Kf6 40.
-Kg4 h6 41. Kf4 Ke6 42. h4 a5 43. Kg4 Ke5 44. Kh3 Kf5 45. Kg2 g5 46. hxg5 hxg5
-47. Kh3 d4 48. Kg2 g4 49. Rb2 e3 50. fxe3 dxe3 51. Kf1 Ke4 52. Ke2 Rd2+ 53. Rxd2
-exd2 54. Kxd2 Kf3 55. Ke1 Kxg3 56. Kf1 Kh2 0-1
-```
+Porém, ao andar com uma imensidão de coisas em seu barco é inevitável encalhar algumas vezes, onde Michel conhece novas pessoas e vai aos poucos descobrindo que há algo de errado em sua vida. Não necessariamente errado, mas ele quer se libertar do que desconhece simplesmente seguindo o fluxo da corrente. "Kayak", como sabemos, é um palíndromo, na palavra e no desenho da embarcação; ele pode ser visto de ambos os lados e ainda parecer igual. Pois é também é uma metáfora da vida, onde andar com a vida pra trás ou pra frente dá na mesma, e voltar às origem é um novo recomeço.
+
+Essa é uma comédia que tenta ser em alguns momentos meio escrachada, o que quase estraga a bela poesia do seu tema. Porém, isso ajuda em um filme que deseja ser leve falando do drama da vida moderna:  enquando estamos enfurnados de tecnologia, mesmo para curtir a natureza os penduricalhos vêm junto. Tudo possui um significado peculiar, lúdico e metafórico. Até o celular de Michel, azul e retangular, que acaba virando a metáfora de uma balsa improvisada, que conecta a vida a lugar algum, tal como a nossa vida tecnológica, se a deixarmos dominar nossa consciência.
+
+O filme para os saudosistas é um sonho, mas para os realistas um tormento. Ele traz uma bela mensagem de humanidade simbolizada em um homem de meia-idade tentando cruzar um rio sem experiência alguma. Não deixa de ser a situação de muitos de nós, perdidos nessa imensidão de informação em tempo real, consumismo desenfreado, "soluções" para problemas que não existiam antes das soluções terem sido criadas. E todo mundo rema seguindo a corrente.
 

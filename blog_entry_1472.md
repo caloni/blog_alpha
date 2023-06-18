@@ -1,24 +1,30 @@
 ---
 categories:
 - writting
-date: '2013-01-10'
-link: https://www.imdb.com/title/tt1663661
+date: '2013-10-31'
+link: https://www.imdb.com/title/tt0046438
 tags:
 - movies
-title: Era Uma Vez Eu, Verônica
+title: Era uma Vez em Tóquio
 ---
 
-Cinema, Aspirinas e Urubus se tornava mais interessante à medida que prestávamos menos atenção à história e mais em seus personagens. Aqui, o diretor Marcelo Gomes repete a fórmula de maneira mais introspectiva ainda, acompanhando a vida de Verônica através quase apenas de seu gravador e seus pensamentos.
+Tokyo Story, ou Era Uma Vez em Tóquio, como seus títulos ocidentais sugerem, é um conto, que se constrói no Japão pós-guerra e faz uma dura crítica à sociedade ocidentalista da época, mas como todo grande filme se torna atual mesmo 50 anos depois pelas suas mensagens eternas sobre vida e família.
 
-Encaramos o ponto de vista da garota a respeito de si mesma assim que ela sai para o mundo real, se dedicando como residente de seu curso de medicina em um hospital público. Mora apenas com seu velho pai, fã de vitrola e de seus discos antigos, e só existe uma coisa que parece tornar sua vida menos comum: o sexo sem restrições. Ou, no caso de Verônica, há uma restrição: ela é incapaz de sentir qualquer sentimento pelos seus casuais companheiros.
+Iniciando com uma viagem do marido e esposa já aposentados que vão se encontrar com seus filhos em Tóquio, vão aos poucos percebendo que a cidade grande e seus afazeres da vida moderna não têm tempo nem espaço para acomodá-los, com exceção de sua amável nora, que parece sempre priorizar o bem estar dos seus sogros mesmo que este não sejam de fato sua família e que seu marido já tenha falecido há mais de oito anos na guerra.
 
-A forma com que o filme vai catando as pecinhas do quebra-cabeças que é a realidade da protagonista, através da repetição ad eternum de sua rotina, cria a cornucópia de realidade necessária para começarmos a enxergar o seu, se é que podemos chamar assim, problema. Seus pacientes acumulam doenças através de seus sintomas. Qual o sintoma de Verônica? Nada acontece para ela, e é justamente essa ausência de conflito, esse vazio gerado por não se encaixar em um mundo comum e milimetricamente realista (ajudados por uma fotografia e direção de arte que primam pelo natural e colaboram para a magia da imersão), que conseguem fazer-nos enxergar com uma lupa que o universo de um ser humano não se limita ao que todos esperam.
+Embora tenham lá seus momentos agradáveis e nunca transpareça que seus filhos no fundo acham sua presença um estorvo, a genialidade do filme aparece nos pequenos detalhes, nos diálogos e muitas vezes nas próprias situações que vão ocorrendo tão naturalmente que o diretor parece não querer julgar nada em momento algum. Isso faz com que o espectador nunca julgue, mas esteja sempre atento à reflexão do que aquelas cenas conseguem transmitir de mensagem.
 
-Tomemos o sexo como exemplo. Nunca deixa de ser sensual. Aqui fica até mais, com tanto realismo. Porém, a repetição aos poucos vai banalizando a experiência. Tudo que vai se repetindo parece fazer esgotar a magia. Logo vira lugar comum para nós, espectadores, assim como é para ela. Logo tudo converge para o nada: o sexo, a vida de médica, o vai-e-vem casa/serviço. O que não se esvai é esse conceito de felicidade de Verônica: estar livre, flutuando nas águas do mar, para ser o que quiser, e não o que esperarmos que seja.
+E parece ser isso a força invisível desse filme. Muitos excelentes trabalhos posteriores usaram a mesma receita - onde se encaixa com certeza o tocante [Hanami] - mas Tokyo Story tem aquele ingrediente mágico de fazer as pessoas pensarem por si sós o que tudo isso significa. Essa leveza de cores pode transformar a vida de muita gente por muitas décadas ainda.
 
-A comparação com [A Febre do Rato] é inevitável: a mesma Recife vista pela mesma sensação de estranhamento vinda não da rotina, que não poderia ser mais ordinária, mas da ambição dos seus personagens. No caso aqui dA personagem, única, sozinha. Tão sozinha que se auto-diagnostica através dos seus pensamentos e gravações, meio como uma auto-cura ao escutar de dentro.
+## Tokyo Story em Família
 
-O grande conflito, talvez, seja entender que a Felicidade pode ser muitas coisas. Menos banal.
+Caloni, 2021-12-18.
 
-[A Febre do Rato]: {{< relref "a-febre-do-rato" >}}
+Assisti novamente este clássico, dessa vez em família. Família japonesa. Foi divertido acompanhar os comentários da minha sogra sobre sua avó e os costumes da época, assim como o quão apertadas já eram as casas em Tóquio na década de 50. A naturalidade com que as coisas acontecem em Era Uma Vez em Tóquio rivalizam com os enquadramentos bidimensionais dos personagens, enclausurados nesta realidade imutável do tempo.
+
+Ambas as virtudes pertencem ao seu diretor, Ozu, que parece deixar fácil uma história que transcende sua primeira camada. Quando a nora fala sobre ser egoísta e toda uma última discussão entre os personagens mais íntegros desta história, é quando percebemos a real profundidade deste filme. Ele é eterno, pois trata da humanidade como ela é. Como as gerações se tratam, o distanciamento, os interesses. Acaba sendo um reflexo histórico também do Japão da época, embora possa servir para qualquer época.
+
+E nisso entra Hanami, uma reencarnação mais jovem e artística. Hanami é obviamente uma homenagem e referência, e não um remake, pois o próprio assunto de sombra e espírito informam ao espectador que este é um tema antigo sob uma nova roupagem, não melhor ou pior, apenas diferente.
+
+[Hanami]: {{< relref "hanami-cerejeiras-em-flor" >}}
 

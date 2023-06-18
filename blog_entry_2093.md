@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2011-12-20'
-link: https://www.imdb.com/title/tt0446687
+date: '2012-03-04'
+link: https://www.imdb.com/title/tt1064964
 tags:
 - movies
-title: Lições de Vida
+title: Leur morale... et la nôtre
 ---
 
-Filme estrelado por Rupert Grint, e quem está acostumado com seus trejeitos na [saga Harry Potter](onde ele faz Ron Weasley, o melhor amigo de Harry) não vai se decepcionar. Para os que esperavam uma atuação mais envolvida com um projeto apartado dos livros dos bruxinhos, vai.
+Nessa comédia de humor negro francesa é difícil identificar-se com os protagonistas, um casal de meia-idade que vive sozinho às custas de promoções de supermercados e uma vendinha clandestina em sua própria casa e preocupados com a crescente onda de bandidagem no bairro que residem. Isso porque eles são tão vigaristas quanto os supostos "bandidos" que o casal de meia-idade tanto teme.
 
-No entanto, as participações de Laura Linney e Julie Walter (essa última, também dos filmes dos bruxinhos) conseguem elevar o filme a um drama digno de nota. Ambas desempenham papéis complexos: Laura é a mãe de Ben Marshall (Grint), esposa do pároco da comunidade e religiosa fervorosa, aplica regras rígidas na educação de Ben, além de tomar decisões autoritárias na casa, como abrigar um viúvo desamparado.
+Porém, independente disso, é complicado achar a maioria das tiradas engraçadas pelo simples fato que o fenômeno da identificação não ocorre, e, mais prejudicial ainda, pela quase completa falta de timing cômico empregada pelo diretor Florence Quentin, que aparentemente não consegue diferenciar comédia de situação com comédia pastelão, pois mistura cenas de ambas sem qualquer discrepância e ritmo.
 
-Fora isso, temos Julie Walters no papel de Evie Walton, uma atriz aposentada cuja vida é um misto de realidade e encenação. Esse é o papel que faz toda a diferença.
-
-[saga Harry Potter]: {{< relref "harry-potter-e-a-pedra-filosofal" >}}
+Mesmo assim é possível sairmos quase ilesos dessa pequena experiência de comédia de costumes francesa. Talvez o "francesa" da minha descrição tenha algo a ver com minha estranheza.
 

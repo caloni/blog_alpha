@@ -1,28 +1,46 @@
 ---
 categories:
-- writting
-date: '2017-01-05'
-link: https://www.imdb.com/title/tt3263904
+- reading
+date: '2022-03-15T19:54:43-03:00'
+link: https://www.fbscience.com/Landmark/articles/10.2741/4704
 tags:
-- movies
-title: 'Sully: O Herói do Rio Hudson'
+- body
+title: Impact of sugar on the body, brain, and behavior
 ---
 
-Sully é um trabalho delicado e empenhado não apenas de um diretor que vem crescendo cada vez mais sua sensibilidade a respeito da figura humana, mas também um trabalho de uma equipe de cineastas afiada com a proposta deste simplório e poderoso filme. Ele transforma medo em esperança, resgatando no processo, em um mundo cada vez mais dominado por máquinas e matemática, o surrado, mas ainda de pé, "fator humano".
+Estava curioso para saber quais as últimas pesquisas, ou melhor, o apanhado de pesquisas, que valida o que sabemos sobre o efeito do açúcar no corpo. Tenho picos de sugar craving e este é um dos pontos que a auto-análise sozinha não funciona. É preciso cavar mais a fundo na fisiologia do próprio corpo.
 
-E é com esse fator humano que filmes como esse e O Voo (Robert Zemeckis, 2012) se constroem. Sully começa já centrado na figura humana, representada aqui pelo comandante Chesley 'Sully' Sullenberger, que acaba de passar por um evento traumático no voo que pilotava, e que agora precisa obter sua autoestima de volta das mãos dos computadores que dizem que sua decisão de pousar no Rio Hudson logo após sua decolagem em Nova York, e não voltar ao aeroporto, foi um simples erro de cálculo.
+## Recortes
 
-O roteiro, baseado no livro do próprio Sully, começa timidamente a adentrar neste evento conhecido de todos (pois faz apenas sete anos) e vai sem pressa repovoando nossa mente com os fatos, trazidos em uma cadência importante para a história que se pretende contar, pois este não é um filme sobre este evento, mas muito mais sobre o drama de uma pessoa remoendo não apenas um trauma passado, mas a história de toda uma vida. Depois de quarenta anos pilotando aeronaves que levaram quase um milhão de passageiros ao seu destino em segurança, a competência desta pessoa é posta em xeque em seu último voo, mesmo que todos a bordo tivessem saído intactos.
+> Sugar typically refers to a category of simple carbohydrates that includes monosaccharides like fructose and glucose, and disaccharides, like sucrose and lactose, which have different effects on the body and brain. 
 
-Não apenas a montagem inspiradíssima "do roteiro" e da direção conferem pelo menos duas sequências irretocáveis -- uma quando Sully relembra seus tempos pilotando um avião militar, onde há a sobreposição do avião de outrora com um ancorado no porto de Nova York -- como a edição de Blu Murray (colaborador habitual do diretor) consegue manter o ritmo adequado para uma experiência -- a investigação do órgão de segurança dos voos -- que se arrasta e nunca termina.
+> Sucrose, or table sugar, is a disaccharide made up of one-part glucose and one-part fructose. 
 
-Além do mais, a própria fotografia de Tom Stern, que se mantém fria, com tons embranquecidos e azulados a todo momento, já confere esse clima frio do inverno na cidade, ainda que não precisemos de nenhuma neve para este feito. E em adição, quando Sully começa a delirar em seus devaneios, imaginando o caminho deturpado para seu voo fatídico -- a base de algum prédio da megalópole -- o céu está limpo e cristalino. Quase como uma simulação torta da realidade, que teima em assombrar o experiente piloto. Vale citar, por fim, que apenas a última sequência, que se passa em uma sala, possui os tons quentes, mas límpidos, que revelam ainda o suspense entre um final satisfatório para o conflito interno do heroi e o processo burocrático e desumanizado de toda investigação.
+> Because most added sugar consumption comes from sucrose or HFCS, we typically consume both fructose and glucose together. However, research on the individual monosaccharides, fructose and glucose, has revealed large differences in how they affect the body. 
 
-Mas para que tudo isso funcione é necessário que não apenas atores secundários como Aaron Eckhart dê o ar da graça em sua composição enigmática, quase fantasmagórica, de suporte como o co-piloto Jeff Skiles, mas também a única persona possível em desempenhar este papel: Tom Hanks. Você já conhece os trejeitos do ator. Sabe que sua entonação anasalada não é das melhores. Mas aqui Hanks deixa tudo isso de lado e converte em benefício, construindo um Sully que pode não ser o real, mas que transparece toda a dúvida honesta de um sujeito que, apesar de ter repassado mentalmente suas ações naquele momento tenso tantas vezes, continua estático, paralisado, vulnerável.
+> Most of the glucose in the blood stream is not stored in the liver but rather, through the action of insulin, quickly passes through to muscle, adipose, and other peripheral tissues where it can immediately be used as energy. Fructose, on the other hand, is a less direct source of energy. Independent of insulin, the liver converts fructose to glucose, lactate, and/or fatty acids before passing it to the blood stream where it can be oxidized in other tissues for energy 
 
-Até a edição de som, que evoca os barulhos mais estranhos durante o acidente, mas presentes em todo o evento, como o vento, o balanço do barco, o helicóptero ao fundo, consegue se fazer sentir sem invadir o pouco espaço desta breve história. E a trilha sonora da dupla Christian Jacob e Tierney Sutton Band, encabeçada pelo tema composto pelo diretor, consegue se abster quando não é necessária, e soaria por demais melodramática.
+> Glucose from the bloodstream is the main source of energy for the brain 
 
-Dessa forma, com toda essa equipe sob seus braços, é um tanto óbvio que Clint Eastwood, o diretor deste filme, não poderia fazer nada menos que um ótimo filme. Essa é a conclusão mais óbvia. Porém, não se engane. A última fala de Sully em seu julgamento revela a própria fala fictícia que Eastwood teria que fazer quando questionado se o único fator que fez deste um filme de relevância é apenas a figura humana de seu próprio diretor. Quando nos lembramos que todo o evento se passou em 24 minutos, e que todos envolvidos fizeram o seu melhor, quase que simbolizando o espírito nova-iorquino, se torna comovente constatar que este último evento envolvendo um avião na cidade demonstra que a cidade, apesar de abalada eternamente pelos ataques terroristas de anos atrás, não deixou abalar seu espírito de solidariedade. Pelo contrário, o fortalece.
+> In contrast, fructose cannot directly supply the brain with energy as it crosses the blood brain barrier to a much lesser degree than glucose 
 
-E não retirou seu humor, também, como podemos notar pela última fala do filme, talvez a mais espirituosa que alguém proferiu em um tribunal de acidentes aéreos.
+> There are two principal rewarding aspects of sugar consumption: nutrition and taste. Rodent studies have indicated that these two aspects are distinct and dissociable and may follow different neural pathways 
+
+> While the nutritive reward of sugar in mice causes DA release primarily in the dorsal striatum, the sweetness reward is concentrated in the ventral striatum 
+
+> This suggests that DRD2 in the NAc are essential both for regulating peripheral glucose levels as well as the reinforcement/reward learning of glucose consumption, which explains why dysregulation of this system may lead to overeating. 
+
+> Just as fructose and glucose have different metabolic pathways, they have different hedonic effects on the brain and behavior. 
+
+> Sugar consumption alone will not lead to weight gain or obesity--even rats exhibiting addictive behavior towards sugar do not gain weight. The same is true for fat--rats given intermittent access to fat will binge on it, but will not gain significant weight. However, like sugar, fat also increases food palatability, which can lead to hyperphagia. 
+
+> While fat or sugar alone may not induce weight gain, together they do. Highly processed foods, which are often over-consumed, tend to contain both fat and added sugar (e.g. ice cream, pizza, etc). 
+
+> Unlike sugars, which can be absorbed in the upper half of the GI tract, certain complex carbohydrates are not digestible by human enzymes and must be broken down by microbes in the large intestine (,,,,). Gut microbes produce short chain fatty acids (SCFAs) as a byproduct of the fermentation of these complex carbohydrates. The primary SCFAs produced are acetate, propionate, and butyrate, which can be used by the body as an energy source. Complex carbohydrates are more filling than sugars because SCFAs can increase the release of hormones and peptides from enteroendocrine cells that result in increased satiety, thus reducing food seeking behavior 
+
+> Sugar is a highly palatable food that triggers our reward systems due to both caloric input and taste. Taken in excess, sugar can trigger these reward systems too strongly, inducing compulsive eating. The nutritive and taste reward centered in the striatum and the homeostatic signaling from the hypothalamus become less effective at communicating with each other to signal satiety. Added fructose is especially disruptive because it is not immediately available as an energy source for the brain, providing a sweet taste without the accompanying beneficial and timely nutritive input. The following dysregulation of eating behavior in many ways parallels the compulsive consumption of drugs in addiction. 
+
+> When we examine glucose and fructose separately, added fructose is associated with many more health risks than glucose. Fructose can increase food-seeking and lead to fat production and storage. It may also be related to neurodegenerative inflammatory disease like diabetes and Alzheimer’s. As an alternative to sugar, complex carbohydrates in fruits, vegetables, legumes and fiber-rich grains are fermented by gut microbes, producing SCFAs, which may counterbalance the inflammatory effects of sugar. 
+
+> The combination of sugar and fat is especially potent for triggering food overconsumption and weight gain. While each alone will not cause weight gain, sugar and fat together are highly palatable and can induce weight gain and obesity.
 

@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-06-24'
+date: '2022-11-07T22:15:09-03:00'
 tags:
-- food
-title: Finca Las Nubes Cabernet Malbec 2016
+- wine
+title: Finca La Anita
 ---
 
-Este vinho jovem da vinícola Las Nubes em Cafayate eu comprei quando a bodega estava em reforma, impossibilitando degustarmos com queijos da região naquela paisagem estonteante. Mas abrimos com queijos de cabra que trouxemos para casa, também, e o resultado foi sensacional. Cheiro de tanques da vinícola, após uma semana aberto um gosto frutado peculiar.
+Esse é um vinho preza. Foi o que o Fábio sugeriu na viagem. Comprei na Casa Vigil em vez de ficar pobre com um El Enemigo. E valeu cada centavo. Ele parece um Gran Reserva, mas sem a madeira. É o corpo do vinho extremamente equilibrado, aveludado. Esta Anita é boa, mesmo.
 

@@ -1,14 +1,13 @@
 ---
 categories:
 - writting
-date: '2014-02-15'
-link: https://www.imdb.com/title/tt2023587
+date: '2023-02-14T20:29:19-03:00'
 tags:
-- movies
-title: Mama
+- wine
+title: Malma 2015
 ---
 
-Mama, além de ter premissas ruins, nem filme de terror é. "Inspirado" pelo curta homônimo de 2008 do próprio Andrés Muschietti, o diretor recebe visibilidade através de Guillermo del Toro (O Labirinto do Fauno), que assina a produção. A história gira em torno de duas meninas que ficam abandonadas em uma cabana na floresta por cinco anos após terem sido raptadas pelo pai que por sua vez é capturado por uma espécie de assombração. Tendo um descartável irmão gêmeo do pai das meninas para restabelecer o elo com a casa onde moravam e sua namorada (Jessica Chastain) que fica aliviada por não estar grávida, mas vira alvo de ciúmes da já citada assombração que (oh!) se revela como um fantasma de uma mãe que perdeu seu filho.
+Se foi a última viagem que comprei nesta adega de Neuquen, nem me lembro quando. A ideia de abrir uma por ano se concretizou. E a última garrafa foi para o evento em Aragoiaba.
 
-Lotado de clichês que não funcionam, como o psiquiatra que vai aos poucos desvendando o "mistério", na maioria das vezes as pessoas decidem esperar anoitecer para terem um pouco de ação. E a ação do filme se resume basicamente em aplicar sustos esporádicos e mostrar cada vez mais a tal assombração, que obviamente é uma construção digital, o que faz perder 80% de todo o medo que ela poderia gerar.
+Essa última garrafa é a mais amaciada, como esperado. Um Malbec atijolado, tanino redondo, embora não perfeito. Eu diria que além dessa fase de envelhecimento começa a ser questão de gosto.
 

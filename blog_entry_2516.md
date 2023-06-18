@@ -1,16 +1,24 @@
 ---
 categories:
 - writting
-date: '2016-02-08'
-link: https://www.imdb.com/title/tt0061811
+date: '2013-01-02'
+link: https://www.imdb.com/title/tt2059255
 tags:
 - movies
-title: No Calor da Noite
+title: 'No'
 ---
 
-Esse é um filme que expõe o racismo como nenhum outro. O personagem de Sidney Poitier aguarda o trem na estação da pequena cidade de Sparta para visitar sua mãe. Naquela mesma noite um figurão da cidade é assassinado. Um policial, um dos caipiras da cidade, encontra Portier sentado em um banco, e para ele o crime já está resolvido: único negro encontrado aquela noite, só ele poderia ser o culpado de um crime tão brutal.
+No poderia muito bem ser um documentário, uma vez que seu objetivo principal é aproximar o espectador pelo seu realismo. No entanto, a decisão de "estilizar" essa realidade com um pouco de ficção não poderia ser mais propício em um filme que, acima de política, trata dos detentores atuais do poder da influência no mundo: a publicidade.
 
-Dirigido por Norman Jewison, que já foi indicado a sete Oscar e não ganhou nenhum (apesar de "No Calor..." ter ganhado cinco, incluindo de melhor filme), o filme explora diferentes situações em que os moradores e a força policial da região têm que interagir com Virgil Tibbs (Portier), e o fato dele ser negro é um grande empecilho, já que com isso eles lhe negam o respeito (chamando-o pelo nome, mesmo já sabendo que ele também é um policial) e se sentem ofendidos muitas vezes apenas por Tibbs se encontrar no mesmo recinto. O melhor momento do longa é uma visita ao "dono" da cidade, que ainda mantém uma plantação de algodão com vários negros (como funcionários), conversa animadamente sobre Orquídeas com Portier, mas acha normal esbofetear a cara de um negro se este lhe faltar com o respeito.
+Quando o ditador chileno Augusto Pinochet decide, pressionado pela opinião pública de um mundo cada vez mais globalizado, realizar um plebiscito para decidir se ele ficaria no poder por mais 8 anos, duas campanhas opostas ganham cada uma 15 minutos de espaço na televisão: uma pelo Sim, outra pelo Não. O publicitário René Saavedra (Gael García Bernal) é procurado para conduzir a propaganda democrática. Bem de vida, é um dos primeiros a possuir um micro-ondas, e sem motivos para entrar em um debate que poderia manchar sua reputação com seus clientes, René é movido por um misto de vaidade profissional e pessoal. Pelo lado profissional classifica seus trabalhos como expoentes máximos da comunicação com o público. Pelo lado pessoal sua ex-mulher e mãe do seu filho é uma perseguida política, o que poderia pincelar um pouco de humanidade em sua enigmática expressão.
 
-O filme é fácil de entender, e tem um "appealing" emocional e uma história simples que o tornaram fácil indicação para Oscar. No entanto, por trás do filme censura livre se encontra hoje um exemplar único, que felizmente, será visto com repulsa pela maioria de seus espectadores atuais (na época já foi polêmico, mas hoje talvez fosse inconcebível). Sua trilha sonora é cantada por Ray Charles. Deu ao ator Rod Steiger o Oscar de ator principal, e deixou Portier injustamente fora do páreo. Talvez a polêmica da época não fosse tão descabida assim...
+O uso da tela quadrada e câmeras que tremem a todo momento denunciam o tom documental e caseiro da produção, ganhando o filme de imediato duas vantagens: 1) evocar o realismo necessário à nossa imersão na disputa política e 2) não causar a fuga dessa imersão toda vez que vemos os resultados das campanhas gravados como vídeos com qualidade televisiva da época e exibidos em "tela cheia". Poderia até dizer que existe uma terceira vantagem aberta a interpretações: estamos na era de Pinochet e um quadrado representa de maneira simbólica a realidade limitante e sufocante da ditadura.
+
+A interpretação sóbria de Gael García Bernal (Má Educação, [O Passado]), nunca nos deixando perceber se ele de fato é a favor do "Não", consegue estabelecer um clima ambíguo ou pelo menos um futuro pálido ao não conseguirmos focalizar no filme se de fato a campanha tem dado certo com o público. Essa dúvida se torna tão eficaz que prova disso é ficarmos muitas vezes na incerteza de um evento ocorrido décadas atrás e teoricamente conhecido por todos. Ao mesmo tempo sua expressão praticamente inalterada ao acompanhar um projeto comercial em paralelo revela uma faceta interessantíssima do filme de Pablo Larraín (do filme Tony Manero), mesmo que levemos nossas ideologias para a sala de projeção e defendamos internamente nossas posições fica óbvio que o trabalho de René é pura publicidade e manipulação da opinião popular por meios não pensantes (o que traz à memória o plebiscito de 93 realizado no Brasil cuja presença de atores globais teve papel decisivo no resultado das urnas).
+
+Quando ambas as campanhas vão avançando e aprimorando-se é inegável a força que o hino criado a favor do "Não" possui uma força incomparável com o apelo patético e repetitivo do Sim, cada vez mais caricato e vestindo suas tradicionais vestes acusadoras da oposição. Isso chega a ser sintomático nos dias de hoje, pois a democracia vendida pela campanha do Não possui um formato que não passa, de acordo com seu idealizador, de uma cópia barata de outras cópias.
+
+E de certa forma a própria democracia é posta em xeque quando ela pode vencer através não da coragem do seu povo, mas pela visão de pessoas felizes que poderiam estar votando pela sua liberdade e felicidade ou por qualquer outro motivo. Como comprar coca-cola, por exemplo.
+
+[O Passado]: {{< relref "o-passado" >}}
 

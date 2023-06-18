@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2015-01-11'
-link: https://www.imdb.com/title/tt1821549
+date: '2019-02-15'
+link: https://www.imdb.com/title/tt0105378
 tags:
 - movies
-title: Nebraska
+title: Neblina e Sombras
 ---
 
-Sejamos honestos: quase ninguém termina essa vida tendo valores que prestem. Quando eu digo valores, não me refiro apenas a dinheiro, mas valores morais, intelectuais, culturais. Muitas vezes não se trata de oportunidade: a grande maioria não faz questão. Woody Grant (Bruce Dern) recebe um desses anúncios pega-trouxas de "você pode ganhar um milhão" e decide ir pegar o dinheiro. O destino: Nebraska. Já no fim de sua vida, é tido como louco, mas antes que você conclua algo, esse não é daqueles filmes que te surpreendem no final, mas no começo e durante. Um road movie bem comportado.
+A sombra e a neblina são os lugares perfeitos para Woody Allen perambular. É nessa incompreensão charmosa do caos que este filme vai se desenrolando quase que ao acaso. Não há culpados, apenas desavisados. Nós não sabemos do que o universo e um serial killer são capazes. Mas Allen está aqui para ajudar, dando um novo e merecido destino aos que não se importam em viver a vida, por mais nebulosa que ela seja.
 
-O núcleo de análise do diretor Alexander Payne (Sideways) é no destino intermediário da viagem, terra natal do nosso protagonista e onde ele deixou seu passado, seus parentes, sua outra história e suas possibilidades. O seu filho David (Will Forte) analisa tudo isso com os olhos de uma criança, e se espelha naquela realidade, muitas vezes se enxergando embaixo de um túmulo ou no fim da vida como seu pai. Ele faz o papel de nós, espectadores, analisando tudo isso como se fizesse parte de nossa realidade. David é exceção, e tem um valor: fazer seu pai feliz.
+O uso do preto e branco, da silhueta dos personagens e do giro da câmera de Allen nos entrega uma experiência que vai muito além dos cortes simples e cenários estáticos dos trabalhos mais teatrais do diretor. Isso nos dá a oportunidade de ouvir frases icônicas de um roteirista gênio dentro de uma textura mais cinematográfica.
 
-O preto e branco aplicado no filme diz muito sobre aquele universo (além de ser muitas paisagens serem poesias não-ditas). Estamos em um universo mais fantasioso que a ficção: a cínica realidade de nossas vidas, onde um velho inútil e bêbado é cumprimentado por onde quer que passe e vira notícia de jornal assim que diz ser um milionário. No mesmo empenho, a trilha sonora com seus acordes soltos ilustra essa realidade com a cor desse caos emocional que quer dizer algo sobre nós mesmos. Se somos pais, avós, netos ou filhos, ele dirá uma coisa diferente a partir de nossos sentimentos por nossos filhos, netos, avós e pais. Não se fica imune a um milhão de dólares, mesmo que ele seja de mentira.
+Allen usa muitos atores e atrizes de primeiro escalão e não usa adequadamente todos eles, mas os personagens de Mia Farrow, John Malkovich e o próprio Woody Allen passeiam por participações especiais que dão uma aura mágica nesse universo onde Kathy Bates e Jodie Foster são prostitutas em um bordel, Madonna é uma mulher fácil do circo ou John Cusack é um estudante universitário disposto a dar tudo por um momento mágico em mais uma noite mundana e depressiva.
 
-O que é curioso no roteiro do estreante Bob Nelson é que mesmo cheio de coincidências -- como alguém ter encontrado a carta, ou tantos encontros na sequência final -- existe um potencial em sua história simples e direta. E quem dá força a essa história com certeza é Bruce Dern e seu Woody Grant bruto, obstinado, talvez senil. Ele é perfeito em suas imperfeições, em demonstrar que seres humanos são falhos até o osso. E é essa imperfeição que torna Nebraska um filme belo, sensível, transcendental.
+Apesar de ser quase um policial ou filme de mistério a trilha sonora animada denuncia mais do que um filme de gênero, além do personagem de Allen, acordado no meio da noite para ajudar em um plano dos vigilantes da vizinhança para capturar um assassino a sangue frio. Allen, um subalterno puxa-saco do seu chefe, é o único que não sabe os detalhes do plano, que se desenrola na comunidade como uma surpresa. Não é um filme crível, mas imaginativo, quase conceitual. E te captura a atenção em cada cena, desde o suspense do assassino até o fim dos personagens que decidem criar o próprio destino após uma noite única em suas vidas.
+
+Para Woody Allen qualquer discussão trivial sobre a rotina e as vidinhas das pessoas de repente se transforma em uma crise existencial, onde átomos do universo interagem se maneira a obedecer à teoria do caos. Perguntas como por quanto você venderia seu corpo ou o que você faria se tivesse a chance de viver a vida dos seus sonhos emergem como num passe de mágica, e essa é sempre a aventura da vida que Allen está disposto a filmar.
 

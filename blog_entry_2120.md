@@ -1,26 +1,100 @@
 ---
 categories:
-- writting
-date: '2017-03-05'
-link: https://www.imdb.com/title/tt3315342
-tags:
-- movies
-title: Logan
+- coding
+date: '2016-01-21'
+tags: null
+title: Log de chamadas API direto do WinDbg
 ---
 
-O diretor e roteirista James Mangold apresenta um fechamento de personagem que soa estranho aos fãs da Marvel mais coloridos e menos afoitos com a dura realidade da vida: pessoas morrem nesses filmes.
+Há [muito tempo atrás] eu havia falado sobre como a ferramenta logger.exe, do Debugging Tools for Windows, poderia ser usada para gerar um arquivo de log com centenas de APIs detalhadas em sua chamada, como parâmetros de entrada, retorno e tempo. Bom, testando isso hoje, me veio à lembrança o artigo e também a constatação que o logger é muito instável. Tão instável que não consegui logar as APIs que desejava nas inúmeras tentativas que fiz. Isso em um Windows XP!
 
-Logan é o filme que nunca foi filmado sobre os X-Men, talvez pela falta de oportunidade de transformar o bonito discurso em defesa dos gays para um discurso não-tão-bonito em defesa dos imigrantes. Hoje Trump é o presidente da nação mais poderosa do planeta e há na cabeça atônita dos liberais americanos tons alegóricos políticos pálidos o suficiente para tratar dessa questão. Além disso, este é um filme que se passa no universo onde existem mutantes (assim como existem imigrantes), mas onde ninguém mais quer saber deles (assim como os imigrantes).
+Felizmente, as funções do logger também estão em uma DLL estilo plugin do próprio WinDbg, que pode ser chamada facilmente e que -- surpresa! -- internamente ao depurador funciona. Melhor ainda, não é necessário criar um processo para realizar o log, mas pode ser atachado em um processo já em execução, o que facilita bastante seu uso em serviços, por exemplo.
 
-Mas desculpe se passo adiante de todo o universo fílmico que antecede este trabalho. Ele existe, é referenciado, mas é pouco celebrado, e muitas vezes lamentado. Tudo o que os X-Men lutaram parece se esvaecer com a passagem do tempo, o acúmulo de catástrofes envolvendo mutantes e o envelhecimento dessa causa. Não nascem mais mutantes naturalmente, mas alguns poucos estão sendo produzidos em laboratórios, com patente e tudo. Entre eles, uma menina mexicana que fala espanhol e que pode ser o elo afetivo com uma criatura tão acostumada a se comunicar por golpes afiados e grunhidos como Wolverine. Na verdade, o filme vai além, e evita o caminho fácil para demonstrar, com muita propriedade e naturalidade, o desenvolvimento entre esses dois personagens com base em movimentos instintivos e geralmente com violência envolvida. James Mangold consegue evitar todos os clichês de filmes de super-herói pelo bem de uma narrativa quase crua, depressiva e "dark" o suficiente para nos deprimir incansavelmente por toda a história.
+Vamos testar aqui o log da nossa cobaia de plantão, o amigo Notepad (ou Bloco de Notas), exibindo um texto que demonstra com perfeição uma das minhas características mais bizarras: confundir expressões e frases prontas.
 
-E a violência parece ser a única saída para a comunicação dessas pessoas, seja um mutante rastreador de mutantes (com um fim trágico e com uma mensagem absurda se você ainda estiver acompanhando minha conversa sobre preconceito com imigrantes que explodem coisas) ou até o final tão realista quanto depressivo de um Charles com uma doença cerebral degenerativa, e sua devida consequência: o impacto que isso gera nas mentes humanas mais fracas em torno dele. Mais uma vez os humanos possuem motivos de sobra para desconfiar dos poucos mutantes que restam, e mais uma vez os vilões ainda mantém o velho e eterno plano de fabricar seus próprios mutantes para si.
+_Nota: Lembrando que estaremos testando em Windows XP 32 bits com um WinDbg igualmente 32 bits. Inicialmente comecei a testar a versão 64, mas ela também deu xabu. Aparentemente coisas periféricas do Debugging Tools nunca são muito bem testadas._
 
-Mas voltemos a Charles. Seu personagem construído com tanta afinidade por Patrick Stewart é o Charles definitivo. Estamos em um futuro um tanto deprimente, mas Stewart continua a ser essa figura com um caráter inspirado, mesmo que atormentado pelos momentos onde machucou pessoas. Ele não é apenas o velho inconveniente que aceita ir jantar na casa de uma família de desconhecidos, mas o resultado de muitas horas de interação entre os X-Men, e mesmo assim Stewart sintetiza todo o conhecimento adquirido pelo seu personagem em um momento onde ele é um dos últimos sobreviventes de uma causa perdida há décadas.
+{{< image src="5gLF4Qd.png" caption="" >}}
 
-E Hugh Jackman mais uma vez não faz feio. Ele é Wolverine até o fim, e mantém seu lado impetuoso e instintivo afiado, mas este é um filme onde ele deixou de sê-lo há muito tempo e tenta evitar as duras lembranças do que já foi. Hoje ele se limita a cuidar de um debilitado Charles, e não deixa de ser tocante e uma das melhores cenas do filme vê-lo levando o professor para descansar na cama (um momento que compete de igual para igual com um outro momento icônico, quando uma cruz é deitada para virar um X). Sua fraqueza, uma doença que o mata por dentro, provavelmente fruto de tanto tempo sendo a experiência genética que foi, é demonstrada de maneira um tanto repetitiva pela sua conveniente tosse, mas Jackman consegue a todo momento soar autêntico e real. É o contraponto que estávamos esperando depois de uma sequência ininterrupta de filmes que tratavam apenas do herói em situações fantásticas. Aqui ele é um ser humano em busca de um pouco de paz.
+O texto ainda não foi salvo em nenhum arquivo. Iremos salvá-lo, mas antes, vamos executar o WinDbg e ver como o Notepad realiza essa operação.
 
-Por outro lado, a pequena Dafne Keen como Laura rouba a cena desde a primeira sequência de luta, em um filme que insiste em ser uma versão alternativa dos filmes de super-herói, podendo muito bem figurar como um filme solo sobre um cara que tem umas garras na sua mão. Não faria diferença para quem nunca ouviu falar de mutantes. E nesse sentido Laura Kinney já nasce como a X-Men de uma nova geração. Ela obtém o bastão entregue por Wolverine de maneira tão enfática que Logan se torna facilmente apenas a sombra do que foi um dia, mas de uma forma menos dolorosa ao sentir a energia da primeira mutante com energia vista no longa depois de uns bons 30 minutos de desespero.
+{{< image src="55CjXt2.png" caption="" >}}
 
-Apesar de longo e arrastado, "Logan" é um estudo fascinante de um universo pós-apocalíptico dos X-Men que se finge de drama/ação "dark" gerando mortes além do necessário (mas evitando matar crianças na tela, é claro). É um filme depressivo, mas que deixa um pequeno rastro de esperança para as próximas gerações. Se há um reboot à frente, ele é devidamente merecido, pois foi indubitavelmente ancorado em um filme que termina uma era de heróis apresentando um filme sobre seres humanos vivendo o eterno drama da existência: como conviver com os outros e suas diferenças sem ser massacrado.
+A extensão/plugin que me referia é o Logexts.dll. Você pode instalar o log de API em um momento, habilitá-lo em outro, e até desabilitá-lo depois. Ou seja, é um processo ótimo para realizar inspeção pontual de chamadas API. Caso, claro, ele não exploda em um desses momentos.
+
+```
+(9c4.f04): Break instruction exception - code 80000003 (first chance)
+eax=7ffd9000 ebx=00000001 ecx=00000002 edx=00000003 esi=00000004 edi=00000005
+eip=7c90120e esp=003bffcc ebp=003bfff4 iopl=0         nv up ei pl zr na pe nc
+cs=001b  ss=0023  ds=0023  es=0023  fs=0038  gs=0000             efl=00000246
+*** ERROR: Symbol file could not be found.  Defaulted to export symbols for 
+C:\WINDOWS\system32\ntdll.dll - 
+ntdll!DbgBreakPoint:
+7c90120e cc              int     3
+0:001> !logexts.logi 
+
+Windows API Logging Extensions  v3.01
+Parsing the manifest files...
+Location: C:\Temp\DbgTools(x86)\winext\manifest\main.h
+   Parsing file "main.h" ...
+   Parsing file "winerror.h" ...
+   Parsing file "kernel32.h" ...
+   ...
+   Parsing file "dsound.h" ...
+Parsing completed.
+Logexts injected. Output: "C:\Documents and Settings..."
+0:001> g
+ModLoad: 50000000 50056000   C:\Temp\DbgTools(x86)\winext\logexts.dll
+Parsing the manifest files...
+Location: C:\Temp\DbgTools(x86)\winext\manifest\main.h
+   Parsing file "main.h" ...
+   Parsing file "winerror.h" ...
+   Parsing file "kernel32.h" ...
+   ...
+   Parsing file "dsound.h" ...
+Parsing completed.
+(9c4.664): Break instruction exception - code 80000003 (first chance)
+eax=7ffd9000 ebx=00000001 ecx=00000002 edx=00000003 esi=00000004 edi=00000005
+eip=7c90120e esp=003bffcc ebp=003bfff4 iopl=0         nv up ei pl zr na pe nc
+cs=001b  ss=0023  ds=0023  es=0023  fs=0038  gs=0000             efl=00000246
+ntdll!DbgBreakPoint:
+7c90120e cc              int     3
+0:001> !logexts.loge
+Logging already initialized. Output "C:\Documents and Settings\..."
+Logging enabled.
+0:001> g
+ModLoad: 77b40000 77b62000   C:\WINDOWS\system32\appHelp.dll
+ModLoad: 76fd0000 7704f000   C:\WINDOWS\system32\CLBCATQ.DLL
+...
+(9c4.41c): Break instruction exception - code 80000003 (first chance)
+eax=7ffd9000 ebx=00000001 ecx=00000002 edx=00000003 esi=00000004 edi=00000005
+eip=7c90120e esp=00f1ffcc ebp=00f1fff4 iopl=0         nv up ei pl zr na pe nc
+cs=001b  ss=0023  ds=0023  es=0023  fs=0038  gs=0000             efl=00000246
+ntdll!DbgBreakPoint:
+7c90120e cc              int     3
+0:004> !logexts.logd
+Logging disabled.
+0:004> .detach
+Detached
+```
+
+Depois de gerarmos o que precisamos, podemos desatachar do processo e analisar o resultado: **um arquivo LGV**. Para abrir esse arquivo existe uma outra ferramenta chamada **logviewer**.
+
+{{< image src="fNq4uUu.png" caption="" >}}
+
+Para evitar procurar em dezenas de milhares de chamadas, há uma opção de filtrar com apenas o que queremos (no caso, CreateFile e WriteFile):
+
+{{< image src="sgCO9Wj.png" caption="" >}}
+
+Depois de filtrado, podemos abrir a linha que nos interessa para ver como o programa utilizou a API (quais parâmetros, o retorno, etc).
+
+{{< image src="mNDJRhK.png" caption="" >}}
+
+Note, por exemplo, que houve uma falha antes na abertura do mesmo arquivo, mas isso porque houve uma tentativa de abrir um arquivo que já existe (abertura com direito de apenas leitura). Essa chamada foi feita pela DLL do diálogo comum de abertura/salvamento de arquivo do Windows (**comdlg32.dll**), e não pelo **notepad.exe**.
+
+{{< image src="p2bgEl2.png" caption="" >}}
+
+Como já havia dito no artigo original sobre o logview, você pode criar seu próprio header com as definições das funções de um módulo e o WinDbg graciosamente irá gerar um log de chamadas, incluindo medidas de performance. Esses dados abertos pelo logviewer podem ser exportados também para modo texto. E temos mais uma maneira de perfcounter chulé para eventualidades.
+
+[muito tempo atrás]: {{< relref "introducao-ao-debugging-tools-for-windows" >}}
 

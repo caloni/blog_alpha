@@ -1,10 +1,10 @@
 ---
 categories:
 - writting
-date: '2016-05-12'
+date: '2016-05-07'
 tags:
 - food
-title: Magnesia Öküzgözü
+title: Magnesia Kalecik Karasi
 ---
 
 Fácil demais de beber. Bom para visitas.

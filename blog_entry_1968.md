@@ -1,22 +1,31 @@
 ---
 categories:
 - writting
-date: '2015-11-22'
-link: https://www.imdb.com/title/tt1951266
+date: '2012-04-01'
+link: https://www.imdb.com/title/tt1392170
 tags:
 - movies
-title: 'Jogos Vorazes: A Esperança - O Final'
+title: Jogos Vorazes
 ---
 
-Se pudesse resumir com uma palavra não apenas a parte final, mas a saga de quatro filmes baseados nos livros de Suzanne Collins, eu diria que "corajoso" é uma escolha interessante, embora incompleta. Ser corajoso brincando com a noção de poder estatal hoje em dia parece ser chover no molhado, mas é preciso lembrar que o último livro foi lançado em 2010, e em cinco anos muitos detalhes do jogo político do livro foram apreendidos por jovens leitores, além de ser intensificado o debate nas correntes underground desse tipo de discussão. Sim, ser corajoso pertence à lista de motivações literárias de Collins, mas mais do que isso, entender as mudanças em torno da crise de 2008 e se debruçar como realmente funciona o jogo político há milhares de anos é o que torna Jogos Vorazes: a Coleção, como um guia completo de como o governo engana todos seus súditos pelo poder eterno de exploração.
+Há ótimas ideias em Jogos Vorazes, produção baseada no romance homônimo de Suzanne Collins (que também participa do roteiro) e que deve ser o primeiro de uma trilogia. Ambientado em um mundo futurista, mas devidamente verossímil, apresenta a delicada situação de 12 distritos que, após perderem uma tentativa de revolução contra o governo dominante, se veem sujeitos a sacrificar um casal de jovens anualmente em uma batalha por sobrevivência em uma floresta "criada" de maneira inóspita cujo objetivo é condecorar o último ser humano que restar.
 
-Mais uma vez dirigido pelo competente Francis Lawrence, o roteiro Peter Craig e Danny Strong feito em cima da adaptação da própria Collins parece gritar aos quatro ventos que todos os peões envolvidos na batalha final são exatamente o que são, e que seus símbolos de coragem e rebeldia são peões pintados de dourado. O próprio dourado do símbolo do Tordo aqui parece apropriado, assim como é apropriado que o "traidor" Peeta fira Katniss justamente em sua garganta, afetando temporariamente sua capacidade de falar, a primeira cena dessa segunda parte.
+Acompanhamos essa história através dos olhos de Katniss Everdeen (Jennifer Lawrence, vinda dos ótimos [Inverno da Alma] e [X-Men: Primeira Classe]), uma moradora do Distrito 12 junto com sua irmã caçula e sua ausente mãe. A história dessa família e dos próprios distritos são apresentados en passant, pois o filme foca mais em descrever a vida dos organizadores dos jogos do título, e como isso destoa completamente da visão dos jovens sequestrados para essa diversão alheia.
 
-Acertadamente se concentrando mais nos diálogos e usando a ação como catalisador disso tudo, "Jogos Vorazes - O Final" se torna realmente corajoso em apostar em um ritmo muito mais lento que os seus anteriores, mas com a vantagem de soar infinitamente mais ambicioso em suas pretensões alegóricas. Se você espera uma batalha grandiosa, não entre na sala de cinema, a não ser que essa batalha que espera esteja na mente de seus idealizadores. Quase roubando a cena está o jogo de cena que se desenvolve fora dos campos de batalha, entre a ambiguidade dos atos e a necessidade de acreditarmos em um lado para poder lutar.
+E não há o que reclamar: o design de arte da produção é detalhista em tornar aquele mundo tão fascinante quanto impessoal. Note os largos aposentos (como o quarto de Katniss) sendo usados meramente como artefatos de exibição do poder que é exercido por aquelas pessoas.
 
-Tecnicamente irrepreensível -- se você perdoar o uso excessivo de efeitos digitais -- o filme continua mantendo o tom fantasioso e ao mesmo tempo realista de Panem. Dessa forma, as estratégias dos rebeldes para avançar em direção à Capital é sóbria, e irá lembrar momentos pontuais de obras mais ambiciosas como Senhor dos Anéis, Star Wars e até mesmo Matrix: Revolution. Porém, como já disse, o campo de batalha mais interessante está, como sempre, no marketing, e esse existe ferozmente em tempos de guerra. Ainda que seja pouco visto de baixo, os melhores momentos passam nas pequenas telas em torno dos escombros das cidades, ainda exibindo as transmissões de governantes e inimigos.
+Ainda que o foco da história fosse justamente os tais jogos é o acompanhamento deles pelos que estão de fora que se torna mais interessante no decorrer da jornada, como podemos notar pelo dramático momento da morte de um personagem que gera uma comoção popular que não apenas enriquece a trama como dá pistas do que pode acontecer nos [próximos] [filmes].
 
-Não espere muita ação em Jogos Vorazes: o Final, mas quando ele acontece, choca e convence. Pior do que isso, porém, é a "batalha" final, com um clímax que choca tanto que fica difícil acreditar qual dos lados tomaria uma decisão dessas. A direção de Lawrence é importante justamente nesses longos segundos, onde bombas, confusão e tiros se confundem em uma multidão tentando se salvar. A câmera em punho mantém um clima de desorientação extremamente eficaz. As cores drenadas das vestes dos habitantes da Capital simbolizam a quase-miséria que Panem se transformou.
+O jogo da manipulação da mente, cada vez mais fraca.
 
-Concluindo com chave de ouro uma saga que tinha tudo para se transformar em um romance bobo que envolve um trio amoroso (estou olhando para você, "saga" Crepúsculo), essa é uma franquia, assim como seu último roteiro, marcada para vencer. Sua materialização em forma audio-visual apenas deve ressaltar o interesse de cinéfilos-leitores de ler a obra original. Mas como cinéfilo apenas, é uma obra inestimável para os tempos atuais, não tão sombrios como em Panem, mas com ideias tão horríveis quanto as ideias de seus governantes, especialistas em marketing, psicopatas disfarçados de vontade divina (ou democrática).
+Como é triste quando a humanidade se perde em criar jogos onde nossos jovens são assassinados brutalmente, e quando esses homicídios são festejados como troféus. Triste quando isso é televisionado, controlado e manipulado de tantas formas que não existe algo que possamos fazer. Triste saber que a audiência para esses programas sobe cada vez mais, e a personalidade do ser humano cada vez mais decai ao nível de mediocridade e auto-flagelo de nosso potencial criativo.
+
+Triste saber que o único motivo de existência de muitas pessoas é conseguir ver o final do capítulo a tempo, e saber quem ganhou, quem foi o vencedor do jogo da manipulação.
+
+Feliz fico com o fato de tudo ser um filme, fruto da imaginação de produtores e que não existem coincidências com a vida real. Certo?
+
+[Inverno da Alma]: {{< relref "inverno-da-alma" >}}
+[X-Men: Primeira Classe]: {{< relref "x-men-primeira-classe" >}}
+[filmes]: {{< relref "jogos-vorazes-a-esperanca-parte-1" >}}
+[próximos]: {{< relref "jogos-vorazes-em-chamas" >}}
 

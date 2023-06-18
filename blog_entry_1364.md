@@ -1,15 +1,20 @@
 ---
 
-O conto de fadas dos motoqueiros liberais americanos que se meteram em negócios com drogas nos estados americanos conservadores. Um Thelma e Louise masculino. Produzido e atuado por Peter Fonda, escrito e atuado por Dennis Hopper, este road movie independente de baixo orçamento apresenta "lindas paisagens" do deserto americano e se leva a sério demais, em uma ode aos tempos simples, que nunca existiram, em que os homens deixavam de brigar por dinheiro, ou o que quer que existisse na época, seja poder ou valores morais.
+Easy é uma série muito interessante da Netflix. Ela explora os relacionamentos mostrando como eles, na verdade, são bem mais simples do que a esmagadora maioria das pessoas pensa que é. Todo o drama, as complicações, a falta de comunicação é traduzida em uma linguagem simples, de São Francisco, que envolve diferentes tipos de casais (ou outros) em diferentes tipos de situações. Seus pontos em comum? Tentar complicar o que é muito, muito simples.
 
-"Eles falam e falam sobre liberdade individual, mas quando vêem um indivíduo livre como você morrem de medo." Uma das melhores falas do filme é de Jack Nicholson, em rápida participação. Ele será morto a pauladas por red necks e os outros dois não conseguirão sair da última cidade que ousaram passar com seus longos cabelos. Apesar de ostentar a bandeira americana cabelos longos são demais para essas mentes atrasadas do sul.
+A série dirigida e escrita por Joe Swanberg (que também faz parte da edição) mantém um formato interessante, que não se rende ao cômico demais, nem ao dramático demais. É naturalista em explorar uma mini-história em um micro-cosmos de meia-hora. Se sai maravilhosamente bem. Uma outra série feita na mesma época, Midnight Diner: Tokyo Stories, parece ser seu "primo gêmeo" (só diferenciando pelo foco nas histórias, sua resolução, e o abismo cultural entre o Japão e a Califórnia.
 
-Em cada cenário uma música nova. Em cada cena há tanta naturalidade que não existe roteiro. Este é um filme dirigido sem pressão, ao ponto de não nos importarmos com ele. Também não compramos a briga na história. Deixem o Fonda se divertir com seu filminho de férias. Os ricos também podem sonhar. Essa viagem lúdica e subjetiva você tem que sentir para entender. Pegue, fume um pouquinho este que eu enrolei. E viva a "liberdade".
+Não há atuações de destaque, mas há personagem carismáticos. E para isso o elenco dá conta perfeitamente. A série apela para a vanguarda artística de esquerda, mas nem por isso se torna politicamente correta no nível insuportável. É algo muito menos apelativo que isso.
+
+Tome o episódio da vegana (o segundo), por exemplo. Ele trata da dieta da namorada de uma pessoa completamente diferente em costumes de uma maneira como se fosse um detalhe a influenciar o relacionamento entre elas, e não uma ode ao veganismo. Da mesma forma o próximo episódio destila o veneno em cima de esposas grávidas chatas, mas entende as complicações da vida real, sem tentar minimizá-las. A série só quer explicar como as coisas podem ser mais simples do que parecem em um diálogo simples, direto e charmoso (a trilha sonora é particularmente fraca, mas agradável).
+
+E com esse objetivo, é uma ótima pedida.
 
 ---
 categories:
-- reading
-date: '2019-09-08'
+- writting
+date: '2020-06-01'
+link: https://www.imdb.com/title/tt0064276
 tags:
-- quotes
-title: Eckhart Tolle
+- movies
+title: Easy Rider

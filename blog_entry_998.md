@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-07-07'
+date: '2018-08-09'
 tags:
 - beer
-title: Colorado Murica
+title: Colorado Ithaca
 ---
 
-Assim como o Colorado Murica, que tem um creme aromático e um sabor igualmente cítrico, mas mais frutado, pois vem da graviola. É mais um dos experimentos da cervejaria do urso com frutas. Dessa vez a escolhida é a graviola, e, rapaz, o Sr. Laércio Shiya, Mestre Cervejeiro desde sempre, sabe fazer as coisas bem feitas em pequena e grande escala.
+É selada com um material plástico/borracha vermelho e uma produção limitada e inacessível nos grandes mercados. Ela é preta, densa, intomável em vários goles (tente para ver como estragar uma garrafa). O sabor de rapadura se mistura com o lúpulo agressivo, e a bebida merece o mais forte e gorduroso dos pratos com louvor.
 

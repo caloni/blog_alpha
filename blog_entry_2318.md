@@ -1,16 +1,20 @@
 ---
 categories:
-- coding
-date: '2018-08-21'
-link: https://gist.github.com/Caloni/5b9ccc66722a1b235f4aab8251822cdb
+- writting
+date: '2019-04-15'
+link: https://www.imdb.com/title/tt6789126
 tags:
-- ccpp
-title: Meu Novo Parseador de Argc Argv
+- movies
+title: Meu Nome Não é Ruben Blades
 ---
 
-Eis que me deparo com um projeto onde não posso usar STL. Ou seja, nada de map nem string. Isso quer dizer que minha função bonita e completa de parseamento de argumentos argc/argv não pode ser usado. Essa é uma má notícia. A boa notícia é que achei uma forma muito mais simples e à prova de falhas de fazer isso. Ele basicamente percorre o array argv em busca do nome do parâmetro enviado para a função. Uma vez que ele encontre ele retorna o próximo elemento. Na falta de próximo elemento ele simplesmente retorna uma string vazia que não é nulo, mas já indica que há o parâmetro na lista de argumento.
+Rubén Blades é o cantor mais famoso do Panamá. Também já fez pontas de ator em Hollywood, se candidatou a presidente (foi nomeado ministro), faz ataques ferrenhos ao imperialismo americano enquanto mora em Nova York e defende o povo enquanto bebe água Perrier em seus shows. Ou seja, um membro da esquerda caviar básico. Isso tudo você aprende neste burocrático documentário.
 
-Essa função é tão simples, e tem tão poucas dependências (strcmp) que você pode usá-la em praticamente qualquer programa que use argc/argv e que use os parâmetros dos mais complexos. Ao chamar essa função se passa o argc e o argv recebido no main e o terceiro argumento é apenas o nome de um argumento válido que pode ser recebido via linha de comando. O resultado é um ponteiro (obtido no próprio argv) da próxima string ou uma string C vazia constante (não precisa de alocação) se for o último argv. E caso ele não ache o retorno é NULL. Seu uso comum é uma linha apenas, ou uma linha para cada argumento buscado. Sua complexidade é linear, mas, ei, quem está querendo performance no início do programa?
+O diretor e roteirista panamenho Abner Benaim precisa de um motivo para filmar esta produção patrocinada pelo governo argentino. Então ele usa o populismo das massas e mostra diversos shows lotados do cantor mais famoso do seu país. Abner Benaim parece gente boa olhando de longe, além de visivelmente inteligente.
 
-Uma última observação: dependendo do uso você pode ou não usar o retorno, e ele possui semântica booleana, pois caso o argumento não exista o retorno é NULL e por isso não cai dentro do if (pois NULL traduzido em booleano é false). Eis uma função para copiar e colar abusivamente.
+Mas sabemos menos sobre a celebridade do que a pessoa. Contado como se todos já soubessem quem é o cantor de salsa, "Meu Nome Não é..." parte da base de fãs para um trabalho correto que apenas diz mais do mesmo para quem já o conhece e não diz muita coisa para quem ainda não é fã (e provavelmente nunca será, pois o filme não instiga a curiosidade).
+
+De qualquer forma, quando o filme trata de reviver alguns momentos pessoais da vida do cantor o filme se torna um pouco mais interessante, mas ainda assim uma incógnita. Para que ele foi feito? Como uma simples homenagem em vida? Não é um filme provocante, pois não apresenta nada de novo. Também não é um filme debate, pois apenas apresenta um ponto de vista.
+
+Sem saber direito por que fazem filmes sobre a vida das pessoas sem oferecer nada em troca (exceto ganhar um dinheirinho estatal), este filme com nome clichê é documentário clichê que passa como um episódio de tv. Da TV panamenha.
 

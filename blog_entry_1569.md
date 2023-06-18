@@ -1,14 +1,12 @@
 ---
 categories:
 - writting
-date: '2020-06-13'
-link: https://www.coffeehunter.com/the-coffee/fazenda-sao-joao-2/
+date: '2020-08-10'
+link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-sao-francisco/
 tags:
 - coffee
-title: Fazenda São João (Produtor Osvaldo Bachião, Nova Rezende, Sul de Minas)
+title: Fazenda São Francisco
 ---
 
-- 2021-05-15 Frutado maduro e tânico, esse Bourbon faz um belo corpo com poucos grãos. Sua persistência é perene; minutos depois do último gole ainda fica a sensação de um ótimo café.
-
- - 2020-05-13 A torra foi feita na quinta, quarto dia de junho, e eu recebi na noite de segunda e foi o café da manhã da terça. Moído na hora para coado, vinte e poucos gramas, e passado na Aeopress com cerca de um minuto de infusão, seguindo da já tradicional virada antes de abaixar o êmbolo, este café ultra-fresco trouxe para mim, diferente de sua ficha, notas cítricas, lembrando limão. O sabor com certeza é tânico, algo que adoro e que me traz um vício desgraçado. O amargor desta torra média é equilibrado e seu corpo é quase médio.
+Esse café tem um frescor que não sei se onde vem. Seu corpo é leve, mas o sabor é mais complexo, com notas cítricas, frutadas, misturadas com um levíssimo amargor típico de um café potente. A acidez é quase inexistente, se transformando em uma bebida viciante, onde uma caneca matinal de 300ml já não são mais suficientes.
 

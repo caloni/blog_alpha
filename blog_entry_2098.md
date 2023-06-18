@@ -1,20 +1,25 @@
 ---
 categories:
 - writting
-date: '2015-03-22'
-link: https://www.imdb.com/title/tt2382298
+date: '2017-02-25'
+link: https://www.imdb.com/title/tt3917210
 tags:
+- cinemaqui
 - movies
-title: Life Itself - A Vida de Roger Ebert
+title: Life, Animated
 ---
 
-Life Itself é uma experiência divertida e monótona ao mesmo tempo. Divertida porque acompanhamos a vida de Rober Ebert -- um dos críticos mais famosos e conceituados no mundo, falecido em 2013 -- desde quando começou a escrever. E o sujeito era um... como dizer isso sem soar xulo? Porra-louca. Estava sempre no bar, saía com mulheres não-convencionais na maioria das vezes, e virou um alcóolatra crônico. Ou seja: o estereótipo de um escritor bem-sucedido.
+O documentário "Life, Animated" conta a incrível história de Owen Suskind, diagnosticado como autista aos três anos de idade, incapaz de falar e de ações motoras minimamente coesas e que através dos filmes da Disney abriu um portal surpreendente de comunicação com o mundo externo. Apenas por esta premissa este filme vale cada segundo de nossa atenção.
 
-A parte monótona são as inúmeras tentativas, na maioria das vezes frustradas, do diretor Steve James tentar entender a partir de testemunhos de seus amigos, conhecidos e colegas de serviço quem era o profissional Roger Ebert. Sem ter um roteiro definido, Steve começa a filmar quando Ebert já está internado pela sexta vez em decorrência de complicações do tratamento de um câncer. Sabemos que não há muito tempo, então a câmera apressadamente dá seus pulos para o passado, mas logo volta para o iminente presente e suas consequências. A impressão geral é a de que não faz sentido um filme sobre um crítico de Cinema, e que agora é tarde demais.
+E por quê? Simplesmente porque hoje o mundo enfrenta um desafio global intransponível. Estamos cada vez mais conectados e paradoxalmente desconectados. A comunicação não é mais um desafio tecnológico, mas fundamentalmente humano. E conseguir trazer os autistas para mais perto de nossa tribo mundial está entre um dos objetivos mais nobres e úteis para a sociedade.
 
-Por que não faz sentido um filme sobre um crítico? Porque críticos no mundo real são irrelevantes. Tudo o que poderíamos sugar da mentalidade de um crítico está em suas palavras já ditas ou escritas. Acompanhamos pequenas passagens de seu livro auto-biográfico que dá nome ao filme e pequenas passagens em suas críticas dos filmes mais conhecidos. Vemos o crítico na televisão com seu companheiro de longa data -- também crítico -- Gene Siskel. Juntos eles conseguiram popularizar a crítica cinematográfica nos mesmos moldes da lendária Pauline Kael (embora Kael, na visão do documentário, e apesar de seus textos fluidos e de fácil assimilação, fosse articulada demais para se auto-denominar popular). Claro, televisão aberta é a coisa mais popular onde poderemos encontrar dois críticos de Cinema falando das estreias da semana. O fato de ambos serem dois dos melhores críticos norte-americanos ressalta o enorme abismo entre arte e entretenimento que os dois tentaram diminuir por duas décadas.
+Owen é um caso a ser estudado, um exemplo de como a atenção e carinho de pessoas próximas aos autistas -- no caso, os pais -- conseguiu ser a diferença mínima que alterou profundamente seu futuro.
 
-O que é fascinante em Life Itself é perceber as tentativas de Ebert em se aproximar da sétima arte e aproximá-la do público e dos próprios artistas. Dessa forma o vemos formando laços de amizade com cineastas conhecidos e amadores (incluindo um certo Martin Scorsese), realizando eventos onde as pessoas iam assistir filmes para analisá-los quadro-a-quadro e, por fim, escrevendo um blogue freneticamente em seus últimos anos de vida.
+E isso, infelizmente, o documentário não torna um de seus pilares. Ele prefere o caminho fácil de uma história emocionante: deixe as pessoas falarem, se emocionarem. Use uma narrativa simplista, pavimentada de desenhos que ilustrem o que se passa pela cabeça de Owen. Com isso o filme se rebaixa ao seu nível, e não permite que haja nada mais na história que a pequena introdução que fiz. Essa introdução -- autista usa Disney para se comunicar -- é repetido à exaustão sem acrescentar nada mais. Acompanhamos Owen se formar no colégio, ir morar sozinho, dar um discurso na França e ser aplaudido copiosamente, e nada disso sequer se compara à grande conquista daquela família, que já havia perdido as esperanças quando Owen fez três anos de idade.
 
-Aliás, um blogue é o sinal de que os tempos estão mudando mais uma vez. Se beneficiando imensamente do seu terceiro ato impecável, o documentário expõe a construção do novo saite Roger Ebert.com e a criação de uma equipe de colaboradores que irá manter viva a imagem das dezenas de críticas que eram publicadas por mês pelo próprio Ebert por muito tempo. A popularização da conversa sobre filmes na blogosfera é o que me trás a escrever em meu próprio blogue. A cada dia mais pessoas contribuem para aumentar esse coro que deseja muito mais do que "se sentir bem com um filme". Queremos esmiuçar do que ele é feito, como é possível que obras se mantenham novas ainda depois de séculos de existência. O que há do outro lado? Talvez a história de um velho crítico não seja de fato muito relevante, mas sim a história do que a crítica por ele construída gerou ao redor do mundo.
+A narrativa conduzida pelo diretor Roger Ross Williams baseado em um livro escrito pelo pai de Owen nunca surpreende, sendo uma sucessão de pequenas reportagens televisivas esteticamente enfadonhas, burocráticas e repetitivas. Lá vem mais um desenho que irá mostrar o que Owen está pensando. Agora Owen está caminhando na praia com o irmão. Agora os pais vão contar mais um detalhe irrelevante e a mãe irá escorrer mais uma lágrima.
+
+Sem qualquer paixão pelo projeto, os cineastas andam à deriva e possuem menos senso crítico do que o próprio Owen desenvolveu. Em certo momento há um revés inesperado na vida do jovem, que é tratado como um desastre pela família, uma calamidade, e que logo é racionalizado pelo próprio Owen. Não há drama na história exceto o forçado artificialmente pelo filme, que insiste em sua premissa por cansativos 90 minutos.
+
+Certamente há algo a se aprender com os autistas. Isso já está claro para o mundo e Owen é um brilhante exemplo. Porém, não é se colocando em seu próprio nível histérico de enxergar a realidade ou superestimar suas capacidades que os objetivos de comunicação com essas pessoas especiais e dignas de cuidado serão alcançados. Certamente não com um filme que emula o pior na Disney: suas esquisitices assépticas e simplificadas de como a vida funciona.
 

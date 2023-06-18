@@ -1,21 +1,20 @@
 ---
 categories:
 - writting
-date: '2019-10-26'
+date: '2016-01-04'
+link: https://www.imdb.com/title/tt0119528
 tags:
-- cinemaqui
-- mostra
 - movies
-title: O Mês Que Não Terminou
+title: O Mentiroso
 ---
 
-Entre as dezenas de documentários que surgiram sobre o momento político do Brasil, "O Mês Que Não Terminou" é finalmente o que entendeu a maior dificuldade em traduzir esse momento para os dois lados que o país se dividiu: empatia.
+Jim Carrey é um comediante tão talentoso que, se inserido no projeto certo, pode render um filme que sem ele seria apenas um passatempo da sessão da tarde, mas com ele ganha contornos cartunescos que remetem o significado da história que acompanhamos para algo além do trivial.
 
-Os cineastas Francisco Bosco e Raul Mourão conseguiram unir racional e emocionamente a dupla narrativa que evoluiu de maneira paralela e interdependente nos últimos anos no Brasil, as chamadas esquerda e direita. Se até o momento o que havia surgido nos cinemas brasileiros foram tentativas infrutíferas de tentar defender esse ou aquele lado (e não irei aqui dizer quem é esse nem quem é aquele lado), o trabalho de Bosco/Mourão pega nas mãos das duras frentes e ensina uma à outra o caminho da compreensão: ouvir o outro lado.
+É assim com O Mentiroso, a fábula que envolve um pai separado que não consegue parar de mentir no emprego de advogado e para seu filho, o desapontando frequentemente, até que um pedido mágico do garoto faz com que ele não consiga mais mentir por um dia inteiro, o que vira um desastre por ser justo no dia em que, colocado à prova para entrar em sociedade no escritório onde trabalha, ele irá defender uma cliente baseado em mentiras.
 
-Com o pano de fundo da narração de Fernanda Torres de um texto milimetricamente ancorado em uma fala sóbria e equilibrada, vamos acompanhando a história recente do Brasil através de gravações de protestos e imagens de notícias e pessoas ligadas a esta história. Economistas, cientistas políticos e psicanalistas (?) são chamados para amparar a argumentação de ambos os lados para cada evento significativo. Há uma tentativa honesta de explicar um fenômeno pra lá de complexo.
+Dirigido por um improvável Tom Shadyac (Todo Poderoso? Patch Adams??), o filme é um quê de grandiosidade, como podemos perceber pelas tomadas criativas de Shadyac, que usa uma sequência hilária de tomadas na cena mais engraçada da trama -- em que Jim Carrey tenta dizer que uma caneta azul é vermelha -- além de uma trilha sonora (John Debney) que remete diretamente a comédias épicas como Esqueceram de Mim.
 
-Sua introdução é instrumental pelo tom de baixar as armas e dar créditos a ambos os lados por explicações válidas para a realidade que vivemos, seja no âmbito econômico ou social. É apenas a partir desse cessar fogo que o filme se faz possível, e explicações mais elaboradas começam a ganhar corpo, e o espectador tem a chance de poder entender não apenas o lado que ele defende, mas principalmente o outro.
+O pior é que com as caretas de Jim Carrey toda essa grandiosidade funciona, e na maior parte do tempo nos convence de que esta é uma história de proporções épicas, pois o que está em jogo é a felicidade de uma criança e um sucesso de um pai em sua tentativa de ser honesto com seu filho. Percebemos isso nos momentos mais sóbrios e tocantes, quando o vemos surpreso por dizer que quer o melhor para seu filho e constata que essa é uma verdade fácil de ser dita.
 
-"O Mês Que Não Terminou" é mais do que focar no equilíbrio de opiniões. É um mergulho intelectual denso que busca iluminar os obstáculos que vivemos hoje para a compreensão do outro, e assim, quem sabe, podermos finalmente darmos as mãos novamente, e retomar aquela amizade perdida por briga de política.
+Apelando sempre para o emocional, porém, o filme tem seus defeitos também no exagero, e tentar nos manipular com uma criança não parece ser a melhor maneira de ganhar a empatia do público. Felizmente, o resultado é mais pastelão do que lenços de papel.
 

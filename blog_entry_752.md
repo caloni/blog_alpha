@@ -1,51 +1,30 @@
 ---
 categories:
 - writting
-date: '2016-07-16T20:50:00-03:00'
+date: '2016-07-16T20:40:00-03:00'
 link: https://www.imdb.com/title/tt0903747
 tags:
 - series
-title: Breaking Bad - Quinta Temporada
+title: Breaking Bad - Quarta Temporada
 ---
 
-Assim como Tropa de Elite (1 e 2), Breaking Bad tem seu próprio arsenal para o campeonato de frases famosas dita ao longo da série. Cada temporada apresenta pelo menos uma, de "I am the Danger" a "Say My Name" até para frases que não são particularmente brilhantes, mas fecham diálogos memoráveis como uma cereja no bolo. Muitas dessas frases são ditas pelo protagonista interpretado por Bryan Cranston, mas eu diria que há uma bela de uma competição entre todos os inesquecíveis personagens.
+A saga de Vince Gilligan continua soando como um mini-manifesto libertário, mas agora ao mesmo tempo resolve discutir moral através de múltiplas ações de múltiplos personagens. Enquanto Skyler começa a se envolver nos planos de Walt, a questão sobre o que é certo e errado entra em conflito com o que é legal e ilegal. Durante toda a temporada, um cigarro (legal) é carregado por Jesse em seus inúmeros maços; o que esse cigarro contém de especial é uma outra substância escondida (ilegal) que pode ser usada para envenenar uma pessoa. Essa substância foi produzida sem a necessidade de ferir ninguém, e envenenar alguém seria uma ação necessária caso houvesse algum risco de vida das pessoas envolvidas, por causa da produção de uma terceira substância cuja produção também é ilegal, e combatida através de bilhões de dólares queimados pelo governo em uma guerra informal.
 
-Apesar de gostar muito de várias das frases do "químico do mal", arrisco dizer que de todas ditas ao longo da série, possuo duas favoritas, e a primeira não é de Walter White, mas de um outro personagem: "You're the smartest guy I ever met... but you're too stupid to see... He made up his mind ten minutes ago." ("Você é o cara mais esperto que eu já conheci... mas você é estúpido demais para perceber... que ele já decidiu o que fazer há dez minutos atrás.").
+O final da terceira temporada de Breaking Bad termina com um assassinato. Um inesperado, apressado assassinato. O começo da quarta, portanto, realiza o mesmo ato. Porém, aqui, há um significado mais profundo, mais obscuro e mais metafórico. Ele tem a dizer sobre quem está no controle, e o quanto este alguém possui de controle sobre os outros. Ele incute na mente de Walter White, uma mente cujo cérebro, desconfiamos, está sofrente um processo químico que pode ou não alterar sua percepção da realidade e sua própria personalidade. Isso já fica claro na temporada anterior, mas nessa temporada ainda temos mais um apelo (o genético). No fundo, a maior virtude da série não se mantém apenas no espectro político da coisa, mas no humano, especialmente no filosófico: somos donos de nossas próprias ações, ou a influência do ambiente (e da genética, e das doenças ou de qualquer mudança química) exerce um poder quase que sobrenatural para nossas decisões do dia-a-dia?
 
-Essa frase pertence ao início do episódio mais perfeito de toda a saga. O antepenúltimo da quinta temporada, entitulado Ozymandias. O nome vem do grego e diz respeito ao faraó egípcio Ramsés II. É o título de um soneto do poeta Percy Bysshe Shelley, composto junto com a chegada de fragmentos da pirâmide onde o faraó foi enterrado em um museu britânico. Shelly escreveu:
+Das frases marcantes, há várias, mas é mais uma vez da boca de Bryan Cranston que saem duas, em sequências: "I am the danger" ("eu sou o perigo") e "I am the one who knocks" ("sou que que bate à porta") faz parte de um dos melhores diálogos da série entre Walt e Skyler, pertencente a um excelente episódio do diretor de fotografia da série, Michael Slovis, "Cornered".
 
->
-> I met a traveller from an antique land
-> Who said: "Two vast and trunkless legs of stone
-> Stand in the desert. Near them, on the sand,
-> Half sunk, a shattered visage lies, whose frown,
-> And wrinkled lip, and sneer of cold command,
-> Tell that its sculptor well those passions read
-> Which yet survive, stamped on these lifeless things,
-> The hand that mocked them and the heart that fed:
-> And on the pedestal these words appear:
-> 'My name is Ozymandias, king of kings:
-> Look on my works, ye Mighty, and despair!'
-> Nothing beside remains. Round the decay
-> Of that colossal wreck, boundless and bare
-> The lone and level sands stretch far away."
->
+Mas nada poderia ser mais marcante entre os personagens secundários do que a determinação e a astúcia da investigação a distância que Hank (Dean Norris) realiza a respeito das ligações entre o cartel de drogas, Gus Fring, a empresa alemã Madrigal e um inofensivo químico assassinado. E é aqui que aparece o caderno de anotações com uma dedicatória a "W.W." (com direito a mais um ótimo diálogo entre Hank e Walter, quanto este apresenta pela primeira vez esta pista).
 
-A história tem a ver em como os maiores feitos dos maiores reis, imperadores e etc de toda a humanidade eventualmente irão virar pó, serem esquecidos, conforme o nível de areia vai os encobrindo. Sim, esse é o episódio-queda de Heisenberg, e assim como o final da quarta temporada, é mais um ponto de escape perfeito para a série.
+Dessa vez fico em dúvida sobre qual sequência de ação poderia figurar entre as melhores. Temos um tiroteio à distância iniciada por snipers em "Problem Dog" (Peter Gould, um diretor também de Better Call Saul), mas também temos outros dois momentos icônicos, que engrandecem a figura de Gus Fring. A primeira, localizada no distante ano de 1989, aprendemos, como já havíamos desconfiado, de onde veio o conhecimento de química que possibilitou Gus de iniciar seu império nos negócios ("Hermanos"). Com a direção de Johan Renck, este é um momento icônico para o personagem.
 
-Já que, depois de Ozymandias, há ainda mais dois episódios, que fecham um arco lindo, tanto com o início da temporada quanto com o início da série. Resolve todas as questões pendentes e faz Bryan Cranston ganhar fácil o Globo de Ouro daquele ano (depois de ter sido indicado nos três anos anteriores, sem contar os cinco Emmys).
+A segunda merece um novo parágrafo para descrever, pois faz parte dos quatro últimos episódios da temporada, que devem ser assistidos obrigatoriamente em sequência, sem parar. Ele é um filme de 3 horas em um universo criado com maestria por Gilligan. Sua primeira parte, "Salud", é dirigida por ninguém menos que Michelle MacLaren, a especialista em cenas de ação, e que aqui não perde um segundo dos detalhes envolvendo a visita de Mike, Gus e Jesse ao Cartel, até sua derradeira sequência.
 
-A questão é que, repetindo o feito na temporada anterior, de "To'hajiilee" a "Felina", temos um filme composto de quatro episódios indispensáveis de serem assistidos mais de uma vez pelos fãs da série. Mais uma vez um roteiro primoso e direções inspiradas arrebatam todo aquele universo tão bem criado por Vinge Gilligam e o elevam a patamar de sétima arte.
+No entanto, é Scott Winant que a continua em "Crawl Space", em um dos dois episódios que dirigiu na série. Esse é o momento em que a trama fica mais séria e obscura, e onde diferentes personagens se cruzam em um emaranhado de interesses difíceis de se conciliarem. Há um momento em particular em que a direção de Winant atinge um perfeccionismo emocionante. É uma cena no deserto, vemos os personagens de longe, a paisagem ao fundo. Eles estão longe, mas o ouvimos falar. Uma nuvem passa por eles exatamente durante esse momento, e as pedras do deserto brilhante por um breve momento se tornam escuras, opacas, sem brilho.
 
-O último episódio possui a segunda das duas minhas frases favoritas, essa de Walter White: "I did it for me" ("eu fiz por mim mesmo"). Esse é o insumo, a inevitável catarse, de um personagem cuja curva passou não apenas moralmente, mas quimicamente, de um inocente professor de química para o maior gênio do "crime" de produzir drogas.
+Por fim, é Vince Gilligan em pessoa que desfaz todo esse clima tenso utilizando sua comédia tão atípica em momentos pontuais que concluem a trama na sequência de "End Times" e "Face Off". Com a participação mais que especial de Mark Margolis como Tio Salamanca, ele protagoniza um momento impagável na sala da DEA, um momento construído com toda a calma do mundo em três sequências. "Face Off", é preciso dizer, é um dos melhores episódios de toda a série e um dos melhores momentos no Cinema dessa década, mesmo se tratando de um episódio de televisão.
 
-Porém, a quinta temporada não se resume aos quatro últimos episódios, mas mantém sua qualidade do início ao fim. Aliás, o primeiro episódio, "Live Free or Die", é uma distante chamada a um cliffhanger no final da série, já revelando alguns pedaços de informação a respeito do segundo aniversário de W.W. na história. Ou seja, desde a primeira até o início da quinta temporada, se passou basicamente um ano. Da quinta até seu final, um outro ano inteiro. (E a noção do tempo é perfeitamente marcada nos dois últimos episódios.)
+Aos poucos percebemos que as temporadas de Breaking Bad se assemelham muito em seus temas centrais, mas vão aumentando de intensidade conforme avançam para o final. Essa quarta, em específico, consegue ser ainda mais obscura que a terceira, engrandecer seus assuntos conforme eles vão ficando mais sérios (e os personagens acabam se envolvendo freneticamente em sua resolução) e ainda oferece um desfecho absolutamente irrepreensível, se a série quisesse terminar por aqui.
 
-Já "Madrigal", o segundo episódio, revela mais do que desconfiávamos: Gus Fring é a ponta do iceberg. Conseguindo demonstrar com maestria como a indústria das drogas, graças à recompensa, se estrutura de maneira muito superior a qualquer tentativa de ataque do Estado, acaba revelando um óbvio de toda a série, até então escondida na entrelinhas: os personagens que vivem disso, quando estão vivos por muito tempo, são muito bons no que fazem.
-
-O que nos leva a talvez o policial da narcóticos mais competente, ou empenhado, em desmembrar a operação Heisenberg. Hank Schrader (Dean Norris) já tem motivação o suficiente para não largar o caso que quase deu fim à sua vida duas vezes, mas irá precisar do dobro para levar a fim sua investigação na segunda metade da temporada, quando, exatamente no meio, e exatamente no banheiro do seu inimigo, este contempla a peça final de seu quebra-cabeças, que lá estava o tempo todo, mas que nunca seria descoberto por outra pessoa senão ele.
-
-A sua descoberta e sua ação em seguida significaria o fim tanto de sua carreira quanto a de seu cunhado (isso para não falar da família). É uma decisão difícil e que Dean Norris carrega nas costas com seu jeitão policial dos anos 80. É preciso muita força de vontade para não virar fã de Hank nos últimos episódios, força essa só compensada pela atuação particularmente obcecada de Bryan Cranston, que magicamente consegue dar verossimilança a Walter White/Heisenberg mesmo nos momentos mais frenéticos da saga.
-
-O fato é, não importa mais quais os motivos que causam as atitudes de Heisenberg, se é o câncer ou se é ele mesmo, mas sim as transformações iniciais, e onde elas desencadearam. Uma reação em cadeia que teve início um ano atrás (na série, na primeira temporada) e que hoje encontra seu inevitável desfecho.
+Felizmente, isso não aconteceu, e tivemos uma quinta temporada, a última, dividida em duas partes. E é para lá que este autor está se dirigindo, depois de participar, mais uma vez, deste universo tão realista quanto fantasioso, mas, acima de tudo, estilizado ao máximo, como uma homenagem à sétima arte, vinda da televisão.
 

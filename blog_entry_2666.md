@@ -1,12 +1,12 @@
 ---
 categories:
 - writting
-date: '2010-12-03'
-link: https://www.imdb.com/title/tt1266029
+date: '2011-12-25'
+link: https://www.imdb.com/title/tt0012349
 tags:
 - movies
-title: O Garoto de Liverpool
+title: O Garoto
 ---
 
-Na primeira cena temos apenas o primeiro acorde de "A Hard Day's Night", que nunca irá se completar, pois Nowhere Boy narra apenas a história do Beatle antes de efetivamente formar o grupo. Várias referências ao mundo Beatleniano, como Strawberry Fields, Walrus. Uma viagem em torno do relacionamento entre John Lennon e sua mãe, e o que levou com que sua personalidade fosse como é. Quer dizer, essa pelo menos é a teoria do filme de Sam Taylor-Johnson.
+Uma trilha musical surpreendentemente encantadora para a época, com uma narrativa coesa que favorece seu desenvolvimento um tanto episódico ao mesmo tempo que nunca perde as rédeas de sua história maior (e é de se notar a quase ausência dos textos explicativos). O garoto escalado para o filme é tão encantador quanto sua história, e é igualmente louvável a participação menos overacting de Chaplin como o vagabundo que o adota, favorecendo a interação entre eles e não simplesmente as cenas cômicas de forma isolada.
 

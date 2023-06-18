@@ -1,20 +1,17 @@
 ---
 categories:
 - writting
-date: '2020-03-19'
-link: https://www.imdb.com/title/tt0110877
+date: '2023-01-25T09:51:23-03:00'
 tags:
+- cinemaqui
+- mostratiradentes
 - movies
-title: O Carteiro e o Poeta
+title: O Cangaceiro da Moviola
 ---
 
-Uma produção fofinha dos anos 90, lembro que foi sucesso na época, assisti a primeira vez em VHS. É um filme feito para o Oscar e para as multidões. Mario Ruopollo é um italiano tão doce e falso quanto o Pablo Neruda do filme. Veja como Philippe Noiret, o ator que faz Neruda, se veste como um poeta, sorri como um poeta e fala como gostaríamos que falasse um poeta. Ele está atuando em um filme e isso é muito claro para o espectador, mas em nenhum momento ele consegue nos convencer de que quem estamos vendo na tela é de fato Pablo Neruda, diferentemente de sua versão como projecionista de um cinema em um vilarejo da Itália no inesquecível [Cinema Paradiso].
+Um filme sobre um montador que precisa de montagem. O filme, não o montador. Este trabalho de Luís Rocha Melo é de catalogar momentos gravados e gravações já em arquivo dos trabalhos do homenageado, o cineasta Severino Dadá que ficou mais conhecido pelos trabalhos na sala de montagem dos filmes que ajudou a finalizar.
 
-Já Massimo Troisi participa da direção e faz aqui um italiano de uma vila de pescadores que mal sabe ler e que quer se tornar um poeta para conseguir que as mulheres se apaixonem por ele. Imediatamente após ele falar isso ele entra em um restaurante onde a estonteante atendente está jogando pebolim e coloca a bola que caiu várias vezes no chão sujo em sua boca. Maria Grazia Cucinotta é colírio para os olhos, e é justamente por isso que ela não poderia existir nessa vila de pescadores nem se apaixonar por um semi-letrado que não tem onde cair morto.
+Quando um documentário surge com a ideia de biografia o mínimo que se espera é uma opinião e uma estrutura. Aqui só existe a homenagem, que é saudosa e tudo mais, mas acaba diminuindo o homenageado para uma figura não-humana, sem desejos ou ambições. Dadá vira uma estátua, erguida para a posteridade e que pode ser observada por todos. Porém, inerte, incapaz de evocar sentimentos de saudade no espectador daquilo que não vimos. Como o próprio Dadá comentou antes do início da sessão: ele virou cineclube.
 
-A virtude de Troisi como ator é nos entreter enquanto aguardamos a história escrita a seis mãos convenientemente nos entregar um pequeno conto que une Neruda, "crítica social", uma música forçosamente colocada como tema e uma fotografia da Itália feita para cartões postais. Este filme é um cartão postal em VHS. Agora em DVD. E agora em streaming.
-
-Ele deve continuar agradando multidões, mas tendo como pano de fundo o saudosismo dos simples e doces anos 90. É um filme fácil de digerir pelas emoções que ele deseja transmitir, mas difícil de engolir por causa do seu formato feito para ser embalado em uma lata e vendido para Hollywood e para o resto do mundo.
-
-[Cinema Paradiso]: {{< relref "cinema-paradiso" >}}
+O que é uma pena, pois as inúmeras referências de filmes que o montador trabalhou são de trabalhos poucos conhecidos que poderiam ser porta de entrada para algo além das chanchadas da época ou dos filmes pós reabertura, dos quais nos recordamos mais dos divulgados lá fora.
 

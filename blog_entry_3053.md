@@ -1,17 +1,16 @@
 ---
 categories:
 - writting
-date: '2022-11-28T23:36:16-03:00'
+date: '2012-02-15'
+link: https://www.imdb.com/title/tt1725073
 tags:
 - movies
-title: Pepsi, Where is my Jet?
+title: Penumbra
 ---
 
-A história: no clímax de um dos seus inúmeros comerciais milionários da década de 90, a Pepsi oferece sem letras miúdas um jato militar em troca de pontos que valeriam muito menos. Um garoto resolve comprar a briga com a gigante corporativa de ter seu prêmio em troca desses pontos.
+O roteiro é uma bobagem, que brinca com o julgamento da protagonista de uma forma, mas faz questão de nos avisar muito antes o que está acontecendo. Não contente com isso, seu final comprova não apenas o delírio de complexidade (quando na verdade temos um desfecho simplista).
 
-O potencial: a ingenuidade de uma geração mimada que foi ensinada a conseguir tudo que quisesse.
+Fora isso, a direção faz o que acha certo abusando de câmeras que oscilam de um lado a outro, criando sensações involuntárias de enjoo. Mesmo assim, não se compara à desastrosa escolha de colocar efeitos sonoros de suspense ao menor movimento dos personagens, transformando um thriller ruim pela falta de tensão em uma comédia não-declarada.
 
-A realidade: uma série de streaming em quatro partes dramatizada e pesadamente editada que passa logo.
-
-Mas pouco fica dessa experiência. Há recortes de uma época incrível, nas mentes de quem a viveu com a cara grudada na TV. Há transições elegantes entre os jovens por trás da história, mas não há conexões fáceis entre o passado e o presente que justifique o retorno para essa época MTV.
+De fato, Tarantino não está sendo boa influência para seus fãs cineastas.
 

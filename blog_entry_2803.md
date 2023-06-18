@@ -1,23 +1,30 @@
 ---
 categories:
 - writting
-date: '2019-07-16'
-link: https://www.imdb.com/title/tt6105098
+date: '2011-09-05'
+link: https://www.imdb.com/title/tt0110357
 tags:
-- cinemaqui
 - movies
-title: O Rei Leão (2019)
+title: O Rei Leão
 ---
 
-Só esse cuidado que a Disney vem tomando em adaptar seus clássicos já é comovente. Antes desenhado em animação, o que permite um tom mais caricato de seus personagens, a versão computadorizada de O Rei Leão nos faz pensar em como os pequenos ajustes da história neste remake feito com bits e bytes existem para focar mais no seu núcleo dramático, o que se aproxima das duas inspirações da história original: os textos bíblicos sobre as vidas de José e Moisés e os palcos de onde se encenou a imortal peça de Shakespeare, Hamlet. Nesse sentido, O Rei Leão é um Príncipe do Egito às avessas.
+O Rei Leão visto como deve ser visto, ou seja, em 2D, consegue impressionar pela síntese dramática que escolhe para não tornar o programa demasiadamente infantil para o seu principal público-alvo (as crianças) mas consegue se manter íntegro e representar de maneira irretocável a contribuição Disney para manter viva a lenda e uma das peças mais conhecidas de Shakespeare: Hamlet.
 
-O desafio no teatro é conseguir excelentes atores e atrizes que irão dar vida a uma ideia. Na mesa de criação esse jogo é diferente: o design de produção é responsável por dar vida à maior parte desta trama monárquica representada por animais. Se há atores de carne e osso, esses estão presentes para nos doar suas evocativas vozes na fantasia de uma mãe-natureza antropomorfizada. Nos faz pensar se não somos nós, humanos, que estamos deturpando o ciclo da vida.
+Quando eu digo íntegro quero dizer que até mesmo temas que hoje em dia são covardemente evitados mesmo entre o público adulto como a morte e o sexo são inseridos na narrativa e com direito a uma trilha sonora excepcional, que consegue oscilar dinamicamente entre a comédia e o drama épico como ondas que se formam durante a história.
 
-Rei Leão "2.0" é uma completa imersão no mundo mágico dos cenários virtuais criados pela técnica de fotorrealismo, onde fotos de ambientes reais são animados por artistas digitais, que usam como fonte tudo o que ele pode obter do ambiente real, como uma savana na África ou um desenho dos anos 90, por exemplo, e com isso ele recria cor, textura e movimento em uma versão que lembra muito os jogos de computador mais atuais. Mas isso é apenas o começo (da tecnologia e analogia). Criados pela mesma empresa que desenvolveu os efeitos de Mogli, O Menino Lobo (2016), esta é uma combinação entre captura de movimento, realidade virtual e realidade aumentada. Os animais que fazem parte dessa fantasia são idealizados para o universo da história, mas eles também fazem parte de um equilibrado e sensível ecossistema de tecnologias.
+Criando personagens de maneira econômica, mas que se firmam na narrativa pelo que representam, o macaco sábio, os palhaços salvadores de Simba, a princesa como elo com o passado, o criado fiel , a história se entrelaça de maneira simples o suficiente para que os espectadores infantis entendam o destino de Simba, mas de forma complexa o suficiente para que entendamos toda a filosofia por trás da alegoria com animais, como o reino decadente e o significado da nobreza.
 
-Além dessa chuva de efeitos que pode fazer você, espectador, babando em vários momentos do filme, surge a trilha sonora de Hans Zimmer, que anda inspirado e que não nos entrega nada menos do que épico. O músico e sua equipe apelam para todo tipo de instrumentação que tradicionalmente funcione em super-produções que marcaram época, como tambores nos momentos solenes da savana e flautas nos momentos românticos. Há também os originais momentos musicais com os trabalhos retrabalhados de Elton John com a ajuda de Beyoncé (com resultados mistos).
+Com uma conclusão que aspira por aplausos em pé, o uso da metáfora do círculo da vida nunca foi tão significativo e poderoso.
 
-Já o diretor e produtor Jon Favreau, que participou no longa computadorizado do Menino Lobo em 2016, ressurge aqui utilizando a mesma tecnologia, mostrando seu crescimento exponencial em poucos anos, cumprindo o papel de reproduzir as icônicas cenas conduzidas na animação de 94, mas também nos lembrando das capacidades ilimitadas em um ambiente totalmente virtual, como a câmera que flui entre animais correndo, passando bem pelo meio deles, ou as incessantes sequências voadoras, onde vemos que não existiria limite nas capacidades artísticas deste set de filmagens. No entanto, Favreau como diretor se mantém sóbrio todo o tempo, e mesmo tendo a chance para de fato criar algo novo, o que vemos é menos que o esperado de uma revolução tecnológica em prol da arte.
+Voltando agora da sessão 3D (leia-se: mutilada) do clássico dos clássicos da Disney, mas ainda me custa a entender por que esse desenho, em detrimento de tantas produções mais criativas, é tão supervalorizado pelas plateias.
 
-Porém, tirando todos os efeitos e tecnologia, o resto da magia deve ser interpretado por você, caro espectador, e digo isso porque essa não é uma tarefa fácil se você não estiver imerso nas questões filosóficas do longa, o que pode soar um porre em um primeiro momento, mas que se você refletir é a origem da verdadeira força dessa história para o Cinema. Se são belíssimas as noites estreladas ou o gigantesco sol nascendo e se pondo, somos chamados para a aventura de sonhar ao observar o ciclo incessante de noite e dia e o passar das gerações, das épocas, dos éons. Esses animais da imaginação coletiva falam sobre algo mais primordial que uma aventura Disney: nosso lugar na existência, seja como meros espectadores inertes interessados em ganhar o nosso às custas dos outros ou atores da vida real capazes de girar as rodas do tempo em nossa brevíssima passagem pelo mundo. Qual seu papel nesse grandioso e emocionante palco montado pela mãe-natureza?
+É óbvio que a trilha sonora é magnífica, e consegue oscilar perfeitamente entre as cenas dramáticas, de ação e de humor, como podemos ver pela leveza da música-lema de Timão e Pumba, em detrimento ao clima sombrio e ameaçador dos toques sufocantes da fuga para os espinheiros. Da mesma forma, a sequência do estouro dos antílopes consegue unir de maneira completamente orgânica o trotar das centenas de animais em disparada e o tema composto por Hans Zimmer para a cena, que evoca um misto de urgência e perigo, caindo no final, para um melancólico destoar.
+
+Já a fotografia, marca registrada das produções 2D da Disney, consegue se expressar aqui com o uso de traços que lembram aquarela, ainda que mantenha sua precisão. E perceba como o humor de Simba e do reino de seu pai é determinante para a palheta dominante, e perceba como o acizentado sombrio e desconfortante da morada das hienas toma o lugar que antes era cheio de cores vivas e em movimento.
+
+Da mesma forma, o roteiro segue uma coerência inatacável, embora a força da história esteja justamente em sua simplicidade que deve conseguir tocar o coração de pessoas de todas as idades. Muitos dizem que O Rei Leão evoca um tema Shakesperiano, e muito provavelmente a alma de Shakespeare passeia pelo reino de Mufasa e seu ciclo da vida.
+
+Porém, ainda que tenham passados meros 17 anos de sua estreia (pouco para se transformar realmente em um clássico), seu envelhecimento no que diz respeito ao timing cômico, ou mesmo algumas piadas (assisti à dublagem brasileira) cheiram levemente a datadas.
+
+Mas quem sou eu para criticar um filme tão bem feito e tão amado por crianças e adultos de todas as idades.
 

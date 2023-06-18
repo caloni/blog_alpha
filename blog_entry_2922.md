@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2018-07-18'
-link: https://www.imdb.com/title/tt3606756
+date: '2020-04-22'
+link: https://www.imdb.com/title/tt0053198
 tags:
 - movies
-title: Os Incríveis 2
+title: Os Incompreendidos
 ---
 
-Se passaram 14 anos desde que Os Incríveis estrearam, também dirigido e escrito por Brad Bird. Na época a Pixar ainda estava engatinhando e emplacando seus maiores sucessos, sempre baseados em uma direção de arte maravilhosa, uma qualidade criativa impecável e elevando o nível da sétima arte pelo bem da arte, e ainda conseguindo ganhar rios de dinheiro em cima disso. Hoje os rios de dinheiro continuam, a direção de arte continua estupenda e a qualidade criativa está entregue a um marasmo que só consegue pedir desculpas para os movimentos sociais, uma atitude que ironicamente é patética e nada heróica.
+Primeiro filme do Truffaut, meio biográfico (o cineasta foi um delinquente juvenil), exemplo de [Nouvelle Vague]. Esse foi o começo da desconstrução da narrativa burguesa opressora.
 
-Graças à nostalgia do primeiro Os Incríveis, ou graças ao design caprichadíssimo desta continuação, as primeiras duas cenas de ação protagonizadas pela Mulher-Elástica neste novo filme são de cair o queixo. Filmadas de maneira ágil (uma das vantagens da animação) e com cortes precisos na ação, exatamente o que o primeiro filme fazia de melhor. Porém, entregando uma nova protagonista na marra e de forma preguiçosa colocando diversos heróis lutando juntos no pior sentido que a palavra diversidade tem tomado conta dos cinemas (tem até uma emo agora) as cenas de ação seguinte -- e em especial as do final do filme, que deveriam impactar mais -- são nitidamente inferiores, previsíveis e apenas preenchem um check list do que é esperado de um filme de ação animado com um leque de espectadores de todas as idades.
+Mas nada disso importa muito, pois o filme funciona porque mostra a verdade, que está nessa relação pais e filho, nas trocas de frases que todo filho já ouviu. Abortar ou não abortar, adoção, um pai brincalhão e uma mãe entediada e nervosa por ter um filho e viver em lugar apertado na capital com ela trabalhando. Esta é uma das "Parises" mais realistas, tanto que me sinto em São Paulo da minha infância. Isso porque algo acontece com a verdade quando ela é transparente: se torna universal. E toda cidade grande se parece. Toda vida humana tem em parte o drama da incompreensão.
 
-O mais triste nisso é que a primeira metade de Os Incríveis 2 nos apresenta uma direção de arte inspiradíssima, que merecia uma história muitas vezes melhor. Conseguindo se equiparar e até ampliar o conceito do super-heroísmo como algo ultrapassado, o mundo onde vive a família Pera é antiquado porque é charmoso, e é high-tech porque é isso que nos dá a liberdade de ação. O charmoso dos anos 60, estilizados desde as figuras geométricas exageradas e os tons pastéis com iluminação amarelada, fora a trilha sonora que homenageia os melhores momentos James Bondianos do Cinema, não cabe aqui em uma história que tenta ser moderninha apenas ganhando pontos de opressão na cartela do bingo da justiça social. E mesmo do ponto de vista estritamente do roteiro, não há tempo suficiente para revelar logo a reviravolta que todos já sabem que vai acontecer meia-hora atrás, mas há tempo para tiradas com a palavra "empoderamento" que não chega a ser ridículo (só de mau gosto, mesmo).
+Esse garoto virou o queridinho do diretor e fez os mesmos personagens em mais três filmes ao longo do tempo. Truffaut, então, se tornou o primeiro e autêntico Richard Linklater. Truffaut e Goddard foram os críticos que Bazin patronou em sua revista Cahiers du Cinema.
 
-Mas não me leve a mal a respeito da discussão de papéis de gênero que o filme copiosamente utiliza. A ideia de inverter os papéis é algo que favorece a criação de uma história diferente da original (apesar dela mesma não ser original em nada), e isso está na lista dos elementos que funcionam no começo. Ao mesmo tempo conseguimos ver (mesmo sem "ver") como a Sra. Incrível era tão boa em cuidar da casa e dos filhos -- isso enquanto acumulava também a tarefa de heroína -- enquanto o Sr. Incrível apenas exibia seus músculos e usava todos os seus poderes: força descomunal. Por outro lado, é tocante, apesar de rápido demais, acompanharmos como ele se empenha, e tenta melhorar como pai, mesmo que conte com um bebê cheio de poderes, um garoto hiperativo e uma pré-adolescente com problemas de... pré-adolescente (e com suas coisinhas de mulher, como um romance bobo com um garoto genérico da escola).
+Mas isso não importa também. O filme funciona. Na escola vemos esse professor da época que se parece com qualquer professor antes do modernismo exarcebado dos dias de hoje. A sociedade é vista em cada detalhe. Há muito improviso. Em um ritmo calmo e contemplativo duas músicas iluminam o caminho da emoção. A música-tema é a que fica para sempre no coração.
 
-Já toda a história envolvendo o legado do casal de filhos de um ricaço que fazia caridade para o super-heroísmo soa logo no começo como algo forçado demais, e as dublagens brasileiras não ajudam em nada. Empregando celebridades do mundo da TV (alguém ainda assiste TV?), como Raul Gil, a caracterização sofre e muito, pois os textos são ditos de maneira vagarosa e nada inspirada, gerando um contraste óbvio com os dubladores profissionais que fazem as vozes dos personagens principais.
+Não é um filme para sentirmos dó do seu protagonista, mas para transmitir a sensação de sua vida. E a vida passa independente do que vemos... esta é a vida filmada, o proto neo-realismo criado por este diretor francês e seus companheiros da época.
 
-A Pixar, diferente da Marvel, já não tem a menor condição de continuar seu projeto de diversidade sem retomar as rédeas de um roteiro que seja instigante sem precisar se amarrar a um pacote politicamente correto que atenda todas as demandas das pessoas fora e dentro dos estúdios. Quando a arte é deixada em segundo plano para uma agenda política, nem a pipoca consegue segurar a diversão. Talvez ela esteja com pouco sal por exigência do governo.
+[Nouvelle Vague]: https://en.wikipedia.org/wiki/French_New_Wave
 

@@ -1,17 +1,26 @@
 ---
 categories:
 - writting
-date: '2016-11-18'
+date: '2011-10-17'
+link: https://www.imdb.com/title/tt0770703
 tags:
-- series
-title: Quando a realidade encontra South Park
+- movies
+title: Qual Seu Número?
 ---
 
-South Park é uma série que homenageia o pior em nós mesmos. A série criada pela dupla Trey Parker e Matt Stone a partir de personagens recortados em 2D é um retrato fiel da estupidez humana. Porém, nem os criadores conseguiram prever tão longe. E quando enxergamos o mundo de hoje lembramos da célebre frase de Einstein: "duas coisas são infinitas: o universo e a estupidez humana". Sábio como era, porém, o famoso físico possuía algumas dúvidas a respeito do universo não ter fim.
+Aparentemente não há limites para a "criatividade" de Hollywood para comédias românticas. Quem diria que a Cindy (Anna Faris), da franquia Todo Mundo em Pânico, seria par romântico com o [Capitão América] (Chris Evans)? Um desafio interessante para ambos, visto que seus respectivos currículos de "menina fácil (e alvo de socos) em comédia-paródia" e "super-herói simpático" são ligeiramente diferentes nesse novo longa de Mark Mylod (Quem é Morto Sempre Aparece).
 
-A série South Park nessa temporada estava, como de costume, brincando com as eleições americanas, onde concorrem mais uma vez os nomes fictícios (mas facilmente deduzíveis) Sanduíche de Merda (Hillary) e o Imenso Retardado (Trump). Em seus últimos episódios ele narra a vitória de Trump, travestido como o professor Garrison, um xenofóbico machista e todos os nomes que a esquerda gosta de usar (e o cúmulo da ironia, ele é gay).
+A história gira em torno da fascinação feminina pelas pesquisas de revistas femininas (nesse caso, a Marie Claire). Ally (Faris), durante os preparativos para o casamento de sua irmão Daisy (Graynor), percebe que o número de seus parceiros sexuais está ligeiramente acima da média nacional (o dobro) através de uma pesquisa da citada revista, e, de acordo com a mesma reportagem, mulheres que passam dos 20 parceiros acabam nunca se casando. Por coincidência, falta apenas um parceiro para que ela preencha os 20 redondos, e fatidicamente ela acaba preenchendo "a vaga" com quem não desejaria se casar. Desiludida, tem a "brilhante" ideia de reciclar seus ex-parceiros para conseguir não fugir às estatística da reportagem da revista feminina e evitar a maldição de ficar pra titia.
 
-Não imagino que os criadores estavam realmente contando com a vitória do republicano, e possivelmente iriam fazer alguma reviravolta no final do episódio colocando o Sanduíche de Merda... quer dizer, a Hillary, de volta ao poder (como na vida real provavelmente seria). Porém, a revolta contra o stablishment norte-americano e mundial trouxe a revolta e o desinteresse da população para as urnas, onde cabe qualquer opinião que estiver disponível nas ruas e ganhe um coro coletivo cada vez maior. É o caso agora em que a crise econômica desanima um povo que espera(va) demais de seus governantes, contrariando sua própria carta magna.
+Essa proposta inicial (!?) é o que precisamos para dar início à caça de seus ex-namorados. Com potencial para ser divertido, soa bobo na maior parte das piadas, ainda mais quando percebemos cedo que a história já tem final definido, como quase sempre em comédias do gênero, mas que aqui infelizmente ainda nem a reviravolta gera o mínimo de tensão nos personagens.
 
-No entanto, agora a série terá um momento espetacular nos próximos quatro anos, onde possivelmente manterão Garrinson como presidente dos EUA (ou enquanto ele se manter lá). A vida real, aparentemente, faz algumas dobras no espaço-tempo e acaba encontrando uma realidade alternativa ainda mais maluca: a que sai das famigeradas mentes criadoras de um cartoon politicamente incorreto.
+Chris Evans, por sua vez, demonstra um apreço maior na simpatia de seu personagem, e é inevitável que ele ganhe carisma ao longo da trama, e esse inevitável é tanto por mérito de Evans quanto pela antipatia de Anna Faris, que parece mais determinada à comédia do que qualquer aspiração romântica que o filme possa ter.
+
+Consciente da espécie de "road-movie metafórico" produzido, o diretor tenta escolher transições de planos que acabam chamando mais atenção para si mesmo que para o que está ocorrendo na tela. Pior ainda, porém, são as inconstantes câmeras tremidas, cujo motivo desconfio seja forçar a urgência nas ações de Ally, mas basta um momento de pausa para percebermos que não há motivo algum para tanta pressa assim da personagem.
+
+Ciente da falta de emoção na maioria do longa, a trilha investe então na cena do casamento, apostando artificialmente em músicas românticas e consagradas em um volume nitidamente mais alto, tornando óbvio o desespero para que prestemos atenção ao destino de Ally (e é gritante a lição de moral "seja você mesma" jogada às pressas no terceiro ato, tanto que se aproveita da irmã, que até então era um simples adorno do roteiro, tanto que uma das músicas é de um cantor favorito de Ally).
+
+Bobo e infantil do começo ao fim, ao menos possui coerência interna, e uma seleção de músicas simpática. Mas é só.
+
+[Capitão América]: {{< relref "capitao-america-o-primeiro-vingador" >}}
 

@@ -1,90 +1,22 @@
 ---
 categories:
-- coding
-date: '2007-10-26'
+- writting
+date: '2012-06-19'
+link: https://www.imdb.com/title/tt1446714
 tags:
-- ccpp
-title: Proteção dos membros protected
+- movies
+title: Prometheus
 ---
 
-Quando queremos que um membro de nossa classe seja visível apenas dentro dos métodos da classe e dentro dos métodos das classes derivadas dessa classe usamos o nível de proteção protected. Isso, é claro, não quer dizer que uma classe derivada vá ter acesso aos membros protegidos de outra:
+Como fã convicto da [série Alien], desde [seu Oitavo Passageiro] ao controverso [A Ressurreição], tenho autoridade não apenas como estudioso de Cinema mas como fã estudioso de considerar o novo trabalho de Ridley Scott como uma involução não apenas da série, mas do gênero de ficção científica/terror como um todo.
 
-    #include <iostream>
-    
-    using namespace std;
-    
-    class Base
-    {
-    protected:
-      int m_protected;
-    };
-    
-    class Derived : public Base
-    {
-    public:
-      int GetProtected();
-      int GetAnotherProtected();
-    };
-    
-    class AnotherDerived : public Base
-    {
-    };
-    
-    int Derived::GetProtected()
-    {
-      return m_protected;
-    }
-    
-    int Derived::GetAnotherProtected()
-    {
-      AnotherDerived anotherDeriv;
-      return anotherDeriv.m_protected;
-    }
-    
-    int main()
-    {
-      Derived deriv;
-      deriv.GetProtected();
-      deriv.GetAnotherProtected();
-    }
-    
-    >./program
-    error C2248: 'Base::m_protected' : cannot access protected member declared in class 'Base'
-    see declaration of 'Base::m_protected'
-    see declaration of 'Base'
+A história de Prometheus gira em torno da expedição realizada pela nave homônima a um planeta-satélite que possivelmente poderia conter pistas sobre a origem do ser humano. Quando a dupla de cientistas Elizabeth Shaw (Noomi Rapace) e Charlie Holloway (Logan Marshall-Green) deduzem a partir de "pistas" supostamente deixadas em escritas em cavernas de diversos povos antigos, isso desperta no trilhardário Peter Weyland (Guy Pearce) o desejo de investir em um contato único com seres que possivelmente criaram a raça humana, ou a partir da evolução ela acabou sendo criada. No fundo, não importa, pois estamos falando tanto de uma visão Criacionista quanto Evolucionista.
 
-Esse é o motivo fundamental do porquê não podermos fazer isso:
+Porém, o que se segue a essa interessante premissa são explicações cada vez menos plausíveis sobre as novas descobertas e o que está ocorrendo. Eventualmente a ficha cai, e não somos mais levados (se é que em algum momento fomos) a nos interessar por aquele novo mundo nem pelos humanos exploradores, e consequentemente nem pelo seus destinos. Não há muito apelo intelectual em uma obra que deveria justamente explorar o desafio mental de uma descoberta tão impactante para a história humana. Quando não há interesse pela história, não importa o quão tensa ela pareça ser em alguns momentos (e eles existem): todo o esforço por tornar o filme interessante cai por água abaixo.
 
-    int Derived::GetAnotherProtected()
-    {
-      Base base;
-      return base.m_protected;
-    } 
+Esse estado de estagnação é o que domina boa parte seu desfecho, onde acompanhamos consternados mais pelo aumento do volume da trilha sonora e frequência dos cortes do que algo que de fato nos surpreenda. Tudo acaba ocorrendo da mesma forma que imaginada. Não há descoberta. Não há desafio. Não tememos pelo destino dos personagens. O que resta é uma límpida fotografia de um planetinha desinteressante e seus seres idem. Até deus seria uma explicação mais rica e interessante da nossa origem.
 
-Ao acessar membros protegidos é importante o tipo da expressão que está do lado esquerdo do "." ou "->". Afinal, o nível de proteção se baseia no escopo, e as classes são um escopo. É por isso que consigo acessar os membros protegidos de um outro objeto de minha classe, mesmo sendo outro objeto:
-
-    int Derived::GetAnotherProtected()
-    {
-      Derived deriv; // typeid(deriv) == typeid(*this).
-      return deriv.m_protected; // OK
-    } 
-
-A definição do escopo é tudo o que o compilador dispõe para saber se acessa ou não acessa um membro. Podemos ter acesso a m_protected enquanto somos do tipo Derived, mas não quando o mesmo objeto é usado como Base:
-
-    int Derived::GetAnotherProtected()
-    {
-      Base& base = *this; // typeid(deriv) != typeid(*this).
-      return base.m_protected; // ERROR
-    } 
-
-Essa proteção parece desnecessária e até mesmo incoerente quando lidamos com o mesmo objeto que acessa. Afinal, somos nós mesmos! Só que o compilador não sabe disso, e ele deve desconfiar de tudo e de todos para evitar esse tipo de "ataque":
-
-    int Derived::GetAnotherProtected()
-    {
-      AnotherDerived anotherDeriv;
-      Base& base = anotherDeriv; // typeid(deriv) != typeid(*this)
-      return base.m_protected; // ERROR
-    } 
-
-Agora a proteção do compilador faz sentido. Parece um detalhe frívolo, mas depois que vi alguns programadores de respeito se debatendo pela "burrice" do compilador, imaginei que talvez houvesse mais pessoas com a mesma dúvida de se existe ou não um "bug na linguagem".
+[A Ressurreição]: {{< relref "alien-a-ressureicao" >}}
+[seu Oitavo Passageiro]: {{< relref "alien-o-oitavo-passageiro" >}}
+[série Alien]: {{< relref "aliens-o-resgate" >}}
 

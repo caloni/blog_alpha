@@ -1,12 +1,14 @@
 ---
 categories:
 - writting
-date: '2020-12-12'
-link: https://www.imdb.com/title/tt0119654
+date: '2012-07-20'
+link: https://www.imdb.com/title/tt0096734
 tags:
 - movies
-title: 'MIB: Homens de Preto'
+title: Meus Vizinhos são um Terror
 ---
 
-Revisitado, MIB cheira a anos 90. Tommy Lee Jones está fabuloso como o funcionário de uma agência de relações intergalácticas que se diverte apagando a memória das pessoas até se cansar e voltar para sua amada. Will Smith repete seu personagem da série Um Cara no Pedaço misturando ginga hip-hop e uma força de vontade incompreensível de ser um policial. Ambas as aspirações não são harmônicas. O único momento que entendemos sua motivação é quando ele conhece a gracinha da legista, que irá descobrir que existem mais anatomias no universo do que sua vã filosofia compreende. Oscar ou indicação de efeitos visuais e maquiagem mais que merecidos. Mais de 20 anos depois o filme funciona. Desde então Tommy Lee conseguiu refinar sua persona em trabalhos intimistas, enquanto Will Smith inflou seu ego do tamanho da galáxia e investe seu tempo em grandes produções onde é ele mesmo ou em produções menores onde é uma pessoa muito sábia e altruísta. O plot twist que ele não descobriu é que a galáxia comparável com o tamanho de suas capacidades de atuação é equivalente ao do filme.
+Especializado em comédias do absurdo, como Um Dia a Casa Cai e Quero Ser Grande, Tom Hanks aqui vive a paranoia e a maldição que acomete todo americano que tenta mudar algum hábito nativo de sua cultura, como bisbilhotar a vida dos vizinhos. Nesse sentido, faz um par curioso com Tim Allen em [Um Natal Muito, Muito Louco]. Contudo, a maluquice é ainda maior do que as comédias natalinas de Allen, pois estamos nos anos 80 e tudo, literalmente, pode acontecer.
+
+[Um Natal Muito, Muito Louco]: {{< relref "um-natal-muito-muito-louco" >}}
 

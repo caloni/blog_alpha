@@ -1,14 +1,26 @@
 ---
-categories: []
-date: '2012-07-21'
-tags: null
-title: Minha palestra do TDC 2012
+categories:
+- writting
+date: '2020-08-10'
+link: https://www.imdb.com/title/tt0064612
+tags:
+- movies
+title: Minha Noite Com Ela
 ---
 
-Duas semanas atrás rolou a trilha C++ do TDC 2012, que contou com além da minha presença com a dos já conhecidos Fernando Roberto (DriverEntry), Rodrigo Strauss (1Bit), etc. Uma novidade: meu colega e programador .nerd Gabriel Guilherme também participou em uma palestra sobre um assunto que acredito que deveria ser mais promovido: interop. Afinal de contas, o poder de C++ não seria nada se não houvesse motivos práticos para usá-lo. Entre esses motivos, construir soluções com linguagens mais acessíveis é um deles.
+A aposta de Pascal e o caos governando nossas vidas. É sobre discussões morais acerca do amor. Eric Rhoemer é o mestre francês. E não são os franceses os mestres na arte do amor?
 
-Na minha palestra foquei no conteúdo dos meus dois artigos sobre um fictício Patch de Emergência ([parte 1] e [parte 2] from Wanderley Caloni).
+No entanto, este filme nos faz lembrar que o povo francês também possui valores religiosos que podem parece conflitantes quando se fala de amor livre e relacionamentos fora do casamento.
 
-[parte 1]: {{< relref "patch-de-emergencia" >}}
-[parte 2]: {{< relref "patch-de-emergencia-2" >}}
+É na igreja que ele começa. Uma missa tradicional como as que têm aqui em solo brasileiro, com a diferença que o pai nosso é rezado em francês. Um divertimento à parte para quem já foi católico.
+
+O herói do filme é um católico que estuda matemática e de regresso do estrangeiro pretende abordar uma jovem que observa na igreja.
+
+Porém, antes disso ele irá cair nos inusitados braços de uma amiga divorciada de um amigo que não via há catorze anos. Foi apenas aquela noite e esse é o título do filme.
+
+Este é um filme naquele estilo intelectualizado, porque o francês típico reza, faz amor e conversa sobre filosofia. Vários diálogos sobre Pascal, sobre o amor e sobre a fé, são trazidos à tona, e muitas cenas viram uma verdadeira aula sobre o tema. Bom para os interessados, se é que há algum assistindo uma comédia romântica. Bom, ele pode ser francês.
+
+Nessa receita inusitada de temas o filme soa banal, apesar de tratar de grandes temas. Seus personagens ficam sufocados, soterrados de diálogos. Não é o melhor do diretor no quesito de exploração da natureza humana. É diversão ocasional sem a garantia de que nos lembraremos de alguma cena no dia seguinte.
+
+Bom, há o pai-nosso em francês. Talvez isso baste.
 

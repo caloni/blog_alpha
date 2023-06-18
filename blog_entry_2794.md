@@ -1,22 +1,24 @@
 ---
 categories:
 - writting
-date: '2013-05-17'
-link: https://www.imdb.com/title/tt2925942
+date: '2016-10-21'
+link: https://www.imdb.com/title/tt6150202
 tags:
 - movies
-title: O Que Se Move
+title: O Que Restou da Minha Vida
 ---
 
-Montador de [Trabalhar Cansa] (2011, Marco Dutra e Juliana Rojas), uma das mais agradáveis surpresas daquele ano no Cinema Nacional, Caetano Gotardo estreia na direção desse filme quase experimental. Quase, pois as nuances inseridas em suas três historietas trágicas e casuais criam uma dimensão emotiva que não pode ser ignorada. O detalhe mais marcante são as canções entoadas pelos seus próprios atores (não se preocupe quem não gosta de musicais, pois existem apenas três momentos). Nesse sentido, talvez o tempo de experiência na montagem tenha feito uma diferença notável em sua percepção da realidade (aqui a montagem é assinada por outra pessoa, não achei seu nome depois , mas a direção, montagem e até a composição das canções principais são de sua autoria).
+Tratando da morte de uma maneira leve para depois reverenciar a perda das pessoas que amamos, O Que Restou da Minha Vida é um misto de temas que combina comédia, romance e drama em uma sequência de idas e voltas não necessariamente confusas, mas frustrantes.
 
-Portanto, por mais inconsequentes e despretensiosas que sejam os três episódios, há um crescente emotivo envolvente, ainda que sua primeira história inicial pareça não se esforçar para isso. Podemos dizer que o choque inicial ao final do primeiro episódio seja o estopim necessário para que enxerguemos o que está sendo proposto, e mesmo com seus defeitos (como os diálogos pavorosos, propositais ou não) cumpre bem o que se propõe. Dito isso, ouvir a mãe cantar uma música sem rimas, sem ritmo e sem propósito nenhum a não ser estabelecer o óbvio (explicar o que ocorreu com o filho com a carga dramática de uma mãe embutida) se torna um guia necessário para entendermos o que está acontecendo diante de nós.
+O filme começa explicando o porquê de Schimon (Christoph Letkowski) não se incomodar tanto com a morte: desde pequeno ele gravava seu avô dizer para não se preocupar, pois a morte, segundo ele, é apenas um novo começo. Tanto que ele ouviu, em primeira mão, as ultimas batidas do coração de seu avô.
 
-Ao ligar os episódios de maneira mais metafísica do que orgânica, a segunda história envolvendo outra família consegue aos poucos subir o degrau de significados. Alguns ocultos, outros parecendo mero artifício "para aparecer" e outros ainda revelando a alma do filme de maneira a fisgar cada vez mais nossa atenção. No entanto, algumas coisas ainda teimam em nos atirar para fora: mais uma vez os diálogos chegando ao embaraço, o acúmulo de cenas desconexas ou desproporcionalmente longas (que quando estão querendo dizer algo, soam óbvias, e quando não estão, soam obscuras).
+O velho, além de contar de várias formas a maneira como encontrou sua amada durante a guerra, também dizia que as coisas acontecem por um motivo. Bem, se há algum motivo para a sequência desastrosa que levou Schimon a ficar viúvo da jovem Jella (Karoline Bär), seria para se encontrar com a sorridente Milena (Luise Heyer), com quem começa a namorar duas semanas depois do enterro da esposa.
 
-Mesmo assim o diretor/roteirista insiste em sua temática, o que revela em seu terceiro ato os momentos mais tensos e propositadamente desconcertantes de todo o filme. Boa parte desse efeito pode ser atribuído à revelação do longa, Fernanda Vianna, a atriz que faz a terceira mãe. Ela quase rouba a nossa atenção completa se a situação já não nos forçasse a isso: o primeiro encontro com o filho roubado da maternidade.
+O diretor estreante -- e um dos roteiristas -- Jens Wischnewski começa, então, uma jornada que oscila entre o começo de dois romances: o que acabou em morte e o que começou nela. Cuidando para que ambas as histórias se completem e se influenciem, ele consegue unir a fugir de uma cadeira ou um balão roxo como símbolos de um luto que continua apesar da nova vida e do novo amor. Além disso, o roteiro usa e abusa de coincidências para tornar o romance entre eles como algo fruto do destino, mas se esquece de desenvolvê-los como se deve (o trabalho de Milena na ala terminal infantil é usada em uma cena, ignorando a parte triste de encarar a morte através dos inúmeros desenhos das crianças que por lá passaram).
 
-Enquanto tentamos juntar as peças derrubadas pela catarse gerada pela evolução de personagens e situações, o que mais fica na mente é o tema proposto, o que há de comum naquelas histórias. Nos esquecemos do resto e, assim como o cisne do primeiro episódio, vemos o tempo passar sem muito o que fazer.
+O que faz com que esse seja um filme com um senso de humor bem peculiar, do tipo onde a estátua da falecida é colocada no banco de trás de seu carro para que se encontre a nova namorada no porta-malas. Além disso, o vai-e-vem constante torna os sentimentos do espectador divididos entre o que é certo e errado para Schimon sentir nesse momento. Por outro lado, se torna uma forma visual bem interessante de mostrar como a perda de alguém que fez parte de nossa vida de fato nunca é o fim, pois as impressões e as memórias e parte do nosso caráter continua ativo em nós.
 
-[Trabalhar Cansa]: {{< relref "trabalhar-cansa" >}}
+Há elementos bem espertos que fazem do filme um trabalho rico em símbolos. Além do balão e da cadeira já citados, o uso da nova namorada tocando uma corneta soa como algo tão inapropriado quanto escrever músicas para banheiros. Como eu disse, há um senso de humor bem peculiar no filme, e desconfio que isso não se deve apenas por causa do luto.
+
+Porém, talvez a questão mais problemática seja mesmo o terceiro ato, que investe na figura de uma amante compreensiva demais com um sujeito que vem delineando sérios problemas psicológicos, além de subitamente fazer o rapaz retroceder sua vida em um dia especial para o novo casal, onde mais uma vez o roteiro soa forçado. De qualquer forma, há algo agradável em acompanhar Schimon através da descoberta do luto, seja pelo lado inesperado ou até pelo interessante conceito. O que não o torna automaticamente um trabalho complexo.
 

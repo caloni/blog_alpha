@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2017-08-06'
-link: https://www.imdb.com/title/tt1658851
+date: '2018-01-12'
+link: https://www.imdb.com/title/tt4809638
 tags:
 - movies
-title: 'Toast: A História de uma Criança com Fome'
+title: Tô Ryca!
 ---
 
-Este é um drama leve que conta com alguns segredos sutis em sua história e algumas atuações marcantes ou no mínimo bem corretas. Helena Bonham Carter é o destaque e o centro de um filme que poderia ser chato como biografia, mas consegue ser fascinante ainda que não conheçamos de quem se está falando.
+Selminha, ou Samantha Schmütz, faz aqui a pobretona padrão brasileira que mora no morro do Rio de Janeiro com sua amiga inseparável e igualmente quebrada Luane. Ambas com nome de pobre (e Selminha é de fato o nome dela, de RG) e sem muitas perspectivas de vida, ambas trabalham como frentista e são obrigadas a passar os perrengues do dia-a-dia de todo pobre: condução lotada, peguetes que não querem saber de compromisso e tudo o que você pode imaginar que os roteiristas Fil Braz e Vitor Brandt inspiradamente obteram do cotidiano padrão brasileiro, ligeiramente pintado como novela global.
 
-A biografia no caso é de Nigel Slater, um famoso cozinheiro de TV. O filme conta sua infância conturbada, com a mãe moribunda, péssima em culinária doméstica, preferindo comprar tudo enlatado, e o pai arrumando uma nova esposa a partir de sua faxineira (Bonham Carter), e que se revela uma excelente, quase obsessiva, cozinheira.
+Mas a atriz que faz Selminha não permite o disparate de a tornar uma caricatura à toa. A atriz Samantha Schmütz é eficiente no sentido de construir uma persona que pode participar de outras histórias e representar a pobretona brega e feia. Ela faz imitações guturais de pobre, se indigna como pobre. Ela confessa que rouba papel higiênico do trabalho como vingança (e coloca farofa no prato sem pesar no self-service). Ela está carregada de persona, e mesmo que estereotipada até as pontas desfiadas do seu cabelo, ela não se rende, esgotando sua energia a todo custo.
 
-Oscar Kennedy como o jovem Slater e Freddie Highmore (A Fantástica Fábrica de Chocolate) como o adolescente fazem um ótimo trabalho em personificarem uma criança em desenvolvimento, um tanto mimada, e tendo que conviver com mudanças que giram em torno de comida. Nigel aprecia o trabalho do jovem jardineiro da família, de uma maneira que só vamos perceber por completo o subtexto muito tempo depois. A única coisa que ele aprecia na cozinha de sua mãe é a torrada que ela de vez em quando prepara para ele, mas afetivamente ele possui um retorno muito melhor.
+A história é clichê, sem sentido, manipuladora e com lição de moral. Ignore-a se conseguir e foque em Selminha. Mas apenas um início: ela ganha uma herança de um parente distante (com direito a pet no leito de morte e vídeo bem produzido demais para ser real) que bate as botas e coloca uma regra bizarra em cima de sua fortuna: para Selminha obtê-la ela terá que consumir sem acumular 30 milhões de reais em um mês. Cerca de um milhão por dia. E ela não pode comprar nada, doar e jogar quase nada. Se ganhar fica com centenas de milhões. Se perder, fica como veio ao mundo (ligeiramente mais, pois de roupas).
 
-A direção de arte aqui é boa em resgatar uma época onde não se via grandes problemas em comida industrial e com plena gordura na cozinha. Tanto que não precisamos ser apresentados aos perigos de se comer demais naquela época, que é justamente o que o pai de Nigel começa a fazer depois que arruma a voluptuosa Mrs. Potter como faxineira e eventualmente cozinheira. A rivalidade entre os dois para conseguir a atenção do seu patrão/marido e pai é o estopim necessário para que Nigel saia das asas de todos eles e comece a se descobrir, como cozinheiro e ser humano.
+O resultado é uma gastança brega, divertidinha e com alguns percalços imaginários. Há a trupe de advogados sisudos estilo mafiosos que por algum motivo desejam que Selminha não vença. Há seu secretário que é comprado por um cargo na empresa desses advogados (em vez de parte na fortuna). Há, claro, um dilema em não poder ajudar sua melhor amiga mesmo tendo o dinheiro (e não podendo contar para ninguém sobre o jogo; mais uma regra bizarra da herança bizarra).
 
-A direção de S. J. Clarkson é ágil, mas ao mesmo tempo detalhista. Ainda que com algumas pequenas manipulações do roteiro de Lee Hall, que dramatiza um pouco além da conta as memórias do real Nigel Slater, é possível entender toda a trama apenas pelo ponto de vista de uma criança e adolescente, o que é admirável, pois nos mantém sempre com o ponto de vista do protagonista. No entanto, alguns detalhes são citados burocraticamente e não se encaixam direito na trama, como o fato do pai de Nigel ser mórmom, ou a sexualidade do futuro cozinheiro.
-
-No entanto, admirável em ser coeso e com uma produção de época charmosa e bem-humorada -- com direito a uma batedeira que surge de um fundo falso -- "Toast" é um inusitado divertimento em um drama que consegue ser levado com leveza, mas ainda assim se manter presente. Um equilíbrio difícil de ser alcançado, mas que aqui a ligação do herói com comida traduz muito bem.
+Presa a um videogame primário, ela decide no terceiro ato se candidatar a prefeita do Rio para assim torrar toda sua grana em uma campanha. Por que não fez isso antes, e por que o secretário dela está tão empolgado com a campanha, já que ela é apenas para torrar grana? Eu não sei, e provavelmente o espectador nunca saberá. Resultado: nunca saberemos.
 

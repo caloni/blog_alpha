@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2015-01-04'
+date: '2015-01-13'
 tags:
-- beer
-title: Ouro Pretana Pale Ale
+- food
+title: Ouro Pretana Americana Brown Porter
 ---
 
-Bem equilibrado; refrescante com amargor e um pouco de doce.
+Muito equilibrada, pouco doce e pouco amargo com pouca espuma; ímpar.
 

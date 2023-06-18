@@ -1,14 +1,53 @@
 ---
 categories:
 - coding
-date: '2019-09-17'
-link: /code/vcpkg-openssl-cnf.patch
-title: 'Vcpkg: openssl.cnf'
+date: '2019-11-29'
+title: 'Vcpkg: Bootstrap'
 ---
 
-Mais uma aventura em vcpkg. Dessa vez o projeto openssl, a biblioteca de SSL open-source multiplataforma. O vcpkg divide esse port por SO, sendo o openssl-windows o port que alterei. A alteração foi enviada como PR para a Microsoft, mas no momento está apenas no repo da BitForge.
+A versatilidade do vcpkg, gerenciador de pacotes multiplataforma da Microsoft, é permitir modificar tudo no projeto, desde código-fonte, pacotes instaláveis e a própria origem do repositório. Através do controle de fonte um vcpkg pode ser alimentado por diversas fontes, e por cada pacote existir em uma pasta separada permite a coexistência de várias versões e origens. Além disso, a forma de compilar os projetos e o código-base pode ser alterado exatamente da forma com que o projeto precisa.
 
-O que acontece é que alguns comandos executados no openssl.exe compilado e instalado do vcpkg precisam conter o arquivo de configuração disponível, como o genrsa. A compilação do openssl-windows pelo vcpkg gera o arquivo, mas o apaga após o build. Há uma checagem pós-build no vcpkg.exe que verifica se há arquivos sobrando na estrutura de diretórios que será copiada para a pasta installed/triplet após a conclusão da instalação no módulo postbuildlint. A função checknofilesindir verifica se há arquivos sobrando nos diretórios onde eles não deveriam estar e cancela a instalação. Por isso que originalmente o openssl-windows/portfile.cmake apaga o openssl.cnf gerado na pasta raiz e na subpasta debug do build.
+Sabendo de tudo isso, a única coisa que você precisa em um projeto isolado é um script de bootstrap que baixe um repositório vcpkg customizado para o projeto, compile, instale os pacotes necessários e integre com o Visual Studio antes de iniciar a compilação do próprio projeto. Dessa forma é possível montar o ambiente de maneira automática e sanitizada para qualquer membro da equipe ou máquina de build.
 
-Minha mudança foi apenas não apagar o arquivo openssl.cnf release e movê-lo para a pasta onde está localizado o openssl.exe. Dessa forma fica simples de detectá-lo, mas ainda assim é necessário apontar para a ferramenta onde ele está, definindo a variável de ambiente OPENSSLCONF ou passando como parâmetro.
+Vejamos como seria um bootstrap.bat:
+
+    @echo off
+    
+    if not exist vcpkg (
+      git clone https://vcpkg.git
+    ) else (
+      echo vcpkg detected
+    )
+    
+    if not exist vcpkg\vcpkg.exe (
+      pushd vcpkg
+      call bootstrap-vcpkg.bat
+      popd
+    ) else (
+      echo vcpkg detected
+    )
+    
+    if exist vcpkg\vcpkg.exe (
+      pushd vcpkg
+      vcpkg update
+      vcpkg install pkg1
+      vcpkg install pkg2
+      vcpkg install pkgN
+      vcpkg integrate install
+      popd
+    )
+
+Com esse script na pasta raiz do seu projeto ele irá criar uma subpasta chamada vcpkg e após realizar as operações descritas acima integrar ao Visual Studio. Dessa forma quando for compilar o projeto os includes e libs já estarão disponíveis para que ele funcione, mesmo diretamente de uma máquina limpa.
+
+Esse script pode ser integrado à lib principal do projeto ou o projeto da solution que primeiro deve compilar (porque todos dependem dele). Para isso existe o Pre-Build Event nas configurações de um projeto do Visual Studio. Os comandos que estiverem lá serão executados sempre antes da compilação.
+
+    <PreBuildEvent>
+      <Command>
+        pushd $(SolutionDir)
+        call bootstrap.bat
+        popd
+      </Command>
+    </PreBuildEvent>
+
+O único passo não-descrito neste artigo é baixar o projeto e iniciar o build, tarefas triviais de integração.
 

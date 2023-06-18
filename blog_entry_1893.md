@@ -1,24 +1,69 @@
 ---
 categories:
-- writting
-date: '2016-11-03'
-link: https://www.imdb.com/title/tt0097576
-tags:
-- movies
-title: Indiana Jones e a Última Cruzada
+- coding
+date: '2015-10-28'
+tags: null
+title: Indexando símbolos com rapidez
 ---
 
-Há filmes que parecem diferentes dependendo do período da vida que você os assiste. A Última Cruzada, última aventura de Indiana Jones nos anos 80, para mim foi quando criança uma aventura sólida, divertida, emocionante e cujos valores cristãos eu compactuava na época. Hoje, mais velho, e alguns milhares de filmes depois, continuo vendo como quase tudo isso (tirando a parte cristã), mas com um sentimento que foi adicionado com o passar dos anos: o saudosismo, ou até a saudade, da época em que ação de verdade envolvia o herói ficar pendurado do lado de fora de um tanque e comer poeira aguardando sua morte imediata.
+Trabalhar com inúmeros projetos de diferentes clientes e diferentes binários pode ser uma loucura. Quando o mundo é Windows, algumas medidas precisam ser padronizadas para evitar a perda de informação durante todo o processo de desenvolvimento, testes, deploy e manutenção.
 
-Nesta aventura o roteirista Jeffrey Boam nos remete de volta ao primeiro filme, com nazista em busca de um artefato religioso supostamente com poderes mágicos, mas em vez dos judeus e a arca da aliança, agora estamos falando dos cristãos, onde um pequeno ramo da história remete ao rei Artur e suas lendas. Porém, a história também volta ainda mais no tempo, narrando (supostamente) a primeira aventura de um Indy ainda garoto, e em uma perseguição em cima de um trem do zoológico consegue inserir diversos elementos de seu universo, como o medo de cobras, o chicote e até o jeito bonachão de se sentir vitorioso. Ah, e claro, o chapéu.
+A respeito do deploy e manutenção, um dos principais é manter o código sempre atualizado, limpo e asseado, além de estar dentro de pelo menos um controle de fonte, de preferência distribuído ([Mercurial], [Git], [Bazaar]).
 
-É nesse momento que ouvimos seu pai, em seu escritório, ordenando que o garoto que entra excitado conte até cinco em grego. Mas até lá ele já perdeu o artefato que tinha roubado de exploradores para colocar no museu. Esse timing entre pai e filho se repetirá durante todo o filme, quando o filme avança para os tempos atuais e a história de ambos se cruzam quando seu pai desaparece durante as pesquisas que avançam em busca do cálice sagrado, a taça usada por Jesus em sua última ceia, e que de acordo com a lenda teria a propriedade de dar vida eterna a quem o usasse.
+Porém, voltando ao mundo Windows, os fontes não são apenas a única fonte de preocupação e zelo. Os binários também são importante. Binários eu digo os EXEs, DLLs geradas, além dos seus símbolos (PDBs), que contém o mapa entre aquele monte de 1s e 0s e o código-fonte de onde ele saiu.
 
-Seu pai é interpretado por Sean Connery em um estado de espírito que consegue trazer um alívio cômico compatível com o garoto interpretado por Jonathan Ke Quan em O Templo da Perdição, mas de uma maneira mais natural e misturada com a emoção de vermos pai e filho contracenando, mesmo que o pai tenha sido apresentado apenas em trinta segundos. Isso porque Connery foge de sua zona de conforto desde o começo. Ele está disposto a viver essa persona de um velhinho inteligente, distraído e ainda assim, espirituoso. O roteiro de Boam também é responsável por criar ótimos momentos com a dupla. A primeira cena entre eles com Jones adulto já se torna clássica. O pai quebra um vaso Ming na cabeça do filho pensando que era um nazista; o pai lamenta que seja um Ming, no que o filho responde que está tudo bem (com a cabeça dele), no que o pai respira aliviado; mas não pelo filho: por descobrir que o vaso é uma mera falsificação.
+Nós da [BitForge](http://www.bitforge.com.br) costumamos pelo menos indexar binários com fonte, através dos resources do binário. Como isso é feito? Basicamente editando o arquivo RC na parte da versão do binário e inserindo o hash do commit usado para gerar aquele binário. Com isso qualquer binário produzido possui seu pai ("use the source, Luke!"). Usamos um script em Python muito simples e muito eficaz para isso, que indexa .NET e C++ (através do Visual Studio, mas não está com muitas amarras de ambiente):
 
-Este filme não conseguiria ficar ao nível dos dois primeiros se não fosse pela química indispensável entre Connery e Harrison Ford, o que chacoalha a suposta mesmice que seria mais uma aventura "a la James Bond" de uma maneira que consegue manter o velho formato com mocinha e bandido e ampliá-lo pela ótica de mais uma geração em cena.
+```
+rc_new_content = re.sub(u'^.*ProductVersion.*$', product_version_string, rc_original_content, flags=re.MULTILINE)
+rc_new_content = re.sub(u'^.*FILEVERSION.*$', file_version_string, rc_new_content, flags=re.MULTILINE)
+```
 
-Mais uma vez a fotografia usada por Douglas Slocombe é épica, com um amarelo que favorece as paisagens desérticas de onde está a aventura, além de usar uma certa iconografia pálida e triste dos nazistas -- incluindo o próprio Hitler -- durante uma queima de livros. Além disso, a dupla de editores formada por George Lucas e Michael Kahn é imbatível nas cenas de ação, realizando um ritmo que é lento o suficiente para vermos as reações de Jones e seu pai e ágil o suficiente para que continue sendo um filme de ação.
+Quando algum binário parar na máquina de algum cliente em algum lugar do universo, basta olhar para os detalhes pelo Windows Explorer, e ele estará lá:
 
-Alguns efeitos soam passados, como o rápido envelhecimento de um personagem, mesmo que ainda impressione. Eu me lembro, quando criança, como essa cena me impactava muito, pelo medo de escolher a taça errada. Hoje ela me impacta por outros motivos. Entre eles a irracionalidade humana, que ambiciona o que não entende, e nessa busca estúpida por mais poder acaba sucumbindo por um desmoronamento de sua própria ignorância. A sensação é parecida, no entanto, quando Jones estala o seu chicote e o usa como cipó. Inesquecível e imutável.
+{{< image src="mogZt3n.png" caption="" >}}
+
+Através desse a2f3c... podemos capturar o commit exato de onde saiu o binário. Tudo, é claro, confiando no procedimento de toda a equipe: apenas gerar um binário a partir de um commit publicado.
+
+Você também pode exibir a versão dos binários em uma pasta através das colunas do Windows Explorer:
+
+{{< image src="vfY2oan.png" caption="" >}}
+
+### Indexando símbolos e binários
+
+Outro detalhe de binários é que eles vivem sendo sobrescritos. Todo "Project, Build" sobrescreve o binário anterior, que pode ter sido justamente o enviado para o cliente. Se o cliente não possuir nenhum procedimento de armazenamento de versões dos binários gerados (às vezes ele nem precisa, essa é nossa função) não há como obter os símbolos de binários que podem gerar problemas futuros (todo _software_ tem bug).
+
+Para resolver isso, o mínimo que se deve fazer é super-simples e nada difícil: crie uma pasta em algum lugar, nomeie essa pasta seu servidor de símbolos, a cada novo binário que será entregue, indexe o binário e os seus símbolos. Como? Com o ["Debugging Tools for Windows"](https://msdn.microsoft.com/en-us/library/windows/hardware/ff551063(v=vs.85).aspx), como dizia um amigo meu, é mamão com açúcar:
+
+```
+"c:\Tools\DbgTools(x86)\symstore" add /r /f <MINHA-PASTA-COM-BINÁRIOS> /s c:\Tools\Symbols /t "IndexSymbols"
+```
+
+Essa e outra técnicas de indexar fontes e binário você pode ver no meu [artigo], na [palestra](http://caloni.com.br/ccppbr-rio-12/) e [vídeo de demonstração](https://www.youtube.com/watch?v=mZewxqlFShA). Se você for cego, ainda tem a vantagem da áudio-narração do vídeo. Brincadeira, ainda não temos isso.
+
+### Simplificando
+
+Com o poder do Windows Explorer, desde o Windows 95 podemos otimizar nossas tarefas nos baseando na extensão dos arquivos que estamos lidando. No caso do indexador de símbolos, eu simplesmente utilizo uma batch que contém exatamente a linha acima (com a diferença de %1 no lugar de <MINHA-PASTA-COM-BINÁRIOS>) que eu chamo direto do Explorer através de um comando que inseri no registro. Eis o comando:
+
+```
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\dllfile\shell\Index Symbols]
+
+[HKEY_CLASSES_ROOT\dllfile\shell\Index Symbols\command]
+@="cmd.exe /c c:\\tools\\indexsymbols.bat  \"%1\""
+```
+
+Você pode baixar um arquivo reg aqui (update: não mais), copiar as linhas acima em um .reg que você gerar, ou simplesmente seguir o passo-a-passo dessas linhas e gerar seu próprio registro. Após feito isso, surgirá um novo comando para qualquer DLL que você clicar com o outro botão do mouse:
+
+{{< image src="tvCCYcm.png" caption="" >}}
+
+Você também pode gerar o mesmo comando para EXEs, bastando realizar o mesmo passo-a-passo na pasta **exefile** em vez de **dllfile**.
+
+Procedimentos como esse devem ser uma coisa simples, não difícil. Programadores e pessoas são preguiçosas, e precisam de algum incentivo. E nesse caso, o incentivo é: o que você vai fazer quando der um crash com um binário que você não sabe de onde veio nem qual fonte foi usado para compilá-lo? Pois é.
+
+[Mercurial]: {{< relref "guia-basico-de-controle-de-codigo-mercurial" >}}
+[Git]: {{< relref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}
+[Bazaar]: {{< relref "guia-basico-de-repositorios-no-bazaar" >}}
+[artigo]: {{< relref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}
 

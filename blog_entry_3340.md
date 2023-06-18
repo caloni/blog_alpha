@@ -1,15 +1,12 @@
 ---
 categories:
 - writting
-date: '2022-01-24T23:23:56-03:00'
+date: '2021-04-04'
+link: https://www.imdb.com/title/tt3612626
 tags:
-- coffee
-title: Saga
+- animes
+title: Saekano How to Raise a Boring Girlfrield (Saenai heroine no sodatekata)
 ---
 
-Havia achado este café bem diferente na questão de sabor. Existe um amargo, mas não é como os outros. Um misto de tons vegetais e minerais. Quase nada frutado.
-
-Então sem querer eu provei junto de um queijo canastra que trouxe da mesma região, e minha surpresa: é o mesmo amargor. Feitos do mesmo solo as propriedades se combinam. É quase mágica.
-
-Esse cafezal fica em São Roque de Minas, próximo de Capitólio, para onde fomos viajar final do ano passado. Os queijos da Serra da Canastra são intensos demais e os mais curados precisam de aprender a degustar devido ao alto amargor e os sabores menos doces. E a mesma coisa serve para este café.
+Juntaram memórias afetivas e de uma equipe de criação de um jogo erótico em um anime, e os closes sensuais junto dos diálogos atravessados de personagens que nunca foram apresentados é um caos chato de acompanhar.  Não há substância que junte essas cenas em um subtexto, uma trama, qualquer coisa.
 

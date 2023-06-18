@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2017-11-23'
-link: https://www.imdb.com/title/tt3469046
+date: '2013-07-09'
+link: https://www.imdb.com/title/tt1690953
 tags:
 - movies
-title: Meu Malvado Favorito 3
+title: Meu Malvado Favorito 2
 ---
 
-Esta é uma continuação nos mesmos moldes do primeiro e do segundo filme. O mesmo estilo de piada nos acompanha, seja de Gru, de Agnes, das outras meninas, da sua agora namorada, e agora do seu irmão gêmeo e um vilão que, ao contrário do primeiro moderninho Vetor, agora é um bandido ao estilo anos 80. E também descobrimos que o pai de Gru era um vilão estilo anos 60, digno dos filmes de James Bond. Ou Austin Powers.
+Apesar de suas fraquezas expostas por uma trama simplista, [Meu Malvado Favorito] (2010) possui momentos divertidos demais para ser esquecido (ainda mais se comparado com franquias já bem mais desgastadas, como [A Era do Gelo] e [Madagascar]). Pegando carona no sucesso conquistado, a sua sequência explora melhor a relação entre seus personagens sem deixar de perder a sua identidade: piadas ligeiras e rasteiras que divertem pontualmente e dialogam muito bem com seu público.
 
-Todo esse emaranhado é traçado por um fiapo de história que está interessado principalmente nas piadas. E elas funcionam. Principalmente com os Minions. Criaturinhas curiosas, essas. Parecem um receptáculo das piadas mais escrotas que poderiam estar em um desenho animado. E elas funcionam. Pelo menos para os adultos mais crianças, ou as crianças mais adultas.
+Com cortes elegantes entre inesgotáveis cenas de ação e piadas que criam uma fluidez inexistente no filme original, a história de Gru, antes um vilão e agora o pai adotivo das três órfãs do filme anterior, evolui agora para um "espião consultor" do bem que tenta descobrir o autor de um crime megalomaníaco envolvendo uma substância que altera radicalmente o comportamento de criaturas antes inofensivas.
 
-Além disso, há fofice no ar com Agnes, e ela quase sempre rouba a cena. Está em busca de um unicórnio em uma floresta. É impressionante como nada tem muita lógica nos filmes dessa série, mas por algum motivo nos esquecemos disso e deixamos passar. Parece pelo bem da diversão. Esqueçamos um pouco Disney/Pixar, Dreamworks. Essas grandes, sim, precisam zelar por muito. Aqui temos apenas que dar boas risadas.
+Há muito para se divertir na segunda aventura para podermos nos preocupar em demasiado com alguns elementos inseridos em demasia, como a insistência da parceira de Gru em parecer legal e as incontáveis situações em que a adorável Agnes nos faz chorar sem querer.
 
-E elas acontecem, mais do que o tédio. Há criações visualmente curiosas, como um avião estilo navio-pirata que conduz vários minions agrupados em um saco feito com roupas de presidiários. Mas uma torre-fortaleza do vilão dos anos 80 com um cubo mágico em cima foi de matar. Pior que isso só usar um Genius (aquele brinquedo de memória), walkman, gomas de mascar e clássicos da música da época. Ainda assim, fica difícil reclamar de um filme tão simpático.
-
-E é por isso que Meu Malvado Favorito 3 é um filme razoável, mesmo não tentando fazer nada de novo. Ele simplesmente é entretenimento que não pisa muito na bola. Não espere mais nada que o primeiro e um pouco menos que o segundo e estará bem.
+[A Era do Gelo]: {{< relref "a-era-do-gelo-4" >}}
+[Madagascar]: {{< relref "madagascar-3-os-procurados" >}}
+[Meu Malvado Favorito]: {{< relref "meu-malvado-favorito" >}}
 

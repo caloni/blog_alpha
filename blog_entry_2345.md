@@ -1,11 +1,14 @@
 ---
-categories:
-- writting
-date: '2022-06-25T21:50:37-03:00'
-tags:
-- coffee
-title: Minha Torra Dark
+categories: []
+date: '2012-07-21'
+tags: null
+title: Minha palestra do TDC 2012
 ---
 
-Fiz nova torra na pipoqueira, com uma quantidade bem razoável (meio quilo talvez) e o resultado ficou bem dark, quase queimado. Depois de três a quatro dias descansando: ficou amargo? Um pouco. Mas isso é devido às imperfeições. Ficou intenso e doce também. Não ficou ruim. É um bom café. Mineiro e honesto.
+Duas semanas atrás rolou a trilha C++ do TDC 2012, que contou com além da minha presença com a dos já conhecidos Fernando Roberto (DriverEntry), Rodrigo Strauss (1Bit), etc. Uma novidade: meu colega e programador .nerd Gabriel Guilherme também participou em uma palestra sobre um assunto que acredito que deveria ser mais promovido: interop. Afinal de contas, o poder de C++ não seria nada se não houvesse motivos práticos para usá-lo. Entre esses motivos, construir soluções com linguagens mais acessíveis é um deles.
+
+Na minha palestra foquei no conteúdo dos meus dois artigos sobre um fictício Patch de Emergência ([parte 1] e [parte 2] from Wanderley Caloni).
+
+[parte 1]: {{< relref "patch-de-emergencia" >}}
+[parte 2]: {{< relref "patch-de-emergencia-2" >}}
 

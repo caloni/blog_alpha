@@ -1,21 +1,20 @@
 ---
 categories:
 - writting
-date: '2013-11-09'
-link: https://www.imdb.com/title/tt0347618
+date: '2015-07-28'
+link: https://www.imdb.com/title/tt1710308
 tags:
-- movies
-title: Reino dos Gatos
+- series
+title: Regular Show
 ---
 
-Assim como em [O Mundo dos Pequeninos], aqui os estúdios Ghibli fazem o que a Disney/Pixar começa a copiar: pequenas produções sem história desenvolvida para Cinema, mas que ganha a simpatia por usar os mesmos traços conhecidos de produções mais pomposas, como as dirigidas por Miyazaki.
+Regular Show consegue contar seus episódios em apenas dez minutos. Isso em uma história quase sempre dotada de uma criatividade sem limites onde figuras impossíveis surgem para completar as piadas com o toque final do absurdo necessário para arrematar histórias com esse tom. Confuso, mas é sempre assim.
 
-Nesse caso, a autoestima de uma menina na escola é desafiada quando ao salvar um gato falante, que mais tarde descobre ser o príncipe de um reino onde todos os gatos falam (e andam nas duas patas), é escolhida pelo rei a se casar com ele.
+Parece ser comum hoje em dia as animações preferirem vender para a TV vinte ou até mais minutos de uma experiência inchada. O público não se importa, e várias produções parecem se sentir merecedoras de ocupar nossos minutos raros dedicados ao entretenimento com repetições baratas de músicas e enredos. No caso do Regular Show, eles simplesmente parecem querer evitar a antipatia que se ganha depois de executar o mesmo roteiro dezenas (ou centenas) de vezes.
 
-A temática do "seja você mesmo" tão explorada nas animações ocidentais parece ganhar um peso metafórico impressionante nas mãos de quem sabe contar uma história. Para se tornar uma princesa, a menina precisa se transformar em um felino e abdicar de sua vida humana que tanto parece lhe trazer sofrimentos. O quão adulta pode ser uma abordagem em filme dirigido ao público infantil?
+Criado por J.G. Quintel (que dubla Mordecai) a série narra as aventuras de dois amigos inseparáveis: Mordecai, um pássaro azul, e Rigby, um guaxinim. Rigby quase sempre se mete em confusões que não apenas Mordecai acaba participando, mas todos seus outros amigos e colegas que trabalham em um parque. Não há limites para os problemas (e as soluções) que eles se metem, e geralmente estão intimamente relacionados com a teimosia e o orgulho do pequeno guaxinim.
 
-Ainda assim, como dizia, esse é um trabalho inacabado e toda a trama se desenvolve de forma bem superficial, como um conto que é esticado até se tornar um quase longa. Nesse quesito, a equipe ainda sai ganhando à frente de produções menos inspiradas como [Carros 2] e seus derivados.
+Fora os roteiros criativos e as sequências enxutas (eu falei que cada episódio tem dez minutos?) quem rouba a cena é a dublagem de William Salyers como Rigby, que a cada nova história parece criar nuances diferentes de seu exaltado alterego animal.
 
-[O Mundo dos Pequeninos]: {{< relref "o-mundo-dos-pequeninos" >}}
-[Carros 2]: {{< relref "carros-2" >}}
+E tudo isso em apenas dez minutos.
 

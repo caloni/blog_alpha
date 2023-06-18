@@ -1,40 +1,24 @@
 ---
 categories:
 - writting
-date: '2023-04-12'
+date: '2019-03-11'
+link: https://www.imdb.com/title/tt0105236
 tags:
 - movies
-title: Café com Canela
+title: Cães de Aluguel
 ---
 
-Essa moça tem uma raba interessante e passa um café gostosinho. Eu sei que os idealizadores deste filme não esperam um comentário como esse de um projeto mergulhado em representatividade e diálogos fracos. Se você compartilha da visão da equipe por trás, então não leia este texto. Obrigado.
+Há uma entrevista no Blu-Ray do filme em que Michael Madsen (Mr. Blonde) comenta quando Kirk Baltz (policial Marvin Nash) pediu para colocá-lo no porta-malas do carro de Madsen e dar uma volta no quarteirão para estudo de personagem (o personagem de Baltz entraria em cena saindo desse porta-malas). Madsen concorda. O carro usado no filme é dele, mesmo. Ele sai pelo quarteirão, coloca uma música no rádio e se empolga. Roda várias quadras além do quarteirão. Para em um Taco Bell. Pede um lanche e um refrigerante. "Sem fritas", confessa, não querendo inventar nenhuma mentira. Ele aumenta o som do rádio para que os gritos de Baltz não chamassem a atenção e alguém ligasse para a policia. Ele come o lanche e volta ao set, abrindo finalmente o porta-malas. Madsen diz: "Se filmássemos naquele momento, com a cara que ele fez ao sair, teria sido muito melhor". Provavelmente seria. Mas o que importa perceber aqui não é o perfeccionismo com que algumas cenas poderiam ficar, mas como os atores já estavam envolvidos até os ossos nesse projeto antes mesmo de começar.
 
-Este filme foi apresentado pela Petrobrás e ganhou o prêmio Petrobrás, o que já diz quase tudo sobre ele. Mas dê uma olhada nos títulos dos textos acadêmicos sobre o filme:
+Primeiro filme de Quentin Tarantino, Reservoir Dogs é um filme que vem envelhecendo muito bem. Se antes era um exemplo de um diretor promissor, embora com orçamento apertado e técnica a ser aprimorada, revendo nota-se a auto-confiança com que o filme é conduzido. É mais surpreendente se lembrarmos do elenco de peso. E mesmo assim a câmera de Tarantino passeia por aquele galpão. Ele encontra enquadramentos de clássico instantâneo e movimentos de câmera que mantém o espectador com a visão privilegiada da violência bizarra inserida em uma história cheia de personagens reais.
 
- - A (auto) representação da mulher negra no cinema brasileiro contemporâneo;
- - O corpo múltiplo negro feminino à luz de um cinema da negrura em Café com Canela;
- - Café, canela e transgressão: descolonizando narrativas feministas;
- - Políticas Públicas e a Inclusão da Mulher Negra no Cinema;
- - Feminilidades e Negritudes nas Telas: Diálogos entre a Psicologia e o Cinema;
- - O que o cinema quer da gente é coragem: negridade e dissidência sexual & de gênero nas produções da Rosza Filmes;
- - Direções do olhar: um estudo sobre as poéticas e técnicas de diretoras negras do cinema brasileiro;
- - Por um cinema negro no feminino: dororidade e pretagonismo das mulheres no filme Café com Canela;
- - Café com canela e a edificação do afeto no Cinema Negro Feminino;
- - "Café com Canela" contribui para maior representatividade no cinema.
+Os diálogos de Tarantino impressionam mais que as cenas de ação. Eles são reais. As pessoas falam ao mesmo tempo. A primeira conversa, na mesa do restaurante, podemos ouvir uma ou duas pessoas falando ao fundo enquanto Mr. Brown (o personagem que Tarantino interpreta) tenta explicar como a música "Like a Virgin" de Madonna no fundo era sobre uma garota que já tinha deitado com tantos homens que não sentia mais nada lá embaixo. Logo em seguida há um mini-discurso sobre os valores de Mr. Pink (Steve Buscemi) e sua prática de nunca dar gorjeta. A única certeza que temos quando eles saem do restaurante, de terno com gravata fina, e caminham em câmera lenta sob o som da música-tema inicial, é que esta cena é o início de algo grandioso, pois aquelas pessoas têm personalidade para conduzir uma grande história.
 
-Os textos acima poderão lhe proporcionar diversas formas de xerocar a opinião diversa que existe na imprensa; tão diversa que um é a cópia de outro que é a cópia de outro que é a cópia...
+E a promessa se cumpre. Inicialmente inserindo o núcleo da narrativa em um galpão onde os Mr. Pink e Mr. White (Harvey Keitel) se escondem após um assalto mal sucedido, você pode pensar que este será um filme de um cenário só com diálogos feitos para o teatro. Ledo engano. Tarantino está interessado não apenas em nos inserir na ação com sua câmera que vai observando de vários ângulos a situação (emulando assim os diferentes pontos de vista daquelas pessoas envolvidas), mas também em seu roteiro há uma não-linearidade que mais pra frente será sua marca registrada, mas que aqui cumpre perfeitamente o papel de ir nos deixando mais tensos. Conforme entendemos melhor quem é cada uma daquelas pessoas o desfecho que se aproxima vai ganhando mais peso.
 
-Porém, se você está curioso para entender como perdeu duas horas de sua vida, talvez este texto esclareça um pouco. Compartilho do seu tédio, caro leitor.
+Este é um filme com uma trilha sonora empolgante, com músicas escolhidas a dedo e que demonstra um cineasta disposto a arriscar um estilo. O estilo do bom gosto. A estilização da violência. O retorno aos bons e velhos tempos onde a violência era sentida e onde o tiro de uma arma, por menor que fosse, e dando o seu tempo, acabaria produzindo uma poça de sangue. E onde a violência nem precisa ser gráfica. Uma câmera se afasta quando Mr. Blonde comete uma brutalidade. Não vemos o ato. E mesmo assim ele ecoa pelas quatro paredes daquele galpão.
 
-Era uma vez um diretor que se achava muito criativo. Então ele pegou sua câmera e aproximou ao máximo da cara das pessoas. "Eu amo planos detalhe", ele diria se fosse entrevistado. A tela balança e você já não sabe se está assistindo um filme ou dentro de um bote salva vidas.
+Até em momentos mais auto-contidos, como quando Mr. Orange vai contar uma história de seu passado, Tarantino experimenta fazer um jogo de cena que além de ser extremamente bem sucedida acaba nos fazendo lembrar também que há criatividade sobrando no cineasta. Orange vai narrando aos colegas quando entrou no banheiro e encontrou quatro policiais conversando (com um pastor alemão). Em um dado momento ele continua contando a história para os amigos no bar, mas o que vemos é ele no banheiro onde estão os tais policias. Ele contando a história para eles. Ao assistir o filme você entende o porquê, e não é preciso mais explicações de como o Cinema de Tarantino trabalha de maneira muitas vezes econômica, mas eficaz.
 
-O elenco de amadores poderia ser divertido, mas está seguindo um roteiro triste, de quem não tem confiança em seu conteúdo e apela para trucagens no tempo para criar a atmosfera, ou pelo menos tentar, de um drama pela perda de um ente querido.
-
-A mudança de razão de tela e fotografia do começo conta a história sobre a divisão do presente e passado. O passado está nas memórias dessa mulher que perdeu tudo quando perdeu o filho.
-
-Do outro lado da ponte nós temos a rabuda, que é mulher, negra, independente, pobre e tem uma bike e uma receita de coxinha da família. Ela gosta de cuidar. Cuida de sua mãezinha, acamada.
-
-Os pontos que Café com Canela tenta unir estão tão espaçados na narrativa que quando eles se juntam não é natural, mas fabricado. Como os personagens engraçadinhos que compõem a trupe de amigos da rabuda.
-
-Lá pelo final você entende. A velha aprende a andar de bicicleta. E ela agora pode cruzar uma ponte e superar o passado traumático. Às vezes a única coisa que falta é uma canela no café para aquela energia extra.
+Reservoir Dogs hoje em dia tem tanto cara de cinema independente quando de jovem clássico, por iniciar uma era onde violência estilizada pode ser usada. Muitos usaram para o bem, explorando esse novo artifício em trabalhos coerentes com a proposta, e outros para o mal, apelando para violência gráfica estilizada como um sinal de mau gosto e de que não entendeu que para fazer isso você precisa ter centenas de horas de vídeo-locadora e ter explorado décadas de cinema e música. E mesmo assim ninguém garante que nascerá mais um Quentin Tarantino.
 

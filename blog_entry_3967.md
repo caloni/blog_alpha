@@ -1,11 +1,24 @@
 ---
 categories:
 - writting
-date: '2023-02-24T16:55:50-03:00'
+date: '2011-09-01'
+link: https://www.imdb.com/title/tt0000417
 tags:
 - movies
-title: 'Volta ao Mundo em 80 Dias: Uma Aposta Muito Louca'
+title: Viagem à Lua
 ---
 
-Esta aventura de Sessão da Tarde é sobre os inventores da vacina de COVID ganhando poderes acima da própria ciência, desbancando cientistas fora da academia em um movimento pró-elitista. Ele foi feito 15 anos antes da pandemia e é inspirado no livro clássico de Júlio Verne, um defensor irrestrito da ciência como fonte de conhecimento do mundo pelo homem e não um instrumento político. A época é o Iluminismo, quando os eleitos decidem que tudo o que poderia ter sido descoberto e inventado já o foi. O filme tem esse pano de fundo temático, mas é filmado como uma grande comédia de aventura, com direito a Jackie Chan por trás de alguns malabarismos de sua autoria, já com cortes (antigamente ele não precisava disso) e um interesse romântico divertido quase no espírito das personagens femininas de Fellini ou Chaplin. Bacana e bonita a moça, Cécile de France, mesmo que sua beleza material esteja nas mãos de uma maquiagem exagerada e teatral com um penteado maravilhoso. Toda a direção de arte segue esse mesmo princípio do exagerado, cartunesco e ao mesmo tempo épico. O filme nos insere nas referências da obra original modificada como uma homenagem pulsante. Perde fôlego nos momentos finais, mas são quase duas horas de bastante improviso cômico que quer ser espontâneo ainda no espírito de filmes como os de Indiana Jones e Caçador de Esmeraldas. Seu protagonista é interpretado por Steve Coogan, que hoje lembra um pouco os papéis que são entregues a Adam Driver, o queridinho de Hollywood. Porém, Drive dificilmente atinge a intensidade cômica que Coogan imprime neste trabalho de falastrão inventor. Todo o trabalho é editado com dinamismo, mesmo que burocrático.
+O francês Georges Méliès foi um dos privilegiados que assistiu à famosa primeira projeção (coletiva) de Cinema da história: A chegada do trem na estação.
+
+E ficou maravilhado.
+
+Ao ganhar um protótipo de câmera criado por Robert William Paul, um cinematógrafo da época, ficou tão entusiasmado que saiu por aí filmando o cotidiano de Paris. Até que, sem querer, a câmera parou de rodar. Ao iniciar nova filmagem, percebeu que a ação na filmagem não batia com a sequência que estava gravada: nascia o stop-action, ou stop-motion. Com base nisso, começou a experimentar novas trucagens, no que foi descobrindo que a nova invenção não impunha limites à mente criativa: perspectiva forçada, múltiplas exposições e até filmagens em baixa e alta velocidade. Tudo isso através da câmera mágica. E isso há mais de 100 anos atrás!
+
+Com toda essa vontade de filmar a aprender sobre esse novo fenômeno, Georges Méliès se tornou um dos precursores da nova Arte. Inventou diversas técnicas utilizando conceitos hoje simples, mas que criavam efeitos na época inimagináveis (algo como um Michel Gondry do passado). Seu filme mais famoso, A Viagem para a Lua, está na lista dos 1001 filmes para se assistir antes de morrer, e tem apenas 17 minutos: uma breve espiada pelo túnel do tempo de como era fazer cinema em sua pré-história.
+
+Apesar da cópia precária disponibilizada no Archive.org, podemos ver que se trata de uma produção de respeito. As cenas são elaboradas, e possuem uma arte final bem trabalhada. O grande destaque, o pouso do foguete na Lua, além do efeito de múltipla exposição de imagens, usa uma técnica narrativa que depois será copiada à exaustão: mostrar a mesma cena de formas diferentes.
+
+As regras para assistir A Viagem para a Luz são as mesmas de hoje em dia: temos que nos deixar enganar, suspender a realidade, e participar do mundo fantasioso criado por Méliès (e uma ajudinha de Júlio Verne). A Lua do filme, ironicamente, é o próprio ser humano. Os cientistas, muito eloquentes, se trancam em seus próprios pensamentos, discutem entre eles. Seria a ciência um grupo fechado de pessoas com suas maluquices peculiares aos olhos do cidadão comum? Teríamos conseguido estreitar as barreiras de comunicação das descobertas científicas com o povo, ou ainda a visão comum de muitas coisas beira o misticismo? Seria esse o motivo de tantas religiões e rituais primitivos ainda predominarem sobre a moral humanista, mesmo com tantos avanços tecnológicos e filosóficos?
+
+Nada que um filme de 100 anos atrás não faça pensar. Como diz o crítico de cinema Pablo Villaça: "não existe filme velho; só filme ainda não assistido."
 

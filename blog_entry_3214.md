@@ -1,20 +1,23 @@
 ---
 categories:
 - writting
-date: '2012-12-17'
-link: https://www.imdb.com/title/tt1920849
+date: '2012-11-18'
+link: https://www.imdb.com/title/tt1082868
 tags:
 - movies
-title: Quatro Amigas e um Casamento
+title: Quarentena
 ---
 
-Parece que a "moda" iniciada por [Missão Madrinha de Casamento] (Paul Feig, 2011) está gerando seus primeiros frutos. Esse "Quatro Amigas..." possui o que faltava nas comédias românticas e que pode reinventar o gênero nos próximos anos: mulheres independentes e protagonistas.
+No início, por exemplo. Angela Vidal (Jennifer Carpenter, da [série Dexter] e [O Exorcismo de Emily Rose]) é uma repórter cobrindo uma noite na vida dos bombeiros junto de seu camera man Scott Percival (Steve Harris). Nesse momento temos o tom documental, tão comum hoje em dia nos filmes de terror, e que explora tão bem esse pedacinho de realismo em frente à telona. Há momentos engraçados e extrovertidos, como no momento em que a repórter começa a fazer brincadeiras com a masculinidade de seus entrevistados. Até aqui há o ponto positivo de entrarmos na atmosfera da história, embora ainda saibamos muito pouco dos seus personagens para que tenhamos algo a mais para seguir do que simplesmente o making of de uma reportagem.
 
-Nesse caso o filme gira em torno de quatro amigas: Regan (Kirsten Dunst), Katie (Isla Fisher), Gena (Lizzy Caplan) e Becky (Rebel Wilson), a única que não vive para sua aparência, está com uns quilinhos a mais e também a única que arrumou um pretendente de primeira linha. Para casar. Agora.
+A partir do momento em que a ameaça se torna visível, o risco de uma doença se alastrando entre os moradores de um prédio e as autoridades literalmente isolando-os até que tenham o controle da situação, há um motivo para ficarmos atentos, mas não há pessoas onde devemos focar nossa atenção em especial: estamos entretidos pelo momento, assim como fazemos ao assistir programas televisivos sensacionalistas.
 
-Essa inversão de expectativas também é muito bem-vinda, principalmente quando Regan começa a planejar o casamento e junto com Karie e Gena começam e terminam revelando todos os podres que você não esperaria de mulheres "perfeitinhas". No entanto, a diretora e roteirista Leslye Headland parece não saber usar corretamente todo o potencial de atuação das três meninas e começa a girar a história em círculos. Divertidos, mas círculos.
+Quando o clima fica mais pesado, com pessoas morrendo por toda a parte e ataque dos infectados, fica muito difícil aguentar o riso, pois há algo de sobrenatural demais, caricato demais. Talvez seja essa cultura de zumbis cada vez mais presente e que haja repulsa e medo desse seres tão... inertes? A tensão se mantém, mas a comédia se estabelece aí para estragar a festa.
 
-O resultado é que, mesmo que "Quatro Amigas..." divirta a maior parte do tempo, a narrativa quase nunca consegue encaixar o destino de suas personagens em torno de sua história, o que torna o filme esquecível assim que saímos da sala.
+Porém, e aí está uma grande sequência, no momento em que todas as luzes se desligam e somos obrigados a enfrentar o escuro através da filmagem noturna e o silêncio quase que completo, o destino dos personagens, e de nós, importa mais do que tudo. Nos identificamos quase que de imediato. O que é curioso, se pensarmos que até então estávamos apenas acompanhando sua agonia, desespero e gritos histéricos, mas a uma distância segura. Agora, não. Há o envolvimento direto conosco. Estamos presos na mesma sala, e temos que fazer alguma coisa.
 
-[Missão Madrinha de Casamento]: {{< relref "missao-madrinha-de-casamento" >}}
+Esse momento, infelizmente, não dura muito tempo.
+
+[série Dexter]: {{< relref "dexter-s07" >}}
+[O Exorcismo de Emily Rose]: {{< relref "o-exorcismo-de-emily-rose" >}}
 

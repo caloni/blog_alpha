@@ -1,50 +1,15 @@
 ---
 categories: []
-date: '2017-02-09'
+date: '2017-03-21'
 tags: null
-title: 'Native Floripa 2017: Palestras'
+title: 'NativeFloripa 2017: Impressões'
 ---
 
-Já está disponível na grade de palestras do Native Floripa 2017 o conteúdo que será ministrado nos dois dias do final de semana dias 18 e 19 de março de 2017 em Florianópolis, na Associação Catarinense de Empresas de Tecnologia (Rodovia SC 401, Km 4, Bairro Saco Grande, Florianópolis, SC, CEP 88032-000, Telefone (48) 2107-2700). As palestras englobam trabalhos acadêmicos, teoria da computação, demonstração de bibliotecas e práticas comuns no dia-a-dia, treinamentos em engenharia reversa, embarcados e internet das coisas, e toda coleção de linguagens bizarras que você poderá conhecer. Ah, e moedas digitais (eu! eu!) =)
+A despeito de poucas pessoas envolvidas na organização, o primeiro evento no estilo Encontro CCPPBrasil (sem ser um encontro CCPPBrasil) foi um grande sucesso. Houve um nível de palestras razoável com um público idem. Houve também uma maior participação das pessoas, com perguntas e às vezes quase um debate. Houve café no coffee break, mas mais importante: houve chope artesanal no Happy Hour. E por causa disso não há comparativos com encontros C++ de Sampa e Rio =).
 
- - Conectando EFL Models a Elementary Widgets
- - Usando C++14 com CPUs ATmel (Arduinos)
- - Acessando código nativo em Elixir
- - Apache Mynewt: An OS and Tools for the Embedded World
- - Desenvolvimento de sistema visão computacional de tempo real usando Multithreaded IO-Pipeline com C++ e OpenCV
- - Soletta: Closing the IoT Development Gap
- - __Engenharia Reversa para Principiantes e Demo: Quebrando Dicionário Houaiss (eu! eu!)__
- - Go C, Go! - Interoperando Go e C
- - Por que Rust?
- - Implementação Inicial da RFC 6897 (MP-TCP)
- - Não use ponteiros!
- - Desenvolvimento de ferramentas Open Source para sistemas embarcados
- - Visualizando imagens médicas com C++
- - Modificando Clang para gerar arquivos coq do proof assistant para pré e pós-condições
- - Visão computacional com OpenCV: implementando uma simples interface por webcam
- - Apresentando a biblioteca cryptox
- - __Como criar moedas digitais em casa com C++ (eu! eu!)__
- - IButterFree: Uma biblioteca gráfica opensource para arquiteturas enxutas
- - Implementando algoritmos ao estilo da STL
+Palestrei duas vezes, sobre engenharia reversa e moedas digitais, nos dois dias do evento (18, 19 de março de 2017, sábado e domingo). Não consegui assistir todas as palestras porque seria fisicamente impossível, já que houve no sábado uma divisão em duas salas. Uma lástima, porque muitas vezes gostaria de ver ambas as palestras que estavam disputando o tempo. No domingo fomos de single-threaded, e infelizmente o nível de informação foi o que ficou mais aquém, com os palestrantes não tendo um domínio muito bom de conteúdos, como interop entre Go e C (que achei horrível), ou houve palestras muito básicas e verborrágicas à toa, como a construção de um exemplo bobo em OpenCV que une key-points (em um código-fonte de gosto discutível).
 
-Se isso ainda não tocou nenhum sino em sua cabeça, talvez a lista dos palestrantes o faça:
+Felizmente, com pouco público, houve a possibilidade de interagir com muitas pessoas diferentes com interesses diferentes. Houve um networking razoável, mas a impressão que ficou foi que os temas foram tão esparsos que não houve muito engajamento de uma possível plateia que ficou de fora e que resolveu não viajar para Floripa para ver apenas uma ou duas palestras.
 
- - Alan Silva
- - Carlos Eduardo Gesser
- - Expertise Solutions 
- - Fabio Galuppo
- - Fabio Utzig
- - Felipe Magno de Almeida
- - Gustavo Sverzut Barbieri
- - Larry Lira
- - Lauro Moura
- - Luiz Barreto
- - Marcelo Castellani
- - Patrick José Pereira
- - Renan Prata
- - Rodrigo Madera
- - Vitor Sousa Da Silva
- - __Wanderley Caloni (eu! eu!)__
-
-As inscrições já estão abertas e o preço me impressionou. Para um evento com dois dias, está bem mais acessível que o TDC.
+De qualquer forma, houve gente de fora (eu incluso). Muita gente de SP e do Sul, pelo que pude constatar (muita gente == mais que meia-dúzia). Também houve bastante palestras de uma empresa só (esqueci o nome, mas isso não importa, pois não divulgaria aqui). O preço do ingresso foi muito válido para os pagantes, IMHO, porque além do coffee-break havia máquinas de chope no recinto e um ambiente extremamente agradável no melhor estilo empresa de startup ou incubadora, com design modernão. Ah, e o chope do Happy de sábado foi na faixa. Houvi falar que há eventos muitos mais caros com restrição de salas feitos em universidades onde serve-se biscoito seco e no almoço um lanche sub-way surrado. Em comparação, NativeFloripa foi algo muito, muito superior.
 

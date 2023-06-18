@@ -1,18 +1,12 @@
 ---
 categories:
 - writting
-date: '2021-05-04'
-link: https://www.imdb.com/title/tt2359704
+date: '2020-08-19'
+link: https://www.imdb.com/title/tt6146586
 tags:
-- animes
-title: JoJo's Bizarre Adventure (JoJo no kimyô-na bôken)
+- movies
+title: 'John Wick 3 - Parabellum '
 ---
 
-Conheci esse anime com uma feature nova do app Netflix da minha TV: dar play em algo "aleatório" do catálogo. Foi a segunda coisa que veio. Essa feature é sensacional por vários motivos, mas o principal é não estar sujeito à estética do marketing de um material antes do material em si, o que dá chance para trabalhos menos marketeiros.
-
-Vários descendentes da família Joestar enfrentam inimigos com força e maldades descomunais. Este anime é violento e estiloso. Sua curta história só piora quando os roteiristas tentam deixar mais curta já dizendo tudo que está acontecendo na cena, seja pela boca de personagens secundários ou do narrador.
-
-## 2022-02-15
-
-A temporada com a minazinha presa comprova o que observei no primeiro episódio da primeira temporada: este é conteúdo promocional do mangá desde o começo até o fim. As virtudes artísticas do anime, que possui uma arte e cores que empolgam pela mescla do cartoon norte-americano e o mangá japonês, estão aprisionadas em diálogos sufocantes e sonolentos sobre cenas de ação cada vez mais bizarras, mas cada vez menos interessantes, e cada vez mais lentas. No final tudo que foi construído serve para catapultar dois objetivos: novas temporadas e venda de bonecos.
+Está sentindo um cheiro de "trilogia" no ar? Um estúdio se deu bem no seu primeiro filme de ação dirigido por veteranos na arte das cenas de luta. E agora temos que aguentar mensagens sociais até em filmes de ação. A arte no século 21 respira justiça social, e por isso as salas de cinema fedem tanto. Porém, Parabellum possui um nome elegante e uma marca de grife de filmes tentando se estabelecer no ramo. Esta terceira versão é muito mais John Wick versão luta coreografada com um ator que finalmente mostra sinais de velhice, e menos aquele drama intimista sobre nossos fantasmas do passado que o original ensaiou fazer. Se você gosta dessa versão, vai adorar as cenas de morte e luta e sangue. Se quiser ver filme de ação para refletir, imagine esse mundo subterrâneo em Nova York e como praticamente todo mundo, desde os mendigos até os ricaços, parecem jogar. E existe hierarquia, e existe o poder do Capital. A única diferença são armas. Muitas armas. Quer dizer, talvez não haja diferença nenhuma.
 

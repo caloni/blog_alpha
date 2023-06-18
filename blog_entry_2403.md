@@ -1,23 +1,20 @@
 ---
 categories:
 - writting
-date: '2023-01-24T10:50:40-03:00'
+date: '2020-10-22'
+link: https://www.imdb.com/title/tt5658540
 tags:
 - cinemaqui
-- mostratiradentes
+- mostra
 - movies
-title: Mostra Foco Série 1
+title: Mosquito
 ---
 
-Os Animais Mais Fofos e Engraçados do Mundo, de Renato Sircilli
+Mosquito, um filme português, é sobre a introspecção de um garoto em uma guerra próxima do final. Ele tem 17 anos e como todo jovem descerebrado cheio de energia para morrer espera poder fazer parte de uma batalha, mas está em um pelotão cujo objetivo é ficar "de boa na lagoa" (no caso na savana).
 
-Se há um curta mais sucinto e poderoso que este na Mostra de Tiradentes eu não o vi. Ele fala sobre nossa crise de afeição moderna. Paulo Goya constrói Jorge, um faxineiro de motel que grava áudio dos clientes para vender a Alberto, que vira seu parceiro sexual. Parece um negócio em que todos ganham, mas apesar de ter tudo, Jorge não tem o mínimo para uma vida sã: o afeto do outro. Sua gravação mais emblemática é de um casal hétero em que ela compartilha vídeos de bichinhos com o amante. Repare nas relações metafóricas do filme, como entre esse momento e as marcas no corpo de quem um raio o atravessou, e verá um trabalho detalhista e carregado de ensinamentos emocionais.
+Então ele acaba se distanciando e vivendo uma imersão cultural numa tribo onde só há mulheres. Onde estão os homens, ele questiona. Quem é o chefe? Ele ignora que boa parte da força braçal entre o exército português são os escravos de suas colônias. Ele próprio vira escravo, pois é pequeno e mirrado e abatido. A escravidão já existia na África, e aqui é visto sob o ponto de vista invertido como algo mais "humano". Engraçado o poder de julgar a humanidade pelo quão gente boa você é para o seu escravo. Hoje em dia, por exemplo, a questão escravista fica apenas no passado muito recente, ignorando que já era praticada pelo menos desde a Antiguidade.
 
-Lalabis, de Noá Bonoba
+O delírio do garoto, picado pelo título do filme, é usado para relativizar suas viagens. Quando ele encontra dois desertores, um português, outro alemão, eles possuem dois motivos bem distintos. O português o chama para viagens mais amalucadas. O alemão tenta trazê-lo de volta para a sanidade. Ambos são inúteis, pois de uma forma ou de outra o garoto sempre sai perdendo. Há uma única cena verdadeiramente chocante, no final, que é quando acordamos. Apesar de lugar-comum de guerra, gostaríamos que não fosse verdade. Pelo menos a sanidade do garoto volta ao normal.
 
-Experimental e apocalíptico, Lalabis é atraente em sua confecção modernista deste mundo onde todos estão paralisados menos a heroína do filme. Ela tenta compreender o que aconteceu e no processo descobre uma segunda camada, uma camada mística, por trás do que ocorre com os humanos. Incompleto e inspirador.
-
-Promessa de um Amor Selvagem, de Davi Mello
-
-Quando o "ser normal" não passa apenas de um sonho é melhor que a morte seja a solução de nossos problemas. O trabalho de Davi Mello explora uma dualidade do ser que navega entre gêneros e épocas com facilidade para o espectador entender. Talvez seja fácil demais. Ao final, o sabor do inesperado e enigmático se mantém por pouco tempo. Falta ousadia em uma ideia bacana, não original, mas feita com esmero. Não é ideia para um longa, mas faz querermos pelo menos mais alguns minutos no mundo mágico das linhas de vida e troca de perspectiva.
+Óbvio que o filme é antibelicista. Qual a relevância aqui? Este é um filme sobre a lei do mais forte. "O leão é o que ruge mais alto", um comandante diz a ele. Mas esta é uma história onde quem ruge mais alto troca de lados várias vezes, seja pela força física ou pela lucidez. É uma viagem meio teatral, baseada em movimentos de câmera cambaleantes e um garoto ligeiramente abobalhado. Não há momentos visuais brilhantes como nos claramente fontes de inspiração Além da Linha Vermelha e Resgate do Soldado Ryan. É cansativo não compartilharmos das mesmas motivações de um garoto de 17 anos. A atuação de João Nunes Monteiro é má utilizada. Ele é o elo mais fraco da história, mas precisa ser o mais forte em seu protagonismo. Sem protagonistas o filme naufraga. A savana africana nunca foi tão desinteressante. Mesmo com uma fotografia de primeira.
 

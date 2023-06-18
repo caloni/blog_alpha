@@ -1,37 +1,65 @@
 ---
 categories:
 - coding
-date: '2022-07-12T21:02:54-03:00'
-tags: null
-title: Como converter qualquer projeto antigo do Visual Studio em CMake
+date: '2021-05-01'
+link: https://youtu.be/PU0O_HYMoCw
+tags:
+- debug
+- videos
+title: Como Configurar Debug de Kernel Pela Rede (Hyper-V Edition)
 ---
 
-Aproveita esse pedaço abaixo de `CMakeLists.txt` como colinha e cria na pasta do seu projeto.
+Estava pensando em transformar alguns posts antigos que estou revisando em vídeos no YouTube. Acho que o esforço para fazer isso é relativamente baixo se for sem áudio, sem edição e apenas com o que eu naturalmente faria para validar as partes técnicas, e muita gente poderia aprender algumas coisas, como, por exemplo, configurar o debug de kernel.
 
-```
-cmake_minimum_required(VERSION 3.16)
-project (meu_projeto)
-add_executable(meu_projeto
-```
+Foi nessas que eu comecei a gravar um vídeo para [o post] onde eu ensino a depurar um processo em user mode através do debug de kernel mode usando o WinDbg. Esse post é de mais de dez anos e na época usei VMWare e emulação de cabo serial. Hoje estou usando Hyper-V e vejo que a maneira mais fácil de configurar o debug de kernel é pelo driver de rede, usando uma ferramenta do Debugging Tools chamado kdnet.
 
-Lista os arquivos de extensão `.cpp` e joga a listagem no final do `CMakeLists.txt`. Por fim adiciona o fecha-parênteses que está faltando.
+No vídeo original comecei na inocência seguindo o tutorial da Microsoft para configurar o kdnet, mas acabei gastando quase uma hora nesse esforço, e foi em vão. Eu não consegui usar os passos descritos no tutorial para fazer o boot finalmente conectar no kd.exe.
 
-```
-dir /b *.cpp >> CMakeLists.txt
-echo ) >> CMakeLists.txt
-```
+Pesquisando sobre pessoas que tiveram o mesmo problema encontro um [post da Ophir Harpaz] no Medium dizendo que irá ensinar o porquê de cada comando na configuração desse tipo de debug. O título do post é apenas um chamariz, pois também é um passo-a-passo sem explicação nenhuma dos motivos por trás de cada comando. Porém, os passos são diferentes do da Microsoft, e esses funcionaram. Então vou gravar o vídeo, e de brinde segue o passo-a-passo:
 
-Pronto. Se seu projeto não tem dependências externas é só compilar.
+Com uma VM de Windows 10 criada no Hyper-V, desabilite o Secure Boot pelas configurações da VM:
 
-```
-mkdir build && cd build
-cmake ..
-cmake --build .
-```
+{{< image src="hyper-v-disable-secure-boot.png" caption="" >}}
 
-Os erros mais comuns a partir daí são erros de inclusão e linkedição. Para os erros de inclusão use comandos no `CMakeLists.txt` como `target_include_directories`. Para os erros de linkedição use os comandos `target_link_libraries` para incluir as libs e `target_link_directories` para dizer que em pasta estão. Você deve encontrar essas informações no projeto original do Visual Studio.
+Desligue a VM. Pelo meno do Hyper-V crie um novo adaptador pelo Virtual Switch Manager; esse deve apontar para um adaptador de sua máquina real, para host e target conseguirem se comunicar. Atribua esse novo adaptador à sua VM desligada e volte a ligá-la.
 
-Em geral é melhor seguir esse passo-a-passo de como gerar um projeto limpo em vez de tentar converter. Se houver algum truque na solução Visual Studio ela deverá ser portada de maneira mais documentada e pronta para portabilidade. Com o CMake você não terá mais que se preocupar com qual versão do Visual Studio irá trabalhar, e quando migrar basta instalar ou apontar a versão correta (direto no comando cmake).
+Já ligada abra um prompt de comando elevado e use os seguintes comandos do bcdedit para configurar um boot de debug. Lembre-se que o IP deve ser o IP da sua máquina host do seu adaptador de rede real (wi-fi ou cabo). Executando um ipconfig você consegue pegar ele.
 
-A tempo: trate os arquivos da solução do Visual Studio gerados pelo cmake como temporários. Não use controle de fonte em cima deles. Isso o ajudará a manter a base do seu projeto apenas nos arquivos `CMakeLists.txt`.
+    >bcdedit /copy {current} /d "KDNet port 50035"
+    The entry was successfully copied to {dd896c2e-fccb-11e8-9cb7-d481d7c30c24}
+
+    >bcdedit /default {dd896c2e-fccb-11e8-9cb7-d481d7c30c24}
+
+    > bcdedit /set {default} debug yes
+    The operation completed successfully.
+
+    > bcdedit /dbgsettings net hostip:192.168.1.120 port:50035 newkey
+    Key=g3mx1h96o5j9.tbdbyy05hfu7.10tkqaj5agj7e.xttvshlq4zsr
+
+Verificando as configurações:
+
+    > bcdedit /dbgsettings
+    key         g3mx1h96o5j9.tbdbyy05hfu7.10tkqaj5agj7e.xttvshlq4zsr
+    debugtype   NET
+    hostip      192.168.1.120
+    port        50035
+
+Com tudo isso configurado é possível ir na máquina host e rodar o kd.exe:
+
+    > kd.exe -k net:port=50035,key=g3mx1h96o5j9.tbdbyy05hfu7.10tkqaj5agj7e.xttvshlq4zsr
+
+    Microsoft (R) Windows Debugger Version 10.0.18362.1 AMD64
+    Copyright (c) Microsoft Corporation. All rights reserved.
+    
+    Using NET for debugging
+    Opened WinSock 2.0
+    Kernel Debug Target Status: [no_debuggee]; Retries: [0] times in last [7] seconds.
+    Waiting to reconnect...
+
+Ele vai ficar nessa de aguardar até a máquina target estar disponível, ou seja, bootando na configuração debug configurada para debug de kernel pela rede nesse IP. Lembre-se de que antes de tudo isso a porta usada deve estar acessível pelo firewall e host e target devem estar pelo menos se pingando. Verifique antes de tentar conectar.
+
+Depois de algumas horas eu finalmente consegui. Agora é hora de começar a gravar o vídeo para o post antigo. Ou outro dia.
+
+[o post]: {{< relref "kernel-mode-user-mode" >}}
+[post da Ophir Harpaz]: https://medium.com/@ophirharpaz/kdnet-tutorial-for-noobs-68669778bbd4
 

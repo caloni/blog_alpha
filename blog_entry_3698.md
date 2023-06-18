@@ -1,11 +1,19 @@
 ---
 categories:
 - writting
-date: '2022-05-24T21:39:06-03:00'
+date: '2017-04-16'
+link: https://www.imdb.com/title/tt4613520
 tags:
-- movies
-title: Os Opostos Sempre se Atraem
+- series
+title: The Sound of Your Heart
 ---
 
-Comédia francesa de ação com Omar Sy e os sonhos mais molhados dos liberais. Aqui, diferente da vida real, há uma facção criminosa repetindo os passos do partido conduzido por Hitler, mas eles são chamados de fascistas de qualquer jeito. Seu crime: fazer piadas de negros. Hoje isso dá cadeia. Ou pior: cancelamento nas redes sociais.
+Maeumui sori é uma espécia de sitcom e novela/série coreana que apela para o absurdo, peidos e quadrinhos mal desenhados. Ele é engessado em seu formato e simples em sua abordagem, e tenta concentrar o maior número possível de piadas escatológicas e familiares aos seus poucos personagens.
+
+Ele vai denegrindo aos poucos. Começa com ideias quase originais, mas pelo menos muito engraçadas, e usa um ator com um timing cômico muito bom (Kwang Soo Lee) para interpretar o personagem principal. Ainda assim, falta combustível lá pela metade da temporada.
+
+
+# 2022-10-20
+
+Foi feita uma segunda temporada com um elenco totalmente diferente do original, menos carismático e espontâneo. É através do novo casting que você percebe um talento maior do original. Tanto que assistindo à nova temporada fomos primeiro reassistir a antiga.
 

@@ -1,17 +1,20 @@
 ---
 categories:
 - writting
-date: '2021-12-28T22:25:28-03:00'
+date: '2018-07-13'
+link: https://www.imdb.com/title/tt6626676
 tags:
-- movies
-title: Samsara
+- series
+title: Samantha!
 ---
 
-Samsara é o nome dado ao mundo da ilusão. Oposto ao nirvana, a iluminação, é sinônimo do mundo onde vivemos.
+O plano-sequência inicial de "Samantha!", série da Netflix produzida no Brasil, irá revelar uma miríade de sentimentos e mensagens conflitantes sobre o que significavam os anos 80. Incluindo a figura de uma caixa de cigarros em um programa infantil protagonizado por uma garota mimada, uma criança erotizada na TV brasileira. Até agora, nada de novo. Só que piora.
 
-A história desse filme segue o caminho oposto com muito charme e propriedade. Se trata de uma produção grande, feita em locações reais dessa região da Índia, mas a impressão da fotografia é que se trata de um palco de teatro com fundo pintado. Não se engane: a fotografia é maravilhosa, pois evoca as cores reais e ao mesmo tempo oníricas da paisagem onde este conto poderoso e atemporal se sucede.
+Avançamos no tempo e o que temos no lugar é a Samantha adulta (Emanuelle Araújo, que fez Gretchen no elogiado "Bingo: O Rei das Manhãs"), uma dançarina magrinha e gostosa que performa exatamente a mesma música sei lá quantas décadas à frente. E o cigarrinho continua.
 
-O filme não tem medo de ser chato nos momentos parados, nem visceral quando a carne é mais fraca (e que cenas quentes). A história segue o princípio mais cinematográfico possível de "mostre, não fale", mas quando precisa falar é com muita poesia e profundidade.
+Daí surge uma história envolvendo um ex-presidiário que é pai do casal de filhos de Samantha, que atualmente beira o ostracismo e que tenta voltar aos holofotes usando para isso a figura do seu ex e possivelmente a morte do seu parceiro eterno: o cigarrinho.
 
-Poucos filmes que se dizem profundos o fazem de verdade. Este não: sua mensagem é autêntica. Seus questionamentos não são respondidos, e por isso mesmo poderosos. Sair de uma sessão dessas sem respostas é uma das melhores coisas que se pode viver dentro de uma sala de cinema.
+Também surge o formato TV Brasileira na série, que consegue transformar o piloto, nas mãos do diretor Luis Pinheiro, de um roteiro capenga para um episódio perdidaço no espaço-tempo. Não dá nem mais pra saber sobre o que se trata a série assistindo a seus primeiros intermináveis 40 minutos. É uma história sobre a nostalgia da época? Da mudança dos costumes? É uma novela em sete episódios? Haverá comédia no final do túnel, ou são só essas piadas sem graça mesmo? E por quê, por quê, meu deus, essa trilha sonora comprada em um CD de banca de jornal?
+
+Felipe Braga, que dirige o primeiro episódio, é o criador da série e ainda produtor executivo, talvez seja o principal culpado por colocar uma gostosa aleatória nas telonas da Netflix protagonizando a miscelânea de erros da TV brasileira em suas últimas quatro décadas. Mas prefiro culpar a Netflix por essa bobagem. Eles já estão acostumados em apostar em canoas furadas.
 

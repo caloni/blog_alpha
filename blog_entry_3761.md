@@ -1,12 +1,11 @@
 ---
 categories:
 - writting
-date: '2012-01-09'
-link: https://www.imdb.com/title/tt0114709
+date: '2021-12-05T21:31:05-03:00'
 tags:
-- movies
-title: Toy Story
+- wine
+title: Toro Centenário 120
 ---
 
-Achei melhor do que as vezes anteriores que tinha assistido. A direção se esforça ao enfocar a ação e o uso de ângulos criativos que inibem a ainda falta de tecnologia que torna as texturas simplórias, apesar de bem trabalhadas. A dublagem nacional mais uma vez empolga, com menção honrosa ao Sr. Cabeça de Batata.
+Qual vinho tomar para relaxar no calor? Em parceria de amigos qualquer um. Peguei esse Cabernet chileno recente, de corpo leve e participação modesta, e fez suas honras sem soar pedante.
 

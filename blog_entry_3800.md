@@ -1,20 +1,28 @@
 ---
 categories:
 - writting
-date: '2018-05-14'
-link: https://www.imdb.com/title/tt1104001
+date: '2016-11-17'
+link: https://www.imdb.com/title/tt1679335
 tags:
 - movies
-title: 'Tron: o Legado'
+title: Trolls
 ---
 
-O universo redescoberto pela Disney nesta continuação da saga Tron, que revolucionou em sua época os filmes feitos por computador, demonstra aqui todo o potencial do CGI em um universo não apenas construído essencialmente por computadores, mas rodando dentro de um. Como cult dos anos 80, que revolucionou a computação gráfica na época. Hoje, o uso de televisores 3D e a câmera indo em foco da imagem 2D de um deles pode ser considerada a única revolução desse filme.
+Um milagre acontece. E está um bom ano para milagres em animação. Trolls, assim como Angry Birds como adaptação de games e Zootopia como a contemporaneidade da vida social, consegue se tornar um exemplo ainda melhor de como pegar um fiapo de argumento -- brinquedos feios da década de 80/90 -- e transformar em uma ode à felicidade, à referência de uma era, ao retorno da simples e não-cínica vida comum.
 
-Além de Olivia Wilde, obviamente, ter curvas lindas, apreciadas da melhor maneira, em 3D, a aventura Disney conta sempre algo mais com a apresentação desse mundo, provavelmente já de olho em continuações, jogos, etc, do que com uma história minimamente interessante. Se trata do velho plot do filho que perde o pai quando pequeno, vive à sua sombra, um pouco revoltado (revoltado estilo bilionário que quer dar sua propriedade intelectual de graça) e que demonstra estar pronto para ser digitalizado e sobreviver em um mundo de jogos onde o game over é sua própria vida.
+Para isso ele conta com uma quantidade monstruosa de canções famosas de várias décadas em vários formatos, que fazem o percurso histórico do dance e do pop através das simpáticas figuras de um grupo de pequenas criaturas que cantam, dançam e se abraçam de hora em hora -- essa basicamente é a cultura deles -- sempre incentivados por sua amada princesa, que conta as histórias de seu povo através de recortes fofinhos, e seu leal rei, que não abandona ninguém quando sua aldeia é invadida por terríveis "gigantes" (para eles) chamados de Bergens. 
 
-Deixe-me explicar o que a trilha sonora de Daft Punk significa neste filme. Ela é visceral, parte integrante e protagonista do começo ao fim. Ela representa tudo o que sabemos até hoje dessa cultura de vídeo-games, de música techno e de hits temporários, repetitivos e sem sentido. É nosso niilismo popularizado em notas digitais que são compostas cada vez mais com a ajuda de um computador. Estar vivenciando uma experiência em um mundo digital ouvindo uma música percursiva dessas é como um deleite extrasensorial. A sua tensão combinada com a eternidade do dia (não há dia e noite no mundo digital) e a efemeridade da existência (programas podem ser destruídos em questão de segundos) colocam este filme muito acima do que ele mereceria com sua narrativa preguiçosa e arrastada.
+A sequência de fuga é narrada como um épico, com uma trilha grandiosa e todo o peso que isso acarreta. Isso não impede que logo os Trolls se recuperem e voltem a contar os minutos até o próximo abraço coletivo. De certa forma, a luta pela felicidade torna o grupo sempre unido.
 
-A presença de Jeff Bridges no projeto traz um pouco de nostalgia e uma curiosidade. Bridges se tornou um ator muito mais interessante com o passar dos anos. Ele foi um achado no Tron original, mas aqui ele parece uma participação de luxo. Porém, o protagonista de O Grande Lebowski se joga aqui como no automático, e embora sua dicção emotiva e sua postura pertinente em defender seu mundo e sua visão pessimista sobre seu destino, ou em dizer falas ligeiramente embaraçosas torne-as superiores ao roteiro, a decepção bate mais forte que o encantamento.
+Exceto pela figura do antipático Branch (Justin Timberlake no original), um troll que evita a todo custo os rituais de seu povo, e que, diferente de todos eles, mantém em sua pele uma cor escura e de aspecto apagado. Todos os Trolls são coloridíssimos, e até a fauna e flora que os cerca contém cores surreais. Isso sem contar, é claro, com os mais enfeitados ainda, que soltam purpurina de orifícios que geralmente contém elementos desagradáveis da vida humana.
 
-"Tron: O Legado" não se tornou um hit da Disney assim como John Carter, Príncipe da Pérsia e tantas outras apostas furadas que a produtora fez em uma má época de lançamentos. Ela é uma das poucas produtoras que pode se dar ao luxo de gastar seus milhões obtidos em royalties com filmes da Pixar e suas centenárias animações que ainda (tentam) encantar crianças em todo o mundo e vender princesas em todos os seus formatos. Mas em Tron o objetivo era um pouco mais dark, e não foi nenhuma surpresa constatar que os limites sonhadores da produtora politicamente correta foi extremamente inadequado para o voo digital que Tron deveria fazer em seu segundo filme.
+Mas este não é um filme sobre humanos, mas como duas raças podem ser inimigas baseado de maneira acéfala em um ritual que diz que para os Bergens, a única forma de ser feliz é se alimentando de um troll. Bergens e Branch, logo se percebe, possuem algo em comum: desistiram de buscar a felicidade em si mesmos e na comunicação com os outros. Há uma sequência musical em que eles são apresentados em uma remixagem inspiradíssima de uma música da banda virtual Gorillaz de Justin Timberlake.
+
+Aliás, desconfio que o dedo de Timberlake na produção e dublagem do filme conseguiu reunir toda a sequência musical de sua trilha sonora, em uma coleção de direitos autorais que formam uma mensagem clara através desses cabeludinhos coloridíssimos. Afinal de contas, a maioria das músicas é psicodelia pura que caminham desde uma época inocente (anos 60, 70) até as revisões do passado (anos 2000).
+
+Além disso, o uso inspirado da união entre os dois mundos torna a história de amor contida entre dois jovens Bergens o núcleo emocional da história em uma recapitulação de Cinderela que também homenageia clássicos da Disney em um formato solto em sua irretocável primeira metade, e que aos poucos dá lugar a uma estrutura quase convencional em seus finalmente.
+
+É preciso citar o apuro técnico da animação, que consegue criar feições humanas extremamente realistas no rosto dos bonecos -- como um sorriso preocupado da princesa Poppy ao se fechar uma porta -- e que aliado à criatividade dos roteiristas, cria diferentes formas de se utilizar os longos e flexíveis cabelos dos pequeninos, desde chicotes até camuflagem. A direção frenética da dupla Walt Dohrn e Mike Mitchell não dão tempo o suficiente para pensarmos a respeito do que vemos, o que é ótimos se entendermos que não há espaço em um filme sobre brinquedos de se voltar para tramas complexas e reviravoltas inesperadas.
+
+Não, tudo é previsível em Trolls, e ainda assim tudo se torna extremamente cativante e emocionante. Não é possível evitar o clichê no momento em que True Colors, uma remasterização Timberlake de Cyndi Lauper, finalmente é cantada. Porém, toda a pausa dramática para esse momento torna Trolls um filme que encanta pela capacidade de contar história abraçando a história que tem, sem ressalvas de soar simplista ou brega demais. Até porque esta é quase também uma ode muito bem feita à "breguice" dos hits do momento.
 

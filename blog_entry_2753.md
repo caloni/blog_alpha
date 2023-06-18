@@ -1,24 +1,25 @@
 ---
 categories:
 - writting
-date: '2019-07-04'
-link: https://www.imdb.com/title/tt0312843
+date: '2017-11-06'
+link: https://www.imdb.com/title/tt5222918
 tags:
+- cinemaqui
 - movies
-title: O Pacto
+title: O Outro Lado da Esperança
 ---
 
-O terror japonês pode ter todos os defeitos do mundo menos o de ser enfadonho. Aqui vemos nos primeiros minutos cerca de cinquenta garotas colegiais se dando as mãos, contando até três e pulando no trilho do trem para serem esmagadas em uma sequência de várias tomadas capturando para onde foi todo aquele sangue. E você ainda não viu nada.
+O Outro Lado da Esperança cria metáforas visuais que ao longo da história servirão para martelar o incômodo e o absurdo. Vemos um navio se aproximando. A câmera se aproxima dele, que atraca no porto. É um navio que carrega asfalto. E do asfalto eis que surge um imigrante. Sujo de ponta a ponta. Toma um belo banho e está limpo de novo. A "mesma coisa" acontece com o vendedor que se livra de todo seu estoque e transforma o seu dinheiro em um restaurante. Ambos estão tentando tocar suas vidas, mas é difícil, pois ambas estão tocadas pela truculência das autoridades. Bom, pelo menos há um pouco de humor para ilustrar o absurdo da situação.
 
-Este é um terror psicológico que lida com o medo irracional, mas compreensível, de termos nossos instintos sequestrados por alguma espécie de hipnose e nos entregarmos a qualquer impulso que termine com nossa própria vida, como pular de algum lugar alto. Ele lida com o medo de nós fazermos isso, nossos entes queridos ou a sociedade começar a fazer isso. Como você lida com uma crise como essa?
+O novo filme de Aki Kaurismäki explora pequenos absurdos cotidianos que não são engraçados, mas simplesmente... absurdos. O resultado é um filme leve, gráfico, teatral, mas ao mesmo tempo surreal. Ele caminha fácil entre planos, levando sua história a pontos que possivelmente já imaginaríamos, mas não com tanta criatividade.
 
-O detetive Toshiharu Kuroda (Ryo Ishibashi) pretende primeiro convencer seus colegas de que este e casos recentes são assassinatos e não casos isolados de suicídio que ocorrem em grandes cidades. Ele tem a ajuda do surgimento de uma bolsa com uma coleção de pequenos retângulos de peles cortadas costuradas uma junto da outras, mas nem isso parece convencer os obtusos policiais, que ainda que divirtam pelo jeito bonachão de andar por aí fazendo perguntas estão completamente deslocados da atmosfera do filme.
+O filme fala sobre imigração, isso é óbvio. Mas ao mesmo tempo quer dialogar com todo homem comum que deseja mais. E quando o imigrante e o vendedor desejam mais, todos se viram contra eles. Mas o próprio sistema já é uma contradição ambulante. Assim como as pessoas. Repare no vendedor. Ele está insatisfeito com sua mulher, que bebe sem parar. Então ele deixa a aliança na mesa, se despede e parte para abrir um restaurante, que é um ótimo negócio, pois "as pessoas bebem quando as coisas estão mal, bebem quando as coisas estão bem".
 
-Esta é uma história completamente ficcional, mas que lembra um pouco alguns casos de seitas de suicídios coletivos já ocorridos no Japão, e ninguém desavisado como eu duvidaria que poderia de fato existir algo como um Clube de Suicídio. Dessa forma, beneficiado pela cultura... não-ortodoxa do japonês, o filme se beneficia da dúvida honesta do espectador.
+Já o imigrante, caracterizado com uma presença de espírito ímpar pelo ator estreante Sherwan Haji, consegue manter seu tom do começo ao fim. Ele quase não muda, mas o vemos mudar. Nem que seja por dentro. Ele espera resgatar sua irmã para tentar construir uma vida onde foi parar: na Finlândia. Mas a Finlândia é uma terra de loucos. Pelo menos a trilha sonora é divertida. E a música tocada pelo seu personagem, Khaled, perfura nossos corações em poucos segundos.
 
-Porém, há um limite para tudo, e quando o filme começa a brincar com fantasmas, reviravoltas de hacker e o uso de uma girl band que temos certeza que está espalhando mensagens satânicas através de suas músicas fofinhas, fica difícil acompanhar a história sem um sorriso no rosto, apreciando a farofa se formando ao lado das poças de sangue das próximas vítimas.
+Agora observe a trajetória dos dois protagonistas. Para um deles, o vendedor, as coisas estão dando sempre certo. Quero dizer, o sujeito vende todo seu estoque de camisetas e vence o chefão de uma jogatina ilegal e sua quadra com um straigh flush. E mesmo lotando seus sushis com toneladas de wasabi, dezenas de clientes orientais aparecem para conferir.
 
-O surgimento de um bando de garotos liderados por um rapaz de salto alto e muito glitter na roupa, uma versão metrossexual japonesa de Laranja Mecânica, faz o pouco sentido que havia no mistério ir por água abaixo. Ouvimos o salto alto cantar sua icônica (e bonita) canção, e é um dos momentos mais chamativos do longa. Mas o que ele quer dizer? Não pergunte.
+Já a trajetória de Khaled é o extremo oposto. Tentando jogar pelas regras ele se cadastra no programa de imigração do país, fica à deriva por um bom tempo e é atacado por radicais nazistas. Mesmo quando ele se dá bem por um momento, sabemos que no máximo será isso: um momento. O que não impede que a sua história também seja otimista, ou pelo menos leve.
 
-O Pacto tem claras tendências niilistas, mas sequer sabe disso. Ele lida com suicídio muito melhor que o Ocidente. Devem ser os recordes da prática. No entanto, fazer um bando de crianças recitar filosofia barata e sem sentido sobre ligações não nos deixa sair satisfeitos com a "resolução" da trama.
+Mas seja de uma forma ou de outra, "O Outro Lado..." não consegue acertar bem o que pretende falar. Ele é estiloso, possui bons personagens em criativos momentos. Seu humor vai crescendo aos poucos, mesmo sem conseguir ser inteligível. Mas sua mensagem... essa se perdeu no mar. Apenas os imigrantes sobreviveram.
 

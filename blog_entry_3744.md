@@ -1,25 +1,27 @@
 ---
-categories:
-- writting
-date: '2018-04-26'
-link: https://www.imdb.com/title/tt7633052
-tags:
-- cinemaqui
-- movies
-title: Todos os Paulos do Mundo
+categories: []
+date: '2008-09-12'
+tags: null
+title: Todo programador é um filósofo em potencial
 ---
 
-Existia uma aura em mim que me dizia que o ator Paulo José era uma grande persona, e uma versão mais velha do Seu Jorge, uma figura presente em todos os momentos importantes da cinematografia nacional (e até mundial). Se você também tem este apreço por este ator não indico assistir a Todos os Paulos do Mundo, uma pseudo-homenagem inglória que perde em ritmo a mesma quantidade do que perde em brilho sobre quem foi, é e será Paulo José em nossas memórias.
+Tivemos uma conversa muito frutífera hoje durante o almoço ao conhecer uma professora que sentava ao nosso lado, exímia conhecedora da mente humana e amante das artes nobres como a filosofia e a lógica. O importante dessa colóquio foi ter encontrado um motivo muito mais forte para gostar de programação do que qualquer outro que já me surgira na cabeça desde que mexo com essas coisas: O computador não deve dar ordens ao homem e este repeti-las como uma máquina. O homem, como ser pensante, deve dizer ao computador o que fazer, e este responder-lhe diligentemente.
 
-O mais trágico disso tudo é que o filme é narrado na maioria do tempo pelo próprio Paulo José, uma espécie de convidado especial que atravessa sua cinematografia em uma série de colagens criadas pelos diretores Rodrigo de Oliveira e Gustavo Ribeiro, que assinam o roteiro do seu aparente brilhantismo em ligar cenas de diferentes filmes que o ator participou por temas crus, vazios, como o disparo de uma arma, uma declaração de amor, um momento de loucura. As falas de Paulo em todos os filmes se misturam em décadas e narrativa, se tornam um marasmo tentar acompanhar o significado de cada uma dessas falas, que ouvidas dessa forma soam obscuras demais.
+Para resumir desde o começo essa conclusão, um exemplo paupável: quando fazemos um curso de treinamento, uma especialização, uma faculdadeZINHA ou qualquer outro evento de "aprendizado" que nos propõe a digitar comandos sem fim, repetidamente para um computador, para no final ganharmos um comprovante de que sabemos digitar aqueles comandos decorados e repetitivos como ninguém, isso quer dizer que as coisas vão mal, se e quando tudo se resume a isso.
 
-"O ator é o significante, e é o filme que dará o significado para seu papel." Aqui a dupla de diretores não entrega o significado nem para o significante da pergunta "quem é Paulo José?", preferindo em vez disso deixar o mistério fluir por infindáveis 80 minutos. Sabe quando estamos assistindo a um filme ruim e o protagonista olha para a câmera e diz algumas coisas sem sentido, mas que soam importantes pela maneira dele falar? "Todos os Paulos..." soa exatamente assim, com a diferença que esse momento se repete indefinidamente como um eco que nunca diminui o volume.
+Por outro lado, ao aprendermos, por nós mesmos ou pelos outros, a usar o computador como a ferramenta que vai fazer de nossas idéias realidade, e nossas criações se materializam de uma forma inimitável, então, somos criadores e comandantes da máquina, e não uma cópia de uma máquina que repete comandos. Então, nesse caso, temos um motivo para viver: criar sempre coisas novas e interessantes que surgem em nossas cabeças.
 
-E este eco se transforma em diferentes vozes de atores e atrizes que já trabalharam com o protagonista. O elenco secundário de narradores vai desde a figurinha repetida de Selton Mello (que repete a façanha de Paulo José em usar a mesma cadência em suas falas) até os que seriam verdadeiras pequenas pérolas, como Fernanda Montenegro e Joana Fomm. Esse pessoal, essa panelinha, faz parte de uma outra arte que não cabe ao cinema nacional. Eles fazem parte do teatro, e estão homenageando a arte errada.
+E ser feliz é isso: achar significado para o que fazemos. É criar. Pura e simplesmente. Quem está sempre criando está sempre satisfeito com sua vida. Pois dá sentido a ela todo santo dia. Isso vale para qualquer profissão interessante o suficiente. Não precisa fazer código. Pode construir móveis, ensinar pessoas ou desenhar uma nova peça de roupa.
 
-Havia um experimento no teatro que Paulo retrata, chamado de Arena. Neste lugar uma trupe de atores entregava a coisa real, não-maniqueísta, de ser seus personagens. A distância do público era mínima e o efeito máximo. O resultado era a essência do que era atuar no seu sentido mais íntimo ou legítimo. Paulo José diz que nunca construiu um personagem, pois ele simplesmente o era quando estava diante da câmera. O trabalho de Rodrigo e Gustavo o transforma em um atuador de Paulos Josés, infinitos, pairando sobre a tela, em um delírio "Quero-ser-John-Malkovichiano" que acaba virando um pesadelo.
+Criar é pensar. Programadores pensam em coisas novas todos os dias e as executam. Quando encontram algo repetitivo, organizam o código para não terem que repetir mais a mesma baboseira e voltam a fazer coisas interessantes e originais. Se existe um processo enfadonho e chato, o programador inventa um jeito para o computador fazê-lo, e não ele. E a vida do programador sempre gira em torno desse ciclo: dispensa as coisas chatas mandando o computador fazer e se dedica a fazer coisas novas.
 
-Há diferentes fontes de imagens neste filme em um trabalho admirável de pesquisa e arquivamento histórico. Fora os mais conhecidos Macunaíma, O Padre e a Moça, Todas as Mulheres do Mundo, O Homem Nu, Policarpo Quaresma e tantos outros, temos imagens de trabalhos menores e marginais que teriam se perdido facilmente. Aqui o trabalho do filme é legítimo e digno de aplausos. É verdade, o seu uso poderia ter sido muito mais frutífero caso não estívessemos acompanhando uma sequência caótica e desfigurada de momentos marcantes da filmografia de um ator. Ainda assim, o resgate da memória de um povo através de sua arte é uma missão nobre e respeitável.
+A discussão não parou por aí, pois me levou a entender o vazio que eu sinto ao estudar coisas que não uso nunca. Porque aprender por aprender não vai me levar a lugar algum. Pode até ser perigoso ler coisas que não servem para nada. Me faz parecer inútil.
 
-Porém, se para isso teremos que burocratizar o cinema em documentários que tem por finalidade catalogar o acervo nacional financiado pela Ancine e realizado da maneira mais insossa possível, seria melhor queimarmos tudo e dar espaço para o novo, pois o velho é reconhecidamente valioso demais para ser revisto e assim estragar nossas tenras memórias de algo que parecia muito maior do que aqui é visto. E esta minha última frase está muito mais coerente do que a maioria das falas de Todos os Paulos do Mundo, o que é a lástima de sintetizar o impossível: o próprio ato de atuar.
+E não livros longos, ricos em detalhes e que fazem perder o fio da meada ao terminá-lo.
+
+Também me mostra que mais vale a pena aprender a pensar, ou pensar melhor, do que aprender uma nova tecnologia em um livro recém-lançado de 1500 páginas. Quando aprendemos a pensar resolvemos os problemas por nós mesmos, e não por uma formulazinha mágica tirada do saite favorito de bricabraques.
+
+Ser programador é criar. Criar é bom. Criar nos faz felizes.
+
+E é por isso, realmente, que amo o que eu faço.
 

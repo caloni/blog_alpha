@@ -1,21 +1,26 @@
 ---
 categories:
 - writting
-date: '2022-01-11T18:56:00-03:00'
+date: '2019-06-19'
+link: https://www.imdb.com/title/tt0083658
 tags:
 - movies
-title: Blade Runner 2049
+title: 'Blade Runner: O Caçador de Androides'
 ---
 
-## Namorador de Rei Chiquita
+Blade Runner obviamente não é sobre o Caçador de Andróides, nem se você considerar o possível plot twist das entrelinhas, mas sobre a existência desses seres idênticos aos humanos, mas com as emoções ainda a serem criadas. Também é sobre como um único filme tem tantas versões, onde basicamente apenas uma cena envolvendo um unicórnio faz toda a diferença.
 
-É indiscutível o talento do diretor Denis Villeneuve em conduzir uma experiência cinematográfica. Fã incondicional de vários de seus trabalhos, como Incêndios, O Homem Duplicado e A Chegada, não escondo minha total decepção dele aceitar orquestrar um filme caça-níqueis como esse, que expande uma história já terminada décadas atrás revertendo a sensação do espectador de ter que pensar a respeito nos últimos momentos de um dos últimos grandes neo-noir sci-fi.
+Mas voltemos aos replicantes. Essa versão de humanos criados em laboratório é um reflexo do próprio universo idealizado por Ridley Scott inspirado no conto de Phikip K. Dick sobre as memórias de um ser artificial. O universo em si é uma Terra super populada, culturalmente globalizada (com as culturas orientais dominando) e tecnologicamente evoluída, mas carente de empatia. Esta sacada é sensacional porque criou o ambiente perfeito para um neo noir, ou um noir sci-fi, que obtêm os elementos do gênero de outra fonte: do inescapável niilismo em pensar sobre nossa curta passagem por essa vida e a perda completa das experiências enquanto vivos.
 
-E quem diria que um ator do calibre de Ryan Gosling conseguiria descer tanto ao nível de namorador de rei chiquitas. Ele estava muito melhor dez anos atrás como Lars Lindstrom em A Garota Ideal, quando seu personagem conhece Bianca, uma sex doll que ele encomendou de um site adulto. Sim, uma boneca. Mas, diferente de seu par romântico em Blade Runner, a deslumbrosa Ana de Armas que faz Joi, uma garota virtual, ele pode ao menos tocar nessa boneca.
+O forte é o design de produção e de arte. Note as pirâmides como mega corporações e as ruas estreitas do sub mundo, em uma chuva e escuridão eternas. O tema de Blade Runner é de uma desesperança que rivaliza apenas com este mundo caótico e sem sentido que o design de arte faz tão bem. Desde "já" um dos melhores trabalhos no Cinema sobre distopias, comparável a Metrópolis.
 
-Replicante e desconcertado por nunca conseguir fazer sexo com um bando de pixels embalado em pacote de machine learning, 'K' é um policial com o objetivo de perseguir seus iguais, os replicantes, robôs de carne que diferem dos seres humanos apenas por serem criados e melhores, e fazer cara de quem está apenas seguindo sua programação, sua triste, determinística e amoral programação. Então 'K' não se diverte no processo. Pelo contrário, ele sofre.
+A escalação de Harrison Ford hoje é discutível. Caçador de androides, na época era o mocinho indiscutível com trabalhos como Star Wars e Indiana Jones, mas hoje seu sorriso abobado soa destoante perto daquela realidade opressiva. Ele diz as falas, ok, mas seu espírito não parece estar ciente de que está realizando um clássico.
 
-Diferente de seu predecessor, o agente Rick Deckard, que nas mãos de um limitado Harrison Ford ainda conseguiu criar uma ambiguidade de sentimentos e estados de humor digno de estudos e mais estudos ao que se seguiu à estreia de seu filme original. E ainda ficou com a garota. Um noir de final feliz com uma cena icônica debaixo da chuva. 2049 não cosegue isso e apenas piora tentando emular.
+O que deveria saber pelo roteiro. Não podemos ignorar hoje a performance visceral, shakespeariana, do andróide macho alfa, interpretado por Rutger Hauer. Ele está em um estado de alteração permanente. Suas falas têm o potencial de roubar a cena, mas apenas uma atuação desse calibre consegue entregá-las. Apenas note em seus olhos e em seus movimentos, mas a prova final é constatar que toda cena em que ele aparece o filme melhora, enquanto que com Ford não piora, mas se suporta pelo design. É como se o detetive Deckard estivesse pela primeira vez nesse mundo, o que não condiz com sua fama de melhor caçador.
 
-Junto do estereótipo 'K' de cara durão, robótico de bom coração temos outras figuras que transformam um filme pesado em uma continuação infantilizada. Como a personagem de Sylvia Hoeks, Luv, um robô com instinto de ser a melhor de seu tipo em todos os quesitos, e em ser malvadona e fazer o que seu chefe mandar, e o cartunesco Niander Wallace, nas mãos do exagerado e não-bom Jared Leto e seus olhos de cristal. Também temos Mackenzie Davis como uma prostituta esquiva, mas Davis difere do elenco por fazer um bom trabalho. Ela levou a sério seu papel, mas é um sério bom. O sério de Gosling passa longe.
+A trupe de androides rouba sua postura do trio de criptonianos de Superman: O Filme. Mas é por um bom motivo: essa é a postura adequada de semi-deuses que são. Nada abaixo disso seria aceitável, e o roteiro entende que não se deve explicar muito o que já foi explicados no letreiro inicial do filme.
+
+Enquanto isso a androide posta sob o teste, a femme fatale adaptada do universo cyber punk, Sean Young, permanece intocável. A atuação de Young passa pelo blasé disfarçado, mas como sabemos que ela é uma androide esse detalhe se abre em infinitos pensamentos. O que ela sente? Como pode ela dizer tal fala? De onde veio essa vontade de fumar em meio a um interrogatório? Era ela a amante de Gaff assim como vemos em Ex Machina? Tantas questões não respondidas acrescentam complexidade à essa personagem icônica do Cinema.
+
+Mas o verdadeiro protagonista do filme acaba sendo esse universo meio cyber punk meio noir que captura nossas mentes e espíritos para algo além de si mesmo. É o mesmo sentimento ao embarcar na viagem sem volta de Ghost in The Shell. A diferença é que como é um filme americano é preciso se desvencilhar da história centrada na ação e pensar um pouco mais nas implicações desses personagens e suas vidas.
 

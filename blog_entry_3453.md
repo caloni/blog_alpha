@@ -1,12 +1,14 @@
 ---
 categories:
 - writting
-date: '2020-11-22'
-link: https://www.imdb.com/title/tt1664529
+date: '2014-06-06'
+link: https://www.imdb.com/title/tt0015324
 tags:
-- series
-title: 'Sherlock: The Blind Banker'
+- movies
+title: Bancando o Águia (aka Sherlock Jr.)
 ---
 
-Segundo episódio da série da BBC, uma vez consolidados os personagens clássicos de Sir Arthur Conan Doyle na época contemporânea, o segundo roteiro se permite ser mais denso e brincar com mais referências que precisam estar na memória do espectador que for acompanhar as tramas se desenvolvendo enquanto os personagens vão evoluindo junto. Se por um lado este é o primeiro encontro de Watson com uma crush que conheceu no seu primeiro emprego após a volta da guerra, esta também é uma oportunidade para analisarmos sua relação com Sherlock, que é divertidamente possessivo e ciumento, mas que ao mesmo tempo possui suas razões para acompanhá-los. Esta história é digna dos livros do autor, com direito a nos manter na expectativa do caso durante todos os 90 minutos em um embate mais racional do que físico, mas que ainda consegue manter a ação presente (apesar de mais previsível). É fascinante observar como a série vai evoluindo aos poucos, seja no roteiro, direção ou arte.
+Sherlock Jr., ou "Bancando o Águia", como quer o IMDB do Brasil, é uma obra de arte de 1924 em diversos sentidos, mas principalmente nas invencionices do seu diretor e ator, Buster Keaton. Tentando associar suas trapalhadas pelo fato de tentar fazer duas coisas: ser projecionista de um Cinema e aprender a profissão de detetive, o protagonista sem nome é obviamente relacionado com o próprio Keaton, que dirige e atua cenas mirabolantes que usam e abusam de efeitos visuais criados na época, brincando com metalinguagem e sketches físicos a todo momento. Nunca deixando de entreter, Sherlock Jr. ao mesmo tempo que é uma bela homenagem ao Cinema recém-nascido, um prenúncio do que viria pela frente, além de conseguir contar sua história sob diversas camadas de metalinguagem. Tudo isso em apenas 44 minutos.
+
+A comicidade de Keaton deve ser entendida como uma parceria entre seus trejeitos e sua criatividade sem limites como cineasta e ator. A sequência mais icônica, quando Keaton atravessa a tela do cinema onde é projecionista e tenta se desvencilhar de diversos cortes que mudam o cenário onde está, também é uma criação tão original e tão pertencente ao seu propósito que dificilmente vemos exemplos disso até hoje em dia (Matrix?), ainda mais com o propósito de fazer rir.
 

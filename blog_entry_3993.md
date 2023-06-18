@@ -1,14 +1,17 @@
 ---
 categories:
 - writting
-date: '2021-02-16'
-link: http://www.dolucawines.com/products/our-wines-detail/56/villa-doluca-classic-rose
+date: '2023-06-05'
 tags:
-- wine
-title: Villa Doluca Classic Rose
+- series
+title: Vilarejo do Amor
 ---
 
-Mais um vinho dessa Vila do Luca. Esse Luca sabe fazer vinhos interessantes. Localizada na Turquia, uma das maiores produtoras de uvas, mas não de vinhos (por motivos religiosos), Villa Doluca é uma produtora e exportadora desses rótulos.
+Depois da carência que foi perder [Terrace House] durante a pandemia e com o suicídio de uma das participantes, este reality japonês abandona o glamour de colocar jovens bonitos com profissões moderninhas em uma casa estilosa e coloca quarentões isolados em uma casa clássica japonesa no meio do nada. E precisando de reformas. O objetivo? Eles encontrarem seu último, definitivo amor. Ousado? Sim. Tradicional? Graças a Deus.
 
-Esse Classic Rose é um dos únicos no mundo. Feito com as uvas locais Calkarasi e Kalecik Karasi, ele é muito mais encorpado que qualquer Rose que você for provar na vida. Bem seco, mas mantendo o frescor de um Rosé, recomendo fortemente obter um gole dessa bebida para ampliar seus horizontes fora do roteiro dos tintos.
+O principal nesta fórmula do amor deste novo programa é que o participante que quiser arriscar em um romance deve sair da casa. Ele irá tocar um sino e confessar na presença de todos da casa seu amor. A pessoa escolhida deverá responder no dia seguinte se sairá da casa junto. Não há segunda chance para quem toca o sino.
+
+Com dois comentaristas que nos fazem ter saudades dos de Terrace House porque eram muito melhores, Vilarejo do Amor possui um arco dramático dos mais inusitados. Nos faz pensar se essa história se desenvolveu naturalmente ou foi tudo planejado. É quando a paixão da vida real pode ou não estar em um roteiro. O que torna o programa bom é que isso acaba não importando tanto.
+
+[Terrace House]: {{< ref terrace-house >}}
 

@@ -1,84 +1,24 @@
 ---
 categories:
-- coding
-date: '2008-02-25'
-title: Códigos de entrevista - o ponteiro nulo
+- writting
+date: '2020-12-12'
+link: https://www.imdb.com/title/tt0345061
+tags:
+- movies
+title: Código 46
 ---
 
-Bom, parece que o "mother-fucker" wordpress ferrou com meu artigo sobre o Houaiss. Enquanto eu choro as pitangas aqui vai um outro artigo um pouco mais simples, mas igualmente interessante.
+Tudo começa com uma descrição em texto: no futuro não vai poder comer sua prima. Mais ou menos. Tem a ver com as pessoas serem concebidas in vitro e ter muito copy & paste (futuro Stack Overflow Sex Edition?). Então o DNA dos pais não pode ser idêntico senão vai dar ruim. Pra não dar ruim inventam esse código 46 pra abortar a operação. O número sugere ser a soma de dois grupos de 23 cromossomos, mas eles falam em genes e DNA o tempo todo. Eu que sou leigo vou me calar.
 
-> "Wanderley, tenho umas sugestões para teu blog.
-> A primeira:
-> Que tal analisar o código abaixo e dizer se compila ou não. Se não compilar, explicar porquê não compila. Se compilar, o que acontecerá e por quê."
+Mas nesse futuro distópico as pessoas falam pedaços da frase em espanhol, chinês, japonês, francês. O principal é inglês para os atores não precisarem aprender muita coisa nova. É muito estranha essa tentativa de futuro meio Blade Runner com a globalização e os chinas se espalhando pelo mundo.
 
-O código é o que veremos abaixo:
+E por falar em China, as pessoas podem pegar os mais diversos vírus. Um deles é o da empatia. O Tim Robbins pegou esse depois que saiu da prisão em Um Sonho de Liberdade e veio parar nesse filme. Esse vírus lhe deu as habilidades de adivinhar o que ele precisa saber de uma pessoa apenas sabendo uma coisinha de nada. Isso é muito místico ou ridículo. A pessoa fala: estou cansada. E pronto, o Tim Robbins já sabe a senha da pessoa. Deve ser assim que ele fugiu da prisão.
 
-    #include <stdio.h>
-    #include <stdlib.h>
-    
-    void func()
-    {
-      *(int *)0 = 0;
-      return 0;
-    }
-    
-    int main(int argc, char **argv)
-    {
-      func();
-      return 0;
-    } 
+Outra habilidade que ele ganha com o vírus é de seduzir garotas sozinhas em viagens a negócios longe da família. A relação dele com a Samantha Morton vai além de ambos fazerem pontas em milhares de filmes sem ninguém lembrar que eles estavam no elenco. Eles fazem sexo. E você já sabe toda história: código 46. Nem precisaria assistir, os dizeres do começo já soltam a letra.
 
-Bem, para testar a compilação basta compilar. Porém, se estivermos em uma entrevista, geralmente não existe nenhum compilador em um raio de uma sala de reunião senão seu próprio cérebro.
+Bom, há algumas canções no karaokê e uma ou outra viagem de avião e o filme acaba. A moral da história é tipo o cara se deu bem e depois volta para a família e ela parou de falsificar uma espécie de passaporte desse futuro onde sem ele ninguém entra nem sai. Acho que não tem absolutamente nada de original em nenhuma ideia desse filme.
 
-E é nessas horas que os entrevistadores testam se você tem um bom cérebro ou um bom currículo.
+Há sexo. Vemos a coisinha da Samantha. Ela depila. Agora dá para estampar na capinha do DVD: sensual, erótico, etc. As pessoas compram(avam), alugam(avam). Quem não quer um pouco de ação à noite nos sete cabeçotes do seu VHS?
 
-Por isso, vamos analisar passo a passo cada bloco de código e entender o que pode estar errado. Se não encontrarmos, iremos supor que está tudo certo.
-
-    #include <stdio.h>
-    #include <stdlib.h>
-
-Dois includes padrões, ultranormal, nada de errado aqui.
-
-    void func()
-    {
-      *(int *)0 = 0;
-      return 0;
-    }
-
-Duas ressalvas aqui: a primeira quanto ao retorno da função é void, porém a função retorna um inteiro. Na linguagem C, isso funciona, no máximo um _warning_ do compilador. Em C++, isso é erro brabo de tipagem.
-
-A segunda ressalva diz respeito à linha obscura, sintaticamente correta, mas cuja semântica iremos guardar para o final, já que ainda falta o main para analisar.a
-
-    int main(int argc, char **argv)
-    {
-        func();
-        return 0;
-    }
-
-A clássica função inicial, nada de mais aqui. Retorna um int, e de fato retorn. Chama a função func, definida acima.
-
-A linha que guardamos para analisar contém uma operação de casting, atribuição e deferência, sendo o casting executado primeiro, operador unário que é, seguido pelo segundo operador unário, a deferência. Como sempre, a atribuição é uma das últimas. Descomprimida a expressão dessa linha, ficamos com algo parecido com as duas linhas abaixo:
-
-    int* p = (int*) 0;
-    *p = 0;
-
-Não tem nada de errado em atribuir o valor 0 a um ponteiro, que é equivalente ao define NULL da biblioteca C (e C++). De acordo com a [referência GNU], é recomendado o uso do define, mas nada impede utilizar o 0 "hardcoded".
-
-Porém, estamos escrevendo em um ponteiro nulo, o que com certeza é um comportamento não-definido de conseqüências provavelmente funestas. O ponteiro nulo é um ponteiro inválido que serve apenas para marcar um ponteiro como inválido. Se escrevermos em um endereço inválido, bem, não é preciso ler o padrão para saber o que vai acontecer =)
-
-Alguns amigos me avisaram sobre algo muito pertinente: dizer que acessar um ponteiro nulo, portanto inválido, é errado e nunca deve ser feito. Como um ponteiro nulo aponta para um endereço de memória inválido, acessá-lo irá gerar uma exceção no seu sistema operacional e fazer seu programa capotar. Um ponteiro nulo é uma maneira padrão e confiável de marcar o ponteiro como inválido, e testar isso facilmente através de um if. Mais uma vez: ponteiros nulos apontando para um endereço de memória inválido (o endereço 0) nunca devem ser acessados, apenas atribuído a ponteiros.
-
-Em código. Isso pode:
-
-    int* p = 0; // atribuindo nulo a um ponteiro
-    int* p2 = p; // isso também pode
-
-Isso não pode:
-
-    *p = 15; // nunca acessar ponteiros nulos
-    int x = *p; // isso também não pode, ler de um ponteiro nulo
-
-Dito isso, me sinto melhor =)
-
-[referência GNU]: http://www.gnu.org/software/libc/manual/html_node/Null-Pointer-Constant.html#Null-Pointer-Constant
+Mel dels, o filme é de 2003. Mas já nasce velho. Podia jurar que esse futuro é de um passado bem distante. Bom, pelo menos explica a cara inchada de Tim Robbins. A liberdade não fez muito bem pra ele.
 

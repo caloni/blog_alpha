@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2021-06-26T22:23:00-03:00'
+date: '2022-01-11T18:40:12-03:00'
 tags:
 - food
-title: Sorveteria Banana da Terra em Morretes
+title: Soroko
 ---
 
-Há alguns anos eu achava que não gostava mais de sorvete e que é coisa da infância. Essa moda de sorvetes gourmet em grandes capitais que custam o olho da cara e logo enjoam pelo excesso de açúcar processado apenas reafirmou minha convicção que sorvete não é coisa de paladar adulto.  No entanto, desde que me apaixonei pelos sorvetes argentinos, em especial os de doce de leite, faço uma caça pelas sorveterias locais em viagens de férias. Ainda existem as pequenas caseiras que te entregam aquele sabor artesanal que parecia perdido para sempre na infância. Na cidadezinha de Morretes a Banana da Terra ganha esse título. Localizado no meio da estrada próximo de uma pousada e de uma igreja, é um lugar tranquilo para parar e degustar um dos cerca de 20 sabores disponíveis, mas se você está com pouco tempo, precisa escolher pelo menos o sorvete de banana, que possui o sabor puro da banana em forma de sorvete cremoso, com pedaços de banana escondidos. O sabor não é de açúcar gelado como a maioria dos sorvetes de esquina, mas do doce da banana, mesmo. Além deste os de beijinho, que vem com um gostinho de abacaxi, e o de gengibre (embora suave demais para meu gosto) merecem uma degustação. Espero que essa sorveteria esteja aberta em minha próxima visita à região. Só assim para voltar a sentir o prazer infantil de tomar sorvete.
+Meu amigo me apresentou essa sorveteria de bairro há mais de dez anos e continuamos indo sempre que estamos por perto. Os sabores são tradicionais e não são aquele monte de açúcar com cremosidade e explosão de sabores das enjoativas sorveterias gourmet de hoje em dia. Você sente mais o leite combinado com o sabor de preferência. Há sorvetes com leite de soja, mas nunca experimentei. Os sabores clássicos são muito bons, com destaque para milho verde, flocos e creme russo. Também servem um açaí bem bom, mas que pode ser grande para algumas pessoas.
 

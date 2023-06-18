@@ -1,199 +1,140 @@
 ---
 categories:
 - coding
-date: 2018-05-21 00:23:49-03:00
+date: 2018-10-01 16:34:25-03:00
 tags: null
-title: Boost Meta State Machine
+title: Boost.Bind e os Erros Escrotos
 ---
 
-O Boost Meta State Machine (MSM for short) é uma das duas bibliotecas mais famosinhas de state machine do Boost. Ela é uma versão estática que permite incluir chamadas para as entradas e saídas de um estado baseado em eventos. A sua principal vantagem é poder visualizar toda a máquina de estado em um só lugar, e sua principal desvantagem é pertecer ao Boost, o que quer dizer que você vai precisar fazer seu terceiro doutorado e ler uma documentação imensa sobre UML antes de conseguir produzir alguma coisa. Ou ler este artigo de 10 minutos tops.
+Estou voltando a programar algumas coisas no boost. Algo que eu perdi ao me isolar do movimento de modernização do C++ foi a capacidade brilhante da biblioteca boost em encapsular e abstrair conceitos de engenharia de software de maneira portável e mantendo a filosofia por trás da STL, que ainda é a melhor maneira de trabalhar algoritmos já criada em qualquer linguagem de programação séria.
+
+Isso não quer dizer que a **linguagem C++** está indo para um bom caminho. Muito pelo contrário. Uma miríade de questões semânticas dividem opiniões e nunca resolvem de fato problemas do mundo real. Verdadeiros arcabouços masturbatórios, o comitê da linguagem se debate em vão quando tenta buscar maneiras de tornar uma linguagem arcaica em um exemplo de expressividade.
+
+Isso às vezes não importa muito para o dia-a-dia, mas outras vezes importa. Veja o caso da biblioteca **Boost.Bind**, uma das mais antigas a entrar para o projeto. Sua função é simples: expandir o conceito do `std::bind` para quantos argumentos for necessário. Isso foi criado na época com a ajuda de inúmeros overloads da função (em modo template), mas hoje é possível fazer com variadic templates. Seu uso é simples, intuitivo, direto, e resolve muitos problemas de encaixe de código:
 
 ```
 #include <iostream>
+#include <boost/bind.hpp>
 
-#include <boost/msm/back/state_machine.hpp>
-#include <boost/msm/front/state_machine_def.hpp>
-#include <boost/msm/front/functor_row.hpp>
-
-using namespace std;
-
-namespace MyStateMachine
+template<class Handler>
+void CallHandler(Handler&& handler)
 {
-    namespace msm = boost::msm;
-    namespace msmf = boost::msm::front;
-    namespace mpl = boost::mpl;
+    handler();
+}
 
-    namespace Events
-    {
-        struct Event1 {};
-        struct Event2 { int data; };
-        struct Event3 {};
-    }
-
-    struct StateMachine :msmf::state_machine_def<StateMachine>
-    {
-        typedef msm::back::state_machine<StateMachine> SM;
-
-        struct Off :msmf::terminate_state<> // Off is the last state
-        {
-            template <class Event, class Fsm>
-            void on_entry(Event const&, Fsm&) const
-            {
-                cout << "on_entry Off generic event\n";
-            }
-        }; 
-
-        struct On :msmf::state<>
-        {
-            template <class Event, class Fsm>
-            void on_entry(Event const&, Fsm&) const
-            {
-                cout << "on_entry On generic event\n";
-            }
-
-            template <class Fsm>
-            void on_entry(Events::Event1 const&, Fsm&) const
-            {
-                cout << "on_entry On Event1\n";
-            }
-
-            template <class Event, class Fsm>
-            void on_exit(Event const&, Fsm&) const
-            {
-                cout << "on_exit On generic event\n";
-            }
-
-            template <class Fsm>
-            void on_exit(Events::Event2 const& evt, Fsm&) const
-            {
-                cout << "on_exit On Event2 (with data " << evt.data << ")\n";
-            }
-        };
-
-        struct Tick :msmf::state<>
-        {
-            template <class Event, class Fsm>
-            void on_entry(Event const&, Fsm&) const
-            {
-                cout << "on_entry Tick generic event\n";
-            }
-
-            template <class Fsm>
-            void on_entry(Events::Event3 const&, Fsm&) const
-            {
-                cout << "on_entry Tick Event3\n";
-            }
-
-            template <class Event, class Fsm>
-            void on_exit(Event const&, Fsm&) const
-            {
-                cout << "on_exit Tick generic event\n";
-            }
-        };
-
-        typedef On initial_state; // On is the start
-
-        struct transition_table :mpl::vector<
-            //          Start      Event                     Next               Action                      Guard
-            msmf::Row < On,        Events::Event1,           On,                msmf::none, msmf::none >,
-            msmf::Row < On,        Events::Event2,           Tick,              msmf::none, msmf::none >,
-            msmf::Row < Tick,      Events::Event3,           Tick,              msmf::none, msmf::none >,
-            msmf::Row < Tick,      Events::Event1,           On,                msmf::none, msmf::none >,
-            msmf::Row < Tick,      Events::Event2,           Off,               msmf::none, msmf::none >
-        > {};
-    };
-
-    int TestPathway()
-    {
-        StateMachine::SM sm1;
-        sm1.start();
-        sm1.process_event(Events::Event1()); // keep in On
-        sm1.process_event(Events::Event2()); // to Tick
-        sm1.process_event(Events::Event3()); // keep in Tick
-        sm1.process_event(Events::Event1()); // back to On
-        sm1.process_event(Events::Event2 { 42 }); // back to Tick
-        sm1.process_event(Events::Event2()); // finish
-        return 0;
-    }
+void handler1(int x, int y)
+{
+    std::cout << "handler1: x=" << x << ", y=" << y << std::endl;
 }
 
 int main()
 {
-    MyStateMachine::TestPathway();
+    CallHandler(boost::bind(handler1, 10, 20));
 }
 ```
 
-A parte bonitinha de se ver é os eventos e estados completamente ordenados:
+No entanto, o que era para ser um uso simples e direto de uma feature bem-vinda ao cinto de utilidades do programador C++ se transforma em um pesadelo quando as coisas não se encaixam tão bem:
 
 ```
-struct transition_table :mpl::vector<
-    //          Start      Event                     Next               Action                      Guard
-    msmf::Row < On,        Events::Event1,           On,                msmf::none, msmf::none >,
-    msmf::Row < On,        Events::Event2,           Tick,              msmf::none, msmf::none >,
-    msmf::Row < Tick,      Events::Event3,           Tick,              msmf::none, msmf::none >,
-    msmf::Row < Tick,      Events::Event1,           On,                msmf::none, msmf::none >,
-    msmf::Row < Tick,      Events::Event2,           Off,               msmf::none, msmf::none >
-> {};
-```
+#include <iostream>
+#include <boost/bind.hpp>
 
-Claro que a indentação ajuda. Para cada entrada e saída de um estado é possível utilizar os métodos on_entry e on_exit de cada struct que define um estado, seja este método um template totalmente genérico ou especificado por evento (e cada evento também é um struct, com direito a dados específicos).
-
-```
-template <class Event, class Fsm>
-void on_entry(Event const&, Fsm&) const
+template<class Handler>
+void CallHandler(Handler&& handler)
 {
-    cout << "on_entry On generic event\n";
+    handler();
 }
 
-template <class Fsm>
-void on_entry(Events::Event1 const&, Fsm&) const
+void handler1(int x, int y)
 {
-    cout << "on_entry On Event1\n";
+    std::cout << "handler1: x=" << x << ", y=" << y << std::endl;
 }
 
-template <class Event, class Fsm>
-void on_exit(Event const&, Fsm&) const
+void handler2_fail(int x, int y, int z)
 {
-    cout << "on_exit On generic event\n";
+    std::cout << "handler1: x=" << x << ", y=" << y << ", z=" << z << std::endl;
 }
 
-template <class Fsm>
-void on_exit(Events::Event2 const& evt, Fsm&) const
+int main()
 {
-    cout << "on_exit On Event2 (with data " << evt.data << ")\n";
+    CallHandler(boost::bind(handler1, 10, 20));
+    CallHandler(boost::bind(handler2_fail, 10, 20));
 }
 ```
 
-Quando é criada uma nova máquina de estados o estado inicial é chamado pelo evento on_entry genérico. Como sabemos qual é o estado inicial? Isso é definido pelo typedef initial_state dentro da classe da máquina de estado (que deve herdar de state_machine_def no estilo WTL, com sobrecarga estática):
+Vou plotar aqui todas as mensagens de erro para sentir o drama:
 
 ```
-struct StateMachine :msmf::state_machine_def<StateMachine>
-//...
-typedef On initial_state; // On is the start
+1>------ Build started: Project: boost_bind_result_type_error, Configuration: Debug Win32 ------
+1>boost_bind_result_type_error.cpp
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(75): error C2825: 'F': must be a class or namespace when followed by '::'
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(1284): note: see reference to class template instantiation 'boost::_bi::result_traits<R,F>' being compiled
+1>        with
+1>        [
+1>            R=boost::_bi::unspecified,
+1>            F=void (__cdecl *)(int,int,int)
+1>        ]
+1>c:\projects\caloni\static\samples\boost_bind_result_type_error\boost_bind_result_type_error.cpp(23): note: see reference to class template instantiation 'boost::_bi::bind_t<boost::_bi::unspecified,void (__cdecl *)(int,int,int),boost::_bi::list2<boost::_bi::value<T>,boost::_bi::value<T>>>' being compiled
+1>        with
+1>        [
+1>            T=int
+1>        ]
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(54): note: see reference to class template instantiation 'boost::arg<9>' being compiled
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(53): note: see reference to class template instantiation 'boost::arg<8>' being compiled
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(52): note: see reference to class template instantiation 'boost::arg<7>' being compiled
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(51): note: see reference to class template instantiation 'boost::arg<6>' being compiled
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(50): note: see reference to class template instantiation 'boost::arg<5>' being compiled
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(49): note: see reference to class template instantiation 'boost::arg<4>' being compiled
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(48): note: see reference to class template instantiation 'boost::arg<3>' being compiled
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(47): note: see reference to class template instantiation 'boost::arg<2>' being compiled
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(46): note: see reference to class template instantiation 'boost::arg<1>' being compiled
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(75): error C2510: 'F': left of '::' must be a class/struct/union
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(75): error C3646: 'type': unknown override specifier
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(75): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(1284): error C2039: 'type': is not a member of 'boost::_bi::result_traits<R,F>'
+1>        with
+1>        [
+1>            R=boost::_bi::unspecified,
+1>            F=void (__cdecl *)(int,int,int)
+1>        ]
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(1284): note: see declaration of 'boost::_bi::result_traits<R,F>'
+1>        with
+1>        [
+1>            R=boost::_bi::unspecified,
+1>            F=void (__cdecl *)(int,int,int)
+1>        ]
+1>Done building project "boost_bind_result_type_error.vcxproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
 ```
 
-O estado final também é definido, mas por herança. O estado final, que também é uma struct, deve herdar de terminate_state:
+Este é o erro encontrado usando o último Visual Studio (2017 15.9.0 Preview 2.0) e o Boost 1.68.0. A primeira linha deveria significar alguma coisa (que é para onde todo programador C++ deve olhar):
 
 ```
-struct Off :msmf::terminate_state<>
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(75): error C2825: 'F': must be a class or namespace when followed by '::'
 ```
 
-A partir daí o método process_event serve para enviar eventos à máquina de estado que irá alterar seu estado dependendo do fluxo criado no nome transition_table dentro da máquina de estado (a tabelinha que vimos acima). A partir daí tudo é possível; a máquina de estado está à solta:
+Mas não. Se olharmos para o código-fonte onde ocorreu o problema, a caixa de encaixe perfeito se quebra:
+
+{{< image src="MsRp03e.png" caption="" >}}
+
+O que isso quer dizer? O que aconteceu? Onde que eu errei?
+
+Claro que ao final da longa listagem de erros (que se torna ainda mais longa, dependendo de quantos argumentos sua função tem) há alguma luz no fim do túnel:
 
 ```
-int TestPathway()
-{
-    StateMachine::SM sm1;
-    sm1.start();
-    sm1.process_event(Events::Event1()); // keep in On
-    sm1.process_event(Events::Event2()); // to Tick
-    sm1.process_event(Events::Event3()); // keep in Tick
-    sm1.process_event(Events::Event1()); // back to On
-    sm1.process_event(Events::Event2 { 42 }); // back to Tick
-    sm1.process_event(Events::Event2()); // finish
-    return 0;
-}
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(1284): error C2039: 'type': is not a member of 'boost::_bi::result_traits<R,F>'
+1>        with
+1>        [
+1>            R=boost::_bi::unspecified,
+1>            F=void (__cdecl *)(int,int,int)
+1>        ]
+1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(1284): note: see declaration of 'boost::_bi::result_traits<R,F>'
+1>        with
+1>        [
+1>            R=boost::_bi::unspecified,
+1>            F=void (__cdecl *)(int,int,int)
+1>        ]
 ```
 
-Mas nesse exemplo didático está comportada em uma função apenas. Claro que cada método recebe a própria máquina de estado para ter a chance de alterá-la, ou guardá-la para uso futuro. Ela é recebida como parâmetro assim como o evento. E o evento, por ser uma struct também, pode conter outros dados relevantes para a transição.
+Mas claro que essa luz pode estar ofuscada quando os tipos dos argumentos são templates de templates de templates... enfim. Deu pra entender onde o caos consegue chegar quando se trata de harmonizar uma biblioteca perfeita com uma linguagem em constante construção.
 

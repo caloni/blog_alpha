@@ -1,18 +1,33 @@
 ---
-categories:
-- writting
-date: '2011-06-30'
-link: https://www.imdb.com/title/tt0054215
-tags:
-- movies
-title: Psicose
+categories: []
+date: '2009-03-19'
+tags: null
+title: Provas de conceito... yes!
 ---
 
-A sensação de assistir Psicose na telona do cinema se compara a voltar ao próprio tempo em que o filme estreou. Ainda considerando que a última vez que o assisti estava eu abaixo da regra dos 15 anos e, portanto, livre do meu senso crítico, me fez revisitar as sequências mais importantes do longa como se agora sim eu tivesse algo a dizer. Ledo engano. Saí do cinema sem saber mentalizar uma frase sequer. Nem de efeito. Estava sem palavras diante de uma obra de arte. Petrificado. Extasiado. Feliz.
+Uma prova de conceito bem feita segue todos os passos em uma forma micro para entender e provar como as coisas irão funcionar no código de produção: a forma macro.
 
-E continuo assim. Poderia afirmar inocuamente que a fotografia é lindíssima, mas isso seria reafirmar o óbvio. Poderia ir mais fundo e dar exemplos, de como a vegetação em torno da casa de Normal Bates cria não só o conceito de refúgio, como auxilia a aumentar as sombras em torno da casa, tornando uma fotografia escura ainda mais sombria. E por falar em sombrio, poderia devanear em torno de como o próprio Bates caminha sempre nas partes mais escuras de seu hotel.
+A consequência interessante disso é que, uma vez que a prova de conceito deva ser um miniprojeto das principais partes de um software, desenvolvê-la significa programar todas as partes que realmente importam, ou seja, centrais para o funcionamento.
 
-Também poderia bater na mesma tecla da edição de som, que orquestra, na cena do chuveiro, um verdadeiro repertório de técnica e harmonia. Sem falar, é claro, nos diversos ângulos e cortes que a cena de 3 minutos contém que, juntos com o zoom intermitente, aumentam a tensão. E junto, também, da trilha sonora, é claro. A magnífica composição de Bernard Herrmann, ou até mesmo a significativa transição entre o ralo e o olho de Janet Leight. Aliás, eu poderia divagar por parágrafos a fio em torno apenas da cena do chuveiro. Tudo seria muito enfadonho e repetitivo, pois tudo que havia para ser dito já foi.
+Portanto, conclui-se que desenvolver provas de conceito é a coisa mais divertida do Universo.
 
-Meu único pensamento é o testemunho de que, mesmo hoje vista como supervalorizada, a produção de Psicose continua sendo, sem sombra de dúvida, um clássico a ser visto e revisto por qualquer pessoa que ame e se interesse por cinema. É passagem obrigatória, com certeza.
+Além de serem extremamente divertidas e disputadas entre os programadores, desenvolver provas de conceito gera uma gama de vantagens para o desenvolvimento "sério" do software como um todo, "rodável" e "vendável":
+
+  * Permite testar as ideias por trás do software antes de gastar todo o tempo desenvolvendo-o.
+  * Gera conhecimento para os programadores e para que outros produtos sejam desenvolvidos.
+  * Torna o desenvolvimento algo ainda mais divertido, pois tira a parte chata a respeito de comentar código, testar código, mensurar código, rever código, etc.
+  * Consegue tornar o milagre do cronograma realista mais perto do provável.
+
+Apenas essas vantagens já praticamente obrigam o profissional do software a pensar em produtos novos em termos de como pode-se testar tudo o que se está dizendo antes de realmente começar a trabalhar pra valer.
+
+Mas antes que se pense que fazer provas de conceito não requer nenhuma responsabilidade e que o que você quer ser quando crescer é desenvolvedor de prova de conceito, é necessário colocar alguns pingos nos is antes de continuar. Para criar provas de conceito realmente agregadoras para o projeto, deve-se sempre:
+
+  * Dividir o software em seus componentes tecnológicos mais críticos e vitais para o sucesso da solução.
+  * Proteger as provas de conceito contra qualquer tipo de preconceito a respeito da tecnologia em questão: pese somente os fatos!
+  * Conhecer as limitações do software antes mesmo de provar seu funcionamento (por exemplo, não vai funcionar no Windows NT nem a pau).
+  * Garantir que esse conhecimento seja sempre compartilhado entre todos do desenvolvimento, pois trata-se de um projeto vazio que formará talvez as bases de um novo produto; se todos conhecerem as bases primeiro, ficará muito mais fácil todos tomarem conta.
+
+Por último, deve-se pensar sempre em todos os programadores da equipe desenvolvendo provas de conceito. Um doce tão gostoso não pode ser privilégio apenas dos veteranos ou dos acadêmicos chatos, pois torna a vida dos "corregedores" de bugs chata e enfadonha. E error prone.
+
+Por isso, desde a estagiária até o mocinho bicentenário merecem mexer em código fresco pelo menos uma vez a cada ciclo de desenvolvimento, que terminará com uma versão nova cheia de melhorias que foram testadas em suas respectivas provas de conceito. Provas de conceito que todos tiveram a honra de brincar um pouquinho.
 

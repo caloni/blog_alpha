@@ -1,19 +1,26 @@
 ---
 categories:
-- writting
-date: '2020-04-18'
-link: https://www.imdb.com/title/tt0053291
-tags:
-- movies
-title: Quanto mais Quente Melhor
+- coding
+date: '2008-02-29'
+title: Quando o ponteiro nulo não é inválido
 ---
 
-Marilyn Monroe era bojudinha. Não quero dizer gorda. Bojudinha, mesmo. Não é aquele corpo magricelo das mulheres de hoje idealizadas como o modelo de mulher forte, independente e sem graça. Monroe é ela mesma, o que inclui não ser muito boa atriz. Mas tem um certo carisma. E curvas. Imperfeitas, mas, graças a Deus, curvas.
+Existe coisa mais prazerosa do que admitir um erro que foi cometido na mesma semana? Existe: quando você sabia que estava certo, mas resolveu usar o senso comum por falta de provas.
 
-Jack Lemmon, como sempre, tem seus momentos brilhantes. Em exatos cinco segundos ele consegue transformar uma cena manjada em um espetáculo de expressões. É inacreditável como uma piada espontânea surge do nada, sem falas para suportá-la. Não é quando, disfarçado de mulher, ele diz que vai se casar com um milionário velho, mas o jeito que ele diz. Sua áurea é cômica. Quando Lemmon está em seu melhor é a sua alma que fala no lugar do roteiro.
+Pois bem. O mesmo amigo que me recomendou que escrevesse sobre o assunto do ponteiro nulo achou um livro sobre [armadilhas em C] com um exemplo que demonstra exatamente o contrário: dependendo da plataforma, ponteiros nulos são sim válidos.
 
-Esta comédia de Billy Wilder mistura ação, gângsters e música, mas não consegue fugir dos diálogos como base. Não envelheceu bem. É simpática no melhor dos casos. Um pouco longa demais, como [Irma la Dulce]. Mas trabalhos posteriores de Wilder na direção e roteiro, [Se Meu Apartamento Falasse], já demonstram mais maturidade em seus personagens. A comédia escrachada, quando não é conduzida por Buster Keaton ou Charlie Chaplin, tem prazo de validade.
+Nesse caso, se tratava de um programa que iria rodar em um microprocessador, daqueles que o [DQ] costuma programar. Pois bem. Quando o dito cujo ligava era necessário chamar uma rotina que estava localizada exatamente no endereço 0. Para fazer isso, o código era o seguinte:
 
-[Irma la Dulce]: {{< relref "irma-la-dulce" >}}
-[Se Meu Apartamento Falasse]: {{< relref "se-meu-apartamento-falasse" >}}
+    ( * (void(*)()) 0 ) ();
+
+Nada mais simples: um cast do endereço 0 (apesar de normalmente inválido, 0 pode ser convertido para endereço) para ponteiro de função que não recebe parâmetros e não retorna nada, seguido de deferência ("o apontado de") e chamada (a dupla final de parênteses). A linha acima é o equivalente às linhas abaixo:
+
+    typedef void (*func_t)();
+    func_t func = (func_t) 0;
+    func();
+
+É bem o que o autor diz depois de jogar esta expressão: "expressions like these strike terror into the hearts of C programmers". É lógico que isso não é bem verdade para as pessoas que acompanham este blogue =)
+
+[armadilhas em C]: http://www.literateprogramming.com/ctraps.pdf
+[DQ]: http://dqsoft.blospot.com
 

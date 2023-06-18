@@ -1,28 +1,18 @@
 ---
 categories:
 - writting
-date: '2016-07-14'
-link: https://www.imdb.com/title/tt1628841
+date: '2019-11-11'
+link: https://www.imdb.com/title/tt0116629
 tags:
 - movies
-title: 'Independence Day: O Ressurgimento'
+title: Independence Day
 ---
 
-Mais um remake que uma continuação. Infestado de momentos, diálogos e situações idênticas ao original, "Independency Day: Resurgence" se rende à fórmula que o tornou uma das farofas mais divertidas e rentáveis da década de 90.
+Assisti Independence Day no cinema quando estreou. Levei minha mãe na maior sala da cidade de São Paulo, lá no bairro da República, próximo do Centro. O Cine Marabá, com quase 1000 lugares, que depois foi mutilado em mais um multiplex. A imagem da Casa Branca explodindo sob um raio vindo de uma nave alienígena gigantesca é uma das memórias mais vivas do cinema catástrofe da década de 90, e o resquício de uma época em que blockbusters eram filmes ainda raros, e que valiam o preço da viagem ao cinema, do ingresso e da pipoca.
 
-Porém, já não estamos mais na época dos cinemas de rua gigantescos, nem da inocência automática do espectador-família. Assisti ao original no finado Cine Marabá, em São Paulo, em uma de suas dezenas de fileiras, entorpecido pelo som surround e pela tela que tornava a imensidão das naves alienígenas intimidadora. Hoje a tela dos kinoplexes da vida torna tudo mais insípido, mas não tão insípido quanto efeitos digitais que carecem de vida, e lembram menos um ataque que possa de verdade acontecer (uma nave com o tamanho de um terço do planeta?? eles estacionam ela no oceano???) do que um video-game cartunesco. Bem, talvez o video-game hoje em dia pensaria bem mais no problema da verossimilhança...
+A história é tantas dessas outras que Roland Emmerich se especializou em dirigir, como O Dia Depois do Amanhã e 2012, mas em meio à farofa, canastrice e a história sem sentido há um certo brilho que insiste em aparecer em uma cena ou outra. Pode ser quando o personagem do Will Smith abre a nave que acabara de vencer e dá um soco na testa do alienígena. Pode ser quando o personagem de Jeff Goldblum (na época famoso como o nerd de Jurassic Park) solta o seu "ops" depois que descobre que a nave-mãe mantém controle remoto da espaçonave onde está. Pode até ser quando o presidente interpretado por Bill Pullman resolve animar o último esquadrão disponível para chutar o traseiro dos aliens em um discurso que resume da melhor maneira possível o que significa esse inchado filme de ação. É sobre orgulho. Orgulho de fazer explosões soarem solenes.
 
-Aliás, o diretor Rolland Emmerich comete novamente o erro de mostrar a mesma nave com dimensões diferentes em diversos momentos do filme. O filme toda hora se esquece de física básica e passaria vergonha até comparado a um anime japonês futurista disposto a explorar o absurdo. Não há nada de errado no universo absurdo em si, mas há tudo de errado em não aproveitá-lo, servindo apenas como muleta narrativa de um roteiro preguiçoso.
+Me lembro que este foi o primeiro filme a ser massacrado pelos nerds de computador de plantão. Ninguém comprava a ideia de hackear um sistema alienígena usando um vírus feito em um computador da Apple. Pessoas que estão tão compenetradas na história de uma invasão alienígena para reparar neste detalhe de falta de descrença já foram fisgados e estão apenas apontando o fio que segura o Superman voando aparecendo, mas que continuam admirando a capacidade de Christopher Reeve de voar.
 
-A história começa seus primeiros cinco minutos de forma promissora: vinte anos se passaram (de fato) desde a invasão do primeiro filme. Estamos em um 2016 alterado por causa da assimilação da tecnologia alienígena, a China agora é forte no panorama político, e o filme confia demais em nossa memória afetiva mostrando diferentes rostos supostamente conhecidos do primeiro filme, e como eles mudaram. Fora o fato de que continuamos uma raça estúpida a ponto de seus líderes terem feitos preparativos pífios de defesa, alguns detalhes sobre heroísmo que são particularmente confusos.
-
-O agora ex-presidente (Bill Pullman) virou um velho debilitado com crédito zero, e não o herói do dia D, atribuído ao secretário de defesa ou o que o valha. Uma mulher, Hillary... Lanford (Sela Ward), está na presidência, o que é mostrado de maneira particularmente irritante, mas que se torna uma personagem sem o menor tempo de tela. Este ainda é um mundo dos homens mesmo que ela mande na cozinha da Casa Branca. Um outro exemplo é a personagem de Charlotte Gainsbourg, desperdiçada, fazendo a companhia sexual francesa do matemático maluco interpretado novamente por Jeff Goldblum.
-
-Além disso, as únicas mentes brilhantes continuam sendo as mais velhas, enquanto os mais jovens, órfãos (vivemos uma guerra mundial, certo?) ou o filho da lenda Will Smith... quero dizer, do personagem bad ass que ele interpretou. Há dois momentos impactantes para mim, que revelam a mente doentia por trás desse projeto. Em dado momento alguém comenta que ser filho de um herói militar é praticamente fazer parte da realeza, e outro alguém mais tarde comenta meio que a grande "recompensa" da invasão de 96 foi o mundo agora estar mais unido que antes, o que supostamente faria valer todas aquelas vidas perdidas e que agora serviria de combustível para uma nova guerra intergaláctica.
-
-E é claro que meu choque não foi essa visão, acertada aliás, a respeito do mundo governado pela figura do Estado, e do delírio de que um mundo destruído daquele jeito de reergueria em um mundo mais "unido", mas pelo fato dessa visão estar sendo escancarada em um filme tão ruim de plot. Porém, sejamos honestos. Desde o primeiro filme, a ideia de uma raça alienígena socialista, que vive de destruir os recursos de outras raças ao redor do universo, e não de produzir sua própria riqueza, é algo genial demais para ficar nas mãos megalomaníacas do diretor Roland Emmerich.
-
-No entanto, pode-se dizer o mesmo sobre apenas o planeta Terra.
-
-(Aliás, Emmerich participou do roteiro original com Dean Devlin, e ambos fizeram um trabalho decente. Essa continuação aumentou a equipe em mais dois roteiristas, totalizando oito mãos completamente perdidas e que tentam a todo momento voltar para os momentos icônicos do original.)
+Independence Day é o arrasa-quarteirões da década de 90. Possui uma história inadmissível que une diversos núcleos em torno de um vilão em comum. É a humanidade contra o efeitos visuais que ainda hoje impressionam (um pouco). E por mais que a poeira já tenha assentado nessas naves por mais de 20 anos, olhando de um certo ângulo ainda se pode perceber um brilho que insiste em existir.
 

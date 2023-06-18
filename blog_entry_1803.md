@@ -1,158 +1,27 @@
 ---
 
-Em 22 de maio de 1990 a versão 3.0 do Windows foi lançada. Foi melhorado o gerenciador de programas e o sistema de ícones, além de um novo gerenciador de arquivos e suporte a 16 cores. Entre as mudanças internas podemos citar a velocidade e a confiabilidade. Como a partir dessa versão apareceram muitos desenvolvedores que passaram a suportar a plataforma, o número de programas disponíveis aumentou, o que conseqüentemente fez com que as vendas alavancassem. Três milhões de cópias foram vendidas apenas no primeiro ano, e assim o Windows se tornou padrão nos computadores domésticos. Quando a versão 3.1 foi lançada, em 6 de abril de 1992, mais três milhões de cópias foram vendidos em apenas dois meses.
+> Eu seu, eu sei. A maioria dos meus leitores odiou o tema [História do Windows] na era paleozóica. Porém, como eu disse na parte 1.0, estou apenas satisfazendo a outra parte de leitores que procurou no Google por esse tema e acabou caindo no meu antigo blog. Mas vejamos o lado bom: a partir da próxima versão iremos destrinchar a API do sistema, entendendo o porquê das coisas serem como elas são. No momento os deixo apenas com história, pois é desconhecido para mim como funcionavam os primeiros rabiscos do MS-DOS Shell, mais conhecido como Windows/386. Bom divertimento!
 
-{{< image src="windows_30_workspace.png" caption="Windows 3.0 Desktop" >}}
+Assim, em 9 de dezembro de 1987, é lançado o aperfeiçoadíssimo Windows 2.0, que fez do PC um ambiente muito mais parecido com um computador Macintosh. O novo sistema possui ícones para representar programas e arquivos, fornece suporte para memória expandida e janelas que podem se sobrepor(!). Porém, ainda utilizava o modelo de memória do 8088 e portanto era limitado a 1 Megabyte, ainda que certas pessoas houvessem tido sucesso rodando o sistema em cima de outro multitarefa como DesqView.
 
-As fontes TrueType foram adicionadas, junto de novas capacidades multimídia. Outro grande avanço foi na área de comunicação entre aplicativos com a implementação da tecnologia OLE (Object Linking and Embedding), que permitiu documentos de diferentes fabricantes serem intercambiados.
+A Apple, vendo a extrema semelhança entre seu sistema e o Windows, abriu um processo em 1988 alegando ter a Microsoft quebrado o acordo feito em 1985. A Microsoft se defendeu tendo o argumento que a licença lhe dava o direito do uso dessas características. Uma guerra judicial se arrastou por quatro anos. A Microsoft ganhou. Ao final, a Apple declarou que a Microsoft havia infligido 170 de seus copyrights. A corte judicial disse que o acordo de licença dava direito de uso da Microsoft de todos menos nove. Então a Microsoft alegou que os copyrights restantes não poderiam ser reinvidicados pela lei do copyright, já que a Apple pegou suas idéias da interface gráfica desenvolvida pela Xerox em seus computadores Star. Assim, um impresso de 01/06/93, disponível no Microsoft Timeline, resumiu a solução final:
 
-Em novembro de 1993 foi lançada a primeira versão que integrou o Windows e a rede de trabalho, o Windows for Workgroups 3.1. O suporte a compartilhamento de arquivos e impressoras apareceu a partir daí. Duas aplicações novas também surgiram: Microsoft Mail, cliente de mail para uso em redes, e Schedule+, uma agenda de trabalho.
+> "Microsoft announces that Judge Vaughn R. Walker of the U.S. District Court of Northern California ruled today in Microsoft's favor in the Apple vs. Microsoft and Hewlett-Packard copyright suit. The judge granted Microsoft's and Hewlett-Packard's motions to dismiss the last remaining copyright infringement claims against Microsoft Windows 2.03 and 3.0, as well as, the HP NewWave."
 
-E, finalmente, agora já é hora de conversarmos sobre a figura ilustre que popularizou ainda mais o desenvolvimento para Windows.
+Uma outra frase resume o caminho trilhado pela empresa a partir de então:
 
-{{< image src="charles_petzold.gif" caption="Charles Petzold, em foto do seu site" >}}
+> "Microsoft become the top software vendor in 1988 and never looked back..." - Microsoft
 
-Quem começou a programar para Windows naquela época com certeza deve ter ouvido falar do livro clássico de Charles Petzold, uma das poucas referências naquela época sem internet: Programming Windows 3.1. É um livro consideravelmente completo se considerarmos a época em que foi escrito. Vários exemplos estão disponíveis em suas páginas, mas para os que não viveram essa época (como eu) existe [a versão eletrônica disponível para download]. Você deve estar se perguntando se todo esse código-fonte serve para alguma coisa hoje em dia. Por incrível que pareça, serve sim. E para demonstrar o conceito de compatibilidade retroativa da Microsoft, iremos utilizar os mesmos exemplos deste livro, sem por nem tirar uma linha de código. Com o devido copyright e respeito merecidos ao autor, é claro =).
+Com o advento dos novos lançamentos da Intel, os processadores 80286 e 80386, o Windows acabou sendo atualizado duas vezes para aproveitar as novas características dos dois sistemas. E assim nasceram as versões 2.1.x do Windows, respectivamente conhecidas como Windows/286 e Windows/386.
 
-Programar interfaces naquela época não era bem o "clicar e arrastar" de hoje em dia. Eram necessários profundos conhecimentos sobre como o sistema operacional se relacionava com o seu programa e vice-versa. Hoje em dia é possível ainda programar como antigamente, já que toda a estrutura continua a mesma. Porém, é algo extremamente contraproducente de se fazer com as IDEs modernas que existem e suas barras de controles pré-fabricados e código automático. Faremos da forma mais rústica para entender como as coisas funcionam por baixo dos panos, o que por si só será extremamente produtivo para o nosso conhecimento.
+{{< image src="windows2.jpg" caption="Windows 2.0" >}}
 
-Antes de ser criada uma janela, é necessário registrar uma classe de janela no sistema, cuja relação com uma janela é mais ou menos a mesma entre classe e objeto no paradigma de orientação a objetos. Você primeiro define uma classe para sua janela e posteriormente pode criar inúmeras janelas a partir da mesma classe.
-    
-    WNDCLASS wndclass; //Dados sobre a classe de janela.
-    wndclass.style = CS_HREDRAW | CS_VREDRAW;
-    wndclass.lpfnWndProc = WndProc; // Função de janela (isso é importante!)
-    ...
-    wndclass.lpszClassName = szAppName;
-    RegisterClass (&wndclass) ; // Registra a classe de janela.
+A próxima versão do Windows é que vai alavancar as vendas da Microsoft de uma vez por todas. Veremos que boa parte da API que usamos hoje em dia já existia no Windows 3.0, e boa parte das peculiaridades que nos perseguem até hoje.
 
-Quando você define uma classe e a registra está dizendo para o sistema qual será sua função de janela, i. e., qual será a função responsável por receber as mensagens das janelas criadas.
-
-    wndclass.lpfnWndProc = WndProc ; // Função de janela.
-    ...
-    long FAR PASCAL WndProc (HWND hwnd, WORD message, WORD wParam, LONG lParam)
-    {
-    switch( message ) // Manipulando as mensagens.
-    ...
-    }
-
-Uma mensagem é um evento que ocorre relativo à sua janela ou o que está acontecendo ao redor dela no mundo Windows. Por exemplo, as janelas recebem eventos a respeito dos cliques do usuário, redesenho da janela, etc. Quem envia essas mensagens é o próprio Windows, e ele espera uma resposta da sua função de janela. Agora a parte esquisita: quem envia essas mensagens para o Windows é o seu próprio aplicativo!
-
-{{< image src="windows_message_loop.gif" caption="Função de janela" >}}
-
-O aplicativo fica aguardando por eventos em um loop conhecido como loop de mensagens. A função do loop basicamente é chamar a função GetMessage e redirecionar as mensagens obtidas para as respectivas funções de janela.
-
-    while( GetMessage (&msg, NULL, 0, 0) )
-    {
-       TranslateMessage (&msg);
-       DispatchMessage (&msg); // Despacha a mensagem para a função de janela.
-    }
-
-E aqui está o código completo:
-
-    /*--------------------------------------------------------
-      HELLOWIN.C -- Displays "Hello, Windows" in client area
-      (c) Charles Petzold, 1990
-      --------------------------------------------------------*/
-    
-    #include <windows.h>
-    
-    long FAR PASCAL WndProc (HWND, WORD, WORD, LONG) ;
-    
-    int PASCAL WinMain (HANDLE hInstance, HANDLE hPrevInstance,
-        LPSTR lpszCmdParam, int nCmdShow)
-    {
-      static char szAppName[] = "HelloWin" ;
-      HWND        hwnd ;
-      MSG         msg ;
-      WNDCLASS    wndclass ;
-    
-      if (!hPrevInstance)
-      {
-        wndclass.style         = CS_HREDRAW | CS_VREDRAW ;
-        wndclass.lpfnWndProc   = WndProc ;
-        wndclass.cbClsExtra    = 0 ;
-        wndclass.cbWndExtra    = 0 ;
-        wndclass.hInstance     = hInstance ;
-        wndclass.hIcon         = LoadIcon (NULL, IDI_APPLICATION) ;
-        wndclass.hCursor       = LoadCursor (NULL, IDC_ARROW) ;
-        wndclass.hbrBackground = GetStockObject (WHITE_BRUSH) ;
-        wndclass.lpszMenuName  = NULL ;
-        wndclass.lpszClassName = szAppName ;
-    
-        RegisterClass (&wndclass) ;
-      }
-    
-      hwnd = CreateWindow (
-        szAppName,           // window class name
-        "The Hello Program", // window caption
-        WS_OVERLAPPEDWINDOW, // window style
-        CW_USEDEFAULT,       // initial x position
-        CW_USEDEFAULT,       // initial y position
-        CW_USEDEFAULT,       // initial x size
-        CW_USEDEFAULT,       // initial y size
-        NULL,                // parent window handle
-        NULL,                // window menu handle
-        hInstance,           // program instance handle
-        NULL) ;              // creation parameters
-    
-      ShowWindow (hwnd, nCmdShow) ;
-      UpdateWindow (hwnd) ;
-    
-      while (GetMessage (&msg, NULL, 0, 0))
-      {
-        TranslateMessage (&msg) ;
-        DispatchMessage (&msg) ;
-      }
-      return msg.wParam ;
-    }
-    
-    long FAR PASCAL WndProc (HWND hwnd, WORD message, WORD wParam, LONG lParam)
-    {
-      HDC hdc;
-      PAINTSTRUCT ps;
-      RECT rect;
-    
-      switch (message)
-      {
-        case WM_PAINT:
-          hdc = BeginPaint (hwnd, &ps) ;
-    
-          GetClientRect (hwnd, &rect) ;
-    
-          DrawText (hdc, "Hello, Windows!", -1, &rect,
-              DT_SINGLELINE | DT_CENTER | DT_VCENTER) ;
-    
-          EndPaint (hwnd, &ps) ;
-          return 0 ;
-    
-        case WM_DESTROY:
-          PostQuitMessage (0) ;
-          return 0 ;
-      }
-    
-      return DefWindowProc (hwnd, message, wParam, lParam) ;
-    } 
-
-Esse exemplo é bem velho, mas compila e funciona até hoje, depois de passados 17 anos. Pode não rodar, mas esta é outra história.
-
-    cl /c hellowin.c
-    link hellowin.obj user32.lib gdi32.lib
-    hellowin.exe
-
-O Windows 3.x tinha uma particularidade nefasta: qualquer aplicativo poderia travar o sistema como um todo. Se lembrarmos que o Windows antigamente era multitarefa e não-preemptivo, podemos deduzir que enquanto é executada a função de janela de um aplicativo o sistema aguarda por esse aplicativo indefinidamente. Se o aplicativo trava, ele nunca retorna. Se ele nunca retorna, o sistema fica eternamente esperando pelo retorno da função de janela. Alguns travamentos conseguiam ser resolvidos por interrupção, mas a maioria não. No próximo capítulo [da série] veremos como os sistemas de 32 bits resolveram esse pequeno problema.
-
-O que o resto do código do Petzold faz? Dê uma olhada na documentação do MSDN. Ela ainda está disponível, já que todos os aplicativos precisam utilizar essas funções, seja diretamente ou através de imensos frameworks de interface com o usuário. E existem pessoas que precisam suportar código-fonte legado.
-
-Já que agora você sabe o que são funções de janela, mensagens e afins, por que não ver tudo isso funcionando? O Microsoft Visual Studio possui uma ferramenta muito útil para isso chamada Spy++ (spyxx.exe). Existem também aplicativos equivalentes (com fonte). Outra ferramenta muito útil, principalmente na hora de desenvolver janelas com controles comuns do Windows, é o Control Spy.
-
-Para saber mais dê uma passada no [sítio do Charles Petzold].
-
-[sítio do Charles Petzold]: http://www.charlespetzold.com
-[a versão eletrônica disponível para download]: http://www.charlespetzold.com/books.html
-[da série]: {{< relref "historia-do-windows" >}}
+[História do Windows]: {{< relref "historia-do-windows" >}}
 
 ---
 categories:
 - coding
-date: '2007-08-07'
-title: História do Windows - parte 3.51
+date: '2007-08-03'
+title: História do Windows - parte 3.0

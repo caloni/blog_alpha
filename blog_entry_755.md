@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-07-15'
+date: '2018-07-13'
 tags:
 - beer
-title: Brewdog Punk IPA
+title: Brewdog
 ---
 
-Essa sim, vale a pena. Lupulada com aroma, amarga na medida certa e com um after completo, que cobre a boca toda, essa versão da cervejaria do Reino Unido merece palmas pela conquista em latinha.
+Que o Incrível achou na lojinha da liberdade se chama Indie Pale Ale, o que parece uma brincadeira, pois no fundo se trata de um pilsen leve, que embora aromático e um tanto com certos tons condimentados, seu corpo é muito leve e amargor inexistente (ou some tão rápido que não se constrói um after sensível).
 

@@ -1,20 +1,16 @@
 ---
 categories:
 - writting
-date: '2020-05-19'
-link: https://www.imdb.com/title/tt0137439
+date: '2020-02-04'
+link: https://www.imdb.com/title/tt0104008
 tags:
 - movies
-title: Conto de Outono
+title: Conto de Inverno
 ---
 
-É época da colheita de uvas para fazer vinho e este filme de Éric Rohmer fala sobre personagens mais maduros, que já envelheceram o suficiente para saberem exatamente o que querem e terem um gosto mais complexo na boca.
+Um dos filme da quadrilogia do proficiente Éric Rohmer (As 4 Aventuras De Reinette E Mirabelle), Charlotte Véry está leve e tresloucada em um papel de mãe solteira dividida entre três amores: dois presentes não lhe bastam, um ausente é sua razão de viver.
 
-Com os filhos já criados e casando, para muitos que já perderam o parceiro pode ser uma boa ter uma nova companhia que traga significado à vida, e não apenas prazeres frívolos. Há um professor de filosofia que só está interessado em ex-alunas jovens, e o filme nos mostra o quanto essa atitude é ao mesmo tempo coerente e patética. Também nos mostra como as mais jovens têm certeza que foram elas que iniciaram o flerte com os mais velhos, nessas peças que a vida prega aos mais jovens, que só porque se sentem no controle assumem que o que a vida lhe trouxe é exatamente o que queriam.
+Este é um filme moderno, de relacionamentos abertos e uma mãe que, diferente das de hoje em dia, não vira serviçal de sua criança. Rohmer adota uma postura quase que relapsa na condução dos seus atores e das próprias tomadas, mas com isso ganha um certo charme e simplicidade que remetem à vida cotidiana da capital da França ou da visão bucólica e vazia de uma cidade do interior. Com a narrativa em cortes rápidos a história pode avançar em cinco segundos, e com uma verborragia típica de intelectuais pode nos levar a discussões filosóficas cheias de conclusões a la francesas, vazias de substância, mas que soam profundas quando ditas. Duas formas diferentes de passar o tempo.
 
-Esta comédia brinca com diferentes cenários de relacionamento, e consegue nos entreter em todos eles. Sua protagonista merece ser feliz, pois ela é tão humana e sincera. Diferente dessas heroínas fantasiosas de Hollywood ela não está com pressa e não irá cair nos braços de um possível amor "custe o que custar". Antes disso sua amizade com a melhor amiga é mais importante. A sutileza com que percebemos isso é o charme dessa rede de tensões.
-
-Em uma época pré-Tinder, antes das facilidades das relações líquidas profetizadas por Zygmunt Bauman, onde o que é minimamente desagradável é descartado, seja uma pessoa ou um objeto, esse filme explora com muito charme a busca do amor pelos mais maduros, e os revela como garrafas de vinho que se tornaram melhor com o tempo. Os mais jovens possuem a energia, a beleza e as ideias loucas que passam por uma mente aberta, mas os mais velhos compensam isso tudo com a voz da experiência de quem não está em busca de aventuras, pois já as viveu o suficiente. 
-
-Mais uma vez o diretor da quadrilogia dos contos das estações do ano, além de outras interessantíssimas coleções, nos coloca tão à vontade que é natural que queiramos passar alguns dias deliciosos de férias no campo na companhia dessas pessoas. A história é o que menos importa, mas mesmo ela garante uma certa inteligência emocional que nos cativa. Sobretudo os mais velhos como eu.
+Charlotte faz Félicie, uma mulher que viveu o grande amor e o perdeu por um lapso de memória. Este é o filme para descobrirmos com quem ela vai ficar no final, e a comédia surge quando descobrimos que ela toma grandes decisões depois de refletir por dois minutos.
 

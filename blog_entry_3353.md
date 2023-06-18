@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-05-10'
+date: '2021-09-13T23:04:32-03:00'
 tags:
-- food
-title: Salvador Figueroa Gualiama Oak Aged Malbec Gran Reserva 12 meses 2014
+- movies
+title: Salto Alto
 ---
 
-Seco, mas agradável; o frutado vem aos poucos; pouco aromático; 10k garrafas anuais e 2500 Gran Reserva. Provado direto da menor bodega do mundo (que só aceita dinheiro e fica em uma ruazinha de Cafayate).
+Este é o típico Almodóvar com mulheres complicadas e poderosas, sobre relações familiares conturbadas, sobre sessão Hitchcock com assassinato e mistério, sobre gravidez, acidentes e coincidências. O pacotão novela está todo aí, mas a trama vai enfraquecendo na confusão. No começo lembra trabalhos inesquecíveis como Tudo Sobre Minha Mãe, mas no final vira um imenso bolo de merda como Abraços Partidos.
 

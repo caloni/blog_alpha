@@ -1,26 +1,22 @@
 ---
 
-Pense rápido: se você morrer hoje escolha de toda sua vida apenas uma memória para guardar para toda a eternidade. No filme de Hirokazu Koreeda, o mundo pós-vida possui um sistema de acompanhamento das pessoas que recentemente faleceram e cujo objetivo é exatamente esse.
+Os personagens são tão reais e carismáticos, exatamente como seria se estivéssemos testemunhando uma família japonesa e seus problemas (financeiros e emocionais), que há vários momentos em Depois da Tempestade em que assisti-lo se torna uma experiência naturalista, quase documental. O que "frustra" um pouco esse realismo é apenas a leve dramatização realizada para tornar mais palatável ao grande público, com uma ou outra trilha sonora cômica, e um ou outro comentário que algum personagem solta que é "perspicaz demais pra ser verdade". Mas esses são pecadilhos frente ao resultado final, denso e complexo, pois consegue explorar seus personagens e ainda evocar uma visão um tanto decadente da cultura japonesa (para o bem e para o mal), como o envelhecimento de sua população, a autonomia cada vez maior da mulher e a crise financeira dos mais jovens.
 
-A inusitada premissa se esforça por tomar o foco central da história ao mesmo tempo que se revela frutífera nos meandros desse sistema, narrando o processo da captura da lembrança do ponto de vista dos "subalternos" que tomam conta dos falecidos.
+E tudo gira em torno, ou podemos dizer, começa e termina, no pilar familiar: a avó. É ela que torce por dias melhores para seus filhos e netos, mesmo que saiba que seu próprio fim está próximo, e não tem receio de perguntar ao próprio filho como ele preferiria que ela morresse. Seu lado prático, logo após a morte do marido, já denuncia que a mulher já tem um papel extremamente importante na sociedade japonesa, não importando o quanto seja subjugada. Nesse filme os homens são periféricos, ou verdadeiros perdedores.
 
-"Singelo do começo ao fim, representa uma bonita mensagem de esperança e auto-ajuda. Mas é só."
+Como seu filho, Shinoda, que sofre a sina de se tornar uma outra versão de seu finado pai. Muito se discute no filme sobre talento, e ele ganhou um prêmio literário pelo seu primeiro livro, para nos próximos quinze anos cambalear após o seu divórcio entre apostas em jogos de azar, além de usar seu emprego temporário como investigador para espreitar a vida da ex e de seu filho. Shinoda vive à sombra de sua ex-família e explora sua mãe sem deixar o orgulho de lado, mas mesmo assim, a interpretação de Hiroshi Abe é carismática o suficiente para nunca deixarmos de torcer por ele.
 
-Foi assim que eu terminei minha mini-resenha sete anos atrás. Mas hoje penso diferente. Toda a discussão que o filme elabora em seu pano de fundo sobre esse mundo idêntico ao nosso, com a única diferença dos mortos chegarem nesse lugar para serem arquivados, é uma filosofada das boas sobre o sentido da vida.
+O que nos leva à problemática do filme: o que acontece com a vida das pessoas quando elas não conseguem seguir adiante de maneira objetiva, preferindo arriscar jogadas à esmo? O que simboliza esse problema no filme é um brinquedo interditado, um tufão iminente e a próxima geração saindo à cata de bilhetes de loteria espalhados no chão, levados pelo vento. Isso representa de maneira particularmente deprimente a cultura e economia japonesas atuais e, se continuar assim, exatamente das próximas gerações.
 
-Mais do que isso, o filme em seu terceiro ato elabora uma reviravolta envolvendo dois funcionários desse lugar.
+E o que dizer da visão tão mais rica e com energia de um grupo de senhoras idosas reunidas aprendendo sobre música clássica na casa de um professor, também idoso, que se recusou a dar aulas pela televisão para "não trair os deuses da música"? Há várias mensagens em Depois da Tempestade que se traduzem no que vemos mais do que ouvimos, os diálogos servindo apenas para temperar de realidade as relações entre aquelas pessoas.
 
-Mais do que isso, este filme é um semi-documentário, pois a maioria das pessoas que "morreram" no filme não são atores e foram entrevistadas de verdade para responderem qual o momento da vida que gostariam de guardar se morressem hoje.
-
-O diretor Hirokazu Kore-eda foi um documentarista e se aventurou na ficção em meia-dúzia de filmes. Este é uma mescla de seus dois estilos e entrega mais realismo e profundidade usando pessoas da vida real.
-
-E você, já pensou sobre isso?
+O resultado final é que acaba sendo um filme bem-humorado com pitadas de drama e que não se priva de abordar temas complexos enquanto narra sua história principal. O diretor Hirokazu Koreeda faz uma referência muito pertinente a Era uma Vez em Tóquio ao usar uma profundidade de campo reduzida e enfocar a casa da avó com diferentes planos sobrepostos, dando a impressão da casa ser menor ainda do que é, mas ao mesmo tempo tentando unir familiares sob o mesmo teto. E da mesma forma com que o clássico de Yasujirô Ozu cuidava das relações familiares de uma maneira natural e universal, independente da cultura japonesa, aqui Koreeda tenta atingir o mesmo nível de universalidade, com resultados mistos. É importante lembrar nessas horas que, bem ou mal, famílias pobres, mas não miseráveis, em qualquer cultura possuem problemas semelhantes nas finanças domésticas, independente da comida típica do lugar onde vivem.
 
 ---
 categories:
 - writting
-date: '2014-02-22'
-link: https://www.imdb.com/title/tt0457655
+date: '2012-01-15'
+link: https://www.imdb.com/title/tt0165078
 tags:
 - movies
-title: Depois do Casamento
+title: Depois da Vida

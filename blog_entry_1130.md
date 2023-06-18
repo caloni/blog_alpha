@@ -1,56 +1,20 @@
 ---
-categories: []
-date: 2017-09-26 10:21:02-03:00
+categories:
+- writting
+date: '2015-12-17'
+link: https://www.imdb.com/title/tt3302820
 tags:
-- ccpp
-title: C++ Moderno Arranca os Cabelos por Você (std::move e classes simples).
+- movies
+title: 'A Conspiração da Vaca: O Segredo da Sustentabilidade'
 ---
 
-Um dos [últimos posts](https://groups.google.com/forum/#!topic/ccppbrasil/-AC9U7J-0Zg) no grupo CCPPBR do Thiago Adams chama mais uma vez a atenção para a complexidade infinita que linguagens como C++ estão preferindo tomar. Esta é a geração que irá sofrer as dores de compatibilidade com o passado mais que todas as outras que virão.
+Se você pensou "esse é mais um daqueles documentários sobre conspirações em torno de algo polêmico como deixar de comer carne", parabéns. Você está 50% certo. Porém, se você também pensou que esse pode ser um filme que faz pensar em pelo menos alguma coisa a respeito de sustentabilidade, você já acertou mais da metade do filme.
 
-Isso porque mudanças pontuais que vão sendo aplicadas na linguagem e biblioteca, como *move semantics*, não cabe mais em exemplos de livrinhos de C++ para iniciantes da década de 90:
+Dirigido pela dupla de novatos Kip Andersen e Keegan Kuhn, o filme entrega no começo um caminhão de números, estatísticas e proporções da relação com o que os seres humanos consomem de alimento de origem animal e o quanto consomem por causa disso de terras férteis, destruindo florestas e produzindo gases responsáveis pelo efeito estufa. Tudo isso em uma escala muito maior que todos os meios de transporte que usam queima de combustível fóssil. Surpreso? Espere até ver que o documentarista procurou diversas organizações ambientalistas e descobriu que eles não poderiam respondê-lo ou sequer atendê-lo (Greenpeace) a respeito do uso indiscriminado da agropecuária.
 
-```
-#include <string.h>
-#include <stdlib.h>
-#include <memory>
+Formando uma coletânea de opiniões de diferentes pessoas orbitando o assunto sobre o que fazer, durante um longo processo em que finalmente o autor se dá conta que o mundo ambientalista não é mais tão sincero quanto ele acreditava na infância, quando assistiu o documentário de Al Gore, Cowspiracy obviamente exagera no seu tom dramático, e isso diminui sua eficácia. No entanto, suas informações, se corretas, são úteis para qualquer ser humano que repense a todo momento o que poderia estar fazendo para tornar um mundo um lugar menos propenso a caminhar para um fim próximo.
 
-struct X
-{
-    char * pString = 0;
-    X() {}
-    X(const char* s)
-    {
-        pString = _strdup(s);
-    }
-    ~X()
-    {
-        free(pString);
-    }
-};
+Essas opiniões geralmente divergem entre si, mas todas acreditam que proibir, taxar e etc seria a solução. Menos quando o filme encontra dados realmente relevantes a respeito de quanto do custo de produção de carne é subsidiada pelos governos, e a quantidade massiva de lobby que existe na política para que isso continue como está. Isso sem contar o número anormal de assassinatos de ativistas em lugares menos desenvolvidos como o Brasil. Se há um pouco de libertarianismo nesse filme, ele fica por conta de uns 10 minutos em algum lugar da história.
 
-int main()
-{
-    X x1;
-    const X x2("a");
-    x1 = std::move(x2);
-
-    return 0;
-}
-```
-
-Neste singelo exemplo, que está errado by design, a classe X não se preocupa em proteger-se de cópias simples. Mas o programador também não se protege da ignorância e usa **std::move** como se ele magicamente movesse referências const, o que é absurdo.
-
-{{< image src="zi5GJxE.png" caption="Imgur" >}}
-
-A questão, porém, não é sobre qual é o problema no código, mas os aspectos de design de C++ que podem levar futuros programadores a se depararem com o mesmo problema em versões multicamadas de complexidade. Este é um exemplo óbvio, mas até quando será?
-
-Esta crítica pode levar (pelo menos) para dois diferentes caminhos:
-
- - O funcionamento do std::move não é intuitivo e pode levar a erros semânticos ("se usar o move estou movendo referências"); programador não conhece o funcionamento por completo.
- - Em C++ o esforço de manter uma classe é muito maior hoje do que em 98/03 ("tomar cuidado com reference, const reference, rvalue reference..."); isso concordo; as mudanças são bem-intencionadas, mas a linguagem é velha com alguns esqueletos que podem começar a balançar.
-
-C++, assim como o Brasil, desde o começo nunca foi para amadores. Hoje em dia ele é impossível. Ouço galera falar que está ficando lindo, mas, francamente, está virando é um ninho de cobras. Mantenedores de bibliotecas, se não estão já arrancando os cabelos, deveriam começar.
-
-Mas talvez com C++ 17+ os cabelos passem a cair sozinho...
+Com tantos problemas envolvendo não apenas instituições feitas para proteger o ecossistema do planeta, mas também produtores alternativos de alimento, o filme tenta terminar com uma mensagem de esperança apontando para o modo de vida vegano. Pelo menos seus argumentos são honestos, e isso é uma coisa. Porém, radicalizar de repente acaba por criar uma sugestão de mudança de comportamento que para a maioria dos espectadores irá soar radical demais. Infelizmente, é aí que muitos irão parar de se importar.
 

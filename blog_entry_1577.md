@@ -1,19 +1,20 @@
 ---
 categories:
 - writting
-date: '2012-10-25'
-link: https://www.imdb.com/title/tt1835980
+date: '2011-12-20'
+link: https://www.imdb.com/title/tt0107048
 tags:
-- mostra
 - movies
-title: Felicidade
+title: Feitiço do Tempo
 ---
 
-Há uma introdução vigorosa e poderosa em Felicidade, novo trabalho da diretora Doris Dörrie ([Cerejeiras em Flor]). Sem diálogos e um jogo de sons e imagens extremamente econômicos em sua mensagem, acompanhamos a vida perfeita e feliz de Irina (Alba Rohrwacher) em seu país de origem seguido da tragédia que vem com a guerra, representada por um grupo impiedoso de soldados. O choque de realidades é intenso, mas em poucos momentos aliviado com a visão de um cervo, que representa não apenas a última visão de Irina e sua terra natal, mas a capacidade do filme de amenizar passagens fortes de sua história, uma virtude e ao mesmo tempo a sua maior fraqueza.
+Bill Murray em um papel que é a cara dele: Phil Connor é o homem do tempo de uma emissora de televisão e precisa cobrir o tradicional "Dia da Marmota", uma cerimônia de uma cidadezinha secular cuja lenda uma marmota (ironicamente também chamada Phil) faz a previsão se haverá mais inverno.
 
-Mesmo debilitada emocionalmente, ou talvez por causa disso, Irina começa uma outra vida na cidade grande. A capacidade que ela tem de se manter de pé e continuar a respirar suas emoções só consigo atribuir à sua vida passada, plena e cheia de felicidade. A felicidade aqui tem cheiro e cor, representada por elementos simples como o mel ou um pouco de imaginação. Irina diz se alimentar de mel por ser uma abelha. Lembramos do enxame de sua fazenda fugindo dos tiros de canhão. O texto visual do filme é sempre forte e sutil como esse exemplo.
+Assim, ele parte para uma viagem à cidadezinha para uma estadia de apenas um dia para cobrir o evento com a ajuda do seu câmera man e sua produtora executiva, para a qual mantém um secreto interesse que inteligentemente vai se mostrando conforme o drama da história se desenvolve.
 
-Irina conhece Kalle (Vinzenz Kiefer) e enxerga nele a mesma leveza que possui. Juntos tentam buscar novamente a felicidade, e mesmo que seja difícil nunca sentimos ser mais difícil do que é para qualquer um de nós, que precisamos quase sempre matar um leão por dia. É nesse ponto que a leveza do filme impede que acontecimentos particularmente trágicos e tensos não possuam espaço para crescer. Ao amenizar as situações, perde-se o potencial dramático por uma tenebrosa comédia, e com ela vai-se o significado maior do filme: a felicidade a qualquer custo sacrifica o poder da tristeza.
+A maldição que cai sobre o egocêntrico Phil também não deixa de ser irônico: descontente por ter que ficar um único dia na gelada cidadezinha, esse mesmo dia se repete indefinidamente, com as pessoas executando as mesmas ações, como se fosse a primeira vez que o dia se passasse, menos o próprio Phill, que sabe que já passou por isso antes.
 
-[Cerejeiras em Flor]: {{< relref "hanami-cerejeiras-em-flor" >}}
+Usando de uma montagem inteligente que aos poucos corta várias cenas que são repetidas exatamente para demonstrar que os dias vão se sucedendo da mesma maneira, sendo que a única pessoa onisciente e que altera sua história é o personagem de Bill Murray, as cenas vão se sucedendo cada vez menores e em um ritmo que nos permite 1) acompanhar a evolução do drama do jornalista e 2) não ficarmos entediados pela situação; pelo contrário, as história que vão ocorrendo fazem com que ele aos poucos vá mudando e tentando diferentes soluções.
+
+A ideia genial do longa é justamente representar a história do resto do mundo várias e várias vezes e acompanharmos a evolução de apenas um único homem durante esse único dia, que, aparentemente se repete por muitíssimo tempo (ele aprende a tocar piano de maneira magistral, o que faz com que pensemos nos anos preso no mesmo dia).
 

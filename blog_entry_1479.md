@@ -1,137 +1,22 @@
 ---
 categories:
-- coding
-date: '2007-08-21'
-title: 'Erro de compilação: funções muito novas na Win32 API'
+- writting
+date: '2015-06-04'
+link: https://www.imdb.com/title/tt1816518
+tags:
+- movies
+title: Ernest and Célestine
 ---
 
-Quando fala-se em depuração geralmente o pensamento que vem é de um código que já foi compilado e está rodando em alguma outra máquina e gerando problemas não detectados nos testes de desenvolvedor. Mas nem sempre é assim. Depuração pode envolver problemas durante a própria compilação. Afinal de contas, se não está compilando, ou foi compilado errado, é porque já existem problemas antes mesmo da execução começar.
+É um desenho de 2012, indicado ao Oscar de 2014, que estreou na Netflix esse mês (2015). Falado em francês e dirigido por três pessoas, o filme parece possuir um maior poder de marketing do que de contar uma história diferente do que o velho clichê "eles vivem em mundos diferentes". Contudo, é bem desenhado, mantendo suas virtudes em seu toque artístico.
 
-O fonte abaixo, por exemplo, envolve um detalhe que costuma atormentar alguns programadores, ou por falta de observação ou documentação (ou ambos).
+A rata, Celestine, por algum motivo imagina um urso seu amigo e o desenha. Ela gosta de desenhar, apesar de ser criada na sociedade de ratos onde vive para coletar dentes de pequenos ursos. Os dentes viram os dois dentes da frente dos ratos, sem os quais eles falam estranho e nem os próprios ratos entendem (apesar de sempre haver algum chato no grupo que afirma estar entendendo). Isso é engraçadinho.
 
-    #include <stdio.h>
-    #include <windows.h>
-    
-    void main(void)
-    {
-    	typedef enum _COMPUTER_NAME_FORMAT
-    	{
-    		ComputerNameNetBIOS,
-    		ComputerNameDnsHostname,
-    		ComputerNameDnsDomain,
-    		ComputerNameDnsFullyQualified,
-    		ComputerNamePhysicalNetBIOS,
-    		ComputerNamePhysicalDnsHostname,
-    		ComputerNamePhysicalDnsDomain,
-    		ComputerNamePhysicalDnsFullyQualified,
-    		ComputerNameMax
-    	} COMPUTER_NAME_FORMAT;
-    
-    	COMPUTER_NAME_FORMAT CF = ComputerNameDnsDomain;
-    
-    	char szDomainName[MAX_COMPUTERNAME_LENGTH];
-    
-    	DWORD dwSize = sizeof(szDomainName);
-    
-    	//GetComputerName(szDomainName, &dwSize);
-    	GetComputerNameEx(CF, szDomainName, &dwSize);
-    } 
+O urso, Ernest, acorda da hibernação morrendo de fome, mas não tem dinheiro para comprar comida. Ele é músico, mas ninguém lhe dá valor. Perseguido pela polícia por vagabundear, acaba conhecendo sem querer Celestine e ambos viram amigos inseparáveis. Isso é sentimental.
 
-Tirando o fato que o retorno void não é mais um protótipo padrão da função main e que a definição da enumeração COMPUTER_NAME_FORMAT dentro da função main é no mínimo suspeita, podemos testar a compilação e verificar que existe exatamente um erro grave neste fonte:
+O casal de ursos, donos de uma doçaria e uma "loja de dentes", realizam um mercado perfeito: de um lado os jovens ursos compram e comem doces ao final da aula (a escola fica do lado da doçaria), e assim perdem os dentes mais rapidamente, e por isso precisam ir à loja de dentes conseguir mais. Como eles conseguem tantos dentes não é muito bem explicado, mas dá a entender que os mesmos dentes que os ursinhos perdem são usados para os ursos adultos. Isso é de uma lógica infantil, mas estamos falando mesmo de um desenho infantil, em todos os seus detalhes, e por mais que ele tente permear o campo das ideias, no máximo vira uma apologia às ideias francesas sobre economia, não muito raro resumidas, incompletas e tendenciosas.
 
-    
-    cl getcomputername.cpp
-    getcomputername.cpp(26) : error C3861: 'GetComputerNameEx': identifier not found
+Como um desenho para crianças, o traço do filme segue a mesma lógica dos desenhos de Celestine, que vai melhorando com o tempo e que "surge" primeiro de um esboço em um papel branco. Contendo em sua lógica visual os traços de personalidade tanto da ratinha -- agitada -- quanto do urso -- lento e desengonçado --, o momento mais inspirado do longa é a perseguição da massa de policiais de ambos os mundos. Eu poderia dizer que a lógica do julgamento duplo também é interessante, mas não é. Maniqueísta ao máximo, resolve uma situação da forma mais preguiçosa possível, típico das animações em série da TV.
 
-A função GetComputerNameEx parece não ter sido definida, apesar de estarmos incluindo o header windows.h, que é o pedido pela documentação do MSDN.
-
-Esse tipo de problema acontece na maioria das vezes por dois motivos:
-    
-  1. o header responsável não foi incluído (não é o caso, como vimos),
-  2. é necessário especificar a versão mínima do sistema operacional.
-
-De fato, se criarmos coragem e abrirmos o arquivo winbase.h, que é onde a função é definida de fato, e procurarmos pela função GetComputerNameEx encontramos a seguinte condição:
-
-    #if (_WIN32_WINNT >= 0x0500)
-    
-    typedef enum _COMPUTER_NAME_FORMAT {
-        ComputerNameNetBIOS,
-        ComputerNameDnsHostname,
-        ComputerNameDnsDomain,
-        ComputerNameDnsFullyQualified,
-        ComputerNamePhysicalNetBIOS,
-        ComputerNamePhysicalDnsHostname,
-        ComputerNamePhysicalDnsDomain,
-        ComputerNamePhysicalDnsFullyQualified,
-        ComputerNameMax
-    } COMPUTER_NAME_FORMAT ;
-    
-    WINBASEAPI
-    BOOL
-    WINAPI
-    GetComputerNameExA (
-        __in    COMPUTER_NAME_FORMAT NameType,
-        __out_ecount_part_opt(*nSize, *nSize + 1) LPSTR lpBuffer,
-        __inout LPDWORD nSize
-        );
-    WINBASEAPI
-    BOOL
-    WINAPI
-    GetComputerNameExW (
-        __in    COMPUTER_NAME_FORMAT NameType,
-        __out_ecount_part_opt(*nSize, *nSize + 1) LPWSTR lpBuffer,
-        __inout LPDWORD nSize
-        );
-    #ifdef UNICODE
-    #define GetComputerNameEx  GetComputerNameExW
-    #else
-    #define GetComputerNameEx  GetComputerNameExA
-    #endif // !UNICODE
-    
-    //...
-    
-    #endif // _WIN32_WINNT
-
-Ou seja, para que essa função seja visível a quem inclui o windows.h, é necessário antes definir que a versão mínima do Windows será a 0x0500, ou seja, Windows 2000 (vulgo Windows 5.0). Aliás, é como aparece na documentação. Um pouco de observação nesse caso seria o suficiente para resolver o caso, já que tanto abrindo o header quanto olhando no exemplo do MSDN nos levaria a crer que é necessário definir essa macro:
-
-    #define _WIN32_WINNT 0x0500
-    
-    #include <windows.h>
-    #include <stdio.h>
-    #include <tchar.h>
-    
-    void _tmain(void)
-    {
-    	TCHAR buffer[256] = TEXT("");
-    	TCHAR szDescription[8][32] = {TEXT("NetBIOS"), 
-    	TEXT("DNS hostname"), 
-    	TEXT("DNS domain"), 
-    	TEXT("DNS fully-qualified"), 
-    	TEXT("Physical NetBIOS"), 
-    	TEXT("Physical DNS hostname"), 
-    	TEXT("Physical DNS domain"), 
-    	TEXT("Physical DNS fully-qualified")};
-    	int cnf = 0;
-    	DWORD dwSize = sizeof(buffer);
-    
-    	for( cnf = 0; cnf < ComputerNameMax; cnf++ )
-    	{
-    		if (!GetComputerNameEx( (COMPUTER_NAME_FORMAT)cnf, buffer, &dwSize) )
-    		{
-    			_tprintf(TEXT("GetComputerNameEx failed (%d)\n"),
-    			GetLastError());
-    			return;
-    		}
-    			else _tprintf(TEXT("%s: %s\n"), szDescription[cnf], buffer);
-    
-    		dwSize = sizeof(buffer);
-    		ZeroMemory(buffer, dwSize);
-    	}
-    } 
-
-Outra observação que poderia ter ajudado na hora de codificar seria dar uma olhada no que os caras escrevem na seção de advertências (remarks) da documentação:
-
-> To compile an application that uses this function, define the _WIN32_WINNT macro as 0x0500 or later. For more information, see Using the Windows Headers.
-
-Podemos também notar pela definição do COMPUTER_NAME_FORMAT dentro do main que o código estava no meio do caminho de cometer um sacrilégio: declarar funções e estruturas que já estão definidas nos headers da API. Portanto, se você já encontrou algum código parecido com esse, é hora de colocar em prática algumas teorias de refactoring.
+Com uma didática e moral "certinhas", permeada de politicamente correto e traços curiosos o suficiente para expressarmos um "aha", Ernest and Celestine é a típica aventura de Sessão da Tarde, em que não há nada para fazer e nada a esperar. Aproveite e faça umas pipocas ou, se estiver frio e/ou chovendo, bolinhos de chuva. Só não coloque muito açúcar.
 

@@ -2,11 +2,13 @@
 categories:
 - writting
 date: '2021-05-22'
-link: https://www.imdb.com/title/tt14536106/
+link: https://www.imdb.com/title/tt14536130/
 tags:
 - series
-title: 'Love, Death & Robots: Ice'
+title: 'Love, Death & Robots: Automated Customer Service'
 ---
 
-Qual era a sacada aqui? Uma série que começou promissora e revolucionária no quesito efeitos digitais e sem travas por idade, este episódio precisa inserir personagens de várias etnias morando na periferia da humanidade, um planeta inóspito, trabalhando para uma gigante indústria de extração. Alguns possuem a biologia melhorada, enquanto os outros são excluídos. É uma diversão de jovens por adrenalina. Uma história sem imaginação visual nem narrativa, a velha cartilha do artista que se apaixona pelo conto do proletariado.
+Um futuro estilo Wall-E só com humanos velhos e pets, sendo que pet pode ser um desses cachorros pequenos ridículos ou uma espingarda. As máquinas fazem tudo pelos humanos, inclusive causar um pouco de emoção, como um aspirador se revoltar e sair matando seu dono. É o que acontece nesse episódio da série que une efeitos digitais com histórias curtas e sangrentas ou sexuais (ou ambos, meu preferido).
+
+A nova temporada da série estréia em baixa com uma história requentada de outros carnavais e com efeitos que não nos causa qualquer comoção. Seria até desejável que essa velhinha fosse finalmente assassinada. A série é sobre isso. E ela trai suas premissas. Não há morte. Não há sexo. Só robôs e humanos sem amor
 

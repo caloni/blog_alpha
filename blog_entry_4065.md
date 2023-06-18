@@ -1,19 +1,19 @@
 ---
 categories:
-- reading
-date: '2019-02-03'
-link: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
-tags: []
-title: Why Facts Don't Change Our Minds
+- writting
+date: '2023-01-04T23:33:05-03:00'
+tags:
+- movies
+title: Ruído Branco (White Noise)
 ---
 
-Você sabe como funciona um vaso sanitário? Tem certeza? Faça o experimento, então: descreva de maneira verbal todos os passos envolvidos no funcionamento de dar descarga em um vaso. Depois pesquise e verifique como ele realmente funciona. Compare a realidade com o seu achismo e exploda sua cabeça.
+A mente amalucada e irreverente do cineasta Noah Baumbach encabeça este trabalho pós-pandemia que graças a Deus é bem humorado. Seus diálogos inflados e enfadonhos nos preparam melhor para o filme-catástrofe, que quando chega ganha a assinatura do diretor e um frescor de novos ventos. Metalinguístico por natureza, a narrativa interna fala sobre a narrativa em si, escapando de maneira esperta do velho caminho de todos os gêneros que ele aborda. Aliás, não escapa: comenta olhando de fora e se inserindo com uma roupagem que reflete tudo que sabemos e gostamos sobre cinema. Bom, talvez não tudo.
 
-Mas não se preocupe, você não é o único. De acordo com inúmeras pesquisas desse artigo de Elizabeth Kolbert o ser humano dependeu dessa confiança cega no conhecimento do próximo para conseguir evoluir tão rapidamente desde a idade do bronze. Não era todo homo sapiens sapiens que precisava entender todo o mecanismo por trás da confecção de uma arma ou uma ferramenta rústica dos tempos primórdios. Muitos simplesmente confiavam no que lhe era dado pelo ambiente e sociedade onde vivia.
+Há um núcleo, mas vários epicentros que são simbólicos e que hoje se erguem como totens de uma nova era. A fascinação por Hitler, sendo comparada com Elvis em uma sequência imortal. A nova igreja, o supermercado, onde a comunidade mantém seus laços capitalistas e individualistas em uma dança secreta e consensual. E que dança pós-créditos, meus amigos!
 
-Até aí há uma grande coincidência em como a sociedade funciona hoje. Claro, se escalarmos nossa evolução ao infinito após a Revolução Industrial, já que praticamente o funcionamento de nada no mundo contemporâneo consegue ser explicado por apenas um ser humano. Pior ainda se ele tentar fazer ele mesmo. Veja a história do cara que tentou fazer seu próprio sanduíche. Ele deveria produzir todos os ingredientes envolvidos em sua produção. Ele demorou seis meses e gastou 1500 dólares no processo. Um mero sanduíche.
+Temas tão caros como o medo da morte e a era da desinformação surgem tão naturais que o filme faz parecer fácil abordar esses assuntos. White Noise pode até ser uma masturbação cinematográfica, mas é feminina, com orgasmos múltiplos, que podem ser tão ou mais potentes que um único. É difícil de dizer como você se sentirá. Com sono? Anestesiado? Ambos? Queremos falar sobre isso?
 
-No entanto, o assunto do artigo não é esse. Ele parte disso para nos ensinar uma importante lição como lidamos com o conhecimento no mundo e a partir disso demonstra como nem em todas as áreas isso é algo benéfico. No quesito democracia, por exemplo, esse nosso viés é muito ruim, já que as decisões escolhidas por milhões de pessoas não impactam diretamente suas vidas, mas a decisão em si exige conhecimento de cada um. Isso quer dizer que todos os votantes ou apoiadores de qualquer ação de seus governos deveriam estar a par de todo o movimento geopolítico e econômico da atualidade.
+Não, ninguém quer. E por isso obras que desejam nos trazer ar puro depois dessa nuvem negra e tenebrosa ter passado, com a promessa de novas tempestades, são tão raras e tão desejáveis.
 
-Traduzindo isso na prática, uma intervenção americana na Ucrânia, por exemplo, para ter legitimidade de conhecimento da população, deve supor que todos ou a maioria dos habitantes está a par da situação política nesse país do Leste Europeu. Porém, quase ninguém sabe exatamente onde fica a Ucrânia. E pior: quando pedido aos entrevistados de uma pesquisa para apontar no mapa onde esse país fica, quanto mais distante dos EUA eles apontavam mais sua opinião era intervencionista. Coincidência?
+Continua sendo bom curtir um Baumbach em meio ao divertimento de streaming inconsequente. Ele está apoiado em material de primeira do escritor original, Don DeLillo, também de Cosmópolis. O diretor nos entrega algumas horas que podemos desperdiçar em nossas vidas em busca de paz sobre os medos que se passam quando tudo o que temos são freiras alemãs que não crêem no paraíso.
 

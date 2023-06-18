@@ -1,45 +1,46 @@
 ---
 categories: []
-date: '2014-02-20'
-link: http://www.pbm.com/~lindahl/real.programmers.html
-tags:
-- english
-title: Real Programmers Don't Use Java
+date: '2008-05-07'
+title: Read The Functional Manual
 ---
 
-When I was a newbie (and a wanna-be) I enjoyed reading "Real Programmers Don't Use Pascal", a satiric text that influenced and encouraged me into the path of "C/C++ enlightenment", most even than K&R's book. Since then I thought that being a "Real Programmer" was something close to everything one needs to know to get (hard) things done (quickly). Being a "Quiche Eater" was, in couterpart, comparable to nothing. Real Programmers solve real problems! Quiche Eaters are losers who study the academic concepts of computer science and never do a damn useful and/or working program (maybe you know some guy like this).
+Percebi essa semana que talvez boa parte da população informática que não progride em suas habilidades, mas gostaria muito, pode ser impedida pela falta de hábito em ler a ajuda do programa | da linguagem | do sistema com calma para encontrar o que procura. Independente do que você é, e para onde quer chegar, saiba que nem tudo na vida pode ser perguntado ao seu colega de baia. Senão você não evolui!
 
-Jokes apart, the spirit of the text can also be used by those who already find them very good programmers and believe no longer have to grow professionally. The times my ego inflates I still remember that my code use child APIs and an operating system that is a joke. I also remember that there are some people out there designing a starship that will leave the orbit of the Solar System!
+Se você quer dominar um assunto, ou aprender sobre ele, saiba que existem estágio nesse processo. O primeiro estágio é formado principalmente por livros. Se você quer aprender algo, e tem livros sobre o assunto, você é um cara sortudo e feliz.
 
-On the other hand, many people that just got out of CS course still find programming a difficult matter. This text reminds us that life was difficult 20, 40, 70 years ago, when engineers and programmers were the same person and when you didn't know that what you were doing could put millions at risk in a project.
+Eu concordo com [o cara do 1bit] quando ele diz que livros são MUITO importantes. Provavelmente eu não seria metade do programador que me considero hoje se só tivesse a experiência, mas não a base fundamental necessária para realmente progredir no que se gosta.
 
-Hence, the Real Programmer live in the past. And he always will be worthier than young folks, because he knows how to solve that blue screen problem that nobody else does. As I always say, paraphrasing an illustrious figure in Brazilian television, who is afraid to open Visual Studio and is eternally designing the software instead does not go very far: "who knows to do, do it right way!" .
+Para algumas coisas pode não existir um livro bem estruturado e organizado nos moldes de "pra iniciante". Nesse caso, na maioria das vezes existe pelo menos o chamado tutorial, ou guia do usuário, que dá o pontapé inicial na cabeça do cara que quer começar a mexer com algum negócio novo.
 
-Here follows a brief summary of the original text adapted to the current times and with my prejucided view of thinking about it. If you wish to use your politically correct piece of mind and criticize me, be my guest!
+Outra coisa que acredito que seja fundamental, o segundo nível depois que você começou a ler um bom livro, é saber usar o que você precisa. E para saber usar nada melhor do que ler o manual. Óbvio, não? Pois é, eu também achava... até quando vi um amigo meu tentando descobrir por que as coisas não estavam funcionando, baseado na boa e velha tentativa e erro. É um outro caminho válido, concordo. Mas, se você ainda não deu uma olhada na parte da documentação que fala sobre o problema que você está tendo, então está andando em círculos. E vai aprender bem menos do que poderia.
 
-Languages. Remember: the need to invent more languages/resources to do your job is to remind yourself about your own incompetence to invent such excuse. You are one of those who says "every problem has a specific tool" or something like that. In other words: an inefficient programmer. Don't you see that everything you need is C. If C won't do, then assembly will. If none of them, then is isn't worth doing.
+Outra coisa que ouço com bastante freqüência é a pessoa desanimar por ter muita coisa pra estudar. Bem, se não houvesse tanta coisa assim para estudar não valeria a pena. E nem existiria documentação a respeito. Pra quê, se dá pra decorar tudo de uma vez?
 
-Structured Programming. It is the first and last paradigm to be applied. After all, Object Orientation is another excuse to not program. They are more abstractions that, once you are a dead weight, you are unable to solve a problem using just functions and variables. No, you need classes, inheritance, templates and whatever the hell that will transform your simple and straight code into a magical horn of plenty that will only impress others at the futility and complexity of the solution.
+O fato é que os sistemas tendem a ficar cada vez mais complexos e volumosos. Quem duvida, veja o monstro que essas linguagens de alto nível estão se tornando, com mil e uma possibilidades de fazer a mesma coisa.
 
-Data structure. Another great concept to fool yourself. Today are many who enslave us to weird SQL layouts and weird frameworks that do all the work. We all know that the only really useful to know the structure is the array. The rest are variants of the same theme: queues and stacks.
+E como sobreviveríamos nós, meros programadores de fundo de quintal, se não fosse a bênção de uma documentação completa e bem estruturada? Difícil dizer... eu praticamente não vivo sem ler a ajuda de qualquer coisa que eu precise fazer funcionar. Mesmo sendo um programa qualquer que abre um arquivo, coisa que já fiz três milhões de vezes e meia, continuo olhando na ajuda do CreateFile.aspx). E não sou um chimpanzé autista. Eu simplesmente prefiro guardar coisas mais importantes na cabeça do que quantos parâmetros eu preciso passar em uma determinada função. (no caso do CreateFile, são sete!)
 
-Operating system. Mac and Windows are just toys and Linux is a video game that takes more work to set up than playing. The programmer actually uses something like mainframes or other beta operating system, which are too weird and can make a real mess in the hands of those who have not read the WHOLE manual. And knowing all known major kernel bugs and its location by heart at the time of booting is vital.
+Porém, existem aqueles problemas que realmente desafiam o bom senso, a ponto de nem livros, nem tutoriais e muito menos a documentação ter alguma coisa a respeito. O que fazer numa hora dessas? Se você já é um programador tarimbado já sabe do que eu vou falar antes de terminar a primeira linha desse parágrafo: google!
 
-Tools. If you depend on an IDE that have Code Completion and other fancy stuff or any other editor that depends on your favorite 17,459 plugins installed, then you are not a Real Programmer. A Real Programmer actually use what he have on hand at the time, like notepad, hexdump or even some beeps . The tool is no limit to one that can really code.
+Atualmente existem diversas formas do google te ajudar a encontrar o que você precisa: blogues que falam a respeito (pessoas ajudando pessoas indiretamente), fóruns de discussão sobre o assunto (mais uma vez), páginas do "fabricante" que explicam em melhores detalhes algum problema que está se tornando comum, etc.
 
-Debugging. Are you saying that you need the source code in order to debug? So you do not have a clue of what the program does. Just a few glances at call stack and the registers can make a Real Programmer solve a bug that Quiche Eaters would not get after analyzing those charts with boxes inside UML and use cases for months.
+É assim que você irá começar a pedir ajuda das pessoas: indiretamente. Não se pergunta nada que já tenha sido respondido. Porque é uma perda de tempo dos dois lados. Do lado que pergunta porque sua resposta já pode estar prontinha em algum canto da web. Do lado que responde porque a pessoa terá que achar o lugar onde respondeu a mesma pergunta, copiar e colar (ou simplesmente ignorar, o que te fará perder mais tempo).
 
-The Real Programmers Work is certainly not doing trivial databases to trivial programs that access SQL with trivial queries. Neither are those horrible websites with PHP/Apache and scripts and more scripts written by kids. No, sir. These are programs that deal with the OS in a more intimate way (HD encryption, file system drivers, critical communication services, etc.), or are programs that do something really useful (compilers, the operating system itself). Or maybe those programs that deal directly with hardware (complex microcontrollers, robots, ships, medical devices, etc.).
+Você já devia saber disso. Faz parte da netiqueta, o guia mundial de bom uso da internet. O quê? Você nunca leu a netiqueta? Se nunca, então comece por lá. Depois venha fazer perguntas interessantes.
 
-The Fun of every Real Programmer is actually chat with friends (about programming), read something (about programming) and watch intelligent movies (about programming or people who have some kind of intellectual challenge to solve "the hard way"). Is there anything more fun than that?
+Tudo bem, você não conseguiu achar nenhum livro a respeito, não existe tutorial no mundo que resolva o seu problema, e todas as pessoas que possuem a resposta falam e escrevem em mandarim, ou algum outro idioma baseado em pegadas de passarinhos (o google ainda não traduz isso ainda muito bem). Nesse último caso, você ainda tem duas escolhas, sendo a mais fácil delas perguntar para quem entende.
 
-And, finally, in their Natural Habitat, we can find pages and pages of assembly code scattered around the table, a computer locked by a remote kernel debugging serial cable, some notes in hex on a piece of paper, a few dozen browser pages openned about the behavior of functions in BIOS SATA HDDs with 500 GB working on RAID4, coffee (of course), chips, stains on the carpet. When there's nothing to do the environment is pretty tidy and one cannot notice the presence of Real Programmers in sight.
+Eu já fiz isso muitas vezes, antes de aprender a me virar (quase) sozinho. Todas que fiz foi por um de dois motivos: intercomunicação ou desespero.
 
-And the Future of Real Programmer? Well, C may even be dying. But so what? It seems C++ supports pointers as well. The rest of the useless abstractions like classes and inheritance may be totally ignored. The basics will always exist. Forget versions with multiple inheritance and enigmatic concepts. Be a (wo)man!
+Intercomunicação é quando você fica empolgado com o assunto, conversa com todo mundo que usa o treco que você está aprendendo e anseia por aprender cada vez mais todo dia. Nesse caso a conversa pode ser muito frutífera e animar mais ainda o aprendizado. Porém, é necessário tomar algumas precauções para se certificar que você não está afogando as pessoas de perguntas.
 
-The real, happy, final truth is: regardless of how much more the world becomes "managed" behind frameworks and programmers who prefer to "do projects" behind their office packages and use cases, when problems pop up, some bug murky life threatening useful for a project, a Real Programmer will be there to save the day, because only a programmer really knows how to do his job well done and have a good night of sleep knowing that everything will just be OK.
+Desespero é quando tudo que você tentou não funciona e você sabe que para adquirir o conhecimento que precisa irá levar muito mais tempo do que fazer a pergunta certa para a pessoa certa. Nesse caso, estou falando realmente de MUITO tempo, coisa de meses a anos.
 
-If it doesn't, there will be always a Real Programmer to save the day.
+Também existe um outro caso de desespero, que é quando você sabe que vai perder o emprego se não resolver o problema.
 
-"As long as there are ill-defined goals, bizarre bugs, and unrealistic schedules, there will be Real Programmers willing to jump in and Solve The Problem, saving the documentation for later. Long live FORTRAN!"
+Eu disse que existem duas escolhas nesse estágio. A primeira é perguntar para quem entende do assunto. Porém, o que acontece se você é uma das pessoas que mais entende do assunto que você conhece?
+
+Aí o jeito é resolver sozinho. E, se possível, publicar em algum lugar a solução. A rede agradece.
+
+[o cara do 1bit]: http://www.1bit.com.br
 

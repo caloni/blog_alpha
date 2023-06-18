@@ -1,17 +1,23 @@
 ---
 categories:
 - writting
-date: '2011-02-20'
-link: https://www.imdb.com/title/tt1243957
+date: '2020-10-18'
+link: https://www.imdb.com/title/tt13034494
 tags:
+- cinemaqui
 - movies
-title: O Turista
+title: O Tremor
 ---
 
-Há filmes que enriquecem ainda mais em uma revisita (O Sexto Sentido, Donnie Darko, Cidade dos Sonhos). Porém, ter um segredo final que pode mudar tudo o que vínhamos assistindo desde o início nem sempre se revela uma boa ideia (Os Esquecidos, A Caixa, A Passagem). Infelizmente, O Turista se encaixa nessa segunda situação.
+Onde está O Tremor que destruiu um vilarejo perdido no meio da Índia? Este é o tema deste filme minimalista, de pouco mais de uma hora de duração, que acompanha um fotojornalista em busca do epicentro de sua profissão: registrar o desastre alheio. Quando mais catastrófico melhor.
 
-Ainda que Johnny Depp perceba que seu personagem não é mais do que uma pista-recompensa de qualidade duvidosa, não há muito o que fazer senão apresentar Frank como um ser inexpressivo que vive um relacionamento improvável com uma mulher que acabou de conhecer em sua viagem a Veneza. Dando-lhe uma carona em seu barco, ela o apresenta no hotel onde está hospedada como seu marido, o que, convenhamos, é uma situação incomum, mas, aqui, a mulher misteriosa não é qualquer uma, mas Angeline Jolie, o que torna a experiência bem mais aceitável.
+Ouço ecos de O Abutre, aquele filme em que Jake Gyllenhaal busca por desastres na cidade grande que se traduzem por mais e mais violência. Em O Tremor a violência é remota e distante, quase sugerida, mas nunca vista. Ela está na busca e nas poucas palavras do fotógrafo, que deseja a confirmação de que uma vila inteira foi destruída por um terremoto. Sua grande vitória será chegar primeiro que seus colegas.
 
-Ponto fraco: história que desaba em uma revisita, ainda que mentalmente, depois de ter assistido.
-Ponto forte: Angeline Jolie.
+Balaji Vembu Chelli estreia na direção de longas com este trabalho simples que não evoca muitas questões direto na tela, mas nos faz pensar sobre elas. A ação ocorre em nossa mente. O filme nos dá tempo e combustível para confabularmos sobre as fraquezas de caráter eminentes na natureza humana, que se revela, por exemplo, quando diminuímos a velocidade do carro para ver um acidente na estrada, ou nos apinhamos na multidão de curiosos observando mais uma consequência nefasta (e frequentemente violenta) do caos urbano.
+
+É do não-movimento que esses pensamentos nos chegam, em uma história visualmente repetitiva e que nos oferece muitas estradas sinuosas em primeira pessoa e o ponto de vista de quem nunca consegue encontrar seu destino e está cada vez mais perdido em suas esperanças mórbidas. O personagem do filme, interpretado de maneira automática por Rajeev Anand, não é um vilão. Ele representa o que nós como espécie mais lamentamos: o saber da desgraça do outro apenas por saber. Afinal de contas, o que faremos a respeito de uma notícia no jornal sobre dezenas de mortos do outro lado do mundo?
+
+Aos poucos chega ao espectador a sensação que o filme quer trazer: da irrelevância dessas notícias-catástrofe; mais da notícia, menos da catástrofe. Até porque desastres naturais que matam grupos de humanos ocorrem desde o início dos tempos, e não havia telejornais na época para fotografar tudo (vamos ignorar as pinturas rupestres em consideração ao filme).
+
+O Tremor é um momento fugaz em que nos escondemos da rotina frenética para nos observar e refletir: até que ponto acompanhar notícias ruins nos torna humanos melhores?
 

@@ -1,17 +1,16 @@
 ---
 
-É curioso que Ryan Gosling (Drive, O Lugar Onde Tudo Termina) tenha protagonizado um filme tão cândido e seis anos depois tenha dividido a tela com Michelle Williams em Blue Valentine, para despedaçar qualquer traço de esperança romântica que qualquer fã do ator tivesse em torno da persona idealista que criou. O fato é que Diário de Uma Paixão obtém sua força justamente em fazer-nos crer que um romance totalmente desvinculado da razão conseguisse suportar a situação adversa e, ainda mais, a passagem do tempo que destrói e transforma tudo em sua volta.
+Thymian não é uma gamine, mas flerta com o estéreotipo enquanto encanta os homens com seu olhar ingênuo e curioso. É da misteriosa atriz Louise Brooks a missão de realizar o arco da heroína neste filme mudo alemão de 1929 que muitos consideram um clássico, e talvez não apenas por ser um filme mudo alemão de 1929. Há versões desse filme entre 79 e 116 minutos, e eu acho que a versão mais curta deve ser melhor, pois eu vi a mais longa e não gostei muito do resultado. A câmera repousa por muito tempo no rosto dos atores, um misto entre expressionismo e cacoetes da época, além de sequências desnecessárias, como Thymian dando aulas de dança em roupas de banho.
 
-Para isso o diretor Nick Cassavetes utiliza largos e lindos planos cuidadosamente planejados por sua equipe, que montam verdadeiros quadros emolduráveis de puro sentimento em torno da paixão de verão do casal. O cuidado com que isso é feito é algo notável e fascinante, e não é à toa que tantas pessoas se apaixonaram pelo filme. O romantismo encontra eco nas roupas, casas, luzes e cores em torno daqueles dois seres (ah, e a trilha sonora, magistral). Tudo é um pouco exagerado, idealizado demais (como em Lincoln, de Spielberg), porque quem está contando essa história é um velhinho e toda a sua nostalgia, ou arte de narração, reside em sua voz.
+A história é boa, mexe com nossos brios. Essa garota ingênua e de menor é estuprada por um funcionário da farmácia do pai, gera um filho ilegítimo e o pai faz o que manda o protocolo: expulsa Thymian. Que cai na vida. Passa por um orfanato e depois em um bordel. A dona do bordel é uma atração à parte. É um misto de boa senhora e segundas intenções. Se sai melhor que os vilões do filme, caricatos demais. Embora a moça que toca o gongo que força as meninas do orfanato a se exercitar é um momento hipnotizante.
 
-Aliás, diga-se de passagem e como conclusão, minha revisita me fez gostar muito mais de todo o filme e sua exploração narrativa do que o provável desfecho-surpresa, que de surpresa, convenhamos, não tem nada. Não é nenhum segredo quem são aquelas pessoas, como podemos notar em inúmeros momentos onde cores, ângulos e até mesmo diálogos apontam para o inevitável. Pelo visto, o tempo finalmente conseguiu destruir essas memórias. O que importa talvez é que elas tenham sido vividas.
+Hoje há muitas variações dessa história, mas esta é baseada no controverso romance de Margarete Böhme. Apesar das pausas, a direção de G. W. Pabst muitas vezes é dinâmica e possui outros momentos hipnotizantes além da cena do gongo.
 
 ---
 categories:
 - writting
-date: '2019-05-06'
-link: https://www.imdb.com/title/tt8301540
+date: '2014-03-15'
+link: https://www.imdb.com/title/tt0332280
 tags:
-- cinemaqui
 - movies
-title: Dias Vazios
+title: Diário de uma Paixão

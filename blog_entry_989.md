@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2019-06-17'
+date: '2022-06-11T20:56:01-03:00'
 tags:
-- wine
-title: Colomé de Rio Negro
+- coffee
+title: Colombia
 ---
 
-Colomé de Rio Negro (Argentina) 2016. Corpo médio/forte, marca registrada da região de solo castigado. Frutas negras e/ou vermelhas maduras mais intensas que Malbec médio. Um pouco azedo e ácido, vai vem com carne mais gordurosa ou um Ancho de final de semana preguiçoso.
+Eu gosto bastante desse café da Starbucks, mas essa safra na Aeropress tá dose de acertar. Está bem intenso o amargor. Já estou usando menos pó com uma moagem mais grossa e com menos tempo de infusão e ainda assim está bem marcante. O sabor no Aeropress é tão intenso que acho difícil encontrar detalhes exceto amargor e corpo intenso. No coador de pano no nível 9 de moagem e com 4 minutos de infusão o nível ficou bem próximo do ideal, com a intensidade do sabor, mas talvez com o corpo ligeiramente mais leve. Não sei se isso é um problema.
 

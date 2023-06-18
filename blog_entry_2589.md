@@ -1,26 +1,26 @@
 ---
 categories:
 - writting
-date: '2019-05-25'
-link: https://www.imdb.com/title/tt0079833
+date: '2020-04-20'
+link: https://www.imdb.com/title/tt0347149
 tags:
 - movies
-title: O Castelo de Cagliostro
+title: O Castelo Animado
 ---
 
-Esta é a estreia de Hayao Miyazaki na direção. Miyazaki é o fundador dos estúdios Ghibli, responsável por filmes como A Viagem de Chihiro, Meu Amigo Totoro, O Mundo dos Pequeninos, Ponyo, The Wind Rises. Com esse currículo eu não fiquei muito impressionado, mas satisfeito, em constatar que Miyazaki na direção conseguia desde o começo exaltar detalhes na animação com um nível de realismo que constrói um castelo no ar com muito pouco. E ainda assim há poucos cineastas hoje com essa capacidade no olhar.
+É daquelas animações dos estúdios Ghibli que tira seu fôlego logo no começo. Magia e detalhes dos ambientes e paisagens que se misturam em momentos que se tornam mais realistas do que se estivéssemos assistindo a um filme live action, com atores de carne e osso, porque a carne e o osso dos humanos não é evocativo o suficiente para os traços desses desenhistas.
 
-Note como, por exemplo, na aventura os heróis vivem de fato perigos que podem lhe custar a vida, e como o resgate da história não é uma tarefa fácil. Compare com todos os filmes da Marvel (exceto o primeiro Homem de Ferro) e verá que, diferente de Miyazaki, os estúdios de super-heróis não estão interessados em criar uma jornada que de fato envolva sacrifícios. Tudo é muito fácil nos dias de hoje, e isso é chato.
+Por exemplo, não tem como fazer dois seres humanos de carne e osso caminharem no vazio do ar e parecer que estão de fato andando sobre o nada. Mas os estúdios de Hayao Miyazaki consegue, com delicadeza, sinceridade, empenho e um certo charme. Se [Superman: O Filme] pode se gabar de colocar nos letreiros de marketing "você vai acreditar que um homem pode voar", 26 anos depois podemos dizer, finalmente, que um espectador vai acreditar que japoneses animados conseguem andar pelo ar.
 
-Já em O Castelo de Cagliostro, um cartoon praticamente, há essa visão de respeitar o espectador com uma narrativa em que os heróis possam perder algo, ainda que este seja um desenho de aventuras feito de maneira mais divertida, sem assustar muito o público. É infantil, mas para crianças que não são alienadas.
+Os detalhes da sala de visitas do tal "castelo" é de nos deixar por horas a observar. Se a casa da bruxa em [A Viagem de Chihiro] já era um capítulo à parte por contar com um design de arte completamente diferente do visto na casa de banhos, aqui o nome Howl (gemido de dor) faz jus a essas referências de magia antiga, demônios e pactos nas mãos de um feiticeiro dominado por um passado tenebroso, cheio de drama quando perde sua impecável beleza. Comum em contos de fadas, como [Branca de Neve e os Sete Anões], nunca havíamos visto essa característica em um bruxo do sexo masculino: ser um escravo da vaidade.
 
-E junto disso Miyazaki e Haruya Yamazaki escolhem no roteiro inspirado no mangá de Monkey Punch (que faleceu mês passado, descanse em paz) maneiras de trazer seu protagonista aventureiro Lupin III ao Reino de Cagliostro, onde Cagliostro é o nome de um aventureiro charlatão que realmente existiu, e embora a menção através de um reino não tenha qualquer semelhança com a realidade a feição do conde regente no filme é muito semelhante à pintura que temos do verdadeiro Cagliostro. Nota-se o esforço de pesquisa e tratamento do material muito acima do que se esperaria de produções animadas. E nota-se com isso que Miyazaki, o gênio por trás dos Estúdios Ghibli, é de fato a versão oriental de Walt Disney, devendo ser reconhecido por esse esforço de manter a barra sempre acima.
+A menina, Sophie, envelhece de uma vez, mas a beleza da animação vai nos mostrando aos poucos suas feições mais próximas. Às vezes ela está menos velha. Suas atitudes a aproximam de quem ela era. É sua postura que a transforma, e isso é alquimia pura traduzida em traços de um desenho. É sutil e poderoso como mágica de verdade.
 
-Esta é uma animação clichê cujo conteúdo é muito bem tratado. É de aventura e há um senso estético admirável na concepção dos seus personagens e da maneira como interagem. Até conflitos que poderiam soar enfadonhos para a maioria dos espectadores envolvendo uma reunião de países sobre a falsificação de notas de várias moedas se transforma com uma resolução divertida e que pisca para o espectador, respeitando sua inteligência sem precisa explicar muita coisa.
+A equipe de animação dá uma aula de sequências de ação grandiosas. Uma guerra está ocorrendo e nós sentimos o seu peso pela escala e ritmo com que bombas são lançadas de veículos voadores em um mundo onde magia é comum e todos os reinos alistam seus melhores bruxos. Mas ao mesmo tempo esse exagero no final não se sente. Há uma perda desse peso porque o príncipe do castelo não parece estar morrendo. Nós não entendemos muito bem o desespero de Sophie, que se apaixona sem motivos visíveis pelo seu mago estiloso.
 
-Há alguns problemas em relação aos personagens da série, que ficam de lado quase todo o tempo. Há uma obrigação de inserir todos os personagens da série original, Lupin III, neste longa-metragem, e o roteiro não consegue dar um tratamento satisfatório para eles. Por exemplo, um rapaz chega com sua espada como uma ajuda extra para a dupla de ladrões Lupin e o outro cara, e fica aguardando entrar em ação em praticamente todo o filme, e nunca sua participação soa relevante.
+Muitos elementos fantásticos como em Chihiro não são explicados, e isso não é um problema até o momento em que, assim como Chihiro, o filme sente que deve haver uma conclusão satisfatória para os eventos. E é quando o filme passa a ser sobre os eventos, e não as pessoas, que ele nos perde. A ocidentalização deste filme faz perder sua força na mesma proporção em que aumenta suas vendas pelo mundo.
 
-A animação em si é primordial. A escolha de ângulos e os detalhes do castelo, das expressões, do mecanismo do relógio principal, entre outras coisas (como o sistema de água do castelo) é mostrado e descrito de uma maneira que não nos sentirmos perdidos. Miyazaki tem essa virtude de em seus filmes nunca nos deixar geograficamente confusos. Eu não sei ainda como ele consegue trabalhar tão bem o espaço, considerando que os cenários de seus filmes têm tudo para serem confusos. Mas ele consegue. Temos uma ótima visão durante todo o filme de onde os heróis estão, de onde vem, para onde vão.
-
-O Castelo de Cagliostro é uma exímia animação que cumpre tabela como a versão longa da série Lupin III, mas que consegue nos entregar mais que isso: um filme que respeita o seu espectador com tramas, conflitos e perigos que soam legítimos. Ainda que estejamos assistindo a um desenho. Aprendeu, Marvel?
+[A Viagem de Chihiro]: {{< relref "a-viagem-de-chihiro" >}}
+[Branca de Neve e os Sete Anões]: {{< relref "branca-de-neve-e-os-sete-anoes" >}}
+[Superman: O Filme]: {{< relref "superman-o-filme" >}}
 

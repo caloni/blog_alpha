@@ -1,11 +1,14 @@
 ---
 
-O blogue de José Ribeiro Pena Neto, aparentemente recém-criado, conseguiu utilizar minha solução de conversão do dicionário Houaiss para Babylon em algo mais incrívei ainda: converter, em alguns passos, a base de dados do Houaiss para o Amazon Kindle.
+Erroneamente imaginando que a falta de acesso tinha alguma coisa a ver com a escrita de arquivos no disco, ou até mesmo com a execução de processos, descobri depurando (o bom e velho depurador) que a origem do acesso negado estava na função AssignProcessToJobObject.aspx). Misteriosamente, no Windows 7, ao chamar essa função ocorre esse erro, independente da execução ser como administrador ou não.
 
-De uma maneira simples e efetiva, ele cita o passo-a-passo para a conversão da base Houaiss para o formato Babylon e, a partir disso, reconverter para o formato usado pelo gratuito e multiplataforma Stardict.
+Como já está se tornando tradição de uns tempos pra cá, a solução veio de um artigo do Stack Overflow, cuja melhor solução foi exatamente a que eu segui: inserir o manifesto do UAC e usar a flag CREATEBREAKAWAYFROMJOB.
+
+Agora é só esperar pelo próximo bug =)
 
 ---
 categories: []
-date: '2014-10-25'
+date: '2011-03-22'
+link: http://zeribeiropena.wordpress.com/2011/03/21/dicionario-houaiss-e-babylon-no-kindle/#comment-3
 tags: null
-title: Houaiss Para *
+title: Houaiss no Kindle

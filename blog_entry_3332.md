@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-08-08'
+date: '2019-05-15'
 tags:
-- beer
-title: Ruddles County English Ale
+- wine
+title: Ruca Malen
 ---
 
-Uma Cream Ale porcamente estocada pelo OMalleys, o pub que faz um tempo não sabe muito bem o que está fazendo (se continua enchendo a culpa é dos Paulistanos, imagino). É uma cerveja da promoção da semana, que contém equilíbrio no lúpulo e pouco gás. Fácil de ingerir e de esquecer.
+Reserva Malbec 2015 é a complexidade que eu estava esperando de Mendoza. Com 12 meses de barrica (80% francês, 20% americano de segundo e terceiro uso) ele não tem apenas os tons frutados do Malbec, mas oferece nuances sutis de ervas e minerais.
 

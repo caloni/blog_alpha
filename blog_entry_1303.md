@@ -1,12 +1,11 @@
 ---
 
-Malbec da França. Confere, produção? Sim, e ele é frutado como Malbec argentino, mas menos ácido, menos adstringente, menos sofrido. Uma experiência de comparação de terroirs. Ele foi a garrafa do meio entre dois Malbecs, um de Mendoza e outro de Rio Negro.
+Excelente equilíbrio de amargor, frutado e muito aromático.
 
 ---
 categories:
 - writting
-date: '2020-10-11'
-link: https://www.crunchyroll.com/pt-pt/domestic-girlfriend
+date: '2019-04-28'
 tags:
-- animes
-title: Domestic Girlfriend
+- wine
+title: Domaine Les Barthes Comté Tolosan

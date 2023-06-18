@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2015-06-05'
+date: '2020-12-09'
 tags:
-- food
-title: Fazenda Valsugana Pirassuranga
+- coffee
+title: Fazenda Tijuco Preto
 ---
 
-Bem equilibrado, de amargor agradável. Especial Mais fraco que o normal deles, um pouco enjoativo. O normal pelo menos parecia mais equilibrado, ainda que não tenha tantos aromas (também gera um café bem ralo).
+A Fazenda Tijuco Preto fica em Sul de Minas, em Andradas. Comprei do estoque da Grão Gourmet porque meus cafezes estavam acabando e era o único disponível em grãos. Essa torra média possui baixa acidez, levíssimo amargor e um corpo fácil de tomar sozinho. Pouco aromático, é o famoso não fede nem cheira, que agrada paladares menos afeitos a disposições agressivas das moléculas presentes em torras e frutos mais algozes. PS: sabor mais floral, menos frutado.
 

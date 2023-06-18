@@ -1,45 +1,23 @@
 ---
 
-The biggest advantage running an application as a service, interactive or not, is to allow its start before a logon be performed. An example that happens to me is the need of debugging a [GINA]. In order to do this, I need the Visual Studio remote debugger be started before logon. The easiest and fastest solution is to run Msvcmon, the server part of debugging, as a service.
+Pesquisando sobre como tornar o fermento (e o pão feito com ele) menos azedo que o tradicional pão de fermentação longa, encontrei este artigo dividido em duas partes. Essas anotações dizem respeito à primeira parte.
 
-Today I've figured out a pretty interesting shortcut to achieve it.
+ - Os elementos para controlar o azedo do pão deste artigo são temperatura, escolha da farinha e maturidade.
 
-An [Alex Ionescu article] talks about this command line application used to create, initiate and remove services. Even not being the article focus, I found the information pretty useful, since I didn't know such app. Soon some ideas starting to born in my mind:
+ - Farinha branca entre 21 e 24 graus favorece menos acidez, e farinha integral entre 28 e 29 graus uma maior acidez, e o estado de maturação com menos acidez é no ou logo antes do pico do crescimento para o fermento, e no caso da massa até o dobro. Para uma maior acidez espere até o fermento baixar e no caso da massa mais que dobrar de tamanho.
 
-> "What if I used this guy to run notepad?"
+ - Quem gera a acidez são os lactobacilos da cultura, enquanto quem gera gás carbônico é a levedura, um fungo unicelular presente na cultura do fermento. Há uma simbiose entre eles, na proporção aproximada de 100 lactobacilos por levedura, mas pode-se favorecer o aumento de um ou de outro, sendo que a tendência é que os lactobacilos (as bactérias) aumentem e a levedura permaneça em um nível populacional.
 
-Well, the Notepad is the default test victim. Soon, the following line would prove possible to run it in the system account:
+ - Um pão saudável é desenvolvido através de um fermento que neutralize o ácido fítico, e a presença do ácido láctico auxilia nesse controle. Porém, a contrapartida é que soluções muito ácidas irão gerar pães mais azedos. Podemos fazer uma relação simplória entre pães mais azedos e mais saudáveis, e se o objetivo for um sabor mais suave acabaremos sacrificando parte da saúde do pão.
 
-    sc create Notepad binpath= "%systemroot%\NOTEPAD.EXE" type= interact type= own
+ - A maturidade da fermentação determina a quantidade de acidez. Em torno do pico de altura da massa madre é onde existe a menor acidez, mas o tempo de fermentação da massa (e seu volume) também irão determinar a acidez do pão.
 
-However, as every service, it is supposed to communicate with the Windows Service Manager. Since Notepad even "knows" it is now a superpowerful service, the service initialization time is expired and SCM kills the process.
-
-    >net start notepad
-    The service is not responding to the control function.
-    More help is available by typing NET HELPMSG 2186.
-
-As would say my friend [Thiago], "not good".
-
-"Yet however", SCM doesn't kill the child processes from the service-process. Bug? Feature? Workaround? Whatever it is, it can be used to initiate our beloved msvcmon:
-
-    set binpath=%systemroot%\system32\cmd.exe /c c:\Tools\msvcmon.exe -tcpip -anyuser -timeout -1
-    sc create Msvcmon binpath= "%binpath%" type= interact type= own
-
-Now, when we start Msvcmon service, the process cmd.exe will be create, that on the other hand will run the msvcmon.exe target process. Cmd in this case will only wait for its imminent death.
-
-{{< image src="msvcmon-service.png" caption="MsvcMon Service" >}}
-
-[GINA]: {{< relref "gina-x-credential-provider" >}}
-[Alex Ionescu article]: http://www.alex-ionescu.com/?p=59
-[Thiago]: http://codebehind.wordpress.com
+ - Para qualquer mudança no regime de alimentação do fermento, como temperatura, farinha e hidratação, demora cerca de 10 dias para que essas mudanças sejam sentidas na cultura (há uma discussão sobre o ritmo de refresh nos comentários e a reação das novas bactérias sendo adicionadas, mas faltam evidências).
 
 ---
 categories:
-- writting
-date: '2017-10-20'
-link: https://www.imdb.com/title/tt6573444
+- coding
+date: '2008-05-27'
 tags:
-- cinemaqui
-- mostra
-- movies
-title: Human Flow
+- english
+title: How to run anything as a service

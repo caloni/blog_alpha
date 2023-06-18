@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2019-06-21'
-link: https://www.imdb.com/title/tt0255094
+date: '2014-05-31'
+link: https://www.imdb.com/title/tt0489458
 tags:
 - movies
-title: O Círculo
+title: O Cheiro do Ralo
 ---
 
-Uma sociedade realmente sexista existe no Irã e o diretor Jafar Panahi filma a opressão como um documentário em tempo real. É um plano-sequência com cortes. A transição de personagens apenas reforça a universalização da violência sistematizada contra as mulheres em mais um dia nessa sociedade que não tem como enxergar suas falhas assim como um peixe não enxerga a água em que vive.
+O Cheiro do Ralo fala sobre trocas, ou melhor dizendo, sobre o valor das coisas. Coisas podem se resumir em objetos que possuíam ou não valor sentimental para as pessoas que a oferecem ao Sr. Lourenço (Selton Mello), para receber em troca o dinheiro que, pelo menos naquele momento, é mais valioso que o objeto em si.
 
-O roteiro de Kambuzia Partovi é um primor de hiper-realismo, pois apresenta diálogos simples, ditos no limiar entre o cinematográfico e o drama dos comuns. As informações que o espectador vai caçando aos poucos serve de gancho para acompanharmos a ação. Às vezes sabemos de menos, às vezes demais, mas Partovi faz questão de se certificar que é sempre o suficiente para detectarmos as barreiras que a mulher encontra nesse mundo onde mulheres não podem andar sozinhas na rua, desacompanhadas de um homem, sem chamar a atenção de civis e policiais.
+A função do Sr. Lourenço é, obviamente, pagar o mínimo possível para obter o máximo de lucro. Essa rotina o fez virar um verdadeiro monstro materialista, pois seu poder (dinheiro) aliado à sua necessária habilidade em menosprezar os objetos ofertados e as pessoas que os ofertam. A bunda da garçonete no bar onde passa para almoçar é a coisa mais valiosa para ele. Nem o almoço é tão valioso, é acessório. Isso e coisas que representam bens intangíveis que ele nunca terá, como um olho, que para ele representa o pai.
 
-A atriz Fereshteh Sadre Orafaiy realiza um mergulho profundo em sua personagem, Pari. Note sua compulsão em tentar pegar um cigarro e fumar (e note como esse pequeno gesto vai se encaixando durante todo o filme como símbolo da opressão). Apenas a observe zanzando inquieta pelas paredes de um hospital aguardando por qualquer ajuda, e note em seguida todas as expressões e gestos que a atriz realiza sentada em um banco, inconformada com a arapuca em que se colocou (os detalhes de sua história é melhor serem degustados aos poucos pelo espectador).
+Seu maior medo é que as pessoas confundam o cheiro que vem de um ralo defeituoso com seu próprio cheiro. Tendo virado um ser abjeto, não há dúvidas sobre o porquê de tanta preocupação. Seu Lourenço não é ninguém mais do que seu dinheiro e seu poder de barganha por objetos. Seu noivado foi supervalorizado, mas ele resolveu reprecificá-lo, confessando que não gosta da noiva. Confessando que não gosta de ninguém. Ele pode se dar ao luxo de ser sincero, mas nós não temos como saber se ele está na verdade o sendo, pois pode ser tudo um jogo de barganha.
 
-O Círculo é sobre o fluxo ininterrupto de violência sistematizada e legalizada contra a mulher, mas poderia ser o retrato de qualquer círculo vicioso onde seres humanos não são tratados como tais, e precisam dentro de suas capacidades sobreviver. É um trabalho intenso, impecável e admirável de Cinema.
+Elevando o filme ao patamar filosófico a cada vez mais objetificar cada traço de sua existência em seu escritório amplo e empoeirado, a direção e roteiro de Heitor Dhalia deixa claro que Selton Mello representa tudo que há de ruim no materialismo, sendo que esse tudo nada mais é do que menosprezar o intangível. Mas será verdadeiro que os sentimentos não têm preço? A maior virtude do filme é nos fazer questionar o valor até das coisas mais abstratas, e pensar se, no fim das contas, não estamos a todo momento tentando barganhar um pedacinho de vida aqui e ali, para que no final, morramos no lucro.
 

@@ -1,39 +1,23 @@
 ---
-categories: []
-date: '2007-08-27'
-title: ToDoList
+categories:
+- writting
+date: '2020-03-21'
+link: https://www.imdb.com/title/tt0365748
+tags:
+- movies
+title: Todo Mundo Quase Morto
 ---
 
-Vou aproveitar que o recente blogue do meu amigo resolveu falar um pouco sobre administração de tempo e citar a ferramenta que venho utilizando há quase um ano para tentar organizar minhas idéias, minhas tarefas e minha vida. Assim como o Kabloc, eu estava em sérias dificuldades para tentar fazer e organizar todas as coisas que eu tinha em mente. Ainda continuo com dificuldades para fazer, mas o mais importante é que agora eu tenho um roadmap de para onde eu quero ir.
+Sempre que amigos se reúnem para aquela cervejinha básica e começam a conversar sobre zumbis e cinema é inevitável que surjam várias piadas que parecem muito boas de se colocar em um filme. Shaun of the Dead é esse filme, que o diretor Edgar Wright estreou nos cinemas, e que comprova sua energia em dirigir comédias, além de como seu talento será melhor exposto em trabalhos posteriores.
 
-Eu sempre ouvi falar nesse programa desde que freqüento o The Code Project, um sítio onde programadores publicam seus minicódigos para serem aproveitados (e avaliados) por toda a comunidade. Possuo algumas pequenas contribuições por lá.
+Aqui as piadas que a reunião de amigos fez brotar aparecem, mas quando as vemos em cena algo está errado. Não era bem assim que eu imaginava enquanto devorava salgadinhos tomando minha IPA. Sim, são as mesmas piadas que elaboramos, e elas continuam ótimas isoladas. Veja esta, por exemplo, quando o personagem de Simon Pegg escorrega em algo pegajoso no chão, e mesmo sem vermos, sabemos instintivamente que é aquele sangue nojento derramado de alguma vítima do apocalipse zumbi. Essa foi uma piada que funcionou no filme, mas que precisou de uma sequência inteira de outras piadas que sofreram para serem contadas. E que não funcionaram.
 
-O fato é que por preguiça de testar e pelo seu screenshot inicial, me pareceu um programa demasiado complexo e pesado. Por isso passei vários anos sem sequer baixá-lo.
+Mas enquanto as piadas não se esforçam para serem engraçadas, mas apenas fazer parte do repertório do filme, notamos com certa simpatia que o diretor Edgar Wright mantém a mesma energia que empregará mais tarde no espetacular [Scott Pilgrim Contra o Mundo], mas está trabalhando com um roteiro bem inferior assinado por ele e Simon Pegg. É um trabalho a quatro mãos bem-humorado, quase informal. Lembra quando Adam Sandler se reúne com os amigos e "cometem" mais um filme, mas diferente de Sandler aqui há certos critérios que tornam o produto final minimamente assistível.
 
-No entanto, houve um momento em minha vida em que eu precisava definitivamente reunir e organizar todas as minhas idéias e atividades para conseguir concluí-las, tanto no trabalho quanto na vida pessoal. Houve então uma pequena pesquisa de minha parte de programas que fizessem o que eu precisava. Foi aí que eu baixei e testei o ToDoList, um programa pequeno, portátil (posso levar em meu PenDrive) e muito flexível. Eis abaixo o screenshot original do artigo do Code Project:
+A própria sequência do personagem de Simon indo buscar seu jornal e alguma coisa para comer é um exemplo do que estou falando. Ela é a cena clássica do antes e depois do ataque zumbi. Ela funciona como cena, mas não como parte da história. Não há personagens para haver uma história. São estereótipos. Ele é um namorado relapso. Ele tem um amigo parasita (Nick Frost) e dois amigos dela (ela é Kate Ashfield) que fazem o papel de defendê-la contra o cara que está namorando que a leva todo santo dia ao mesmo pub.
 
-Bem, me parecia mais do que eu precisava. No entanto ele é flexível, e suas colunas podem ser configuradas da maneira que lhe aprouver. Abaixo um screenshot de como utilizo o ToDoList:
+Essa piada foi reciclada por Wright em um de seus trabalhos posteriores, quase uma continuação da vida de Shaun. Em [Heróis de Ressaca], uma comédia sobre perdedores, vemos novamente Simon Pegg, Nick Frost e até Martin Freeman, que faz aqui uma ponta, juntos de novo, mas adultos e quarentões. É uma versão melhorada, onde existe ainda o charme da informalidade, mas junto das habilidades de um diretor mais maduro.
 
-{{< image src="todolist.png" caption="" >}}
-
-Entre algumas coisas legais que gosto nesse programa que me fizeram ficar com ele, consigo me lembrar da seguinte lista:
-
- - Posso levar onde quiser e salvar minhas configurações em um arquivo ini.
- - Ele fica na área de notificação e posso ativá-lo com um atalho global.
- - Ele conta o tempo de uma tarefa se você quiser.
- - Ele exporta as listas em formatos como Excel, HTML e texto puro.
- - Ele é pequeno e não precisa de instalação.
- - O código-fonte é disponível e está sempre sendo atualizado.
- - Posso salvar minhas listas em XML (padrão) ou encriptado.
- - Pode ser estendido por meio de plugins.
-
-Bem, ele sozinho não resolveu meus problemas. Assim como o Kabloc disse, é você, e unicamente você, o responsável por organizar a sua agenda. E eu tive que passar muito tempo junto da minha para conseguir encontrar a maneira ideal para eu trabalhar. Cada um tem a sua.
-
-Há um tempo atrás não acreditava muito em idéias, mas a partir de um dado momento um outro amigo meu conseguiu me convencer que idéias são os verdadeiros motores do mundo, e um mundo sem idéias seria um mundo de fazedores de coisas sem cabeça. Não adianta ser muito bom no que se faz se não se pensa no que se faz. Essa é um boa razão para explicar por que boas idéias permanecem para sempre, mesmo que seus criadores já tenham morrido há muito tempo.
-
-Por esse motivo que uso o ToDoList para catalogar e listar todas as idéias que tenho sobre o que pretendo fazer. Como você deve adivinhar, a lista nunca acaba e só tende a crescer. Mas tudo bem, o objetivo não é acabar, mas sim não perder a idéia que se teve, pois ela aos poucos pode ser extendida e aprimorada no próprio ToDoList, até chegar a hora de implementar. Quando for a hora de botar a mão na massa muito dos problemas já foi pensado e analisado naqueles momentos de divagação no banheiro, no ônibus, ou na sala de aula. Os momentos mais frutíferos, aliás.
-
-Porém, é claro que catalogar tudo também não é tudo. É preciso agir. Por esse motivo costumo dividir minhas tarefas em duas listas (fora a da empresa onde trabalho): Curto Prazo e Longo Prazo. As tarefas no curto prazo são as mais imediatas, e representam as coisas que devo fazer antes da semana, do mês ou do ano acabar. Geralmente dou uma olhada diária nessa lista. As de longo prazo não são menos importantes, mas possuem um tempo de finalização mais longo, ou porque não são interessantes atualmente, ou porque fazem parte do meu projeto de vida, algo que se deve pensar mais e agir aos poucos. Costumo dar uma olhada semanal nessa lista.
-
-Enfim, cada pessoa tem sua maneira de encarar problemas, catalogar idéias e fazer acontecer. Essa ferramenta, na minha opinião, pode ajudar.
+[Scott Pilgrim Contra o Mundo]: {{< relref "scott-pilgrim-contra-o-mundo" >}}
+[Heróis de Ressaca]: {{< relref "herois-de-ressaca" >}}
 

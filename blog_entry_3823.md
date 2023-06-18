@@ -1,25 +1,23 @@
 ---
 categories:
 - writting
-date: '2021-01-28'
-link: https://www.imdb.com/title/tt0095327
+date: '2016-03-01'
+link: https://www.imdb.com/title/tt1707380
 tags:
+- cinemaqui
 - movies
-- animes
-title: Túmulo dos Vagalumes
+title: Tudo Vai Ficar Bem
 ---
 
-Esse é um filme que me foi apresentado a primeira vez 15 anos atrás como o filme mais triste que eu veria e que choraria litros ao vê-lo. Não chorei, e para falar a verdade não havia entendido muito bem o drama por trás da atmosfera fatalista que cerca este garoto e sua irmãzinha, sobrevivendo os últimos meses da guerra sem qualquer suporte familiar ou comunitário.
+O diretor Win Wenders (Pina) faz em "Tudo Vai Ficar Bem" um trabalho intimista e sutil em um ritmo que não deve agradar a muitos. Porém, é algo necessário para abordar essa espécie de thriller que evita cair no lugar-comum, pois está mais interessado em explorar seus personagens pela suas psiques do que pelas suas ações.
 
-Porém, eu "era garoto" na época e não conhecia muitos filmes para ter opinião formada. Era simplesmente um espectador como qualquer outro, ou talvez uma exceção na resposta emocional que a maioria das pessoas têm sobre este filme. Acontece. Filmes, por mais que as pessoas acreditem o contrário a respeito dos seus favoritos, nunca são unanimidade.
+O tema se desenvolve a partir de um terrível acidente. O filme não tem pressa nenhuma de identificá-lo, assim como seu protagonista. A trilha de Alexandre Desplat incomoda, mas tem que ser assim mesmo. Apesar de tudo ser perfeitamente crível e normal, é necessário que alguém afirme que ainda assim, parece haver algo de errado a todo instante.
 
-Hoje, mais de 1500 filmes vistos e analisados depois, posso dizer com certa propriedade: não entendo essa tristeza e os litros de lágrimas de reação que todos com quem conversei comentam. A única resposta para este mistério seria a simplicidade das emoções com que as pessoas em geral conseguem se conectar com os filmes, ou a amostragem errônea de fãs de animações estritamente japonesas. Talvez quando você consome apenas isso sua vida inteira este seja o filme mais triste de todos.
+E o que está "errado" parece ser Tomas (James Franco), um escritor que atualmente vive uma situação conturbada com sua esposa -- ele quer um livro, ela quer filhos -- e que depois do acidente encontra o momento adequado para sua separação. Quatro meses depois, mais um acontecimento traumático. E um certo padrão parece tomar conta de sua vida. Não é simples de entender, mas é fácil de perceber que o rapaz tem problemas.
 
-Mas este é um filme que simplesmente não me incomoda. Um jeito chulo de falar é que não me fede nem cheira. Porém, ele é esteticamente evocativo. Seu jogo de luzes, os enquadramentos, seu realismo por trás das inúmeras camadas de desenhos é perfeccionista e traz certa poesia, principalmente ajudada pela singela trilha sonora, com toques suaves que olham para trás na História com uma certa melancolia que nos escapa tão rápido quanto a curta vida dos vagalumes que Seita captura para deleite noturno, e que talvez por isso o filme insista tanto em tantos momentos parecidos, ao ponto de ficar preso em um ciclo infinito de lamúrios.
+Mas a questão não é essa. Se fosse algo que o incomodasse, seria esse o drama. Porém, na posição de escritor, tudo que acontece em volta de Tomas é matéria-prima para seus livros. Como seu editor diz, o paradoxo de ser um escritor é que tudo o que o afeta acaba afetando sua forma de escrever.
 
-Seu diretor é Isao Takahata, que sou fã desde O Conto da Princesa Kaguya, mas, principalmente, depois que descobri o fascinante e subestimado Memórias de Ontem. Takahata tem esse dom de trazer naturalidade em qualquer história. Em Túmulo dos Vagalumes as tomadas de bombardeios com as pessoas correndo e sofrendo é o pano de fundo de sua história, mas o seu valor se encontra em horas menos rebuscadas, quando Seita e Toshio alcançam um momento de paz em suas atribuladas vidas.
+Seria fácil rotular o personagem de James Franco como autista, nem que seja um grau quase que indistinguível. Porém, as pessoas em torno do universo de "Tudo Vai Ficar Bem" não ajudam. O pai de Tomas (Patrick Bauchau) critica sua falecida esposa por ter sido entediante demais. A personagem de Charlotte Gainsbourg (elencada incorretamente) vive o inferno na terra criando seu único filho, mas cria uma espécie de simbiose literária com Tomas a partir de suas crenças sobrenaturais. E o jovem Christopher (Robert Naylor) se torna uma versão natural de Tomas, se relacionando com o mundo em que vive de uma maneira no mínimo estranha.
 
-A menina é o ponto forte de toda a animação. Ela é realista demais para ser ignorada. Sua dublagem (japonesa) é tão real, ou mais, que qualquer filme em que uma garota com seus cinco anos contracene. Observe seus gestos e verá o que Takahata consegue fazer de melhor (e ele o faz em seus próximos filmes inteiros). Talvez por isso sua história impacte tantas pessoas. Muitos devem ter crianças por perto e isso explica a tristeza inerente. Não se pode fingir como é uma criança do mundo real em um filme: você precisa ter a sensibilidade para traduzir. Túmulo dos Vagalumes o tem, e em todos os momentos. E é por isso que seu final, por mais que já tenha sido revelado logo no começo, é capaz de fixar em nossas memórias sentimentos confusos de perda de alguém que nunca existiu em nossas vidas, mas poderia perfeitamente.
-
-Esse talvez seja o grande poder hipnótico desse filme.
+O que o roteiro de Bjørn Olaf Johannessen nos entrega não e nada fácil de acompanhar. O fato de Wenders transformar em uma experiência que lembra um Swimming Pool (François Ozon, 2003) para adultos é o que torna o filme mais palatável, mesmo visualmente. Porém, ainda assim há um esgotamento mental em episódios que vão se espaçando em período de quatro anos, e o título nunca parece fazer jus à sua promessa. São esses filmes que fazem as pessoas não gostarem de "filme de arte" e o espectador mais atento, cansado da mesmice todo final de semana, ficar fascinado pelas possibilidades que o Cinema traz; mesmo que ele não goste tanto assim do resultado final.
 

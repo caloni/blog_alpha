@@ -1,14 +1,16 @@
 ---
 categories:
 - writting
-date: '2011-02-20'
-link: https://www.imdb.com/title/tt1045670
+date: '2020-08-04'
+link: https://vinhos.sociedadedamesa.com.br/silver-myn-2016-10afrsm1806002/p
 tags:
-- movies
-title: Simplesmente Feliz
+- wine
+title: Silver Myn
 ---
 
-Personagem carismática, a professora de primário Poppy faz de tudo para fazer as outras pessoas felizes e faz todo o tipo de piada e gracinha porque ela mesma deseja estar feliz o tempo todo. Morando aos 30 anos com uma amiga de longa data, ela renega os padrões convencionais que determinam o que seria uma vida feliz: casar, ter filhos, etc. Mais importante do que isso é tentar sempre melhorar o dia, nem que isso custe se aventurar pela discrição e mau humor das pessoas londrinas.
+Há anos não comprava vinhos da Sociedade da Mesa. Minhas viagens para Argentina bastavam para encher a adega. Mas, suspensas essas aventuras, adquiri algumas garrafas do clube, e entre veio duas desse vinho francês de Bordeaux, o Silver Myn 2016, que é uma mistura de várias uvas da região de Gironde: Merlot, Cabernet Sauvignon, Cabernet Franc, Petit Verdot e Malbec. Dessa mistura vem uma sensação mista entre frescor e tradição.
 
-Aparentemente, a ideia do longa era passar o valor de toda essa felicidade através da carismática Sally Hawkins, que aqui constrói uma personagem simpática no sentido mais literal do termo. Porém, nem só de boas intenções vive um filme, e a narrativa, apesar de muito frutífera em combinações de história e construção do ritmo do dia-a-dia de Poppy, se esvai por falta de alguma motivação mais palpável ou até de algum conflito que estabeleça algo para onde o espectador deva olhar.
+Essa safra 2016 não possui o potencial tânico que lhe foi dado pelo seu amadurecimento independente para cada uva por 12 meses em carvalho francês, pois temos um vinho ainda vibrante e alcoólico. Há elementos que ainda podem envelhecer para melhor, como os sabores mais maduros. Porém, talvez nem tudo fique melhor com o tempo.
+
+Ele é um vinho passageiro, uma companhia eventual para uma tarde após o serviço. Devo ter degustado errado, com acompanhamentos inusitados. Como feijoada (!). Se não posso beber o meu vinho como eu quero, qual a graça de tê-lo em minha adega?
 

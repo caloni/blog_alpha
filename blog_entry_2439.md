@@ -1,19 +1,16 @@
 ---
 categories:
 - writting
-date: '2021-12-21T11:00:49-03:00'
+date: '2012-02-15'
+link: https://www.imdb.com/title/tt0079588
 tags:
-- music
-title: Música gótica sacra e secular
+- movies
+title: 'Muppets: O Filme'
 ---
 
-Comecei meus estudos musicais caminhando na ordem cronológica pela história. O primeiro artista que me chamou a atenção foi Guillaume de Machaut, um poeta e compositor francês que para ter uma ideia de sua importância tem a data de sua morte como marcador do final de uma era na história musical da Idade Média.
+O potencial dos bonecos é evidente no filme, pois todos possuem personalidades marcantes que geram diversas situações ingenuamente engraçadas. E é de modo ingênuo que a história inicia, e a forma de narrar a vida dos irmãos, em que um deles é um boneco que portanto nunca cresce, já denota de modo inconsciente que a interação entre humanos e muppets é algo completamente comum naquele universo fabuloso.
 
-Este autor mistura música secular e sacra, além de diferentes estilos, como o uso de vozes polifônicas (e apenas isso) para uma peça, e alguns álbuns inspirados ou replicando seu trabalho literal usam instrumentos típicos da época. Há muito material produzido que se pode encontrar nos Spotify da vida.
+Mesmo assim, a fraca história (incluo aí o conflito batido em que há, acredite ou não, um magnata do petróleo) compromete os não tão inspirados números musicais, que na maioria das vezes apenas torna os defeitos do filme mais evidentes. Porém, não há como negar que a sequência do show final é admiravelmente engraçada, nostálgica e com números bem melhores por estarem inseridos apenas no mundo dos próprios Muppets.
 
-O que eu mais ouvi até agora é uma peça de pouco menos de uma hora chamada O Espelho de Narciso. São apenas vozes que narram uma história cantada com muita alma. A produção é assinada por Gothic Voices. É um trabalho de 1983 absolutamente magistral. Somos transportados para uma época muito diferente dos dias de hoje, mas mais do que isso, a voz humana aqui é exaltada em um nível que não estamos mais acostumados. Tanto a técnica quanto o local onde foram captados esses sons humanos evocam uma origem divina, quando o divino ainda era a referência para o mundo.
-
-Um trabalho mais musical e eclético, com diferentes estilos combinados, é esse Le Jugement du Roi de Navarre, um trabalho de produção mais recente (2003) e que ainda preciso me contextualizar melhor, mas me parece um texto narrativo.
-
-Isso está mais divertido que um filme.
+Enfim, um bom filme com promessas de continuações. Apenas aguardemos por roteiros mais ousados e criativos.
 

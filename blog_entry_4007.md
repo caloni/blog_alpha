@@ -1,149 +1,26 @@
 ---
-categories:
-- coding
-date: 2019-05-06 22:23:40-03:00
+categories: []
+date: '2008-07-04'
 tags: null
-title: Visual Studio Unit Test (C++)
+title: VirtualBox
 ---
 
-Desde o Visual Studio 2015 há suporte a unit tests em C++ automatizado na IDE. Porém, a partir do VS 2017 15.5 o suporte aumentou drasticamente, vindo embutidos os suportes para as bibliotecas de teste Google Test, Boost.Test e CTest. Além, é claro, do Microsoft Unit Testing Framework for C++, o caseiro da M$.
+O VirtualBox parece ser o concorrente mais próximo atualmente da VMWare. Descobrimos ele essa semana e resolvemos fazer alguns testes. O resultado foi bem animador.
 
-Além disso, é possível você mesmo integrar o Visual Studio com outra lib de testes. Mas para que gastar tempo? Várias integrações já estão disponíveis no [Visual Studio Marketplace](https://marketplace.visualstudio.com/). Ligue já!
+Desenvolvido pela Sun Microsystems, as características do VirtualBox impressionam pelo cuidado que houve em torná-lo muito parecido com sua concorrente paga. Apenas para começar, ela suporta dispositivos USB, possui múltiplos snapshots e já suporta o modo do VMWare Fusion - chamado de "seamless mode" - que estará integrado na versão 7 da VMWare.
 
-OK, parei com o merchan. Até porque não ganho nada com isso. Vamos ao código.
+No entanto, entre as coisas que testamos (instalado em um Windows Vista SP1 como host), o que não funcionou já não agradou tanto. A lista de prós e contras ainda confirma a liderança da VMWare, pelo menos em qualidade:
 
-Pelo Wizard do VS podemos criar para um projeto C++ qualquer um projeto de teste. No momento estou vendo os tipos de projeto Native Unit Test e Google Test.
+    Funcionalidade          VMWare             VirtualBox
+    Snapshots               Sim                Sim. Mesma velocidade.
+    USB                     Sim                Sim. Não funcionou.
+    Seamless Mode           Não                Sim.
+    Clipboard               Sim                Sim. Não funcionou.
+    Shared Folders          Sim                Sim. Erros de acesso.
+    Ferramentas Guest       Sim                Sim.
+    Pause Momentâneo        Não                Sim.
 
-{{< image src="Gk5fDHB.png" caption="" >}}
+Além da tabela de testes acima, é necessário notar que por mas três vezes a VM simplesmente parou de responder, sendo necessário reiniciar o programa Host.
 
-Este é nosso projeto de exemplo:
-
-```
-#include "CalculatorTabajara.h"
-
-int soma(int x, int y)
-{
-	return x + y;
-}
-
-int subtrai(int x, int y)
-{
-	return x - y;
-}
-
-int multiplica(int x, int y)
-{
-	return x * y;
-}
-
-int divide(int x, int y)
-{
-	return x / y;
-}
-
-int main()
-{
-}
-```
-
-Para conseguir testar o projeto principal adicione-o como referência.
-
-{{< image src="TbFrxIr.png" caption="" >}}
-
-Após isso basta incluir algum header que contenha os tipos, funções, classes e métodos que deseja testar e vá criando métodos de teste dentro da classe de exemplo:
-
-```
-#include "pch.h"
-#include "CppUnitTest.h"
-#include "..\CalculatorTabajara.h"
-
-using namespace Microsoft::VisualStudio::CppUnitTestFramework;
-
-namespace UnitTest1
-{
-	TEST_CLASS(UnitTest1)
-	{
-	public:
-		
-		TEST_METHOD(TestaSoma)
-		{
-			int z = soma(3, 2);
-			Assert::AreEqual(z, 5);
-		}
-
-		TEST_METHOD(TestaSubtracao)
-		{
-			int z = subtrai(3, 2);
-			Assert::AreEqual(z, 1);
-		}
-
-		TEST_METHOD(TestaMultiplicacao)
-		{
-			int z = multiplica(3, 2);
-			Assert::AreEqual(z, 6);
-		}
-
-		TEST_METHOD(TestaDivisao)
-		{
-			int z = divide(3, 2);
-			Assert::AreEqual(z, 1);
-		}
-	};
-}
-```
-
-Agora abrindo o jogo para você, amigo programador C++ que gosta de saber tudo que ocorre debaixo dos panos:
-
- - Um projeto Unit Test é apenas uma DLL com uns códigos de template.
- - Esse código já adiciona a lib de unit test da Microsoft e cria uma classe com exemplo de uso.
- - Adicione todo código do projeto original que ele precisa para compilar.
-
-Por isso eu tirei a tranqueira de precompiled header do projeto de unit test, retirei a referência (sugestão do tutorial da Microsoft) e apenas adicionei o mesmo cpp para ser compilado.
-
-Agora mais mágica: se você abrir a janela Test Explorer ele irá encontrar seus testes e enumerá-los!
-
-{{< image src="1ZVjQ4D.png" caption="" >}}
-
-Se você já programou um pouco em Windows com C++ já deve saber o truque: como o Unit Test é uma DLL ela simplesmente exporta os símbolos necessários para que o Visual Studio encontre o que precisa. O básico que um plugin dos velhos tempos faz: exportar interfaces com um pouco de reflection.
-
-{{< image src="en6DWQp.png" caption="" >}}
-
-Se você habilitar Undecorate C++ Functions no Dependency Walker verá que ele exporta justamente uma espécie de reflection, na forma de structs:
-
-{{< image src="jiBQxZ4.png" caption="" >}}
-
-E se você prestar atenção na ordem de exportação desse símbolos verá que o primeiro se chama GetTestClassInfo. Acabou a magia, não é mesmo?
-
-Os headers e fontes do CppUnitTest ficam em paths do Visual Studio como VC\Auxiliary\VS\UnitTest, nas pastas include e lib. Nele é possível dar uma olhada no significado das macros e das classes disponibilizadas. Logo abaixo das macros, no arquivo principal, é possível ver como funciona o reflection:
-
-```
-namespace Microsoft{ namespace VisualStudio {namespace CppUnitTestFramework
-{
-
-	struct ClassMetadata
-	{
-		const wchar_t *tag;
-		const unsigned char *helpMethodName;
-		const unsigned char *helpMethodDecoratedName;
-	};
-
-	struct MethodMetadata
-	{
-		const wchar_t *tag;
-		const wchar_t *methodName;
-		const unsigned char *helpMethodName;
-		const unsigned char *helpMethodDecoratedName;
-		const wchar_t *sourceFile;
-		int lineNo;
-	};
-
-	struct ModuleAttributeMetadata
-	{
-		enum AttributeType { MODULE_ATTRIBUTE };
-		const wchar_t *tag;
-		const wchar_t *attributeName;
-        //...
-```
-
-É uma lib pequena e elegante que permite uma interação não apenas com a IDE, como poderia ser automatizada por um script, uma vez que sabe-se o funcionamento interno e algumas interfaces.
+Em suma, o VirtualBox tem tudo para arrasar em futuras versões. Se, é claro, conseguir competir em qualidade com a VMWare que, no momento, é a líder em soluções de virtualização. Talvez por isso sua solução não seja tão barata.
 

@@ -1,24 +1,22 @@
 ---
 categories:
 - writting
-date: '2013-01-31'
-link: https://www.imdb.com/title/tt0443272
+date: '2018-09-15'
+link: https://www.imdb.com/title/tt5686062
 tags:
 - movies
-title: Lincoln
+title: Limites
 ---
 
-Talvez Spielberg tenha reverenciado demais a figura do presidente abolicionista. Mas quem poderá acusá-lo? Em uma época onde imperava os pensamentos que vemos do povo e dos seus dirigentes é admirável que o filme comece já com uma figura como ele, vindo do sul e com pensamentos simples e bem colocados, como chefe de estado de uma nação dividida.
+Este é o típico filme fácil de classificar: road trip sobre família disfuncional com o peso de um drama intimista sobre relacionamentos e traumas do passado. Ele também é fácil de acompanhar, pois não há nada além que aconteça em sua história que nos fará olhá-lo de novo. Ele também é um dos piores filmes para se escrever a respeito, porque ele não é tão bom a ponto de ser digno de nota nem tão ruim a ponto de ser digno de pena.
 
-Daniel Day-Lewis ([Sangue Negro]) encarna o personagem com uma igual reverência, mas para nós parece mais humano, mais frágil. Fica difícil entender como um velho de olhar e dizer vagaroso conseguia direcionar seus pensamentos e toda sua vontade por sua causa. Por outro lado, é com essa mesma fragilidade que Day-Lewis nos impressiona nos momentos "pulso-firme" do presidente. Mais difícil ainda para sua atuação é conseguir se sobressair a tantas atuações memoráveis, onde até Tommy Lee Jones ganha seu espaço (se fosse apontar uma única exceção seria Sally Field, obviamente desalinhada com a proposta de uma primeira dama amargurada).
+O que há para se dizer é que Vera Farmiga e Christopher Plummer não seguram a onda. Farmiga se dá bem em papéis menos intimistas (ou mais superficiais), como a médium em Invocação do Mal, mas aqui ela desempenha um papel crucial para levar o espectador a entender seu problema, e o que acontece é que ela simplesmente não está lá para nós. Já Plummer, é divertido de vê-lo atuar, mas alguma coisa não está certa nas dezenas de diálogos supostamente espirituosos que o entregaram.
 
-A discussão da escravidão, tema central e presente em todo o momento, é colocada até as últimas consequências. Porém, diferente do bobinho [Histórias Cruzadas], que investe no sentimentalismo barato, o jogo de poder e influência é o verdadeiro protagonista. A. Lincoln parece inofensivamente perigoso, mas consegue alterar seu humor para cada momento. É uma lenda para seu povo. Não esperaríamos nada menor. Mesmo assim, os diálogos e a questão maior da liberdade para todos os cidadãos é um objetivo que parece inalcançável até para um dos estadistas mais memoráveis da história americana.
+Talvez seja o roteiro de Shana Feste (do para mim ótimo Amor Sem Fim), que veste do começo ao fim a carapuça de filme medíocre e não se preocupa em criar nenhuma reviravolta que se preze, mantendo a história em fogo morno todo o tempo. Sabemos minutos antes de acontecer uma "surpresa", e nada disso acaba soando natural (exceto quando seus personagens não condizem com o que esperaríamos que eles fizessem, como o episódio envolvendo uma pá). Shana parece estar conduzindo o filme a 50/h enquanto o espectador já está na estrada principal. Quando eles chegam em São Francisco nós já estamos quase voltando.
 
-E por isso Spielberg investe em tomadas sempre grandiosas, com muitos figurantes, construções e figurinos. Detalhe: sempre em movimento. Um trabalho de encher os olhos para um filme tão cheio de diálogos. A câmera costuma navegar em torno dos seus personagens, levemente, tendo aparentemente o único motivo de apresentar o cenário, uma reconstrução digna de ser vista na telona, com o mesmo capricho fotográfico do igualmente empolgante [Na Estrada].
+Ao mesmo tempo temos a comédia, que não funciona: um traficante de drogas velhinho vendendo maconha para monges budistas não é engraçado. É apenas peculiar. Da mesma forma todos os episódios do filme são apenas episódios peculiares para deixar claro como o personagem de Plummer é tão problemático. E a cartilha de seu personagem é completa: ele visita seus amigos e diferente do que imaginaríamos são todos gente boa (inclusive há participações especiais curiosas, como Christopher Lloyd e Peter Fonda), e aos poucos cria uma amizade com seu neto, porque mesmo que isso não seja importante para a história é preciso cumprir a cartilha do gênero.
 
-A trilha sonora acompanha a morosidade da evolução sobre a emenda que poderá vencer a guerra e acabar com a escravidão (e a economia) do sul. Porém, com todo o respeito a John Williams, a única que parece querer dizer de maneira mais expressiva o que está acontecendo é a fotografia, que encobre Lincoln de sombras dentro de sua casa, para apenas depois o vermos sob uma luz forte e renovadora. Não é nenhum segredo o que isso significa e por que acontece, mas continua sempre lindo de se ver.
+E ao mesmo tempo que o roteiro de Shana Feste não ajuda, sua direção é intervencionista demais. Talvez para tentar desesperadamente chamar atenção para uma história que não está funcionando com o elenco escolhido Shana resolve tremer mais a câmera e muitas vezes impedir o espectador de ver os atores atuando, o que é péssimo para um drama. Note como quando somos apresentados ao personagem de Christopher Lloyd mal conseguimos reparar em como ele envelheceu, pois além do enquadramento deixá-lo sempre no topo da tela a câmera não pára de tremer. E nada disso é necessário no filme (como ele se refrescar pelado em sua varanda e convidar suas visitas).
 
-[Histórias Cruzadas]: {{< relref "historias-cruzadas" >}}
-[Na Estrada]: {{< relref "na-estrada" >}}
-[Sangue Negro]: {{< relref "sangue-negro" >}}
+Mas não deveria estar surpreso com a incapacidade de Shana Feste trazer alguma alma ao projeto: em um filme literalmente infestado de pets não se explora em nenhum momento essa busca interminável da personagem de Farmiga pelo aconchego inexistente em sua infância com pai ausente através de seus animaizinhos acolhidos da rua. São apenas mais uma coleção de esquisitice ao rol do filme, ele próprio se tornando um pouco esquisito no final das contas. Sobre o que era a história, mesmo?
 

@@ -1,26 +1,15 @@
 ---
 categories:
 - writting
-date: '2010-12-20'
-link: https://www.imdb.com/title/tt1323594
+date: '2023-03-26T12:47:45-02:00'
 tags:
 - movies
-title: Meu Malvado Favorito
+title: Meu Irmão é Filho Único
 ---
 
-Meu Malvado Favorito é um ótimo exemplo de filme que divide opiniões, assim como Transformers: de um lado as pessoas que veem claramente uma péssima construção de história em conjunto com péssimas sequências para esta história. De outro, as pessoas que enxergam seus méritos no projeto ou 1) por gostarem do argumento desde o início ou 2) por entenderem sua proposta de uma maneira menos... crítica?
+Este filme estreou quando eu já conhecia a Mitiko, em 2007, mas nunca havia ouvido falar. Ele é italiano, se passa no pós guerra e seu herói é um fascista. Além de estar do lado certo da história luta bravamente contra o irmão e a namorada, comunistas de carteirinha. Depois que o rapaz transa vira comunista, demonstrando a personalidade de pessoas relaxadas e relapsas.
 
-O fato é que estou do lado dos que defendem a produção, pois, apesar de perceber a artificialidade em seu roteiro e a maneira capenga com que a história é desenvolvida, consigo me divertir com as inspiradíssimas piadas, mesmo que estas soem deslocadas do contexto geral. O que segue são minhas impressões à época da estreia nos cinemas.
+Há uma parte hilária onde Ode à Alegria de Beethoven é adaptada porque os comunistas estão cansados de lembrar da música associada ao movimento de extrema direita por causa da irmandade e confraternização que ela exala. Então eles começam a citar na letra Mão Tse Tung, Trotsky, Lenin. É uma pataquada.
 
-No início percebemos uma certa plasticidade nos personagens e cenários, parecendo mais um jogo de videogame que um filme com movimentos próprios. Mas aos poucos vamos nos acostumando com esse estilo limitado de animação, em que a física não é muito realista.
-
-A piada sobre o "Banco do Mal" (antigo Lehman Brothers) é datada, mas pode ser considerada sob vários ângulos, pois eles realizam empréstimos de um negócio geralmente sem futuro, e é curioso notar as estátuas segurando as colunas da entrada do banco, esmagando-as aos poucos.
-
-Os flashbacks do protagonista e suas ideias imaginadas possuem um toque de humor negro, quando por exemplo ele imagina se livrar das meninas na montanha-russa.
-
-Significativo que o raio encolhedor estava sendo desenvolvido no leste asiático, já que eles costumam "encolher" invenções tecnológicas do Ocidente.
-
-As diferenças entre o Vetor e o protagonista se fazem sentir pelo estilo clássico e antiquado do último, conforme sua casa decorada com elementos ditos "malignos" (sofá de crocodilo, poltrona de rinoceronte, porta-casacos de cobra), detalhes démodé (carpete vermelho, maçaneta decorada das portas). O primeiro, por ser mais jovem, possui aquele estilo descolado e nerd de usar coisas com curvas mais suaves (repare a diferença no design de ambas as naves) e mais da moda (ele joga um videogame que se assemelha ao Wii).
-
-O final, que termina com com todos dançando (inclusive seu vilão) lembra filmes no estilo "poderia ser um pouco melhor". Como Quem Quer ser Milionário?, por exemplo.
+Este é um ótimo filme. Ele cria um triângulo amoroso desajeitado em torno de uma família pobre comum e os detalhes ao longo das décadas vamos descobrindo pelo ponto de vista do filho mais esperto, o fascista, que muda de ares algumas vezes e que se mantém fiel à ideia, como seu amigo Mário lhe recomendou. Sempre se manter fiel à ideia se torna uma lei para se manter são e vivo nos tempos modernos. Mais tarde nosso herói come a esposa de Mario, que vai preso. A esposa de Mario é uma gostosona. Justificável, é um filme de arte e todos gostamos de sexo e fascismo.
 

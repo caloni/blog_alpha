@@ -1,20 +1,26 @@
 ---
 categories:
 - writting
-date: '2013-07-09'
-link: https://www.imdb.com/title/tt1690953
+date: '2010-12-20'
+link: https://www.imdb.com/title/tt1323594
 tags:
 - movies
-title: Meu Malvado Favorito 2
+title: Meu Malvado Favorito
 ---
 
-Apesar de suas fraquezas expostas por uma trama simplista, [Meu Malvado Favorito] (2010) possui momentos divertidos demais para ser esquecido (ainda mais se comparado com franquias já bem mais desgastadas, como [A Era do Gelo] e [Madagascar]). Pegando carona no sucesso conquistado, a sua sequência explora melhor a relação entre seus personagens sem deixar de perder a sua identidade: piadas ligeiras e rasteiras que divertem pontualmente e dialogam muito bem com seu público.
+Meu Malvado Favorito é um ótimo exemplo de filme que divide opiniões, assim como Transformers: de um lado as pessoas que veem claramente uma péssima construção de história em conjunto com péssimas sequências para esta história. De outro, as pessoas que enxergam seus méritos no projeto ou 1) por gostarem do argumento desde o início ou 2) por entenderem sua proposta de uma maneira menos... crítica?
 
-Com cortes elegantes entre inesgotáveis cenas de ação e piadas que criam uma fluidez inexistente no filme original, a história de Gru, antes um vilão e agora o pai adotivo das três órfãs do filme anterior, evolui agora para um "espião consultor" do bem que tenta descobrir o autor de um crime megalomaníaco envolvendo uma substância que altera radicalmente o comportamento de criaturas antes inofensivas.
+O fato é que estou do lado dos que defendem a produção, pois, apesar de perceber a artificialidade em seu roteiro e a maneira capenga com que a história é desenvolvida, consigo me divertir com as inspiradíssimas piadas, mesmo que estas soem deslocadas do contexto geral. O que segue são minhas impressões à época da estreia nos cinemas.
 
-Há muito para se divertir na segunda aventura para podermos nos preocupar em demasiado com alguns elementos inseridos em demasia, como a insistência da parceira de Gru em parecer legal e as incontáveis situações em que a adorável Agnes nos faz chorar sem querer.
+No início percebemos uma certa plasticidade nos personagens e cenários, parecendo mais um jogo de videogame que um filme com movimentos próprios. Mas aos poucos vamos nos acostumando com esse estilo limitado de animação, em que a física não é muito realista.
 
-[A Era do Gelo]: {{< relref "a-era-do-gelo-4" >}}
-[Madagascar]: {{< relref "madagascar-3-os-procurados" >}}
-[Meu Malvado Favorito]: {{< relref "meu-malvado-favorito" >}}
+A piada sobre o "Banco do Mal" (antigo Lehman Brothers) é datada, mas pode ser considerada sob vários ângulos, pois eles realizam empréstimos de um negócio geralmente sem futuro, e é curioso notar as estátuas segurando as colunas da entrada do banco, esmagando-as aos poucos.
+
+Os flashbacks do protagonista e suas ideias imaginadas possuem um toque de humor negro, quando por exemplo ele imagina se livrar das meninas na montanha-russa.
+
+Significativo que o raio encolhedor estava sendo desenvolvido no leste asiático, já que eles costumam "encolher" invenções tecnológicas do Ocidente.
+
+As diferenças entre o Vetor e o protagonista se fazem sentir pelo estilo clássico e antiquado do último, conforme sua casa decorada com elementos ditos "malignos" (sofá de crocodilo, poltrona de rinoceronte, porta-casacos de cobra), detalhes démodé (carpete vermelho, maçaneta decorada das portas). O primeiro, por ser mais jovem, possui aquele estilo descolado e nerd de usar coisas com curvas mais suaves (repare a diferença no design de ambas as naves) e mais da moda (ele joga um videogame que se assemelha ao Wii).
+
+O final, que termina com com todos dançando (inclusive seu vilão) lembra filmes no estilo "poderia ser um pouco melhor". Como Quem Quer ser Milionário?, por exemplo.
 

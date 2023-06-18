@@ -1,20 +1,27 @@
 ---
 categories:
 - writting
-date: '2018-01-12'
-link: https://www.imdb.com/title/tt0109830
+date: '2019-09-18'
+link: https://www.imdb.com/title/tt7064620
 tags:
+- cinemaqui
 - movies
-title: 'Forrest Gump: o Contador De Histórias'
+title: Foro Íntimo
 ---
 
-Difícil não sonhar com este filme. Ele é a síntese da história americana unida com a síntese do seu próprio espírito. Forrest Gump é tudo o que um ser humano médio nunca conseguirá ser, ainda que seu QI seja muito superior ao de Forrest. O que falta em nós e sobra em Forrest é ação. O que sobra em nós e falta em Forrest é o intelecto fruto dos sonhos vazios e incompletos de nossa existência. Dessa forma, Forrest é um ser humano completo como muitos nunca chegarão a sonhar ser.
+Foro Íntimo é uma viagem claustofóbica e tensa que usa todos os artifícios técnicos do cinema para contar uma história e manter seu efeito por toda sua interminável hora e pouco, se esquecendo até do motivo por trás do clima deste pesadelo em forma de filme.
 
-É claro que estamos falando de uma lenda. Ele nunca existiu, assim como nunca foi condecorado duas vezes na Casa Branca, ou conheceu John Lennon em um programa de entrevistas, ou investiu no mercado de camarões ou na promissora Apple. Nada do que Forrest fez existiu, assim como quase nada que nós pensamos sobre nossas próprias vidas, pessoas de QI médio, foi realizado de fato. Nossa imaginação é mil vezes mais ativa que nosso próprio corpo. É por isso que Forrest existe em nossos sonhos. E sempre existirá. É a lenda do americano que foi lá e fez. Tudo.
+Acompanhamos um dia na vida de um juiz que está sendo mantido 24 horas no foro onde trabalha. Ele nem acorda e já tem pesadelos em que toma um tiro. Ao lado de um segurança fortemente armado que o acompanha todo o tempo. Um esquema de segurança é mantido para ele e sua família durante um processo criminal de gente grande, que consegue localizar a família e deixar uma foto debaixo do nariz de todos. "Este é um dia atípico", diz seu segurança. "O senhor devia cancelar as audiências de hoje". E agora não sabemos se seu segurança está sendo prudente ou faz parte das forças ocultas que tentam manipular a justiça.
 
-E por algum motivo o roteirista Eric Roth sente necessidade de inserir romance como a base de tudo. O amor de Forrest pela inalcançável Jenny (Robin Wright, mulher do congressista Frank Underwood em House of Cards). Jenny é linda e inquieta. Talvez ela seja inalcançável por ela mesma. Abusada pelo seu pai, sua vida é torta e cheia de percalços. Mas Jenny não realizou nada. Ela é fruto de adoração de uma lenda, e vai entender isso só muito tempo depois.
+O desconhecido é importante personagem em Foro Íntimo, filme que depende do clima de ameaça invisível que impede que este homem viva e exerça sua função como se deve. Sua vida está suspensa, seu trabalho em jogo e sua existência possivelmente nunca mais serão os mesmos. O filme não explora mais seu tema amplo, sobre a justiça, mas se pensarmos a fundo sobre essa problemática, onde um juiz chega a ter crise de pânico para tentar cumprir seu dever, talvez até suas sentenças no futuro não sejam mais as mesmas.
 
-Consideremos Tom Hanks. Ele é Forrest Gump na vida real. Ele não é muito inteligente, mas um ótimo ator e gente boa. Ele é o cidadão médio que paga seus impostos e ajuda velhinhas quando precisa. O camarada da Academia, ganhador de não-sei-quantos Oscars. Ele é um ator que chega e faz. Alguns resultados deixam a desejar, mas olhe para a fileira de personagens interessantes que ele já interpretou. Ele é Forrest Gump em carne e osso.
+A direção de Ricardo Mehedff é eficiente em criar este clima claustrofóbico usando uma razão de tela que vai se estreitando, esmagando seus ocupantes, conforme o dia avança. Mehedff usa a ajuda de Marilia Nogueira, segunda diretora, que também auxiliou um projeto semelhante, Homem Livre, em que um homem preso por assassinato é solto e vive em sua casa como uma outra forma de prisão. O uso do foco que o diretor escolhe desempenham um papel primordial em destacar a imagem do juiz em detrimento a todos em volta, indistinguíveis, ao fundo.
 
-Talvez Forrest Gump não agrade os pé-no-chão. Mas peço que pense por um instante. Eu sou um pé-no-chão, também, mas entendo quando um filme quer me fazer voar. Nem que seja um pouco. Através desse voo ele irá me mostrar as maravilhas da imaginação. E, melhor ainda, o quanto podemos alcançar se deixarmos essa imaginação de lado. O quão realista isso soa para você?
+A fotografia é outra pérola narrativa que trabalha em simbiose com os enquadramentos utilizados, quase sempre prendendo a figura do juiz em algum canto. A ausência de cores entrega um realismo inatingível de outra forma. Sim, é paradoxal, mas o p&b magnífico de Dudu Miranda (Lixo Extraordinário) ao drenar as cores revela apenas o que importa: as formas dos longuíssimos corredores do foro, as camadas sobrepostas dos andares, o sol iluminando parcialmente no céu, os corredores escuros onde repousam incontáveis arquivos.
+
+Além disso, o design de som torna cada elemento em cena um novo foco, pois de repente, sem trilha e diálogos, é a única coisa que se ouve. Uma xícara, um copo, um erro no computador. Formigas andando pelo duto de ar. Elas são reais? Poderiam ser, e mesmo assim não são elas que importam, mas o seu símbolo oculto enterrado junto ao fórum: a lenta, mas perceptível, degradação do sistema de justiça.
+
+Nada disso seria impressionante não fossem os papéis de Gustavo Werneck e Jefferson da Fonseca, respectivamente juiz e seu segurança. Não há absolutamente nada de especial nessas pessoas, exceto a total passividade e impessoalidade em suas posturas. Para o juiz parece não haver nada a fazer exceto passar por aquela tortura psicológica até o final do processo. Para o segurança tudo aquilo parece se traduzir em não levar um tiro, mas sua impessoalidade é tamanha que seu rosto se torna um enigma a ser interpretado de formas diferentes pelo espectador. Duas atuações que trabalham em conjunto.
+
+Foro Íntimo é acima de tudo uma aula sobre cinema na prática, na tecnicidade, nas escolhas que um diretor tem disponível em um projeto. Ele foge do lugar-comum com escolhas fáceis, entregando um trabalho coeso, onde todos os recursos trabalham juntos na narrativa. Seu único pecado é a falta de um diálogo externo, sobre as ideias por trás de um homem encarcerado em seu próprio local de trabalho, cuja função é encarcerar ou não pessoas. Irônico e trágico ao mesmo tempo.
 

@@ -1,17 +1,16 @@
 ---
-categories: []
-date: '2020-06-21'
-link: https://t.me/progclucb/29383
-title: Teoria, Prática e Código
+categories:
+- writting
+date: '2015-01-05'
+link: https://www.imdb.com/title/tt0027977
+tags:
+- movies
+title: Tempos Modernos
 ---
 
-Quando se está aprendendo programação é muito bom praticar escrevendo código. Muitos querem aprender a programar e não começam programando, e se você já começou colocando a mão na massa, parabéns por isso.
+Charlies Chaplin foi o Leonardo da Vinci da Sétima Arte. Em Tempos Modernos ele não apenas atua e dirige, como escreve o roteiro, edita e compõe a trilha sonora, incluindo o belíssimo tema de casal. É um filme-fantasia que contém metáforas sobre a vida dura na cidade, onde a multidão caminha em uníssono para as fábricas na esperança de uma vida melhor, trabalhando em um ritmo frenético ditado pelo dono através de um monitor gigante. Não à toa, a primeira cena intercala essa multidão com um rebanho. Acompanhamos a história de apenas um desses trabalhadores (Chaplin) que é preso após ficar maluco trabalhando na linha de produção. Ironicamente, a prisão é um lugar mais agradável do que a vida lá fora.
 
-Agora, para avançar nos estudos, além da prática, a teoria tem que avançar. E teoria vai além dos estudos de livros e vídeo-aulas. É possível aprender muito mais rápido lendo o código dos outros, disponível aos milhões pela internet. A vinda do GitHub veio para democratizar esse acesso e descomplicar os caminhos de colaboração. Agora você pode encontrar um bug no código de uma pessoa do outro lado do mundo e mandar a correção para todos envolvidos no projeto validarem. O quão sensacional é isso?
+O que está presente em quase todas as cenas, independente de formarem cenários distintos para o humor clássico do humorista, como a patinação na loja de departamentos, um momento igualmente importante dos efeitos visuais da época, é essa tentativa de conquista dos sonhos. Mas, como em todo filme do cineasta, a vida não é muito fácil e o melhor jeito de lidar com os problema é rir deles. Ele conhece uma menina órfã e juntos tentam conquistar o sonho de viver em uma casa aconchegante. O humor de Chaplin é o suficiente para percebermos o contraste entre o desejado e o que "tem para hoje".
 
-Ler código de outra pessoa pode ser desafiador no começo porque é necessário seguir um raciocínio diferente, que não saiu de sua cabeça. Não é a maneira que você resolveria um problema, mas, se o código estiver correto, é uma maneira igualmente válida. E possivelmente melhor. Por estar fora da zona de conforto se torna uma oportunidade para aprender coisas que não estão exatamente nem na teoria nem na prática. É a experiência de outra pessoa traduzida em código.
-
-Note que não digo essas coisas apenas do meu código, que não é perfeito nem exemplar, mas de qualquer código que resolva um problema que você está estudando resolver. Ler código é como ter o texto de um livro, mas compactado. Tem muitas ideias legais para copiar e usar, uma vez que você aprendeu o que o código faz.
-
-Mas para isso é necessário quase o mesmo esforço usado para programar. Parece fácil, mas está longe disso. A boa notícia é que vai economizar muito tempo se persistir em entender.
+Lembrado eternamente pela sequência em que o operário fica preso entre as engrenagens de uma máquina gigantesca que o mastiga, Tempos Modernos é muito mais do que isso. É um filme sobre a esperança do trabalhador comum, tem por objetivo alcançar a massa com sua mensagem simples. É uma estratégia política aversa à violência física como em Eisenstein (O Encouraçado Potemkin, A Greve), mas, na minha opinião, muito mais efetiva e universal: o riso pelo drama da vida real.
 

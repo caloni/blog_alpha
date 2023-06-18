@@ -1,20 +1,26 @@
 ---
 categories:
 - writting
-date: '2017-01-11'
-link: https://www.imdb.com/title/tt0017075
+date: '2018-04-16'
+link: https://www.imdb.com/title/tt0487831
 tags:
-- movies
-title: 'The Lodger: A Story of the London Fog'
+- series
+title: The IT Crowd
 ---
 
-O primeiro filme sobre crime de Hitchcock já contém vários elementos que indicam a que veio esse diretor, que já demonstrava inventividade em seus trabalhos anteriores. Aqui ele mantém algumas boas ideias (como a câmera subjetiva, girando no meio de um quarto, olhando o reflexo do rosto no vidro, e até caminhando furioso em direção a uma pessoa amedrontada) e cria tantas outras novas. Porém, mais que isso, constrói um belo filme através de um roteiro até que mediano.
+Já tentou desligar e ligar o computador de novo? Sabe o que quer dizer TI?  Então talvez você goste dessa comédia britânica em formato de sitcom e seus momentos quase fora da realidade, que nos faz lembrar de maneira muito divertida como (não) funciona o ecossistema do pessoal de suporte técnico.
 
-A história gira em torno de um serial killer que se auto-intitula O Vingador (The Avenger, em um pedaço de papel no bolso da vítima), e mata garotas loiras às terças-feiras. Toda a construção do matador lunático é feita com elementos que lembram um psicopata e através da fantasia do grande público, que consome avidamente o jornal com as últimas notícias sobre os assassinatos. Um dos policiais responsáveis pelas investigações namora uma garota loira, e esta garota vive com os pais em uma casa grande que está com um quarto a alugar. A descrição do assassino é tão bem martelada em nossas cabeças que quando chega um rapaz para alugar o quarto, o imaginário hitchcockiano já foi implantado em nosso cérebro.
+São dois os personagens principais: o irlandês alto, perdido e com toques afeminados Roy, e o nerd até os ossos Moss. Na pele de Chris O'Dowd e Richard Ayoade, a parte mais engraçada nem são as piadas, mas como o timing físico para comédia dos dois se encaixa em gags rápidas e sagazes.
 
-Os atores dessa época do cinema mudo eram bem caricatos, pois não havia à disposição os diálogos, apenas os intertítulos, usados apenas para informação que não conseguisse ser mimetizada pelos atores. Isso dava margem a interpretações exageradas, mas marcantes, como Nosferatu, e aqui o inquilino do filme, vivido por Ivor Novello de maneira icônica, com um tom perturbador cujo temperamento sugere fortemente que este é de fato o assassino que todos estão à procura. Ele cria essa persona com extrema propriedade. Novello é um artista multifacetado, e depois de seu último filme em 34 resolveu se dedicar inteiramente a seu outro talento: a música. Sua pele pálida, seus lábios finos e seu jeito afeminado constituíram talvez o primeiro personagem marcante dirigido por Hitchcock.
+Há também um elenco de primeira, em que a maior representante é Jen, a gerente de área técnica ideal: sequer sabe como funciona um computador. Com o seu próprio jeito solitário e estranho (não conseguir um namorado vira piada recorrente na série) Jen se comunica em alto e bom som com toda sua equipe de duas pessoas, embora seja ignorada pelo resto da corporação e assediada pelo seu chefe, um herdeiro inconsequente e tão bizarro que é capaz que um ser humano desses realmente exista.
 
-Curiosamente, este é um filme com dois plot twists, um deles impressionante para a época de hoje: uma mulher que beija dois homens, e se apaixona pela "pessoa errada". E o outro twist marca o primeiro da carreira do diretor, que quer mostrar os perigos de um julgamento apressado. Hitchcock nos dá as pistas e as retira depois. É um ato barato. Mas é tão bem articulado neste filme, quando percebemos realmente qual a moral da história, que acaba soando como um artíficio legítimo e poderoso.
+As piadas apelam muito para o cotidiano britânico para atingir seres humanos normais, não sendo apenas sobre pessoas que conhecem a fundo computadores, mas sobre a visão de mundo dos que trabalham na área que só serve para resolver os problemas quando eles aparecem. Moss, por exemplo, o nerd típico dos anos 80 e 90, na pele de Richard Ayoade aposta em movimentos de cabeça sincronizados e falas cheias de pomposidade e formalidade, por mais informais que sejam as situações. Como um incêndio, por exemplo. Seu senso de humor é atípico, quase autista, mas isso não impede que ele seja autêntico. Alheio ao mundo real, seu distanciamento social é dignificante em vez de alvo de chacota, pois Ayoade nunca deixa de levar o seu personagem a sério, e encanta o espectador nessa criatura auto-centrada.
 
-A inventividade de um diretor que filma embaixo de uma placa de vidro onde o ator anda de um lado a outro, e usa uma transição com o teto da sala da residência, onde podemos ver o lustre se mexendo, é a marca de alguém preocupado com todas as formas possíveis de contar sua história. Em uma época onde ainda a linguagem estava se desenvolvendo, ele vira um participante ativo na construção da própria arte cinematográfica. E começa a sessão de crimes que tanto marcaram o cineasta.
+No outro espectro está Roy, que nas mãos de Chris O'Dowd divide com Jen as frustrações românticas da série, pois ele é o estereótipo do anti-charme do nerd, da miopia de estilo, dos movimentos bruscos e sem qualquer tato. Roy mantém um espírito que entende as mulheres, mas é incapaz de se dar bem com elas, exceto com Jen, com quem vai alimentando uma amizade platônica e distante ao nível de virarem parceiros de video-game. Roy é tão perdido quanto Moss, mas ao não admiti-lo, é o alvo das piadas mais maldosas, como a hilária sequência em que ele acredita saber a hora exata em que irá morrer naquele dia.
+
+Jen, por sua vez, na figura da simpática Katherine Parkinson, consegue se sair bem na arte do exagero, com seus tons afetados e expressões enigmáticas. Seu tom de voz é exagerado e sofre distorções no espaço-tempo, menos por ser uma personagem para passar na TV e mais por uma atitude de auto-imposição em um mundo dominado por homens. Seu episódio-ápice é o que ela se insere em um drama auto-contido em uma referência ao universo soviético, em que os fumantes são vistos como os excluídos da sociedade e que resistem até o fim.
+
+A série criada, escrita e dirigida pelo irlandês Graham Linehan expõe o melhor do humor britânico na TV para as massas. Não é algo experimental como Monty Python, mas tem seus momentos altos, mesmo que esses momentos sejam forçados pelas risadas e aplausos falsos de TV. E é uma obra que sobretudo pisca para o pessoal de TI, pois possui tiradas típicas de se comentar na hora do café.
+
+E se você sabe o que é a hora do café em um departamento de TI, então, mais uma vez, The IT Crowd é uma série que você deveria estar vendo agora.
 

@@ -1,205 +1,24 @@
 ---
-categories:
-- coding
-date: 2019-05-17 13:53:21-03:00
-tags: null
-title: 'C Resolve Tudo: Orientação a Objetos (com Polimorfismo)'
+categories: []
+date: '2015-04-27'
+tags:
+- ccpp
+title: C, C++, Engenharia Reversa e Todo o Resto
 ---
 
-Como programadores há um vício em nossas cabeças que é estar constantemente buscando a bala de prata, ou seja, a solução final e única para todos os nossos problemas de implementação. Com o tempo e alguma experiência descobrimos que tal coisa não existe, mas até lá nos encantamos com esse ou aquele framework, e claro, com essa ou aquela linguagem.
+"C++ é divertido, mas não paga minhas contas". Por diversas coincidências da natureza, e um bocado de empenho deste que vos fala, essa frase não precisa ser dita por mim. Tendo programado em casa por 2 ou 3 anos e lido The C Programming Language um bocado de vezes antes de me aventurar no mercado de trabalho, tive a oportunidade de começar na área já programando em C, C++, e com uma equipe peso-pesado. Programávamos para Windows, onde as coisas não são tão fáceis quanto no Linux (que é um SO de e para programadores), e onde precisa-se comer muita farinha com sintaxe para construir coisas decentes. Portabilidade às vezes é um objetivo, às vezes é deixado de lado. A API Win32 já é bruta demais, e o cliente sempre tem um prazo apertado demais.
 
-As linguagens que são criadas depois da revolução dos computadores pessoais querem facilitar a vida do programador médio embutindo soluções já testadas por [programadores de verdade] e evitando a todo custo que o código incorra em erros comuns. Além disso, há movimentos nas comunidades e no mercado que geram tendências que influenciam essas linguagens, o que explica design patterns, orientação a objetos, programação funcional, xp, scrum, devops e qualquer outra bala de prata que vá se solidificando.
+Hoje, uns 15 anos depois, minha carreira foi 95% asfaltada com C e C++, com pitadas de Assembly e recentemente Python. De vez em quanto, .NET, Java e até VB, porque a gente merece um descanso de vez em quando. Essa semana um leitor me perguntou como começar a trilhar esse caminho tão divertido do médio-nível. Não só isso: com pitadas de engenharia reversa. Como eu não sou um professor, infelizmente não vou conseguir dar uma resposta à altura, mas posso compartilhar um pouco meus pensamentos sobre meu passado.
 
-Expliquei tudo isso para chegar no tema deste artigo: você pode fazer tudo isso usando linguagem C.
+Na engenharia reversa, por exemplo, segui um caminho parecido com C: brincava de crackear os programas em casa. "Como destavar o WinRar?", "Como não deixar expirar aquele programinha que veio no CD?". Respostas à essas perguntas geralmente demoravam dias, semanas ou até meses. Mas não importava. Desde que fosse divertido -- e era, muito! -- sempre haveria vontade de caminhar cada vez mais para encontrar a resposta. Esse "caminho" que eu uso como metáfora geralmente não é muito bem pavimentado, não tem atalhos, mas tem diversas vielas que irão dar em paisagens fantásticas que irão te fazer perder um tempo imenso, mas deliciosamente divertido. Me lembro até hoje que minha maior diversão quando conheci os computadores foi tentar chegar o máximo possível do hardware para entender como diabos um impulso elétrico consegue fazer tanta coisa diferente. Não preciso dizer que isso deve ter me custado um ano e vários livros, cada um em uma camada mais embaixo de abstração.
 
-Mas aí você deve estar se perguntando: "supor que uma linguagem resolve tudo não é estar defendendo também uma bala de prata?". A resposta é sim e não. Sim, é uma bala de prata se você pensar que pode fazer do zero sites e interfaces gráficas modernas em C puro. Mas a resposta também é não porque eu estou trabalhando em uma outra camada, aquela em que as soluções que ficam pra sempre são implementadas. Estou falando de pensar sempre na linguagem C quando estiver interessado no funcionamento das outras soluções.
+A questão sobre o aprendizado é: para aprender como um autodidata nada mais fácil do que tentar responder perguntas cuja resposta você esteja morrendo de curiosidade para saber. Só assim para esbarrar, por exemplo, no Assembly, e dedicar alguns meses lendo uns livros sobre o assunto, fazendo testes, abrindo um depurador que nunca viu na vida e aprendendo cometendo mais erros que acertos. Só com uma curiosidade infinita para ir além sem precisar de incentivos, sem temer a tão temida hoje em dia procrastinação. O Facebook/Twiter nunca serão tão divertidos quanto o poder de criação de um programador em suas mãos, ou o poder de desmontar um software engenhoso. Não se você já gostar dessa área. E se você gosta, provavelmente já sabe disso. Ou quer saber.
 
-Esse mindset propost tem como objetivo impedir que você pense que as outras soluções são mágicas porque se você consegue pensar em C ela é real. Se tem algo que a linguagem C não é esse algo é mágica. C é uma simples abstração de uma máquina virtual que se relaciona de maneira muito íntima com as implementações em assembly de várias arquiteturas. Mágica é algo que te impede de enxergar em que momento uma solução se encontra com o hardware. C nunca irá te impedir de fazer isso.
+Durante minha estadia na Open fiz uma pequena palestra explicando as coisas que eu precisava conhecer a fundo, mas que podem ser facilmente apreendidas por iniciantes (como eu fui), passo-a-passo, na análise de trojans de Windows. Acho que o conteúdo se aplica para quem quer começar a fuçar e não sabe por onde começar. No fundo o conteúdo era mais ou menos o que eu gostaria que me fosse ensinado antes que eu tivesse que gastar mais alguns meses com livros inteiros. Mas não me arrependo desses livros inteiros. Muitos foram úteis, outros inúteis, mas são as cicatrizes que tornam o aprendizado mais forte. Cicatrizes? Os erros de percurso!
 
-Dito isto, vamos analisar algumas balas de prata e entender como em C isso é implementado para revelar a mágica.
+Se me perguntassem a respeito da facilidade de aprender essa ou aquela linguagem, aprender essa ou aquela técnica, qual o melhor para começar eu diria que depende. E muito. Cada profissional tem o seu histórico de vida e de trabalho. E cada um tem o seu ritmo. Eu sou uma pessoa devagar. Eu preciso repetir as mesmas coisas várias vezes para conseguir fixar um novo aprendizado. Porém, quando fixo, dificilmente esqueço. Foi assim com a linguagem C, cujo padrão fiquei quase decorando (um dos anexos do livro que citei no início tem a gramática completa, é uma linguagem simples). No entanto, demorei tempo demais para partir para o C++. Porém, quando comecei a ler The C++ Programming Language já tinha um background do que era C++, como ele nasceu e como ele evoluiu para um padrão internacional. Já existia internet, e tudo ficou mais fácil com internet (especialmente para autodidatas). Hoje em dia apenas os analfabetos e os preguiçosos não conseguem aprender alguma coisa se tiverem internet. E olhe que quem está escrevendo isso é um preguiçoso nato. Tem semanas que sou um procrastinador profissional. Porém, quando algo aguça minha curiosidade, eu viro um computador processando um programa que só irá terminar depois de uma resposta satisfatória.
 
-# Orientação a Objetos
+Foi assim com C++, talvez uma camada de abstração acima de C, mas igualmente divertido, pois trazia o poder de processamento e acesso a hardware já presente em C. Os novos paradigmas que a STL apresentava pareciam alienígenas, e acho que não me habituaria hoje em dia com contêineres se não tivesse lido com muita atenção o livro-mestre de Bjarne Stroustrup. Nem templates. Templates são um quebra-cabeças para quem está pensando em tipos, pois eles não são tipos. É o mesmo quebra-cabeças que algumas novidades como namespaces fazem com a nossa cabeça. Estava acostumado a tipos, comandos e expressões. Essas novidades do C++ foram um passo além, e que valeu a pena.
 
-A Orientação a Objetos se divide em algumas features. Algumas não vale a pena falar aqui, como tratar tudo como objeto. C já faz isso através de structs. Você pode montar uma struct que possua métodos, inclusive, através de ponteiros para função. E esses métodos já são sobrecarregáveis e virtuais.
-
-```
-struct MyClass
-{
-    int x, y;
-    void (*method)(int);
-};
-
-void method(int x)
-{
-}
-
-struct MyClass NewMyClass()
-{
-    struct MyClass ret = { 0, 0 };
-    ret.method = &method;
-    return ret;
-}
-
-int main()
-{
-    struct MyClass obj = NewMyClass();
-    obj.method(10);
-}
-```
-
-A sobrecarga se torna algo trivial, bem documentada através dos nomes das funções que você está chamando. Tudo fica às claras, nada implícito, nada disse que me disse. Se eu chamo um método NewMyClass2 é óbvio que estou construindo uma segunda versão baseada na primeira, e posso inclusive comparar para ver se os métodos são originais ou sobrescritos com `obj.method == &method`, por exemplo. Além disso, é possível realizar composições de tipos onde alguns métodos são sobrescritos enquanto outros são compostos por chamadas duplas, triplas. Não há qualquer limitação ao polimorfismo exceto o que você define.
-
-```
-struct MyClass
-{
-    int x, y;
-    void (*method)(int);
-};
-
-void method(int x)
-{
-}
-
-struct MyClass NewMyClass()
-{
-    struct MyClass ret = { 0, 0 };
-    ret.method = &method;
-    return ret;
-}
-
-void method2(int x)
-{
-}
-
-struct MyClass NewMyClass2()
-{
-    struct MyClass ret = NewMyClass();
-    ret.method = &method2;
-    return ret;
-}
-
-int main()
-{
-    struct MyClass obj = NewMyClass2();
-    obj.method(10);
-}
-```
-
-Os métodos são "estáticos" por default (não há contexto), o que aliás facilita programação funcional, mas você pode buscar contexto onde te interessa, passando como parâmetro toda a "classe", seja por valor ou referência, ou passando até uma versão parcial dela. Há inúmeras maneiras de construir um objeto em C, pois ele não está restrito às regras de sintaxe da definição da linguagem, uma vez que é você que define. Além disso, como você deve ter percebido, para declarar tipos de structs é necessário o uso dessa palavra-chave, mas a linguagem C já possui um sistema de typedef para trocar convenientemente qualquer definição de tipo como um nome único.
-
-```
-#include <stdio.h>
-
-typedef struct SCalc
-{
-    int (*sum)(int, int);
-    int (*mult)(struct SCalc*, int, int);
-
-} Calc;
-
-int calc_sum(int x, int y)
-{
-    return x + y;
-}
-
-int calc_mult(Calc* calc, int x, int y)
-{
-    int ret = 0;
-    int i;
-    for( i = 0; i < x; ++i )
-        ret = calc->sum(ret, y);
-    return ret;
-}
-
-Calc CalcNew()
-{
-    Calc calc;
-    calc.sum = &calc_sum;
-    calc.mult = &calc_mult;
-    return calc;
-}
-
-int main()
-{
-    Calc calc = CalcNew();
-    int x = 10, y = 32;
-    int z = calc.sum(x, y);
-    int k = calc.mult(&calc, z, y);
-    printf("%d + %d = %d, %d * %d = %d\n", x, y, z, z, y, k);
-}
-```
-
-```
-10 + 32 = 42, 42 * 32 = 1344
-```
-
-Note que podemos ao redefinir a função de soma a de multiplicação também é alterada, mesmo não alterando seu funcionamento (mas alterando uma função que ela usa).
-
-```
-#include <stdio.h>
-#include <stdlib.h>
-
-typedef struct SCalc
-{
-    int (*sum)(int, int);
-    int (*mult)(struct SCalc*, int, int);
-
-} Calc;
-
-int calc_sum(int x, int y)
-{
-    return x + y;
-}
-
-int calc_mult(Calc* calc, int x, int y)
-{
-    int ret = 0;
-    int i;
-    for( i = 0; i < x; ++i )
-        ret = calc->sum(ret, y);
-    return ret;
-}
-
-Calc CalcNew()
-{
-    Calc calc;
-    calc.sum = &calc_sum;
-    calc.mult = &calc_mult;
-    return calc;
-}
-
-
-int calc_cat(int x, int y)
-{
-    char buf[100];
-    int ret;
-    sprintf(buf, "%d%d", x, y);
-    ret = atoi(buf);
-    return ret;
-}
-
-Calc BizarreCalcNew()
-{
-    Calc calc = CalcNew();
-    calc.sum = &calc_cat;
-    return calc;
-}
-
-int main()
-{
-    Calc calc = BizarreCalcNew();
-    int x = 1, y = 1;
-    int z = calc.sum(x, y);
-    int k = calc.mult(&calc, z, y);
-    printf("%d + %d = %d, %d * %d = %d\n", x, y, z, z, y, k);
-}
-```
-
-```
-10 + 32 = 1032, 1032 * 32 = 2147483647
-```
-
-Este é apenas um exemplo besta de polimorfismo, além de um exemplo trivial de como OO em C é infinitamente mais rico e mais complexo. Está nas mãos do programador definir até onde vai a solução proposta. E é bom saber que não existe bala de prata.
-
-[programadores de verdade]: {{< relref "programadores-de-verdade-nao-usam-java" >}}
+Uma possível evolução disso seriam as linguagens funcionais. Dizem que é o futuro. Por enquanto, não paga a conta de muita gente. Assim como as famigeradas C e C++. No entanto, se isso for sempre o seu balizador de conhecimento, estará sempre à mercê do mercado, que não sabe de nada sobre os seus gostos, seus interesses, suas ambições. Conhecimento é uma ambição muito "mais infinita" e muito mais recompensadora que dinheiro. O conhecimento tem o poder de fazer mais dinheiro, e não o contrário. Portanto, tenha a curiosidade, e atenda aos seus chamados. O resto o destino se vira.
 

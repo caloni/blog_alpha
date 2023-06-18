@@ -1,20 +1,16 @@
 ---
 categories:
 - writting
-date: '2019-10-21'
-link: https://www.imdb.com/title/tt9041234
+date: '2020-02-16'
+link: https://www.imdb.com/title/tt0108432
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Eu Prometo Ser Sensato
+title: Eu Posso Ouvir o Oceano
 ---
 
-No começo de Eu Prometo Ser Sensato testemunhamos o último desastre de Franck, um diretor de teatro completamente fora de controle. Não é uma situação engraçada, mas trágica, para o elenco, o público e ele mesmo. E este ironicamente é o resumo do filme inteiro de Ronan Le Page: sem sentido, sem paixão e sem controle. Não há nada neste filme que você irá sentir falta quando ele acabar.
+Os Estúdios Ghibli criam personagens reais em cada trabalho porque há um pluralismo nas características desenvolvidas em seus personagens e nas situações que eles vivem e interagem ao longo do tempo que alcançam um nível de quase-vida. Somos quase capazes de reconhecer um ser humano completo, ou pelo menos seus anseios, ambições, medos e lembranças. O tempo e as memórias são elementos tão vitais para a equipe de desenhistas e roteiristas que eles criam uma linguagem especial apenas para expressá-los da melhor maneira possível.
 
-A história é sobre o que Franck faz depois do desastre inicial que vemos. Interpretado de maneira tresloucada e automática por Pio Marmaï, do muito melhor Beijei uma Garota. E ele arruma um emprego temporário como assistente de museu. Acompanhamos sua tentativa de se adaptar e no meio dela descobrirmos que ele é um personagem completamente desbaratinado, um enigma. Simplesmente não dá para entendê-lo, e isso nem é por ser francês. Encontrando outra louca, interpretada por Léa Drucker e que cria uma personagem muito mais interessante apenas com trejeitos e expressões (vamos esquecer os diálogos), o circo da comédia francesa está formado.
+Esta é uma história simples de pouco mais de uma hora sobre dois garotos amigos de uma escola do interior. Surge uma garota da capital cujo temperamento é um misto entre problemas na família e incapacidade de confiar nos outros. Nenhum deles enxerga a garota real porque essa é a adolescência e também porque a história é incompleta. Faltam pedaços que nos impedem de entender a real profundidade deste drama adolescente.
 
-Essa é a história dos que não se adaptam, dos fora do sistema. Incapazes de manter um emprego estável, essa turma vive de galho em galho. E isso não teria nada de errado, muito pelo contrário, se seus personagens fossem minimamente interessantes. Mas não são. Apelando para estereótipos fáceis, como a garota que usa misticismo como resposta para tudo, ou sequer caricaturas, como os dois personagens principais, "Eu Prometo" é o que existe de pior na comédia francesa na última década: comercialmente preparada para uma turnê mundial, mas incapaz de entender o próprio cosmos onde foi criada.
-
-O fiapo de trama do filme relaciona antiguidades não-catalogadas de um museu, farmacêuticos tarados por relíquias de sua profissão (e com dinheiro para pagar por eles, o mais absurdo), uma personagem com dislexia leve e que é tratada como uma maluca e muitas piadas que não funcionam. Você já sabe onde e quando o filme vai acabar lá pela metade. Depois disso poderá deixar a sessão sem peso na consciência. Se não houve nada para rir até o momento, vai ficar ainda pior.
+Dessa forma, ficamos apenas na superfície, observando os lindos cenários e movimentos desenhados pela equipe de produção, e como até nos rostos desses jovens já adultos percebe-se um afinco pelo detalhe. Não um detalhe técnico frio, automático, mas um detalhe sensível, que emula a natureza caótica da vida. Nós não sabemos com certeza como será o rosto de crianças que conhecemos hoje. Há programas de computador que fazem isso por diversão e para reconhecimento de pessoas perdidas. Porém, aqui é a natureza em ação. E a natureza está nas mãos dos desenhistas deste estúdio.
 

@@ -1,19 +1,24 @@
 ---
 categories:
 - writting
-date: '2021-07-24T22:26:59-03:00'
+date: '2019-10-17'
+link: https://www.imdb.com/title/tt6851430
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Meus Quinze Anos
+title: Meu Verão Extraordinário Com Tess
 ---
 
-Esse filme com elenco composto por quase todos latinos e com produção e direção quase toda branca foi o frisson em Sundance 2006, quando ninguém acreditava que um filme de baixo orçamento faria tanto sucesso de crítica e público. Bom, hoje seria um ultraje se um festival desses premiasse qualquer filme não composto pelas minorias eleitas no último opressed contest.
+Meu Verão Extraordinário com Tess é uma comédia leve, de amadurecimento, baseada no livro de Anna Woltz que deve ser tão gostoso de ler quanto o verão, fictício ou não, que Sam passou naquela praia.
 
-Ver o making off com o elenco gera sentimentos mistos. As atuações são medíocres e mornas, mas para o casting é como se estivessem compondo um clássico. É o momento deles brilharem e serem aplaudidos, o que é muito justo. O estranho da situação é que o que torna o filme notável é justamente seus personagens pedestres e reais. Você não espera nada dessas pessoas em termos de dramatização porque elas evocam algo muito mais poderoso e esperado pela dupla de diretores: o drama da vida real não é anunciado com trompetes.
+Com cores quentes sem exagerar para a fantasia, mas uma fotografia clara que ressalta o brilho da areia iluminando as roupas adolescentes da jovem e contagiosa Tess, esta é uma comédia sutil que não gera gargalhadas, apenas sorrisos, e o humor funciona através de uma doce melancolia do pequeno Sam, que já pensa desde seu primeiro dia de férias em sua inevitável morte.
 
-Este é um filme que começa e termina devagar, mas no meio do caminho te gera uma sensação que há uma quase mensagem perdida por ali. É possível sentir no ar ou é apenas impressão de que deveria haver algo.
+Sua preocupação pode já ter passado pela sua cabeça alguma vez na infância, naquela época que devaneamos facilmente. Com certeza passou pela minha: depois que meus pais morrerem serei apenas eu no mundo, solitário, aguardando minha própria morte. O que talvez não tenha passado pelas nossas cabeças, mas passou pela de Sam, é fazer algo a respeito. E o seu plano, aproveitando seu tempo de folga com a família, é treinar a solidão, ficando duas, quatro, dez horas sozinho, aumentando o tempo a cada dia. Essa é a melhor forma de nos fazer pensar a respeito da solidão iminente. Além de ser uma péssima maneira de passar as férias de verão.
 
-A ação se desenrola em Echo Park, bairro vizinho a Hollywood e Griffith. No entanto, é o resquício mais próximo para a classe média do que pode ser um bairro latino em Los Angeles.
+Mas quando ele encontra Tess, uma garota de sua idade, seus planos correm risco de serem adiados, pois ela tem seus próprios planos, e mais urgentes. Criada pela mãe solteira, Tess descobriu quem é seu pai e o atraiu para onde ela mora para conhecê-lo melhor. Enquanto Sam, como a própria Tess e sua mãe gostam de falar, tem um "típico problema de homem", essa garota de 12 anos literalmente faz as coisas acontecerem em sua volta, e a amizade entre os dois cresce de uma maneira torta, e por isso mesmo admirável.
 
-A história é sobre os quinze anos de uma garota e a pomposidade. Vira um conto do cotidiano. Simples e eficiente, mas evapora no final.
+O roteiro de Laura van Dijk adapta o livro de Anna Woltz e consegue unir todos os elementos acerca da discussão sobre solidão de Sam em um filme que nunca para de te surpreender. Um evento puxa o outro e sempre estamos curiosos com seus personagens. É daqueles trabalhos que celebra a vida acima de tudo, e valoriza seus momentos. Por isso mesmo a edição é ágil, unindo os melhores planos do diretor Steven Wouterlood, que evoca significado sem diálogos. Vemos Sam sozinho na praia e de repente o brilho das areias dá lugar ao escuro lodo que ele visita.
+
+Há uma certa profundidade em "Meu Verão" que cativa nossos pensamentos ao mesmo tempo que diverte. Este pode ser um filme para crianças e jovens, tão bem quanto para adultos, desde que eles estejam tão intereressados na vida quanto Sam e Tess.
 

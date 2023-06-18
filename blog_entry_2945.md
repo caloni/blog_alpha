@@ -1,190 +1,68 @@
 ---
-categories:
-- coding
-date: '2008-08-20'
+categories: []
+date: '2009-03-05'
 tags: null
-title: Os processos-fantasma
+title: Os problemas mais cabeludos
 ---
 
-Estava eu outro belo dia tentando achar um problema em um driver que controla criação de processos quando, por acaso, listo os processos na máquina pelo depurador de kernel, após ter dado alguns logons e logoffs, quando me vem a seguinte lista de processos do Windows Explorer:
+Quase todos os problemas do Universo são resolvidos depois de um belo dia de depuração, código comentado, descomentado, recomentado e umas muitas e boas doses de café. Alguns outros problemas mais cabeludos precisam de uma boa noitada na frente do computador, e mais café. E, finalmente, existem aqueles que nem tomando o estoque inteiro de café a coisa anda.
 
-    PROCESS 815f0da0  SessionId: 0  Cid: 0694    Peb: 7ffd8000  ParentCid: 0100
-        DirBase: 0d6e9000  ObjectTable: 00000000  HandleCount:   0.
-        Image: explorer.exe
-    
-    PROCESS 8164bda0  SessionId: 0  Cid: 03b0    Peb: 7ffdf000  ParentCid: 0100
-        DirBase: 02673000  ObjectTable: 00000000  HandleCount:   0.
-        Image: explorer.exe
-    
-    PROCESS 815f7d50  SessionId: 0  Cid: 020c    Peb: 7ffd9000  ParentCid: 0100
-        DirBase: 0bc7f000  ObjectTable: 00000000  HandleCount:   0.
-        Image: explorer.exe
-    
-    PROCESS 8164c698  SessionId: 0  Cid: 0794    Peb: 7ffde000  ParentCid: 0100
-        DirBase: 0cb08000  ObjectTable: e1a40f20  HandleCount: 279.
-        Image: explorer.exe
+Um exemplo: um hook global do Windows que quando ativado em determinados eventos envia mensagens para uma única janela que cataloga informações sobre diversas janelas e processos no sistema. Esse procedimento é uma subfunção do programa principal, que já possui seus próprios problemas e idiossincrasias. Em momentos aparentemente aleatórios algumas funcionalidades não parecem estar de acordo com o que se espera.
 
-Analisando pelo Gerenciador de Tarefas, podemos detectar que o único processo de pé possui o PID (Process ID) do último elemento de nossa lista, curiosamente o único com um contador de handles diferente de zero.
+Para esse tipo de situação que envolve 1. o sistema como um todo, 2. processos de terceiros e 3. comportamento obscuro por parte do resto do código, vale a pena seguir um checklist mais rigoroso, colocar seu bonezinho de CSI e partir para desmembrar o funcionamento do código problemático:
 
-Lembrando que 1940 em hexadecimal é 0x794, exatamente o valor deixado em destaque na lista acima, e reproduzido abaixo:
+  1. Como o programa deveria funcionar?
+  2. O que exatamente não funciona?
+  3. O que pode ser? O que NÃO pode ser?
+  4. Existe uma maneira de provar?
 
-    PROCESS 8164c698  SessionId: 0  Cid: 0794    Peb: 7ffde000  ParentCid: 0100
-        DirBase: 0cb08000  ObjectTable: e1a40f20  HandleCount: 279.
-        Image: explorer.exe
+Cada uma dessas perguntas deve ser respondida com a maior sinceridade e disciplina, custe o que custar.
 
-Sendo ele o único processo a rodar, a única explicação válida para as outras instâncias do explorer.exe estarem de pé seria o fato de haver algum outro processo (inclusive o sistema operacional) com um handle aberto para ele. Felizmente isso pode ser facilmente verificado pelo uso do comando !object do WinDbg, no caso abaixo com o primeiro explorer.exe da lista, utilizando-se a sua estrutura EPROCESS (em vermelho na lista acima).
+Esse deve ser o primeiro e mais importante indício do que pode estar acontecendo. Sem entender o funcionamento do programa, dificilmente conseguiremos passar para os passos seguintes. Na maioria das vezes, sem saber onde a coisa começa e termina, o problema vai ficar rindo da nossa cara até entendermos de fato que aquele if não merece estar naquela linha.
 
-    kd> !object 815f0da0
-    Object: 815f0da0  Type: (817cce70) Process
-        ObjectHeader: 815f0d88 (old version)
-        HandleCount: 2  PointerCount: 3
+Para facilitar esse entendimento, nada como elaborar uma pequena explicação para si mesmo no estilo How Stuff Works. Não precisa exagerar e fazer uma tese a respeito e criar vídeos explicativos. Só precisa descrever o fluxo com os detalhes aparentemente importantes para a resolução do problema.
 
-Muito bem. Temos dois handles e dois ponteiros ainda abertos para o objeto processo-fantasma explorer.exe. O fato de haver um handle aberto indica que é muito provável que se trate de um outro processo rodando em user mode, já que normalmente as referências para objetos dentro do kernel são feitas com o uso de ponteiros.
+Continuando nosso exemplo:
 
-Para descobrirmos quem detém esse handle, existe o comando !handle, que pode exibir informações sobre todos os handles de um determinado tipo no processo atual. Como queremos procurar por todos os handles do tipo Process em todos os processos existentes, é necessário usá-lo em conjunto com o comando mais esperto for_each_process, que pode fazer coisas incríveis para o programador de user/kernel:
+  1. O programa inicia e cria uma _thread _específica.
+  2. Essa _thread _específica cria uma janela que monitora e carrega uma DLL.
+  3. Essa DLL é chamada pela _thread _e instala um _hook _global no sistema.
+  4. O _hook _recebe eventos de todos os processos que possuem janelas.
+  5. Quando eventos específicos são disparados, o processo atual envia uma mensagem para a janela que monitora.
+  6. A janela que monitora monta uma tabela estatística dos eventos.
+  7. De tempos em tempos, essa tabela é escrita em disco em um arquivo encriptado.
 
-    kd> !for_each_process "!handle 0 1 @#Process Process"
-    processor number 0, process 817cc830
-    Searching for handles of type Process
-    PROCESS 817cc830  SessionId: none  Cid: 0004    Peb: 00000000  ParentCid: 0000
-        DirBase: 00039000  ObjectTable: e1000cc0  HandleCount: 286.
-        Image: System
-    
-    Handle table at e1002000 with 286 Entries in use
-    0004: Object: 817cc830  GrantedAccess: 001f0fff
-    
-    0298: Object: 8169a958  GrantedAccess: 001f03ff
-    
-    0308: Object: 8156c880  GrantedAccess: 00000438
-    
-    067c: Object: 816744e8  GrantedAccess: 001f03ff
-    
-    processor number 0, process 81589020
-    Searching for handles of type Process
-    PROCESS 81589020  SessionId: none  Cid: 016c    Peb: 7ffd7000  ParentCid: 0004
-        DirBase: 06978000  ObjectTable: e130d688  HandleCount:  21.
-        Image: smss.exe
-    
-    Handle table at e12a5000 with 21 Entries in use
-    0038: Object: 81561128  GrantedAccess: 001f0fff
-    
-    003c: Object: 81561128  GrantedAccess: 00000400
-    
-    0050: Object: 815b2128  GrantedAccess: 001f0fff
-    
-    0054: Object: 81668020  GrantedAccess: 00000400
-    
-    processor number 0, process 81561128
-    Searching for handles of type Process
-    PROCESS 81561128  SessionId: 0  Cid: 0234    Peb: 7ffde000  ParentCid: 016c
-        DirBase: 0742d000  ObjectTable: e13e0418  HandleCount: 342.
-        Image: csrss.exe
-    
-    Handle table at e14f3000 with 342 Entries in use
-    0014: Object: 815b2128  GrantedAccess: 001f0fff
-    
-    00ec: Object: 8154e880  GrantedAccess: 001f0fff
-    
-    0100: Object: 8156c880  GrantedAccess: 001f0fff
-    
-    0130: Object: 815dc798  GrantedAccess: 001f0fff
-    
-    processor number 0, process 815b2128
-    Searching for handles of type Process
-    PROCESS 815b2128  SessionId: 0  Cid: 024c    Peb: 7ffde000  ParentCid: 016c
-        DirBase: 075b2000  ObjectTable: e13d5790  HandleCount: 448.
-        Image: winlogon.exe
-    
-    Handle table at e102b000 with 448 Entries in use
-    018c: Object: 8154e880  GrantedAccess: 001f0fff
-    
-    019c: Object: 8156c880  GrantedAccess: 001f0fff
-    
-    processor number 0, process 8154e880
-    Searching for handles of type Process
-    PROCESS 8154e880  SessionId: 0  Cid: 0290    Peb: 7ffda000  ParentCid: 024c
-        DirBase: 07908000  ObjectTable: e15fea78  HandleCount: 261.
-        Image: services.exe
-    
-    Handle table at e15cf000 with 261 Entries in use
-    029c: Object: 81668020  GrantedAccess: 001f0fff
-    
-    0330: Object: 815dc798  GrantedAccess: 001f0fff
+A lista acima é longa o suficiente para podermos elaborar perguntas interessantes e pequena o suficiente para podermos ter em mente o seu funcionamento como um todo, o que é vital para o sucesso das observações durante a depuração.
 
-    ... continua por muuuuuuuito mais tempo
+Note que a pergunta nos direciona para o sintoma do problema, não o problema em si, que provavelmente ainda não é conhecido. E nunca é demais lembrar que podemos estar lidando com uma série de problemas trabalhando em conjunto para nos deixar acordados por dias a fio.
 
-Uma simples busca pelo EPROCESS do processo-fantasma nos retorna dois processos que o estão referenciando: um svchost.exe e um outro processo com um nome muito suspeito, provavelmente feito sob encomenda para a confecção desse artigo:
+Exemplos de respostas possíveis: a tabela estatística perde a lógica em determinado momento, o hook algumas vezes não funciona, aleatoriamente um dos processos "hookados" capota.
 
-    Handle table at e167b000 with 247 Entries in use
-    processor number 0, process 8169a958
-    Searching for handles of type Process
-    PROCESS 8169a958  SessionId: 0  Cid: 03f4    Peb: 7ffdb000  ParentCid: 0290
-        DirBase: 08437000  ObjectTable: e156bc38  HandleCount: 1302.
-        Image: svchost.exe
-    
-    Handle table at e19fe000 with 1302 Entries in use
-    0108: Object: 815b2128  GrantedAccess: 00000478
-    
-    0128: Object: 815b2128  GrantedAccess: 00000478
-    
-    012c: Object: 815b2128  GrantedAccess: 00100000
-    
-    015c: Object: 815b2128  GrantedAccess: 0000047a
-    
-    01f4: Object: 81615928  GrantedAccess: 00000478
-    
-    02f0: Object: 815f7d50  GrantedAccess: 00100068
-    
-    035c: Object: 8169a958  GrantedAccess: 001f0fff
-    
-    0dbc: Object: 8156c880  GrantedAccess: 00100000
-    
-    0f44: Object: 8169a958  GrantedAccess: 00000068
-    
-    1020: Object: 815f0da0  GrantedAccess: 00100068
-    
-    10dc: Object: 8169a958  GrantedAccess: 00100000
-    
-    1118: Object: 815f42f0  GrantedAccess: 00100068
+Essa pergunta deve ser respondida com uma análise das respostas das duas primeiras perguntas. Batendo os sintomas do problema com o seu funcionamento macro, uma ou mais cabeças aos poucos irão elaborando teorias a respeito de onde pode estar falhando.
 
-    ...
+Ex: talvez por algum motivo a DLL esteja sendo descarregada (que lugares podem ser estes?), alguém está desinstalando o hook (quais as partes do código que fazem isso?), alguma ferramenta de análise está atrapalhando nossos resultados (o que acontece se rodarmos sem o DebugView?).
 
-    processor number 0, process 8164c220
-    Searching for handles of type Process
-    PROCESS 8164c220  SessionId: 0  Cid: 044c    Peb: 7ffdf000  ParentCid: 02a4
-        DirBase: 0db16000  ObjectTable: e15c66b8  HandleCount:  12.
-        Image: ProcessLeaker.exe
-    
-    Handle table at e103a000 with 12 Entries in use
-    0010: Object: 815f0da0  GrantedAccess: 00100000
-    
-    001c: Object: 815f42f0  GrantedAccess: 00100000
-    
-    0028: Object: 8164bda0  GrantedAccess: 00100000
-    
-    002c: Object: 815f7d50  GrantedAccess: 00100000
-    
-    0030: Object: 8164c698  GrantedAccess: 00100000
+Ao mesmo tempo que os sintomas do problema acusam que algo está errado, existem os sintomas de que alguma coisa, afinal de contas, está funcionando nessa porcaria de código. Através dos sintomas positivos é possível chegar a algumas conclusões sobre o que está funcionando bem.
 
-Se lembrarmos o ponteiro dos outros processos, podemos notar que ele está bloqueando todas as outras instâncias dos antigos explorer.exe, executados em outras sessões do usuário:
+Ex: o arquivo de log está sendo atualizado, a thread da janela que monitora recebe mensagens continuamente, algumas informações da tabela não estão corrompidas.
 
-    PROCESS 815f0da0  SessionId: 0  Cid: 0694    Peb: 7ffd8000  ParentCid: 0100
-        DirBase: 0d6e9000  ObjectTable: 00000000  HandleCount:   0.
-        Image: explorer.exe
-    
-    PROCESS 8164bda0  SessionId: 0  Cid: 03b0    Peb: 7ffdf000  ParentCid: 0100
-        DirBase: 02673000  ObjectTable: 00000000  HandleCount:   0.
-        Image: explorer.exe
-    
-    PROCESS 815f7d50  SessionId: 0  Cid: 020c    Peb: 7ffd9000  ParentCid: 0100
-        DirBase: 0bc7f000  ObjectTable: 00000000  HandleCount:   0.
-        Image: explorer.exe
-    
-    PROCESS 8164c698  SessionId: 0  Cid: 0794    Peb: 7ffde000  ParentCid: 0100
-        DirBase: 0cb08000  ObjectTable: e1a40f20  HandleCount: 279.
-        Image: explorer.exe
+Esse é o pulo do gato, a parte que diferencia meninos e meninas de homens e mulheres. Se conseguirmos, através de código de teste e/ou observação, aos poucos provar nossas conclusões a respeito do problema e conseguir elaborar, passo a passo, uma "maquete mental" de todo o código funcional, será possível aos poucos ir descartando teorias e reforçando nossa confiança sobre o caminho que estamos trilhando.
 
-Esse ProcessLeaker se tratava de um serviço do mesmo produto que contém de fato um leak de recurso: em um dado momento ele abre um handle para o processo explorer.exe, só que por alguns motivos obscuros ele não é fechado nunca, gerando uma lista interminável de processos-fantasma. E é lógico que ele originalmente não chama ProcessLeaker.exe =)
+Às vezes uma pequena mudança no código pode provar inúmeras coisas, como inocentar algumas partes e proteger-se de acusações infundadas feitas anteriormente. É uma briga contra o próprio ego, especialmente se o código foi feito por você mesmo.
 
-Essa análise mostra duas coisas: que com um pouco de conhecimento e atitude é possível encontrar bugs em outras partes do programa, mesmo quando resolvendo outros problemas e que, nem sempre o problema está onde parece estar, que seria no nosso querido driver de controle de processos do começo da história.
+Ex: Desabilitei o tratamento dos eventos e o hook continua funcionando.
+
+O importante é nunca parar de pensar sobre o problema, evitando ao máximo agir mecanicamente e por impulso, a não ser que exista um bom motivo para isso. Às vezes apenas pensando de novo sobre o mesmo assunto comprova-se algo. É uma fase muito rica e próspera na resolução de problemas e deve ser aproveitada.
+
+Ex: Quando estava habilitado o tratamento de eventos, o hook parava de funcionar em menos de cinco minutos. Agora, rodando os testes por três horas, o hook continua ativo.
+
+Ex: Desabilitei um dos eventos que possui comunicação remota com o servidor. O hook continuou funcionando, apesar do resto dos eventos.
+
+Por fim, com uma pequena dose de sorte e muitas doses de força de vontade (e café), o problema cansa de se esconder e mostra a cara.
+
+Ex: Quando há falha na comunicação com o servidor com o erro 666 uma exceção é lançada, e quando capturada tenta gerar um logue, só que esse logue está mal formatado e causa com que a thread inteira vá para o espaço.
+
+Essa é a hora em que todos se esquecem do esforço que custou chegar até ali e não documentam nada do que foi feito. Desse jeito perde-se todo esse tempo não apenas uma vez, mas todas as vezes que alguém diferente do time mexer com a mesma situação. Por isso deve-se, com a cuca fresca, escrever algumas dicas de como reproduzir o problema e elaborar um pequeno relatório ou algo que o valha do que foi feito, como foi feito e por que funcionou. Mais uma vez, não exagere. Deixe as apresentações sofisticadas de PowerPoint para os outros departamentos da empresa.
+
+Como deve ter parecido, esse tipo de abordagem leva tempo e não é fácil de ser levado adiante sem disciplina e muita persistência. Por esse motivo é que só deve ser usado naqueles problemas em que já se perdeu uma imensidade de tempo e esperança, uma situação irremediável e que ainda não conseguiu vislumbrar o dia em que finalmente poderemos dedicar nossas vidas profissionais para uma outra tarefa mais interessante.
 

@@ -1,50 +1,18 @@
 ---
-categories: []
-date: 2017-07-28 18:28:07-03:00
-tags: null
-title: Migrando Imagens Para Imgur
+categories:
+- writting
+date: '2016-10-23'
+link: https://www.imdb.com/title/tt3958276
+tags:
+- series
+title: 'Midnight Diner: Tokyo Stories'
 ---
 
-Depois de migrar meus blogues para o [Hugo](https://gohugo.io) decidi deixar o repositório mais magro migrando as imagens para um serviço de imagens. O [imgur](http://imgur.com/) me pareceu uma solução simples com uma interface rápida (e uma API Python). Para realizar essa tarefa você vai precisar das ferramentas de sempre: grep, sed, python, vim. E lá vamos nós.
+Como uma versão japonesa, mas mais folclórica e... gastronômica? de Easy (série da Netflix sobre desembaraçar relacionamentos), Midnight Diner é fofo, pois apela para o jeito animê do japonês se comportar (e os atores colaboram, vivenciando personagens impossivelmente agradáveis), e um passatempo curioso. Parece que quanto menos sabemos dos detalhes da vida dessas pessoas fictícias, mais emblemática se torna a história, e mais torcemos para que tudo dê certo. Uma série que evoca esses sentimentos do seu espectador não pode ser tão ruim assim.
 
-Meu primeiro passo foi realmente limpar a pasta de imagens, eliminando as que não estavam sendo usadas. A pasta de imagens ficou se acumulando por anos, e muitas imagens foram sendo carregadas através dos Wordpress da vida e plugins que deram resize nas imagens, gerando várias cópias no processo. Tudo inútil e dispendioso.
+E de fato não é. Tendo como base o humilde restaurante em Tóquio do cozinheiro "Master" (Kaoru Kobayashi), que abre da meia-noite às sete da manhã, o restaurante encontra nesse período as mais peculiares pessoas com seus mais interessantes dramas, histórias ou meras curiosidades. O primeiro episódio é apaixonante pela diversidade e pelo empenho em todos em ajudar. A partir daí a série já conquista quem estiver interessado em passar pouco mais de 20 minutos viajando em um pequeno conto que une pessoas em torno da comida, e através da refeição noturna aproveita para despertar inspiração, amores e piadas espirituosas.
 
-```
-dir /b imagens\*.* > images.bat
-rem transformar cada linha de images.bat em:
-rem grep -c imagem.png all.md
-images.bat > result.log
-rem a partir do vim juntar o resultado das linhas e apagar os resultados não-zerados
-rem imagem-found.png
-rem 1
-rem imagem-not-found.png
-rem 0
-v/^[0-9]/j
-v/0$/d
-rem pronto; agora é só rodar o result.log como bat
-```
+O japonês é uma criatura apartada da realidade, é o que parece se você apenas assistir esta série para se basear em sua cultura (e talvez um ou outro animê de comédia). O uso dos costumes para demonstrar como são relacionamentos, beijos, abraços e... sexo, é algo à parte também. Mais do que isso, na capital do Japão encontramos de madrugada motoristas de táxi mulheres, acompanhantes de boates, comediantes boca-suja, físicos premiados, mulheres fofoqueiras. Toda uma fauna (e flora) é criada em torno dos pratos típicos sendo criados, um a um, sempre um por episódio, pelo Mestre, que sempre observa e algumas vezes interage.
 
-O principal problema de subir tudo para o imgur é que os nomes dos arquivos irão mudar e perder a referências usadas no texto. Para conseguir renomear os arquivos dentro dos artigos é necessário conectar no serviço do imgur e através dele obter o nome original do arquivo, disponível na propriedade __name__:
-
-```
-import auth
-
-client = auth.authenticate()
-f = open('images.txt')
-imgs = f.readlines()
-for img in imgs:
-    img = img.strip('\n')
-    imgur = client.get_image(img)
-    origname = imgur.link[imgur.link.find(img):].replace(img, imgur.name)
-    print origname, '=>', img
-
-```
-
-Executando este script será possível gerar um log no formato nome-original-do-arquivo para id-da-imagem-usado-pelo-imgur. O ID deles também é usado para link direto da imagem, de onde virá o comando sed que vai substituir nos artigos os nomes originais pelo link do imgur:
-
-```
-sed -i "s/<nome-original-do-arquivo>/http\/\/:\/<link-da-imagem-no-imgur>/<id-do-imgur>.<extensao>/" *.md
-```
-
-Lembrar de apagar o all.md. Ele só foi usado para gerar a saída mais simples do grep.
+Se considerarmos que as capitais do mundo carecem de humanidade, "Midnight Diner" resgata parte disso, transformando um pequeno restaurante em um ponto onde as pessoas podem voltar a ser humanas novamente. E qual a melhor oportunidade de socializar no Japão do que em torno da mesa, diante de uma refeição agradecida por todos?
 

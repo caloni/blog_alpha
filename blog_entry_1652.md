@@ -1,15 +1,18 @@
 ---
-categories: []
-date: '2015-10-21'
-tags: null
-title: Fundamentos
+categories:
+- writting
+date: '2017-01-27'
+link: https://www.imdb.com/title/tt2452386
+tags:
+- movies
+title: The Fundamentals of Caring
 ---
 
-Um amigo meu costumava dizer que qualquer conhecimento precisa ter bases sólidas. "Os fundamentos", dizia ele. Sem os fundamentos, o prédio do conhecimento vai abaixo em pouco tempo. Mas com eles, construídos de cimento armado, reforçados e com alicerces bem planejados, não há informação demais suficiente para abalar o prédio do conhecimento.
+A Netflix tem um algoritmo de sua enorme base de dados para criar conteúdo novo. Deve funcionar mais ou menos assim: "pai que perdeu o filho e que agora terá uma provação/redenção; misturar com gente em cadeira de rodas (porque está na moda); usar road movie". E pronto. Está criado um filme com esses elementos básicos, atores quase desconhecidos em uma direção e roteiro encomendados.
 
-Esse meu amigo demorou um pouco mais que o que as pessoas costumam demorar para entender o conceito de if na programação. Se não me engano, ele passou semanas revisando a abstração, mas depois que entendeu, nunca mais perguntou uma vírgula para mim sobre o assunto. Eu escrevi uma "ode ao if" dividida em duas partes, pois ele merece. Para mim é o conceito-chave por trás de toda a lógica da programação, tal qual os flip flops constituem o alicerce da programação em hardware. Para mim, Ada Lovelace, a primeira programadora da história, que apostou na invenção maluca de Charles Babbage, sabia muito bem onde estava pisando. Escreveu diversos programas no papel antes que o computador saísse dele. Na época, o projeto falhou miseravelmente. Mas manteve-se seu legado, e seu sonho de um dia conseguir implementar em uma máquina mecânica o saldo condicional. A chave para o universo.
+Esse tipo de filme faz sucesso com o público cativo de streaming. Ele é fácil de assistir, não precisa de muita atenção, tem algumas tiradas boas, e não deixa rastros na memória. Quase uma minissérie em um longo capítulo. A história é simples e direta: personagem com problema em encarar o divórcio após a morte acidental do filho faz curso para cuidar de pessoas e aceita o primeiro emprego que lhe cai no colo, o de um garoto problemático. Juntos eles vão se dar bem em uma série de flashes e ele vai abusar de sua confiança e levá-lo em uma viagem de uma semana para conhecer os lugares favoritos que mantém em um mapa.
 
-E é através desse salto condicional, esse alicerce do nosso prédio, que se construiu todas as firulas abstratas que são fontes de discussões intermináveis no grupo de C/C++ Brasil e discussões ainda mais malucas nas nossas reuniões mensais do ChoPP. É entendendo esse conceito tão "básico" (lembre-se que básico vem de base) que todas as outras abstrações fazem sentido. E assim por diante. É entendendo o conceito de tipo, rvalue, lvalue, precedência, gramática, templates, recursividade e STL que pode-se entender com louvor as construções mais malucas já inventadas e padronizadas em C++: os padrões 11, 14, 17!
+No meio do caminho, como podem imaginar, encontram algumas pessoas. Duas, para ser exato. Essas pessoas representarão algo que cada um deles gostaria de ter para voltarem a viver "em paz". O resto é usado para encher linguiça e ocupar uma hora e meia de episódio.
 
-E é por isso que, quando for estudar algo, por mais complexo que seja, não se deve abrir mão da introdução daquele primeiro livro, do capítulo básico em que o autor explica as motivações por trás das criações da lógica computacional. Pois é nesse básico que se escondem os fundamentos, os alicerces, o concreto armado. É lá que está a fonte de todo o conhecimento, a pedra angular dos maiores arranha-céus que programadores já fizeram, do maior conjunto de milhões de linhas de código que continuam funcionando. Esse é o segredo. E nunca é difícil. Afinal, tudo aquilo é muito básico para ser deixado de lado.
+E temos mais um produto simples, rápido e fácil da produtora de streaming. Próximo!
 

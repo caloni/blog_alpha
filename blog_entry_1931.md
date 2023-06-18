@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2016-06-01'
+date: '2019-07-01'
 tags:
 - beer
-title: Ipaipim
+title: IPA Gorillaz
 ---
 
-É uma IPA com aipim (mandioca), mas quase não dá pra notar com esse amargor todo.
+Da cervejaria homônima de Poços de Caldas, tem corpo parrudo, amargor amigo com os snacks de mandioca e batata fritas cortadas fininhas e sequinhas do Justo no Terraço, um lugar bom para música ao vivo mais tranquila e papear sem pressa de ir embora.
 

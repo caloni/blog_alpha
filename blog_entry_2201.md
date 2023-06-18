@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2020-10-11'
-link: https://www.crunchyroll.com/pt-pt/magia-record-puella-magi-madoka-magica-side-story
+date: '2016-06-30'
+link: https://www.imdb.com/title/tt2870756
 tags:
-- animes
-title: 'Magia Record: Puella Magi Madoka Magica Side Story'
+- movies
+title: Magia ao Luar
 ---
 
-Meu Deus, como essa produtora gosta de títulos gigantescos em seus animes. Isso acontece principalmente porque a obra original foi um game ou mangá e a única estratégia conhecida da distribuidora pelo mundo é deixar bem claro: é uma continuação do mangá dramático Madoka Mágica, mas uma história de spin-off, e baseado em um video-game produzido pela Magia Record e depois adaptado para mangá, e finalmente para anime. Entendeu a confusão?
+Woody Allen é um contador de histórias mediano, pois ele consegue utilizar (ou manipular) os personagens dos seus filmes (que dirige e escreve) ao seu bel prazer. Seu objetivo não é criar uma trama muito complexa, mas apenas discutir os temas recorrentes de sua cinegrafia mais recente. Dito isto, o que pode talvez elucidar porque há muitas pessoas que não gostam dos seus filmes, por outro lado essa ambição de sempre explorar ao máximo as premissas de seu raciocínio sobre questões além-vida (e a própria vida) são fascinantes per se, e na maioria das vezes não precisaria mais trama do que aparece em seus filmes para gerar uma boa discussão. Seus diálogos, pode-se dizer, são um monólogo constante sobre filosofia. Só isso já torna não apenas seus trabalhos altamente "assistíveis", mas, em geral, muito acima da média de Hollywood (que busca justamente o oposto: quanto menos o espectador precisar pensar, melhor).
 
-[Madoka Mágica] continua sendo meu anime favorito. No Crunchyroll existe esse spin-off com uma nova personagem, a solitária Iroha Tamaki, vinda do vídeo-game. A direção de arte nos oferece uma revisita àquele mundo que nunca mais foi o mesmo após o último episódio de Madoka, mas ainda assim queremos (queremo$?) sentir o que há mais por trás dos duelos das meninas mágicas contra as forças inexoráveis do universo, mais conhecido como caos. A nova mescla entre computação 3D e animes tem criado alguns planos interessantes, mas nessa série nenhum deles está presente. Se tornam uma distração para uma história que se diz complexa, mas é apenas difícil de seguir por ser tão episódica.
+Entre os temas constantes do cineasta, a questão do sobrenatural é uma delas, pois a sua presença (ou ausência) circunda completamente a noção individual de significado em cada uma de nossas vidas. Em "Você Vai Conhecer o Homem dos Seus Sonhos" há bastante disso, mas é possível ver espalhado em outros trabalhos, como "Tudo Pode Dar Certo". Já aqui, em "Magia ao Luar", a época que estamos facilita a exploração de um tema um pouco mais... preciso: as médiuns que encantam milionários.
 
-Este novo livro do universo de Madoka acaba sendo um breve e relapso capítulo onde Iroha se esqueceu qual foi seu desejo realizado para aceitar se tornar uma garota mágica, mas logo ela se lembra e parte em busca da irmã. Agora ela e outras garotas estão tendo sonhos que devem se dirigir para uma cidade para serem salvas das bruxas de uma vez por todas, sem a necessidade de lutar. Uma promessa fácil que, como já sabemos, paga-se caro no final.
+Estamos na Europa da década de 20, e um mágico que se traveste de oriental, Stanley (Colin Firth), é convidado por seu amigo (Simon McBurney) a desmascarar a bela e completamente inconvincente Sophie (Emma Stone). Stanley, um mágico de sucesso e viajado, está acostumado a ver os truques que essas pessoas utilizam para seduzir velhos ricos em busca de um pouco de amparo em sua futura (e breve) pós-vida. A alta classe onde predominam, portanto, é um prato cheio para que charlatões tentem a sorte grande exibindo pequenos truques que tentam angariar fundos para, assim, se sustentarem sem precisar trabalhar. A única diferença disso e das religiões-caça-níqueis recentes é que, enquanto os médiuns da época focam em um pote de ouro, as religiões obtém seu lucro da esperança de milhões de miseráveis.
 
-Instigante o suficiente para continuar assistindo, mas preguiçoso nos detalhes narrativos. Falta personalidade. Soa como revisita desnecessária e monetizadora. Não há o toque instigador de Mefistófoles, imortalizado em Fausto de Goethe e na Madoka Mágica original. O universo é claramente inspirado em um video-game e não consegue se desvencilhar de sua origem porque seus episódios estão estruturados em fases que as heroínas devem passar para conseguir chegar ao chefão final. Nada disso existe em Madoka, que utiliza um único mistério que se expande conforme essa Alice vai indo mais fundo para sua toca do coelho existencial.
+É, portanto, muito divertido e irritante ao mesmo tempo acompanhar a alta aristocracia daquela época, sempre extremamente desinteressante e sem conteúdo nenhum. As pessoas de "Magia ao Luar", sejam bem ou má intencionadas, são rasas e muitas vezes arrogantes. Colin Firth exibe o seu tom aristocrático ao máximo, contrastando de maneira magnífica com outros personagens seus muito mais carismáticos. Já Emma Stone é Emma Stone em seu modo "fascinável" 100% do tempo, o que se mostra levemente acertado com a proposta do projeto.
 
-Além disso, no original, as garota realmente podem morrer. No primeiro episódio isso ocorre. O peso dramático da história se estabelece conforme vemos uma das garota perder a vida na luta contra uma bruxa. O perigo é real. Apenas dessa forma você consegue fazer o espectador prestar atenção. Do contrário é uma fantasia inofensiva. E jogável.
+Se a primeira metade do filme é apenas aceitável para o bem da narrativa e dos temas que Allen irá em breve -- esperamos -- colocar na mesa, seu terceiro ato é intenso em seus diálogos, e cuja profundidade não consegue ser alcançada ao máximo graças a uma trilha sonora equivocada, preguiçosa, que usa jazz para comentar praticamente qualquer cena, seja esta cômica ou trágica. Não fosse isso, as questões levantadas por Stanley constituiriam um dos melhores momentos da cinegrafia do autor.
 
-[Madoka Mágica]: {{< relref "madoka-magica" >}}
+Mas não seja por isso. A questão sobre vida após a morte, a racionalidade, ou o sentimentalismo, ainda vale a pena nesse filme. Não está cercado de tanto conteúdo inteligente, ou até pessoas inteligentes, como seria de se esperar, mas nós sabemos que é Allen falando conosco. Apesar de todo o charme de Firth ilustrando seus pensamentos.
 

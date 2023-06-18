@@ -1,12 +1,11 @@
 ---
 categories:
 - writting
-date: '2020-03-08'
-link: https://www.imdb.com/title/tt0090798
+date: '2023-03-05T11:09:49-02:00'
 tags:
 - movies
-title: Caravaggio
+title: Carandiru
 ---
 
-Eis um filme biográfico dos que não entendem a loucura ou genialidade do seu personagem-tema. Quem o fez está obcecado pelas obras e pela vida do artista, mas impede que ele exista como um ser humano, mortal e mundano. A consequência é um trabalho teatral sem alma, confuso por definição. Não se entende Caravaggio, ou é uma tarefa muito difícil. E o diretor faz um filme provando que ele é um dos mais incapazes para cumpri-la. Com atores de língua inglesa e falado em inglês, assisti à versão dublada em italiano. Tilda Swinton fala muito bem este idioma, através de sua dubladora, e assim como o filme sem alma acompanhamos os atores sem voz. Filmado inteiramente em um estúdio, as paredes, as vestimentas e o sangue possuem o mesmo tom de suas obras renascentistas. O filme nos ensina que o autor dos quadros não consegue fugir de suas obras, pois ele é, em última instância, meramente um manipulador de seus pincéis. Sua vida de verdade se registra em suas pinturas, e o resto é uma peça de teatro de baixo orçamento sem público pagante e sem aplausos.
+O filme é baseado no livro do Drauzio Varella, aquele médico que na pandemia falava que todos íamos morrer. Quem interpreta o doutor no filme é um sujeito que só fica sorrindo e fazendo perguntas bestas aos pacientes no presídio. Tudo soa muito falso e teatral. O fato de vários personagens serem interpretados por um elenco conhecido das novelas ajuda ainda mais. Cada ator e atriz quer brilhar em seu momento de viver um ser humano contra o sistema e oprimido por ele. Oh, glória! Várias histórias supostamente tristes de bandidos são mostradas. O motivo é contextualizar o espectador sobre como eles chegaram a ser presos e para que todos saibam que ninguém presta mesmo naquela cadeia. Há também os trouxas que caíram lá, mas já estavam indo pelo caminho errado do lado de fora. De qualquer forma, o tom teatral diminui o peso dos dramas. O diretor Hector Babenco se consagra na parte onde ocorre a famosa chacina do Carandiru, em 92, mostrando sangue caindo pelas escadarias e o amontoado de corpos nus, de castigo no quintal, após a polícia militar impor ordem. Eu lembro dos meus professores comentando sobre esta calamidade na quinta-série. Houve uma "comoção pública". Hoje entendo a histeria do "direitos humanos" ao constatar pelo próprio filme que na realidade morreram apenas cem presos de sete mil. O objetivo: proteger os outros presos. Morreu foi pouco, ou o suficiente.
 

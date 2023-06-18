@@ -1,55 +1,31 @@
 ---
-categories:
-- coding
-date: '2007-12-25'
-title: O que acontece quando o contador estoura
+categories: []
+date: '2008-10-05'
+tags: null
+title: O que acontece com um programador com pressa
 ---
 
-Dois conceitos de programação relacionados a limites computacionais são bem conhecidos do programador: o famigerado overflow e o não-tão-famoso underflow (embora seja fácil imaginar que ele é o oposto do primeiro). O primeiro ocorre quando somamos a uma variável inteira não-nula um valor cujo resultado não consegue ser representado pelo tamanho de memória usado para armazenar esse tipo inteiro (que pode ser um caractere, um inteiro curto, inteiro longo e por aí vai). O underflow, por outro lado (outro lado mesmo), é o resultado de uma subtração que não pode ser representado pelo número de bits do seu tipo inteiro.
+Eu já sabia, mas é lógico que não ia falar.
 
-Nada melhor que um código para ilustrar melhor esses dois ilustres acontecimentos:
+Há um tempo atrás um rapaz me pediu para responder uma série de questões sobre a carreira de programador C++. Era um rapaz empolgado com a idéia de aprender a linguagem em seis meses, com um roteiro, cronograma e um blogue recém-criados.
 
-    #include <limits.h>
-    #include <iostream>
-    
-    int main()
-    {
-    	int x = INT_MAX;
-    
-    	std::cout << x << std::endl;
-    	x = x + 1;
-    	std::cout << x << std::endl;
-    } 
+Como quase toda uma geração do imediatismo, aconteceu o inevitável: o blogue já não é atualizado há quase dois meses e toda aquela empolgação do começo deve ter virado fumaça assim que a pessoa vira a esquina e aparece uma coisa nova para fazer. E daí surgem as desculpas, o blá-blá-blá de todos aqueles que nunca têm tempo.
 
-    Saída:
+Eu sou um deles, mas de vez em quando atualizo esse meu espacinho =)
 
-     2147483647
-    -2147483648
+Na experiência de vida que tenho com todas aquelas idéias mirabolantes que as pessoas possuem de fazer alguma coisa, seja um software, aprender algo novo, ou até criar uma rotina qualquer, eu diria que quase todas, se não todas, falharam.
 
-O indicador de que algo está errado é simples: como diabos foi um número positivo virar negativo, já que eu somei ao invés de subtrair? No entanto, computacionalmente parece extremamente correto: o próximo número após o maior valor positivo possível é o menor número negativo possível.
+É natural que no começo, quando a idéia brota, e mais idéias formentam a idéia original, o empolgamento nos dá a falsa impressão que podemos fazer isso facilmente, e que é só planejar, ter vontade e ir em frente que conseguimos. É claro que toda essa impressão muda com o passar do tempo, principalmente para aquelas pessoas que possuem muitas idéias em muito pouco tempo, algo que acontece bastante com programadores, mas que em geral afeta todo mundo.
 
-Nos computadores atuais tudo no final acaba sendo representado por zeros e uns, até o sinal de negativo dos números menores que zero. Por isso mesmo, para que consigamos usar números menores que zero, precisamos gastar um bit para indicar que este número é negativo. Existem muitas representações interessantes, dentre as quais a mais popular acabou sendo a de complemento de dois. A regra é simples:
+Em se tratando de software, a primeira coisa que deve ser feita, sempre, é planejar as tarefas visíveis a serem feitas para esboçar um panorama possível para o futuro do projeto. Eu disse possível no sentido de realizável.
 
-> Toda representação binária que tiver o bit mais significativo ligado (o bit mais à esquerda) significa um número negativo cujo valor absoluto se obtém invertendo-se o resto dos bits e adicionando um.
+O segundo passo é esquecer esse negócio de realizável, cair na real e encarar os fatos: o mundo não é perfeito. Comece a colocar defeitos no cronograma, tentar imaginar o que vai sair errado e, principalmente, conhecer você mesmo e as pessoas envolvidas para ter a real expectativa do que pode ser feito em quanto tempo.
 
-Quando o bit mais à esquerda não está ligado o valor absoluto é ele mesmo; ou seja, é um número positivo, incluindo o zero. Como vamos ver, isso facilita em muito os cálculos para o computador. Para nós, a coisa não fica lá muito difícil. Só precisamos lembrar que, em hexadecimal, todos os valores que tiverem o byte mais significativo igual ou maior que 8 (que é 1000 em binário) é negativo e temos que aplicar o método de complemento de dois para obter seu valor absoluto. Vejamos o valor -8, por exemplo:
+Após jogar água fria o suficiente (às vezes são necessários muitos baldes) sobre suas idéias novas e excitantes, temos um panorama um pouco mais preciso, mais realista e, agora sim, passível de ser feito e acontecer de verdade.
 
-  1. Primeiro temos a representação real (em um byte): 1111 1000.
-  2. O bit mais significativo está ligado: é um número negativo. Descartamos o sinal, fica 111 1000.
-  3. Devemos agora inverter todos os bits: 111 1000 se torna 000 0111.
-  4. Por fim, somamos um: 000 0111 + 1 = 000 1000.
-  5. Como vimos no parágrafo anterior, 000 1000, ou simplesmente 1000, é 8. Na verdade, -8!
+Só que ainda não acabou.
 
-O que significa, na notação complemento de dois, a representação onde estão todos os bits ligados, independente do número de bytes?
+É claro que isso tudo é o começo do projeto. Após a primeira semana, o primeiro mês, o segundo mês e o segundo semestre as atividades devem ser revistas e reprojetadas. Mais uma vez entra a regrinha da água fria. Não é porque deu errado no começo que não pode dar mais errado ainda no final.
 
-Se alterarmos o código acima para imprimir na saída os números hexadecimais, obteremos a seguinte saída:
-
-    7fffffff
-    80000000
-
-E o mais legal é que agora sabemos que o primeiro número é o maior valor positivo possível nesse tamanho de int, pois possui todos os bits ligados exceto o bit de sinal. Já o segundo número, o primeiro incrementado de 1, possui todos os bits desligados exceto o bit de sinal: é o menor número negativo possível!
-
-Consegue imaginar como os cálculos são feitos pelo computador? Curioso? Então dê uma olhada na Wikipedia sobre [complemento de dois].
-
-[complemento de dois]: http://en.wikipedia.org/wiki/Twos_complement
+Esse pequeno chamado foi apenas um reforço do apelo que Rodrigo Strauss fez em nosso último encontro de C++. Nosso grupo precisa de mais pessoas que escrevam algo. Portanto, façam blogues, mas não os deixem desgarrados!
 

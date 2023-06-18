@@ -1,20 +1,69 @@
 ---
 categories:
-- writting
-date: '2012-04-11'
-link: https://www.imdb.com/title/tt0459666
-tags:
-- movies
-title: Três Tempos
+- coding
+date: '2010-10-09'
+tags: null
+title: Três em um
 ---
 
-"Dê seu preço. Eu quero vender minha alma. Sem passado. Sem futuro. Apenas um ganancioso presente."
+Que vergonha passar tanto tempo sem postar nada. Parece que não fiz nada que valesse a pena comentar por aqui.
 
-Há uma unicidade entre as três histórias contadas em Three Times que consegue ser percebida tanto pelas suas semelhanças quanto pelas diferenças. O uso de fotografias diferentes, mas todas belíssimas, para distinguir as três épocas onde as história se passam é um meio de diferenciar que acaba juntando exatamente pelas belas cores utilizadas apropriadamente em cada situação: o belo é o elemento de união. Elementos mais óbvios como figurino e direção de arte também executam sua função divisora, mas ao unir os episódios em torno de dois carismáticos atores Zui hao de shi sabe que conseguirá acertar em cheio o tom de universalidade dos temas, por mais espaçados e únicos que eles sejam.
+Na verdade, não fiz tanto, mesmo. Muitas mensagens do Outlook, gráficos UML e reuniões de alinhamento depois, sobrou um tempinho pra programar. Aprendi algumas coisas que tinha o desejo de saber há tanto tempo... Agora eu sei, quem diria, criar linques suspensos nas janelas Win32! Que novidade, não? Pois é, isso exige, [de acordo com o SDK](http://msdn.microsoft.com/en-us/library/bb760706%28v=VS.85%29.aspx), algumas artimanhas pra fazer funcionar. Para quem está de Visual Studio 2008/2010 na mão basta seguir os passos seguintes.
 
-Até porque, em sua essência, o filme como um todo fala sobre o tempo e como ele influencia as pessoas nos elementos mais simples, como a comunicação, seja ela por carta tradicional ou uma mensagem de texto dos tempos atuais. O que diferencia nossa percepção nem é a mensagem em si, mas o tempo que ela leva para chegar ao receptor.
+Definir que estamos programando para XP ou superior:
 
-Iniciando com a história apaixonante do jovem casal em uma visão idealizada do amor, repleta de ótimas músicas da época que refletem exatamente isso, Zui hao sabe que haverá um eco simétrico e revelador na parte final, passada nos tempos atuais entre um fotógrafo e uma cantora. Enquanto isso, a história do meio, mais antiga, mostra elipses imensas, de meses, além de usar de maneira inteligente a técnica do cinema mudo, ao tirar a voz da boca dos personagens e colocar em um letreiro que também lembra um pergaminho, referenciando que naquela época não tínhamos gravações de voz, e cada palavra era importante, ou cada diálogo, espaçado demais.
+    #define _WIN32_WINNT 0x0600
 
-Porém, a verdadeira maestria da montagem reside no ato final, onde temos exatamente o oposto: nossos pensamentos, falas e textos trafegam tão rápido, a informação que nos chega é tão instantânea, que ela simplesmente nos escapa, deixando-nos atrasados em relação à nossa própria fala. É por isso que só ouvimos as palavras de nossos personagens após seus lábios começarem a se mexer ou até mesmo a digitar. Se por um lado a primeira história era a mais romântica, não há mensagem filosófica mais poderosa e poética do que essa.
+Inserir suporte a linques na biblioteca de controles comuns:
+
+    INITCOMMONCONTROLSEX icc = { sizeof(icc), ICC_LINK_CLASS }; 
+    InitCommonControlsEx(&icc);
+
+Usar o CreateWindow com a classe certa, fazer markup html dentro do título e cuidar das mensagens de click e enter no controle:
+
+```
+CreateWindowEx(0, WC_LINK, 
+	L"<a href=\"http://www.caloni.com.br\">This site rocks!</a>", 
+	WS_VISIBLE | WS_CHILD | WS_TABSTOP, ...);
+
+//...
+
+	case WM_NOTIFY:
+		switch( ((LPNMHDR)lParam)->code )
+		{
+		case NM_CLICK:
+		case NM_RETURN:
+		{
+			PNMLINK pNMLink = (PNMLINK)lParam;
+			LITEM item = pNMLink->item;
+			if( (((LPNMHDR)lParam)->hwndFrom == st_linkHwnd[hWndDlg]) )
+			{
+				// codigo util
+			}
+ 
+
+```
+
+Você que não está fazendo subclassing de janelas existe outra técnica que você pode utilizar: arrastar-e-soltar o controle do seu ToolBox. Qual é a graça?
+
+{{< image src="brmIxLu.png" caption="Arrastar-e-soltar controles do Windows" >}}
+
+ Outra coisa que aprendi foi como enviar mensagens ao usuário para impedir que este reinicie a máquina em momentos importantes:
+
+{{< image src="0OKkJKy.png" caption="Bloqueio de reboot no Windows Seven" >}}
+
+A partir do Vista temos uma nova API para fazer isso. E é muito simples:
+
+    BOOL WINAPI ShutdownBlockReasonCreate( 
+      __in  HWND hWnd, 
+      __in  LPCWSTR pwszReason 
+    );   
+    
+    BOOL WINAPI ShutdownBlockReasonDestroy( 
+      __in  HWND hWnd 
+    );
+
+Quando ao receber a famigerada WM_QUERYENDSESSION, basta retornar FALSE. O Windows faz o resto.
+
+PS: E com uma ajudinha do Windows Internals ainda fiquei sabendo que dá pra [se colocar na frente da fila](http://msdn.microsoft.com/en-us/library/ms686227%28VS.85%29.aspx) para receber essa mensagem.
 

@@ -1,23 +1,122 @@
 ---
 categories:
-- writting
-date: '2016-09-30'
-link: https://www.imdb.com/title/tt4163644
-tags:
-- cinemaqui
-- movies
-title: Refúgio
+- coding
+date: '2008-06-30'
+tags: null
+title: Reflexão em C++
 ---
 
-Refúgio é uma comédia de situação que brinca um pouco com essa sensação da meia-idade (defina você esse período da sua vida) em explorar outros horizontes, levar a cabo os sonhos da infância, reviver, enfim, os bons momentos que estão em nossas memórias. Porém, ao mesmo tempo que temos esse desejo, estamos ancorados na vida real, sujeitos às complicações da vida moderna.
+O termo e conceito de reflection, muito usado em linguagens modernas, é a capacidade de um programa de observar e até de alterar sua própria estrutura. Bom, isso você pode ler na Wikipédia. O interessante é o que podemos usar desse conceito na linguagem C++.
 
-O herói do filme, Michel (Bruno Podalydès), trabalha com computação gráfica, no meio de um bando de jovenzinhos focados em impressionar os outros. E a sua praia já não é ficar ancorado em uma vida tranquila e estabilizada. Ele começa, então, a desejar expandir sua visão do que é aventura. Fã do serviço aéreo postal que atravessava a cordilheira e inspirado pelo tema no trabalho sobre palíndromos -- palavras que são iguais lidas ao contrário -- ele adquire um caiaque ("kayak") e aos poucos monta todo um universo cheio de apetrechos para atravessar um rio.
+Infelizmente não muito.
 
-O que se torna recorrente em refúgio é demonstrar como é possível carregarmos tantas distrações dentro do "caiaque da vida" sem sequer percebemos, e às vezes ficarmos fascinados por tanta "facilidade". Porém, ele mostra a diferença entre viver à mercê da tecnologia em busca de um conforto ilusório ou usá-la em prol da humanidade que cada um de nós tem guardado no fundo do barco (provavelmene na parte de suprimentos para uma vida feliz).
+O sistema de RTTI (Run Time Type Identification), a identificação de tipos em tempo de execução, seria o começo do reflection em C++. Foi um começo que não teve meio nem fim, mas existe na linguagem. Dessa forma podemos tirar algum proveito disso.
 
-Porém, ao andar com uma imensidão de coisas em seu barco é inevitável encalhar algumas vezes, onde Michel conhece novas pessoas e vai aos poucos descobrindo que há algo de errado em sua vida. Não necessariamente errado, mas ele quer se libertar do que desconhece simplesmente seguindo o fluxo da corrente. "Kayak", como sabemos, é um palíndromo, na palavra e no desenho da embarcação; ele pode ser visto de ambos os lados e ainda parecer igual. Pois é também é uma metáfora da vida, onde andar com a vida pra trás ou pra frente dá na mesma, e voltar às origem é um novo recomeço.
+Um leitor pediu para que eu falasse um pouco sobre essas coisas, especificamente como se faz para obter o nome da classe de onde estamos executando um determinado método. Para esse tipo de construção podemos usar o operado typeid, que retorna informações básicas sobre um tipo de acordo com um tipo, instância ou expressão:
 
-Essa é uma comédia que tenta ser em alguns momentos meio escrachada, o que quase estraga a bela poesia do seu tema. Porém, isso ajuda em um filme que deseja ser leve falando do drama da vida moderna:  enquando estamos enfurnados de tecnologia, mesmo para curtir a natureza os penduricalhos vêm junto. Tudo possui um significado peculiar, lúdico e metafórico. Até o celular de Michel, azul e retangular, que acaba virando a metáfora de uma balsa improvisada, que conecta a vida a lugar algum, tal como a nossa vida tecnológica, se a deixarmos dominar nossa consciência.
+```cpp
+#include <iostream>
 
-O filme para os saudosistas é um sonho, mas para os realistas um tormento. Ele traz uma bela mensagem de humanidade simbolizada em um homem de meia-idade tentando cruzar um rio sem experiência alguma. Não deixa de ser a situação de muitos de nós, perdidos nessa imensidão de informação em tempo real, consumismo desenfreado, "soluções" para problemas que não existiam antes das soluções terem sido criadas. E todo mundo rema seguindo a corrente.
+using namespace std;
+
+int main()
+{
+	cout << typeid( int ).name() << endl;
+
+	int x;
+	cout << typeid( x ).name() << endl;
+
+	cout << typeid( 2 + 2 ).name() << endl;
+}
+```
+
+    C:\Tests>cl typeid.cpp
+    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+    Copyright (C) Microsoft Corporation.  All rights reserved.
+    
+    /out:typeid.exe
+    typeid.obj
+    
+    C:\Tests>typeid.exe
+    int
+
+Dessa forma, podemos nos aproveitar do fato que todo método não-estático possui a variável implícita this, do tipo "ponteiro constante para T", onde T é o tipo da classe que contém o método sendo chamado.
+
+```cpp
+#include <iostream>
+
+using namespace std;
+
+class MyClass
+{
+	public:
+		void MyMethod()
+		{
+			cout << typeid(*this).name() << "::MyMethod" << endl;
+		}
+};
+
+int main()
+{
+	MyClass myc;
+
+	myc.MyMethod();
+}
+```
+
+    C:\Tests>cl typeid-class.cpp
+    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+    Copyright (C) Microsoft Corporation.  All rights reserved.
+    
+    /out:typeid-class.exe
+    typeid-class.obj
+    
+    C:\Tests>typeid-class.exe
+
+    class MyClass::MyMethod
+
+Com classes não-polimórficas a coisa parece não ter muita utilidade. No entanto, essa mesma técnica pode ser aplicada em classes derivadas, uma vez que o operador typeid pode trabalhar em tempo de execução:
+
+```cpp
+#include <iostream>
+
+using namespace std;
+
+class MyClass
+{
+	public:
+		virtual void MyMethod()
+		{
+			cout << typeid(*this).name() << "::MyMethod" << endl;
+		}
+};
+
+class MyDerivatedClass1 : public MyClass { };
+
+class MyDerivatedClass2 : public MyClass { };
+
+int main()
+{
+	MyClass* myc1 = new MyDerivatedClass1;
+	MyClass* myc2 = new MyDerivatedClass2;
+
+	myc1->MyMethod();
+	myc2->MyMethod();
+}
+```
+
+    C:\Tests>cl typeid-class2.cpp
+    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+    Copyright (C) Microsoft Corporation.  All rights reserved.
+    
+    /out:typeid-class2.exe
+    typeid-class2.obj
+    
+    C:\Tests>typeid-class2.exe
+
+class MyDerivatedClass1::MyMethod class MyDerivatedClass2::MyMethod
+
+Apenas se lembre de ter de fato uma classe polimórfica (eu consegui isso tornando MyMethod uma função virtual). Do contrário você pode [ter problemas].
+
+[ter problemas]: {{< relref "typeid-e-os-perigos-do-nao-polimorfismo" >}}
 

@@ -1,25 +1,30 @@
 ---
 categories:
+- reading
 - writting
-date: '2016-03-30'
-link: https://www.imdb.com/title/tt3906650
+date: '2016-12-20'
 tags:
-- cinemaqui
-- movies
-title: Sinfonia da Necrópole
+- books
+title: Sinais do Fim
 ---
 
-Esse é o segundo musical brasileiro que estreia recentemente nos cinemas. O primeiro, Amor em Sampa, tropeça na falta de jeito nacional com trilha sonora. A boa notícia é que Sinfonia da Necrópole não só se sai bem melhor nesse quesito, como possui uma coleção de músicas inspiradas sobre o tema: o além-vida.
+O poder da internet é a real democracia. É ela que permite que autores como Dario Bertulucci sejam conhecidos por leitores cansados da mesmice e da massificação das grandes editoras. E é ela que permite que o autor receba o que tem direito pelo seu livro e pelos trabalhos de distribuição: 100%. Conversei rapidamente com o autor, que estava vendendo alguns exemplares de seus livros na frente do Masp, na Avenida Paulista. Com dificuldades para conseguir uma editora, ele mesmo aprendeu a publicar seus livros e foi à luta, algo que eu admiro e que foi o motivo final que me fez levar essa cópia comigo. Agora que li, preciso concluir: não me admira que as editoras não estivessem interessadas em um autor ainda em desenvolvimento. Mas continue firme. Com o tempo, talvez suas ideias encontrem uma coerência e uma estrutura que irão te fazer repensar seus primeiros trabalhos.
 
-A história de passa em um cemitério, com um aprendiz de coveiro como protagonista, o Deodato (Eduardo Gomes). Convidado pelo tio já experiente, Deodato é sensível demais para o trabalho, algo representado no filme pelos seus constantes desmaios. O timing cômico dessas cenas é péssimo.
+Vamos à crítica.
 
-Curiosamente, o timing dos números musicais funciona muito melhor. Cantado pelos próprios atores, em um modelo naturalista (embora dublado em estúdio), o pecado dessas cenas é nunca conseguir trabalhar o mise-en-scene (a disposição dos elementos na tela), nem o enquadramento. Chega a ser frustrante, pois diante das possibilidades que túmulos, jazigos, flores e corredores que um cemitério como o usado para as filmagens possui, o diretor sempre nos entrega monótonos planos gerais à altura dos atores.
+Este é um livro que viaja da normalidade em São Paulo para o resultado em um mundo pós-apocalíptico, no sentido bíblico da palavra. Usa o conceito dos sete selos do último livro da Bíblia, mas também busca colocar no caldo essa leva de neo-ateus e outros movimentos anti-religião, ao ponto de se tornarem intolerantes ao extremo para com os cristãos.
 
-Quando a prática Jaqueline (Luciana Paes), uma agente funerária que chega para modernizar o cemitério, movendo alguns jazigos de lugar para construir o equivalente aos apartamentos cada vez menores de hoje em dia, Deodato é escolhido como seu ajudante, e instantaneamente rola uma química mais que forçada entre os dois.
+Tudo começa quando Alexandre, recém-separado de sua namorada, é seduzido por uma prostituta, que rouba seus órgãos. Não sabemos muito sobre ele, exceto que perambula pelas ruas do centro de São Paulo, tem vários amigos, e como quase todo brasileiro médio, gosta de tomar uma cervejinha vendo o noticiário na TV, e diferente de todo brasileiro médio, curte sexo, cerveja e rock and roll. Alexandre, além de narrador desta história, joga nela suas opiniões a respeito da vida, do mundo, das pessoas e do que está errado em tudo isso, além de arranhar um pouco de sua distorcida moral, que flerta com um hedonismo pacifista.
 
-E apesar desses pesares, Sinfonia da Necrópole acerta, acredite ou não, em toda sua crítica velada (trocadilho não-intencional) ao modo de vida moderno, e ao rebuscar sua história com números musicais imaginados por Deodato, torna tudo mais interessante e mais florido (mais uma vez, trocadilho não-intencional). E quando a questão ética (ou talvez religiosa) faz com que os próprios mortos realizem sua canção, o filme chega próximo de se tornar algo mais do que um episódio inspirado em um especial de humor na TV.
+Porém, no fundo nunca sabemos quem realmente é Alexandre. Não há dados o suficiente para entendermos o que se encontra em sua mente, nem através de seus amigos, de quem conhecemos apenas seus nomes e algumas descrições físicas, ou nem isso. Munidos de tão pouca informação, interna e externa, é difícil de gostar de um sujeito tão comum e com ideias tão padrões a respeito do mundo. No fundo, esta parece uma crônica da vida real na cidade, com seu cidadão mediano, que acredita que enxerga além dos outros, que é diferente e, do seu jeito nada especial de pensar, que é o escolhido para salvar a humanidade, mas que na realidade é apenas mais um de nós.
 
-Porém, ainda que cozinhado em banho-maria todo o tempo, ele é capaz de despertar a simpatia por sua leveza em tratar o tema da morte. Nem que seja por piadas como "onde Judas bateu as botas" ou "esse assunto não é da nossa ossada".
+Sem jeito com a pontuação e utilizando expressões clichês a todo momento (falta de um editor?), Dario Bertulucci faz fluir seus pensamentos mais superficiais quase como que ensaiando o que irá falar em seguida, mas sempre nos logrando de algo mais profundo do que uma vaga sensação de inquietude. Ele vomita obviedades em um formato cru que procura atingir o cidadão médio. Mas para isso usa obviedades que só artistas ripongas hoje em dia conseguem dizer sem ficar envergonhados.
 
-É capaz que essas piadas tenham me influenciado a fazer dois trocadilhos em apenas um parágrafo, embora nenhum dos dois seja intencional. E talvez esse seja o problema com "Sinfonia". Ele consegue ser muito bom em alguns momentos, e engraçado em outros, mas torna tudo muito não-intencional.
+O livro foi concebido aos poucos, de acordo com o próprio Dario. Ele fazia parte de um fanzine, em que alguns capítulos eram lançados, nos mesmos moldes dos escritores literários Machado de Assis e Carlos Drummond, mas com um formato mais independente. O fanzine tinha o mesmo nome do selo/editora do que agora é um livro. Sinais do Fim é o primeiro de outros trabalhos de fantasia de Dario, lançados pela mesma editora.
+
+O resultado talvez seja a consequência de um trabalho sem revisão de terceiros, algo que autores que iniciam na arte de escrever ficção raramente podem prescindir. Utilizando personagens que sequer foram construídos, os diálogos não são particularmente inspirados, nem as situações. Pode ser uma série de argumentos para um livro, mas a criação para por aí. E o esboço parece por sua vez conter influências óbvias. O sucesso de autores teólogos como Eduardo Spohr (A Batalha do Apocalipse) e teoristas da conspiração como Dan Brown (O Código Da Vinci) faz nascer uma leva de escritores que usam a fantasia religiosa como pano de fundo para liberar seus medos e angústias, mas sem com isso apresentar um enredo maior, que dê um formato menos basal ao que o autor se propõe a falar.
+
+Voltamos ao início.
+
+Não há nada de errado em autores independentes quererem se expressar. É assim que todos começam. Esta não é uma crítica negativa, apenas a constatação de que Sinais do Fim não é um trabalho que possua substância o suficiente para ser criticado. Ele pode ser uma versão alfa de um projeto melhor construído. E o dia em que (se) houver algo melhor construído, é bem capaz que vejamos em uma vitrine de uma livraria, virtual ou não. Nesse caso, ninguém acreditaria que o autor estava há algum tempo atrás sentado na frente do Masp, procurando por futuros leitores. Este sim é um futuro muito menos apocalíptico que eu gostaria de ver.
 

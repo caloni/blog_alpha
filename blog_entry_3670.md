@@ -1,12 +1,18 @@
 ---
 categories:
 - writting
-date: '2020-06-13'
-link: https://www.imdb.com/title/tt9737098
+date: '2018-02-06'
+link: https://www.imdb.com/title/tt6257970
 tags:
-- movies
-title: The Eyes of Fritz Lang
+- series
+title: The End Of The F***ing World
 ---
 
-Um documentário chato, cheio de pessoas elogiando a figura de Fritz Lang em sua fase nos EUA sem substância. Meia-hora quase insuportável de velhos babando ovo para este alemão que narrou sua fuga da Alemanha nazista quando se descobriu que ele fugiu "aos poucos", e que dizem ser judeu quando apenas sua avó era (e se converteu católica). Sua visão cinematográfica não está descrita aqui, apenas opiniões pessoas sobre este cineasta. Uma perda de tempo para os que buscam informação, e uma curiosidade boba para os fãs desse cinema.
+Apesar do piloto desta série apresentar desde o começo dois adolescentes problemáticos, um psicopata e uma ninfomaníaca, não é à toa que fuck... ops, foca, está encoberto no título. Este é mais um sintoma da geração abobalhada que acha que é cool, mas não consegue falar de sexo sem corar nem falar da morte de inocentes por diversão. Propaganda enganosa em cima de outra, este é um casal bonitinho que, como Arlequina em Esquadrão Suicida, adora falar que é louca. Não porque ela seja, mas porque é cool ser louca.
+
+Mas algo no personagem de Alex Lawther (Black Mirror, ep. Shut Up and Dance) que nos faz prestar um pouco mais de atenção em seus movimentos, olhares e expressões. Ele é James, um menino que teve uma infância complicada e aprendeu que gosta de matar pequenos animais. Com a faca. E aguarda seu momento de estrear com humanos. Ele pretende começar com sua namorada incidental, Alyssa.
+
+E Alyssa, vivida aqui por Jessica Barden com uma adolescência repugnante. Seus comentários como narradora (ambos o são) é aceitável. Mas é só. Cheia de anti-carisma com suas sardas e seus comentários vergonhosamente inadequados, não há nada muito engraçado depois que você percebe a dinâmica da moça. Apenas esperamos que ela finalmente se dê mal.
+
+O que sabemos que não vai acontecer. Estes dois são os heroizinhos romanticuzinhos que irão viver uma aventura adolescente e não haverá muitas mortes ou sangue, exceto de pessoas más pelo caminho. A estrutura desta série tem uma grande vantagem em relação às outras que a Netflix anda lançando: os episódios só tem 20 minutos e parece que há uns 8 episódios. Mas não sei se tenho coragem de continuar. Acho que vou reassitir pela quarta vez Rick & Morty.
 

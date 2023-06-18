@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-01-08'
+date: '2015-01-04'
 tags:
 - beer
-title: Ouropretana Pale Ale
+title: Ouro Pretana Pale Ale
 ---
 
-Não havia a Ouropretana mais amarga, mas essa quebrou o galho no pub de Ouro Preto.
+Bem equilibrado; refrescante com amargor e um pouco de doce.
 

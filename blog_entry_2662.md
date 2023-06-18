@@ -1,22 +1,27 @@
 ---
 categories:
 - writting
-date: '2019-03-30'
-link: https://www.imdb.com/title/tt0010323
+date: '2016-08-12'
+link: https://www.imdb.com/title/tt5290524
 tags:
+- cinemaqui
 - movies
-title: O Gabinete do Dr Caligari
+title: O Funcionário do Mês
 ---
 
-Caligari! Caligari! Caligari! Um grito surdo que se traduz no cinema mudo com este nome sendo escrito pela tela de todas as formas. Este é um dos representantes do expressionismo alemão que inspirou o estilo noir que por sua vez está influenciando o neo-noir. Cenários com sombras distorcidas, elementos exagerados na tela, maquiagem pesada estilo gótico (o de indivíduos, não a arte alemã). É um filme curto que já arrisca detalhes novos na linguagem como paralelismo, sonhos e certa complexidade na história.
+Uma comédia de absurdos nunca será tão absurda quanto uma comédia italiana. E "Funcionário do Mês" é um exemplo clássico: é escrachado do começo ao fim, se valendo não só dessa fama italiana do funcionalismo público, do "jeitinho italiano" (ah, essa herança...), mas também do comodismo e do estereótipo da família (italiana, claro). Na verdade, é melhor ainda, pois ao criticar o mundo "incivilizado" que o italiano médio vive, o filme também escracha o lado "civilizado", escancarando o diferente, o divergente, a multicultura. Sempre pelo exagero, claro! Eu comentei que essa é uma comédia italiana? Capisce?
 
-Hoje é analisado pelos críticos como uma clara alusão ao Estado alemão pré-nazista, crescendo como um ser autoritário sem controle e massacrando o povo judeu. Sim, tem maluco para tudo no mundo da arte. Como primeira camada, é a história do misterioso Dr. Caligari e seu sonâmbulo. A história se desdobra duas vezes e a cada vez que você assiste percebe algum detalhe novo. A reviravolta inicial a gente nunca esquece, pois não é esperado de um filme tão antigo.
+O filme já começa com uma série de desventuras que colocam Checco Zalone (Checco Zalone), o herói da história, explicando a história de sua vida para uma tribo africana, que não entende frases simples em italiano, mas entendem toda a narrativa do herói.
 
-Note os cenários pintados, um tanto distópicos, assimétricos. Isso combina com as sombras e as maquiagens exageradas. O ator que faz o somâmbulo Cesare, Conrad Veidt, é um típico exemplo do passado quando os atores eram escolhidos por suas características físicas e comportamentais, minimizando o trabalho de atuação para o Cinema, que exigia um estilo mais caricato para ficar claro o que os atores faziam com seus personagens. Isso no expressionismo alemão é vital.
+Explicando que ser funcionário público está no seu sangue (seu pai que o influenciou a seguir o caminho da estabilidade, da vida fácil e do mecanismo infindável de privilégios), Zalone explica como sua vida era perfeita trabalhando em um escritório regional de caça e pesca, sendo mimado pelos seus pais, pela sua namorada e família. Tudo por ser funcionário público, uma conquista para a vida toda.
 
-Por fim, vamos ver o que Pedro Monteiro, uma incógnita da Wikipédia, tem a dizer sobre o expressionismo alemão:
+Seria para a vida toda se não fosse a reforma conduzida por um político, que começa a profissionalizar os cabides de emprego e conduz Zalone para um jogo interminável de transferências pela Itália que o acaba colocando no Polo Norte, na Noruega. Lá ele conhece Sironi, o clichê de ecologista/salvadora do mundo. Junto com ela, Zalone também descobre na Noruega a diversidade de ideias, do respeito mútuo, dos seis meses de dia e seis meses de noite, e do suicídio.
 
-> O expressionismo, nascido na Alemanha no final do século XIX, é maior que a idéia de um movimento de arte, e antes de tudo, uma negação ao mundo burguês (grifo meu). Seu surgimento contribuiu para refletir posições contrárias ao racionalismo moderno e ao trabalho mecânico, através de obras que combatiam a razão com a fantasia. Influenciados pela filosofia de Nietzsche e pela teoria do inconsciente de Freud, os artistas alemães do início do século fizeram a arte ultrapassar os limites da realidade, tornando-se expressão pura da subjetividade psicológica e emocional.
+Sim, "Funcionário do Mês" não se priva em momento algum de fazer piada de qualquer coisa. Ele quase perde sua humanidade ao fazer joça do próprio protagonista, que é intenso em qualquer coisa que faça -- seja buscar suas regalias públicas ou viver como um norueguês -- mas graças ao surpreendente desempenho cômico de Checco Zalone e a sua versatilidade em nunca deixar sua autenticidade, o que faz sermos levados a crer nesse universo, por mais absurdo que seja.
 
-Ou seja, fica aqui a dica: expressionismo alemão é coisa de comunista safado.
+Zalone assina o roteiro junto do diretor Gennaro Nunziante, que aqui aplica um "truque" muito eficaz em comédias desse tipo: ao filmar cenas rápidas (que se tornam ainda mais rápidas na edição), o filme nunca nos dá nenhum tempo suficiente para reflexão; se torna uma enxurrada interminável de piadas, criativas e bem colocadas (além de estarem dentro do contexto da história). Essa é a clássica pornochanchada, mas com jeitinho ideológico, e há vários acontecimentos que se sucedem, sempre dando espaço para piadas espirituosas, ou no mínimo simpáticas sem soar repugnantes; até porque o povo italiano aprendeu a rir de si mesmo, o que comprova a eficácia de filmes como esse, que faz joça de uma nação inteira de acomodados.
+
+E, por que não, de qualquer nação. A própria existência de países já comprova a inclinação do ser humano de buscar estabilidade na vida a qualquer custo. Nem que seja ao custo dos outros.
+
+A grande piada, ironicamente, é que isso não parece nada civilizado.
 

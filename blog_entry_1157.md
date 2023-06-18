@@ -1,14 +1,14 @@
 ---
 categories:
-- cooking
-date: '2021-09-25T21:17:33-03:00'
-tags: []
-title: Cupcake
+- writting
+date: '2020-06-01'
+link: https://www.imdb.com/title/tt0060268
+tags:
+- movies
+title: Cul-de-Sac
 ---
 
-Fiz a primeira vez essa receita passada por uma boleira amiga (apenas a massa).
+Assisti dois terços. O DVD travou. É um filme preto e branco. Tem uma atriz francesa loira jovem que morreu jovem em um acidente de carro. As loiras jovens da carreira do diretor estão amaldiçoadas. É um filme com cara de autoral e independente, mas possui um elenco solto, de teatro. Ele perde a tensão por ter personagens fora da realidade. Fala sobre um castelo onde vivia um escritor no século onze e agora mora um pedante afeminado com sua amada. Eles são abordados por um bandido culto que se impõe para conseguir consertar um golpe que deu errado. Lembra um pouco a comédia de erros Fargo.
 
-Para 24 cupcakes sem cobertura você vai precisar de 3 ovos, 1 xícara de leite, 1 xícara e meia de açúcar e 1 xícara de óleo. Bata tudo isso no liquidificador. Então em uma travessa você coloca 2 xícaras de farinha de trigo, 1 xícara de chocolate e 1 colher (sopa) de fermento. Misture bem esses sólidos com fuê e acrescente os líquidos; misture aos poucos e distribua nas formas de papel de cupcake, cerca de metade do copinho, pois irá crescer.
-
-Coloque no forno pré-aquecido a uns 180 graus por uns 20 minutos. Fique de olho no crescimento, pois quando ele estiver "transbordando" já pode espetar um palito de dentes e ver como está a textura interna. Dependendo de sua preferência, pode deixar um pouco mais mole ou mais seco. Daí é só retirar, aguardar esfriar um pouco e partir pro abraço. Bem simples e deu super-certo, embora acho que na próxima irei tirar um pouco antes para ficar mais úmido (embora a textura estivesse macia).
+Assisti ao resto na Netflix caseira. Não deu para entender a proposta de Polansky. Seria um Trabalho de Conclusão de Curso? Conversa com os amigos (bêbado)? Enfim, essa loira e a esposa do Polansky morreram jovens. Essa em um acidente de carro aos vinte e cinco. A outra em um ritual macabro com Marilyn Manson. Tarantino filmou como não aconteceu em seu último filme, Era Uma Vez em Hollywood. Tarantino também filmou como não aconteceu a independência americana em Os Oito Odiados. Ele se acha tão a sério como se fosse possível alguém odiar um de seus filmes. Quem dirá oito. Polansky também se leva, ou se levava a sério, mas apesar de ter mais gabarito infelizmente se envolveu com uma menor de idade, crime pior que assassinato em massa na América, e nunca mais voltou para o continente. Passará o resto de seus dias filmando histórias de injustiçados historicamente.
 

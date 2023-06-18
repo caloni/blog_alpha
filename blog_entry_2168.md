@@ -1,25 +1,18 @@
 ---
 categories:
 - writting
-date: '2017-12-02'
-link: https://www.imdb.com/title/tt5954462
+date: '2016-10-17'
+link: https://www.imdb.com/title/tt3322314
 tags:
-- cinemaqui
-- movies
-title: Lumière! A Aventura Começa
+- series
+title: Luke Cage
 ---
 
-"Lumière! A Aventura Começa" entra nos arquivos dos inventores do cinematógrafo para descobrir onde surgiu o Cinema. Sim, porque a criação dos irmãos Lumière, assim como o cinetoscópio de Thomas Edison, ou qualquer outra invenção maluca da época, não era muito mais que isso: uma invenção maluca. Um entretenimento qualquer. E uma das muitas aventuras que estavam por vir no século seguinte.
+As produções da Marvel têm tanta certeza que seus fãs irão acompanhar as séries do começo ao fim que eles sequer precisam fazer um episódio piloto que chame a atenção. E é assim com Luke Cage, cria gerada a partir de Jessica Jones, a quase-potencial série em se tornar algo além do incidente Vingadores em Nova York. Nesse caso, Cage passeia pelos personagens que irão colocá-lo em grandes enrascadas e fazê-lo viver grandes aventuras na velha e bobinha lenda do herói humilde que surge do Harlem e que combate uma poderosa máfia com conexões políticas.
 
-O Cinema como arte surgiu em um momento depois, e foi uma nova descoberta: a linguagem cinematográfica. Era possível se expressar de maneira diferente dos habituais textos, pinturas, esculturas, peças e fotografias. As invenções da época foram diferentes formas de "asfalto" para que novos "veículos" trafegassem por ele, em uma época onde imperavam as charretes. Ou uma analogia mais direta: foram inventadas letras para que as pessoas pudesses usar palavras.
+Para soar mais "realista", o ator Mahershala Ali, da série House of Cards, faz o líder da gangue responsável por conduzir os negócios sujos da vereadora local. Ele é estiloso, ele é mal, ele mata pessoas com os punhos. E do outro lado do ringue, Luke Cage, um fugitivo da justiça que vive como um pacato trabalhador braçal -- em dois empregos -- e mantém alguns segredos apenas para ele e seus mais chegados, como ter força extraordinária e sobreviver a tiros e socos sem um arranhão. Há um momento no primeiro episódio que vemos rapidamente o que a computação gráfica é capaz de produzir. E, sim, há também um momento onde Cage amaldiçoa o dom que tem; para ele, para Jessica, para todos, dizer que ter super-poderes é um fardo é mais que o suficiente (aparentemente) para que entendamos todo o drama que essas pessoas vivem no mundo real.
 
-A proposta deste filme é apresentar a arte engatinhando. Não apenas nas mãos dos Lumière, mas de seus operadores de câmera também. Os criadores do cinematógrafo mandavam seus operadores apontar suas câmeras para cenas do cotidiano, cenários históricos e alguma ficção. Seu limite era uma câmera que precisava ficar parada no chão e os 50 segundos de limite do rolo de filme.
+E no meio dessa trama tão original há também cenas de luta e de sexo, exatamente como as produções Netflix para "adultos" gosta de realizar. Há também algo interessante para os afoitos por "representatividade de minorias". Aqui há negros, dezenas, centenas deles. E música de negros. E uma trama praticamente protagonizada por eles. Porém, sendo sincero, você quase não percebe a diferença com uma produção de brancos, não fosse a forçação de barra em dizer os nomes Harlem e "crioulo" algumas dezenas de vezes. Acho que isso será o suficiente para chamar o pessoal de esquerda, mesmo que eles não gostem de quadrinhos ou super-heróis tanto assim.
 
-O resultado: mais de 1400 filmes em menos de 10 anos. A maioria desse conteúdo se perdeu no tempo, mas boa parte foi restaurada e remasterizada no formato digital. Este filme apresenta -- pasmem -- 108 filmes dessa época, que compreende entre os anos de 1896, a invenção do cinematógrafo, até 1905. E ele se torna, assim como o último Metrópolis exibido depois da restauração feita com cenas redescobertas, um pedido de desculpas à humanidade pela perda lastimável de um tesouro histórico e artístico.
-
-Essas desculpas chegam nos cinemas com uma narração (original) em francês que explica o contexto das gravações, aponta um ou outro elemento em cena e faz uma pequena interpretação, resenha ou até uma crítica do resultado. É como adentrar em um museu com um trabalho fenomenal de guia, além de um fundo musical inspirado, que recria sensações de pequenos pedaços de História em película. O narrador vai além do que o espectador médio vai, falando sobre travellings, enquadramento e a sofisticação dos operadores. Além de muitos, muitos golpes de sorte de momentos que aconteceram enquanto a câmera estava filmando.
-
-Mas ao mesmo tempo este é um filme fácil, para as massas. Como os Lumière sempre desejaram. O narrador explica detalhes técnicos, sim, mas de uma maneira tão didática, guiando os olhos do espectador sobre as circunstâncias da filmagem, o momento historico, etc. O que serve, junto da diversão de ver as primeira filmagens da história, como uma introdução a um estudo tímido mas eficaz de Cinema. O narrador compara um enquadramento com a marca registrada de um diretor japonês. Em outro momento estabelece ligação entre uma criança vestida de forma pomposa e o movimento impressionista do pintor Auguste Renoir.
-
-Não há muito o que falar da arte do filme em si, essa colagem histórica formatada com a dedicação que o material merece. Apenas que seu resultado é inestimável. Se trata do nascimento de uma invenção que todos nós adoramos. O perfeito reflexo da Revolução Industrial e a consequência do avanço tecnológico que mudou radicalmente aquela realidade que vemos em proporção 1.33 em um quase quadrado com cantos arredondados, emoldurado pra presente. Um presente que todo cinéfilo deveria ser grato por poder receber.
+Mas por falar em fãs -- os reais -- esta é uma série para eles, e especialmente os fãs de Cage, que o viram em Jessica Jones, e que curtem acompanhar seus personagens favoritos por mais episódios do que deveriam. Não se trata de nada menos que a qualidade Marvel (o que pode ser um elogio ou não), de forma que você terá alguns momentos empolgantes, referências ao universo e no meio disso diálogos mornos com personagens ligeiramente interessantes. Há um vilão (esse branco) que usa óculos escuros e anda como um mano da ZL. Sim, ele é perigoso (não está vendo que ele anda de óculos?), e Cage faz um esforço descomunal para parecer que está com medo do rapaz assim que o vê. Porém, esta não é uma obra para interpretações rebuscadas ou sobre a construção de personagens.
 

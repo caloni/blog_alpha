@@ -1,16 +1,19 @@
 ---
 categories:
 - writting
-date: '2014-02-09'
-link: https://www.imdb.com/title/tt0100157
+date: '2019-10-29'
+link: https://www.imdb.com/title/tt7014694
 tags:
+- cinemaqui
 - movies
-title: Louca Obsessão
+title: Lost Holiday
 ---
 
-Baseado em um romance de Stephen King, este thriller do início da década de 90 que apresenta Kathy Bates como Annie Wilkes, a fã obsessivo-compulsiva que tem a "sorte" de resgatar o seu escritor favorito de um acidente de automóvel. Isolados pela neve, ela tem a chance de cuidar de Paul Sheldon (James Caan) enquanto ele se recupera. A mesma sorte não possui Sheldon, cuja editora acabou de publicar o último livro da série com a personagem Misery (o título original do filme) em que a mata.
+Lost Holiday engana a princípio, pois lembra aqueles filmes de conclusão de curso ou independentes estadunidenses que usam como muleta a estranheza de personagens para levar uma história nem tão inspirada adiante. Porém, a estreia dos irmãos Matthews na direção (e no roteiro) aos poucos se desdobra em uma trama inteligente justamente por não se colocar em evidência. É na estranheza de seus personagens, ou em sua banalidade, que se esconde a alma de um filme que soa inseguro o tempo todo, mas que tem todas suas amarras sob controle.
 
-Esse plot inicial é tudo que é necessário para vermos Kathy Bates possuída, onde diversos enquadramentos do diretor Rob Reiner (Conta Comigo) nos colocam na mesma posição dos adolescentes de hoje em dia que se assustam com cenas que assustam pelo barulho inesperado. Porém, diga-se de passagem, os sustos aqui não são gratuitos, mas fazem parte da construção da psique da personagem de Wilkes como uma mente conturbada e responsável por diversos assassinatos.
+Tudo começa quando Margaret, interpretada por Kate Lyn Sheil como uma versão exagerada dela mesma, visita no feriado de Natal e Ano Novo sua cidade natal, Washington (que é a cidade natal dos diretores), e por causa de suas memórias escolares arruma qualquer coisa para se divertir. Esse qualquer coisa acaba envolvendo Henry, interpretado por um dos diretores que também é ator, Thomas Matthews (do filme Trapaça), como uma versão exagerada de qualquer amigo chato que você já teve, que também está de volta, e é o único solteiro divertido afim de se divertir. Os dois passam a investigar um sequestro noticiado na cidade, e assim nós temos uma noção mais palpável de qual é a definição de diversão dessa dupla.
 
-O resto é uma homenagem descarada de Psicose, de Hitchcock e da década de 60, incluindo a casa onde ambos ficam reclusos (além de ser uma boa fonte de inspiração para Fargo, dos irmãos Coen). Uma homenagem, diga-se de passagem, muito merecida, pois apresenta a tortura psicológica do inocente nas mãos do assassino por um ângulo completamente diferente.
+Vendido como road movie, mas apenas porque na maioria do tempo a dupla está andando de carro por Washington DC, nós testemunhamos as reviravoltas que vão surgindo durante esse feriado muito louco como se estivéssemos fazendo esses rolês com eles, pois esses são personagens baseados em pessoas que todos nós conhecemos na vida real. Barulhentas, cheias de piadas ruins e de se achar, é horrível conviver com extrovertidos como Henry e Margaret, mas os vendo através de uma telona é menos insuportável. E temos a chance de assistir a uma confusão que a maioria de nós nunca se colocaria.
+
+Lost Holiday não é nada do que parece à primeira vista, e termina de um jeito que não é possível antever antes dos últimos minutos. Farejamos a novidade conforme ela vai acontecendo, e a trama se desdobra de maneira complexa demais para dar tempo de bolarmos a nossa própria teoria a respeito de um caso policial. Tudo isso acrescenta uma névoa muito bem-vinda em filmes que geralmente já têm tudo sob controle. O Lost do título (perdido) está aí realmente querendo dizer algo.
 

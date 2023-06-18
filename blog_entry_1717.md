@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2019-05-30'
+date: '2018-03-10'
 tags:
 - beer
-title: Goose Midway Session IPA
+title: Goose IPA
 ---
 
-É amargada com lúpulos aromáticos e vem para acompanhar um queijo mais parrudo ou alguma comida picante.
+Um pequeno soco no estômago que te manda acordar da vida e saborear esta cerveja lupulada com intensidade sem perder o frescor; colarinho de respeito.
 

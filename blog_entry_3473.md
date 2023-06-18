@@ -1,28 +1,34 @@
 ---
 categories:
-- writting
-date: '2019-02-26'
-link: https://www.imdb.com/title/tt0099012
+- coding
+date: '2008-02-07'
 tags:
-- movies
-title: Simplesmente Alice
+- english
+title: 'Silly regex trick: finding the project who failed inside a big VS solution'
 ---
 
-A primeira impressão deste filme é que muitas donas de casa gostariam de ter um Doutor Yang para se consultar. Woody Allen, para variar, joga várias ideias criativas em um único filme, que vai de chás milagrosos que fazem ter o dom do conhecimento e honestidade ou ficar invisível até ex-namorados como fantasmas conselheiros. A irmã de Alice é Dorothy e ambas vivem em mundos distintos. Não tenho certeza se os nomes dos personagens são uma coincidência ou um jogo de metalinguagem deste brilhante roteirista.
+I know what you going to think about this one: "silly trick". That's why I just put it in the title. Anyway, that is something I use everyday, so I thought it might be useful to who cares about productivity.
 
-"Simplesmente Alice" sabe que está dialogando com fantasia, mas se trata de um drama com um nível de amadurecimento em seu texto admirável. É sobre a redescoberta de uma mulher de que está viva, e de que pode mudar o rumo de seu destino. E a pergunta que o filme quer fazer é: e se ela pudesse?
+Let's say you have to manage a big solution in Visual Studio made of more than 30 projects, and needs to rebuild all them. Suddenly, something goes wrong. The question is: how to discover, in a heartbeat, what project has failed?
 
-Ao mesmo tempo Woody Allen demonstra uma sensibilidade admirável sobre a natureza humana, criando personagens que são não apenas críveis, mas como os que gostaríamos que existissem na vida real. Por exemplo: em um momento é oferecido a um homem um chá que o torna invisível. O primeiro pensamento que vem para ele é se há algum efeito colateral, pois ele é pai de uma criança. Quantos roteiristas se preocupam com esse grau de humanidade ao escrever seus filmes?
+{{< image src="find-error-regex2.png" caption="Find Error in VS projects using regex" >}}
 
-E unir fantasia com realismo não é o trabalho completo. Há diálogos maravilhosos que irão divertir o espectador mais atento ao contexto em que são ditos. O humor de Allen dialoga em vários níveis, indo do escracho completo (um casal invisível saindo de um carro: "caramba, nada mesmo surpreende esses motoristas de táxi em Nova York!") ao comentário social sagaz ("não há nada mais sexy que uma católica que já expirou").
+Note that you need to enable "Regular Expressions" option in the Find Dialog (not shown here).
 
-A história é simples, mas caminha por detalhes sutis: madame de meia-idade mãe de filhos após 16 anos casada à deriva sonha com a possibilidade de se encontrar romanticamente com alguém que conheceu no colégio das crianças. Conheceu é muito: trocou duas frases de passagem com o comum mas artista Joe. O livro responsável pelo reencontro era sobre um romance, o que já diz sobre Alice, que é uma ex-religiosa, mas que ainda vive em um conto de fadas burguês, respirando mais do ar de Platão do que no planeta Terra.
+What I'm saying inside this regex is "find the first number different from zero followed by a space and the letters err". This lead us to the first project who has at least one error:
 
-Os chás de um curandeiro oriental, Doutor Yang, servem como escape e tratamento de uma pessoa orientada pela culpa e ressentimentos. Ela se arrepende de ter interrompido seu sonho de trabalhar com moda, mas agora começa a pensar em virar escritora ("eu escrevia quando era pequena"). Estamos falando de fato de uma madame mimada que passa o dia inteiro fazendo compras e é casada com um ricaço herdeiro que logicamente a trai com mulheres mais provocantes. Alice sempre usa o mesmo figurino, e seu chapéu com detalhe vermelho soa quase como uma gozação do seu puritanismo com um pequeno fio de malícia.
+    ------ Build started: Project: FailedProj, Configuration: Release Win32 ------
+    Compiling...
+    stdafx.cpp
+    Compiling...
+    FailedProj.cpp
+    FailedProj.cpp(2477) : error C2039: 'Blablabla' : is not a member of 'IBlabla'
+    Build log was saved at "file://c:Projects...ReleaseBuildLog.htm"
+    FailedProj - 2 error(s), 0 warning(s)
 
-A naturalidade com que a história se desenrola faz surgir a suspeita que Allen está usando material da vida real, e só compete com os joguetes fantasiosos da história, que brinca com as possibilidades de ouvir o que os outros falam por nossas costas ou escolher quem queremos que nos ame para sempre. Este é um filme redondo do começo ao fim e muitas ideias que foram sendo recicladas pelo cinema e TV (a bebida do amor foi tema de um dos melhores episódios da série de animação A Filosofia de Rick And Morty: Primeira Temporada (anotações), por exemplo, mas cuja coincidência é apenas a ideia inicial).
+If you think "what about when a project generates more than 9 errors? the regex wouldn't be able to catch this case", well, you're right. Anyway, that's the quicker form to search for the unsuccessful project inside a big solution. A more complex yet complete regex would be:
 
-Allen também nesse filme demonstra como vai ganhando mais e mais controle absoluto da câmera e dos seus enquadramentos. Aqui ele está fascinado pelo giro em torno do personagem, mas seus enquadramentos são tão elegantes que o truque sempre funciona. E estamos acompanhando a história sob o ponto de Alice, para quem o mundo começa a girar em torno, o que faz sentido até temático.
+    [1-9][0-9]* err
 
-Simplesmente Alice é daqueles conjuntos de direção e roteiro que apenas um Allen trabalhado por alguns anos é capaz de proporcionar. Ele está bem acima da média dos filmes anuais que o diretor se propõs a entregar atualmente, e merece revisitas para vermos o quão bom ele era quando lhe era dado tempo para retrabalhar melhor seus textos.
+For me, the first version is enough. It is faster to type, simpler to catch and solves my problem. I hope it can solve yours =)
 

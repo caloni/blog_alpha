@@ -1,34 +1,26 @@
 ---
 categories:
 - writting
-date: '2011-04-07'
-link: https://www.imdb.com/title/tt0399295
+date: '2011-06-26'
+link: https://www.imdb.com/title/tt1305806
 tags:
 - movies
-title: O Senhor das Armas
+title: O Segredo dos Seus Olhos
 ---
 
-O roteirista-diretor Andrew Niccol, que esteve nessa função dupla nas produções Gattaca e S1mone, além de ter escrito O Show de Truman e O Terminal, dessa vez parte para uma imersão no real, tratando do submundo do comércio ilegal de armas.
+Juan José Campanella ([O Filho da Noiva], Clube da Lua) mostra como um roteiro bem escrito e uma direção impecável conseguem apresentar duas tramas entrecortadas de uma maneira tão fluida e transparente que, no fundo, parece que estamos assistindo a uma única história. Como se fosse pouco, a narrativa se desenvolve alternando um presente e um passado separados por mais de 25 anos. Em uma obra com tantas virtudes, acompanhar a evolução do personagem de Ricardo Darín (Un Cuento Chino) através desses dois momentos em sua vida é mais um bônus nesse filme que merece ser assistido por muitas e muitas vezes.
 
-Nicholas Cage faz Yuri Orlov, um negociante de armas ilegais, durante sua ascenção em uma carreira mais que controversa. Narrado em off, insere-se no papel por completo, e ao mesmo tempo que narra as atrocidades que seus clientes fazem com as armas e toda a podridão que existe por trás de sua profissão, parece nunca fazer parte disso, alheio aos problemas locais das várias partes do mundo que visita. Mesmo sua mulher, tão desejada em sua adolescência, não o preenche tanto quanto sua profissão, e nisso é relevador que o momento em que seu filho dá seus primeiros passos é o mesmo momento em que ele fica em êxtase, não pelo filho, mas sim pelo fim da Guerra Fria, significando mais possibilidades de comércio de armas para ele.
+Desde o início é possível perceber uma atração sutil, apenas entre gestos, olhares e diálogos enviesados, entre Benjamín Esposito (Darín), um conselheiro legal de origem humilde, e sua recém-chegada superiora, Irene Menéndez Hastings (Villamil). Vinda de família rica e superior em vários quesitos em comparação com o humilde Esposito, a delicadeza inata de apresentar posições invertidas em uma sociedade na época ainda patriarcal favorece nossa identificação com o drama de Esposito, que, assim como persegue seu suspeito número um do seu agora romance, e, como se soubesse o que o espera em sua vida, parece perseguir um outro futuro para si mesmo a todo momento em que a vê.
 
-Há um motivo para a introdução do personagem ser tão corrida e artificial. Como veremos a partir do segundo ato, a única coisa que torna Yuri Olov vivo são as vendas de armas que negocia de maneira tão magistral. E vê-lo comparar suas vendas a sexo não é um ato gratuito.
+De acordo com o IMDB, o filme foi produzido com a mesma proporção de tela do antigo Cinemascope (2.35:1), e Campanella aproveita cada milímetro que pode (nem que seja a fresta da porta de um elevador refletida no espelho) para trazer à tona não apenas os personagens, mas aspectos marginais da trama que servirão, em outros momentos, para informações relevantes da trama. Uma exceção a essa conduta metódica nas cenas pode ser vista no que deve ser uma das sequências sem cortes mais geniais que o Cinema produziu, que se inicia em um estádio lotado durante uma partida de futebol e que, impecavelmente, consegue se aproveitar dessa largura tela para exibir toda a ação que lá transcorre. Se você é aficionado por técnicas de filmagem, apenas essa sequência serviria de incentivo para assistir ao filme inteiro.
 
-Vindo de uma família que no passado fingiu ser judia para conseguir se repatriar, o que reforça sua crise existancial em torno do seu mundo, Orlov admira sua própria importância no contexto em que se insere. A parte que melhor resume toda essa imersão é quando, conversando com sua mulher sobre seu trabalho, em certo momento diz que não é sobre o dinheiro, mas que ele faz aquilo realmente bem. Cada vez que ele visita seus clientes, aos poucos nos sentimos cada vez mais como ele: morto por dentro, onde a única excitação é negociar as armas.
+Ainda no campo técnico, a fotografia belíssima do brasileiro Félix Monti consegue traduzir eficientemente a austeridade do escritório de advocacia e transpor seu clima de formalidade para a tela. A trilha sonora, por sua vez, se insere delicadamente nas belíssimas composições de quadro que, por denotarem muitas vezes ação e reflexão ao mesmo tempo, não conseguiriam atingir o tom de maturidade necessário caso uma música do próprio filme atrapalhasse a concentração do protagonista (e, claro, do próprio espectador).
 
-Por outro lado, a insistência de manter seu irmão mais novo no negócio em momento nenhum é justificado. Talvez apenas um conforto tê-lo presente, pois não constitui nenhuma ajuda.
+Além da direção e do roteiro, é o próprio Campanella que faz a montagem, e nela consegue fundir permanentemente presente e passado, de uma maneira muitas vezes intrigante. Em alguns momentos, a história do homicida se funde com a do próprio Esposito, como quando, em um acesso de raiva, atinge acidentalmente sua amada. Criando esses reflexos durante todo o tempo (note como Esposito faz uma cantada no início do filme da mesma forma como seu antigo amigo), a sensação que temos é a de existirem vários detalhes que se encaixam no filme como um todo.
 
-Mesmo com um tropeço aqui e ali, a direção consegue destacar as características de cada personagem em cada região e unificar Yuri como o elemento em comum, o facilitador de todos. Nicholas Cage, por sua presença de espírito prova mais uma vez ser um bom ator nos papeis certos, e aqui não é uma exceção.
+E por falar em pista-recompensa, por que não falar de uma muito mais sutil, que não me atrevo a dizer aqui, mas que se relaciona diretamente com parte do desfecho da história, 25 anos depois?
 
-Ao mesmo tempo, as narrações em off conseguem na maioria do tempo harmonizar com a ação, que não é pouca. O próprio uso dessas transições entre as regiões serve como continuidade da própria história, em um ótimo exemplo de economia narrativa.
+O fato é que O Segredo dos Seus Olhos contém mais segredos em sua composição do que uma resenha sobre ele poderia revelar. Felizmente, sua tecnicidade não afeta sua compreensão e, portanto, nos mesmos moldes de O Poderoso Chefão, é possível, sim, acompanhar a trajetória de Esposito como um "simples" espectador e, ao mesmo tempo, ter uma mini-aula sobre como é fazer Cinema.
 
-Ao evitar computação, principalmente em cenas como o pouso do avião, ou até mesmo os tanques enfileirados na entrada da Ucrânia, torna toda a experiência mais realista. Houve um trabalho igualmente recompensado em escalar figurantes locais, que se adequam ao cenário como nunca, como a cena em que vemos uma velha senhora enfileirando os ladrilhos de uma rua. Ao mesmo tempo, nota-se a competência em tentar encaixar a melhor fotografia e trilha sonora com o momentum do personagem.
-
-Mesmo com todas essas virtudes técnicas, a filosofia (ou a mensagem) por trás da história é o ponto forte do longa, que consegue, em seus momentos finais, causar o que todos esperamos ao assistir um bom filme: reflexão.
-
-Trivia
-
-É irônico o fato dos produtores do filme trabalharem realmente com gunrunners de armas ilegais para conseguir as armas, e ser mais barato as armas reais do que se falsificassem.
-
-O filme foi financiado por instituições internacionais (nenhuma produtora dos Estados Unidos bancaram o filme).
+[O Filho da Noiva]: {{< relref "o-filho-da-noiva" >}}
 

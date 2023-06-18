@@ -1,24 +1,25 @@
 ---
 categories:
 - writting
-date: '2012-02-19'
-link: https://www.imdb.com/title/tt1568346
+date: '2019-03-29'
+link: https://www.imdb.com/title/tt9353436
 tags:
+- cinemaqui
 - movies
-title: 'Millennium: Os Homens que Não Amavam as Mulheres'
+title: Mike Wallace Está Aqui
 ---
 
-O filme é um remake do sueco homônimo de dois anos atrás, sendo que ambos foram criados a partir da mesma fonte: o primeiro livro da trilogia escrita por Stieg Larsson que se tornou um best-seller póstumo (Larsson faleceu um ano antes da primeira publicação). Dadas essas condições, me parece que o projeto possui uma missão particularmente difícil: adaptar um livro complexo por conter uma trama cheio de detalhes que se debruça sobre a psique de seus personagens (e são muitos) e sair-se melhor do que o filme original (do contrário, para que fazer de novo?).
+Mike Wallace Está Aqui é um documentário ágil que pega bastante da linguagem televisiva, mas sem mastigar muito a informação. O formato parece estar um pouco acima do conteúdo, o que não é um problema para a televisão, mas é para o cinema.
 
-Quanto à adaptação, só tenho a dizer que foi uma tortura acompanhar as histórias de O Código da Vinci ou até mesmo Anjos e Demônios, ambos livros de mistério escritos por Dan Brown e que se tornaram filmes de Ron Howard. O problema principal desses filmes é jogar toneladas de informações sem qualquer discernimento e sem imaginar que o espectador poderia precisar voltar algumas "páginas" após alguns acontecimentos lá pelo meio do "livro". Já o trabalho do roteirista Steve Zaillian em O Homem que Não Amava as Mulheres enriquece a experiência cinematográfica justamente por expor poucos mas convincentes detalhes sobre a relação entre seus personagens, mantendo assim a essência literária (não, não li o livro, mas dei uma olhada na Wikipedia depois).
+De qualquer forma, se você nunca ouviu falar de Mike Wallace, assim como eu, este é um bom ponto de partida. Vemos vários entrevistados durante o filme em pontas dos vários programas que Wallace comandou (ele está na ativa desde a época do rádio). Não nos dizem quem eles são, mas há alguns momentos muito bons das entrevistas. Isso é virtude do entrevistador ou do entrevistado?
 
-E se o roteiro é competente, ele brilha nas mãos de David Fincher (Clube da Luta, A Rede Social) e dos seus costumeiros montadores Kirk Baxter e Angus Wall ao evocar rapidamente esses detalhes em cenas que muitas vezes duram menos de 30 segundos (como um determinado roubo), mas que criam pequenas dobras nos detalhes que vamos acumulando durante o filme com efeito duradouro. Para notar isso, basta assistir aos primeiros 10 minutos, que conseguem com perfeição delinear as principais motivações de seus personagens em sequências rápidas e econômicas.
+E por falar em questões fundamentais, como será que eram as entrevistas antes deste que dizem (no filme) ter iniciado uma nova forma de fazer jornalismo popular? Não sabemos. Se tudo é questão de perspectiva, este filme não te dará nenhuma, apenas a homenagem a este repórter que surgiu do show business fazendo propaganda de cigarro.
 
-Com isso, temos todas as cartas na manga ao chegarmos na mansão de Henrik Vanger (Christopher Plummer) através de uma evocativa nevasca. Henrik é o presidente do império familiar e contratou o jornalista Mikael Blowkvist (Daniel Craig) para investigar o desaparecimento de sua sobrinha-neta Harriet Vanger ocorrido quatro décadas atrás. E se a introdução sobre a família dos Vanger confunde pela quantidade de nomes e detalhes sobre cada um de seus membros, além da localização das respectivas casas, isso apenas reflete a futura dificuldade de Mikael em juntar todas as peças sobre um fato ocorrido há muito tempo na pequena e cinzenta cidade.
+E esta é a maior falha do filme de Avi Belkin, que acerta ao trazer para o cinema a tela dividida em entrevistado e entrevistador, um luxo da largura da projeção que a televisão não tinha na época. Mas apesar de um efeito bonito, ele é usado mais como formato, mesmo, pois logo depois de usar Belkin volta para as filmagens (editadas) feitas para a televisão.
 
-Da mesma forma, o comportamento meio desajeitado e vulnerável de Blowkvist vem apenas criar um contraponto à ágil e objetiva Lisbeth Salander (Rooney Mara), vista por nós como uma mulher forte e determinada, ainda que considerada pela Justiça mentalmente incapaz. A interpretação por Rooney Mara, aliás, costuma roubar cenas até mesmo onde a expressão forte da face de Craig é compartilhada. De fato, sua história se mescla com vários detalhes do desaparecimento de Vanger, mesmo sem soar apelativo. Para uma medida da importância de Lisbeth no filme/livro, basta acompanharmos o que ocorre com a moça em vários momentos icônicos do filme e que amplia o significado da busca pelo suposto assassino de Harriet.
+Esta é a biografia de um repórter que alterou o formato das perguntas das entrevistas, sendo menos formal ou mais direto, e ele é usado como trampolim para outros repórteres que se inspiraram nele. No filme se fala sobre os principais momentos de sua vida na televisão e um pouco de sua vida pessoal mais para o final.
 
-Porém, a história ainda é complexa, e é preciso entender que o filme precisa se alongar o suficiente para explicar o andamento das investigações e as mudanças que ocorrem no relacionamento dos personagens, e para isso temos a quase sempre evocativa trilha sonora, que cria pares de momentos para refletir e agir com uma maestria apenas igualável à fotografia límpida e cristalina de Jeff Cronenweth, mais um fator para não desgrudarmos os olhos da tela. Esses dois fatores aliados a uma história sempre fluida compensam a longa duração.
+Se trata de um trabalho ágil, mas sem uma narrativa coesa, que nos leve a entender o que quer que seja a respeito do seu trabalho. No final sequer ficamos sabendo se era ele que fazia as perguntas mais pertinentes (ou impertinentes) ou ele era apenas um pau mandado do dono da produtora.
 
-Até mesmo a conclusão conturbada, por reunir diversos eventos em pouco espaço de tempo, não diminui a expectativa do filme como um todo, pois do momento em que vemos a brilhante introdução musical do início, que pode se tornar um elemento de união para dois outros futuros filmes que venham a fechar a trilogia literária, ao momento em que testemunhamos o desfecho dos personagens principais, não há dúvida que a atmosfera criada por Fincher e os diálogos inspirados de Zaillan (ou Stieg Larsson) conseguirão entreter novamente os espectadores mais exigentes que tentarem uma revisita.
+Ou seja, o filme começa na incógnita e termina do mesmo jeito. Ele é divertido em um nível moderado, mas informativo em um nível frustrante. E isso para um documentário é um pecado e tanto.
 

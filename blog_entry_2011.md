@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2022-06-25T21:49:59-03:00'
+date: '2023-04-24'
 tags:
-- movies
-title: Kedma
+- food
+title: Kazu Lámen
 ---
 
-Amos Gitai é o mestre sionista em criar merdas colossais. Desde sua obra mais odiada, Carmel, que foi aplaudida na sessão da Mostra onde o vi porque o dito cujo estava presente, tenho uma afeição pelo diretor. Ele possui um certo charme em ser desafiado intelectualmente e por exacerbar o drama de seu povo em filmes repletos de simbologias vazias e mensagens secretas para quem conhece a desprezível cultura. Assim como ciganos são tradicionalmente mal vistos pela sociedade mundial, Amos consegue gerar a mesma sensação pelo seu povo, o que talvez seja o efeito contrário do que ele espera. O que comprova mais uma vez que apesar de tecnicamente soberbo, suas obras estão imbuídas de uma moral duvidosa. Quiçá odiosa.
+Este foi o melhor miojo que já comi. Porém, é uma casa de lámen, o que complica um pouco minha avaliação. Eu conseguiria fazer um miojo muito semelhante a este shio se praticasse algumas vezes. O dono desta casa de lámen conseguiu e cobra 50 reais por um miojo. Mas é um muito bom.
 

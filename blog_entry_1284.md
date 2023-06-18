@@ -1,23 +1,24 @@
 ---
 
-Eis mais um drama francês sobre a pobreza dos imigrantes e dos desprezados pelo sistema. Porém, este é o pano de fundo de uma história de uma amizade tocante entre duas amigas que compartilham tudo isso, e também uma pitada de romance porque... porque sim. Mas o rapaz é segurança de mercado e dançarino, o que já coloca um pouco de arte e a questão de gêneros na fórmula mágica esquerdista. Esse pessoal não perde tempo contando apenas um drama de cada vez.
+Diferente de como o Cinema costuma retratar o velho Oeste americano, o ator e diretor Tommy Lee Jones abraça um projeto que planeja desmistifica-lo. Em uma versão desprovida do romantismo de Bravura Indômita dos Irmãos Coen, a história de Dívida de Honra é um road-movie com dois excluídos da sociedade levando outros três em uma viagem reveladora antes mesmo do seu início.
 
-A força motrix dessa história é Dounia, uma garota magrela, petulante e esperta que é interpretada com energia por Oulaya Amamra. Ela é amiga desde infância de Maimouna, como deixa claro na química entre as duas, em um momento onde ambas brincam de andar em uma Ferrari imaginária. Maimouna é interpretada pela estreante Déborah Lukumuena e é um bom achado. Seu jeito espontâneo funciona perfeitamente neste conto de duas meninas que tentam alçar voo no mundo do crime com a sombra do perigo sempre as ameaçando.
+A primeira sequência do filme mostra de diversos ângulos uma paisagem que não tem nada a oferecer exceto o sol nascendo, e uma fotografia que oprime por suas cores drenadas e um pó que consome as pessoas. A pequena cidade com meia-dúzia de casinhas serve de suporte para seus esparsos habitantes, ou sobreviventes. Coisas triviais como música ou um pedaço de queijo são valiosos, e é por isso que a bela trilha sonora de Marco Beltrami arrisca apenas um tema e é usada em momentos pontuais.
 
-Essa sombra simboliza não apenas o peso da vida que as duas levam, sem perspectiva nenhuma, mas também ilustra a vida "underground" das duas, sempre em becos, corredores estreitos e passagens secretas pelo submundo da periferia (o que também as coloca como abandonadas da sociedade). Há violência no filme o suficiente para torná-lo sério, para que entendamos que se estas duas brincam todo o tempo é para tentar amenizar o drama da vida real.
+Nossa heroína é a solteirona Mary Bee (Hilary Swank), que vemos logo no início arando um solo intragável e tentando arrumar um casamento através do seu senso prático. Uma mulher naquele ambiente precisa de ajuda. Nesse caso não é machismo, mas a sobrevivência em um ambiente hostil.
 
-A posição que as duas assumem é de tomar as rédeas da vida e não aceitar "esmolas", como um programa de emprego de recepcionista. O que elas querem é o que todo jovem hoje em dia quer: vida fácil, emoções fáceis e muito, muito dinheiro. Não se trata de um pecado que o filme não explique para as duas as regras da realidade, já que a própria mãe de Dounia as subverte, fazendo graça e sendo demitida junto com ela da boate onde o filho trabalha.
+Por falar em ambiente, é curioso perceber como é ele o responsável por moldar os valores dessa sociedade, onde a religião acaba se limitando a definir e manter acordos (com o apelo da "honra"), enquanto a invasão de propriedade, como dito por um personagem, é 90% da lei, e cuja pena é o enforcamento de quem não se dispõe a respeitar o mais fundamental dos direitos alheios. Além disso, uma questão recorrente e que se torna mais óbvia no terceiro ato são as diferenças entre o Oeste e o Leste do país, quase que sugerindo um separatismo velado.  É preciso lembrar, no entanto, que ainda não existe um país de fato, e Dívida de Honra pode muito bem figurar entre os filmes que ilustram as bases de uma sociedade em formação, comparando-se (não em importância, claro) a O Nascimento de uma Nação.
 
-A parte mais interessante da história é acompanhar a escalada das duas. Porém, não se trata de nada mais do que oferecer serviço para a traficante local, que por algum motivo surreal é mulher. Aliás, a diretora deste filme é mulher, o que coloca as expectativas mais realistas um pouquinho mais à esquerda. Escrito e dirigido por Houda Benyamina, fica claro do começo ao fim que o objetivo é manipular as emoções do público para um desfecho que os faça "pensar": se alguém desse uma oportunidade para essas meninas, nada disso teria acontecido.
+Embora até aqui o filme pareça uma maravilha impecável, seu Calcanhar de Aquiles começa na direção e termina na escolha do elenco. Apesar do trabalho eficiente de Tommy Lee Jones, a sua atuação como o "velho inútil" com um passado de erros acaba perdendo o tom da narrativa. Seus momentos mais engraçados são os que ele justamente não os força para ser. Já Hilary Swank tem uma personagem tão coesa que flerta com sua unidimensionalidade. É uma personagem trágica por definição, mas a escolha da atriz por seu trabalho passado é uma bobagem. Sua nostalgia da "civilização" (mais do que sua família) e seu tom pragmático são uma fraqueza fundamental em sua existência. Paradoxalmente é Tommy Lee com seu papel de bruto que ganha notoriedade por nos fazer voltar sempre à questão histórica e cultural. É um homem simples cujas conclusões o tornam complexo.
 
-Mas a superfície idealizada de Benyamina não é tão trivial assim. Há uma sensação muito interessante no filme que tenta discutir como tudo se torna um círculo vicioso, e quase arranha um arco que lembra o muito mais poderoso Tropa de Elite, de José Padilha, que não entrega em nenhum momento respostas fáceis.
+Por fim, mas não menos importante, a ação acontece no território de Nebraska, criando uma comparação curiosa com os habitantes do filme recente homônimo (para não-americanos, uma maneira de entender a sociedade, embora talvez simplista). Não é incomum por lá os ventos levarem toda a plantação e invernos rigorosos acabarem com muitas vidas. Quase podemos fazer um paralelo com o Nordeste brasileiro primordial, onde o nordestino, de acordo com Euclides da Cunha (Grande Sertão: Veredas), é antes de tudo um forte.
 
-Aqui há algumas respostas fáceis, mas com um clima de desesperança tão contagiante quanto a felicidade efêmera das meninas. Sabemos que é difícil haver um final feliz, mas também sabemos que, havendo ou não, isso importa muito?
-
-Dentro da dialética proposta por Benyamina não há outra opção para as meninas senão passar por necessidade e ter que lutar dentro do crime organizado por um pouco de "oportunidade". É esse o destino de mentes inquietas que não aceitam o caminho convencional de ter que trabalhar. Afinal de contas, depois de viver na miséria quase completa (apesar de ter um iPhone), todos merecem uma chance de fazer a vida às custas dos outros criminosos.
+Há um momento em que o personagem de Tommy Lee resolve um possível conflito com os índios em cinco minutos, alertando sabiamente: se eles virem, não tente usar a espingarda, entre na carroça e dê um tiro na cabeça. Essa cena fascina menos pela tensão e mais pela possibilidade de isso ter ocorrido de fato em algum canto do Oeste selvagem.
 
 ---
-categories: []
-date: '2019-05-20'
-tags: null
-title: Dixit (Jogo)
+categories:
+- writting
+date: '2016-11-27'
+link: https://www.imdb.com/title/tt4730986
+tags:
+- movies
+title: Divines

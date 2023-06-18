@@ -1,11 +1,11 @@
 ---
 
-Uma das cervejas dessa cervejaria de Nova Lima, próximo de BH, mas tomado em Diamantina (no restaurante de esquina próximo da descida).
+Para um trigado não muito doce nem denso. Tomado no Pub Catedral.
 
 ---
 categories:
 - writting
-date: '2018-08-08'
+date: '2018-01-03'
 tags:
 - beer
-title: Double Hop Monster IPA
+title: Dos Caras California Common

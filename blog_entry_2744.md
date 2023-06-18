@@ -1,25 +1,20 @@
 ---
 categories:
 - writting
-date: '2017-03-28'
-link: https://www.imdb.com/title/tt3790172
+date: '2010-12-24'
+link: https://www.imdb.com/title/tt1039651
 tags:
-- cinemaqui
 - movies
-title: O Mundo Fora do Lugar
+title: O Mundo Encantado de Gigi
 ---
 
-O Mundo Fora do Lugar é uma sutil defesa dos psicologicamente abusados (coincidentemente mulheres em um relacionamento). Ele usa um drama familiar do passado com revelações de novela, mas faz isso com muito charme e boa música. E é um filme alemão, o que nesse caso quer dizer que as emoções estarão contidas, embora elas existam.
+O que mais me incomodou nesse filme foi o gráfico, nem tanto pela sua limitação, mas por não existir uma história suficientemente interessante para esquecermos das limitações da técnica usada, como foi com Wallace e Gromit: A Batalha dos Vegetais, ou até mesmo A Fuga das Galinhas. Simplesmente temos uma história batida, com poucos diálogos inspiradores que atravessam os seus 87 minutos de duração em um estado de quase chatice.
 
-O pilar da história é Sophie uma mulher que não consegue manter um relacionamento por mais de dois anos (Katja Riemann). Ela ironicamente realiza cerimônias não-oficiais de casamento, e observa com um certo tom de sarcasmo o que torna um casal junto por quase uma década. Sua paixão é cantar, como sua mãe, mas ela é demitida por estar no lugar errado. Ela não se encaixa no mundo em sua volta, e tudo o que resta a ela é se cobrir em sua cama e lamentar.
+Fora os minutos finais, quando temos a cena de voo de Gigi, o resto é totalmente descartável.
 
-Até que seu pai (Matthias Habich) a chama. Ele achou na internet uma cantora de ópera que é idêntica à sua esposa (Barbara Sukowa), falecida há um ano. Ela é famosa e vai se apresentar no Metropolitan, em Nova York. E ele praticamente exige que ela faça um voo intercontinental e vá se encontrar com ela, em uma situação obviamente embaraçosa.
+Ainda com respeito à arte, os cenários podem até ter sido bem construídos, com uma textura e cores suficientes para estabelecer o "clima" por trás do sonho de Gigi. Contudo, mesmo estes ficam diminuídos frente aos movimentos de câmera que insistem em mostrá-los como se fosse algo que merecesse ser visto por longos segundos.
 
-Mas mais embaraçoso fica por conta do temperamento fechado e mau-humorado de Caterina Fabiani. Ela atrai fama com seu canto lírico e afasta todos seus potenciais amigos, mantendo na linha seu ex-marido e apenas um tratamento correto, embora distante, com seu filho. O que ela menos quer é uma "fã" que acha que sua mãe se parece muito com ela.
+Lembrando quase sempre um videogame, e não seria exagero supor que a intenção dos produtores era exatamente essa: criar uma plataforma para rodar um filme publicitário que mais tarde seria lançado como um jogo. Essa é a impressão que passa, com suas fases e pulos desengonçados de seus personagens.
 
-O tom do filme escrito e dirigido por Margarethe von Trotta não é de comédia, mas de um drama que usa a sobriedade e pomposidade de seus cenários aliado a tons escuros ou neutros para evocar um distanciamento entre os personagens, mesmo os da mesma família. A exceção são as casas do agente de Caterina, que vira o novo namorado de Sophie, e um personagem-surpresa, que não vale a pena explicar, já que estragaria todo o desenvolvimento de uma investigação que revela mais sobre a família de Sophie do que do paradeiro desse personagem.
-
-Digamos apenas que a sutileza de von Trotta não favorece muito a narrativa. Detalhes como a forma como os homens bebem vinho pode ser extremamente revelador de suas personalidades, e até o uso da música Norma poderia ser vital para entendermos melhor o que está acontecendo em dado momento.
-
-No entanto, apesar de drama pesado, este é um filme que sempre vai pelo caminho mais delicado. Seus personagens, embora bem interpretados, são contidos, e apenas a petulância da figura de Matthias Habich, o pai de Sophie, é capaz de chacoalhar um pouco as coisas.
+Por fim, se até crianças chegaram a dormir em um filme desses, o que dirá os adultos, que não têm opção melhor do que tentar se colocar na posição de uma criança de 4 anos; e mesmo isso não é garantidor de diversão.
 

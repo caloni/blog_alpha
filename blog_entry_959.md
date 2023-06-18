@@ -1,24 +1,16 @@
 ---
 categories:
 - writting
-date: '2019-02-06'
-link: https://www.imdb.com/title/tt8359848
+date: '2012-03-27'
+link: https://www.imdb.com/title/tt0083798
 tags:
 - movies
-title: Clímax
+title: Cliente Morto Não Paga
 ---
 
-Eu me mantenho em forma o suficiente para subir escadas sem cansar e não ser um total vexame na cama. E posso dizer para família e amigos que cuido de minha saúde, em corpo e espírito. Como costumam dizer, eu me preocupo com meu bem estar. Mas quem são esses jovens de corpos sarados, e por que há tanta mágoa em seus corações? A mente e o corpo são uma unidade. Um templo. Assim como a escola é um templo do conhecimento. E quando se profana esse templo tudo é permitido. Mas nada nos convém.
+O filme começa com um horizonte de papelão e com uma chuva mais falsa que o próprio horizonte: está pronta referência dos filmes noir, gênero clássico que mistura um clima opressivo, uma fotografia escura e um detetive desiludido apaixonado por uma estereotipada femme-fatale. Nesse caso, o detetive é Steve Martin, que quando é enfocado pela primeira vez dispensa explicações sobre o teor cômico do filme: inebriado pelo tom solene dos filmes que homenageia, o detetive Rigby Reardon parece não perceber que é uma caricatura de ícones da história do cinema, que reencarnavam o mesmo personagem, mas sem sua desenvoltura cômica.
 
-O diretor Gaspar Noé nos prepara um delírio em forma de filme. Ele usa alguns truques técnicos que sabe usar com maestria, como movimentos de câmera suaves que mudam o ângulo enquanto filmam, com pouquíssimos cortes para manter a tensão do realismo pulsando. Somos avisados no começo que o que veremos foi baseado em eventos reais, e isso ajuda a manter um equilíbrio doentio em muitos momentos entre prazer estético e mal estar.
+Na verdade, o aspecto de um filme noir é exatamente o oposto, e é isso que causa a maior parte da estranheza durante o longa. Ao misturar cenas de diversos filmes do gênero e seus atores-ícones, a história consegue se inserir de penetra nessa atmosfera mesmo em momentos hilários, como quando Martin pede repetidamente ao amigo "Humphrey Bogart" para usar gravata.
 
-A música psicodélica é um chamado desde o começo para uma viagem sensorial, que aos poucos vai se tornando extra-sensorial. Esses jovens se entregam à dança como o único refúgio que possuem de uma vida miserável. Ouvimos de seus próprios testemunhos que estão dispostos a tudo para vencer em um torneio de dança e que não houvesse ela em suas vidas o suicídio seria uma alternativa. Nós conhecemos rapidamente o histórico e a relação de alguns desses jovens e por intuição sabemos que a vida que eles levam não vale a pena viver. Ou são jovens franceses mimados que cresceram ouvindo que possuem direito à felicidade. Há uma tênue diferença entre ter direitos e conquistá-los.
-
-Por que falo sobre isso? Há uma bandeira da França como palco onde ensaiam e Deus é citado no final. Algo me diz que a base onde eles foram criados não presta. Apenas intuição. Mas quando eles descobrem estar sob efeito de um alucinógeno, passa a ser certeza. O corpo é sarado e a mente é uma bomba relógio. Você pode dizer que estou sendo moralista, mas o reflexo do próprio filme e seus personagens me diz isso. Aborto, incesto, baixa estima, sexo de escape e rancores entre todos. Acompanhamos as desavenças entre eles através de diálogos. E apenas se passaram três dias de ensaio.
-
-Há uma falha grave, contudo, em toda essa história de desastre. Essas pessoas são extremamente desagradáveis. Egocêntricas. Falsas. Isso explica por que os desentendimentos passam a ficar mais extremos, mas ao mesmo tempo essas pessoas não servem para o espectador depositar nelas sua empatia. Ele pensa no meio de tudo isso: que se matem.
-
-O que resta de "Clímax", então, é seu efeito estético, a experimentação, a técnica. Essa é intensa, nos puxa para dentro do filme e não nos deixa mais sair. Andamos junto da câmera entre idas e vindas de corredores intermináveis e ficamos imaginando o que deve estar acontecendo onde não estamos olhando. Os gritos e gemidos de fora da cena serve para isso. Mas nunca é algo que estamos verdadeiramente interessados em saber. E por isso o filme precisa nos exibir dizeres sobre a vida e a morte para se tornar relevante.
-
-E voltamos para a França, essa grande ficção, onde os cidadãos se ajudam, todos juntos, em uma grande comunidade diversa e tolerante. Essa imagem é o que vemos no palco. E a realidade é o que acontece quando colocam ácido de realidade na bebida. E nem isso é novidade, na arte e na vida. "In vino veritas". Saúde.
+Engraçado mais pela situação do que pelas tiradas cômicas, ainda que elas existam moderadamente, Cliente Morto é uma mistura de dois gêneros que funciona parcialmente em ambos. Talvez o detetive de Martin não tenha envelhecido bem, como tantos outros noir fora de seu tempo.
 

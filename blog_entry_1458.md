@@ -1,21 +1,33 @@
 ---
 categories:
 - writting
-date: '2016-10-20'
-link: https://www.imdb.com/title/tt3365280
+date: '2017-10-02'
+link: https://www.imdb.com/title/tt7308092
 tags:
 - cinemaqui
 - movies
-title: Entre Linhas
+title: Entre Irmãs
 ---
 
-Entre Linhas ensaia ser pretensioso, ou de alguma maneira intrincado. Porém, para que isso aconteça, é necessário que seus personagens tenham algo a dizer além de questões existenciais sobre relacionamentos. E mesmo que fôssemos elogiar sua emaranhada montagem, que preza por idas e vindas entre dois namorados muito parecidos da protagonista, isso se torna impossível a partir do momento que percebemos que não se trata de descobrir um motivo para o vai-e-vem temporal, mas de ser diferente pelo simples prazer de ter mais personagens a dizer frases aleatórias sobre a vida.
+Entre Irmãs é um filme de época feito também em outra época. Uma época mais ingênua, onde filmes como esse não seriam tão clichês, tão bregas. Infelizmente, para o público de hoje, clichê e brega é exatamente o que ele se propõe.
 
-E, se formos notar, o próprio filme entrega sua mediocridade em uma produção em estilo independente, que mistura uma trilha sonora tensa de mistério com uma fotografia televisiva, personagens na contra-luz e, como já disse, uma montagem que não é necessariamente confusa; apenas irrelevante.
+E longo. Muito longo.
 
-Irrelevante pelo menos para a história que deseja contar. É sobre um diretor de teatro (Harry Hamlin) e uma escritora, Jacqueline (Irina Björklund), construindo uma peça sobre os próprios relacionamentos da autora, ou são relacionamentos fictícios vivenciados por ela como em primeira pessoa (que pode estar montando um personagem através de diferentes impressões de relacionamentos). No final das contas, isso não importa, já que seus namorados são galãs tirados de telenovelas, o que torna as comparações insípidas. Um gosta de velejar sozinho por longos dias; outro teve problemas na justiça e tenta se reabilitar através de sua arte. Esse segundo até gera algumas questões interessantes, como a incapacidade de Jacqueline de viver sob o mesmo teto com outro criador (artístico). Além disso, Jack tem uma amiga que tem um cachorro e com quem discutem esses relacionamentos e questões mais genéricas, como traição. Daí você me fala: isso tem ou não tudo a ver com uma telenovela mexicana cult?
+A história você já conhece. Duas irmãs separadas pelo destino, cada uma delas vivendo uma vida diferente e oposta. Órfãs desde pequena, elas vêm de uma infância dura, criadas pela tia. Tornam-se costureiras como ela, e como uma delas diz, "costureira não é uma coisa que você pode deixar de ser". E assim o são, cada uma a sua maneira. Uma vira mulher do cangaceiro mais procurado do Nordeste. Outra vira membro da alta sociedade de Fortaleza.
 
-Para piorar, há um flerte sempre no ar entre diretor/roteirista que beira o clichê, mas que o atinge completamente quando começam os testes com a atriz que  fará a heroína no teatro. Não por acaso, o narrador de tudo isso é o próprio diretor, que começa toda essa elucubração ao observar os atores em cena junto de sua roteirista.
+Elas perdem a comunicação por muito tempo, e o tempo do filme corre muito bem, em lapsos, pequenos saltos que vão dando a impressão de meses e anos. A única forma de uma saber da outra é lendo o jornal. E ambas aparecem nele. Em seções diferentes, claro. Uma nas fofocas da burguesia e outra é manchete junto de seu marido, Carcará, o cangaceiro sanguinário que tem fama de arrancar os olhos de suas vítimas.
 
-O que salva parcialmente a experiência é que ele pode ser visto como um longa metragem rápido. O que não o salva é se você perceber que no fundo é um curta-metragem, quase um conto, extremamente longo. Nesse caso, apenas desejo que você goste de novelas.
+Mas na história você vai ficar sabendo, se já não descobriu, que Carcará tem seus motivos para fazer o que faz. Afinal de contas, ele e sua gangue são os mocinhos, e como todos mocinhos sempre têm seus nobres motivos para derrubar sangue. E quando lhes falta um motivo, ainda resta a desculpa da necessidade da dureza de seu exército, em briga constante com o coronelismo do Sertão, vivendo sua liberdade sofrida com pouca água.
+
+O Sertão, aliás, é filmado com um tom sépia escuro que favorece a dramatização acima do realismo, o que faz todo sentido neste drama romântico e teatral. Parece que estamos assistindo a uma reconstrução estilizada do livro onde foi baseado o filme. Do outro lado, na cidade "grande", Fortaleza carece de cenários que a estabeleça como metrópole da época, se mantendo sempre sob fachadas que sabemos que é papelão cinematográfico. A qualidade de produção de uma novela.
+
+Ainda nos detalhes técnicos, é curioso notar como a irmã que vira burguesa embranquece sua cara assim que adentra o teto da família Afonso Coelho. O uso inspirado da iluminação nos figurinos o tornam mais dignos, assim como a maquiagem. Note como fica o rosto da irmã cangaceira depois de lutar por muito tempo, sujo e cheio de sequelas do castigo solar.
+
+Se a direção de arte faz valer cada centavo -- embora fique claro que são poucos centavos -- o mesmo não se pode dizer da trilha sonora. Não que ela seja barata. Muito pelo contrário. A música de Gabriel Ferreira é atordoantemente expansiva. Seu entusiasmo sem limites em pontuar cada cena, cada sorriso, cada choro ou batalha a torna supérflua e irritante. E paradoxalmente ela é responsável por aumentar o sono das quase três horas de projeção.
+
+Já quem, de maneira alguma, prejudica o filme é seu elenco. Afiado, harmonioso e com alguns bons momentos desperdiçados pelo roteiro, o trio formado por Marjorie Estiano, Nanda Costa e Julio Machado mereceria material melhor. Se Julio, que faz Carcará, convence desde a primeira cena (e a estende) como um homem que vive a única opção de sobrevivência que o destino lhe ofertou, as irmãs, vividas por Marjorie e Nanda, reafirmam suas personalidades através das expressões no rosto e no olhar que são muito mais sutis que os diálogos expositivos, que já revelam todos os pensamentos e sentimentos dos personagens antes que seja dada a chance disso ser revelado simplesmente olhando para eles. Como quando a irmã que fica cuidando da tia comenta que ela anda doente, apenas para que na cena seguinte ela volte para casa e a tia comece a tossir copiosamente.
+
+Esse é apenas um dos primeiros exemplos de um roteiro burocrático, que apenas segue o que lhe é esperado. Como dividir as atenções entre as irmãs (como o título sugere) e fazer rimas previsíveis com o que vai acontecendo com ambas. Como o filme é longo o espectador tem a chance de aprender durante o filme. Se uma coisa acontece a uma irmã, pode apostar com seu vizinho de poltrona que algo parecido (ou idêntico) irá acontecer com a irmã. E logo na próxima cena. No terceiro ato, quando acontece o esperado (a essa altura você já sabe), a narrativa soa ainda mais preguiçosa, pois vai apenas jogando os eventos em uma ordem simples e sem emoção. Exceto, claro, a já citada trilha sonora estridente.
+
+O diretor Breno Silveira também mereceria material melhor. Sem conseguir aplicar o seu golpe de sorte de estreia em longas com o milagre "2 Filhos de Francisco", cambaleia um confuso "Gonzaga: De Pai pra Filho" e agora entrega este "Entre Irmãs" como sua descida derradeira. Aparentemente lhe falta história à altura, e um roteiro menos criativo. Mas não técnica. O filme é um prazer visual desprovido de alma. Se "2 Filhos" é pura emoção e técnica competente, "Entre Irmãs" é pura técnica com emoção competente. E você já viu alguma vez na vida uma emoção ser "competente"?
 

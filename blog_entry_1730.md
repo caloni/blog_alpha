@@ -1,13 +1,11 @@
 ---
 categories:
 - writting
-date: '2015-06-21'
+date: '2017-08-27'
 tags:
 - food
-title: Gratia Agere Res
+title: Grão Gourmet Fazenda Macaubas de Cima Patrocínio MG
 ---
 
-É um sabor agradável, de vinho jovem, mas ainda não muito maturado.
-date: "2015-06-25"
-categories: [ "food" ]
-title: "Gratia Agere Res"
+Corpo fraco, amadeirado, ligeiramente ácido e azedo no retrogosto; bem seco, não deve agradar maioria dos paladares. Apenas mais uma manhã de domingo tomando puro.
+

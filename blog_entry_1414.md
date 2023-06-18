@@ -1,20 +1,18 @@
 ---
 categories:
 - writting
-date: '2013-02-06'
-link: https://www.imdb.com/title/tt2132324
+date: '2019-03-31'
+link: https://www.imdb.com/title/tt0363589
 tags:
 - movies
-title: Elefante Branco
+title: Elefante
 ---
 
-Novo filme do diretor Pablo Trapero ([Abutres]) traça na rotina das pessoas que ajudam uma favela a construir moradias dignas para seus habitantes um panorama fiel não apenas dos moradores, acostumados a viver às margens de uma sociedade que escolheu convenientemente ignorá-los em um terreno delimitado, mas da sociedade como um todo. E os que não são mostrados no filme obviamente são os que ignoram essa triste realidade.
+Coincidência ver esse filme agora, pois semana passada estava conversando com um amigo meu sobre Boyhood e se a produção de um filme deve/pode interferir na forma como o filme é visto e avaliado. Esta é uma coincidência porque Elefante é um caso mais extremo ainda, pois se assistimos sem saber nada de antemão descobrimos apenas nos créditos finais que seus personagens são estudantes reais, e isso reflete diretamente sobre como enxegamos este trabalho excepcional de Cinema.
 
-O Elefante Branco do título se refere a um hospital que nunca terminou de ser construído no mesmo terreno onde hoje moram cerca de 30 mil pessoas em condições precárias. O projeto do hospital passou por duas democracias e uma ditadura sendo que hoje repousa apenas um esqueleto que faz sombra aos casebres ajuntados. Desse fato duas curiosidades fascinantes também se erguem logo no início do longa: 1) a figura de um hospital inacabado faz rima com os programas sociais inacabados que deixaram a favela se alastrar e permanecer na área e 2) a própria definição de dicionário de elefante branco pode ser aplicada aos moradores, pois governo nenhum soube o que fazer daquelas pessoas vivendo à margem da sobrevivência por décadas a fio.
+Isso porque ele fala sobre o crônico problema americano de estudantes dos colégios entrarem com armas na escola e cometerem assassinatos em massa seguido de suicídio. Sim, é sobre isso, e o título "Elefante" para o filme é mais que conveniente, pois estabelece uma ligação completamente aleatória e sutil com um desenho de elefante na parede de um dos garotos envolvidos no massacre e também é uma deliciosa metáfora sobre o elefante na sala que ninguém quer falar sobre, ou pelo menos falar como se deve sobre: enquanto se masturba intelectualmente a psicologia envolvida nesse fenômeno, jovens que seguiriam sua vida normalmente estão sendo abatidos.
 
-A presença de um jovem padre recém-chegado, um padre veterano e um padre morto representa não apenas a desesperança de dias melhores, mas a sua desconstrução, como se a simples existência da religião naquele lugar fosse a prova do descaso de Deus com aquelas pessoas. Portanto, faz todo o sentido elas estarem constantemente cansadas e com medo. Não se enxerga saída em nenhum momento, e o que soa mais cruel é essa alegoria da vida real. Os moradores também participam do jogo, pela sua inércia e apatia.
+Pois bem, nesse filme é impossível não falar sobre isso da maneira mais honesta possível porque o elefante está bem no meio da sala de aula, sendo alvo de escárnio, e ninguém fala nada. Aqueles personagens do filme são alunos que realizam as mesmas atividades que o vemos realizando no filme. O filme nos mostra seus nomens comuns e o que fazem durante o dia na escola, seja praticar fotografia, ficar de namoro, conversar com as amigas. Van Sant os acompanha como um grande prólogo que nos faz observar a vida comum e ordinária de estudantes. Não há nada de especial em nenhum momento no filme. A vidinha dessas pessoas não nos traz nada digno de se fazer um filme.
 
-Trapero não diz nada disso, mas mostra através de sons e imagens. O som ecoa e aumenta o seu "grito" em momentos específicos da trama como a querer chamar a atenção do resto do mundo. As belíssimas sequências estão cumprindo a função de nos mostrar extensão: no início a extensão da própria favela (miséria); no protesto dos moradores a extensão da opressão; e, por fim, na irretocável sequência da fuga de carro, a extensão daquele destino que parece insistir em se repetir, imutável.
-
-[Abutres]: {{< relref "abutres" >}}
+Exceto pelo massacre. Pois depois disso a vidinha dessas pessoas foi tomada para sempre. Não existirão mais essas pessoas no mundo. E o impacto que o filme quer gerar é que esses são personagens da vida real. Apenas o massacre não aconteceu. Mas poderia acontecer. Mas tirando isso este é um filme completamente trivial que não oferece nada ao espectador. Se ignorarmos este elefante na sala, não há nada que resta senão a vida como ela é. Vale a pena conversar sobre isso?
 

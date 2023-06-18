@@ -1,16 +1,23 @@
 ---
-categories:
-- writting
-date: '2014-03-24'
-link: https://www.imdb.com/title/tt2042568
+categories: []
+date: '2017-10-06'
 tags:
-- movies
-title: 'Inside Llewyn Davis: Balada de um Homem Comum'
+- ccppbr
+title: Inscrições para o 14o. CCPPBRSP
 ---
 
-Os irmãos Coen (Onde os Fracos não Têm Vez, Fargo) são mestres em contar histórias prosaicas e mergulhar fundo nas sensações que estas geram, sempre de uma forma estilizada e com uma fotografia impecável (Bravura Indômita, O Grande Lebowski) que evoque o ambiente onde se situa a ação. Esse "Inside Llewyn Davis - Balada de Um Homem Comum" não foge à regra e se torna a partir da transformação em ficção do músico folk Dave Van Ronk um verdadeiro estudo de personagem.
+Como já foi avisado anteriormente (mas agora com local definido), nosso próximo encontro acontecerá em São Paulo (capital) dia 25 de Novembro de 2017 (sábado), no Station Vila Olímpia. Teremos uma sala equipada para palestras e coffe-break de manhã e de tarde. Mais detalhes no hot site do evento.
 
-Porém, está longe de ser apenas isso, pois o filme é apenas um recorte do que foi a vida do cantor. O Llewyn Davis (Oscar Isaac) do filme é um fracassado que consegue inspirar a discórdia de todos ao seu redor, procurando um sofá onde dormir toda noite. Sua relação com o gato de um casal de amigos aos poucos se torna seu termômetro social, pois em determinados momentos o bichano assume uma importância desproporcional ao que está acontecendo (como ao discutir a gravidez de uma ex-amante). A música folk, obviamente, se transforma em um narrador onisciente de tão indispensável. A atuação de Oscar Isaac é precisa em diversos momentos, onde o nervosismo e o sarcasmo do sujeito vai saindo aos poucos. Seu rival mais visceral é um velho duplamente repugnante (John Goodman).
+As inscrições pagas estão abertas! O valor único por participante é de R$ 50 reais, o que lhe dará direito a:
 
-Tematicamente "Inside Llewyn Davis" faria um par indissociável de Turnê (2010), ambos apresentados após o mais leve e simpático Frances Ha, pois é a história de um fracasso artístico e pessoal levados ao extremo. Porém, repito, essa é apenas a visão dos diretores, o que faz toda a diferença. Note a inversão de expectativas da sequência inicial em que ele leva uma surra e verá a mágica de como a narrativa é que constrói a nossa visão de mundo.
+ - Entrada ao evento, com duração o dia inteiro com no mínimo cinco palestras.
+ - Coffee-break de manhã e de tarde.
+
+Você pode efetuar o pagamento por PagSeguro ou Bitcoins. Para o primeiro apenas efetue o pagamento e seu email será cadastrado como participante. Para mais de um participante efetue quantos pagamentos for necessário. Para o segundo efetue o pagamento com o preço de venda em reais do BTC equivalente a R$ 50 reais no dia da transação e envie seu nome, email e link da transação para wanderley@caloni.com.br. Para mais de um participante efetue o valor equivalente e nos informe os nomes e emails dos participantes.
+
+1HY1EABQBdvGprR41xVeWcjqKbEN2PvxcP
+
+Basicamente isso é o que temos de informação. Em breve a programação será divulgada. Fique de olho!
+
+E nos vemos lá =)
 

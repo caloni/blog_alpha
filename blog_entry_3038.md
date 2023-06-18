@@ -1,16 +1,23 @@
 ---
 categories:
+- reading
 - writting
-date: '2020-05-19'
-link: https://www.imdb.com/title/tt0086087
+date: '2020-07-12'
 tags:
 - movies
-title: Pauline na Praia
+- quotes
+title: Pauline Kael
 ---
 
-Woody Allen em francês e sem restrição de idade. Pauline é uma ninfeta com seus catorze, dezesseis anos no máximo, mas carece de curvas que a apresente aos homens do filme, mais velhos. Três faixas de idade criam tensão em um filme onde a ninfeta irá aprender as mazelas do amor, e como as emoções humanas simplesmente mascaram nossas contradições internas, movidas por desejos mais intrínsecos de nossa própria formação como indivíduos.
+"Big money and its way of life is exciting; the vulgarity of the powerful is ugly, but not boring. This, you begin to feel, is how people behave when they're strong enough to act out their fantasies of wealth. In this environment, if you're not making it in a big way, you're worse than nothing -- you're a failure." (I Lost it at the Movies)
 
-Sua prima mais velha a leva para a praia. Com uma lascívia apenas encontrada em mulheres que acabaram de se divorciar de um peso morto, ela encontra seu antigo amigo de antes do casamento e os dois estão bem, psicologicamente e fisicamente. Mas entra na jogada um tiozão mais boa pinta, que conquista pela postura, e mais uma vez o amigo se vê obrigado a se manter na famigerada e temida Friendzone. Contra a vontade, é claro, pois ele já se declarou inúmeras vezes.
+"Never give them the excuse to stay home if there's anything there on the screen." (Conversations with Pauline Kael)
 
-Há muitos desentendimentos e relações assimétricas em Pauline na Praia, e tudo é delicioso de acompanhar. São situações dinâmicas, que parecem possuir mais diálogo do que o necessário quando na verdade é exatamente o que precisamos para extrair o máximo de cada personalidade. Rohmer faz aqui um dos seus melhores trabalhos como diretor e roteirista, pois o resultado é incompleto, ambíguo, trágico, cômico e irônico. Tal como a vida humana. É um filme difícil de desvendar como obra cinematográfica porque não é assim que deve ser feita sua leitura. Apesar do intricado jogo do roteiro as emoções humanas no filme estão mais para poesia incompleta. E por ser incompleta, mais humana, mais profunda.
+"There are so few movies that really offer you anything that's fresh, that's different, that's exciting." (Conversations with Pauline Kael)
+
+"When Shoeshine opened in 1947, I went to see it alone after one of those terrible lovers' quarrels that leave one in a state of incomprehensible despair. I came out of the theater, tears streaming, and overheard the petulant voice of a college girl complaining to her boyfriend, "Well, I don't see what was so special about that movie." I walked up the street, crying blindly, no longer certain whether my tears were for the tragedy on the screen, the hopelessness I felt for myself, or the alienation I felt from those who could not experience the radiance of Shoeshine. For if people cannot feel Shoeshine what can they feel?" (Conversations with Pauline Kael)
+
+"Movies are so rarely great art that if we cannot appreciate great trash we have very little reason to be interested in them."
+
+"In the arts, the critic is the only independent source of information. The rest is advertising."
 

@@ -1,23 +1,22 @@
 ---
 categories:
 - writting
-date: '2022-10-20T18:53:11-03:00'
+date: '2011-08-22'
+link: https://www.imdb.com/title/tt0151804
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Como Está Katia?
+title: Como Enlouquecer seu Chefe
 ---
 
-Do circuito ucraniano nessa Mostra temos este Como Está Katia, um filme tenso que no início parece ser mais um sobre as injustiças do mundo, mas que aos poucos vai descolorindo sua realidade dramática, drenando nossos sentimentos. Logo vemos um mundo onde apesar do egoísmo não ser desejável nos membros de uma sociedade, ele acaba se revelando inevitável ou talvez até necessário.
+Depois de ter visto Como Matar seu Chefe, resolvi rever o que eu considero uma versão melhorada (ou mais profunda) da questão do "Dilbert Life Style", que é esse Como Enlouquecer seu Chefe, ou mais corretamente no original, Office Space (Ambiente de Escritório?).
 
-"Exceto para a mãe de Katia", você diria, caro leitor, humano como eu, e portanto disposto automaticamente a defender o lado mais fraco. Porém, o que não está no script é que nem sempre o lado mais fraco é o que inspira nossa solidariedade. Não se observarmos de maneira totalmente racional. Cada um possui sua agenda. Às vezes é difícil se desvencilhar de sua ideologia, mas faça um esforço. Se coloque no lugar de todos os envolvidos.
+Dirigido e escrito por Mike Judge (que, mais ator que diretor, atua no longa), Office Space é uma tentativa divertida de recriar as figuras que povoam um ambiente de escritório em personagens absurdos e caricatos. Temos os tipos mais comuns da selva de cubículos: o chefe folgado que nada faz senão importunar seu subordinados com pedidos burocráticos (Gary Cole, como o irritante Bill Lumbergh), o funcionário subalterno que possui uma função descartável e que treme sempre que a empresa está prestes a enxugar seu quadro, e, para resumir, praticamente todas as figuras que ou não trabalham porque estão ocupados importunando seus subordinados ou porque precisam seguir as exigências burocráticas destes.
 
-A história é simples e direta: Anna é uma médica de primeiros socorros e tem sua filha (a Katia do título) atropelada por uma adolescente, a filha de uma política eminente, e agora precisa decidir entre o sistema de vingança judiciário que colocará a jovem rica na gaiola por uns 2 a 3 anos ou aceitar de bom grado um acordo financeiro que irá resolver boa parte dos seus problemas em família, além dos problemas de publicidade da tal política. Ela pondera sobre isso até o momento que sua filha, na UTI, não resiste. E agora, sim, é sobre "justiça".
+É exatamente no grupo de subordinados que se encaixam as figuras que mais aprecio (por motivos óbvios: é minha profissão): os desenvolvedores de software que se sentem cercados de superiores lhe enchendo de procedimentos obscuros e improdutivos. Temos o nerd que se sente insubstituível (David Herman como Michael Bolton), o estereotipado indiano (Ajay Naidu, só engraçado pelo sotaque) e o nosso "herói incidental" Peter Gibbons (Livingston) que, massacrado pela sua vida profissional e afetiva, acaba sendo hipnotizado em uma sessão de terapia e muda seu comportamento no trabalho radicalmente. Por uma ironia do destino, ele acaba fazendo o que todos que trabalham em lugares semelhantes sonham em fazer: não dar a mínima.
 
-A pintura nua da realidade no filme acaba se tornando bem cruel. Como Está Katia faz questão de caminhar por todas as relações da heroína: mãe, irmã e até o amante com família. Tudo para extrair, ou melhor dizendo, drenar as cores de sua realidade. No final não sobra nada. As sombras dominam este drama com todas as forças, e não há forças para suportar o cálculo objetivo de uma equação em que a morte de uma criança está na balança.
+Como eu disse, todos "sonham", mas nunca irão realizar as façanhas de Gibbons porque, acuados no trabalho, temem pela garantia dos seus empregos. Essa, na minha visão, é a característica mais impressionante do longa, que reforça a ideia do herói em Gibbons, mesmo que acidentalmente.
 
-Não se busca mostrar os dois lados de uma maneira simplista, mas escancarar a desesperança de um sistema não injusto, mas humano, e portanto falho. Note como todos neste drama estão seguindo seus instintos mais primitivos, o mecanismo de autoproteção, e é isso o que mais dói: é um mecanismo. E as engrenagens que o fazem girar são impessoais. A sensação de não conseguirmos fazer nada a respeito é o que faz com que a fotografia do filme seja tão drenada de luzes, exceto as luzes piscantes da ambulância de Anna que percorre as redondezas em busca da próxima fatalidade.
+Porém, de maneira inteligente, o roteiro cria os personagens estereotipados e os acompanha para a conclusão de cada um (ou dos mais importantes). Isso, por outro lado, tem a clara desvantagem de colocar constantemente a situação de Gibbons para segundo plano em várias cenas, o que gera um efeito de filme mutilado, embora sempre divertido.
 
-Como Está Katia é sobre nosso pior lado como sociedade: o distanciamento social metafórico. Ninguém é responsável pelo próximo em uma democracia capitalista, a ficção doentia de que cada um de nós faz parte do mesmo povo. Seja na Ucrânia, no Uzbequistão ou qualquer outro país.
+Com um final menor, que resolve de maneira muito maniqueísta um dilema apresentado já no terceiro ato, Office Space ganha atenção mesmo pela remontagem de um ambiente de trabalho que, infelizmente, muitos de nós vive seu dia-a-dia.
 

@@ -1,35 +1,14 @@
 ---
 categories:
-- coding
-date: '2023-04-11'
+- writting
+date: '2020-09-29'
+link: https://www.imdb.com/title/tt0154420
 tags:
-- interview
-title: Código para Fibonacci
+- movies
+title: Festa de Família
 ---
 
-Zero e um são os primeiros números Fibonacci e todos os outros que se seguem são a soma dos dois números anteriores. Ou seja, para implementar isto em código basta:
+O Dogma 95 foi um movimento iniciado por diretores escandinavos como Lars von Trier (conhecido fã de Hitler e seu trabalho) que "prega" que um filme para fazer parte do Dogma deve seguir uma série de limitações em sua produção, como ausência de sons inseridos, a câmera deve acompanhar os atores onde eles forem (então ausência de iluminação artificial também). Ausência de qualquer peça de cenário que já não fizesse parte da locação. A lista é bem extensa e torna a tarefa do diretor mais desafiadora e interessante.
 
-- Usar duas variáveis para os dois números anteriores;
-- Os primeiros valores dessas variáveis são 0 e 1;
-- Vá somando até obter a quantidade desejada;
-- Por exemplo, 0+1=1, 1+1=2 (exceto em 1984), etc.
-
-Um codigozinho que imprime os cinco primeiros números para deixar mais claro:
-
-```
-void Fibonacci()
-{
-    int num1 = 0, num2 = 1;
-    int total = 5;
-
-    cout << "fibonacci of first " << total << " elements\n";
-    for (int i = 0; i < total; ++i)
-    {
-        int result = num1 + num2;
-        cout << result << ' ';
-        num1 = num2, num2 = result;
-    }
-    cout << endl;
-}
-```
+E por isso que este representante do Dogma 95 até que é bem feito, o que faz pensar se não estamos saturados de efeitos no cinema que nos impedem de ver a coisa real. A edição, os diálogos e o movimento da câmera fazem todo o serviço de não sentirmos falta de ver algum filtro específico para dramas familiares. E neste filme o que mais pesa é o seu drama de família escancarado para todos verem. É um vexame a céu aberto. E ele escala como você nunca viu em suas festas de fim de ano com os cunhados que gostam de falar de política junto das piadas de pavê.
 

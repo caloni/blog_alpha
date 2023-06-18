@@ -1,47 +1,44 @@
 ---
 
-Em meio a uma febre de consumismo, no dia 24 de agosto de 1995, foi lançado a revolução no sistema gráfico da Microsoft: a interface do Windows 95. Ela foi considerada muito mais amigável que suas versões anteriores. Ainda possuía a vantagem de não necessitar mais de uma instalação prévia do DOS, passou a suportar nomes de arquivos longos, incluir suporte a TCP/IP e dial-up networking integrados. Muitas mudanças foram feitas no sistema em si, como a passagem para 32 bits (como já vimos, parcial) e o novo conceito de threads, que é o que veremos com mais detalhes neste artigo.
+Bem-vindos. Esta é a série [História do Windows]. Nos anos 90, a relação IBM/Microsoft era muito próxima por causa do desenvolvimento do OS/2, o projeto de um novo sistema operacional. As empresas cooperavam entre si e tinham acesso uma ao código da outra. A Microsoft desejava avançar seu desenvolvimento no Windows, enquanto a IBM desejava que todo trabalho futuro fosse baseado em OS/2. Para resolver essa tensão as duas combinaram que a IBM iria desenvolver o OS/2 versão 2.0 para substituir o OS/2 versão 1.3 e o Windows v3.0, enquanto a Microsoft iria desenvolver um novo sistema operacional, o OS/2 versão 3.0 para depois suceder ao OS/2 anterior. Com tudo combinado entre as grandes corporações, é lógico que esse acordo foi por água abaixo.
 
-{{< image src="windows_95.png" caption="Desktop do Windows 95" >}}
+A relação IBM/Microsoft foi terminada. A IBM continuou a desenvolver o OS/2 v2.0 enquanto a Microsoft mudou o nome de seu ainda não lançado OS/2 v3.0 para Windows NT. O Windows NT foi tão massivamente promovido que a maioria das pessoas nem se deu conta que ele era um OS/2 redesenhado. Ambas as empresas obtiveram os direitos de utilizarem as tecnologias do OS/2 e do Windows que foram desenvolvidas até a quebra do acordo.
 
-> Bem, o "novo conceito" de threads já havia sido implementado no Windows NT desde o seu rascunho e já existia no início do projeto, mas não no velho Windows 3.1 de 16 bits, que foi a versão anterior ao 95. Parte dos requisitos do sistema foi que ele seria compatível com o NT no nível de aplicativo, o que de fato aconteceu.
+A IBM lançou a versão 2.0 do OS/2 no início dos anos 90. O sistema foi uma grande melhora sobre o antigo OS/2 v1.3. Apresentava um novo sistema de janelas orientado a objetos (o Workplace Shell) para substituir o Presentation Manager, um novo sistema de arquivos (o HPFS) para substituir o sistema FAT utilizado pelo DOS e Windows e aproveitou todas as vantagens das capacidades 32 bits do processador 386 da Intel. Ele também rodava programas DOS e Windows 3.0, uma vez que a IBM tinha acesso e direito a essas duas tecnologias.
 
-Para esse milagre da multiplicação das threads acontecer a Microsoft foi obrigada a portar boa parte do código de 16 bits para 32 e entrar em modo protegido. Mesmo assim, um legado razoável do MS-DOS permaneceu debaixo dos panos suportando o novo sistema operacional através de suas interrupções e código residente. Ou seja, havia ainda partes do SO rodando em modo real.
+Para concorrer com a IBM a Microsoft lançou o Windows 3.1, com pequenas melhorias à sua versão anterior, a 3.0.
 
-Com o lançamento da nova versão do NT foi necessário modernizar a interface para ser compatível com o Windows 95, o que fez com que o Windows 4.0 fosse mais bonitinho. No entanto, o núcleo dos dois sistemas era completamente diferente. Enquanto um era 32 bits puro desde o primeiro int main, o outro era um sistema de compatibilidade para fornecer um Windows caseiro que fosse vendável e desse à Microsoft o retorno financeiro esperado. Deu certo por um bom tempo, até a chegada do Windows XP, que uniu as duas famílias de sistemas operacionais, pois descontinuou o Windows ME e tornou o Windows 2000 Professional mais amigável para o uso geral.
+A Microsoft continuou a desenvolver o Windows NT. A empresa requeriu os serviços de Dave Cutler, um dos chefes arquitetos da VMS na Digital Equipment Corporation (hoje parte da Compaq) para desenvolver o NT dentro de um projeto de sistema operacional mais capaz. Cutler estava desenvolvendo um seguimento para o VMS na DEC chamado Mica, e quando a DEC desistiu do projeto ele acabou trazendo para a Microsoft sua especialidade nesse sistema e algum engenheiros do projeto com ele. A DEC acreditava que ele usara parte do código do Mica no Windows NT e acabou processando a Microsoft. A empresa de Gates teve que eventualmente pagar 150 milhões para a DEC, além de concordar em suportar o chip Alpha CPU da DEC na plataforma NT, e é por isso que existe uma pasta com essa arquitetura no CD de instalação do Windows NT.
 
-E como funciona o sistema de threads? Uma thread é uma linha de execução de código. Ser um sistema multithreading significa que ele permite que múltiplas linhas de execução de código rodem em paralelo e, dependendo do número de processadores, ao mesmo tempo.
+Sendo um sistema operacional completamente novo o Windows NT sofreu com questões de compatibilidade com hardware e software geralmente usados na época. Ele era também concentrado em recursos, o que o deixava aceitável apenas para máquinas maiores e mais caras. Tanto que inicialmente foi dirigido a servidores de rede, workstations e máquinas de desenvolvimento de software. Por causa disso, a maioria dos usuário foi incapaz de migrar para a plataforma NT. E o Windows NT ainda estava projetado graficamente como o Windows 3.1, o que era inferior ao OS/2 Workplace Shell. Em resposta, a Microsoft começou a desenvolver um sucessor para o Windows 3.1, um projeto de codinome Chicago. Chicago tinha por objetivo apresentar uma nova GUI que competisse com o OS/2 Workplace Shell. Ele também foi projetado para ser de 32 bits e suportar execução multitarefa, como o OS/2 e o Windows NT. Só algumas partes do Chicago, entretanto, foram convertidas para 32 bits, e o resto permaneceu em 16. A Microsoft argumentou que a conversão total iria atrasar em muito o projeto, o que acabaria por encarecê-lo além do limite.
 
-Porém, em uma plataforma com apenas um processador, como é natural supor, apenas uma thread roda de cada vez. Para dar a impressão de rodar ao mesmo tempo o tempo de execução das threads é dividido entre elas, de forma que aparentemente todas elas rodam ao mesmo tempo. Essa unidade de divisão do tempo de execução é conhecido como quantum, ou Time Slice, e é caracterizado como o tempo em que uma thread fica rodando até que outra thread tome o seu lugar, ou seja, ocorra uma troca de contexto (switch context). Quando uma thread é criada ela ganha seu primeiro time slice (se não iniciar suspensa) e divide o tempo de processamento com outras threads que executam no mesmo processador.
+Para o Chicago foi desenvolvida uma nova API para substituir a de 16 bits do Windows anterior. Essa API foi chamada de Win32, e a outra renomeada para Win16. Houveram 3 ramificações: uma para o Chicago, outra para o NT e uma terceira chamada Win32s, que foi um subconjunto para o Windows 3.1 garantir a compatibilidade retroativa das versões. Também foi pensado num mínimo de compatibilidade entre o Chicago e o Windows NT, mesmo que os dois possuíssem duas arquiteturas radicalmente diferentes.
 
-{{< image src="threads_architecture.gif" caption="Arquitetura multithreading" >}}
+Em setembro de 1994 é lançada o Windows NT 3.5. A versão Workstation substituiu o Windows NT 3.1 e a versão Server o Windows NT 3.1 Advanced Server.
 
-Para exemplificar o uso de threads imagine um programa que quebra senhas por força bruta. Funciona assim: enquanto uma thread fica cuidando das mensagens da janela, como digitação e movimentação do mouse e janela, uma segunda thread irá ficar constantemente tentanto descobrir sua senha digitada por tentativa e erro. Toda vez que é alterado um caractere na senha, a thread quebradora reinicia seu trabalho.
+{{< image src="windows_workstation.jpg" caption="Windows NT 3.51 Workstation" >}}
 
-{{< image src="threads_pwdbreaker.png" caption="PwdBreaker" >}}
+Como todo projeto de sucesso, a primeira coisa a ser feita é definir os objetivos principais. No caso do Windows NT não foi diferente. É importante para nós sabermos que objetivos eram esses e como eles foram mudando de acordo com o momento histórico de forma a analisarmos as conseqüências. Em outubro de 1988 os objetivos do novo sistema operacional eram os seguintes:
 
-Todo programa inicia com uma thread que roda seu int main. A criação de uma nova thread é feita através da chamada da função API CreateThread.
+ - Compatibilidade com OS/2;
+ - Segurança;
+ - Suporte a POSIX;
+ - Multiprocessamento;
+ - Rede integrada;
+ - Confiabilidade.
 
-    void StartBruteForceThread()
-    {
-      g_bruteForceThread = CreateThread(NULL, 
-        0, 
-        BruteForceThread, 
-        NULL, 
-        0, 
-        &g_bruteForceThreadId);
-    }
+Como o Windows 3.0 fez um sucesso enorme, a compatibilidade nativa passou a ser do próprio Windows caseiro, sendo o OS/2 sendo implementado como um mero subsistema. Subsistema no Windows basicamente quer dizer ambiente virtual de execução de processos feitos para rodar em outro sistema operacional. Essa maneira de suportar processos de outros sistemas operacionais foi usado tanto para o OS/2 quanto para o Windows 16 bits, o MS-DOS e aplicativos POSIX, o padrão utilizado para arquiteturas derivadas do UNIX.
 
-Para quem está acompanhando [a série de artigos sobre o Windows] deve lembrar que assim como na criação de janelas, na criação de uma thread é passada uma função de callback. Só que diferente de uma função de janela, essa função não é executada na mesma thread que criou a janela, mas é um novo "int main" para uma nova linha de execução, que irá rodar em paralelo com a primeira. Essa segunda linha de execução termina quando retornamos dessa função, que no nosso exemplo é nunca, mas poderia ser quando fosse terminada sua tarefa.
+O tempo do projeto foi inicialmente estimado em pouco mais de dois anos. Ao final, quatro anos e meio se passaram até a chegada do primeiro release, que era grande e lento para as máquinas da época. Assim foi iniciado o projeto Daytona, que teve como novos objetivos tornar a nova versão do NT mais rápida e confiável. Foi lançada então a versão 3.51.
 
-{{< image src="threads_pwdbreaker_windows.png" caption="CreateThread exemplificada" >}}
+O Windows NT é um sistema operacional de 32 bits. Isso quer dizer, entre outras coisas, que ele suporta duas propriedades fundamentais dos sistemas operacionais modernos: modo protegido de execução e memória virtual. O modo protegido de execução permite a divisão entre a parte confiável do sistema operacional, que roda em kernel mode, e a parte não-confiável, que não possui acesso às instruções privilegiadas; a parte não-confiável chamamos de user mode. A memória virtual abstrai a memória física e permite isolamento de memória entre aplicativos, evitando que um programa invada a memória do outro.
 
-Bom, acho que para explicar o uso de um sistema multithreading em um artigo só não basta. Mas para explicar por que sua senha deve ter mais de três caracteres, acho que é o bastante. Até a próxima.
+Além disso, foi criada uma camada de abstração do hardware (HAL, Hardware Abstraction Layer) que livrou boa parte do código de ter sido escrito em assembly, fazendo assim que ele fosse facilmente portável.
 
-[a série de artigos sobre o Windows]: {{< relref "historia-do-windows" >}}
+[História do Windows]: {{< relref "historia-do-windows" >}}
 
 ---
 categories:
 - coding
-date: '2007-10-08'
-title: História do Windows - parte 5.0
+date: '2007-09-04'
+title: História do Windows - parte 4.0

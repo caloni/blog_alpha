@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2011-07-20'
-link: https://www.imdb.com/title/tt1216475
+date: '2014-09-26'
+link: https://www.imdb.com/title/tt1939659
 tags:
 - movies
-title: Carros 2
+title: Carrie, a Estranha (2013)
 ---
 
-O ponto mais forte no longa original eram as ideias por trás do conceito de carros se comportando como humanos. E até os pequenos detalhes de produção, como o fato dos mosquitos voando serem pequenos carrinhos com asas, contribuíam para tornar aquele universo todo especial.
+Talvez esse remake do clássico de Brian de Palma seja até eficiente na maior parte do tempo, ou não sei se pegando carona na memória afetiva do original ele consegue se sair melhor do que aparenta, até por discutir a história de Carrie quase como uma análise do bullying escolar dos tempos atuais e da diferença de visões religiosas dos mais jovens. Porém, uma direção grosseira e um roteiro equivocado conseguem estragar uma revisita até que curiosa.
 
-Dessa vez o que temos é uma história centrada no personagem Mate, o caminhão-reboque que virou melhor amigo do Relâmpago McQueen e que agora se sente deslocado em relação ao amigo e os ambientes requintados que ele frequenta em suas corridas pelo mundo.
+Carrie, revivida por Chloë Grace Moretz -- provavelmente escolhida depois de seu ótimo papel em Deixe-me Entrar, ou outro remake de terror -- é uma menina socialmente acuada, fruto da educação rígida da religiosa mãe (Julianne Moore, à altura do papel de Piper Laurie). Um episódio envolvendo sua primeira menstruação no colégio da escola acaba fazendo-a ganhar um desafeto que tenta se vingar durante o baile da formatura. Quase nada muda na história (até onde me lembro), exceto uma inserção ridícula de duas irmãs gêmeas que aparecem mais do que deviam em situações que fazem lembrar os gêneros de "2012".
 
-Sim, é uma história batida. E, pior, cheia de clichês. E clichês que não funcionam como deveriam. O que resta são as piadas do Mate, sempre recheadas com a divertida dublagem de Mário Jorge, que aqui arrisca algumas expressões regionais e contemporâneas que podem prejudicar o filme a longo prazo, mas que nos cinemas de hoje funcionam muito bem.
+E por falar em ridículo, a tão famosa sequência do baile converte o gênero da história para um filme B da pior espécie. Iniciando com uma cena patética repetida três vezes em câmera lenta de ângulos distintos, a noção que a diretora Kimberly Peirce (Meninos Não Choram) tem da personagem e de suas motivações é no mínimo tão bizarra quanto as irmãs gêmeas que insiste em filmar. Carrie acaba virando uma caricatura para o espectador, e caricaturas não emitem empatia. Ela se torna um objeto de fetiche de um público que anseia por efeitos digitais em demasia.
 
-O fato é que apenas com a dublagem de Mate o filme é divertido do começo ao fim, mas como filme, não chega nem a desafiar os roteiros menos brilhantes que a Pixar já teve ao longo desses 25 anos.
+E se o susto final é algo que os incessantes remakes tentam reproduzir falhando miseravelmente, aqui pode-se dizer que Carrie de 2013 segue à risca a cartilha de remakes de clássicos, cuja última instrução, que deveria ser a primeira, diz claramente: nunca faça remake de clássicos.
 

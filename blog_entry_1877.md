@@ -1,20 +1,16 @@
 ---
-categories: []
-date: '2010-11-12'
+categories:
+- writting
+date: '2015-11-02'
+link: https://www.imdb.com/title/tt0313792
 tags:
-- ccppbr
-title: II Seminário Portabilidade e Performance
+- movies
+title: Igual a Tudo na Vida
 ---
 
-Aqui estamos nós de novo. Mais uma vez a Tempo Real Eventos irá organizar esse evento de final de ano. E mais uma vez, junto dos meus amigos, irei palestrar sobre um item indispensável no nécessaire de todo escovador de bits: assembly gerado pelo compilador. Vamos falar brevemente sobre o funcionamento de um código assembly 32 bits e passar para a análise dos compiladores modernos e o que eles fazem para tornar o código ainda mais rápido do que o próprio fonte em C++.
+Este é um filme típico de um Woody Allen contemporâneo: atores conhecidos em outras comédias (Jason Biggs é o protagonista em American Pie) realizando as personas de Allen como trabalhadores intelectuais e suas crises de relacionamentos enquanto passeiam por Nova York. Porém, diferente dos "bons Woody Allen", este patina sobre um mesmo tema sem levantar qualquer questão mais ou menos interessante, entregando personagens patéticos por si só, sem precisar de nenhuma crise ou complexo grandes o suficiente para tornarem suas vidas amorosas um desastre.
 
-  * Gerando código assembly;
-  * Guia ultra-rápido de assembly;
-  * Recursividade sem problemas na pilha;
-  * STL aumenta performance? (exemplos práticos);
-  * Assembly 64 bits.
+Allen aqui faz o papel de Dobel, um lunático que conhece palavras difíceis e acredita que o anti-semitismo ainda ronda a sociedade onde vive. Ele incentiva Jerry (Biggs) a comprar um fuzil para se defender, além de largar a obsessão de sua vida: a volátil Amanda (Christina Ricci), que depois de um tempo juntos não consegue mais ter relações sexuais com o rapaz, trazendo sua mãe para morar juntos em seu apartamento. Aliado a isso, Jerry tem sérios problemas para largar qualquer relação de parasitismo, onde se encaixa seu vendedor, o bonachão Harvey (Danny DeVito), que mantém Jerry como seu único cliente e só faz analogias no mundo dos escritores de piadas com lojas de roupas.
 
-Uma outra dúvida pertinente (e discutida nos bares nerds da cidade) é se usar código STL não deixaria mais lento o resultado final, já que ele é cheio das abstrações. Por mais que autoridades competentes no funcionamento da linguagem como Pedro Lamarão e Thiago Adams digam que as otimizações do compiladores modernos na STL/Boost são diversas vezes mais eficientes que o código artesanal de um programador, sempre fica aquela pulga atrás da orelha, pulga esta que podemos matar facilmente analisando o assembly gerado. E essa confiança extra nos dará novas chances de programar coisas legais de verdade, e não ficar ensebando um código que já está na sua velocidade máxima.
-
-Então é isso aí. Espero que tenhamos uma manhã e uma tarde agradáveis nesse mundo da escovação de bits.
+Competente em sua estrutura, o filme nos faz ficar impacientes pelas voltas intermináveis em torno da mesma questão levantada em meia-hora de filme: Jerry simplesmente não consegue largar as pessoas que o fazem mal, e ao mesmo tempo revemos as loucuras das pessoas em sua volta, que nunca mudam. Quando algo acontece em Igual a Tudo na Vida, percebemos a força interna do roteiro de Allen. Porém, quase nada acontece durante o filme, e os diálogos estão particularmente sem sal. Até um acesso de fúria de Dobel é usado apenas para manter a loucura no ar, sem maiores implicações. Os passeios pelo Central Park são inócuos, pois assim como seus caminhos, não levam a lugar algum.
 

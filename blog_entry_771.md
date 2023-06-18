@@ -4,8 +4,8 @@ categories:
 date: '2018-11-05'
 tags:
 - beer
-title: Burgman Midnight Riders
+title: Burgman Fun Weiss
 ---
 
-É surpreendentemente uma Weiss, mas não tão doce como costumam ser as Weisses, nem tão gasosa. A palavra chave é: surpreendente.
+É menos weiss ainda que a Midnight Riders. Eu não me lembro mais que isso.
 

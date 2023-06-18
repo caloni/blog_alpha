@@ -1,20 +1,20 @@
 ---
 
-Meninas virgens costumam ter o que vulgarmente se conhece como "amor de pica", que é quando ela não consegue largar o garoto que a desvirginou; para o resto de sua vida. Trágico. Em contrapartida, Houve Uma Vez Dois Verões parte da história de um menino virgem que tem uma única noite com a garota perfeita, jogadora de fliperama, e desenvolve o que chamaríamos por tabela, e também vulgarmente, de "amor de xana".
+Acabou a sétima temporada, então fomos para a última. A mulher deu play e assistimos o que pensávamos ser o primeiro episódio da última temporada de House MD.
 
-André Arteche é Chico, um adolescente comum que com seu amigo procuram oportunidades para transar em qualquer lugar e situação para sair do ponto de partida. Apesar de passarem as férias na maior praia por extensão do mundo, no Sul do Brasil, para economizar seus pais fazem a viagem em baixa temporada, e o que vemos é uma praia maior ainda, quase abandonada, e com nenhuma menina interessante à vista.
+Só que não. Era o último. Aprendemos na última cena.
 
-Mas a sorte de Chico muda com a aparição milagrosa de Roza (com Z mesmo), encarnada pela paradisíaca Ana Maria Mainieri (ou paradisíaca vista por adolescentes espinhudos, pelo menos). Ambos irão viver uma trama de mentiras e joguinhos que tanto faz sucesso nas comroms.
+Mas até então eu estava analisando como se fosse a primeira, o que rendeu alguns insights. Nem todo spoiler vem para o mal.
 
-Os diálogos descompromissados do cineasta Jorge Furtado, o mesmo de Meu Tio Matou um Cara, valem o filme, e seus elenco, apesar de amador, é filmado em uma edição vibrante, que se solta do teatral por ser dinâmico. É ágil, de cortes elegantes e decupagem primordial em uma produção de baixo orçamento.
+Por exemplo: deu para entender todo o episódio. Sério. Mesmo sem ter visto nada da última temporada. Nós imaginamos as partes que faltam porque estamos o tempo todo trabalhando as lacunas de conhecimento implantadas na história. Descobrir uma parte da fórmula sendo exposta dessa forma é gratificante e ao mesmo tempo vê-se parte da trapaça de soar como um roteiro esperto e intrigante.
 
-O resultado é uma divertida comédia adolescente, despretensiosa e esquecível. Há algumas tiradas difíceis de esquecer, principalmente porque nunca mais serão permitidas ("hoje eu como até gorda"). Vem de um universo inocente, menos politizado, onde nem tudo precisa ser desconstruído, discutido, debatido. É bom para esquecer a derrocada da sociedade que vivemos.
+Outro aspecto do final fascinante é como eles retomam, observam ou respeitam a conexão com Sherlock Holmes e alguns episódios das aventuras do detetive original, como forjar a própria morte. É uma homenagem e um aproveitamento do que não existe tão bem na adaptação.
 
 ---
 categories:
 - writting
-date: '2015-11-28'
-link: https://www.imdb.com/title/tt3205802
+date: '2020-09-06'
+link: https://www.imdb.com/title/tt0322629
 tags:
-- series
-title: How to Get Away with Murder - Primeira Temporada, Episódios 1 ao 3
+- movies
+title: Houve uma Vez Dois Verões

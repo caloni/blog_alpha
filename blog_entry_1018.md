@@ -1,65 +1,42 @@
 ---
 categories:
 - coding
-date: '2021-05-01'
-link: https://youtu.be/PU0O_HYMoCw
-tags:
-- debug
-- videos
-title: Como Configurar Debug de Kernel Pela Rede (Hyper-V Edition)
+date: '2009-05-25'
+tags: null
+title: Como compilar em somente um passo
 ---
 
-Estava pensando em transformar alguns posts antigos que estou revisando em vídeos no YouTube. Acho que o esforço para fazer isso é relativamente baixo se for sem áudio, sem edição e apenas com o que eu naturalmente faria para validar as partes técnicas, e muita gente poderia aprender algumas coisas, como, por exemplo, configurar o debug de kernel.
+Uma das primeiras perguntas do [teste do Joel](http://brazil.joelonsoftware.com/Articles/TheJoelTest.html) é saber se você pode compilar todo o projeto em apenas um passo. Essa é uma **questão essencial** e um desafio para muitas equipes. Perdem-se horas sagradas para gerar um novo Release.
 
-Foi nessas que eu comecei a gravar um vídeo para [o post] onde eu ensino a depurar um processo em user mode através do debug de kernel mode usando o WinDbg. Esse post é de mais de dez anos e na época usei VMWare e emulação de cabo serial. Hoje estou usando Hyper-V e vejo que a maneira mais fácil de configurar o debug de kernel é pelo driver de rede, usando uma ferramenta do Debugging Tools chamado kdnet.
+Compilação automática geralmente está disponível nas ferramentas de desenvolvimento. Se você estiver usando o Visual Studio, por exemplo, é possível fazer isso com uma linha:
 
-No vídeo original comecei na inocência seguindo o tutorial da Microsoft para configurar o kdnet, mas acabei gastando quase uma hora nesse esforço, e foi em vão. Eu não consegui usar os passos descritos no tutorial para fazer o boot finalmente conectar no kd.exe.
+    devenv minha-solução.sln /Rebuild Release
 
-Pesquisando sobre pessoas que tiveram o mesmo problema encontro um [post da Ophir Harpaz] no Medium dizendo que irá ensinar o porquê de cada comando na configuração desse tipo de debug. O título do post é apenas um chamariz, pois também é um passo-a-passo sem explicação nenhuma dos motivos por trás de cada comando. Porém, os passos são diferentes do da Microsoft, e esses funcionaram. Então vou gravar o vídeo, e de brinde segue o passo-a-passo:
+Se não for exatamente o que você precisa, basta fazer uma [pesquisa de quinze minutos](http://www.google.com/search?q=visual%20studio%20automatic%20build) e encontrar os parâmetros corretos. O objetivo é: **eu rodo esse comando em cima do projeto inteiro em uma máquina zerada e ele simplesmente compila**.
 
-Com uma VM de Windows 10 criada no Hyper-V, desabilite o Secure Boot pelas configurações da VM:
+#### Múltiplas soluções
 
-{{< image src="hyper-v-disable-secure-boot.png" caption="" >}}
+É lógico que ter apenas um _solution/workspace_ para guardar projetos médios e grandes é inviável. Demora para carregar no ambiente e possuem dezenas de dependências. Isso já foi tentado duas vezes nas duas empresas em que trabalhei e não funcionou. Talvez por isso seja necessário criar um _script_ que rode o comando acima para todas as soluções do projeto, o que não muda muito o _modus operandi_ da coisa:
 
-Desligue a VM. Pelo meno do Hyper-V crie um novo adaptador pelo Virtual Switch Manager; esse deve apontar para um adaptador de sua máquina real, para host e target conseguirem se comunicar. Atribua esse novo adaptador à sua VM desligada e volte a ligá-la.
-
-Já ligada abra um prompt de comando elevado e use os seguintes comandos do bcdedit para configurar um boot de debug. Lembre-se que o IP deve ser o IP da sua máquina host do seu adaptador de rede real (wi-fi ou cabo). Executando um ipconfig você consegue pegar ele.
-
-    >bcdedit /copy {current} /d "KDNet port 50035"
-    The entry was successfully copied to {dd896c2e-fccb-11e8-9cb7-d481d7c30c24}
-
-    >bcdedit /default {dd896c2e-fccb-11e8-9cb7-d481d7c30c24}
-
-    > bcdedit /set {default} debug yes
-    The operation completed successfully.
-
-    > bcdedit /dbgsettings net hostip:192.168.1.120 port:50035 newkey
-    Key=g3mx1h96o5j9.tbdbyy05hfu7.10tkqaj5agj7e.xttvshlq4zsr
-
-Verificando as configurações:
-
-    > bcdedit /dbgsettings
-    key         g3mx1h96o5j9.tbdbyy05hfu7.10tkqaj5agj7e.xttvshlq4zsr
-    debugtype   NET
-    hostip      192.168.1.120
-    port        50035
-
-Com tudo isso configurado é possível ir na máquina host e rodar o kd.exe:
-
-    > kd.exe -k net:port=50035,key=g3mx1h96o5j9.tbdbyy05hfu7.10tkqaj5agj7e.xttvshlq4zsr
-
-    Microsoft (R) Windows Debugger Version 10.0.18362.1 AMD64
-    Copyright (c) Microsoft Corporation. All rights reserved.
     
-    Using NET for debugging
-    Opened WinSock 2.0
-    Kernel Debug Target Status: [no_debuggee]; Retries: [0] times in last [7] seconds.
-    Waiting to reconnect...
+    call :Build ..\Libraries\Libraries.sln
+    call :Build ..\Services\Services.sln
+    call :Build ..\Drivers\Drivers.sln
+    call :Build ..\Tools\Tools.sln
+    goto :eof
 
-Ele vai ficar nessa de aguardar até a máquina target estar disponível, ou seja, bootando na configuração debug configurada para debug de kernel pela rede nesse IP. Lembre-se de que antes de tudo isso a porta usada deve estar acessível pelo firewall e host e target devem estar pelo menos se pingando. Verifique antes de tentar conectar.
+    
+    :Build
+    echo %1...
+    devenv "%1" /Rebuild Release
+    exit /b %errorlevel%
 
-Depois de algumas horas eu finalmente consegui. Agora é hora de começar a gravar o vídeo para o post antigo. Ou outro dia.
+Note que meu script usa a estrutura padronizada dos diretórios de um projeto, onde cada tipo de componente tem sua pasta e solução.
 
-[o post]: {{< relref "kernel-mode-user-mode" >}}
-[post da Ophir Harpaz]: https://medium.com/@ophirharpaz/kdnet-tutorial-for-noobs-68669778bbd4
+Aos poucos você pode ir colocando "frescurinhas" em seu build (executa Debug e Release, roda automatizado no servidor, faz testes unitários, incrementa o número da versão, ...), mas algumas premissas sempre se mantêm:
+
+  * Deve ser possível compilar o projeto inteiro em um passo
+  * Deve ser possível usar qualquer máquina de desenvolvimento para isso
+
+Regras simples de ser seguidas se você usar sempre a máxima do [KISS](http://en.wikipedia.org/wiki/KISS_principle).
 

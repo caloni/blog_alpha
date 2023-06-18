@@ -1,28 +1,16 @@
 ---
 categories:
 - writting
-date: '2016-07-29'
-link: https://www.imdb.com/title/tt3460252
+date: '2011-12-12'
+link: https://www.imdb.com/title/tt1646974
 tags:
 - movies
-title: Os Oito Odiados
+title: Os Nomes do Amor
 ---
 
-Se há um motivo para a existência de Os Oitos Odiados é dar o mais que merecido Oscar para o compositor Ennio Morricone. No entanto, esse prêmio negado ao músico de trilhas icônicas como Os Intocáveis, Era Uma Vez na América e Cinema Paradiso irá agora figurar como o mesmo Oscar negado a Martin Scorsese em toda sua carreira até Os Infiltrados: longe de ser o melhor trabalho; apenas um prêmio de consolação.
+Ele, um esquerdista especialista em epidemias nos animais. Ela, uma libertária tão libertária que às vezes se esquece de colocar a roupa para sair de casa. Ambos, uma relação que mescla tanto as visões políticas quanto sexuais da França atual. Porém, mais importante, levanta a sensível questão da imigração, que vem engrossando caldo desde o movimento anti-terrorista liderado pelo governo Bush e evidenciado na crise europeia.
 
-Por outro lado, temos uma revelação surpreendente em Jennifer Jason Leigh, que cria uma vilã que se diverte imensamente em ser a mensageira do diabo em um "barzinho" que irá virar a boca do inferno cercada de uma nevasca interminável.
+Narrando o passado dos pais e avós dos personagens como em entrevistas informais, isso ao mesmo tempo que expõem seus sentimentos, é usado como artifício de engajamento político e explica inclusive o relacionamento social de ambos. Dessa forma, o fato da geração anterior padecer nos campos de concentração ou ter origem estrangeira é motivo para que não se toque nunca no assunto ou se use qualquer expressão que remeta a esse passado. Ao mesmo tempo, o trauma dela de ter sido molestada quando criança, embora na maioria das vezes torna a pessoa quando adulta recatada, adota um aspecto prático e funcional (onde o sexo é usado para conversão política). Distraída ao máximo, é capaz de nunca reparar quando acidentalmente deixa seus peitos de fora (em público) e, embora tenha convicções políticas, acaba sempre votando no pior rival.
 
-Ainda do lado das atuações de destaque, Samuel L. Jackson usa todo o poder de um personagem que ganha sua liberdade na recém-terminada guerra civil americana, mas que continua fortalecendo sua posição a cada gesto e diálogo do próximo sulista rancoroso que encontrar pela frente. Podemos imaginar o personagem de L. Jackson como reencarnação de Django no filme anterior do diretor, onde um negro ousava andar livre e armado ao redor de plantações do rio Mississipi.
-
-Já Quentin Tarantino, em seu oitavo filme -- como gosta de alardear nos créditos iniciais -- se apaixona perdidamente pela sua técnica e se esquece momentaneamente como fazer filmes que prendem a atenção do começo ao fim. Ele agora arrasta do começo ao fim o desenrolar da história, como se estivesse com dó de cortar cenas ou de deixar a direção (o diretor diz que quer fazer apenas 10 filmes no total, sendo o motivo apontado por às vezes contar em que número estamos).
-
-O elenco em geral já trabalhou com o diretor e se esforça em manter um clima western parte Sergio Leoneano, parte Tarantinesco. Os diálogos são espertos demais para serem reais, e há um clima investigativo em um momento que desfaz toda a atmosfera rústica daquelas pessoas vivendo uma época onde andar armado (e saber atirar) é mandatório.
-
-Mas não há nada na estética do filme que decepcione. Estamos assistindo a um filme autêntico de bang-bang, no melhor estilo superprodução e com uma fotografia (Robert Richardson) de fazer-nos parar por minutos apenas para apreciar a beleza das paisagens externas, além da competência com que a interna é retratada, sem perder-se em sombras.
-
-Aliás, a falta de "pecadilhos" em um filme dessa época acaba soando mais teatral do que devia. Claro que o clima Tarantinesco das mortes (especialmente por envenenamento) contribui para fugirmos daquele universo (e lembrarmos, mais uma vez, que este é um filme de Tarantino... oitavo, certo?), mas talvez a excessiva compaixão das pessoas envolvidas, e a forma com que conversam, torna as coisas estranhas.
-
-Já a história é a convenção em pessoa, o que nos remete diretamente aos problemas do roteirista Quentin Tarantino. Se em filmes do velho oeste -- especialmente os de Sergio Leone -- há de se experimentar situações extremas que irão fazer o chão vibrar, aqui toda a "logística" envolvida para fazer esses personagens interagir é mecânico demais. Os personagens do filme não são humanos vivendo uma época dura, mas arquétipos vivendo o sonho Tarantinesco.
-
-E tudo isso joga Os Oito Odiados ainda mais perto do palco e mais longe da tela. Não que a história não valesse a pena acompanhar, nem o desempenho dos atores em personagens no mínimo curiosos. No entanto, tudo isso é irrelevante, se pressentirmos que todo este tabuleiro de xadrez já estava montado quando a partida começou.
+Com uma trilha sonora leve, que acompanha o ritmo de seus personagens, e uma fotografia de cores básicas, que remete não apenas às cores da bandeira da França mas também ao uso generalizado de bandeiras no sentido de sempre defendermos nosso ponto de vista, Os Nomes do Amor caminha serenamente pelo seu caminho, sempre ressaltando os absurdos das opiniões extremadas e do racionalismo exacerbado que nos impede muitas vezes de pensar (como a funcionária que conhece a mãe do rapaz por 30 anos, mas se nega a emitir outro documento até que ela comprove cidadania francesa) ou de sentir. O mundo para muitos pode até ser preto e branco, mas o filtro cômico pelo qual o filme nos faz enxergar o comportamento insano das pessoas que pensam assim nos faz concluir que, na prática, o mais sensato é enxergamos a cinza paisagem, mesmo.
 

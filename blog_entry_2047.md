@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2018-02-27'
-link: https://www.imdb.com/title/tt6468322
+date: '2011-10-25'
+link: https://www.imdb.com/title/tt2087864
 tags:
-- series
-title: La Casa De Papel
+- movies
+title: 'Là-bas: Educação Criminal'
 ---
 
-O que está acontecendo com as pessoas? A série "La Casa de Papel" está sendo pesadamente recomendada por ser "viciante", "impressionante", "tenso" e "imperdível", sendo que no melhor dos casos esta parece ser uma versão estendida e dramática de Onze Homens e Um Segredo, um filme que, diga-se de passagem, sabia rir de si mesmo ao empregar uma música empolgante e nada séria. Aqui parece que estamos à beira de um colapso nervoso com uma história que tem mais a acrescentar ao rol de novelas televisivas que o cinema propriamente.
+Um filme não necessariamente precisa ter um excelente roteiro para levar o espectador a pensar muito a respeito. Algumas vezes, bastam pequenos detalhes que levem em consideração: 1) a inteligência de quem assiste e 2) a motivação narrativa por trás da informação, que o filme fluirá e trará algo de novo para a gaveta de conhecimentos do cinéfilo.
 
-O começo é hilário. A narradora é uma ex-assaltante que perdeu seu maior amor. Ela liga para a mãe e fala com o espectador sobre os detalhes do que está acontecendo (caso você seja burro demais para prestar atenção). No momento seguinte é abordada por um tal de Professor que reúne um pessoal gabaritado em roubar coisas. Não diz como ele conseguiu o contato dessa gente, nem como eles combinaram de se reunir e se trancar por cinco meses estudando o maior golpe de suas vidas com completos estranhos. Sério, eu preciso achar esse Linkedin do crime.
+Esse parece ser o caso desse La Bàs: Educação Criminal, que pelo próprio título já sugere algum tipo de ação ilegal na história. De fato, somos apresentados logo no início a um texto que explica que os africanos imigrados na Itália são proibidos por lei de terem um emprego. Isso já faz pensar de imediato o que essas pessoas fazem para ganhar a vida, e é assim que o fio do enredo se inicia.
 
-Claro que é capaz que a série vá desvendando esse e outros mistérios aos poucos, no formato de pequenas reviravoltas. Esse talvez seja o plot. Mas, de imediato, podemos encontrar falhas graves de realismo mínimo necessário para você comprar um embrolho desses. Depois de algumas dezenas de séries e filmes bem feitos sobre como aplicar golpes de final de carreira, seja "Onze Homens...", Cães de Aluguel ou até Velozes e Furiosos (um deles), não me sai da cabeça bandidos profissionais compactuarem de maneira tão simplória sobre a missão de suas vidas: assaltar a Casa da Moeda espanhola.
+Usando de uma fotografia cinzenta, triste e empoeirada, dando ao mesmo tempo as sensações de isolamento e de tristeza, logo no começo somos apresentados a um elemento que foge desse padrão: um guarda-chuva vermelho. O vermelho, aqui, representa o usual: perigo, crime, sangue. Com o seu uso estimulado em diversas tomadas, logo aprendemos a observar como as cores se relacionam em diversos planos, e logo notamos que o vermelho exerce uma função narrativa que não pode ser ignorada.
 
-A boa notícia é que o assalto começa rápido, logo no primeiro episódio. A má notícia é que parece que iremos ficar por lá por um bom tempo, pois o circo está armado. E junto dele a polícia, e uma inspetora e um delegado que estão lavando roupa suja e não agindo como profissionais. Quero dizer que ele a segura pelo braço e comenta sobre detalhe de sua vida íntima na frente de todos, eles berram e não estão nada focados em resolver uma questão não apenas sensível de sequestro de inocentes com roubo, mas diplomaticamente complicado.
+Da mesma forma a bebida. O protagonista, muçulmano, está proibido de beber pelas leis de sua religião. De qualquer forma, ele bebe eventualmente; e esse é o detalhe sublime: sempre acompanhado de uma mulher. Mulheres e bebidas são associados dessa forma, simples, direta e nada sutil.
 
-Esses detalhes do parágrafo anterior eu peguei do segundo episódio. Talvez tenha algo mais pra frente. Mas o formato desta série não nos traz nada de novo. Pelo contrário: reafirma a mediocridade das séries atualmente em streaming.
+Ao falar de racismo no filme, nada mais irônico do que colocar capuzes brancos na gangue de africanos que comanda o tráfico de drogas da região, liderados pelo tio do protagonista. Mais ironicamente ainda, a gangue rival, formada por brancos, se veste de preto em seus ataques.
+
+No final, toda essa simbologia de cores se esvai em um terno branco esquecido na floresta. Representando a subida de status do nosso herói, agora representa sua liberdade, e por consequência sua salvação. O protagonista renasce, como veio ao mundo e como é visto pelo filme como símbolo de pureza: negro.
 

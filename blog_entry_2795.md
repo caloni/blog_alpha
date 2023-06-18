@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-01-01'
-link: https://www.imdb.com/title/tt1821658
+date: '2013-05-17'
+link: https://www.imdb.com/title/tt2925942
 tags:
 - movies
-title: O Que Será de Nozes?
+title: O Que Se Move
 ---
 
-"The Nut Job" é uma animação com orçamento limitado, pequenos defeitos na caracterização de seus personagens (visualmente e direto do roteiro) e que usa uma moral deturpada que abraça o coletivismo em uma história rapidamente esquecível. Ele arrisca ainda em seu roteiro e montagem contar duas histórias ao mesmo tempo, mas é por demais amador e ainda no rascunho.
+Montador de [Trabalhar Cansa] (2011, Marco Dutra e Juliana Rojas), uma das mais agradáveis surpresas daquele ano no Cinema Nacional, Caetano Gotardo estreia na direção desse filme quase experimental. Quase, pois as nuances inseridas em suas três historietas trágicas e casuais criam uma dimensão emotiva que não pode ser ignorada. O detalhe mais marcante são as canções entoadas pelos seus próprios atores (não se preocupe quem não gosta de musicais, pois existem apenas três momentos). Nesse sentido, talvez o tempo de experiência na montagem tenha feito uma diferença notável em sua percepção da realidade (aqui a montagem é assinada por outra pessoa, não achei seu nome depois , mas a direção, montagem e até a composição das canções principais são de sua autoria).
 
-Seu anti-herói um esquilo que pensa apenas em si mesmo. Acompanhado de seu amigo rato, miolo-mole e coração-gigante inseparável, juntos tentam obter comida para sua própria sobrevivência. Enquanto isso, no parque da cidade, há uma espécie de monarquia misturada com democracia direta, onde existe um conselheiro-mestre que manda em tudo (inclusive que busquem comida para ele) e que constrói através de um falso herói (um esquilo fortão e desmiolado) e uma meio-princesa meio-aventureira (e idealista) a mensagem de que existe uma entidade maior que todos pela qual todos lutam: o parque.
+Portanto, por mais inconsequentes e despretensiosas que sejam os três episódios, há um crescente emotivo envolvente, ainda que sua primeira história inicial pareça não se esforçar para isso. Podemos dizer que o choque inicial ao final do primeiro episódio seja o estopim necessário para que enxerguemos o que está sendo proposto, e mesmo com seus defeitos (como os diálogos pavorosos, propositais ou não) cumpre bem o que se propõe. Dito isso, ouvir a mãe cantar uma música sem rimas, sem ritmo e sem propósito nenhum a não ser estabelecer o óbvio (explicar o que ocorreu com o filho com a carga dramática de uma mãe embutida) se torna um guia necessário para entendermos o que está acontecendo diante de nós.
 
-Após ser expulso do parque por ter destruído o pouco estoque de comida para o inverno que os animais ainda tinham, o esquilo anti-herói acaba achando um armazém de nozes, usado justamente por uma gangue de assaltantes que planejam cavar um túnel para o banco do outro lado da rua. E é aí que o roteiro tenta unir duas história em uma só.
+Ao ligar os episódios de maneira mais metafísica do que orgânica, a segunda história envolvendo outra família consegue aos poucos subir o degrau de significados. Alguns ocultos, outros parecendo mero artifício "para aparecer" e outros ainda revelando a alma do filme de maneira a fisgar cada vez mais nossa atenção. No entanto, algumas coisas ainda teimam em nos atirar para fora: mais uma vez os diálogos chegando ao embaraço, o acúmulo de cenas desconexas ou desproporcionalmente longas (que quando estão querendo dizer algo, soam óbvias, e quando não estão, soam obscuras).
 
-Só que o texto dos quatro roteiristas ainda está no rascunho, e nem a história-base consegue ser narrada com o mínimo de coesão. Diversas cenas são cortadas ao meio, piadas são tão fracas e contadas com um timing tão ruim que sequer entendemos que se trata de uma piada. Nem os clichês de filme do gênero (animação com aventura com animais com defeitos visuais) conseguem sair direito através da direção obtusa de Peter Lepeniotis, que não consegue nos dar o mínimo de orientação espacial nas sequências que envolvam o parque, o esconderijo dos assaltantes, o prédio onde estão e, em alguns momentos, nem a logística básica do escritório dos capangas.
+Mesmo assim o diretor/roteirista insiste em sua temática, o que revela em seu terceiro ato os momentos mais tensos e propositadamente desconcertantes de todo o filme. Boa parte desse efeito pode ser atribuído à revelação do longa, Fernanda Vianna, a atriz que faz a terceira mãe. Ela quase rouba a nossa atenção completa se a situação já não nos forçasse a isso: o primeiro encontro com o filho roubado da maternidade.
 
-Falhando miseravelmente em tentar adicionar um pouco de qualquer coisa na história, seja romance, companheirismo, identificação com o anti-herói (que despreza até o amigo de grande coração) e ódio pela figura tirana do bicho-conselheiro daqueles pobres animais do parque, The Nut Job não consegue ser mais do que um entretenimento passageiro para crianças menores que 10 anos que estão prestando pouca atenção ao que se passa na tela. Para adultos, isso significa várias bocejadas durante o filme e um esquecimento rápido e indolor após seus créditos finais.
+Enquanto tentamos juntar as peças derrubadas pela catarse gerada pela evolução de personagens e situações, o que mais fica na mente é o tema proposto, o que há de comum naquelas histórias. Nos esquecemos do resto e, assim como o cisne do primeiro episódio, vemos o tempo passar sem muito o que fazer.
 
-Que usa Psy como o finalizador do filme. Pelo jeito, havia muitas pontas a serem cortadas nesse filme antes dele começar a ser produzido.
+[Trabalhar Cansa]: {{< relref "trabalhar-cansa" >}}
 

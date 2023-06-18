@@ -1,64 +1,14 @@
 ---
-categories: []
-date: '2010-12-27'
-tags: null
-title: Trabalhando em múltiplos ambientes
+categories:
+- writting
+date: '2010-06-18'
+link: https://www.imdb.com/title/tt0435761
+tags:
+- movies
+title: Toy Story 3
 ---
 
-Existem diversas maneiras de se trabalhar com o Bazaar. Eu já [havia definido](http://www.caloni.com.br/como-estou-trabalhando-com-o-bazaar) como fazer na máquina de desenvolvedor para modificar o mesmo código-fonte em projetos paralelos, onde basicamente tenho um branch principal conectado no servidor (assim todo commit vai pra lá) e crio branches paralelos e desconectados para fazer quantos commits eu tenho vontade durante o desenvolvimento. Após todas as mudanças e testes básicos, atualizo o branch principal (com mudanças dos meus colegas) e faço o merge com o branch paralelo onde fiz todas as mudanças. Antes de subir com o commit final, ainda realizo um build de teste local, se necessário.
+Toy Story 3, terceiro filme da "saga" dos brinquedos, já entra no clima de nostalgia, pois no fundo é uma despedida anunciada desde sua primeira sequência, que lembra ou se refere a [De Volta Para o Futuro 3]. Mais uma vez leva a questão do destino de brinquedos usados, mas agora a ação se desenrola em uma espécie de asilo para brinquedos. Esse é conhecido como o mais adorado por todos, especialmente os adultos, que cresceram com a série de filmes. A Pixar tem grande apreço por Toy Story, pois foi o primeiro grande sucesso e grande feito computacional para a época. Gosto dos três filmes de maneira quase que uniforme, pois cada um deles traz algo de novo ao universo sem querer repetir o feito dos anteriores, mas os respeitando como um legado merecedor. Nesse sentido, a referência aos filmes de viagem no tempo de Robert Zemeckis me parece mais que adequado.
 
-Nos casos em que eu trabalho em casa (ou em outro ambiente), posso fazer basicamente a mesma coisa, só que meu branch paralelo é copiado para outra máquina:
-
-    C:\>cd \Src\projeto-principal
-    
-    C:\Src\projeto-principal>bzr get . ..\projeto-principal.TravamentoServico.MeuNotePessoal
-    Branched 950 revision(s).
-
-Geralmente o que faço depois é compactar a pasta gerada (se desejar, use uma senha forte nesse passo), fazer uma cópia para um PenDrive e descompactar na máquina que irei trabalhar.
-
-    C:\Src\projeto-principal.TravamentoServico>hack hack hack
-    
-    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Uma mudancinha inicial"
-    Committing to: C:/Src/projeto-principal.TravamentoServico/
-    added teste.txt
-    Committed revision 951.
-    
-    C:\Src\projeto-principal.TravamentoServico>hack hack hack
-    
-    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Vamos ver se funciona"
-    Committing to: C:/Src/projeto-principal.TravamentoServico/
-    modified teste.txt
-    Committed revision 952.
-    
-    C:\Src\projeto-principal.TravamentoServico>hack hack hack
-    
-    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Não funcionou. Mais uma vez."
-    Committing to: C:/Src/projeto-principal.TravamentoServico/
-    modified teste.txt
-    Committed revision 953.
-    
-    C:\Src\projeto-principal.TravamentoServico>hack hack hack
-    
-    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Desconfio de uma coisa..."
-    Committing to: C:/Src/projeto-principal.TravamentoServico/
-    modified teste.txt
-    Committed revision 954.
-    
-    C:\Src\projeto-principal.TravamentoServico>hack hack hack
-    
-    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Corrigido travamento."
-    Committing to: C:/Src/projeto-principal.TravamentoServico/
-    modified teste.txt
-    Committed revision 955.
-    
-    C:\Src\projeto-principal.TravamentoServico>doc doc doc
-    
-    C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Comentando e documentando solucao."
-    Committing to: C:/Src/projeto-principal.TravamentoServico/
-    modified teste.txt
-    Committed revision 956.
-
-Terminado o trabalho naquela máquina, geralmente gero um branch novo (para limpar o diretório) e recompacto a solução, copio para o Pendrive, e descompacto na máquina da empresa. O resto do caminho é como se eu tivesse feito as modificações na própria máquina:
-
-{{< image src="server-commit.png" caption="Commit no server" >}}
+[De Volta Para o Futuro 3]: {{< relref "de-volta-para-o-futuro-parte-iii" >}}
 

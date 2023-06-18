@@ -1,43 +1,51 @@
 ---
 categories:
 - coding
-date: '2023-04-09'
+date: '2023-04-11'
 tags:
 - interview
-title: Como inverter uma string
+title: Como inverter um número
 ---
 
-O bom de estar praticando para fazer entrevistas técnicas é ter material para novos postes. E este poste é sobre um assunto bem simples para quem já sabe como funcionam strings, mas complexo o suficiente para quem nunca ouviu falar de memória no computador.
-
-Vamos começar pela resposta. O algoritmo que deve ser seguido é:
-
- - Declare a string que você quer inverter;
- - Obtenha o tamanho dessa string;
- - Faça um loop do começo ao fim ou do fim ao começo;
- - No loop atualize a posição inicial e final da string;
- - Troque de posição os elementos final e inicial;
- - Pronto.
-
-Simples, não? Em C++:
+Existe uma solução para a inversão de um número que não é bonita, mas prática: transforme em string e inverta essa string.
 
 ```
-string ReverseString(string s)
-// string passada por parâmetro
+int ReverseNumberStringVersion(int number)
 {
-    size_t begin = 0; // posição inicial
-    size_t end = s.size() - 1; // posição final
-
-    while (begin < end) // enquanto não invertemos as posições
+    string s = to_string(number);
+    size_t beg = 0, end = s.size() - 1;
+    while (beg < end)
     {
-        char buf = s[begin]; // troca elementos de posição
-        s[begin] = s[end];
+        char buf = s[beg];
+        s[beg] = s[end];
         s[end] = buf;
-
-        ++begin; // atualize a posição inicial e final da string
+        ++beg;
         --end;
     }
+    return stoi(s);
+}
+```
 
-    return s; // string invertida
+Contudo, a maneira bonita de se fazer isso é mantendo o domínio do problema na matemática. E dessa forma:
+
+- Pegue o dígito mais à direita do número;
+- Some o dígito com o novo número invertido;
+- Multiplique o resultado por 10;
+- Divida o número por 10.
+
+```
+int ReverseNumberNumberVersion(int number)
+{
+    int reversedNumber = 0;
+
+    while (number) {
+        reversedNumber *= 10;
+        int next = number % 10;
+        reversedNumber += next;
+        number /= 10;
+    }
+
+    return reversedNumber;
 }
 ```
 

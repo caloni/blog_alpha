@@ -1,19 +1,20 @@
 ---
 
-Assisti alguns episódios deste que parece ser aquelas séries que causam sensação, talvez pelo seu final. O detalhe é que não importa como, todo novo episódio parece querer voltar nas mesmíssimas cenas finais, onde os estudantes de direito se metem em um assassinato e precisam... adivinhem? Lavar suas mãos.
+Meninas virgens costumam ter o que vulgarmente se conhece como "amor de pica", que é quando ela não consegue largar o garoto que a desvirginou; para o resto de sua vida. Trágico. Em contrapartida, Houve Uma Vez Dois Verões parte da história de um menino virgem que tem uma única noite com a garota perfeita, jogadora de fliperama, e desenvolve o que chamaríamos por tabela, e também vulgarmente, de "amor de xana".
 
-Sem muita originalidade sequer na escola desses estudantes, o herói dessa empreitada, o jovem entusiasta Web Giggins (Alfred Enoch), é escolhido pelo seu empenho, apesar de até então não ter estudado muito nas aulas de Annalise Keating (Viola Davis), a professora que oferece prêmios baseado no desempenho de seus alunos em casos reais que analisam. Não faz muito sentido esse nível de aproximação dos estudantes de casos reais, mas faz muito menos casos de homicídio, muitas vezes noticiado na mídia (e que esses casos aconteçam tão frequentemente).
+André Arteche é Chico, um adolescente comum que com seu amigo procuram oportunidades para transar em qualquer lugar e situação para sair do ponto de partida. Apesar de passarem as férias na maior praia por extensão do mundo, no Sul do Brasil, para economizar seus pais fazem a viagem em baixa temporada, e o que vemos é uma praia maior ainda, quase abandonada, e com nenhuma menina interessante à vista.
 
-Com uma inusitada direção mista em seus primeiros episódios, impressiona que mesmo com tantas visões diferentes, o resultado final fique igualmente televisivo e medíocre, apostando em trocas de cenas com o avanço em câmera rápida e no já citado flashback do final de ano da turma e sua decisão em como se livrar do assassinato que fizeram parte. Como testemunhas ou não, é um detalhe que iremos descobrir aos poucos.
+Mas a sorte de Chico muda com a aparição milagrosa de Roza (com Z mesmo), encarnada pela paradisíaca Ana Maria Mainieri (ou paradisíaca vista por adolescentes espinhudos, pelo menos). Ambos irão viver uma trama de mentiras e joguinhos que tanto faz sucesso nas comroms.
 
-Usando a professora como uma guia técnica que possui uma moral deturpada -- onde sua traição e detalhes do seu marido constituem basicamente o enredo principal -- How To Get Away... é mais um exemplo de como podemos pegar ideias interessantes que poderiam muito bem preencher duas horas ou três de um longa-metragem e esticá-las para caber em uma série de mais de 10 horas por temporada em que quase nada chama a atenção.
+Os diálogos descompromissados do cineasta Jorge Furtado, o mesmo de Meu Tio Matou um Cara, valem o filme, e seus elenco, apesar de amador, é filmado em uma edição vibrante, que se solta do teatral por ser dinâmico. É ágil, de cortes elegantes e decupagem primordial em uma produção de baixo orçamento.
+
+O resultado é uma divertida comédia adolescente, despretensiosa e esquecível. Há algumas tiradas difíceis de esquecer, principalmente porque nunca mais serão permitidas ("hoje eu como até gorda"). Vem de um universo inocente, menos politizado, onde nem tudo precisa ser desconstruído, discutido, debatido. É bom para esquecer a derrocada da sociedade que vivemos.
 
 ---
 categories:
 - writting
-date: '2020-11-22'
-link: https://www.crunchyroll.com/pt-pt/how-to-keep-a-mummy
+date: '2015-11-28'
+link: https://www.imdb.com/title/tt3205802
 tags:
-- animes
 - series
-title: How to Keep a Mummy
+title: How to Get Away with Murder - Primeira Temporada, Episódios 1 ao 3

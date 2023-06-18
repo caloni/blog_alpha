@@ -1,20 +1,97 @@
 ---
 categories:
-- writting
-date: '2015-04-19'
-link: https://www.imdb.com/title/tt2981768
-tags:
-- movies
-title: Patema Inverted
+- coding
+date: '2010-11-08'
+tags: null
+title: Patch de emergência
 ---
 
-Esse é o primeiro filme que assisto com a premissa de pessoas que possuem a gravidade invertida. Sim, Mundos Opostos é de um ano antes, e apesar de não ter sido lançado no Brasil (alguém acredita que Patema será?) ele possui atores conhecidos e uma produção razoavelmente cara. No entanto, nunca se sabe quando alguém teve a ideia primeiro. E, hoje em dia, é quase certeza que ela veio dos livros ou qualquer outro formato que não o Cinema, onde as grandes empresas parecem ter desistido de arriscar em roteiros originais. No caso do Japão isso é ainda mais padronizado, pois o conteúdo ou vem de um mangá (revista em quadrinhos) ou anime (série de animação), e esse Patema foi distribuído via streaming um ano antes de ser montado como um filme.
+Após um projeto muito bem sucedido, entregue no prazo e homologado em tempo recorde, você e sua equipe estão aproveitando suas devidas férias nas Bahamas, tomando água de coco na sombra de uma palmeira e apreciando a beleza natural da região. Ambas as belezas. =)
 
-A história é no mínimo curiosa: um experimento que deu errado matou vários humanos e destruiu toda uma cidade. No entanto, os sobreviventes conseguiram se fixar no "subsolo", só que com a gravidade invertida. Ou seja, suas construções, e a orientação de seus corpos, obedecia exatamente o inverso dos humanos "originais". Pelo menos isso é o que é ensinado na nova cidade, Aiga, onde Lei e Ordem é a moral que conduz seus habitantes, liderados pelo malvadão (porque sim) Izamura, que teme por um encontro com esses seres invertidos, ensinando que eles são pecadores e por isso foram consumidos pelos céus. Por isso até olhar para os céus é considerada uma contravenção grave. Algo que o jovem Age não liga tanto, pois foi filho de um explorador que uma vez criou uma espécie de balão para desvendar os mistérios dessa gravidade invertida.
+{{< image src="ggKPJuT.jpg" caption="Club-med-beach-governors-harbour-eleuthera-bahamas" >}}
 
-Enquanto isso, no povo do subsolo, a princesa Patema cai acidentalmente em um dos poços abandonados, e acaba sendo salva por Age. A partir daí um fato curioso é exposto: mesmo vivendo no mesmo ambiente, Patema continua sendo afetada negativamente pela gravidade, e até o alimento que ingere lhe parece invertido. E esse é o limite para as explicações dessa história, que não exige (e nem precisa) de maiores detalhes pseudo-científicos. Se trata mais de uma fábula do que uma ficção-científica.
+Mas eis que liga o seu gerente para o celular vermelho que te entregou no caso de emergências críticas e te avisa que um problema crítico foi detectado em um serviço crítico: o detector de pares. Consegue ver o erro?
 
-O que importa para o diretor Yasuhiro Yoshiura -- e os roteiristas Marc Diraison e Yasuhiro Yoshiura -- é mostrar como as crendices se solidificam em torno dos poderosos através do medo e da coesão, e impede que as pessoas enxerguem além dos seus horizontes: a sua zona de conforto. Como consequência, cria-se o conflito todo do filme, que é brindado por uma trilha sonora fascinante de Michiru Ohshima, embora muitas vezes usada de forma errada em cenas que estão sobrando e que tentam tornar emocionante o que já é naturalmente. A direção também ganha alguns créditos por conseguir não nos confundir na maior parte do tempo, e quando isso ocorre, está mais ou menos sob controle. É curioso, por exemplo, notar como a inversão da câmera ocorre em momentos pontuais no começo, mas logo depois é adotado o ponto de vista do povo "dominante" de cada ambiente, para situar o espectador de como é ser o diferente em cada lugar.
+{{< image src="wHctVe6.png" caption="Detector de Pares" >}}
 
-A experiência em geral não se torna confusa, talvez com exceção em sua sequência final, que, para variar, tem a conhecida lição de moral sobre não subestimar o que lhe parece diferente. Para isso mostra uma sequência de ação/drama um tanto vertiginosa, mas que por isso mesmo consegue demonstrar a confusão mental por trás daquelas pessoas que precisam conviver com o diferente e ao mesmo tempo entendê-lo. Também meio que escancara o absurdo de hoje em dia, onde pessoas acham difícil conviver com pessoas que possuem uma crença diferente da sua ou até mesmo uma orientação sexual não-padrão. Talvez se o filme puxasse um pouco mais para essa comparação pudéssemos chamá-lo de ambicioso. Como está, é uma animação divertida, original e com uma bela música de fundo.
+<blockquote>_Oh, meu Deus!_</blockquote>
+
+Com toda a calma do mundo, você saca o seu netbook, baixa a versão homologada do controle de fonte e descobre facilmente o problema, gerando um patch e recompilando o projeto.
+
+```
+#include <windows.h>
+#include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
+
+void DoProcess()
+{
+	int nextNumber = rand() % 1000;
+	//bool even = nextNumber % 2;
+	bool even = !(nextNumber % 2);
+	printf("%d => %s\n", nextNumber, even ? "even" : "odd");
+}
+
+int main()
+{
+	srand( time(0) );
+
+	while( true )
+	{
+		DoProcess();
+		Sleep(3000);
+	}
+}
+
+ 
+
+```
+
+Feliz da vida, avisa o seu chefe que a única coisa que precisam trocar é o serviço crítico. Parar, trocar o arquivo, reiniciar o serviço. Simples.
+
+Porém, ele lhe avisa que esse é um serviço crítico, que não pode parar por nenhum segundo sequer. A atualização terá que ser feita sem parar o ciclo ininterrupto de pares/ímpares chegando do gerador de números randômicos.
+
+Mais uma vez calmo da vida, você diz que isso é coisa de criança. Tudo que precisa fazer é atualizar a versão certa na memória. O arquivo poderá ser renomeado e, quando o serviço puder ser reiniciado, a versão nova será executada. Enquanto isso, o patch na memória bastará para corrigir o problema e não causar nenhum momento inoperante.
+
+Tudo que você precisa é abrir o processo pelo WinDbg, encontrar a versão defeituosa e substituir os bytes certos.
+
+{{< image src="zrZQir4.png" caption="Corrigindo versão" >}}
+
+<blockquote>_Nota: O parâmetro -pv permite depurar um processo de forma não-invasiva, mas as threads serão suspensas. Já com -pvr podemos depurar de forma não-invasiva e ainda conseguir manter as threads do processo rodando._</blockquote>
+
+Analisando o disassembly da função nova e antiga podemos perceber que o tamanho delas não mudou (bom sinal), mas o uso dos registradores e a lógica interna teve uma alteração significativa (mau sinal):
+
+    
+    Função antiga: bool even = nextNumber % 2;
+    test    edx,edx
+    setne   al
+    mov     byte ptr [ebp-1],al
+    movzx   ecx,byte ptr [ebp-1]
+    test    ecx,ecx
+    je      criticalservice!DoProcess+0x3f (0040105f)
+    
+    Função nova: bool even = !(nextNumber % 2);
+    neg     edx
+    sbb     edx,edx
+    inc     edx
+    mov     byte ptr [ebp-1],dl
+    movzx   eax,byte ptr [ebp-1]
+    test    eax,eax
+    je      criticalservice!DoProcess+0x3f (0040105f)
+
+Podemos começar escrevendo a função nova da memória do processo de teste para um arquivo, e lendo em seguida para cima da função antiga. Só que para isso temos que nos certificar que os endereços que referenciam para fora da função sejam os mesmos. Nesse caso, felizmente, são.
+
+    
+    0:001> .writemem c:\tests\newfunc.dat criticalservice!DoProcess 0040107e
+    Writing 5f bytes.
+
+Em seguida iremos sobrescrever a função antiga no processo em execução. Para evitar crashes é vital que tenhamos certeza que a função não estará sendo executada nesse momento. No nosso caso basta aguardar a entrada na função Sleep da API, que dorme por 3 segundos, tempo suficiente para a atualização.
+
+{{< image src="bMI63Ka.png" caption="Live Patch!" >}}
+
+    
+    0:000> .readmem c:\tests\newfunc.dat criticalservice!DoProcess 0040107e
+    Reading 5f bytes.
+
+Atualizada a função, apenas nos lembramos de renomear o arquivo antigo e atualizar o novo para evitar reativar o problema. Agora podemos voltar para a apreciação das belezas da natureza...
 

@@ -1,24 +1,66 @@
 ---
 categories:
-- writting
-date: '2018-01-13'
-link: https://www.imdb.com/title/tt5607714
-tags:
-- movies
-title: Corpo e Alma
+- coding
+date: 2019-05-08 22:15:50-03:00
+desc: Como corotinas podem ser implementadas em C de maneira portável e minimalista.
+tags: null
+title: 'Coroutines Em C: Picoro'
 ---
 
-Corpo e Alma possui um lindo pano de fundo: ele observa a humanidade em alces, bois e humanos. A primeira cena é em uma floresta intocada, com dois cervos. Observamos seus olhares e seus movimentos. Há um lago paradisíaco e um filete de água que se esvai como se fosse infinito. Em um dado momento, um alce coloca sua cabeça sobre as costas do outro. Há uma comunicação invisível ali. Mas humana. Esse é o sentido deste longa.
+Tantas linguagens hoje em dia tentando implementar a abstração de corrotinas e inserindo mais camadas de abstração (fibras e cereais)... há duas implementações já no Boost, ambas dependendo de uma biblioteca de contexto de stack que é dependente de arquitetura (programada em Assembly).
 
-Corta para o abatedouro. Cenas fortes. Bem fortes. Bois são abatidos mecanicamente. Suas partes são separadas e penduradas. Há sangue. Muito sangue. Antes disso observávamos o mesmo olhar dos bovinos visto nos alces. E ao mesmo tempo em um humano. Ele observa da janela e sente o sol encostar em sua pele. O bovino também. No pátio, uma recém-chegada foge do sol. Ela tem problemas de comunicação e de viver.
+E aqui está a linguagem C com sua elegância, minimalismo e a filosofia "just works", por mais ou menos 50 anos.
 
-O filme escrito e dirigido por Ildikó Enyedi ganhou o Festival de Berlim. O tema da comunicação impossível entre nós, humanos, é estendido agora para nossos parentes mais próximos: mamíferos. Aqui vemos ruminantes. Os alces possuem vida curta, cerca de 20 anos. Nós, humanos, cerca de 80. Mas qual o valor de uma vida não-vivida?
+Estava pesquisando sobre bibliotecas de corrotinas em C e encontrei a [Picoro](http://dotat.at/cgi/~fanf/dotat/~fanf/dotat/git/picoro.git), de Tony Finch. O repositório pode ser baixado em git://git.chiark.greenend.org.uk/~fanf/picoro.git. Três coisas me encantaram nela: 
 
-A rotina do abatedouro e seu refeitório acaba se tornando palco de uma comunicação inusitada entre o humano e a humana que observávamos agora há pouco. Eles são o diretor financeiro e a novata naquela fábrica. Ela é isolada pelo seu autismo. Ele pega seu braço paralisado. Ambos, muito lentamente, vão desenvolvendo uma relação amorosa inusitada, enquanto um roubo inusitado do "pó do amor" para os bovinos vai sendo desenvolvido em uma investigação psicológica.
+ 1. portabilidade (fácil de testar em qualquer arquitetura).
+ 1. simplificade (um header e um .c com menos de 200 linhas, e a maioria são comentários).
+ 1. manutenção (o último commit é de 2010, ou seja, ninguém mais mexeu nela por nove anos).
+ 
+Ela é uma biblioteca feita para resolver o problema mais básico de toda corrotina: troca de contexto. Isso é feito de maneira descentralizada, embora ela inicie com uma corrotina principal: a primeira que constrói uma corrotina. A partir dessa é possível criar outras e dar resume em qualquer uma delas que não tenha terminado.
 
-As pontas de Corpo e Alma nunca são presas o suficiente para que seu tema fique claro. Ele é sutil demais para nos manter atentos ou nos entregar algo marcante. Porém, sua leveza frente a cenas fortes é arrebatadora. Quase poética. Uma versão espiritual de Boy Meets Girl sem ter muito o que desenvolver. Se trata apenas de olhar e experenciar.
+A linguagem C já implementa troca de contexto através das funções padrão `setjmp` e `longjmp`. Há um tipo dependente de arquitetura, `jmp_buf`, que é usado para guardar o contexto. O salto é feito no estilo da função `fork` do Unix, ou seja, não há inclusão de mais nenhuma sintaxe diferente do usual: é um if que retorna 0 (contexto principal) ou não-0 (estamos em outro contexto).
 
-O proprio gênero oscila atrapalhadamente entre o humor e o drama. A menina é autista e seus problemas de comunicação podem ser vistos como engraçados, apesar de dramáticos. Fica um ponto de interrogação toda hora. O público fica em dúvida. O filme fica em dúvida. O filme está com o vidro embaçado, apesar de lindo e apesar de sereno.
+O picoro organiza tudo isso em torno de uma lista ligada. Aliás, de duas listas ligadas: `running` e `idle`, onde o head de cada uma delas é usado para verificar se há corrotinas paradas ou em execução. Há algumas regras básicas para que tudo funcione. Por exemplo, uma corrotina que já foi executada até o final ou que está bloqueada pela chamada de `resume` não pode ser posta para rodar.
 
-Sangue e olhares se misturam em uma poesia contada em prosa, tão sutil que esqueci sobre o que se trata.
+Vamos começar com um exemplo simples: apenas um corrotina que recebe um inteiro e incrementa três vezes. A cada vez que ele incrementa ele devolve o controle de execução via yield. O `main` cria três dessas corrotinas e dá resume em cada uma delas três vezes, finalizando a execução de todas. Ao final, o counter final é de 9.
+
+```
+#include "..\picoro\picoro.h"
+#include <stdio.h>
+
+void* mycoroutine(void* arg)
+{
+	int* counter = (int*) arg;
+	(*counter) += 1;
+	yield(arg);
+	(*counter) += 1;
+	yield(arg);
+	(*counter) += 1;
+	return arg;
+}
+
+int main()
+{
+    int counter = 0;
+	int i;
+	coro coroutines[3];
+	int maxi = sizeof(coroutines) / sizeof(coro);
+
+	for (i = 0; i < maxi; ++i)
+		coroutines[i] = coroutine(mycoroutine);
+
+	for (i = 0; i < maxi; ++i)
+		resume(coroutines[i], &counter);
+	for (i = 0; i < maxi; ++i)
+		resume(coroutines[i], &counter);
+	for (i = 0; i < maxi; ++i)
+		resume(coroutines[i], &counter);
+
+    printf("final counter: %d\n", counter);
+	return 0;
+}
+```
+
+É importante observar que o uso de troca de contexto pode facilmente consumir a pilha, pois ela está sendo compartilhada com muitas funções em paralelo. Para reservar espaço a `coroutine_start` aloca um array de 16 KB (fixo). Esses detalhes de implementação podem ser alterados, pois a biblioteca é tão mínima e simples de entender que construir qualquer coisa em cima dela é trivial.
 

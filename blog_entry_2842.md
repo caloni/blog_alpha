@@ -1,28 +1,17 @@
 ---
 categories:
 - writting
-date: '2019-10-12'
-link: https://www.imdb.com/title/tt9105628
+date: '2011-02-20'
+link: https://www.imdb.com/title/tt1243957
 tags:
-- cinemaqui
-- mostra
 - movies
-title: O Último Amor de Casanova
+title: O Turista
 ---
 
-Parte da biografia oficial de Giacomo Casanova, uma mistura entre aventureiro, bon-vivant e relator dos costumes da época, O Último Amor de Casanova é um filme absurdo, lamentável e terrível. Ele não possui um elenco necessário, apenas objetos no cenário para dizer suas falas. Não estabelece conexão com o espectador, mas flerta com a possibilidade de acharmos seu protagonista e suas aventuras amorosas dignas de importância por motivos históricos.
+Há filmes que enriquecem ainda mais em uma revisita (O Sexto Sentido, Donnie Darko, Cidade dos Sonhos). Porém, ter um segredo final que pode mudar tudo o que vínhamos assistindo desde o início nem sempre se revela uma boa ideia (Os Esquecidos, A Caixa, A Passagem). Infelizmente, O Turista se encaixa nessa segunda situação.
 
-Ele gira em torno do único interesse amoroso do conquistador que de acordo com ele próprio não se tornou sua amiga, e por "conquistador" entenda por alguém com dinheiro e fama que compra suas companheiras, e "amiga" por alguém que ele tem acesso aos seus órgãos genitais. Essa pelo menos é a impressão do filme, muito embora não esteja muito longe dos costumes da época. A biografia de Casanova se tornou por muito tempo uma visão fiel (e abominável) do final do século 18 na Inglaterra.
+Ainda que Johnny Depp perceba que seu personagem não é mais do que uma pista-recompensa de qualidade duvidosa, não há muito o que fazer senão apresentar Frank como um ser inexpressivo que vive um relacionamento improvável com uma mulher que acabou de conhecer em sua viagem a Veneza. Dando-lhe uma carona em seu barco, ela o apresenta no hotel onde está hospedada como seu marido, o que, convenhamos, é uma situação incomum, mas, aqui, a mulher misteriosa não é qualquer uma, mas Angeline Jolie, o que torna a experiência bem mais aceitável.
 
-Casanova só fala francês, mas podemos ouvir pessoas falando inglês por toda a parte, em uma imersão de um forasteiro em terras estrangeiras. Tudo isso são metáforas? Há alguma mensagem codificada nos detalhes do longa? Nunca saberemos, pois há uma distância entre espectador e filme intransponível. A fotografia é muito escura, naturalista, que vai piorando com o tempo. Se há algo claro em "Casanova" é que ele faz um esforço sutil, mas constante, em destituir esse período da História de todo glamour, pomposidade e romance que estamos acostumados de outros filmes.
-
-A ideia por trás da fotografia escura lembra filmes como Barry Lyndon, de Kubrick, que insistiu em usar iluminação da época, velas e candelabros, para iluminar não apenas o cenário, mas o set de filmagens, o que se torna uma diferença prática que contou com uma tecnologia desenvolvida na Nasa. Porém, em "Casanova" o clima sempre é cinzento, o que faz com que até durante o dia tudo seja escuro e apagado de vida.
-
-Isso é uma descaracterização, pois projeta no espectador a impressão que as pessoas da época enxergavam daquela maneira. Causa perda de cores, e todos aqueles figurinos vistosos que estamos acostumados a ver se tornam meros rabiscos eventuais em torno de um cinza quase opressivo. A trilha sonora também paga o preço, sendo inexistente ou apenas dentro da história. E a filmagem das cenas são feitas em planos longos que trazem um aspecto realista pelo movimento e onírico pela câmera que flutua, o que remete diretamente a Arca Russa, trabalho monumental do diretor russo Alexander Sokurov que quis e conseguiu filmar um longa inteiro em uma única tomada.
-
-Todos esses traços estéticos são possíveis de serem notados sem pressa porque a história de Jérôme Beaujour se arrasta. Quase totalmente centrada na conquista frustrada de Casanova e sua pretendente, contada em flashback no momento em que ele escrevia sua biografia, com a ajuda de uma mulher, claro, a história não tem uma trama em si, mas se recarrega a cada novo momento dessa conquista. E enquanto vemos mais do mesmo refletimos sobre fotografia, sons e objetivos.
-
-A direção nem sempre coesa de Benoît Jacquot (3 Corações) também não ajuda. Jacquot não possui o menor interesse que o espectador se interesse, preferindo deixar a história fluir no automático. O problema aí é que não se trata de uma história lá muito empolgante, e fica ainda pior quando o diretor não nos mostra o caminho para fora desse labirinto de caracteríticas escolhidas a esmo.
-
-O Último Amor de Casanova possui uma virtude frente a tantos trabalhos que retratam a nobreza da época como algo mais pulsante. Ele é chato. Intragável. Em uma versão oposta de A Favorita, comédia de época empolgante do diretor grego Yorgos Lanthimos, este é um filme de época que realmente nos dá a impressão de como era fácil se entediar naqueles anos. E nem junto das aventuras de Casanova nos salvamos.
+Ponto fraco: história que desaba em uma revisita, ainda que mentalmente, depois de ter assistido.
+Ponto forte: Angeline Jolie.
 

@@ -1,19 +1,16 @@
 ---
 categories:
 - writting
-date: '2021-07-24T22:25:45-03:00'
+date: '2014-01-18'
+link: https://www.imdb.com/title/tt0494834
 tags:
 - movies
-title: Paixão Selvagem
+title: Paixão Proibida
 ---
 
-Esse é um dos primeiros filmes que vi no Noitão Belas Artes. Talvez tenha sido o primeiro evento deles. O tema: paixões avassaladoras.
+Esse drama-romance se passa no século 19, onde viajar pelo mundo não era agradável, nem rápido, nem seguro. A forma como são retratadas as longas viagens que o protagonista (Michael Pitt) faz em busca de ovos do bicho-da-seda pela África e, principalmente, pelo Japão, são o ponto forte da trama.
 
-O filme é um marco em trabalhos trash. Praticamente um Almodóvar em francês. A história: um gay se apaixona por uma gamine de beira de estrada e não consegue enfiar no cuzinho dela porque todos os hotéis reclamam que ela grita muito.
+No entanto, o romance proibido com uma oriental faz a experiência definhar em parábolas intermináveis sobre a relação com a esposa e suas frustradas tentativas de terem um filho. É Keyra Knightley quem faz a esposa, onde sua beleza facial e estrutura corpórea, acredito, faça jus à rima de sua rival do outro lado do mundo, vivido pela igualmente bela Sei Ashina.
 
-Esta é uma declaração de amor ao sujo, ao errado, ao tosco. É linda tamanha dedicação ao cinema independente, às histórias politicamente incorretas. Hoje seria proibido. Há um diálogo entre um gay e um negro e um xinga o outro. Há um baile onde acontecem sessões de stripteasing forçado e com zero sensualidade. O dono da hamburgueria é um grosso e vive peidando ("é o champanhe!"). Há um sentimento marginal que começa com um caminhão que carrega lixo, roupas usadas, bacias sanitárias e bidês, e o último refúgio de um casal de apaixonados em seu momento mais íntimo: o sexo anal mais barulhento, mais sensual e mais cafona que você verá em uma telona.
-
-Duas músicas principais, econômicas, são usadas para os dois casais desse triângulo amoroso. Ambas são inesquecíveis. A paixão e o seguro. A paixão é o idealizado impossível. O seguro é a vida arriscada dos comprometidos.
-
-Com uma participação minúscula de Gerard Depardieu dizendo que tem um pinto enorme que já causou problemas na polícia. Ele sai de cena acariciando seu cavalo. Já se convenceu e foi assistir?
+A lentidão com que as mudanças do longa vão ocorrendo, além de sua trilha sonora batida e repetitiva, desafia nossa paciência. Uma beleza de cenários belamente fotografados, é verdade, mas em torno de uma narrativa enfadonha e vazia de significados.
 

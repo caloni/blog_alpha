@@ -1,27 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-04-04'
-link: https://www.imdb.com/title/tt4715290
+date: '2019-10-17'
+link: https://www.imdb.com/title/tt9514970
 tags:
 - cinemaqui
+- mostra
 - movies
-title: Filhos de Bach
+title: Filhos da Dinamarca
 ---
 
-Filhos de Bach, uma co-produção entre Brasil e Alemanha, é um filme que tenta alçar voo muitas vezes, mas sempre é sabotado por sua história episódica, que também é simplista e desonesta. Tudo pelo objetivo de tentar mostrar duas culturas bem diferentes entre si, além de uma aparente visão social.
+Filhos da Dinamarca junta o tema óbvio do momento político atual de extremos com uma pesada dose de drama shakespeariano, e para isso nada como estar na Dinamarca. E há algo de podre nesse reino.
 
-A história tenta de forma livre unir as histórias de órfãos alemães e brasileiros. Os alemães, uma dupla, viajaram o mundo com seu sucesso reinterpretando músicas de Johann Sebastian Bach, até sua eventual separação, quando um deles se casa com uma brasileira e vive o resto de sua vida em Ouro Preto, Minas Gerais, Brasil. Quando vem a falecer deixa de herança para seu antigo companheiro, Marten Brückling (Edgar Selge), uma partitura inédita e inestimável do músico que tanto admiravam.
+Um tanto fora do cenário europeu de refugiados, onde Alemanha, França e Suécia são os países mais noticiados, o diretor e roteirista Ulaa Salim abraça a causa com uma história, assim como o brasileiro Bacurau, em um "futuro próximo" (mas nesse caso não tão distópico), quando partidos nacionalistas estão próximos de chegar ao poder. Já tendo fechadas as fronteiras, o próximo passo é expulsar os imigrantes recentes, e junto disso o país vira uma panela de pressão que cozinha extremistas de ambos os lados.
 
-Sendo obrigado a ir para o Brasil receber sua herança por "ser uma obra de arte", ele é assaltado e tem sua partitura roubada, além de seu instrumento. Ficando no país mais do que devia, vai aos poucos se habituando à cultura e à região através de Candido (Aldri Anunciação), o bem-humorado morador da cidade que fala alemão graças ao falecido músico. Não demora muito para que ele comece a ensinar crianças de um centro de convívio, incluindo, claro, os dois irmãos delinquentes.
+Delineando sua história primeiro do lado de extremistas muçulmanos que se unem em um movimento político da maneira que podem, planejando assassinar o líder político do partido que representa uma versão neonazista no cenário dinamarquês, o filme muda sua visão de maneira inteligente a partir da metade e de uma reviravolta esperada pela duração do filme, chegando a alterar o protagonista de maneira orgânica.
 
-Uma pergunta fica no ar enquanto avançamos na história: se já havia um músico alemão morando por quarenta anos na região, por que apenas Candido é o único a ter esse conhecimento?
+O roteiro força algumas situações inusitadas, mas nada que fuja das possibilidades dos seus personagens. A direção é coesa e consegue contar uma história com vários detalhes em pouco tempo. Possui a vantagem de um afiado elenco, com destaque para Zaki Youssef como Ali, que comunica muito com os olhos.
 
-De qualquer forma, a direção do alemão Ansgar Ahlers é ágil e atravessa rapidamente seu início, até se esquecendo de pontuar, talvez, que ele toca ao lado do cemitério como uma forma de se comunicar com o ex-companheiro, embora não saiba disso. Da mesma forma, o Ahlers consegue extrair o máximo de informações visuais que ajudam a explicar de maneira muito mais razoável do que os diálogos que ouvimos, que preferem soar engraçadinhos sem conseguir ser engraçado e sem querer dizer muita coisa, apenas se focando nessa diferença entre o alemão e o português brasileiro.
-
-Mas este é também um filme que atravessa sua história de maneira burocrática, sem nunca ter um momento em que ele se solte de seu esquemático roteiro, que vai inventando motivos esdrúxulos para que o músico continue no Brasil e até parta para uma empreitada arriscada demais para quem ainda tem medo de estar em outro mundo.
-
-De qualquer forma, este também é um filme bonito, que extrai os cartões postais de praxe de uma Ouro Preto chuvosa e vazia. Além disso, provavelmente a tecnicidade sonora alemã foi responsável dessa vez por conseguir colocar em um filme brasileiro um design de som inteligível, algo importantíssimo para um filme que mexe tanto com música.
-
-Ainda assim, como havia falado, nada em Filhos de Bach empolga muito. Nem seus momentos finais. Isso porque seus fundamentos estão quebrados. Eles se baseiam em roubo e chantagem, que não são perdoáveis por serem feitos por personagens que não transmitem empatia alguma. Não sabemos seu passado, só sua condição. Isso torna a experiência genérica a ponto de não nos importarmos. O que acaba não sendo uma bela mensagem para um filme que fala da esperança das crianças.
+Sem conseguir uma produção mais cara, Filhos da Dinamarca evita cenas externas e confia mais no uso da sua luz, em uma fotografia límpida que exibe pelo tom as diferenças entre bairros dinamarqueses e de imigrantes, além de evocar com sua música uma dramaticidade que nos deixaria extasiados se o que estivéssemos vendo estivesse à altura. Infelizmente a obviedade do filme em escolher lados da questão impede que o tema se aprofunde, e não merece maiores reflexões.
 

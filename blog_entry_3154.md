@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2010-12-20'
-link: https://www.imdb.com/title/tt0374546
+date: '2014-01-29'
+link: https://www.imdb.com/title/tt0125659
 tags:
 - movies
-title: Primavera, Verão, Outono, Inverno... e Primavera
+title: Preso na Escuridão (aka Abra os Olhos)
 ---
 
-Este é o filme mais poderoso do diretor e roteirista Kim Ki Duk e ele é o único cineasta capaz de contar essa história sem resistir à tentação das respostas fáceis. Enquanto outros dos seus filmes -- Casa Vazia, Fôlego, Time, Pietá -- apresentam um conceito-chave que será explorado à exaustão até nos darmos por rendidos e aceitarmos aquele novo escopo de sentimentos, em "Primavera, Verão" não existe novidade, e o que nos prende durante e após o filme é a nossa tentativa fugaz de captar algum significado. Este é um filme simples, mas que você precisa interpretar. E no preciso momento em que o estiver vendo saberá do que se trata, mesmo que ninguém diga isso verbalmente. Palavras são inúteis frente a imagens poderosas. Simples, mas poderosas.
+Acabei de ver o original de Vanilla Sky, aquele com o Tom Cruise correndo como um louco. Uma produção espanhola/italiana/francesa, o filme de 1997 conta também com a participação de Penélope Cruz como Sofia, mas diferente do tom experimental em 2001 dado pelo diretor Cameron Crowe (Jerry Maguire - A Grande Virada), a direção madura de Alejandro Amenábar (Os Outros), por incrível que pareça, transforma completamente a narrativa de dois filmes que foram filmados praticamente quadro a quadro.
 
-O diretor esbanja a qualidade indiscutível de narrar uma história mortal com eventos sobrenaturais de forma a prender a atenção do espectador na medida em que a simplicidade está sempre acima do sobrenatural, é o objetivo final, e o sobrenatural apenas o caminho pelo qual nossa percepção dos eventos será guiada. A pergunta de quem movimenta o barco para que o mestre possa observar seu pupilo vai perdendo sua força conforme a história avança, e quando descobrimos qual é o mecanismo ele não importa mais.
+Eu disse "praticamente".
 
-Nunca com pressa e sempre sem perder o timing, somos apresentados à dupla principal de mestre e pupilo de uma maneira quase contemplativa na primeira parte do longa (que é dividido em cinco partes, como é possível deduzir pelo título). No entanto, a identificação com esses personagens será vital para atravessarmos praticamente o resto de suas vidas em pulos de anos à frente, de maneira que não percamos o senso de continuidade, mesmo com tanto tempo sendo atravessado. É a identificação que nos permite continuar acompanhando uma história que se separa por décadas, e apenas a identificação do sofrimento humano que universaliza esta parábola sobre a existência.
+A composição de Amenábar conta com o uso acertado de frases-chave (ele também assina o roteiro) que permeiam a vida de César (Eduardo Noriega) de maneira a conseguir trazer à tona mais facilmente os ecos do passado que o protagonista tem que conviver quase como um pesadelo que não se revela. Mais importante, porém, é o maior tempo dado à primeira metade do filme, pois a experiência final não seria tão intensa caso não compreendêssemos em detalhes as relações entre aquelas pessoas.
 
-Para isso, o diretor também se aproveita dos elementos comuns da história: a casa flutuante e toda a disposição dos "móveis" internos (o templo de oração e as camas, que possuem ocupantes distintos no verão e no outono), os portões do lago (que têm outra função importante: fazem o papel de cortinas que anunciam uma nova parte da história), o próprio barco que vem e vai (e esse fluxo é vital para que esse ritmo faça parte constante da narrativa).
+Porém, o filme vai muito mais além do que um mero jogo de descobrir a sacada do final. A cena na cama entre César e Sofia/Núria, por exemplo, funciona como uma lenda de Narciso às avessas, pois a impotência do rapaz de conseguir fazer sexo com a pessoa que o atrai vira reflexo de sua própria incapacidade de obter sua beleza original de volta. É por isso que essa cena funciona tão bem como clímax dramático, assim como todo o seu desenrolar até o momento no apartamento de Sofia, quando temos o melhor momento do filme.
 
-Nada está à toa neste filme, e tudo, mesmo o mais mundano, como um totem que não deve ser usado como banco, possui uma função dupla: narrativa e simbólica. Essa foi a maneira do cineasta nos aproximar da filosofia budista, que não diz sobre algo específico deste mundo, mas do próprio mundo, de tudo que está nele, incluindo nós mesmos, tentando entender alguma coisa. Como espectadores não há presente melhor do que um filme que não se explica, tal como a vida, pois é da experiência de assisti-lo que encontramos a paz que nos falta em vida. É de sabermos que há alguém igualmente perdido e fascinado que entendemos que esta é uma vida de valores, que seguimos ou não, e para cada caminho há um diferente destino.
+Não que o filme desanime caminhando para o final, ou que sua metade inicial não tenha nada de mais. Essas duas partes são fundamentais, pois ligam o início e o fim de uma experiência angustiante, e apenas sua existência é que torna as cenas mais tensas tão... tensas.
 

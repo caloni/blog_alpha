@@ -1,41 +1,18 @@
 ---
-categories:
-- coding
-date: '2008-03-20'
-title: Como rodar qualquer coisa como serviço
+author: Wanderley Caloni
+categories: []
+date: '2017-04-24'
+tags: null
+title: Como publicar um livro na Amazon
 ---
 
-A maior vantagem de se rodar um aplicativo como serviço, interativo ou não, é permitir que ele seja iniciado antes que seja feito um logon na máquina. Um exemplo que acontece comigo é a necessidade de depurar a [GINA]. Para isso, preciso que o depurador remoto do Visual Studio seja iniciado antes do logon. A solução mais fácil e rápida é rodar o Msvcmon, a parte servidora da depuração, como um serviço. Hoje eu descobri um atalho bem interessante para isso.
+Estou finalizando essa semana a publicação do meu primeiro livro. Não, não é sobre programação, mas sobre Cinema. Mais de 1500 páginas sobre Cinema. Isso está acontecendo porque eu resolvi testar a possibilidade de publicar facilmente alguma coisa na Amazon baseado em um blog feito através de Jekyll (uma linguagem de marcação simples e um punhado de arquivos markdown). E, guess what? Funciona, é simples e relativamente descomplicado. Eis o caminho das pedras.
 
-Um [artigo do Alex Ionescu] falava sobre esse aplicativo linha de comando usado para criar, iniciar e apagar serviços. Mesmo não sendo o foco do artigo, achei muito útil a informação, pois não conhecia esse utilitário. Logo começaram a borbulhar idéias na minha mente:
+Antes de tudo, a coisa mais importante que você deve fazer é gerar conteúdo. Sem conteúdo não há livro. Eu, por exemplo, segui escrevendo sobre praticamente todo filme que eu assistia, pelo menos alguns parágrafos sobre. Ao final de quase sete anos, o resultado são páginas e páginas de texto. Esse é o seu patrimônio e uma ferramenta para praticar a escrita.
 
-> "E se eu usasse esse carinha para iniciar o notepad?"
+Se você usar o Git Hub Pages ou similar para publicar em seu blog poderá se aproveitar da estrutura do Jekyll, que é um builder de páginas estáticas. Basicamente cada post deve ser um arquivo markdown com um header no formato yaml. Há uns poucos templates que você pode escolher ou compilar, como o formato de cada página, e através desse template o Jekyll gera todas as páginas html. O GitHub compila automaticamente um repositório que está sendo utilizado nesse formato.
 
-{{< image src="wordclip.jpg" caption="Wordclip" >}}
+Depois que você gerar conteúdo suficiente, tudo que você precisa fazer é usar um template no Jekyll que formate o html da forma com que a ferramenta da Amazon, o KindleGen, espera. Ele recebe um html ou um opf (um formato próprio de indexação) como base e cospe um mobi, que pode ser usado para fazer upload do seu livro para publicação como ebook na Amazon. Se quiser também fazer uma versão física, eles imprimem para você. Sai mais caro, e tanto os royalties do virtual como o real são uma mixaria, mas é simples, economiza tempo e aumenta a visibilidade. Para a versão física baixe os modelos em doc deles e cole seu conteúdo. Isso já economiza formatação de margens, por exemplo.
 
-Bem, o Bloco de Notas é a vítima padrão de testes. Logo, a linha a seguir provaria que é possível rodá-lo na conta de sistema:
-
-    sc create Notepad binpath= "%systemroot%\NOTEPAD.EXE" type= interact type= own
-
-Porém, como todo serviço, é esperado que ele se comunique com o Gerenciador de Serviços do Windows. Como o Bloco de Notas mal imagina que agora ele é um motta-fucka service, expira o timeout de inicialização e o SCM (Service Control Manager) mata o processo.
-
-    >net start notepad
-    The service is not responding to the control function.
-    
-    More help is available by typing NET HELPMSG 2186.
-
-Como diria meu amigo [Thiago], "não bom".
-
-Porém porém, o SCM não mata os processos filhos do processo-serviço. Bug? Feature? Gambi? Seja o que for, pode ser usado para iniciar o nosso querido msvcmon:
-
-    set binpath=%systemroot%\system32\cmd.exe /c c:\Tools\msvcmon.exe -tcpip -anyuser -timeout -1
-    sc create Msvcmon binpath= "%binpath%" type= interact type= own
-
-Agora, quando iniciarmos o serviço Msvcmon, o processo cmd.exe será criado, que por sua vez irá rodar o msvcmon.exe que queríamos, e ficará esperando inocentemente pela sua "funesta morte" pelo SCM.
-
-{{< image src="msvcmon-service.png" caption="MsvcMon Service" >}}
-
-[GINA]: {{< relref "gina-x-credential-provider" >}}
-[artigo do Alex Ionescu]: http://www.alex-ionescu.com/?p=59
-[Thiago]: http://codebehind.wordpress.com/
+Para a capa, você pode gerar a própria ou eles possuem um gerador de capas, também, que é razoável. Na hora de subir a capa do formato físico pode editar também o texto da contracapa e até colocar sua foto.
 

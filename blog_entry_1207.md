@@ -1,34 +1,22 @@
 ---
-categories: []
-date: '2009-04-09'
-tags: null
-title: Deixe o programador programar
+categories:
+- writting
+date: '2011-02-17'
+link: https://www.imdb.com/title/tt1228987
+tags:
+- movies
+title: Deixe-me Entrar
 ---
 
-Seis meses se passaram desde que defini o cronograma para um projeto importante (mas não urgente) que deveria ser entregue cinco meses atrás. O tempo em dias que estimei na época não havia mudado nada, mas uma série de desventuras (tarefas brotando do chão e umas férias bem merecidas) fizeram com que quase nenhuma linha de código tivesse sido produzida para aquele projeto. No entanto, tenho a consciência tranquila, já que estou em uma de minhas fases mais produtivas e inovadoras.
+Apesar de ser um remake, e os diálogos, os cenários e muitos ângulos se assemelharem ao original sueco de 2008, o filme estabelece seu próprio estilo baseado principalmente na trilha sonora, na fotografia e na maneira peculiar do diretor Matt Reeves contar um romance-terror entre dois jovens. Eu diria mais: o filme, do ponto de vista estético, empolga em um nível suficiente para renovar o defasado gênero de terror.
 
-Então eis que surge na porta do templo sagrado (a sala de desenvolvimento) um dos mortais que costuma acreditar que "dirige" seus funcionários. Vira-se para mim e "define" que esse projeto não poderá passar desse mês. E todas aquelas tarefas urgentes que estavam furando a fila de prioridades, como a última da semana passada, devem ser postergadas. É lógico que nada disso foi surpresa, visto que outros discursos desse tipo e outras tarefas urgentes já haviam aparecido no decorrer desses seis meses; mas, enfim, esse foi o primeiro deadline oficialmente definido.
+A trilha sonora, por exemplo, segue o ritmo das descobertas de Owen, o garotinho solitário de pais divorciados que costuma cantarolar no deserto playground do prédio onde mora, acerca de sua nova amizade, Abby, uma menina que aparenta ter sua idade e muitos segredos por trás do seu jeito estranho de se relacionar. Essa estranheza mais uma vez é destacada pela música, que aos poucos transforma suas notas nas combinações clássicas de terror dos anos 80.
 
-Por isso mesmo, com uma preocupação constante em minha cabeça, decido desestressar um pouco e ter um almoço bem alargado (quatro horas) em um outro bairro, em outro ambiente, com uns velhos amigos para jogar alguma conversa fora. Nada como a vida fluindo devagar para fazer esquecer detalhes menos essenciais, como trabalho e estresse no trabalho. Sou obrigado nessa hora a parafrasear o sócio mais espirituoso de nossa empresa, que coincidentemente estava presente no almoço: "mas, afinal de contas, quem foi que definiu que a vida tem que ter trabalho e estresse?".
+Já a fotografia não poderia ser mais adequada para a história que conta. Com tons sombrios, e inclusive personagens que surgem das sombras ou vistos apenas pela silhueta, a iluminação praticamente escancara o estado de espírito das duas crianças e, inclusive, da própria cidade, que parece viver um período turbulento de assassinatos.
 
-Eu assino embaixo.
+Com uma direção sincronizada com a direção de arte, que compõe elementos nos cenários que por si só já explicam muito mais que os econômicos diálogos, temos um terror mais sombrio do que se fosse explicado verbalmente. (Quando vemos Owen olhar para a foto da pequena Abby, por exemplo, muitos sentimentos e pensamentos vem à mente do espectador. E isso sem nenhuma fala.)
 
-Porém, terminado o almoço, volto a pensar em como resolverei o impasse do cronograma do tal projeto superimportante, quando, ao passar pela entrada do metrô, colocam na minha mão justamente um desses panfletos de rua com mensagens subliminares. E nele estava, acreditem, leitores, a solução para todos os meus problemas!
+No entanto, a cena que mais gosto é quando Abby abraça Owen por trás, em um enquadramento que poderia muito bem resumir toda a trama de forma impecável. As participações sensíveis dos atores-mirins Kodi Smith-McPhee (Owen) e Chloe Moretz (Abby) tornam a experiência mais rica possível. E é muito bom rever Hit-Girl (Kick-Ass) de volta à ativa.
 
-Se você está com algum PROBLEMA DE DIFÍCIL SOLUÇÃO e precisa de AJUDA URGENTE, peça esta ajuda a Santo Expedito que é o Santo dos Negócios que precisam de Pronta Solução e cuja invocação nunca é tardia. (Abaixo segue a oração ao Santo).
-
-É lógico que toda essa história fantasiosa pode ser pura ficção com um pingo sequer de realidade, e no fundo almocei foi mesmo é com meus amigos imaginários. No entanto, é capaz que esse não seja um cenário incomum em muitas empresas de tecnologia por aí afora, que insistem em fazer duas coisas que, aliadas, podem gerar qualquer coisa, menos um projeto bem feito e testado:
-
-- Pedir que seus funcionários elaborem um cronograma de um projeto complexo (um mês ou mais de trabalho).
-- Pedir que seus funcionários espremam o tempo definido para o projeto de alguma forma mágica.
-
-O problema é que, na área de informática, apesar de ciência esotérica e cheia de mistérios, não existem santos, não existem milagres e não existe mágica que gere um código de qualidade se não for despendido para ele uma soma considerável de tempo e trabalho. E não estou falando de nenhum luxo. É o tempo justo, mesmo.
-
-Por isso que há eras meu amigo Strauss e o conhecido Joel falam sobre as necessidades básicas de um programador e criticam o resto. As necessidades básicas, na minha opinião, se resumem em três regras de ouro:
-
-1. Dê condições para o programador pensar
-2. Dê condições para o programador trabalhar
-3. Dê condições para o programador programar
-
-Fora isso, o resto é perfumaria, perda de tempo e enchimento de saco. Os bons programadores não querem ser gerenciados: querem programar. Só isso. Deixe-os com seus problemas e vá tomar conta de algo que não atrapalhe suas vidas. Já estará fazendo um imenso avanço na produtividade de sua empresa.
+Com a única cena insuperável no original sendo a conclusão na piscina (que no original consegue um ângulo e iluminação em que podemos "ver" toda a ação se desenrolando de um único ponto de vista), o novo Deixe-me Entrar surge como uma prova de que não devemos ter preconceitos quanto aos remakes americanos de filmes falados em outro idioma. Ainda que de vez em quando assistamos pavorosas produções.
 

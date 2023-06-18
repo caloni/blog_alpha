@@ -1,80 +1,11 @@
 ---
 categories:
-- coding
-date: '2010-05-28'
-tags: null
-title: Modificadores e qualificadores de tipo
+- writting
+date: '2023-02-20T13:52:17-03:00'
+tags:
+- movies
+title: Modern Love Tokyo
 ---
 
-"@caloni poderia pensar em fazer um artigo sobre os modificadores de tipo em c? os mais complexo, acho eu: volatile, enum, union, extern, etc"
-
-Uma coisa de cada vez: existem **modificadores** (ou qualificadores) de tipo e **especificadores** de tipo. _Volatile_ e _extern_ se encaixam na primeira categoria, _enum_ e _union_ na segunda. Veremos um pouco desses dois lados da linguagem em doses paliativas.
-
-#### Padrão C (ISO/IEC 9899:1990)
-
-    6.5.2.2 enum-specifier
-     enum
-    
-    6.5.3 type-qualifier
-     const
-     volatile
-    
-    6.5.2.1 struct-or-union
-     struct
-     union
-    
-    6.5.1 storage-class-specifier
-     typedef
-     extern
-     static
-     auto
-     register
-
-#### Padrão C++ (ISO/IEC 14882:1998)
-
-    type-specifier
-     enum-specifier
-    
-    enum-specifier
-     enum
-    
-    cv-qualifier
-     const
-     volatile
-    
-    class-key
-     class
-     struct
-     union
-    
-    storage-class-specifier
-     auto
-     register
-     static
-     extern
-     mutable
-    
-    decl-specifier
-     storage-class-specifier
-     typedef
-
-#### Modificadores de tipo
-
-Um modificador de tipo é opcional na definição de um tipo e deve estar sempre relacionado com a declaração de alguma variável. Ele determina, em termos gerais, qual será a função dessa variável. Ela pode ser modificada? Onde ela se encontra no programa? Como ela será modificada?
-
-Como exemplo rápido, temos abaixo uma variável que é atualizada pelo clock do processador e uma variável que não pode ser alterada após sua primeira atribuição:
-
-    volatile int* clockSecs = <algum-endereço-do-sistema>;
-    const float pi = 3.14;
-
-Fica meio óbvio que a primeira variável possui seu valor volátil, ou seja, muda conforme o tempo passa, e não depende do próprio código (pode mudar sem sua permissão). A segunda variável também tem um uso explícito, uma vez que o valor de pi nunca será alterado (não nesse Universo).
-
-#### Especificadores de tipo
-
-Os especificadores de tipo possuem cada um sua peculiaridade. Os mais peculiares, que veremos nos próximos artigos, serão as enumerações e as construções bizarras de structs e unions.
-
-    enum Contador { um = 1, dois, tres, };
-    union Atoms { struct { int part1; int part2; } parts; int64 total; };
-
-Aqui não é um compêndio teórico sobre a linguagem. Vamos falar particularmente da programação Windows, mas esteja livre para dar seus pitacos com respeito a outros sistemas operacionais e suas implementações igualmente exdrúxulas =)
+A temporada japonesa está bem boa. A direção competente e um elenco afiado. A primeira e a última histórias são chamarizes errados, mas as histórias do centro são muito mais maduras e bem desenhadas. Há encontros de personagens que flertam com estilos de encontros a dois do cinema. Uma coincidência incrível acontece quando dois matches de app passam uma tarde tenra e iluminada para se descobrirem em um déjà vu que deu muito errado no passado, mas ao mesmo tempo muito certo. As forças do destino são encantadoras neste episódio. E o que dizer do misterioso homem que engana uma jornalista investigativa por nenhuma vantagem exceto sentir felicidade mais uma vez? Junto da história das pontes, onde um ex-casal reavalia o peso do sexo na relação, cada um à sua maneira, Modern Love merece sua atenção por estar acima da média. Por ter um coração. E por ser entretenimento emocionante inteligente.
 

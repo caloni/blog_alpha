@@ -1,18 +1,19 @@
 ---
-categories:
-- writting
-date: '2020-03-30'
-link: https://www.imdb.com/title/tt0206013
-tags:
-- movies
-- animes
-title: Meus Vizinhos, Os Yamadas
+categories: []
+date: '2012-06-04'
+tags: null
+title: Meus repositórios no GitHub
 ---
 
-Isao Takahata foi um gênio da sétima arte. Cada novo trabalho que ele empreendia nos Estúdios Ghibli gerava um novo avanço na animação. Se [O Conto da Princesa Kaguya] acabou sendo o mais conhecido pela indicação ao Oscar, [Memórias de Ontem] foi um verdadeiro achado na Netflix, e, como se não bastasse, ele também assina a direção de O Cemitério dos Vagalumes, número 1 de filmes de fazer chorar de várias pessoas, mesmo que conscientemente elas não saibam o poder ilimitado de Takahata e sua equipe, cuja imaginação e criatividade estavam a todo momento criando diferentes formas para representar o drama humano, sempre com muita sensibilidade.
+Depois de vacilar por alguns meses, incentivado pelo meu amigo Chico Pimenta, resolvi experimentar o tal do GitHub, e consequentemente o sistema de controle de fontes distribuído Git, que antes era meio exclusivo do Linux (continua meio sendo, mas com suporte um pouco melhor para Windows).
 
-"Meus Vizinhos, Os Yamadas" é uma diversão à parte. Dividida em blocos de pequenas histórias envolvendo uma família típica japonesa, as situações do dia-a-dia são comuns, mas se tornam imperdíveis com esses traços rabiscados emulando um movimento estabanado, um reflexo da vida percebida, e não a objetiva. Uma versão oriental de Snoopy com o charme dos desenhos japoneses.
+Com isso, dei uma pequena lida no livro de introdução e comecei a migrar meus fontes perdidos num canto do HD. O que notei de vantagem com relação a outros DRCSs foi que é muito fácil e rápido criar branches e que a comunicação remota e os commits são feitos de uma maneira mais organizada e estruturada, além da própria estrutura interna do repositório ser muito simples de entender: um bando de arquivos compactados cujo nome é o hash do que ele contém.
 
-[O Conto da Princesa Kaguya]: {{< relref "o-conto-da-princesa-kaguya" >}}
-[Memórias de Ontem]: {{< relref "memorias-de-ontem" >}}
+Meus  repositórios estão armazenados em alguns branches que distribuí de acordo com o uso/importância:
+
+  * OpenSource. Projetos de fonte aberto que mantenho/ive e que poderiam se perder se alguém não fizesse backup (como o mouse tool ou regmon).
+  * Samples. Códigos de exemplo, de palestras e de testes feitos para escrever os artigos do blogue cujo autor vos fala.
+  * Caloni. Os códigos que fazem algo de útil, como o Houaiss2Babyulon, CopiaExata e DayToDay.
+  * Book. Um projeto em estado de larva sobre escrever um livro de engenharia reversa. Já possui um índice básico. Sugestões são bem-vindas.
+  * DriverEntry. Códigos do curso de desenvolvimento de drivers que estou fazendo com o Fernando, da DriverEntry Company. Recomendo!
 

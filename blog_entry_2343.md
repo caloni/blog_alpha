@@ -1,26 +1,11 @@
 ---
 categories:
 - writting
-date: '2020-08-10'
-link: https://www.imdb.com/title/tt0064612
+date: '2021-06-26T22:35:00-03:00'
 tags:
 - movies
-title: Minha Noite Com Ela
+title: Minha Mãe é Uma Peça, o Filme
 ---
 
-A aposta de Pascal e o caos governando nossas vidas. É sobre discussões morais acerca do amor. Eric Rhoemer é o mestre francês. E não são os franceses os mestres na arte do amor?
-
-No entanto, este filme nos faz lembrar que o povo francês também possui valores religiosos que podem parece conflitantes quando se fala de amor livre e relacionamentos fora do casamento.
-
-É na igreja que ele começa. Uma missa tradicional como as que têm aqui em solo brasileiro, com a diferença que o pai nosso é rezado em francês. Um divertimento à parte para quem já foi católico.
-
-O herói do filme é um católico que estuda matemática e de regresso do estrangeiro pretende abordar uma jovem que observa na igreja.
-
-Porém, antes disso ele irá cair nos inusitados braços de uma amiga divorciada de um amigo que não via há catorze anos. Foi apenas aquela noite e esse é o título do filme.
-
-Este é um filme naquele estilo intelectualizado, porque o francês típico reza, faz amor e conversa sobre filosofia. Vários diálogos sobre Pascal, sobre o amor e sobre a fé, são trazidos à tona, e muitas cenas viram uma verdadeira aula sobre o tema. Bom para os interessados, se é que há algum assistindo uma comédia romântica. Bom, ele pode ser francês.
-
-Nessa receita inusitada de temas o filme soa banal, apesar de tratar de grandes temas. Seus personagens ficam sufocados, soterrados de diálogos. Não é o melhor do diretor no quesito de exploração da natureza humana. É diversão ocasional sem a garantia de que nos lembraremos de alguma cena no dia seguinte.
-
-Bom, há o pai-nosso em francês. Talvez isso baste.
+Esta obra tem a capacidade de nos fazer virar e olhar para o espectador médio brasileiro de conteúdo globochanchado. É a curiosidade que nos move para entendermos esse bicho exótico. Como podem tantas pessoas recomendarem esse pedaço de audiovisual que se auto entitula "filme" (sic) quando na verdade é um palco de vergonha alheia para todos os envolvidos? Há limites para o descaso e o escracho para com a palavra filme? Há alguém com sanidade para assinar este conteúdo como algo além de tempo de tela pago para os canais globais? Existe algum cineasta digno nesta atrocidade? Incapaz de criticar a direção do que não considero um filme, gostaria que esta uma hora e meia simplesmente não existisse. Me sinto uma pessoa pior depois de ter assistido a isso. Me sinto culpado de ter ido tão longe. Até o final. Me perdoem.
 

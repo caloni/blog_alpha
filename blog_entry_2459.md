@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-05-09'
+date: '2017-05-17'
 tags:
 - food
-title: Nanni Tannat Reserva 2016
+title: Nanni Reserve Tannat 2015
 ---
 
-O frutado do Tannat junto da madeira e do tom seco.
+Encorpado e frutado; taninos secos; aguardar três anos (menos seco e um pouco doce). Corpo médio, extremamente equilibrado e frutado com um tanino impressionante, assim que aberto. Abri pra comer com presunto espanhol e rondeli de SBC.
 

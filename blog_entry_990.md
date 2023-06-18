@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-06-07'
+date: '2019-06-17'
 tags:
-- beer
-title: Colorado Appia
+- wine
+title: Colomé de Rio Negro
 ---
 
-Ele tem um doce sutil, assim como amargo; lembrar de tomar por inteiro, como Weiss. Em casa, não lembro o que comia. Uma nuvem de bitter e frescor que se aproxima da mescla entre uma Pilsen e algo a mais que ela e a Serra Malte possuem.
+Colomé de Rio Negro (Argentina) 2016. Corpo médio/forte, marca registrada da região de solo castigado. Frutas negras e/ou vermelhas maduras mais intensas que Malbec médio. Um pouco azedo e ácido, vai vem com carne mais gordurosa ou um Ancho de final de semana preguiçoso.
 

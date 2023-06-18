@@ -1,18 +1,22 @@
 ---
 categories:
 - writting
-date: '2020-12-08'
-link: https://www.imdb.com/title/tt3845892
+date: '2016-04-07'
+link: https://www.imdb.com/title/tt3845232
 tags:
 - series
-title: 'Sherlock: The Final Problem'
+title: 'Sherlock: The Abominable Bride'
 ---
 
-O último episódio da série da BBC sobre o detetive mais famoso de todos os tempos (e sua família) está longe de ser o melhor de todos, mas assistindo agora em revisita soa melhor do que a primeira vez. Talvez as séries e filmes que assisti nesses últimos três anos não tenham ajudado muito a elevar a sétima arte, com raras exceções. O mundo está muito chato e condescendente com uma barra que talvez nunca tenha baixado tanto em tão pouco tempo.
+A quarta temporada da série possui apenas um episódio por enquanto, e como todos os episódios anteriores, do tamanho de um filme de uma hora e meia, mantendo um clima morno metade do seu tempo, diminuindo seu ritmo para retratar a época vitoriana abandonada pela própria premissa da série de se atualizar. Neste episódio estamos na época original de Sherlock Holmes, e em uma de suas história originais, vinda de seus livros que, claro, continuam aqui sendo escritos por Watson.
 
-É nesse estado de podridão e perdição que o episódio sobre a irmã perdida e psicopata de Sherlock vem bem a calhar. É a vilã perfeita. Um gênio incompreendido, se torna uma assassina sem pudores, porque "percebeu" desde cedo, observando o mundo em sua volta, que a moral é relativa, que bem e mal são criações úteis para a lei da evolução, mas não tão úteis para quem não consegue enxergar nada além da razão pura.
+O episódio, claro, utiliza os mesmos atores e personagens, mas em disposições ligeiramente diferentes: o irmão mais velho de Sherlock é gigantesco de gordo, e Molly Hooper se disfarça de homem para trabalhar no necrotério. E o roteiro se diverte imensamente dessas diferenças: Sherlock e o irmão apostam em quanto tempo Mycroft irá morrer por comer feito um porco e, em vez de não perceber o amor platônico de Hooper, Holmes não percebe que ela é uma mulher de bigode. O grande trunfo deste episódio é dar uma oxigenada na série e reviver momentos semelhantes de maneira diferente ao de costume.
 
-Então ela se diverte matando pessoas como um jogo e um experimento social. Ela quer entender algum sistema emocional com quem teve mais intimidade, e nesse caso é do seu irmão mais próximo de idade. Ele o leva para lugares de sua mente que ele não se atreveu a explorar em todos os episódios da série, mas agora se torna obrigado a usar como uma arma contra a loucura das deduções perfeitas de sua irmãzinha amiga do finado e celebrado Moriarty.
+Além de manter os artifícios que tornaram "Sherlock" um trabalho monumental de roteiro e uma evolução no que diz respeito a direção de arte e fotografia, a direção mantém o mesmo ritmo de melhora contínua. As transições elegantes entre um labirinto de plantas e os dedos pensativos de Holmes ou um testemunho na sala de estar do detetive "se jogando" frente à cena do crime são dois exemplos de uma série racional, pautada em diálogos, mas sem perder seu dinamismo visual, sua provocação constante e eclética na mente do espectador.
 
-É um final digno. Envolvente. Formulaico, claro, mas envolvente. Não se pode dizer que ele não traz questões no mínimo interessantes, que nos faz pensar no valor das relações humanas. Um caso de família. Uma família de sociopatas, no caso. O episódio é glorificado e, assim como o primeiro, tenta pavimentar o caminho que irá colocar Sherlock Holmes e Watson novamente em um pedestal. Um pedestal moderno, com conexão wi-fi, mas, ainda assim, um pedestal. Imortalizado, e talvez finalizado. Será esse o fim da série?
+Sendo assim, se é divertido acompanhar os letreiros que pulam na tela quando um personagem recebe um bilhete, ou os recortes de jornais flutuando em frente a um Sherlock Holmes concentrado e dopado, esses detalhes escalam para o nível de brilhantismo quando descobrimos a verdade por trás da história, fazendo com que o roteiro de Mark Gatiss e Steven Moffat figure com honra entre os deliciosamente mais complexos e inusitados da série, provavelmente do lado de A Scandal in Belgravia. Depois da reviravolta principal nada mais parece o mesmo, e até um espectador menos atento irá perceber as referências inseridas de maneira mais orgânica até do que trabalhos igualmente minuciosos como [A Origem], que é excelente, mas burocrático e técnico.
+
+Jogando o espectador nos exatos quatro minutos em que Sherlock foi expatriado, logo no final do episódio anterior, a abertura desta quarta temporada é um trabalho tão ambicioso que mais uma vez sou obrigado a compará-lo com o melhor que o Cinema tem a oferecer. Mais uma vez um trabalho que merece não só estrear em streaming, mas ocupar algumas salas de cinema pelo mundo.
+
+[A Origem]: {{< relref "a-origem" >}}
 

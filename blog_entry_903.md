@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2023-01-02T22:55:07-03:00'
+date: '2022-11-21T20:12:21-03:00'
 tags:
 - wine
-title: Château Tamagne
+title: Château Charlieu Bordeaux 2020
 ---
 
-Eu "visitei" essa vinícola da peninsula russa pelo maps e pelo site. Parece nova, alta tecnologia. Vinhos russos são uma aba nova do navegador do enófilo amador, acostumado com as uvas européias e americanas. É difícil achar equivalente, então a impressão que este vinho passa é: corpo médio, levemente azedo. Diz ser bom para carnes, mas não senti que iria harmonizar com muita coisa.
+Este vinho francês é muito agradável. Tem complexidade, mas não muita. Dá pra tomar uma taça ocasionalmente. Seu frutado é leve. Alcoólico, sim, mas pode ser jovem. Precisa respirar. Taninos sob controle.
 

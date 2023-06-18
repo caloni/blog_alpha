@@ -1,16 +1,16 @@
 ---
 categories:
 - writting
-date: '2011-12-25'
-link: https://www.imdb.com/title/tt1226236
+date: '2011-02-13'
+link: https://www.imdb.com/title/tt0961108
 tags:
 - movies
-title: Um Sonho de Amor
+title: Um Segredo entre Nós
 ---
 
-Essa história sobre a mudança dos valores sob vários aspectos é uma abordagem quase idílica do novo cinema italiano. Assistimos com certa solenidade o sisudo jantar em família (evidenciado pelo exagero de sombras) em que o patriarca, já debilitado, transfere o controle da empresa para seu filho e neto. O inusitado e refrescante dessa nova história é que nos bastidores (ou para ser mais direto, na cozinha) encontra-se a origem de mudanças radicais naquela forma de funcionar o mundo.
+"Fireflies in the Garden" começa de uma forma incisiva, demonstrando já em sua primeira cena a ignorância e infantilidade do pai do protagonista, Michael (Ryan Reynolds), quando este o manda ir embora para casa a pé, o expulsando do carro por ter perdido os óculos e atrasado a família para buscar a tia no aeroporto.
 
-Com detalhes que mesclam realidade e sonho, o filme acaba realizando um entrecorte que não necessariamente faz sentido, mas que acompanha principalmente a ascensão da mãe dessa família, Emma Recchi (Tilda Swinton), mais sob o aspecto amoroso, mas que faz rima com a ascenção da própria empresa familiar, que para crescer necessita se aventurar no universo das aquisições e fusões do mundo capitalista. E por falar em rima, faz de sua abordagem uma narrativa muito mais efetiva do que seu antecessor temático (outro italiano) [Baarìa], de Tornatore, no sentido de unir pessoas e valores.
+Se começa com uma introdução forte, o fato é que todo o resto é uma tentativa de martelar o mesmo conceito várias vezes de maneiras diferentes, o que soa enfadonho, por nunca desenvolver realmente a relação entre os personagens, e ofensivo, pois assume que o espectador, depois de meia dúzia de inserções explícitas sobre a relação malformada daquela família, ainda não seria capaz de compreender o que se passa por trás daquele lar.
 
-[Baarìa]: {{< relref "baaria-a-porta-do-vento" >}}
+Como se não bastasse, ainda precisamos ir e voltar no tempo para entendermos as consequências dos atos passados na relação entre as pessoas daquela família no presente.
 

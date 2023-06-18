@@ -1,16 +1,31 @@
 ---
 categories:
-- writting
-date: '2016-07-18'
-link: https://www.imdb.com/title/tt2277860
-tags:
-- movies
-title: Procurando Dory
+- coding
+date: '2008-08-21'
+tags: null
+title: ProcessLeaker
 ---
 
-Mas é claro que este é um caça-níqueis. E é claro que tenta emocionar, ser fofinho e engraçado. A única coisa que Procurando Dory não tenta é ultrapassar o seu original, Procurando Nemo. Na verdade, ele se empenha tanto em se tornar um filme divertido para as férias que se perde em sua própria pequenez. Um filme praticamente para TV, onde entram junto nesta lista não-gloriosa da Pixar: Carros, Carros 2, Aviões, Carros 3 (já fizeram?), Operação Big Hero, Vida de Inseto.
+O artigo anterior mostrava como detectar o leak de um processo gerado pela retenção e não-liberação de handles para o Windows Explorer. O problema fora causado por um serviço malcriado. No entanto, a título de demonstração, criei um pequeno programinha sem-vergonha para fazer as coisas parecerem difíceis. No entanto o programa é bem fácil:
 
-O problema com os filmes menores da Pixar é que, quando estes estreiam, todos esperam ver mais um exemplar da outra lista de filmes da produtora: WALL-E, Os Incríveis, Ratatouille, Up! Porém, é preciso lembrar que eles têm contas pra pagar, e filmes para produzir, não importa a ideia. Aliás, talvez importe, sim: que seja uma continuação.
+```cpp
+#include <windows.h>
+#include <stdio.h>
 
-E esta tem a desvantagem de se transformar em um passeio no parque. Enquanto Procurando Nemo até certo ponto assusta ao vermos o pequeno peixe-palhaço com uma barbatana pequena perdido na imensidão do oceano, com seus perigos infinitos, aqui os peixes nadam, andam, voam em qualquer lugar. Por mais rodeios que existam, todos sabemos que tudo vai dar certo desde a primeira cena. O passeio no parque, portanto, apesar de engraçado, é previsível e até certo ponto chato.
+int main()
+{
+	DWORD pid;
+
+	while( scanf("%d", &pid) == 1 )
+	{
+		HANDLE proc = OpenProcess(SYNCHRONIZE, FALSE, pid);
+	}
+}
+```
+
+Para usá-lo, basta abrir um Gerenciador de Tarefas com opção de exibir o PID dos processos.
+
+A partir daí, é só criar e matar várias instâncias do explorer.exe. Antes de matar um, digite o PID do novo processo no ProcessLeaker.
+
+Para listar os processos perdidos, basta usar o comando "!process 0 0" no WinDbg depurando em kernel. O resto você já sabe.
 

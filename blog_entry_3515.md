@@ -1,11 +1,16 @@
 ---
 categories:
 - writting
-date: '2022-05-15T17:08:51-03:00'
+date: '2014-01-19'
+link: https://www.imdb.com/title/tt0484111
 tags:
 - movies
-title: Sonhos com Xangai
+title: Sonhando Acordado
 ---
 
-Filme de arte sobre a China da década de 80. O Partido manda as pessoas das grandes cidades emigrar para construir a terceira linha de fábricas, mas com isso deixa famílias separadas e morando em um fim de mundo onde os jovens irão seguir seus hormônios e fazer o que é preciso para provar que são capazes. Enquanto isso os mais velhos planejam uma nova revolução para fugir do destino que seus filhos terão, voltando para Xangai. Este filme foi feito por um chinês que teve seus pais e avós nessa situação e dedica a eles. Construção clichê daquelas de arte, bem nebuloso e diálogos ou inexistentes ou feitos para teatro.
+Martin Freeman, da saga do Hobbit e do novo Watson, também consegue fazer um drama, ainda que hilário. Aqui ele vive um músico tão frustrado com seu emprego e namorada ( Gwyneth Paltrow, quem não estaria). Tentando encontrar algo de bom na vida quando está dormindo, compartilha seus sonhos com a estonteante Anna (Penélope Cruz), uma figura diametralmente oposta a seu próprio ego.
+
+O filme ganha fôlego nesse mergulho de Freeman no mundo dos sonhos. Ele encontra Mel (Danny DeVito), um especialista em sonhos (e em sonhar). Note como DeVito inclina seu corpo para falar, tão mais à vontade que se sente na posição horizontal, e verá uma interpretação ímpar do ator. O controle maior no mundo onírico não acontece com Freeman, mas em vez disso o reflexo do seu descontrole da vida real cada vez maior. Nesse ponto o realismo das frustrações do ser humano atinge seu ápice.
+
+O filme perde fôlego ao tentar diminuir cada vez mais a barreira sonho/realidade. É interessante, mas não tanto quanto as sensações de uma vida que jamais será vivida. Ou quem sabe seja esse o objetivo: mostrar como os sonhos representam tudo de melhor em nossa existência. Tal como os filmes.
 

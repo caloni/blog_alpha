@@ -1,23 +1,24 @@
 ---
 categories:
 - writting
-date: '2015-06-27'
-link: https://www.imdb.com/title/tt2639254
+date: '2019-02-02'
+link: https://www.imdb.com/title/tt7040874
 tags:
-- cinemaqui
 - movies
-title: Um Pouco de Caos
+title: Um Pequeno Favor
 ---
 
-Um Pouco de Caos é um passeio tranquilo, até demais, no mundo da aristocracia francesa (embora todos falem inglês sem cerimônias) para fazer-nos apreciar a atmosfera dominante do blasé frente aos que ainda precisam lutar para serem aceitos na alta sociedade. Durante o processo é tão óbvio que haverá um amor proibido que até isso se torna sem graça.
+Minha colega de profissão no CinemAqui, Mariana González, me recomendou Um Pequeno Favor o chamando de "quase uma versão comédia doida de Garota Exemplar". E agora me sumiram melhores palavras para definir esse filme de Paul Feig. Mas eu vou tentar.
 
-Dirigido por Alan Rickman -- o Professor Severus Snape da série Harry Potter -- depois de sua estreia na direção quase 20 anos atrás, é o primeiro filme em que ele também atua, como o Rei Luís XIV durante a construção dos jardins de Versalhes. O palácio, localizado longe do centro de Paris, suas doenças e seus pobres, contém uma coleção inigualável de jardins criados a mando do rei, e cujos projetos eram constantemente disputados pelos mais proeminentes paisagistas, especialmente os que seguem o guia moral de sua majestade: a perfeição da ordem.
+Diretor do excepcional Missão Madrinha de Casamento, Feig é um diretor acostumado a colocar na frente de sua câmera o universo feminino nas melhores atuações das atrizes que escala. Foi assim com Kristen Wiig e agora a mágica se repetiu em Um Pequeno Favor com Anna Kendrick. Eu não costumo ver diretores se saindo tão bem em dirigir atrizes, mas Feig possui em sua lente o poder de elevar suas personagens na tela acima do convencional.
 
-A história, portanto, historicamente populada, envolve em seu centro as figuras de Sabine de Barra (Kate Winslet) como uma jardineira que defende o estilo levemente caótico de suas criações, e André Le Nôtre (Matthias Schoenaerts), o arquiteto-chefe de Luís XIV e que resolve "comprar a briga" em cima da aposta de que uma guinada mais original para o próximo jardim poderia significar mais fama e apoio do monarca. E, como já sabemos, para manter Madame de Barra por perto.
+E você conhece Kendrick. Atriz e cantora, essa baixinha dublou a garota mais fofinha em Trolls, e mesmo em um filme sério como O Contador Kendrick purifica o ar tóxico deixado por assassinatos e perseguições desse filme com Ben Afleck (coincidentemente Afleck está em Garota Exemplar; mas divago). Aqui ela faz Stephanie, mãe de um garoto e dona de casa que tenta manter a casa com o dinheiro do seguro após seu marido morrer em um trágico acidente e que faz vídeos caseiros com receitas para o dia-a-dia de pessoas como ela. Stephanie é dessas jovens mães que usam vestidos coloridos que lembram princesas da Disney depois do "felizes para sempre".
 
-Para fechar com chave de ouro o triângulo amoroso de filmes de época, a esposa de Le Nôtre, Françoise (Helen McCrory), é a maçã podre do casamento, se veste de roxo e usa o seu poder de influência para impedir que seu marido avance o sinal nesse possível romance. Enquanto isso, Sabine sofre o trauma da morte de seu marido e filha, e tenta através de seus jardins se manter financeiramente.
+Mas assim como o mundo torto de Um Pequeno Favor, Stephanie não é tão inocente assim. Depois que conhece a empoderada e problemática Emily (Blake Livery) e praticamente se adota como sua melhor amiga vamos aprendendo aos poucos que por trás de uma figura angelical pode-se esconder um ou dois pecados que sugerem uma versão alternativa onde tudo poderia ser diferente se visto sob outra ótica. Será isso porque a toxicidade de Emily foi aos poucos contaminando Stephanie ou ambas no fundo se merecem mais do que gostaríamos de assumir?
 
-Com um amplo espaço para simbolismos e filosofias envolvendo jardins e nobreza de uma França em uma época 100% absolutista, o roteiro escrito a seis mãos resolve contar uma história trivial com personagens triviais, deixando o espectador à espera da grande sacada que irá erguer os ânimos. Infelizmente, ela nunca acontece. O que acontece frequentemente, no entanto, é sermos inundados pela trilha sonora de Peter Gregson, com seus toques empolgados demais, totalmente em descompasso com o ritmo arrastado do filme.
+Esse é um mundo cínico onde maridos pressionados podem dormir com as melhores amigas de sua esposa. Tudo soa irreal em Um Pequeno Favor, mas se formos seguir as migalhas das pistas que a roteirista Jessica Sharzer usa para justificar para onde a história caminha testemunharemos, estupefatos, que tudo faz sentido, e o elemento destoante aí é Stephanie, que faz de tudo para provar, mais para si mesma do que para os outros, que pode ser uma verdadeira amiga até o fim. Ironicamente, é justamente essa boa intenção que desencadeia o desenrolar mais macabro da história.
 
-Possuindo muito pouco dos seu elenco e menos ainda de sua história, Um Pouco de Caos ironicamente não possui nada de imprevisível ou surpreendente. É um passeio seguro pelos inúmeros jardins de uma época de ouro, onde os ricos podiam se dar ao luxo de planejar os inúmeros jardins, caminhar e dançar por eles.
+Adaptado do romance de Darcey Bell, Um Pequeno Favor está sempre bebendo desses thrillers clichês em que há revelações que prefiro não falar aqui para não estragar a surpresa, mas que ao você descobrir ao mesmo tempo já percebe que já viu isso antes, mas em um formato mais sério. Aqui o espaço da comédia se coloca muito próximo do humor negro, e é justamente aí que Kendrick brilha. Habituada a fazer o tipo boazinha, é justamente essa virtude que torna todas as situações do filme hilárias, pois suas boas intenções batem de frente com um mundo que não está correspondendo ao brilho dos seus olhos, mas se olharmos de perto esse brilho não é apenas de bondade.
+
+Ágil para não nos dar tempo para pensar demais nos detalhes, Um Pequeno Favor nos presta a cortesia de ser rápido e direto ao ponto, nos entregando uma sensação estranha e engraçada ao mesmo tempo, e no processo construindo personagens e situações marcantes pela forma com que deturpa nosso senso de moral.
 

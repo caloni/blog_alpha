@@ -1,42 +1,24 @@
 ---
 categories:
-- playing
-date: '2022-06-19T21:47:14-03:00'
-link: https://www.chess.com/game/live/49423127947
+- writting
+date: '2012-05-10'
+link: https://www.imdb.com/title/tt1730133
 tags:
-- chess
-title: Dois peões ganham de um se há torres no tabuleiro?
+- movies
+title: Qualquer Gato Vira-Lata
 ---
 
-{{< image src="board.jpeg" >}}
+A influência norte-americana e suas comédias românticas de caráter duvidoso trouxeram uma produção com elenco brasileiro que não é apenas covarde em sua premissa, mas retrógrada e oportunista. Dirigido por Tomas Portella e Daniela de Carlo, ambos já envolvidos em produções hollywoodianas, o filme gira em torno do roteiro de uma peça de teatro (muito ruim, por sinal) em que a jovem e fisicamente atraente Tati (Cléo Pires) briga com seu namorado Marcelo (Dudu Azevedo) em seu aniversário por conta de suas aventuras fora do relacionamento; ao tentar procurar uma solução para seu relacionamento descobre através das teorias de um professor de biologia, Conrado (Malvino Salvador), que talvez estivesse usando a abordagem errada para seduzir homens.
 
-```
-[Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2022.06.20"]
-[White "cavaloni"]
-[Black "daycri83"]
+Tendo como premissa a ideia retrógrada e extremamente machista de que as mulheres não podem ir à caça de seus partidos, mas sim seduzirem seus homens de forma velada aguardando por uma iniciativa destes, Qualquer Gato Vira-Lata já começa, nos seus primeiros 15 minutos, a ser insuportável apenas pelas ideias que defende. Ideias essas colocadas na cabeça do tal professor de biologia, que apesar de ser fã da teoria da Seleção Natural (possui um cachorro com o nome de Darwin) reage de maneira extremamente contraditória ao constatar que não só os humanos, mas o animais devem sempre se comportar da mesma maneira pelos milhões de anos de sua existência como espécie, ignorando igualmente que a consciência e raciocínio humanos, que criaram a moral e a filosofia, por exemplo, não conseguissem nos levar por caminhos diferentes do que reza nosso código genético.
 
-1. Nf3 d5 2. e4 dxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 Nc6 {Essa é uma boa defesa
-contra o Gambito Tennison, pois protege a Dama contra a armadilha do xeque
-descoberto do bispo.} 6. O-O h6 7. Nf3 e5 8. Re1 Bd6 9. Nc3 Bg4 10. h3 Bh5 11.
-Ne4 Nd4 12. Nxf6+ Qxf6 13. Be4 O-O-O 14. Qd3 Bc5 ({Aparentemente essa linha
-deixaria as negras ganhas porque minha torre não consegue se mexer.} 14... Bb4
-{-4.43} 15. Qe3 {-4.24} 15... Bxe1 {-4.47}) 15. Nxe5 {Pus tudo a perder
-novamente contando com o xeque descoberto em cima da Dama (mais uma vez) não
-vendo que isso deixava a minha Dama desprotegida contra o xeque descoberto do
-adversário.} 15... Nf3+ 16. Qxf3 Bxf3 17. Nxf3 Rhe8 18. Bxb7+ Kxb7 19. Bd2 Qxb2
-{E de repente eis que meu adversário entrega sua Dama também, em troca de uma
-Torre.} 20. Reb1 Qxb1+ 21. Rxb1+ Ka8 22. Bf4 Re2 23. Bg3 Rxc2 24. a4 g5 25. Rf1
-Rdd2 {Agora ele entrega outra Torre, facilitando para mim.} 26. Nxd2 Rxd2 27.
-Bxc7 Ra2 28. a5 Kb7 29. Bd8 Bd6 30. g4 Bc7 31. Rb1+ Kc8 32. Bxc7 Kxc7 33. Rb5
-Kc6 34. Rf5 a6 {Agora era a hora de trazer o Rei e não ficar brincando de dar
-xeque com a Torre.} 35. Rf6+ Kb5 36. Rf5+ Kc6 37. Kg2 Rb2 38. Rxf7 Rb5 39. Rf6+
-Kb7 40. Rxh6 Rxa5 41. h4 gxh4 42. Rxh4 Rb5 43. f4 a5 44. g5 Kc8 45. g6 Rb8 46.
-g7 Kd7 {Th8 já liquida a partida; mas não, vamos deixar mais emocionante.} 47.
-f5 Ke7 48. Rf4 Kf7 49. f6 Ra8 50. Kg3 a4 51. Rh4 {Toda a questão em torno dessa
-final era impedir a promoção do adversário usando a Torre e levar meu Rei para
-apoiar a promoção de algum dos peões. Agora pensando em retrospecto faz todo
-sentido.} 51... a3 52. Rh8 Rg8 53. Rh2 Ra8 54. Rh8 Rg8 55. Rh2 Ra8 1/2-1/2
-```
+Pior do que isso apenas a futilidade de Tati, que não conseguindo se livrar da paixão que sente por Marcelo, tenta se moldar de acordo com as teorias de Conrado. Ou seja, ainda que ignorássemos as ideias por trás da história e nos focássemos no drama vivido pela protagonista, isso seria impossível, pois ela é inatingível, atrás da inexistente e/ou inexpressiva interpretação de Cléo Pires, que se resume em fazer os mesmos sorrisos e caras de choro (ajudada pelos seus belos lábios) durante o filme inteiro. Vendo Pires como atriz é acabar dando mais méritos de interpretação para sua assemelhada Juliana Paes, por menos talentosa que fosse. Além do mais, nunca sabemos muito sobre Tati, além de que ela é capaz de mudar toda sua forma de ser e agir apenas para ficar do lado de seu macho-alfa, um rapaz deselegante e arrogante cujas únicas virtudes provavelmente foram adquiridas em sessões intermináveis de academia e Jiu-Jitsu.
+
+Não contente com uma fraca trama central, o filme ainda nos brinda com fraquíssimas piadas recicladas de programas de humor televisivos (ou a internet) muito mal sincronizadas nas bocas de personagens secundários que poderiam tranquilamente deixar de existir em um enxugamento do roteiro, já que na maioria das cenas eles se limitam a fazer parte da decoração do cenário e criar contra textos para que os protagonistas não falem sozinhos e sejam tomados por loucos.
+
+Todos esses tropeços fazem com que fique fácil ignorar a amadora fotografia, que perde tantas vezes o foco que parece ter sido mal-feita de propósito para dar um ar mais "artístico" (assim como a "trama"), fazendo rima com a péssima qualidade da mixagem de som, dado que em muitos momentos, principalmente em ambientes barulhentos, as vozes dos atores ficam abafadas, restando a nós, espectadores, tentar adivinhar as falas pelo contexto. Somando-se a isso temos uma equivocada Direção de Arte que planejou a casa de Tati, por exemplo, com um branco e uma largura de quadro que é incompatível com sua mente difusa e minúscula.
+
+O fato é que, mesmo que o ritmo da história seja agradável apesar de todos os poréns, não há nada que nos leve a ser atraídos pelos personas de Tati e Marcelo, que são fúteis e antipáticos (ainda que seus corpos digam o contrário). Nesse sentido, além da trajetória de suas vidas não nos levarem a lugar algum, seus destinos pouco importam, desde que a projeção acabe logo.
+
+O que, felizmente, é um dos poucos acertos do filme.
 

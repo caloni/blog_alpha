@@ -1,29 +1,27 @@
 ---
 
-Parece haver infinitas maneiras de abordar o tema dos refugiados e terrorismo de nossos tempos. Isso já deixou de ser novidade há mais de uma década, mas agora está sendo usado à exaustão pelas artes e pela mídia. Encontraram o filão dramático que precisavam no momento certo, quando faltam pobres até na China para que as artes se aproveitassem daquela miséria lírica tão bem explorada no século passado. E eis que surge Doce Entardecer na Toscana, um trabalho fantasioso e de interpretação aberta cujo objetivo mais nobre é fazer pensar, e o menos nobre é não saber exatamente sobre o quê.
+Um amigo meu diz que argentino não sabe cozinhar. Seu ponto é simples e direto: eles não sabem fazer arroz e feijão, que são dois pratos brasileiros que a maioria do mundo já aprendeu. Porque é muito fácil.
 
-Seu núcleo dramático gira em torno de Maria Linde, poetisa ganhadora do prêmio Nobel e que está prestes a receber um outro prêmio na cidadezinha da Itália onde se estabeleceu após a imigração causada pelo antisemitismo e pelo comunismo. Ela é a matriarca da família, já é avó e repete mais vezes que o necessário o quanto seu corpo é velho. Comenta mais sobre isso quando está pensando em seu amante, um lindo (e jovem) egípcio. Ah, a paixão dos imigrantes de diferentes gerações...
+De fato. Argentinos não costumam cozinhar essas iguarias fundamentais do pobre tupiniquim. Nossos hermanos apenas colocam uma carne de muito boa qualidade na brasa e tiram quando está pronta. São mundialmente conhecidos por colocarem carne na churrasqueira, uma atividade que hoje até mulheres conseguem desempenhar com certa facilidade. Ou seja, não há desafio nem a necessidade de habilidades especiais.
 
-O motivo pelo qual Linde fugiu da Polônia é inversamente proporcional ao motivo de seu amante. Enquanto ela foge para sobreviver de um sistema desumano e abjeto, ele saiu do país porque... bem, estava afim de novos ares. E de italianas matronas ganhadoras do Nobel de literatura.
+No entanto, outra questão é colocada pelo meu amigo sobre o doce de leite argentino: apesar de muito bom, se trata de um produto industrial.
 
-É importante notar a diferença de perspectiva de todos os personagens deste filme que impacta mesmo sem entendermos muito bem por quê. Estamos falando de uma família com avó, avô, mãe solteira e um casal de filhos, uma quase adolescente e um caçula ainda bambino. E cada uma dessas pessoas, exceto o bambino, que não tem idade para isso, está em uma fase distinta da vida, o que altera radicalmente as percepções da sociedade em que vivem. Enquanto o marido, caseiro, está alheio a tudo que a cidade grande exagera, sua filha, que mora em Roma, é esse exagero dramático do filme. E a poetisa, que pode estar à beira da senilidade, sobretudo mental, aproveita para entrar no modo "me processa", dizendo e fazendo o que quiser em público porque qualquer processo jurídico que incorra contra sua pessoa tende a ter a vida mais longa do que os anos de vida que lhe restam.
+Mas que eu mal lhe pergunto: e qual o problema?
 
-E enquanto esses adultos tentam manter uma unidade familiar apesar de tantas diferenças em como enxergam o mundo, a neta descobre através da nonna um cantor chamado Frank Sinatra. E as esporádicas músicas de "Doce Entardecer" são efusivas, ultrapassam a comunicação verbal indo direto para o coração. Que época maravilhosa, tecnológica e permissiva que vivemos. É impressionante como mesmo vivendo pequenos milagres no dia-a-dia muitos ainda se prendem na televisão, na mídia, e se preocupam com questões alheias à sua vida como terrorismo e refugiados.
+Seria bom se todas as maravilhas da alta gastronomia pudessem estar disponíveis na seção de congelados e fossem mesmo uma maravilha, como os fabricantes dizem ser (spoiler: não são). No entanto, não é tão simples assim pegar um alimento fresco, preparado com os melhores ingredientes à mão e manter  sendo produzido para as massas.
 
-Alheias para muitos, a maioria, esses assuntos poderiam ser. Menos para escritores. E Maria Linde sente que precisa se expressar sobre isso. É sua responsabilidade. Porém, ela o faz na mais pura das inocências: considera seus ouvintes e leitores como iguais, capazes até mesmo de interpretar suas palavras sobre terrorismo, logo após um atentado em Roma, de maneira racional. Maria pode não ter medo do que diz, mas o resto do mundo responde de maneira reativa, automática e agressiva. E isso já diz mais sobre o mundo em que vivemos do que qualquer palavra jamais dirá.
+Já alguns produtos mais simples como doces podem se beneficiar dos processos químicos e engenhosos descobertos pela indústria para reproduzir em escala alguns sabores bem conhecidos em uma região. Este é o caso do doce de leite argentino, cujo sabor em geral respeita algumas métricas: acidez, sabor de baunilha, mais consistente que doce de leite mineiro.
 
-A atriz Krystyna Janda é quem interpreta a poetisa, e entrega a ela um desprendimento das tensões sociais que é admirável e desejável em qualquer ser humano decente. Ela toma café no cais e cheira os peixes recém-capturados pelos pescadores logo após o crepúsculo, quando o filme inicia. Cumprimentando-os, um deles exclama "finalmente o sol chegou!". Ele se refere tanto ao sol quanto à imagem de uma bella donna caminhando pelo cais. É simples e tocante, porque não existem controvérsias e o sol acabou de nascer. Apenas um café matinal entre seres humanos decentes.
+Este é um sabor apreciado pelos habitantes dessa região. Seria possível reproduzir em outros lugares? Não vejo por que não. Exceto pela falta de demanda, como ocorre no Brasil, aliás. A marca La Sereníssima produz doce de leite na Argentina e no Brasil. Quando viajo costumo comprar essa marca, mas também encontro a mesma marca no mercado do bairro. E adivinhe só: não é o mesmo sabor. Falta caramelo e uma certa acidez na versão abrasileirada.
 
-Virando o filme do avesso, o que se segue é um longo e tortuoso entardecer. Não um entardecer literal, o sol se pondo, mas a escuridão metafórica que a sociedade vive. É o anti-iluminismo, quando as pessoas param de pensar. O diretor Jacek Borcuch capta esse sentimento de maneira visual, e com a ajuda de seu fotógrafo, Michal Dymek, realiza tomadas que lembram filmes do Terrence Malick, mas apenas se Malick estivesse em depressão depois de tomar um café com Lars von Trier.
-
-São cenas escuras, drenadas de beleza. Deveriam estar jorradas de grãos mais brutos, mas nossos olhos não estão acostumados a ver tanta feiúra de uma só vez. Então Dymek coloca a sua câmera na mão, alucinada e ao mesmo tempo mesmerizada. É o sentimento de urgência, de quem acredita ser este o apocalipse. Não quer dizer com isso que são cenas rápidas, mas apenas o efeito psicológico sufocante entre a falta de luz e os enquadramentos ligeiramente defeituosos, cambaleantes.
-
-O mais triste de "Doce Entardecer" é que muitos espectadores sairão da sala de cinema ainda sem entender por que a poetisa disse aquelas palavras. Claro que eles não são ignorantes: estão cientes das consequências que aquelas palavras podem ter no mundo globalizado. Mas ao mesmo tempo eles inconscientemente zelam pela estabilidade do status quo. E não percebem que artistas existem para derrubar muros e construir pontes. Agora imagine um mundo onde pessoas como Maria Linde sejam tratadas como na última cena, e entenderá até onde tudo isso pode chegar.
+Como seria bom se o brasileiro tivesse bom gosto...
 
 ---
 categories:
 - writting
-date: '2021-09-21T22:34:42-03:00'
+date: '2020-02-19'
+link: https://www.imdb.com/title/tt9358106
 tags:
-- food
-title: Docinhos e bolo da chefe equilibrada
+- cinemaqui
+- movies
+title: Doce Entardecer na Toscana

@@ -1,20 +1,20 @@
 ---
 
-Hotel Transilvânia é uma surpresa em animação e seus divertidos momentos. A direção transforma efeitos visuais competentes em sequências sempre interessantes, utilizando personagens cativantes construídos através do imaginário popular e não tão clichês quanto poderíamos esperar.
+A maior virtude criativa de Hot Hot Hot, primeiro longa do cineasta Beryl Koltz, é abordar o arco dramático de Ferdinand (Rob Stanley) do ponto de vista de um pequeno peixe e o seu processo migratório das águas frias de um aquário solitário para o ambiente quente - no sentido sexual e térmico - de uma sauna e a sua tão peculiar fauna.
 
-E apesar de tudo isso, o filme não passa de um engodo para criar uma franquia. Um fiapo de história que sobrevive pelo carisma de seus personagens e suas brincadeiras.
+Gastando o tempo necessário para apresentar os seus personagens secundários sob o ponto de vista do deslocado protagonista, a direção faz uma aposta certeira em demonstrar sempre com ângulos altos a pequenez do nosso heroi, não sem antes ganhar a nossa empatia com uma atuação acertadamente exagerada de Rob Stanley, em sintonia com a proposta fabulosa do roteiro, que investe ainda em inventivos sonhos e representações visuais do seu deslocamento. E exatamente pela sua timidez exagerada é que outra decisão acertada do roteiro é ouvirmos seus pensamentos, pois do contrário seria impossível identificar suas reações internas.
 
-Criando uma premissa interessante com ideias que a suportem -- o conde Drácula culpa a morte da esposa, um século atrás, pelo ódio e ignorância dos humanos; como consequência, super-protege a filha única e cria um negócio baseado nisso -- Hotel Transilvânia consegue estabelecer seus elementos de maneira satisfatória, mas na hora de desenvolvê-los o peso de sua profundidade rasa o faz ironicamente desabar. O terceiro ato apenas revela isso: a história por trás do filme não estava pronta para tanta "complexidade".
+Como as possibilidades de analogia com o mundo aquático são aparentemente ilimitadas, também o são as brincadeiras do filme, que estabelece os pequenos ambientes da sauna como os próprios aquários da vida anterior de Ferdinand, ou seja, apertados (só que quentes).
 
-E como consequência todo o resto desaba junto. Logo percebemos que não há muitos motivos para construir um hotel em que os monstros se protegem de humanos. Primeiro porque todos eles só ficam no hotel durante a temporada. Segundo porque, se eles não estão no hotel, deveriam estar em outro lugar. Esse lugar, se habitado por humanos, revelaria que eles hoje em dia são inofensivos e até fãs dos monstros. Se não estão em algum lugar habitado por humanos, há algumas peças faltando nesse quebra-cabeças.
+Mesmo com tudo isso fotografia e trilha sonora possuem papeis de destaque acima das invencionices, pois são as duas que realmente comentam e ilustram a realidade desse mundo, com o uso constante dos tons de azul e laranja para representar a mescla de protagonista e novo mundo. A trilha sonora, parte integrante e esquecida da vida de Ferdinand, passa a ter papel ativo no ambiente da sauna e de sua própria postura diante dos acontecimentos.
 
-Enfim, uma bobagem divertidinha, que pode divertir os mais desatentos, e decepcionar os mais cinéfilos.
+Não direi mais nada. Não vale a pena estragar as surpresas da história, pois estas são secundárias. Em vez disso, se atente ao aspecto estético e temático. Há algo de sublime que se mantém independente da história.
 
 ---
 categories:
 - writting
 date: '2016-02-22'
-link: https://www.imdb.com/title/tt2510894
+link: https://www.imdb.com/title/tt0837562
 tags:
 - movies
-title: Hotel Transilvânia 2
+title: Hotel Transilvânia

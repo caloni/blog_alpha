@@ -1,15 +1,18 @@
 ---
-categories: []
-date: '2011-03-18'
-tags: null
-title: Loucuras multithreading
+categories:
+- writting
+date: '2011-03-24'
+link: https://www.imdb.com/title/tt0494222
+tags:
+- movies
+title: Loucos por Nada
 ---
 
-Estava eu depurando um sistema cliente/servidor com um tantão de threads e me veio à cabeça na volta pra casa como que um programador iniciante entenderia aquela bagunça de dar F10 em uma função e cair no meio de outra, dar outro F10 na outra e voltar pra primeira.
+O primeiro trabalho de longa metragem cinematográfico (já havia feito trabalhos para a TV) de Taika Waititi é simpático e divertido de assistir. Talvez pelo fato de uma produção Indie ser simpática pela própria natureza de agradar pelo diferente e pela quebra das amarras hollywoodianas que demarcam o terreno onde as produções dignas de pipoca devem ser produzidas.
 
-Loucura, não?
+Talvez, porém, seja pela interpretação carismática de Loren Horsley, que faz com que esperemos, no final de uma cena, pelo seu sorriso desconcertado de sua tímida mas ousada Lily. Essa atriz, pelo que pude constatar, ainda está esquecida na distante ilha de Nova Zelândia, onde outra produção 500 vezes mais cara (Senhor dos Aneis) foi produzida.
 
-Nem tanto. O multithreading de um sistema operacional está aí pra isso. O que ocorre, no caso de depurações em uma única IDE, é que os breakpoints temporários que são definidos ao usar o comando de step into/over podem ser ativados em paralelo, simultaneamente.
+Mas divago.
 
-Mas confesso que, de vez em quando, depurar múltiplas threads fica parecendo coisa de maluco.
+O fato é que Loucos por Nada muitas vezes nos arrebata pela criatividade das cenas, ainda que conte uma história que não tem nada de surreal. É apenas um romance entre uma garota tímida e um nerd amargurado. O que eles fazem frente às câmeras transmite tudo que é necessário para entendê-los, juntos e separados.
 

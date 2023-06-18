@@ -1,47 +1,82 @@
 ---
 categories:
 - coding
-date: '2007-07-02'
-title: Introdução ao SoftICE
+date: '2007-06-20'
+title: Introdução ao Debugging Tools for Windows (usando o Logger para monitorar APIs)
 ---
 
-O que acontece quando você precisa depurar um programa e não tem o Visual Studio instalado na máquina onde o problema está ocorrendo? Ora, para isso que existe o Remote Debugging. Eu uso direto. Você só precisa rodar um pequeno programa na máquina que vai ser depurada e abrir uma porta ou duas. O resto o Visual Studio da máquina que vai depurar faz.
+O WinDbg é uma ferramenta obrigatória em uma das minhas mais divertidas tarefas aqui na Open: engenharia reversa de cavalos de tróia. Não tenho o código-fonte desses programas, não posso executá-los em minha própria máquina e não consigo fazer tudo que preciso usando apenas o depurador integrado do Visual Studio (como remontar o assembly do programa, por exemplo). Tudo isso faz do WinDbg a alternativa perfeita (senão uma das únicas). É um depurador que permite ser usado tanto através de janelas quanto através de comandos, o que permite um aprendizado em doses homeopáticas: comece com as janelas e aos poucos ganhe o controle total. Conseqüentemente cada dia aprendo um comando novo ou um novo uso para um comando que já conheço.
 
-Tudo bem, mas e se estamos falando de depuração em kernel mode? Bem, nesse caso o mais indicado é o nosso já conhecido WinDbg. Só precisamos de um cabo serial, firewire ou USB conectando as duas máquinas.
+Abaixo um esboço de como o WinDbg se parece, com suas principais janelas. A de comandos é a da direita.
 
-Mas a vida pode ser complicada às vezes. O WinDbg em versões antigas até rodava em plataforma 9x (95/98/ME), mas agora já não roda mais. Felizmente eu mantenho uma versão das antigonas, só para garantir. Só que ele rodava apenas para depurar em user mode, o que de qualquer forma não seria útil nesse caso.
+{{< image src="windbg.png" caption="Imagem ilustrativa das janelas do Windbg" >}}
 
-Existe uma ferramenta de depuração no DDK do Windows 98 chamada WDEB386. Sua existência está documentada no próprio DKK. Funciona similarmente ao WinDbg, ou seja, o depurador em parte roda na máquina depurada e em parte na máquina que depura, e ambas são conectadas por um cabo serial. Teoricamente essa ferramenta serviria para depurar o kernel dos sistemas 9x, mas na maioria das vezes tive problemas com ela. Não que nunca tenha funcionado. Até já consegui essa proeza uma vez depois de muito ler a documentação e resolver uma série de problemas que não estavam documentados. Se você leitor quiser tentar a sorte, vá em frente.
+Ele não está limitado apenas para engenharia reversa de código malévolo. Esse é o uso que eu faço dele. Meu amigo Thiago, por exemplo, resolve problemas em servidores que rodam código gerenciado com WinDbg. É a maneira ideal de depurar um problema em uma máquina onde o ambiente de desenvolvimento não está disponível nem pode ser instalado. Outro ponto relevante é que ele não depura apenas um programa em particular, mas pode ser usado para depurar um sistema inteiro. Chamado de kernel debugging, podemos usar esse modo de funcionamento para resolver os problemas que surgem logo depois de espetar algum periférico novo comprado na Santa Ifigênia.
 
-Para piorar as coisas, existe mais um último problema: a máquina não está ao alcance de um cabo serial. Para esse último caso talvez fosse a hora de chamar um produto não-Microsoft que dá conta do recado muito bem: o SoftICE.
+Mas esse artigo não é apenas sobre o WinDbg. Ele não vem sozinho. É uma interface amigável para alguns depuradores linha de comando e outras ferramentas disponíveis no Debugging Tools for Windows, pacote disponível gratuitamente no sítio da Microsoft e atualizado geralmente de seis em seis meses. Nele podemos encontrar:
 
-O SoftICE é um depurador de kernel e user mode que é instalado na própria máquina depurada. Ou seja, ele não precisa de uma segunda máquina só para rodar o depurador ou parte dele. Funciona no MS-DOS (versão 16 bits), plataforma 9x e NT. Criado pela Numega, mais tarde foi comprado pela Compuware, que passou a vendê-lo como um pacote para desenvolvimento de drivers, o Driver Studio. No seu time de desenvolvimento passaram nomes consagrados como Matt Pietrek e Mark Russinovich.
+ - CDB: depurador que roda em user mode e é uma "linha de comando agradável" para um programador avançado.
+ - NTSD: depurador que roda em user mode, da mesma forma que o CDB, mas também pode ser usado como um redirecionador de comandos para o depurador de kernel (logo abaixo). Existem algumas diferenças sutis entre esses dois depuradores (como o fato do NTSD não criar janelas quando usado como redirecionador), mas são diferenças que se aprendem no dia-a-dia.
+ - KD: depurador que roda em kernel mode, pode analisar dados do sistema local ou depurar um sistema remoto conectado através de um cabo serial ou por meio de um pipe criado por uma máquina virtual. 
 
-Essa ferramenta teve seus dias de glória quando a maioria dos crackers a utilizava para quebrar a proteção de programas e do sistema operacional. Tanto foi famosa que foram desenvolvidas diversas técnicas para detectar se o SoftICE estava ativo na máquina, mais ou menos o equivalente das diversas técnicas atuais para detectar se um programa está sendo executado dentro de uma máquina virtual.
+ Existem outros métodos mais avançados ainda para conseguir depurar uma máquina tão tão distante, por exemplo.
 
-O SoftICE deve ser instalado na máquina do desenvolvedor para gerar os símbolos dos programas e na máquina que vai ser depurada para depurar. Isso quer dizer que ele não precisa ser ativado na máquina do desenvolvedor. Só precisamos usar uma ferramenta chamada Symbol Loader, responsável por gerar símbolos e empacotar os fontes para serem usados na máquina depurada.
+ - Logger: tracer de chamadas de funções da API. Pode ser usado para análise de performance ou para fazer o que eu faço com os trojans, que é dar uma olhada nas funções que eles chamam constantemente.
+ - Logviewer: visualiza resultados gerados pelo Logger.
 
-Na hora de instalar, você tem três opções:
-	
- - Full installation: desenvolvimento e depuração; use se for desenvolver e depurar na mesma máquina.
- - Host machine: apenas desenvolvimento; não serve para depuração.
- - Target machine: depuração; instale essa opção na máquina de testes.
+Existem ainda outras ferramentas, mas estas são as principais que costumo utilizar. Para saber como usá-las de acordo com suas necessidades recomendo a leitura de um pequeno tutorial para o WinDbg que vem junto da instalação, o kernel_debugging_tutorial.doc. Ele é apenas a introdução dos principais comandos e técnicas. Depois de ter dominado o básico, pode partir para o arquivo de ajuda, que detalha de forma completa todos os comandos, técnicas e ferramentas de todo o pacote: o debugger.chm. A maioria dos comandos que precisava encontrei usando essa ajuda ou em alguns blogs muito bons, como o Crash Dump Analysis. Porém, acredite: no WinDbg, você quase sempre vai encontrar o comando que precisa.
 
-Após esse processo e a compilação do seu driver favorito podemos gerar os símbolos.
+Para exemplificar um uso prático dessas ferramentas vamos usar o Logger para descobrir quais funções API estão sendo chamadas constantemente por um cavalo de tróia, uma coisa um tanto comum em ataques a bancos. Para tornar as coisas mais reais ainda vamos utilizar o código-fonte de um suposto cavalo de tróia usado em minhas apresentações:
 
-Infelizmente, o Driver Studio só traduz os símbolos corretamente até a versão 6 do Visual C++, ou seja, não inclui nenhuma das versões .NET do Visual Studio (2002/2003/2005+). A Compuware se negou a oferecer suporte para os novos compiladores, talvez até prevendo que o produto iria ser descontinuado em breve.
+    #include <windows.h>
+    #include <shlwapi.h>
+    
+    int WINAPI WinMain(...)
+    {
+      CHAR wndTxt[MAX_PATH];
+    
+      while( true )
+      {
+        HWND fgWin = GetForegroundWindow();
+        wndTxt[0] = 0;
+    
+        if( GetWindowText(...) )
+        {
+          if( StrStrI(wndTxt, "Fict Bank") )
+          {
+            MessageBox(fgWin, 
+              "Hi! Like to be under attack?",
+              "Free Trojan", 
+              MB_OK);
+            break;
+          }
+        }
+      }
+    
+      ExitProcess(ERROR_SUCCESS);
+    } 
 
-A geração de símbolos pode ser feita de modo gráfico pelo Symbol Loader ou pela linha de comando. As opções chamadas source e package são importantes para traduzir utilizando o código-fonte e empacotar esse código-fonte no arquivo gerado. Note que eu disse empacotar, o que significa que o fonte vai estar dentro do arquivo de símbolos. Portanto, se a licença do seu software é de código fechado, nunca se esqueça de apagar esse arquivo quando estiver na máquina de um cliente.
+Para compilar esse programa, você só precisa digitar os seguintes comandos em um console do Visual Studio:
 
-Se tudo der certo no final teremos dois arquivos a serem copiados para a máquina depurada. Depois de copiados e o driver instalado, insira pelo Symbol Loader o arquivo NMS na lista de símbolos a serem carregados no reboot. Após configurar o depurador como lhe aprouver basta reiniciar a máquina. Feito o reboot, existe uma tecla mágica que irá nos levar para o mundo da tela preta, o ambiente padrão do SoftICE: Ctrl+D.
+    cl /c freetrojan.cpp
+    link freetrojan.obj user32.lib shlwapi.lib
 
-A interface é divida em pseudo-janelas que ficam organizadas em camadas. Para exibir/esconder as janelas ou especificar o tamanho de uma delas usa-se o comando w. Aliás, basta começar a digitar um comando e o programa irá listar os comandos possíveis.
+O logger.exe possui uma extensão que pode ser usada pelo WinDbg para usar os mesmos comandos a partir do depurador. Mas para tornar as coisas mais fáceis nesse primeiro contato iremos iniciar o programa através do próprio executável:
 
-Com certeza existe um monte de coisas novas para aprender quando se troca de depurador. Mais uma vez, assim como o WinDbg, temos a opção de utilizar o sistema de janelas ou a linha de comando. Aqui vão algumas dicas importantes:
+    logger freetrojan.exe
 
- - Para mostrar a tela do SoftICE, Ctrl+D. Digite novamente e ela some e o sistema volta a rodar.
- - Os nomes dos comandos se assemelham aos do WinDbg. Tente usá-los e sinta as diferenças.
- - A ajuda do programa é muito boa e explica direitinho todos os detalhes do ambiente. Caso algo falhe, RTFM!
+Irá aparecer uma janela onde selecionamos o conjunto de APIs que serão capturadas. Podemos manter todas as categorias selecionadas e mandar rodar usando o botão "Go". Aguarde o programa executar por um tempo para termos um pouco de dados para analisar. Em minhas análises reais eu geralmente deixo ele atacar, seja no sítio real do banco ou em uma armadilha. Depois do ataque posso confirmar qual a API que ele utilizou. Se quiser fazer isso nesse teste basta criar uma janela que contenha o texto "Fict Bank" em seu título. Após isso, podemos finalizar o processo pelo Gerenciador de Tarefas.
 
-Essa parece ser uma introdução muito básica ao SoftICE. E na verdade é. Teremos outras oportunidades mais pra frente de usar esse poderoso depurador, principalmente naqueles casos onde um problema só acontece no Windows 95 Release A e sem rede. Isso não é tão incomum quanto parece.
+Mesmo após finalizá-lo ele continuará na lista de processos, como se tivesse travado. Na verdade, a parte injetada do Logger mantém o processo no ar, em um estado semi-morto (ou semi-vivo). Depois de finalizar o Logger fechando sua janela principal ambos os processos terminam e podemos ler o resultado da captura em uma pasta chamada LogExts criada por padrão no Desktop ou Área de Trabalho. Podemos dar uma olhada nos resultados através do visualizador de logs gerados, o Logviewer.
+
+Algumas colunas do Logviewer são tão úteis que vale a pena mencioná-las:
+    
+ - Module: determina quem chamou a API, o próprio executável ou alguma DLL.
+ - Call Duration: tempo em milissegundos que a chamada da função demorou.
+ - API Function: o nome da função API que foi chamada.
+ - Return Value: o retorno da chamada da função.
+
+De quebra ele exibe todos os parâmetros das funções de acordo com o tipo, identificando inclusive quando se trata de uma enumeração ou define reservado. Essa "mágica" é feita interpretando os headers que ficam na pasta Debugging Tools for Windows, winext, manifest, tarefa executada pelo Logger no início.
+
+O Debugging Tools é um pacote extremamente poderoso de ferramentas para programadores avançados. De maneira alguma conseguirei cobrir tudo que é possível fazer com essas ferramentas em apenas um blog e muito menos em um post. Porém, espero que essa pequena introdução seja o começo de uma série de artigos bem interessantes sobre debugging e uma série de testes realizados pelos meus leitores.
 

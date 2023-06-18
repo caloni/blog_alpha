@@ -1,23 +1,32 @@
 ---
 categories:
 - writting
-date: '2017-07-26'
-link: https://www.imdb.com/title/tt3476694
+date: '2017-10-21'
+link: https://www.imdb.com/title/tt2861424
 tags:
-- cinemaqui
-- movies
-title: Rifle
+- series
+title: 'A Filosofia de Rick And Morty: Primeira Temporada (anotações)'
 ---
 
-Rifle poderia ser chamado de exercício de futilidade, mas quem faz exercício tem o objetivo de melhorar. E não é isso que vemos no filme. Nele há altos e baixos que poderiam sugerir alguma linha de pensamento. O espectador anseia por significado. Mas no final fica claro que tudo não passa de uma grande bobagem.
+Reassistindo a Primeira Temporada de Rick & Morty para revisar alguns pontos filosóficos fascinantes da série. Acabei vendo a Segunda Temporada e, como já acabou, a Terceira também. E a terceira é provavelmente a melhor de todas. Vejam! Eu sou Pickle Rick!!
 
-A história se passa no sul do Brasil, onde uma região pecuarista decadente está sendo comprada por grandes produtores de soja (aqui na história, folcloricamente apenas um comprador). Não é segredo que a maior parte da soja produzida no país é exportada. Assim como a carne. Então podemos dizer que há um empate técnico de interesses.
+ - S01E01 Rick comenta no piloto que eles não sabem o que é mais importante. Precisa de uma semente para ficar mais inteligente para fazer mais ciência. Isso meio que planta a semente da dúvida se Rick é absurdista, niilista ou simplesmente um cientista fanático.
 
-Mas nada disso é discutido no filme. A maioria dos dados sobre o tema você irá ter que trazer de casa. A história em si é uma tentativa de romantizar e justificar a bandidagem. O ritmo com que a história é imposta, principalmente no começo, é de fazer dormir. Tudo gira lentamente no dia-a-dia da fazenda, e logo o tempo não importa mais, mas a causalidade. Há ladrões de carne espalhados pela região que fazem o que quiser com os moradores e suas reses. Aparentemente ninguém tem sequer um rifle nas residências para proteção.
+ - S01E02 Episódio sobre cachorro inteligente levanta a questão de não ser errado desligar uma consciência que foi adquirida por outro ser (que poderia ser uma máquina). Também brinca com o conceito de A Origem e Fred Krueger (uma versão segura de um filme dos anos 80). E seus medos são os de um adolescente.
 
-E é ironicamente a causalidade (o remorso de ter que sair da região) e um rifle que faz com que um jovem (Dione Avila De Oliveira) comece a praticar violência a distância contra veículos na estrada. Dessa forma o equipamento que serve para proteção é utilizado para descontar a raiva adolescente contra os mecanismos da realidade.
+ - S01E03 Episódio de natal é um Papai-Noel mendigo que bebeu demais. Dentro dele há um parque de anatomia, fala sob os desejos do Morty de catar a minazinha e um subplot que brinca com besteiras como auto-sacrifício. A melhor parte é sobre o espírito de natal quando Jerry descobre que o negro amigo de seus pais é amante de sua mãe, ou que sua filha tem um namorado. A explosão do papai-noel gigante em pedaços e a chuva de sangue é uma metáfora para o corpo/sangue de Cristo sendo compartilhado entre os cristãos, e como ninguém liga para os que precisam de ajuda.
 
-Os atores do filme se tornam personagens. Seus nomes próprios são usados como os nomes dos personagens, e acreditamos que eles são pessoas reais. Tudo isso vai sendo entendido através de diálogos quase incompreensíveis dos nativos, que falam com sotaque em cima de um design de som pavoroso. Não é possível entender muito com essas falas, mas o pior é não conseguir entender a história pela narrativa, que é preguiçosa a ponto de não conseguir estruturar o que pretende, ou é algo tão aberto que chega a ser covarde suas conclusões. Escolha uma das duas opções. Tanto faz. O filme não fica melhor por causa disso.
+ - S01E04 Episódio sobre simulações consegue ao mesmo tempo levantar a questão se eventos significativos de nossa vida continuariam assim se soubéssemos que estamos em uma simulação (Jerry novamente), e ainda tem a questão de como uma raça avançada ainda tem vergonha da nudez (alegoria dos estúpidos americanos?).
 
-Na verdade, fica pior. Este é um ótimo exemplo de como há um certo movimento no cinema brasileiro que está usando como clichê os cortes secos, a falta de trilha, o lugar-comum das discussões sociais vazias ou sem muito preparo. São crias de trabalhos muito mais ambiciosos, como Aquarius e Que Horas Ela Volta?, mas essas crias tentam discutir as mesmas questões dando murro em ponta de faca. Ou, no caso, atirando com um rifle na beira da estrada.
+ - S01E05 Morty tem sua aventura como principal e vai na terra de gigantes. Lá descobre que uma aventura não tem muito sentido por ela mesma, e é traumatizado ao tentar ser estuprado (Thelma e Louise?). Já na terra os meeseeks precisam atender os desejos de um ser medíocre como Jerry, o que os leva à loucura completa. Como meeseks têm sua existência curta definida em atender um desejo e sumir, vem a mesma questão das vacas em Mochileiro das Galáxias. Rick aprende que é a postura diante dos eventos do mundo o que o torna melhor. Ele acena no final do desenho para nós, piscando sua existência.
+
+ - S01E06 Múltiplos universos, Rick and Morty vão para um onde tudo foi consertado e eles morreram ao mesmo tempo. O nosso desejo por reprodução aparentemente está abaixo do super-homem que Rick decidiu ser quando aceitou o absurdo da realidade que vive. Referência a Cronenberg.
+
+ - S01E07 Feminismo com piadas sobre mulheres no episódio em que eles vão para um planeta dominado por mulheres. Os homens são os seres mais violentos do universo e por isso elas criam um robô sexual para reprodução. Engraçado que Morty fica fascinado pela mulher-robô.
+
+ - S01E08 O episódio sobre as diferentes alternativas a realidade coloca em xeque o significado de nossas vidas (como há na série infinitos universos e Rick & Morty originais morreram nessa versão, torna tudo mais real). Há uma baboseira sobre escolhas que fazemos (aborto) que podem ter alterado nossa percepção no futuro se era o que gostaríamos de fazer. O fato é que não vivenciar nossas infinitas possibilidades nos protege do arrependimento quando mais velhos. E como nada faz sentido em múltiplas realidades, por que não se divertir assistindo múltiplos universos?
+
+ - S01E09 Episódio sobre Pluto (Plutocracia), onde os ricos drenam minério do planeta (que não é mais planeta) e ameaçam a vida de 4 bilhões de pessoas. Enquanto isso, Rick ameaça o negócio do Diabo em pessoa com ciência, desfazendo as maldições que ele coloca em cada peça de sua loja. Rick demonstra que se entedia facilmente.
+
+ - S01E11 Últimos episódio da temporada é uma festa sem consequências. Isso porque quando vc pode parar o tempo nada importa.
 

@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2019-04-12'
-link: https://www.imdb.com/title/tt0448115
+date: '2018-03-18'
+link: https://www.imdb.com/title/tt3899796
 tags:
 - movies
-title: Shazam!
+title: Sharknado 3
 ---
 
-O novo filme da DC, Shazam, tenta convencer seu público que moleques órfãos de 15 anos podem vencer um vilão adulto que quer o poder mágico mais que tudo na vida. A história começa com a origem desse vilão, que é a mesma do herói, em uma economia narrativa bem-vinda, pois já se vão dezenas de filmes de origens, todos muito parecidos e esquecíveis (dica: assista apenas o do Homem Aranha e seja feliz). Shazam tem o espírito da inovação, um super-herói mirim, no corpo do convencional, na pele do ator que faz a série Chuck, Zachary Levi, que funciona como comédia, mas não exatamente como um garoto de 14 pra 15 anos.
+O herói nacional salva o presidente de um tornado de tubarões. Ele ganha a serra elétrica dourada como prêmio. E ele faz o parto do seu filho de dentro de um tubarão, enquanto seu pai se sacrifica lutando com esses predadores naturais do mar, só que na lua. São tantos detalhes divertidos da terceira parte dessa saga de defeitos digitais com tubarões criados em um aquário do Photophop que você se pergunta: o que deu errado no caminho para ele não ter a mínima graça? Ele levou tão a sério a farofa de brincadeira que deu a volta e parece sério?
 
-Essa é uma mistura simpática entre elementos que referenciam, homenageiam e satirizam trabalhos anteriores (não necessariamente os mais recentes da produtora Warner) como Superman, e que escrito por uma trupe de roteiristas segue a mesma cartilha de super-produções que não podem arriscar demais. Na produção ele finge ser uma versão politicamente correta de Deadpool. Isso apenas no teor. Na fantasia ele sonha em ser o novo Homem-Aranha live action da DC, mas carece de polimento.
+Pode ser isso. A trilha sonora solene e os enquadramentos quase bons, mas completamente perdidos, dão a entender que a série tenta desde o começo fazer um filme sério, mas ninguém no set tem competência alguma para fazer isso acontecer. Os atores repetem falas idiotas de um roteirista que não passou da puberdade (Thunder Levin começou com "Zumbis Mutantes Vampiros do Gueto", mas sair do gueto não fez bem ao rapaz). Ele adora a ideia de uma "ninfeta" (a delícia da Cassandra Scerbo) vidrada no herói pai de família casado (o sempre Ian Ziering), que tem uma filha quase da mesma idade. O herói e a ninfeta saem da água com roupas de baixo após o caça que dirigiam cair por um tubarão ter feito ele sair girando. Esse deveria ser um momento cômico, mas por algum motivo mistura uma série de emoções que te impedem de te fazer rir.
 
-Dito isto, assiti-lo é uma experiência simpática, mas nunca empolgante. Sabemos de tudo do começo ao fim. Magia, amargura, vilão, emergência, magia de novo, piadas e resolução com uma lição de moral sobre família. De uma maneira torta Esquadrão Suicida usou a mesma fórmula. Toda a leva de filmes medíocres de super-heróis utilizam os mesmos elementos de maneira preguiçosa para carregar junto as melhorias significativas de direção de arte, figurino e efeitos visuais. Isso, sim, é impressionante.
+Voltando para ninfetas. A filha do herói vai se divertir na Universal de Orlando vestindo roupas de adolescentes da Disney World para que tenhamos cenas de tubarões na montanha russa e ela ganhe um interesse amoroso que irá eventualmente morrer por um tubarão. O rapaz ganha o lugar do lado do carrinho da ninfeta porque a amiga dela não quer ir no brinquedo. Ambas possuem um ticket vip que permite que elas furem e fila e possam ir na frente dos carrinhos. Ela tem que guardar o celular em um armário, e quando sai do brinquedo temos o primeiro e inexplicável caso de uma adolescente que esquece seu celular por várias horas seguidas. São tantas explicações artificiais para a primeira cena de shark-coster que você se perde nesse complexo enredo digno de Cidadão Shark.
 
-Mas não espere uma grande história. Eu sei que duas décadas depois de começarmos a assistir pessoas fantasiadas voando é fácil pedir isso. Há muitos milhões investidos para alguém tentar inovar alguma coisa. Eu nem sei por que vou ao cinema para essa experiência. Saudosismo do Homem Aranha, talvez. Ou porque a pipoca costuma compensar. Mas ela anda tão cara...
+O plot central da história é que a salvação da costa Leste dos EUA está em mandar um foguete para o espaço para esquentar o ar em volta dos tornados e assim equilibrar a atmosfera. Outro motivo mais plausível é porque assim poderemos ver tubarões fora de órbita. Enquanto isso, nos bastidores do heroísmo, quatro tubarões em vôo sincronizado caem em cima dos quatro apresentadores de TV. Não é coincidência: é sharkoincidência!
+
+A diversão de um filme desses está em seu nonsense, mas quando o próprio filme não sente ser uma perda de tempo ele ironicamente se torna perda de tempo. É difícil imaginar um sharknado como um filme pretensioso, mas é justamente o que ele se torna aqui. E no processo ele falha miseravelmente em ser um filme ruim. Chegamos então em um novo patamar: o de produções cuja intenção era ser um filme ruim. E eles falham. Agora Sharknado é um filme ruim e um fracasso. Nem Robert Rodriguez faria pior.
 

@@ -1,24 +1,14 @@
 ---
 categories:
 - writting
-date: '2010-09-03'
-link: https://www.imdb.com/title/tt1024899
+date: '2014-06-21'
+link: https://www.imdb.com/title/tt1731141
 tags:
 - movies
-title: Enfim Viúva
+title: 'Ender''s Game: O Jogo do Exterminador'
 ---
 
-Essa é uma comédia francesa em que uma mulher tem seu marido morto em um acidente de carro justo quando está prestes a se despedir deste e fugir com seu amante, um pescador da região, e morar com ele na China. Junto da morte do marido vem toda sua família, inclusive seu filho, que fazem de tudo para "cuidar dela" e impedi-la de "curtir" seus primeiros momentos de viuvez.
+Por que estão treinando crianças para guerrear contra um povo alienígena? Se já se passaram 50 anos, onde estão os jovens dessa geração? A função de Ender é explicada em mais da metade do filme, mas qual a função de todos os outros da equipe, e por que foram escolhidos? Todas essas perguntas podem permanecer sem resposta, pois "Ender's Game" é praticamente um folclore que tenta ensinar -- ou ao menos fazer pensar -- a respeito de nossa posição no mundo entre as diferentes espécies que ajudamos a ameaçar de extinção, o que gera uma última e fatal pergunta: onde está a ética que define a sobrevivência de qual espécie é a mais importante?
 
-Um detalhe musical: enquanto ela escuta músicas mais animadas (e é curioso que no início ela comece cantarolando o tema do filme antes do som invadir as caixas de som), seu marido ouve música clássica, e vive se preocupando com coisas que podem acontecer daqui a 100 anos, indicando claramente seu distanciamento da vida a dois entre eles.
-
-Durante o enterro, temos a câmera mostrando a visão do que ela está realmente prestando atenção: pessoas em sua volta (fora de foco) e o pai de seu marido caindo atrás do arbusto.
-
-Algumas cenas parecem ocupar espaço à toa, apenas para fazer graça (a velha decrépita do bar perto do cais) ou para ficar bonito (o zoom out dela sentada no banco de frente para o mar).
-
-Por outro lado, alguns detalhes revelam um pensamento um pouco além do convencional, como a câmera que balança no ritmo do mar quando alguém olha uma pessoa em terra firme por um barco, talvez até mesmo simbolizando a vida estável que é com o marido dela (note que a câmera não balança na visão contrária) em contraponto à vida bem mais instável de seu amante pescador.
-
-E se enquanto somos infestados com piadinhas de gosto duvidoso e caricaturas que não contribuem muito para o desenvolvimento da história, quando a narrativa ganha o tom dramático do encontro dos personagens mais presentes (a esposa, o amante e o filho), a curva que vemos da comédia para uma filosofia um pouco mais "profunda" ("agora estou verdadeiramente de luto, pois perdi o homem que eu amo") contrasta de forma significativa, mas não de forma abrupta, pois somos levados aos poucos a entender o drama por trás da comédia de situação.
-
-Por fim, uma conclusão óbvia e bobinha (os dois se reencontram onde ela gostaria de morar, nas montanhas), mas que não tira o mérito de termos experimentado uma história um pouco mais realista que uma comédia comum.
+O que comprova ser um folclore, e ainda infantil, é o uso de uma raça alienígena que se assemelham a formigas (quem nunca matou uma formiga na vida?) e o uso de jogos inofensivos para treinamento de combate. O fato do exército ser composto de crianças é um bônus por criar uma interessante discussão entre qual a diferença de enviar crianças para a guerra e jovens de 20 anos (cinco anos, sete no máximo)? Pois é exatamente isso que nossos países fazem, ou farão, se necessário. Jovens comandados pelos mais velhos cuja maior ambição não é diminuir o número de baixas, mas aumentar o número do outro lado do fronte.
 

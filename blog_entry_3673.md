@@ -1,19 +1,12 @@
 ---
 categories:
 - writting
-date: '2021-02-19'
-link: https://www.imdb.com/title/tt6142628
+date: '2020-09-29'
+link: https://www.imdb.com/title/tt8005176
 tags:
-- animes
 - series
-title: The Great Passage (Fune Wo Amu)
+title: The Feed
 ---
 
-Um anime sobre dicionários. Esse é o nível de riqueza dos assuntos das animações japonesas.
-
-Não só isso, mas a riqueza de detalhes também. Esta animação possui traços de cenário que nos faz prestar atenção além do esperado nas imperfeições de uma parede ou um móvel de madeira. Como os sinais de envelhecimento de uma casa onde um jovem introvertido mora com sua idosa e simpática senhoria.
-
-Ele descobre que nasceu para fazer dicionários e entra em um novo projeto para fazer um, estimado em dez anos de trabalho. Detalhes são compartilhados com o espectador como algo fascinante.
-
-E de fato é. O uso das palavras assume dimensões sagradas em uma história apaixonante.
+Um thriller futurista meio dark. O mistério no ar no primeiro episódio não é tão eficiente para querermos ver mais, e o universo concebido para a trama minimalista. O conceito, no entanto, é curioso. Ainda que pouco explorado. Um elenco britânico misturado com outras etnias são um plus, mas não convence. Nem os atores negros, claramente escalados por cotas de diversidade (mas competentes, só que sem função na narrativa). Todas as ideias que constrõem as teorias do mundo conspiratório de hoje traduzidas nesse conceito de mentes conectadas. Daria um bom episódio de Black Mirror, mas não uma série inteira.
 

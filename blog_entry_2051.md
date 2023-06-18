@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-08-06'
+date: '2022-11-11T19:47:09-03:00'
 tags:
-- beer
-title: La Guapa Carmen
+- wine
+title: La Grupa
 ---
 
-É a cerveja do restaurante anônimo produzida pela ZalaZ, de Paraisópolis (mineira), que é leve o suficiente para ser degustada e pesada o suficiente para ser degustada com empanadas. Seu aroma de laranja e maracujá do rótulo dá um tom cítrico, mas pouco perceptível por conta de seu corpo leve.
+Bonzinho Malbec, mas já tinha bebido demais quando provei, então não tenho como opinar. Opinião de bêbado não tem dono.
 

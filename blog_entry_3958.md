@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2019-05-04'
-link: https://www.imdb.com/title/tt7043012
+date: '2017-04-18'
+link: https://www.imdb.com/title/tt4630562
 tags:
 - movies
-title: Toda Arte é Perigosa (Velvet Buzzsaw)
+title: Velozes e Furiosos 8
 ---
 
-Este é o filme-bomba de Jake Gyllenhaal. Ele faz um crítico de arte que está sempre suportando sua cabeça com os braços cruzados, tem uns trejeitos de viadinho mas precisa catar a deliciosa minazinha do Wanderlust (Zawe Ashton) porque pega bem. Esta é claramente uma ficção de quem não entende nada de arte. Eu sou crítico e nunca comi uma gostosa dessas.
+A série Velozes e Furiosos divide opiniões. Este é o mundo fantasioso onde motoristas/mecânicos habilidosos vivem à margem do crime e realizam manobras não apenas arriscadas, mas impossíveis. E para muitos isso é demais para acreditar. Porém, uma vez que você morda a isca tende a enxergá-lo basicamente como um filme de ação bem arquitetado ou pelo menos bem executado, com personagens com mais estilo do que verossimilhança. E depois de sete filmes, o oitavo vai fácil.
 
-A história gira em torno de um desconhecido pintor que teve uma vida conturbada, produziu centenas de quadros que manteve em sua casa para serem destruídos assim que ele falecesse. Ele mora no mesmo prédio dessa gostosa, que resolve explorar a arte póstuma através de uma consultora famosa.
+E quem não gosta de um videoclipe com o cenário paradisíaco de uma praia cubana (com mulheres cubanas), música latina e carros antigos correndo como nunca foram desenhados para correr? O ritmo das músicas com seus rápidos cortes e as cores vibrantes e saturadas de Fast & Furious tem o poder de hipnotizar corações, mesmo que a mente discorde que tudo aquilo seja real.
 
-Se você olha por muito tempo os quadros parecem vivos. Sangue foi usado em sua concepção. A ideia, acredito eu, é que sua vida amargurada o fez se vingar de todos em sua vida, e agora esses quadros pretendem se vingar de toda a comunidade de arte (exceto os artistas, então John Malkovich e seu personagem, único minimamente interessante do filme, estão a salvos).
+Essa oitava versão segue em seu início o mesmo modelo dos "clássicos", com uma corrida imperdível no começo e muita ação no decorrer da trama. A diferença fica por conta de como os personagens são utilizados. Há uma certa emoção em ver Dom Toretto (Vin Diesel) sendo chantageado de maneira tão maldosa, assim como ver uma vilã de verdade (Charlize Theron) no comando de uma organização (essa sim, criminosa) e dizendo diálogos de fato interessantes (ou de uma forma que pareçam interessantes). Além disso, a participação do monstro de adrenalina e potência de Dwayne "The Rock" Johnson, assim como a perspicácia e sarcasmo de Jason Stahan, é sempre promessa de momentos empolgantes, e nesse filme eles estão mais inacreditavelmente fortes, rodopiando pessoas com chutes certeiros e usando corpos humanos como pesos de arremesso.
 
-Este é um filme que podemos dizer que tenta criticar a exploração excessiva da arte por abutres que alimentam milionários que não tem mais o que gastar na vida, mas ele confunde assessores por milionários, coloca os quadros assassinos nas suas suntuosas casas e toca o terror.
+E é difícil não achar exuberante e profética uma sequência envolvendo carros autômatos, uma cena que certamente irá fazer os não-adeptos da "farofa" de Michael Bay torcendo o nariz para uma multidão de carros que fazem a festa dos que entendem a brincadeira (eu fiquei particularmente profético sobre como serão os filmes em um mundo sem motoristas humanos). Porém, na soma das gafes lógicas estão um emissor de interferência eletromagnética que só faz efeito por alguns segundos, uma fortaleza russa no meio do gelo que se abre quando falta energia, e, por falar em energia, o meu favorito: uma prisão de segurança máxima que em um curto-circuito abre todas as celas. O filme mantém uma seriedade absurda com tanta farofa e ainda tem tempo para cenas fortes, que convenientemente descarta um personagem pelo bem do drama.
 
-Além disso, o roteiro manipulador de Dan Gilroy propositadamente torna todos os personagens que vão morrer desagradáveis. Eles se tornam mais insuportáveis conforme estão mais próximos da hora da morte. Claro que alguns desavisados também irão morrer, o que torna toda a história sem sentido.
-
-Gilroy é especialista em criar personagens repugnantes e que mesmo assim conseguimos acompanhar. Em O Abutre, por exemplo, em que Jake Gyllenhaal, aí sim, faz um personagem de respeito, acompanhamos a vida de um repórter que se alimenta e até atua em torno das desgraças dos outros. Eu não sei bem o que aconteceu aqui, mas a cada minuto que Velvet Buzzsaw avança vamos percebendo como uma premissa nada interessante vai se tornando um filme esquizofrênico.
+Portanto, se você já gostava da série de carros turbinados, V8 de forma alguma será um motivo para não gostar. Ele pega o mesmo conceito e eleva ao cubo, encontrando Triple X no meio do caminho.
 

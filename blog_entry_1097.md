@@ -1,20 +1,101 @@
 ---
 categories:
-- reading
-- writting
-date: '2020-08-10'
-link: https://gist.githubusercontent.com/Caloni/e2772b5107b99f151d00152f710cc8f9/raw/09e2101bac330ba7b1109e06f35478ea47f203a7/conversations-with-pauline-kael.txt
-tags:
-- movies
-- books
-title: Conversations With Pauline Kael
+- coding
+date: '2015-04-20'
+tags: null
+title: Convenção de Chamada
 ---
 
-Este livro é uma pequena pérola para quem ainda não conhece Kael, a crítica mais versátil, corajosa e indigesta da história do cinema. Suas opiniões são fortes e você provavelmente vai discordar da maioria. Mas seu texto é delicioso.
+Pergunta de um leitor:
 
-Essa coletânea editada por Will Brantley envolve vários momentos de sua carreira e a descreve a partir de vários pontos de vista, já que cada entrevistador a enxerga de certa maneira. Este compilado acaba se tornando, então, no conjunto, um "Cidadão Kael", fazendo um trocadilho com a obra mais conhecida que Kael já esmiuçou, o filme Cidadão Kane. Nunca saberemos quem de fato foi o ser humano por trás da crítica, e após ler o livro terminamos sabendo ainda menos.
+#### Leitor: Olhe essa bizarrice em C:
 
-Contrária a tudo e a todos, sua visão política se resume a estar do lado dos menos representados (no cinema americano os conservadores, sem sombra de dúvida), mas não é fácil resumir qualquer traço da escritora em uma frase. Sua bússola moral é o cinema, e se movimentos sociais acabam produzindo trabalhos ruins, ela se posiciona totalmente contra. Se Thelma e Louise é um filme com uma história sem lógica, ainda que feminista, então Ridley Scott será posto à prova por Pauline. Imagino o que ela acharia então de Capitã Marvel, se fosse obrigada a escrever sobre os filmes da Marvel.
+```
+void func()
+{
 
-Ao mesmo tempo ela é contra Hollywood como sendo a mega indústria que se tornou após os anos setenta. Seu artigo Why The Movies Are So Bad explica o processo pós-Star Wars e a retirada do risco financeiro do negócio de filmes, já vendidos antecipadamente para a TV. É um prazer acompanhar o raciocínio de uma pessoa tão sagaz e uma frustração nunca conseguir compreendê-la por inteiro. Ela se torna mais complexa hoje do que os filmes que são lançados, e a solução é rever os filmes dos quais ela fala em seus livros, ou em artigos arquivados do The New Yorker, lugar onde trabalhou por três décadas.
+}
+
+int main()
+{
+   func("sbrubles");
+   return 0;
+}
+```
+
+#### Leitor: Embora isso seja permitido, caso você coloque "void func(void)" já não funciona mais. Por quê?
+
+Resposta do Autor: Por que C é zoado :P
+
+OK, a verdade é que não existem (existiam?) muitas regras de sintaxe a serem respeitadas na linguagem pelo compilador. Antigamente, se não fosse colocado nenhum tipo de retorno era como se ele fosse **int** por _default_. Da mesma forma, se não colocar parâmetros vale tudo. É como se fossem os três pontinhos do __printf__. Afinal, você não ia querer ficar repetindo os parâmetros no .c e no .h, não é mesmo :D
+
+Isso me lembra também que havia a declaração "arcaica" da linguagem (já era arcaica antes mesmo do padrão de 1998 sair):
+
+```
+void func()
+char* sbrubles; /* isso é um argumento de entrada */
+{
+}
+```
+
+#### Leitor: OK, entendi. Mas voltando para meu primeiro exemplo: supostamente usar um va_args pra ler "alguma coisa" certamente leria os parâmetros, certo? E este parâmetro, só fica inutilizado ou chega a dar algum problema mais sério?
+
+Sim, sua suposição a respeito do __va_args__ faz todo sentido. E não, os parâmetros não são inutilizados justamente porque a função chamada pode fazer o que quiser que no retorno o chamador limpa a pilha (e o chamador sabe como ele empilhou os parâmetros-extra).
+
+O __padrão de chamada__ da linguagem (lembra disso?) é __cdecl__. Isso quer dizer que o chamador é que "limpa a sujeira" depois da chamada. Isso é o que permite o "milagre" do __printf__ (oooohhh ooohh oooooohhhh... *sons de anjos*) receber n argumentos.
+
+Só vai dar problema se definir outro padrão de chamada ou se a função chamada mexer no que não devia (se esperar outros tipos ou número de argumentos, por exemplo).
+
+### StdArgs na mão
+
+Agora que sabemos disso, o comportamento do __va_list__ nem deve parecer tão mágico assim. Na verdade, apenas saber que a pilha é onde estão todas as variáveis locais e os endereços de retorno das funções é o suficiente para explorar essa área de memória.
+
+Porém, o uso canônico na linguagem C e a forma mais educada de navegar nos parâmetros extras é usando o header stdarg.h. Isso porque C é uma linguagem independente de plataforma, e _a priori_ não temos a mínima ideia de como os dados estão estruturados no computador. Essa visão das variáveis locais e etc é apenas algo que sabemos sobre a arquitetura PC (8086) porque já brincamos demais de _assembly_ e seus registradores.
+
+```
+int soma(int argc, ...);
+
+int main()
+{
+	int resultado = soma(5, 2, 3, 4, 5, 6);
+}
+
+// soma.cpp
+#include <stdarg.h>
+
+int soma(int argc, ...)
+{
+    int ret = 0;
+
+	va_list vl;
+	va_start(vl, argc);
+    while( --argc )
+    {
+	    int next = va_arg(vl, int);
+        ret += next;
+    }
+
+	return ret;
+}
+```
+
+Uma versão de quem já manja dos internals da arquitetura onde está programando e não se importa com portabilidade poderia simplesmente caminhar pela pilha a partir do endereço de argc.
+
+```
+int soma(int argc, ...)
+{
+	int ret = 0;
+	int* argv = &argc + 1;
+
+	while ( argc-- )
+	{
+		int next = *argv++;
+		ret += next;
+	}
+
+	return ret;
+}
+```
+
+Repetindo: isso não é bonito, apesar de simpático. No entanto, se o objetivo é explorar a arquitetura, fique à vontade para navegar pela pilha a partir do endereço das variáveis locais.
 

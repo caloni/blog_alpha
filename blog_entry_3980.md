@@ -1,31 +1,21 @@
 ---
 categories:
 - writting
-date: '2020-09-26'
-link: https://www.imdb.com/title/tt9354118
+date: '2013-10-28'
+link: https://www.imdb.com/title/tt2013293
 tags:
-- cinemaqui
 - movies
-title: Vidas que se Encontram
+title: Vidas ao Vento
 ---
 
-Este filme barato desafia o status quo. A família é caucasiana. Suas relações são heteronormativas. Seu status social é classe média. É um filme espiritual, mas sem apelar para religião. Não existe uma corporação vilã. Há pessoas bondosas e maldosas, e não é possível acertar quem é quem baseado em estereótipos. Seus diálogos são diretos, tediosos. Não há espaço para interpretação. Não há cinismo. E é tudo isso que o torna adorável.
+Não há o que criticar da perfeição técnica dos estúdios Ghibli. Acostumados a entregar desenhos que já seriam motivo de prazer e satisfação só de olhar, os filmes dirigidos pelo mestre Hayao Miyazaki prezam também por uma história completa, uma trilha sonora, uma fotografia, direção de arte, efeitos sonoros que representam juntos sempre o ápice daquele estilo.
 
-Em tempos onde as pessoas não aguentam mais pandemia, violência nas ruas, críticas a formas tradicionais de família, à cultura predominante e ao estilo de vida dos que construíram a sociedade próspera que vivemos, assistir a um filme tão simples e direto é um deleite para os olhos. É um descanso do streaming irritante, da TV aberta odiosa e das notícias ignorantes mundo afora.
+Aqui fugimos um pouco do mundo de fantasia de trabalhos como [Ponyo] e [A Viagem de Chihiro] para conhecermos a vida de Jiro (Hideaki Anno), um designer de aviões japonês que trabalhou durante a época da segunda guerra. O momento histórico é propício para uma análise dos últimos dias de um Japão pobre e medieval em direção à modernidade e o poder de destruição de uma Alemanha Nazista que se orgulhava de seus aviões bombardeiros. Interessante notar que existem dois assuntos levados à exaustão pela história. De um lado, Jiro e seus colegas se impressionam pela capacidade de engenharia e design dos alemães e de aviões em geral ignorando o destino dessas máquinas de guerra. Do outro, a necessidade do Japão de alcançar o nível tecnológico é ressaltado por um profundo sentimento de inferioridade de um país que ainda vivia na extrema pobreza de séculos atrás. Os detalhes históricos são abordados perifericamente, mas fica implícito que a mesma guerra recém-terminada contra a China será a alavanca através da qual o país irá se sobressair.
 
-Sua história é de um pai de família de meia-idade que desenvolve Alzheimer precoce e como isso impacta sua família, mas sua mensagem é sobre os encontros casuais entre estranhos que podem renovar nossa esperança na humanidade. Sem exagero.
+Enquanto isso, uma história de amor de configura como um ato relapso, ainda que necessário, na vida de Jiro. Talvez como tentativa de humanizar um artista que caminha em direção à perfeição e não pode parar, um traço quase biográfico do próprio Miyazaki, a figura de Kayo (Mirai Shida), uma menina que Jiro conhece justamente através do vento (ela pega o seu chapéu) e de um desastre (um terremoto), consegue servir também como o lado humano da guerra, e o seu desenvolvimento na história não afirma nem nega a opinião do diretor sobre usar a destruição como ferramenta de evolução, mas expande nossa visão acerca do que pensavam os japoneses na época.
 
-O elenco não é nada de mais, assim como seu roteiro, direção, produção. Rob Diamond é a pessoa por trás do filme. Acostumado a produzir filmes modestos que vão direto para Home Video, este provavelmente é mais um deles. Poucas pessoas o verão, pois quando os cinemas abrirem estarão abarrotados dos mais dos mesmos sobre as injustiças do mundo pós-moderno e outras ninharias pelas quais as pessoas se esbofeteiam nas ruas e nas festas de família.
+Mesmo a parte de lição de moral com história de amor se tornando o lado mais mal resolvido da trama, o conjunto de ideias por trás de alguém que só queria construir os mais belos aviões da época e tendo que ignorar que está no fundo construindo pirâmides, às custas de muita dor e sofrimento, já é o suficiente para amarrar boa parte daquele contexto histórico e o que ele representou para o povo japonês.
 
-Me surpreende como é tratada a espiritualidade. Acostumados a ver fanáticos religiosos bancando produções onde exaltam o seu deus, o seu ódio, e lançam um hit de música gospel, é de cair o queixo a simplicidade como Deus está presente nos momentos-chave da história, em que ele é necessário para entender como o mundo funciona. Notamos sua necessidade para as provações da vida, mas nem por isso quando Ele é citado se torna panfleto publicitário. E esta singela inserção é muito mais rica e eficiente; e muito menos chata do que um hit gospel.
-
-É encantador também como este filme nunca se rende às manipulações baratas. E bastava uma para ele se tornar horrível. E assim como as tentações que Cristo passou no mundo, este filme não cai em nenhuma delas. E ainda assim é piegas como poucos filmes caseiros conseguem ser. Sua breguice é tão transparente que fica difícil não gostar, porque é muita honestidade e inocência juntas. Note os diálogos. Nenhum é inspirador. São todos mundanos e antinaturais. São feitos para filme. É quase tão fake quanto [The Room], o clássico de Tommy Wiseau, com a diferença que há uma estrutura mínima para entendermos que ele não é trash. É apenas bem medíocre.
-
-Os desafios dessas pessoas de classe média são hilários. A esposa precisará voltar a trabalhar ou morar em uma casa menor, de 150 mil dólares. Um barraco, praticamente. O filho metido em drogas tem uma tornozeleira em prisão domiciliar e não consegue evitar ser o inútil da família, assim como seu cunhado. As mulheres são praticamente invisíveis na história, e os vizinhos parecem viver nos lúdicos anos 80, andando de bicicleta pelo bairro fazendo sua boa ação do dia.
-
-É difícil entender como algo tão banal se torna tão agradável. O segredo está em que o banal é raro hoje em dia. Se não há nada de absurdo ou fantástico na trama nos acostumamos a deixar de lado. Se não existe hype ninguém irá comentar. Então não vale a pena assistir. É a audiência das redes sociais. Elas precisam ver o top 10 da Netflix ou serão vistas como alienadas digitais. O irônico é que não há nada mais alienante que ver o que todo mundo vê.
-
-E apenas alguns verão o que realmente importa. E será delas o reino dos céus.
-
-[The Room]: {{< relref "the-room" >}}
+[Ponyo]: {{< relref "ponyo-uma-amizade-que-veio-do-mar" >}}
+[A Viagem de Chihiro]: {{< relref "a-viagem-de-chihiro" >}}
 

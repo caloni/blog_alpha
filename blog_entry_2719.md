@@ -1,22 +1,18 @@
 ---
 categories:
 - writting
-date: '2011-10-23'
-link: https://www.imdb.com/title/tt2166420
+date: '2015-01-11'
+link: https://www.imdb.com/title/tt0032138
 tags:
 - movies
-title: O Manuscrito Perdido
+title: O Mágico de Oz
 ---
 
-Fradique Mendes, um poeta e aventureiro português, amigo de Eça de Queiroz, viveu na região que foi primeiro abordada pelos portugueses no começo do século XVI, evento esse que nós brasileiros conhecemos como "Descobrimento do Brasil". Esse evento, e muitos outros na história do país, no entanto, possuem ecos diversos na sociedade brasileira, como bem demonstra esse documentário de José Barahona. O mais relevante desse trabalho, porém, é constatar que esses ecos do passado continuam influenciando boa parte da nossa sociedade, e como ela é estruturada em torno da terra herdada.
+Não dá para assistir a O Mágico de Oz e automaticamente não relacionar com Alice no País das Maravilhas já que a estrutura e muito provavelmente a ideia veio justamente do romance de Lewis Carroll. No entanto, ao relacionarmos também com o momento histórico dos EUA temos uma visão muito mais interessante. Uma crise financeira devastou o país por uma década e o filme estreia semanas antes da Segunda Grande Guerra oficialmente começar. Virou o símbolo de uma geração (além de ter uma belíssima música). Quando as pessoas perdem a esperança, é função do Cinema fazê-las as distrair com histórias fantasiosas, super-heróis impossíveis e viagens no espaço.
 
-O objetivo de Barahona é resgatar um suposto manuscrito escrito por Fradique ao deixar suas terras. Vítima de ódio de outros proprietários depois que este decide libertar seus escravos, o manuscrito é resultado de reflexões do poeta acerca da sociedade onde vivia.
+Uma das ideias mais interessantes do longa é utilizar a cor sépia para o mundo real onde a garota Dorothy (Judy Garland) mora, uma fazenda no Kansas, e o filme em cores para o mundo de Oz. Não apenas o filme em cores: foi utilizado o technicolor, uma tecnologia conhecida pela sua saturação de cores. Sabendo disso o filme ganha um outro aspecto, principalmente porque a sua chegada ao mundo de Oz é um oceano de cores pela festa que os moradores fazem por ela ter matado uma bruxa má durante a queda. Outro detalhe interessante da produção é que praticamente todos os fundos são pintados, uma forma barata de conseguir criar ambientes complexos e fantasiosos em estúdio.
 
-Apesar da qualidade das imagens capturadas deixar a desejar (ou foi a projeção tosca, mesmo?) e até mesmo o foco nos entrevistados apresentar problemas sérios nos primeiros momentos, a decupagem merece destaque, pois possui uma lógica visual competente, mesmo ao sabermos que diversos pontos da trama foram "costurados" com a ajuda de atores.
+A história é simples, com conceitos fundamentais de bem contra o mal. Logo no início a "bruxa boa" pergunta a Dorothy se ela é uma bruxa boa ou má, deixando entender que no mundo de Oz, essa dicotomia praticamente "Disneylesca" é a regra. Ela foi baseada em um romance de 1900, então é razoável supor que diversos detalhes foram omitidos, o que dá um certo ar de estranheza em alguns personagens mal desenvolvidos. De certa forma, não há personagens, mas apenas símbolos, incluindo a própria Dorothy. Os seres que a acompanham se sentem incompletos por não terem um cérebro, um coração e coragem. Dorothy apenas quer novamente um lar.
 
-Através de uma narração em off, somos levados a crer que o documentarista está sozinho nessa empreitada, e o fato da maioria das tomadas ser gravada com a câmera em tripé reforça essa impressão. Porém, mais isolado que o cineasta estão as comunidades que ele visita, que parecem alheias a tudo que ocorre no mundo, com as pessoas vivendo em seus microcosmos resultantes de mudanças sociais de séculos atrás.
-
-Dessa forma, acompanhamos descendentes das tribos quilombolas, os primeiros escravos refugiados, assim como as tribos indígenas que, diferente da Amazônia, por estarem situados na costa do continente, sofreram influência direta por 500 anos.
-
-E para terminar o caldo, indígenas e sem-terra disputam a posse de terras na mesma região, em um triste reflexo do que era naqueles tempos primitivos e que vem se repetindo de geração em geração, em um povo que pode carecer de muitos lazeres da vida moderna, mas que nunca deveria sentir falta do bem mais abundante no país: a própria terra.
+O filme se tornou um clássico americano, e foi um dos filmes mais assistidos e conhecidos por várias décadas. É citado em Matrix (1999), 60 anos depois, e várias de suas falas se tornaram icônicas. Até quem nunca assistiu (eu até hoje) sabe o que quer dizer "não há lugar como o lar". Uma metáfora ainda hoje rica em um filme que envelheceu razoavelmente bem.
 

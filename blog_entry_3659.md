@@ -1,16 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-09-24'
-link: https://www.imdb.com/title/tt3903322
+date: '2019-08-01'
+link: https://www.imdb.com/title/tt0115634
 tags:
 - movies
-title: The Birth Of Sake
+title: The Battle Over Citizen Kane
 ---
 
-Este filme é uma passagem integral, burocrática e um tanto poética de uma fabricante de saquê nos moldes tradicionais do Japão. Há pouca informação e muita pseudo-emoção. Quase um apelo pela sobrevivência dos tradicionalistas, frente a uma indústria que automatizou quase todo o processo com máquinas.
+Se Cidadão Kane, de 1941, caiu no esquecimento do grande público por tanto tempo, The Battle Over Citizen Kane, de 1996, veio reavivar a fogueira das vaidades de dois gigantescos egos lutando por seu lugar ao sol em uma poderosa Hollywood, palco de contradições desde seu nascimento.
 
-Não é pra menos. Toda a equipe de funcionários precisa ficar seis meses na destilaria por ano, sem direito a ficar com seus familiares. O trabalho é imenso e exige muito de todos. Não se sabe exatamente qual parte do trabalho exige isso, nem muitos detalhes da fabricação do próprio saquê, exceto o básico (vem do arroz, ele é cozido, misturado com fungo, etc).
+De um lado temos o clássico Tycon do século 19, o herdeiro William Randolph Hearst, figura emblemática que usou sua vida para construir influência, transformando a fortuna de minas de seu pai em um complexo de jornais a nível nacional, lutando à sua própria e controversa maneira para dar voz ao pobre, ao trabalhador, ao imigrante. Derrotado no jogo político, no final vira uma figura excêntrica constituindo um castelo e indo morar isolado com uma dançarina caça-fortunas 30 anos mais jovem, sua segunda esposa.
 
-A direção de Erik Shirai é poética, usa tomadas em câmera lenta e trilha sonora de reflexão, mas entrega pouco do que poderia ser um trabalho ambicioso. Ele prefere focar nesse pequeno grupo e como eles se tornam além de colegas, amigos e uma família. Tudo fica ainda mais intenso depois que um dos membros falece. Somos apresentados a cada um deles pela sua idade e há quanto tempo estão no negócio. Muitos deles são velhos, mas muitos também começaram há pouco mais de uma década a tentar manter um negócio centenário.
+De outro lado temos a jovem revelação do mundo da arte Orson Welles, com seu poder de persuasão e/ou obstinação intrínsecos à sua socialmente conturbada persona. Welles mal havia completado 20 anos quando dirigiu uma adaptação de Macbeth em Harlem com atores negros improvisado. Estava em seus 23 quando causou um alvoroço no rádio ao transmitir a invasão marciana de A Guerra dos Mundos como se fosse notícia.
+
+Quando Wells pousa em Los Angeles já estamos na metade deste documentário para TV, que é o episódio 7 da temporada 8 da série American Experience, o que não o privou de uma indicação ao Oscar. Assistimo-lo focando em quantas informações vitais para compreendermos talvez o melhor e mais importante filme já produzido em solo americano. O fato dessas informações terem sido obtidas em entrevistas de funcionários dos dois lados da discussão é a chave para compreendermos sua importância nos dias de hoje.
+
+Fica extremamente óbvio que o encontro desses dois gigantes da mídia, cada um à sua maneira, mas com várias similaridade em seu modus operandi, seria um evento marcante, ainda que a ordem dos eventos sugira um charmoso elemento imprevisível. Porém, é na análise de suas personalidades que entendemos o encontro dessas vidas como inevitável e até desejável, já que ninguém menos que Wells conseguia ter acesso aos recursos com a liberdade que ele teve. Esta é a primeira e talvez uma das únicas vezes que a um cineasta estreante é entregue carta branca por uma grande produtora.
+
+Sem mais detalhes. Eles estão todos neste documentário vital para qualquer um que queira entender hoje em dia porque Cidadão Kane ainda é tão celebrado por críticos de todo lugar do mundo em vários momentos da História. Também é sua salvaguarda contra a possibilidade de você um dia comentar em uma rosinha de cinéfilos em como este filme preto e branco é chato.
 

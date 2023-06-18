@@ -1,128 +1,82 @@
 ---
 categories:
 - coding
-date: '2008-09-23'
-tags: null
-title: Windows Jobs com Completion Port
+date: '2022-06-09T11:43:45-03:00'
+tags:
+- windbg
+title: Windbg Everywhere
 ---
 
-Ou "Como esperar o término de todos os processos-filho criados a partir de um conjunto de processos".
+# Usando WinDbg em situações onde não há Visual Studio
 
-Dessa vez confesso que esperava um pouco mais de documentação do MSDN, ou pelo menos um sistema de referências cruzadas eficiente. Outro dia demorei cerca de duas horas para conseguir [criar um _**job**_](http://msdn.microsoft.com/en-us/library/ms682409(VS.85).aspx), anexar o processo desejado e, a pior parte, esperar que todos os processos (o principal e seus filhos e netos) terminassem.
+Com essa premissa me vem à mente os seguintes cenários:
 
-Além da [pouca documentação](http://msdn.microsoft.com/en-us/library/ms684161(VS.85).aspx), parece que não são muitas as pessoas que fazem isso e publicam na web, ou eu [não sei procurar direito](http://www.google.com.br/search?q=wait+all+processes+inside+job+object).
+ - Não é possível instalar Visual Studio
+   - Só copiar a pasta onde está rodando o windbg.exe.
+ - Arquivos de dump muito grandes
+   - Processo que capota consumindo o mundo de memória.
+   - Cópia de arquivos em alguns ambientes demoraria séculos.
+ - Processos que não podem parar
+   - Bug raro de acontecer e se parar o processo já era.
+   - Manter processo em observação até reprodução (memory leaks macabros).
+ - Único lugar que acontece o bug
+   - É raro, mas acontece sempre.
 
-Mas, pra início de conversa, o que é um job mesmo?
+## Colinha de todo dia
 
-#### Leve introdução sobre o conceito de jobs
+ - !analyze -v
+ - !sym noisy, .symfix, .sympath
+ - .reload /f, x
+ - bp, bl, bu, g
+ - db, dd, dv, da, du
+ - ~, k, kv, kvn
 
-Um job é um objeto "novo" no kernel do Windows 2000 em diante, e se prontifica a suprir a carência que havia anteriormente de **controle sobre o que os processos podem fazer e por quanto tempo**.
+## Leak de memória
 
-A abstração mais coerente que eu consigo tirar de um job é como **um trabalho a ser executada por um ou mais processos**. O objeto job controla a criação, o término e as exceções que ocorrem dentro dele mesmo.
+ - !address -summary
+ - !heap -stat, -srch AllocSize
 
-{{< image src="job.gif" caption="Windows Jobs" >}}
+## [Máquina com rede e com firewall](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/process-servers--user-mode-)
 
-Entre as funções mais úteis de um job estão limitar o tempo de execução do conjunto de processos, o número de handles/arquivos/outros objetos abertos, limite de memória RAM ocupada e a possibilidade de terminar todos os processos de uma só vez.
+ - WinDbg é de hackudos, então [firewall não funciona](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/two-firewalls) com ele graças ao proxy reverso.
 
-Para informações básicas de como criar um job e anexar processos recomendo o ótimo artigo de [Jeffrey Richter](http://www.microsoft.com/msj/0399/jobkernelobj/jobkernelobj.aspx).
+## Preciso do kernel
 
-No final de um artigo de Jeffrey Richter (não mais disponível) sobre o assunto ele chega a citar o controle mais refinado dos processos através de uma [**completion port**](http://msdn.microsoft.com/en-us/library/aa365198(VS.85).aspx), que permitirá receber eventos que ocorrem dentro de um job durante sua vida útil. Apesar de citar, não há código de exemplo que faça isso.
+ - Começa a parte divertida: [gerar tela azul](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/forcing-a-system-crash-from-the-keyboard).
 
-Bom, agora há:
+## Boot da máquina
 
-```
-#define _WIN32_WINNT 0x0500 // Jobs só existem do 2000 em diante
-#include <windows.h>
+ - bcdedit /dbgsettings, /copy {current}, set debug on
+ - VM: \\.\pipe\kd
+ - windbg.exe -k com:pipe,port=\\.\pipe\kd,resets=0,reconnect -b
+ - Para bem no [código-fonte de David Cutler](https://systemroot.gitee.io/pages/apiexplorer/d6/d5/4_2kdinit_8c-source.html) para um debugger portável do kernel.
+ - !process 0 0
 
-/** @brief Função que cria um processo a partir de cmdLine
- * e coloca-o dentro de um job. A função aguarda o término
- * do processo e de qualquer subprocesso criado por este.
- */
-DWORD CreateJobAndWait(LPSTR cmdLine)
-{
-   // primeiro, criamos um job sem nome
-   HANDLE job = CreateJobObject(NULL, NULL);
+## [Serviços no limite da existência](https://www.infoq.com/br/presentations/depurando-ate-o-fim-do-mundo/)
 
-   if( job )
-   {
-      STARTUPINFO si = { sizeof(si) };
-      PROCESS_INFORMATION pi;
+ - I get by with a [little help] [from my kernel](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/controlling-the-user-mode-debugger-from-the-kernel-debugger).
 
-      // depois, criamos um processo suspenso (travado)
-      if( CreateProcess(NULL, cmdLine, NULL, NULL, FALSE, 
-         CREATE_SUSPENDED | CREATE_NEW_CONSOLE, NULL, NULL, &si, &pi) )
-      {
-         // atribuímos esse processo ao nosso jobo
-         AssignProcessToJobObject(job, pi.hProcess);
+## Profiling
 
-         // rodamos o processo
-         ResumeThread(pi.hThread);
+ - Para ver [quanto tempo leva](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/wt--trace-and-watch-data-) chamar uma função.
 
-         // essa é uma completion i/o port genérica
-         // (ou seja, não relacionada com nenhum arquivo
-         // ou outra completion port)
-         HANDLE port = CreateIoCompletionPort(INVALID_HANDLE_VALUE, 
-                 NULL, 0, 0);
+## Engenharia reversa
 
-         if( port )
-         {
-            JOBOBJECT_ASSOCIATE_COMPLETION_PORT jobPort;
+ - [Breakpoints condicionais](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/setting-a-conditional-breakpoint).
+ - [Quebrando Houaiss].
 
-            jobPort.CompletionKey = 0; // ver variável key abaixo
-            jobPort.CompletionPort = port; // nossa completion port vai aqui!
+## [Servidor de símbolos](https://docs.microsoft.com/en-us/windows/win32/debug/using-symstore)
 
-            // definimos a c.p. em nosso job
-            if( SetInformationJobObject(job, 
-                        JobObjectAssociateCompletionPortInformation, 
-                        &jobPort, sizeof(jobPort)) )
-            {
-               ULONG_PTR key = 0; // ver membro CompletionKey acima
-               LPOVERLAPPED overlap = 0;
-               DWORD tranferred = 0;
+ - Use o [symstore](https://docs.microsoft.com/en-us/windows/win32/debug/using-symstore) para montar uma fazenda de símbolos.
+ - Use o [SymProxy](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/symproxy) para [publicar](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/http-symbol-stores).
+ - O SymProxy também é útil como um... proxy =).
 
-               // nosso loop de mensagens com completion port
-               while( GetQueuedCompletionStatus(port, &tranferred, 
-                  &key, &overlap, INFINITE) )
-               {
-                  // transferred especifica a mensagem
-                  DWORD msg = *(LPDWORD) &tranferred;
+## [GFlags](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/gflags)
 
-                  // significa que não existem mais processos rodando
-                  if( msg == JOB_OBJECT_MSG_ACTIVE_PROCESS_ZERO )
-                     break; // saímos fora
-               }
-            }
+ - Heap tagging e stack trace database para caçar leaks de memória.
+ - Coleta silenciosa de dumps.
+ - Chamar kernel debugger ao iniciar processo (parâmetro `-d` do ntsd.exe).
 
-            CloseHandle(port); // fecha tudo
-         }
-
-         CloseHandle(pi.hThread); // fecha tudo
-         CloseHandle(pi.hProcess); // fecha tudo
-      }
-
-      CloseHandle(job); // fecha tudo
-   }
-
-   return 0;
-}
-
-int main(int argc, char* argv[])
-{
-   if( argc == 2 )
-      CreateJobAndWait(argv[1]);
-}
-```
-
-O exemplo acima cria um processo baseado em uma linha de comando e espera pelo término do processo criado e de todos os subprocessos criados a partir do primeiro processo. Note que mesmo que o primeiro processo termine, a Completion Port só receberá o evento que todos os processos acabaram depois que o último subprocesso terminar.
-
-Dessa forma, ao compilarmos o código e rodarmos mais um prompt de comando através de nosso programa ele fica travado mesmo ao fecharmos o prompt criado. O programa só será finalizado ao fecharmos o Bloco de Notas iniciado pelo segundo prompt.
-
-Além desse evento, que era o que eu estava procurando, esse método permite obter outros eventos bem interessantes:
-
-  * JOB_OBJECT_MSG_NEW_PROCESS. Um novo processo foi criado dentro do job.
-  * JOB_OBJECT_MSG_EXIT_PROCESS. Um processo existente dentro do job foi terminado.
-  * JOB_OBJECT_MSG_PROCESS_MEMORY_LIMIT. O limite de memória de um processo já foi alcançado.
-  * JOB_OBJECT_MSG_END_OF_PROCESS_TIME. O limite de tempo de processamento de um processo já foi alcançado.
-
-Enfim, jobs não terminam por aí. Dê mais uma olhada no MSDN e veja se encontra mais alguma utilidade interessante para o nosso amigo job. Eu encontrei e fiquei feliz.
+[little help]: {{< relref "kernel-mode-user-mode" >}}
+[Quebrando Houaiss]: {{< relref "conversor-de-houaiss-para-babylon-parte-1" >}}
 

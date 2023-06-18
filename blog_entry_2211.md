@@ -1,18 +1,17 @@
 ---
-categories:
-- writting
-date: '2015-09-12'
-link: https://www.imdb.com/title/tt4341500
-tags:
-- series
-title: Mais um Verão Americano (piloto)
+categories: []
+date: '2013-10-02'
+tags: null
+title: Mais um CPP MVP
 ---
 
-A Netflix é uma empresa, e como toda empresa ambiciona o lucro. Por causa disso obviamente não consegue se desvencilhar do seu destino Hollywoodiano de descobrir uma fórmula e repeti-la à exaustão. É assim com seu conteúdo adulto -- sexo ocasional + violência exarcebada -- e é assim com suas comédias agrada-público-medíocre -- atores divertidos/comediantes, uma ou outra fala interessante, o tema acima da arte.
+Tenho o prazer de informar à comunidade C/C++ que vocês possuem mais um representante formal. Quer dizer, pelo menos no que diz respeito à Microsoft: eu.
 
-E é assim que nasce uma fábrica de obras que reciclam o velho seriado norte-americano da época de Nanny, Full House, Um Maluco no Pedaço e tantos outros que capturaram o espírito americano de dar risada e globalizaram em uma fórmula fácil de pegar para todo mundo. O brasileiro, então, acostumado a fórmulas de stand-up verdadeiramente medíocres -- fruto de nossa ainda presente censura -- é um alvo certeiro. Pelo menos essa é a ideia inicial.
+Graças à indicação de meu amigo Strauss (segundo MVP brasileiro seguido de Fabio Galuppo) e do meu histórico de artigos no blogue (alguns no Code Project), além da minha parca contribuição à comunidade C/C++ Brasil, recebi essa que significa uma nomeação importante não apenas para mim, mas para fortalecer a imagem de que existe uma comunidade da linguagem no país e está tão ativa que vira e mexe premia um ou outro membro mais "tradicional" desse grupo de especialistas, verdadeiros mestres dessa(s) que ainda é (são) minhas linguagens favoritas no que diz respeito a "linguagens de uso geral multiplataforma e de alta performance".
 
-E é por isso que Web Hot American Summer: First Day of Camp constrói suas expectativas em cima do óbvio, do certeiro e do que está na moda. O clima anos 80, 90, a necessidade de parecer moderno sem ser, e as velhas piadas recicladas em um formato idem. É o que torna fácil fabricar novas séries, e de certa forma o que confirma suas escolhas é justamente o público, que está preferindo cada vez mais conteúdo mais fácil de mastigar.
+O que deve ocorrer com essa nomeação, acredito eu (tenho fé), é que eu volte a dedicar parte do meu tempo a "espalhar a palavra", seja aqui no blog, no nosso mundialmente conhecido grupo ou em outros cantos da internet. É hora de diminuir meu ímpeto cinéfilo e voltar a colaborar com os que buscam aprender algo mais do que pura lógica: a escovar os bits com água e sabão (e WinDbg).
 
-E o que dizer de Unbreakable Kimmy Schmidt e sua velha história batida Punky Brewster e os inúmeros clichês de atores/atrizes que vão para Nova York tentar a sorte. Nem comento a respeito da cápsula do tempo, pois isso é exatamente sobre o que é a produção da série: pega-se o que já tem cinquenta anos, reproduz na tela via streaming. E viva o lugar-comum e as pessoas que o adoram.
+Obrigado a todos os envolvidos! =)
+
+UPDATE: Dando uma vasculhada no saite de MVPs da Microsoft, por região, também encontrei o José Antônio Leal Farias, que de acordo com sua biografia reside em Campina Grande (PB) e trabalha com jogos.
 

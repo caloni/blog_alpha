@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-09-23'
+date: '2021-09-19T11:29:07-03:00'
 tags:
 - beer
-title: Strappa Gingerberry
+title: Stout da Container
 ---
 
-É um chá preto fermentado com gengibre e gradação alcoólica ridícula de 0.6%. Ele é ainda frutado (possui morango) e deixa a garganta quentinha. Ótima opção entre bebidas mais fortes. Dá uma pausa etílica e estilosa na balada.
+Como essa cerveja dizia que precisa de acompanhamentos doces como chocolates e brownies aproveitei a sessão de degustação de bolos que pedimos para entregar. O bolo com blend de chocolates coube perfeitamente. Sozinho ele é bem cremoso e lembra café como todo Stout, mas diferente do da Colorado, é equilibrado. Não é um soco no estômago, só um afago.
 

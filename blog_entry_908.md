@@ -1,17 +1,15 @@
 ---
 categories:
 - writting
-date: '2023-01-22T23:58:20-03:00'
+date: '2017-08-25'
 tags:
-- cinemaqui
-- mostratiradentes
-- movies
-title: Chef Jack - O Cozinheiro Aventureiro
+- series
+title: Chef & My Fridge
 ---
 
-Esta é a primeira animação 100% mineira. Tem como distribuidora a Sony e a Cinearte e participa da dublagem o lendário Guilherme Briggs. Está estreando em mais de 300 salas pelo Brasil e houve uma sessão nessa Mostra de Tiradentes na categoria Mostrinha, feita para as crianças e os mais jovens.
+Da Geladeira para a Mesa, Take Care of My Refrigerator, Take Care of the Fridge, Take Care of the Refrigerator, Good Care of the Fridge. Com tantos nomes já é possível deduzir que é um programa maluco da TV coreana, traduzindo a forma simpática, polida e divertida com que os asiáticos costumam se comportar. Isso inclui este programa gastronômico que mesmo sendo uma repetição barata à exaustão em seu formato, consegue divertir sem ofender, e ainda educar a respeito da alta gastronomia sem muitos exageros. E isso vindo da Coreia do Sul é algo a se destacar.
 
-A proposta é misturar os temas de gastronomia e aventura, brasilidade e filme global. A competição de cozinheiros lembra Jogos Vorazes misturado com Master Chef. Não há muito de cozinha em si. É mais uma desculpa de assuntos da moda. Hoje o tema da culinária é responsável por mais séries de streaming que podemos acompanhar. As emoções de um reality show aliado a comida é uma muleta narrativa fácil de fisgar o espectador. Para crianças não é diferente.
+O formato é simples: duas celebridades (da TV Coreana) são chamados ao programa e suas geladeiras e o que tem dentro são trazidos para o palco. Lá oito chefes de cozinha irão criar pratos com os ingredientes principais contidos dentro dessas geladeiras, no formato de disputa de dois em dois. Há muito bafafá a respeito de celebridades, com quem estão se relacionando, mas também uma conversa que tenta trazer a familiaridade da cozinha de cada um de nós, e como nos relacionamos com a comida.
 
-A animação é bem feitinha, mas as cenas de ação são batidas feito uma reprise de Corrida Maluca. Inclusive o vilão lembra Dick Vigarista e ele tem um capanga um tanto lerdo alvo de piadas. As lições do filme querem falar sobre alternância de "poder" e amizade, mas o desenrolar é muito superficial, quase inexistente. Em meia dúzia de troca de palavras e todos os conflitos se resolvem. É para crianças e apenas para elas.
+Claro que o principal são ingredientes coreanos, mas os chefes surpreendentemente têm formação nas mais diversas escolas, como cozinha italiana, francesa, búlgara, chinesa, japonesa e, claro, coreana. Para quem não gosta de frutos do mar ou peixe com certeza não irá salivar frente às criações divinas apresentadas pelos chefes, que têm 15 minutos para cozinhar uma iguaria criativa que irá despertar o desejo dos convidados. Porém, apenas o esmero, a habilidade e o talento desses cozinheiros de mão cheia é suficiente para trazer ao coração um quê de respeito, admiração e inspiração.
 

@@ -1,20 +1,25 @@
 ---
 categories:
 - writting
-date: '2015-04-30'
-link: https://www.imdb.com/title/tt2872718
+date: '2016-02-18'
+link: https://www.imdb.com/title/tt4285496
 tags:
+- cinemaqui
 - movies
-title: O Abutre
+title: O Abraço da Serpente
 ---
 
-Uma fase estupidamente frutífera de Jake Gyllenhaal, que fez com o diretor Denis Villeneuve em 2013 dois filmes muito interessantes: Os Suspeitos e O Homem Duplicado e que agora faz o seu terceiro papel completamente diferente. Não se poderia dizer diferente de Dan Gilroy, que trabalhou em roteiros de filmes curiosos como Gigantes de Aço, mas que aqui estreia na direção de uma história que ele mesmo escreveu e que ultrapassa o limite do óbvio para se emaranhar em uma discussão acalorada, divertida e abrangente sobre a mídia sensacionalista.
+O Abraço da Serpente é uma viagem cósmica através da descendência de todos os homens. Razão e tradição se digladiam para contar uma história que atravessa o senso da individualidade sem perder o senso da responsabilidade. E, sim, é também sobre índios.
 
-A história gira em torno de Louis Bloom (Gyllenhaal), que costuma roubar peças de metal para revender, mas que procura agora conseguir um emprego para se dedicar. Renegado por ser um ladrão, acaba testemunhando um acidente na estrada e junto dele um cinegrafista amador que, de posse de um assistente e uma van, parece fazer dinheiro vendendo vídeos das atrocidades que ocorrem na cidade para os telejornais locais, que noticiam a desgraça diária pela manhã, quando Louis metódica e rotineiramente rega sua planta e prepara como será seu dia.
+Porém, categorizar essa experiência de "filme de índio" é diminuí-la, muito embora ela trate todo o tempo do folclore, comportamento, cultura, conhecimento e crença de algumas tribos de índios da Amazônia após a invasão colombiana. Quando falamos de índios, surge aquela sensação de estranhamento, de culpa e de distanciamento. Nada nesse filme nos leva aos mesmos sentimentos.
 
-O escalada "profissional" de Louis já seria uma curiosidade à parte, pois o sujeito obviamente possui alguns problemas em seu passado que parecem despertar de uma maneira catalisadora através de frases de motivação de escritório (dessas que se acha em livros sobre liderança, gerenciamento de projetos, negócios, etc) que ele sempre tenta encaixar em cada nova situação. Quando contrata seu assistente (Riz Ahmed) esse vira alvo de uma avaliação rigorosa. Podemos dizer a mesma coisa de sua relação com a mulher que compra seus vídeos, Nina (Rene Russo), e um dos jantares mais insensíveis e precisos que você irá assistir.
+Contando a história (real) de Theodor Koch-Grunberg (Jan Bijvoet), um cientista alemão que pesquisa tudo a respeito da Amazônia e suas crias -- índios inclusos -- conhecemos um sobrevivente de uma tribo massacrada durante a invasão colombiana: Karamakate (Nilbio Torres). Ele é o herói da história. É dele a decisão de ajudar ou não o tal cientista através de uma planta sagrada de seu povo, sua única salvação. Junto dele acompanha um leal "índio domesticado", de roupas e sabendo usar uma arma.
 
-No entanto, a escalada de Louis vem acompanhada da escalada no conteúdo dos seus vídeos e como eles são produzidos. Desde o começo abordando a discussão de o quanto as câmeras atrapalham as atividades de socorro às vítimas, esse atrapalhar é visto como uma cadeia que começa nas ruas e só termina nos índices de audiência de uma população obcecada com violência, talvez no pior sentido da palavra. A direção de Dan Gilroy consegue ainda respeitar a inteligência do espectador, e omite propositalmente alguns fatos que são facilmente entendidos (como a ausência do início de uma fita que Louis grava em um bairro nobre), mas ao mesmo tempo escancara algumas situações para que nós mesmos a julguemos (quando ele altera a posição do corpo da vítima para conseguir um melhor enquadramento).
+Então, de repente, somos transportados para o futuro, onde conhecemos os frutos da pesquisa de Theo, vindo de outro cientista, Richard Evans Schultes (Brionne Davis), este americano. Lá já aprendemos que Grunberg morreu na expedição (o que ainda falta descobrir é como e por quê), mas encontramos Karamakate (Antonio Bolivar), embora seja outro, mudado, que está perdendo paulatinamente sua memória, e junto com ela a memória de seu povo.
 
-É por isso que a sequência final acaba sendo irretocável do começo ao fim. Não por ela em si, mas pelo que se construiu durante todo o longa. É por isso que a frase de Louis ao seu assistente é acompanhada de um temor pelo espectador. É por isso que a girada de 180 graus do carro de Louis em frente ao acidente soa tão ou mais ameaçador do que os bandidos que eles estavam perseguindo. E, por fim, é por isso que seus resultados tenham mais o teor de crítica do que a fácil vingança a um vilão ou anti-herói que é mais uma metáfora do que um culpado em que se possa apontar o dedo. Tal qual os apresentadores de telejornais de violência explícita.
+A direção e narrativa (Ciro Guerra) de "O Abraço..." levam a crer que boa parte do roteiro (construído por Ciro através dos diários de Theo e Evans) tem um fundo simbólico. Durante todo o tempo nos questionamos a respeito mais das atitudes dos personagens do que dos personagens em si. Eles são meras representações do que ocorreu naquela floresta várias vezes. O grande trunfo do filme é ser baseado em relatos históricos desses dois exploradores, e ainda conseguir criar uma atmosfera fantástica que abraça esse mundo fantástico de uma floresta ainda enigmática e que, com a vinda do homem branco, deu origem a diferentes tipos de doenças, loucuras e crueldade, sejam elas vindas da religião, da ganância ou do puro delírio de grandeza, mesmo.
+
+Todas essas formas são materializadas quase em um formato de mini-teatro, onde cada novo acontecimento ocorre em um local específico da floresta. O tom preto e branco com uma saturação forte torna as noites mágicas, e os dias pálidos demais. A pintura que vemos na cara dos indígenas vira uma máscara monocromática vestida com perfeição. Questões filosóficas, como a invasão cultural, estão inseridas de maneira tão arraigada na história que é ela que define os rumos de tudo o que ocorre.
+
+Concluindo de uma maneira tão irônica quanto seu início, 40 anos atrás, "O Abraço da Serpente" é um trabalho ambicioso que mantém por boa parte do tempo a proeza do suspense eterno. Nos espantamos com quase todo novo momento, toda nova cena, todo novo personagem. Não é um filme para muitos, mas os poucos que o verem irão se sentir satisfeitos por essa viagem no tempo e espaço.
 

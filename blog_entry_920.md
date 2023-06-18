@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-05-31'
+date: '2017-09-08'
 tags:
-- beer
-title: Chope Guiness
+- food
+title: Chope Gorillaz Lager Poços de Caldas
 ---
 
-Equilíbrio entre doce, amargo e um toque de café.
+Encorpada e não tão doce; colarinho cheio de aromas. Tirada perfeitamente no Justo no Terraço em Poços.
 

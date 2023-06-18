@@ -1,82 +1,53 @@
 ---
 categories:
 - coding
-date: '2007-06-20'
-title: Introdução ao Debugging Tools for Windows (usando o Logger para monitorar APIs)
+date: '2007-09-26'
+title: Introdução ao C++ Builder...Turbo C++
 ---
 
-O WinDbg é uma ferramenta obrigatória em uma das minhas mais divertidas tarefas aqui na Open: engenharia reversa de cavalos de tróia. Não tenho o código-fonte desses programas, não posso executá-los em minha própria máquina e não consigo fazer tudo que preciso usando apenas o depurador integrado do Visual Studio (como remontar o assembly do programa, por exemplo). Tudo isso faz do WinDbg a alternativa perfeita (senão uma das únicas). É um depurador que permite ser usado tanto através de janelas quanto através de comandos, o que permite um aprendizado em doses homeopáticas: comece com as janelas e aos poucos ganhe o controle total. Conseqüentemente cada dia aprendo um comando novo ou um novo uso para um comando que já conheço.
+Após mais de um ano de tentativas, finalmente consegui instalar e iniciar com sucesso o Borland Developer Studio. Esse foi o nome pomposo dado pela Borland para a "continuação" do velho C++ Builder e seus parentes, o Delphi e o C# Builder.
 
-Abaixo um esboço de como o WinDbg se parece, com suas principais janelas. A de comandos é a da direita.
+Existem muitas coisas novas ainda para ver, mas não é a usabilidade. Assim como a IDE antiga, é fácil de sair mexendo e fazendo janelas, no bom estilo WYSIWYG dos produtos da Borland.
 
-{{< image src="windbg.png" caption="Imagem ilustrativa das janelas do Windbg" >}}
+Para quem começa a desenvolver aplicativos com interface para Windows, deve saber que uma das coisas mais produtivas que já inventaram foi o Visual Basic. De fato, o VB permite que virtualmente qualquer pessoa com conhecimentos mínimos de informática torne-se um gabaritado programador de telinhas.
 
-Ele não está limitado apenas para engenharia reversa de código malévolo. Esse é o uso que eu faço dele. Meu amigo Thiago, por exemplo, resolve problemas em servidores que rodam código gerenciado com WinDbg. É a maneira ideal de depurar um problema em uma máquina onde o ambiente de desenvolvimento não está disponível nem pode ser instalado. Outro ponto relevante é que ele não depura apenas um programa em particular, mas pode ser usado para depurar um sistema inteiro. Chamado de kernel debugging, podemos usar esse modo de funcionamento para resolver os problemas que surgem logo depois de espetar algum periférico novo comprado na Santa Ifigênia.
+Porém, com o tempo você percebe que cada ferramenta tem suas vantagens e desvantagens. Uma desvantagem do VB era a falta de flexibilidade. Outra era que a linguagem usada não favorecia muito aqueles que se aventuravam chamando a Win32 API diretamente dos seus programas. Era possível, sim, mas enfadonho e nem sempre as coisas funcionavam como o esperado.
 
-Mas esse artigo não é apenas sobre o WinDbg. Ele não vem sozinho. É uma interface amigável para alguns depuradores linha de comando e outras ferramentas disponíveis no Debugging Tools for Windows, pacote disponível gratuitamente no sítio da Microsoft e atualizado geralmente de seis em seis meses. Nele podemos encontrar:
+Para as pessoas que chegam nesse nível de necessidade, existem basicamente duas escolhas:
+	
+  1. Permanecer no mundo Microsoft e usar MFC + Win32 API, passando a programar na linguagem em que foi feito o Windows (C/C++).
+	
+  2. Tentar usar o Delphi, a evolução do Turbo Pascal para Windows, da Borland, que pode ser considerado mais flexível que o VB, mas ainda assim usa uma linguagem alienígena (no sentido de que ainda não é a linguagem nativa do SO).
 
- - CDB: depurador que roda em user mode e é uma "linha de comando agradável" para um programador avançado.
- - NTSD: depurador que roda em user mode, da mesma forma que o CDB, mas também pode ser usado como um redirecionador de comandos para o depurador de kernel (logo abaixo). Existem algumas diferenças sutis entre esses dois depuradores (como o fato do NTSD não criar janelas quando usado como redirecionador), mas são diferenças que se aprendem no dia-a-dia.
- - KD: depurador que roda em kernel mode, pode analisar dados do sistema local ou depurar um sistema remoto conectado através de um cabo serial ou por meio de um pipe criado por uma máquina virtual. 
+  3. Mudar de sistema operacional e esquecer esse negócio de loop de mensagens (eu disse duas escolhas, certo?)
 
- Existem outros métodos mais avançados ainda para conseguir depurar uma máquina tão tão distante, por exemplo.
+Bom, eis que surge o C++ Builder: uma ferramenta idêntica ao Delphi, contudo que oferece a linguagem C++ para que todas aquelas pessoas recém-saídas da faculdade e ansiosas por entrar no mercado de trabalho esqueçam aquele papo de Pascal e passem a usar a linguagem da indústria. Pelo jeito, era mais ou menos essa a visão da Borland quando lançaram o produto.
 
- - Logger: tracer de chamadas de funções da API. Pode ser usado para análise de performance ou para fazer o que eu faço com os trojans, que é dar uma olhada nas funções que eles chamam constantemente.
- - Logviewer: visualiza resultados gerados pelo Logger.
+Desde o princípio, o C++ Builder foi lançado em revistas de informática em versões para estudantes, o que estimulava as pessoas financeiramente menos capacitadas (estudantes, como eu) a cada vez mais utilizar essa ferramenta de programação para desenvolver aplicativos Windows, já que, além de não ser pago como o Visual Basic e o Visual C++, não era nem tão limitado quando o primeiro nem tão complicado quanto o segundo. E estava sempre entre os programas completos para serem testados na revista que acabou de chegar na banca. Nossa, como era divertido programar por prazer!
 
-Existem ainda outras ferramentas, mas estas são as principais que costumo utilizar. Para saber como usá-las de acordo com suas necessidades recomendo a leitura de um pequeno tutorial para o WinDbg que vem junto da instalação, o kernel_debugging_tutorial.doc. Ele é apenas a introdução dos principais comandos e técnicas. Depois de ter dominado o básico, pode partir para o arquivo de ajuda, que detalha de forma completa todos os comandos, técnicas e ferramentas de todo o pacote: o debugger.chm. A maioria dos comandos que precisava encontrei usando essa ajuda ou em alguns blogs muito bons, como o Crash Dump Analysis. Porém, acredite: no WinDbg, você quase sempre vai encontrar o comando que precisa.
+O mais impressionante no Builder era que desde o começo, na versão 1, já tínhamos aquela palheta maravilhosa cheio de todos os controles que já faziam parte do Windows 95. Tudo isso por causa de uma estratégia simples e eficaz: os componentes são os mesmos do Delphi. O que o C++ Builder adicionou foi uma camada de interface para que C++ e Object Pascal conversassem. O resultado disso é espantoso: é possível programar em C++ puro, chamar APIs diretamente, e ainda usar os componentes em Delphi, além de também poder desenvolver em Delphi e mesclar ambas as linguagens em um projeto. É possível até usar herança entre componentes escritos em Delphi e C++ Builder.
 
-Para exemplificar um uso prático dessas ferramentas vamos usar o Logger para descobrir quais funções API estão sendo chamadas constantemente por um cavalo de tróia, uma coisa um tanto comum em ataques a bancos. Para tornar as coisas mais reais ainda vamos utilizar o código-fonte de um suposto cavalo de tróia usado em minhas apresentações:
+> Quando entrei na Scua comecei a trabalhar profissionalmente com o C++ Builder, ao desenvolver o aplicativo de administração do software de controle de acesso. Na época não tínhamos muito tempo para perder desenvolvendo tudo em Win32 API ou usar algo mais rústico como a MFC, que é mais parecido com a finada biblioteca OWL do que com a VCL (a biblioteca visual de componentes usada pela Borland para Delphi e Builder). E não, usar Visual Basic não era uma alternativa. Como a produtividade estava em jogo, hoje tenho certeza que fizemos uma boa escolha.
 
-    #include <windows.h>
-    #include <shlwapi.h>
-    
-    int WINAPI WinMain(...)
-    {
-      CHAR wndTxt[MAX_PATH];
-    
-      while( true )
-      {
-        HWND fgWin = GetForegroundWindow();
-        wndTxt[0] = 0;
-    
-        if( GetWindowText(...) )
-        {
-          if( StrStrI(wndTxt, "Fict Bank") )
-          {
-            MessageBox(fgWin, 
-              "Hi! Like to be under attack?",
-              "Free Trojan", 
-              MB_OK);
-            break;
-          }
-        }
-      }
-    
-      ExitProcess(ERROR_SUCCESS);
-    } 
+Eu gostava do C++ Builder antigo: sem frescura de registrar componentes e sem necessidade de instalação. Até hoje uso a versão 1.0 para brincar de vez em quando, pois é relativamente pequena; apenas copio para uma pasta e ainda funciona muito bem.
 
-Para compilar esse programa, você só precisa digitar os seguintes comandos em um console do Visual Studio:
+Mas desde que o mundo gerenciado veio à tona, para instalar esse singelo produto da Borland você vai precisar de alguns pré-requisitos da Microsoft:
+	
+  1. Microsoft .NET Framework SDK 1.1
+  2. Visual J# .NET Redistributable Package 1.1
+  3. Microsoft XML 4.0 SP2 Parser and SDK
 
-    cl /c freetrojan.cpp
-    link freetrojan.obj user32.lib shlwapi.lib
+Se for necessária mais alguma instalação, não se preocupe: o Borland Turbo C++ Instalation Wizard irá te avisar no momento da instalação, que deverá ser a última a ser realizada.
 
-O logger.exe possui uma extensão que pode ser usada pelo WinDbg para usar os mesmos comandos a partir do depurador. Mas para tornar as coisas mais fáceis nesse primeiro contato iremos iniciar o programa através do próprio executável:
+Após tudo isso instalado, finalmente conseguiremos rodar nossa ferramenta RAD. Aliás, antes que eu me esqueça, RAD é uma abreviação para Rapid Application Development.
 
-    logger freetrojan.exe
+Se você nunca usou essa ferramenta, ao abrir o ambiente, irá se deparar com vários elementos que precisam ser nomeados e explicados para fazer algum sentido. Mesmo que muitas coisas sejam novas, algumas devem estar sempre gravadas em sua memória:
 
-Irá aparecer uma janela onde selecionamos o conjunto de APIs que serão capturadas. Podemos manter todas as categorias selecionadas e mandar rodar usando o botão "Go". Aguarde o programa executar por um tempo para termos um pouco de dados para analisar. Em minhas análises reais eu geralmente deixo ele atacar, seja no sítio real do banco ou em uma armadilha. Depois do ataque posso confirmar qual a API que ele utilizou. Se quiser fazer isso nesse teste basta criar uma janela que contenha o texto "Fict Bank" em seu título. Após isso, podemos finalizar o processo pelo Gerenciador de Tarefas.
+Sempre que você clicar em algum componente gráfico para ser editado - como uma janela, um botão, uma lista - o Object Inspector será o lugar para editá-lo. Ele está dividido em propriedades e eventos. Propriedades são as características gráficas e comportamentais do componente que está sendo editado. Eventos especificam métodos para tratar as ações recebidas de algum componente (ex: clique de um botão).
 
-Mesmo após finalizá-lo ele continuará na lista de processos, como se tivesse travado. Na verdade, a parte injetada do Logger mantém o processo no ar, em um estado semi-morto (ou semi-vivo). Depois de finalizar o Logger fechando sua janela principal ambos os processos terminam e podemos ler o resultado da captura em uma pasta chamada LogExts criada por padrão no Desktop ou Área de Trabalho. Podemos dar uma olhada nos resultados através do visualizador de logs gerados, o Logviewer.
+A palheta é onde estão todos os componentes que podem ser usados no momento para a edição do programa. Existe uma infinidade deles, tais como: botões, menus, caixas de seleção, listas de itens, barras de rolagem, listas de ações, imagens, rótulos, grupos de botões, e assim vai a valsa. Para usá-los, basta arrastar para uma janela e editar suas propriedades.
 
-Algumas colunas do Logviewer são tão úteis que vale a pena mencioná-las:
-    
- - Module: determina quem chamou a API, o próprio executável ou alguma DLL.
- - Call Duration: tempo em milissegundos que a chamada da função demorou.
- - API Function: o nome da função API que foi chamada.
- - Return Value: o retorno da chamada da função.
+Onde estão todos os meus arquivos? O Gerenciador de Projetos está aí para ajudá-lo. Todas as units (unidades de código) e forms (janelas) que você criar no projeto estará visível para fácil acesso. É muito importante saber organizar um projeto, pois conforme se avança, ele tende a se tornar maior e mais complexo. Junto do Gerenciador de Projetos existe o seu ajudante, o Structure. Na visão de design, o Structure irá mostrar os controles inseridos nas janelas; na visão de unit, o Structure irá mostrar os includes, macros, classes e funções do código-fonte exibido no momento.
 
-De quebra ele exibe todos os parâmetros das funções de acordo com o tipo, identificando inclusive quando se trata de uma enumeração ou define reservado. Essa "mágica" é feita interpretando os headers que ficam na pasta Debugging Tools for Windows, winext, manifest, tarefa executada pelo Logger no início.
-
-O Debugging Tools é um pacote extremamente poderoso de ferramentas para programadores avançados. De maneira alguma conseguirei cobrir tudo que é possível fazer com essas ferramentas em apenas um blog e muito menos em um post. Porém, espero que essa pequena introdução seja o começo de uma série de artigos bem interessantes sobre debugging e uma série de testes realizados pelos meus leitores.
+Update: este foi um overview geral por cima do que era o C++ Builder há mais de dez anos. Não consegui validar um projeto antigo na IDE porque as ferramentas da Borland seguiram por caminhos muito tortos e a versão mais nova (que instalei) não conseguiu importar. De qualquer forma, fica o post legado.
 

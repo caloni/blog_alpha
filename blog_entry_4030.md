@@ -1,16 +1,16 @@
 ---
 categories:
 - writting
-date: '2013-10-19'
-link: https://www.imdb.com/title/tt2551492
+date: '2014-12-02'
+link: https://www.imdb.com/title/tt3063516
 tags:
 - movies
-title: Wajma
+title: 'Jackass Apresenta: Vovô Sem Vergonha'
 ---
 
-Mais um daqueles filmes que exploram de maneira corriqueira, quase novelística, o drama das mulheres do Oriente Médio que precisam se manter virgens para seu possuidor oficial, futuro marido. Não que seja ruim, pois ele desenvolve com certa destreza o drama das mulheres frente à ausência completa de ajuda (na figura do pai ausente e da mãe e avó passivas). Até resolve tomar partido da filha (óbvio), mas se esquece de desenvolvê-la como um ser humano, assim como acontece na vida real. Mulheres ainda adolescentes, em sua plena formação de caráter, são julgadas por um sistema social injusto e cruel (ultrapassado, como em determinado momento o próprio filme admite).
+Algumas pegadinhas em Vovô sem Vergonha -- uma produção da equipe de pirados auto-mutiláveis Jackass -- são feitas através da clássica situação "nonsense" e sustos com acontecimentos absurdos -- como um brinquedo de criança sair voando pela vitrine de uma loja. Porém, as melhores situações do roteiro são aquelas que usam como pano de fundo as personas do avô sem-noção (Johnny Knoxville) e do neto inocente-mas-nem-tanto (Jackson Nicoll), ou seja, o estilo Borat de fazer um mockumentary, ou road-trip-mentary, ou algo que o valha. Entre eles há uma performance inimaginável e inesquecível (se isso é bom ou não fica a cargo de quem está assistindo) em um clube de strip-dance envolvendo bolas balançando e quase caindo no chão (a imaginação é livre).
 
-Feito de propósito ou não, a falta de um desfecho mais incisivo e cruel poderia gerar um efeito muito mais efetivo, já que o objetivo é claramente criticar o status quo. Me impressiona que ainda que em defesa legítima de suas vítimas, o longa não consiga utilizar o mesmo final impactante de filmes como [O Menino de Pijama Listrado], por exemplo. Pelo visto, o abuso e injustiças contra a mulher ainda viva está longe de ser um drama tão grave quanto os milhões de judeus massacrados pela guerra.
+A história? Avô quer se livrar do neto entregando para seu genro que mora longe. Os dois vão para uma viagem, se divertem em diversas situações que apenas a equipe do Jackass poderia imaginar e ele acaba obviamente gostando da companhia do garoto (que é tão hilário quanto o avô).
 
-[O Menino de Pijama Listrado]: {{< relref "o-menino-do-pijama-listrado" >}}
+Tentando reproduzir o final de Pequena Miss Sunshine, se torna a parte menos interessante por tentar ser mais do que é e brincar com um excelente filme de forma relapsa. A melhor parte do filme mesmo é descobrir se aquelas pessoas estão sendo enganadas ou são apenas atores. Infelizmente esse "mistério" é estragado nos créditos finais. "Nunca revele seu segredo" é uma regra geral que o grupo de "comediantes" não conseguiu seguir.
 

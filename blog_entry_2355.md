@@ -1,33 +1,33 @@
 ---
 categories:
 - playing
-date: '2023-03-04'
-link: https://www.chess.com/game/live/71688416247
+date: '2023-03-01T17:13:52-03:00'
+link: https://www.chess.com/game/live/71279727071
 tags:
-- english
 - chess
-title: Miniature with hidden tactic
+title: Miniatura com sacrifício de bispo
 ---
 
-White move and gain advantage.
+Brancas sacrificam e ficam ganhas.
 
-{{< image src="board.png" >}}
+{{< image src="board1.png" >}}
+
+Brancas jogam e aplicam mate em 4 de duas formas: uma bonita e uma como seguiu na partida.
+
+{{< image src="board2.png" >}}
 
 ```
 [Event "Live Chess"]
 [Site "Chess.com"]
-[Date "2023.03.04"]
+[Date "2023.02.27"]
 [White "cavaloni"]
-[Black "perajurit"]
+[Black "jucamarvado"]
 
-1. Nf3 e6 2. e4 h6 3. d4 a6 4. Nc3 b5 5. a3 c5 6. Be3 {Three pieces already
-developed and the adversary has none.} 6... cxd4 7. Nxd4 Bb7 8. f3 Nf6 9. Bd3
-Bc5 {There is a tactic here attacking the queen with the knight and the bishop.}
-10. O-O (10. Nxe6 fxe6 (10... dxe6 11. Bxc5) 11. Bxc5) 10... Nc6 {Now I am in
-trouble to defend the knight.} 11. Nce2 Nxd4 12. Nxd4 O-O 13. Qd2 Bxd4 14. Bxd4
-d5 {This allows me to e5 and I gain a lot of space to attack.} 15. e5 Nh7 16.
-Qf4 g5 {Creating permanent holes.} 17. Qg4 f5 18. exf6 Nxf6 19. Qh3 {Didn't see
-Qe6#} 19... Kg7 20. Qxe6 {f4 would be stronger, but the adversary resigned
-anyway} 1-0
+1. Nf3 Nc6 2. d4 d5 3. Bf4 Nf6 4. Nc3 e6 5. a3 Bd6 6. Bg3 Bxg3 7. fxg3 O-O 8. e3
+Ne4 9. Bd3 Nxc3 10. bxc3 a6 11. O-O b5 12. h4 Re8 {Depois de terminada a partida
+vejo que a engine manda mesmo sacrificar.} 13. Bxh7+ Kxh7 14. Ng5+ Kg6 15. Nxf7
+Qe7 {Mate em 4 de duas formas: uma bonita e uma como seguiu na partida.} 16.
+Qg4+ (16. Qd3+ Kh5 17. Qh7+ Kg4 18. Qg6+ Qg5 19. Qxg5#) 16... Kh7 17. Qh5+ Kg8
+18. Qh8# 1-0
 ```
 

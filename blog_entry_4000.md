@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2022-07-12T20:47:02-03:00'
+date: '2023-04-24'
 tags:
 - wine
-title: Vinho romeno
+title: Vinho do Outback
 ---
 
-Ok, ele é romeno. Fora isso, lembra vinho de mercado, daqueles de trintão. Mas quem pagou caro por ele talvez traga mais características ocultas pelo sabor azedo e tânico conhecido de quem curte aquele vinhozinho sem frescura.
+O mundo do vinho é impressionante, mesmo. O Outback consegui arrumar um rótulo da Austrália que harmoniza com suas comidas picantes. É um Cabernet Sauvignon leve, porém com várias características de especiarias e seu final adstringente some junto com o alimento. O final chega a ser levemente doce. Não consegui descobrir o produtor.
 

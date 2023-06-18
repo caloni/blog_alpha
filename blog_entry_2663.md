@@ -1,33 +1,22 @@
 ---
 categories:
 - writting
-date: '2020-11-14'
-link: https://www.imdb.com/title/tt10048342
+date: '2019-03-30'
+link: https://www.imdb.com/title/tt0010323
 tags:
-- series
-title: O Gambito da Rainha
+- movies
+title: O Gabinete do Dr Caligari
 ---
 
-## Xadrez para os fracos
+Caligari! Caligari! Caligari! Um grito surdo que se traduz no cinema mudo com este nome sendo escrito pela tela de todas as formas. Este é um dos representantes do expressionismo alemão que inspirou o estilo noir que por sua vez está influenciando o neo-noir. Cenários com sombras distorcidas, elementos exagerados na tela, maquiagem pesada estilo gótico (o de indivíduos, não a arte alemã). É um filme curto que já arrisca detalhes novos na linguagem como paralelismo, sonhos e certa complexidade na história.
 
-Esta série da Netflix, que por isso me dá certa alergia, só me chamou a atenção porque tem xadrez no meio, do qual sou aficionado, mas depois descobri que é do mesmo roteirista de [Logan]. A história é de uma garotinha que se tornou órfã de mãe após um trágico acidente de carro e no orfanato aprende xadrez apenas observando o zelador e jogando em sua mente. Ela toma calmantes, naquela época medicação dada para crianças, e se torna uma viciada, mas consegue antes de dormir enxergar do teto de seu quarto um tabuleiro gigante onde analisa suas partidas.
+Hoje é analisado pelos críticos como uma clara alusão ao Estado alemão pré-nazista, crescendo como um ser autoritário sem controle e massacrando o povo judeu. Sim, tem maluco para tudo no mundo da arte. Como primeira camada, é a história do misterioso Dr. Caligari e seu sonâmbulo. A história se desdobra duas vezes e a cada vez que você assiste percebe algum detalhe novo. A reviravolta inicial a gente nunca esquece, pois não é esperado de um filme tão antigo.
 
-Sabemos que ela não irá se livrar de nenhum dos dois vícios porque o filme começa com ela já adulta e a série inteira é quase um enorme flashback. Vemos a Beth Harmon do presente uma bagunça em torno dessa mistura entre sexo, drogas e xadrez, o que já existe em sua personalidade desde o início e o "filme" de sete horas tem uma forma peculiar de adicionar isso logo no primeiro episódio, com ela ainda criança, pela curiosidade com que ela observa os garotos mais velhos de longe.
+Note os cenários pintados, um tanto distópicos, assimétricos. Isso combina com as sombras e as maquiagens exageradas. O ator que faz o somâmbulo Cesare, Conrad Veidt, é um típico exemplo do passado quando os atores eram escolhidos por suas características físicas e comportamentais, minimizando o trabalho de atuação para o Cinema, que exigia um estilo mais caricato para ficar claro o que os atores faziam com seus personagens. Isso no expressionismo alemão é vital.
 
-Esta é uma minissérie de época com sete episódios que aborda temas do momento para ser vendido, como protagonismo feminino, além de um invejável guarda-roupas vestido por Beth, que não é nada feia. Porém, ao mesmo tempo há o tema nada popular do xadrez.
+Por fim, vamos ver o que Pedro Monteiro, uma incógnita da Wikipédia, tem a dizer sobre o expressionismo alemão:
 
-Nota-se que todas as características da protagonista, Elizabeth Harmon, foram bem estudadas, como as menções sobre detalhes técnicos do jogo para os fãs, mas também o suposto autismo ou desvios de atenção de uma garota traumatizada na infância e de personalidade multifacetada. Ela vê sua mãe queimando as roupas durante a última noite em casa e pega para si um livro de matemática, mas já adulta cada aparição parece estar em um desfile de moda.
+> O expressionismo, nascido na Alemanha no final do século XIX, é maior que a idéia de um movimento de arte, e antes de tudo, uma negação ao mundo burguês (grifo meu). Seu surgimento contribuiu para refletir posições contrárias ao racionalismo moderno e ao trabalho mecânico, através de obras que combatiam a razão com a fantasia. Influenciados pela filosofia de Nietzsche e pela teoria do inconsciente de Freud, os artistas alemães do início do século fizeram a arte ultrapassar os limites da realidade, tornando-se expressão pura da subjetividade psicológica e emocional.
 
-É possível que seja baseado em alguma biografia, mas na verdade é baseado em um romance de Walter Tevis de 1983. A atriz mirim, Isla Johnston, foi uma boa escolha, talvez até melhor que a atriz já adulta, que é Anya Taylor-Joy, a garota de [Fragmentado] e [Vidro], ambas sequências de [Corpo Fechado]. Claro que a referência aqui é problemas mentais e o formato do crânio e dos olhos esbugalhados da atriz remetem a essas lembranças.
-
-A censura da série é 16 anos, o que sempre é um bom sinal. A trilha sonora caminha por obviedades dramáticas de dar sono. A direção é competente em fazer fluir uma história que começa morna e que ganha ritmo por causa desta ser uma série de sete horas e não um filme de duas. Beth monta seu tabuleiro mental no teto do seu quarto e se exibe jogando simultâneas com vários garotos ao mesmo tempo. A conotação sexual de uma garota de dez anos ao lado dos marmanjos é sutil e não tão eficaz. Mas a série não se solta tanto quanto poderia. É pudica como qualquer obra norte-americana mainstream. Outro traço comercial de um projeto caro, bem produzido. Exceto no roteiro, tão burocrático quanto os campeões russos da história.
-
-Todo e qualquer detalhe sobre torneios de xadrez, incluindo as regras com tempo, adiamento de partidas, fases do jogo, discussão sobre aberturas, rating, será abordado de maneira didática e nada orgânica, inserida no meio da história e comentado por um texto monótono dito por algum personagem cuja única função é dizer essas falas. As descrições sobre o jogo são mais enfadonhas para quem o conhece do que o jogo em si para o leigo espectador, mas não são úteis para o último, que provavelmente não está interessado em xadrez, ou se está, veio para o lugar errado.
-
-A escalada da moça também é conhecida. Não há reviravoltas em uma história em que os pequenos dramas da protagonista são minimizados ou pelo roteiro ou pela própria atuação monocromática de sentimentos. E justamente por isso, apesar de não ter sido uma escolha muito boa, Anya Taylor-Joy faz milagres em seu papel, extraindo de suas expressões e movimentos em cena mais significado que os diálogos monótonos e mecânicos do roteiro. Ela é uma enxadrista genial e problemática, apesar do roteiro tentar de maneira covarde minimizar seus traços que a tornam quem é.
-
-[Corpo Fechado]: {{< relref "corpo-fechado" >}}
-[Fragmentado]: {{< relref "fragmentado" >}}
-[Logan]: {{< relref "logan" >}}
-[Vidro]: {{< relref "vidro" >}}
+Ou seja, fica aqui a dica: expressionismo alemão é coisa de comunista safado.
 

@@ -1,14 +1,12 @@
 ---
 categories:
 - writting
-date: '2012-01-09'
-link: https://www.imdb.com/title/tt0448694
+date: '2010-12-03'
+link: https://www.imdb.com/title/tt1266029
 tags:
 - movies
-title: O Gato de Botas
+title: O Garoto de Liverpool
 ---
 
-Direção de arte nova que dá um novo respiro ao gato. Sequências e sacadas inspiradas na intro (como o fato dele ser um gato implica em problemas de estatura, ou como segue luzinha no chão). Até a história do passado, apesar de não convencer, é contada de forma convincente, e a inclusão de Humpty Dumpt é muito bem vinda ao adicionar um caráter mais adulto e contraditório. Já se a intro da gata e dos dois vilões é primorosa, o mesmo não se pode dizer do seu desenvolvimento, esquecido, já que suas funções são pontuais/artificiais e nunca fazem muita diferença na narrativa.
-
-O fato é que, com exceção dos dois, não existe aqui nenhuma criação primorosa de personagem ou mesmo de história, que acaba prejudicando a continuidade na que poderia ser a melhor sequência do longa no pé de feijão, mas que perde o ritmo facilmente. E o que dizer da conclusão bobinha que revela que o projeto não contempla nem um fechamento coerente, se bastando nas gracinhas.
+Na primeira cena temos apenas o primeiro acorde de "A Hard Day's Night", que nunca irá se completar, pois Nowhere Boy narra apenas a história do Beatle antes de efetivamente formar o grupo. Várias referências ao mundo Beatleniano, como Strawberry Fields, Walrus. Uma viagem em torno do relacionamento entre John Lennon e sua mãe, e o que levou com que sua personalidade fosse como é. Quer dizer, essa pelo menos é a teoria do filme de Sam Taylor-Johnson.
 

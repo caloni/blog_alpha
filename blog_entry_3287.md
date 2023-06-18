@@ -1,22 +1,36 @@
 ---
 categories:
-- writting
-date: '2020-07-11'
-link: https://www.imdb.com/title/tt0233809
-tags:
-- movies
-title: Revelações Secretas de Uma Mulher
+- coding
+date: '2008-09-19'
+tags: null
+title: Reúna seus comandos mais usados no WinDbg com .cmdtree
 ---
 
-Filme de baixo orçamento sobre a ex do seu diretor, Miyuki, uma feminista bissexual radical que tem tantos filhos que fica difícil contar o número dos pais. Kazuo Hara, o diretor, nasceu em 1945, um péssimo momento para estar vivo no Japão. Segundo longa seu e já habituado a polemizar em seus conteúdos.
+Tudo começou com o [artigo de Roberto Farah] sobre o comando "escondido" do WinDbg .cmdtree. Logo depois meus outros colegas do fã-clube do WinDbg [Volker von Einem] e [Dmitry Vostokov] comentaram sobre a imensa utilidade desse comando. E não é pra menos. É de longe o melhor comando não-documentado do ano. Tão bom que sou obrigado a comentar em português sobre ele, apesar dos três artigos já citados.
 
-É um trabalho no mínimo interessante. Cumpre seu tom documental, embora seja hilário que o diretor se surpreenda com a briga constante entre a ex e sua namorada quando ele passa a viver sob o mesmo teto, filmando a briga. Dessa forma, o filme acaba explicando indiretamente a diferença entre homens e mulheres e um pouco da natureza humana.
+#### Comandos repetitivos
 
-A princípio o filme parece não ter sido uma boa ideia. Acompanhamos a rotina da mulher na ilha de Okinawa, o bairro Heliópolis do Japão. Ela se mudou para lá para conhecer o lado miserável dos japoneses em sua colônia mais controversa, geralmente um porto de marinheiros estrangeiros e base de nascimento de várias crianças mestiças com as trabalhadoras dos bordéis locais. Tanto as mulheres quanto as crianças vagam pela ilha. E Miyuki é tudo aquilo que seu diretor quer que ela seja. Sua narrativa é que comanda. Ela não confia nele por ele ser bom com as palavras, mas é vaidosa o suficiente para não descartar um filme em que ela é a protagonista máxima.
+E eu estava justamente falando sobre essa mania dos programadores sempre acharem soluções para tarefas repetitivas e monótonas que o computador possa fazer sozinho.O comando .cmdtree é uma dessas soluções, pois possibilita ao depurador profissional juntar em uma só guia o conjunto de comandos mais usados por ele no dia-a-dia, por mais bizarros e com mais parâmetros que eles sejam, já que é possível representá-los por um alias (apelido):
 
-O filme finalmente emplaca quando nasce mais um filho dela na casa do diretor. Ele coloca a câmera de frente para sua vagina durante o parto, mas a providência divina e a tensão que ele sentia faz a câmera ficar fora de foco todo o tempo. São momentos que ficaram mais tensos por conta disso e por ela ter uma filha totalmente sozinha. Ao final do parto a criança fica lá jogada no chão, mas a mãe começa a dizer que está tudo bem e é natural. Não conseguimos entender o desdém dessa criatura, ou o que a move, se é que há algo.
+    windbg ANSI Command Tree 1.0
+    title {"Meus Comandos Comuns"}
+    body
+    {"Comandos Comuns"}
+     {"Subsecao"}
+      {"Breakpoint no inicio do programa"} {"bp @$exentry"}
+      {"GetLastError"} {"!gle"}
 
-Filmado com áudio independente, há vários momentos fora de sincronia, mas que soa até poético, quase como descrições fora da ação. Em dado momento o diretor trabalha com sua namorada e vemos como a ex é ciumenta e possessiva. Ambas engravidam nessa época e são bem diferentes entre elas.
+O resultado:
 
-A conclusão que você irá chegar deste trabalho é que ele é bem pessoal, quase a ponto de não conseguirmos universalizar para tirarmos ideias sobre nós mesmos. Mas é isso o que o torna um filme que chama atenção: aprendemos também observando o outro, e quando o outro viveu em uma década em que não éramos nascidos em um país que nunca conhecemos com pessoas à margem da sociedade. Então ele se torna algo a mais do que nossas vidinhas pequeno-burguesas.
+{{< image src="cmdtree.png" caption=".cmdtree" >}}
+
+E podemos usar essa janela no nosso WinDbg, cada vez mais bonitinho e cada vez mais [WYSIWYG](http://pt.wikipedia.org/wiki/Wysiwyg):
+
+{{< image src="cmdtree2.png" caption=".cmdtree2.png" >}}
+
+Realmente não há segredos em seu uso. Esse artigo foi apenas um patrocínio do clube do WinDbg.
+
+[artigo de Roberto Farah]: https://docs.microsoft.com/en-us/archive/blogs/debuggingtoolbox/special-commandexecute-commands-from-a-customized-user-interface-with-cmdtree
+[Volker von Einem]: http://voneinem-windbg.blogspot.com/2008/09/amazing-helper-cmdtree.html
+[Dmitry Vostokov]: http://www.dumpanalysis.org/blog/index.php/2008/09/18/cmdtreetxt-for-cda-checklist/
 

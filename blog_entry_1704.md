@@ -1,12 +1,14 @@
 ---
 categories:
 - writting
-date: '2020-10-04'
-link: https://www.imdb.com/title/tt9680524
+date: '2017-07-31'
+link: https://www.imdb.com/title/tt5770786
 tags:
 - series
-title: Glow Up
+title: Glow
 ---
 
-Sempre que minha esposa assiste algum reality onde é a habilidade das pessoas que está em jogo eu acabo assistindo mais do que devia. Em Glow Up são artistas de make-up, e a escalada de cada um deles revela mais do que apenas trabalhos de maquiagem. É uma imersão na dinâmica de um criador em pegar um conceito qualquer e transformar em algo para os outros admirarem. É sobre técnica, mas muito mais sobre estilo, e mudança de estilo. É desafiador para os participantes, empolgante para os espectadores que estejam de olho como uma lição geral de como nem sempre nascer habilidoso é suficiente. A maioria dos realities na verdade mostra que esse é apenas o começo da jornada.
+Mais uma série feminista/SJW pela Netflix. Dessa vez nos anos 80, embora essa década já fosse libertadora para mulheres. É sobre elas entrando na luta livre, como os homens, e não apenas se exercitando na academia de ginástica, todas coloridas e com polainas. A série apresenta uma Alison Brie (Community) irreconhecível. Teoricamente ela paga peitinho (e bundinha) logo no piloto, mas se for ela mesmo, é frustrante como ela mirrou desde a série de comédia que a tornou particularmente desejada.
+
+Sim, estou sendo um porco chauvinista, quase que de verdade, em meus comentários. Isso é para verificar se é possível atacar o conteúdo politicamente correto de GLOW sem perder a compostura. Convenhamos: não basta contar uma história não-convencional com a desculpa da diversidade. Continua sendo um engodo empurrar mais uma série de personagens bizarros, mas medíocres, inconsequentes, evitáveis. Prefira Girl Boss.
 

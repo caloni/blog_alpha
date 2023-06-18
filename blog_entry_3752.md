@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2015-11-23'
-link: https://www.imdb.com/title/tt1964418
+date: '2019-02-10'
+link: https://www.imdb.com/title/tt0101921
 tags:
 - movies
-title: 'Tomorrowland: Um Lugar Onde Nada é Impossível'
+title: Tomates Verdes Fritos
 ---
 
-Um "A Corrente do Bem" atualizado a nível tecnológico, inserido em uma aventura onde pessoas voam, coisas voam e a NASA é uma expansão da Disney. Ou seria o contrário?
+Eu me lembro de ter visto esse filme com minha mãe após ter alugado um DVD na locadora. O que ficou na minha mente por décadas foi a ternura com que a história se desenvolvida. Este é um drama no sentido clássico do gênero. Ele tenta fazer um apanhado histórico nos dando apenas a voz dos oprimidos e seus salvadores. Ou seja, ele é completamente manipulador. Mas é tão tentador acreditar em uma realidade em que só existem opressores e oprimidos. Até hoje em dia tem gente que defende isso.
 
-Tomorrowland só não é um filme Sessão da Tarde graças ao toque mágico de Brad Bird (Os Incríveis, Ratatouille), que consegue pegar uma aventura insossa como essa e torná-la em algo divertido, que parece conter mais do que o simplório roteiro que escreveu com Damon Lindelof (Guerra Mundial Z, Prometheus), onde o futuro da humanidade está ameaçado, mas ao mesmo tempo seus gênios criaram um lugar onde tudo é possível (em que tudo se resume basicamente em voar e flutuar em diferentes versões). Com a ajuda dos visionários (que antes seriam apenas nerds) Frank Walker (George Clooney) e Casey Newton (nossa, como eles são originais nos nomes dos personagens!), talvez ainda haja esperança.
+Kathy Bates está absolutamente entregue ao papel de dona de casa que se revolta ao ouvir sobre a história de uma sufragista na década de 30 nos EUA, em pleno domínio do patriarcado e a pós-escravidão e os problemas raciais do sul americano. Bates é nossos olhos, ouvidos e corações, atentos ao que a personagem de Jessica Tandy irá transpor em palavras e nós veremos em um pequeno épico. Tandy já esteve do outro lado da moeda no pequeno clássico com Morgan Freeman, Conduzindo Miss Daisy, e está tão confortável no papel que é difícil saber que ela realmente está com 82 anos durante as filmagens.
 
-Com uma direção de arte que brinca a todo o momento com a animação -- e onde os robôs do mal possuem um sorriso a la universo Roger Rabbit ou Máscara -- Tomorrowland prefere jogar sensações na frente do seu público e piadas bem humoradas enquanto tenta adiar para sempre sua trama principal. Como resultado temos uma ótima diversão com pouca reflexão. Bom, a não ser que você ache super-genial a velha cartilha do "estamos destruindo o mundo, precisamos dar-nos as mãos" atual, originário dos desavisados do movimento Ocupy Wall Street e que agora gera mais e mais movimentos "nonsense" em volta do globo (seriam eles a causa do fim dos tempos?).
+Este é um filme para todas as donas de casa da época e que deve ser visto por todas as mulheres como lembrete do que significa a liberdade, vinda com a responsabilidade de deixar o corpo em forma (sorry, femistas do "gordo que é belo"). Há muitas formas de fazer feminismo, mas este é o correto. Ele humaniza seus personagens, e embora transforme todo o resto em vilões carrancudos e míopes, a mensagem de esperança sempre fica um pouco acima.
 
-Mesmo assim, boa parte do filme funciona graças à nossa curiosidade mórbida em busca de soluções para este mundo fantástico. Seria uma viagem no tempo? Mas isso não geraria paradoxos temporais? Ou seriam alienígenas infiltrados como em MIB? Talvez fosse uma mistura de tudo isso junto... e a maior parte do tempo todas essas divagações funcionam, com uma ajuda de um elenco de atores afiados.
+A trilha sonora do evocativo Thomas Newman (é dele também a vergonha alheia de Histórias Cruzadas) é daquelas que vai querer te forçar a se emocionar. Não faça isso. A mensagem visual de cada momento da história em que há uma pausa é mais poderosa. O diretor Jon Avnet, que começa estreando no cinema com esse filme, nos entrega diversos planos muito mais inspirados, que constrõem a história sem necessidade de pieguices como essa. Que vergonha, Newman. Tentar diminuir uma história tão intensa.
 
-Com atuações inspiradas de Clooney e da simpática e divertida Britt Robertson, além da mais que especial performance da robótica Raffey Cassidy, o filme consegue fazer-nos ficar metade interessados nessas pessoas e a outra metade curiosos pela história que os une. No meio de tudo isso, tentamos descobrir sobre o que diz esse mundo fantástico. Talvez a maior virtude do seu roteiro seja esconder isso ao máximo, revelando aos poucos que não se trata apenas de uma versão futurista de Orlando, mas de uma gigantesca campanha de product placement (pelo jeito a crise unicamente brasileira já anda diminuindo o número de turistas na Flórida).
-
-Recheado de efeitos digitais que impressionam graças aos movimentos graciosos que Bird desempenha em toda a história, Tomorrowland pode até ser chamada de Sessão da Tarde, pois merece o título pela sua história nada original. Porém, pela sua realização, este filme está contido em uma dimensão apartada da nossa realidade mesquinha e cruel. Pena que o que temos para hoje se chama realidade.
+Ainda que em alguns momentos o ritmo fique extraordinariamente lento e a cadência das cenas não nos permita desfrutar por completo um filme que vai te puxando cena a cena, Tomates Verdes Fritos possui tantos bons momentos que fica difícil não defendê-lo como um exemplo de Cinema. É um romance transcrito para a telona sem vergonha de ser feliz. É piegas, é feminino, mas possui um coração ligeiramente acima de nós, reles mortais.
 

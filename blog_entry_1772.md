@@ -1,22 +1,20 @@
 ---
 
-Assistir novamente a "Harry Potter e A Pedra Filosofal" depois dos atores crescidos e a computação dominar o cenário de efeitos visuais cria uma nostalgia quentinha no coração. Por ser um filme de origem, muitos detalhes da história tiveram que ser contados de forma burocrática, mas a imaginação de J. K. Rowling transforma o exagero do mundo mágico dos bruxos, coexistindo debaixo das barbas dos não bruxos (trouxas, esse é o nome), em uma diversão à parte. Quando uma chuva de cartas inunda a residência dos tios do pequeno órfão Harry Potter nós sabemos que as regras da magia podem dominar nossa percepção daquela realidade.
+A série de filmes começa a parecer uma série televisiva, inchada para pouca recompensa no final do episódio. A suposta genialidade de J. K. Rowling em recriar a mitologia Star Wars acaba se tornando óbvia demais nesse episódio onde apenas pessoas específicas morrem para que haja algum peso dramático, e a dicotomia entre progressistas e conservadores seja novamente usada como uma óbvia alegoria em nosso século onde seguir as tradições é usado como a marca da besta.
 
-Além disso, detalhes desse mundo peculiar dos bruxos também preenchem nossa imaginação, como os banqueiros que guardam moedas de ouro em cofres acessíveis por um sistema de minas, ou a maneira poderosa como um chapéu escolhe a escola dos recém chegados alunos ou a varinha mágica que escolhe o seu dono, e não o contrário, como imaginaríamos.
+O filme não se diferencia por muito mais que isso dos outros. Apresenta novos personagens que serão usados na batalha final e para aumentar a diversidade com novos elementos femininos. É curioso como a participação de Gary Oldman como Sirius Black parece ter sido pincelada para pouco tempo de tela e muito impacto narrativo. Assim como Dumbledore e outros adultos que antes apenas eram portas de entrada para as crianças bruxas e as leituras desses livros.
 
-Além disso, pequenos truques de magia como fotos e quadros animados e escadarias que decidem mudar de lugar conseguem nos inserir completamente naquele mundo mágico da escola de Hogwarts e nos dar uma impressão, ainda que parcial (são crianças) do mundo que Harry Potter e seus recém amigos estão adentrando.
+Mas a ideia geral é a troca de gerações, e nada como um bando de jovens liderados pelo bruxo escolhido Harry Potter para que outra alegoria muito usada, a dos jovens revolucionários, tome as rédeas de um mundo cínico onde a mídia é controlada pelo mais alto grau dos bruxos. O medo de perder poder acaba atrasando o progresso e a elucidação de fatos que a autora tanto venera em seus livros: o mal está de volta (ele sempre está, não?) e precisamos de mais força para impedir.
 
-Todas essas novas experiências são cercadas por um mistério envolvendo inimigos do bruxinho e uma história de vingança. Hoje ela é conhecida por todos, mas hoje também os filmes infantis são inofensivos, o que os tornam facilmente esquecidos. Aqui a morte passa próximo das crianças, e é isso que nos faz levar a aventura a sério.
+Aliás, não deixa de ser irônico que um controle mais conservador em Hogwarts impeça os alunos de aprenderem a se defender (ou atacar, mas não se usa como sinônimo), enquanto o lado mais progressista na vida real seja o mais entreguista possível, assim como a contradição entre usar o nome de Voldemort para impedir que o nome ganhe poder enquanto usar a expressão sangue sujo para mestiços entre bruxos e trouxas é ofensivo e deve ser evitado.
 
-Ainda assim, a direção de Chris Columbus (Esqueceram de Mim) e a trilha sonora de John Williams (que cria o memorável tema da série) abraçam o caráter infantil desse primeiro trabalho cinematográfico da série de livros. As cores são muito vivas, e jogar quadribol voando em vassouras, apesar de arriscado, é uma atividade colorida e lúdica. Também o são as criaturas mágicas que habitam o castelo de Hogwarts e sua floresta.
-
-Eis um filme que consegue empolgar criança e adulto. Criança porque quem não adoraria viver um mundo onde a magia, além de realidade, é um mundo cercado de mistérios? E adulto porque quem não adoraria voltar a ser criança em uma versão mágica e livre das leis da física? Eu estou na fila.
+Enfim, alegorias muito simplistas tendem a entregar resultados superficiais. Aqui conhecemos o lado mais adulto de Rowling, e ele não é nada maduro.
 
 ---
 categories:
 - writting
-date: '2010-11-19'
-link: https://www.imdb.com/title/tt0926084
+date: '2018-12-07'
+link: https://www.imdb.com/title/tt0241527
 tags:
 - movies
-title: Harry Potter e as Relíquias da Morte - Parte 1
+title: Harry Potter e a Pedra Filosofal

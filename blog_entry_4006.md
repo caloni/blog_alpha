@@ -1,25 +1,16 @@
 ---
 categories:
 - writting
-date: '2017-11-27'
-link: https://www.imdb.com/title/tt5598102
+date: '2013-03-04'
+link: https://www.imdb.com/title/tt1235548
 tags:
-- cinemaqui
 - movies
-title: Visages, Villages
+title: VIPs
 ---
 
-Visages, Villages é um filme fácil de assistir. Se trata de um documentário road-movie com um artista jovem cuidando do projeto de uma artista experiente. Ambos se respeitam e estão juntos pelo mesmo objetivo: viver.
+Quando vemos Wagner Moura descendo de helicóptero em uma festa de bacanas e logo em seguida em uma sala de aula imitando seu colega de classe temos em pouquíssimos minutos a exposição de todo o arco dramático de seu personagem. Essa economia ao contar a história de Marcelo permite que o espectador preste atenção a outros detalhes de sua vida, como sua relação com o "pai" ou sua busca por se tornar alguém diferente.
 
-E viver para um artista é botar o pé na estrada e sair fazendo arte. A arte dele são colagens. A dela é fotografia. Passando de vilarejo em vilarejo ele e ela tiram fotos das pessoas da paisagem e as expandem, fixando-as na mesma paisagem e nos mesmos muros, paredes e mentes dessas pessoas. Elas viram famosas por estarem destacadas do cotidiano.
+Aliás, depois de entendermos sua fascinação por aviões - algo que Moura faz questão de ressaltar com uma expressão infantil de deslumbramento - os caminhos trilhados pelo personagem fazem todo o sentido, e é dessa forma que, mesmo que com um destino muitas vezes imprevisível conseguimos antever suas ações. Porém, diferente dessas, as consequências das decisões de Marcelo sempre me escapa, e é por isso que momentos onde o personagem está pilotando um avião ou toda a sequência do camarote são extremamente tensos.
 
-Os vilarejos do filme e do título não são exatamente o que nossa imaginação pode trazer à tona. Em vez daquelas casinhas e camponeses temos fazendeiros fabricando queijo, estivadores cuidando de um porto e funcionários de uma fábrica. Existem histórias inspiradoras do passado, como um casal que se casou via um sequestro de amor e uma única moradora que resiste se mudar de uma antiga vila de mineradores.
-
-Para essa jornada eles usam um furgão com uma enorme lente de câmera desenhada. O estilo deles é a soma dos clichês. Mas isso só porque se trata de um documentário, onde a vida deveria ser maior que a arte. Não é o caso. Há alguma coisa barrando a arte e a vida. Um roteiro manipulador demais torna a experiência inofensiva. E mesmo que existam surpresas pelo caminho elas não são suficientes. É preciso conhecer quem são esses artistas para respeitá-los e ter uma ideia da importância do que fazem.
-
-Agnès Varda dispensa apresentações. A diretora belga de mais de 89 anos demonstra, apesar da idade, estar sob o controle de suas criações ao mesmo tempo que se torna protagonista de suas histórias. Dirigindo e escrevendo filmes desde a década de 50, Varda está em constante movimento e não se limita em definir o que faz com palavras simples. Suas observações enquanto vai entendendo o projeto durante a própria viagem são perspicazes demais para entendermos de primeira, o que torna a experiência rica e complexa.
-
-Já JR é um cineasta-incógnita. Sempre de óculos escuros e tendo estreado com um longa documental ("Women Are Heroes", em 2010), talvez seu curta mais conhecido seja Ellis (2015), onde Robert de Niro revisita sua origem de imigrante. JR também demonstra estar em constante movimento e faz sentido ele ser fascinado em fazer colagens. Seu objetivo é arquivar o mundo em paredes ou películas. Embora nunca faça muito sentido vê-lo junto de uma senhorzinha minúscula e cheia de estilo, aos poucos a combinação da "dupla dinâmica" vai fazendo algum sentido. Mas não muito.
-
-A questão é que "Visages, Villages" se mostra um trabalho em andamento que foi filmado como um documentário de si mesmo. O que aquelas pessoas significam no todo do filme? Tudo é muito vago para encontrarmos alguma linha de raciocínio aí. Se trata de um filme itinerante, mas doce, tranquilo, com um pouquinho de tratamento narrativo e muito improviso.
+Por fim, Carrera é um nome absurdamente ideal para um personagem ambíguo que oscila entre o crime e a fama. E se prestarmos mais atenção à parábola do peixe em dado momento do filme apreciaremos com mais intensidade o drama de uma pessoa fadada ao seu destino, não medindo esforços para provocá-lo.
 

@@ -1,24 +1,22 @@
 ---
 categories:
 - writting
-date: '2013-04-03'
-link: https://www.imdb.com/title/tt1520211
+date: '2019-05-15'
+link: https://www.imdb.com/title/tt1312171
 tags:
 - series
-title: The Walking Dead - Primeira Temporada
+title: The Umbrella Academy
 ---
 
-The Walking Dead é uma trama de zumbis para forçar uma trama sobre seres humanos sobrevivendo no limite. Ele exagera demais no drama, talvez nos zumbis, mas nunca nessa premissa. Estamos acompanhando pessoas que estão tentando adaptar uma nova moral, novas regras e novas formas de viver a vida. Felizmente ou infelizmente, aos poucos eles descobrem que nada mudou muito.
+Estava assistindo The Umbrella Academy e lá pelo terceiro episódio tive uma ideia genial: assistir já o último. A ideia para um crítico de cinema como eu é clara: não há nada que seja desenvolvido nos episódios intermediários que não será citado ou terá referências no season finale, e se houver não importa tanto assim. Tempo economizado, pretendo fazer isso com todas as séries se o começo não tiver indícios de que o resto seja acima da média.
 
-Finalmente, por livre e espontânea pressão, decidi começar minha peregrinação por essa série que encanta pela dramatização do que antes era visto como piada: um apocalipse zumbi. Tive boas surpresas, principalmente na parte técnica, como a fotografia, que lembra tons de sépia e caracteriza esse ambiente sem qualquer rastro de esperança (além de conseguir se contrapor às cenas com sangue), e o som, que aposta em um em realismo inebriante ao estilizar os ruídos produzidos pelos "errantes", humanos que morreram e que ressucitaram como criaturas sedentos por carne viva (humana e animal). Já o uso de Matte Paintings -- cenários pintados ao fundo --, se em um primeiro momento exalta a solidão daquele mundo com precisão dramática, usado à exaustão revela mais sua artificialidade do que reforça a situação vivida por aquelas pessoas.
+Para seguir essa dica, imagine o seguinte: prestando atenção em uma série como em um filme é possível obter todas as informações relevantes em seus primeiros 10 minutos (assim como em um filme). Esta técnica apenas não é recomendada para quem for assistir a série como novela, se identificar com os personagens -- como eu fiz no ótimo Sense8 -- o que me lembra que séries são, sim, novelas glorificadas, já que é nossa identificação com os personagens que permite que vejamos infinitos episódios sobre o mesmo universo. Eu iria até além e encaixaria as séries de filmes, como os da Marvel, Star Wars. Quem diria que Vingadores é a novela mais cara produzida na história do Cinema?
 
-A parte dramática também começa bem. Acordamos em um hospital junto de Rick Grimes (Andrew Lincoln), um policial que foi baleado e que encontrava-se desacordado em recuperação. Já delineando os rumos da história a partir do seu melhor amigo/colega e a sua família formada por esposa e filho, acompanhamos sua peregrinação em busca de respostas e que culmina em uma Atlanta devastada e um acampamento com pouquíssimos humanos que sobrevivem de saquear os restos de comida da cidade deserta.
+Outro motivo para não seguir essa fórmula é para séries que merecem sua atenção, caro leitor que valoriza seu tempo. Por exemplo, em Breaking Bad, a história de um professor de química que vai se transformando aos poucos em um chefe de máfia é sobre o processo. Então mesmo que você "perca" alguns episódios o processo é valioso. Merece ser assistido do começo ao fim. E mais de uma vez, já que você economizou seu tempo evitando de ver séries bostas por inteiro.
 
-Aliás, quando digo "deserta", me refiro a almas. Constituindo a maior aglomeração de zumbis já vista, os errantes se misturam à paisagem como se sempre fizessem parte do asfalto cinzento e do vento podre. A maior força de The Walking Dead reside justamente nas novas relações e regras que precisam ser criadas para a sobrevivência daquelas pessoas não apenas como animais, mas como seres humanos dotados de consciência.
+Outra exceção fica por conta de séries cujos episódios são relativamente independentes e que você pode assistir em qualquer ordem, como South Park e Rick & Morty para animações, ou até Easy por ser breve e que foge do padrão, e, claro, Sherlock, tanto por ser independente e pela sua qualidade narrativa que instiga o espectador.
 
-E embora a série se esforce em ressaltar o lado humano, seus acontecimentos seguem à risca a cartilha televisiva e soam episódicos demais, iniciando e terminando convenientemente na duração de um capítulo (como os acontecimentos em torno das duas irmãs e de um inusitado asilo). Não que esse formato prejudique a história isolada de cada evento. Sabemos o que essas pessoas têm passado durante todo o tempo, e apenas isso consegue unir suas histórias. É por isso que a câmera se fixa por tanto tempo nas duas irmãs e isso não soa invasivo ou repetitivo demais. Há um outro ritmo a seguir na história humana, e a série pontua e reacerta o relógio biológico da sociedade de forma impecável.
+Mas voltando à série: é descartável. Uma série de heróis da Netflix criada a esmo, embora ela se desenvolva de uma maneira curiosa, unindo o realista com o bizarro. E selecionando músicas para suas cenas como dificilmente vemos por aí. A morte de um bilionário excêntrico que foi o pai adotivo de sete crianças nascidas misteriosamente de mulheres que não estavam grávidas até o momento do parto é o estopim para o luto de todos não pelo pai, mas por um passado que os transformou no que não gostariam de ser. Todos possuem arrependimentos em Umbrella Academy. Alguns no passado, outros no futuro. Sim, porque seis desses sete jovens possuem poderes especiais (daí parecer uma série de heróis). Seis menos uma: a interpretada por Helen Page, uma garota que toca violino e parece saber ou pensar mais do que ela diz. Ela pode ser nossa testemunha ocular por estar de fora e também por ter traído o grupo ao publicar um livro biográfico expondo toda a família.
 
-Porém, ainda que assuma o drama, a origem cartunesca pode ter gerado alguns percalços ao definir de qual gênero estamos falando, pois ao mostrar um ataque surpresa de zumbis as câmeras são inundadas de sangue de uma forma cômica em um momento intenso e primordialmente dramático. Esse tipo de enfoque pode prejudicar o desenvolvimento da série como narrativa orgânica ou pode nos preparar para futuros acontecimentos que desafiam nossa percepção de absurdo e bizarro.
-
-De qualquer forma, do jeito que está, The Walking Dead ainda não disse realmente a que veio, mas promete muito.
+Está vendo como pular para o final é muito melhor?
 

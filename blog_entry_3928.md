@@ -1,20 +1,14 @@
 ---
 categories:
 - writting
-date: '2017-07-31'
-link: https://www.imdb.com/title/tt1672214
+date: '2020-07-15'
+link: https://www.imdb.com/title/tt7826376
 tags:
-- movies
-title: Usagi Drop
+- series
+title: Upload
 ---
 
-Há algo novelístico e caricato nesse filme cujo único defeito é ser uma história doce e sensível sobre paternidade. E quando digo paternidade não me refiro a pais biológicos, mas à relação entre adultos e crianças que estão sob sua guarda. Por ser um filme japonês há vários detalhes culturais, mas ainda assim ele se esforça por ser universal.
+A fotografia é perfeita, de filme, e logo corta para o metrô lotado de Nova York e as cores de vídeo caseiro. Depois as cores ficam um pouco melhor, mas é o contraste que interessa nesse momento. Várias ideias interessantes surgem na tela, ainda que pouco acuradas. Existe no universo de Upload uma sarcástica sci-fi que retrata um futuro muito próximo onde é possível subir para a nuvem nossa consciência e continuar a vida por lá, no formato digital, em um mundo virtual à sua escolha. Do tamanho do seu bolso, claro.
 
-Ele conta a história de uma menina de seis anos que morava com o avô do protagonista, possivelmente sua filha. O avô faleceu, estamos em seu funeral, e todo mundo deseja se livrar do fardo que é cuidar de uma criança. Ainda mais uma criança que não é nossa.
-
-Soa irreal para mim ver japoneses se comportando como egoístas, conhecendo sua cultura de respeito ao próximo. Talvez crianças sejam um tabu maior hoje em dia, em uma nação que se constitui cada vez mais por pessoas da terceira idade.
-
-Esta é a versão live-action de um animê que foi criado a partir de um mangá, Bunny Drop. Isso explica o cartunesco. Temos uma menininha adorável que é adorável apenas existindo. O protagonista é o jovem solteiro que a adota, seu sobrinho, e que agora irá viver o que nunca imaginou: ser pai solteiro.
-
-Há algo de doce em Usagi Drop que se mantém em seus personagens, servindo de entretenimento para o espectador, mas nunca se aprofundando mais do que frases de efeito. De qualquer forma, uma história que vale a pena ser contada e acompanhada.
+Este é um jeito fácil de trabalhar o raciocínio do espectador médio a respeito de questões filosóficas profundas, então é um sci-fi que respeita seu gênero e nos faz pensar sobre suas ideias. No entanto, todo esse brilho fica apenas no primeiro episódio, pois logo depois a série se torna um romancezinho daqueles que não interessa o contexto, é sobre ela e ele, amor independente dos meios, ricos malvados e pobres honestos e tudo aquilo que já conhecemos das fontes de inspiração menos nobres: novelas mexicanas.
 

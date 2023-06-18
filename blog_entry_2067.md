@@ -1,48 +1,11 @@
 ---
 categories:
-- coding
-date: '2014-04-08'
+- travelling
+date: '2023-05-30'
+link: https://maps.app.goo.gl/sHRT5gwFyLrhnEYW9
 tags: null
-title: 'Lambda: o Retorno!'
+title: Lagoa de Pitangui - Natal
 ---
 
-Na última vez que foi abordado o tema "lambda na ferida" falamos brevemente sobre como C++ agora permite criar funções dentro de funções. Hoje vamos apenas falar que aquela construção bizarra que criamos fica ainda mais bizarra se precisarmos retornar alguma coisa dessa função ou usá-la mais de uma vez.
-
-{{< image src="Hrbu1ue.jpg" caption="Lambda: o Retorno" >}}
-
-O padrão do lambda é supor que sua função embutida e enlatada não precisa retornar nada, o que torna a sintaxe mais simples: é um void AlgumaCoisa(argumentos). No entanto, para algoritmos como o find_if isso não funciona, então é necessário retornar algo. E, no caso de find_if, chamá-lo mais de uma vez pode ser feito facilmente criando uma variável lambda:
-
-```
-#include "Common.h"
-#include <algorithm>
-#include <vector>
-#include <string>
-
-int main()
-{
-	std::vector<Employee> employees; // um bando de empregados
-	std::string currentDate = GetCurrentDate();
-
-	// definindo uma função, como quem não quer nada, dentro de uma função
-	auto FindByBithDate = [&](Employee& employee)->bool // <-- tipo de retorno
-	{
-		return employee.birthDate == currentDate;
-	};
-
-	GetEmployees(employees);
-
-	auto findIt = std::find_if(employees.begin(), employees.end(), FindByBithDate);
-
-	while( findIt != employees.end() )
-	{
-		SendMail(*findIt);
-		findIt = std::find_if(findIt + 1, employees.end(), FindByBithDate);
-	}
-}
-
-```
-
-O tipo de retorno que colocamos através de uma flechinha é obrigatória? De fato, não. Se eu omiti-la vai funcionar do mesmo jeito porque o único ponto de saída da minha função retorna um bool.
-
-Esses compiladores estão ficando cada vez mais espertos.
+Esta foi a lagoa com a melhor estrutura que encontramos em Natal, com preço justo e variável de acordo com o tipo de lazer que você procura. Custa desde 20 por pessoa com 10 consumíveis no local até 25 para usar várias atrações, como pedalinho, tobogãs na água, caiaque, etc. Há uma equipe para cuidar da segurança de todos. Não tenho certeza se em alta temporada a fila de espera é muito grande, mas na baixa com certeza o preço vale muito a pena. Para sentar você tem a opção de mesas levemente submersas no início das águas, com peixinhos que beliscam seus pés e comem suas cutículas (mas só se você quiser). As crianças adoram. A profundidade da água vai de raso até na altura de um adulto, e há marcas do limite seguro. O cardápio não é muito caro, é o preço da região, e há várias opções, inclusive de cervejas. O espeto de camarão é uma boa pedida.
 

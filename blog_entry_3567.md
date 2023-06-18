@@ -1,11 +1,25 @@
 ---
-categories:
-- writting
-date: '2022-10-20T21:41:46-03:00'
-tags:
-- series
-title: Sue Perkins
+categories: []
+date: '2017-05-28'
+tags: null
+title: Como acessar submódulos no git inacessíveis?
 ---
 
-Hoje há tanto dinheiro para produzir qualquer coisa. Como esta minissérie estrelando Sue Perkins. O que ela faz? Viaja para a América do Sul, bebe até cair e segue a agenda que os comediantes locais bolaram para ela. Como levar um tiro em uma fábrica de coletes. É divertido ou enfadonho, depende de você, ouvir toda vez que Sue entra em uma nova atividade seu ponto de vista liberal-americano sobre o mundo. Ela é vegana e não come taco de língua. É antiarmas e leva um tiro de 38. Defende profissionais do sexo por serem... profissionais do sexo. Parece uma inglesa mimada de que descobriu outras partes do mundo. Ela tem medo de estagnar e continua de esquerda mesmo cinquentona.
+Quando projetos remotos usam submodules é possível que algum deles seja acessível apenas através de chaves criptográficas. Isso exige que os sub-projetos necessários para fazer funcionar seu projeto podem estar fora do seu alcance e acesso, o que irá gerar durante seus comandos __pull__ recursivos erros de ssh (publickey access).
+
+A solução é ler a documentação e descobrir que é possível editar o arquivo .git/config para mudar a url de um submódulo inacessível pela forma do .gitmodules. Eis um exemplo de arquivo config dentro do .git:
+
+```
+[submodule "sbrubles"]
+	url = git@github.com:user/project.git
+```
+
+Você pode localmente alterar o endereço ssh deste submodule para algo que todos têm acesso ou só você tem acesso, como uma pasta local ou o endereço https:
+
+```
+[submodule "sbrubles"]
+	url = https://github.com/user/project.git
+```
+
+Note que isso não irá interferir em nada no repositório localizado remotamente do projeto. Dessa forma diferentes membros da equipe podem usar diferentes formas de acessar um submódulo.
 

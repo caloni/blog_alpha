@@ -1,26 +1,99 @@
 ---
 categories:
-- writting
-date: '2016-09-07'
-link: https://www.imdb.com/title/tt2660888
-tags:
-- movies
-title: 'Star Trek: Sem Fronteiras'
+- reading
+date: 2018-07-15 21:53:55-03:00
+tags: []
+title: Stanford Encyclopedia of Philosophy para Kindle
 ---
 
-O reboot megalomaníaco da série de filmes inspirada pela série televisiva nerd dos anos 60 está com muita bala na agulha para poder gastar e pouca vontade de arriscar. Isso quer dizer que o novo filme com Capitão Kirk e Spock tem basicamente o mesmo enredo do filme anterior (Além da Escuridão) tirando a emoção.
+A enciclopédia mais completa e de maior respeito da internet não é um enciclopédia geral, mas uma de filosofia. Está hospedada na Universidade de Stanford e possui revisão por pares e toda a autoridade de ser escrita por especialistas nos verbetes em questão. O único problema (até agora) era não ser possível baixá-la para degustar no Kindle. Até agora.
 
-Porém, a boa notícia é que os efeitos visuais gerados por computador têm garantidos boas supressas esse ano. Além do ótimo Warcraft, Star Trek possui algumas das sequências descritivas que irá tirar o fôlego do espectador, particularmente a apresentação de uma gigantesca estação no espaço criada pela Frota Estelar para manter uma base de apoio nas profundezas do limite onde humano algum jamais foi. Além disso, a versão 3D faz um ajuste mais que esperado: nas cenas escuras com pouca profundidade, apela ao 2D, auxiliando na claridade para quem está com óculos tampando metade da luz.
+Para realizar esta operação será necessário usar as seguintes ferramentas:
 
-Em termos banais, essa nova aventura é onde a Enterprise irá para a periferia do espaço explorado pela civilização da Terra e irá encontrar ainda muita selvageria que precisa ser colonizada. Isso inclui uma pequena dose de filosofia de botequim, quando Capitão Kirk pensa em abandonar o posto da Enterprise por não ver mais sentido naquelas longas jornadas a bordo de uma nave que desconhece limites, exceto o da ignorância dos povos do espaço longínquo, onde tenta sempre vir com diplomacia e hospitalidade.
+ - wget
+ - sed
+ - sort
+ - Calibre
 
-Enquanto isso, Spock, interpretado cada vez melhor por Zachary Quinto, ainda pensa em seu povo vulcaniano e a dívida que teria com eles, o que gera um certo conflito bobo com sua namorada, a Tenente Uhura (Zoe Saldana). Além disso, há um pequeno ensaio para acrescentar a trágica morte do ator Anton Yelchin e seu personagem Chekov à série, que vai junto no mesmo ano que Leonard Nimoy, o Spock original.
+O projeto de conversão foi feito pensando em usuários do Windows, mas pode ser adaptado facilmente para qualquer ambiente. Se trata de um conjunto de arquivos batch (script) que realiza vários comandos, a saber:
 
-Além dessas duas mortes, Star Trek anuncia sua próxima morte como produto inventivo nas mãos de vários roteiristas (incluindo Simon Pegg, que faz mais uma vez o engenheiro bem-humorado da Enterprise). Entrando oficialmente no automático, o filme é esteticamente belíssimo e funciona bem como ação e um pouco de espírito de equipe embalado nos embates cada vez menos intelectuais dos tripulantes da nave icônica, que representam o mundo como o vemos. E esse mundo está dando sinais de desgaste (o real e o futurista, de 250 anos à nossa frente).
+### calibre_download.bat (baixa conteúdo do site da Stanford)
 
-É por isso que há (mais uma vez) um personagem coringa que irá anunciar que o ser humano está nos limites do seu conhecimento e de seu propósito, onde o embate entre a civilização e sua mensagem de paz e seu velho estilo selvagem de lutar e conquistar territórios entra mais uma vez em conflito, o que não deixa de ser, mais uma vez, uma bela analogia com a Europa invadida por bárbaros do século XXI, anunciando prematuramente seu fim como um paraíso socialista. O artefato usado como ameaça no filme é de um simbolismo à coletividade exagerado, e o próprio ataque que é feito à Enterprise se utiliza da mesma artimanha, sendo aliás, visualmente muito semelhante a Matrix Revolutions, um filme muito subestimado na época em que foi lançado, mas que continua surpreendendo em suas influências póstumas.
+Este batch baixa todo o conteúdo do site da Stanford em um único diretório. O processo pode demorar mais ou menos, dependendo da sua banda, mas aqui em casa (50MB) demorou cerca de meia-hora pra mais.
 
-A despeito da mensagem dúbia que o filme traz, ele deseja evitar a todo custo adentrar na complexidade da trama (que é bem simples) e das implicações de seu conflito até as últimas consequências, preferindo o desfecho simples e físico aos reais conflitos intelectuais das duas formas de enxergar o propósito do homem no mundo. Ele ainda tem a audácia de repetir o mesmo terceiro ato do filme anterior, mas com muita preguiça e leveza.
+```
+wget --recursive --domains plato.stanford.edu --page-requisites --no-parent --convert-links --restrict-file-names=windows --no-directories --html-extension https://plato.stanford.edu/contents.html 
+```
 
-Aparentemente não há fronteiras para a mediocridade no Cinema atual. Nem para séries ambiciosas intelectualmente como Star Trek.
+### calibre_clean_files.bat (limpa início e fim das entradas)
+
+Este batch chama dois outros batch, call calibre_remove_head.bat e call calibre_remove_bottom.bat, que limpam das entradas os cabeçalhos e finais em comum que são repetitivos e desnecessários para gerar um ebook, como links úteis de navegação. Como as entradas do site já possuem marcadores, isso facilitou o trabalho.
+
+#### calibre_remove_head.bat
+
+```
+for %%i in (index.html.*.html) do sed -n -i "/BEGIN ARTICLE HTML/,$p" %%i
+```
+
+#### calibre_remove_bottom.bat
+
+```
+for %%i in (index.html.*.html) do sed -i "/END ARTICLE HTML/,$d" %%i
+```
+
+### calibre_entries.bat (gera índice com as entradas)
+
+Esta batch gera os índices das entradas baseado em seus títulos, e os nomes dos arquivos serão usados para links no TOC do Calibre.
+
+```
+if exist calibre_entries.txt del calibre_entries.txt
+for %%i in (index.html.*.html) do calibre_title.bat %%i >> calibre_entries.txt
+sed -i -e "s/<em>//" -e "s/<\/em>//" calibre_entries.txt
+```
+
+### calibre_entries_clean.bat (limpa formatação das entradas)
+
+Algumas entradas possuem o marcador **em**, que deve ser retirado antes de ordenar os títulos.
+
+```
+sed -i -e "s/<em>//" -e "s/<\/em>//" calibre_entries.txt
+```
+
+### calibre_entries_sort.bat (ordena entradas por título)
+
+Se não ordenarmos por título o único índice de nosso livro será inútil.
+
+```
+sort calibre_entries.txt > calibre_entries_sorted.txt
+```
+
+### Apagar duplicatas
+
+Ao final do processo com o wget percebi que algumas entradas foram baixadas mais de uma vez. Várias delas. Por isso eliminei as duplicatas usando um programa Windows chamado [doublekiller.exe](https://www.bigbangenterprises.de/en/doublekiller/), mas basta você usar qualquer ferramenta que encontra os .html da mesma pasta que possuem o mesmo hash e eliminar as duplicadas. Isso deve ser feito nesse passo antes de:
+
+### calibre_entries_to_template.bat (converte entradas da enciclopédia para o template do Calibre)
+
+Essa parte do processo precisa converter as entradas no formato Título Link para entradas HTML com a tag **a**, no formato que o Calibre espera:
+
+```
+sed -e "s/\(^.*\) \(index.*$\)/        <a href=\"\2\">\1<\/a><br\/>/" calibre_entries_sorted.txt > calibre_template_entries.html
+```
+
+### calibre_merge_templates.bat (junta início, meio e fim do template do Calibre)
+
+Por fim, antes de usar o Calibre é necessário juntar os arquivos de template em um arquivo final de TOC, o calibre.html. Ao final desse processo passaremos ao Calibre em si.
+
+```
+copy /Y calibre_template_begin.html+calibre_template_entries.html+calibre_template_end.html calibre.html
+```
+
+### Usar Calibre para abrir calibre.html
+
+Para realizar este passo basta arrastar ou abrir o arquivo html central que foi criado, e a partir dele iniciar a conversão. Note que após arrastar já será criado um zip com todos os HTMLs relacionados.
+
+### Converter HTML zipado em outros formatos
+
+Após abrir pelo Calibre ele insere na biblioteca e é só converter para MOBI (Kindle) ou EPUB (outros leitores) ou qualquer outro formato desejado. A nota final aqui é que como se trata de um arquivo gigantesco (50 MB em HTML zipado, 80 MB em MOBI) é melhor baixar a versão 64 bits do Calibre e ter muita memória RAM. Voilà!
+
+E por hoje é só. Se tudo der certo você poderá copiar e colar dentro do seu leitor todas as entradas de uma enciclopédia indispensável para quem está estudando filosofia. Enjoy.
 

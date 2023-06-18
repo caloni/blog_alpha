@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-10-05'
+date: '2017-06-12'
 tags:
-- beer
-title: Bohemia 14-Weiss
+- food
+title: Bodega Boutique El Legado Tannat Reserva 2015
 ---
 
-Doce, equilibrada, aromáticas; corpo fraco pra uma Weiss, perde gás fácil. Tomei com pizza que achamos perto de casa.
+Frutado puxando para o amargo; encorpado. Tomando segunda taça da geladeira comendo pão com mortadela.
 

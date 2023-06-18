@@ -1,16 +1,13 @@
 ---
-categories:
-- writting
-date: '2014-03-19'
-link: https://www.imdb.com/title/tt0372588
-tags:
-- movies
-title: 'Team America: Detonando o Mundo'
+categories: []
+date: '2014-08-11'
+tags: null
+title: 'TDC2014: Trilha de C/C++ teve palestras para todos os gostos'
 ---
 
-Assistir a "Team America" é como rever os velhos clichês de filmes de equipes de salvamento do mundo (onde o pior exemplo possível é "G.I. Joe - A Origem de Cobra"). As duas diferenças: protagonizados por marionetes e realizado pelos criadores de South Park. O que impressiona no projeto é como os enquadramentos, mudanças de foco e até a movimentação dos "atores" segue uma lógica batidíssima, mas é ao mesmo tempo tecnicamente primoroso e eficaz para a narrativa.
+A trilha da nossa(s) linguagem(ns) querida(s) do coração(ões) desse ano foi bem heterogênea: Rodrigo Madera pegando na mão dos ainda não-iniciados na magia-negra da TMP; Fabio Gallupo audaciosamente rabiscando uma roupagem funcional para C++11 (e 14, e 17!); Felipe Lavratti abrindo o código do seu projeto para vermos como é possível organizar e modularizar bem um código em C (sem classes); eu me virando nos trinta sem slides explicando os três passos de geração de código C/C++ (dei impersonate na conta do Rodrigo Strauss); Fernando Roberto do DriverEntry mais uma vez nos impressionando com as gamb... adpatações técnicas Microsoftianas no Windows para fazer tudo funcionar sem o usuário perceber (só quando as coisas ficam azuis); Fernando Luiz Rizzato mostrando que a equipe ex-Borland continua mandando muito bem criando uma IDE de C++ que porta código para diversos dispositivos mobile; eu novamente jorrando um dump das minhas memórias de 10 anos depurando código com WinDbg e suas powertools; e, acreditem ou não, nossa primeirA palestrante amante de C contando sua experiência em diversos projetos em um stand-up animado movido a diversos gifs animados.
 
-Isso também quer dizer que os diálogos terão aquele tom mais humorístico e despojado de South Park, o que prejudica a história em alguns poucos momentos onde identificamos piadas recicladas do show humorístico protagonizado por desenhos recortados. Porém, diferente deste, o filme não tenta empurrar os limites do razoável para discutir alguma questão social preferindo se manter no campo seguro do humor requentado.
+O negócio é que tivemos um dia bem atípico, com direito a lotação (!) de nossa sala logo pela manhã. Os organizadores Rodrigo Strauss e Vinicius Jarina tiveram que dar um pushback na lista de vectors da sala. E todos, aparentemente, estavam no lugar certo.
 
-Mesmo assim ficam meus pontos positivos acerca de três cenas icônicas, o que já vai além do que se espera de um filme de ação genérico: a armadilha de tubarões, o vômito descontrolado e a "prova de comprometimento". O que as une é justamente a subversão dos clichês cada vez menos eficazes na indústria americana.
+Foi bom estar de volta nesse evento tão importante para mantermos os diferentes programadores unidos por um bem comum: mostrar que C/C++ está tão vivo como nunca!
 

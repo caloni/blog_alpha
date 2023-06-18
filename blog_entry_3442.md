@@ -1,16 +1,16 @@
 ---
 categories:
 - writting
-date: '2014-03-01'
-link: https://www.imdb.com/title/tt2724064
+date: '2012-03-18'
+link: https://www.imdb.com/title/tt1723811
 tags:
 - movies
-title: Sharknado
+title: Shame
 ---
 
-Quando um filme brinca de ser do gênero trash ele faz um esforço mínimo para dar umas piscadelas para o espectador no melhor estilo "ei, eu estou brincando". Essa é uma característica óbvia no interessante Matadores de Vampiras Lésbicas (2009) e no ótimo Zumbilândia (2009). É preciso ter em mente que, sem essa piscadela básica, um trabalho que tenta subverter seu gênero pode acabar sendo o exemplo perfeito de tudo o que não se deve fazer em um filme. É exatamente por isso que Sharknado acaba sendo um marco nos filmes muito, muito ruins.
+A princípio Shame não parece um filme que fuja do lugar-comum. Com um ritmo mais lento e, portanto, reflexivo, ele nos leva a conhecer aos poucos a vida de Brandon Sullivan (Michael Fassbender), um rapaz comum que mora sozinho, tem um belo emprego, mas que é um inveterado por sexo, solitário ou com prostitutas. Paradoxalmente, Brandon não consegue ter relacionamentos duradouros, e nem a presença de sua irmã Sissy (Carey Mulligan) faz com que ele consiga se conectar com o mundo. Alheio a tudo que não seja relativo ao ato sexual, Brandon sabe que possui um tipo de doença, e essa consciência é que torna tudo muito mais humano em sua história.
 
-Misturando o velho clichê "catástrofe em Los Angeles", efeitos visuais de péssimo gosto e diálogos "memoráveis" pela sua filosofia com a profundidade de uma piscina infantil (com tubarões), o trabalho do diretor Anthony C. Ferrante e do roteirista Thunder Levin nunca se transforma em algo péssimo a ponto de ser odiável simplesmente porque não tem sequer uma estrutura mínima para ser chamado de filme. Seus personagens são clichês dos clichês escrito em um papel de pão: o cliente cativo de um bar ("nunca mais reclame do meu assento"), o dono do bar, a garçonete que ama o dono do bar, a ex-mulher do dono do bar (uma vadia), os filhos do dono do bar que possuem problemas de relacionamento com o pai.
+Não há concessões em Shame. O filme não é explícito, mas suas alusões são suficientes para criar um clima opressivo e angustiante. Nem o ritmo é uma concessão. Lento muitas vezes à exaustão, nos abre os olhos para o que está por trás de tudo aquilo, na maioria das vezes sem nenhum diálogo. Basta enxergarmos o contexto inebriante da situação dos dois irmãos, ou as expressões de angústia presa na face de Fassbender para que entendamos o martírio que passaram esses personagens, da infância para a adolescência e por fim a uma maturidade inalcançada no universo dos sentimentos.
 
-Porém, isso não seria um problema sério se a ameaça fizesse-nos relevar a falta de relevância daquelas pessoas, como no excelente Fim dos Tempos. O que não acontece, pois os tubarões que surgem pulando de dentro de qualquer lugar onde tenha água para molhar os joelhos sequer são vistos por mais de um segundo (problemas no orçamento?) e, pasmem, possuem menos personalidade que as pessoas-clichê que acabei de descrever. Assim fica realmente difícil.
+Tampouco é um filme com um arco dramático satisfatório. Porém, que me perdoem os amantes de finais fáceis ou dos que nos deixam colocar a cabeça no travesseiro e dormir em paz, mas se há algo que valorizo no cinema é o seu poder de reflexão. E, nesse sentido, Shame ficará por algum tempo perturbando minhas fantasias sexuais.
 

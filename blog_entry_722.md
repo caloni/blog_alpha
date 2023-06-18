@@ -1,16 +1,16 @@
 ---
 categories:
 - cooking
-- writting
-date: '2020-06-23'
-tags:
-- food
-title: Bolotorta de Banana
+date: '2022-07-09T14:20:41-03:00'
+tags: []
+title: Bolo de Milho
 ---
 
-A receita é de torta de banana da Dona Neusa e eu transformei em um bolo açucarado e canelento. As variações de uma receita podem não ser boas, mas sempre serão interessantes.
+Reserve 1 lata de milho em conserva escorrida ou 200g em espiga, 250g de açúcar, 160g de flocão de milho para cuscuz, 150ml de óleo, 300ml de leite, 3 ovos, 1 colher de fermento químico e (opcional) 50 g de queijo ralado curado, 50g de coco ralado ou 1 colher de sopa de erva doce.
 
-Você pega a farinha e o açúcar e mistura com o leite. A unidade da massa é bem pouca, pois o açúcar não é uma coisa seca e se molda à sua experiência. Além do mais, depois vem a banana cortada em rodelas e polvilhada em açúcar e canela, e acho que esse foi o meu erro. Basta canela, e pouca. Misture sem destruir a banana. É esperado que o fermento já esteja incorporado. Unte a forma e use uma temperatura baixa para inserir no forno.
+Então você pega um liquidificador e bate o milho, o óleo e os ovos e tritura o milho. Coloque o açúcar e bata até se desfazer. Acrescente o leite e o flocão por mais 1 minutos. Coloque o fermento e bata por mais 30 segundos.
 
-Ingredientes: três xícaras de farinha de trigo para três de açúcar e uma e meia de leite. Adicione três colheres de manteiga com uma colher de fermento químico. Essa receita é para seis bananas polvilhadas em açúcar e canela a gosto.
+Coloque para assar em forma untada e temperatura de 180 graus até o topo ficar douradinho. Esse bolo é úmido, não sai super sequinho do forno.
+
+Rende 2 formas de furo de 14cm ou 1 forma de furo de 20cm de diâmetro.
 

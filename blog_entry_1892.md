@@ -1,69 +1,28 @@
 ---
 categories:
-- coding
-date: '2015-10-28'
-tags: null
-title: Indexando símbolos com rapidez
+- writting
+date: '2016-07-14'
+link: https://www.imdb.com/title/tt1628841
+tags:
+- movies
+title: 'Independence Day: O Ressurgimento'
 ---
 
-Trabalhar com inúmeros projetos de diferentes clientes e diferentes binários pode ser uma loucura. Quando o mundo é Windows, algumas medidas precisam ser padronizadas para evitar a perda de informação durante todo o processo de desenvolvimento, testes, deploy e manutenção.
+Mais um remake que uma continuação. Infestado de momentos, diálogos e situações idênticas ao original, "Independency Day: Resurgence" se rende à fórmula que o tornou uma das farofas mais divertidas e rentáveis da década de 90.
 
-A respeito do deploy e manutenção, um dos principais é manter o código sempre atualizado, limpo e asseado, além de estar dentro de pelo menos um controle de fonte, de preferência distribuído ([Mercurial], [Git], [Bazaar]).
+Porém, já não estamos mais na época dos cinemas de rua gigantescos, nem da inocência automática do espectador-família. Assisti ao original no finado Cine Marabá, em São Paulo, em uma de suas dezenas de fileiras, entorpecido pelo som surround e pela tela que tornava a imensidão das naves alienígenas intimidadora. Hoje a tela dos kinoplexes da vida torna tudo mais insípido, mas não tão insípido quanto efeitos digitais que carecem de vida, e lembram menos um ataque que possa de verdade acontecer (uma nave com o tamanho de um terço do planeta?? eles estacionam ela no oceano???) do que um video-game cartunesco. Bem, talvez o video-game hoje em dia pensaria bem mais no problema da verossimilhança...
 
-Porém, voltando ao mundo Windows, os fontes não são apenas a única fonte de preocupação e zelo. Os binários também são importante. Binários eu digo os EXEs, DLLs geradas, além dos seus símbolos (PDBs), que contém o mapa entre aquele monte de 1s e 0s e o código-fonte de onde ele saiu.
+Aliás, o diretor Rolland Emmerich comete novamente o erro de mostrar a mesma nave com dimensões diferentes em diversos momentos do filme. O filme toda hora se esquece de física básica e passaria vergonha até comparado a um anime japonês futurista disposto a explorar o absurdo. Não há nada de errado no universo absurdo em si, mas há tudo de errado em não aproveitá-lo, servindo apenas como muleta narrativa de um roteiro preguiçoso.
 
-Nós da [BitForge](http://www.bitforge.com.br) costumamos pelo menos indexar binários com fonte, através dos resources do binário. Como isso é feito? Basicamente editando o arquivo RC na parte da versão do binário e inserindo o hash do commit usado para gerar aquele binário. Com isso qualquer binário produzido possui seu pai ("use the source, Luke!"). Usamos um script em Python muito simples e muito eficaz para isso, que indexa .NET e C++ (através do Visual Studio, mas não está com muitas amarras de ambiente):
+A história começa seus primeiros cinco minutos de forma promissora: vinte anos se passaram (de fato) desde a invasão do primeiro filme. Estamos em um 2016 alterado por causa da assimilação da tecnologia alienígena, a China agora é forte no panorama político, e o filme confia demais em nossa memória afetiva mostrando diferentes rostos supostamente conhecidos do primeiro filme, e como eles mudaram. Fora o fato de que continuamos uma raça estúpida a ponto de seus líderes terem feitos preparativos pífios de defesa, alguns detalhes sobre heroísmo que são particularmente confusos.
 
-```
-rc_new_content = re.sub(u'^.*ProductVersion.*$', product_version_string, rc_original_content, flags=re.MULTILINE)
-rc_new_content = re.sub(u'^.*FILEVERSION.*$', file_version_string, rc_new_content, flags=re.MULTILINE)
-```
+O agora ex-presidente (Bill Pullman) virou um velho debilitado com crédito zero, e não o herói do dia D, atribuído ao secretário de defesa ou o que o valha. Uma mulher, Hillary... Lanford (Sela Ward), está na presidência, o que é mostrado de maneira particularmente irritante, mas que se torna uma personagem sem o menor tempo de tela. Este ainda é um mundo dos homens mesmo que ela mande na cozinha da Casa Branca. Um outro exemplo é a personagem de Charlotte Gainsbourg, desperdiçada, fazendo a companhia sexual francesa do matemático maluco interpretado novamente por Jeff Goldblum.
 
-Quando algum binário parar na máquina de algum cliente em algum lugar do universo, basta olhar para os detalhes pelo Windows Explorer, e ele estará lá:
+Além disso, as únicas mentes brilhantes continuam sendo as mais velhas, enquanto os mais jovens, órfãos (vivemos uma guerra mundial, certo?) ou o filho da lenda Will Smith... quero dizer, do personagem bad ass que ele interpretou. Há dois momentos impactantes para mim, que revelam a mente doentia por trás desse projeto. Em dado momento alguém comenta que ser filho de um herói militar é praticamente fazer parte da realeza, e outro alguém mais tarde comenta meio que a grande "recompensa" da invasão de 96 foi o mundo agora estar mais unido que antes, o que supostamente faria valer todas aquelas vidas perdidas e que agora serviria de combustível para uma nova guerra intergaláctica.
 
-{{< image src="mogZt3n.png" caption="" >}}
+E é claro que meu choque não foi essa visão, acertada aliás, a respeito do mundo governado pela figura do Estado, e do delírio de que um mundo destruído daquele jeito de reergueria em um mundo mais "unido", mas pelo fato dessa visão estar sendo escancarada em um filme tão ruim de plot. Porém, sejamos honestos. Desde o primeiro filme, a ideia de uma raça alienígena socialista, que vive de destruir os recursos de outras raças ao redor do universo, e não de produzir sua própria riqueza, é algo genial demais para ficar nas mãos megalomaníacas do diretor Roland Emmerich.
 
-Através desse a2f3c... podemos capturar o commit exato de onde saiu o binário. Tudo, é claro, confiando no procedimento de toda a equipe: apenas gerar um binário a partir de um commit publicado.
+No entanto, pode-se dizer o mesmo sobre apenas o planeta Terra.
 
-Você também pode exibir a versão dos binários em uma pasta através das colunas do Windows Explorer:
-
-{{< image src="vfY2oan.png" caption="" >}}
-
-### Indexando símbolos e binários
-
-Outro detalhe de binários é que eles vivem sendo sobrescritos. Todo "Project, Build" sobrescreve o binário anterior, que pode ter sido justamente o enviado para o cliente. Se o cliente não possuir nenhum procedimento de armazenamento de versões dos binários gerados (às vezes ele nem precisa, essa é nossa função) não há como obter os símbolos de binários que podem gerar problemas futuros (todo _software_ tem bug).
-
-Para resolver isso, o mínimo que se deve fazer é super-simples e nada difícil: crie uma pasta em algum lugar, nomeie essa pasta seu servidor de símbolos, a cada novo binário que será entregue, indexe o binário e os seus símbolos. Como? Com o ["Debugging Tools for Windows"](https://msdn.microsoft.com/en-us/library/windows/hardware/ff551063(v=vs.85).aspx), como dizia um amigo meu, é mamão com açúcar:
-
-```
-"c:\Tools\DbgTools(x86)\symstore" add /r /f <MINHA-PASTA-COM-BINÁRIOS> /s c:\Tools\Symbols /t "IndexSymbols"
-```
-
-Essa e outra técnicas de indexar fontes e binário você pode ver no meu [artigo], na [palestra](http://caloni.com.br/ccppbr-rio-12/) e [vídeo de demonstração](https://www.youtube.com/watch?v=mZewxqlFShA). Se você for cego, ainda tem a vantagem da áudio-narração do vídeo. Brincadeira, ainda não temos isso.
-
-### Simplificando
-
-Com o poder do Windows Explorer, desde o Windows 95 podemos otimizar nossas tarefas nos baseando na extensão dos arquivos que estamos lidando. No caso do indexador de símbolos, eu simplesmente utilizo uma batch que contém exatamente a linha acima (com a diferença de %1 no lugar de <MINHA-PASTA-COM-BINÁRIOS>) que eu chamo direto do Explorer através de um comando que inseri no registro. Eis o comando:
-
-```
-Windows Registry Editor Version 5.00
-
-[HKEY_CLASSES_ROOT\dllfile\shell\Index Symbols]
-
-[HKEY_CLASSES_ROOT\dllfile\shell\Index Symbols\command]
-@="cmd.exe /c c:\\tools\\indexsymbols.bat  \"%1\""
-```
-
-Você pode baixar um arquivo reg aqui (update: não mais), copiar as linhas acima em um .reg que você gerar, ou simplesmente seguir o passo-a-passo dessas linhas e gerar seu próprio registro. Após feito isso, surgirá um novo comando para qualquer DLL que você clicar com o outro botão do mouse:
-
-{{< image src="tvCCYcm.png" caption="" >}}
-
-Você também pode gerar o mesmo comando para EXEs, bastando realizar o mesmo passo-a-passo na pasta **exefile** em vez de **dllfile**.
-
-Procedimentos como esse devem ser uma coisa simples, não difícil. Programadores e pessoas são preguiçosas, e precisam de algum incentivo. E nesse caso, o incentivo é: o que você vai fazer quando der um crash com um binário que você não sabe de onde veio nem qual fonte foi usado para compilá-lo? Pois é.
-
-[Mercurial]: {{< relref "guia-basico-de-controle-de-codigo-mercurial" >}}
-[Git]: {{< relref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}
-[Bazaar]: {{< relref "guia-basico-de-repositorios-no-bazaar" >}}
-[artigo]: {{< relref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}
+(Aliás, Emmerich participou do roteiro original com Dean Devlin, e ambos fizeram um trabalho decente. Essa continuação aumentou a equipe em mais dois roteiristas, totalizando oito mãos completamente perdidas e que tentam a todo momento voltar para os momentos icônicos do original.)
 

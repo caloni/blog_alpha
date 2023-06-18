@@ -1,24 +1,18 @@
 ---
 categories:
 - writting
-date: '2019-10-05'
-link: https://www.imdb.com/title/tt10225288
+date: '2018-02-20'
+link: https://www.imdb.com/title/tt2380307
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Viver Para Cantar
+title: 'Viva: A Vida é uma Festa'
 ---
 
-Viver Para Cantar é inspirado livremente no documentário A Folk Troupe (Gang Zhao, 2013), que conta a história real desse grupo tradicional de ópera chinesa lutando para continuar apresentando peças milenares em um espaço condenado pelas autoridades. A ficção de Johnny Ma alimenta a mesma tradição da ópera chinesa, mas a atualiza para o tempo das cidades crescendo, se modernizando e demolindo todos os valores culturais de uma nação.
+Um filme sobre família. E é sobre gerações. A Pixar, como (quase) sempre, perfeccionista até nos detalhes das calçadas por onde corre o pequeno e sonhador Miguel e nas rugas de sua bisa. Ah, sim, este é mais um filme sobre buscar o seu sonho apesar de todos os obstáculos e... apesar de estar quase morto. Porém, isso é Disney, então pode se despreocupar. Ninguém vai sequer ficar ferido, exceto o vilão. E um cachorro que é literalente um saco de pulgas que cai por onde quer que se coce.
 
-A história segue pelo caminho seguro do drama do grupo de ópera que vai perder seu teatro que será demolido. Seu público está cada vez mais velho e está morrendo. O peso da perda dessa tradição repousa em sua chefe/matriarca Zhao Li (Zhao Xiaoli), que ainda precisa lidar com a perda de sua sobrinha a quem considera filha, mas as duas mudanças estão relacionadas. É a modernização dos costumes, ou sua ocidentalização.
+Iniciando com uma introdução adorável que já virou tradição em seus filmes, aqui eles usam umas bandeiras monocromáticas que juntas realizam a transição do tempo na história do começo, que passa por não três, mas quatro gerações. A história gira em torno do patrono e matrona da família, os tataravós de Miguel, mas o filme realmente é sobre Coco, a bisavó do rapaz e que leva o título original do filme, além de ser dublada o original por Ana Ofelia Murguía, uma atriz mexicana de 85 anos.
 
-O que o filme trás de novidade é sua narrativa, que não chega a ser uma ópera porque quase não é cantada, mas vai aos poucos se entregando ao estilo, o que cumpre duas funções bem claras: trazer a arte para a vida comum e um final feliz a respeito do que o governo chinês é em sua maioria responsável. Se por um lado há o lirismo adentrando no dia-a-dia, enriquecendo a aventura do homem e da mulher comum, não deixa de ser uma solução hipócrita unir valores com os próprios vilões, sendo que talvez seja a censura falando mais alto.
+E por que mexicana? Ora, porque este é (mais) um filme sobre a festa dos mortos, aquele dia onde todos homenageiam e entram em contato com seus familiares falecidos. Há uma bonita metáfora e analogia entre o mundo dos vivos e dos mortos, com uma ponte sensacional coberta de pétalas e a tocante ideia de que os familiares que não são lembrados mais por ninguém desaparecem do mundo dos mortos.
 
-Mas não podemos ignorar que a cultura oriental, fortemente coletivista, pode influenciar na visão chinesa a respeito das mudanças frenéticas de virada de século. Todas as óperas mostradas no filme trabalham com transição. Alguém pula de uma ponte e borboletas aparecem. Há referências mistas que envolvem peças de Shakespeare a filmes de Ozu. Tudo trabalha para que a sensação de que a arte, não importando de onde ela surja, mas principalmente sua narrativa, pulsa e luta para sobreviver frente à modernização das grandes cidades.
-
-O que destaca "Viver Para Cantar" é que essa luta vira a própria narrativa, e lembrando sultimente filmes recentes que trabalham essa junção do contemporâneo com a tradição fantástica, como Lazzaro Felice (ganhador de Cannes por melhor roteiro), é o contraste entre os dois mundos que alimenta nossa imaginação. Isso cria uma ruptura na tradição de histórias clássicas que mantém valores imutáveis na mesma medida em que a própria China está se transformando rapidamente, destruindo no processo boa parte de seu passado.
-
-Exibido em Cannes e agora disponível na Mostra de São Paulo desse ano, "Viver Para Cantar" demonstra todas as contradições presentes hoje na nação chinesa, que elimina a pobreza em níveis recordes ao mesmo tempo que alimenta seus céus com poluição e seus tratores com a violência sistemática e desumana das agora capitais do mundo, como Xangai, Beijing e outras. O fato do diretor Johnny Ma ter transformado a ação dos tratores em trabalho de demolição em um show à parte é apenas mais um capítulo desses contrastes.
+A Pixar demonstra mais uma vez que sabe emocionar em dobro, tecnicamente e pela sua historinha. Claro, eles ainda não sabem o que fazer com o vilão, mas o diretor e roteirista de Toy Story (2 e 3) Lee Unkrich sabe fazer chorar. Como sabe. E se você, como quase todo mortal, respeita e admira sua família, é melhor pegar seu lencinho antes de entrar na sala de cinema.
 

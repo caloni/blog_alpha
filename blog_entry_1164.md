@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2010-10-13'
-link: https://www.imdb.com/title/tt0037638
+date: '2014-04-02'
+link: https://www.imdb.com/title/tt0091042
 tags:
 - movies
-title: Curva do Destino
+title: Curtindo a Vida Adoidado
 ---
 
-A história de um homem que busca se encontrar com sua mulher que está do outro lado do país. Para isso ele vai de carona em carona, de NY para LA. No caminho, encontra um homem que morre no carro. Esconde o corpo e encontra uma mulher que se envolveu com ele no caminho, também pedindo carona. Chegando a Hollywood descobrem que o pai do sujeito, milionário, morreu, deixando toda sua fortuna para o filho. Enquanto ela tenta convencê-lo a fingir ser o herdeiro, ele acidentalmente a mata com o fio do telefone. Deixando esse passado para trás, o nosso protagonista vaga sem destino, apenas esperando o momento em que será preso, por nenhuma razão.
+O diretor/produtor/roteirista John Hughes (Gatinhas e Gatões, Clube dos Cinco) é a cara da juventude da década de 80 e consegue expressar isso em cada um de seus filmes que aborda temas recorrentes entre os jovens. A consequência disso é que seus trabalhos daquela época se universalizaram, tanto que hoje temos fãs incondicionais de Ferris Bueller nascendo após ele sair do colégio. Não é difícil entendê-los. Assistir hoje à Curtindo a Vida Adoidado é poder captar sua mensagem sobre a vida sob o ponto de vista adolescente, mas, acima de tudo, o ponto de vista humano.
 
-Como um dos primeiros filmes noir, a experiência de Detour é intensa dentro de uma história corriqueira. Dramática em seu âmago, sentimos pelo destino de seus personagens, pois sabemos que, de uma forma ou de outra, não haveria final feliz para eles. O tom "dark" do filme pode ser encontrado em todo lugar, desde as sombras que são formadas nos personagens quando estes estão dentro de algum hotel ou na imaginação do protagonista (quando este lembra da história apenas existe luz em sua testa).
+Dirigido e roteirizado por Hughes, o filme se passa no decorrer de um dia em que o garoto Ferris Bueller (Matthew Broderick) vai matar a aula pela nona vez esse ano. O diretor da escola (Jeffrey Jones) desconfia há tempos das desculpas de doenças de Bueller e hoje resolve tirar isso a limpo. Sua irmã odeia que o irmão sempre se safe de suas artimanhas e não fará o mínimo esforço para salvá-lo. Seu melhor amigo é o estresse em pessoa, mas assim mesmo vai emprestar a Ferrari do pai para o dia de folga. Ferris fala conosco todo o tempo, como se fizéssemos parte de tudo aquilo, o que nesse caso funciona muito bem ao nos trazer na emoção do momento. A câmera de Hughes é uma visão de mundo que flerta todo o tempo com a fantasia, e que continua mantendo sua síntese no número musical que é a alma do filme.
 
-Usando de alguns movimentos atípicos, como quando a câmera passeia pelo quarto da mulher após ser acidentalmente assassinada, o foco é usado para dar um efeito de perdido ao mesmo tempo em que observa as provas espalhadas pelo quarto. A situação vai se complicando aos poucos, até chegarmos no beco sem saída que a vida desse homem simples que não tinha nada de errado começar a desmoronar. Vemos isso com uma grande empatia pelo sujeito, que é um simples mortal sendo levado pela enxurrada de acontecimentos.
-
-Poderia acontecer com qualquer um.
+Acho que já falei sobre isso em O Clube dos Cinco, mas a grande virtude de Hughes é entender essa juventude e levá-la a sério nos mínimos detalhes de sua vida. Isso é o que torna Ferris Bueller's Day Off tão completo em sua mensagem aparentemente despretensiosa. Despretensiosos mesmas são as comédias românticas de hoje, que trata os jovens como completos imbecis.
 

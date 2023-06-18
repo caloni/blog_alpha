@@ -1,30 +1,24 @@
 ---
 categories:
-- playing
-date: '2023-01-17T18:56:20-03:00'
-link: https://www.chess.com/game/live/67729990167
+- writting
+date: '2020-01-16'
+link: https://www.imdb.com/title/tt0226540
 tags:
-- chess
-title: Sequência de mate forçado onde a chave é o controle de uma casa
+- movies
+title: Sensual Demais
 ---
 
-Brancas jogam e eu nem sei mais por que salvei essa partida.
+Segundo filme da trilogia iniciada por Lovers, que é o quinto filme do Dogma 95, este filme do ator e diretor Jean-Marc Barr ainda possui as influências do movimento artístico iniciado por Lars von Trier de quando o ator participou do Dançando no Escuro: sem edições de fotografia e iluminação, cenários praticamente ou muito próximos do real, sons diegéticos, câmera na mão. O que o dogma não cobre é a parte boa: atores fingindo estarem em um filme amador, se divertindo loucamente com uma história estapafúrdia e divertindo o espectador, incerto se está vendo um soft porn caseiro ou um trabalho de apelo ao cinema íntimo e pessoal, longe das grandes avenidas dos estúdios de Hollywood.
 
-{{< image src="board.png" >}}
+Apesar das técnicas pedestres, a história não perde seu ritmo, e os atores são todos conhecidos e fizeram vários filmes, embora este soe totalmente amador e digno de comparação com The Room, o novo clásico dos filmes ruins. No entanto, ele é coerente, apesar de inchado, mas seu inchaço e suposto amadorismo é o que torna ele adorável, impossível de não gostar, porque ele apresenta um protagonista cativante e um diretor despretensioso empenhados. Várias cenas parecem mal feitas, mas cumprem o que um filme precisa para fluir. Isso o torna um ótimo filme ruim.
 
-```
-[Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2023.01.17"]
-[White "cavaloni"]
-[Black "Ujkobolji"]
+A história envolve um casamento em ruínas porque o marido nunca pode tocar em sua esposa. Fruto de uma peça pregada ainda na adolescência, a pequena cidade está de olho nos bons costumes para garantir que aquela vida pacata e sem graça continue assim para sempre. O que muda a rotina de cabeça pra baixo é quando surge uma francesinha com "sexo livre" estampado em sua testa. Um prato cheio para Lyle, que garantia o funcionamento adequado dos seus hormônios se masturbando no meio do milharal. Agora ele pode sempre pedir a ajuda da sexy Juliette.
 
-1. Nf3 Nc6 2. d4 d5 3. Bf4 h6 4. e3 a6 5. Bd3 Nf6 6. Nbd2 Nb4 7. Be2 Bf5 8. O-O
-e6 9. c3 Nd3 10. Qa4+ c6 11. Qb3 Qc8 12. Rad1 c5 13. dxc5 Nxc5 14. Qb6 Nfd7 15.
-Qa5 Be7 16. b4 Bd8 (16... Bd3) 17. Qa3 Ne4 18. Nxe4 Bxe4 19. Bd6 Qc6 20. Bg3
-(20. b5 Qc8 21. bxa6 Rxa6 (21... bxa6 22. c4)) 20... b5 21. Nd4 Qc8 22. Bd6 Nb6
-23. Bc5 Nd7 24. f3 Bg6 25. Bd3 Bxd3 26. Rxd3 Ne5 27. Rdd1 Nc4 28. Qc1 e5 29. Nb3
-Bg5 30. f4 exf4 31. exf4 Bf6 32. Rfe1+ Kd8 33. Rxd5+ (33. Rxd5+ Kc7 34. Na5 Rd8
-35. Qd1 Re8 36. Be3 Nxe3 37. Rc5+ Kb6 38. Qd6+ Ka7 39. Rc7+) 1-0
-```
+Os segredos por trás do passado de Lyle vão se desvendando conforme a cidadezinha vai acordando para a presença de Juliette. Enquanto isso acompanhamos várias cenas de sexo entre os dois, mas apesar da nudez gratuita não são cenas picantes. Jean-Marc filma tudo como se não soubesse ao certo o que torna uma cena picante, mas a cadência na edição e no movimento da câmera dá a impressão de que o filme vai piscar a qualquer momento para o espectador e dizer: "pensou que fosse um filme ruim, mesmo, né"?
+
+Mas o ator Jean-Marc abraça a causa, e dança no bar da cidade de uma maneira que não consigo descrever em palavras, mas que é exagerado demais para fazer sentido, ao mesmo tempo que é exagerado demais para ser fingido. Esta é uma atuação que está sempre na corda bamba entre o amadorismo e o controle absoluto de uma coleção de vídeos caseiros. E Lyle é o epicentro dessa bagunça organizada. Ele sorri quando vê a francesinha. É incapaz de se chatear com qualquer coisa. Ele é burro demais para isso. E pessoas burras demais são as mais felizes.
+
+Há várias pontas somadas de Rosanna Arquette, que faz a esposa de Kyle. Ela também se masturba às escondidas, pois a penetração com o marido é impensável. Ela também participa de cenas de nudez, porque no fundo este filme precisa se pagar. A sobrinha de Rosanna, Patricia, é a atriz mais conhecida da família, mas Rosanna aqui desenvolve a performance mais crível de todas. Ela está muito à vontade na posição de uma viúva que encontrou a única maneira de encontrar outro partido e se manter viúva. Sua hipocrisia é a mais deliciosa do longa.
+
+Eu não sei bem o que motivou a atriz Élodie Bouchez em fazer a francesinha Juliette nesse filme, mas ela é tão descartável que parece estar de férias da profissão. Nos faz pensar em o quê define o cinema como indústria, e em que momento nós perdemos esse contato mais íntimo com a arte de contar histórias pelo audiovisual. YouTubers contemporâneos abusam da edição e da qualidade de vídeo enquanto um cineasta como Jean-Marc Barr regride décadas para tentar buscar a resposta. E Bouchez se diverte no processo. Há algumas questões interessantes nesse filme, mas poucas são desenvolvidas. Quero mais filmes como esse.
 

@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-09-08'
+date: '2017-09-09'
 tags:
 - food
-title: Chope Gorillaz Lager Poços de Caldas
+title: Chope Gonçalvez IPA Poços de Caldas
 ---
 
-Encorpada e não tão doce; colarinho cheio de aromas. Tirada perfeitamente no Justo no Terraço em Poços.
+Não tão forte, mas muito equilibrada. Tomada direto na cervejaria na avenida em Poços.
 

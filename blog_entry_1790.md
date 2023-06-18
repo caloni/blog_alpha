@@ -1,23 +1,20 @@
 ---
 
-Uma comédia britânica que não se resume a boas risadas. Aliás, talvez você nem encontre boas risadas, dependendo do seu senso de humor. A questão é que há muita falta de timing cômico na maioria das cenas, tornando a atuação exagerada de Simon Pegg simplesmente exagerada.
+O que torna uma figura histórica, em períodos de guerra, um herói para seu povo? Quais sacrifícios são necessários para que as lembranças desse tempo sejam tão marcantes que acabam por serem inscritas nos extensos pergaminhos e cujas histórias sejam contadas de geração em geração ininterruptamente? É com esses questionamentos, vindos desde o título, e com uma premissa simples de um homem que ajudou o rei a manter sua integridade física, e que por isso, será agraciado pelo seu reino, que Yimou Zhang marca os compassos de sua narrativa impecável que narra através do episódio da unificação da China a história de seres extraordinários e suas ações e sentimentos mais nobres.
 
-No entanto, há uma história aí. Se trata de um homem que não conseguiu tocar sua vida depois do colégio, se limitando a definir a memorável noite em que ele e seus quatro amigos saíram pela cidadezinha onde moravam para fazer o circuito dos 12 bares, sendo que o último se chama Fim do Mundo. Após a narração épica de Gary, o vemos em um círculo de pessoas, fazendo o testemunho de algum grupo de apoio, e já com mais de 40 anos.
+Para conseguir o resultado almejado, a estilização é naturalmente forte, e tanto os cenários grandiosos inspiram os sentimentos mais nobres dos personagens quanto as cores de cada ambiente sintetizam a essência dos acontecimentos. Não é preciso dizer muito da história. Os olhares de um elenco afiadíssimo, formado por quatro mestres na luta de espadas, são suficiente para entendermos muito mais das suas personalidades.
 
-Obviamente ele precisa de ajuda, e vai buscar terapia tentando reunir seus amigos de outrora para finalizar o que havia começado quando ainda adolescente. Meio que realizando um pequeno milagre (explicável) ao realmente reunir todos para essa "aventura", o que se passa depois faz par com Um Drink no Inferno.
+As cenas de luta, um diálogo mais aberto e de tirar o fôlego, não pecam pelo excesso, e se transformam na pulsação do filme. Cada momento que dois mestres esgrimam entre si possui o tempo exato que precisamos para entender o que está em jogo. Ao mesmo tempo, não deixa de ser uma experiência visual de encher os olhos, não apenas pelas coreografias, inspiradas diretamente de [O Tigre e o Dragão] e seus efeitos voadores, mas aumentada em um grau que torna tudo mais épico e mais solene. Os cenários fazem parte de cada luta, e com ela interagem (como a chuva e o velho que toca na casa de jogo, as areias do deserto, as folhas caindo das árvores e as cortinas verdes do palácio do rei e, por que não, a chuva de flechas que lembra um enxame mortal de gafanhotos).
 
-O que parecia incômodo se torna bizarro, digno de um terror B de 50 anos atrás. Porém, há uma interessante questão sobre o conflito do politicamente correto, e a padronização de pessoas, lugares, comportamentos. Isso é a evolução vista de longe (talvez até de outra galáxia), mas permanece uma dúvida: isso é liberdade? O que abre outra questão: o que é liberdade?
+Partindo de um econômico, mas profundo e inspirador roteiro escrito por Feng Li, Bin Wang e o próprio Yimou Zhang, o diretor entende que precisa prender a atenção mais pelo visual do que pelos detalhes sutis de sua história, que, seguindo as lendas orientais, é simples e possui poucos contratempos, embora contá-los aqui estragaria boa parte dos seus imprevistos impactos: o exímio esgrimista Sem Nome (Jet Li) é recebido pelo Imperador Qin (Daoming Chen) para contar como conseguiu matar dois dos mais perigosos assassinos e inimigos do reino, Broken Sword (Tony Leung Chiu Wai) e Flying Snow (Maggie Cheung). Em meio a essa conversa temos a oportunidade de conhecer um pouco mais sobre o desconhecido herói, assim como indiretamente sobre o próprio imperador, uma pessoa extremamente sensata e ponderada. Apesar de simples, o potencial dramático surge espontâneo em cada situação nova que se desdobra, e que consegue enriquecer ainda mais as lutas, que não tornam-se apenas um espetáculo visual de um roteiro vazio. Pelo contrário: história e visual andam de mãos dadas, e ficam mais fortes.
 
-Nem todos os atores estão confortáveis em seus papéis. Pegg obviamente está. Seu parceiro eterno, interpretado em sua versão quarentona por Nick Frost, faz o que podemos chamar de arco, e é bem-humorado o suficiente para funcionar.
-
-Realizando em seu terceiro ato uma espécie de debate intergaláctico entre a tal da liberdade e do progresso, a síntese do filme está em todas as idiotices que Gary e seus amigos realizam depois dos quarenta. Eles estão certos? Gary está certo? Ou já é certo se é livre? Quem diria encontrar questões filosóficas em um filme de bebedeira. Bom, como todo mundo que já encheu a cara em um bar, sabe que questões filosóficas emergem da caneca depois de algumas viradas.
+[O Tigre e o Dragão]: {{< relref "o-tigre-e-o-dragao" >}}
 
 ---
 categories:
 - writting
-date: '2019-01-17'
-link: https://www.imdb.com/title/tt8963328
+date: '2016-03-19'
+link: https://www.imdb.com/title/tt1213663
 tags:
-- animes
-- series
-title: Hi Score Girl
+- movies
+title: Heróis de Ressaca

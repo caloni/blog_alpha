@@ -1,140 +1,25 @@
 ---
 categories:
-- coding
-date: 2018-10-01 16:34:25-03:00
-tags: null
-title: Boost.Bind e os Erros Escrotos
+- writting
+date: '2019-11-26'
+link: https://www.imdb.com/title/tt8028526
+tags:
+- cinemaqui
+- movies
+title: 'Boonie Bears: Aventura em Miniatura'
 ---
 
-Estou voltando a programar algumas coisas no boost. Algo que eu perdi ao me isolar do movimento de modernização do C++ foi a capacidade brilhante da biblioteca boost em encapsular e abstrair conceitos de engenharia de software de maneira portável e mantendo a filosofia por trás da STL, que ainda é a melhor maneira de trabalhar algoritmos já criada em qualquer linguagem de programação séria.
+"Boonie Bears: Aventura em Miniatura" é um filme divulgação da série de animação chinesa que desde 2012 tem feito sucesso na China e no mundo. Depois de mais de 600 episódios e seis filmes, essa é uma receita desgastada e entregue sem maiores cuidados com seus personagens nem com um espectador desprevenido que tenha o primeiro contato. Ao reciclar a dupla de ursos, o lenhador e vários dos personagens previamente criados e utilizados várias vezes, a dupla Leon Ding e Huida Lin estão dirigindo no automático cenas que se encaixam mais em jogos interativos do que em uma narrativa de filme. Além disso, seu uso 3D data dos anos 2000, quando objetos eram lançados na sua cara em câmera lenta. Porém, mesmo que você nunca tenha ouvido falar de Boonie Bears ou usado um óculos 3D não irá se interessar por nenhuma dessas coisas, pois tanto os personagens quanto a terceira dimensão artificial são irritantes do começo ao fim.
 
-Isso não quer dizer que a **linguagem C++** está indo para um bom caminho. Muito pelo contrário. Uma miríade de questões semânticas dividem opiniões e nunca resolvem de fato problemas do mundo real. Verdadeiros arcabouços masturbatórios, o comitê da linguagem se debate em vão quando tenta buscar maneiras de tornar uma linguagem arcaica em um exemplo de expressividade.
+A intenção sempre foi comercial da tecnologia 3D, lançando um atrativo que a TV não tinha. Em uma Hollywood que lança filmes como parque de diversões e não como histórias envolventes, o objetivo dessa nova reencarnação foi causar assombro na hora que o filme "invade a sala" com seus apetrechos sendo lançados em nossa direção. A animação chinesa chega tão tarde nessa tendência que o máximo que este filme consegue causar com isso hoje é desconforto visual, para adultos e crianças (exceto se for a primeira vez na vida de uma criança, talvez). Há um limite até onde você pode forçar a perspectiva de profundidade sem irritar os olhos do espectador ou fazê-lo enxergar dobrado. Os chineses ignoram esse limite. Pagaram caro pelo efeito e vão usar na potência máxima.
 
-Isso às vezes não importa muito para o dia-a-dia, mas outras vezes importa. Veja o caso da biblioteca **Boost.Bind**, uma das mais antigas a entrar para o projeto. Sua função é simples: expandir o conceito do `std::bind` para quantos argumentos for necessário. Isso foi criado na época com a ajuda de inúmeros overloads da função (em modo template), mas hoje é possível fazer com variadic templates. Seu uso é simples, intuitivo, direto, e resolve muitos problemas de encaixe de código:
+Mas antes fosse o 3D o pior dos problemas, pois ele conta com uma história medonha cuja infantilidade beira o autismo. Seu núcleo afetivo gira em torno de um dos personagens principais da animação, o lenhador Vick, e sua relação com o pai tão próxima e profunda que literalmente não vemos a face da mãe. É como se Vick fosse órfão de mãe ou tenha se esquecido de como ela era em suas memórias. Pai e filho brincam juntos o tempo todo e são felizes o tempo todo, o que quase nos faz vomitar, até que a promoção do pai o faz ter menos tempo para as brincadeiras e a relação entre eles beira o ódio mútuo, o que também nos faz vomitar.
 
-```
-#include <iostream>
-#include <boost/bind.hpp>
+Enxergando o mundo do ponto de vista de uma criança de seis anos, Aventura em Miniatura parece ter sido escrito, dirigido e produzido por uma. Os personagens secundários vão sendo jogados durante o filme como se o espectador já os conhecesse, e muitos deles desaparecem na cena seguinte para nunca mais voltar. Eu nunca tinha visto uma narrativa tão bagunçada desde The Room, que também tinha uma criança (mental) por trás da produção. Porém, diferente da animação, o projeto icônico de Tommy Wiseau acaba sendo hilário por uma sequência de erros de roteiro que até espectadores menos atentos percebem. (E, justiça seja feita, nem Wiseau criaria uma trama tão desprovida de lógica. The Room pode ser acusado de simplista, mas nunca de maniqueísta; ele é incapaz desse feito.)
 
-template<class Handler>
-void CallHandler(Handler&& handler)
-{
-    handler();
-}
+Apenas para ter uma ideia da bagunça, peguemos aleatoriamente um dos heróis do filme: um gafanhoto que usa a casca de um ovo como armadura e que luta kung-fu como ninguém. Na primeira conversa ele já sai contando seu ponto fraco para um monte de gente que acabou de conhecer e nem suas habilidades de luta nem o ponto fraco são relevantes para a história. Ele continua na história até o final, mas em algum momento ele vira uma versão guerreira de um grilo falante que surge apenas nas ocasiões convenientes. Ele também possui o poder de sumir quando o perigo precisa prevalecer por mais alguns minutos.
 
-void handler1(int x, int y)
-{
-    std::cout << "handler1: x=" << x << ", y=" << y << std::endl;
-}
+Esse foi apenas um exemplo de vários erros estruturais, que só são vários porque a história acumula elementos demais para dar conta. Há uma máquina que altera o tamanho das coisas que homenageia (ou denigre) o inventor histórico Nikola Tesla, há uma investigadora ecológica que visita a região para saber o que tem feito os salmões pararem de se reproduzir, há criminosos que jogam lixo no rio e que surgem nos minutos finais da história para dar alguma explicação para o caso, há um mundo subterrâneo em miniatura cujo único objetivo é fornecer um drone para nossos heróis, há uma dupla de macacos realizando um ritual pagão sem qualquer explicação, mas que precisa da lanterna do garoto para justificar uma perseguição. E a lista não terminou.
 
-int main()
-{
-    CallHandler(boost::bind(handler1, 10, 20));
-}
-```
-
-No entanto, o que era para ser um uso simples e direto de uma feature bem-vinda ao cinto de utilidades do programador C++ se transforma em um pesadelo quando as coisas não se encaixam tão bem:
-
-```
-#include <iostream>
-#include <boost/bind.hpp>
-
-template<class Handler>
-void CallHandler(Handler&& handler)
-{
-    handler();
-}
-
-void handler1(int x, int y)
-{
-    std::cout << "handler1: x=" << x << ", y=" << y << std::endl;
-}
-
-void handler2_fail(int x, int y, int z)
-{
-    std::cout << "handler1: x=" << x << ", y=" << y << ", z=" << z << std::endl;
-}
-
-int main()
-{
-    CallHandler(boost::bind(handler1, 10, 20));
-    CallHandler(boost::bind(handler2_fail, 10, 20));
-}
-```
-
-Vou plotar aqui todas as mensagens de erro para sentir o drama:
-
-```
-1>------ Build started: Project: boost_bind_result_type_error, Configuration: Debug Win32 ------
-1>boost_bind_result_type_error.cpp
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(75): error C2825: 'F': must be a class or namespace when followed by '::'
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(1284): note: see reference to class template instantiation 'boost::_bi::result_traits<R,F>' being compiled
-1>        with
-1>        [
-1>            R=boost::_bi::unspecified,
-1>            F=void (__cdecl *)(int,int,int)
-1>        ]
-1>c:\projects\caloni\static\samples\boost_bind_result_type_error\boost_bind_result_type_error.cpp(23): note: see reference to class template instantiation 'boost::_bi::bind_t<boost::_bi::unspecified,void (__cdecl *)(int,int,int),boost::_bi::list2<boost::_bi::value<T>,boost::_bi::value<T>>>' being compiled
-1>        with
-1>        [
-1>            T=int
-1>        ]
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(54): note: see reference to class template instantiation 'boost::arg<9>' being compiled
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(53): note: see reference to class template instantiation 'boost::arg<8>' being compiled
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(52): note: see reference to class template instantiation 'boost::arg<7>' being compiled
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(51): note: see reference to class template instantiation 'boost::arg<6>' being compiled
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(50): note: see reference to class template instantiation 'boost::arg<5>' being compiled
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(49): note: see reference to class template instantiation 'boost::arg<4>' being compiled
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(48): note: see reference to class template instantiation 'boost::arg<3>' being compiled
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(47): note: see reference to class template instantiation 'boost::arg<2>' being compiled
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\placeholders.hpp(46): note: see reference to class template instantiation 'boost::arg<1>' being compiled
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(75): error C2510: 'F': left of '::' must be a class/struct/union
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(75): error C3646: 'type': unknown override specifier
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(75): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(1284): error C2039: 'type': is not a member of 'boost::_bi::result_traits<R,F>'
-1>        with
-1>        [
-1>            R=boost::_bi::unspecified,
-1>            F=void (__cdecl *)(int,int,int)
-1>        ]
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(1284): note: see declaration of 'boost::_bi::result_traits<R,F>'
-1>        with
-1>        [
-1>            R=boost::_bi::unspecified,
-1>            F=void (__cdecl *)(int,int,int)
-1>        ]
-1>Done building project "boost_bind_result_type_error.vcxproj" -- FAILED.
-========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
-```
-
-Este é o erro encontrado usando o último Visual Studio (2017 15.9.0 Preview 2.0) e o Boost 1.68.0. A primeira linha deveria significar alguma coisa (que é para onde todo programador C++ deve olhar):
-
-```
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(75): error C2825: 'F': must be a class or namespace when followed by '::'
-```
-
-Mas não. Se olharmos para o código-fonte onde ocorreu o problema, a caixa de encaixe perfeito se quebra:
-
-{{< image src="MsRp03e.png" caption="" >}}
-
-O que isso quer dizer? O que aconteceu? Onde que eu errei?
-
-Claro que ao final da longa listagem de erros (que se torna ainda mais longa, dependendo de quantos argumentos sua função tem) há alguma luz no fim do túnel:
-
-```
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(1284): error C2039: 'type': is not a member of 'boost::_bi::result_traits<R,F>'
-1>        with
-1>        [
-1>            R=boost::_bi::unspecified,
-1>            F=void (__cdecl *)(int,int,int)
-1>        ]
-1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(1284): note: see declaration of 'boost::_bi::result_traits<R,F>'
-1>        with
-1>        [
-1>            R=boost::_bi::unspecified,
-1>            F=void (__cdecl *)(int,int,int)
-1>        ]
-```
-
-Mas claro que essa luz pode estar ofuscada quando os tipos dos argumentos são templates de templates de templates... enfim. Deu pra entender onde o caos consegue chegar quando se trata de harmonizar uma biblioteca perfeita com uma linguagem em constante construção.
+Tudo isso são momentos que cansam no filme, por não acrescentarem nada além de tempo de projeção. Chega um momento que não queremos mais personagens. Só queremos ir pra casa. Talvez essa seja a mini-aventura do título. A história de espectadores de cinema que ficam presos em uma sessão horrível que parece interminável. Agora um pequeno spoiler: ela termina. Mas há sequelas muito além dos efeitos 3D.
 

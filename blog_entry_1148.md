@@ -1,71 +1,52 @@
 ---
 categories: []
-date: '2011-06-04'
-tags: null
-title: Cronogramas baseados em fatos reais
+date: '2007-10-04'
+title: Cronogramas
 ---
 
-[Já falei sobre cronogramas] por aqui e tudo que disse ainda se aplica. Contudo, comentei brevemente sobre entender seu próprio ritmo, que, instintivamente, sabia ser verdade. Depois que [li um pouco mais sobre técnicas XP/Scrum](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) (que nada mais são do que formalizações do que os programadores Agile perceberam no decorrer dos seus projetos) achei uma fórmula simples para transformar o tempo estimado em tempo realista.
+Nunca fui muito bom em definir cronogramas e nunca conheci alguém que fosse. Porém, ultimamente, no conforto do lar (férias), estou me saindo razoavelmente bem ao aplicar no meu dia-a-dia algumas regras que estabeleci como sendo boas pra mim. Não são regras que baixei do sítio do Joel nem é um design pattern, mas já me ajudam um bocado. Gostaria de compartilhá-las com meus pontuais leitores, que sempre entregam seus projetos em dia e nunca se esquecem de comentar uma linha de código sequer. Vocês são meu objetivo de vida e motivo de orgulho deste humilde blogue, que se esmera a cada dia que passa para ser fiel à inegável qualidade do meu público. Quando crescer quero ser igual a vocês.
 
-Vejamos o texto original (auto-plágio):
+Mas enquanto não sou, vamos às regras.
 
-Regra # 5: não inclua o ócio no cronograma
+O primeiro grande passo é admitir que acertar cronogramas é como acertar na loteria: milhões de pessoas tentam toda semana e uns poucos gatos pingados conseguem de vez em quando. E ainda assim por acaso. O importante nessa analogia é perceber que, independente de ser difícil de acertar, isso não impede as pessoas de tentar. Veja você, elas (normalmente) não jogam 1, 2, 3, 4, 5, 6. Por quê? Porque elas tentam jogar no que acreditam ser uma combinação mais provável. E antes que um sábio chinês diga que a chance de sair a seqüência 1, 2, 3, 4, 5, 6 é tão provável quanto qualquer outra, explico que a analogia aqui é psicológica, não matemática. As pessoas tentam acertar, por mais irracional que isso pareça. A mesma filosofia deve ser seguida para cronogramas. Não chute valores que estão dentro da sua zona de conforto, mas tente de fato chegar o mais próximo possível da realidade. E, quem sabe um dia, você não é sorteado.
 
-Seja honesto consigo mesmo e com seu chefe: você realmente trabalha 8 horas por dia? É lógico que não! E não é nenhuma vergonha admitir isso. Todos nós temos emails para ler e responder, reuniões para presenciar e bloques importantes para acompanhar. Portanto, ignore essa conversa fiada de 8 horas e admita: não se deve contar os dias como se eles tivessem 8 horas.
+A segunda regra reza que o tempo estimado vira tempo mínimo. Você fará uma tarefa em uma hora. Mas, diabos, você não sabe disso antes de fazer e coloca no cronograma três horas. Quanto tempo você vai levar agora? Três horas. Não que você não consiga em menos tempo, mas, ao "alargar" a janela de tempo para três horas, seu ritmo irá seguir essa premissa e será mais lento. Há uma explicação psicológica para isso chamada Lei de Parkinson [^1]. Obviamente que o inverso não é verdadeiro. Quer dizer, você não vai terminar uma tarefa de uma hora em dez minutos se colocar dez minutos na sua tabela mágica. Isso, mais uma vez, não é matemática: é psicologia.
 
-Qual o valor de um dia, então? Cada um sabe o valor que deve ser decrementado desse valor simbólico de 8 horas, mas esse valor sempre será menor. Não se iluda!
+> A mesma analogia absurda serve para valores muito altos. Se estimar três meses para uma tarefa de uma hora, terá três meses para procurar um emprego novo, e não para terminar a tarefa.
 
-Exatamente. Não se iluda! Isso tem seu reflexo na metodologia Agile. Basicamente quer dizer que você precisa aplicar índices que reflitam a realidade do seu próprio ritmo. Além disso:
+A terceira regra diz sobre o tamanho das tarefas: as menores são mais exatas. Este é o velho ditado de dividir para conquistar. Afinal, é muito melhor estimar o tempo para fazer uma nova função do que estimar o tempo total para a nova versão do produto. Portanto, trate de dividir o seu elefante. O limite é a partir do momento em que se sentir confortável para prever o tempo necessário a ser gasto em uma subtarefa. É muito simples ilustrar e entender esse conceito com código. Voltando ao caso da função, digamos que você consiga terminar a bendita função em exata uma hora. Você é bom, hein?
 
-Regra # 4: uma tarefa estimada é uma tarefa completada
-
-É muito simples ilustrar e entender esse conceito com código. Voltando ao caso da função, digamos que você consiga terminar a bendita função em exata uma hora. Você é bom, hein?
-
-Porém, essa função ainda 1) não foi comentada,  2) não foi testada e  3) não foi testada em release.
+Porém, essa função ainda:
+	
+ - não foi comentada,
+ - não foi testada,
+ - não foi testada em release.
 
 Logo, essa é uma tarefa em que você termina o mais importante em uma hora... mas não termina tudo. Deve-se sempre considerar a tarefa por completo, pois no final de quinze tarefas vai faltar comentar e testar tudo isso, o que aumentará consideravelmente a imprevisiblidade no seu cronograma.
 
-O que, novamente traduzindo, é mais um indicador a ser aplicado sobre seus números.
+Seja honesto consigo mesmo e com seu chefe: você realmente trabalha 8 horas por dia? É lógico que não! E não é nenhuma vergonha admitir isso. Todos nós temos emails para ler e responder, reuniões para presenciar e blogues importantes para acompanhar. Portanto, ignore essa conversa fiada de 8 horas e admita: não se deve contar os dias como se eles tivessem 8 horas. Ninguém é produtivo programando 8 horas seguidas. Essa pessoa está te enganando ou usando cocaína (que não pode ser usada todos os dias).
 
-E o que são seus números?
+Qual o valor de um dia, então? Cada um sabe o valor que deve ser decrementado desse valor simbólico de 8 horas, mas esse valor sempre será menor. Não se iluda! Se precisar harmonizar seu cronograma com um relatório para entregar para o chefe você pode usar de maneira privada o seu contador pessoal, por exemplo, trabalho 4 horas no máximo programando por dia, e converter para torná-lo público, multiplicando por dois para dar as 8 horas diárias.
 
-Basicamente, o que a própria metodologia ensina: meça o esforço necessário para fazer código (mas é pra isso mesmo que somos contratados, não?) como se pudéssemos programar por todo esse tempo sem parar por um momento sequer (mesmo que sejam dezenas de horas). Lógico, aprenda a dividir o esforço em pequenos passos, mas estime o tempo considerando APENAS o esforço de fazer o código.
+A maneira com que eu administro meu tempo tenta (eu disse tenta) seguir as regras até aqui dispostas. Além dessas eu adicionei algumas regras minhas, baseadas em valores razoáveis e premissas consideravelmente lógicas. Aliás, isso me lembra uma última regra geral: entenda o seu ritmo.
 
-Pronto? Agora é hora de aplicar os indicadores.
+O cronograma costuma (deveria) ser considerado uma coisa pessoal. Por quê? Porque cada um tem seu tempo. O que vale mais ao executar uma tarefa geralmente é (deveria ser) qualidade, e não quantidade. Seu vizinho de baia costuma terminar as coisas na metade do tempo que você? Bom para ele. Porém, se você tenta empregar o mesmo ritmo ao seu dia-a-dia vai ter que gastar depois mais do dobro do tempo que você economizou corrigindo os erros de uma tarefa feita nas coxas. Nada é "de grátis".
 
-### 1. Foco
+Encare o trabalho assim como dormir: cada um tem o seu número de horas noturnas para descansar. Se dormir mais ou menos que o normal isso irá influenciar mais tarde, quando acordar. Alguns dormem 4, outros 12 horas. A média é 8. Mas e daí?
 
-Mais uma vez, admita: programadores raramente conseguem manter o foco por muito tempo. São pessoas ao redor te desviando a atenção, o tweet que salta de uma janela ou até mesmo as necessidades orgânicas que todo ser humano tem. São elementos, enfim, que, em conjunto, nunca te possibilitarão ter 100% do foco durante todo o trabalho.
+Primeiro eu tento usar um princípio que a maioria das pessoas conhece e a minoria acredita: se chama princípio de Pareto. Ele diz que 20% de uma tarefa resolve 80% dos problemas. Aos poucos eu fui acreditando nele até que cheguei à conclusão que deve funcionar, porém existe um problema: definir quais são esses 20%.
 
-Portanto, criemos um indicador: foco. Ele é um valor entre 0 e 1 e estima a porcentagem de foco que você consegue obter, em média, durante o dia. Por exemplo: eu consigo me focar 70% do dia inteiro em apenas codificar e o resto é perdido em reuniões e e-mails. OK. Esse número é, então, 0,7. Aplique sobre seu total de horas e terá o tempo real para codificar a tarefa:
+Voltando novamente no caso da função, é óbvio que a parte mais importante é fazer a função. Mais uma vez, cada caso é um caso, e o importante é desenvolver esse feeling do que é mais importante. Fazendo o que é mais importante o resto virá complementar a solução.
 
-Levarei 35 horas para codificar todo o processo de autenticação por reconhecimento de face, trabalhando sem parar.
+Essa ordem do que é mais importante deve servir para dividir qualquer tarefa e as tarefas de cada dia, ordenadas por importância. Dessa forma, é fácil começar o dia ou uma tarefa maior pelo que é mais importante. Isso nos leva a um segundo problema: definir o que é importante.
 
-    
-    35 / 0.7 = 50
+A maior dificuldade em definir o que é importante é que muitas vezes ele se confunde com o que é urgente, mesmo sendo dois conceitos bem diferentes.
 
-No entanto, como consigo apenas 70% de foco em média, sei que essa tarefa irá levar 50 horas na verdade.
+Por exemplo, para mim foi urgente escrever este artigo, já que estou compromissado com a freqüência do meu blogue. O importante fica por conta do conteúdo. Por exemplo, considero ter tocado em todos os pontos que julgo importantes para esse tema, o que por si só caracterizaria o fim desse artigo. E é isso aí.
 
-### 2. Finalização
+Bons cronogramas!
 
-Já temos o tempo para o código ficar pronto, mas... é apenas código. Temos que reescalonar o tempo do projeto inserindo testes, retrabalho, comentários e documentação. Tudo ainda nas mãos do programador, que está ainda "aquecido" e que pode resolver retrabalhos em questões de segundos, se ninguém mais passar nada pra ele.
+[^1]: "O trabalho se expande work de forma a preencher o tempo disponível para sua conclusão." - [Parkinson's Law na Wikipedia]
 
-Mesmo assim,é um indicador importante. Sem ele, a qualidade do serviço final fica muito restrita e sensível a testes de caixa preta, gerando a revolta da equipe de testes.
-
-Vamos supor, então, que, historicamente, essa fase tem sido, digamos, 20% do período de codificação (um chute bem otimista). Agora é fácil dizer o tempo final:
-
-Levarei 50 horas para codificar tudo considerando o quesito foco.
-
-    
-    50 * 1,2 = 60
-
-Porém, para poder entregar, preciso dedicar cerca de 20% aos testes, retrabalho e uma documentação mínima. Nesse caso, 60 horas é o prazo de entrega.
-
-_Note que, se quiser, pode fazer a análise contrária também, tanto de um quanto de outro. Assim, se geralmente você gasta 20% a mais na codificação do que estima, então use o fator foco como 1.2 e multiplique em vez de dividir. Da mesma forma, se codificar é 60% de todo o trabalho, o fator finalização é 0.6 e deve-se dividir as horas pós-indicador de foco._
-
-### Conclusão
-
-O número de horas ficou muito maior que o esperado? Não me admira que os projetos geralmente atrasem, então. Por pior que pareça o cálculo final, ele foi construído com base na realidade. E não há nada melhor do que nos basearmos na realidade para estimar seriamente o quanto pode custar à empresa um projeto qualquer.
-
-[Já falei sobre cronogramas]: {{< relref "cronograma" >}}
+[Parkinson's Law na Wikipedia]: https://en.wikipedia.org/wiki/Parkinson%27s_law
 

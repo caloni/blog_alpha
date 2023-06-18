@@ -1,130 +1,122 @@
 ---
 
-The next step after [the Warm Up challenges] are the array challenges. And so I did it. Now I am going to recap what I did and how I did. And what complexity the algorithms have.
+A couple of days ago I subscribed to Hacker Hank, a website specialized in provide interview exercises. The site is as a better version of Code Jam, with the possibility to Compile & Run the code, as well as running several test cases.
 
-# Array Manipulation
+Talking with friends about one of them proposed a interesting puzzle called Find the Running Median. This is a good problem because it is easy to understand and tricky to implement.
 
-To solve the [array manipulation problem] ChatGPT helped me with the code. Now in the review I realized [how segment trees work] and how binary trees can be implemented using arrays.
+My first attempt was naive, but worked for test cases where there were no duplicated numbers, a detail I overlooked in the description and happenned the very first test (lucky me it is possible to download the test cases, input and output, giving in return some of the points accumulated solving other problems).
 
-The issue about this problem is that summing up intervals costs too much processing to large intervals. In order to do that, segment trees help, since its nodes contain the sum of all its nodes bellow. This way, to get the sum of determined intervals all we need to do is to get the bigger intervals and sum it up.
-
-```
-// Segment tree to array manipulation implementation
-long query(int node, int left, int right, int pos, const vector<long>& tree) {
-    if (left == right) {
-        return tree[node];
-    }
-    else {
-        int nodeLeft = 2 * node;
-        int nodeRight = 2 * node + 1;
-        int middle = (left + right) / 2;
-        if (pos <= middle)
-            return tree[node] + query(nodeLeft, left, middle, pos, tree);
-        else
-            return tree[node] + query(nodeRight, middle + 1, right, pos, tree);
-    }
-}
-
-void update(int node, int left, int right, int posLeft, int posRight, int value, vector<long>& tree) {
-    if (posLeft > posRight) return;
-    if (posLeft == left && posRight == right) {
-        tree[node] += value;
-    }
-    else {
-        int nodeLeft = 2 * node;
-        int nodeRight = 2 * node + 1;
-        int middle = (left + right) / 2;
-        update(nodeLeft, left, middle, posLeft, min(posRight, middle), value, tree);
-        update(nodeRight, middle + 1, right, max(posLeft, middle + 1), posRight, value, tree);
-    }
-}
-
-// Solution
-long arrayManipulation(int n, vector<vector<int>> queries) {
-    int m = queries.size();
-    vector<long> t(4 * n); // room for binary tree
-
-    for (int i = 0; i < m; i++) {
-        int l, r, x;
-        l = queries[i][0];
-        r = queries[i][1];
-        x = queries[i][2];
-        update(1, 1, n, l, r, x, t);
+    /*
+     * Complete the runningMedian function below.
+     */
+    vector<double> runningMedian(ofstream& fout, vector<int> a) {
+        vector<double> ret;
+        set<int> oa;
+    
+        for( int n: a ) {
+            oa.insert(n);
+            auto oaMidIt = oa.size() == 1 ? oa.begin()
+                : next(oa.begin(), oa.size() / 2 - (oa.size() % 2 == 0 ? 1 : 0) );
+            auto oaMidIt2 = next(oaMidIt);
+            double median;
+            if( oa.size() % 2 == 1 ) {
+                median = *oaMidIt;
+            }
+            else {
+                median = ( *oaMidIt + *oaMidIt2 ) / 2.0;
+            }
+            fout << median << " " << n << "\n";
+            ret.push_back(median);
+        }
+    
+        return ret;
     }
 
-    long max_val = 0;
-    for (int i = 1; i <= n; i++) {
-        max_val = max(max_val, query(1, 1, n, i, t));
+So I started to draw in my window a new solution, based on inplace sort algorithm, using the same vector proposed skeleton by the site. The idea was to just move elements inside the vector, ordering them as calculating the median to evey new number.
+
+    BEGIN --> 12,   4,   5,   3,   8,   7 <-- END
+              ^     ^
+              |     |-- SORTED_END
+            MEDIAN          ^
+                            |-- NEW
+    
+    BOOL ODD = TRUE;
+    
+    {
+        DOUBLE MEDIAN = ODD ? MEDIAN : (MEDIAN + MEDIAN+1) / 2
+        NEW = SORTED_END
+        RECURSIVE/ITERATIVE_INSERT(BEGIN, SORTED_END, MEDIAN, NEW)
+        ODD = ! ODD
+        SORTED_END++
+    } WHILE(  SORTED_END != END )
+    INSERT(BEG, END, NEW, MED, ODD) {
+        MED = SZ/2 - (SZ_ODD ? 0 : 1)
+    
+        1, 2, 3, 5, 6     (4)
+              -
+              < ?
+        RIGHT OR LEFT
+    /*my playground
+    vector<int> test = { 12, 4, 5, 3, 8, 7, 5, 5 };
+    for (size_t new_element = 1; new_element < test.size(); ++new_element)
+    	insert_new_element(test, new_element);
+    return 0;*/
+
+I still wasn't thinking about the sort algorithm until I began to try and fail several times, but this try/error bitch always taught me how to make things faster then embryological bullshit to born from scribbed windows. It only requested a debugger to make the edit, compile, debug triple step.
+
+I was still trying in the window, thought, until in one of these iteractions with the compiler/debugger I achieved a simples, clearer solution, using only offsets from the vector instead of iterators.
+
+    void insert_new_element(vector<int>& a, size_t new_element)
+    {
+    	size_t begin = 0;
+    	size_t end = new_element;
+    	size_t sz = end - begin;
+        size_t median= begin + sz / 2 - (sz % 2 ? 0 : 1);
+    
+        while( sz > 1 ) 
+        {
+            if( a[new_element] < a[median] ) 
+    			end = median;
+            else
+    			begin = median + 1;
+    		sz = end - begin;
+    		median = median == begin? begin : begin + sz / 2 - (sz % 2 ? 0 : 1);
+        }
+    
+    	size_t insert_offset = a[new_element] < a[median] ? median : median + 1;
+    	int element = a[new_element];
+    	a.erase(a.begin() + new_element);
+    	a.insert(a.begin() + insert_offset, element);
     }
 
-    return max_val;
-}
-```
+This version almost done it, except for timeout error. Hacker Hank has a timeout of 2 seconds to C++ solutions and I was exceding it. After some thought (more try/error) I thought about change the container, but before I made a simples test: instead of using erase/insert methods make the things manually as in good old C.
 
-# Left Rotation
+    void insert_new_element(vector<int>& a, size_t new_element)
+    {
+        //...
+    
+    	size_t insert_offset = a[new_element] < a[median] ? median : median + 1;
+    	int element = a[new_element];
+        //a.erase(a.begin() + new_element);
+        //a.insert(a.begin() + insert_offset, element);
+    	memmove(&a[insert_offset + 1], &a[insert_offset], (new_element - insert_offset) * sizeof(int));
+    	a[insert_offset] = element;
+    }
 
-To solve the [left rotation problem] in C++ is somewhat easy, since there is already an algorithm in STL to do that: `std::rotate`. Anyway, I didn't know that before my first implementation, that was to create a new vector and copy the old vector to the new one obeying the new positions.
+And it worked. Now what I learned looking the other solutions.
 
-However, the last version of the solution of this issue was using the `std::rotate` function, that is a simple, elegant algorithm:
+There are incredible tools in C++, even since 98 or 11, that are frequently overlooked, but it is important to notice that the language has a framework for processing: containers, algorithms and so on. By example, looking for other solutions I learned about the characteristics of multiset and priorityqueue (spoiler: both have a ordering predicate and are logarithmic). There are smart functions in algorithm, too, as lowerbound.
 
-```
-template <class ForwardIterator>
-  void rotate (ForwardIterator first, ForwardIterator middle,
-               ForwardIterator last)
-{
-  ForwardIterator next = middle;
-  while (first!=next)
-  {
-    swap (*first++,*next++);
-    if (next==last) next=middle;
-    else if (first==middle) middle=next;
-  }
-}
-```
+A lot of solutions simply ignored the skeleton provided by the site and began its own code from scratch, eliminating the "request" that the numbers must be stored first in a vector. Sometimes, when there as skeleton in our life, we use them as guidelines, forgetting that "there is no spoon".
 
-The logic is to swap from left to right, leveraging the end part of the vector to making the swaps. The rightmost point is called next and begins in the middle point. The leftmost point is the first point. When the next point reaches the end it go back to the middle point again, because the last element was moved already and the middle now contains the original first elements that was swaped. If, however, the leftmost point reaches the middle point before the next point reaches the end, the middle point changes to the next point, what means the point where first and middle meet is changing to the next point, making the first to chase the middle point until all rightmost elements be exchanged with it, using the next as a moving buffer. The same logic is repeated until first and next point meet.
-
-{{< image src="std_rotate.jpg" >}}
-
-So the solution changed from this:
-
-```
-// Solution
-vector<int> rotLeft(vector<int> a, int d) {
-  vector<int> ra(a.size());
-
-  auto it = a.begin();
-  advance(it, d);
-  copy(it, a.end(), ra.begin());
-
-  auto it2 = ra.begin();
-  advance(it2, a.size() - d);
-  copy(a.begin(), it, it2);
-
-  return ra;
-}
-```
-
-To this:
-
-```
-// Solution
-vector<int> rotLeft(vector<int> a, int d) {
-  rotate(a.begin(), a.begin() + d, a.end());
-  return a;
-}
-```
-
-[array manipulation problem]: https://www.hackerrank.com/challenges/crush
-[left rotation problem]: https://www.hackerrank.com/challenges/ctci-array-left-rotation
-[the Warm Up challenges]: {{< ref hacker-rank-warm-up >}}
-[how segment trees work]: {{< ref segment-tree >}}
+I hope you learned something, too. You can see my Hacker Rank attempts in the site (nickname caloni) or my GitHub repository.
 
 ---
 categories:
 - coding
-date: '2023-04-16'
+date: '2023-04-28'
 link: https://www.hackerrank.com/interview/interview-preparation-kit
 tags:
 - interview
-title: Hacker Rank Warm Up
+- english
+title: Hacker Rank Array - Part 1

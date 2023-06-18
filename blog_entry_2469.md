@@ -1,24 +1,24 @@
 ---
 categories:
 - writting
-date: '2022-07-25T19:57:29-03:00'
+date: '2019-10-24'
+link: https://www.imdb.com/title/tt8445700
 tags:
 - cinemaqui
+- mostra
 - movies
-title: Não Me Diga Adeus
+title: Não me Ame
 ---
 
-Eu ouvi road movie? Repetitivo, mas mal não há. Ainda mais com a trilha sonora de Não Me Diga Adeus e a música de Jessica Rose Weiss, ambos embalando estilos enquanto pai e filha viajam pelos estados americanos de ponta a ponta e constroem os bons momentos que toda família merece ter em suas memórias.
+Não me Ame é cinema experimental, e eu admiro isso. Porém, seus símbolos vão se multiplicando a cada diálogo em um ritmo indecifrável, e isso não tem perdão.
 
-Há uma alma sendo trabalhada aqui. Ela se forma pela presença de tela do ator John Cho, que não precisa se esforçar para se tornar o pai solteiro rígido pelo passado e pragmático pelas circunstâncias. Já a atriz Mia Isaac, mais jovem, esbanja energia sendo uma criatura que todo pai gostaria de ter, mesmo que ele não perceba porque gerações não se conversam: responsável apesar dos hormônios, curiosa apesar (ou por causa) de ser superprotegida pelo pai.
+Brincando em espanhol com uma história de guerra no estilo invasão do Iraque misturado com o folclore bíblico, a ideia concebida por Sergi Belbel e Lluís Miñarro (dirigido por este último) nunca foi uma coisa boa, nem no começo, quando filmes como Cães de Aluguel e diretores como Kubrick são citados. Referências do diretor? Espero que não, ou isso quer dizer que nas aulas de cinema da atualidade os rolos de filmes são mais cheirados do que vistos.
 
-O roteiro de Vera Herbert (da série This is Us) vai pelo caminho fácil do choque inevitável de gerações que se encaixa perfeitamente enquanto o pai descobre que tem só mais um ano de vida e resolve apresentar a filha para a mãe relapsa... ops, traumatizada; mães não são relapsas neste século. O plano do pai não é dos melhores e envolve um reencontro de formandos desnecessário, mas sem isso o filme não existiria, então há de se perdoar os clichês pelos bons momentos que estes proporcionam ao filme.
+Mas falando, agora, sobre a história desse filme me veio à memória alguns de seus momentos. Quase todos sensuais. Sua protagonista é a filha do general, Salomé, que é bela e se encanta com o prisioneiro de guerra que seu pai mantém escondido em uma caverna.
 
-A história é fácil de seguir, mas nada se compara à direção de Hannah Marks (ela atua como a irmã de Elijah Wood na série Dirk Gently's), que combina os diálogos com os melhores ângulos de seus heróis. É no por do sol constante ou nas luzes do horizonte que revela uma direção segura de si ao mesmo tempo ciente de estar preparando conteúdo para TV e, ainda assim, cinematográfico em seu charme.
+Ele é chamado de profeta, preso em cavernas subterrâneas e não falando coisa com coisa. Há um acampamento militar ao lado, onde se bebe vinho e se fala sobre filosofia. Em um futuro muito presente, os poderosos do mundo acertam como em um contrato qual será a próxima guerra entre eles. Qualquer semelhança com a realidade foi expurgada do filme, que não faz o menor sentido.
 
-Este é um filme com dois protagonistas. Eles surgem juntos logo no começo na piada menos eficiente do longa. Ou pelo menos um protagonista e uma narradora, mas a narrativa não é confusa; apenas diferente. Você verá nos minutos finais (como anunciado pela narradora). Engraçado. Filmes como esse parecem ter nascido de algum site de escritores independentes, muito pelo frescor de ingenuidade e de novas possibilidades em contar velhas histórias com ganchos inesperados. Não chega a ser uma surpresa orgânica, nem desejável, mas somos avisados de antemão que haverá reviravoltas amargas no final.
+Mas as cenas são bonitas. A fotografia também. Sei de pessoas que só por isso já falariam que este é um filme de respeito. Os cenário, teatrais, cumprem seu papel onírico, cercando personagens movidos por impulso. Podemos estar acompanhando fragmentos ligados no espaço-tempo. Vai saber... melhor não.
 
-Eu gostei de assistir a Não Me Diga Adeus. Sua falta de pretensão é sua maior virtude. Faz com que fiquemos mais confortáveis na poltrona, apenas curtindo o momento. E que melhor clima para assistir um road movie que é sobre se sentir bem consigo mesmo. A vida já é bruta demais para conflitos desnecessários e brigas eternas. A vida é muito curta e sem sentido para ficarmos parados pensando no que poderia ser, em vez de simplesmente fazermos ser.
-
-Estou soando um pouco brega? Me desculpe, me contagiei pelo espírito deste belo filme e seu irresistível charme de quem é cinéfilo inveterado.
+Love Me Not é sobre a perdição do cinema americano. Ele pega desde as séries, apresentando os atores como se fizessem parte de uma, para saltos temáticos que existem apenas como provocação vazia ao espectador. É uma aposta, como todo filme experimental. Porém, ter uma direção de arte, figurino, fotografia e edição impecáveis em um filme desses... isso não tem perdão.
 

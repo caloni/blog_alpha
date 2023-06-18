@@ -1,21 +1,26 @@
 ---
 categories:
 - writting
-date: '2010-12-20'
-link: https://www.imdb.com/title/tt1149361
+date: '2012-06-04'
+link: https://www.imdb.com/title/tt1409024
 tags:
-- mostra
 - movies
-title: Micmacs - Um Plano Complicado
+title: 'MIB: Homens de Preto III'
 ---
 
-A fotografia fabulosa de [Amélie Poulain] também cabe nessa fábula em que um homem, Bazil (Dany Boon), sofre uma dupla injúria em sua vida: a morte do seu pai por uma mina terrestre e uma bala em sua cabeça durante um tiroteio. Então ele resolve se vingar de ambas com o mesmo plano.
+Possuindo uma dinâmica que se assemelha menos do que deveria com [o original] e mais do que deveria com sua continuação, além de já confiar desde o início na identificação que o público fará da dupla de agentes K e J, que trabalham em prol de uma organização que zela pelo convívio pacífico com inúmeros seres intergalácticos, o terceiro filme da série Homens de Preto conta com um novo ator (Josh Brolin, [Wall Street 2]) que interpreta a versão mais jovem de K, originalmente vivido por Tommy Lee Jones, e um novo vilão, Bóris, o Animal (Jemaine Clement, de [Loucos por Nada]), que munido de ótimos efeitos visuais faz uma grande promessa em sua sequência inicial que infelizmente nunca é cumprida: a de fato representar uma ameaça para os excelentes agentes da MIB.
 
-Com os mesmos enquadramentos exagerados como em Amélie, mas sem a sua graça, Jean Pierre parece acreditar que o mesmo modelo pode servir a mais de um filme, e nesse caso parece acertar parcialmente. Digo parcialmente pois, enquanto em Amélie sua infância explique suas constantes fugas da realidade e seu caráter idealista, aqui o herói assume essas características sem possuir um passado que o justifique. Pior, ao ser adotado posteriormente por uma trupe de moradores de rua que parecem ter saído da mente criativa da protagonista do outro filme.
+Quando o agente J precisa voltar no tempo para impedir que uma catástrofe atinja a Terra e seu parceiro, a fotografia aplicada nos anos 1969 consegue separar a versão antiga da MIB através de uma dose de sépia e menos de azul, aparentemente um sinal de avanço em nossa época. A direção de arte vai no mesmo ritmo, mostrando uma agência mais antiquada e, quem diria, mais racista, como é sugerido timidamente por uma observação sobre a proteção apenas dos seres humanos, além de no mundo exterior se resumir em uma coleção de estereótipos.
 
-Embora ou por causa de nunca revelar a estratégia de Bazil por completo, a história torna-se fascinante pela criatividade com que é conduzida, nunca soando por demais exagerada, apesar de sempre estar no limite da ousadia, mas que recebe a bela explicação da trupe, circense na alma e sem muito o que perder na vida.
+Rapidamente pode-se sentir a maior ausência da série: a criatividade na confecção dos personagens, antes um ponto fortíssimo no original e o que o tornava tão interessante, além da própria interpretação dos atores veteranos, que se colocam no automático na maioria das cenas, restando a Josh Brolin o papel de tornar o agente K um ser humano menos robótico em seus anos dourados.
 
-A capacidade do filme de entreter é tanta que até nos esquecemos do real objetivo do herói, o que pode soar preocupante pois existe drama em sua história. Só que em vez de drama o que vimos são exercícios de relaxamento quando ele, ansioso, parece perder a respiração, e que mais uma vez inevitavelmente relembram a figura idealista de Amélie Poulain, principalmente por estarem esses inseridos como mera curiosidade, sem conexão com o que está ocorrendo na tela.
+Aliás, não é apenas nos aspectos técnicos que o filme declina seu humor, mas nas tiradas cômicas. Se antes a comédia em MIB era engrandecida pela temática do absurdo (e ainda assim, tolerância) com a existência de seres completamente bizarros convivendo no mesmo planeta e sendo protegidos de qualquer ato hostil dos "nativos" terráqueos, agora ela se resume em uma sequência de piadas prontas, sendo a maioria de cunho racista. Não considerar isso uma involução do tema é não entender o que faz do MIB original um filme e tanto, seja de ação quanto comédia.
 
-[Amélie Poulain]: {{< relref "amelie-poulain" >}}
+Como todo filme de viagem no tempo, existem seus paradoxos, mas eles não atingem o roteiro, que não desenvolve ou não precisa de reviravoltas além da inicial viagem ao passado, pois talvez confie excessivamente na força do seu desfecho. Tanto é verdade que quando Bóris tenta de alguma forma estragar os planos em torno de sua destruição não passam minutos até que alguém resolva de alguma forma simplista ou esquemática, nunca fazendo provar a expectativa inicial de que ele poderia de fato representar uma ameaça digna dos Homens de Preto.
+
+De certa forma, apesar do excelente clímax final, não deixa de soar como a única ideia verdadeiramente digna de uma continuação, pois durante todo o tempo somos levados de cá pra lá sem uma ideia clara de desenvolvimento da história. Dessa forma, a conclusão continua forte e impactante, mas não se pode dizer que leva o resto do filme para o mesmo caminho.
+
+[Loucos por Nada]: {{< relref "loucos-por-nada" >}}
+[Wall Street 2]: {{< relref "wall-street-o-dinheiro-nunca-dorme" >}}
+[o original]: {{< relref "mib-homens-de-preto" >}}
 

@@ -1,20 +1,31 @@
 ---
 categories:
-- writting
-date: '2016-10-21'
-link: https://www.imdb.com/title/tt4365518
-tags:
-- movies
-title: Tempestade de Areia
+- coding
+date: '2008-01-14'
+title: Temas no WinDbg
 ---
 
-A filmografia por trás da cultura do Oriente Médio vira e mexe acaba girando em torno dos costumes antigos de uma cultura predominantemente "machista e opressora". Em Tempestade de Areia, isso não é diferente. Contudo, encarando como toda a questão desenvolvida pelo filme consegue ser aplicada a qualquer sociedade e qualquer costume, vemos que muitas das nossas próprias ações, nós, do "mundo civilizado do Ocidente", que acreditamos ser atribuída à nossa liberdade de escolha, são apenas reflexos de uma cultura que já existia antes de nós existirmos. Onde está o seu livre-arbítrio agora?
+Desde a versão 6.4.7.2 que o WinDbg fornece uma subpasta chamada Themes, onde lá estão diversos workspaces configurados. Existe até um passo-a-passo de como organizar esses temas e escolher o seu favorito. Segue algumas dicas de como transformar corretamente sua área de trabalho para depuração (e mantê-la).
 
-A direção do estreante Elite Zexer torna tudo imediatista com sua câmera que não para (comparável com outro filme de destaque na região, "A Separação") e que observa a realidade quase sempre do ponto de vista da personagem mais atingida: a esposa mais velha. O filme começa com uma discussão entre o pai e a filha, que está tentando dirigir sendo a todo momento criticada por ele, que não coloca os olhos na estrada vazia. E a história continua com o pai tendo a opinião final de quase tudo que gira em torno de sua casa, a despeito de ser sua primeira esposa o pilar da família, a que cuida para que tudo funcione, que as crianças vão para a escola, etc.
+O WinDbg salva suas configurações no registro. Para apagar os valores previamente gravados, rode o seguinte comando:
 
-As características físicas da velha esposa e da nova esposa já determinam quem está com a vida ganha e quem está sofrendo o martírio de uma vida não-escolhida por ela, mas que agora é sua inteira responsabilidade. Ela é o braço-direito de seu dono, e zela pelo futuro da filha mais velha, que está de namoro com um jovem de outra tribo. Quando a questão vem inevitavelmente à tona para o pai, a questão se complica e temos um conflito de liderança nas decisões basicamente culturais de "quem é que manda", ou melhor dizendo, "como as coisas devem ser feitas". A decisão nunca está nas mãos de alguém.
+    reg delete HKCU\Software\Microsoft\WinDbg
 
-A interpretação de todos está impecável, mas é Ruba Blal que segura nas costas a responsabilidade de demonstrar as incongruências de um sistema criado há milênios e que hoje encontra problemas na realidade. o entanto, o filme é muito mais sobre os detalhes sutis do que essas pessoas precisam fazer para tentar valer suas próprias decisões em vez do que está escrito na pedra, e é nesse ponto que ele se encontra com a força dos costumes, seja em um povo tribal ou em uma megalópole, no campo, enfim, em qualquer lugar onde haja pessoas o suficiente para serem criadas regras que irão delinear como cada um deve agir.
+Você pode gravar um tema, rodar o WinDbg (sem parâmetros), ver se gosta do que viu, e tentar novamente. Quando estiver satisfeito com a aparência, fique com ela e comece o próximo passo.
 
-E se o final do filme parece triste é porque ele é a conclusão lógica do que acontece com cada um de nós, preso ao sistema social vigente. A última tomada não está enfocando a próxima geração à toa. É a triste constatação de que, enquanto inocentes, nada podemos inferir. No entanto, depois de crescidos, talvez isso não mude muita coisa, mesmo que a gente acredite piamente estar no controle da situação.
+Nas depurações do dia-a-dia algumas configurações devem estar sempre muito bem configuradas, para que torne seus momentos de desespero porque nada está funcionando mais agradáveis. Por isso, assim que escolher seu tema preferido trate de configurar os seguintes itens:
+
+ - Diretórios de símbolos. Você pode começar com .symfix, que vai montar uma string padrão, e adicionar mais diretórios com .sympath+.
+ - Diretórios de código-fonte. Coloque a raiz dos seus projetos principais. Com o tempo, se você mexe muito nos seus diretórios, é necessário fazer uma manutenção desse valor.
+ - Diretórios de executáveis. Basicamente é o mesmo do diretório de símbolos.
+
+Depois de configurar tudo isso, ajuste as janelas na melhor maneira e proporção que achar mais agradável. Esse será o último passo, pois depois você irá fechar o WinDbg e salvar o workspace, que a partir daí será o padrão sempre que abrir o depurador.
+
+Para que os arquivos fonte caiam no lugar que você escolheu, durante a configuração, abra um código-fonte e coloque no lugar que gostaria de ver todos os fontes listados, junto com um placeholder (um arquivo C usado como localizador, existem 5 dentro da pasta themes). Após isso, feche o código-fonte, mas mantenha o placeholder. Depois é só fechar o WinDbg salvando as configurações. Tudo deve funcionar como previsto (ou você esqueceu alguma coisa).
+
+Como esses passos deram algum trabalho, trate de salvar as configurações, caso tenha que usá-las em outras máquinas ou restaurá-las caso algo de ruim aconteça com seu SO (como quando você depura seus drivers na mesma máquina em que desenvolve, por exemplo).
+
+    reg save HKCU\Software\Microsoft\WinDbg c:\Tools\DbgTools\Themes\MyTheme.reg
+
+Leia a documentação do WinDbg sobre temas (dentro de Themes, Themes.doc). Foi de lá que eu fiz a tradução e adaptação dos passos mais importantes. E esqueça do Visual Studio =)
 

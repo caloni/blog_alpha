@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2023-01-31T23:07:30-03:00'
+date: '2015-10-21'
 tags:
 - food
-title: Chope na Vovó e Cia (Tiradentes, MG)
+title: Tipuana
 ---
 
-Um bom lugar para comer próximo dos eventos da Praça de Tiradentes, dá para acompanhar o movimento dos transeuntes. Chope bem servido e quitutes gostosinhos. Preço razoável. Há caldo também.
+Parece equilibrado, mas igualmente ácido; é a desvantagem de cafés não-balanceados e com firulas. Se colocar pó na medida certa, mais equilibrado que o outro de Tiradentes.
 

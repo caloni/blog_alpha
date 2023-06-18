@@ -1,20 +1,14 @@
 ---
 categories:
 - writting
-date: '2017-04-01'
-link: https://www.imdb.com/title/tt6724372
+date: '2011-10-24'
+link: https://www.imdb.com/title/tt1634524
 tags:
-- series
-title: Netflix Live
+- movies
+title: Nervos à Flor da Pele
 ---
 
-Prepare-se para o "streaming" mais emocionante já lançado por um serviço de "streaming". Netflix Ao Vivo possui momentos do cotidiano que podem se tornar emocionantes, divertidos, hilários e até empolgantes!
+Da minha limitada (põe limitada nisso) experiência, o que já vi do cinema islandês é que ele foca muito na relação e nas descobertas dos seus jovens, e este, acredite, não foge nem um pouco da fórmula. Apresentando desde o início a descoberta de um jovem de ser gay, esse pequeno segredo dele permeia todo o longa, servindo de contraponto com a relação dos outros personagens e seus anseios. Por exemplo, a melhor amiga desse jovem, encontra suporte em seu jeito doce, mas, equivocada, não sabe se está afim dele ou não.
 
-Através da narração inspirada do dublador da série animada BoJack Horseman, vamos acompanhar momentos ao lado de figuras marcantes, e muitas vezes essenciais. Estaremos cara a cara, e ao vivo, do lado de um micro-ondas, uma torradeira, uma luta de polegares, o interior de uma geladeira -- com uma salada de uma tal de Jéssica -- palavras cruzadas e quebra-cabeças, e até um motorista tentando estacionar o carro!
-
-Dentro da Netflix, começamos a entender de onde saem as brilhantes ideias. Adam Sandler realiza uma luta de polegares com uma desconhecida. Um rapaz arremessa as peças de um quebra-cabeças para o chão em um acesso de raiva inesquecível (e revisto em câmera lenta!). Um estagiário aponta dezenas de lápis em um provável setor de apontamento de lápis.
-
-A narração de Will Arnett não para por aí. Ele comenta fatos obscuros, desnecessários e descartáveis sobre sua própria vida, teoriza a vida daquelas pessoas e objetos que estamos observando. Chega a ser uma poesia sobre o vazio do tédio, ou a capacidade da mente humana em estar em constante movimento. É um trabalho ambicioso mesmo para os padrões Netflix (que "arrisca" tudo que pode em uma série que recicla e enlata resquícios dos anos 80 para seus nostálgicos fãs).
-
-Se você está entediado com a vida, não sabe que filme assistir e não possui nenhuma habilidade na vida para fazer algo de útil para o mundo, junte-se a nós! Aproveite cada segundo dessa empolgante experiência analisando o vazio da existência humana.
+De maneira semelhante, vemos festas da adolescência salpicadas com esse tipo de relacionamento, até que somos levados a uma conclusão trágica de uma das personagens, mas que nem de longe chega a ser o "Nervo à Flor da Pele" do equivocado título em português. Na verdade, o filme segue um ritmo bem leve para chegarmos a pensar que possui alguma pretensão dramática acima do exposto.
 

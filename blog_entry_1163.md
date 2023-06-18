@@ -1,16 +1,19 @@
 ---
 categories:
 - writting
-date: '2014-04-02'
-link: https://www.imdb.com/title/tt0091042
+date: '2023-01-26T09:56:35-03:00'
 tags:
+- cinemaqui
+- mostratiradentes
 - movies
-title: Curtindo a Vida Adoidado
+title: Curtas na Praça Série 2
 ---
 
-O diretor/produtor/roteirista John Hughes (Gatinhas e Gatões, Clube dos Cinco) é a cara da juventude da década de 80 e consegue expressar isso em cada um de seus filmes que aborda temas recorrentes entre os jovens. A consequência disso é que seus trabalhos daquela época se universalizaram, tanto que hoje temos fãs incondicionais de Ferris Bueller nascendo após ele sair do colégio. Não é difícil entendê-los. Assistir hoje à Curtindo a Vida Adoidado é poder captar sua mensagem sobre a vida sob o ponto de vista adolescente, mas, acima de tudo, o ponto de vista humano.
+Ferro’s Bar, de Cine Sapatão (Aline A. Assis, Fernanda Elias, Nayla Guerra e Rita Quadros)
 
-Dirigido e roteirizado por Hughes, o filme se passa no decorrer de um dia em que o garoto Ferris Bueller (Matthew Broderick) vai matar a aula pela nona vez esse ano. O diretor da escola (Jeffrey Jones) desconfia há tempos das desculpas de doenças de Bueller e hoje resolve tirar isso a limpo. Sua irmã odeia que o irmão sempre se safe de suas artimanhas e não fará o mínimo esforço para salvá-lo. Seu melhor amigo é o estresse em pessoa, mas assim mesmo vai emprestar a Ferrari do pai para o dia de folga. Ferris fala conosco todo o tempo, como se fizéssemos parte de tudo aquilo, o que nesse caso funciona muito bem ao nos trazer na emoção do momento. A câmera de Hughes é uma visão de mundo que flerta todo o tempo com a fantasia, e que continua mantendo sua síntese no número musical que é a alma do filme.
+Este curta documentário mantém um dinamismo e uma fluidez na narrativa invejável para muitos outros filmes da Mostra. Se trata do depoimento de 4 mulheres sobre o clima de um bar tolerante a lésbicas na década de 80 na cidade de São Paulo e o que se seguiu depois de um policial conservador invadir o lugar. Cada frase que uma termina emenda em uma cena ou na frase que outra começa. É enxuto, é eficiente, é emocionante. A construção do senso de direitos humanos e de que precisamos lutar por eles em pouquíssimos atos. E por isso mesmo poderoso.
 
-Acho que já falei sobre isso em O Clube dos Cinco, mas a grande virtude de Hughes é entender essa juventude e levá-la a sério nos mínimos detalhes de sua vida. Isso é o que torna Ferris Bueller's Day Off tão completo em sua mensagem aparentemente despretensiosa. Despretensiosos mesmas são as comédias românticas de hoje, que trata os jovens como completos imbecis.
+A Orquestra das Diretas, de Caue Nunes
+
+Mais um da série de cidadania e patriotismo é este causo que aconteceu durante as manifestações pelas Diretas Já na década de 80, que deu errado como resultado, mas certo como coesão democrática de várias frentes de cidadãos querendo mudanças. Entre elas a orquestra sinfônica de Campinas, que foi tocar nas manifestações e se conectar com o momento histórico de livre e espontânea vontade. O filme é lúdico e mantém uma ingenuidade que restabelece uma conexão com um passado democrático que por conta das bipolaridades da sociedade brasileira no momento está há décadas esquecido. Vale a reflexão.
 

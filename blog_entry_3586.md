@@ -1,22 +1,19 @@
 ---
 categories:
-- cooking
-date: '2020-01-04'
-tags: []
-title: Suspiro
+- writting
+date: '2023-03-23'
+tags:
+- wine
+title: Susana Balbo
 ---
 
-Esta é uma receita aprendida por um artigo do programa da Ana Maria Braga onde minha amiga chef confeiteira Silvana Oliveira dá dicas de como fazer este doce tão famoso.
+Almoço de domingo na casa de uma amiga com direito a quatro garrafas abertas depois de muitas horas de conversa. Foi uma ótima visita.
 
-Ingredientes: uma parte de claras para o dobro (em peso) de açúcar. Limão (raspas e suco), ou qualquer substância ácida para estabilizar as claras.
+Para começar abrimos um espumante, o Rosso Brut do Michel de Mas, a vinícola orgânica de San Juan que conhecemos em nossa viagem para a Argentina ano passado. É um espumante de Malbec, algo bem raro, e bem doce até. Deveria ter aberto no ano novo. Achei bem saboroso, mas vinhos assim perdem sutileza e potência no sabor. É mais um luxo extravagante.
 
-Preparo do Merengue Francês: bater as claras em neve adicionando açúcar aos poucos, colocando também um pouco de raspas de limão e o suco.
+Para o almoço abrimos um Susana Balbo que peguei na loja do Shopping Palmares em Mendoza na promoção para preencher os vinhos que davam direito ao desconto. O sabor estava deliciosamente equilibrado e sóbrio, mas ao mesmo tempo trazia um frutado elegante em um corpo bojudo, de vinho Mendocino ou sul-americano, aquele corpo agressivo que não se encontra na Europa.
 
-Preparo do Merengue Suíço: derreter o açúcar na clara em banho maria até 57 graus ou não ver mais o açúcar, podendo mexer com o fouet, colocando durante um pouco de raspas de limão com o suco. Bata no liquificador na velocidade máxima para esfriar e dar o ponto por cerca de 10 minutos.
+E digo isso porque logo depois abrimos um vinho europeu, o Lá Cittadella. Europeu porque seu rótulo diz ser da zona do euro, que é o que acontece quando as uvas são produzidas em um país e o vinho em outro (mas ambos da União). No entanto, importante notar, o rótulo estava em italiano. Neste caso é um vinho com corpo bem mais leve, gostoso de tomar sozinho mesmo.
 
-Preparo do Suspiro: divida em colheradas de tamanhos à sua escolha (quando maior mais lento o processo) e leve ao fogo pré-aquecido a 120 graus (se não puder ser tão baixo deixe a porta levemente aberta) por entre meia-hora e uma hora e meia.
-
-Armazenamento: recipientes completamente fechados para não pegar umidade.
-
- - 2019-12-30 Bati pela segunda vez o merengue suíço e aprendi que depois de secar no forno com a porta levemente aberta não se deve fechar para secar mais, pois pode queimar e ficar seco demais. O melhor resultado foi mantendo com a porta aberta até a superfície poder ser tocada com os dedos. Dentro ficou úmido e depois de um dia ou mais ficou grudento.
+A última garrafa foi um Santa Carolina ou algo do gênero. Fácil de tomar, mas difícil quando é a quarta garrafa. Porém, zeramos com orgulho.
 

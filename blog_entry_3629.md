@@ -1,122 +1,20 @@
 ---
 categories:
-- coding
-date: '2016-01-14'
-tags: null
-title: Templates em C no lugar de macros
+- writting
+date: '2016-10-21'
+link: https://www.imdb.com/title/tt4365518
+tags:
+- movies
+title: Tempestade de Areia
 ---
 
-A grande vantagem dos templates é manter o tipo de seus argumentos. Infelizmente, eles não existem na linguagem C, mas podem ser usados em construções C feitas com a linguagem C++, como ocorre com quem desenvolve device drivers para Windows.
+A filmografia por trás da cultura do Oriente Médio vira e mexe acaba girando em torno dos costumes antigos de uma cultura predominantemente "machista e opressora". Em Tempestade de Areia, isso não é diferente. Contudo, encarando como toda a questão desenvolvida pelo filme consegue ser aplicada a qualquer sociedade e qualquer costume, vemos que muitas das nossas próprias ações, nós, do "mundo civilizado do Ocidente", que acreditamos ser atribuída à nossa liberdade de escolha, são apenas reflexos de uma cultura que já existia antes de nós existirmos. Onde está o seu livre-arbítrio agora?
 
-Imagine, por exemplo, a estrutura [LIST_ENTRY](https://msdn.microsoft.com/en-us/library/windows/hardware/ff554296(v=vs.85).aspx), que é uma tentativa de generalizar não só o tipo de uma lista ligada, como seu posicionamento:
+A direção do estreante Elite Zexer torna tudo imediatista com sua câmera que não para (comparável com outro filme de destaque na região, "A Separação") e que observa a realidade quase sempre do ponto de vista da personagem mais atingida: a esposa mais velha. O filme começa com uma discussão entre o pai e a filha, que está tentando dirigir sendo a todo momento criticada por ele, que não coloca os olhos na estrada vazia. E a história continua com o pai tendo a opinião final de quase tudo que gira em torno de sua casa, a despeito de ser sua primeira esposa o pilar da família, a que cuida para que tudo funcione, que as crianças vão para a escola, etc.
 
-```
-typedef struct _LIST_ENTRY {
-  struct _LIST_ENTRY  *Flink;
-  struct _LIST_ENTRY  *Blink;
-} LIST_ENTRY, *PLIST_ENTRY;
-```
+As características físicas da velha esposa e da nova esposa já determinam quem está com a vida ganha e quem está sofrendo o martírio de uma vida não-escolhida por ela, mas que agora é sua inteira responsabilidade. Ela é o braço-direito de seu dono, e zela pelo futuro da filha mais velha, que está de namoro com um jovem de outra tribo. Quando a questão vem inevitavelmente à tona para o pai, a questão se complica e temos um conflito de liderança nas decisões basicamente culturais de "quem é que manda", ou melhor dizendo, "como as coisas devem ser feitas". A decisão nunca está nas mãos de alguém.
 
-A lógica por trás de LIST_ENTRY é que esse membro pode ser inserido em qualquer lugar da estrutura que representará um elemento:
+A interpretação de todos está impecável, mas é Ruba Blal que segura nas costas a responsabilidade de demonstrar as incongruências de um sistema criado há milênios e que hoje encontra problemas na realidade. o entanto, o filme é muito mais sobre os detalhes sutis do que essas pessoas precisam fazer para tentar valer suas próprias decisões em vez do que está escrito na pedra, e é nesse ponto que ele se encontra com a força dos costumes, seja em um povo tribal ou em uma megalópole, no campo, enfim, em qualquer lugar onde haja pessoas o suficiente para serem criadas regras que irão delinear como cada um deve agir.
 
-{{< image src="865mgsu.jpg" caption="" >}}
-
-Ele pode estar realmente no __meio__ do elemento, pois isso não importa, desde que você saiba voltar para o começo da estrutura. Isso é útil quando um elemento pode fazer parte de diferentes listas.
-
-```
-typedef struct _LIST_ENTRY {
-  struct _LIST_ENTRY  *Flink;
-  struct _LIST_ENTRY  *Blink;
-} LIST_ENTRY, *PLIST_ENTRY;
-
-struct MeuElemento
-{
-	int x;
-	int y;
-	LIST_ENTRY entry;
-	double d;
-	float f;
-};
-
-LIST_ENTRY g_head;
-
-int main()
-{
-	InitializeListHead(&g_head);
-}
-```
-
-OK, temos uma lista ligada cujo head está inicializado. Para inserir um novo item, podemos usar as rotinas InsertHeadList, AppendTailList, RemoveEntryList, PushEntryList, PopEntryList, etc. Enfim, uma infinidade de rotinas já cuidam disso para a gente.
-
-O que não temos é como acessar o elemento. Para isso usamos um truque bem peculiar na linguagem C, já disponível também em kernel:
-
-```
-#define CONTAINING_RECORD(address, type, field) \
-    ((type *)( \
-    (PCHAR)(address) - \
-    (ULONG_PTR)(&((type *)0)->field)))
-```
-
-Basicamente a macro obtém a partir do endereço zero o offset do membro que é a entrada da lista ligada e subtrai esse ofsset do endereço do próprio campo, ganhando de brinde o tipo de sua estrutura. Usando a macro com nossa estrutura:
-
-```
-void DoSomething(PLINK_LIST pEntry)
-{
-	MeuElemento* pElem = CONTAINING_RECORD(pEntry, MeuElemento, entry);
-}
-```
-
-#### Usando template
-
-Note que entry é o nome, literal, do membro na estrutura, e não há maneira possível com templates de obter isso. A solução? Usar um nome padronizado. O resultado final pode ser parecido com este:
-
-```
-template<typename T>
-T* ContainingRecord(PLIST_ENTRY pEntry)
-{
-    return ( reinterpret_cast<T*>( (char*)(pEntry) - (size_t)(&((T*)0)->entry)) );
-}
-```
-
-Em ação:
-
-```
-#include <iostream>
-
-using namespace std;
-
-typedef struct _LIST_ENTRY {
-  struct _LIST_ENTRY  *Flink;
-  struct _LIST_ENTRY  *Blink;
-} LIST_ENTRY, *PLIST_ENTRY;
-
-struct MeuElemento
-{
-	int x;
-	int y;
-	LIST_ENTRY entry;
-	double d;
-	float f;
-};
-
-LIST_ENTRY g_head;
-
-template<typename T>
-T* ContainingRecord(PLIST_ENTRY pEntry)
-{
-    return ( reinterpret_cast<T*>( (char*)(pEntry) - (size_t)(&((T*)0)->entry)) );
-}
-
-int main()
-{
-    auto newElem = new MeuElemento();
-    newElem->x = 42;
-    g_head.Flink = &newElem->entry; // inserindo um elemento
-    auto elem = ContainingRecord<MeuElemento>(g_head.Flink);
-
-    cout << "X is " << elem->x << endl;
-}
-```
-
-"Nossa, tudo isso para substituir uma macro já consagrada no WDK??" Sim, nesse post o objetivo não ficou muito útil. É apenas uma ideia de substituição possível de ser feita em macros em geral. Pode ser bem documentada, usada há 30 anos, mas ainda é uma macro. Meu conselho: se funciona bem, use. Se vai fazer algo novo, tente sempre templates.
+E se o final do filme parece triste é porque ele é a conclusão lógica do que acontece com cada um de nós, preso ao sistema social vigente. A última tomada não está enfocando a próxima geração à toa. É a triste constatação de que, enquanto inocentes, nada podemos inferir. No entanto, depois de crescidos, talvez isso não mude muita coisa, mesmo que a gente acredite piamente estar no controle da situação.
 

@@ -1,29 +1,35 @@
 ---
 categories:
 - coding
-date: '2010-04-10'
-tags:
-- english
-title: Using TodoList and Microsoft Project together
+date: '2007-11-21'
+title: Usando a libc nativa do Windows
 ---
 
-The next article about bits is still in the oven. Taking vacation (40 days) had drop me out of ideas! At the moment, I can explain the tips and tricks using  TodoList to manage my team and synchronize my tasks in a Microsoft Project timesheet.
+Por padrão, todo projeto no Visual Studio depende da libc. Isso quer dizer que, mesmo que você não use nem um mísero printf em todos os projetos criados, está atrelado a essa dependência. Em tempos onde fazer um "Hello World" pode custar 56 KB em Release - Visual Studio 2005, configuração padrão sem "buffer security check" - vale a pena economizar alguns KBytes que não se vão usar. Principalmente se essa possibilidade existe desde o cavernoso Windows 95.
 
-The reasons why I am using TodoList are kind of obvious: it does everything I need to organize my day to day tasks and it is portable. Meanwhile, the Project, besides not being portable (I need to carry on with me a 200 MB installer? And do install?) it uses a hard to change format and it was made to project the world, and not to be easily shared.
+Crie um novo projeto console Win32 vazio (File, New, Project, blá blá blá) e coloque um código de Hello, World nele. Configure para ele usar uma runtime estática e veja o tamanho do executável gerado.  Aqui após configurar um projeto ordinário que compila um executável console ordinário que não depende de runtimes novas (exceto a kernel32.dll) meu arquivo está com 96 KB.
 
-So, let's go. Everything we need is a current edition of TodoList and Microsoft Project. The first thing we must to do é to export the tasks we want to a default CSV, using the columns we would like to import to Project.
+    #include <stdio.h>
+    
+    int main()
+    {
+      puts("oi, mundo!\n");
+    } 
 
-After that it comes the tricky thing, but not so much. We open the project to where we want to import the tasks and choose the option Open again, but this time we select our friend exported-tasks.CSV.
+Desde o Windows 95, existe uma DLL na pasta de sistema chamada msvcrt.dll com a maioria das funções da libc disponíveis para link dinâmico. Só que, com o uso padrão do Visual C++, é usada sempre a biblioteca que vem junto com o ambiente, com suas trocentas funções (e consequentes bytes enche-linguiça). Porém, é possível utilizar diretamente a msvcrt.dll distribuída no diretório do sistema se criarmos uma LIB de importação para ela.
 
-Before we do import, we got to create a new column  that will keep the TodoList tasks IDs, to make sure that in the next imports we make we could merge datum together. So, create this column using a significant name.
+Tudo que você precisa fazer é gerar um msvcrt.def com as funções exportadas por essa dll usando o comando dumpbin.exe /exports msvcrt.dll e gerar uma lib de importação com o comando lib.exe passando no parâmetro /DEF o arquivo gerado. Abaixo um exemplo de como deve estar esse arquivo antes do comando lib /def:msvcrt.def:
 
-Now we can go on the import process. Imagining to be the first one, let's create a inicial map for this migration:
-
-The time we choose who is who in the columns list, we just need to setup which columns in Project are the counterpart for the columns in TodoList, and remember to allocate our special column ID.
-
-Just more a few Nexts and voilà! We got our tasks properly imported.
-
-But of course all this work would be useless if we had to (sigh) open the Project. To avoid this impure job, we keep on updating the project status in our tiny, tidy TodoList and, when we need, we just import the data again, but this time using a already saved map (follow the screenshots above) and setting our TodoList ID as the key. This way the tasks already present will be just updated, and the unknown tasks will be added. That's the most important trick in this post.
-
-After I researched all this, I just found out the Project won't be necessary anymore. Lucky me. Now, if you don't have such luck, you can use this post =)
+    LIBRARY msvcrt
+    EXPORTS
+    _CrtCheckMemory
+    _CrtDbgBreak
+    ...
+    wprintf_s
+    wscanf
+    wscanf_s
+    
+Depois desse último passo geramos a LIB que precisávamos e agora só falta integrar com o projeto. Copie o msvcrt.lib para o diretório do projeto e configure no projeto esse arquivo na lista de LIBs a serem incluídas (Properties, Linker, Input, Additional Dependencies). Lembre-se de ignorar todas as LIBs padrão (Linker, Input, Ignore All Default Libraries). Para evitar unresolved external em frescuras de segurança ignore as firulas de checagem (C/C++, Code Generation, Buffer Security Check, e Basic Runtime Checks em Debug). Antes de mais nada deixe explícito o nome da função de entrada de seu programa para main, pois do contrário ele irá usar um bootstrap que inicia a libc (Linker, Advanced, Entry Point), compile e linke. E voilà!
+    
+E agora o tamanho final de nosso executável passou para espantosos 3 KB! Isso a princípio parece ótimo e dá vontade de usar em todos os projetos, mas existe um porém ainda não resolvido: as limitações da falta de um runtime. Essa é uma solução bem bobinha que não tem nada a ver com uma solução profissional 100% garantida e com suporte técnico 24 horas. Algumas coisas não vão funcionar, como inicialização de variáveis estáticas, exceções, redirecionamento de entrada/saída, etc. Contudo, para projetos simples e pequenos, isso não deverá ser um problema. No entanto, eu não garanto qualquer coisa que advier de compilações inspiradas neste artigo.
 

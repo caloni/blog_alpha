@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2011-09-11'
-link: https://www.imdb.com/title/tt0472181
+date: '2015-12-12'
+link: https://www.imdb.com/title/tt0058182
 tags:
 - movies
-title: Os Smurfs
+title: Os Reis do Ié-Ié-Ié
 ---
 
-É difícil dizer isso, mas o filme dos Smurfs diverte bem mais que seu primo ilegítimo: Alvin e os Esquilos (e [continuações]). A ideia de pegar elementos de CG para fazer gracinhas junto com personagens de carne e osso (e cor de pele) quase sempre termina em tragédia premeditada, e isso explica em parte o desânimo dos meus amigos, que sequer cogitaram ir ver o filme nos cinemas.
+"Um filme é um documentário de sua época", dizia um crítico cujo nome não me recordo. No caso de "A Hard Day's Nigh", cinquenta anos depois, isso não poderia ser mais verdade.
 
-Porém, foi uma grata surpresa perceber que o roteiro de J. David Stem (e mais outros três roteiristas, no que está virando um padrão para adaptações) percebe que não há nada pior que uma obra auto-indulgente, e dessa forma constrói a história sem maiores reviravoltas ou sequer um conflito maior (em nenhum momento acreditamos de fato que os Smurfs não conseguirão voltar para seu reino feliz, ou que Gargamel irá acabar com algum deles).
+Dirigido por Richard Lester (Superman II), é o primeiro trabalho que o diretor realiza com os Beatles (mais tarde ele faria ainda Help! e Como eu Ganhei a Guerra, esse com John Lennon apenas). Ele retrata um dia na vida dos pop stars, quase sempre perseguidos por garotas onde quer que passem, e deixando seu empresário maluco com suas irreverências e fugas.
 
-Satisfeito em apenas retratar os Smurfs exatamente como eles sempre foram, resta ao diretor enfocar as cenas divertidas da atuação mais inspirada do longa: Hanz Azaria, na pele de Gargamel, o feiticeiro que tenta eternamente extrair a essência dos pequenos seres azuis e se tornar poderoso para dominar o mundo. Da mesma forma com que Mike Myers se diverte ao encenar o anti-herói de Austin Powers, da mesma forma Gargamel é um vilão clássico, que está aí exatamente para se dar mal.
+Várias gags são claramente inseridas ao acaso. A maior delas é um avô de Paul McCartney que viaja com os rapazes, e vive os colocando (e se colocando) em apuros, além de todos notarem que é um senhor "muito limpo".
 
-Portanto, dadas as devidas proporções, e ignorando uma ou outra falha de roteiro (como o uso artificial de um cachorro ou a relação "macabra" entre Gargamel e a chefe do pai-de-família do filme), Os Smurfs cumpre o que promete sem maiores voos. E faz muito bem.
+O fato é que Paul, John, George e Ringo eram rapazes carismáticos, e interpretando a si mesmos não parecia em nenhum momento uma tarefa difícil. O engenhoso desse trabalho é de fato o uso inventivo da câmera, que persegue os garotos usando enquadramentos e montagens que lembram o que hoje conhecemos como vídeo-clipes. Bom, não essa mídia naquela época. Logo, temos algo a mais nesse filme que nem o Cinema nem a TV ainda faziam. E o difícil aqui é não se sentir contagiado ou anestesiado com tanta energia natural que sai das inúmeras sequências agitadas do longa, quase sempre acompanhadas de uma trilha sonora.
 
-[continuações]: {{< relref "alvin-e-os-esquilos-na-estrada" >}}
+Recheado de sucessos do álbum homônimo, o maior atrativo são os momentos musicais. O filme é um documentário e um musical ao mesmo tempo, além de ser uma ficção neo-realista. Há muitos momentos gravados da banda, mas nenhum colocado no formato de filme. A Hard Day's Night é um legado que merece ser preservado.
 

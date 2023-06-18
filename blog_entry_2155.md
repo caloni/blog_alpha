@@ -1,20 +1,14 @@
 ---
 categories:
 - writting
-date: '2020-10-04'
-link: https://www.crunchyroll.com/love-is-like-a-cocktail
+date: '2021-05-22'
+link: https://www.imdb.com/title/tt14536118/
 tags:
-- animes
-title: Love is Like a Cocktail
+- series
+title: 'Love, Death & Robots: The Tall Grass'
 ---
 
-Fiquei muito empolgado com essa ideia de animes com episódios de três minutos. Três meros minutos. Enquanto isso a Netflix e o Prime Video nos bombardeiam com séries de uma hora de um irrelevante primeiro episódio que já dá vontade de parar no meio.
+Um conto de terror enxuto, eficiente, mas termina no efeito. Sem memórias para guardar, é a sensação o mote deste curta da série de robozinhos que matam seres humanos. Nesse episódio não há robôs, nem morte e muito menos amor.
 
-No entanto, três minutos acaba sendo pouco demais, enquanto ao mesmo tempo demonstra perfeitamente o que a geração atual aprecia: ideia rápidas, misturadas e que não os façam pensar demais. Apenas os memes, por favor.
-
-Nesse sentido Love is Like a Cocktail é um anime com uma ideia simples: o marido cozinha e é um barman caseiro que premia sua esposa ao voltar do trabalho com belas bebidas, alcóolicas ou não. Cada bebida para uma ocasião. E o espectador ainda tem direito à receita =).
-
-Nos primeiros três ou quatro episódios acaba entretendo, mas eventualmente começa a faltar a substância de narrativas mais elaboradas. Claro que eu não sou dessa geração e sinto falta. Mas entendo a proposta.
-
-Mal espero quando começarem as séries com alguns segundos o episódio. Ops, já chegou. Se chama Tik Tok.
+Eu implico com o título da série porque ela não é honesta. What you see is not what you get. Este episódio é um ótimo exemplo, já que ficaria bem melhor do catálogo de Contos de Cripta. Ele une o grotesco com o incrível e entrega uma sensação. A fala mais emblemática é a última: "eles não acreditariam, mesmo."
 

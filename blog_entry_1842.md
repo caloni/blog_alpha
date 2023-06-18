@@ -1,46 +1,24 @@
 ---
 
-O [Fabio Montefuscolo](https://gist.github.com/fabiomontefuscolo) expandiu mais ainda o acesso do conversor Houaiss para Babylon implementando uma versão em Python, uma linguagem que estou aprendendo a adorar. Tudo é mais simples, rápido e direto em Python, e o [código que ele escreveu](https://gist.github.com/fabiomontefuscolo/9234485) utiliza todo esse potencial:
+Os últimos comentários de Henrique Esteves (quando havia seção de comentários no blogue) sobre o HouaissParaBabylon me fizeram dar mais uma fuçada nele e ver se tento deixá-lo compatível com o Houaiss 3. Foram apenas algumas horas e acho que resolvi os probleminhas relacionados com a troca do registro de instalação e o nome dos arquivos que armazenam os verbetes.
 
-```
-#!/usr/bin/python2
-# -*- coding: utf-8 -*-
+Apenas para constar, segue a lista de artigos sobre este projeto:
 
-#
-# Coloque esse script na pasta com os arquivos dhx.
-# O resultado estarÃ¡ em iso-8859-1
-#
+  * Conversor de Houaiss para Babylon - parte 1
+  * Conversor de Houaiss para Babylon - parte 2
+  * Segunda versão do Houaiss2Babylon
+  * HouaissParaBabylon versão beta
+  * HouaissParaBabylon versão 1.1
 
-#
-# Segui o tutorial em http://www.caloni.com.br/conversor-de-houaiss-para-babylon-parte-1
-#
+Foi uma odisseia e tanto. E ainda está longe de ser perfeito. Contudo, fico feliz que muitas pessoas já tenham conseguido usá-lo com sucesso e com a qualidade técnica dos meus visitantes. O Henrique, por exemplo, teve que entender o processo interno que o programa faz para renomear os arquivos do dicionário e assim conseguir a conversão. Pessoas como essa faltam na equipe de suporte técnico de programadores de baixaria.
 
-import os
+Isso me faz lembrar que uma das motivações do programador, fora programar, é saber que os usuários usam seu programa. E saber que existem melhorias a ser feitas que vão ser úteis para esses usuários é muito legal. Por isso, continuem assim, caros usuários. E bom proveito!
 
-files = os.listdir('.')
-
-for arq in files:
-    if not arq.endswith('dhx'):
-        continue
-
-    print 'Abrindo "%s"' % arq
-    origin = open(arq, 'r')
-    target = open('%s.txt' % arq, 'w+')
-
-    char = origin.read(1)
-    while char:
-        byte = ord(char) + 0x0B
-        new_char = chr(byte % 256)
-        target.write(new_char)
-        char = origin.read(1)
-
-    origin.close()
-    target.close()
-
-```
+Obs.: Essa versão foi testada em um Windows XP com o Houaiss 3, Babylon 8 e o Babylon Builder mais atual.
 
 ---
-categories: []
-date: '2008-12-30'
+categories:
+- coding
+date: '2014-02-27'
 tags: null
-title: HouaissParaBabylon versão 1.1
+title: Houaiss para Babylon em Python!

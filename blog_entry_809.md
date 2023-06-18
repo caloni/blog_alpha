@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2021-12-18T22:22:31-03:00'
+date: '2019-07-01'
 tags:
-- movies
-title: Cairo 678
+- food
+title: Cafeteria Gourmet
 ---
 
-Filme sobre assédio sexual das mulheres no Egito. Baseado em eventos reais, mas a direção junta tudo com coincidências e acontecimentos fantásticos e torna tudo um novelão. Há um investigador que dá uma olhada em dois ônibus com um pouco de sangue no chão e já assume estar no encalço de uma serial killer de abusadores do coletivo. É engraçado ver como o assunto é tratado de forma tão séria. Há idiossincrasias na sociedade egípcia que podem tornar a história bem regional. Os assediadores reclamam que não têm dinheiro para casar. Não há prostitutas no Cairo? Será essa uma crise econômica antes de moral por falta de oferta de mulheres para equilibrar os desejos sexuais dos homens? Até um homem casado não tem aquilo que espera de sua própria esposa (você sabe... aquilo). No final o filme entra na prateleira de feminismo das locadoras: uma mulher corta o cabelo.
+Na parte de cima do mercado municipal de Poços de Caldas imita a tendência atual de ter vários métodos de extração, como Hario V60 (coado) e Aeropress (coado com brutalidade) e até a brasileira Pressca! Provei dois espresso deles: Bourbon Amarelo e Caujaí Vermelho. O Bourbon possui um pouco de acidez e final semi-amargo em corpo suave, enquanto o Caujaí é menos ácido, mais doce e com um corpo mais equilibrado. Trouxe 250g do Bourbon para dar uma olhada mais de perto.
 

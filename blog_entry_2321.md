@@ -1,24 +1,120 @@
 ---
 categories:
-- writting
-date: '2019-10-17'
-link: https://www.imdb.com/title/tt6851430
-tags:
-- cinemaqui
-- mostra
-- movies
-title: Meu Verão Extraordinário Com Tess
+- coding
+date: '2009-05-20'
+tags: null
+title: Meu roteiro C++
 ---
 
-Meu Verão Extraordinário com Tess é uma comédia leve, de amadurecimento, baseada no livro de Anna Woltz que deve ser tão gostoso de ler quanto o verão, fictício ou não, que Sam passou naquela praia.
+Como não consigo mais ter ideias para artigos, resolvi catalogar todas as coisas que já falei nesse blogue e, o mais importante, todas as coisas que ainda não falei nesse blogue (e espero um dia falar ou talvez nunca fale), começando por C++, que era o intuito original (só que não é mais, porque eu uso mais a Win32 API que a STL):
 
-Com cores quentes sem exagerar para a fantasia, mas uma fotografia clara que ressalta o brilho da areia iluminando as roupas adolescentes da jovem e contagiosa Tess, esta é uma comédia sutil que não gera gargalhadas, apenas sorrisos, e o humor funciona através de uma doce melancolia do pequeno Sam, que já pensa desde seu primeiro dia de férias em sua inevitável morte.
+#### C++
+    
+  * História
+    
+    * [A linguagem BCPL]
+    * [O código-objeto]
+    * [A linguagem B]
+    * [A "função" char]
+    * [O primeiro printf da história]
+    * [A linguagem C]
+    * [A linguagem C++]
+    * As influências
+    
+  * Conceitos
+    
+    * [O conceito programa]
+    * [O código-objeto]
+    * [Processo de compilação]
+    * [Declaração x definição]
+    * [Tipos]
+    * [Lvalue x Rvalue]
+    * [A passagem por valor]
+    * [Ponteiros]
+    * [Estruturas e classes]
+    * Espaços de nomes
+    * [Polimorfismo estático]
+    * [Herança]
+    * [Polimorfismo dinâmico]
+    * [Iteradores]
+    * [Função-objeto]
+    * [Templates]
+    * Algoritmos genéricos
+    * Qualificadores (traits)
+    * [O conceito RAII]
+    
+  * Linguagem
+    
+    * [O operador de subscrito]
+    * [A proteção protected]
+    * [Sizeof e strings literais]
+    * [Uso de reflexão com typeid]
+    * [Typeid e o polimorfismo]
+    * [Ponteiros de método]
+    * [Ponteiros de método e o this]
+    * [Try-catch fora do corpo da função]
+    * [Sobrecarga de operadores]
 
-Sua preocupação pode já ter passado pela sua cabeça alguma vez na infância, naquela época que devaneamos facilmente. Com certeza passou pela minha: depois que meus pais morrerem serei apenas eu no mundo, solitário, aguardando minha própria morte. O que talvez não tenha passado pelas nossas cabeças, mas passou pela de Sam, é fazer algo a respeito. E o seu plano, aproveitando seu tempo de folga com a família, é treinar a solidão, ficando duas, quatro, dez horas sozinho, aumentando o tempo a cada dia. Essa é a melhor forma de nos fazer pensar a respeito da solidão iminente. Além de ser uma péssima maneira de passar as férias de verão.
+  * Biblioteca
 
-Mas quando ele encontra Tess, uma garota de sua idade, seus planos correm risco de serem adiados, pois ela tem seus próprios planos, e mais urgentes. Criada pela mãe solteira, Tess descobriu quem é seu pai e o atraiu para onde ela mora para conhecê-lo melhor. Enquanto Sam, como a própria Tess e sua mãe gostam de falar, tem um "típico problema de homem", essa garota de 12 anos literalmente faz as coisas acontecerem em sua volta, e a amizade entre os dois cresce de uma maneira torta, e por isso mesmo admirável.
+    * [Biblioteca C no Windows]
+    * [Mobilidade da pilha com prinff]
+    * [Erros comuns de iteradores]
+    * STL
+    * Boost
+    
+  * Dicas
+    
+    * [Erros comuns de iniciantes]
+    * [Ponteiro nulo em entrevistas]
+    * [Nem todo ponteiro nulo é inválido]
+    * [Decifrando código obscuro]
+    * [Usando do-while para evitar erros de macro]
+    * [Sobrecarga por tipo de retorno]
 
-O roteiro de Laura van Dijk adapta o livro de Anna Woltz e consegue unir todos os elementos acerca da discussão sobre solidão de Sam em um filme que nunca para de te surpreender. Um evento puxa o outro e sempre estamos curiosos com seus personagens. É daqueles trabalhos que celebra a vida acima de tudo, e valoriza seus momentos. Por isso mesmo a edição é ágil, unindo os melhores planos do diretor Steven Wouterlood, que evoca significado sem diálogos. Vemos Sam sozinho na praia e de repente o brilho das areias dá lugar ao escuro lodo que ele visita.
+Espero que isso me ajude a continuar completando as lacunas do saite. Se não der certo, pelo menos já sei o que fiz.
 
-Há uma certa profundidade em "Meu Verão" que cativa nossos pensamentos ao mesmo tempo que diverte. Este pode ser um filme para crianças e jovens, tão bem quanto para adultos, desde que eles estejam tão intereressados na vida quanto Sam e Tess.
+Sugestões?
+
+[A linguagem BCPL]: {{< relref "historia-da-linguagem-c-parte-1" >}}
+[O código-objeto]: {{< relref "historia-da-linguagem-c-parte-1" >}}
+[A linguagem B]: {{< relref "historia-da-linguagem-c-parte-2" >}}
+[A "função" char]: {{< relref "historia-da-linguagem-c-parte-2" >}}
+[O primeiro printf da história]: {{< relref "historia-da-linguagem-c-parte-2" >}}
+[A linguagem C]: {{< relref "the-c-programming-language" >}}
+[A linguagem C++]: {{< relref "a-linguagem-de-programacao-cpp-o-inicio" >}}
+[O conceito programa]: {{< relref "guia-basico-para-programadores-de-primeiro-int-main" >}}
+[O código-objeto]: {{< relref "historia-da-linguagem-c-parte-1" >}}
+[Processo de compilação]: {{< relref "os-diferentes-erros-na-linguagem-c" >}}
+[Declaração x definição]: {{< relref "declaracao-x-definicao" >}}
+[Tipos]: {{< relref "basico-do-basico-tipos" >}}
+[Lvalue x Rvalue]: {{< relref "rvalue-e-o-novo-lvalue" >}}
+[A passagem por valor]: {{< relref "passagem-por-valor-e-emails-com-anexo" >}}
+[Ponteiros]: {{< relref "basico-do-basico-ponteiros" >}}
+[Estruturas e classes]: {{< relref "estruturas-vs-classes-fight" >}}
+[Polimorfismo estático]: {{< relref "polimorfismo-estatico" >}}
+[Herança]: {{< relref "classe-objeto-contexto-metodo-polimorfismo" >}}
+[Polimorfismo dinâmico]: {{< relref "vtable" >}}
+[Iteradores]: {{< relref "se-iterando-com-os-pseudo-ponteiros-uma-breve-introducao" >}}
+[Função-objeto]: {{< relref "sobrecarga-de-funcao-as-avessas" >}}
+[Templates]: {{< relref "gabaritos" >}}
+[O conceito RAII]: {{< relref "aquisicao-de-recurso-e-inicializacao" >}}
+[O operador de subscrito]: {{< relref "curiosidades-inuteis-o-operador-de-subscrito-em-c" >}}
+[A proteção protected]: {{< relref "protecao-dos-membros-protected" >}}
+[Sizeof e strings literais]: {{< relref "sizeof-de-novo" >}}
+[Uso de reflexão com typeid]: {{< relref "reflexao-em-c" >}}
+[Typeid e o polimorfismo]: {{< relref "typeid-e-os-perigos-do-nao-polimorfismo" >}}
+[Ponteiros de método]: {{< relref "ponteiros-de-metodo-conceito-fundamental" >}}
+[Ponteiros de método e o this]: {{< relref "ponteiro-de-metodo-qual-this-e-usado" >}}
+[Try-catch fora do corpo da função]: {{< relref "try-catch-flutuante" >}}
+[Sobrecarga de operadores]: {{< relref "sobrecarga-de-funcao-as-avessas" >}}
+[Biblioteca C no Windows]: {{< relref "usando-a-libc-nativa-do-windows" >}}
+[Mobilidade da pilha com prinff]: {{< relref "a-mobilidade-das-variaveis-no-printf" >}}
+[Erros comuns de iteradores]: {{< relref "iteradores-nao-sao-constantes" >}}
+[Erros comuns de iniciantes]: {{< relref "os-diferentes-erros-na-linguagem-c" >}}
+[Ponteiro nulo em entrevistas]: {{< relref "codigos-de-entrevista-o-ponteiro-nulo" >}}
+[Nem todo ponteiro nulo é inválido]: {{< relref "quando-o-ponteiro-nulo-nao-e-invalido" >}}
+[Decifrando código obscuro]: {{< relref "desconstruindo-ioccc" >}}
+[Usando do-while para evitar erros de macro]: {{< relref "aquele-do-while-engracado" >}}
+[Sobrecarga por tipo de retorno]: {{< relref "sobrecarga-de-funcao-as-avessas" >}}
 

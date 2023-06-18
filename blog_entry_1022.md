@@ -1,20 +1,35 @@
 ---
 categories:
-- writting
-date: '2018-08-28'
-link: https://www.imdb.com/title/tt8792492
+- coding
+date: '2023-04-09'
 tags:
-- movies
-title: Como é Cruel Viver Assim
+- interview
+title: Como descobrir se uma string é mutuamente rotativa
 ---
 
-Um "pai de família" procura um emprego de taxista. E nem como taxista ele é aceito. Então ele caminha pela rua, observa os transeuntes em uma praça, e avista uma senhora idosa vendendo alguma coisa de aspecto sujo em uma forma levantada pelo seu único braço. O outro braço ela não tinha. Ele tem um insight, e decide que precisa fazer um sequestro para conseguir ter meios para viver.
+Uma string mutuamente rotativa é uma string que se rotacionarmos para a direita ou para a esquerda, com os caracteres "indo parar" do outro lado, é comparável com a string original. Exemplos:
 
-O filme de Julia Rezende baseado na peça de Fernando Ceylão (que assina o roteiro) não deixa de ser teatral, por ter muitas falas, embora os cenários e a movimentação estilo "câmera na mão" aliado a enquadramentos distorcidos daquelas pessoas tentem tornar a história mais dinâmica e mais caricata. Consegue parcialmente. Quem completa é a fotografia de Dante Belluti, que narra uma comédia usando tons opacos que deixam o humor triste.
+ - "abacate" é mutuamente rotativa com "cateaba";
+ - "roma" é mutuamente rotativa com "maro";
+ - "ab" é mutuamente rotativa com "ba";
+ - "123456" é mutuamente rotativa com "456123".
 
-Isso porque, apesar de ser comédia, "Como é Cruel Viver Assim" tenta ao mesmo tempo ser uma crítica social sobre as injustiças do mundo. Conseque parcialmente. As interpretações inspiradas de Silvio Guindane, como o Primo (esse é o apelido dele) do protagonista que mora com a mãe protetora e tem problemas de temperamento, e de Fabiula Nascimento, como Clivia, a esposa amorosa que faz comentários aleatórios a qualquer hora do dia, pincelam de maneira tão carismática e realista aquele mundo de desajustados tentando sobreviver que ambos já valem o ingresso.
+Há alguns passos simples e um código esperto que consegue verificar isso. Os passos são os seguinte:
 
-Esta é uma história que você já viu tantas e tantas vezes: filme de sequestro. O planejamento, o contato com o pessoal do crime e, obviamente, quando as coisas dão errado. É por isso que essa pincelada de realidade brasileira, ou melhor dizendo, carioca, é tão vital para tornar o resultado acima da média. Se bem que, vez ou outra, a história tropece em momentos onde o humor escracha, como uma ponta de Otávio Augusto como "O Velho" que tenta ser uma caricatura de Poderoso Chefão de pobre, sentado imponente na metade de uma banheira acariciando um gato mais bem cuidado do que ele. E é uma ponta porque, veja bem, O Velho aparece e some da história em uma cena.
+ - Inicialize as duas strings em duas variáveis;
+ - Veja se o tamanho das duas é similar (se não retorne false);
+ - Junte a primeira string com ela mesma (s = s + s);
+ - Verifica se a segunda string existe na string duplicada;
+ - Se existir quer dizer que uma é rotação da outra.
 
-A parte mais corajosa do filme é seu final, inesperado e que faz o espectador refletir por mais tempo que todo o resto. É um final que nos avisa que esta foi apenas uma janela na vida daquelas pessoas, que vão continuar vivendo nessa tragicomédia leve até o final de suas vidas.
+Ficou confuso? Vai ficar mais simples ao ver a implementação em C++:
+
+```
+bool RotationMutually(string s1, string s2)
+{
+    if (s1.size() != s2.size()) return false;
+    s1 += s1;
+    return s1.find(s2) != s1.npos;
+}
+```
 

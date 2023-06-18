@@ -1,24 +1,27 @@
 ---
 categories:
 - writting
-date: '2018-01-23'
-link: https://www.imdb.com/title/tt0469494
+date: '2022-08-28T19:07:42-03:00'
 tags:
-- movies
-title: Sangue Negro
+- series
+title: Sandman
 ---
 
-Com uma longa introdução sem falas que praticamente diz tudo que precisamos saber do protagonista para entender seus atos durante toda a longa, mas empolgante, história de sua ascensão na indústria do petróleo, Sangue Negro não perde o ritmo e o significado em nenhum momento. Sua fotografia é delineada por sombras e contornos nítidos no horizonte, sempre a nos lembrar do óleo negro, implícito em cada cena, mesmo que não esteja lá. E, quando está, não raro impregna a face das pessoas ou até as fere. Até a trilha sonora, baseada em sons ritmados, evocam a todo o momento as bombas puxando o petróleo para a superfície.
+Para compor o elenco dessa produção a Netflix encomendou um navio negreiro privado, como nos velhos tempos. Um navio com superlotação de mulheres. Chama a atenção de um jeito ruim, pois falta significado exceto o mercadológico, pois grandes corporações como a gigante de streaming estão há uma década seguindo a tendência, que a essa altura deve ter se provada lucrativa.
 
-A fotografia do filme começa sépia, mas aos poucos se suja com o ouro negro. O filme de Paul Thomas Anderson (Embriagado de Amor) não é fácil de acompanhar, pois nos apresenta um vilão protagonista que é um mecanismo para a geração de riqueza na sociedade. Pior que isso só a igreja parasita (na figura do ótimo Paul Dano) que se vê no direito de sequestrar mentes e almas dessa mesma sociedade.
+Para colocar o suporte de segundo escalão em alto relevo a série escala por contraste atores brancos de pouca expressividade como o mocinho e os vilões. Sandman, o personagem-título sem ser protagonista interpretado por Tom Sturridge, faz biquinho quando está nervoso e seu arqui-inimigo, ou algo que o valha, Coríntio, interpretado por Boyd Holbrook, sorri como o vilão do primeiro Vingadores (Logan?), filme da Marvel que comprovou que para ser um vilão de sucesso basta mostrar os dentes. Coríntio mostra os lábios. E é gay. Há mais cenas sensuais com gays do que hétero, o que é outro sintoma mercadológico.
 
-Esta é a história de um homem com a moral retorcida. Ele demonstra isso desde o começo, quando após um acidente um pai é morto e ele adota o recém-órfão para facilitar seus negócios com uma criança pequena, símbolo de homem de família. Seu objetivo é vencer as grandes companhias de petróleo da época, Stardard Oil e Union, mas para isso ele sozinho precisa cometer todos os crimes, o que o torna um monstro em vez de uma instituição de respeito.
+Talvez eu esteja pegando no pé de fatos irrelevante para uma série baseada nos quadrinhos. As atuações em obras do gênero deixaram de ser importantes desde... séries da Marvel? O importante é o universo. E o quanto os fãs se sentem acariciados (isso foi gay).
 
-O que Sangue Negro pode parecer do começo ao fim é um discurso anti-capitalista sem causa, mas o que ele verdadeiramente se torna está mais próximo da antropomorfização de um sistema que não enxerga ética ou moral. Nesse sentido tanto mega-corporações malvadonas ou governos injustos entram nesse balaio quando os fins justificam os meios. A diferença no julgamento do espectador é apenas se ele gosta ou não dos fins. Uma diferença meramente estética.
+Nesse caso o universo de Morpheus, o deus do sono, é particularmente atraente. Ele mantém um nível filosófico invejável, empacotado em frases de autoajuda, mas se sai melhor que o porre dos filmes do Zack Snyder e seus heróis de capa. Isso acontece porque esses são seres de outro mundo, não humanos fantasiados. Se bem que até o Homem de Aço nas mãos de Snyder consegue ser um sonífero involuntário.
 
-O personagem de Daniel Day-Lewis é um homem simples que vai construindo sua própria fortuna. Ele pisa sobre a simplicidade do homem do campo e da igreja. Ele não apenas os ignora, mas faz questão de deixar isso claro. Ele não suporta seus concorrentes e possui complexos a ser resolvidos. Ameaça de morte um negociante dessas gigantes do óleo porque para ele ou é do seu jeito ou é de jeito nenhum.
+Eles são eternos e seus dramas não são sobre questões de vida ou morte, ou até questões humanas como justiça. Eles já nascem com funções definidas. A pegada desses autoproclamados Perpétuos é sobre a magia de acompanhar uma narrativa sem poder alterá-la. E a graça é eles mudarem de qualquer jeito.
 
-A trilha sonora é pitoresca. Ela exala a personalidade do sujeito com notas soltas, repetição de padrões mecânicos e uma melancolia eterna. PTA faz questão de tornar a trajetória deste capitalista uma coisa feia a ser evitada. Mas para isso ele precisa ignorar que todos que passam por ele são ovelhas estúpidas esperando para serem sacrificadas. Este é um oferecimento do cristianismo.
+O início da série peca por nos jogar na ação de heróis que não ligamos. Sandman é preso, mas nem conhecemos esse sujeito, e ele conhece Constantine fazendo exorcismo no casamento da princesa inglesa, mas todo mundo some antes da metade da temporada. Existe um jogo de simplificação de histórias, referências e homenagens rolando aqui. E muita pressa em fechar arcos.
 
-Dito isto, é preciso agora voltar os olhos novamente para Daniel Plainview, encarnado até o osso por um Daniel Day-Lewis com um vigor/ganância sem fins. A grandeza de seus obstáculos, como a igreja e as grandes companhias, apenas reforçam a quase insanidade desse homem e servem de exato contraponto para medirmos o grau de maldade que se esconde por trás do seu até certo ponto melancólico personagem. Um outro grande feito do filme é conseguir usar um vilão como O Protagonista, onde encontramos eco em talvez Cidadão Kane (mais pelo benefício da dúvida, embora em Kane sigamos os rastros de testemunhos, e não a própria visão do personagem-título).
+Um dos motivos é a falta de substância em histórias para quadrinhos. Não dá para gastar tanto tempo em arcos muito rasos. Outro motivo são os gastos com a produção, que esbanja efeitos visuais invejáveis para uma série de TV. Em alguns momentos chega a ser mais convincente que muitos filmes recentes de supers. Não precisamos pesquisar quanto isso custou. A resposta é "mais do que deveria".
+
+E o resultado são altos e baixos em um universo com momentos que dão apenas um gostinho do que seria uma temporada apenas com alguns personagens. O arco de Rose Walker, por exemplo, a única protagonista da primeira temporada (que surge da metade para o final), é uma vibração de energias que se esvai bem rápido. Há pouco cinismo no ar e muita fantasia, lembrando conteúdo infantil. Há uma casa de pessoas peculiares para ajudar nessa imersão que lembra Tim Burton sem criatividade.
+
+Com uma estrutura no roteiro deficitária -- para não dizer uma zona -- e um universo repleto de ideias fascinantes que compõem historietas que fariam mais sentido em uma antologia que não se preocupa em contar uma história maior, Sandman é uma boa surpresa em adaptações. Ele promete uma certa densidade e cumpre. Seu tom dark é mais do que espectadores de TV mereceriam. E parte desse mérito vem do navio negreiro. Muito bem, Srs. brancos produtores.
 

@@ -1,120 +1,24 @@
 ---
 categories:
-- coding
-date: '2009-05-20'
-tags: null
-title: Meu roteiro C++
+- writting
+date: '2017-10-29'
+link: https://www.imdb.com/title/tt0102492
+tags:
+- movies
+title: Meu Primeiro Amor
 ---
 
-Como não consigo mais ter ideias para artigos, resolvi catalogar todas as coisas que já falei nesse blogue e, o mais importante, todas as coisas que ainda não falei nesse blogue (e espero um dia falar ou talvez nunca fale), começando por C++, que era o intuito original (só que não é mais, porque eu uso mais a Win32 API que a STL):
+A morte pode ser um catalisador de emoções. Através dela passamos por uma transformação dentro de nós que ao mesmo tempo que nos enfraquece pela dor insuportável também nos fortalece pela nossa capacidade de sobreviver. E no fim de um processo de luto algo maravilhoso acontece: voltamos para a vida mais fortes. De vez em quando iremos mexer nessa ferida do passado, e certamente irá sangrar. Mas é através desse sangue que fazemos novos pactos com os que ainda estão vivos. Porque no fundo de todos nós não há muitas diferenças. Somos humanos; estamos condenados a viver sabendo que um dia iremos morrer. Ou pior: os que nos cercam também irão.
 
-#### C++
-    
-  * História
-    
-    * [A linguagem BCPL]
-    * [O código-objeto]
-    * [A linguagem B]
-    * [A "função" char]
-    * [O primeiro printf da história]
-    * [A linguagem C]
-    * [A linguagem C++]
-    * As influências
-    
-  * Conceitos
-    
-    * [O conceito programa]
-    * [O código-objeto]
-    * [Processo de compilação]
-    * [Declaração x definição]
-    * [Tipos]
-    * [Lvalue x Rvalue]
-    * [A passagem por valor]
-    * [Ponteiros]
-    * [Estruturas e classes]
-    * Espaços de nomes
-    * [Polimorfismo estático]
-    * [Herança]
-    * [Polimorfismo dinâmico]
-    * [Iteradores]
-    * [Função-objeto]
-    * [Templates]
-    * Algoritmos genéricos
-    * Qualificadores (traits)
-    * [O conceito RAII]
-    
-  * Linguagem
-    
-    * [O operador de subscrito]
-    * [A proteção protected]
-    * [Sizeof e strings literais]
-    * [Uso de reflexão com typeid]
-    * [Typeid e o polimorfismo]
-    * [Ponteiros de método]
-    * [Ponteiros de método e o this]
-    * [Try-catch fora do corpo da função]
-    * [Sobrecarga de operadores]
+Essa história de férias chega exatamente como o verão: inocente, despretensioso. Gostoso de viver. Acompanhamos estes dias através dos olhos de Vada Sultenfuss (Anna Chlumsky), uma menina de pouco mais de onze anos que amadurece mais rápido que suas colegas de escola. Também, pudera: ela está acostumada a conviver com a morte desde que nasceu. Seu pai (um contido e competente Dan Aykroyd), viúvo, cuida de uma funerária em sua própria casa, e Vada inicia sua narrativa falando de todos os seus sintomas para o pai, que prepara seu café da manhã. No final ela conclui: "pai, isso só quer dizer uma coisa: estou morrendo". Sua resposta: "querida, me passe a maionese da geladeira".
 
-  * Biblioteca
+Os primeiros cinco minutos do filme já introduzem a hipocondria de Vada, sua amizade improvável com Thomas J., um garoto "alérgico a tudo" (Macaulay Culkin, mais fofo do que em Esqueceram de Mim) e a vinda de uma potencial madastra, ou seja, um conflito (Jamie Lee Curtis, muito bem por sinal). Ah, e também sabemos que Vada está perdidamente apaixonada pelo seu professor, Mr. Bixler. Ela quer ser escritora quando crescer e frequenta seu curso de poesia nas férias.
 
-    * [Biblioteca C no Windows]
-    * [Mobilidade da pilha com prinff]
-    * [Erros comuns de iteradores]
-    * STL
-    * Boost
-    
-  * Dicas
-    
-    * [Erros comuns de iniciantes]
-    * [Ponteiro nulo em entrevistas]
-    * [Nem todo ponteiro nulo é inválido]
-    * [Decifrando código obscuro]
-    * [Usando do-while para evitar erros de macro]
-    * [Sobrecarga por tipo de retorno]
+Os passeios de bicicleta entre Vada e Thomas J. evocam uma nostalgia poderosa pela cidadezinha onde moram, pela linda árvore próxima ao lago e por como tudo isso é melhorado pelo diretor de fotografia Paul Elliott (Bravura Indômita), que usa aqui um filtro que mescla o onírico (que mistura as cores dos cenários e dos personagens) com o calor gostoso do verão e as cores que surgem pelo escaldante sol. Tudo isso é acompanhado pela seleção de músicas que beira o clichê, mas que certamente hoje se transformou em uma trilha de clássicos do cinema, e que fazem parte de um elegante passeio por uma época.
 
-Espero que isso me ajude a continuar completando as lacunas do saite. Se não der certo, pelo menos já sei o que fiz.
+E Meu Primeiro Amor flerta a todo momento como um filme piegas, o que seria a coisa mais arriscada que um filme de verão poderia fazer. Porém, a presença de tela de Anna Chlumsky e de Macaulay Culkin, capturados em seus melhores ângulos das melhores tomadas, conseguem fortalecer a poderosa ideia de que este trabalho do diretor Howard Zieff (em seu penúltimo trabalho) não está brincando em serviço. Esta não é uma comédia inconsequente passando nos cinemas, mas um drama intimista sobre o amadurecimento de uma criança atingindo a puberdade cheia de conflitos internos.
 
-Sugestões?
+Note como Zieff não permite que sua direção fique no caminho do roteiro da estreante Laurice Elehwany porque ele é bom demais. Ele tem falas que capturam a essência das cenas sem revelar muito: "cansei de bingo, acho que podemos tentar o tal do drive-in", "saia daqui! e só volte em cinco ou sete dias!". E eu nem vou dizer que a passagem onde Vada explica como ela acha que deve ser o paraíso é um dos grandes momentos do cinema. Não porque ele seja particularmente tocante ou inteligente, mas porque ele entrega dois personagens que todos nós já fomos um dia em um daqueles momentos que se lembra a vida inteira.
 
-[A linguagem BCPL]: {{< relref "historia-da-linguagem-c-parte-1" >}}
-[O código-objeto]: {{< relref "historia-da-linguagem-c-parte-1" >}}
-[A linguagem B]: {{< relref "historia-da-linguagem-c-parte-2" >}}
-[A "função" char]: {{< relref "historia-da-linguagem-c-parte-2" >}}
-[O primeiro printf da história]: {{< relref "historia-da-linguagem-c-parte-2" >}}
-[A linguagem C]: {{< relref "the-c-programming-language" >}}
-[A linguagem C++]: {{< relref "a-linguagem-de-programacao-cpp-o-inicio" >}}
-[O conceito programa]: {{< relref "guia-basico-para-programadores-de-primeiro-int-main" >}}
-[O código-objeto]: {{< relref "historia-da-linguagem-c-parte-1" >}}
-[Processo de compilação]: {{< relref "os-diferentes-erros-na-linguagem-c" >}}
-[Declaração x definição]: {{< relref "declaracao-x-definicao" >}}
-[Tipos]: {{< relref "basico-do-basico-tipos" >}}
-[Lvalue x Rvalue]: {{< relref "rvalue-e-o-novo-lvalue" >}}
-[A passagem por valor]: {{< relref "passagem-por-valor-e-emails-com-anexo" >}}
-[Ponteiros]: {{< relref "basico-do-basico-ponteiros" >}}
-[Estruturas e classes]: {{< relref "estruturas-vs-classes-fight" >}}
-[Polimorfismo estático]: {{< relref "polimorfismo-estatico" >}}
-[Herança]: {{< relref "classe-objeto-contexto-metodo-polimorfismo" >}}
-[Polimorfismo dinâmico]: {{< relref "vtable" >}}
-[Iteradores]: {{< relref "se-iterando-com-os-pseudo-ponteiros-uma-breve-introducao" >}}
-[Função-objeto]: {{< relref "sobrecarga-de-funcao-as-avessas" >}}
-[Templates]: {{< relref "gabaritos" >}}
-[O conceito RAII]: {{< relref "aquisicao-de-recurso-e-inicializacao" >}}
-[O operador de subscrito]: {{< relref "curiosidades-inuteis-o-operador-de-subscrito-em-c" >}}
-[A proteção protected]: {{< relref "protecao-dos-membros-protected" >}}
-[Sizeof e strings literais]: {{< relref "sizeof-de-novo" >}}
-[Uso de reflexão com typeid]: {{< relref "reflexao-em-c" >}}
-[Typeid e o polimorfismo]: {{< relref "typeid-e-os-perigos-do-nao-polimorfismo" >}}
-[Ponteiros de método]: {{< relref "ponteiros-de-metodo-conceito-fundamental" >}}
-[Ponteiros de método e o this]: {{< relref "ponteiro-de-metodo-qual-this-e-usado" >}}
-[Try-catch fora do corpo da função]: {{< relref "try-catch-flutuante" >}}
-[Sobrecarga de operadores]: {{< relref "sobrecarga-de-funcao-as-avessas" >}}
-[Biblioteca C no Windows]: {{< relref "usando-a-libc-nativa-do-windows" >}}
-[Mobilidade da pilha com prinff]: {{< relref "a-mobilidade-das-variaveis-no-printf" >}}
-[Erros comuns de iteradores]: {{< relref "iteradores-nao-sao-constantes" >}}
-[Erros comuns de iniciantes]: {{< relref "os-diferentes-erros-na-linguagem-c" >}}
-[Ponteiro nulo em entrevistas]: {{< relref "codigos-de-entrevista-o-ponteiro-nulo" >}}
-[Nem todo ponteiro nulo é inválido]: {{< relref "quando-o-ponteiro-nulo-nao-e-invalido" >}}
-[Decifrando código obscuro]: {{< relref "desconstruindo-ioccc" >}}
-[Usando do-while para evitar erros de macro]: {{< relref "aquele-do-while-engracado" >}}
-[Sobrecarga por tipo de retorno]: {{< relref "sobrecarga-de-funcao-as-avessas" >}}
+Isso porque o filme em si é sobre a própria vida, e o processo de vivê-la mesmo sabendo que a morte dos entes queridos, ou a despedida, é uma realidade que tivemos ou teremos que lidar. "My Girl" tenta enxergar a beleza onde pode haver muita dor e sofrimento. Não é possível criticar um filme que abrace essa ideia com tanto afinco. Não enquanto estivermos todos aqui, empenhados em tornar nossa condenação de viver o mais próximo do paraíso possível.
 

@@ -1,14 +1,27 @@
 ---
 categories:
-- writting
-date: '2020-06-01'
-link: https://www.imdb.com/title/tt0060268
+- play
+date: '2023-06-15'
+link: https://www.chess.com/game/live/79966923915
 tags:
-- movies
-title: Cul-de-Sac
+- chess
+title: Cuidado de ambos e a gafe no final com a dama
 ---
 
-Assisti dois terços. O DVD travou. É um filme preto e branco. Tem uma atriz francesa loira jovem que morreu jovem em um acidente de carro. As loiras jovens da carreira do diretor estão amaldiçoadas. É um filme com cara de autoral e independente, mas possui um elenco solto, de teatro. Ele perde a tensão por ter personagens fora da realidade. Fala sobre um castelo onde vivia um escritor no século onze e agora mora um pedante afeminado com sua amada. Eles são abordados por um bandido culto que se impõe para conseguir consertar um golpe que deu errado. Lembra um pouco a comédia de erros Fargo.
+Esta partida estava sendo bem jogada por ambos os lados. Estava difícil de progredir, pois não havia muitas ideias. Estava lento. Até que minha ideia de pesar na coluna do bispo ao mesmo tempo que atacava a dama fez meu adversário pensar demais, acredito eu, pois ele estava ameaçando o peão da torre com o bispo dele. Tanto pensou que pendurou a dama. Uma pena. Estava equilibrado (acredito).
 
-Assisti ao resto na Netflix caseira. Não deu para entender a proposta de Polansky. Seria um Trabalho de Conclusão de Curso? Conversa com os amigos (bêbado)? Enfim, essa loira e a esposa do Polansky morreram jovens. Essa em um acidente de carro aos vinte e cinco. A outra em um ritual macabro com Marilyn Manson. Tarantino filmou como não aconteceu em seu último filme, Era Uma Vez em Hollywood. Tarantino também filmou como não aconteceu a independência americana em Os Oito Odiados. Ele se acha tão a sério como se fosse possível alguém odiar um de seus filmes. Quem dirá oito. Polansky também se leva, ou se levava a sério, mas apesar de ter mais gabarito infelizmente se envolveu com uma menor de idade, crime pior que assassinato em massa na América, e nunca mais voltou para o continente. Passará o resto de seus dias filmando histórias de injustiçados historicamente.
+{{< image src="board.gif" >}}
+
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.08"]
+[White "hcnchc"]
+[Black "cavaloni"]
+
+1. e4 c5 2. Bc4 Nc6 3. Nf3 e6 4. Nc3 d6 5. O-O Nf6 6. Re1 h6 7. h3 Be7 8. d4
+cxd4 9. Nxd4 O-O 10. Nf3 e5 11. Nd5 Nxd5 12. Bxd5 Be6 13. a3 Qc7 14. Nh2 Rac8
+15. Re3 Bxd5 16. Qxd5 Kh8 17. Rg3 Bf6 18. Be3 Ne7 19. Bxa7 Nxd5 0-1
+```
+
 

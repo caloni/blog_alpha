@@ -1,25 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-07-04'
-link: https://www.imdb.com/title/tt5657776
+date: '2017-08-21'
+link: https://www.imdb.com/title/tt4326894
 tags:
-- cinemaqui
-- movies
-title: Fala Comigo
+- series
+title: F is for Family - Segunda Temporada
 ---
 
-Fala Comigo é um diálogo não apenas entre pessoas, mas entre diferentes máscaras da sociedade. Ele desafia de maneira incisiva nossos conceitos sobre o que é "normal" reinterpretando a realidade para dentro das portas de algumas casas.
+Enquanto a primeira temporada afiava seu tom do humor para algo dos anos 70 que divertia os que não ligam para o politicamente correto ao mesmo tempo que demonstrava por que estamos na fase do politicamente correto, a sequência de F is for Family explora melhor seus personagens, dando a eles a medida certa de tempo em cena. Exceto pela caçula que quer ser programadora de computadores. E sempre que sua ambição aparece faz meus olhos brilharem.
 
-Estreia na direção do roteirista Felipe Sholl (Histórias que Só Existem Quando Lembradas, Campo Grande), a história vai sendo relevada aos poucos, e embora seja fácil de traduzir, o filme prefere ir revelando tudo visualmente, não havendo nunca a necessidade de diálogos expositivos. Dessa forma, o que inicia com um telefone que toca na tela preta termina com o barulho de um carro também no escuro, uma bobagem elegante. Em questão de segundos analisamos a vida perdida da quarentona Angela (Karine Teles) pela insistência em aguardar o retorno do seu marido, e que ainda que nunca ouvindo sua voz duas noites por semana se submete à humilhação de falar sozinha ao telefone.
+A série embarca em uma jornada emocional do casal principal que consegue extrair o melhor do conflito de casais que começam a perceber que o modelo pai provedor e dona-de-casa não é tão estável assim, e que isso pode ser uma coisa boa para ambos os lados. Quando a série explora cada um desses lados individualmente e eles se juntam no final, eis o conflito principal da série sobre homens e mulheres e como o mundo recebe os sonhos de um e de outro.
 
-Logo descobrimos que quem liga para ela é o jovem Diogo (Tom Karabachian), que usa a voz feminina das pacientes de sua mãe para se masturbar. Aqui um detalhe: ele "cataloga" seus espermas em fichas com data, hora e nome, em uma clara alusão à influência de sua mãe (Denise Fraga), que mesmo sem falar muito (ou talvez por causa disso) revela ser o pilar neurótico naquela casa. Basta observarmos um jantar em família, todos em silêncio e compenetrados em acabar logo a refeição. Exceto a irmã mais nova de Diogo, que com cerca de dez anos se preocupa com uma dor em sua barriga que pode revelar a mesma apendicite que sofreu seu irmão. A mãe é rápida em "catalogar" a menina de hipocondríaca, e sem qualquer diálogo relevante já aprendemos como criar uma família com problemas psicológicos.
+Esta é uma animação-drama, contrariando todas as fórmulas de animação adulta que apela para comédia mais absurda. Há um chão e um teto para localizarmos o que é possível a seus personagens, e como os créditos iniciais sabiamente apontam, nós sempre começamos nossas vidas voando. Mas é por pouco tempo.
 
-O tom dos personagens de Fala Comigo nunca é exagerado a ponto de soar cômico, o que torna tudo mais ou menos real. Dessa forma o filme acaba abrindo um espelho para o espectador, que observa as próprias crenças, costumes, manias e formas de enxergar a realidade que, ele descobre durante o filme, pode ser muito diferente do que realmente é.
+Aqui também não há muita censura, nem de sexo nem de violência. Ela existe, mas é usada com parcimônia. Quando algo contraria o puritanismo norte-americano é por um bom motivo, mas penso que o motivo da série ser animada é justamente para isolar os atos "obscenos" dessas pessoas.
 
-O estopim para essa revelação é quando Diogo e Angela começam a namorar. Esse seria o grande tema do filme, um garoto junto de uma mulher bem mais velha e psicótica. Porém, esse é apenas o pano de fundo para uma análise mais certeira em como há um tanto de hipocrisia que nos protege do "muito diferente" na vida. O problema aqui é que o roteiro entende que precisa martelar suas obviedades, e até Denise Fraga flerta perigosamente em sair uma caricatura da megera, com seus lábios duros e olhar sisudo.
+O roteiro quase sempre apela um pouco a mais seu lado feminista, expondo os homens de escritório como machistas sem cérebro. Mesmo que tenham razão, isso fica engraçado até o ponto que vira uma caricatura idiota demais para nos identificarmos. Dito isso, há ótimas piadas machistas que não podem ser mais recicladas, apenas observadas como uma curiosidade da época.
 
-E por falar em atuações, colocar Karine Teles como protagonista se torna uma decisão arriscada, pois ela não possui o jogo de cintura necessário nem a dominação necessária para sua personagem. A direção de Sholl erra pontualmente em não torná-la uma personagem mais forte, e preferir continuar naturalizando as cenas em um incômodo close. É óbvio que não é preciso muito para seduzir um garoto de 18 anos, mas daí é que reside o problema: a auto-estima de Diogo, vivido despreocupadamente por Tom Karabachian, sabota esse relacionamento, tornando-o inverossímil menos pela idade e mais pela dinâmica do "quem domina quem". Ou o filme inocentemente prefere imaginar que em uma relação dessas há apenas amor.
-
-Fala Comigo faz questão de normalizar o que é incômodo e incomodar o que é normal. Ele inverte valores e atravessa no tempo com um filme simples e direto, provando que não é necessário ser verborrágico para expressar muito. Quem quiser poderá prestar atenção a detalhes inconsequentes, mas que darão uma nova dimensão a um filme aparentemente despretensioso. No entanto, só pelo tirar das máscaras, os diálogos do dia-a-dia, seja no "romance proibido" ou no jantar em família, se tornam muito mais interessantes.
+De certa forma assim é conduzido o senso moral de FifF. Estamos observando uma época não tão remota com os olhos de hoje, e soa tão distante que permite olharmos como para um aquário. Pelo menos isso é o que eu espero do espectador.
 

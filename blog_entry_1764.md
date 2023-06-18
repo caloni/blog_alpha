@@ -1,18 +1,22 @@
 ---
 
-Happy! é uma feliz (que surpresa!) importada do serviço de streaming Netflix de um conteúdo da produtora Syfi, responsável pelos jovens clássicos Sharknado. Criado pela dupla Grant Morrison e Brian Taylor baseado nos quadrinhos criado por Morrison e ilustrado por Darick Robertson, esta aventura de ação policial distópica se passa em um universo onde há muitas brechas para o sobrenatural, mas ao mesmo tempo garante um realismo fantástico bem típico dos criadores de Adrenalina (1 e 2).
+Era de se esperar uma queda básica na qualidade narrativa do original Happy Feet, de 2006. Na época pegando carona no belíssimo documentário do ano passado, [A Marcha dos Pinguins], o filme traçava um paralelo do que aconteceria se um dos filhotes da espécie apresentasse uma característica... inusitada. No caso, todos os pinguins da raça Imperador são exímios cantadores, enquanto o filhote diferente gostava de sapatear. Ambas as características suportaram números de encher os olhos e os ouvidos, com performances de cair o queixo, com destaque absoluto para Somebody to Love (Queen).
 
-Esta aventura é de Nick Sax, um ex-investigador que está no momento em um ponto de sua história pessoal em que algo deu muito errado em sua vida (e é muito salutar da série sequer tocar nesse ponto em seu início). Sax está praticamente sendo movido pelas forças da natureza, e sobrevive por sua força, sorte e esperteza, embora não possamos estimar qual a porcentagem precisa desses elementos. O fantástico surge quando a pequena Hailey Hansen (Bryce Lorenzo) é raptada por um papai-noel do mal e seu amigo imaginário Happy (voz de Patton Oswalt) corre em busca de ajuda. E você já sabe qual ajuda ele encontra. Infelizmente essa ajuda está à beira da morte por ter se metido inadvertidamente com uma máfia italiana e com um segredo que envolve uma senha, demônios e a morte do caçula da família.
+Aqui a dança muda um pouco. É indiscutível a qualidade gráfica dos pinguins, como já era 5 anos atrás, mas agora dois novos componentes da "fauna" antártica merecem o destaque absoluto: Will e Bill, dois espécimes de Krill: desde a textura até os movimentos dos olhos, tudo é perfeito nesses dois, que combinam suas cores com o fundo do mar gelado de maneira absolutamente natural e, de certa foram, poética.
 
-Ambientado em um universo real, mas contando com malucos (reais ou não) como Sax e Happy, esta série utiliza violência na medida certa para pontuar a brutalidade das ruas, o que torna a presença de Happy a mais inusitada possível. Se trata de uma mescla de elementos de gêneros diferentes, mas não chega a ser um resultado engraçadinho. O que a série parece querer fazer é explorar o absurdo do lúdico em ambientes nada amistosos com personagens com histórias nada adequadas para crianças (portanto, fiquem avisados: existe o Happy, mas não existe Mercy).
+O filme começa bem, ressaltando a importância do ecossistema como um todo, com todas as espécies se ajudando entre si, mesmo que pelas leis do acaso. O ponto forte é a questão filosófica dos Krill, que se perguntam se existe algo além do "cardume" (eles vivem no meio de uma massa incontável de irmãos vagando pelos mares glaciais). O final encontra a rima dessa história de maneira satisfatória, que é quando vemos a performance musical mais emocionante do filme (sem maiores detalhes).
 
-Christopher Meloni também é uma força da natureza, e embora falte jeito ao ator, não falta postura e energia. Meloni, com suas caras e caretas, ensaia um personagem cartunesco e ao mesmo tempo durão. Grande sem ser bonachão, vemos sua força e vemos seu dilema se fechar em um arco extraordinário nos segundos finais, que não apenas mantém o clima de desesperança como este pequeno gancho de esperança lúdica e absurda demais para ser verdade. Há algo aí que pode ser interessante.
+Já o problema do longa se encontra no seu desenvolvimento. Nunca conseguindo focar em um tema específico, o drama principal dos pinguins presos entre as geleiras fica esmaecido, quase esquecido em alguns momentos, pois não existe ritmo ou até mesmo coerência em contar essa história, dando maior importância às brincadeiras visuais (que funcionam metade do tempo) e falas completamente descartáveis (nem a antes figura carismática de Ramon consegue salvar).
+
+Porém, esse deve ser o filme que vai impressionar mais as plateias pela maneira impecável que ele junta suas duas pontas extremas, mesmo se despreocupando totalmente em como desenvolvê-las de maneira no mínimo interessante.
+
+[A Marcha dos Pinguins]: {{< relref "a-marcha-dos-pinguins" >}}
 
 ---
 categories:
 - writting
-date: '2019-06-09'
+date: '2018-05-16'
 link: https://www.imdb.com/title/tt2452242
 tags:
 - series
-title: Feliz! S02
+title: Feliz!

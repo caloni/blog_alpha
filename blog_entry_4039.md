@@ -1,16 +1,24 @@
 ---
 categories:
 - writting
-date: '2020-07-05'
-link: https://www.imdb.com/title/tt0086567
+date: '2018-12-26'
+link: https://www.imdb.com/title/tt7608238
 tags:
-- movies
-title: War Games
+- series
+title: Wanderlust
 ---
 
-Jogos de Guerra se passa no auge dos anos 80. Matthew Broderick é um nerd/hacker vivendo sua adolescência em Seattle e buscando conciliar seus desejos por máquinas, além de uma garota fitness de sua sala. Ambos vivem uma aventura de tirar o fôlego e que se passa dentro de um enorme galpão cheio de luzes piscando e pessoas vestidas de militares. O fantasma da Guerra Fria está desaparecendo, mas fica uma reflexão pertinente quando computadores começam cada vez mais a fazer parte da família americana: qual a melhor estratégia para evitar uma nova guerra senão sequer começá-la?
+Wanderlust é o primeiro trabalho recente que conheço que tenta abordar relacionamentos abertos de uma maneira mais madura, mais dramática. Ou pelo menos a primeira metade dessa série começa a delinear o assunto dessa maneira. Focado na terapeuta de casais Joy (Toni Collette), a série com apenas seis episódios tenta também explorar os relacionamentos de outros personagens (para não dizer todos). É uma tentativa de ampliar um dos subtemas vistos em Beleza Americana que se sabota da metade para o final.
 
-Este é um filme que flerta com o trash de uma maneira saudosista. Queremos hoje viver esta época mais inocente, com truques para não pagar conta de telefone e o sabor da conquista ao encontrar o contato de uma empresa de jogos eletrônicos para espiar qual a novidade que anunciaram na revista. Os nerds desse filme são reais e vivem na sala ao fundo, e é melhor não levar uma garota para lá. A trilha sonora é empolgada antes de ser empolgante, e a edição fluida do começo ao fim. É um bonito filme, feito com amor e atitude. Vê-se poucos assim hoje em dia. Note todo o ritmo criado de uma coisa puxa outra não nos faz questionar a fantasia disso tudo. Como um [Goonies] para adolescentes fanáticos por tecnologia, War Games é um hino à curiosidade e aos limites entre humano e máquina do ponto de vista de quem viu a revolução da Machine Learning começar.
+O que acontece com a moral americana? Monogâmica até as últimas consequências, vendendo a ideia do casamento como algo sagrado, a série nos apresenta a tentativa dos quarentões Joy e seu marido Alan (Steven Mackintosh) em apimentar novamente o casamento. Com dois filhos já adolescentes e uma filha adulta, ou seja, com a "missão cumprida", o sexo não dá mais prazer a Joy e soa como um incômodo para Alan. Um acaba traindo o outro e em uma conversa madura a respeito decidem manter as saídas casuais para "ver no que dá".
 
-[Goonies]: {{< relref "os-goonies" >}}
+O problema é que essa premissa não é uma conclusão em si mesma, mas o sintoma de um problema maior na vida de Joy, que irá realizar uma terapia cheia de caminhos óbvios e intelectualizados a respeito da relação de Joy com uma figura paterna inesperada, algo que é mal explorado pela série, que vai colecionando detalhes para tentar criar uma reviravolta inesperada e até certo ponto indesejada pelo espectador, que espera que aquela relação dê certo independente da forma.
+
+Ainda assim, Wanderlust é um trabalho sólido sobre como relacionamentos abertos funcionam, pois ele assume que as pessoas envolvidas são maduras o suficiente para fazer funcionar, mesmo que em alguns momentos as emoções levem essas pessoas a rediscutir a coisa toda. Porém, a pedra no sapato dessa história é revelada de maneira torta, através de um longuíssimo episódio onde duas pessoas conversam em uma terapia cheia de obviedades que são genéricas demais para dizer algo da personagem, exceto que mal a conhecemos.
+
+Joy é vivida por Toni Collette com alma e uma intensidade que flertam com o exagero. Os cacoetes de Collette parecem perfeitamente normais para essa mãe moderna e disposta a balançar sua vida, desde que ela se recupere de uma queda física e psicológica traumatizante. Collette e Mackintosh são as coisas boas nas atuações.
+
+O maior problema é o roteiro, que tenta explorar complexidades demais em seis episódios que ainda precisam dividir tempo com outros personagens e tornar todos relevantes, como se houvessem problemas a ser resolvidos, o que contraria a própria proposta da série em visitar relacionamentos como processos, e não como pedras no sapato.
+
+Em tempo: Wanderlust tem uma bela fotografia cinzenta com uma direção estilizada que torna a experiência esteticamente agradável. Una isso a atuações acima da média das produções Netflix e você tem um conteúdo assistível do começo ao fim. Mesmo que tudo vá caminhando ladeira abaixo.
 

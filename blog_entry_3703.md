@@ -1,22 +1,16 @@
 ---
 categories:
 - writting
-date: '2013-04-03'
-link: https://www.imdb.com/title/tt1520211
+date: '2014-11-30'
+link: https://www.imdb.com/title/tt2636522
 tags:
-- series
-title: The Walking Dead - Segunda Temporada
+- movies
+title: The Unbelievers
 ---
 
-Nunca se viu antes zumbis tão realistas e humanos tão inverossímeis. Não é tão difícil acreditar nos mortos-vivos, pois já vimos isso antes em inúmeras obras do que tornou um sub-gênero do terror. Porém, um grupo de humanos como esse tentando sobreviver nessa selva de carne podre (e dentes, claro) é algo inédito e inacreditável. E mesmo assim, é exatamente dessa forma que a maioria de nós vive, o que acaba não dando muitas esperanças caso o universo de George Romero realmente viesse à tona.
+Richard Dawkins e Lawrence Krauss são tratados como pop-stars durante suas inúmeras viagens ao redor do mundo em conferências científicas. Ambos são cientistas, mas, acima de tudo, possuem uma facilidade de comunicação com o público que permite que este receba informações dos últimos avanços científicos no formato que pessoas leigas entendam. No entanto, mais do que isso, ambos levantam a "bandeira ateia", um movimento anti-religião que na última década tem feito com que muitas pessoas se declarassem descrentes de qualquer mitologia ainda existente no mundo moderno, incluindo a existência de Deus.
 
-Baseado na criação de Frank Darabont e com a participação de inúmeros roteiristas e diretores, a segunda temporada de The Walking Dead se passa em uma fazenda que sobreviveu ao apocalipse zumbi, dando a possibilidade de dois grupos distintos interagirem: uma família tradicional e uma outra que se forjou na luta pela sobrevivência. Curiosamente o que vemos é o grupo original se despedaçando enquanto acampam no lugar mais tranquilo até agora na série. O motivo de estarem lá são as crianças: uma desaparecida (Sophia, Madison Lintz) e outra baleada (Carl, Chandler Riggs).
+No entanto, o documentário de Gus Holwerda parece ter muito pouco mais do que isso. Acompanhamos ambos os cientistas viajando pelo mundo de avião, trem, táxi, metrô. Cada um desses eventos, seja uma aparição na mídia ou uma palestra, é mostrado por Holwerda como um recorte que envolve uma ou duas perguntas respondidas e uma despedida. Para religiosos, o filme nem chega a ser ofensivo, pois é um fiasco de ideias que mal atingem a superfície. Para ateus cinéfilos, deveria ser motivo de vergonha que o conjunto de tantas palestras, encontros e entrevistas com esses dois mestres do discurso seja resumido de maneira tão banal.
 
-O ritmo é lento, se arrasta em cômodos 13 episódios. Mas esse não é o problema fundamental da série. Afinal, Breaking Bad se aproveitava do marasmo para criar sua tensão psicológica. Só que em TWD a tensão fica em suas bordas, salpicado aqui e ali com algumas cenas mais fortes. Tirando um zumbi ou outro que aparece quase sempre de repente, podemos dizer que essas pessoas estão tirando umas merecidas férias no campo depois de terem visto Atlanta se dissipar em uma fogueira de humanos. Agora é a tensão entre os humanos que cria o drama.
-
-Sem muito o que dizer em sua narrativa além de uma possível discussão moral a respeito da lei natural do mais forte, a história se limita em usar o artifício de pessoa ferida, convenientemente inserindo um médico (Hershel, Scott Wilson). Ele, aliás, possui uma crença particularmente peculiar a respeito dos zumbis (ou errantes, como de fato chamam a criatura na série e legendada de forma errada na versão brasileira). Essa maneira atípica de encarar essas criaturas faz sentido vindo de um profissional que dedicou sua vida salvando vidas e constitui a parte que melhor sintetiza a bondade nesse mundo dos avessos.
-
-Sem medo de repetir os mesmos conflitos e dúvidas, o novo episódio de suicídio, por exemplo, não consegue trazer à tona as mesmas reflexões da primeira temporada. Ele acaba gerando o efeito contrário, banalizando o ato, assim como a morte de maneira geral. Será que já estamos no inferno e não sabemos? Essas almas errantes em que se transformaram os humanos, talvez já esteja habitando também o mundo dos vivos.
-
-Ou no fundo talvez tudo não passe de uma série que cresceu devido à sua popularidade e desistiu de ousar, se limitando a picotar sua história em pedacinhos de quinze minutos e esticar para além dos quarenta. Das duas teorias, espero que a primeira esteja correta assistindo à terceira temporada.
+No final, acabamos conhecendo tão pouco o ramo de pesquisa de ambos os cientistas quanto quem eles são na comunidade e a história de cada um. Os "Unbelievers" do título pode estar se referindo a todos os ateus que estão saindo do armário, mas sequer eles são olhados mais de perto. Para os que são apaixonados pelo conhecimento um show de desinformação, mesmo que estrelado por pessoas articuladas como Dawkins e Krauss, continua sendo um show de desinformação.
 

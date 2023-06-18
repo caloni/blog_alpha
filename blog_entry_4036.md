@@ -4,8 +4,8 @@ categories:
 date: '2017-07-20'
 tags:
 - beer
-title: Wäls Session Citra
+title: Wäls Hop Corn IPA
 ---
 
-Refrescante, leve, fácil de tomar com comidinhas. Como no almoço com o Taz no Chez.
+Encorpado e um pouco além de amargo. Não acompanhou muito bem com a comida do Chez, onde eu e o Taz almoçamos.
 

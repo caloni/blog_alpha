@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-02-05'
+date: '2015-01-24'
 tags:
-- wine
-title: Nero D'Avola Duca Sargento
+- food
+title: Nerderburgh Sul-Africano 2013
 ---
 
-Italiano que demorou pra ficar bom; muito quente e sem aroma, mas depois de amaciado agradável.
+Assim que abriu, vibrante, frutado. Depois de um tempo há um azedo bem presente. Bem azedo, um tanto forte demais em sua intensidade.
 

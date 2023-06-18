@@ -1,11 +1,20 @@
 ---
 categories:
 - writting
-date: '2023-03-21'
+date: '2012-04-30'
+link: https://www.imdb.com/title/tt0301199
 tags:
 - movies
-title: Colateral
+title: Coisas Belas e Sujas
 ---
 
-Colateral é o estilo de filme bem produzido que parece não contar uma grande história quando na verdade se revela um estudo de corrupção e violência em centros urbanos tão bem amarrado que você se hipnotiza no processo. Nosso alicerce moral é Max, um taxista que está estagnado por 12 anos em Los Angeles, até que chega Vincent, um matador de aluguel que aterrisa na cidade do pecado e vem com uma lista cheia. Ambos irão passar a noite juntos pelas ruas e Vincent irá elevar os pensamentos de Max sobre o que estamos fazendo com nossas vidas. Ele fará isso pelo modo prático que conhece: matar cada item de sua lista. A moral de Vincent é deturpada, mas pragmática. A química entre os dois é o que faz com que essa dupla passe uma noite inteira dirigindo por Los Angeles sem sequer repararmos, e sua floresta urbana se tornará um curioso palco de um filme de ação fantasioso no limite de não nos importarmos. Quem nos mantém interessados é Jamie Fox como Max, que compõe um arco para seu personagem que vai de vítima das circunstâncias para a única pessoa que conseguirá mudar alguma coisa na espiral de violência que vai pintando o mapa da cidade de vermelho. Já Tom Cruise como Vincent é uma surpresa e tanto. O cara se transforma em alguém que não é o Tom Cruise fazendo um de seus costumeiros personagens. Vincent é um assassino frio e prático, mas não deixa de vestir sua carapaça humana, o que torna o conjunto magnético. Seu terno e cabelo cinzas com a barba por fazer ajudam nessa inesperada composição, mas nada disso teria peso se a direção de Michael Mann não nos permitisse sonhar com as possibilidades desses dois atores em construírem uma realidade impossível em camadas que escalam para algo além de tiros e carros dando piruetas e pegando fogo. Quando o filme termina você está ainda naquele universo e não gostaria de sair.
+No começo, assistimos à rotina de Okwe (Chiwetel Ejiofor) em seus inúmeros empregos, incluindo taxista clandestino no aeroporto e recepcionista de um sombrio hotel nos subúrbios de Londres. O clima opressivo e pessimista apenas aumenta conforme a história se desenrola, e a única esperança de paz parece residir nas gavetas do IML, junto do único amigo de Okwe. Vemos tudo sob o ponto de vista de Okwe, o que não é necessariamente uma coisa boa.
+
+Todos os personagens que encontramos nesse pedaço de mundo esquecido possuem suas funções nessa alegoria da imigração ilegal. Estão todos mais ou menos ligados ao que ocorre nos quartos mais obscuros do hotel que Okwe trabalha, inclusive sua colega de domicílio, a bela e assustada Senay (Andrey Tautou, que consegue uma competente personificação que retira parte de sua doçura vista em [O Fabuloso Destino de Amelie Poulain]). Uma intrincada rede de relações é montada, e cada situação aumenta o significado da vida dessas pessoas. O fato de Okwe ser médico não é por acaso, assim como não é o acaso que faz com que seu companheiro de partidas de xadrez lide diretamente com a morte (e nesse sentido o filme faz uma bela, mas igualmente obscura referência ao O Sétimo Selo e a partida de xadrez entre o cavaleiro das Cruzadas e o diabo em pessoa).
+
+Mas quem realmente faz diferença é Chiwetel Ejiofor, pois é através de seu olhar cuidadoso que observamos e vamos aos poucos percebendo o horror em que essas pessoas vivem e o horror dentro de algumas dessas pessoas. O dia e a noite se misturam em uma fotografia sombria e que apenas se diferencia pela cor dominante, enquanto uma trilha sonora seca e quase imperceptível marca a passagem do tempo. Uma história mental, mas que aqui consegue empregar um ritmo que nunca se perde graças a um roteiro e direção coesos com uma montagem que privilegia as excelentes tomadas do diretor, que oscilam entre um close do recepcionista e o que ele vê. Sem contar que o jejum de sono faz com que a câmera também oscile em torno de relógios e de ângulos muitas vezes distorcidos, mas nunca deixando sua hábil manipulação do tempo.
+
+Com um final enfraquecido justamente por dar ao espectador um pouco de alívio, só que falso, de que vai ficar tudo bem (quando na verdade nada mudou), a situação apresentada está longe de mudar. Nesse sentido não é tão corajoso, por exemplo, quanto O Jardineiro Fiel. Mesmo assim, uma agradável surpresa para quem procura por um olhar diferente sobre a cidade de Londres e suas injustiças ocultas.
+
+[O Fabuloso Destino de Amelie Poulain]: {{< relref "amelie-poulain" >}}
 

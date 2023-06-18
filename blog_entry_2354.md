@@ -1,33 +1,32 @@
 ---
-categories:
-- playing
-date: '2023-03-01T17:13:52-03:00'
-link: https://www.chess.com/game/live/71279727071
+categories: []
+date: '2016-10-25'
 tags:
-- chess
-title: Miniatura com sacrifício de bispo
+- mostra
+title: Mini-Entrevista com Olaf Kraemer, diretor de 5 Mulheres
 ---
 
-Brancas sacrificam e ficam ganhas.
+A sessão de ontem no Frei Caneca de 5 Mulheres estava mais ou menos lotado, o que foi uma surpresa (positiva). O thriller dirigido por Olaf Kraemer desaponta em muitos sentidos, incluindo o fato de ser confuso. Após a sessão, ele mesmo aparece para um pequeno debate de cinco perguntas (aqueles da mostra, que duram menos de 5 minutos, só pra tirar foto e sair vazado). O tradutor/entrevistador teve a consciência de avisar o público antes do filme começar, e o diretor nos avisou que haveria um curta exclusivo de festivais antes, que iria se relacionar com o longa depois.
 
-{{< image src="board1.png" >}}
+Quanto custou a produção?
 
-Brancas jogam e aplicam mate em 4 de duas formas: uma bonita e uma como seguiu na partida.
+Kraemer: Foi uma produção de baixo custo, cerca de 300 mil (euros).
 
-{{< image src="board2.png" >}}
+Como foi alterada a maquiagem em na cena X (uma cena-chave)? Como vocês trabalharam essa questão? Você usa story boards?
 
-```
-[Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2023.02.27"]
-[White "cavaloni"]
-[Black "jucamarvado"]
+Kraemer: Usamos a mesma tinta dos quadros nas atrizes. Não uso story boards. Antes de filmar alguém faz um pequeno esboço da cena desenhado, mas é só.
 
-1. Nf3 Nc6 2. d4 d5 3. Bf4 Nf6 4. Nc3 e6 5. a3 Bd6 6. Bg3 Bxg3 7. fxg3 O-O 8. e3
-Ne4 9. Bd3 Nxc3 10. bxc3 a6 11. O-O b5 12. h4 Re8 {Depois de terminada a partida
-vejo que a engine manda mesmo sacrificar.} 13. Bxh7+ Kxh7 14. Ng5+ Kg6 15. Nxf7
-Qe7 {Mate em 4 de duas formas: uma bonita e uma como seguiu na partida.} 16.
-Qg4+ (16. Qd3+ Kh5 17. Qh7+ Kg4 18. Qg6+ Qg5 19. Qxg5#) 16... Kh7 17. Qh5+ Kg8
-18. Qh8# 1-0
-```
+Há muitos casos de violência contra a mulher (na Alemanha)? (espectador comenta que é o quinto filme que vê na Mostra com a mesma temática)
+
+Kraemer: Na Alemanha as mulheres são sempre vistas como vítimas, mas aqui eu quis colocá-las também como algozes dos estupradores, tentar tirar esse estigma delas.
+
+Sua história foi baseada em algum caso real?
+
+Kraemer: Foi baseado em alguns, mas em uma versão muito diferente do que está retratado no filme.
+
+Como o curta inicial se encaixa tematicamente com o longa?
+
+Kraemer: Fiz esse curta como meu primeiro filme, e ele foi uma brincadeira com essa noção de inocência (tanto que o curta tem esse título).
+
+Houve vários elogios da plateia, que curtiu um bom thriller protagonizado (apenas) por mulheres.
 

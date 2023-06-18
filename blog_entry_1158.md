@@ -1,13 +1,14 @@
 ---
 categories:
-- writting
-date: '2022-03-06T21:15:31-03:00'
-tags:
-- series
-title: Cuphead
+- cooking
+date: '2021-09-25T21:17:33-03:00'
+tags: []
+title: Cupcake
 ---
 
-A proposta do jogo é emular os anos trinta ou whatever e de fato ser uma cópia daquela época em um jogo impossível de existir décadas atrás. E a série é uma animação que emula uma animação daquela época fielmente e nos faz pensar por que não assistir às animações originais no lugar?
+Fiz a primeira vez essa receita passada por uma boleira amiga (apenas a massa).
 
-A pergunta é pertinente, pois apesar de ser uma cópia, ela não é perfeita. No primeiro episódio os perdedores de um jogo de um parque de diversões montado pelo diabo perdem sua alma, o que é irônico, pois esta é uma animação que age por mímica, mas já perdeu sua alma, que pertence à época original, e não hoje.
+Para 24 cupcakes sem cobertura você vai precisar de 3 ovos, 1 xícara de leite, 1 xícara e meia de açúcar e 1 xícara de óleo. Bata tudo isso no liquidificador. Então em uma travessa você coloca 2 xícaras de farinha de trigo, 1 xícara de chocolate e 1 colher (sopa) de fermento. Misture bem esses sólidos com fuê e acrescente os líquidos; misture aos poucos e distribua nas formas de papel de cupcake, cerca de metade do copinho, pois irá crescer.
+
+Coloque no forno pré-aquecido a uns 180 graus por uns 20 minutos. Fique de olho no crescimento, pois quando ele estiver "transbordando" já pode espetar um palito de dentes e ver como está a textura interna. Dependendo de sua preferência, pode deixar um pouco mais mole ou mais seco. Daí é só retirar, aguardar esfriar um pouco e partir pro abraço. Bem simples e deu super-certo, embora acho que na próxima irei tirar um pouco antes para ficar mais úmido (embora a textura estivesse macia).
 

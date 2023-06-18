@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2011-06-23'
-link: https://www.imdb.com/title/tt0076759
+date: '2011-05-29'
+link: https://www.imdb.com/title/tt0121765
 tags:
 - movies
-title: Guerra nas Estrelas
+title: 'Star Wars, Episódio II: Ataque dos Clones'
 ---
 
-Sem modelos anteriores além dos arquétipos narrativos como a clássica jornada do herói, o primeiro Guerra nas Estrelas brilha pela sua produção inusitada. Flertando entre o trash e o onírico fantasioso precursor da era das superproduções, o trabalho de George Lucas transita sem avisar entre o risível e o épico. Ele pode ser entendido como a mescla perfeita que gera o pop, esse sentimento de auto-importância criado na base do berro que fascinou e fascina gerações.
+A República começa a perder a força, e o desespero pela resolução da crise no Senado faz com que forças especiais sejam entregues ao Chanceler Palpatine. Como podemos ver, a história caminha em ritmo adequado para o ponto de encontro com o antes chamado Guerra nas Estrelas e rebatizado para Episódio IV.
 
-O épico do filme é sentido melhor ao analisarmos o universo dessa galáxia tão distante e suas criaturas bem trabalhadas em um filme que envelheceu bem. Há Chewbacca, um ator com uma fantasia de pelos brilhantes que se comunica por sons animalescos indecifráveis. Há C3PO, um ator vestido com pedaços metálicos brilhantes cujas articulações são visíveis ao mesmo tempo que seu lado humano em suas análises emotivas em meio a perigosas missões de guerra. Note que ambos usam materiais brilhantes da mesma forma com que a palavra "brilhante" pode ser entendido como algo genial ou apenas algo que brilha.
+O problema mais marcante do novo filme é o relacionamento entre o Jedi aprendiz Anakin (Christensen, chato) e a Senadora Amidala (Portman, adequada), cuja aproximação beira o tédio, pois, por melhor que seja a intenção do roteiro em unir os dois, os diálogos soam forçados e a interpretação de Christensen não ajuda em nenhum momento. Para piorar, Lucas aposta em clichês que soam datados e já não fazem mais parte do "ritual de acasalamento cinematográfico", como o momento em que ambos rolam na grama.
 
-Seus heróis são pessoas comuns, seres humanos em meio a diferentes raças. Eles são princesas, mercenários e catadores de lixo com potencial de salvar a galáxia das forças malignas do Império. E o Império é a versão espacial e alternativa do que aconteceria se os nazistas tivessem inventado a bomba atômica primeiro. Aqui ela é chamada de Estrela da Morte com um sentido poético e trágico: em vez de iluminar a vida dos planetas em sua volta este aparato consegue explodir um planeta inteiro e suas vidas em questão de segundos.
+Mas tudo isso passa e caminhamos para o momento em que Anakin deve ir em busca da mãe, em uma melhor performance de Christensen, vital para a continuidade da saga. A trilha sonora já se torna tensa e pesada, e já não se utiliza da sutileza que vimos em Episódio I. Pelo contrário, uma das sequência de notas mais famosas do cinema podem agora ser ouvidas sem pudor, em meio a uma fotografia escura que representa adequadamente o estado de espírito do conturbado Padawan.
 
-Esta é verdadeiramente uma guerra nas estrelas, com naves, explosões e confrontos com lasers e sabres de luz. Há no meio um elemento místico, a Força, que une os seres vivos em torno de uma energia capaz de criar e destruir com a mesma intensidade. A crença na Força, o jedismo, virou uma religião de fato nessa galáxia, trazendo ironia e metalinguagem na mesma tacada.
+E por falar em estado de espírito, vale ressaltar que a presença de Yoda dessa vez é muitíssimo bem-vinda, e é dele que saem as melhores frases, que, embora soem vindas de um livro de auto-ajuda galáctico, cabem bem a um Jedi que já viveu o suficiente para dizê-las. E, vale dizer, a decisão na troca do boneco de plástico pela sua versão digital teve muito a acrescentar, seja nas cenas contemplativas como nas desejadíssimas cenas de Yoda em ação.
 
-Guerra nas Estrelas é um filme inacabado. Está sendo constantemente retocado pelo seu criador, George Lucas, embora seu destino hoje esteja em outras mãos. O filme se tornou uma saga amarrada nos seus elementos mais primordiais e uma trilha sonora composta por John Williams em um momento de puro deleite. A máxima de que filmes devem ser vistos na sala de cinema nunca foi mais atual.
-
-Nesse quesito, Star Wars consegue não só criar planetas, raças e as relações diplomáticas entre eles, mas recriar dentro desse mundo conceitos filosóficos do nosso próprio mundo, servindo de um espelho da própria raça humana, escancarando nossas virtudes e defeitos em seres que, mesmo que fruto da fantasia de George Lucas, conseguem transmitir sua "humanidade" em sua melhor e pior formas.
+Aliás, a presença de Yoda é o que realmente dá tom ao clima da história como um todo, pois de Anakin apenas demarca o início de um declínio, as cenas em que vemos Yoda preocupado e receoso permanecem como o melhor resumo do que a narrativa quis trazer para que caminhássemos em direção ao inevitável desdobramento dessas preocupações.
 

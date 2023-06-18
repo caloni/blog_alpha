@@ -1,16 +1,21 @@
 ---
 categories:
 - writting
-date: '2013-07-13'
-link: https://www.imdb.com/title/tt0210843
+date: '2019-10-26'
 tags:
+- cinemaqui
+- mostra
 - movies
-title: O Mesmo Amor, a Mesma Chuva
+title: O Mês Que Não Terminou
 ---
 
-Juan José Companella dirige pela primeira vez o casal d[O Segredo dos Seus Olhos], Ricardo Darín e Soledad Villamil, em um romance leve, episódico e que brinca com as palavras ao vento que digerimos conforme a passagem do tempo faz as pessoas mudarem sua visão de mundo, assim como uma Argentina dos anos 80 em amplas modificações políticas e sociais.
+Entre as dezenas de documentários que surgiram sobre o momento político do Brasil, "O Mês Que Não Terminou" é finalmente o que entendeu a maior dificuldade em traduzir esse momento para os dois lados que o país se dividiu: empatia.
 
-Ricardo Darín como o jornalista Jorge Pellegrini é apenas o olho do furacão que acompanha o processo de redemocratização do país. A morte de um velho colega mexe com todos em volta, e acaba virando um fantasma da redação. A jovem Laura (Villamil) é o combustível que tenta empurrar Jorge para o caminho do sucesso, mesmo este sem o desejo de desengavetar suas ambições literárias. A ironia de Jorge em um momento particularmente hipócrita com Laura reflete a própria ironia da nação. Histórias pessoais se misturam com a história de um povo tentando resgatar sua integridade, e Companella abraça o tema sem dar atenção devida a nenhum dos lados.
+Os cineastas Francisco Bosco e Raul Mourão conseguiram unir racional e emocionamente a dupla narrativa que evoluiu de maneira paralela e interdependente nos últimos anos no Brasil, as chamadas esquerda e direita. Se até o momento o que havia surgido nos cinemas brasileiros foram tentativas infrutíferas de tentar defender esse ou aquele lado (e não irei aqui dizer quem é esse nem quem é aquele lado), o trabalho de Bosco/Mourão pega nas mãos das duras frentes e ensina uma à outra o caminho da compreensão: ouvir o outro lado.
 
-[O Segredo dos Seus Olhos]: {{< relref "o-segredo-dos-seus-olhos" >}}
+Com o pano de fundo da narração de Fernanda Torres de um texto milimetricamente ancorado em uma fala sóbria e equilibrada, vamos acompanhando a história recente do Brasil através de gravações de protestos e imagens de notícias e pessoas ligadas a esta história. Economistas, cientistas políticos e psicanalistas (?) são chamados para amparar a argumentação de ambos os lados para cada evento significativo. Há uma tentativa honesta de explicar um fenômeno pra lá de complexo.
+
+Sua introdução é instrumental pelo tom de baixar as armas e dar créditos a ambos os lados por explicações válidas para a realidade que vivemos, seja no âmbito econômico ou social. É apenas a partir desse cessar fogo que o filme se faz possível, e explicações mais elaboradas começam a ganhar corpo, e o espectador tem a chance de poder entender não apenas o lado que ele defende, mas principalmente o outro.
+
+"O Mês Que Não Terminou" é mais do que focar no equilíbrio de opiniões. É um mergulho intelectual denso que busca iluminar os obstáculos que vivemos hoje para a compreensão do outro, e assim, quem sabe, podermos finalmente darmos as mãos novamente, e retomar aquela amizade perdida por briga de política.
 

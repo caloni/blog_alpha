@@ -1,19 +1,22 @@
 ---
 categories:
 - writting
-date: '2019-10-23'
+date: '2019-03-22'
+link: https://www.imdb.com/title/tt0401711
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Partida
+title: Paris, Te Amo
 ---
 
-Eis que me preparo para mais uma sessão da 43a. Mostra de São Paulo e chega um homem de microfone na frente da tela, junto de mais meia-dúzia de pessoas. Ele comenta que se chamar toda a equipe para descer até ele o cinema vai esvaziar. São 13:30 e das 200 poltronas da sala umas 40, no máximo, estão ocupadas. Ele se apresenta e apresenta o projeto: essa trupe de colegas e amigos após as eleições do ano passado fretou um ônibus e foram se encontrar com o ex-presidente do Uruguai, o Mojica. E eis que 6 dias depois (tirando a pós-produção, claro) surge Partida, um filme pré-boteco, daqueles que você vê para depois ir pro bar começar uma discussão política.
+Este é um mega-projeto de cinema, com dezenas de diretores e roteiristas. Não há apenas o trabalho de compor os curtas, mas de juntá-los. Este é um filme com tantas visões diferentes que ele soa um pouco esquizofrênico. Mas como são todas visões mais ou menos alinhadas com o que a classe artista defende -- o que geralmente quer dizer a mesma coisa -- ele sobrevive ao pluralismo por causa da mesmice impregnada na mente de seus idealizadores.
 
-Muitas horas foram filmadas pelos dois cinegrafistas do projeto, e Caco Ciocler realizou o trabalho mais difícil: editar todo o marasmo de uma viagem dessas para os momentos mais interessantes. E esses momentos giram em torno das conversas de duas pessoas com visões políticas opostas. Uma delas é Georgette Fadel, auto-denominada no filme de comunista. Vou considerar que ela estava montando um personagem.
+E exatamente por conta dessa mesmice o projeto é sabotado. A ideia é mostrar diferentes visões do amor por Paris, essa cidade cosmopolita em que metade dos curtas falam inglês e a outra metade francês. Temos um cego, um não-falante, uma árabe, casais de idades diferentes, casais separados, casais brigando e casais se formando. A atitude com que o filme impõe Paris como o local onde todos esses eventos devem ocorrer é limitadora. É como se apenas em uma cidade como Paris tudo isso pudesse acontecer. Ao mesmo tempo, se considerarmos toda cidade grande como incubadora desses relacionamentos o filme está certo, pois relacionamentos em cidades pequenas nunca ganham tamanha diversificação cultural e histórica que vemos no filme.
 
-Através de estereótipos que todos nós conhecemos a respeito de esquerdistas e direitistas (ou talvez não, podem ser pessoas reais), Partida nos leva para um road-movie (ou road-doc) que a diversão é observar como era divertido acompanhar discussões políticas entre os amigos no bar. Era divertido. Há muito tempo que as amizades foram desfeitas.
+Mas estou pintando a experiência de outra cor. Estamos falando de grandes nomes na direção mundial escrevendo pequenos ensaios sobre situações fictícias que dão apenas uma pincelada nesse enorme quadro. O filme já começa mostrando esse mosaico em pequenos retângulos onde se passa a ação, e vamos no decorrer da história preenchendo esses retângulos com os rápidos momentos que cada cineasta dedica ao projeto. Algumas histórias são muito boas, a maioria é medíocre e esquecível. Você com certeza terá sua favorita, ou favoritas.
 
-Este é um documentário necessário? Com toda certeza que não. Mas ele é ruim? Nem um pouco. É uma história até que coesa, e que tem Georgette, que é uma diversão à parte. Ela é o tipo de mulher inteligente, enérgica, que possui opiniões fortes, mas que não deixa de ser uma pessoa interessante para bater um papo no bar. Era o que eu faria se não tivesse uma próxima sessão assim que o filme acabou. Bom, fica pra outra vez. Bar e jogar conversa fora são duas riquezas que não faltam em solo brasileiro.
+O importante aqui é perceber como diferentes estilos se unem em uma reunião improvável. Essa experiência por si só é mais interessante do que o tema Paris. Temos Irmãos Coen em um lado, Assayas de outro e Cuarón de outro. Uma mistura totalmente nova se forma na tela e isso nos faz pensar na imensidão de vozes cinematográficas que há no mundo atualmente. É uma sensação de mostra cultural, de festival de cinema. Mas um festival só frequentado por gente de primeira.
+
+Então por que este não é um filme fora do comum? Bom, não se consegue isso com pinceladas tão breves. Como um filme único ele nunca funciona, pois vai pulando de história em história e mostrando personagens que não se conectam nem tematicamente nem narrativamente. A única conexão é que estamos em Paris. Esse é o laço. Sequer podemos chamar de romance, pois há quadros, como o de Walter Salles, que diz mais sobre amor e sociedade moderna. Já em Gus Van Sant temos algo mais experimental. Wes Craven nos entrega algo mais rotineiro e eficiente. Como conciliar tudo isso em torno de um longa-metragem?
+
+Não há solução. É um filme bom de se ver, de vez em quando. Mas ele não trará nenhum traço de unidade. É como se estivesse colocando para tocar o DVD de curtas da Disney. E até isso ainda teria uma unidade: são curtas idealizados pela mesma equipe. Aqui a mistura é forte demais para fazer sentido. Curta com seu(sua) companheiro(a).
 

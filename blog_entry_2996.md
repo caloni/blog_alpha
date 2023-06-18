@@ -1,14 +1,15 @@
 ---
 categories:
-- writting
-date: '2012-03-25'
-link: https://www.imdb.com/title/tt0851578
-tags:
-- movies
-title: Paprika
+- cooking
+date: '2021-03-27'
+link: https://www.instagram.com/p/CCJAULPDsJ-/
+tags: []
+title: Pão de Queijo Fácil
 ---
 
-Paprika funciona muito bem como cinema experimental, onde boas ideias costumam nascer. A ideia central da história, a manipulação e compartilhamento dos sonhos de uma pessoa, deu origem, por exemplo à [A Origem]! No entanto, diferente da experiência racional de Christopher Nolan, Paprika não se preocupa em desenvolver muito seus personagens ou mesmo sua história, em que não temos muita certeza das ameaças por trás da invenção dos sonhos ter caído em mãos erradas. De certa forma, o filme é tão poético ou tão caótico quanto os próprios sonhos que estamos acostumados a ter. Sem algo que prenda as atenções, o subconsciente é importante para apreciarmos um filme de sensações e, principalmente, de conexões não sempre lógicas ou mastigadas.
+A receita original veio do Instagram de uma queijaria de Poços de Caldas, a Queijaria Real. Nessa receita existem apenas três ingredientes, mas já percebi na primeira vez que fiz que faltou sal. Porém, ela é muito mais simples e rápida que a receita que mantenho de [pão de queijo mineiro].
 
-[A Origem]: {{< relref "a-origem" >}}
+Misture uma caixinha de creme de leite (200 ml), 1 copo de queijo ralado (parmesão ou mussarela ralada) e 1 copo de polvilho (polvilho doce) até soltar das mãos. Pode ir colocando mais polvinho até soltar. Faça bolinhas e coloque em forma untada em forno pré-aquecido "quente" (minha primeira tentativa a 200 graus funcionou bem). Aguarde ficarem levemente douradinhos.
+
+[pão de queijo mineiro]: {{< relref "pao-de-queijo" >}}
 

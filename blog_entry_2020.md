@@ -1,24 +1,17 @@
 ---
 categories:
 - writting
-date: '2010-09-09'
-link: https://www.imdb.com/title/tt0266697
+date: '2022-11-21T20:12:39-03:00'
 tags:
-- movies
-title: 'Kill Bill: Volume 1'
+- coffee
+title: Kiki Café
 ---
 
-Não é preciso dizer que Quentin Tarantino é um diretor pop e cult, e uma coisa o levou à outra. Também não é preciso dizer o quanto filmes de artes marciais são um pedaço importantíssimo na cultura pop/"trash" dos anos 70 e 80. Se juntarmos esses dois universos teremos Kill Bill, um filme feito para ser um só, mas que por motivos comerciais acabou inchando e dividindo-se.
+Foi uma ótima surpresa do bairro do Ipiranga. No penúltimo andar de um prédio da Bom Pastor em um pequeno espaço fica esse simpático café com nerdices modernas espalhadas pelo local, como cubos mágicos, um minibat-sinal e livros do William Gibson (Neuromancer) e Douglas Adams (Guia do Mochileiro). A vista panorâmica virada para a Avenida do Estado é bacana, dá um motivo a mais para visitar. Há um pequeno terraço com apenas um lugar. Durante a Copa eles estarão com uma TV ligada nos jogos.
 
-A primeira parte introduz A Noiva (Uma Thurman), uma matadora profissional que acaba traindo ou deixando seu grupo e é caçada e abatida em seu próprio casamento em uma capela no meio do nada. O absurdo da situação não poderia ser mais estilizado. O início do filme em preto e branco evidencia a crueldade milimetricamente calculada com que A Noiva é almejada.
+Estava um dia quente e pedimos cafés gelados, um doce e outro puro com gelo. O puro estava muito agradável, saboroso, mesmo. Feito com espresso. Há a opção de vir com uma rodela de laranja, mas preferi sem. O doce era com leite condensado, mas não estava tão doce quanto os da Starbucks. Era bem equilibrado. Dava pra sentir o gosto do café, refrescar e ainda curtir o leve sabor adocicado.
 
-Sabemos quem é Bill logo no início da trama, com seu nome escrito no lenço que enxuga o rosto ensanguentado da noiva. Sabemos também que, pela ordem da matança, ela irá sobreviver ao seu primeiro desafio de sua busca por vingança.
+Para comer pedimos um misto de frango, patê e milho na baguete surpreendente para um lanche de café. Tudo é feito com muito capricho. De doce pedimos o brownie na versão quente. A textura estava excepcional. Uma massa úmida pela gordura, mas não pesada. Para alguns pode ser doce demais. Para mim estava no ponto.
 
-Mesmo assim, o Volume 1 levanta algumas questões que ficam sem ser respondidas, mas que criam uma graça na própria história da protagonista. Por que censurar seu nome? Talvez tenha um significado especial dentro do contexto da história, mas nunca ficamos sabendo. Da mesma forma, algumas decisões do diretor evidenciam sua disposição em homenagear esse Cinema asiático de raiz que tanto nos cativou em O Tigre e o Dragão já formatado como "arte". É por isso que vemos a tela dividida na cena do hospital, onde podemos observar tanto a sua fragilidade em coma quanto a crueldade de sua inimiga se aproximando com uma injeção letal. Da mesma forma, a sirene nos avisa do perigo iminente. Se algumas perguntas são deixadas em suspenso, as respostas berram em alto e bom som aos quatro cantos da tela.
-
-Mesmo apelando para violência gratuita, ela é estilizada e se torna menos visceral que em Cães de Aluguel ou mesmo Pulp Fiction. O anime, além do seu aspecto agressivamente expressivo, já explora o absurdo das mortes e do sangue jorrando das vítimas de golpes de espada, um efeito que se repetirá no próprio filme, dando uma espécie de prévia do surrealismo que presenciaremos nas lutas do Japão. Da mesma forma o som segue o repertório de filmes do gênero, com a espada fazendo barulho de lâmina sempre que é manuseada, ou a cabeça de um louco 88 mexendo e fazendo barulho de eco.
-
-A grande sequência do filme, apesar de artificial e soar sem propósito, possui uma técnica primorosa, pois precisa mudar de foco para acompanhar o movimento do cenário, pois não há um personagem único atrás das câmeras. E o surrealismo das cenas de luta do restaurante é incrementado pelo tom cerimonioso da própria luta e da situação de todos.
-
-Infelizmente, por ordens comerciais, o filme foi mutilado em dois e lançado em um espaço de meses no cinema. Isso torna a experiência frustrante, mas não o filme, se visto como um todo.
+Vamos voltar mais vezes. Este é um ótimo achado, e próximo do bairro onde moramos. Além disso, é do lado do restaurante de culinária japonesa Oishisa e há uma parceria entre eles. Nada pode ser tão bom que não possa melhorar.
 

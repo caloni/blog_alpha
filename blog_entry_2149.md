@@ -2,13 +2,13 @@
 categories:
 - writting
 date: '2021-05-22'
-link: https://www.imdb.com/title/tt14536130/
+link: https://www.imdb.com/title/tt14536144/
 tags:
 - series
-title: 'Love, Death & Robots: Automated Customer Service'
+title: 'Love, Death & Robots: All Through the House'
 ---
 
-Um futuro estilo Wall-E só com humanos velhos e pets, sendo que pet pode ser um desses cachorros pequenos ridículos ou uma espingarda. As máquinas fazem tudo pelos humanos, inclusive causar um pouco de emoção, como um aspirador se revoltar e sair matando seu dono. É o que acontece nesse episódio da série que une efeitos digitais com histórias curtas e sangrentas ou sexuais (ou ambos, meu preferido).
+Um delicioso conto narrado em uma animação sólida, que conhece as texturas para mesclar o quase fofinho com o horripilante. Gostei particularmente do momento Aliens, mas toda a sequência é brilhante em se auto-conter em seu universo limitado: crianças aguardando o Papai Noel na noite de Natal. Onde estão os adultos nessas horas?
 
-A nova temporada da série estréia em baixa com uma história requentada de outros carnavais e com efeitos que não nos causa qualquer comoção. Seria até desejável que essa velhinha fosse finalmente assassinada. A série é sobre isso. E ela trai suas premissas. Não há morte. Não há sexo. Só robôs e humanos sem amor
+Não importa. É isso que quero dizer com universo limitado. Só essa sequência é o que importa. O episódio pega uma história lúdica com uma ideia provavelmente já executada inúmeras vezes, mas dessa vez elevada para a grande computação. Os efeitos digitais convencem. Claro que com uma direção incisiva dessas nós não podemos nem evitar sermos convencidos pela própria historieta. Se fosse contada com desenhos no papel de pão já seria assustador.
 

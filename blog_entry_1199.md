@@ -1,22 +1,91 @@
 ---
 categories:
-- writting
-date: '2017-03-26'
-link: https://www.imdb.com/title/tt3312868
-tags:
-- movies
-title: Deep Web
+- coding
+date: '2008-06-06'
+tags: null
+title: Declaração x definição
 ---
 
-Este é um documentário que irá te dar uma visão diametralmente oposta do que você já ouviu falar sobre a deep web na mídia. Para começo de conversa, o filme não fala sobre assassinos e pedófilos, e quando fala sobre crimes cibernéticos, estranhamente eles são cometidos sem vítimas. A venda de drogas em um site chamado Silk Road se apresenta um mercado onde vendedores e compradores conseguem, sem o uso da violência e evitando riscos físicos, trocar drogas de todos os tipos.
+Uma diferença que eu considero crucial na linguagem C/C++ é a questão da declaração/definição (em inglês, declaration/definition). É a diferença entre esses dois conceitos que permite, por exemplo, que sejam criadas estruturas prontas para serem conectadas a listas ligadas:
 
-O longa coloca como exemplo drogas recreativas, como cocaína e heroína, se esquecendo do imenso potencial de salvar vidas ao comercializar para os EUA as drogas patenteadas e monopolizadas pela indústria farmacêutica de lá a preços abusivos. No entanto, como contraparte, oferece a gratificante visão das vidas anônimas salvas, que não serão vítimas da força policial na guerra contras as drogas.
+    struct Element
+    {
+       int x;
+       int y;
+       Element* next;
+    };
 
-O diretor e roteirista Alex Winter está desenrolando os fatos como uma série de eventos a respeito do severo julgamento de um dos criadores/mantenedores do site, Ross Ulbricht, capturado em uma operação ligeiramente ilegal do FBI, o que se for levado a cabo pode abrir precedentes para o abuso de poder digital do governo contra seus cidadãos. O processo jurídico, principalmente pelo aspecto técnico, lembra muito a truculência e as técnicas estatais vistas na excelente série documental Making a Murderer, embora não com o rigor invejável dos documentaristas daquele trabalho.
+Por outro lado, e mais importante ainda, é ela que permite que as funções sejam organizadas em unidades de tradução (cpps) distintas para depois se unirem durante o link, mesmo que entre elas exista uma relação de dependência indissociável:
 
-Aqui a sensação é que não houve um empenho muito grande em explicar as bases filosóficas do autor de Silk Road, um libertário convicto, pois pelos seus comentários online entendemos ter criado o serviço não apenas como um empreendimento capitalista, mas como uma declaração política. O libertarianismo está se espalhando de vento em popa pela internet conforme sua coerência é desafiada por qualquer discussão política em que ele apareça, mas para o público comum, esse ainda pode ser um tema bem espinhoso, e apenas relacionar o criador de um chamado traficante (pelo governo) com figura como o economista mais brilhante do século passado, Ludwig von Mises, pode tornar os conceitos mais confusos do que esclarecedores.
+{{< image src="cdepends.gif" caption="C Dependency" >}}
 
-Por outro lado, o jogo de cena do filme é abalado pela verdadeira cortina de fumaça que se instaura nos detalhes do processo, justificando as explicações em torno do uso democrático de uma criptografia que torne a privacidade das pessoas algo realmente sério e independente de autorização governamental. Porém, assim como é citado pelo narrador, a principal dificuldade de revolucionários matemáticos contemporâneos em garantir liberdade e privacidade não é criar a tecnologia, mas torná-la viável para o usuário final. E isso nem o documentário consegue cumprir. Eu sou um crítico de cinema, mas também um profissional da área; entendo perfeitamente os processos que essas mentes brilhantes estão conduzindo. Mas, infelizmente, Tor, bitcoin e criptografia assimétrica são temas obscuros para o grande público, e o seu uso transparente depende cada vez mais de grandes corporações como Google e Apple.
+Existem diversas formas de entender esses dois conceitos. Eu prefiro explicar pela mesma experiência que temos quando descobrimos a divisão hardware/software:
 
-De qualquer forma, este documentário é o grande aviso de vanguarda do que está a vir no mundo. Mesmo sendo conduzido por métodos burocráticos, se trata de um trabalho de referência, que pode vir a ser útil se você quiser se aprofundar mais nos temas que unem direitos civis, internet, privacidade e liberdade individual.
+ - Hardware é o que você chuta
+ - Software é o que você xinga
+
+Exatamente. Hardware é algo paupável, que você pode até chutar se quiser. Por exemplo, a sua memória RAM! No entanto, software é algo mais abstrato, que nós, seres humanos, não temos a capacidade de dar umas boas pauladas. Portanto, nos abstemos a somente xingar o maldito que fez o programa "buggento".
+
+Da mesma forma, uma declaração em C/C++ nos permite moldar como será alguma coisa na memória, sem no entanto ocupar nem um mísero byte no seu programa:
+
+    /* tamanho em memória: zero bytes */
+    int func(int x, int y, int z);
+    
+    struct Teste
+    {
+      /* tamanho em memória: zero bytes */
+    	char bufao[0x100000]; 
+      /* tamanho em memória: zero bytes */
+    	int intao[0xffffff];
+    };
+    
+    /* tamanho em memória: adivinha! */
+    extern int x;
+
+Por outro lado, a definição, o hardware da história, sempre ocupará alguma coisa na memória RAM, o que, de certa forma, permite que você chute uma variável (embora muitas outras também irão para o saco).
+
+    /* tamanho em memória: */
+    int func(int x, int y, int z)
+    {
+    	int ret = x + y + z; /* alguns _asm add + */
+    	return ret;          /* um _asm ret */
+    }
+
+    /* tamanho em memória: 
+       0x100000 + 0xffffff * 4 
+       = 1048576 bytes
+    */
+    Teste tst;
+
+    /* tamanho em memória: 
+       sizeof(int) bytes
+    */
+    int x;
+
+Dessa comparação só existe uma pegadinha: uma definição também é uma declaração. Por exemplo, nos exemplos acima, além de definir func, tst e x, o código também informa ao compilador que existe uma função chamada func, que existe uma variável tst do tipo Teste e uma variável x do tipo int.
+
+Informa ao compilador? Essa é uma outra ótima maneira de pensar a respeito de declarações: elas sempre estão conversando diretamente com o compilador. Por outro lado, nunca conversam diretamente com o hardware, pois ao executar seu código compilado, as declarações não mais existem. Foi apenas um interlúdio para que o compilador conseguisse alocar memória da maneira correta.
+
+Complicado? Talvez seja, mesmo. Mas é algo que vale a pena fixar na mente. Isso, é claro, se você quiser ser um programador C/C++ mais esperto que os outros e resolver pequenos problemas de compilação que muitos perdem horas se perdendo.
+
+Então por que diabos a separação declaração/definição consegue definir coisas como listas ligadas, como no código acima? A resposta é um pouco ambígua, mas representa regra essencial na sintaxe da linguagem: após a definição do nome e do tipo de declaração envolvida podemos referenciá-la como declaração, ou seja, não ferindo a limitação de que não sabemos o tamanho de uma variável do tipo declarado. Dessa forma, é perfeitamente legal definirmos um ponteiro para uma estrutura que ainda não se sabe muita coisa, além de que é uma estrutura:
+
+    /* atenção: declaração apenas! */
+    struct Estrutura;
+
+    /* ponteiro para declaração: 
+       não sabemos o tamanho ainda
+    */
+    Estrutura* st;
+
+Dessa forma, o começo de uma definição de estrutura já declara o nome da estrutura antes de terminar a declaração do tipo inteiro. Bizarro, não? De qualquer forma, isso permite a construção clássica de lista ligada:
+
+    /* a partir daqui Estrutura já está visível */
+    struct Estrutura
+    {
+      /* recursividade? é apenas um ponteiro! */
+    	Estrutura* st;
+    };
+
+Se vermos pelo lado prático, de qualquer forma seria impossível definir uma variável dentro dela mesma, pois isso geraria uma recursão infinita de definições, e, como sabemos, os recurso da máquina são finitos.
 

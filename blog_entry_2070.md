@@ -1,16 +1,13 @@
 ---
 categories:
 - writting
-date: '2014-09-21'
-link: https://www.imdb.com/title/tt0108065
+date: '2023-01-08T21:04:03-03:00'
 tags:
-- movies
-title: Lances Inocentes
+- series
+title: O Cangaceiro do Futuro
 ---
 
-Estreia do diretor Steven Zaillian, Lances Inocentes conta a história do jovem enxadrista Joshua Waitzkin baseado no livro escrito pelo seu pai. No entanto, seria simplista demais considerá-lo um filme apenas sobre xadrez (ou sobre jovens enxadristas), uma vez que o roteiro escrito também por Zaillian busca não apenas compreender o universo desse microcosmos de pessoas obcecadas por esse jogo como também consegue levantar diferentes questionamentos a respeito das decisões (ou indecisões) dos pais desses jovens prodígios e do próprio amadurecimento prematuro do caráter desses pequenos gênios, além de comparar a juventude inocente e ingenuamente cordial com o rancor de quem nunca chegou tão longe no ranking dos vencedores, apesar de ter dedicado toda sua vida para esta tríade lógica chamada ao mesmo tempo de esporte, ciência e... arte.
+Esta comédia de costumes existe porque as produções de streaming precisam surgir com pouco dinheiro, ideias e paixão. Apresenta um nordestino na metrópole de São Paulo e que não faz nada direito. Seu sonho é voltar para seu Nordeste e seu santinho atende seu desejo, só que na época de Lampião, o cangaceiro sanguinário. E ele é a cara cuspida e escarrada do meliante. O vilarejo para onde ele vai parar lembra muito os elementos vistos em [Deus e o Diabo na Terra do Sol], filme superestimado do Cinema Novo, dirigido por Glauber Rocha e sem roteiro. Assistindo ao Cangaceiro do Futuro nós entendemos porque algumas histórias ficam melhores sem roteiro.
 
-Usando como pano de fundo o sumiço repentino de Bobby Fischer após vencer o campeonato mundial -- o único herói dos americanos nesse jogo, quando em plena Guerra Fria vencera o russo detentor do título -- a história flerta com a possibilidade do "próximo Bobby" estar em alguma dessas jovens mentes que são levadas pelos pais entusiasmados pela capacidade de seus filhos para todo e qualquer campeonato sendo disputado. Apesar de não conter cenas de ação, um dos muitos artifícios usados pelo filme para tornar um embate mental que para a maioria dos espectadores soaria maçante em algo empolgante são os cortes ligeiros e ritmados que acompanham uma trilha sonora nunca entediante. A história em si segue uma ordem cronológica simples que pontua aqui e ali momentos mais importantes da mini-carreira do jovem Joshua, mas é nas partidas e nos torneios que o engrandecimento do que está acontecendo em sua mente frenética nos tabuleiros que conseguimos acompanhar mais de perto como é a vida de quem decidiu encarar o xadrez como algo mais do que apenas diversão.
-
-Bônus: o verdadeiro game entre Jeff Sarwer e Joshua Waitzkin está no site chessgames.com (com alguns comentários do próprio Jeff, agora adulto!). Foi o próprio Waitzkin que elaborou as mudanças da final vista no filme para torná-la mais emocionante. Acredito que nós, enxadristas, podemos dizer que ele conseguiu =)
+[Deus e o Diabo na Terra do Sol]: {{< ref deus-e-o-diabo-na-terra-do-sol >}}
 

@@ -1,20 +1,26 @@
 ---
 categories:
 - writting
-date: '2020-06-07'
-link: https://www.imdb.com/title/tt0445336
+date: '2019-10-12'
+link: https://www.imdb.com/title/tt8908514
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Vocês, Os Vivos
+title: Você Tem a Noite
 ---
 
-Gosto de filmes assim. Sobre qual assunto? Sobre a vida. Com e sem sentido. Estamos aqui e é isso. Se fôssemos escolher o gênero que filmaríamos vida óbvio que seria comédia. Woody Allen vem dizendo isso há séculos, e ele tem razão. E agora este filme com produção em seis países vem dizer o mesmo, inclusive com a mesma trilha sonora de Allen, em um trabalho instigante e sem muitas respostas prontas. A única é que tudo isso é irrelevante. Então bora assistir TV.
+"Eu não tenho nada. Você tem a noite."
 
-Tons pastéis eternos, a estranheza dos quadros imutáveis, com a câmera parada. Até um prédio inteiro se move, mas a câmera permanece. Isso é entrega total. Muitos olham para nós. Nós somos os vivos. Eles são fruto da imaginação de um. Eles mesmos estão apenas em um filme, e nos contam, olhando para nós, seus desejos e frustrações disfarçados de sonhos. Não são complicados. É a simplicidade que toma conta da tela e nos ensina que não é preciso muito para viver.
+Você Tem a Noite é daqueles filmes que ficamos durante o tempo todo tentando descobrir se estamos conseguindo acompanhar alguma história ou há algo mais do que vemos na superfície, e essa inconstância interpretativa no nosso cérebro não significa que o filme é ruim.
 
-Mas mesmo assim esse psiquiatra do filme nos confessa que trata de pacientes egoístas, egocêntricos e mesquinhos por vinte e sete anos tentando fazê-los felizes. Agora desistiu e se contenta em receitar medicamentos mais fortes. Há muitas bandas e tubas, tambores e trompetes. Se há algo na vida que faz sentido este algo é a música, não a psiquiatria.
+A falência de uma empresa centenária causa a demissão de funcionários habitantes de uma cidade portuária, e o que testemunhamos através das melancólicas lentes do diretor Ivan Salatic (que assina o roteiro) diz respeito ao colapso da sociedade atual visto através dos tristes eventos de uma família, inserida nesse panorama a tal ponto que se tornam representantes dessa decadência.
 
-Um homem sonha que está em uma festa de uma família que ele não conhece ninguém. Para quebrar a gelo ele faz pela primeira vez em sua vida o truque da toalha com a porcelana da trisavô da família e a destrói completamente. É sentenciado à morte pela cadeira elétrica. "Tinha 200 anos a porcelana". A sequência vai até o final e os comentários se tornam bizarros pelo incômodo do surreal. "Tente pensar em outra coisa", sugere o carrasco. Ao final o réu onírico conclui: "que invenção horrível a cadeira elétrica!"
+Trocando em miúdos, esta é uma história sobre transição. O seu resumo pode ser ouvido de um homem velho, que lamenta seu infortúnio de não poder parar de trabalhar, e se antes, na juventude, o trabalho quebrava suas costas, pelo menos havia o "espírito coletivo" como significado, que compensa pela vida dura. Agora, destituído dos valores da camaradagem, indivíduos como ele sofrem ainda mais, destituídos até do significado de tal sofrimento.
 
-Este é um filme de sensações geradas por montagens estáticas, cuja câmera nunca se move, por orgulho, e pessoas fazendo coisas triviais no dia a dia, mas sempre com algo fora do lugar. Pode ser que nem todas funcionem com você, mas alguma com certeza você se lembrará sem querer daqui a alguns anos. Não é bizarra a vida? Mais do que a TV com certeza.
+Ele está obviamente comparando os modos de produção comunista e capitalista, regimes pelos quais sua geração fez parte, respectivamente. E esta não é necessariamente uma ode aos velhos tempos, mas o questionamento em aberto do que se ganhou nessa transição. Agora o velho perde tudo, exceto seus conhecimentos de sobrevivência primitiva, como pescar e vender. Mas lhe faltam os equipamentos. O corporativismo, tornando os pequenos barcos obsoletos, tornou seus trabalhadores incapazes de sobreviver às crises como a que eles estão vivendo.
+
+"Você Tem a Noite" possui uma narrativa estruturada, mas prefere seguir por caminhos mais "artísticos". A beleza do filme reside em suas tomadas, enquadramentos que lembram quadros vivos e que dizem mais sobre o vilarejo e as pessoas que nela moram, seus costumes e valores, do que mover a história de fato. Formado por fragmentos, a narrativa é meio caminho para percorrermos essa parte da História acontecendo diante de nossos olhos. Há enormes dúvidas na composição do filme, e elas alimentam o tom melancólico do que vemos.
+
+Um garoto tem o braço mordido por um cachorro. A tentativa de consertar um motor para a reforma de um barco dá errado. Um mergulhador morre. Casais se separam. Os fragmentos em si só não dizem nada, mas é a junção que Ivan Salatic faz que termina extraindo um pouco de significado em meio a este passeio panorâmico sobre Montenegro.
 

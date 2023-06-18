@@ -1,40 +1,29 @@
 ---
 categories:
-- coding
-date: '2016-04-16'
-tags: null
-title: Rank and File (Code Jam)
+- writting
+date: '2019-09-13'
+link: https://www.imdb.com/title/tt1206885
+tags:
+- cinemaqui
+- movies
+title: 'Rambo: Até o Fim'
 ---
 
-Passou o Round 1A do Code Jam, e para variar, fui muito mal, só respondendo a primeira questão. A [segunda](https://code.google.com/codejam/contest/4304486/dashboard#s=p1) me fez ficar pensando um tempo desproporcional sobre como encaixar as diferentes linhas e colunas para achar a linha restante.
+"Rambo: Até o Fim" fecha o ciclo iniciado por "Rambo - Programado Para Matar", primeiro filme de cinco que usaram o ex-soldado do Vietnã traumatizado que usa com certo prazer suas habilidades de guerra em civis. E ele encerra nos mesmos moldes do filme anterior, de 2008: brutal e sanguinário a ponto de questionarmos até que ponto tudo isso é justificável.
 
-Basicamente, o problema pede que, dado um quadrado de tamanho N, e 2*N-1 linhas fornecidas (que podem ser linhas ou colunas), imprimir a Nésima linha. A regra das linhas é que ela possui números crescentes.
+Nunca entendi muito bem a mensagem por trás de Rambo: justiceiro com habilidades especiais, ele derruba policiais corruptos e cartéis de drogas, e muitas vezes exagerando na dose de como ele faz isso. E tudo sozinho. Esse exagero se tornou a marca registrada do controverso herói no cinema. Ele envelheceu, mas nunca mudou.
 
-Bom, não consegui chegar numa solução para o problema errado (encaixar as linhas), mas fui, como sempre, dar uma espiada nas respostas dos competidores, em especial a do [primeiro colocado](https://code.google.com/codejam/contest/4304486/scoreboard#vf=1). O grande barato de competições como essa é aprender com a inteligência e genialidade dos outros. Para mim, esse é um exemplo de genialidade:
+A história deste quinto filme o coloca vivendo em um rancho com a família que adotou, uma senhora latina e sua filha adolescente, Gabrielle. Ajudando a comunidade local quando há pessoas a serem salvas, seu trauma é não conseguir salvar todo mundo. E esse seu carma será posto a prova quando Gabrielle é sequestrada por uma gangue mexicana que vive do mercado de jovens como escravas sexuais.
 
-```
-int cnt[2501] = {}; // zerando o array
+Quando Gabrielle descobre o paradeiro do seu pai ela tem uma discussão amigável com Rambo para que a deixe visitá-lo em busca da resposta que sempre quis ter: por que seu próprio pai abandonou a família justo no momento que mais precisavam. "As pessoas não mudam", resume Rambo em seu argumento. "Quem é mau sempre será mau, e é bom manter distância dessa gente".
 
-int main()
-{
-	for(int i = 0; i < n * (2 * n - 1); i++)
-	{
-		cin >> j;
-		cnt[j] ^= 1; // inverte primeiro bit do inteiro
-	}
-	printf("Case #%d:", t);
-	for(int i = 1; i < 2500; i++)
-		if (cnt[i]) 
-			cout << " " << i; // se não for zero (ou seja, ímpar) imprime
-	cout << endl;
-}
-```
+E esse é o primeiro indício de que "Até o Fim" não irá se render à nova era, onde não se combatem criminosos, mas os desculpamos, os vitimizamos, e assim todos se sentem culpados por existirem crápulas na sociedade. Todos, menos John Rambo. Ele está disposto a ir até... sim, o fim, para fazer o que acha certo, e do jeito que ele gosta: com muita, muita violência.
 
-_Obs.: O código está higienizado, pois esse pessoal usa bastante macros, etc._
+É por isso que nesse filme os bandidos são maus de verdade, e cometem atrocidades com as jovens que mantém em cativeiro. Os chefões da área, os irmãos Martinez, sequer hesitam em bater em um quase idoso (este é Rambo) que veio procurar sua filha, e marcar os dois no rosto com um facão como propriedade. Tudo isso para que no terceiro ato, quando Rambo irá tocar o terror, como fez em todos os outros filmes, nos sintamos extasiados por cometer vingança contra toda essa gente do mal.
 
-A solução basicamente decide isolar duas questões: achar os números que faltam nas sequência e imprimi-los na ordem. Para o primeiro, varre todas as sequências sinalizando qual deles tem a quantidade ímpar (ou seja, não está representado em todas as linhas e colunas, pois do contrário seria par). Depois ele resolve a segunda questão simplesmente imprimindo os números ímpares encontrados, já na ordem (no array de valores possíveis).
+Adrian Grunberg, depois de tantos outros projetos como segundo diretor, aqui assume a direção principal, e não o torna uma paródia da própria série, evitando que as cenas sangrentas se tornem risíveis demais. Grunberg conduz a história como um verdadeiro drama, em um ritmo cadenciado e frequentemente com vistas panorâmicas do pequeno paraíso onde vive a família Rambo. E não fosse este um filme que eventualmente descamba para a ação desenfreada este poderia ser a versão mais reflexiva sobre o herói.
 
-Simples, rápido, eficiente. E correto.
+Mas, felizmente ou infelizmente, Rambo precisa se vingar, e ele logo arruma uma desculpa para virar o justiceiro que tem habilidades de guerra. E por isso o roteiro de Matthew Cirulnick é apenas um guia que nos conduz aos momentos necessário de um filme da saga, tornando uma trama que tinha o potencial de algo mais coeso virar uma mera desculpa para vermos o ex-soldado em ação. E ele entra em ação usando todos os artifícios que já usou nos filmes anteriores. Exceto um helicóptero.
 
-É esse tipo de coisa que faz valer a pena uma competição dessas.
+"Rambo: Até o Fim" está longe de ser o pior filme da série, mas também está longe de ser o melhor. Ele cumpre seu papel moderado, de resgatar o personagem e nos fazer pensar se ele ainda é válido no nosso mundo contemporâneo. Talvez essa seja a mensagem desse filme, no final das contas.
 

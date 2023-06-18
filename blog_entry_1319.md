@@ -1,12 +1,11 @@
 ---
 
-Bem forte, talvez um pouco avinagrado já, então não vou arriscar dizer que é ruim, mas a garrafa talvez já esteja comprometida. Não está envinagrado como eu temia, mas ainda é meio alcoólico e puxa a língua; não deixa de ser interessante, mas parece bem básico para um "Reservado".
+Encorpado com final leve; pouco frutado e muito seco e tânico; combina com bife. Cor atijolada, amadeirado cheio de aromas; encorpado, ácido leve e com final frutas negras e taninos. Aberto na casa do Glauser e Michele com uma picanha no forno; foi respirando bem durante as horas.
 
 ---
 categories:
 - writting
-date: '2019-01-21'
-link: https://www.imdb.com/title/tt3534282
+date: '2015-06-12'
 tags:
-- movies
-title: 'Don Verdean: o Que o Passado nos Reserva'
+- food
+title: Don Pascual Tannat 2012

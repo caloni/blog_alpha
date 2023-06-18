@@ -1,18 +1,25 @@
 ---
 categories:
 - writting
-date: '2011-05-29'
-link: https://www.imdb.com/title/tt1013856
+date: '2016-03-30'
+link: https://www.imdb.com/title/tt3906650
 tags:
+- cinemaqui
 - movies
-title: Singularidades de uma Rapariga Loura
+title: Sinfonia da Necrópole
 ---
 
-O filme 9 - A Salvação se baseia em um curta anteriormente produzido. O resultado é que temos uma história curta o suficiente para ser contada em 10 minutos ser expandida em tediosos 79 minutos.
+Esse é o segundo musical brasileiro que estreia recentemente nos cinemas. O primeiro, Amor em Sampa, tropeça na falta de jeito nacional com trilha sonora. A boa notícia é que Sinfonia da Necrópole não só se sai bem melhor nesse quesito, como possui uma coleção de músicas inspiradas sobre o tema: o além-vida.
 
-O que se aprende nesse filme é que não se deve estender uma história, a não ser que se saiba o que se está fazendo. Infelizmente, Manoel de Oliveira nos apresenta um filme completamente diferente com a mesma peculiaridade: parece mais longo do que deveria.
+A história de passa em um cemitério, com um aprendiz de coveiro como protagonista, o Deodato (Eduardo Gomes). Convidado pelo tio já experiente, Deodato é sensível demais para o trabalho, algo representado no filme pelos seus constantes desmaios. O timing cômico dessas cenas é péssimo.
 
-O que acontece é que, para gastar o tempo, a montagem ocupa um tempo que é gasto em imagens paradas (como o horizonte da cidade onde os personagens vivem, por mais de cinco vezes mostrado em amplos segundos), mas, mesmo que isso significasse alguma coisa na narrativa, como demarcar a passagem do tempo, isso não ocorre. Avesso ao extremo, a própria passagem do tempo, quando necessária, ou se traduz em meras palavras da boca do protagonista ou quase não se percebe, de forma que não é um item com que, aparentemente, a narrativa se preocupe.
+Curiosamente, o timing dos números musicais funciona muito melhor. Cantado pelos próprios atores, em um modelo naturalista (embora dublado em estúdio), o pecado dessas cenas é nunca conseguir trabalhar o mise-en-scene (a disposição dos elementos na tela), nem o enquadramento. Chega a ser frustrante, pois diante das possibilidades que túmulos, jazigos, flores e corredores que um cemitério como o usado para as filmagens possui, o diretor sempre nos entrega monótonos planos gerais à altura dos atores.
 
-Ainda assim, se apenas isso significasse algo mais na surpresa final do "conto de 90 minutos", valeria a pena. Infelizmente, o conto de Eça ainda parece ser uma melhor pedida.
+Quando a prática Jaqueline (Luciana Paes), uma agente funerária que chega para modernizar o cemitério, movendo alguns jazigos de lugar para construir o equivalente aos apartamentos cada vez menores de hoje em dia, Deodato é escolhido como seu ajudante, e instantaneamente rola uma química mais que forçada entre os dois.
+
+E apesar desses pesares, Sinfonia da Necrópole acerta, acredite ou não, em toda sua crítica velada (trocadilho não-intencional) ao modo de vida moderno, e ao rebuscar sua história com números musicais imaginados por Deodato, torna tudo mais interessante e mais florido (mais uma vez, trocadilho não-intencional). E quando a questão ética (ou talvez religiosa) faz com que os próprios mortos realizem sua canção, o filme chega próximo de se tornar algo mais do que um episódio inspirado em um especial de humor na TV.
+
+Porém, ainda que cozinhado em banho-maria todo o tempo, ele é capaz de despertar a simpatia por sua leveza em tratar o tema da morte. Nem que seja por piadas como "onde Judas bateu as botas" ou "esse assunto não é da nossa ossada".
+
+É capaz que essas piadas tenham me influenciado a fazer dois trocadilhos em apenas um parágrafo, embora nenhum dos dois seja intencional. E talvez esse seja o problema com "Sinfonia". Ele consegue ser muito bom em alguns momentos, e engraçado em outros, mas torna tudo muito não-intencional.
 

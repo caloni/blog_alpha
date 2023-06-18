@@ -1,18 +1,26 @@
 ---
 categories:
 - writting
-date: '2014-05-01'
-link: https://www.imdb.com/title/tt0815245
+date: '2017-08-06'
+link: https://www.imdb.com/title/tt5541240
 tags:
 - movies
-title: O Mistério das Duas Irmãs
+title: O Mínimo Para Viver
 ---
 
-"Um filme vendido como terror, mas que não consegue sequer chegar próximo de um suspense. Depois de passarmos quase duas horas acompanhando a movimentação de uma câmera que parece estar sempre revelando algo espantoso ou fantástico (não está), temos uma série de revelações completamente atrapalhadas sobre algo que não estávamos sequer procurando desvendar."
+Mais um drama da Netflix que usa o seu formato já usado em trabalhos como The Fundamentals of Caring (Amizades Improváveis no IMDB). Há uma pessoa que vive com dificuldades, as famílias e desconhecidos em volta, o Keanu Reeves porque sim (o bom é que ele já ganha a graninha do metrô) e um filme leve demais para conseguir causar qualquer comoção ou profundidade no tema que quer abordar.
 
-Essa foi a descrição que fiz ao assistir o original coreano de Medo, ou "A Tale of Two Sisters". Já esse remake norte-americano O Mistério das Duas Irmãs (ou "The Uninvited"), com Emily Browning, traz justamente o contrário: vendido como um suspense, ele funciona como um suspense na maior parte do tempo, justamente por abraçar desde o começo os delírios de Anna, a irmã caçula que sofre um trauma após um incêndio que mata sua mãe , além de ter seus sustos ocasionais. No entanto, o forte dele reside justamente em nunca nos deixar em dúvida se aquelas aparições são ou não reais (não são), evitando aquele joguinho bobo de filmes como Amigo Oculto e o próprio filme original.
+O tema é anorexia. A menina principal já foi internada algumas vezes, tem pais separados, foi abandonada pela mãe que casou com outra mulher, vive com sua madrasta, pai sempre ausente e sua meia-irmã com bochechas rosadas.
 
-No entanto, existe uma dualidade presente justamente na segunda irmã da trama, e essa é desnecessária, clichê e que não possui propósito algum. Retire a irmã mais velha Alex (Arielle Kebbel) e troque o título do filme que ele continuará basicamente o mesmo. A necessidade dos Irmãos Guard (os diretores gostam de se apresentar assim nos créditos) de colocar Alex em diversas cenas acaba mais a enfraquecendo do que seu resultado final, que, convenhamos, é totalmente previsível e que não causa impacto nenhum.
+Ela é magra, super-magra, e vem piorando. Ela não consegue comer, mas é bonita e artista. Uma de suas pinturas foi motivo para uma de suas fãs do seu Tumblr se matasse (sempre o Tumblr). Ela agora é internada em mais uma instituição. Essa dessa vez é regida pelo Keanu Reeves, então sabemos que vai dar tudo certo dessa vez.
 
-No final das contas o roteiro é o elo mais fraco da trama. Se não fosse pela interessante trilha sonora de Christopher Young (O Exorcismo de Emily Rose), que revive tons triviais de suspense, e pela competente fotografia de Daniel Landin que consegue representar melhor efeito visual que os próprios... efeitos visuais, o resultado estaria bem próximo do seu irmão coreano. Felizmente, uma direção igualmente competente dos "Irmãos Guard" garante a consistência e coerência de uma história fraca, mas bem contada.
+Ou talvez não. Você não vai imaginar como a expressão de Reeves anda tão abatida ultimamente.
+
+O filme dirigido e escrito por Marti Noxon (Buffy: A Caça-Vampiros) coloca Lily Collins como Ellen, a menina artista sem graça um tanto depressiva e sem muita capacidade de empatia pelo espectador. Ela é simplesmente um ser humano que não sabe por que não consegue comer. Enquanto isso visitamos diferentes pacientes da instituição e seus dramas, cada um lidando do seu jeito, mas nenhum deles aparentemente melhorando.
+
+A intenção do filme é óbvia: dizer que as coisas não são tão simples quanto parecem. Esse é um lado bom da história. Ela também consegue te cativar, a despeito da protagonista, graças ao irritante e esquecível Luke (Alex Sharp). A tarefa de Sharp é aparentemente impossível, pois ele precisa não roubar o protagonismo de uma Collins quase completamente apática e inexpressiva, enquanto apesar de sabermos pouco sobre sua derrocada no balé, é o suficiente para despertar mais simpatia.
+
+Porém, sejamos justos. Ninguém é muito apetitoso falando de atuações, e Reeves é a cereja do bolo. Esperamos ansiosamente por alguns bons momentos de uma boa história, mas cozido a fogo médio, o filme de Noxon nunca chega a nos premiar com algum momento muito profundo, preferindo discorrer em um ambiente realista sobre os motivos que tornam uma pessoa anoréxica, e como fazê-la sair dessa situação.
+
+Qual o mínimo para viver quando a vida não faz muito sentido? Talvez nada. O que justificaria um final menos feliz por aqui. Infelizmente, as pessoas possuem esperanças sem motivo, mesmo.
 

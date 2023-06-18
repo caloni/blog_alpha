@@ -1,22 +1,41 @@
 ---
 categories:
-- writting
-date: '2017-02-17'
-link: https://www.imdb.com/title/tt3741834
-tags:
-- movies
-title: 'Lion: Uma Jornada Para Casa'
+- coding
+date: '2008-04-09'
+title: Linux e o DHCP
 ---
 
-Este é o filme indicado ao Oscar por fazer chorar. E por falar de um caso real, emocionante, e por falar sobre miséria e como os brancos são privilegiados. Se for um branco que fala inglês, então, nem se fala: a maioria do filme é falado em inglês.
+Quando procuramos no google por "linux dhcp", o que vem em resposta são diversas dicas, tutoriais, documentos oficiais e palpites sobre como configurar um servidor Linux.
 
-E até por ser falado em inglês ele é selecionável para o Oscar.
+Muito bem. E a outra ponta da história?
 
-Porém, esquecendo a parte emocionante da trama, o que dá mais gosto de ver em Lion é sua montagem. E a edição, já que a primeira metade realiza transições no tempo com uma facilidade que quase dispensa os letreiros. Mas a montagem, na segunda metade, consegue juntar a saudade e as memórias de Saroo com momentos imaginados por ele de quando deixou sua família. Aliás, deixou é eufemismo, pois o menino se perdeu e rodou o país de trem por dias. Sem condições de voltar e terminando em uma espécie de orfanato, é adotado por um casal de australianos.
+Estes testes foram feitos em um Fedora 8, não me pergunte mais detalhes.
 
-A estrutura narrativa de Lion é muito simples de entender, e é para ser mesmo, já que sua maior força reside nos atores, e a atuação de Dev Patel é surpreendentemente coesa -- mesmo não sendo o tipo de ator que saia da rotina -- mas a maior descoberta é o pequeno Sunny Pawar (e o pequeno Saroo), que faz a alma do filme inteiro em sua primeira metade. E até Nicole Kidman tem seus bons momentos.
+O primeiro linque útil encontrado foi a documentação da Red Hat. Além disso seguem alguns macetes que eu descobri no decorrer do percurso. A primeira coisa a ser configurada é o arquivo /etc/sysconfig/network. Nele devemos, em uma configuração simplista, colocar uma única linha:
 
-Mas, de qualquer forma, volto à montagem. O seu uso e os enquadramentos do diretor Garth Davis salvam o dia junto do editor Alexandre de Franceschi, pois transformam uma história que poderia ser até interessante, mas morosa, burocrática. Com uma câmera na mão, quase sempre focando os atores, e permitindo que apenas vejamos o cenários quando ele é relevante para a busca de Saroo, temos sua perspectiva como criança (fugindo à noite de adultos inescrupulosos) e como adulto, pois seu horizonte continua limitado por um verdadeiro muro de pedras.
+    NETWORKING=yes
 
-Por fim, apresentando uma Rooney Mara de luxo como par romântico do protagonista -- e sem muito o que fazer -- Lion é um filme realmente de Oscar: empolgante, emocionante, e um drama da vida real. Uma história inacreditável que apenas por ser filmada já é digna de prêmios.
+Tive alguns problemas com a entrada NETWORKING_IPV6, ou algo do gênero. A comunicação com o servidor DHCP da rede simplesmente não funcionava com essa linha, deixando o computador sem IP durante o boot. Má configuração do servidor? Pode até ser. Porém, não quis entrar nesses meandros.
+
+Por isso, se houver a linha sobre IPV6 e você tiver problemas, comente-a temporariamente.
+
+O passo seguinte é configurar a interface de rede, que é no fim das contas a representação da sua placa. Para isso temos alguns arquivos em /etc/sysconfig/network-scripts no formato ifcfg-nome-da-interface. Se você digitar ifconfig na linha de comando terá os nomes de interface disponíveis. No meu caso, eth0.
+
+    vi /etc/sysconfig/network-scripts/ifcfg-eth0
+
+    DEVICE=eth0
+    BOOTPROTO=dhcp
+    ONBOOT=yes
+
+    :wq
+
+Note que o valor BOOTPROTO é realmente BOOTPROTO, com um O no final. Tive alguns problemas de soletrar também nesse caso, o que me gerou mais alguns reboots mal-sucedidos.
+
+Bem, o que isso faz? Basicamente, manda o Linux utilizar o protocolo DHCP, procurando na rede algum servidor que lhe dê algum IP válido. Só isso. O resto ele faz dinamicamente.
+
+Inclusive alterar automaticamente o arquivo /etc/resolv.conf. Nele estão definidas algumas coisas como o domínio de nomes que estamos e os IPs de onde buscar a resolução de nomes.
+
+Feito isso, como se costuma dizer, voilà! Temos um cliente DHCP funcionando contente e feliz. Eu reiniciei a máquina para tudo dar certo, mas provavelmente devem existir maneiras mais saudáveis de reiniciar a rede (talvez um ifdown seguido de ifup resolvesse).  E agora eu posso finalmente ter acesso aos pacotes de instalação que precisava.
+
+Notas de um Linux padawan =)
 

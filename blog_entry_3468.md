@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2020-04-22'
-link: https://www.imdb.com/title/tt0091954
+date: '2015-09-29'
+link: https://www.imdb.com/title/tt0367027
 tags:
 - movies
-title: Sid & Nancy, o Amor Mata
+title: Shortbus
 ---
 
-Todo o clima insano, niilista, absurdo e depressivo do movimento punk da época dos Sex Pistols você confere neste filme sobre o baixista da banda e sua amada. Esta é uma biografia maior que suas partes, pois a sociedade vista por estas pessoas se reflete no filme e na forma com que seus heróis se enxergam.
+Um indie por natureza, apresentado em uma Nova York de maquete com textura surreal, colorido todo o tempo com uma extensa e agradável trilha sonora, protagonizado por atores em sua maioria completos desconhecidos e, para salpicar ainda mais, recheado de cenas de sexo reais, por casais, trios e grupos inteiros.
 
-As músicas expressam esse clima regado a drogas e vivendo no limite. Não há nada de bonito na cabeça dessas pessoas, e é exatamente isso que gera as miniobras de arte neste filme, como a sequência de vídeo-clipe, absurda, horrenda e fantástica. Os maiores poetas são os que sofreram mais.
+E qual o resultado disso? É possível que o sexo seja posto de lado, já que ele está tão visível na história, que vira os alicerces de todas as histórias de seus personagens, e o objetivo conquistado por Shortbus acaba sendo discutir os relacionamentos construídos em cima desses alicerces. Seriam eles sólidos o suficiente, ou são tão maleáveis e interpretativos quanto a Nova York de maquete?
 
-A direção de Alex Cox nos entrega uma imersão real e imediata, nos acompanhando com a câmera na mão pelos quartos e banheiros bagunçados e depressivos que esse casal frequentou. É como assistir a um documentário repulsivo e não conseguir virar a cara porque é tão viciante quanto as toneladas de drogas que eles ingerem. É real sem ressalvas ou proteção dos seus protagonistas. Eles foram usados e malhados como Judas em um filme que não torna o vício empolgante, nem bom, mas apenas parte da vida. Pelo menos de algumas.
+O pilar da narrativa é Sofia (Sook-Yin Lee), que é conselheira de casais e nunca teve um orgasmo, apesar de fazer sexo loucamente com seu parceiro, Rob (Raphael Barker). Tratando do casal principal, James (Paul Dawson) e Jamie (PJ DeBoy), ela acaba conhecendo Shortbus, um local onde pessoas vão para encontrar pessoas, fazer sexo em uma grande sala, participar de brincadeiras, ou simplesmente se desinibir.
 
-Sem julgar nem proteger o conteúdo biográfico por trás da carreira de Sid Vicius, a entrega de Gary Oldman e de Chloe Webb é completa. O casal principal sai das telas para popular nosso imaginário. A atuação de ambos trabalha em uníssono, há uma simbiose inatacável, por mais moralista que você seja. A vida deles é bela, curta e miserável. Eles têm um ao outro e precisam se matar para fugir dessa vida.
+Tratando de relacionamentos em um tom intimista, as decisões anárquicas do diretor/roteirista John Cameron Mitchell, tanto em dar a liberdade para que seus atores criassem seus próprios personagens quanto realizar todas as cenas de sexo de fato, parece ter dado resultado parcialmente. Se por um lado observar essa figuras metade do tempo nuas e brincando com seus órgãos genitais os traz para próximo do espectador, por outro discutir o eterno problema de achar seu lugar no mundo parece converter toda essa intimidade em uma busca vazia e nada enriquecedora. Como consequência, não há uma cena sequer que pode-se chamar de sensual ou caliente. Todas parecem tentativas frustradas de trazer esse significado à tona.
+
+Metafórico em alguns momentos, e sem sentido em outros, Shortbus pode ser encarado como uma coletânea de causos independentes que se encontram no cantinho homônimo de alguma viela nova-iorquina.
 

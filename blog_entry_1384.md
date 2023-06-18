@@ -1,11 +1,11 @@
 ---
 
-Muito ácido e quente, mas respirando e bochechando solta taninos interessantes, com gosto de ameixa ou frutas maduras e deixa de ser tão quente.
+Maçã verde, azedo mas equilibrado, aroma doce (mas não é doce). Degustação pós-visita na bodega.
 
 ---
 categories:
 - writting
-date: '2017-05-17'
+date: '2017-05-09'
 tags:
 - food
-title: El Esteco Don David Reserva Malbec Tannat 2015
+title: El Esteco Don David Malbec 2016

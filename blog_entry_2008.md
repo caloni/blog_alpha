@@ -1,20 +1,25 @@
 ---
 categories:
 - writting
-date: '2010-08-27'
-link: https://www.imdb.com/title/tt1155076
+date: '2018-05-20'
+link: https://www.imdb.com/title/tt7131720
 tags:
-- movies
-title: Karate Kid
+- animes
+- series
+title: Kakegurui
 ---
 
-Esse é praticamente um remake do original, só que em vez de caratê, como o nome supõe, a luta do filme é o kung-fu, onde o mestre é nada mais nada menos que Jackie Chan, o Sr. Han, que irá treinar Jaden Smith, o filho de Will, para se preparar para o torneio de Kung Fue se livrar das perseguições da escola.
+Tentando unir a paixão descontrolada ao risco com uma sugestão erótica, mais no anime do que no live action (atrizes japonesas só conseguem ser sexy aparentemente se já estão ocidentalizadas ou em filme pornô), esta é uma série que abusa de uma direção visceral que caminha compenetrado entre as lindas e jovens jogadoras, além de efeitos visuais capengas (mais no live action), como efeito nos olhos das personagens. Aproveitando o alívio cômico de um rapaz humilde e da catarse da heroína como muletas, esta é uma fórmula que pode ser repetida à exaustão.
 
-Interessante como o filme aponta a modernização e crescimento da China, quando Dre, o personagem de Jaden Smith, afirma ver que na China só tem coisas velhas, e logo quando chegam à Pequim veem a cidade olímpica recém-construída. Hoje esse resultado já fica um pouco datado.
+Tanto anime quanto o live action possuem a mesma ideia e a mesma história, repetida em todos os episódios: a novata desbanca a trapaça que os veteranos sempre utilizaram para ganhar da plebe.
 
-Este é um filme sobre amadurecimento (ou deveria ser) e no início vemos marcas do passado do garoto, como as que são feitas parar apontar sua altura conforme vai crescendo. E a última marca no batente da porta é quando eles se mudam para a China.
+A história é a seguinte: colégio de ricos onde o que importa é apostar em jogos de azar. Há até uma hierarquia que se baseia em quanto cada um deve em apostas. Os que ficam em débito viram escravos pessoais dos seus vencedores, além de servirem de chacota do resto dos estudantes. Basicamente qualquer um pode fazer o que quiser com os que possuem dívidas por perderem continuamente nos jogos de azar.
 
-Jackie Chan continua divertindo com suas cenas de luta, mas infelizmente vemos apenas uma, quando ele defende o menino de ser atacado por meia-dúzia de colegas de escola. Porém, aqui o modo de andar do Sr. Han demonstra que Chan busca criar um personagem com mais dimensões que seus filmes de ação costumam ter, e se sai razoavelmente bem, como podemos notar na cena em que ele revela o que aconteceu com sua família.
+Esse é um anime com estrutura clássica da novata que surge e que desbanca os veteranos, atraindo a atenção dos que vivem e coordenam o sistema há muito tempo.
 
-O estilo das lutas finais assume uma caricatura de videogame, com os pontos sendo contados em um telão no estilo jogos de luta, talvez para tentar amenizar a violência com as "crianças" como protagonistas. Ainda assim, eu diria que "Karate Kid versão 2010" impressiona mais pelo seu aspecto gráfico do que temático.
+As alegorias japonesas anti-capitalistas (ou anti-corporativistas) não são novidades, e essa não foge à regra, apesar de ser muito bem pensada. Os ricos do colégio, como no mundo real, só estão nessa posição não pela aparente sorte que rege a vida de todos em um sistema capitalista, mas vivem no topo graças à manipulação do jogo.
+
+Este é jogo de cartas marcadas disfarçado de jogo de azar, e é preciso uma justiceira genial e que realmente goste do risco para desbancar uma elite preguiçosa, arrogante e criminosa, que usa do seu status para perpetuá-lo.
+
+E basta ter jogos de azar inventados o suficiente que o circo do falso capitalismo sempre estará montado à espera de trouxas. Ou seja, é uma série que pode ser perpetuada para todo o sempre.
 

@@ -1,20 +1,24 @@
 ---
 categories:
 - writting
-date: '2018-12-08'
-link: https://www.imdb.com/title/tt7255502
+date: '2013-02-20'
+link: https://www.imdb.com/title/tt1560747
 tags:
-- series
-title: O Método Kominsky
+- movies
+title: O Mestre
 ---
 
-Essa nova criação de Chuck Lorre (Big Bang: a Teoria, Dois Homens e Meio) consegue elencar os excelentes Michael Douglas e Alan Arkin em plena forma, mas não parece dar lhes personagens dignos de suas performances. A série não parece muito certa de si se pretende seguir uma linha mais humorística ou dramática. Com certeza não consegue fazer os dois. Isso é para poucos, e do jeito que está o piloto já parece uma bagunça.
+Desde o início Freddie Quell (Joaquin Phoenix) é um animal não domesticado, obediente aos seus instintos mais primitivos e dotado de traços animalescos e infantis (como se divertir com peidos). Constatamos isso ainda pelo seu ritual de beber um quase veneno preparado por ele e brigar como um animal raivoso e enxergar sexo em qualquer lugar.
 
-Douglas faz um professor de atuação com seu próprio método, que leva seu sobrenome e que vira o título da série. Não está muito claro qual seu arquétipo: ele é um perdedor que se alimenta de alunas? Talvez. Mas ele parece um ótimo professor quando o vemos ensinando uma delas a atuar sendo ela mesma. Então não cabe a comédia.
+Acreditarmos em seu estado animalesco é vital para que entendamos desde o início. A suposta aura de superioridade que Lancaster Dodd (Philip Seymour Hoffman), o tal Mestre do título, parece atribuir à figura do homem não passa de um delírio da sociedade moderna. Para isso a colaboração incondicional dos dois atores em viverem essas caricaturas é o que determina o sucesso na comparação entre esses seres que parecem tão díspares. No entanto, note como Lancaster se enfurece ao menor sinal de crítica aos seus métodos, por mais ponderados e racionais que estes sejam, demonstrando que talvez seja uma versão podada do seu recém-amigo.
 
-Já Arkin consegue com seu pouquíssimo tempo de tela emocionar sem manipular. Ele é apenas o marido de décadas com uma esposa que padece de uma doença incurável que a vai levando aos poucos. E ele não precisa de muitos diálogos para se abrir ao público.
+O diretor Paul T. Anderson não poupa esforços para demonstrar que o aparente cientificismo nos ensinamentos de Lancaster não passam nunca de sua visão subjetiva do mundo, no qual faz o papel de um profeta em uma seita. Se nos escapa o momento onde seja possível identificar qualquer indício de pensamento científico é porque a resposta mais simples é que simplesmente ele não existe.
 
-Alan Arkin é desses atores coadjuvantes que não estão no papel principal por incapacidade, mas por serem tão bons no que fazem que precisam de apenas alguns momentos diante das câmeras. Ele diz as falas de Lorre de maneira tão carismática que o efeito vai muito além de meramente engraçadinho. Lorre parece se contentar com a comédia e o drama fácil. Arkin não consegue evitar dizer muito além do seu papel apenas com suas expressões no rosto, sua dicção, sua garganta rasgada em um misto de emoção e frustração. Arkin é um tratado sobre como atuar em minimalismo. Lorre é um panfleto publicitário.
+Ainda que seja justificável a presença de Freddie como alguém disposto a "aprender" com o Mestre e consequentemente nos fazer entrar em seu universo, e mesmo que seja visível a necessidade de Lancaster em conseguir com que Freddie internalize seu lado animal (talvez até como um desafio ao seu método) o fato é que nunca é possível deslumbrar o porquê perder tanto tempo com alguém irrecuperável da "falha" de ser um humano visceral (e livre) quando é fácil perceber os objetivos de Lancaster giram melhor próximo dos bolsos das desenganadas (e ricas) velhinhas que consola através da viagem no tempo.
 
-Não é preciso dizer que Lorre está analisando o processo criativo e o que faz sucesso na TV, dando como "desculpa" o fato de ter criado e produzido The Big Bang Theory, sucesso de audiência, o que o permitiria agora fazer algo mais intimista, mesmo correndo o risco de pouco público. Bom, ele está na Netflix, que não libera dados de audiência. São episódios curtos, é só dar play e ver meia-hora de dois mestres em atuação trabalhando com material limitado.
+Philip Seymour Hoffman surge com um personagem que é seu reflexo obscuro do carisma que esbanja ao encarnar uma pessoa dotada do dom do discurso e desprovido de qualquer lógica, apelando, portanto, para a comédia barata para atrair a atenção de todos. Enquanto isso, Amy Adams, que faz sua filha, é sua versão meticulosa e mais sincera. Ela parece saber que o império crescente do seu pai poderá ser seu quando este partir, o que explica sua assustadora, para não dizer repugnante, determinação com que parece cuidar do seu pai (ajudando-o inclusive nos momentos mais íntimos).
+
+Quase todas as cenas carecem de trilha sonora, o que torna a introspecção dos atores muito mais realista. No entanto, quando surge, a trilha sonora revela o aspecto obscuro de Lancaster Dodd ao delinear uma série de sons incidentais, que conseguem ilustrar o lado místico e caótico de uma crença que tenta desviar o nosso olhar para o real.
+
+Em detrimento de todos os esforços, e mesmo sendo nobre a tentativa de ridicularizar a obviamente parodiada Cientologia é preciso assumir que o diretor exagerou por demais em seu ódio. Ou talvez não. Quando uma nova religião forma à sua volta as contas bancárias mais pomposas de Hollywood talvez uma crítica ácida e cinematográfica seja a única coisa honrosa a se fazer para nos salvarmos da insanidade de um mundo gerido pela ilusão do conhecimento.
 

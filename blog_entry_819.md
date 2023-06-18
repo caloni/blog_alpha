@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2015-04-19'
+date: '2017-05-30'
 tags:
 - food
-title: Callia Alta Malbec
+title: Callia Alta
 ---
 
-Bem forte e equilibrava bem com o Skirt Steak do Ouback.
+Ácido, azedo, quente, frutado e encorpado; compota (como o Portillo depois); amadeirado após respirar.
 

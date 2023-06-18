@@ -1,29 +1,24 @@
 ---
 categories:
 - writting
-date: '2020-08-03'
-link: https://www.imdb.com/title/tt4425200
+date: '2018-09-28'
+link: https://www.imdb.com/title/tt2911666
 tags:
 - movies
-title: John Wick 2
+title: De Volta ao Jogo (John Wick)
 ---
 
-## Um Novo Dia para Counter Strike
+Um drama pessoal que escala em uma espiral de violência e poder em um universo que caminha confortavelmente entre realismo e absurdo. O drama de perder a esposa doente depois de abandonar o trabalho que dava significado à sua vida é um realismo pesado. Roubarem seu carro e matarem o cachorro que a esposa lhe dera como último presente é de um absurdo dilacerante que motiva qualquer um a sair em busca de vingança. E se você é John Wick isso significa uma sentença de morte para muita gente.
 
-Quando o filme de pancadaria é mero pretexto para chamar público. O próprio gênero de ação trabalha com emoções minimalistas e brutais. Eis o motivo porque [Mad Max: Fury Road] funciona horrores: o único motivo de existência da história é a fuga, e o único motivo de existência de John Wick é vingança de quem não tem (mais) nada a perder. A trama funcionava bem no [original] em apresentar um começo, meio e fim para um herói atormentado em um drama de uma nota só. 
+Dirigido com um cuidado especial pelos diretores Chad Stahelski e David Leitch, onde o primeiro trabalhou na equipe de dublês em filmes de ação e o segundo estava envolvido em trabalhos similares, as cores e enquadramentos harmonizam lado a lado a atmosfera de solidão; o uso de uma tela mais estreita permite que o filme coloque John Wick no começo do filme em isolamento completo. No funeral, na chuva e com toda a cidade ao fundo, ele tem um único amigo que o cumprimenta debaixo de uma árvore. Já sua casa é gigantesca e que se torna ainda mais com o uso minimalista da direção de arte que usa poucos enfeites, e onde as cores frias desempenham o papel de estado de humor do personagem, à beira da depressão.
 
-Todos no filme falam de Wick como uma lenda, e nós temos que acreditar neles porque não é olhando para Keanu Reeves que vamos comprar a ideia. O ator faz o que tem de melhor, que é ser Keanu Reeves, e a equipe de lutadores, assim como em [Matrix], o prepara para as cenas que todos estão esperando, com porrada, sangue e porrada em cima de sangue. Embora nesses filmes violentos e comerciais do novo século sempre falte sangue.
+Se você se surpreende com esses detalhes que descrevo em um filme de ação sanguinário é porque este é um trabalho que se destaca de todos os demais. Ele possui alma. Seu protagonista é uma força da natureza. Surpreende que que ele seja interpretado pelo inexpressivo Keanu Reeves, mas mais surpreendente é que funciona. John Wick é uma pessoa simples demais para um ator mais flexível. Ele só queria viver em paz. Já que não pode o jeito é partir para a ignorância.
 
-Os dois diretores que iniciaram essa franquia de sucesso, Chad Stahelski e David Leitch, vieram do mundo dos dublês. Acostumados com coreografias em cenas de ação, no primeiro filme aproveitam um roteiro mínimo para construir uma atmosfera do homem que é um fantasma do que um dia foi, e nossa imaginação preenche as lacunas.
+Este é um filme longo e que consegue ter cenas de ação mais longas que o normal sem sentirmos cansaço. Mais uma vez acima da média, a coreografia das cenas mantêm o espectador sempre atento para descobrir como John irá passar por tantos capangas e esquemas de segurança que foram colocados entre ele e seu alvo.
 
-Se você já jogou Counter Strike alguma vez na vida, um jogo de tiros em primeira pessoa, não perde nada em não ver a continuação de John Wick, exceto que é um CS sem precisar por a mão no controle. Há dúvidas se filmes de ação se sustentam apenas com violência coreografada e inofensiva. Mais sobre isso no [terceiro filme].
+Aliás, outro toque de classe na obra é seu próprio universo de assassinos. Há um valor em comum para transações que não são rastreáveis e que não perdem o valor nem para o dólar: moedas de ouro. Há um hotel onde é proibido assassinatos para que possam descansar em paz, e quebrar essa regra, pode apostar, é o que um filme desses deve fazer.
 
-O filme original tinha um drama tão pertinente para o personagem de Keanu que esta continuação cheira unicamente a caça-níqueis para desavisados que acreditam terem achado o próximo grande herói de ação. Eles estão tão carentes dessa figura lendária que compram qualquer coisa. Até o simpático e nada másculo ator, que deixa a barba crescer em respeito ao personagem que interpreta sem nunca manter a postura. Está na moda heróis masculinos não serem mais "homens de verdade" ao estilo Clint Eastwoodiano. Wick é fraco, e daí vem seu próprio nome (do inglês "weak") e possui habilidades mortíferas em vez de um caráter forte. Ele é o melhor assassino de todos, mas está em análise se é um ser humano digno de aprovação. O único resquício de humanidade desse homem pós-moderno é nutrir memórias da perda da esposa e matar um monte de gente com eficácia, dois clichês que, não à toa, hoje em dia representam o ridículo.
+Este é um roteiro previsível assinado por Derek Kolstad, que já trabalhou em filmes e séries do gênero como A Última Bala e Hitman. Sua estrutura simples torna claro o desfecho da história, e nisso você pode apostar em previbilidade. Mas quando se nota os personagens secundários e suas sutis reviravoltas (como a ponta de Willem Dafoe), ou como quase nada precisa realmente ser dito -- o aspecto descritivo do roteiro é o que garante nosso prazer visual -- daí o filme mantém um pouco de caos para uma diversão eventual. O suficiente para nos preocuparmos com o enredo.
 
-Quanto aos vilões, esse monte de gente fazendo fila para ser o próximo chefão, eles representam O Sistema, o "novo" mal do século para a plateia jovem, ou para os mais velhos que catam as migalhas da virtude que restou desse tipo de protagonismo. Os mais lúdicos não ligam. Há explosão de cabeças para agitar uma noite de filme.
-
-[Mad Max: Fury Road]: {{< relref "mad-max-estrada-da-furia" >}}
-[Matrix]: {{< relref "matrix" >}}
-[original]: {{< relref "john-wick" >}}
-[terceiro filme]: {{< relref "john-wick-3" >}}
+"John Wick" mantém uma capa de realismo para usar frases de efeito como "você roubou meu carro e matou meu cachorro" ou "uma vez ele matou três caras com apenas um lápis" e não soar fantástico demais; é mais um escapismo delicioso do gênero de ação. E fica ainda melhor quando temos um protagonista tão visceral quanto este. Keanu Reaves é a força da natureza sem expressão que quando se sente ameaçado é melhor você estar do outro lado da tela.
 

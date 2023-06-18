@@ -1,11 +1,13 @@
 ---
 categories:
 - writting
-date: '2022-03-02T12:15:11-03:00'
+date: '2022-03-06T21:17:50-03:00'
 tags:
 - series
-title: Am I...? Maybe This Quiz Will Tell Me
+title: 'Modern Love: How Do You Remember Me'
 ---
 
-Fazia tempo que eu não via algo tão novo. A direção da câmera é fluida, dinâmica, e a edição impecável. O episódio nos comunica vários detalhes no comportamento nos jovens hoje em dia ou desde sempre e é encantador acompanhar. O interesse do autor nesses gaps, nos momentos que ninguém está olhando, e como nos comportamos, cativa aos poucos. O uso exarcebado da jovem Katie do celular e como o caos impera nas sequências, com sons em volta, e a falta de um enquadramento parado por dois segundos dão o tom naturalista que a história pede. É sobre a descoberta da sexualidade muito jovem e sob um ponto de vista ainda muito ingênuo e engessado. Essas pré-adolescentes são espontâneas demais. O episódio se torna curto. Este universo merece um longa metragem.
+O episódio é sobre dois crushes andando pela calçada por meia-hora e eventualmente se cruzando. Antes disso eles vão se lembrando, cada um à sua maneira, dos momentos de seu encontro de uma noite apenas e um final insatisfatório. O valor dessas memórias está em um tenro abraço e a moral do curta é nos fazer pensar nesses breves momentos da vida onde existe uma conexão profunda com um estranho que nunca mais veremos, e está tudo bem. A vida é uma sucessão desses encontros.
+
+O episódio é muito mal conduzido, com o ritmo irregular que não consegue convencer que dois blocos de calçada são percorridos em meia-hora. Além disso, as memórias de um e de outro se confundem. Não há personalidade quando observamos as impressões de cada um dos dois em separado naquela noite. São estereótipos fofinhos de homossexuais, um anti-Almodóvar, que apresentam este esquecível vislumbre de como atravessar meio bloco de calçada em meia-hora.
 

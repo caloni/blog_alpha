@@ -1,23 +1,20 @@
 ---
 categories:
 - writting
-date: '2012-08-19'
-link: https://www.imdb.com/title/tt1653653
+date: '2015-07-14'
+link: https://www.imdb.com/title/tt2713180
 tags:
 - movies
-title: Corações Sujos
+title: Corações de Ferro
 ---
 
-Quando fui apresentado no início do filme à história, a zona de tensão entre os imigrantes japoneses no Brasil ao final da WWII, pois muitos ainda acreditavam que a guerra havia sido ganha pelo lado nipônico, fiquei extremamente entusiasmado, principalmente por dois motivos: 1) se tratar de um primeiro movimento do Cinema Nacional de resgatar o passado histórico e exorcizar seus demônios e 2) pelo tratamento aparentemente dedicado da produção, que utiliza o japonês como idioma-base, desafiando uma realidade crescente de salas populares que priorizam a comodidade da dublagem em detrimento à mutilação da sétima arte.
+O que é o patriotismo senão uma outra forma de religião? Da mesma forma com que a igreja católica destroçava povos e arrancava suas almas, a mente de soldados norte-americanos cansados no final da segunda guerra nos revela em Corações de Ferro uma noção de que até atos de heroísmo estão manchados de sangue e uma moral no mínimo duvidosa. O estresse de ter matado (e muito) pode servir de desculpa, mas assim como em Sniper Americano, não por muito tempo.
 
-No entanto, todas minhas esperanças foram sugadas paulatinamente conforme o filme prosseguia. Além da introdução excessivamente didática do conflito inicial, quando um letreiro inicial explica exatamente a situação mostrada na primeira cena, com direito a diálogos que repetem o que o letreiro já sintetizava, um roteiro pedestre estraga boa parte da experiência, com diálogos, quando existentes, artificiais demais para sair das bocas de seus personagens, interpretados por um elenco excessivamente amador e que, salvo raras exceções, não consegue sequer diferenciar os dois grupos em conflito, quanto mais suas personalidades.
+Girando (literalmente) em torno de um tanque norte-americano que está em sua última missão de fazer render o resto do exército alemão, o sargento Don 'Wardaddy' Collier (Brad Pitt) comanda uma equipe de soldados que, realistas mas nem tanto, servem metaforicamente como a representação dos rumos de um EUA mais atual do que há meio século atrás. Talvez apenas alguns anos. A morte de um deles gera sua substituição por um novato de escritório (Logan Lerman), que vira nossos olhos leigos naquele mundo de assassinatos legalizados.
 
-Fosse apenas isso, ainda teríamos pelo menos o prazer estético de uma obra audio-visual: muitos grandes filmes existem apesar de seu subtexto quase inexpressivo ([Dolls], [filmes] do Kim Ki-duk). Porém, uma direção no ápice da sua auto-indulgência consegue destruir isso também, pois imagina estar transformando uma boa história em uma obra de arte, quando na verdade pega a ausência de trama para compor quadros de expressão vazia com a única finalidade de inserir a assinatura arrogante de um realizador que precisa aprender muito sobre a arte de contar histórias.
+O passeio épico que o filme escrito e dirigido por David Ayer é floreado não apenas com sua câmera que exalta a grandiosidade do tanque em torno dos campos de batalha por onde passa, mas com uma trilha sonora igualmente grandiosa e temática, dividindo a experiência em fases de uma escalada "evolutiva" de um ser humano se transformando em um soldado, e que testa nossa percepção do que é humano quase a todo momento. Com uma fotografia e um ritmo invejáveis em todo o percurso, o sentimento geral é semelhante a Cidade de Deus e seus conflitos morais. Temos noção do que é necessário para vencer uma guerra, mas quase nunca sentimos nos filmes que as retratam como decisões são tomadas quase sempre com pouquíssimo tempo de reflexão e muito sangue quente correndo nas veias.
 
-Primeiramente utilizando uma lente que tira do foco tudo em sua volta menos uma região específica, que é usada aleatoriamente durante a projeção sem qualquer motivo óbvio, vemos ações de personagens que servem de mecanismo de enquadramento para o diretor, como uma mulher rasgando papéis para mais tarde vermos um quadro preenchido com seus pedaços no chão, ao mesmo tempo que após uma sequência particularmente tensa (um momento raro) vemos galinhas mortas ajudando a preencher a tela pelo simples prazer de preencher um quadro dramático, vazio em seu sentido, mas que consegue ao menos atingir nesses dois momentos um ápice: o do aborrecimento.
+O personagem de Brad Pitt é o ser mais complexo da trama, cercado de atuações dignas de compartilharem esse espaço. Seus diálogos com o novato, o igualmente competente Logan Lerman, são admiráveis pela lógica e naturalidade com que são desenvolvidos, além da inserção progressiva de uma relação pai/filho que parece quase sempre fazer sentido. O tempo do filme é curto para tanto, mas há vários e tensos episódios, grudados um no outro, que são suficiente para essa visão acelerada de como as coisas funcionam.
 
-Por fim, sua conclusão arrastada criada a partir de uma elipse de uma vida inteira parece necessária apenas para dar algum significado ao que vimos pelas últimas duas horas, e mesmo isso soa artificial demais para reerguer uma "comédia" de erros que nunca conseguiu alçar voo, tal qual as galinhas mortas no chão.
-
-[Dolls]: {{< relref "dolls" >}}
-[filmes]: {{< relref "pieta" >}}
+Pecando talvez por simplificar a questão de homens lutando (e matando) juntos por muito tempo, submete o filme à prova em um momento crucial que se passa debaixo do tanque, e que parece ter sido o motivo de todo o filme. Se o "patriotismo" que muitos exaltam já não estivesse devidamente surrado no filme de Ayer, aqui ele recebe um golpe de misericórdia complexo e memorável.
 

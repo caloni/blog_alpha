@@ -1,24 +1,23 @@
 ---
 categories:
 - writting
-date: '2016-12-03'
-link: https://www.imdb.com/title/tt0066434
+date: '2012-04-02'
+link: https://www.imdb.com/title/tt0800369
 tags:
 - movies
-title: THX 1138
+title: Thor
 ---
 
-Um dos primeiros curtas de um jovem George Lucas foi sobre um futuro distópico onde as pessoas possuem sua mente controlada e seus nomes são um conjunto de letras seguidas de números. Utilizando uma estética semelhante a La jetée, curta clássico do Cinema que deu origem a Os Doze Macacos, Lucas transforma seu próprio curta em seu primeiro longa-metragem de ficção. E eis que surge THX 1138, um trabalho de 1971 que hoje é um filme de vanguarda sobre futuros distópicos, ou melhor dizendo, um filme sobre filmes sobre futuros distópicos. As brincadeiras não podem ser levadas a sério, mas é justamente esse tom meio paródia e meio fantasia que torna THX um produto sólido dessa geração de cineastas que recriaram o Cinema americano nas décadas de 70 e 80.
+Não há nada para se ver em Thor. É bobinho, está na direção automática e possui uma fotografia e uma trilha sonora que combinam com sua falta de personalidade. Ou seja, a Marvel pode levar a sério seus cronogramas e personagens, mas não o Cinema em si.
 
-THX 1138 não se preocupa em explicar muita coisa. Através da observação do funcionamento daquela espécie de cidade onde as pessoas vivem em função de controlar umas as outras pelo bem da "massa", do "Estado" ou do "Partido", o status quo já chegou ao nível religioso da coisa, onde o rosto de um homem e respostas automáticas é usada como confessionário pelos que não se sentem bem, mesmo após ter ingerido as drogas obrigatórias para todos.
+Inspirado no herói homônimo da revista em quadrinhos, que por sua vez foi inspirado na mitologia nórdica, o Thor do filme vem do espaço, de uma civilização mais avançada que os humanos e que preza pela paz entre os nove planetas por eles conhecidos com vida inteligente. Foram eles que expulsaram os Gigantes de Gelo da Terra quando eles nos atacaram (daí a mitologia). Thor é um dos dois filhos de Odin, rei da civilização e grande guerreiro que, mais do que ninguém, percebeu que a solução dos problemas não está na guerra.
 
-Existem receitas para todos os habitantes. Alguns -- como os nascidos naturalmente -- possuem doses diferentes dos produzidos pela massa. Um dos trabalhadores centrais desse sistema, o THX 1138 do título, tem por função manipular peças radioativas que são usadas para construir robôs que irão vigiar os cidadãos e manter a ordem estipulada, onde demonstrações de afeto para com seu parceiro de quarto ou qualquer demonstração de sentimento é vedada.
+Seu filho mais velho (Chris Hemsworth, colírio de revistas adolescentes), Thor, é jovem demais para entender isso. Loki, o caçula, parece inofensivo, mas assume em seu semblante de quem pensa mais do que fala. Ao desobedecer Odin, Thor é jogado para a Terra sem seus poderes para aprender o valor de seus atos. Na verdade o filme faz um flashback logo no início, entortando desnecessariamente a história, já que logo depois do início na Terra somos apresentados diretamente ao herói da história.
 
-O uso de construções simples, de estética brutalista, e cores básicas como branco e cinza, eliminam qualquer traço de estilo da realidade em volta. Os próprios habitantes possuem seus cabelos cortados por completo, e suas roupas são igualmente brancas, diferenciando apenas no crachá que são obrigados a carregar. Até a prisão desse tipo de lugar é de um branco inebriante.
+Herói este que possui uma curva de aprendizado tão rala quanto outros projetos mal-sucedidos, como o [Lanterna Verde]. Fora isso, o enredo secundário desaponta tanto na Terra quanto em Asgard. Nem Natalie Portman consegue convencer através de sua personagem bobinha cuja única função parece ser a de correr atrás do loiro alto que caiu do céu. Da mesma forma, suas contrapartes terrenas fazem rima com os amigos de Thor pois são tão desinteressantes e unidimensionais quanto estes. E Loki, ainda que comece a apresentar algum perigo na história, nunca é tão ameaçador a ponto de se fazer sentir presente na trama.
 
-Além do filme não explicar muito bem o destino de alguns personagens nem a escolha de cada um deles, é simples entender que a dinâmica de um mundo que não nos pertence possui suas próprias regras, e as pessoas enxergarão a realidade a partir dessas regras. Isso explica o terceiro ato e a necessidade de THX de fazer o que ele precisa fazer, em uma sequência de perseguição esteticamente linda, e com uma edição do próprio George Lucas que é apertada junto de uma trilha sonora particularmente inspirada de Lalo Schifrin, que usa tons desarmoniosos para compor temas sombrios e ao mesmo tempo lúdicos, lembrando que, apesar de um drama sci-fi feito em um futuro distópico e opressor, tudo aquilo não passa de uma simples brincadeiras de conceitos.
+As tomadas abertas, por fim, acabam comprovando que os efeitos visuais do filme são elementos mais importantes do que a própria história dessas pessoas. O objetivo da história é sairmos ilesos e termos apresentados mais um personagem do futuro filme [Os Vingadores], que tem gerado mais e mais filmes medíocres sem qualquer personalidade ou argumentação.
 
-Mas brincadeira por brincadeira, o resultado é estrondoso. E não importa muito qual tipo de futuro distópico estamos tratando, quais as regras, etc. É mais um 1984 no sentido genérico da coisa (lembrando que até o Terry Gillian, de Os Doze Macacos, fez seu 1984, chamado Brazil). O importante aqui é entender como nos sentimos em adentrar em um mundo completamente diferente, que limita a ação humana, mas que ao mesmo tempo possui suas "falhas": indivíduos que sempre tentam buscar algo de dentro de si.
-
-Uma pena que Lucas tenha depois deste filme e de American Graffiti se entregado à produção e gerenciamento da fortuna que foi (e continua sendo) a saga Star Wars. Parece haver muito mais sombras do que luz em sua visão de mundo, e é triste que os próprios filmes de Guerra nas Estrelas sejam ofuscados pelo fofinho e pela fantasia fácil. Ainda mais se lembrarmos que os robôs de THX lembram muito C3PO. Há uma história não-contada no universo de Star Wars que mereceria Lucas de volta à ativa.
+[Lanterna Verde]: {{< relref "lanterna-verde" >}}
+[Os Vingadores]: {{< relref "os-vingadores" >}}
 

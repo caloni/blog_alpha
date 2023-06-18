@@ -1,20 +1,18 @@
 ---
 categories:
 - writting
-date: '2013-04-12'
-link: https://www.imdb.com/title/tt1634003
+date: '2015-12-27'
+link: https://www.imdb.com/title/tt2361509
 tags:
 - movies
-title: Um Time Show de Bola
+title: Um Senhor Estagiário
 ---
 
-Um Time Show de Bola possui a grande vantagem de ser dirigido por Campanella, que consegue impregnar uma emoção desproporcionalmente divertida nas cenas "em campo", conseguindo, por ser uma animação, a fluidez completa de suas longas sequências de ação. Por outro lado, acaba sendo uma desvantagem que o controle da produção esteja nas mãos do auto-inflado e "oscarizado" diretor de [O Segredo dos Seus Olhos], que adota um roteiro misto que não consegue contar bem uma única história e vira uma miscelânea de sentimentos a respeito de como o futebol atual é mais um jogo de negócios do que da paixão antiga e nostálgica.
+Nancy Meyers (Presente de Grego, O Amor Não Tira Férias) é uma fofa para criar personagens carismáticos e em geral escolher os atores do momento para o papel. Robert de Niro e Anne Hathaway são escolhas óbvias. Hathaway ganhou o Oscar ano passado por chorar e cantar em Os Miseráveis (o que não quer dizer que automaticamente ela vire uma atriz de destaque) e de Niro voltou à ativa em O Lado Bom da Vida três anos atrás. Como a fundadora de uma startup de sucesso e um estagiário da terceira idade em um programa novo da empresa ambos saem perfeitos. Meyers sabe disso, crédito para ela.
 
-A história, ou conto, gira em torno de Amadeo, que desde menino está apaixonado por seu "time" de pebolim e não muda até atingir a idade adulta. Uma richa de infância com um dos meninos do vilarejo onde mora gera uma rivalidade descomunal na figura de Colosso, o mega-craque milionário jogador de futebol profissional que compra a cidade inteira e a ameaça de se transformar no maior estádio do mundo.
+Porém, além de produzir, aqui ela dirige e escreve o roteiro, e convenhamos, seu estilo de capturar os temas do momento -- feminismo, tecnologia, casamentos desmoronando -- e transformar em um filme longo demais sobre relacionamentos de pessoas obcecadas pelo trabalho como conjunto não funciona tão bem. No roteiro há cenas (o "sequestro" do computador da mãe para apagar um email) e manipulações (soar o alarme do hotel apenas para...) em excesso, tornando a experiência inchada e episódica. Na direção todo o momento a câmera sobe e desce, querendo mostrar as lindas paisagens de Nova York a esmo, parecendo fingir que o filme está acabando, quando na verdade estamos no final de mais um episódio nessa novela embalada em filme.
 
-O maior problema do filme é criar conflitos onde não existe (se Colosso estava planejando demolir o bar onde foi derrotado e pegar a mesa de pebolim para si, por que precisou mandar seus capangas irem procurá-la no lixão? E o que aquela perua estava fazendo no lixão naquele horário da noite? E... um circo?). A maior virtude é sua paixão pelo esporte-arte (as sequências de ação no campo são de tirar o fôlego) e como a direção de arte se empenha em construir cenários detalhistas e ao mesmo tempo significativos sobre o tema.
+O que é uma pena, pois a trama central -- alguém muito mais velho participar do processo de consolidação de uma empresa que acabou de nascer -- é tocante e com potencial. Potencial esse aproveitado pelos atores principais, mas não pelos diálogos que eles proferem. É irritante como quase nada que sai da boca deles é factível o suficiente para enxergá-los como seres de carne e osso, parecendo sempre mais um clichê de auto-ajuda que tenta filosofar a respeito do momento (como se as pessoas realmente falassem assim na vida real).
 
-Com seus prós e contras, a animação de Campanella diverte moderadamente. Tal como um jogo de cartas marcadas que estamos acostumados a assistir hoje em dia.
-
-[O Segredo dos Seus Olhos]: {{< relref "o-segredo-dos-seus-olhos" >}}
+Um Senhor Estagiário, portanto, se mostra uma experiência mista. É bom ver de Niro e Hathaway contracenarem com personagens adoráveis em situações que os envolvem tão profundamente. É frustrante vê-los desperdiçados em um roteiro e direção que pretende enxergá-los como objetos manipulativos até em um brand integration quase inteligente do Uber, que acerta o filme onde colocá-lo, mas ainda soa descaradamente uma propaganda (não tão embaraçosa quanto 007 tomando Heineken, mas ainda uma propaganda).
 

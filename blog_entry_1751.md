@@ -1,43 +1,124 @@
 ---
 
-A mensagem anterior deixou bem claro que tenho um roteiro de leituras bem hardcore a fazer nos próximos 20 anos. Pretendo, enquanto isso, programar alguma coisinha rodando em ring0, porque nem só de teoria vive o programador-escovador-de-bits. Pensando nisso, esse fim-de-semana comecei a me aventurar nos ótimos exemplos e explicações do www.driverentry.com.br, nossa referência kernel mode tupiniquim.
+> Vou aproveitar que meu amigo DQ publicou um artigo muito bom sobre [como fazer programas fáceis de manter] (merece ser lido!) e vou republicar um artigo do blogue antigo sobre o básico do básico para quem deseja entender como os programas funcionam. Não é nada sofisticado, apenas alguns conceitos comuns que, se você deseja ser programador, deveria procurar saber.
 
-A exemplo do que Dmitry fez com os livros de drivers, acredito que a mesma coisa pode ser feita com os blogues. A maneira de esmiuçá-los vai depender, principalmente, da quantidade de material a ser estudado e das práticas necessárias para que o conhecimento entre na cabeça de uma vez por todas.
+## Código, dados e processador
 
-No momento, minha prática se resume a isso:
+A primeira coisa a saber é o que é um programa. Podemos imaginá-lo como um arquivo que vai ser interpretado pelo computador. Essa interpretação chamamos de execução. Quando um programa está sendo executado também é comum dizermos que ele está rodando. Teoricamente ele pode rodar eternamente, mas o que acontece em casos normais é que ele tem um fim previsto, seja quando o usuário fechar a janela principal (evento externo) ou quando ele terminar o que tinha que fazer (lógica interna).
 
- - Debug or not debug. Aqui resolvi dar uma olhada de perto nas macros e funções usadas para tracing no DDK, e descobri que, assim como a runtime do C, podemos ter mensagens formatadas no estilo do printf e vprintf, o que economiza uma porção de código repetitivo. Dessa forma pude usar minha estratégia de ter a macro LOG usada para mandar linhas de depuração na saída padrão. Ainda tenho que estudar, contudo, o uso da variável va_list em kernel.
+E do que é feito um programa? Basicamente de duas coisas: dados de entrada e instruções (ou código). Os dados podem estar no próprio programa ou serem lidos de algum outro lugar (do teclado, de outro arquivo, da internet, etc). As instruções do seu programa é o que será interpretado pelo computador. E o que ele fará? Basicamente alterar os dados de entrada. O objetivo fundamental de um programa é gerar dados de saída. Esses dados são escritos/exibidos para algum outro lugar (para a tela, para um arquivo, para a internet, etc).
 
- - ExAllocatePool (WithoutTag). Precisei fazer alguns testes no Dependency Walker e anexar o fonte que faz a vez do GetProcAddress para drivers em meu miniprojeto do Bazaar para aprendizado de programação em kernel.
+Vamos analisar essas abstrações em exemplos da vida real:
+    
+| Exemplo          | Dados de entrada            | Processamento                 | Dados de saída                    |
+| ---------------- | --------------------------  | ----------------------------  | --------------------------------- |
+| Bloco de Notas   | Digitação do usuário        | Leitura do teclado            | Texto exibido na tela             |
+| Chat Online      | Envio de mensagem           | Conexão com a internet        | Seu amigo recebe a mensagem       |
+| Editor de imagem | Movimento do mouse          | Interpretação de movimento    | Retângulo desenhado               |
+| Browser          | Clique do mouse em uma URL  | Conexão com o site            | Exibição da nova página           |
+| Jogo de Tiro     | Clique no botão de tiro     | Cálculo do projétil           | Inimigo acertado                  |
+| Compilador       | Código do programador       | Interpretação das instruções  | Código de máquina (seu programa!) |
 
- - Getting Started. Esse foi o artigo mais interessante de todos, pois foi a base de todo o código que ando repetindo em meus exercícios. Além desse, é vital o uso do Visual Studio no processo de desenvolvimento, pois muitas (quase todas) das funções do DDK são alienígenas para mim, assim como os seus 497 parâmetros cada.
+Como podemos ver, podemos abstrair esse lance de "dados de entrada + processamento = dados de saída" com qualquer tipo de programa que usarmos. Basta relacionar o que fazemos (digitar algo, arrastar o mouse, apertar um botão, etc) para obtermos a saída desejada (texto/gráfico na tela, no arquivo, na impressora, etc). O programa é o elemento que fica no meio fazendo essa "mágica".
 
- - Driver plus plus. Tive que perder algum tempo codificando uma segunda versão do Useless e baixando o framework da Hollis para testar as peculiaridades do C++ em kernel mode. Não que eu vá usar alguma coisa avançada nesse estágio, mas preciso conhecer algumas limitações e alguns macetes que farão uma grande diferença no futuro, quando as linhas de código ultrapassarem 10.000.
+## Dados do programa
 
- - Pulei alguns tópicos que pretendo explorar quando estiver mais à vontade com alguns conceitos básicos, como a explicação de como obter o processo dono de uma IRP, a explicação do que é uma IRP (apesar de eu ter baixado e brincado com o monitor da OSR) e a aparentemente simples explanação sobre como funcionam as listas ligadas do DDK. Tudo isso virá com o tempo, e algumas coisas estarão sempre martelando na cabeça. É só dar tempo ao tempo e codificar.
+Existem informações intermediárias que precisamos guardar em um programa em execução para que no final consigamos apresentar a saída desejada ao usuário. Essas informações intermediárias também são dados, só que o usuário não os enxerga. A elas chamamos de variáveis. Entenda uma variável como "um lugar na memória onde o programa armazena alguma informação durante o processamento".
 
- - Nós queremos exemplos. Esse foi o artigo que mais me deu trabalho, mas que mais valeu a pena. Codifiquei tudo do zero, olhando aos poucos no código do Fernando para pegar o jeito de usar funções com nomes enormes e auto-explicativas e parâmetros com os nomes a, b, c. Também dediquei um tempinho considerável com a aplicação de user mode, para (re)aprender a depurar dos dois lados da moeda.
+Toda variável é apenas memória interpretada de uma maneira peculiar. Essa maneira de interpretar a memória é chamada de tipo. Cada variável possui o tipo que lhe convém. Basicamente, existem dois tipos de variáveis: número (ou inteiro) e texto (ou string).
 
-Próximos passos?
+## Instruções do programa
 
-Pelo que eu vi, no geral, acredito que aos poucos irei voltar para os tópicos que pulei, além de olhar em outros artigos que chamaram minha atenção:
+Imagine um programa sendo executado do começo ao fim. A ordem em que um programa é executado é chamado de fluxo de execução. A tendência natural de um programa é ser executado pelo computador da sua primeira instrução até a última, sempre nessa ordem. Ou seja, linha 1, linha 2, linha 3, ...., linha n. Pronto. Acabou.
 
- - Como criar um driver de boot
- - Usando o DSF para interagir com dispositivos USB de mentirinha
- - A continuação emocionante de nosso driver que recebe reads e writes
- - Usar o que existe de bom e melhor para garantir a qualidade de um driver
- - Mais alguns detalhes que começam a fazer sentido em nosso KernelEcho
- - Criando e usando IOCTLs. Essa vai ser ótima!
- - A necessidade inevitável de mexer com o registro do sistema
+Porém, se fosse sempre assim, isso quer dizer que o programa seria executado sempre do mesmo jeito, e os dados de saída seriam sempre os mesmos, independente dos dados de entrada. Mas isso não acontece, certo? Quer dizer, se você não mirar direito e apertar o botão certo, o inimigo não vai cair no chão. Isso faz um certo sentido, não?
 
-Tudo isso aliado aos exemplos e à teoria latente do Windows 2000 Device Driver Book (minha primeira leitura) irá dar um upgrade forçado aos meus neurônios. Espero sobreviver para contar o final da história.
+Seguindo esse raciocínio, podemos deduzir que um programa deve tomar decisões para saber o que fazer. E para tomar essas decisões ele usa o que recebeu como entrada, que são exatamente os dados de entrada. Nesse contexto, tomar decisão significa alterar o fluxo de execução. Ou seja, a ordem não necessariamente será sempre linha 1, linha 2, linha 3, etc, mas poderá ser, por exemplo, linha 1, linha 52, linha 237643, linha 52 de novo, linha 890, e assim por diante.
+
+    001: inicia
+    002: lê entrada
+    003: atirar?
+    004: sim! ir para 514
+    005: não! ir para 002
+    006: ...
+    ...
+    514: acertei?
+    515: sim! ir para 489
+    516: não! ir para 234
+    517: ...
+    ...
+    234: fui acertado?
+    235: sim! ir para 918
+    236: não! ir para 002
+    ...
+    489: aumenta pontos
+    490: ir para 002
+    ...
+    918: diminui vida
+    919: morri?
+    920: sim! ir para 980
+    921: não! ir para 002
+    ...
+    980: game over!
+    981: sai do programa
+
+Note que existem várias perguntas que o programa precisa responder para seguir em frente. Para respondê-las, o programa pede a ajuda do computador para fazer comparações entre variáveis. E aí está o uso desses dados internos.
+
+## Mudando o fluxo
+
+Bem, até aqui você já aprendeu um montão de coisas:
+	
+ - Programas podem ser armazenados em arquivos.
+ - Quando executados, o computador interpreta suas instruções.
+ - Um programa usa dados de entrada para gerar dados de saída.
+ - Para tomar decisões, ele utiliza variáveis internas.
+ - A ordem das instruções é chamado fluxo de execução.
+ - A tomada de decisões altera o fluxo de execução de um programa.
+
+Para concluir, vamos dar uma espiada nas estruturas de comparação de um programa em C e suas conseqüentes mudanças de fluxo. Note também que as comparações são feitas com variáveis internas.
+
+If significa "se", ou seja, faz uma comparação, e retorna se a comparação é verdadeira (sim!) ou não (não!). Porém, o if apenas faz alguma coisa se o resultado for sim.
+
+{{< image src="if.gif" caption="If" >}}
+
+Else significa "senão", ou seja, é o complemento do if. Lembra-se que o if só faz alguma coisa se o resultado da comparação for sim? Pois bem, o else permite fazer outra coisa se o resultado for não.
+
+{{< image src="else.gif" caption="Else" >}}
+
+While significa "enquanto", e é o nosso primeiro exemplo de laço, ou loop. Um loop faz constantemente a mesma coisa enquanto o resultado da comparação for sim. Uma vez que for não (pode ser a primeira, inclusive), ele não faz mais nada e o programa continua seu fluxo natural.
+
+{{< image src="while.gif" caption="While" >}}
+
+For significa "por", com o mesmo sentido que em "ele me chutou por 5 vezes seguidas". Ele pode ter muitos usos, mas o tradicional é fazer n vezes alguma coisa, sabendo que n é um número de vezes já conhecido. Nesse caso, o loop serve apenas para repetir um determinado número de vezes uma ação, sem nunca variar esse número de vezes.
+
+{{< image src="for.gif" caption="For" >}}
+
+## É só isso?
+
+Programar não tem segredo. É tudo uma questão de gostar, aprender, executar, aprender, gostar mais, aprender mais, executar mais, etc. Não exatamente nessa ordem. Tudo vai depender dos seus dados de entrada. Mas o fluxo já começou sua execução...
+
+## Para saber mais
+
+ - [Arquitetura de von Neumann] - Wikipédia
+ - [Máquina de Turing] - Wikipédia
+ - [A inteligência do if] - parte 1
+ - [A inteligência do if] - parte 2
+
+## Se ainda está difícil compreender
+
+ - Resolva exercícios de lógica.
+ - Leia livros bem introdutórios (até para criança vale) como [Introdução Ilustrada à Computação].
+
+[como fazer programas fáceis de manter]: http://dqsoft.blogspot.com/2007/10/desenvolvendo-softwares-agradveis-de.html
+[Arquitetura de von Neumann]: http://pt.wikipedia.org/wiki/Arquitetura_de_von_Neumann
+[Máquina de Turing]: http://pt.wikipedia.org/wiki/M%C3%A1quina_de_Turing
+[A inteligência do if]: {{< relref "a-inteligencia-do-if-parte-1" >}}
+[A inteligência do if]: {{< relref "a-inteligencia-do-if-parte-2" >}}
+[Introdução Ilustrada à Computação]: {{< relref "introducao-a-introducao-a-computacao" >}}
 
 ---
 categories:
-- writting
-date: '2019-02-06'
-link: https://www.imdb.com/title/tt0107061
-tags:
-- animes
-- series
-title: Gunnm (aka Alita)
+- coding
+date: '2008-08-11'
+tags: null
+title: Guia para iniciantes no DriverEntry

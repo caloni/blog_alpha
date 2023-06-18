@@ -1,24 +1,21 @@
 ---
 categories:
 - writting
-date: '2022-03-06T21:15:48-03:00'
+date: '2022-10-18T19:42:19-03:00'
 tags:
 - cinemaqui
+- mostra
 - movies
-title: Rua Mercantil Nº3
+title: Roza
 ---
 
-O que se ganha em ver um filme tão velho quanto Rua Mercantil Nº3 hoje em dia? Será que o cinema tem evoluído tanto que essas velharias sem som deixam de fazer sentido? Este texto tenta dar algumas respostas iniciais para essa questão cinéfila.
+Nem sempre "heróis" do cinema são personagens que merecem ser fonte de inspiração para sermos pessoas melhores. No caso desse Roza, uma ode a pessoas fracas, chega a dar vergonha chamar qualquer uma dessas pessoas de herói.
 
-Em primeiro lugar sugiro um exercício análogo, já que estamos pensando em obras de arte. Responda a seguinte pergunta: o que se ganha em analisar ou admirar obras como Mona Lisa de séculos atrás se as técnicas de desenho evoluíram absurdamente nas últimas décadas, sobretudo as digitais? Com certeza alguém já deve ter feito trabalhos muito superiores usando computadores e ferramentas como Photoshop.
+Seu protagonista real, apesar dos créditos finais sugerirem quatro, é Hector. Pai de família, ele foge de casa e deixa mãe e pai, esposa e filho. O filme começa quando ele retorna, contra todos os prognósticos da família, e logo começa a arrumar problemas em casa. Mas sua esposa não o reconhece mais e seu filho não sabe sequer como reagir com sua presença. E sua mãe, agora viúva, é um autômato da geração passada, repetindo o que lhe foi ensinada sobre arrumar um porto seguro e sobreviver. Ela ainda fala a língua nativa de seu povo e não usa o espanhol.
 
-Não estou com isso sugerindo que este filme soviético é tão relevante quanto a obra enigmática de Leonardo da Vinci, e tampouco estou sugerindo que o Museu do Louvre está ocupando espaço à toa exibindo uma pintura renascentista que milhares de pessoas vão olhar de várias partes do mundo.
+Por falar em povo, este é claramente um filme onde a etnia interessa. De maneira pejorativa, no caso. Existe um descompasso entre o que esperamos que um ser humano ideal seja e as pessoas do filme. Como não fica claro quais os fantasmas que as atormentam, a conclusão natural do espectador é concluir ser este um caso genético, cultural ou ambos. De qualquer forma, sob qualquer ponto de vista de pessoas que almejam o melhor a cada dia, Hector é um desastre.
 
-A proposta é apenas refletir sobre nossas prioridades artísticas quando o assunto é audiovisual, que tende a caminhar passo a passo com tecnologia. Até porque ao dar uma chance para Rua Mercantil Nº3 você verá que sua história não tem nada de velha ou ingênua. Ela observa Moscou como uma metrópole que não para, dinâmica e em constante mudança. A Revolução já passou e todos os dias pessoas chegam à capital russa em busca de emprego, mas nem todas possuem permissão para morar. Aí entra a solidariedade dos companheiros de guerra, como esses dois, onde o pequeno espaço onde compartilham moradia gera um triângulo amoroso inesperado e excitante.
+A escalação e atuação ajuda nesse sentido. De cara arredondada e quieto, a escolha de Hector Ramos é simbólica. Quando o ator diz algo é com uma voz fraca e fina. Falta fôlego e caráter nesse sujeito. Ele não tem fibra para afirmar nada, esteja certo ou errado. Com falhas graves de comunicação e de postura, se isolando de um mundo que não lhe interessa, é fácil entender a dinâmica dessa família disfuncional.
 
-Sim, há traição e relacionamentos cruzados em um filme P&B e mudo, e a única diferença dos filmes de hoje é a resolução na tela. A exibição do Festival Soviético é de 8mm.
-
-E este não é um filme parado. Há poucos diálogos e muita reflexão em cima dos acontecimentos entre essa esposa, seu marido e seu amigo. Somos levados pelos acontecimentos a refletir sobre como somos preconceituosos. Não a respeito do tema, mas em pensar que filmes velhos possuem apenas temas ingênuos e históricos. Este não tem relação nenhuma com o regime Soviético. Exceto, talvez, que ele joga na tela montagens sobre seres humanos e máquinas tendo o mesmo papel no serviço e uma crítica bem aberta sobre a convenção do casamento burguês.
-
-Diferente do esperado, Rua Mercantil Nº3 acaba se revelando um trabalho até que divertido, dinâmico e que pode ser analisado sob a prisma dos tempos atuais. Uma revisita é válida, e agora está disponível.
+O roteiro de Andres Rodriguez, ou melhor dizendo, a ausência de um, já que estes são personagens da vida real, é minimalista. Cria situações bem demarcadas sobre o retorno de Hector com começo, meio e fim. Não há trama, os eventos se sucedem como na vida real. E como um filme de arte preguiçoso que se preze, se há alguma mensagem escondida sua interpretação fica sob total responsabilidade do espectador, esse pobre coitado que entrou em uma daquelas sessões erradas da Mostra de SP. Acontece. O lado bom é que sempre há um próximo filme para tirar o gosto ruim do que já passou.
 

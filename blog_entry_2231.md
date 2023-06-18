@@ -1,15 +1,22 @@
 ---
-categories: []
-date: '2018-07-04'
-tags: null
-title: Manipulando Mouse e Teclado no Windows
+categories:
+- reading
+date: '2021-08-16T21:01:37-03:00'
+tags: []
+title: Manifesto Comunista (recortes)
 ---
 
-Uma forma extremamente bem comportada que o Windows tem para manipular entrada de mouse e teclado são as funções API BlockInput e SendInput. Enquanto uma bloqueia todos os eventos de input vindo de todos os lugares do sistema, o outro consegue enviar inputs apenas por software. Imagine a peça que você pode pregar em seus amigos.
+> The history of all hitherto existing society is the history of class struggles. 
 
-No entanto, estas funções não são para amadores. É preciso entender o que são threads, por exemplo, pois apenas a thread que chamou BlockInput pode depois chamar SendInput com sucesso. Além disso, apenas essa thread pode desbloquear novamente os inputs chamando BlockInput novamente, mas dessa vez passando FALSE em seu único parâmetro. E de qualquer forma, uma vez que o programa que chamou BlockInput com TRUE morreu o sistema detecta e tudo volta ao normal.
+> Our epoch, the epoch of the bourgeoisie, possesses, however, this distinctive feature; it has simplified the class antagonisms. Society as a whole is more and more splitting up into two great hostile camps, into two great classes directly facing each other: Bourgeoisie and Proletariat. 
 
-Essas funções API podem ser úteis para interação remota, por exemplo, quando um usuário não consegue realizar uma operação e ele pode mais atrapalhar do que ajudar você pode bloquear os inputs dele e emular seus próprios cliques de mouse e teclado pela rede.
+> The executive of the modern State is but a committee for managing the common affairs of the whole bourgeoisie. 
 
-Nota: usar essas APIs na própria máquina pode ser bem frustrante. Tenha sempre em mãos uma VM de teste.
+> The weapons with which the bourgeoisie felled feudalism to the ground are now turned against the bourgeoisie itself. 
+
+> In proportion as the bourgeoisie, i. e., capital, is developed, in the same proportion is the proletariat, the modern working-class, developed, a class of laborers, who live only so long as they find work, and who find work only so long as their labor increases capital. 
+
+> Modern industry has converted the little workshop of the patriarchal master into the great factory of the industrial capitalist. 
+
+> At this stage the laborers still form an incoherent mass scattered over the whole country, and broken up by their mutual competition.
 

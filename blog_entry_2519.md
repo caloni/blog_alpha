@@ -1,16 +1,20 @@
 ---
 categories:
 - writting
-date: '2014-06-10'
-link: https://www.imdb.com/title/tt1631867
+date: '2014-04-27'
+link: https://www.imdb.com/title/tt1280011
 tags:
 - movies
-title: No Limite do Amanhã
+title: No Impact Man
 ---
 
-Filme futurista que faz uma homenagem a Feitiço do Tempo (de Harold Ramis com Bill Murray), mas não aproveita suas idas e vindas pelo mesmo caminho percorrido pelo protagonista, que precisa morrer várias vezes, mas acaba morrendo praticamente da mesma maneira (isso lembra um pouco nossa geração vídeogame, não?). O ponto mais negativo obviamente fica para o final, pois este é um filme onde Tom Cruise (Oblivion) é o herói, e heróis como ele e Will Smith muitas vezes se dão ao luxo de não trocar suas personas midiáticas por personagens mais reais. Ou podemos dizer que essa é uma crítica pontual ao espírito vídeo-game dessa geração, acostumado com desafios fáceis e pouco desafiadores.
+Esse é daqueles documentários ecológicos que se baseia no escritor Colin Beavan e sua família, a esposa compradora compulsória Michelle Conlin e a pequena e inocente filha. Os três passarão um ano cuidando de suas vidas sem tentar causar qualquer impacto ambiental no meio de Nova York. Primeiramente, devo perguntar: o que seria um impacto ambiental para uma família dessas, e por quê?
 
-Esqueçamos as atuações -- exceto a de Bill Paxton, excelente -- e foquemos na técnica. A edição de James Herbert (colaborador habitual do cleptomaníaco Guy Ritchie) aliada à direção competente de Doug Liman (a trilogia Bourne) compensam enormemente um roteiro desnecessariamente prolixo escrito por não sei quantas pessoas. Há momentos inspirados, mas não estão na parte final. O núcleo desse ótimo filme está em sua narrativa dinâmica, que totalmente diferente da linguagem usada em Feitiço do Tempo se aproveita da agilidade atual do espectador e recorta cenas repetidas com uma velocidade inimaginável algumas décadas atrás. Com isso, o filme cria uma forma empolgante de avançar na história, onde não sabemos exatamente quanto tempo se passou (para o protagonista), mas sabemos que foi muito, já que ele misteriosamente sabe de diversos detalhes íntimos de várias pessoas que sequer possuem tempo em tela (uma das falhas mais graves no roteiro é não explicar a origem desses insights).
+Aliás, acho que o filme é que deveria fazer essa pergunta em primeiro lugar, já que ele se deixa levar pelas ambições de Colin e seu senso comum do que seria causar algum dano à natureza, como consumir carne, usar eletricidade e papel higiênico. É um ato de protesto, sem dúvida, mas a questão maior é como esse protesto poderia impactar em nossas decisões do dia-a-dia se não há conhecimento o suficiente para embasá-lo?
 
-Conseguindo de fato transformar toda a experiência em uma espécie de vídeogame apenas acompanhamos Cage (Cruise) aprendendo a lutar em uma guerra e a dar valor aos soldados que lutaram em seu lugar (Cage começa no filme mais como um publicitário do que um militar), o que é um arco razoável. A tensão aumenta um pouco mais para o final, quando um acontecimento já previsto ocorre, mas sofre com a falta de comprometimento com suas premissas básicas. Viagem no tempo é um tema fascinante e pode dar muita liberdade narrativa, mas uma vez que suas regras são lançadas, fica difícil se livrar da maldição auto-lançada.
+É muito fácil para Colin dizer que, para o leigo, a única coisa que ele precisa fazer para se juntar a essa causa é não consumir qualquer produto que ele não conheça seu produtor e/ou seus métodos de produção. Isso torna tudo muito mais romântico do que prático, e o homem que não causa impacto na natureza produz um filme que não causa impacto nenhum na natureza de nosso consumismo compulsivo.
+
+Boa parte da culpa vem das decisões dos diretores Laura Gabbert e Justin Schein, que se entregam ao roteiro escrito por marido e esposa sem questionar qual é a grande história por trás desse maluco que quer voltar a viver como 100 anos atrás. O próprio documentário assume em diversos momentos a insanidade do projeto e talvez do protagonista, o que não ajuda em nada para sua mensagem.
+
+Mesmo assim, em tempos de poluição e de catástrofes anunciadas, qualquer mensagem de esperança, qualquer sinal de como podemos melhorar nosso consumismo desenfreado, sempre será boa notícia. Por isso No Impact Man pode servir de ao menos uma breve reflexão sobre o que estamos fazendo nesse exato momento que pode estar impactando negativamente a nossa breve estadia nesse planeta.
 

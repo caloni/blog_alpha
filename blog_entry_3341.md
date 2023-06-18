@@ -1,28 +1,16 @@
 ---
 categories:
 - writting
-date: '2019-02-13'
+date: '2018-05-29'
+link: https://www.imdb.com/title/tt7902072
 tags:
-- cinemaqui
-- movies
-title: Como a geração de Sai de Baixo se encontra com a geração Não me Toque
+- series
+title: Safe
 ---
 
-A coletiva de imprensa para "Sai de Baixo: O Filme" pode ser resumida da seguinte maneira: uma trupe de militantes mimimi fazendo perguntas sobre sentimentos e o elenco do filme respondendo à altura sem sair do salto; muito pelo contrário, com muita propriedade: "temos que dizer uma coisa que todo pobre concorda e se identifica: ser pobre é ruim!". Parecia um quadro de humor combinado. E que rendeu (a mim pelo menos) ótimas risadas.
+Antes que me perguntem, não, Michael C. Hall não mudou muita coisa desde seu icônico personagem em Dexter. Ele sempre foi o ator perfeito para o papel de serial killer, e aqui se sai muitíssimo bem no papel de um viúvo pai de duas meninas, onde uma delas some misteriosamente. Estamos em um condomínio fechado da classe média alta americana com pais um pouco autoritários demais com seus filhos (crítica social!) e vizinhos bem estranhos para ter como vizinhos.
 
-Para quem chegou no planeta faz pouco tempo, Sai de Baixo foi uma série de sucesso nos anos 90 exibida pela Rede Globo de Televisão por cerca de quatro anos no horário nobre de domingo. A ideia idealizada por Luis Gustavo e Daniel Filho foi inspirada em outro programa, A Família Trapo, que estreou nos anos 60 o formato de teatro com plateia ao vivo, depois editado para a TV mas com direito a improvisos. Sucesso absoluto, não à toa a TV "se inspirou" pelo menos mais duas vezes, em A Grande Família e Toma Lá Dá Cá (onde Miguel Falabella e Marisa Orth também participam).
+Há um churrasco no primeiro episódo de Safe, e não há nenhuma cena em todo o piloto que nos faça visitar aquele mundo de novo. Claro, você pode se sentir seduzido para descobrir o paradeiro da menina, o que aconteceu na festa de jovens, etc, etc, e etc. Mas para isso terá que ser atraído por qualquer tipo de suspense, já que este é genérico demais para nos preocuparmos com qualquer coisa. Os personagens são jogados e basicamente é isso.
 
-Para quem lembra da velha discussão sobre a mudança do humor por conta de outros tempos através de outro programa antigo e hoje polêmico, Os Trapalhões, com suas piadas envolvendo temas sensíveis como racismo e homossexualidade, Sai de Baixo poderia fazer parte hoje da mesma sabatina feito pelo pelotão do politicamente correto, já que o programa trabalha com caricaturas do imaginário popular envolvendo o que o pelotão chama de "pessoas em situação vulnerável", seja a faxineira pobre ou o resto dos personagens, formados por uma falida família de classe média fingindo nobreza em um apartamento decadente em bairro idem da cidade de São Paulo.
-
-Mas tanto o roteirista Miguel Falabella quanto todo o elenco defenderam e ensinaram na entrevista como funciona o humor, pelo princípio de que o exagero dos personagens faz com que a plateia se identifique e se sinta mais à vontade exatamente por ser representada. Não se trata apenas de dar boas risadas, mas da identificação de nossas próprias caricaturas brazucas, esse personagem patético que comercializava pau-brasil e que desde o início sempre almejou ser o inalcançável e "perfeito" comprador europeu.
-
-Ao mesmo tempo que essas questões do uso do humor surgiu um sentimento de prazer e saudosismo misturados ao perceber como apesar de ter se passado 17 anos desde o fim da série principal o elenco disse e transpareceu que durante as filmagens eles reencontraram seus personagens uns nos outros. Como Luis Gustavo muito bem colocou, Sai de Baixo é um conceito que deve continuar fazendo sucesso indefinidamente, e mesmo que todo o elenco original morra ou desista a ideia permanece. E a ideia é muito boa.
-
-Ela é muito boa porque representa o humor brasileiro em seu ápice e sem copiar outras culturas. Um produto 100% nacional que deu certo e continua na ativa. Pequenos causos contados por Falabella ilustraram com perfeição o carinho e a receptividade do público desde o começo, quando os programas eram filmados em um teatro de São Paulo, até agora, quando boa parte do público sequer havia nascido ou criado dentes quando o programa estreou. Resta saber se apesar dos tempos terem mudado radicalmente a essência permanece.
-
-Eles também falaram sobre a dificuldade de se produzir cinema no Brasil, o que explica porque não foi lançado o filme logo depois da série. "Não existia cinema no Brasil naquela época." De fato. Não nos lembramos mais que a volta do cinema nacional foi um processo lento e doloroso, e que mal acabamos essa transição, onde finalmente os gêneros começam a se diversificar e projetos mais experimentais começam a sair do papel. Um "Sai de Baixo: O Filme", então, é um mais que merecido "alô" de um passado não tão distante onde a TV era o principal veículo de conteúdo nacional.
-
-Cercado de boas vibrações sobre a estreia, Sai de Baixo já chega aos cinemas com promessa de continuação, tamanho foi o otimismo da equipe a respeito do resultado, e contrariando o medo que existia que o projeto fosse uma pá jogando um último punhado de terra de um programa já enterrado há tempos. Isso deu origem a mais uma parte engraçada da entrevista: o medo de que as filmagens não dessem uma montagem decente a ponto de virar um filme. Todo o tempo o elenco assediava a diretora, Cris D'Amato, para ver se ela acelerava logo o processo de montar o filme para todos verem se isso que estavam fazendo era realmente um filme.
-
-Esses detalhes não apenas tornam este um projeto especial, como nos faz lembrar que Sai de Baixo existe na arte e na vida real. Ainda que cinema seja algo glamuroso e cheio de holofotes, ainda não é fácil gastar alguns milhões na produção de um filme médio torcendo para que ele fique em cartaz tempo suficiente para se pagar. A vida imita a arte que imita a vida. Seja no Largo do Arouche ou nas telonas de todo país onde, torçamos, famílias brasileiras venham lotar salas e assistir e dar risada de si mesmas. Nem que seja contando moedinhas para o ingresso e sem dinheiro pra pipoca.
+A produção possui um esmero interessante na fotografia sisuda e na forma como o próprio condomínio é retratado, como um lugar onde há eventos sociais para confraternização que no fundo é um grande elevador onde todos se olham sem dizer realmente nada. O luto da esposa do personagem de Michael C. Hall possui um ar de incógnita na reação de sua filha mais velha durante o enterro, e o próprio C. Hall parece guardar algum mistério. Ele deveria, já que o resto dos personagens passa longe de ser interessante. No máximo todos conseguem ser muito antipáticos. Se esse foi o objetivo inicial da série, parabéns.
 

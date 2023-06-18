@@ -1,19 +1,16 @@
 ---
 categories:
 - writting
-date: '2021-11-01T21:16:13-03:00'
+date: '2014-06-10'
+link: https://www.imdb.com/title/tt1631867
 tags:
-- cinemaqui
-- mostra
 - movies
-title: No Limite do Destino
+title: No Limite do Amanhã
 ---
 
-No Limite do Destino é a ambição do ator Yusuke Kitaguchi em dirigir seu primeiro filme, baseado em um drama sobre uma órfã e seu reencontro com a mãe problemática. E ele consegue. Faz um vídeo educado de um minuto para nos introduzir seu filme na Mostra de SP (disponível no Mostra Play, plataforma de streaming).
+Filme futurista que faz uma homenagem a Feitiço do Tempo (de Harold Ramis com Bill Murray), mas não aproveita suas idas e vindas pelo mesmo caminho percorrido pelo protagonista, que precisa morrer várias vezes, mas acaba morrendo praticamente da mesma maneira (isso lembra um pouco nossa geração vídeogame, não?). O ponto mais negativo obviamente fica para o final, pois este é um filme onde Tom Cruise (Oblivion) é o herói, e heróis como ele e Will Smith muitas vezes se dão ao luxo de não trocar suas personas midiáticas por personagens mais reais. Ou podemos dizer que essa é uma crítica pontual ao espírito vídeo-game dessa geração, acostumado com desafios fáceis e pouco desafiadores.
 
-A história é sobre Otose Nishizono, essa garota que foi emancipada do orfanato onde foi parar depois de fugir da casa de sua mãe e padastros abusivos ainda criança. No primeiro mês de sua independência, aos 18 anos, ela reencontra sua mãe, que quer o dinheiro do seu salário, e a relação abusiva simplesmente continua a partir daí.
+Esqueçamos as atuações -- exceto a de Bill Paxton, excelente -- e foquemos na técnica. A edição de James Herbert (colaborador habitual do cleptomaníaco Guy Ritchie) aliada à direção competente de Doug Liman (a trilogia Bourne) compensam enormemente um roteiro desnecessariamente prolixo escrito por não sei quantas pessoas. Há momentos inspirados, mas não estão na parte final. O núcleo desse ótimo filme está em sua narrativa dinâmica, que totalmente diferente da linguagem usada em Feitiço do Tempo se aproveita da agilidade atual do espectador e recorta cenas repetidas com uma velocidade inimaginável algumas décadas atrás. Com isso, o filme cria uma forma empolgante de avançar na história, onde não sabemos exatamente quanto tempo se passou (para o protagonista), mas sabemos que foi muito, já que ele misteriosamente sabe de diversos detalhes íntimos de várias pessoas que sequer possuem tempo em tela (uma das falhas mais graves no roteiro é não explicar a origem desses insights).
 
-No Limite do Destino brinca com o tema sem muita pretensão. Seu roteiro é simples e direto, retirado diretamente do contemporâneo onde moças sonham em se tornar famosas em uma banda de idols e ninguém está muito afim de trabalhar. No entanto, as épocas se misturam, pois a mãe de Otose fuma dentro de uma cafeteria e está tudo bem. A ideia de mescla de gerações faz sentido na história, pois acompanharemos também a trajetória de uma outra jovem que fica grávida de um homem casado e precisa sacrificar sua carreira de cantora logo no início.
-
-O drama estabelecido em No Limite do Destino puxa tensão forçando a barra na relação abusiva entre mãe e filha e não arreda o pé. É difícil se identificar com uma pessoa tão passiva quanto Otose, e não sabemos (pelo filme) de onde veio sua personalidade, exceto que ela é materializada na figura de um homem de preto. É tudo tão fechado e formal, bem no estilo japonês. Não é uma experiência ruim, mas você irá sentir a estranheza do estrangeiro a todo momento. "O que está acontecendo", "por que ela continua fazendo isso" e "não consigo entender essa garota" serão pensamentos constantes nessa sessão. E, sem querer dar spoiler, não posso afirmar que a coisa vai melhorar em algum momento.
+Conseguindo de fato transformar toda a experiência em uma espécie de vídeogame apenas acompanhamos Cage (Cruise) aprendendo a lutar em uma guerra e a dar valor aos soldados que lutaram em seu lugar (Cage começa no filme mais como um publicitário do que um militar), o que é um arco razoável. A tensão aumenta um pouco mais para o final, quando um acontecimento já previsto ocorre, mas sofre com a falta de comprometimento com suas premissas básicas. Viagem no tempo é um tema fascinante e pode dar muita liberdade narrativa, mas uma vez que suas regras são lançadas, fica difícil se livrar da maldição auto-lançada.
 

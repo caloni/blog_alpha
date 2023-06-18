@@ -1,29 +1,26 @@
 ---
 categories:
 - writting
-date: '2019-02-19'
-link: https://www.imdb.com/title/tt7972528
+date: '2019-10-05'
+link: https://www.imdb.com/title/tt9608078
 tags:
 - cinemaqui
+- mostrachinesa
 - movies
-title: Lembro Mais Dos Corvos
+title: Lembre-se de Mim, Por Favor
 ---
 
-Lembro Mais dos Corvos é aquele documentário minimalista ao máximo que lembra que Cinema pode ser apenas uma câmera filmando e uma pessoa falando, e se essa ideia não lhe apetece fique longe desse filme. Contudo, esteja avisado também disso: esse é provavelmente um dos filmes mais humanos que você irá ver esse ano. Talvez porque a vida não se controla. Apenas deixamos fluir, e quando menos se percebe, houve a conexão entre seres humanos. Esse filme tenta emular isso no cinema.
+Tem início a Quinta Mostra de Cinema Chinês em São Paulo, dessa vez homenageando e focando nas diretoras mulheres de um país fechado que merece ser redescoberto. O filme da abertura, por exemplo, este "Lembre-se de Mim, Por Favor", é o último filme de Xiaolian Peng antes do seu falecimento. É uma pena que ela tenha se ido tão cedo, pois ela estaria neste evento, junto de sua colega, a diretora Liu Miaomiao (seu filme Flores Vermelhas e Folhas Verdes também será exibido na Mostra).
 
-Isso porque o diretor Gustavo Vinagre resolve realizar este documentário sobre essa atriz que aparentemente também é sua amiga, e aparentemente sem um roteiro definido. E se digo que tudo é aparente é porque quando sentamos em uma poltrona no cinema nosso cérebro está programado para pensar em termos de ficção ou pelo menos, nos documentários, uma narrativa controlada e parcial. Não há um acordo prévio de estabelecer um contato tão próximo assim com um ser humano, como quando fazemos de chamar alguns amigos para beber um vinho em casa e conversar sobre a vida. E mesmo nesse encontro hipotético e casual, tomando quantas garrafas de vinho que for, é muito difícil que a conversa gire exclusivamente sobre a vida pessoal de um deles.
+Membro da quinta geração de diretoras mulheres da China, Xiaolian Peng manteve a tradição coletivista cultural da Academia de Cinema de Beijing, mas destoa na narrativa, buscando evocar a individualidade e empoderamento de mulheres inseridas nesse contexto, além de um interesse/obsessão pela cidade de Shanghai. Dois de seus filmes mais famosos, Era Uma Vez em Shanghai e Women's Story, refletem esses interesses da cineasta que permearam seu cinema ao longo da vida, seja no roteiro ou na direção.
 
-Mas é exatamente isso que Gustavo faz, o que deixa Julia apreensiva em alguns momentos, além de não saber muito qual rumo tomar ao tentar atender o desejo do diretor: que ela fale tudo sobre ela.
+"Lembre-se de Mim, Por Favor" acaba sendo uma espécie de antologia do cinema chinês que Peng participou. O filme evoca dois personagens populares para os cinéfilos: o diretor que não consegue parar de filmar e sua atriz, que não consegue parar de incentivá-lo. Juntos eles passarão por dificuldades morando em uma casa prestes a ser demolida, representando as mudanças aceleradas da economia chinesa e a crescente e frenética transformação dos horizontes das grandes cidades.
 
-Porém, Julia parece uma mulher forte. Talvez não em um primeiro momento, no começo, mas certamente ao final do filme. Isso porque ouvimos sua história de vida. E não é bonita. Envolve abusos quando criança, tentativas de suicídio e a falta de apoio da família. Boa parte do material é barra pesada, e como espectador não estamos certos se tudo aquilo é necessário ser exposto. Como havia falado, não estava combinada essa intimidade do espectador com um ser humano. Não nesse nível. Ao sentir empatia por quem fala através da câmera, nos sentimos um pouco cúmplices do diretor por "deixá-lo" colocar Julia nessa situação. E um pouco culpados por isso.
+A antologia se constrói a partir do personagem do diretor. Documentarista por vocação, o personagem interpretado por Yiping Jia resgata a história do cinema chinês através de depoimentos dados por verdadeiros cineastas da época. Xiaolian Peng está interessada em contar uma história de elementos clichês, subvertendo-os no processo, e o faz criando uma estética ainda crua, mas fascinante justamente por causa disso. Truques como refletir o passado em um espelho ou criar movimento através de uma sequência de selfies não são apenas elementos técnicos quando estão em um filme sobre a história do cinema.
 
-Sentimentos e pensamentos fluem conforme a diretora, atriz e roteirista Julia Katharine recebe uma equipe de filmagem em sua casa, abre um vinho rosé e começa a falar de sua vida. O filme flui naturalmente, com exceção de um longo plano final sem razão aparente. Talvez o diretor queria que nós refletíssemos, mas essa parte ele não conseguiu controlar.
+Enquanto isso a atriz principal, a belíssima e cômica Wenjuan Feng, faz o que toda mulher acaba fazendo nos bastidores: ajudar o homem a se mexer. Ela protagoniza as cenas mais dinâmicas, representa o coração do filme e o espírito libertador das amarras da decadência. Enigmática em seus objetivos, a personagem de Feng está pronta para partir em um épico, como a cena da escada comprova, mas lhe falta substância para atuar.
 
-Nesse momento eu me lembro que deveria contar a vocês que Julia é uma transsexual, que nasceu homem e se tornou mulher. E nesse momento eu não me sinto à vontade para fazer isso. Talvez receoso ao saber do preconceito coletivo de que a própria Julia falou, em que as pessoas pensam que transsexuais pensam e falam 100% de sexo. Bom, pra ser sincero, ela fala uns 50% durante o filme. Mas não é isso que vem ao caso. O constrangimento surge para mim porque esse é um detalhe que talvez faça diferença para você, leitor, mas que não deveria.
+Este é o típico filme que merece mais cortes. Ele pode transcender de homenagem para referência se algumas cenas fossem descartadas pelo bem do mistério e da ambiguidade. Se alongando em seu terceiro ato, com dois ou três finais, "Lembre-se de Mim, Por Favor" estica o pedido que faz no início pela memória do cinema além do razoável, não entregando um desfecho satisfatório para o casal do filme, preferindo torná-los representantes dessa inconclusão das mudanças no panorama da sétima arte chinês. Incomoda, mas não permanece em nossa memória.
 
-"Este é um filme sobre um ser humano que foi machucado e que se machucou em boa parte de sua vida e que ressurgiu do outro lado mais fortalecido." Esse é o resumo que faria justiça ao filme. Ser transsexual é um detalhe da vida de Julia como viver um tempo no Japão, por exemplo. Mas tanto viver no Japão quanto ser trans são eventos e características que dizem respeito apenas a ela. Sua sexualidade não deveria ser uma bandeira política, como se costuma fazer nos dias de hoje, e a naturalidade com que ela aborda esses dois assuntos de sua vida, assim como muitos outros, é tocante, e isso é o que deveria importar mais.
-
-A câmera de Gustavo intimida. Ela faz zoom, ela acompanha Julia se trocando, ela pausa por um bom tempo em seu rosto. Talvez ele esteja dizendo algo aqui. Algo sobre a insistência em tentarmos dissecar um ser humano mesmo sem a menor capacidade de entender a nós mesmos? Só um chute.
-
-Uma madrugada em São Paulo e uma entrevista íntima e pessoal com Julia Katharine. Seguido de um curta de quase meia-hora de sua autoria (espero que quando estreie esteja junto também). A sensação é ter conversado a noite inteira com este ser humano talentoso em saber viver (apesar dos infortúnios) e em seguida observar uma de suas criações. É humanizar demais o Cinema. É arriscar demais se aproximar de um ser humano. Esteja avisado.
+A Quinta Mostra de Cinema Chinês apresenta nove filmes dirigidos por mulheres do dia 3 a 13 de outubro. Em sua maioria dramas, com pequeno espaço para aventura e família, é uma pequena janela que se abre pela quinta vez sobre o potencial cinematográfico de um país que cresce em todas as áreas em uma grandeza que desafia a lógica. É bom saber que as mulheres estão inseridas no processo.
 

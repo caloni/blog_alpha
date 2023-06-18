@@ -1,26 +1,23 @@
 ---
 categories:
 - writting
-date: '2011-06-26'
-link: https://www.imdb.com/title/tt1305806
+date: '2018-10-23'
+link: https://www.imdb.com/title/tt6892206
 tags:
+- cinemaqui
 - movies
-title: O Segredo dos Seus Olhos
+title: O Segredo de Nápoles
 ---
 
-Juan José Campanella ([O Filho da Noiva], Clube da Lua) mostra como um roteiro bem escrito e uma direção impecável conseguem apresentar duas tramas entrecortadas de uma maneira tão fluida e transparente que, no fundo, parece que estamos assistindo a uma única história. Como se fosse pouco, a narrativa se desenvolve alternando um presente e um passado separados por mais de 25 anos. Em uma obra com tantas virtudes, acompanhar a evolução do personagem de Ricardo Darín (Un Cuento Chino) através desses dois momentos em sua vida é mais um bônus nesse filme que merece ser assistido por muitas e muitas vezes.
+O Segredo de Nápoles possui uma atmosfera de mistério junto de um drama pessoal que desafia nossa percepção da realidade, e seria ingênuo de nossa parte considerar verdade apenas o que pode ser provado. Afinal o que sabemos da vida está fadado a falhas e incertezas de nossa percepção.
 
-Desde o início é possível perceber uma atração sutil, apenas entre gestos, olhares e diálogos enviesados, entre Benjamín Esposito (Darín), um conselheiro legal de origem humilde, e sua recém-chegada superiora, Irene Menéndez Hastings (Villamil). Vinda de família rica e superior em vários quesitos em comparação com o humilde Esposito, a delicadeza inata de apresentar posições invertidas em uma sociedade na época ainda patriarcal favorece nossa identificação com o drama de Esposito, que, assim como persegue seu suspeito número um do seu agora romance, e, como se soubesse o que o espera em sua vida, parece perseguir um outro futuro para si mesmo a todo momento em que a vê.
+A história começa em uma escadaria, com a câmera girando em torno de si mesma. Em seguida, vemos uma mulher descarregando uma arma em um homem, que cai pelas escadas. Atrás surge uma "bambina". Ela viu tudo. Focamos em seu olho. O que é visto pelos olhos nos é como mais sagrado.
 
-De acordo com o IMDB, o filme foi produzido com a mesma proporção de tela do antigo Cinemascope (2.35:1), e Campanella aproveita cada milímetro que pode (nem que seja a fresta da porta de um elevador refletida no espelho) para trazer à tona não apenas os personagens, mas aspectos marginais da trama que servirão, em outros momentos, para informações relevantes da trama. Uma exceção a essa conduta metódica nas cenas pode ser vista no que deve ser uma das sequências sem cortes mais geniais que o Cinema produziu, que se inicia em um estádio lotado durante uma partida de futebol e que, impecavelmente, consegue se aproveitar dessa largura tela para exibir toda a ação que lá transcorre. Se você é aficionado por técnicas de filmagem, apenas essa sequência serviria de incentivo para assistir ao filme inteiro.
+O tempo avança e acompanhamos a cena de sexo mais completa do filme. A bambina crescida agora é Adriana (Giovanna Mezzogiorno), uma doutora legista que sai com um famoso mergulhador pela primeira vez para a melhor noite de sua vida. Na manhã seguinte ela teria a continuação do relacionamento se não o tivesse desencontrado no museu de arqueologia e reencontrado na mesa do trabalho, com os olhos arrancados.
 
-Ainda no campo técnico, a fotografia belíssima do brasileiro Félix Monti consegue traduzir eficientemente a austeridade do escritório de advocacia e transpor seu clima de formalidade para a tela. A trilha sonora, por sua vez, se insere delicadamente nas belíssimas composições de quadro que, por denotarem muitas vezes ação e reflexão ao mesmo tempo, não conseguiriam atingir o tom de maturidade necessário caso uma música do próprio filme atrapalhasse a concentração do protagonista (e, claro, do próprio espectador).
+É um filme sobre um crime, ou na verdade sobre dois, pois o que a bambina viu ainda não está resolvido em sua cabeça. Agora o que ela viveu com o mergulhador se transforma em uma inquietante busca quando surge seu irmão gêmeo desconhecido a assombrar. O filme não está interessado em truques e reviravoltas, mas é bem capaz que o espectador médio caia em uma ou duas. O principal trata de uma imersão na cabeça dessa bambina crescida e ao mesmo tempo em nossas cabeças, através do que nós vemos.
 
-Além da direção e do roteiro, é o próprio Campanella que faz a montagem, e nela consegue fundir permanentemente presente e passado, de uma maneira muitas vezes intrigante. Em alguns momentos, a história do homicida se funde com a do próprio Esposito, como quando, em um acesso de raiva, atinge acidentalmente sua amada. Criando esses reflexos durante todo o tempo (note como Esposito faz uma cantada no início do filme da mesma forma como seu antigo amigo), a sensação que temos é a de existirem vários detalhes que se encaixam no filme como um todo.
+Nápoles vira uma personagem onde os mistérios ocorrem, em seus corredores, ruas, museus e igrejas. Nas casas seculares, como onde ocorreu o primeiro crime. Nos jardins. A câmera do diretor Ferzan Ozpetek que começou girando pela escadaria segue em movimento leve sugerindo o aspecto de sonho. As transições de cena são suaves e a trilha sonora acalma em vez de gerar tensão. Mais uma vez: há morte, mas não é um thriller de suspense.
 
-E por falar em pista-recompensa, por que não falar de uma muito mais sutil, que não me atrevo a dizer aqui, mas que se relaciona diretamente com parte do desfecho da história, 25 anos depois?
-
-O fato é que O Segredo dos Seus Olhos contém mais segredos em sua composição do que uma resenha sobre ele poderia revelar. Felizmente, sua tecnicidade não afeta sua compreensão e, portanto, nos mesmos moldes de O Poderoso Chefão, é possível, sim, acompanhar a trajetória de Esposito como um "simples" espectador e, ao mesmo tempo, ter uma mini-aula sobre como é fazer Cinema.
-
-[O Filho da Noiva]: {{< relref "o-filho-da-noiva" >}}
+O uso da câmera também funciona na subjetividade. Vira e mexe ela está atrás de seus personagens. E ela está certa para esse filme: seus personagens importam mais que os fatos. Os fatos, esses escravos de nossa percepção, às vezes veem à tona, às vezes não. O que aconteceu com alguém que não existe mais? Assista sem pressa.
 

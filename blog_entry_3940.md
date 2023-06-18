@@ -1,19 +1,11 @@
 ---
 categories:
 - writting
-date: '2010-11-01'
-link: https://www.imdb.com/title/tt2186866
+date: '2019-01-04'
 tags:
-- mostra
-- movies
-title: Vamos nos Conformar
+- wine
+title: Valtier Utiel
 ---
 
-Esse documentário conta a história de quatro amigas que estão internadas em uma espécie de abrigo para filhas que foram abandonadas por suas famílias. Cada uma delas fala na sua vez sobre sua história, e conseguimos identificar facilmente a personalidade de cada uma: a que tem pena de si, a durona e irritada, a complicada e, por fim, a conformada. É ela que veremos frente a frente com os pais.
-
-É possível entender o absurdo da situação dessas mulheres através do questionário do instituto, onde são feitas diversas perguntas atípicas, como se a pessoa já frequentou algum hospício ou se foi molestada quando criança. Fica óbvio que, após, darem entrada no local, elas vivem presas, pois os muros possuem arame farpado, janelas possuem grades e muitas nem vêm a claridade exterior dias inteiros.
-
-O ponto alto do documentário é a discussão do pai que visita a última menina entrevistada. Na concepção dele, a menina é uma desvirtuada sem solução. Ele ignora totalmente a possibilidade de uma sociedade diferente da idealizada por ele, onde as mulheres devem se esconder, ser submissas e nunca fazer coisas como usar maquiagem.
-
-Muito embora tenha momentos emocionantes, a narrativa não consegue gerar uma grande empatia pelas meninas, mas apenas pela sua causa. Nesse ponto, ele é tão efetivo quanto A Flor do Deserto, só que este último conta uma história mais interessante em tom ficcional.
+Requena Reserva 2013 é um espanhol que tem o corpo de um reserva sem o peso da madeira. Mas os aromas estão lá, amadurecidos. Bom, talvez nem tanto. Depois de mais de uma semana na geladeira não é que o gosto deu uma suavizada interessante? Mas ainda é um vinho de personalidade forte, que sempre te chama a atenção pelo azedo ou tanino. Bom com fusili e molho de tomate sem acidez.
 

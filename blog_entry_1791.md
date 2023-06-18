@@ -1,25 +1,23 @@
 ---
 
-Hi Score Girl apela para o saudosismo de velhos que vivenciaram todas as gerações dos games e fliperamas mais badalados da história, mas é ao mesmo tempo uma história de relacionamento entre um menino e uma garota. Isso provavelmente deve dar tilt.
+Uma comédia britânica que não se resume a boas risadas. Aliás, talvez você nem encontre boas risadas, dependendo do seu senso de humor. A questão é que há muita falta de timing cômico na maioria das cenas, tornando a atuação exagerada de Simon Pegg simplesmente exagerada.
 
-Ou não. Tendo um estilo que parece obviamente biográfico, acompanhamos a história de Haruo Yaguchi (Kohei Amasaki), um garoto que sempre vai mal na escola e não tem maiores habilidades, exceto ser sempre o primeiro nos fliperamas, onde praticamente vive após as aulas. Do seu lado surge a improvável figura de Akira Ono (voz por Sayumi Suzushiro... pera aí: voz??), que nunca fala nada e é notadamente superior a Haruo no videogame. Akira é a mais bela da sala de aula, além da mais rica. Sua vida no fliperama é a válvula de escape que ela precisa para sua vida regrada e predestinada a herdar o império dos pais.
+No entanto, há uma história aí. Se trata de um homem que não conseguiu tocar sua vida depois do colégio, se limitando a definir a memorável noite em que ele e seus quatro amigos saíram pela cidadezinha onde moravam para fazer o circuito dos 12 bares, sendo que o último se chama Fim do Mundo. Após a narração épica de Gary, o vemos em um círculo de pessoas, fazendo o testemunho de algum grupo de apoio, e já com mais de 40 anos.
 
-Se você já foi nerd, gamer, ou nerd gamer, e talvez japonês, sabe que um dos maiores fetiches é por garotas que jogam videogames. Peças raras nos anos 90, quando uma garota entrava no fliperama do bairro quase sempre ela não parecia uma garota. Portanto, não deixa de ser sintomático que aqui ela seja a garota mais bonita da escola.
+Obviamente ele precisa de ajuda, e vai buscar terapia tentando reunir seus amigos de outrora para finalizar o que havia começado quando ainda adolescente. Meio que realizando um pequeno milagre (explicável) ao realmente reunir todos para essa "aventura", o que se passa depois faz par com Um Drink no Inferno.
 
-Haruo tem sua vida pautada nos videogames, e uma relação especial, claro, com Street Fighter. Seu melhor amigo (imaginário) é um dos lutadores desse jogo, e há alguns momentos que o anime mescla os dois mundos. A trilha sonora, composta pela pianista com foco em videogames Yoko Shimomura, também é um deleite à parte, pois a trilha sonora da série possui aqueles toques conhecidíssimos dos jogos vintage.
+O que parecia incômodo se torna bizarro, digno de um terror B de 50 anos atrás. Porém, há uma interessante questão sobre o conflito do politicamente correto, e a padronização de pessoas, lugares, comportamentos. Isso é a evolução vista de longe (talvez até de outra galáxia), mas permanece uma dúvida: isso é liberdade? O que abre outra questão: o que é liberdade?
 
-A melhor parte de Hi Score Girl diz respeito à comunicação entre os dois e a passagem dos anos. A óbvia imaturidade de Haruo reflete a imaturidade dos garotos em geral, que, incapaz de perceber que Akira está interessada em sua companhia e não em um adversário, cria boa parte dos conflitos entre os dois. Para apimentar um pouco mais a relação eles colocam uma terceira personagem, outra garota bonita, e agora sim temos o fetiche completo do garoto games: duas lindas garotas disputando sua atenção. E ele autista em torno delas.
+Nem todos os atores estão confortáveis em seus papéis. Pegg obviamente está. Seu parceiro eterno, interpretado em sua versão quarentona por Nick Frost, faz o que podemos chamar de arco, e é bem-humorado o suficiente para funcionar.
 
-Utilizando traços fofos, onde as expressões nos rostos dos personagens não são detalhados, mas sutilmente sugestíveis, as músicas do anime também sugerem um traço lúdico que une jogos, saudosismo e relacionamentos amorosos que nunca deram certo na vida em um combinado que é supreendentemente maduro para um anime japonês.
-
-Se trata de um trabalho curto, com 12 episódios (chamados de rounds) de 20 minutos cada. E é incompleto. Uma completa desonestidade com o espectador. Os dois últimos episódios criam ganchos para uma possível futura temporada, mas não conseguem terminar essa temporada de maneira satisfatória.
+Realizando em seu terceiro ato uma espécie de debate intergaláctico entre a tal da liberdade e do progresso, a síntese do filme está em todas as idiotices que Gary e seus amigos realizam depois dos quarenta. Eles estão certos? Gary está certo? Ou já é certo se é livre? Quem diria encontrar questões filosóficas em um filme de bebedeira. Bom, como todo mundo que já encheu a cara em um bar, sabe que questões filosóficas emergem da caneca depois de algumas viradas.
 
 ---
 categories:
-- playing
-date: '2023-02-18T12:31:52-03:00'
-link: https://www.chess.com/game/live/70472042987
+- writting
+date: '2019-01-17'
+link: https://www.imdb.com/title/tt8963328
 tags:
-- english
-- chess
-title: Hidden tactic
+- animes
+- series
+title: Hi Score Girl

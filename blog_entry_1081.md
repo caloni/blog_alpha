@@ -1,102 +1,22 @@
 ---
 categories:
-- coding
-date: '2010-06-04'
-tags: null
-title: Const e Volatile
+- writting
+date: '2021-10-04T20:40:55-03:00'
+tags:
+- cinemaqui
+- movies
+title: Confissões de uma Garota Excluída
 ---
 
-Padrão C (ISO/IEC 9899:1990)
-    
-    6.5.3 type-qualifier
-     const
-     volatile
+Vamos recapitular como funciona o roteiro de Confissões de uma Garota Excluída para entender o que há de errado com o mundo: ele começa com o drama particular de uma garota normal que quer se sentir especial e desejada por garotos mais lindos do que ela; então ela chega na sala de aula com a autoestima lá embaixo e carente de amizades; logo ela encontra os outros excluídos, que se juntam para fazer uma crítica social disruptiva sobre o papel dos jovens nesse milênio que se encaixam fora da caixa do que era considerado esteticamente aceitável no século passado, e por fim decidem que basta existir para ter direito à felicidade. Fofo, não?
 
-    Padrão C++ (ISO/IEC 14882:1998)
-    
-    cv-qualifier
-     const
-     volatile
+Questões nunca vistas no cinema estão neste trabalho inovador que discute sobre bullying, pelos em mulheres, festas de aniversário com tema anos 60 (com música do ano passado) e a vovó zoando a neta a cada oportunidade. Um festival de humor misturado com cartilha social. Eu nem sei o que deve ser drama e o que é comédia. Não tenho sensibilidade suficiente para entender essa molecada que nasceu ontem. São espertos, simpáticos e possuem o super-poder da juventude, onde todo mundo é lindo e sarado (ou quase), mas as mentes estão zumbificadas, petrificadas, e quem tem conhecimentos básicos de biologia aos 16 anos é considerada uma gênia.
 
-#### Qualificadores de tipo
+No entanto, o filme pode ser chamado de bacana. A atriz que faz a protagonista, Klara Castanho, é muito carismática e dá uma volta no elenco morno e automático formado por jovenzinhos metidos a galã ou romântico clássico, patricinhas genéricas da escola metidas a populares, entre outros tipos vistos em cada espécime de comédia adolescente americana, com o detalhe que aqui se passa em bairro nobre da cidade do Rio de Janeiro, ou seja, uma classe média que gostaria de ser americana, mas com sotaque carioca.
 
-Chamamos de qualificador de tipo as palavrinhas mágicas **const** e **volatile**. Na prática elas definem como uma determinada variável será usada e se comportará durante a vida do programa.
+Klara Castanho é uma linda garota e colocam óculos e despenteiam seu cabelo porque ela não liga para isso. Paradoxalmente aceitação é o que ela mais liga no mundo, não conseguindo relacionar que aparência é a primeira coisa que as pessoas irão usar para te julgar antes de te conhecer melhor. Até um animê que assisti recentemente, para crianças, conclui este óbvio ululante. É escandaloso como as obras audiovisuais para pseudo-cinema forçam a barra a todo momento no Ocidente querendo ignorar a realidade por motivos escusos.
 
-#### Const
+Mas, enfim. "Confissões..." não é um filme ruim se você quer apenas passar uma horinha e meia paralisado no sofá, seu cérebro congelado, se distraindo com piadinhas inofensivas e historietas previsíveis. Pois é, o parágrafo sobre "questões nunca vistas no cinema" e "trabalho inovador que discute sobre bullying" obviamente é uma observação sarcástica sobre um conteúdo requentado. Se você não percebeu isso, tenho boas notícias para você: vai adorar este filme; ele deve figurar entre os melhores infanto-juvenis do ano para você. Que sortudo =)
 
-Uma variável const não pode ser alterada pelo programa durante sua execução, apenas durante sua inicialização:
-
-    const float pi = 3.14; // até onde sabemos, pi não irá mudar neste Universo
-
-No exemplo acima, o valor de pi não pode mais ser alterado. Só que repare que ele foi, em determinado momento, alterado com um valor constante: na sua inicialização. Isso quer dizer que:
-
-  * pi é uma variável no programa representada por um local na memória **endereçável **pelo programa
-  * pi não é um define do pré-processador que irá virar uma constante literal (3.14, por exemplo)
-
-    // eu posso endereçar uma constante,
-    // desde que qualifique corretamente meu ponteiro
-    const float* ppi = & pi;
-
-{{< image src="V6eR9ln.png" caption="const-memory.png" >}}
-
-Teoricamente a região da memória que contiver uma variável const pode ser qualificada pelo sistema operacional como somente-leitura, mas isso não é uma obrigação. É obrigação do compilador avisar sobre tentativas de alteração da variável no meio do programa, mas nem sempre é possível enxergar que a memória não é alterável. Dessa forma, resultados imprevisíveis podem ocorrer.
-
-{{< image src="d51bAIH.png" caption="const-gpf.png" >}}
-
-#### Uso prático
-
-Eu costumo usar variáveis const no lugar de defines. Além de ganhar na tipagem as constantes não precisam ser necessariamente globais, nem acessíveis por outros módulos. Um outro uso muito comum é criar variáveis locais que você sabe que não devem ser alteráveis por ninguém, como o tamanho de matrizes primitivas.
-
-```
-namespace Math
-{
-	const float Pi = 3.14;
-}
-
-//...
-
-int func1(int x)
-{
-	float calc = x * Math::Pi;
-	return calc;
-}
-
-//...
-
-int func2(int y)
-{
-	const size_t PathSize = MAX_PATH * 2;
-	//...
-	char path[PathSize];
-	//...
-}
- 
-
-```
-
-#### Volatile
-
-O significado do volatile teoricamente muda de implementação para implementação, mas na prática é uma forma de definir uma variável que está sendo acessada por outros programas/threads/entidades espíritas que podem alterar o seu valor sem seu programa notar quando.
-
-{{< image src="carbzjo.jpg" caption="Se concentre! Não é esse tipo de volatile!" >}}
-
-O exemplo clássico da API Win32 é o [InterlockedIncrement](http://msdn.microsoft.com/en-us/library/ms683614%28VS.85%29.aspx), que realiza operações atômicas em valores inteiros. Para fazer isso é necessário usar um recurso interno disponível pelo processador que irá modificar a memória sem intrusão de outras threads/processadores.
-
-{{< image src="3mqVrqA.png" caption="interlocked-increment.png" >}}
-
-#### Uso prático
-
-Variáveis volatile geralmente interagem de alguma forma com o sistema em que rodam, e são representadas por ponteiros para memória retornada por esse sistema ou documentada como sendo de uso específico.
-
-#### Const e Volatile
-
-É possível que exista uma variável que não pode ser modificada pelo seu programa, mas é modificada pelo sistema, de forma que ela é uma mutante!
-
-    
-    /// endereça o relógio do sistema, atualizado a cada 1/100 milissegundos
-    const volatile int* g_systemClock = (const volatile int*) 0x7689B9D4;
-
-{{< image src="4zUSxmJ.jpg" caption="mutante" >}}
-
-A definição de *g_systemClock é de uma memória que não pode ser alterada; só que ela é, pelo sistema. Então a variável também é volatile. No entanto, independente de ser const ou volatile, o tipo nunca será **alterado**, apenas **qualificado**. São duas coisas diferentes na linguagem.
+O diretor Bruno Garotti continua tropeçando em conteúdo semi-ótimo, embora sua estreia em longas, Eu Fico Loko, tenha sido um trabalho notável. Porém, são "novos tempos", e para piorar ele está munido de um trio de roteiristas engajadas: Flávia Lins, Christiana Oliveira e Thalita Rebouças, que unem diferentes temas como quem faz colagem escolar para trabalhos do primário. Funciona para espectadores de TV. Querer cobrar por um ingresso no cinema é forçar a Barra da Tijuca demais.
 

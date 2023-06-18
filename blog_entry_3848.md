@@ -1,37 +1,25 @@
 ---
 categories:
-- cooking
 - writting
-date: '2023-05-05'
+date: '2019-03-13'
+link: https://www.imdb.com/title/tt6040662
 tags:
+- cinemaqui
 - movies
-- series
-- food
-- essays
-title: Um Carê da Pesada à Indiana
+title: Um Ato de Esperança
 ---
 
-Neste post eu cito Um Tira da Pesada (Beverly Hills Cops), filme icônico dos anos 80 com Eddie Murphy, uma série da Netflix chamada Casamento à Indiana, e um carê muito doido que eu fiz.
+Dramas no tribunal costumam chamar a atenção do espectador automaticamente. É do interesse humano querer saber qual será o destino das pessoas envolvidas. Quando é sobre um crime ou casos de família o interesse é maior. Dentro dessa ótica, filmes como Um Ato de Esperança já sai na vantagem logo na largada.
 
-Um dos desafios de fazer carê é a textura dos legumes. O ideal é que você consiga senti-los inteiros, mas não duros. Macios e tenros. Ao usar diferentes legumes como batata, cenoura, mandioquinha, eles devem ser cozidos para terem o mesmo nível de dureza. É necessário tomar conta da maciez de cada um para que um não fique mais molenga ou duro que o resto. Sim, eu tive problemas em fazer carê da última vez.
+Mas há um outro motivo do porquê esse filme de Richard Eyre sair na vantagem. Seu nome é Emma Thompson. Versátil, ela consegue eficiência tanto em papéis de comédia (Razão e Sensibilidade), de drama (Tinha Que Ser Você) ou ambos (Os Meyerowitz). Aqui ela é uma protagonista extremamente forte em um drama pesado e cuja vida das pessoas julgadas dependem 100% do seu intelecto e poder de encontrar a resolução mais justa para cada caso.
 
-Os legumes não cozinhavam no mesmo ritmo e eu fiz vários ajustes para conseguir o efeito sem sucesso. No final reaproveitei o carê da véspera e bati tudo junto e cozinhei mais legumes em cima. O resultado ficou bom, mas estranho. Além da textura a Mitiko reclamou do sabor inexistente. Acredito que seja este curry em pó safado que compramos. Mesmo colocando uma porção generosa ele não embala sabor nos legumes.
+O roteiro de Ian McEwan, que se baseou em seu próprio livro, é uma imersão realista no mundo dos juízes de primeira instância, mas que usa um drama fácil para incitar algumas questões universais. Todos sabemos que a grande maioria dos casos são simples enunciações do que a lei já prevê ou uma coleção massiva de julgamentos anteriores. É muito difícil que no mesmo ano um juiz decida casos inéditos e polêmicos. Fazer a juíza Fiona Maye, a personagem de Thompson, decidir dois casos polêmicos de vida e morte na mesma semana é forçar um pouco demais a ficção.
 
-Por falar em coisas indianas, Mitiko está assistindo esta série de reality sobre uma casamenteira indiana que percorre o mundo juntando casais. É diferente do Tinder, pois ela que faz o filtro. Ela é como a representante dos casamentos arranjados do passado. Ela dá conselhos aos jovens afobados que querem desistir do pretendente depois do primeiro encontro por pequenos detalhes. Ela luta para manter viva a figura do destino que une os casais, e ela é uma representante.
+Porém, essa é a vantagem da ficção: intensificar um pouco as coisas para que elas ganhem uma nova tonalidade. E nós nos acostumamos a esse drama, vendo uma ou outra novela mexicana ou um filme de sangue latino que usa daquela tensão falsa que soa real porque a música está muito tensa e o rosto dos atores muito sombrio. Esse é um caso típico que ainda é alimentado pela intepretação intensa de Thompson, o que garante uma sessão exaustiva, ainda que intelectualmente desafiadora.
 
-É divertido assistir realities porque sempre tem esse misto entre realidade e ficção. Como sempre haverá uma câmera as pessoas nunca serão autênticas, mas versões construídas para o público. Mas esta série edita bem os momentos para nos contar uma história.
+Thompson faz uma pessoa que chega aos cinquenta anos compenetrada em um trabalho que adora fazer. Ela pula de caso em caso e se esquece dos finais de semana e das noites com o marido (Stanley Tucci, que consegue dizer coisas crueis para a esposa com afeto). Não tendo filhos, logo se vê que há anos ela executa a mesma rotina. E ao observarmos os casos de vida e morte que está julgando, como podemos pensar diferente? Sua personagem soa não apenas absolta no trabalho, mas uma verdadeira altruísta, sacrificando sua vida pessoal pelo bem comum; evitando ao máximo que suas emoções nunca atrapalhem suas ações.
 
-Algo semelhante acontece com Um Tira da Pesada, este filme icônico dos anos 80 recheado de ótimas músicas. Eddie Murphy é a alma deste filme. Ele está fazendo seu standup no meio de um personagem. Esta comédia policial tem um charme que não envelheceu, apenas fica melhor. Não é um ritmo que o espectador irá apreciar, mais lento que o usual e com cenas batidas que todos já sabemos o final. No entanto, olhe para a construção da trama, em cadência e sem pressa. O filme não quer preencher um checklist mesmo que acabe o fazendo.
+No entanto, a juíza Fiona Maye tem uma semana difícil. Seu marido a acusa com propriedade de sabotar o relacionamento há anos e declara que deseja ter uma amante. Sem tempo para sequer discutir com ele, ela pula para o próximo caso onde tem que julgar se pode-se forçar um adolescente com quase 18 anos a receber uma transfusão de sangue que o salvará. A religião em que foi criado proíbe esse tratamento, mas o caso seria de simples resolução de acordo com a lei de menores (o Children Act do título original), que coloca o bem estar da criança/jovem acima de tudo. Sim, apesar de toda a tensão na corte esse seria um caso simples; não fosse o fato dela estar emocionalmente perturbada, o que a faz de maneira imprevisível capturar um detalhe que está faltando no julgamento e que precisa para chegar a uma decisão: o próprio garoto. Porém, ao entrar em contato com ele sua interferência vai além da simples aplicação da lei.
 
-Jonathan Banks é a surpresa no casting. Fazendo as mesmas caras de seu personagem Mike da série Breaking Bad, ele tem poucas falas e expressões menos ainda. Mitiko que descobriu na primeira cena quem era. Depois ficamos observando as entradas em seu cabelo e a cara derretendo, o que já denuncia seu futuro como persona.
-
-A trilha sonora deste filme é a música de fundo agradável de quem vai na sessão de cinema se descontrair, dar algumas risadas de Murphy. A batida é muito legal e deixa o filme menos sério, mais charmoso.
-
-A transição da caída Detroit e a paradisíaca, rica ou megalomaníaca Beverly Hills é o ponto de partida de uma história que fala sobre quais os limites de seguirmos as regras. Há uma discussão que dá voltas pelo departamento de polícia. Aqui o problema não é corrupção policial, mas o contrário. Eles são muito quadrados. E o personagem de Murphy se diverte muito com isso. Ele escapa de várias criando personas que atendem às expectativas de suas vítimas, como fingindo ser um jornalista que irá cobrir a vinda de Michael Jackson (na época em seu auge, dá para ver pelas pessoas fantasiadas nas ruas) e consegue se hospedar em um hotelzaço. Seu Chevy caindo aos pedaços é outra piada recorrente e sempre eficiente.
-
-Eddie faz um curioso par com Chris Rock quando o assunto é falar das experiências com a pobreza e a negritude. É a coisa real, não a visão branca de hoje em dia vista por negros de classe média. Por isso é leve, divertido, autêntico.
-
-Não se faz nem se fará filmes como esse. Nem poderia. Qual o sentido se o filme continua charmoso e o cinéfilo pode se divertir reassistindo? Qual a vantagem de ter comido um carê estranho sem a oportunidade de pode fazer outro?
-
-É, talvez casar felizes para sempre possa ser reavaliado depois que conversamos sobre filmes imutáveis e carês em constante progresso.
+Discutindo questões racionais, emocionais e religiosas ao mesmo tempo, Um Ato de Esperança nunca perde seu fôlego inicial, criando ao mesmo tempo uma atmosfera sufocante para sua heroína. Ela não consegue o tempo e o espaço necessários para tomar decisões a respeito de sua própria vida, além de estar sempre acostumada a não utilizar suas emoções; o que acaba ironicamente nos lembrando do próprio jovem cujo destino está decidindo como seu oposto. Após viver toda sua vida em um ambiente controlado sob leis que ele nunca ousou questionar, agora ele é levado a abrir os olhos à força, mas acaba se apaixonando pelo que vê: um mundo cheio de possibilidades, poesia e amor.
 

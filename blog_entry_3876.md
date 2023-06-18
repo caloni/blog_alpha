@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2011-08-22'
-link: https://www.imdb.com/title/tt1231583
+date: '2011-12-25'
+link: https://www.imdb.com/title/tt0388419
 tags:
 - movies
-title: Um Parto de Viagem
+title: Um Natal Muito Muito Louco
 ---
 
-Aparentemente, alguém achou engraçado colocar Robert Downey Jr. (Homem de Ferro, Sherlock Holmes) e Zach Galifianakis (Se Beber, Não Case 1 e 2) contracenando um filme inteiro. De fato, o resultado foi, no mínimo, interessante. Engraçado, é discutível.
+Tim Allen, de Meu Papai é Noel (1 e 2), em mais um filme de natal, dessa vez com Jamie Lee Curtis (True Lies) e roteiro de, quem diria, Chris Columbus! (Os Goonies, Gremlins, Nove Meses)
 
-O fato é que, interpretando duas figuras problemáticas (Zach, mais explícito, Downey Jr, mais inerte) que precisam conviver por dias em uma viagem cruzando o país não foi uma ideia lá muito original, mas que rendeu bons frutos graças ao carisma e à interpretação dos dois atores, que conseguem convencer -- e aí é que está a graça -- que Peter Highman e Ethan Tremblay possuem sérios problemas de convivência social.
+A ideia principal é resgatar o senso de comunidade que o Natal propicia, só que o filme começa ao contrário, mostrando a pressão que essa mesma comunidade faz para que todos levem a sério essa época do ano, não sendo permitido sob as suas leis, mudar isso para, por exemplo, tirar umas férias em um lugar mais quente.
 
-Dirigido e co-escrito por Todd Phillips, o filme se concentra basicamente nas reviravoltas que essa viagem ao estilo road movie proporciona para seus integrantes. Nunca tentando soar absurdo, a história se foca nos problemas pessoais dos dois personagens, e faz com que o drama de ambos ganhe um certo peso, mesmo se tratando de uma comédia.
-
-Não há muito o que falar do roteiro em si, que sempre se aproveita de um ou outro defeito de caráter de um dos dois, e embora soe maniqueísta em vários momentos, ao lembrarmos do plot inicial, tudo faz mais sentido.
+Porém, quando um plot twist esmagador ocorre praticamente no terceiro ato da história, é a partir daí que é construído esse senso de comunidade.
 

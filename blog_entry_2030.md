@@ -1,20 +1,17 @@
 ---
 categories:
 - writting
-date: '2019-12-08'
-link: https://www.imdb.com/title/tt4729430
+date: '2021-03-03'
+link: https://www.imdb.com/title/tt5879454
 tags:
-- movies
-title: Klaus
+- animes
+- series
+title: Kiss Him Not Me (aka Watashi ga Motete Dousunda)
 ---
 
-Ideias brilhantes soam óbvias depois de ditas, e Klaus está amparado pela ideia brilhante do animador Sergio Pablos de tal forma que é difícil se desvencilhar de sua beleza intrínseca, ainda mais se considerarmos que o espírito de natal nunca esteve tão desgastado.
+Kae Serinuma é gorda e mantém uma rede de amigos lindos e perfeitos no segundo ano do colégio. O motivo: ela shipa secretamente os meninos. Otaku como sua amiga, juntas elas vivem esse mundo de amores 2D, mas Kae é mais podreira e não se vê namorando.
 
-A história dessa animação sem inspiração nos traços, mas com muita identidade nas cores, é contar a história de como surge uma lenda sem pé nem cabeça como a de Papai Noel. Inventada através de uma mistura entre folclose e atualizada como lenda urbana, hoje para muitos o velho Noel é um acumulado de absurdos. E "Klaus" se insere dentro desse contexto para resgatar o que há de mais importante, no meio dessas lendas de renas voadoras ou uma pessoa robusta entrar pela chaminé: a força de ajudar as pessoas sem querer nada em troca. Apenas pela gentileza.
+Mas tudo muda quando ela fica uma semana em seu quarto, emagrece e se torna linda. Agora ela vai ter que lidar com a perseguição de todos esses garotos lindos que não deseja beijar, mas que beijem uns aos outros.
 
-É claro que todos os filmes sobre o Natal tentam fazer isso, mas Klaus está muito bem adaptado aos novos tempos, os cínicos novos tempos, pois usa como protagonista o filho de um milionário que não quer mais nada a não ser ficar de boas pelo resto de sua vida. Enviado para ser carteiro pela empresa do pai no lugar mais inóspito do planeta, mais ao norte possível, lá ele encontra uma alegoria que critica as tradições impensadas de um povo que se divide em dois por uma rixa histórica. E seu interesse próprio é apenas conseguir cartas para atingir a quantia que precisa para sua volta para casa.
-
-Não há mais nada de novo no filme exceto a surpresa que ele contém. Usando uma narrativa falsa no começo por tempo o suficiente para acreditarmos, a história de Sergio Pablos subverte o jogo dos protagonistas para apresentar o seu personagem-título quase na metade da história. E ele é o personagem com menos falas possíveis. O contexto fala por si próprio, e o belíssimo design de produção em torno de sua casa, de suas casas de passarinhos, seus brinquedos empoeirados e o machado estiloso. Este é um filme que esbanja contexto pelo seu visual.
-
-A trilha sonora é de uma simpatia que mistura previsibilidade com emoção. É previsível que essa história nos emocione, mas a música de Alfonso G. Aguilar apenas nos acompanha, sem forçar a situação. Quando vemos, todo o conjunto -- direção, roteiro, arte e trilha -- combinam em uníssono essa força mágica que quer resgatar o espírito de natal em tempos cínicos, onde muitos dizem que irá terminar com o conceito de família, ignorando que conceitos se transformam. A essência, nunca.
+Kiss Him Not Me é daquele anime com um tema bem específico e uma sensibilidade nos detalhes. É uma comédia sobre o que se passa na cabeça dessa menina adentrando em um círculo social enquanto ela precisa resistir à tentação de ser uma freak aos olhos dos garotos. Mas como resistir a tantos belos espécimes de testosterona sem imaginá-los como casais perfeitos (não necessariamente gays)? Este é o drama dos reclusos em formato colorido e fofinho.
 

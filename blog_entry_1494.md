@@ -1,20 +1,18 @@
 ---
 categories:
-- writting
-date: '2022-05-27T20:08:07-03:00'
-tags:
-- cinemaqui
-- movies
-title: Está Tudo Bem
+- coding
+date: '2011-01-17'
+tags: null
+title: Esse ponteiro vai até onde?
 ---
 
-Até o último momento você pensa que o velho homem estava se sabotando. Seria um bom final. Feliz, aliás. Quantos de nós simplesmente não suporta mais viver? Porém, a protagonista, Emmanuèle, é sua filha, e ela carrega essa relação sempre conturbada entre as gerações em que os traumas da infância batem à porta nos dias finais da pessoa que a criou. Você sente que o velho homem é um sacana esperto e manipulador que não tem muito apreço pela família ou amigos, o que ajuda a mantermos uma distância de sua iminente morte, mas não sabemos se essa é a visão da filha. Bom, de qualquer forma, em Está Tudo Bem, como o título já sugere, nós nem sentimos pelo estado lamentável de um moribundo. Desde, é claro, que ele seja rico e possa se dar ao luxo de escolher como deseja terminar sua vida.
+Brincando com obtenções e conversões de SIDs, tive uma pequena dificuldade de usar a função ConvertStringSidToSid, de Sddl.h. Seu objetivo é receber uma string-SID no formato usado pela ferramenta PsGetSid e retornar uma sequência de bytes de tamanho arbitrário, que é o SID como o sistema o enxerga. Como ela retorna apenas o ponteiro final, do tipo PSID, o que parece fácil pode se tornar tricky se quisermos copiar o SID binário para algum buffer na pilha, já que não sabemos o número de bytes no buffer de origem. Tudo que sabemos é que, após o uso, devemos desalocar essa memória retornada pela API com outra API: LocalFree.
 
-Dirigido e escrito por François Ozon (Frantz), o tema da eutanásia até é colocado sobre a mesa, mas não é o principal. Este é um filme mais sobre o sofrimento familiar que está por trás das decisões difíceis a respeito dos que amamos ou nos apegamos. As pessoas seguram esse fardo até o último momento, e muitos até anos após a perda, e parece que alguém não vai aguentar. No entanto, quem já perdeu alguém muito querido, mas antes teve que carregar essa difícil situação por vários meses ou anos, vai sentir aquele despertar que se segue depois que o "assunto" finalmente se encerra.
+Ora, mesmo que não venhamos a escrever nessa memória de tamanho obscuro, não é de bom tom ler além da conta. Não há garantias que o que estiver após o SID é seguro. Pode até ser o final de uma página de  memória, por exemplo, e o seu programa capota por causa de um singelo "Memory could not be read". Que coisa sem graça!
 
-Há um humor peculiar no sujeito em questão, o que trivializa o drama do filme. Seu intuito é, pelo menos em partes, ser uma comédia de situação com um tema relativamente sensível. O lado prático e as dificuldades da dinâmica de seus personagens gera a comédia. E apesar de ricos franceses, nós sentimos que a eutanásia ainda é um caminho bem difícil de percorrer no primeiro mundo; pelo menos há a Suíça, logo ali, na vanguarda das liberdades individuais.
+{{< image src="psid-e-o-buraco-negro.png" caption="" >}}
 
-Ozon pega o livro de Emmanuèle Bernheim (biográfico) e gera tensão através de um roteiro fácil, quase automático, então não há graça alguma. Não há desafio a ser transposto, apenas situações para serem observadas que não nos dizem nada. É um passatempo comercial, como têm se tornado vários exemplares franceses ao longo desta década. O mundo dos brancos ricos carece das cores vivas e eróticas da rotina dos menos privilegiados, que sempre geram momentos mais interessantes de se acompanhar. Deve ser por isso que se fazem tantos filmes de miseráveis. Há um charme entre os cineastas de classe média em filmar aqueles que nunca foram e nunca serão. O que é completamente diferente de filmar a si próprio e enxergar um vazio interior tão grande que o resultado ecoa pelos corredores da mesmice.
+Sempre que me vejo com problemas desse tipo procuro informações primeiro  no próprio MSDN, segundo na cabeça e terceiro no Google. Nesse caso em  específico a cabeça deu um jeito, pois imaginei que houvesse alguma  forma de pegar o tamanho da memória alocada através das funções Local (se a API precisa de LocalFree para desalocar sua memória, é óbvio que  ela usou LocalAlloc para alocá-la, mesmo que não tenhamos o código-fonte  para comprovar).
 
-Você não vai querer se matar assistindo a Está Tudo Bem. Tampouco irá se sentir bem. É um filme leve e divertido quando não deveria ser. Há algo de muito errado nessa trajetória, e me pergunto como seria um filme sobre os motivos que fizeram Emmanuèle escrever seu livro. Isso, sim, é conteúdo provocativo. Artístico. Ver ricos moribundos no cinema só funciona se nós enxergamos o outro lado, os pobres, olhando do lado de fora.
+A partir de LocalHandle posso obter o HANDLE para a memória alocada localmente. Com esse handle a API me dá outra função, LocalSize, de onde posso obter o tamanho da memória previamente alocada através do seu handle. Isso é ótimo, pois em um primeiro momento pensei não haver saída, como nas funções de alocação em C e C++, por exemplo.
 

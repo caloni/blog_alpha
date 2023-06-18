@@ -1,14 +1,21 @@
 ---
 categories:
 - writting
-date: '2014-03-04'
-link: https://www.imdb.com/title/tt0101669
+date: '2018-10-28'
+link: https://www.imdb.com/title/tt7186036
 tags:
+- cinemaqui
 - movies
-title: Voltar a Morrer
+title: Volcano
 ---
 
-Roteiros excelentes, ou com ideias excelentes, nem sempre vão dar naquele filme inesquecível. Ou, pelo menos, não esquecível de uma maneira boa. No caso de Voltar a Morrer, de Kenneth Branagh (Frankenstein de Mary Shelley, Hamlet), o uso do visual no seu sentido mais sui generis da palavra termina por transformar um suspense dramático em diversas cenas onde o espectador fica na dúvida se deve rir ou se espantar com os acontecimentos em câmera lenta. No entanto, o conceito de vida após a morte poderia ter virado um plot sensacional, o que de fato é, se racionalizarmos os acontecimentos em torno da história da personagem de Emma Thompson e seu trauma do passado envolvendo o assassinato da esposa de Roman Strauss, um compositor famoso (ou pelo menos que ele gostaria de ser).
+A Ucrânia pós-comunismo ainda tem uma lição ou duas a ensinar sobre como sociedades funcionam no Leste Europeu. Em Volcano ela coloca Lukas, um urbanoide civilizado, em contato com um ambiente hostil. Mas será mesmo hostil, ou estamos acostumados a pensar dentro da nossa caixa social que se organiza em presidente, ministros e o povo? Só o fato da estranheza do filme nos fazer pensar um pouco a respeito disso já é digno de nota.
 
-No entanto, não há como racionalizar o que vemos na tela sem levar em consideração... o que vemos na tela! E é embaraçoso concluir que as pistas colocadas no meio da história soam risíveis quando desvendadas. Sinto muito, Voltar a Morrer, mas seu tom de narrativa não me fez pular da cadeira senão para rir. Ainda assim, na minha cabeça o filme é bem melhor.
+Mas esta também é uma viagem interna de seu protagonista, onde ao encontrar o pitoresco Vova, interpretado por Viktor Zhdanov, Lukas, interpretado por Serhiy Stepansky, realiza o contraponto necessário para entendermos as diferenças na vida dos dois e o que os fez chegar onde chegaram.
+
+A cidadezinha ao sul da Ucrânia é uma terra de ninguém e Lukas decide ficar por lá. Por quê? Talvez essa não seja a pergunta certa. Talvez a pergunta seja: por que não você? O que temos a perder nessa vida?
+
+Primeira ficção do diretor Roman Bondarchuk, Volcano é um trabalho que nos capta pelo ritmo, pela cadência e pelo clima. Estamos em um ambiente onde as regras precisam ser aprendidas aos poucos, e isso dá ao espectador algo para pensar por boa parte do filme. E ao final do filme ainda há muito o que ser desvendado, mas as ferramentas são expostas o suficiente para a sobrevivência do herói.
+
+O que mais fascina no filme é como ele consegue evitar diálogos desnecessários e passar para a observação pura e simples. E é através dessa observação que seus melhores momentos são forjados. Já seus piores momentos são as tentativas de colocar um pouco de ordem na história. Não precisamos de ordem. O que precisamos são pessoas que consigam pendurar a colher na testa.
 

@@ -1,16 +1,36 @@
 ---
 categories:
-- writting
-date: '2020-10-04'
-link: https://www.imdb.com/title/tt10320398
+- playing
+date: '2023-02-19T12:34:19-03:00'
+link: https://www.chess.com/game/live/70556499785
 tags:
-- animes
-title: Keep Your Hands Off Eizouken!
+- english
+- chess
+title: Please keep the advantage
 ---
 
-Este anime apela para fãs do anime, mas também apela para fãs de arte. E a arte neste primeiro episódio é primorosa. Em um jogo de estilo pelo estilo, a primeira cena da história da vinda de Midori Asakusa para seu novo habitat (um clichê típico) se transforma em um mini-guia do que será este episódio, mas também serve como um guia para o que podemos esperar de toda a temporada ou série, validando minha opinião de que para avaliar um anime bastam alguns minutos (claro que ele pode logo depois distorcer tudo porque uma equipe diferente foi contratada, mas você pegou a ideia).
+You are black and need to keep the advantage. What do you do?
 
-Enfim, é metalinguagem. Midori quer se tornar desenhista de anime e para isso se matricula no mesmo curso que uma modelo-mirim famosa. Ambas se conhecem e começam uma amizade pautada em seus cadernos de desenho. Duas artistas acabam convergindo suas imaginações em uma jarrada de criatividade que mistura a realidade do anime com a realidade do anime dentro do anime, e que por tabela faz o espectador pensar sobre o que é a realidade senão um monte de rabiscos interpretados pelos nossos cérebros. Profundo, não?
+{{< image src="board1.png" >}}
 
-Mas não é apenas isso que está em jogo. Ao ligar o modo "crítico de anime", a protagonista ao dissecar um desenho que adorou ao ver na TV (e que coincidentemente é passado na escola no primeiro dia) discorre verbalmente sobre todos os elementos que nós, espectadores, teremos que prestar atenção em seguida para aproveitar todo o percurso criativo e empolgante de seu criador, Sumito Oowara. É masturbação mental? Claro que é. É adorável? Sem dúvida.
+White move and M4. Can you see it?
+
+{{< image src="board2.png" >}}
+
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.19"]
+[White "erikm00"]
+[Black "cavaloni"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. O-O g6 5. Re1 Bg7 6. d3 Nge7 7. a3 O-O 8. e5
+Qc7 9. Bf4 Nd5 10. Bxd5 exd5 11. g3 Qb6 12. b3 Nd8 13. Nc3 Qc6 14. a4 Ne6 15.
+Bg5 b6 16. Be7 Re8 17. Bd6 Bb7 18. Nd2 d4 19. Nce4 Ng5 20. Qg4 h6 21. f3 Bxe5
+22. Nxg5 Bxd6 23. Nge4 {You are black and need to keep the advantage. What do
+you do} 23... f5 {Noooooooo.} (23... Bc7 {Protect in g6 and threat the f5
+fork.}) 24. Qxg6+ Kf8 25. Qxh6+ Kg8 {White move and M4. Can you see it} 26.
+Nf6+ (26. Ng5 Rxe1+ 27. Rxe1 Qxf3 28. Qg6+ Kf8 29. Qf7#) 26... Kf7 27. Rxe8 Rxe8
+28. Nxe8 Kxe8 29. Re1+ Kd8 30. Qh8+ Kc7 31. Re8 b5 32. Rb8 bxa4 33. Qd8# 1-0
+```
 

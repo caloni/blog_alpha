@@ -1,13 +1,12 @@
 ---
 categories:
 - writting
-date: '2022-05-27T21:31:00-03:00'
+date: '2010-07-09'
+link: https://www.imdb.com/title/tt0390384
 tags:
 - movies
-title: Princesa
+title: Primer
 ---
 
-Filme brasileiro que se passa na Itália e que dá uma visão honesta de uma travesti que deseja fazer a operação de troca de sexo e viver com um homem hétero. A cirurgia pode não ser a solução de seus problemas, como pode ser o fim de uma relação saudável com seu corpo. Muitos rejeitam porque não são de fato trans, o que explica a alta taxa de suicídio entre esse grupo de pessoas. E a vida real pode ser mais complicada que os discursos de aceitação.
-
-O filme passeia pelo dramalhão como se fosse um Almodóvar sem inspiração cinematográfica. A protagonista é um porre e as situações criam a atmosfera do que é ser uma aberração e viver do mercado sexual em plena Milão. Os travecos vivem através do sexo e é como se fosse de fato a única forma de comunicação com o mundo.
+Com uma fotografia impressionante se considerarmos que foi produzido com 7 mil dólares, o núcleo de Primer é o relacionamento entre dois cientistas após eles descobrirem ou inventarem uma maneira de viajar para o passado. O uso racional e ético da questão são os pontos fortes que fazem com que os diálogos não-técnicos entre Aaron (Shane Carruth) e Abe (David Sullivan) enriqueçam cada vez mais a história. Quando as coisas começam a dar errado, o resultado é tão confuso que espectadores de primeira viagem podem se sentir completamente perdidos da metade para o final. No entanto, o esforço para que imaginemos o que está acontecendo é compensatório, pois a sensação única de estar vendo um filme realista sobre viagem no tempo não tem preço.
 

@@ -1,31 +1,30 @@
 ---
 categories:
 - writting
-date: '2018-03-26'
-link: https://www.imdb.com/title/tt3409848
+date: '2017-10-31'
+link: https://www.imdb.com/title/tt5311514
 tags:
-- cinemaqui
 - movies
-title: Zama
+title: Your Name
 ---
 
-Em algum momento na metade de Zama, da diretora argentina Lucrecia Martel, o protagonista se muda para um casebre pior de onde estava e começa a ser rodeado de mulheres que não existem. Esse poderia ser o clímax de um desejo reprimido que foi aumentando na mesma medida que suas frustrações, perdido em uma terra de ninguém. No entanto, como o filme nunca muda de tom, ainda estamos no mesmo estado de quando o filme começou. Exceto o sentimento de tempo perdido e um sono épico.
+Para os que estão acostumados com os média-metragens do diretor/roteirista Makoko Shinkai, como O Jardim das Palavras, vão perceber uma característica marcante em seu novo trabalho, Your Name: não há aqui uma história completa a ser contada; mas sensações. É a jogada de uma miscelânea de ideias cativantes, como se colocar no lugar do outro, que dá origem à sua essência, que é explorada inúmeras vezes em lindas sequências de animação.
 
-O protagonista é Don Diego de Zama (Daniel Giménez Cacho), um oficial menor da colônia espanhola em continente sul-americano. Assim como o romance existencial de Antonio Di Benedetto, onde apesar de coisas aconterem nada realmente sai do lugar, a diretora/roteirista Lucrecia Martel executa o mesmo processo usando a linguagem cinematográfica, o que se revela um tremendo porre artístico.
+Isso é cinema? De certa forma, sim. Cinema não é apenas utilizar uma história onde de fato existem personagens (mais tarde sobre isso) e coisas acontecem, interligadas de maneira coerente. Vimos nessa Mostra o novo (e último) filme de Abbas Kiarostami onde existem apenas 24 frames, não necessariamente conectados e onde não há personagens que continuam no tempo. Entre esse tipo de cinema experimental e o consagrado drama em três atos idealizado por Aristóteles há um enorme degradê. Não existem regras. Apenas o que funciona melhor.
 
-Zama está o tempo todo delirando; ele ouve de alguém a história de um peixe que nasce e luta para se manter na água, que o tenta expulsar todo tempo. O peixe vive sempre à margem do rio. Assim como Zama, que começa o filme às margens de um rio, observando nativos. No final ele se encontra no rio, mas não da mesma forma. Ainda assim, e sabendo que haverão transformações irreversíveis para ele, permanece o sentimento de que nada mudou.
+E como experiência estética Your Name funciona maravilhosamente bem, pois ele usa um conceito simples e vai explorando em sequências deslumbrantes. Note como o giro em 3D de um cenário inicialmente em 2D coloca um dinamismo na narrativa. E como as rimas de portas se abrindo e se fechando no meio, assim como vermos os personagens frequentemente com as mãos apoiadas em uma parede de vidro dão a ideia de separação, isolamento. Pois seja a porta do metrô ou as paredes de um elevador, o que vemos é um apanhado de pessoas juntas, "presas" em um lugar, e cada uma solitária à sua maneira.
 
-O bandido mais procurado e mais injustiçado neste mundo é Vicuña Porto (Matheus Nachtergaele), que é um daqueles criminosos brasileiros que povoaram a pior nação da América do Sul: a que fala português. Disfarçado entre os colonos, já passou-se muito tempo desde que ele virou uma lenda viva, o que quer dizer que praticamente todos os eventos negativos do vilarejo e ao seu redor a ele são atribuídos. Ele virou o bode expiatório que a História há de imortalizar.
+Solitárias e desconhecidas. A pergunta mais relevante deste longa não é "qual o seu nome?", mas "quem é você?", escrita em um caderno e no corpo da própria pessoa que se quer conhecer. Note que apesar de um ocupar o corpo do outro por um dia nenhum deles consegue de fato entender quem é seu receptáculo, mas apenas imprimir cada um seus próprios traços de personalidade, e gênero. A masculinidade e feminilidade dos dois interfere na vida do outro de diversas maneiras. De certa forma o filme quer nos mostrar um pouco também da forte estratificação cultural dos gêneros na cultura japonesa.
 
-Essa é uma produção argentina/brasileira, mas mais argentina que brasileira. É um filme de baixo orçamento e com aqueles roteiros intraduzíveis. Ele não quer dizer (quase) nada; apenas acompanhar a vida de Zama, um corregedor às margens da Coroa Espanhola e que nunca chegará perto do centro.
+Tudo isso me lembra da historinha. Esqueci de contar. É porque ela não é tão relevante, nem tão grande. É sobre uma garota do interior e um garoto da cidade grande. Ambos trocam de lugar durante alguns dias, mas apenas suas mentes. O corpo permanece o mesmo. Há uma jogada muito esperta a respeito das memórias de ambos se confundir, pois do contrário a nossa vai ficar. Afinal de contas, eles lembram de si mesmos, um pouco do outro, mas convenientemente nada que permita que eles se comuniquem no mundo real. No dia seguinte tudo é esquecido, mas de vez em quando um deles lembra de algo para efeito dramático.
 
-Aquele vilarejo onde vivem é o purgatório, o limbo ou algo que o valha (interpretação minha). O corregedor nunca troca de roupa, que é vermelha e que referencia o seu final. Ele está vendo pessoas que não existem e as que existem não lhe dão atenção ao seus choramingos egoístas. Ele quer voltar para a esposa e os filhos, mas o governador está mais interessado em um relatório de um livro sendo escrito sem o aval do governo.
+A história em si segue seus próprios passos e é esperta o suficiente para jogar detalhes que tornem tudo mais ou menos amarrado. Assim, detalhes do dia-a-dia de ambos são usados para a passagem do tempo, como o garoto e seus amigos sempre tomarem café no mesmo lugar. E ambos, é claro, mantém diários onde trocam impressões. E fazem até acordos de como devem se comportar.
 
-Ao ar livre nunca vemos a luz do Sol e dentro das casas não vemos mais miséria só por causa da escuridão. As pessoas nesse filme estão alheias à realidade. Um homem careca faz sexo com uma das belas filhas de um dos moradores, que se preocupa que seja mais uma vez, claro, obra de Vicuña Porto. Quando descobrem que o corregedor esteve lá, logo surge mais um causo: Zama matou Vicuña.
+É preciso dizer que praticamente não conhecemos muito sobre eles. Apenas detalhes genéricos. Eles são muito mais conceitos do que pessoas. Ideias. É como contamos histórias como essa quando somos adolescentes. "Imagina trocar de lugar com uma pessoa." E quando temos alguns detalhes eles são estranhos, jogados. Como a garota ser filha do prefeito. Que faz campanha eleitoral em uma cidade com 1500 habitantes e faz ela passar vergonha em público. Tudo gratuito ou conveniente para o terceiro ato.
 
-Pensando agora em épicos, os livros de História perdem um pouco do brilho através das lentes de Lucrecia Martel, que esfrega em nossa cara como a realidade pode ser registrada baseada em boatos de pessoas que não estão interessadas na verdade. Embora isso não esteja relaconado com a história de Zama (que é fictício), imagine o quanto não foi inventado de todos os personagens que um dia a história escrita imortalizou.
+Não. A história de Your Name não é seu ponto forte. Os conceitos e a estética são. Um cometa que passa apenas em 1200 anos. Lendas desconhecidas sobre os deuses do passado. O cometa se divide em dois. Ele continua sendo apenas um? O filme divide os seus protagonistas em dois. São eles apenas um? Somos nós todos apenas um?
 
-A primeira metade de "Zama" é tão arrastada que seu terceiro ato por comparação é um filme de ação. Há algumas cenas com índios que se pintam de vermelho terra que é o forte da produção. Há uma certa mensagem aí sobre a chegada do europeu de fato sobre a terra que conquistou. Ficam todos vermelhos. Mas como nos mostra a diretora, a vida real é bem mais complexa que isso.
+Shinkai, além de dirigir e escrever a história, assina a fotografia e a edição. Tantas funções acumuladas lhe dão um controle absoluto de cada quadro que pretende retratar no filme, mas ao mesmo tempo lhe dá uma visão uníssona, monopolizadora de ideias. Tudo gira em torno dos mesmos conceitos. Não nos livramos da psique do seu criador em nenhum âmbito que valha a pena observar. E tudo isso cansa, é repetitivo, não leva a muitos lugares, o que é um grande pecado para um filme que possui tantos simbolismos embutidos...
 
-Todas músicas são interpretadas pelos Índios Tabajara. Isso seria uma bela piada brasileira, habituados que nós estamos ao Caceta e Planeta; mas pelo jeito é real, mesmo. Então... interessante.
+Your Name não é toda essa profundidade. Ele gostaria, fica claro. Mas no caminho há ótimas músicas selecionadas para o filme, tocadas em momentos aleatórios. Bom, quem se importa? Aprecie a viagem e observe a beleza de uma poesia transformada em animação pop.
 

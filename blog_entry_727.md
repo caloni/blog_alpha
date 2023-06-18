@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2011-11-29'
-link: https://www.imdb.com/title/tt0054698
+date: '2016-09-11'
+link: https://www.imdb.com/title/tt3882082
 tags:
 - movies
-title: Bonequinha de Luxo
+title: Boneco do Mal
 ---
 
-Curiosamente esse filme ficou conhecido como um clássico, ainda que tenha traços de um verdadeiro cult, tanto pela sua excentricidade quanto pela direção inusitada de Blake Edwards (A Pantera Cor de Rosa), que ilustra a vida de Holly Golightly de uma maneira quase surreal.
+Um terror que entende a problemática do medo do limite entre o real e a fantasia, Boneco do Mal busca em seu formato aproximar o espectador da loucura que o cerca, para apenas depois subverter essa ordem de volta para o real. Um trabalho digno de nota em comparação com tantos filmes do gênero que se passa em uma casa isolada com um passado macabro.
 
-Em Bonequinha de Luxo, no original "Café-da-manhã na Tiffany's", referenciando a joalheria que ela gostava de ir para se sentir melhor, o fato é que a protagonista hoje seria vista como uma garota de programa no melhor dos casos, mas a leveza da direção e dos diálogos transformam a história em uma comédia romântica leve (mais comédia) com alguns detalhes cafonas (como o brasileiro estereotipado e o final sentimental tantas vezes copiado hoje em dia no subgênero).
+Tudo começa com a vinda da nova babá do filho de um casal já idoso, a jovem, linda e atordoada Greta (Lauren Cohan). Ela tem um passado problemático com um ex, e eles têm um boneco de cerâmica que tratam como seu filho.
 
-Escrito por George Axelrod (O Pecado Mora ao Lado, Sob o Domínio do Mal) a partir do livro de Truman Capote (A Sangue Frio, Os Inocentes) o roteiro flui facilmente, até por conta da maneira inventiva de contar a história, usando a rotina de Holly e sua interação com seu novo vizinho, o escritor Paul Varjak (George Peppard, do Esquadrão Classe A!).
+Através de uma fotografia belíssima, que dá asas a questionar o que é real em um cenário tão límpido e cristalino (embora cheio de sombras), Boneco do Mal não tem pressa de explorar sua premissa ao máximo, e de forma inteligente torna os acontecimentos estranhos em torno daquela família escondidos na penumbra.
 
-Talvez o principal atrativo do filme seja Audrey Hepburn, que encarna Holly Golightly (mas que nome deslumbroso) sem o menor pudor, o que enriquece em muito a história. Existem cenas célebres do Cinema também no filme, como quando ela canta em frente à janela de seu apartamento. Particularmente, gostei mais da visita dos dois à Tiffany's, quando fazem um pedido inusitado a um dos funcionários.
+Mais inteligente ainda é a narração voltada mais para as ações e reações de Greta, que ficam muito mais no plano psicológico do que no físico. Estar sozinha em uma casa para cuidar de um boneco após um trauma de um namorado possessivo e agressivo não é a melhor atividade a se fazer para ter paz de espírito. Tudo isso contribui para um drama disfarçado de um ótimo terror. A trilha sonora sutil -- descartados os sustos baratos -- auxilia imensamente nessa viagem de barco do terror, onde os dias se tornam parte de um sonho infindável.
 
-Apesar de venerado, fica óbvio que possui várias partes datadas, mas felizmente isso não atrapalha o desenvolvimento central da história. Dessa forma, vale a pena uma revisita de vez em quando.
+Há alguns excessos, é claro, mas não há nada tão exagerado como o gênero hoje em dia, que abusa do digital e do explícito para querer provar um ponto graficamente. Oras, Boneco do Mal comprova mais uma vez que o medo está sempre na penumbra, no mal-ouvido e no mal-visto. Toda a tensão é construída em cima do que não vimos, e enquanto isso ganhamos empatia pela moça, que tem uma história que também colabora para a trama.
+
+Com um final surpreendente, desses que te derruba novamente das expectativas (quando no início do terceiro ato já havia derrubado), Boneco do Mal é um exemplo de como realizar um terror/drama sem apelar desnecessariamente para o clichê e o enlatado. Uma produção rica em seu design, roteiro e concepção.
 

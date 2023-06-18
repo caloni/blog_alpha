@@ -1,62 +1,64 @@
 ---
 categories:
 - coding
-date: '2021-05-13'
+date: '2010-08-30'
 tags: null
-title: Como Ordenar Três Números em Uma Entrevista
+title: Como ofuscar strings
 ---
 
-O primeiro exercício pedido ao candidato para a vaga de programação na [Intelitrader] é fazer uma função que receba três números e informe entre eles qual o maior, o menor e a média dos três. Sim, eu sei, absurdamente fácil, não? Porém, mesmo assim, a grande maioria dos "programadores" que entrevisto perde mais de meia-hora em um exercício simples desse. O motivo, acredito eu, é que a lógica de programação está cada vez mais em baixa. Pensar se tornou tristemente um requisito opcional em uma vaga de programação.
+Já fiz ofuscamento e embaralhamento de dados acho que umas três ou quatro vezes. Dessa vez, parti para o batidíssimo esquema de fazer o pré-processamento de um header com defines que irão virar estruturas reaproveitadas por uma função padrão que desofusca e ofusca aquela tripa de bytes em algo legível: a string original.
 
-No meio de uma entrevista, entediado, resolvi eu mesmo ir resolvendo enquanto aguardava o candidato. Imaginei o que eu, como hipotético candidato, faria para resolver esse exercício da maneira mais rápida. Meu objetivo não era apenas cuspir código, mas entender qual o raciocínio envolvido na obtenção de uma lógica simples dessa.
+Vamos ver um exemplo:
 
-Então vamos lá. A primeira coisa que eu pensei é fazer em Python. Porque programar em Python um código desses dá para fazer em qualquer editor, inclusive na web. Inclusive em um papel de pão.
+    #define MY_STR "Essa é minha string do coração"
 
-A segunda coisa que eu pensei é em já criar a função recebendo os três números, mas em não usá-los no cálculo, porque usar três nomes de variáveis para decidir qual é o maior e menor seria um pé no saco cheio de ifs e elses. Melhor rodar um loop que alimenta o maior e o menor de todos. Sabendo disso eu crio duas variáveis, maior e menor:
+Conseguimos capturar os três elementos desse define (um descartável) por um simples scanf:
 
-```
-def func(a, b, c):
-  maior = 0
-  menor = 100000000
-  nums = [ a, b, c ]
-```
+    scanf("#define %s \"%[^\"]", def, str);
 
-Eu inicializo maior com o "menor valor possível", zero, e menor com o "maior valor possível", no caso um número muito grande. É o maior possível? Não, mas já resolve o problema para números médios e grandes. Caso o entrevistador questionasse essa parte do código eu poderia simplesmente pesquisar qual o maior valor representável por um inteiro em Python para inicializar corretamente. Para um problema em que a resposta precisa ser dada em alguns minutos está de bom tamanho.
+A função scanf retorna o número de argumentos capturados. Então se a coisa funcionou é só comparar com 2.
 
-Por fim, meu loop que verifica qual o menor e maior varre o array que criei e no final eu sei que o menor e maior valor estarão nas variáveis de mesmo nome.
+Depois de capturado, imprimimos na saída (o arquivo pós-processado) uma estrutura que irá conter nosso amigo embaralhado:
 
-```
-for n in nums:
-  if n > maior:
-    maior = n
-  if n < menor:
-    menor = n
-```
+    printf("struct ST_%s { byte key; size_t bufferSize; byte buffer[%d] }\n"
+    	" %s = { %d, %d, { ";
+    
+    for( ; ; ) printf(Cada byte ofuscado);
+    
+    printtf(" } };\n");
 
-E a média é obtida somando os três números dividido por três, me lembrando que pode ser um número quebrado, então é melhor que seja um ponto flutuante, o que eu consigo dividindo por 3.0 em vez de 3.
+Pronto. Agora o usuário da string precisa abri-la usando uma macro esperta que irá chamar uma função esperta para desofuscar a string e entregar o ponteiro de buffer devidamente "casteado":
 
-```
-print("media: ", (a + b + c) / 3.0);
-```
+    #include "header-pos-processado.h"
+    
+    #define ABRE_VAR(var, type) (type) OpenVar( (GENERIC_STRUCT) var)
+    
+    int main()
+    {
+    	char* str = ABRE_VAR(MY_STR, char*);
+    }
 
-O conjunto da obra é bem simples e intuitivo. Não precisou de muito raciocínio. O maior desafio, em minha opinião, é manter a calma, entender o problema, e abordar da maneira que consuma menos tempo e esforço intelectual, os recursos escassos do desafio.
+Uma vez que a abertura se faz "inplace", ou seja, a memória da própria variável da estrutura original é alterada, pode-se fechar a variável novamente, se quiser, após o uso.
 
-```
-def func(a, b, c):
-  maior = 0
-  menor = 100000000
-  nums = [ a, b, c ]
-  for n in nums:
-    if n > maior:
-      maior = n
-    if n < menor:
-      menor = n
-  print("maior: ", maior);
-  print("menor: ", menor);
-  print("media: ", (a + b + c) / 3.0);
-```
+    FECHA_VAR(MY_STR);
 
-Não precisa ser a melhor solução do mundo, mas já é uma solução boa o suficiente. Justamente o que a Intelitrader pede aos seus candidatos e funcionários. =)
+A GENERIC_STRUCT do exemplo se trata apenas de um esqueleto para que todas as estruturas das 500 strings ofuscadas sejam entendidas a partir de um modelo. Sim, essa é uma solução usando linguagem C apenas, então não posso me dar ao luxo daqueles templates frescurentos.
 
-[Intelitrader]: http://www.intelitrader.com.br
+    struct GENERIC_STRUCT
+    {
+    	byte key;
+    	size_t bufferSize;
+    	byte buffer[1];
+    };
+
+Como a string é ofuscada? Sei lá, use um XOR:
+
+    for( size_t i = 0; i < bufferSize; ++i )
+    	buffer[i] ^= key;
+
+Dessa forma abrir ou fechar a variável pode ser feito usando a mesma função.
+
+Alguém aí gostaria de uma explicação didática sobre o operador XOR?
+
+PS: Acho que, além das minhas palestras, meus artigos estão também parecendo um brainstorm.
 

@@ -1,21 +1,14 @@
 ---
 categories:
 - writting
-date: '2018-10-28'
-link: https://www.imdb.com/title/tt7186036
+date: '2010-11-26'
+link: https://www.imdb.com/title/tt1182350
 tags:
-- cinemaqui
 - movies
-title: Volcano
+title: Você Vai Conhecer o Homem dos Seus Sonhos
 ---
 
-A Ucrânia pós-comunismo ainda tem uma lição ou duas a ensinar sobre como sociedades funcionam no Leste Europeu. Em Volcano ela coloca Lukas, um urbanoide civilizado, em contato com um ambiente hostil. Mas será mesmo hostil, ou estamos acostumados a pensar dentro da nossa caixa social que se organiza em presidente, ministros e o povo? Só o fato da estranheza do filme nos fazer pensar um pouco a respeito disso já é digno de nota.
+Personagens que Allen adora colocar em cena: a cartomante que faz papel de psiquiatra, a velhinha que procura uma cura para sua tensão pós-separação, o ex que está velho demais para recomeçar (e acredita ter os genes da longevidade), o escritor fracassado de um sucesso só, casado com a consultora de artes em um casamento que logo, logo, irá se abalar, e a noivinha pronta para sair do casamento.
 
-Mas esta também é uma viagem interna de seu protagonista, onde ao encontrar o pitoresco Vova, interpretado por Viktor Zhdanov, Lukas, interpretado por Serhiy Stepansky, realiza o contraponto necessário para entendermos as diferenças na vida dos dois e o que os fez chegar onde chegaram.
-
-A cidadezinha ao sul da Ucrânia é uma terra de ninguém e Lukas decide ficar por lá. Por quê? Talvez essa não seja a pergunta certa. Talvez a pergunta seja: por que não você? O que temos a perder nessa vida?
-
-Primeira ficção do diretor Roman Bondarchuk, Volcano é um trabalho que nos capta pelo ritmo, pela cadência e pelo clima. Estamos em um ambiente onde as regras precisam ser aprendidas aos poucos, e isso dá ao espectador algo para pensar por boa parte do filme. E ao final do filme ainda há muito o que ser desvendado, mas as ferramentas são expostas o suficiente para a sobrevivência do herói.
-
-O que mais fascina no filme é como ele consegue evitar diálogos desnecessários e passar para a observação pura e simples. E é através dessa observação que seus melhores momentos são forjados. Já seus piores momentos são as tentativas de colocar um pouco de ordem na história. Não precisamos de ordem. O que precisamos são pessoas que consigam pendurar a colher na testa.
+Os pontos mais engraçados do longa são o esforço cego que as pessoas fazem para ter sucesso, mas não há jeito para elas, como quando o chefe dela a descarta veementemente, ou quando o plano de roubar o livro do amigo dá sinais que não vai dar certo. E a ironia é um forte do diretor/roteirista, como podemos ver quando o escritor se muda para o apartamento à frente do seu e imediatamente vê sua ex-mulher se trocando pela janela. A crueldade da filha quando ela precisa do empréstimo e a mãe nega por conselhos da vidente e ela se vira contra ela argumentando exatamente como o marido, que ela é uma charlatã que apenas diz o que ela deseja saber.
 

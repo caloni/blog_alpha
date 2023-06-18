@@ -1,12 +1,20 @@
 ---
-categories:
- - writting
-date: '2023-06-15'
+categories: []
+date: '2010-11-12'
 tags:
- - food
-title: Ikkousha Tonkotsu Ramen
+- ccppbr
+title: II Seminário Portabilidade e Performance
 ---
 
-Não seria justo fazer um review do delicioso Tonkotsu pedindo delivery. Portanto, aguardei nossa primeira visita pós-pandemia direto ao local para sentir as impressões de um dos melhores lámens da cidade. E ele continua um dos melhores, junto ao Aska. Ambos estão no topo, e por serem diferentes, não competem. O caldo de mocotó japonês que o Ikkousha serve é único, denso, complexo e delicioso. É compactado, também. Mesmo tomando um mini minha impressão é que o estômago vai explodir depois das primeiras colheradas. É uma ótima pedida para uma noite fria. A cozinha é eficiente e habilidosa. Na noite de terça-feira que fomos, por volta das 20 horas, havia uma boa fila na entrada e poucos atendentes que fazem o que dá, mas a gerência precisa urgente colocar mais gente, pois mesmo sendo o espaço sendo pequeno há horários de pico. Esqueceram da gente por um tempo, mas graças a um dos cozinheiros fomos lembrados. O lámen deles ao vivo é muitíssimo melhor que o delivery. Há também outras versões, como o apimentado god fire ou a mistureba de sabores do EAK, com a sensação predominante de frango.
+Aqui estamos nós de novo. Mais uma vez a Tempo Real Eventos irá organizar esse evento de final de ano. E mais uma vez, junto dos meus amigos, irei palestrar sobre um item indispensável no nécessaire de todo escovador de bits: assembly gerado pelo compilador. Vamos falar brevemente sobre o funcionamento de um código assembly 32 bits e passar para a análise dos compiladores modernos e o que eles fazem para tornar o código ainda mais rápido do que o próprio fonte em C++.
 
+  * Gerando código assembly;
+  * Guia ultra-rápido de assembly;
+  * Recursividade sem problemas na pilha;
+  * STL aumenta performance? (exemplos práticos);
+  * Assembly 64 bits.
+
+Uma outra dúvida pertinente (e discutida nos bares nerds da cidade) é se usar código STL não deixaria mais lento o resultado final, já que ele é cheio das abstrações. Por mais que autoridades competentes no funcionamento da linguagem como Pedro Lamarão e Thiago Adams digam que as otimizações do compiladores modernos na STL/Boost são diversas vezes mais eficientes que o código artesanal de um programador, sempre fica aquela pulga atrás da orelha, pulga esta que podemos matar facilmente analisando o assembly gerado. E essa confiança extra nos dará novas chances de programar coisas legais de verdade, e não ficar ensebando um código que já está na sua velocidade máxima.
+
+Então é isso aí. Espero que tenhamos uma manhã e uma tarde agradáveis nesse mundo da escovação de bits.
 

@@ -1,23 +1,27 @@
 ---
 categories:
 - writting
-date: '2010-11-01'
-link: https://www.imdb.com/title/tt0381940
+date: '2015-09-04'
+link: https://www.imdb.com/title/tt2938956
 tags:
-- mostra
+- cinemaqui
 - movies
-title: Cargo
+title: 'Carga Explosiva: o Legado'
 ---
 
-Se fosse resumir essa ficção-científica, diria que ela começa como Aliens - O Resgate e termina como Matrix. De fato, muitas características do longa nos lembra esses dois filmes. Porém, longe de se igualar em qualidade narrativa, este cai no lugar comum de passeios contemplativos pelo cenário com trilhas sonoras igualmente batidas.
+Após a morte do meu pai, uns 3/4 anos atrás, se tornou mais fácil para mim detectar aquele sentimento que une um ser humano e seu rebento (isso pelo menos do lado do rebento). Há algo invisível beirando a comunicação entre esses dois seres. É impossível detectar de forma objetiva, mas ele existe. Talvez mais forte para alguns, e irrelevante para outros.
 
-Pautado em um grande mistério envolvendo o destino de seus passageiros, o roteiro escrito a 8 mãos flerta perigosamente com seus segredos usando uma fotografia nitidamente surreal ao mostrar no início uma bela mulher passeando por um campo de trigo com uma trilha sonora feliz, representando exatamente o oposto do que vemos a seguir: uma fria e gigantesca nave no espaço vazio. Há um esmero acima da média com a direção de arte que se preocupa com detalhes como o desenho dos equipamentos utilizando kanjis orientais e denunciando a origem de sua fabricação, o que cria uma âncora com a realidade de uma China em evolução crescente.
+No caso do filme "Duro de Matar: Um Bom Dia para Morrer", entre o personagem icônico de Bruce Willis, John McClane, e seu filho Jack (Jai Courtney), essa relação pai e filho não encontra espaço para se desenvolver por causa do velho, imortal e indestrutível McClane. Curiosamente "Indiana Jones e A Última Cruzada", que contém um personagem mais icônico e fantástico ainda, consegue se estabelecer como um dos melhores filmes da franquia justamente por conta desse cordão umbilical imaginário entre "Junior" e seu pai, interpretado por Sean Connery.
 
-O fato da fotografia na primeira tomada ser tão bela contrapõe-se de maneira gritante com a fotografia do resto do filme, submergida em um escuro deprimente, arrastado por um figurino de roupas desgastadas, comprovando mais uma vez os tempos difíceis que vive a humanidade. Não só isso: o tédio impera no espaço. Quando não estão congelados para economizar tempo de vida, os passageiros nitidamente passam muito tempo sem fazer absolutamente nada de construtivo, como o cubo mágico resolvido na mesa da médica da equipe denuncia. Ao mesmo tempo, a direção previsível de Ivan Engler e Ralph Etter cria um suspense tipicamente forçado com o uso de uma trilha sonora sugestiva e cortes mais rápidos de cena, um lugar comum que não oferece mais escape de boas produções: o espectador já sabe o que o espera e se entedia disso.
+Já em "Carga Explosiva: O Legado", apesar da falta de seu personagem carro-chefe Jason Stahan -- que protagonizou os três primeiros filmes da franquia -- a série ganha uma dupla familiar no mínimo inusitada, pois flerta de leve com o exemplo em Indiana Jones e de longe (felizmente) com o último Duro de Matar, conseguindo no processo amarrar uma trama solta de maneira eficaz.
 
-No início desse texto dizia que o filme lembrava Aliens. A própria autópsia do comandante morto pela queda já remete ao oitavo passageiro, e a criança encontrada remete à sua continuação. E é interessante que ao mesmo tempo em que a médica corre perigo ainda estamos mais preocupados com o mistério na nave que com a vida dela, o que demonstra como a artificialidade do roteiro faz par com uma direção morna que não se preocupa, por exemplo, com a empatia da protagonista para o espectador.
+É assim que enxergo esse triângulo irregular desenhado pelos roteiristas em torno de três personagens principais, fracos, mas competentes o suficiente para manter uma história minimamente convincente que se desenvolve sempre de maneira regular. Na base desse triângulo temos Jack Pai (Ray Stevenson) e Jack Filho (Ed Skrein), dois "agentes especiais" (para não entrar em detalhes) que disputam verbalmente qual dos dois estilos de charme é o mais sedutor. Um está se aposentando, o outro está no auge físico. Já na ponta desse triângulo vemos a jovem Anna (Loan Chabanol), que bola um plano corajoso e bem sem sentido guiado pela vingança de 15 anos vivendo como uma escrava-prostituta de uma máfia russa operando na Riviera Francesa.
 
-A despeito dos cortes incessantes que repetem a fórmula do suspense durante toda a narrativa, não há na história um senso simples de continuidade, deixando o espectador mais perdido que interessado nos cortes ríspidos de câmera. Cada sub-conclusão é fechada pelo mesmo fade-out, outro recurso repetido à exaustão até a revelação da verdade, onde há uma mudança radical que poderia ser o trampolim para um pouco de ação intelectual.
+E no meio de tudo isso temos belas garotas e carros, além de um vilão (Radivoje Bukvic) perdido o suficiente para entendermos por que o plano das garotas está funcionando quase que sem falhas.
 
-Infelizmente o final se importa mais em muitas delongas e o batidíssimo artifício do tempo se esgotando. Ainda bem que eventualmente acaba.
+Apesar das virtudes narrativas e até das atuações que não atrapalham a experiência, a direção automática de Camille Delamarre mantém um ritmo morno do começo ao fim, mesmo nas cenas mais frenéticas. Até quando na sequência onde carro e avião compartilham da mesma pista, uma cena que é adrenalina pura, a falta de algo imprevisível parece incomodar.
+
+O que é uma pena, pois isso gera a sensação de um filme menor empacotado em uma história que merecia mais detalhes que não fossem irrelevantes (como o detalhe dos golpes serem aplicados por três das quatro garotas principais). O filme sempre pende para um lado, mas se equilibra de outro, gerando a sensação de nunca ser muito bom ou muito ruim.
+
+O que pode ser decepcionante para uns, empolgante para outros. Talvez os fãs de ação gostem desse "O Legado", mas fiquem aguardando o momento em que ele fica realmente bom. Infelizmente, talvez este momento esteja no próximo filme.
 

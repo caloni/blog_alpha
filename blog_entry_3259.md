@@ -1,122 +1,22 @@
 ---
 categories:
-- coding
-date: '2008-06-30'
-tags: null
-title: Reflexão em C++
+- writting
+date: '2015-12-27'
+link: https://www.imdb.com/title/tt0074958
+tags:
+- movies
+title: Rede de Intrigas
 ---
 
-O termo e conceito de reflection, muito usado em linguagens modernas, é a capacidade de um programa de observar e até de alterar sua própria estrutura. Bom, isso você pode ler na Wikipédia. O interessante é o que podemos usar desse conceito na linguagem C++.
+Sidney Lumet é um gênio em pegar questões delicadas e profundas da nossa sociedade e inseri-las em histórias corriqueiras ou com uma roupagem 100% pessoal. É assim com os clássicos Um Dia de Cão e Serpico, e não seria diferente quando o tema agora é a TV como ferramenta de divulgação de notícias. Ou pelo menos essa era a ideia original.
 
-Infelizmente não muito.
+Apesar da história de Network girar em torno da busca do poder, que no caso é mais audiência, que se traduz em mais dinheiro e influência, o momento mais icônico para mim é quando uma família sai para a janela e observa que todos seus vizinhos começam a sair e gritar a frase de um âncora que se tornou uma espécie de profeta, ou voz do povo, depois que anunciou que iria se matar em frente às câmeras após ser demitido.
 
-O sistema de RTTI (Run Time Type Identification), a identificação de tipos em tempo de execução, seria o começo do reflection em C++. Foi um começo que não teve meio nem fim, mas existe na linguagem. Dessa forma podemos tirar algum proveito disso.
+Esse momento é icônico porque ele é um dos poucos que conseguem resumir de onde vem o combustível para permitir que um canal de notícias vire um show pseudo-esotérico com toques de auto-ajuda para uma nação em crise econômica e de identidade: sua audiência. Network pode se travestir de jogo de poder de corporações cada vez maiores, e faz isso muito bem, mas não pode negar que esse poder emana de quem possui o controle dos canais na mão.
 
-Um leitor pediu para que eu falasse um pouco sobre essas coisas, especificamente como se faz para obter o nome da classe de onde estamos executando um determinado método. Para esse tipo de construção podemos usar o operado typeid, que retorna informações básicas sobre um tipo de acordo com um tipo, instância ou expressão:
+Do jeito que as coisas são colocadas, porém, essa audiência não mudou muito de quando eram babuínos viajando pelo deserto, confiando sua liderança a homens que de diziam profetas que conseguiam falar com o próprio deus e arrancar a "verdade final". Em ambos os casos, se você avança demais nessa ilusão, ou se há motivos suficientes da população para que ela se mantenha, até mesmo quando o profeta tenta se desmascarar, a ele será negada a fuga para a realidade.
 
-```cpp
-#include <iostream>
+Além dessas questões universais, Network vai além, e através de uma história de traição discute com propriedade uma filosofia de valores em contraponto com a vida fácil e irreal da TV. Tudo isso de maneira acessível, ou quase, em uma narrativa que funciona tão bem em tantos níveis que parece um pequeno milagre de coesão e economia. Nenhuma cena no filme é descartável.
 
-using namespace std;
-
-int main()
-{
-	cout << typeid( int ).name() << endl;
-
-	int x;
-	cout << typeid( x ).name() << endl;
-
-	cout << typeid( 2 + 2 ).name() << endl;
-}
-```
-
-    C:\Tests>cl typeid.cpp
-    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
-    Copyright (C) Microsoft Corporation.  All rights reserved.
-    
-    /out:typeid.exe
-    typeid.obj
-    
-    C:\Tests>typeid.exe
-    int
-
-Dessa forma, podemos nos aproveitar do fato que todo método não-estático possui a variável implícita this, do tipo "ponteiro constante para T", onde T é o tipo da classe que contém o método sendo chamado.
-
-```cpp
-#include <iostream>
-
-using namespace std;
-
-class MyClass
-{
-	public:
-		void MyMethod()
-		{
-			cout << typeid(*this).name() << "::MyMethod" << endl;
-		}
-};
-
-int main()
-{
-	MyClass myc;
-
-	myc.MyMethod();
-}
-```
-
-    C:\Tests>cl typeid-class.cpp
-    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
-    Copyright (C) Microsoft Corporation.  All rights reserved.
-    
-    /out:typeid-class.exe
-    typeid-class.obj
-    
-    C:\Tests>typeid-class.exe
-
-    class MyClass::MyMethod
-
-Com classes não-polimórficas a coisa parece não ter muita utilidade. No entanto, essa mesma técnica pode ser aplicada em classes derivadas, uma vez que o operador typeid pode trabalhar em tempo de execução:
-
-```cpp
-#include <iostream>
-
-using namespace std;
-
-class MyClass
-{
-	public:
-		virtual void MyMethod()
-		{
-			cout << typeid(*this).name() << "::MyMethod" << endl;
-		}
-};
-
-class MyDerivatedClass1 : public MyClass { };
-
-class MyDerivatedClass2 : public MyClass { };
-
-int main()
-{
-	MyClass* myc1 = new MyDerivatedClass1;
-	MyClass* myc2 = new MyDerivatedClass2;
-
-	myc1->MyMethod();
-	myc2->MyMethod();
-}
-```
-
-    C:\Tests>cl typeid-class2.cpp
-    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
-    Copyright (C) Microsoft Corporation.  All rights reserved.
-    
-    /out:typeid-class2.exe
-    typeid-class2.obj
-    
-    C:\Tests>typeid-class2.exe
-
-class MyDerivatedClass1::MyMethod class MyDerivatedClass2::MyMethod
-
-Apenas se lembre de ter de fato uma classe polimórfica (eu consegui isso tornando MyMethod uma função virtual). Do contrário você pode [ter problemas].
-
-[ter problemas]: {{< relref "typeid-e-os-perigos-do-nao-polimorfismo" >}}
+Porém, talvez o mais fascinante do filme é que ele indica apenas o começo de uma mudança radical em como é feita notícia. Hoje vivemos no inferno anunciado das propagandas disfarçadas de conteúdo, e da banalização da realidade ao nível de novela. Felizmente, a internet surgiu para nos salvar do quarto poder. Quiçá também dos três primeiros.
 

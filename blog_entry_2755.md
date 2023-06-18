@@ -1,16 +1,20 @@
 ---
 categories:
 - writting
-date: '2011-06-12'
-link: https://www.imdb.com/title/tt1356928
+date: '2019-10-24'
+link: https://www.imdb.com/title/tt10409554
 tags:
+- cinemaqui
+- mostra
 - movies
-title: O Pai dos Meus Filhos
+title: O Pai
 ---
 
-A diretora-roteirista Mia Hansen-Løve consegue prender a atenção mesmo em um filme cujo assunto fica vago do começo ao fim. O mais irritante, contudo, em O Pai dos Meus Filhos, é a maneira covarde com que ele flerta com o nosso próprio sentido de narrativa.
+O Pai é um filme que vai se percebendo o drama aos poucos. Ninguém está narrando a história, então você terá que acompanhar os detalhes pelos diálogos. E depois de um filme inteiro, sua última frase ressignifica tudo o que havíamos visto anteriormente.
 
-Não há, de fato, um vilão no filme. Pior do que isso, não há um herói. Vítimas da situação com que se encontram, a família Canvel tenta de todas as formas conciliar seus problemas em torno de seu patriarca, vivido por Louis-Do de Lencquesaing de uma maneira misteriosa pela própria exigência da história. Grégoire Canvel, o pai de família carinhoso e ao mesmo tempo ausente, consumido cada vez mais pelos problemas financeiros de sua produtora de filmes.
+A história é simples: Pavel (Ivan Barnev) precisa urgentemente voltar para seu trabalho e casa após o enterro da mãe, mas seu pai, Vasil (Ivan Savov), está agindo estranho e precisa da proteção do filho nesse momento frágil. O filme gira em torno do filho tentando se livrar do pai sabendo que ele está seguro, e talvez o ponto mais fraco do longa, é óbvio que seu pai não estará seguro por boa parte da história.
 
-Porém, covarde não é o filme pela falta de certezas pelas quais podemos nos guiar, mas pela própria falta de senso de coesão, por nos colocar em uma situação de cúmplice ao vermos um elemento novo surgindo do meio do nada e que acaba por apenas estender, sem acrescentar o suficiente, para que aquele desvio valesse realmente a pena.
+Este é um trabalho em conjunto de dois diretores e roteiristas búlgaros Kristina Grozeva e Petar Valchanov. Ambos estudaram na mesma academia de cinema, e já trabalharam em vários projetos. Eles realizam uma comédia de situação que se transforma em um drama sem ninguém forçar nada no roteiro. Acompanhar a história é tão natural que parece fácil chegar nesse nível de fluidez.
+
+E isso porque há vários elementos que são iniciados e vão sendo explorados em paralelo. O mais tocante é o pedido da mulher de Pavel: trazer uma geleia caseira de um sabor específico. Esse pedido vai sendo realimentado pela história em vários momentos que soam naturais -- uma cena em uma delegacia parece o ápice dessa piada, mas não termina por aí -- e é justamente isso que torna "O Pai" um filme que vai te levando sem você nem perceber direito.
 

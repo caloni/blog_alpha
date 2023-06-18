@@ -1,24 +1,95 @@
 ---
-categories: []
-date: '2015-04-27'
+categories:
+- coding
+date: '2007-07-30'
 tags:
 - ccpp
-title: C, C++, Engenharia Reversa e Todo o Resto
+- english
+title: C and C++ Operators Precedence Table
 ---
 
-"C++ é divertido, mas não paga minhas contas". Por diversas coincidências da natureza, e um bocado de empenho deste que vos fala, essa frase não precisa ser dita por mim. Tendo programado em casa por 2 ou 3 anos e lido The C Programming Language um bocado de vezes antes de me aventurar no mercado de trabalho, tive a oportunidade de começar na área já programando em C, C++, e com uma equipe peso-pesado. Programávamos para Windows, onde as coisas não são tão fáceis quanto no Linux (que é um SO de e para programadores), e onde precisa-se comer muita farinha com sintaxe para construir coisas decentes. Portabilidade às vezes é um objetivo, às vezes é deixado de lado. A API Win32 já é bruta demais, e o cliente sempre tem um prazo apertado demais.
+> Wanderley, your explanation about [why a program compiles in C++ and not in C] seems to me logic and correct, but gave me some doubts, because I always learned that the C and C++ operator precedence are the same thing. I checked out the Appendix A in the "C ++ - How To Program" (sixth edition) and the book table is equal to the C operators precedence table and it is different from the C++ precedence table presented by you in the article. I went to the internet and found out in two websites the table and both are equal to the book table:
+>
+> - [Wikipedia]
+> - [CppPreference]
+> 
+> From where did you get the presented C++ table?
+>
+> []s,
+> 
+> [Márcio Andrey Oliveira](http://marcioandreyoliveira.blogspot.com/)
 
-Hoje, uns 15 anos depois, minha carreira foi 95% asfaltada com C e C++, com pitadas de Assembly e recentemente Python. De vez em quanto, .NET, Java e até VB, porque a gente merece um descanso de vez em quando. Essa semana um leitor me perguntou como começar a trilhar esse caminho tão divertido do médio-nível. Não só isso: com pitadas de engenharia reversa. Como eu não sou um professor, infelizmente não vou conseguir dar uma resposta à altura, mas posso compartilhar um pouco meus pensamentos sobre meu passado.
+Dear Márcio,
 
-Na engenharia reversa, por exemplo, segui um caminho parecido com C: brincava de crackear os programas em casa. "Como destavar o WinRar?", "Como não deixar expirar aquele programinha que veio no CD?". Respostas à essas perguntas geralmente demoravam dias, semanas ou até meses. Mas não importava. Desde que fosse divertido -- e era, muito! -- sempre haveria vontade de caminhar cada vez mais para encontrar a resposta. Esse "caminho" que eu uso como metáfora geralmente não é muito bem pavimentado, não tem atalhos, mas tem diversas vielas que irão dar em paisagens fantásticas que irão te fazer perder um tempo imenso, mas deliciosamente divertido. Me lembro até hoje que minha maior diversão quando conheci os computadores foi tentar chegar o máximo possível do hardware para entender como diabos um impulso elétrico consegue fazer tanta coisa diferente. Não preciso dizer que isso deve ter me custado um ano e vários livros, cada um em uma camada mais embaixo de abstração.
+You have been my most productive reader ever. Besides having found the portability fail using static variables inside ifs, now you put in check the precedence table comparison between these two languages. In fact, some things were not so clear in that post. Let's clarify everything now (or at least try) using trustworthy sources, including the Wikipedia link sent to me.
 
-A questão sobre o aprendizado é: para aprender como um autodidata nada mais fácil do que tentar responder perguntas cuja resposta você esteja morrendo de curiosidade para saber. Só assim para esbarrar, por exemplo, no Assembly, e dedicar alguns meses lendo uns livros sobre o assunto, fazendo testes, abrindo um depurador que nunca viu na vida e aprendendo cometendo mais erros que acertos. Só com uma curiosidade infinita para ir além sem precisar de incentivos, sem temer a tão temida hoje em dia procrastinação. O Facebook/Twiter nunca serão tão divertidos quanto o poder de criação de um programador em suas mãos, ou o poder de desmontar um software engenhoso. Não se você já gostar dessa área. E se você gosta, provavelmente já sabe disso. Ou quer saber.
+The first doubt it's about the most basic principle: what is a precedence table? Well, it is what defines, amount a set of concurrent operations in a language, which will be the evaluation order. In other words, what cames first, what cames next, etc. Through this table is possible to know all the language facts, as the fact that the multiplication operators are evaluated before the addition operators.
 
-Durante minha estadia na Open fiz uma pequena palestra explicando as coisas que eu precisava conhecer a fundo, mas que podem ser facilmente apreendidas por iniciantes (como eu fui), passo-a-passo, na análise de trojans de Windows. Acho que o conteúdo se aplica para quem quer começar a fuçar e não sabe por onde começar. No fundo o conteúdo era mais ou menos o que eu gostaria que me fosse ensinado antes que eu tivesse que gastar mais alguns meses com livros inteiros. Mas não me arrependo desses livros inteiros. Muitos foram úteis, outros inúteis, mas são as cicatrizes que tornam o aprendizado mais forte. Cicatrizes? Os erros de percurso!
+This way, the table can resolve 99% of the evaluation order issues in a language, but it is not perfect.
 
-Se me perguntassem a respeito da facilidade de aprender essa ou aquela linguagem, aprender essa ou aquela técnica, qual o melhor para começar eu diria que depende. E muito. Cada profissional tem o seu histórico de vida e de trabalho. E cada um tem o seu ritmo. Eu sou uma pessoa devagar. Eu preciso repetir as mesmas coisas várias vezes para conseguir fixar um novo aprendizado. Porém, quando fixo, dificilmente esqueço. Foi assim com a linguagem C, cujo padrão fiquei quase decorando (um dos anexos do livro que citei no início tem a gramática completa, é uma linguagem simples). No entanto, demorei tempo demais para partir para o C++. Porém, quando comecei a ler The C++ Programming Language já tinha um background do que era C++, como ele nasceu e como ele evoluiu para um padrão internacional. Já existia internet, e tudo ficou mais fácil com internet (especialmente para autodidatas). Hoje em dia apenas os analfabetos e os preguiçosos não conseguem aprender alguma coisa se tiverem internet. E olhe que quem está escrevendo isso é um preguiçoso nato. Tem semanas que sou um procrastinador profissional. Porém, quando algo aguça minha curiosidade, eu viro um computador processando um programa que só irá terminar depois de uma resposta satisfatória.
+Let's see, by example, the conditional operator, most of the times known by ternary operator. Given its peculiar format, even having the precedence lower than the comma operator, the language doesn't allow a misinterpretation. If so,
 
-Foi assim com C++, talvez uma camada de abstração acima de C, mas igualmente divertido, pois trazia o poder de processamento e acesso a hardware já presente em C. Os novos paradigmas que a STL apresentava pareciam alienígenas, e acho que não me habituaria hoje em dia com contêineres se não tivesse lido com muita atenção o livro-mestre de Bjarne Stroustrup. Nem templates. Templates são um quebra-cabeças para quem está pensando em tipos, pois eles não são tipos. É o mesmo quebra-cabeças que algumas novidades como namespaces fazem com a nossa cabeça. Estava acostumado a tipos, comandos e expressões. Essas novidades do C++ foram um passo além, e que valeu a pena.
+    a ? b , c : d
 
-Uma possível evolução disso seriam as linguagens funcionais. Dizem que é o futuro. Por enquanto, não paga a conta de muita gente. Assim como as famigeradas C e C++. No entanto, se isso for sempre o seu balizador de conhecimento, estará sempre à mercê do mercado, que não sabe de nada sobre os seus gostos, seus interesses, suas ambições. Conhecimento é uma ambição muito "mais infinita" e muito mais recompensadora que dinheiro. O conhecimento tem o poder de fazer mais dinheiro, e não o contrário. Portanto, tenha a curiosidade, e atenda aos seus chamados. O resto o destino se vira.
+will be interpreted as
+
+    a ? ( b , c ) : d
+
+and not as
+
+    ( a ? b ) , ( c : d )
+
+that would be the logic result if we followed the precedence table, since the comma operator has lower precedence than the ternary operator. But that doesn't make any sense in the language, and that's why the first form is understood by the compiler, even contradicting the precedence table. This is corroborated by the following quote from Wikipedia in the page you shared:
+
+> A precedence table, while mostly adequate, cannot resolve a few details. In particular, note that the ternary operator allows any arbitrary expression as its middle operand, despite being listed as having higher precedence than the assignment and comma operators.
+
+That is one of the reasons why the precedence table is just a way to express the grammar rules of a language in a simple and resumed manner. It is not the grammar neither ought to be. Let's see one more quotation, this time from the Stroustrup himself, just after presented the C++ precedence table (by the way, that was the source used by me to get the table for my post):
+
+> A few grammar rules cannot be expressed in terms of precedence (also known as binding strength) and associativity.
+
+We can see from my example, the Wikipedia example and the Stroustrup example that the ternary operator is the main victim. Not for less. Talking about the grammar, the C ternary operator definition is different from the C++ ternary operator definition. While in C this operator is defined like this:
+
+    conditional-expression:
+      logical-OR-expression
+      logical-OR-expression ? expression : conditional-expression
+
+In C++ language it is defined like this:
+
+    conditional-expression:
+      logical-OR-expression
+      logical-OR-expression ? expression : assignment-expression
+
+This little difference can give us some (rare) situations where we can get a syntax error in C. As in a Wikipedia example, the following expression:
+
+    e = a ? b : c = d
+
+It is interpreted by the C language as:
+
+    e = ( ( a ? b : c ) = d )
+
+In the C++ language is interpreted as:
+
+    e = ( a ? b : ( c = d ) ) 
+
+In the C language case, we have a compilation error because the code is trying to assign a value to a lvalue (remember that lvalues can't be assigned to anything).
+
+    ( a ? b : c ) = d 
+
+But in C++ there's no invalid assignment, what makes a no error compilation performed.
+
+Now, one last question, that seems to be the most relevant in this precedence issue: why is the Stroustrup book precedence table different from the C precedence table?
+
+Well, I believe that, after all our analysis, the answer must be somewhat obvious: knowing that, in the ternary operator, the third operand is an assignment-expression, it is most likely the table is agree with the grammar if we put a extra weight for the assignment operators before the ternary operator. This way, if the third operand is an assignment operation (as the case above), the imaginary parentesis will be put first in the assignment operation, making the grammar definition valid:
+
+    ( a ? b : ( c ) = d )
+
+I hope this second post about the precedence table have cleared a bit more about the subject. It is not easy to understand the C language, but once you start to try, one magic door opens. Some things to remember from this experience:
+
+ - The precedence table is not in the Standard; it is deduced from the grammar rules.
+ - There are rare expressions where we can't use the precedence table (e.g. ternary operator).
+ - Nobody knows so well a language to the point to understand 100% from it; after all, nobody (and nothing) is perfect.
+
+[why a program compiles in C++ and not in C]: {{< relref "precedence-difference" >}}
+[Wikipedia]: http://en.wikipedia.org/wiki/Operators_in_C_and_C
+[CppPreference]: http://www.cppreference.com/operator_precedence.html
 

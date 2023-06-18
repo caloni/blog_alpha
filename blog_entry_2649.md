@@ -1,22 +1,24 @@
 ---
 categories:
 - writting
-date: '2019-10-21'
-link: https://www.imdb.com/title/tt4857058
+date: '2015-10-16'
+link: https://www.imdb.com/title/tt1340138
 tags:
-- cinemaqui
-- mostra
 - movies
-title: O Fantasma de Peter Sellers
+title: 'O Exterminador do Futuro: Gênesis'
 ---
 
-Com a ascenção vertiginosa vem a queda dura. E O Fantasma de Peter Sellers é o trabalho do diretor Peter Medak que vem revisitar o maior desastre da carreira deste diretor, que teve a péssima ideia de usar Peter Sellers como seu galã em uma produção em alto-mar e foi acometido pela maldição dos espíritos dos piratas.
+Diferente dos outros dois filmes anteriores, Genesys resolve homenagear a saga original revendo as cenas clássicas do filme de 1984, refilmando-as com menos charme, e entregando novas reviravoltas. Como tradição, inova o modelo T-800, mais uma vez trazendo uma novidade da época, a nanotecnologia. Não se saindo tão mal quanto o terceiro filme, mas impedindo qualquer empatia do público com essas novas versões de Sarah Connor, Kyle Reese, John Connor e Terminator, sua "sacada genial" é revelada no meio da história, e para os que tiveram a sorte de não assistir nenhum trailer e não ver nenhum pôster, pode até ser uma surpresa, mas surpresas não necessariamente tornam um filme melhor, e nesse caso temos o efeito contrário.
 
-Brincadeiras à Parte, Peter Medak conversa bastante sobre os fatores que levaram seu projeto de uma comédia sobre um navio pirata a naufragar, e faz até uma auto-análise sobre seu complexo de culpa que precisa ser expurgado por um filme a respeito. E ele tem razão, pois ao explorar os motivos que levaram O Fantasma do Sol de Meio-Dia chegamos às mesmas conclusões que seu diretor: este projeto nunca deveria ter sido feito, e não necessariamente Sellers é o único culpado.
+Não adianta nem tentar entender a história em sua cronologia, pois a partir do momento que várias linhas do tempo convergem e competem entre si nada faz muito sentido. Passado e futuro são recriados ao bel prazer do roteiro desnecessariamente confuso da dupla Laeta Kalogridis e Patrick Lussier, e o filme do diretor televisivo Alan Taylor soa televisivo do começo ao fim, e tal como em séries de TV repetitivas, traz Arnold Schwarzenegger repetindo seu papel como um guardião em diferentes participações que fazem as homenagens esperadas, além da frase "venha comigo se quiser viver", dita por vários personagens ao longo da série.
 
-Este é um filme que tem a virtude de falar abertamente sobre erros de produção de filmes, e como na década de 70 haver um diretor de sucesso era motivo suficiente para arrecadar dinheiro para seu próximo filme mesmo que ele ainda não tivesse um roteiro definido. Note que existe uma diferença para os tempos atuais, onde projetos comerciais mais parrudos não estão nas mãos de uma única pessoa, mas são escritos em grupos e revisados por outros tantos.
+Dessa vez pelo menos há um elenco relativamente competente, embora empalideça diante dos personagens dos dois primeiros filmes. Emilia Clarke como Sarah Connor convence pela sua energia, mas não há nada no roteiro que a faça conter a profundidade de uma sobrevivente. Ainda que muito jovem, Linda Hamilton já trazia o peso do drama em sua expressão de preocupação constante acerca de seu próprio destino na loucura do primeiro filme, e no segundo a preocupação iminente acerca do filho e do futuro eminente que os cercavam no pré-apocalíptico "Dia do Julgamento".
 
-O que é uma pena, pois desastres monumentais como este filme dirigido por Peter Medak possuem menos chances de acontecer, e este documentário de Medak é tragicamente delicioso ao abrir a ferida entrevistando os que ainda estão vivos e participaram das filmagens. Embora possa parecer comum um projeto desses, acredite: não é. Estamos falando de um diretor que depois de décadas quis resolver de uma vez por todas um assunto que ainda permanecia em seus pensamentos, e que teve a humildade de ir até as últimas consequências.
+Schwarzenegger possui diferentes versões neste filme, em que a mais nova é obviamente um boneco de plástico estilizado, mas a mais velha o torna o membro mais respeitoso do elenco. Mais uma vez ele repete suas falas, mas mesmo que de maneira automática consegue soar mais autêntico que nos filmes anteriores, mais sábio, com um timing e cadência de alguém que quis novamente o papel. Porém, sua energia não é mais a mesma, e as cenas de luta e perseguição possuem apenas sua silhueta que sabemos ser de um dublê, computadorizado ou não.
 
-O filme é montado como Peter Medak indo atrás dos responsáveis e buscando por memórias e registros do que de fato aconteceu. Você pode não estar interessado necessariamente neste filme-desastre, mas se for cinéfilo com certeza irá achar interessantíssimo os detalhes de produção e filmagens. Há um quê de aprendizado em rirmos dos problemas do passado, e graças a Medak agora temos a oportunidade de assistirmos a um documentário dirigido por um ótimo diretor que acredita ter comedito um grande erro no passado. No final das contas, "O Fantasma do Sol de Meio-Dia" foi uma coisa boa.
+Jai Courtney é um Kyle Reese mais complexo que o visto no filme original, embora Courtney não esteja à altura e comprometa o resultado junto do roteiro. Suas falas mais memoráveis são de alívio cômico que não funciona, pois Alan Taylor não consegue criar a atmosfera necessária que nos envolva dramaticamente para que a comédia faça sentido como escape. A atuação de Courtney é o exemplo mais didático de um filme que está no automático, sem engajamento.
+
+Talvez o mais impressionante é que, não importa o quanto tente-se inovar o conceito de um exterminador robótico, nada parece se comparar à forma esquelética clássica, que é digno de um filme de terror até hoje. Pode ser a imagem nostálgica de quando efeitos visuais eram mais difíceis, e até stop-motion era utilizado. Vivemos épocas mais maleáveis na computação, e nossa imaginação não pega no tranco tão bem em ver joguinhos de computador dentro de um roteiro.
+
+Aliás, esse roteiro escrito a quatro mãos é quase um passeio a um parque de diversões, semelhante ao filme anterior, do que uma trama de fato. Um Jurassic World futurista, cujas intenções também estavam longe de contar uma história. Essa tendência recente de apenas mimetizar a experiência visual dos espectadores e ignorar que personagens devem ser criados e uma história precisa ser contada pode ser uma boa para o cinema pipoca, mas está anos-luz atrás da boa e velha identificação de um drama, por mais absurdo que este fosse. Mesmo que lidasse com a inescapável corrente do destino.
 

@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2021-05-28'
-link: https://www.imdb.com/title/tt1506339
+date: '2019-06-10'
+link: https://www.imdb.com/title/tt0497986
 tags:
-- animes
-title: Time of Eve (Eve no jikan)
+- movies
+title: Time - O Amor Contra a Passagem do Tempo
 ---
 
-Uma direção bem pitoresca dessa série. Os movimentos da câmera tenta reproduzir os movimentos de cabeça que fazemos para desviar o olhar. E a visão é desse rapaz quase míope, de vista e de seus sentimentos. Mas, assim como sua andoide, ele está tentando.
+Você sempre sai de um filme do diretor coreano Kim-Ki Duk (Fôlego, Pieta, Primavera Verão Outono Inverno e Primavera,  Tipo Ruim) pensativo. É uma marca deste cineasta não fechar as pontas e abrir mais algumas. "Time" faz isso, e faz de uma maneira que dá pra se divertir no processo.
 
-Passando em um futuro próximo onde robôs e humanos convivem em uma relação serviçal e mestre, o grande trunfo de The Time of Eve é nos jogar nesse universo e nos fazer descobrir o impacto dessa mudança na rotina dos humanos. E também dos andróides, já que eles "nascem" sem um guia do que são. Apenas seguem ordens e as três leis da robótica sugeridas pelo autor sci-fi Isaac Asimov.
+Ele conta a história de um casal de namorados que após dois anos juntos estão sofrendo um certo desgaste. Ela acha que ele não liga mais para seu corpo e seu mesmo rosto enfadonho. Ela é linda. Ele é mulherengo e distraído. Ela é louca.
 
-Mas algo sabemos desde o início. Se trata de um trabalho sobre preconceito e discriminação. É sensível e se revela aos poucos, e a graça é estar assistindo coberto dessa áurea de mistério. Enquanto isso acompanhamos a saga do garoto, enquanto ele descobre se é um fandroid, uma pessoa que trata andróides como humanos, ou apenas uma pessoa muito solitária.
+Este é um filme que fala sobre a indústria da cirugia plástica estética, aquela feita apenas para as pessoas se sentirem bem com seu corpo e rosto. Junte isso e a loucura dos relacionamentos monogâmicos e você terá um thriller contemplativo.
 
-A série brinca muito com metalinguagem. Em um episódio onde um robô antigo aparece eles brincam com o tom de Exterminador do Futuro. A visão da série tem sempre a perda de foco do garoto protagonista. A desorientação do espectador sobre como o mundo está mudando com os androides é o que faz a câmera não conseguir parar. A trilha sonora usa toques semelhantes a aplicativos de computador.
+Kim-Ki Duk é um diretor e roteirista que trabalha seus temas com afinco. Ele usa rimas visuais, como o eterno café onde o casal se encontra e faz escândalo, assim como um enigmático bilhete escrito Eu Te Amo inúmeras vezes, um em cima de outro. Quantas vezes na vida as pessoas dizem isso, nem sempre para a mesma?
 
-Esses garotos vão ao café-título em busca de respostas e servem de olhos e ouvidos para nós, espectadores curiosos e atentos. Cada novo episódio merece nossa total atenção, pois nenhuma informação é dada de graça. Se trata até aqui de um dos melhores trabalhos de sci-fi animado que eu já presenciei. É denso e não tem medo de sê-lo.
+A passagem do tempo é um tema recorrente em sua cinegrafia, assim como a superficialidade da matéria em detrimento ao bem espiritual mais valioso, e aqui recebe um tratamento rústico, quase uma carpintaria abstrata onde não temos certeza do que ele está falando, ou pelo menos não poderíamos verbalizar o que significam os acontecimentos do filme. Quer dizer, poderíamos, mas apenas narrar não soluciona o enigma da vida a dois. E o brilhantismo do filme está em não se esforçar para resolver este quebra-cabeças afetivo, pois cada um de nós terá uma forma de entender.
 
-Que bosta de final. Todo o arco se desenvolvendo entre o garoto e sua robô serviçal é resolvido em duas falas e surge um outro arco completamente desvinculado do principal entre um robô ainda não apresentado e o segundo garoto. O Comitê de Ética é revelado apenas como um grupo de burocratas com motivações infantis de serem contra relacionamentos entre humanos e robôs. O pai do garoto encarna o pai de Evangelion. Praticamente nada funciona neste season finale. E robôs ainda choram. O espectador deveria poder chorar em cima dessas imagens se fingindo de tridimensionais sem o serem.
+Eu sinceramente espero que você não deixe passar em branco a última cena do filme e a entenda como uma rima para o começo. Só assim para que o filme esteja completo. Porém, mesmo sem entender, há um acidente de carro próximo do final que já te deixará pensativo. Time consegue essa proeza algumas vezes.
 

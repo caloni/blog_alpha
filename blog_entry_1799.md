@@ -1,85 +1,46 @@
 ---
 
-No princípio... não, não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados senhores dos Laboratórios Bell, K. Thompson e D. Ritchie, criaram uma linguagem chamada B. E B era bom.
+Confesso que adoro estudar sobre a história da linguagem C. Essa verdadeira adoração pela linguagem me fez estudar suas precursoras, como as linguagens BCPL e B. Posso dizer que todo esse conhecimento, no final das contas, valeu a pena. Hoje entendo muito melhor as decisões tomadas na criação da linguagem e, principalmente, a origem de algumas idiossincrasias e boas idéias que permaneceram até hoje.
 
-{{< image src="kthompson_dritchie.jpg" caption="Ken Thompson (esquerda) e Dennis Ritchie (direita). Fonte: wikipedia.org" >}}
+{{< image src="martin_richards.gif" caption="Esse distinto cavalheiro inglês é Martin Richards" >}}
 
-O bom de B era sua rica expressividade e sua simples gramática. Tão simples que o [manual da linguagem] consistia de apenas 30 páginas. Isso é menos do que as 32 palavras reservadas de C. As instruções eram definidas em termos de ifs e gotos e as variáveis eram definidas em termos de um padrão de bits de tamanho fixo, geralmente a word, ou palavra, da plataforma, que utilizada em expressões definiam seu tipo. Esse padrão de bits era chamado rvalue. Imagine a linguagem C de hoje em dia com apenas um tipo: int.
+Em 21 de julho de 1967 Martin Richards libera [o manual] da sua recém-criada linguagem BCLP. Na verdade, ela havia sido criada em 66 e implementada na primavera do ano seguinte no Instituto de Tecnologia de Massachusetts (vulgo MIT). Seus objetivos eram claros, como para todo criador de uma nova linguagem: melhorar uma linguagem anterior. Nesse caso, foi uma melhoria da Combined Programming Language (CPL), retirando, de acordo com Martin, "todas aquelas características da linguagem completa que tornavam a compilação difícil".
 
-Como esse padrão de bits nunca muda de tamanho, todas as rotinas da biblioteca recebiam e retornavam sempre valores do mesmo tamanho na memória. Isso na linguagem C quer dizer que o char da época ocupava tanto quanto o int. Existia inclusive uma função que retornava o caractere de uma string na posição especificada:
+E BCPL era de fato bem simples. Não tinha tipos, era limpa e poderosa. Porém, mais importante que tudo isso, ela era portável. E essa portabilidade, aliada ao fato que escrever compiladores para ela era bem mais simples (alguns compiladores rodavam com apenas 16 KB), a tornaram especialmente popular na época.
 
-    c = char(string, i); /* the i-th character of the string is returned */
+Essa portabilidade era obtida com o uso de um artifício mais ou menos conhecido da comunidade C/C++ hoje em dia: a divisão entre código objeto e código final. O compilador era dividido em duas partes: a primeira parte era responsável por criar um código em estado intermediário feito para rodar em uma máquina virtual. Esse código era chamado de O-code (O de object). A segunda parte do compilador era responsável por traduzir esse O-code no código da máquina-alvo (onde iria ser rodado o programa). Essa sacada genial de 40 anos atrás permitiu que fosse mais simples fazer um compilador para uma nova plataforma e portar todo o código que já tinha sido escrito para uma plataforma anterior, driblando o grande problema daquela época: a incompatibilidade entre plataformas.
 
-Sim! Char era uma função, um conversor de "tipos". No entanto a própria variável que armazenava um char tinha o tamanho de qualquer objeto da linguagem. Esse é o motivo pelo qual, tradicionalmente, as seguintes funções recebem e retornam ints em C e C++:
+{{< image src="ocode.gif" caption="Processo de geração do BCPL O-code" >}}
 
-    int getchar( void ); // read a character from stdin
-    int putchar( int c ); // writes a character to stdout
-    void *memset( void *dest, int c, size_t count ); // sets buffers to a specified character
+Perceba que é possível fazer toda a parte do compilador detrás do código-objeto uma única vez e, conforme a necessidade, criar novos interpretadores BCPL para máquinas diferentes.
 
-Segue o exemplo de uma função na linguagem B, hoje muito famosa:
+{{< image src="portable_bcpl.gif" caption="Interpretação do o-code para código da máquina alvo" >}}
 
-    /* The following function is a general formatting, printing, and
-       conversion subroutine.  The first argument is a format string.
-       Character sequences of the form `%x' are interpreted and cause
-       conversion of type 'x' of the next argument, other character
-       sequences are printed verbatim.   Thus
-    
-    	printf("delta is %d*n", delta);
-    
-    	will convert the variable delta to decimal (%d) and print the
-    	string with the converted form of delta in place of %d.   The
-    	conversions %d-decimal, %o-octal, *s-string and %c-character
-    	are allowed.
-    
-    	This program calls upon the function `printn'. (see section
-    	9.1) */
-    
-    printf(fmt, x1,x2,x3,x4,x5,x6,x7,x8,x9) {
-    	extrn printn, char, putchar;
-    	auto adx, x, c, i, j;
-    
-    	i= 0;	/* fmt index */
-    	adx = &x1;	/* argument pointer */
-    loop :
-    	while((c=char(fmt,i++) ) != `%') {
-    		if(c == `*e')
-    			return;
-    		putchar(c);
-    	}
-    	x = *adx++;
-    	switch c = char(fmt,i++) {
-    
-    	case `d': /* decimal */
-    	case `o': /* octal */
-    		if(x < O) {
-    			x = -x ;
-    			putchar('-');
-    		}
-    		printn(x, c=='o'?8:1O);
-    		goto loop;
-    
-    	case 'c' : /* char */
-    		putchar(x);
-    		goto loop;
-    
-    	case 's': /* string */
-    		while(c=char(x, j++)) != '*e')
-    			putchar(c);
-    		goto loop;
-    	}
-    	putchar('%') ;
-    	i--;
-    	adx--;
-    	goto loop;
-    } 
+O código intermediário é gerado para uma máquina virtual. O interpretador, cerca de um quinto do compilador, tem a função de traduzir o código gerado para a máquina-alvo. Qualquer semelhança com Java ou .NET não é mera coincidência. Pois é. As boas idéias têm mais idade que seus criadores.
 
-Como podemos ver, vários elementos (se não todos) da linguagem C já estão presentes na B.
+É inevitável também não fazer a associação entre essa forma de funcionamento do compilador BCPL e a divisão feita em C/C++ entre o pré-processador, o compilador e o ligador (linker, em inglês).
 
-[manual da linguagem]: http://cm.bell-labs.co/who/dmr/kbman.html
+{{< image src="ccpp_build_steps.gif" caption="Processo de compilação C/C++" >}}
+
+O uso do pré-processador na linguagem C facilitou a portabilidade por um bom tempo, quando não existiam typedefs. Diferente do BCPL, C já tinha tipagem, o que quer dizer que era necessário escolher o espaço de armazenamento que seria utilizado para as variáveis. Com o pré-processamento, essa escolha pode ser feita de maneira seletiva, documentada e generalizada.
+
+    #ifdef SBRUBLE_PLATFORM
+    #define UINT unsigned char /* space limitation */
+    #else
+    #define UINT unsigned int
+    #endif
+
+Como é natural, o código-fonte de uma aplicação tende a crescer em muitas linhas durante sua evolução, especialmente se estamos falando de sistemas operacionais. A compilação desse código vai tomar cada vez mais tempo no processo de desenvolvimento. Por isso, manter esse código-fonte em um mesmo arquivo eventualmente torna-se inviável, tornando a compilação de módulos separados uma solução pra lá de elegante. Compila-se apenas o módulo que foi modificado e liga-se esse módulo com módulos pré-compilados.
+
+Para continuar lendo sobre a história da linguagem existe uma [segunda parte].
+
+[o manual]: {{< resource src="bcpl.pdf" >}}
+[segunda parte]: {{< relref "historia-da-linguagem-c-parte-2" >}}
 
 ---
-categories: []
-date: '2020-09-16'
+categories:
+- coding
+date: '2007-08-15'
 tags:
-- lists
-title: História do Windows
+- ccpp
+title: 'História da Linguagem C: Parte 2'

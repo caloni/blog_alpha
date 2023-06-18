@@ -1,22 +1,27 @@
 ---
 categories:
 - writting
-date: '2014-04-14'
-link: https://www.imdb.com/title/tt1773185
+date: '2019-04-26'
+link: https://www.imdb.com/title/tt5584756
 tags:
-- animes
-title: Madoka Magica
+- cinemaqui
+- movies
+title: Mademoiselle Paradis
 ---
 
-A revisita a este animê que para mim ainda é meu favorito -- pela originalidade e pela fuga do lugar-comum e dos roteiros fáceis que a maioria das adaptações dos quadrinhos japoneses são submetidos -- foi feita em apenas uma noite. Mais de quatro horas depois posso reafirmar com convicção: é uma obra ousada para seu formato tanto em história quanto na direção/edição/arte. Desafia o espectador a esquecer os detalhes centrais de uma história que vai se abrindo muito lentamente, e sua força é sentida exatamente por esse cuidado em cada detalhe.
+Mademoiselle Paradis segue a cartilha dos filmes de época, mas não deveria. O filme é muito mais do que isso, abordando temas como etiqueta e a dualidade entre ser medíocre em tudo ou sacrificar uma vida para ser algo pelo qual será lembrada.
 
-Madoka Mágica é um trabalho caricatual que segue à risca a cartilha de heroinas de cosplay (ou, diria, se usa desse artifício como metalinguagem e crítica ao gênero), mas, mais do que isso, segue um tratamento estilizado e inspirado levemente no surrealismo, mas que empurra a animação para além das histórias de luta ao lidar com conceitos complexos como auto-sacrifício, religião, viagens no tempo, destino e física teórica (além de vida extraterrena) sem perder seu ritmo com história secundárias bobinhas para fazer rir/ganhar tempo. É uma fantasia com um pé na ciência, um pé na filosofia e outro pé na arte. Esse tripé mantém a câmera posicionada nos lugares mais inusitados para capturar cada quadro como se esse fosse uma obra de arte única a resumir aquele momento através de sutis e significativos movimentos.
+Baseado em fatos históricos e inspirado pelo livro de Alissa Walser (Mesmerized), sua heroína é Maria Theresia Paradis, uma moça que desenvolveu cegueira completa pela idade de três anos. Tocando o piano de maneira impecável, seus pais parecem adestradores orgulhosos de sua filha nas exibições que realiza em sua casa.
 
-E há vários momentos que merecem ser congelados para nossa apreciação.
+Ninguém possui tato no século 19 e os deficientes são tratados como um estorvo e julgamentos estéticos são ditos na cara (uma de suas "amigas" a diz "depois do tratamento sua cabeça começou a feder e seus olhos ficaram ainda pior"). Como se não bastasse, os "cientistas" da época tinham à sua disposição uma vasta gama de experimentos completamente anti-éticos a ser realizados em seus pacientes.
 
-A história gira em torno de Madoka Kaname, uma garota comum que encontra um bicho estranho e mágico que revela que existem garotas mágicas que lutam contra bruxas e salvam pessoas de suicídios. Na verdade, revela mais: ela e sua amiga, Sayaka Miki, podem se tornar garotas mágicas também, e a recompensa por este feito heróico é terem um desejo, qualquer desejo, realizado pelo tal bicho mágico.
+Um deles, Franz Anton Mesmer (Devid Striesow), tem tido êxito com vários pacientes usando o "poder mágico" do invisível e indetectável (e indolor) eletromagnetismo, o que causa um frisson na comunidade. Infelizmente estão todos cegos nesse mundo da realeza e ninguém percebe que na verdade cuidado e atenção são o segredo para as curas milagrosas.
 
-O curioso da série é que ela não tem pressa em realizar o que 90% das produções semelhantes ocidentais fariam: um grupo de garotas lutando contra o mal a la Meninas Superpoderosas. No fundo, o "mal" aqui não está materializado e nem tem desejo de fúria. Ele é um conceito, e relativo, dependendo do ponto de vista. Sequer há emoções em jogo. Na verdade, é mais profundo que isso: a emoção aqui é usada de uma maneira completamente diferente. Uma Meninas Superpoderosas para gente grande.
+Este é um filme sobre como pessoas vistas como inferiores (em sua maioria mulheres, aleijados e criados) são tratadas como objetos, das mais diferentes formas. Se é uma serviçal assediada, é apenas um incômodo que ela tenha engravidado. Se uma criança demente sofre um acidente fatal, talvez fosse melhor assim em vez de viver uma vida miserável.
 
-Mas além da empolgante história o que cativa mesmo o espectador é a qualidade narrativa criada não apenas a partir dos sensacionais traços dos criadores, mas de uma invejável e coesa trilha sonora (Yuki Kajiura) e uma fotografia de cair o queixo (Shinichiro Eto). Tudo isso, com a edição de Rie Matsuhara, combina em uma experiência sensorial cada vez mais fácil de ser encontrada em séries de TV ambiciosas e menos nos cinemas comerciais.
+Mas esses são detalhes de um filme longo e cansativo dirigido pela austríaca Barbara Albert, que não consegue fluir sua narrativa e ainda por cima decide não usar nenhuma trilha sonora artificial, o que torna algumas longas sequências onde quase nada acontece quase insuportáveis. Ele repousa quase inteiramente no talento da atriz principal, Maria Dragus.
+
+Dragus nos dá a exata sensação de alguém fora de qualquer categoria estável do mundo onde nasceu. Sua esperança era se tornar exímia pianista, mas quando ela começa a enxergar um pouco ela passa a não fazer nenhum dos dois direito. Os seus olhos se reviram de uma maneira completamente caótica, em uma mistura de paixão e passividade. Sua dor é sentida pelos seus agitados movimentos, mas ao mesmo tempo a alegria de fazer algo (tocar piano) tão bem feito.
+
+Infelizmente este é um filme disposto a descrever a História de maneira burocrática, que apenas pincela alguns comentários sociais. O resto é pura direção de arte de época, com figurinos bordados à mão e as bonitas músicas tocadas ao piano por Paradis. É bonito, mas oferece pouco aos mais ansiosos por comentários atuais sobre uma época grotesca.
 

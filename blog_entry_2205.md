@@ -1,12 +1,16 @@
 ---
 categories:
 - writting
-date: '2020-10-13'
-link: https://www.crunchyroll.com/pt-pt/magical-sempai
+date: '2021-04-04'
+link: https://www.imdb.com/title/tt8322496
 tags:
 - animes
-title: Magical Sempai
+title: Magical Girl Ore (Mahou Shoujo Ore)
 ---
 
-As piadas são hilárias. Esta é a série de comédia de uma piada só que funciona bem; por dois episódios pelo menos. Sempai é voluptuosa e seu corpo é alvo de sua completa inaptidão física como uma prestidigitadora. Mas ela não desiste depois que encontra um assistente, alguém passando pelo corredor da escola procurando um clube para entrar. Ela irá passar vergonha para ele e seu público, que varia entre colegas de escola e crianças no parque. Ele irá observar como tudo aquilo é patético. Por que ele continua ao seu lado? Ele precisa de um clube e inadvertidamente ela criou um clima. E ela precisa desesperadamente de atenção. Qualquer uma. Leve, engraçado, dinâmico.
+Meninas mágicas peitudas é o que elas são, mas nos peitos há apenas músculo. São meninas-macho quando se transformam para defender o mundo desses demônios com forma de bichinhos de pelúcia igualmente musculosos. Alguma mensagem oculta sobre transformistas? Alguma bandeira colorida? Não, nada disso. Apenas o trash diário japonês esbanjando criatividade, por mais que o desenvolvimento seja apressado.
+
+Esta série é hilária em alguns momentos, mas segue uma historinha básica que precisa acompanhar para ver as partes boas. A animação é bem clichê com alguns toques pseudo-realistas, com o uso de armas e força física nas lutas e o sangue no seu final.
+
+De qualquer forma o amor como combustível das Maho Shojo é bem mal desenvolvido. Assista pelas risadas, mas não analise demais. Não há nada realmente revolucionário acontecendo. A não ser que haja reviravoltas dignas do primeiro episódio
 

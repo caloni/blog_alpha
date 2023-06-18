@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2013-11-27'
-link: https://www.imdb.com/title/tt0079367
+date: '2011-11-06'
+link: https://www.imdb.com/title/tt1921043
 tags:
 - movies
-title: O Panaca
+title: O Palhaço
 ---
 
-Uma comédia pode fazer rir pelo absurdo de suas situações e/ou personagens, como bem lembramos de Debi e Lóide. No entanto, a comédia estrelada por Jim Carrey está longe de ser a precursora dessa ideias do personagem idiota. Há algo muito mais essencial, didático e até filosófico nO Panaca de Steve Martin.
+É muito difícil escrever sobre filmes ruins, atacando conteúdos sem sentido e muitas vezes com uma visão precipitada ou exacerbada. Por outro lado, falar de um filme virtuoso em tantos aspectos como O Palhaço pode ser uma atividade prazerosa e ao mesmo tempo um ato de injustiça, por deixar tantos detalhes do lado de fora do texto.
 
-O roteiro, escrito por Martin e Carl Gottlieb (de Tubarão), não se preocupa em ser brilhante. Apenas conduz o protagonista com sérias limitações mentais pelo mundo, pois percebe ser a maneira mais eficaz de o conhecer. O fato de nem parecer existir um roteiro é o que o torna mais elegante.
+Mesmo assim, vale a pena dissecar filmes bem produzidos como esse, pois o fato do assunto não ter se esgotado é prova da competência e da riqueza do filme, que ainda provavelmente resistiria a uma segunda análise. Melhor ainda: por sua história ter contornos universais, mexendo no emocional e na imaginação coletiva, ele provavelmente resistirá bem ao tempo, e poderá ser revisto daqui a uma década ou duas mantendo suas virtudes intactas.
 
-Já a direção de Carl Reiner, acostumado a produções com o ator, segue o mesmo conceito de não se intrometer por boa parte do filme, com exceção do momento icônico em que vemos um Steve Martin ex-milionário catando objetos aleatórios durante a despedida de sua mansão, quando até a câmera evita acompanhá-lo mais de perto. Suas idiotices eram inocentes e bobas até o dinheiro multiplicá-las.
+A história, simples em sua estrutura, complexa em suas sutilezas, conta a história do palhaço Pangaré (Selton Mello), filho do dono de um pequeno circo que vive dos pequenos espetáculos que apresenta viajando por cidades minúsculas, e sempre agraceando os prefeitos locais (que talvez, por falta de "pauta", acabam sempre participando de uma sessão do circo).
 
-Esta é uma história de um idiota só, e o ato de pararmos uma hora e meia para assisti-lo é o suficiente para entender que a vida de um panaca não interessa de forma alguma, desde que ele não fique rico com um golpe de sorte qualquer. Aí ele será visto como um gênio, pois o dinheiro comprova seu valor perante a sociedade. Não seria um exagero nem uma ofensa relacionar esta parábola com a situação pós-bolha da internet de tantos novos-ricos, sendo o criador do Facebook o mais icônico entre eles.
+Pangaré está com problemas para manter seu dom de fazer as pessoas rirem. Hoje chamaríamos isso de depressão. O filme é de época, apesar de não tão distante. Esse sentimento tão íntimo quanto sutil é o que permeia o primeiro ato da narrativa, que, apesar de conter, assim como todo o filme, poucos diálogos, transmite sua mensagem da melhor maneira possível: a visual. Através de uma fotografia pálida, do uso insistente da mesma tomada em que o comboio segue pela estrada, da ausência quase completa de trilha sonora, exceto as incidentais e as que tentam, inutilmente, arrancar graça do espectador (do filme, não do circo), o trajeto e a vida que segue o circo pode ser tudo, menos alegre.
 
-O fato de alguém ganhar muito dinheiro o torna um gênio do dia para a noite? Talvez você precise fazer uma revisita ao conto do panaca para repensar os valores que temos hoje em dia.
+A dinâmica entre os personagens é, como um todo, pitoresca e igualmente apática, e as gags que possuem o intuito de nos fazer rir nessa introdução da história, acaba também, bem sutilmente, torturando nossos sentidos pela tristeza paradoxal daquela trupe de artistas. O mérito é de uma interpretação cuidadosa nos detalhes de Selton Mello, ator principal e diretor, que consegue transmitir seu estado de espírito melancólico sem soar caricato, o que, digamos, é um feito e tanto, considerando que o sujeito se veste de palhaço por boa parte do longa. Esse cuidado consegue ser percebido em seu tom de voz fraco, tímido, ou em sua postura estática, contemplativa e exausta. O olhar vago e lento, a distração cada vez maior. Enfim, apenas um espectador muito inerte conseguiria não perceber.
+
+Alheio a tudo isso, a história ainda conta com o suporte das agruras que a trupe vive, nunca ganhando o suficiente e sempre tendo que eventualmente molhar a mão de alguém, seja de um mecânico de beira de estrada ou um delegado corrupto, para conseguir se safar das situações em que acabam caindo. E até dentro do próprio grupo se vivem os apuros da desonestidade, apuros esses usados como contraparte ou reforço da situação do próprio palhaço, e a dificuldade que este tem em conseguir um sutiã para a colega (grande o suficiente para ela) e um ventilador para o calor delirante são o reflexo que precisávamos para entender que a visão daquela realidade passa pelo filtro triste de um palhaço melancólico, onde sua própria vestimenta de palhaço é vermelha, mas um vermelho pálido, empoeirado, mais triste que alegre.
 

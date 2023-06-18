@@ -1,12 +1,14 @@
 ---
 categories:
 - writting
-date: '2017-01-27'
-link: https://www.imdb.com/title/tt2321405
+date: '2014-01-18'
+link: https://www.imdb.com/title/tt1698648
 tags:
 - movies
-title: Minha Vida de Abobrinha
+title: Minha Vida Dava um Filme
 ---
 
-Esta é uma animação em stop-motion irretocável, com um tema lúdico de cores e formatos belíssimos, texturas criativas e movimentos perfeccionistas. Tem pouco mais de uma hora de duração e durante todo esse tempo impressiona pelos seus dotes artísticos. Porém, como narrativa, peca, e muito. É simplório, bobinho, limitado. Assim como o bobo O Menino e o Mundo, que converte ideologias em fatos através dos olhos de uma criança -- talvez maior covardia não exista -- Minha Vida de Abobrinha nos remete a crianças de um orfanato saídas das "fanfics" da esquerda, onde vemos pequeninos de seis anos levantando em um ônibus lotado de adultos recitando sermões com palavras que não conhecem e motivos que apenas adultos entenderiam. Tem uma criança que teve seu pai preso por roubar uma loja. Desde então ele não gosta de policiais. Detalhe: ele tentou roubar uma loja para comprar tênis para seu filho. Sim, esse é o nível de manipulação. E infelizmente ele está presente em um filme sem maiores tensões que a vida "como ela é", e dentro de um universo criado com muito esmero.
+Kristen Wiig, distante de A Vida Secreta de Walter Mitty e próxima de Missão Madrinha de Casamento, protagoniza essa comédia em que faz o papel de Imogene, uma escritora fracassada que é literalmente obrigada a voltar a morar pelas próximas 72 horas com a sua mãe e família após ter maquiado seu suicídio. O fato da carta de despedida de Imogene ter sido tão bem escrita é o que consegue unir seu passado de potencial glorioso e o seu eminente fracasso.
+
+Com sacadas que funcionam quase todo o tempo pelo timing tão realista quanto cômico de Imogene, o roteiro sobrevive com a ajuda de aparelhos em meio a tantos detalhes e reviravoltas irrelevantes para a evolução da personagem, além de ser um filme visivelmente afetado pela ambiguidade de gêneros. Só isso para explicar porque as tragédias na vida da escritora se transformam de gags para outra coisa que não nos faz rir nem chorar, sem sabermos se aquela personagem já possui tridimensionalidade o suficiente para chorarmos por ela, ou ainda é um ser caricato digno de pena.
 

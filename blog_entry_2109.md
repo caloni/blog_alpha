@@ -1,24 +1,20 @@
 ---
 categories:
 - writting
-date: '2021-04-25'
-link: https://www.imdb.com/title/tt6352180
+date: '2015-08-09'
+link: https://www.imdb.com/title/tt0185431
 tags:
-- animes
-title: Little Witch Academia
+- movies
+title: Um Diabo Diferente (aka Little Nicky)
 ---
 
-Este anime possui traços que lembram aqueles desenhos feitos à mão da década de 80, mas está sendo lançado nesta década, o que é tão fofinho quanto os traços completamente diferentes mas com a mesma vibe de Kobayashi Dragon's Maid de evocar o melhor de uma época e aproveitar as evoluções tecnológicas de animação.
+Todo momento em Little Nicky pode ser resumido em pausar a ação, ver uma piada de gosto duvidoso, dar ou não uma risada -- algo muito pessoal -- e continuar a história do filho do diabo que precisa reencontrar seus dois irmãos na Terra e enviá-los de volta para o inferno ou seu pai, o Diabo, irá derreter até definhar.
 
-A história é o clichê épico da menina com um sonho prestes a ser iniciado: se tornar uma bruxa como seu ídolo, uma bruxinha que fez um espetáculo quando ela era pequena. Hoje ela volta ao mesmo vilarejo e observa que seus habitantes perderam o contato com a magia, estão zumbis da tecnologia e dos afazeres cotidianos.
+Adam Sandler, ou Little Nicky, está com a cara torta, uma franja que cobre metade do seu rosto e uma voz distorcida que quase implora nossas desculpas por ele ser... Adam Sandler? Não interfere muito na história, mesmo trazendo junto sua persona daquele rapaz com potencial que por algum motivo nunca conseguiu provar seu valor, encontrando seu amor ao acaso e que lhe dá forças para completar sua missão. Já tendo vendido sua alma em Hollywood, o que explica seu inexplicável sucesso repetindo essa fórmula a cada novo filme, Sandler está confortável como o mal encarnado, e mesmo que ele não lhe agrade, vê-lo morrer tantas vezes e ir para o inferno vira uma espécie de bônus.
 
-Mas Akko Kagari não desiste e parte para sua descoberta de um mundo ignorado pelos não-bruxos. E se isso lembra um pouco Harry Potter, a criação de um universo de magia pela romancista britânica J. K. Rowling, você está certo. E Little Witch Academy não ignora isso. Ele passa educadamente de lado, não querendo se comparar nem subverter. Ambos apenas compartilham a riqueza potencial da criação quando se abre o portal para uma escola de magia.
+Rhys Ifans (O Espetacular Homem Aranha) faz um de seus irmãos. Já seu irmão negro quase não aparecerá, o que não é de se surpreender nos roteiros da trupe de Sandler, sempre recheados de piadas homofóbicas, racistas, sexistas, ou apenas óbvias (como o castigo regular de Hitler: ter algo introduzido em seu ânus; uma ideia digna de um dos "marcos" atuais no humor stand-up brasileiro: Rafinha Bastos).
 
-Trazendo a novata para este mundo através de uma trilha épica com momentos extasiantes logo no primeiro episódio, o estúdio responsável por obras de peso na animação  como Kill La Kill,  Space Patrol Luluco e Inferno Cop não faz feio e nos introduz todos os conceitos que serão usados para desenvolver esta história em breves momentos e detalhes enquanto a ação desenfreada e hilária dá continuidade.
+Já para aquela diversão "comunzinha", há vários efeitos visuais que funcionam bem, como um cão falante, aranhas com a cara de Adam Sandler e um voo estilo Superman que quase consegue realizar uma piada que preste ao brincar com as fantasias Disney do "eu acredito", mas se perde em algum lugar entre o muito ruim e o insuportável. Aliás, boa parte das gags entrarão nessa categoria, então devo alertar que a diversão ou a regressão (mental) é algo completamente subjetivo aqui. Se quiser assistir, boa sorte.
 
-É de se admirar que mesmo usando o cacoete de personagem cômica representada em Akko, Luluco e o alívio cômico de Kill La Kill surgem três personagens notadamente únicas em personalidade, embora detentoras da mesma energia de realização. O mundo assiste alheio às intempéries dessas heroínas modernas e nós nos divertimos com tamanha inventividade e desejo ingênuo de que tudo dê certo no final. E o roteiro nunca pega leve com essas personagens. E diferente dos berros animalescos dos artistas militantes pela representatividade, é por isso que elas valem cada traço de sua verdadeiramente empoderada animação.
-
-Interessante notar a coesão dos universos criados pela Trigger. Em Little Witch Academia existe assim como em Luluco e Kill la Kill as threads que conectam a todos nós e a diferentes mundos. As meninas usam uma espécie de portal para chegar na escola de magia formado por diferentes raios com o mesmo formato e tom dos feitiços das bruxas (e da pedra mágica verde que lhes dá toda magia). Em Kill la Kill é desnecessário até dizer, pois é a síntese daquele mundo ordenado através dos poderes que emanam dos tecidos com que as roupas são feitas. E em Luluco existe a viagem interdimensional. O curioso é o quão simples e genial é essa união de conceitos através de diferentes universos de criação, pois nem é preciso verbalizar para entendermos que uma aventura que se passa em um mundo animado com certeza está conectado com nosso mundo, seja pelas diferentes linhas que irão desenhá-lo ou mesmo pelas diferentes visões de mundo que acabam de uma forma ou de outra se conectando pela arte.
-
-A segunda temporada parece ter começado com gestão Netflix: criaturas mágicas vestindo vermelho e de greve, professora moderna de cabelo curto administrando uma crise de energia, e um roteiro relativamente preguiçoso. Porém, no final há uma reviravolta e pode ser que seja apenas impressão.
+Ah, e temos o bônus da testudinha da Reese Witherspoon, que é a (spoiler?) mãe de Nicky, e ainda jovem no melhor estilo Patricinhas de Beverly Hills (mas sem o lado sensual).
 

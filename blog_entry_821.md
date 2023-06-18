@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-12-20'
+date: '2017-02-05'
 tags:
 - food
-title: Callia Alta Torrontes 2016
+title: Callia Alta Malbec 2016
 ---
 
-Azedo e doce na medida certa. Confraternização BitForge 2017.
+Vinho argentino bom como sempre; frutado no aroma e no sabor; cereja meio geleia; um pouco enjoativo sem acompanhamento. Um pouco mais amargo que o frutado típido do Malbec.
 

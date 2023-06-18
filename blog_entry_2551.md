@@ -1,30 +1,16 @@
 ---
 categories:
 - writting
-date: '2016-12-09'
-link: https://www.imdb.com/title/tt0790663
+date: '2014-12-15'
+link: https://www.imdb.com/title/tt0450278
 tags:
 - movies
-title: O Aluno
+title: O Albergue
 ---
 
-Este é daqueles filmes bonitinhos, com lição de moral, ou lição de vida, que tenta aumentar a trilha sonora solene e emocionante sempre que pode, além de colocar lágrimas nos rostos dos personagens para induzir o espectador ao choro fácil. Choro fácil este que não vem, já que seus personagens não são assim tão carismáticos, e o protagonista, apesar da história de vida sofrida, não possui condições de exprimi-la de uma maneira civilizada.
+Este é um thriller que segue a cartilha básica do grupo de jovens descerebrados que entra em uma enrascada ao procurar prazer carnal no albergue de uma cidadezinha do Leste Europeu. O que eles não imaginavam -- nem teriam como, a não ser que você seja muito preconceituoso a respeito dessa região ex-comunista, portanto, esquecida e miserável -- é que boa parte da pequena cidade está envolvida em um esquema que alimenta o prazer sádico de ricaços em torturar pessoas; especialmente americanos (nem preciso dizer de onde vem os nossos amigos).
 
-Mas o que pode ser um problema para um filme do gênero poderia muito bem ser uma defesa mais que inspirada no aspecto tribal da cultura africana. O filme trata disso, de como as tribos, apesar de rivais, viviam com uma certa harmonia -- ainda que separados e com rivalidade -- antes do homem branco chegar, representado pela Rainha da Inglaterra, e tocar o terror para conquistar e unificar. Fica a dúvida se essa desunião dos povos já existia ou foi mera estratégia do Império Britânico de conseguir aliados locais e chegar rapidamente à vitória.
+O resumo da ópera: toda a sequência que envolve o desaparecimento de cada um deles até o nosso heroi sobrevivente lembra um pouco os filmes trash, mas com a diferença de dispor de um alto orçamento (se não me engano o Tarantino assina a produção). É divertido, pois ao mesmo tempo que não damos muita atenção à dor alheia, os personagens mais caricatos são os tais ricaços, que são mostrados como doentes mentais com ares de complexo de inferioridade. Além disso alguns elementos pseudo-fantásticos são hilários, como o spa compartilhado e uma gangue de garotos com seus dez/doze anos de idade.
 
-Começando como uma fábula lúdica, onde um velho tenta entrar em uma escola aberta para educação primária, o filme já começa demonstrando a estupidez dos governantes, que anunciaram orgulhosos "educação para todos" na mídia -- representada aqui por um locutor de rádio alterado e bem-humorado -- ignorando que não cabem 200 crianças em 50 cadeira em uma sala de aula, e que "todos" inclui... bem, todo mundo disposto a aprender.
-
-Então o roteiro simplista de Ann Peacock demonstra como é desproporcionalmente violenta e sem sentido a revolta geral, não só da população, pais das crianças matriculadas, como do alto escalão responsável por coordenar o investimento em marketing... quer dizer, em educação, repetindo sempre a mesma lengalenga de qualquer governo populista: as crianças são o futuro da nação.
-
-De fato são. Mas qual futuro esperar de crianças que sequer conhecem o seu passado, de seus descendentes? Sem saber de onde veio o sangue que pavimentou as ruas da nova nação fundada à força, vemos como o populismo já alcança níveis absurdos em meio a tanta desigualdade.
-
-E é aí que entra o velho: Maruge.
-
-Interpretado de uma maneira vazia pelo simpático Liver Litondo, Maruge não consegue despertar simpatia por si só, mas apenas através de sua história. O que se torna um paradoxo, já que é a mesma pessoa que viveu os flashbacks que acompanhamos durante o filme, inclusive um trauma fortíssimo que fez com que ele não apenas ficasse com medo de apontadores de lápis, mas sem ouvir direito. Porém, Maruge não é alguém de espírito livre que decidiu aprender coisas novas no fim da vida. É um velho teimoso que quer provar um ponto.
-
-Ponto esse desperdiçado pelo longa ao relativizar os esforços do velho para aprender a ler no último minuto, e banalizado novamente pelo roteiro de Peacock, que enxerga um drama para família com estrutura básica onde reside algo muito mais violento, profundo e politizado.
-
-Este não é um filme para família, apesar de escrito e dirigido para tal. Mas não se pode ensinar as pessoas dessa forma, e nem entrentê-las. Se elas ficam revoltadas pela presença de um velhinho na sala de aula, quanto mais estupidez você acha que encontra nas massas?
-
-Claramente com ideais pseudo-liberais, O Aluno se sabota ao tentar simplificar um tema, e embora tenha um estilo competente, traz uma história fraca como pano de fundo. Fica a sensação de que poderia ser melhor... mas na verdade acho que não.
+A conclusão da história é mais problemática, e força muito uma realidade já distorcida. Tentando rapidamente resumir a questão em uma fuga altamente improvável e com toques de heroísmo, o roteiro depois se encarrega de colocar todas as pessoas envolvidas naquele martírio em posições frágeis que as tornam vítimas fáceis, para pura vingança e deleite do espectador. É uma solução catártica, preguiçosa e inútil, já que obviamente nada mudou para as futuras vítimas.
 

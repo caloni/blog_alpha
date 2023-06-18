@@ -1,28 +1,20 @@
 ---
-categories: []
-date: '2011-01-12'
+categories:
+- writting
+date: '2013-07-21'
+link: https://www.imdb.com/title/tt0265459
 tags:
-- ccppbr
-title: Reunião de programadores C++ (há 5 anos)
+- movies
+title: Retratos de uma Obsessão
 ---
 
-Começo de ano, hora de fazer backup completo. Durante minha cópia anual do gmail acabei encontrando meu post-chamado para nossa primeira reunião C++. Como parte da sessão nostalgia, convido-os, novos e velhos colegas, a continuar a brincadeira de organizar uma reunião informal de pessoas que gostam tanto de programar que criam seus próprios ponteiros.
+Entre tantas coisas que poderiam ser destacadas da performance de Robin Williams como Seymour Parrish, um funcionário de uma hoje extinta reveladora de fotos, o que permanece ao final de Retratos de uma Obsessão são os inúmeros filtros que parecem cobrir sua vida de uma aura tão poética quanto trágica. Esse sentimentos ecoam principalmente através das cores, presentes nas fotos e nas vidas das pessoa para quem trabalha, mas que a ele são negadas. Quer uso mais metafórico da fotografia no Cinema do que a própria fotografia sendo o tema principal?
 
-E-mail escrito em 02/12/2005:
+Dos fregueses de costume, uma família em específico é a "obsessão" de Parrish por anos, e sua dedicação em manter a imagem dessa família no decorrer dos anos é ao mesmo tempo tocante e doentio. Nesse sentido, as expressões de um Williams bem mais contido consegue de maneira eficaz a tarefa de nos manter presos a cada passo seu tentando se aproximar de completos estranhos. Da mesma forma, conforme a história começa a se misturar com seus desejos ocultos de pertencer à família, os abusos das cores azul e laranja começam a fazer sentido nesse mundo pálido.
 
-Um dia desses conversando com o Rodrigo Strauss, falando sobre como é interessante trocar informações e experiências sobre C++, ele teve a brilhante e original idéia (ninguém nunca fez isso antes) de propor encontros razoavelmente regulares para fazermos isso. A idéia dele era mais ou menos essa:
+Já o trabalho do diretor/roteirista Mark Romanek constrói um thriller que oscila bem entre o clássico e a referência. Em determinado momento, um episódio de Os Simpsons mostra uma piada onde é usado o toque de O Cabo do Medo (Scorsese, 1991). Esse toque, além de uma brincadeira inocente, revela os objetivos do filme enquanto metalinguagem.
 
-  * Peridiocidade dos encontros de X em X meses. Ainda não fechamos isso;
-  * X pautas por reunião, votadas pelos participantes. Já temos algumas sugestões como, recursos arcanos do C++ (essa, de acordo com ele, seria minha função), ferramentas, bibliotecas, organização de código etc;
-  * Troca de experiências sobre C++ em diversos sistemas operacionais. Por exemplo, nós mostraríamos para o pessoal de UNIX o Visual C++ e aprenderíamos com eles sobre emacs ou KDevelop;
-  * Começar de forma muito simples, como uma mesa redonda, e se a coisa avançar, arrumar um lugar para palestras e apresentações;
-  * Reuniões em bares ou restaurantes onde possamos conversar, levar acompanhantes e nos sentirmos seguros levando notebooks ou Pockets. Podemos até subir uma rede wifi e aumentar a diversão :-)
-  * Como eu e o Strauss somos de São Paulo (na verdade, eu sou de São Bernardo), os primeiros encontros seriam na capital;
-  * Isso é uma boa desculpa para se encontrar e tomar um chopp || guaraná || cachaça.
+Ainda assim, com todas as desculpas possíveis, é difícil ignorar que o diretor de fotografia Jeff Cronenweth não tenha exagerado um pouco. Mas só um pouco. Todo o resto é útil para a construção do personagem e das situações. A medida do exagero é quando todas essas cores insistem em nos jogar para fora do filme. Ou talvez o ritmo às vezes descompassado, que gera um efeito episódico sem necessidade.
 
-Gostaríamos que as pessoas da comunidade C++ dessem sugestões sobre essa idéia. Estamos pensando em agendar o primeiro encontro para dia 17/12/2005 (sábado) durante a tarde, em um Outback (comida australiana, Shopping Center Norte ou Eldorado, tem infra para crianças e a comida é muito boa). Como pauta do primeiro encontro eu sugiro uma apresentação dos participantes (o que será desnecessário se só eu e o Strauss aparecermos) e uma discussão sobre o presente e o futuro do mercado de trabalho C++.
-
-Coloquem as sugestões nos comentários e quando a gente fechar alguma coisa eu escrevo um novo post com o que definimos. Até lá.
-
-PS: Qualquer semelhança deste post com o conteúdo de um conhecido blog brasileiro sobre programação não é mera coincidência.
+De qualquer forma, nada nos prepara para o final anti-climático, revelador e elegante em sua sutileza (e gritante em seu diálogo final, justo em um filme que na maior parte do tempo não precisa disso). Há algo de inocente nesse thriller enquanto thriller, mas algo de maravilhoso sendo construído com cores e enquadramentos enquanto exercício de estilo. Uma pena que ambos não consigam coexistir com total harmonia.
 

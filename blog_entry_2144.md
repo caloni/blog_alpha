@@ -1,18 +1,13 @@
 ---
 categories:
 - writting
-date: '2011-03-24'
-link: https://www.imdb.com/title/tt0494222
+date: '2022-04-26T22:45:13-03:00'
 tags:
 - movies
-title: Loucos por Nada
+title: Loucos do Coração (Going Places)
 ---
 
-O primeiro trabalho de longa metragem cinematográfico (já havia feito trabalhos para a TV) de Taika Waititi é simpático e divertido de assistir. Talvez pelo fato de uma produção Indie ser simpática pela própria natureza de agradar pelo diferente e pela quebra das amarras hollywoodianas que demarcam o terreno onde as produções dignas de pipoca devem ser produzidas.
+Miou Miou na interpretação mais marcante de sua carreira é a puta de dois bandidos. Um deles é Gerard Depardieu antes de virar um monstro. A personagem de Miou não sente tesão de nenhum dos dois e parece uma boneca sexual perfeita na cama. Até dar para um psicopata e ter seu primeiro orgasmo.
 
-Talvez, porém, seja pela interpretação carismática de Loren Horsley, que faz com que esperemos, no final de uma cena, pelo seu sorriso desconcertado de sua tímida mas ousada Lily. Essa atriz, pelo que pude constatar, ainda está esquecida na distante ilha de Nova Zelândia, onde outra produção 500 vezes mais cara (Senhor dos Aneis) foi produzida.
-
-Mas divago.
-
-O fato é que Loucos por Nada muitas vezes nos arrebata pela criatividade das cenas, ainda que conte uma história que não tem nada de surreal. É apenas um romance entre uma garota tímida e um nerd amargurado. O que eles fazem frente às câmeras transmite tudo que é necessário para entendê-los, juntos e separados.
+Este é um filme de emoções fáceis. Dois capangas meio molengas vão vivendo de golpe em golpe sem medo de ser feliz. Eles assediam mulheres na rua, estão no auge da juventude e não querem trabalhar. Contestam as coisas como elas são roubando os outros. É um filme de contracultura que seria feito por Godard se Godard soubesse escrever e dirigir.
 

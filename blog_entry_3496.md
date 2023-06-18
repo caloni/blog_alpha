@@ -1,23 +1,54 @@
 ---
-categories: []
-date: '2015-08-03'
-tags: null
-title: Sobre debates no SESC Santos
+categories:
+- writting
+date: '2010-12-20'
+link: https://www.imdb.com/title/tt0379217
+tags:
+- movies
+title: Sobre Café e Cigarros
 ---
 
-Esse fds participei de uma rápida ida e volta para Santos para participar de um dia com dois debates de um evento organizado pelo meu editor no CinemAqui, o Vinicius Carlos Vieira.
+Esse é um filme extremamente deprimente, pelas características dos cenários, pela estática das cenas, pela conversinha dos personagens, pelo princípio que os personagens principais, de fato, são os nomes do título. Seguem minhas anotações quando o assisti na época que estudava para ser crítico:
 
-Com um início atribulado por conta da nossa carona, uma taxista que também é artista plástica e que condenava sua situação atual e flertava com a ideia de uma possível oportunidade de virar caminhoneira e viajar o país, talvez o melhor da viagem tenha sido conhecer meu parceiro das críticas em Sampa, o Eduardo Sandrini. Sua lógica e suas opiniões acerca de diversos filmes, além do sempre bom papo sobre Cinema, talvez tenham sido o ponto alto do dia.
-
-Disse talvez porque o debate em que ele participou, o primeiro, sobre crítica na internet, atingiu alguns temas até que relevantes, como o desafio atual da mídia impressa -- e, claro, da mídia virtual -- em conseguir atrair a atenção de um público cada vez mais alheio à cultura e à arte.
-
-Disse talvez também porque, embora instigante, o debate logo denotou seu objetivo paralelo em se tornar uma plataforma de publicidade. No caso, do saite Judao. Nada contra, aliás. Não o conhecia, dei meus 15 minutos (talvez menos) de visita, e foi legal. Bom saber que existe.
-
-Não me levem a mal, não sou desses nerds de HQs, games ou Cinema como plataforma de materialização de sonhos nerds (de HQs). Logo, não sou o público-alvo. Mesmo assim, achei no mínimo estranho um saite que evita comentários, no melhor estilo censura, preferindo deixar as discussões para o lado das redes sociais (que, pelo visto, são quase inexistentes). A ideia de divergir não parece agradar a linha editorial da equipe, e é de respeitar a tentativa de higienizar a opinião (não que fosse louvável).
-
-Mas divago. A questão mercadológica das notícias e da opinião para as massas foi o ponto forte, além da participação de um jornalista da Tribuna dos "velhos tempos". Tudo isso me pareceu bem novo e em um ambiente em que não estou acostumado.
-
-Sobre o Hype nerd, minhas ressalvas são talvez piores. Eu ter aprendido que, além da confusa noção de que o capitalismo é colocado como um bicho à parte, ficar com a noção de que é esperado de geradores de conteúdo cultural por algum motivo que eles estejam alheios ao mundo real, ou boa parcela dele, me parece desonesto. O tal politicamente correto foi citado, e eu até tinha algumas ideias sobre o assunto, embora não me parecesse correto cortar o efusivo colaborador do Judão.
-
-De certa forma, o segundo debate foi superficial em todos os seus meandros, embora o mediador tivesse tentado provocar com perguntas até que interessantes, embora meio repetitivas. Essa questão do capitalismo contra o sei-lá-o-quê-mas-que-precisa-de-dinheiro-também talvez tenha ficado mal explicada por falta de tempo ou elaboração, mas também pode ser um trauma do pessoal de humanas, que estava acostumado há quinze anos atrás, mas hoje vejo com estranheza. Male/male, uma experiência diferente. Havia dito, para o Eduardo, se não me engano, que experiências diferentes são positivas. Hoje, passado o "hype", fico com minhas dúvidas.
+ - Tanto é que em cada início e fim do curta vemos eles, o café e o cigarros, vistos de cima, como os que realmente importam e estão sempre presentes (as pessoas geralmente estão chegando e/ou se despedindo).
+ - O próprio fato do filme ter sido feito em P&B e o café e o cigarro serem, por natureza, dessa cor, realça sua realidade, em detrimento aos personagens.
+ - Uma mesa estilo xadrez e um ambiente decadente. Mais para frente vamos ver que os próprios detalhes do cenário se repetem (como a mesa xadrez), além dos diálogos e os próprios personagens.
+ - Nesse ambiente as paredes estão arrebentadas e o clima é de loucura. Ambos os personagens tremem, por muito café, cigarro, ou ambos.
+ - Vemos café claro (com leite) e escuro. Uma teoria maluca sobre o irmão gêmeo de Elvis Presley contada pelo garçom. Aliás, os garçons do filme são extremamente impertinentes (inclusive Bill Murray), o que mais uma vez demonstra a falta de personalidade dos personagens e sua repetição constante.
+ - Um mexe o café do outro. A visão por cima permanece nessas cenas.
+ - Um copia o estilo do outro.
+ - Vemos uma expressão forçada e ansiosa de quem espera, mais uma repetição de personagem. Aliás, os próprios curtas forçam que os atores sejam breves e marcantes em suas interpretações.
+ - Um oferece café, outro cigarro. Suas opiniões sobre o cigarro mudam rapidamente, uma vez que um encontra o alicerce no outro.
+ - Um jeitão esquisito do músico/médico, repetido no membro do Wu-Tang Clan.
+ - Os cigarros, apesar do usual, possuem, sim, marca: Camel, Malboro, etc.
+ - A "força de vontade" é enfatizada muitas vezes, enquanto eles se entregam ao vício.
+ - Há muitas contradições e absurdos nos personagens. Não só os desse curta.
+ - Sombra na pessoa que reclama, luz na pessoa que se defende.
+ - Uma relação pai/filho baseada no dinheiro para manter o segredo de fumante.
+ - Revista de armas (relacionada ao resto?)
+ - Garçom insistente e impertinente (mais uma vez).
+ - Qual o significado geral da composição? Começamos a perceber uma certa ligação entre as histórias, ou entre o clima delas, ou algo maior.
+ - O P&B, se não me engano, varia de esverdeado para o simples.
+ - Não sabemos o objetivo das pessoas. Elas se encontram para não contar nada de mais (não há nada de errado com a minha vida, só queria ver você).
+ - Talvez o "só queria ver você" fosse uma antropomorfização do café/cigarro, sendo que não há, de fato, um motivo para vê-los, mas os personagens os veem de qualquer jeito. Isso nos dá uma pista que talvez os personagens sejam todos assim.
+ - Aos poucos percebemos que o nível das conversas é gritantemente raso, um small talk no pior dos gêneros. Tudo para que assistamos o café e o cigarro de camarote.
+ - Na mesa, quase sempre há mais xícaras de café do que pessoas.
+ - Talvez a mesa xadrez evoque o próprio cenário que presenciamos, P&B, das pessoas em volta.
+ - Relação entre prima rica (e famosa) e prima pobre.
+ - Mais uma vez garçom impertinente.
+ - Molina interpretando ele mesmo e outro ator também interpretando ele mesmo.
+ - No começo um dá as cartas, no final Molina ganha a atenção que queria (e a rejeita).
+ - Um é visto como o astro da vez, tanto que uma fã, quando o descobre no recinto, apenas o vê, e não Molina.
+ - O absurdo da situação é incrementado quando o outro ator até se esquece do nome completo do Molina.
+ - As expressões dos atores diz tudo sobre essa relação, bem mais que os diálogos, que continuam fracos, mas possuem em sua essência exatamente aquilo que estamos vendo.
+ - Dessa vez o chá toma o lugar do café.
+ - Mais uma vez o músico/médico (e o garçom impertinente: Bill Murray!).
+ - Mais uma vez são todos pessoas conhecidas no show business.
+ - A mesma história de sonhar rápido contada no primeiro curta.
+ - Bill Murray "se disfarçando" de garçom, é o que realmente fuma e bebe café compulsivamente.
+ - As expressões e o diálogo ingênuo de um e as expressões e o diálogo lógico do outro contracenam mais uma vez, como um fechamento que une a primeira história.
+ - A interpretação dos velhinhos é soberba, pois apenas com seu tom de voz, sua maneira de se mexer podemos perceber claramente a tristeza da situação, mas a alegria por trás disso.
+ - A luz é mais escura que em todos os outros, e talvez isso realmente se compare com o primeiro curta, onde tudo é muito claro (luz forte na cara dos atores).
+ - Vemos diálogos e ideias cruzadas de novo (Nikola Tesla e sua ideia da Terra ressonante e o almoço saudável).
+ - No final, temos a sensação de algo muito deprimente. Talvez o efeito do filme como um todo seja de fato o efeito que o café e os cigarros fazem em nossa vida. Eles vão e vêm, passam despercebidos, mas possuem importantes mensagens de vida e morte.
 

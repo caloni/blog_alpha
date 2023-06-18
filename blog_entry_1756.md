@@ -1,120 +1,130 @@
 ---
 
-Here I am doing interview exercise tests at Hacker Rank. I am trying to recap what I've been doing the last two months before going on. Let's see what I learned, starting with the Warm Up exercises.
+The next step after [the Warm Up challenges] are the array challenges. And so I did it. Now I am going to recap what I did and how I did. And what complexity the algorithms have.
 
-# Counting Valleys
+# Array Manipulation
 
-To solve the [counting valleys problem] keep a valley counter that only increments when the hiker is coming up to the sea level. Monitor the altitude and the new altitude and compare. If the altitude was negative (into a valley) and the new altitude is zero (sea level) then that's a new valley to count. This strategy avoid to count valleys inside valleys before the hiker gets up to sea level.
+To solve the [array manipulation problem] ChatGPT helped me with the code. Now in the review I realized [how segment trees work] and how binary trees can be implemented using arrays.
 
-This solution has a complexity of O(n).
+The issue about this problem is that summing up intervals costs too much processing to large intervals. In order to do that, segment trees help, since its nodes contain the sum of all its nodes bellow. This way, to get the sum of determined intervals all we need to do is to get the bigger intervals and sum it up.
 
 ```
-int countingValleys(int steps, string path) {
-    int valleys = 0;
-    int altitude = 0;
-
-    for (int s = 0; s < steps; ++s)
-    {
-        int step = path[s] == 'D' ? -1 : 1;
-        int newAltitude = altitude + step;
-
-        if (altitude < 0 && newAltitude == 0)
-        {
-            valleys++;
-        }
-        altitude = newAltitude;
+// Segment tree to array manipulation implementation
+long query(int node, int left, int right, int pos, const vector<long>& tree) {
+    if (left == right) {
+        return tree[node];
     }
-
-    return valleys;
-}
-```
-
-# Cloud Jump
-
-To solve the [cloud jump problem] create a loop and advance current position until finished. Try the double jump at first and ordinary jump else by incrementing position by 1 or 2 and incrementing jump counter. If in the end position just increment and get out of the loop. Return the jump counter.
-
-This solution has a complexity of O(n).
-
-```
-int jumpingOnClouds(vector<int> c) {
-    int jumps = 0;
-    size_t i = 0;
-
-    while (i < c.size()) {
-        if (i < c.size() - 2 && c[i + 2] == 0) {
-            i += 2;
-            ++jumps;
-        }
-        else if (i < c.size() - 1) {
-            i += 1;
-            ++jumps;
-        }
-        else {
-            i += 1;
-        }
-    }
-
-    return jumps;
-}
-```
-
-# Repeated Strings
-
-To solve the [repeated string problem] we count the 'a' occurrences for the full unique string and divide n by the size of the unique string size, getting the number of times we need to multiply the full occurrences.
-
-For the partial string after the number of full unique strings we format this string and count independently this last part.
-
-The total of occurrences is calculated multiplying the times there will be full unique strings and sum up the partial string 'a' occurrences.
-
-This algorithm has a complexity of O(n) because we got to count every char.
-
-```
-long repeatedString(string s, long n) {
-    long fullOccur = (long) count(s.begin(), s.end(), 'a');
-    long fullMult = n / s.size();
-    string partialStr = s.substr(0, n % s.size());
-    long partialOccur = (long) count(partialStr.begin(), partialStr.end(), 'a');
-    return fullOccur * fullMult + partialOccur;
-}
-```
-
-# Sales by Match
-
-To solve the [sales by match] problem we traverse all the array of socks and keep inserting and deleting a set of colors. If the current color is not found in the set we insert it. If the current color is found we increase a pair counter and remove the color from the set. The next time the same color appears it will be inserted again waiting for its pair.
-
-The complexity of this solution is O(N), since we have to traverse all array of socks.
-
-```
-int sockMerchant(int n, vector<int> ar)
-{
-    int ret = 0;
-    set<int> colors;
-    for (int color : ar)
-    {
-        if (colors.find(color) != colors.end())
-        {
-            ret++;
-            colors.erase(color);
-        }
+    else {
+        int nodeLeft = 2 * node;
+        int nodeRight = 2 * node + 1;
+        int middle = (left + right) / 2;
+        if (pos <= middle)
+            return tree[node] + query(nodeLeft, left, middle, pos, tree);
         else
-        {
-            colors.insert(color);
-        }
+            return tree[node] + query(nodeRight, middle + 1, right, pos, tree);
     }
-    return ret;
+}
+
+void update(int node, int left, int right, int posLeft, int posRight, int value, vector<long>& tree) {
+    if (posLeft > posRight) return;
+    if (posLeft == left && posRight == right) {
+        tree[node] += value;
+    }
+    else {
+        int nodeLeft = 2 * node;
+        int nodeRight = 2 * node + 1;
+        int middle = (left + right) / 2;
+        update(nodeLeft, left, middle, posLeft, min(posRight, middle), value, tree);
+        update(nodeRight, middle + 1, right, max(posLeft, middle + 1), posRight, value, tree);
+    }
+}
+
+// Solution
+long arrayManipulation(int n, vector<vector<int>> queries) {
+    int m = queries.size();
+    vector<long> t(4 * n); // room for binary tree
+
+    for (int i = 0; i < m; i++) {
+        int l, r, x;
+        l = queries[i][0];
+        r = queries[i][1];
+        x = queries[i][2];
+        update(1, 1, n, l, r, x, t);
+    }
+
+    long max_val = 0;
+    for (int i = 1; i <= n; i++) {
+        max_val = max(max_val, query(1, 1, n, i, t));
+    }
+
+    return max_val;
 }
 ```
 
-[cloud jump problem]: https://www.hackerrank.com/challenges/jumping-on-the-clouds
-[counting valleys problem]: https://www.hackerrank.com/challenges/counting-valleys
-[repeated string problem]: https://www.hackerrank.com/challenges/repeated-string
-[sales by match]: https://www.hackerrank.com/challenges/sock-merchant
+# Left Rotation
+
+To solve the [left rotation problem] in C++ is somewhat easy, since there is already an algorithm in STL to do that: `std::rotate`. Anyway, I didn't know that before my first implementation, that was to create a new vector and copy the old vector to the new one obeying the new positions.
+
+However, the last version of the solution of this issue was using the `std::rotate` function, that is a simple, elegant algorithm:
+
+```
+template <class ForwardIterator>
+  void rotate (ForwardIterator first, ForwardIterator middle,
+               ForwardIterator last)
+{
+  ForwardIterator next = middle;
+  while (first!=next)
+  {
+    swap (*first++,*next++);
+    if (next==last) next=middle;
+    else if (first==middle) middle=next;
+  }
+}
+```
+
+The logic is to swap from left to right, leveraging the end part of the vector to making the swaps. The rightmost point is called next and begins in the middle point. The leftmost point is the first point. When the next point reaches the end it go back to the middle point again, because the last element was moved already and the middle now contains the original first elements that was swaped. If, however, the leftmost point reaches the middle point before the next point reaches the end, the middle point changes to the next point, what means the point where first and middle meet is changing to the next point, making the first to chase the middle point until all rightmost elements be exchanged with it, using the next as a moving buffer. The same logic is repeated until first and next point meet.
+
+{{< image src="std_rotate.jpg" >}}
+
+So the solution changed from this:
+
+```
+// Solution
+vector<int> rotLeft(vector<int> a, int d) {
+  vector<int> ra(a.size());
+
+  auto it = a.begin();
+  advance(it, d);
+  copy(it, a.end(), ra.begin());
+
+  auto it2 = ra.begin();
+  advance(it2, a.size() - d);
+  copy(a.begin(), it, it2);
+
+  return ra;
+}
+```
+
+To this:
+
+```
+// Solution
+vector<int> rotLeft(vector<int> a, int d) {
+  rotate(a.begin(), a.begin() + d, a.end());
+  return a;
+}
+```
+
+[array manipulation problem]: https://www.hackerrank.com/challenges/crush
+[left rotation problem]: https://www.hackerrank.com/challenges/ctci-array-left-rotation
+[the Warm Up challenges]: {{< ref hacker-rank-warm-up >}}
+[how segment trees work]: {{< ref segment-tree >}}
 
 ---
 categories:
-- writting
-date: '2011-11-19'
-link: https://www.imdb.com/title/tt0113243
+- coding
+date: '2023-04-16'
+link: https://www.hackerrank.com/interview/interview-preparation-kit
 tags:
-- movies
-title: Hackers
+- interview
+title: Hacker Rank Warm Up

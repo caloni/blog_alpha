@@ -1,26 +1,58 @@
 ---
-categories:
-- writting
-date: '2016-05-08'
-link: https://www.imdb.com/title/tt0238380
+categories: []
+date: '2008-03-29'
 tags:
-- movies
-title: Equilibrium
+- ccppbr
+title: 'EPA-CCPP 4: nossa comunidade ganhando forma'
 ---
 
-Equilibrium é um filme que sofre do próprio efeito afetado de seus personagens, pertencentes a uma espécie de paródia de "1984" a respeito de um futuro distópico onde é proibido sentir. Se o sentir para os personagens é algo natural, transformar isso em linguagem cinematográfica é um desafio que o diretor/roteirista Kurt Wimmer topa conduzir, gerando no processo resultados mistos.
+Nesse último sábado ocorreu mais uma vez, como todos sabem, o Encontro de Programadores e Aficionados por C++, (in)formalmente apelidado de EPA-CCPP, de acordo com algumas conversas da nossa lista de discussão.
 
-Especialista no roteiro em thrillers de ação (O Vingador do Futuro, Salt), Wimmer não consegue evitar transformar uma reflexão até que interessante sobre uma humanidade que teme sucumbir a uma quarta guerra mundial (sim, houve uma terceira) em um... thriller de ação. Vestindo Christian Bale como um padre mortal, o "alto-clero" dessa sociedade coletivizada, menos coletivizada como abelhas programadas geneticamente, mais como frutos de mais um delírio autoritário, e os símbolos dessa nova nação, diga-se de passagem, lembrando na cor e no formato o nazismo, o que não poderia ser menos óbvio, é natural que cenas estilizadas surjam, fruto do treinamento militarizado e, ironicamente, individualizado do personagem de Bale.
+Mais uma vez, temos que dar uma salva de palmas e agradecer de coração a todos que colaboraram direta ou indiretamente para a realização do evento, que teve uma qualidade ainda maior que o último encontro.
 
-Apresentando de maneira totalmente maniqueísta essa realidade, na forma de discursos e exposições nada naturais -- como se fosse rotina na vida dessas pessoas reafirmar a mesma coisa todos os dias -- a necessidade de não sentir é conseguida com uma espécie de droga que inibe a parte mais instintiva do ser humano. Dessa forma, apenas quem está no poder é que, naturalmente, irá conseguir sentir algo. Sim, sempre há alguém no poder, não seguindo as próprias regras que este impõe.
+E por falar em qualidade, as palestras dessa vez foram ricas em informação e diversidade, pois demonstraram diferentes visões que as pessoas possuem sobre a mesma coisa, que é o uso das linguagens C e C++ na vida real sobre alguma aplicação específica.
 
-Christian Bale é o astro da vez, conseguindo transformar um personagem nada interessante em um ser enigmático, onde suas ações nunca são claras, mas se tornam ainda menos claras quando este decide, devido as circunstâncias, parar de tomar a tal droga. Com isso, surge um thriller de mistério, pois ser pego é algo tão inevitável nesse mundo que a tensão toda se desdobra em torno de quando será esse momento.
+Infelizmente cheguei um pouco atrasado por problemas de localização (me perdi geral), mas consegui pegar a parte mais divertida da palestra do Strauss: o código.
 
-Aliás, nunca se sabe se a trilha sonora dramática remete à situação que a humanidade chegou para inibir seus próprios instintos, ou se é a dor interna do protagonista, dor essa representada lindamente em um momento e uma sequência onde simplesmente não consegue se livrar de um cachorro.
+## TCP/IP via Boost.Asio (Rodrigo Strauss)
 
-A seriedade com que o tema é tratado, toda a solenidade envolvida na trilha sonora, toda a sisudez nas formas geométricas que formam os ambientes internos e externos daquele mundo, todos os tons monocromáticos das roupas de seus habitantes, altamente impecáveis. Tudo isso não impede que o filme foque constantemente em brincar com a situação de uma forma completamente inapropriada, tentando inserir o humor onde é muito difícil encontrá-lo. Por conta disso, há bons momentos no filme, mas pouco se aproveita. Ainda assim, ele nunca deixa de ser interessante. Mesmo que tenhamos que passar pelas mesmas situações duas ou três vezes (incluindo aquele momento que Bale mata todos à volta).
+De uma maneira bem clara e direta, o palestrante nos mostrou como usar uma biblioteca de comunicação em redes feita de modo portável e extremamente antenada com o pensamento C++/STL de fazer as coisas. Partindo de um ponto de vista prático, deu dicas importantes para os iniciantes que desejarem começar a utilizá-la e passar mais facilmente pelo caminho das pedras que é aprender novas maneiras de fazer as mesmas coisas.
 
-No entanto, ao chegar no terceiro ato, o clichezão básico de passar por vários capangas necessariamente -- para a ação se revelar melhor do que no resto do filme -- soa tão clichê, que simplesmente desistimos de acompanhar o drama e passamos a apreciar o casamento do Tarantinesco e o Orweliano.
+Na verdade, foi além, pois ao exemplificar seu uso no código do dia-a-dia chegou a usar um projeto próprio com dezenas de CPPs e centenas (milhares?) de linhas de código utilizando 100% boost para a comunicação em rede, sendo compilável e rodável nos ambientes Windows e Linux.
 
-Interessante por suas ideias, que logo são deixadas de lado, e mais interessante pela beleza estética de suas cenas de luta, Equilibrium tenta instigar algo mais do que um thriller de ação, mas, assim como Vingador do Futuro (o remake), está mais focado em impressionar ativamente do que deixar o espectador respirar um pouco e ter algumas ideias de sua própria cabeça.
+## Programação em C para microcontroladores (Daniel Quadros)
+
+Estava particularmente interessado nessa palestra para entender alguns truques e jogos-de-cintura necessários para utilizar a linguagem C em ambientes tradicionamente limitados em memória e poder de processamento. E, posso dizer, saí satisfeito.
+
+O panorama traçado por DQ dos inúmeros tipos de microprocessadores, suas "linhagens" e diferentes arquiteturas nos permitiram entender as dificuldades em implementar e usar um compilador C para programar em sistemas embarcados. Mais ainda, fez ver a importância de, antes de programar, entender de fato como o hardware funciona para daí pensar em fazer algo útil com ele.
+
+Ao final, um destaque especial para os conselhos finais sobre o desenvolvimento nessa área. Um conselho em específico ficou na minha mente, pois acredito que seja de extrema importância não só para sistemas embarcados, como para todo tipo de desenvolvimento: sempre pense em como será a depuração do sistema no projeto e em campo. Nunca se sabe onde e como o bug poderá ocorrer. Que ele existe, todos sabemos.
+
+## Desenvolvimento cross-platform em C++ com Qt (Basílio Miranda)
+
+Algumas coisas que me impressionaram na palestra anterior sobre wxWidgets me impressionaram mais ainda pelas explicações do funcionamento do Qt em suas diversas plataformas suportadas. Aos poucos entendemos que desenvolver frameworks de ambiente gráfico multiplataforma nem sempre é aquela coisa bonita e abstrata que imaginamos possível de fazer com as maravilhas da linguagem C++. No fundo, muitas das coisas relacionadas com o funcionamento do núcleo desses sistemas é feito com alguns "remendos" sintáticos e semânticos que só os projetistas devem realmente saber explicar o porquê.
+
+Por outro lado, o cuidado com a documentação e com os exemplos do ambiente Qt confortaram bastante o entusiasta que deseja explorar esse outro mundo de janelas além-Microsoft. Para os que reclamam do preço abusivo da licença da versão comercial, pode ser um alívio saber que projetos desenvolvidos com a licença GPL estão isentos de taxas, mesmo que comercializados. É uma questão de testar, medir e escolher alguma das alternativas.
+
+## Arquitetura e desenvolvimento de _drivers _com C para Windows (Fernando Silva)
+
+Voltando para o mundo microsoftiano, o foco da palestra do Fernando foi explicar os princípios básicos por trás do funcionamento do sistema operacional Windows desde a época que ele era um prompt do DOS. Como pudemos ver, essa é uma condição sine qua non para o desenvolvimento de drivers para essa plataforma, visto que são componentes que interagem diretamente com o sistema operacional, de código fechado, e muitas vezes com o hardware, uma caixinha de surpresas.
+
+Entre outras coisas, vimos como funciona a divisão entre os modos usuário e kernel, qual a organização da memória virtual, a importância dos níveis de prioridade de thread no desenvolvimento de drivers e, é claro, como podemos começar a desenvolver drivers desde já e gerar aquelas bonitas telas azuis.
+
+Ao final pudemos ver que foi um tema que gerou interesse especial do grupo, pois houve várias perguntas, como por exemplo se existe uma maneira de proteger o sistema operacional dos drivers (isso poderia gerar um artigo). Imagino que a palestra foi direto ao encontro do espírito do evento, que falou principalmente sobre o que cada um de nós faz com C/C++. Muito provavelmente temos uma montanha de assuntos diferentes e complementares que poderão ser cobertos nos próximos encontros.
+
+## Sorteios, mais eventos e agradecimentos
+
+No final, tivemos uma série de sorteios de livros-referência em C++, convites para o seminário C++ e algumas licenças de software. Por isso é importante lembrar aos que saíram antes que poderiam ter ganhado mais conhecimento, para que da próxima vez tentem apertar apenas mais um pouco seus compromissos.
+
+Além das palestras, tivemos o relato de Fábio Galupo sobre o que foi o SD West 2008, o evento que reuniu alguns gurus do C++ para discutirem, entre outras coisas, o futuro da linguagem. Entre outras tantas coisas interessantes que ele nos trouxe, achei duas particularmente interessantes.
+
+A primeira diz respeito à importância do bom uso de interfaces entre os programadores C++. Esse foi um tema levantado por Bjarne Stroustrup em uma de suas palestras, e é de fato algo preocupante em nossa linguagem, que não possui ainda uma organização tão produtiva quanto outros grupos de desenvolvedores.
+
+A segunda diz respeito à necessidade de aprendermos outras linguagens. Na posição de desenvolvedores de sistemas que vão interagir com o mundo afora, é de suma importância que conheçamos nossos vizinhos mais próximos: desenvolvedores da camada acima que irão aproveitar o nosso código rápido e leve.
+
+Após isso, ainda tive uma das mais felizes surpresas da minha vida: ganhei um exemplar do The C++ Programming Language, Special Edition, assinado por Bjarne Stroustrup!!! Foi um momento tão estupefato que nem sei direito o que eu fiz naquela hora, além de me levantar, agradecer mal e porcamente meus amigos da bancada (eu sei que para um presente desses não existe maneira de agradecer o suficiente), pegar meu livro e sentar novamente, ainda um pouco atordoado. Essas supresas podem matar!
+
+Aproveito o final deste artigo para mais uma vez agradecer toda a organização do evento e, por que não, a todos da comunidade que puderam participar. Como alguém bem disse mais uma vez, a comunidade somos nós, e não um ou outro que costumam ser o porta-voz de nossos movimentos. Portanto, a todos que usam C e C++ de alguma maneira em algum momento de suas vidas, sintam-se honrados de participar do seleto grupo do EPA. Nós merecemos.
 

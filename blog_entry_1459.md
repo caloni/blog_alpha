@@ -1,25 +1,21 @@
 ---
 categories:
 - writting
-date: '2020-02-14'
-link: https://www.imdb.com/title/tt11388406
+date: '2016-10-20'
+link: https://www.imdb.com/title/tt3365280
 tags:
 - cinemaqui
 - movies
-title: Entre Realidades
+title: Entre Linhas
 ---
 
-Entre Realidades tem cara de independente e hipster. Foi escrito pela atriz Alison Brie e pelo diretor Jeff Baena, que ficou conhecido pelo ótimo Vida Após Beth, com Aubrey Plaza. Filmado pela Netflix em Los Angeles, faz pensar em como qualquer tipo de espectador hoje em dia é um espectador de streaming. (Essa frase foi escrita antes da pandemia do Corona Vírus, mas agora é sério e literal, pelo menos nas próximas semanas: todo espectador é um espectador de streaming. Por favor, fiquem em casa.)
+Entre Linhas ensaia ser pretensioso, ou de alguma maneira intrincado. Porém, para que isso aconteça, é necessário que seus personagens tenham algo a dizer além de questões existenciais sobre relacionamentos. E mesmo que fôssemos elogiar sua emaranhada montagem, que preza por idas e vindas entre dois namorados muito parecidos da protagonista, isso se torna impossível a partir do momento que percebemos que não se trata de descobrir um motivo para o vai-e-vem temporal, mas de ser diferente pelo simples prazer de ter mais personagens a dizer frases aleatórias sobre a vida.
 
-O conceito é vago, quase inexistente. Mexe com o consciente de uma pessoa cujo inconsciente navega por experiências que estão no imaginário popular, mas que nunca sobem à superfície como um discurso realista. Quem o faz é chamado de maluco, e este é um filme sob o ponto de vista de uma maluca.
+E, se formos notar, o próprio filme entrega sua mediocridade em uma produção em estilo independente, que mistura uma trilha sonora tensa de mistério com uma fotografia televisiva, personagens na contra-luz e, como já disse, uma montagem que não é necessariamente confusa; apenas irrelevante.
 
-Essa maluca é Alison Brie, que não usa quase nada do seu já esgotado charme da série Community. Brie protagonizou recentemente a série de luta livre GLOW (também pela Netflix) e anda perdendo uma espontaneidade meticulosa que a tornava pelo exagero uma persona única. Esta persona seria útil aqui.
+Irrelevante pelo menos para a história que deseja contar. É sobre um diretor de teatro (Harry Hamlin) e uma escritora, Jacqueline (Irina Björklund), construindo uma peça sobre os próprios relacionamentos da autora, ou são relacionamentos fictícios vivenciados por ela como em primeira pessoa (que pode estar montando um personagem através de diferentes impressões de relacionamentos). No final das contas, isso não importa, já que seus namorados são galãs tirados de telenovelas, o que torna as comparações insípidas. Um gosta de velejar sozinho por longos dias; outro teve problemas na justiça e tenta se reabilitar através de sua arte. Esse segundo até gera algumas questões interessantes, como a incapacidade de Jacqueline de viver sob o mesmo teto com outro criador (artístico). Além disso, Jack tem uma amiga que tem um cachorro e com quem discutem esses relacionamentos e questões mais genéricas, como traição. Daí você me fala: isso tem ou não tudo a ver com uma telenovela mexicana cult?
 
-Cores leves e um tema pesado acompanham a rotina de Sarah, que trabalha em uma loja de tecidos e não tem amigos. Ela tinha uma égua, mas algo aconteceu que a fez perdê-la. Ela tinha um namorado, mas já faz um tempo. E ela tinha uma mãe depressiva que se matou no ano passado. É, as coisas não andam muito boas para Sarah.
+Para piorar, há um flerte sempre no ar entre diretor/roteirista que beira o clichê, mas que o atinge completamente quando começam os testes com a atriz que  fará a heroína no teatro. Não por acaso, o narrador de tudo isso é o próprio diretor, que começa toda essa elucubração ao observar os atores em cena junto de sua roteirista.
 
-O plot acaba sendo que todos sabem que ela é maluca e isso é usado como a muleta para entendermos todo o filme de outra maneira, ou pelo menos sob outro prisma: o prisma dos insanos. Porém, essa insanidade, quando vem, chega atrasado, quando já estamos preparados para o inevitável: essa história não terá respostas fáceis. Mas pior que isso é não nos importarmos mais com o destino da heroína.
-
-Lutando contra a malucofobia em tempos em que é necessário tolerância até para quem crê que o planeta é plano, Entre Realidades abraça todas as formas de enxergar o mundo. Inclusive em como os alienígenas estão envolvidos com a humanidade, desde a construção das pirâmides até o uso de clones como termômetros humanos.
-
-Mas tanta tolerância tem um custo: este não é um filme engraçado, mesmo que em uma finada locadora fictícia ele possa ser colocado na prateleira de comédia. Filmes sobre pessoas que criam unicórnios não são mais engraçados a partir do momento que precisamos respeitar a maluquice alheia. Porém, veja pelo lado bom da vida: torcemos para que Sarah consiga finalmente o que quer, mesmo que saibamos de fato se o que ela quer é verdade, nem se vale a pena.
+O que salva parcialmente a experiência é que ele pode ser visto como um longa metragem rápido. O que não o salva é se você perceber que no fundo é um curta-metragem, quase um conto, extremamente longo. Nesse caso, apenas desejo que você goste de novelas.
 

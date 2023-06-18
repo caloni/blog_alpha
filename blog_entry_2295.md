@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2019-01-28'
-link: https://www.imdb.com/title/tt0128853
+date: '2021-03-27'
+link: https://www.imdb.com/title/tt0238924
 tags:
 - movies
-title: Mens@gem Para Você
+title: Meninos de Deus
 ---
 
-20 anos depois, essa revisita a Mens@gem Para Você demonstra que este filme bonitinho continua bonitinho. E hoje ele é nostálgico. Nos mostra a conexão discada da AOL que os nova-iorquinos mais abastados tinham na época. Mostra Nora Ephron filmando espaços na própria Nova York que ela estava morrendo para filmar. Por fim, mostra dois atores conhecidíssimos de comédia romântica fazendo mais um filme juntos. Adivinha qual dos dois continua fazendo filmes? Acertou: o homem.
+Este filme de 2002 ainda cheira a anos 90. O padre interpretado por Vincent D'Onofrio fuma em plena igreja e não lembra em nada um padre, exceto que suas bolas ficam bem presas na presença da Jodie Madre Superiora Foster.
 
-A história é uma continuação espiritual de um filme de Ernst Lubitsch de 1940, A Loja da Esquina. Ambos os filmes se baseiam em uma peça do dramaturgo austro-húngaro Miklós László. Nora Ephron dá uma atualizada, claro, mas a base é a mesma: casal troca mensagens por correspondência sem nunca se verem e não sabem que já se conhecem pessoalmente. No caso a atualização de Ephron é com respeito a trocarem emails, o que é uma necessidade no filme.
+D'Onofrio fez o alienígena mais famoso do primeiro MIB. Era ele que se incomodava quando alguém matava uma barata. Ele é parte de um elenco talentoso deste comercial quase enlatado americano. Está na companhia do irmão de Macaulay Culkin, a própria Jodie Foster (ainda que no automático) e Jena Malone, que é a única que eleva a experiência em algo que lembra mais um drama adolescente, embora o próprio filme não leve isso a sério. O que é bem estranho e incômodo se formos pensar que há incesto e morte na história.
 
-Isso porque ele fala sobre a modernização do mundo. Ele, Joe Fox (Hanks), é um empresário malvadão que abre mega-stores pelos bairros vendendo livros a preços acessíveis para a população e que elimina todo o serviço pessoal e impagável dos funcionários da pequena livraria do local (chamada em homenagem de A Loja da Esquina, apesar de não estar na esquina). Essa pequena e secular livraria é mantida por sua herdeira, na pele de Meg Ryan, que vai aos poucos entendendo que a única coisa que a fazia lembrar de sua falecida mãe terá que ser fechada.
+Se aproveitando do formato jovens fazendo besteira e desafiando a autoridade da escola religiosa onde estudam, Meninos de Deus ainda possui a péssima ideia de usar os desenhos de Todd McFarlane como o imaginário desses adolescentes espinhudos, que se unem para desenhar e escrever histórias quase depravadas sobre seus super-heróis como seus alter-egos. O filme vai traçando um paralelo como se houvesse um traço unindo as histórias, mas é apenas uma ideia boba. Distrai, mas não de um jeito bom.
 
-Este é um filme bonitinho, que tem ótimas atuações, mas que infelizmente é uma comédia romântica, e que no final terá que forçar uma situação para fazer o casal principal terminar junto. É uma pena, pois a história seguia por um caminho natural tão mais poético e realista que manteve sua força quase até os últimos momentos, quase como uma outra triste mensagem: as histórias ricas e independentes estão cada vez mais perdendo terreno para a fórmula fácil e decadente de uma comédia romântica.
+Já a história envolvendo a personagem de Jena Malone (Contato, Jogos Vorazes, Sucker Punch) é a que melhor nos transporta para as incertezas e medos de uma vida sexual que começa de um jeito torto. Malone escolhe o garoto mais bonitinho para compartilhar seus anseios, e todos nós sabemos por quê, menos o garoto. Talvez nem o filme saiba direito por quê, pois traduz os sentimentos adolescentes do ponto de vista de um. Mas não importa. O sorriso de Jena é o suficiente para elevar a sub-trama.
 
-Rest in peace, internet discada.
+Outro ator talentoso é Kieran Culkin, mais até que seu irmão, o astro-mirim de Esqueceram de Mim. Ele possui o autocontrole de seu sorriso irônico e é bem aproveitado em dois momentos tensos sobre a morte. É o personagem masculino que mais levamos a sério.
+
+A direção de Peter Care é automática demais para deixarmos nossas mentes trabalhando durante o filme. Ele entrega o serviço, mas não é caprichado como seu trabalho em videoclipes. Há algo que incomoda o diretor neste material que tem tudo para ser sensível e profundo, mas que acaba sendo uma história sobre como ignorar os reais problemas da vida nessa fase jovem.
 

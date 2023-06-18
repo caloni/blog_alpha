@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-07-27'
+date: '2019-01-04'
 tags:
 - beer
-title: Colorado Indica Pale Ale
+title: Colorado ICI 02 French IPA
 ---
 
-Amarga no ponto, corpo médio pra forte. Acompanhou bem as azeitonas pretas pós-hambúrguer com chips de batata-doce. Amarga ligeiramente acima do ponto, corpo médio pra forte. Acompanhando batatas ao forno com bacon, salsichão e alho.
+O chope é amargurado na medida com lúpulos aromáticos franceses, o que a torna menos amarga (porque franceses são bixas) mas mais fácil de beber sozinha, o que lhe dá um ótimo atrativo para esse verão dos infernos em terras tupiniquins.
 

@@ -1,59 +1,15 @@
 ---
 categories:
-- coding
-date: '2016-09-05'
-tags: null
-title: unit-menos-menos
+ - reading
+date: '2023-06-15T21:24:12-03:00'
+draft: true
+tags:
+ - books
+title: Unabomber Manifesto (Theodore Kaczynski)
 ---
 
-Fazer o setup inicial de testes unitários em seu projeto C++ pode ser algo enfadonho se você precisa baixar e compilar uma lib do Google ou do Boost. Há uma alternativa mais leve e bem direta, que um dia apareceu nesses CodeProject da vida, mas que hoje está, até onde eu vi, no [GitHub](https://github.com/gcross/unit--).
+Theodore Kaczynski, conhecido como Unabomber, apareceu morto esses dias em sua cela. Ele estava preso pagando uma pena maior que a vida. Em sua época gloriosa ele forçou um jornal a publicar seu manifesto, um livro com centenas de parágrafos explicando o porquê da revolução industrial ter sido um desastre para a raça humana e como o futuro não deve ser melhor.
 
-E como se faz para começar a montar os testes unitários? Bom, suponha que você tenha um projeto qualque que já compila, roda e faz alguma coisa de útil:
+Eu não conhecia seus pensamentos e comecei a ler. Me interessei muito, não consegui parar. Sua didática e argumentação são melhores que a maioria do conteúdo da mídia atual. Se trata de um ensaio sobre sociedade e política amplo e ousado. Ele monta suas hipóteses sobre a conhecida doença do esquerdismo, e toma o cuidado de abrir ressalvas de que não se trata de atacar a opinião da esquerda, mas o seu psicológico, e como isso é um sintoma de algo maior.
 
-{{< image src="HjYVkyp.png" caption="" >}}
-
-Apenas crie um projeto do lado, console, ou copie e cole o projeto, mas use os arquivos-fonte do projeto original. Dessa forma ele irá compilar com os fontes que estão sendo modificados/compilados.
-
-{{< image src="NT2C1SC.png" caption="" >}}
-
-Apenas se lembra de não incluir o módulo que contém o int main. Esse módulo deve ficar apartado do projeto principal.
-
-Depois basta incluir apenas um arquivo do projeto unit--, que é seu cpp principal.
-
-{{< image src="P8bEvns.png" caption="" >}}
-
-Com isso existirá um main lá dentro, definido em algum lugar. E tudo o que você precisa fazer é ir criando seus testes em outro arquivo fonte gerado para isso. O corpo e o formato dos unit cases é bem simples. Note que tudo que você fez para já sair testando seu projeto foi copiar um projeto já existente e inserir um módulo de outro projeto. Tudo compilando junto e já podemos fazer os primeiros testes do programa original (desde, claro, que ele seja testável, algo primordial):
-
-```
-// Precisamos definir uma suíte de testes.
-testSuite(DayToDayTests)
-
-// Se eu digito uma linha, ela deve estar no arquivo daytoday.txt.
-testCase(GetUmaLinha, DayToDayTests)
-{
-    //...
-    bool lineOk = TestAlgumaCoisa();
-    assertTrue(lineOk);
-}
-
-// Se eu digito duas linhas, ambas devem estar no arquivo daytoday.txt.
-testCase(GeraDuasLinhas, DayToDayTests)
-{
-    //...
-    bool lineOk = TestOutraCoisa();
-    assertTrue(lineOk);
-}
-```
-
-E assim por diante. O resultado é que quando você roda o executável de teste, ele execute toda a bateria e já te entregue todos os casos que você deseja testar, sem frescura:
-
-```
-......
-OK
-Total 6 test cases
-0 sec.
-Press any key to continue . . .
-```
-
-E voilà! Sistema de teste unitário pronto e rodando. Agora cada nova situação de erro ou que você precise validar, basta escrever um novo teste. Se esse projeto ir se tornando algo muito maior, a transição para testes unitários mais parrudos é apenas um regex. No momento, foque em codificar e testar muito bem o que está fazendo.
 

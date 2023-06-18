@@ -1,21 +1,17 @@
 ---
 categories:
 - writting
-date: '2012-06-10'
-link: https://www.imdb.com/title/tt0059578
+date: '2018-10-28'
+link: https://www.imdb.com/title/tt8804436
 tags:
+- cinemaqui
 - movies
-title: Por uns Dólares a Mais
+title: Por Que Somos Criativos?
 ---
 
-Continuação de [Por um Punhado de Dólares] e apenas um ano após a produção original, Por uns Dólares a Mais concebe o universo do faroeste de uma maneira mais aventureira e empolgante que seu precursor. Dessa vez há duas figuras principais. O Homem Misterioso de antes já não é mais tão misterioso assim. Possui um nome: Manco. E possui uma função: é caçador de recompensas. Aliás, uma consequência mais que natural do que vimos no primeiro filme, pois se há tantos fora-da-lei espalhados pelo oeste faz sentido que a polícia precise de oportunistas para capturá-los.
+"Por Que Somos Criativos?" é assim: imagine o diretor Hermann Vaske coletando testemunhos e assinaturas por várias décadas para responder uma pergunta que ele próprio não deve ter entendido até agora. Pois bem. Agora ele tem "rolos e rolos" de filme com essa história. O que ele faz? Junta tudo em um documentário que responde uma questão que ninguém nunca fez porque não faz o menor sentido (exceto artistas, talvez). O resultado é um emaranhado de nada cercado de celebridades que irão alavancar o filme às custas de suas imagens e seus possíveis insights.
 
-Agora existem prisões, onde os que ainda não foram mortos aguardam. Um deles, Índio, é além de um cruel assassino, líder de uma gangue de assaltantes. Seu estilo doentio revela o crescente em cima da persona dos vilões, assim como com o Coronel Douglas Mortimer e seus apetrechos de caça. Ele também captura e mata procurados, apesar de aparentemente não precisar de dinheiro. Ambos são caricaturas desse universo, por isso seus nomes são tão "cool". E por isso ambos carregam um significativo relógio. Uma cena de duelo é anunciada por uma música singela que sai desse relógio; seu fim é o sinal para sacar as armas. Não há nada mais surreal para um filme de brutamontes atirando uns nos outros.
+O resumo da ópera? As únicas respostas que o diretor obteve de tantas pessoas para quem perguntou, a maioria artistas, atores, diretores, ativistas (?) e políticos (??), as únicas respostas realmente úteis vieram de duas pessoas que fogem um pouco da categoria de "humanas": um filósofo e um cientista. O filósofo conclui: qualquer idiota pode ter espasmos chamados de ideias; o problema é achar um formato para isso. E Stephen Hawking fecha com chave de ouro: "a ciência depende da criatividade; sua segunda pergunta (o título do filme) não faz sentido".
 
-As viagens aumentam, e não ficamos focados apenas em uma cidade, e embora El Paso seja o cenário principal há muito que acontece em seus arredores. Isso, além de dar um espaço maior para cavalgadas, torna o destino de nossos personagens mais dinâmico e imprevisível.
-
-Porém, fora tudo que o filme nos proporciona, sua maior contribuição é ser o primeiro passo para que cheguemos a [Três Homens em Conflito], a obra máxima da trilogia, onde o Cinema atinge seu ápice, sustentado por uma guinada épica no conceito de faroeste.
-
-[Por um Punhado de Dólares]: {{< relref "por-um-punhado-de-dolares" >}}
-[Três Homens em Conflito]: {{< relref "tres-homens-em-conflito" >}}
+Sim, o documentário de Hermann Vaske é apenas um mini-hype com artistas respondendo essa pergunta da pior maneira possível porque não entenderam sequer o que está acontecendo. Boa sorte tentando assistir esse emaranhado de "insights" e tentar extrair mais alguma coisa disso tudo.
 

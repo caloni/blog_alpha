@@ -1,24 +1,22 @@
 ---
-categories: []
-date: '2008-03-06'
-title: Estranho
+categories:
+- writting
+date: '2017-08-07'
+link: https://www.imdb.com/title/tt1605777
+tags:
+- movies
+title: Estranha Obsessão
 ---
 
-Bom, é hora de dizer tchau. Essa é minha última semana escovando bits na empresa onde estava por três anos. É estranho e esquisito dizer isso, mas me sinto um tanto aliviado. Nessa empreitada, porém, aprendi algumas coisas que valem a pena colocar na bagagem. Sempre é melhor entender do que criticar.
+Pawel Pawlikowski, diretor e roteirista do mais recente e interessante Ida, traça aqui através do romance de Douglas Kennedy um thriller que vai escalando naturalmente, dando tempo ao espectador para se habituar ao drama do escritor Tom Ricks (o habilidoso Ethan Hawke), que chega em Paris em busca da filha de seis anos e sua esposa, aparentemente possui problemas com a polícia e ainda tem sua mala e carteira roubadas. A partir dessa premissa surge um suspense tenso sem forçar muito a situação. Um trabalho econômico e eficiente.
 
-Por exemplo, vejamos a palavra estranho: quantas vezes você já pronunciou essa palavra quando estava diante de um problema daqueles esotéricos? Muitas vezes, não foi? E os problemas não-esotéricos?
+A partir de uma reunião literária surge uma personagem misteriosa, Margit, que interpretada por Kristin Scott Thomas se assemelha a uma femme fatale sem ser uma. Ela é viúva de um escritor húngaro que possui seu próprio charme em seu passado, além de falar sete idiomas. E além disso vão surgindo criaturas curiosas na atmosfera da periferia parisiense, como o turco dono de um café e negócios escusos, que aceita que o professor/escritor se hospede em um de seus imundos quartos enquanto resolve seu problema financeiro (e lhe dá um emprego de porteiro noturno em um local para... negócios escusos), e sua namorada/garçonete polonesa, que vai se interessando pelo escritor conforme essa figura pitoresca vai se habituando com o local.
 
-Quando nos acostumamos a usar uma palavra para aliviar a dor de não entendermos o que está acontecendo diante de nós, visto pelos nossos próprios olhos, estamos nos condicionando a parar de cutucar nosso cérebro para encontrar uma resposta rápida e racional para o que está acontecendo. Em suma: nos fechamos ao mundo falando "estranho".
+A direção de Pawlikowski facilita nossa interação com este aparente romance em forma de livro, com seus cenários quase sempre estáticos, câmera parada e enquadramento onde interessa. Há uma largura de campo reduzida, assim como a profundidade, e se foca sempre onde interessa. Pequenos planos-detalhe surgem de maneira a explicar determinados elementos da psique do escritor, como a floresta fictícia que criara em seu único romance (que todos elogiam), além da pista na cena inicial do que poderá acontecer em breve.
 
-Não por esse motivo, mas por estarmos cansados de tanto ouvir falar essa palavra, eu e meu amigo Thiago começamos a instituir uma "taxa simbólica" de 1 (um) real para os que proferirem a dita cuja, e passamos a usar o dinheiro arrecadado para o bem da comunidade, comprando o que nós, programadores, mais veneramos nos momentos de debugging: bolachas!
+A fotografia de Ryszard Lenczewski é cinzenta, chuvosa e mostra uma Paris feia, enquanto os elementos fantasiosos possuem uma estilização mais rebuscada, como os insetos da floresta. Há uma clara falha de comunicação com o espectador, pois a trama não nos faz sentir, mesmo ao vermos na floresta cascos sinistros, artificiais, mas esteticamente invejáveis, e nelas esses insetos, os trilhos do trem e a coruja. É possível que ele esteja querendo juntar com a cena inicial, mas são pontas muito soltas.
 
-Essa "medida provisória" aos poucos foi se alastrando pelas mesas do departamento, ao ponto máximo de todos da área técnica, além do diretor comercial, colaborar para a nossa "caixinha de um real".
+Flertando em seu terceiro ato com o imaginário, como tantos outros filmes sobre escritores geralmente fazem, esta parte também é econômica inclusive na paranoia, e não tenta tornar o filme mais esperto do que ele é. No entanto, a impressão que fica é que houve uma correria desnecessária e elementos fantasiosos demais jogados sem nenhuma conclusão muito enfática. Sim, é possível desvendar o mistério poetizando alguns elementos aqui e ali, transformando-os no que chamamos na literatura de liberdade poética, mas para o Cinema.
 
-Criamos um ambiente livre de estranhos. E criamos um trauma em nossas cabeças. A partir das primeiras semanas, toda vez que estávamos em algum lugar em que uma pessoa desconhecida (um estranho) dizia a palavra, soava um sino em nossas cabeças, quase fazendo com que nossa mão acusadoramente se erguesse e fizesse o gesto com o dedo indicando que a pessoa, a partir daquele momento, estava devendo um real para nossa caixinha comunitária.
-
-E assim fomos indo, meses a fio, sem falar essa palavra na presença dos fiscais do um real, que éramos todos nós. A proibição foi linear e englobou todas as situações de vida social em que poderíamos nos expressar: no trabalho, no almoço, por mensagem instantânea, por e-mail, pelo celular, fora do trabalho, nos artigos do blogue...
-
-Pois é, caro leitor, nos artigos do blogue. Se você procurar nestes últimos três anos qualquer menção à palavra "estranho" por aqui com certeza não irá encontrar.
-
-Até agora, quando finalmente foi quebrado o encanto. Quer dizer, oficialmente a cobrança está extinta, mas nossas mentes sempre irão conter esse sino acusador tocando no ônibus, nas ruas, no cinema, no shopping, em casa. Enfim, nos códigos estranhos de nossa vida.
+Ainda assim, Estranha Obsessão se mantém como forte thriller que sempre mantém o espectador atento, aguardando por algo que junte este quebra-cabeças, mesmo que o filme sugira que isso não irá acontecer. Um filme ligeiramente angustiante e depressivo, ele ganha muito mais conotações de romance em seu final, e sem conseguir juntar todos os seus capítulos de maneira satisfatória. Uma pena, pois todo o processo é fascinante.
 

@@ -1,17 +1,24 @@
 ---
 categories:
 - writting
-date: '2011-12-31'
-link: https://www.imdb.com/title/tt0086190
+date: '2018-01-12'
+link: https://www.imdb.com/title/tt0120815
 tags:
 - movies
-title: 'Star Wars, Episódio VI: O Retorno do Jedi'
+title: O Resgate do Soldado Ryan
 ---
 
-Hora de assistir novamente a conclusão da saga de George Lucas, dessa vez após ter visto a nova trilogia e o significado que ela insere na antiga (em especial [A Vingança dos Sith]). Uma direção de arte cada vez mais impecável, que consegue equilibrar o tema espacial com a fantasia por trás da história. Quando C3PO narra a aventura épica dos personagens em torno da fogueira é o momento mais icônico e que melhor representa o conceito por trás das lendas filmadas de Star Wars. Parece não haver mais o que acrescentar a este universo, embora a direção aqui se mostre mais pausada, madura e consciente de seu final mais trágico que de costume.
+Aquele filme que tem tudo pra dar errado, mas que por uma série de milagres se torna uma obra de arte. A farofa de Steven Spielberg aliada a um roteiro marcado por momentos que sintetizam o sentimento contraditório da guerra pelos olhos de seus soldados. E uma frase que marca o cinema de guerra: "cada pessoa que eu mato parece me levar cada vez mais longe de casa".
 
-Apesar de nossos heróis, é inegável que tudo converge para Darth Vader, e é ele quem rouba a cena, mesmo quando não está presente. É uma figura ameaçadora que foi crescendo a cada filme, onde agora tudo passa a girar em torno dele; até o Imperador, seu mestre, apenas existe para guiar seu pupilo por meio das trevas do Lado Negro da Força e impedir que Luke se torne um Jedi. O sentido da [Guerra nas Estrelas] e suas batalhas converge para a luta entre o bem e o mal, ainda em uma época em que esses conceitos eram muito bem definidos e onde o bem ainda não era relativo, como gostaria que fosse o Imperador Palpatine. Nesse sentido, a inversão temporal das trilogias ganha mais do que perde. Assisti-las em qualquer ordem lhe dará uma visão diferente dos fatos.
+Após o dia D, os americanos precisam ganhar terreno, mas um gosto amargo na boca de seus líderes permanece: milhares de jovens mortos e famílias que nunca mais serão as mesmas. Na esperança de salvar o quarto filho enviado para se sacrificar, a missão inusitada de resgatar um soldado de infantaria em meio ao caos surge como apenas mais uma insanidade das inúmeras que aparecem em tempos sombrios.
 
-[A Vingança dos Sith]: {{< relref "star-wars-episodio-iii-a-vinganca-dos-sith" >}}
-[Guerra nas Estrelas]: {{< relref "star-wars-guerra-nas-estrelas" >}}
+O apelo aqui é histórico e pomposo: recompensar a nação pelas carnificinas anteriores. O símbolo é uma carta escrita de próprio punho de Abraham Lincoln se desculpando pela perda dos filhos de uma mãe patriota durante a guerra de secessão. O objetivo é evitar a todo custo perderem-se os valores americanos de vida e liberdade. Comovente para americanos e sensível para o resto da humanidade.
+
+Este é o quarto Ryan que pode ser perdido. O nome Ryan vira sinônimo de soldado anônimo. Ele é um jovem que deverá ser salvo por uma tropa liderada por um capitão que era professor de colégio. Imagine você agora essa metáfora. Não é a última. Metáforas são úteis durante todo o percurso, onde até um pai francês tentando salvar sua filha caçula, além de ser uma cena clichê, pode conter uma mensagem poderosa.
+
+Esta tropa é formada pelos atores perfeitos para o papel. Não é possível falar muito sobre eles no filme da mesma forma que em uma guerra relâmpago mal conhecemos nossos colegas exceto pelas ações de cada novo dia. A morte iminente transforma cada um deles em símbolo de resiliência, cada um de uma maneira peculiar. Suas faces dizem muito sobre cada um. Suas expressões e trejeitos explicam suas ações. E por mais perfeita que se saia esta tropa, há um ar de melancolia os cercando. Parece que vem dos prédios em ruínas.
+
+Há cenas de batalha em planos-sequência, câmera na mão, edição perfeccionista aliada a uma primorosa edição de som. Tudo isso compõe o deleite técnico da ação, que é memorável per se e ganha aliados dos fãs de filmes de guerra realistas e viscerais. Parece não haver o que reclamar da produção deste filme. Apenas o que aclamar.
+
+Contudo, as cenas que dialogam com a alma são as mais simples, com a câmera parada, estática, a respirar e refletir o momento. É o rapaz traduzindo a letra de uma música cantada por Edith Piaf saindo de um gramofone colocado em cima de um dos poucos muros de pé em uma escadaria imponente. Lá estão os meninos a observar. A letra fala de amor. O mesmo amor que é intraduzível quando o caos do ódio toma as rédeas do poder. Uma síntese política e idealista em uma única cena. Eis porque os milagres desse filme são sobrenaturais.
 

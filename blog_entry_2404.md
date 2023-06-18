@@ -1,27 +1,23 @@
 ---
 categories:
 - writting
-date: '2023-01-26T09:56:25-03:00'
+date: '2023-01-24T10:50:40-03:00'
 tags:
 - cinemaqui
 - mostratiradentes
 - movies
-title: Mostra Foco Série 3
+title: Mostra Foco Série 1
 ---
 
-Pés que Sangram, de Roberta Takamatsu
+Os Animais Mais Fofos e Engraçados do Mundo, de Renato Sircilli
 
-As sutilezas pelas quais passa essa história sobre abandono e busca do passado não atingem o espectador exceto pelas sensações de estranheza. A diretora Roberta Takamatsu constrói um clima de mistério e se aproveita de uma fotografia árida de estrada para compor tons de vermelho-terra em tomadas que evocam uma sensação mista de perda, saudade e desorientação. No entanto, essa discrição acaba por não capturar o engajamento do espectador.
+Se há um curta mais sucinto e poderoso que este na Mostra de Tiradentes eu não o vi. Ele fala sobre nossa crise de afeição moderna. Paulo Goya constrói Jorge, um faxineiro de motel que grava áudio dos clientes para vender a Alberto, que vira seu parceiro sexual. Parece um negócio em que todos ganham, mas apesar de ter tudo, Jorge não tem o mínimo para uma vida sã: o afeto do outro. Sua gravação mais emblemática é de um casal hétero em que ela compartilha vídeos de bichinhos com o amante. Repare nas relações metafóricas do filme, como entre esse momento e as marcas no corpo de quem um raio o atravessou, e verá um trabalho detalhista e carregado de ensinamentos emocionais.
 
-O último rock, de Diego de Jesus
+Lalabis, de Noá Bonoba
 
-Diego de Jesus desenvolve uma série de diálogos dinâmicos e reais em torno de um grupo de jovens que se reúne pela última vez antes do isolamento social que se seguiu com a vinda do COVID-19 em março de 2020 no Brasil. São falas entrepostas e bem próximas de um papo real da geração. Ao final ele põe tudo a perder poetizando o que não era drama. Artistas geralmente são os maiores algozes de sua própria obra.
+Experimental e apocalíptico, Lalabis é atraente em sua confecção modernista deste mundo onde todos estão paralisados menos a heroína do filme. Ela tenta compreender o que aconteceu e no processo descobre uma segunda camada, uma camada mística, por trás do que ocorre com os humanos. Incompleto e inspirador.
 
-Labirinto, de Filipe dos Santos Barrocas, Isadora Maria Torres, Léo Bortolin, Lucas Eskinazi e Yuji Kodato
+Promessa de um Amor Selvagem, de Davi Mello
 
-Este filme experimental de direção coletiva só podia dar errado. Construído ainda em isolamento, os cineastas apenas conseguiram se encontrar na própria Mostra de Tiradentes. E parece que eles só se encontraram nesse momento, mesmo, pois as cenas do curto filme sequer dialogam entre si. É uma abstração tão abstrata que o único detalhe a se observar na tela são as trucagens de transição entre camadas capturadas de imagens, que remetem mais ao brega que ao dramático fantasioso.
-
-Febre, de Marcio Abreu
-
-É arriscado tentar compor texto em imagens porque o sentido não é o mesmo. E esse texto que deu origem ao filme é repetitivo, uma prosa de ladainha que não ajuda muito na adaptação. No entanto, contra todos os prognósticos o resultado até que é assistível. Ele compõe uma valsa de um elenco que reveza nesse conto folclórico em que duas pessoas vão sair à noite em busca de observar as últimas horas de um mundo que está dando adeus. Um passeio na madrugada atordoante. E febril.
+Quando o "ser normal" não passa apenas de um sonho é melhor que a morte seja a solução de nossos problemas. O trabalho de Davi Mello explora uma dualidade do ser que navega entre gêneros e épocas com facilidade para o espectador entender. Talvez seja fácil demais. Ao final, o sabor do inesperado e enigmático se mantém por pouco tempo. Falta ousadia em uma ideia bacana, não original, mas feita com esmero. Não é ideia para um longa, mas faz querermos pelo menos mais alguns minutos no mundo mágico das linhas de vida e troca de perspectiva.
 

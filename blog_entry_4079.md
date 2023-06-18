@@ -1,24 +1,16 @@
 ---
 categories:
 - writting
-date: '2014-09-23'
-link: https://www.imdb.com/title/tt0816711
+date: '2014-04-18'
+link: https://www.imdb.com/title/tt1802810
 tags:
 - movies
-title: World War Z
+title: Woman in Love (aka Rubbeldiekatz)
 ---
 
-Mais um filme de zumbi? Sim e não. World War Z está mais para o primeiro filme empolgante de fato sobre uma epidemia mundial. Estrelado por Brad Pitt, esse filme de catástrofe consegue chamar a atenção quase todo o momento, seja para seu lado bom ou ruim.
+Essa é uma comédia romântica estilo Notting Hill, com a diferença de ser na Alemanha e ter o plot de um ator que se veste de mulher para conseguir o papel em um curta produzido por Hollywood sobre o nazismo (sempre ele). O resultado é algumas pouquíssimas piadas semi-originais, quase sempre envolvendo o ator que representa Hitler, e muitas piadas recicladas daquela velha situação do homem travestido já visto em produções tão bizarras desde "Glen ou Glenda?" (Ed Wood, 1953) passando por As Branquelas (2004).
 
-Tudo começa na cidade onde Gerry Lane (Brad Pitt) e sua família moram, onde vemos pela primeira vez em uma sequência incrivelmente tensa e agitada o ataque de humanos aparentemente inconscientes, mas com um impulso incontrolável de morder as outras pessoas (sim, zumbis). Uma simples mordida e 12 segundos são o suficiente para levar a vítima igualmente à loucura, então fica muito fácil imaginar o efeito cascata que isso gera em uma cidade grande.
+O problema principal é no seu início, que não consegue nos convencer da história que pretende contar. A única coisa que lembro é que o diretor gosta de usar câmeras lentas. Muitas. Em exaustão e sem significado. A própria "paixão à primeira vista" do casal principal é enfocado em uma longa e tediosa cena de sexo, e o fato de ter tediosa é um feito e tanto, já que estamos falando de uma cena com a bela Alexandra Maria Lara, cuja atuação nem impressiona nem decepciona. O resto do filme é leve, sincero e cativante. O trabalho de Matthias Schweighöfer como o ator travestido convence por seu tipo físico quase andrógeno, mas não por sua atuação sem alma.
 
-Resgatado por seu amigo do exército não por compaixão, mas antes por convocação, Gerry se vê na obrigação de ajudar para manter sua família nos navios militares que servem de abrigo. Tudo acontece muito rápido e os detalhes são pescados aqui e ali. Sabemos, por exemplo, que a grande esperança dessa gente reside em um cientista de 20 e poucos anos, o que pode soar absurdo, mas soa passável depois de vermos o ataque inicial. Os mais ágeis sobreviverão.
-
-Porém, em uma situação como essa, não basta apenas ser ágil e ter conhecimento. É preciso ter a cabeça no lugar. E é isso que Gerry parece se tornar para nós -- desesperados do outro lado da tela.
-
-Por falar em desespero, o medo de ser pego exerce um controle muito efetivo em quase todas as cenas movimentadas. Faz-nos até esquecer alguns tropeços em tanto realismo que o filme parece querer entregar (como um zumbi escondido em um avião, ou o timing certeiro de Gerry ao presenciar um segundo holocausto em terra santa). Nesse sentido, realismo e susto convergem para um sentimento de urgência ritmado entre cada novo cenário.
-
-Não se esquecendo de homenagear um dos grandes games que usam ciência como pano de fundo do surgimento de mortos-vivos -- sim, estou falando de Half-Life -- a sequência final é a mais equilibrada, pois a mensagem já foi dada: o perigo de extinção é imenso, e não há saída fácil.
-
-Nesse sentido, World War Z consegue visualmente aplicar bem uma mensagem importante para todos nós: pandemias podem parecer invisíveis, mas o estrago que fazem tem o potencial de ser irreversível.
+No final temos aquela velha perseguição em busca da pessoa amada que vemos em gêneros Notting Hill. E se citei novamente o ótimo trabalho de Roger Michell não é por que estou pegando no pé dele, mas apenas porque é um filme fácil de se lembrar, exatamente porque utiliza razoavelmente bem os seus clichês. No caso de Woman in Love, são apenas clichês reproduzidos em alemão.
 

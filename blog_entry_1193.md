@@ -1,24 +1,51 @@
 ---
 categories:
 - coding
-date: '2007-12-13'
-title: Debug remoto no C++ Builder
+date: '2007-10-02'
+link: https://youtu.be/mXDROf0rLkI
+title: Debug da BIOS com o SoftIce 16 bits
 ---
 
-Esse é um detalhe que pode passar despercebido da maioria da população Borland, mas o Builder, assim como o Visual Studio, possui sua suíte para depuração remota. E tudo o que você precisa fazer é instalar um pacote no cliente.
+Para quem acha que ainda não desceu demais o nível existe um [ótimo artigo] no Code Project de S. Z. Keller (aka ShalomZ) sobre como construir seu próprio sistema operacional. É simples, direta e empolgante a maneira com que ele explica e trata os detalhes básicos, desde quando o computador é ligado até quando o boot loader carrega e entrega o controle de execução. Eu mesmo fiz o teste com a imagem que foi disponibilizada para download e funcionou direitinho. Agora esse meu artigo se dispõe a explicar como você pode fazer para depurar o processo de load do seu primeiro sistema operacional.
 
-  1. No CD de instalação, existe uma pasta chamada RDEBUG.
-  2. Na máquina cliente, execute o arquivo setup.exe contido nesta pasta. De preferência, não instale como um serviço (a menos que tenha um motivo).
-  3. Crie uma aplicação tosca de teste (ou use uma aplicação tosca existente).
-  4. Lembre-se que as DLLs do Builder não estarão disponíveis na máquina remota. Para não depender delas desabilite as opções "Use dynamic RTL" (aba Link) e "Build with runtime packages" (aba Packages) do seu projeto.
-  5. Copie a aplicação para a máquina remota ou torne-a acessível através de mapeamento.
-  6. Em Run, Parameters, habilite na aba Remote a opção "Debug project on remote machine"
-  7. Em Remote Path especifique o path de sua aplicação visto da máquina remota.
-  8. Em Remote Host especifique o nome ou o IP da máquina remota.
-  9. Execute o aplicativo através do Builder (certifique-se que o cliente do Builder está rodando na máquina remota).
-  10. Bom proveito!
+Primeiro precisamos de uma ferramenta fundamental para esse tipo de depuração: o SoftIce versão 16 bits. Desconheço algum outro depurador de sistema em 16 bits, mas se você souber de algum, pode usá-lo com esse tutorial com as devidas adaptações.
 
-Infelizmente essa opção não está disponível nas versões Standard do produto, assim como não está o debugging remoto no Visual Studio Express. Porém, a nova versão do Builder, renomeada para Borland Turbo C++, é gratuita a possui essa feature embutida. O único porém é que a instalação não é automatizada, e os arquivos devem ser copiados "na mão", seguindo um dos tópicos da ajuda. Melhor que nada.
+Passado o desafio inicial de encontrar essa versão do SoftIce e saber usá-la, o resto é fácil:
 
-Para os que utilizam o Visual Studio Express, realmente ainda não achei solução a não ser usar o bom, velho e fiel companheiro WinDbg. Não saia de casa sem ele.
+  1. Crie uma nova VMWare, Virtual PC, VMSbrubles configurada para bootar pelo disquete.
+  2. Formate dois disquetes de MS-DOS, FreeDos, Sbrubles-DOS.
+  3. Copie o setor de boot disponível no artigo do CP para o disquete usando o programa disponível em um dos disquetes.
+  4. Copie o SoftIce no outro disquete.
+  5. Efetue o boot com o disquete do SoftIce.
+  6. Execute o SoftIce (é só rodar, ele permanece residente e é ativado com Ctrl + D).
+  7. Coloque um breakpoint na int 0x13 (disco) na função 2 (leitura) (faz-se assim: bpint 13 ah=2).
+  8. Troque o disquete do Softice pelo disquete com o setor de boot do artigo do CP.
+  9. Efetue novamente o boot na máquina em modo "quente" (usando o próprio SoftIce, comando boot).
+  10. A execução deve ser paralisada exatamente no ponto onde o código da BIOS lê o setor de boot do seu disquete.
+  11. Digite p ret e em seguida F10 ou T e seja feliz.
+
+Pelo softice 16 bits conseguimos parar a execução nas interrupções da BIOS e ainda especificar qual das funções será executada, definida no registrador AH; mais detalhes sobre layout de memória do 8086 no artigo do DQ [^1].
+
+Quando o código da BIOS é executado, ele precisa, entre outras coisas, fazer três:
+	
+  1. Encontrar o dispositivo padrão de boot.
+  2. Ler o primeiro setor desse dispositivo para o endereço 0x7C00.
+  3. Entregar a execução para o código em 0x7C00.
+
+O item 2 é justamente o que utiliza essa interrupção para ler do disco. Eu prefiri colocar o breakpoint no item 2, mas nada impediria de você colocá-lo no item 3 e já iniciar a depuração no código do boot loader. Mas, como eu já passei por problemas encontrados no código da BIOS que impediam o sistema de entregar a execução para o setor de boot, já dei a dica de lambuja caso você também tenha a oportunidade de se divertir em um cliente depurando a BIOS de algum laptop desajustado.
+
+{{< image src="bpint-boot.png" caption="Breakpoint na int 0x13 função 2 (DL=0)" >}}
+
+A referência para saber quais as funções para cada interrupção na hora de depurar a BIOS pode ser encontrada em listas como a Ralf Brown's Interrupt List [^2]
+
+A partir dessa leitura se usa o comando p ret do depurador, que é mais ou menos o step out do SoftIce 32. Ou seja, ele avança a execução até a função retornar. No caso do SoftIce 16 ele irá avançar até o próximo ret/iret. Por isso que também precisamos executar a próxima instrução (o próprio ret) para cair onde queremos. É nesse ponto que o "nosso" código começa a executar e onde conseguimos colocar breakpoints "de verdade", ou seja, escrevendo no parte do código que deve ser interrompida a chamada da interrupção de breakpoint (int 3). Lembre-se que não é isso o que é feito para parar no código da BIOS, uma vez que esta reside em memória de somente leitura (pelo menos durante a execução).
+
+{{< image src="myos-start.png" caption="Código do boot loader carregado no Softice" >}}
+
+[^1]: [Gerenciamento de memória 386] - Daniel Quadros
+[^2]: [Ralf Brown's Interrupt List na Wikipedia]
+
+[ótimo artigo]: https://www.codeproject.com/Articles/15843/Building-your-own-operating-system
+[Gerenciamento de memória 386]: https://dqsoft.blogspot.com/2006/10/gerenciamento-de-memria-386.html
+[Ralf Brown's Interrupt List na Wikipedia]: https://en.wikipedia.org/wiki/Ralf_Brown%27s_Interrupt_List
 

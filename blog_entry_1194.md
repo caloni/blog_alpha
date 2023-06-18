@@ -1,52 +1,24 @@
 ---
 categories:
 - coding
-date: 2019-03-06 21:33:15-03:00
-desc: Remote Debugger disponível em qualquer instalação do Visual Studio. Use-o para
-  depurar serviços, por exemplo.
-tags: null
-title: Debug Remoto no Visual Studio 2010 ou Superior
+date: '2007-12-13'
+title: Debug remoto no C++ Builder
 ---
 
-Já escrevi sobre [debug remoto no finado C++ Builder], sobre [como usar o msvcmon.exe no VS 2003 e o msvsmon.exe no 2010+]. Sobre [como depurar um serviço quando a máquina está para desligar], e até sobre [depurar através de um servidor de símbolos]. Está na hora de tornar a depuração mais simples para programadores de serviços Win32.
+Esse é um detalhe que pode passar despercebido da maioria da população Borland, mas o Builder, assim como o Visual Studio, possui sua suíte para depuração remota. E tudo o que você precisa fazer é instalar um pacote no cliente.
 
-Resumo dos comandos:
+  1. No CD de instalação, existe uma pasta chamada RDEBUG.
+  2. Na máquina cliente, execute o arquivo setup.exe contido nesta pasta. De preferência, não instale como um serviço (a menos que tenha um motivo).
+  3. Crie uma aplicação tosca de teste (ou use uma aplicação tosca existente).
+  4. Lembre-se que as DLLs do Builder não estarão disponíveis na máquina remota. Para não depender delas desabilite as opções "Use dynamic RTL" (aba Link) e "Build with runtime packages" (aba Packages) do seu projeto.
+  5. Copie a aplicação para a máquina remota ou torne-a acessível através de mapeamento.
+  6. Em Run, Parameters, habilite na aba Remote a opção "Debug project on remote machine"
+  7. Em Remote Path especifique o path de sua aplicação visto da máquina remota.
+  8. Em Remote Host especifique o nome ou o IP da máquina remota.
+  9. Execute o aplicativo através do Builder (certifique-se que o cliente do Builder está rodando na máquina remota).
+  10. Bom proveito!
 
-```
-Busca do pacote de debug:
-c:\>dir /s /b "Remote Debugger"
-Executável:
-C:\Tools\Remote Debugger\x64\msvsmon.exe
-Argumentos:
-/noauth /anyuser /timeout 99999999 /silent
-Serviço:
-C:\Tools\nssm.exe install Msvcmon
-```
+Infelizmente essa opção não está disponível nas versões Standard do produto, assim como não está o debugging remoto no Visual Studio Express. Porém, a nova versão do Builder, renomeada para Borland Turbo C++, é gratuita a possui essa feature embutida. O único porém é que a instalação não é automatizada, e os arquivos devem ser copiados "na mão", seguindo um dos tópicos da ajuda. Melhor que nada.
 
-Hoje em dia, às vésperas do Visual Studio 2019, espero que todo mundo use pelo menos o Visual Studio 2010 porque a partir dessa versão tornou-se muito fácil depurar remotamente, pois um pacote feito para isso já é instalado junto do Visual Studo. É uma pasta que basta copiar e colar na máquina-alvo. Para encontrá-la basta digitar "Remote Debugger" dentro do Program Files.
-
-{{< image src="bE6YxtY.png" caption="" >}}
-
-Copie essa pasta para a máquina onde estará os processos que deseja depurar e escolha sua arquitetura (x86, x64, i64), pois cada uma possui uma sub-pasta com os mesmos arquivos. Executa uma vez o msvsmon.exe dentro de uma delas e ele irá configurar para você o firewall do Windows. Feito isso e configurando através da janela que aparece o resto dos parâmetros basta atachar o processo ou iniciá-lo remotamente pela configuração do seu projeto no Visual Studio.
-
-{{< image src="hjjz55J.png" caption="" >}}
-
-{{< image src="bA4u3NZ.png" caption="" >}}
-
-Mas este artigo não é sobre isso, é um pouco mais fundo: depurar serviços. Eles rodam na conta de sistema e muitas vezes é preciso depurá-los antes ou depois do logon na máquina. Às vezes é um teste sob as condições de sistema, o que é igualmente importante. Seja como for a maneira de fazer isso com o msvsmon.exe é transformá-lo também em um serviço. Para isso usaremos o [NSSM](https://nssm.cc/): o Non-Sucking Service Manager. Copie ele para a mesma máquina e o executa com o comando install <nome-do-serviço>. Os campos principais são os mais importantes.
-
-{{< image src="bU6sq33.png" caption="" >}}
-
-Se você digitar msvsmon.exe /h ou algo do gênero irá encontrar os parâmetros que precisa:
-
-{{< image src="4uyf5t7.png" caption="" >}}
-
-{{< image src="yEpsIR5.png" caption="" >}}
-
-Obs.: Eu costumo executar sem segurança alguma, pois minhas máquinas de teste são VMs locais e o perigo de vulnerabilidade não é menor do que minha própria máquina real.
-
-[debug remoto no finado C++ Builder]: {{< relref "debug-remoto-no-c-builder" >}}
-[como usar o msvcmon.exe no VS 2003 e o msvsmon.exe no 2010+]: {{< relref "debugger-remoto-do-visual-studio" >}}
-[como depurar um serviço quando a máquina está para desligar]: {{< relref "depurando-ate-o-ultimo-segundo" >}}
-[depurar através de um servidor de símbolos]: {{< relref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}
+Para os que utilizam o Visual Studio Express, realmente ainda não achei solução a não ser usar o bom, velho e fiel companheiro WinDbg. Não saia de casa sem ele.
 

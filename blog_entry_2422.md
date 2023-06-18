@@ -1,23 +1,24 @@
 ---
 categories:
 - writting
-date: '2021-11-01T22:34:22-03:00'
+date: '2017-08-28'
+link: https://www.imdb.com/title/tt4158110
 tags:
 - series
-title: Mr. Robot e sua redistribuição de riqueza
+title: Filosofia De Mr Robot
 ---
 
-Aquele momento mágico em que toda a riqueza dos malvadões é redistribuída de maneira equitativa entre a população falha por pelo menos dois motivos.
+Então eis que ergue-se um mundo niilista, até um pouco absurdista, onde o controle é uma ilusão. O sonho de garoto de salvar o mundo encontra novos significados do que é mundo e do que é salvar. Elliot não é apenas multifacetado pela figura de sua família; ele É sua família. E não apenas isso, mas consequência do próprio mundo que ele deseja salvar. Há desafios hercúleos em sua jornada, que parecem intransponíveis para nós, mortais. O que dirá , então, para um hacker esquizofrênico.
 
-O primeiro é que os americanos estão bem longe de ser o povo mais pobre do mundo. Há miséria real fora da bolha ianque na mesma ordem em que eles são os 1% em relação ao mundo. Agraciá-los seria a pior forma de redistribuição de renda da história.
+Elliot e o mundo que o cerca é a tradução do que estamos vivendo após a crise econômica de 2008. As pessoas estão revoltadas com um mundo criado contra elas. Elliot está revoltado pelo seu pai estar no comando, sendo que ambos estão equivocados. O mundo, em ambos os casos, é apenas reflexo de suas vítimas.
 
-Se fôssemos ser justos ao máximo no sentido de que riqueza foi roubada dos habitantes do planeta e está concentrada em 1% desses moradores teríamos que redistribuir essa riqueza entre todos os bilhões de seres humanos do planeta. Esqueça por um momento o lado logístico desse problema e foque mais no lado econômico.
+Dessa forma pessoas endividadas por uma mega-corporação e uma criança abusada quando criança são reflexos dessas pessoas e dessa criança. Isso não significa que a criança possui alguma culpa por ter sido abusada. Significa que as pessoas não têm culpa, individualmente, de ter gerado essa crise. Porém, de maneira ambígua, os pais e o sistema financeiro mundial são ao mesmo tempo algozes e criaturas.
 
-O escritor e defensor mais ferrenho dessa redistribuição de renda, Tomas Pikety, em seu livro O Capital no Século 21 afirma com base em cálculos bem básicos de matemática que se fôssemos fazer essa redistribuição de maneira equitativa entre todos os habitantes o saldo na conta de casa um de nós seria cerca de 4000 euros. Veja bem, é um bom valor para passar um mês em um lugar bem caro e até um ano em um lugar bem pobre, mas está bem longe de deixar qualquer uma dessas pessoas tranquila a respeito do longo prazo. Quanto mais rica.
+Mr. Robot coloca tudo sob perspectiva. Todas as explicações, de todos os lados, são jogadas em cima da mesa. A consequência disso é que não é possível, logicamente, dizer que há bandidos e mocinhos nesta história. Quando fulano diz que gostou de sicrano ter se matado, pois era um fraco, sim, ele está logicamente correto. O que expõe a verdade crua da natureza humana do homem: a Teoria da Evolução. Só os mais "fortes", ou aptos, sobrevivem. Não de força física, mas mental. Somos animais racionais. Os que suportarem a existência humana e sua condenação inicial de que somos livres (Sartre) terão que tomar a decisão de cumprirem suas funções na sociedade (sejam elas quais forem) ou se transformarem conscientemente em robôs, vivendo uma ilusão onde há controle.
 
-Na vida real, voltando alguns devaneios, imagine que apenas os americanos ganharam essa bolada. Nesse momento é o país mais igual do mundo. Na vida real em menos de um ano teríamos a mesma desigualdade. Uma minoria faria um bom uso da oportunidade, mas a maioria seguiria seu modus operandi que a tornou pobre e endividada, pois o dinheiro é mero reflexo disso.
+Mas, adivinha só? Em ambos os casos, ninguém possui esse controle muito além de nossas próprias cabeças, e é por isso que o nível máximo de liberdade está chegando e está nas mãos de quem controla computadores. Software, máquinas inteligentes e inertes. Código maleável. Engenharia social, hackeando a própria mente humana. Bitcons, a solução tecnológica da moeda.
 
-Se isso não fosse verdade teríamos uma mobilidade social muito maior, pois na realidade de fato temos, mas em um nível anedótico, o que faz sentido visto os esforços sobrehumanos que os casos de sucesso precisam se dedicar para mudar seus destinos radicalmente.
+Não deixa de ser irônico o fato que o herói da trama, apesar de ter todos os atributos necessários para conseguir o controle absoluto tão almejado, é o que menos consegue controlar sua própria cabeça.
 
-Acreditar que a maioria faria isso se caísse uma bolada em sua conta bancária não é apenas ingenuidade. É infantil. Ou desonesto usar esta hipótese como um argumento sério.
+E concluímos, então, esse niilismo que vivemos hoje. Nada tem muito valor se analisado microscopicamente. E se nada tem valor, tudo pode. O trunfo da série é concluir que tudo no mundo nos torna escravos de nós mesmos.
 

@@ -1,12 +1,15 @@
 ---
 categories:
 - writting
-date: '2021-06-12'
-link: https://www.imdb.com/title/tt14267526
+date: '2020-12-26'
+link: https://www.imdb.com/title/tt0382189
 tags:
-- series
-title: 'Meu Amor: Seis Historias De Amor Verdadeiro'
+- movies
+title: Meu Amor de Verão
 ---
 
-Um seriado de longas documentais sobre histórias de amor que já passam de décadas. Assisti o do casal do Brasil, Nicinha e Jurema. É sobre a rotina das duas moradoras da Rocinha, favela no Rio de Janeiro. De idade já avançada, elas trabalham o dia-a-dia com planos para o futuro sendo desenhados, os rituais do presente e tenras lembranças do passado. É uma edição relaxante, sem tensão alguma. Quase um vídeo de homenagem ao simples. Há pouco de tratamento na história. Elas são o que você vê na tela, e não tem como desgostar dessas duas. Não tem como desgostar de uma relação que tem dado certo por tanto tempo.
+Pawel Pawlikowski, diretor polonês dos premiados [Ida] e [Guerra Fria], dirige esta produção inglesa local em uma sinergia de atuações fascinante entre a já experiente Emily Blunt e a estreante Natalie Press. Ambas irão se apaixonar em um romance que resgata de maneira bem clichê os dogmas progressistas da falsidade das religiões e da vida burguesa e não a subverte, mas entrega outro olhar, mais maduro e renovado. Apenas um polonês obcecado com a observação dos pequenos detalhes do comportamento e da essência humana para não se deixar levar pela cartilha vigente. Este filme não é nada demais, mas é repleto de virtudes em sua composição, que você pode não reconhecer até a última reviravolta, mas que conseguirá sentir e repensar seus próprios dogmas.
+
+[Ida]: {{< relref "ida" >}}
+[Guerra Fria]: {{< relref "guerra-fria" >}}
 

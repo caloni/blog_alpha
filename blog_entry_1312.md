@@ -1,11 +1,11 @@
 ---
 
-Encorpado, seco, tânico. Corpo médio pra forte, frutas maduras, bem amadeirado e seco. Com o bife de chorizo do Sonda coube perfeitamente.
+Frutado arenoso e ácido e taninos leves. Pouco corpo, não muito interessante; oleoso, pouco tânico. Carnes no aniversário do Glauser e Rafael.
 
 ---
 categories:
 - writting
-date: '2017-12-20'
+date: '2017-05-17'
 tags:
 - food
-title: Domingo Molina Sauvignon Blanc 2016
+title: Domingo Molina Rupestre Blend Malbec Merlot Tannat 2013

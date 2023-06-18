@@ -1,24 +1,11 @@
 ---
-categories: []
-date: '2021-05-02'
+categories:
+- writting
+date: '2022-10-09T17:56:41-03:00'
 tags:
-- lists
-title: Lista de Listas Sobre Cinema
+- movies
+title: Cine Holliúdy
 ---
 
-- [Top Filmes 2018]
- - [Top Filmes 2019]
- - [Seleção de Filmes da 43a MostraSP]
- - [Roger Ebert Great Movies]
- - [Dez melhores filmes de 2016]
- - [Saldo da 40a. MostraSP]
- - [Os 10 melhores filmes dos anos 90... 1890!]
-
-[Top Filmes 2018]: {{< relref "top-filmes-2018" >}}
-[Top Filmes 2019]: {{< relref "top-filmes-2019" >}}
-[Seleção de Filmes da 43a MostraSP]: {{< relref "mostrasp-43-2019-selecao-filmes" >}}
-[Roger Ebert Great Movies]: {{< relref "roger-ebert-great-movies" >}}
-[Dez melhores filmes de 2016]: {{< relref "dez-melhores-filmes-de-2016" >}}
-[Saldo da 40a. MostraSP]: {{< relref "saldo-da-40-mostra-sp" >}}
-[Os 10 melhores filmes dos anos 90... 1890!]: {{< relref "os-10-melhores-filmes-dos-anos-90-1890" >}}
+Um filme cearense que mantém um ritmo de piadas incessante sobre o jeito regional de ser e fala sobre o sonho do cinema existir nos lugares mais remotos. No final ele salva o cinema contando uma história. E cinema não é sobre isso, mesmo, miserávi?
 

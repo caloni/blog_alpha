@@ -1,22 +1,24 @@
 ---
 categories:
 - writting
-date: '2016-02-27'
-link: https://www.imdb.com/title/tt0107207
+date: '2020-10-28'
+link: https://www.imdb.com/title/tt11744850
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Em Nome do Pai
+title: Em Meus Sonhos
 ---
 
-Em Nome do Pai é daquelas pérolas baseadas em fatos reais que funciona pelo emocional, mas também é um trabalho intimista que adentra o suficiente no lamaçal da "justiça" estatal para conseguir identificar o que critica sem desmerecer nossa inteligência.
+Em Meus Sonhos é um filme turco independente desta Mostra de São Paulo em formato de streaming e não me parece o tipo de filme que entraria em uma seleção com sessões no cinema. Tem mais cara de filme lançado direto para TV. Que quase ninguém assiste. Se você tem esse perfil de ficar com insônia na madrugada, pode ser que no futuro esteja passando nos corujões da vida, porque o dono da emissora comprou um pacotão de filmes e veio esse de brinde.
 
-Conta a história absurda (mas verídica) de Gerry Conlon, um homem condenado erroneamente por ser um dos terroristas responsáveis pelo maior atentado em solo britânico desde a Segunda Guerra. Ele se baseia no romance autobiográfico do próprio Conlon, o que poderia querer dizer um texto longo e chato sobre o psicológico de seu protagonista, mas o roteiro de Terry George e do diretor Jim Sheridan estipula uma linha de raciocínio fixa e tensa através da atuação ímpar de Daniel Day-Lewis (com quem o diretor trabalhou em Meu Pé Esquerdo) e de sua relação com o pai, Giuseppe (Pete Postlethwaite, um suporte inestimável).
+Experimental em sua narrativa, gira em torno de um garoto que perde o pai em um acidente de carro e coloca a mãe em coma. Com apenas oito anos, estas são "férias" forçadas para o pequeno Tarik, que passa a viver com seus avós em um vilarejo que mantém muitos dos costumes culturais e religiosos da região.
 
-A passagem do tempo no filme é capenga. O filme é curto para isso. No entanto, as mudanças psicológicas que ocorrem com seus personagens funciona, e a facilidade com que Daniel Day-Lewis consegue carregar uma persona dúbia, um anti-herói desfigurado pelo trauma de uma vida nada fácil, aliado à visão autoritária e ardilosa dos representantes do governo, dispostos a tudo para manter a ilusão de ordem frente às revoltas nacionalistas irlandesas.
+Este é um filme onde o tema da morte acaba sendo abordado algumas vezes, mas quase não soa proposital. O louco da vila perdeu a amada antes de se casarem, e mesmo décadas depois conversa em seu túmulo. Uma burra é atropelada e vem a falecer, e seu filhote agora tem os dias contados, apesar dos esforços de Tarik e o louco conseguirem leite com todas as crianças.
 
-O papel do pai no filme não está só no título, mas tem valor simbólico. É inimaginável o destino desse personagem na vida real, e revoltante em todos os aspectos sua peregrinação por justiça. É seu trapo branco erguido no começo do filme para salvar o filho que se mantém simbolicamente levantado por quinze anos seguidos, sem atirar nenhuma bala. Pete Postlethwaite faz um sujeito convicto de suas ações, mas incerto do mundo que vive, cuja noção de certo e errado desmorona diante de seus olhos.
+Tarik vive suas férias sonhando em reencontrar sua mãe. Cada novo momento do longa é entrecortado com esses sonhos. E o garoto acorda: está na casa dos avós. Ele desenvolveu amnésia no acidente e não consegue se recordar o que aconteceu, e não fica claro, mas aparentemente nem de seus pais. É como se ele fosse uma nova criança e que tem que ser ensinada tudo pela geração retrasada, que é o que seu avô, idealista e tranquilo, faz sempre que surge a oportunidade.
 
-Com dois gigantes representando pai e filho, Emma Thompson não tem muito tempo de tela, e vira uma mera figurante de luxo que consegue unir o emocional ao racional, e fazer parte da identificação do espectador com a resolução daquele problema que parece insolúvel. Sua última cena representa isso, e o motivo de estar lá.
+O garoto faz amizades com o grupinho local de garotos e logo o filme vira um rito de passagem. A galerinha passa o tempo entre os pequenos eventos de uma vila do interior. O filme não parece nem um pouco interessado em tomar um rumo e seus personagens mal se dão conta de nos chamar a atenção. Quase não dá para perceber que tem um filme passando, não fossem as tentativas pedestres de seu diretor, Murat Çeri, em se colocar entre o espectador e este limitado universo. E o elenco amador.
 
-E, por fim, a direção de Jim Sheridan é precisa em suportar uma história que dificilmente seria rodada não como um dramalhão, mas um filme político. Sheridan consegue os dois, e torna simples de entender como violência é um pré-requisito de qualquer estado. Justiça é apenas um desses enfeites que são arrancados da parede conforme a conveniência do momento.
+Mas por isso mesmo digo que ele é feito para TV, onde o espectador de sofá pode se distrair e não perder nada; mas para uma mostra de cinema fica devendo aos cinéfilos, um público que costuma ser mais exigente com a linguagem. Eu, por exemplo, não encontro nada que possa comentar que possa ter passado despercebido pelo público comum. Este texto é apenas uma carta aberta de indignação. E uma dica para os que têm insônia.
 

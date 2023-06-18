@@ -1,34 +1,23 @@
 ---
-categories:
-- writting
-date: '2020-11-14'
-tags:
-- essays
-title: Sobre Nosso Déficit de Atenção
+categories: []
+date: '2015-08-03'
+tags: null
+title: Sobre debates no SESC Santos
 ---
 
-Nossa sociedade produtiva está doente, mas apenas constatar o fato não começa o tratamento. Nós sabemos os sintomas e a causa. A causa é a evolução tecnológica se aproveitando de nossas falhas biológicas por grandes corporações para vender anúncios. Os sintomas é uma geração inteira diminuindo sua capacidade de concentração e vivendo como autômatos que clicam em links.
+Esse fds participei de uma rápida ida e volta para Santos para participar de um dia com dois debates de um evento organizado pelo meu editor no CinemAqui, o Vinicius Carlos Vieira.
 
-Ironicamente existe [uma análise] feita por Tristan Harris, ex-eticista do Google e filósofo, que relaciona a "indústria da atenção" com a de alimentos, que aumenta níveis de sal, açúcar e outros condimentos para manipular nossa tendência a esses sabores. A nova indústria de entretenimento online utiliza a mesma estratégia, exacerbando nosso mecanismo de recompensas orientado por injeção de dopamina para fazer-nos cada vez mais checar por notificações quando estamos entediados, em um sistema de feedback positivo cujo final é não termos mais paciência para a realidade em nossa volta, e não conseguirmos mais parar de navegar pela infinitas luzes piscantes nas telas de nossos celulares.
+Com um início atribulado por conta da nossa carona, uma taxista que também é artista plástica e que condenava sua situação atual e flertava com a ideia de uma possível oportunidade de virar caminhoneira e viajar o país, talvez o melhor da viagem tenha sido conhecer meu parceiro das críticas em Sampa, o Eduardo Sandrini. Sua lógica e suas opiniões acerca de diversos filmes, além do sempre bom papo sobre Cinema, talvez tenham sido o ponto alto do dia.
 
-No livro [Deep Work], de Cal Newport, o autor apresenta uma defesa de que é cada vez mais preocupante a escassez de pessoas no mercado com a habilidade de conseguir se concentrar por muito tempo em tarefas que exigem total atenção. Três trabalhos citados no livro, de William Powers, John Freemans e Alex Soojung-Kin, concordam que ferramentas de networking estão monopolizando nossa atenção, ao mesmo tempo que degradando nossa capacidade de permanecer focados.
+Disse talvez porque o debate em que ele participou, o primeiro, sobre crítica na internet, atingiu alguns temas até que relevantes, como o desafio atual da mídia impressa -- e, claro, da mídia virtual -- em conseguir atrair a atenção de um público cada vez mais alheio à cultura e à arte.
 
-Apesar de sabermos desse efeito desde o nascimento da TV e dos vídeo-games, é agora que a causa científica da epidemia dos devaneios crônicos está chegando em um consenso. A resposta estaria ligada a uma camada gordurosa de tecido que envolve a conexão entre axônios no cérebro chamada [mielina]. Sua função é proteger e melhorar a comunicação entre as células cerebrais, e melhora aqui se traduz em trocas mais rápidas de informação dentro do cérebro (e com menos ruído).
+Disse talvez também porque, embora instigante, o debate logo denotou seu objetivo paralelo em se tornar uma plataforma de publicidade. No caso, do saite Judao. Nada contra, aliás. Não o conhecia, dei meus 15 minutos (talvez menos) de visita, e foi legal. Bom saber que existe.
 
-Essa camada é construída naturalmente em torno das conexões mais usadas pela repetição de seu uso. As responsáveis por construí-las são outras células que mantêm o sistema neurológico. Elas detectam o uso repetido de neurônios e produzem camadas de mielina para proteger essas conexões.
+Não me levem a mal, não sou desses nerds de HQs, games ou Cinema como plataforma de materialização de sonhos nerds (de HQs). Logo, não sou o público-alvo. Mesmo assim, achei no mínimo estranho um saite que evita comentários, no melhor estilo censura, preferindo deixar as discussões para o lado das redes sociais (que, pelo visto, são quase inexistentes). A ideia de divergir não parece agradar a linha editorial da equipe, e é de respeitar a tentativa de higienizar a opinião (não que fosse louvável).
 
-A tradução leiga dessa descoberta científica já é de conhecimento comum há gerações: quando alguém se concentra em aprender algo os alicerces do conhecimento se tornam mais sólidos. Sabemos agora pela ciência que isso acontece porque quando a pessoa está efetuando uma única atividade sem distrações a tarefa de inocular as conexões cerebrais responsáveis por manter a informação não precisa ser compartilhada com outras fontes de atenção. É por isso que se alguém está aprendendo um novo idioma enquanto checa o Instagram essa pessoa absorve menos do que alguém 100% focado no novo conhecimento.
+Mas divago. A questão mercadológica das notícias e da opinião para as massas foi o ponto forte, além da participação de um jornalista da Tribuna dos "velhos tempos". Tudo isso me pareceu bem novo e em um ambiente em que não estou acostumado.
 
-O importante a se lembrar desse processo no cérebro é que ele é permanente. A pessoa não consegue mais absorver melhor novo conhecimento sobre um assunto com o mesmo potencial de estar aprendendo pela primeira vez. Claro que com mais prática sabemos ser possível melhorar em qualquer área, mas a própria habilidade em aprender está sujeita a essa dinâmica de fortalecimento cerebral, e portanto abalada pelas constantes interrupções e multitarefa da vida moderna.
+Sobre o Hype nerd, minhas ressalvas são talvez piores. Eu ter aprendido que, além da confusa noção de que o capitalismo é colocado como um bicho à parte, ficar com a noção de que é esperado de geradores de conteúdo cultural por algum motivo que eles estejam alheios ao mundo real, ou boa parcela dele, me parece desonesto. O tal politicamente correto foi citado, e eu até tinha algumas ideias sobre o assunto, embora não me parecesse correto cortar o efusivo colaborador do Judão.
 
-Paradoxalmente, por outro lado, é conhecido que a melhor maneira de relembrar um conhecimento obtido anteriormente é interrompê-lo sem concluí-lo. O [efeito Zeigarnik], nomeado por causa da cientista soviética que o descobriu, é o motivo pelo qual é muito mais simples continuar o trabalho do dia anterior se ele estiver com lacunas a ser preenchidas. Exemplos seriam um escritor que deixa um parágrafo pela metade ou um estudante que deixa um cálculo matemático a terminar. É importante lembrar, porém, que houve tentativas mais recentes de tentar reproduzir este efeito sem sucesso. Acredite com cautela.
-
-Por fim, a tecnologia crescente pode estar desempenhando uma mudança mais significativa do que imaginamos na concepção do que é ser humano. Essa afirmação não está pautada em estudos, mas em observação humana. Daniel, o autor do texto [Technology is Heroin](http://tiny-giant-books.com/Entry1.html?EntryId=recgcpfuOFUesUpRy), relaciona o uso passivo da evolução em comunicação e entretenimento com a evolução do uso de drogas como heroína e ópio na época que eram comprados na farmácia da esquina. Na época a sociedade diminuiu sua produtividade, a economia começou a sofrer e a função humana nas relações sociais e de trabalho estava colapsando como um todo (carece de fontes). E a tecnologia poderia ser a segunda onda a destruir essas mesmas relações, ou transformá-las de maneira radical.
-
-O surgimento do gramofone, do rádio, da TV e dos video-games, segundo o autor, está tornando as relações dos indivíduos com sua realidade cada vez mais um ato passivo, e não mais ativo, como era quando os tempos eram mais difíceis ou manuais, e até visitar um amigo ou ouvir sua música favorita era um esforço e tanto. Claro que o texto parte de um ponto de vista mais bucólico e talvez possa ser descartado em seu todo, mas sua mensagem parece possui algo inerentemente verdadeiro nos tempos de hoje: observamos jovens e adultos cada vez mais passivos e alheios à sua realidade, cada um criando sua própria bolha para se proteger do mundo cruel que um dia existiu lá fora.
-
-[uma análise]: {{< relref "leitura-how-technology-hijacks-peoples-minds" >}}
-[Deep Work]: https://caloni.com.br/deep-work/
-[efeito Zeigarnik]: https://en.wikipedia.org/wiki/Zeigarnik_effect
-[mielina]: https://pt.wikipedia.org/wiki/Bainha_de_mielina
+De certa forma, o segundo debate foi superficial em todos os seus meandros, embora o mediador tivesse tentado provocar com perguntas até que interessantes, embora meio repetitivas. Essa questão do capitalismo contra o sei-lá-o-quê-mas-que-precisa-de-dinheiro-também talvez tenha ficado mal explicada por falta de tempo ou elaboração, mas também pode ser um trauma do pessoal de humanas, que estava acostumado há quinze anos atrás, mas hoje vejo com estranheza. Male/male, uma experiência diferente. Havia dito, para o Eduardo, se não me engano, que experiências diferentes são positivas. Hoje, passado o "hype", fico com minhas dúvidas.
 

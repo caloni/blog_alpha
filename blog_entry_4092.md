@@ -1,17 +1,14 @@
 ---
 categories:
 - writting
-date: '2021-07-31T22:34:13-03:00'
+date: '2012-01-24'
+link: https://www.imdb.com/title/tt0995829
 tags:
-- series
-title: Young Royals
+- movies
+title: XXY
 ---
 
-Um trabalho bem sueco, com equipe sueca e casting sueco. Falado em sueco, inclusive. Sobre as idiossincrasias da realeza sueca em tempos de diversidade e discussões sociais.
+Mais um filme com tema sexual polêmico (como o recente, leve e em cartaz Tomboy), mas que nesse caso, assim como o Minhas Mães e Meu Pai, se recusa a apresentar uma história que utilize seus personagens e seus conflitos de forma coerente ou pelo menos interessante. Não, a única coisa que faz é sempre focar na condição de Alex, um garoto que nasceu com ambos os genes, o masculino e o feminino , o que faz com que, entre outras coisas, ele/ela tenha ambos os órgãos sexuais. Uma aberração, certo? Errado. Alex é um ser humano qualquer, ou melhor dizendo, um adolescente qualquer, mas independente disso o filme tenta de todas as formas apresentar o conflito físico do personagem como sendo o único evento digno de nota, a única coisa na história que valha a pena ser contada.
 
-Tudo começa quando um dos herdeiros do trono, o mais jovem, apronta em uma festa e precisa pedir desculpas em público para toda a nação. Internado em uma escola onde são vistos alunos de classes distintas e um pequeno abismo entre elas, o primeiro episódio da minissérie já pontua com precisão os temas que serão abordados durante sua história: a tensão política, juvenil e (portanto) sexual que se delineia entre aqueles representantes da explosão hormonal. Aristocratas, corporativistas e imigrantes serão vistos sob o ponto de vista de seus filhos. Suas relações no início da vida servirão de rima com a versão adulta.
-
-A direção e edição hipnotiza porque é econômica como cinema. É uma mescla sutil entre a redundância da narrativa televisiva e a densidade audiovisual dos trabalhos cinematográficos que costumam começar e terminar em menos de duas horas. Não vem ao caso a duração, mas sim a maneira de contar uma história. Por ela fugir do esquema automático de apresentar personagens e situações com a burocracia de alguém que está apenas cumprindo seu trabalho merece um destaque mínimo.
-
-Resta saber se o investimento nesse primeiro quarto de hora vale a pena no resto dos outros cinco quartos de hora. Eu acho que não. Há algo que falta no primeiro episódio. Uma provocação autêntica, por exemplo. Nós estamos assistindo a um conteúdo de produção e condução competente, sem dúvida, mas a competência por si só não é suficiente para trazer algo novo. É acima da média tecnicamente falando, mas artisticamente seu conteúdo está drenado da vida do cinema. Como a maioria, ou talvez todas, as produções de streaming. Não se pode investir em conteúdo polêmico. Ou a polêmica está sob o controle do status quo ou não é vendável, se torna chato para as audiências.
+Dessa forma, até mesmo Alex fica em segundo plano, parecendo tão unidimensional quanto o rótulo que o filme lhe dá, de um caso "complicado". Bom, isso todos sabemos. O que não sabemos é a forma com que essa condição é tratada em família e amigos, coisa que a própria história fica muito aquém, mais uma vez se contendo aos estereótipos e a piadinhas sexistas que além de não engrandecer o tema, o simplifica ("ufa, pensei que meu filho fosse viado").
 

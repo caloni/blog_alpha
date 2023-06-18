@@ -1,20 +1,39 @@
 ---
 categories:
 - cooking
-date: '2022-06-04T12:50:19-03:00'
-tags: []
-title: Bolo de Maçã
+date: '2023-05-19'
+tags: null
+title: Bolo de Laranja
 ---
 
-Minha primeira tentativa foi com [essa receita de YouTube](https://www.youtube.com/watch?v=7hJsGDp-DVk&ab_channel=MeninoPrendado) que me pareceu mais simples de aprimorar. Vão 3 maçãs (de qualquer tipo) descascadas (o que não fiz) e picadas (pedaços médios). Junto coloque 3 colheres de sopa de açúcar e 1 colher de canela em pó (coloquei mistura de tchai massala do restaurante indiano que costumo frequentar, que vai gengibre e canela, entre outras coisas). Não tinha limão em casa, então deixei apenas essa mistura repousando enquanto preparava o resto dos ingredientes.
+Essa receita foi me passada pela Mitiko, que fez o melhor bolo de laranja que já comi na vida. Tentando replicar agora para ajustar a receita para ambos os paladares: os que gostam do sabor adstringente, que é o que acontece quando se usa laranja inteira na receita, e os que até gostam, mas acreditam haver um limite. Vamos achar esse limite.
 
-Para o resto a receita original bate clara em neve, mas meu objetivo era fazer algo mais rústico, e não fofinho. Então eu peguei o fuê e comecei a bater na mão 3 ovos, 1 xícara e 1/2 de chá (usar o padrão de 200ml) de açúcar, cerca de 4 colheres de sopa de manteiga, 3/4 de xícara de leite integral (esquentei junto da manteiga) e 2 xícaras de farinha de trigo (peneirada). Na original havia essência de baunilha, que estava em falta, e esqueci a pitada de sal. E sem canela/tchai massala na massa também. Cruazona, mesmo.
+Rendimento: 2 formas de furo pequenas de 15cm.
 
-Depois de misturar as maçãs curtidas no açúcar/canela polvilhei com 1 colher de sopa de fermento químico a massa e coloquei em uma forma com furo no meio untada com manteiga e farinha. O forno ficou em 180 graus pré-aquecido e em cerca de meia-hora mais ou menos o bolo já estava assado de acordo com o teste do palito.
+# Ingredientes
 
-O resultado ficou bem próximo do bolo de banana que costumo comer com um amigo em uma esquina da Alameda Santos e Bela Cintra, se não me engano, na região da Paulista. Se trata de uma massa simples com uma fruta picada em pedaços médios. Você consegue sentir os pedaços da fruta na textura em um bolo ligeiramente doce.
+ - 3 ovos;
+ - 280g de farinha de trigo peneirada;
+ - 12g de fermento;
+ - 240 g de açúcar;
+ - 170g de óleo;
+ - 240 g de laranja (cerca de 1 laranja grande);
+ - 1 colher de sopa rasa de baunilha;
+ - 1 pitada de sal.
 
-Para a próxima tentativa irei reduzir a maçã no fogo, parecido com o que eu faço com a banana para minha [trança de banana], imagino com pedaços pequenos e açúcar extra. A ideia é virar quase uma geleia, mas ainda açucarada, e usar essa mistura como base para a massa. Dessa vez vou usar a canela mesmo.
+# Preparo
 
-[trança de banana]: {{< relref "pao-tranca-de-banana" >}}
+Peneire a farinha de trigo, o fermento, o sal e reserve. Corte a laranja ao meio. Mantenha uma das metades com a casca e a parte branca, a outra metade retire e reserve apenas o suco e o bagaço. Coloque no liquidificador a laranja, os ovos, o óleo e bata por aproximadamente 2 minutos. Acrescente o açúcar e bata por mais 1 minuto. Vire a mistura nos secos peneirados e mexa com o fouet.
+
+Calda (opcional): Suco de 1 laranja e 1/2 xícara de açúcar. Leve ao fogo até começar a engrossar e coloque quente sobre o bolo.
+
+# Histórico
+
+## 2023-05-14
+
+Fiz sem a parte branca da laranja e com 180g de açúcar e ele ficou fraco no sabor e no doce. Para a próxima tentativa voltar para a receita original colocando metade da laranja inteira e mais açúcar (talvez 200g). A falta do doce pode ser falta de calda.
+
+## 2023-05-16
+
+Fiz novamente a receita do bolo de laranja, mas dessa vez colocando meia laranja inteira mais o suco da outra metade. Isso em metade da receita. Ou seja, deveria ter ficado bem laranjudo. Porém, até até o resultado ficou comportado. Usei 100g de açúcar (de 140g da receita original) e 2 ovos no lugar de 3. Dá para sentir o sabor mais adstringente, mas nada que incomode. Acredito que o estado da laranja influencie no resultado final. Ajustei a receita para 240g de açúcar na receita original, pois acredito que bolos cítricos tornam o doce mais leve.
 

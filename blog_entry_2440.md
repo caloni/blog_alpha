@@ -1,23 +1,19 @@
 ---
 categories:
 - writting
-date: '2022-10-11T21:31:48-03:00'
+date: '2021-12-21T11:00:49-03:00'
 tags:
-- cinemaqui
-- mostra
-- movies
-title: Mutzenbacher
+- music
+title: Música gótica sacra e secular
 ---
 
-Este livro pornográfico lançado na Áustria no início do século 20 é um clássico porque é bem escrito e foi alvo de críticas e censura por décadas. O motivo é se tratar das experiências de uma jovem que começou cedo sua vida sexual. Aos cinco anos. Todo o livro são suas experiências na infância e adolescência com todo tipo de homem que ela pudesse encontrar. E agora em Mutzenbacher, filme da Mostra de SP, a diretora Ruth Beckermann reúne em um mesmo set todo tipo de homem que ela pudesse encontrar para falar a respeito.
+Comecei meus estudos musicais caminhando na ordem cronológica pela história. O primeiro artista que me chamou a atenção foi Guillaume de Machaut, um poeta e compositor francês que para ter uma ideia de sua importância tem a data de sua morte como marcador do final de uma era na história musical da Idade Média.
 
-Descrito lindamente de forma vulgar, é óbvio que o livro se trata de um autor masculino fantasiando sobre a luxúria de possuir uma jovem, já que ela sente êxtase por fazer parte de tudo disso. As suspeitas maiores de autoria recaem sobre Felix Salten, escritor de Bambi. No entanto, apesar de óbvio, seu conteúdo não é tão simples e manipulador assim, pois do contrário seria esquecido há muito tempo. Nas entrelinhas se enxerga um misto de vergonha e dor intercalados às cenas que talvez todo homem secretamente queira fazer parte.
+Este autor mistura música secular e sacra, além de diferentes estilos, como o uso de vozes polifônicas (e apenas isso) para uma peça, e alguns álbuns inspirados ou replicando seu trabalho literal usam instrumentos típicos da época. Há muito material produzido que se pode encontrar nos Spotify da vida.
 
-Ruth Beckermann vira o jogo de uma maneira fascinante ao dar voz a estes homens de hoje em dia lendo e interpretando esta obra-fetiche, relacionando as cenas e livro como um todo com suas próprias experiências iniciais no sexo. A vaga no casting está aberta a qualquer ser masculino dos 16 aos 99 anos. Um sofá antigo com um estofado que sugere um fundo erótico é palco desses momentos de instrospecção. Nós somos convidados a interpretar a visão desses homens sobre a sexualidade e abordando temas dos mais controversos para se falar com estranhos, como pedofilia, incesto, trios e tabus. No entando, o poder da edição extrai os melhores momentos desta que deve ter sido uma atividade enfastiante.
+O que eu mais ouvi até agora é uma peça de pouco menos de uma hora chamada O Espelho de Narciso. São apenas vozes que narram uma história cantada com muita alma. A produção é assinada por Gothic Voices. É um trabalho de 1983 absolutamente magistral. Somos transportados para uma época muito diferente dos dias de hoje, mas mais do que isso, a voz humana aqui é exaltada em um nível que não estamos mais acostumados. Tanto a técnica quanto o local onde foram captados esses sons humanos evocam uma origem divina, quando o divino ainda era a referência para o mundo.
 
-A boa ideia é colocar sob o prisma do espectador a percepção masculina sobre o sexo com uma jovem hoje considerada jovem demais. A luz interpretativa está sob nosso controle, e talvez além do interessante. Não saímos da experiência mais sábios. O filme explora questões pela metade, pois são pontos de vista dilapidados sem uma intenção uníssona. É abrir um debate sem foco de como discorrer ou terminar.
+Um trabalho mais musical e eclético, com diferentes estilos combinados, é esse Le Jugement du Roi de Navarre, um trabalho de produção mais recente (2003) e que ainda preciso me contextualizar melhor, mas me parece um texto narrativo.
 
-Logo, o potencial de dar voz a esses homens de ampla faixa de idade sobre assunto controverso é alto, mas o resultado insatisfatório. Não é como se houvesse algum momento sublime nessa exploração do antigo e do novo, dos "novos tempos" e como as coisas funcionavam antes para a mulher e como é agora. Há poucos momentos políticos que jogam uma luz no pensamento masculino atual sobre a opressão sofrida recentemente aos homens da sociedade moderna, mas não é apenas isso que está em debate, e logo termina, o que torna a discussão estéril nessa arena. A necessidade da diretora em tentar extrair conteúdo de seus candidatos acaba frustrando o projeto.
-
-Ou talvez para um homem este não seja um filme com alguma novidade sobre como funcionamos. Extrair a diversidade de opiniões possui o efeito indesejado em uma obra de arte em colocar tudo no mesmo patamar. A falta de uma opinião forte ou uma interpretação definida sobre o livro, por outro lado, acaba o glorificando mais uma vez. Talvez este seja o motivo deste ser um clássico da pornografia até os dias de hoje. E talvez seja por isso que eu espero ansiosamente por uma tradução para o português.
+Isso está mais divertido que um filme.
 

@@ -1,18 +1,23 @@
 ---
 
-Ecos pode ser muito chato para algumas pessoas e fascinante para outras. É um filme feito de pequeníssimos momentos que não significam nada sozinhos, mas que pela sua soma geram uma sensação de existência. E é bom existir.
+Eclipse encontra no eterno drama -- protagonizado pelo trio Jacob (Lautner), Edward (Pattinson) e Bella (Stewart) -- o combustível para prosseguir com a saga das famílias de vampiros e lobisomems mutantes que povoam o limitado universo da escritora Stephenie Meyer.
 
-A proposta do diretor Rúnar Rúnarsson é capturar cenas de sua terra natal, a Islândia, nas semanas de Natal e Ano Novo, e quando eu digo capturar tanto pode a vida real sendo filmada ou uma dramatização de momentos possíveis. São cenas belíssimas, amplas e que capturam aquele momento chave de cada lugar, que varia entre temas natalinos, locais de trabalho, o lar das pessoas ou lugares públicos. Um filme de observação dos seres humanos na metade do século 21.
+O que distingue esse terceiro capítulo dos [dois] [anteriores], além de efeitos digitais aprimorados e uma fotografia que elegantemente dá nome ao filme, são os velhos diálogos envolvendo a transformação (necessária) de Bella em uma vampira brilhante e o amor sufocante que um sente pelo outro inseridos em um clima de guerra, que pode explodir a qualquer momento, e que mais uma vez possui Bella em seu centro.
 
-Mas como os diálogos e as situações são montadas, é claro que existe o viés do seu idealizador, que usa o filme para capturar o que ele acredita ser a síntese de nossa era, como a incessante luta de classes, discussões políticas e sociais, a frieza nas relações, a diversidade da formação de famílias e até o sufoco percebido por nós do impacto que geramos aos pets com fogos de artifício, um dos muitos exemplos de contradições construídas pela humanidade.
+E quando digo "que um sente pelo outro" incluo aqui também os sentimentos do lobisomem descamisado Jacob, que deixam de ser completamente platônicos, em relação a Bella. O triângulo finalmente se completa em uma inspirada cena em uma barraca gelada, quando Edward finalmente confessa que seria capaz de gostar de Jacob. Os diálogos, como sempre, são bem atrapalhados, mas note o olhar dos dois rapazes e entenderá a mensagem muito melhor. Olhe em seus lábios e... bem, deixo o resto das conclusões para um próximo encontro do casal/trio no alto de uma montanha, quando precisarem armar novamente a barraca e se proteger da intolerância e do preconceito lá fora.
 
-Este é um filme curto onde o ponto de partida são os preparativos de Natal e seu final é o início de um novo ano. Para muitas pessoas essa é uma época significativa e um dos objetivos do filme é buscar esse significado através da observação de como os humanos da Islândia vivem, e de certa forma como as pessoas da Europa. E se França, Alemanha e até Portugal podem se nomear primeiro mundo, a Islândia é o primeiríssimo mundo, onde uma placa de acidentes de trânsito indicam 15 mortes ao total em um ano. Enquanto para eles é uma análise do presente, para brasileiros pode ser visto como ficção científica, em um futuro distante.
+Começo a achar agradável a tragicomédia que aqui se configura.
+
+[anteriores]: {{< relref "a-saga-crepusculo-lua-nova" >}}
+[dois]: {{< relref "crepusculo" >}}
 
 ---
 categories:
 - writting
-date: '2013-08-23'
-link: https://www.imdb.com/title/tt0109707
+date: '2019-10-22'
+link: https://www.imdb.com/title/tt9296808
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Ed Wood
+title: Ecos

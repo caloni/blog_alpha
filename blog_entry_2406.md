@@ -1,35 +1,29 @@
 ---
 categories:
 - writting
-date: '2023-01-23T17:09:11-03:00'
+date: '2023-01-25T09:51:48-03:00'
 tags:
 - cinemaqui
 - mostratiradentes
 - movies
-title: Mostra Panorama Série 1
+title: Mostra Foco Séries 2
 ---
 
-O vampiro que pensa vozes, de Paulinho Sacramento
+KENZO ou o triunfo da auto-desintegração, de Pedrokas
 
-Paulinho Sacramento vem em resgate do falecido José Mojica Marins, o Zé do Caixão, e apresenta um vampiro trash muito ruim e muito pertinente na dramaturgia do lixão. Ele é o que o título diz que ele é. Ele faz terapia. Ele tenta destruir Bolsonaro com um teaser apontado para a TV. Ele é a síntese do ser politizado desse nosso Brasil antifascista antirascista e antitaxista. O curta é engraçadíssimo em alguns momentos. Em outros ele é apenas ruim, o que não deixa de ser bom. Se há algum curta que merece um longa, este é o cara. À Meia Noite levarei seus cinco reais. Esse seria o preço da sessão.
+Há limites para o tipo de porcaria que é aceito em uma mostra de cinema? Essa é a abordagem desse, dessa, dessu, disso aqui. O nome é Pedrokas e a viagem é pelo consciente poluído e improdutivo de um suposto cineasta em busca de aprovação ou aceitação de quem tiver coragem de assistir ao seu manifesto sobre o plágio dos que não criam. Tenho boas notícias para esta pedroca: você foi aceito. Agora a má notícia: qualquer um é aceito se pertencer a uma minoria.
 
-Espectro Restauración, de Felippe Mussel
+Pedra Polida, de Danny Barbosa
 
-Experimental e sintético, o objetivo da reflexão de Felippe Mussel é ecológico. Ele monta uma relação entre a floresta perdida e o som das queimadas em um compilado que te obriga a abraçar o não-conformismo com a estrutura e ao mesmo tempo adota uma estrutura simplória para observarmos o que perdemos quando a natureza vai-se embora.
+Novelinha sem graça se tirarmos o fator trans, Pedra Polida é um jogo de cartas marcadas e um guia sobre como estar mostrando seu filme apresentando nada mais exceto auto-referência. A tela de cinema como confessionário das virtudes que qualquer ser humano decente deveria possuir. A história gira em torno de uma enfermeira que estava em um relacionamento abusivo e tem uma mãe intolerante a lactose. De vez em quando a heroína do filme chega com uma camiseta manchada de sangue. O que isso significa? Precisamos assistir à versão longa para entender.
 
-Corpo Onírico, de Marina Barbosa Mahmood
+SOLMATALUA, de Rodrigo Ribeiro-Andrade
 
-Sem diálogos, a sensação de profundidade e movimento no trabalho de Marina Barbosa Mahmood é no mínimo curioso. Ela bebe da noção do que é sensual das irmãs Wachowski, no sentido que não é algo 100% feminino, mas é sensual sem determinar muito o gênero. São as cores, as curvas e o movimento. Perde-se no significado por não impor um discurso, mas ganha-se em sensações, em volume e em perspectiva.
+Este documentário do Rodrigo já passou e ganhou no É Tudo Verdade, festival de São Paulo de docs. Fiquei empolgado até a segunda cena, que se abre para um recorte de rimas visuais que reexaminam a história reescrita porque ela ainda não acabou, e o negro sairá por cima no final. Profético, não fosse contemporâneo, Rodrigo Ribeiro-Andrade está seguindo o que lhe foi pedido: registre a história evocando os deuses africanos e cenas da favela em que revele-se um caleidoscópio maldito de escadas e corredores infinitos nos levando ao vórtice das infinitas cópias da História.
 
-Cine Pornô – Fragmentos de Desejo e Medo, de Luis Teixeira Mendes
+Remendo, de Roger Ghil (GG)
 
-Um filme muito curto quase todo montado em cima de fotografias indiscretas de momentos em um cinema pornô no centro do Rio de Janeiro. Já fizeram trabalhos de conclusão de curso com a temática dos dizeres em banheiros públicos. Trabalhos que fizeram alunos passar de ano e consumiram papel. Não há limites para a insignificância humana dentro da esfera social. Com este trabalho Luis Teixeira Mendes demonstra em cinco minutos como há infinitas horas de nada que preste dentro do audiovisual brasileiro. Uma lição para as próximas gerações. Uma falta de respeito com o pessoal da limpeza.
+Esta provocação de linguagem pelo cineasta Roger Ghil, GG para os íntimos, é divertida a cada segundo. O filme passa rápido e deixa um gostinho de quero participar deste universo por mais tempo. Detentor dos poderes que poucos curtas possuem de querermos ver uma versão mais longa, Remendo aproveita aqueles recursos do audiovisual já pausterizados para a TV e resgata sua essência, muito mais poderosa por flertar com o trash, que é atraente por natureza.
 
-Claudio, de Calebe Lopes
-
-Almodovariano sem ousar muito. Simbólico ser ousar ser tarantinesco. Há tantas influências fáceis neste trabalho de Calebe Lopes que ele perde a graça por causa do sentimento de Deja Vu. Em algum momento, depois de martelar a imagem de uma noiva usando máscara no meio da noite urbana, a proposta torna-se válida novamente. É o cinema enlatado da repetição. É mais um curta que vale um longa. E mais uma vez, a sessão custa cinco reais. Dois filmes pelo preço de um?
-
-De como me tornei invisível pra caber em meu espírito, de Padmateo
-
-A revelação de que a indefinição de gênero para algumas pessoas pode ser um trauma levado a série pela academia. E quando essa ferida é exposta como arte se torna um misto de vergonha alheia, incômodo coletivo, nojo e repulsa seguidos de pena. A obra íntima e biográfica de Padmateo não poderia ter vindo na melhor hora: a hora da transição. Se trata de cinema experimental de preparação. Senhoras e senhores e senhorus: preparem-se para o pior.
+Esta sessão terminou em alto astral.
 

@@ -1,28 +1,23 @@
 ---
 categories:
 - writting
-date: '2018-02-27'
-link: https://www.imdb.com/title/tt4158110
+date: '2021-11-01T22:34:22-03:00'
 tags:
 - series
-title: 'Mr Robot: Terceira Temporada'
+title: Mr. Robot e sua redistribuição de riqueza
 ---
 
-Seria um spoiler dizer que esta temporada de Mr. Robot terá ou não, como as duas temporadas anteriores, uma reviravolta no final? Bom, é como esse novo personagem diz: uma história pode começar morna, ter um meio medíocre, mas o final... precisa ser surpreendente. Então faça as contas.
+Aquele momento mágico em que toda a riqueza dos malvadões é redistribuída de maneira equitativa entre a população falha por pelo menos dois motivos.
 
-Mas Mr. Robot está se tornado o trabalho hermético e confuso que gostaríamos que ele fosse, então mesmo que houvesse uma reviravolta, ela seria sutil demais para ser percebida. Nós, nerds, não queremos apenas um thriller para nos divertir, mas um universo que faça uma referência ao nosso, com crise financeira, jogos políticos, terrorismo, hackerismo de primeira e problemas psicológicos. Este é o mundo que nos acostumamos a viver. Se não houver hacks em computadores e na mente humana não vale a pena ser assistido.
+O primeiro é que os americanos estão bem longe de ser o povo mais pobre do mundo. Há miséria real fora da bolha ianque na mesma ordem em que eles são os 1% em relação ao mundo. Agraciá-los seria a pior forma de redistribuição de renda da história.
 
-E este é o mundo dos bits, dos bauds e dos neurônios danificados. É o mundo cínico, sombrio e sem esperança pintado pela série. Salvar o mundo, não salvar o mundo, que diferença faz? Consciência, não-consciência, qual o problema em uma outra pessoa viver junto de você? Não somos há muito tempo as criaturas simples criadas por deus como pensávamos. Hoje nem somos mais indivíduos.
+Se fôssemos ser justos ao máximo no sentido de que riqueza foi roubada dos habitantes do planeta e está concentrada em 1% desses moradores teríamos que redistribuir essa riqueza entre todos os bilhões de seres humanos do planeta. Esqueça por um momento o lado logístico desse problema e foque mais no lado econômico.
 
-O que me incomoda na série é essa necessidade de dois atores para duas personalidades da "mesma" pessoa. Às vezes penso que pode ser por limites da atuação de Rami Malek. Mas logo essa dúvida se esvai quando vejo a próxima belíssima cena que ele nos brinda com seu trejeito paranoico-depressivo. Por outro lado não consigo imaginar a série sem Christian Slater e seu contraponto irreverente tão necessário para chacoalhar o universo de Elliot.
+O escritor e defensor mais ferrenho dessa redistribuição de renda, Tomas Pikety, em seu livro O Capital no Século 21 afirma com base em cálculos bem básicos de matemática que se fôssemos fazer essa redistribuição de maneira equitativa entre todos os habitantes o saldo na conta de casa um de nós seria cerca de 4000 euros. Veja bem, é um bom valor para passar um mês em um lugar bem caro e até um ano em um lugar bem pobre, mas está bem longe de deixar qualquer uma dessas pessoas tranquila a respeito do longo prazo. Quanto mais rica.
 
-E esse embate eterno que eu tenho é precisamente o dilema de Mr. Alderson, que é chamado de Mr. aqui muitas vezes e Alderson não é coincidência, mas uma referência a Matrix (há uma cena que é uma homenagem). Elliot consegue viver também sem Mr. Robot? Não é precisamente ele que o mostra que o mundo não é o que parece, tal como um Morpheus dizendo para Neo em seus sonhos algo inacreditável?
+Na vida real, voltando alguns devaneios, imagine que apenas os americanos ganharam essa bolada. Nesse momento é o país mais igual do mundo. Na vida real em menos de um ano teríamos a mesma desigualdade. Uma minoria faria um bom uso da oportunidade, mas a maioria seguiria seu modus operandi que a tornou pobre e endividada, pois o dinheiro é mero reflexo disso.
 
-Esta temporada conta mais do mesmo, mas parece ser justamente o que procuramos: um escape do mundo real com traços perenes desse mesmo mundo. Onde moedas digitais vão começar a servir aos propósitos políticos e veremos como políticos idiotas (como Trump) podem (e devem) ser eleitos. Toda a trama se desenvolve para contar as partes que faltavam. É quase um prólogo.
+Se isso não fosse verdade teríamos uma mobilidade social muito maior, pois na realidade de fato temos, mas em um nível anedótico, o que faz sentido visto os esforços sobrehumanos que os casos de sucesso precisam se dedicar para mudar seus destinos radicalmente.
 
-Há o crescimento de muitos personagens que começam a se tornar mais interessantes que apenas meros coadjuvantes, como Bobby Cannavale, que chega chegando com seu vendedor de carros falastrão. A personagem que se torna ligeiramente forçada é Angela, que apesar da boa atuação de Portia Doubleday vai se tornando cada vez mais inverossímil. Me lembrou a irmã de Dexter...
-
-A dupla imbatível é mesmo Rami Malek e Christian Slater. Ou deveria dizer o trio? O diretor e idealizador Sam Esmail (Eu Estava Justamente Pensando em Você) consegue melhorar sua técnica de direção ao extremo. Afeito a brincadeiras e truques, seu uso de enquadramentos aqui beira o perfeccionismo. "Mr. Robot", apesar de ser um jogo mental, ganha outros contornos artísticos bem articulados, como o episódio inteiro em plano-sequência do ataque ao prédio da E-Corp, uma aula de cinema.
-
-Sempre disposto a não tornar fácil para o espectador acompanhar Elliot em sua jornada do herói/anti-herói, Esmail impulsiona o que há de melhor na série nesta temporada e apesar dos furos e deslizes do roteiro se aproxima mais ainda do universo idealizado do hacker. Não meramente o hacker de computador, mas o hacker da vida, que quer entender tudo, e que se aproxima cada vez mais da dura realidade...
+Acreditar que a maioria faria isso se caísse uma bolada em sua conta bancária não é apenas ingenuidade. É infantil. Ou desonesto usar esta hipótese como um argumento sério.
 

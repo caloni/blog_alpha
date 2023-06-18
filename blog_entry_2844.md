@@ -1,20 +1,23 @@
 ---
 categories:
 - writting
-date: '2021-03-27'
-link: https://www.imdb.com/title/tt0265930
+date: '2015-03-13'
+link: https://www.imdb.com/title/tt1568343
 tags:
+- cinemaqui
 - movies
-title: O Último Beijo
+title: O Último Ato
 ---
 
-Um dos últimos grandes, do único dos anos 2000, este drama, comédia e romance italiano trabalha os relacionamentos entre diferentes casais e indivíduos como Hollywood jamais ousaria. Ele é honesto, sincero, realista e por isso mesmo conquista nossos corações e mentes. Simplesmente por falar a verdade. Não há contos de fadas da Disney. Não há histórias sobre injustiça social e feminismo. Nada dessas fábulas modernas do novo milênio constam neste filme que reúne em histórias contemporâneas as vicissitudes que o ser humano passou para manter a estrutura familiar intacta, ou viver de acordo com o que é certo, acima de tudo e de todos. A lei do universo, e do porquê as coisas são como são. Um tapa bem dado nos pós-modernistas e relativistas.
+Al Pacino é um dos grandes atores do nosso tempo e das décadas de ouro do Cinema norte-americano, com descobertas de grandes diretores como Francis Ford Coppola, Oliver Stone e Martin Scorsese. Esse fato não pode passar batido de O Último Ato, em que ele interpreta Simon Axler, um ator no início de sua decadência. Lá pelos seus 60 anos, Simon não consegue mais se lembrar de suas falas no palco e em uma crise nervosa se lança para a plateia, colocando um fim temporário em sua carreira.
 
-São vários centros de uma única história, mas gira em torno de ter filhos, formar casais, fidelidade e casamento. Também envolve encontrar o eu dentro de nós que com sorte nos dará as respostas que perseguimos mesmo sem saber. Qual a resposta correta para cada um desses desafios da sociedade desde sempre? Não é algo racional e o filme vem nos mostrar como o processo intuitivo é o mais poderoso. Pois vem de antes de sermos gente. A humanidade fez uma tradição por milhares de anos. Seria burrice achar que existe um caminho fácil para tudo isso.
+O diretor Barry Levinson também fez alguns trabalhos de destaque nos anos 80, como Rain Main e Bugsy. Rain Main, com Dustin Hoffman como um autista com capacidades impressionantes de cálculo com números, lembra um pouco o personagem de Al Pacino no sentido de que agora que sua carreira está em pausa as pessoas apenas lembram de seus grandes trabalhos como ator, mas sua vida pessoal é um completo caos e não parece haver nada que Simon faça que a melhore. Na verdade, é no caos que ela começa a ficar um pouco mais interessante quando reencontra sua afilhada, Pegeen (Greta Gerwig, do ótimo Frances Ha), e desenvolve um esperado relacionamento amoroso (Pegeen nutria um romance platônico de longa data com seu padrinho).
 
-E o filme escrito e dirigido por Gabriele Muccino não evita nada e bate de frente com essas questões que nos faz deixar a mente em parafuso, pensando a todo momento. Não necessariamente defendendo este ou aquele lado. Importa menos se o marido deveria nunca abandonar a esposa com um filho de seis meses, e mais sobre o que faz com que essa situação ocorra na vida de muitos.
+Levinson não tem pressa em desenvolver a história de Buck Henry e Michal Zebede, baseados no romance de Philip Roth, e acaba tornando o que poderia ser uma grande farsa dramática em um romance quase leve. O que o impede são situações incomuns que são encaradas como bizarras, sendo que se o bizarro fosse o padrinho se enamorar da afilhada mais de 30 anos mais jovem, isso já aconteceu. Não é a ex-namorada que trocou de sexo que vai tornar as coisas piores. Nesse sentido, o roteiro tem passagens equivocadas que não acrescentam em nada ao filme, embora sirvam de estopim para a já esperada crise do casal.
 
-O elenco dá um baile, principalmente por causa de uma direção coesa que une diferentes histórias sobre o mesmo arco dramático das relações, mas em particular sempre que contracenam os veteranos Stefania Sandrelli e Luigi Diberti como o casal mais vivido nós sentimos algo mágico sendo construído em tela. São momentos para reviver. São eternos pela naturalidade com que conduzem uma crise. E nem a crise deles é algo fácil de antever onde vai dar.
+É nessa fase que a participação de Greta Gerwig é primordial em realizar tudo o que uma de suas ex ameaçava por telefone para Simon, de forma que sua simples presença na casa praticamente intocada de Simon acaba se tornado um incômodo invisível, pois é apenas pelas sucessivas conversas de Simon com seu psiquiatra que conseguimos entender a influência que a moça vai tomando em sua vida.
 
-Não há respostas fáceis no dramalhão que se forma em O Último Beijo e isso é ótimo. Estamos cheios de filmes com respostas fáceis, terceiros atos bem pavimentados e final manjado. Nenhum filme com uma conclusão satisfatória é digno de nota a longo prazo. São meras distrações para pessoas entediadas. Assista um filme difícil como esse, que faz você repensar sua própria vida em meio ao turbilhão de emoções, onde no final você continua sem resposta, e terá visto algo que pode ser revisto sempre que quiser.
+O terceiro ato, contudo, consegue se destacar por completo do resto do filme, pois apresenta um interessante comparativo do romance de Simon com o que aconteceu com uma mulher que ele conheceu no instituto psiquiátrico (Kyra Sedgwick) durante sua recuperação e que desde então tem tentado persuadi-lo a matar seu marido. Na verdade, parece que a história inteira ganha novos contornos que não podem ser negados, e até os delírios de Simon, quando este não consegue distinguir realidade de ficção.
+
+Quando chegamos no "Último Ato" do título brasileiro, que apresenta uma performance admirável de Al Pacino, que parecia se conter até o momento, e realiza uma rima interessante com seu contemporâneo Birdman. No fundo, o próprio conceito de Birdman e O Último Ato parece revelar uma preocupação atual com a dualidade entre o real e o imaginário na arte, principalmente o Cinema, e como o faz-de-conta enlatado do segundo muitas vezes enfraquece o primeiro. Felizmente, temos trabalhos como esse para nos lembrar que a arte muitas vezes transcende a vida e a enriquece.
 

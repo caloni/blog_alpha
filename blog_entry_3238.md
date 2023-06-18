@@ -1,29 +1,31 @@
 ---
 categories:
 - writting
-date: '2019-09-13'
-link: https://www.imdb.com/title/tt1206885
+date: '2019-02-28'
+link: https://www.imdb.com/title/tt5553810
 tags:
 - cinemaqui
 - movies
-title: 'Rambo: Até o Fim'
+title: Raiva
 ---
 
-"Rambo: Até o Fim" fecha o ciclo iniciado por "Rambo - Programado Para Matar", primeiro filme de cinco que usaram o ex-soldado do Vietnã traumatizado que usa com certo prazer suas habilidades de guerra em civis. E ele encerra nos mesmos moldes do filme anterior, de 2008: brutal e sanguinário a ponto de questionarmos até que ponto tudo isso é justificável.
+Raiva é adaptação de Seara do Vento, um livro inteiro do escritor Manuel da Fonseca, mas que no filme mais parece um conto. Inspirado em uma ocorrência real (o livro), a história no filme começa com um homem que desistiu da vida que levava. Isso é óbvio quando o vemos carregar sua arma e pular a janela de sua casa. Ele vai fazer justiça? Não sabemos. A única coisa que fica clara é que ele tem um motivo. E naquele momento não importa qual. E como descobriremos mais tarde, quando a dignidade humana é perdida os motivos não importam.
 
-Nunca entendi muito bem a mensagem por trás de Rambo: justiceiro com habilidades especiais, ele derruba policiais corruptos e cartéis de drogas, e muitas vezes exagerando na dose de como ele faz isso. E tudo sozinho. Esse exagero se tornou a marca registrada do controverso herói no cinema. Ele envelheceu, mas nunca mudou.
+Essa é a única inversão narrativa da história, pois o filme é sobre o motivo de tamanha fúria. Então voltamos ao passado para entender a dinâmica dessa família que mal tem para comer.
 
-A história deste quinto filme o coloca vivendo em um rancho com a família que adotou, uma senhora latina e sua filha adolescente, Gabrielle. Ajudando a comunidade local quando há pessoas a serem salvas, seu trauma é não conseguir salvar todo mundo. E esse seu carma será posto a prova quando Gabrielle é sequestrada por uma gangue mexicana que vive do mercado de jovens como escravas sexuais.
+Estamos em Portugal, em 1950 e em preto e branco, pois este é o tom que esta história fica melhor, com as mantas pretas das mulheres e a paisagem desértica ao fundo. Em alguns momentos não se sabe se o horizonte é real ou pintado, pois ele é estilizado; lembra constantemente O Sétimo Selo, clássico do Bergman na época da Peste Negra, com a diferença que aqui a praga é substituída pelas mazelas e injustiças do mundo.
 
-Quando Gabrielle descobre o paradeiro do seu pai ela tem uma discussão amigável com Rambo para que a deixe visitá-lo em busca da resposta que sempre quis ter: por que seu próprio pai abandonou a família justo no momento que mais precisavam. "As pessoas não mudam", resume Rambo em seu argumento. "Quem é mau sempre será mau, e é bom manter distância dessa gente".
+Outro traço do estilo de Raiva é seu comprometimento com o tema da pobreza. Isso se reflete nos cenários quase vazios ou inertes, na falta de diálogo quase digno de um Vidas Secas (Graciliano Ramos) e na falta de trilha sonora. Os únicos sons são os do ambiente e os hinos cantados pela igreja, no máximo dois, que ironicamente iniciam e encerram esta história. Este é também o mesmo estilo do livro em que se baseou. Exemplo de literatura neorealista portuguesa, "Seara" foi escrito por um comunista cujo principal motivo é ideológico, e não a história em si, que é apenas alegórica.
 
-E esse é o primeiro indício de que "Até o Fim" não irá se render à nova era, onde não se combatem criminosos, mas os desculpamos, os vitimizamos, e assim todos se sentem culpados por existirem crápulas na sociedade. Todos, menos John Rambo. Ele está disposto a ir até... sim, o fim, para fazer o que acha certo, e do jeito que ele gosta: com muita, muita violência.
+Se formos analisar o filme por sua história veremos que ela não importa, mesmo, pois é apenas um pedaço da vida privada que se repete aos quatro cantos da História: há os ricos que herdam a terra e há os pobres que ou obedecem ao seu dono ou perecem. A família do filme está na lista dos que perecem, pois seu pai de família cometeu o pecado de pedir aumento ao seu dono. Na história real é acusado de roubar sementes, mas os motivos realmente não importariam se nesse filme em específico estivesse em mente o uso do maniqueísmo narrativo, que apesar de subverter sua fonte de inspiração neorealista necessita endurecer a vida real a ponto dela se encaixar nos objetivos da trama.
 
-É por isso que nesse filme os bandidos são maus de verdade, e cometem atrocidades com as jovens que mantém em cativeiro. Os chefões da área, os irmãos Martinez, sequer hesitam em bater em um quase idoso (este é Rambo) que veio procurar sua filha, e marcar os dois no rosto com um facão como propriedade. Tudo isso para que no terceiro ato, quando Rambo irá tocar o terror, como fez em todos os outros filmes, nos sintamos extasiados por cometer vingança contra toda essa gente do mal.
+O diretor e roteirista Sérgio Tréfaut transforma este romance de uma ficção para outra: a famigerada luta de classes do qual tanto se fala ultimamente. Tão fora de moda por muito tempo, mas de tão poderosa que é hoje está em voga de novo; e a pobreza sempre faz sucesso na telona.
 
-Adrian Grunberg, depois de tantos outros projetos como segundo diretor, aqui assume a direção principal, e não o torna uma paródia da própria série, evitando que as cenas sangrentas se tornem risíveis demais. Grunberg conduz a história como um verdadeiro drama, em um ritmo cadenciado e frequentemente com vistas panorâmicas do pequeno paraíso onde vive a família Rambo. E não fosse este um filme que eventualmente descamba para a ação desenfreada este poderia ser a versão mais reflexiva sobre o herói.
+No entanto, como quase não há personagens a impressão é que não há material suficiente para fazer um longa metragem. Há inúmeras e longas pausas onde vemos a família fazendo exatamente... nada. Esperando a boa sorte. Lamentando o destino fatal que os deixou à mercê do fim. Não é possível acessar sua mentes pela situação de vida, mas apenas intuir. Estão fracos de fome e longe do divino. A criança deficiente nos lembra do aspecto animalesco do homem quando se vive no limite entre a vida e a morte, ou como gosta de dizer a igreja, entre o céu e o inferno.
 
-Mas, felizmente ou infelizmente, Rambo precisa se vingar, e ele logo arruma uma desculpa para virar o justiceiro que tem habilidades de guerra. E por isso o roteiro de Matthew Cirulnick é apenas um guia que nos conduz aos momentos necessário de um filme da saga, tornando uma trama que tinha o potencial de algo mais coeso virar uma mera desculpa para vermos o ex-soldado em ação. E ele entra em ação usando todos os artifícios que já usou nos filmes anteriores. Exceto um helicóptero.
+Há também sinais de mudança social na figura da filha que se mobiliza junto dos camponeses. O pai não a ouve; a clássica falta de comunicação entre as gerações. Ela tem a cara perfeita para uma revolucionária comunista, e o filme sabe disso, captando um momento que ela marcha na frente de uma multidão de humildes. Mas essa mudança social também está nos ricos, na figura do filho do dono das terras que produz o grão, e que realiza contrabando escondido do pai. O que o filme faz então é denunciar, bem sutilmente, a flexibilidade moral entre uma geração endurecida pela seca e uma outra, mimada demais.
 
-"Rambo: Até o Fim" está longe de ser o pior filme da série, mas também está longe de ser o melhor. Ele cumpre seu papel moderado, de resgatar o personagem e nos fazer pensar se ele ainda é válido no nosso mundo contemporâneo. Talvez essa seja a mensagem desse filme, no final das contas.
+Todos os elementos da história residem nos seus personagens, que não podem evitar serem arquétipos universais do sofrimento humano na sociedade contemporânea. Mas mesmo com esse controle narrativo absurdo que o Cinema proporciona, este filme não consegue prender a atenção de quem o assiste. Talvez falte a fagulha criativa do homem quando este morre de fome sem comida nem princípios. Mas estou especulando. A história é reta, mas sua interpretação inteiramente subjetiva. Faltou um pouco de inspiração de Eisenstein e outros teóricos russos sobre a manipulação na montagem do filme.
+
+Raiva é um filme sobre a pobreza em vários sentidos, não apenas material. Seus personagens são desagradáveis, como devem ser. Este é um filme ironicamente anti-humanidade, pois defende que ao se retirar tudo de um homem só lhe resta a emoção crua. Como um animal. E animais se abatem para comer. Logo, não entendo todo esse alvoroço pelos pobres. Além de tudo é contraditório.
 

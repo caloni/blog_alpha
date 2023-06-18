@@ -1,22 +1,52 @@
 ---
 categories:
-- travelling
-date: '2021-12-07T23:43:27-03:00'
-tags: []
-title: J A Passeios 4x4 em Capitólio
+- coding
+date: '2008-03-04'
+title: Iteradores não são constantes
 ---
 
-O desânimo de uma viagem que precede a glória. Chegamos em Capitólio e dois dias seguidos uma chuva chata que impedia qualquer ideia de passeio. Então minha esposa entra em contato com esse serviço de rolês 4x4 e o tempo muda. Domindo de sol chegando, agendamos com eles para conseguir chegar nos pontos onde um carro comum sofre. Ela havia visto um serviço mais barato, mas optamos por esse pelos inúmeros reviews e o Instagram atualizado. E foi ótimo. Valeu a diferença de preço, já que sempre há a dúvida de qual serviço será prestado.
+Um bug que já encontrei uma dúzia de vezes entre os novatos da STL é a utilização de iteradores como se eles não fossem mudar nunca. Porém, a verdade é bem diferente: iteradores se tornam inválidos sim, e com muito mais freqüência do que normalmente se imagina. Entre as situações em que iteradores podem mudar estão as seguintes:
 
-Fomos em dois casais com o Américo, que foi dando várias dicas de como se locomover entre as maravilhosas paradas da região da Serra da Canastra. No caminho também foi descrevendo as diferentes plantas que dão ao lado das trilhas que sobem para as cachoeiras. Na volta ele até se prontificou em pegar um pouco da famigerada Canela de Velho, uma planta boa para dores reumáticas que nós sabemos que minha sogra toma em pílulas. Essa semana ela irá ganhar a versão da natureza em folhas e galhos.
+ - Inserção de novo elemento no contêiner
+ - Remoção de novo elemento no contêiner
+ - Redimensionamento no tamanho do contêiner
 
-Américo não está com pressa. Ele fez todo o percurso com uma calmaria que nos coloca no ritmo de passeio. Qualquer parada é possível, mas ele nos ajuda mostrando os momentos onde uma foto fica boa. Na ida a primeira parada turística estava cheia. Então ele encontra seu colega e recebe a dica de pular essa e ir para a próxima, seguindo o contra-fluxo. Conclusão: todos os lugares que passamos, em um domingo de sol, foram tranquilos e sem muita gente. Dava para entrar na água sossegado, ou ficar molhando os pés sentado em uma pedra. Todos os lugares com fotos "obrigatórias" estavam disponíveis com menos de 5 minutos de espera.
+Por exemplo, o tradicional código do exemplo abaixo contém o tradicional erro de iterador inválido:
 
-Foi muito bom acompanhar na cabine do passageiro da frente o Américo manobrar o 4x4. Nesse trajeto nem foi necessário ativar o modo, mas só a forma de dirigir mostrou que não é um bicho de sete cabeças. Na verdade esse passeio foi tão tranquilo que nos inspirou a buscar passeios semelhantes. Quem sabe dirigindo.
+    for( container::iterator it = obj.begin(); it != obj.end(); ++it )
+    {
+      if( it->member == 0 ) // condição para apagar elemento
+      {
+        obj.erase(it);  // a partir daqui it é inválido,
+                        // e não adianta incrementá-lo
+      }
+    }
 
-O local escolhido para o almoço também foi ótimo. Tranquilo e com vista para o rio que circunda os cânions, e com uma comida bem honesta, boas bebidas e um preço justo.
+Para operações como essa, o retorno geralmente nos dá uma dica de para onde vamos na varredura do contêiner. No caso do método erase, o retorno é o próximo iterador válido, ou o final (retornado pelo método end). Um código mais esperto gera um erro mais sutil:
 
-Por falar em preço, o pessoal da J A Passeios avisa de antemão todos os valores envolvidos à parte. Todos os locais estavam pedindo 10 reais de entrada por pessoa. O controle é bem informal e só aceitam dinheiro. E mesmo assim nós não estávamos preparados. Com toda a tranquilidade ele nos emprestou dinheiro suficiente para passarmos o dia sem nos preocuparmos. Depois fizemos um Pix e assunto resolvido. Simples assim. Tudo parece simples e tranquilo com eles.
+    for( container::iterator it = obj.begin(); it != obj.end(); ++it )
+    {
+      if( it->member == 0 ) // condição para apagar elemento
+      {
+        it = obj.erase(it); // ótimo, atualizou it. só
+                            // que se ele for o final,
+                            // será incrementado
+      }
+    }
 
-Recomendo muito esse serviço. É eficiente sem apressar o turista. Dá soluções em vez de problemas. Não invade nosso espaço. Nos deixa livres para seguir o próprio ritmo para curtir as paisagens maravilhosas de Capitólio. Se voltar à região com certeza usaria de novo.
+Algo de errado irá acontecer apenas se o elemento removido for o último localizado no contêiner.
+
+Esse é um erro comum para os acostumados com outros tipos de iteração (ex: ponteiros) e que não estudaram os princípios básicos da STL, entre eles o da reutilização de algoritmos. Se fosse usado este princípio, nada disso teria acontecido:
+
+    struct remove_if_zero
+    {
+      bool operator() (ObjElement& element)
+      {
+        return element->member == 0;
+      }
+    };
+    
+    obj.remove_if( remove_if_zero() ); // pronto!
+
+Quando precisamos fazer algo nos elementos de um contêiner STL, é quase certo que existirá um algoritmo genérico para essa tarefa, seja no próprio contêiner ou na forma de função (`<algorithm>`). Nunca se esqueça disso na hora de desenvolver seus próprios algoritmos e não precisará reinventar a roda todos os dias.
 

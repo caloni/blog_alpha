@@ -1,54 +1,22 @@
 ---
 categories:
-- coding
-date: '2016-01-13'
+- writting
+date: '2013-04-04'
+link: https://www.imdb.com/title/tt1583421
 tags:
-- ccpp
-title: Gabaritos
+- movies
+title: 'G.I. Joe: Retaliação'
 ---
 
-Um __template__ -- ou, como é na tradução da primeira edição de The C++ Programming Language, de Bjarne Stroustrup, aqui no Brasil: __gabarito__ -- é um molde que pode ser usado por diferentes tipos para traduzir o mesmo algoritmo, ou pelo menos a mesma intenção de algoritmo (por pela sobrecarga de operadores é possível que o comportamento de tipos diferentes pode ser diferente).
+Na cena inicial de "G.I. Joe: Retaliação" (que nomezinho) o comandante de uma missão (Dwayne Johnson) que precisa adentrar uma zona militar da Coreia do Norte ao lado de uma guarita vigiada em uma quase total escuridão resolve derreter a cerca de arame e formar um círculo de fogo que provavelmente poderia ser avistado a uns dois quilômetros. Essa introdução espetacular do grupo de operações especiais secreta do governo norte-americano, os chamados G.I. Joes, é o bastante para termos certeza que nada do que aparecer diante de nós deve ser levado a sério.
 
-Em C++, fazer uma função template é muito simples:
+Como um dos representantes do gênero "filmes baseados em brinquedos", assim como Transformers e Battleship, a saga protagonizada por bonecos de plástico e carrinhos irados da Hasbro consegue ao menos contar uma história simples com começo, (longo) meio e fim enquanto exibe no meio do caminho um conjunto de armas e veículos completamente desvinculados da realidade (meu exemplo favorito e menção honrosa é um tanque que parece querer voar). A graça da coisa reside em pensar nos seus heróis musculosos e com coragem suicida como os próprios bonecos de plástico que os inspiraram, manipulados por um garoto megalomaníaco de comercial de TV.
 
-```
-#include <iostream>
+Nesse sentido o enredo dessa continuação se sai muitíssimo melhor que seu [desprezível predecessor]. Brincando com mísseis nucleares acionados por botões em maletas pessoais de líderes mundiais que se diferenciam apenas pela bandeira de cada país, isso deve fazer parte de algum padrão mundial para destruição em massa, e satélites que explodem assim que uma operação é cancelada (o que são alguns bilhões pela diversão de ver acontecer) o perfil "brincadeira de criança" do filme parece nunca querer sair da mente. O que é algo ruim caso o longa abraçasse de vez a unidimensionalidade dos seus personagens e esquecesse do drama vazio da família de ninjas e pessoas com máscara fumê. É esse delírio de grandiosidade que torna tão maçante as cenas de ação envolvendo um bando de ninjas, que se vestem com uniformes amarelo e vermelho parece que apenas para combinar com o fundo branco das montanhas geladas de algum povoado chino-japonês (bons tempos quando os ninjas eram guerreiros invisíveis). A baboseira se torna particularmente cansativa por enfatizar que a luta é pelo destino de alguém que não damos a mínima. Enquanto isso, os planos maquiavélicos do nosso garoto estirado no tapete da sala brincando de destruição do planeta se saem muito melhor, já que não precisa de drama nenhum para entreter (acho que "destruição mundial" é um tema que já costuma chamar bastante atenção).
 
-using namespace std;
+Porém, mesmo se saindo bem em algumas sequências de ação razoavelmente eficientes somos obrigados a participar de uma tonelada de cenas descartáveis que tentam explicar mais uma vez a origem e a personalidade (inexistente) dos seus heróis, um dos maiores defeitos do original, e que acabam mais uma vez não explicando nem revelando nada de especial, por mais expositivos que sejam os diálogos (o meu "preferido" é um discurso de um velho, negro, cego, oriental e com seu cajado batendo no chão explicando toda a trama em torno da prima e de toda a família do ninja musculoso, e por algum motivo obscuro ela precisa ser prima do rapaz, e não é pelo sexo, pois nem sangue é possível ver nas lutas, por mais sangrento que seja o combate; e a explicação da caricatura de Sr. Miyagi é obviamente para nós, espectadores, os únicos que não estão sabendo de nada sobre o pano de fundo dessa família do barulho; e, particularmente, preferiria continuar não sabendo).
 
-template<typename T>
-bool Compare(T& var1, T& var2)
-{
-	return var1 < var2;
-}
+Nunca conseguindo se firmar como gênero por tempo o suficiente, "G. I. Joe" ao menos parece tentar enxugar bastante a história dos seus personagens, só que mesmo assim parece ter tempo demais na tela. Talvez para que um terceiro filme exista seja necessário enxugar ainda mais caso ele tenha a (fácil) pretensão de se sair melhor que "Retaliação" segundo o mesmo formato. Talvez quinze minutos e tudo já esteja resolvido (e ainda dá tempo para o garoto ir almoçar).
 
-int main()
-{
-	int x = 24, y = 42;
-	double dx = 100.0, dy = 10.0;
-
-	cout << "x is " << ( Compare(x, y) ? "lesser" : "bigger" ) << " than y\n";
-	cout << "dx is " << ( Compare(dx, dy) ? "lesser" : "bigger" ) << " than dy\n";
-}
-```
-
-{{< image src="84Ptrvk.png" caption="" >}}
-
-Continuando nosso tema de fazer as mesmas coisas em C, __templates__ não é tão simples, pois não existe de fato na linguagem. Templates são interpretados pelo compilador, que gera um esqueleto de algoritmo que é usado para preencher código de todos os tipos utilizados. Em C isso era feito usando macros. Porém, macros não fazem parte da linguagem C. É apenas uma ferramenta chamada pré-processador que substitui texto antes do programa ser compilado. É através do pré-processador que, por exemplo, os headers são incluídos em um código-fonte. Isso já foi explicado em um [artigo] bem velhinho, e mais recentemente em uma [palestra].
-
-```
-// qual o tipo de x e y? qualquer um que faça comparação
-#define MACRO(x, y) x < y
-```
-
-Eu não recomendaria usar macros em C++, assim como não recomendo em C. Porém, em C é a única opção para reciclar algoritmos de maneira estática. Exceto se você usar ponteiros de função, o que adiciona pouco overhead, mas se perde, assim como a técnica de macro, a informação dos tipos. A própria libc contém uma função, [__qsort__](http://www.cplusplus.com/reference/cstdlib/qsort/), que é "genérica" através do uso de ponteiros sem tipo (void*) e ponteiro de função. A função ordena elementos de uma lista, mas para isso depende da função de comparação que é passada por parâmetro. Essa função recebe dois void* que deve comparar. Além disso, o leiaute na memória tem que ser fixo, contínuo, pois é assim que a função consegue mover os elementos. Ou seja, bem limitado.
-
-{{< image src="3TkGFkN.png" caption="" >}}
-
-Dessa forma, não pretendo ensinar a usar "templates" em C, mas a usá-los em C++ com foco em C. Um amigo conhecido de vocês, o [Fernando/DriverEntry](http://driverentry.com.br/), utilizou essa técnica com maestria em alguns códigos kernel-mode que ele desenvolveu, e é uma maneira válida de se aproveitar de uma linguagem mais "alto nível" como C++ em ambientes limitados como o código que trabalha com o S.O.. Como a API do kernel lida com abstrações em C, seus objetos necessariamente não são objetos no sentido C++, mas os famigerados "ponteiros opacos".
-
-Mais sobre isso em um próximo post.
-
-[artigo]: {{< relref "os-diferentes-erros-na-linguagem-c" >}}
-[palestra]: {{< relref "entendendo-a-compilacao" >}}
+[desprezível predecessor]: {{< relref "g-i-joe-a-origem-de-cobra" >}}
 

@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2013-06-07'
-link: https://www.imdb.com/title/tt0387808
+date: '2020-02-19'
+link: https://www.imdb.com/title/tt0084116
 tags:
 - movies
-title: Idiocracia
+title: Identificação de Uma Mulher
 ---
 
-Desde o começo Idiocracia estabelece o seu tom de comédia explicando uma teoria muito louca, mas com um sentido simplesmente hilário, de por que o futuro da humanidade é se tornar cada vez mais idiota. Melhor: acompanha um experimento do exército para "estocagem de humanos" em caixões monitorado por um militar que consegue uma prostituta voluntária negociando diretamente com o seu cafetão. Essa parte, ambientada nos tempos atuais, já preocupa pela linha tênue com que o diretor Mike Judge ([Como Enlouquecer seu Chefe]) separa um discurso feito de palavras formais de ações idiotas executadas pela mesma pessoa que profere o discurso.
+Antonioni é aquele diretor italiano que junto com Fellini e outros realizou trabalhos de neo-realismo, um período em que a Itália convive com seus fracassos políticos bem de perto, olhando para a população. Abandonando tudo isso nas décadas seguintes chegamos neste soft porn com cara de filme de arte. Temos a estonteante Daniela Silverio nua em vários momentos, e quando ela some é claro que Tomas Milian vai atrás.
 
-Essa mesma dualidade do linguajar ele irá resgatar quando Joe (Luke Wilson), o outro voluntário do experimento, viaja 500 anos no futuro, onde o "mundo" é composto e liderado por idiotas completos, incapazes de estabelecer qualquer tipo de comunicação melhor do que grunhidos, risadas, barulhos estranhos e sinalizações monossilábicas do que estão "sentindo". Joe é uma pessoa de inteligência média que não se importa de fazer qualquer coisa na vida. Consequentemente é a melhor pessoa que poderia viajar para este destino utópico, pois começa a enxergar naquelas pessoas e suas vidas sem sentido o seu próprio destino (ou castigo) por se comportar como alguém aquém da sua capacidade de raciocínio.
+Este é um filme com várias ideias interessante e uma direção extremamente competente. O que dá errado é que não adianta juntar várias ideias boas em um conjunto onde nenhuma delas colabora para algo em comum. O resultado é que podemos nos entreter por todo o trajeto, mas no final fica a sensação que era melhor ter ficado em casa. Por quê?
 
-Mais assustador do que se estivesse exagerando, o futuro utópico do filme também apresenta uma outra linha tênue entre a população formada inteiramente por idiotas e pela comparação que Mike Judge faz com boa parte das pessoas que hoje vivem entre nós. As próprias marcas e lojas ainda existem, embora tivessem sido cada vez mais descaracterizadas para atender cada vez melhor o seu único público-alvo.
+Porque Antonioni não consegue encontrar nesta obra algo que seja diferente do que fazer um filme. Cineastas contemporâneos famosos estão andando nesse mesmo círculo que Antonioni percorre perdido. Tarantino, Almodóvar, Lars von Trier. Apenas Woody Allen parece se salvar, mas a sociedade em que ele sobrevive já não entende/pensa mais a respeito, o taxando de pedófilo machista.
 
-A melhor ficção é a que consegue te distanciar da realidade para te fazer pensar exatamente nela. Nesse sentido, Idiocracia, infelizmente, é um excelente espécime.
+Quando um cineasta decide que irá fazer um filme porque não consegue evitar, as chances de sair um grande filme são grandes, e as chances de alguém pará-lo, mínimas. Contudo, depois que um cineasta tem seu nome consagrado e pode fazer o que quiser, a ideia que não sai mais de sua cabeça é escrever e/ou digirir um filme sobre ele mesmo e seus percalços até a fama. E agora que veio a fama, a dificuldade de entrar na rodinha dos milionários.
 
-[Como Enlouquecer seu Chefe]: {{< relref "como-enlouquecer-seu-chefe" >}}
+O protagonista desse filme é Niccolò, um diretor de cinema que está em busca de um rosto feminino para seu próximo filme. Enquanto isso se enamora de uma cliente de sua irmã ginecologista e frequenta as rodas de amigo da bela e lascívia Mavi. Ele não se encaixa com ela nessas rodas, apenas na cama. E quando ela some toda a construção da trama em boa parte do filme desanda de uma vez.
 

@@ -4,8 +4,8 @@ categories:
 date: '2018-11-05'
 tags:
 - beer
-title: Tupiniquim Session IPA
+title: Tupiniquim Anunciação IPA
 ---
 
-Tem amargor, mas é constante e médio, como seu corpo; para um kebab seja demais, mas foi com ele que eu tomei.
+É porradinha no estômago, mas seu lúpulo parece de respeito. Sinceramente, minha memória alcoólica deteriora na velocidade da luz.
 

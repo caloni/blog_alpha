@@ -1,24 +1,23 @@
 ---
 categories:
 - writting
-date: '2016-08-08'
-link: https://www.imdb.com/title/tt0803096
+date: '2022-12-04T21:49:52-03:00'
 tags:
 - movies
-title: 'Warcraft: O Primeiro Encontro de Dois Mundos'
+title: Wandinha
 ---
 
-Warcraft consegue manter o tema de estratégia de guerra do jogo viva no filme; de quebra, exibe um dos melhores efeitos visuais do ano. Não aquele que impressiona por impressionar, mas o que está a serviço da narrativa. E com uma história para contar, ainda consegue estar à altura dos melhores trabalhos da produtora desse e outros games. A Blizzard, pelo jeito, não se cansa de impressionar.
+A Família Addams já teve as mais diversas encarnações, mas eu não me lembro de uma versão chata. Wandinha já começa com problemas incorrigíveis ao transformar uma coadjuvante original em protagonista. Além de que a atmosfera da série não se encaixa em momento algum com o espírito da obra original ou mesmo de suas incessantes revisitas nos quadrinhos, na TV e no cinema. E para piorar, a série usa e abusa da narração em off, revelando em seu núcleo uma preguiça inerente que não subexiste apenas no roteiro, mas em toda a produção, desde o figurino até a escolha dos atores.
 
-Baseado em um video-game de RTS (Real Time Strategy, ou Estratéga de Tempo Real), que mais tarde se tornou um RPG consagrado, a história gira em torno dos detalhes de jogabilidade, como o uso da magia em ambas as raças, o poder guerreiro dos orcs, além de seu respeito incondicional às suas tradições, e a habilidade na política dos seres humanos.
+A motivação é ser uma série adolescente investigativa onde habita essa incorrigível menina que era uma vez macabra, mas não mais. Agora ela é feminista, o que não deixa de ser macabro, mas infelizmente também deixa de ser engraçado, quando os comentários sarcásticos espetam o já abatido patriarcado que não apita mais nada.
 
-Mas eu disse duas raças? Warcraft no filme de estreia já ensaia abrir uma franquia que possui um potencial interessante. O mundo dos humanos é pacífico, e lá habitam diferentes raças em harmonia. Há um quê de Senhor do Aneis em muitos momentos.
+E por mencionar troca de papéis, Wandinha se aventura no universo emprestado do seu vizinho: o Harry Potter das malvadezas. Tudo o que acontece na escola de ~~bruxos~~ ~~aberrações~~ figuras fantásticas onde ela estuda tem relação direta com essa menina que acabou de chegar. Até o investigador da cidade tem um passado de perseguição ao seu pai.
 
-No entanto, o foco desse filme é mesmo a batalha entre humanos e orcs. Tendo seu mundo destruído, os orcs realizam uma "migração" graças ao uso de uma magia maligna, que suga a energia das pessoas -- de qualquer raça -- e produz um mana verde que permite abrir um portal entre dois mundos.
+A Família Addams surgiu nos anos 30, dos rascunhos do cartunista Charles Addams. Se trata de uma inversão satírica onde uma família de aristocratas são atraídos pelo macabro e ignoram a sensação que geram nas pessoas ditas normais. Alguns dos rascunhos de Addams foram parar no The New Yorker e desde então houve adaptações para outras mídias, desde os quadrinhos, passando pela série televisiva da década de 60 e chegando nos filmes da década de 90, sucessos de bilheteria.
 
-Há diferentes personagens de ambos os lados que lembram peças em um jogo de xadrez. O roteiro de Charles Leavitt e Duncan Jones (do ótimo Lunar) está a todo momento sugerindo nosso desconhecimento do que essas criaturas poderão ou não fazer, e qual sua função na batalha iminente. Ninguém no elenco se sobressai em particular, mas ninguém estraga a festa (com exceção de uma inexpressiva Ruth Negga como Rainha Taria, que felizmente tem pouquíssimo tempo de tela). A interação homem/orc é sempre interessante, e o roteiro acertadamente escolhe apostar mais nos diálogos do que em batalhas frenéticas.
+Não à toa. Os filmes apresentam os inspiradíssimos Raul Julia como papai Gomez, Anjelica Huston como Morticia, Christopher Lloyd como Tio Chico e Christina Ricci como Vandinha Addams, uma revelação na época. Ricci também estrelaria no live action de Gasparzinho, o Fantasminha Camarada, da mesma década. A maquiagem, o figurino e o mise en scene dos dois filmes com essa família macabra até hoje são dignos de nota. As atuações estão exageradas na medida certa. Estas produções estão naquele grupo sincero dos anos 90 em que se ganhava dinheiro nos cinemas, mas faziam por merecer.
 
-Isso permite duas coisas. Primeiro observar a fabulosa direção de arte, que consegue transformar um universo criado para um jogo em algo mágico, mas ao mesmo tempo realista, evocando a grandeza do império humano e a sociedade tribal dos orcs. Mais do que isso, porém, é ficar a todo momento percebendo os inúmeros detalhes do rosto dos orcs, que consegue expressar um rosto humano na cara de um monstro, e soar perfeitamente crível a todo momento (diferente de um pássaro gigante voador, que oscila entre o muito bom e a falta de cuidado da computação em torná-lo muito destacado do ordinário).
+Na série netflixiana os problemas começam já no elenco que compõem a família, que mal aparece, mas deixa um gosto ruim. Luis Guzmán é um péssimo Gomez porque ele sequer é um ator. Raul Julia dança sapateado em cima da "interpretação" de Guzmán, que está com uma aparência decadente demais para um aristocrata. O mesmo pode-se dizer de Morticia Addams, na pele de uma Catherine Zeta-Jones em fim de carreira. O pouco tempo que essa dupla tem em cena é o suficiente para manter um estado de choque pela discrepância horrorosa entre as hoje figuras imortais de Julia e Huston. Toda a dignidade do casal Addams esvanece em questão de segundos em Wandinha.
 
-Mais do que uma historinha para justificar uma batalha épica, Warcraft é a (re)criação de um universo que já tinha sido feito com total esmero pelos seus idealizadores originais. Usando uma metáfora eficiente para a magia que suga a vida das pessoas (vulgo Estado), as diferentes formas de interpretar a história já valeria a pena até uma revisita. E isso apenas pela história, quando estamos falando de um espetáculo visual.
+A atriz Jenna Ortega até entrega uma personagem por trás de todo esse roteiro preguiçoso e sequências previsíveis de dar sono. Sua postura é firme mesmo sendo o epicentro de um enlatado desastroso. Ela tem potencial de ser uma nova Wandinha Addams nos cinemas. Basta mudar a direção equivocada de um Tim Burton pagando boletos, a direção de arte, a maquiagem, o figurino, a fotografia... Faltou alguma coisa? Bom, talvez fosse interessante mudar essa década terrível que vivemos.
 

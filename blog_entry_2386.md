@@ -1,12 +1,11 @@
 ---
 categories:
-- cooking
 - writting
-date: '2017-05-30'
+date: '2018-03-15'
 tags:
-- food
-title: Molho de Tomate
+- beer
+title: Mohave Yucca Witbier
 ---
 
-Preparo: colocar os tomates limpos, sem cabo e cortados com as cebolas cortadas na panela de pressão por 10 minutos; retirar e bater bem no liquidificador, peneirando em seguida. Dica: quanto melhor bater mais fácil de peneirar.
+Mais uma Witbier interessante dessa cerejaria artesanal carioca que nasceu entre amigos; em corpo médio é um ótimo começo de noite com comidinhas.
 

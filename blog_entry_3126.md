@@ -1,36 +1,17 @@
 ---
-categories:
-- coding
-date: '2007-10-18'
-title: Por que minha DLL travou?
+categories: []
+date: '2015-08-04'
+tags: null
+title: Por que as startups brasileiras precisam de outsourcing
 ---
 
-O resumo da ópera é que o código do Windows chamador do DllMain das DLLs carregadas/descarregadas utiliza um objeto de acesso exclusivo (leia "mutex") para sincronizar as chamadas. O resultado é que, em um processo, apenas um DllMain é chamado em um dado momento. Esse objeto é chamado de loader lock na documentação da Microsoft.
+Não é novidade que uma boa ideia, na área de informática, muitas vezes não precisa de apenas boas intenções. Na verdade, acho que quase nunca. Saber com quem se fala, ter os contatos certos e o investidor-chave, simplesmente não irão trazer sucesso a nenhuma empresa se esta não conseguir sequer engatinhar tecnologicamente e mostrar que seu core business vale a pena.
 
-{{< image src="loader_lock.gif" caption="Loader Lock explicado" >}}
+Para isso que empresas como a Bit Forge estão começando a desenvolver software sob o modelo catalisadora de startups.
 
-Escrevi um [código besta] para exemplificar, mas representa o que já vi em muito código-fonte, e muitas vezes não consegui perceber o que estava acontecendo (tanto porque desconhecia a existência desse loader lock quanto o código estava obscuro demais pra entender mesmo).
+Basicamente quando uma startup tem uma ideia inovadora, mas não sabe como conseguir ter uma demo básica, mínima e fundamental de forma rápida, simples e indolor, para que mostre aos potenciais clientes e investidores, ela precisa ligar para o nosso escritório e fechar um contrato de desenvolvimento inicial.
 
-Uma simples vítima disso pode ser um pobre executável usando uma pobremente escrita DLL, assim como no código abaixo:
+O que é feito a partir daí é uma análise enxuta de requisitos, definição de escopo mínimo e o custo inicial para que a ideia saia do chão e crie as primeiras asinhas. A partir daí a empresa já tem uma solução funcional que pode ser demonstrada. Depois disso, com o sucesso dos testes no mercado, essa nova startup já pode contratar os programadores iniciais que irão dar manutenção em um sistema que acabou de nascer através de um treinamento da catalisadora -- no caso, nós -- ou, caso o mercado ainda precise de mais inputs, uma nova rodada de desenvolvimento e/ou uma manutenção básica que irá trazer estabilidade para a solução enquanto ela cresce de maneira orgânica.
 
-    int main()
-    {
-      printf("load dll");
-    	HMODULE lockDll = LoadLibrary(_T("dll_lock.dll"));
-    
-    	if( lockDll )
-    	{
-    		Sleep(2000);
-        printf("free dll");
-    		FreeLibrary(lockDll), lockDll  = NULL;
-        printf("done");
-    	}
-    }
-
-É importante sempre lembrar que a Microsoft acha feio, muito feio você ficar dependendo do DllMain pra fazer alguma coisa, mas admite que em alguns casos o único lugar onde podemos rodar código é no DllMain. Nesses casos -- e em alguns outros -- utilize uma comunicação paralela com sua thread travadona, por meio de um evento ou algo do gênero, antes que ela realmente saia. Com isso a thread pode ainda não ter saído, mas pode avisar a thread principal que o que ela precisava fazer já foi feito.
-
-Entre os clássicos e inestimáveis artigos de Matt Pietrek no Microsoft Journal há na [edição de setembro de 1999] um bem curto a respeito da inicialização de DLLs. Essa é a leitura mais sucinta, didática e esclarecedora sobre a questão.
-
-[código besta]: dll_lock.cpp
-[edição de setembro de 1999]: http://bytepointer.com/resources/pietrek_debug_init_routines.htm
+Em suma: você só paga até onde conseguir validar sua ideia. O que, convenhamos, sai bem mais barato do que contratar uma equipe, alugar um escritório ou, dependendo da complexidade de sua ideia, investir em head hunters que irão tentar encontrar talentos dispostos a despender tempo para seu projeto.
 

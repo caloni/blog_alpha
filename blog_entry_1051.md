@@ -1,24 +1,24 @@
 ---
-categories: []
-date: '2015-11-18'
-tags: null
-title: Como ser um hacker
+categories:
+- writting
+date: '2016-11-17'
+link: https://www.imdb.com/title/tt1292566
+tags:
+- movies
+title: Como Ser Solteira
 ---
 
-Talvez as pessoas estejam com preguiça de ler. Talvez estejam apenas inundadas por tanta informação que temos hoje. Talvez seja apenas falta de foco pelas interrupções consecutivas de novos "espertofones" ou nossas redes sociais viciantes, pois oferecem muito a troco de nada.
+É cada vez melhor a surpresa com relação a comédias românticas (ou apenas comédias) protagonizadas por mulheres. O universo feminino independente do masculino estava escondido por gerações, mas hoje, no formato de uma sociedade que cada vez mais reconhece o direito da mulher de se divertir tanto quanto os homens, está a cada dia causando no Cinema resultados positivos, da mesma forma com que o universo masculino muitas vezes é representado (vide o último filme de Richard Linklater, "Jovens, Loucos e Mais Rebeldes") sem ressalvas pelo machismo e a quem isso possa doer. Ele existe. Assim como mulheres que transam por 100% de prazer e 0% de comprometimento.
 
-O fato é: se você precisa perguntar para alguém (no caso, eu) o que é preciso fazer para se tornar um hacker, algo como um guia passo-a-passo, eu vou encarar o desafio numa boa, pensar por alguns dias, semanas e talvez meses, e chegar à conclusão que a pessoa que precisa que alguém lhe ensine está percorrendo o caminho errado. Ela nunca vai aprender o suficiente para se tornar algo que possa ser chamado de hacker.
+E para temperar estes filmes, a figura de Rebel Wilson é sempre bem-vinda. Ela é uma coadjuvante de luxo que consegue através de seu carisma e (quase sempre) ótimas tiradas tornar "Como Ser Solteira" um filme engraçado e dinâmico, evitando cair no clichê do drama feminino em busca de significado em sua vida.
 
-E o que é hacker, que mal lhe pergunte? Há uma definição curta e simplista, há a definição do botão (que eu nunca mais vou me esquecer) e há o Jargon. O que é o Jargon? É um guia dos primórdios da web que contém tudo que você precisa saber sobre o jargão hacker. Duvida? Leia ele primeiro.
+E por falar em sair de clichês, este filme roteirizado por quatro pessoas, apesar de confuso e não conseguir dar tempo suficiente para todas suas histórias e personagens, convence por sua tentativa de mostrar como o mantra do "dever ser" da sociedade pode ser prejudicial para qualquer pessoa. A necessidade da protagonista interpretada por Dakota Johnson ("Cinquenta Tons de Cinza") de viver uma vida de solteira antes de tomar a "grande decisão" de se casar com seu primeiro namorado é louvável, mas ignora que indivíduos são diferentes, além de que eles podem mudar.
 
-Falar em jargão me faz lembrar do nostálgico e muito curioso (e que já falei em outros artigos) Barata Elétrica, o fanzine jurássico de Derneval Ribeiro que consistia em copy&paste de partes interessantes da rede, em inglês e português, e um pouco da cultura hacker na América do Sul (sobretudo Buenos Aires) e sobre a vivência de seu editor no ambiente uspiano. Derneval pode até não ser um "hacker de verdade" (só pra citar a falácia do escocês), mas ler o Barata Elétrica me deu não conhecimentos técnicos, mas muito sobre a nossa era da informação, como informação é vital hoje em dia, além de outros conceitos interessantes que nos fazem ficar atentos para privacidade, governos, política, economia, filosofia, etc. Acho que foi lá a primeira vez que tive contato com 1984, PGP, Mitnick. Enfim, curiosidade, piadas e um pouco do clima social que a web tinha (para mais disso, nada como saudoso mIRC...).
+Da mesma forma a personagem irritantemente carismática (e neurótica) de Leslie Mann ("O Virgem de 40 Anos") subverte o clichê da mãe solteira que se dedicou por mais tempo que devia à sua vida profissional. E o que dizer da sempre divertida Alice Brie ("Community"), que faz o papel da mulher que nunca se encaixa em um relacionamento e cuja profissão de narradora de histórias para crianças inverte de maneira hilária seu futuro como a tia solitária e falsamente delicada?
 
-Para quem pretende se tornar um hacker, já deve ficar claro que não existe receita de bolo, nem lista de conhecimentos desejáveis. Isso não e uma vaga para preenchimento de currículo. Isso é a vida real. Se existe uma receita, ela é vaga e de auto-ajuda:
+Através da direção segura de Christian Ditter somos levados a diferentes enquetes que se juntam e se entrelaçam em uma espécie de "Simplesmente Amor" para solteiros e enrolados. Não se sabe ao bem a moral da história, mas se sabe que o vigor com que Ditter avança sobre a história, competentemente editada por Tia Nolan, consegue fazer com que as divertidas atuações do elenco se tornem ainda mais inesquecíveis.
 
- 1. Primeiro você aprende a gostar de viver de acordo com a definição abaixo.
- 2. Viver é a busca incessante de conhecimento em todas as suas formas, uma autodescoberta e a busca da felicidade pessoal e instransferível, subjetiva e inalienável.
- 3. Com base nisso, comece a aprender profundamente sobre tudo o que deseja, em todas as áreas, sobre qualquer assunto, pessoa, lugar.
- 4. Repita o passo anterior até que a inescapável morte aconteça; o resto é mistério.
+E isso se tratando de personagens que beiram o estereótipo. No entanto, há em seu background história o suficiente para torná-las reais, e além disso, uma direção de arte digna de comédias de personagens em Nova York. Há cores exageradas de um lado, "apês" minimalistas de outro, e ricos inesperados de outro. Não há muita credibilidade, mas quem se importa com isso quando está se divertindo?
 
-Parece meio poético e filosófico, mas não é. Se eu te disser que para ser hacker precisa aprende a crackear programas no Windows, fuçar no WinDbg e esmiuçar a API Win32, disassemblar códigos em binário com o IDA e usar no percurso todas as ferramentas, sistemas operacionais, linguagens de programação e conhecimentos periférios necessários, vai ser apenas uma descrição pessoal que não te levará à satisfação que talvez você deseja nessa jornada. Se sua única satisfação será poder dizer que é um hacker, sinto muito, isso é inútil. Você não está procurando viver por si mesmo, mas se auto-promover sem conhecimento de causa do que realmente a palavra significa. Esqueça o assunto e vá ler um livro. Ou melhor dizendo, vá navegar em sua rede social favorita...
+Esqueça a previsibilidade do velho enlatado ComRom. Em Como Ser Solteira há criatividade demais na criação e desenvolvimento de seus personagens para ficar se martirizando com a velha história do casal que se odeia mas se ama. Prefira a volúvel Rebel Wilson e suas tiradas de duas palavras ("lunch time!").
 

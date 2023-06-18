@@ -2,13 +2,17 @@
 categories:
 - writting
 date: '2021-05-22'
-link: https://www.imdb.com/title/tt14536118/
+link: https://www.imdb.com/title/tt14536160/
 tags:
 - series
-title: 'Love, Death & Robots: The Tall Grass'
+title: 'Love, Death & Robots: Snow in the Desert'
 ---
 
-Um conto de terror enxuto, eficiente, mas termina no efeito. Sem memórias para guardar, é a sensação o mote deste curta da série de robozinhos que matam seres humanos. Nesse episódio não há robôs, nem morte e muito menos amor.
+Haha, que trocadilho genial. Muito bom, mesmo. Quase tão bom quanto essa história tão original e tocante.
 
-Eu implico com o título da série porque ela não é honesta. What you see is not what you get. Este episódio é um ótimo exemplo, já que ficaria bem melhor do catálogo de Contos de Cripta. Ele une o grotesco com o incrível e entrega uma sensação. A fala mais emblemática é a última: "eles não acreditariam, mesmo."
+Pelo menos tem sangue, um pouco de sexo e cérebro voando. Não necessariamente nessa ordem. Eu não sei qual a prioridade nesse workshop de computação, mas a pele humana tem melhorado bastante entre as escurinhas, mas os caucasianos ainda estão um pouco estranhos. Falta o ar nojento.
+
+A fotografia é tão estilizada que as areias desse planeta inóspito não existe. É um sujo esteticamente impecável, cheio de sombras para você não reparar nesses detalhes.
+
+Tanta liberdade de câmera e os diretores insistem em usar a convencional, como se tivesse que colocar um tripé em algum lugar. É estranho poder tanto e não fazer nada. O cinema pede uma união dos talentos, não uma competição entre tech e arte.
 

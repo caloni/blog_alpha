@@ -1,20 +1,24 @@
 ---
 categories:
 - writting
-date: '2019-10-24'
-link: https://www.imdb.com/title/tt10409554
+date: '2019-07-04'
+link: https://www.imdb.com/title/tt0312843
 tags:
-- cinemaqui
-- mostra
 - movies
-title: O Pai
+title: O Pacto
 ---
 
-O Pai é um filme que vai se percebendo o drama aos poucos. Ninguém está narrando a história, então você terá que acompanhar os detalhes pelos diálogos. E depois de um filme inteiro, sua última frase ressignifica tudo o que havíamos visto anteriormente.
+O terror japonês pode ter todos os defeitos do mundo menos o de ser enfadonho. Aqui vemos nos primeiros minutos cerca de cinquenta garotas colegiais se dando as mãos, contando até três e pulando no trilho do trem para serem esmagadas em uma sequência de várias tomadas capturando para onde foi todo aquele sangue. E você ainda não viu nada.
 
-A história é simples: Pavel (Ivan Barnev) precisa urgentemente voltar para seu trabalho e casa após o enterro da mãe, mas seu pai, Vasil (Ivan Savov), está agindo estranho e precisa da proteção do filho nesse momento frágil. O filme gira em torno do filho tentando se livrar do pai sabendo que ele está seguro, e talvez o ponto mais fraco do longa, é óbvio que seu pai não estará seguro por boa parte da história.
+Este é um terror psicológico que lida com o medo irracional, mas compreensível, de termos nossos instintos sequestrados por alguma espécie de hipnose e nos entregarmos a qualquer impulso que termine com nossa própria vida, como pular de algum lugar alto. Ele lida com o medo de nós fazermos isso, nossos entes queridos ou a sociedade começar a fazer isso. Como você lida com uma crise como essa?
 
-Este é um trabalho em conjunto de dois diretores e roteiristas búlgaros Kristina Grozeva e Petar Valchanov. Ambos estudaram na mesma academia de cinema, e já trabalharam em vários projetos. Eles realizam uma comédia de situação que se transforma em um drama sem ninguém forçar nada no roteiro. Acompanhar a história é tão natural que parece fácil chegar nesse nível de fluidez.
+O detetive Toshiharu Kuroda (Ryo Ishibashi) pretende primeiro convencer seus colegas de que este e casos recentes são assassinatos e não casos isolados de suicídio que ocorrem em grandes cidades. Ele tem a ajuda do surgimento de uma bolsa com uma coleção de pequenos retângulos de peles cortadas costuradas uma junto da outras, mas nem isso parece convencer os obtusos policiais, que ainda que divirtam pelo jeito bonachão de andar por aí fazendo perguntas estão completamente deslocados da atmosfera do filme.
 
-E isso porque há vários elementos que são iniciados e vão sendo explorados em paralelo. O mais tocante é o pedido da mulher de Pavel: trazer uma geleia caseira de um sabor específico. Esse pedido vai sendo realimentado pela história em vários momentos que soam naturais -- uma cena em uma delegacia parece o ápice dessa piada, mas não termina por aí -- e é justamente isso que torna "O Pai" um filme que vai te levando sem você nem perceber direito.
+Esta é uma história completamente ficcional, mas que lembra um pouco alguns casos de seitas de suicídios coletivos já ocorridos no Japão, e ninguém desavisado como eu duvidaria que poderia de fato existir algo como um Clube de Suicídio. Dessa forma, beneficiado pela cultura... não-ortodoxa do japonês, o filme se beneficia da dúvida honesta do espectador.
+
+Porém, há um limite para tudo, e quando o filme começa a brincar com fantasmas, reviravoltas de hacker e o uso de uma girl band que temos certeza que está espalhando mensagens satânicas através de suas músicas fofinhas, fica difícil acompanhar a história sem um sorriso no rosto, apreciando a farofa se formando ao lado das poças de sangue das próximas vítimas.
+
+O surgimento de um bando de garotos liderados por um rapaz de salto alto e muito glitter na roupa, uma versão metrossexual japonesa de Laranja Mecânica, faz o pouco sentido que havia no mistério ir por água abaixo. Ouvimos o salto alto cantar sua icônica (e bonita) canção, e é um dos momentos mais chamativos do longa. Mas o que ele quer dizer? Não pergunte.
+
+O Pacto tem claras tendências niilistas, mas sequer sabe disso. Ele lida com suicídio muito melhor que o Ocidente. Devem ser os recordes da prática. No entanto, fazer um bando de crianças recitar filosofia barata e sem sentido sobre ligações não nos deixa sair satisfeitos com a "resolução" da trama.
 

@@ -1,23 +1,22 @@
 ---
 categories:
 - writting
-date: '2015-04-30'
-link: https://www.imdb.com/title/tt2917388
+date: '2013-01-28'
+link: https://www.imdb.com/title/tt1428538
 tags:
-- cinemaqui
 - movies
-title: Jogada de Mestre
+title: 'João e Maria: Caçadores de Bruxas'
 ---
 
-Jogada de Mestre (da distribuidoras sempre criativas), ou Kidnapping Mr. Heineken, é um thriller "baseado em fatos reais", como dizem os letreiros iniciais. Sempre encarei esses dizeres como uma forma de se desculpar pela história não ser tão boa, e esse caso não foge à regra. Inspirado também no livro do repórter criminal Peter R. de Vries, é dirigiro por Daniel Alfredson, responsável pelas continuações do filme sueco Os Homens que Não Amavam as Mulheres.
+João e Maria, como pode-se notar pelo título e sub-título, é uma reinterpretação do conto infantil dos dois irmãos que, perdidos na floresta, acabam entrando em contato com uma bruxa que mora em uma casa feita de doces. Esse é o único detalhe de toda a trama que nos faz lembrar da história clássica. A partir do momento em que eles se livram da bruxa e a queimam viva a história muda completamente de tom. Naquelas duas faces jovens e satisfeitas por assistirem ao seu precoce primeiro assassinato podemos constatar impressionados que a história não é mais de duas crianças indefesas, mas de dois psicopatas.
 
-Tentando inutilmente criar um pouco de dimensão aos personagens que irão se juntar para praticar o ousado sequestro de Alfred Heineken, criador da famosa marca de cerveja, o filme passeia por suas histórias rapidamente para mostrar que a esposa de um deles está grávida, e tenta criar uma justificativa da "brilhante" ideia através do seu sogro, que é um funcionário fanático pelo chefe bilionário.
+Em uma criação de arte interessante ao conceber um antigo vilarejo com uma mitura de realismo e fábula vemos agora o já crescido casal de irmãos equipados com uma tecnologia tão avançada que se assemelha à mesma mágica usada pelas bruxas que estes se especializaram em eliminar. No fundo, podemos dizer que para aquelas pessoas simples do campo os exterminadores de bruxas possuem os mesmos poderes que estas, mas os usam para o "bem": eliminar essas criaturas horrendas em troca de recompensas em dinheiro.
 
-Ao mesmo tempo há um suspense que quando é revelado não acrescenta nada (até porque trailers hoje em dia já contam tudo, mesmo): Alfred Heineken é interpretado pelo ator Anthony Hopkins, que agora está preso, assim como esteve ao viver seu personagem mais famoso, o canibal assassino de O Silêncio dos Inocentes. Mais uma vez o filme escorrega em traçar esse paralelo e tentar impor um ar magnético ao sujeito, e para isso divide em pequenas cenas que mostram-no sob controle de seus atos (como se pudesse fazer algo de dentro de um quarto à prova de som).
+A história não deixa claro porque eles se especializaram em matar bruxas ou por que escolheram essa vida. Também não fica muito simples determinar qual a época retratada nem em que mundo vivem, pois uma pequena vila distribui garrafas de leite com desenhos de crianças desaparecidas, como se faz hoje em dia onde as cidades possuem milhões de habitantes, e existe uma espécie de jornal que narra as façanhas do casal eliminando essas pragas que aparentemente existem por toda a parte. (Fora que eles possuem já tratamento para diabetes.)
 
-Na verdade, boa parte da história se passa bem antes do próprio sequestro, como o planejamento e a forma desajeitada e afortunada como o grupo consegue dinheiro assaltando um banco. Antes disso os vemos expulsando punks de um prédio invadido. Tanta interação entre eles e mesmo assim fica difícil dizer quem é quem, pois há pouco de personagens de carne e osso para ser visto. São apenas situações que poderiam ocorrer com qualquer um desesperado. Dessa forma é frustrante ver particularmente Jim Sturgess (Quebrando a Banca) e Sam Worthington (Avatar) contracenando sem um único momento memorável.
+O que o roteiro escrito pelo também diretor Tommy Wirkola (Zumbis na Neve) e o estreante Dante Harper deixa claro é que não está se levando muito a sério, criando diálogos expositivos demais ("você nunca achou uma bruxa que não quisesse matar?") que acabam por tornar toda a experiência previsível do começo ao fim. Mesmo as cenas de ação são criadas claramente para explorar apenas a sua versão tridimensional do filme, incluindo as cenas escatológicas, e vão perdendo aos poucos o dinamismo inicial, quando ainda não sabíamos as técnicas usadas pela dupla de irmãos para capturar seres que voam em uma vassoura a velocidades impressionantes.
 
-No entanto, o filme usa caminhos seguros e possui uma edição competente que consegue na maioria do tempo nos entregar a ação sem ficarmos muito confusos. Incidentalmente até consegue gerar alguma sensação, principalmente quando o plano entrega alguns imprevistos potencialmente divertidos, como um taxista bancando o detetive e um equívoco envolvendo o bilhete do resgate. Mesmo assim, ambas acabam se resolvendo rapidamente e não atrapalhando em nada um roteiro sem sal que apenas quer se ater aos "fatos" sem gerar tensão em nenhum dos seus momentos.
+Mesmo assim, o que [Abraham Lincoln: Caçador de Vampiros] falhou em utilizar efeitos digitais à exaustão e um tom mais sério totalmente inapropriado para sua história, João e Maria: Caçadores de Bruxas entende que não se recria uma fábula com pano de fundo trash sem conter em seu subtexto algumas piadas a respeito de si próprio ou do mundo fora do filme. E se o fato de existir um troll chamado Edward não é prova o suficiente, não sei o que é.
 
-Obviamente moralista ("há duas maneiras que um homem pode ser rico nesse mundo"), fica difícil entender o motivo de sua existência. Foi um sequestro real, que aconteceu e que já sabíamos o resultado. Nada de realmente extraordinário justificaria transformar esta história em um filme. A não ser ouvir mais uma vez a voz de Anthony Hopkins. Porém, dessa vez o que ele diz, assim como a maioria das histórias baseadas em fatos reais, não é tão brilhante assim.
+[Abraham Lincoln: Caçador de Vampiros]: {{< relref "abraham-lincoln-cacador-de-vampiros" >}}
 

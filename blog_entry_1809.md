@@ -1,19 +1,18 @@
 ---
 
-Depois de um filme inteiro martelando a segregação entre negros e brancos, a cena em que uma branca prepara um banquete para sua empregada negra é emocionante por detectarmos finalmente sentimentos naturais a qualquer ser humano sadio: solidariedade, compaixão, gratidão, respeito. O que não é natural é descobrirmos os sentimentos contraditórios presentes durante todo Histórias Cruzadas.
+Já tinha ouvido falar deste clássico do enxadrista campeão mundial Emmanuel Lasker, mas nunca a oportunidade de lê-lo. Então ele caiu no meu colo em meio a inúmeros downloads de livros sobre xadrez e comecei a folheá-lo digitalmente. Para minha surpresa ele é curto, fluido e divertido para fãs do jogo. Há algo que nos leva a ler cada vez mais, principalmente se você é um enxadrista, amador ou profissional, e se encanta em como o xadrez passou por tantos séculos e tantas culturas diferentes, saindo do místico Oriente e indo se situar confortavelmente no berço europeu e, posteriormente, na União Soviética, de onde surgiram os maiores ícones do último século.
 
-Partindo do princípio que apenas um branco poderia resgatar a dignidade das empregadas na cidade de Jackson (capital do Mississipi), o roteiro e a direção de Tate Taylor caminham sem pressa em torno da decisão de Skeeter (Emma Stone), uma mulher "moderna" em plena década de 60 que decide escrever um livro que descreva os maus tratos dessas mulheres pelas suas patroas, um dos últimos resquícios visíveis do passado recente de segregação racial nos EUA. O motivo é claro e igualmente contraditório: Skeeter, assim como todas as crianças brancas, e apesar da repulsa dos brancos - que até defendem o uso de banheiros separados - foi criada por uma doméstica. A infância inteira de Skeeter foi construída sob a visão da velha empregada negra da sua família, que um belo dia foi misteriosamente demitida. Já crescida e lendo textos políticos da época, a conclusão de Skeeter sobre a exploração das empregadas é óbvia, o que torna a personagem mais um processo natural na evolução moral daquele povo do que propriamente a visionária revolucionária sugerida pelo filme.
+Uma particularidade que é necessário ressaltar é como o jogo de xadrez foi por muito tempo um jogo de azar. Sim, os lances eram decididos nos dados, e talvez essa tenha sido a chave de sua longevidade imprevisível. Lasker nos premia com uma descrição de uma partida de xadrez sendo jogada com espectadores interessadíssimos nos resultados:
 
-Recheado de futilidades, o diretor parece se esforçar para explicar tudo pelo menos duas vezes, destruindo boa parte da sutileza de suas próprias tomadas. Se em determinado momento uma menina exclama para a empregada que ela é sua mãe de verdade, o fato de termos visto diversas vezes a empregada cuidando da menina e nunca termos visto a própria mãe carregando a filha parece não querer dizer nada para nós, espectadores. O que Taylor está nos ensinando, humanos estúpidos, é que essas mulheres são exploradas pelos brancos mesmo sendo as verdadeiras mães de toda a comunidade. Não aprendeu, ainda?
+"...Uma partida dura horas. Muitas vezes, não termina senão no segundo dia. Nas proximidades, senta-se uma multidão de espectadores, que fitam o tabuleiro em silêncio. Quando, porém, é feito um lance, se for inesperado, belo ou brilhante e mais particularmente se envolver o sacrifício de uma peça, os espectadores pulam, gritam alto, mostram sinais de alegria ou dançam e até mesmo choram de excitação. O jogador muitas vezes pensa durante uma hora antes de fazer um lance. O final de uma partida é uma verdadeira cena de festa. A excitação muitas vezes leva os jogadores a aumentarem suas apostas ao ponto de a derrota no jogo envolver a ruína absoluta do vencido. Para começar, apostam-se as renas; depois, os cães; depois, as roupas; em seguida, todos os bens de um homem; e, no final, até mesmo as mulheres são apostadas..."
 
-Mesmo com essa premissa boba e ingênua, o filme passa ileso pelo seu ritmo sempre cadenciado e uma história leve e interessante todo o momento. O que não é possível é conseguir resgatar a humanidade por trás da história de "The Help", pois ela foi esmagada constantemente pela lembrança de que, se os negros conseguiram seu lugar ao sol, foi graças à compaixão de brancos revolucionários como Skeeter. Ainda bem que Tate Taylor está aí para nos dizer isso.
+Notemos o quão sério o xadrez pode ser levado pelo homem e talvez estejamos mais próximos de tentar entender a própria complexidade do raciocínio humano em torno de jogos ou qualquer sistema simbólico que nos faça sentido. Fazer sentido pode ser entendido como uma droga. Tenho um amigo que já se viciou em xadrez, aliás. Espero nunca chegar nesse nível.
 
 ---
 categories:
 - writting
-date: '2017-11-11'
-link: https://www.imdb.com/title/tt7133340
+date: '2012-12-18'
+link: https://www.imdb.com/title/tt1454029
 tags:
-- cinemaqui
 - movies
-title: Histórias de Amor Que Não Pertencem a Este Mundo
+title: Histórias Cruzadas

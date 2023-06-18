@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2013-11-08'
-link: https://www.imdb.com/title/tt0095088
+date: '2015-01-02'
+link: https://www.imdb.com/title/tt2113659
 tags:
 - movies
-title: Elvira, a Rainha das Trevas
+title: 'Elsa & Fred: Um Amor de Paixão (2014)'
 ---
 
-Aquela comédia sessão da tarde, leve e despretensiosa, que consegue ser digerida passo-a-passo sem maiores problemas. Esse modo inofensivo de Elvira é provavelmente seu ponto mais fraco.
+"A noção de felicidade na sociedade atual acaba a tornando inalcançável. Quanto mais busca-se o mundo ideal, mais perde-se a satisfação do real". É com essa introdução que inicio minha crítica ao original Elsa e Fred, de 2005, comparando como o ideal de todos nós se subverte com a dura realidade de uma velhinha no fim de sua vida que insiste em viver a despeito das imperfeições em sua volta. O remake americano, apesar dos ótimos esforços de Shirley MacLaine e Christopher Plummer, é sabotado por uma direção que tenta justamente fazer o contrário do que o espírito do filme ordena.
 
-Iniciando com a personagem-título (Cassandra Peterson) apresentando filmes trash em um programa televisivo que se aproveita de seus protuberantes seios para manter a audiência, logo a vemos em uma viagem em busca da herança de uma recém falecida tia-avó (que por sinal se chamava Mortiça) em uma cidadezinha cujos habitantes prezam pela moral. Dessa forma, assim como no romance e na novela global Gabriela, os bons costumes daquelas pessoas serão abalados pela presença da sexual e irreverente Elvira.
+O diretor Michael Radford aparentemente se esquece das habilidades demonstradas em O Mercador de Veneza e 1984 para entregar um trabalho higienizado através da demarcação de cenas em excesso. Do lado do roteiro uma curiosidade interessante é que os créditos são diferentes com o original, apesar de estarmos falando de praticamente o mesmo filme agora sem legendas para o público norte-americano. Se há alguma mudança significativa nos diálogos é a sua anti-naturalidade em alguns momentos-chave onde a personalidade de Fred se altera da água para o vinho (incluindo sua expressão ranzinza). Até a trilha sonora é equivocadamente inserida, nunca sabendo ao certo se estamos assistindo a uma comédia, um drama ou uma minissérie. Em um momento particularmente tocante durante uma viagem, ouve-se uma trilha incidental leve de tema de seriado.
 
-Porém, disse "sexual" sem a devida proporção. Essa é uma sessão matinê com censura livre. Desafiar a moral vigente daquele vilarejo é tão somente exibir seu generoso decote e dizer o que pensa. Digamos que para um divertimento leve há cenas picantes o suficiente.
-
-É nessa gana de obter dinheiro e sucesso que a apresentadora de filmes ruins acaba fazendo parte de um. Essa ironia, ainda que tímida, é o que torna Elvira um espécime pelo menos interessante.
+Ao assistir ao re-Elsa & Fred, nota-se obviamente que as coisas parecem fora do lugar, mas não é esse caos gostoso da vida que é emulada em seu original. É falta de jeito com as nuances de uma história dura, mas com personagens leves.
 

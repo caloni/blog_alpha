@@ -1,22 +1,16 @@
 ---
 categories:
 - writting
-date: '2015-03-13'
-link: https://www.imdb.com/title/tt2316411
+date: '2014-03-04'
+link: https://www.imdb.com/title/tt0043778
 tags:
 - movies
-title: O Homem Duplicado
+title: O Homem do Planeta X
 ---
 
-Quando ouvimos o professor de história repetir a mesma fala a respeito de ditaduras controlarem o povo através de poucas informação e isso se repetir ao longo da história de forma cíclica é uma pista do que o filme irá falar. Porém, o mais fascinante em O Homem Duplicado é que, assim como as ditaduras, o diretor Denis Villeneuve, do excelente Os Suspeitos (2013), não quer nos revelar todas as informações por trás dessa história.
+Esse é um trash dos anos 50 no sentido mais típico da palavra. Tentando criar uma atmosfera de tensão ao incluir um alienígena cujas intenções não são conhecidas em torno de homens com objetivos bem distintos entre eles, um repórter, um cientista e um ganancioso, O Homem do Planeta X se esquece de incluir também explicações mais verossímeis para sua história, mesmo se tratando de uma época onde a ingenuidade reinava no Cinema.
 
-E ela fica bastante estranha sem essas informações. Jake Gyllenhaal interpreta tanto Adam, o professor de história, quanto Anthony, um ator que ele encontra casualmente ao alugar um vídeo. O que nos leva à grande primeira questão: quais as chances de uma pessoa que não costuma assistir filmes alugar justamente o filme que revela que ele possui um sócia que coincidentemente vive na mesma cidade que ele?
+A maior falha reside justamente nos objetivos do visitante do espaço. Em determinado momento ele é pacífico, mas em outro sabemos de uma versão bem mais maligna de dominação. Da forma como está não é possível dizer qual é a verdade, e isso nem parece importar para aquelas pessoas.
 
-A resposta, como devemos presumir, está nos sonhos de Adam (ou Anthony? ou ambos?), sempre relacionados com aranhas, mulheres nuas e salas obscuras, assim como sua própria sala de estar. Adam vive nas trevas, decepcionado com sua profissão, e namora Mary (Mélanie Laurent), que vem a seu apartamento para jantar, ter sexo e ir embora. Sua rotina não é a das melhores, e seu interesse pelo seu sócia, compreensível.
-
-Já Anthony, o outro lado da moeda, é uma incógnita. Ele é casado com Helen (Sarah Gadon), que está grávida de seis meses; eles são um casal feliz. Porém, sua moral é duvidosa, e Helen tem ciúmes fundamentado em casos passados de seu marido. O inevitável encontro entre Adam e Anthony não é tão estranha por serem idênticos -- até detalhes como uma cicatriz -- mas é mais ameaçador pelo que está passando em suas mentes naquele momento. Podemos até tentar adivinhar através de seus diferentes olhares, expressões e tons de voz. Por um ou dois momentos a voz dos dois é facilmente confundida, mas eu discordo. As palavras que saem da boca do instável Anthony são muito mais temerosas do que as que saem do receoso professor.
-
-De qualquer forma, estamos trabalhando com poucas informações aqui (lembra?), mas isso não impede que O Homem Duplicado se torne um thriller que se aproveita da sua complexidade para tornar o espectador sempre boquiaberto para cada nova situação. Nos sentimos como Adam, mas depois do segundo encontro com Anthony, esse sentimento se torna estranho. Podíamos até imaginar o que faríamos em tal situação, mas nunca viver. E é essa sensação que Villeneuve, desde seu terrível (no bom sentido) Incêndios, entrega mais uma vez.
-
-PS: Não fique encucado com a cena final. Ela faz parte de uma lógica interna inabalável, exatamente pela falta de informações. Resta saber qual é. Palpites?
+De qualquer forma, o design de produção é inteligente em situar a região onde os estranhos eventos ocorrem com neblina e um isolamento conveniente. Tudo isso favorece a criação dos "palcos" da época, na ausência de efeitos visuais computadorizados, que contribuem para a imersão nessa viagem fantasiosa.
 

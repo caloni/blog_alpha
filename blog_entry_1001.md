@@ -1,20 +1,23 @@
 ---
 categories:
 - writting
-date: '2012-11-28'
-link: https://www.imdb.com/title/tt0062512
+date: '2021-07-24T22:26:41-03:00'
 tags:
-- movies
-title: Com 007 Só Se Vive Duas Vezes
+- beer
+title: Colorado Vs Bierland
 ---
 
-Só se vive duas vezes tem aquela grandiosidade das aventuras do agente 007 no formato clássico que todos lembram, com um ambiente fantástico demais para ser verdade, mas uma trama com pontas e mistérios o suficiente para ficarmos entretidos por boa parte do tempo. Mais acelerado que seus antecessores, a iminência de uma guerra nuclear entre EUA e URSS causada por uma bizarra interferência na corrida espacial é o que causa a primeira "morte" de James Bond, o que dá nome ao filme e possui um plot replicado no recente [Skyfall], mas que aqui adquire um tom mais solene e... fúnebre!
+Aos poucos fui desistindo de fazer review de cervejas. Cerveja é cerveja. Não é uma bebida para pensar muito. As tentativas de gourmetizá-la apenas trouxeram à tona as limitações artísticas da bebida.
 
-A rapidez do filme se contrapõe à leve e inspirada música-tema, entre as minhas favoritas pelo seu refrão característico e memorável. Logo que termina a abertura-tema partimos para uma verdadeira agitação em torno de diversos cenários do Japão, seus traços culturais e, claro: uma série de lindas e misteriosas Bond Girls asiáticas, mas com destaque absoluto para a dupla Akiko Wakabayashi e Mie Hama, que fazem os papéis respectivos de Aki e Kissy.
+As cervejarias são outra história. Competindo pelo consumidor fiel elas criam identidades no visual e no paladar. Seja proposital ou não, todas as cervejas de uma cervejaria vão fazer você lembrar de sua origem. Se não for assim a cerveja fracassa como mercado. Como ideologia.
 
-Toda grandiosidade em torno da missão do agente britânico logo se explica ao descobrirmos que o chefão da SPECTRO está por trás da abdução dos foguetes russos e americanos. A série Austin Powers foi inteiramente baseada no vilão Ernst Blofeld, interpretado de maneira icônica por Donald Pleasence, e esse fascínio pelo personagem é inteiramente justificado: sua versão megalomaníaca do mal, caracterizado pelos seus traços calculistas e de certa forma cômicos são a alavanca necessária para uma série que se pauta em uma visão fantasiosa do espião: o que investiga e luta usando suas artimanhas tecnológicas.
+Provei vários rótulos da Bierland, uma cervejaria de Blumenau que recentemente tomou o caminho contrário das choperias artesanais e investiu na venda de latinhas, praticamente aposentando as serpentinas. O motivo não ficou muito claro quando conversamos com a atendente do depósito onde se vendem caixas e mais caixas de latinhas. Ela comentou algo sobre ser um negócio caro e arriscado para consumidores fora da cidade, que muitas vezes sumiam com os barris de chope. Que babado...
 
-O Cinema merecia um herói como esse. Depois de "You Only Live Twice" esse mito se solidifica e se mantém por décadas a fio.
+Tudo bem. A vantagem da latinha é ser prática, segura e barata. Comparável com cervejas "premium" da AmBev em preço.
 
-[Skyfall]: {{< relref "007-operacao-skyfall" >}}
+Levei pelo menos uma de cada. Experimentei o suficiente para concluir que o forte da Bierland é fazer cervejas equilibradas. Todas elas não me deram nenhuma sensação no paladar de ser um soco no estômago ou ter aspectos olfativos rebuscados. É cerveja bem feita e que não quer chamar a atenção pra si própria.
+
+Quer um exemplo completamente oposto? A Colorado. Essa uma vez artesanal e pequena cervejaria de Ribeirão Preto se tornou a queridinha da indústria e começou a vender que nem água. A pegada de suas cervejas é chamar atenção. É aquele aroma inebriante de lúpulo francês, o soco no estômago da Vixnu. Nem a Pilsen deles consegue ficar quieta no copo. É a famosa explosão de sabores. E muito boa também.
+
+Se um dia estiver interessado em descobrir a diferença entre cervejarias no lugar de cervejas compre uma IPA, uma stout e uma lagger desses dois lugares e compare. Vai entender o que estou dizendo. A cerveja do urso é uma vitrine para ser elogiada e lembrada. A cerveja da lojinha de beira de rodovia é cerveja alemã: para ser bebida com moderação e apreciação.
 

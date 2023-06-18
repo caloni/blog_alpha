@@ -1,31 +1,20 @@
 ---
 categories:
 - writting
-date: '2017-09-18'
-link: https://www.imdb.com/title/tt0877057
+date: '2018-05-19'
+link: https://www.imdb.com/title/tt5463162
 tags:
-- animes
-- series
-title: 'Death Note: Notas da Morte'
+- movies
+title: Deadpool 2
 ---
 
-Esta série japonesa se estende por mais tempo do que devia e não entende todo o seu potencial narrativo. Esta é uma história que possui altos e baixos em torno de uma ideia poderosa, e arrisco dizer que seus altos superam seus baixos. Mas sua conclusão é clichê, comercial demais para sentir-se o peso do que estava sendo discutido.
+Hollywood é preguiçosa e todo mundo sabe. Eles só querem saber de dinheiro e não são altruístas. E quando Deadpool surgiu com as brincadeiras da violência e linguajar exagerados (pelo menos para filmes de super-heróis), além da quebra da quarta parede, onde o mocinho conversa com o espectador e fica jogando referências do mundo onde essas histórias são criadas, seu sucesso de bilheteria virou um bilhete de loteria para sua primeira continuação, que segue passo-a-passo a mesma fórmula do primeiro. Não é um filme sobre uma história de fato, mas uma história sobre um filme sendo escrachado. Não há nada, nadinha de nada de novo, nada vai surpreender, e nada vai aborrecer. É um filme quadrado que volta a falar conosco em um linguajar agressivo e violência de 18 anos (que alívio) para se pagar de cool mais uma vez sem precisar sair da mesmice. Os fãs esperam isso, este é um filme típico caça-níqueis de nicho, não foi muito bem finalizado, força seu CGI, e está estreando praticamente ao mesmo tempo que "Vingadores: Guerra Infinita" em uma clara mensagem que eles mesmos estão pouco se f...
 
-Como praticamente todas as séries de animes japoneses que se baseiam em mangás, as falas revelam demais e os quadros são parados demais. Como contraponto, a arte é muito bem finalizada (os detalhes de cada demônio) e a edição de som facilita a sensação de movimento.
+E em um jogo de metalinguagem rebuscado que atravessa alguns níveis para colocar o espectador preguiçoso onde eles precisa, eles conseguem. Um filme de super-herói tradicional que se paga de irreverente e esperto, pois posssui sempre na manga o Ás da quarta parede, brincando com a ideia de fazer um filme B e com personagens menores do que deveriam. O truque aqui é a auto-depreciação, não apenas do personagem Deadpool, mas de todo o filme. O filme berra para nós: "olha como somos diferentões! nós colocamos crianças gordas em meio a uma prisão barra pesada e fazemos piadas com racismo mesmo não sendo!". E ele não faz isso aparentemente apenas para seguir a cartilha politicamente correta, mas para sutilmente sabotá-la. Se torna simpático saber que a zoeira não tem limites, desde que ela fique entre essas quatro paredes.
 
-Mas esta é uma história naturalmente parada. Seu (anti?) herói é Light, um estudante brilhante que acha um caderno que lhe dá o poder de matar qualquer pessoa do mundo simplesmente escrevendo seu nome em uma das folhas do caderno. Acompanhado desde então pelo dono original do caderno, uma entidade sobrenatural chamada de Shirigami, vamos aos poucos entendendo todas as regras de uso do caderno e a maneira com que Light planeja "limpar a Terra" de todo mal, trazendo a paz e a justiça tão desejada por todos.
+Para os fãs, eu garanto que haverá vários momentos-referências divertidíssimas de encontrar, piadas rápidas demais para dar tempo de pensarmos (vale uma revisão se você gostou muito), pelo menos duas sequências de ação memoráveis (a pré-créditos e um resgate a um caminhão onde a personagem de Zazie Beetz brilha) e uma certa beleza emergindo da pálida tentativa de fugir da mesmice. Ela persegue os filmes da Marvel mais do que nunca depois de dez anos batalhando para construir uma marca. Bom, essa marca está consolidada com Guerra Infinita. Parabéns. E sua audiência só sobe. O que é um pequeno agrado para os fãs mais sagazes como um Deadpool 2, tecendo comentários auto-depreciativos sobre a própria criação?
 
-A parte mais fascinante de Death Note são os primeiros 10 capítulos, onde vamos acompanhando as dificuldades de um serial killer em se manter impune enquanto fica óbvio para as autoridades que alguém, de alguma forma, anda assassinando criminosos à distância. Os detalhes da investigação conduzida pelo próprio pai de Light trazem à tona a figura estereotipada de L, um super-detetive que sempre resolve seus casos e senta em cadeiras da forma mais desconfortável possível. Infelizmente este é um dos seus cacoetes. E todo herói japonês precisa ter o seu. É como eles se diferenciam.
+Talvez Deadpool seja o último refúgio desses filmes menores, mas que conseguem manter o ritmo e a atenção graças a um trabalho de roteiro alinhado com a proposta. Rhett Reese é um escritor medíocre com boas ideias (a brincadeira nerd Zumbilândia e o trash espacial Vida). Paul Wernick está nos mesmos créditos. E Ryan Reynolds estreia no roteiro auxiliando a dar forma ao seu personagem. Ele também participa das ótimas brincadeiras pós-créditos (apenas um pouquinho pós; não precisa esperar muito) envolvendo os pequenos desastres de Wolwerine Origins e Lanterna Verde.
 
-Mas o mais impressionante na figura de L é seu aspecto não-humano. Ele tem trejeitos de um vampiro que sempre vive nas trevas, tem olhos esbugalhados que dão medo, é um anti-social convicto e pensa tão rápido quanto seu inimigo. É respeitado por todos da polícia pelo seu resultado. Sua desconfiança eterna em L em Light é montada de maneira eficiente, de forma que sua participação pode ser alongada sem soar cansativo.
-
-Aliás, o embate intelectual dos dois vive na sombra, como os mistérios dos romances de Agatha Christie. Como espectadores somos presenteados vez ou outra com os detalhes das artimanhas de cada um, mas um dos aspectos principais de Death Note é deixar-nos torcendo por Light e buscando montar um quebra-cabeças com peças faltando.
-
-Isso entretém até um momento. Depois o lado comercial da série vem à tona e o que era para ser um final épico vira um reboot que, não tão brilhante quanto o primeiro, se aproveita das virtudes do antecessor para gerar novamente aquele sentimento de impotência e sagacidade.
-
-A fotografia de Death Note é sempre sombria, mesmo que seus personagens principais usem branco. O pior do ser humano poderia estar representado na figura de Light e seu lado sombrio, mas, como dita a referência obvia, Light é "luz", iluminado. Lúcifer, em outras palavras. E não há figura bíblica mais injustiçada que ele.
-
-Detendo o poder de subjugar a raça humana, ele decide acabar com os maus. Quantos teriam revelado a mesma virtude, em vez de trilhar o caminho mais fácil do poder, dinheiro e fama? Light quer fama, mas está disposto a sacrificar todo o resto para seguir seu código moral que, na visão dele, irá trazer o melhor dos seres humanos à tona, eliminando as víboras, os parasitas, as pragas da sociedade. Não é um objetivo digno de um vilão, mas de um herói. E o fato de sabermos que Light é um gênio apenas eleva suas ideias como provavelmente certas.
-
-O "filme" de 13 horas se recusa a explorar essa questão de maneira dúbia, o que o tornaria aí sim algo de respeito. Ele prefere o caminho e o final fáceis. Light ficaria extremamente desapontado, mais uma vez, com a humanidade.
+Espertinho demais para gerar risadas autênticas (mas piscadelas a torto e a direito), Deadpool 2: O Retorno de Quem Não Foi soa como uma continuação preguiçosa e o próprio herói aponta isso duas vezes. O fato de você criticar seu próprio filme não o torna melhor, assim como a auto-depreciação não lhe torna digno de pena. São apenas caminhos lamentáveis para se manter relevante mesmo não sendo. Mas este é o show business, e para ele está de bom tamanho.
 

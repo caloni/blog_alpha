@@ -1,37 +1,99 @@
 ---
-categories: []
-date: '2008-09-25'
+categories:
+- coding
+date: 2017-12-26 18:24:24-02:00
 tags: null
-title: Cnasi, geração Y e seus gastos em TI
+title: Cmd e o encoding fake
 ---
 
-Nosso crachá de visitantes dava direito a uma palestra. E haviam muitas. Porém, logo após a hora do almoço, das disponíveis uma era particularmente interessante, pois citava uma expressão que eu e minha colega nunca havíamos escutado: um senhor iria nos falar sobre como lidar com essas novas pessoas que estão cada vez mais invadindo nossas casas e nossos escritórios, pertencentes a esse grupinho, a tão famosa chamada geração Y.
+Qualquer um que já tenha mexido no prompt de comandos do Windows sabe que ele permite você escolher qual code page utilizar para enviar e receber comandos. O Windows é todo em UTF-16, mas as saídas podem vir de qualquer programa com qualquer encoding. A missão do cmd.exe é usar o encoding escolhido pelo usuário para exibir os caracteres na tela. Vamos supor que nós criemos uma pasta com acentos no nome (pelo Explorer para não ter erro):
 
-Agora não sei se a culpa foi dessa tal geração Y, mas o fato é que o folhetim estava errado e caímos em uma outra palestra, essa falando sobre um tema que aí sim nós nunca tínhamos ouvido falar: como gerenciar as finanças na parte de TI da empresa.
+{{< image src="ZutWZiB.png" caption="QuemQuerPão" >}}
 
-O homem discursou por uma hora falando de como todos os principais frameworks de gerenciamento de custos, projetos e todas aquelas coisas, poderiam ser integrados para facilitar a vida do gestor de projetos que tem como tarefa saber o que irá continuar fazendo e o que irá cortar devido à lucratividade/risco perigosos.
+Agora através de um cmd.exe podemos observar como esse nome acentuado aparece:
 
-A grande questão dessa discussão, pelo que eu pude entender, foi que os custos de um projeto e manutenção são difíceis de mensurar se não existir alguém no meio daquele bando de nerds que consiga dizer quais são os recursos usados (quem), para que (tarefa) e por quê (vantagem). Sem contar que é necessário transformar isso em dado contábil. Além de que, como bem disse nosso palestrante, a maioria das empresas ainda considera o departamento de nerds uma despesa sem vantagens. E uma despesa bem cara, se estivermos falando dos salários atualmente pagos para esse pessoal.
+{{< image src="cAJED7b.png" caption="QuemQuerPãoCmd" >}}
 
-Mas vou parar por aqui antes que alguém levante a bandeira e queira discursar a respeito da justeza com que são pagas nossas mentes, um assunto muito precoce nos dias atuais. (Bom, talvez seja precoce para sempre, do jeito que a economia é ciência aberta.)
+Note como o "a" acentuado com til aparece perfeitamente. Também note que o codepage utilizado é o 437.
 
-O fato é que acabamos subindo a rua novamente sem saber que tal de geração Y é essa que nos fez entrar na palestra errada. Como sempre, nada que uma boa "googada" não resolva.
+{{< image src="3Llhikv.png" caption="QuemQuerPãoCmdDetails" >}}
 
-Parênteses. Descobri recentemente que os seguidores do outro lado agora inventaram um novo "termo": Windows-Live-procurada. Um de seus representantes, anteriormente um homem de respeito e opiniões fortes e imparciais, acredita este ser um termo de uso corrente no dia-a-dia. 
+Até aí tudo bem, certo?
 
-Pelo que pudemos encontrar, a tal da geração Y somos nós mesmo. Que espanto! E eu pensei que estávamos falando de uma raça alienígena ou algo assim. Talvez até seja, mas temos todos os genes da espécie humana.
+__Não! Não! Não!__
 
-Aparentemente existem estudos "sérios" nos EUA que dividem as gerações usando letras e encontrando as principais diferenças entre nós mesmos e nossos pais e avós. Como essa última geração recebeu elogios de diversas partes do estudo, a nominação de geração Y foi se estendendo ao resto do mundo, principalmente nos novos mercados de tecnologia.
+O [codepage 437](https://en.wikipedia.org/wiki/Code_page_437#Character_set) não possui ã. Nem õ.
 
-A conclusão a que chego é que existem rótulos demais para as pessoas hoje em dia. As pessoas não podem mais ser simplesmente pessoas. Precisam ser nerds, geeks, ráquers ou geração Y. Se você não é, está de fora. Se está dentro, é antenado. Que é outro rótulo.
+{{< image src="lcVG0ak.png" caption="CodePage437" >}}
 
-Fim de passeio. Voltamos à empresa e falamos com um outro colega sobre o que havíamos aprendido sobre o uso dos recursos no gerenciamento dos projetos no departamento de TI de uma empresa. Ele disse: "TI pra quê? Só traz despesa esse negócio."
+Isso, meus amigos, é chamado tecnicamente na área de "muito louco".
 
-E viva a geração Y!
+Curioso a respeito disso, resolvi observar a saída padrão do cmd.exe, para ver o que diabos vem como resultado. Para isso desenvolvi um simples output redirector tabajara:
 
-Adendum. A palestra que participamos foi a "Por que implementar a gestão financeira de TI? Uma abordagem baseada no ITIL, COBIT/VAL IT, e PMBOK", e queríamos ter visto a palestra "Desafio: Como Gerenciar a Geração Y", que como pudemos ver não é tarefa fácil, já que essa geração não consegue nem entrar na palestra certa. Veja a grade do evento para mais informações.
+```
+#include <Windows.h>
 
-Ah, sim, meu crachá de gerente. Pois então, achei superinteressante o fato de eu ter entrado em um evento de segurança portando um crachá que diz "gerente" no nome quando na verdade eu continuo sendo de fato um programador. Fui eu que disse que era gerente na entrada da feira, como um pequeno teste de acessibilidade.
+int main(int argc, char* argv[])
+{
+    DWORD ret = ERROR_SUCCESS;
+    SECURITY_ATTRIBUTES sa = { 0, NULL, TRUE };
+    STARTUPINFOA si = { sizeof(si) };
+    PROCESS_INFORMATION pi;
+    CHAR cmd[4096] = "cmd.exe";
+    SECURITY_ATTRIBUTES saAttr;
+ 
+    saAttr.nLength = sizeof(SECURITY_ATTRIBUTES);
+    saAttr.bInheritHandle = TRUE;
+    saAttr.lpSecurityDescriptor = NULL;
 
-Não que isso seja uma falha de segurança muito grave, mas imagine uma empresa suficientemente grande com pessoas mal intencionadas que foram convidadas a visitar a feira e escolheram ser gerentes ou diretores na hora de escolher o cargo. O que poderiam ter feito, em nome da empresa, dentro dessa feira? É algo a se pensar...
+    si.dwFlags = STARTF_USESTDHANDLES;
+    si.hStdOutput = CreateFileA("cmd.log", GENERIC_WRITE, FILE_SHARE_READ, &sa, CREATE_ALWAYS, 0, NULL);
+    si.hStdError = si.hStdOutput;
+
+    if( si.hStdOutput != NULL && si.hStdOutput != INVALID_HANDLE_VALUE )
+    {
+        if (CreateProcessA(NULL, cmd, NULL, NULL, TRUE, CREATE_NEW_CONSOLE, NULL, NULL, &si, &pi))
+        {
+            WaitForSingleObject(pi.hProcess, INFINITE);
+            CloseHandle(pi.hThread);
+            CloseHandle(pi.hProcess);
+        }
+
+        CloseHandle(si.hStdOutput);
+    }
+}
+```
+
+Simples, bonito e prático. Quando executamos Redirector.exe ele executa um cmd.exe, com a diferença que a saída dele vai parar no arquivo cmd.log, que podemos observar com um [BareTail](https://www.baremetalsoft.com/baretail/) da vida.
+
+{{< image src="92WFz8J.gif" caption="Redirector" >}}
+
+__Opa, opa, opa!__
+
+{{< image src="RJ85xi9.png" caption="QuemQuerPaum" >}}
+
+O til sumiu!
+
+Se formos analisar os bytes que vieram de saída, vamos constatar que o byte referente ao __ã__ foi enviado para a saída padrão como o byte 0x61, ou 97 em decimal. No codepage 437 (e em qualquer derivado da tabela ASCII, na verdade) o byte 97 é representado como "a", simplesmente, sem til.
+
+{{< image src="6P8n4Dg.png" caption="ASemTil" >}}
+
+Isso quer dizer que ao receber um "ã" o cmd.exe o reinterpreta como "a", mesmo estando sob o encoding 437. Esse é o resultado de um prompt user friendly que quer seu amigo.
+
+Se analisarmos a memória do cmd.exe veremos que ele armazena as coisas em UTF-16, como qualquer programa Windows nativo unicode.
+
+```
+@echo off
+:beg
+dir /b c:\temp\quemquer*
+goto beg
+```
+
+{{< image src="3bsyxNU.png" caption="QuemQuerPaoBatch" >}}
+
+{{< image src="4V81xIc.png" caption="QuemQuerPaoDump" >}}
+
+{{< image src="fM6Iovh.png" caption="QuemQuerPaoFind" >}}
+
+E com isso constatamos que não necessariamente no Windows, What You See Is What You Get. Ou, em termos mais filosóficos, [What You See Is Not What I Get](http://cinetenisverde.com.br/lucky/).
 

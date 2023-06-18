@@ -1,28 +1,20 @@
 ---
 categories:
-- playing
-date: '2023-01-11T22:49:01-03:00'
-link: https://www.chess.com/game/live/67225834285
+- writting
+date: '2012-05-14'
+link: https://www.imdb.com/title/tt0107507
 tags:
-- chess
-title: Um movimento de peão e já era
+- movies
+title: Um Misterioso Assassinato em Manhattan
 ---
 
-Brancas jogam e é mate em poucos lances.
+Nova York, chuva, assassinato e um filme de Woody Allen. Uma combinação que costuma ser fértil para o Cinema, seja pela inteligência e ironia das falas dos personagens, ou até mesmo pela situação que eles vivem. Aqui, temos o casal de meia-idade Larry e Carol Lipton (Allen e Keaton) que, após conhecerem um idoso e simpático casal, no dia seguinte presenciam a morte súbita da esposa, consequência de um ataque cardíaco.
 
-{{< image src="board.jpeg" >}}
+A questão, porém, é que o marido não parece tão abalado assim. Carol observa isso e uma ideia nasce em sua cabeça e vai crescendo: não seria ele um assassino daqueles de livros de mistério? Quais pistas eles presenciaram que poderia significar algo mais do que uma morte por doença? As questões vão aumentando conforme acompanhamos não só o espírito de aventura de Carol (ou de busca por algo incomum na enfadonha vida do casal) se contrapondo com a neurose controlada de Larry, com a interpretação de Allen no automático, mas ainda assim divertido.
 
-```
-[Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2023.01.12"]
-[White "cavaloni"]
-[Black "SYAHDAN28"]
+Como roteirista, é esperto não entregar as coisas de mão beijada. Ele convida o espectador pela história a perceber aos poucos e experimentar a sensação de algo errado junto com Carol, que vai encontrando pista atrás de pista, que podem muito bem não significar nada, o que gera como sempre deliciosos e sarcásticos diálogos. Porém, a trama é forte o suficiente para chamar a atenção até mesmo no meio da comédia.
 
-1. Nf3 c5 2. e4 Nc6 3. Bc4 d6 4. a3 Nf6 5. Nc3 e6 6. d3 Be7 7. Be3 e5 8. Ng5 O-O
-9. O-O h6 10. Nf3 Nd4 11. Nb1 Bg4 12. Nbd2 a6 13. c3 b5 14. Ba2 Nxf3+ 15. Nxf3
-c4 16. dxc4 bxc4 17. Bxc4 Nxe4 18. Bd3 Ng5 19. Be2 Bxf3 20. Bxf3 e4 21. Bxg5
-exf3 22. Bxe7 Qxe7 23. Qxf3 Rab8 24. Rfe1 Qg5 25. Re2 Qa5 26. Qd3 d5 27. Rb1 Rb3
-28. h3 Rd8 29. Rbe1 g6 30. Re8+ Kg7 31. Qd4+ 1-0
-```
+Para tornar a coisa mais realista, uma direção esforçada por ressaltar as diferentes nuances da investigação faz balançar a câmera em torno de Carol quando esta está bêbada após uma degustação de vinhos, e troca o foco rapidamente enquanto em uma conversa entre Carol e Larry decidimos quem está com a razão. Da mesma forma, os personagens secundários não estão totalmente à toa na trama, e cada um participa com suas personalidades, e obviamente Allen mais uma vez retorna o tema traição e crise de meia-idade dos casais.
+
+Assassinato em Manhatan é passado e batido, mas consegue divertir sem ofender ou entediar. Como se diz por aí, Allen até quando é medíocre consegue ser acima da média.
 

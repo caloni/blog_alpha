@@ -1,88 +1,20 @@
 ---
 categories:
-- coding
-date: '2009-07-10'
+- writting
+date: '2015-09-07'
 tags:
-- english
-title: Static Polymorphism
+- food
+title: Starbucks
 ---
 
-To explain the polymorphism nothing is better than see how stuff used to be. If you were a twenty old C programmer in the past and created the following functions:
-
-```
-int soma(int x, int y);
-double soma(double x, double y);
-
-int main()
-{
-    int zi = soma(2, 3);
-    double zd = soma(2.5, 3.4);
-    return 0;
-}
-```
-
-Immediately the compiler would blame you about the following errors:
-
-    
-    overload.c
-    
-    overload.c(2) : warning C4028: formal parameter 1 different from declaration
-    overload.c(2) : warning C4028: formal parameter 2 different from declaration
-    overload.c(2) : error C2371: 'sum' : redefinition; different basic types
-            overload.c(1) : see declaration of 'sum'
-
-This happens because in C **the identifiers are unique into the scope.** This is the reason why the following code is wrong also:
-
-```
-int main()
-{
-    int x = 0;
-    int x = 1;
-    return 0;
-}
-```
-
-    overload.c
-    overload.c(5) : error C2374: 'x' : redefinition; multiple initialization
-            overload.c(4) : see declaration of 'x'
-
-Back to the 90's, this is also wrong in C++. Even for a logic issue: how the compiler can pick a variable if we're using the same name for both of them?
-
-Even though, there's a little trick to stop the ambiguity when we talk about functions: the parameters that they receives.
-
-```
-int soma(int x, int y);
-double soma(double x, double y);
-
-int main()
-{
-    int zi = soma(2, 3); // dois tipos int: chamar soma(int, int)
-    double zd = soma(2.5, 3.4); // dois tipos double: só pode ser soma(double, double)
-    return 0;
-}
-```
-
-    C:Tests>cl /c overload.cpp
-    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 13.10.6030 for 80x86
-    Copyright (C) Microsoft Corporation 1984-2002. All rights reserved.
-    
-    overload.cpp
-    
-    C:Tests>
-
-This allowed in C++ the creation of static overload, that is exactly this: to call a function not just by its name, but also to match its signature, the number and the type of the received parameters. We call static because this is done just by the compiler, not creating any overhead during the execution.
-
-Among the most common uses some are as it follows:
-
-  * Functions with the same name treating different parameters;
-    * sum(int, int);
-    * sum(double, double);
-    * Obs.: This ignores, of course, the templates usefulness.
-  * New version of the same fuction with addictional parameters;
-    * export_data(void* buffer, int size);
-    * export_data(void* buffer, int size, unsigned long options);
-  * Same method name to set and get the value of a class property;
-    * Class::Property(int x); // setter
-    * int x Class::Property() const; // getter
-  * Well, whatever your imagination and needs demand =)
+- 2015-09-07 Pike Place. No sítio do 7 de setembro, um pouco fraco, corpo médio, combina perfeitamente com bolo de chocolate.
+ - 2016-11-21 Pike Place. Aroma muito forte, sabor muito equilibrado. Tem uma hora que enjoa.
+ - 2016-12-27 Christmas Blend Expresso Roast 2016. Consegue ser doce sem ser enjoativo.
+ - 2017-01-08 Sumatra. Amadeirado (ou tânico); doce sem ser enjoativo; nenhuma acidez.
+ - 2017-01-30 Casi Cielo. Amadeirado um pouco enjoativo, mas pouco ácido; mais amargor que doce.
+ - 2017-02-02 Espresso Roast. Encorpado que evita ficar enjoativo; permanência na boca; pouca gordura.
+ - 2017-06-29 Kati Kati. Um blend aparentemente africano, ele é picante, um pouco amadeirado, mas muito forte e amargo e um tanto áspero para ser do dia-a-dia.
+ - 2017-07-30 Africa Kitamu. Meio água suja com pouco pó, tem aquele doce oleoso típico da Starbucks, corpo leve, sem amargor; apenas o gosto da torra; levemente enjoativo, mas igualmente viciante. Combinação ok junto do pão na chapa de manhã.
+ - 2018-12-13 Brazil Blend. É muito melhor feito em casa na minha aeropress entre 25 e 35g, temperatura pré-fervura. Seu amargor é típico das safras nacionais com torra forte, que se afasta do bordô famoso nas zoropa, e se aproxima dos cafés queimados das esquinas do centro.
+ - 2019-04-20 Pike Place. Em prensa francesa com o café mais equilibrado e delicioso da Starbucks. Sua torra é linda, brilhante. Seu gosto é de um amargo que abraça devagar e logo solta. Suas notas aromáticas são simples, como deve ser o café da manhã.
 

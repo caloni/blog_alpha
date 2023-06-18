@@ -1,20 +1,37 @@
 ---
 categories:
-- writting
-date: '2018-03-18'
-link: https://www.imdb.com/title/tt0500140
+- reading
+date: '2018-08-18'
+link: https://youtu.be/-X0A5etb0kk
 tags:
-- series
-title: Jerry Seinfeld - I'm Telling You For The Last Time
+- body
+title: Jejum Intermitente e Nutricionistas em Fúria
 ---
 
-## Standup de 98 de Seinfeld é melhor que último do Gervais (graças ao SJW)
+Eu entendo que nutricionistas precisem defender sua profissão. Muitas pessoas no mundo todo possuem uma dieta errante totalmente inadequada com suas condições de saúde, e a área de nutrição pode e deve crescer com base em evidências científicas, da mesma forma como acontece com a medicina. Uma das funções mais importantes desses profssionais hoje em dia é desmistificar e validar as conhecidas dietas da moda: comer de três em três horas, dieta paleolítica, cortar carbo, comer só uma coisa a semana inteira, etc.
 
-Comecei a assistir o último standup do Rick Gervais, Humanity, mas me cansei em menos de 10 minutos. Coloquei no último do Seinfeld e não consegui parar de ver. Ambos possuem quase a mesma duração de uma hora, mas Seinfeld possui ritmo, e Gervais, nervosismo. Por que isso?
+O que eu não entendo de tudo isso é a razão pela qual conteúdo duvidoso é escolhido como base de notícias pelo canais de mídia. O jejum intermitente finalmente foi escolhido para ser explicado (e criticado) cientificamente aos leigos, mesmo já sendo moda há alguns anos mas entre dezenas de papers e experimentos realizados em camundongos e humanos por vários anos foi escolhido apenas um experimento recente feito por dois estudantes de pós da USP, sem revisão por pares e já com algumas críticas da comunidade científica por conta de sua metodologia.
 
-Porque Gervais é um maldito SJW. Eis o porquê. Ele segue uma tendência insuportável do século 21 de amar cachorros e odiar humanos. E no processo ele se torna o cara que faz média com seu gigantesco público que gosta do seu imenso ego. Mas seu ego não tem graça. Nem suas piadas. É apenas um ótimo roteirista que no standup parece ter se perdido nas travas cada vez mais intensas do politicamente correto.
+O motivo pelo qual resolvi escrever um pouco a respeito disso é que eu faço jejum intermitente há mais de um ano por sugestão de um amigo que havia começado há pouco tempo e que antes de ter tomado essa decisão resolveu estudar a fundo os efeitos dessa, podemos dizer, dieta. Eu comecei a fazer e em paralelo fui estudando, seja em blogs para algo mais informal, descartando mitos ou até em papers mais detalhados, onde se observou longevidade em camundongos e aplicações moleculares da dieta. Por fim, há até uma palestra no TED sobre como funciona o aprimoramento do cérebro pelo jejum (e uma possível conspiração da indústria alimentícia contra esse método de dieta) e, para os mais radicais, uma observação molecular de como funciona o processo de acúmulo e uso de energia no corpo humano.
 
-Do outro lado da equação, o do non sense americano, nem todas as piadas de Jerry Seinfeld nos anos 90 funcionam. Este é seu último show e ele está em um velório preparando para enterrar suas piadas, com a participação de vários comediantes famosos (e ninguém assistiu seu último show). Não são exatamente as piadas o que o torna acima da média, mas seu ritmo constante. Você simplesmente se acostuma e, quando vai ver, está rindo no final das coisas mais idiotas como cavalos conversando entre si sobre por que os humanos os tratam como lixo.
+Dessa forma, fiquei muito surpreso ao ver um vídeo no canal Notícias de Garagem, um canal que supostamente era um dos mais conceituados sobre notícias científicas em português do YouTube, falando sobre Jejum Intermitente apenas sob três aspectos principais, dois negativos: ele gera queda de peso, ele pode prejudicar o senso de fome e ele pode causar diabetes.
 
-As melhores piadas estão escondidas no seu gosto individual, caro leitor. Mas mesmo assim as piadas ruins funcionam com Seinfeld e seu jeito de tiozão que insiste em comentar após cada final de gag, construindo a situação. Ele tem uma noção de construção tão boa quanto George Carlin, o que o coloca no topo mesmo sem ser de fato um comediante. É um tiozão da situação. Brilhante talvez, nunca saberemos. É só um cara que deu certo. Sua participação no show business demonstra que não é requisito ser versado nas artes, mas antes saber o que a plateia valoriza. Pode até ser uma piada sobre crianças serem obcecadas com doces e vai funcionar.
+O estudo citado sobre a estudante no Jornal da USP tem o título "Jejum intermitente 24 por 24 horas aumenta risco de diabete em ratos" e foi demonstrado no European Society of Endocrinology annual meeting de 2018. O estudo em si se chama "Intermittent fasting for three months decreases pancreatic islet mass and increases insulin resistance in Wistar rats" e foi feito por  Ana Cláudia Munhoz Bonassa e Angelo Rafael Carpinelli. Além de ser uma pesquisa preliminar, não sendo recomendada sua divulgação como algo alarmante, recebeu algumas críticas contundentes sobre sua metodologia no evento, como a do Dr. Nicolas Guess, palestrante do Nutritional Sciences at Kings College London:
+
+> Firstly, it's important to bear in mind there are important differences between rodents and humans -- particularly with regard to diet. For example, a high fat diet causes insulin resistance in rats but it does not appear to in humans.
+>
+> The exact method is unclear from the abstract, but if the rats were fasted for one day, this is equivalent to an approximately 3 to 4 week fast in humans! So it's not applicable to the 24-hour or 48-hour fasts practised by humans on common fasting diets.
+
+Considerando todas as infomações coletadas em diversas fontes é possível perceber uma certa parcialidade no vídeo da turma do Dragões de Garagem, algo que eu poderia entender como mau-caratismo não fosse a possibilidade desta ser uma reportagem equivocada e feita às pressas. Seria apenas questão de eliminar mais uma dieta da moda da lista das soluções milagrosas. Se for esse o objetivo, eles estão certos: é importante eliminar a enorme desinformação que corre pela internet. Porém, não se faz isso espalhando mais desinformação. Que pelo menos fosse alguma informação equilibrada sobre o assunto.
+
+Fontes citadas:
+
+ - [Intermittent Fasting 101 — The Ultimate Beginner’s Guide](https://www.healthline.com/nutrition/intermittent-fasting-guide)
+ - [Google](https://www.google.com.br/search?q=intermittent+fasting)
+ - [11 Myths About Fasting and Meal Frequency](https://www.healthline.com/nutrition/11-myths-fasting-and-meal-frequency)
+ - [Fasting: molecular mechanisms and clinical applications](https://www.ncbi.nlm.nih.gov/pubmed/24440038)
+ - [Why fasting bolsters brain power: Mark Mattson at TED](https://youtu.be/4UkZAwKoCP8)
+ - [Glycogen in Four Parts](https://youtu.be/0xj4etF0wkw)
+ - [Jejum intermitente “24 por 24” horas aumenta risco de diabete em ratos](https://jornal.usp.br/ciencias/ciencias-biologicas/jejum-intermitente-24-por-24-horas-aumenta-risco-de-diabete-em-ratos/)
+ - [expert reaction to unpublished poster presentation on diabetes and fasting as presented at the European Society of Endocrinology annual meeting, ECE 2018](http://www.sciencemediacentre.org/expert-reaction-to-unpublished-poster-presentation-on-diabetes-and-fasting-as-presented-at-the-european-society-of-endocrinology-annual-meeting-ece-2018/)
 

@@ -1,28 +1,26 @@
 ---
 categories:
 - writting
-date: '2011-06-12'
-link: https://www.imdb.com/title/tt0121766
+date: '2011-05-27'
+link: https://www.imdb.com/title/tt0120915
 tags:
 - movies
-title: 'Star Wars, Episódio III: A Vingança dos Sith'
+title: 'Star Wars, Episódio I: A Ameaça Fantasma'
 ---
 
-A impressão que temos ao assistir o último capítulo da nova saga criada por George Lucas é que este preparou os [dois] [filmes] iniciais tão somente para ter a chance de produzir este terceiro, tamanho o peso narrativo que o diferencia dos seus antecessores.
+Quando se mexe com algo sagrado como a trilogia clássica de Star Wars ou alguém está produzindo uma sátira ou essa pessoa é George Lucas. Por mais que os fãs apontem defeitos e/ou sugestões, o Criador da saga sempre teve palavra final. Portanto, não é de se admirar que a nova trilogia comece com seu roteiro, direção, e autoridade.
 
-Aqui, toda a angústia e tristeza do universo Star Wars são representados por uma fotografia mais escura e uma trilha sonora que transita cada vez mais pelos acordes do Império, e se pelo menos nisso somos obrigados a notar certa coerência desde A Ameaça Fantasma, o mesmo não ocorre no resto dos elementos cinematográficos, que juntos, participam na narrativa de uma forma completamente coesa e sofisticada.
+Porém, autoridade não é sinônimo de competência. Não que o resultado final seja ruim, de fato, mas acaba se tornando reflexo do enorme poder de influência dos filmes anteriores, causando um certo tipo de "empolgação por tabela".
 
-Note, por exemplo, como a perturbação da Força é "sentida" nos primeiros minutos em Anakin (Christensen, mais maduro) e em sua lógica, antes apenas irreverente, mas agora facilmente percebível como deturpada pelo desespero gerado por seus pesadelos. E a força de sua transformação reside principalmente na escolha de um motivo humano para levá-lo para o lado obscuro de seus poderes. Afinal de contas, quem não arriscaria se enveredar por um mundo, mesmo que aterrorizante, para conseguir salvar um ente querido?
+Aqui temos a história de um evento na República que ameaça Rainha Amidala e seu povo, ao mesmo tempo que um Jedi encontra um menino dotado de capacidades especiais. Ambientada em diferentes planetas, como de costume, e em diferentes contextos, a narrativa mantém um subtexto através de pistas nos diálogos, no movimento de câmera e na música que tentam sempre definir o que está por vir, que é o surgimento de Darth Vader, o personagem mais marcante da trilogia clássica. A tentativa acaba funcionando na maioria dos casos, embora apresente pistas de uma maneira tão discreta que em um primeiro momento poderia passar despercebido pela maioria dos espectadores, o que é uma pena, pois é esse subtexto que é construído durante a trama que nos remete à história original e que une as pontas entre as diferentes aventuras da saga.
 
-Apostando em movimentos de câmera mais intensos, mesmo em simples diálogos, como o momento em que Anakin descobre algo revelador sobre o Chanceler Palpatine, demonstra ao mesmo tempo o clima de urgência do Conselho Jedi, da República e do próprio Skywalker.
+São detalhes que já sinalizam o que vai acontecer, como a música-tema do Império quando Yoda confessa a Obi-Wan Kenobi (McGregor) que teme pelo treinamento de Anakin Skywalker (Lloyd), ou quando os Jedis comentam que os Siths, algo como "Jedis do mal", costumam andar sempre em pares (um aprendiz e um mestre), no que a própria câmera dá uma pista, uma prova da astúcia de Lucas de implantar pequenas dicas para os fãs mais atentos. E, ao final dos créditos, pode-se ouvir a respiração do personagem já citado.
 
-Com uma conclusão que infelizmente exclui o público mais infantil, ao escancarar a própria materialização do mal, o diretor decide por uma aceleração dos eventos, mas mesmo assim não perde as rédeas de sua narrativa, que consegue fechar todas as pontas de maneira primordial.
+Porém, algumas construções não foram articuladas o suficiente para nos ausentar de algumas surpresas de roteiro, como o fato de Padme confessar que nunca deixará de cuidar de Anakin, sendo que não havia nenhum laço definido entre os dois que indicasse tamanha intimidade no "relacionamento" entre eles. Mais engraçado é que essa informação remete à nova trilogia, em uma tentativa agora de juntar as pontas nos três novos filmes, algo menos necessário e feito de maneira desajeitada.
 
-E se, por fim, a maioria do filme prever o final não-feliz é uma atitude corajosa, a decisão de colocar o destino dos filhos de Anakin em foco nas últimas cenas é admirável, pois consegue sucintamente anunciar a vinda de [uma] [nova] [trilogia] que, aí sim, elevará Star Wars na categoria das melhores histórias de aventura espacial já contada de todos os tempos.
+Ainda que existam indícios que unem os contextos da série, o fato é que nem sempre histórias, para serem contadas por completo, exigem o conjunto de três episódios. Portanto é compreensível que se entenda o primeiro desses episódios do ponto de vista puramente comercial, pois, se analisarmos em que Episódio I contribui para a saga como um todo, constataremos que quase nada, pois a história é, no máximo, episódica, necessário para apresentar personagens (tal como Superman I), mas como estamos falando aqui de uma narrativa das origens de personagens já existentes por três filmes seguidos, acaba por perder a Força.
 
-[dois]: {{< relref "star-wars-episodio-i-a-ameaca-fantasma" >}}
-[filmes]: {{< relref "star-wars-episodio-ii-ataque-dos-clones" >}}
-[nova]: {{< relref "o-imperio-contra-ataca" >}}
-[trilogia]: {{< relref "o-retorno-de-jedi" >}}
-[uma]: {{< relref "star-wars-guerra-nas-estrelas" >}}
+Ainda assim, alguns detalhes chegam a ser interessantes, e só. É curioso, por exemplo, notar a diferente postura dos Jedis frente a uma espera durante o conflito (o que por si só representa a postura frente à mesma Força). Ao mesmo tempo, se a intepretação de Ian McDiarmid como senador Palpatine não chega a ser primorosa, é envolvente e misteriosa o suficiente para dar as primeiras pistas de suas reais intenções (o melhor exemplo é seu sorriso disfarçado ao final de uma cena-chave da trama).
+
+Outras cenas são pura diversão, como a corrida de podracers, que faz uma discreta homenagem à corrida de bigas de Ben-Hur.
 

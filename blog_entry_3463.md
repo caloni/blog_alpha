@@ -1,16 +1,16 @@
 ---
 categories:
 - writting
-date: '2021-05-22'
-link: https://www.imdb.com/title/tt5824736
+date: '2011-11-03'
+link: https://www.imdb.com/title/tt1307010
 tags:
-- animes
-title: Shônen Ashibe GO! GO! Goma-chan
+- movies
+title: Shocking Blue
 ---
 
-Ela é uma foca bem fofinha em uma animação com traços infantis, geometricamente simples de repetir.
+Com um elenco coeso e uma direção segura, o filme holandês da safra do ano passado conseguem empolgar demasiadamente correto em seus 82 minutos de projeção. A única limitação acaba sendo a própria narrativa, que ganha ares despretensiosos, mas que evoca exatamente isso em sua maioria, tornando-se enfadonho, embora nunca desinteressante.
 
-Agora eu sei o barulho que uma foca faz e não vou decepcionar minhas sobrinhas.
+Fazendo jus ao seu nome, a fotografia é competente em elencar funções para as cores (como o próprio azul/frio do título, note isso, em detrimento ao vermelho/quente), e se privilegia de horizontes verdes e floridos das acolhedoras terras da Holanda.
 
-Mas o desenho em si é cheio de problemas de ritmo e de tom, que se disfarçam atrás da costumeira fofice de animes com abordagem mais infantil. Os personagens são bobos no mau sentido, pois não há malícia. É desses que seguem o manual de boas maneiras de como fazer uma obra que não ofenda ninguém nesse século. Ou seja, um tédio.
+No entanto, o que incomoda acaba sendo a auto-sabotagem de seu roteiro, tão sutil que se desmancha ao menor retoque de seus personagens.
 

@@ -1,19 +1,19 @@
 ---
 categories:
 - reading
-date: '2017-06-27'
-link: https://rintintin.colorado.edu/~vancecd/phil3600/Huemer1.pdf
+date: '2019-02-03'
+link: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
 tags: []
-title: Why People Are Irrational about Politics
+title: Why Facts Don't Change Our Minds
 ---
 
-A teoria da "Irracionalidade Racional" do filósofo Michael Huemer estabelece uma base teórica que nos permite afirmar que qualquer discussão política é em sua essência irracional:
+Você sabe como funciona um vaso sanitário? Tem certeza? Faça o experimento, então: descreva de maneira verbal todos os passos envolvidos no funcionamento de dar descarga em um vaso. Depois pesquise e verifique como ele realmente funciona. Compare a realidade com o seu achismo e exploda sua cabeça.
 
-The theory of Rational Irrationality holds that it is often instrumentally rational to be epistemically irrational. In more colloquial (but less accurate) terms: people often think illogically because it is in their interests to do so.
+Mas não se preocupe, você não é o único. De acordo com inúmeras pesquisas desse artigo de Elizabeth Kolbert o ser humano dependeu dessa confiança cega no conhecimento do próximo para conseguir evoluir tão rapidamente desde a idade do bronze. Não era todo homo sapiens sapiens que precisava entender todo o mecanismo por trás da confecção de uma arma ou uma ferramenta rústica dos tempos primórdios. Muitos simplesmente confiavam no que lhe era dado pelo ambiente e sociedade onde vivia.
 
-An interesting implication emerges from the consideration of the mechanisms of belief fixation. Normally, intelligence and education are aides to acquiring true beliefs. But when an individual has non-epistemic belief preferences, this need not be the case; high intelligence and extensive knowledge of a subject may eve worsen an individual's prospects for obtaining a true belief (see chart below). The reason is that a biased person uses his intelligence and education as tools for rationalizing beliefs. Highly intelligent people can think of rationalizations for their beliefs in situations in which the less intelligent would be forced to give up and concede error, and highly educated people have larger stores of information from which to selectively search for information supporting a desired belief. Thus, it is nearly impossible to change an academic's mind about anything important, particularly in his own field of study. This is particularly true of philosophers (my own occupation), who are experts at argumentation.
+Até aí há uma grande coincidência em como a sociedade funciona hoje. Claro, se escalarmos nossa evolução ao infinito após a Revolução Industrial, já que praticamente o funcionamento de nada no mundo contemporâneo consegue ser explicado por apenas um ser humano. Pior ainda se ele tentar fazer ele mesmo. Veja a história do cara que tentou fazer seu próprio sanduíche. Ele deveria produzir todos os ingredientes envolvidos em sua produção. Ele demorou seis meses e gastou 1500 dólares no processo. Um mero sanduíche.
 
-The problem of political irrationality is the greatest social problem humanity faces. It is a greater problem than crime, drug addiction, or even world poverty, because it is a problem that prevents us from solving other problems.
+No entanto, o assunto do artigo não é esse. Ele parte disso para nos ensinar uma importante lição como lidamos com o conhecimento no mundo e a partir disso demonstra como nem em todas as áreas isso é algo benéfico. No quesito democracia, por exemplo, esse nosso viés é muito ruim, já que as decisões escolhidas por milhões de pessoas não impactam diretamente suas vidas, mas a decisão em si exige conhecimento de cada um. Isso quer dizer que todos os votantes ou apoiadores de qualquer ação de seus governos deveriam estar a par de todo o movimento geopolítico e econômico da atualidade.
 
-Traduzido: https://criticanarede.com/irracionalidadepolitica.html
+Traduzindo isso na prática, uma intervenção americana na Ucrânia, por exemplo, para ter legitimidade de conhecimento da população, deve supor que todos ou a maioria dos habitantes está a par da situação política nesse país do Leste Europeu. Porém, quase ninguém sabe exatamente onde fica a Ucrânia. E pior: quando pedido aos entrevistados de uma pesquisa para apontar no mapa onde esse país fica, quanto mais distante dos EUA eles apontavam mais sua opinião era intervencionista. Coincidência?
 

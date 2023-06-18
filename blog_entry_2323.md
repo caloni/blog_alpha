@@ -1,19 +1,19 @@
 ---
-categories: []
-date: '2012-06-04'
-tags: null
-title: Meus repositórios no GitHub
+categories:
+- writting
+date: '2021-07-24T22:26:59-03:00'
+tags:
+- movies
+title: Meus Quinze Anos
 ---
 
-Depois de vacilar por alguns meses, incentivado pelo meu amigo Chico Pimenta, resolvi experimentar o tal do GitHub, e consequentemente o sistema de controle de fontes distribuído Git, que antes era meio exclusivo do Linux (continua meio sendo, mas com suporte um pouco melhor para Windows).
+Esse filme com elenco composto por quase todos latinos e com produção e direção quase toda branca foi o frisson em Sundance 2006, quando ninguém acreditava que um filme de baixo orçamento faria tanto sucesso de crítica e público. Bom, hoje seria um ultraje se um festival desses premiasse qualquer filme não composto pelas minorias eleitas no último opressed contest.
 
-Com isso, dei uma pequena lida no livro de introdução e comecei a migrar meus fontes perdidos num canto do HD. O que notei de vantagem com relação a outros DRCSs foi que é muito fácil e rápido criar branches e que a comunicação remota e os commits são feitos de uma maneira mais organizada e estruturada, além da própria estrutura interna do repositório ser muito simples de entender: um bando de arquivos compactados cujo nome é o hash do que ele contém.
+Ver o making off com o elenco gera sentimentos mistos. As atuações são medíocres e mornas, mas para o casting é como se estivessem compondo um clássico. É o momento deles brilharem e serem aplaudidos, o que é muito justo. O estranho da situação é que o que torna o filme notável é justamente seus personagens pedestres e reais. Você não espera nada dessas pessoas em termos de dramatização porque elas evocam algo muito mais poderoso e esperado pela dupla de diretores: o drama da vida real não é anunciado com trompetes.
 
-Meus  repositórios estão armazenados em alguns branches que distribuí de acordo com o uso/importância:
+Este é um filme que começa e termina devagar, mas no meio do caminho te gera uma sensação que há uma quase mensagem perdida por ali. É possível sentir no ar ou é apenas impressão de que deveria haver algo.
 
-  * OpenSource. Projetos de fonte aberto que mantenho/ive e que poderiam se perder se alguém não fizesse backup (como o mouse tool ou regmon).
-  * Samples. Códigos de exemplo, de palestras e de testes feitos para escrever os artigos do blogue cujo autor vos fala.
-  * Caloni. Os códigos que fazem algo de útil, como o Houaiss2Babyulon, CopiaExata e DayToDay.
-  * Book. Um projeto em estado de larva sobre escrever um livro de engenharia reversa. Já possui um índice básico. Sugestões são bem-vindas.
-  * DriverEntry. Códigos do curso de desenvolvimento de drivers que estou fazendo com o Fernando, da DriverEntry Company. Recomendo!
+A ação se desenrola em Echo Park, bairro vizinho a Hollywood e Griffith. No entanto, é o resquício mais próximo para a classe média do que pode ser um bairro latino em Los Angeles.
+
+A história é sobre os quinze anos de uma garota e a pomposidade. Vira um conto do cotidiano. Simples e eficiente, mas evapora no final.
 

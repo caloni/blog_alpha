@@ -1,19 +1,28 @@
 ---
 categories:
-- writting
-date: '2018-10-11'
-link: https://www.imdb.com/title/tt6100336
+- playing
+date: '2023-01-11T22:49:01-03:00'
+link: https://www.chess.com/game/live/67225834285
 tags:
-- cinemaqui
-- movies
-title: Um Noir nos Balcãs
+- chess
+title: Um movimento de peão e já era
 ---
 
-Era pra ser uma história simples sobre perdas e auto-destruição, como o ótimo Em Pedaços (do diretor Fatih Akin, com Diane Krueger), que de bônus tem uma trilha sonora ótima de rock pesado. Mas Um Noir nos Balcãs é apenas um filme que lembra vagamente o gênero noir, e resolve aplicar gracinhas cinematográficas no meio que não fazem o menor sentido, e de quebra tem uma trilha sonora pop bobinha. A protagonista até usa o título da música-síntese de uma cantora pop, Cyndi Lauper: "Girls Just Wann to Have Fun". E o único que não tem diversão nisso tudo é o espectador.
+Brancas jogam e é mate em poucos lances.
 
-Isso porque partindo de uma história simples -- uma mãe com a filha desaparecida há seis anos -- o filme mistura uma lógica temática que envolve propagandas antigas de cigarro como o inconsciente coletivo agindo. Mas além disso corta a história em pedaços, que nada contribui para entendermos seus personagens nem a história, que avança a passos de tartaruga e de forma confusa. Porém, mais uma vez, não é a forma confusa e de moral duvidosa de um noir, mas confuso por ser confuso, mesmo.
+{{< image src="board.jpeg" >}}
 
-Além dos truques com as propagandas de cigarros -- um achado divertido em si mesmo --  há também o uso indiscriminado de movimento de câmera, brincando com a percepção do espectador e nos jogando longe da ficção, como quando a câmera deita junto quando alguém derruba uma árvore (muito brega), ou "piscadas" feitas em alguns momentos em que alguém está acendendo o isqueiro ou socando alguma coisa. Nada disso contribui com a história e é mera diversão estética do diretor Drazen Kuljanin, que quer que olhemos para ele em vez do filme.
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.12"]
+[White "cavaloni"]
+[Black "SYAHDAN28"]
 
-Não é possível extrair significado de toda essa bagunça sem ritmo exceto a própria estética aplicada no filme. Não é um filme sobre uma história. A história é mera isca para apreciarmos vídeos antigos de médicos promovendo o fumo ou imagens de bebês que piscam em alguns momentos. Um Clube da Luta sem imaginação nem propósito preparado artesanalmente em dois dias na Suécia e cinco na Sérvia. Não me admira que tenha sido feito tão rápido: não há roteiro enquanto o filme pisca para você. Vai um cigarro aí?
+1. Nf3 c5 2. e4 Nc6 3. Bc4 d6 4. a3 Nf6 5. Nc3 e6 6. d3 Be7 7. Be3 e5 8. Ng5 O-O
+9. O-O h6 10. Nf3 Nd4 11. Nb1 Bg4 12. Nbd2 a6 13. c3 b5 14. Ba2 Nxf3+ 15. Nxf3
+c4 16. dxc4 bxc4 17. Bxc4 Nxe4 18. Bd3 Ng5 19. Be2 Bxf3 20. Bxf3 e4 21. Bxg5
+exf3 22. Bxe7 Qxe7 23. Qxf3 Rab8 24. Rfe1 Qg5 25. Re2 Qa5 26. Qd3 d5 27. Rb1 Rb3
+28. h3 Rd8 29. Rbe1 g6 30. Re8+ Kg7 31. Qd4+ 1-0
+```
 

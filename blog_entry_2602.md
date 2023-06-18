@@ -1,40 +1,16 @@
 ---
 categories:
-- coding
-date: '2008-07-18'
-tags: null
-title: O conhecido unresolved external
+- writting
+date: '2015-01-04'
+link: https://www.imdb.com/title/tt1821641
+tags:
+- movies
+title: O Congresso Futurista
 ---
 
-O artigo anterior mostrou que nem sempre as coisas são simples de resolver, mas que sempre existe um caminho a seguir e que, eventualmente, todos os problemas se solucionarão.
+Essa é a minha visão sobre o futuro. Obviamente, no filme as coisas não saem como o esperado. Mas quem disse que na vida real é diferente? Quantas vezes idealizamos algo e esse algo se perde no meio do caminho para virar outra coisa que, não obstante, parece bater de frente com nossos objetivos iniciais?
 
-Porém, resolver um problema por si só não basta: é preciso rapidez. E como conseguimos rapidez para resolver problemas? Um jeito que eu, meu cérebro e o Dmitry Vostokov conhecem é montando padrões.
+No caso de O Congresso Futurista, a maior falha no roteiro de Ari Folman (de Valsa com Bashir, e que aqui também dirige) baseado no romance de Stanislaw Lem é não conseguir estabelecer com a exatidão necessária qual o objetivo de Robin Wright (House of Cards) em assinar seu último contrato de atuação, que permitirá à produtora "Miramount" (um trocadilho infame entre Miramax e Paramount) deter todos os direitos de atuação da cópia digital da atriz, impedindo que ela atue para sempre ou por um bom tempo. Os cuidados que tem com seu filho Aaron (Kodi Smit-McPhee) não conseguem convencer por si só. Sua face quase sempre enigmática também não ajuda.
 
-Um padrão nos ajuda a não pensar novamente em coisas que sabemos a resposta, de tantas vezes que já fizemos. Só precisamos saber o caminho para resolver determinado problema.
-
-Mesmo assim, existem diversos caminhos a percorrer. Até mesmo para um singelo e batidíssimo "unresolved external".
-
-#### Primeiro passo: você está usando a LIB correta?
-
-O erro mais comum é usar uma LIB onde não está a função que estamos usando, ou usar uma versão diferente da mesma LIB que não contém a função, ou contém, mas com assinatura (parâmetros da função) diferentes. Isso pode ser verificado no código-fonte da LIB, se disponível, ou então pelo uso do dumpbin, como já vimos anteriormente.
-
-Dica extra: às vezes você pensa que está usando uma LIB em um determinado caminho, mas o linker achou a LIB primeiro em outro lugar. Para se certificar que está verificando a mesma LIB que o linker achou, use o Process Monitor.
-
-Às vezes, porém, não estamos usando a função diretamente e não conhecemos quem a usaria. Para isso que hoje em dia os compiladores mais espertos nos dizem em que parte do código foi referenciado a tal função:
-
-    test.obj : error LNK2019: unresolved external symbol func referenced in function main
-
-É sábio primeiro inspecionar a função que referencia, para depois entender porque ela não foi encontrada. Mesmo parecendo diferente, essa operação faz parte do primeiro passo, que é identificar a origem.
-
-#### Segundo passo: você digitou direito?
-
-Parece estúpido, mas às vezes é esse o caso. Essa é a segunda coisa a fazer porque não é tão comum quanto a primeira, visto que hoje em dia é rotina colocarmos as funções em um header e incluirmos esse cabeçalho em nosso código-fonte (em C++, praticamente obrigatório). Se houvesse discrepância entre o nome da função chamada e o nome da função existente, provavelmente teríamos um erro de compilação ("função não encontrada") antes do erro de linking.
-
-#### Terceiro passo: tente incluir a função diretamente no seu código
-
-Se a LIB não está cooperando, e der pouco trabalho, experimente incluir a função inteira (ou o cpp) dentro do seu projeto, para linkar diretamente. Se funcionar, então existe alguma diferença de compilação entre os dois projetos (o seu e o da LIB) para que haja uma divergência no nome procurado. Procure nas opções de projeto.
-
-#### Quarto passo: comece de novo!
-
-Sempre que nos deparamos com um problema que aos poucos vai consumindo o nosso tempo, tendemos a gastar mais tempo fazendo coisas inúteis que sabemos que não irá adiantar de nada. Às vezes fazer brute force pode dar certo. Outras vezes, seria melhor recomeçar a pesquisa e tentar entender de fato o que está acontecendo na compilação. Em outras palavras: gastar o seu tempo pensando pode ser mais produtivo do que agir instintivamente.
+Dito isto, a maior virtude do filme se ampara em sua dualidade animação/vida real. Embora todos falem que esse "Admirável Mundo Novo" se trata de um mundo perfeito onde todos são o que desejam ser, os traços e os movimentos utilizados se assemelham muito mais a uma viagem de ácido temporária, pois se alguém permanecesse nesse delírio por mais de um dia com certeza ficaria maluco. No entanto, a breve olhada que temos do real, mas sujo e abandonado "Mundo Selvagem" é o suficiente para entendermos que não se trata de uma escolha entre o paraíso e o inferno, mas entre qual dos dois infernos é o mais suportável.
 

@@ -1,16 +1,19 @@
 ---
 
-Esta segunda aventura da série de adaptações cinematográficas dos livros infanto-juvenis da escritora J. K. Rowling já soa mais episódica que seu primeiro e antecessor, mas mantém na magia, nas reviravoltas e nas ótimas atuações de seu elenco um pouco do lampejo de seu original. É óbvio que esta é uma produção que quer chamar mais atenção para seus efeitos, que convertem o fundo verde em torno de um carro "voador" para a magia de sobrevoar os céus de Londres em plena luz do dia. Mais detalhes sobre as relações entre bruxos e trouxas são revelados, e principalmente entre bruxos e bruxos.
+Nora Ephron morreu ano passado. Escreveu e dirigiu trabalhos desde os anos 80 que hoje são agradáveis passeios pelas origens da comédia romântica como hoje a vemos (ainda que algumas bem datadas, como [A Difícil Arte de Amar]). No entanto, "Harry & Sally", comparado com a média das com-rom atuais, possui virtudes o suficiente para elevá-lo à categoria de grande filme.
 
-Este é um filme para apresentar novos personagens-chave que farão diferença em toda a saga, como Lucius Malfoy, pai do menino irritante da família rival da escola de Hogwarts onde Harry Potter e seus amigos vivem sua costumeira aventura anual. Esta também é uma aventura que nos mantém alertas para o mal presente do vilão da saga, Lord Voldemort, que não está presente em corpo ainda, mas que justamente por isso alimenta ainda mais nossa imaginação.
+Note como os personagens não mudam de opinião, não estão loucos por um grande amor e nem são expostos a relacionamentos passageiros para gerar ciúmes no companheiro/a. Harry é visto através da figura de um Billy Crystal sóbrio, divertido e coeso, ou uma espécie de persona no esitlo de Bill Murray sem muito sarcasmo mas com muito carisma. Sally é uma Meg Ryan sem os trejeitos que foi adquirindo ao longo da carreira (principalmente nos anos 90). Os figurinos, a fotografia e a direção de arte dizem quase tudo o que não sai da boca desse casal. Mesmo assim, a direção segura de Rob Reiner ([O Clube das Desquitadas]) favorece ainda mais tomadas clássicas em torno do casal, como a já batida, mas ainda assim, imperdível, cena do orgasmo.
 
-A grande atração dos computadores é um servo baixinho e de outra espécie chamado Dobby, dublado por Toby Jones, em mais um ponto para o grandioso e sério elenco britânico elevando a qualidade da série. Dobby está por trás de tantas reviravoltas que se torna cansativa uma revisita ao filme, que é facilmente desvendado, e cujos elementos fantásticos não sobrevivem muito além de pura diversão, o que se traduz para o mundo dos adultos que já conhecem toda a saga como sonolento. Mesmo observando as mágicas daquele início de século em computação, como uma aranha e uma cobra gigantes, falta substância que una as diferentes criaturas nesta parte da saga. É como se a continuação tivesse perdido o fôlego ainda que faltando vários livros por adaptar, mas que precisasse entregar mesmo assim este livro para o fim de ano.
+No caso de Harry e Sally o filme não está datado. Ele serve como experiência romântica e, mais que isso, como um documentário de uma época cheia de transformações sociais.
+
+[A Difícil Arte de Amar]: {{< relref "a-dificil-arte-de-amar" >}}
+[O Clube das Desquitadas]: {{< relref "o-clube-das-desquitadas" >}}
 
 ---
 categories:
 - writting
-date: '2019-12-27T18:24:00-03:00'
-link: https://www.imdb.com/title/tt0373889
+date: '2019-12-27T18:21:00-03:00'
+link: https://www.imdb.com/title/tt0295297
 tags:
 - movies
-title: Harry Potter e a Ordem da Fênix
+title: Harry Potter e a Câmara Secreta

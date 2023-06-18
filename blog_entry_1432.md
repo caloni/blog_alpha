@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-11-23'
-link: https://www.imdb.com/title/tt4877122
+date: '2016-03-07'
+link: https://www.imdb.com/title/tt0272338
 tags:
 - movies
-title: 'Emoji: O Filme'
+title: Embriagado de Amor
 ---
 
-Não é sintomático que um filme chamado Emoji tenha tão poucas emoções? Talvez não. Afinal de contas, os emojis basicamente são a simplificação de nossa linguagem e dos nossos sentimentos. Onde um email com uma poesia é colocado na lixeira porque "usar textos é tão retrô" e onde no lugar de um emoji com uma única emoção enlatada surge um emoji com várias!
+Paul Thomas Anderson é um diretor peculiar, tanto quanto Sidney Lumet. Ambos fizeram trabalhos com temas variados, mas se entregaram a cada projeto como se cada um deles fosse sua obra-prima. Nenhum dos dois pode ser "acusado" de fazer Cinema autoral (aquele que pelo filme você já sabe quem é o diretor).
 
-Spoiler? Quem se importa com isso? Com certeza não os consumidores de trailers de cinema, que entregam praticamente toda a história do filme em poucos segundos. E sinto que com esse filme isso seria realmente possível. Talvez desde o argumento inicial desse filme pouca coisa mudou.
+Porém, PTA -- esse é o diminutivo do nome do diretor para os íntimos -- tem, sim, sua marca registrada: a expressividade áudio-visual extrapolada. Quando falamos de Magnólia ou Boogie Nights se torna dispensável apontar onde há o exagero narrativo. No entanto, mesmo filmes mais "sóbrios", como Sangue Negro ou O Mestre, possuem, aqui e ali, aquela nota em sustenido e que destoa de todo o resto. destoa no bom sentido. Acho que uma palavra melhor seria "arrisca". PTA não tem medo de arriscar. E é essa característica isolada que, aplicada a diretores talentosos como Anderson, a que mais gera conteúdo novo e provocante na sétima arte.
 
-Exceto uma coisa: quais vão ser os patrocinadores desta produção. Porque, claro, um filme hoje em dia que se passa dentro de um smartphone cheio de apps nada mais natural que as empresas desenvolvedoras dos apps paguem por ele. E isso pode ser tão sutil quanto Facebook, Twitter e Instagram (que devem ter sido até pagos para participar) ou gritante como Candy Crush, Just Dance, Spotify e Dropbox.
+Com Embriagados de Amor, uma comédia romântica com Adam Sandler, não poderia ser diferente. E só de ouvir as palavras "comédia romântica" e "Adam Sandler" juntas provavelmente o espectador mais atento já deve imaginar do que se trata, baseado nas dezenas de filmes do gênero que Sandler produz com seus amigos todos os anos. No entanto, peço sempre para as pessoas prestarem atenção ao diretor que comanda a obra. Nos enlatados de Sandler, quase sempre o diretor também é um amigo do ator e cujos projetos nunca saíram da mesmice.
 
-A história é de um emoji, o "meh", que aqui se chama Gene e não consegue apenas fazer sua cara de meh. Ele tem um amigo, o "Bate Aqui", que irá lhe dar uma mãozinha. Se você entendeu essa piadinha infame e não deu risada, espere para você mesmo, espectador, fazer mais caras de meh durante o filme do que o próprio Gene. Talvez a solução para o problema dele estará disponível na Netflix em breve: seu próprio filme. Duvido que ao assisti-lo ele não ganhe permanentemente uma face blasé.
+Mas essa é uma obra atípica. PTA está no comando, e é por isso que nos primeiros minutos vemos o personagem de Sandler de terno azul, sozinho em um galpão, para logo em seguida testemunhar um carro capotando e um pequeno órgão sendo despejado na rua. É por isso também que a trilha sonora e os aspectos de cena do filme mudam ao gosto da imaginação do protagonista. Esse é um filme que experimenta com o novo, sem dúvida, e muitas vezes talvez sem motivo.
 
-Como se não fosse possível enfiar mais estereótipos e referências neste filme, incluindo os trolls de internet, os spams, o cavalo de Tróia, o firewall, os anti-vírus (e, sim, os vírus), e a hacker, "Emoji: Meh" copia descaradamente Detona Ralph em seu subplot (e sua música final) e ainda "detona" a ideia com uma personagem feminista de fazer vomitar (como se hoje em dia houvesse alguma feminista que não causasse esse efeito). Aliás, a própria história principal já lembra Divertidamente até demais (filme sobre emoções não serem tão simples, e os próprios pais de Gene possuem o mesmo problema da menina do filme da Disney: lidar com um adolescente problemático; claro que o adolescente ser um emoji poderia ser interessante... mas não é).
+Mas quem se importa se é justificável ou não? Estamos na mente de Adam Sandler como um introvertido meio esquizofrênico que frequentemente tem acessos de raiva causados principalmente pela sua onerosa convivência com as sete irmãs. Mentiroso compulsivo -- já sabemos que é para escapar de situações que se sente desconfortável -- Sandler não demonstra competência nenhuma em atuar, mas por outro lado se mostra uma escolha certeira para o personagem: abobalhado, tropeçando e demonstrando uma limitação em coordenar mais de uma ação ao mesmo tempo.
 
-Por fim, se você espera um filme clichezão tapa-buraco (filme sobre emoticons: check!) com pouca criatividade em sua história, seu roteiro, sua direção de arte e até fotografia (até Tron, o original dos anos 80, se sai bem melhor em sua abstração), "Emoji: Arght!" é o seu tipo de filme. No começo ouvimos uma narração em off de Gene. Em determinado momento, uns 20 segundos depois, ele comenta: "acho que a essa altura você nem está mais me ouvindo". Se você é esse tipo de espectador, e saca seu smartphone no cinema porque está entediado (com cara de meh), fico feliz de lhe apresentar a sessão que você deve ir (e consequentemente a que eu nunca irei).
+Outras pessoas tropeçam em Embriagado de Amor, e é isso que está em jogo nesse filme. Há uma realidade alternativa aí esperando para ser desvendada. As cores primárias pintam cada cena, mas é o que está em contra-luz, escuro, que realmente importa. Até assistir esse filme, eu acharia particularmente difícil ver um ator como Sandler protagonizar uma cena de amor realmente emocionante. Agora, depois de ver o labirinto visual que PTA cria para ele quando ele precisa desesperadamente voltar para o apartamento de sua garota, podemos dizer que nunca é tarde para se encontrar o diretor certo.
 

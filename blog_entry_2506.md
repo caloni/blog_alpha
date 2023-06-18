@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2013-07-14'
-link: https://www.imdb.com/title/tt0155711
+date: '2017-06-05'
+link: https://www.imdb.com/title/tt2735996
 tags:
 - movies
-title: Ninguém é Perfeito
+title: Ninguém Deseja a Noite
 ---
 
-Robert de Niro é Walt Koontz, um policial aposentado como herói. Philip Seymour Hoffman é Rusty, uma drag queen que canta em uma boate gay em seu próprio show. Ambos vivem em um prédio decadente dos subúrbios, e Walt odeia a ideia de conviver com esses seres bizarros, até que um roubo entre criminosos faz ambos se encontrarem e terem que conviver com suas diferenças.
+Juliette Binoche se transforma completamente em uma americana aristocrata (vinda da França, até pelo nome) e que sai em busca de seu marido, um aventureiro que deseja mais que tudo ser o primeiro a atingir o Polo Norte e fincar uma bandeira. Ela vai em ajuda dos guias para o norte do Canadá, e o que encontra lá com certeza não era o que esperava.
 
-Não é preciso comentar que ambos os atores são talentosos o suficiente para trazer vida a seus personagens sem os tornarem caricatos. Seymour Hoffman está irreconhecível, mas não particularmente tocante: o tom bizarro do filme impede nossa identificação. O mesmo pode-se dizer de Robert de Niro, que não possui diálogos particularmente inspiradores nem a chance de dizê-los. Porém, esse é um filme mais de momentos, gestos e faces que dizem muito mais sobre o que está ocorrendo em cena.
+Baseado em fatos reais (mas sem dar detalhes de qual história estamos vendo, o que cheira manipulação), acompanhamos um filme que se dedica a dar o peso real ao desafio de viver no gelo absoluto, seja como esquimó ou como "povo civilizado". Estamos no comecinho do século 20, e a diretora Isabel Coixet (Fatal), auxiliada pelo roteirista Miguel Barros e, claro, uma irreconhecível Juliette Binoche, criam uma persona frágil e ao mesmo tempo petulante, teimosa, elitista, preconceituosa e... que vira nossos olhos e sentimentos naquela terra estranha. A única personagem à altura é a atriz Rinko Kikuchi (Babel), sempre surpreendente e que aqui faz a jovem esquimó Allaka, e que já havia feito a ótimo Kumiko em "Caçadora de Tesouros". A dinâmica entre as duas é irregular e por isso funciona como uma pena para a questão levantada pelo filme, das diferentes visões de mundo.
 
-Exatamente por causa disso, a direção de Joel Schumacher (Batman Eternamente) erra a mão ao não tornar o encontro entre esses dois em algo intimista. A visão geral é que pessoas bizarras existem, e não são exatamente ou apenas drag queens. Talvez seja até o oposto.
+É claro que chega uma hora que tudo vira uma versão feminina de Dança com Lobos, mas sem a sutileza, e com um certo pelo exagero nas falas. Uma esquimó não falaria tão bem assim tantas vezes. Mas o que é irrepreensível são as virtudes estéticas e técnicas do filme, que inserem o espectador no gelo ártico com muita propriedade. Com o design de som e os ventos, ou o próprio isolamento das montanhas, ou a escassez de recursos, o gelo quebradiço... e até a decupagem, que coloca Kikuchi e Binoche em planos cada vez mais estreitos, conforme o inverno se aproxima. É como conseguir fazer o espectador sentir frio de dentro de um filme.
 
-Nesse sentido, talvez valha a pena uma revisita a este filme daqui uns anos.
+Ninguém Deseja a Noite cria a profundidade de seu drama para discutir questões mais profundas ainda, como nossos costumes culturais e as diferentes formas de enxergar a realidade. Não chega a ser tocante, e possui um final um tanto desonesto, mas não poupa ninguém das consequências das decisões dessas duas mulheres. Um filme para ver e refletir.
 

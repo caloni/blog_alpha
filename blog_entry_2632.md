@@ -1,14 +1,11 @@
 ---
 categories:
 - writting
-date: '2010-11-20'
-link: https://www.imdb.com/title/tt0015648
+date: '2022-10-13T18:40:43-03:00'
 tags:
 - movies
-title: O Encouraçado Potemkin
+title: O Edifício Yacoubian
 ---
 
-Esse é um dos filmes de Eisenstein, propagandista soviético, e que exalta a força do povo quando ele se une contra a opressão czarista. A revolta começa em um navio, e aos poucos se espalha para toda a população. A intensidade com que a ação é filmada faz o filme de ficção se confundir com um documentário em tempo real.
-
-E a cena da escadaria, como não poderia deixar de ser, é belíssima por resumir tão impecavelmente o massacre dos povo na época czarista, além de explorar de forma tocante o pseudo-documentário pró-revolucionário que Eisenstein nos apresenta.
+Este filme egípcio imita aqueles grandes épicos, com trilha sonora grandiosa e movimentos de câmera evocativos. Muitas vezes não sabemos o que eles invocam e sentimos vergonha pelo filme. Se trata de várias histórias que giram em torno do edifício título em sua época decadente. Uma pequena introdução histórica no começo nos conta que o prédio onipotente surgiu em tempos gloriosos do Egito, mas que isso se foi depois da guerra, quando estrangeiros compraram a sociedade e a trocaram. A moral está em decadência e grupos religiosos fanáticos começam a fazer sentido. Ao mesmo tempo é tudo um novelão, com belas mulheres, flertes, abusos e relações entre classes sociais distintas. A ousadia em filmar essa antologia é o que torna o filme palatável. A falta de vergonha da produção levanta sua bandeira do pertencimento. E as duas horas e quarenta passam tranquilamente.
 

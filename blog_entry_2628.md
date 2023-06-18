@@ -1,27 +1,22 @@
 ---
 categories:
 - writting
-date: '2018-07-17'
-link: https://www.imdb.com/title/tt6515342
+date: '2019-08-20'
+link: https://www.imdb.com/title/tt0070707
 tags:
-- cinemaqui
 - movies
-title: O Doutor da Felicidade
+title: O Dorminhoco
 ---
 
-Eu entendo o porquê do lançamento de O Doutor da Felicidade ser direto para streaming: se trata de um filme com um quê televisivo, de baixa produção, e que não tenta esconder isso. O que eu não entendo é um ator com o carisma e talento de Omar Sy acabar participando deste projeto; ele nos prova capaz de participar de dramas mais formatadinhos através de uma cena linda perto do final do filme; você irá reconhecê-la pela frase "onde está o crime?" e pela possível referência a "M, O Vampiro de Dusseldorf".
+Essa é uma das comédias pastelão dirigida por Woody Allen, como Tudo o Que Você Sempre Quis Saber Sobre Sexo e Tinha Medo de Perguntar e Um Assaltante Bem Trapalhão. Particularmente não sou muito fã dessa fase inicial do diretor, e nesse caso não é diferente. É uma comédia escrachada com ideias soltas e um roteiro que apenas nos leva em direção às piadas. Mas como isso é Woody Allen ainda resta uma certa textura no final das contas.
 
-Bom, estou constatando o óbvio, você que já o viu em Intocáveis, Samba, Chocolate, apenas para citar os mais populares. Realizando uma escalada admirável em sua carreira, quase sempre preocupado em extrair o máximo de expressividade e carisma empacotados em uma força de vontade contagiosa (mesmo que ele esteja fazendo um imigrante ilegal à beira de passar fome), o ator francês tem potencial para percorrer os mesmos caminhos que uma Juliette Binoche percorreu ao longo das décadas, mesclando produções hollywoodianas com trabalhos mais intimistas.
+A história foi escrita junto com Marshall Brickman, que foi co-roteirista de Allen neste filme e, acreditem se quiser, em Noivo Neurótico, Noiva Nervosa e Manhattan. Uma curiosidade inútil: Marshall, apesar de ser americano e com pais americanos, nasceu no Rio de Janeiro. Curioso porque as pessoas geralmente vêm para o Brazil fazer os filhos, não dar à luz a eles.
 
-E o filme do diretor/roteirista Lorraine Lévy não está em nenhuma dessas categorias. Baseado em uma peça de Jules Romains, de 1923, adaptada meia-dúzia de vezes no Cinema, e que originalmente era uma sátira sobre a hipocondria, este novo retrabalho do material tenta se manter no nível de um conto lúdico, mas também tenta passar uma lição de moral que não condiz exatamente com o que foi visto até então.
+Esta é uma ficção de futuro distópico que mistura um pouco elementos de Admirável Mundo Novo com 1984, mas que está afim mesmo de brincar com esse futuro alternativo onde há uma máquina de orgasmo e uma pessoa (Allen) foi congelada por 200 anos depois de um problema de úlcera que foi longe demais.
 
-A história narra rapidamente a origem humilde e cheia de percalços de Knock (Omar Sy), que começa sendo chutado por dois capangas que cobram dele uma dívida de apostas. Encontrando sua saída em um navio que aceita qualquer pessoa que já tenha tratado alguém sob a alcunha de médico, o rapaz alto e saudável (e, essa condição é citada apenas de passagem, negro) irá aos poucos aprender a usar o vocabulário incompreensível da medicina para ludibriar seus pacientes. Ao final da viagem, e cinco anos depois, o vemos como um Doutor formado que se encontra em mudança para uma cidadezinha cheia de ricos em volta. De acordo com ele, "uma mina de ouro". Começamos a entendê-lo conforme ele se associa ao dono da farmácia local e à alta sociedade para convencer a tudo e a todos que "bom e saudável" é um termo inacurado para qualquer pessoa ainda viva.
+Ele apresenta a estonteante Diane Keaton como Luna, seu par romântico. Juntos, assim como em Um Assaltante Bem Trapalhão, eles tentam sobreviver às loucuras desse tempo, onde o personagem de Allen é procurado por ser um ilegal em um governo ditatorial em que o ditador existe como uma figura estilo Grande Irmão, mas que próximo do final temos uma revelação que é típica do humor do cineasta.
 
-O que se segue é uma bela história sobre falcatruas e o poder da criatividade, que ensina que quando se fala de saúde as pessoas ouvem atentamente e se deixam levar por qualquer discurso que indique que há algo de errado com elas. Ninguém quer ficar doente, mas o Doutor Knock insiste em deixar claro que todos os procedimentos, consultas e remédios que sugere são justamente para evitar a doença, ou uma possível situação menos que o ideal, em uma inversão de valores digna de um Lobo de Wall Street.
+Como filme a narrativa é muito pedestre, com efeitos sofríveis, mas há algumas boas tiradas mesmo assim, como uma espécie de bazuca dos militares que nunca funciona e uma mochila propulsora feita com uma hélice risível por cima. Allen aqui demonstra seu timing para comédia física, que não é exatamente incrível, mas ele demonstra tê-la, o que torna o diretor de Manhattan alguém bem mais versátil que poderíamos imaginar.
 
-E é aí que reside o perigo desta versão da história, porque eventualmente surge a seguinte questão: o Doutor Knock é uma boa pessoa? Ele é o herói ou vilão? Fica difícil responder, mesmo nos tempos atuais de anti-herói. Isso porque no início o filme nos mostra que a cidadezinha vivia bem e que o objetivo principal (ou pelo menos inicial) de Knock obviamente é o lucro. Há pouco tempo de filme para que ele consiga nos convencer do contrário em qualquer um dos momentos em que a coisa evolui para algo mais complexo, mais ambíguo e mais humano.
-
-Utilizando do começo ao fim uma trilha sonora equivocada, enlatada, que mescla sem qualquer critério drama e comédia (ambos leves demais para serem sentidos), a situação apenas se complica quando o filme decide utilizar momentos pontuais de comédia física que dão o tom adicional de comédia que não soa inapropriado, mas subverte ainda mais o que nós, espectadores, devemos sentir a respeito da figura principal da cidade. Claro, é preciso lembrar que os habitantes da cidade já são mais ou menos caricatos. Mas o que divide nossa impressão entre a simples caricatura para fazer rir e a fantasia ligeiramente exagerada para evitar nossa identificação?
-
-Contudo, este é um filme agradável do começo ao fim. Mas este talvez seja para mim seu maior problema. Ele não ousa se aprofundar em nenhuma das questões que apresenta; até a própria hipocondria deixa de ser a vilã. Todos os esforços para criar tensão na história são deixados de lado pelo bem de um inusitado herói que ninguém pediu. O que nos volta a lembrar: é apenas conteúdo para TV. Ou, no caso, a TV dos dias de hoje: um serviço de streaming onde as pessoas estão distraidamente assistindo vários conteúdos. Este acaba virando apenas mais um.
+Feito para dar risada e fazer pensar muito pouco, O Dorminhoco não é o tipo de filme que eu gosto do diretor, e está longe de ser uma comédia à altura dos clássicos Top Secret ou Apertem os Cintos. É no máximo simpática. Esquecível, divertidinha e simpática. Se você já viu "Tudo Que Você Queria Saber Sobre Sexo...", já viu um Allen bem melhor.
 

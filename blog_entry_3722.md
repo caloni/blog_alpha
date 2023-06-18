@@ -1,22 +1,18 @@
 ---
 categories:
 - writting
-date: '2019-06-10'
-link: https://www.imdb.com/title/tt0497986
+date: '2018-07-01'
+link: https://www.imdb.com/title/tt8342946
 tags:
 - movies
-title: Time - O Amor Contra a Passagem do Tempo
+title: 'Tig Notaro: Happy to Be Here'
 ---
 
-Você sempre sai de um filme do diretor coreano Kim-Ki Duk (Fôlego, Pieta, Primavera Verão Outono Inverno e Primavera,  Tipo Ruim) pensativo. É uma marca deste cineasta não fechar as pontas e abrir mais algumas. "Time" faz isso, e faz de uma maneira que dá pra se divertir no processo.
+Eu não sei como era a performance da comediante de standup Tig Notaro antes dela contrair uma doença séria, perder a mãe, terminar seu relacionamento na semana seguinte e desenvolver um câncer. Mas eu sei que graças a esses eventos, sua coragem e dedicação ao humor o show que ela fez neste momento de sua vida pode figurar tranquilamente na lista dos mais poderosos, inesquecíveis e memoráveis da história da humanidade.
 
-Ele conta a história de um casal de namorados que após dois anos juntos estão sofrendo um certo desgaste. Ela acha que ele não liga mais para seu corpo e seu mesmo rosto enfadonho. Ela é linda. Ele é mulherengo e distraído. Ela é louca.
+Isso porque ela simplesmente entrega no humor a leveza que todos precisam para seguir a vida adiante, e por estar de fato na situação sendo abordada na forma de comédia ela desconstrói o drama e em seu lugar entrega algo muito mais poderoso: nossa capacidade de rir das piores adversidades e seguir adiante.
 
-Este é um filme que fala sobre a indústria da cirugia plástica estética, aquela feita apenas para as pessoas se sentirem bem com seu corpo e rosto. Junte isso e a loucura dos relacionamentos monogâmicos e você terá um thriller contemplativo.
+O documentário da Netflix é inédito e merece uma visita, mesmo que na maior parte do tempo seja um mero relato da vida de uma pessoa, que não se torna mais especial por tentar ter um filho em barriga de aluguel. Mas por algum motivo os documentaristas acharam tão relevante a figura de Tig, sua persona, sua forma de reagir a cada novo momento de sua nova vida, que se formos assistir a esse filme no embalo, ele se torna um programa honesto e dotado de coração.
 
-Kim-Ki Duk é um diretor e roteirista que trabalha seus temas com afinco. Ele usa rimas visuais, como o eterno café onde o casal se encontra e faz escândalo, assim como um enigmático bilhete escrito Eu Te Amo inúmeras vezes, um em cima de outro. Quantas vezes na vida as pessoas dizem isso, nem sempre para a mesma?
-
-A passagem do tempo é um tema recorrente em sua cinegrafia, assim como a superficialidade da matéria em detrimento ao bem espiritual mais valioso, e aqui recebe um tratamento rústico, quase uma carpintaria abstrata onde não temos certeza do que ele está falando, ou pelo menos não poderíamos verbalizar o que significam os acontecimentos do filme. Quer dizer, poderíamos, mas apenas narrar não soluciona o enigma da vida a dois. E o brilhantismo do filme está em não se esforçar para resolver este quebra-cabeças afetivo, pois cada um de nós terá uma forma de entender.
-
-Eu sinceramente espero que você não deixe passar em branco a última cena do filme e a entenda como uma rima para o começo. Só assim para que o filme esteja completo. Porém, mesmo sem entender, há um acidente de carro próximo do final que já te deixará pensativo. Time consegue essa proeza algumas vezes.
+E, claro, boas risadas.
 

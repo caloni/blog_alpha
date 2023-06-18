@@ -1,16 +1,30 @@
 ---
 categories:
 - writting
-date: '2013-04-21'
-link: https://www.imdb.com/title/tt0488120
+date: '2011-04-27'
+link: https://www.imdb.com/title/tt1705786
 tags:
 - movies
-title: Um Crime de Mestre
+title: Um Conto Chinês
 ---
 
-Um Crime de Mestre utiliza seus dois atores principais da melhor maneira. Anthony Hopkins, relembrado pelo título original (Fracture) que remete à mesma brincadeira metafórica do jovem clássico Silêncio dos Inocentes (Silence of the "Lambs"), estabelece um personagem frio e calculista que parece estar sempre se divertindo com seus jogos mentais e é alheio à realidade à sua volta, e ainda que cometa um crime passional logo no início o faz de forma hedionda e determinística. Já Ryan Gosling, que hoje possui em seu currículo o controverso motorista de Drive, é um advogado que se relaciona com as pessoas, mas assim como Hopkins, olha o mundo sempre do ponto de vista como ele pode servi-lo.
+Assistir um filme argentino, em espanhol, em Buenos Aires, pode ser uma experiência inspiradora, ainda mais se estivermos falando de Cinema com C maiúsculo.
 
-Quando ambos os egos se encontram em um embate mais intelectual do que emotivo, as regras do sistema judiciário americano são vitais para a compreensão do que está em jogo: o único suspeito de assassinar sua própria esposa pode sair impune caso as peças não estejam devidamente encaixadas. A impressão que é passada a quase todo momento é que o sistema legal daquele país é tão frágil, ou seus "jogadores" tão ambiciosos, que gerenciar a justiça se torna função de empresas frias e calculistas como o próprio assassino. Nesse sentido, o que o diferencia dos seus advogados?
+Independente das minhas parcas capacidades de entender diálogos rápidos de castelhano, Cuento Chino consegue contar sua história com o uso de expressões, trilha sonora, e, principalmente, seu aspecto visual, que emprega um ritmo muito maior se fossem utilizados diálogos.
 
-Aliás, emoção é um tema que nunca é deixado fluir. Utilizando tons noturnos quase sempre azuis e tristes, a película como um todo é uma reflexão nada otimista sobre como a justiça pode se relativizar e consequentemente se desumanizar. Mesmo quando Gosling se apresenta como o adversário passional do jogo que se desenrola, sabemos que sua principal motivação é simplesmente sua auto-afirmação como o promotor que teve 97% de suas causas ganhas. O diretor Gregory Hoblit (As Duas Faces de Um Crime) e o roteirista Daniel Pyne (Sob o Domínio do Mal) não permitem em nenhum momento que a história descambe para o melodrama, o que pode repelir os que esperam um thriller ou algo com mais ação. No entanto, o dia-a-dia da lei não poderia estar melhor retratado que na desesperança de uma vítima que sobrevive apenas formalmente com a ajuda de máquinas.
+E, ironicamente, existe essa impossibilidade de comunicação entre os dois personagens principais do filme. Jun é um chinês que chega em Buenos Aires com o pé esquerdo. Enganado pelo taxista do aeroporto, cai nas "graças" de Roberto, uma pessoa tão reservada que deixa a entender que, mesmo que falassem o mesmo idioma, a comunicação já seria deficitária.
+
+E agora, revisando o filme, sete anos depois, com legendas para todos os lados, a percepção muda um pouco.
+
+Um Conto Chinês é ponto alto na carreira de Ricardo Darín, mesmo sendo uma dramédia de situação manjada e cheio de coincidências. A principal, de acordo com o letreiro inicial do filme, baseado em fatos reais. É difícil acreditar em vacas voadoras, mas... tudo se encaixa quando as pessoas começam a se comunicar.
+
+Mas Darín é o coração do filme. Observe seu olhar irritado com seu cliente mais chato, e como ele monopoliza sua defesa pelo espectador. O trabalho em dupla entre o ator e o diretor/roteirista Sebastián Borensztein (que só fez mais um filme depois deste) rende bons frutos, já que este filme dispensa maiores diálogos. Está tudo na forma como as cenas são montadas. Isso é cinema no estado mais puro.
+
+Alguns pontos irritam, como os atores coadjuvantes. Seu interesse amoroso, a hipnotizada Mari (Muriel Santa Ana) faz um papel de uma nota só (que se torna insistente demais; por que ela deseja tanto ficar com esse senhor rabugento?). E suas visitas costumeiras apenas preenchem o cenário construído sob medida para o personagem de Darín. Até seu chinês de estimação é um atrativo graças ao contraste realista que o ator emprega em tentar resolver seu problema da maneira mais rápida, mas bondosa, possível.
+
+O que está em jogo nesse filme, mas que só fica claro próximo do final, é o poder da compaixão. De reconhecer o drama do próximo como se fosse de fato nosso. E por mais uma incrível coincidência do filme, se torna assim. Ironicamente é quando o filme perde sua liberdade e sua graça.
+
+Mas até lá, tudo é conduzido com o coração e a intuição de um grande cineasta, que decupa suas cenas milimetricamente. O quarto bagunçado do hóspede é porta de entrada para a situação interna do anfitrião. E tem sido assim por 20 anos. Só começa a mudar quando o visitante do outro lado do mundo inicia a limpeza das velharias para fora de casa, e pinta com paciência uma parede em branco na vida de uma pessoa que tem uma rotina e seus rituais imutáveis por décadas. Mas como toda mudança, às vezes quebrar alguns vidros é necessário.
+
+Em espanhol e chinês. Prefira assistir sem saber o que é falado em chinês.
 

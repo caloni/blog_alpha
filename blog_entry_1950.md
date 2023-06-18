@@ -1,18 +1,11 @@
 ---
 categories:
 - writting
-date: '2019-10-27'
-link: https://www.imdb.com/title/tt0269389
+date: '2023-03-06T20:50:07-02:00'
 tags:
-- movies
-title: Jalla! Jalla!
+- coffee
+title: Jaguatirica Coffee
 ---
 
-Filmes independentes como esse do diretor estreante Josef Fares podem ter muitos defeitos na produção que soam ridículos na tela. Um ritmo esquisito, cortes abruptos, péssimo casting, posição da câmera de vídeo caseiro e trilha sonora brega. Diferente das produções caras, de estúdio, com grandes astros, não há muito a perder, exceto a reputação de seu diretor, que a essa altura da carreira está próxima de zero.
-
-Então surge essa comédia divertida e sem pretensão de se tornar algo memorável (não que uma coisa tenha a ver com a outra). É um filme feito para que Fares exerça o seu estilo, produzido com seus familiares e amigos para rirem juntos do resultado final. Ele depende do estado de espírito de seu espectador, que não pode se levar muito a sério. Apenas absorva o ridículo da edição sem ritmo, dos zooms exagerados, dos sons de comédia pastelão e curta um ensaio sobre como fazer filmes após a faculdade.
-
-Fares é um libanês que imigrou para a Suécia aos 10 anos de idade com a família, mas não parece muito interessado em esclarecer nenhuma das duas culturas, mantendo sua exploração de temas ao nível de novela. Temas como casamento arranjado e impotência sexual são desculpas de programa de humor para que seus personagens, garis que folgam o tempo todo, saiam da inércia e busquem resolver os problemas que acabaram de surgir em suas vidas.
-
-Quando a narrativa tende a esfriar, o inexperiente Fares coloca todo mundo para brigar ou correr. Ou os dois. A trilha sonora frenética surge como em uma tentativa risível de imitar os mestres da edição de sua época. Como um Guy Ritchie em "Jogos, Trapaças e Dois Canos Fumegantes" sem alguns milhões para gastar, Josef Fares é influenciado, mas não consegue influenciar. No máximo terminar seu trabalho de conclusão de curso.
+Este é o café especial da região de Monte Verde. Provei ele achando no mercado local, uma boa surpresa, e depois comprei a versão em grãos na própria torrefadora, em uma das ruas da cidade. Infelizmente não deu tempo de experimentar o espresso porque estávamos de saída. Este café contém um equilíbrio divino entre acidez e doçura. Não se sente amargor, este é daquele estilo em que o café parece um suco. Remete um pouco a frutas maduras ou de inverno, como nozes e castanhas, apesar de haver um pouco de cítrico. Provei mais de duas semanas depois de abrir o pacote do moído do mercado porque estou evitando ingerir cafeína todos os dias, mas o sabor continua bem agradável apesar do tempo envelhecendo. Guardando na lata de Tiradentes.
 

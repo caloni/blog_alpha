@@ -1,87 +1,20 @@
 ---
 categories:
-- coding
-date: '2008-03-10'
-title: Sed, Grep e afins
+- writting
+date: '2013-09-07'
+link: https://www.imdb.com/title/tt2211808
+tags:
+- movies
+title: Se Puder... Dirija!
 ---
 
-Esse artigo é resultado de eu ter me matado para conseguir encontrar a forma correta de usar o aplicativo sed para fazer uma filtragem simples nos resultados de uma listagem de arquivos.
+Muitas vezes as comédias televisivas que passam no Cinema atraem o público pelas boas piadas e pelo ótimo (e desperdiçado) elenco. No caso de Se Puder... Dirija! o único foco parece ter sido fazer um filme com uma história suficiente para preencher um bloco do Zorra Total e utilizar a propaganda de ser o primeiro live-action em 3D, e o fato de que será lembrado por isso torna as coisas ainda mais desagradáveis.
 
-Primeiramente, eu gostaria de expressar minha total surpresa ao não conseguir encontrar um guia simples e confiável de uso dessas ferramentas na web. Existem três teorias: ou eu não sei usar as palavras mágicas certas no Google, ou a indexação das páginas realmente importantes sobre o assunto não funcionam com o Google, ou de fato não existe documentação fácil sobre o tema.
+Narrando a história de um pai ausente que decide mudar isso passando um dia com o garoto e seu cachorro Moleque (trocadilho detected), a história gira em torno de inúmeros episódios de imprevistos que tentam impedir que o pai passe de fato o dia com o garoto. E tudo isso começa e termina sem deixar qualquer rastro de que aconteceram, quase como filmecos distintos separados por comerciais.
 
-Como esta é uma exceção em anos de "googadas", eu fico com a terceira opção.
+Disse no início que esses tipos de filmes atraem público pela piada e pelo elenco. Pois nesse caso não há nem um nem outro. Se até o "astro" Luiz Fernando Guimarães esquece sua persona que o tornou tão famoso em Os Normais (e engraçado) e ativa um personagem genérico no automático dizendo falas como se estivesse tão de saco cheio quanto a plateia tendo que assistir, o resto dos atores parece ter saído de um episódio piloto de Malhação. Isso para não culpar unicamente o menino de 4 anos cuja "performance" está focada em falar com o nariz entupido.
 
-Existem algumas ferramentas que já salvaram minha vida uma dúzia de vezes e devo admitir que são tão poderosas e flexíveis quanto difíceis de usar:
+No entanto, sejamos justos: há uma história nisso tudo. Ela é minimamente coerente e consegue não se despedaçar durante todo o trajeto. É manipuladora, previsível e careta. Porém, ela existe, o que por ironia torna-se mais estruturada que trabalhos mais caóticos como [Vai Que Dá Certo]. Se isso serve como consolo, só o tempo dirá.
 
- - Grep. Use esta se quiser fazer uma busca, qualquer busca, em um arquivo, um conjunto de arquivos ou uma enxurrada de caracteres do prompt de comando.
- - Sed. Use esta se quiser processar a entrada de um arquivo, um conjunto de arquivos ou uma enxurrada de caracteres do prompt de comando.
- - Sort. Use esta se quiser ordenar qualquer coisa da entrada padrão (inclusive arquivos, conjunto de arquivos...).
-
-Essas ferramentas são nativas do ambiente Linux, mas podem ser instaladas no Windows através do Cygwin, do Mingw ou nativamente através das ferramentas GnuWin32.
-
-O que eu queria era processar a saída de um programa de forma que eu tivesse a lista de todas as extensões dos arquivos. Por exemplo, para a seguinte entrada:
-
-    c:\path\arquivo1.cpp
-    c:\path\arquivo2.h
-    c:\arquivo3.hpp
-    c:\path\path2\arquivo4.cpp
-
-Eu gostaria de uma saída no seguinte formato:
-
-    .cpp
-    .h
-    .hpp
-
-Basicamente é isso.
-
-Para filtrar o path do arquivo, e ao mesmo tempo retirar seu nome, podemos usar o seguinte comando (fora outras trilhões de variantes):
-
-    programa | sed -e "s/^.*\\//" -e "s/.*\.\(.*\)/\1/"
-
-Após esse processamento, a saída é um monte de extensões vindas de um monte de arquivos:
-
-    cpp
-    h
-    cpp
-    h
-    c
-    h
-    cpp
-    h
-    mak
-    vcproj
-    h
-    cpp
-    h
-    cpp
-    h
-    cpp
-    h
-    cpp
-    h
-    c
-    h
-    txt
-    c
-    cpp
-    h
-    mak
-    vcproj
-    cpp
-    h
-    ...
-
-Como podemos ver e é óbvio de imaginar, muitas extensões irão se repetir. Para eliminar as repetições e ordenar a saída da saída corretamente, usamos o comando sort:
-
-    programa | sed -e "s/^.*\\//" -e "s/.*\.\(.*\)/\1/" | sort -u
-	
-Os caracteres .*[]^$\ dão problemas se usados sem escape no sed, pois fazem parte dos comandos para procurar expressões regulares. Use-os com o caractere de escape `\`.
-
-Para concatenar comandos no sed, use sempre -e "comando". A ordem de execução dos comandos é a ordem em que eles são inseridos na linha de comando, ou seja, podemos confiar que no segundo comando o primeiro já terá sido executado e assim por diante.
-
-Para fazer o escape das barras do caminho de um arquivo temos que usar o conjunto `\/` (obs.: caminhos em formato Unix). Para evitar esse uso enfadonho podemos substituir o caractere de divisão do comando s colocando-o na frente:
-
-    s/path\/muito\/muito\/muito\/longo.cpp/outropath\/muito\/muito\/longo.cpp/s#/path/muito/muito/muito/longo.cpp#/outropath/muito/muito/longo.cpp#
-
-Para agrupar expressõe, use sempre `\(` e `\)`. É o contrário do uso dos caracteres especiais. Coisas de Unix.
+[Vai Que Dá Certo]: {{< relref "vai-que-da-certo" >}}
 

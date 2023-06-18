@@ -1,16 +1,12 @@
 ---
 categories:
 - writting
-date: '2013-12-22'
-link: https://www.imdb.com/title/tt0388473
+date: '2020-01-13'
+link: https://www.imdb.com/title/tt0325948
 tags:
 - movies
-title: Padrinhos de Tóquio
+title: Pacto de Silêncio
 ---
 
-Essa animação natalina japonesa segue os mesmos moldes do ótimo Paprika, também dirigido e escrito por Satoshi Kon e co-dirigido por Shôgo Furuya, que já havia trabalhado como animador em A Viagem de Chihiro (2001). Quando digo os mesmos moldes me refiro à caracterização exagerada e satirizada da realidade que cerca os personagens. As expressões de rosto absurdas, tão comuns no anime, aqui funcionam em parte pelo seu humor e não funcionam em parte pela sua dramatização exagerada.
-
-A história gira em torno de uma criança encontrada no lixo por três moradores de rua, sendo que os três também foram abandonados pelos seus pais. Formam uma família torta, onde o "pai" é um vagabundo irresponsável e a mãe é um gay. Nas ruas de Tóquio pode-se esperar de tudo, menos compaixão. Essa família, no entanto, se une em torno de seu passado aparentemente semelhante de abandono.
-
-A fraqueza do filme reside em seu roteiro cheio de coincidências que insistem em aparecer em momentos onde elas não são chamadas. Quebram o ritmo de uma história tão envolvente quanto bem desenhada. É uma pena, portanto, que boa parte dos seus momentos sejam estragados no final por uma "revelação" completamente desajeitada. OK, é um conto de natal. OK, estamos falando de uma fábula. Mas veja os fantasmas de Scrooge: surreal, natalino e eficiente.
+Gérard Depardieu faz um padre/médico louco para "salvar" Sarah, uma freira carmelita com lábios carnudos. Sarah, que tem constantes dores no abdómen, não consegue esconder sua sensualidade em seu hábito, mas seu alter-ego, ou devo dizer, irmã-gêmea, com seus cabelos longos e um estilo vagamente sexy, é um caso sem salvação. Este é um filme confuso que lembra o trash e que deve ser assistido junto com o horrendo País do Desejo. Ambos coincidentemente usam o Brasil como seu antro do pecado e das religiões oriundas de matizes africanas e cristãs salvadoras da alma pelo uso de ervas e rituais. Ambos entregam uma visão deturpada desse país e seu povo, e ambos não fazem a menor ideia da história que desejam contar. O diretor Graham Guit investe em sequências que lembram um filme trash, mas logo depois voltamos para um drama/thriller intimista. É como assistir a um filme onde nem o diretor tem muita noção do tipo de filme que é este.
 

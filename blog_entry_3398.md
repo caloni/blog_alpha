@@ -1,18 +1,87 @@
 ---
 categories:
-- writting
-date: '2020-01-16'
-link: https://www.imdb.com/title/tt0103791
-tags:
-- movies
-title: Sedução
+- coding
+date: '2008-03-10'
+title: Sed, Grep e afins
 ---
 
-É um filme saudosista filmado nos anos 90 sobre a queda da ditadura espanhola dos anos 30. Ele celebra o amor livre, o laicismo e todas as esperanças do que ainda acham que a República é a solução de todos os males da humanidade. Mas ele o faz de maneira charmosa, sensual e verdadeiramente humanista. É uma comédia sobre amor e sexo, e por isso mesmo está infestado de comentários políticos. Não é na propaganda que se esconde o inimigo, mas nas entrelinhas. Mas não se preocupe, leitor de extrema direita, há mulheres para todos os gostos aqui.
+Esse artigo é resultado de eu ter me matado para conseguir encontrar a forma correta de usar o aplicativo sed para fazer uma filtragem simples nos resultados de uma listagem de arquivos.
 
-O material dos roteiristas Rafael Azcona e José Luis García Sánchez possui todas as dúvidas honestas que comentários políticos e sociais bem-humorados merecem. Assim como Barcelona, o roteiro se aproveita do momento histórico para tecer sua narrativa sem ferir os valores dos espectadores. É besteira se importar com filmes ideologicamente contrários a você quando a visão de mundo de seus idealizadores brinca de igual para igual com a igreja, o exército e a família, três instituições fadadas à ruína de qualquer forma. Enquanto o patriarca moderno recita poesias espirituosas e se diverte na cama com sua esposa recém-chegada da viagem com seu amante, observamos como o inverno espanhol é frio, mas há maneiras deliciosas de se esquentar enquanto não chega o verão.
+Primeiramente, eu gostaria de expressar minha total surpresa ao não conseguir encontrar um guia simples e confiável de uso dessas ferramentas na web. Existem três teorias: ou eu não sei usar as palavras mágicas certas no Google, ou a indexação das páginas realmente importantes sobre o assunto não funcionam com o Google, ou de fato não existe documentação fácil sobre o tema.
 
-Há quatro beldades espanholas neste filme, e Penélope Cruz está longe de estar no topo da lista. Clara, Violeta, Rócio e Luz são as filhas desse senhor espirituoso que comentei. Elas visitam o pai durante as férias em um desses vilarejos esquecidos no tempo, ainda que próximos de Madrid, e encontram Fernando, um belo jovem que fica perdidamente apaixonado pelas quatro beldades, a ponto de "perder o trem" e passar mais tempo naquele agradável fim de mundo.
+Como esta é uma exceção em anos de "googadas", eu fico com a terceira opção.
 
-A história é inteligente o suficiente para separar as quatro moças em personalidades bem distintas, mas é a Fernando que elas serão apresentadas. Nunca a vemos interagindo entre elas para entendê-las, pois elas são meros estereótipos: a virgem, a sapatona, a gostosa e a viúva; e apenas sendo interpretadas por um elenco talentoso essas personagens conseguem se desvencilhar de seus unidimensionais destinos. Cada uma delas terá cenas de sexo com Fernando, mas cada uma à sua maneira. Aos homens resta ter inveja desse rapaz, mas seu jeito é tão carismático que o perdoamos logo após cada trepada.
+Existem algumas ferramentas que já salvaram minha vida uma dúzia de vezes e devo admitir que são tão poderosas e flexíveis quanto difíceis de usar:
+
+ - Grep. Use esta se quiser fazer uma busca, qualquer busca, em um arquivo, um conjunto de arquivos ou uma enxurrada de caracteres do prompt de comando.
+ - Sed. Use esta se quiser processar a entrada de um arquivo, um conjunto de arquivos ou uma enxurrada de caracteres do prompt de comando.
+ - Sort. Use esta se quiser ordenar qualquer coisa da entrada padrão (inclusive arquivos, conjunto de arquivos...).
+
+Essas ferramentas são nativas do ambiente Linux, mas podem ser instaladas no Windows através do Cygwin, do Mingw ou nativamente através das ferramentas GnuWin32.
+
+O que eu queria era processar a saída de um programa de forma que eu tivesse a lista de todas as extensões dos arquivos. Por exemplo, para a seguinte entrada:
+
+    c:\path\arquivo1.cpp
+    c:\path\arquivo2.h
+    c:\arquivo3.hpp
+    c:\path\path2\arquivo4.cpp
+
+Eu gostaria de uma saída no seguinte formato:
+
+    .cpp
+    .h
+    .hpp
+
+Basicamente é isso.
+
+Para filtrar o path do arquivo, e ao mesmo tempo retirar seu nome, podemos usar o seguinte comando (fora outras trilhões de variantes):
+
+    programa | sed -e "s/^.*\\//" -e "s/.*\.\(.*\)/\1/"
+
+Após esse processamento, a saída é um monte de extensões vindas de um monte de arquivos:
+
+    cpp
+    h
+    cpp
+    h
+    c
+    h
+    cpp
+    h
+    mak
+    vcproj
+    h
+    cpp
+    h
+    cpp
+    h
+    cpp
+    h
+    cpp
+    h
+    c
+    h
+    txt
+    c
+    cpp
+    h
+    mak
+    vcproj
+    cpp
+    h
+    ...
+
+Como podemos ver e é óbvio de imaginar, muitas extensões irão se repetir. Para eliminar as repetições e ordenar a saída da saída corretamente, usamos o comando sort:
+
+    programa | sed -e "s/^.*\\//" -e "s/.*\.\(.*\)/\1/" | sort -u
+	
+Os caracteres .*[]^$\ dão problemas se usados sem escape no sed, pois fazem parte dos comandos para procurar expressões regulares. Use-os com o caractere de escape `\`.
+
+Para concatenar comandos no sed, use sempre -e "comando". A ordem de execução dos comandos é a ordem em que eles são inseridos na linha de comando, ou seja, podemos confiar que no segundo comando o primeiro já terá sido executado e assim por diante.
+
+Para fazer o escape das barras do caminho de um arquivo temos que usar o conjunto `\/` (obs.: caminhos em formato Unix). Para evitar esse uso enfadonho podemos substituir o caractere de divisão do comando s colocando-o na frente:
+
+    s/path\/muito\/muito\/muito\/longo.cpp/outropath\/muito\/muito\/longo.cpp/s#/path/muito/muito/muito/longo.cpp#/outropath/muito/muito/longo.cpp#
+
+Para agrupar expressõe, use sempre `\(` e `\)`. É o contrário do uso dos caracteres especiais. Coisas de Unix.
 

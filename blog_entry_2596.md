@@ -1,16 +1,18 @@
 ---
 categories:
 - writting
-date: '2014-01-24'
-link: https://www.imdb.com/title/tt0109446
+date: '2019-06-21'
+link: https://www.imdb.com/title/tt0255094
 tags:
 - movies
-title: O Cliente
+title: O Círculo
 ---
 
-Os filmes de Joel Schumacher como Ninguém é Perfeito e esse O Cliente primam por chamar a atenção do espectador para o aspecto humano da trama. Aqui, um garoto e seu irmão caçula presenciam um suicídio e têm que arcar com as consequências desse fato judicialmente. Mas não é só isso. A pedra fundamental da trama é a visão de uma criança e do que ela pode fazer para ajudar o irmão em estado catatônico e a mãe com problemas financeiros, além de um passado conturbado com seu pai alcoólatra. O garoto é vivido com competência ímpar por Bred Renfro com 10 anos, um achado do diretor e que, depois de papéis de pouco destaque, teve um fim trágico morrendo de overdose aos 25.
+Uma sociedade realmente sexista existe no Irã e o diretor Jafar Panahi filma a opressão como um documentário em tempo real. É um plano-sequência com cortes. A transição de personagens apenas reforça a universalização da violência sistematizada contra as mulheres em mais um dia nessa sociedade que não tem como enxergar suas falhas assim como um peixe não enxerga a água em que vive.
 
-Girando em torno do garoto Mark orbitam os adultos e seus interesses alheios ao destino de sua família. Um advogado famoso preocupado com sua auto-imagem vivido por um sorridente Tommy Lee Jones e a advogada idealista vivida com vigor por Susan Sarandon.
+O roteiro de Kambuzia Partovi é um primor de hiper-realismo, pois apresenta diálogos simples, ditos no limiar entre o cinematográfico e o drama dos comuns. As informações que o espectador vai caçando aos poucos serve de gancho para acompanharmos a ação. Às vezes sabemos de menos, às vezes demais, mas Partovi faz questão de se certificar que é sempre o suficiente para detectarmos as barreiras que a mulher encontra nesse mundo onde mulheres não podem andar sozinhas na rua, desacompanhadas de um homem, sem chamar a atenção de civis e policiais.
 
-Há poucas e pontuais manipulações baratas que envolvem, claro, a situação lamentável pelo qual a família passa. De repente a necessidade de ajudar aquelas pessoas aparece na lista de afazeres da advogada de defesa, mas é plenamente justificado pela perseguição de bandidos que buscam silenciar o garoto. Nada que prejudique, mas exalte, o dinamismo e a tensão construídas com tanto esmero no decorrer da narrativa.
+A atriz Fereshteh Sadre Orafaiy realiza um mergulho profundo em sua personagem, Pari. Note sua compulsão em tentar pegar um cigarro e fumar (e note como esse pequeno gesto vai se encaixando durante todo o filme como símbolo da opressão). Apenas a observe zanzando inquieta pelas paredes de um hospital aguardando por qualquer ajuda, e note em seguida todas as expressões e gestos que a atriz realiza sentada em um banco, inconformada com a arapuca em que se colocou (os detalhes de sua história é melhor serem degustados aos poucos pelo espectador).
+
+O Círculo é sobre o fluxo ininterrupto de violência sistematizada e legalizada contra a mulher, mas poderia ser o retrato de qualquer círculo vicioso onde seres humanos não são tratados como tais, e precisam dentro de suas capacidades sobreviver. É um trabalho intenso, impecável e admirável de Cinema.
 

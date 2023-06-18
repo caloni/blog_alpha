@@ -1,18 +1,54 @@
 ---
 categories:
 - writting
-date: '2019-05-05'
-link: https://www.imdb.com/title/tt0246405
+date: '2016-09-11'
 tags:
+- lists
 - movies
-title: Os 27 Beijos Perdidos
+title: Os 10 melhores filmes dos anos 90... 1890!
 ---
 
-Mais um filme russo dos anos 2k essa semana, filmado na Geórgia, Grécia, Alemanha, falado em russo, inglês, francês. Uma cidadezinha onde as jovens mulheres estão em polvorosa. Para piorar a cidade assiste Emanuelle as mil formas de amar. A única que não pode transar com seu grande amor, um professor de 41 anos, é a jovem Sibylla, de 14 anos. Enquanto isso o filho do professor tem direito a 100 beijos nessa menina, mas perde a chance de dar 27. Sim, a história é confusa desse jeito, além de ir a lugar algum.
+Esta é uma ótima seleção feita pelo saite A.V. Club, que contém para variar vários trabalhos do genial Georges Méliès, além também dos trabalhos mais técnicos de Thomas Edison. É preciso lembrar que a sétima arte estava apenas engatinhando.
 
-Mas esta produção russa tem seu charme cultural. Logo no começo, quando o ônibus chega na cidade trazendo Sibylla ele é bombardeado pelo Tenente que não consegue engravidar sua mulher, a igualmente deliciosa Veronica; o ônibus perde o freio e fica dando voltas na praça para as pessoas descerem. Há metáforas para todos os lados sobre sexo, ou simplesmente sobre a vida, erotizada como em qualquer história com uma lolita que não se importa de ficar pelada onde quer que seja.
+Um primeiro exemplo do cotidiano, que não quer dizer nada em particular, mas que já documenta uma rotina da época, e hoje é um dos melhores exemplos dos curtas iniciais do cinema.
 
-Este é um filme cujos acontecimentos servem para belas sequências de ação sem muito motivo de ser e onde a erotização é uma atração, sim, e pode interessar os marmanjos, embora tenha um leve toque de gênero sobre puberdade e paixão juvenil. A bela paisagem ainda serve de recepção a um capitão francês que traz seu barco sem o mar, e mais metáforas sobre o sexo e a vida surgem.
+https://www.youtube.com/embed/OYpKZx090UE
 
-Vibrante sem muita cadência, 27 Beijos Perdidos é daqueles filmes que vai de nenhum lugar a lugar algum, cansa em alguns momentos e em outros entretém. Será que é porque vamos belas mulheres nuas pelo caminho em cenas de sexo calientes como em Emanuelle? Pode ser. Mas estou pensando com a cabeça de baixo.
+Um teste de sincronização entre áudio e víduo já pode ser observado nesse conjunto de três tomadas de testes nos laboratórios Edison.
+
+https://www.youtube.com/embed/Y6b0wpBTR1s
+
+Várias trucagens dentro de um cenário de castelo idealizados por Georges Méliès, tudo na edição de corte, além de uso de fumaças, sobrescrita de película, etc.
+
+https://www.youtube.com/embed/OPmKaz3Quzo
+
+Esse é o clássico, conhecido pelo primeiro filme exibido em público e com a lenda de que os espectadores saíram correndo ou abaixavam as cabeças quando o trem chegava à estação. Na verdade, parece que os irmãos Lumière já estavam testando o mesmo filme em uma versão 3D, mas que foi colocada em exibição pouquíssimas vezes e muito tempo depois, no ano seguinte. Mesmo assim, podemos dizer que Cinema e 3D nasceram praticamente juntos.
+
+https://www.youtube.com/embed/1dgLEDdFddk
+
+Mais trucagens de Méliès, dessa vez em um filmeco de menos de um minuto. Mas ainda é fascinante de se ver. Um dos melhores exemplos daquela época de como se pode fazer muito com "pouco".
+
+https://www.youtube.com/embed/Sgr5FVjnXs
+
+Um curta de Méliès que resume toda a história de Cinderela. Tem como figura impressionante o velho do tempo, que surge no castelo. Já possui a noção de mudança de espaço, pois os cortes denotam lugares diferentes onde se passa a história. No final tem uma dança bem divertida, um espetáculo de alguns minutos para a época.
+
+https://www.youtube.com/embed/0caKk42n7A
+
+O primeiro filme polêmico foi feito em terras americanas. Um beijo de um casal foi acusado de pornográfico, mereceu críticas do Vaticano e hoje seria o equivalente a... sei lá. Dezenas de atores em uma suruba em um filme da Disney?
+
+https://www.youtube.com/embed/IUyTcpvTPu0
+
+Esse filme é bizarro. É sobre uma suporta fada, mulher doce, sei lá, que vai arrancando bebês de um jardim (bebês reais) e jogando no caminho. Hoje seria considerado um terror e tanto.
+
+https://www.youtube.com/embed/MTd7r0VkgnQ
+
+Mais um gore para a plateia. Para os que reclamam que hoje em dia há muito apelo à violência gráfica, esse filme é apenas isso: a decapitação de uma mulher (a tal Rainha de Scots). O corte até que foi bem feito. Deve ter impressionado à beça.
+
+https://www.youtube.com/embed/XgDGwc19aU
+
+Na época o Raio-X havia sido descoberto e a criatividade já começava a aflorar. Esse filmeco é bem divertido pela sua inocência, e demonstra como havia curiosidade a respeito das inovações tecnológicas e científicas. Aliás, a Scientific American aquele ano lançou um artigo explicando como fazer Raio-X em sua própria casa!
+
+https://www.youtube.com/embed/3gMCkFRMJQQ
+
+Fonte: [A.V. Club - The 10 best films of the 1890s](https://www.avclub.com/the-10-best-films-of-the-1890s-1798234254)
 

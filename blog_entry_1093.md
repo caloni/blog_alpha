@@ -1,12 +1,12 @@
 ---
 categories:
 - writting
-date: '2020-03-02'
-link: https://www.imdb.com/title/tt0495596
+date: '2014-06-22'
+link: https://www.imdb.com/title/tt1828229
 tags:
 - movies
-title: Contos de Terramar
+title: Contos da Noite
 ---
 
-Estreia do filho de Hayao Miyasaki na direção, esta animação dos estúdios Ghibli carece de provocações. Se trata de um épico sobre vida e morte em um mundo medieval em que o equilíbrio da natureza foi perdido pelo Homem. Evocando sentimentos já imortalizados por Senhor dos Anéis, Contos de Terramar cria um tema musical e um mundo detalhado com viajantes, feiticeiros, comerciantes, escravos e gangues. Apenas o necessário aparece para que a história seja contada, mas isso faz ela ser pobre e previsível.
+Observe a leveza, a pureza e a ingenuidade contidas na paleta de cores, nas silhuetas, nos diálogos e até no tom das vozes. O ritmo acelerado de cada história, cada uma previsível, ou quase. A moral varia conforme a história, e os atores muitas vezes relutam em mudar. Parábolas da vida, que estamos acostumados a ouvir, mas cujo significado foge no momento da análise.
 

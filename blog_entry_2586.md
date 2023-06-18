@@ -1,24 +1,20 @@
 ---
 categories:
 - writting
-date: '2021-03-13'
-link: https://www.imdb.com/title/tt0241683
+date: '2020-03-19'
+link: https://www.imdb.com/title/tt0110877
 tags:
 - movies
-title: O Casamento de Louise
+title: O Carteiro e o Poeta
 ---
 
-Uma comédia brasileira pós-retomada e virada do milênio. Estreia da diretora Betse de Paula, é uma produção barata que passou no crivo dos incentivos fiscais da época. Seu elenco enxuto e argumentação com cenários facilmente adaptáveis para locações práticas (como uma casa) dão lugar para a comédia de diálogo e situações que se cruzam.
+Uma produção fofinha dos anos 90, lembro que foi sucesso na época, assisti a primeira vez em VHS. É um filme feito para o Oscar e para as multidões. Mario Ruopollo é um italiano tão doce e falso quanto o Pablo Neruda do filme. Veja como Philippe Noiret, o ator que faz Neruda, se veste como um poeta, sorri como um poeta e fala como gostaríamos que falasse um poeta. Ele está atuando em um filme e isso é muito claro para o espectador, mas em nenhum momento ele consegue nos convencer de que quem estamos vendo na tela é de fato Pablo Neruda, diferentemente de sua versão como projecionista de um cinema em um vilarejo da Itália no inesquecível [Cinema Paradiso].
 
-A história tenta cruzar a história de vida de Louise e sua empregada Luisa, que nasceram no mesmo ano e cidade e compartilham a história de Brasília. Ambas gostariam que o horóscopo do dia para o signo que compartilham fosse verdade e que encontrassem seu príncipe encantado. Isso se materializa em um maestro sueco, mais um estereótipo para se juntar nessa feijoada de clichês. Logo você percebe as viradas do roteiro e apenas aguarda seu desfecho e algumas piadas.
+Já Massimo Troisi participa da direção e faz aqui um italiano de uma vila de pescadores que mal sabe ler e que quer se tornar um poeta para conseguir que as mulheres se apaixonem por ele. Imediatamente após ele falar isso ele entra em um restaurante onde a estonteante atendente está jogando pebolim e coloca a bola que caiu várias vezes no chão sujo em sua boca. Maria Grazia Cucinotta é colírio para os olhos, e é justamente por isso que ela não poderia existir nessa vila de pescadores nem se apaixonar por um semi-letrado que não tem onde cair morto.
 
-As atuações são melhores do que o filme e seguram bem uma direção pragmática, que vai ensaiando, filmando e editando em pequenos passos. O conteúdo digitalizado na hora permite que Betse vá assistindo seu filme se completando e enxergue rapidamente o que precisa acrescentar ou tirar. É uma cozinha prática se sobrepondo à complexa teoria das produções hollywoodianas.
+A virtude de Troisi como ator é nos entreter enquanto aguardamos a história escrita a seis mãos convenientemente nos entregar um pequeno conto que une Neruda, "crítica social", uma música forçosamente colocada como tema e uma fotografia da Itália feita para cartões postais. Este filme é um cartão postal em VHS. Agora em DVD. E agora em streaming.
 
-Estamos em uma época com péssima edição se som na indústria nacional, mesmo em locações sob total controle, mas essa não é tão ruim, exceto pelos números musicais. Pena que há muitos. Mais que o desejado 
+Ele deve continuar agradando multidões, mas tendo como pano de fundo o saudosismo dos simples e doces anos 90. É um filme fácil de digerir pelas emoções que ele deseja transmitir, mas difícil de engolir por causa do seu formato feito para ser embalado em uma lata e vendido para Hollywood e para o resto do mundo.
 
-As crianças são insuportáveis de propósito? Parece que escolheram os filhos de alguém da equipe para dizer falas engraçadinhas. É o alívio cômico barato e conveniente.
-
-Os caminhos traçados no roteiro mudam de rumo ao bel prazer de uma comédia romântica que tem o imperativo que tudo no final dê certo e que todos formem seus casaizinhos.
-
-Os créditos finais são igualmente engraçados. Mostram até as empresas que forneceram transporte à equipe. É o jabá barato e póstumo. Fruto das vacas magras no cinema nacional.
+[Cinema Paradiso]: {{< relref "cinema-paradiso" >}}
 

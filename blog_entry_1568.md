@@ -1,12 +1,11 @@
 ---
 categories:
 - writting
-date: '2020-08-10'
-link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-sao-francisco/
+date: '2017-09-11'
 tags:
-- coffee
-title: Fazenda São Francisco
+- food
+title: Fazenda Mira Flor Restinga SP Alta Mogiana Grão Gourmet
 ---
 
-Esse café tem um frescor que não sei se onde vem. Seu corpo é leve, mas o sabor é mais complexo, com notas cítricas, frutadas, misturadas com um levíssimo amargor típico de um café potente. A acidez é quase inexistente, se transformando em uma bebida viciante, onde uma caneca matinal de 300ml já não são mais suficientes.
+O café que chegou junto com os de Poços pelo Grão Gourmet. Tem um gosto cítrico e corpo médio para fraco, no estilo dos Starbucks mais insossos.
 

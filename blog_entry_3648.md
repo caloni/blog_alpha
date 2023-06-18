@@ -1,20 +1,19 @@
 ---
 categories:
 - writting
-date: '2020-05-04'
-link: https://www.imdb.com/title/tt0018478
+date: '2023-01-22T23:58:52-03:00'
 tags:
+- cinemaqui
+- mostratiradentes
 - movies
-title: Tesouro Perdido
+title: Terruá Pará
 ---
 
-Este é o primeiro filme mudo p&b brasileiro que vejo. E é no mínimo uma confusão sofrível. Seu idealizador, Humberto Mauro, um self-made man, estudou engenharia elétrica e gostava dos mecanismos por trás da fotografia. Daí para o cinema foi um pulo. Ele consegue uma parceria e filma já em sua própria Terra Natal, lá em Minas. Um pioneiro do cinema nacional. Este é seu segundo longa, que conta uma história confusa sobre a herança de antepassados que esconderam dos brasileiros um tesouro da época da independência (eles tomaram partido dos portugueses), e agora que o pai do protagonista morre deixa um "roteiro" (assim era escrito) para o tal tesouro. Bandidos se interessam e começa o que seria uma aventura, com cavalo a galope, mortes e muita emoção com uma moral no final de que o verdadeiro tesouro é o amor.
+A diretora Jorane Castro apresentou o projeto no início da sessão como sendo sobre a diversidade amazônica, mas durante a projeção descobrimos ser muito mais sobre a miscelânea musical da capital paraense do que sobre a floresta.
 
-Mas de amor a época não tinha nada. As mulheres do filme parece que não podiam falar. Quer dizer, não podiam mexer os lábios e ter sua fala traduzida em letreiros. Podiam exibir sua formosura com muita discrição. Os homens de Minas é que decidiam tudo, a base de lutas, armas e maquinação. É o cinema do engenheiro, do técnico, mas sem qualquer especialização ou excelência, revelando um pouco de nossa cultura, inadvertidamente.
+A história de fato começa na floresta, e a intenção é que a narrativa comece e termine por lá. Essa é a lógica temporal. Começamos ouvindo o ritmo dos tambores e os sons da água para aos poucos novos gêneros e percursores da música regional apresentarem a sua visão dessa história que é contada por vários protagonistas contemporâneos.
 
-O filme está disponível em DVD em péssimo estado. Os negativos se perderam e fizeram uma conversão menor para ajustar o tamanho do gosto da época, bem ao estilo brasileiro. O próprio Humberto Mauro sentenciou o resultado como imprestável. E eu concordo. Mas talvez ele já fosse imprestável desde a época em que foi lançado, no original. Nunca saberemos.
+As sequências se confundem com clipes musicais e a diretora é competente em criar as cenas que dialogam entre as diferentes paisagens, desde o mangue até a capital, passando pela floresta, pelo rio, pelo porto e a periferia. A localização espacial do filme é privilegiada pela cineasta que nos mantém em uma história que se desenrola através das notas, dos cantos, das batidas.
 
-Duas características marcantes (e entediantes) deste longa mudo é ele não possuir música de fundo e conter muitas falas. A ausência de música é até didática, pois ensina ao espectador a falta que faz, sobretudo para impor ritmo e tema às cenas. Já as falas são um embaraço. Nenhuma delas, apesar de cheia de palavras, diz muita coisa. Só faz o espectador ler e ler. E nessa versão do DVD tem que tentar ler uns borrões mal iluminados, estourando no contraste. Em algum momento você desiste e apenas continua vendo as imagens borradas, tentando discernir uma vaca de um cachorro. O cachorro é preto neste filme e parece uma falha no negativo.
-
-Este é um filme quase documental. Um making off do estado lamentável do cinema brasileiro. Mais tarde o diretor começaria outra parceria em que produziria minidocumentários da vida brasileira. Foi aí que ficou conhecido como alguém de valor.
+Por ser focado na música a mixagem é muito boa e nos convence da mise en scene, mesmo que ao pé de um rio. A beleza da paisagem se mistura aos números musicais contagiantes, desde os de raiz caribenha e ribeirinha, passando pelo icônico techno brega e chegando no rap feminino e na ópera moderna. Incrível como tudo se encaixa nesse diálogo entre a floresta e a cidade. Seus representantes são a soma das influências sonoras da região.
 

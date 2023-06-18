@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2016-12-04'
-link: https://www.imdb.com/title/tt5161502
+date: '2016-11-17'
+link: https://www.imdb.com/title/tt2231138
 tags:
 - movies
-title: 'SOMM: Into the Bottle'
+title: Uma Manhã Suave
 ---
 
-Para os que assistiram ao documentário "Somm", este será uma continuação natural. Para os que não o viram, não irão perder nada, pois ele não é necessário para acompanharmos mais uma viagem didática e comportada -- como deve ser -- ao mundo do vinho, desde as besteiras de pontuação, até rixas de família pela mudança da tradição, até a abertura emocionante (pelo menos para os aficionados) de garrafas enclausuradas por décadas, para constatarmos, com alegria nos olhos e nas papilas gusta/olfativas, que para alguns vinhos, envelhecer pode ser uma ótima ideia.
+Este filme independente de baixo orçamento comprova como o catálogo da Netflix reserva algumas ótimas surpresas onde menos se espera. Protagonizado por atores secundários, este trabalho do diretor e roteirista Neil LaBute é amador quase todo o tempo. Exceto pela reviravolta que o espera.
 
-E por falar em ideia, o objetivo mais uma vez do diretor Jason Wise é construir uma narrativa instrutiva e visual a respeito da história e dos detalhes sobre essa bebida tão "glamurizada" quanto amada. Muitas opiniões são ouvidas, desde o cultivo das uvas, as safras memoráveis, até o sistema de pontuação moderno de vinhos e a história de visionários, que transformaram determinadas regiões do planeta em novos pop stars do vinho.
+E se formos analisar pelo lado amador do filme, é difícil de se deixar levar. Ele se arrasta naquele formato de poucos personagens presos em apenas um cenário, diálogos que dificilmente fazem algum sentido em personagens mal desenvolvidos. É capaz que você pare de assistir quase no minuto final, mesmo que impactado pelo que aqueles dois politicamente incorretos amantes irão realizar, mesmo que eles não prometam nada. Porém, eu rogo: mantenha-se firme até os créditos finais e reavalie o que acabou de ver.
 
-Para quem assistiu ao documentário anterior, irá constatar que Wise pretende aqui abordar o que ele não conseguiu no primeiro filme ou, o mais provável, continuar uma possivel paixão desenvolvida na produção anterior (ou, uma terceira opção, puro marketing). Seja como for, para os amantes do vinho, este consegue ser um trabalho ainda mais agradável de se assistir. Em alguns momentos, quase emocionante.
+Stanley Tucci e Alice Eve estão exatamente onde deveriam estar para esse projeto. São duas boas escolhas para um filme minimalista. O aspecto teatral não os intimida, e nem o diretor, que concebe movimentos de câmera trêmulos, alguns cortes mais ou menos rápidos (do editor Joel Plotch) e um cenário que aparenta teatro e usa cores simples para uma mulher envolvida em um escândalo familiar e que se move lentamente ao ritmo de seu algoz cliente.
 
-Porém, a dinâmica do filme não permite, diferente do vinho, parar para respirarmos. Wise está disposto a dar um panorama geral do mundo do vinho em dez episódios que se abrem como uma carta de vinhos do restaurante. Muitos dos episódios se cruzam, e dão a ideia errada de seu título. Isso é uma falha mais dos entrevistados -- ou dos roteiristas -- do que a própria maneira de Wise de mostrar cada faceta do mundo do vinho. De qualquer forma, é interessante voltar a um tema já abordado para vê-lo com outros olhos, e se tratando de um filme curto e dinâmico como esse, curiosamente se aproveita mais indo e voltando a pequenos detalhes, como as notas de degustação, cujos sabores são vistos conforme os sommeliers os descrevem.
+O figurino dos dois não poderia ser mais apropriado. O vermelho da semi-jovem Velvet demonstra que ela é o foco das atenções em sua casa, lavada de cores leves e sutis. Seu vestido curto leva a crer uma forma casual de trabalhar, ao mesmo tempo que é prática. Já as vestes do genioso e irritante Fred, além de formais demais para a ocasião, carecem de charme, e são vestidos por uma pessoa surpreendentemente inferior a quem está falando, e que mesmo assim reconhece o poder que exerce sobre ela.
 
-"SOMM: Into the Bottle" quer iniciar uma franquia, reutilizando personagens do filme original e dando espaço para futuros trabalhos que adentrem em um aspecto mais técnico do mundo dos vinhos. Acredito que dificilmente atingirá esse objetivo se focar no espectador médio. Terá que ser mais um vídeo informativo para aficionados pelo tema, ou os roteiros terão que ser cada vez mais inspiradores para chamar a atenção. Seja como for, você na verdade nunca sabe o que esperar da próxima garrafa até abri-la.
+Há alguns bons momentos antes da reviravolta, mas nada que justifique assistir a esse filme. Portanto, irei rogar mais uma vez: assista até o final. Há poucos filmes com esse tipo de surpresa. Talvez você já descubra antes e possa curtir por mais tempo. Se não for o caso, talvez se surpreenda ao assistir de novo com outros olhos. De qualquer forma: vá até o final.
 

@@ -1,21 +1,22 @@
 ---
 categories:
 - writting
-date: '2018-11-02'
-link: https://www.imdb.com/title/tt5523010
+date: '2017-01-01'
+link: https://www.imdb.com/title/tt1821658
 tags:
-- cinemaqui
 - movies
-title: O Quebra-Nozes e os Quatro Reinos
+title: O Que Será de Nozes?
 ---
 
-"O Quebra-Nozes e os Quebra Reinos" tem cara de filme que inicia franquia. Inspirado no famoso balé de Tchaikovsky que por sua vez se baseou em um conto do escritor E. T. A. Hoffmann, a essência da história foi totalmente modificada, estendida e esticada para basicamente propósitos de direção de arte e trilha sonora. Uma história que era sobre um soldadinho quebrador de nozes de repente vira uma espécie de versão em miniatura de Crônicas de Nárnia com direito a guerra, traição, perda e todo um conjunto dramático.
+"The Nut Job" é uma animação com orçamento limitado, pequenos defeitos na caracterização de seus personagens (visualmente e direto do roteiro) e que usa uma moral deturpada que abraça o coletivismo em uma história rapidamente esquecível. Ele arrisca ainda em seu roteiro e montagem contar duas histórias ao mesmo tempo, mas é por demais amador e ainda no rascunho.
 
-A história gira em torno da jovem Clara (Mackenzie Foy, a filha do casal mais adorado na saga Crepúsculo) e sua busca pela chave que irá abrir o presente que a mãe, falecida, deixara para entregar aos seus filhos na véspera do Natal. O problema é que a chave faz parte de outro "presente", do seu padrinho, que localizado em um outro mundo, irá revelar uma espécie de fantasia real de sua mãe, que envolve quatro reinos que viviam em harmonia com um deles atualmente em guerra.
+Seu anti-herói um esquilo que pensa apenas em si mesmo. Acompanhado de seu amigo rato, miolo-mole e coração-gigante inseparável, juntos tentam obter comida para sua própria sobrevivência. Enquanto isso, no parque da cidade, há uma espécie de monarquia misturada com democracia direta, onde existe um conselheiro-mestre que manda em tudo (inclusive que busquem comida para ele) e que constrói através de um falso herói (um esquilo fortão e desmiolado) e uma meio-princesa meio-aventureira (e idealista) a mensagem de que existe uma entidade maior que todos pela qual todos lutam: o parque.
 
-Se tratando de uma versão preguiçosa de crítica política onde as aparências enganam, sobre a relação complicada entre pai e filha após a morte da mãe e sobre o único soldado negro que guarda isolado a ponte para o reino em briga, "O Quebra Nozes" tenta não se prender muito na história, que serve unicamente para impulsionar novas cenas onde se pode ver a real virtude do filme: uma direção de arte aliada ao digital que cria cenários riquíssimos em cores, luzes e estilo. A inspiração é a Rússia imperial e a trilha sonora de Tchaikovsky, usada com certa economia porque já se trata de uma música usada e abusada no decorrer de mais de um século. É um filme sobre um sonho, mas ele próprio também sonha: em ser algo mais que apenas um filme.
+Após ser expulso do parque por ter destruído o pouco estoque de comida para o inverno que os animais ainda tinham, o esquilo anti-herói acaba achando um armazém de nozes, usado justamente por uma gangue de assaltantes que planejam cavar um túnel para o banco do outro lado da rua. E é aí que o roteiro tenta unir duas história em uma só.
 
-Seu aspecto mais temático e menos narrativo prejudica o elenco. Em específico Keira Knightley e Helen Mirren, que possuem mais tempo de tela e que precisam criar alguma dinâmica em suas personagens para manter a história interessante. Os exageros na entonação de Knightley e a gentileza aliada à robustez de Mirren entregam boas atuações em um pacote feito meramente para entreter, e nada mais. Isso é frustrante, porque assim que as brilhantes ideias do design de arte se acabam não sobra mais nada senão acompanhar o desfecho previsível e esquecível. E por mais impactante que seja o visual, ele é vazio de significado se não há história à altura.
+Só que o texto dos quatro roteiristas ainda está no rascunho, e nem a história-base consegue ser narrada com o mínimo de coesão. Diversas cenas são cortadas ao meio, piadas são tão fracas e contadas com um timing tão ruim que sequer entendemos que se trata de uma piada. Nem os clichês de filme do gênero (animação com aventura com animais com defeitos visuais) conseguem sair direito através da direção obtusa de Peter Lepeniotis, que não consegue nos dar o mínimo de orientação espacial nas sequências que envolvam o parque, o esconderijo dos assaltantes, o prédio onde estão e, em alguns momentos, nem a logística básica do escritório dos capangas.
 
-Para as crianças mais jovens talvez tenebroso demais, para adolescente chato e sem nada a oferecer e para adultos uma experiência visual incrível que não encontra uma história que permaneça 10 minutos após a projeção, "O Quebra Nozes" é mais luz e menos ação. E ainda é tímido de usar uma trilha que virou patrimônio histórico e público do cinema e da TV. Como um mini-bônus ele tem a oportunidade de mostrar rapidamente as impressionantes performances dos dançarinos profissionais Misty Copeland e Zachary Catazaro, mas mais uma vez, a que público isso se destina?
+Falhando miseravelmente em tentar adicionar um pouco de qualquer coisa na história, seja romance, companheirismo, identificação com o anti-herói (que despreza até o amigo de grande coração) e ódio pela figura tirana do bicho-conselheiro daqueles pobres animais do parque, The Nut Job não consegue ser mais do que um entretenimento passageiro para crianças menores que 10 anos que estão prestando pouca atenção ao que se passa na tela. Para adultos, isso significa várias bocejadas durante o filme e um esquecimento rápido e indolor após seus créditos finais.
+
+Que usa Psy como o finalizador do filme. Pelo jeito, havia muitas pontas a serem cortadas nesse filme antes dele começar a ser produzido.
 

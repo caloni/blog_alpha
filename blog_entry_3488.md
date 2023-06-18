@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2015-04-30'
-link: https://www.imdb.com/title/tt2179136
+date: '2010-12-03'
+link: https://www.imdb.com/title/tt1564585
 tags:
 - movies
-title: Sniper Americano
+title: Skyline - A Invasão
 ---
 
-Sniper Americano é um filme de Clint Eastwood, e com isso deduzimos de onde vem a sensibilidade da maior parte do filme e a calma com que o tempo é conduzido na história de Chris Kyle (um Bradley Cooper irreconhecível), um "caipira" patriota e que resolveu se candidatar ao exército de elite, desistindo de sua vida de caubói e deixando sua esposa sozinha cuidado de seus filhos em longos hiatos, que são as operações que ele participou na última cagada norte-americana: a Guerra do Iraque.
+As histórias são profundas o suficiente para nos preocuparmos um pouquinho com o destino dos personagens (rapaz com acordo promissor com melhor amigo e sua mulher grávida, o amigo rico que é gente boa e sua esposa fiel e paciente, e a agente do amigo rico, o que faz com que ela seja a primeira a ser esmagada e nem nos darmos conta) e joviais o suficiente para não sentirmos muito pela perda de cada um deles (ou pelo menos por muito tempo).
 
-Ressaltando com exatidão os dilemas morais do sujeito, e universalizando essa dúvida conosco, espectadores, a primeira cena já é forte o suficiente para repensarmos toda essa bobagem de guerra: matar uma criança é justificável para salvar um bando de soldados que, adultos, escolheram esse risco? Igualmente preciso em imaginar a rotina de um atirador de elite através de sua arma, uma sniper de longo alcance e ótima pontaria, o filme é realista no ponto certo e em um ritmo rápido para trazer à tona o tema da guerra.
+Os efeitos, por sua vez, aparentemete limitados, são revelados na medida certa em que a situação se complica, e aos poucos a ameaça vai ocupando o seu posto de causador da história.
 
-No entanto, uma vez que a atmosfera é estabelecida, não temos mais nenhum avanço significativo na história. Entendemos a tensão acumulada em Chris e todos os seus assassinatos, mas não é preciso muito tempo de tela para entendermos isso. Até na primeira cena, que corta para o futuro, onde agora pai treina seu filho que atira em um veado.
+A trilha sonora impressiona em alguns momentos por estar nitidamente acima de tudo isso,conseguindo na maioria das vezes dramatizar sem ferir. O fraco do longa fica por conta do elenco limitado com papeis limitados, mas se assim não fosse nao teríamos o DNA de Independence Day, que, perto desse, vira um clássico.
 
-Sem altos e baixos, mas sem igualmente pontos altos, Sniper Americano é um filme OK, que conta uma história OK e que termina abruptamente, cortando sua narrativa em prol da história baseada em fatos reais, nunca uma notícia muito boa.
+Se os efeitos são eficazes justamente por serem descobertos aos poucos, o mesmo pode se dizer da própria história, que se fosse revelada de supetão soaria boba e superficial (além de figurar na categoria de obras de George Romero, com seus ETs e zumbis).
 

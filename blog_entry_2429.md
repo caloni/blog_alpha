@@ -1,31 +1,24 @@
 ---
 categories:
 - writting
-date: '2017-05-23'
-link: https://www.imdb.com/title/tt5748480
+date: '2010-11-20'
+link: https://www.imdb.com/title/tt1781866
 tags:
-- cinemaqui
 - movies
-title: Muito Romântico
+title: Muita Calma Nessa Hora
 ---
 
-Há um momento em Muito Romântico em que sua protagonista faz uma relação entre as memórias que carregamos na vida e uma colcha de retalhos. A colcha inteira, de acordo com ela, não tem sentido (assim como na vida). Porém, cada pequeno retalho mantém seu significado. Isso vale para as memórias que acumulamos durante a vida, imagino eu.
+Mari é constantemente assediada por seu chefe na agência publicitária onde trabalha; cansada de ser confundida com uma mulher fácil, decide não ficar mais com homem nenhum. Tita é a mulher certinha, virgem de um homem só (o marido), mas que encontra seu noivo com outra em seu apartamento e, desacreditada, decide esquecer esse negócio de monogamia e partir pra tirar o atraso. Aninha, uma eterna indecisa, já trancou sete vezes a faculdade por nunca ter certeza do que quer fazer; sim, ela concorda com ambas as amigas; ao mesmo tempo.
 
-Nessa cena um dos retalhos pega fogo por debaixo da colcha, pois a pessoa que está debaixo dela coloca fogo. Isso cabe perfeitamente nessa analogia. O retalho queimado é o efeito de alucinógenos que queimam algumas de nossas memórias. Mas algumas vezes um pouco de drogas pode ser necessário na vida. Como para assistir esse filme, por exemplo. Talvez daí essa colcha de retalhos que é o filme faça algum sentido.
+Prestes a contar a aventura das três em uma lua-de-mel bem diferentes na praia de Búzios, no Rio de Janeiro, a história possui uma introdução rápida como nas comédias de televisão (como a cena da traição), empregando um ritmo eloquente com a juventude das personagens e usando de algumas artimanhas para desde o início distinguir a personalidade de cada uma de suas protagonistas: trilha sonora diferenciada e legendas a la Tarantino.
 
-O sentido do filme, diferente do que você pode imaginar, não está no seu título. Muito Romântico é uma falsa apresentação, já que este é um filme anti-romântico, anti-conhecimento, meio esotérico ou cientificista com esotérico. Ele pode ser outras coisas, também (depende do seu nível de drogas). Porém, o que ele não pode ser, de jeito nenhum, é romântico.
+No caminho dessa história conhecemos os simpáticos e eficientes personagens secundários, como Estrela, a menina natureba e ingênua que busca se reencontrar com o pai, pescador, na mesma praia para onde as meninas estão indo. E personagens menores, que são muitos, e representam os velhos estereótipos que vemos em outros filmes do gênero (ou em programas humorísticos como Zorra Total): o mauricinho que adora suas bugingangas tecnológicas, o vendedor de bebidas gay que anima as festinhas da praia, o baiano maconheiro fã de Chiclete com Banana, e por aí vai a valsa.
 
-Ou o romantismo desse século foi rebatizado. Romantismo era sobre valores e ideais. Os românticos eram a representação de alguém que buscava ou era o ideal de algo. Aqui talvez apenas o ato de fazer o filme possa ser chamado de romântico, mas não seu resultado.
+Se estereótipos costumam ser sinônimo de piadas medíocres, não é isso que acontece em "Muita Calma". A competência do elenco de apoio sustenta seus personagens e suas piadas na maioria das vezes; e se não divertem por mais tempo é devido aos muitos cortes bruscos que são feitos ou pela repetição da mesma piada diversas vezes, como na cena do vômito (clímax), seguida pela cena do carro (exagerada).
 
-A história é sobre um casal que viaja em um navio cargueiro em direção à Alemanha para uma nova vida. Iniciando com uma sequência lenta que mostra como uma viagem pelos mares pode ser cansativa, também descobrimos que eles gostam de tirar fotos e filmar. São artistas contemporâneos, uma época gloriosa para qualquer um que queira chamar qualquer coisa de arte. Gloriosa menos para a Arte, talvez.
+Aos poucos notamos uma certa necessidade do roteiro em tentar encarar mais profundidade nos conflitos dessas três jovens, exaltando visualmente seus problemas (e a troca do nome de Aninha para Soninha é icônica nesse sentido, pois demonstra claramente, e de forma divertida, a indecisão da garota até pelo próprio nome). Porém, como é de convir em comédias do gênero, as piadas nem sempre combinam com essa tentativa, muitas vezes o tom sério atrapalhando o cômico e vice-versa, enfraquecendo ambos os lados que o filme decidiu adotar.
 
-Então descobrimos que este é um pseudo-documentário, ou um documentário filmado, roteirizado e dirigido por eles mesmos. Qual o roteiro? A primeira cena, uma leitura de uma poesia, já nos dá uma dica. Se trata de uma lista interminável de palavras e expressões vazias. Vazias se lidas em conjunto, mas cada uma delas talvez tenha o seu significado. Ainda lembra da colcha de retalhos?
+Se, por um lado, é possível dar boas risadas com as situações e piadas criadas especialmente para nos fazer rir, o desfecho pediria um pouco mais de dramatização (com cenas forçosamente emotivas, como a conversa de Aninha sobre seu aniversário e suas frase de auto-ajuda seguida de música faça-chorar). Esse drama não existe; nem no filme, nem no espectador, que não está preocupado com o destino das jovens, mas envolto nas piadinhas espalhadas em episódicas cenas.
 
-Há um fiapo de premissa, isso é verdade. Depois que chegam na Alemanha, um amigo ajuda o casal na pequena reforma do quarto para onde se mudam e onde praticamente toda a ação irá acontecer a partir daí. Ele comenta que é hora de parar de perder tempo com festas, bebidas e drogas e passar a produzir algo. Para a posteridade, diz ele. O significado da vida é ter feito algo que deixe sua marca no mundo. O rapaz, Gustavo, concorda. Mas logo em seguida ele e Melissa dão uma festa. Talvez apenas de boas-vindas, mas, sabe como é, com drogas e bebidas.
-
-A partir daí o quarto vai mudando, e eles mudam junto. Seus rostos são maquiados e as paredes pintadas. Um círculo redondo e preto é pintado do lado de um criado-mudo, e é dentro dele que ambas essas Alices, marido e mulher, cada um ao seu jeito, chegam no País das Maravilhas.
-
-A despeito de talvez tentar abrir horizontes com uma história não-convencional, a tela é quadrada e a fotografia não muito ajeitada (principalmente em alto-mar, que é sofrível), o que nos remete de volta para o gênero documentário. Alguns conceitos são interessantes, como a imaginação de cada um deles junto com a versão mais velha do parceiro. Mas documentários costumam funcionar melhor quando seus personagens fazem coisas interessantes. Aqui são duas pessoas desprovidas de algum talento marcante tentando "deixar sua marca no mundo".
-
-E quando a única marca é um buraco de nanquim pintado na parede de onde sai uma sequência caótica de fotos de suas vidas, soando como uma versão psicodélica da famigerada "hora de mostrar as fotos" que toda festa de casamento tem, daí fica até fácil recomendar: se for assistir esse filme, que seja sob o efeito de drogas. Ou que você concorde com Melissa, e já tenha memórias de sua vida que não faça muito sentido vistas em conjunto. Assim como esse filme.
+E se não existe essa necessidade de dramatizar uma comédia despretensiosa, pra que se preocupar? O bom mesmo é rir e se divertir com as partes boas, e deixar todo esse lero-lero de pseudo-conflitos existenciais no saquinho de pipoca.
 

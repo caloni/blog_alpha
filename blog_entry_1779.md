@@ -1,20 +1,145 @@
 ---
 
-É difícil saber o que esperar dessa série de humor da Netflix. Ela oferece personagens que são sobrenaturalmente estúpidos. Mas, ao mesmo tempo, é tentador entender a mente de pessoas tão estúpidas interagindo, especialmente se essas pessoas possuem uma visão tão fechada sobre o mundo e pretendem ganhá-lo, elevando à fama a garota mais mimada da casa: Miranda Sings (o nome veios antes da fama, para saberem que o que ela faz no YouTube é cantar). Se os personagens são estúpidos, e alguns deles possuem atuações dignas de nota, eu arrisco dizer que nada disso é relevante se você não olhar para o desempenho de Colleen Ballinger e constatar: esse projeto nasceu nessa performance. Quer dizer... o que é isso?
+Ainda estudando e praticando testes de entrevista me veio essa em que seja possível realizar somas para todas as chaves de uma hash table. Curioso, nunca tinha pensado nesta feature. Imagine que temos uma tabela de hash entre inteiros em que `{ 1: 8, 2: 9 }`. A chave corresponde ao hash.
 
-Ballinger consegue entonar seu nariz ao nível do ridículo sem soar exagerada além do que seu personagem propõe. Isso porque Miranda Sings é realmente idiota, não possui talento nem carisma. Mas possui algo que dizem que leva qualquer pessoa ao sucesso: força de vontade. Ela, assim como seu estúpido tio, acreditam em uma série de passos que irá levar Miranda aos holofotes mais potentes. E o primeiro passo, naturalmente, é gravar um vídeo e publicá-lo no YouTube.
+```
+| -5: | -4: | -3: | -2: | -1: | 0: | 1:8 | 2:9 | 3: | 4: | 5: |...
+```
 
-A direção mista de Andrew Gaynord e Todd Rohal criam um ambiente igualmente surreal, onde a cidadezinha lembra lugares de outros filmes, como Edward Mãos de Tesoura, Mulheres Perfeitas, O Show de Truman, e ao mesmo tempo possui seu charme particular: as pessoas não percebem quando outras são perigosamente estúpidas. Ou não ligam. Quer dizer, até o funcionário de uma loja de peixes fritar todos eles com luz artificial.
+Então eu aplico um comando na tabela inteira adicionando o valor 2 às chaves, fazendo seus elementos irem parar duas posições à frente de onde estavam. A posição 1 vira 3 e a posição 2 vira 5, mantendo os mesmos valores.
 
-O nível de gags da gangue de roteiristas oscila entre o simples idiota de um episódio de Chaves até o ligeiramente brilhante. É difícil saber o que virá em seguida. E parece que ambos os extremos costumam funcionar. Os que não funcionam não chegam a representar um perigo para a série, já que ela é composta -- já comentei isso? -- por personagens realmente estúpidos.
+```
+| -5: | -4: | -3: | -2: | -1: | 0: | 1: | 2: | 3: | 4:8 | 5:9 |...
+```
 
-A única coisa que costuma incomodar am Haters Back Off! -- quem diria -- é quando seu roteiro é inteligente o suficiente para gerar a dúvida se aquelas pessoas são verdadeiramente idiotas ou estão apenas fingindo. E isso você verá muito pouco. Portanto, se assistiu um episódio ou dois, fica minha sugestão: dê mais uns 50% de chance para Miranda Sings. Ela pode tocar seu coração ou até outro órgão. E, com certeza, nunca seu cérebro.
+Em primeiro momento eu pensei em mover posições em um vetor para resolver esta questão, mas em seguida descobri que a mesma lógica pode ser aplicada a números negativos, o que deixou tudo muito confuso na minha cabeça.
+
+Depois de pensar em uma caminhada cheguei à conclusão que não é necessário ficar movendo memória uma vez que as posições relativas se mantém. Com base nisso eu desenvolvi a lógica de apenas manter um referencial do início "real" da tabela, ou seja, qual valor deve ser adicionado para se chegar à posição real após os deslocamentos. Dessa forma a posição na memória dos elementos permanece a mesma, mas do ponto de vista de indexação eles estariam, no exemplo acima, duas posições à frente. Para isso eu colocaria meu indexador duas posições atrás.
+
+```
+| -5: | -4: | -3: | -2: | -1: | 0: | 1:8 | 2:9 | 3: | 4: | 5: |...
+                              |
+                              beg    1     2     3    4    5   ...
+
+add_to_key 2
+
+| -5: | -4: | -3: | -2: | -1: | 0: | 1:8 | 2:9 | 3: | 4: | 5: |...
+                  |
+                  beg      1    2    3     4     5   ...
+```
+
+Agora sempre que alguém referenciar a posição 0 ela estará em -2 e assim por diante. Como a posição dentro de um array não precisa ser alterada não me preocupei em atualizar as chaves, apenas os campos internos de uma hash table: sua chave e valor.
+
+A implementação não ficou exatamente assim, pois arrays não possuem índices negativos em C++. Para implementar eu já iniciei meu contador de início na metade do array, permitindo índices positivos e negativos na faixa de 100 elementos para cada lado.
+
+```
+struct HashTable {
+    typedef vector<vector<int>> BufferType;
+
+    HashTable(int tableSize) {
+        this->tableSize = tableSize;
+        bufferRaw = new BufferType[tableSize];
+        buffer = shared_ptr<BufferType>(bufferRaw, default_delete<BufferType[]>());
+        currentPosition = tableSize / 2; // for positive and negative room
+    }
+
+    BufferType& operator [] (int position) {
+        int actualPosition = (currentPosition + position) % tableSize;
+        return buffer.get()[actualPosition];
+    }
+
+    int tableSize;
+    shared_ptr<BufferType> buffer;
+    vector<vector<int>>* bufferRaw;
+    int currentPosition;
+};
+
+int HashFunction(int key, int tableSize) {
+    return key % tableSize;
+}
+
+vector<int>* FindItem(HashTable& hashTable, int key) {
+    for (vector<int>& items : hashTable[HashFunction(key, hashTable.tableSize)]) {
+        if (items[0] == key) {
+            return &items;
+        }
+    }
+    return nullptr;
+}
+```
+
+Uma parte importante no código acima é entender que a hash function apenas pega o resto da divisão do tamanho da tabela. Porém, o método de subscrito da tabela considera onde ela começa, o `currentPosition`, que pode ser em qualquer lugar, dependendo das movimentações do usuário.
+
+```
+int actualPosition = (currentPosition + position) % tableSize;
+```
+
+O código que realiza as operações de fato apenas busca ou modifica valores:
+
+```
+vector<int> TestCase(vector<string> operations, vector<vector<int>> operands) {
+    HashTable hashTable(DEFAULT_HASH_TABLE_SIZE);
+    vector<int> results;
+
+    for( int i = 0; i < operations.size(); ++i ) {
+        if (operations[i] == "get") {
+            if (auto* item = FindItem(hashTable, operands[i][0]))
+                results.push_back((*item)[1]);
+        }
+        else if (operations[i] == "insert") {
+            if (auto* item = FindItem(hashTable, operands[i][0]))
+                (*item)[1] = operands[i][1];
+            else
+                hashTable[HashFunction(operands[i][0], hashTable.tableSize)].push_back(operands[i]);
+        }
+        else if (operations[i] == "add_to_values") {
+            for (int j = 0; j < hashTable.tableSize; ++j)
+                for (auto& item : hashTable[j])
+                    item[1] += operands[i][0];
+        }
+        else if (operations[i] == "add_to_keys") {
+            for (int j = 0; j < hashTable.tableSize; ++j)
+                for (auto& item : hashTable[j])
+                    item[0] += operands[i][0];
+            hashTable.currentPosition -= operands[i][0];
+        }
+    }
+
+    return results;
+}
+```
+
+Um teste simples de rotacionamento de índices na hash table:
+
+```
+void TestCase005() {
+    vector<string> operations;
+    vector<vector<int>> operands;
+
+    operations.push_back("insert");
+    operands.push_back({ 1, 2 });
+    operations.push_back("insert");
+    operands.push_back({ 2, 3 });
+    operations.push_back("add_to_values");
+    operands.push_back({ 2 });
+    operations.push_back("add_to_keys");
+    operands.push_back({ -150 });
+    operations.push_back("get");
+    operands.push_back({ -148 });
+
+    vector<int> results = TestCase(operations, operands);
+    assert(results.size() == 1);
+    assert(results[0] == 5);
+}
+```
+
+E dessa forma é possível gastar apenas O(N) para atualizar chaves ou valores dentro de uma hash table, sem movimentação de memória alguma.
 
 ---
 categories:
 - writting
-date: '2016-10-31'
-link: https://www.imdb.com/title/tt1121024
+date: '2016-12-04'
+link: https://www.imdb.com/title/tt5467814
 tags:
-- movies
-title: Haymatloz - Exílio na Turquia
+- series
+title: Haters Back Off!

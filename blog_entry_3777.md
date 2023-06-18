@@ -1,13 +1,18 @@
 ---
 categories:
-- coding
-date: '2020-06-01'
-title: Transmission
+- writting
+date: '2011-07-06'
+link: https://www.imdb.com/title/tt1399103
+tags:
+- movies
+title: 'Transformers: O Lado Oculto da Lua'
 ---
 
-Dia de fazer funcionar o download automágico de legendas depois que o Transmission baixou meu Netflix caseiro. O download funcionou, mas não foi dos melhores, pois o sincronismo e o encoding veio errado, e o rename de _pb para o nome do arquivo não está acontecendo rodando pelo transmission-daemon. Fora isso tá com tudo em cima.
+É muito difícil para quem começa a estudar aos poucos os segredos do cinema descobrir o que faz um filme ruim. Apenas o fato de não gostar do que se vê não é argumento satisfatório para entender quais mecanismos estão ali (ou não) para sabotar por completo uma experiência cinematográfica tão bem sucedida tecnicamente, como para mim foi esse Transformers 3.
 
-No final do dia a correção era mais simples que imaginava: eu só precisava desabilitar duas flags: o uso de sufixo no nome do arquivo salvo e a flag que força todo arquivo a ser salvo como utf8 (os arquivos em português do Brasil são salvos no encoding do Windows, o ISO-8859-1 ou Windows 1252 para os mais íntimos).
+É muito óbvio perceber pequenos erros de montagem, que é quando uma cena não casa com a próxima, ou um conjunto delas. Mas isso por si só não deixa o filme, como um todo, em um patamar inaceitável. Faz parte do jogo. O nosso herói desajeitado Sam (LaBeouf) possui uma função pré-determinada desde o início dessa "trilogia", que é servir de representante para todos nós, adolescentes tarados por loiras gostosas e carros potentes que adora vê-los se transformar em robôs e "brigar pra valer". E tudo bem. Agora, isso não justifica vermos o rapaz em uma situação de perigo, e, logo em seguida, ele aparecer de um ângulo mais alto, posando de gatinho para um pôster do novo sucesso de Michael Bay.
 
-No final do dia todos os bugs conterão uma correção trivial escondida do outro lado do muro chinês.
+Olhando dessa forma o filme (e ele nos faz enxergar assim), temos a sua trama patética desmascarada, o que faz perder toda a graça nas cenas de tensão. Porém, dessa vez temos uma obra de maestria técnica de encher os olhos em 3D. É possível perceber a profundidade de campo na maioria das cenas de ação, e quando isso ocorre dentro de um prédio em movimento angular porque está se despedaçando, é espetacular. De verdade!
+
+Só que não é só de imagens que vive o cinema. Sim, um filme é uma sequência de imagens inicialmente desconexas, mas que, ao serem editadas, se transformam em linguagem, possuem respiração própria e contam a história que quiser. Aqui há apenas as imagens desconexas e só. Sozinhas, elas possuem o efeito vitrine que comentei, mas juntas, elas não revelam nada. Apenas uma longa, e angustiante, experiência.
 

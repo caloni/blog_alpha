@@ -1,18 +1,30 @@
 ---
 categories:
 - writting
-date: '2014-10-13'
-link: https://www.imdb.com/title/tt0099785
+date: '2016-08-12'
+link: https://www.imdb.com/title/tt1386697
 tags:
 - movies
-title: Esqueceram de Mim
+title: Esquadrão Suicida
 ---
 
-Esse foi o primeiro filme que eu vi no cinema. Não me lembro de tê-lo revisto por inteiro depois (nem na televisão) e curiosamente me recordo quase que na íntegra toda sua divertida e poderosa narrativa (diferente de Superman III, que vi no cinema três anos depois). É o tipo de filme que adultos e crianças podem gostar, mas provavelmente será por motivos diferentes. Antes eu adorava pelas invenções que o jovem Macaulay Culkin criava quase que de maneira sobrenatural (afinal, um menino de oito anos não teria tanta criatividade, pensava, lá com os meus... dez anos). Agora eu adoro pela apresentação de seus personagens, sua história, seus cenários, sua trilha sonora, seus enquadramentos feitos sob medida. Tudo para acreditarmos que é possível que uma família esqueça um de seus filhos sozinho em casa enquanto parte para uma viagem em um lugar distante. No Natal.
+As músicas deste filme faz com que o que ouvimos se torne infinitamente melhor do que o que vemos (e por "ver" eu quero dizer não só visualmente, mas as situações e os diálogos). Como prêmio de compensação, torna o pacote completo um pouquinho melhor.
 
-Macaulay Culkin está longe de ser um bom ator, mas como vários atores-mirins, sua cara lembra expressões que combinam com o personagem que representa. Seu sucesso em Esqueceram de Mim, Meu Primeiro Amor e O Anjo Malvado construíram uma espécie de trilogia ocasional, onde no primeiro filme ele começa como a criança inocente e "adorável", enquanto no último passa a ser o antagonista mais temido (por lembram alguém inocente). Infelizmente os holofotes prematuros geraram problemas familiares e pessoais que o deixaram de lado na carreira da telona. Para ter uma ideia, o último trabalho que consta de Culkin no IMDB se entitula Macaulay Culkin Eating a Slice of Pizza (e, sim, é exatamente isso que ele faz nesse curta).
+Mas estou sendo um pouco injusto sobre o "ver". Afinal de contas, ver os personagens de Will Smith e Margot Robbie acaba sendo, em vários momentos, um deleite. No caso da última, física e espiritualmente. Robbie está incompreensivelmente centrada em um filme que não dá a mínima para seus personagens (embora se esforce em mostrar um punhado deles).
 
-É importante notar que este é mais um filme com as mãos de John Hughes (Clube dos Cinco, Curtindo a Vida Adoidado) como produtor e roteirista, além do diretor Chris Columbus (Os Goonies, Gremlins). Para finalizar o trabalho sensacional que os dois fazem de uma história que tinha tudo para ser uma comédia pastelão esquecível, o compositor John Williams cria um tema para Home Alone que, para variar, se torna inesquecível (tocá-la em diferentes momentos com diferentes tons e versões também ajudou um pouco).
+Tanto não dá a mínima que ele se concentra o tempo todo em explicar uma trama sem sentido desde o começo, justificando o que não tem explicação. Por outro lado, ele utiliza as explicações para reinserir personagens vistos no ultimo filme do universo DC, como Batman e Flash, de uma maneira desleixada, como se estivesse pagando uma dívida eterna para os fãs (ou plantando verde para colher maduro nas próximas produções).
 
-Independente de ter envelhecido bem, filmes como esse lembram que envelhecemos junto com os filmes, e uma revisita sempre é bem-vinda. Nunca sabemos quando iremos discordar de nós mesmo. Existe um podcast antigo de nerds que cunhou a regra dos 15 anos, sobre filmes supostamente ruins que assistimos em uma época que temos pouco senso crítico, ou seja, abaixo dos 15 anos de idade. Mas nem tudo que "é ruim" e adoramos segue essa regra. Experimente.
+Mas, afinal de contas, um filme desmiolado com anti-heróis idem deveria ser pelo menos divertido. Robbie concorda comigo, mas aparentemente é a única. O resto segue um roteiro turístico sem sequer apreciar a paisagem (que no caso é uma Nova York mais uma vez aos pedaços). Robbie e Smith ao menos olham para a janelinha do ônibus, e mesmo que Smith viva mais uma vez o pai amargurado, pelo menos convence.
+
+Já os outros personagens, que diferem em praticamente nada (talvez o Crocodilo... mas só um pouco), estão tão dispersos e anestesiados que não enxergam de fato a história, mas inúmeros fundos verdes com quem precisam interagir para ganhar seu cachê. Há muitas explicações de por que essas pessoas são a elite do mal, mas muitos poucos motivos no filme para realmente acreditar nisso.
+
+Existe um outro potencial personagem para se juntar ao grupo dos "descolados": o Coringa. No entanto, Jared Leto não consegue relaxar em momento algum, criando um contraponto negativo com o Coringa anterior, esse "maluco beleza", pois sacrifica a única coisa que o tornava mais interessante que seu amigo morcego: a cuca fresca. E, convenhamos, rir freneticamente de tudo o que faz, sorrir ou colocar sua mão na frente da boca (com um sorriso desenhado) não é o que podemos chamar exatamente de "construção de personagem".
+
+E por falar na dupla de amantes, Arlequina poderia se virar muito bem sem uma explicação de sua origem (assim como o Coringa anterior, que se beneficiava ainda de suas múltiplas histórias). A Warner acaba de queimar um excelente cartucho para um filme solo (a menina merece!) já mostrando a transformação entre uma jovem psicóloga inocente para essa mente perturbada e corpo lascivo que não se encontram exceto quando está com seu grande amor.
+
+Esquadrão Suicida, por outro lado, esbanja efeitos visuais -- que são quase invisíveis para quem assistiu à versão 3D, graças à ideia estúpida de filmar com o mesmo nível de claridade na versão em 2D, ignorando que os óculos permitem apenas a passagem de metade da luz para cada olho. Há algo de tenebroso e erótico na vilã, a Bruxa, que não me fará esquecê-la por um tempo. Não tanto pela personagem, cuja dupla personalidade (ou espírito) é bobinho. Não entendo como um espírito milenar aguentou usar o corpo de uma arqueóloga jovem e totalmente desinteressante.
+
+Por fim, a bagunça dirigida e escrita por David Ayer (do ótimo Corações de Ferro) não convence em praticamente nada. É um faz-de-conta que não consegue sustentar nenhuma de suas premissas. Entendemos que é um mundo fantasioso, mas até a fantasia tem suas regras. A regra de Suicide Squad é nunca revelar quais são as regras. E nem isso ele convence, já que ele decide usar algumas regras na hora de resolver conflitos (todos convenientemente nos seus lugares). Sabe como é: há uma franquia que deve ser cuidada.
+
+Se cuida, Marvel. Há outra produtora de capas e máscaras tão medíocre quanto você.
 

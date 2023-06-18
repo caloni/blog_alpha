@@ -1,12 +1,11 @@
 ---
 
-Mais uma amostra do OMalleys, mas essa nem eles conseguiram estragar. Essa Double IPA é intensa na medida certa para quem quer apenas um copo para degustar por uma hora. Um gole é uma memória. Corpo médio para forte com intensidade de sabores que vai te fazer bebericar novamente assim que puder.
+Uma das cervejas dessa cervejaria de Nova Lima, próximo de BH, mas tomado em Diamantina (no restaurante de esquina próximo da descida).
 
 ---
 categories:
 - writting
-date: '2016-11-17'
-link: https://www.imdb.com/title/tt1211837
+date: '2018-08-08'
 tags:
-- movies
-title: Doutor Estranho
+- beer
+title: Double Hop Monster IPA

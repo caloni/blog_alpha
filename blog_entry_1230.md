@@ -1,21 +1,16 @@
 ---
 
-Você vai ouvir esse nome muitas vezes no filme de 75 de Kurosawa, falado em russo, e com cenários e situações realistas que compõem esta amizade entre um oficial russo e um caçador do povo Nanai, um dos habitantes da extrema Sibéria.
+O que você faria se acordasse em um apocalipse zumbi? Esta minissérie, que começa com uma história em dois capítulos de 45 minutos, explora essa abordagem usando uma cobaia em torno de uma produção que mistura o melhor da edição televisiva de séries como The Walking Dead e um roteiro que se assemelha a um jogo, mas que por contar com uma pessoa que vive isso de verdade, está anos à frente de qualquer tentativa de dramatizar os quadrinhos da série famosa de Frank Darabont.
 
-Os Nanai possuem uma conexão muito forte com a natureza, e boa parte do filme é para entendermos as diferenças de visão de mundo entre Dersu e os militares que ajuda a guiar pelas inóspitas florestas da Sibéria. Essa história se passa entre 1902 e 1907, é biográfica, antes da Revolução Russa, e portanto no império czarista.
+O host é Derren Brown, que é mágico e hipnotizador. Ele está obviamente se auto-promovendo através de uma série com colagens bregas sobre apocalipse vinda de jogos de computador, mas algo muito bom nasce desse projeto. Ele realiza uma pesquisa para encontrar uma pessoa que não valoriza a vida que tem, mesmo ela sendo cheia de privilégios, e encontra Steven Brosnan, um rapaz que ainda não cresceu, vive com os pais e quase sempre na frente da TV. Ele é mimado e se sente incapaz de conseguir um emprego e ter uma vida própria.
 
-Mas não vemos muito sobre a sociedade russa, pois o foco é a natureza. Os poucos momentos na cidade é para demonstrar o choque e a desconexão entre homem e natureza. Antes tínhamos a floresta ao dispor. Hoje vivemos em caixas.
-
-O ator que faz Dersu é autêntico de tantas maneiras que ele não precisa criar um personagem, pois de fato ele é Dersu Uzala apenas aparecendo na tela.
-
-Em alguns momentos a trilha sonora lembra clássicos russos e nos remete à grandiosidade das experiências na Rússia, evocando a cultura de maneira sutil. O diretor é muito fã da cultura russa e este filme sela sua paixão entre oriente e ocidente.
-
-Efeitos visuais simples, mas eficientes, compõem os quadros milimetricamente escolhidos por Kurosawa para pintar seus movimentos em cena. Vemos o batalhão ao fundo e esses dois amigos isolados ao canto. Dersu é um lobo solitário, mas viu no Capitão o respeito que merece como ser humano. Ou gente, como ele chama tanto as forças da natureza como fogo e vento ou os animais.
-
-Críticas ao acúmulo de capital, à ganância e ao uso do dinheiro são fáceis demais do ponto de vista de quem vive na floresta. Mas o filme os faz do mesmo jeito. Ele busca entender em que momento o homem perdeu sua alma. O filme não responde, mas deixa clara a diferença entre o antes e o depois. Mas essa história já faz muito tempo que passou.
+Tudo vai mudar quando Brown começa a imputar em sua cabeça a ideia de que haverá uma chuva de meteoros, e através dessa chuva surge o apocalipse zumbi, infectando pessoas que se tornam violentas e irracionais. Com o uso de tecnologia, hipnose, atores e uma produção em tempo real de acontecimentos que buscam encontrar o melhor em Brosnan como ser humano, essa rápida série evita dar spoilers do que está realizando, e tudo se torna como o capítulo mais realista que você pode imaginar de The Walking Dead. Eu assistiria essa série se ela fosse assim.
 
 ---
 categories:
-- coding
-date: '2008-02-11'
-title: Desconstruindo IOCCC
+- writting
+date: '2020-04-07'
+link: https://www.imdb.com/title/tt0071411
+tags:
+- movies
+title: Dersu Uzala

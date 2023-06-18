@@ -1,16 +1,22 @@
 ---
 categories:
 - writting
-date: '2014-12-20'
-link: https://www.imdb.com/title/tt1065073
+date: '2019-10-22'
+link: https://www.imdb.com/title/tt11007198
 tags:
+- cinemaqui
+- mostra
 - movies
-title: 'Boyhood: Da Infância à Juventude'
+title: Boy Meets Gun
 ---
 
-Boyhood: Da Infância à Juventude -- que possui esse subtítulo nacional horrível para as pessoas ficarem atentas quando o filme termina -- é o trabalho de doze anos de filmagens (na verdade, 45 dias espaçados em períodos de cerca de um ano) para que os atores principais -- em seu início crianças de sete e oito anos -- pudessem crescer naturalmente e com isso interpretassem todas as fases de crescimento da infância à adolescência. Seu diretor, Richard Linklater, já era conhecido por seu estilo realista em sua até o momento trilogia Antes do Amanhecer, Antes do Por-do-Sol e Antes da Meia-Noite, filmados de dez em dez anos com Julie Delpy e Ethan Hawke (este último também participa de Boyhood) para analisar o amadurecimento dos seus personagens. O que ele nunca fez, e, sinceramente, não me lembro de ter visto sido feito com tanto afinco, foi filmar uma ficção que tirasse proveito do processo de envelhecimento da vida real.
+Fazendo um trocadilho com o filme icônico de Leos Carax (Boy Meets Girl), Boy Meets Gun é uma mistura de drama, comédia e investigação policial que consegue entreter com o mundinho criado pelo roteirista Willem Bosch, que também é o escritor do roteiro do cativante Afterlife, também em exibição nesta Mostra.
 
-Mas o que se ganha como Cinema filmando assim? Bom, em primeiro lugar, não há nem troca de atores nem a necessidade de cortes profundos no tempo para que essa troca seja feita. Normalmente um ator-mirim, quando precisa viver alguns anos de seu personagem, é envelhecido com o uso de maquiagem ou enquadramentos que dão a impressão de crescimento até que haja um corte propício (ex: dos 10 aos 15). Nesse caso, acompanhamos todos os anos dessas crianças, suas mudanças de visão, suas atitudes, suas amizades, paixões, brigas, etc. É um recorte na vida de uma família que poderia muito bem existir na vida real, pois não há nada de especial em seus personagens, mas, da mesma forma com que acompanhamos os fascinantes diálogos de Jesse e Celine na série de filmes citada, é igualmente maravilhoso conseguir acompanhar a mudança, por exemplo, nas conversas com o pai divorciado, que visita os filhos frequentemente, mas cuja vida permanece um mistério.
+A parte mais inusitada e divertida do longa dirigido por Joost van Hezik é que a narradora, apesar de não ser uma personagem no sentido de realizar alguma ação propositada, é uma pistola Desert Eagle (se você já jogou Counter Strike sabe que arma que é; para quem não jogou imagine uma pistola de mão que faz metade do estrago de um rifle). Bonita e estilosa, ela conta a sua história de como foi parar nas mãos de um professor de filosofia, em uma sequência nada sutil, mas que serve para nos jogar na ação facilmente.
 
-Ou seja, o segundo ganho dessa técnica ambiciosa, arriscada e quase que completamente aleatória de estabelecer um roteiro minimamente filmável, mesmo estando à beira das mudanças nos atores em sua vida real (poderia, por exemplo, deixar de atuar), parece ser a curiosa sensação inicial de estranheza no primeiro avanço no tempo (eles não trocaram os atores?) para uma gradual adaptação que vira um outro sentimento, nunca experimentado antes no Cinema: estamos assistindo à própria vida. Conseguimos acompanhar a evolução e os erros dos pais desses jovens, mas ao mesmo tempo seus acertos. São pessoas que se tornam aos poucos de carne e osso, que vivenciam momentos que também vivenciamos (como a segunda trilogia de Star Wars ou a estreia de um novo livro de Harry Potter) e que possuem as mesmas dúvidas que nós, adultos e crianças, sempre temos e sempre teremos. O amadurecimento do filme se torna, então, o amadurecimento da própria vida. Um brinde a esse feito incomensurável para a arte.
+Toda a trama é desenvolvida considerando que o detentor de uma Desert Eagle irá aumentar seu nível de "macheza" exponencialmente, e esse professor de meia-idade já se perguntando se existe de verdade acaba virando o jogo a partir do momento em que ele guarda essa arma na gaveta de sua mesa, não sem antes cuidá-la com carinho (a narradora agradece).
+
+Minimamente interessante, essa premissa vai aparentemente se tornando insuficiente, pois Willem Bosch começa a entregar um segundo filme de investigação policial junto de um drama de um jovem com a face descaracterizada que deseja fazer uma operação e aumentar sua auto-estima, já abalada de ter que conviver com seu sinistro pai, um "colecionador" de armas com um olhar que você não gostaria de cruzar na rua (e ele faz uma referência não muito inteligente com o vilão de Javier Bardem, Anton Chigurh, de Onde os Fracos Não Têm Vez, usando para isso o cabelo estranho como artefato).
+
+A história vai piorando conforme novos elementos vão sendo acrescentados ou expandidos, como uma aluna universitária que vira o interesse do professor em sua sala ou a incrível coincidência da investigadora de polícia conhecer um desses personagens. De certa forma, Boy Meets Gun é cercado de boas ideias, algumas são aproveitadas, outras não, mas a melhor delas nunca é usada: economia nos conceitos. Este filme ficaria infinitamente melhor se dividido em dois pelo menos.
 

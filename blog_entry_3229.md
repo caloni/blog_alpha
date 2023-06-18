@@ -1,24 +1,18 @@
 ---
 categories:
 - writting
-date: '2011-08-17'
-link: https://www.imdb.com/title/tt1499658
+date: '2016-01-16'
+link: https://www.imdb.com/title/tt0097523
 tags:
 - movies
-title: Quero Matar Meu Chefe
+title: Querida, Encolhi as Crianças
 ---
 
-Muitas pessoas com certeza rirão das piadas sobre trabalho, sexo e racismo de Quero Matar Meu Chefe, tradução não-literal de Horrible Bosses (Chefes Horríveis, o que não melhora muito as coisas). Novo trabalho de Seth Gordon (Surpresas do Amor e umas pontas em The Office e Community), o longa reúne mais talentos cômicos do que supostamente ele conseguirá no resto de sua vida como diretor.
+Os efeitos estão datados, mas nem por isso não funcionam em sua maioria. Rick Moranis está hilário procurando seus filhos com uma lupa sobre seus óculos pendurado no jardim suspenso por uma televisão. Seus vizinhos são malucos em um sentido diferente, mas todos eles possuem um objetivo no roteiro esquemático: juntar novamente a família. O feminismo, quem diria, sempre foi um mote na série.
 
-O filme inicia com três narradores oniscientes, Hick (Bateman), Kurt (Sudeikis) e Dale (Day), que assim que terminam a introdução são descartados, e passamos a acompanhá-los pelo quarto narrador (a câmera). Vivendo momentos sufocantes no trabalho devido a cada um de seus insuportáveis chefes, que eventualmente abusam de seu poder, os três rapazes resolvem solucionar seus problemas através da única maneira plausível: exterminando seus superiores, afim de ter um pouco de paz em suas insuportáveis vidas.
+O primeiro filme, dirigido por Joe Johnston (Capitão América: O Primeiro Vingador, Jumanji) e roteirizado por uma galera, apresenta a família Szalinski. Wayne (Moranis), o pai de família, é um cientista que busca provar que é possível encolher a matéria através de um raio laser, mas enquanto não conseguir a casa estará em um eterno caos. Isso fez com que sua esposa, Amy (Amy O'Neill), tivesse eternos conflitos com ele e seus filhos: o pequeno e adorável Nick (Robert Oliveri), que imita o pai em suas invencionices, e a mais velha, Diane (Marcia Strassman), cuja adolescência já estaria naturalmente complicada não fosse o encolhedor do pai tivesse tornado ela mais complicada ainda.
 
-O roteiro desenvolvido por Michael Markowitz e John Francis Daley comprova que a experiência dos dois na TV acabou por viciá-los em histórias episódicas que são reunidas por pouco mais que um argumento inicial. O fato é que as piadas desenvolvidas por eles funcionam na maior parte do tempo, e, graças ao simpático grupo de comediantes, acabam se transformando em inconsequentes risadas.
+Os dois filhos da família e os dois filhos do vizinho, que compartilham um drama familiar "pai não respeita os gostos dos filhos", são encolhidos em uma situação turbulenta. A princípio acreditando que eles tenham fugido, mais tarde Wayne descobre a verdade e sai à cata dos pequeninos. Tudo é muito exagerado e exploratório nesse filme que realiza trucagens interessantes, formigas-cachorros e muitos outros conceitos que são uma distração do que até então era uma história padrão.
 
-Não que a narrativa seja inteligente por si só. Apelando muitas vezes para comportamentos ilógicos de muitos personagens (como o presidente da companhia que diz para onde vai o salário do cargo que pegou para si), acompanhamos a trama aos trancos e barrancos, sempre ajudados pelos rostos conhecidos que acabam por conduzir-nos da maneira menos dolorosa possível.
-
-Seguindo esse ritmo de gags sobre gags, conseguimos acompanhar as cada vez mais absurdas situações que o trio de amigos acaba se colocando, e a impressão que fica é que a única forma da narrativa conseguir "crescer" é aumentando cada vez mais os absurdos.
-
-Enfim, chega um momento em que as piadas não bastam mais e o terceiro ato atravessa inevitavelmente pela peneira da lógica completamente destroçado. Não é preciso dizer que à essa altura nada muito genial era esperado, de forma que o resultado ficou bem ao nível de toda a "trama".
-
-Após esse exercício de futilidade que poderia muito bem passar no sábado à noite, tudo que temos a fazer é sair da sessão e esperar pelo melhor para esse grupo de atores talentosos que acabou se metendo em uma verdadeira cilada.
+O fato é que o roteiro escrito a não sei quantas mãos é confuso, deixa diversas pontas abertas e cria situações artificialmente (como os clientes da esposa aparecerem na casa da família para gerar constrangimento). Fora tudo isso, a direção de Johnston entrega um filme divertidinho, simpático e a marca de uma época mais inocente, mas nem tanto: o final dos anos 80.
 

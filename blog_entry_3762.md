@@ -1,16 +1,23 @@
 ---
 categories:
 - writting
-date: '2010-06-25'
-link: https://www.imdb.com/title/tt0120363
+date: '2018-03-01'
+link: https://www.imdb.com/title/tt4157844
 tags:
+- cinemaqui
 - movies
-title: Toy Story 2
+title: Torquato Neto - Todas as horas do fim
 ---
 
-Dessa vez o drama entra no universo dos brinquedos de coleção, aqueles que nunca saem da caixa e são peça de negociação, além de uma visita inesperada e divertida por uma loja de brinquedos fechada. Contando com uma trilha de ação envolvente por se unir de forma praticamente orgânica com as tomadas em que vemos os brinquedos atravessando uma rua cheia de carros, nossa atenção é roubada na primeira metade do filme com uma fluidez que se compara ao primeiro filme inteiro. No entanto, os diálogos finais tornam a segunda metade uma espécie de anticlímax da primeira, não tanto por ter se perdido no meio do caminho, mas pela comparação com a animada primeira parte.
+Torquato Neto, a ver pelo seu próprio documentário -- Torquato Neto - Todas as horas do fim -- foi um rapaz sem muita lógica. Ele é um poeta que sente, e sai a escrever, falar, cantar. Um dos influenciadores do movimento contracultural da Tropicália, trabalhou com grandes nomes hoje da música brasileira como Gilberto Gil, Gal Costa e Edu Lobo. Se suicidou aos 28 anos após passar uma noite inteira com amigos, em uma verdadeira incógnita. Como deve ser. Mas esse filme, violando as leis caóticas da mente do compositor, tenta encontrar uma razão para seu trágico fim. E isso é imperdoável.
 
-Com piadas que tentam fazer alguma homenagem a grandes ícones do cinema (como 2001, Jurassic Park e até mesmo a frase mais famosa da série Star Wars), vemos um roteiro um pouco mais maduro, que tenta enfrentar questões que serão abordadas de maneira ainda mais madura no fechamento da trilogia, como a questão inicial se o importante é satisfazer a infância de uma criança e ser seu melhor amigo até que inevitavelmente ela deixe de brincar e o jogue no canto, ou a tentadora possibilidade de existir para sempre em uma redoma de museu, observada por crianças do mundo inteiro, eternizado.
+Dirigido e escrito pela dupla Eduardo Ades e Marcus Fernando, o trabalho de desencavar um verdadeiro arcabouço multimídia da época é digno de aplausos. Eles resgataram uma parte da arte brasileira que estava esquecida e jogada em um canto empoeirado e com isso transformaram este filme naquelas obras necessárias. Porém, ser necessário não o torna indispensável, e navegando pela burocrática cronologia do artista encontramos uma repetição de velhos cacoetes de cineastas empolgados demais com o conteúdo e se esquecendo de polir a forma.
 
-De forma inteligente, o filme aborda isso mostrando a Woody que ele era parte de algo maior, uma coleção de brinquedos com temas variados que dariam inveja a George Lucas, com ioiôs, desenho animado com bonecos animados, solta-bolhas, e tantos outros souvenires da mania que era o protagonista.
+O filme é uma sequência ininterrupta de testemunhos que não se sentam em uma cadeira de frente para a câmera, mas são filmados por arquivos ou cenas esparsas que dão um rosto às suas vozes. Isso é uma boa característica. Porém, o que eles dizem não aumenta em nada nossa percepção de quem era, afinal de contas, Torquato Neto. Suas músicas são ouvidas, seus versos são ditos, mas isso nós já sabemos. "Torquato foi um dos maiores..." é o que conhecemos por contar história para boi dormir. Parece que o filme inteiro tenta justificar o valor de seu protagonista, como que não confiando o suficiente que o espectador o fará.
+
+E isso é necessário em alguns trabalhos. Talvez até seja nesse. Torquato não tinha um rosto com que poderíamos nos identificar com suas músicas, pois ele era o compositor, não o intérprete. O único rosto que se repete várias vezes é a do vampiro, sua figura imortalizada quando fez o "Nosferatu" brasileiro. Mas este não é o filme em que ele recita suas poesias.
+
+A história narrada por testemuhos e ilustrada por arquivos de fotos e vídeos acompanha a história de Torquato desde seu nascimento no Nordeste até seu pequeno tour pela Europa para "conhecer gente famosa" (Jimmy Hendrix, John Lennon), enquanto no Brasil imperava uma ditadura e uma censura que impediam a voz tresloucada do poeta de acontecer. Cada testemunho procura encontrar razão para seu suicídio, seja em alguma coisa que ele disse ou algum detalhe de sua vida. O fato é que todos seus amigos até hoje nunca encontraram esse motivo, e o filme não deveria tentar.
+
+A impressão geral é que o documentário é sobre o suicídio, e de repente, incidentalmente, ocorre uma transformação biográfica que nos conta começo, meio e fim de um artista brasileiro esquecido pelas massas, assim como as vaias para a Tropicália. Agora ele está disponível, em áudio e vídeo, imortalizado em um arquivo que deve durar algumas décadas, e que deve servir de ponto de partida para algumas experiências inusitadas na filmografia brasileira.
 

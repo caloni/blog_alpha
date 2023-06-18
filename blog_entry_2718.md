@@ -1,18 +1,23 @@
 ---
 categories:
 - writting
-date: '2015-01-11'
-link: https://www.imdb.com/title/tt0032138
+date: '2010-10-27'
+link: https://www.imdb.com/title/tt0775489
 tags:
+- mostra
 - movies
-title: O Mágico de Oz
+title: O Mágico
 ---
 
-Não dá para assistir a O Mágico de Oz e automaticamente não relacionar com Alice no País das Maravilhas já que a estrutura e muito provavelmente a ideia veio justamente do romance de Lewis Carroll. No entanto, ao relacionarmos também com o momento histórico dos EUA temos uma visão muito mais interessante. Uma crise financeira devastou o país por uma década e o filme estreia semanas antes da Segunda Grande Guerra oficialmente começar. Virou o símbolo de uma geração (além de ter uma belíssima música). Quando as pessoas perdem a esperança, é função do Cinema fazê-las as distrair com histórias fantasiosas, super-heróis impossíveis e viagens no espaço.
+Esse é o novo longa de Sylvain Chomet, o mesmo diretor de [As Bicicletas de Belleville]. Foi baseado em um roteiro de Jacques Tati (do filme Meu Tio). Ou seja, temos aqui um roteiro de algo belo em sua pureza sendo dirigido por alguém com o controle nato do surreal. Não bom.
 
-Uma das ideias mais interessantes do longa é utilizar a cor sépia para o mundo real onde a garota Dorothy (Judy Garland) mora, uma fazenda no Kansas, e o filme em cores para o mundo de Oz. Não apenas o filme em cores: foi utilizado o technicolor, uma tecnologia conhecida pela sua saturação de cores. Sabendo disso o filme ganha um outro aspecto, principalmente porque a sua chegada ao mundo de Oz é um oceano de cores pela festa que os moradores fazem por ela ter matado uma bruxa má durante a queda. Outro detalhe interessante da produção é que praticamente todos os fundos são pintados, uma forma barata de conseguir criar ambientes complexos e fantasiosos em estúdio.
+A primeira metade é deslumbrante. A direção de arte compõe os quadros mais inspirados de belas cidades, ou teatros em que o velho mágico se apresenta; ou até pela fotografia, que ilumina com cores quentes e gela com cores frias. Adotando uma comédia baseada em coincidências ingênuas (ex: ensopado de coelho, neve de penas), a trilha sonora acompanha cada passo dos personagens e define o sentimento do momento, contando a história muito melhor do que os diálogos, que inexistem. No entanto, em alguns momentos ela chega a se tornar repetitiva, mas sem nunca perder sua função e sem nunca se tornar artificial.
 
-A história é simples, com conceitos fundamentais de bem contra o mal. Logo no início a "bruxa boa" pergunta a Dorothy se ela é uma bruxa boa ou má, deixando entender que no mundo de Oz, essa dicotomia praticamente "Disneylesca" é a regra. Ela foi baseada em um romance de 1900, então é razoável supor que diversos detalhes foram omitidos, o que dá um certo ar de estranheza em alguns personagens mal desenvolvidos. De certa forma, não há personagens, mas apenas símbolos, incluindo a própria Dorothy. Os seres que a acompanham se sentem incompletos por não terem um cérebro, um coração e coragem. Dorothy apenas quer novamente um lar.
+E se nos encantamos com os pequenos e precisos movimentos dos personagens (como o da senhora que observa o casal no trem, enquanto a pequena Alice encosta sua cabeça no ombro de Jean-Claude Donda (o mágico do título), ou quando a velha escocesa se empolga com as palmas quando ela acende uma lâmpada que improvisa o número do mágico no pequeno bar do vilarejo), é porque estamos descobrindo aos poucos a magia daquele pequeno universo criado para contar a história desse mágico decadente e sua fuga da triste realidade que as pessoas não gostam mais de mágicos.
 
-O filme se tornou um clássico americano, e foi um dos filmes mais assistidos e conhecidos por várias décadas. É citado em Matrix (1999), 60 anos depois, e várias de suas falas se tornaram icônicas. Até quem nunca assistiu (eu até hoje) sabe o que quer dizer "não há lugar como o lar". Uma metáfora ainda hoje rica em um filme que envelheceu razoavelmente bem.
+Ultrapassados por bandinhas de rock recém-chegadas (como demonstrado de forma hilária no número dos "pseudo-Beatles"), os artistas das antigas se vêm enclausurados em palcos obscuros ou até mesmo vitrines de lojas anunciando produtos. É o mundo moderno que dá as costas aos expatriados que antes eram gloriosos e aplaudidos, algo muito parecido com a visão das trigêmeas de Bicicletas.
+
+Mas é injusto comparar a complexidade dos estereótipos criados em Bicicletas com madame Souza, as trigêmeas, o próprio Champion e até o cachorro! Porém, mesmo nos mantendo no universo de O Mágico, do segundo para o terceiro ato vamos perdendo esse deslumbramento e aos poucos perdemos o sentido de estarmos ali assistindo à vida desses personagens, pois já não importa mais. Tudo começa a ficar confuso, pois já não nos interessamos mais pelos personagens que no início nos encantamos. E isso talvez seja, ou não, o reflexo do próprio mágico que as pessoas já não querem mais.
+
+[As Bicicletas de Belleville]: {{< relref "as-bicicletas-de-belleville" >}}
 

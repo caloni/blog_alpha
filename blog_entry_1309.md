@@ -1,11 +1,11 @@
 ---
 
-Doce demais, gosto de compota.
+Aroma doce floral, mas gosto muito seco.
 
 ---
 categories:
 - writting
-date: '2018-11-11'
+date: '2017-05-10'
 tags:
-- wine
-title: Domingo Molina
+- food
+title: Domingo Hermanos Torrontes Cosecha Tardia

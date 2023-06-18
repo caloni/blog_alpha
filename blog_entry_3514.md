@@ -1,26 +1,16 @@
 ---
 categories:
 - writting
-date: '2019-05-05'
-link: https://www.imdb.com/title/tt0100998
+date: '2015-04-02'
+link: https://www.imdb.com/title/tt1865505
 tags:
 - movies
-title: Sonhos
+title: Song of the Sea
 ---
 
-Assisti a Sonhos, de Akira Kurosawa, dividido em dois. Minha esposa dormiu na metade. Eu avisei para ela que esse cineasta é lento.
+Song of the Sea -- uma animação ainda inédita no Brasil porque as distribuidoras preferem a garantia de produtos xarope como Big Hero -- é um banho de água fresca nas animações e nos filmes em geral. É uma história pouco criativa e muito inspiradora, com uma animação de fazer perder o fio da meada, pois ficamos admirando cada detalhe de suas figuras geometricamente harmoniosas e com paletas de cores imensamente significativas, seja no frio gélido do mar ou no interior de um aconchegante bar. É uma obra estilizada e plástica, mas ao mesmo tempo com coração. A emoção do filme reside em sua trilha sonora e em suas dublagens carismáticas (mesmo que os personagens não falem muito). E, claro, em sua história que poderia até ser acusada de manipuladora se não preenchesse seus curtíssimos 93 minutos de maneira tão natural.
 
-As pessoas hoje em dia não têm paciência para observar e contemplar a beleza da composição dos quadros de Kurosawa. E não são apenas os quadros, como a verdadeira pintura dos cenários, do figurino e, principalmente, da imagem que fica em nosso inconsciente ao absorver todas aquelas cores que parecem fazer parte de quadros móveis em ângulos inusitados, mas misteriosamente perfeitos.
+A história começa com a morte da mãe de duas crianças que vivem na casa do lado de um farol. Quer dizer, é isso o que pensamos inicialmente, mas aos poucos outros detalhes vão revelando o aspecto sobrenatural de uma lenda que parece ter atravessado milênios para chegar em nossos olhos. A relação entre o filho mais velho e a caçula é a chave para acompanharmos suas aventuras. Quando em uma noite a pequena e calada Saoirse resolve seguir seus instintos e adentra o mar para se juntar às focas com o poder do agasalho mágico de sua mãe, sua avó resolve levar as duas crianças para a cidade, a salvo do que parece ser uma maldição. O caminho de ida é um dos momentos mais criativos, com o garoto desenhando um mapa enquanto observamos o carro pela estrada.
 
-O ritmo é lento porque é contemplativo. É algo para parar, observar, refletir, apreender, assimilar. E se modificar no processo.
-
-Em Sonhos o cineasta faz uma ode à natureza e alerta para os caminhos nefastos que a natureza humana está nos levando com os milagres da tecnologia. Pode ser uma argumentação anprim (anarco primitivista) ou, o mais provável, o espírito japonês, que se relaciona tão bem com a natureza. O animador Hayao Miyasaki é especialista nessa mensagem, trabalhos como Ponyo já demonstram, ou até mesmo o jovem clássico Meu Amigo Totoro.
-
-Este é um filme cheio de curtas independentes, mas que se relacionam. No começo um garoto é punido por ver o que não devia: o casamento das raposas. Sua mãe não o deixa mais entrar em casa e ele deve ir se desculpar com elas ou se matar. A analogia cristã do pecado original é óbvia, mas transformada em alegoria japonesa é fabulosa. O ritmo da marcha, o mistério da música das "raposas", é sobrenatural, e ao mesmo tempo tão visualmente completo.
-
-Após ser expulso do "paraíso" o homem começa a ter uma relação doentia com a natureza, cortando árvores de pessegueiro e iniciando guerras. E Kurosawa não deixa por menos, utilizando sua maestria de contador de histórias para tornar a perda de soldados uma tragédia tanto para os que morrem quanto para os que se vêem responsáveis. São momentos fortes que vão compondo a sensação geral de todos nós, humanos, e nossa perda de conexão com o que nos era divino.
-
-Sendo tragicamente profético ao narrar o desastre nuclear que transformará o homem e a natureza em versões demoníacas de si mesmos, Kurosawa não quer apenas nos punir ou nos fazer sermão. Ele, assim como nós, é humano. E seu último sonho acaba sendo algo tão simples que fica difícil ter argumentos para com o velhinho de 103 anos vivendo em um vilarejo que nos faz lembrar dos ensinamentos de Kim Ki Duk em Primavera, Verão..., mas vai além, para o retorno do homem ao seu paraíso.
-
-Este pode ser um diretor de filmes lentos para minha esposa e a juventude eternamente conectada na internet, mas ele nunca será irrelevante. Pelo contrário, quanto mais avança mais se torna óbvio que uma mudança é necessária. Kurosawa mostra aqui sua sugestão de maneira primorosa. Já é um começo.
+Porém, são os motivos para a volta ao farol que tornam Song of the Sea uma aventura empolgante, dramática, e até engraçada. As figuras excêntricas que as crianças irão encontrar pelo caminho floreiam a lenda e ajudam a nos situar nesta fábula. Não há conclusão fácil para essa história, mas uma importante lição aprendida. Parece soar piegas, mas não é esse o sentimento que fica. Talvez porque o piegas, quando entregue de coração, funciona muito melhor. OK, essa frase, sim, foi piegas.
 

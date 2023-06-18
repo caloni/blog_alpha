@@ -1,28 +1,23 @@
 ---
 categories:
 - writting
-date: '2019-05-11'
-link: https://www.imdb.com/title/tt8169446
+date: '2022-08-27T14:04:48-03:00'
+link: https://cinemaqui.com.br/wp-admin/post.php?post=41301&action=edit
 tags:
+- cinemaqui
 - movies
-title: Entre Vinho e Vinagre
+title: Entre Rosas
 ---
 
-Entre Vinho e Vinagre, ou Wine Country, é uma versão alternativa de Sideways se ele fosse sobre mulheres de meia-idade e seus roteiristas soubesse de antemão que menosprezar uvas pode chacoalhar o mercado de vinhos. Você sabia que por causa que no filme estrelado por Paul Giamatti seu personagem destrata o Merlot por ser "fácil demais de beber", elogia as qualidades do Pinot Noir e os preços dessas uvas na vida real despencam e disparam? Este é o "Sideways Effect" e este é o mundo do vinho, onde qualquer comentário subjetivo de um personagem fictício de um filme pode influenciar um mercado bilionário de gente rica e esnobe.
+Pelo menos alguma coisa você irá aprender em Entre Rosas: enxerto, hibridização, fecundação por eugenia, colheitas fora de época e como filmes franceses economizam drama em seu terceiro ato.
 
-Mas dessa vez está tudo sob controle, pois a Netflix não cometeria essa gafe com os seus acionistas. Aliás, não apenas está sob controle como as mulheres deste filme viajam para o Vale de Napa, antro sagrado dos vinhos de qualidade americanos, e destratam toda essa frescura por trás de aromas, taninos, história da região e porcentagem de álcool. Ah, e pisam no solo sagrado de plantações de vinhos orgânicos (hilário). E aparentemente elas bebem litros de vinho e em vez de dormir em sono profundo elas ficam super-agitadas e começam a dançar. Não que eu queira algum realismo, cara Netflix, mas você está forçando a barra dos conhecedores do poder do tanino alcoolizado.
+O filme de Pierre Pinaud e seu batalhão de roteiristas passeia pelo subgênero de superação após decadência de uma protagonista nostálgica e melancólica. Ela perdeu o pai, um floricultor de prestígio, há 15 anos, e o mundo mudou em sua volta; mas ela não. Depois de perder pela oitava vez consecutiva uma premiação de melhor criação para a personificação da indústria e do capitalismo ela terá que se mexer para aprender uma lição ou duas de que tudo muda, mas é a essência que permanece.
 
-A diretora deste filme é Amy Poehler, a pedra fundacional de Parks And Recreation e cineasta wanna-be. Este é seu primeiro longa para o "cinema". A Netflix lançou em alguns cinemas o filme para ganhar este título. Aliás, eles devem fazer isso com todos os títulos para ter a chance de ganhar prêmios. Há ainda um forte preconceito contra as plataformas de streaming pelo mundo esnobe da sétima arte. Assim como o Merlot.
+A aventura conduzida por Pinaud é modesta, ligeiramente engraçada e introduz seus poucos personagens para fazer volume. O único que importa, fora a participação competente de Catherine Frot Marguerite (2015), é de Fred (Melan Omerta), um jovem renegado pelos seus pais e que possui um dom que pode mudar sua vida criminosa. O encontro da florista vintage e a nova geração é a muleta que move o clichê de vencer os desafios da vida.
 
-Como diretora, Poehler é eficiente, mas ela pegou o roteiro errado. As roteiristas mulheres do sexo feminino Liz Cackowski e Emily Spivey fazem um trabalho encomendado. Elas são especialistas em comédia, como Vizinhos e Vizinhos 2 (ou Gênios do Crime), além de episódios do próprio Parks & Recreation. Mas aqui falta alma.
+O tema de flores é usado em um tom documental, isolado da história. Cada detalhe que aprendemos é um episódio da National Geographic. Eles alternam entre a história ficcional e o mundo das flores, em particular as rosas, avançando um pouquinho de cada vez. Faz o espectador ser hipnotizado pelo ritmo mais do que pela sua narrativa.
 
-A história é básica demais para termos substância: velhas amigas por trabalharem em uma pizzaria juntas, elas milagrosamente conseguem se reunir para o aniversário de 50 anos de uma delas em um fim-de-semana inteiro. A personagem de Poehler (ela está no filme também) perdeu o emprego e está se empenhando um pouco demais no itinerário do passeio que ela planejou e as outras amigas, como pode-se prever, possuem seus próprios problemas e irão colocar para fora em algum momento depois de tanto vinho (ou colocar o vinho para fora, do jeito que elas bebem).
+A beleza das rosas não é suficiente neste filme que dialoga demais e mostra de menos. Como qualquer trabalho intelectual ele corre o risco de perder o espectador pelas beiradas se não houver paixão suficiente que mova essas pessoas. E não há. Todos estão no piloto automático na missão de salvar a arte de criar flores, mas se tudo der errado não é como se fosse um grande desastre. Um pequeno incômodo no pior dos pesadelos.
 
-Os detalhes da narrativa não são preenchidos de forma a conhecermos melhor a personalidade de cada uma delas, mas simplesmente jogados em diálogos demais e comédia física de menos. OK, é um filme de mulherzinha, e nem as famosas TPMs do cinema estão aí presentes para um pouco de ação, pois elas já passaram dessa fase. Resta então eu me servir uma taça de vinho, degustar alguns queijos e continuar assistindo elas destratando o atendente do Artesa (não tive o prazer de visitar, mas o local é bonito). Aliás, o product placement aqui é bem sutil, quase imperceptível; vê-se apenas de longe o nome da vinícola, e não é um exagero como Mulheres ao Mar, que parece ter sido patrocinado inteiramente pela companhia do cruzeiro onde Ingrid Guimarães e suas amigas viajam.
-
-Mas divago. Falando sobre a ausência da menstruação de mulheres quase no 5.0, só resta a carência sintomática como a exibida por Val (Paula Pell), que começa a conversar sobre a vida com qualquer estranho que encontre pelo caminho. Como a atendente do restaurante onde vão jantar, Jade (Maya Erskine), que se revela uma artista e que está fazendo sua primeira exibição justo naquele fim-de-semana para seus amigos millenials, em talvez um dos melhores momentos do longa em que a raiva de um grupo de mulheres mais velhas se torna não um ataque ao ego daqueles jovens, mas algo fascinante para ser analisado.
-
-Mas eu gosto da maneira natural com que a história se desenvolve, mesmo que não pareça haver aí uma história. O filme é despretensioso em uma época que todo lançamento quer se tornar o hit do ano. Essa leveza na narrativa que Poehler favorece colocando quadros mais longos e amplos, demonstrando que este não é um encontro tenso, mas agradável com alguma tensão. Há uma diferença. É interessante que a diretora Amy Poehler saiba distinguir e aplicar.
-
-E ninguém falou mal de nenhuma uva específica. Meu diálogo favorito -- porque é bobo -- é este: - "este vinho é sensacional! como se chama?" - "vinho branco".
+O conflito principal é se a florista aceita ter o negócio de seu pai aglutinado pelo tycoon da área (papel de Vincent Dedienne). Ela poderia iniciar uma linha especial de grife trabalhando para ele, tendo acesso a recursos para suas futuras criações. O CEO diz que a admira e não há motivos para pensarmos o contrário. Não há nada que ela tenha que ele já não tenha conquistado na última década. Fica um gostinho de orgulho bobo francês pelo individualismo que está fora de moda. E estar fora de moda não costuma ser a dança dos franceses.
 

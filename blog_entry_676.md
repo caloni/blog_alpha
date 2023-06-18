@@ -1,24 +1,20 @@
 ---
 categories:
 - writting
-date: '2016-10-28T20:10:00-03:00'
-link: https://www.imdb.com/title/tt4538072
+date: '2016-10-28T20:00:00-03:00'
+link: https://www.imdb.com/title/tt5709230
 tags:
 - series
-title: Black Mirror - S03E04 - San Junipero
+title: Black Mirror - S03E03 - Shut Up and Dance
 ---
 
-Já estava na hora da série Black Mirror enfocar uma questão altamente relevante e discutida entre os aficionados por tecnologia futura: a imortalidade. Dentre as diferentes formas, eles escolheram a perfeita para o romance que pretendem retratar em um arco ambicioso, tudo em apenas uma hora. Abaixo uma breve descrição COM SPOILERS.
+Após um episódio medíocre, Black Mirror volta a fazer história com a tecnologia atual. Sem apelar (muito) para o futurismo, conta a história de como quem não vive através da verdade vira refém dos outros, além de jogar o público a favor dos roteiristas usando a moral da sociedade como pêndulo de justiça (isso nunca dá certo).
 
-Como sempre, os sempre habilidosos roteiristas utilizam a descoberta aos poucos do que estamos vendo, muito embora, se você já conhece a série (estando na terceira temporada, no quarto episódio, isso é muito provável) fica difícil tentar se desvencilhar do óbvio: é claro que estamos falando do futuro.
+A história começa com o jovem, ingênuo e introvertido Kenny (Alex Lawther), que é solitário no trabalho e usa seu computador para estravasar seu apetite sexual de adolescente. No entanto, um vírus que se instala em seu notebook faz com que sua web cam fique disponível para que atacantes invadam sua privacidade, o chantageando através da ameaça de publicar seus momentos íntimos para todos seus contatos. Kenny então entra em um dia de martírio, onde conhece pessoas também atingidas pelo vírus, todos realizando ações mecanicamente para evitar ser revelados.
 
-E nesse futuro as pessoas podem escolher parar de viver na realidade e serem colocadas em um mundo fictício, computadorizado. Um servidor de humanos. As pessoas envolvidas na história já sabem disso; o espectador não. É quando conhecemos a jovem e aparentemente tímida Yorkie (Mackenzie Davis) e a extrovertida, divertida e charmosa Kelly (Gugu Mbatha-Raw). Ambas se conhecem em um bar nos anos 60, mas Yorkie parece uma turista chegando na cidade. Como aos poucos percebemos, Kelly está interessada afetivamente em Yorker, mas não de uma maneira de longo prazo, o que frustra não apenas ela, mas aparentemente outras pessoas da cidadezinha.
+O roteiro de William Bridges e Charlie Brooker só se torna eficiente através das mãos do diretor James Watkins, que realiza um trabalho tenso, imediatista, através do uso de câmeras colocadas em objetos manipulados pelos personagens (como bicicletas) e o uso de cortes rápidos, que muitas vezes deixam o espectador meio desorientado. Exatamente como os personagens, que vão cambaleando de um lugar a outro seguindo instruções recebidas em seus celulares, vendo onde estão através de seu GPS.
 
-A forma como essas duas pessoas vão se relacionando é vital para o sucesso do episódio. E é aí que está o poder da série como um todo: ter paciência para desenvolver seus conceitos e, principalmente, seus personagens. E nesse caso o episódio dá todo o tempo do mundo para os personagens, e a tecnologia... bem, eventualmente entenderemos como tudo funciona. Mas isso é secundário, assim como os efeitos visuais.
+Mas é a atuação de Alex Lawther que de fato entrega o grande prêmio do episódio, que se revela maniqueísta, mas ainda assim, eficiente. Lawther possui uma cara confiável e ingênua, e consegue tremer como ninguém, trazendo o inquietamento do episódio para fora da tela com facilidade. Seu rosto branco logo se torna vermelho, e de fato acreditamos que o sujeito, prestes a assaltar um banco, está mijando nas calças.
 
-Mas nem por isso eles são desleixados. Uma direção de arte absolutamente encantadora consegue nos trazer tanto aos anos 60, 80, 90 e 2000 quanto em um futuro longínquo, mas tudo parece ser o mesmo cenário retraduzido para sua época. E, mesmo assim, os cenários passados mantém uma aura ficcional, pela falta de desgaste e pelas cores primárias mais fortes, e mesmo que estejamos vendo a evolução através dos jogos que rodam nos fliperamas -- um toque charmoso ao roteiro -- eles estão sempre no canto do bar, com poucas pessoas em volta e parecem praticamente novos.
-
-Conseguindo também não apenas desenvolver com sucesso seus personagens, mas reintroduzi-los na realidade e fazer-nos acreditar que são suas versões reais (e para isso a atriz Denise Burse presta um grande serviço imitando alguns trejeitos de sua versão mais jovem com sutileza, mas propriedade), e, ainda por cima, conseguem introduzir um grande conflito emocional, não só entre elas, mas para os mais atentos à questão filosófica que está em jogo: mortalidade digna ou imortalidade em um mundo irreal? Porque, no fim das contas, um servidor de humanos irá conter nada menos que um cemitério glorificado, um lugar onde não haverá progresso (pois tudo já foi feito, e os recursos não são escassos), e mesmo que as pessoas se divirtam fingindo que é, as mais espertas saberão que tudo aquilo é em vão, apenas uma fuga niilista. Enfim, a questão é extensa, mas o episódio consegue arranhá-la com sucesso, além de manter as opiniões em aberto (outra grande virtude da série é não decidir nada pelo espectador, mas fazê-lo pensar a respeito).
-
-Enfim, um episódio para degustar quando precisar debater consigo mesmo, além de um ótimo romance futurista que envolve questões muito, mas muito mais profundas que O Homem Bicentenário. E isso em apenas uma hora.
+A história mexe com alguns conceitos fascinantes, mas para mim o maior deles é a mentira. A mentira é imoral porque faz as pessoas serem reféns de uma não-realidade, que precisam proteger a todo custo. No caso do episódio, não podemos relevar a intensidade que as pessoas podem ser autênticas por causa de alguns de seus atos serem crimes (embora sem vítima; portanto, ilegítimos, como pedofilia). Porém, como um caso geral, quem tem algo a esconder não tem o direito de não ter toda sua persona revelada, mas apenas o dever de se proteger. E uma vez revelado, o indivíduo tem uma escolha: ser íntegro a si mesmo e assumir quem é através de seus atos, ou continuar vivendo uma mentira, sendo escravizado pelos outros que o mantém nessa pseudo-realidade em que são obrigados a viver por não serem seres humanos completos.
 

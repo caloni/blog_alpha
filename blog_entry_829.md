@@ -1,18 +1,21 @@
 ---
 categories:
-- cooking
-date: '2022-06-11T20:59:21-03:00'
-tags: []
-title: Canja
+- writting
+date: '2023-01-22T23:56:52-03:00'
+tags:
+- cinemaqui
+- mostratiradentes
+- movies
+title: Canção ao Longe
 ---
 
-Coloquei canja porque pode ser de galinha, que não sei as peculiaridades, mas a minha do dia a dia é de frango. É muito simples: compra um peito de frango. Fatia ele bem fininho. Esquenta a panela de pressão e encosta a superfície das fatias do peito no fundo da panela e deixa tostar um pouco. Se começar a queimar, que é quando após estalos um cheiro ruim chega, é porque passou demais. Antes desse ponto você pode ir jogando água fervente por cima, bem pouco, apenas para não queimar (mesma estratégia para dourar cebola). O objetivo é dar uma cor e extrair um pouco de sabor desse pedaço sem graça do frango.
+Clarissa Campolina, a diretora desta produção mineira supers-simpática, tem uma certa habilidade em enquadrar o cotidiano como um passeio natural pelas casas, as ruas, os prédios, as janelas e as vidas dos personagens de um roteiro que não a merece, embora seja um bom treino para futuros trabalhos.
 
-Depois de tostar todos os pedaços joga o resto da água fervente, tampa a panela e deixa cozinhar um tempo. Pelo menos meia-hora. Não vá queimar. Deixe um timer.
+Acompanhamos essa moça, Jimena, que está com o futuro encaminhado, mas que tem assuntos pendentes com o pai e a mãe. Assuntos de independência. Ela ainda mora com a mãe e a avó ao final de sua faculdade, o que é um caso comum hoje em dia, quando cada vez menos jovens conseguem se virar sozinhos antes dos 30. E seu pai abandonou a família desde quando ela era muito nova. Este também é uma constante na vida de muitas famílias. Sobretudo de pais negros. É até um estereótipo nos EUA pais negros fugirem da responsabilidade dos filhos. E como todo estereótipo revela um fundo de verdade, as estatísticas não mentem.
 
-Agora que você já deixou esfriar o frango desfie ele, com a mão, com o garfo. Não deixe pedaços grandes do frango, ele irá se misturar ao caldo.
+Uso a etnia do pai da personagem como um fator porque o próprio roteiro de Caetano Gotardo, Sara Pinheiro e Campolina usa esta abordagem ao afirmar a opressão racista de uma jovem de pele morena e mãe branca que prefere ficar sem tomar sol e parecer um pouco mais com as mulheres da casa. É este o nível de vergonha que esta jovem bem-sucedida retrata para suas amigas ou para si mesma.
 
-Coloque um pouco de gordura na panela, ligue o fogo e comece a ir colocando a cebola picada, alho, o frango desfiado. Um pouco de coentro (mas não muito) se gostar. Acerte sal e pimenta e jogue açafrão para dar mais cor e se gostar. Deixe uma água quente do lado. Rale uma cenoura, passe um arroz e vá jogando. A quantidade? Tenta fazer o mesmo volume de frango para o arroz (depois de cozido) e a cenoura (crua). Depois de refogar um pouco pode cobrir com água e deixar cozinhar e apurar.
+Esta também é uma daquelas histórias sutis demais do disse-que-não-disse, quando não se fala sobre o motivo desta família ser assim. Não é o foco. A questão primordial é acompanharmos esta jovem rumo à independência de seus pais, mas não apenas financeiro, mas afetivo e simbólico.
 
-Ao final desligue o fogo e jogue um pouco de salsinha picada para a cor. Bom apetite nesse friozinho =)
+Uma pequena poesia leve e serena pelas ruas de Belo Horizonte, Canção ao Longe é uma sessão agradável que revela alguns novos talentos do audiovisual, como sua sensível diretora e sua proeminente atriz, Mônica Maria.
 

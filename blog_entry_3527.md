@@ -1,22 +1,26 @@
 ---
 categories:
 - writting
-date: '2013-11-02'
-link: https://www.imdb.com/title/tt0158983
+date: '2016-11-23'
+link: https://www.imdb.com/title/tt5728684
 tags:
 - movies
-title: 'South Park: Maior, Melhor e Sem Cortes'
+title: Sour Grapes
 ---
 
-Não é nenhuma novidade que [a série South Park] preza pelo irreverente e polêmico em prol da comédia e, principalmente, na análise da estupidez humana (espectadores inclusos). No seu longa-metragem, portanto, nada muda. O diferencial é um frescor de piadas sobre os últimos acontecimentos no mundo que seriam feitas na versão televisiva de uma forma ou outra.
+Este documentário mostra através de uma narrativa fluida e divertida uma das maiores fraudes na história do vinho. Pegando carona com a bolha de 2008, acompanhamos a história de Rudy Kurniawan, um asiático muito simpático que se inseriu na rodinha de velhos colecionadores de vinho e conseguiu ganhar amigos, fama, e muitos, muitos milhões.
 
-Só que o estilo do seriado atira para todos os lados, e atira mais forte na moral americana que combate sexo e palavrões, mas favorece e até incentiva a violência, em um caráter permanentemente pró-bélico. A guerra no Iraque é, portanto, o grande alvo, potencializado pelo fato de Saddam ter sido morto e feito uma aliança de poder, sexo e influência com Satanás.
+No fundo, não há muito o que contar da história em si além da velha sequência de passos que levam pessoas bem-intencionadas a serem enganadas por alguém, como sempre, acima de qualquer suspeita. Dessa maneira, os diretores Reuben Atlas e Jerry Rothwell vão apresentando aos poucos todos os envolvidos na trama, começando pelo produtor de vinhos Laurent Ponsot.
 
-Em uma repetição do tema palavrões versus violência (como quando um garoto foi alvo de críticas por estar pelado e não por estar formando uma gangue armada), os comediantes Terence e Phillip são alvo de críticas por suas piadas de peidos e para isso instaura-se uma guerra contra seu país de origem: o Canadá. O que os americanos não sabem (exceto o espírito de Kenny) é que ao executar os comediantes serão abertos os portões do inferno para um período de trevas bíblico (claro que a religião não ficaria de fora).
+Produtor de vinhos em Borgonha, região tradicionalíssima na França, Ponsot fica intrigado ao descobrir que um de seus vinhos leiloados em Nova York foi acusado como falso. A partir dele acompanhamos a descoberta de um colecionador compulsivo de coisas -- entre elas, vinhos -- que descobre que no meio de sua volumosa adega encontram-se exemplares de vinhos cuja fonte é justamente Rudy Kurniawan.
 
-Desenvolvendo a história através de números musicais - mais uma alfinetada na moral e bons costumes - todos os personagens queridos da série ganham tempo em tela, além de novos e sagazes figuras (como o garoto-guerrilheiro que tem uma rixa pessoal com Deus). É preciso ressaltar dois sucessos inigualáveis "Blame Canada" e "Uncle Fucker", além de um momento inédito onde quatro números musicais são mostrados e cantados na tela ao mesmo tempo.
+Rudy, uma pessoa sempre acompanhada por um de seus melhores amigos, o diretor Jefery Levy, contém um histórico de imagens graças a ele, o que permitiu que os diretores e seu editor, James Scott, compusessem cenas com o colecionador/degustador de vinhos recém-chegado na Califórnia e um popstar por onde passasse. Todos ficavam impressionados com sua "paleta" (a quantidade de vinhos experimentados por ele) e ninguém sabia sua origem. Uma pessoa fácil de lidar, e que justamente por isso traz nos testemunhos de seus amigos um traço de decepção misturado com admiração.
 
-Por tudo isso, "South Park - maior, melhor e sem cortes" é imperdível. Quem perder é um filho da puta fodedor de tios.
+Através do filme, conseguimos acompanhar o processo de falsificação de vinhos e também como funciona esse mercado de colecionadores. Entendemos o crescimento descomunal dos preços e do próprio mercado graças a duas bolhas (o .com e o de 2008), e uma pequena parte impulsionada pelas cada vez maiores vendas de Ruby em um leilão conceituado em Nova York que logo quebra recordes em volume financeiro.
 
-[a série South Park]: {{< relref "south-park" >}}
+É interessante notar como nesse mercado, uma fraude é sequer vista e acompanhada, e os culpados raramente serão descobertos ou sentenciados, já que as vítimas preferem acreditar na mentira da autenticidade de sua adega a ter que abrir os olhos para a realidade. E não se trata apenas de dinheiro, já que para a maioria esse é apenas um detalhe (como o próprio Rudy diz em certo momento).
+
+Aliás, é muito engenhosa a criação da narrativa em Sour Grapes, já que Rudy faz parte da maioria dos momentos, sendo que ele sequer respondeu ao pedido de entrevista dos produtores. Várias de suas frases são utilizadas de maneira criativa para pontuar o que está sendo dito por seus ex-amigos e pelos especialistas que vão à caça da verdade. Além disso, as somas vultosas das operações se tornam cada vez mais inacreditáveis conforme a história avança, e as investigações se tornam realmente empolgantes quando vai sendo descoberta a origem de Rudy e sua família.
+
+Por fim, fica a pesada lição de moral: se mexer com homens ricos, é bem capaz que sua pena seja maior do que a de alguns assassinos.
 

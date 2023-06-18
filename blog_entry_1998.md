@@ -1,13 +1,17 @@
 ---
 categories:
 - writting
-date: '2021-06-20T10:20:00-03:00'
+date: '2021-07-31T22:34:02-03:00'
 tags:
 - movies
 title: Jumanji
 ---
 
-## Versão Nintendo
+O filme original com Robin Williams tem a cara de um projeto comercial família que pega a onda das primeiras invencionices da década de 90 com computação digital. Também apresenta uma Kirsten Dunst surpreendentemente jovem se comparada à sua aparição no primeiro Homem Aranha de Sam Raimi.
 
-The Rock poderia estar um pouquinho mais inspirado, mas quem se empolga com material requentado? Este é em remake/continuação sem a menor criatividade, trocando o jogo de tabuleiro que tornou John Williams uma paródia para o hoje velho e empoeirado vídeo-game de cartucho. Há um jogador preso há 20 anos nessa realidade fantástica, embora sua carisma seja de um NPC, e esses garotos millennials são sugados para dentro da mesma selva para resolver suas vidas e seus casos. Dois nerds que viram ídolos corporais e dois sex appeals do colégio que viram dois gordinhos nada sensuais ou sequer engraçados. Essa troca de papéis não é usada muitas vezes porque hoje é feio, então a história fica mais ou menos a mesma. Há comentários verbais sobre alguma mensagem bonita do filme, mas a única coisa que você vai se lembrar é que em uma época onde todas as aventuras que saem no cinema lembram games modernos sem riscos ou desafios, apenas fases, este filme tenta ser tão ruim quanto um vídeo-game com roteiro fraco. E consegue.
+O roteiro é farofa de família e consome tempo e paciência do espectador hoje em dia, mas na época que coloquei essa fita VHS no videocassete também estava impaciente até ver os grandes efeitos que criaram para a aventura do jogo de tabuleiro que traz criaturas da floresta para a fauna urbana decadente.
+
+Quando você vê os macacos que eles criaram e o leão, é de morrer de dó. O filme envelheceu muito mal. Williams está no piloto automático com sua cara de pau carismática. Ele veste seus personagens como quem veste uma jaqueta para uma saída rápida à padaria na esquina. Não encontramos um centro emocional no filme, apenas caricaturas moldadas rapidamente para enfiar as destruições em massa das magias do tabuleiro.
+
+Quando a coisa começa a engatar o roteiro nos puxa de volta para o tédio. O reencontro do personagem de Williams com seu severo pai é galhofa no ponto de vomitar. A criança que eu era quando assisti isso pela primeira vez não percebeu e nem tinha problemas de carência afetiva com os pais, mas o adulto que hoje lhe escreve entende que este já era um filme insuportável na sua geração de adultos, e agora é insuportável e velho.
 

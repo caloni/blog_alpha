@@ -1,22 +1,193 @@
 ---
 categories:
 - coding
-date: '2020-04-05'
-link: https://gist.github.com/Caloni/fd22d49ad7e9c046120d98876c8cad38
-title: Code Jam 2020
+date: 2019-04-07 15:00:26-03:00
+desc: Como fiz os dois primeiros exercídios do início do Code Jam
+tags: null
+title: Code Jam 2019 Qualification Round
 ---
 
-O Code Jam esse ano terminou rápido para mim. Estou enferrujado? Nem tanto. Apenas dei menos atenção ao evento no seu início, mas apesar de me concentrar nas últimas 11 horas não tive um resultado satisfatório, obtendo 24 pontos ao total, o que não me dá direito para o torneio, que exige pelo menos 30.
+Estou viajando e com poucas horas de acesso a um computador, mas os dois primeiros desafios do Code Jam esse ano foram tão simples que sequer precisaram de meia-hora. Isso para um chinês, campeões em campeonatos de programação, deve ser equivalente a cinco minutos com um código C enxuto. Mas estou apenas aprendendo.
 
-Minha abordagem no primeiro problema foi o feijão com arroz de ir lendo os valores e verificando para cada novo elemento da linha se havia repetição nos valores já lidos da mesma linha. Eu me compliquei na hora de fazer a mesma coisa para as colunas, pois inseri essa checagem dentro do loop da linha, evitando, assim, sempre a última coluna. Foi a parte que mais perdi tempo útil de todo o torneio (não li todos os exercícios antes).
+## Foreground Solution
 
-O segundo problema foi o mais simples de todos para mim. Entendendo o enunciado, em que o título dá uma dica valiosa sobre o comportamento do algoritmo (aninhado), foi só usar a mesma lógica que nós programadores usamos na hora de aninhar parênteses.
+**Resuminho**: o problema é receber um número e retornar dois números cuja soma seja igual ao primeiro. A única restrição é que nesses números não poderá ter o algarismo quatro.
 
-O terceiro exercício me parecia fácil no começo. Desenhei na minha janela um esboço da ideia inicial, que era manter um registro de todos os minutos de um dia e a cada nova tarefa popular cada minuto. Meu erro principal foi não considerar que todos os minutos de uma tarefa devem estar sob a responsabilidade de apenas uma pessoa. Corrigido isso, meu código passou nos poucos testes disponíveis no problema, mas não passou na hora de submeter. Estou sem saber até agora o que fiz de errado.
+**Solução**: copiar como string o número para o primeiro deles e colocar zero no segundo; sempre que houver a incidência do caractere '4' trocar por '3' no primeiro número e '1' no segundo (ou a soma que lhe convier).
 
-E, por fim, o último foi o mais divertido porque envolveu mexer em ambiente. O script iterativo do Google não funcionou direito no Windows, mas depois de uns testes no WSL percebi que o erro mesmo é não dar flush nos printf do meu lado. Sempre haverá problemas de buffer em stdin/stdout.
+```
+#include <iostream>
+#include <string>
 
-De qualquer forma, não consegui resolver mais do que 10 bits. Já estava ficando tarde e eu me perdi em digressões de como tornar o código maleável para adivinhar mais que duas viradas quânticas. Deixei esse código experimental de lado e fui ler o próximo.
+using namespace std;
 
-Apenas li o enunciado. Ele falava sobre o quadrado latino, assim como o problema original. E como tive dores de cabeça por causa desse primeiro exercício, e faltava apenas uma hora e meia para terminar a prova, dei por satisfeito mais um ano brincando de programar.
+void calc(string& N, string& A, string& B)
+{
+  for( size_t i = 0; i < N.size(); ++ i)
+  {
+    if( N[i] == '4' )
+    {
+      A.push_back('3');
+      B.push_back('1');
+    }
+    else
+    {
+      A.push_back(N[i]);
+      B.push_back('0');
+    }
+  }
+}
+
+int main()
+{
+  int T;
+  cin >> T;
+  for( int i = 0; i < T; ++ i)
+  {
+    string N;
+    cin >> N;
+    string A, B;
+    calc(N, A, B);
+    cout << "Case #" << i+1 << ": " << stoi(A) << " " << stoi(B) << endl;
+  }   
+}
+```
+
+## You can go your own way
+
+**Resuminho**: tem que atravessar um labirinto formado por quadrados de N x N começando acima à esquerda saindo abaixo na direita. Enviar uma string com os comandos E ou S (East/South) para sair do labirinto. A pegadinha é não repetir nenhum dos comandos de uma garota que resolveu o labirinto antes.
+
+**Solução**: essa pegadinha é o que ironicamente resolve o problema, pois basta inverter os comandos S e E da string recebida como o caminho da garota e ele nunca se repete e sai do mesmo jeito, pois é o labirinto mais fácil do mundo.
+
+```
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+void calc(string& P)
+{
+  for( size_t i = 0; i < P.size(); ++ i)
+  {
+      P[i] = P[i] == 'S' ? 'E' : 'S';
+  }
+}
+
+int main()
+{
+  int T;
+  cin >> T;
+  for( int i = 0; i < T; ++ i)
+  {
+    string N, P;
+    cin >> N >> P;
+    calc(P);
+    cout << "Case #" << i+1 << ": " << P << endl;
+  }   
+}
+```
+
+## Cryptopangrams (failed)
+
+**Resuminho**: encontrar quais números primos são usados como letras do alfabeto baseado em uma sequência em que o primeiro número é a multiplicação do primo da primeira letra pela segunda, o segundo número é a multiplicação da segunda pela terceira e assim por diante.
+
+**Solução**: tentei fazer na força bruta criando o dicionário de primos usado procurando o resto zero das divisões dos números e depois já com o alfabeto montado reproduzir as reproduções. Apesar do sample funcionar devo ter perdido pelo tempo ou um erro que não descobri.
+
+```
+#include <iostream>
+#include <map>
+#include <string>
+#include <vector>
+
+using namespace std;
+
+void calc(int N, vector<int>&LS, string& LSS)
+{
+    map<int, char> alpha;
+    int first1 = 0, first2 = 0;
+
+    for( int l: LS )
+    {
+        int na = 0;
+
+        for( auto a: alpha)
+        {
+            if( l % a.first == 0 )
+            {
+                na = l / a.first;
+                break;
+            }
+        }
+
+        if( na )
+        {
+            alpha[na] = ' ';
+            continue;
+        }
+
+        for( size_t i = 2; i < N; ++i )
+        {
+            if( l % i == 0 )
+            {
+                int na1 = l / i;
+                int na2 = i;
+                if( first1 == 0 )
+                {
+                    first1 = na1;
+                    first2 = na2;
+                }
+                alpha[na1] = ' ';
+                alpha[na2] = ' ';
+                break;
+            }
+        }
+    }
+
+    const char Alphabet[] = { 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 
+    'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 
+    'W', 'X', 'Y', 'Z' };
+
+    size_t pos = 0;
+    for( auto& a: alpha )
+        a.second = Alphabet[pos++];
+
+    int first = LS[1] % first1 == 0 ? first2 : first1;
+    LSS.push_back(alpha[first]);
+
+    for( int i: LS )
+    {
+        int second = i / first;
+        char c = alpha[second];
+        LSS.push_back(c);
+        first = second;
+    }
+}
+
+int main()
+{
+    int T;
+    cin >> T;
+    for( int i = 0; i < T; ++i)
+    {
+        vector<int> LS;
+        int N, L;
+        cin >> N >> L;
+        int l;
+        for( int n = 0; n < L; ++ n)
+        {
+            cin >> l;
+            LS.push_back(l);
+        }
+        string LSS;
+        calc(N, LS, LSS);
+        cout << "Case #" << i+1 << ": " << LSS << endl;
+    }
+}   
+```
+
+## Dat Bae
+
+**Resuminho**: descobrir quais bits não estão sendo retornados em um echo (ex: manda-se '1010' e recebe '010') com um limite de envios para o servidor (este é um problema interativo).
+
+**Solução**: imaginei dividir o envio pelo número de blocos defeituosos para alternar os 0s e 1s e assim ir dividindo pela metade de acordo com as respostas até ter as posições que não estão retornando. Não cheguei a terminar o código, mas a ideia geral era que como o limite de blocos defeituosos era de 15 ou N-1 (N é o número de bits) e o máximo de chutes é 5, imaginei que a divisão de 2 elevado a 5 fosse o limite da solução.
 

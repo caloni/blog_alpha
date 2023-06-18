@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-06-25'
+date: '2015-02-08'
 tags:
-- wine
-title: Portillo Pinot Noir 2016
+- food
+title: Portillo Malbec Salentein
 ---
 
-O Pinot Noir da Salentein parece suquinho acompanhado de comida (estrogonofe que a Mitiko fez), mas tomando sozinho tem um leve azedo com leves aromas de um rosé (apesar de ser tinto). Fácil de beber e um perigo.
+A garrafa trazida da Argentina tem um gostinho mais especial por ser tão barata. Mas é o mesmo frutado, pouco alcoólico e tradicional malbec que combina com uma fraldinha suculenta.
 

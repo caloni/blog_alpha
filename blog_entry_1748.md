@@ -1,147 +1,52 @@
 ---
 
-Alguns conceitos-chave antes de trabalhar com o Bazaar são:
+O primeiro passo para se passar no Teste do Joel é possuir algum tipo de controle de código. E ele está mais do que certo. Não existe nada mais frustrante do que não ter exatamente o código-fonte da versão que está rodando no cliente ou não saber o que mudou desde que a versão foi entregue. Esse tipo de coisa pode acabar com uma empresa ou fazer com que ela fique muito mal vista no mercado.
 
- - Revision (Revisão). Um snapshot dos arquivos que você está trabalhando.
- - Working Tree (Árvore de Trabalho). Um diretório contendo seus arquivos controlados por versão e subdiretórios.
- - Branch (Ramificação). Um grupo ordenado de revisões que descreve o histórico de um grupo de arquivos.
- - Repository (Repositório). Um depósito de revisões.
+Porém, independente do mercado, existe um bom motivo para o desenvolvedor possuir algum tipo de controle de código: controle. Se você ou sua equipe não conseguem corrigir todos os bugs, pelo menos saberão o que já foi feito. Se você achou um bug que não existia antes da versão 10, o histórico das mudanças entre a versão estável 9 e a versão não-tão-estável 10 vai te dar uma pista muito boa de onde o problema pode ter sido gerado. Visto dessa forma, não importa muito o tamanho da equipe ou da organização. O importante de um bom código é que suas mudanças estejam sempre registradas, visíveis e disponíveis a qualquer um.
 
-Agora vamos brincar um pouco com os conceitos.
+Um controle de código para uma pessoa só não precisa ser nada muito sofisticado, sendo que um amontoado de ZIPs pode dar conta do recado. Porém, a partir do momento em que o número de desenvolvedores aumenta para dois ou mais, aí o controle baseado em ZIPs começa a ruir, e é necessário usar uma ferramenta mais apropriada. Existem algumas opções, que vai do gosto e necessidades de cada um:
 
-O uso mais simples que existe no Bazaar é o controle de uma pasta sozinha, conhecida como uma Standalone Tree. Como toda Working Tree, ela possui um repositório relacionado, que no caso está dentro dela mesmo, na pasta oculta ".bzr".
+ - Visual Source Safe ou VSS não é gratuito nem robusto o suficiente para agüentar toneladas de código-fonte, mas vem junto do Visual Studio e pode ser apropriado para empresas de porte pequeno ou médio (e empresas de um programador só).
 
-Pra criar uma Standalone Tree, tudo que precisamos é usar o comando init de dentro da pasta a ser controlada, quando é criado um repositório local. Adicionamos arquivos para o repositório com o comando add, e finalizamos nossa primeira versão com o comando commit.
+ - Concurrent Version System ou CVS é um sistema fonte aberto, gratuito e robusto. Suficiente para agüentar toneladas de código-fonte e equipes de vários andares. Atualmente está sendo substituído gradualmente pelo
 
-    C:\Tests>cd project1
-    
-    C:\Tests\project1>bzr init
-    
-    C:\Tests\project1>bzr add
-    added AUTHORS
-    added COPYING
-    added COPYRIGHT
-    added ChangeLog
-    added ChangeLog.2
-    added FAQ
-    ...
-    added winboard/extends/infboard/main.c
-    added winboard/extends/infboard/msvc.mak
-    added winboard/extends/infboard/support.c
-    
-    C:\Tests\project1>bzr commit -m "Comentario sobre a revisao"
-    Committing to: C:/Tests/project1/
-    added AUTHORS
-    added COPYING
-    added COPYRIGHT
-    added ChangeLog
-    added ChangeLog.2
-    added FAQ
-    ...
-    added winboard/extends/infboard/main.c
-    added winboard/extends/infboard/msvc.mak
-    added winboard/extends/infboard/support.c
-    Committed revision 1.
-    
-    C:\Tests\project1>
+ - Subversion ou SVN, um substituto moderno do antigo CVS; igualmente gratuito e poderoso, está rapidamente se tornando a opção predominante.
 
-Feito. A partir daí temos um repositório onde podemos realizar o comando commit sempre que quisermos marcar um snapshot em nosso código-fonte.
+Vou explicar aqui os principais passos para começar a utilizar um controle de código usando como exemplo o Source Safe versão 2005 que, apesar de não ser gratuito, é muito usado em empresas que programam para Windows e já utilizam o Visual Studio há muito tempo.
 
-Se quisermos fazer uma alteração muito grande em nosso pequeno projeto seria melhor termos outro diretório onde trabalhar antes de realizar o commit na versão estável. Para isso podemos usar o comando branch, que cria uma nova pasta com todo o histórico da pasta inicial até esse ponto. Os históricos em um branch estão duplicados em ambas as pastas, e portanto são independentes. Você pode apagar a pasta original ou a secundária que terá o backup inteiro no novo branch.
+Antes de qualquer coisa é necessário criar uma base de dados onde estarão os fontes. Para isso a primeira execução do programa irá exibir um assistente que irá guiá-lo pelos poucos e simples passos para a criação de uma nova base.
 
-    C:\Tests\project1>cd ..
-    
-    C:\Tests>bzr branch project1 project1-changing
-    Branched 1 revision(s).
-    
-    C:\Tests>cd project1-changing
-    
-    C:\Tests\project1-changing>
+O processo é bem simples, baseado em Next, Next, até que você chega em momento de decisão, onde deve escolher qual dos dois métodos de controle de fonte irá utilizar:
+	
+ - Lock-Modify-Unlock Model. O modelo clássico do Source Safe, permite que apenas um programador altere um fonte de cada vez. Se você é novo nesse negócio de controle de fonte, recomendo essa opção, que é a mais indolor. Em equipes pequenas costuma funcionar. E esse é o modelo que iremos utilizar aqui.
 
-Criar um novo branch totalmente duplicado pode se tornar um desperdício enorme de espaço em disco (e tempo). Para isso foi criado o conceito de Shared Repository, que basicamente é um diretório acima dos branchs que trata de organizar as revisões em apenas um só lugar, com a vantagem de otimizar o espaço. Nesse caso, antes de criar o projeto, poderíamos usar o comando init-repo na pasta mãe de nosso projeto, e depois continuar com o processo de init dentro da pasta do projeto.
+ - Copy-Modify-Merge Model. Esse novo modelo segue o princípio do CVS e do Subversion. Nele todos podem alterar ao mesmo tempo qualquer código-fonte. Porém, na hora de subir as modificações de volta para a base é necessário um passo intermediário conhecido como merge. É onde são resolvidos conflitos, caso algum desenvolvedor tenha feito modificações no mesmo local que você. Geralmente é escolhida uma ou mais pessoas para gerenciar essa parte do processo. Esse modelo tem funcionado bastante em projetos de fonte aberto e de empresas grandes.
 
-    C:\>bzr init-repo Tests
-    
-    C:\>cd Tests
-    
-    C:\Tests>bzr init project1
+Agora que a base está criada, o próximo passo é torná-la disponível a todos. A maneira mais fácil de fazer isso é criando um compartilhamento na rede (de preferência oculto) e divulgando às pessoas interessadas. É claro que você, como bom administrador, irá ter que criar os usuários que irão acessar a base.
 
-    C:\Tests>cd project1
+Após esse processo de integração, os usuários podem começar a usar o Source Safe através da primeira opção do início do assistente (Database Selection).
 
-    C:\Tests\project1>bzr add
-    added AUTHORS
-    added COPYING
-    added COPYRIGHT
-    added ChangeLog
-    added ChangeLog.2
-    added FAQ
-    ...
-    added winboard/extends/infboard/main.c
-    added winboard/extends/infboard/msvc.mak
-    added winboard/extends/infboard/support.c
-    
-    C:\Tests\project1>bzr commit -m "Comentario sobre a revisao"
-    Committing to: C:/Tests/project1/
-    added AUTHORS
-    added COPYING
-    added COPYRIGHT
-    added ChangeLog
-    added ChangeLog.2
-    added FAQ
-    ...
-    added winboard/extends/infboard/main.c
-    added winboard/extends/infboard/msvc.mak
-    added winboard/extends/infboard/support.c
-    Committed revision 1.
+Antes de começar a mexer nos fontes, o Source Safe pede que você defina um diretório raiz onde começa a ramificação de pastas dos seus fontes. Isso pode ser feito pela opção File, Set Working Folder (Ctrl + D). A partir daí, cada pasta é chamada de projeto (project) no Source Safe. Para criar novos projetos/pastas, use a opção "File, Create Project". Para adicionar novos arquivos, "File, Add Files". Cada usuário pode definir seu próprio diretório de trabalho por máquina, mas geralmente é uma boa idéia mantê-los todos utilizando a mesma pasta.
 
-    C:\Tests\project1>
+Após adicionar os arquivos do projeto, é possível fazer modificações usando a opção check-out. O check-out quer dizer que os fontes saem (OUT) da base e são copiados com direito de escrita para seu disco local. Após feitas as modificações, usa-se a opção check-in para subir as modificações para o banco. O check-in quer dizer que as modificações feitas no disco local entram (IN) na base. Cada operação feita com esses dois passos é armazenada no histórico do Source Safe, e podem ser utilizadas para voltar versões antigas, comparar versões antigas novas, etc.
 
-Se compararmos o tamanho, veremos que o repositório compartilhado é que detém a maior parte dos arquivos, enquanto agora o ".bzr" que está na pasta do projeto possui apenas dados de controle. A mesma coisa irá acontecer com qualquer branch criado dentro da pasta de repositório compartilhado.
+Quando todos os fontes que subirem constituirem uma alteração madura, compilável, testada pelo desenvolvedor e pronta para ser repassada para os testadores, deve-se criar um rótulo, ou label, para que futuramente essa versão possa ser facilmente identificada entre os milhões de modificações de fonte que sua equipe irá fazer ao longo do tempo. Se essa versão se tornar uma "entregável", pode-se utilizar o rótulo para obter exatamente a versão entregue a qualquer momento, independente de quantas modificações terem sido feitas depois. Essa marcação de fontes pode ser muito útil na ocorrência de incêndios, e todos sabemos que eles ocorrem com mais freqüência do que gostaríamos. Por isso é importante estar preparado.
 
-Mas já criamos nossos dois branches cheios de arquivos, certo? Certo. Como já fizemos isso, devemos criar uma nova pasta como repositório compartilhado e criar dois novos branches dentro dessa pasta, cópias dos dois branches gordinhos:
+Se você chegou até aqui, quer dizer que está realmente interessado em controlar seus fontes. Parabéns! O controle de fontes vem com algumas vantagens. Vamos supor que já exista uma versão estável no Source Safe e você precisa fazer alguma correção/teste como prova de conceito. Esse tipo de fonte normalmente seria descartável, mas agora que você possui uma ferramenta de controle de fonte funcionando, isso não é necessário.
 
-    C:\Tests>bzr init-repo project1-repo
-    
-    C:\Tests>bzr branch project1 project1-repo\project1
-    Branched 1 revision(s).
-    
-    C:\Tests>bzr branch project1-changing project1-repo\project-changing
-    Branched 1 revision(s).
-    
-    C:\Tests>
+Se é necessário desenvolver uma prova de conceito, pode-se optar por criar uma ramificação do fonte, ou branch. Essa opção cria um novo projeto no Source Safe com fontes existentes, mantém o histórico de modificações, mas gera uma nova linha de vida do fonte. Qualquer modificação feita em um branch fica nesse branch, seja o principal ou secundário. É possível também no futuro juntar dois branchs.
 
-Isso irá recriar esses dois branches como os originais, mas com a metade do espaço em disco, pois seus históricos estarão compartilhados na pasta project1-repo.
+Agora, se a modificação é um simples teste durante a depuração, pode ser feito o check-out para modificações temporárias. Se mais tarde for decidido que as modificações não serão efetuadas na base, basta executar a opção undo check-out, que volta o fonte da base para o disco local e mantém a versão intacta. Use essa opção com cuidado, pois quaisquer modificações no disco local serão perdidas.
 
-O SubVersion é um sistema de controle centralizado. O Bazaar consegue se comportar exatamente como o SubVersion, além de permitir carregar o histórico inteiro consigo. Quem decide como usá-lo é apenas você, pois cada usuário do sistema tem a liberdade de escolher a melhor maneira.
+Agora que os fontes estão vivendo tranqüilamente no controle de fontes, é possível executar builds automatizados de tempos em tempos. Isso garante a estabilidade do seu projeto, pois junto dos builds é possível fazer testes, tanto da compilação em si quanto depois de compilado.
 
-Os comandos para usar o Bazaar à SubVersion são os mesmos do SubVersion: checkout e commit. No entanto, um checkout irá fazer com que seu commit crie a nova revisão primeiro no seu servidor (branch principal) e depois localmente. Se você não deseja criar um histórico inteiro localmente, pode criar um checkout leve (parâmetro --lightweight), que apenas contém arquivos de controle. No entanto, se o servidor de fontes não estiver disponível, você não será capaz de ações que dependam dele, como ver o histórico ou fazer commits.
+O Source Safe possui uma ferramenta em linha de comando que faz as mesmas operações que a versão gráfica, além de possuir uma série de interfaces COM que podem ser usadas para interagir com o controle de fontes através de scripts. Além de outras ferramentas de automação de builds que podem ser integradas, como o NAnt e o CruiseControl.
 
-    C:\Tests\client>bzr checkout ..\server\project1
-    
-    C:\Tests\client>cd project1
-    
-    C:\Tests\client\project1>echo "New changes" >> FAQ
-    
-    C:\Tests\client\project1>bzr commit -m "New changes comment"
-    Committing to: C:/Tests/server/project1/
-    modified FAQ
-    Committed revision 2.
-    
-    C:\Tests\client\project1>bzr log -l 1 ..\..\server\project1
-    ------------------------------------------------------------
-    revno: 2
-    committer: Wanderley Caloni <wanderley@caloni.com.br>
-    branch nick: project1
-    timestamp: Sun 2008-06-08 19:52:17 -0300
-    message:
-      New changes comment
-    
-    C:\Tests\client\project1>
-
-Na verdade, o Bazaar vai além, e permite que um branch/checkout específico seja conectado e desconectado em qualquer repositório válido. Para isso são usados os comandos bind e unbind. Um branch conectado faz commits remotos e locais, enquanto um branch unbinded faz commits apenas locais. É possível mudar esse comportamento com o parâmetro --local, e atualizar o branch local com o comando update.
+O resumo da ópera é: cuide bem dos seus fontes. Muito trabalho, tempo e dinheiro são despendidos com desenvolvimento. Não cuidar do resultado de tudo isso é como botar fogo no estoque de uma fábrica.
 
 ---
 categories:
 - coding
-date: '2007-10-22'
-title: Guia básico para programadores de primeiro breakpoint
+date: '2008-06-10'
+tags: null
+title: Guia básico de repositórios no Bazaar

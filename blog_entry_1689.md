@@ -1,54 +1,55 @@
 ---
 categories:
 - coding
-date: '2020-08-04'
-tags:
-- ccpp
-title: GetArgs v. Array
+date: 2018-08-30 14:41:33-03:00
+tags: null
+title: 'GetArg: the ultimate badass argv/argc parser'
 ---
 
-Algumas pessoas ficam chateadas quando não se programa usando Boost para tudo. E por isso eu continuo escrevendo código simples e funcional para meu blogue. Esse código vai continuar funcionando por mais cem anos e o código da Boost vai explodir antes que seus filhos nasçam.
+Sim, eu acho que já resumi o suficiente meu parseador de argv/argc no meu [último artigo sobre o tema]. Sim, eu também acho que a [versão com STL] bonitinha (mas ordinária). A questão agora não são as dependências, mas o uso no dia-a-dia: precisa ter o argc nessa equação?
 
-    /** Interpreta argumentos 
-      da linha de comando 
-      com suporte a arrays.
+A resposta é não. Pois, como sabemos, o padrão C/C++ nos informa que o argv é um array de ponteiros de strings C que termina em nulo. Sabemos que ele termina, então o argc é apenas um helper para sabermos de antemão onde ele termina. Mas quando precisamos, por exemplo, passar o argv/argc para uma thread Windows, que aceita apenas um argumento mágico, talvez minha versão antiga não seja tão eficaz, pois isso vai exibir que eu aloque memória de um struct que contenha ambas as variáveis, etc. Por que não simplesmente utilizar apenas o argv?
 
-    @author Caloni
-    @date 2020-08
-    */
-    #include <stdlib.h>
-    #include <string.h>
-    
-    const char** GetArgArray(
-      char* argv[], const char* arg)
+{{< image src="asi80x3.png" caption="" >}}
+
+```
+#include <string.h>
+#include <stdio.h>
+
+/** Interpreta argumentos da linha de comando (versão raiz truzona).
+
+@author Wanderley Caloni <wanderley.caloni@bitforge.com.br>
+@date 2018-08
+*/
+const char* GetArg(char* argv[], const char* arg)
+{
+    while( *++argv )
     {
-    	char** ret = NULL;
-    	size_t cur_off = 0;
-    
-    	while (*++argv)
-    	{
-    		if (strcmp(*argv, arg) == 0)
-    		{
-    			if (*(argv + 1))
-    			{
-    				char* new_arg = *(argv + 1);
-    				ret = 
-              (char**)
-              realloc(ret, (cur_off + 2) 
-                * sizeof(char*));
-    				ret[cur_off++] = new_arg;
-    				ret[cur_off] = NULL;
-    			}
-    		}
-    	}
-    
-    	return (const char**)
-        ret;
+        if( strcmp(*argv, arg) == 0 )
+        {
+            if( *(argv+1) )
+                return *(argv+1);
+            else
+                return "";
+        }
     }
+    return NULL;
+}
 
-Esta versão do meu famigerado parser de argumentos vindos do argc e argv atende uma necessidade que tive recentemente em um projeto de teste: obter um array de argumento. Um array de argumentos é o mesmo argumento repetido n vezes se transformando em um array para ser consumido como tal. Para essa versão será necessário uma segunda função, especializada, que faça o serviço.
+int main(int argc, char* argv[])
+{
+    printf("Type enter to start...");
+    getchar();
 
-Alterei meu código mágico, simples e rápido para parsear linha de comando em C para suportar arrays. Na correria do projeto foi algo igualmente simples e rápido, embora com alguns truques interessantes de se aprender sobre libc. Basicamente o que ele faz é varrer o array argv construindo seu próprio filtrado apenas com os argumentos que interessam. Ele aloca e realoca a memória para esse array de ponteiros para char usando a função padrão realloc, que consegue fazer a alocação inicial e realocações mantendo o conteúdo da memória original.
+    if( GetArg(argv, "--debug") )
+        printf("Waiting for debugger...\n");
+    if( const char* command = GetArg(argv, "--command") )
+        printf("Command %s received\n", command);
+}
+```
 
-Durante o laço é mantido um offset que é incrementado a cada novo argumento. Caso não exista nenhum argumento o retorno será NULL. O aprendizado de libc aqui fica por conta do uso do realloc para simplificar realocação, algo que C++ não possui até hoje (se você quiser fazer as coisas apenas no modo C++ com new e delete) e que depende de abstrações da STL como containers para fazê-lo.
+Nessa versão elminamos a necessidade do argc e de brinde ganhamos a possibilidade de usar um único ponteiro como start de um parseamento de argumentos.
+
+[último artigo sobre o tema]: {{< relref "meu-novo-parseador-de-argc-argv" >}}
+[versão com STL]: {{< relref "como-parsear-argc-argv-para-um-map-stl" >}}
 

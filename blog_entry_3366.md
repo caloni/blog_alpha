@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-08-13'
+date: '2017-08-10'
 tags:
-- wine
-title: Santa Helena
+- food
+title: Santa Ana Seleccion 2016
 ---
 
-O Santa Helena Reservado Malbec 2016 do mercado aqui perto de casa não está tão caro, mas para um Malbec relativamente recente ele está queimado. Seu gosto é agradável, mas seu aroma de frutas já se foi há tempos. O Malbec 2016 Santa Helena do mercadinho precisa respirar, pois é muito alcoólico. Mas depois disso vira um ótimo custo/benefício. Corpo médio pra forte com frutado e tanino médios, este Malbec cai bem para degustações leves.
+Sem ano, sem uva, de Mendoça/Argentina; Sem muito aroma ou sabor, custa 12 reais no mercado; corpo fraco. Tomando porque a Mitiko comprou pra fazer bebida doce.
 

@@ -1,20 +1,37 @@
 ---
 categories:
 - writting
-date: '2012-12-12'
-link: https://www.imdb.com/title/tt1764234
+date: '2012-12-17'
+link: https://www.imdb.com/title/tt0903624
 tags:
 - movies
-title: O Homem da Máfia
+title: 'O Hobbit: Uma Jornada Inesperada'
 ---
 
-Esse é um ótimo filme sobre as ações e decisões de um grupo de mafiosos a respeito do destino do seu negócio de jogatina. Basicamente o que se coloca em jogo é a confiança dos donos dessas casas depois que um deles, Markie Trattman (Ray Liotta), rouba seu próprio negócio. O que o torna um filme excepcional é que essa manutenção da confiança no sistema ilegal de jogos de azar traça um paralelo direto com a crise econômica nos Estados Unidos iniciada em 2007 e que até hoje ecoa pelas casas vazias e massas de desempregados cheios de dívidas. A confiança no sistema financeiro também foi abalada naquele momento e algo teve que ser feito.
+Baseado no romance de 310 páginas escrito por J. R. R. Tolkien, conhecido aqui no Brasil como O Hobbit - Lá e de Volta Outra Vez, e dirigido por Peter Jackson (trilogia Senhor dos Anéis), a história do pequeno hobbit em sua jornada na companhia de 13 anões e um mago foi dividida em três filmes. Esse texto diz respeito ao primeiro deles, "Uma Jornada Inesperada".
 
-O que o governo fez e faz para resolver o rombo em suas estruturas é o tema-recheio que se expande através dos olhos aguçados do roteirista Andrew Dominik, baseado no romance de George V. Higgins. No entanto, o que é mais impressionante é que o romance de Higgins, Cogan's Trade, foi publicado em 1974, e o que resta hoje são os vários diálogos que fazem parte de capítulos inteiros do livro, que preferem ruminar sobre a psicologia dos seus criminosos do que a ação em si.
+A introdução que conta a história da montanha habitada por anões e que é subitamente atacada por um gigantesco dragão (Smaug) é sucinta e não desperta o mesmo fervor da fábula épica iniciada em Senhor dos Anéis - A Sociedade do Anel. Da mesma forma a solução apresentada pelo roteiro escrito a oito mãos (!) para que o jovem Bilbo Bolseiro (Martin Freeman, [Sherlock]) participe da empreitada junto com os anões que decidiram reconquistar sua terra soa desproporcional à sua vontade de viver uma aventura. Isso por si só enfraquece toda a premissa. (E depois que este quinto hobbit aceita sair do conforto do seu condado para viver agruras na inóspita Terra Média, começo a duvidar do caráter caseiro dessas curiosas criaturas.)
 
-Nesse sentido, o plot do livro cai como uma luva. Utilizando o som de rádios e televisões que sintonizam a voz do na época senador Barack Obama e o presidente George W. Bush, as decisões políticas entrecortam os diálogos dos criminosos no filme. As cenas de ação são poucas, mas possuem uma intensidade incrível, além de um prazer estético que flertam com o Tarantinesco, só que com muito mais profundidade. Destaco dois: a longa sequência sem cortes de entrada e saída da casa de jogos, cuja tensão final é hipnotizante; o assasinato dentro do carro, cujas balas acompanham o movimento da música.
+Mesmo assim, "O hobbit" ganha forma através não de Bilbo, mas do mago Gandalf (Ian McKellen), que aqui mexe muito mais com o destino de seus companheiro do que na jornada anterior, chegando a sugerir ações futuras para dois deles. Sempre simpático e hábil em lidar com as criaturas do universo criado por Tolkien, é o único personagem que consegue surpreender sem exagerar.
 
-No entanto, mesmo que as cenas de ação mereçam um destaque são os diálogos que prendem a atenção pelas atuações sempre interessantes de todo o elenco, sempre parecendo ter algo mais a dizer. Brad Pitt como o frio e calculista Jackie mata a pau no início e no fim, mas o diálogo que ele tem com Frankie no bar a respeito dele ter opções é um momento icônico para a trama justamente pela expressão na cara de Scoot McNairy. E mesmo o insuportável Mickey (James Gandolfini) é uma caricatura construída exatamente para se tornar insuportável aos nossos olhos, para que nós mesmo percebamos que ele não é o cara certo para o serviço. E se Ray Liotta faz aqui uma participação mega-especial como o dono de jogatina Markie Trattman, e cujo caráter do personagem faz eco com seu personagem em [Os Bons Companheiros], a cereja do bolo é mesmo Ben Mendelsohn, que faz um Russell estúpido e crível, e cujas cenas onde está chapado servem tanto como exercício estilístico, como a bela transição entre a fumaça e as lanternas do carro, quanto como mais uma caracterização metafórica que deixa em aberto quais são os papéis dessas pessoas na jogatina profissional e os senhores que a controlam: respectivamente a bolsa de valores e o sistema financeiro/político americano.
+E se a música-tema cantada pelos anões na noite em que se reúnem pela primeira vez é encantadora, já não é tanto a atitude de Jackson em empregar os mesmos acordes de Howard Shore incessantemente durante toda a narrativa, o que pode perigosamente a enfraquecer nos momentos primordiais de ação.
 
-[Os Bons Companheiros]: {{< relref "os-bons-companheiros" >}}
+E já que falamos de ação, não são as cenas movimentadas que impressionam o espectador atento com aquele universo, mas dois diálogos especialmente inspiradores e que, realizados praticamente sem qualquer vínculo com os anões ou o próprio destino de Bilbo, curiosamente seus participantes são as figuras mais interessantes da trilogia anterior, o que é um alívio.
+
+Com uma conclusão satisfatória, mesmo que saibamos se tratar de apenas um terço do livro, "Uma Jornada Inesperada" estabelece a jornada da mesma forma com que foi feito em "A Sociedade do Anel", mas sem o tom épico, sem a força da jornada espiritual e, principalmente, sem um fio condutor que nos diga o que é importante nesse universo tão rico e fascinante.
+
+## Sobre os 48 FPS (frames por segundo)
+
+Uma nova tecnologia nasce no Cinema. Pode ser revolucionário ou temporário. Vai depender, como sempre, dos espectadores.
+
+Como cinéfilo, preciso apontar minha satisfação em detectar algumas vantagens na nova forma de projeção, principalmente aliado ao 3D: geralmente mais escuro por motivos óbvios, apenas metade da luz passa por um óculos 3D, a outra metade serve para dar o efeito de profundidade, a exibição de um quadro a mais por segundo consegue dar mais nitidez às cenas noturnas ou com pouca luz. Se antes o que víamos era um borrão escuro, agora pelo menos temos a chance de observar pequenas nuances e texturas.
+
+Da mesma forma, a mesma nitidez em vermos o dobro de quadros por segundo permite que Peter Jackson em O hobbit possa mover sua câmera com mais velocidade e mesmo assim não perdermos o foco ou o senso de profundidade. Acostumados a perder um pouco do movimento do cenário quando a câmera se move, em 48 fps parece que a ação nunca se perde, e os contornos dos objetos continuam, independente de quanta ação está sendo mostrada na tela.
+
+Agora, os defeitos (sim, eles existem): quando usado em cenas com a luz do dia, os atores parecem exatamente o que são: atores. Ou seja, não há aquela suspensão de realidade criada pelo filtro fotográfico aplicado na pós-produção nem pela perda de silhueta quando os personagens se movem. O que vemos é a performance muito próxima a de um teatro. Isso pode quebrar em um primeiro momento para os cinéfilos mais atentos o que chamamos de imersão cinematográfica. O risco é se tornar popular para o espectador acostumado a televisores que já utilizam o efeito de inserir mais quadros por segundo do que a projeção original, "estragando" a visão de diretores como James Cameron em [Avatar], fazendo o filme se parecer com um telejornal.
+
+Se esse espectador médio, não-exigente por padrão, começar a apreciar esse novo formato na sétima arte, poderemos ter mais um dilema indústria x arte no Cinema.
+
+[Avatar]: {{< relref "avatar" >}}
+[Sherlock]: {{< relref "sherlock-a-study-in-pink" >}}
 

@@ -1,18 +1,24 @@
 ---
 categories:
 - writting
-date: '2018-12-30T19:30:00-03:00'
+date: '2018-12-30T19:10:00-03:00'
 link: https://www.imdb.com/title/tt0475784
 tags:
 - series
-title: Westworld S02 E01-04
+title: Westworld (Revisita ao S01 com algumas questões e spoilers)
 ---
 
-Westworld e suas revelações nos primeiros quatro episódios são tão profundas que suas várias linhas narrativas ficam em um vácuo por mais de um episódio. E isso é por uma causa justíssima, pois não há como se concentrar com vários acontecimentos em paralelo (e em várias linhas do tempo), e também porque eles (por enquanto) não se influenciam, mas se completam, para explicar um assunto que já vai ficando claro no segundo episódio e óbvio no terceiro: a busca por imortalidade.
+A revisita a Westworld vale muito a pena. Detalhes que só serão revelados no final são percebidos desde o começo, e a experiência se torna única novamente. Em meu primeiro texto não me lembro se liberei spoilers (vendo agora... não), mas este aqui é certeza que terão. Como toda revisita a esta série deve ter.
 
-A frase que ficou mais na minha memória na impecável primeira temporada não foi nenhum brilhantismo de Ford nem as instigantes mensagens que os androides traduziram em seus pensamentos, mas a da diretora do parque: os clientes querem uma coisa, os criadores querem outra coisa e os acionistas querem outra completamente diferente. É um conforto entender que as premissas da história geral continuam sendo respeitadas e ampliadas, e já não me preocupo mais quais são os caminhos que a série pode abrir, pois as estruturas temáticas do terceiro e quarto episódios já me convenceram que estamos falando de uma narrativa muito, muito boa. Talvez melhor que a da primeira temporada.
+Em primeiro lugar, fui desnecessariamente duro com a série em meu primeiro texto. Se trata de uma história necessária para os dias de hoje, e uma história cujo roteirista necessário é possível contar nos dedos. E Jonathan Nolan obviamente está na lista. É dele O Grande Truque, Amnésia e Interestelar. Todos eles possuem algo com Westworld em comum: lidam com mudanças bruscas no tempo, com tempos paralelos e trucagens no tempo.
 
-Note, por exemplo, como a série explora com sucesso a discussão sobre o que é realidade. Desde o princípio, na temporada anterior, trazendo as sensações mistas dos androides sobre o que são memórias, sonhos ou a realidade em si, apesar de aparentemente emancipados, isso não impede que Maeve continue perseguindo seu objetivo de resgatar sua filha fictícia de uma narrativa antiga, ou até mesmo que Dolores compadeça da situação do "pai" ao reencontrá-lo, um rancheiro que, se vc não lembra, "deu pau" no primeiro episódio da série, sendo trocado por outro robô. E, não por coincidência, mas inteligência, agora ele é a chave do que a empresa Delos (a parte dos acionistas) tanto valoriza neste experimento, mesmo que em detrimento agora até de vidas humanas (e que tem muito a dizer sobre a desumanização das corporações ou do desequilíbrio entre o "valor" entre diferentes seres humanos que beira uma distopia capitalista).
+Aqui a grande trucagem está nos bonecos de Westworld, que por não envelhecerem podem pertencer a períodos temporais distintos. Porém, seus personagens humanos, esses sim, estão bloqueados no tempo e em sua visão limitada da realidade. Os bonecos conseguem reprogramar suas narrativas de maneira muito mais eficiente que um ser humano, embora vivam seus sonhos (e pesadelos) como se fossem a própria vida. Essas diferenças entre humanos e andróides são vitais para entendermos a escalada dessas criaturas para sua merecida liberdade e consciência.
 
-Mas não pára por aqui. Esta não é uma série cujas metáforas são apenas uma crítica ou análise de apenas uma área do conhecimento humano. Artisticamente a série vai além. Observe o final de um certo personagem ao final do quarto episódio, banhado em um vermelho fatídico, e após ter vivido tanto tempo em incontáveis réplicas, e a imagem do inferno de Dante, ou do purgatório, ou das peças que o demônio prega, vêm à nossa mente. E também são o eco da mente deste personagem, ou o que restou dela, com suas frases e comportamentos que surgiram repetidamente no passado, agora pela última vez.
+Mas isso ainda está em xeque. Terão alguns andróides atingido a consciência, ainda que da forma deles? O que dizer de um programador de androides onde ele próprio é um androide? Ele está consciente?
+
+A questão do controle é bem curiosa, também, pois aqui os humanos fazem o papel das forças da natureza, já que humanos estão presos à sua natureza, e os androides, a humanos. Anthony Hopkins faz aqui um de seus melhores papeis, e arcos, e é deles o melhor pacote de frases profundas, embora todos tenham o seu papel na história. Principamente os androides.
+
+É curioso perceber como humanos pouco mudam durante a temporada, mas os androides, estes sim vivem sua revolução, de forma velada, mas vibrante. É um deleite filosófico acompanhar a narrativa do ponto de vista da capacidade deles adquirirem uma forma de consciência, fora os diferentes símbolos criados para esta consciência.
+
+Enfim, apenas um pequeno desabafo de uma das melhores séries ainda em execução. Espero extrair mais conteúdo da minha terceira vez em que assiti-la. Sua complexidade me fascina, mas ao mesmo tempo me consome. Não consigo imaginar como o espectador médio passar por esse martírio.
 

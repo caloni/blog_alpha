@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-06-25'
+date: '2017-07-25'
 tags:
 - food
-title: Café Grão Gourmet de Mantiqueira de Minas
+title: Café Gourmet Fazenda Cachoeira Alta Manhuaçu MG
 ---
 
-Chocolate com um pouco de veludo e avelã, é fácil de beber, mas ao mesmo tempo encorpado.
+Corpo médio, certa doçura e caramelo, mas nada enjoativo; pouquíssimo acima do ponto de frescura que suporto. Um café catuaí amarelo e vermelho de Geraldo Antônio da Paixão, com SCAA 85, torrado dia 2017-07-05.
 

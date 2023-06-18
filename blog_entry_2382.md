@@ -1,17 +1,11 @@
 ---
 categories:
 - writting
-date: '2022-02-22T21:29:30-03:00'
+date: '2022-03-02T12:15:11-03:00'
 tags:
 - series
-title: 'Modern Love S02 E03: Strangers in a Dublin Train'
+title: Am I...? Maybe This Quiz Will Tell Me
 ---
 
-Um experimento. Uma espécie de Antes do Amanhecer resumido e destacado no tempo. Esses dois se conhecem um dia antes do isolamento da pandemia e não trocam celulares pela magia do momento. Não é romântico, é comédia. Ou deveria ser. Os momentos relacionados com o que passamos extrai um pouco de drama de nossas memórias que viveram tudo isso. E quem não viveu?
-
-É bem previsível que iria começar a surgir algumas histórias que não podem ignorar o que aconteceu. E agora é um novo mundo reinterpretando tudo isso. Dois anos atrás ainda está muito próximo e as feridas não se fecharam, simplesmente porque o tempo não passou de verdade. Ainda estamos presos em 2020. Sempre estaremos.
-
-Os momentos cômicos deste episódio se tornam então um experimento arriscado. É estranho, desajeitado, patético, amador. E adorável. Adorável a tentativa de entender tudo isso, e de nos entender e entreter após o ocorrido. Vale o momento, o breve hiato. Não é um grande episódio, nem uma grande história. É bem manjado e dá para ver a tensão artificial construída em torno de atores não tão envolvidos assim. São símbolos que passeiam por lembranças de uma época que nunca mais vai existir.
-
-Chamar isso de comédia seria pegar pesado demais.
+Fazia tempo que eu não via algo tão novo. A direção da câmera é fluida, dinâmica, e a edição impecável. O episódio nos comunica vários detalhes no comportamento nos jovens hoje em dia ou desde sempre e é encantador acompanhar. O interesse do autor nesses gaps, nos momentos que ninguém está olhando, e como nos comportamos, cativa aos poucos. O uso exarcebado da jovem Katie do celular e como o caos impera nas sequências, com sons em volta, e a falta de um enquadramento parado por dois segundos dão o tom naturalista que a história pede. É sobre a descoberta da sexualidade muito jovem e sob um ponto de vista ainda muito ingênuo e engessado. Essas pré-adolescentes são espontâneas demais. O episódio se torna curto. Este universo merece um longa metragem.
 

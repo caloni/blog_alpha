@@ -1,22 +1,18 @@
 ---
 categories:
 - writting
-date: '2011-05-21'
-link: https://www.imdb.com/title/tt1131734
+date: '2014-11-15'
+link: https://www.imdb.com/title/tt2267998
 tags:
 - movies
-title: Garota Infernal
+title: Garota Exemplar
 ---
 
-Aprendemos duas coisas assistindo Garota Infernal: que não se dá Oscar de melhor roteiro para uma estreante com delírios de grandeza (Diablo Cody, de Juno) e não se coloca atrizes como Megan Fox (Transformers e... argh! Transformers 2), que rivaliza com Kristen Stewart em atuação, em um papel principal.
+Todo mundo conhece aquela história em que a esposa desaparece em uma bela manhã e o marido vira o suspeito número um. Esse clichê é tão batido que o diretor David Fincher (A Rede Social) não faz o menor esforço para construir essa dúvida em nós, espectadores. Por isso ele escala para o papel o Ben acima-de-qualquer-suspeita Afleck. Na verdade ele parece mais interessado em discutir exatamente o oposto: a falta de dúvidas de uma sociedade ansiosa por tomar um lado e apontar rapidamente seu dedo para o "culpado" da vez, escolhido por uma mídia que irá decidir pela versão dos fatos que atrair para si mais consumidores de conteúdo.
 
-Ou talvez se coloque. Afinal de contas, Fox não compromete em nada esse projeto mais do que bem vindo aos amantes de seu corpo e seus lábios. Na verdade, talvez seja a escolha ideal para uma personagem cuja principal função seja a de andar seminua por aí se alimentando de homens.
+Gone Girl esmiúça um casamento que desmorona por dentro através da narração em off de um diário e dos pensamentos da esposa, mas que começa curiosamente com uma reflexão do marido sobre a falta de comunicação dos dois. Ambos ironicamente são escritores, embora apenas ela tenha conquistado fama e sucesso, administrados de perto pelos orgulhosos pais que fazem o papel de relações-públicas da filha. Essa percepção que o público tem sobre ela faz toda a diferença sobre o julgamento dos fatos, apesar destes serem incompletos (ela sumiu, mas ele não está preocupado porque o casamento já ia mal).
 
-Mas não posso dizer que não me diverti com o roteiro. Afinal de contas, surpresas como um pai que jura pendurar as bolas do assassino de seu filho e uma mãe que compara o corpo de seu filho com uma "lasanha com dentes" sempre podem impressionar.
+Depois de uma construção impecável sobre o fim de um romance, o segundo ato é visceral no sentido de entregar rapidamente toda a outra versão da história. E é justamente sabendo de tudo que o filme evita fazer qualquer julgamento de valor de seus personagens, talvez porque obviamente um dos lados é incuravelmente insano. Diferente do que Fincher havia feito em Os Homens que Não Amavam as Mulheres, aqui conhecemos ambos os lados antes da revelação final.
 
-Jennifer (Fox) e Needy (Seyfried, assustada como o Chapeuzinho Vermelho) são melhores amigas que se conhecem desde a infância. Jennifer, uma jovem desejada pelos garotos que foi uma vez a mais popular da escola, pode ser comparada como o perfeito oposto de Needy, a garota desajeitada de óculos cuja definição "freak" nesse filme é ser uma pessoa normal. Aliás, não há de fato uma tentativa de se aprofundar na relação dessas duas jovens, embora a história sempre as coloque juntas ao final de cada cena, que sempre tende a ser episódica e que não muda muita coisa no contexto geral.
-
-Confesso que muitos dos diálogos e "aparições" de Jennifer me pareceram ser um semi-preparo para um filme que se auto-intitula como "trash", ou seja, que não é ruim por defeitos de produção, mas erra consciente de ser essa a temática a ser adotada em uma história como essa. Infelizmente, isso não é verdade, pois podemos perceber claramente que existe uma tentativa de dramatização, ainda mais se considerarmos que a introdução tenta ligar-se à conclusão, em uma forma de dizer "está vendo? fizemos tudo planejadinho".
-
-Isso quer dizer que fica muito difícil defender um filme que abre planos para colocar atores pendurados por cabos ou encharcados de molho de tomate e ainda assim soar realista. De qualquer forma, a fotografia do filme colabora em muitos enquadramentos noturnos, onde vemos Jennifer e Needy sozinhas em uma imensidão de cenário tenebroso. (Aliás, é divertido lembrar que a maioria desses cenários está molhado para garantir a iluminação adequada na filmagem, mas sem uma desculpa razoável no roteiro, como chuva, por exemplo.)
+Isso talvez se deva porque no terceiro ato a conclusão está nebulosa até o seu fim, e mesmo sabendo que o diretor não costuma ter muita fé na humanidade, torcemos por um "final feliz". Mas o que seria um final feliz nesse contexto? É de se pensar que, sob os holofotes, o importante é estar do lado da mídia, que se torna o lado certo pela osmose do nosso não-raciocínio coletivo.
 

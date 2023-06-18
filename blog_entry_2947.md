@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2015-12-12'
-link: https://www.imdb.com/title/tt0058182
+date: '2019-06-05'
+link: https://www.imdb.com/title/tt0201003
 tags:
 - movies
-title: Os Reis do Ié-Ié-Ié
+title: Os Raptores
 ---
 
-"Um filme é um documentário de sua época", dizia um crítico cujo nome não me recordo. No caso de "A Hard Day's Nigh", cinquenta anos depois, isso não poderia ser mais verdade.
+Um dos DVDs perdidos por aqui é esse Os Raptores, policial brasileiro do final dos anos 60, que se você assistir vai chegar à seguinte conclusão: havia muitos Fuscas no Rio e as pessoas falavam um português formal muito engraçado.
 
-Dirigido por Richard Lester (Superman II), é o primeiro trabalho que o diretor realiza com os Beatles (mais tarde ele faria ainda Help! e Como eu Ganhei a Guerra, esse com John Lennon apenas). Ele retrata um dia na vida dos pop stars, quase sempre perseguidos por garotas onde quer que passem, e deixando seu empresário maluco com suas irreverências e fugas.
+Mas isso é normal. Meus avós falavam assim. O estranho é haver tantas informações nos diálogos desse filme. As testemunhas entregam praticamente um dossiê para o investigador, só faltando datilografar para os autos. Percebe-se também aquela tara por processo jurídico.
 
-Várias gags são claramente inseridas ao acaso. A maior delas é um avô de Paul McCartney que viaja com os rapazes, e vive os colocando (e se colocando) em apuros, além de todos notarem que é um senhor "muito limpo".
+A direção é pedestre e engraçada, daquelas que sabemos que os atores estão sendo dublados (em estúdio) e com cortes entre as cenas que sabemos que foram feitas sob outra luz e provavelmente outro dia. Por outro lado é curioso o efeito de aproximar o rosto dos atores em diálogos, sabendo que não é possível colocar uma câmera àquela distância e manter o outro ator do lado. Nessa lista de gafes entra também as cenas que foram filmadas sem foco ou com foco oscilando.
 
-O fato é que Paul, John, George e Ringo eram rapazes carismáticos, e interpretando a si mesmos não parecia em nenhum momento uma tarefa difícil. O engenhoso desse trabalho é de fato o uso inventivo da câmera, que persegue os garotos usando enquadramentos e montagens que lembram o que hoje conhecemos como vídeo-clipes. Bom, não essa mídia naquela época. Logo, temos algo a mais nesse filme que nem o Cinema nem a TV ainda faziam. E o difícil aqui é não se sentir contagiado ou anestesiado com tanta energia natural que sai das inúmeras sequências agitadas do longa, quase sempre acompanhadas de uma trilha sonora.
+A história é sobre dois golpes de sequestro-relâmpago executados por uma quadrilha cujo mandante é uma pessoa erudita. Ele dá as ordens com um ar de conhecimento superior aos outros, mas ao mesmo tempo sentimos que ele também não é de confiança. A história é boa, mas a produção nem tanto. Ele se disfarça com peruca e barba branca, além de mancar, mas seus capangas nem isso percebem.
 
-Recheado de sucessos do álbum homônimo, o maior atrativo são os momentos musicais. O filme é um documentário e um musical ao mesmo tempo, além de ser uma ficção neo-realista. Há muitos momentos gravados da banda, mas nenhum colocado no formato de filme. A Hard Day's Night é um legado que merece ser preservado.
+Este é um filme que hoje vale pela curiosidade. Acompanhar as investigações é uma atividade prazerosa no filme. Quem não gosta de um filme policial? Que tal ver como eram filmados no Brasil na década de 60 e produzidos por ninguém menos que Herbert Richers?
 

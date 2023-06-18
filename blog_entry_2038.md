@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2014-12-14'
-link: https://www.imdb.com/title/tt0441773
+date: '2014-09-07'
+link: https://www.imdb.com/title/tt0286112
 tags:
 - movies
-title: Kung Fu Panda
+title: Kung-Fu Futebol Clube
 ---
 
-Po é um panda, portanto gordo e lerdo. Ele vive em um vilarejo chinês em torno de uma montanha que hospeda os chamados cinco furiosos, mestres de kung fu que são animais que representam os diferentes estilos dessa arte marcial milenar: tigre, serpente, louva-deus, garça e macaco. Todos são aprendizes do mestre Shifu que, ironicamente também é um panda, mas uma espécie bem menor. Shifu, apesar de mestre, ainda é impulsivo e precisa dos conselhos de seu próprio mestre, uma tartaruga que parece ter vivido séculos. O orgulho de Shifu quando jovem o fez treinar um outro aprendiz que passou a usar suas habilidades pelo poder e não pelo conhecimento, desonrando o grande mestre e trazendo perigo para os inocentes habitantes do vilarejo, em sua maioria porcos e coelhos. Condenado a uma prisão de segurança máxima, sempre há o risco que ele busque vingança e consiga o segredo mais desejado por todos os lutadores: como se tornar o Dragão-Guerreiro, a escala máxima do kung fu e ambição de todos os aprendizes.
+Shaolin Soccer é uma "versão beta" do hilário Kung-Fusão, mas é muito mais coerente em sua proposta de usar o Kung-Fu como uma forma de todas as pessoas melhorarem o que quer que façam no dia-a-dia através dessa arte milenar chinesa. Coerente, mas não menos confusa: apresentando personagens de maneira mais ou menos aleatória, e com o desafio de montar um time de futebol com personagens obviamente simplistas (o gordo, o fumante, o magro, etc), os únicos que possuem um pouco mais de polimento no roteiro são as versões original e nova da lenda conhecida como "Pé de Ouro": pernas dotadas de uma força descomunal que chutam bolas (e qualquer outra coisa) com força desproporcionalmente absurda. (Ah, sim, claro, e o interesse amoroso do herói.)
 
-E o que tudo isso tem a ver com um panda grande e gordo? Bom, há uma cerimônia para revelar quem será o escolhido, o que por acidente acaba se tornando o tal panda. Isso quer dizer que agora Po precisa ser treinado por Shifu para combater seu aprendiz do mal. A má notícia é que Po é muito mais fã de kung fu do que um praticante. Tendo que ajudar seu pai em seu restaurante, sobra pouco tempo para este que é seu grande sonho.
+O forte do filme com certeza não é sua história, que oscila entre o humor, o drama e o tocante, sendo que o "tocante" sempre é exagerado através não apenas do recurso batido da trilha sonora, mas de situações absurdamente cruéis e/ou desproporcionais. Sua força, ironicamente, provém da mesma característica: tentando apresentar formas diferentes de jogar futebol com habilidades de lutadores de artes marciais o filme acaba quase incidentalmente criando uma nova forma de contar uma história sobre um esporte.
 
-Todos os elementos dramáticos de um grande filme de luta e superação se encontram em Kung Fu Panda, que ainda conta com a flexibilidade artística de uma animação. Isso permite que a equipe da Dreamworks, ao mesmo tempo que homenageie o gênero, assuma uma escala mais grandiosa -- evitando as leis da física, por exemplo -- e consiga também atingir o público mais jovem. É através de uma belíssima introdução em desenho estilizado que ficamos sabendo da história, o que já comprova o primor técnico da produção. Porém, na sua transição há a descoberta de mais uma poderosa virtude: o uso do humor escrachado.
+Mas é na sua mensagem central que Shaolin Soccer consegue chamar a atenção: apelando para símbolos e alegorias que lidam basicamente com o desapego do ego e a concentração dos lutadores, fica claro que para vencer não basta ter os poderes de um super-lutador, mas de aceitar que antes de tudo aquelas pessoas não são ninguém sem a dedicação incondicional à arte que dominaram.
 
-E a soma desses ingredientes, apesar de parecer uma bagunça, é o que torna o filme um exemplo de ação, drama e humor, conseguindo oscilar facilmente entre piadas fáceis e cenas de lutas grandiosas e emocionantes, além de trazer -- como toda boa jornada do herói -- lições de humildade e superação. E por mais que isso soe piegas e repetitivo, nunca é tarde para recontar uma história já recontada um milhão de vezes em um novo formato para um novo público que pode agora, tais como os fãs da filmografia de Quentin Tarantino, buscar as suas origens.
+O resto basicamente são lutas coreografadas e animadas com efeitos visuais interessantes na época, mas hoje já soam datados. Mesmo assim, uma diversão à parte.
 

@@ -1,18 +1,23 @@
 ---
 categories:
 - writting
-date: '2018-11-17'
-link: https://www.imdb.com/title/tt5895782
+date: '2015-06-27'
+link: https://www.imdb.com/title/tt2639254
 tags:
+- cinemaqui
 - movies
-title: Um Segredo em Paris
+title: Um Pouco de Caos
 ---
 
-A diretora Élise Girard parece se pronunciar apenas quando é necessário. Nesse seu segundo longa de ficção ela nos apresenta Mavie e Georges como um casal impossível pela diferença de idades, que conta duas gerações, e ao mesmo tempo tece a criação de um romance nas entrelinhas escritas pela jovem Mavie e nos momentos capturados pela sua memória. Para Mavie o que importa são as sensações.
+Um Pouco de Caos é um passeio tranquilo, até demais, no mundo da aristocracia francesa (embora todos falem inglês sem cerimônias) para fazer-nos apreciar a atmosfera dominante do blasé frente aos que ainda precisam lutar para serem aceitos na alta sociedade. Durante o processo é tão óbvio que haverá um amor proibido que até isso se torna sem graça.
 
-Isso é o mais interessante no filme minimalista que se segue, pois o velho Georges, interpretado pelo velho de guerra no cinema Jean Sorel ("A Bela da Tarde"), que cuida de uma livraria que não recebe clientes, possui um passado misterioso que é justamente o que faz com que Mavie se apaixone perdidamente por ele.
+Dirigido por Alan Rickman -- o Professor Severus Snape da série Harry Potter -- depois de sua estreia na direção quase 20 anos atrás, é o primeiro filme em que ele também atua, como o Rei Luís XIV durante a construção dos jardins de Versalhes. O palácio, localizado longe do centro de Paris, suas doenças e seus pobres, contém uma coleção inigualável de jardins criados a mando do rei, e cujos projetos eram constantemente disputados pelos mais proeminentes paisagistas, especialmente os que seguem o guia moral de sua majestade: a perfeição da ordem.
 
-Os longos passeios de carro e os longos momentos de silêncio entre os dois é a versão francesa de "Encontros e Desencontros" que Girard nos entrega e nos remete, criando em cima desse leve tecido a contemporaneidade dos problemas modernos, como o mal estar súbido de gaivotas que começam a cair nas ruas de Paris, ou as manifestações de jovens contra o uso da energia nuclear. É do paralelo entre o velho Georges e suas velhas ideias e o jovem Roman e seu conveniente engajamento que "Um Segredo em Paris" mais se perde na mesmice.
+A história, portanto, historicamente populada, envolve em seu centro as figuras de Sabine de Barra (Kate Winslet) como uma jardineira que defende o estilo levemente caótico de suas criações, e André Le Nôtre (Matthias Schoenaerts), o arquiteto-chefe de Luís XIV e que resolve "comprar a briga" em cima da aposta de que uma guinada mais original para o próximo jardim poderia significar mais fama e apoio do monarca. E, como já sabemos, para manter Madame de Barra por perto.
 
-Por isso sua primeira metade é a mais forte, pois é a que estabelece a conexão improvável entre essas duas gerações, que se sacrificam e mantém a relação assexuada, mas cheia de fascínio um pelo outro, mesmo vindo de planetas distintos. Uma brevíssima janela de ficção que se monta em quadros estáticos e simples enquadramentos. Uma pequena peça cinematográfica para as tardes quentes da primavera.
+Para fechar com chave de ouro o triângulo amoroso de filmes de época, a esposa de Le Nôtre, Françoise (Helen McCrory), é a maçã podre do casamento, se veste de roxo e usa o seu poder de influência para impedir que seu marido avance o sinal nesse possível romance. Enquanto isso, Sabine sofre o trauma da morte de seu marido e filha, e tenta através de seus jardins se manter financeiramente.
+
+Com um amplo espaço para simbolismos e filosofias envolvendo jardins e nobreza de uma França em uma época 100% absolutista, o roteiro escrito a seis mãos resolve contar uma história trivial com personagens triviais, deixando o espectador à espera da grande sacada que irá erguer os ânimos. Infelizmente, ela nunca acontece. O que acontece frequentemente, no entanto, é sermos inundados pela trilha sonora de Peter Gregson, com seus toques empolgados demais, totalmente em descompasso com o ritmo arrastado do filme.
+
+Possuindo muito pouco dos seu elenco e menos ainda de sua história, Um Pouco de Caos ironicamente não possui nada de imprevisível ou surpreendente. É um passeio seguro pelos inúmeros jardins de uma época de ouro, onde os ricos podiam se dar ao luxo de planejar os inúmeros jardins, caminhar e dançar por eles.
 

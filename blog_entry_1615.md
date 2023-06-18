@@ -1,18 +1,24 @@
 ---
 categories:
 - writting
-date: '2014-05-14'
-link: https://www.imdb.com/title/tt0154506
+date: '2010-12-20'
+link: https://www.imdb.com/title/tt0901475
 tags:
 - movies
-title: Following
+title: Fôlego
 ---
 
-Following é um filme-noir dos tempos atuais, mesmo sendo em preto e branco. É o primeiro longa-metragem dirigido, escrito e produzido por Christopher Nolan, o queridinho dos estúdios atualmente depois da trilogia Batman e trabalhos ambiciosos como Amnésia, A Origem e, claro, O Grande Truque. Ele conta a história de um jovem escritor que para conseguir inspiração começa a seguir pessoas a esmo, mas que comete o terrível erro de começar a seguir as mesmas pessoas. Isso o leva a descobrir o pior que há na natureza humana: roubos, chantagens, mentiras e assassinatos.
+Em um período mais inocente da minha vida de cinéfilo Kim Ki Duk estava entre os poucos dos meus diretores favoritos, em uma lista que hoje em dia está esparsa demais para fazer algum sentido. Mas o diretor coreano continua sendo para mim um exemplo de contar histórias para chamar a atenção do seu público, sempre utilizando o chamariz das situações bizarras que nos prende e nos impede de desgrudar os olhos da tela até o final do filme.
 
-A estrutura da narrativa  que lembra muito seu próximo trabalho que lhe trouxe a fama e duas indicações a Oscar por Amnésia  nos faz todo o tempo questionar se o que estamos vendo já aconteceu ou vai acontecer na cronologia principal. Logo percebemos que não existe uma cronologia principal, apenas a final, que se inicia com um depoimento com um policial contando o ocorrido. Essa estrutura complica um pouco desnecessariamente para o espectador por não dar muitas dicas de qual o tempo atual  assim como 21 Gramas  mas não deixa de produzir algumas surpresas interessantes que fazem valer a pena a complexidade, como pistas-recompensas plantadas em situações específicas que irão se revelar às vezes mais de uma vez durante a história (o par de brincos).
+Escrevi a respeito de Fôlego em 2010, no primeiro semestre que estava começando a escrever sobre os filmes que assistia. Eram anotações em um caderninho que rabiscava durante a sessão, no Cine Belas Artes, em São Paulo. Depois eu repassava esses rabiscos em algo inteligível. Mas essa não é desculpa para minha inocência em desvendar um filme falando sobre símbolos e detalhes que devem ser vistos como um todo. O meu texto de 2010 é meramente um capricho, e um rabisco, que hoje não me serve mais para análise.
 
-A fotografia é crua, simples e direta. Quase um nanquim. Os diálogos possuem bons momentos, a maioria pertence ao dinamismo com que os personagens comunicam tantas coisas em tão pouco tempo (mais um traço noir). Existem também frases de efeito e filosóficas, o que consegue imprimir uma profundidade maior na história e ao mesmo tempo nos deixar pensando em coisas comuns da nossa vida ("todo mundo tem uma caixa").
+Fôlego é um filme sobre sobrevivência, pura e simples. A sobrevivência de um casamento, a sobrevivência de uma carreira, a sobrevivência da própria vida. Quando perdemos o sentido de nossas vidas as que estão em nossa volta perdem o sentido também. Temos esse condenado à pena capital que matou a mulher e duas filhas. É de se pensar se poderia haver algum motivo para esses assassinatos que pudesse fazer sentido à razão humana, e a própria proposta de suavizar o ato deste criminoso pode soar repulsiva para a maioria das pessoas.
 
-É um roteiro de Nolan, então pode-se esperar uma complexidade acima da média e uma recompensa cinéfila igualmente alta. O universo do diretor é populado por rimas e auto-referências, além de uma confusão entre personagens, algo bem comum em sua cinematografia (O Grande Truque, Insônia). Para os fãs, mais uma diversão. Para os cinéfilos, mais um filme digno de se passar o tempo.
+Porém, Kim Ki Duk não está interessado na opinião do espectador nem em justificar as ações deste rapaz. Ele nunca está. Seu interesse é em encontrar um eco, uma resposta positiva, para o que essa pessoa está pensando, presa em um cubículo com outros presos que estão alheios à sua situação.
+
+E para isso ele encontra uma esposa com marido e uma filha e cujo sentido da vida anda lhe faltando. O marido a trai e isso a deixou deprimida ou vice-versa. Ela acompanha o noticiário e vê que esse criminoso tentou acabar com sua própria vida antes do Estado cumprir com seu dever legal e tirá-la antes. Ele fica sem voz, e era apenas o que faltava para esses dois seres encontrarem semelhanças o suficiente para se envolverem.
+
+Fôlego não deixa fácil desvendá-lo porque o espectador não deseja, no fundo, fazê-lo. Seria amoral demais encontrar sentido em um assassino de família. Uma esposa insatisfeita em busca de conexão com outra pessoa, com o seu passado, é algo mais mundano e fácil de se relacionar. O que está implícito nesse drama sensual vai se desdobrando conforme o marido também entra na mente de sua mulher, a entende, a perdoa.
+
+Quantos filmes conseguem abordar temas tão delicados com tamanha propriedade? Quase nenhum. E por isso Kim Ki Duk continua na minha lista de favoritos. Ele é o diretor que faz temas impossíveis parecerem fáceis. Que o espectador não perceba isso de maneira consciente é mero detalhe.
 

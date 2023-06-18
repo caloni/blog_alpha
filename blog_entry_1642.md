@@ -1,17 +1,18 @@
 ---
-categories: []
-date: '2019-03-09'
-tags: null
-title: Free Pascal e VS Code
+categories:
+- writting
+date: '2014-08-15'
+link: https://www.imdb.com/title/tt1621039
+tags:
+- movies
+title: Bons de Bico
 ---
 
-Agora que o VS Code é a ferramenta universal para todas as plataformas e linguagens imagináveis, acreditem ou não, há até plugin para Pascal. Ao instalar a extensão mantida por Alessandro Fragnani você recebe o intelisense e algumas dicas durante erros de programação.
+Free Birds é um desenho com qualidade técnica discutível e narrativa idem. Suas ideias oscilam entre o divertido e o repetitivo. Seus personagens são quase cópias de outros desenhos. Dito isto, o conjunto da obra mais impressiona por conseguir levar a história do começo ao fim a despeito de todas suas limitações.
 
-A própria integração com o Free Pascal Compiler, o compilador open source de Pascal multiplataforma, já é mostrada na Home desse plugin. É só seguir os modelos e alterar de acordo com o que pede o VS Code (que está sendo atualizado constantemente).
+A história envolve viagem no tempo em um objeto que não apenas se assemelha a um ovo como à nave de Ellie em Contato (com suas paredes translúcidas), ou seja, espere por todas as homenagens necessárias a obras que brincam com esses conceitos, sejam o clássico Contato já citado ou os tri-clássicos De Volta Para o Futuro (há uma citação "divertidinha" de Doc. Brown a respeito de uma pessoa se encontrar com ela mesma do passado).
 
-Após isso o Terminal, Run Build Task exibe a opção de rodar o fpc.exe para seu programa e a compilação sai perfeita ou ele aponta os erros direto no fonte. O programa resultante pode ser executado por fora ou dentro do VS Code e tudo OK.
+Mesmo com piadas faltando aquele toque a mais e com pedaços de histórias não-originais, ainda assim a dedicação pessoal em contar essa história supera mais uma vez suas deficiências narrativas. Os personagens mais importantes são dois perus que voltam no tempo para alterar o evento onde eles se tornam o prato principal do feriado americano do Dia de Ação de Graças. O que encontram lá se torna a sequência mais interessante do filme.
 
-PS: Se quiser depurar é possível gerar informação de debug para o gdb via a flag -g, ou apenas usar o velho writeln('passou por aqui'). Alguns dizem que o segundo uso algumas vezes é conveniente. Faz sentido se é um programa de faculdade.
-
-Bons programas verdadeiramente estruturados! (Pascal, diferente de C, permite procedures aninhadas, passando o self durante as chamadas internas; isso, sim, é linguagem bem desenhada).
+Jimmy Hayward já havia dirigido o subestimado "Horton Hears a Who!" em 2008 (Horton no Mundo dos Quem), e continua sendo uma alternativa curiosa dos grandes estúdios e seus milhões de pixels. Aqui em Free Birds há um espaço enorme de caixa de areia onde muitas ideias poderiam ser, mais uma vez, reaproveitadas em produções mais caras.
 

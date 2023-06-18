@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2014-09-13'
-link: https://www.imdb.com/title/tt0081573
+date: '2016-10-22'
+link: https://www.imdb.com/title/tt4016454
 tags:
-- movies
-title: 'Superman II: A Aventura Continua'
+- series
+title: Supergirl
 ---
 
-Superman II teve complicações que começam lá na história do trabalho original. O diretor Richard Donner havia imaginado o final do primeiro como o início do segundo, e o clímax do segundo seria o final do primeiro. A versão original proposta por Donner foi quase totalmente refeita e lançada para Home Vídeo em 2006, uma vez que ele já havia filmado quase todas as cenas antes de ser demitido e ter seu lugar ocupado por Richar Lester (que refilmou todas as cenas).
+A nova série da "menina de aço" parece importada do seu original de 1984 e atualizada de maneira preguiçosa com os temas do momento (leia: feminazismo). Se até a metade do piloto conseguimos nos importar minimamente com a trama e, principalmente, com o destino de Kara e a decisão de ser quem ela verdadeiramente é (uma super-heroína), de lá pra frente o que vemos é a entrega total ao televisivo, a soluções fáceis e a modelos de entretenimento que utilizam referências dos últimos trabalhos da DC para soar antenado.
 
-A versão de Richard Lester é a conhecida de todos e a que estreou nos cinemas em 1980 e apresenta três vilões kriptonianos, os mesmos que haviam sido presos na zona fantasma no filme original, e que foram ironicamente soltos por uma bomba lançada ao espaço por Superman. A história paralelamente mostra General Zod e seus dois comparsas se aproximando da Terra e descobrindo seus poderes frente aos fracos terráqueos enquanto Louis Lane descobre aos poucos que sempre esteve do lado do homem de aço com óculos, o que faz com que confessem seu amor mútuo e faz com que Kar-El elimine sua parte alienígena para viver como um humano ao lado de Louis.
+O que torna tudo uma pena é que a garota, interpretada por Melissa Benoist, parece ter feito o dever de casa, ao menos nas expressões e movimentos de corpo que fizeram de sua versão masculina --  Clark Kent -- tão divertido quando a imponência do seu verdadeiro eu. Aqui temos o cômico nas caras de Benoist sem a imponência de sua versão "adulta", o que pode ser até explicado como apenas o começo de seu arco narrativo.
 
-Podemos encontrar ação e humor igualmente equilibrados nas sequências de Superman II, mas perde parte da força dramática de seu antecessor justamente por este já ter impactado o suficiente em sua sequência final envolvendo a mudança do tempo, além de transformar a vulnerabilidade de Kar-El em apenas 20 minutos de cena, quando ele descobre que o planeta foi invadido por kriptonianos menos nobres.
+Os efeitos visuais dão para o gasto. São bem elaborados, o salvamento do avião é convenientemente feito à noite e com closes bem próximos da improvisada Supergirl de preto. Os detalhes técnicos de uma produção e baixo orçamento para os computadores de hoje parece um mero detalhe que não deve incomodar o fã; pelo contrário, deve conquistá-lo pela atualização do que é possível fazer hoje com séries secundárias como essa.
 
-Ainda assim, Superman II - A Aventura Continua se mostra bem superior à média das produções de super-heróis de hoje em dia, em que os gostos massificados dos fãs de quadrinhos -- mas não necessariamente de Cinema -- são resolvidos com mais cenas de lutas e efeitos digitais. Se até uma narrativa rasa de um filme dos anos 80 consegue ser mais ambiciosa que as infinitas continuações de remakes dessa década, para onde vai a imaginação dos verdadeiros fãs da arte do áudio-visual?
+O que incomoda mesmo é o modo acelerado e burocrático com que o episódio piloto resolve apresentar todo mundo e já fazer as devidas conexões para um formato que no minuto final já está definido, o que implicitamente é uma fórmula para séries medíocres e enlatadas, que usam o mesmo formato em todo episódio para encher linguiça eternamente (ou até a audiência abaixar). E se a interpretação de Melissa Benoist como Kara seria interessante, todo o resto dela e de todo o elenco não é, pois cai no convencional e cartunesco, tornando a experiência já inflada desde o começo.
+
+Bom, ao menos, como disse uma atendente de lanchonete de passagem, agora as filhas das pessoas terão em quem se espelhar como heróis, nos mesmos moldes das caça-fantasmas de hoje em dia. Talvez seja pedir demais por algo além do enlatado televisivo. Talvez eu, quando era um moleque, também me espelhava nas péssimas séries do Superman e Batman sem me importar com arcos narrativos, elipses ou complexidade de personagens. O que importa é romance e pancadaria.
 

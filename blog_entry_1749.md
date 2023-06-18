@@ -1,35 +1,147 @@
 ---
 
-Aproveitando um dos últimos artigos que fala sobre [conceitos básicos de programação], lembro que, tão importante quanto programar é possuir habilidades básicas de depuração, uma arte por muitos programadores ignorada.
+Alguns conceitos-chave antes de trabalhar com o Bazaar são:
 
-É interessante notar como muitos ignoram a utilidade e conveniência das tradicionais e poderosas ferramentas de depuração passo-a-passo. O motivo pode ser puro desdém ou ignorância (no sentido de desconhecimento). Se for pelo segundo, aí vão algumas dicas para dar uma passada geral no seu programa e, quem sabe, encontrar um ou outro bug pelo caminho.
+ - Revision (Revisão). Um snapshot dos arquivos que você está trabalhando.
+ - Working Tree (Árvore de Trabalho). Um diretório contendo seus arquivos controlados por versão e subdiretórios.
+ - Branch (Ramificação). Um grupo ordenado de revisões que descreve o histórico de um grupo de arquivos.
+ - Repository (Repositório). Um depósito de revisões.
 
-{{< image src="debug.png" caption="" >}}
+Agora vamos brincar um pouco com os conceitos.
 
-Os comandos mais comuns de debug são: Start/Continue, Break, Stop, Restart, Show Next Statement, Step Into, Step Over e Step Out.
+O uso mais simples que existe no Bazaar é o controle de uma pasta sozinha, conhecida como uma Standalone Tree. Como toda Working Tree, ela possui um repositório relacionado, que no caso está dentro dela mesmo, na pasta oculta ".bzr".
 
-Run ou Debug é o comando primário. Simplesmente inicia uma nova execução de seu programa. Geralmente você deve utilizar esse comando quando já tiver definido seus breakpoints (mais sobre isso abaixo). Do contrário o programa vai iniciar, executar e sair, sem sequer você notar.
+Pra criar uma Standalone Tree, tudo que precisamos é usar o comando init de dentro da pasta a ser controlada, quando é criado um repositório local. Adicionamos arquivos para o repositório com o comando add, e finalizamos nossa primeira versão com o comando commit.
 
-O comando Step Over avança uma linha de código-fonte, parando na seguinte, de uma maneira iterativa. É a chamada execução passo-a-passo. Com ele você consegue, com a ajuda das janelas de watch e variáveis locais, analisar passo-a-passo a execução do fluxo de seu programa variando de acordo com as condições do sistema.
+    C:\Tests>cd project1
+    
+    C:\Tests\project1>bzr init
+    
+    C:\Tests\project1>bzr add
+    added AUTHORS
+    added COPYING
+    added COPYRIGHT
+    added ChangeLog
+    added ChangeLog.2
+    added FAQ
+    ...
+    added winboard/extends/infboard/main.c
+    added winboard/extends/infboard/msvc.mak
+    added winboard/extends/infboard/support.c
+    
+    C:\Tests\project1>bzr commit -m "Comentario sobre a revisao"
+    Committing to: C:/Tests/project1/
+    added AUTHORS
+    added COPYING
+    added COPYRIGHT
+    added ChangeLog
+    added ChangeLog.2
+    added FAQ
+    ...
+    added winboard/extends/infboard/main.c
+    added winboard/extends/infboard/msvc.mak
+    added winboard/extends/infboard/support.c
+    Committed revision 1.
+    
+    C:\Tests\project1>
 
-Stop Into é um parente bem próximo do Step Over, com a importante diferença de entrar dentro das funções que são chamadas em cada linha de execução. Geralmente é usado quando você pretende revisar todo o fluxo de execução porque escreveu código novo ou porque ainda não chegou na situação que pretende simular ou ainda porque usou o Step Over antes e descobriu que existe algum problema na função X que você passou direto.
+Feito. A partir daí temos um repositório onde podemos realizar o comando commit sempre que quisermos marcar um snapshot em nosso código-fonte.
 
-Já o Step Out é o complemento dos dois Steps acima. Ele vai sair executar todo o resto da função onde você está e parar exatamente uma linha após a chamada dessa função. Em suma: você já viu o que queria ver dentro da função atual e quer continuar a execução um ou mais níveis acima na pilha de chamadas.
+Se quisermos fazer uma alteração muito grande em nosso pequeno projeto seria melhor termos outro diretório onde trabalhar antes de realizar o commit na versão estável. Para isso podemos usar o comando branch, que cria uma nova pasta com todo o histórico da pasta inicial até esse ponto. Os históricos em um branch estão duplicados em ambas as pastas, e portanto são independentes. Você pode apagar a pasta original ou a secundária que terá o backup inteiro no novo branch.
 
-Você não precisa passar por todo o seu código e todos os seus loops/laços de 500 iterações até chegar ao ponto que quer analisar. O breakpoint é um comando nativo do sistema que é dos mais úteis para o programador, capaz de parar o fluxo de execução em um ponto específico do código. O depurador torna disponível para você esse comando que pode ser engatilhado em qualquer linha, geralmente em uma quantidade razoável. Para controlar todos os breakpoints definidos existe uma janela com essa lista que indica, entre outras coisas, se estão habilitados ou não, se possuem alguma condição de quebra, quantas vezes devem parar, etc. Costuma existir um ótimo controle sobre breakpoints nos depuradores, pois esse é um comando muito usado em programação (e dos mais antigos).
+    C:\Tests\project1>cd ..
+    
+    C:\Tests>bzr branch project1 project1-changing
+    Branched 1 revision(s).
+    
+    C:\Tests>cd project1-changing
+    
+    C:\Tests\project1-changing>
 
-Praticamente qualquer ferramenta de debug possui um mecanismo para que você consiga ver o que está dentro das variáveis de seu programa. Basicamente temos uma janela ou comando de watch, ou inspection, onde podemos inserir as variáveis que queremos espiar. Em um nível mais sofisticado, temos as janelas de locals e autos (o nome pode variar), onde podemos ver, respectivamente, as variáveis dentro da função e as variáveis mais próximas do ponto onde o código está parado (as que foram usadas na última linha e as que serão usadas na próxima, por exemplo). Claro que cada ambiente te fornece o que melhor ajudar durante a depuração, assim como o Delphi e o C++ Builder possuem o magnífico Object Inspector, uma janela com todas as propriedades de um objeto qualquer do sistema (uma janela, um botão, uma classe, etc).
+Criar um novo branch totalmente duplicado pode se tornar um desperdício enorme de espaço em disco (e tempo). Para isso foi criado o conceito de Shared Repository, que basicamente é um diretório acima dos branchs que trata de organizar as revisões em apenas um só lugar, com a vantagem de otimizar o espaço. Nesse caso, antes de criar o projeto, poderíamos usar o comando init-repo na pasta mãe de nosso projeto, e depois continuar com o processo de init dentro da pasta do projeto.
 
-Seguindo as janelas e comandos úteis de debug, a pilha de chamadas ou stack trace mostra a pilha da thread atual sendo depurada. Com ela você consegue ver o nome da função que chamou a função que chamou a função que chamou... até a função inicial (por exemplo, o nosso conhecido main, a primeira função de um programa "normal" em C/C++).
+    C:\>bzr init-repo Tests
+    
+    C:\>cd Tests
+    
+    C:\Tests>bzr init project1
 
-No caso de seu programa ser multithreading, ou seja, possuir várias linhas de execução, fluxos distintos de código rodando, existirá uma janela ou comando onde você pode ver qual a thread atual (a que está sendo depurada e destrinchada nas outras janelas) e quais as outras threads. Muitos ambientes permitem que com essa janela seja feito um switch de threads, que é a troca da thread atual, o que irá alterar a janela de pilha de chamadas, de variáveis locais, e muito provavelmente a janela do código-fonte atualmente em execução.
+    C:\Tests>cd project1
 
-Depurar esteve sempre ligado à programação desde os primórdios da humanidade. Por isso hoje em dia os depuradores estão muito evoluídos, geralmente integrados em um ambiente de desenvolvimento (exs: Visual Studio, KDE Develop) e possuem comandos e mais comandos e mais comandos. Existem comandos, por exemplo, para pular fluxo sem executar, definir um breakpoint temporário, visualizar registradores da máquina, visualizar páginas de memória, controle de exceções, misturar assembly com código-fonte, etc. Enfim, cada comando deve ser usado conforme a necessidade e conveniência. Não adianta querer usar tudo e entender tudo de uma vez. Os comandos acima já são um ótimo começo para uma depuração poderosa o suficiente para pegar alguns bugs.
+    C:\Tests\project1>bzr add
+    added AUTHORS
+    added COPYING
+    added COPYRIGHT
+    added ChangeLog
+    added ChangeLog.2
+    added FAQ
+    ...
+    added winboard/extends/infboard/main.c
+    added winboard/extends/infboard/msvc.mak
+    added winboard/extends/infboard/support.c
+    
+    C:\Tests\project1>bzr commit -m "Comentario sobre a revisao"
+    Committing to: C:/Tests/project1/
+    added AUTHORS
+    added COPYING
+    added COPYRIGHT
+    added ChangeLog
+    added ChangeLog.2
+    added FAQ
+    ...
+    added winboard/extends/infboard/main.c
+    added winboard/extends/infboard/msvc.mak
+    added winboard/extends/infboard/support.c
+    Committed revision 1.
 
-[conceitos básicos de programação]: {{< relref "guia-basico-para-programadores-de-primeiro-int-main" >}}
+    C:\Tests\project1>
+
+Se compararmos o tamanho, veremos que o repositório compartilhado é que detém a maior parte dos arquivos, enquanto agora o ".bzr" que está na pasta do projeto possui apenas dados de controle. A mesma coisa irá acontecer com qualquer branch criado dentro da pasta de repositório compartilhado.
+
+Mas já criamos nossos dois branches cheios de arquivos, certo? Certo. Como já fizemos isso, devemos criar uma nova pasta como repositório compartilhado e criar dois novos branches dentro dessa pasta, cópias dos dois branches gordinhos:
+
+    C:\Tests>bzr init-repo project1-repo
+    
+    C:\Tests>bzr branch project1 project1-repo\project1
+    Branched 1 revision(s).
+    
+    C:\Tests>bzr branch project1-changing project1-repo\project-changing
+    Branched 1 revision(s).
+    
+    C:\Tests>
+
+Isso irá recriar esses dois branches como os originais, mas com a metade do espaço em disco, pois seus históricos estarão compartilhados na pasta project1-repo.
+
+O SubVersion é um sistema de controle centralizado. O Bazaar consegue se comportar exatamente como o SubVersion, além de permitir carregar o histórico inteiro consigo. Quem decide como usá-lo é apenas você, pois cada usuário do sistema tem a liberdade de escolher a melhor maneira.
+
+Os comandos para usar o Bazaar à SubVersion são os mesmos do SubVersion: checkout e commit. No entanto, um checkout irá fazer com que seu commit crie a nova revisão primeiro no seu servidor (branch principal) e depois localmente. Se você não deseja criar um histórico inteiro localmente, pode criar um checkout leve (parâmetro --lightweight), que apenas contém arquivos de controle. No entanto, se o servidor de fontes não estiver disponível, você não será capaz de ações que dependam dele, como ver o histórico ou fazer commits.
+
+    C:\Tests\client>bzr checkout ..\server\project1
+    
+    C:\Tests\client>cd project1
+    
+    C:\Tests\client\project1>echo "New changes" >> FAQ
+    
+    C:\Tests\client\project1>bzr commit -m "New changes comment"
+    Committing to: C:/Tests/server/project1/
+    modified FAQ
+    Committed revision 2.
+    
+    C:\Tests\client\project1>bzr log -l 1 ..\..\server\project1
+    ------------------------------------------------------------
+    revno: 2
+    committer: Wanderley Caloni <wanderley@caloni.com.br>
+    branch nick: project1
+    timestamp: Sun 2008-06-08 19:52:17 -0300
+    message:
+      New changes comment
+    
+    C:\Tests\client\project1>
+
+Na verdade, o Bazaar vai além, e permite que um branch/checkout específico seja conectado e desconectado em qualquer repositório válido. Para isso são usados os comandos bind e unbind. Um branch conectado faz commits remotos e locais, enquanto um branch unbinded faz commits apenas locais. É possível mudar esse comportamento com o parâmetro --local, e atualizar o branch local com o comando update.
 
 ---
 categories:
 - coding
-date: '2007-10-16'
-title: Guia básico para programadores de primeiro int main
+date: '2007-10-22'
+title: Guia básico para programadores de primeiro breakpoint

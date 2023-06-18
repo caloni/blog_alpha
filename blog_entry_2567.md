@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2023-01-31T23:08:26-03:00'
+date: '2022-06-04T12:49:52-03:00'
 tags:
 - movies
-title: O Banheiro do Papa
+title: O Bandido da Luz Vermelha
 ---
 
-Um homem e sua bicicleta refazem o realismo italiano neste drama cômico em que uma cidadezinha de fronteira entre o Uruguai e o Brasil recebe a visita do Papa e investe horrores aguardando uma multidão. A crítica ao comércio na religião e o naturalismo de usar não atores na própria cidade onde o fato ocorreu, em 1988, é o que torna este filme uma pequena pérola criativa. Para assistir com um sorriso no rosto.
+Que graça tem ser luz vermelha se é p&b? Descobri nesse DVD do filme restaurado que o filme era considerado à frente do tempo. Ele mistura cinema novo com Godard e um cheirinho de bosta. A direção é competente e afetada. Paulo Villaça cria um boçal domesticado e filosófico. Há peitinhos. Em p&b. Sem Photoshop.
 

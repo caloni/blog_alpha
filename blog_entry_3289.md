@@ -1,29 +1,22 @@
 ---
 categories:
-- playing
-date: '2023-06-05'
-link: null
+- writting
+date: '2020-07-11'
+link: https://www.imdb.com/title/tt0233809
 tags:
-- chess
-title: Reviravolta mantendo a tensão
+- movies
+title: Revelações Secretas de Uma Mulher
 ---
 
-{{< image src="board.gif" >}}
+Filme de baixo orçamento sobre a ex do seu diretor, Miyuki, uma feminista bissexual radical que tem tantos filhos que fica difícil contar o número dos pais. Kazuo Hara, o diretor, nasceu em 1945, um péssimo momento para estar vivo no Japão. Segundo longa seu e já habituado a polemizar em seus conteúdos.
 
-```
-[Event "Live Chess - chess"]
-[Site "Chess.com"]
-[Date "2023.06.02"]
-[White "cavaloni"]
-[Black "Finnspencer03"]
+É um trabalho no mínimo interessante. Cumpre seu tom documental, embora seja hilário que o diretor se surpreenda com a briga constante entre a ex e sua namorada quando ele passa a viver sob o mesmo teto, filmando a briga. Dessa forma, o filme acaba explicando indiretamente a diferença entre homens e mulheres e um pouco da natureza humana.
 
-1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. c3 dxc3 6. Bxf7+ Kxf7 7. Qd5+ Ke8
-8. Qxc5 Nf6 9. Nxc3 d6 10. Qg5 Qe7 11. O-O Be6 12. Re1 Kd7 13. Nd5 Nxd5 14. Qd2
-Nf6 15. e5 Nd5 16. Nd4 Nxd4 17. Qxd4 dxe5 18. Rxe5 c6 19. Bg5 Qd6 20. Bf4 Nxf4
-21. Qxf4 Kc7 22. Rae1 Rhf8 23. Qg5 Rae8 24. Qxg7+ Kb8 25. Qg3 Kc7 26. Qg7+ Rf7
-27. Qg3 Bxa2 28. Rxe8 Bc4 29. R8e3 Qxg3 30. hxg3 Rd7 31. Re7 Rxe7 32. Rxe7+ Kd6
-33. Rxh7 Kc5 34. Rxb7 a5 35. Ra7 Kb4 36. f4 a4 37. f5 Kb3 38. Rb7+ Ka2 39. Rb6
-c5 40. f6 Ka1 41. Kf2 Ka2 42. g4 a3 43. bxa3 Kxa3 44. g5 Ka4 45. g6 Ka5 46. Rb8
-Ba6 47. f7 Bb7 48. Rxb7 c4 49. f8=Q c3 50. Qa3# 1-0
-```
+A princípio o filme parece não ter sido uma boa ideia. Acompanhamos a rotina da mulher na ilha de Okinawa, o bairro Heliópolis do Japão. Ela se mudou para lá para conhecer o lado miserável dos japoneses em sua colônia mais controversa, geralmente um porto de marinheiros estrangeiros e base de nascimento de várias crianças mestiças com as trabalhadoras dos bordéis locais. Tanto as mulheres quanto as crianças vagam pela ilha. E Miyuki é tudo aquilo que seu diretor quer que ela seja. Sua narrativa é que comanda. Ela não confia nele por ele ser bom com as palavras, mas é vaidosa o suficiente para não descartar um filme em que ela é a protagonista máxima.
+
+O filme finalmente emplaca quando nasce mais um filho dela na casa do diretor. Ele coloca a câmera de frente para sua vagina durante o parto, mas a providência divina e a tensão que ele sentia faz a câmera ficar fora de foco todo o tempo. São momentos que ficaram mais tensos por conta disso e por ela ter uma filha totalmente sozinha. Ao final do parto a criança fica lá jogada no chão, mas a mãe começa a dizer que está tudo bem e é natural. Não conseguimos entender o desdém dessa criatura, ou o que a move, se é que há algo.
+
+Filmado com áudio independente, há vários momentos fora de sincronia, mas que soa até poético, quase como descrições fora da ação. Em dado momento o diretor trabalha com sua namorada e vemos como a ex é ciumenta e possessiva. Ambas engravidam nessa época e são bem diferentes entre elas.
+
+A conclusão que você irá chegar deste trabalho é que ele é bem pessoal, quase a ponto de não conseguirmos universalizar para tirarmos ideias sobre nós mesmos. Mas é isso o que o torna um filme que chama atenção: aprendemos também observando o outro, e quando o outro viveu em uma década em que não éramos nascidos em um país que nunca conhecemos com pessoas à margem da sociedade. Então ele se torna algo a mais do que nossas vidinhas pequeno-burguesas.
 

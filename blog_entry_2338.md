@@ -1,18 +1,19 @@
 ---
-categories:
-- writting
-date: '2018-12-08'
-link: https://www.imdb.com/title/tt4291714
-tags:
-- series
-title: Minecraft Story Mode
+categories: []
+date: '2019-01-06'
+tags: null
+title: 'Minecraft: O Jogo'
 ---
 
-O problema de uma história interativa nunca é a interação em si, mas a falta de capacidade do roteirista em criar uma árvore de possibilidades onde permaneça uma narrativa suficientemente interessante para o espectador. O espectador sente quando está sendo enganado, quando o que ele vê em sua tela é um mero replicante (Blade Runner).
+Fundamentado em bases materialistas, a partir das quais Karl Marx se orgulharia, Minecraft é uma luta por recursos e sobrevivência. E por ser simples e fácil de jogar, as crianças adoram. Isso e porque também tem skins na aparência dos players.
 
-E essa barreira em um vídeo estático me parece intransponível. Mesmo que essa seja uma ramificação eloquente de perguntas e respostas esta continua sendo uma tabela fixa. Muitas perguntas não serão instigantes ou não terão motivo de existir em uma narrativa preparada para conduzir expectativas de uma história. Por sua vez suas respostas pouco importam, pois tendem a soar falsas dentro das motivações dos personagens.
+Mas qual o objetivo em Minecraft? Ele é um jogo pensado como um mundo de blocos onde o que muda são as propriedades físicas desses blocos e o que é possível fazer com eles. Criado por Markus Persson e posteriormente desenvolvido por sua empresa, a Mojang (e depois comprado pela Microsoft), o jogo que atrai crianças, jovens e autistas de todo mundo possui alguns atrativos. O sistema de troféus, como em todo jogo moderno, já foi colocado. Porém, resta a pergunta fatal, filosófica, que quase pode ser ouvida quando se entra no jogo e se começa a minerar: qual o objetivo?
 
-Isso quer dizer que só existe uma resposta certa, ou todas as respostas devem levar ao mesmo lugar emocional. E é isso o que essa série programada pela criadora do Minecraft pretende. É boba, é simplória e tem diálogos terríveis. Seus personagens são genéricos e servem como bonecos. Ainda assim, é uma série que pode funcionar com crianças.
+E a resposta ironicamente acaba sendo a mesma sobre o mundo físico em que vivemos: sobreviver. E para isso é necessário obter recursos. Madeira, minério, alimento. Coletado ou caçado. Animais precisam ser mortos ou domesticados para fornecer os recursos que precisamos. Sangue deve jorrar nessa experiência lúdica para que aprendamos que o mundo é um lugar muitas vezes escuro, solitário e vazio de significado.
 
-Esta série é equivalente também a pessoas que assistem pessoas jogando este jogo, já que ele próprio é uma história interativa conduzida por seus jogadores. E, convenhamos, há algumas histórias muito melhores sendo escritas por aí do que as vistas neste programa de TV.
+Claro que com o tempo surgiram os servidores com sub-jogos com objetivos claros e foi tudo por água abaixo. Crianças mimadas.
+
+Mas se concentre no modo clássico do jogo. Survival. Os recursos não brotam como mágica e seu uso não é tão claro. É preciso aprender, e vivenciar no processo. Essa busca por significado, por objetivo, é o maior valor que o jogo tem. Tirando seus gráficos, embora simplistas, esteticamente agradáveis, ou sua movimentação intuitiva, seu sistema de experiência, de programação, de probabilidades, etc.
+
+Jogar Minecraft como um adulto é voltar a ser criança em uma nova versão. E nessa versão aprendemos, como crianças, a pensar como adultos. E nos esquecemos de toda essa baboseira de direitos, de casa aconchegante e comida quentinha. É a vida cruel ensinada através de pixels. Resta ao jogador eventual conseguir encontrar essa magia dentro desse mundo, para ao sair se sentir grato pela vida privilegiada que tem, onde não é necessário se esconder à noite porque os monstros estarão à espreita.
 

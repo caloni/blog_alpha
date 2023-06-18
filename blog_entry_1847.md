@@ -1,18 +1,32 @@
 ---
 
-Uma nova temporada de House of Cards significa que as peças do jogo serão remanejadas para dar início a outra partida, e a história é sempre sobre o remanejamento de peças, e não a partida em si. A Netflix usa e abusa de seu formato, já que a temporada inteira foi concebida para ser assistida em sequência. Os episódios quase nunca terminam em reviravoltas, mas em conclusões. São mini-capítulos da eterna história pela busca do poder.
+Estou revendo essa série médica onde na época encontrei a metáfora perfeita para debugging: diagnosticar "doenças" do software. A maioria delas bem comum; mas algumas bem raras.
 
-E, para todo mundo que já assistiu essa série, sabe que ela não é sobre mocinhos versus bandidos. Todos são bandidos. A ação quase sempre se passa na Casa Branca! É sobre a máfia estatal, seus capangas, seus dirigentes, seus espiões. Não há lugar para pessoas boazinhas por aqui, já que nossa evolução propriciou justamente o pior dos ambientes para que os piores psicopatas da região dominassem sobre todo o restante de primatas ignorantes e alienados. Francis Underwood cada vez mais se parece com o símbolo da busca incessante por poder, e ele aos poucos se distancia do vilão sem coração que foi pintado em momentos anteriores. Ele é apenas um dos personagens mais honestos da série, sendo divertido, mas repetitivo, acompanhar seus comentários paralelos com seu espectador (nós).
+Há inclusive [um texto da época] onde este era um blog apenas técnico onde demonstro minha empolgação com essa analogia. Hoje é a vez de analisar como série.
 
-A honestidade de Frank bate de frente com a tranquilidade de sua esposa, Claire, que começa aos poucos perceber a estratégia do marido, quase que por telepatia. Os dois estão empenhados, alinhados, e é ótimo ver isso. Quem não gostar das preferências (ou opções) sexuais dos dois irá se sentir ofendido por esse casal. Mas não é lindo como ambos são honestos a respeito de praticamente tudo? A Claire da Season 5 é a sequência direta da 4, e ela empolga por ganhar aos poucos terreno em um ecossistema feito para homens. Robin Wright não é apenas uma ótima atriz, mas dois dos melhores episódios da temporada, os dois últimos, são dirigidos por ela. Há muitos diretores desta vez, e um resultado um tanto irregular, o que dá ótimas oportunidades para Claire brilhar ainda mais.
+E House não possui nada demais como trama ou história, exceto seu núcleo. O protagonista vivido por Hugh Laurie é o centro desse drama sobre um médico brilhante e seus métodos não convencionais de diagnosticar seus pacientes, geralmente casos raros.
 
-Não é uma temporada com muitos momentos brilhantes, e ela foi cozida em fogo morno. Porém, ela tenta se reciclar, o que é louvável, mas já deveria ter terminado muito antes do seu quinquagésimo capítulo.
+Há uma fórmula usada em cada episódio e ela aos poucos vai sendo revelada ao espectador comum. De vez em quando se trata de um câncer de difícil detecção, outras vezes é um conjunto de fatores que desencadeou os sintomas bizarros. Havia um certo charme nos primeiros episódios, mas como toda série a fórmula é levemente modificada para que a história não fique muito previsível ou enfadonha.
+
+Parte das mudanças está na potencial evolução do protagonista, que é um viciado em um medicamento chamado vicodin. A causa dele ingerir o analgésico é devido às dores de sua perna direita após a necrose muscular do membro, fruto de uma cirurgia que acabou salvando sua vida. Muitos dos personagens acessórios dizem que House sempre foi mal-humorado e polêmico, outros que ele ficou ainda pior após a cirurgia.
+
+O vicodin é formado por duas substâncias: hidrocodona e paracetamol. Graças à hidrocodona os receptores de opióides dos neurotransmissores são ativados, o que deprime o sistema nervoso central. Apesar do médico-chefe só conseguir pensar claramente para resolver o diagnóstico de seus pacientes sob o efeito da droga, ironicamente ela diminuiu sua atividade cerebral.
+
+A dinâmica da descoberta das doenças dos pacientes passa pela análise de sua equipe, que é a melhor parte da série, por evocar os poderes de dedução nos espectadores leigos (meu caso). É de lá que surgem as frases mais marcantes e as discussões mais empolgantes sobre ética e o quebra-cabeças vivo que é o corpo humano.
+
+Tudo no primeiro episódio é feito para explicar qual será a fórmula dos próximos. Os personagens importantes se apresentam inicialmente pelo roteiro (a versão televisionada cortou essas cenas). Em menos de uma hora entendemos parcialmente este mundo que se abre; a impressão é de assistir a um Sherlock Holmes em um universo paralelo. Porém, Hugh Laurie não imita o personagem secular de Conan Doyle, decidindo criar uma nova persona, conhecedora da mente humana como ninguém, mas sob os olhos frios da ciência e o julgamento sarcástico de quem está eternamente com tédio e dor.
+
+Lendo comentários feitos [neste site que possui uma visão técnica dos episódios](https://web.archive.org/web/20150117075644/http://www.politedissent.com/house_pd.html) é possível encontrar pontos importantes para quem é de fora da área. Por exemplo, alguém observa que não há outros médicos realizando os exames pedidos para a equipe, e às vezes são procedimentos simples, como um exame de sangue ou raio-X. E o motivo é claro, embora sutil: House não confia em outros médicos.
+
+Como o próprio protagonista vive dizendo, as pessoas não mudam. E no caso da série nem sua narrativa central: surge um novo caso, o primeiro diagnóstico nunca funciona, abre-se o primeiro ato e cria-se uma atmosfera de mistério, que efetivamente gera alguma tensão. Nós leigos apenas imaginamos o que poderá ser, sendo que na realidade não conseguimos sequer mensurar a dificuldade dessa tarefa de adivinhação, embora a série se lembre eventualmente que House é o melhor de sua área. Isso implica que nem o especialista mor consegue acertar de primeira um diagnóstico. Com esses parâmetros em mente essa ciência "exata" de diagnosticadores se torna mais empolgante para alguém com um olhar de fora.
+
+[um texto da época]: {{< relref "house" >}}
 
 ---
 categories:
 - writting
-date: '2017-05-30'
+date: '2017-06-05'
 link: https://www.imdb.com/title/tt1856010
 tags:
 - series
-title: House of Cards - Quinta Temporada, Episódio 1
+title: House of Cards - Quinta Temporada

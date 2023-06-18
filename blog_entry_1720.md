@@ -1,181 +1,25 @@
 ---
 categories:
-- coding
-date: '2019-05-28'
-title: 'C Resolve Tudo: goto'
+- writting
+date: '2018-03-14'
+link: https://www.imdb.com/title/tt6285776
+tags:
+- cinemaqui
+- movies
+title: Górgona
 ---
 
-Para quem decide usar a linguagem C para resolver tudo, a gota da água é o goto. Ele é flexível, cabe em (quase) qualquer ponto do código e tem 1001 utilidades. O goto é o bombril da engenharia de software.
+Era uma vez uma atriz com 50 anos de carreira, mais de 80 de idade. Ela é reconhecida por todos que tiveram o prazer de testemunhar seu trabalho. A crítica sempre é positiva a respeito de suas peças. E a despeito de tudo isso, "Górgona" começa como se estivéssemos diante de uma despedida triste e solitária.
 
-O uso mais simples dessa importante construção da linguagem é pular de um ponto para outro do código em que esses pontos não estão diretamente relacionados, como geralmente ocorre, como sair de um laço, não entrar em um if ou selecionar um case do switch (lembrando que no caso do case do switch ele é no fundo um goto disfarçado).
+Isso porque o público de teatro, como se sabe, não vem sendo dos melhores. Atores e atrizes de sucesso outrora hoje são desconhecidos da grande massa, conseguindo apenas uma coleção de admiradores, esses sim, fiéis até a morte, como podemos ver na fila de fãs após o espetáculo ser muito próximo da totalidade de público daquela noite.
 
-    if( argc != 5 )
-        goto usage;
+O documentário ficcional de Pedro Jezler e Fábio Furtado é uma viagem lírica que faz passar sua uma hora e dezessete minutos em um instante. Uma vez que você é fisgado para trás dos palcos não há volta. Querer descobrir mais e mais do que ocorre nos bastidores se torna uma obsessão. Acompanhar a intimidade e a cumplicidade da trupe de artistas e profissionais por trás da última peça de Maria Alice Vergueiro se torna uma honra e uma vergonha ao mesmo tempo. Deveriam as artes cênicas serem recompensadas entregando uma última dívida e nenhum grande público para os que insistem em viver o sonho? Essa questão reverbera o tempo todo na nossa mente conforme aos poucos fazemos parte daquele grupo e seu ritual irreverente.
 
-    /*
-    do something 
-    do something else
-    more to do
-    and more
-    and more
-    and more
-    and more
-    too much lines
-    ...
-    finished
-    */
-    return 0;
+E por falar em irreverente, a sexualidade no filme não é sensual, mas necessária para se continuar vivo. As observações de Maria Vergueiro sobre o órgão genital feminino, se em um momento parece de mau gosto, aos poucos vamos entendendo a metáfora. E também aos poucos vamos entendendo que as maneiras que ela se comunica hoje em dia, esquecendo sempre a fala e não conseguindo deixar de tremer as mãos quando chega ao teatro, é tudo o que restou desse ser humano. Que, mesmo assim, é feliz.
 
-    usage:
-    printf("How to use: ...");
-    return 1;
+Seus companheiros têm a cumplicidade maior de todas, pois nem questionam as decisões da mulher na cadeira de rodas. Ouvem com atenção, mas sem mais aquele respeito que distancia as pessoas, mas com a compreensão de amigos. Eles estão acompanhando provavemente a última fase dessa grande artista, e não é bonito, mas isso não os permite sentirem nem pena nem vergonha. O que eles sentem é simplesmente a amizade incondicional que torna os laços que foram feitos entre as décadas de trabalho ainda mais fortes. Eles são uma extensão do corpo da atriz que não consegue mais subir escadas.
 
-Claro que esse uso é trivial demais para valer a pena uma troca de fluxo tão desestruturada. Há formas mais úteis de desviar o fluxo padrão. No exemplo acima bastaria colocar todo o código que se segue dentro do grupo pertencente ao if e o goto seria desnecessário.
+Ao mesmo tempo, Maria Vergueiro não se contém em não dizer certas coisas. Sua vida de negócios é totalmente revelada, aos poucos, no filme. E descobrimos que ela é péssima em gerir seus negócios, mas íntegra ao mesmo tempo. E está muito bem em seguir tendo o prazer de arriscar o que não tem nessa empreitada em direção à aposentadoria eterna. Ela também não está cabisbaixa, e a postura dos cineastas em fazer esse filme não foi em momento algum tornar isso uma homenagem quase póstuma, mas sim uma redescoberta dos caminhos que o teatro e seus artistas têm tomado ultimamente.
 
-Mas, por exemplo, imagine que precisamos nos desfazer de recursos na ordem inversa ao qual vão sendo adquiridos. Pode-se aninhar indefinidamente ifs ou usar um bloco de código de unwinding que vai fechando os recursos na ordem inversa e inicia sua chamada dependendo de onde ocorreu o erro. Código é melhor para ilustrar:
-
-    FILE *f1, *f2, *f3, *f4, *f5;
-    
-    if( ! (f1 = fopen()) )
-      goto end;
-    if( ! (f2 = fopen()) )
-      goto end_f1;
-    if( ! (f3 = fopen()) )
-      goto end_f2;
-    if( ! (f4 = fopen()) )
-      goto end_f3;
-    if( ! (f5 = fopen()) )
-      goto end_f4;
-    
-    /*
-    code
-    ...
-    code
-    */
-    
-    printf("closing f5\n");
-    fclose(f5);
-    end_f4: 
-      fclose(f4);
-    end_f3: 
-      fclose(f3);
-    end_f2: 
-      fclose(f2);
-    end_f1: 
-      fclose(f1);
-    end: ;
-
-Esse ponto-e-virgula final se deve ao fato que os labels do goto rotulam um comando; logo, se ha um label, deve haver um comando logo depois (mesmo que seja nulo, no caso de ponto-e-virgula). Esse estilo de liberação de recursos é muito usado em códigos de kernel e software mais básico, pois simplifica a visualização e aumenta a flexibilidade. Compare com a versão estruturada:
-
-    if( f1 = fopen() )
-    {
-      if( f2 = fopen() )
-      {
-        if( f3 = fopen() )
-        {
-          if( f4 = fopen() )
-          {
-            if( f5 = fopen() )
-            {
-              /*
-                 code
-                 ...
-                 code
-               */
-              fclose(f5);
-            }
-            fclose(f4);
-          }
-          fclose(f3);
-        }
-        fclose(f2);
-      }
-      fclose(f1);
-    }
-
-Aliás, esse uso do goto é a maneira de aplicar RAII em C (Resource acquisition is initialization). Implícito em linguagens como C++ e seus destrutores de objetos, em C é você que precisa fazer a faxina. E se a bagunça foi feita da direita pra esquerda a faxina deve ser feita da esquerda pra direita.
-
-Esse uso super-aninhado do código me lembra do exemplo clássico de sair de muitos loops aninhados. Apenas por didática, vamos citá-lo:
-
-    for( ; ; )
-    {
-      for( ; ; )
-      {
-        for( ; ; )
-        {
-          if( condition )
-            goto outer_world;
-        }
-      }
-    }
-    
-    outer_world: ;
-
-Comentei no começo do texto que os cases do switch são labels de goto disfarçados. E são mesmo. Um dos algoritmos mais famosos de transformação de loop chamado Duff's device junta um do-while com switch e realiza uma cópia de buffer com um número de bytes variável:
-
-    send(to, from, count)
-    register short *to, *from;
-    register count;
-    {
-      register n = (count + 7) / 8;
-      switch (count % 8) {
-      case 0: do { *to = *from++;
-      case 7: *to = *from++;
-      case 6: *to = *from++;
-      case 5: *to = *from++;
-      case 4: *to = *from++;
-      case 3: *to = *from++;
-      case 2: *to = *from++;
-      case 1: *to = *from++;
-        } while (--n > 0);
-      }
-    }
-
-O que está acontecendo no código acima: é possível inserir qualquer tipo de mudança de fluxo dentro do switch. Duff aproveitou essa particularidade da linguagem para produzir jumps que poderiam ser feitos em assembly. Dependendo do resto da divisão por oito o salto é realizado para um case diferente, que executará parte do laço até o while comparador final. A vantagem desse tipo de abordagem é que evita-se sair da programação estruturada, e muito menos precisa-se apelar para o assembly.
-
-Esse código também seria possível de ser feito com o goto clássico, mas note que nesse caso ele fica mais verboso, pois é necessário fazer um if diferente para cada condição.
-
-    register n = (count + 7) / 8;
-    if (count % 8 == 0 ) 
-      goto case_0;
-    if (count % 8 == 7 ) 
-      goto case_7;
-    if (count % 8 == 6 ) 
-      goto case_6;
-    if (count % 8 == 5 ) 
-      goto case_5;
-    if (count % 8 == 4 ) 
-      goto case_4;
-    if (count % 8 == 3 ) 
-      goto case_3;
-    if (count % 8 == 2 ) 
-      goto case_2;
-    if (count % 8 == 1 ) 
-      goto case_1;
-    case_0: do { *to++ = *from++;
-    case_7: *to++ = *from++;
-    case_6: *to++ = *from++;
-    case_5: *to++ = *from++;
-    case_4: *to++ = *from++;
-    case_3: *to++ = *from++;
-    case_2: *to++ = *from++;
-    case_1: *to++ = *from++;
-    } while (--n > 0);
-
-Caso você tenha estranhada a definição inicial da função, ela é como se definia os argumentos em linguagem C antes do padrão ANSI, com os nomes e logo em seguida a declaração das variáveis como se fossem locais (porque de fato elas são, embora sua inicialização seja feita antes da chamada). Como este código data dos anos 80 e como o padrão só foi finalizado em 89, percebe-se que ainda se usava o formato antigo no código.
-
-Passemos para o próximo uso: código infinito. Esse é um uso clássico, e diferente do uso degenerado de laços em que a condição é sempre verdadeira (while(true), for(;;)) usando o goto fica bem-documentado que o objetivo é ficar eternamente nesse loop. Um laço infinito que eu me lembro é quando dá tela azul no Windows. O código-fonte do kernel era algo mais ou menos assim:
-
-    gerarDump();
-    mudarParaVga();
-    
-    while( true )
-      ; /* that's all, folks */
-
-Os programadores usaram o apelo clássico do while. Sem motivo, pois goto é usado direto como RAII (já explicado acima). A maneira procedural de fazer seria assim:
-
-    infinite:
-    goto infinite;
-
-Isso lembra outra utilidade do goto que você pode anotar no seu caderninho: ele pode voltar o fluxo, de baixo para cima. Esse último exemplo é um dos programas C mais lindos do universo. Sua única instrução é o comando rotulado por infinite e referencia ele mesmo. É quase o salto incondicional do assembly, materializado na linguagem mais elegante jamais criada em nossa realidade.
+Não há nada de novo sobre como a arte é (des)valorizada no Brasil, mas apenas a junção dos fatos com os sonhos em palco. É para mostrar que ninguém está com a cabeça na lua, mas que por serem artistas sonhar é vital para eles continuar. E assim é Maria Vergueiro, uma anônima hoje em dia, como tantas outras e outros, a seguir adiante nessa arte cada vez mais reservada a recintos sujos e mal iluminados. Há até certo charme decadente no ar.
 

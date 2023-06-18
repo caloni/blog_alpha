@@ -1,17 +1,36 @@
 ---
 categories:
-- writting
-date: '2018-10-28'
-link: https://www.imdb.com/title/tt8804436
-tags:
-- cinemaqui
-- movies
-title: Por Que Somos Criativos?
+- coding
+date: '2007-10-18'
+title: Por que minha DLL travou?
 ---
 
-"Por Que Somos Criativos?" é assim: imagine o diretor Hermann Vaske coletando testemunhos e assinaturas por várias décadas para responder uma pergunta que ele próprio não deve ter entendido até agora. Pois bem. Agora ele tem "rolos e rolos" de filme com essa história. O que ele faz? Junta tudo em um documentário que responde uma questão que ninguém nunca fez porque não faz o menor sentido (exceto artistas, talvez). O resultado é um emaranhado de nada cercado de celebridades que irão alavancar o filme às custas de suas imagens e seus possíveis insights.
+O resumo da ópera é que o código do Windows chamador do DllMain das DLLs carregadas/descarregadas utiliza um objeto de acesso exclusivo (leia "mutex") para sincronizar as chamadas. O resultado é que, em um processo, apenas um DllMain é chamado em um dado momento. Esse objeto é chamado de loader lock na documentação da Microsoft.
 
-O resumo da ópera? As únicas respostas que o diretor obteve de tantas pessoas para quem perguntou, a maioria artistas, atores, diretores, ativistas (?) e políticos (??), as únicas respostas realmente úteis vieram de duas pessoas que fogem um pouco da categoria de "humanas": um filósofo e um cientista. O filósofo conclui: qualquer idiota pode ter espasmos chamados de ideias; o problema é achar um formato para isso. E Stephen Hawking fecha com chave de ouro: "a ciência depende da criatividade; sua segunda pergunta (o título do filme) não faz sentido".
+{{< image src="loader_lock.gif" caption="Loader Lock explicado" >}}
 
-Sim, o documentário de Hermann Vaske é apenas um mini-hype com artistas respondendo essa pergunta da pior maneira possível porque não entenderam sequer o que está acontecendo. Boa sorte tentando assistir esse emaranhado de "insights" e tentar extrair mais alguma coisa disso tudo.
+Escrevi um [código besta] para exemplificar, mas representa o que já vi em muito código-fonte, e muitas vezes não consegui perceber o que estava acontecendo (tanto porque desconhecia a existência desse loader lock quanto o código estava obscuro demais pra entender mesmo).
+
+Uma simples vítima disso pode ser um pobre executável usando uma pobremente escrita DLL, assim como no código abaixo:
+
+    int main()
+    {
+      printf("load dll");
+    	HMODULE lockDll = LoadLibrary(_T("dll_lock.dll"));
+    
+    	if( lockDll )
+    	{
+    		Sleep(2000);
+        printf("free dll");
+    		FreeLibrary(lockDll), lockDll  = NULL;
+        printf("done");
+    	}
+    }
+
+É importante sempre lembrar que a Microsoft acha feio, muito feio você ficar dependendo do DllMain pra fazer alguma coisa, mas admite que em alguns casos o único lugar onde podemos rodar código é no DllMain. Nesses casos -- e em alguns outros -- utilize uma comunicação paralela com sua thread travadona, por meio de um evento ou algo do gênero, antes que ela realmente saia. Com isso a thread pode ainda não ter saído, mas pode avisar a thread principal que o que ela precisava fazer já foi feito.
+
+Entre os clássicos e inestimáveis artigos de Matt Pietrek no Microsoft Journal há na [edição de setembro de 1999] um bem curto a respeito da inicialização de DLLs. Essa é a leitura mais sucinta, didática e esclarecedora sobre a questão.
+
+[código besta]: dll_lock.cpp
+[edição de setembro de 1999]: http://bytepointer.com/resources/pietrek_debug_init_routines.htm
 

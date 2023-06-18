@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2020-03-28'
-link: https://www.imdb.com/title/tt0906778
+date: '2020-11-22'
+link: https://www.imdb.com/title/tt13143964
 tags:
 - movies
-title: Borboletas Negras
+title: 'Borat: Fita de Cinema Seguinte'
 ---
 
-Essa poetisa é maluquinha. Ingrid Jonker o nome dela. Morreu aos 32 anos. Houve um pequeno hiato antes de sua morte em que ela conheceu Jack Cope, um escritor mais velho que só escreveu um livro e que se esforçava para focar em outro. Jack salvou sua vida no dia que se conheceram, e ele se apaixonou perdidamente por esta libertina que é o resultado mais que previsível de um pai autoritário.
+O novo filme do Borat não consegue ser mais um mockumentary como o primeiro, nem apresenta qualquer crítica aguda ao American Way of Life como o primeiro. Como poderia? É um filme encomendado por uma mega-corporação vendendo streaming internacionalmente, mas fundada em solo americano. É um sistema de troca capitalista, onde ele te entrega algumas risadas em troca de sua alma.
 
-Seu pai defende a superioridade branca em plena África do Sul e em pleno Apartheid. Ele é o censurador de livros em um período politicamente tenso da história. Nelson Mandela ainda seria um nome a ser lembrado, e é o único nome que vemos no filme.
+Como o longo título original já denuncia, a historinha gira em torno da entrega da filha de Borat como noiva-presente a algum poderoso do governo americano. O objetivo é colocar a uma vez gloriosa nação do Kazadhstan de volta ao mapa. O plot twist do final faz referência a [Os Supeitos], thriller de investigação com Kevin Spacey dos anos 90. Tudo que há no meio é a descoberta da garota que nos EUA as mulheres podem dirigir (fujam para as colinas) e até votar (até aí os pobres também podem).
 
-Jonker é interpretada por Carice van Houten de maneira automática, mas ela vive esse momento compenetrada e nos convence. Ela é muito mais poetisa que Pablo Neruda de [O Carteiro e o Poeta], um filme que parece de brinquedo frente à intensidade deste trabalho da diretora Paula van der Oest.
+A garota é interpretada por Maria Bakalova, uma atriz búlgara que nos entrega uma honestidade no olhar e nas expressões que compensam sua aventura manjada. Do outro lado, é sempre bom ver o comediante Sacha Baron Cohen tentando algo diferente de vez em quando. Uma pena é que ele pareça estar no piloto automático boa parte do longa. Este é um filme sobre uma bagunça social e política ainda difícil de entender por nós, contemporâneos. "Fita de Cinema Seguinte" é apenas mais um na lista das tentativas.
 
-Os sentimentos da diretora holandesa a respeito do roteiro de Greg Latter flutuam no vácuo, mas sua tecnicidade controla por completo um filme que vai nos levando sem esforço algum. Não há significado, apenas emoções. Jonker é uma força da natureza que não argumenta, apenas segue seu final trágico. E ela serve de instrumento político em um filme que sobre esse assunto se torna monossilábico.
+O melhor momento do longa é real: se trata da captura de um discurso no início da pandemia, quando algum dos manda-chuvas do governo diz que por conta da quarentena ter sido iniciada um mês antes do recomendado pela OMS e até mesmo pelo partido dos democratas, oposição na época, as mortes foram contidas em seu mínimo. Um motivo para comemorar no passado que hoje em retrospecto serve de reflexão: teríamos mais mortes aindas caso Hillary estivesse no poder?
 
-[O Carteiro e o Poeta]: {{< relref "o-carteiro-e-o-poeta" >}}
+[Os Supeitos]: {{< relref "os-suspeitos" >}}
 

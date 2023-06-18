@@ -1,18 +1,13 @@
 ---
 categories:
 - writting
-date: '2021-05-22'
-link: https://www.crunchyroll.com/pt-br/pocos-udon-world
+date: '2021-08-08T21:36:05-03:00'
 tags:
 - animes
-title: Poco's Udon World
+title: Plastic Memories
 ---
 
-O pai dele fazia udom e ele se distanciou. Voltando ao interior, com os pais falecidos, ele reencontra suas memórias e uma criança perdida. É sobre udom, sobre memórias, sobre a vida passada e seu potencial desperdiçado. E a chance de recuperar.
+É curioso como alguns não-sci-fi se vestem de sci-fi, mas no final das contas é apenas um romance adolescente. Este é o caso típico. Ele apresenta as premissas de androides entre nós com prazo de validade e um sistema de coleta dos que estão para vencer, mas no final das contas o que ele quer mostrar é a relação afetiva (e semi-sexual) entre a androide lolita e o novato no departamento.
 
-Esse anime começa todo errado. Ele toca a introdução que apresenta uma menina que você ainda não viu, e já vai saber se tratar de um disfarce de um cão-guaxinim japonês (tanuki). Não há contexto emocional em dois minutos de conversa em uma casa de udom com um velho amigo. E sequer sabemos que o protagonista é um web designer. Sabemos apenas que ele vem de Tóquio para essa região distante onde viveu sua infância e adolescência. E, por fim, não há udom caseiro. Um engodo para você assistir mais e mais episódios sem ainda se comprometer emocionalmente.
-
-Ou seja, um enredo de início preguiçoso, não está interessado em captar as energias dispendidas de seu espectador. É matéria de publicação de mangá, burocrático e tedioso. A animação é fofa, é fato, mas com material prévio, se torna o minimo para animes. A direção insegura constrói rimas deselegantes em toda a ação. Como o momento em que o protagonista descobre a real natureza da menina. Observe cada segundo dessa sequência, em como tanto a direção quanto o roteiro escolhem minuciosamente os detalhes da narrativa sem levar em conta que tem alguém assistindo interessado em um desenrolar mais natural e artístico. Não um formulário de como deve ser uma história de anime.
-
-É como se Syd Field tivesse escrito um livro sobre como fazer animes em quinze simples passos. Não requer experiência.
+Então por que não mostra logo e esquece esse papo de androide? Bom, talvez porque pelo menos possui começo, meio e fim. Esse é um bônus.
 

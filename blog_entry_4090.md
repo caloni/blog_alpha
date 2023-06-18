@@ -1,14 +1,19 @@
 ---
 categories:
 - writting
-date: '2012-01-24'
-link: https://www.imdb.com/title/tt0995829
+date: '2012-04-20'
+link: https://www.imdb.com/title/tt2142055
 tags:
 - movies
-title: XXY
+title: Xingu
 ---
 
-Mais um filme com tema sexual polêmico (como o recente, leve e em cartaz Tomboy), mas que nesse caso, assim como o Minhas Mães e Meu Pai, se recusa a apresentar uma história que utilize seus personagens e seus conflitos de forma coerente ou pelo menos interessante. Não, a única coisa que faz é sempre focar na condição de Alex, um garoto que nasceu com ambos os genes, o masculino e o feminino , o que faz com que, entre outras coisas, ele/ela tenha ambos os órgãos sexuais. Uma aberração, certo? Errado. Alex é um ser humano qualquer, ou melhor dizendo, um adolescente qualquer, mas independente disso o filme tenta de todas as formas apresentar o conflito físico do personagem como sendo o único evento digno de nota, a única coisa na história que valha a pena ser contada.
+É um sintoma relevante do Cinema no Brasil que os temas mais polêmicos, salvo jovens clássicos como [Cidade de Deus] e [Tropa de Elite], sofram uma obliteração criativa. Xingu, novo trabalho de Cao Hamburguer na direção (O Ano em Que Meus Pais Saíram de Férias), com produção de Fernando Meirelles (que dispensa apresentações), não consegue fugir desse estigma completamente, embora tenha seus bons momentos.
 
-Dessa forma, até mesmo Alex fica em segundo plano, parecendo tão unidimensional quanto o rótulo que o filme lhe dá, de um caso "complicado". Bom, isso todos sabemos. O que não sabemos é a forma com que essa condição é tratada em família e amigos, coisa que a própria história fica muito aquém, mais uma vez se contendo aos estereótipos e a piadinhas sexistas que além de não engrandecer o tema, o simplifica ("ufa, pensei que meu filho fosse viado").
+Baseado nas experiências que três irmãos passaram durante uma expedição de reconhecimento de áreas inabitadas no Brasil, o filme traça uma relação entre os históricos Villas-Bôas e suas versões fictícias. Com narração em off de um dos irmãos o filme segue um rumo didático e burocrático, salvo os empolgantes momentos de ação ampliados pela ótima trilha sonora. Os pensamentos narrativos depois de um certo momento nem mais importam, pois o impacto gerado pelo encontro entre os índios e a nossa civilização dispensa palavras (em que língua deveriam elas ser ditas?).
+
+Porém, em troca dos ótimos momentos silenciosos entre dois povos no meio da mata virgem há uma mensagem idealizada e romantizada a respeito da situação dos ingênuos e incapacitados índios após a chegada dos brancos maldosos e gananciosos que simplesmente fica difícil de engolir. Podemos sentir esse ponto de vista unilateral não apenas nos representantes do governo central estereotipados, mas também na fotografia granulada que nos remete para uma realidade utópica e distante. Se não é o bastante, a própria visão desgarrada do mundo real de Cláudio Villas-Bôas é destruída por ele próprio e seus impensados atos.
+
+[Cidade de Deus]: {{< relref "cidade-de-deus" >}}
+[Tropa de Elite]: {{< relref "tropa-de-elite" >}}
 

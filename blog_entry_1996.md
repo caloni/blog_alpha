@@ -1,26 +1,32 @@
 ---
 categories:
 - writting
-date: '2016-07-31'
-link: https://www.imdb.com/title/tt4326444
+date: '2018-10-09'
+link: https://www.imdb.com/title/tt5607096
 tags:
 - movies
-title: Julieta
+title: Juliet, Nua e Crua
 ---
 
-Como sempre, sabemos desde o começo que este é um filme de Pedro Almodóvar, no estilo melodramático dele (e das cores do figurino, da direção de arte de muito bom gosto, etc). A trama mais uma vez envolve o passado misterioso de uma mulher -- a Julieta do título -- e mais uma vez as mulheres são as personagens fortes. E, para não deixar em branco, há uma tragédia grega usada como pano de fundo. Almodóvar nunca muda seus trejeitos, mas sua inventividade reciclada não gera os melhores frutos.
+É curioso ver o ator de IT Crowd, Chris O'Dowd, fazendo um romance dramático, um pouco longe da série de humor onde é mais conhecido. Ele consegue estabelecer um personagem que para mim é a grande questão de "Juliet, Naked": quando a emoção por algum motivo fala mais alto nosso senso crítico fica gravemente abalado.
 
-A história começa quando Julieta (Emma Suárez), depois de um ano planejando sua mudança para Lisboa com o marido, decide ficar em Madri após o encontro com uma amiga de longa data. Após o encontro, ela decide também redigir uma longa carta -- vulgo o filme -- onde conta para sua filha, desde o início, como conheceu o pai dela e os acontecimentos que levaram-na a um desfecho catastrófico para todos.
+Veja seu personagem, Duncan. Ele teoricamente é um conhecedor de artes, dá aulas na cidadezinha local sobre filmes e séries relacionando-os com clássicos gregos. Ele é um apaixonado, mas sua visão da realidade que o cerca parece no mínimo deturpada. Prova? Por algum motivo que as falas de seu personagem e a interpretação do ator não deixam passar ao público, considera a TV a única coisa que não está decadente na sociedade atual. Se isso não soa no mínimo um disparate para você, talvez você entenda a mente desse introvertido rapaz.
 
-Conseguindo ser um hábil contador de histórias assim como um hábil diretor, Almodóvar nos deixa tensos e presos à história, e a cada detalhe desta, do começo ao fim. Algumas vezes, é verdade, ele abusa um pouco da trilha sonora dramática, que soa repetitiva. Na maioria do filme, no entanto, é a própria história e a forma de contá-la que mantém em suspenso qual será o próximo acontecimento.
+De qualquer forma, esta sua opinião pop é um elemento a mais para entendermos por que ele venera tanto Tucker Crowe, um cantor de rock obscuro dos anos 70 que lançou alguns hits melosos rapidamente esquecidos. Para sempre.
 
-E isso é graças às famosas metáforas de sua obra. Aqui, Julieta é professora de literatura grega, e conta sobre as três palavras usadas pelos gregos para se referir ao mar, sendo uma delas tendo a semântica de "caminho", como se o mar fosse uma alternativa ao mundo mais estável e conhecido da terra firme: a aventura. Nós sabemos que os gregos possuíam o destino como um personagem à parte, se divertindo às custas dos humanos. Aqui nunca isso foi mais verdade.
+Não para Duncan. Simplificando sempre sua visão crítica sobre o mundo, ele diz para quem ainda tiver paciência de ouvir que o cantor é um gênio e todas suas músicas obras primas. Alguém que anda sem paciência para isso, até porque escuta a mesma coisa por 15 anos, é Annie, sua namorada, que se juntou com o rapaz por ser a única pessoa minimamente interessante pela pacata região.
 
-Vemos isso logo no começo da história, quando um galho bate no trem onde Julieta está, e um homem mais velho procurando por companhia adentra seu vagão. Uma tragédia ocorre a partir daí e poderíamos unir causa e consequência até o ato inicial de Julieta, o que a torna a própria mensageira da desgraça. Isso a marca para sempre, pois foi ali que conheceu Xoan (Daniel Grao).
+Para entender mais uma vez o nível de infantilidade desse professor de artes, os dois brigam quando ela faz um comentário negativo sobre uma versão da mesma música venerada por seu namorado. O único comentário negativo do site de Duncan, que graças ao milagre da internet reúne todos os fãs malucos do cantor desaparecido por décadas.
 
-Xoan é um pescador que, começando a viver o luto da mulher que estava em coma há cinco anos, recebe a visita de Julieta e tem com ela uma filha; ao mesmo tempo, Julieta (Adriana Ugarte) reprova a falta de cuidados com sua mãe pelo seu pai, que arruma uma jovem amante estrangeira enquanto deixa a mãe enferma trancada em um quarto. A passagem do tempo é fugaz, quase não a vemos, apenas pelo ponto de vista de protagonista.
+(O que me faz pensar que seu desaparecimento é mais um motivo para o surgimento de um ídolo, e por mais descabido que isso seja não está muito longe da percepção de sucesso da maioria das pessoas. Grandes astros no início de carreira foram imortalizados não por continuar seu bom trabalho, mas apenas por morrerem jovens.)
 
-A passagem acelerada do tempo, aliás, consegue convergir décadas em questões de minutos, e Almodóvar consegue sintetizar sua história maravilhosamente bem até a metade da projeção. Depois, suas metáforas perdem a força, e acontecimentos imprevistos explicam a perda de contato entre Julieta e sua filha. No entanto, a história muda de rumo no meio, mesmo anunciada nos minutos iniciais do filme.
+Mas divago, como Duncan.
 
-Dessa forma, Julieta é um trabalho mal-acabado, que prometia ser outro dos trabalhos magistrais do contador de histórias espanhol. Do jeito que está, se assemelha mais às novelinhas ocasionais do diretor, como Abraços Partidos.
+Claro que o único momento que Tucker Crowe responde a alguém nesse fórum, no privado (claro), é quando a namorada de seu maior fã faz o único comentário sensato de todo o site, e que se alinha ao que o próprio Crowe vem pensando sobre si mesmo: sendo pai relapso de vários filhos espalhados entre várias mães, sua auto estima não anda das melhores. Esse álbum nunca foi grande coisa, constata. Mas ele lê o fórum de seus fãs. É uma construção de personagem cheia de detalhes sutis que Ethan Hawke mata a pau sendo apresentado como tentando ser um bom pai para seu filho mais recente. Crowe pode não ser um grande músico, mas está tentando pelo menos ser um pai dentro da média.
+
+As situações em torno de "Juliet, Naked" são parte do roteiro padrão de romances nesse estilo, mas por causa dos personagens bem escritos o filme adquire um certo ritmo que é admirável, pois mesmo sabendo de todos os clichês surgindo não nos importamos com eles, mas com as pessoas em volta. Isso com certeza tem relação às ótimas atuações do trio principal, que compra a ideia de algo ligeiramente mais intimista do que o normal despretensioso dos romances medíocres.
+
+Por outro lado a direção nos mantém sempre bem acolhidos em lugares que refletem a personalidade de cada um envolvido, desde o cafofo subterrâneo de Dalton que é um altar disfarçado do seu grande ídolo, ou a própria "residência" de Crowe, em uma garagem bagunçada, vivendo ao lado de sua ex. Além de soar natural (por não exagerar nas caricaturas) o filme com suas cores frias, mas presentes, tem aquele clima aconchegante britânico. E eu adoro filmes britânicos.
+
+Mas voltando à grande questão que coloquei no início do texto, quero que preste atenção nela. Além de um romance entre pessoas este filme conta também sobre um romance que às vezes desenvolvemos com nós mesmos, por insegurança e uma auto afirmação vazia. É assim que Duncan alimenta sua obsessão por um cantor que ninguém mais dá a mínima. Isso o torna, de certa forma, especial. E por causa disso ele se agarra às suas convicções furadas até o fim, dando a oportunidade da melhor frase do filme: "arte não é para artistas, assim como a água não é para encanadores". Se essa frase não é genial e a obra prima de alguém, não sei o que pode ser.
 

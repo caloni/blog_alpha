@@ -1,89 +1,137 @@
 ---
 categories:
 - coding
-date: '2013-11-07'
-tags: null
-title: Ponto Flutuante Afundando
+date: '2007-11-07'
+title: 'Ponteiro de método: qual this é usado?'
 ---
 
-Quando armazenamos valores monetários em doubles seus cálculos conseguem manter a precisão e na maioria das vezes o ajuste de precisão funciona. Porém, encontrei alguns casos onde a subtração de dois valores fazia "perder" um centavo (ou comparações exatas) justamente pela limitação da precisão do ponto flutuante. Nesse exemplo os valores são 2.358,93 - 1.386,93, que em uma conta de padaria (mas correta) dá 972,00 ([até a Calc do Windows](http://www.codinghorror.com/blog/2009/01/if-you-dont-change-the-ui-nobody-notices.html) e [o Excel](http://dqsoft.blogspot.com.br/2007/09/ser-que-o-excel-2007-desaprendeu.html) funcionam), mas pelo Visual Studio 2010 chega perto, mas erra o alvo:
+Depois de publicado o artigo anterior sobre ponteiros de métodos surgiu uma dúvida muito pertinente do autor do blogue [CodeBehind](http://codebehind.wordpress.com/), um escovador de bits disfarçado de programador .NET: qual objeto que vale na hora de chamar um método pelo ponteiro?
 
-```
-#include <iostream>
+Isso me estimulou a desdobrar um pouco mais os mistérios por trás dos ponteiro de métodos e de membros, e descobrir os detalhes mais ocultos desse lado esotérico da linguagem.
 
-int main()
-{
-	double d1 = 2358.93;
-	double d2 = 1386.93;
-	double d3 = d1 - d2;
+Para entender por inteiro o que acontece quando uma chamada ou acesso utilizando ponteiros dependentes de escopo, algumas pequenas mudanças foram feitas na nossa pequena classe Rand.
 
-	std::cout << "d1: " << d1 << "\n";
-	std::cout << "d2: " << d2 << "\n";
-	std::cout << "d1 - d2 = 3d: " << d3 << "\n";
-
-	// comparando armazenamentos que diferem
-	std::cout << "d3 == 972.0: " << std::boolalpha << ( d3 == 972.0 ) << "\n";
-
-	// comparando armazenamentos similares
-	std::cout << "d1 == 2358.93: " << std::boolalpha << ( d1 == 2358.93 ) << "\n";
-	std::cout << "d2 == 1386.93: " << std::boolalpha << ( d2 == 1386.93 ) << "\n";
-}
-
-```
-
-Isso ocorre porque sua representação dentro da variável double é diferente de 272.0 do outro double. Depurando vemos mais claramente:
-
-{{< image src="TnsgAlZ.png" caption="Ponto Flutuante Afundando" >}}
-
-Ou seja, quando fazemos a subtração de d2 em d1, nossa precisão raspa um pouquinho e escapa pela beirada:
-
+    #include <iostream>
+    #include <time.h>
     
-    d1 2358.9299999999998
-    d2 1386.9300000000001
-    ======================
-    d3 971.999999999999777
-    ||||||
-    Esse é o valor "desejado".
+    class Rand;
+    typedef void (Rand::*FP)();
+    typedef int Rand::*MP;
+    
+    class Rand
+    {
+    public:
+      Rand()
+      {
+        m_num = rand() % 100;
+      }
+    
+      int m_num;
+    
+      void Print()
+      {
+        std::cout << "this: " 
+          << std::hex << this 
+          << ", member: " 
+          << std::dec << m_num
+          << std::endl;
+      }
+    };
+    
+    /** No princípio Deus disse: 
+        'int main!'
+    */
+    int main()
+    {
+      srand(time(NULL));
+    
+      Rand r1, r2, r3;
+      FP fp = &Rand::Print;
+      MP mp = &Rand::m_num;
+    
+      (r1.*fp)();
+      (r2.*fp)();
+      (r3.*fp)();
+    
+      std::cout << std::endl;
+      
+      std::cout << "this: " 
+        << std::hex << &r1 
+        << ", member: " 
+        << std::dec << r1.*mp 
+        << std::endl;
+    
+      std::cout << "this: " 
+        << std::hex << &r2 
+        << ", member: " 
+        << std::dec << r2.*mp 
+        << std::endl;
+    
+      std::cout << "this: " 
+        << std::hex << &r3 
+        << ", member: " 
+        << std::dec << r3.*mp 
+        << std::endl;
+    } 
 
-Na comparação com o valor redondo aparece a falha, mas note que isso não ocorre com os outros valores d1 e d2, já que o armazenamento adquire o mesmo formato:
+O novo código chama através do mesmo ponteiro o mesmo método (duh), mas através de três objetos diferentes. Se observarmos a saída veremos que cada instância da classe guardou um inteiro aleatório diferente para si:
 
-{{< image src="mqHh0wA.png" caption="Ponto Flutuante Afundando (2)" >}}
+    this: 0012FF6C, member: 97
+    this: 0012FF5C, member: 5
+    this: 0012FF60, member: 44
+    
+    this: 0012FF6C, member: 97
+    this: 0012FF5C, member: 5
+    this: 0012FF60, member: 44
 
-##### Corrigindo o incorrigível
+Cada compilador e plataforma tem a liberdade de implementar o padrão C++ da maneira que quiser, mas o conceito no final acaba ficando quase a mesma coisa. No caso de ponteiros de métodos, o ponteiro guarda realmente o endereço da função que pertence à classe. Porém, como todo método não-estático em C++, para chamá-lo é necessário possuir um this, ou seja, o ponteiro para a instância:
 
-Há uma forma de arredondamento [já disponível no C99](http://stackoverflow.com/questions/8316509/difference-dev-cpp-and-microsoft-visual-c-math-h) (mas não no Visual Studio 2010) que pode ser útil para esses casos. A única coisa que é preciso fazer é arredondar os valores antes do cálculo:
+{{< image src="fuzzycall.gif" caption="Ponteiros de método" >}}
 
-```
-#include <iostream>
+Em assembly teremos algo assim:
 
-double round(double r)
-{
-    return (r > 0.0) ? floor(r + 0.5) : ceil(r - 0.5);
-}
+    ; FP fp = &Rand::Print;
+    lea rax,[Rand::Print]  
+    mov qword ptr [fp],rax
 
-int main()
-{
-	double d1 = 2358.93;
-	double d2 = 1386.93;
-	double d3 = round(d1) - round(d2);
+    ; (r1.*fp)();
+    lea rcx,[r1]  
+    call qword ptr [fp]  
 
-	std::cout << "d1: " << d1 << "\n";
-	std::cout << "d2: " << d2 << "\n";
-	std::cout << "d1 - d2 = 3d: " << d3 << "\n";
-	std::cout << "d3 == 972.0: " << std::boolalpha << ( d3 == 972.0 ) << "\n";
-}
+    ; (r2.*fp)();
+    lea rcx,[r2]  
+    call qword ptr [fp]  
 
-```
+    ; (r3.*fp)();
+    lea rcx,[r3]  
+    call qword ptr [fp]  
 
-É uma decisão arbitrária essa de arredondar para cima, mas se for adotada em todo o sistema (e já fazendo parte de um padrão, no caso, o C99), não deverão existir problemas de interpretação de cálculos entre os componentes.
+Além do ponteiro de métodos, também é possível no C++ apontar para membros de um dado objeto como foi feito no exemplo acima. Para tanto, como vimos no código, basta declarar um tipo de ponteiro de membro de acordo com o tipo desejado com o escopo da classe: typedef int Rand::*MP. Nesse caso, a técnica de usar o próprio enderenço não funciona, já que cada objeto possui um membro próprio em um lugar de memória próprio. Porém, assim como os ponteiros de métodos, os ponteiros de membros exigem um objeto para serem acessados, o que já nos dá a dica de onde o objeto começa. Sabendo onde ele começa, fica fácil saber onde fica o membro através do seu offset, ou seja, a distância dele a partir do início da memória do objeto. O código abaixo simplifica a obtenção de um objeto dentro da classe usando ponteiro para membros:
 
-O mercado financeiro agradece =).
+    MP mp = &Rand::m_num;
+    int i1 = r1.*mp;
+    int i2 = r2.*mp;
+    int i3 = r3.*mp;
 
-**UPDATE**
+Note no assembly gerado que para isso funcionar o código precisa do offset armazenado em algum lugar. E, nada mais óbvio, o "ponteiro" de um membro de uma classe nada mais é que o offset deste membro dentro desta classe.
 
-Não estou de acordo com o armazenamento de valores monetários em doubles em vez de inteiros pelo simples motivo que **não há moedas no sistema financeiro com unidades que se dividem ad infinitum**. Por consequência, existe sempre uma unidade básica e indivisível (que no caso do Brasil é o centavo de real). Ou seja, como o objetivo é contar o total dessas unidades **que não se dividem**, o uso de inteiros é brainless.
+    ; MP mp = &Rand::m_num;
+    mov dword ptr [mp],0
+    
+    ; int i1 = r1.*mp;
+    movsxd rax,dword ptr [mp] 
+    mov eax,dword ptr r1[rax] 
+    mov dword ptr [i1],eax 
+    
+    ; int i2 = r2.*mp;
+    movsxd rax,dword ptr [mp] 
+    mov eax,dword ptr r2[rax] 
+    mov dword ptr [i2],eax 
+    
+    ; int i3 = r3.*mp;
+    movsxd rax,dword ptr [mp] 
+    mov eax,dword ptr r3[rax] 
+    mov dword ptr [i3],eax
 
-**UPDATE 2**
-
-Existe uma discussão exatamente sobre isso no [Grupo C/C++ Brasil](https://groups.google.com/forum/#!topic/ccppbrasil/uzn6i0PJi8UEu), que recomendo a leitura, o que me levou a escrever o post. Particularmente, sigo o raciocínio do Pedro Lamarão.
+Como podemos ver, não é nenhuma magia negra a responsável por fazer os ponteiros de métodos e de membros funcionarem em C++. Porém, eles não são ponteiros ordinário que costumamos misturar a torto e a direito. Essa distinção na linguagem é importante para manter o código "minimamente sadio".
 

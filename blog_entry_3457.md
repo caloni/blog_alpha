@@ -1,20 +1,12 @@
 ---
 categories:
 - writting
-date: '2017-04-16'
-link: https://www.imdb.com/title/tt3538760
+date: '2020-11-22'
+link: https://www.imdb.com/title/tt1664530
 tags:
 - series
-title: 'Sherlock: The Six Thatchers'
+title: 'Sherlock: The Great Game'
 ---
 
-Sempre um prazer assistir a um novo episódio da série Sherlock, que atualizou o personagem e o gênero de investigação criminal através de um roteiro, direção e edição que insistem em correr além do espectador, jogando migalhas de pistas para que imploremos por mais. Diferente do [episódio anterior] aqui a história volta para os tempos atuais, e há uma certa mesmice, mas que é explorada com uma certa elegância e que contém em seu terceiro ato uma notícia bombástica e ao mesmo tempo covarde, pois coloca os dois companheiros de volta a um formato manjado, mas não menos apaixonante.
-
-A história apresenta novas formas de demonstrar como a mente do poderoso detetive funciona, e faz diferentes montagens com mecanismos de roteiro e elucubrações mentais, além de forçar os personagens de Benedict Cumberbatch e Martin Freeman além de suas atuais situações. O mesmo não funciona para o irmão mais velho de Sherlock, ou até mesmo para Mrs. Hudson, patrimônio britânico intocável.
-
-No entanto, este exemplar é obviamente superior a tudo que se faz em torno de séries do gênero, e por isso merece ser, assim como a série inteira, degustada sem pudor.
-
- - 2020-12-02: Sherlock já começa a inventar histórias que soam um pouco melodramáticas demais. Porém, foi o jeito para continuar com esta última, derradeira, temporada. Ladeira abaixo, mas ainda bem acima da média.
-
-[episódio anterior]: {{< relref "sherlock-the-abominable-bride" >}}
+Um atributo admirável dessa série da BBC é que ela não cai na tentação de serializar histórias do detetive como se fosse comum crimes extraordinários acontecerem todos os dias em Londres. Cada episódio implicitamente gira em torno da única pessoa com motivos para trazê-los à tona: Moriarty, arqui-inimigo de Sherlock. E aqui os produtores e criadores sentem que é hora de apresentá-lo, já na primeira temporada que chega ao final. Sua aparição é discreta e em uma revisita impossível de não perceber os seus detalhes. Andrew Scott consegue sustentar a suposta loucura deste icônico vilão e não entrega todas as cartas na primeira conversa com seu motivo de existência. A sequência na piscina é pedestre, amadora e apaixonante. Merecedora de mais investimentos de tempo e dinheiro na produção. Algo muito especial está sendo criado aqui.
 

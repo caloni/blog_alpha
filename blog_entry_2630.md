@@ -1,24 +1,20 @@
 ---
 categories:
 - writting
-date: '2017-03-26'
-link: https://www.imdb.com/title/tt1825157
+date: '2016-01-07'
+link: https://www.imdb.com/title/tt0067824
 tags:
 - movies
-title: O Duplo
+title: O Dragão Chinês
 ---
 
-O Duplo é uma viagem moderna, animalesca, exagerada, utópica e livre de interpretações do livro homônimo de Fyodor Dostoevsky. Apresentando uma estética rica e impecável, o diretor Richard Ayoade adaptou o conteúdo do romance do autor russo com a ajuda de Avi Korine e entregaram um resultado além das expectativas que alguém poderia pensar de um filme protagonizado por Jesse Eisenberg como um herói tragicômico. Se trata de uma premissa simples: e se seu pior inimigo fosse você mesmo, mas em uma versão que todos reconheçam como um ser humano completo -- ainda que imoral -- e que você seja um mero espectador do sucesso que você poderia ser se pudesse, paradoxalmente, colocar seu próprio eu de lado, deixando de atrapalhar sua existência.
+The Big Boss, ou O Dragão Chinês (??), é um dos primeiros filmes de Bruce Lee no estilo Hollywoodiano, mas que mantém uma estrutura típica dos filmes de artes marciais: subir em escala até atingir o chefão.
 
-O impressionante é que Eisenberg consegue fazer tanto Simon James quanto seu sócia, James Simon, de uma maneira inquietante. Se como Simon chega a dar desespero a introspecção e o senso de invisibilidade do rapaz, assim como James se torna sua sombra que toma conta. E a sua sombra, como vemos no filme, é uma representação fidedigna de seu personagem, pois ela passeia pelos muitos cantos claustrofóbicos dos cenários fotografados por Erik Wilson, cheios de sombra e drenados de cor.
+Com uma trilha sonora embaraçosa e um ritmo de cena nem sempre adequado, O Dragão Chinês consegue oferecer uma lição de moral sem se esforçar muito: como o poder muda a visão das pessoas. No começo o jovem Cheng Chao-an (Lee) vem com seu tio que o traz a seus primos para que trabalhe com eles em uma fábrica de gelo. Um deles, o sempre solícito Hsiu Chien (James Tien) é gentil e justo com todas as pessoas, além de lutar muito bem. A vida na casa de seus primos é muito agradável, mas o problema parece rondar a fábrica.
 
-Em um ambiente que poderia lembrar 1984 (o filme), Brazil (o filme) ou qualquer desses futuros distópicos onde a esperança foi aniquilada por corporações sem alma, o suicídio é algo comum. As pessoas deixam de existir e cometem suicídio ou comentem suicídio para deixar de existir nesse mundo? Para Simon, o único motivo dele viver é sua vizinha do prédio à frente, a doce, jovem, bela e loira Hannah, interpretada por Mia Wasikowska como uma mulher vulgar ou trivial, e não como a deusa imaginada por Simon.
+Cheng prometeu ao tio que não lutaria para não entrar mais em encrenca, mas quando perde o amuleto, a fera está solta. A história dá uma guinada sensacional depois dali. Cheng, depois de se mostrar um exímio lutador, é promovido a capataz, e logo todo o grupo se esquece do desaparecimento de Hsiu Chien. Essa é a lição que é facilmente aprendida. As expressões nos rostos dos atores é manjada, inclusive de Bruce Lee, mas independente da estrutura, a história e as cenas de ação compensam em muito, pois tirando as montagens com facas, são reais, e editadas com uma energia inebriante.
 
-O ambiente também sofre várias influências do anime japonês, seja pela trilha sonora estilizada de Andrew Hewitt, que investe em canções em japonês, ou pelo exagero dos enquadramentos de Richard Ayoade, que usa um solitário vagão para mover seus personagens de e para o trabalho.
+Note, por exemplo, a luta final. Conhecemos o poder de ambos os oponentes, e mesmo que um carro ou um ônibus passe na estrada logo atrás nos distraindo, a concentração dos lutadores é imensa, tornando difícil não se interessar pelo desfecho da história.
 
-E que trabalho. Não sabemos o que é feito (como de costume em futuros distópicos), mas sabemos que as pessoas ficam com os cabelos brancos por lá. Se trata de um destino triste e solitário para Simon, cuja única felicidade é burlar um regulamento e imprimir apenas uma cópia na impressora para ir para o andar onde trabalha Hannah e pedir mais uma cópia. A assistente de Hannah lembra a megera de Expresso do Amanhã, assim como alguma outra megera de 1984.
-
-No entanto, talvez o trabalho mais sofisticado do filme seja seu roteiro. Bem estruturado em todas suas partes, não deixando detalhes existirem a esmo (incluindo seu desfecho genial), a adaptação de Ayoade/Korine não deixa margem a dúvidas sobre o que está acontecendo, mas apenas o porquê. Mas ele também não torna as coisas fáceis para o espectador médio, que precisa entrar a fundo no tema para entender o que está acontecendo e não se importar tanto em um porquê bobo que irá estragar a festa. O importante na história não é como é possível existir um sócia e as pessoas não perceberem (até porque, em uma cena do hospital, vemos que isso é possível de acontecer com qualquer pessoa). Essa não é a pegada semi-realista de O Homem Duplicado, mas a viagem filosófica por trás do que tudo isso significa para o homem comum.
-
-E é uma viagem sensorial, também. Exagerada quase além da conta. No entanto, não é necessário que seja assim, para entendermos que este é um assunto sério, seríssimo, mais do que uma simples brincadeira? O humor se encontra a todo momento nesse drama, mas vai se tornando cada vez mais "dark" a cada passo. Como é possível achar engraçado um destino tão desesperador?
+Sem colocar meios-termos no filme, temos nudez feminina e a morte de uma criança. Isso só acrescenta ao realismo do trabalho do diretor Wei Lo (ajudado por Chia-Hsiang Wu, embora não apareça nos créditos). E realismo é o que falta hoje em dia, no mundo do digital. Que belo trabalho de coreografia disposta em uma história clichê, mas que se torna poderosa naturalmente.
 

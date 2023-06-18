@@ -1,21 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-04-11'
-link: https://www.imdb.com/title/tt2614400
+date: '2020-04-20'
+link: https://www.imdb.com/title/tt0049366
 tags:
-- cinemaqui
 - movies
-title: Variações de Casanova
+title: Vampiros de Alma
 ---
 
-Variações de Casanova consegue provar que a ópera, até mesmo a transformada em filme, não é desse mundo. Não o mundo de hoje. Ela é terrivelmente mais lenta que isso, e por isso mesmo alheia à sua existência. Mas, além disso, aqui temos uma versão de Casanova que está em descompasso com a visão positiva de conquistador de mulheres. É um moribundo, e isso sim, diz muito mais sobre a época em que vivemos do que uma ópera de Mozart.
+Este é o primeiro dessa série de filmes com a mesma história do romance de Jack Finney: uma ameaça de fora faz com que as pessoas se tornem vazias por dentro, mas iguais por fora. Todos os problemas serão resolvidos, desde que todos os humanos se transformem nessa forma sem sentimentos que entram em conflito com a comunidade.
 
-Baseado em três fontes distintas e escrito pelo diretor Michael Sturminger, a criativa história usa a persona sensual do ator John Malkovich (Ligações Perigosas) interpretando em uma peça que mistura cenários reais e o palco, além de misturar personagens e o público. Os atores/personagens interagem com a plateia e até tornam seus assentos parte do cenário. As câmeras registram tudo como um show televisionado, mas uma edição inspirada une todas as três formas de enxergar essa história.
+Soa exatamente como comunismo para mim. Seja hoje ou na época da guerra fria. Mas a questão genial colocada pelo filme é a ambiguidade do exagero dos mocinhos.
 
-Casanova é o Don Juan plebeu que se ancorava na nobreza. Uma figura decadente na época que acumulava conquistas amorosas. Um "ninfomaníaco" de seu tempo que hoje é visto no filme como uma figura tão grotesca quanto trágica. Alguém que trouxe apenas dor para suas amantes e a si mesmo. Mas, assim como ele pontua na peça, a dor em si não consegue ser lembrada, mas apenas as circunstâncias em torno da dor.
+O tom exagerado pode e deve ter feito algumas pessoas da época crerem que se tratava não de uma alegoria anti-comunista, mas anti-macartista, pois a paranoia está solta no ar. As pessoas desse filme chegam em conclusões disparatadas ao menor sinal de algo estranho acontecendo na cidadezinha onde moram. É uma ambiguidade sedutora para a época. E pode funcionar, se você for um comuna safado.
 
-Essa fascinação que sua figura exerce no imaginário coletivo tem seus dias contados no filme, que vai dilacerando em diálogos com uma misteriosa visitante (Veronica Ferres) a verdadeira faceta de alguém que "não consegue viver de repetições". Se trata de uma história curta alongada pelos inúmeros números musicais que nessa bagunça de unir teatro, literatura e cinema, se diverte imensamente mais que o permitido pela paciência do espectador.
+A ideia por trás dessa produção dirigida por Don Siegel é gastar pouco dinheiro, e por isso a ameaça não é de monstros ou alienígenas ou qualquer outro artifício que dobre o custo de produção por causa das fantasias e efeitos visuais. A grande ameaça são essas pessoas sem alma, sem sentimentos, mas exatamente iguais em tudo aos outro seres humanos.
 
-O resultado é um filme sem muito o que dizer, e que contrariando o próprio Casanova, vive de repetições. E ninguém consegue viver de repetições. Nem mesmo em um filme.
+Os remakes que se seguiram, Invasores de Corpos (1978) e [Invasores] (2007), são tão bem sucedidos quanto esse, mas cada um em sua época. O original parece não ter envelhecido tão bem, pois se perde a referência política e histórica, mas ainda assim, é uma ótima fonte para entendermos como filmes que se esforçavam para entreter o público que ia aos cinemas se transformou em material zumbificado para consumidores de streaming. Fica a reflexão.
+
+[Invasores]: {{< relref "invasores" >}}
 

@@ -1,16 +1,18 @@
 ---
 categories:
 - writting
-date: '2011-06-12'
-link: https://www.imdb.com/title/tt1302011
+date: '2014-12-14'
+link: https://www.imdb.com/title/tt0441773
 tags:
 - movies
-title: Kung Fu Panda 2
+title: Kung Fu Panda
 ---
 
-A continuação das aventuras de Po, agora o Dragão Guerreiro, e os cinco furiosos, contém em sua essência os mesmos elementos que fizeram do original um sucesso como filme: as piadas irreverentes em torno da figura de um panda lutando Kung Fu (e Po é um personagem irreverente não apenas por natureza, mas em sua própria concepção de personalidade divertida), as sequências de luta orquestradas pela animada trilha sonora (que aqui já se torna um pouco mais confusa, e desafina um pouco se revermos o primeiro filme) e os primorosos efeitos visuais, que aqui ainda contém o interessante efeito da água no pelo de Po.
+Po é um panda, portanto gordo e lerdo. Ele vive em um vilarejo chinês em torno de uma montanha que hospeda os chamados cinco furiosos, mestres de kung fu que são animais que representam os diferentes estilos dessa arte marcial milenar: tigre, serpente, louva-deus, garça e macaco. Todos são aprendizes do mestre Shifu que, ironicamente também é um panda, mas uma espécie bem menor. Shifu, apesar de mestre, ainda é impulsivo e precisa dos conselhos de seu próprio mestre, uma tartaruga que parece ter vivido séculos. O orgulho de Shifu quando jovem o fez treinar um outro aprendiz que passou a usar suas habilidades pelo poder e não pelo conhecimento, desonrando o grande mestre e trazendo perigo para os inocentes habitantes do vilarejo, em sua maioria porcos e coelhos. Condenado a uma prisão de segurança máxima, sempre há o risco que ele busque vingança e consiga o segredo mais desejado por todos os lutadores: como se tornar o Dragão-Guerreiro, a escala máxima do kung fu e ambição de todos os aprendizes.
 
-O que move os personagens nessa sequência é mais um vilão que tenta acabar com a China e com o Kung Fu, o que torna a motivação dos heróis repetitiva e confusa (novamente, como eles vão acabar com o Kung Fu, mesmo?). É lógico que um adulto consegue entender o impacto que as armas de fogo tiveram sobre a arte das lutas corpo a corpo, porém essa dedução sequer aparece na história de maneira explícita, ofuscando um pouco a motivação de tudo aquilo.
+E o que tudo isso tem a ver com um panda grande e gordo? Bom, há uma cerimônia para revelar quem será o escolhido, o que por acidente acaba se tornando o tal panda. Isso quer dizer que agora Po precisa ser treinado por Shifu para combater seu aprendiz do mal. A má notícia é que Po é muito mais fã de kung fu do que um praticante. Tendo que ajudar seu pai em seu restaurante, sobra pouco tempo para este que é seu grande sonho.
 
-Com um trabalho criativo em alguns detalhes da trama (como a forma encontrada pelos guerreiros para fazer com que o Panda também "voasse" em direção aos inimigos), e piadas irreverentes de Po, o longa consegue divertir de forma inquestionável. Porém, com a falta de uma narrativa coesa o suficiente para imprimir em sua conclusão o conhecido arquétipo de lição de moral (modelo já utilizado no primeiro filme), o trabalho todo acaba perdendo peso significativo em seu final. Isso, contudo, não impede que algumas sequências sejam emocionantes pelo simples fato de serem emocionantes.
+Todos os elementos dramáticos de um grande filme de luta e superação se encontram em Kung Fu Panda, que ainda conta com a flexibilidade artística de uma animação. Isso permite que a equipe da Dreamworks, ao mesmo tempo que homenageie o gênero, assuma uma escala mais grandiosa -- evitando as leis da física, por exemplo -- e consiga também atingir o público mais jovem. É através de uma belíssima introdução em desenho estilizado que ficamos sabendo da história, o que já comprova o primor técnico da produção. Porém, na sua transição há a descoberta de mais uma poderosa virtude: o uso do humor escrachado.
+
+E a soma desses ingredientes, apesar de parecer uma bagunça, é o que torna o filme um exemplo de ação, drama e humor, conseguindo oscilar facilmente entre piadas fáceis e cenas de lutas grandiosas e emocionantes, além de trazer -- como toda boa jornada do herói -- lições de humildade e superação. E por mais que isso soe piegas e repetitivo, nunca é tarde para recontar uma história já recontada um milhão de vezes em um novo formato para um novo público que pode agora, tais como os fãs da filmografia de Quentin Tarantino, buscar as suas origens.
 

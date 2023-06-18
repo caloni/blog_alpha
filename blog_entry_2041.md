@@ -1,20 +1,16 @@
 ---
 categories:
 - writting
-date: '2013-10-06'
-link: https://www.imdb.com/title/tt0373074
+date: '2015-10-29'
+link: https://www.imdb.com/title/tt3472226
 tags:
 - movies
-title: Kung-Fusão
+title: Kung Fury
 ---
 
-Após uma revisita ao filme-gêmeo de [Shaolin Soccer], ambos exploram esse conceito do Kung-fu extrapolado ao cotidiano, a sensação é de um frescor de ingenuidade e violência comparados a Kick Ass (e não me admiraria que este fosse inspirado naquele). Só pelo fato da violência existir com mortes e essas mortes serem relevantes para estabelecer o peso da tensão em um filme que obviamente é uma comédia já mereceria créditos de sobra.
+Este curta (média?) metragem mistura anos 80, raptors, cop-raptor, arcades, Hitler, hackerismo, gostosas medievais, lasers, Thor, Kung-Fu, viagem no tempo, uma profecia e esse é apenas o começo de uma salada que apela para o absurdo usando efeitos digitais grotescos que se tornam caricatos e conseguem manter pelo menos meia-hora de um sentimento de confusão, identificação e êxtase juvenil. Afinal de contas, em que universo paralelo você pensou que veria um dinossauro lutar contra uma água dourada nazista?
 
-Depois de assistir À Família, uma tentativa de brincar com humor em um filme de gângsteres, fica óbvio o que Luc Besson faz de errado e o diretor Stephen Chow realiza com pontaria certeira em Kung-Fusão: os gângsteres são desonestos e violentos como em um drama, mas diferente de um, suas vítimas são tão violentas quanto. Da mesma forma com que Yun e Yang se complementam, a força malévola dirigida ao pobre vilarejo se volta na mesma proporção contra seus malfeitores.
+Dirigido, escrito, atuado e produzido por David Sandberg, Kung Fury não se priva de inventar as mais ousadas sequências porque, afinal de contas, nada faria sentido do mesmo jeito. Provocativo, deixa nas entrelinhas os absurdos que somos obrigados a engolir nos filmes de ação que levam toda essa farofa a sério. Pelo menos este filme sabe que nada é sério, e brinca constantemente com as facilidades com que o herói sai de qualquer situação impossível de resolver.
 
-Mas havia falado de ingenuidade, e esse que pode ser o ponto fraco nas cenas que exploram a relação do herói com a menina que havia salvo quando crianças. De qualquer forma, a entrega é cinematográfica, com direito a mudanças sutis no movimento, na fala e nas transições elegantes e lúdicas entre um pirulito desenhado em sangue e um doce/coração despedaçados. Esse lirismo parece não caber nesse filme, mas quando ocorre, é de parar a mais frenética cena de ação.
-
-Por fim, as habilidades crescentes dos opositores ligam tudo junto em um manifesto pró-kung fu que possui seus deslizes, mas em sua alma, mantém sua grandeza intacta.
-
-[Shaolin Soccer]: {{< relref "kung-fu-futebol-clube" >}}
+Este filme não foi feito por acaso: ele é exatamente o que você vê. Não houve falha na produção. Kung Fury tem o potencial de liberar a imaginação de futuros idealizadores, ou no mínimo servir de referência para uma época onde é possível colocar nazistas no lado oculto da lua, no centro da Terra e viajando no tempo. Nunca é tarde para reinventar e misturar épocas, gostos e referências. Com nosso poder computacional, nada mais fará sentido. Kung Fury é apenas o começo.
 

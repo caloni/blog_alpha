@@ -1,16 +1,18 @@
 ---
 categories:
 - writting
-date: '2015-03-13'
-link: https://www.imdb.com/title/tt0379725
+date: '2018-01-12'
+link: https://www.imdb.com/title/tt1535109
 tags:
 - movies
-title: Capote
+title: Capitão Phillips
 ---
 
-Espero que eu tenha entendido mal esse filme. Ele é bem feito, tem a atuação enigmática de Philip Seymour Hoffman, que foi um ícone de atuação até sua prematura morte. Porém, ele possui uma história e uma argumentação falhas demais. Transportando um assassinato bruto de uma família inteira para as ondas do destino e colocando em foco a história de vida de um dos assassinos, o roteiro de Dan Futterman baseado no romance de Gerald Clarke que busca exaltar a sensibilidade do antes escritor de ficção Truman Capote no escritor norte-americano de maior influência do século passado. Pior: ele transfere ainda a moral duvidosa para o próprio escritor, sendo que estamos falando de assassinos cuja biografia está sendo coletada com uma curiosidade inabalável de Capote que durou cerca de cinco anos.
+Este é um filme tenso. Bem tenso. Ele começa já tenso. Daí ele caminha para algo mais tenso ainda. O realismo do filme de Paul Greengrass (O Ultimato Bourne) remete diretamente à história real que ocorreu com o real Capitão Phillips. Tom Hanks está em um papel ingrato para ele, mas ainda assim faz muito e bonito. Ele é um capitão carismático, que tenta salvar sua tripulação de piratas somalianos que abordam seu navio. Ele tenta negociar de todo jeito, e alguns momentos, quando o longa começa a perder um pouco o ritmo, ele é retomado novamente graças às expressões, à forma de agir e de falar do personagem capturado por Hanks. E apenas isso já é digno de assisti-lo.
 
-Acompanhamos essa meia-década e a sua rotina de ir visitar o preso depois do julgamento e todas as apelações para evitar a pena declarada: morte. Mas não é um filme humanitário, não é um filme conservador. É um filme sobre o processo de biografia em si e sobre o cansaço de Capote durante esse processo. No entanto, ao final da experiência, acabamos sem saber como é o tal livro, como é o tal Capote, como é o tal assassino. Tudo que sabemos é como a família foi executada e como a voz de Capote inibia as pessoas em volta pela sua forma afetada.
+Mas além disso há aí um filme didático de como funciona quando um crime é cometido em águas internacionais. Toda a mobilização da marinha americana é vista por todos os ângulos. Vemos SEALs embarcando em uma missão a jato, vemos pesquisas sobre os piratas sendo feitas em tempo real para conseguir alguma vantagem estratégica. Vemos a maneira sagaz que Phillips consegue passar informações para seus salvadores mesmo não podendo fazer absolutamente nada.
 
-Uma voz, aliás, muito bem executada por Philip Seymour Hoffman.
+Este não e um filme que utiliza mecanismos no roteiro onde o sequestrado vai aos poucos ganhando alguma confiança de algum de seus sequestradores e aos poucos consegue uma chance de escapar. O roteiro de Billy Ray auxiliado pelo relato em livro do próprio Richard Phillips e o escritor Stephan Talty prefere se manter sóbrio para não perder o fio da realidade que nos acompanha do começo ao fim. É um fio tênue, que pode se partir às vezes, mas isso nunca acontece graças às idas e vindas do drama e da tensão crescentes.
+
+Vencidos pelo cansaço, espectadores desse filme com certeza sairão mais tensos do que chegaram. E isso porque as câmeras de Greengrass não pararam por nenhum minuto, e os cortes frenéticos do editor Christopher Rouse consegue capturar a ação sem nunca deixá-la morna. Está sempre fervendo, e o tempo passa cada vez mais rápido. Um trabalho correto do começo ao fim com ótimas atuações.
 

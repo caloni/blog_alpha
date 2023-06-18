@@ -1,33 +1,71 @@
 ---
 categories:
-- writting
-date: '2020-08-19'
-link: https://www.imdb.com/title/tt1439629
+- reading
+- coding
+date: '2023-04-28'
 tags:
-- series
-title: Community
+- interview
+- books
+title: A Common-Sense Guide to Data Structures and Algorithms
 ---
 
-Não sei se gosto de Community tanto quanto a primeira vez, uns dez anos atrás. Um de nós três deve ter envelhecido, e não de uma maneira boa: eu, a série ou a sociedade.
+Meu próximo livro para praticar entrevistas técnicas é este de Jay Wengrow. Jay queria explicar de maneira menos matemática e alienígena para programadores como algoritmos e estruturas de dados funcionam e como conceber bons algoritmos e medir a eficiência de algoritmos já prontos. Tudo isso serve também para você que deseja passar nas entrevistas técnicas e suas pegadinhas.
 
-As brincadeiras da série em torno do politicamente correto giram confortavelmente no limite do aceitável. E, no pior dos casos, sempre temos Pierce, o velho incorrigível, para fazer os comentários racistas e homofóbicos. Porém, se quando lançada, a série usava esses termos quase como jargões fora do mainstream, gerando um certo ar de estranheza para quem mora fora dos EUA, hoje nosso comportamento, ou ao menos o da sociedade americana, é pautado nesses conceitos. [O Grande Irmão] está firme e forte por lá. Até nas faculdades há folhetos que correm entre as mãos sobre conceitos como "microagressōes", e um professor recentemente foi demitido por fazer uma brincadeira sobre esse material. A liberdade de expressão tão elogiada nos EUA é cerceada inconscientemente nessa geração, como se julgamentos verbais fossem um ataque à propriedade privada.
+Ainda não terminei o livro, mas achei a didática de Jay Wengrow fabulosa, visto que os dois livros anteriores que li do assunto, [Algorithm for Dummies] e [Cracking the code interview] eram muito chatos e burocráticos. Aqui Jay está conversando de programador para programador. Mesmo que você nunca tenha ouvido falar em complexidade de algoritmo e nem seja um programador tão experiente assim vai conseguir entender os fundamentos de estruturas de dados e como manipulá-los na memória de diversas maneiras.
 
-Community não pertence a nada disso. É uma comédia leve e que se diz inteligente por ter um roteiro tão dinâmico e tão metalinguagem. Quando você usa metalinguagem você só pode ser uma pessoa inteligente, certo? A primeira temporada tem bons e maus episódios como qualquer série, mas os bons são muito bons e os maus são apenas experimentação. Experimentar com o humor é delicado, mais ainda que dramas, e eis a força de uma série que se reinventa a cada minuto. Comparada a fórmulas de sitcoms como Friends chega a ser ofensiva, e mesmo séries que confiam no carisma de sua proposta, como High School Musical, apenas confiam nessa premissa inicial e todo o resto segue no piloto automático.
+> A subproblem is a version of the very same problem applied to a smaller input.
 
-Community não. Seus personagens são bons para os diálogos que possuem, mas são particularmente ótimos por causa do seu elenco e das consequência da atuação empenhada de cada um de seus membros. Eles não estão trabalhando como atores que precisam pagar boletos. Este não é um clima leve como The Big Bang Theory. Eles estão construindo comédia aqui. É pesado, é dramático. Cada rápida expressão inesperada, que oscila entre os extremos Abed e Annie, é uma gota de suor que cai de um projeto ambicioso que explora até quando podemos fazer humor sem se preocupar em ofender alguém, mas em entender por que existe a ofensa quando o mundo pode ser um lugar tão bom a ponto de existir comédias como essa.
+Jay vai passando seu conhecimento aos poucos. Primeiro ele simplifica demais e usa analogias que nos deixam em uma zona de conforto. Depois ele vai complicando aos poucos. Quando menos esperamos já estamos sabendo o porquê de detalhes da computação que antigamente apenas aceitávamos como verdade. Ele me faz lembrar muito a didática do Tanenbaum, que constrói um argumento usando bom senso.
 
-A série na primeira temporada se revela numa crescente ingênua e ambiciosa. A direção é fresca e cheia de novidades que acabam esgotando suas ideias e partindo para o verdadeiro herói da história: Abed e seu um milhão de olhos, ou lentes, que observa as décadas passadas na TV e no cinema e nos apresenta em versões de vinte minutos, com qualidade invejável, cores chamativas, sensuais e divertidas. Community nunca irá envelhecer, pois é incapaz de se levar a sério. E por isso mesmo é a série de humor mais íntegra, completa e versátil de todas.
+Bom, o título de seu livro já denuncia: este é um guia livre de bullshitagem escrito por quem coloca a mão na massa. Parei de lê-lo na parte de recursão porque comecei a parar de fazer entrevistas técnicas e projetos começaram a vir. O meu próximo exercício seria o seguinte:
 
-Porém, olhando para as últimas temporadas, quando seu elenco vai se despedindo aos poucos, é possível perceber por que aquelas sete pessoas conseguiam fazer comédia tão bem, e por que simplesmente trocar personagens não funciona com todos os roteiros, diferente do elenco original. Ao mesmo tempo revela o cansaço dos nossos tempos, o peso do politicamente correto, incrustrado na sociedade desde o início do século. A última temporada de Community é uma alfinetada metalinguística profunda demais para ser percebida, mas está lá, para quem quiser analisar.
+"Use recursion to write a function that accepts an array of strings and returns the total number of characters across all the strings. For example, if the input array is ["ab", "c", "def", "ghij"], the output should be 10 since there are 10 characters in total. Use recursion to write a function that accepts an array of numbers and returns a new array containing just the even numbers. There is a numerical sequence known as “Triangular Numbers.” The pattern begins as 1, 3, 6, 10, 15, 21, and continues onward with the Nth number in the pattern, which is N plus the previous number. For example, the 7th number in the sequence is 28, since it’s 7 (which is N) plus 21 (the previous number in the sequence). Write a function that accepts a number for N and returns the correct number from the series. That is, if the function was passed the number 7, the function would return 28. Use recursion to write a function that accepts a string and returns the first index that contains the character “x.” For example, the string, "abcdefghijklmnopqrstuvwxyz" has an “x” at index 23. To keep things simple, assume the string definitely has at least one “x.” This problem is known as the “Unique Paths” problem: Let’s say you have a grid of rows and columns. Write a function that accepts a number of rows and a number of columns, and calculates the number of possible “shortest” paths from the upper-leftmost square to the lower-rightmost square. For example, here’s what the grid looks like with three rows and seven columns. You want to get from the “S” (Start) to the “F” (Finish). By “shortest” path, I mean that at every step, you’re moving either one step to the right: or one step downward: Again, your function should calculate the number of shortest paths."
 
-Pegue o episódio Analysis of Cork-Based Networking como exemplo, na quinta temporada. A espiral de corrupção encontra o protecionismo norte-americano, onde na Califórnia se chega ao cúmulo de haver um alvará para arrumador de flores. A persona de Jonathan Banks se encaixa perfeitamente no papel que ele e Alison Brie protagonizam de lutar para tirar a lama das engrenagens do sistema, mas falta aquela faísca que apenas o timing de Chevy Chase, mesmo sem muitos diálogos, conseguia nos brindar. A mesma faísca falta na participação de Abed, de volta com seu par romântico interpretado por uma irreconhecível Brie Larson ([Capitã Marvel]). O roteiro é esperto, mas nos faz lembrar o que um casting e direção inspirados não fazem juntos. Este é o último episódio antes da paralisação para as olimpíadas de inverno.
 
-Já em toda sexta e última temporada, qualquer episódio servindo como exemplo, o péssimo casting de Paget Brewster e Keith David estragam qualquer possibilidade da química que antes era inerente na série funcionar. Enquanto Brewster luta para conseguir um pingo de simpatia em sua irrelevância, a função de Keith David é nos fazer sentir falta do que é um ator de comédia em seu ápice como Chevy Chase, um ator para quem se pode entregar qualquer fala para torná-la hilária. Não pela fala em si, mas por tudo o que a persona de Chase investe em seu personagem.
+# Recortes
 
-Note como o tema do racismo, tão frequente no início, sequer é colocado em pauta agora. Vira uma piada leve de vez em quando. Não porque as pessoas não falem mais sobre isso lá fora, mas justamente porque essa discussão virou tão mainstream que existe uma cartilha das maneiras corretas de se abordar o tema. Ou seja, se tornou um assunto completamente inútil para se trabalhar uma comédia, que brilha justamente em trazer à tona situações absurdas que ocorrem quando tentamos nos proteger de qualquer coisa do mundo adulto.
+> Here’s what the notation means. It expresses the answer to what we’ll call the “key question.” The key question is: if there are N data elements, how many steps will the algorithm take? Go ahead and read that sentence again. Then, emblazon it on your forehead, as this is the definition of Big O Notation that we’ll be using throughout the rest of this book.
 
-Community era uma aula de como crescer em comunidade mesmo sem ter a mínima noção de como fazer isso. Independente dos fracassos em série na vida desses personagens, o mais importante era trazer a noção de que todo mundo consegue falar e agir sobre algo difícil. Community era um plano de ação. Agora foi podado pela polícia do pensamento. Um triste fim que serve como metalinguagem para o que se vive em nossos tempos.
+> Big O is originally a concept from mathematics, and therefore, it’s often described in mathematical terms. For example, one way of describing Big O is that it describes the upper bound of the growth rate of a function, or that if a function g(x) grows no faster than a function f(x), then g is said to be a member of O(f).
 
-[Capitã Marvel]: {{< relref "capita-marvel" >}}
-[O Grande Irmão]: {{< relref "1984" >}}
+> If you want to dig further into the math behind Big O, check out Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (MIT Press, 2009) for a full mathematical explanation. Justin Abrahms also provides a pretty good definition in his article: https://justin.abrah.ms/computer-science/understanding-big-o-formal-definition.html.
+
+> The soul of Big O is what Big O is truly concerned about: how will an algorithm’s performance change as the data increases? This is the soul of Big O. Big O doesn’t want to simply tell you how many steps an algorithm takes. It wants to tell you the story of how the number of steps increase as the data changes.
+
+> Because there will always be some amount of data at which the tides turn, and O(N) takes more steps from that point until infinity, O(N) is considered to be, on the whole, less efficient than O(1) no matter how many steps the O(1) algorithm actually takes.
+
+> The same is true even for an O(1) algorithm that always takes one million steps. As the data increases, there will inevitably reach a point at which O(N) becomes less efficient than the O(1) algorithm, and will remain so up toward an infinite amount of data.
+
+> This is actually the reason why this algorithm is called Bubble Sort: in each pass-through, the highest unsorted value “bubbles” up to its correct position.
+
+> In reality, however, Selection Sort is described in Big O as O(N2), just like Bubble Sort. This is because of a major rule of Big O that I’m now introducing for the first time: Big O Notation ignores constants.
+
+> This is simply a mathematical way of saying that Big O Notation never includes regular numbers that aren’t an exponent. We simply drop these regular numbers from the expression.
+
+> However, when two algorithms fall under the same classification of Big O, it doesn’t necessarily mean that both algorithms have the same speed. After all, Bubble Sort is twice as slow as Selection Sort even though both are O(N2). So, while Big O is perfect for contrasting algorithms that fall under different classifications of Big O, when two algorithms fall under the same classification, further analysis is required to determine which algorithm is faster.
+
+> Big O Notation only takes into account the highest order of N when we have multiple orders added together.
+
+> That is, if we have an algorithm that takes N4 + N3 + N2 + N steps, we only consider N4 to be significant—and just call it O(N4). Why is this?
+
+> One type of problem in which recursion is a natural fit is when we need to delve into multiple layers of a problem without knowing how many layers there are.
+
+> one area in which recursion shines is where we need to act on a problem that has an arbitrary number of levels of depth. A second area in which recursion shines is where it is able to make a calculation based on a subproblem of the problem at hand.
+
+> When going bottom up, we’re employing the same strategy for making the calculation whether we’re using a loop or recursion. The computational approach is the same. But to go top down, we need recursion. And because recursion is the only way to achieve a top-down strategy, it’s one of the key factors that makes recursion a powerful tool.
+
+> (...) recursion shines when implementing a top-down approach because going top down offers a new mental strategy for tackling a problem.
+
+> when tackling a top-down problem, it helps to think the following three thoughts: Imagine the function you’re writing has already been implemented by someone else. Identify the subproblem of the problem. See what happens when you call the function on the subproblem and go from there.
+
+# Próximas leituras
+
+ - Stein Introduction to Algorithms (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest Clifford)
+ - Data Structures and Algorithms in C++ (Lee Wittenberg)
+ - How to Think About Algorithms (Jeff Edmonds)
+ - Course in Algorithms Through Puzzles (Ryuhei Uehara First )
+ - Guide to Competitive Programming Learning and Improving Algorithms Through Contests (Antti Laaksonen)
+
+[Algorithm for Dummies]: {{< ref algorithms-for-dummies >}}
+[Cracking the code interview]: {{< ref cracking-the-coding-interview >}}
 

@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2022-01-31T20:52:53-03:00'
+date: '2019-10-23'
+link: https://www.imdb.com/title/tt8359842
 tags:
 - cinemaqui
+- mostra
 - movies
-title: O Páramo
+title: O Paraíso Deve Ser Aqui
 ---
 
-Páramo: planície solitária; deserto. (Figurado) O firmamento, a abóbada celeste. O cume, o ponto culminante. (Cinefilia, por mim) Termo erudito usado por aqueles que querem seguir a onda do terror para cultos, o terror psicológico debatido tomando uísque.
+O diretor palestino Elia Suleiman encontrou uma maneira divertida de mostrar ao mundo as diferenças da visão de um cineasta do resto de nós, mortais. Em O Paraíso Deve Ser Aqui ele próprio é o protagonista, vestido como costuma se vestir, e observa da varanda de sua casa as situações do dia-a-dia, mas que através de suas lentes saem muito mais atípicas do que estamos acostumados a interpretar.
 
-O filme de estreia do diretor espanhol David Casademunt pode usufruir de uma fotografia de cores sufocantes, uma direção de arte que evoca os pesadelos mais inconscientes, uma trilha sonora que mantém nossos corações em suspense. Os efeitos visuais, apesar de batidos, também usufruem dessas mesmas virtudes de uma produção que soa desperdiçada pela óbvia, triste direção, e o roteiro escrito a seis mãos que seguramente estaria melhor nas mãos de apenas uma: o seu diretor.
+A brincadeira segue uma dinâmica simples: vemos Elia obervando algo à sua frente enquanto está sentado na calçada de uma cafeteria, ou em sua casa, ou no portão de sua casa ou, na segunda metade do longa, viajando por Paris e Nova York. Enquanto vemos o observador, nossa mente já se prepara não para o que ele está vendo, mas a forma que ele está vendo.
 
-O terror em camadas é de praxe hoje. Inúmeros trabalhos recentes do gênero, como Hereditário, A Bruxa, ou o mais antigo Babadook, fornecem pistas durante o entretenimento que há algo mais a se olhar do que os sustos fáceis e as sombras retocadas da equipe de produção. Há uma história. E um sub-texto. O Páramo nesse contexto é um excelente entretenimento sem uma história que a conduza. Nesse sentido ele se afasta dos trabalhos citados neste parágrafo e tristemente se aproxima de um parque de diversões muito bem elaborado.
+Pessoas nesse filme se comportam de maneira diferente do que há na realidade. Um homem na frente dos policiais toma um refrigerante e estilhaça a garrafa na parede. Enquanto isso, cinco guardas escoltam uma senhora que se arrasta pela plataforma do metrô de Paris. E em Nova York, na companhia de Gael García Bernal fazendo ele mesmo, acompanhamos uma anedota sobre como um estúdio americano quer filmar a conquista espanhola com atores falando inglês. E, infelizmente, isso pode muito bem não ser mentira.
 
-Se você, cinéfilo treinado, que assiste pelo menos três filmes toda semana, em algum momento começou a assistir um filme e em cinco minutos ainda não sabe sobre o que se trata, saiba que o problema não está em você, mas no que aparece na tela. A história de O Páramo mistura pano de fundo histórico com folclore local e metáforas que tentam encaixar conceitos quadrados em formas redondas. Nunca consegue. No máximo sugere alguma conexão com um mundo tão terrível que as pessoas estão dispostas a tirar a própria vida do que permanecer definhando em um inferno não anunciado.
-
-Não me leve a mal. Este é um excelente entretenimento. A produção, como comentei, é das melhores. Eu adoraria assistir mais trabalhos de Casademunt. Assim que os produtores se cansarem dele e o diretor partir para trabalhos mais intimistas. Não é na fórmula do "neo-terror" que encontraremos a obra de arte definitiva, vendável e eterna. É na liberdade das mentes dos cineastas que reside o terror mais pulsante, mais genuíno, que nosso subconsciente jamais pensou em revelar a nós mesmos.
+"O Paraíso Deve Ser Aqui" é uma visão peculiar e divertida da mente de um criador enquanto este vive situações do cotidiano, montadas com muito esmero. Cada cena é belíssima, um verdadeiro quadro, pincelado da realidade que a maioria de nós não enxerga. Mas está ali. Pelo menos vamos acreditar no diretor.
 

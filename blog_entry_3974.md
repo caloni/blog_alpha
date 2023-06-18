@@ -1,20 +1,18 @@
 ---
 categories:
 - writting
-date: '2012-12-08'
-link: https://www.imdb.com/title/tt0120623
+date: '2013-08-11'
+link: https://www.imdb.com/title/tt0918575
 tags:
 - movies
-title: Vida de Inseto
+title: Victim
 ---
 
-Historinha politicamente correta e chata da Pixar.
+Adoro filmes que me surpreendem. Melhor ainda quando eles começam não prometendo quase nada. É o caso desse "Meu Passado me Condena" (Victim, no original e no IMDB), que inicia como um thriller nada original, caminha por estradas tortuosas do gênero para finalmente se definir no terceiro ato com seu momento glorioso que nos faz voltar desde o começo e entender que nada do que parecia era exatamente como se supunha.
 
-Conta a história de um formigueiro que é ameaçado por gafanhotos e assim é obrigado a colher todos os alimentos da pequena ilha em que moram para oferecer aos insetos voadores, maiores e feiosos. A fábula, que se assemelha a um conto infantil, possui momentos inspirados em épicos mais adultos ([Spartacus]), onde um grupo opressor é o que separa os heróis de sua liberdade e consequente felicidade/prosperidade.
+Iniciando com um vídeo caseiro, supostamente do assassino de uma bela garota vinda do Kansas (Jennifer Howie), que parece ter relação com o sequestro e tortura psicológica de um rapaz bem apessoado que encontramos em um bar e cujo nome não sabemos (Stephen Weigand), acompanhamos seu sofrimento nas mãos do aterrorizante Dr. Rudolph Volk (Bob Bancroft), que tem uma voz inquietante, frases desconexas com a realidade e fala pausadamente para sua vítima, causando um mal estar pior do que já está. Tendo a ajuda de seu capanga igualmente enigmático e ainda dotado de músculos que é chamado pelo Doutor como simplesmente Sr. George (Brendan Kelly), entendemos a fuga ser algo no mínimo bem complicado, ainda mais ao acompanharmos os períodos em que o deixam debilitado através da falta de comida e por queimarem todos seus dedos de uma vez (o que mais uma vez reforça a nossa falta de identificação com o rapaz).
 
-Dito isso, Vida de Inseto poderia ser um exercício filosófico e humano caso não se desse tanto ao trabalho de dar voltas em seu roteiro que entregam piadas prontas que funcionam até certo ponto, apesar de ficarem aquém da criatividade dos seus criadores, que inventam um mundo inteiro acontecendo em pouco mais que um quintal e que é rico em detalhes subaproveitados, como na rápida sequência do circo.
+O fato de nunca conhecermos de fato quem são essas pessoas nem suas motivações é o que torna tudo mais aterrorizante. O estilo dos diretores Matt Eskandari e Michael A. Pierce de tornar a experiência mais "thrileresca" do que deveria diminui o filme, mas não o sabota. Se torna talvez apenas mais um traço que incomoda e ao mesmo tempo despista para o aburdo desenrolar e a arrebatadora conclusão que o coloca na mesma intensidade que seu filme gêmeo, que não devo citar aqui para evitar uma dupla surpresa para quem já o tiver visto. No entanto, quem o viu/verá com certeza sabe do que estou falando.
 
-Presos à necessidade boba de serem fiéis a uma cartilha de moral e finais esquemáticos, como a exigência de um casal plato-romântico, a adequada conclusão não entrega mais que o óbvio.
-
-[Spartacus]: {{< relref "spartacus" >}}
+Dotado de uma conclusão que é capaz de nos fazer passar mal tanto pelos acontecimentos quanto pelo que eles significam metaforicamente, Victim é capaz de nos deixar pensando por horas após ter terminado, tentando colar as peças umas nas outras inutilmente. Um exercício de destreza narrativa que raramente gera aquela sensação de que gostaríamos ainda mais do resultado se pudéssemos conhecer mais sobre seus personagens. No entanto, talvez seja assim que as coisas devam permanecer. É melhor não fazer muitas perguntas e estragar todas as surpresas e mistérios que o curtíssimo longa já nos oferece.
 

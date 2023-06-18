@@ -1,18 +1,23 @@
 ---
 categories:
 - writting
-date: '2020-02-02'
-link: https://www.imdb.com/title/tt0102587
+date: '2019-05-31'
+link: https://www.imdb.com/title/tt6313378
 tags:
+- cinemaqui
 - movies
-title: Memórias de Ontem
+title: Memórias da Dor
 ---
 
-Memórias de Ontem é um filme excepcional dos Estúdios Ghibli sobre personagens da vida comum. Feito nos anos 90 e lançado internacionalmente em 2015, somos levados pelo passado da criança Taeko através da mente da adulta Taeko, que usa suas férias no trabalho como desejaríamos fazê-lo se fôssemos corajosos a esse ponto, tal como a máxima do filósofo Henry David Thoreau: vida a vida que você sonhou.
+A estrela de Memórias da Dor é definitivamente Mélanie Thierry. Neste drama psicológico acompanhamos em uma atmosfera sufocante a dor pendente da personagem de Thierry, a mulher que aguarda pelo retorno de seu marido ou pela notícia de sua morte. E a maior dor aqui não é a possível morte, mas a falta de resposta.
 
-O que torna as memórias do filme em algo agridoce é a interpretação sensorial e racional da Taeko adulta por trás de suas passagens tragicômicas de quando criança, ao finalmente viver o que não teve quando criança nas férias do seu trabalho. Enquanto somos levados pelo embalo psicológico de suas lembranças, Taeko repensa em como todos os nãos que recebeu poderiam significar uma mudança radical em sua vida no presente.
+Estamos na Segunda Guerra em uma Paris sitiada pelos alemães. Os franceses estão distribuídos em ambos os lados. Marguerite Duras (Thierry), escritora, tem seu marido capturado entre os presos de guerra. Eles são infiltrados dos aliados, mas o inspetor da Gestapo que cuida do caso não sabe disso, ou pelo menos essa é uma versão dos fatos. Marguerite se envereda como uma mulher aguardando pelo retorno do marido na guerra e ao mesmo tempo como uma espiã que tenta obter mais informações do paradeiro dos capturados. O clima sempre é de tensão. Tensão e dor por não saber quando a situação vai se resolver.
 
-Este é um filme de "e se" maduro e lindamente desenhado pelos estúdios. A paleta de cores monocromática e quente das lembranças, seus contornos que lembram poesia e fascinação, e sua falta de bordas que nos remete diretamente às nossas próprias percepções de quando nos lembramos de algo vagamente e distante no tempo, além da música de fundo tímida que cresce na proporção com que o passado se torna mais forte. O resultado é arrebatador e emocionante. Arrebatador porque somos levados junto dela através de um passado muito característico, desenhado com paixão, do Japão na década de 60. Emocionante porque a trilha sonora vem no momento certo. Este é um filme com o timing emocional quase perfeito. Suas virtudes estéticas nos permitem enxergar uma história madura se configurando em tornos desses inúmeros "e ses".
+O ponto chave deste filme é sua direção. Realizando uma abordagem psicológica da trama, o diretor Emmanuel Finkiel utiliza uma filmagem de closes, de vultos ao fundo, quase indelineáveis de tão distorcidos. O uso da luz é opressiva. Marguerite vive nas trevas em sua própria casa, como uma metáfora para sua ignorância sobre o paradeiro de seu marido e a espera pelo fim da guerra, mas ao mesmo tempo como uma forma de proteção do passado. Dentro de sua casa ainda existe o passado, enquanto que o futuro lá fora está pendente.
 
-Apesar de possuir um roteiro episódico e a separação didática de uma passagem por memória, sua edição fluida não reflete isso, pois pula entre presente e passado como partes indivisíveis do processo. É a magia da animação que não precisa da técnica para funcionar, mas com ela ganha um ar universal mesmo se tratando de uma história local. E seus personagens são tão vivos em seus movimentos e expressões que poderiam ser atores de carne e osso. Seus trejeitos tão bem equilibrados entre o caricato e o característico que dos traços emerge personalidade.
+Além disso, sobre a criação da tensão, o filme realiza uns truques soltos de interpretação que tornam a ordem e o detalhe dos eventos confusos propositadamente. Em um momento Marguerite se imagina descendo as escadas. Ela observa a si mesma fazendo isso. Em outro momento ela se maqueia para sair, e a vemos observando isso. Pode soar confuso, mas a pegada psicológica é óbvia: a observação mental de seus atos, remoendo tudo o que se sabe. E o resultado fica muito melhor no visual. Para finalizar com chave de ouro, o uso de passagens do livro de Marguerite Duras emula com perfeição a descrição verbal de uma espera eterna e angustiante.
+
+A estrela do filme, Mélanie Thierry, faz uma personagem de uma nota só. E essa é a abordagem correta. Ela não é um ser multifacetado, rico e cheio de disposição. Ela está acabada, praticamente morta. Ela se sente morta e ao mesmo tempo lamenta não estar. O peso da consciência e da perda são demais para uma pessoa só. O espectador que se segure em sua poltrona.
+
+Este não é um fime muito empolgante. É para aqueles que topam um filme de estilo temático, quase experimental, tamanho o número de artifícios usados pelo diretor. Indo até as últimas consequências dessa tortura que lembra um pesadelo sem fim, Memórias da Dor é uma experiência angustiante recomendada apenas para os que gostam muito de cinema.
 

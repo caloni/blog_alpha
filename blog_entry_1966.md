@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2015-11-18'
-link: https://www.imdb.com/title/tt2403029
+date: '2020-05-04'
+link: https://www.imdb.com/title/tt0140296
 tags:
 - movies
-title: Jogos Famintos
+title: Jogo Duro
 ---
 
-Das paródias, talvez seja um dos poucos que segue boa parte do roteiro, ou pelo menos da história original. Sendo assim, se torna um filme até que simpático, pois pega carona em uma boa narrativa (a do original), além de nostalgicamente remeter aos bons momentos do primeiro filme da franquia baseada em livros.
+Antônio Fagundes está em todas as pornochanchadas. Está nessa daqui também, que peca por pouca sacanagem e muitas divagações sociais. Antes mesmo da Ancine já tínhamos que aguentar lenga-lenga pseudo-revolucionário no meio do tchaca-tchaca. Isso, sim, é uma sacanagem sem vergonha. Pior que isso só uma aula de história.
 
-Com defeitos especiais que são risíveis em um primeiro momento, depois fica fácil se acostumar, embora quase nenhum deles funcione, pois são mal feitos e duram muito tempo na tela, diferente de vídeos semelhantes na internet (entre eles o ótimo Kung Fury). Os pontos positivos diferentes do conteúdo original ficam todos por conta de como é deturpada a visão já no estilo paródia de uma história que tenta criticar programas televisivos no estilo reality show. Aqui toda a trama é revelada e analisada direto no texto, e onde se perde sutileza se ganha em comédia gráfica e escrachada, como nos momentos que o jogo é paralisado para os comentaristas observarem uma cena -- como a morte pelos testículos, um ponto alto -- ou durante a hilária pausa do primeiro tempo.
+Para produzir este filme só precisaram alugar uma casa abandonada classe-média nível ninguém-aguenta (tem uma cena com alguns deles, a dondoca fica presa em um banheiro aterrorizante). Fica do lado do Estádio do Pacaembu, zona nobre. O que quer dizer que é uma rua tranquila pra fazer filmagens.
 
-A atuação da menina principal (Maiara Walsh, igualmente linda) é uma cópia ambulante de feições de Jennifer Lawrence, o que não deixa de ser curioso nos momentos que JenLaw não protagonizou em Jogos Vorazes. O uso de tantos figurantes quase que impressiona, já que sabemos que está é uma produção de baixo orçamento.
+A moça do filme não fala nada. Só faz cara de brava. Pelo menos tem uma hora que se despe todinha. Alguma coisa tem que valer nesse cachê (mais tarde esta dona faria novelas globais).
 
-Por fim, Jogos Famintos é uma prova que reality shows realmente chamam a atenção do público e podem render momentos curiosos e interessantes, mesmo que tudo não passe de uma farsa de uma farsa, e que no final tenhamos que suportar o velho clichê das cenas erradas. Até aqui isso funciona razoavelmente bem.
+A história gira em torno da casa que está para alugar desde nunca e o caseiro (Paulo Betti), que encontra essa senhora boazuda e sua filha morando escondidas por conta do segurança da rua. Um triângulo amoroso se forma e muitas piadas espirituosas do jeito brasileiro de ser.
+
+Se não fosse a mensagem comunista até daria para recomendar este filme para crianças. Ele é engraçado em alguns momentos, mas inofensivo em todos os outros.
 

@@ -1,21 +1,20 @@
 ---
 categories:
 - writting
-date: '2019-03-14'
-link: https://www.imdb.com/title/tt6428676
+date: '2022-01-31T20:52:53-03:00'
 tags:
 - cinemaqui
 - movies
-title: O Parque dos Sonhos
+title: O Páramo
 ---
 
-Nos primeiros quinze minutos de O Parque dos Sonhos é possível que uma lágrima escorra dos olhos de um espectador cativado pela proposta. Eu gostaria de acreditar que não são lágrimas de manipulação, pois realmente parece um tema emocionante. Porém, já nos últimos quinze minutos é possível que esse mesmo espectador esteja pensando no que foi que deu errado para que essa história acabe em mais do mesmo.
+Páramo: planície solitária; deserto. (Figurado) O firmamento, a abóbada celeste. O cume, o ponto culminante. (Cinefilia, por mim) Termo erudito usado por aqueles que querem seguir a onda do terror para cultos, o terror psicológico debatido tomando uísque.
 
-Pelo menos essa foi minha sensação com o filme dirigido por três pessoas, roteirizado por mais outras tantas e produzido em uma parceria entre a Paramount e a Nickelodeon (o canal de animações como Bob Esponja). Ele contém uma ideia maravilhosa a respeito do poder da criatividade como força motriz para sermos seres humanos mais completos, mas que acaba não dando em lugar algum senão em soluções fáceis e apressadas de uma animação que não se importa tanto assim com uma ideia boa quando ela aparece.
+O filme de estreia do diretor espanhol David Casademunt pode usufruir de uma fotografia de cores sufocantes, uma direção de arte que evoca os pesadelos mais inconscientes, uma trilha sonora que mantém nossos corações em suspense. Os efeitos visuais, apesar de batidos, também usufruem dessas mesmas virtudes de uma produção que soa desperdiçada pela óbvia, triste direção, e o roteiro escrito a seis mãos que seguramente estaria melhor nas mãos de apenas uma: o seu diretor.
 
-Sua heroina é June, uma criança que mobiliza todo o bairro porque ela é a dona das ideias e da iniciativa que tornam uma comunidade viva. Sua mãe a incentiva desde pequena, falando que ela pode fazer e ser o que quiser. É uma mensagem que pais modernos costumam passar aos seus filhos, muitas vezes se esquecendo da contrapartida: responsabilidade. June irá aprender isso na prática e nós espectadores iremos aprender mais uma vez que filmes insistem em nos vender o formato 3D quando a única coisa que conseguem nos entregar são cenas de montanhas-russas.
+O terror em camadas é de praxe hoje. Inúmeros trabalhos recentes do gênero, como Hereditário, A Bruxa, ou o mais antigo Babadook, fornecem pistas durante o entretenimento que há algo mais a se olhar do que os sustos fáceis e as sombras retocadas da equipe de produção. Há uma história. E um sub-texto. O Páramo nesse contexto é um excelente entretenimento sem uma história que a conduza. Nesse sentido ele se afasta dos trabalhos citados neste parágrafo e tristemente se aproxima de um parque de diversões muito bem elaborado.
 
-Alguns anos se passam, June ganha uma voz menos infantil e sua mãe adoece (sinais universais de amadurecimento). Sozinha em suas aventuras e com medo de perder a mãe, sua vida se fecha em uma bolha de segurança alimentada por ela mesma, e a sempre empolgada June começa a perder a coragem de dar asas à sua imaginação. Tudo muda quando ela descobre que as criações de sua mente podem possuir mais autonomia do que ela imaginava.
+Se você, cinéfilo treinado, que assiste pelo menos três filmes toda semana, em algum momento começou a assistir um filme e em cinco minutos ainda não sabe sobre o que se trata, saiba que o problema não está em você, mas no que aparece na tela. A história de O Páramo mistura pano de fundo histórico com folclore local e metáforas que tentam encaixar conceitos quadrados em formas redondas. Nunca consegue. No máximo sugere alguma conexão com um mundo tão terrível que as pessoas estão dispostas a tirar a própria vida do que permanecer definhando em um inferno não anunciado.
 
-Ao misturar referências de outros filmes de maneira indecisa, O Parque dos Sonhos nunca chega a construir algo além do parque imaginado em brincadeiras de mãe e filha. Durante a aventura nos lembramos de Alice no País das Maravilhas, Meu Amigo Totoro, Divertidamente e até Jurassic Park, mas o próprio Parque dos Sonhos constrói seu universo sem personalidade, personagens marcantes ou aventuras dignas e, portanto, não se fixa em nossas mentes (como os trabalhos já citados o fazem, por exemplo). Durante o relapso desenvolvimento da história há até um efeito contrário: vamos aos poucos nos esquecendo de seu belo início.
+Não me leve a mal. Este é um excelente entretenimento. A produção, como comentei, é das melhores. Eu adoraria assistir mais trabalhos de Casademunt. Assim que os produtores se cansarem dele e o diretor partir para trabalhos mais intimistas. Não é na fórmula do "neo-terror" que encontraremos a obra de arte definitiva, vendável e eterna. É na liberdade das mentes dos cineastas que reside o terror mais pulsante, mais genuíno, que nosso subconsciente jamais pensou em revelar a nós mesmos.
 

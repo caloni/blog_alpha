@@ -1,28 +1,27 @@
 ---
 categories:
 - writting
-date: '2011-11-17'
-link: https://www.imdb.com/title/tt1637688
+date: '2015-09-24'
+link: https://www.imdb.com/title/tt3194410
 tags:
+- cinemaqui
 - movies
-title: O Preço do Amanhã
+title: O Preço da Fama
 ---
 
-A grande sacada do gênero de ficção-científica, tanto no cinema quanto na literatura, é conseguir discutir alguma questão da sociedade atual sob a ótica de um mundo fantasioso. Para isso, as pessoas são colocadas em situações em que normalmente não existiriam, mas que lembram ou simbolizam uma questão do mundo real, ainda que encoberto de uma aura futurista.
+No começo de O Preço da Fama somos avisados de que a história se baseia em fatos verídicos. O fato em si foi o roubo do caixão de Charles Chaplin, na Suíça (sua morada por 25 anos), por dois imigrantes desempregados, e a posterior tentativa de resgate. No entanto, os detalhes em torno desse único fato são aumentados em doses desproporcionais pela imaginação do curioso diretor Xavier Beauvois.
 
-Este é um mundo onde as pessoas são geneticamente modificadas para não envelhecerem a partir dos 25 anos. Porém, como tudo tem um preço, este passa a ser o próprio tempo de vida que essas pessoas possuem, pois do contrário viveriam para sempre. Dessa forma, o próprio filme entrega a conclusão (óbvia) da trama antes mesmo de seu protagonista ser informado, o que já revela um problema eminente na argumentação do filme como um todo: estaremos nós, espectadores, sendo subestimados, ou existe algo mais inteligente por vir?
+Essa reimaginação dos fatos altera até as nacionalidades dos imigrantes (originalmente polonês e búlgaro). Eddy, recém liberto da prisão, é um animado belga que gosta de ter ideias mirabolantes para conseguir dinheiro sem trabalhar. Já o argeliano Osman (Roschdy Zem) possui uma filha e uma esposa e trabalha em bicos pela cidade para sustentar sua família, principalmente agora que sua mulher se encontra internada com problemas de saúde.
 
-A forma didática, repetitiva e até irritante com que o diretor nos mostra como são feitas as transferência de recursos entre as pessoas desse mundo demonstram não só certa indulgência com a "fabulosa" ideia que o roteirista-diretor supostamente teve como a incrível insegurança em seu espectador, com medo de que este não entenda algo que todos estamos acostumadíssimos a compreender, tanto que até existe um ditado que traduz isso diretamente: "tempo é dinheiro".
+Osman deve algo a Eddy, o que o faz buscar na saída da prisão e arrumar um trailer do lado de sua casa para ele ficar. "Por uma questão de princípios", responde à sua filha, a pequena Samira (a estreante e competente Séli Gmach). Participando ativamente da rotina da garota, e levando-a a lugares que ela nunca conheceu, Eddy acaba virando parte informal da família. Ou até formal, quando ao participar do Natal com eles, presenteia o amigo com uma televisão, que rapidamente vira o gancho para que eles descubram que Chaplin, antes próximo do seu personagem miserável Carlitos, acabara de falecer em condições financeiras abastadas.
 
-Algumas ideias interessantes: New Greenwich (divisão em fusos horários) e a pressa dos pobres em realizar as tarefas comuns. Como tudo tem um preço, estipular uma taxa abusiva entre os fusos é o mesmo motivo pelo qual algumas pessoas viajam de ônibus e outras de avião em nosso mundo (ou moram em uma determinada região menos favorecida, em detrimento à região mais rica, porém com um custo de vida muito maior).
+E é aí que começamos a conhecer as origens das desconfianças de Osman para com Eddy, ao ouvir sua "brilhante" ideia: roubar o caixão de Chaplin e pedir o dinheiro de resgate. A princípio relutante, a conta do hospital bate à porta de Osman, e tendo sido gentilmente descartado do sistema financeiro de empréstimos dos bancos suícos, Osman enxerga na ideia maluca do amigo a única chance de conseguir trazer sua esposa de volta.
 
-Com um arsenal enorme de piadas prontas, já que dinheiro e tempo sempre estiveram relacionados até em nossa própria sociedade (embora eu confesse ter gostado da reinvenção da frase "Don't waste my time").
+Gerando empatia desde o começo com um ritmo lento e observador, o diretor Xavier Beauvois consegue atrair a atenção do espectador para esses acontecimentos com a leveza que merece um filme que contém Charles Chaplin como seu núcleo em uma história que nunca se torna enfadonha. Porém, essa mesma leveza (ou inanição) sabota demais a ação, ou até o destino de seus personagens, até mesmo o próprio protagonista, o irreverente e atrapalhado Eddy, interpretado pelo ótimo Benoît Poelvoorde (3 Corações), mas ainda assim preso a um estereótipo que não faz jus ao seu papel, e cuja conclusão é arrastada sem muitos motivos senão licença poética.
 
-Pessoas não precisam morrer, pois há tempo para todos (mas não há espaço) se revela ingênuo, pois é fácil fazer a transição entre as expressões tempo e espaço para dinheiro e recursos em nosso mundo real. Logo, não há de fato nada de novo nessa abordagem.
+Da mesma forma, a partipação especial de Peter Coyote como o secretário fiel ao patrão (e que lutou no exército inglês) é o tipo de coisa que é bonito de ver pela interpretação de Coyote, mas confuso em encontrarmos sua função.
 
-Chega a repetir duas vezes que o custo de uma ligação de um minuto custa... um minuto. Além do som da transferência de tempo ser tão repetitiva quanto a câmera insistentemente mostrando os braços juntos.
+Aliás, voltando para a licença poética, isso é o que é feito quando o filme usa exaustivamente a trilha sonora de Luzes da Cidade que, embora fascinante, vira uma quase-muleta em diversos momentos. O resultado de Beauvois se sai muitíssimo melhor quando ele tenta inverter expectativas no melhor estilo Chapliniano, como na sequência do resgate ou até mesmo a sutil homenagem ao cinema mudo feita durante um diálogo em que a chuva abafa a fala dos personagens. Ainda assim, foge muito da proposta inicial, e acaba deixando a trama meio sem rumo.
 
-Depois que as cenas de ação são exauridas, o filme perde o fôlego, o que acaba denunciando a falta de ideias além de seu argumento inicial. Os personagens ficam patinando em suas posições, à espera de mais cenas de ação, pois não há, de fato, mais filosofia a ser aplicada (nem trocadilhos com relação a dinheiro).
-
-Depois da sessão, confesso que não consegui pensar em como desenvolver o argumento do filme de uma forma mais... produtiva. Isso explicaria, em partes, porque o diretor do filme é o roteirista e o próprio produtor. Ninguém mais compraria uma ideia como essa para produzir um filme de milhões... nem que tivesse tempo sobrando.
+Em todos esses altos e baixos, o saldo de O Preço da Fama acaba sendo positivo. Para uma história inspirada em fatos reais, há a ilusão do surreal e a alma de Carlitos o suficiente para adorarmos o resultado, nem que seja pela pura nostalgia e o desejo de continuarmos os sonhos de assistir um novo filme com o vagabundo imortal.
 

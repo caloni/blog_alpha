@@ -1,15 +1,25 @@
 ---
 categories:
-- blogging
-date: '2022-11-22T21:02:51-03:00'
+- writting
+date: '2023-01-08T21:02:19-03:00'
 tags:
-- ccppbr
-title: RIP Basílio Miranda
+- wine
+title: Rio Sol Gran Reserva Alicante Bouschet 2018
 ---
 
-Uma figura e tanto. Um programador e tanto. Do pouco que conheci desta lenda do mundo C, C++ e, principalmente, Qt, não há palavras suficientes para descrever o quão foi bom ouvir suas histórias ao vivo, seja em uma mesa de bar e nosso icônico encontro no ChoPP em São Paulo, ou mesmo em uma de suas palestras sobre Qt no prédio da Microsoft onde ele demonstra um domínio admirável da computação do dia a dia.
+Às vezes vem a sensação que essas anotações não são úteis, mas acontece que há muitos vinhos no mundo e pouco tempo, dinheiro e fígado para ficar tomando garrafas de todos os lugares, uvas e safras. Eu posso saber na hora se gostei de um vinho, mas isso não me ajudará a saber mais sobre outros vinhos.
 
-Basílio não era apenas o fundador da escola de C++ e Qt mais conhecida do Brasil. Ele era um programador de verdade. E poucos o são hoje, então é um elogio mais respeitável e digno de seus feitos. Da computação de quem faz as coisas acontecerem. Eu preciso dizer: esse senhor fez o Visual C++ 6 rodar em um Linux. Ele destrinchou as bibliotecas do Qt naquela palestra que estava presente.
+Este Rio Sol foi uma das notas mais altas nos três testes às cegas que fiz com o pacote de dezesseis garrafinhas do [EniWine]. Eu votei consistentemente neste como se fosse a quinta maravilha do mundo. E a sorte é que ele é brasileiro, relativamente fácil de adquirir (pela própria EniWine). Mas não costumo beber muitas vezes o mesmo vinho. Uma exceção eram os vinhos do Outback, pois a seleção é pouca e eu ia muitas vezes lá para o double drink.
 
-Minhas sinceras condolências à família. Meus sinceros pêsames à nossa comunidade, que perde mais uma de suas figuras mais icônicas da computação. Que nunca nos esqueçamos das mensagens de Basílio Miranda em nosso grupo C/C++ Brasil. Aliás, eu convido vocês a lerem essas mensagens e reviver esses momentos. Em memória e por um grato saudosismo.
+Mas isso é coisa do passado, eu não vou mais a este restaurante, a qualidade decaiu e os preços aumentaram. E mesmo que fosse: beber sempre os mesmos vinhos garante que os apreciarei sempre? Talvez. Mas e a surpresa, a fascinação por uma nova obra de arte?
+
+Minhas anotações precisam de uma reforma. Elas precisam ser úteis de alguma forma. Talvez agrupando sensações parecidas? Uvas? Qual o critério? Preciso repensar sobre isso com tempo. As classificações do mundo do vinho já podem ajudar.
+
+Mas não quero virar um Robert Parker em busca de vinhos com maior pontuação. Eles continuam sendo arte. A tarefa é entender a qual gênero um vinho pertence.
+
+Gêneros podem ser úteis nesse caso. Uma comédia leve pode ser aquele vinho fácil de beber sem complexidade alguma, mas ainda assim desejável. Todos entenderiam. Eu entenderia. Muito diferente deste é aquele drama pesado, encorpado, difícil de engolir de uma vez pois é preciso de tempo para assimilar todos os aromas ou sabores.
+
+E há também aquela aventura, que te leva para viagens sensoriais ousadas ou atrevidas. O vinho de quem quer emoção com a bebida e ao mesmo tempo curtir as saudades do novo.
+
+[EniWine]: {{< ref eniwine >}}
 

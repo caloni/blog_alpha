@@ -1,24 +1,28 @@
 ---
 categories:
-- writting
-date: '2019-10-24'
-link: https://www.imdb.com/title/tt8445700
-tags:
-- cinemaqui
-- mostra
-- movies
-title: Não me Ame
+- coding
+date: '2010-08-08'
+tags: null
+title: Não é minha culpa
 ---
 
-Não me Ame é cinema experimental, e eu admiro isso. Porém, seus símbolos vão se multiplicando a cada diálogo em um ritmo indecifrável, e isso não tem perdão.
+Recebi a dica de meu amigo kernel-mode sobre o aplicativo NotMyFault, escrito como ferramenta do livro Windows Internals e que basicamente gera telas azuis para análise.
 
-Brincando em espanhol com uma história de guerra no estilo invasão do Iraque misturado com o folclore bíblico, a ideia concebida por Sergi Belbel e Lluís Miñarro (dirigido por este último) nunca foi uma coisa boa, nem no começo, quando filmes como Cães de Aluguel e diretores como Kubrick são citados. Referências do diretor? Espero que não, ou isso quer dizer que nas aulas de cinema da atualidade os rolos de filmes são mais cheirados do que vistos.
+Como os problemas gerados pela ferramenta são todos de kernel, resolvi escrever meu próprio conjunto de bugs para o pessoal da userland. E como nada na vida se cria, tudo se copia, tenho o orgulho de apresentar a vocês o NotMyFaultEither!
 
-Mas falando, agora, sobre a história desse filme me veio à memória alguns de seus momentos. Quase todos sensuais. Sua protagonista é a filha do general, Salomé, que é bela e se encanta com o prisioneiro de guerra que seu pai mantém escondido em uma caverna.
+Seu uso é bem simples. Escolha o problema, aperte a teclar "Fazer Bug" e pronto!
 
-Ele é chamado de profeta, preso em cavernas subterrâneas e não falando coisa com coisa. Há um acampamento militar ao lado, onde se bebe vinho e se fala sobre filosofia. Em um futuro muito presente, os poderosos do mundo acertam como em um contrato qual será a próxima guerra entre eles. Qualquer semelhança com a realidade foi expurgada do filme, que não faz o menor sentido.
+O resultado pode variar dependendo do sistema operacional e da arquitetura (há versões 32 e 64 bits, ambas UNICODE). Um Access Violation no Windows Seven 64 bits, por exemplo, o processo pára de reponder.
 
-Mas as cenas são bonitas. A fotografia também. Sei de pessoas que só por isso já falariam que este é um filme de respeito. Os cenário, teatrais, cumprem seu papel onírico, cercando personagens movidos por impulso. Podemos estar acompanhando fragmentos ligados no espaço-tempo. Vai saber... melhor não.
+Após a análise do SO ele exibe uma tela onde é possível achar onde está o despejo de memória que podemos usar.
 
-Love Me Not é sobre a perdição do cinema americano. Ele pega desde as séries, apresentando os atores como se fizessem parte de uma, para saltos temáticos que existem apenas como provocação vazia ao espectador. É uma aposta, como todo filme experimental. Porém, ter uma direção de arte, figurino, fotografia e edição impecáveis em um filme desses... isso não tem perdão.
+Esse é um minidump (mdmp), que possui a pilha da thread faltosa e informações de ambiente. Podemos gerar um dump completo através do Gerenciador de Tarefas.
+
+No caso do Windows XP, podemos executar processo semelhante para gerar o dump através do aplicativo ProcDump, muito útil para preparar o material da minha palestra do próximo fim de semana.
+
+E por falar em palestra, criei um pacote-surpresa de alguns minidumps para análise. Se alguém tiver a curiosidade de já ir mexendo, ou de mexer na hora da apresentação, fique à vontade. Quem montar uma lista relacionando cada dump com o tipo de problema encontrado (não precisa estar completa) irá concorrer, no dia da palestra, à quarta edição do livro Windows Internals, de Mark Russinovich. É minha cópia pessoal, mas está bem novinho, visto que a original pesa pra caramba e consulto sempre o e-book.
+
+Estarei usando estes mesmos minidumps na palestra, junto dos dumps completos. Mas é claro que eu não iria deixar um despejo de memória completo pra vocês. Iria tornar as coisas muito fáceis ;)
+
+Portanto, junte suas grandes dúvidas para o grande dia e nos vemos lá.
 

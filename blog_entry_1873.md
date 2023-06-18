@@ -1,20 +1,16 @@
 ---
 categories:
 - writting
-date: '2020-02-19'
-link: https://www.imdb.com/title/tt0084116
+date: '2015-10-08'
+link: https://www.imdb.com/title/tt2718492
 tags:
 - movies
-title: Identificação de Uma Mulher
+title: Ida
 ---
 
-Antonioni é aquele diretor italiano que junto com Fellini e outros realizou trabalhos de neo-realismo, um período em que a Itália convive com seus fracassos políticos bem de perto, olhando para a população. Abandonando tudo isso nas décadas seguintes chegamos neste soft porn com cara de filme de arte. Temos a estonteante Daniela Silverio nua em vários momentos, e quando ela some é claro que Tomas Milian vai atrás.
+O universo em torno de Ida torna a vida tão depressiva que até passar o resto dos dias em um convento não parece uma ideia tão ruim. Filmado em preto e branco, com uma tela praticamente quadrada e uma câmera que fica praticamente parada, a atmosfera é bela, lúdica e realista. Anna (Agata Trzebuchowska), a noviça, e Wanda (Agata Kulesza), a tia, fazem parte de um conjunto de planos-detalhes (quando a tela mostra apenas um close mais intimista) que capturam a essência do que está sendo mostrado. Interessante do começo ao fim.
 
-Este é um filme com várias ideias interessante e uma direção extremamente competente. O que dá errado é que não adianta juntar várias ideias boas em um conjunto onde nenhuma delas colabora para algo em comum. O resultado é que podemos nos entreter por todo o trajeto, mas no final fica a sensação que era melhor ter ficado em casa. Por quê?
+A história gira em torno da busca do paradeiro dos corpos dos pais de Anna, que eram judeus e foram mortos durante a guerra na Polônia. Wanda, sua tia, uma juíza alcoólatra que vive um pesadelo comuno-socialista que remói seus remorsos por abandonar sua irmã, possui a maior parte das falas, mas é de Anna que capturamos a mensagem final de cada passagem. A menina está naquele dilema clichê de não querer sair do convento, mas é obrigada por sua superiora e agora começa a plantar dúvidas em sua cabeça (além, é claro, de ser linda). Ou seria clichê, já que este não é o caso. A maior parte do filme é mais sobre uma reflexão histórica e intimista do peso das decisões em nossas vidas. Ou deveria ser. A maior falha em Ida é nunca contar o suficiente para estabelecer seus parâmetros. Mas quem se importa? A história flui que é uma beleza, e diante de tantos cenários filmados belissimamente por dois diretores de fotografia faz o "road movie" valer toda a pena.
 
-Porque Antonioni não consegue encontrar nesta obra algo que seja diferente do que fazer um filme. Cineastas contemporâneos famosos estão andando nesse mesmo círculo que Antonioni percorre perdido. Tarantino, Almodóvar, Lars von Trier. Apenas Woody Allen parece se salvar, mas a sociedade em que ele sobrevive já não entende/pensa mais a respeito, o taxando de pedófilo machista.
-
-Quando um cineasta decide que irá fazer um filme porque não consegue evitar, as chances de sair um grande filme são grandes, e as chances de alguém pará-lo, mínimas. Contudo, depois que um cineasta tem seu nome consagrado e pode fazer o que quiser, a ideia que não sai mais de sua cabeça é escrever e/ou digirir um filme sobre ele mesmo e seus percalços até a fama. E agora que veio a fama, a dificuldade de entrar na rodinha dos milionários.
-
-O protagonista desse filme é Niccolò, um diretor de cinema que está em busca de um rosto feminino para seu próximo filme. Enquanto isso se enamora de uma cliente de sua irmã ginecologista e frequenta as rodas de amigo da bela e lascívia Mavi. Ele não se encaixa com ela nessas rodas, apenas na cama. E quando ela some toda a construção da trama em boa parte do filme desanda de uma vez.
+Se desdobrando de maneira fascinante com uma série de acontecimentos nos últimos minutos do segundo tempo da prorrogação, Ida vira uma reflexão poderosa sobre a vida e suas rimas, mas como está com o tempo escasso de maneira superficial. Pelo menos faz o gancho com tudo o que foi visto, e de forma alguma é uma conclusão jogada. Com roteiro de menos, mas direção e fotografia de mais, o saldo é mais que positivo.
 

@@ -1,12 +1,11 @@
 ---
 
-Mais consistente, menos aguada que a maioria; não muito forte.
+Tem no mercado da frente de casa, é um bom custo/benefício; então sempre tem na geladeira; seu amargor é desequilibrado demais, e um tanto aguada, mas melhor que a maioria das pilsen, então
 
 ---
 categories:
 - writting
-date: '2019-10-26'
-link: https://www.imdb.com/title/tt9243946
+date: '2015-09-28'
 tags:
-- movies
-title: 'El Camino: A Breaking Bad Film'
+- beer
+title: Eisenbahn Pilsen

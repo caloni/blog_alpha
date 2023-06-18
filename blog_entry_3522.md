@@ -1,22 +1,11 @@
 ---
 categories:
 - writting
-date: '2013-01-23'
-link: https://www.imdb.com/title/tt0094012
+date: '2021-06-26T22:23:00-03:00'
 tags:
-- movies
-title: 'S.O.S.: Tem um Louco Solto no Espaço'
+- food
+title: Sorveteria Banana da Terra em Morretes
 ---
 
-Entendendo o ridículo em potencial da saga idolatrada de George Lucas ([Star Wars], para quem não sabe), a história de Spaceballs contém o mesmo pano de fundo só que trazendo à tona o mesmo padrão já visto centenas de vezes: uma princesa sequestrada, um casamento forçado, o anti-herói que se torna digno de seu amor e por aí vai a valsa. Economizando o personagem de Luke Skywalker colocando-o no papel do próprio anti-herói (o alter-ego de Hans Solo) fica fácil enxergar que já há gorduras no próprio roteiro do filme original.
-
-Não que Guerra nas Estrelas esteja perto de ser ruim. Longe disso. No fundo, qualquer obra de ficção, se vista com uma lupa sarcástica, tende para o ridículo, como vemos tantas vezes hoje em dia nos canais do You Tube que homenageiam filmes contemporâneos em trailers ridicularizados de cinco minutos. A comédia existe em qualquer lugar, e o grande trunfo do diretor aqui foi localizar os elementos que pareceriam mais absurdos sem prejudicar o ritmo de um longa-metragem.
-
-No entanto, o roteiro escrito em parceria com Thomas Meehan (Annie) e Ronny Graham (da série M.A.S.H., homenageado recentemente pela série [Community]) vai além e utiliza metalinguagem em seus melhores momentos, o que é sinal de ótimos comediantes, que não só zombam do conteúdo alheio como sabem zombar do próprio material. Se em muitos casos isso é desculpa para realizar produções de péssimo gosto aqui é usado em preciosos momentos sem prejudicar a narrativa. (Minha cena favorita é quando eles "alugam" o próprio filme e avançam a fita para o tempo presente.)
-
-Encontrando espaço para "homenagear" de maneira irretocável os clássicos Star Trek, [Aliens] e Planeta dos Macacos, embora as piadas surjam em cada contexto, a narrativa é seguida à risca e possui começo, meio e fim. E se isso é algo digno de nota hoje em dia é porque a paródia segue hoje sem controle e sem o menor bom gosto em produções patéticas como Espartalhões e a série Todo Mundo em Pânico, que exploram o riso fácil (de uma plateia fácil). Felizmente temos o exemplo passado de Mel Brooks do que é parodiar sem ofender e ainda engrandecer o Cinema como uma arte que pode ser revista de inúmeras maneiras sem soar repetitivo ou apelativo.
-
-[Aliens]: {{< relref "aliens-o-resgate" >}}
-[Community]: {{< relref "community" >}}
-[Star Wars]: {{< relref "star-wars-guerra-nas-estrelas" >}}
+Há alguns anos eu achava que não gostava mais de sorvete e que é coisa da infância. Essa moda de sorvetes gourmet em grandes capitais que custam o olho da cara e logo enjoam pelo excesso de açúcar processado apenas reafirmou minha convicção que sorvete não é coisa de paladar adulto.  No entanto, desde que me apaixonei pelos sorvetes argentinos, em especial os de doce de leite, faço uma caça pelas sorveterias locais em viagens de férias. Ainda existem as pequenas caseiras que te entregam aquele sabor artesanal que parecia perdido para sempre na infância. Na cidadezinha de Morretes a Banana da Terra ganha esse título. Localizado no meio da estrada próximo de uma pousada e de uma igreja, é um lugar tranquilo para parar e degustar um dos cerca de 20 sabores disponíveis, mas se você está com pouco tempo, precisa escolher pelo menos o sorvete de banana, que possui o sabor puro da banana em forma de sorvete cremoso, com pedaços de banana escondidos. O sabor não é de açúcar gelado como a maioria dos sorvetes de esquina, mas do doce da banana, mesmo. Além deste os de beijinho, que vem com um gostinho de abacaxi, e o de gengibre (embora suave demais para meu gosto) merecem uma degustação. Espero que essa sorveteria esteja aberta em minha próxima visita à região. Só assim para voltar a sentir o prazer infantil de tomar sorvete.
 

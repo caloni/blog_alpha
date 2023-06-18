@@ -1,20 +1,23 @@
 ---
 categories:
 - writting
-date: '2011-12-31'
-link: https://www.imdb.com/title/tt0080684
+date: '2016-12-03'
+link: https://www.imdb.com/title/tt4686692
 tags:
+- cinemaqui
 - movies
-title: 'Star Wars, Episódio V: O Império Contra-Ataca'
+title: O Ídolo
 ---
 
-O [filme inicial], auto-contido, sobre o conto de fadas nunca antes contado, ganha uma nova dobra, e tenta ao mesmo tempo contar uma nova história no mesmo molde e estender esse universo com explicações sobre os Jedis, a Força e ainda um pouco de mistério a respeito das origens do Império e, principalmente, do seu ícone maior: Darth Vader.
+O Ídolo possui um começo dinâmico e tocante, mas não usa isso a seu favor no resto do filme. Ele aposta na catarse fácil que já vemos na televisão e em vídeos do YouTube. O que ele acaba fazendo, então, é apenas dar uma cara e uma atuação para mais um personagem da vida real.
 
-Sinceramente, mesmo sabendo da revelação maior do filme (que, apesar de mais de 30 anos de idade, não vou revelar aqui), consegui detectar diversas pistas que levavam apenas para um lugar. É óbvio que ninguém espera uma coisa dessas, mas hoje em dia seria facilmente batido. O lado maior da história fica por conta da divisão equilibrada entre a fuga de Capitão Solo e Princesa Leia e a jornada em rumo ao conhecimento do não-tão-jovem padawan Luke Skywalker. Praticamente tudo empolga no filme: direção de arte, música (ainda que muitas vezes repetitiva), efeitos visuais de encher os olhos (com maior destaque para o pequeno Yoda). Tudo isso ocorre não apenas em cenas específicas, mas quase todo o tempo, nos dando a exata sensação de que esse mundo existe em algum lugar, e estamos tendo o privilégio de visitá-lo no meio de uma batalha épica (muito diferente, aliás, dos três novos episódios recentes, que soam mais... episódicos que épicos).
+Porém, pior que isso é usar esse personagem como herói. Por ter uma boa voz e uma boa vontade. A voz ele herda da genética (e um pouco do seu teimoso instrutor de canto), e a boa vontade herda da sua irmã, que possui uma energia admirável. Ela não é apenas uma otimista, mas um ser humano que possui uma visão clara do que é capaz se tentar muito, e tirar do seu caminho tudo que não a ajudar, como uma insuficiência renal e até um possível namoradinho. Diz ela: "eu não tenho tempo para isso". Ela tem 12 anos no máximo. E é interpretada por Hiba Attalah com uma intensidade admirável.
 
-Darth Vader está mais maldoso e presente do que no primeiro filme, provavelmente fruto de seu sucesso como vilão, e o Imperador Palpatine vira um mentor mais distante. Claro, isso é fruto de sua obsessão pelo jovem Skywalker, como bem diz o letreiro inicial e sua tolerância zero para os comandantes da nave principal, que vão caindo um a um.
+Essa intensidade com que Attalah personifica a imagem da irmã do talentoso Assaf, a urgência daquelas crianças em tentar sair de Gaza a todo custo e o dinamismo do diretor Hany Abu-Assad (Paradise Now) confirmam a importância dessa parte tocante e trágica do filme em todo seu resto, quando, em um piscar de olhos, o jovem Assaf (Kais Attalah) dá lugar a um adulto Assaf (Tawfeek Barhom) e o remorso de ter tido cortado o seu sonho o faz reavaliar sua infância com a irmã e seus amigos e tentar seguir em frente, como se estivesse dormindo durante todo esse tempo. A montagem é uma poderosa arma de O Ídolo.
 
-Mais uma vez com uma precipitada conclusão, o filme passa a ideia de ser apenas um exemplo de um universo inteiro sendo criado aos poucos, com muitas coisas ainda pendentes, e outras um tanto contraditórias. Para muitos fãs, uma religião estava nascendo nesse momento.
+O que não quer dizer que seu roteiro seja. Escrito pelo próprio Hany Abu-Assad e Sameh Zoabi, a história gira em torno daqueles casos do programa televisivo de talentos. O cantor (que você já imagina quem é, e até qual programa de TV estamos falando, graças ao título do filme), além de ter uma voz impressionantemente linda (e ela é usada pelo menos uma vez como arma de manipulação, algo lindo de se ver), ele possui um passado marcante. E, como se isso não bastasse, ele mora em Gaza, o que o coloca na lista de heróis sobreviventes, muito embora não vejamos muito da violência ou do terror ou do risco de se morar na fronteira fortemente murada (e fuzilada) entre Israel e Palestina.
 
-[filme inicial]: {{< relref "star-wars-guerra-nas-estrelas" >}}
+O interessante é que a premissa é poderosa o suficiente para concluir em um filme impactante. Porém, nada funciona no agitado terceiro ato. O Assaf adulto carrega uma visão um pouco amarga do mundo, e não é por acaso. Um acontecimento traumático em seu passado faz com que ele suspenda seu sonho, talvez para sempre, e todos nós entendemos esse trauma em sua vida, tanto que torcemos pelo personagem.
+
+Mas não é o suficiente. A história de O Ídolo caminha por caminhos corretos e mantém uma tensão graças às ótimas direção, edição e trilha sonora. Porém, o suspense é perdido logo no começo. Quando é feita uma transição no final entre ficção e vida real (talvez uma tendência nos filmes biográficos de hoje em dia, vide Snowden), essa transição quase não funciona, ou demora para funcionar. O personagem do presente não é tão rico (em facetas) como o filme imagina; apenas seu passado e sua história.
 

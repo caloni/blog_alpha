@@ -1,18 +1,24 @@
 ---
 categories:
 - writting
-date: '2018-07-01'
-link: https://www.imdb.com/title/tt8342946
+date: '2017-08-04'
+link: https://www.imdb.com/title/tt2319580
 tags:
 - movies
-title: 'Tig Notaro: Happy to Be Here'
+title: Tickle Head, O Melhor Lugar Da Terra
 ---
 
-Eu não sei como era a performance da comediante de standup Tig Notaro antes dela contrair uma doença séria, perder a mãe, terminar seu relacionamento na semana seguinte e desenvolver um câncer. Mas eu sei que graças a esses eventos, sua coragem e dedicação ao humor o show que ela fez neste momento de sua vida pode figurar tranquilamente na lista dos mais poderosos, inesquecíveis e memoráveis da história da humanidade.
+Este filme canadense de cidadezinha à beira-mar possui o seu charme e o seu humor. Um humor simples, mas que não soa maniqueísta, apesar de ser um pouco. Conta uma história implausível, mas que nos minutos finais toca o coração. Se trata de uma farsa, que não quer dar o braço a torcer que a luta é inútil. Uma metáfora sobre progresso que ignora a realidade para sonhar um pouco. E dar boas risadas.
 
-Isso porque ela simplesmente entrega no humor a leveza que todos precisam para seguir a vida adiante, e por estar de fato na situação sendo abordada na forma de comédia ela desconstrói o drama e em seu lugar entrega algo muito mais poderoso: nossa capacidade de rir das piores adversidades e seguir adiante.
+A história é simples, para não dizer simplista. Um pequeno porto com 120 habitantes precisa fechar o acordo com uma petroquímica para construir uma fábrica e assim salvar a economia do local, que há muito não vive, como antigamente, da pescaria. Porém, para isso eles precisam de um médico residente, que convenientemente cai por aquelas bandas por um mês. Ele é fã de críquete, um esporte que nenhum canadense doido por hóquei ouviu falar.
 
-O documentário da Netflix é inédito e merece uma visita, mesmo que na maior parte do tempo seja um mero relato da vida de uma pessoa, que não se torna mais especial por tentar ter um filho em barriga de aluguel. Mas por algum motivo os documentaristas acharam tão relevante a figura de Tig, sua persona, sua forma de reagir a cada novo momento de sua nova vida, que se formos assistir a esse filme no embalo, ele se torna um programa honesto e dotado de coração.
+A sequência da história é ágil, mas confunde no começo. Vemos o protagonista exaltando seu pai orgulhoso por sustentar sua família com o suor do seu trabalho. Em cima do telhado, ainda criança, ele imita um gato. O corte vai imediatamente para a cama dele, já casado, adulto... e irritando seu gato.
 
-E, claro, boas risadas.
+Todo o orgulho que ele sentia pelo pai ele não pode sentir agora por si mesmo, pois a pescaria vai mal para todos, que recebem um cheque todo mês do governo para sua subsistência. Sua mulher desiste e aceita um emprego na cidade, deixando ele com seus sonhos e esperanças. Ele possui um amigo sem miolos (o alívio cômico) e pretende junto com enganar o médico fingindo que este é o única cidadezinha portuária onde seus habitantes são fanáticos por críquete, possuem doenças interessantes e ainda uma solteira atraente (apesar dele estar noivo).
+
+A estrutura de The Grand Seduction nos faz lembrar de um filme ou outro com tema parecido: a cidadezinha inteira que engana o forasteiro ou o povo da cidade. Aqui a comédia esconde um drama, e portanto tem coração. Isso faz com que o projeto não afunde, mesmo que os atores secundários não ajudem muito.
+
+A surpresa é o ator que faz o médico, que se assume como o jovem cirurgião plástico perdido na profissão e na vida. Ele e sua noiva não estão bem (óbvio) e ele muito aos poucos começa a questionar sua vida.
+
+Mas tudo é muito artificial, e não há nenhum desafio ou risco na história. Apenas a descoberta de cada novo infalível passo do novo prefeito do pequeno porto de Tickle Head (cócegas na cabeça?). Há alguns momentos pseudo-emocionantes no final, mas nem por isso você deveria assisti-lo. É mais um processo de entretenimento com pequenos pensamentos esparsos que logo lhe farão esquecer que você assistiu esse filme.
 

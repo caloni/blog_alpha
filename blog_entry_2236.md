@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-09-11'
+date: '2018-01-17'
 tags:
 - food
-title: Mantissa Café Fazenda Especial Poços de Caldas
+title: Mantissa Café Fazenda Campestre
 ---
 
-Café chique comprado no mercado de Poços de Caldas. Na despensa.
+Equilibrado, mais doce e bem sutilmente amargo; pouco amadeirado com retrogosto semi persistente em corpo fraco e pouco aromático. Preparando no meio da tarde conversando com a Renata/Regina.
 

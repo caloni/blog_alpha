@@ -1,28 +1,22 @@
 ---
 categories:
 - writting
-date: '2018-10-16'
-link: https://www.imdb.com/title/tt7871664
+date: '2019-02-22'
+link: https://www.imdb.com/title/tt0362227
 tags:
-- cinemaqui
-- mostra
 - movies
-title: O Termômetro de Galileu
+title: O Terminal
 ---
 
-Este documentário tem por objetivo inicial fazer você cair de sono. Isso porque a diretora/roteirista/atriz portuguesa Teresa Villaverde evita enquadrar a câmera para nos prender a atenção. Ela prefere uma abordagem mais despojada. A resposta adequada e respeitosa para um filme desse é ser um espectador também despojado, que começa a roncar antes dos dez primeiros minutos de projeção.
+Vou lhe dar algumas dicas do nível de manipulação que existe em O Terminal: Tom Hanks é um estrangeiro de um paisinho do Leste Europeu que além de saber falar e entender palavras em inglês apenas quando lhe convém em outros momentos se comporta como um autêntico habitante de uma ilha isolada da civilização, apelando portanto para o coração das pessoas; uma aeromoça coincidentemente está sempre se encontrando com ele no aeroporto internacional de Nova York, aquele com seis terminais de embarque diferentes e o mais movimentado da América, ela mantém um romance com um homem casado e termina seu arco da mesma forma porque não era para ser o interesse romântico de Hanks de qualquer forma, mas apenas um instrumento feminino para impulsionar bilheterias; por outro lado, um indiano passa o resto de sua vida anônimo limpando o chão do terminal foragido de seu país, mas graças à figura carismática de Tom H... Viktor Navorski, ele decide usar a cartada de ser extraviado, chamando assim a atenção dos policiais em um momento em que Viktor estava prestes a fazer algo indesejado, mas que no momento seguinte muda de ideia, tornando assim o sacrifício do indiano completamente inútil.
 
-Mas isso pode ser algo injusto de se fazer, pelo menos em um ou dois momentos do filme, principalmente próximo do final. Coloque seu despertador, pois o começo não é necessário. O filme é sobre o cineasta italiano Tonino De Bernardi na região de Piemonte (Itália), sobre seu cinema underground italiano, mas também para falar de sua família e a troca entre gerações; Villaverde caminha com Bernardi até os primórdios de sua origem, através de seus avós, como morreram, etc. Em um primeiro momento entrevista sua avó, muito simpática, mas apesar da naturalidade este parece um caminho já percorrido quando ela fala sobre a época do fascismo que viveu.
+Tudo isso porque o diretor Steven Spielberg quer fazer você chorar ou pelo menos se sentir bem a qualquer custo. Ele não quer simplesmente pegar o roteiro incoerente de Sacha Gervasi e Jeff Nathanson e tornar esses momentos emocionantes por si só. Se fosse assim eles seriam momentos igualmente fracos, pois não são construídos através de personagens que lembram pessoas de carne e osso. Ao contrário, lembram momentos de um verdadeiro herói da resistência, que constrói monumentos nos cantos escuros do aeroporto durante a madrugada. Spielberg precisa que Viktor (com K, porque ele é estrangeiro) seja um forasteiro que faz de tudo de bom grado para permanecer correto e simplesmente cumprir uma promessa que fez ao pai. Aliás, cumprir promessas ao falecido pai é uma das cantadas mais originais que eu já vi em um filme. E funcionou.
 
-Sim, esta é uma geração que viveu o fascimo de verdade, antes de George Orwell nos alertar que no futuro essa e outras palavras seriam reinterpretadas ao bel prazer de adversários políticos. Não deixa de ser interessante voltar brevemente ao passado pelos olhos de quem o viveu, mas quando nem a câmera está interessada em focar ou enquadrar o ronco do espectador continua.
+Independente da história, que já é piegas, o diretor insiste na música emocionante, nos zooms lentos e enquadramentos singelos que demonstram a pureza do coração de Viktor, caso você ainda não tenha comprado a ideia simplesmente porque ele é interpretado pelo ator mais amado de sua geração. Spielberg precisa de mais. Talvez violinos.
 
-Da mesma forma uma mini-"entrevista" com dois de seus netos assemelha-se mais a um vídeo de família, onde cada segundo parece irrelevante, pois é a visão de crianças sob a máscara do social. Elas já perderam a espontaneidade, assim como quase todos que participam do filme, relatando morosamente textos em apenas um tom, tentando de todas as formas te fazer perder o fio da meada. Conseguem. Várias vezes.
+O grande vilão da história, o diretor do aeroporto, interpretado por Stanley Tucci, é malvado apenas porque isso é o esperado de qualquer pessoa com manias esquisitas como colecionar peixes em sua parede, ajustar o óculos e ser careca e de mal humor. Tucci faz o possível, mas seu Frank Dixon é quase um Nixon na cabeça dos liberais americanos: malvado apenas pelo prazer de o ser. E ele vai o ser até o final, custe o que custar.
 
-Mas há um momento mais poderoso onde o cineasta em si comenta quando ele descobriu que para ser cineasta bastava ter uma câmera. É poderoso porque a diretora que o filma parece ter ganho também a sua primeira câmera, sequer sabendo o botão para parar. E parece ser o único momento autêntico de todo o longa (longuíssimo).
+É impressionante como todos que devem se encantar com Viktor assim o fazem, enquanto os que no começo desconfiam desse senhor estranho para depois começar a gostar dele também o fazem. O próprio indiano que comentei pensava que ele era um espião. E de repente ele está contando a bonita história para todos os funcionários do aeroporto de como Viktor salvou um compatriota de ter os remédios do pai detidos. Mas Spielberg ainda não está contente. Viktor ainda não deixou sua marca. Bom, ele foi empurrado pelo diretor até a copiadora e deixou várias cópias de sua mão impressas no papel. Agora, sim. A canonização está completa.
 
-(Esse detalhe me faz lembrar de outro filme dessa Mostra, O Criador de Universos, que também parece nos mostrar que essa ideia de hoje em dia qualquer um poder filmar não é tão boa assim.)
-
-Quase sempre usando sua câmera como microfone, o filme está querendo encontrar momentos dignos de ser filmado, como a face do cineasta quando ele vai falar sobre o suicídio do avô. Fica claro que a documentarista resolve pegar a câmera porque o momento merece, o que nos ajuda a desvendar o resto do filme: quase mais nada merece ser filmado ou visto.
-
-(Galileu descobriu que a densidade depende da temperatura, criando assim seu termômetro que leva o título deste filme. Pela análise da densidade narrativa podemos também concluir que a temperatura tende a zero kelvin.)
+Este é um filme bonitinho se você não se importar se a maioria dos eventos dentro do aeoporto não fizer muito sentido. Ele também cumpre o papel de inspirar empatia, pois se Tom Hanks é a figura que consegue transformar o semi-retardado Forrest Gump em um heroi americano, fazer Viktor é brincadeira de criança. Bom, eu não compro essa ideia. Não mais, na minha idade. Forrest Gump possui a ingenuidade ao mesmo tempo que a autenticidade no seu coração. É o ser humano que todos nós deveríamos nos inspirar. Viktor Navorski (com K, porque é estrangeiro) é apenas uma caricatura de um país que sequer existe para fazer americanos cansados de sua própria insignificância se sentir um pouco melhores por existirem seres humanos como ele. Desde que ele more bem longe de Nova York, é claro.
 

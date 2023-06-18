@@ -3,11 +3,9 @@ categories:
 - writting
 date: '2017-05-17'
 tags:
-- wine
-title: El Porvenir Laborum Shiraz 2014
+- food
+title: El Porvenir Laborum Malbec Tardio 2016
 ---
 
-Acidez média e estrutura firme; sabores amadeirados com um retrogosto simples. Na adega.
-
- - 2018-10-28 Esta série Laborum comprova que é a melhor vinícola de Cafayate, Argentina, do plantio ao tratamento dos visitantes. Possui corpo médio, personalidade em camadas, difícil de beber porque suas frutas maduras mantêm o cérebro funcionando e apreciando.
+Corpo leve, aromas complexos, frutado; final seco; não tão doce; acompanha carne. Malbec tardio tem gosto de Malbec com um doce não muito forte, mas o suficiente para ficar enjoativo para algumas pessoas; possível de comer com carnes. Acabamos os 500ml, eu e a Mitiko, no churrasco de sobrô do domingo.
 

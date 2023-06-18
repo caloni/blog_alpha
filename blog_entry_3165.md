@@ -1,18 +1,13 @@
 ---
 categories:
-- coding
-date: '2020-06-18'
-link: https://gist.github.com/Caloni/dd1429495c835a27ece61523e939ec7f
+- writting
+date: '2022-05-27T21:31:00-03:00'
 tags:
-- ccpp
-title: Printf
+- movies
+title: Princesa
 ---
 
-Entre os segredos escondidos das funções básicas da lib padrão da linguagem C o printf e o scanf lideram o ranking. O printf possui a capacidade de alinhamento de colunas das string impressas com tamanho variável. Sabia disso? Pois é, isso não se ensina nas escolas.
+Filme brasileiro que se passa na Itália e que dá uma visão honesta de uma travesti que deseja fazer a operação de troca de sexo e viver com um homem hétero. A cirurgia pode não ser a solução de seus problemas, como pode ser o fim de uma relação saudável com seu corpo. Muitos rejeitam porque não são de fato trans, o que explica a alta taxa de suicídio entre esse grupo de pessoas. E a vida real pode ser mais complicada que os discursos de aceitação.
 
-A impressão básica de uma string passada como argumento com printf deve ser feita usando na string de formatação os caracteres "%s". Agora, se você colocar um sinal de menos entre esses dois caracteres essa string será alinhada à esquerda. Mas o que é direita e esquerda se o tamanho usado pela impressão vai ser exatamente o tamanho da string? Aí é que entra o especificador de tamanho, logo após o opcional sinal de menos e antes do s que determina o tipo string. Dessa forma a string de formatação final para uma string variável alinhada à esquerda em uma coluna de trinta caracteres de tamanho seria "%-30s".
-
-Porém, existe um problema com essa abordagem: a string variável pode ter mais de trinta caracteres. Nesse caso existe mais uma opção "escondida" do printf, que é especificar esse trinta em um argumento passado junto dos valores. Para isso basta trocar o número por asterisco e passar o tamanho como se passa qualquer outro valor à função, seguindo a ordem de recebimento. Por exemplo, um printf("%-30s", "minha_string") poderia virar printf("%-*s", 30, "minha_string"). Note que agora o tamanho trinta não está mais fixo no código e pode ser uma variável inteira.
-
-Fiz um exemplo bem sucinto, que pede o nome das branches master e slave de um controle de fonte e imprime as duas no final, alinhando o nome das branches à esquerda e o número de commits de cada uma à direita, incluindo um header. É assim que o printf resolve esse tipo de problema de saída formatada: de maneira simples e elegante, sem inventar moda nem querer "revolucionar" a computação.
+O filme passeia pelo dramalhão como se fosse um Almodóvar sem inspiração cinematográfica. A protagonista é um porre e as situações criam a atmosfera do que é ser uma aberração e viver do mercado sexual em plena Milão. Os travecos vivem através do sexo e é como se fosse de fato a única forma de comunicação com o mundo.
 

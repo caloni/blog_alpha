@@ -1,21 +1,24 @@
 ---
 categories:
 - writting
-date: '2021-11-13T15:54:02-03:00'
+date: '2011-08-17'
+link: https://www.imdb.com/title/tt1499658
 tags:
-- cinemaqui
-- mostrachinesa
 - movies
-title: Quero Uma Vida Com Você
+title: Quero Matar Meu Chefe
 ---
 
-Este conto lúdico, evocativo e transcedental do diretor chinês Sha Mo é o melhor "momento Hollywood" que você poderá esperar da edição desse ano da Mostra Chinesa no Brasil. Aqui curtimos o conhecido drama do amor impossível, representado pela barreira financeira que é sempre intransponível nesses filmes. É o choque entre a cultura oriental e a nova vida dos chineses, principalmente dos mais pobres, mas não menos trabalhadores.
+Muitas pessoas com certeza rirão das piadas sobre trabalho, sexo e racismo de Quero Matar Meu Chefe, tradução não-literal de Horrible Bosses (Chefes Horríveis, o que não melhora muito as coisas). Novo trabalho de Seth Gordon (Surpresas do Amor e umas pontas em The Office e Community), o longa reúne mais talentos cômicos do que supostamente ele conseguirá no resto de sua vida como diretor.
 
-Esse casal se conhece desde o colégio, e ele, o intenso Lv Qinyang, faz uma declaração de amor a ela, a espontânea Ling Yiyao, para toda a escola: "me comprometo a dar uma vida digna de inveja para minha amada". Eles estão ainda estudando e tudo é poético, lindo e maravilhoso quando são os adultos que pagam as contas. Então chega a vida real e as portas de um trabalho honesto que pague bem estão fechando em um mundo em acelerado desenvolvimento, e com elas a porta do sonho da casa própria para o jovem casal que, natural, deseja ardentemente se casar. Ela está aguardando por ele, mas suas esperanças estão lentamente sendo drenadas.
+O filme inicia com três narradores oniscientes, Hick (Bateman), Kurt (Sudeikis) e Dale (Day), que assim que terminam a introdução são descartados, e passamos a acompanhá-los pelo quarto narrador (a câmera). Vivendo momentos sufocantes no trabalho devido a cada um de seus insuportáveis chefes, que eventualmente abusam de seu poder, os três rapazes resolvem solucionar seus problemas através da única maneira plausível: exterminando seus superiores, afim de ter um pouco de paz em suas insuportáveis vidas.
 
-Mo Sha pincela em sua estreia nos cinemas um retrato muito comum das grandes cidades chinesas, cheias de empreiteiras para onde jorra dinheiro e falta caráter. Para nós, brasileiros, algo semelhante deve nos remeter à memória recente com os programas sociais que injetaram dinheiro "de graça" para as grandes construtoras do país através de fundos bancários de desenvolvimento, distorcendo a relação de oferta e demanda e criando oferta para uma demanda inexistente. O cenário é o mesmo: se o importante é construir mais tetos, eles serão construídos custe a quem custar, e mesmo que ninguém more debaixo deles.
+O roteiro desenvolvido por Michael Markowitz e John Francis Daley comprova que a experiência dos dois na TV acabou por viciá-los em histórias episódicas que são reunidas por pouco mais que um argumento inicial. O fato é que as piadas desenvolvidas por eles funcionam na maior parte do tempo, e, graças ao simpático grupo de comediantes, acabam se transformando em inconsequentes risadas.
 
-É nesse horizonte que acompanhamos a saga de Lv Qinyang, interpretado pelo intenso Chuxiao Qu, disposto a tudo para conseguir dinheiro rápido e se casar com sua amada. Desde que os conhecemos por gente eles se adoram, e o roteiro começa com cenas do final com uma contagem de milhares de dias desde que eles se conheceram. Ou seja, este é um grande amor para ser vivido em uma telona à altura. No entanto, além de brincar com o gênero do romance o filme vai aos poucos espremendo nosso coração, que precisa se contentar com uma ficção montada em torno de cacoetes de roteiro, como a simbólica contagem de dias desde que se conheceram.
+Não que a narrativa seja inteligente por si só. Apelando muitas vezes para comportamentos ilógicos de muitos personagens (como o presidente da companhia que diz para onde vai o salário do cargo que pegou para si), acompanhamos a trama aos trancos e barrancos, sempre ajudados pelos rostos conhecidos que acabam por conduzir-nos da maneira menos dolorosa possível.
 
-Quero Uma Vida Com Você é um romance, de fato, mas também está inserido em questões sociais que todos chineses vivem hoje em dia. Notem como em quase todo horizonte de filmes dessa Mostra de Cinema Chinês há a figura da construção civil. Este é um país que se tornou um pátio de obras há pelo menos duas décadas, e não há sinais desse projeto mundial arrefecer tão cedo. Enquanto isso as mazelas de jovens e suas paixões de vida ajudam a construir um cinema bem diferente do que estamos acostumados a ver no circuito comercial.
+Seguindo esse ritmo de gags sobre gags, conseguimos acompanhar as cada vez mais absurdas situações que o trio de amigos acaba se colocando, e a impressão que fica é que a única forma da narrativa conseguir "crescer" é aumentando cada vez mais os absurdos.
+
+Enfim, chega um momento em que as piadas não bastam mais e o terceiro ato atravessa inevitavelmente pela peneira da lógica completamente destroçado. Não é preciso dizer que à essa altura nada muito genial era esperado, de forma que o resultado ficou bem ao nível de toda a "trama".
+
+Após esse exercício de futilidade que poderia muito bem passar no sábado à noite, tudo que temos a fazer é sair da sessão e esperar pelo melhor para esse grupo de atores talentosos que acabou se metendo em uma verdadeira cilada.
 

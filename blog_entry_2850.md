@@ -1,24 +1,27 @@
 ---
-categories:
-- writting
-date: '2011-04-02'
-link: https://www.imdb.com/title/tt0964517
-tags:
-- movies
-title: O Vencedor
+categories: []
+date: '2017-02-20'
+tags: null
+title: O velho problema do project out of date do Visual Studio
 ---
 
-O filme começa como um documentário, mas corta para outro documentário sobre o vício do irmão. Isso acaba derrubando nossa visão inicial, mas o tom documental dá realismo ao filme.
+Acho que todo mundo já passou por isso. Você compila todo o projeto bonitinho e no final, ao depurar, ele faz aquela velha pergunta: "o projeto está desatualizado: deseja compilar novamente?". Mas como assim? Eu acabei de compilar, não faz nem cinco segundos. Está quentinho, saiu do forno agora.
 
-A atuação de Bale é tão mais presente que consegue apresentar essa dualidade do antigo campeão de forma impecavelmente equilibrada.
+{{< image src="x9EyDDe.png" caption="" >}}
 
-Cortes ritmados e de precisão cirúrgica aumentam o tom documental para algo maior, e são os letreiros de "Baseado em fatos reais" que nos remetem novamente para o princípio da história.
+Às vezes o Visual Studio cria umas esquisitices que se perpetuam por todas as versões. Isso tem algum sentido. Funciona mais ou menos assim a lógica do "project out of date": se existir algum arquivo cuja data/hora eu não consigo verificar eu considero que o projeto está desatualizado. Por que? Pode ser que esse arquivo tenha que ser gerado automaticamente. Pode ser que houve erro de acesso. Pode ser várias coisas, mas ainda assim faz sentido.
 
-Cortes que usam música e som conseguem cortar com um efeito sonoro, como o gongo do ringue, sem soar clichê.
+Exceto quando o arquivo realmente não existe.
 
-A fotografia ajuda tanto em reforçar o realismo fora dos ringues, aplicando uma granularidade, quanto nas lutas decisivas, pela diminuição da resolução e pequenas "falhas" de transmissão (e o fato da resolução ser sofrível nos remete às TVs que sua família usa para assistir às lutas, fato ligado por um belíssimo corte para fora da cena e dentro de outra cena, a casa da mãe, de onde a imagem é colocada apenas "referenciada" pela fotografia).
+E isso é bem comum de acontecer em um projeto com algum refactory. Você acabou movendo alguns arquivos compartilhados entre projetos, mas em algum desses projetos o arquivo ainda está sendo apontado para o path errado, onde ele não mais existe. No entanto, por se tratar de um arquivo não-necessário para a compilação (ex: um header) não há erros na compilação. Apenas nessa detecção do Visual Studio.
 
-A forma como Micky ganha sua última luta antes de disputar o título com ajuda da dica do irmão é essencial, pois restabelece a ligação entre eles antes mesmo de Dicky sair da prisão (e a forma dele "assistir" à luta é igualmente importante, pois simboliza a união daquela controversa família).
+O problema é que não existe nenhuma dica do que está errado em condições normais de temperatura e pressão. Para conseguiu olhar mais detalhes temos que ir em __Tools, Options__ e configurar mais saída para o build. Pelo menos como __detailed__:
 
-O passado de Dicky sempre é mostrado com o que restou na vida real: relatos do próprio Dicky e o VT da luta.
+{{< image src="VxMIlQL.png" caption="" >}}
+
+A partir daí teremos mais saída na janela de output do build. Logo no começo (talvez pela equipe do VS saber que isso é bem comum) há uma dica de quais arquivos exige o rebuild (você pode fazer isso apenas clicanco em build do projeto que sempre acusa como out of date):
+
+{{< image src="DhX7Kj9.png" caption="" >}}
+
+Depois de detectado o arquivo faltante, é só removê-lo ou atualizar o path. Esse erro não deve mais acontecer e agora você só precisa compilar uma vez e sair depurando.
 

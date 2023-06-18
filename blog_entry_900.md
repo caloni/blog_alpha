@@ -1,14 +1,18 @@
 ---
 categories:
 - writting
-date: '2014-02-09'
-link: https://www.imdb.com/title/tt1579361
+date: '2015-05-26'
+link: https://www.imdb.com/title/tt1823672
 tags:
 - movies
-title: Chasing Ice
+title: Chappie
 ---
 
-Chasing Ice, apesar de receber até indicações ao Oscar, está sem título no Brasil porque as pessoas não gostam de documentário. Felizmente, a Netflix disponibiliza em stream com legendas (de Portugal, mas vá lá). É um daqueles eco-documentários que fala sobre os efeitos do aquecimento global em nosso planeta enquanto pessoas leigas continuam discutindo se a culpa é nossa ou não. Assim como a Teoria da Evolução, a soma de dezenas, ou melhor, centenas de trabalhos científicos ao redor do globo confirmando o homem como agente causador das mudanças climáticas dos últimos cento e cinquenta anos não é páreo para a ignorância e comodismo intelectual (vulgo burrice) da maioria da nossa população.
+Chappie, novo filme de Neill Blomkamp (Distrito 9), é bonitinho, todo cool, e tenta trazer a África do Sul, país-natal do diretor, sob os holofotes de mais uma ficção científica. E mais uma vez, inevitavelmente vem a questão social, pobreza, violência. Nesse sentido, há muito o que se comparar com Robocop, e Blomkamp sabe disso e nem tenta disfarçar que um de seus robôs é uma homenagem/cópia do robô do final do primeiro filme.
 
-Não há novidades em Chasing Ice exceto pela nova tentativa do fotógrafo James Balog de fazer as pessoas pensarem através de imagens. E que imagens! Com a ajuda de uma equipe de engenheiros e especialistas, o grupo monta um sistema de câmeras ao redor das principais geleiras do Alasca, Groenlândia e Islândia para obter a partir de centenas de milhares de fotos uma imagem viva do desaparecimento de blocos de gelo formados há muito tempo. O média-metragem de pouco mais de uma hora conta também com o drama de Balog em continuar suas explorações fotográficas apesar de já ter operado três vezes o joelho (acompanhamos a terceira vez durante a projeção), além, é claro, de tentar entender o que motiva aquelas pessoas. Nada, porém, se equipara à beleza surreal das fotos e vídeos capturados ao longo do projeto. Seria possível ficar olhando para uma foto por horas e ainda observar beleza.
+Trazendo em seu elenco uma equipe de luxo constituída por nada menos que Hugh Jackman e Sigourney Weaver, sua presença tem mais relação com o mundo sci-fi sendo mais uma vez referenciado do que suas interpretações, que são marginais e estranhas. É estranho, por exemplo, ver Wolverine sendo um bad-guy sem muitos motivos que o sustente. Para preencher os personagens mais relevantes, Dev Patel (aquele menininho de Quem Quer Ser um Milionário) é o nerd que inventou robôs policiais, Yo-Landi Visser é a terna Yo-Landi Visser e Sharlto Copley, que já trabalhou com o diretor em seus dois primeiros trabalhos, realiza um trabalho irrepreensível dublando Chappie, o primeiro robô a funcionar com Inteligência Artificial no nível de consciência.
+
+O roteiro escrito a quatro mãos por Terri Tatchell e o próprio Blomkamp parece ter personagens demais (como o líder da gangue espalhafatoso que quer seu dinheiro de volta) e uma relativização do crime muito específica daquela realidade onde a miséria impera e os robôs policiais tornam a vida dessas pessoas mais massacrante ainda. Nesse sentido, a metáfora social funciona, mas é o que menos vemos na história, que abusa de momentos em câmera lenta e gracinhas aleatórias. Ainda assim, funciona bem quando resolve parar um pouco e refletir sobre o que está sendo dito e feito (como a possibilidade de uma máquina com consciência em apenas cinco dias (e acesso à internet) conhecer mais do ser humano do que sobre nós mesmos, ou pelo fato dessa mesma máquina não ter um julgamento moral ou instintivo muito duro com a nossa espécie).
+
+Um filme que faz rima com os mais sombrios Ex Machina, Transcendence e muitos outros que vêm surgindo nessa nova e empolgante safra de especulações de como a IA poderá afetar o nosso futuro.
 

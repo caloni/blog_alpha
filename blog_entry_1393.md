@@ -1,11 +1,11 @@
 ---
 
-Leve, mas com muitas frutas negras; pouco tânico por ser reserva. Vai bem com lasanha de escarola que fiz no domingo com molho italiano.
+Tânico e amadeirado; baunilha (aroma) e frutas negras (pouco); um bom buquê. Aberto para uma lasanha de escarola de domingo.
 
 ---
 categories:
 - writting
-date: '2016-11-13'
+date: '2017-06-25'
 tags:
 - food
-title: El Legado Tannat Reserva 2015
+title: El Legado Syrah Reserva 2015

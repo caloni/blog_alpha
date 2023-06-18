@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-05-30'
+date: '2019-04-28'
 tags:
 - food
-title: Café Dona Helena Santa Catarina
+title: Café do Vovô Joel
 ---
 
-Daqueles meio doces, pouco amadeirados, taninos acentuados.
+Lá de Santa Rita Sul de Minas é presente do meu amigo. Eles colhem e torram manualmente. O gosto cítrico em corpo leve é surpreendente. Nunca provei nada assim. Bom para alternar com o Loretto.
 

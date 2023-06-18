@@ -1,16 +1,18 @@
 ---
 categories:
 - writting
-date: '2019-04-16'
-link: https://www.imdb.com/title/tt7043380
+date: '2020-06-21'
+link: https://www.cinemaqui.com.br/oscar-tera-10-indicados-fixos-para-melhor-filme
 tags:
-- series
-title: Osmosis
+- movies
+title: Oscar
 ---
 
-Ah, se o amor fosse apenas um código em um computador orgânico -- aka nosso cérebro -- e que fosse possível descobrir sua alma gêmea simplesmente analisando esse código. E se essa série distópica da Netflix, baseada em uma versão mais romântica e dramatizada de um episódio de Black Mirror, fosse francesa, e exibisse todas as formas de amar de um futuro próximo? Bom, aí nós teríamos que perder uma hora assistindo ao piloto para concluir: ideia interessante. Poderia ser um bom filme. Mas séries estendem demais conceitos simples.
+Quando o chefão do Oscar faz um discurso dizendo que agora oficialmente serão dez os indicados a melhor filme para promover representatividade, diversidade e todos os ades de quem é ista, ele não está sendo um cara legal. Ele está apenas revelando o quanto o Oscar e/ou a sociedade como um todo funciona e o que irão fazer a respeito: nada. Porque nada é o que este povo que se diz politicamente consciente está acostumado a fazer para mostrar que sabe de algo que você, alienado, não sabe, e farão algo a respeito. Bom, resumo da história como sempre: não, não sabem e não, não farão. Não sabem matemática e não farão uma revolução. Provarão ignorância na arte dos números e hipocrisia e conveniência na arte política.
 
-E aqui há pequenos elementos que se unem para formar uma narrativa repetitiva que tenta abordar o tema do amor perfeito (ou a sua eterna busca) de várias maneiras, além de uma corrida contra o tempo para que a solução final fosse descoberta.
+Vamos abrir o discurso para a lógica: eu tenho mil filmes disputando a lista entre os indicados. Apenas cinco poderão ser escolhidos. Os cinco imediatamente abaixo destes cinco ficarão de fora. Pelas novas regras esses cinco também entrariam pelo tapete vermelho, e com isso, de acordo com o resto da divulgação, aumentaria a representatividade para o prêmio principal da noite. Essa palavra, diversidade, vale lembrar, atualmente quer dizer indicar não apenas homens héteros brancos, mas também mulheres e homens de todas as cores, sexualidade e planeta.
 
-Esta é mais uma das séries que gosta de brincar com o conceito de nossos cérebros serem não apenas maleáveis, mas facilmente traduzíveis. Um dos seus trunfos é entender que as questões não são tão simples assim.
+Bom, essa conta não vai fechar. Não existem apenas dez tipos combinados de gênero, cor e sexualidade (e planeta) para que todos estejam de fato representados na premiação. Se já não é suficiente entre os cinco mais votados, qual a mágica estatística que reza que os dez primeiros o serão suficientes? Vou repetir com outras palavras e deixar a pergunta no ar: se os cinco indicados de hoje são de homens héteros brancos por que os cinco imediatamente abaixo na colocação serão com gêneros, cores e sexualidade diversos?
+
+Se você é de humanas não precisa responder, mas continue levantando suas bandeiras para outro canto.
 

@@ -1,18 +1,21 @@
 ---
 categories:
 - writting
-date: '2011-10-10'
-link: https://www.imdb.com/title/tt0892318
+date: '2021-07-24T22:27:23-03:00'
 tags:
-- movies
-title: Cartas Para Julieta
+- series
+title: Carrossel do SBT
 ---
 
-Sophie e Victor estão noivos e vão passar uma "pré-lua-de-mel" na Itália, onde Victor (García Bernal) pretende conseguir contatos com fornecedores para o restaurante que pretende abrir. Enquanto isso, Sophie (Seyfried) se desilude com as supostas férias e procura algo melhor para fazer: escrever respostas para as mulheres que lotam a frente da casa de Julieta, a mesma da peça de Shakespeare, com cartas românticas.
+Tudo começa cem anos atrás. Na década de 20. A outra década de 20. Um aluno é fascinado pelas virtudes humanas de sua professora e a mantém em sua memória afetiva até o dia em que começa a escrever sobre aqueles saudosos dias na escola. Agora já estamos na década de 40.
 
-A interpretação costuma ser a base para o sucesso de filmes desse gênero, o que não vemos na carinha simpática, mas impassível de Amanda Seyfried (o oposto de Gael García Bernal, seu noivo, que resolve apelar para o overacting "nonsense"). Felizmente a aparição de Vanessa Redgrave na história como Claire, a autora de uma carta perdida de 50 anos atrás em que procurava manter contato com um amor da juventude e que agora busca reencontrar a pessoa que deixou para trás, consegue estabelecer um pouco de "felicidade" na narrativa, e mesmo a participação de seu mal-humorado neto (Egan) na empreitada consegue dar um pouco de ritmo na relação entre os três.
+Sendo publicadas por uma revista argentina, as histórias chamam a atenção para o aspecto social que surge entre as interações daqueles alunos e sua tenra, atenciosa e, de certa forma, ingênua professora. Há diferenças de classe, de cor, de gênero, de força. Há uma diversidade inventada que vira um joguete artístico e propagandista. Nasce a primeira fan fic da esquerda, dessa vez vinda de fato de uma criança.
 
-No entanto, a trilha sonora está disposta a estragar o que foi alcançado com uma seleção no mínimo inesperada (para não dizer inadequada). E por que não criticar a direção, que se esforça inutilmente em tentar criar algo mais para a nossa querida Sophie, mas que nunca é correspondida pela atuação de Seyfried.
+A obra primeiro é adaptada para o rádio e alguns anos depois vira uma telenovela. Através de seu sucesso surgem dois filmes e exibições pela América Latina. Décadas depois é reproduzida no México e vira Carrossel, aquela versão que encantou brasileiros e coreanos por uma geração.
 
-Porém, o forte acaba sendo mesmo a atuação de Vanessa Redgrave que constrói, ainda que como coadjuvante, uma história muito mais tocante para ser seguida de perto.
+O remake brasileiro feito pela emissora de Sílvio Santos se inspira mais na versão mexicana original, não as continuações que vieram, e dá uma atualizada em seus estereótipos. É uma obra encantadora pela pureza de visão de mundo. Dificilmente uma novela se desvencilha do mundo adulto para mostrar sua versão em miniatura.
+
+A Escola Mundial onde se unem as crianças cujas vidas serão retratadas em pequenos contos de aventuras é claramente um simulacro da vida, ou, melhor dizendo, um preparativo para ela. Nunca a essência do que é passar tanto tempo na infância com outros ser humaninhos foi melhor retratado como aqui.
+
+Fazendo jus à máxima de que criança não mente. Nem sua versão adulta e já escritora. Bom, talvez floreie um pouco. Pelo bem da fantasia.
 

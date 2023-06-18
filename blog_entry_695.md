@@ -1,24 +1,18 @@
 ---
 categories:
 - writting
-date: '2019-06-19'
+date: '2014-01-02'
+link: https://www.imdb.com/title/tt2132285
 tags:
-- cinemaqui
 - movies
-title: Blitz
+title: 'Bling Ring: A Gangue de Hollywood'
 ---
 
-No início de Blitz nos é informado que o roteiro foi adaptado (ou inspirado) em uma peça de teatro, mas a sensação é que não houve adaptação alguma, pois este filme é muito mais teatro, daqueles pesadões reflexivos, e menos Cinema, com seu dinamismo narrativo.
+O mundo é materialista e não há nada de errado nisso. Somos feitos de matéria e a matéria circula por nossos poros. Não há nada mais que matéria, ainda que esforços descomunais da mente tentem imaginar algo mágico saindo por detrás de nossas cabeças. Entre esses esforços, a tal da "fama".
 
-Isso porque seus dois personagens principais, o Cabo Rosinha (Rui Ricardo Dias) e sua esposa Heloísa (Georgina Castro), não saem do lugar. Não há movimento exceto interior, mas este também se perde em infinitas disgressões pseudo-poéticas com aqueles textos que realmente lembra o palco de um teatro, cenário onde os mais rebuscados dramaturgos soltam o verbo sem medo de perder a objetividade.
+Bling Ring, de Sofia Coppola, além de continuar a série de temas sobre a vida da própria diretora (Encontros e Desencontros, Um Lugar Qualquer), tão habituada ao mundo Hollywoodiano, consegue construir a fascinação por status em torno de um grupo de jovens que, acostumados a uma vida de luxo, mantém uma rotina de invadir casas de celebridades para possuir parte de seus bens como forma de viver suas vidas.
 
-E se há algo que falta na simples história do pré-julgamento (da sociedade e da esposa) de um policial acusado de matar um garoto em uma blitz do colégio é objetividade. Passeamos pelos pensamentos de Heloísa e Rosinha, trancados em casa após o ocorrido, através do seu passado, tomando a decisão de manter uma gravidez e tendo um filho que veio a morrer antes de completar a idade do garoto morto na tal blitz.
+O caso é que o filme é apenas sobre isso, o que faz com que a narrativa vá crescendo em torno de algo cada vez mais vazio de significado. Podemos dizer que, ao construir esses personagens em torno de bolsas, sapatos, joias, dinheiro, drogas e carros, o filme consiga também ir desconstruindo essas pessoas (a história é baseada em eventos que realmente ocorreram) e seu modo de viver até não sobrar absolutamente nada. Não a conhecemos, apenas o que possuem. Até suas crenças, como a da família da jovem Nicky (Emma Watson), se baseiam em um livro que foi sucesso recente de vendas e popularidade (mais uma vez, status). Seus corpos (magérrimos) e ideias diferem apenas de um detalhe ou outro.
 
-Há alguns momentos que o longa "empresta" sua criatividade sob alguns aspectos de Hiroshima Meu Amor, o clássico de Alain Resnais com Emmanuelle Riva e Eiji Okada devaneando em um restaurante sobre os horrores da Segunda Guerra no Japão. Esses são os momentos bons, onde a lógica do ficar em um beco sem saída sem possibilidade de voltar atrás cabe muito bem. No entanto, a respeito do trágico evento envolvendo a morte do garoto, o único problema que parece existir em toda a história é a falta de comunicação entre a esposa e o policial, embora eles troquem frases que tentam elevar seus diálogos para poesia (sem sucesso).
-
-Do ponto de vista de direção, há pouco ou nada que Rene Tada Brasil possa fazer. Ele realiza enquadramentos inspirados, que surgem bonitos em uma fotografia limpa, que favorece a escuridão na casa dos dois, além do clima árido de uma metrópole sem sentimentos. No entanto, não há aqui uma lógica espaço/temporal que nos remeta ao que o filme quer tentar dizer. Não há símbolos nem sinais do que precisamos prestar atenção. Esse é daqueles filmes que se ouve uma frase bonita dita por uma atriz de talento como Georgina Castro, com toda a carga emotiva que isso poderia merecer, mas ao final da cena fica a sensação de que foi em vão: não sabemos nada mais dessa personagem. Sabemos apenas o óbvio: Georgina Castro é uma ótima atriz.
-
-As emoções e os questionamentos que Blitz parecem querer tratar giram em torno desse pré-julgamento que as pessoas fazem sobre casos polêmicos como esse, incluindo a própria esposa de um policial. A sociedade aqui é vizinha de longa data do casal e seus olhares são fulminantes. Mas não se trata de uma peça... perdão, filme que se pauta na realidade. É uma visão mais ampla, panorâmica, do que acontece na vida real.E isso nos faz perder a objetividade de tudo que gira em torno dos fatos usados como força motriz para esse julgamento sem sentido.
-
-Se você gosta de filmes que pretendem ser fechadinhos terminando por onde começaram, Blitz é um exercício de futilidade bem feito. Ele vai te entreter, e por alguns momentos você vai pensar estar testemunhando grandes momentos de um filme. Porém, esse santo é oco. Não há profundidade em nenhuma parte da história que você se atente. Faça o teste e descubra mais sobre como o Cinema (não) funciona do que sobre o filme em si.
+Se fosse resumir em uma frase, um filme sobre a matéria desconstruindo nossa alma. Interprete alma como lhe aprouver.
 

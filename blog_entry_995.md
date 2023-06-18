@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2019-01-04'
+date: '2018-07-07'
 tags:
 - beer
-title: Colorado ICI 02 French IPA
+title: Colorado Eugênia
 ---
 
-O chope é amargurado na medida com lúpulos aromáticos franceses, o que a torna menos amarga (porque franceses são bixas) mas mais fácil de beber sozinha, o que lhe dá um ótimo atrativo para esse verão dos infernos em terras tupiniquins.
+Fez parte da degustação da visita da Toca do Urso e me ganhou pelo frescor que ela oferece em detrimento às mais potências. O corpo é médio para forte, mas o tom cítrico compensa.
 

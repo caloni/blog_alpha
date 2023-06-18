@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2016-03-07'
+date: '2015-04-29'
 tags:
 - food
-title: Taste Shiraz Cabernet 2013
+title: Tarapaca Cabernet Sauvignon
 ---
 
-Um sabor agradável, desce bem; pouco alcoólico.
+Continua sendo um bom custo/benefício. Geléia de frutas sem ser tão enjoativo quanto um Malbec nacional depois de oxidar.
 

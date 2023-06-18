@@ -1,25 +1,26 @@
 ---
-categories: []
-date: '2018-03-07'
-tags: null
-title: 'PHP Experience 2018 Dia 2: Críticas'
+categories:
+- writting
+date: '2016-09-11'
+link: https://www.imdb.com/title/tt2709768
+tags:
+- movies
+title: 'Pets: A Vida Secreta dos Bichos'
 ---
 
-Grades decepcionantes. O segundo dia do PHP Experience demonstrou pela qualidadade e teor das palestras pelo menos duas coisas: 1) a comunidade parece interessada em boas práticas e arquitetura (o que é ruim), 2) a comunidade parece mais interessada em "diversidade" que qualidade (o que é duplamente ruim).
+O estúdio responsável pelo Meu Malvado Favorito e Os Minions agora vem reciclar sua biblioteca de criaturas e vai explorar justamente mas uma coisa que humanos acham uma fofura: animais domesticados.
 
-As palestras que frequentei foram:
+E não se sai tão mal em seu início.
 
-Uma lenta e dolorosa peregrinação teórica sobre boas práticas de como desenvolver e entregar software... até esqueci sobre que tipo de software. Acho que SaaS.
+Introduzindo a rotina dos pets em Nova York (sempre ela), com seus donos saindo pela manhã e voltando à tarde, o roteiro escrito a várias mãos explora essa noção que temos dos animais. O cachorro como amigo fiel, o gato como um ser que não está nem aí para humanos, e assim por diante. A animação é de qualidade, e o uso de cenas panorâmicas e câmeras se movendo por cima de uma versão romantizada de NY torna tudo aquilo muito fofinho e engraçado.
 
-Uma DBA palestrando é uma coisa de louco. Parece que existe uma necessidade glorificada em analisar como usar o banco de dados para a melhor solução. A conclusão foi que se você souber usar seu cérebro você vai conseguir sair com a solução com qualquer banco de dados. Se você não souber programar entregue o problema para a DBA que ela vai te entregar uma solução com o melhor de cada. Mas vai ter que instalar e manter uns seis bancos diferentes.
+Depois entramos em uma trama mais que conhecida. Uma das donas de um dos cachorros (que é o protagonista, o.... Max) arruma um segundo cachorro muito maior, e juntos os dois acabam se desentendendo, entrando em uma enrascada, depois uma aventura e acabam bons amigos. Fim.
 
-Palestra interessante, sugerindo algumas ferramentas. Mas no final das contas curl é mais que suficiente.
+"Tudo isso" para apresentar diferentes bichos em diferentes situações na cidade. Temos a gangue do coelho, com seu porco tatuado, um crocodilo e uma víbora, que moram nos esgotos da cidade (e menosprezam os humanos porque ninguém quis ficar com eles), temos um gavião que também não tem amigos, mas decide criar laços com uma cachorrinha só porque ela prometeu fazer amizade se achasse o amor dela perdido por aí, e temos mais alguns bichos que irão preencher as lacunas dos estereótipos que faltam (o veterano de cadeira de rodas, o porco-da-índia engraçadinho e sem personalidade, etc).
 
-Uma das piores. A expressividade sugerida é apenas blá-blá-blá de negócios. Parece que a comunidade tem problemas frequentes com conversar com os clientes sobre a solução e são focados demais na programação e linguagem técnica. E a solução é usar uma metodologia whatever que é complexa e burocrática demais para entender e manter.
+Toda essa turma no fundo foi criada para se divertir e fazer piadas divertidas. Não é muito diferente do que já vimos nos filmes anteriores do estúdio, mas acaba sendo um pouco superior a Minions, que tem a proeza de sequer conseguir terminar sua história decentemente.
 
-Acho que a única palestra simpática do dia, com Anderson Casimiro, da comunidade C/C++ Brasil. Casimiro nos dá um panorama real de como a comunicação entre sistemas evoluiu e como tudo é mais simples que parece do que a sopa de letrinhas que tivemos que engolir nas últimas décadas. Desde a passagem de informação via arquivo gerado em uma pasta até a API rígida e tipada do Facebook, passando por REST, o resultado é uma viagem no tempo que nos entrega várias opções interessantes de comunicação e as explica em um linguajar mais simples. A comunidade não pareceu responder muito bem, sem ter muita noção de humor técnico e deixando Anderson em uma saia justa que não correspondeu ao que ele esperava.
+Aqui reina o clichê com piadinhas cada vez mais idiotas. Elas começam bem, mas vão aos poucos degringolando em um básico e primitivo "porque sim". Quando a preocupação dos roteiristas muda do instigante para o "deixa pra lá", o resultado acaba decepcionando um pouquinho mais a cada minuto de filme. Para piorar a situação, os dubladores do Brasil estão inspirados em tentar tirar leite de pedra com sotaques e gírias que vão se tornar incompreensíveis daqui a dez anos. Mas quem vai assistir esse filme depois de dez anos?
 
-Depois houve um show com uma banda chamada ElePHPants formada pelos apresentadores dos palestrantes durante o evento, um toque muito elegante. Som barulhento e regado a pouca cerveja, o iMasters é bom em arrumar local e uma estrutura básica e bem suportada pelo seu staff. A lotação máxima do evento indica que eles são muito bons de marketing.
-
-Só falta agora a comunidade investir melhor em conteúdo.
+Bom, mas o importante é que tudo se resolve em mais um dia no reino das franquias. Se colar e o filme fizer bastante sucesso, é isso que teremos.
 

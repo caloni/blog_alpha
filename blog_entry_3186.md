@@ -1,17 +1,90 @@
 ---
 categories:
-- writting
-date: '2012-02-26'
-link: https://www.imdb.com/title/tt0144084
+- coding
+date: '2007-10-26'
 tags:
-- movies
-title: Psicopata Americano
+- ccpp
+title: Proteção dos membros protected
 ---
 
-Existem vários exemplos de serial killers organizados na literatura e no cinema e tv, como Kevin Costner em Mr. Brooks ([Instinto Secreto]) e o mais famoso Michael C. Hall como [Dexter] Morgan. Porém, pouco se vê dos assassinos que são facilmente pegos exatamente porque não possuem disciplina e ordem: matam as pessoas de qualquer forma. Não possuem método: possuem impulso.
+Quando queremos que um membro de nossa classe seja visível apenas dentro dos métodos da classe e dentro dos métodos das classes derivadas dessa classe usamos o nível de proteção protected. Isso, é claro, não quer dizer que uma classe derivada vá ter acesso aos membros protegidos de outra:
 
-Christian Bale é esse exemplo nesse Psicopata Americano, que deixa muitas questões, mas não deixa dúvidas de que não existe nenhum tipo de lógica na cabeça do indivíduo, ou pelo menos essa lógica não se mantém intacta por muito tempo. Tendo impulsos assassinos constantes, a convivência com as pessoas torna-se um desafio. Tendo cada vez mais seus impulsos narcisistas desafiados (como o filme demonstra muito bem em uma cena envolvendo cartões de visita), o momento da explosão é sublime, surreal, magnífico.
+    #include <iostream>
+    
+    using namespace std;
+    
+    class Base
+    {
+    protected:
+      int m_protected;
+    };
+    
+    class Derived : public Base
+    {
+    public:
+      int GetProtected();
+      int GetAnotherProtected();
+    };
+    
+    class AnotherDerived : public Base
+    {
+    };
+    
+    int Derived::GetProtected()
+    {
+      return m_protected;
+    }
+    
+    int Derived::GetAnotherProtected()
+    {
+      AnotherDerived anotherDeriv;
+      return anotherDeriv.m_protected;
+    }
+    
+    int main()
+    {
+      Derived deriv;
+      deriv.GetProtected();
+      deriv.GetAnotherProtected();
+    }
+    
+    >./program
+    error C2248: 'Base::m_protected' : cannot access protected member declared in class 'Base'
+    see declaration of 'Base::m_protected'
+    see declaration of 'Base'
 
-[Dexter]: {{< relref "dexter-s08-final" >}}
-[Instinto Secreto]: {{< relref "instinto-secreto" >}}
+Esse é o motivo fundamental do porquê não podermos fazer isso:
+
+    int Derived::GetAnotherProtected()
+    {
+      Base base;
+      return base.m_protected;
+    } 
+
+Ao acessar membros protegidos é importante o tipo da expressão que está do lado esquerdo do "." ou "->". Afinal, o nível de proteção se baseia no escopo, e as classes são um escopo. É por isso que consigo acessar os membros protegidos de um outro objeto de minha classe, mesmo sendo outro objeto:
+
+    int Derived::GetAnotherProtected()
+    {
+      Derived deriv; // typeid(deriv) == typeid(*this).
+      return deriv.m_protected; // OK
+    } 
+
+A definição do escopo é tudo o que o compilador dispõe para saber se acessa ou não acessa um membro. Podemos ter acesso a m_protected enquanto somos do tipo Derived, mas não quando o mesmo objeto é usado como Base:
+
+    int Derived::GetAnotherProtected()
+    {
+      Base& base = *this; // typeid(deriv) != typeid(*this).
+      return base.m_protected; // ERROR
+    } 
+
+Essa proteção parece desnecessária e até mesmo incoerente quando lidamos com o mesmo objeto que acessa. Afinal, somos nós mesmos! Só que o compilador não sabe disso, e ele deve desconfiar de tudo e de todos para evitar esse tipo de "ataque":
+
+    int Derived::GetAnotherProtected()
+    {
+      AnotherDerived anotherDeriv;
+      Base& base = anotherDeriv; // typeid(deriv) != typeid(*this)
+      return base.m_protected; // ERROR
+    } 
+
+Agora a proteção do compilador faz sentido. Parece um detalhe frívolo, mas depois que vi alguns programadores de respeito se debatendo pela "burrice" do compilador, imaginei que talvez houvesse mais pessoas com a mesma dúvida de se existe ou não um "bug na linguagem".
 

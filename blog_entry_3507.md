@@ -1,18 +1,24 @@
 ---
 categories:
 - writting
-date: '2016-12-04'
-link: https://www.imdb.com/title/tt2204371
+date: '2012-06-27'
+link: https://www.imdb.com/title/tt1077368
 tags:
 - movies
-title: Somm
+title: Sombras da Noite
 ---
 
-Somm é um documentário no sentido mais didático da palavra, mas que consegue através de sua narrativa quase sempre fluida entregar um pouco de tensão nos preparativos de um trio de degustadores de vinhos que se preparam há anos para tirar o certificado mais cobiçado e exclusivo do planeta. E, de quebra, você irá aprender uma coisa ou outra interessante sobre o mundo do vinho.
+Em minha cabeça há um filme muito bonito que reconstrói Drácula com um apuro técnico que apenas um diretor como Tim Burton poderia conceber com sua singular visão gótica do mundo. Se transportarmos esse mundo para os coloridos anos 70 teremos então um divertido e promissor choque cultural entre épocas separadas por nada menos do que duzentos anos.
 
-É necessário tomar cuidado com documentários que mexem com commodities assim como documentários que falam de ecologia e mundo sustentável. Ambos podem estar infectados com ideologias ou marketing puro. Felizmente, no caso de Somm o formato é mais biográfico, e acompanhamos a rotina exaustiva de três rapazes que ambicionam o título máximo entre os sommeliers, as pessoas que conhecem muito sobre vinhos e costumam trabalhar como especialistas em restaurantes chiques para auxiliar seus clientes.
+Não se pode negar que havia um ótimo potencial em Sombras da Noite, novo longa do diretor em sua secular parceria com o sempre interessante Johnny Deep. Nessa história ele interpreta Barnabas Collins, o filho de um empreendedor inglês que decide partir para a América e construir um imponente castelo para firmar o que ele considera a única riqueza que sobrevive ao tempo: a família. Quando seu filho, porém, ainda jovem, acaba desiludindo uma moça (Eva Green) que acaba se revelando uma bruxa (literalmente), ela lança uma maldição que não apenas mata sua verdadeira amada (Bella Heathcote) como impede que este se junte a ela, pois é transformado em um vampiro que, imortal, sofre a fúria da população local, que o enterra preso em um caixão.
 
-O diretor e roteirista Jason Wise (trocadilhos com seu próprio nome e "wine"? (vinho)) entrega um filme que une depoimentos com o que eles representam visualmente, o que por si só já consegue ser melhor que a maioria dos documentários. Quando alguém comenta sobre determinado aspecto do vinho, somos logo levados a um lugar distante, em uma viníciola, ou adega ou restaurante, onde vemos de fato o que está sendo falado. Até o momento do teste em que eles precisam passar, embora não possa ser filmado, é narrado e pós-apresentado com uma tensão agradável de acompanhar.
+Reiniciando a história na década de 70, somos apresentados pelo ponto de vista da nova babá (novamente Bella Heathcote) à problemática família que restou no castelo: Elizabeth Collins (Michelle Pfeiffer), a matriarca forte; David Collins (Gulliver McGrath), o menino que diz conversar com fantasmas, e seu desinteressante pai, Roger Collins (Jonny Lee Miller); Julia Hoffman (Helena Bonham Carter, sempre), a médica da família; e Carolyn Stoddard (Chloë Grace Moretz), a adolescente problemática.
 
-Somm é um filme fácil de assistir, com diversas informações do mundo do vinho, e que potencialmente não tem muito de marketing escondido. Parece um caminho seguro para aprender mais sobre a bebida dos deuses.
+Montando um sugestivo pano de fundo que poderia muito bem render uma versão gótica do clichê muito usado em filmes independentes da família disfuncional, Burton consegue em um primeiro momento instigar a curiosidade a respeito dos membros da família, sugerindo sutilmente uma mudança de atitudes na casa que encubra possíveis "reais intenções" dos moradores depois que o herdeiro Collins retorna à casa. Porém, infelizmente logo se esquece de sua promissora introdução e se entrega às esquisitices de praxe, como uma bizarra cena de sexo com roupas e paredes, piadas de humor negro, e até uma completamente descartável festa, que parece ter sido inserida no roteiro simplesmente para termos no currículo do diretor "dark" um filme estrelando o igualmente bizarro (e secular) cantor Alice Cooper. Com pouco andamento da história aos poucos temos a impressão de movimento quase nulo em um filme desnecessariamente longo, pois a premissa da disputa comercial na cidadezinha litorânea entre as duas tradicionais famílias dos Collins e o império encabeçado por ninguém nada menos que Angelique Bouchard (novamente Eva Green), a bruxa responsável pelo feitiço em Barnabaslia Collins, parece ter parado no tempo assim como seu recém-patriarca.
+
+Dessa forma, não há muita surpresa quando o filme finalmente chega na hora de tentar amarrar as pontas e falha miseravelmente ao impor importância a personagens até então completamente esquecidos. Não há exemplo melhor do que considero ser um importante sinal de problemas sérios no roteiro: uma revelação bombástica a respeito de um personagem em pleno terceiro ato, descaradamente implantado apenas para inclui-lo na sequência final.
+
+Entendendo os aspectos que tornam a figura do Drácula tão fascinante, mas deixando de desenvolver os aspectos principais da história apenas por conta dessa fascinação, o roteirista Seth Grahame-Smith, que esse ano também assina por [Abraham Lincoln: Caçador de Vampiros], acaba não só desperdiçando uma ótima ideia como ótimos personagens em potencial. De qualquer forma, a culpa deve ser dividida com seu diretor, pois enquanto Burton se dedica a evasivos planos com a câmera suspensa para enfocar cenas que funcionam, mas que nunca contribuem para a história, desperdiça um elenco de luxo que nada consegue fazer para salvar um projeto começou apenas como uma boa ideia, mas que nunca se desenvolveu.
+
+[Abraham Lincoln: Caçador de Vampiros]: {{< relref "abraham-lincoln-cacador-de-vampiros" >}}
 

@@ -1,24 +1,23 @@
 ---
 categories:
 - writting
-date: '2019-10-23'
-link: https://www.imdb.com/title/tt8236336
+date: '2017-08-06'
+link: https://www.imdb.com/title/tt4685554
 tags:
 - cinemaqui
-- mostra
 - movies
-title: O Relatório
+title: 'O Reino Gelado: Fogo e Gelo'
 ---
 
-Nas últimas 72 horas este é meu décimo-quinto filme e texto da Mostra de São Paulo, mas O Relatório não me cansou em nenhum momento pela história que quer contar. O que me desanimou profundamente foi constatar que estava assistindo a um documentário político em forma de ficção com uma das escalações mais inúteis que tenho memória.
+O Reino Gelado é a continuação da continuação de uma série de animação russa fora do circuito Disney/Dreamworks, então não é um filme que se possa esperar o ápice de qualidade dos grandes estúdios. E mesmo assim não deixa de ser uma aventura razoável, com história feita para televisão, mas com efeitos que lembram como hoje há uma acessibilidade incrível a efeitos digitais que antigamente demandavam anos e muitos milhões.
 
-Seu protagonista é interpretado por Adam Driver porque ele é um astro em ascenção (mais ainda depois que se tornou vilão em Star Wars), mas não porque este é um papel para ele. Sua atuação é inexistente, mas não é sua culpa. Driver não foi feito para fazer um funcionário público com motivações de investigar milhares de horas de depoimentos documentados pela CIA para descobrir por que eles apagaram 20 horas de vídeos de seus arquivos. Este filme não é Snowden, e Scott Z. Burns não é Oliver Stone.
+Aqui a história continua a partir dos dois irmãos que depois de derrotar a Rainha de Gelo se tornaram órfãos, e ganham a vida indo de escola em escola narrando suas aventuras que se tornaram lendas. Mas reviver tudo isso e não possuir uma família está desgastando a relação entre os dois, até que um jovem espanhol os traz uma nova lenda a respeito de uma fonte de desejos, despertando o interesse da menina em conseguir ter seus pais de volta.
 
-Após nos dizer que esta história é baseada em depoimentos e registros da CIA, o filme nos introduz com um Daniel Jones (Drive) aparentemente sendo incriminado por desviar documentos da agência de investigação americana após ter se dedicado por ininterruptos cinco anos de pesquisa de um escândalo envolvendo torturas realizadas após o ataque terrorista às torres gêmeas. O filme irá voltar para este mesmo ponto em seu terceiro ato, mas com uma desonestidade incrível refilmado em outro tom, como se não tivéssemos percebido a mudança. E esta aparentemente é a grande reviravolta do projeto, fora o fato de nos créditos finais sabermos também que o filme inteiro é baseado em um artigo de jornal.
+O Reino Gelado é uma espécie de reimaginação de vários trabalhos que lidam com reinos, mistérios e magia. Muitos irão se lembrar de Frozen: Uma Aventura Congelante, pois é inevitável. Aqui fogo e gelo se tornam forças sobrenaturais que se unem para destruir os trolls e os outros habitantes daquela região.
 
-A primeira meia-hora de O Relatório pode ir de tedioso a insuportável, dependendo da paciência do espectador. Acompanhamos o início dessa investigação de Dan Jones e seu desenvolvimento ao lado da senadora que o propôs (Annette Bening, desperdiçada). Vamos aos poucos sendo apresentados aos outros personagens de ambos os lados desta história e para o outro lado é escalado Michael C. Hall (da série Dexter) como uma cara conhecida para lembrarmos qual o outro lado, que irá dizer alguns diálogos inúteis em um personagem que sequer conseguiremos nos lembrar a cada nova cena em que ele aparece.
+A dublagem brasileira deixa a desejar pela artificialidade das falas, mas ao menos não há muitos regionalismos, algo cada vez mais comum nas grandes produções. Já o uso de efeitos rebuscados em exaustão entretém um pouco, pois há belos momentos no filme, mas a falta de uma narrativa que acompanhe nossa imaginação sempre coloca a experiência abaixo do que poderia ser.
 
-Porém, após essa meia-hora e a descoberta de um elenco inusitado (para dizer o mínimo) a trama começa a engrenar. Nós não entendemos praticamente nada do que aquelas pessoas estão falando, mas a própria dinâmica que o filme introduz se torna ferramenta importante para aos poucos conseguirmos interpretar o resto do filme. E aí a história fica interessante. Não instigante, nem empolgante, pois não há tensão alguma por não sermos apresentados a nenhum protagonista com conflito construído. Adam Drive só está aí para ser uma das caras conhecidas e aumentar ou diminuir o tom de voz dependendo do estado das investigações, mas até o que ele fala é intraduzível. Apenas seus esforços é que são compreendidos e os obstáculos que ele encontra no percurso. Que é o suficiente para nos interessarmos.
+A trilha sonora do italiano Fabrizio Mancinelli é um exagero. A música faz questão de acompanhar todas as cenas, e pontuar cada pedacinho da ação, seja drama ou comédia. Mas o mais irritante é a comédia. Baseando-se nos toques clichês de cada momento, a música chega a incomodar mais do que as falhas de roteiro, pois tenta nos convencer de que as cenas são muito mais do que é mostrado.
 
-O Relatório pretende ser um filme de investigação política empolgante como Snowden e tantos outros que o precederam. Ele se baseia em fatos documentados da história recente americana e possui um pano de fundo apelativo o suficiente para ser relevante. Um fã da série House of Cards daria por satisfeito em 80% do filme, pois ele lida com detalhes legais e conflito político interno. Já um fã da série 24 Horas provavelmente já desiste na primeira meia-hora. Esse começo provavelmente é o verdadeiro muro que separa leigos dos aficionados pela Casa Branca.
+Tentando criar uma nova aventura de carona nas animações anteriores, O Reino Gelado é previsível e enlatado, mas ainda assim pode entreter os espectadores mais jovens em uma ou outra piada. Mas se para isso é necessário passar por uma história que não é lá muito empolgante, é melhor procurar os enlatados de Hollywood, mesmo.
 

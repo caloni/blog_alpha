@@ -1,31 +1,22 @@
 ---
 categories:
 - writting
-date: '2023-04-05'
-link: https://www.coffeegeek.com/mini-review/timemore-chestnut-c2-grinder-first-look
+date: '2017-04-04'
+link: https://www.imdb.com/title/tt2669336
 tags:
-- coffee
-title: Timemore C2
+- movies
+title: Time Lapse
 ---
 
-Chegou meu segundo moedor manual depois do quebra-galho que foi o [Hario Slim]({{< ref uma-breve-historia-sobre-preconceito-e-cafe >}}) por mais de dois anos. Depois de muito pesquisar fiquei muito satisfeito em comprar este modelo da Timemore, por três motivos.
+Mais um filme de viagem no tempo. Dessa vez quem viaja é só a luz. Uma câmera tira fotos 24 horas no futuro e entrega para três jovens que perderam a capacidade do livre-arbítrio. Isso porque agora eles precisam reproduzir a foto tirada custe o que custar, se não quiserem morrer.
 
-Para começar o custo/benefício é imbatível. Há muitos moedores manuais hoje em dia, mas nenhum entrega tanta qualidade com tão poucos moluscos. No caso da Timemore a construção de seu moedor de entrada é barateado por conta de algumas partes feitas em plástico reforçado, mas ainda assim a engenharia por trás do mecanismo criado por eles impressiona por não ser um top de linha. A sensação ao segurar um moedor desse é que ele parece mais caro.
+Time Lapse tem o charme musical e temático daqueles thrillers onde algo muito estranho vai ficando ainda mais estranho conforme a história vai avançando. No entanto, ele se rende a um roteiro estruturado demais, que apenas vai passando dia após dia, e que mesmo com o risco eminente de dar tudo errado, prefere fazer um joguete de triângulo amoroso. É como se a câmera que tira as fotos, ou seu inventor, já soubesse que seu melhor uso é materializar fetiches dos espectadores.
 
-Depois do custo o que mais me conquistou com certeza foi sua velocidade e comodidade. Estou acostumado a gastar cerca de três minutos todos os dias para moer meu café no Hario Slim, e isso sabendo que havia várias opções mais rápidas no mercado. Agora eu me sinto mais zen e privilegiado em conseguir colocar minha água para esquentar e apenas depois começar a pesar os grãos e moê-los, pois eu sei que o máximo de tempo que irei gastar são 40 segundos (isso moendo para Aeropress). Eu gostaria de dizer que não tem preço para isso, mas na verdade tem. Olhe o item anterior =)
+Ele também conta com um namorado pintor que é o oposto do estereótipo de artista. Frio e calculista, ele sempre coloca na balança a situação sem nunca sentir muito mais que um leve desapontamento. Até quando sua namorada precisa beijar seu (suposto) melhor amigo em sua presença.
 
-Por fim, e apesar de já ter tocado no assunto de qualidade, acredito que o conjunto deste motivo final poderia ser chamado de versatilidade. Isso porque a fabricação do moedor permite futuros upgrades das mós, além de sua suposta longevidade (e rapidez, claro) me permitir relaxar por mais que dois anos dessa vez. Enquanto não me aventuro no espresso, o único ponto fraco deste moedor de acordo com os reviews, posso com alegria explorar muitas opções de moagem e de extração dessa bebida gloriosa de todas as manhãs.
+O filme também conta com um apostador extremamente estúpido, daqueles que acabou de achar o ganso de ovos de ouro e agora sempre vai comprar pãezinhos todas as manhãs com um quilo de ouro debaixo do braço, e que em vez de pensar em ganhar na loteria de vez prefere brincar de levantar suspeitas da máfia das corridas de cachorro.
 
-# Cliques sugeridos
+O que de certa forma demonstra que, mesmo que as pessoas tivessem o poder de ver o futuro, fariam tudo exatamente como seria esperado que fizessem. Ao mesmo tempo, o filme acaba virando uma doce e sagaz crítica de como a ambição desmedida das pessoas as faz se tornarem escrava do tempo, e não mais donas do seu próprio destino.
 
- - Espresso: 7-10 clicks
- - Moka Pot: 9-11 clicks
- - **Aeropress**: 13-14 clicks (testando com sucesso 11)
- - Siphon (cloth): 13-15 clicks
- - **Pour Over (cloth)**: 13-15 clicks
- - Siphon (metal, glass filter): 15-16 clicks
- - **Pour Over (paper)**: 15-17 clicks
- - Chemex: 17-19 clicks
- - Pour Over (metal filter): 18-20 clicks
- - **Press Pot**: 25-29 clicks
+E tudo isso em um filme bobinho, que apesar de bem conduzido, também não consegue evitar ser bobinho o tempo todo. Parece que o roteiro foi sendo escrito uma página vinda do futuro por vez, e não havia nada a fazer.
 

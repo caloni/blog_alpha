@@ -1,22 +1,24 @@
 ---
 categories:
 - writting
-date: '2017-03-10'
-link: https://www.imdb.com/title/tt2173244
+date: '2016-12-03'
+link: https://www.imdb.com/title/tt0066434
 tags:
 - movies
-title: Tiempos Felices
+title: THX 1138
 ---
 
-Este é o clichê versão argentina daquela comédia onde o namorado quer se separar mas não consegue dizer para a namorada. A partir daí você já deve conseguir concluir que verá aquela velha cena dele imaginando que está se separando e as possíveis reações da sua ex-amada.
+Um dos primeiros curtas de um jovem George Lucas foi sobre um futuro distópico onde as pessoas possuem sua mente controlada e seus nomes são um conjunto de letras seguidas de números. Utilizando uma estética semelhante a La jetée, curta clássico do Cinema que deu origem a Os Doze Macacos, Lucas transforma seu próprio curta em seu primeiro longa-metragem de ficção. E eis que surge THX 1138, um trabalho de 1971 que hoje é um filme de vanguarda sobre futuros distópicos, ou melhor dizendo, um filme sobre filmes sobre futuros distópicos. As brincadeiras não podem ser levadas a sério, mas é justamente esse tom meio paródia e meio fantasia que torna THX um produto sólido dessa geração de cineastas que recriaram o Cinema americano nas décadas de 70 e 80.
 
-Porém, fica pior. Há uma organização secreta com moldes corporativos da década de 50 que promete conseguir a "façanha" de terminar o namoro sem desagradar seu cliente com detalhes como falar a verdade. É através dessa trama que o diretor se esquece completamente de nos surpreender e se entrega a todas as cenas obrigatórias e previsíveis desse gênero surrado: câmeras e escutas escondidas, a estranha sala de espera da tal empresa, as coincidências que fazem o herói perceber o que está acontecendo.
+THX 1138 não se preocupa em explicar muita coisa. Através da observação do funcionamento daquela espécie de cidade onde as pessoas vivem em função de controlar umas as outras pelo bem da "massa", do "Estado" ou do "Partido", o status quo já chegou ao nível religioso da coisa, onde o rosto de um homem e respostas automáticas é usada como confessionário pelos que não se sentem bem, mesmo após ter ingerido as drogas obrigatórias para todos.
 
-Ele geralmente é o último a saber. E nós, espectadores, os primeiros. Isso geralmente não é um bom sinal para risadas, e não é mesmo, já que nem a atuação do protagonista consegue nos entregar qualquer tipo de detalhe inusitado. Aliás, o rapaz é extremamente antipático, e ela uma simpatia obrigada a soar como uma megera. Talvez as atuações estejam trocadas...
+Existem receitas para todos os habitantes. Alguns -- como os nascidos naturalmente -- possuem doses diferentes dos produzidos pela massa. Um dos trabalhadores centrais desse sistema, o THX 1138 do título, tem por função manipular peças radioativas que são usadas para construir robôs que irão vigiar os cidadãos e manter a ordem estipulada, onde demonstrações de afeto para com seu parceiro de quarto ou qualquer demonstração de sentimento é vedada.
 
-Ambientado charmosamente em uma época com pequenas tvs de tubo e um design de arte que evoca o antigo reciclado como um "vintage" saudosista no melhor estilo hipster de cabeceira, com artefatos antigos de tons coloridos escuros misturados pela casa do protagonista, e fora o preto comunzinho da máfia dos corações despedaçados, a impressão é ter pegado o bonde de Medianeras e com isso ter voltado no tempo. O detalhe é que sabemos que o filme se passa em um passado que só existe na cabeça de pessoas do século 21.
+O uso de construções simples, de estética brutalista, e cores básicas como branco e cinza, eliminam qualquer traço de estilo da realidade em volta. Os próprios habitantes possuem seus cabelos cortados por completo, e suas roupas são igualmente brancas, diferenciando apenas no crachá que são obrigados a carregar. Até a prisão desse tipo de lugar é de um branco inebriante.
 
-A dupla de amigos do nosso herói veio daqueles quadros humorísticos de tv. Eles nunca tratam bem os cliente de sua barbearia. As piadas seguem mais ou menos o ritmo televisivo, soando inofensivo, bobinho e nunca tentando nada muito além da velha comédia de esquetes.
+Além do filme não explicar muito bem o destino de alguns personagens nem a escolha de cada um deles, é simples entender que a dinâmica de um mundo que não nos pertence possui suas próprias regras, e as pessoas enxergarão a realidade a partir dessas regras. Isso explica o terceiro ato e a necessidade de THX de fazer o que ele precisa fazer, em uma sequência de perseguição esteticamente linda, e com uma edição do próprio George Lucas que é apertada junto de uma trilha sonora particularmente inspirada de Lalo Schifrin, que usa tons desarmoniosos para compor temas sombrios e ao mesmo tempo lúdicos, lembrando que, apesar de um drama sci-fi feito em um futuro distópico e opressor, tudo aquilo não passa de uma simples brincadeiras de conceitos.
 
-Tempos Felizes é tudo que não gostaríamos de ver repetido em filme do sub-gênero. Do começo ao fim temos aquele gosto amargo de ver uma versão pastel das comédias românticas que deveria evocar o brega em cada um de nós. Com pouca força, evoca o brega apenas dos produtores.
+Mas brincadeira por brincadeira, o resultado é estrondoso. E não importa muito qual tipo de futuro distópico estamos tratando, quais as regras, etc. É mais um 1984 no sentido genérico da coisa (lembrando que até o Terry Gillian, de Os Doze Macacos, fez seu 1984, chamado Brazil). O importante aqui é entender como nos sentimos em adentrar em um mundo completamente diferente, que limita a ação humana, mas que ao mesmo tempo possui suas "falhas": indivíduos que sempre tentam buscar algo de dentro de si.
+
+Uma pena que Lucas tenha depois deste filme e de American Graffiti se entregado à produção e gerenciamento da fortuna que foi (e continua sendo) a saga Star Wars. Parece haver muito mais sombras do que luz em sua visão de mundo, e é triste que os próprios filmes de Guerra nas Estrelas sejam ofuscados pelo fofinho e pela fantasia fácil. Ainda mais se lembrarmos que os robôs de THX lembram muito C3PO. Há uma história não-contada no universo de Star Wars que mereceria Lucas de volta à ativa.
 

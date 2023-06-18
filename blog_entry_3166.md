@@ -1,33 +1,24 @@
 ---
 categories:
 - writting
-date: '2019-08-03'
-link: https://www.imdb.com/title/tt9358204
+date: '2010-06-14'
+link: https://www.imdb.com/title/tt0473075
 tags:
-- cinemaqui
 - movies
-title: Privacidade Hackeada
+title: 'Príncipe da Pérsia: As Areias do Tempo'
 ---
 
-"Se você manter sua mente suficientemente aberta, as pessoas irão jogar um monte de lixo dentro dela." - William A. Orton, empresário do século 19
+Inspirado pelo post recente do Daniel Quadros, um programador como eu, mas que gosta de se aventurar em outras áreas (como eu), resolvi publicar minhas impressões sobre esse filme de 2010, que assisti no cinema com o meu antigo caderno de anotações (hoje aposentado até segunda ordem). Minha ideia era apenas praticar minha sensibilidade sobre a sétima arte, mas aos poucos estou organizando os textos da época.
 
-Privacidade Hackeada é o título brasileiro desse documentário americano lançado pela Netflix, mas ele não tem nada a ver com privacidade e tudo a ver com inception, aquele conceito do filme A Origem onde uma ideia era implantada na cabeça de uma pessoa para que ela achasse que era sua desde o começo.
+Ainda que Jordan Mechner, criador do jogo, estivesse até certo ponto envolvido com o roteiro cinematográfico, é preciso inocentá-lo do formato bobo e previsível da história assinada por ninguém menos que três roteiristas, dois deles envolvidos em pequenos projetos da Disney, como Aprendiz de Feiticeiro e produções para TV. A despreocupação dos produtores em escolher seus roteiristas, aliás, é inversamente proporcional aos seus objetivos, que com esse subtítulo sugerem que, assim como ocorreu com Piratas do Caribe e As Crônicas de Nárnia, há a possibilidade de continuações.
 
-E a pergunta que eu faço hoje em dia, em uma época onde as informações acumuladas da humanidade estão literalmente nas pontas dos dedos de bilhões de pessoas, é se ainda existe esse conceito de ideia original, assim como alguns defendem que exista ainda essa coisa de privacidade, já que informação inclui conhecimento sobre os outros e sobre você mesmo trafegando pela rede.
+De qualquer forma, esse filme tem começo, meio e fim. Ambientado na Pérsia antiga, a fuga do príncipe Dastan (Jake Gyllenhaal) do seu reino e, coincidentemente, da princesa Tamina (Gemma Arterton, , sempre uma princesa) desenvolvem a velha fórmula de aventuras destemidas e milimetricamente calculadas, algo inerente dos jogos de vídeogame, e que aqui não consegue se soltar. Em todas as cenas de ação existe o pano de fundo das fases mais difíceis e habilidades maiores requeridas.
 
-Focado na votação americana de 2016 que elegeu Donald Trump e no plebiscito inglês que retirou o país da União Europeia, o Brexit, o filme tem desde o princípio o objetivo de alertar seu espectador para que fique atento para onde seus dados podem ir. A introdução de David Carroll, nosso host, fala sobre como a geração de suas filhas poderá manter o sistema democrático de pé depois de tudo o que foi visto sobre manipulação de notícias nos últimos anos.
+O par romântico que se forma, sempre um par romântico, possui tanta química quanto Jack Sparrow e Penélope Cruz em Piratas do Caribe 4: o velho clichê "se odeiam, mas se amam". Desde o início não há motivos para a ajuda vinda da princesa, que precisa também escapar o mais rápido possível.
 
-Mas deixemos de lado por enquanto os fake news e vamos aos fatos: dados de milhões de americanos foram parar nos servidores europeus da Cambridge Analytica, uma empresa que não apenas processa dados de redes sociais como os utiliza para direcionar o uso da propaganda nessas mesmas redes. Interessante, não? Na Era da Informação, nada mais natural que gigantes como Facebook e Google sejam gigantes justamente pelo poder dos dados da sua massa de usuários.
+Se muito o que oferecer em seus papéis, o alívio cômico fica por conta de um divertido Alfred Molina como um comerciante ganancioso. Ben Kingsley, por sua vez, se considerarmos sua participação no Ditador, parece estar entrando no velho esquema Hollywoodiano de "pagar o aluguel", se oferecendo em papéis menores de filmes de comédia/aventura.
 
-As redes sociais foram úteis em eleições passadas, como a de Obama em 2008, quando Brittany Kayser trabalhou como voluntária para alavancar uma das primeiras campanhas a usar o poder da internet para eleger o candidato democrata. A campanha termina, o partido se recusa a pagar pelo apoio de Brittany, e o dinheiro para ela passa a ter importância em sua vida pessoal. Então ela recebe uma proposta de emprego onde poderia, de acordo com ela, realmente mudar o mundo (e receber por isso). A proposta, que ela aceitou, foi para trabalhar na Cambridge Analytica.
+Não que a experiência como um todo seja um desastre, mas fica muito aquém de suas possibilidades, já vistas no jogo homônimo. Há algumas tentativas de juntar as pontas, por exemplo, na cena em que vemos o Dastan treinando sua pirueta na parede (e falhando, lógico) e em uma cena de fuga real ele consegue efetuar a tal acrobacia e até acerta três capangas. Porém, mesmo dentro desses momentos inspirados é muito difícil tirar o jogo que originou o filme da cabeça, porque os ângulos e os movimentos do protagonista levam a crer que tudo aquilo é fantasioso, e o fato dos personagens tomarem decisões delicadas com tanta facilidade evidencia a falta de tensão. Mesmo que isso fizesse algum sentido no estilo de vida do príncipe como é visto em sua infância, o mesmo não valeria para a princesa Tamina, que assume o lado sério da relação, embora ela mesma não se leve tão a sério.
 
-O documentário gira em torno do seu remorso pelo que ela ajudou a construir, pelo pedido legal do professor David Carroll à empresa que devolvam os dados que pegaram de seu perfil e da investigação minuciosa de uma jornalista do The Guardian, Carole Cadwalladr, um jornal britânico de esquerda.
-
-O que mais me incomodou neste filme foi o tom absolutamente irreal com que ele realiza suas manobras, como se essas pessoas fossem seres iluminados sem posição política alguma, enxergando a realidade fora da Matrix e prontos para mudar o mundo para melhor. Porém, até o espectador mais ingênuo deveria se questionar se haveria essa luta pela verdade e a questão de como seus dados são usados se, por exemplo, o resultado dessas duas votações fosse diferente.
-
-A figura mais emblemática, e é virtude do longa não esconder, é de Brittany, que não se sentiu arrependida por ajudar na campanha de Obama, mas estar vivendo agora seu inferno astral por conta de todos os seus amigos estarem furiosos por ela ajudar "o outro lado". Note como ela entende o problema da polarização cada vez mais crescente na opinião política das pessoas, mas por algum motivo que talvez nem ela saiba é incapaz de acusar o lado teoricamente mais empático de ser violento.
-
-Ou isso ou os diretores do filme, Karim Amer e Jehane Noujaim, trabalham no caso específico e que deixou o mundo inteiro atordoado: a eleição de Donald Trump. Toda sua campanha é utilizada como o bode expiatório para dar suporte à teoria de que os eleitores americanos foram enganados, utilizando para isso a análise do perfil dos indivíduos antes do dia da votação e o envio massivo de propaganda negativa contra sua adversária, Hillary Clinton.
-
-No entanto, por nunca conseguir de fato acesso ao modus operandi da famigerada Cambridge Analytica, o filme é incapaz de trazer respostas satisfatórias às questões que levanta, e acaba se limitando no velho jogo de propaganda que já conhecemos desde a Rússia soviética. Logo, fica difícil reconhecer o trabalho deste filme como inovadora quando o que ele no final das contas denuncia é: a propaganda faz as pessoas mudarem de idéia. Não me parece um material muito revolucionário para mim. O que você acha?
+Com cenas finais que mais uma vez evidenciam o caráter permanente do jogo na mente dos idealizadores, não deixa de ser um espetáculo visual a cena na areia, que consegue encaixar de maneira satisfatória a ideia de viagem no tempo. O problema reside na superficialidade que este artifício exerce na narrativa como um todo, deixando-a mais fraca do que já é, restando apenas a temporária diversão dos seus efeitos, que são esquecíveis assim que saímos da sala de projeção.
 

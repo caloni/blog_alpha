@@ -1,41 +1,24 @@
 ---
 categories:
-- coding
-date: '2008-04-09'
-title: Linux e o DHCP
+- writting
+date: '2013-01-31'
+link: https://www.imdb.com/title/tt0443272
+tags:
+- movies
+title: Lincoln
 ---
 
-Quando procuramos no google por "linux dhcp", o que vem em resposta são diversas dicas, tutoriais, documentos oficiais e palpites sobre como configurar um servidor Linux.
+Talvez Spielberg tenha reverenciado demais a figura do presidente abolicionista. Mas quem poderá acusá-lo? Em uma época onde imperava os pensamentos que vemos do povo e dos seus dirigentes é admirável que o filme comece já com uma figura como ele, vindo do sul e com pensamentos simples e bem colocados, como chefe de estado de uma nação dividida.
 
-Muito bem. E a outra ponta da história?
+Daniel Day-Lewis ([Sangue Negro]) encarna o personagem com uma igual reverência, mas para nós parece mais humano, mais frágil. Fica difícil entender como um velho de olhar e dizer vagaroso conseguia direcionar seus pensamentos e toda sua vontade por sua causa. Por outro lado, é com essa mesma fragilidade que Day-Lewis nos impressiona nos momentos "pulso-firme" do presidente. Mais difícil ainda para sua atuação é conseguir se sobressair a tantas atuações memoráveis, onde até Tommy Lee Jones ganha seu espaço (se fosse apontar uma única exceção seria Sally Field, obviamente desalinhada com a proposta de uma primeira dama amargurada).
 
-Estes testes foram feitos em um Fedora 8, não me pergunte mais detalhes.
+A discussão da escravidão, tema central e presente em todo o momento, é colocada até as últimas consequências. Porém, diferente do bobinho [Histórias Cruzadas], que investe no sentimentalismo barato, o jogo de poder e influência é o verdadeiro protagonista. A. Lincoln parece inofensivamente perigoso, mas consegue alterar seu humor para cada momento. É uma lenda para seu povo. Não esperaríamos nada menor. Mesmo assim, os diálogos e a questão maior da liberdade para todos os cidadãos é um objetivo que parece inalcançável até para um dos estadistas mais memoráveis da história americana.
 
-O primeiro linque útil encontrado foi a documentação da Red Hat. Além disso seguem alguns macetes que eu descobri no decorrer do percurso. A primeira coisa a ser configurada é o arquivo /etc/sysconfig/network. Nele devemos, em uma configuração simplista, colocar uma única linha:
+E por isso Spielberg investe em tomadas sempre grandiosas, com muitos figurantes, construções e figurinos. Detalhe: sempre em movimento. Um trabalho de encher os olhos para um filme tão cheio de diálogos. A câmera costuma navegar em torno dos seus personagens, levemente, tendo aparentemente o único motivo de apresentar o cenário, uma reconstrução digna de ser vista na telona, com o mesmo capricho fotográfico do igualmente empolgante [Na Estrada].
 
-    NETWORKING=yes
+A trilha sonora acompanha a morosidade da evolução sobre a emenda que poderá vencer a guerra e acabar com a escravidão (e a economia) do sul. Porém, com todo o respeito a John Williams, a única que parece querer dizer de maneira mais expressiva o que está acontecendo é a fotografia, que encobre Lincoln de sombras dentro de sua casa, para apenas depois o vermos sob uma luz forte e renovadora. Não é nenhum segredo o que isso significa e por que acontece, mas continua sempre lindo de se ver.
 
-Tive alguns problemas com a entrada NETWORKING_IPV6, ou algo do gênero. A comunicação com o servidor DHCP da rede simplesmente não funcionava com essa linha, deixando o computador sem IP durante o boot. Má configuração do servidor? Pode até ser. Porém, não quis entrar nesses meandros.
-
-Por isso, se houver a linha sobre IPV6 e você tiver problemas, comente-a temporariamente.
-
-O passo seguinte é configurar a interface de rede, que é no fim das contas a representação da sua placa. Para isso temos alguns arquivos em /etc/sysconfig/network-scripts no formato ifcfg-nome-da-interface. Se você digitar ifconfig na linha de comando terá os nomes de interface disponíveis. No meu caso, eth0.
-
-    vi /etc/sysconfig/network-scripts/ifcfg-eth0
-
-    DEVICE=eth0
-    BOOTPROTO=dhcp
-    ONBOOT=yes
-
-    :wq
-
-Note que o valor BOOTPROTO é realmente BOOTPROTO, com um O no final. Tive alguns problemas de soletrar também nesse caso, o que me gerou mais alguns reboots mal-sucedidos.
-
-Bem, o que isso faz? Basicamente, manda o Linux utilizar o protocolo DHCP, procurando na rede algum servidor que lhe dê algum IP válido. Só isso. O resto ele faz dinamicamente.
-
-Inclusive alterar automaticamente o arquivo /etc/resolv.conf. Nele estão definidas algumas coisas como o domínio de nomes que estamos e os IPs de onde buscar a resolução de nomes.
-
-Feito isso, como se costuma dizer, voilà! Temos um cliente DHCP funcionando contente e feliz. Eu reiniciei a máquina para tudo dar certo, mas provavelmente devem existir maneiras mais saudáveis de reiniciar a rede (talvez um ifdown seguido de ifup resolvesse).  E agora eu posso finalmente ter acesso aos pacotes de instalação que precisava.
-
-Notas de um Linux padawan =)
+[Histórias Cruzadas]: {{< relref "historias-cruzadas" >}}
+[Na Estrada]: {{< relref "na-estrada" >}}
+[Sangue Negro]: {{< relref "sangue-negro" >}}
 

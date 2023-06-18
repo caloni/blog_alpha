@@ -1,24 +1,23 @@
 ---
 categories:
 - writting
-date: '2020-07-26'
-link: https://www.imdb.com/title/tt0335266
+date: '2022-08-27T14:04:34-03:00'
+link: https://cinemaqui.com.br/wp-admin/post.php?post=41303&action=edit
 tags:
+- cinemaqui
 - movies
-title: Encontros e Desencontros
+title: Encontros
 ---
 
-Confesso que este filme me dava sono, mas havia algo mágico em seu ritmo quando o vi a primeira vez aos vinte e poucos anos. Ainda que de maneira inconsciente, havia percebido uma linda mensagem por trás dos eventos sempre banais da história dos ricos e famosos.
+Encontros é um abraço de "oi, sumido" em um mundo pós-apocalíptico. E por apocalipse eu quero dizer a pandemia que varreu as relações humanas para debaixo do tapete. Agora é a hora da reconstrução.
 
-Diálogos precisos e situações icônicas criam a atmosfera perfeita para um diálogo universal sobre solidão e isolamento. Este, sim, é um filme perfeito para se assistir nos momentos insuportáveis da quarentena, pois mostra o quão sozinho e sem esperança conseguimos nos sentir mesmo estando cercados de centenas de pessoas.
+O rápido filme em quatro atos do diretor coreano Hong Sang-soo (A Câmera de Claire) comenta em um melancólico e burocrático preto e branco reencontros entre amigos, amantes, família e profissionais. Todos após longo hiato. Há mudanças de expectativa o tempo todo na história. Inclusive troca de papéis no meio de uma sequência.
 
-Obviamente que Sofia Coppola deve ter sofrido muito disso. Filha de um dos diretores símbolos de sua geração, a filmografia da diretora está sempre observando a rotina das celebridades que ela não apenas conhece, mas vive, desde O Poderoso Chefão, quando era apenas um bebê no colo dos Corleone, para virar dois filmes depois a "interpretação mais fraca da trilogia", um consenso da crítica "especializada" a respeito da então atriz.
+Para fazer um carinho no caos iminente nas relações que tateiam o território do outro com cautela os diálogos são simples a ponto de serem esquecidos no meio da cena.
 
-As experiências cinematográficas da diretora afiam seu tema constante. Começa com [As Virgens Suicidas] e a desilusão amorosa boba por trás da figura masculina, mas ganha corpo em Maria Antonieta e principalmente [Um Lugar Qualquer], indo de novo ao encontro no banal e divertido [Bling Ring]. Pertencente à mesma bolha social, Coppola enxerga em seus personagens um grito surdo por significado em suas vidas livres de dores financeiras, mas cheias de insignificância.
+A câmera estática e tímida quase nunca se move. Só quando precisa. Ela enfoca essa retomada de vidas com um otimismo honesto, mas evita construir rimas. A montagem é chapada, quase inexistente. 
 
-Apesar de uma filmografia pelo menos competente desde o começo, é apenas em Encontros e Desencontros que encontramos um trabalho menos inciviso e petulante, o que dá abertura para uma experiência mais rica e complexa do que é ter o mundo nas mãos e não conseguir a atenção das pessoas próximas (como a própria família). Se a trilogia de seu pai criou a antologia definitiva da história americana, e por tabela do mundo, os filmes de Coppola são a consequência do acúmulo de riquezas do país mais próspero da História: falta de objetivos na vida, consumismo e o trabalho como ferramenta de alienação.
+É um filme de teatro, onde as expressões dos atores comandam o tom, mas eles também estão tímidos. Tanto que quando um diálogo desajeitado -- e há mais de um -- é proferido sentimos vergonha alheia. Mas ninguém no recinto percebe.
 
-[As Virgens Suicidas]: {{< relref "as-virgens-suicidas" >}}
-[Bling Ring]: {{< relref "bling-ring-a-gangue-de-hollywood" >}}
-[Um Lugar Qualquer]: {{< relref "um-lugar-qualquer" >}}
+Não olhamos para Encontros com reação alguma e o filme não impõe sentimentos. É um acordo tácito e velado. Vamos com calma, um reencontro de cada vez. Afinal, há muitos "oi, sumido" aguardando na fila. E nem sempre saberemos se vamos conseguir de maneira adequada. Se é que lembramos o que era adequado antigamente.
 

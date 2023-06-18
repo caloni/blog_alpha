@@ -1,22 +1,16 @@
 ---
 categories:
 - writting
-date: '2019-03-24'
-link: https://www.imdb.com/title/tt0089530
+date: '2014-11-30'
+link: https://www.imdb.com/title/tt0079501
 tags:
 - movies
-title: 'Mad Max 3: Além da Cúpula do Trovão'
+title: Mad Max
 ---
 
-"Mad Max 3: Além da Cúpula do Trovão" já possui um lindo nome e no Brasil decidem apenas traduzir o subtítulo. Muito bem, não se mexe onde está ganhando. Traz Tina Turner junto de Mel Gibson nos créditos principais, mas o principal trabalho da cantora está menos no filme e mais nas músicas de abertura e encerramento do espetáculo. Você vai se lembrar da música do final, por isso não desligue antes dos créditos.
+Um dos primeiros filmes que aborda perseguições de carros e motos em estradas, amado pela sua geração a ponto de virar cult. Vou confessar, no entanto, que a primeira metade do filme hoje em dia é lenta e um tanto decepcionante. A abordagem realista do diretor George Miller é sabotada por ele próprio ao usar uma trilha sonora de suspense de ficção científica dos anos 60 e enfocar constantemente um corvo ou uma ave que se alimenta dos corpos deixados na estrada, criando uma fuga do drama da história, esse sim, sensível o suficiente para que prestemos atenção nas condições deploráveis da polícia daquela época e dos habitantes das cidades desérticas do que pode muito bem ser qualquer lugar onde o motorista senta do lado "errado" do carro. O "futuro" de Mad Max é muito mais os queridos anos 70, e não há a menor tentativa de futurizá-lo.
 
-Turner participa de algumas cenas como a dona de Cidade-Feira, e não me pergunte por quê. Este é mais um refúgio no deserto, dessa vez mantido por conta da sabedoria de um anão (Angelo Rossitto como "The Master") que consegue transformar esterco de porco em energia. Também não me pergunte com o que eles alimentam os porcos, estou tão curioso e confuso quanto você. Turner tem uma bela comissão de frente e lábios carnudos, que são favorecidos em seu figurino e maquiagem, não precisando que ela atue de verdade. Ei, talvez seja assim que ela tenha se tornado a dona da cidade.
+A atuação de Mel Gibson curiosamente não ajuda (como ele melhorou depois) e quem se sai melhor é seu colega Jim Goose (Steve Bisley) e o descontrolado líder de uma gangue de motociclistas Toecutter (Hugh Keays-Byrne, que estranhamente participa do recente Beleza Adormecida). Por esse motivo, quando a morte nas estradas vira motivo para descontrole emocional de ambos os lados (e essa é a melhor parte do filme), o personagem de Gibson (o Max do título) simplesmente é o mesmo do início do filme.
 
-Mel Gibson, em seu terceiro e último filme da série, começa com cabelo grandão e todo maltrapilho (é assim que Turner o chama), mas já impõe respeito. Seu arco é o filme inteiro: ele é roubado pelo ex-companheiro do filme anterior intepretado por Bruce Spence, que agora tem um filho, que é tão pentelho quanto o pai. Que dupla! Agora eles possuem um mini-avião. A saga Mad Max nunca perde a graça por causa dessas piadas bem-humoradas. É desse 3 também a "cara de criança" usada em Rick And Morty, além de outras referências.
-
-Há uma sequência sensacional fora da cidade, em um Oásis, onde achamos jovens e crianças à espera do seu salvador. O filme se paga durante a explicação da lenda que eles acreditam. É um exemplo de como religiões surgem. É patético, incrível e transcendental ao mesmo tempo. Há uma cena dessas crianças em cima de um avião comercial. Não perca esse momento.
-
-Assim como não se pode perder os detalhes da fotografia desse filme no deserto, em uma contra-luz belíssima. Aliás, este é o primeiro filme da saga a usar uma fotografia e uma trilha sonora decente, que mistura batidas que lembram máquinas e uma sequência de acordes desconexos que lembram o caos que o mundo se tornou.
-
-Com menos ação e mais história, este filme pode desagradar ou agradar alguns justamente por isso. Mas como todo filme não é preciso assistir para ver os outros. Todos os filmes são independentes e possuem suas boas ideias. George Miller parece ter juntado as melhores para o ainda inesquecível Fury Road.
+Mas ainda assim, pode-se dizer que Mad Max é uma obra acima da média. Contém momentos icônicos como a perseguição na floresta que termina no fatídico desfecho na estrada. E, claro, o close em um olho dos mais lembrados pela memória afetiva. Depois de uns 25 anos sem revisitá-lo, ainda me lembrava claramente como acidentes na estrada podem chocar para sempre.
 

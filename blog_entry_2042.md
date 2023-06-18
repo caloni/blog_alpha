@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2015-08-23'
-link: https://www.imdb.com/title/tt0240468
+date: '2013-10-06'
+link: https://www.imdb.com/title/tt0373074
 tags:
 - movies
-title: Kung Pow - O Mestre da Kung-Fu-São
+title: Kung-Fusão
 ---
 
-Como todo fã de Tela Class, a redublagem de filmes de artes marciais da década de 70 pelos comediantes Hermes e Renato, seria de se esperar que a expectativa em torno de Kong Pow, um filme completamente redublado e com novos atores "anexados" à construção da cena original, fosse alta pelo desafio que este representa. No entanto, a expectativa se torna frustração na maioria do tempo, pois parece que o real objetivo de Steve Oedekerk (Ace Ventura 2 - Um Maluco na África) é menos homenagear essas obras esquecidas em cineclubes empoeirados e na programação da TV Aberta (estou olhando para você, Band) e mais realizar uma espécie de paródia que ataca a obra original de uma maneira não muito... polida.
+Após uma revisita ao filme-gêmeo de [Shaolin Soccer], ambos exploram esse conceito do Kung-fu extrapolado ao cotidiano, a sensação é de um frescor de ingenuidade e violência comparados a Kick Ass (e não me admiraria que este fosse inspirado naquele). Só pelo fato da violência existir com mortes e essas mortes serem relevantes para estabelecer o peso da tensão em um filme que obviamente é uma comédia já mereceria créditos de sobra.
 
-Dessa forma, a história da lenda dO Escolhido (Oedekerk) e a organização do mal cujo seu vilão faz parte, Meste Con Dor (Fei Lung), é um pretexto vazio e sem qualquer intenção de se tornar uma história minimamente desenvolvida para fazer chacota das falhas de gravação ("eu sou mágico, seu casaco agora é vermelho!") e recriar o universo para inserir piadas "novas" que na maioria das vezes podem ser classificadas como engraçadinhas.
+Depois de assistir À Família, uma tentativa de brincar com humor em um filme de gângsteres, fica óbvio o que Luc Besson faz de errado e o diretor Stephen Chow realiza com pontaria certeira em Kung-Fusão: os gângsteres são desonestos e violentos como em um drama, mas diferente de um, suas vítimas são tão violentas quanto. Da mesma forma com que Yun e Yang se complementam, a força malévola dirigida ao pobre vilarejo se volta na mesma proporção contra seus malfeitores.
 
-Tentando criar um primeiro filme seguido por uma franquia, ainda apresenta personagens secundários que supostamente seriam importantes nas suas continuações, Kung Pow só não decepciona completamente porque observar o processo de recriação de um novo filme em cima das cinzas do original é fascinante por si só, além dele realmente conter sequências hilárias, como a troca de cores do casaco já citada, ou as brincadeiras em torno da lógica das lutas, ou até brincadeiras com o próprio gênero, como as mortes que não acontecem.
+Mas havia falado de ingenuidade, e esse que pode ser o ponto fraco nas cenas que exploram a relação do herói com a menina que havia salvo quando crianças. De qualquer forma, a entrega é cinematográfica, com direito a mudanças sutis no movimento, na fala e nas transições elegantes e lúdicas entre um pirulito desenhado em sangue e um doce/coração despedaçados. Esse lirismo parece não caber nesse filme, mas quando ocorre, é de parar a mais frenética cena de ação.
 
-Já havia assistido alguns anos atrás -- talvez muitos -- e não me havia incomodado os efeitos digitais passados. Hoje eles incomodam bem mais, e devem incomodar mais ainda daqui a dez anos. É um experimento temporal, com data de expiração. Poderia ser feito mais vezes, pois tem o potencial. Se o Tela Class é um trabalho fenomenal de humor, por que não um longa metragem inteiro?
+Por fim, as habilidades crescentes dos opositores ligam tudo junto em um manifesto pró-kung fu que possui seus deslizes, mas em sua alma, mantém sua grandeza intacta.
+
+[Shaolin Soccer]: {{< relref "kung-fu-futebol-clube" >}}
 

@@ -1,16 +1,14 @@
 ---
 categories:
 - writting
-date: '2015-12-06'
-link: https://www.imdb.com/title/tt0497116
+date: '2020-12-16'
+link: https://www.imdb.com/title/tt6774848
 tags:
 - movies
-title: Uma Verdade Inconveniente
+title: Uma Sessão Méliès
 ---
 
-Dez anos após esse documentário de Al Gore, temos à disposição um material muito mais rico na série Cosmos. Porém, a diferença é que este filme é também uma espécie de discurso político disfarçado por um político que teve colegas cientistas em sua formação. Qualquer um consegue obter insights sobre a natureza em seu passado, e Al Gore teve a genialidade de inserir momentos sentimentais por todo seu discurso anti-aquecimento.
+É meio que mágico acompanhar uma sessão em um teatro em Paris onde eram apresentados os trabalhos deste artista e empreendedor no início do cinema. Nossa host é a neta do cineasta, e ela descreve o ritual das pessoas que viram esses curtas entre 1898 e 1905. Havia uma pessoa que explicava o filme. Havia um pianista para acompanhar os filmes. Mesmo se você já viu um ou outro desse curta, como o icônico [Viagem à Lua], esta sessão traz algo mais: é simpática. É ingênua. É desprovida de outras intenções senão observar uma arte engatinhando. Onde essa arte morreu? Não sabemos precisar ainda. Mas sabemos onde nasceu. Foi dos ombros desses idealizadores. Um passo de cada vez. E a mágica se fazia real.
 
-Porém, a força de vontade de Gore quase é contagiante, e não fosse o apelo extremamente emocional, suas palavras tocariam mais ainda nas pessoas. Cansado de ir em inúmeras palestras em volta do mundo alertando as pessoas, decide fazer este documentário e atingir o maior número de pessoas possível. Deu certo. Ganhador do Oscar, é um dos documentários mais conhecidos atualmente.
-
-Entregando os dados mais indiscutíveis a respeito do aumento de gás carbônico na atmosfera, e relacionando de maneira inequívoca com o aumento da temperatura no planeta, o mais impressionante na primeira metade do filme são os resultados das pesquisas de pessoas dedicadas a buscar a verdade, custe o que ela custar. O aquecimento global com certeza é daqueles ramos da ciência que comprova que apenas a imparcialidade sobrevive ao tempo.
+[Viagem à Lua]: {{< relref "viagem-a-lua" >}}
 

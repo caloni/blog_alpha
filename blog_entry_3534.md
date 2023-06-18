@@ -1,18 +1,22 @@
 ---
 categories:
 - writting
-date: '2013-11-28'
-link: https://www.imdb.com/title/tt0811080
+date: '2016-05-22'
+link: https://www.imdb.com/title/tt4181052
 tags:
 - movies
-title: Speed Racer
+title: Special Correspondents
 ---
 
-Speed Racer está para os animes infantis assim como Scott Pilgrim está para o mundo dos vídeogames: dois filmes que homenageiam seu universo abraçando-o sem limites e que por isso são rechaçados pelo público em geral. Uma linguagem tão inovadora pode causar medo e desconforto, mas é o ponto de virada de todo cinéfilo que se preze e que que deseja sentir mais pelos filmes que assiste.
+Ricky Gervais arrisca pouco, mas ganha. Special Correspondents tem a cara e o gosto do diretor/roteirista em suas inúmeras comédias (The Office, Derek, Life is Too Short), mas por se tratar de um longa-metragem, evita a batidíssima câmera na mão e tenta criar uma ficção de fato.
 
-Já era de se supor que os irmãos Wachowski (The Matrix, Cloud Atlas) iriam fundo no material de suas produções. Mesmo assim, quando o pequeno Speed Racer sai da escola para um céu com nuvens pintadas a surpresa e o contentamento são inesquecíveis. A "reimaginação" das crianças no filme sobre a realidade é alto tão hilário quanto tocante. O mundo dos Racer começa a fazer todo o sentido para mim conforme é desdobrado e a história empolga cada vez mais conforme entendemos melhor como funcionam aqueles carros saltitantes.
+Claro, com as piadas, gags, situações e comentários sociais que ele está acostumado a fazer.
 
-Porém, essa não é daquelas experiências visualmente deslumbrantes em cores vivas e chamativas tão somente. Há uma história a ser seguida: o embate entre o mundo dos negócios/dinheiro/poder controlando os resultados das corridas versus a arte pura de contornar desenhos na pista através de saltos inimagináveis; o empenho de toda uma família incentivando o que seu filho faz de melhor; a eterna luta do bem contra o mal, clássica e cartunesca.
+E não dá para dizer que o enquadramento do filme, nem sua fotografia, são um esmero de perfeição. Acostumado com takes estáticos, todas as cenas soam meio deslocadas, e pouco inspiradas. Mas é uma lição de casa bem feita.
 
-Rostos flutuam pela tela cortando as cenas. Personagens à frente da tela separam um fundo a milhas de distância. Closes são trocados em velocidade impressionante no meio da pista entre os corredores. Um filme não trivial merece uma abordagem específica para localizar essa emoção constante nas corridas do desenho original. O grande mérito do filme é buscar isso incansavelmente, em uma construção da cena absurda que nos libera para torcer pelo impossível. E quando ele acontece, é o que esperávamos todo o tempo, e pelo que valeu a pena adentrar nesse mundo fantasioso.
+A história é a mais clichê: um jornalista de rádio bonitão (Eric Bana) e um técnico de som feião (Gervais) vão ao Equador cobrir uma guerra civil. Ou iriam, se eles não perdessem seus passaportes e fossem obrigados a forjar notícias para não serem pegos. A esposa de Gervais é usada como link entre os dois personagens, e tudo gira em torno de tentar levemente fazer uma crítica ao falso jornalismo e às aparências.
+
+Faltando peso dramático para tal, o ponto forte do longa acaba sendo, como sempre, o timing cômico de Gervais, que assume um papel itinerante que não exige muito de seus dons interpretativos.
+
+Tudo mais constante, temos uma comédia de situação em Nova York que, bem-humorada do começo ao fim, entretem, diverte pontualmente e serve para ser esquecida no minuto subsequente.
 

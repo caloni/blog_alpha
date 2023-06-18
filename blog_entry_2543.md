@@ -1,18 +1,12 @@
 ---
 categories:
-- coding
-date: '2012-06-09'
-link: https://www.infoq.com/presentations/Vim-From-Essentials-to-Mastery/
-title: Novos Atalhos Aprendidos no Vim
+- writting
+date: '2020-03-08'
+link: https://www.imdb.com/title/tt0465188
+tags:
+- movies
+title: Novo Mundo
 ---
 
-Sempre é bom reler as referências e tentar melhorar o que já está bom. No momento minha inspiração é o excelente Vim: From Essentials to Mastery, uma coleção de slides bem-humorada que a cada releitura fornece dicas importantes para aprimorar o dia-a-dia com um dos editores mais poderosos do planeta.
-
-A lista abaixo é pessoal e, como disse Bram Moolenar, "You should not try to learn every command an editor offers. That would be a complete waste of time. Most people only need to learn 10 to 20 percent of the commands for their work. But **it's a different set of commands for everybody**" (grifo meu).
-
-  - `<C-W><C-W>` Alterna entre janelas.
-  - `<C-W>-c` Fecha a janela atual.
-  - `<C-W>-o` Fecha todas as janelas menos a atual.
-  - `:ball` Abre todos os buffers em janelas distintas.
-  - `g <C-G>` Conta linhas, palavras, etc, no texto todo ou na seleção atual.
+Um retrato fidedigno, e portanto apaixonado, de uma família de sicilianos de um século atrás, e o contraste inevitável entre a cultura do Velho Mundo e o processo otimizado e mecanizado dos americanos enxergarem o mundo. Os americanos, esses malucos, organizam uma ilha para realizar um experimento social: selecionar os mais aptos a fazer parte da sociedade americana. Vemos a odisseia até chegar a esta ilha do ponto de vista de uma família italiana da ilha de Sicília. O sotaque é maravilhoso, suas vestimentas possuem uma vivacidade impressionante. Não nos esquecemos jamais daqueles homens subindo uma montanha de pedras fragmentadas e rodeadas de verde, com uma pedra na boca e nada em seus pés, escalando passo a passo até depositar a pedra da boca diretamente em um monte de pedras semelhantes para poder pedir ao santo um sinal: devem ou não partir para o Novo Mundo? E a resposta dos céus são fotos falsas onde se vêem galinhas e cenouras gigantes. Uma trucagem que vende a ideia de um paraíso do outro lado do oceano. O poder do visual neste filme é inserir ideias sem verbalizar. Para isso seu diretor utiliza a mecânica dos sonhos, que funciona para qualquer cultura.
 

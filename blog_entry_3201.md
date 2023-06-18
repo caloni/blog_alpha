@@ -1,20 +1,17 @@
 ---
 categories:
 - writting
-date: '2015-09-13'
-link: https://www.imdb.com/title/tt3398268
+date: '2016-11-18'
 tags:
-- movies
-title: Quando Estou Com Marnie
+- series
+title: Quando a realidade encontra South Park
 ---
 
-Mais um dos filmes dos estúdios Ghibli (em que um dos fundadores é Hayao Miyazaki) que já estreou há mais de um ano no Japão e aqui custa a aparecer uma distribuidora decente. Aliás, vamos combinar: não existe distribuidora confiável em solo nacional.
+South Park é uma série que homenageia o pior em nós mesmos. A série criada pela dupla Trey Parker e Matt Stone a partir de personagens recortados em 2D é um retrato fiel da estupidez humana. Porém, nem os criadores conseguiram prever tão longe. E quando enxergamos o mundo de hoje lembramos da célebre frase de Einstein: "duas coisas são infinitas: o universo e a estupidez humana". Sábio como era, porém, o famoso físico possuía algumas dúvidas a respeito do universo não ter fim.
 
-A história de reconexão com a vida de uma garota através da figura misteriosa de uma menina não poderia ter melhores idealizadores. Os detalhes nos traços do desenho, as "mágicas" de movimento, a trilha sonora contemplativa, as expressões dos personagens e, por fim, o roteiro complexo (mas coeso) escrito a seis mãos e baseado no romance de 67 por Joan G. Robinson são todos mecanismos válidos para aumentar a introspecção nessa viagem intimista em busca do que nos torna aptos a sermos seres humanos que desejam viver. Boa parte dessa dúvida da protagonista, Anna, reside em sua incapacidade de viver em sociedade. Mas qual seria outra forma de viver, não é mesmo?
+A série South Park nessa temporada estava, como de costume, brincando com as eleições americanas, onde concorrem mais uma vez os nomes fictícios (mas facilmente deduzíveis) Sanduíche de Merda (Hillary) e o Imenso Retardado (Trump). Em seus últimos episódios ele narra a vitória de Trump, travestido como o professor Garrison, um xenofóbico machista e todos os nomes que a esquerda gosta de usar (e o cúmulo da ironia, ele é gay).
 
-Abraçando mais uma vez o "sobrenatural" (ou a sugestão de) para abordar temas humanos menos visuais, o diretor Hiromasa Yonebayashi de O Mundo dos Pequeninos realiza uma obra ambiciosa do ponto de vista narrativo, pois deseja contar essa redescoberta da humanidade da pequena Anna em sua viagem para o interior do país através da figura misteriosa de Marnie, que pode ser seu outro "eu", um fantasma, uma alucinação ou outra coisa. A maior virtude de Quando Estou Com Marnie é justamente não se interessar demais pela resolução desse mistério, mas mantê-lo próximo conforme nossa heroína aos poucos redescobre a magia de viver.
+Não imagino que os criadores estavam realmente contando com a vitória do republicano, e possivelmente iriam fazer alguma reviravolta no final do episódio colocando o Sanduíche de Merda... quer dizer, a Hillary, de volta ao poder (como na vida real provavelmente seria). Porém, a revolta contra o stablishment norte-americano e mundial trouxe a revolta e o desinteresse da população para as urnas, onde cabe qualquer opinião que estiver disponível nas ruas e ganhe um coro coletivo cada vez maior. É o caso agora em que a crise econômica desanima um povo que espera(va) demais de seus governantes, contrariando sua própria carta magna.
 
-Outra virtude da história é a própria Anna, que apesar de introvertida e com uma autoestima baixa, não é uma vítima indefesa, se tornando irritada e agressiva com as pessoas que a rodeiam. Desse modo, se torna uma figura complexa e mais humana, favorecendo sua própria universalidade. Quem nunca se sentiu só e incompreendido nesse mundo? Quem nunca desejou ter um amigo com quem compartilhar as decepções, as alegrias, e, no caso de Anna, os seus rascunhos?
-
-Com uma conclusão que tenta abraçar o mundo, e se sai razoavelmente bem, Quando Estou Com Marnie é desses filmes de mistério em que o mistério é usado como ferramenta narrativa cuja solução nem sempre irá agradar, ou, nesse caso, não é tão relevante. Cada um irá se emocionar à sua maneira com as diferentes sugestões de final. E mesmo que não concorde com o desenlace "definitivo" esse é um detalhe comparado com o destino da própria personagem. O filme entender isso já o torna acima da média.
+No entanto, agora a série terá um momento espetacular nos próximos quatro anos, onde possivelmente manterão Garrinson como presidente dos EUA (ou enquanto ele se manter lá). A vida real, aparentemente, faz algumas dobras no espaço-tempo e acaba encontrando uma realidade alternativa ainda mais maluca: a que sai das famigeradas mentes criadoras de um cartoon politicamente incorreto.
 

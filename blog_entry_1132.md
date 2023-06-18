@@ -1,29 +1,18 @@
 ---
-categories: []
-date: '2008-01-04'
+categories:
+- coding
+date: '2020-06-21'
+link: https://en.cppreference.com/w/cpp/language/coroutines
 tags:
-- ccppbr
-title: CppCon III
+- ccpp
+title: C++ Co Routines
 ---
 
-O ano de 2008 promete. Pelo menos no começo.
+Entre os gêneros mais famosos do cinema e da programação está o terror, esse estado mental que se caracteriza pelo medo ou pela aversão a uma situação que envolve a perda de controle. Nesse quesito se encaixam as novas corrotinas que serão adotadas pelo padrão C++.
 
-Está marcado para dia 19 desse mês em São Paulo o terceiro encontro de programadores C++, cujas informações mais atualizadas você poderá acompanhar em nossa wiki. A grade de eventos, pelo menos por enquanto, é essa:
+No último Caloni Bode Cast Live Privado, aqueles que não estão publicados no YouTube, conversei com um amigo por mais uma vez (já perdi a conta quantas foram) sobre a famigerada implementação, mas acho que dessa vez detectei melhor o que torna essa nova biblioteca de C++ tão repugnante para os amantes de boas soluções de engenharia e do padrão da linguagem.
 
-  * 09:30 a 10:00 - Introdução e Apresentação dos Membros do Encontro
-  * 10:00 a 11:00 - C++  com WxWidgets por  Ivo Nascimento
-  * 11:00 a 11:30 - Debate
-  * 11:30 a 11:45 - Coffee break
-  * 11:45 a 12:45 - C++0x - Novas características de suporte a projetos de bibliotecas genéricas por Pedro Lamarão
-  * 12:45 a 13:15 - Debate
-  * 13:15 a 14:30 - Almoço
-  * 14:30 a 15:30 - Threads no CPP ISO - Wanderley Caloni
-  * 15:30 a 16:00 - Debate
-  * 16:00 a 16:15 - Coffee break
-  * 16:1 a 17:00 - Fórum sobre a Organização do Grupo de Usuários e da C/C++ Conference Brasil
-  * 17:30 a 00:00 - C/C++ Beer Meeting!
+A primeira ressalva diz respeito à alocação dinâmica. Ao usar esse modelo de rotinas cooperativas o programador é obrigado a alocar espaço para o estado dinamicamente, o que fere duas premissas da linguagem: o controle absoluto do modelo de execução para o programador e a certeza que ele irá apenas pagar em performance o que ele usar. Se os fãs da linguagem fossem religiosos, eles diriam agora que esta não foi uma decisão muito cristã do comitê.
 
-Conto com a participação de todos que se interessam, usam ou aprendem sobre essas fabulosas linguagens de programação. Vamos levantar a moral de C++ no cenário brasileiro!
-
-Errata: na verdade o que ocorreu dia 19 foi um encontro de C++ com direito a palestras e coffee break, o que de certa forma invalida o nome CppCon. Futuramente teremos o que poderemos chamar de conferência C++, no sentido amplo do termo. Te espero lá.
+Eu continuo defendendo que a linguagem C seja usada caso surjam contra-indicações na prática da STL.
 

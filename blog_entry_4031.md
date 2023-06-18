@@ -1,26 +1,95 @@
 ---
 categories:
-- writting
-date: '2020-11-01'
-link: https://www.imdb.com/title/tt5024672
-tags:
-- cinemaqui
-- mostra
-- movies
-title: Walden
+- coding
+date: '2011-03-01'
+tags: null
+title: VTable
 ---
 
-Nascida em Praga nos anos 60, a cineasta Bojena Horackova busca por liberdade no Ocidente em Paris aos dezessete anos. Várias décadas depois surge Walden, um filme que mistura traços biográficos de sua idealizadora e um tom nostálgico/romântico.
+Acho que na breve história desse blogue nunca contei a história do vtable. No máximo fizemos um [hookzinho nos métodos de um componente COM](http://www.caloni.com.br/hook-de-com-no-windbg). Mas só.
 
-Horackova já desenvolveu suas ideias sobre o passado em "A l'est de moi", um semi-documentário de 2008, mas aqui existe a possibilidade de revisitar mais uma vez a época do comunismo no Leste Europeu em um filme que se localiza geograficamente na Lituânia e é falado em um idioma que pouquíssimas pessoas fora da região conhecem.
+Não encontro uma analogia simples, assim, de cabeça. Então vou contar no cru, mesmo. Talvez seja até mais divertido.
 
-Apesar da barreira da língua a história é bem comum: casal de jovens decide que é hora de partir do inferno do comunismo em busca de oportunidades na Europa civilizada. Há empecilhos que ambos devem transpor, mas o primeiro delos é entender o quê querem da vida.
+A vtable foi um mecanismo criado para implementar o polimorfismo em C++ quando falamos de ponteiros para classes base cujos métodos virtuais foram sobrescritos por uma classe derivada.
 
-Ele é o que mais deseja partir. Vivendo com os pais e a avó em uma casa que é um cubículo, revende itens no mercado negro até surgir a chance de passar a fronteira.
+A coisa fica mais simples quando explicamos que em C++ você só paga pelo que usa. Se você declarar uma classe que não tenha nenhum método virtual, os objetos dessa classe não precisarão de uma vtable. No entanto, você não conseguirá sobrescrever um método dessa classe através de uma derivada:
 
-Ela se inspira em suas ações. Gosta de fazer as vendas e enxerga uma possibilidade de ser livre de amarras que nem ela sabia existir no lugar onde nasceu.
+```
+#include <iostream>
 
-O clima de Walden é levemente melancólico. A fotografia cinzenta é típica de filmes da época na região, mas mais significativo é a ausência de pessoas nas ruas e a impressão de estar sempre vigiado.
+class C
+{
+public:
+        void method()
+	{
+		std::cout << "C::method\n";
+	}
+};
 
-O filme faz uma guinada interessantíssima a partir de sua metade, juntando uma narrativa décadas depois com parte dos envolvidos. Só descobrimos aos poucos porque não esperamos esse desenrolar específico da história. Acostumados a romances onde os amantes se entregam de corpo e alma, a trama ao mesmo tempo que impressiona faz pensar no passado como fonte de ressentimentos ou de uma nostalgia boa, sobre as origens das decisões que nos fez chegar onde estamos hoje.
+class D : public C
+{
+public:
+        void method()
+	{
+		std::cout << "D::method\n";
+	}
+};
+
+void func(C* c)
+{
+        c->method(); 
+}
+
+int main()
+{
+        D d;
+        func(&d); // passa endereço de C "dentro de D"
+}
+```
+
+    
+    Saída
+    =====
+
+    
+    C::method
+
+No exemplo acima, a chamada feita em func irá chamar o método da classe C, mesmo que a classe D tenha sobrescrito esse método. O programador semi-experiente deve pensar "lógico, ela não é virtual!", e está certo, assim como qualquer pessoa que decora essas formulazinhas de vestibular.
+
+Para criarmos polimorfismo de verdade, precisamos declarar o método em C como virtual:
+
+    
+    class C
+    {
+    public:
+            virtual void method();
+    };
+
+Agora sim, a chamada em func irá ser para D::method.
+
+Pergunte para o programador semi-experiente em C++ por que as coisas são assim e provavelmente ele irá falar algo sobre vtable, mesmo que não saiba exatamente como ela funciona.
+
+A vtable é uma tabela que guarda o endereço dos métodos virtuais de uma classe. Se uma classe derivada sobrescrever um ou mais métodos de sua classe base, ela terá uma outra vtable com os endereços dos métodos "corrigidos".
+
+{{< image src="vtable11.png" caption="" >}}
+
+Dessa forma, algo um pouco diferente ocorre na chamada c->method() quando estamos lidando com classes polimórficas: o início de um objeto dessa classe terá um ponteiro para a vtable de sua classe. Quando um método virtual é chamado, em vez do compilador gerar uma chamada estática para o endereço do método da classe cujo tipo estamos usando, ele irá redirecionar essa chamada para uma posição na vtable para onde esse objeto aponta. No caso de um objeto do tipo D, a entrada para method em sua vtable apontará não para C::method, mas para D::method, uma função com a mesma assinatura contida na classe base C e que, portanto, a sobrescreve.
+
+Façamos um pequeno teste para comprovar o que falamos. Vamos escancarar a chamada feita a partir de uma instância de D e a partir de uma instância de C. Nada que um WinDbg não resolva de braços cruzados:
+
+    
+    int main()
+    {
+            D d;
+            C c;
+    
+            func(&d);
+            func(&c);
+    }
+
+    
+    cl /Zi vtable3.cpp
+    windbg vtable3.exe
+
+{{< image src="vtable2.png" caption="vtable2.png" >}}
 

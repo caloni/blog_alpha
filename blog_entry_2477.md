@@ -1,15 +1,20 @@
 ---
-categories: []
-date: '2017-03-21'
-tags: null
-title: 'NativeFloripa 2017: Impressões'
+categories:
+- blogging
+date: '2022-12-04T23:13:20-03:00'
+link: https://coletivocritico.com
+tags:
+- mostra
+title: Natália Bocanera
 ---
 
-A despeito de poucas pessoas envolvidas na organização, o primeiro evento no estilo Encontro CCPPBrasil (sem ser um encontro CCPPBrasil) foi um grande sucesso. Houve um nível de palestras razoável com um público idem. Houve também uma maior participação das pessoas, com perguntas e às vezes quase um debate. Houve café no coffee break, mas mais importante: houve chope artesanal no Happy Hour. E por causa disso não há comparativos com encontros C++ de Sampa e Rio =).
+A advogada em seu tempo livre escreve sobre cinema para o saite Coletivo Crítico, dando sua visão feminista sobre a arte cinematográfica. Peguei alguns textos dessa última Mostra para ler e é possível constatar que ela de fato sabe escrever. Mais do que isso: pincela com certa habilidade os pontos principais que anotou sobre os filmes que assistiu. Sempre, claro, sob o viés feminista junto do pacote ideológico que dispensa apresentações.
 
-Palestrei duas vezes, sobre engenharia reversa e moedas digitais, nos dois dias do evento (18, 19 de março de 2017, sábado e domingo). Não consegui assistir todas as palestras porque seria fisicamente impossível, já que houve no sábado uma divisão em duas salas. Uma lástima, porque muitas vezes gostaria de ver ambas as palestras que estavam disputando o tempo. No domingo fomos de single-threaded, e infelizmente o nível de informação foi o que ficou mais aquém, com os palestrantes não tendo um domínio muito bom de conteúdos, como interop entre Go e C (que achei horrível), ou houve palestras muito básicas e verborrágicas à toa, como a construção de um exemplo bobo em OpenCV que une key-points (em um código-fonte de gosto discutível).
+É curioso observar as falhas no raciocínio de Bocanera ao esmiuçar uma obra sob o filtro ideológico, algo muito comum para os que abraçam uma causa. Eu já fui muito e ainda sou eventualmente vítima desse engodo de escrever sem retirar minhas vestes egoístas da forma radical como enxergo o mundo. Sabendo disso, não quero apontar dedos. Apenas observar.
 
-Felizmente, com pouco público, houve a possibilidade de interagir com muitas pessoas diferentes com interesses diferentes. Houve um networking razoável, mas a impressão que ficou foi que os temas foram tão esparsos que não houve muito engajamento de uma possível plateia que ficou de fora e que resolveu não viajar para Floripa para ver apenas uma ou duas palestras.
+Veja, por exemplo, [seu texto sobre A Febre do Mediterrâneo](https://coletivocritico.com/2022/10/22/46a-mostra-febre-do-mediterraneo/), um dos melhores filmes dessa mostra. A escritora está obcecada em listar as questões referentes à inversão de papéis, já que o protagonista é homem e fica em casa cuidando dos filhos, pois abandonou seu emprego para virar um escritor sem livros, muito semelhante a nós, críticos sem imprensa, já que ninguém liga mais para leitura. Este é um homem desempregado, sem função na família. Um inútil. Faz sentido ter depressão.
 
-De qualquer forma, houve gente de fora (eu incluso). Muita gente de SP e do Sul, pelo que pude constatar (muita gente == mais que meia-dúzia). Também houve bastante palestras de uma empresa só (esqueci o nome, mas isso não importa, pois não divulgaria aqui). O preço do ingresso foi muito válido para os pagantes, IMHO, porque além do coffee-break havia máquinas de chope no recinto e um ambiente extremamente agradável no melhor estilo empresa de startup ou incubadora, com design modernão. Ah, e o chope do Happy de sábado foi na faixa. Houvi falar que há eventos muitos mais caros com restrição de salas feitos em universidades onde serve-se biscoito seco e no almoço um lanche sub-way surrado. Em comparação, NativeFloripa foi algo muito, muito superior.
+A mulher do protagonista é quem sustenta a casa. Do ponto de vista do texto de Bocanera, a depressão do marido seria também a causa de muitas mulheres que são donas de casa e possuem jornadas duplas. Ela também cita jornadas não remuneradas, provavelmente se referindo ao trabalho doméstico. Ou seja, a observação até pertinente caberia apenas às mulheres, mas não ao marido, e principalmente ao personagem, que não vive nada do que é descrito. Nesse caso é até irônico constatar que ele e a família são de boa vida, de classe média. O trabalho que ele tem com os filhos não é praticamente nada se não fosse seu estado clínico.
+
+Bocanera é uma escritora com um pé na erudição e outro na narrativa. Preocupada em contextualizar o leitor sobre as camadas dos filmes que analisa, talvez até mais para si mesma, seus textos não são tão inacessíveis quanto saites que não se lê por aí. Porém, também não são de jovens despreocupados com o conteúdo e que mal sabem compor um parágrafo que não seja estendendo a sinopse. De qualquer forma, tenho minhas dúvidas se aproveitaria ler algo que ela produz. Um tradutor de ideologias ou o material compilado para a imprensa é muito próximo, e já está pronto no dia da cabine de imprensa.
 

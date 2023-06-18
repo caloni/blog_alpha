@@ -1,14 +1,26 @@
 ---
 categories:
-- writting
-date: '2017-05-30'
-link: https://www.imdb.com/title/tt6085362
+ - coding
+date: '2023-06-15'
 tags:
-- movies
-title: Decanted
+ - debug
+ - english
+title: Debugging a non signed driver in Windows 10
 ---
 
-Decanted é um documentário morno que cheira a conteúdo publicitário disfarçado de filme. Ele conta a história, ou passa por cima, de vários empreendedores, seu passado e seu prospecto da próxima colheita. Acompanhamos junto deles, de uma colheita a outra, para onde vão as uvas, como elas são tratadas, como é feito o leilão das garrafas e a criação de um novo rótulo: italics. Não, não estou sendo pago para divulgar a marca. Mas se você pensou isso, então deve saber como me senti ao assistir ao filme.
+Not always just to disable driver signing enforcement work in Windows. In Windows 10 when tried to start a driver after reboot with `bcdedit -set TESTSIGNING ON` I still got the `StartService FAILED 577: Windows cannot verify the digital signature for this file` message.
 
-A história que o diretor Nick Kovacic nos apresenta não é nova e nem contém detalhes o suficiente para quem já conhece o mínimo sobre vinho se sentir compelido a assistir até o fim. É apenas mais uma desses programas educativos, mas que aqui tenta evocar uma poesia fugaz do ritual das uvas. Sem muito sucesso, eu diria. Porém, há uma certa magia nas tomadas do horizonte e da câmera lenta de Kovacic, mas não o suficiente para sairmos da atmosfera dos canais de televisão e seus documentários enlatados.
+In order to start a driver non signed by Microsoft you still need some signature in the binary.
+
+```
+rem create the certificate
+makecert -r -pe -ss PrivateCertStore -n CN=My.com(Test) -eku 1.3.6.1.5.5.7.3.3 MyTest.cer
+
+rem install the certificate (run as admin)
+certmgr /add MyTest.cer /s /r localMachine root
+
+rem sign the driver
+signtool sign /v /fd sha256 /s PrivateCertStore /n My.com(Test) /t http://timestamp.digicert.com MyDriver.sys
+```
+
 

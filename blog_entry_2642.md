@@ -1,20 +1,16 @@
 ---
 categories:
 - writting
-date: '2014-03-08'
-link: https://www.imdb.com/title/tt0404032
+date: '2014-03-02'
+link: https://www.imdb.com/title/tt0107688
 tags:
 - movies
-title: O Exorcismo de Emily Rose
+title: O Estranho Mundo de Jack
 ---
 
-Se O Exorcista (William Friedkin, 1973) tivesse sido produzido nessa década perderia praticamente metade do seu brilho sobrenatural. Um filme faz muito mais sentido em sua época (o que não quer dizer que não possa ser apreciado pelas futuras gerações), e lá no passado as crenças e religiões ainda eram um ponto alto, sobretudo a cristã. Os últimos escândalos da igreja católica com certeza ajudaram a minar toda essa fé que leva ao medo, ao sacrifício e à dor. E o medo, desnecessário dizer, é o que move o terror.
+O diretor Henry Selick já tem seu lugar de destaque nas animações por produzir com sua equipe trabalhos com tanto esmero quanto Coraline e o Mundo Secreto e este O Estranho Mundo de Jack. Bancado por Tim Burton, cujos projetos góticos possuem total similaridade com ambos os filmes, Selick em 93 já investia no que seria quase que um renascimento da arte stop-motion nos cinemas, de onde surgiriam ótimos trabalhos como A Noiva-Cadáver (esse sim dirigido por Tim Burton) e atingiria seu ápice em Mary e Max (Adam Elliot, 2009).
 
-Já em O Exorcismo de Emily Rose se adapta à sua época cínica e cética apresentando o ritual já em uma sala de tribunal. A menina supostamente possuída (Jennifer Carpenter, da série Dexter), já sabemos, não sobreviveu ao ritual, e o padre (Tom Wilkinson, propositadamente ausente) agora está sendo processado por negligência. De maneira significativa, para sua defesa está a advogada Erin Bruner (Laura Linney, correta), que ficou conhecida por conseguir inocentar um famoso criminoso, mas que, acima de tudo para o filme, é agnóstica. Igualmente significativo é a escalação do seu promotor (interpretado de maneira atribulada por Campbell Scott), que é católico, mas que aqui faz o papel de, desculpas ao trocadilho, advogado do diabo.
+O Estranho Mundo de Jack mistura a festa de Halloween com o Natal quando Jack Skellington, o "rei da abóbora", acaba visitando o mundo de Papai Noel e, com crise de identidade por fazer todo ano sempre as mesmas coisas, resolve inovar e tomar conta da confecção e entrega dos presentes do bom velhinho. O uso de um musical vem bem a calhar, já que a liberdade visual atingida ainda é maior ainda, dando lugar a quadros verdadeiramente poéticos e icônicos, como quando Jack passeia pelo desfiladeiro que se abre em torno da lua cheia.
 
-O filme é montado em cima de um fascinante jogo de interpretações sobre o que poderia ter ocorrido do ponto de vista sobrenatural e do ponto de vista científico (ou simplesmente bom senso), onde vemos frequentemente ambas as versões representadas visualmente. Isso não tira de forma alguma o medo de sequências arrebatadoras justamente porque escolheram não mostrar muito (o velho segredo que vários filmes do gênero se esquecem e esculhambam tudo). É um filme que mantém seu ritmo de idas e vindas nos acontecimentos sem vigor, mas didático. Quase uma dissecação do que seria o Exorcista da década de 70.
-
-Ainda que brincando de fatos reais com uma liberdade poética ilimitada (baseada na história de Anneliese Michel) o filme divertidamente cria coincidências em torno da advogada agnóstica que poderiam muito bem ser explicadas por senso comum, mas que na atmosfera do julgamento tomam um ar completamente diferente. Curiosamente é quase como que apontasse ao espectador como os "fatos" podem ganhar contornos sobrenaturais, bastando um pouco de imaginação.
-
-Talvez o que decepcione mais o filme seja sua conclusão que quer agradar ambos os lados. Se, por um lado, não restam dúvidas quanto ao que realmente aconteceu, embora, ressalta-se várias vezes, na ausência de provas, há ainda a chama da fé, essa estranha fé católica pela dor e pelo sofrimento que é o apelativo do discurso final da advogada, e que soa extremamente infantil se comparado com a visão sensata e humana de Jodie Foster em Contato a respeito da sua própria experiência.
+Ainda assim, talvez por cortes no orçamento ou pelo trabalho descomunal que um projeto desses exige, o filme tem duração menor do que o necessário para atingir uma profundidade de temas, e portanto apresenta um terceiro ato corrido, embora satisfatório.
 

@@ -1,24 +1,16 @@
 ---
 categories:
 - writting
-date: '2016-02-23'
-link: https://www.imdb.com/title/tt3183630
+date: '2012-10-21'
+link: https://www.imdb.com/title/tt0914798
 tags:
 - movies
-title: O Menino e o Mundo
+title: O Menino do Pijama Listrado
 ---
 
-O Menino e o Mundo é uma animação sobre os olhos de um menino enxergando o mundo. E de fato ele consegue isso, com maestria: o mundo que vemos é estático, simplista, ingênuo e dramatizado até a última gota de tinta.
+Há filmes que possuem uma catarse tão forte e fluida durante a narrativa que parece fácil produzir isso no espectador. No entanto, muitas vezes tudo isso é fruto da nossa imaginação, e há um trabalho grande do início ao fim para que esse efeito seja criado da maneira com que ocorre. Ora, como explicar que um amontoado de bonecas consiga ser tão impactante para os nossos olhos?
 
-Conta a história desse menino de um lugar isolado que, quando o pai parte de casa, vai atrás dele, e em uma mini-aventura ele descobre que há forças conflitantes no mundo. De um lado um latifundiário do algodão; do outro escravos... ops, funcionários colhendo e fabricando tecido; do outro os militares... ops, a polícia, aparentemente ditatorial; e um pouco mais longe, o capital estrangeiro, dominando tudo e a todos.
+Baseado em livro homônimo de John Boyne, o filme de Mark Herman narra as aventuras de um garoto cujo pai faz parte do exército nazista e precisa se mudar com sua família para uma casa extremamente próxima de um campo de concentração. Nele vive um menino de mesma idade e por isso forma-se uma amizade inusitada. O roteiro do próprio Herman consegue oscilar do frívolo ao cruel sem com isso perder o fio da meada, que é enxergar os horrores do holocausto através dos olhos ingênuos de uma criança.
 
-Apenas descrever esse cenário é risível. Tão risível quanto os traços usados pela equipe do diretor e roteirista Alê Abreu, que investe em cores e formas lúdicas, como se fosse giz de cera. O resultado é bonito, poético e pobre. Tão pobre quanto a ideologia marxista por trás de sua história, em um drama que não possui heróis ou vilões: apenas a imaginação nefasta de uma criança não tão jovem assim.
-
-Mas o filme não é apenas pobre de espírito: é covarde, também. Explora uma situação para convenientemente jogá-la para o passado, embora esteja com os olhos no presente. Dessa forma se exime de qualquer imperfeição desse universo fantasioso, pseudo-surreal, que talvez exista em uma realidade alternativa, do alto de um terraço gourmet de um artista que aprendeu a venerar seu dinheiro público espalhando propaganda doutrinária. Não à toa, o patrocínio é anunciado como do BNDES, Petrobras e por aí vai a valsa. Já sabemos onde isso chega:
-
-Ao Oscar! Sim, o filme foi indicado a melhor animação; o mundo está polarizado, e os filhos de Occupy Wall Street estão preocupados com o verde de suas fazendas, ou é apenas uma culpa se alastrando até o terceiro mundo. Ou o mais provável: uma animação universal, embora com foco local, mas que não é falado em nenhum idioma conhecido, o que poupa os membros da academia de lerem legendas.
-
-Com o uso de uma trilha sonora igualmente passada e que se repete à exaustão, O Menino e o Mundo pode ser confundido com um hino cheio de cores e formas que se apresentam como uma ideia. Não nos importemos agora com o que ela transmite: isso é Cinema panfletário da melhor qualidade. É envolvente embora simplório, ritmado embora capenga. Ele consegue extrair do seu pouco o tudo que necessita falar. Não há como não gostar de um filme que consegue fazer tanto com tão pouco, embora esse tanto não seja tanto assim...
-
-O Menino e o Mundo deverá ser revisitado na próxima década. E na próxima, e na próxima. É uma história universal que diz mais sobre o contador da história do que da história em si. E nos ensina uma lição: podemos acreditar no que uma criança nos conta, mas nunca na interpretação dela por um adulto. Principalmente se esse adulto esteja do lado dos que monopolizam as armas.
+Além de em pouquíssimo tempo de projeção conseguir a proeza de impactar-nos não só com a "solução final" de Hitler como também com os pequenos detalhes, como a convívio com um serviçal judeu na casa. Como se isso não bastasse, a história possui uma coragem fora do comum em sua conclusão, mas que com um pequeno gesto de reflexão é possível entender como era também inevitável. O impacto de um momento horroroso na história da humanidade não deve ser amenizado para irmos para casa tranquilos.
 

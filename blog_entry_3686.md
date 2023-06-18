@@ -1,11 +1,12 @@
 ---
 categories:
 - writting
-date: '2021-12-28T22:25:39-03:00'
+date: '2020-07-15'
+link: https://www.imdb.com/title/tt0106080
 tags:
 - series
-title: The OA
+title: The Nanny
 ---
 
-Esta é a história de uma louquinha que arruma uma galera diversificada no colégio para ouvir sua historinha de quando ela era uma garota russa, quase morreu, voltou à vida depois que uma indiana dos além ajudou a moça, daí o pai bilionário foi morto e ela foi comprada por um casal de americanos de meia-idade. E tudo muda quando ela é mantida em cativeiro com uma turminha de humanas que fazem uma dancinha do universo para se salvarem.
+Envelheceu bem. É um sitcom como os primeiros com risada gravada e piadas empilhadas em episódios curtos. Algumas atrizes se destacam, como a principal e a mirim. É sobre as diferenças sociais de uma vendedora de cosméticos de um bairro periférido de Nova York indo trabalhar como babá dos três filhos de um viúvo ricaço. Uma mistura de Sound of Music americano e alguma outra coisa que a torna americana. Ser enlatada, talvez.
 

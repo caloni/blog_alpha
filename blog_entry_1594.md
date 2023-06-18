@@ -1,14 +1,17 @@
 ---
 categories:
 - writting
-date: '2019-12-02'
-link: https://www.imdb.com/title/tt10681222
+date: '2017-08-23'
 tags:
-- series
-title: Filmes Que Marcam Época
+- movies
+title: Filmes e Diretores Favoritos
 ---
 
-Esta série Netflix que acompanha a tendência do Brinquedos Que Marcam Época empolga por trazer o making off de trabalhos consagrados que hoje são reconhecidos como clássicos pelo grande público. Começa com os filmes Dirty Dancing: Ritmo Quente, Os Caça-Fantasmas, Duro de Matar e Esqueceram de Mim. Eu comecei vendo este último, que passa por toda a história necessária sob os olhos dos entrevistados que faziam parte do elenco de produção e que toparam participar da série. Os que não toparam ficam no vácuo, são citados de passagem e inseridos por colagem.
+Essas perguntas no estilo de listas me fazem travar. Minha resposta sempre será injusta porque eu vou esquecer filmes e diretores que gosto mais do que os que eu citar. 
 
-O resultado é dinâmico, divertido e superficial. Nada que uma passada na Wikipédia não revelasse, mas há algo além ao ouvir da boca dos seus criadores os problemas de produção, escolha de elenco, fotografia e tantos outros. A narração em off é burocrática, mas consegue também ser engraçadinha. Pulando de tema em tema, e voltando eventualmente, esta é uma série de improvisos bem editada e que com certeza agradará aos fãs dos filmes que aborda, mas, infelizmente, depois de quase uma hora de episódio, apenas atinge a superfície do tema que pretende explorar.
+Mas, sei lá, no momento não estou focando em filmes ou diretores específicos, mas em técnicas e estilos específicos. Por exemplo, revendo séries que gostei muito, como Breaking Bad, Westworld e Mr. Robot. 
+
+Há uma miríade de virtudes escondidas na confecção desses trabalhos. Isso não os torna perfeitos, mas fascinantes e únicos. Quando falamos de diretores também falamos de algo semelhante. O último filme de um diretor é seu nível de progressão na arte, que ele pode avançar, retroceder ou arriscar algo novo. Eu gosto de diretores perfeccionistas que focam em sua linguagem. Aronovsky no sacrifício do indivíduo pela perfeição e conhecimento, Allen pela eterna discussão da mortalidade e banalidade do homem moderno, Nolan pelo domínio das métricas do espaço/tempo, Wo Pack pela questão da vingança, Ki Duk pelo indivíduo que transcende a si mesmo. E assim por diante :) 
+
+Mas não posso deixar de reconhecer a virtude do diretor em si em pegar qualquer tema e dominá-lo, como os trabalhos de Sydney Lumet, por exemplo.
 

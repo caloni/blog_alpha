@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-05-27'
+date: '2023-02-14T20:29:06-03:00'
 tags:
-- food
-title: Las Nubes Salta Torrontes Colheita Tardia
+- wine
+title: Las Nubes Reserva Personal
 ---
 
-Maçã verde, limão, ácido e azedo, doce constante, mas equilibrado. Com queijo de vaca é perfeito. Continuamos bebendo na noite de pizza na casa do Incrível com o Jimmy.
+Esta garrafa de 2015 sem rótulo foi adquirida na última viagem a Cafayate. Comprei duas. Abri uma no rolê do ano em Aragoiaba. Seu sabor não lembra vinho jovem Malbec nem Tannat. Ele é mais envelhecido, perdeu sua potência do álcool e dos taninos. Ficou um sabor mais frutado, até um pouco enjoativo. É bom para conhecer. É bem diferente de outros reservas que provei dessas uvas.
 

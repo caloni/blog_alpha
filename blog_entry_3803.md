@@ -1,20 +1,26 @@
 ---
 categories:
 - writting
-date: '2016-04-03'
-link: https://www.imdb.com/title/tt0120201
+date: '2010-09-25'
+link: https://www.imdb.com/title/tt0861739
 tags:
 - movies
-title: Tropas Estelares
+title: Tropa de Elite
 ---
 
-Star Wars, se Star Wars fosse filme de guerra. Mas não é. Starship Troopers é sobre as tropas de um mundo futurístico, é sobre a curva de responsabilidade dos jovens, é sobre a violência gore disponível aos montes, graças ao diretor Paul Verhoeven ("Robocop O Policial do Futuro"), e, por último, mas não menos importante, sobre a insanidade da guerra, e como ela se repete indefinidamente, de ambos os lados. Mesmo que o outro lado sejam insetos gigantes do outro lado da galáxia.
+Assisti depois de muito tempo ter sido uma febre entre as pessoas. As frases que se tornaram famosas ouvi pela primeira vez. Mas nem por isso o filme deixou de ter o peso que acreditava que tivesse.
 
-Conta a história de alguns jovens que estão se formando em uma Terra futurista, e a decisão de se tornar um "cidadão", e não apenas um civil. Um "cidadão" é alguém que luta pelo seu planeta e sua espécie, protegendo os civis. Isso é dito e venerado algumas vezes. O professor dessa turma, Jean Rasczak (Michael Ironside), perdeu um braço, mas continua firme em seu recrutamento informal durante suas aulas. Claro que não é um recrutamento em si, mas é claro que sabemos que no fundo qualquer coisa dita para aqueles jovens influenciáveis irá virar sua opinião. Porém, descrevendo de forma cínica esse processo, apenas dois jovens realmente acreditam nisso (um deles será participante da série How I Met Your Mother); os outros apenas seguem seus respectivos interesses amorosos ou querem se ver livre dos pais.
+A história conta sobre o Batalhão de Operações Especiais da polícia do Rio de Janeiro, uma cidade em eterna guerra com os traficantes. Melhor que isso, a história aborda vários esquemas de corrupção e o funcionamento do treinamento dos policiais que integram o BOPE.
 
-A juventude é celebrada em Tropas Estelares, e a energia que os jovens têm a oferecer é contagiante. Esse é um retrato empolgante do exército, mas ao mesmo tempo revoltante que se utilize tanto potencial para gerar destruição. O que torna tudo ambíguo é que o inimigo é uma raça alienígena de insetos gigantes. A repulsividade comum a esses bichos não é o suficiente: a mídia faz questão de destacar como esses seres são selvagens e "com certeza" não possuem inteligência. Não é preciso pensar muito a fundo para perceber que o que se configura é exatamente o que vemos em Enders Game, mas com muito mais imaginação, recursos e sangue.
+Sempre com uma câmera nas mãos, pela urgência da história e pelo realismo das cenas, a ação nunca deixa de ser bem contada, com uma fluidez até mesmo nas cenas de mais movimentos.
 
-O elenco está afiado, as cenas convencem, e o lado B do filme é um aviso constante, que através da mídia a todo o momento alerta o espectador do absurdo das situações vividas pelos heróis, por mais "nobre" que isso pareça.
+Ainda com respeito aos enquadramentos, sou capaz de citar a transição entre o treinamento da tropa para uma das operações nos morros seguido de uma sequência que levanta nossa visão para aquele que parece mais uma praça de guerra como um dos grandes momentos em que podemos notar a competência da direção nos pequenos detalhes.
 
-Mais longo do que os filmes habituais do gênero, Tropas Estelares é um exemplo de como é possível fazer Cinema, se divertir e ainda fazer pensar.
+É um bônus ter visto que os personagens são bem apresentados, tanto que a história se divide em capítulos que explicam primeiramente as duas escolhas do Capitão Nascimento, o protagonista do filme, que realiza um trabalho tenso e coeso com seu personagem que mantém-se "profissional" até nos piores momentos do BOPE, mas ao mesmo tempo uma pessoa de carne e osso, que sofre de estresse e tem problemas familiares. E é impressionante constatar que toda a ação e violência que vemos tão bem orquestrada nas telas nos remete justamente para este personagem, que encarna de maneira condensadora todas as questões em pauta em um filme tão rico de conteúdo quanto de visões de um mesmo problema.
+
+Ainda acende novamente a velha discussão da segurança pública e o papel da sociedade, onde cada ação desencadeia outra, onde existem múltiplas visões de quem são os culpados por tanta violência, e onde longe de ser o esquema maniqueísta de mocinho x bandido que gostaríamos que fosse, este é um problema no fundo de todos nós, traficantes ou não, policiais ou não, corruptos, certinhos, ricos e pobres.
+
+Mais uma coisa que tinha esquecido: o fato da narração ser em off e aparentemente onisciente (Cap. Nascimento) dá a impressão que o protagonista já foi dessa para melhor, como Beleza Americana, e como é zoado em Kick Ass. Por eu ter visto o trailer da sequência, não havia como me enganar, mas a intenção aparentemente do longa era exatamente essa, apesar dele não ter se envolvido em nenhuma encrenca.
+
+Fora alguns detalhes mal resolvidos que parecem aberturas exatamente para deixar o filme mais aberto a conclusões diferentes, abordagens diversificadas e até mesmo para o realismo da história, o filme é um primor de lógica e continuidade, com ênfase na cena inicial que é resgatada no momento-chave em que Cap. Nascimento precisa de um substituto e está remoído de remorso pela morte do fogueteiro.
 

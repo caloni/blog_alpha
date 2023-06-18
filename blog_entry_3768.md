@@ -1,23 +1,22 @@
 ---
 categories:
-- blogging
-date: '2019-12-21'
-title: Tradicional Mensagem de Feliz Natal e Bom 2020 Versão Cinema
+- writting
+date: '2011-10-18'
+link: https://www.imdb.com/title/tt1686328
+tags:
+- movies
+title: Trabalhar Cansa
 ---
 
-Tudo começou há mais ou menos... não me lembro. O que eu sei é que meu grande amigo Pikachu me colocou em um aviso anual sobre compilar uma mensagem de final de ano com referências a filmes que foram lançados esse ano no cinema (ou algum filme mais antigo de vez em quando, se surgir a oportunidade). Esta é a primeira vez que transformo essa mensagem em um post.
+Esse drama-terror concebido e dirigido por Juliana Rojas e Marco Dutra (esse, um dos roteiristas do recente Meu País) busca evitar se posicionar claramente no sobrenatural, mas dá uma gélida impressão durante toda a trama que é exatamente com isso que estamos lidando, ainda que não seja dito ou declarado. E é esse o detalhe mais aterrorizante de todo o longa.
 
-O ano de 2019, imitando 2016, foi escrito e dirigido pelo Tarantino, onde até um Era Uma Vez... em Hollywood consegue virar umA Maldição da Chorona. Com ou sem um Parasita atazanando a vida.
+Concebida sua introdução em moldes tradicionais -- como pode-se notar nos detalhes triviais de uma casa ou até mesmo do armazém recém-inaugurado -- o filme conta a história de Helena (Albergaria), Otávio (Descartes) e da pequena Vanessa, uma família que passa por apuros financeiros decorrentes da recente demissão do pai, e que tem a partir daí a figura da mãe como predominante, pois esta pretende abrir um armazém de bairro em um local antes abandonado pelos antigos comerciantes.
 
-Houve os momentos bons, como testemunharmos finalmente o Ultimato dos Vingadores, apesar que todas essas aventuras em fundo verde serviram para nos cansar de tantos efeitos e perceber que toda essa correria das Marveletes foi uma verdadeira Odisseia dos Tontos. E assim como tontos, cambaleando para fora da sala do cinema depois de ter visto uma atrocidade como Os Parças 2, perdemos muito no meio de discussões que não levam a nada. Esquecemos até o idioma, e trocando português por espanhol perdemos até "El Camino".
+Desenvolvendo a trama da forma mais natural possível -- com trilha sonora inexistente -- aos poucos vamos percebendo a dinâmica marido-esposa e a determinação cada vez mais perniciosa de Helena em conseguir com que o armazém vá pra frente, enquanto assistimos ao declínio de Otávio, com sérias dificuldades de conseguir um novo emprego, aguçados ainda mais pela sua idade já avançada.
 
-Mas nessa nossa Vida Invisível em que entramos naquela salinha escura e nos descobrimos novamente atingimos nosso próprio Bacurau, bem No Coração do Mundo. E quando isso acontece fica difícil dizer que o cinema nacional vai mal, quando entendemos que O Paraíso Deve Ser Aqui. Não há melhor Retrato do Amor.
+Esses detalhes que delineiam as relações entre os personagens são os mesmos usados para nos fazer crer que algo oculto impede que Helena tenha sucesso em sua empreitada. Detalhes sutis chegam a evocar o sobrenatural, embora muito mais de uma forma metafórica ou até mesmo cultural, muito presente no uso dos sons, nas sombras e principalmente na câmera, que consegue arrumar um jeito em que até simples pegadas no chão são capazes de nos manter presos na poltrona com a respiração suspensa.
 
-Eu sei que vivemos em tempos difíceis, onde até uma criaturinha singela como um Pikachu pode virar detetive de um filme noir. Tempos sombrios, onde temos nossa Privacidade Hackeada e parece que nada podemos fazer. Às vezes dá vontade de largar o emprego e viver como um Irlandês, fazendo servicinhos para a máfia, se sentindo O Rei Leão em um trabalho fora da Legalidade e Fora de Série, que satisfaz nossos desejos mais violentos. É como sobreviver Um Dia de Chuva em Nova York e dar Adeus À Noite, em uma passagem de Dor e Glória.
+Porém, o astucioso roteiro não se entrega ao óbvio, nem que ele esteja tão próximo. Prefere dar esse gostinho ao espectador, que vai mastigando aos poucos, na imaginação, as lacunas que parecem faltar. Para alguns, parecerá simplista demais (ainda que irresistível de acompanhar). Para outros, um exercício estético e interativo tão delicioso quanto o que temos em A Bruxa de Blair, embora este mais refinado, nas entrelinhas.
 
-Mas muita calma nessa hora. Não se deve confundir arte e vida real. Toda Arte é Perigosa. Não adianta sermos infantis e gritar Shazam!, esperando sair pelos ares, como um Rocketman, virar um Homem Aranha da vida (ainda que Longe de Casa) ou uma espécie de Anjo de Combate. Não podemos ceder ao nosso sentimento mais Maligno; até porque todos Nós temos em alguma parte de casa um teto de Vidro, e flertar com a vida de um anti-herói pode fazer de nós no mundo real um trágico Brinquedo Assassino, mesmo que esperássemos um Parque dos Sonhos.
-
-Por isso, esqueça as trevas, não seja o dono ou A Dona do Mal. Olhe para O Farol no fim do oceano, estreando dia 2 do ano que vem, 2020. É sinal de paz e Ascenção, nossa ou de Skywalker. Iremos Rumo às Estrelas, esquecermos nossa Mente Perversa e torcer por coisas boas, como uma competição inocente entre Ford vs Ferrari, e não o calor inconsequente de um Retrato de Uma Jovem em Chamas, nem o frio congelante de um Frozen 2. Vamos pelo equilíbrio, reconstruir um novo mundo.
-
-Afinal, Deus é Mulher e Seu Nome é Petúnia. Espero que este estreie também em 2020 =)
+A participação inspirada e apática de Helena comprova nossos pensamentos mais maldosos a respeito do destino do mercado, enquanto o declínio paulatino de Otávio passa quase despercebido, mas equilibra a história sobre dois pontos de vista: o mal crescente e o enfraquecimento do bem. Nós mesmo exercitaremos essa ambiguidade em muitos eventos. Quando o cachorro aparece a latir, por exemplo, se em um primeiro momento enxergamos o acaso do cotidiano, a montagem no ritmo certo nos permite chegar a outra conclusão, mais nefasta, o que vai se tornando mais comum até prevalecer completamente sobre o senso comum (em uma bela rima do que vai acontecendo no próprio filme).
 

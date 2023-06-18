@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2020-04-28'
-link: https://www.imdb.com/title/tt0379199
+date: '2018-07-01'
+link: https://www.imdb.com/title/tt2381991
 tags:
 - movies
-title: O Caminho das Nuvens
+title: O Caçador e a Rainha do Gelo
 ---
 
-Você sabe sobre o que é essa história? Se souber me avise. Avise o diretor, também. No começo se diz que é baseado em fatos reais. Ele conta a história de uma família que viaja de bicicleta pelo país inteiro porque o marido quer um emprego de mil reais. A direção é de um vídeo-clipe que marca a virada do século. É um road movie com pontos turísticos religiosos que se escondem porque a mensagem é muito vaga sobre o que isso significa.
+Continuação previsível, baixo orçamento, mas mantém o mesmo universo e alguns efeitos bem impressionantes. A história central é poderosa, pesa no final, mas todo o resto é um passeio monótono, pois praticamente tudo é previsível.
 
-Cláudia Abreu rouba o filme toda vez que a câmera enfoca seu rosto, e Wagner Moura apagado ofusca participação do ator que faz filho mais velho, que acaba se tornando parte da história, que fala sobre amadurecimento, puberdade, se tornar homem. O fato é que o filme não tem ideia do foco e acaba querendo falar de muitas coisas. Agrada sem causar impacto. Este filme é uma homenagem ao cantor Roberto Carlos e possui muitas canções do rei, e por isso não se pode esperar nada provocativo.
+Jessica Chainstain, apesar de boazuda, fala que o Thor envelheceu, mas é ela que é a coroa. O trunfo do filme original era Charlize Theron, e ela só faz uma ponta aqui, no começo e no final. Isso é o que torna o filme minimamente interessante.
 
-A constante é a religião e a puberdade do garoto, que precisa de uma menina urgente, mas que apesar de chamar atenção não consegue se aproximar de nenhuma. Esta segue buscando a aprovação do pai, e se esforça por merecer respeito tentando fumar, único sinal da virilidade de quem o pôs na vida.
+Porém, pelo resto das suas quase duas horas é um marasmo sem fim acompanhar os mesmos personagens realizando um trajeto seguro, sem riscos, apenas pelo dim-dim. Vemos o casal apaixonado se reencontrando. Chainstain não consegue convencer (e quem conseguiria?) que eles irão ficar separados porque ela acredita que ele o abandonou. Nem plot de novela é mais tão ruim hoje em dia.
 
-É curioso como o primogênito ser inapto para a vida social faz lembrar [Capitão Fantástico], onde o pai torna seus filhos aptos para viver como ermitões e incapazes de abraçar o caos das relações humanas. A certeza dos pais desses dois filmes é a causa do fracasso de seus filhos na vida. Um defende a convicção católica; o outro, a convicção materialista dialética. Cada um com sua religião sem saber o que fazer com cada uma delas, exceto evitar dar respostas ou regras à sua prole. O fracasso acaba sendo o da vida moderna.
+Por outro lado, Emily Blunt como Rainha do Gelo é tão risível que até as bruxas de Oz Mágico e Poderoso se saíram melhor. Ela apenas exibe um doce olhar enquanto aguardamos a vinda da estonteante Theron.
 
-[Capitão Fantástico]: {{< relref "capitao-fantastico" >}}
+Já Thor, quer dizer, Chris Hemsworth, continua com um bom timing cômico e seu jeito falastrão. Mas você acredita que o roteiro da dupla Spiliotopoulos e Mazin não conseguem tirar uma sacada engraçada do personagem?
+
+Não me admira que toda a equipe técnica foi trocada deste filme. O original, dirigido por Rupert Sanders (na época estreante e ainda aguardando por algum filme que comprove sua eficácia), mantinha o frescor de recontar um conto já conhecido por todos no seu formato mais fofinho. Havia a identificação do espectador. Aqui a Rainha do Gelo se assemelha a uma versão televisiva de baixo orçamento de Frozen, com alguns efeitos escolhidos a dedo para colocar dinheiro e fazer o trailer.
 

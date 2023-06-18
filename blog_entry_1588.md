@@ -1,22 +1,21 @@
 ---
 categories:
 - writting
-date: '2019-10-17'
-link: https://www.imdb.com/title/tt9514970
+date: '2021-10-31T17:18:57-03:00'
 tags:
 - cinemaqui
 - mostra
 - movies
-title: Filhos da Dinamarca
+title: Filho das Monarcas
 ---
 
-Filhos da Dinamarca junta o tema óbvio do momento político atual de extremos com uma pesada dose de drama shakespeariano, e para isso nada como estar na Dinamarca. E há algo de podre nesse reino.
+Bacana esse Filho das Monarcas, do diretor franco-venezuelano Alexis Gambis. É difícil explorar um tema vão vasto quanto as nossas origens biológicas neste mundo, algo apenas dominado por Terrence Malick em A Árvore da Vida. Porém, o filme de Gambis denota alguns momentos em que ele fica muito próximo de chegar em algum lugar promissor. Infelizmente, são tantas opções juntas que essas oportunidades fogem voando como nuvens de borboletas.
 
-Um tanto fora do cenário europeu de refugiados, onde Alemanha, França e Suécia são os países mais noticiados, o diretor e roteirista Ulaa Salim abraça a causa com uma história, assim como o brasileiro Bacurau, em um "futuro próximo" (mas nesse caso não tão distópico), quando partidos nacionalistas estão próximos de chegar ao poder. Já tendo fechadas as fronteiras, o próximo passo é expulsar os imigrantes recentes, e junto disso o país vira uma panela de pressão que cozinha extremistas de ambos os lados.
+A história gira em torno de Mendel, um cientista mexicano que está prestes a publicar um trabalho em Nova York a respeito das manipulações evolutivas das espécies de borboletas que vem pesquisando há (aparentemente) muito tempo. Essas borboletas fazem parte de sua infância na terra natal e suas memórias com a avó, o melhor amigo e o irmão. É a morte da avó que traz essas lembranças de volta e que faz com que Mendel retorne à sua cidade e reveja seu irmão e um assunto ainda não resolvido entre eles, motivo de muita mágoa.
 
-Delineando sua história primeiro do lado de extremistas muçulmanos que se unem em um movimento político da maneira que podem, planejando assassinar o líder político do partido que representa uma versão neonazista no cenário dinamarquês, o filme muda sua visão de maneira inteligente a partir da metade e de uma reviravolta esperada pela duração do filme, chegando a alterar o protagonista de maneira orgânica.
+A dança entre os diferentes temas e interações dos personagens é elegante. Tanto a música de Cristóbal Maryán e a edição de Èlia Gasull Balada e do próprio Gambis tratam este roteiro, também de Gambis, com muita afeição e familiaridade. Nós imergimos nessa história naturalmente, e meia-hora depois não desgrudamos os olhos do que irá acontecer.
 
-O roteiro força algumas situações inusitadas, mas nada que fuja das possibilidades dos seus personagens. A direção é coesa e consegue contar uma história com vários detalhes em pouco tempo. Possui a vantagem de um afiado elenco, com destaque para Zaki Youssef como Ali, que comunica muito com os olhos.
+Alexis Gambis já dirigiu outros dois longas-metragens e gosta de explorar a nossa relação com comportamento animal. Além disso, é fundador da Labocine, um site de streaming que combina ciência e como ela se insere na arte cinematográfica. Isso explica todo o cuidado do cineasta com o tema em Filho das Monarcas, onde as pesquisas que seus personagens conduzem fazem todo o sentido. Não há nada de extraordinário na trama, pois o incrível já faz parte da nossa jornada científica em busca de um vasto conhecimento sequer explorado ainda.
 
-Sem conseguir uma produção mais cara, Filhos da Dinamarca evita cenas externas e confia mais no uso da sua luz, em uma fotografia límpida que exibe pelo tom as diferenças entre bairros dinamarqueses e de imigrantes, além de evocar com sua música uma dramaticidade que nos deixaria extasiados se o que estivéssemos vendo estivesse à altura. Infelizmente a obviedade do filme em escolher lados da questão impede que o tema se aprofunde, e não merece maiores reflexões.
+Filho das Monarcas passou nessa Mostra de São Paulo que se encerra, mas ainda é possível ver em seus últimos dias, além de provavelmente o filme estrear nos circuitos comerciais, embora atrasado (o contexto que se passa a história é 2019). É um conteúdo muito bem-vindo a todos que apreciam cinema e ciência. Juntos, então, quase imperdível.
 

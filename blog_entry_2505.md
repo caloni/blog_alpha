@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2017-06-05'
-link: https://www.imdb.com/title/tt2735996
+date: '2016-06-06'
+link: https://www.imdb.com/title/tt2382009
 tags:
 - movies
-title: Ninguém Deseja a Noite
+title: 'Ninfomaníaca: Volume 2'
 ---
 
-Juliette Binoche se transforma completamente em uma americana aristocrata (vinda da França, até pelo nome) e que sai em busca de seu marido, um aventureiro que deseja mais que tudo ser o primeiro a atingir o Polo Norte e fincar uma bandeira. Ela vai em ajuda dos guias para o norte do Canadá, e o que encontra lá com certeza não era o que esperava.
+Podemos chamar Joe de vadia, vulgar ou de qualquer outro adjetivo que achemos o pior em uma pessoa. No entanto, uma coisa que Lars von Trier te impede de fazer durante todas as seis horas de projeção de Ninfomaníaca é permitir que, do topo de nossa suposta moral, a chamemos de vítima. E é isso que autentica essa personagem como uma dura crítica ao nosso modo de pensar a respeito de sexo e da relação entre seus praticantes. Joe, interpretada de maneira dura e auto-reflexiva pela impassível Charlotte Gainsbourg, é que pode, do topo de sua experiência no assunto, julgar a hipocrisia humana.
 
-Baseado em fatos reais (mas sem dar detalhes de qual história estamos vendo, o que cheira manipulação), acompanhamos um filme que se dedica a dar o peso real ao desafio de viver no gelo absoluto, seja como esquimó ou como "povo civilizado". Estamos no comecinho do século 20, e a diretora Isabel Coixet (Fatal), auxiliada pelo roteirista Miguel Barros e, claro, uma irreconhecível Juliette Binoche, criam uma persona frágil e ao mesmo tempo petulante, teimosa, elitista, preconceituosa e... que vira nossos olhos e sentimentos naquela terra estranha. A única personagem à altura é a atriz Rinko Kikuchi (Babel), sempre surpreendente e que aqui faz a jovem esquimó Allaka, e que já havia feito a ótimo Kumiko em "Caçadora de Tesouros". A dinâmica entre as duas é irregular e por isso funciona como uma pena para a questão levantada pelo filme, das diferentes visões de mundo.
+O segundo e último volume lançado aqui no Brasil, não sei por que um filme como esse teria um viés comercial na cabeça desses distribuidores, mas enfim..., perde um pouco sua introdução quase cômica para começar a pesar as decisões de Joe acerca de sua vida. Nem as divertidas analogias de seu ouvinte fazem mais efeito, senão o de nos fazer lembrar que Von Trier enquanto narra analisa seu próprio processo, o que poderia ter o prejuízo de nos fazer sair do filme se não fosse a câmera documental e as transições que fluem sem pudor entre diálogos e "ação" (além de já nos acostumarmos com essa dinâmica).
 
-É claro que chega uma hora que tudo vira uma versão feminina de Dança com Lobos, mas sem a sutileza, e com um certo pelo exagero nas falas. Uma esquimó não falaria tão bem assim tantas vezes. Mas o que é irrepreensível são as virtudes estéticas e técnicas do filme, que inserem o espectador no gelo ártico com muita propriedade. Com o design de som e os ventos, ou o próprio isolamento das montanhas, ou a escassez de recursos, o gelo quebradiço... e até a decupagem, que coloca Kikuchi e Binoche em planos cada vez mais estreitos, conforme o inverno se aproxima. É como conseguir fazer o espectador sentir frio de dentro de um filme.
-
-Ninguém Deseja a Noite cria a profundidade de seu drama para discutir questões mais profundas ainda, como nossos costumes culturais e as diferentes formas de enxergar a realidade. Não chega a ser tocante, e possui um final um tanto desonesto, mas não poupa ninguém das consequências das decisões dessas duas mulheres. Um filme para ver e refletir.
+No primeiro texto sobre o primeiro volume havia dito que um projeto como esse fazia todo o sentido para o diretor pessimista que é Von Trier, que olha o mundo pela ótica de alguém que não tem pudores de dizer qualquer coisa. Vemos isso claramente nas discussões políticas e sociais dessa parte final, e me agrada em muito a visão de Joe pela doença atual do politicamente correto, onde para muitos poderia ser chocante. A vida não te ensina que colocar rótulos mais leves no que as pessoas são torna a vida mais leve. Ninfomaníaca, já em seu próprio título, nos ensina isso pelo óbvio: o sexo não deixa de ser sexo porque é mostrado pela nossa sociedade como algo deturpado e digno de culpa. O sexo apenas é. Joe me ensinou isso. E, sim: ela é uma ninfomaníaca.
 

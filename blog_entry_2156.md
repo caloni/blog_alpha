@@ -1,11 +1,20 @@
 ---
 categories:
 - writting
-date: '2021-06-26T21:19:00-03:00'
+date: '2020-10-04'
+link: https://www.crunchyroll.com/love-is-like-a-cocktail
 tags:
-- movies
-title: Love on Delivery
+- animes
+title: Love is Like a Cocktail
 ---
 
-Stephen Chow escreve, produz, dirige, atua e coreografa seus filmes com uma energia admirável. A maioria é um lixo, mas um lixo prazeroso para o cinéfilo. As cenas de luta são bem montadas porque ele não é nenhum Jackie Chan (embora admire). As piadas são escrachadas próximo do nível do insuportável, mas nunca ultrapassa esse nível. Seu cinema é de uma grandiosidade que gostaríamos de ver na telona mais vezes em vez dessas produções mais caras que investem no público da mesmice. Cinema bom é cinema de apaixonados pela arte, e até trash de baixa qualidade como os seus filmes furam a fila dos insuportáveis blockbusters de franquia.
+Fiquei muito empolgado com essa ideia de animes com episódios de três minutos. Três meros minutos. Enquanto isso a Netflix e o Prime Video nos bombardeiam com séries de uma hora de um irrelevante primeiro episódio que já dá vontade de parar no meio.
+
+No entanto, três minutos acaba sendo pouco demais, enquanto ao mesmo tempo demonstra perfeitamente o que a geração atual aprecia: ideia rápidas, misturadas e que não os façam pensar demais. Apenas os memes, por favor.
+
+Nesse sentido Love is Like a Cocktail é um anime com uma ideia simples: o marido cozinha e é um barman caseiro que premia sua esposa ao voltar do trabalho com belas bebidas, alcóolicas ou não. Cada bebida para uma ocasião. E o espectador ainda tem direito à receita =).
+
+Nos primeiros três ou quatro episódios acaba entretendo, mas eventualmente começa a faltar a substância de narrativas mais elaboradas. Claro que eu não sou dessa geração e sinto falta. Mas entendo a proposta.
+
+Mal espero quando começarem as séries com alguns segundos o episódio. Ops, já chegou. Se chama Tik Tok.
 

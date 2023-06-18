@@ -1,27 +1,23 @@
 ---
 categories:
 - writting
-date: '2017-10-24'
-link: https://www.imdb.com/title/tt7169096
+date: '2012-07-27'
+link: https://www.imdb.com/title/tt1437357
 tags:
-- cinemaqui
 - movies
-title: Favela Olímpica
+title: Fausto
 ---
 
-Favela Olímpica é um documentário feito sobre um evento específico que acaba colocando em debate todo um sistema injusto. Ele é o novo Cabra Marcado Pra Morrer ou o novo Aquarius? Quase. Ele tem muitos elementos desses dois filmes, especialmente o primeiro. E um dos elementos mais vitais para seu funcionamento é a impunidade tão gritante que ela se torna visível, palpável e até apontável.
+Novo filme de Aleksandr Sokurov, mestre em expor a alma humana de uma maneira não-convencional, vide [Mãe e Filho] ou [Moloch], Fausto transforma a lenda do homem e do romance homônimos em um apanhado dramático que, coeso em sua história principal, nunca nos revela o suficiente para se tornar a velha história clichê do homem que venda a alma ao diabo para obter conhecimento. Pelo contrário: ousado em sua estrutura, subverte a lenda e consegue transplantar sua visão de maneira igualmente satisfatória.
 
-O tema é propriedade. A propriedade, nos termos da Constituição Brasileira, é protegida. Porém, e aqui vamos para o principal "porém" de toda a Carta Magna, é dito que a propriedade deve cumprir a sua "função social". Você sabe o que é isso? Saberia definir exatamente quando uma propriedade cumpre e quando ela não cumpre a tal função social?
+Ao contar a história da controversa figura do cientista/místico misturando aspectos históricos, teatrais e literários, o roteiro de Sokurov e Marina Koreneva (Moloch) consegue atrelar diferentes dimensões ao seu drama, ao mesmo tempo que já o transforma em um ser multifacetado e desiludido de todos os lados. A fotografia fria, apesar de belíssima, evoca esse clima triste e depressivo, ao mesmo tempo que só é iluminado pela visão de sua amada Margarete (Isolda Dychauk, e que participa de uma sequência irretocável de troca de olhares).
 
-Pois é. Ninguém consegue. Ou melhor dizendo: consegue de acordo com seu ponto de vista. E no caso da Prefeitura do Rio de Janeiro, a função social da Vila Autódromo é menor que a função social da Vila Olímpica, que começa a ser construída do seu lado, e cujos acessos passam necessariamente pela comunidade presente ali há décadas. E com a devida posse das propriedades registrada desde 1998, dado o direito de uso dos terrenos por 99 anos.
+Dá asas à imaginação da lenda original e discute de uma maneira particularmente folclórica a essência do dilema de Fausto e, por tabela, do próprio homem, criando inclusive distorções na imagem em vários momentos da história, Fausto revela muito mais em seus enquadramentos, muitas vezes díspares na mesma cena, mas que em conjunto exaltam o caráter eterno da função do demônio na Terra. Vemos pobreza e fome (guerra) em todo o lugar. Fazer-nos acreditar que viver é pior do que estar morto consegue justificar a atitude do protagonista.
 
-Só que nada disso importa quando as obras começam. Liderada por grandes empreiteiras, logo fica claro o real motivo da desapropriação/compra dos terrenos dos seus legítimos moradores: um condomínio de luxo, do lado da lagoa, com um enorme espaço verde que será a Vila Autódromo. Assim que os funcionários do governo e sua força policial conseguir enxotar todos de lá.
+Porém, toda a complexidade na figura de Fausto/homem não teria valor se não fosse a inspiradíssima participação de Anton Adasinsky como o agiota demoníaco, que engrandece toda cena em que está presente, com seus gestos, resmungos e diálogos inspiradores para quem, condenado eternamente à solidão, aguarda tão ansioso quanto os humanos pelo juízo final.
 
-O trabalho do documentarista Samuel Chalard é de vital importância, para que as informações não pareçam parciais ou incompletas. E a "Favela Olímpica" brilha nesse quesito, conquistando várias medalhas. Logo no começo nos acostumamos a ver infográficos e notícias "pixados" nos muros da comunidade, uma forma de usar o próprio mecanismo de protesto dos moradores, que pixam durante todos os anos de construção para o evento, diferentes formas de chamar a atenção para o desmantelamento de uma vila até então pacífica.
+Ciente de que ações conseguem ser mais efusivas que os inspirados diálogos entre os dois, o ato de beijar na boca as figuras de pedra de Jesus e Maria, além de repugnante e hipnotizante, consegue revelar de uma maneira absurdamente econômica o papel do agiota na trama como um todo. São com esses detalhes tão pequenos ("ai, minhas asas!") quanto grandiosos - como as sequências que poderiam ser emolduradas e postas na parede - que o filme recria um universo tão ou mais depressivo e bestial do que o romance máximo de Goethe poderia sugerir em suas páginas.
 
-O primeiro gráfico mostra a irrelevância do espaço ocupado pela vila de moradores comparado com o espaço destinado à construção da vila olímpica. No decorrer dos anos e fases do projeto, a negociação feita com os moradores para deixar suas casas em troca de apartamentos e compensação financeira aos poucos se torna o que no fundo sempre é o final de qualquer lei vaga ou injusta (como a tal "função social" da propriedade): conflito entre as forças armadas do Estado e a população, vulnerável e desamparada.
-
-O filme acompanha também os testemunhos de diferentes moradores e seus diferentes destinos. É curioso acompanhar a mudança gradativa da opinião de cada um no decorrer dos anos, seja dos moradores ou do prefeito da cidade. Enquanto o prefeito vai se tornando mais hipócrita e com discursos mais abstratos, os moradores precisam racionalizar suas decisões, desde as mais corajosas às mais conformistas, já que eles não possuem a força das armas para fazer valer a sua opinião (como a tropa de choque carioca).
-
-Dotado de uma trilha sonora apavorante, pois usa o estilo brasileiro de música com notas dissonantes, revelando o descompasso entre a teoria e a prática de uma nação, Favela Olímpica é um trabalho robusto, completo e ritmado. Os anos que passam são sentidos pelo espectador conforme o cerco entre os moradores se aperta, casas começam a sumir, tratores começam a operar. De uma maneira torta, este é um filme que aponta na cara do brasileiro o que é essa brasilidade do comodismo, do egoísmo e da malandragem. E aponta também como as coisas poderiam ser diferentes se as vozes íntegras e honestas fossem ouvidas no lugar do som do dinheiro.
+[Moloch]: {{< relref "moloch" >}}
+[Mãe e Filho]: {{< relref "mae-e-filho" >}}
 

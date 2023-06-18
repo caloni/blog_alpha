@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2015-09-13'
+date: '2017-06-07'
 tags:
 - beer
-title: Colorado Café
+title: Colorado Appia
 ---
 
-Equilibrando doce e amargo, um pouco aguada (sem lúpulo), e talvez lembre café.
+Ele tem um doce sutil, assim como amargo; lembrar de tomar por inteiro, como Weiss. Em casa, não lembro o que comia. Uma nuvem de bitter e frescor que se aproxima da mescla entre uma Pilsen e algo a mais que ela e a Serra Malte possuem.
 

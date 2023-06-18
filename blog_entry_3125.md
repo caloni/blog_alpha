@@ -1,89 +1,25 @@
 ---
-categories:
-- coding
-date: '2010-04-21'
+categories: []
+date: '2017-02-01'
 tags: null
-title: Por que Long Pointer
+title: Por onde você acessa este blogue?
 ---
 
-Esse artigo continua a explicação sobre [os typedefs arcaicos](http://www.caloni.com.br/typedef-arcaico), já que ainda falta explicar por que diabos os ponteiros da Microsoft começam com LP. Tentei explicar para [minha pupila](http://www.caloni.com.br/basico-do-basico-ponteiros) que, por ser código dos anos 80, as pessoas usavam LP para tudo, pois os CDs ainda não estavam tão difundidos.
+Sério, esta é uma pergunta relevante neste momento. Ao menos para mim. Estou cansado de tentar manter duas áreas distintas do conhecimento, que venho arquivando por anos, e estou pensando em publicar sobre absolutamente qualquer coisa relacionada com meu dia-a-dia por aqui, o que irá envolver necessariamente assuntos que não girem em torno de programação e nem em C++.
 
-    
-    /** @brief Para instanciar um Bozo. @date 1982-02-21 */ 
-    typedef struct _BOZO { 
-       char helloMsg[100]; /* definir para "alô, criançada, o bozo chegou..." */ 
-       float currentTime; /* definir para 5e60 */ 
-    }
-     BOZO, *LPBOZO;
+(Claro que assuntos onde fui longe demais, como Cinema, já possuem seu cantinho para os aficionados. Isso já está em seu branch apartado.)
 
-    
-    /** @brief Para instanciar um Pokemon. @date 1996-03-01 */ 
-    typedef struct _PIKACHU 
-    { 
-     char helloMsg[100]; // setar para "pika, pika pikachuuuuuuu..." 
-     int pokemonID; // setar para 24 
-    }
-    PIKACHU, *CDPIKACHU;
+O que me tem feito evitar a expansão de assuntos em meu blogue pessoal são dois problemas que talvez nem existam. O primeiro é a minha tentativa de ser fidedigno ao teor do conteúdo no blogue desde seu início: C++, Windows programming e derivados. De vez em quando há alguns devaneios, mas a intenção sempre tentou girar em torno disso.
 
-Não colou. Então vou tentar explicar do jeito certo.
+Porém, talvez os tempos tenham mudado, e agora estando em uma empresa onde o conhecimento se torna muito elástico, e onde não existe apenas uma linguagem nem uma tecnologia, seja necessário abrir mais o leque de possibilidades, o que pode eventualmente parecer ruído para alguns que acompanham o canal há anos e que esperam ver aqui nada mais do que sempre foi discutido, mas que tem o potencial de tentar atingir mais pessoas de outras áreas que possam se beneficiar de C++, mesmo programando principalmente em outras linguagens.
 
-Antigamente, as pessoas mandavam cartas umas para as outras. Carta, para você, caro leitor de quinze anos, era um e-mail implementado em hardware.
+Até empresas mais lentas em se adaptar a mudanças como a Microsof estão reavaliando suas estruturas, abrindo caminhos para a comunidade de código-livre e também recategorizando as áreas onde atuam os MVPs. Esse negócio de alguém ser especialista em Visual C++ cai por terra em tempos onde o Visual Studio virou uma IDE que está suportando não apenas diferentes linguagens ao mesmo tempo (como Python), mas também diferentes sets de compilação, como o clang.
 
-Para mandar um e-mail, usamos o nome da pessoa e o domínio em que seu e-mail é endereçado, ex: nome-da-pessoa@dominio.com.br. Para mandar uma carta usamos duas informações básicas: o nome da rua e o número da casa.
+O segundo problema é um pouco mais sensível: informação. Nem sempre meu trabalho gira em torno de conhecimento comum e projetos abertos ao público. Isso exige que determinados tipos de conhecimento fiquem para sempre engavetados em arquivos que só eu, minha equipe e meu cliente terão acesso. Porém, se devidamente formatado, qualquer conhecimento pode ser divulgado e ainda ser útil para projetos e pessoas que estão totalmente não-relacionados com o assunto em questão. Esse mês, por exemplo, fiz um artigo de um assunto tratado há mais de um ano. E, mesmo assim, utilizei apenas conhecimento comum, um projeto open source que já é aberto antes mesmo de cogitarmos usá-lo, e um nível de generalização que pode servir para praticamente qualquer um trabalhando com I/O no Windows, mesmo em kernel mode.
 
-{{< image src="endereco-da-carta.png" caption="Endereço de uma carta" >}}
+Por isso pensei em publicar mais coisas em sua devida formatação, porque isso me possibilita também pesquisar de maneira mais fácil pelos diferentes problemas e soluções que encontrei ao longo dos projetos. E por isso estou perguntando de onde vem meus leitores. Se eles leem, como bons dinossauros, o feed de notícias que ainda mantenho, ainda que escondido, disponível para ferramentas como o Feedly (o sucesso do Google Reader, para quem é da velha guarda), eles terão que eventualmente aguentar a torrente de spams até que venha um assunto de seu interesse. No entanto, sempre foi assim, não? Eu duvido que exista algum leitor deste site que utilizou os conhecimentos de todos ou a maioria dos artigos. O que é mais provável é que os artigos sirvam principalmente como curiosidades e forma de expandir a noção de que existem outros mundos na programação.
 
-Consequentemente enviamos dois comandos ao carteiro: meu amigo, vá para a rua tal. Chegando lá, encontre o número 1065.
+No entanto, se os leitores estão vindo pelas redes sociais, como o twitter da BitForge ou o seu facebook, então não há problema algum, pois pretendo compartilhar novos posts apenas quando o teor da discussão tem relação direta com os princípios da empresa. Quando é apenas minha opinião pessoal ou minhas fuçadas paralelas, fica apenas no âmbito do abrir o navegador e digitar: w, w, w, c, a, l, o, n, i...
 
-Considere que estamos falando do mesmo bairro ou cidade, o que na minha analogia seria um computador e sua memória. Para enviar cartas para outros bairros em outras cidades (outros computadores em outras redes) teríamos que informar também outros dados, como nome da cidade e CEP.
-
-{{< image src="getting-right-on-street.png" caption="Encontrando o caminho" >}}
-
-Nesse exemplo também podemos usar o Juquinha do bairro para entregar a carta e economizarmos 10 centavos.
-
-Agora, repare que interessante: em uma rua, cabem no máximo N casas. Se você tentar construir mais casas vai acabar invadindo o espaço de outra rua.
-
-E, já que estamos falando do endereço do destinatário, já podemos relevar que esse endereço constitui um ponteiro em nossa analogia. Se você está usando dois dados para informar o endereço, então estamos falando de um ponteiro longo, long pointer, ou LP!
-
-{{< image src="relacao-endereco-carta-segmento-offset.png" caption="Relação Segmento x Offset com Rua x Número" >}}
-
-#### Long Pointers
-
-Na terminologia Intel para as plataformas 16 bits, a memória do computador era acessível através de segmentos (ruas) e offsets (números), que eram pedaços da memória onde cabiam no máximo N bytes. Para conseguir mais bytes é necessário alocar memória em outro segmento (outra rua).
-
-Os ponteiros que conseguiam fazer isso eram chamados de long pointers, pois podiam alcançar uma memória mais "longa". Os ponteiros que apenas endereçavam o offset (número) eram chamados, em detrimento, short pointers, pois podiam apenas apontar para a memória do seu segmento (rua).
-
-Ora, se seu destinatário está na mesma rua que você, tudo que você tem a dizer ao Juquinha é: "Juquinha, seu moleque, entrega essa carta no número 1065, e vai rápido!". Nesse caso você está usando um short pointer.
-
-Porém, no exemplo que demos, o destinatário está em outra rua. Se o Juquinha entregar a carta no número 1065, mas na rua errada, estará errando o destinatário. Por isso é que você deve usar um long pointer e falar para o Juquinha do segmento!
-
-{{< image src="getting-lost-on-streets.png" caption="Se perdendo nas ruas" >}}
-
-"Juquinha, seu moleque safado, entrega essa carta no Segmento 0xAC89, Offset 0x496E. E vê se anda logo!"
-
-Essa frase era muito usada nos anos 80, com seus 16 bits e tudo mais.
-
-#### Voltando ao Windows
-
-Com toda essa analogia, fica fácil perceber que o Windows não cabe em uma rua só. Seus aplicativos precisam de muitas ruas para rodar. Isso exige que todos seus ponteiros sejam long, pois do contrário o Juquinha estará entregando as cartas sempre nos endereços errados. Dessa forma, foi estipulado o typedef arcaico padrão para todos os tipos da API que usasse LP (Long Pointer) como prefixo:
-
-    
-    typedef unsigned long WORD, *LPDWORD;
-    typedef const char* LPCSTR;
-    typedef <coloque-seu-tipo-aqui> APELIDO, *LPAPELIDO;
-
-E é por isso que, historicamente, todos os ponteiros para os apelidos da API Win32 possuem sua contraparte LP.
-
-Com a era 32 bits (e mais atualmente 64 bits) os endereços passaram a ser flat, ou seja, apontam para qualquer lugar na memória. Se eu quisesse continuar minha analogia falaria que é o equivalente a uma coordenada GPS, também muito na moda, e que pode apontar para qualquer lugar do planeta. Eu, por exemplo, já trabalhei <del>trabalho</del> perto das coordenadas [-23.563596,-46.653885](http://maps.google.com.br/maps?f=q&source=s_q&hl=pt-BR&geocode=&q=av.+paulista,+sao+paulo&ie=UTF8&hq=&hnear=Av.+Paulista+-+S%C3%A3o+Paulo&z=15), o que eu costumo dizer que fica bem próximo do Paraíso =).
-
-#### Largando velhos hábitos
-
-De uns anos pra cá, existem novos typedefs nos headers que permitem o uso dos apelidos Win32 apenas com um P inicial.
-
-    
-    typedef unsigned long WORD, *LPDWORD, *PDWORD;
-    typedef const char *LPCSTR, *PCSTR;
-    typedef <coloque-seu-tipo-aqui> APELIDO, *LPAPELIDO, *PAPELIDO;
-
-A escolha é livre. Assim como com o typedef arcaico.
+Comecei essa discussão comigo mesmo, e agora não sei se terei respostas por aqui. Talvez sim, talvez não. De qualquer forma, acho que já tomei minha decisão. Bem-vindos ao meu blogue pessoal em seu sentido mais primordial: um blogue de uma pessoa só e com ideias infinitas.
 

@@ -1,117 +1,22 @@
 ---
 categories:
-- coding
-date: '2014-06-03'
-tags: null
-title: SS
+- writting
+date: '2016-02-29'
+link: https://www.imdb.com/title/tt1895587
+tags:
+- movies
+title: 'Spotlight: Segredos Revelados'
 ---
 
-Uma das coisas mais cretinas e difíceis para os iniciantes em C++ é conseguir formatar strings de maneira fácil, rápida e indolor. Infelizmente, a biblioteca de printf da linguagem C está fechada para reforma, pois ela é extremamente error-prone e não-intuitiva. Porém, se a printf é não-intuitiva, o que dizer < < daqueles << sinais << de << flechinhas apontando para cout? Bem melhor, não?
+Esse é um filme que foca obcecadamente em seus fatos. A ponto de sacrificar seus personagens. E tudo bem. O material de Spotlight é bom o suficiente para funcionar sem qualquer personagem de destaque, muito embora Mark Ruffalo quase consiga algo interessante.
 
-```
-#include <iostream>
+Conta a história da investigação de um jornal local de Boston quando um caso antigo de padres molestadores de crianças é desengavetado pelo recém-chegado editor, o ponderado Marty Baron (Liev Schreiber). Usando para isso uma equipe independente que trabalha em uma sala à parte usando métodos à parte, o chefe do departamento Spotlight, Walter 'Robby' Robinson (Michael Keaton), aciona sua dinâmica equipe à caça desses acontecimentos, descobrindo no processo um sistema mantido sob a luz da autoridade da igreja e os olhos e bocas fechadas de sua comunidade.
 
-int main()
-{
-    int x = 0x00000001;
-    int y = 4;
-    int z = x << y; // isso desloca 4 bits para a "esquerda"
-    std::cout << z // WHAT??
-        << "\nestranho..." << std::endl; // WHAT^^2!?!?!?!??!?!
-}
+Todo filme que desafie as pessoas a repensar a questão da autoridade, e de como ela polui nossas mentes, impedindo-nos de pensar por nós mesmos, é válido. E essa história talvez seja uma das mais tenebrosas que diz respeito às consequências desastrosas da religião -- no caso, da católica cristã -- sobre seus fiéis, jovens ou não. Ela parece tomar lados, mas apenas do lado mais fraco, sendo que até os padres parecem ser vítimas de uma seita desumana e doentia. Ao tornar os padres celibatários e mantê-los como mensageiros de Deus em suas comunidades, o poder de destruição psicológica perante crianças que não conseguem sequer ajuda de seus pais é imenso.
 
-```
+E o filme vai desvendando cada detalhe desse intricado sistema, que pretende antes de tudo proteger a imagem da igreja e evitar mais escândalos, utilizando jornalistas que, como a grande maioria, também foi criada sob a mesma fé. Uma das jornalistas frequentava até há pouco as missas dominicais com sua avó. Um outro nutria um desejo íntimo e inconsciente de, apesar de não praticar mais, pertencer ao mesmo grupo religioso de criança. O objetivo é claro: não separar a opinião do espectador crente do que foi descoberto, mas tentar fazê-lo enxergar o horror das descobertas dessa equipe através do mesmo ponto de vista. E com isso, adquirir o apoio de sua audiência.
 
-{{< image src="tnVztzy.png" caption="ShiftEstranho" >}}
+É possível sentir a pressão de todos os lados contra o uso da imprensa para "difamar" a comunidade, sendo que difamar no caso é apenas dizer a verdade. Advogados, sacerdotes e a própria imprensa foram colocadas no bolso por décadas. Spotlight consegue fazer tudo isso apenas com o dom do diálogo e muita pouca interpretação. Não há nada de brilhante nisso, exceto pelo seu modus operandi: parece quase que invisível enxergar algum drama nessa história.
 
-A resposta é, pra variar, depende. Se você combinar com seu cérebro que o operador de shift que você aprendeu em C para cout não tem a mesma semântica, OK. No fundo eu acredito que os criadores dessa sobrecarga de operador pensaram sinceramente que hoje em dia quase ninguém conhece os operadores de shift binário, então tudo bem reaproveitá-lo de uma maneira mais miguxa.
-
-Porém, isso depende da maneira com que você usa streams C++. Vai haver momentos de sua vida que você vai se questionar por que tiraram todo o controle, a elegância e simplicidade de um bom printf, quando os [homens eram homens](http://www.caloni.com.br/programadores-de-verdade-nao-usam-java) e sabiam configurar jumpers para instalar a nova placa EISA.
-
-```
-#include <iostream>
-#include <stdlib.h>
-
-int main()
-{
-    int x = 0x00AB3451;
-    printf("int x = 0x%08X;\n", x); // nao eh tao legivel, mas da conta do recado
-    std::cout << "int x = 0x" << std::hex << x << ";" << std::endl; // pois eh, parece que melhoramos mesmo com streams...
-}
-
-```
-
-{{< image src="7hFREwa.png" caption="Formatação Difícil do Cout" >}}
-
-## A coisa mais fácil do jeito mais difícil
-
-A questão dos streams fica mais complicada quando precisamos realizar atividades corriqueiras no código, como retornar uma string formatada, ou até mesmo transformar um inteiro em string.
-
-```
-#include <iostream>
-#include <string>
-#include <sstream> // digam oi para nosso novo amiguinho!
-
-std::string FuncaoCorriqueira(int x, int y)
-{
-    std::ostringstream ss; // credo, que tipo eh esse?
-    ss << (x + y);
-    return ss.str();
-}
-
-int main()
-{
-    std::cout << FuncaoCorriqueira(20, 42);
-}
-
-```
-
-Já pensou termos que criar uma função dessas sempre que quisermos converter números em string? Ou pior, ter que fazer o que fizemos dentro dessa função: declarar um ostringstream (um cout com buffer interno de string), usá-lo como cout e obter seu buffer interno através do método str. Tudo isso para converter um número para string.
-
-Quando uma tarefa muito comum exige mais de dois passos para ser realizada é de bom tom criarmos algum código reutilizável, certo? Um código que trará de uma vez por todas a solução final!
-
-## SS
-
-```
-#include <sstream>
-
-struct ss
-{
-    template<typename T>
-    ss& operator << (const T& t)
-    {
-        _ss << t; 
-        return *this;
-    }
-    
-    operator std::string ()
-    { 
-        return _ss.str();
-    }
-
-    std::ostringstream _ss;
-};
-
-```
-
-O código acima serve bem ao nosso propósito de formatar strings em uma linha como um cout, mas retornar uma string no lugar. Ele é simples, ele é direto, ele tem defeitos que não vem ao caso (como não suportar endl), mas pode ser usado de maneira... simples e direta!
-
-```
-#include "ss.h"
-#include <iostream>
-
-int main()
-{
-    for( int i = 0; i < 5; ++i )
-    {
-        std::string s = ss() << "Teste numero " << i;
-        std::cout << s << std::endl;
-    }
-}
-
-```
-
-OK, o código de exemplo foi idiota, mas você pegou a ideia. Tudo que precisamos fazer para reutilizar essa pequena classe é definí-la (ss() resolve) e usá-la. Seu conversor de string retorna o buffer interno de ostringstream para nós como num passe de mágica.
-
-_Obs.: Com certeza deve existir uma centena de bibliotecas que implementam algo do gênero, só que melhor. Essa é a típica fica isolante para continuar trabalhando._
+É um filme que visualmente não apresenta quase nada, mas que no campo das ideias, é interessante do começo ao fim.
 

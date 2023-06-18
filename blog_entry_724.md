@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2019-04-24'
-link: https://www.imdb.com/title/tt7718088
+date: '2013-12-13'
+link: https://www.imdb.com/title/tt0397892
 tags:
-- series
-title: Bonding
+- movies
+title: 'Bolt: Supercão'
 ---
 
-Bonding, ou Amizade Dolorida (como está na Netflix Brasil), é uma série curtinha, que quase pode ser um filme, se tivesse a ousadia de implementar um closure no final de sua temporada. Mas não importa: é um conteúdo solto. Livre, leve e solto. Ele trata de traumas de adolescência, sexo e fetichismo de maneira a abraçar o mundo. E é um abraço gostoso e engraçado.
+O grande trunfo de "Bolt" em sua narrativa é primeiro nos brindar com cenas megalomaníacas de ação (ecos de Os Incríveis) e nos fazer acreditar que Bolt, que faz rima não-ocasional com "bold", ou seja, "corajoso, valente", de fato possui todos esses poderes. Mesmo assistindo pela segunda vez o truque permanece pela eficiência dos cortes e enquadramentos, que conseguem inclusive nos enganar a ponto de não pensarmos como eles podem cruzar uma cidade inteira se tudo termina dentro de um estúdio.
 
-É mais ou menos essa a impressão dessa série que possui um elenco afiado para sua história, que envolve a amizade entre um gay/bi e uma garota atormentada pelos rapazes do colégio. Eles "cresceram" e resolveram seus problemas desenvolvendo diferentes fetiches sexuais. Ela é uma dominatrix, e trabalha com isso. Ele é um fudido, e trabalha para ela como assistente. E tem fetiches por pés.
+É uma grande ajuda também a qualidade técnica da animação, que usando movimentos precisos tanto nas cenas de ação quanto nas mais paradas, consegue combinar a limpidez da fotografia com a qualidade do seu ritmo. A trilha sonora sempre empolgante e uma música-tema inspirada tornam a experiência ainda mais redonda.
 
-Os personagens que vão se acumulando nos curtos episódios são assim como eles engraçados e espirituosos. Não é que o roteirista escreveu frases de efeito para todos eles e foi distribuindo. As piadas funcionam do ponto de vista de cada um deles. Este é um trabalho acima da média da Netflix, pois vitimiza pouco os bizarros que tenta homenagear/prencher cota, preferindo dessa vez comemorar as diferenças.
+Por fim, a introdução frenética dá lugar a um cãozinho abandonado que terá que se virar com a realidade para cruzar o país inteiro em busca de "sua humana", o que cria um road-movie instantâneo e forçado. Uma falha inocente, que junto com outras vão diminuindo a experiência, que não parece ter estrutura o suficiente para aguentar tanta história e personagens, ainda mais se lembrarmos que alguns deles se inspiram claramente em sucessos anteriores (Os Sem-Floresta) e da existência de um "vilão" extremamente limitado de tão bobo.
 
-E nesse sentido temos um movimento semelhante à série Community, quando os nerds foram homenageados como deveriam, difernete da série comunzinha The Big Bang Theory. Quer dizer, é este movimento, mas para variantes sexuais. Os especialistas da área da saúde talvez pirem, mas bem feito para eles, que dependem que as diferenças comportamentais dos mortais existam e sejam tratadas como doença.
+O que "Bolt" procura todo o tempo e na maioria das vezes consegue é comparar nossa imaginação com a dura realidade, quase que brincando com a própria experiência cinematográfica em que toda peripécia arriscada sempre dá certo. Tenta também emocionar em vários momentos, mas acaba o fazendo de fato pelo arco que a história proporciona. Um lindo exemplo de como inspirar crianças (e adultos) sem apelar para a velha farofa melodramática.
 

@@ -1,20 +1,19 @@
 ---
 categories:
 - writting
-date: '2019-01-28'
-link: https://www.imdb.com/title/tt0069824
+date: '2016-11-02'
+link: https://www.imdb.com/title/tt5104002
 tags:
+- mostra
 - movies
-title: Irmão Sol, Irmã Lua
+title: Irmandade
 ---
 
-Este filme é uma descrição sincera e pura da epifania que São Francisco de Assis teve no momento-chave de sua vida. Mas se acompanharmos a história em todos os seus detalhes, você também poderá concluir que quando um maluco aleatório surgia nos tempos antigos alguns acreditavam ser um sábio, e a roda da história não consegue desprovar o que é provado por revelação. Então temos o seguinte dilema que Franco Zeffirelli nos entrega aqui: seria Francisco o cristão mais lúcido que já pisou nesta terra (com os pés descalços) ou o maluco mais bem-intencionado que já se teve notícia?
+O longa caótico e desconexo de Pepe Diokno é justamente e apenas isso: caótico e desconexo. Desconexo não apenas no sentido narrativo, mas de conexão com o espectador. Como é impossível para nós nos conectarmos àquela realidade de Manila, devidamente manipulada em uma mistura de ficção e realidade, não é possível sequer sabermos qual a linha de raciocínio de um criador petulante que não consegue unir tomadas desconexas com significado ou empatia.
 
-A produção é feita com atores simples, que atuam o mínimo necessário para a história seguir. Zeffirelli usa muito a aproximação nos atores com zoom, o que torna os atores um pouco melhores do que são. Mas Graham Faulkner como Francisco é uma revelação. Ele traz o elemento de perturbação de uma sociedade que já se havia entregue ao poder e ao dinheiro há muito tempo. No centro dessa perdição, jogando o bezerro de ouro no chão, ele se despe e assim despe a todos seus críticos.
+Dessa forma, as criaturas filipinas que observamos são nojentas, medíocres, maliciosas, ignorantes, maldosas e cruéis. Não há qualquer adjetivo que nos permita seguir em frente na identificação de protagonismo. Até Scarface tinha suas qualidades, mas aqui sequer sentimos a dor do próximo. Pior: fingindo um documentário, o resultado é ainda mais falso, pois muitas sequências são obviamente teatrais, e outras despertam a curiosidade apenas em detectar se é real ou não, mas ainda assim, sem significado.
 
-O que torna esse filme tão poderoso é sua mensagem simples e direta: seja como Jesus. Abandone suas riquezas, pois elas não entrarão no reino dos céus. Busque ajudar ao próximo e viver no minimalismo. Muitos encontram essa mesma resposta hoje em dia, em pleno ápice da riqueza humana graças ao capitalismo. Francisco já tinha encontrado isso 800 anos atrás, onde a miséria imperava e ele dizia a todos: jogue mais coisas foras. Apenas o pão necessário nos basta.
+A qualidade em estruturar começo e fim, com um vídeo do YouTube a respeito da irmandade de estudantes de direito, e o título em letras garrafais seguidas pelo seu idealizador, sugere um egocentrismo seguido de megalomania que flerta com Amos Gitai, o diretor-sionista homenageado por vitimizar uma raça. No caso das Filipinas, possivelmente a pior nação oriental que se tem notícia, que comprova que, mesmo com todas as virtudes orientais de funcionamento coletivo, a religião baseada em sacrifício transforma tudo em pó e em desgraça. Uma desgraça que é celebrada aqui.
 
-Seu pai era um próspero fabricante de tecidos. Explorando duzentas pessoas que não viam a luz do sol, quando Francisco se livra de todo seu estoque e de sua própria roupa, vindo a vestir um saco rústico costurado como roupa, é de uma transformação tão poderosa que não há como não se encantar com tamanho idealismo. E isso em pleno inverno. Seus antigos amigos vão sendo convertidos um a um, porque aos poucos eles entendem que se realmente são cristãos a voz da razão está com Francisco. E isso muda toda a história.
-
-Um exemplo de como o mundo pode ser transformado quando uma pessoa decide não se colocar contra todo mundo, mas viver a sua Verdade.
+Roteirizado por três indivíduos, é difícil saber como é necessário três pessoas para esboçar esse fiapo de história. Há algo tão errado nas Filipinas, que talvez até seus idealizadores tenham sido atingidos pelo suposto câncer que submete essa sociedade cada vez mais em direção à desgraça moral.
 

@@ -1,20 +1,24 @@
 ---
 
-Easy é uma série muito interessante da Netflix. Ela explora os relacionamentos mostrando como eles, na verdade, são bem mais simples do que a esmagadora maioria das pessoas pensa que é. Todo o drama, as complicações, a falta de comunicação é traduzida em uma linguagem simples, de São Francisco, que envolve diferentes tipos de casais (ou outros) em diferentes tipos de situações. Seus pontos em comum? Tentar complicar o que é muito, muito simples.
+Mexendo em um projeto legado encontro encontro [esta pérola](https://youtu.be/YYnARNh-Z0s). Será que ainda fazem essas coisas hoje em dia?
 
-A série dirigida e escrita por Joe Swanberg (que também faz parte da edição) mantém um formato interessante, que não se rende ao cômico demais, nem ao dramático demais. É naturalista em explorar uma mini-história em um micro-cosmos de meia-hora. Se sai maravilhosamente bem. Uma outra série feita na mesma época, Midnight Diner: Tokyo Stories, parece ser seu "primo gêmeo" (só diferenciando pelo foco nas histórias, sua resolução, e o abismo cultural entre o Japão e a Califórnia.
+Eu sabia que existia um neste programa porque o código deste aplicativo foi 100% feito por mim, desde o começo até passar das dez mil linhas de código. No entanto, eu me lembro que a primeira versão deste cheat era no formato de créditos de filme, com os nomes da equipe descendo. Isso estamos falando de 20 anos atrás. Não me lembrava que ele foi readaptado para nossa minúscula equipe nessa fase do projeto, o que me gerou um saudosismo gostoso ao ver esta imagem.
 
-Não há atuações de destaque, mas há personagem carismáticos. E para isso o elenco dá conta perfeitamente. A série apela para a vanguarda artística de esquerda, mas nem por isso se torna politicamente correta no nível insuportável. É algo muito menos apelativo que isso.
+Lá estava Taz, o nosso membro mais antigo, que começou como beta tester e continua sendo por todos esses anos a única pessoa com quem já trabalhei que consegue testar um software de verdade, de cabo a rabo. E se ele mesmo estivesse desenvolvendo a primeira versão esta já teria qualidade suficiente para entregar ao cliente. Claro que isso envolveria muitas e muitas horas além do orçamento para discutir e testar a solução. Mas, dane-se, quando você gosta do que faz todo o tempo gasto se torna prazeroso. As noites no escritório que passamos polindo uma última vez uma ferramenta que encapsulava uma chave criptográfica no resource do arquivo são memórias impagáveis da época.
 
-Tome o episódio da vegana (o segundo), por exemplo. Ele trata da dieta da namorada de uma pessoa completamente diferente em costumes de uma maneira como se fosse um detalhe a influenciar o relacionamento entre elas, e não uma ode ao veganismo. Da mesma forma o próximo episódio destila o veneno em cima de esposas grávidas chatas, mas entende as complicações da vida real, sem tentar minimizá-las. A série só quer explicar como as coisas podem ser mais simples do que parecem em um diálogo simples, direto e charmoso (a trilha sonora é particularmente fraca, mas agradável).
+Também na "foto" estava Rosamaria, a membro mais recente e que aprendeu sobre C++ e baixarias no Windows de sopetão. Para quem nem desconfiava que estaria entrando na área eu me lembro que ela se saiu super bem. O ponto alto para mim sempre será quando ela fez a engenharia reversa de um thin client descobrindo como fazer o inventário da solução e adaptando o código e suas sei lá quantas linhas e módulos distintos, para funcionar com a versão mais enxuta e cheia de idiossincrasias do Windows CE. Desnecessário dizer, Rosamaria é uma programadora de verdade.
 
-E com esse objetivo, é uma ótima pedida.
+E no meio, estava eu, no papel do que hoje seria tipo um tech lead, mas sem a menor vocação ou maturidade para tal. Não me lembro de mim mesmo nessa época como um bom profissional. Mas também não sei se faria diferente. Eu nem sei bem como faria. As memórias de experiências recentes com SCRUM e reflexões em retrospecto estão me levando a crer que nessa área ou você quer muito fazer as coisas funcionar e irá desenvolver as habilidades para tal com muito suor e lágrimas, ou você será um estorvo, ou em outras palavras: o motivo pelo qual essas metodologias são criadas em primeiro lugar. É a analogia do Joel e a maravilhosa história d[o chefe de cozinha que virou administrador de fast food] ou algo assim. Pesquise para você ler no Joel on Software, caro leitor.
+
+Pois é, esse Easter Egg é muito mais que um desenho simpático e as memórias que chegam. É um convite de reflexão sobre a vida de computeiro e como ela passa por seus ciclos. Será que ainda fazem Easter Eggs nos escritórios ou nos home-offices, ou as pessoas simplesmente trabalham?
+
+[o chefe de cozinha que virou administrador de fast food]: https://www.joelonsoftware.com/2006/04/11/the-development-abstraction-layer-2/
 
 ---
 categories:
 - writting
-date: '2020-06-01'
-link: https://www.imdb.com/title/tt0064276
+date: '2016-10-23'
+link: https://www.imdb.com/title/tt5562056
 tags:
-- movies
-title: Easy Rider
+- series
+title: Easy

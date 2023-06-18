@@ -1,47 +1,70 @@
 ---
 categories:
 - coding
-date: '2020-05-10'
-tags: []
-title: O Bug Mais Bizarro que já Resolvi
+date: '2009-08-18'
+tags: null
+title: 'O boot no Windows: sem Windows'
 ---
 
-Máquina IBM velha e empoeirada. Criptografia blowfish. Assembly 16 bits. Programa residente. E nenhum depurador funcionando. Tudo o que eu tinha se resumia em dois itens de inventário: o conhecimento, adquirido aos poucos do sistema, e minha imaginação. Era uma amena semana de abril em 2008 isolado em uma sala. Tudo que havia em volta eram papéis com anotações feitas. Observava uma nova pista todo dia, embora sem ter muita certeza. Àquela altura qualquer coisa serviria.
+Desde quando o usuário liga o computador até o momento em que ele vê a barra de tarefas e aqueles fundos lindos de papel de parede existem diversas coisas sendo feitas por debaixo do pano. Essa série de artigos irá explicar essas diversas coisas, ou seja, como funciona e quais as fases do boot de uma máquina que possui Windows instalado (plataforma NT).
 
-Do outro lado da sala, uma estagiária recém-chegada na empresa observava de longe, talvez com uma certa curiosidade, ou medo, daquele rapaz ligar e desligar um desktop empoeirado enquanto a cada aperto do botão de ligar ele olhava fixamente para a tela por uma ou às vezes duas horas seguidas. Ficava a manhã inteira observando um único boot em câmera lenta. A câmera mais lenta possível, dessas que capturam o bater de asas de um beija-flor. Cada movimentação de um registrador demorava vários minutos de reflexão.
+O que esses artigos não vão fazer muito bem é explicar o lado do kernel mode funcionando, até porque temos artigos melhores explicando esse ponto de vista. Essa é uma abordagem mais "high level", apesar de "low enough". No entanto, espero que seja divertido. É esse o mais importante requisito em qualquer aprendizado, certo? Let's go!
 
-Toda essa odisseia começou com o cara do suporte, um sujeito bonachão que atraía os bugs mais bizarros para nossos sistemas só de olhar para eles. Não eram os piores bugs, mas com certeza os mais bizarros. E quando digo bizarro estou falando de bugs que não dá para imaginar acontecendo na vida real. Quando esse sujeito aparecia junto surgiam bugs na própria [Matrix]; um gato preto passa duas vezes seguidas pela porta, mas não caminhando: flutuando próximo do teto.
+Tudo começa no hardware, que recebe um lampejo de energia que o põe em funcionamento ("levanta-te e anda!"). Isso faz com que um pequeno pedaço de software comece a rodar. Esse pedaço inicial de código é chamado de firmware, que é um meio termo entre hardware e software.
 
-O sujeito chegou na sala de desenvolvimento falando dessa máquina que tinha acabado de chegar do cliente. Haviam instalado a criptografia de disco. Os dados não estavam perdidos, pois o Windows ainda mostrava o seu logo esvoaçante segundos depois de ligarmos o velho desktop de guerra, que já havia vivido pelo menos duas décadas a vida de escritório e não seria agora que deixaria seus dados sumirem sem mais nem menos. Nada disso. O problema era que se você desligasse e ligasse de novo, nada mais aparecia. Tela preta. Sem logo esvoaçante ou cursor piscando. O disco rígido não se mexia. Era um mistério completo.
+O firmware fica gravado na placa-mãe e normalmente nós ouvimos falar dele pelo nome de BIOS, Basic Input Output System (Sistema Básico de Entrada e Saída). É nele que estão gravadas as rotinas mais básicas para fazer o hardware mais básico funcionar: CPU, memória, vídeo e teclado.
 
-Mas o bizarro mesmo não era isso, mas o que vinha depois. Você desligava a pobre máquina, novamente. Apertava o botão de ligar. E como uma mulher nos seus trinta ainda não vividos, ela subia com tudo no lugar: logo do Windows, barulhinho irritante da sua tela de boas vindas e as agulhas do disco magnético piscando freneticamente. Tudo certo mais uma vez na terra do Tio Bill. Era possível logar na máquina e usá-la o resto do dia com todos os dados criptografados íntegros.
+Quando o computador é ligado, o código da BIOS realiza duas operações vitais antes de continuar:
 
-Agora, sim, o bug está completamente descrito: nos boots ímpares a máquina não bootava. Nos boots pares não havia nada de errado (ou vice-versa). Antes que você comece a confabular o que poderia ser, um cacoete que todos nós, programadores, costumamos ter, já aviso que nesse bug não há relação com energia ou memória RAM. Você podia desligar a máquina e tirar da tomada. Ir tomar um café. Uma hora depois coloca a tomada de novo e a liga. A bendita não funciona. Tire a tomada novamente. Mais um café. Desenergizada novamente, botão de ligar. E tudo estava certinho.
+  1. Ver se todos os componentes de hardware estão bem;
+  2. Ver quem é o dispositivo que inicia o sistema operacional.
 
-A criptografia desse sistema operava em dois níveis, necessários naquela época. O PC é uma monstruosidade construída em camadas legadas, uma em cima da outra. Abaixo de tudo existe a BIOS que controla todo mundo. Até um certo ponto, pelo menos. O que importa é que nesse primeiro momento do boot não existe sistema operacional. Não existe a querida proteção de memória que os SOs implementam (com a ajuda da arquitetura) para isolar os programas, onde qualquer violação de memória é tratada graciosamente com uma mensagem de erro. Não, mano. Aqui é o modo real. Fica esperto, que se um ponteiro ficar doido você vai levar tiro pra tudo quanto é lado. Ou como diria Morpheus: "Welcome... to the desert... of the real."
+Esse segundo item é o que veremos agora.
 
-Nesse ambiente pesadão e promíscuo, onde as memórias se encostam e trocam de valores sem qualquer pudor, programas residentes se mantém em memória através do famigerado hook de interrupções. Interrupções é como chamamos as funções originais escritas e armazenadas na BIOS. Ponteiros de funções com código carregado da sua memória. Fazer um hook de uma interrupção é se colocar na frente de uma função dessas, trocando o ponteiro de função pelo endereço de sua função na memória. Então, por exemplo, se um programa roda e consegue sobrescrever o endereço da interrupção responsável por escrever na tela, esse programa pode ligar e desligar pixels que o programa original nem imagina. E em vez do logo esvoaçante e inofensivo do Windows, você poderia escrever o que seria o antepassado do gemidão do zap, versão ASCII Art.
+Dependendo do computador, podemos iniciá-lo por um disco rígido (HD), por um CD-ROM, por um PenDrive USB e até pela rede. Isso está subordinado ao firmware da máquina, pois é ele que comanda, até segunda ordem, todo o hardware acoplado ao sistema.
 
-No caso de um programa de criptografia de disco a interrupção mais importantes é... acertou: a de disco. Uma interrupção de disco é responsável por ler e escrever dados de e para o disco. No primeiro momento do boot é vital para o sistema operacional que ele consiga ler setores do disco onde ele próprio está armazenado. Ele deve conseguir ler seus dados do disco, mesmo criptografados, e esses dados precisam ser descriptografados antes que exista um driver de criptografia instalado no Sistema Operacional no ar. É o dilema do ovo e da galinha. É aí que entra o que chamamos de programa residente, o que contém a função de criptografia e cujo endereço é colocado no lugar da interrupção da BIOS para comandos de disco.
+Vamos supor que um HD foi configurado para ser o inicializador do sistema operacional. Então será lido um pequeno espaço de 512 bytes, mais conhecido como setor, bem no início desse HD. Esse setor inicial possui código de inicialização (chamado de bootstrapping). Por isso, ele é colocado na memória inicial da máquina e executado. O lugar onde ele fica é fixo e conhecido por todos (lembre-se que estamos rodando em modo real!): 0x7C00.
 
-É claro que contando isso para vocês a posteriori parece mais fácil, mas meu primeiro instinto foi espetar o WinDbg, o depurador de sistema do Windows, nessa máquina. Porém, rapidamente descobri que não existia sistema operacional para ser depurado. O Windows nem conseguiu subir ainda, quanto mais deixar as pessoas depurarem ele. Então a solução foi apelar para o SoftIce 16 bits, um depurador em modo real, que funciona até que bem sozinho. Porém, o próprio depurador já é um programa residente, e não funciona tão bem quando existem outros programas residentes querendo espaço no disco. Como o programa de criptografia instalava um hook na int13 (essa é a interrupção de disco), as sessões de depuração nessa fase ficavam estranhas rapidamente. O depurador de modo real travava nas primeiras passadas de código. Não havia memória o suficiente ou as chamadas das ints entravam em conflito. De qualquer forma, quando memória entra em conflito no modo real, o barato fica loko, e o jeito é começar tudo de novo em um novo boot (par ou ímpar, mas sempre o segundo).
+Agora o próximo passo é com esse setor inicial do disco, que chamamos de MBR: Master Boot Record (ou Registro de Boot Mestre, em tradução livre).  Ele contém código 16 bits que não pode depender de runtime nenhuma e faz o que quiser com a memória. Também possui no seu final uma tabela de quatro entradas de partições; é nessa tabela que deve estar a partição ativa, onde está o sistema operacional.
 
-Então o jeito foi usar o debug.com. Este era um programa que vinha no pacote MS-DOS e em alguns Windows mais velhos que consistia em um depurador de modo real. Era possível carregar um segmento de um arquivo ou da memória real para este depurador e ele seguia passo a passo para você a execução do programa. Em assembly de modo real, claro. Esse foi o jeito que eu consegui ir entendendo o fluxo de execução, pois eram muitos valores e variáveis. Eventualmente até o debug.com também travava, mas isso não importava tanto, pois era possível ir mapeando seu funcionamento aos poucos, anotando as descobertas uma a uma em um pedaço de papel. Uma técnica que pode ser interessante se você se encontrar em tal situação é escrever as ints 3 (interrupção de breakpoint) diretamente na memória do programa e deixar ela ser ativada para depois que capotar sobrescrever com o código antigo. Eventualmente isso também travava. Daí nesse momento o jeito era fingir que estava tudo bem e continuar a execução de um outro ponto, anotando em um pedaço de papel o estado dos registradores e da memória até o momento, para depois ir ligando os pontos.
+Uma MBR padrão procura por essa partição e lê seu primeiro setor, fazendo um processo bem parecido com o que a BIOS faz inicialmente: carrega na memória o primeiro setor da partição e executa.
 
-Depois de alguns dias nesse modus operandi o mundo externo importava cada vez menos. Eu só enxergava registradores sendo movidos, valores sendo empilhados e desempilhados. Na hora do café, esse era o meu tema favorito, para desespero dos meus colegas. Comecei a vislumbrar a possibilidade de existir um bug no código do algoritmo de criptografia. O algoritmo usado se chama Blowfish, um cifrador simétrico em bloco. Seu funcionamento é basicamente pegar um bloco de dados a serem criptografados, aplicar uma chave, e cuspir o mesmo tamanho do bloco de volta. Ele se chama simétrico porque aplicando a mesma chave a um bloco criptografado obtém-se o bloco original.
+Vamos supor que você tenha algum Windows moderno na partição ativa. A MBR irá carregar o primeiro pedaço de código desse sistema operacional moderno, que, até então, estará rodando em modo real desprotegido como o bom e velho MS-DOS.
 
-Não lembro como tive esse insight, mas essa alternância típica dos algoritmos simétricos fazia tocar alguns sinos na minha cabeça de que o bug bizarro dos boots ímpares e pares poderia estar relacionado de alguma forma. Só não sabia ainda como.
+(Note que, mesmo que se trate de uma MBR escrita por terceiros, se ela se comportar como manda o figurino, irá carregar o primeiro setor da partição ativa descrita na tabela de partições. Isso é o que faz com que MBRs escritas pelo pessoal do Linux (e.g. Lilo) consiga fazer o boot de uma partição Microsoft.)
 
-Pois bem: bora aprender como funciona esse algoritmo, passo a passo, pois o código usado no sistema estava obviamente escrito em assembly. Não é um código difícil em C, mas um tanto extenso em Assembly. De qualquer forma, tudo é possível se você está trancado em uma sala sem ninguém para importunar. Tudo que você precisa é de tempo e paciência. E café. Não se esqueça do café.
+Agora chegamos em todos os passos iniciais realizados antes de entrar em cena o S.O.:
 
-A semana passou rápido. Tudo que me lembro é que de fato foi uma semana de 40 ou mais horas, embora para mim o tempo tivesse parado. A mágica de estar compenetrado em um problema e fazer parte do problema, e eventualmente da solução, me fez descobrir a origem do bug. E a semana inteira se condensou em alguns poucos momentos de prazer em ter capturado esse desgraçado. Irei descrevê-lo agora.
+  1. O firmware da placa-mãe, conhecida como BIOS, verifica se o hardware básico está funcionando;
+  2. Em seguida, o mesmo código procura pelo dispositivo iniciável que irá dar início ao processo de boot;
+  3. Se for um HD, então o primeiro setor físico desse HD será carregado em memória e executado;
+  4. Esse primeiro setor se chama MBR e contém uma tabela com até quatro entradas de partições no disco;
+  5. O código da MBR procura pela partição ativa onde deve estar o sistema operacional;
+  6. Assim como a BIOS, a MBR carrega na memória o primeiro setor da partição ativa e executa;
+  7. A partir daí temos o código de um possível sistema operacional rodando.
 
-Tudo começa com o IV: o Initialization Vector. Ele é um array de bytes usado em algoritmos criptográficos para diminuir a previsibilidade da série de bytes resultantes do algoritmo. Sem o IV pode-se usar força bruta com várias chaves até encontrar a certa. Com o IV, que é alterado de maneira previsível, mas difícil de rastrear, a mesma chave gera séries de bytes completamente diferentes, impedindo esse tipo de ataque.
+Todos os componentes principais desse boot podem ser visualizados de uma forma bem macro na figura abaixo.
 
-O que estava acontecendo nesse caso para o boot estar intermitente era que, como comentado no [commit que gloriosamente assinei], as escritas em disco durante o boot gravavam a série de bytes com um IV invertido. Portanto, na hora de ler bytes do disco ele entregaria os dados errados, obviamente, e a máquina não bootaria. Porém, como o algoritmo blowfish é simétrico, e pelo boot conter sempre os mesmos dados no disco, uma segunda escrita feita em um segundo boot inverteria o IV já invertido, gravando os dados originalmente invertidos da maneira correta, e a vida nessa versão de boot seguia feliz e contente, com logo esvoaçante até a música de boas vindas do Windows. Bootando pela terceira vez era repetido o problema do boot pela primeira vez, e assim por diante. Essa era a mágica do boot bizarro desta máquina, a única máquina que descobrimos que escrevia nos setores do disco durante o boot. A maioria apenas lia setores onde estava o sistema operacional para carregá-lo.
+Alguns detalhes sórdidos que podem fazer alguma diferença para você, desenvolvedor de sistemas operacionais, um dia desses:
 
-Descrevendo a descoberta desse bug hoje, doze anos após o ocorrido, ainda não entendo como consegui descobri-lo. Porém, ele exigiu tanta concentração que me lembro com um prazer indescritível de ter sido capaz de fazê-lo. Todo o tempo despendido se tornou uma marca de felicidade em minha memória, gravada em meu HD temporário desta vida. Lembrarei desses momentos com carinho, e como ela está criptografada também, entenderei que em alguns momentos ela irá soar amarga, mas em vários outros irei ter certeza de ter sido um feito e tanto para um ser humano entender uma máquina em seus detalhes mais obscuros. Esta é a verdadeira felicidade da profissão.
+  * Os setores de que estamos falando (MBR, partição ativa) normalmente devem terminar com uma assinatura de dois bytes (0x55 0xAA), o que "garante" que o código contido nesse setor é válido e pode ser executado.
 
-[Matrix]: {{< relref "matrix" >}}
-[commit que gloriosamente assinei]: {{< resource src="o-bug-mais-bizarro-que-ja-resolvi.patch.txt" >}}
+  * No caso do loader do Windows (pré-Vista), existia um arquivo no diretório-raiz da partição ativa chamado boot.ini que continha uma lista de possíveis modos de inicializar o sistema operacional, inclusive com múltiplas versões do Windows, cada um localizado em uma partição/pasta distinta (e.g., multiboot com Windows 98 e XP).
+
+  * O limite de quatro partições da MBR pode ser aumentado com o uso de partições estendidas; as partições estendidas apontam para um bloco de setores no HD que inicia com um setor que contém outra tabela de partições exatamente onde fica a tabela da MBR, também com quatro entradas.
+
+  * O endereçamento da localização das partições na MBR pode ser feito de duas maneiras distintas: por CHS ou por LBA. A versão CHS é bem antiga, mas ainda usada, e especifica uma localização no HD através de um posicionamento físico de três dimensões, com cilindro/trilha (C - Cylinder), cabeça (H - Head) e setor (S - Sector). Sim, isso é bem _old-fashionable_. Também existe o LBA (Logical Block Addressing), que é uma forma lógica de endereçar setores no disco, através de deslocamentos (_offsets_).
+
+Para detectar problemas de hardware, a BIOS pode ajudar com seus beeps significativos. Isso aparentemente parece ser o fim da picada, mas não é. O DQ sabe muito bem que podemos ter problemas no hardware que exigem análises mais sofisticadas (como comprimento de onda dos sinais).
+
+Se for detectar algum problema no sistema de boot baseado em MBR, então você tem dois caminhos:
+
+  * Usar o SoftICE 16 bits e depurar o carregamento da MBR pela BIOS
+
+  * Usar o Debug 16 bits do MS-DOS (ou similar) e depurar diretamente o código de boot da MBR, reproduzindo os passos anteriores da BIOS.
+
+Se o problema for durante o carregamento do próprio sistema operacional, as mensagens de erro do loader são significativas. No entanto, pode-se usar o Debug mais uma vez e depurar essa parte, logo antes, é claro, do sistema entrar em modo protegido de 32 bits, o que daí já é outra história (que pretendo contar em breve).
+
+  * Artigo sobre o boot no Linux
+  * [Artigo sobre o boot no Linux](http://www.csl.mtu.edu/~machoudh/blog/?p=258)
 

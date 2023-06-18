@@ -1,22 +1,21 @@
 ---
 categories:
 - writting
-date: '2019-05-04'
-link: https://www.imdb.com/title/tt0765469
+date: '2019-03-14'
+link: https://www.imdb.com/title/tt6428676
 tags:
+- cinemaqui
 - movies
-title: O Passado
+title: O Parque dos Sonhos
 ---
 
-O grande problema quando um relacionamento acaba é que, apesar de tentarmos com sinceridade seguir em frente com nossas vidas, a memória do tempo vivido com a outra pessoa existirá para sempre. Quando Rímini (Gael García Bernal) e Sofia (Analía Couceyro) se separam, mesmo que civilizadamente, algo parece impedir que Sofia aceite essa nova realidade. E este é um filme cuja expressão "peso do passado" realmente se sente.
+Nos primeiros quinze minutos de O Parque dos Sonhos é possível que uma lágrima escorra dos olhos de um espectador cativado pela proposta. Eu gostaria de acreditar que não são lágrimas de manipulação, pois realmente parece um tema emocionante. Porém, já nos últimos quinze minutos é possível que esse mesmo espectador esteja pensando no que foi que deu errado para que essa história acabe em mais do mesmo.
 
-Apesar da convicção sóbria de Rímini de alguém que mudou o suficiente para não querer mais a vida que tinha, ou embora sua expressão jovem pareça nos dizer que ele não é nada mais que as projeções das loucas que passaram por sua vida, a fotografia sépia de Ricardo Della Rosa denuncia o "peso do seu passado", nos lembrando constantemente que nada mudou, embora acompanhemos de qualquer forma as novas aventuras amorosas do rapaz. (Esta também é uma mensagem dúbia de como os homens são vistos (no filme e pela sociedade) como cães dispostos a trepar sempre que há a oportunidade, e as mulheres como dóceis cadelas prontas para se prender a um macho e chamá-lo de seu.)
+Pelo menos essa foi minha sensação com o filme dirigido por três pessoas, roteirizado por mais outras tantas e produzido em uma parceria entre a Paramount e a Nickelodeon (o canal de animações como Bob Esponja). Ele contém uma ideia maravilhosa a respeito do poder da criatividade como força motriz para sermos seres humanos mais completos, mas que acaba não dando em lugar algum senão em soluções fáceis e apressadas de uma animação que não se importa tanto assim com uma ideia boa quando ela aparece.
 
-Mas enxergado sob o prisma de novos relacionamentos que lembram o velho, o filme de Hector Babenco é mais um retrospecto ao contrário, onde vemos o que ocorre na vida de Rímini depois da separação, mas sempre tendo o passado como um fantasma a persegui-lo, transfigurado através de uma Sofia cada vez mais descabelada e com roupas de quem esteve trancada em casa todo o tempo. Dessa forma, enquanto seu ex se arrasta em direção a novas sensações, nunca o vemos estar de fato satisfeito com sua nova vida, mesmo que ela mude de maneira muito mais dinâmica do que de sua ex-mulher, ao menos como é sugerido em suas breves passagens.
+Sua heroina é June, uma criança que mobiliza todo o bairro porque ela é a dona das ideias e da iniciativa que tornam uma comunidade viva. Sua mãe a incentiva desde pequena, falando que ela pode fazer e ser o que quiser. É uma mensagem que pais modernos costumam passar aos seus filhos, muitas vezes se esquecendo da contrapartida: responsabilidade. June irá aprender isso na prática e nós espectadores iremos aprender mais uma vez que filmes insistem em nos vender o formato 3D quando a única coisa que conseguem nos entregar são cenas de montanhas-russas.
 
-Transformando os prazeres da vida pós-relacionamento apenas como meras tentativas de fuga das lembranças do passado, o roteiro de Babenco e Marga Goes, baseado no romance de Alan Paulis, brinca com isso através de um curioso mal que acomete Rímini em determinado momento, que trabalha como tradutor audiovisual e intérprete, o que não deixa de ser interessante por fazer parte do tema do passado (e o que é o passado senão as memórias que carregamos conosco?). Porém, na maior parte do tempo a narrativa se limita a nos fazer ver as patinadas de Rímini em sua vida de novos amores, colocando seu argumento através do tédio. Uma pena, pois Sofia acaba surgindo em vários momentos não como uma louca, mas um sinal de sanidade em meio às turbulências da vida moderna.
+Alguns anos se passam, June ganha uma voz menos infantil e sua mãe adoece (sinais universais de amadurecimento). Sozinha em suas aventuras e com medo de perder a mãe, sua vida se fecha em uma bolha de segurança alimentada por ela mesma, e a sempre empolgada June começa a perder a coragem de dar asas à sua imaginação. Tudo muda quando ela descobre que as criações de sua mente podem possuir mais autonomia do que ela imaginava.
 
-Enfim, há várias interpretações sobre os diversos personagens que vão se introduzindo em uma história que corta rapidamente. Para ter ideia do ritmo do filme, uma cena de sexo corta para a mulher grávida andando preocupada pelo corredor. Outro corte ocorre depois de um táxi inusitadamente partir e o escritório de um advogado. Esses são os flashes que nos recordamos, e apesar de nosso cérebro remontar as lacunas como achar melhor, o passado é uma reconstrução eterna.
-
-O Passado para mim é um filme sobre as loucas e as vadias, como meu amigo sabiamente sempre me ensinou. Há vadias que não são loucas, e são estas que você deve procurar. Já as loucas, mesmo sendo vadias, a longo prazo não compensam. Atravesse a rua, meu chapa, olhe para o outro lado, e entre em um puteiro. Só assim para transformar O Passado em uma agradável fuga das mazelas do cotidiano de uma vida conjugal que já seria vista como loucura se nossa sociedade fosse minimamente sã.
+Ao misturar referências de outros filmes de maneira indecisa, O Parque dos Sonhos nunca chega a construir algo além do parque imaginado em brincadeiras de mãe e filha. Durante a aventura nos lembramos de Alice no País das Maravilhas, Meu Amigo Totoro, Divertidamente e até Jurassic Park, mas o próprio Parque dos Sonhos constrói seu universo sem personalidade, personagens marcantes ou aventuras dignas e, portanto, não se fixa em nossas mentes (como os trabalhos já citados o fazem, por exemplo). Durante o relapso desenvolvimento da história há até um efeito contrário: vamos aos poucos nos esquecendo de seu belo início.
 

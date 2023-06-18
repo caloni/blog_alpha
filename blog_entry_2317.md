@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2019-04-15'
-link: https://www.imdb.com/title/tt6789126
+date: '2021-09-13T23:04:48-03:00'
 tags:
+- cinemaqui
 - movies
-title: Meu Nome Não é Ruben Blades
+title: Meu Nome é Badgá
 ---
 
-Rubén Blades é o cantor mais famoso do Panamá. Também já fez pontas de ator em Hollywood, se candidatou a presidente (foi nomeado ministro), faz ataques ferrenhos ao imperialismo americano enquanto mora em Nova York e defende o povo enquanto bebe água Perrier em seus shows. Ou seja, um membro da esquerda caviar básico. Isso tudo você aprende neste burocrático documentário.
+Fala a verdade: não tem nada mais lindo que garotas skatistas. Estilosas, esbeltas, no ápice de seus corpos e habilidades, esbanjam personalidade sem precisar sair berrando aos quatro cantos "olhem pra mim!". Afinal de contas, não são garotos carentes por aprovação. Em Meu Nome é Badgá acompanhamos algumas dessas moradoras anônimas das comunidades de São Paulo que andam juntas. Há um esboço de personagens que nunca se concretiza. O objetivo é falar das situações do dia-a-dia dessas jovens, centrado na figura da garota-título, Bagdá.
 
-O diretor e roteirista panamenho Abner Benaim precisa de um motivo para filmar esta produção patrocinada pelo governo argentino. Então ele usa o populismo das massas e mostra diversos shows lotados do cantor mais famoso do seu país. Abner Benaim parece gente boa olhando de longe, além de visivelmente inteligente.
+Ela se impõe sendo apenas ela mesma. Garante seu lugar ao sol andando de skate e curtindo sua vidinha nas periferias da cidade. É uma diferentona, mas não faz marca com isso. Apenas questiona as revistas femininas em esboçar apenas um ideal do feminino. Tá certo que essa revista deve ser de uns bons anos atrás, pois hoje em dia diversidade é a ditadura da vez. Encontre uma sequência de comerciais com família tradicional e etnia dominante e ganharás um prêmio. Mas isso não diminui o mérito dessa crítica social. Bom, na verdade diminui. Soa datado e infantil.
 
-Mas sabemos menos sobre a celebridade do que a pessoa. Contado como se todos já soubessem quem é o cantor de salsa, "Meu Nome Não é..." parte da base de fãs para um trabalho correto que apenas diz mais do mesmo para quem já o conhece e não diz muita coisa para quem ainda não é fã (e provavelmente nunca será, pois o filme não instiga a curiosidade).
+Infantil também são as elucubrações fantasiosas da diretora Caru Alves de Souza, que assina também roteiro e produção. Ela floreia e estende desnecessariamente a narrativa, inserindo números musicais breves, mas suficientes para perdermos o interesse na história. Aguardamos pacientes até sua morosa continuação.
 
-De qualquer forma, quando o filme trata de reviver alguns momentos pessoais da vida do cantor o filme se torna um pouco mais interessante, mas ainda assim uma incógnita. Para que ele foi feito? Como uma simples homenagem em vida? Não é um filme provocante, pois não apresenta nada de novo. Também não é um filme debate, pois apenas apresenta um ponto de vista.
+Um ponto alto do filme é sua trilha sonora recheada de gêneros, como punk rock, surf rock, jazz, funk. A maioria das músicas (senão todas) performada por mulheres. Este é um filme feminino sem largar o bastão da fala. É lindo quando isso acontece no conflito do filme, quando há um caso sério de abuso que sintetiza toda a questão do machismo nas mãos de quem vive na pele. Os diálogos melhoram muito na cena final, e quase nunca se vê nada no resto do filme.
 
-Sem saber direito por que fazem filmes sobre a vida das pessoas sem oferecer nada em troca (exceto ganhar um dinheirinho estatal), este filme com nome clichê é documentário clichê que passa como um episódio de tv. Da TV panamenha.
+Exceto na irmã da protagonista, espontânea como se deve em um filme que ensaia ser uma ficção documental. O resto dos atores não compra a ideia tão bem e o resultado é misto. Mas sua irmã é o equilíbrio perfeito entre atitude e atuação.
 

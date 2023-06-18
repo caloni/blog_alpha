@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2015-01-06'
-link: https://www.imdb.com/title/tt0019421
+date: '2016-10-28'
+link: https://www.imdb.com/title/tt4428774
 tags:
 - movies
-title: Marinheiro de Encomenda
+title: Marie e os Náufragos
 ---
 
-Esse filme, assim como Os Irmãos Cara-de-Pau, tem um ritmo que cozinha em fogo lento até uma sequência absurda e frenética (até para a época) envolvendo um acontecimento que muda todo o rumo da história. É difícil saber como toda ela foi criada: Buster Keaton é um especialista em trucagens cinematográficas, como já visto em Sherlock Jr. Porém, é impossível ficar impassível a tantos truques que além de impressionantes continuam colaborando com a narrativa.
+Um filme que atravessa o indie usando uma metalinguagem Kaufmaniana, descobrindo seus personagens no percurso, realizando uma trama eficiente que, por mais absurda que seja, mantém sempre o interesse do espectador.
 
-A história se passa em New Orleans em cenário e figurino que hoje também servem como um documentário da época. Keaton é filho do dono de um navio antigo que corre o risco de ser desativado pelo seu mais novo concorrente. A rivalidade entre eles chega até seus filhos, e o ódio ao diferente é uma forma de crítica social, ainda que rasteira.
+Tudo começa com Siméon, um rapaz desajustado que entra em um bar em Paris e é abordado casualmente por um viajante carente. Ambos cantam no karaokê e se despedem, deixando Siméon com uma triste notícia sobre o recém-amigo. A intensidade da cena muda de acordo com a versão que é tida como verdade, e é sobre isso o filme.
 
-Há algo de estranho na cópia disponível na Netflix, parece acelerada. Depois de ter visto Tempos Modernos apenas um dia antes e me parecer normal, pode ter relação com a época ou como foi filmado (apesar de ambos serem mudos e em P&B estão há anos de distância, e seria o mesmo dizer que O Artista, de 2011, está destoando de seus parceiros técnicos). Porém, uma coisa é certa: a trilha sonora usada é a pior coisa do filme. Distrai e não acrescenta quase nada, com exceção do final frenético já citado.
+Cada um dos seus personagens se apresenta em um momento, quebrando a quarta parede e apresentando seu background. Como nos livros. E o filme é sobre um autor de livros, que faz uma pesquisa pessoal para descobrir novas histórias. A obsessão de Siméon e a do próprio escritor pela jovem Marie é o tema do filme/livro, mas o autor só vai descobrir isso até o final.
 
-De uma forma ou de outra, Buster Keaton tem alguma coisa em sua forma de fazer filmes que fascina e pelo qual certamente era fascinado: contar histórias que não seriam possíveis sem efeitos especiais. Essa é a herança que vemos em Jurassic Park, Forrest Gump, Avatar e tantos outros que dependem do impossível para fazer-nos crer que tudo é possível no Cinema.
+Com personagens um tanto bizarros (esse é o lado indie), como um amigo que se torna sonâmbulo durante um novo projeto para criação de uma música eletrônica, o diretor Sébastien Betbeder faz aqui uma comédia divertida, leve, que utiliza o que tem ao seu redor para criar um universo característico, que enxerga detalhes nas pessoas que atravessa -- como a recepcionista do hotel, sempre ouvindo hip hop -- e se importa com elas, pelo menos em mostrar que elas existem, estão lá, mesmo que sejam passageiras e não tenham muita relação com a trama principal (exceto, claro, a música).
 

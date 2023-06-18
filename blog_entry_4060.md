@@ -1,56 +1,25 @@
 ---
-categories: []
-date: '2009-08-17'
+categories:
+- writting
+date: '2016-02-17'
+link: https://www.imdb.com/title/tt4284010
 tags:
-- english
-title: What I've been doing in the last 10 years
+- cinemaqui
+- movies
+title: What Happened, Miss Simone?
 ---
 
-This week I dedicate myself to update my resumè and I have the brilliant idea of put into it my technical historical, what resuming is a list of things I did or was involved with during my brief ten years stay in the programming world.
+"What Happened, Miss Simone" é uma coletânea de depoimentos, entrevistas, colagens de fotos e performances que, a despeito de seguir uma ordem cronológica certinha, consegue se tornar uma montanha-russa de emoções e pensamentos acerca da vida da artista e ativista Nina Simone. E mesmo criando um fechamento mais que convencional, desperta em seu final a sensação de que conhecemos talvez menos de 10% do que foi a música, cantora e ativista.
 
-So I thought: "this could be useful to the people read me". Why not? Perhaps you got some doubt waiting to be solved and is unable to find a guy who knows something about this. Perhaps this fork guy even exists and has a blog where he could share some knowledge that is stuck in that empty programmer head.
+Mais um filme produzido pela Netflix, que vem se mostrando um foco de documentários com conteúdo riquíssimo, a direção de Liz Garbus (Bobby Fischer Against the World) deixa claro desde o começo que irá dramatizar pesadamente na carreira da artista, que começa já criança tocando piano na igreja onde sua mãe realizava sessões religiosas para os negros da região. Descoberta por uma professora de piano branca, a pequena Eunice Kathleen Waymon recebe uma tutora e já coloca um sonho em sua mente: se tornar a primeira pianista negra de música clássica.
 
-In this case, it follows bellow a brief description of my professional life, with the things I could remember I did since December 2000. What I haven't remember probably is not worth of.
+Esse desejo logo é rejeitado pela instituição onde tenta ser aprovada; não por falta de aptidão, mas por ser negra. Estamos em um EUA segregado, onde atentados ocorrem de tempos em tempos, marcando paulatinamente na memória do povo afro-americano a memória do que seus antepassados sofreram. A jovem Waymon vive isso, e para continuar seu caminho artístico, se submete a tocar em bares que sua mãe ficaria horrorizada de conhecer. E é aí que nasce o nome Nina Simone: um fruto do medo de ser descoberta. A definição de liberdade para Simone não poderia ser mais óbvio: a falta de medo. Não medo de leões na savana africana, mas medo das pessoas em sua volta, seja sua mãe, seu futuro e violento marido ou simplesmente os brancos estranhos que vivem do outro lado do trilho do trem por onde ela caminha ainda criança. A época e o local não eram propícios para o nascimento de uma artista como Simone.
 
-  - Software and hardware inventory
-  - Clipboard and PrintScreen protection using windows hooks and global messages manipulation
-  - Driver writing system event log
-  - DeviceIoControl user/kernel communication
-  - Desktop remote control using VNC technique
-  - Remote execution tool PsExec (SysInternals) like
-  - Print control using regex (Boost) and shell hook
-  - Access policies management during user logon/logoff (register and hooks)
-  - Database migration CTree -> SQL (OLE classes)
-  - Windows authentication using custom GINA and DCOM; Credential Provider (Vista)
-  - CTree database synchronism using custom DCOM service
-  - Bootable Linux CD with bash scripts and disk cryptography tools using C language
-  - Hard disk encryption and PenDrive (USB) storage control
-  - Blue Screen analysis using memory dumps and WinDbg live (Gflags)
-  - System account execution using custom COM service
-  - MBR (Master Boot Record) customization library
-  - Blowfish/SHA-1 encryption library using C++ and 16 bits Assembly
-  - Log access driver using shared memory between user and kernel mode
-  - Kernel mode API hook for 9X and NT platforms
-  - 16 bits Assembly loader; debugging using debug.com tool
-  - Executable protection using embedded domain authentication recorded inside files resources
-  - Internet Explorer 6/7 and Firefox 1/2 browsing protection using Assembly 32 bits code injection
-  - Code, strings and execution protection library (using Win32 interruptions)
-  - Centralized log generation library using shared memory and global events
-  - Internet Explorer 6/7 BHO (Broser Helper Object) and ActiveX; Mozilla/Firefox XPI plugin
-  - Projects management using Source Safe, Bazaar and Batch (Win) scripts
-  - Kernel mode debugging using SoftIce and WinDbg for NT platform, SoftIce and WDeb98 for 9X platform
-  - Trojans reverse engineering (C++, Visual Basic, Delphi) using WinDbg and IDA
-  - Diagnostic tool listing files, services, drivers, register, disk partitions, processes, etc
-  - Jobs monitoring in Win2000+ to installation and update control
-  - Application use monitoring using noninvasive and invasive windows hooks
-  - Houaiss reverse engineering and Babylon importation (dictionaries)
-  - Build control with Cruise Control .NET, symbol server with Debugging Tools
-  - Projects documentation using Doxygen and Wiki (Trac)
-  - Management interfaces using C++ Builder 5/6 and Visual C++ custom libraries
-  - E-mails analyzer using regular expressions (ATL classes)
-  - Configuration interfaces using Visual C++ (MFC /ATL/WTL)
-  - Project and tracing analysis using regular expressions (Vim and Grep)
-  - Articles development using technical blog and Code Project community.
+Auxiliado pelo testemunho de sua filha, Lisa Celeste Stroud, que também é produtora, de seu ex-marido, seu ex-colega de banda e um inusitado amigo, o filme consegue revelar bastante sobre a persona de Simone como cantora e como pessoa, mas a sensação é só conseguir capturar sua essência durante suas performances em palco. Dona de uma voz extremamente diferente para cantoras femininas, Nina consegue expressar as letras da música que toca de uma forma que parecem torná-las únicas naquele momento.
 
-Perhaps I update this list frequently. Although I guess the rightest choice would be to update the list with articles about my every day "brushing bits" life . After all, I got a technical blog already!
+Há na história, claro, seus momentos de ativista, quando vai convergindo aos poucos todo seu repertório para temas políticos. Nina participa de maneira tão intensa essa sua fase que sempre a vemos do lado de revolucionários extremistas. Em deteterminado momento diz que fulana a ensinou muitas coisas sobre Marx e Lênin. Em outro momento ela mesma admite que os negros só conseguirão a paz que tanto almejam se criarem seu próprio Estado. Engajada através de sua arte, percebemos que essa é a maneira que ela encontrou para gritar para o mundo o seu desespero interno. E o filme também se engaja, sempre mostrando em seu primeiro ato como o sucesso como cantora e o seu enriquecimento ainda não são suficientes para preencher uma necessidade interna de sua existência. Pelo jeito, a recusa da instituição musical custou caro aos sentimentos da artista.
+
+Porém, os melhores momentos são os últimos, onde vemos uma sequência de anos e décadas sendo narrada de uma maneira coesa e tão intensa quanto os anos 60. Sua fuga para Libéria e retomada da carreira na Suíça são ganchos para que voltemos a ser convidados a entender novamente quem é Nina Simone.
+
+E o mais impressionante de tudo é que, depois de tudo isso, talvez ainda falte uma resposta definitiva. Não que seja decepcionante, como biografias mal-feitas. É que pessoas como ela, passando por esse planeta por 70 anos, foram insuficientes para capturar boa parte de sua essência. Quando sua filha diz que, vendo a mãe já mais velha, percebe que ela não pertence mais à epoca, a resposta é que a época já não pertence mais a ela. Isso resume bem o sentimento de um filme como esse.
 

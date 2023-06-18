@@ -1,67 +1,20 @@
 ---
-categories: []
-date: '2016-04-10'
-tags: null
-title: Testando sistema de postagem
+categories:
+- writting
+date: '2015-12-23'
+link: https://www.imdb.com/title/tt2241605
+tags:
+- movies
+title: Tese Sobre um Homicídio
 ---
 
-Bom, depois de criar um script para basicamente apenas escrever o texto dos filmes que assisto e buscar uma imagem agradável para meu [blogue de Cinema](http://www.cinetenisverde.com.br), o próximo passo foi portar esse mesmo método para meus dois outros blogues: o da minha empresa, a [BitForge](http://www.bitforge.com.br/blog-pt) e esse aqui. O processo envolve algo a mais: buscar as imagens usadas (que muitas vezes não é só uma). Porém, nada mais que isso.
+Ricardo Darín é um advogado que dá aulas e testemunhou com seus alunos o corpo de uma garota assassinada na frente de sua sala de aula, na Universidade de Advocacia de Buenos Aires. Na véspera havia ido ao lançamento de seu livro, A Estrutura da Justiça, onde tem uma conversa curiosa com um dos seus alunos, filho de um amigo de longa data. O aluno comenta que sua teoria sobre a justiça é que qualquer um pode matar borboletas se não pertencer a um poderoso, já que a lei só existe para protegê-los. Agora, adivinhe qual o inseto que havia no pingente que estava no pescoço da garota assassinada?
 
-**O problema mesmo é publicar nas redes sociais.**
+Tese Sobre um Homicídio peca pelo exagero em sua trilha sonora, em suas cenas girando, em seu ritmo excessivamente lento e em um diretor que acha que está abafando por inserir seus personagens em cenas que formam um mosaico de informações que lembram a bagunça característica dos quadros de Picasso. O mesmo aluno que citei, que obviamente vira suspeito na teoria que se forma na cabeça do advogado-professor, comenta que a obra-prima de Picasso, para ele, é a que sintetiza todos os sacrifícios feitos para a salvação da humanidade. Tentamos a todo o custo entender as metáforas por trás dessa história, mas o máximo que conseguimos é relacionar a referência da borboleta em O Silêncio dos Inocentes.
 
-Um detalhe típico do funcionamento dessas redes bem apontou o blogger veterano [Hossein Derakhshan](http://www.theguardian.com/technology/2015/dec/29/irans-blogfather-facebook-instagram-and-twitter-are-killing-the-web), que ficou preso por seis anos e descreveu a mudança que a web sofreu nesse pouquíssimo tempo para a história, mas muitíssimo para a internet. De acordo com ele, postar apenas links não farão muito efeito, mesmo que você seja um escritor conhecido (o caso dele). Para fazer efeito, você precisa de imagens. Pessoas gostam de imagens. De gatinhos, melhor ainda.
+No entanto, o mesmo filme consegue atingir sutilezas digna de aplausos, pois quase não há diálogos expositivos, mas através da ação do protagonista e algumas de suas expressões conseguimos detectar o movimento de sua moral atravessando a barreira do que é correto "impetrando" sua vontade de estar certo, mais do que qualquer resquício de justiça que poderia haver por trás da figura de um advogado que adquiriu fama precocemente e agora vive de seus louros lecionando para um grupo seleto de alunos. "Meu metabolismo é estranho", comenta para o amigo sobre ele inverter a ordem de sua profissão. Sabemos que ele também está na fase de garanhão pós-40 ou 50, e seus galanteios em cima de jovens mulheres consegue criar uma relação no mínimo curiosa com seu principal suspeito no assassinato.
 
-Porém, qual imagem que pode ser usada para um blogue técnico e que chame a atenção?
+Ricardo Darín vive um personagem que é a peça fundamental para este thriller psicológico, pois todas as cenas lhe pertencem. Logo, a realidade que enxergamos no filme pertence unicamente à sua imaginação, seja ela pautada na realidade ou não. Isso com exceção de uma única cena final e as inúmeras visões que ele tem a respeito do que poderia ter acontecido como circunstâncias do assassinato na frente da faculdade. Ele encarna, portanto, um amuleto do espectador, que pode ou não ter um fundo dramático. E talvez o maior pecado do filme seja nunca estabelecer qualquer profundidade de seus personagens, investindo sempre em joguetes baratos de uma investigação que já vimos tantas vezes...
 
-No Cine Tênis Verde fica fácil achar uma imagem, pois filmes são formados por elas (cerca de 170 mil delas, se for um filme de duas horas). Aqui no Blogue do Caloni, tenho que me limitar a abstrações e metáforas.
-
-O que muitas vezes tem funcionado, como minha série [Básico do Básico](https://www.google.com.br/search?q=básico+do+básico+site%3Acaloni.com.br):
-
- - [Binário](http://caloni.com.br/basico-do-basico-binario)
- - [Tipos](http://caloni.com.br/basico-do-basico-tipos)
- - [Ponteiros](http://caloni.com.br/basico-do-basico-ponteiros)
- - [Assembly](http://caloni.com.br/basico-do-basico-assembly)
- - [Programação](http://caloni.com.br/guia-basico-para-programadores-de-primeiro-breakpoint)
- - [Depuração](http://caloni.com.br/guia-basico-para-programadores-de-primeiro-int-main)
-
-De qualquer forma, posso continuar utilizando o título do artigo como base para minha pesquisa.
-
-### Postando no Twitter
-
-Postar no Twitter é algo relativamente fácil. O script abaixo faz isso com dois pés no joelho:
-
-```
-def PublishToTwitter(postInfo):
-    """
-    https://pypi.python.org/pypi/twitter
-    """
-    t = twitter.Twitter(auth=twitter_credentials.auth)
-    
-    with open("C:\\daytoday\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
-    	imagedata = imagefile.read()
-    t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
-    id_img1 = t_up.media.upload(media=imagedata)["media_id_string"]
-    st = postInfo['title'] + '\n\n' + postInfo['tagline'] + '\n\n' + postInfo['shortlink'].encode('utf-8')
-    if len(st) > 120: # giving space to image attachment
-        st = stars + ' ' + postInfo['title'] + '\n\n' + '\n\n' + postInfo['shortlink'].encode('utf-8')
-    t.statuses.update(status=st, media_ids=",".join([id_img1]))
-```
-
-### Postando no Facebook
-
-Já postar no Facebook é mais ou menos uma tortura. As chaves de acesso costumam expirar, e para conseguir uma que não expira este [tutorial](http://nodotcom.org/python-facebook-tutorial.html) é femonenal, pois economiza muito, muito tempo de pesquisa.
-
-Curiosamente, o código para postar é muito semelhante ao do Twitter, até mais simples, talvez:
-
-```
-def PublishToFacebook(postInfo):
-    """
-    http://nodotcom.org/python-facebook-tutorial.html
-    """
-    with open("C:\\daytoday\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
-    	imagedata = imagefile.read()
-
-    st = postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + baseUrl + postInfo['permalink']
-    post = facebook_credentials.auth.put_photo(image=imagedata, message=st)
-```
+Se redimindo parcialmente em seu final dúbio, Tese Sobre um Homicídio tinha o potencial de ser muito mais do que é, não fosse a prepotência de seus idealizadores. Infelizmente, se trata de um filme misto, com bons momentos -- como uma sequência na farmácia -- e momentos mornos demais para desencadear qualquer grau acima do velho clichê psicológico que conhecemos do gênero.
 

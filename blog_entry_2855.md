@@ -1,21 +1,22 @@
 ---
 categories:
 - writting
-date: '2022-10-17T19:50:12-03:00'
+date: '2019-09-02'
+link: https://www.imdb.com/title/tt0290823
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Objetos de Luz
+title: O Voto é Secreto
 ---
 
-Filmes bons de 4 horas de duração podem ser curtos demais. Porém, Objetos de Luz, com sua pouco mas de uma hora, é longo demais. E depois de cinco minutos de projeção ele já dá poderes a qualquer espectador itinerante de rotulá-lo com muita propriedade como um porre descomunal.
+Este filme parece uma propaganda do governo incentivando o voto com não-atores dizendo falas prontas para incitar a reflexão no espectador. Uma pena que o formato seja tão simplório. Sem personagens, sem atores, sem história, O Voto é Secreto consegue no máximo fazer-nos pensar por que está região do mundo está usando democracia.
 
-Esta é uma reflexão sobre a luz (trocadilho proposital) trazida por um diretor de fotografia, Acácio de Almeida (do filme Raiva, entre dezenas), auxiliado pela atriz Marie Carré. O filme é movido a recortes de outros filmes, montagens com imagens do espaço e suas infinitas estrelas, trilha sonora constante e narrações em off para dar uma perspectiva do assunto. Há infinitos artifícios narrativos menos a própria protagonista: a luz.
+É dia de eleições. E como funciona por lá, lá sendo um país do Oriente Médio, com habitantes dos mais diversos perfis espalhados por uma região e não obrigados a votar, e também nem muito interessados? Uma caixa é jogada de paraquedas de avião e uma agente chega em um posto de fronteira vigiado por dois guardas para fazer o trajeto das casas dessa gente para coletar votos até o final do dia.
 
-É como se participássemos daquelas salas temáticas de arte moderna, mas no lugar da obra há um auxílio sonoro e recortes de jornal espalhados no recinto. Imagine essa galeria. Está escrito em um letreiro bem grande lá fora: LUZ. E dentro há depoimentos, textos a respeito, recortes de jornal. E tudo isso disponível em uma sala escura.
+Essa agente é mulher, o que gera estranheza do guarda que a deve acompanhar, mas ele vai do mesmo jeito. E ela é uma estagiária que acabou de passar no concurso público e está super-empolgada com o processo das eleições. Não é pra menos: quando você tem menos de 20 anos e acredita nas balelas que a educação pública te enfiou na cabeça, o voto ainda é a arma do cidadão.
 
-É mais ou menos assim que você irá se sentir a bordo desta jornada em direção a coisa nenhuma. Uma ode à ignorância, talvez? A narração indica que sim. O texto faz analogias com DNA e fótons e ao mesmo tempo usa rimas de recursão, como "um filme aprisiona a luz e outra luz depois é necessária para libertá-la". Tudo isso é dito sem nenhuma vergonha. Pelo contrário. Há um certo orgulho e até um tom de grandiosidade. É como se Michael Bay, aquele diretor de filmes de explosões aleatórias, tivesse virado um minimalista e abraçado a arte moderna. Este seria um filme assinado por ele nessa sua nova era.
+Então ambos saem de carro à caça de eleitores. Ela fala todas as obviedades sobre o poder do voto. Ela tenta vender o voto como políticos vendem promessa de campanha, como se ao escrever dois nomes em um pedaço de papel fosse mudar a vida de todos em volta. E pra melhor, claro. Sempre pra melhor.
 
-Breve graças a Deus, assista a Objetos de Luz nesta Mostra de SP quando só tiver uma hora e meia entre sessões que realmente tentam fazer algo pelo cinema. Se sobrar mais tempo depois você me diz aqui nos comentários o que achou de toda essa bobagem pretensiosa.
+A farsa se torna clara conforme nenhum dos supostos coadjuvantes ganha a empatia do espectador, e quando nos momentos finais até o guarda faz um questionamento desses de universidade pública (por que não há eleições três ou quatro vezes ao ano, em vez de quatro em quatro anos?), geralmente a pergunta que pessoas ingênuas e estudantes de universidade pública fazem.
+
+Sem a mínima condição de sustentar alguma reflexão de fato, o diretor Babak Payami ainda demora para cortar algumas cenas em que ele imagina o espectador pensando no que acabou de ver. Afinal, pensar sobre o voto faz as pessoas discutirem ideias, não? Não realmente. Voto é uma variante desse mesmo mecanismo que fez lavagem cerebral nessa menina. É um filme triste, que se alonga e não entrega nem essa reflexão.
 

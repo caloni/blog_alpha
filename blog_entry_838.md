@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2016-09-30'
-link: https://www.imdb.com/title/tt3612984
+date: '2015-03-13'
+link: https://www.imdb.com/title/tt0379725
 tags:
 - movies
-title: 'Caprice: Amor à Francesa'
+title: Capote
 ---
 
-Uma comédia do Woody Allen, se Woody Allen fosse francês e não tivesse crises depressivas expostas em seus filmes. Aqui o lance é mais romântico, mas com conteúdo e inteligência. O filme trabalha a questão dos diversos tipos de amor, algo muito em voga hoje em dia, em que o conceito de família é tão líquido quanto os relacionamentos amorosos.
+Espero que eu tenha entendido mal esse filme. Ele é bem feito, tem a atuação enigmática de Philip Seymour Hoffman, que foi um ícone de atuação até sua prematura morte. Porém, ele possui uma história e uma argumentação falhas demais. Transportando um assassinato bruto de uma família inteira para as ondas do destino e colocando em foco a história de vida de um dos assassinos, o roteiro de Dan Futterman baseado no romance de Gerald Clarke que busca exaltar a sensibilidade do antes escritor de ficção Truman Capote no escritor norte-americano de maior influência do século passado. Pior: ele transfere ainda a moral duvidosa para o próprio escritor, sendo que estamos falando de assassinos cuja biografia está sendo coletada com uma curiosidade inabalável de Capote que durou cerca de cinco anos.
 
-A história é pautada no absurdo, e se torna uma comédia de situação muito fácil, graças a inúmeras coincidências que colocam os personagens da maneira que eles precisam estar para acontecer algo engraçado. No entanto, esses personagens são divertidos, bem-humorados, com estereótipos que combinam. Clément é um professor comum apaixonado por uma atriz que acaba namorando. No meio há uma jovenzinha apaixonada por Clément, e a partir daí caímos no velho triângulo amoroso francês. Só que não é isso que importa, mas a forma de abordar a relação entre os três. Se visto como tabu pela grande maioria das pessoas, aqui há algo de humano que ultrapassa alguns limites do aceitável pelas regras convencionais matrimoniais, e é isso que torna o filme atraente.
+Acompanhamos essa meia-década e a sua rotina de ir visitar o preso depois do julgamento e todas as apelações para evitar a pena declarada: morte. Mas não é um filme humanitário, não é um filme conservador. É um filme sobre o processo de biografia em si e sobre o cansaço de Capote durante esse processo. No entanto, ao final da experiência, acabamos sem saber como é o tal livro, como é o tal Capote, como é o tal assassino. Tudo que sabemos é como a família foi executada e como a voz de Capote inibia as pessoas em volta pela sua forma afetada.
 
-Com ótimas atuações, e uma direção de arte e fotografia que evocam o romance pela vida em si, e não apenas pelas pessoas, Romance à Francesa é um passeio agradabilíssimo pela mente de Emmanuel Mouret, que cria uma comédia romântica divertida sem dispensar a inteligência, abordando temas de "poliamor" com sutileza e em uma maneira comercialmente viável (pelo menos na França).
-
-Não há muitos limites para as coincidências nesse filme, assim como geralmente não há nos filmes de Woody Allen. Porém, felizmente aqui a questão maior não é a mortalidade ou o absurdo da vida, mas a tentativa contagiante de conseguir aliar os diferentes sentimentos que nutrimos por diferentes pessoas sem soar tão dramático, insolúvel ou clichê.
+Uma voz, aliás, muito bem executada por Philip Seymour Hoffman.
 

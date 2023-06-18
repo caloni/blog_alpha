@@ -1,19 +1,16 @@
 ---
 categories:
 - writting
-date: '2016-11-02'
-link: https://www.imdb.com/title/tt5104002
+date: '2020-04-17'
+link: https://www.imdb.com/title/tt0057187
 tags:
-- mostra
 - movies
-title: Irmandade
+title: Irma la Dulce
 ---
 
-O longa caótico e desconexo de Pepe Diokno é justamente e apenas isso: caótico e desconexo. Desconexo não apenas no sentido narrativo, mas de conexão com o espectador. Como é impossível para nós nos conectarmos àquela realidade de Manila, devidamente manipulada em uma mistura de ficção e realidade, não é possível sequer sabermos qual a linha de raciocínio de um criador petulante que não consegue unir tomadas desconexas com significado ou empatia.
+Longo para ser uma comédia, mas é Billy Wilder que dirige e nenhum minuto parece desperdiçado. A dupla Jack Lemmon e Shirley MacLaine consegue mais uma parceria com química invejável. Ela é linda e cheia de si. E ele será a inspiração de Jim Carrey décadas depois.
 
-Dessa forma, as criaturas filipinas que observamos são nojentas, medíocres, maliciosas, ignorantes, maldosas e cruéis. Não há qualquer adjetivo que nos permita seguir em frente na identificação de protagonismo. Até Scarface tinha suas qualidades, mas aqui sequer sentimos a dor do próximo. Pior: fingindo um documentário, o resultado é ainda mais falso, pois muitas sequências são obviamente teatrais, e outras despertam a curiosidade apenas em detectar se é real ou não, mas ainda assim, sem significado.
+As piadas são todas manjadas, mas é delicioso de assistir. Devia ser um espetáculo sair no sábado à noite para uma sessão de cinema com esses dois. A Lemmon se entrega papéis de travesti sem ressalvas nem sutileza. Ele se diverte com qualquer tipo, homem ou mulher. Não tem a mesma humanidade como em [Se Meu Apartamento Falasse]. Aqui ele faz um policial que acaba virando um cafetão e com ciúmes de sua amada se disfarça de Lorde Inglês para fazer com que ela não entre no quarto do hotel da rua mais movimentada de Paris com mais ninguém. The jokes on him.
 
-A qualidade em estruturar começo e fim, com um vídeo do YouTube a respeito da irmandade de estudantes de direito, e o título em letras garrafais seguidas pelo seu idealizador, sugere um egocentrismo seguido de megalomania que flerta com Amos Gitai, o diretor-sionista homenageado por vitimizar uma raça. No caso das Filipinas, possivelmente a pior nação oriental que se tem notícia, que comprova que, mesmo com todas as virtudes orientais de funcionamento coletivo, a religião baseada em sacrifício transforma tudo em pó e em desgraça. Uma desgraça que é celebrada aqui.
-
-Roteirizado por três indivíduos, é difícil saber como é necessário três pessoas para esboçar esse fiapo de história. Há algo tão errado nas Filipinas, que talvez até seus idealizadores tenham sido atingidos pelo suposto câncer que submete essa sociedade cada vez mais em direção à desgraça moral.
+[Se Meu Apartamento Falasse]: {{< relref "se-meu-apartamento-falasse" >}}
 

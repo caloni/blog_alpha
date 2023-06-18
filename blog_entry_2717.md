@@ -1,23 +1,24 @@
 ---
 categories:
 - writting
-date: '2010-10-27'
-link: https://www.imdb.com/title/tt0775489
+date: '2013-11-22'
+link: https://www.imdb.com/title/tt1817273
 tags:
-- mostra
 - movies
-title: O Mágico
+title: O Lugar Onde Tudo Termina
 ---
 
-Esse é o novo longa de Sylvain Chomet, o mesmo diretor de [As Bicicletas de Belleville]. Foi baseado em um roteiro de Jacques Tati (do filme Meu Tio). Ou seja, temos aqui um roteiro de algo belo em sua pureza sendo dirigido por alguém com o controle nato do surreal. Não bom.
+É uma satisfação imensa presenciar tantas virtudes técnicas juntas em um filme ambicioso também em seu lado narrativo e temático. Há muitas ideias a serem interpretadas e sentidas em O Lugar Onde Tudo Termina, sendo a principal delas é: até que ponto nossas escolhas conseguem influenciar de alguma forma o futuro? Há uma justiça (divina ou não) em algum lugar ou tudo é uma questão de interpretação?
 
-A primeira metade é deslumbrante. A direção de arte compõe os quadros mais inspirados de belas cidades, ou teatros em que o velho mágico se apresenta; ou até pela fotografia, que ilumina com cores quentes e gela com cores frias. Adotando uma comédia baseada em coincidências ingênuas (ex: ensopado de coelho, neve de penas), a trilha sonora acompanha cada passo dos personagens e define o sentimento do momento, contando a história muito melhor do que os diálogos, que inexistem. No entanto, em alguns momentos ela chega a se tornar repetitiva, mas sem nunca perder sua função e sem nunca se tornar artificial.
+Iniciamos a história com Luke (Ryan Gosling), um motoqueiro cuja longa sequência sem corte em que o vemos adentrar em um globo da morte e fazer peripécias com três motos juntas já apresenta também sua habilidade e denota a intenção do diretor Derek Cianfrance de tornar seus atores famosos em figuras mais humanas e realistas (como já havia feito no excelente Namorados para Sempre). Há um relacionamento passado que revela que Luke é pai (uma referência e reversão de expectativa interessante com os arquétipos de Star Wars), resultado de uma aventura amorosa com Romina (Eva Mendes). A tristeza de Luke perante a incapacidade de formar uma família ou ao menos manter-se por perto é o ponto de transição que faz com que ele se isole de sua fama e reinicie sua vida se fixando no local.
 
-E se nos encantamos com os pequenos e precisos movimentos dos personagens (como o da senhora que observa o casal no trem, enquanto a pequena Alice encosta sua cabeça no ombro de Jean-Claude Donda (o mágico do título), ou quando a velha escocesa se empolga com as palmas quando ela acende uma lâmpada que improvisa o número do mágico no pequeno bar do vilarejo), é porque estamos descobrindo aos poucos a magia daquele pequeno universo criado para contar a história desse mágico decadente e sua fuga da triste realidade que as pessoas não gostam mais de mágicos.
+Porém, quando conhece Kofi (Ben Mendelsohn) e sua vida passada de assalto a bancos, Luke vê aí uma possibilidade de conseguir ao menos sustentar financeiramente seu filho. É o amor de pai que o move para o mundo do crime e o figurino afiado mostrando suas roupas esfarrapadas e seu deixo frouxo de falar que deixa claro que não há muitas alternativas para o obviamente limitado intelecto de Luke.
 
-Ultrapassados por bandinhas de rock recém-chegadas (como demonstrado de forma hilária no número dos "pseudo-Beatles"), os artistas das antigas se vêm enclausurados em palcos obscuros ou até mesmo vitrines de lojas anunciando produtos. É o mundo moderno que dá as costas aos expatriados que antes eram gloriosos e aplaudidos, algo muito parecido com a visão das trigêmeas de Bicicletas.
+E é aí que reside o ponto mais ambicioso da trama: acontecimentos que não vêm ao caso trazem à tona outro personagem relevante no meio do filme. A ambição narrativa dos quatro roteiristas e a perfeição técnica com que a narrativa é alinhada com a ajuda do montador Jim Helton concebem uma fluidez admirável para um filme que simplesmente descarta qualquer afeição com a pessoa que iniciou toda a história.
 
-Mas é injusto comparar a complexidade dos estereótipos criados em Bicicletas com madame Souza, as trigêmeas, o próprio Champion e até o cachorro! Porém, mesmo nos mantendo no universo de O Mágico, do segundo para o terceiro ato vamos perdendo esse deslumbramento e aos poucos perdemos o sentido de estarmos ali assistindo à vida desses personagens, pois já não importa mais. Tudo começa a ficar confuso, pois já não nos interessamos mais pelos personagens que no início nos encantamos. E isso talvez seja, ou não, o reflexo do próprio mágico que as pessoas já não querem mais.
+Não apenas isso: a fotografia, inicialmente de um ensolarado e planos abertos que evocam os sentimentos selvagens de Luke e seu desejo de liberdade se fecha para um azul melancólico e que acompanha planos cada vez mais fechados (cenas mais internas, closes mais próximos com menos iluminação). Vemos aos poucos o lado podre da justiça de maneira sistemática e revoltante. Porém, ao mesmo tempo, aguardamos ansiosos pelo desenrolar dos eventos que praticamente atravessam o personagem de Bradley Cooper.
 
-[As Bicicletas de Belleville]: {{< relref "as-bicicletas-de-belleville" >}}
+O que nos leva mais uma vez a uma "troca de foco". Dessa vez, quinze anos se passam, e o peso disso é repassado na maquiagem e no clima fúnebre em que isso acontece. Não são dadas dicas explícitas, pois o filme respeita a inteligência do espectador. Porém, sabemos de imediato a conclusão da última conversa que testemunhamos quinze anos atrás. Também descobrimos quase que de supetão o que ocorre com a primeira parte do filme, em mais uma participação digna de destaque para Dane DeHaan (Poder sem Limites).
+
+Ao final, o destino daquelas pessoas já não é mais tão particular. A transição que completa a trama e fecha o ciclo representa a sobrevivência de algo maior que transcende o mero estudo de personagens. O filme se torna o estudo do Cinema como arte de narrar histórias.
 

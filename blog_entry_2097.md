@@ -1,25 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-02-25'
-link: https://www.imdb.com/title/tt3917210
+date: '2015-08-07'
+link: https://www.imdb.com/title/tt2581244
 tags:
-- cinemaqui
 - movies
-title: Life, Animated
+title: Vida Após Beth
 ---
 
-O documentário "Life, Animated" conta a incrível história de Owen Suskind, diagnosticado como autista aos três anos de idade, incapaz de falar e de ações motoras minimamente coesas e que através dos filmes da Disney abriu um portal surpreendente de comunicação com o mundo externo. Apenas por esta premissa este filme vale cada segundo de nossa atenção.
+Esse é um horror/trash-drama com grandes dificuldades em dizer quando devemos sentir algo e quando devemos dar risada. Seu momento máximo envolve as montanhas, um rádio e um fogão. Zumbis ainda podem render diferentes tons de filmes, mas nunca passarão de homenagens incidentais a George Romero.
 
-E por quê? Simplesmente porque hoje o mundo enfrenta um desafio global intransponível. Estamos cada vez mais conectados e paradoxalmente desconectados. A comunicação não é mais um desafio tecnológico, mas fundamentalmente humano. E conseguir trazer os autistas para mais perto de nossa tribo mundial está entre um dos objetivos mais nobres e úteis para a sociedade.
+No caso dessa estreia dirigida por Jeff Baena, a dupla Aubrey Plaza e Dane DeHaan fazem os papéis de Beth e Zach. Ambos brigaram e se separaram logo antes de Beth falecer. Como é de se esperar pelo "ótimo" trocadilho do título (Life After Beth, em vez de Death, morte), a jovem ressurge dos mortos e seus pais tentam mantê-la em sua vida como antes, embora Zach insista em trazer à tona o fato dela ter morrido.
 
-Owen é um caso a ser estudado, um exemplo de como a atenção e carinho de pessoas próximas aos autistas -- no caso, os pais -- conseguiu ser a diferença mínima que alterou profundamente seu futuro.
+Tentando sugerir que os pais já estão cientes do comportamento agitado e agressivo dessa versão pós-morte de sua filha, e por isso evitem seu contato com o mundo exterior -- como levá-la ao hospital, por exemplo -- os cansativos diálogos a respeito de como lidar com a situação fazem menos sentido do que a própria ressurreição, que já foi vista e revista em tantos outros filmes que não é mais uma surpresa. Portanto, se torna um alívio quando finalmente as coisas saem dos trilhos, e onde finalmente pode-se notar um pouco de interpretação de Aubrey Plaza, que até então se contentava em virar os olhos no seriado que a trouxe à tona, Parks and Recreation, e outro de seus trabalhos medianos, Sem Segurança Nenhuma.
 
-E isso, infelizmente, o documentário não torna um de seus pilares. Ele prefere o caminho fácil de uma história emocionante: deixe as pessoas falarem, se emocionarem. Use uma narrativa simplista, pavimentada de desenhos que ilustrem o que se passa pela cabeça de Owen. Com isso o filme se rebaixa ao seu nível, e não permite que haja nada mais na história que a pequena introdução que fiz. Essa introdução -- autista usa Disney para se comunicar -- é repetido à exaustão sem acrescentar nada mais. Acompanhamos Owen se formar no colégio, ir morar sozinho, dar um discurso na França e ser aplaudido copiosamente, e nada disso sequer se compara à grande conquista daquela família, que já havia perdido as esperanças quando Owen fez três anos de idade.
+Já Dane DeHaan é um achado desde Poder sem Limites, e interpreta de forma competente o jovem e estupefato Zach, mantendo uma dupla interessante com o pai da menina, o igualmente interessante John C. Reilly. Já os personagens secundários, como a família distante e destoante de Zach, são mais uma distração do que algo relevante, servindo apenas como um pretexto ou explicação de por que o jovem se sente mais próximo da família da garota.
 
-A narrativa conduzida pelo diretor Roger Ross Williams baseado em um livro escrito pelo pai de Owen nunca surpreende, sendo uma sucessão de pequenas reportagens televisivas esteticamente enfadonhas, burocráticas e repetitivas. Lá vem mais um desenho que irá mostrar o que Owen está pensando. Agora Owen está caminhando na praia com o irmão. Agora os pais vão contar mais um detalhe irrelevante e a mãe irá escorrer mais uma lágrima.
+O diretor estreante Jeff Baena, por insegurança ou não, usa constantemente a câmera na mão, o que se torna uma escolha adequada na maioria das cenas e proporciona uma visão pré (e até pós) apocalíptica apropriada. No entanto, onde o clima funciona bem, não faz mais do que repetir outros trabalhos do Cinema e TV. Onde não funciona, a culpa é do seu próprio roteiro sem muita movimentação ou ideias interessantes. O grande atrativo é ir descobrindo aos poucos quais são as regras de zumbificação da vez. Ela terá força descomunal? Vai devorar pessoas que ama? Tem consciência que vai apodrecendo? Seu nível de transformação segue os 90 minutos de um filme?
 
-Sem qualquer paixão pelo projeto, os cineastas andam à deriva e possuem menos senso crítico do que o próprio Owen desenvolveu. Em certo momento há um revés inesperado na vida do jovem, que é tratado como um desastre pela família, uma calamidade, e que logo é racionalizado pelo próprio Owen. Não há drama na história exceto o forçado artificialmente pelo filme, que insiste em sua premissa por cansativos 90 minutos.
-
-Certamente há algo a se aprender com os autistas. Isso já está claro para o mundo e Owen é um brilhante exemplo. Porém, não é se colocando em seu próprio nível histérico de enxergar a realidade ou superestimar suas capacidades que os objetivos de comunicação com essas pessoas especiais e dignas de cuidado serão alcançados. Certamente não com um filme que emula o pior na Disney: suas esquisitices assépticas e simplificadas de como a vida funciona.
+De qualquer forma, não se pode negar que toda a sequência envolvendo um fogão quase que paga por toda a experiência. Quando chegamos a esse ponto dá vontade de que o que estamos vendo naquele momento tivesse um significado maior do que a mera comicidade universal, destacada da história. Infelizmente, é apenas um filme de zumbis com um final feliz e idiota demais para lembrar que havia um drama inserido na história.
 

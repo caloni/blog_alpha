@@ -1,100 +1,28 @@
 ---
 categories:
-- coding
-date: '2016-11-29'
-tags: null
-title: Quantos handles sua aplicação está abrindo?
+- playing
+date: '2023-01-11T10:59:05-03:00'
+link: https://www.chess.com/game/live/67183278085
+tags:
+- chess
+title: Quando tiver a oportunidade de cravar uma peça... crave
 ---
 
-Mesmo que você não programe em C/C++, mas programe para Windows (ex: .NET), sempre há a possibilidade de seu programa estar causando leaks de handles indefinidamente, o que não se traduz em aumento significativo de memória alocada para seu processo, mas é, sim, um problema a ser tratado.
+Brancas jogam e é mate em poucos lances.
 
-Como isso pode ser causado?
-
-Bom, em C/C++ sempre é mais simples de entender esses conceitos. Um código simples que se esquece de fechar o handle usando __CloseHandle__ ou a função equivalente do recurso obtido já seria o suficiente. O último bug que eu encontrei em um código desses comete o clássico erro de sair no meio da função, deixando os recursos alocados:
+{{< image src="board.jpeg" >}}
 
 ```
-DWORD ClassicHandleLeak()
-{
-	DWORD ret = 0;
-	HKEY hKey;
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.11"]
+[White "cavaloni"]
+[Black "ygteysnryhn"]
 
-	if ( RegOpenKeyEx(HKEY_LOCAL_MACHINE, L"Software\\Something", 
-		0, GENERIC_READ, &hKey) == ERROR_SUCCESS )
-	{
-		DWORD retSz = sizeof(ret);
-
-		if (RegQueryValueEx(hKey, L"SomeValue", NULL, NULL, 
-			(PBYTE) &ret, &retSz) == ERROR_SUCCESS)
-		{
-			// success!
-			return ret;
-		}
-
-		RegCloseKey(hKey);
-	}
-
-	return ret;
-}
+1. Nf3 c5 2. e4 Nc6 3. Bc4 e6 4. Nc3 a6 $6 5. a3 $6 b5 6. Ba2 Nf6 7. d3 d5 8. exd5
+exd5 9. O-O Be7 10. Re1 O-O 11. Bf4 Bd6 $2 12. Qd2 $6 Bg4 13. Ne5 Nxe5 14. Bxe5
+Bxe5 15. Rxe5 b4 $2 16. Nxd5 Nxd5 $2 17. Bxd5 Ra7 18. axb4 Rd7 19. c4 Rd6 20. bxc5
+Rg6 21. c6 Bh3 22. Rxa6 Kh8 23. Kh1 Qh4 24. gxh3 f6 25. Re3 f5 26. Qe2 f4 27.
+Re8 Rf6 28. c7 Qxh3 29. Rxf6 1-0
 ```
-
-No exemplo acima quando as coisas dão certo elas também dão errado, já que o retorno do valor no meio da função evita que o HANDLE armazenado em hKey seja desalocado.
-
-E como fazer para descobrir esse tipo de leak?
-
-#### HandleLeaker
-
-O HandleLeaker é apenas um exemplo de aplicação que realiza o leak de um handle por segundo. Ele tenta (e consegue) abrir um handle para seu próprio processo, e deixa o handle aberto (programas em Win32 API não são muito bons em [RAII](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization)).
-
-```
-int main()
-{
-	while (true)
-	{
-		HANDLE h = OpenProcess(PROCESS_QUERY_INFORMATION, FALSE, GetCurrentProcessId());
-		Sleep(1000);
-	}
-}
-```
-
-#### Performance Monitor
-
-O Perfmon(.msc) está aí no Windows já faz algumas versões (quase todas). Tudo que você precisa para executá-lo é executar o comando __perfmon__ no diálogo de execução (Start, Run) ou encontrar o atalho para perfmon.msc. Na busca do Windows 8/10 também é possível encontrá-lo pelo nome.
-
-Ao executá-lo a primeira coisa que ele monitora é o processamento da máquina. Podemos eliminar ou esconder esse indicador direto na lista abaixo da ferramenta.
-
-{{< image src="TSAZhI0.png" caption="" >}}
-
-Existem incontáveis contadores no Perfmon. Para o que precisamos vamos em Process e escolhemos o contador de Handles:
-
-{{< image src="dR2awj1.png" caption="" >}}
-
-Depois de um tempo o Perfmon irá exibir o histórico que determina para onde está indo o seu contador:
-
-{{< image src="smbb54b.png" caption="" >}}
-
-Se os valores do seu contador estão fora da faixa do histórico é possível ajustar a escala nas propriedades:
-
-{{< image src="OYhOMob.png" caption="" >}}
-
-Se a frequência for muito menor do que um handle por segundo (isso acontece, principalmente com serviços que rodam por dias/semanas/meses), é possível mudar também pelas propriedades, mas gerais:
-
-{{< image src="O6wBqBo.png" caption="" >}}
-
-A mudança que fizemos captura o dado monitorado de dez em dez segundos e realiza essa operação por 600 segundos (10 minutos), até repetir o gráfico de histórico:
-
-{{< image src="iyu6PBR.png" caption="" >}}
-
-#### Process Explorer
-
-Outra forma de verificar como andam os handles da máquina é usando a já famosa ferramenta da SysInternals. Através das inúmeras colunas que ela fornece existe o contador de handles de cada processo, através do qual é possível verificar quais são os processos com mais handles abertos:
-
-{{< image src="RATAymD.png" caption="" >}}
-
-{{< image src="mR5c2kk.png" caption="" >}}
-
-Se seu programa for um handle hog, vai conseguir até ver esse leak acontecendo em tempo real (como o nosso programa mal-educado):
-
-{{< image src="gR0Qe9D.gif" caption="" >}}
-
-E como encontrar o código-fonte responsável por esse leak? Mais detalhes em um próximo post.
 

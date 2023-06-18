@@ -1,24 +1,26 @@
 ---
 categories:
 - writting
-date: '2018-12-30T19:10:00-03:00'
+date: '2018-12-30T19:00:00-03:00'
 link: https://www.imdb.com/title/tt0475784
 tags:
 - series
-title: Westworld (Revisita ao S01 com algumas questões e spoilers)
+title: Westworld
 ---
 
-A revisita a Westworld vale muito a pena. Detalhes que só serão revelados no final são percebidos desde o começo, e a experiência se torna única novamente. Em meu primeiro texto não me lembro se liberei spoilers (vendo agora... não), mas este aqui é certeza que terão. Como toda revisita a esta série deve ter.
+Eu fui programado para escrever esse texto? Posso responder, na melhor das hipóteses, que eu estar escrevendo este texto é consequência da soma das minhas ações. No entanto, volta outra pergunta no lugar: eu fui programado para executar tais ações?
 
-Em primeiro lugar, fui desnecessariamente duro com a série em meu primeiro texto. Se trata de uma história necessária para os dias de hoje, e uma história cujo roteirista necessário é possível contar nos dedos. E Jonathan Nolan obviamente está na lista. É dele O Grande Truque, Amnésia e Interestelar. Todos eles possuem algo com Westworld em comum: lidam com mudanças bruscas no tempo, com tempos paralelos e trucagens no tempo.
+A série televisiva -- leia-se: lotada de enchimento de linguiça -- Westworld tenta explorar essa questão nos entregando em sua história um parque temático com representações físicas fidedignas de seres humanos, que interagem com os visitantes como personagens "de carne e osso" do velho oeste. Isso permite que os clientes satisfaçam seus desejos mais profundos, geralmente sádicos e sexuais, e ao mesmo tempo coloca em xeque nossos conceitos de moral e ética.
 
-Aqui a grande trucagem está nos bonecos de Westworld, que por não envelhecerem podem pertencer a períodos temporais distintos. Porém, seus personagens humanos, esses sim, estão bloqueados no tempo e em sua visão limitada da realidade. Os bonecos conseguem reprogramar suas narrativas de maneira muito mais eficiente que um ser humano, embora vivam seus sonhos (e pesadelos) como se fossem a própria vida. Essas diferenças entre humanos e andróides são vitais para entendermos a escalada dessas criaturas para sua merecida liberdade e consciência.
+Mas Westworld é mais que isso. Preso ao parque, o conhecimento e tecnologias desenvolvidos durante décadas está nas mãos de poucos investidores, e a criação de histórias e personagens nas mãos de seu fundador. Isso quer dizer que ainda estamos nos limiares do que torna possível desenvolver "cérebros" capazes de conter memórias e processar os mais diferentes tons de emoções humanas, mas ao mesmo tempo conter a racionalidade dessas máquinas em roteiros feitos não apenas para entreter a platéia, mas controlar os anfitriões em um mundo onde todos carregam facas e pistolas.
 
-Mas isso ainda está em xeque. Terão alguns andróides atingido a consciência, ainda que da forma deles? O que dizer de um programador de androides onde ele próprio é um androide? Ele está consciente?
+As ideias por trás do seriado ultrapassam sua narrativa em anos-luz. Ainda assim, o tratamento dado pelos idealizadores é digna de respeito, pois pensou nos mais diferentes empecilhos para que aquele experimento pioneiro se contivesse ainda em uma espécie de laboratório mental. O preço para isso são personagens mal desenvolvidos e diálogos que se repetem sem muitas vezes querer dizer alguma coisa mais profunda, e mesmo com os mais devidos respeitos ao personagem de Anthony Hopkins, é difícil não entender desde a primeira cena em que ele aparece que este é um estereótipo tão básico quanto os primeiros bonecos colocados no parque (como Dolores, a eterna mocinha que aguarda pelo resgate).
 
-A questão do controle é bem curiosa, também, pois aqui os humanos fazem o papel das forças da natureza, já que humanos estão presos à sua natureza, e os androides, a humanos. Anthony Hopkins faz aqui um de seus melhores papeis, e arcos, e é deles o melhor pacote de frases profundas, embora todos tenham o seu papel na história. Principamente os androides.
+O personagem de Hopkins é o cientista maluco, e sua criação é, no melhor sentido metafórico do tema, fruto dos delírios de um roteirista que tem a possibilidade de criar personalidades que sejam finalmente livres de seu criador. Negar isso é negar a própria essência de sua caricatura, e mesmo que a série constantemente nos jogue uma ideia contrária, sabemos desde o início que Hopkins está lá para chocar. O que, paradoxalmente, é o que acaba menos chocando.
 
-É curioso perceber como humanos pouco mudam durante a temporada, mas os androides, estes sim vivem sua revolução, de forma velada, mas vibrante. É um deleite filosófico acompanhar a narrativa do ponto de vista da capacidade deles adquirirem uma forma de consciência, fora os diferentes símbolos criados para esta consciência.
+Baseado em um filme de 1973 (Westworld: Onde Ninguém tem Alma, de Michael Crichton), a grande sacada da série é subverter a narrativa do original e contar a história sob o ponto de vista dos robôs, o que os dá os primeiros traços de humanidade necessário para que reconheçamos a humanidade dentro deles. Porém, caindo na própria armadilha do plot original, ao ilustrar bonecos como personagens de um filme de terror as pessoas reais da série estão longe de parecer muito diferentes de suas contrapartes de plástico. Aliás, esse truque de comparação é tão velho quanto o primeiro filme de George Romero.
 
-Enfim, apenas um pequeno desabafo de uma das melhores séries ainda em execução. Espero extrair mais conteúdo da minha terceira vez em que assiti-la. Sua complexidade me fascina, mas ao mesmo tempo me consome. Não consigo imaginar como o espectador médio passar por esse martírio.
+E por falar no criador máximo de filmes de zumbi, não deixa de ser igualmente irônico que o único caminho a ser seguido pelo longa de dez horas é justamente se entregar a caricaturas, quebra-cabeças previsíveis (ainda que cercadas por uma narrativa competente em escondê-los) e girar em torno do próprio rabo sobre as questões filosóficas perenes.
+
+E nesse sentido, podemos também concluir com uma pergunta capciosa: os roteiristas de Westworld foram programados para escrever Westworld? Ou foram apenas consequências das ações de bilhões de indivíduos o que nos trouxe aqui? E mais uma vez, outra pergunta volta no lugar: fomos programados para executar tais ações?
 

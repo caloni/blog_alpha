@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2015-12-23'
-link: https://www.imdb.com/title/tt2241605
+date: '2015-09-19'
+link: https://www.imdb.com/title/tt3613454
 tags:
-- movies
-title: Tese Sobre um Homicídio
+- series
+title: Terror in Resonance
 ---
 
-Ricardo Darín é um advogado que dá aulas e testemunhou com seus alunos o corpo de uma garota assassinada na frente de sua sala de aula, na Universidade de Advocacia de Buenos Aires. Na véspera havia ido ao lançamento de seu livro, A Estrutura da Justiça, onde tem uma conversa curiosa com um dos seus alunos, filho de um amigo de longa data. O aluno comenta que sua teoria sobre a justiça é que qualquer um pode matar borboletas se não pertencer a um poderoso, já que a lei só existe para protegê-los. Agora, adivinhe qual o inseto que havia no pingente que estava no pescoço da garota assassinada?
+Esse aparentemente é um seriado de uma temporada apenas, com cada um de seus onze episódios com cerca de 20 minutos ou menos, dando no final das contas um filme de pouco mais de três horas com os famigerados cortes e padrões de mídia japonesa.
 
-Tese Sobre um Homicídio peca pelo exagero em sua trilha sonora, em suas cenas girando, em seu ritmo excessivamente lento e em um diretor que acha que está abafando por inserir seus personagens em cenas que formam um mosaico de informações que lembram a bagunça característica dos quadros de Picasso. O mesmo aluno que citei, que obviamente vira suspeito na teoria que se forma na cabeça do advogado-professor, comenta que a obra-prima de Picasso, para ele, é a que sintetiza todos os sacrifícios feitos para a salvação da humanidade. Tentamos a todo o custo entender as metáforas por trás dessa história, mas o máximo que conseguimos é relacionar a referência da borboleta em O Silêncio dos Inocentes.
+Ambientado no Japão atual, conta a história de dois jovens terroristas, a perseguição das autoridades japonesas e uma influência norte-americana inesperada (embora todos esperassem por isso quando se trata de terrorismo).
 
-No entanto, o mesmo filme consegue atingir sutilezas digna de aplausos, pois quase não há diálogos expositivos, mas através da ação do protagonista e algumas de suas expressões conseguimos detectar o movimento de sua moral atravessando a barreira do que é correto "impetrando" sua vontade de estar certo, mais do que qualquer resquício de justiça que poderia haver por trás da figura de um advogado que adquiriu fama precocemente e agora vive de seus louros lecionando para um grupo seleto de alunos. "Meu metabolismo é estranho", comenta para o amigo sobre ele inverter a ordem de sua profissão. Sabemos que ele também está na fase de garanhão pós-40 ou 50, e seus galanteios em cima de jovens mulheres consegue criar uma relação no mínimo curiosa com seu principal suspeito no assassinato.
+O bom em Terror in Resonance, ainda que soe clichê, são os traços e detalhes realistas, principalmente nos movimentos e na própria história (o YouTube é replicado com exatidão, assim como serviços comuns da internet do nosso tempo). O realismo consegue deixar uma ótima impressão na maior parte do tempo, lembrando a sobriedade com que seriados mais ambiciosos como Breaking Bad tratavam a passagem do tempo. 
 
-Ricardo Darín vive um personagem que é a peça fundamental para este thriller psicológico, pois todas as cenas lhe pertencem. Logo, a realidade que enxergamos no filme pertence unicamente à sua imaginação, seja ela pautada na realidade ou não. Isso com exceção de uma única cena final e as inúmeras visões que ele tem a respeito do que poderia ter acontecido como circunstâncias do assassinato na frente da faculdade. Ele encarna, portanto, um amuleto do espectador, que pode ou não ter um fundo dramático. E talvez o maior pecado do filme seja nunca estabelecer qualquer profundidade de seus personagens, investindo sempre em joguetes baratos de uma investigação que já vimos tantas vezes...
+Talvez alguns não gostem dos personagens destacados do cenário pela paleta de cores, mas isso quase nunca acontece, e quando acontece, tem um motivo interessante: mostrar como esses personagens estão deslocados do mundo normal, das pessoas vivendo duas vidas. Há algo de incomum nos "heróis" e "vilões" de "Terror...", sejam os garotos, a garota que não se dá com a mãe, a garota-surpresa e, é claro, o detetive que tem um passado que se arrepende.
 
-Se redimindo parcialmente em seu final dúbio, Tese Sobre um Homicídio tinha o potencial de ser muito mais do que é, não fosse a prepotência de seus idealizadores. Infelizmente, se trata de um filme misto, com bons momentos -- como uma sequência na farmácia -- e momentos mornos demais para desencadear qualquer grau acima do velho clichê psicológico que conhecemos do gênero.
+Porém, além dos traços, é perceptível a escolha adequada das trilhas, ainda que estas não sejam tão originais, ou até mesmo a edição mantém um ritmo curioso de sempre em movimento do lado de fora, e no caso dos jovens, terroristas mas inteligentes, o movimento é do lado de dentro. Isso fica muito claro quando Twelve realiza suas sessões de hackerismo, onde mais uma vez vemos o realismo agir (aqueles comandos Unix e toda a tralha em volta, incluindo a programação, é factível sim e dá de dez a zero em muitos filmes de ação hollywoodiano que mostram os hackers como criaturas imaturas e que só gostam de mexer em telas gráficas bem transadas).
+
+Conseguindo chamar a atenção e manter a tensão em quase todos seus episódios, suas virtudes infelizmente começam a ruir conforme suas ideias (e seus personagens) se mesclam, colocando um belo castelo de cartas entregue à obviedade latente de produções do gênero, onde nem um dos conflitos principais (por que Five queria ver Twelve, mesmo?) consegue uma conclusão satisfatória. De qualquer forma, não deixa de ser interessante observar pequenos traços contemporâneos, como o liberalismo e o ataque às grandes corporações. Considerando, é claro, que os governos são as maiores e mais violentas corporações contra o indivíduo.
 

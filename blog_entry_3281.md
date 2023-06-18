@@ -1,342 +1,76 @@
 ---
 categories: []
-date: '2008-09-10'
-tags: null
-title: Retorno do PathIsDirectory
+date: '2008-06-03'
+tags:
+- ccppbr
+title: Resultado do Seminário CCPP
 ---
 
-Estava eu outro dia programando aquele código esperto "para ontem" quando me deparei com uma situação no mínimo inusitada. Ao testar se um caminho recebido era de fato um diretório me foi retornado pela API um valor diferente de TRUE. E diferente de FALSE!
+Aconteceu nesse fim-de-semana, como era previsto, o nosso primeiro Seminário CCPP Brasil, com direito a pessoas de todas as idades e origens, mas todas com algo em comum: a paixão e o interesse pelas linguagens-mestre do mundo da programação.
 
-De acordo com a documentação, o retorno deveria ser TRUE caso o caminho enviado à função fosse de fato um diretório. Caso contrário, o retorno deveria ser FALSE.
+{{< image src="seminario.jpg" caption="Seminário CCPP Portabilidade Performance" >}}
 
-Note que existem apenas dois valores possíveis para essa função. Porém, o valor retornado não é 1, o equivalente ao define TRUE, mas sim 0x10 (16 em hexadecimal). O simples exemplo abaixo deve conseguir reproduzir a situação (Windows XP Service Pack 3):
+Começo esse artigo agradecendo a todos os que direta e indiretamente participaram para o sucesso do evento, entre eles os organizadores, o carro-chefe responsável por acordar o espírito C++ da galera no início do ano, os palestrantes e, claro, óbvio, toda a comunidade C++ que participou em corpo (vulgo hardware) e alma (vulgo software).
 
-    Setting environment for using Microsoft Visual Studio 2008 x86 tools.
-    
-    C:\Tests>copy con IsPathDir.cpp
-    #include <shlwapi.h>
-    #include <windows.h>
-    #include <stdio.h>
-    
-    #pragma comment(lib, "shlwapi.lib")
-    
-    int main()
-    {
-            BOOL isDir = PathIsDirectory("C:\\Tests"); // obs.: diretorio TEM que existir
-            printf("Resultado: %d.\n", isDir);
-    }^Z
-            1 arquivo(s) copiado(s).
-    
-    C:\Tests>cl IsPathDir.cpp
-    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
-    Copyright (C) Microsoft Corporation.  All rights reserved.
-    
-    IsPathDir.cpp
-    Microsoft (R) Incremental Linker Version 9.00.21022.08
-    Copyright (C) Microsoft Corporation.  All rights reserved.
-    
-    /out:IsPathDir.exe
-    IsPathDir.obj
-    
-    C:\Tests>IsPathDir.exe
-    Resultado: 16.
+Termino a introdução fazendo uma minicrítica ao preço pago pelos participantes. Não que eu ache que seja muito, pelo contrário: dado o alto nível técnico das palestras, parece até mentira termos acesso a um evento com essa estrutura por tão pouco. Porém, o muito e o pouco são relativos, e ainda acredito que existam pessoas que não vão aos encontros por falta de recursos. Por isso mesmo vai um apelo para que nos futuros encontros tenhamos alguma forma de permitir às pessoas menos favorecidas de participar democraticamente dessa que é a expressão viva das linguagens C e C++ em nosso país.
 
-Isso quer dizer apenas que o código abaixo vai funcionar,
+Vamos às palestras!
 
-    if( PathIsDirectory(path) ) // legal: qualquer coisa diferente de zero
+## Dicas e Truques de Portabilidade, por Wanderley Caloni
 
-o código abaixo vai funcionar
+{{< image src="seminario-caloni.jpg" caption="Seminário Caloni" >}}
 
-    if( ! PathIsDirectory(path) ) // legal: se der zero (FALSE), OK
+É muito difícil analisar uma palestra feita por você mesmo. É mais difícil ainda quando essa palestra é a primeira de uma batelada de argumentações de alto nível técnico que seguiram o dia. Posso dizer, no entanto, que consegui o que queria quando fui para o evento: demonstrar as dificuldades e as facilidades de tornar um código portável, independente se entre sistemas operacionais, ambientes ou compiladores.
 
-e o código abaixo não vai funcionar:
+Foi visto primeiramente o que faz da portabilidade uma coisa difícil. Detalhes como sintaxe e gramática fazem toda a diferença quando o que se almeja é um código limpo de imperfeições trazidas pelo ambiente de desenvolvimento. Também foi dada especial atenção às famigeradas extensões de compiladores, que fazem a linguagem parecer uma coisa que não é.
 
-    if( PathIsDirectory(path) == TRUE ) // vixi: TRUE nem sempre é o resultado
+Por fim, foram apresentadas algumas sugestões movidas pela experiência e estudo dessas mesmas dificuldades. Para ilustrar, dois exemplos bem vivos de como um código portável deve se comportar, tanto no código-fonte quanto em sua documentação.
 
-E, pior, o código abaixo também não vai funcionar!
+## Programação Concorrente com C++, por Fábio Galuppo
 
-    if( PathIsDirectory(path) != TRUE ) // aff... é bom rever os seus conceitos
+{{< image src="seminario-galuppo.jpg" caption="Seminário Galuppo" >}}
 
-Pesquisando um pouco descobri uma boa discussão sobre o tema, e inclusive que outras pessoas descobriram o interessante detalhe que para pastas normais o retorno é 0x10, mas para compartilhamentos o retorno é 0x1.
+Para quem está acostumado com os temas geralmente "gerenciados" de Fábio Galuppo com certeza deve ter se surpreendido com a descrição teórica dos inúmeros problemas que cercam a vida do programador multithreading. O palestrante partiu do mais simples, o conceito de threads, conceito que, segundo ele mesmo, pode ser explicado em 15 minutos, para algo mais sutil e que gera muitos erros escondidos: o conceito de locks (semáforos, mutexes, etc).
 
-#### O bug atrás dos documentos
+Os programadores em nível de sistema devem ter adorado o contexto histórico dos problemas (você sabia que o primeiro lock inventado foi o semáforo?) tanto quanto o contexto teórico (explicação sobre modelo de memória).
 
-O problema ocorre por causa da maneira que a função determina se o caminho é um diretório ou não. Uma simples vistoria sobre a função nos revela o detalhe crucial:
+Um destaque especial foram os experimentos com código rodando de verdade no Visual Studio, como o exemplo que tenta criar o maior número de threads possível na arquitetura 64. Simplesmente assustador!
 
-    C:\Tests>cl /Zi IsPathDir.cpp
-    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
-    Copyright (C) Microsoft Corporation.  All rights reserved.
-    
-    IsPathDir.cpp
-    Microsoft (R) Incremental Linker Version 9.00.21022.08
-    Copyright (C) Microsoft Corporation.  All rights reserved.
-    
-    /out:IsPathDir.exe
-    /debug
-    IsPathDir.obj
-    
-    C:\Tests>cdb IsPathDir.exe
-    
-    Microsoft (R) Windows Debugger Version 6.8.0004.0 X86
-    Copyright (c) Microsoft Corporation. All rights reserved.
-    
-    CommandLine: IsPathDir.exe
-    Symbol search path is: SRV*c:\symbols*http://msdl.microsoft.com/download/symbols
-    Executable search path is:
-    ModLoad: 00400000 00426000   IsPathDir.exe
-    ModLoad: 7c900000 7c9b4000   ntdll.dll
-    ModLoad: 7c800000 7c8ff000   C:\WINDOWS\system32\kernel32.dll
-    ModLoad: 77ea0000 77f16000   C:\WINDOWS\system32\SHLWAPI.dll
-    ModLoad: 77f50000 77ffb000   C:\WINDOWS\system32\ADVAPI32.dll
-    ModLoad: 77db0000 77e41000   C:\WINDOWS\system32\RPCRT4.dll
-    ModLoad: 77e50000 77e97000   C:\WINDOWS\system32\GDI32.dll
-    ModLoad: 7e360000 7e3f0000   C:\WINDOWS\system32\USER32.dll
-    ModLoad: 77bf0000 77c48000   C:\WINDOWS\system32\msvcrt.dll
-    (ea0.de0): Break instruction exception - code 80000003 (first chance)
-    eax=00241eb4 ebx=7ffde000 ecx=00000004 edx=00000010 esi=00241f48 edi=00241eb4
-    eip=7c901230 esp=0012fb20 ebp=0012fc94 iopl=0         nv up ei pl nz na po nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000202
-    ntdll!DbgBreakPoint:
-    7c901230 cc              int     3
-    0:000> g shlwapi!PathIsDirectoryA
-    ModLoad: 76360000 7637d000   C:\WINDOWS\system32\IMM32.DLL
-    ModLoad: 62e80000 62e89000   C:\WINDOWS\system32\LPK.DLL
-    ModLoad: 74d50000 74dbb000   C:\WINDOWS\system32\USP10.dll
-    eax=009836e0 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0006f4cc edi=7c911970
-    eip=77ee7538 esp=0012ff6c ebp=0012ff78 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    SHLWAPI!PathIsDirectoryA:
-    77ee7538 8bff            mov     edi,edi
-    0:000> p
-    eax=009836e0 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0006f4cc edi=7c911970
-    eip=77ee753a esp=0012ff6c ebp=0012ff78 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    SHLWAPI!PathIsDirectoryA+0x2:
-    77ee753a 55              push    ebp
-    0:000>
-    eax=009836e0 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0006f4cc edi=7c911970
-    eip=77ee753b esp=0012ff68 ebp=0012ff78 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    SHLWAPI!PathIsDirectoryA+0x3:
-    77ee753b 8bec            mov     ebp,esp
-    0:000>
-    eax=009836e0 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0006f4cc edi=7c911970
-    eip=77ee753d esp=0012ff68 ebp=0012ff68 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    SHLWAPI!PathIsDirectoryA+0x5:
-    77ee753d 81ec0c020000    sub     esp,20Ch
-    0:000>
-    eax=009836e0 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0006f4cc edi=7c911970
-    eip=77ee7543 esp=0012fd5c ebp=0012ff68 iopl=0         nv up ei pl nz ac pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000216
-    SHLWAPI!PathIsDirectoryA+0xb:
-    77ee7543 a180d2f077      mov     eax,dword ptr [SHLWAPI!__security_cookie
-    0:000>
-    eax=00007a43 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0006f4cc edi=7c911970
-    eip=77ee7548 esp=0012fd5c ebp=0012ff68 iopl=0         nv up ei pl nz ac pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000216
-    SHLWAPI!PathIsDirectoryA+0x10:
-    77ee7548 56              push    esi
-    0:000>
-    eax=00007a43 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0006f4cc edi=7c911970
-    eip=77ee7549 esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl nz ac pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000216
-    SHLWAPI!PathIsDirectoryA+0x11:
-    *** WARNING: Unable to verify checksum for IsPathDir.exe
-    77ee7549 8b7508          mov     esi,dword ptr [ebp+8] ss:0023:0012ff70=0041dc5c
-    0:000>
-    eax=00007a43 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0041dc5c edi=7c911970
-    eip=77ee754c esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl nz ac pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000216
-    SHLWAPI!PathIsDirectoryA+0x14:
-    77ee754c 85f6            test    esi,esi
-    0:000>
-    eax=00007a43 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0041dc5c edi=7c911970
-    eip=77ee754e esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl nz na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000206
-    SHLWAPI!PathIsDirectoryA+0x16:
-    77ee754e 8945fc          mov     dword ptr [ebp-4],eax ss:0023:0012ff64=fffffffe
-    0:000>
-    eax=00007a43 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0041dc5c edi=7c911970
-    eip=77ee7551 esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl nz na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000206
-    SHLWAPI!PathIsDirectoryA+0x19:
-    77ee7551 0f8493000000    je      SHLWAPI!PathIsDirectoryA+0xb2 (77ee75ea) [br=0]
-    0:000>
-    eax=00007a43 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0041dc5c edi=7c911970
-    eip=77ee7557 esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl nz na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000206
-    SHLWAPI!PathIsDirectoryA+0x1f:
-    77ee7557 56              push    esi
-    0:000>
-    eax=00007a43 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0041dc5c edi=7c911970
-    eip=77ee7558 esp=0012fd54 ebp=0012ff68 iopl=0         nv up ei pl nz na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000206
-    SHLWAPI!PathIsDirectoryA+0x20:
-    77ee7558 e85cc0fdff      call    SHLWAPI!PathIsUNCServerA (77ec35b9)
-    0:000>
-    eax=00000000 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0041dc5c edi=7c911970
-    eip=77ee755d esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    SHLWAPI!PathIsDirectoryA+0x25:
-    77ee755d 85c0            test    eax,eax
-    0:000>
-    eax=00000000 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0041dc5c edi=7c911970
-    eip=77ee755f esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    SHLWAPI!PathIsDirectoryA+0x27:
-    77ee755f 0f8585000000    jne     SHLWAPI!PathIsDirectoryA+0xb2 (77ee75ea) [br=0]
-    0:000>
-    eax=00000000 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0041dc5c edi=7c911970
-    eip=77ee7565 esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    SHLWAPI!PathIsDirectoryA+0x2d:
-    77ee7565 56              push    esi
-    0:000>
-    eax=00000000 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0041dc5c edi=7c911970
-    eip=77ee7566 esp=0012fd54 ebp=0012ff68 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    SHLWAPI!PathIsDirectoryA+0x2e:
-    77ee7566 e812feffff      call    SHLWAPI!PathIsUNCServerShareA (77ee737d)
-    0:000>
-    eax=00000000 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0041dc5c edi=7c911970
-    eip=77ee756b esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    SHLWAPI!PathIsDirectoryA+0x33:
-    77ee756b 85c0            test    eax,eax
-    0:000>
-    eax=00000000 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0041dc5c edi=7c911970
-    eip=77ee756d esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    SHLWAPI!PathIsDirectoryA+0x35:
-    77ee756d 0f8486000000    je      SHLWAPI!PathIsDirectoryA+0xc1 (77ee75f9) [br=1]
-    0:000>
-    eax=00000000 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0041dc5c edi=7c911970
-    eip=77ee75f9 esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    SHLWAPI!PathIsDirectoryA+0xc1:
-    77ee75f9 56              push    esi
-    0:000>
-    eax=00000000 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0041dc5c edi=7c911970
-    eip=77ee75f9 esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    SHLWAPI!PathIsDirectoryA+0xc1:
-    77ee75f9 56              push    esi
-    0:000>
-    eax=00000000 ebx=7ffde000 ecx=00000001 edx=00422828 esi=0041dc5c edi=7c911970
-    eip=77ee75fa esp=0012fd54 ebp=0012ff68 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    SHLWAPI!PathIsDirectoryA+0xc2:
-    77ee75fa ff15d411ea77    call    dword ptr [SHLWAPI!_imp__GetFileAttributesA (77ea11d4)]
-    0:000>
-    eax=00000011 ebx=7ffde000 ecx=7c91056d edx=00140608 esi=0041dc5c edi=7c911970
-    eip=77ee7600 esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    SHLWAPI!PathIsDirectoryA+0xc8:
-    77ee7600 83f8ff          cmp     eax,0FFFFFFFFh
-    0:000>
-    eax=00000011 ebx=7ffde000 ecx=7c91056d edx=00140608 esi=0041dc5c edi=7c911970
-    eip=77ee7603 esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl nz ac pe cy
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000217
-    SHLWAPI!PathIsDirectoryA+0xcb:
-    77ee7603 74e5            je      SHLWAPI!PathIsDirectoryA+0xb2 (77ee75ea) [br=0]
-    0:000>
-    eax=00000011 ebx=7ffde000 ecx=7c91056d edx=00140608 esi=0041dc5c edi=7c911970
-    eip=77ee7605 esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl nz ac pe cy
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000217
-    SHLWAPI!PathIsDirectoryA+0xcd:
-    77ee7605 83e010          and     eax,10h
-    0:000>
-    eax=00000010 ebx=7ffde000 ecx=7c91056d edx=00140608 esi=0041dc5c edi=7c911970
-    eip=77ee7608 esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl nz na po nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000202
-    SHLWAPI!PathIsDirectoryA+0xd0:
-    77ee7608 ebe2            jmp     SHLWAPI!PathIsDirectoryA+0xb4 (77ee75ec)
-    0:000>
-    eax=00000010 ebx=7ffde000 ecx=7c91056d edx=00140608 esi=0041dc5c edi=7c911970
-    eip=77ee75ec esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl nz na po nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000202
-    SHLWAPI!PathIsDirectoryA+0xb4:
-    77ee75ec 8b4dfc          mov     ecx,dword ptr [ebp-4] ss:0023:0012ff64=00007a43
-    0:000>
-    eax=00000010 ebx=7ffde000 ecx=00007a43 edx=00140608 esi=0041dc5c edi=7c911970
-    eip=77ee75ef esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl nz na po nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000202
-    SHLWAPI!PathIsDirectoryA+0xb7:
-    77ee75ef 5e              pop     esi
-    0:000>
-    eax=00000010 ebx=7ffde000 ecx=00007a43 edx=00140608 esi=0006f4cc edi=7c911970
-    eip=77ee75f0 esp=0012fd5c ebp=0012ff68 iopl=0         nv up ei pl nz na po nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000202
-    SHLWAPI!PathIsDirectoryA+0xb8:
-    77ee75f0 e82bcafbff      call    SHLWAPI!__security_check_cookie (77ea4020)
-    0:000>
-    eax=00000010 ebx=7ffde000 ecx=00007a43 edx=00140608 esi=0006f4cc edi=7c911970
-    eip=77ee75f5 esp=0012fd5c ebp=0012ff68 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    SHLWAPI!PathIsDirectoryA+0xbd:
-    77ee75f5 c9              leave
-    0:000>
-    eax=00000010 ebx=7ffde000 ecx=00007a43 edx=00140608 esi=0006f4cc edi=7c911970
-    eip=77ee75f6 esp=0012ff6c ebp=0012ff78 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    SHLWAPI!PathIsDirectoryA+0xbe:
-    77ee75f6 c20400          ret     4
-    0:000>
-    eax=00000010 ebx=7ffde000 ecx=00007a43 edx=00140608 esi=0006f4cc edi=7c911970
-    eip=0040101f esp=0012ff74 ebp=0012ff78 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    IsPathDir!main+0xf:
-    0040101f 8945fc          mov     dword ptr [ebp-4],eax ss:0023:0012ff74=00000001
-    0:000>
-    eax=00000010 ebx=7ffde000 ecx=00007a43 edx=00140608 esi=0006f4cc edi=7c911970
-    eip=00401022 esp=0012ff74 ebp=0012ff78 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    IsPathDir!main+0x12:
-    00401022 8b45fc          mov     eax,dword ptr [ebp-4] ss:0023:0012ff74=00000010
-    0:000>
-    eax=00000010 ebx=7ffde000 ecx=00007a43 edx=00140608 esi=0006f4cc edi=7c911970
-    eip=00401025 esp=0012ff74 ebp=0012ff78 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    IsPathDir!main+0x15:
-    00401025 50              push    eax
-    0:000>
-    eax=00000010 ebx=7ffde000 ecx=00007a43 edx=00140608 esi=0006f4cc edi=7c911970
-    eip=00401026 esp=0012ff70 ebp=0012ff78 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    IsPathDir!main+0x16:
-    00401026 6868dc4100      push    offset IsPathDir!__xt_z+0x12c (0041dc68)
-    0:000>
-    eax=00000010 ebx=7ffde000 ecx=00007a43 edx=00140608 esi=0006f4cc edi=7c911970
-    eip=0040102b esp=0012ff6c ebp=0012ff78 iopl=0         nv up ei pl zr na pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
-    IsPathDir!main+0x1b:
-    0040102b e81a000000      call    IsPathDir!printf (0040104a)
-    0:000>
-    Resultado: 16.
-    eax=0000000f ebx=7ffde000 ecx=004010e5 edx=004228b8 esi=0006f4cc edi=7c911970
-    eip=00401030 esp=0012ff6c ebp=0012ff78 iopl=0         nv up ei ng nz ac pe nc
-    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000296
-    IsPathDir!main+0x20:
-    00401030 83c408          add     esp,8
-    0:000>
+Se por um lado faltou tempo para explicar os usos e princípios das bibliotecas de programação paralela disponíveis e mais usadas do mercado, por outro a palestra preencheu uma lacuna importante na minha primeira palestra sobre threads em C++, demonstrando os erros mais comuns e o que não se deve fazer em programas que rodam mais de uma thread.
 
-Ou seja, para pastas locais a função simplesmente usa a conhecidíssima GetFileAttributes, que retorna o flag 0x10 setado caso se trate de uma pasta, de acordo com a documentação: "The attributes can be one or more of the following values:"
+Mais uma vez voltando à teoria, a palestra foca mais uma vez em bons princípios de design, como o padrão de projeto monitor e a descrição dos modelos onde é justificado o uso de mais de uma thread no programa.
 
-    Return code/value              Description
+## Programação Multiplataforma Usando STL e Boost, por Rodrigo Strauss
 
-    FILE_ATTRIBUTE_ARCHIVE         A file or directory that is an archive file or directory.
-    32
-    0x20
+{{< image src="seminari-strauss.jpg" caption="Seminário Strauss" >}}
 
-    FILE_ATTRIBUTE_COMPRESSED      A file or directory that is compressed.
-    2048
-    0x800
-    ...
-    
-    FILE_ATTRIBUTE_DIRECTORY       The handle that identifies a directory.
-    16
-    0x10
+Como sempre, Strauss está apaixonado pelo Boost (e a STL). Descrevendo as partes mais importantes que todo programador C++ moderno deve saber sobre essas bibliotecas, ambas modernas, a palestra focou principalmente no uso do dia-a-dia, e as vantagens produtivas que o C++ atual pode ter sobre o velho e tradicional programa em C com listas encadeadas artesanais.
 
-Aqui termina nossa dúvida sobre o pequenino bug na documentação. E isso nos lembra também que é sempre bom comparar as coisas da melhor maneira possível. E essa melhor maneira em se tratando de ifs é supor apenas dois valores binário: ou é zero ou é não-zero.
+Entre as coisas mais importantes citadas, que todo programador do novo século deveria saber, estão:
+
+ - A total falta da necessidade de desalocarmos objetos manualmente em nossos programas, visto que o auto_ptr (STL) e shared_ptr (Boost) dão conta do recado de maneira impecável.
+
+ - A total falta da necessidade de usarmos aqueles velhos arrays em C que quase nunca sabemos o tamanho exato para guardar nossos valores (e que continuamente colocávamos com o tamanho 100, MAX_PATH, ou UM_OUTRO_DEFINE_COMUM_EM_LINUX). A classe boost::array provê todas as funcionalidades básicas, além das avançadas, do uso de arrays tradicionais, sem qualquer overhead adicional de um array em C.
+
+ - A total falta de necessidade de ficar convertendo strings e inteiros. Com a ajuda da classe std::string e de construções geniais como lexical_cast (Boost), felizmente podemos deixar nossas velhas funções que precisavam de um buffer, como _itoa (embora não-padrão).
+
+Enfim, para quem pôde ver, a palestra focou nos princípios que farão hoje em dia um programador C++ completo, profissional e que, como seus colegas de outras linguagens, se preocupa igualmente com a produtividade de seu código. Ah, sim, e não gosta nem um pouco de reinventar a roda.
+
+## Técnicas de Otimização de Código, por Rodrigo Kumpera & André Tupinambá
+
+{{< image src="seminario-otimizacao1.jpg" caption="Seminário Kumpera" >}}
+
+Aparentemente o que pensei que seria, em minha sincera opinião, um desastre (dois palestrantes falando sobre a mesma coisa) se transformou em uma combinação estupenda de teoria e prática aplicadas à arte de otimização de código. Rodrigo e André conseguiram destrinchar o tema harmoniosamente, sempre dividido entre técnicas avançadas (algumas demonstradas pela experiência dos palestrantes) e teoria disciplinar, que visa alertar o wannabe que otimizar pode ser uma coisa boa; porém, preste atenção aos que já fizeram isso têm a dizer.
+
+Com uma didática impecável, o novato nesse tema (como eu) pôde ver as dificuldades de conseguir determinar o objetivo de todo otimizador de código que, segundo eles, deve estar sempre atento na máxima de que "toda otimização é na verdade uma troca". Ou seja, se o programador quer melhor processamento, pagará com memória, se quiser otimizar espaço na RAM, irá gastar mais com processamento e/ou disco, e assim por diante.
+
+{{< image src="seminario-otimizacao2.jpg" caption="Seminário Tupinambá" >}}
+
+Foram apresentados exemplos reais de otimização, além de dicas muito importantes sobre o comportamento das compilações de cada dia.  Você sabia, por exemplo, que ao declarar em escopos mais locais suas variáveis usadas apenas em pequenos trechos de código estará dando uma poderosa dica ao compilador para que ele consiga usar os registradores no máximo de sua capacidade?
+
+Ao final, como é de praxe, tivemos um sorteio de ótimos livros sobre programação e C++ em geral, com destaque aos livros do Herb Sutter. Rodrigo Strauss, conhecido fundador dos encontros, recebeu sua mais que merecida homenagem ao receber um de seus livros autografados. É o mais novo MVP da comunidade!
+
+E por falar em comunidade, e agora podemos ver claramente, estamos com uma força bem maior do que no início do ano. A seqüência de ótimos eventos, além de nossos mestres do conselho Jedi de programadores C++, prova finalmente que, se depender da qualidade dos desenvolvedores, o Brasil pode sim ser uma poderosa fonte de programas de qualidade que façam coisas bem mais interessantes do que acessar um banco SQL. Nós já temos a matéria-prima.
+
+Imagens do evento cedidas por Fernando Roberto (valeu, Ferdinando!).
 

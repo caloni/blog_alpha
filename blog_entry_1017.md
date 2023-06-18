@@ -1,42 +1,33 @@
 ---
 categories:
 - coding
-date: '2009-05-25'
+date: 2018-01-23 20:40:50-02:00
 tags: null
-title: Como compilar em somente um passo
+title: Como Apagar o Prompt do seu Programa Windows
 ---
 
-Uma das primeiras perguntas do [teste do Joel](http://brazil.joelonsoftware.com/Articles/TheJoelTest.html) é saber se você pode compilar todo o projeto em apenas um passo. Essa é uma **questão essencial** e um desafio para muitas equipes. Perdem-se horas sagradas para gerar um novo Release.
+Geralmente se cria um projeto console/prompt quando há a necessidade de interfacear com o usuário com o uso da tela preta, saída padrão, etc. E no caso do Windows também há a possibilidade de criar um programa Win32 onde não há prompt, pois a função do programa ou é ser invisível ou criar, sabe como é, janelas. Mas nenhum dos dois possibilita ambos ao mesmo tempo. Este snippet permite que você faça isso.
 
-Compilação automática geralmente está disponível nas ferramentas de desenvolvimento. Se você estiver usando o Visual Studio, por exemplo, é possível fazer isso com uma linha:
+```
+void check_console() 
+{
+  HWND console = GetConsoleWindow(); // obtém a janela do console atual
+  if (! console) return; // se não tiver, paciência
+  unsigned long pid; // vamos pegar o pid do processo relacionado a este console
+  if (! GetWindowThreadProcessId(console, &pid)) return; // se não der, paciência também
+  if (GetCurrentProcessId() != pid) return; // se não formos nós os que criamos este prompt deixa quieto
+  FreeConsole(); // somos nós que criamos: desaloca o console e já eras
+}
 
-    devenv minha-solução.sln /Rebuild Release
+int main()
+{
+    check_console();
+}
+```
 
-Se não for exatamente o que você precisa, basta fazer uma [pesquisa de quinze minutos](http://www.google.com/search?q=visual%20studio%20automatic%20build) e encontrar os parâmetros corretos. O objetivo é: **eu rodo esse comando em cima do projeto inteiro em uma máquina zerada e ele simplesmente compila**.
+Para isso funcionar você criar um projeto console no Visual Studo. Essa opção está no Linker, System:
 
-#### Múltiplas soluções
+{{< image src="uWYtwqL.png" caption="" >}}
 
-É lógico que ter apenas um _solution/workspace_ para guardar projetos médios e grandes é inviável. Demora para carregar no ambiente e possuem dezenas de dependências. Isso já foi tentado duas vezes nas duas empresas em que trabalhei e não funcionou. Talvez por isso seja necessário criar um _script_ que rode o comando acima para todas as soluções do projeto, o que não muda muito o _modus operandi_ da coisa:
-
-    
-    call :Build ..\Libraries\Libraries.sln
-    call :Build ..\Services\Services.sln
-    call :Build ..\Drivers\Drivers.sln
-    call :Build ..\Tools\Tools.sln
-    goto :eof
-
-    
-    :Build
-    echo %1...
-    devenv "%1" /Rebuild Release
-    exit /b %errorlevel%
-
-Note que meu script usa a estrutura padronizada dos diretórios de um projeto, onde cada tipo de componente tem sua pasta e solução.
-
-Aos poucos você pode ir colocando "frescurinhas" em seu build (executa Debug e Release, roda automatizado no servidor, faz testes unitários, incrementa o número da versão, ...), mas algumas premissas sempre se mantêm:
-
-  * Deve ser possível compilar o projeto inteiro em um passo
-  * Deve ser possível usar qualquer máquina de desenvolvimento para isso
-
-Regras simples de ser seguidas se você usar sempre a máxima do [KISS](http://en.wikipedia.org/wiki/KISS_principle).
+E voilà!
 

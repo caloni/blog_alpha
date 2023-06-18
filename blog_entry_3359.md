@@ -1,13 +1,14 @@
 ---
 categories:
 - writting
-date: '2021-11-16T21:35:55-03:00'
+date: '2017-04-16'
+link: https://www.imdb.com/title/tt6304676
 tags:
-- movies
-title: Samy I Yo
+- series
+title: Samurai Gourmet
 ---
 
-Esta comédia estilo Woody Allen argentino com Ricardo Darín está na Amazon Prime sem legendas em português. Há legendas em espanhol, que foi uma experiência diferente. Não é preciso entender muito mais do que isto: escritor fracassado de meia-idade (e judeu, claro) é catapultado por colombiana misteriosa (e deliciosa) para o show business. Seu tom deprimido é o motivo de seu sucesso. Ele não pode se sentir bem ou sua audiência cai. E precisa ajudar seu sobrinho com seu bar Mitzvah.
+No meio de tantas séries televisivas sobre cozinhar, eis uma série sobre degustar. Samurai Gourmet é baseado em quadrinhos e mantém seu personagem-título sob controle criativo das ótimas expressões do ator Naoto Takenaka. Ele se aposentou recentemente e irá agora explorar diferentes restaurantes, bares e cafés, revivendo os velhos dilemas que clientes desses lugares possuem. Nós simpatizamos com Takeshi Kasumi porque, assim como ele, ficamos sem jeito de reclamar quando a comida está ruim, ou quando pessoas barulhentas ou mal-educadas desrespeitam o ritual de uma refeição.
 
-Samy I Yo brinca o tempo todo com o clichê dessa sinopse e seus detalhes periféricos, clichê como sua época denuncia. Ele está apontando o tempo todo para Woody Allen, mas sua tentativa de criar algo novo, mais latino, é louvável. E de certa forma adorável. Ruim, mas divertido.
+Sua visão do que deveria ser feito é imaginada como no velho Japão, onde um samurai sem dono também vaga de bar em bar, e ensina aos outros como se deve viver. Não chega a ser um drama de ação, mas de lições. Lições divertidas, de moral e positivas. Assim como Tokyo Stories, uma série para ser degustada com calma, e que vai lhe dar muita fome.
 

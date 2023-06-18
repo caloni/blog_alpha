@@ -1,22 +1,16 @@
 ---
 categories:
 - writting
-date: '2016-10-16'
-link: https://www.imdb.com/title/tt0426769
+date: '2014-04-05'
+link: https://www.imdb.com/title/tt0472160
 tags:
-- series
-title: Peppa Pig
+- movies
+title: Penelope
 ---
 
-Eis um desenho que preza por histórias sucintas, rápidas e simples, ligeiramente divertidas e que estão atreladas ao fato da família principal ser constituída de porcos.
+Peguemos um livro de contos infantis e transformemos em um filme live-action (com atores de carne-e-osso). Pode ser aquela história da maldição da empregada que é renegada pelo seu amor de um aristocrata, de novo?, e cuja mãe é uma bruxa e roga uma praga que transforma a primeira filha da família de sangue azul em uma abominação. Quer dizer, o nome "abominação" vai depender de quem consegue enxergar na bela Christina Ricci um monstro, quando no fundo a única coisa que incomoda em seu visual são suas orelhas flácidas e seu focinho de porco. Nada que justifique tantas janelas quebradas de pretendentes que parecem ter se encontrado com uma besta selvagem prestes a devorá-los.
 
-Aliás, mais do que isso. São porcos que vivem em uma casa, possuem um carro. Sua filha -- a Peppa do título -- vai a aulas de balé. Seus pais são gordos e simpáticos. Seus avós são ativos. Enfim, uma família normal que passa por peculiaridades que toda família passa.
+Porém, a virada de expectativas que o filme prometia, onde o monstro não é Christina Ricci, mas a sociedade onde ela vive (família inclusa), ele alcança defeituoso. Nas amizades que a garota ganha quando escolhe sua independência, incluindo a bonitinha Reese Witherspoon, há uma crítica ácida sobre as pessoas que buscam contato com pessoas famosas em algum lugar, mas que se perde no roteiro de Leslie Caveny, acostumado com produções televisivas de fácil degustação e pouca recompensa cinéfila. E o que dizer da reviravolta bobinha a respeito do que poderia quebrar a maldição?
 
-O desenho é tão simples que lembra rabiscos bem feitos com lápis de cor, o que deve empolgar particularmente as crianças menores (e meu sobrinho de 2 anos é prova viva disso). É fácil de entender os acontecimentos e os desenhos em torno deles (que envolve a família de porcos e outros animais), mas eles são feitos em um nível de inteligência acima de esquisitices mais precoces como Teletubbies ou Galinha Pintadinha (essa nem desenho é, são video-clipes infantis).
-
-O curioso é que não existe trama. Não há algo a ser corrigido, nem nada a ser aprendido. É um desenho sobre a  própria vida e como a vivemos. Mesmo trabalhos mais naturalistas como Meu Amigo Totoro se alimentam de tensão -- no caso de Totoro, a mãe doente -- mas aqui não há espaço para estratégias que envolvam três atos. A atenção dos pequeninos é limitada, e tudo tem que estar acontecendo naquele exato momento. Viva o agora, esse é o lema.
-
-E se trata de um bom lema. Fugindo do formato convencional das obras narrativas que possuem a ambição de passar alguma lição valiosa sobre a vida (algo meio inútil para pequeninos com a racionalidade subdesenvolvida), Peppa Pig só quer refletir a própria vida em forma de rascunhos para que crianças aos poucos percebam as semelhanças com suas próprias vidinhas.
-
-Para adultos, é fácil assistir dois, quatro, seis, doze episódios seguidos. E nem precisa ter muita atenção. Basta relaxar e se deixar levar por um monte de rabiscos que formam uma história simples, dessas que vivemos no dia a dia. De vez em quando arte é apenas percebermos que estamos vivos, mesmo que seja pela tela de uma televisão.
+Entre altos e baixos Penélope alcança o seu divertimento moderado em poucos momentos onde é claro se devemos rir ou chorar (incluindo a "moral de história"). Um passatempo televisivo que se veste como Cinema, contudo, não merece muita atenção. Sobre o que falávamos, mesmo?
 

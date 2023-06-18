@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2019-04-13'
+date: '2016-08-30'
 tags:
-- wine
-title: La Poderosa
+- food
+title: La Perdices Petit Verdot 2015
 ---
 
-Em homenagem ao genocida Che Guevara quando deu seu rolê de bike pelo deserto. É vinho meio amargo, sem estrutura. Del Fin Del Mundo.
+Um vinho agradável, meio azedo, mas com um sabor que se mantém agradável em todo momento.
 

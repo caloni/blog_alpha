@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2013-07-19'
-link: https://www.imdb.com/title/tt1046947
+date: '2021-05-28'
+link: https://www.imdb.com/title/tt1506339
 tags:
-- movies
-title: Tinha Que Ser Você
+- animes
+title: Time of Eve (Eve no jikan)
 ---
 
-Eu sei que o desfecho final possui vários defeitos. É esquemático porque segue à risca a cartilha das comédias românticas, o que acaba prejudicando demais aqueles dois personagens até então bem construídos. Está longe do clima depressivo de todo o resto, onde o diretor tenta amenizar com músicas bonitinhas e um pouco do desconcertante humor britânico (mas a partir de um dado momento, acompanhar a mãe paranoica nem é mais interessante).
+Uma direção bem pitoresca dessa série. Os movimentos da câmera tenta reproduzir os movimentos de cabeça que fazemos para desviar o olhar. E a visão é desse rapaz quase míope, de vista e de seus sentimentos. Mas, assim como sua andoide, ele está tentando.
 
-Porém, e coloco um grande porém agora, sua introdução e desenvolvimento são exemplares. A colocação do personagem de Dustin Hoffman como pai deslocado de uma família e de um emprego aos quais já não pertence mais é tocante por vir aos poucos e com certo ritmo. Tanto o desempenho de Hoffman quanto os enquadramentos ressaltando seu isolamento do mundo contribuem para a criação de um ser humano tão complexo quanto Bill Murray em [Encontros e Desencontros].
+Passando em um futuro próximo onde robôs e humanos convivem em uma relação serviçal e mestre, o grande trunfo de The Time of Eve é nos jogar nesse universo e nos fazer descobrir o impacto dessa mudança na rotina dos humanos. E também dos andróides, já que eles "nascem" sem um guia do que são. Apenas seguem ordens e as três leis da robótica sugeridas pelo autor sci-fi Isaac Asimov.
 
-Já Emma Thompson desenvolve uma solteirona sem os dramas existenciais. Alguém que já se acostumou com os foras, e é levada pela mãe a se empenhar em uma vida a dois que já não acredita mais. Sua cena sozinha no banheiro é a mais sintomática e tocante nesse sentido, pois revela algo já existente em seus olhos, sua voz e seus trejeitos, mas ainda não declarada.
+Mas algo sabemos desde o início. Se trata de um trabalho sobre preconceito e discriminação. É sensível e se revela aos poucos, e a graça é estar assistindo coberto dessa áurea de mistério. Enquanto isso acompanhamos a saga do garoto, enquanto ele descobre se é um fandroid, uma pessoa que trata andróides como humanos, ou apenas uma pessoa muito solitária.
 
-Os detalhes periféricos invadem nossa noção de realidade sem pedir licença. A trilha sonora, bonita, se coloca várias vezes para forçar a mudança de humor do quadro formado. Uma pena, pois enquanto Hoffman e Thompson nos aproximam do seu drama, a música nos afasta pelo seu melodrama barato. A insegurança do diretor quanto ao desempenho desses dois atores veteranos (ou do público mal formado) é risível.
+A série brinca muito com metalinguagem. Em um episódio onde um robô antigo aparece eles brincam com o tom de Exterminador do Futuro. A visão da série tem sempre a perda de foco do garoto protagonista. A desorientação do espectador sobre como o mundo está mudando com os androides é o que faz a câmera não conseguir parar. A trilha sonora usa toques semelhantes a aplicativos de computador.
 
-Mesmo assim, seu primeiro desfecho é eficiente demais para não gostarmos dele. Tanto que poderíamos aceitar a tristeza e dor de uma partida repentina sem crise (pelo bem e integridade daquele casal). Não é o que acontece, contudo, o que gera o desapontamento do primeiro parágrafo desse texto.
+Esses garotos vão ao café-título em busca de respostas e servem de olhos e ouvidos para nós, espectadores curiosos e atentos. Cada novo episódio merece nossa total atenção, pois nenhuma informação é dada de graça. Se trata até aqui de um dos melhores trabalhos de sci-fi animado que eu já presenciei. É denso e não tem medo de sê-lo.
 
-[Encontros e Desencontros]: {{< relref "encontros-e-desencontros" >}}
+Que bosta de final. Todo o arco se desenvolvendo entre o garoto e sua robô serviçal é resolvido em duas falas e surge um outro arco completamente desvinculado do principal entre um robô ainda não apresentado e o segundo garoto. O Comitê de Ética é revelado apenas como um grupo de burocratas com motivações infantis de serem contra relacionamentos entre humanos e robôs. O pai do garoto encarna o pai de Evangelion. Praticamente nada funciona neste season finale. E robôs ainda choram. O espectador deveria poder chorar em cima dessas imagens se fingindo de tridimensionais sem o serem.
 

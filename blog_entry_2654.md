@@ -1,21 +1,20 @@
 ---
 categories:
 - writting
-date: '2013-01-21'
-link: https://www.imdb.com/title/tt0292542
+date: '2019-06-22'
+link: https://www.imdb.com/title/tt0168734
 tags:
 - movies
-title: O Filho da Noiva
+title: O Feitiço
 ---
 
-O Filho da Noiva se esforça para soar tão engraçado quanto dramático e impede que ambos os lados evoluam. Ancorando sua experiência em um personagem que vive para o trabalho que construiu em torno do restaurante que herdou dos pais (um Ricardo Darín ainda jovem) o objetivo do roteiro do diretor Juan José Campanella ([O Segredo dos Seus Olhos]) e de Fernando Castets (Clube da Lua, [Heleno]) é mostrar a curva de mudança desse personagem depois de sofrer um ataque cardíaco.
+Um épico em uma pequena história do século 20 no México. Pré-adolescentes descobrindo as delícias do sexo com mulheres maduras. A história econômica e política da região do ponto de vista dos trabalhadores. E tudo isso gira em torno de um suposto feitiço.
 
-O problema talvez seja essa mudança de tom repentina. Quando esperamos algo tocante, surge uma piada sem ser anunciada. O amigo de infância dele é um chato de galocha que faz o papel do bom moço que agrada a todos (sem entendermos muito bem como isso espontaneamente ocorre). Sua namorada e sua filha são igualmente infantis, e o que mais irrita em tudo isso é que, mesmo que o personagem de Ricado Darín tenha seus motivos, consegue ser o mais irritante de todos por não tomar suas próprias decisões, mas ser levado por essa torrente de opiniões.
+Há um fascínio pelo desconhecido, seja uma simpatia de um ancião ou um rádio de onde se ouve vozes, mas a maioria tem que ganhar o dia e está alheia a tudo isso. Este é quase um Baaria, filme-biográfico de Giuseppe Tornatore sobre seu povoado de origem, só que do México, que pega um protagonista e através dele passamos por dez anos de História. E que deve ter custado doze vezes menos.
 
-Quando de repente surge a figura de sua mãe e seu pai, que decide se casar com ela depois de ter evitado a cerimônia religiosa por 44 anos, surge o problema de sua mulher estar com Alzheimer, e sua decisão de dizer sim é tão forçada quando a do próprio Darín em dizer sim para sua nova vida. A parte mais interessante dessa história é o paralelo criado entre os dois personagens, ambos impedidos de seguir suas próprias vidas pelas amarras de seu destino.
+O diretor Carlos Carrera se apaixona pelo conteúdo e alonga o terceiro ato a ponto de vermos o que não queremos e torcer para que acabe no próximo fade. Qual a mensagem? Nenhuma. Mas o filme insiste em se tratar como um épico.
 
-Mesmo com esse enredo caótico, Campanella consegue extrair essa lógica para nos entregar uma visão menos que perfeita de uma comédia romântica argentina, mas mais que apropriada para um personagem tão contraditório quanto qualquer ser humano que vive para o trabalho.
+A fotografia é bela, imortaliza cenas com o uso apaixonado das sombras e dos tons que lembram quadros históricos pintados. É um filme plasticamente lindo, que evoca nossos sonhos e desejos em um carrossel de emoções construído com vários personagens. A música, grandiosa, significa que estamos testemunhando um evento único, mágico, e que convém este ritmo solene.
 
-[Heleno]: {{< relref "heleno" >}}
-[O Segredo dos Seus Olhos]: {{< relref "o-segredo-dos-seus-olhos" >}}
+Mas no final das contas este é apenas um filme confuso que tenta abordar temas demais com pouca estrutura, que vai ruindo aos poucos, com o passar dos anos.
 

@@ -1,11 +1,13 @@
 ---
-Está mais azedo, forte, um tanto amargo. Em suma: agradabilíssimo em poucas quantidades.
-
----
 categories:
 - writting
-date: '2013-10-17'
-link: https://www.imdb.com/title/tt1454468
+date: '2015-06-21'
 tags:
-- movies
-title: Gravidade
+- food
+title: Gratia Agere Res
+---
+
+É um sabor agradável, de vinho jovem, mas ainda não muito maturado.
+date: "2015-06-25"
+categories: [ "food" ]
+title: "Gratia Agere Res"

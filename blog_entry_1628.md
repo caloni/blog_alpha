@@ -1,27 +1,203 @@
 ---
 categories:
-- writting
-date: '2019-09-18'
-link: https://www.imdb.com/title/tt7064620
-tags:
-- cinemaqui
-- movies
-title: Foro Íntimo
+- coding
+date: '2010-10-26'
+tags: null
+title: FormatMessage para... dumies?
 ---
 
-Foro Íntimo é uma viagem claustofóbica e tensa que usa todos os artifícios técnicos do cinema para contar uma história e manter seu efeito por toda sua interminável hora e pouco, se esquecendo até do motivo por trás do clima deste pesadelo em forma de filme.
+Já foi comentado em alguns círculos de ótimos programadores que a função da Win32 API [FormatMessage](http://msdn.microsoft.com/en-us/library/ms679351%28VS.85%29.aspx) é uma das criaturas mais bizarras já criadas.
 
-Acompanhamos um dia na vida de um juiz que está sendo mantido 24 horas no foro onde trabalha. Ele nem acorda e já tem pesadelos em que toma um tiro. Ao lado de um segurança fortemente armado que o acompanha todo o tempo. Um esquema de segurança é mantido para ele e sua família durante um processo criminal de gente grande, que consegue localizar a família e deixar uma foto debaixo do nariz de todos. "Este é um dia atípico", diz seu segurança. "O senhor devia cancelar as audiências de hoje". E agora não sabemos se seu segurança está sendo prudente ou faz parte das forças ocultas que tentam manipular a justiça.
+O objetivo da FormatMessage é formatar uma string, assim como sprintf, mas voltado mais a escrever uma descrição de um código de erro. Sendo assim ela é essencial para que o usuário não receba um número no lugar de uma explicação de por que a operação falhou.
 
-O desconhecido é importante personagem em Foro Íntimo, filme que depende do clima de ameaça invisível que impede que este homem viva e exerça sua função como se deve. Sua vida está suspensa, seu trabalho em jogo e sua existência possivelmente nunca mais serão os mesmos. O filme não explora mais seu tema amplo, sobre a justiça, mas se pensarmos a fundo sobre essa problemática, onde um juiz chega a ter crise de pânico para tentar cumprir seu dever, talvez até suas sentenças no futuro não sejam mais as mesmas.
+Os códigos de erro que ela se propõe a formatar podem ser os erros padrões descritos em winerror.h ou qualquer outro código cuja explicação esteja em algum módulo carregado pelo processo (DLL ou o próprio executável). Isso nos dá a liberdade de, por exemplo, criar uma DLL apenas com códigos e descrições dos erros dos nossos produtos.
 
-A direção de Ricardo Mehedff é eficiente em criar este clima claustrofóbico usando uma razão de tela que vai se estreitando, esmagando seus ocupantes, conforme o dia avança. Mehedff usa a ajuda de Marilia Nogueira, segunda diretora, que também auxiliou um projeto semelhante, Homem Livre, em que um homem preso por assassinato é solto e vive em sua casa como uma outra forma de prisão. O uso do foco que o diretor escolhe desempenham um papel primordial em destacar a imagem do juiz em detrimento a todos em volta, indistinguíveis, ao fundo.
+Para que seja criada a mensagem final, uma definição de mensagem é requirida como entrada, que pode vir do próprio chamador ou da já mencionada tabela de erros de algum módulo qualquer. No caso de querermos a descrição de um erro de sistema (em winerror.h, retornado por GetLastError ou similares) a definição da mensagem já está embutida no sistema, bastando para nós passarmos o código.
 
-A fotografia é outra pérola narrativa que trabalha em simbiose com os enquadramentos utilizados, quase sempre prendendo a figura do juiz em algum canto. A ausência de cores entrega um realismo inatingível de outra forma. Sim, é paradoxal, mas o p&b magnífico de Dudu Miranda (Lixo Extraordinário) ao drenar as cores revela apenas o que importa: as formas dos longuíssimos corredores do foro, as camadas sobrepostas dos andares, o sol iluminando parcialmente no céu, os corredores escuros onde repousam incontáveis arquivos.
+É importante lembrar que, como estamos falando de uma descrição de erro, ou seja, de um texto, este pode vir em diversos idiomas, sendo que é nossa obrigação também definir para qual idioma desejamos traduzir nosso código de erro, sendo também nossa obrigação, no caso de mensagens específicas do nosso programa, fornecer o modelo da mensagem nos idiomas que formos suportar.
 
-Além disso, o design de som torna cada elemento em cena um novo foco, pois de repente, sem trilha e diálogos, é a única coisa que se ouve. Uma xícara, um copo, um erro no computador. Formigas andando pelo duto de ar. Elas são reais? Poderiam ser, e mesmo assim não são elas que importam, mas o seu símbolo oculto enterrado junto ao fórum: a lenta, mas perceptível, degradação do sistema de justiça.
+O resto da função funciona mais ou menos como o sprintf, cuspindo a mensagem-modelo em uma saída formatada de acordo com os parâmetros de entrada.
 
-Nada disso seria impressionante não fossem os papéis de Gustavo Werneck e Jefferson da Fonseca, respectivamente juiz e seu segurança. Não há absolutamente nada de especial nessas pessoas, exceto a total passividade e impessoalidade em suas posturas. Para o juiz parece não haver nada a fazer exceto passar por aquela tortura psicológica até o final do processo. Para o segurança tudo aquilo parece se traduzir em não levar um tiro, mas sua impessoalidade é tamanha que seu rosto se torna um enigma a ser interpretado de formas diferentes pelo espectador. Duas atuações que trabalham em conjunto.
+    
+    DWORD WINAPI FormatMessage(
+       __in      DWORD dwFlags,
+       __in_opt  LPCVOID lpSource,
+       __in      DWORD dwMessageId,
+       __in      DWORD dwLanguageId,
+       __out     LPTSTR lpBuffer,
+       __in      DWORD nSize,
+       __in_opt  va_list *Arguments
+    );
 
-Foro Íntimo é acima de tudo uma aula sobre cinema na prática, na tecnicidade, nas escolhas que um diretor tem disponível em um projeto. Ele foge do lugar-comum com escolhas fáceis, entregando um trabalho coeso, onde todos os recursos trabalham juntos na narrativa. Seu único pecado é a falta de um diálogo externo, sobre as ideias por trás de um homem encarcerado em seu próprio local de trabalho, cuja função é encarcerar ou não pessoas. Irônico e trágico ao mesmo tempo.
+#### Flags
+
+As flags do parâmetro dwFlags mudam radicalmente o funcionamento da rotina, o que me lembra de outra figura bizarra: o [realloc da biblioteca padrão](http://www.cplusplus.com/reference/clibrary/cstdlib/realloc/).
+
+No caso do FormatMessage, a variável dwFlags se divide em dois para especificar dois grupos de opções distintos. A parte maior contém as opções armazenadas tradicionalmente como um mapa de bits, enquanto o byte menos significativo define como será tratada a saída final, com respeito às novas linhas e qual será a largura máxima de uma linha na saída.
+
+{{< image src="8nKXyBs.png" caption="Flags para FormatMessage" >}}
+
+#### Source
+
+O parâmetro mais polêmico é o que possui vários significados. No caso de lpSource, existem dois significados possíveis:
+
+  1. **FORMAT_MESSAGE_FROM_HMODULE**. Ele é um HANDLE para um módulo.
+  2. **FORMAT_MESSAGE_FROM_STRING**. Ele é um ponteiro para string.
+
+Isso explica por que essas duas flags são exclusivas: ou uma ou outra. Mesmo que a flag FORMAT_MESSAGE_FROM_SYSTEM seja usada, a função tentará achar a definição da mensagem no módulo especificado por lpSource primeiro, antes de ir buscar nas tabelas do sistema.
+
+#### O código do erro
+
+Chamado de dwMessageId, esse é o argumento onde podemos passar um código de GetLastError ou nossos próprios códigos de erro. Se já tivermos uma string em lpSource, no entanto, não faz sentido existir um código de erro.
+
+#### Idioma
+
+Para definir o idioma é usado o mesmo sistema de resources: monta-se uma DWORD com MAKELANGID que contém informações do idioma primário e secundário. Se quisermos usar o idioma padrão do sistema (99% dos casos) basta passarmos o retorno de MAKELANGID(LANG_NEUTRAL, SUBLANG_NEUTRAL).
+
+#### Buffer de saída
+
+Mais um argumento polêmico. Se a flag FORMAT_MESSAGE_ALLOCATE_BUFFER, lpBuffer não é um buffer, mas um ponteiro que será preechido com um endereço de memória alocada usando a função API LocalAlloc. Isso quer dizer que, após usar a mensagem formatada, devemos desalocar essa memória com LocalFree.
+
+Por outro lado, se o buffer for nosso, então seu tamanho deve ser especificado no próximo argumento, nSize.
+
+#### Tamanho do buffer
+
+Só que nem o parâmetro que especifica o tamanho do buffer é simples, assim. Se for especificado a flag FORMAT_MESSAGE_ALLOCATE_BUFFER, em vez de não fazer sentido esse argumento, ele significa o número MÍNIMO de caracteres que devem ser alocados, independente do tamanho da mensagem.
+
+_Obs.: Lembre-se que são caracteres, e não bytes. Se estivermos programando em UNICODE o número de bytes dobra._
+
+#### Argumentos
+
+Essa seria uma lista simples de argumentos va_list que, para quem já fez funções ao estilo printf sabe muito bem usar. A lógica da função determina que os valores "%1", "%2" e assim por diante dentro da definição de mensagem sejam trocados por estes argumentos.
+
+Se eles são strings terminadas em nulo (interpretação padrão), inteiros ou estruturas específicas, isso vai depender da mensagem que está sendo formatada, o que é outro if a ser lembrado na hora de formatar mensagens do sistema.
+
+Também é importante lembrar que, uma vez chamada a função, o conteúdo de va_list não pode ser usado novamente se não for reinicializado com va_end seguido de va_start.
+
+Agora, se todo esse negócio de va_sbrubles é muito complicado pra você, é possível passar um array de DWORD_PTRs com o uso da flag FORMAT_MESSAGE_ARGUMENT_ARRAY.
+
+#### Retorno
+
+Se tudo der certo e você passar todos os argumentos certinhos, o retorno é o número de caracteres armazenados no buffer de saída, independente dele ter sido alocado dinamicamente ou não. Ah, sim, excluindo o nulo terminador.
+
+Se der errado a função retorna zero. É possível obter o erro através de GetLastError, o que muito provavelmente será 87 nas primeiras vezes que você usar essa função.
+
+#### Escapes na definição de mensagem
+
+Pensou que acabaria por aqui? E qual o significado das sequências de escape dentro da mensagem-modelo? O formato básico para inserção de um argumento segue o seguinte padrão:
+
+```
+%n!<format-string>!
+```
+
+Onde n é o número que identifica o argumento, como já vimos, e `format-string` é um espaço reservado para identificarmos o tipo do argumento e como ele aparecerá na mensagem de saída.
+
+Existe uma longa explicação sobre o uso de controladores de largura e precisão da saída formatada e sua localização na lista de argumentos, cujo número irá depender se estamos usando va_list ou array de DWORD_PTRs, sendo que alguns problemas podem surgir se repetirmos esses números de inserção. Em dois momentos da explicação o artigo seja a sugerir que seja usada a função StringCchPrintf, primeiro por que FormatMessage não suporta formatação de ponto flutuantes, e segundo, porque, mesmo que seja possível formatar valores de 64 bits, seria mais fácil se você usasse outra função.
+
+Ainda existe um uso específico para "%0", que é evitar quebra de linha durante a formatação da mensagem, inclusive no final. Esse uso entra em conflito com o nosso flag quando este determina um número máximo de caracteres por linha.
+
+Ainda existe "de bônus" outras strings para preencher limitações que o próprio printf possui, como %%, %t, etc.
+
+#### Falha de segurança
+
+Como os programadores habituados com ataques de stack overrun devem deduzir, uma mensagem-modelo mal intencionada pode conter sequências de inserção que não existem na formatação habitual, forçando o vazamento de bytes na string final, o que pode forçar ataques planejados. Como o próprio artigo diz, usar um código de erro arbitrário retornado por uma API qualquer e usar FormatMessage sem a flag FORMAT_MESSAGE_IGNORE_INSERTS pode levar a resultados desastrosos.
+
+#### Exemplos
+
+Esse também é um bônus da MSDN, que te presenteia com exemplos de código tão fantasiosos quanto a própria função, veja o primeiro exemplo, por exemplo:
+
+```
+#include windows.h
+#include stdio.h
+
+void main(void)
+{
+    LPWSTR pMessage = L%1!.s! %4 %5!s!;
+    DWORD_PTR pArgs[] = { (DWORD_PTR)4, (DWORD_PTR)2, (DWORD_PTR)LBill,   %1!.s! refers back to the first insertion string in pMessage
+         (DWORD_PTR)LBob,                                                 %4 refers back to the second insertion string in pMessage
+         (DWORD_PTR)6, (DWORD_PTR)LBill };                                %5!s! refers back to the third insertion string in pMessage
+    const DWORD size = 100+1;
+    WCHAR buffer[size];
+
+    if (!FormatMessage(FORMAT_MESSAGE_FROM_STRING  FORMAT_MESSAGE_ARGUMENT_ARRAY,
+                       pMessage, 
+                       0,
+                       buffer, 
+                       size, 
+                       (va_list)pArgs))
+    {
+        wprintf(LFormat message failed with 0x%xn, GetLastError());
+        return;
+    }
+
+     Buffer contains   Bi Bob   Bill.
+    wprintf(LFormatted message %sn, buffer);
+}
+ 
+
+```
+
+Depois ele chega a reimplementar o exemplo usando va_list, o que é muito interessante, mas... bom, deixa pra lá. Vamos fazer nosso próprio teste.
+
+#### Uso padrão para GetLastError
+
+Esse é o uso clássico: precisamos de uma descrição de um código de erro para o usuário; um código Win32. A chamada para esse tipo de uso pode ser encapsulada em uma função mais simples:
+
+```
+#define _CRT_SECURE_NO_WARNINGS // quanta frescura...
+#include <tchar.h>
+#include <windows.h>
+#include <string>
+
+using namespace std;
+
+wstring GetErrorDescription(DWORD errNumber)
+{
+	wstring ret;
+	bool msgOk = false;
+	LPVOID lpMsgBuf = NULL;
+
+	if( FormatMessage(FORMAT_MESSAGE_ALLOCATE_BUFFER // aloque pra mim (não sei o tamanho)
+		| FORMAT_MESSAGE_FROM_SYSTEM // descrição do erro está no sistema
+		| FORMAT_MESSAGE_IGNORE_INSERTS, // ignora os inserts pra não sofrer com hackerzinhos
+		NULL, // sem fonte:
+		errNumber, // a fonte é o código de erro
+		MAKELANGID(LANG_NEUTRAL, SUBLANG_DEFAULT), // idioma padrão
+		(LPTSTR)&lpMsgBuf,// isso é um ponteiro para um ponteiro para um buffer que será alocado
+		0, // nada disso
+		NULL // e nem disso
+		) > 0 ) // maior que zero quer dizer "beleza!"
+	{
+		if( lpMsgBuf ) // só pra...
+		{
+			ret = (PCWSTR) lpMsgBuf; // ok, vamos usar essa string
+			msgOk = true;
+			LocalFree(lpMsgBuf); // não precisamos mais da memória alocada
+		}
+	}
+
+	if( ! msgOk ) // alguma coisa não deu certo
+	{
+		wchar_t msgBuf[100]; // o suficiente
+		_snwprintf(msgBuf, 100, L"Unknown error (code %d)", errNumber);
+		ret = msgBuf;
+	}
+
+	return ret;
+}
+
+int CALLBACK wWinMain(HINSTANCE, HINSTANCE, PWSTR errNumberStr, int)
+{
+	int errNumber = _wtoi(errNumberStr);
+	wstring errDesc = GetErrorDescription(errNumber);
+	MessageBox(NULL, errDesc.c_str(), L"GetLastError", MB_OK | MB_ICONINFORMATION);
+	return errNumber;
+}
+ 
+
+```
+
+{{< image src="rnrw5UN.png" caption="Saída do nosso projetinho" >}}
+
+Existem milhares de forma de usar essa função, como você deve ter percebido pelos parâmetros. Não seja tímido: se você conhece algum truquezinho esperto e quer compartilhar com os usuários da FormatMessage, essa é a hora!
 

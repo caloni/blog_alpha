@@ -1,16 +1,11 @@
 ---
 categories:
 - writting
-date: '2021-05-22'
-link: https://www.imdb.com/title/tt6517102
+date: '2018-11-05'
 tags:
-- animes
-title: Castlevania
+- wine
+title: Castelvere Castelloc Abiano
 ---
 
-Bem bonita essa animação. E ela tem uma boa história, baseada em um bom jogo. Ela é cientista no século 15 e ele é um vampiro bombadão. Eles se casam e depois de um tempo os católicos acham a bruxa e a queimam. E logo vira um deus nos acuda.
-
-Há violência de tripas sendo arrancadas nessa série para 18+, o que é outra coisa boa. Junto de uma maravilhosa e estilizada fotografia que torna várias cenas épicas.
-
-Os personagens não são muito bons, nem os diálogos. Efeitos colaterais de um vídeo-game? Talvez ninguém se importe.
+Safra de 2016 é um rosé italiano que servem no Maremonti, um restaurante de massas que tem no Park Shopping São Caetano; sua primeira impressão é que mesmo custando o olho da cara dá dor de cabeça. A segunda impressão não me lembro.
 

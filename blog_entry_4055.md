@@ -1,22 +1,18 @@
 ---
 categories:
 - writting
-date: '2020-04-28'
+date: '2018-12-30T19:50:00-03:00'
 link: https://www.imdb.com/title/tt0475784
 tags:
 - series
-title: Westworld S03 E01
+title: Westworld S02 E07
 ---
 
-Não há muitos motivos por trás de quem deseja assistir à continuação de uma série como Westworld. Exceto a falta do que fazer, talvez. As ambições da série terminaram na [primeira temporada] e agora ela se estende pelas suas ideias que deixaram de ser filosoficamente ambiciosas e passaram a retroalimentar o sistema moralista vigente. A introdução do novo personagem da classe trabalhadora interpretado por Aaron Paul (ótimo casting) e a vida lá fora, com seus arranha-céus ecologicamente corretos, seriam motivo suficiente para assistirmos a mais uma temporada? Apenas pela computação? Esses jardim suspensos da Babilônia futuristas lembram e referenciam o império bizantino, tanto em seu esplendor quanto em sua grande derrocada, mas não há história no contorno desse fundo verde.
+Eis o melhor episódio até agora de toda a série. Ele possui a garra da ação contida em uma história cheia de ideias cujas conclusões não são entregues, mas discutidas, o que torna a desorientação espacial e temporal também no campo das ideias, mas mesmo sem termos a exata compreensão do que está acontecendo não nos perdemos. Isso é sci fi no seu máximo filosófico. Talvez nem 2001 tenha ido tão longe.
 
-A filosofia original, com as ideias ambiciosas por trás da criação de uma inteligência artificial e suas implicações, fica para trás. A atual mal chega a arranhar as questões profundas sobre o destino dessa nova civilização a alcançar a singularidade, pois continua narrando o mundo futuro com ares de semana que vem, com carros autômatos e ausência de empregados humanos. Não se vê uma alma nas ruas que não seja a alta classe e os malandros e viciados, na maioria das vezes fazendo parte do mesmo grupo. A sutileza de não tornar isso uma bandeira, mas apenas a consequência natural do capitalismo acelerado pela tecnologia da informação do século 21, é um dos traços de respeito da série comandada por Jonathan Nolan e produzida por J. J. Abrams, mas apesar das sutilezas a produção não está fora dos nossos tempos.
+Mas é claro que uma obra de ficção possui suas justiças poéticas para servirem de catarse para o espectador, e com isso quero dizer exatamente a cena onde Maeve encontra o que esteve procurando a vida toda. No entanto, a série entende que a dor que a acompanha, desde seu momento de evolução instantânea, também é o que faz com que ela não consiga se separar da ficção de quem realmente ela é, tornando assim o seu clímax o momento mais trágico.
 
-Nessa sociedade com menos camadas temos a figura de um Aaron Paul ex-soldado de guerra (e qual guerra existiria com soldados humanos?) que perdeu seu companheiro, mas que perdeu principalmente o seu mundo ao voltar para um lar em lugar para ele. E Caleb andar sempre pelas esquinas e nas sombras é uma característica tão marcante quanto a personagem de Evan Rachel Wood, que usa preto em uma fotografia noturna furtiva assim como a ausência de decotes e formas e seu cabelo eternamente preso, sinal de sua nova fase.
+Conseguindo amarrar boa parte das pontas em apenas um episódio sem nenhuma pressa, mas também sem muito respiro, o sétimo episódio veio para chacoalhar nossas impressões das possibilidades da série, e ao mesmo tempo nos dar um pouco de closure (nem que seja o mínimo). Com isso temos mais uma vez a participação sempre especial de Dr. Ford, que acaba soando mais sensato que da última vez.
 
-Os personagens de Bernard, Tandy e a moça de Thor: Ragnarok (Tessa Thompson) se mantém na penumbra e nada prometem para o momento. Exceto, claro, novos arcos que devem se assimilar com a vinda de um outro personagem: o arquiteto das simulações. E é claro que aqui a referência óbvia é Matrix Reloaded.
-
-Eu só não tenho certeza se gostaria de ver um Westworld Reloaded. A segunda temporada já tinha deixado um gosto insosso e artificial. Gosto de cartilha moralista reciclada.
-
-[primeira temporada]: {{< relref "westworld" >}}
+E por falar em Ford, é preciso citar o arco interessantíssimo do Homem de Preto, que começa a obedecer a narrativa mais que os próprios bonecos que acompanhou a vida inteira. Sua obsessão pelo jogo o tornou parte dele. Um "fim" não apenas adequado, mas icônico para o personagem.
 

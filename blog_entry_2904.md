@@ -1,21 +1,20 @@
 ---
 categories:
 - writting
-date: '2014-12-23'
-link: https://www.imdb.com/title/tt0787474
+date: '2013-01-01'
+link: https://www.imdb.com/title/tt0099685
 tags:
-- cinemaqui
 - movies
-title: Os Boxtrolls
+title: Os Bons Companheiros
 ---
 
-É muito difícil assistir Boxtrolls e se dar conta que aqueles efeitos foram forjados na boa e velha arte do stop-motion: capturar mais de vinte fotos de bonecos em cima de uma maquete para gerar um segundo de filme.
+A primeira sequência de Os Bons Companheiros começa com os personagens de Robert de Niro (James Conway), Ray Liotta (Henry Hill) e Joe Pesci (Tommy DeVito) tendo que parar o carro para dar fim ao corpo que ainda insistia em manter-se vivo no porta-malas. A violência gráfica com que isso ocorre é sanguinária tanto na luz quanto no ato que ocorre na traseira do veículo. Quando acompanhamos o crescimento de Henry entre os gângsteres e voltamos novamente a essa cena é como se fizéssemos já parte do grupo: da gangue e da família que estes formam.
 
-Essa dificuldade em enxergar o truque é resultado do cuidado admirável dos seus criadores. Os detalhes da pitoresca cidade de Ponte Queijo vão até no nome das ruas (a rua Leite termina na Coalhada), mas ganham o primor mesmo através dos seus personagens cuidadosamente desenhados. Claro que, com seu toque lúdico, as imperfeições dos seres que usam caixas para cobrir o corpo -- daí o nome deles -- passam despercebidas ou podem até lembrar algum efeito de pseudo-realismo no computador, criando uma estranha e fascinante sensação.
+Não há limites para a violência filmada por Scorsese, mas há sempre um motivo muito claro para ela acontecer, nem que seja um acesso de raiva de Tommy, que, já sabemos, parece explodir pelo menor dos motivos de uma hora para outra. O interessante é acompanhar como Henry encara a impulsividade de Tommy, pois esta é a história de um homem que pertence ao grupo dos "Goodfellas", mas parece manter um dos olhos abertos.
 
-Mas Boxtrolls não é apenas suas qualidades técnicas. Sua narrativa inclui de maneira nada sutil metáforas da vida adulta.  A obsessão do vilão de possuir um chapéu branco, por exemplo, é a velha sede de poder de todo ser humano, mesmo que esta esteja disfarçada do privilégio de provar dos queijos mais finos. Da mesma forma é divertido observar uma espécie de paródia infantil a respeito da típica incompetência e miopia do Estado, que antes de se preocupar com a construção de mais escolas prefere dirigir seus esforços para a edificação de um gigantesco queijo. Não é nada difícil encontrar paralelos entre países de população miserável financiando gigantescos projetos menos prioritários como eventos esportivos ou internet "de graça".
+Filmado com uma fotografia absolutamente soberba, de comparar-se a outra obra máxima, O Poderoso Chefão, não possui quase nada comparável ao filme do Copolla mesmo ambos sendo filmes de máfia. A exceção óbvia fica por conta do seu virtuosismo técnico, presente em ambos. Já acostumado com uma equipe que equilibra fotografia, direção de arte e trilha sonora à altura do roteiro e direção impecáveis, como pode ser visto em [Taxi Driver] e Touro Indomável, Scorsese ainda conta com a magnífica montadora Thelma Schoonmaker, que junto com James Kwei tornam a tarefa de acompanhar mais de duas horas de tensão e envolvimento agradável graças às belíssimas transições.
 
-A história principal gira em torno de convencer a todos da cidade que os Boxtrolls não são monstros, ou pelo menos não da forma com que seus exterminadores os pintam. A tal da propaganda enganosa com ares de propaganda política. O fato desses bichos serem bem estranhos e viverem debaixo da terra ajuda a criar preconceitos. Usarem caixas como roupa e roubar objetos da superfície também. No entanto, seu maior mito -- o de comerem bebês -- é de fato um mito, e é justamente esse o pilar para o discurso de ódio dos vilões.
+Não há mais nada a dizer sobre Goodfellas por enquanto, pois é um filme que deve ser degustado com certeza mais de uma vez. A primeira é uma imersão tão completa que acabamos fingindo não se tratar de um filme. É a vida real, romantizada, dramatizada, mas tão real que fica difícil separar os elementos que formam a obra de arte.
 
-Arriscando seu tom lúdico de maneira certeira em uma ou duas cenas talvez fortes demais para as crianças, Boxtrolls sai um pouco daquele mundo tão revisitado por Disney, Pixar e Dreamworks e tenta explorar melhor uma história que caminha bem na maioria do tempo entre o mundo adulto e infantil, apesar de ter pouco apelo emocional no quesito "fofura". Em compensação será bem-vindo por crianças que, assim como eu, me divertia com uma ou outra reviravolta mais séria. Afinal de contas, até uma criança entende quando um político mente descaradamente.
+[Taxi Driver]: {{< relref "taxi-driver" >}}
 

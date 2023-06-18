@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2014-04-16'
-link: https://www.imdb.com/title/tt2250192
+date: '2021-06-12'
+link: https://www.imdb.com/title/tt4298958
 tags:
-- animes
-title: Sword Art Online - Primeira Temporada
+- movies
+title: Sabor da Vida
 ---
 
-O tema de mundos virtuais já tem certa data, mas é a primeira vez que vejo ele ser explorado nos jogos online. Mais interessante, ainda, é construir uma história cujo pano de fundo é o lançamento de mais um RPG online a la "World of Warcraft", com direito a versões beta, coleção de itens, aumento de experiência, novas habilidades, com a diferença que seu controle é exercido e sentido diretamente pelo cérebro dos jogadores atráves de um sensor na forma de capacete. O enredo principal: se os criadores de um jogo de realidade virtual conseguem controlar os sentidos de seus jogadores o que os impede de levar essa experiências às últimas consequências?
+Para quem buscar ele tem o nome internacional Sweet Bean e está entitulado na Amazon Prime como Sabor da Vida. E Sweet Bean é um drama leve, calmo, que se beneficia de sua edição de impor o ritmo necessário para pausarmos nossas super-ocupadas vidas e prestar atenção em pessoas invisíveis para a sociedade.
 
-Com base nisso e um bom toque de animê/novela é que Sword Art Online se baseia ao longo da sua temporada de 25 capítulos divididos tematicamente em duas "fases". A primeira é a melhor das duas, pois expande diversos conceitos curiosos a respeito desse futuro distópico, como a relação afetiva (e sexual) entre seus membros e qual é a definição de "sentimento" nesse mundo, além de em diversos momentos utilizar a figura do casal principal Kirito e Asuna para servir de olhos e reflexão do espectador sobre o que faria em determinadas situações, ou até onde vai a brincadeira. Nesse sentido, a vinda de uma personagem muito especial "adotada" pelos heróis é sintomático e um dos melhores momentos da série, além de representar muitas homenagens óbvias ao longo da narrativa, notadamente Matrix, a obra cinematográfica dos irmãos Wachoski (que já referenciava e homenageava praticamente todos os ramos do entretenimento e da filosofia em torno da possibilidade de estarmos sonhando acordados em um mundo de mentiras).
+O chefe é um recluso, individado para o resto da vida por um erro do passado. Ele encontra uma senhora que está no final desse processo de isolamento social. Ao fim de sua vida, no entanto, ela aprendeu algo para passar adiante. E não é apenas fazer uma pasta de feijão doce perfeita, mas dar atenção aos detalhes que tornam o processo maravilhoso.
 
-É com o uso de uma excelente trilha sonora dramática quase nunca exagerada e ótimas cenas de ação que a primeira metade de SAO capta a essência de sua história. Claro que isso ocorre graças ao pano de fundo que vai sendo contruído junto com a relação entre seus personagens, pois essa não é uma série de lutas de espadas comuns, mas uma interessantíssima reflexão sobre o que o ser humano é capaz de fazer para sobreviver e manter a sua honra, seu caráter, seus princípios. Existiria uma ética em um mundo onde tudo é possível?
+A direção e o roteiro de Naomi Kawase tornam essa experiência baseada no romance de Dorian Sukegawa minimalista, talvez um pouco demais. É difícil se relacionar com o clichê da colegial com mãe solteira, e até mesmo a figura do chefe de cozinha solitário e amargurado fica monotônico, ele é quase uma representação mais geral. E, se formos pensar, a senhora Tokue também é, representando os leprosos do mundo.
 
-Essas questões existenciais parecem que nunca envelhecem...
+Porém, a atuação naturalíssima de Kirin Kiri (Caso de Família) eleva o filme para sua observação em cena, maravilhados. Os diálogos ganham brilho, mesmo que não sejam geniais. A fotografia com filtro do Instagram merece uma segunda olhada, apenas por conta da atriz veterana. E sua história, nós assistimos o filme por ela. E porque queremos saber mais de seu feijão e onde está escondida.
 

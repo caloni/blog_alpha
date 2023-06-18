@@ -1,12 +1,9 @@
 ---
-categories:
-- travelling
-date: '2023-05-30'
-link: https://goo.gl/maps/gTRyvbY2N5ud44NX9?coh=178573&entry=tt
-tags:
-- food
-title: Camarões Potiguar (Natal, Ponta Negra)
+categories: []
+date: '2018-02-20'
+tags: null
+title: Caloni Palestrando Sobre Bitcoins Antes De Virar (Muito) Modinha
 ---
 
-Não comemos muito e por isso para nós o melhor é ficar nas entradas. Felizmente é possível pedi-las na sala de espera e nem pegar uma mesa. Dos favoritos que tínhamos na memória sete anos atrás, o Ceviche de frutos do mar e a Bruschetta de carne de sol, apenas o primeiro sobreviveu. Mas sua versão 2023 está meio sem sal, sem graça. Não parece mais o mesmo. Acompanhei com a Pilsen feita para o restaurante, de mesmo nome, leve e refrescante.
+Naquela época o bitcoin estava oscilando entre 3000 e 5000 reais. Dá pra acreditar? Faz muito tempo. Cerca de um ano. E hoje tem pessoas dizendo que o mundo vai acabar porque bitcoin caiu para a mínima de 20k. Aham. Porém, existe uma imensidão de questões no meio desses valores que é: o que, afinal de contas, é uma moeda digital? Essa minha palestra foi ministrada no Native Floripa 2017, no comecinho daquele ano acho. Faz algum tempo, então não me lembro direito, mas foi um dos eventos mais legais que participei. Boa estrutura e ótima companhia.
 

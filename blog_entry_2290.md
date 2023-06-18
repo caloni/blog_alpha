@@ -1,20 +1,18 @@
 ---
 categories:
 - writting
-date: '2013-01-01'
-link: https://www.imdb.com/title/tt0353969
+date: '2020-02-02'
+link: https://www.imdb.com/title/tt0102587
 tags:
 - movies
-title: Memórias de um Assassino
+title: Memórias de Ontem
 ---
 
-Memórias de um Assassino, do diretor Joon-ho Bong ([O Hospedeiro], Mother - A Busca Pela Verdade), compreende que a principal faceta de uma investigação pode estar muitas vezes nos próprios investigadores. Apostando em nossa identificação com os detetives Park Doo-Man (Kang-ho Song) e Seo Tae-Yoon (Sang-kyung Kim), investe na dinâmica entre os dois desde até antes que o primeiro chegue na pequena cidade para ajudar as autoridades locais a desvendar o estupro e assassinato de duas bonitas jovens.
+Memórias de Ontem é um filme excepcional dos Estúdios Ghibli sobre personagens da vida comum. Feito nos anos 90 e lançado internacionalmente em 2015, somos levados pelo passado da criança Taeko através da mente da adulta Taeko, que usa suas férias no trabalho como desejaríamos fazê-lo se fôssemos corajosos a esse ponto, tal como a máxima do filósofo Henry David Thoreau: vida a vida que você sonhou.
 
-Infelizmente, muito do que se gostaria de saber sobre esses dois personagens fica mais oculto do que o próprio assassino. Nunca entendemos a real motivação de Park Doo-Man ter saído de Seul e nunca chegamos realmente a sermos justificados pelos atos de crueldade e manipulação dos suspeitos de Sang, forçando-se de todo o jeito a encontrar um culpado pelos assassinatos, mesmo que este nunca seja realmente incriminado.
+O que torna as memórias do filme em algo agridoce é a interpretação sensorial e racional da Taeko adulta por trás de suas passagens tragicômicas de quando criança, ao finalmente viver o que não teve quando criança nas férias do seu trabalho. Enquanto somos levados pelo embalo psicológico de suas lembranças, Taeko repensa em como todos os nãos que recebeu poderiam significar uma mudança radical em sua vida no presente.
 
-O que nos sobra é a investigação em si, que se aproveita sim da psique dos dois policiais, mas consegue nossa atenção por mais de duas horas de uma busca frustrada exatamente pela criação de um ritmo que oscila de maneira competente entre o humor e o suspense. Acompanhamos cada pista e cada incidente como se fizéssemos parte daquele grupo, e perdemos e reganhamos as esperanças exatamente como eles.
+Este é um filme de "e se" maduro e lindamente desenhado pelos estúdios. A paleta de cores monocromática e quente das lembranças, seus contornos que lembram poesia e fascinação, e sua falta de bordas que nos remete diretamente às nossas próprias percepções de quando nos lembramos de algo vagamente e distante no tempo, além da música de fundo tímida que cresce na proporção com que o passado se torna mais forte. O resultado é arrebatador e emocionante. Arrebatador porque somos levados junto dela através de um passado muito característico, desenhado com paixão, do Japão na década de 60. Emocionante porque a trilha sonora vem no momento certo. Este é um filme com o timing emocional quase perfeito. Suas virtudes estéticas nos permitem enxergar uma história madura se configurando em tornos desses inúmeros "e ses".
 
-Mantendo a coerência narrativa até o fim, um ato de extrema honestidade com o espectador, ainda que muitos possam não gostar da ideia, Memórias de um Assassino inverte nossas expectativas a todo o momento, misturando realismo e fantasia frequentemente. O final pertence ao campo do realismo, o que não o torna melhor nem pior que outros filmes do gênero, mas sim extremamente honesto.
-
-[O Hospedeiro]: {{< relref "o-hospedeiro" >}}
+Apesar de possuir um roteiro episódico e a separação didática de uma passagem por memória, sua edição fluida não reflete isso, pois pula entre presente e passado como partes indivisíveis do processo. É a magia da animação que não precisa da técnica para funcionar, mas com ela ganha um ar universal mesmo se tratando de uma história local. E seus personagens são tão vivos em seus movimentos e expressões que poderiam ser atores de carne e osso. Seus trejeitos tão bem equilibrados entre o caricato e o característico que dos traços emerge personalidade.
 

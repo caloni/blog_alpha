@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2010-09-24'
-link: https://www.imdb.com/title/tt0948530
+date: '2018-06-25'
+link: https://www.imdb.com/title/tt0388644
 tags:
-- movies
-title: Moscou Bélgica
+- series
+title: Morte na Escadaria (Staircase)
 ---
 
-Essa é uma "comédia romântica" dramática que conta a história de uma mulher recém-separada que quer viver uma vida normal, mas bate o carro em um caminhão e conhece um italiano charmoso que a convida para sair. O resto é passado em uma longa história onde veremos, com nossos olhos incrédulos, a maneira deliciosa que a narrativa nos conta a evolução daquela mulher recém-separada que está literalmente acabada na primeira cena, no corredor escuro e fechado, com a câmera mais alta, fazendo compras no supermercado, e a outra, radiante, caminhando em direção ao nascer do sol do lado dos trilhos, abertos e livres.
+Mais uma série que demonstra a incompetência e/ou a má fé do sistema americano de justiça. Ou podemos dizer a má fé de qualquer sistema de justiça estatal? Perdoem-me os religiosos, mas um sistema que paga juiz e advogado de acusação pela mesma folha não tem muitas chances de ser algo remotamente imparcial.
 
-Sempre com a câmera tremendo, a ansiedade e a tensão são intensificados de maneira realista e quase documental, embora tudo com um clima bem agradável e piadas inteligentes que desenvolvem o perfil de cada personagem e determina competentemente a função de cada um em torno da grandiosa protagonista que vemos evoluir durante toda a filmagem.
+O que me chamou mais a atenção foi que o juiz era negro e uma das promotoras era mulher e negra, julgando um branco rico pela séria acusação de homicídio. Mas você não vai ver ninguém sugerindo o suposto racismo no sistema judiciário americano, não é mesmo?
 
-Não só isso, algumas cenas e cenários são escolhidos a dedo, em sequências econômicas e expressivas ao extremo, como quando vemos o namorado dela bêbado pela primeira e única vez brigando com sua ex-mulher e seu amante; note como a câmera treme de forma diferenciada, com o foco se perdendo fácil e cortes não-lineares.
+Nem os idealizadores, documentaristas franceses que realizaram o brilhante e tenso Making a Murderer. Eles possuem a disciplina e competência de filmar, a pedido do acusado, um escritor famoso, o circo que se forma em torno da morte acidental de sua esposa, caindo da escada bêbada e sangrando até morrer. Se trata de um caso que exige ciência e razão para que não se confunda com agressão doméstica, até pelas fotos do estado da mulher, que parece ter sido duramente abatida.
 
-Por outro lado, veja como a luz que incide sobre o casal que reata na penúltima cena demonstra toda a fragilidade de ambos, tanto no choque entre eles (ela dá um soco no nariz dele) quanto na pureza deste (ele beija o punho que ela machuca no ato).
+Só que racionalidade não existe no condado de Durham, que apesar de bem ao norte da Carolina do Norte, ainda pertence ao Sul dos EUA, e o pensamento preconceituoso limitado e tendencioso de seus habitantes. Peterson não é bem quisto entre as autoridades. Ele é um escritor de sucesso e escreveu uma coluna política no jornal local onde tecia duras críticas a representantes do governo por lá. E como ele mesmo diz, ninguém se esquece quando é feito de idiota.
 
-Mas se uma cena ou outra nos faz comovidos tão facilmente, apesar das posições e movimentos brilhantemente escolhidos pelo diretor, o grande "trunfo" de todo filme é a atriz principal, que constrói de maneira inequívoca uma personagem desatada com o que existe em sua volta, que insiste em comer as coisas com mostarda e não sente o gosto de nada (outra metáfora usada de maneira tão inteligente, como quando ela volta a usar mostarda quando volta com o marido). Enfim, uma mulher que deseja e tenta ardentemente ter uma vida normal, mas nunca consegue, e se sente frustrada e perdida por isso. Porém, aos poucos ela vai entendendo a dinâmica de sua vida a partir de suas experiências, decide agarrar com convicção o que tem aprendido e escolhe o que disse que sabia desde o começo da vida: ser feliz. Tudo isso sem explicações, sem diálogos expositivos, mas apenas com pequenas expressões e gestos tão bem trabalhados.
+Além disso temos a situação da sexualidade de Peterson. Dentro de um casamento heterossexual em uma família formada por outro casamento e diversos filhas e um filho vivendo em harmonia por tantos anos, Peterson também tinha um lado homossexual conhecido apenas por sua esposa. Quando isso vem à tona é como se fosse sua declaração de culpado por homicídio estampado em sua testa.
+
+Recheado de incongruências em seu processo, e nos dando de brinde sua conclusão em 2017 (os documentaristas estavam a postos para fechar seu arco da vida real), Staircase é um trabalho coerente do começo ao fim, que consegue aparar as arestas de um tortuoso processo, que no começo nos dá o benefício da dúvida de ambos os lados, mas que acaba descambando para o inevitável: a justiça humana possui falhas tão inerentes à nossa natureza que a única coisa que nos resta é lamentar.
 

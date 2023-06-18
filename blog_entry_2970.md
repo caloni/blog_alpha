@@ -1,21 +1,25 @@
 ---
 categories:
 - writting
-date: '2012-10-23'
-link: https://www.imdb.com/title/tt2164058
+date: '2013-03-14'
+link: https://www.imdb.com/title/tt1623205
 tags:
-- mostra
 - movies
-title: Pa-dak pa-dak
+title: 'Oz: Mágico e Poderoso'
 ---
 
-Padak, primeiro trabalho do diretor Lee Dae Hee, não cria uma história muito envolvente, mas possui um arco que chega a ser angustiante e libertador. Basicamente acompanhamos as tentativas frustradas de uma cavala (uma espécie de peixe) em tentar escapar de um aquário de um restaurante de frutos do mar. Há muito diálogo e pouca ação. Quando há ação, a animação peca por recorrer aos mesmos movimentos vistos.
+A visão em preto e branco em uma tela quadrada de Kansas nos revela um lugar com pouco lugar para imaginação. Isso não impede que Oscar (James Franco), um mágico em um circo itinerante, apresente seus espetáculos como shows inesquecíveis para o público. Isso gera uma crença descomunal do povo, que acha que o homem é capaz de realizar milagres. Por não pertencer a esse mundo, sua fuga o leva literalmente a outro: um fabuloso, colorido e dentro de uma ampla tela. É assim que o diretor Sam Raimi (trilogia Homem Aranha) quer que vejamos Oz, uma terra verdadeiramente mágica.
 
-Talvez pelo aspecto técnico não chegar de fato a competir com os grandes estúdios, a fixação do diretor em animar sempre as cenas não corresponde aos seus esforços. Uma melhor forma de investir sua criatividade seria com o uso de cores e ritmo, estes sim com um potencial relevante. Dessa forma, chega a ser irritante o modo com que a câmera gira 90 graus a cada momento, um artifício repetido à exaustão, e empolgante as mudanças mais radicais de ângulo, como a que alterna a visão dos peixes e dos humanos, com a largura do quadro correspondendo a dois mundos tão distintos.
+O espetáculo visual que é Oz não impede que sejam feitas referências no modo de construir o encantamento visual. Embora não precisasse, os cenários ao horizonte revelam o artifício de Matte Painting, pinturas no fundo do estúdio, usado no [filme original]. De certa forma, os recursos digitais mais aproximam-se do burlesco e de [Mary Poppins].
 
-No entanto, há algumas virtudes interessantes, que poderiam talvez existir apenas em produções independentes como essa. A crueldade com que os peixes são vistos, sendo decepados pelo funcionário do restaurante e o prazer dos clientes em degustar os pedaços de um peixe ainda com espasmos, ou o modo claustrofóbico com que os peixes se aninham em fila para olharem para o seu chefe, uma arraia com uma história traumática no passado e que hoje se esconde debaixo de uma tampa.
+James Franco não é um grande ator, mas sua simpatia combina com o personagem de Oz, que é um ser inventivo e carismático. O mesmo não se pode dizer das mulheres que o rodeiam, que fazem um esforço descomunal para parecerem inocentes (ou não). Mesmo Michelle Williams, inspiradora na primeira parte da história, é forçada pelo roteiro a se tornar uma mera coadjuvante feminina no melhor estilo Disney.
 
-Há números musicais, e são inspirados. A animação criada para eles é criativa, mas não consegue realizar uma transição do "mundo real" sem quebrar o seu ritmo. Se sai melhor os inúmeros flashbacks, que apesar de confundir presente e passado, passam uma imagem vívida da mente dos personagens, em especial uma cena envolvendo uma criatura à espera de sua morte.
+Mesmo que a história já seja conhecida, ou para aqueles que não se lembram, a reinvenção de Oz encanta conforme somos apresentados aos seus elementos narrativos. Reaprendemos a enxergar aquele mundo com mais doçura e inocência do que o início no circo. Essa evolução é importantíssima para o terceiro ato, quando vamos conhecendo os detalhes ainda secretos da história.
 
-O uso competente de uma "pista e recompensa" especial e o ritmo milimétrico da última cena consegue criar o clima angustiante no último momento, que faz quase valer os rodeios que a história passou até então.
+Embora parta de um roteiro confuso que parece se esquecer que não estamos mais na década de 60 e o que parece imprevisível muitas vezes se revela banal, é admirável o que os trailers conseguiram, mantendo a discrição de uma história simples e que não poderia terminar diferente.
+
+Assim como Arthur C. Clarke imaginava a evolução da sociedade, que, apresentada a um povo suficientemente primitivo, se torna indistinguível de mágica. Aqui ironicamente um povo onde a mágica é comum não conseguiria distingui-la de tecnologia. Nesse sentido, a mensagem de "Oz" não poderia ser mais eficiente.
+
+[Mary Poppins]: {{< relref "mary-poppins" >}}
+[filme original]: {{< relref "o-magico-de-oz" >}}
 

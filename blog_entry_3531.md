@@ -1,14 +1,12 @@
 ---
 categories:
 - writting
-date: '2019-04-24'
-link: https://www.imdb.com/title/tt9381622
+date: '2021-04-04'
+link: https://www.imdb.com/title/tt5446578
 tags:
-- series
-title: Special
+- animes
+title: Space Patrol Luluco (Uchuu Patrol Luluco)
 ---
 
-Ryan O'Connel criou e é o astro de sua própria série. Ele tem paralisia cerebral, é gay (pelo menos na série) e não tem vergonha de sair do armário. Por ser gay. Já por ser aleijado...
-
-Esta é uma série de humor negro, e apenas por isso eu a recomendo. Mas há mais coisas. Ele vai trabalhar em uma revista de millenials. Tem um cara usando suspensórios. A estrela do lugar é uma gorda porque ela vive escrevendo artigos sobre o orgulho de ser gorda. Ela diz no piloto: "falar sobre sua condição te libera; você acaba possuindo o que diz e ninguém mais pode controlar". Eu não tenho palavras para tamanha sensibilidade e falta de vitimismo. Esta é a série que estava esperando sair do armário depois de tantas tentativas frustradas (como o medíocre Atypical).
+A inventividade do nonsense nesta animação com vários conceitos artísticos que fogem do lugar comum, como mesclar fotos de lugares reais com as personagens do anime ou o uso de uma câmera frenética que lembra muito a falta de limites em Kill La Kill. A história é pano de fundo para o absurdo. As possibilidades de uma cidade japonesa onde terráqueos e aliens convivem são ilimitadas, mas em Uchu Patrol Luluco ainda existe um estilo de desenho cartoon que eleva mais ainda as fichas. Curto e simples de acompanhar.
 

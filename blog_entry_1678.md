@@ -1,21 +1,23 @@
 ---
 categories:
 - writting
-date: '2020-05-16'
-link: https://www.imdb.com/title/tt3615002
+date: '2018-08-17'
+link: https://www.imdb.com/title/tt6330052
 tags:
-- animes
-- series
-title: Gekkan Shojo Nozaki Kun
+- cinemaqui
+- movies
+title: 'Gauguin: Viagem ao Taiti'
 ---
 
-Assisti a esta série a temporada inteira e me esforcei para não debochar da fórmula e em troca ganhei algumas piadinhas. Algumas até engraçadas, mesmo que previsíveis. Quem não liga para isso é mais feliz assistindo animes.
+A passagem de Gauguin pela Polinésia não é apenas a história de um homem do mundo moderno indo resgatar sua origem selvagem, mas um artista buscando entender sobre as perdas envolvidas nesta transição.
 
-É até possível sair da fórmula imposta pelos gêneros de animes, como este "mangá para garotas", mas esta é uma série que não o faz. A ideia é uma história onde a menina se apaixona por um desenhista de... acertou: mangá para garotas. Quase como um Madoka Mágica Shojo, se este anime usasse sua ideia diferente não apenas como porta de entrada, mas também no desenvolvimento da história.
+Vincent Cassel como Gauguin se entrega ao ato de se transformar no homem branco vivendo como nativos, mas sem nunca deixar de lado as telas e tintas que sempre revelam que sempre será eternamente um observador. Seu ressentimento pela miséria e sua indignação pelo seu amigo nativo se transformar em um mero comerciante demonstram a triste, inconsolável verdade que uma vez que se viveu sob as asas da civilização do estilo europeu, rico ou pobre, nunca mais se volta à inocência da vida simples e sincera ao lado da natureza.
 
-Para os que não conhecem, Madoka Mágica é um mangá/anime do estilo "garotas mágicas", mas ele subverte o gênero descrevendo uma ficção científica dark e pesada que caminha por devaneios filosóficos envolvendo moral, destino e sentimentos humanos. Apenas como chamariz, Madoka cita a obra máxima de Goethe, Fausto, e com propriedade, já que lida com pactos cujas consequências estão fora da compreensão do seu protagonista, seja Fausto ou Madoka. Porém, minhas desculpas a Goethe, mas Madoka acaba sofrendo mais.
+Este não é um filme muito feliz. Ele é frustrante na medida em que entendemos que uma vez que há contato entre duas culturas uma delas irá se perder, ou se transformar mais radicalmente. E os momentos fugazes que Gauguin captura em suas pinturas parecem já conter traços de sua própria cultura. Aliás, note como sua musa, Tehura, interpretada por Tuheï Adams com uma postura sincera, gentil e independente, se transforma em seus quadros, que vão do cotidiano tribal, passa pela erotização natural (e fetichista) e pelo esotérico e termina em uma nova forma de burguesa falsa, talvez o ápice de repulsa dos que acreditam no mito do bom selvagem.
 
-Quando uma obra dessas surge ela impulsiona ou revela um desejo latente na geração em explorar metalinguagem. Cansados das velhas fórmulas, as obras se voltam para si mesmas como uma maneira de se analisarem e com isso tentam criar algo novo, o que quase nunca funciona. Como se diz lá na Marvel: fazer um reboot.
+O filme de Edouard Deluc possui tons melancólicos espalhados por uma passagem interessantíssima da vida do pintor, o que torna sua descoberta ainda mais dolorosa. Felizmente há momentos de pura completude, simbolizados por um coração fraco que se recusa a se render e ser internado em um hospital, pois sua urgência com suas telas e sua vontade de viver atingiram o nível máximo. Podemos até conjecturar que Gauguin provavelmente viveria mais com os recursos médicos da civilização, mas vale a pena trocar a qualidade de uma vida plena pela mediocridade eterna?
 
-Esta série entra nesse esquema de maneira preguiçosa, quase como um deboche ao gênero que representa. Com isso adota o caminho inverso do nobre drama sobre a existência de garotas mágicas em um universo fadado à entropia para mais um anime que usa os mesmos artifícios de história de menininha. O fato dela estar inserida na própria obra que analisa é mero capricho mercadológico.
+A fotografia, tão importante nesse trabalho, segue um caminho interessante: as cores do mundo selvagem são pálidas, em dias sempre nublados e tons que não se distanciam uns dos outros, mas as cores de Gauguin, ainda que longe de serem carnavalescas, por contrastes são mais alegres, embora sempre harmonizem com o ambiente onde foram pintadas. A trilha sonora, por outro lado, nunca deixa a tristeza de lado, que desde a festa de despedida na Europa apenas se intensifica, elaborando melodias dissonantes e dramáticas sem chamar muita atenção para elas.
+
+O roteiro é baseado no livro do próprio Paul Gauguin, Noa Noa, que muitos dizem já ser em parte romantizado. Se isso for verdade, que tristeza a melodia de um homem só, que tentando viver como selvagem busca resgatar seu elo perdido, mas encontra apenas seu próprio reflexo na natureza, demonstrando que a perda da inocência não é algo irreversível, mas inevitável. Quiçá remediável. Mas isso não sabemos por este melancólico filme.
 

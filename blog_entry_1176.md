@@ -1,16 +1,16 @@
 ---
 categories:
+- reading
 - writting
-date: '2020-03-28'
-link: https://www.imdb.com/title/tt0139961
+date: '2016-08-24'
 tags:
-- movies
-title: Das Tripas Coração
+- books
+title: Darkly Dreaming Dexter
 ---
 
-O final das pornochanchadas dá origem a este filme da diretora Ana Carolina, seguidora de Godard na linha de frente contra a lógica opressora burguesa. Ela abandona todo e qualquer sentido neste trabalho onírico que documenta as cantigas e brincadeiras de boca suja de um colégio de garotas e da insinuação de sexo a todo momento com todo mundo. Ela pode levantar a bandeira libertina enquanto não mostra nenhuma nudez nem sexo daquelas garotas com pessoas mais velhas, pois do fundo de um artista da contracultura há uma moral careta como qualquer outra.
+O primeiro livro de Jeff Lindsay, que deu origem à série de livros do serial killer que mata serial killers (além da própria série televisiva de oito temporadas), é um relato intimista e bem-humorado de uma pessoa que não consegue se ajustar socialmente, então finge ser alguém que não é. Curto, mas suficiente, dá uma boa ideia sobre como é esse personagem tão fascinante, em um esboço criado a partir de seus próprios pensamentos. Lendo após terminar a série, vejo quão bem feito ficou o protagonista estrelado por Michael C. Hall, e quantas boas ideias surgiram de uma premissa interessante. Uma adaptação que começou muito bem na primeira metade, para covardemente tropeçar desfiladeiro abaixo na segunda metade.
 
-Os devaneios do personagem de Antônio Fagundes fazem eco com os devaneios vindouros de uma nova democracia: a democracia impossível. Este é um filme 100% brasileiro que não consegue se desvencilhar de nossa incapacidade de conciliar a miscelânea cultural, para não dizer bagunça, que vivemos.
+E isso porque a adaptação tinha tudo para dar errado. A narração em off de Dexter no livro é uma descrição muito mais interna que externa, e não há muitos momentos de ação no livro. A série sofre da falta de personagens secundários interessantes, e assim como House, patina em dramas paralelos que não acrescentam em nada na história principal. A parte acrescentada do universo onde vive o serial killer foi tirado de uma série genérica, o que é uma pena. Contudo, tamanho é a força do "herói" da história, e tamanha interpretação de C. Hall para o papel, que conseguimos desculpar boa parte das bobagens que vemos na TV.
 
-Ele é divertido em boa parte do tempo, e no resto dele enfadonho. Os exageros e os gritos se tornam repetitivos. No começo o absurdo encanta, mas logo depois se perde o interesse. Como uma criança birrenta que apronta o tempo todo, ela só merece atenção nos primeiros minutos até entendermos que se trata apenas de uma criança birrenta.
+Já o livro mantém o clima de suspense, e muitas vezes trapaceia jogando a pista falsa. Seu forte é o bom humor, e um humor negro que revela o cerne da questão (do livro e da série): não é apenas a história de um serial killer, mas de cada um de nós. Disfarçados em uma persona que agrade a todos o suficiente para que não se façam perguntas em demasiado, todos nós carregamos um Passageiro Sombrio em nós mesmos. Claro, não matamos ninguém (pelo menos a maioria), mas a aula sobre como funciona socialização de seres humanos dada por Dexter, em como fingir expressões, dizer o que as pessoas esperam ouvir, e conseguir se livrar da maioria dos aborrecimentos que é conviver com os outros é a maior virtude do livro.
 

@@ -1,20 +1,27 @@
 ---
 categories:
 - writting
-date: '2016-01-04'
-link: https://www.imdb.com/title/tt0119528
+date: '2019-09-23'
+link: https://www.imdb.com/title/tt5581284
 tags:
+- cinemaqui
 - movies
-title: O Mentiroso
+title: O Menino que Fazia Rir
 ---
 
-Jim Carrey é um comediante tão talentoso que, se inserido no projeto certo, pode render um filme que sem ele seria apenas um passatempo da sessão da tarde, mas com ele ganha contornos cartunescos que remetem o significado da história que acompanhamos para algo além do trivial.
+Eu gostaria de dizer que "O Menino que Fazia Rir" é um filme doce, que tem a linda mensagem de que rir é o remédio para a dor e o sofrimento, mas, desculpem os leitores, eu não assisti filmes da Disney o suficiente na minha infância para transformar meu coração em algodão-doce. E, devo arriscar dizer, nem os idealizadores deste filme.
 
-É assim com O Mentiroso, a fábula que envolve um pai separado que não consegue parar de mentir no emprego de advogado e para seu filho, o desapontando frequentemente, até que um pedido mágico do garoto faz com que ele não consiga mais mentir por um dia inteiro, o que vira um desastre por ser justo no dia em que, colocado à prova para entrar em sociedade no escritório onde trabalha, ele irá defender uma cliente baseado em mentiras.
+Isso porque há algumas desgraças nessa história, e não estou me referindo à passagem desajeitada do tempo, que nos conta quando o ano é 1971 ou 1972, sendo que isso não tem a menor importância na história. Pessoas morrem no filme. Pessoas queridas. Não porque há um vilão. São coisas da vida, sabe. Acontece com todo mundo. Acontece nas melhores famílias.
 
-Dirigido por um improvável Tom Shadyac (Todo Poderoso? Patch Adams??), o filme é um quê de grandiosidade, como podemos perceber pelas tomadas criativas de Shadyac, que usa uma sequência hilária de tomadas na cena mais engraçada da trama -- em que Jim Carrey tenta dizer que uma caneta azul é vermelha -- além de uma trilha sonora (John Debney) que remete diretamente a comédias épicas como Esqueceram de Mim.
+Estamos na Alemanha, década de 70, ouvindo um garotinho rechonchudo e engraçado nos contar a sua história. Ele lamenta por uma perda que ainda veremos, fechando o combo "narração em off porque é fácil" e "filme inteiro em flashback sem precisar". Suas avós são uma delícia, daquelas pessoas que formam o nosso caráter e ainda fazem bolos deliciosos. E sua mãe, a dádiva da natureza em pessoa. Alegre, leve e que nos faz concluir de onde veio o tom alegre deste garoto, Hape Kerkeling.
 
-O pior é que com as caretas de Jim Carrey toda essa grandiosidade funciona, e na maior parte do tempo nos convence de que esta é uma história de proporções épicas, pois o que está em jogo é a felicidade de uma criança e um sucesso de um pai em sua tentativa de ser honesto com seu filho. Percebemos isso nos momentos mais sóbrios e tocantes, quando o vemos surpreso por dizer que quer o melhor para seu filho e constata que essa é uma verdade fácil de ser dita.
+Hape Kerkeling é um ator, apresentador e comediante alemão. Mas você já sabe disso no começo da história mesmo sem ser alemão. Hape garoto aponta para a TV preto e branco e diz: "já sei o que quero ser: esse cara da TV de quem todos riem". Estamos assistindo a uma biografia pautada nas perdas do comediante quando era apenas um garoto como outro qualquer, com sonhos e esperança.
 
-Apelando sempre para o emocional, porém, o filme tem seus defeitos também no exagero, e tentar nos manipular com uma criança não parece ser a melhor maneira de ganhar a empatia do público. Felizmente, o resultado é mais pastelão do que lenços de papel.
+É tocante que sua trajetória possa ser explorada por suas perdas na infância, e mais tocante ainda a adaptação de Caroline Link do livro do próprio Hape Kerkeling, o que culminou no roteiro de Ruth Toma. Esse trabalho em conjunto gera uma obra que a direção de Caroline Link tranforma em um frescor, um filme gostoso de ver, que não se preocupa em explicar demais, mas mais no sentir do que não pode ser explicado. Este é Hape, sua mãe, suas avós, e tudo o que ele precisa saber para poder viver reside nessas três figuras maternas.
+
+É um prazer fazer parte desses pequenos momentos nessa pequena cidade alemã. A direção de arte do filme nos transporta para essa mescla entre a natureza presente nos jardins e nas montanhas que cercam os habitantes, a culinária e confeitaria alemã, riquíssima em sabores ainda que usando o mesmo padrão de receitas -- bolos e embutidos -- e a cerveja e a música, sempre presente nos eventos em família, nas festas e nos momentos de lazer. Há um trabalho de imersão elaborado aqui que já valeria o ingresso.
+
+Mas além disso o filme de Caroline Link nos leva um pouco além, na busca por sensações da infância que farão a diferença quando adultos. Para isso ela cria uma separação das cenas onde os eventos mais importantes de sua família, como a mudança, a doença e a morte, são apenas informados ao jovem Hape, e geralmente no último momento. Cabe ao garoto tentar extrair o significado de tudo isso, e ele encontra o significado no humor. A descoberta disso por ele é mostrada de maneira simples, mas não simplória: a risada das pessoas é o sinal de que ele precisava para entender o que pode fazer na vida.
+
+O Menino que Fazia Rir não é um filme intrincado, manipulativo e que possui reviravoltas. É antes um filme de sensações que todos temos na infância, e que nesse caso moldou um comediante alemão. Ao final ele diz que descobriu apenas muito mais tarde que ele era parte sua mãe, parte sua avó, parte seu pai e assim por diante. Essa é uma maneira poética de entender a vida, mas não totalmente fantasiosa. Ganhamos parte dos que nos geraram via genética e emprestamos dos com quem convivemos para nos tornar quem somos. Encontrar algo tão profundo em uma pequena biografia despretensiosa é uma recompensa encantadora.
 

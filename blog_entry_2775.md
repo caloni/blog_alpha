@@ -1,22 +1,27 @@
 ---
 categories:
 - writting
-date: '2017-04-16'
-link: https://www.imdb.com/title/tt3874544
+date: '2017-12-09'
+link: https://www.imdb.com/title/tt5503688
 tags:
+- cinemaqui
 - movies
-title: O Poderoso Chefinho
+title: O Poder e o Impossível
 ---
 
-É um alívio assistir a uma animação que não se esforça nem um pouco em ser a primeira de uma franquia, e que corajosamente atravessa todo o arco de seu herói para terminar como um "filme normal". Além disso, dirigido com uma fluidez dinâmica alimentada por uma criatividade sem limites de seu roteiro -- que usa uma chupeta da maneira mais inventiva possível -- e sua direção de arte -- que explora através de formas e cores os passeios deliciosos na mente de uma criança e suas aventuras -- O Poderoso Chefinho é uma animação que subverte um pouco o circuito comercial e em troca recebemos uma divertida história fácil de acompanhar, e que ainda que não esteja completa e redonda do começo ao fim, empolga mais que o suficiente para nos lembrarmos do filme com uma certa memória afetiva.
+Esse é um filme que teria de tudo para não dar certo, ser clichezão, etc. Ele lembra 127 horas, mas enquanto James Franco não é um exemplo de empatia o ator Josh Hartnett atinge a glória ao nos preocuparmos com seu destino, mesmo que na neve ele seja um completo idiota.
 
-A história facilmente subverte, assim como Cegonhas, o próprio conceito de onde vem os bebês, explicando visualmente que há alguns bebês fabricados pela Baby Corp que não sentem cócegas e são encaminhados para a gerência. Sem o menor pudor ou explicações redundantes -- e destinadas ao fracasso -- o pequeno bebê que chega na residência dos Templenton é recebido pelos pais como algo normal, e apresentado ao seu irmão filho único até então como uma criatura adorável, ainda que vestida estranhamente de terno preto e carregando uma maletinha de homens de negócios.
+E, sim, essa é a ideia que quiseram passar para caracterizar o jogador de hóquei Eric LeMarque. Ele é um idiota, comeria até neve se pudesse (ao contrário do que se poderia pensar, ela desidrata em vez de ajudar na sede). Ele está isolado em uma cabana na neve, faz snow boarding para se manter ativo, e é viciado em drogas em recuperação gradual. O mundo fica mais focado depois que ele ingere da substância, em uma ótima ideia para tornar isso visível para o espectador.
 
-Apresentando mais conceitos que os inicialmente explorados no trailer, a história é surreal e ainda assim conseguimos acompanhar como um conto que é apaixonante em cores e sequências e engraçado no processo, para adultos (piadas subliminares da vida corporativa) e crianças (piadas de bebês, e elas funcionam!). Sua trilha sonora consegue habilmente trafegar entre a aventura onírica e o clima de máfia de filmes como Poderoso Chefão (apesar de apenas seu título brasileiro fazer menção ao clássico de Francis Ford Coppola).
+Falei que a história lembra 127 horas porque assim como o filme de Danny Boyle, o esportista aqui vem de uma história real e fica preso em uma situação de vida ou morte. Conforme o tempo passa surgem os flashbacks sobre sua infância dura com o pai abusivo e sua relação de amor e ódio com o hóquei. E também nesse sentido a história encaixa melhor, já que o nosso passado geralmente tem a ver com nosso presente. E no formato de filme isso evita longas exposições, o que tornaria o drama atual fraco demais.
 
-A direção consegue montar sequências habilmente sincronizadas pelo seu editor entre a imaginação de uma criança extremamente criativa em seu mundo de faz-de-conta e a realidade, e implora ao espectador que suspenda sua incredulidade em torno de tantas licenças poéticas. Principalmente as do terceiro ato, que exigem demais da trama, e acaba a desmontando como um castelo de cartas inacabado.
+E o ator Josh Hartnett se aproveita de todas as oportunidades em que ele sente dor. Sua perna está contundida porque ele é um idiota, tinha se trancado do lado de fora de sua cabana e arrombou a porta com os pés descalços. Isso em um frio de 10 graus negativos é um senhor incômodo, mas a menos trinta é a certeza de morte. Assim também o vê a gerenciadora de riscos e resgate Sarah (Sarah Dumont), que só descobre que há alguém sumido em sua região alguns dias depois. Mira Sorvino faz a mãe do rapaz, a única pessoa que o apoia. A única amiga.
 
-Ainda assim, há alma e paixão em O Poderoso Chefinho o suficiente para entreter com ideias interessantes a respeito de como nossa geração está trocando bebês enérgicos por convenientes pets (e como culpá-los?), além dessa velha rixa entre os filhos únicos e seu novo irmãozinho (ou irmãzinha). Além disso, as piadas impróprias, como lançar algumas notas de dólares ao ar para compensar a falta de um artifício maior estão aí tanto como contra-exemplo como também uma alfinetada no politicamente correto.
+O roteiro do estreante Madison Turner se aproveita do livro do próprio LeMarque e Davin Seay e conta uma história que vai apresentando os acontecimentos no gelo dia após dia que demonstra como quando praticamente tudo que pode dar errado dá errado ficamos entre a vida e a morte. Claro que a todo momento o longa frisa que de fato LeMarque é um completo ignorante sobre sobrevivência no gelo, e que graças à sua garra e sua vontade de viver ("não posso deixar que ela (a mãe) me veja assim") é que ele vai durando mais tempo do que deveria.
 
-Com a fotografia exuberante, a trilha sonora empolgante (na maioria do tempo) e criaturas amáveis apresentadas pelas melhores técnicas de animação do momento aliadas às velhas técnicas do cinema de perspectiva, chegando até ao expressionismo alemão. Um feliz golpe de novidades para o campo dos desenhos para crianças.
+Mas se não fosse pelo diretor Scott Waugh este filme seria bem sessão da tarde. Graça a ele e sua escolha da mise en scene somos levados a crer em toda a desorientação do rapaz, em como o frio interfere em nosso julgamento, em como a fome nos faz tomar más decisões e em como aos poucos nossa humanidade vai sendo drenada pela mãe natureza e sua fúria irracional. Tudo em volta de LeMarque está contra ele, e ele não possui nada, exceto sua força de vontade, para continuar existindo.
+
+Mas ele é drenado aos poucos, e Waugh sabe disso. Sua cara vai queimando aos poucos. Sua perna vai ficando vermelha aos poucos. Ela apodrece. Ele come um pedaço dela. O desespero do rapaz é crescente. Não explode de repente. E é em um determinado momento que o filme demonstra todo seu potencial dramático sendo aproveitado: LeMarque está deitado. O quadro é um plano-detalhe extremamente próximo do seu rosto cheio de gelo, queimaduras e sua pouca barba. Seu pelo no rosto forma uma "cena" pitoresta que lembra os pinheiros na neve. LeMarque se transformou na neve. Ele está completamente tomado. É um momento solitário, silencioso e dramático não porque a música insiste, mas porque a situação simplesmente não poderia ser diferente.
+
+O Poder e o Impossível é um filme forte e tenso. Não é uma história com um final feliz tão fácil assim. É um ritual de passagem. Talvez para um amadurecimento. Isso não fica totalmente claro. Mas é menos de sobrevivência e mais de compreensão do que é a vida. Se para isso LeMarque teve que ressuscitar, é algo que se deixa para a interpretação do espectador.
 

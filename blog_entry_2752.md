@@ -1,25 +1,25 @@
 ---
 categories:
 - writting
-date: '2017-11-06'
-link: https://www.imdb.com/title/tt5222918
+date: '2017-03-22'
+link: https://www.imdb.com/title/tt4929038
 tags:
 - cinemaqui
 - movies
-title: O Outro Lado da Esperança
+title: O Ornitólogo
 ---
 
-O Outro Lado da Esperança cria metáforas visuais que ao longo da história servirão para martelar o incômodo e o absurdo. Vemos um navio se aproximando. A câmera se aproxima dele, que atraca no porto. É um navio que carrega asfalto. E do asfalto eis que surge um imigrante. Sujo de ponta a ponta. Toma um belo banho e está limpo de novo. A "mesma coisa" acontece com o vendedor que se livra de todo seu estoque e transforma o seu dinheiro em um restaurante. Ambos estão tentando tocar suas vidas, mas é difícil, pois ambas estão tocadas pela truculência das autoridades. Bom, pelo menos há um pouco de humor para ilustrar o absurdo da situação.
+Cada diretor tem seu Holy Motors (Leos Carax, 2012) que merece. No caso do diretor português João Pedro Rodrigues, O Ornitólogo é uma história com uma estrutura igualmente coesa mas um final hermético e inacessível, tal qual não a arte cinematográfica, mas a mente religiosa.
 
-O novo filme de Aki Kaurismäki explora pequenos absurdos cotidianos que não são engraçados, mas simplesmente... absurdos. O resultado é um filme leve, gráfico, teatral, mas ao mesmo tempo surreal. Ele caminha fácil entre planos, levando sua história a pontos que possivelmente já imaginaríamos, mas não com tanta criatividade.
+A história gira em torno de Fernando (Paul Hamy), um estudioso de aves focado nas regiões em que elas vivem, seus hábitos e modo de vida. Isolado dos humanos, incluindo seu suposto namorado, e navegando pelos rios em seu caiaque, ele passa o dia com seu binóculo observando pássaros dos mais diversos em meio a uma natureza que o olha de volta. Ao sofrer um acidente é resgatado por um casal de chinesas perdidas, física e psicologicamente. A tortura mental começa a partir desse ponto, e através dele somos levados a níveis cada vez maiores de loucura e simbolismo.
 
-O filme fala sobre imigração, isso é óbvio. Mas ao mesmo tempo quer dialogar com todo homem comum que deseja mais. E quando o imigrante e o vendedor desejam mais, todos se viram contra eles. Mas o próprio sistema já é uma contradição ambulante. Assim como as pessoas. Repare no vendedor. Ele está insatisfeito com sua mulher, que bebe sem parar. Então ele deixa a aliança na mesa, se despede e parte para abrir um restaurante, que é um ótimo negócio, pois "as pessoas bebem quando as coisas estão mal, bebem quando as coisas estão bem".
+Roteirizado pelo próprio Pedro Rodrigues, a história carrega simbolismos e um mistério que teoricamente irão ser solucionados mais à frente. No entanto, o "trunfo" do filme é nunca revelá-los, preferindo jogar cada vez mais eventos misteriosos e símbolos. Embora esses eventos possam ser explicados racionalmente, o filme sempre nos puxa a olhar para ele de forma mais metafórica. Os personagens muitas vezes se tornam no melhor dos casos artificiais, e no pior elementos funcionais da história. A noção da realidade vai de diálogos vagos demais a um celular que é arremessado em direção a um pombo.
 
-Já o imigrante, caracterizado com uma presença de espírito ímpar pelo ator estreante Sherwan Haji, consegue manter seu tom do começo ao fim. Ele quase não muda, mas o vemos mudar. Nem que seja por dentro. Ele espera resgatar sua irmã para tentar construir uma vida onde foi parar: na Finlândia. Mas a Finlândia é uma terra de loucos. Pelo menos a trilha sonora é divertida. E a música tocada pelo seu personagem, Khaled, perfura nossos corações em poucos segundos.
+Todas as noções que o filme traz se interligam ao seu conceito religioso. Fala-se do Caminho de Santiago, de uma pomba e de um batismo cristão nada convencional. Através de lindas paisagens da natureza, vistas tanto pelo olhar curioso de um ser humano quanto pela noção holística de aves que o sobrevoam, o tom de mistério é adequado quando entendemos que ele é necessário, assim como é o sacrifício de um pouco de lógica em troca de uma visão mais aprofundada da realidade. Fernando é ateu, e o caminho de "revelação" do filme vai se tornando óbvio.
 
-Agora observe a trajetória dos dois protagonistas. Para um deles, o vendedor, as coisas estão dando sempre certo. Quero dizer, o sujeito vende todo seu estoque de camisetas e vence o chefão de uma jogatina ilegal e sua quadra com um straigh flush. E mesmo lotando seus sushis com toneladas de wasabi, dezenas de clientes orientais aparecem para conferir.
+Sem trilha sonora alguma exceto o que ouvimos dos animais em torno dos personagens, e sem tratamento fotográfico além do uso estético de uma floresta, planícies, montanhas e rios idealizados, a imersão do espectador é naturalista. Acompanhamos a saga de Fernando vista pelos seus próprios olhos e das aves que observa, com raríssimas exceções. No entanto, estamos um passo à frente de sua experiência, pois entendemos todos os idiomas usados no longa, enquanto ele se limita ao que é falado (e escrito) em português e inglês.
 
-Já a trajetória de Khaled é o extremo oposto. Tentando jogar pelas regras ele se cadastra no programa de imigração do país, fica à deriva por um bom tempo e é atacado por radicais nazistas. Mesmo quando ele se dá bem por um momento, sabemos que no máximo será isso: um momento. O que não impede que a sua história também seja otimista, ou pelo menos leve.
+Para os mais céticos, essa experiência em direção ao místico pode necessitar de mais explicações. Fiquei particularmente irritado com o fato de Fernando sempre voltar ao seu celular para tentar rede e conseguir fazer uma chamada telefônica, quando ao mesmo tempo ele lê as mensagens de seu amante sem sequer pensar em mandar uma mensagem de resgate. Não fica claro a transformação interna que o protagonista está passando, pois ela é gradual e praticamente imperceptível, exceto por um ou outro evento estranho.
 
-Mas seja de uma forma ou de outra, "O Outro Lado..." não consegue acertar bem o que pretende falar. Ele é estiloso, possui bons personagens em criativos momentos. Seu humor vai crescendo aos poucos, mesmo sem conseguir ser inteligível. Mas sua mensagem... essa se perdeu no mar. Apenas os imigrantes sobreviveram.
+De qualquer forma, O Ornitólogo oferece uma aventura hermética, mas nunca enfadonha. Há acontecimentos misteriosos e de certa forma perturbadores o suficiente para entreter, sem que com isso nos revele de uma vez por todas o que tudo isso quer dizer. A busca por uma narrativa em um filme que começa sem é essa floresta que nosso herói se enfiou, cheio de símbolos indecifráveis, que de alguma forma o transformaram. Como qualquer religião do planeta, ecológica ou não.
 

@@ -1,22 +1,24 @@
 ---
 categories:
 - writting
-date: '2020-10-18'
-link: https://www.imdb.com/title/tt8387918
+date: '2020-10-25'
+link: https://mostraplay.mostra.org/film/masters-in-short/
 tags:
 - cinemaqui
 - mostra
 - movies
-title: Mate-o e Deixe Esta Cidade
+title: Masters in Short
 ---
 
-Que viagem é este Mate-o e Deixe Esta Cidade. Ótima música pelo compositor e guitarrista polonês Tadeusz Nalepa, que esteve ativo na cena rock/blues nos anos 70 com a banda Breakout. É uma música que vai na alma e que tem tudo a ver com esta vigorosa, conceitual, mórbida animação.
+A proposta da sessão Masters in Short da Mostra de São Paulo esse ano é apresentar alguns curtas de diretores consagrados. São cinco curtas ao total e seis diretores diferentes.
 
-É um percurso sobre vida e morte e o relacionamentos entre humanos concentrados nas memórias um pouco nostálgicas, um pouco deprimentes, de seu protagonista. A existência como um todo, com uma visão peculiar, mas acurada, sobre o que "foi viver". Diálogos cortados no cotidiano colocam em evidência a pequenez da vida dos humanos, irrelevância da morte e o sofrimento dos outros animais posta na perspectiva que melhor entendemos: nos colocando em seu lugar.
+Nos é dito no início que a proposta tem relação com o período de quarentena esse ano, mas o único óbvio exemplo é o primeiro. "A Visita", de Jia Zhangke, que apresenta dois cineastas se visitando para assistir a um filme sendo produzido. Todas as situações comuns vividas esse ano, como o medidor de febre à distância, o uso das máscaras e do álcool gel, e a proibição tácita de se dar as mãos, é revisitada. É um aceno de cabeça para o espectador que sabe bem do que o filme está falando. Talvez bem até demais para ser visto em um filme.
 
-O amor é cantado como a única coisa que torna as coisas melhores nesta vida suburbana que é mostrada no filme, triste e que envelhece as pessoas. Os seres humanos deste filme são retratados como decadentes, e até as crianças estão amaldiçoadas pela sociedade onde nasceram. Elas brincam apenas quando os adultos não estão olhando ou dando uma bronca.
+Os dois curtas seguintes são experimentais. "Os Caçadores de Coelhos" e "O Adivinhador", de Guy Maddin, Evan Johnson e Galen Johnson, são absurdistas e caóticos. Enquanto narram a existência de adivinhos profissionais e o sonho de alguém que já morreu, usos diferentes de luzes e narrativas são tentados para chamar nossa atenção. Ou pelo menos tentar, já que o resultado é nos afastar, nos pensamentos e para dentro de nossos próprios sonhos... dormindo.
 
-A animação é absurda de boa. Criada pela equipe de Mariusz Wilczynski e por ele próprio, que ainda assina roteiro, direção e arte, ela mistura diferentes artes através de luzes, sombras e traços em 2D com paisagens 3D; brincando com perspectiva, alucinações que mesclam a animação e cenário, junto da troca de papéis entre animais e humanos, é provavelmente um dos filmes desta Mostra de Cinema de São Paulo que abrirá mentes.
+Outro campeão em fazer passar sono é este "Uma Noite na Ópera", de Sergei Loznitsa. Feito apenas com imagens de arquivos das décadas de 50 e 60 ele captura toda a pomposidade com que diferentes celebridades do show business e da política adentram o teatro de ópera em Paris, Palais Garnier. Cerca de 70% do filme é sobre a entrada da burguesia ao recinto e 30% vemos a performance de uma cantora. Que vale todo o preço, já que é uma performance de respeito, ainda que por alguns meros minutos.
 
-Mate-o e Deixe Esta Cidade merece constar na lista de filmes esse ano. É mais uma janela que se abre sobre diferentes percepções do mundo. E de brinde contém lindíssimas, profundas, músicas de Tadeusz Nalepa, que se você ainda não conhecia, como eu, agora ganha esta chance.
+Também vale uma espera a menos glamurosa "Escondida", de Jafar Panahi, em que diretor e filha acompanham uma amiga até um vilarejo distante no Irã em que ela descobriu uma menina com uma voz maravilhosa. Proibida de cantar pela família, o clima deste curta é de documentário informal filmado com celulares Apple, o que combina bem com o estilo desse diretor. Eles filmam com dois celulares. Um deles se afasta durante a rápida performance da menina, escondida atrás de um pano. É nesse momento que aprendemos a função do movimento no cinema. Depois que a câmera para, não tem por que continuar a ouvindo.
+
+Curioso como "a mágica" do cinema de repente some quando nada se mexe na tela. E a parada do movimento, em todos os sentidos... isso, sim, tem tudo a ver com a quarentena.
 

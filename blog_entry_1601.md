@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-06-11'
+date: '2018-06-24'
 tags:
 - food
-title: Fincas Privadas Malbec 2016
+title: Finca Las Nubes Cabernet Malbec 2016
 ---
 
-Vinho de mercado (Joanin) com preço ligeiramente acima da média, não é encorpado e um tanto amargo, mas se acostuma com o tempo. Tomando no chá de bebê do amigo da Mitiko que mora perto de casa.
+Este vinho jovem da vinícola Las Nubes em Cafayate eu comprei quando a bodega estava em reforma, impossibilitando degustarmos com queijos da região naquela paisagem estonteante. Mas abrimos com queijos de cabra que trouxemos para casa, também, e o resultado foi sensacional. Cheiro de tanques da vinícola, após uma semana aberto um gosto frutado peculiar.
 

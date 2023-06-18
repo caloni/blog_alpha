@@ -1,14 +1,15 @@
 ---
 
-Erroneamente imaginando que a falta de acesso tinha alguma coisa a ver com a escrita de arquivos no disco, ou até mesmo com a execução de processos, descobri depurando (o bom e velho depurador) que a origem do acesso negado estava na função AssignProcessToJobObject.aspx). Misteriosamente, no Windows 7, ao chamar essa função ocorre esse erro, independente da execução ser como administrador ou não.
+Adam Sandler consegue a proeza de tornar a tosca dublagem brasileira menos pior do que ouvi-lo arriscar um sotaque que é uma mistura de Zohan com trechos de Little Nick.
 
-Como já está se tornando tradição de uns tempos pra cá, a solução veio de um artigo do Stack Overflow, cuja melhor solução foi exatamente a que eu segui: inserir o manifesto do UAC e usar a flag CREATEBREAKAWAYFROMJOB.
+Ele é o conde Drácula dessa sequência da animação onde a próxima preocupação do pai superprotetor é seu neto. Nascido de sua filha vampira e seu genro humano -- claro que eles tiveram que casar antes -- paira a dúvida em sua cabeça se ele se tornará um "monstro", com suas presas de vampiro, se transformando em morcego e tudo mais, ou se continuará com a aparência e comportamento de uma singela, inocente e inofensiva criatura humana. Com a cara do pai humano, é isso que deixa Drácula possesso.
 
-Agora é só esperar pelo próximo bug =)
+E é isso que o leva a pegar o carro fúnebre com seus amigos de longa data -- Frankenstein, Lobo, Homem-Invisível e Geléia Estranha -- para alguns experimentos que irão tentar fazer nascer as presas de seu pequeno neto, em um breve road movie noturno. O resultado é tão divertido quanto seu original, e pelo menos dessa vez existe um pouquinho mais de história, coesa, acontecendo.
+
+Não que isso nos faça esquecer da dublagem de Sandler. Nem um pouco.
 
 ---
 categories: []
-date: '2011-03-22'
-link: http://zeribeiropena.wordpress.com/2011/03/21/dicionario-houaiss-e-babylon-no-kindle/#comment-3
+date: '2011-04-28'
 tags: null
-title: Houaiss no Kindle
+title: Houaiss 1.3

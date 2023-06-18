@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-10-28'
+date: '2017-05-17'
 tags:
-- wine
-title: Quará Torrontes Dulce
+- food
+title: Quara Bonarda Reserva 2015
 ---
 
-Safra 2017 é docinho, simples, corpo médio e fácil de beber; pouco enjoativo.
+Corpo fácil para um reserva; pouco amadeirado e razoavelmente frutado. Muito bom no último jantar em Buenos Aires, com salada, provoleta e ojo de bife na melhor parrillada da cidade em uma noite ébria e um atendimento tranquilo.
 

@@ -1,14 +1,11 @@
 ---
 categories:
 - writting
-date: '2014-03-02'
-link: https://www.imdb.com/title/tt2243275
+date: '2023-06-06'
 tags:
-- movies
-title: El Santos vs la Tetona Mendoza
+- wine
+title: 'El Porvenir: Laborum Tannat 2019'
 ---
 
-É realmente fascinante como existem similaridades entre a sociedade mexicana e a brasileira, como é possível ver nessa animação do diretor Alejandro Lozano e do roteirista Augusto Mendoza. Girando em torno do problema que os zumbis são para o país, e "zumbi" aqui é um simbolismo para as pessoas alienadas que não se mexem no trem para dar lugar para quem vai descer, os que pagam impostos demais e os que ouvem música de gosto duvidoso sem parar, e do problema que é gerado quando eles são eliminados, o que por sua vez consegue remeter a uma mensagem igualmente relevante sobre prostituição e poder feminino, o desenho tem diversos momentos satíricos que tentam homenagear o Cinema em resultados mais ou menos satisfatórios; minha sequência favorita é a de Lista de Schindler, onde uma lata de coca-cola toma a vez do vestido vermelho do original de Spielberg.
-
-Infelizmente, as referências usadas nas gags são quase sempre regionais (e adaptadas na legenda brasileira de maneira desastrosa), o que faz com que o filme perca quase metade da graça. No entanto, os momentos escatológicos são universais, o que favorece a comparação com South Park, ainda que com menos esmero e mais piadas de peido. De bônus, temos um trabalho excepcionalmente articulado e estilizado da equipe do diretor de animação Andrés Couturier, que cria movimento em cartoons que facilmente já seriam fascinantes se estáticos na última página de um jornal de variedades.
+É revoltante o quão bom são os vinhos da El Porvenir. A agressividade dos taninos que lembram as uvas regadas a conta-gotas no meio de um deserto árido, arenoso e praticamente infértil se traduz em uma taça sempre memorável, e que de brinde remete a memórias da própria vinícola. A garrafa que bebo agora é um Tannat de 2019, ou seja, não traumatizado pela pandemia. A Finca é a El Retiro, a mais antiga da vinícola, plantada em 1945. Se trata de um terreno arenoso com poucas rochas. Pela idade das parreiras elas foram plantadas no [esquema pérgola](https://pt.wikipedia.org/wiki/P%C3%A9rgula). Ele é ríspido, mas ainda frutado. O tanino raspa na boca e a envolve em um abraço que acolhe o paladar. Há tons vegetais e minerais na mesma taça. O teor alcoólico ainda é forte, mas faz parte da experiência completa.
 

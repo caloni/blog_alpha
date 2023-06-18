@@ -1,16 +1,27 @@
 ---
 categories:
 - writting
-date: '2014-06-06'
-link: https://www.imdb.com/title/tt2007360
+date: '2019-05-10'
+link: https://www.imdb.com/title/tt7425520
 tags:
+- cinemaqui
 - movies
-title: Computer Chess
+title: Compra Me Um Revólver
 ---
 
-Já virou um clichê cinematográfico: se vai fazer filme de xadrez, sua história tem que ser complexa. No caso de Computer Chess, essa complexidade nos personagens e em suas relações é complementada pelo fato de um filme de 2013 emular os anos 80 através de filmagens em preto e branco, com razão de aspecto quadrada e erros de edição. Um possível encontro de programadores entusiastas em um torneio disputado entre suas máquinas de fazer cálculo. A ideia é parecer um documentário, mas sua estrutura possui o tom ficcional, com cortes definidos e diálogos obviamente vindos de um roteiro. Vemos a câmera e o cameraman diversas vezes, o que obviamente já nos revela aquele ser um filme amador sobre um documentário sendo feito em um campeonato de programas de xadrez, o que com certeza dá o tom da complexidade que comentei.
+Compra Me Um Revólver começa com a seguinte premissa: "em um México sem lei, a população diminui porque estão desaparecendo as mulheres". Assistindo ao filme entendemos que o problema populacional não se deve à falta de úteros, mas ao excesso de pênis. Todos sabem que o nível de violência em uma sociedade varia de acordo com a quantidade de pênis disputando território.
 
-Os personagens existem, não há dúvida. São eles que nos entretem, e não o jogo em si. Alguns deles possuem arcos unidimensionais, tal qual peças em um tabuleiro (daí o clichê). Quem conclui isso é um dos programadores. Inserido nessa atmosfera também está um grupo de casais em terapia feita em uma sala compartilhada pelos nerds em momentos distintos.
+A heroína da história e sua narradora é Huck (Matilde Hernandez), uma garota que vive com seu pai cuidando de um campo de beisebol apossado pela máfia local. Ambos estão em um ambiente onde Huck não deveria viver, pois por ser mulher, ainda que criança, ela se torna uma espécie de recompensa para os homens, que de tão poucas fêmeas disponíveis vestem roupas floridas por cima de seus coletes.
 
-O que torna Computer Chess um bom filme é sua capacidade de nos prender pelos pequenos traços marcantes dessas pessoas exóticas (nerds ou não) e a observação quase clínica de como essas pessoas interagem em um espaço fechado, alguns sob pressão perdendo continuamente, outros sem ter onde dormir e sem dinheiro. O que o torna medíocre é o fato do diretor/roteirista Andrew Bujalski se achar um gênio e esquecer de amarrar esses traços em algo mais palpável, permitindo que a liberdade da narrativa atrapalhe sua maior virtude. Diferente de filmes como Amor (Haneke, 2012), que mostram o real para impactar, Computer Chess mostra o real para se fazer de esperto. Essa esperteza, no entanto, não sobrevive a uma análise mais enxadrística.
+Além das roupas estão todos sempre fortemente armados com fuzis, espingardas, pistolas, e as carregam sempre em punho. A noção da realidade de acordo com o diretor/roteirista Julio Hernández Cordón é bem atípica, mas funciona, se considerarmos que há o elemento fantasioso de uma criança nos pincelando os detalhes.
+
+Este é um filme pesado, que nos faz lembrar de como as crianças estão cada vez mais envolvidas em histórias de violência. Isso se deve aos efeitos visuais e sonoros, que impedem que de fato os atores e atrizes mirins tenham contato com a maior parte das atrocidades que vemos na tela, mas ao mesmo tempo soa um sinal de como o futuro pode ser a repetição de um passado que não gostaríamos de ver nunca mais.
+
+Podemos dizer que estamos em um México pós-apocalíptico ou distópico, mas o realismo pode ser brutal como visto no filme. O pai viciado em heroína perde esposa e filha mais velha, sobrando para ele uma única função: proteger a filha caçula. Sabemos que desarmado e trabalhando para uma gangue sempre armada e sem compaixão não é a melhor forma de se proteger, mas por sua condição de dependente entendemos que seu lado covarde o mantém preso nesse pesadelo como um círculo vicioso.
+
+A câmera subjetiva e imediatista de Cordón nos entrega em vários momentos do longa uma experiência lancinante. O momento em que a menina é descoberta por um dos capangas é um exemplo de tensão extrema, mas não é possível esquecer que o filme está a todo tempo usando Huck e suas ações inconsequentes para nos levar para a ação. Quando aprendemos o truque perde um pouco o brilho, mas nunca a tensão.
+
+Em meio ao deserto e uma paleta opressiva de cores, onde até a grama do campo de beisebol não parece assim tão verde por causa do sol castigando a todos, as camadas interpretativas da jovem Huck são o momento que o filme cresce, assim como sua ótima seleção de músicas. Um trompete cospe uma fumaça roxa que inebria o ar. Os mortos espalhados pelo chão viram desenhos com detalhes em vermelho. Os pássaros em torno do rio conferem o ar de redenção da pequena Huck. Há poesia nesses momentos, e é uma pena que apenas pontualmente ela seja usada.
+
+No resto do filme há um tom de estranhamento, mas ele soa apenas incorreto. Um erro de gênero, uma escolha equivocada de quadros. Sua mensagem é um sussurro no deserto para um filme que pede vários gritos de socorro. O que há com aquelas pessoas? O que este mundo se tornou, afinal? Perguntas sem resposta. Resta apenas curtir a música e um ambiente exótico em que a ultraviolência é desumana, mas pior que isso, irracional.
 

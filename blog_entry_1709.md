@@ -1,13 +1,11 @@
 ---
 categories:
-- reading
-date: '2019-09-08'
+- writting
+date: '2019-06-19'
 tags:
-- quotes
-title: Goethe
+- food
+title: Góes Tempos Cabernet Sauvignon
 ---
 
-"Não basta saber: temos que aplicar. Não basta querer: temos que fazer."
-
-"O que não começa hoje nunca termina amanhã."
+É azedo. Não lembra Cabernet, exceto pelo corpo fraco para médio. Bom para comer com queijo. Bom e barato se você não espera nada além de um vinho honesto e de entrada.
 

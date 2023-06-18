@@ -1,203 +1,98 @@
 ---
-categories:
-- coding
-date: '2010-10-26'
+categories: []
+date: '2017-03-23'
 tags: null
-title: FormatMessage para... dumies?
+title: Forma simples de baixar atualizações remotamente de um cliente para um servidor
 ---
 
-Já foi comentado em alguns círculos de ótimos programadores que a função da Win32 API [FormatMessage](http://msdn.microsoft.com/en-us/library/ms679351%28VS.85%29.aspx) é uma das criaturas mais bizarras já criadas.
-
-O objetivo da FormatMessage é formatar uma string, assim como sprintf, mas voltado mais a escrever uma descrição de um código de erro. Sendo assim ela é essencial para que o usuário não receba um número no lugar de uma explicação de por que a operação falhou.
-
-Os códigos de erro que ela se propõe a formatar podem ser os erros padrões descritos em winerror.h ou qualquer outro código cuja explicação esteja em algum módulo carregado pelo processo (DLL ou o próprio executável). Isso nos dá a liberdade de, por exemplo, criar uma DLL apenas com códigos e descrições dos erros dos nossos produtos.
-
-Para que seja criada a mensagem final, uma definição de mensagem é requirida como entrada, que pode vir do próprio chamador ou da já mencionada tabela de erros de algum módulo qualquer. No caso de querermos a descrição de um erro de sistema (em winerror.h, retornado por GetLastError ou similares) a definição da mensagem já está embutida no sistema, bastando para nós passarmos o código.
-
-É importante lembrar que, como estamos falando de uma descrição de erro, ou seja, de um texto, este pode vir em diversos idiomas, sendo que é nossa obrigação também definir para qual idioma desejamos traduzir nosso código de erro, sendo também nossa obrigação, no caso de mensagens específicas do nosso programa, fornecer o modelo da mensagem nos idiomas que formos suportar.
-
-O resto da função funciona mais ou menos como o sprintf, cuspindo a mensagem-modelo em uma saída formatada de acordo com os parâmetros de entrada.
-
-    
-    DWORD WINAPI FormatMessage(
-       __in      DWORD dwFlags,
-       __in_opt  LPCVOID lpSource,
-       __in      DWORD dwMessageId,
-       __in      DWORD dwLanguageId,
-       __out     LPTSTR lpBuffer,
-       __in      DWORD nSize,
-       __in_opt  va_list *Arguments
-    );
-
-#### Flags
-
-As flags do parâmetro dwFlags mudam radicalmente o funcionamento da rotina, o que me lembra de outra figura bizarra: o [realloc da biblioteca padrão](http://www.cplusplus.com/reference/clibrary/cstdlib/realloc/).
-
-No caso do FormatMessage, a variável dwFlags se divide em dois para especificar dois grupos de opções distintos. A parte maior contém as opções armazenadas tradicionalmente como um mapa de bits, enquanto o byte menos significativo define como será tratada a saída final, com respeito às novas linhas e qual será a largura máxima de uma linha na saída.
-
-{{< image src="8nKXyBs.png" caption="Flags para FormatMessage" >}}
-
-#### Source
-
-O parâmetro mais polêmico é o que possui vários significados. No caso de lpSource, existem dois significados possíveis:
-
-  1. **FORMAT_MESSAGE_FROM_HMODULE**. Ele é um HANDLE para um módulo.
-  2. **FORMAT_MESSAGE_FROM_STRING**. Ele é um ponteiro para string.
-
-Isso explica por que essas duas flags são exclusivas: ou uma ou outra. Mesmo que a flag FORMAT_MESSAGE_FROM_SYSTEM seja usada, a função tentará achar a definição da mensagem no módulo especificado por lpSource primeiro, antes de ir buscar nas tabelas do sistema.
-
-#### O código do erro
-
-Chamado de dwMessageId, esse é o argumento onde podemos passar um código de GetLastError ou nossos próprios códigos de erro. Se já tivermos uma string em lpSource, no entanto, não faz sentido existir um código de erro.
-
-#### Idioma
-
-Para definir o idioma é usado o mesmo sistema de resources: monta-se uma DWORD com MAKELANGID que contém informações do idioma primário e secundário. Se quisermos usar o idioma padrão do sistema (99% dos casos) basta passarmos o retorno de MAKELANGID(LANG_NEUTRAL, SUBLANG_NEUTRAL).
-
-#### Buffer de saída
-
-Mais um argumento polêmico. Se a flag FORMAT_MESSAGE_ALLOCATE_BUFFER, lpBuffer não é um buffer, mas um ponteiro que será preechido com um endereço de memória alocada usando a função API LocalAlloc. Isso quer dizer que, após usar a mensagem formatada, devemos desalocar essa memória com LocalFree.
-
-Por outro lado, se o buffer for nosso, então seu tamanho deve ser especificado no próximo argumento, nSize.
-
-#### Tamanho do buffer
-
-Só que nem o parâmetro que especifica o tamanho do buffer é simples, assim. Se for especificado a flag FORMAT_MESSAGE_ALLOCATE_BUFFER, em vez de não fazer sentido esse argumento, ele significa o número MÍNIMO de caracteres que devem ser alocados, independente do tamanho da mensagem.
-
-_Obs.: Lembre-se que são caracteres, e não bytes. Se estivermos programando em UNICODE o número de bytes dobra._
-
-#### Argumentos
-
-Essa seria uma lista simples de argumentos va_list que, para quem já fez funções ao estilo printf sabe muito bem usar. A lógica da função determina que os valores "%1", "%2" e assim por diante dentro da definição de mensagem sejam trocados por estes argumentos.
-
-Se eles são strings terminadas em nulo (interpretação padrão), inteiros ou estruturas específicas, isso vai depender da mensagem que está sendo formatada, o que é outro if a ser lembrado na hora de formatar mensagens do sistema.
-
-Também é importante lembrar que, uma vez chamada a função, o conteúdo de va_list não pode ser usado novamente se não for reinicializado com va_end seguido de va_start.
-
-Agora, se todo esse negócio de va_sbrubles é muito complicado pra você, é possível passar um array de DWORD_PTRs com o uso da flag FORMAT_MESSAGE_ARGUMENT_ARRAY.
-
-#### Retorno
-
-Se tudo der certo e você passar todos os argumentos certinhos, o retorno é o número de caracteres armazenados no buffer de saída, independente dele ter sido alocado dinamicamente ou não. Ah, sim, excluindo o nulo terminador.
-
-Se der errado a função retorna zero. É possível obter o erro através de GetLastError, o que muito provavelmente será 87 nas primeiras vezes que você usar essa função.
-
-#### Escapes na definição de mensagem
-
-Pensou que acabaria por aqui? E qual o significado das sequências de escape dentro da mensagem-modelo? O formato básico para inserção de um argumento segue o seguinte padrão:
+A forma mais simples e independente de código para efetuar essa tarefa para Windows é no servidor subir um file server em qualquer porta disponível, e a forma de file server mais simples que existe é o embutido em qualquer instalação Python:
 
 ```
-%n!<format-string>!
+python -m SimpleHTTPServer
 ```
 
-Onde n é o número que identifica o argumento, como já vimos, e `format-string` é um espaço reservado para identificarmos o tipo do argumento e como ele aparecerá na mensagem de saída.
-
-Existe uma longa explicação sobre o uso de controladores de largura e precisão da saída formatada e sua localização na lista de argumentos, cujo número irá depender se estamos usando va_list ou array de DWORD_PTRs, sendo que alguns problemas podem surgir se repetirmos esses números de inserção. Em dois momentos da explicação o artigo seja a sugerir que seja usada a função StringCchPrintf, primeiro por que FormatMessage não suporta formatação de ponto flutuantes, e segundo, porque, mesmo que seja possível formatar valores de 64 bits, seria mais fácil se você usasse outra função.
-
-Ainda existe um uso específico para "%0", que é evitar quebra de linha durante a formatação da mensagem, inclusive no final. Esse uso entra em conflito com o nosso flag quando este determina um número máximo de caracteres por linha.
-
-Ainda existe "de bônus" outras strings para preencher limitações que o próprio printf possui, como %%, %t, etc.
-
-#### Falha de segurança
-
-Como os programadores habituados com ataques de stack overrun devem deduzir, uma mensagem-modelo mal intencionada pode conter sequências de inserção que não existem na formatação habitual, forçando o vazamento de bytes na string final, o que pode forçar ataques planejados. Como o próprio artigo diz, usar um código de erro arbitrário retornado por uma API qualquer e usar FormatMessage sem a flag FORMAT_MESSAGE_IGNORE_INSERTS pode levar a resultados desastrosos.
-
-#### Exemplos
-
-Esse também é um bônus da MSDN, que te presenteia com exemplos de código tão fantasiosos quanto a própria função, veja o primeiro exemplo, por exemplo:
+Para que não seja necessário instalar o Python no servidor é possível transformar essa chamada em um executável e suas dependências standalone:
 
 ```
-#include windows.h
-#include stdio.h
+import SimpleHTTPServer
+import SocketServer
 
-void main(void)
-{
-    LPWSTR pMessage = L%1!.s! %4 %5!s!;
-    DWORD_PTR pArgs[] = { (DWORD_PTR)4, (DWORD_PTR)2, (DWORD_PTR)LBill,   %1!.s! refers back to the first insertion string in pMessage
-         (DWORD_PTR)LBob,                                                 %4 refers back to the second insertion string in pMessage
-         (DWORD_PTR)6, (DWORD_PTR)LBill };                                %5!s! refers back to the third insertion string in pMessage
-    const DWORD size = 100+1;
-    WCHAR buffer[size];
+PORT = 8000
 
-    if (!FormatMessage(FORMAT_MESSAGE_FROM_STRING  FORMAT_MESSAGE_ARGUMENT_ARRAY,
-                       pMessage, 
-                       0,
-                       buffer, 
-                       size, 
-                       (va_list)pArgs))
-    {
-        wprintf(LFormat message failed with 0x%xn, GetLastError());
-        return;
-    }
+Handler = SimpleHTTPServer.SimpleHTTPRequestHandler
 
-     Buffer contains   Bi Bob   Bill.
-    wprintf(LFormatted message %sn, buffer);
-}
- 
+httpd = SocketServer.TCPServer(("", PORT), Handler)
 
+print "serving at port", PORT
+httpd.serve_forever()
 ```
 
-Depois ele chega a reimplementar o exemplo usando va_list, o que é muito interessante, mas... bom, deixa pra lá. Vamos fazer nosso próprio teste.
-
-#### Uso padrão para GetLastError
-
-Esse é o uso clássico: precisamos de uma descrição de um código de erro para o usuário; um código Win32. A chamada para esse tipo de uso pode ser encapsulada em uma função mais simples:
+Esse script pode ser compilado pela ferramenta py2exe, instalável pelo próprio Python. É necessário criar um arquivo setup.py na mesma pasta do script e através desse script gerar uma pasta dist com o script "compilado" e pronto para ser executado.
 
 ```
-#define _CRT_SECURE_NO_WARNINGS // quanta frescura...
-#include <tchar.h>
-#include <windows.h>
-#include <string>
+from distutils.core import setup
+import py2exe
 
-using namespace std;
-
-wstring GetErrorDescription(DWORD errNumber)
-{
-	wstring ret;
-	bool msgOk = false;
-	LPVOID lpMsgBuf = NULL;
-
-	if( FormatMessage(FORMAT_MESSAGE_ALLOCATE_BUFFER // aloque pra mim (não sei o tamanho)
-		| FORMAT_MESSAGE_FROM_SYSTEM // descrição do erro está no sistema
-		| FORMAT_MESSAGE_IGNORE_INSERTS, // ignora os inserts pra não sofrer com hackerzinhos
-		NULL, // sem fonte:
-		errNumber, // a fonte é o código de erro
-		MAKELANGID(LANG_NEUTRAL, SUBLANG_DEFAULT), // idioma padrão
-		(LPTSTR)&lpMsgBuf,// isso é um ponteiro para um ponteiro para um buffer que será alocado
-		0, // nada disso
-		NULL // e nem disso
-		) > 0 ) // maior que zero quer dizer "beleza!"
-	{
-		if( lpMsgBuf ) // só pra...
-		{
-			ret = (PCWSTR) lpMsgBuf; // ok, vamos usar essa string
-			msgOk = true;
-			LocalFree(lpMsgBuf); // não precisamos mais da memória alocada
-		}
-	}
-
-	if( ! msgOk ) // alguma coisa não deu certo
-	{
-		wchar_t msgBuf[100]; // o suficiente
-		_snwprintf(msgBuf, 100, L"Unknown error (code %d)", errNumber);
-		ret = msgBuf;
-	}
-
-	return ret;
-}
-
-int CALLBACK wWinMain(HINSTANCE, HINSTANCE, PWSTR errNumberStr, int)
-{
-	int errNumber = _wtoi(errNumberStr);
-	wstring errDesc = GetErrorDescription(errNumber);
-	MessageBox(NULL, errDesc.c_str(), L"GetLastError", MB_OK | MB_ICONINFORMATION);
-	return errNumber;
-}
- 
-
+setup(console=['fileserver.py'])
 ```
 
-{{< image src="rnrw5UN.png" caption="Saída do nosso projetinho" >}}
+Pelo prompt de comando executar o seguinte comando que irá gerar a pasta dist:
 
-Existem milhares de forma de usar essa função, como você deve ter percebido pelos parâmetros. Não seja tímido: se você conhece algum truquezinho esperto e quer compartilhar com os usuários da FormatMessage, essa é a hora!
+```
+python setup.py py2exe
+```
+
+Uma vez gerada a pasta, renomear para fileserver e copiar no servidor em qualquer lugar (ex: pasta-raiz). Executar de qualquer pasta que se deseja tornar acessível via browser ou qualquer cliente http:
+
+```
+cd c:\tools
+c:\fileserver\fileserver.exe
+```
+
+Para testar basta acessar o endereço via browser:
+
+{{< image src="hSnmzqv.png" caption="" >}}
+
+### Lado cliente
+
+Do lado cliente há ferramentas GNU como curl e wget para conseguir baixar rapidamente qualquer arquivo via HTTP. Para máquinas com Power Shell disponível há um comando que pode ser usado:
+
+```
+powershell wget http://127.0.0.1:8000/Procmon.exe -OutFile Procmon.exe
+```
+
+Porém, caso não seja possível usar o Power Shell o [pacote básico do wget do GnuWin32](http://gnuwin32.sourceforge.net/packages/wget.htm), de 2MB, já consegue realizar o download.
+
+```
+c:\Temp\bitforge\wget>dir
+ Volume in drive C is SYSTEM
+ Volume Serial Number is 5C08-36EE
+
+ Directory of c:\Temp\bitforge\wget
+
+23/03/2017  13:25    <DIR>          .
+23/03/2017  13:25    <DIR>          ..
+03/09/2008  17:49         1.177.600 libeay32.dll
+14/03/2008  19:21         1.008.128 libiconv2.dll
+06/05/2005  16:52           103.424 libintl3.dll
+03/09/2008  17:49           232.960 libssl32.dll
+31/12/2008  11:03           449.024 wget.exe
+
+c:\Temp\bitforge\wget>wget http://127.0.0.1:8000/Procmon.exe
+SYSTEM_WGETRC = c:/progra~1/wget/etc/wgetrc
+syswgetrc = c:/progra~1/wget/etc/wgetrc
+--2017-03-23 13:44:13--  http://127.0.0.1:8000/Procmon.exe
+Connecting to 127.0.0.1:8000... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2046608 (2,0M) [application/x-msdownload]
+Saving to: `Procmon.exe'
+
+100%[===================================================================================================================================>] 2.046.608   --.-K/s   in 0,006s
+
+2017-03-23 13:44:13 (348 MB/s) - `Procmon.exe' saved [2046608/2046608]
+
+c:\Temp\bitforge\wget>
+```
+
+E assim com poucas linhas de código já é possível iniciar um client/servidor via http que fornece arquivos de atualização. A própria versão do pacote e detalhes podem estar disponíveis na mesma pasta.
 

@@ -1,20 +1,23 @@
 ---
 categories:
 - writting
-date: '2010-09-24'
-link: https://www.imdb.com/title/tt1375670
+date: '2016-08-12'
+link: https://www.imdb.com/title/tt2461150
 tags:
+- cinemaqui
 - movies
-title: Gente Grande
+title: Gênios do Crime
 ---
 
-As piadas do filme parecem internas e da vida real ("você aumentou o número do sutiã?", pergunta Sandler para seu amigo recém-chegado que aparentemente engordou mais que ele, ou "dessa vez vc trouxe a mãe", se referindo ao cachorro em seu carro), ou, pior: elas foram achadas pelo google. No entanto, aparentemente os realizadores do filme acham elas estupidamente engraçadas, pois estão sempre inseridas em momentos de clímax.
+Gênios do Crime não é o melhor momento de ninguém do seu elenco. Porém, também não é o pior. É apenas aquela sensação de que já vimos isso antes, e embora não exatamente daquela forma, não chega a ser tão diferente de qualquer comédia de situação. E, como eles mesmos no filme admitem, ainda é um filme de roubo a banco. Sim. Mais um filme de roubo a banco.
 
-Por outro lado, o resto das gags é baseado naqueles momentos "videocassetadas" em que alguma pessoa se machuca fisicamente e as outras dão altas risadas, mesmo que essa pessoa seja seu próprio filho pré-adolescente e que você tenha jogado uma pedra nele com toda a força.
+Esse, baseado em eventos reais, de um dos maiores roubos (em valores monetários) da história dos EUA, não tem muita margem para mudanças, mas elas acontecem e aos montes. Não estamos diante de atores acostumados com verossimilhança, então a primeira e marcante mudança é que os personagens não fazem a mínima ideia do que estão fazendo. Mas o fazem de qualquer jeito.
 
-É claro que temos momentos inspirados em forçar o drama, como o momento em que a mesma mãe desmascara a fada do dente dizendo que ela mesma irá colocar um dólar debaixo do travesseiro da filha que acabada de perder um dente, ao som mais forte de trilha melosa.
+E se em comédias parecidas -- no sentido de ser baseada na vida real e ser sobre criminosos -- como O Golpista do Ano ainda há o fator de que a realidade ultrapassa a arte, o que justifica Jim Carrey pelo seu exagero, aqui se torna difícil acreditar que tudo o que de fato ocorreu sequer foi levemente semelhante ao que vemos no filme, com as pessoas que vemos.
 
-É com esses ingredientes que a nova produção e roteiro de Adam Sandler tenta construir uma história em que amigos de infância tentam reviver suas amizades, só que dessa vez na companhia de suas esposas, filhos, filha, e sogra. E, acreditem ou não, ele até consegue caminhar nesse terreno arenoso sem se afundar por completo.
+Dessa forma, as figuras montadas por Zach Galifianakis, Kristen Wiig, Owen Wilson e Jason Sudeikis (e até a simpática Leslie Jones) soltam seus diálogos despropositados e engraçados apenas pelo absurdo, mas não como uma forma de pontuar que apenas tal personagem diria tal coisa, pois isso é aparentemente irrelevante para os propósitos do filme, que é fazer rir apenas pelo absurdo destacado de contexto (como dar um tiro na própria bunda).
 
-Mesmo que o filme se baseie provavelmente em um fim-de-semana que ele mesmo tirou com seus amigos, e que a rixa que existe com a outra equipe de basquete que enfrentaram quando eram apenas meninos fosse apenas uma desculpinha para juntá-los novamente pela morte do ex-treinador deles (em um funeral marcado pelo humor despreocupado, como se eles já estivessem lá para se encontrar, mesmo).
+Não que eles não estejam bem. Porque estão (como constatei no primeiro parágrafo). Só que estão atuando para o filme errado. O roteiro escrito a seis mãos (que contou ainda com a consultoria de alguns dos envolvidos no roubo de verdade) não consegue se situar nem entre o drama engraçado ou a comédia escrachada. É simplesmente uma história que vai se desenrolando com o tempo suficiente de projeção para que os atores digam suas falas e encenem as situações engraçadas.
+
+Nesse sentido, Gênios do Crime até é engraçado, embora não seja hilário. Para chegar no hilário precisaríamos nos preocupar com seus personagens. Algo que é querer demais quando sequer os entendemos além de seus estereótipos.
 

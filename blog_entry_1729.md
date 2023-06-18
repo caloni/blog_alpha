@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-08-27'
+date: '2018-04-25'
 tags:
 - food
-title: Grão Gourmet Fazenda Macaubas de Cima Patrocínio MG
+title: Grão Gourmet Fazenda Colinas Luminária MG
 ---
 
-Corpo fraco, amadeirado, ligeiramente ácido e azedo no retrogosto; bem seco, não deve agradar maioria dos paladares. Apenas mais uma manhã de domingo tomando puro.
+Cítrico, bem cítrico. Como limão. E tem um corpo leve para médio, um doce agradável, mas que não elimina aquele amarguinho característico de um café afetivamente relaxante. 21g em moagem média na aeropress.
 

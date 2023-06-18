@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2021-09-25T21:15:35-03:00'
+date: '2021-02-19'
+link: https://www.imdb.com/title/tt2531336
 tags:
-- cinemaqui
-- movies
-title: Luta
+- series
+title: Lupin
 ---
 
-Luta tem a sinopse fácil de um documentário fofinho de superação sobre o primeiro time de futebol na Rússia para cegos. Como não gostar de um filme assim? Eu nem sabia que cego jogava futebol.
+Cuidado com essa minissérie, que de mini não tem nada. Ela apresenta em quatro horas uma história que não termina, o que vem se tornando um padrão em streaming. Vá assistir dois filmes lançados antes de 2010 que você ganha mais.
 
-Os detalhes são passados bem por cima e você provavelmente vai terminar o filme sem ainda entender muito bem as regras. Não tem problema. O filme não é sobre isso, mas sobre seu técnico e fundador. Ele iniciou esse movimento na Rússia e conseguiu acumular troféus e prêmios conforme seus meninos foram ficando bons de bola. Tão bons a ponto de competir com as seleções da Europa.
+Ela conta a história do ladrão literário misterioso cheio de artimanhas em uma adaptação Netflix, o que quer dizer obviamente que o herói será negro e vítima de racismo velado.
 
-Aí entra a politicagem russa, que insere um novo técnico no cenário. Inconformado, boa parte do filme é buscando entender essa rivalidade que surge, alimentando até certo ponto as diferenças entre os dois técnicos e a relação com os meninos jogadores.
+Ele é Omar Sy, que anda no automático em um roteiro que desmere o personagem e os fãs do ótimo ator (Chocolate, Intocáveis). O personagem porque a trama é fraca, bobinha e serve apenas para entreter quem já não está prestando atenção no que passa na TV, e o ator porque este papel requer apenas alguém no piloto automático.
 
-Do futebol, mesmo, vemos pouca coisa. O filme tem uma ideia interessante para nos fazer sentir como os jovens cegos em campo. Em muitos momentos não vemos o campo, nem o drible, nem o gol. Só a reação da torcida, do time, da equipe. Isso funciona até entendermos o motivo, mas logo o filme se trai e começa a mostrar alguns lances. Seria demais um filme de futebol sem vermos os gols mais importantes da equipe que acompanhamos desde o início. Mas seria honesto. Nenhum deles viu esses lances. Perde-se a comunicação com seu mundo para a comodidade do espectador.
+Há alguns altos e baixos pelos capítulos, mas nada marcante. A direção piegas de George Kay, que pensa estar filmando um Ocean's Eleven da vida, nunca nos traz conforto visual. É uma bagunça burocrática que se transforma em 4 horas de sua vida perdida no sofá.
 

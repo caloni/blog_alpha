@@ -1,14 +1,14 @@
 ---
 categories:
 - cooking
-- writting
-date: '2017-05-30'
-tags:
-- food
-title: Bolo de Cenoura com Chocolate
+date: '2022-07-09T14:37:00-03:00'
+tags: []
+title: Bolo de Cenoura Aromática
 ---
 
-Ingredientes: Massa: 3 cenouras médias picadas, 1/2 xícara (chá) de óleo, 2 xícaras (chá) de açúcar, 4 ovos, 2 1/2 xícaras (chá) de farinha de trigo peneirada, 1 colher (sopa) de fermento em pó. Calda de Chocolate: 5 colheres (sopa) de açúcar, 3 colheres (sopa) de chocolate em pó, 1 colher (sopa) de leite, 1 colher (sopa) de manteiga.
+Coloque no liquidificador 3 ovos, 290g de açúcar, 210g de óleo, 6g (ou 1 colher de chá) de canela e raspas da casca de meio limão e 250g de cenouras descascadas e cortadas em rodelas; bata até triturar.
 
-Preparo: bata no liquidificador a cenoura, o óleo, o açúcar e os ovos até que fique homogêneo; Despeje em uma tigela, acrescente e misture a farinha de trigo aos poucos e o fermento; Coloque a mistura em uma assadeira untada e enfarinhada e leve para assar no forno médio (180ºC) pré-aquecido por cerca de 40 minutos ou até que fique dourado.  Em uma panela, coloque o açúcar, o chocolate em pó, o leite, a manteiga e leve ao fogo, sem parar de mexer, por cerca de 10 minutos no fogo médio ou até que fique cremosa; Despeje a calda sobre o bolo assim que sair do forno.
+Jogue essa mistura em um recipiente e adicione 260g de farinha delicadamente, seguido de 14g de fermento químico.
+
+Distribua em forma untada e leve em forno pré-aquecido a 180 graus por 30 a 40 minutos.
 

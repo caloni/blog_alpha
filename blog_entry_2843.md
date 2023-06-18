@@ -1,23 +1,28 @@
 ---
 categories:
 - writting
-date: '2015-03-13'
-link: https://www.imdb.com/title/tt1568343
+date: '2019-10-12'
+link: https://www.imdb.com/title/tt9105628
 tags:
 - cinemaqui
+- mostra
 - movies
-title: O Último Ato
+title: O Último Amor de Casanova
 ---
 
-Al Pacino é um dos grandes atores do nosso tempo e das décadas de ouro do Cinema norte-americano, com descobertas de grandes diretores como Francis Ford Coppola, Oliver Stone e Martin Scorsese. Esse fato não pode passar batido de O Último Ato, em que ele interpreta Simon Axler, um ator no início de sua decadência. Lá pelos seus 60 anos, Simon não consegue mais se lembrar de suas falas no palco e em uma crise nervosa se lança para a plateia, colocando um fim temporário em sua carreira.
+Parte da biografia oficial de Giacomo Casanova, uma mistura entre aventureiro, bon-vivant e relator dos costumes da época, O Último Amor de Casanova é um filme absurdo, lamentável e terrível. Ele não possui um elenco necessário, apenas objetos no cenário para dizer suas falas. Não estabelece conexão com o espectador, mas flerta com a possibilidade de acharmos seu protagonista e suas aventuras amorosas dignas de importância por motivos históricos.
 
-O diretor Barry Levinson também fez alguns trabalhos de destaque nos anos 80, como Rain Main e Bugsy. Rain Main, com Dustin Hoffman como um autista com capacidades impressionantes de cálculo com números, lembra um pouco o personagem de Al Pacino no sentido de que agora que sua carreira está em pausa as pessoas apenas lembram de seus grandes trabalhos como ator, mas sua vida pessoal é um completo caos e não parece haver nada que Simon faça que a melhore. Na verdade, é no caos que ela começa a ficar um pouco mais interessante quando reencontra sua afilhada, Pegeen (Greta Gerwig, do ótimo Frances Ha), e desenvolve um esperado relacionamento amoroso (Pegeen nutria um romance platônico de longa data com seu padrinho).
+Ele gira em torno do único interesse amoroso do conquistador que de acordo com ele próprio não se tornou sua amiga, e por "conquistador" entenda por alguém com dinheiro e fama que compra suas companheiras, e "amiga" por alguém que ele tem acesso aos seus órgãos genitais. Essa pelo menos é a impressão do filme, muito embora não esteja muito longe dos costumes da época. A biografia de Casanova se tornou por muito tempo uma visão fiel (e abominável) do final do século 18 na Inglaterra.
 
-Levinson não tem pressa em desenvolver a história de Buck Henry e Michal Zebede, baseados no romance de Philip Roth, e acaba tornando o que poderia ser uma grande farsa dramática em um romance quase leve. O que o impede são situações incomuns que são encaradas como bizarras, sendo que se o bizarro fosse o padrinho se enamorar da afilhada mais de 30 anos mais jovem, isso já aconteceu. Não é a ex-namorada que trocou de sexo que vai tornar as coisas piores. Nesse sentido, o roteiro tem passagens equivocadas que não acrescentam em nada ao filme, embora sirvam de estopim para a já esperada crise do casal.
+Casanova só fala francês, mas podemos ouvir pessoas falando inglês por toda a parte, em uma imersão de um forasteiro em terras estrangeiras. Tudo isso são metáforas? Há alguma mensagem codificada nos detalhes do longa? Nunca saberemos, pois há uma distância entre espectador e filme intransponível. A fotografia é muito escura, naturalista, que vai piorando com o tempo. Se há algo claro em "Casanova" é que ele faz um esforço sutil, mas constante, em destituir esse período da História de todo glamour, pomposidade e romance que estamos acostumados de outros filmes.
 
-É nessa fase que a participação de Greta Gerwig é primordial em realizar tudo o que uma de suas ex ameaçava por telefone para Simon, de forma que sua simples presença na casa praticamente intocada de Simon acaba se tornado um incômodo invisível, pois é apenas pelas sucessivas conversas de Simon com seu psiquiatra que conseguimos entender a influência que a moça vai tomando em sua vida.
+A ideia por trás da fotografia escura lembra filmes como Barry Lyndon, de Kubrick, que insistiu em usar iluminação da época, velas e candelabros, para iluminar não apenas o cenário, mas o set de filmagens, o que se torna uma diferença prática que contou com uma tecnologia desenvolvida na Nasa. Porém, em "Casanova" o clima sempre é cinzento, o que faz com que até durante o dia tudo seja escuro e apagado de vida.
 
-O terceiro ato, contudo, consegue se destacar por completo do resto do filme, pois apresenta um interessante comparativo do romance de Simon com o que aconteceu com uma mulher que ele conheceu no instituto psiquiátrico (Kyra Sedgwick) durante sua recuperação e que desde então tem tentado persuadi-lo a matar seu marido. Na verdade, parece que a história inteira ganha novos contornos que não podem ser negados, e até os delírios de Simon, quando este não consegue distinguir realidade de ficção.
+Isso é uma descaracterização, pois projeta no espectador a impressão que as pessoas da época enxergavam daquela maneira. Causa perda de cores, e todos aqueles figurinos vistosos que estamos acostumados a ver se tornam meros rabiscos eventuais em torno de um cinza quase opressivo. A trilha sonora também paga o preço, sendo inexistente ou apenas dentro da história. E a filmagem das cenas são feitas em planos longos que trazem um aspecto realista pelo movimento e onírico pela câmera que flutua, o que remete diretamente a Arca Russa, trabalho monumental do diretor russo Alexander Sokurov que quis e conseguiu filmar um longa inteiro em uma única tomada.
 
-Quando chegamos no "Último Ato" do título brasileiro, que apresenta uma performance admirável de Al Pacino, que parecia se conter até o momento, e realiza uma rima interessante com seu contemporâneo Birdman. No fundo, o próprio conceito de Birdman e O Último Ato parece revelar uma preocupação atual com a dualidade entre o real e o imaginário na arte, principalmente o Cinema, e como o faz-de-conta enlatado do segundo muitas vezes enfraquece o primeiro. Felizmente, temos trabalhos como esse para nos lembrar que a arte muitas vezes transcende a vida e a enriquece.
+Todos esses traços estéticos são possíveis de serem notados sem pressa porque a história de Jérôme Beaujour se arrasta. Quase totalmente centrada na conquista frustrada de Casanova e sua pretendente, contada em flashback no momento em que ele escrevia sua biografia, com a ajuda de uma mulher, claro, a história não tem uma trama em si, mas se recarrega a cada novo momento dessa conquista. E enquanto vemos mais do mesmo refletimos sobre fotografia, sons e objetivos.
+
+A direção nem sempre coesa de Benoît Jacquot (3 Corações) também não ajuda. Jacquot não possui o menor interesse que o espectador se interesse, preferindo deixar a história fluir no automático. O problema aí é que não se trata de uma história lá muito empolgante, e fica ainda pior quando o diretor não nos mostra o caminho para fora desse labirinto de caracteríticas escolhidas a esmo.
+
+O Último Amor de Casanova possui uma virtude frente a tantos trabalhos que retratam a nobreza da época como algo mais pulsante. Ele é chato. Intragável. Em uma versão oposta de A Favorita, comédia de época empolgante do diretor grego Yorgos Lanthimos, este é um filme de época que realmente nos dá a impressão de como era fácil se entediar naqueles anos. E nem junto das aventuras de Casanova nos salvamos.
 

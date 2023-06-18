@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2015-03-07'
-link: https://www.imdb.com/title/tt2234155
+date: '2019-01-29'
+link: https://www.imdb.com/title/tt1448755
 tags:
 - movies
-title: Os Estagiários
+title: Os Especialistas
 ---
 
-Não sei o nível de entrosamento de Vince Vaughn com os roteiros que participa, mas co-assinando a história do ótimo Separados pelo Casamento e os roteiros de Encontro de Casais e agora Os Estagiários me diz que pelo menos ele não se importa tanto quanto o egocêntrico Adam Sandler em proteger sua "imagem pública". Mas não se engane: seus personagens podem ser antipáticos em alguns momentos, mas sempre sairão por cima ou terão algo que ninguém tem. Nesse caso, a capacidade de ser um excelente vendedor.
+Jason Stahan, Robert de Niro e Clive Owen na capa deste DVD. Parece um filmão de ação para mim. Bom, nem tanto. De Niro fica quase o tempo todo preso, Owen está com um bigodinho mequetrefe e apenas Stahan salva o dia. E bem mais ou menos. Há duas explosões no filme todo.
 
-Só que a Era de vendedores de relógio como Billy (Vahghn) e Nick (Owen Wilson) já passou faz um tempo, e agora que a firma para onde trabalhavam fechou as portas eles têm a ideia de se inscrever no programa de estágios do novo sonho americano: trabalhar no Google. Levando mais tempo do que deveria em sua introdução, finalmente somos levados às instalações e às pessoas que regem a internet. E, assim como Vaughn, a Google não se importa em ser caracterizada como arrogante e insensível durante o trajeto da história, desde que no final fique valendo a imagem deste ser o lugar dos sonhos.
+A história é baseada em um livro biográfico de Ranulph Fiennes, ex-membro de uma organização secreta britânica conhecida como SAS. Seu relato é sobre uma operação de guerra iniciada no Oriente Médio e a consequente reação a ela: a vingança de um xeique pela morte dos seus filhos. E tudo isso está embrulhado em uma trama política mais ou menos interessante (poderia ser mais) em plena crise do petróleo.
 
-Durante uma competição que envolve equipes de estagiários lutando por meia-dúzia de vagas o que vale é a inteligência dessa nova geração, às custas do fator humano cada vez mais ausente nas interações entre essas pessoas. Os jovens do programa de estágio não se importam se estão magoando alguém, desde que elas entreguem o que elas precisam: auto-afirmação em meio a uma multidão de mentes brilhantes. Aqui ser brilhante não parece ter valor para a sociedade, mas para a pessoa em si. Ela se sente bem em poder tratar o resto da humanidade como lixo (especialmente os mais velhos ou gordos), pois assim ela fará mais parte ainda do topo. É óbvio que essa observação vale para o "vilão" do filme, um jovem particularmente cruel com sua própria equipe (em cenas maniqueístas, lógico). No entanto, ela valeria para quase todo mundo naquele ambiente onde sobreviver implica em não ter tempo de olhar para a pessoa que está do seu lado, tentando entender o que vai fazer com a sua porção de peças do mesmo quebra-cabeças.
+Mas Jason Stahan possui um plot secundário mais importante e mais clichê: salvar seu amigo de longa data e voltar para sua garota (a belíssima Yvonne Strahovski, que foi uma serial killer em uma temporada de Dexter, como o mundo dá voltas...). Stahan está mais Stahan que nunca, o que pode ser uma coisa boa para os fãs.
 
-Maniqueísmos e vilões fabricados à parte, o bom do filme é que a equipe onde Billy e Nick estão não é apenas um amontoado de estereótipos, mas pessoas com suas histórias e seus dilemas. Dessa forma, apesar do jovem Lyle (Josh Brener) ficar com a equipe mais fraca sua empolgação em coordená-la é cativante. E se Neha (Tiya Sircar) é a mais julgada por fazer o estilo "vivida" -- mesmo que não seja verdade -- ela se torna vítima de seu próprio estereótipo. E até os fraquíssimos arco de Yo-Yo Santos (Tobit Raphael) e Stuart (Dylan O'Brien) entretêm na medida certa.
+Já o personagem de Clive Owen é o que mais me desaponta. Sem muita moral, seja do lado dos mocinhos ou bandidos, ele sempre parece uma incógnita na história, mas o pior é que no final ninguém sabe direito o que ele está fazendo ali; talvez nem ele mesmo. Há uma necessidade dos papéis de Owen terem um passado obscuro e alguma perda, mas aqui ele parece mais um garoto de recados que se sentiu no dever de agir para evitar que todos esses patriotas assassinos morram nas devidas mãos de seus inimigos de uma guerra cujo final ainda não foi declarado.
 
-E a medida é um filme raso, porém moderadamente divertido. Faz pensar em coisas, especialmente se você é o tipo de que vive sua vida 90% em frente ao computador (como eu), seja no trabalho ou por diversão. Quer dizer, assisti esse filme pelo computador durante uma folga do serviço. E depois que ele acabou, onde foi que voltei a trabalhar? Exato.
+Bom, mas para animar, há perseguições de carro, os anos 80 estão começando junto com a guerra do golfo e um toque de ação que merecia mais motivação. Claro que é legal comer pipoca e ver caras trocando tiros e porradas, mas alguma coisa pra pensar sobre isso, realmente pensar sobre isso, deixaria essas cenas com mais tempero.
+
+Uma curiosidade: o diretor Gary McKendry e o roteirista Matt Sherring fazem aqui seu único trabalho creditado no IMDB. Alguém não deve ter gostado do resultado em fazer um filme de ação morno com três astros de Hollywood.
 

@@ -1,26 +1,20 @@
 ---
 categories:
 - writting
-date: '2023-06-05'
+date: '2013-06-07'
+link: https://www.imdb.com/title/tt0387808
 tags:
 - movies
-- essays
-title: Ignorem meus textos fáceis
+title: Idiocracia
 ---
 
-Assuntos deste poste: filme do Truffault (O Quarto Verde o nome), Asciidoc, sobre escrever.
+Desde o começo Idiocracia estabelece o seu tom de comédia explicando uma teoria muito louca, mas com um sentido simplesmente hilário, de por que o futuro da humanidade é se tornar cada vez mais idiota. Melhor: acompanha um experimento do exército para "estocagem de humanos" em caixões monitorado por um militar que consegue uma prostituta voluntária negociando diretamente com o seu cafetão. Essa parte, ambientada nos tempos atuais, já preocupa pela linha tênue com que o diretor Mike Judge ([Como Enlouquecer seu Chefe]) separa um discurso feito de palavras formais de ações idiotas executadas pela mesma pessoa que profere o discurso.
 
-O texto [Why I Built My Own Shitty Static Site Generator] resume muito bem minhas restrições sobre Static Site Generators em geral e acaba devaneando por caminhos pelos quais eu também passeio  quando penso em meus textos e as diversas formas dele se propagar. É um ensaio, quase rascunho, do seu autor, mas já abrange para mim de uma maneira holística o suficiente os dilemas entre usar o que já está pronto e perder a liberdade de colocar as ideias no papel ou preferir se fechar nas soluções caseiras, capengas, mas 100% autorais. Não chega a ser o texto que eu gostaria de ter escrito sobre o assunto e que não precisarei escrever por enquanto, mas é um começo corajoso. Os mesmos desafios estão aí.
+Essa mesma dualidade do linguajar ele irá resgatar quando Joe (Luke Wilson), o outro voluntário do experimento, viaja 500 anos no futuro, onde o "mundo" é composto e liderado por idiotas completos, incapazes de estabelecer qualquer tipo de comunicação melhor do que grunhidos, risadas, barulhos estranhos e sinalizações monossilábicas do que estão "sentindo". Joe é uma pessoa de inteligência média que não se importa de fazer qualquer coisa na vida. Consequentemente é a melhor pessoa que poderia viajar para este destino utópico, pois começa a enxergar naquelas pessoas e suas vidas sem sentido o seu próprio destino (ou castigo) por se comportar como alguém aquém da sua capacidade de raciocínio.
 
-Porque qual o motivo de eu depender de um formato se a forma não é o conteúdo? Passei 10 anos escrevendo sobre filmes e não consegui refinar um formato. O motivo me veio aos poucos: não existe uma fórmula mágica para falar sobre qualquer coisa, inclusive filmes. E nem deveria.
+Mais assustador do que se estivesse exagerando, o futuro utópico do filme também apresenta uma outra linha tênue entre a população formada inteiramente por idiotas e pela comparação que Mike Judge faz com boa parte das pessoas que hoje vivem entre nós. As próprias marcas e lojas ainda existem, embora tivessem sido cada vez mais descaracterizadas para atender cada vez melhor o seu único público-alvo.
 
-> One day in 1904 the young Franz Kafka wrote a letter to a friend defining the books that are worth reading. “I think we ought to read only the kind of books that wound us,” he wrote. “If the book we're reading doesn't wake us up with a blow to the head, what are we reading for?  So that it will make us happy, as you write? Good Lord, we would be happy precisely if we had no books, and the kind of books that make us happy are the kind we could write ourselves if we had to. But we need books that affect us like a disaster, that grieve us deeply, like the death of someone we loved more than ourselves, like being banished into forests far from everyone, like a suicide. A book must be the axe for the frozen sea within us. That is my belief.
+A melhor ficção é a que consegue te distanciar da realidade para te fazer pensar exatamente nela. Nesse sentido, Idiocracia, infelizmente, é um excelente espécime.
 
-Não apenas livros. Pensamentos que valem a pena não podem ser fáceis. Se for, é um passatempo esquecível e deve ser ignorado. Então, por favor, ignorem meus textos mais brandos.
-
-É o filme do Truffaut que eu acabei de assistir. Algo sobre a chama verde. O diretor francês amiguinho do Godard adorava uma auto-flagelação e coitadismo reflexivo. Este é mais um desses. O protagonista vive o pós-guerra como se já estivesse morto, pois nutre amor apenas pelos que já se foram, incluindo sua mulher um ano após noivarem. O filme é bom pelas tecnicidades e porque ele não se apega aos cacoetes do diretor, mas não sobrevive à pieguice em alguns momentos. Principalmente o final. Em tempo: descobri olhando o IMDB que o diretor faz uma ponta como protagonista.
-
-Eu havia guardado mentalmente mais alguns temas para abrir um poste de devaneios, mas isso faz alguns dias e acabei com mais coisas na cabeça do que sou capaz de guardar para blogar. O bom de viver é que é um processo de retroalimentação de blogues. Em breve terei mais conteúdo. Só é preciso escrever. O formato é detalhe.
-
-[Why I Built My Own Shitty Static Site Generator]: https://ewintr.nl/shitty-ssg/why-i-built-my-own-shitty-static-site-generator/
+[Como Enlouquecer seu Chefe]: {{< relref "como-enlouquecer-seu-chefe" >}}
 

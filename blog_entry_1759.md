@@ -1,22 +1,20 @@
 ---
 
-A peça de Raul Brandão, escritor português, inspira um cineasta da região de Açores, Rodrigo Areias, a documentar uma vila de pescadores portugueses de onde veio sua família, e como consequência somos brindados com Hálito Azul, onde a poesia, a cultura, a religião e a ecologia do local, não são perdido no tempo, mas transformado em algo a mais.
+Há uma mensagem muito bela em Hairspray, sobre o fim da guerra inter-racial ocorrida nos EUA na década de 60. Aliada a danças empolgantes e teatrais, nos leva a concluir tristemente que sua moral pertence ao mundo dos sonhos, da dança. E é na dança que está a maior virtude e o maior defeito desse filme.
 
-Esse algo a mais escapa do autor e diretor, mas por muito pouco, pois ao nos mostrar a vida dos pescadores como protagonistas de sua vida e encenar momentos belíssimos dentro e fora do mar o filme já mergulha em uma simbologia rica em detalhes visuais, restando desenvolver suas histórias. O palco está pronto para aventuras, mas o ensaio é eterno.
+Ao empolgar pelas performances saudosas e vigorosas de personagens vindos de um filme dos anos 80 imitando a época dos anos 60, o musical perde ainda mais seu contato com o público. A trama principal, sabemos ser tão irreal quanto as cores pastéis estilizadas para os cenários, os figurinos e a maquiagem dos personagens. Até mesmo John Travolta, apesar de toda a técnica envolvida em transformá-lo em uma quarentona enorme servir apenas para ilustrar a bizarrice de uma história sem muito embasamento.
 
-Acompanhamos a vida dos habitantes sob a ótica do cuidador do farol, cujo papel de narrador, visual de barba que molda a cara e touca característica veio direto da imaginação de obras sobre o mar, seja Mobi Dick e 20 Mil Léguas Submarinas ou Camões. Ele e tantos outros cantam justamente o que estão fazendo no momento: "estou procurando minhas chaves para abrir a porta da frente de minha casa". Involuntariamente isso cria um universo à parte que vira combustível para novas histórias que serão lembradas daqui a quinhentos anos.
+Não sei se é a figura ingênua encarnada por Nikki Blonsky que não consegue transmitir a emoção real da adolescência da época, ou até mesmo do original dos anos 80. Tudo é muito teatral. Isso não costuma ser ruim em filmes como A Noviça Rebelde, que virou um clássico exatamente por conseguir transpor facilmente a realidade e a ilusão. Porém, aqui tudo é muito difícil de engolir. Aqui a velha crítica das pessoas que os musicais são chatos porque as pessoas saem de qualquer lugar e começam a cantar e a dançar faz sentido. Até a figura de Queen Latifah como a idealista Motormouth Maybelle é excessiva e desmerece a dramática luta para a aceitação do negro na sociedade americana da década de 60.
 
-Mas os mais novos são vistos sem trabalho ou sem interesse em frequentar a escola, premeditando tempos difíceis de transformação em um país e um continente que vivem de crise em crise se esquecendo do seu passado. O mar não é mais o mesmo e existem cotas de pesca para não exaurir as forças da natureza. Entre dominar e destruir o ecossistema há uma linha tênue muito fina que já foi lançada e quebrada no século passado.
-
-Não é certo enxergarmos beleza em Hálito Azul, mas o filme o faz de qualquer maneira. Ele está apaixonado pelo tema e nos traz uma das línguas mais belas já faladas pela humanidade, o português raiz, estranhamente dublado, ou vilipendiado, nas legendas em inglês, o que será uma pena para o espectador estrangeiro, mas uma impossibilidade intransponível em filmes falados que tivemos que nos acostumar. Brasileiro que sou mal entendo um pescador português falando, ainda mais nos Açores, mas não se trata da frase completa, mas da sonoridade das palavras e seus significados ocultos a um não-falante.
-
-Curto e grosso e sem história para contar, Hálito Azul é um breve panorama do mundo hoje em um porto secular. Cumpre seu papel documental sem honras, pois não há guerra, não há conflito e não há documento, pois boa parte da história é ficcional, construída por Rodrigo Areias e Eduardo Brito para dourar a pílula. Os assuntos estão soltos, jogados ao mar. É filme de mostra, de festival, que não pretende ir mais além. Em termos das grandes navegações do passado, fica eternamente ancorado pela sua própria contemplação.
+Se há algo que conseguimos tirar de Hairspray, são ótimas danças com sentimentos mistos de magia e decepção. A viagem para os anos 60 ficou incompleta nesse caso.
 
 ---
 categories:
 - writting
-date: '2011-10-29'
-link: https://www.imdb.com/title/tt0910559
+date: '2019-10-09'
+link: https://www.imdb.com/title/tt6616336
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Cerejeiras em Flor
+title: Hálito Azul

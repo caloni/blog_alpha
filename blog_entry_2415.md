@@ -1,29 +1,29 @@
 ---
 categories:
 - coding
-date: '2007-07-26'
-title: Movendo o cursor do mouse com o teclado
+date: '2008-05-21'
+tags: null
+title: 'MouseTool: clique automático do seu rato'
 ---
 
-Bom, vamos deixar de papo furado e "codar". Para essa primeira tentativa iremos desenvolver um programa que move o cursor do mouse quando pressionada uma tecla de atalho e voltar à sua posição original quando pressionada outra tecla.
+Bem, como a maioria de vocês já sabe, eu realmente não gosto de mouses. Apesar disso, respeito os usuário que usam-no e até gostam dele. Essa é a razão por que estou escrevendo mais uma vez sobre isso. Dessa vez, irei mostrar um programa que eu uso todos os dias: MouseTool, para os usuários que  não usam o mouse, mas gostam dele.
 
-> Nota de desculpas: eu sei que estou sendo rabugento demais com o mouse. Já é o segundo artigo que escrevo falando como evitar o mouse e isso deve realmente irritar os fãs desse ponteirinho irritante.
+O principal objetivo do programa é evitar de clicar no mouse, simulando um clique toda vez que o usuário pára de mover o ponteiro. E é só isso: simples, eficiente e mouseless =).
 
-Como eu já havia dito anteriormente, uso o mouse quando necessário. Quando ele não é necessário ele fica clicando inconscientemente no Windows Explorer, já que utilizo a configuração de clique único, onde as pastas e arquivos ficam selecionáveis apenas pousando o cursor sobre eles. Eu gosto dessa configuração, exceto pelo comportamento desagradável que ocorre quando mudo para a janela do Windows Explorer e meu mouse ganha vida própria, selecionando alguma pasta ou arquivo e mudando meu foco de seleção.
+Existem algumas outras opções como arrastar-e-soltar e clique-duplo, ambas disponíveis pelo próprio programa através de atalhos do teclado ou mudança de estado, situação onde o usuário antes pousa o ponteiro sobre a ação desejada e depois pousa o ponteiro sobre o alvo, dessa forma alternando entre os três modos.
 
-Portanto, o objetivo desse programa é simples e direto: mover o mouse para um canto enquanto eu uso meu teclado. Nada mais, nada menos. Para isso iremos registrar alguns atalhos globais no Windows. Para registrar atalhos globais no Windows utilizamos a função do Windows API RegisterHotKey e é o que estou usando no [código]. O importante aqui é saber que iremos ser avisados do pressionamento das teclas que registrarmos por meio dessa função através do loop de mensagens da thread que chamar a função.
+O MouseTool originalmente foi uma ferramente de fonte aberto. Isso significa que a última versão do código-fonte está disponível, certo? Errado. Na verdade, eu não consegui, por mais que tentasse achar,  a versão para baixar do código.
 
-Um loop de mensagens é a maneira definida pelo Windows para avisar as aplicações dos eventos que ocorrerem no sistema que são relevantes para as suas janelas. Teremos chance de observar isso mais vezes, mas por enquanto basta ter uma visão geral do fluxo de mensagens que ocorre quando digitarmos a nossa tecla de atalho.
+Felizmente meu amigo [Marcio Andrey] já havia baixado o fonte algum tempo atrás e, assim como eu, ele gostaria de torná-lo disponível para todos que gostassem de usá-lo e alterá-lo. Por isso que estou publicando-o aqui. Ele é gratuito e aberto. Façam o que quiserem com ele =).
 
-{{< image src="windows_loop_mensagens_input.gif" caption="Ilustração do loop de mensagens no Windows para input do usuário" >}}
+Vamos aproveitar o código-fonte e mostrar como explorar um código não escrito por nós. Normalmente as primeiras coisas a fazer são: baixar o arquivo compactado e descompactá-lo dentro de uma nova pasta. Dessa forma encontramos o arquivo de projeto (nesse caso, MouseTool.dsw) e tentamos abri-lo. Falhando de início miseravelmente porque acredito que ninguém mais utilize a versão do Visual Studio que abre isso.
 
-Como você pode ver o [código] não tem muitos segredos. Para registrar os atalhos, usamos a função RegisterHotKey. Para manipular os eventos usamos o tal loop de mensagens e manipulamos a mensagem WM_HOTKEY de acordo com a tecla pressionada. Para mover o mouse usamos a função SetCursorPos (e para armazenar a posição atual GetCursorPos). Por fim, para ler configurações de um .ini usamos a função GetPrivateProfileInt. Abaixo um exemplo desse arquivo texto:
+Normalmente programadores de projetos de fonte aberto estão acostumados a obter os arquivos-fonte, modificá-los, publicá-los e assim por diante. Porém isso não é quase nunca verdade para programadores Windows de aplicativos estritamente comerciais. É necessário se reajustar à nova cultura para aproveitar os benefícios da política de fonte aberto.
 
-    [HideCursor]
-    DisableX=600
-    DisableY=0
+Por exemplo, dados os arquivos-fonte, nós podemos explorar algumas partes interessantes de coisas que gostaríamos de fazer em nossos próprios programas. São trechos pequenos de código que fazem coisas úteis que gastaríamos algumas horas/dias para pesquisar na internet e achar a resposta procurada. Através de um projeto de fonte aberto, conseguimos usar um programa e ao mesmo tempo aprender seu funcionamento. E a principal parte é: nós temos o fonte, mas não os direitos autorais.
 
-Você acha que os atalhos "WinKey + Del", "WinKey + Insert" e "WinKey + End" foram uma má escolha para essa função de esconder o mouse? Concordo. Fiz de propósito. Que tal customizar o programa para que as teclas sejam lidas do arquivo de configuração HideCursor.ini?
-
-[código]: {{< resource src="registerhotkey.cpp" >}}
+PS: MouseTool agora tem uma versão Linux em um projeto no Source Forge! Seu nome é [GMouseTool], projeto criado por Márcio de Oliveira.
+	
+[Marcio Andrey]: http://marcioandreyoliveira.blogspot.com/search/label/GMouseTool
+[GMouseTool]: http://gmousetool.sourceforge.net
 

@@ -1,14 +1,18 @@
 ---
 categories:
 - writting
-date: '2012-07-20'
-link: https://www.imdb.com/title/tt0096734
+date: '2020-03-30'
+link: https://www.imdb.com/title/tt0206013
 tags:
 - movies
-title: Meus Vizinhos são um Terror
+- animes
+title: Meus Vizinhos, Os Yamadas
 ---
 
-Especializado em comédias do absurdo, como Um Dia a Casa Cai e Quero Ser Grande, Tom Hanks aqui vive a paranoia e a maldição que acomete todo americano que tenta mudar algum hábito nativo de sua cultura, como bisbilhotar a vida dos vizinhos. Nesse sentido, faz um par curioso com Tim Allen em [Um Natal Muito, Muito Louco]. Contudo, a maluquice é ainda maior do que as comédias natalinas de Allen, pois estamos nos anos 80 e tudo, literalmente, pode acontecer.
+Isao Takahata foi um gênio da sétima arte. Cada novo trabalho que ele empreendia nos Estúdios Ghibli gerava um novo avanço na animação. Se [O Conto da Princesa Kaguya] acabou sendo o mais conhecido pela indicação ao Oscar, [Memórias de Ontem] foi um verdadeiro achado na Netflix, e, como se não bastasse, ele também assina a direção de O Cemitério dos Vagalumes, número 1 de filmes de fazer chorar de várias pessoas, mesmo que conscientemente elas não saibam o poder ilimitado de Takahata e sua equipe, cuja imaginação e criatividade estavam a todo momento criando diferentes formas para representar o drama humano, sempre com muita sensibilidade.
 
-[Um Natal Muito, Muito Louco]: {{< relref "um-natal-muito-muito-louco" >}}
+"Meus Vizinhos, Os Yamadas" é uma diversão à parte. Dividida em blocos de pequenas histórias envolvendo uma família típica japonesa, as situações do dia-a-dia são comuns, mas se tornam imperdíveis com esses traços rabiscados emulando um movimento estabanado, um reflexo da vida percebida, e não a objetiva. Uma versão oriental de Snoopy com o charme dos desenhos japoneses.
+
+[O Conto da Princesa Kaguya]: {{< relref "o-conto-da-princesa-kaguya" >}}
+[Memórias de Ontem]: {{< relref "memorias-de-ontem" >}}
 

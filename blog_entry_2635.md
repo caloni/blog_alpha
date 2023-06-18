@@ -1,22 +1,16 @@
 ---
 categories:
 - writting
-date: '2019-09-12'
-link: https://www.imdb.com/title/tt0401383
+date: '2014-03-02'
+link: https://www.imdb.com/title/tt1155592
 tags:
 - movies
-title: O Escafandro e a Borboleta
+title: O Equilibrista
 ---
 
-Como adaptar a biografia de alguém que mexe apenas um olho? Esta é uma história real, emocionante para alguns, tendendo ao tédio para outros (eu incluso), mas que no filme de Julian Schnabel consegue nos convencer a embarcar nessa viagem filosófica de auto-conhecimento humano.
+O Equilibrista é um trabalho fascinante de documentário porque explora de diversas maneiras o uso da câmera, montagem e roteiro para conseguir trazer a atenção do espectador no seu máximo em torno de um projeto que poderia muito bem virar uma reportagem sem graça de cinco minutos em um telejornal qualquer.
 
-Editor da Elle, e portanto sempre paparicado por belas mulheres, Jean-Dominique Bauby sofre um derrame e perde o movimento de todo seu corpo, com exceção de seu olho esquerdo, que vira, junto de sua audição, sua única janela para o mundo. Ele aprende a se comunicar com o olho, mas o seu eu, ou o que era o seu eu, está preso em seu corpo inerte e inútil.
+No entanto, os esforços do diretor James Marsh (Project Nim) e sua equipe em conseguir captar a função, a relação e o espírito de cada membro da "gangue" que tornou possível que o equilibrista Philippe Petit passeasse por um cordão estendido entre as torres gêmeas na altura do seu topo é o que torna a história fascinante do começo ao fim. Porém, mais do que isso, a montagem de Jinx Godfrey merece mais aplausos ainda por conseguir oscilar entre presente e passado em um ritmo que nunca cansa, mas sempre instiga para que saibamos mais da história daquelas pessoas e de Petit. Juntando pedaços e colagens de fotos, arquivos e entrevistas, tanto a montagem de Godfrey quanto a fotografia de Igor Martinovic transformam tudo isso em um todo, um álbum de colagens do evento que consegue empolgar a cada virada de página.
 
-Este filme não fala muitos detalhes da vida de Jean-Dominique para construir uma trama, pois ele prefere deixar o espectador enclausurado nas mesmas condições do protagonista. E ele faz isso colocando uma câmera para representar o ponto de vista de Dominique, em boa parte do filme. A outra parte é a visão comum do ator Mathieu Amalric e uma preparação e maquiagem que tornam o drama completamente arrebatador.
-
-Mas este pequeno buraco onde entra a luz, a câmera/olho, é a melhor coisa do filme. Ouvimos os pensamentos de Dominique conforme ele vai recobrando a consciência e entendendo sua situação. Acompanhamos as visitas de pessoas ligadas a ele e seu parco desenvolvimento com duas lindas fisioterapeutas. Alguns momentos são engraçados, como a falta de jeito de um amigo em ler a cartela de letras que permite que o olho consiga nos informar através de piscadas letras de palavras e frases. Outros momentos poderiam ser emocionantes se você se identificasse com um rico editor de uma revista famosa que teve uma vida familiar problemática e que agora observa impotente seus filhos sentindo por ele.
-
-A beleza de O Escafandro e a Borboleta é não se render à auto-piedade, o que torna a história de Dominique uma história de superação, mesmo que ele não consiga sair de onde está. Isso porque o núcleo da trama é se ele irá conseguir se adaptar a essa situação. E enquanto isso, como espectadores cinéfilos, observamos como o Cinema deve se render à forma de acordo com o tema, e é por isso que os enquadramentos são tortos, as pessoas estão sempre muito próximas e os movimentos são irregulares, frequentemente com a tela manchada ou molhada.
-
-O diretor Julian Schnabel realiza uma adaptação visual arrebatadora desde o começo nos colocando na visão de alguém que não possui mais nenhuma possibilidade de viver no mundo que observa, exceto suas piscadas para fora e sua imaginação para dentro. Dominique sente que precisa comunicar o que está sentindo por dentro, para que o mundo entenda essa relação enigmática que faz com que o ser humano se adapte ao que ele tem para viver. Ele consegue em seu livro, e Schnabel agora consegue no Cinema.
+Por fim, o longa se beneficia imensamente pela nostalgia e simbolismo que cercam a localização das agora extintas torres gêmeas. É como se espiássemos por uma fresta do passado um acontecimento que não faz mais parte dessa realidade. Não após os ataques com os aviões. Não com a mudança geopolítica e a campanha anti-terrorismo. Um mundo, podemos dizer, mais ingênuo. Um mundo onde a arte ganha contornos quase tão surreais quanto a altura do World Trade Center. Um mundo onde tudo é possível. Uma pena que a ausência das torres indique que esse mundo pode ser que não exista mais por um longo tempo.
 

@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-08-20'
+date: '2015-09-06'
 tags:
 - food
-title: Nederburg 1791 Cabernet Sauvignon 2016
+title: Nederburg
 ---
 
-Corpo leve, Cabernet bem comum; um pouco azedo, nada tânico. Lasanha na casa de Dona Neusa em casa cheia.
+Ainda com frutas vermelhas mais doces como groselha. Enjoa um pouco depois da segunda taça.
 

@@ -1,21 +1,18 @@
 ---
 categories:
 - writting
-date: '2018-10-26'
-link: https://www.imdb.com/title/tt1893269
+date: '2015-08-23'
+link: https://www.imdb.com/title/tt0240468
 tags:
-- cinemaqui
 - movies
-title: Kusama - Infinito
+title: Kung Pow - O Mestre da Kung-Fu-São
 ---
 
-Kusama - Infinito é um documentário de praxe, desses que tem aos montes na TV e na Netflix (aliás, este possui agradecimentos do serviço de streaming nos créditos finais, o que indica que em breve deve estar disponível para os assinantes).
+Como todo fã de Tela Class, a redublagem de filmes de artes marciais da década de 70 pelos comediantes Hermes e Renato, seria de se esperar que a expectativa em torno de Kong Pow, um filme completamente redublado e com novos atores "anexados" à construção da cena original, fosse alta pelo desafio que este representa. No entanto, a expectativa se torna frustração na maioria do tempo, pois parece que o real objetivo de Steve Oedekerk (Ace Ventura 2 - Um Maluco na África) é menos homenagear essas obras esquecidas em cineclubes empoeirados e na programação da TV Aberta (estou olhando para você, Band) e mais realizar uma espécie de paródia que ataca a obra original de uma maneira não muito... polida.
 
-Ele fala da surpreendente carreira da artista contemporânea Yayoi Kusama, que no ápice da loucura se internou voluntariamente em uma clínica psiquiátrica por medo de ter ataques nervosos que trariam um fim à sua vida. Mas ela não podia morrer. Diagnosticada com Transtorno Obsessivo-Compulsivo, Kusama leva as obsessões mentais em sua cabeça a sério. Ela está no limite do que pode-se considerar normal, e é isso que faz ela trazer sua genialidade à tona.
+Dessa forma, a história da lenda dO Escolhido (Oedekerk) e a organização do mal cujo seu vilão faz parte, Meste Con Dor (Fei Lung), é um pretexto vazio e sem qualquer intenção de se tornar uma história minimamente desenvolvida para fazer chacota das falhas de gravação ("eu sou mágico, seu casaco agora é vermelho!") e recriar o universo para inserir piadas "novas" que na maioria das vezes podem ser classificadas como engraçadinhas.
 
-O documentário vai cronologicamente explicando sua trajetória, com testemunhos de diretores de arte e alguns amigos. Lembra um dos episódios de Abstract, uma série que apresenta artistas modernos e suas tentativas de transcender, mas com um pouco de drama embutido, como os limites sociais que Kusama encontrou, como a panelinha de arte que favorecia certas pessoas de poder expor nas galerias, ou até a associação que se faz com suas posturas políticas possivelmente controversas, como ser contra a guerra do Vietnã e militar em diferentes protestos nua.
+Tentando criar um primeiro filme seguido por uma franquia, ainda apresenta personagens secundários que supostamente seriam importantes nas suas continuações, Kung Pow só não decepciona completamente porque observar o processo de recriação de um novo filme em cima das cinzas do original é fascinante por si só, além dele realmente conter sequências hilárias, como a troca de cores do casaco já citada, ou as brincadeiras em torno da lógica das lutas, ou até brincadeiras com o próprio gênero, como as mortes que não acontecem.
 
-As explicações de sua arte são a melhor parte para leigos, pois tenta nos explicar o porquê dessa mulher ser tão importante para a arte moderna. Porém, o próprio conceito de arte moderna cai na contradição infinita de conseguir definir o que é arte, então há alguns exemplos de valores das obras e outros exibidores famosos, o que pode dar uma ideia mais precisa do peso de Kusama em todo o movimento.
-
-Do início ao fim convencional, mas não burocrático, pois consegue em pouco mais de uma hora expor a vida inteira de Yayoi Kusama, "Infinito" é um registro necessário dessa artista, mas que poderia ser mais criativo, já que estamos falando de um dos pilares da criação moderna.
+Já havia assistido alguns anos atrás -- talvez muitos -- e não me havia incomodado os efeitos digitais passados. Hoje eles incomodam bem mais, e devem incomodar mais ainda daqui a dez anos. É um experimento temporal, com data de expiração. Poderia ser feito mais vezes, pois tem o potencial. Se o Tela Class é um trabalho fenomenal de humor, por que não um longa metragem inteiro?
 

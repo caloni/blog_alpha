@@ -1,23 +1,24 @@
 ---
 categories:
 - writting
-date: '2016-04-27'
-link: https://www.imdb.com/title/tt3596952
+date: '2016-11-28'
+link: https://www.imdb.com/title/tt0093409
 tags:
-- cinemaqui
 - movies
-title: Maravilhoso Boccaccio
+title: Máquina Mortífera
 ---
 
-Fracamente inspirado no Decameron, a coletânea de novelas do autor italiano do Século 14, Maravilhoso Boccaccio é filmado como uma grande novela de contos, além de sua produção lembrar tanto uma peça de teatro quanto produções televisivas de baixo orçamento. Ainda assim, possui o mérito narrativo em suas ótimas e curtas histórias.
+Mel Gibson e Danny Glover estreiam essa franquia que ficou conhecida como a segunda série de ação policial dos anos 80 mais lembrada. A primeira é Duro de Matar (John McTiernan, 1988). Aqui Richard Donner parece brincar um pouco entre o drama, a ação e a comédia, conseguindo isso através do roteiro de Shane Black, que faz o mesmo, e embora sem a perspicácia que foi desenvolvendo com os anos ("Beijos e Tiros") consegue criar uma das duplas de policiais mais famosa do Cinema.
 
-O pano de fundo é a Itália na época da Peste Negra, quando pessoas morriam aos montes e alguns belos jovens se isolaram de Florença, indo viver em uma casa no interior por alguns dias. Só para sentir o dramalhão que os diretores Paolo Taviani e Vittorio Taviani se envolveram ao adaptar Bocaccio, temos uma cena no início em que um pai enterra esposa e filho em uma das fossas coletivas das vítimas da praga, e os protege das pazadas de terra que recebem.
+E isso com uma história quase original, quase clichê. O Sargento Murtaugh (Gloover) faz aniversário e recebe de presente um novo parceiro, o psicótico Martin Riggs (Gibson), que depois da morte da esposa pensa toda noite em se matar. Agora, do lado de Murtaugh, ele pode fazer isso em cada novo caso que os dois tiverem que resolver, seja um suicida se preparando para pular de um prédio (uma das cenas mais famosas do primeiro filme) ou uma atriz pornô se jogando do alto de um prédio.
 
-A trilha sonora pitoresta da TV, os zooms exagerados, os ângulos teatrais e a história contada como uma poesia mal amarrada tornam a experiência de ver cada um dos jovens contar uma história para não se entediarem uma oportunidade para relaxar e deixar fluir a imaginação em torno da época. Infelizmente, tal qual a recente "superprodução" brasileira Os Dez Mandamentos, o figurino disfarçado de antigo não ajuda, ainda mais quando vemos uma calcinha moderna escondida entre os panos de uma moça.
+E se você já assistiu o último filme de Shane Black, "Dois Caras Legais", provavelmente irá encontrar a rima temática na primeira cena, quando vemos um garoto bisbilhotando as revistas masculinas do pai para ver a própria atração da revista atravessar sua casa dentro de um carro, para depois morrer com seus pudores devidamente cobertos. Isso não apenas denuncia o aspecto ácido dos roteiros de Black, como serve de comparação mais que pertinente entre os anos 80 e os tempos atuais. Quero dizer, na primeira cena de Máquina Mortífera vemos um dos peitos da atriz. E ela se joga do prédio, e acompanhamos com ela a queda. Em um momento seguinte, vemos Martin Riggs disposto a puxar o gatilho com sua bala premiada dentro do tambor e o cano dentro de sua boca, desesperado para passar a dor da perda da mulher. Aconteceu algum problema no crescimento dos jovens nesta geração. Eles não estão dispostos a enxergar o drama da vida real mesmo no Cinema.
 
-Porém, as histórias possuem suas virtudes, principalmente as últimas. O processo todo de acompanhar cada história, interpretada pelos próprios atores da "trama" principal, é um aprendizado dessa dinâmica, onde não há nada mais a ser contado do "lado de fora" desse vai-e-vem dos personagens principais.
+Mas não era assim nos anos 80. Aqui você entendia perfeitamente o grau de insanidade de Riggs ao lado de um cansado, convencional e engraçado Sargento Murtaugh. A frase "eu estou muito velho para isso" é repetida três vezes durante o filme, e em todas elas cabe perfeitamente. É engraçada, é espirituosa, é pertinente. Tudo no filme é pertinente. As cenas de ação são reais, encenadas por dublês, mas com carros voando e explodindo de verdade. Sente-se o peso de uma perseguição em Los Angeles, assim como sentimos o impacto visual do encontro no deserto, ou do ataque de helicóptero vindo de um penhasco, do lado de um funeral.
 
-Dessa forma, é muito mais interessante ver a história do artesão ingênuo que acredita ter encontrado uma pedra que o torna invisível, ou de uma madre superiora dando um sermão a uma das freiras sobre luxúria com uma cueca na cabeça, ou até mesmo a história mais forte de todas, a de um falcão que se torna o melhor e único amigo de um caçador que vai à falência. Esses são passatempos que valem a pena se deliciar em torno da estrutura episódica do filme. Porém, sempre ao seu final ressurge a sensação de estar apenas acompanhando uma espécie de seriado com mini-episódios de curtas independentes e que nunca se relacionam com nada. Qual a moral da história? Há muitas morais a ser extraídas, mas nenhuma ideia do que os autores imaginaram ao juntar todas essas histórias.
+Novos clichês estão sendo erguidos com o peso e a responsabilidade de um Richard Donner que já criou mitos modernos (Superman: O Filme) e enveredou-se por aventuras infantis (Os Goonies) sem perder a energia nem a empolgação. Donner não joga as cenas uma após a outra. Ele se lembra de embutir a personalidade de cada um dos dois em torno das cenas, e mesmo que não funcione algumas vezes o jeito bonachão, é eficaz na maioria delas.
 
-Ao fim, Maravilhoso Boccaccio parece uma espécie de homenagem a um autor já conhecidíssimo da Idade Média em um formato mais palatável para o grande público italiano. Poderia ir direto para a TV e teria algum público cult, mas como Cinema, se torna tão competente quanto as aventuras de Moisés televisionado pela emissora de Edir Macedo.
+Note, por exemplo, como toda a construção da explosão de uma casa seguida pelo interrogatório de um menino passa pela dedução orgânica de com quem estão lidando, pela construção (no roteiro) de como as deduções de ambos estavam mais certas do que temiam, e uma crítica ao racismo que não precisa parar o filme para se posicionar. Está lá, e você pode prestar atenção a isso ou não. A maior virtude desses filmes é que eles não precisam ficar parando e explicar tudo. O espectador não é burro.
+
+Há muita poeira e explosão em Máquina Mortífera, como deve ser em um filme do gênero que começa a desbravar outro jeito de contar investigações policiais. Querendo ou não, o filme é bom demais para ficar em apenas um. Exatamente o contrário dos dias de hoje, onde filmes de super-heróis nunca são bons o suficiente para nos contentarmos com apenas um. A diferença é sutil, mas está lá.
 

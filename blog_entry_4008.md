@@ -1,60 +1,25 @@
 ---
 categories:
-- coding
-date: '2017-02-20'
-tags: null
-title: Visualizando QString no Visual Studio
+- writting
+date: '2017-11-27'
+link: https://www.imdb.com/title/tt5598102
+tags:
+- cinemaqui
+- movies
+title: Visages, Villages
 ---
 
-O Qt não é um framework que pode apenas ser usado no QtCreator. Através de um projeto bem configurado pelo CMake, por exemplo, é possível ter um projeto que pode ser compilado e depurado tanto nas ferramentas do Qt quanto no Visual Studio. No entanto, na hora de depurar algumas coisas são difíceis de fazer. Por exemplo: como olhar o conteúdo de uma QString?
+Visages, Villages é um filme fácil de assistir. Se trata de um documentário road-movie com um artista jovem cuidando do projeto de uma artista experiente. Ambos se respeitam e estão juntos pelo mesmo objetivo: viver.
 
-O Visual Studio utiliza um mecanismo que lembra os comandos bizarros que se usa no WinDbg, mexendo com registradores e tal. Através dessa combinação é possível dizer para o depurador como interpretar determinados tipos de objetos. Ele já vem obviamente pronto para std::string, CString (ATL) e deveria vir com QString, de tão famosa que é. Mas a versão do Visual Studio 2015 não vem. O jeito então é editar diretamente o arquivo onde ficam esses padrões.
+E viver para um artista é botar o pé na estrada e sair fazendo arte. A arte dele são colagens. A dela é fotografia. Passando de vilarejo em vilarejo ele e ela tiram fotos das pessoas da paisagem e as expandem, fixando-as na mesma paisagem e nos mesmos muros, paredes e mentes dessas pessoas. Elas viram famosas por estarem destacadas do cotidiano.
 
-```
-; AutoExp.Dat - templates for automatically expanding data
-```
+Os vilarejos do filme e do título não são exatamente o que nossa imaginação pode trazer à tona. Em vez daquelas casinhas e camponeses temos fazendeiros fabricando queijo, estivadores cuidando de um porto e funcionários de uma fábrica. Existem histórias inspiradoras do passado, como um casal que se casou via um sequestro de amor e uma única moradora que resiste se mudar de uma antiga vila de mineradores.
 
-O nome do arquivo é __autoexp.dat__ e ele fica em uma pasta no estilo Program Files, Microsoft Visual Studio, Common7, Packages, Debugger. É melhor você retirar ele dessa pasta antes de sobrescrevê-lo para não ter erro de acesso. Ao abri-lo verá que no começo há vários comentários que explicam como é o funcionamento desse padrão.
+Para essa jornada eles usam um furgão com uma enorme lente de câmera desenhada. O estilo deles é a soma dos clichês. Mas isso só porque se trata de um documentário, onde a vida deveria ser maior que a arte. Não é o caso. Há alguma coisa barrando a arte e a vida. Um roteiro manipulador demais torna a experiência inofensiva. E mesmo que existam surpresas pelo caminho elas não são suficientes. É preciso conhecer quem são esses artistas para respeitá-los e ter uma ideia da importância do que fazem.
 
-```
-; type=[text]<member[,format]>...
-;
-; type		Name of the type (may be followed by <*> for template
-;			types such as the ATL types listed below).
-;
-; text		Any text.Usually the name of the member to display,
-;			or a shorthand name for the member.
-;
-; member	Name of a member to display.
-;
-; format	Watch format specifier. One of the following:
-;
-;	Letter	Description					Sample		   Display
-;	------	--------------------------	------------   -------------
-;	d,i		Signed decimal integer		0xF000F065,d   -268373915
-;	u		Unsigned decimal integer	0x0065,u	   101
-;	o		Unsigned octal integer		0xF065,o	   0170145
-;	x,X		Hexadecimal integer			61541,X		   0X0000F065
-;	l,h		long or short prefix for	00406042,hx    0x0c22
-;			  d, i, u, o, x, X
-;	f		Signed floating-point		3./2.,f		   1.500000
-;	e		Signed scientific-notation	3./2.,e		   1.500000e+000
-;	g		Shorter of e and f			3./2.,g		   1.5
-;	c		Single character			0x0065,c	   'e'
-;	s		Zero-terminated string		pVar,s		   "Hello world"
-;	su		Unicode string				pVar,su		   "Hello world"
-;
-; For details of other format specifiers see Help under:
-; "format specifiers/watch variable"
-```
+Agnès Varda dispensa apresentações. A diretora belga de mais de 89 anos demonstra, apesar da idade, estar sob o controle de suas criações ao mesmo tempo que se torna protagonista de suas histórias. Dirigindo e escrevendo filmes desde a década de 50, Varda está em constante movimento e não se limita em definir o que faz com palavras simples. Suas observações enquanto vai entendendo o projeto durante a própria viagem são perspicazes demais para entendermos de primeira, o que torna a experiência rica e complexa.
 
-Felizmente (e também obviamente) o pessoal do Qt já fez [uma entrada na wiki](https://wiki.qt.io/IDE_Debug_Helpers) que explica como fazer para interpretar corretamente uma QString. Eles mesmos admitem que a coisa ficou difícil desde a última versão (Qt 5), mas ainda assim é possível. E, se tudo falhar, ainda é possível usar a janela de Watch:
+Já JR é um cineasta-incógnita. Sempre de óculos escuros e tendo estreado com um longa documental ("Women Are Heroes", em 2010), talvez seu curta mais conhecido seja Ellis (2015), onde Robert de Niro revisita sua origem de imigrante. JR também demonstra estar em constante movimento e faz sentido ele ser fascinado em fazer colagens. Seu objetivo é arquivar o mundo em paredes ou películas. Embora nunca faça muito sentido vê-lo junto de uma senhorzinha minúscula e cheia de estilo, aos poucos a combinação da "dupla dinâmica" vai fazendo algum sentido. Mas não muito.
 
-```
-(char*)str.d + str.d->offset,su
-```
-
-Mas não foi o caso dessa vez. Tudo funcionou perfeitamente assim que incluí os valores da Wiki logo no começo da sessão __Visualizer__.
-
-{{< image src="3dnGwGK.gif" caption="" >}}
+A questão é que "Visages, Villages" se mostra um trabalho em andamento que foi filmado como um documentário de si mesmo. O que aquelas pessoas significam no todo do filme? Tudo é muito vago para encontrarmos alguma linha de raciocínio aí. Se trata de um filme itinerante, mas doce, tranquilo, com um pouquinho de tratamento narrativo e muito improviso.
 

@@ -1,19 +1,20 @@
 ---
 categories:
 - writting
-date: '2012-10-23'
-link: https://www.imdb.com/title/tt2016955
+date: '2014-04-09'
+link: https://www.imdb.com/title/tt1959490
 tags:
-- mostra
 - movies
-title: 'Noite #1'
+title: Noé
 ---
 
-Não é difícil se interessar por Clara e Nicolai, os dois personagens de Noite No. 1, primeiro trabalho em longa metragem de Anne Émond. Ambos possuem angústias mais ou menos universais, e é isso que de certa forma os acaba unindo para uma noite de filosofadas e aberturas íntimas de seus medos e fraquezas. Encontramos os dois em pleno ato sexual, sensual mas realista, para logo em seguida os sentirmos como completos desconhecidos para nós mesmos e um para o outro.
+O filme é muito melhor que o livro, mas nesse caso estamos falando de um livro escrito há milênios atrás e que sequer é um livro, mas dois ou três versículos de Gênesis, o primeiro dos mais de 70 trabalhos da Bíblia. Porém, o dilúvio, ou inundação global, também é um mito amplamente conhecido por povos antigos, todos à mesma época, e existiam diversas formas de contar a mesma história (incluindo o Livro de Enoque, que cita a existência dos anjos vigilantes). Nesse sentido, podemos dizer que a versão escrita pelo diretor Darren Aronofsky (Cisne Negro, O Lutador, Pi) e seu produtor Ari Handel consegue mesclar de maneira surpreendente essas histórias em uma discussão razoavelmente interessante sobre a luta do bem contra o mal, da crença e dos desígnios de um Criador e da natureza de nosso livre-arbítrio.
 
-A descoberta aos poucos das "verdades" por trás de cada um dos jovens é o grude da história, e os subtextos que tentam poetizar ou tornar mais profundo o significado de suas confissões, embora bonito a princípio, acaba soando enfadonho e desnecessário para entendermos a plenitude de seus atos. E os dois momentos em que ela tenta sair do apartamento acaba soando igualmente artificial, não colaborando para a dinâmica do casal. Aliás, parece que apenas a troca de frases semiabertas consegue manter o suspense, quando na verdade esse é apenas a metade do caminho. Diferente de [Antes do Pôr do Sol], onde os personagens dinamizavam discussões relevantes e que ao mesmo tempo revelavam sobre a personalidade de cada um, aqui há uma parede invisível que impede essa conversa mais aberta, e transforma no fundo em dois monólogos feitos no mesmo ambiente.
+Mas do que isso, Noé consegue a proeza de recriar seu personagem-título com a ajuda muito bem-vinda de Russell Crowe não apenas como um enviado de Deus, mas como um ser humano primitivo e obediente do desconhecido, além de sua família formada pelos seus três filhos em três fases distintas de compreensão do pai, uma garota adotada (Emma Watson) que sofre a angústia de possivelmente ser a única mulher sobrevivente do castigo divino e não poder engravidar, e, por fim, uma composição delicada de Jennifer Connelly como uma esposa submissa, mas pensante e nosso guia moral; se há um ótimo motivo para ir ao cinema é testemunhar seu doce sorriso após quase duas horas de projeção.
 
-Igualmente frustrante é sua conclusão, apressada e que passa despercebido de tão ignorada que é a dimensão dos traumas de Clara, que mesmo passando por uma espécie de catarse, jamais a colocaria na situação da última cena, colocando em xeque o respeito que o roteiro tem da sensibilidade do espectador. Um grave furo, se pensarmos que o filme todo se baseia apenas nisso.
+Não é um filme necessariamente de ação, mas essa parte é muito bem desempenhada, ainda mais pela presença de certos seres mitológicos que junto com o céu estrelado mesmo de dia e animais de espécies inexistentes complementam a ideia de um mundo sobrenatural e antigo: um mundo que não nos pertence mais. Para os religiosos e pessoas sensíveis como eu há inúmeras cenas-catarse no decorrer da narrativa que funcionam exatamente porque Aronofsky as dosa com poder milimétrico, além de ser auxiliado pela indispensável trilha sonora de Clint Mansell, que consegue engrandecer sem ferir a naturalidade dos acontecimentos.
 
-[Antes do Pôr do Sol]: {{< relref "antes-do-por-do-sol" >}}
+Essa é a primeira incursão do diretor e sua equipe no 3D, que pode até ter sido uma imposição do estúdio, mas aqui é feito com o esmero de um realizador que sabe o que faz. Dessa forma é um prazer presenciar um furacão de seres voadores, a expansão do universo ou qualquer cena que o filme tenha a oportunidade de aplicar sua profundidade de campo. Não é um uso gratuito, porque assim como a música, comenta os acontecimentos muitas vezes desafiadores do bom senso.
+
+E, por falar em bom senso, é óbvio que não dá para esperar uma ficção científica de um conto antigo, e é por isso que a suspensão de descrença é vital para aproveitar a sessão, mas nem por isso o filme deixa de florear diversas passagens bíblicas e enfatizar que flerta duramente com a possibilidade real de um dilúvio. Isso, para mim, é respeito pela arte de contar histórias. Um espectador que sabe que vai assistir um faz-de-conta deveria ter a mente aberta para tentar entender quais as subtramas que fazem parte dessa realidade fantástica. Não é com esse objetivo que histórias como Chapeuzinho Vermelho foram inventadas?
 

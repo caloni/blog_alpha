@@ -1,37 +1,24 @@
 ---
 categories:
-- coding
-date: '2008-02-21'
-title: Configurando seus projetos no Visual Studio (Multi-threaded Debug DLL /MT,
-  /MD)
+- writting
+date: '2011-09-27'
+link: https://www.imdb.com/title/tt1529572
+tags:
+- movies
+title: Confiar
 ---
 
-Ao iniciar na arte da programação em C no Visual Studio eventualmente o programador irá querer testar seus programas rodando em outra máquina que não seja a de desenvolvimento, mandar uma versão beta para amigos, pra namorada e pro seu cachorro. Geralmente, por padrão, existem algumas dependências do programa compilado com uma DLL de runtime da versão do ambiente em que foi compilado o dito cujo, dificultando um pouco a distribuição do seu motherfucker-program.
+Dirigido e escrito pelos estreante no cinema David Schwimmer e Andy Bellin (esta co-roteirizada por Robert Festinger, do excelente Entre Quatro Paredes), este drama de tons realistas e de caráter emergencial conta a história de Annie, uma jovem colegial que acaba de completar 14 anos e que pertence a uma família tranquila e estruturada. Como todas as jovens de sua idade, costuma passar o tempo alheia à vida em sua volta, se comunicando com amigos virtuais através do celular e de seu computador (presente de aniversário de seu pai, um detalhe sutil, mas trágico).
 
-Porém, seus "poroberemas se acabaram-se". Com o inovador configurador de projetos do Visual Studio, tudo o que você queria é possível, e ainda mais!
+Um desses amigos, Charlie, se torna seu confidente, e a evolução do diálogo entre eles aumenta tanto a confiança que Annie deposita em seu amigo quanto a intimidade do casal virtual. Isso faz com que Annie nutra sentimentos cada vez mais fortes pelo rapaz, que consegue apenas com a força das mensagens eletrônicas convencê-la a se encontrarem e ao mesmo tempo revelar que não é tão jovem quanto fez Annie acreditar que fosse. Vítima de um molestador de menores, o caminho trágico de Annie penetra em nossa consciência muito mais forte se a situação narrada pelo roteiro não fosse tão comum na vida de milhões de jovens o dia todo. Aliás, a forma com que os detalhes nos são apresentados carecem de uma identidade maior (frases, lugares e situações) justamente para reforçar a triste realidade: Annie, como muitas outra que caem no charme de aliciadores, não é em nada especial ou diferente de qualquer outra garota.
 
-Nota do autor: isso não foi uma propaganda gratuita, apenas uma piada. Se fosse um verdadeiro anúncio das maravilhas do Visual Studio, eu agora estaria falando daquele tal código gerenciado e o tal do C++ CLI.
+Esse impacto inicial serve de fio condutor para o resto da história, onde vemos uma família completamente saudável (e não há nada antes que sugira o contrário) transformar completamente sua dinâmica. Aliás, ao contrário do que normalmente ocorre, embora as investigações para encontrar o molestador seja parte integrante e sempre presente na história, é a temática familiar que é posta em foco todo o tempo, e a maior virtude do longa seja demonstrar como uma família completamente harmoniosa consegue se desestruturar em torno da tragédia ocorrida.
 
-Inicialmente, se compilarmos um programa em Debug no Visual Studio 2005 teremos as seguintes dependências. kernel32 e msvcrx.dll (onde x é a versão do Visual Studio). A DLL kernel32 é nativa e sempre estará presente no Windows. Porém, a msvcr não. Ela veio junto com o pacote do Visual Studio, e se não for distribuída em outras máquinas, você não conseguirá rodar seu programa, pois isso gerará o erro de DLL não encontrada.
+Para denotar mais fortemente essa curva, Clive Owen (genial e sutil em Filhos da Esperança) mais uma vez impressiona em sua caracterização de uma pai que, embora se mostrasse antes espirituoso e cuidadoso com os filhos, se torna ao mesmo tempo obcecado e despedaçado por dentro, e sua desorientação consegue ser sentida tanto pela mudança do seu semblante pelo uso funcional do filho mais velho da família, que retorna nas férias e encontra um pai extremamente envelhecido (ponto também para a maquiagem competente), mesmo que tivesse se passado apenas alguns meses.
 
-Bem, para resolver isso, a partir da IDE, temos que ir em Project, Properties, Configuration Properties, C/C++, Code Generation, Runtime Library.
+E se o elenco ajuda a pontuar as mudanças familiares, a fotografia se estabelece com pouquíssimas luzes e cores, configurando um mundo sombrio que me lembrou muito Deixe-me Entrar, e estabelece de forma inconsciente o andamento da história. Da mesma forma, a trilha contemplativa, com toques isolados (e pausas adequadas entre cenas) traz em nós mesmos a sensação triste da impotência ante o fato, impotência essa materializada em uma mãe que agora chora copiosamente em vários momentos e um pai que tenta desesperadamente fazer algo, ainda que vislumbre, no pouco de raciocínio que lhe resta, a própria futilidade de seus atos. É icônica, aliás, a significativa movimentação da câmera, que oscila bruscamente ao enfocar o pai (desespero), mas desliza quase sem ânimo ao focalizar a filha (inconsolável).
 
-Existem atualmente quatro tipos de runtime que você pode escolher:
+Note como, por outro lado, o comportamento de Annie, a principal envolvida, é linear e previsível. Não à toa: isso é mais uma vez o filme nos escancarando a incapacidade de uma jovem nessa idade possuir a vivência necessária não só para entender as reais intenções do seu molestador, mas o que ocorre com ela mesma após essa experiência, o que nos lembra que o mais horripilante na interpretação do seu estuprador é a facilidade com que é possível convencer sua vítima contra todos os conselhos e avisos de uma formação adequada, o que reflete não só a impotência dos pais (por melhor educação que eles tenham dado) em proteger seus filhos dos seres inescrupulosos que habitam não só a internet, como o mundo real.
 
- - Multi-threaded (/MT). Versão Release que não depende de DLL.
- - Multi-threaded Debug (/MTd). Versão Debug que não depende de DLL.
- - Multi-threaded DLL (/MD). Versão Release que depende de DLL.
- - Multi-threaded Debug DLL (/MDd). Versão Debug que depende de DLL.
-
-Essas runtimes são chamada de multi-threaded porque antigamente existiam versões single-threaded dessas mesmas runtimes. Contudo, versões mais novas do Visual Studio só vêm com esse sabor mesmo.
-
-Note que, por padrão, existem dois tipos de configuração em seu projeto: Debug (para testes) e Release (para distribuição). Convém não misturar configurações Debug com DLLs Release e vice-versa, a não ser que você tenha certeza do que está fazendo.
-
-Pois bem. Para tirar a dependência da maldita DLL, tudo que temos que fazer é alterar a configuração, nesse caso Debug, de /MDd para /MTd. E recompilar.
-
-E testar.
-
-Além da dependência de DLLs, alguns casos especiais vão chiar por causa dos dados do manifesto embutidos no programa compilado. Por algum motivo que eu desconheço, o programa necessita que as DLLs estejam instaladas mesmo que no Dependency Walker não mostre nada. Nesses casos, uma arrancada do manifesto na versão Debug não fará mal algum.
-
-Acho que esses são os únicos empecilhos iniciais para testar seu programa em outras máquinas. Sempre que ver o erro exibido no começo desse artigo, desconfie de alguma dependência que não está presente na máquina. Nessas horas, ter um Dependency Walker ou Dumpbin na mão vale ouro.
+Porém, ao mesmo tempo, o filme nos deixa uma pequena-grande reflexão sobre o que seria essa confiança, ensinada pelos pais por sua essência na relação familiar, mas inútil se aplicada sem discernimento na vida real. E como pedir para seres humanos em sua fase de descobertas e medição de valores para já possuírem em seu kit de sobrevivência a capacidade de dividir as pessoas em confiáveis e não-confiáveis? Mais do que acomodar os espectadores, a retórica de Confiar acaba por deixá-los mais inquietos do que antes.
 

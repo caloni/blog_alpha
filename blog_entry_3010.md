@@ -1,9 +1,20 @@
 ---
-categories: null
-date: '2023-03-04'
-tags: null
-title: Parei de tentar ser crítico (de cinema)
+categories:
+- writting
+date: '2013-01-20'
+link: https://www.imdb.com/title/tt1623288
+tags:
+- movies
+title: ParaNorman
 ---
 
-Eu deveria parar nesse momento de escrever sobre filmes, exceto as cabines e eventos especiais. Por muitos anos eu escrevi que nem um retardado, comecei a ler uns livros doidos, a assistir umas análises nervosas. Fiz dois cursos com Pablo Villaça, uma referência local aos que levam a sério a arte. Tudo que fiz e continuei fazendo foi até o momento em que eu consegui "sentir" o que é ser crítico de cinema como uma profissão. O trabalho descomunal de estudar arte, filosofia, história. De assistir aos clássicos, de entender as correntes que nos antecederam. E, por fim, acompanhar cada novo ano as produções, os lançamentos, os novos talentos e os existentes. Os festivais de conteúdo duvidoso. As inúmeras sessões com filmes experimentais. As retrospectivas da Mostra. Os textos dos colegas. Eu enxerguei tudo isso faz alguns anos, mas por algum motivo continuei tentando evoluir mesmo sem tempo de me dedicar profissionalmente. Agora acabou. Vou largar o ritual de todo filme escrever e anexar à rotina de blogueiro falar sobre o que ando vendo. Não sou obrigado e nem vocês em consumir conteúdo aquém dos que vivem para isso. Voltou para mim, depois de quase 13 anos, a ser um hobby light como os textos eventuais sobre programação. Sobre café. Sobre vinhos. É isso que torna um blogue valioso. Ele registra o momento sem o compromisso de mais. O que foi, foi. E o que virá, só Deus sabe.
+A única proposta original em Paranorman é que o seu protagonista consegue ver e falar com os mortos. Aliado a isso, a proposta infantil de lidar com o além-vida envolvendo um mundo de zumbis e bruxas, embora interessante enquanto desenvolve esse conceito atrelado à visão primitiva e violenta que as pessoas tinham em relação ao desconhecido, está envolta em mais e mais clichês que vão enfraquecendo o núcleo da sua original ideia.
+
+O que é uma pena. Assim como [Frankenweenie], as animações tem ganhado em expandir discussões geralmente restrita ao mundo dos adultos em forma de aventuras despretensiosas envolvendo crianças e animais de estimação. No entanto, diferente deste, nem a estilização curiosa de seus personagens consegue impressionar. Norman é um garoto normal e não possui nada especial exceto sua comunicabilidade com os mortos. Esse "dom" é usado para enganchar um dramazinho particularmente desinteressante a respeito do garoto ainda conversar com a falecida avó, que insiste em continuar na sala assistindo TV, e o desconforto dos seus pais de que o seu modo diferente de encarar a morte possa prejudicar seu desenvolvimento enquanto criança e covardemente temem que eles próprios sejam expostos às diferenças do seu filho.
+
+Além do clichê da família problemática ainda temos o melhor amigo gordinho (o alívio cômico ingênuo) e a irmã mais velha que só pensa no físico dos rapazes de sua idade e cujos comentários giram irritantemente em torno das novidades tecnológicas do momento, You Tube, Facebook, o que já marca desde já o filme como datado e indiretamente nos lembra seu caráter aproveitador da tendência temporária de glorificar qualquer conteúdo da mídia que fale sobre zumbis.
+
+E por falar em tendência, a conclusão das aventuras do menino freak volta a interessar pela discussão importantíssima sobre os reflexos atuais de uma sociedade em pleno século XXI e que se comporta de maneira cada vez mais intolerante para com as diferenças alheias. Só que até chegarmos lá teremos que passar por diálogos capengas emoldurados em cenas irritantemente longas e desnecessárias, tudo para que tenhamos a duração mínima de um filme. Paranorman é o filme que já chega tentando vender uma possível franquia ou série quando deveria ter começado apenas pelo último.
+
+[Frankenweenie]: {{< relref "frankenweenie" >}}
 

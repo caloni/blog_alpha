@@ -1,21 +1,21 @@
 ---
 categories:
 - writting
-date: '2023-01-22T23:56:52-03:00'
+date: '2018-10-22'
+link: https://www.imdb.com/title/tt5262162
 tags:
 - cinemaqui
-- mostratiradentes
 - movies
-title: Canção ao Longe
+title: Caminhos Magnétykos
 ---
 
-Clarissa Campolina, a diretora desta produção mineira supers-simpática, tem uma certa habilidade em enquadrar o cotidiano como um passeio natural pelas casas, as ruas, os prédios, as janelas e as vidas dos personagens de um roteiro que não a merece, embora seja um bom treino para futuros trabalhos.
+A esquerda política está bêbada e isso é ótimo. Em Caminhos Magnétykos a mistura de emoções através de uma distopia opressora nos oferece uma viagem extra-sensorial pelas perdas do passado e a esmagadora realidade do presente. Essa é a forma artística de uma ideologia conseguir se lamentar e se perguntar: onde foi que erramos?
 
-Acompanhamos essa moça, Jimena, que está com o futuro encaminhado, mas que tem assuntos pendentes com o pai e a mãe. Assuntos de independência. Ela ainda mora com a mãe e a avó ao final de sua faculdade, o que é um caso comum hoje em dia, quando cada vez menos jovens conseguem se virar sozinhos antes dos 30. E seu pai abandonou a família desde quando ela era muito nova. Este também é uma constante na vida de muitas famílias. Sobretudo de pais negros. É até um estereótipo nos EUA pais negros fugirem da responsabilidade dos filhos. E como todo estereótipo revela um fundo de verdade, as estatísticas não mentem.
+A história segue as lamentações de seu herói, Raymond Vachs (o ótimo Dominique Pinon), um artista francês fracassado que testemunha o casamento da filha com um magnata da Nova Ordem (mundial?) para lhe dar um futuro "digno". Mas o que é digno disso tudo que estamos vivendo, ele se pergunta enquanto reencontra amigos de quando era um revolucionário e se sente ainda pior. Além de ser preso.
 
-Uso a etnia do pai da personagem como um fator porque o próprio roteiro de Caetano Gotardo, Sara Pinheiro e Campolina usa esta abordagem ao afirmar a opressão racista de uma jovem de pele morena e mãe branca que prefere ficar sem tomar sol e parecer um pouco mais com as mulheres da casa. É este o nível de vergonha que esta jovem bem-sucedida retrata para suas amigas ou para si mesma.
+As metáforas se acumulam junto com as referências (como a ridícula, mas engraçada, sobre Donald Trump), assim como as mensagens psicodélicas em um emaranhado de fades em cenários que não importam, são nulos. Internamente são paredes com luzes básicas as iluminando. No mundo lá fora é noite em um escuro infinito, onde apenas os prédios do governo são iluminados ostensivamente. Os outros são ruínas de uma outra Era que já não existe mais.
 
-Esta também é uma daquelas histórias sutis demais do disse-que-não-disse, quando não se fala sobre o motivo desta família ser assim. Não é o foco. A questão primordial é acompanharmos esta jovem rumo à independência de seus pais, mas não apenas financeiro, mas afetivo e simbólico.
+O filme faz o uso indiscriminado de fades em torno da figura de Raimundo -- pelo nome representa o mundo? -- olhando estupefato e bêbado para as loucuras do totalitarismo de 1984 versão Extrema Direita. Isso fica claro em seu líder, nas TVs de toda casa, maquiado como um fantoche, repetindo palavras de ordem: "dissidência é traição", "liberdade é paz". O bom de "Caminhos..." é que ele é tão fácil de decifrar que se torna uma imersão divertidíssima participar da brincadeira.
 
-Uma pequena poesia leve e serena pelas ruas de Belo Horizonte, Canção ao Longe é uma sessão agradável que revela alguns novos talentos do audiovisual, como sua sensível diretora e sua proeminente atriz, Mônica Maria.
+Os próprios revolucionários do filme são caricatos, demonstrando um senso de humor ímpar em assuntos tão caros no meio político e ideológico. Nós os vemos como espiritualistas malucos que enxergam o homem nas estrelas, mas que se limitam a ler a sorte no amor de pessoas comuns. Seu líder é ninguém menos que Ney Matogrosso, e seu hino, Rosa de Hiroshima. O ápice da loucura quando ele canta. E da beleza também, por que não. Uma beleza trágica, melancólica, mas por isso mesmo intensa e marcante. O senso estético dessa produção luso/brasileira é simples, mas eficiente.
 

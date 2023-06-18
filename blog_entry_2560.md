@@ -1,20 +1,30 @@
 ---
 categories:
 - writting
-date: '2012-02-16'
-link: https://www.imdb.com/title/tt1655442
+date: '2010-08-13'
+link: https://www.imdb.com/title/tt0963966
 tags:
 - movies
-title: O Artista
+title: O Aprendiz de Feiticeiro
 ---
 
-Logo no início do filme, me senti acompanhando uma digna e merecida reverência ao Cinema Mudo, presente nos primórdios da arte e que acabou durante a década de 30 (mesmo ainda com defensores ferrenhos e influentes, como Chaplin). Porém, mesmo que você não entenda nada de arte cinematográfica vale a pena acompanhar o arco dramático de George Valentin, que vivia seu auge no cinema ainda não-falado (apenas com músicas de fundo, geralmente tocadas ao vivo por uma orquestra), e que subitamente foi afastado pela novidade dos personagens que agora falavam diretamente, e não com a ajuda dos cartões de falas colocados após alguma declaração importante.
+E aqui vamos nós para mais um filme bonitinho, emocionante e formatado nos últimos padrões que a Disney recomenda para que tenhamos mais uma possível franquia seguindo os modelos razoavelmente bem sucedidos dos Piratas do Caribe e Crônicas de Nárnia, e também a futura promessa do Príncipe da Pérsia.
 
-De ambas as formas é possível aproveitar o filme, pois ele contém em seu desenvolvimento detalhes de filmagem, direção e produção que, discretos mas ao mesmo tempo reveladores, dão uma ótima noção do que era fazer cinema naquela época (e até atualmente). Ao mesmo tempo, para quem já conhece um pouco mais de todo o processo, vai se divertir com as referências, óbvias e sutis, de várias obras da História do Cinema. Muitas dessas referências, aliás, são tão sutis que revelam sua fonte unicamente pela sua forma visual de contar a história. Dessa forma, é possível respirar um pouco de Cidadão Kane, por exemplo, mas sem apontamentos claros sobre o filme (com exceção da cena da mesa de jantar). Ou acompanhar uma trágica cena que remete diretamente a Cinema Paradiso (note o formato da casa onde isso ocorre), sem constituir plágio, mas uma elegante referência.
+Aqui se trata de um aprendiz de feiticeiro que procura pelo primeiro descendente de Merlin que irá ter poderes para derrotar a poderosa bruxa Morgana, atualmente presa em uma espécie de boneca russa, mas que assim que libertada, e não for impedida, poderá destruir o mundo como o conhecemos.
 
-Brincando o tempo todo com o Cinema como metalinguagem -- como, por exemplo, durante um hilário e angustiante sonho do protagonista -- a direção de Michel Hazanavicius -- que também escreve o roteiro, ou melhor dizendo, os cenários e os diálogos -- consegue inserir uma história sensível e ao mesmo tempo cômica, brincando com dois dos principais alicerces dessa arte: fazer rir e fazer chorar. E, assim como o Cinema com C maiúsculo, se aproveita do formato de filme mudo para caprichar nas técnicas visuais, tornando o resultado, se não totalmente universal (o maior ataque de Chaplin ao cinema falado) muito próximo disso.
+Soou piegas? Com certeza. Além disso, temos um romancezinho de infância do protagonista que é o aprendiz de feiticeiro do título. Fora isso, o filme diverte na dose certa, com um bom ritmo de ação temperado com efeitos mágicos que enriquecem a narrativa, aliás, como deveria ser.
 
-Com uma muitas vezes tediosa peregrinação à decadência de nosso herói, o maior feito do filme é conseguir nos inserir na atmosfera daqueles tempos, cuja evolução visual tenha sido possível justamente pela ausência técnica de diálogos longos. Talvez devamos realmente essa evolução ao cinema mudo. Pelo sim, pelo não, O Artista faz uma homenagem mais do que apropriada ao nascimento de uma arte.
+Até o início da "aventura", enquanto Dave tenta desesperadamente alcançar o papel em que está escrito se a menina citada quer ser sua amiga ou namorada (eu disse que era piegas), uma sequência simples e eficiente, tudo parece fluir para mais uma aventura Disney.
 
-Revendo mais uma vez O Artista (terceira vez em menos de um ano) é possível perceber duas coisas distintas e de certa forma paradoxais: 1) as pessoas não entendem mais por que assistir um filme com atores fazendo caretas, sem som algum e uma fotografia monocromática; 2) a academia não tinha como não dar o Oscar para um filme que abraça sem reservas a metalinguagem de todas as formas possíveis e imagináveis, uma declaração de amor sincera e profunda sobre o Cinema, não necessariamente apenas o mudo.
+E se por um lado as expressões de Dave quando criança (Jake Cherry) são continuadas por Jay Baruchel (o Dave crescido), infelizmente suas atitudes seguem uma curva muito irregular durante toda a projeção, onde horas ele está muito inquieto par se encontrar com seu amor Becky (Teresa Palmer) e em outros quer desesperadamente ser um feiticeiro. Independente de como for, ele é o mais irregular dos personagens, acompanhado pelos eficientes Nicolas Cage no papel de Balthazar Blake, o aprendiz de Merlin que deseja encontrar o garoto, e Alfred Molina, esse mais interessante no seu papel de Maxim Horvath, o bruxo que deseja libertar Morgana.
+
+Mais interessante por algumas cenas como a que ele sai do vaso onde estava preso com Drake e pergunta ao dono da casa, em tom cansativo: "Sou o primeiro a sair?". Em outra cena, preso a um espelho no banheiro do colégio, pergunta a uma pessoa que está olhando no espelho se ela poderia acordar seu capataz, Drake Stone, em um tom igualmente cansativo.
+
+Uma brincadeira/referência interessante a Nikola Tesla, que anda cada vez mais sendo citado. Aqui, Dave possui suas próprias bobinas magnetizadas que emitem raios em alta frequência, e por isso geram música.
+
+É impressionante como a única cena de morte, a do motorista que é atingido por Horvath enquanto este procura o vaso de Morgana, é escondido pelo vidro quebrado, provando igual competência que os filmes Transformer em esconder que um massacre está ocorrendo (nesse caso, foi apenas um "mero" assassinato, o que aumentaria considerável e desnecessariamente o nível de censura do filme como um todo).
+
+Assistindo filmes da Disney hoje em dia quer dizer não ver apenas referências toscas ao seu universo comprado, como o despertador de Buzz Lightyear de [Toy Story], mas uma tentativa de reconstrução admirável da cena das vassouras em Fantasia, com direito à mesma trilha sonora. Foi o momento mais mágico do filme. Pelo esforço e pela nostalgia.
+
+[Toy Story]: {{< relref "toy-story" >}}
 

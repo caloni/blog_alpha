@@ -1,48 +1,28 @@
 ---
 categories:
 - writting
-date: '2018-01-25'
-link: https://www.imdb.com/title/tt1665071
+date: '2021-09-27T21:45:58-03:00'
 tags:
-- series
-title: 'Sherlock: A Study in Pink'
+- cinemaqui
+- movies
+title: Sheena667
 ---
 
-Um estudo em rosa. A segunda visita a este episódio é mais lenta. Estamos sendo apresentados a Sherlock Holmes, Dr. Watson e como esta série atualiza o formato de histórias clássicas da dupla já imortalizada nos cinemas e na literatura. E o resultado não poderia ser melhor. Cortes ligeiros da mise en scene pela metade criam transições elegantes entre cenários. O uso da tecnologia da internet e dos celulares está totalmente integrado à história. E, de uma maneira meticulosa, engrenada, a edição e a trilha sonora embalam diálogos memoráveis desde o começo.
+Eu sei como é esse sentimento do jovem Vadim em Sheena667, filme em cartaz nesse Segundo Festival Russo no Brasil. Apesar de ter uma mulher linda e inteligente à sua disposição ele se encanta por uma rapariga das mais comuns e vulgares do outro lado do oceano porque ela dança em frente à webcam.
 
-É preciso ter em mente que este é um episódio que vai construindo o universo destes dois personagens. E Benedict Cumberbatch e Martin Freeman estão à vontade em seus papéis, criando em torno deles e de suas personas elementos que nos permitirão observá-los em outros casos, como a ironia de Sherlock, a ingenuidade de Watson, e aquele sentimento que ambos esboçam quando concluem seu raciocínio: mais uma peça encaixada no quebra-cabeças.
+Eu entendo a paixão, mas ela não faz sentido mesmo assim. E ao expor o ridículo da situação o filme escancara as premissas básicas do comportamento masculino em geral e como isso se multiplica em níveis dramáticos quando entra em cena essa inocente telinha que hoje quase todos temos acesso: a internet.
 
-O roteiro de Steven Moffat pega nas mãos do espectador e vai deixando pistas que permitem que nós antes mesmo de Sherlock concluamos algumas trilhas de pensamento deste. Porém, isso só vai ser realmente óbvio ao final do raciocínio. Note como a insistência na pergunta em qual pessoa passaria despercebida nas ruas de Londres possui uma certa ingenuidade e um tratamento charmoso do diretor Paul McGuigan, que nos apresenta a resposta acho que duas vezes antes mesmo de Sherlock chegar à conclusão.
+O ciberespaço abriu portas para novas oportunidades, como o caro leitor do site CinemAqui deve ter percebido. Vadim e Olga, um jovem casal, donos de uma oficina no interior da Rússia, aproveitam a sua oportunidade para através de raspadinhas da loteria local ajuntar dinheiro para seu novo negócio: um reboque na neve.
 
->
-> Sherlock Holmes: Shut up.
-> DI Lestrade: I didn't say anything.
-> Sherlock Holmes: You were thinking. It's annoying.
-> 
-> Dr John Watson: Have you talked to the police?
-> Sherlock Holmes: Four people are dead, there isn't time to talk to the police.
-> Dr John Watson: So why are you talking to *me*?
-> Sherlock Holmes: [morosely] Mrs. Hudson took my skull.
-> Dr John Watson: So I'm basically filling in for your skull?
-> Sherlock Holmes: Relax, you're doing fine.
-> 
-> Sherlock Holmes: Dear God, what is it like in your funny little brains? It must be so boring!
-> 
-> Sherlock Holmes: Seen a lot of injuries then. Violent deaths.
-> Dr John Watson: Well, yes.
-> Sherlock Holmes: Bit of trouble too, I bet?
-> Dr John Watson: Of course. Yes. Enough... for a lifetime, far too much.
-> Sherlock Holmes: Want to see some more?
-> Dr John Watson: Oh God, yes.
-> 
-> Dr John Watson: I'm supposed to be helping you pay the rent.
-> Sherlock Holmes: Yeah, well, this is more fun.
-> Dr John Watson: Fun? There's a woman lying dead.
-> Sherlock Holmes: Perfectly sound analysis but I was hoping you'd go deeper.
->
+O racional é simples. Eles moram do lado da assim chamada "Estrada da Morte". É muito comum acidentes de carro nesse percurso. Muitos acidentados sequer chamam o reboque; simplesmente deixam o carro tombado na estrada. O preço do guincho e conserto não compensa. A maioria desses carros é o famigerado Lada, o modelo automobilístico soviético, mas essa é mais uma irônica coincidência que uma piada interna russa.
 
-Claro que este modo fácil de jogar irá acontecer apenas neste piloto oficial. O piloto não-oficial nunca foi ao ar depois que a BBC pediu por mudanças drásticas no ritmo e abordagem da história, inflando os episódios de uma hora para 90 minutos. Essa pegada mais [canon], pautada no conteúdo original de Sir Arthur Donan Doyle, é brilhante em resgatar a mesma atmosfera dos [filmes das décadas de 30 e 40], com a dupla na pele de Basil Rathbone e Nigel Bruce, em versão contemporânea do detetive mais famoso de todos os tempos. O resto da série toma uma crescente que se torna mais e mais profunda, afastando o espectador médio e fidelizando os poucos com cérebro e paciência para se dar o prazer de se envolver em algo, e não apenas zapear os streamings.
+O plano de Vadim e Olga está acontecendo conforme o planejado, mas a curiosidade do rapaz o faz adentrar em um mundo sem volta: o das profissionais do sexo online. Ao entrar pela primeira vez nesse mundo ele não quer mais deixá-lo. Ele vê uma garota brincando com seu dildo na frente de uma webcam e ao sabermos que o sexo com sua mulher é sempre o mesmo mecânico movimento está explicada a fascinação.
 
-[canon]: https://en.wikipedia.org/wiki/Canon_(fiction)
-[filmes das décadas de 30 e 40]: https://en.wikipedia.org/wiki/Sherlock_Holmes_(1939_film_series)
+O filme monta sua história através de capítulos com títulos simples, como Carro, Árvore, Traição, Estrada da Morte. Cada um desses pequenos capítulos apresenta uma nova peça nesse quebra-cabeças difuso e aparentemente sem lógica. Isso porque o roteiro do ator Grigoriy Dobrygin e dos escritores Ilya Nosochenko (estreante) e Aleksandr Rodionov (veterano) não é linear, nos dando a sensação de fragmentos do cotidiano que montam uma história incidental.
+
+O diretor é um dos roteiristas, Grigoriy Dobrygin, e além de contar a história está interessado em montar alguns quadros para seu filme. Ele encontra uma cruz, por exemplo, e alinha sua sombra com a do protagonista. Para quê? Não há respostas fáceis em Sheena667 exceto sua historinha principal, e mesmo essa deixa lacunas que faz o espectador coçar a cabeça.
+
+O diretor também encontra o seu tema em filmar nosso herói completamente grogue pendurado em um balanço improvisado com um pneu. A câmera orbita o momento e nos deixa temporariamente tontos. Este é um filme com apenas um ponto de vista: o do rapaz. Se trata de um conto intimista sobre a escravidão moderna da internet. Somos reféns dos nossos instintos mais basais, construídos em épocas mais simples. E agora esses instintos deixam o cérebro do homem do tamanho de uma noz.
+
+Não há moral em Sheena667. Nem um final propriamente dito. Apenas sofrimento compartilhado sobre nossas decisões menos nobres e mais egoístas. E que mundo é esse do ad sense, da busca direcionada e das redes sociais, pornográficas ou não, que nos leva a alma em troca do prazer fugaz?
 

@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-12-30'
+date: '2019-01-04'
 tags:
 - wine
-title: Joel Gott
+title: Jose Luis Mounier
 ---
 
-Safra de 2016, é um Zinfandel que consegue até ser equilibrado. Você vai precisar de uma carne muito boa na churrasqueira (como a da festa de fim de ano da BitForge) para conseguir acompanhar.
+O Reserva 2013 (Malbec/Tannat/Cabernet) foi feito com muito carinho e decicação; estrutura impecável, corpo médio pra forte, álcool que orna com o carvalho (15 meses) seguido de frutas maduras e especiarias. Vai bem com carne forte e até gordurosa (tem Tannat).
 

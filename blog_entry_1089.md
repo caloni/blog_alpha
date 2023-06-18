@@ -1,16 +1,14 @@
 ---
-categories:
-- writting
-date: '2020-02-04'
-link: https://www.imdb.com/title/tt0104008
+categories: []
+date: '2012-03-11'
 tags:
-- movies
-title: Conto de Inverno
+- ccppbr
+title: Conteúdo da Palestra
 ---
 
-Um dos filme da quadrilogia do proficiente Éric Rohmer (As 4 Aventuras De Reinette E Mirabelle), Charlotte Véry está leve e tresloucada em um papel de mãe solteira dividida entre três amores: dois presentes não lhe bastam, um ausente é sua razão de viver.
+Uma nuvem mágica...
 
-Este é um filme moderno, de relacionamentos abertos e uma mãe que, diferente das de hoje em dia, não vira serviçal de sua criança. Rohmer adota uma postura quase que relapsa na condução dos seus atores e das próprias tomadas, mas com isso ganha um certo charme e simplicidade que remetem à vida cotidiana da capital da França ou da visão bucólica e vazia de uma cidade do interior. Com a narrativa em cortes rápidos a história pode avançar em cinco segundos, e com uma verborragia típica de intelectuais pode nos levar a discussões filosóficas cheias de conclusões a la francesas, vazias de substância, mas que soam profundas quando ditas. Duas formas diferentes de passar o tempo.
+O evento de C++ na Microsoft (e organizada pelo nosso grupo C/C++ Brasil) aconteceu. Quem esteve lá teve o privilégio de passar algumas horas com programadores e entusiastas de ambas as linguagens e acompanhar o raciocínio dos palestrantes sobre Move Semantics, COM (good times), programação na placa gráfica e a solução para todos os problemas do universo (vulgo ZeroMQ). Fora isso, a palestra que me surpreendeu no dia foi a do Sr. Basílio Miranda, cômica e inspirada, mas sempre nos fornecendo um pouquinho mais de conhecimento acerca do Qt framework, que felizmente ainda não morreu (a Nokia recentemente liberou uma série nova que ainda usa a versão evoluída do Symbian), e graças a isso não precisaremos nos preocupar por enquanto com o destino de nosso ilustríssimo Sr. Basílio.
 
-Charlotte faz Félicie, uma mulher que viveu o grande amor e o perdeu por um lapso de memória. Este é o filme para descobrirmos com quem ela vai ficar no final, e a comédia surge quando descobrimos que ela toma grandes decisões depois de refletir por dois minutos.
+Fora isso tivemos uma telepalestra com um dos membro do time do Visual Studio. Mas, francamente, estou cada vez menos interessado no VS e mais no Vim. Portanto...
 

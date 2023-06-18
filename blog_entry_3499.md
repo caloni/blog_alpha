@@ -1,21 +1,25 @@
 ---
 categories:
 - writting
-date: '2018-11-01'
-link: https://www.imdb.com/title/tt7519174
+date: '2012-10-08'
+link: https://www.imdb.com/title/tt0327056
+repost: '2023-05-19'
 tags:
-- cinemaqui
 - movies
-title: Sobre Pais E Filhos
+title: Sobre Meninos e Lobos
 ---
 
-Sobre Pais e Filhos é o tipo de filme que o diretor já ganha nota máxima apenas por ter filmado tudo aquilo e voltar com vida, mas ele é ao mesmo tempo um trabalho narrativo impactante na medida certa e para os corações mais fortes, conseguindo realizar uma imersão completa do espectador para aquela realidade, poir mais revoltante, angustiante, insuportável e horrível que ela seja.
+Dono de uma cinegrafia invejável como diretor, Clint Eastwood aqui começa a mudar sua maneira de contar uma história. Sem pressa para desenvolver a trama e ao mesmo tempo mostrando apenas o necessário para que se mantenha o suspense, o roteiro de Brian Helgeland caminha por igual entre as vidas de cada personagem para que entendamos o peso de cada encontro e seus diálogos. Enquanto isso, Eastwood e seu editor juntam tudo com uma fluidez admirável; ainda mais se considerarmos a quebra de ritmo que poderia surgir ao abordar tantos pontos de vista diferentes para um mesmo fato.
 
-A história é simples: o próprio diretor, Talal Derki, volta ao seu país natal, a Síria, e é recebido por uma família islamita radical, jihadistas e defensores do califado (uma espécie de monarquia islâmica e religiosa, claro). Ele convive com eles por dois anos e acompanha o crescimento de principalmente dois dos seus filhos: Osama e Ayman, de 13 e 12 anos. Desde os momentos lúdicos com as brincadeiras de criança até o momento em que eles precisam se alistar como combatentes jihadistas, Talal Derki está atento a todos os valores dessa cultura e modo de viver no meio àquele caos.
+O elenco está afinadíssimo, mas Sean Penn e Tim Robbins possuem seus momentos particulares que roubam a cena e quase todo o filme. A trilha sonora consegue manter o clima de tensão e mistério quase sem se fazer notar, diferente da fotografia, triste, bela e azul, que surpreende a cada novo enquadramento de Eastwood, que utiliza o trabalho do fotógrafo Tom Stern para atingir não apenas beleza em cada uma das cenas, mas organicidade; como quando enfoca o personagem de Tim Robbins no escuro de um quarto, ou as diferentes cenas aéreas que juntam todos os cenários e personagens sob o mesmo teto nublado.
 
-O resultado são declarações extremamente polêmicas de seu anfitrião e pais das duas crianças, como por que ele escolheu o nome de seus filhos (um deles tem o nome do terrorista que derrubou as torres gêmeas). Ele vive de buscar minas enterradas onde vivem para coletar o material com que ela é feita e conseguir dinheiro. O grupo ao qual ele pertence está alinhado com a Al Qaeda, e você ouvirá os motivos pelo qual ele defende a posição radical onde está inserido.
+# 2023-05-16
 
-E ao mesmo tempo que os diálogos revelam exatamente os valores desse grupo de muçulmanos, não exatamente a exceção, você também irá acompanhar a ação do dia-a-dia, como a educação que seus filhos recebem, como jogar pedras nos alunos de uma escola ou brincar de fazer uma bomba caseira com terra e ácido. O treinamento de jihadistas é a parte mais pesada para as crianças, mas até lá você irá entender que elas já estão inseridas nessa realidade desde a raiz, então não há de fato muito o que se pode fazer. É um outro mundo, e a grande virtude de Derki é nos entregar este mundo por completo, sem restrições, sem vitimismo.
+Meu review de mais de 10 anos atrás foi muito técnico. Estava começando a escrever reviews sobre filmes. Coincidentemente meu amigo disse que quando assistiu na época ainda era muito jovem. Não que eu fosse jovem quando eu vi. É só uma comparação entre momentos da vida onde temos menos experiência e falta vivência para entender se o que se está fazendo ou sentindo é assim mesmo ou pode ser melhor. Muito da arte tem relação com o nível que estamos na vida. E existem diferentes níveis para cada detalhe da vida.
 
-O objetivo mais nobre de um documentário é conseguir documentar um ponto de vista em um momento histórico em todas as suas nuances. "Sobre Pais e Filhos" é um desses filmes, cria de "Nanook of the North" (um dos primeiros documentários que fez isso no Cinema) e que consegue nos mostrar o começo e o fim de um sistema cruel, radical e violento. Mas autêntico. Real. Indissociável de sua própria narrativa. Há tantos momentos dignos de nota que ficarei listando o filme inteiro aqui. Então assista ele, do começo ao fim, e viva uma imersão que apenas documentários podem nos trazer.
+Se hoje fosse reescrever este review ele com certeza não seria tão técnico. Acho que mais nada que eu escrevo sobre cinema é técnico, pois perdeu a graça para mim há um tempo. Esse filme do Eastwood eu pulei na estreia e só fui ver muito tempo depois. O pessoal falava dele como um drama pesado, e de fato é. É sobre as transformações na vida dos jovens do filme na fase adulta e como versões infantis de bullying e vingança se transformam em suas fases adultas, mesmo com a personalidade se mantendo. É também um estudo de personagens e um retrato muito cru e sinistro das relações humanas. Daqueles filmes catarse em que há um evento-chave que eleva o casting e o faz ganhar prêmios. Não que Sean Penn precisasse disso; sua atuação está níveis acima de qualquer manipulação cinematográfica.
+
+A história é sobre rimas de diferentes épocas. note os planos detalhe em torno da cena-chave na calçada e traços do comportamento dos personagens depois de adulto. OK, talvez uma coisa ou outra do lado técnico sirva para referenciar momentos na obra. Em especial o personagem de Sean Penn. Ele é um sujeito perigoso, mas não precisa se esforçar em cena para nos fazer sentir medo. O cara simplesmente é. E você entende o que pode acontecer depois desse evento catártico muito mais por quem o personagem de Penn nos entrega do que pelas circunstâncias da própria história.
+
+Um muito obrigado ao Lorde por me fazer resgatar boas memórias deste filme.
 

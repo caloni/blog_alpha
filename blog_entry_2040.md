@@ -1,16 +1,16 @@
 ---
 categories:
 - writting
-date: '2015-10-29'
-link: https://www.imdb.com/title/tt3472226
+date: '2011-06-12'
+link: https://www.imdb.com/title/tt1302011
 tags:
 - movies
-title: Kung Fury
+title: Kung Fu Panda 2
 ---
 
-Este curta (média?) metragem mistura anos 80, raptors, cop-raptor, arcades, Hitler, hackerismo, gostosas medievais, lasers, Thor, Kung-Fu, viagem no tempo, uma profecia e esse é apenas o começo de uma salada que apela para o absurdo usando efeitos digitais grotescos que se tornam caricatos e conseguem manter pelo menos meia-hora de um sentimento de confusão, identificação e êxtase juvenil. Afinal de contas, em que universo paralelo você pensou que veria um dinossauro lutar contra uma água dourada nazista?
+A continuação das aventuras de Po, agora o Dragão Guerreiro, e os cinco furiosos, contém em sua essência os mesmos elementos que fizeram do original um sucesso como filme: as piadas irreverentes em torno da figura de um panda lutando Kung Fu (e Po é um personagem irreverente não apenas por natureza, mas em sua própria concepção de personalidade divertida), as sequências de luta orquestradas pela animada trilha sonora (que aqui já se torna um pouco mais confusa, e desafina um pouco se revermos o primeiro filme) e os primorosos efeitos visuais, que aqui ainda contém o interessante efeito da água no pelo de Po.
 
-Dirigido, escrito, atuado e produzido por David Sandberg, Kung Fury não se priva de inventar as mais ousadas sequências porque, afinal de contas, nada faria sentido do mesmo jeito. Provocativo, deixa nas entrelinhas os absurdos que somos obrigados a engolir nos filmes de ação que levam toda essa farofa a sério. Pelo menos este filme sabe que nada é sério, e brinca constantemente com as facilidades com que o herói sai de qualquer situação impossível de resolver.
+O que move os personagens nessa sequência é mais um vilão que tenta acabar com a China e com o Kung Fu, o que torna a motivação dos heróis repetitiva e confusa (novamente, como eles vão acabar com o Kung Fu, mesmo?). É lógico que um adulto consegue entender o impacto que as armas de fogo tiveram sobre a arte das lutas corpo a corpo, porém essa dedução sequer aparece na história de maneira explícita, ofuscando um pouco a motivação de tudo aquilo.
 
-Este filme não foi feito por acaso: ele é exatamente o que você vê. Não houve falha na produção. Kung Fury tem o potencial de liberar a imaginação de futuros idealizadores, ou no mínimo servir de referência para uma época onde é possível colocar nazistas no lado oculto da lua, no centro da Terra e viajando no tempo. Nunca é tarde para reinventar e misturar épocas, gostos e referências. Com nosso poder computacional, nada mais fará sentido. Kung Fury é apenas o começo.
+Com um trabalho criativo em alguns detalhes da trama (como a forma encontrada pelos guerreiros para fazer com que o Panda também "voasse" em direção aos inimigos), e piadas irreverentes de Po, o longa consegue divertir de forma inquestionável. Porém, com a falta de uma narrativa coesa o suficiente para imprimir em sua conclusão o conhecido arquétipo de lição de moral (modelo já utilizado no primeiro filme), o trabalho todo acaba perdendo peso significativo em seu final. Isso, contudo, não impede que algumas sequências sejam emocionantes pelo simples fato de serem emocionantes.
 

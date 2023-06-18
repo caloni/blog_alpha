@@ -1,16 +1,19 @@
 ---
 categories:
-- coding
-date: '2016-08-04'
-link: https://youtu.be/Fw1wdM_vzzI
+- writting
+date: '2017-01-12'
 tags:
-- videos
-title: 'Vídeo: Criando Projeto C++ Console no Visual Studio 2015'
+- movies
+title: Vidas de Carolina
 ---
 
-Esse vídeo é um experimento que estou fazendo para tentar começar a compartilhar conhecimento em vídeo. Para começar, acho que nada mais apropriado que criar um projeto novo no Visual Studio, não? Dúvidas, sugestões, críticas, todas bem-vindas. Compartilhem com aquele amigo que pensa em começar a programar (ainda mais se for em C++).
+O curta documental Vidas de Carolina é o primeiro trabalho da diretora Jessica Queiroz. Ele aborda a vida de uma catadora de lixo reciclável e seu talento para a narrativa. A ideia era mostrar que a capacidade pode vir de qualquer lugar e que muitos não conseguem reconhecimento por falta de oportunidade.
 
-Essa primeira tentativa saiu um pouco longa -- 10 minutos -- mas era para ser mais sucinto. Me perdi em alguns detalhes da estrutura do projeto, mas o objetivo era entrar um pouco mais a fundo, mesmo, abrindo os arquivos do Visual Studio "na mão" para ver o que tem dentro, e já dando dicas de como a depuração pode começar já na compilação.
+Infelizmente, essa oportunidade também é perdida em seu filme. Carolina, já falecida, mantinha suas histórias em um caderno. De acordo com um dos entrevistados, o caderno datava da década de 50, informação essa que dá asas à imaginação do espectador, que poderia resgatar inclusive memórias do trabalho excepcional de Marcos Prado, "Estamira". No entanto, pouco vemos dos escritos de Carolina, com pouquíssimas frases lidas por uma moça que surge em preto e branco (Carolina Maria de Jesus), resgatando as memórias da senhora falecida e esteticamente produzida com uma glorificação visual que não se encaixa na história da homenageada.
 
-Espero que gostem. Se quiserem vídeos mais específicos, é só comentar logo abaixo. Dependendo do retorno -- ou não -- talvez em breve continuemos o projeto fazendo um básico de depuração.
+No entanto, apesar do endeusamento acidental e pouco propício há uma fuga da realidade, ou o seu maquiamento, já que sequer vemos a pobreza e a miséria que eram as condições de vida de nossa heroína. O conteúdo visual se disassocia da mensagem do vídeo traduzida pelos entrevistados, que sugere que as condições eram horríveis e que esta é uma situação lamentável.
+
+A direção de Jessica (e provavelmente seu roteiro) se perde ao partir para conclusões apressadas, sem antes desenvolver uma história que, a meu ver, mereceria ser contada com muito mais tempo de tela. Além disso, como todo diretor estreante, Queiroz não evita o uso de diferentes ângulos e cortes (ela também assina como montadora) que não possuem uma função muito bem definida. Há muito o que contar dessas pessoas invisíveis que perambulam pelas grandes capitais, catando o lixo que os incautos cidadãos "deixam escapar" de suas mãos ocupadas.
+
+Finalizando muito mais cedo do que a proposta inicial, Vidas de Carolina apenas não se beneficia por não ser um simples trailer para um conteúdo muito maior e se resumir ao próprio vídeo que estamos vendo. Dessa forma, fica um gostinho de quero mais no momento mais inadequado para isso: o seu próprio final.
 

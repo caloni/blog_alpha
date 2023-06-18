@@ -1,16 +1,18 @@
 ---
 categories:
 - writting
-date: '2015-04-02'
-link: https://www.imdb.com/title/tt1865505
+date: '2015-04-27'
+link: https://www.imdb.com/title/tt2452200
 tags:
 - movies
-title: Song of the Sea
+title: Son of a Gun
 ---
 
-Song of the Sea -- uma animação ainda inédita no Brasil porque as distribuidoras preferem a garantia de produtos xarope como Big Hero -- é um banho de água fresca nas animações e nos filmes em geral. É uma história pouco criativa e muito inspiradora, com uma animação de fazer perder o fio da meada, pois ficamos admirando cada detalhe de suas figuras geometricamente harmoniosas e com paletas de cores imensamente significativas, seja no frio gélido do mar ou no interior de um aconchegante bar. É uma obra estilizada e plástica, mas ao mesmo tempo com coração. A emoção do filme reside em sua trilha sonora e em suas dublagens carismáticas (mesmo que os personagens não falem muito). E, claro, em sua história que poderia até ser acusada de manipuladora se não preenchesse seus curtíssimos 93 minutos de maneira tão natural.
+Esse é um filme meio abandonado pelas distribuidoras nacionais e ainda não estreou por aqui, mesmo tendo um ator conhecido no elenco (o escocês Ewan McGregor). E por falar em estreia, depois de dirigir seis curta-metragens, o diretor Julius Avery comanda este longa que era para ser um super-filme de ação e drama sobre um garoto que acaba preso junto de um famoso criminoso que o ajuda a sair ileso de sua estadia na cadeia por seis meses, pedindo em troca que ele mexa os pauzinhos do lado de fora para realizar uma fuga nada crível, ainda mais se considerarmos que ele estava em um presídio de segurança máxima.
 
-A história começa com a morte da mãe de duas crianças que vivem na casa do lado de um farol. Quer dizer, é isso o que pensamos inicialmente, mas aos poucos outros detalhes vão revelando o aspecto sobrenatural de uma lenda que parece ter atravessado milênios para chegar em nossos olhos. A relação entre o filho mais velho e a caçula é a chave para acompanharmos suas aventuras. Quando em uma noite a pequena e calada Saoirse resolve seguir seus instintos e adentra o mar para se juntar às focas com o poder do agasalho mágico de sua mãe, sua avó resolve levar as duas crianças para a cidade, a salvo do que parece ser uma maldição. O caminho de ida é um dos momentos mais criativos, com o garoto desenhando um mapa enquanto observamos o carro pela estrada.
+Usando o xadrez como um gancho para que o impiedoso Brendan (McGregor) meio que adote o jovem JR (Brenton Thwaites) e o escale para seu próximo golpe, mesmo sabendo (ele e nós) que o garoto parece completamente novato no crime organizado, o filme não é nada modesto em seu roteiro, passando da fuga já citada para o roubo de nada menos do que barras de ouro no valor de 4,5 milhões de dólares. Ainda ingênuo na criação de seus personagens, mesmo que a relação de confiança da gangue seja um fiapo, Brendan confia todas as barras nas mãos de seu comparsa, ainda que momentos depois tenha feito um discurso como não se pode confiar nas mulheres.
 
-Porém, são os motivos para a volta ao farol que tornam Song of the Sea uma aventura empolgante, dramática, e até engraçada. As figuras excêntricas que as crianças irão encontrar pelo caminho floreiam a lenda e ajudam a nos situar nesta fábula. Não há conclusão fácil para essa história, mas uma importante lição aprendida. Parece soar piegas, mas não é esse o sentimento que fica. Talvez porque o piegas, quando entregue de coração, funciona muito melhor. OK, essa frase, sim, foi piegas.
+Ah, sim, mulheres. O jovem JR, como de praxe, é o galã que se apaixona por uma prostituta russa e é isso que acende a desconfiança de Brendan (não à toa). Ainda assim, o filme investe em mais situações amadorísticas, mais cenas de ação difíceis de acreditar, e diálogos mais rasos ainda. Ainda assim, fica na média, não estragando a experiência o suficiente para se tornar ruim, mesmo com a "reviravolta" capenga que insiste em usar o batidíssimo flashback para explicar como tudo foi feito. Sério, mesmo?
+
+De qualquer forma, McGregor está bem, o garoto é monossilábico, mas empático, e a garota é só mais uma garota. Há tiros, uma perseguição convincente, efeitos sonoros das armas bem arquitetados (ainda que estejam em desarmonia com os diálogos, que parecem muito baixo perto dos sons do filme). É um filme de ação que quase faz você dormir. Ou seja, não espere adrenalina escorrendo da tela.
 

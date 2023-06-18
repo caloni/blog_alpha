@@ -1,12 +1,21 @@
 ---
 categories:
 - writting
-date: '2020-12-06'
-link: https://www.imdb.com/title/tt0112445
+date: '2021-11-08T19:02:11-03:00'
 tags:
+- cinemaqui
+- mostrachinesa
 - movies
-title: O Balão Branco
+title: O Balão
 ---
 
-As caras que essa menina faz compensam qualquer momento chato do filme. Ela chora como se não houvesse amanhã, fica irritada, desesperançosa. Seu jeito de juntar as mãos, sua maneira insistente de pedir. Ela fica receosa e nós ficamos receosos por tabela. Será que alguém vai ouvi-la? Todos escutam, mas ninguém de fato ouve. Fica esse suspense. A câmera de estreia do pupilo de Kiarostami, o diretor Jafar Panahi, não perde a metrópole em volta da pequena Razieh. Todos estão atarefados para o feriado de Ano-Novo e ela só quer um peixinho dourado vistoso para a hora da virada, uma tradição na região do Irã. Em vários momentos tememos se ela conseguirá, porque a tensão é muito poderosa nesse tipo de filmagem. Na maioria do tempo vemos o rosto dela ocupando a tela ou um adulto atarefado, alheio ao seu drama. E não estamos todos alheios aos dramas dos que passam do nosso lado? Um soldado senta-se para conversar brevemente com ela. Ela aprendeu a não falar com estranhos, mas ele vem de uma cidade pequena onde todos se conhecem e não existem estranhos. E é isso o que está sendo discutido nas entrelinhas. Essa alienação da cidade grande. Ninguém confia em ninguém. Nós como espectadores enxergamos aquela pequena menina como uma vítima da cidade e seus perigos. Ela carrega uma nota graúda consigo e isso é suficiente para ela correr grande risco. Que filme tenso, cômico, imperdível. Nenhum momento é desperdiçado. No último minuto surge o garoto do começo. O que vende balões. Ele já vendeu quase todos. Só falta o branco do título do filme. Quando a menina e seu irmão finalmente conseguem resolver o impasse ele vira paisagem. É o novo estranho. E ninguém liga para estranhos em uma cidade grande.
+Quando você menos espera está imerso em um conto folclórico chinês dos anos 80 sobre controle de natalidade, empoderamento feminino e superstições em geral. Alguns detalhes da trama se encaixam de forma a levar o espectador a pensar sobre os conflitos que essa família interiorana irá sofrer.
+
+Porém, este é acima de tudo um trabalho bem-humorado. Tudo começa quando os dois filhos menores do pai encontram camisinhas escondidas debaixo do travesseiro da mãe e fazem dois lindos e cônicos balões. A primeira cena tem esse filtro branco da fotografia, que apenas depois de alguns segundos percebemos de onde vem. Aham. É uma jogada estética e narrativa que começou nos fisgando não apenas pelo bucólico da situação, mas por ser novidade na época. Várias novidades. Como diz o avô da família, "hoje estão todos montados nessas motos no lugar de cavalos". Pois é, vovô, espera só você descobrir os corredores de motomanos da capital paulista e vai ver o inferno que isso vira. Ao mesmo tempo o paraíso, pois já pensou uma tropa de cavaleiros entregando comida em sua casa? Bom, pelo menos haveria esterco de sobra para uma alimentação mais natureba.
+
+Mas devaneio. O que quero dizer é que quando o avô questiona o pai das crianças de por que o balão que eles estavam brincando não é um balão para crianças é lindo, pois é um roteiro que estabelece em poucos diálogos e em uma única cena o choque de gerações. Além do quê, na direção de Pema Tseden, há poucos cortes, pois a troca de quadros, ou do motivo filmado, é feito movimentando a câmera, o que estabelece um certo dinamismo. Além de ser bem charmoso.
+
+Os personagens de O Balão estão lindamente vestidos e caracterizados. A estilização é tão completa quanto os traços de um anime bem inspirado, ou um épico fantasioso como Star Wars. Note cada peça de vestimenta dos membros da família, como é único e já fornece pistas do caráter e da personalidade de cada um. São humildes, e brutos, mas não violentos. Vivem na tradição e na pobreza honrosa. Seria um Vidas Secas pela descrição visual que o filme dá a cada elemento em cena. Lembrei do romance icônico de Graciliano Ramos pois acontece da mesma forma dessas pessoas não terem traços em seus rostos que determinem riqueza de detalhes. Os detalhes estão no cenário e nas roupas. Na cara deles está uma nota de sorriso medroso e envergonhado da mãe, do olhar bruto do pai, da eterna serenidade e peso da irmã.
+
+Este é um filme que entretém, mas ao mesmo tempo nos entrega uma conversa honesta com o espírito do tempo e mergulha em suas idiossincrasias de regiões isoladas das grandes cidades que no caso da China ainda nasceriam. É um retrato bem específico no tempo e espaço que temos o privilégio de visitar, e refletir. Uma ótima seleção para um festival daquele país, a Mostra de Cinema Chinesa, que ocorre em São Paulo este ano no formato de streaming.
 

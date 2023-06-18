@@ -1,18 +1,17 @@
 ---
 categories:
 - writting
-date: '2020-10-04'
-link: https://www.imdb.com/title/tt6994156
+date: '2012-02-15'
+link: https://www.imdb.com/title/tt2231505
 tags:
-- series
-title: Sem Maturidade Para Isso
+- movies
+title: Selkirk el verdadero Robinson Crusoe
 ---
 
-Dos mesmos criadores de [Regular Show], eis uma animação com momentos frenéticos, ideias estupendas, ótimas sacadas e que cai na mesmice uns três episódios depois, mas a primeira temporada é tão breve que você mal percebe.
+Impressionante essa animação argentina sobre o livro de Robinson Crusoé que, salvo alguns momentos difíceis tecnicamente, possui efeitos e direção dignos de outras produções mas conhecidas, como Wallace e Gromit (que também estreia recentemente com um filme de piratas).
 
-Perto de atrocidades como Hoops, que segue a fórmula obtusa e ultrapassada de criticar o politicamente incorreto, Close Enough é uma obra de arte. É dinâmico e tenta não repetir piadas, e as encaixa tão rápido que uma ou duas que não tenham graça passam despercebidas no meio da tempestade de ideias.
+Porém, melhor que os efeitos é a história, que além de seguir fielmente o espírito do livro não apela para piadas fora de contexto tão comuns em filmes infantis, além de não tentar suavizar por demasiado temas potencialmente impactantes, como morte (incluindo suicídio) e motim.
 
-Além disso esta é uma série que de fato dialoga com seu público-alvo e entende seus personagens, um casal com seus trinta anos tentando sobreviver com uma filha nova e compartilhando uma casa com um ex-casal, algo tipicamente moderno. Eles sentem a idade chegando porque trocam a balada pelo chá no final do dia e mesmo na balada procuram um canto tranquilo para sentar.
-
-[Regular Show]: {{< relref "regular-show" >}}
+É notória que a melhor sequência do longa fica por conta do momento em que Selkirk é abandonado na ilha e deve se virar com o que tem para sobreviver, inclusive com moedas de ouro, que para ele, isolado da sociedade, possuem outra função e valor (diga-se de passagem muito mais importante por ser mais essencial).
+Com ares de lição de moral, às vezes se confundindo com moral religiosa, Selkirk diverte de maneira moderada, mas possui o grande trunfo do aprendizado por exemplo, ainda que idealizado.
 

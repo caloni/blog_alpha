@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2015-06-21'
-link: https://www.imdb.com/title/tt3263614
+date: '2016-12-03'
+link: https://www.imdb.com/title/tt4302938
 tags:
 - movies
-title: Kumiko, a Caçadora de Tesouros
+title: Kubo e as Cordas Mágicas
 ---
 
-Kumiko é uma fábula criada a partir de uma história real (ou pelo menos levemente inspirada em uma pessoa). Embalando uma história impossível em torno de um outro filme sobre uma história impossível (e, este também, baseado em uma história real), Kumiko é uma experiência entusiasmada, embora na maioria das vezes, não tenha lá seus motivos.
+Kubo é uma animação em stop motion que usa um monte de elementos computacionais para tornar tudo muito mais fluido, mágico e... não-stop motion. Porém, ao mesmo tempo, ele se aproveita da técnica para tornar tudo muito mais real. Ele conta uma história oriental com o herói sendo uma criança, mas não são exatamente coisas de criança que ocorrem com ele. A maior virtude do filme talvez seja sua não-infantilização de um filme que entende que crianças podem aguentar discussões que envolvam a morte, e não há nada de errado em um garoto não ter seu olho esquerdo.
 
-Dirigido por David Zellner (que participa do filme) e co-escrito com seu parente (irmão?), a história gira em torno da Kumiko do título, uma garota insegura que trabalha em um emprego que não gosta e que tem todos em sua volta constantemente a assediando para que ela se ajuste ao padrão do que se espera daquela sociedade de uma mulher em sua idade. Estamos no Japão, então isso faz muito sentido, e o que torna Kumiko um tanto mais heroica (transgredir as regras sociais no Japão, para uma mulher, com certeza é heroico, ainda que nos tempos atuais).
+Estreia do diretor Travis Knight, que já trabalhou como animador em Coraline, Paranormal e Boxtrolls, Kubo conta a triste história de uma mãe que foge de uma briga feia de família, onde uma de suas irmãs arranca os olhos de seu filho. Ambos vivem escondidos em uma caverna do lado de um vilarejo, onde Kubo todos os dias desce e conta uma história heroica sobre seu pai, através de seu shamisen, um instrumento de corda oriental clássico com três cordas, que faz com que suas folhas de papel saiam voando magicamente e criem as mais diferentes dobraduras de papel (origamis) que interagem entre si, para espanto e admiração das pessoas em volta.
 
-Quando Kumiko encontra uma fita VHS antiga enterrada em uma caverna na praia contendo o filme Fargo (sim, aquele dirigido pelos irmãos Coen), ela pensa ter encontrado um mapa para o tesouro: o lugar onde o personagem de Steve Buscemi no filme enterra o dinheiro do sequestro que deu errado. A partir daí a vemos planejar passo-a-passo seu objetivo. Bom, na verdade, mais ou menos. Sua rotina e sua vida solitária é mais o foco aqui, e como pessoas libertas das convenções sociais, ainda que notadamente malucas, são vistas com maus olhos.
+As construções de cenário, como estátuas de budas gigantes cobertos pela areia, ou até o alto mar e suas ondas, são construídos por mecanismos reais. O resultado é como se as páginas de um livro infantil com textura se abrissem com uma riqueza de detalhes, além das luzes e cores diferentes a cada passagem da história. As próprias expressões dos personagens impressionam pelo realismo e pela humanidade.
 
-Plasticamente um belo filme, com uma fotografia limpa e com o tema vermelho impregnando a tela, "Kumiko" é um filme tecnicamente irrepreensível, embora não tenha nenhuma ambição mais do que entregar a jornada da nossa heroína quase como uma conquistadora espanhola. Brincando com o destino real da garota (na vida real, ela se matou), alguns detalhes da japonesa em carne e osso são transmitidos mais como metáforas, e até a posição do diretor como um personagem que faz de tudo para ajudá-la é metalinguístico.
+A história é escrita por Marc Haimes, Shannon Tindle e Chris Butler, e é impressionante que eles não tenham se inspirado em nenhuma lenda oriental específica. Quer dizer, com certeza vários elementos da história possuem como fonte de inspiração o espírito oriental de outras lendas, mas esta é uma história original, que possui uma estrutura simples, mas eficiente para o que dispoe: usar a narrativa para uma viagem de aventura e descoberta.
 
-Contudo, como mensagem, assim como muitos filmes que se espelham em um acontecimento do noticiário, é vazio, o que se torna um pouco decepcionante. Ainda assim, mesmo não sendo um grande filme, Kumiko merece mil vezes mais ser assistido por ousar diferente, do que tantos filmes igualmente medíocres, mas sem qualquer traço artístico que se destaque das aventuras formulaicas que estamos acostumados a assistir. Só por isso já valeria uma visita.
+E embora haja o pequeno problema de não haver muita tensão nas cenas mais movimentadas, mesmo que vejamos, por exemplo, batalhas na água (em um navio e no fundo do mar), esta não é necessariamente uma história focada em ação, mas muito mais reflexão. Uma reflexão sobre as perdas de entes queridos, acreditar em si mesmo, blá blá blá. E mesmo a moral da história não é tão completa assim.
+
+Por fim, Kubo existe realmente para demonstrar como as técnicas de animação estão cada vez mais eficientes, sejam stop motion ou não. É um prazer saber que o estúdio responsável por Boxtrolls e Coraline permaneça com um de seus pés no stop motion. Ele é o equivalente aos live actions que preferem usar algo mais real para que o efeito não seja apenas um monte de pixels se cruzando.
 

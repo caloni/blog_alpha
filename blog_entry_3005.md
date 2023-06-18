@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2017-04-01'
-link: https://www.imdb.com/title/tt4540434
+date: '2016-11-17'
+link: https://www.imdb.com/title/tt0120631
 tags:
 - movies
-title: Paradox
+title: Para Sempre Cinderela
 ---
 
-Paradox é o tipo de filme que vale a pena conferir pelos conceitos de seu roteiro. Ele é produzido em baixo orçamento, com fotografia de televisão, trilha sonora enlatada e atuações sofríveis. Porém, ignorando tudo isso, este é o filme de viagem no tempo que estava faltando: um que ironicamente evite nos colocar na velha questão dos paradoxos temporais.
+Esta revisita nos anos 90 ao conto dos irmãos Grimm usa os próprios documentaristas dessa fábula folclórica para dar um laço mais realista à história imortalizada por Disney. Usa atores competentes em situações interessantes -- o que Morgana faz como a madrasta? -- e ao mesmo tempo decide formatar seu núcleo em um romance convencional, de época e água com açúcar. Mas, ainda assim, apaixonante.
 
-Se mantendo o tempo todo em um laboratório subterrâneo, uma equipe inusitada de cientistas realiza a primeira viagem no tempo da história para constatar que a natureza humana é podre. Uma hora após ligar a máquina (e próximo do final do filme) praticamente todos estarão mortos por um assassino misterioso, que é o grande mistério que nossos heróis do passado precisarão desvendar se quiserem continuar vivos.
+Temos como Cinderela Drew Barrymore, a queridinha da época e uma das panteras. O príncipe é Dougray Scott, que harmoniza ingenuidade e pomposidade de um sangue azul. Seus pais não querem que ele se case com uma plebeia, que se torna órfã a partir do momento que é entregue aos cuidados de sua inconsolável madrasta, Rodmilla (Huston). Há um quê histórico nessa nova versão que quer dar motivos para a aparente irracional maldade de Rodmilla, e é Anjelica Huston que consegue ser a peça-chave nesse núcleo emocional. Entendemos suas motivações e abraçamos o conto dessa vez muito melhor, já que a realidade das tragédias da vida real é um embrulho muito melhor do que a pura maldade em si.
 
-Porém, como eles próprios sabem, apesar de em vários momentos não admitirem, se a viagem no tempo é possível  -- e ela é -- paradoxos não são permitidos. O que significa que a velha questão se destino existe está respondida: sim! E não há nada que possam fazer a não ser acompanhar os acontecimentos e entregar para nós, espectadores, o prazer de um "trash" focado mais em ideias em vez de sangue. Mas, ainda assim, escorre muito sangue.
+Da mesma forma suas duas filhas, constituída pela bonitinha da casa e pela gordinha. Elas não são comparsas nas maldades com a meia-irmã, e frequentemente discordam das atitudes da mãe em relação à Cinderela.
 
-A melhor diversão da história é acompanhar duas repetitivas situações: as constantes "gafes" de roteiro e um vídeo capturado do futuro. Através das gafes acompanhamos a primeira decapitação intertemporal (no melhor estilo jogos de videogames em primeira pessoa) e pessoas falando o que está acontecendo ("ele está olhando para nós", "isso está acontecendo mesmo"). Através do vídeo do futuro acompanhamos o personagem da cadeira de rodas, que se diverte em ouvi-lo repetir as mesmas frases que ele ouviu de si mesmo. E o que dizer de uma câmera digital em que o vídeo vai sendo restaurado na ordem e de uma equipe de supostos gênios que em vez de tomar decisões racionais a respeito do que sabem sobre determinismo (ex: evitando a todo custo repetir o que aconteceu) preferem simplesmente entrar em pânico; o mesmo pânico que encontraremos uma hora depois. Gênios!
+E do lado da nobreza, nem precisava se esforçar muito. O casamento sem interesse já era algo inconcebível na época em que o filme se passa, e se torna emocionante esse embate moral, seja com os pais ou com o próprio príncipe.
 
-Mas estou estragando parte do prazer que é assistir a um filme desses, que é ir tentando desvendar a mente das pessoas envolvidas em uma aventura muito doida. E, depois de assistido, você ainda terá o prazer de debater horas a fio com seus amigos a respeito da impossibilidade de paradoxos em viagens no tempo. Portanto, recomende esse filme. Eu estou apenas passando adiante. Ainda não consegui viajar no futuro para ver o que vai acontecer com o passado.
+Filmado com calma, com uma trilha sonora serena e uma fotografia que transforma os poucos recursos da trama em castelos imortais e um baile rebuscado, Para Sempre Cinderela comprova que nem sempre recontar uma história é algo repetitivo ou enfadonho. É necessário uma nova época para enxergarmos os mesmos contos sob uma nova ótica.
 

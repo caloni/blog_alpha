@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2018-07-26'
-link: https://www.imdb.com/title/tt8725166
+date: '2018-01-30'
+link: https://www.imdb.com/title/tt5753856
 tags:
 - series
-title: Dark Tourism
+title: Dark
 ---
 
-Essa série que saiu na Netflix é uma boa série, porque ela contém todos os elementos que faltam hoje ao jornalismo pensante. Há obviamente um formato senso forçado, mas quando algo é bem feito, isso passa como diversão.
+Mais uma produção enlatada da Netflix, mas dessa vez as pessoas falam alemão. É um conto alemão, em uma cidadezinha no interior da Alemanha, com muitos jovens em um colégio e uma fotografia sombria. Um prefácio anuncia que acontecimentos fantásticos irão ocorrer (Stranger Things feelings). Esses acontecimentos irão mexer com nossa noção do tempo. E de fato mexem: ao final do primeiro episódio de 50 minutos a sensação é ter visto um filme de três horas onde nada acontece.
 
-Seu host é a figura de um americano caucasiano classe média turista padrão, cheio de receios e medo. A melhor parte de sua atuação são as perguntas medrosas com a reação silenciosa. A edição mantém um timing dinâmico, mas que sabe aproveitar esses momentos e ao mesmo tempo suas narrações, que sempre vão revelando o lugar inóspito que está sendo visitado com muita calma, sendo degustado a cada palavra.
+Dark é uma produção que tem por objetivo copiar alguns formatos já consagrados nas séries atuais de um mistério que será solucionado no final, e que depende de cliff hangers por todos os lados. A história é de uns garotos desaparecidos, um recentemente e o outro 30 anos atrás, e a série parece demorar esses mesmos 30 anos para finalmente mostrar um acontecimento fantástico: o garoto de 30 anos atrás parece ter viajado no tempo, para o futuro, justamente quando um outro garoto desaparece.
 
-Esta é uma série que preenche uma lacuna das séries de turismo: o dark tourism, feito por pessoas com um tédio acima do normal (geralmente a classe média sofre mais aventureira dos países de primeiro mundo). Afinal, quem se divertiria em um passeio em que você é tratado como um imigrante mexicano tentando atravessar a fronteira e não ser morto por bandidos e traficantes pelo caminho, ou sair do conforto do lar para sentir a tensão de um local com níveis de radiação muito acima do seguro?
+Temos nesse pacote um suicídio mal explicado com uma carta com instruções de leitura em data e hora exatas, um adultério, um trio amoroso entre os jovens e basicamente é só isso. Tudo está distribuído entre os personagens e nenhum deles parece minimamente interessante. Mas essa fotografia é sinistra, e essa trilha sonora consegue arrancar alguns arrepios. O problema é que ainda não sabemos por quê.
 
-Mas essa série também começa a responder uma questão instigante: esse turismo está se tornando popular porque algumas pessoas em algumas partes do mundo estão perdendo a noção de realidade, presas em seu confortável e previsível mundo?
+A estrutura do piloto de Dark nos demonstra que a série não tem a menor pressa em desenvolver sua história. Ela provavelmente irá nos enrolar por mais 10 horas e ainda não teremos muito o que contar. Claro, posso estar errado, mas a julgar pelo roteiro inicial, há poucos indícios de que algo muito relevante pode acontecer. Há falhas básicas no roteiro pra começar. Esta é uma cidade minúscula aparentemente, feita para manter uma usina nuclear. Mas há um hotel (em uma cidade com usina nuclear) cuja função é ser turístico. E ele está vazio teoricamente porque há 14 dias um garoto desapareceu. Todos aqueles turistas que planejaram suas férias ficaram sabendo do garoto e cancelaram suas reservas.
 
-Uma questão interessante de ser respondida com passeios como os feitos pelo host, David Farrier. E apresentados por ele.
+Além disso, a trama envolvendo a família pricipal não convence. Há um suicídio e uma relação extra-conjugal da viúva e a mãe (é isso mesmo?) que foi expulsa da família e detém uma carta do filho que ela abre religiosamente conforme pedido no envelope. Nenhum desses elementos chama a atenção porque não há nada que nos leve a pensar nessas pessoas. Elas ainda são descartáveis, e os acontecimentos são esquecíveis.
+
+Dark não se esforça nenhum momento em ganhar a atenção do seu espectador, exceto pela ótima fotografia e uma trilha sonora de arrepiar. Mas eu já comentei isso pela terceira vez. Teremos alguma coisa a mais para contar no futuro ou no passado?
 

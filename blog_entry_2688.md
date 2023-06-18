@@ -1,24 +1,21 @@
 ---
 categories:
 - writting
-date: '2012-03-06'
-link: https://www.imdb.com/title/tt1210166
+date: '2018-10-26'
+link: https://www.imdb.com/title/tt1318517
 tags:
+- cinemaqui
 - movies
-title: O Homem Que Mudou o Jogo
+title: O Homem Que Matou Dom Quixote
 ---
 
-Brad Pitt é um ator com um controle de personagem invejável. Podemos acompanhar sua trajetória em papéis mais exóticos como o do vampiro Louis (Entrevista com o Vampiro), do maníaco Jeffrey Goines (Os 12 Macacos), do inconsequente Tyler Durden (Clube da Luta) e do cômico Tenente Aldo Raine (Bastardos Inglórios) e compararmos com papéis mais contidos ou dramáticos como o pai de família em [A Árvore da Vida], o detetive David Mills em Seven e o gerente de um time de beisebol Billy Beane, papel que desempenha em O Homem que Mudou o Jogo que faz ficarmos em dúvida se existem dois, três ou mais clones do ator escondidos e revelados em momentos pontuais de sua carreira.
+O Homem que Matou Dom Quixote é péssima escolha de papel para Adam Drive, que não funciona na comédia física. Porém, pior ainda é a história sem pé nem cabeça do filme, que tenta achar sua desculpa através do espírito da obra-prima de Miguel de Cervantes. O resultado sai pior que o imaginado porque não esperamos que os ideais mais nobres do livro sejam usados como muleta narrativa. Ninguém iria tão baixo. Mas é exatamente o que esse filme faz.
 
-A história é baseada em um livro que por sua vez é baseada em fatos reais ocorridos com o gerente geral do time de beisebol Billy Beane do Oakland Athletics. Com o roteiro assinado (depois de vários conflitos com a produtora Sony) pelos ótimos Steven Zaillian (Os Homens que Não Amavam as Mulheres versão 2011) e Aaron Sorkin (A Rede Social), a direção documental de Bennett Miller, que usa com o diretor de fotografia Wally Pfister uma granulação maior justamente para ampliar a temática para a vida real, acerta em manter os atores parados e dialogando a maior parte do tempo, dando ênfase em suas performances e facilitando nossa identificação com a história e os personagens. Porém, acerta mais uma vez em determinados momentos se deixar levar por uma abordagem mais poética, mas que exatamente por refletir a realidade já mostrada se torna tão mais forte e tão mais presente em nossas mentes.
+A história gira em torno de... bom, isso você vai ter que descobrir. Começa com um diretor de publicidade excêntrico (?) que está filmando um comercial que utiliza o famoso clichê de Dom Quixote, seu fiel escudeiro Sancho Pança e os moinhos de vento que são confundidos por gigantes. A partir da busca por inspiração (??) o diretor reencontra seu antigo trabalho de faculdade que também era sobre Dom Quixote. Filmando próximo da locação onde encontrou seu Quixote perfeito para as filmagens (além da donzela perfeita) ele passa a viver desventuras com seu antigo ator, agora alucinando, mais todos os envolvidos diretamente com seu destino pouco menor que seus sonhos.
 
-Ainda sobre o tom documental, os sons fazem parte da receita usada por Miller, além de possuírem a dupla função de identificar quando Billy Beane está acompanhando os jogos e quanto não está, como na belíssima introdução de seu personagem em um estádio vazio e escuro, no momento em que ele decide se deixa o rádio ligado ou não, ou mesmo quando em determinado momento ele retorna para o estádio onde ocorre um jogo determinante para sua equipe e pode-se ouvir a diferença de energia pelo som dos torcedores em volta em contrastre com seus momentos de solidão.
+Tudo não passa de uma farsa, e desde o começo o espectador pode perceber. A cidade para onde ele vai reencontrar seu antigo cast se chama Sueños (sonhos em espanhol), além de que a situação para o diretor vai ficando cada vez mais estranha, com direito a participações cada vez maiores e grandiosas do resto do elenco, em um emaranhado que só uma direção de arte em pleno vapor para produzir.
 
-E se o filme pode soar parado e monótono, de uma forma geral existe muito mais por trás dos belos diálogos de Zaillian e Sorkin e dos comportamentos de seus personagens do que a princípio possa parecer. Podemos dizer que o filme em si começa e termina como uma fábula do beisebol, mas que internamente, nas entrelinhas, se transforma em algo mais, a ponto de representar uma lição ou filosofia de vida, como um inspirado discurso sobre o que ocorre com as pessoas que ousam mudar qualquer sistema e o que ocorre em seguida com os que evitam mudar.
+O problema é que tudo isso está sendo comentado por uma trilha sonora enfadonha e que ao mesmo tempo nos entrega uma grandiosidade que sabemos que não existe. O sujeito está se dando conta de seus próprios delírios, mas Adam Drive, como comentei, não está seguindo a essência de um papel quixotesco, estando mais para um coadjuvante espectador. Isso gera uma perda de identidade do público, que não tem muita certeza de quem é o herói aqui, já que o diretor é cínico e antipático, apesar de atrair praticamente todas as mulheres do longa.
 
-Mais interessante é notar que na dinâmica da história, mesmo com toda a importância de Billy Beane para o êxito de sua controversa equipe ele não é a estrela absoluta da história. Conta com a ajuda de Peter Brand (Jonah Hill), um economista brilhante que não se curva perante décadas de experiência e intuição esportiva, apesar de timidamente expor seus pontos de vista. É nessa dicotomia entre a especulação de jogadores virtuosa de Billy e a energia interna da convicção inabalável da ideia radical de Peter que conseguimos sentir as estruturas dos estádios seculares e dos treinadores inflexíveis sendo postas em cheque, ainda que lentamente e sem muita fé.
-
-Aliás, fé, razão e intuição são conceitos colocados na mesa a todo momento, e mesmo nós, que assistimos de fora, ficamos com dúvidas durante todo o trajeto. Muitos sairão da sala de exibição convictos que sorte ou talento fazem toda a diferença do mundo, e outros sairão deixando essa convicção na poltrona. De uma forma ou de outra, não dá pra negar que a figura do eterno perdedor não está nas derrotas, mas no pensamento que o define. E uma vez que a pessoa se define perdedora, não há vitórias suficientes que a faça mudar de ideia.
-
-[A Árvore da Vida]: {{< relref "a-arvore-da-vida" >}}
+Essa é a bola fora mais fora da carreira do diretor ex-Monty Python Terry Gilliam, que exibe no início dos créditos o projeto que foi construído e... desconstruído em 25 anos. Bom, há algo que dizem de projetos intermináveis que são revistos de tempos em tempos: é provável que ele fosse melhor dentro de uma gaveta para sempre.
 

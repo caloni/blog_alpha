@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2016-11-17'
-link: https://www.imdb.com/title/tt0120631
+date: '2012-07-03'
+link: https://www.imdb.com/title/tt1859650
 tags:
 - movies
-title: Para Sempre Cinderela
+title: Para Roma com Amor
 ---
 
-Esta revisita nos anos 90 ao conto dos irmãos Grimm usa os próprios documentaristas dessa fábula folclórica para dar um laço mais realista à história imortalizada por Disney. Usa atores competentes em situações interessantes -- o que Morgana faz como a madrasta? -- e ao mesmo tempo decide formatar seu núcleo em um romance convencional, de época e água com açúcar. Mas, ainda assim, apaixonante.
+Quais diretores você conhece que conseguem fazer o velho clichê da "pessoa engasgando com o copo na mão ao ver cena inusitada" funcionar novamente? Eu conheço um: Woody Allen.
 
-Temos como Cinderela Drew Barrymore, a queridinha da época e uma das panteras. O príncipe é Dougray Scott, que harmoniza ingenuidade e pomposidade de um sangue azul. Seus pais não querem que ele se case com uma plebeia, que se torna órfã a partir do momento que é entregue aos cuidados de sua inconsolável madrasta, Rodmilla (Huston). Há um quê histórico nessa nova versão que quer dar motivos para a aparente irracional maldade de Rodmilla, e é Anjelica Huston que consegue ser a peça-chave nesse núcleo emocional. Entendemos suas motivações e abraçamos o conto dessa vez muito melhor, já que a realidade das tragédias da vida real é um embrulho muito melhor do que a pura maldade em si.
+Cada vez mais se reinventando em seus últimos filmes, apesar de incluir quase sempre seus temas favoritos, como a angústia da terceira idade e adultérios, Allen investe aqui em uma comédia tradicional dividida em diferentes começos de histórias que, diferente do usual hoje em dia, praticamente não se encontram: os pais que visitam a filha para conhecer a família de seu namorado, o jovem e ingênuo casal italiano em busca de uma vida melhor na capital, o batidíssimo triângulo amoroso encabeçado por uma femme fatale e, como não poderia deixar de ser, a vida típica e pacata de um cidadão italiano.
 
-Da mesma forma suas duas filhas, constituída pela bonitinha da casa e pela gordinha. Elas não são comparsas nas maldades com a meia-irmã, e frequentemente discordam das atitudes da mãe em relação à Cinderela.
+Como eu disse, são apenas começos de histórias. O que acontece a partir daí, embora não seja lá muito criativo, diverte e entretem ao mesmo tempo em que aborda temas contemporâneos: a fama como um fim em si mesma, a pureza desmascarada dadas as condições propícias, o conhecimento raso de aparências e a ópera como algo menos absurdo do que a própria vida.
 
-E do lado da nobreza, nem precisava se esforçar muito. O casamento sem interesse já era algo inconcebível na época em que o filme se passa, e se torna emocionante esse embate moral, seja com os pais ou com o próprio príncipe.
+Vivendo em um mundo onde os filmes fazem graça de si mesmos e as animações reciclam piadas ad infinitum, Allen consegue mais uma vez ressucitar o humor inteligente, que não apenas gera o riso, mas que embute nele uma crítica aguçada da sociedade de nossa época. O fato dessa crítica estar escancarada em diálogos e imagens apenas faz aumentar a comicidade de seus personagens, que são unidimensionais, mas que nem por isso impedem que nos identifiquemos com cada situação.
 
-Filmado com calma, com uma trilha sonora serena e uma fotografia que transforma os poucos recursos da trama em castelos imortais e um baile rebuscado, Para Sempre Cinderela comprova que nem sempre recontar uma história é algo repetitivo ou enfadonho. É necessário uma nova época para enxergarmos os mesmos contos sob uma nova ótica.
+Suportado por um elenco não apenas de peso, mas que fazem a combinação perfeita para suas caricaturas, a única decepção é vermos apenas uma fração de cada história em um determinado momento. Dessa forma é um sentimento cíclico a decepção pela troca de personagens e a empolgação pelo enriquecimento da história atual.
+
+Felizmente, Allen consegue fechar com chave de ouro cada uma das situações, deixando apenas uma situação de quero mais. Não me cansaria de assistir por duas horas novamente acontecimentos nA Cidade Eterna.
 

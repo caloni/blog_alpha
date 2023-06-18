@@ -1,12 +1,20 @@
 ---
 categories:
 - writting
-date: '2020-01-21'
-link: https://www.imdb.com/title/tt0235060
+date: '2020-04-28'
+link: https://www.imdb.com/title/tt0379199
 tags:
 - movies
-title: O Caminho Para Casa
+title: O Caminho das Nuvens
 ---
 
-Este é um filme de um momento só. Um professor de um vilarejo na China morre e sua esposa insiste em realizar um antigo ritual onde o corpo é levado de volta para sua terra envolto em um xale feito à mão. A música é bonita e usada à exaustão conforme acompanhamos a narração do filho do casal de como eles se conheceram, ou melhor, de como eles lutaram para ficar juntos desde o primeiro momento que se viram. É um apelo ao tradicionalismo, usa p&b no presente e colorido no passado, mas mais chato que os próprios tradicionalistas. Sua mensagem está formatada desde o começo e apenas nos resta ver o jeito engraçado que a esposa ainda novinha andava pelo vilarejo, desesperada para conseguir um homem professor que nunca conhecemos de fato, pois ele é um símbolo, de algo que valia mais do que vale hoje: tradição.
+Você sabe sobre o que é essa história? Se souber me avise. Avise o diretor, também. No começo se diz que é baseado em fatos reais. Ele conta a história de uma família que viaja de bicicleta pelo país inteiro porque o marido quer um emprego de mil reais. A direção é de um vídeo-clipe que marca a virada do século. É um road movie com pontos turísticos religiosos que se escondem porque a mensagem é muito vaga sobre o que isso significa.
+
+Cláudia Abreu rouba o filme toda vez que a câmera enfoca seu rosto, e Wagner Moura apagado ofusca participação do ator que faz filho mais velho, que acaba se tornando parte da história, que fala sobre amadurecimento, puberdade, se tornar homem. O fato é que o filme não tem ideia do foco e acaba querendo falar de muitas coisas. Agrada sem causar impacto. Este filme é uma homenagem ao cantor Roberto Carlos e possui muitas canções do rei, e por isso não se pode esperar nada provocativo.
+
+A constante é a religião e a puberdade do garoto, que precisa de uma menina urgente, mas que apesar de chamar atenção não consegue se aproximar de nenhuma. Esta segue buscando a aprovação do pai, e se esforça por merecer respeito tentando fumar, único sinal da virilidade de quem o pôs na vida.
+
+É curioso como o primogênito ser inapto para a vida social faz lembrar [Capitão Fantástico], onde o pai torna seus filhos aptos para viver como ermitões e incapazes de abraçar o caos das relações humanas. A certeza dos pais desses dois filmes é a causa do fracasso de seus filhos na vida. Um defende a convicção católica; o outro, a convicção materialista dialética. Cada um com sua religião sem saber o que fazer com cada uma delas, exceto evitar dar respostas ou regras à sua prole. O fracasso acaba sendo o da vida moderna.
+
+[Capitão Fantástico]: {{< relref "capitao-fantastico" >}}
 

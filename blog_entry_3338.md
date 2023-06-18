@@ -1,12 +1,12 @@
 ---
 categories:
 - writting
-date: '2021-04-04'
-link: https://www.imdb.com/title/tt3612626
+date: '2014-02-22'
+link: https://www.imdb.com/title/tt1212452
 tags:
-- animes
-title: Saekano How to Raise a Boring Girlfrield (Saenai heroine no sodatekata)
+- series
+title: Saco de Ossos
 ---
 
-Juntaram memórias afetivas e de uma equipe de criação de um jogo erótico em um anime, e os closes sensuais junto dos diálogos atravessados de personagens que nunca foram apresentados é um caos chato de acompanhar.  Não há substância que junte essas cenas em um subtexto, uma trama, qualquer coisa.
+O que impressiona nessa nova produção baseada em uma obra de Stephen King nem é a história, que segue mais ou menos os mesmos moldes da sua cinematografia que busca o grotesco e o fantasioso, exagerado e estilizado, mas o trabalho de som, a trilha e a direção de arte que, aliados a enquadramentos ousados, revelam os sonhos do protagonista como fazendo parte de sua realidade (como os imensos quadros pendurados). Infelizmente decidiram transformar em uma série com dois episódios que somados são um filme de 3 horas, quando imagino que se fossem cortadas algumas situações e personagens que em nada acrescentam à história (como a velha maluca), o resultado final poderia ser menos expositivo. Do jeito que está, a série grita para o espectador: "olhem para mim! sou uma obra do Stephen King!".
 

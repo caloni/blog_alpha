@@ -1,27 +1,22 @@
 ---
-categories: []
-date: '2016-08-16'
-tags: null
-title: 'Electrum: uma opção simples e rápida de manter bitcoins seguros'
+categories:
+- writting
+date: '2016-04-16'
+link: https://www.imdb.com/title/tt4176826
+tags:
+- movies
+title: Ele Está de Volta
 ---
 
-Estava já há algum tempo pesquisando as melhores ferramentas para organizar carteiras bitcoin. E quando se fala em ter seus próprios bitcoins, a segurança deve ser prioridade número zero. Isso porque, diferente de bancos, quando você se dispõe a gerenciar seu próprio cofre, é você, e apenas você, o único responsável pela sua integridade.
+Um filme que corre o risco de ser apenas alemão. Falado em alemão, dirigido na Alemanha (Berlim) e com uma figura "popular" cujo significado de "diabólico" se tornou universal, mas só o povo que o gerou, décadas depois de doutrinação em escola pública, "conhece" de fato, Ele Está de Volta tenta ser uma comédia com fundo de moral, utilizando Adolf Hitler como um mero joguete, além de um fiapo de roteiro que utiliza a voz da televisão (e da internet) como o novo arsenal político. Um filme feito pela esquerda para a esquerda, que acredita piamente que o nazismo é de extrema direita e que só o lado direito está recheado de agressão e perversão.
 
-Isso quer dizer que apenas uma senha protegendo sua chave privada talvez não seja necessário. Algum hacker ou programa malicioso instalado na sua máquina (como um keylogger) pode facilmente obter essa informação.
+E, é claro, é um filme para defender os pobres imigrantes.
 
-E, sim, é preciso pensar que pode haver um keylogger em cada teclado que você for usar para digitar sua bendita senha. Por isso ter uma senha segura, no caso de bitcoins, não funciona muito bem.
+Dirigido por David Wnendt ("Zonas Úmidas"), que co-roteiriza com nada menos que cinco pessoas, a história começa quando Hitler acorda de um sono profundo em 2014, bem no local onde foi seu bunker dos dias finais da Segunda Guerra. Aos poucos se adaptando à realidade de uma nova era (embora não pareça se importar com muitas das diferenças, nem com ter viajado no tempo de maneira assombrosa), Hitler (Oliver Masucci) encontra suporte em Fabian (Fabian Busch), um cineasta/video-amador fracassado que tem um bom coração, é tímido e mora com a mãe. Realizando uma viagem com Hitler para... bem... uma campanha? Os dois passam por alguns momentos engraçadinhos que seriam engraçadinhos com qualquer figura pública, não particularmente Hitler. É que a figura do ditador (eleito democraticamente) é fascinante demais para o povo alemão, cercado de tantas proibições (inclusive seu livro autobiográfico) que dá a sensação de ser algo além do que um baixinho que representava a opinião de milhões de alemães àquela época.
 
-Além disso, há também a segurança dos próprios dados. Não de serem roubados, mas perdidos. Nesse caso, uma estratégia muito interessante, por acrescentar entropia e comodidade, são as carteiras determinísticas. Elas se baseiam em um grupo de palavras que são usadas para gerar o par de chaves pública e privada e derivar as próximas chaves de sua carteira. Com isso, basta guardar (em papel, no seu cérebro, mas nunca em software!) essas palavras que você poderá resgatar sua carteira, reproduzindo o algoritmo de derivação.
+E que pode estar representando agora. Tentando unir as recentes ideias extremistas da Europa frente à crise financeira e à vinda massiva de imigrantes, que se aproveita das benesses de um governo socialista -- com prazo de validade vencido -- Hitler acaba sendo um pop star na televisão, na internet e nos jornais. Como que um efeito mola, o que era inadmissível se torna novamente a voz do povo. Em torno disso há uma história bobinha envolvendo uma guerra de diretores da emissora (chamada MyTV... OMG) e um romance batidíssimo entre o Fabian e a recepcionista.
 
-Outro ponto importante, para os mais paranóicos, é conseguir gerenciar carteiras "frias", que são carteiras que não podem ser usadas para gastar, apenas para receber. Funciona assim: você gera o seu endereço público para a transação, onde as pessoas podem depositar seus bitcoins, mas a chave privada, necessária para enviar bitcoins dessa carteira, é removida ou não está disponível. Dessa forma, ela vira uma carteira "watch-only", em que o portador só consegue verificar o saldo e as transações, mas não realizar uma (a não ser que ele assine a transação em outro computador com a chave privada, ou resgate a chave privada de algum lugar, que seria o lugar "quente").
+O pior no filme não é sua ideia principal, que de certa forma, é válida e interessante. Porém, muito mal executada. Não há muita inspiração nos "novos" discursos do baixinho, que era conhecido por eles, e o efeito que ele gera na plateia, desproporcional. Dirigido como se fosse um pseudo-documentário, não consegue, como muitos pseudo-documentários, seguir à risca as regras do jogo, revelando seu amadorismo em tomadas impossíveis, como o ponto de vista de um cachorro que é morto pelo alemão.
 
-Esse cold storage de carteiras, como é chamado, só é possível de duas maneiras: sendo você próprio um servidor da blockchain ou utilizando a infraestrutura da nuvem para validar as transações. A primeira forma é muito custosa, pois a blockchain cresce a olhos vistos, e demora hoje alguns dias para resgatar toda ela desde 2009. A segunda opção é mais rápida, mas depende da integridade dos servidores, libera mais informações sobre as transações do que devia, além de ser lento.
-
-Dentro dessa segunda opção, porém, existe uma maneira rápida de verificar a transação sem comprometer seus dados, enviando coisas a mais para o servidor que irá validá-lo. Se chama Simple Payment Verification, e já estava prevista no paper original de Satoshi. Ela se baseia apenas em uma árvore de hashes montada justamente para compor a blockchain. Gerenciar essa informação economiza muito mais tempo e processamento, além de liberar apenas a informação essencial para os servidores validarem.
-
-Todos esses elementos estão juntos no Electrum, uma ferramenta feita em Python que possui uma versão monolítica (um exe apenas) para Windows e que mantém as carteiras em texto plano em sua máquina. Sim, não há criptografia desnecessária. Afinal de contas, só a chave privada é que precisa ser protegida, e ela é aberta apenas durante a assinatura de uma transação, tornando todo o processo muito rápido.
-
-Em sua página é possível tirar todas as dúvidas de como fazer uma carteira offline (fria), como apenas assinar transações, como gerenciar as carteiras, em que arquivo elas ficam, o que comem, etc. Estou usando e estou muito feliz, pois é o primeiro software que gerencia bitcoins que consegue a proeza de ser simples de usar, flexível e rápido.
-
-Ah, e ainda possui um console em Python, para rodar seus programas =)
+Há momentos engraçadinhos, momentos WTF e momentos pseudo-solenes que tentam emplacar um drama. Nenhum deles funciona muito bem, e juntos causam desperdício de tempo e esforço. Hitler original, o original mesmo, deveria ter sido um pouco mais interessante para conseguir milhões de seguidores. E não estou falando do Twitter.
 

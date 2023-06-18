@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-12-30'
+date: '2022-07-12T20:47:02-03:00'
 tags:
 - wine
-title: Vinhos de Napa Valley
+title: Vinho romeno
 ---
 
-Algumas observações sobre os vinhos em Napa Valley. Uva da Argentina produzida no Chile em formato americano é prova da globalização do local (um ótimo custo/benefício, btw). 36 meses em Napa Valley é um valor comum de reserva na barrica (e o gosto não melhora muito). Inglenook ou a vinícola do Copolla é estilosa, quase brega, mas ainda pra quem curte cinema é o Ó. Os vinhos italiano da uva Primitivo são renomeados nos EUA como Zinfandel (não sei bem pq). Napa importando vinhos australianos que usam uvas de outros lugares do mundo é mais uma prova da globalização. PS: A foto do vinho moneda é uma homenagem ao meu amigo @drmadera.
+Ok, ele é romeno. Fora isso, lembra vinho de mercado, daqueles de trintão. Mas quem pagou caro por ele talvez traga mais características ocultas pelo sabor azedo e tânico conhecido de quem curte aquele vinhozinho sem frescura.
 

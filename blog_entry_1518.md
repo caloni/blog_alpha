@@ -1,11 +1,20 @@
 ---
 categories:
 - writting
-date: '2023-01-16T22:51:49-03:00'
+date: '2019-10-21'
+link: https://www.imdb.com/title/tt9041234
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Eu Sou Juani
+title: Eu Prometo Ser Sensato
 ---
 
-Sim, ela é. E ela quer ser atriz. Mas antes disso tem muita pegação com o namorado dela e muitos carros customizados. Este é uma cria dos filmes do início dos anos 2000, da terra do pessoal que amava edição pesada estilo videoclipe e músicas idem. Não que isso seja ruim. O diretor David Fincher veio do videoclipe. O diretor Michael Bay também. OK, talvez isso seja ruim às vezes. Não que eu desgoste de A Rocha, por exemplo, filmão com Sean Connery e Nicolas Cage. Eu Sou Juani é um filme espanhol que veio inspirado no ritmo frenético dessa época. Você deve se lembrar dessa febre após Matrix, o divisor de décadas no cinema de ação. Tanto que este nem é um filme de ação e empresta a mesma vibe. Há uns momentos do filme que desconfio que são clipes, mesmo. Tem uma hora que toca uma música na rua e a câmera corta para uma minazinha cantando e olhando para a câmera. A história inteira é essa Juani tentando ser atriz. Vai pra Madrid depois que o namorado a trai. Ela não aguenta a pressão de ser assediada. Volta pra casa por causa do pai doente. Resolve assuntos não terminados com o namorado. Volta para Madrid. E o filme termina. Gostou?
+No começo de Eu Prometo Ser Sensato testemunhamos o último desastre de Franck, um diretor de teatro completamente fora de controle. Não é uma situação engraçada, mas trágica, para o elenco, o público e ele mesmo. E este ironicamente é o resumo do filme inteiro de Ronan Le Page: sem sentido, sem paixão e sem controle. Não há nada neste filme que você irá sentir falta quando ele acabar.
+
+A história é sobre o que Franck faz depois do desastre inicial que vemos. Interpretado de maneira tresloucada e automática por Pio Marmaï, do muito melhor Beijei uma Garota. E ele arruma um emprego temporário como assistente de museu. Acompanhamos sua tentativa de se adaptar e no meio dela descobrirmos que ele é um personagem completamente desbaratinado, um enigma. Simplesmente não dá para entendê-lo, e isso nem é por ser francês. Encontrando outra louca, interpretada por Léa Drucker e que cria uma personagem muito mais interessante apenas com trejeitos e expressões (vamos esquecer os diálogos), o circo da comédia francesa está formado.
+
+Essa é a história dos que não se adaptam, dos fora do sistema. Incapazes de manter um emprego estável, essa turma vive de galho em galho. E isso não teria nada de errado, muito pelo contrário, se seus personagens fossem minimamente interessantes. Mas não são. Apelando para estereótipos fáceis, como a garota que usa misticismo como resposta para tudo, ou sequer caricaturas, como os dois personagens principais, "Eu Prometo" é o que existe de pior na comédia francesa na última década: comercialmente preparada para uma turnê mundial, mas incapaz de entender o próprio cosmos onde foi criada.
+
+O fiapo de trama do filme relaciona antiguidades não-catalogadas de um museu, farmacêuticos tarados por relíquias de sua profissão (e com dinheiro para pagar por eles, o mais absurdo), uma personagem com dislexia leve e que é tratada como uma maluca e muitas piadas que não funcionam. Você já sabe onde e quando o filme vai acabar lá pela metade. Depois disso poderá deixar a sessão sem peso na consciência. Se não houve nada para rir até o momento, vai ficar ainda pior.
 

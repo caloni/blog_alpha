@@ -1,21 +1,42 @@
 ---
 categories:
-- writting
-date: '2019-03-20'
-link: https://www.imdb.com/title/tt6690176
+- playing
+date: '2022-06-19T21:47:14-03:00'
+link: https://www.chess.com/game/live/49423127947
 tags:
-- cinemaqui
-- movies
-title: Quando Margot Encontra Margot
+- chess
+title: Dois peões ganham de um se há torres no tabuleiro?
 ---
 
-O que você faria se encontrasse sua versão do futuro, teoricamente mais velha e mais sábia, e ela começasse a lhe dar conselhos sobre o que fazer para acertar dessa vez na vida? Quando Margot Encontra Margot é um filme que explora essas possibilidades imaginárias sobre o nosso ser, mas se no começo abre-se um leque de para onde a história pode ir ela aos poucos vai se fechando em torno de algo mais enxuto que volta para o lugar-comum dos romances franceses.
+{{< image src="board.jpeg" >}}
 
-Esse lugar-comum diz respeito ao que uma mulher deve fazer para ser feliz. A jovem Margot (Agathe Bonitzer) está pulando de cama em cama, fazendo sexo casual com quem quer que encontre e ache bonitinho, ao mesmo tempo que desistindo de seu mestrado e de sua vida em Paris. Tudo muda quando ela encontra, vamos chamar, a madura Margot (Sandrine Kiberlain), que acaba de voltar do enterro da melhor amiga. Ela perdeu contato em algum lugar no passado e imaginamos que se arrependa, mas ela é uma pessoa, jovem ou velha, desajeitada demais para conseguir explicar seus sentimentos até para si mesma.
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.06.20"]
+[White "cavaloni"]
+[Black "daycri83"]
 
-A premissa do filme de Sophie Fillières (que dirige e escreve) não é nova, mas é colocada de maneira tão natural e bem-humorada que não importa muito. Sua Margot é uma versão reduzida de ser humano, cujas características são deduzidas por suas ações. O cinema francês tem muito disso.
-
-A narrativa é interessante apenas por essa premissa, o que gera uma ou duas piadas (há uma envolvendo Aurélie Dupont, que faz ela mesma, mas é mal explorada), e o interesse do espectador em saber como o filme acaba consegue arrastar a história sem problemas. Até o momento em que há um acidente na neve e o que se passa depois é tão sem sal que acaba diminuindo a empolgação do filme, e mesmo que depois se perceba por que e seja por um bom motivo, não valeu a pena. É uma forma preguiçosa de resolver os conflitos que o roteiro criou.
-
-O personagem de Melvil Poupaud, o trivial Marc, é o ponto de encontro das duas em um momento decisivo de suas vidas. Marc é um símbolo de uma escolha que não foi feita e que, assim como abandono da melhor amiga, acompanha Margot pela sua vida. Mas Marc não é um homem especial para elas assim como qualquer outro; o que importa mesmo é o que Margot deseja para sua vida. E essa questão vai sendo costurada com fios soltos demais para alguém que já sabe mais do seu futuro que qualquer pessoa jamais sonharia.
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 Nc6 {Essa é uma boa defesa
+contra o Gambito Tennison, pois protege a Dama contra a armadilha do xeque
+descoberto do bispo.} 6. O-O h6 7. Nf3 e5 8. Re1 Bd6 9. Nc3 Bg4 10. h3 Bh5 11.
+Ne4 Nd4 12. Nxf6+ Qxf6 13. Be4 O-O-O 14. Qd3 Bc5 ({Aparentemente essa linha
+deixaria as negras ganhas porque minha torre não consegue se mexer.} 14... Bb4
+{-4.43} 15. Qe3 {-4.24} 15... Bxe1 {-4.47}) 15. Nxe5 {Pus tudo a perder
+novamente contando com o xeque descoberto em cima da Dama (mais uma vez) não
+vendo que isso deixava a minha Dama desprotegida contra o xeque descoberto do
+adversário.} 15... Nf3+ 16. Qxf3 Bxf3 17. Nxf3 Rhe8 18. Bxb7+ Kxb7 19. Bd2 Qxb2
+{E de repente eis que meu adversário entrega sua Dama também, em troca de uma
+Torre.} 20. Reb1 Qxb1+ 21. Rxb1+ Ka8 22. Bf4 Re2 23. Bg3 Rxc2 24. a4 g5 25. Rf1
+Rdd2 {Agora ele entrega outra Torre, facilitando para mim.} 26. Nxd2 Rxd2 27.
+Bxc7 Ra2 28. a5 Kb7 29. Bd8 Bd6 30. g4 Bc7 31. Rb1+ Kc8 32. Bxc7 Kxc7 33. Rb5
+Kc6 34. Rf5 a6 {Agora era a hora de trazer o Rei e não ficar brincando de dar
+xeque com a Torre.} 35. Rf6+ Kb5 36. Rf5+ Kc6 37. Kg2 Rb2 38. Rxf7 Rb5 39. Rf6+
+Kb7 40. Rxh6 Rxa5 41. h4 gxh4 42. Rxh4 Rb5 43. f4 a5 44. g5 Kc8 45. g6 Rb8 46.
+g7 Kd7 {Th8 já liquida a partida; mas não, vamos deixar mais emocionante.} 47.
+f5 Ke7 48. Rf4 Kf7 49. f6 Ra8 50. Kg3 a4 51. Rh4 {Toda a questão em torno dessa
+final era impedir a promoção do adversário usando a Torre e levar meu Rei para
+apoiar a promoção de algum dos peões. Agora pensando em retrospecto faz todo
+sentido.} 51... a3 52. Rh8 Rg8 53. Rh2 Ra8 54. Rh8 Rg8 55. Rh2 Ra8 1/2-1/2
+```
 

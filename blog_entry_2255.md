@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2016-02-19'
-link: https://www.imdb.com/title/tt0060675
+date: '2018-12-11'
+link: https://www.imdb.com/title/tt0058331
 tags:
 - movies
-title: Masculino-Feminino
+title: Mary Poppins
 ---
 
-Jean-Luc Godard, em plena década de 60, em um filme aparentemente biográfico, que funciona leve, sem lógica, mas com acontecimentos que não fogem da realidade, mas entram em nossa estranheza do incompreendido, das coincidências exóticas. Mas é uma época pulsante, com questões juvenis incompreendidas. Godard tinha minha idade quando o fez (36), e ele discute muito sobre o homem, a mulher, e os dois juntos.
+Mary Poppins é um musical adorável que foi crescendo como um segundo clássico após Noviça Rebelde, ambos trabalhos fenomenais de Julie Andrews como a queridinha que canta e dança. Aqui sua persona é mais rígida, e tem tudo a ver com a história.
 
-Há a bela Madeleine (Chantal Goya), entre outras, que o filme insiste em mostrar em planos-detalhe em meio a mesas nas esquisas dos cafés da França, barulhos de rua, pessoas indo e vindo. Sua relação com Paul (Jean-Pierre Léaud) é platônica, mas é motivo suficiente para que isso gere ciúmes de outras mulheres. Ao mesmo tempo temos jovens igualmente interessados em Madeleine. Paul é o principal, e a morte ronda ele. Ah, como ronda!
+Estamos na Inglaterra dos anos 10. O patriarcado, simbolizado pelo chefe da família Banks (David Tomlinson) tenta controlar a família como um banco: rigidez, mas a distância. Um problema clássico que é eternizado neste trabalho com direção de arte, fotografia e figurino impecáveis. Quando surge a nova babá, vinda das nuvens e de um pedido honesto e das próprias crianças, tudo se conecta: chaminés, vizinhos ex-marinheiros, homens de uma banda só, fantasia e realidade trabalhando em função do tema: como manter o frescor da infância apesar dos adultos por perto?
 
-Porém, não há história que abrace o que está sendo dito. Talvez experimental seja uma palavra mais adequada para extrair o gênero que Masculino-Feminino, usando seus sub-títulos, suas construções sonoras, seus diálogos inusitados e sem sentido. É um filme-poesia, que pode encantar quem procura algo diferente do normal (mesmo hoje) ou aborrecer quem não entende nada do que acontece. E isso tende a piorar.
+A direção encomendada de Robert Stevenson estabelece o clima fantasioso desde o começo, nos créditos iniciais. Mary Poppins repousa em uma nuvem, com seu guarda-chuva e sua maleta onde tudo cabe. A partir daí há momentos sóbrios e malucos sendo alternados para sempre manter esses dois lados em relevância. Mas como esta é uma produção Disney a fantasia sempre prevalece.
 
-Com uma linda fotografia P&B que serve quase como um documentário da época, a Guerra do Vietnã é o foco, e com isso o roteiro (do próprio Godard baseado em histórias de Guy de Maupassant) aproveita e questiona, ou melhor dizendo, joga questões não-respondidas, sobre política. Ele está conversando com o espectador, mas usa seus personagens todo o tempo. Ele não precisa de uma narrativa para mostrá-las, pois apenas a curiosidade em torno dos jovens é suficiente.
+Prevalece principalmente no grande projeto de Disney: uma sequência onde atores e desenho se misturam. Um encanto até hoje. Envelheceu muito bem e é o ponto alto do longa, infelizmente logo no seu começo. Mas fica perene na memória até o seu final. Deve ter sido um processo caro, pois só o vemos naquele momento. O resto são cenários, música e dança. Todos coreografados de acordo com animações clássicas e filmes infantis de primeira.
 
-Talvez o único defeito grande do filme é ficar sem moral, ou um fechamento chamativo. No entanto, está tudo lá, espalhado no meio da "história". Se fala de prostitutas como se fala de romance, ou de gravidez como se fala de pessoas morrendo na Índia. É uma coletânea de fatos e ficção entrelaçados em torno de nada. Se não há moral nesse experimento, não há como criticar ou julgar seus personagens e seu idealizador. Uma solução covarde ou uma plataforma de testes. Ainda assim, fascinante.
+Esta é uma produção cara e rebuscada no sentido estético e musical, e por isso sobrevive até hoje. Ganhou uma continuação e que serve para reavivar nossa memória para esses filmes que populam o imaginário infantil e adulto e de vez em quando é revisitado.
 

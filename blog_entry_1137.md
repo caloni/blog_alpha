@@ -1,15 +1,43 @@
 ---
-categories: []
-date: '2016-03-01'
-tags: null
-title: Crash no Windows Explorer
+categories:
+- reading
+- coding
+date: '2008-04-17'
+tags: []
+title: 'Crash Dump Analysis: o livro'
 ---
 
-Quem nunca se deparou com um sistema Windows em que o Explorer travasse ou crashasse de vez em quando? O problema com esse tipo de problema (recursividade...) é que ele pode ocorrer por infinitos motivos. Tão infinitos quanto os shell extensions, aquelas DLLs irritantes que são carregadas automaticamente por todo processo explorer.exe, e que portanto podem gerar infinitas maneiras de travar seu shell.
+Para quem acabou de terminar o Advanced Windows Debugging (como eu) e não consegue ler no computador os complicados artigos de Dmitry Vostokov (como eu), "seus problemas acabaram-se": acabou de ser lançado o Memory Dump Analysis Volume 1 em hardware! Em modelos portáveis (paperback) e desktop (hardcover).
 
-Um que estava me incomodando já há algum tempo era um deadlock que acabava em restart do Explorer (isso é automático no Windows 10). Para verificar o que era, antes configurei a geração de dumps automática para que qualquer novo crash gerasse um arquivo de dump para eu analisá-lo. Só passou algumas horas para ter algo que pudesse trabalhar: um dump pode ser analisado pelo Visual Studio (qualquer versão) ou depuradores como WinDbg (do pacote Debugging Tools for Windows). Como análise exploratório, apenas o Visual Studio é suficiente, pois ele pode exibir coisas como os módulos carregados pelo processo e a pilha de chamadas da thread faltosa.
+Se você perder um pouco de tempo lendo o índice online perceberá que boa parte do conteúdo (se não todo) está em seu sítio, disponível gratuitamente. Porém, não há nada como ter um livro organizado para ler no conforto do ônibus para o serviço (ou do metrô para casa). Ainda mais depois de ter aguçado os sentidos com o livro de Mario Hewardt e Daniel Pravat.
 
-No caso do dump que eu estava analisando, verifiquei que a thread que gerou o travamento continha uma DLL da NVidia. Essa DLL, de acordo com o AutoRuns, estava cadastrada no registro como um Context Menu Handler para o shell. Depois de desativá-la e iniciar uma nova instância do Explorer foi possível verificar que a DLL não estava mais sendo carregada pelo processo.
+Selecionei alguns tópicos que acredito que por si só já valeria a pena a aquisição do livro:
 
-E "magicamente" o travamento não aconteceu nos próximos dias =).
+ - Crashes and Hangs Differentiated. Você sabe diferenciar quando uma aplicação trava e quando ela emperra?
+
+ - Minidump Analysis. Este item está no capítulo sobre análise profissional.
+
+ - Raw Stack Data Analysis. Nunca é tarde para aprender sobre a pilha; de novo.
+
+ - Symbols and Images
+
+ - X64 Interrupts
+
+ - Trap Commands (on x86 and x64)
+
+ - Bugchecks Depicted. Capítulo essencial, complemento necessário do AWD; boa parte do kernel mode ficou de fora do livro de Windows, espero que esse capítulo cubra essa carência.
+
+ - Manual Stack Trace Reconstruction. Isso vai ser legal =)
+
+ - WinDbg Tips and Tricks. Provavelmente um dos mais úteis capítulos; não há nada como economizar tempo de debugging com um truque esperto na manga.
+
+ - WinDbg Scripts. Com certeza esse capítulo ficaria mais rico com a ajuda do Farah; mesmo assim, deve estar recheado de código para otimizar tempo.
+
+ - Crash Dump Analysis Patterns. A coleção de todas as idiossincrasias encontradas por Dmitry em todos esses anos (meses?) de blogue.
+
+ - The Origin of Crash Dumps
+
+ - UML and Device Drivers. Este é um tópico que eu defendo, e que só uma pessoa como Dmitry consegue entender: usar UML para descrever o funcionamento do kernel mode. Além de tornar as coisas mais simples de enxergar, é uma ótima oportunidade de migração de "coder to developer" para o pessoal de baixo nível.
+
+Enfim, estou coçando os dedos para comprar logo um exemplar. Já sei pelo menos que com certeza serã a versão em brochura, pois não agüento mais fazer exercício muscular com o mais novo integrante da minha maleta.
 

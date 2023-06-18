@@ -1,20 +1,24 @@
 ---
 categories:
 - writting
-date: '2010-12-24'
-link: https://www.imdb.com/title/tt1039651
+date: '2012-12-06'
+link: https://www.imdb.com/title/tt1568921
 tags:
 - movies
-title: O Mundo Encantado de Gigi
+title: O Mundo dos Pequeninos
 ---
 
-O que mais me incomodou nesse filme foi o gráfico, nem tanto pela sua limitação, mas por não existir uma história suficientemente interessante para esquecermos das limitações da técnica usada, como foi com Wallace e Gromit: A Batalha dos Vegetais, ou até mesmo A Fuga das Galinhas. Simplesmente temos uma história batida, com poucos diálogos inspiradores que atravessam os seus 87 minutos de duração em um estado de quase chatice.
+Não é nenhuma novidade a virtuosidade técnica do estúdio de animação Ghibli, do diretor Hayao Miyazaki, que, entre outros, já produziu pequenas obras-primas como [A Viagem de Chihiro], [O Castelo Animado] e Princesa Mononoke (sem contar outros igualmente interessantes, como [Meu Amigo Totoro], [O Serviço de Entregas da Kiki] e [Ponyo - Uma Amizade que Veio do Mar]). Nesse sentido não é nenhuma novidade descobrir nesse primeiro trabalho de direção de Hiromasa Yonebayashi as mesmas características técnicas que tornaram os filmes do estúdio comparáveis à fábrica de sonhos de Walt Disney.
 
-Fora os minutos finais, quando temos a cena de voo de Gigi, o resto é totalmente descartável.
+A história, baseada no romance da escritora inglesa Mary Norton, gira em torno de Arietti, uma menina que faz parte de uma família de minúsculos humanoides que vivem debaixo de uma casa de campo e que se denominam Mutuários, ou seja, emprestam coisas dos humanos para sobreviver. Sua mãe Homily está sempre preocupada com a segurança de sua filha e seu marido, enquanto este, Pod, é quem faz as buscas pela casa por mantimentos e objetos úteis em sua vida miniaturizada. A maior preocupação da família é não serem vistos pelos humanos, já que isso significaria a necessária migração destes para outra morada. A casa costuma ser tranquila, mas a chegada de um novo hóspede, Sho, um garoto com uma saúde frágil que o impede de brincar normalmente, torna as explorações dos pequenos humanos mais arriscadas.
 
-Ainda com respeito à arte, os cenários podem até ter sido bem construídos, com uma textura e cores suficientes para estabelecer o "clima" por trás do sonho de Gigi. Contudo, mesmo estes ficam diminuídos frente aos movimentos de câmera que insistem em mostrá-los como se fosse algo que merecesse ser visto por longos segundos.
+O fato do histórico dos Mutuários com os humanos ser problemático é um indício inteligente do roteiro de Hayao Miyazaki e Keiko Niwa, pois já identifica para o espectador que o pano de fundo, recorrente da produtora, é a relação do homem com a natureza. Miyazaki costuma filmar com o foco centrado nesse tema. Porém, diferente de sua direção muitas vezes solene, embora igualmente divertida, Yonebayashi resgata de uma história aparentemente simples conceitos extremamente rebuscados para um desenho. É encantador, por exemplo, notar como a pequena Arietti enxerga o mundo sob seu ponto de vista, e como quando em determinado momento está nos ombros de Sho é possível a nós, espectadores, sentir a sensação de velocidade fora do comum para a menina. Da mesma forma, Yonebayashi é cuidadoso até em demonstrar como os líquidos mudam sua viscosidade quando manipulados por seres do tamanho de um copo, de forma que as gotículas de água da chuva, em vez de molhá-los, apenas fica impregnado em suas roupas.
 
-Lembrando quase sempre um videogame, e não seria exagero supor que a intenção dos produtores era exatamente essa: criar uma plataforma para rodar um filme publicitário que mais tarde seria lançado como um jogo. Essa é a impressão que passa, com suas fases e pulos desengonçados de seus personagens.
+O mais impressionante na direção segura de Yonebayashi, no entanto, é perceber que mesmo tendo todas as características de uma história infantil o filme evita inteligentemente as brincadeiras tão comuns ao gênero e busca uma abordagem realista e sensível, o que o transforma em um drama humanista extremamente eficaz.
 
-Por fim, se até crianças chegaram a dormir em um filme desses, o que dirá os adultos, que não têm opção melhor do que tentar se colocar na posição de uma criança de 4 anos; e mesmo isso não é garantidor de diversão.
+[A Viagem de Chihiro]: {{< relref "a-viagem-de-chihiro" >}}
+[Meu Amigo Totoro]: {{< relref "meu-amigo-totoro" >}}
+[O Castelo Animado]: {{< relref "o-castelo-animado" >}}
+[O Serviço de Entregas da Kiki]: {{< relref "o-servico-de-entregas-da-kiki" >}}
+[Ponyo - Uma Amizade que Veio do Mar]: {{< relref "ponyo-uma-amizade-que-veio-do-mar" >}}
 

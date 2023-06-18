@@ -1,16 +1,20 @@
 ---
 categories:
 - writting
-date: '2021-06-05'
-link: https://www.imdb.com/title/tt5614348
+date: '2016-05-20'
+link: https://www.imdb.com/title/tt4145760
 tags:
-- animes
-title: The Lost Village (Mayoiga)
+- series
+title: The Lizzie Borden Chronicles (piloto)
 ---
 
-A dinâmica do primeiro episódio é hipnotizante. O ar de mistério sobre quem são aquelas pessoas dispostas a desistir de suas vidas indo em direção a uma vila perdida para nunca mais voltar garante nossa atenção. Eles estão em um ônibus de excursão. E o motorista? Pessoas já "se perderam" por lá. E a polícia? Há criminosos no meio do grupo? E se alguém desistir?
+Juro que esperava peitinhos. Uma série com a sempre "interessante" Christina Ricci (A Família Addams ou... O Oposto do Sexo?) sempre promete algo assim. Ela como a assassina sanguinária Lizzie Borden, então...
 
-The Lost Village possui uma estética noturna atraente e misteriosa. Observar este ônibus adentrar um denso nevoeiro na estrada enquanto todos estão submersos em seus pensamentos é fruto de uma direção ritmada, intensa e com um jogo de câmera e luzes que mantém o clima de tensão.
+A série possui uma temporada e oito episódios, e tem por intuito contar a respeito do caso dessa mulher do final do século 19, que matava pessoas com um machado.
 
-Por fim, uma trilha sonora primososa, unindo o fantástico com o drama pessoal e coletivo do que irá acontecer em seguida.
+A série é assustadoramente televisiva, com aqueles zooms acelerados seguidos de câmera lenta, e cortes bruscos e sem motivo. Além disso, a direção de arte e figurino parecem estar prontos para rodar uma telenovela, com pouquíssimo apuro em filmar uma história de época. As roupas de metade dos atores pode ser confundido com antigo, o resto pode ser confundido com o Projac.
+
+Além disso, a história gira em torno da perda da fortuna da tal Lizzie depois que seus pais vão dessa para melhor (provavelmente obra dela mesma). Basicamente é apenas isso em quase uma hora de série. A vemos andar de preto com sua irmã, falar com o advogado, com seu irmão semi-bastardo e a caveira horrenda (de mal feita) de um bebê.
+
+Basicamente é isso. Um pouquinho de gore, com menos ainda de violência, e nenhum, praticamente nenhum... peitinho.
 

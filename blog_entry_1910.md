@@ -1,16 +1,18 @@
 ---
 categories:
-- blogging
-date: '2023-04-04'
-tags: null
-title: Instalei um contador de visitas
+- writting
+date: '2012-04-02'
+link: https://www.imdb.com/title/tt0278504
+tags:
+- movies
+title: Insônia
 ---
 
-Estou revisando como fazer para estar no Flow durante leisure time e uma das poucas regras necessárias é que você precisa coletar feedback sobre como está indo na atividade. No caso da escrita achei difícil eu mesmo ser o responsável por esse feedback, principalmente por não estar sendo no momento um leitor assíduo. Então minha primeira ideia foi saber se pessoas estão lendo meus posts, aproveitando o fato deles serem públicos.
+Em um momento em que Hollywood se esqueceu que os bons policiais/suspenses quase sempre vem dotados de uma carga dramática e multidimensional em seus personagens, o segundo trabalho de Christopher Nolan na direção vem lembrar aos cinéfilos que é possível construir uma narrativa inteligente e ainda assim ser envolvente pela sua ação.
 
-Para minha surpresa hoje me deparo, além das minhas próprias visitas, alguém lendo sobre a sorveteria Banana da Terra em Morretes. Com certeza não sou eu, já que o dispositivo é um MacOS e dos EUA. Outro acesso tinha relação com o vcpkg.
+Fazendo como David Fincher em [Os Homens que Não Amavam as Mulheres] e refazendo um longa sueco (na verdade, também norueguês) de 1997, a história gira em torno de uma cidade em que o sol não se põe (no original, na Noruega, aqui, no Alaska) e um crime envolvendo uma jovem brutalmente assassinada. Quando os detetives Will Dormer (Al Pacino) e Hap Eckhart (Martin Donovan) chegam ao local, no entanto, o clima de tensão já estava no ar e apenas piora em terra.
 
-Não sei bem se esse é um analytics com histórico ou são os acessos de tempo real. De qualquer forma agora já sei de pelo menos alguém que está acessando o blogue. Isso é um feedback válido? Deixe o que acha nos comentários.
+Sem revelar spoilers fica difícil falar sobre a trama, mas podemos dizer que a relação entre Al Pacino e o misterioso assassino consegue produzir as melhores cenas, cheias de significado.
 
-Ops, não há comentários no blogue. Não dá para aguentar tanto feedback da humanidade.
+[Os Homens que Não Amavam as Mulheres]: {{< relref "millennium-os-homens-que-nao-amavam-as-mulheres" >}}
 

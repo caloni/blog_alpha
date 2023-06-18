@@ -1,47 +1,26 @@
 ---
 categories:
-- coding
-date: '2008-03-14'
-title: Influence Board
+- writting
+date: '2018-10-30'
+link: https://www.imdb.com/title/tt7349662
+tags:
+- movies
+title: Infiltrados Na Klan
 ---
 
-Há muito tempo sou enxadrista não-praticante. Acho que os anos de programação me deixaram mais viciado em codar do que pensar no xeque-mate. No entanto, sempre que posso, dou uma escapulida do Visual Studio e jogo uma partida ou duas na rede, quase sempre, é claro, tomando um piau psicológico.
+Spike Lee retorna aqui com a temática do racismo de "Faça a Coisa Certa" de várias décadas atrás. E coincidentemente seu astro apareceu em outro filme político do diretor, Malcolm X (embora completamente desconhecido, "como Estudante na Sala de Harlem"). Aqui junto com Adam Drive eles realizam os mesmos passos descritos no livro autobiográfico de Ron Stallworth, primeiro policial e detetive negro do departamento de polícia de Colorado Springs e que se infiltrou em um movimento da Ku Klux Klan no final dos anos 70. Essa história possui requintes surreais e parece extraordinária demais para ser séria.
 
-A falta de prática e estudos pesa muito para um enxadrista amador, já que facilmente esquecemos das combinações mortíferas que podemos aplicar e levar. É muito difícil ter em mente aquelas três dúzias de aberturas que já são batidas (e suas variantes), ou então as regrinhas de praxe de como detonar nas finais com um cavalo e um bispo.
+Porém, o mais extraordinário é que ela é real! E a genialidade do filme começa em usar Spike Lee (que também participou da produção) para arquitetar essa história. Aliando um humor escrachado ao mesmo tempo que vai conquistando a empatia do público pelo competente mas distraído Ron Stallworth vivido por John David Washington (você pode ver ele também em O Livro de Eli). Tanto ele quanto Adam Drive são auxiliados por um elenco extremamente afiado em viver brancos preconceituosos, alienados e um tanto abobados, seja a força policial ou o pessoal da KKK. Adam Drive aparece com igual peso no pôster do filme, mas é um embuste, ele possui uma participação menor ou está em uma atuação mais apagada; não é de fato um personagem para esse ator.
 
-Por isso mesmo aprendi em um livro chamado Xadrez sem Mestre, de J. Carvalho, uma técnica universal e independente de decoreba que levei pra vida toda, e tem me trazido algumas partidas no mínimo interessantes. Se trata de analisar o esquema de influências em cima do tabuleiro. Influências, nesse caso, se refere ao poder de fogo das peças amigas e inimigas. O interessante é que deixa-se de lado a análise das próprias peças! Se estuda tão somente o tabuleiro, e apesar de parecer um método difícil, ele melhora sua percepção gradativamente, e é responsável por muitas das partidas simultâneas jogadas às cegas por alguns ilustres GMIs.
+A direção dinâmica de Lee mantém o controle absoluto da narrativa. Note os inúmeros cortes rápidos entre as ligações telefônicas entre Ron e o pessoal da Klan. Ou melhor: note os momentos em que o filme paraleliza dois grupos ideológicos que realizam uma espécie de rima temática aqui: de um lado os negros mais radicais influenciados pelo movimento dos panteras negras; do outro os malucos da classe média norte-americana protestante que culpam negros, judeus e outros imigrantes pela degradação moral de sua grande nação.
 
-{{< image src="influence-board.png" caption="Chess Board" >}}
+Se bem que, se tornando maior que a arte, a vida real não os desmente completamente. Quando um dos líderes profere palavras de ódio direcionadas aos judeus e sua conspiração que controla tudo e todos ele não está totalmente errado, seja no passado ou no presente. Aliás, deixe-me reformular a frase: ele está completamente certo! Hoje em dia, pós crise de 2008, se tornou lugar-comum criticar os 1% mais ricos da sociedade, os detentores do poder em Wall Street, geralmente associados a uma suposta hegemonia branca. Essa análise está correta, mas incompleta. Na verdade os 1% que estão no topo da cadeira financeira são na esmagadora maioria não apenas brancos, mas todos judeus. Todos. E aí? Uma teoria é mentirosa só porque está sendo proferida por um lunático racista, mesmo que coberta por fatos?
 
-> Atenção: esse artigo trata sobre xadrez admitindo que o leitor saiba as regras básicas do jogo, assim como um pouco de estratégia. Se você chegou até aqui e está viajando, sugiro que pare de ler e vá jogar uma partida.
+Por outro lado, "Infiltrados Na Klan" parece fazer o serviço histórico bem feito, ligando uma cena de "O Vento Levou" a um vídeo de ódio (real) dramatizado por Alec Baldwin e passando à história do filme (que é um misto de ficção e realidade). Ao final Spike Lee junta as pontas novamente usando eventos extremamente recentes onde houve atentados violentos entre pessoas que ainda defendem a segregação entre negros e brancos. E Lee não está tão equivocado quando coloca no mesmo patamar qualquer movimento supremacista (negro ou branco). Ele simplesmente segue o princípio moral mais geralmente aceito: membros da KKK, apesar de menos organizados, galgam perigosamente níveis de influência política mais facilmente que movimentos negros. E costumam ser mais violentos na prática.
 
-Vamos supor que a posição no tabuleiro em um dado momento seja a seguinte:
+Dessa forma é questionável se o humor do filme não extrapola demais, minimizando no processo a seriedade das questões políticas que ele coloca. Note que há o mesmo tipo de humor em No Calor da Noite, embora com um tom dramático acima, graças à performance espetacularmente coesa de Sidney Poitier, que aí faz um negro de respeito. Ron Stallworth ganha respeito na corporação; respeito conquistado com esforço e inteligência. Mas é o mesmo respeito que o espectador enxerga por trás de todas as piadas?
 
-{{< image src="winboard-mate.png" caption="Winboard Mate" >}}
+Agora, analisando o que Lee está tentando fazer com esse estilo mais despojado encontramos a melhor pista: blaxploitation. Ou seja, os filmes dos anos 70 que discutiam com uma estética canastrona a relação entre as raças trazendo protagonistas negros, e geralmente filmes policiais, como o sub-gênero "mulher na cadeia". Tanto Stallworth quanto seu interesse amoroso, feita pela irreconhecível Laura Harrier (a namoradinha do último Homem-Aranha protagonizado por Tom Holland), participam de algumas tomadas e trilhas sonoras que acusam essa relação. Boa parte do público pode perder a referência, e é por isso que Lee insere no meio do filme as capas de filmes famosos do gênero, algo que certamente ajuda.
 
-Ora, é um mate inevitável, não é? Agora imagine por um momento que você não tenha percebido isso, e precise de uma ajudinha para saber onde cada peça pode ir ou atacar no próximo lance.
-
-{{< image src="winboard-mate-influence.png" caption="Winboard Mate (com influências)" >}}
-
-Agora ficou muito mais fácil de perceber que a única saída do rei não possui nenhuma proteção, já que tanto o peão quanto o próprio rei não podem fazer muita coisa se a dama atacar a diagonal vulnerável. E ela pode fazer isso.
-
-{{< image src="winboard-mate-final.png" caption="Winboard Mate Final" >}}
-
-Essa maneira de mostrar as influências em um tabuleiro de xadrez eu apelidei de Influence Board, e criei um projeto em linha de comando para fazer as devidas considerações a respeito de uma posição determinada. Mas como ninguém hoje em dia gosta de usar o WinDbg pra jogar xadrez, transformei meu projeto em pseudo-plugin para o [WinBoard], um famoso frontend de xadrez que costumo usar em minhas esporádicas partidas.
-
-Basicamente a única coisa que o futuro usuário das influências deve fazer é baixar o projeto WinBoard; no caso a versão disponível meu repositório do GitHub (update: not anymore) e compilar (suporta cmake). Caso queira uma versão nova do programa terá que fazer o merge entre as duas versões (a versão base usada foi a 2.4.7).
-
-    mkdir build && cd build
-    cmake -A Win32 ..
-    cmake --build .
-
-Após compilado, basta rodar o winboard.exe gerado; haverá uma nova opção "Show Influence" do menu General. Voilà! É possível até jogar às cegas com esse brinquedinho (opção Blindfold).
-
-{{< image src="winboard-options3.png" caption="WinBoard Options" >}}
-
-{{< image src="winboard-blindfold.png" caption="Winboard Blindfold e Influence" >}}
-
-Bom divertimento!
-
-[WinBoard]: http://www.tim-mann.org/xboard.html
+Seja pelo senso político ou pelo humor, "Infiltrados na Klan" possui aquele ajuste fino que apenas grandes diretores conseguem realizar como se não fosse nada. Spike Lee é um deles. E ele está tinindo. Resta um roteiro com menos coincidências e um pouco mais de conhecimento histórico/político/social (ou menos engajamento ideológico) para ele realizar sua próxima obra-prima.
 

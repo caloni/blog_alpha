@@ -1,20 +1,15 @@
 ---
 
-A maior virtude criativa de Hot Hot Hot, primeiro longa do cineasta Beryl Koltz, é abordar o arco dramático de Ferdinand (Rob Stanley) do ponto de vista de um pequeno peixe e o seu processo migratório das águas frias de um aquário solitário para o ambiente quente - no sentido sexual e térmico - de uma sauna e a sua tão peculiar fauna.
+A cada cinco minutos do filme, a cada cena obviamente maquiada e implantada na narrativa da maneira mais artificial possível, eu me fazia uma nota mental que dizia sempre a mesma coisa: "É um filme feito pra Páscoa; pra ESSA Páscoa".
 
-Gastando o tempo necessário para apresentar os seus personagens secundários sob o ponto de vista do deslocado protagonista, a direção faz uma aposta certeira em demonstrar sempre com ângulos altos a pequenez do nosso heroi, não sem antes ganhar a nossa empatia com uma atuação acertadamente exagerada de Rob Stanley, em sintonia com a proposta fabulosa do roteiro, que investe ainda em inventivos sonhos e representações visuais do seu deslocamento. E exatamente pela sua timidez exagerada é que outra decisão acertada do roteiro é ouvirmos seus pensamentos, pois do contrário seria impossível identificar suas reações internas.
-
-Como as possibilidades de analogia com o mundo aquático são aparentemente ilimitadas, também o são as brincadeiras do filme, que estabelece os pequenos ambientes da sauna como os próprios aquários da vida anterior de Ferdinand, ou seja, apertados (só que quentes).
-
-Mesmo com tudo isso fotografia e trilha sonora possuem papeis de destaque acima das invencionices, pois são as duas que realmente comentam e ilustram a realidade desse mundo, com o uso constante dos tons de azul e laranja para representar a mescla de protagonista e novo mundo. A trilha sonora, parte integrante e esquecida da vida de Ferdinand, passa a ter papel ativo no ambiente da sauna e de sua própria postura diante dos acontecimentos.
-
-Não direi mais nada. Não vale a pena estragar as surpresas da história, pois estas são secundárias. Em vez disso, se atente ao aspecto estético e temático. Há algo de sublime que se mantém independente da história.
+E no fundo, essa é uma maneira sensata de classificar Hop, que agora faz parte das famigeradas produções que não serão lembradas nunca mais. Se forem, da mesma forma que as pessoas não entenderão por que diabos Luciano Huck está dublando um (futuro?) clássico da Disney, ficarão pensando quais são aquelas músicas usadas no filme com o coelho engraçadinho cuja única ação toda hora é: fazer coisas engraçadinhas.
 
 ---
 categories:
 - writting
-date: '2016-02-22'
-link: https://www.imdb.com/title/tt0837562
+date: '2012-11-02'
+link: https://www.imdb.com/title/tt1665412
 tags:
+- mostra
 - movies
-title: Hotel Transilvânia
+title: Hot Hot Hot

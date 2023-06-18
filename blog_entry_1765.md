@@ -1,18 +1,18 @@
 ---
 
-Passou o primeiro episódio da segunda temporada de Happy! diante dos meus olhos e eu não tenho a mínima ideia do que está acontecendo. Meu Deus, eu assisti o resumo da temporada anterior e fiquei mais perdido do que antes. A única coisa que vale a pena está nos primeiros cinco minutos: freiras explodindo ao som da música tema de uma temporada de American Horror Story. E eu não preciso assistir uma série inteira por isso.
+Happy! é uma feliz (que surpresa!) importada do serviço de streaming Netflix de um conteúdo da produtora Syfi, responsável pelos jovens clássicos Sharknado. Criado pela dupla Grant Morrison e Brian Taylor baseado nos quadrinhos criado por Morrison e ilustrado por Darick Robertson, esta aventura de ação policial distópica se passa em um universo onde há muitas brechas para o sobrenatural, mas ao mesmo tempo garante um realismo fantástico bem típico dos criadores de Adrenalina (1 e 2).
 
-O problema aqui é que Happy! Season One no fundo é um grande filme com começo, meio e fim. Ele começa com uma premissa, o sequestro de uma garotinha, e desenvolve através de seu amigo imaginário e do seu caótico e violento pai. É um ótimo início de história e que se desenrola bem. Não tem personagens secundários marcantes, como essa nova temporada me fez lembrar, mas o caótico Nick Sax era o que bastava.
+Esta aventura é de Nick Sax, um ex-investigador que está no momento em um ponto de sua história pessoal em que algo deu muito errado em sua vida (e é muito salutar da série sequer tocar nesse ponto em seu início). Sax está praticamente sendo movido pelas forças da natureza, e sobrevive por sua força, sorte e esperteza, embora não possamos estimar qual a porcentagem precisa desses elementos. O fantástico surge quando a pequena Hailey Hansen (Bryce Lorenzo) é raptada por um papai-noel do mal e seu amigo imaginário Happy (voz de Patton Oswalt) corre em busca de ajuda. E você já sabe qual ajuda ele encontra. Infelizmente essa ajuda está à beira da morte por ter se metido inadvertidamente com uma máfia italiana e com um segredo que envolve uma senha, demônios e a morte do caçula da família.
 
-Nesse não há premissa, apenas a apresentação daqueles personagens que não davam a mínima e um problema infinitamente menor para ser resolvido: o trauma psicológico de uma criança raptada.
+Ambientado em um universo real, mas contando com malucos (reais ou não) como Sax e Happy, esta série utiliza violência na medida certa para pontuar a brutalidade das ruas, o que torna a presença de Happy a mais inusitada possível. Se trata de uma mescla de elementos de gêneros diferentes, mas não chega a ser um resultado engraçadinho. O que a série parece querer fazer é explorar o absurdo do lúdico em ambientes nada amistosos com personagens com histórias nada adequadas para crianças (portanto, fiquem avisados: existe o Happy, mas não existe Mercy).
 
-E só tem uma coisa a fazer quando o desafio é superar um trauma em uma série violenta: mandar a série se foder e procurar outra coisa pra ver.
+Christopher Meloni também é uma força da natureza, e embora falte jeito ao ator, não falta postura e energia. Meloni, com suas caras e caretas, ensaia um personagem cartunesco e ao mesmo tempo durão. Grande sem ser bonachão, vemos sua força e vemos seu dilema se fechar em um arco extraordinário nos segundos finais, que não apenas mantém o clima de desesperança como este pequeno gancho de esperança lúdica e absurda demais para ser verdade. Há algo aí que pode ser interessante.
 
 ---
 categories:
 - writting
-date: '2020-10-04'
-link: https://www.imdb.com/title/tt8696458
+date: '2019-06-09'
+link: https://www.imdb.com/title/tt2452242
 tags:
-- animes
-title: Happy Sugar Life
+- series
+title: Feliz! S02

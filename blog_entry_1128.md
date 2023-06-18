@@ -1,28 +1,13 @@
 ---
 categories:
 - writting
-date: '2011-09-18'
-link: https://www.imdb.com/title/tt0409847
+date: '2021-07-24T22:26:16-03:00'
 tags:
-- movies
-title: Cowboys e Aliens
+- animes
+title: Cowboy BeBop
 ---
 
-Não há muito o que falar da história em Cowboys & Aliens, novo filme de Jon Favreau (dos [dois] [Homem de Ferro] e Zathura - Uma Aventura Espacial). O título já torna tudo muito óbvio, por mais bizarro que isso seja. No entanto, acredito que a definição desse gênero misto acabe sendo o principal motivo do filme não conseguir "decolar" em nenhum momento, sendo constantemente cozinhado em forno brando.
+Um western no espaço com pitadas de Blade Runner. A introdução evoca e década de Tarantino onde tudo era mais simples e atraente. O roteiro e seus detalhes certeiros mantém a ação enquanto damos risada dos trabalhadores apostando em jogos de azar enquanto se gabam de como construíram tudo lá fora. O nome do vilão do primeiro episódio é uma referência a um dos ícones de ficção científica, o que é um mistério. E por falar em mistério, que clima Bonnie e Clyde foi aquele do final? Eis um anime que chama a atenção, mesmo que pelos motivos errados.
 
-O filme começa com uma introdução no deserto, onde um homem desconhecido (Craig), uma alusão ao personagem clássico de Clint Eastwood, se encontra com uma espécie de algema em um dos braços que irá se revelar uma arma alienígena quando estes aparecerem novamente por aquelas bandas.
-
-Nessa mistura de gêneros, mesmo com as óbvias homenagens, fica bem claro que o maior prejudicado é o western, que possui um Harrison Ford que cresce durante o longa e um Daniel Craig que consegue se estabelecer razoavelmente bem logo na primeira cena (e que parece ter sido sabotado pelo resto da história), mas é só. A direção e a razão de aspecto do longa privilegia o gênero, contando com cenas que lembram velhos clássicos (como a sequência do saloon e a própria introdução no deserto), ainda que estéreis do ponto de vista criativo.
-
-Ainda no elenco, Olivia Wide parece perigosamente caminhar para um tipo característico de personagem como fez em Tron, mas só.
-
-Já pulando para o "gênero ET", é interessante notar sua constituição em torno de um mundo mais primitivo dos humanos, pois da mesma forma esses alienígenas esboçam aspectos que refletem a própria época humana retratada (eles também são exploradores e possuem motivos tão mesquinhos quanto os humanos). Igualmente curioso é constatar que eles tenham também um único tipo de arma que se assemelha aos revólveres do velho oeste - e note como em determinado momento o personagem de Craig parece "empunhar" seu punho prestes a "sacar". Da mesma forma, suas naves possuem asas que lembram penas de aves, e seu método de caça é idêntico ao de um vaqueiro pegando bezerros na pradaria (e até o formato do feixe azul que emitem lembra uma corda de caubói).
-
-(Igualmente interessante é sua nave-mãe, que coincidentemente lembra nossos foguetes que irão existir daqui a duas centenas de anos.)
-
-É verdade que o filme empolga no final, e eventualmente diverte. Porém, o método burocrático de proteger ambos os gêneros talvez tenha travado o humor, por exemplo, que costuma ocorrer nos diálogos inspirados dos [clássicos de Sergio Leone], ou até os menos pretensiosos exemplos de Western-Spaguetti.
-
-[Homem de Ferro]: {{< relref "homem-de-ferro" >}}
-[clássicos de Sergio Leone]: {{< relref "tres-homens-em-conflito" >}}
-[dois]: {{< relref "homem-de-ferro-2" >}}
+Essa é uma série que possui textura em sua animação. Há um peso mais realista que muitos animes que querem soar pesados colocando sangue na tela, mas acabam sendo apenas delírios de crianças brincando de mafiosos. Aqui não há delírios, apenas a coisa cartunesca para censura livre, mas com traços que constroem uma distopia relevante no microcosmos dos futuros alternativos. Cada pedaço dessa realidade é revelado em detalhes sutis dos episódios, e nós não ficamos ansiosos esperando por mais. Talvez essa seja sua única falha.
 

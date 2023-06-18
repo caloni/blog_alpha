@@ -1,16 +1,16 @@
 ---
 categories:
 - writting
-date: '2017-04-21'
-link: https://www.imdb.com/title/tt5808778
+date: '2013-12-30'
+link: https://www.imdb.com/title/tt0319061
 tags:
 - movies
-title: Peles
+title: Peixe Grande e Suas Histórias Maravilhosas
 ---
 
-Um filme necessário para os negadores da estética objetiva. Aqueles que dizem que "não existe feio" ou que tudo é subjetivo. Porém, este é um filme pesadíssimo, onde uma moça tem sua parte traseira na cara, uma menina sem olhos é mantida em cativeiro e dois deformados se amam e fazem sexo. As cenas são tão pesadas que colorir toda aquela realidade de rosa e roxo é inevitável. Pelo menos tenta disfarçar a miséria da vida e a miséria que somos como humanidade.
+Mais um da série "filmes fofos para ver com a família", Peixe Grande explora o conceito da Verdade (que não existe sem uma versão) com um argumento dos mais sensacionais: o que distingue os fatos dos "causos" contados por nossos pais, tios, avós? Um causo é uma série de fatos contada com emoção?
 
-As diferentes histórias que lidam com aceitação se entrecruzam de uma maneira elegante e apenas onde precisam. Aqui há uma ode a todo tipo de gênero e espécie, e mesmo que um garoto queira retirar suas pernas e virar uma sereia, a vilã é sua mãe que o criou sozinho. Não tenho certeza se tudo isso não é uma crítica à nossa sociedade do politicamente correto e da -- deus nos livre -- tolerância indiscriminada. O absurdo das situações tornam essa teoria cada vez mais plausível em um filme que não tem medo do grosseiro, desde que seja usado para refletirmos.
+Como sempre o diretor Tim Burton tem uma história para adaptar que eleva esse conceito ao absurdo: as histórias fabulosas que seu filho, agora repórter, teve que ouvir durante sua infância de seu pai são tão inverossímeis que o distanciaram de quem seu pai realmente era? Ou a mente humana não vive sem o seu filtro criativo que torna tudo mais interessante ou até impute significado onde antes não havia?
 
-Só há dor e sofrimento em Peles, mas ela é necessária para que os temas pesados que são abordados sejam realmente sentidos do ponto de vista de pessoas normais e saudáveis. O que não quer dizer que os personagens que sofrem no filme sejam dignos de pena, mas é o que o filme quer dizer, já que essa é a única forma de nos relacionarmos com seus dramas. E uma história que poderia servir para mostrar a riqueza dos diferentes a usa para mostrar como essas pobres criaturas são dignas de pena.
+Toda história precisa ser contada através de uma versão. No Cinema isso é verdade inclusive nos documentários. Por que na vida deveria ser diferente?
 

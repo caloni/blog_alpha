@@ -1,11 +1,11 @@
 ---
 
-Frutado como Malbec; corpo leve. Festa mexicana casa da cunhada da Su.
+Frutado como Malbec; corpo leve. Contra congelado que descongelei mais ou menos sozinho.
 
 ---
 categories:
 - writting
-date: '2019-04-29'
+date: '2017-07-02'
 tags:
-- wine
-title: Humberto Canale
+- food
+title: Humberto Barberis Malbec Edición Limitada 2016

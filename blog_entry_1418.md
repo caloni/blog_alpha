@@ -1,74 +1,20 @@
 ---
 categories:
-- coding
-date: '2014-06-11'
-tags: null
-title: 'Eles querem que a GINA vá embora: três posts sobre evolução Windows'
+- writting
+date: '2015-01-11'
+link: https://www.imdb.com/title/tt2191671
+tags:
+- series
+title: Elementary (piloto)
 ---
 
-Fui convidado pela Fernanda Saraiva do programa de MVPs da Microsoft Brasil a falar sobre alguma história a respeito da evolução do Windows e como isso impactou minha experiência profissional. Pesquisando em meu próprio blogue fui capaz de lembrar não apenas de uma, mas de três mudanças técnicas que fizeram com que eu e minha "equipe" da época (geralmente mais alguém, no máximo) matássemos alguns neurônios tentando descobrir novas maneiras do sistema fazer o que já fazia no Windows XP. Irei compartilhar uma por vez no que tem sido o meu post semanal que eu apelidei carinhosamente de Post da Terça. Já faz mais de um mês que consigo publicar pelo menos na terça algo de novo, e espero manter esse ritmo.
+E por que ele não é Sherlock? Cinema e televisão são linguagens que vão evoluindo com o passar dos anos, das produções e dos espectadores. Todos que gostam de séries de investigação já assistiram pelo menos um episódio ou ouviram falar de C.S.I., Bones, Law & Order e tantos outros -- onde até Sobrenatural se encaixa. Todas essas séries confiam em uma fórmula que existe no Cinema há muito tempo e é usado em praticamente qualquer filme, mas que em investigação se torna muito óbvio: primeiro há um caso, depois o protagonista demonstra como é esperto, depois há uma reviravolta e ele se mostra errado para depois descobrir no terceiro ato que ele estava certo desde o começo ou descobriu coisas novas que o levaram a acertar por último quem era o culpado.
 
-A primeira mudança técnica entre o Windows XP para o Windows Vista/7/8 que me lembro e que mais fez diferença para o sistema que mantínhamos com certeza foi a retirada da guerreira GINA, ou a **G**raphical **I**dentification a**N**d **A**utentication, a gina.dll da Microsoft que implementava a mundialmente famosa tela de logon do Windows NT/2000/XP:
+A série americana Elementary recria o personagem Sherlock Holmes em Nova York e introduz um Dr. Watson mulher (Lucy Liu). O que poderia ser interessante pela mudança de ares e época se torna desde o piloto um exercício de frustação com a ajuda da sempre defasada linguagem televisiva, que gasta mais uma vez o personagem icônico de Conan Doyle à toa, empregando artifícios já vistos em todas as séries citadas.
 
-{{< image src="CBLO6LF.jpg" caption="Windows XP dá as boas vindas" >}}
+Vejamos: Sherlock, assim como todos os protagonistas dessas séries, verbaliza o que está pensando. Ele e Watson conversam revolvendo tudo que está acontecendo em suas cabeças através unicamente de diálogos. Sherlock explica coisas demais, fala demais, e se torna o que ele sempre detestava: tédio.
 
-Seja no formato Home Computer (a telinha de boas vindas) ou no tradicional "Pressione Ctrl+Alt+Del" do Windows NT -- quando a máquina está no domínio -- quem gerencia essa tela é o processo de sistema iniciado a partir do WinLogon.exe. O WINLOGON carrega a nossa amiga gina.dll que é quem realiza a autenticação dos usuários.
+Pelo menos a série não é inútil por completo, pois serve de comparação com a contemporânea Sherlock, da BBC. É possível ver onde os criadores da série acertaram em sua caracterização em Londres atual. O mais óbvio foi abandonar os clichês de séries de investigação, sendo o mais importante deles o de verbalizar demais, algo inapropriado e incompatível com o morador da 221B Baker Street. Na série britânica vemos o detetive analisando a cena do crime e acompanhamos como espectadores suas observações através de marcações na própria tela. Os outros personagens que o acompanham sabem muito menos do que nós, e nós não sabemos muito bem o que fazer com o que compartilhamos com o protagonista até sua revelação. Isso dá a exata dimensão do poder de dedução do detetive sem exposições desnecessárias. Ao mesmo tempo, Watson continua sendo uma pessoa ingênua, mas com muita emoção e carisma, o que evita que ele se torne entediante para o detetive e para nós (além de render ótimas sequências apenas com sua participação). A Watson de Lucy Liu está completamente à mercê do detetive e não consegue construir uma personalidade nem de perto atraente para que faça parte das investigações, e por mais diálogos expositivos que coloquem isso não deve mudar.
 
-Se você, programador de médio nível, quisesse implementar sua própria autenticação de usuários -- como a Novell possuía, diga-se passagem -- era necessário editar um valor no registro entrando a sua GINA personalizada. Lógico que ela deveria ter todas as funções documentadas implementadas e exportadas para que o WINLOGON conseguisse se comunicar, como a famigerada [WlxInitialize](http://msdn.microsoft.com/en-us/library/windows/desktop/aa380567%28v=vs.85%29.aspx), que recebia a lista de ponteiros de funções para os outros eventos a ser tratados.
-
-```
-// Essa funcao sobrescreve a original do Windows no momento do logon.
-// No codigo abaixo gravamos os dados de autenticacao do usuario.
-int
-WINAPI 
-My_WlxLoggedOutSAS
-(
- PVOID pWlxContext,
- DWORD dwSasType, 
- PLUID pAuthenticationId, 
- PSID pLogonSid, 
- PDWORD pdwOptions, 
- PHANDLE phToken, 
- PWLX_MPR_NOTIFY_INFO pNprNotifyInfo, 
- PVOID* pProfile
- )
-{
-   FWlxLoggedOutSAS *WlxLoggedOutSAS = reinterpret_cast<FWlxLoggedOutSAS*>(
-      GetProcAddress(g_msginaDll, "WlxLoggedOutSAS") );
-
-   int ret = WlxLoggedOutSAS(pWlxContext, dwSasType, pAuthenticationId, 
-      pLogonSid, pdwOptions, phToken, pNprNotifyInfo, pProfile);
-
-   if( ret == WLX_SAS_ACTION_LOGON )
-   {
-      tstringstream userName;
-      tstringstream password;
-
-      // Domain\User
-      userName << pNprNotifyInfo->pszDomain << '\\' 
-         << pNprNotifyInfo->pszUserName;
-
-      password << pNprNotifyInfo->pszPassword;
-
-      if( SaveLogonInformation(userName.str(), password.str()) > 5 )
-         if( !IsNetworkAdmin(userName.str(), pNprNotifyInfo->pszDomain) )
-            ret = 0;
-   }
-
-   return ret;
-}
-
-```
-
-Com a vinda do Windows Vista, o WINLOGON continuou gerenciando as sessões e autenticações dos usuários, mas para evitar que a GINA monopolizasse novamente os métodos de autenticação, e com a vinda de métodos concorrentes -- como retina e impressão digital -- a Microsoft desevolveu uma nova interface chamada de _Credential Provider_. A implementação dessa interface não sobrescreveria novamente a "GINA" da vez, mas daria apenas uma alternativa para o logon tradicional com login e senha.
-
-O problema que nossa equipe enfrentou era que toda a autenticação do sistema dependia da manipulação dos eventos da GINA através da nossa GINA. Com ela colocada de escanteio, os logins parariam de funcionar.
-
-{{< image src="sF23ENL.jpg" caption="gina" >}}
-
-Depois de uma análise rápida foi constatado que não seria mais possível bloquear o login completamente, uma vez que existiam pelo menos duas alternativas de login que vieram com a instalação do Vista, e o fato de instalar mais uma apenas faria com que essa terceira alternativa não funcionasse, mas o usuário não estaria mais obrigado a "passar por nós".
-
-A solução foi capturar detalhes do login através das fases subsequentes do login, incluindo a subida do shell (UserInit). Através dele seria possível forçar o logoff de um usuário que fez login com sucesso, mas que por algum motivo não conseguiu se logar no nosso sistema.
-
-Nem sempre o que estava rodando já há anos é a solução mais bonita. Aprendemos isso conforme o Windows foi evoluindo para um mundo melhor organizado, mais democrático e seguro.
+Vejam bem, eu disse "deve", já que estou apenas comparando o piloto de Elementary com a série Sherlock inteira. Porém, me lembro perfeitamente de cada detalhe no piloto de Sherlock para saber que ambos são perfeitamente comparáveis desde seu suspiro inicial. Elementary não me inspira nenhum tipo de progresso na linguagem das séries de investigação. É mais um insulto americano a um personagem icônico.
 

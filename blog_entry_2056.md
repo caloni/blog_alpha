@@ -1,13 +1,11 @@
 ---
 categories:
 - writting
-date: '2022-10-12T17:58:14-03:00'
+date: '2019-04-13'
 tags:
 - wine
-title: La Primera Revancha
+title: La Poderosa
 ---
 
-Este vinho eu bebi pela primeira vez [no melhor atendimento que já recebi de uma sommelier em um restaurante]. Até minha esposa que não é tão fã de Merlots adorou, tanto que no dia seguinte fomos visitar a bodega e eu comprei mais duas das únicas quatro garrafas disponíveis. Então levamos para abrir na casa da família Incrível e continua um Merlot excepcional. Equilibrado e frutado sem o "gosto de remédio" de alguns Merlots. Uma verdadeira obra-prima.
-
-[no melhor atendimento que já recebi de uma sommelier em um restaurante]: {{< relref "argentina-2022" >}}
+Em homenagem ao genocida Che Guevara quando deu seu rolê de bike pelo deserto. É vinho meio amargo, sem estrutura. Del Fin Del Mundo.
 

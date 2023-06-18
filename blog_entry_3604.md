@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2015-12-10'
+date: '2018-09-23'
 tags:
-- food
-title: Tarapaca Cabernet Carmenére 2013
+- wine
+title: Tamari AR
 ---
 
-Um pouco quente, mas encorpado atrativo; boa cor.
+Malbec 2013 é daqueles momentos onde valeu muito a pena beber vinhos medíocres, pois este é sensacional. Frutado, tânico, estruturado em corpo médio pra forte.
 

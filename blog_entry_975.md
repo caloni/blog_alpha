@@ -1,18 +1,84 @@
 ---
 categories:
-- writting
-date: '2015-09-27'
-link: https://www.imdb.com/title/tt1650393
-tags:
-- movies
-title: C.O.G.
+- coding
+date: '2008-02-25'
+title: Códigos de entrevista - o ponteiro nulo
 ---
 
-Uma experiência religiosa ou uma auto-descoberta sexual? Uma visão romântica de nossas diferenças de princípios ou um drama que tenta soar engraçado? Se sentindo com múltiplas personalidades, C.O.G. pode muito bem se apresentar como uma visão religiosa do mundo, pois usa a maçã como uma espécie de símbolo do pecado (e da tentação) e mantém em sua história uma estrutura esquizofrênica tão conhecida dos religiosos mais fanáticos.
+Bom, parece que o "mother-fucker" wordpress ferrou com meu artigo sobre o Houaiss. Enquanto eu choro as pitangas aqui vai um outro artigo um pouco mais simples, mas igualmente interessante.
 
-Este é o segundo filme de Kyle Patrick Alvarez e que apresenta a experiência de David/Samuel, um adolescente em época de faculdade com algumas dúvidas na cabeça e que resolve "fugir" (de maneira programada) para uma cidade agrícola e trabalhar nos campos de maçãs. Gay ainda não assumido (talvez nem para ele mesmo), veremos o rapaz se aventurar por todo o processo de colheita, escolha e venda de maçãs, e através disso andar meio-degrau em direção à sua maturidade, ao conhecer outros curiosos personagens que cruzarão seu caminho, para o bem E para o mal.
+> "Wanderley, tenho umas sugestões para teu blog.
+> A primeira:
+> Que tal analisar o código abaixo e dizer se compila ou não. Se não compilar, explicar porquê não compila. Se compilar, o que acontecerá e por quê."
 
-Ligeiramente inspirado em eventos pseudo-auto-biográficos de David Sedaris, um escritor e radialista conhecido por essas histórias, nunca saberemos o que é verdade e o que é invenção nessa sua história, mas o fato é que não existem acontecimentos fantasiosos o suficiente para supor que alguma coisa foi inventada. Sabendo que todos os eventos poderiam muito bem ocorrer na vida real, o filme passa a ter um gostinho melhor.
+O código é o que veremos abaixo:
 
-No entanto, como Cinema, falta um tom a ser escolhido, e parece que essa falta de tom leva o espectador a apostar nas medidas erradas. O diretor Patrick Alvarez não ajuda muito, pois ele arrasta excessivamente sua câmera por longas cenas que não têm hora para cortar. Sem saber qual o guia espiritual dessa empreitada, somos vendidos pelo pior caminho. Diferente de Wild, que flerta eficientemente com o feminismo como forma de auto-afirmação de Cheryl em sua jornada, aqui não há pistas o suficiente para entendermos quais as motivações de David. Talvez não seja nenhuma, e foi tudo uma grande e boba viagem em volta do nada.
+    #include <stdio.h>
+    #include <stdlib.h>
+    
+    void func()
+    {
+      *(int *)0 = 0;
+      return 0;
+    }
+    
+    int main(int argc, char **argv)
+    {
+      func();
+      return 0;
+    } 
+
+Bem, para testar a compilação basta compilar. Porém, se estivermos em uma entrevista, geralmente não existe nenhum compilador em um raio de uma sala de reunião senão seu próprio cérebro.
+
+E é nessas horas que os entrevistadores testam se você tem um bom cérebro ou um bom currículo.
+
+Por isso, vamos analisar passo a passo cada bloco de código e entender o que pode estar errado. Se não encontrarmos, iremos supor que está tudo certo.
+
+    #include <stdio.h>
+    #include <stdlib.h>
+
+Dois includes padrões, ultranormal, nada de errado aqui.
+
+    void func()
+    {
+      *(int *)0 = 0;
+      return 0;
+    }
+
+Duas ressalvas aqui: a primeira quanto ao retorno da função é void, porém a função retorna um inteiro. Na linguagem C, isso funciona, no máximo um _warning_ do compilador. Em C++, isso é erro brabo de tipagem.
+
+A segunda ressalva diz respeito à linha obscura, sintaticamente correta, mas cuja semântica iremos guardar para o final, já que ainda falta o main para analisar.a
+
+    int main(int argc, char **argv)
+    {
+        func();
+        return 0;
+    }
+
+A clássica função inicial, nada de mais aqui. Retorna um int, e de fato retorn. Chama a função func, definida acima.
+
+A linha que guardamos para analisar contém uma operação de casting, atribuição e deferência, sendo o casting executado primeiro, operador unário que é, seguido pelo segundo operador unário, a deferência. Como sempre, a atribuição é uma das últimas. Descomprimida a expressão dessa linha, ficamos com algo parecido com as duas linhas abaixo:
+
+    int* p = (int*) 0;
+    *p = 0;
+
+Não tem nada de errado em atribuir o valor 0 a um ponteiro, que é equivalente ao define NULL da biblioteca C (e C++). De acordo com a [referência GNU], é recomendado o uso do define, mas nada impede utilizar o 0 "hardcoded".
+
+Porém, estamos escrevendo em um ponteiro nulo, o que com certeza é um comportamento não-definido de conseqüências provavelmente funestas. O ponteiro nulo é um ponteiro inválido que serve apenas para marcar um ponteiro como inválido. Se escrevermos em um endereço inválido, bem, não é preciso ler o padrão para saber o que vai acontecer =)
+
+Alguns amigos me avisaram sobre algo muito pertinente: dizer que acessar um ponteiro nulo, portanto inválido, é errado e nunca deve ser feito. Como um ponteiro nulo aponta para um endereço de memória inválido, acessá-lo irá gerar uma exceção no seu sistema operacional e fazer seu programa capotar. Um ponteiro nulo é uma maneira padrão e confiável de marcar o ponteiro como inválido, e testar isso facilmente através de um if. Mais uma vez: ponteiros nulos apontando para um endereço de memória inválido (o endereço 0) nunca devem ser acessados, apenas atribuído a ponteiros.
+
+Em código. Isso pode:
+
+    int* p = 0; // atribuindo nulo a um ponteiro
+    int* p2 = p; // isso também pode
+
+Isso não pode:
+
+    *p = 15; // nunca acessar ponteiros nulos
+    int x = *p; // isso também não pode, ler de um ponteiro nulo
+
+Dito isso, me sinto melhor =)
+
+[referência GNU]: http://www.gnu.org/software/libc/manual/html_node/Null-Pointer-Constant.html#Null-Pointer-Constant
 

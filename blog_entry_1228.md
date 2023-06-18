@@ -1,26 +1,28 @@
 ---
 
-Derek é uma série britânica dirigida e roteirizada e protagonizada pelo comediante Ricky Gervais. Seu personagem é a espinha dorsal e moral de um lar para idosos orquestrado pela perseverante Hanna (Kerry Godliman). A câmera trabalha da mesma forma com que seu trabalho em The Office (o britânico original), como se estivessem filmando um documentário e mesmo assim as pessoas fossem elas mesmas. É um formato popular, também usado em Parks and Recreation e copiado no The Office americano. Possui no momento apenas uma temporada com seis episódios de 20 minutos cada, o que no fundo dá um filme de duas horas.
+Como depurar um programa que dá pau logo no final do desligamento de uma máquina?
 
-E é um dos seriados mais fofos atualmente.
+No cenário em que isso se passa não existem usuários logados no momento, o que significa a impossibilidade de rodar qualquer programa em uma sessão prévia e mantê-lo no ar após o logoff. A não ser que se trate de um serviço.
 
-A criação de personagens secundários facilita o uso de Derek em praticamente todas as situações das histórias sem torná-lo um protagonista no sentido nato da coisa. Não é ele que resolve todos os problemas, nem o que move a ação, mas é o que entrega sua dedicação em alma e coração. Porém, as pessoas em volta possuem cada uma delas uma visão do mundo que é complementar e que forma um pequeno universo que explica boa parte da nossa sociedade do lado de fora.
+O nosso programa é justamente um serviço, e por isso ele continua rodando até o final, ou bem perto dele. A primeira ideia que vem à mente é instalar o Msvcmon - depurador remoto do Visual Studio - como um serviço, como aliás já foi demonstrado neste blogue.
 
-Não que seja um estudo denso e complexo de personagens, longe disso. Porém, dentro daquelas histórias, que com certeza vão te fazer rir e chorar, existe algo a mais que nos faz pensar a respeito de coisas que ocorrem de fato estão bem próximas dos diálogos e cenas do seriado. Talvez a única diferença com o mundo real é que elas não estão sendo filmadas.
+Essa é uma boa ideia, de fato. Contudo, não podemos esquecer que a ordem de descarregamento dos serviços pode não favorecer o nosso depurador remoto e ele ir embora antes que consigamos "atachar" nosso VC no programa faltoso. Além do mais, a própria rede, que é disponibilizada com a ajuda de serviços, pode não estar no ar, mesmo que o Msvcmon esteja.
 
-O objetivo da série na primeira temporada não era entrar a fundo no estudo de seus personagens, mas a segunda temporada dá liberdade a Rick Gervais de fazer justamente isso: já sabemos quem são aquelas pessoas, agora vamos explorar um pouco mais o que elas podem se tornar, ou o que nunca deixarão de ser.
+Tudo bem, vamos dizer que você é um expert em configuração de dependências de serviços e conseguiu fazer com que a rede, o Msvcmon e o programa faltoso sejam os últimos serviços - com exceção dos drivers - a serem descarregados. Bravo!
 
-Por isso que o alcoolismo de Kev (personagem de David Earl) e o utilitarismo do novato Geoff (Colin Hoult) são pauta em um ou mais episódios, além da relação de Derek com o pai. Podemos dizer, sim, que isso constitui uma sutil, cômica e tocante análise de personagens daquele asilo, mas também no final de cada historieta conseguimos entender -- assim como nos episódios originais -- que aquelas pessoas não representam apenas elas naquele momento, mas são símbolos de comportamento humano que podemos ver em qualquer lugar. Basta abrir os olhos e desgrudá-los do seu celular.
+Contudo, isso não vai adiantar de muita coisa se for necessário parar a execução por um breve momento e analisar a pilha por, digamos,  cinco segundos. Esse é o tempo que o sistema - que continua rodando - precisa para desligar a máquina.
 
-Não se dedicando mais ao choro e ao riso fáceis, Derek mais uma vez prova ser um seriado essencial hoje em dia, onde perdemos cada vez mais nossa humanidade, nem sempre para o utilitarismo de Geoff, nem sempre por causa do alcoolismo usado para esquecer a chatice das pessoas, mas muitas vezes nos relacionamentos tecnológicos, nas redes sociais, nos fóruns onde é fácil e barato ofender um avatar qualquer que discorda de você em uma discussão muitas vezes inútil.
+Agora o problema é outro: não há tempo para análise durante a depuração, pois o sistema continua rodando. Nesse caso, teremos que ser mais radicais e parar o próprio sistema para que possamos depurar calmamente o problema. Isso implica em termos que utilizar um depurador de kernel (WinDbg), pois só ele tem poderes de congelar o sistema inteiro.
 
-A câmera do ator/diretor/roteirista Derek navega naturalmente, e as falas soam cada vez mais humanas. Se torna um tanto estranho enxergar a nós mesmos naquelas pessoas que geralmente não teriam nada a ver com nossas vidas. Mais uma prova de que os seres humanos estão cada vez mais iguais, ou procurando as mesmas coisas, embora fiquemos cada vez mais enclausurados olhando insistentemente para a atualização de nosso perfil virtual, imaginário e, mais do que a vida real: efêmero.
+Mas, ainda assim, precisamos de um depurador de user para fazer análises mais profundas ou, pelo menos, mais simples, com a ajuda de símbolos e tudo mais. Nesse caso é necessário usar um depurador de user que redireciona o controle para o depurador de kernel. A transição user mode >> kernel mode pode ser feita com apenas algumas configurações antes do reboot.
+
+E, após toda essa bagunça, podemos depurar, no conforto de uma VM, o bendito programa matador.
 
 ---
 categories:
 - writting
-date: '2018-12-16'
-link: https://www.imdb.com/title/tt2513228
+date: '2015-07-28'
+link: https://www.imdb.com/title/tt2616280
 tags:
 - series
-title: 'Derren Brown: Apocalypse'
+title: Derek

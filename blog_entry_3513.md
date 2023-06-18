@@ -1,16 +1,19 @@
 ---
 categories:
 - writting
-date: '2014-01-19'
-link: https://www.imdb.com/title/tt0484111
+date: '2016-10-31'
+link: https://www.imdb.com/title/tt4538652
 tags:
+- mostra
 - movies
-title: Sonhando Acordado
+title: Sonar
 ---
 
-Martin Freeman, da saga do Hobbit e do novo Watson, também consegue fazer um drama, ainda que hilário. Aqui ele vive um músico tão frustrado com seu emprego e namorada ( Gwyneth Paltrow, quem não estaria). Tentando encontrar algo de bom na vida quando está dormindo, compartilha seus sonhos com a estonteante Anna (Penélope Cruz), uma figura diametralmente oposta a seu próprio ego.
+Este é o segundo filme que vejo na Mostra com um personagem que grava sons do ambiente (o outro é O Que Restou da Minha Vida). Sonar escolhe falar sobre uma imigrante mulher de um país africano que ainda trata mulheres como submissas. O interessante é que, considerando o que o filme faz dessa personagem, não temos pista nenhuma que nos faça evitar em pensar que, no fundo, ela também seria no Ocidente como apenas mais uma vadia.
 
-O filme ganha fôlego nesse mergulho de Freeman no mundo dos sonhos. Ele encontra Mel (Danny DeVito), um especialista em sonhos (e em sonhar). Note como DeVito inclina seu corpo para falar, tão mais à vontade que se sente na posição horizontal, e verá uma interpretação ímpar do ator. O controle maior no mundo onírico não acontece com Freeman, mas em vez disso o reflexo do seu descontrole da vida real cada vez maior. Nesse ponto o realismo das frustrações do ser humano atinge seu ápice.
+Resgatando sua história através do editor de som Wyatt através de testemunhos das pessoas que conviveram com a jovem e manipuladora Leïla, o roteiro do diretor estreante Jean-Philippe Martin divide atenções entre Wyatt e Leïla, já que se por um lado a história principal é de Leïla, é a história de vida de Wyatt que surge no meio, como a gravação do perfil de uma ex-mulher em sua vida dá a entender. Dessa forma, há um filme que, dividido, não consegue se sair bem contando a história de seus personagens, já que até o chefe do introspectivo Wyatt contém um background mais interessante.
 
-O filme perde fôlego ao tentar diminuir cada vez mais a barreira sonho/realidade. É interessante, mas não tanto quanto as sensações de uma vida que jamais será vivida. Ou quem sabe seja esse o objetivo: mostrar como os sonhos representam tudo de melhor em nossa existência. Tal como os filmes.
+Já a direção de Jean-Philippe é correta, poética e enfadonha até a morte. Seu uso de closes, câmera subjetiva tremendo apenas é aceitável quando intercalada com tomadas mais simples, que incluem o cenário, ou até as belas panorâmicas de Marrocos. Com uma fotografia que mistura frio e quente entre os ambientes, não sabemos o que o filme quer dizer, exceto ser um trabalho mais profundo do que na verdade é. Além disso, mesmo sendo idealmente um filme sobre os sons -- humanos ou não -- curiosamente a trilha sonora é quase completamente suprimida, exceto uma música branca para gerar transições. Além disso, os sons capturados por Wyatt de nada adiantam para desvendarmos o filme, pois o som ambiente tanto da França quanto da África se confundem. Ouvir pássaros e grilos se torna uma tentativa patética de dar vida aos cenários externos.
+
+Ao final, somados os prós (direção correta) e contras (quase todo o resto) o filme ainda consegue ser assistido sem maiores percalços, o que é uma forma bonita de dizer que o espectador não vai morrer de tédio durante a sessão, mas tão pouco irá morrer de amores. Para um filme que brinca com o som, algo virtuoso na arte do Cinema, acaba se tornando para o espectador médio ruim e medíocre, mas para o cinéfilo decepcionante.
 

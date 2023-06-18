@@ -1,14 +1,15 @@
 ---
-categories:
-- coding
-date: '2007-10-10'
-link: https://github.com/Caloni/lectures/blob/master/engenhariareversaparaprincipiantes.pdf
-title: Engenharia reversa para principiantes
+categories: []
+date: '2012-04-17'
+tags: null
+title: Engenharia Reversa em Itajubá
 ---
 
-Dei uma reformada em minha última palestra sobre engenharia reversa. O tema escolhido foi tentar abranger os níveis de conhecimento que uma pessoa disposta a se dedicar à engenharia reversa de programas deveria ter, desde programação, passando pelo sistema operacional e terminando no uso de ferramentas. Achei interessante abordar esse tipo de conteúdo pelo fato de existirem pessoas que gostariam de começar ou já começaram e não sabem para onde ir.
+Essa segunda (ontem, 16 de abril de 2012) foi dia da minha palestra na Unifei, parte do II Composium Unifei, que reúne diversos profissionais e suas especialidades para que estudantes vejam o quão útil pode ser o curso de engenharia.
 
-Outra coisa que fiquei receoso de colocar (mas coloquei) foi a lista de tarefas para usar o conhecimento aprendido. Pode ser frustrante tentar procurar emprego nessa área aqui no Brasil e não adianta nada aprender e não usar. A engenharia reversa, assim como a área de segurança da informação, para ser efetiva, deve levar em conta como as coisas são feitas, o que quer dizer que fazer vírus e quebrar proteção de software faz parte do aprendizado.
+Tive o prazer de conversar com diversos alunos após a palestra, e me animou muito saber que existem pessoas no mundo acadêmico considerando a possibilidade de escovar bits como um meio de vida. Espero que muitos pesquisem e testem seus conhecimentos em torno da arte da Engenharia Reversa e, em casos extremos, entrem em contato comigo, pois estarei feliz em responder dúvidas pontuais ou direcionar melhor o aprendizado.
 
-Se houverem interessados o suficiente poderei ministrar uma palestra online, para ilustrar os slides e tirar dúvidas. Lembrando que isso não inclui as perguntas "como eu quebro o programa X" ou "faz um vírus pra mim".
+O que eu aprendi durante o evento foi que a Unifei já é um polo de engenharia dedicada à formação completa dos seus alunos e uma base de pesquisas realmente interessantes. No entanto, eles querem mais, e me parece que o futuro reserva muitos desafios e conquistas naquela região no que diz respeito à P&D de novas tecnologias em um grau de maturidade que o país, infelizmente, ainda não foi capaz de atingir.
+
+Tudo isso, contudo, depende do grupo dos focados professores e organizadores do evento, cuja companhia tive o privilégio de compartilhar. É preciso tirar o chapéu para o que estão fazendo em Itajubá. E preciso agradecer a Rodrigo Almeida pelo convite para a palestra; foi de fato uma experiência única conhecer o campus e a maravilhosa cidade mineira.
 

@@ -1,103 +1,24 @@
 ---
-categories: []
-date: '2012-09-27'
-tags: null
-title: eXtreme Go Horse
+categories:
+- writting
+date: '2018-05-23'
+link: https://www.imdb.com/title/tt2543472
+tags:
+- movies
+title: Extraordinário
 ---
 
-O Go Horse Power (GHP) foi criado por um blogue hoje extinto. As premissas dessa nova metodologia de desenvolvimento era que o projeto fosse feito da maneira mais rápida possível.
+São tão cansativos aqueles filmes que insistem em fazer o espectador chorar apenas "porque sim" que quando vem o primeiro choro de Extraordinário ele é tão natural, tão coisa simples, tão "uma criança diria isso", que você chega a perdoar todas as vezes que o filme pretende levanta a bandeira da diversidade e de todos merecerem uma medalha pelo simples fato de existirem.
 
-Contudo, eles não contavam com a versão turbinada do desleixo humano.
+Isso não quer dizer que este é um filme que vai além do drama americano de superar adversidades quando as adversidades são apenas alguns arranhões na pele. Este é exatamente o tipo de filme americano que faz os americanos sentirem auto-piedade, por terem que sobreviver a "first world problems", ou terem que sobreviver à dura tortura de criar filhos e desistir de sonho, etc. Sim, às vezes pode surgir a vontade de vomitar. Ele é um Lady Bird para a família (incluindo crianças), que discute com propriedade microagressões como se elas fossem reais. Este filme, assim como 13 Reasons Why, problematiza situações as forçando, mas diferente da série mimimi da Netflix, as crianças, os jovens e os adultos neste filme são adoráveis.
 
-A eXtreme Go Horse (XGP) é o suprassumo das metodologias do mercado brasileiro de desenvolvimento. Quem nunca trabalhou em uma empresa gerida por essas regras? (Bom, pelo menos XGH pelo jeito tem até controle de fonte, algo que era até meio raro uns anos atrás):
+E por serem adoráveis, entendemos o problema de cadas um deles, e conseguimos nos conectar com talvez a maioria deles, e entender cada superação. O filme é dividido em capítulos com o nome de cada personagem que ele pretende analisar. Não é um filme que se concentra no drama de uma criança apenas que nasceu com uma doença genética que distorce seu rosto, mas sobre como isso afeta a vida de todos em volta, como a irmã mais velha, a mãe superprotetora, as crianças amigas e as inimigas. Todos possuem um motivo para fazer o que fazem. Menos o vilão-mirim, claro. Este é maldade pura e precisa servir de exemplo do que não ser na vida.
 
-### 1- Pensou, não é XGH
+O arco que mais gosto, apesar de achar sua conclusão exagerada (como quase todos os arcos do filme) é a de Via. A irmã mais velha. Interpretada por Izabela Vidovic, ela é a única que não precisa de ajuda na composição do seu personagem. As câmeras apenas focam em sua cara e na sua forma de relevar o fato de que não recebe atenção devida de seus pais desde que seu irmão e suas 40 cirurgias sugaram todas as atenções familiares. Ela finge ser filha única não pelo peso de ter um irmão deformado, mas de ter um irmão que se torna rapidamente alvo das atenções. A sua insistência em ser correta mesmo sendo deixada de lado e ajudar o irmão é a recompensa que todo pai e mãe deveriam aspirar ao criar seus filhos. Por outro lado, o arco de sua amiga, Miranda, é artificial e desnecessariamente condolente, problematizando a vida de uma adolescente com pais separados. Como se não houvesse problemas o suficiente no filme para problematizar. Isso lembra quando adaptações de romances podem inchar desnecessariamente.
 
-XGH não pensa, faz a primeira coisa que vem à mente. Não existe segunda opção, a única opção é a mais rápida
+Mas este é um filme leve que tem a missão de explorar o sutil tema de relacionamentos humanos, sob todos os prismas. Há momentos deliberadamente forçados que mantém a história nos trilhos, e usar seus personagens como títulos não foi a melhor escolha. Nem a medalha final. Isso soa tão Ron Howard que dá sono só de pensar. Porém, os diálogos são caprichados, muitos deles podem ser colocados na boca de crianças, e o elenco mirim está afiado, orquestrado e enquadrado pelo diretor Stephen Chbosky (As Vantagens de Ser Invisível) em um nível de perfeição que nos remete continuamente em como tudo aquilo é humano e familiar. Dá um quentinho no coração.
 
-### 2- Existem três formas de se resolver um problema
+Olhe a grande curva do protagonista, Auggie, que na pele de Jacob Tremblay e da equipe de maquiagem rouba a atenção em pequenas cenas no ponto de querermos vermos mais. Embora o filme force a família a enxergar o valor da história que acabamos de assistir, Auggie não é estúpido como o filme pensa de seus espectadores, e ele brilha quando eles passam por apuros na floresta nas férias de verão e quando um menino que ele sabe não ser mandado pelo diretor reconhece sua amizade forjada por acontecimentos reais, e não uma mera formalidade nem a pressão de grupo. Esse é o momento mais valioso de todo o longa, quando Auggie se emociona e sabemos o porquê sem que nos digam.
 
-Estas são: a correta, a errada e a XGH, que é igual à errada, só que mais rápida. XGH é mais rápido que qualquer metodologia de desenvolvimento de software que você conhece (Vide Axioma 14).
-
-### 3- Quanto mais XGH você faz, mais precisará fazer
-
-Para cada problema resolvido usando XGH, mais uns 7 são criados. Mas todos eles serão resolvidos da forma XGH. XGH tende ao infinito.
-
-### 4- XGH é totalmente reativo
-
-Os erros só existem quando aparecem.
-
-### 5- XGH vale tudo, só não vale dar o toba
-
-Resolveu o problema? Compilou? Commit e era isso.
-
-### 6- Commit sempre antes de update
-
-Se der merda, a sua parte estará sempre correta.. E seus colegas que se fodam.
-
-### 7- XGH não tem prazo
-
-Os prazos passados pelo seu cliente são meros detalhes. Você SEMPRE conseguirá implementar TUDO no tempo necessário (nem que isso implique em acessar o BD por um script malaco)
-
-### 8- Esteja preparado para pular fora quando o barco começar a afundar¿
-
-Ou coloque a culpa em alguém ou algo. Pra quem usa XGH, um dia o barco afunda. Quanto mais o tempo passa, mais o sistema vira um monstro. O dia que a casa cair, é melhor seu curriculum estar cadastrado na APInfo, ou ter algo pra colocar a culpa
-
-### 9- Seja autêntico, XGH não respeita padrões
-
-Escreva o código como você bem entender, se resolver o problema, commit e era isso
-
-### 10- Não existe refactoring, apenas rework
-
-Se der merda, refaça um XGH rápido que solucione o problema. O dia que o rework implicar em reescrever a aplicação toda, pule fora, o barco irá afundar (Vide Axioma 8)
-
-### 11- XGH é totalmente anárquico
-
-A figura de um gerente de projeto é totalmente descartável. Não tem dono, cada um faz o que quiser na hora que os problemas e requisitos vão surgindo (Vide Axioma 4)
-
-### 12- Se iluda sempre com promessas de melhorias
-
-Colocar TUDO no código como uma promessa de melhoria ajuda o desenvolvedor XGH a não sentir remorso ou culpa pela cagada que fez. É claro que o refactoring nunca será feito (Vide Axioma 10)
-
-### 13- XGH é absoluto, não se prende à coisas relativas
-
-Prazo e custo são absolutos, qualidade é totalmente relativa. Jamais pense na qualidade e sim no menor tempo que a solução será implementada, aliás¿ não pense, faça!
-
-### 14- XGH é atemporal
-
-Scrum, XP¿Tudo isso é modinha. O XGH não se prende às modinhas do momento, isso é coisa de viado. XGH sempre foi e sempre será usado por aqueles que desprezam a qualidade
-
-### 15- XGH nem sempre é POG
-
-Muitas POG¿s exigem um raciocínio muito elevado, XGH não raciocina (Vide Axioma 1).
-
-### 16- Não tente remar contra a maré
-
-Caso seus colegas de trabalho usam XGH para programar e você é um coxinha que gosta de fazer as coisas certinhas, esqueça! Pra cada Design Pattern que você usa corretamente, seus colegas gerarão dez vezes mais código podre usando XGH.
-
-### 17- O XGH não é perigoso até surgir um pouco de ordem
-
-Este axioma é muito complexo, mas sugere que o projeto utilizando XGH está em meio ao caos. Não tente por ordem no XGH (Vide Axioma 16), é inútil e você pode jogar um tempo precioso no lixo. Isto fará com que o projeto afunde mais rápido ainda (Vide Axioma 8). Não tente gerenciar o XGH, ele é auto suficiente (Vide Axioma 11), assim como o caos.
-
-### 18- O XGH é seu brother, mas é vingativo
-
-Enquanto você quiser, o XGH sempre estará do seu lado. Mas cuidado, não o abandone. Se começar um sistema utilizando XGH e abandoná-lo para utilizar uma metodologia da moda, você estará fudido. O XGH não permite refactoring (vide axioma 10), e seu novo sistema cheio de frescurites entrará em colapso. E nessa hora, somente o XGH poderá salvá-lo.
-
-### 19- Se tiver funcionando, não rela a mão
-
-Nunca altere, e muito menos questione um código funcionando. Isso é perda de tempo, mesmo porque refactoring não existe (Vide Axioma 10). Tempo é a engrenagem que move o XGH e qualidade é um detalhe desprezível.
-
-### 20- Teste é para os fracos
-
-Se você meteu a mão num sistema XGH, é melhor saber o que está fazendo. E se você sabe o que está fazendo, vai testar pra que? Testes são desperdício de tempo, se o código compilar, é o suficiente.
-
-### 21- Acostume-se ao sentimento de fracasso iminente
-
-O fracasso e o sucesso andam sempre de mãos dadas, e no XGH não é diferente. As pessoas costumam achar que as chances do projeto fracassar utilizando XGH são sempre maiores do que ele ser bem sucedido. Mas sucesso e fracasso são uma questão de ponto de vista. O projeto foi por água abaixo mas você aprendeu algo? Então pra você foi um sucesso!
-
-### 22- O problema só é seu quando seu nome está no Doc da classe
-
-Nunca ponha a mão numa classe cujo autor não é você. Caso um membro da equipe morra ou fique doente por muito tempo, o barco irá afundar! Nesse caso, utilize o Axioma 8.
-
-Este texto foi copiado daqui e daqui. Não existem donos conhecidos do XGH (já devem ter morrido de desgosto). Fiquei com medo de não encontrar mais essa metologia, que é pouco divulgada e muito útil.
+Este é um filme em que ninguém se machuca e a vida segue seu rumo. A problematização dos relacionamentos humanos está no ar e todos merecem uma medalha. Se você conseguir sobreviver a isso, terá como recompensa um dos poucos filmes humanos do ano que fala de maneira honesta, sem rodeios, sobre a aventura da convivência, do amadurecimento, da tolerância e do desafio de todos nós de enxergar uma realidade em que todos possam se encaixar, independente dos problemas físicos ou emocionais. E isso... é extraordinário.
 

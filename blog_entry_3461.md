@@ -1,16 +1,14 @@
 ---
 categories:
 - writting
-date: '2011-11-03'
-link: https://www.imdb.com/title/tt1307010
+date: '2021-05-15'
+link: https://www.imdb.com/title/tt8231064
 tags:
-- movies
-title: Shocking Blue
+- animes
+title: Shinya! Tensai Bakabon
 ---
 
-Com um elenco coeso e uma direção segura, o filme holandês da safra do ano passado conseguem empolgar demasiadamente correto em seus 82 minutos de projeção. A única limitação acaba sendo a própria narrativa, que ganha ares despretensiosos, mas que evoca exatamente isso em sua maioria, tornando-se enfadonho, embora nunca desinteressante.
+Essa continuação de uma série curta de anime dos anos 70 acompanha uma família em torno do inquieto pai Bakabon. O primeiro episódio é uma espécie de homenagem metalinguística ao original, o que deve ser melhor para quem conhece a fonte. Para quem chegou agora como eu é metade engraçado: a metade que não depende de referências passadas.
 
-Fazendo jus ao seu nome, a fotografia é competente em elencar funções para as cores (como o próprio azul/frio do título, note isso, em detrimento ao vermelho/quente), e se privilegia de horizontes verdes e floridos das acolhedoras terras da Holanda.
-
-No entanto, o que incomoda acaba sendo a auto-sabotagem de seu roteiro, tão sutil que se desmancha ao menor retoque de seus personagens.
+O pai quer mudar detalhes no anime para que seja uma nova estréia completamente nova. Então ele muda o bigode, o corpo, o gênero. Ele troca o filho por um transeunte, e o filho e seus cinco irmãos gêmeos produzidos em laboratório viram os transeuntes. Na gana de ser uma celebridade de respeito ele termina tentando fazer seu filho caçula ser preso por tráfico de drogas, pois é o que toda celebridade de respeito deve ter no currículo. Contando para vocês soa mais engraçado que assistindo, porque o ritmo, o tom e a própria referência deslocam a piada para uma espécie de Family Guy de outra dimensão. É caótico demais e se perde na construção.
 

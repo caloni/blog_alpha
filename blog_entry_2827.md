@@ -1,27 +1,21 @@
 ---
 categories:
 - writting
-date: '2016-09-13'
-link: https://www.imdb.com/title/tt5125930
+date: '2016-10-25'
 tags:
-- cinemaqui
 - movies
-title: O Silêncio do Céu
+title: O Silêncio da Noite É Que Tem Sido Testemunha das Minhas Amarguras
 ---
 
-O Silêncio do Céu é mais uma incursão do diretor Marco Dutra ("Trabalhar Cansa") em um filme que flerta entre o drama e o terror. Porém, nesse caso não há o apelo ao sobrenatural, mas a uma substância social que permeia cada um de nós: o medo.
+Esta é uma antologia necessária do sertão nordestino. Há muito que repentistas ficam às margens dos "verdadeiros poetas". Pois bem. Este documentário deve corrigir parte do desconhecimento geral de que a poesia de repente possui apenas rima e métrica. Esses são detalhes que reforçam a mensagem, mas é o espírito que importa. E neste filme há de monte. Começando pelo título, ele próprio um desafio ao repente.
 
-E esse medo vem na forma da ausência de diálogos entre pessoas que se amam, o que o torna mais poderoso ainda. A história começa com a cena de um estupro de uma mulher em posição indefesa, que pode apenas observar, submissa por dois homens armados com uma faca. Começamos o filme enxergando seu ponto de vista, mas isso logo muda para o ponto de vista de seu namorado, Mario (Leonardo Sbaraglia) que, depois sabemos, presenciou toda a cena, mas foi incapaz de agir.
+Narrado pelos próprios repentistas, que contam em sua maioria das lendas que passaram pela região onde fica a cidade de Santo Antônio do Egito, a história e os causos de cada um vai aos poucos colorindo a paisagem onde vemos apenas pobreza nordestina. Começando em uma feira, palco de muitos repentistas, e passando casa a casa de nomes dessa arte, aos poucos o diretor Petronio Lorena vai "povoando" a roda com mais e mais pessoas. É um almoço de domingo, um encontro casual ou até um evento maior. Lá estão eles, prontos para tirar de cabeça versos não apenas corretos, mas tirados do coração, com uma alma coletiva que vai sendo descoberta aos poucos, com cada pequena passagem.
 
-Mario, dominado por uma imensidão de fobias, que vão de escorpiões a aviões, aprendeu a viver através de emular as outras pessoas, enquanto sobrevivia no porão o seu eu verdadeiro, aterrorizado e petrificado de medo. Essa sua personalidade alternativa se tornou tão forte após o evento traumatizante que assumiu seu controle, mas  ele começou a duvidar se era tão forte assim depois que viu a capacidade de sua namorada, Diana (Carolina Dieckmann), conseguir emular uma vida normal após o trauma, e mesmo assim questiona as atitudes de Mario, mesmo que através de imperceptíveis micro expressões em seu rosto e olhar.
+O uso de diferentes ângulos, mas quase sempre do lado de uma mesa com álcool e uns petiscos serve também para sugerir o habitat natural desses artistas: o bar. Há também na paisagem degraus pintados com versos e lendas que ficam sendo contadas e recontadas até o ponto de se tornarem imortais. A sensação é que não é apesar da pobreza que eles existem, mas por causa dela. Como todo artista, o sofrimento, ou o uso das drogas, é o combustível para suas criações.
 
-Toda essa camada subjetiva só funciona graças a podermos escutar os pensamentos de Diana, Mario e Diana novamente, em uma história tensa e conduzida com um controle absoluto do mise en scene. A dupla competente de atores consegue evocar tudo que é necessário para que esse filme quase sem diálogos significativos pode evocar.
+A maioria dos poetas é homem, mas há uma passagem ou outra de algumas mulheres, tão sofridas e tão geniais quanto. Há uma poeta maldita no meio deles que discursa sua arte profana e deliciosa a respeito de seus casos sexuais. Quase como uma versão sertaneja dos mutantes e astros do MPB, essas pessoas faziam o folclore da região se manter vivo. Daí a importância desse filme.
 
-Há um exagero de azul celeste nos cenários que quer dizer que aquele dia com céu azulado ficou permeando os dias seguintes daquela família, influenciando  para sempre suas vidas. Só que em vez de significar paz de espírito, o azul aqui é o maldito lembrete daquela tarde horrível que ambos passaram. Há um punhado de simbolismos por trás dos elementos em cena, como o cacto e o vermelho, e se torna inútil tentar desvendar todos eles quando o aspecto onírico (e de pesadelo) começa a tomar conta da rotina, além deste ser um filme ambicioso que almeja atingir algo mais que uma simples história. Ele pretende desvendar o medo mais íntimo do ser humano: o dele mesmo.
+Porém, não espere muita lógica narrativa. Ela também vai surgindo, de improviso. É difícil saber quando o filme vai acabar, já que ele tem alguns falsos finais, com nomes surgindo a esmo e uma influência cinematográfica um pouco caótica -- fruto desses artistas de esquerda avessos à razão, ainda que artística. De qualquer forma, o trabalho fica com a sensação de incompleto.
 
-Quando uma pedra do jardim é acidentalmente colocada no centro da casa, em cima de uma mesa para todos verem, e isso se torna um elemento recorrente nas cenas, mas nunca é citada por nenhuma daquelas pessoas, é porque há algo muito errado naquele lar, ou essa pedra simboliza justamente isso. É esse o nível de beleza dos símbolos que estamos falando.
-
-E o Marco Dutra consegue com a ajuda desses símbolos, de uma fotografia mestre (Pedro Luque) em dominar as luzes e sombras, e uma engenharia de som rebuscada e significativa -- que nos remete ao ótimo O Som Ao Redor -- remeter a um terror psicológico de arrepiar a mente. O som é feito pelos irmãos Guilherme e Gustavo Garbato com uma tecnicidade de fazer arrepiar em vários momentos. Note o barulho repetitivo dos brinquedos do parque ao lado de onde trabalha Diana, e como o barulho do escapamento do carro em um momento-chave da trama toma conta de todas as atenções (e é usada como trilha sonora). Ao mesmo tempo note o naturalismo de Dutra em montar suas cenas, que mesmo apelando para supercloses e objetos na penumbra consegue evitar uma edição tresloucada; a passos leves caminhamos em direção ao terror.
-
-Há algo de Hitchcock em O Silêncio do Céu, seja na perseguição de carros ou na maneira inquietante com que Mario adentra um mundo estranho que vai aos poucos se tornando terrivelmente familiar. Não é um filme para muitos, pois seu desfecho não satisfaz os que gostam de histórias amarradas com tudo resolvido. Porém, se engana desde o começo quem acha que haverá um final feliz em uma história que começa com um estupro.
+O que de longe é uma coisa boa. Talvez esse seja o começo de uma antologia ainda maior, com mais regiões e mais artistas. Tomara. Já é tempo de sair da pseudo-arte urbana, que se finge de cult soando confusa. Aqui há métrica, aqui há postura, aqui há motivos de sua existência. O repente, espero, não morreu. Apenas vai mudando de formato.
 

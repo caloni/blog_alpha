@@ -1,24 +1,28 @@
 ---
 categories:
 - writting
-date: '2016-06-21'
-link: https://www.imdb.com/title/tt1670345
+date: '2016-05-03'
+link: https://www.imdb.com/title/tt3754940
 tags:
 - movies
-title: Truque de Mestre
+title: Truman
 ---
 
-Abracadabra! Surge um péssimo filme. Embalado naquele formato de reviravoltas, este filme não contém nenhuma, pois ele nunca nos faz crer em X para depois revelar Y. Todas suas "bombásticas" revelações são simplesmente isso: revelações. Geralmente algo novo que não tinha qualquer relação com o que foi mostrado até agora, e se tem alguma, é jogada no ar como uma carta qualquer.
+Esse talvez seja um dos mais decepcionantes filmes com Ricardo Darín, mas não deixa de ser interessante em alguns momentos, como quando discute a diferença entre ser tratado como um ser humano ordinário e um ser humano moribundo.
 
-A história gira em torno de quatro talentosos prestidigitadores do show business que recebem o chamado de uma organização milenar chamada O Olho, e é assim que se conhecem. Nenhum deles possui muita personalidade, apenas diferentes habilidades na arte de iludir (ah, e um romance não-resolvido que continua não-resolvido o filme inteiro). A câmera gira constantemente em torno deles e a plateia constantemente vai ao delírio, aplaudindo e gritando, até quando é mostrado o inocente truque do coelho na caixa espelhada.
+A história é simples e foi feita para ser tocante. Tem até um cachorro -- que leva o título. Seu dono, Julián, está há um ano combatendo um câncer do pulmão e resolveu desistir. Seu cunhado, a pessoa mais próxima dele nesse momento, vive do outro lado do mundo. Ao visitá-lo, feridas serão abertas e questões resolvidas.
 
-Esse é um filme que tenta se erguer pelo elenco, que se dá ao luxo de ter Michael Caine e Morgan Freeman digladiando-se em torno do grupo de mágicos (não fica muito claro se o personagem de Freeman é contra o grupo de mágicos ou contra personagem de Caine, nem muito a motivação de Caine pelo grupo: esse é um embate que vale pelo próprio embate). Se dá ao luxo também de criar uma premissa de ilusionistas com a síndrome de Robin Hood sem maiores explicações. O responsável pelo plano executado pelos Quatro Cavaleiros (como são chamados) nunca se revela, mas nunca sentimos falta, o que acaba tornando a última revelação não apenas forçada, mas broxante.
+Porém, para seu cunhado e melhor amigo, seu senso prático (e divertidamente egoísta) lhe diz que tudo está mais ou menos resolvido: não se tira a liberdade de alguém só porque se gosta muito desse alguém (ou, nesse caso, gosta, mas tem bons motivos para criticá-la). Há pessoas mais sentimentais, apegadas, que irão desenvolver seu ódio pessoal por não poder controlar o ente querido.
 
-Aqui vale uma menção desonrosa à direção/edição epilética de Louis Leterrier (acostumado a projetos encomendados como o remake de Fúria de Titãs e um filme de Jet Li, Cão de Briga). Mesmo com todas as falhas de roteiro escrito a seis mãos, algumas sequências idealizadas por Leterrier poderiam se beneficiar de uma ação quase constante. Porém, todas as perseguições, seja a pé ou de carro, sofrem de uma desorientação espacial problemática do começo ao fim, nunca sendo possível saber o que, como, onde. Na perseguição de carros isso fica particularmente irritante, pois todos os carros são iguais.
+Esse apunhado de clichês e cutucadas pessoais está bem embalada em uma história leve, em que crescem como personagens os dois principais, mas lhe falta situações dignas das atuações do elenco.
 
-Mas voltemos ao roteiro, pois ele consegue piorar ainda mais o que já havia de medíocre no início da história. Você nunca irá encontrar, por exemplo, diálogos diretos, mas apenas floreios que revelam os delírios de auto-importância do projeto. Estamos falando de personagens que teoricamente teriam algo de importante a dizer, mas que permanecem falando de coisas vagas ou simplesmente pedestres. E se o grande criador de tensão é o "próximo grande truque", ele simplesmente não nos interessa depois que o primeiro se revelou tão idiota.
+E o cachorro, por mais que se pense nele, é muito difícil para encontrar um significado. Este é um filme simbólico de difícil acesso, se preferir, ou um drama água-com-açúcar. Em ambos os casos, simplesmente medíocre.
 
-E por falar em floreio, não bastasse a edição de som capenga, que deixa vozes e efeitos sem muito balanço entre eles (às vezes a música é desnecessária alta, outras os diálogos), a trilha sonora de Brian Tyler (Homem de Ferro 3) é uma mistura de Código da Vinci com Jogos Vorazes, mas sem remeter nem a um nem a outro. Repetitiva e monótona, serve perfeitamente a séries genéricas de televisão. Como estamos em um filme de duas horas, bem, serve para entediar.
+Note como ele tenta puxar assunto de onde não há. Uma família de lésbicas que adota um menino russo. Um filho morando na Holanda. Qual o significado de tudo isso? A universalidade da morte? A morte sequer é citada; apenas a decisão de uma pessoa de não lutar mais contra ela.
 
-Truque de Mestre é o filme que, por comparação, eleva ainda mais o status de O Grande Truque a clássico cinematográfico sobre mágicos. Seus tropeços não são irritantes, mas frustrantes. Não há nada a esperar do filme, e ele realmente não entrega nada. Apenas um filme de ação genérica que se veste como um grande golpe de ilusionismo. Abracadabra! Você perdeu duas horas de sua vida.
+Darín, como sempre, representa um ser humano adequado para o que vive. Impaciente e surpreso com a reação das pessoas em sua volta. De certa forma, me lembra um amigo meu que não possui o famoso "simancol", mas acaba divertindo exatamente por isso.
+
+Porém, mais divertido ainda, apesar de muitas vezes soar repetitivo, é seu amigo. Interpretado por Javier Cámara como alguém que simplesmente veio fazer um favor, a sua luta interna entre o que ama e o que odeia no amigo é o ponto forte de sua amizade.
+
+Criando mais personagens secundários do que deveria, simplesmente para florear um pouco mais uma história que não sabe o que dizer de um tema delicado, Truman vira um passatempo leve demais para ser levado a sério, mas constitui uma diversão despretensiosa e livre de choro à toa. A não ser que você se emocione com qualquer coisa.
 

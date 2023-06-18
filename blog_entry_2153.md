@@ -2,17 +2,13 @@
 categories:
 - writting
 date: '2021-05-22'
-link: https://www.imdb.com/title/tt14536160/
+link: https://www.imdb.com/title/tt10468230/
 tags:
 - series
-title: 'Love, Death & Robots: Snow in the Desert'
+title: 'Love, Death & Robots: Pop Squad'
 ---
 
-Haha, que trocadilho genial. Muito bom, mesmo. Quase tão bom quanto essa história tão original e tocante.
+Love, Death & Robots. Os robôs do título são os criadores desse episódio, que se aproveita de todo clichê solidificado do estilo drama policial noir futurista para falar sobre uma época egoísta onde a humanidade pode viver para sempre, mas por causa disso precisam exterminar todas as crianças que ousem nascer.
 
-Pelo menos tem sangue, um pouco de sexo e cérebro voando. Não necessariamente nessa ordem. Eu não sei qual a prioridade nesse workshop de computação, mas a pele humana tem melhorado bastante entre as escurinhas, mas os caucasianos ainda estão um pouco estranhos. Falta o ar nojento.
-
-A fotografia é tão estilizada que as areias desse planeta inóspito não existe. É um sujo esteticamente impecável, cheio de sombras para você não reparar nesses detalhes.
-
-Tanta liberdade de câmera e os diretores insistem em usar a convencional, como se tivesse que colocar um tripé em algum lugar. É estranho poder tanto e não fazer nada. O cinema pede uma união dos talentos, não uma competição entre tech e arte.
+A história é triste, no mau sentido, mas piora com os efeitos visuais desses semi-humanos computadorizados. Você não pode sentir pena deles com suas expressões mecanizadas e ângulos manjados. Atores humanos poderiam se beneficiar dessa mini-história. Computação, está bem longe disso.
 

@@ -1,18 +1,36 @@
 ---
-categories:
-- writting
-date: '2012-04-02'
-link: https://www.imdb.com/title/tt0278504
+categories: []
+date: '2017-05-28'
 tags:
-- movies
-title: Insônia
+- lists
+title: Insights sobre produtividade, auto-ajuda e melhora contínua
 ---
 
-Em um momento em que Hollywood se esqueceu que os bons policiais/suspenses quase sempre vem dotados de uma carga dramática e multidimensional em seus personagens, o segundo trabalho de Christopher Nolan na direção vem lembrar aos cinéfilos que é possível construir uma narrativa inteligente e ainda assim ser envolvente pela sua ação.
+É muito comum programadores, hackers e nerds em geral procurarem bons artigos que os tornem pessoas mais produtivas sem sacrificar a saúde física e mental. No decorrer dos anos me deparei com umas boas leituras. Tão boas que de vez eu quando eu volto a lê-las, e tão boas que acho que vale a pena compartilhar aqui:
 
-Fazendo como David Fincher em [Os Homens que Não Amavam as Mulheres] e refazendo um longa sueco (na verdade, também norueguês) de 1997, a história gira em torno de uma cidade em que o sol não se põe (no original, na Noruega, aqui, no Alaska) e um crime envolvendo uma jovem brutalmente assassinada. Quando os detetives Will Dormer (Al Pacino) e Hap Eckhart (Martin Donovan) chegam ao local, no entanto, o clima de tensão já estava no ar e apenas piora em terra.
+ - 10 Passos para a Estratégia Kaizen
+ - 5 Unusual Ways to Start Working Smarter, Not Harde,  Backed by Science
+ - The Mechanics of Emotion
+ - Best Writing Advice for Engineers I've Ever Seen. Period.
+ - How to Beat Procrastination
+ - How to Make Mistakes
+ - How to be a great software developer
+ - News is bad for you and giving up reading it will make you happier
+ - O cansaço mental
+ - Scott Adams: How to Be Successful
+ - Sleep Everything You Need To Know
+ - Technology is Heroin
+ - The 10 commandments for happiness and success
+ - What You'll Wish You'd Known
+ - FLOW - a productivity hack for life
+ - Flow (psychology))
+ - Jessica Livingston's Pretty Complete List on How Not to Fail
+ - Negative Emotions Are Key to Well-Being
+ - Optimizing Your Development Environment
+ - Start by Understanding the Emotions Involved
+ - Willpower Improvement
 
-Sem revelar spoilers fica difícil falar sobre a trama, mas podemos dizer que a relação entre Al Pacino e o misterioso assassino consegue produzir as melhores cenas, cheias de significado.
+Espero que essa lista te ajude de alguma maneira.
 
-[Os Homens que Não Amavam as Mulheres]: {{< relref "millennium-os-homens-que-nao-amavam-as-mulheres" >}}
+Fonte: Hacker News, internet, horas e mais horas de procrastinação, horas e mais horas perdidas de sono.
 

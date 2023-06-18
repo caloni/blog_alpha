@@ -1,20 +1,15 @@
 ---
-categories:
-- writting
-date: '2017-07-04'
-link: https://www.imdb.com/title/tt5295524
-tags:
-- series
-title: Crashing
+categories: []
+date: '2016-03-01'
+tags: null
+title: Crash no Windows Explorer
 ---
 
-Eu já falei que a filmografia britânica é obviamente superior aos puritanos estadunidenses, seja no cinema ou em séries de TV. E Crashing não é exceção. Aliás, além de regra, é uma prova que, por contraste, besteiras como How I Met Your Mother já se beneficiariam só de serem produzidas na terra da rainha. A desvantagem dos ingleses é que suas séries são curtas demais.
+Quem nunca se deparou com um sistema Windows em que o Explorer travasse ou crashasse de vez em quando? O problema com esse tipo de problema (recursividade...) é que ele pode ocorrer por infinitos motivos. Tão infinitos quanto os shell extensions, aquelas DLLs irritantes que são carregadas automaticamente por todo processo explorer.exe, e que portanto podem gerar infinitas maneiras de travar seu shell.
 
-Essa tem em sua primeira temporada seis episódios de meia-hora cada. Apresenta casais inusitados vivendo em um prédio abandonado. Seu núcleo é um triângulo amoroso previsível e mesmo assim divertido. Os personagens da série parecem não fazer muito esforço e naturalmente são divertidos.
+Um que estava me incomodando já há algum tempo era um deadlock que acabava em restart do Explorer (isso é automático no Windows 10). Para verificar o que era, antes configurei a geração de dumps automática para que qualquer novo crash gerasse um arquivo de dump para eu analisá-lo. Só passou algumas horas para ter algo que pudesse trabalhar: um dump pode ser analisado pelo Visual Studio (qualquer versão) ou depuradores como WinDbg (do pacote Debugging Tools for Windows). Como análise exploratório, apenas o Visual Studio é suficiente, pois ele pode exibir coisas como os módulos carregados pelo processo e a pilha de chamadas da thread faltosa.
 
-Este é o velho clichê dos esquisitões cujas piadas funcionam porque a narrativa é menos importante que a interação entre as pessoas. O casal principal é formado por uma moça certinha e o namorado que já morou com sua melhor amiga como se ela fosse sua irmã (Phoebe Waller-Bridge, daquela comédia romântica com Simon Pegg), mas ela agora vem em busca de romance. Aquela crise do tempo perdido, sabe?
+No caso do dump que eu estava analisando, verifiquei que a thread que gerou o travamento continha uma DLL da NVidia. Essa DLL, de acordo com o AutoRuns, estava cadastrada no registro como um Context Menu Handler para o shell. Depois de desativá-la e iniciar uma nova instância do Explorer foi possível verificar que a DLL não estava mais sendo carregada pelo processo.
 
-E daí de repente eles estão compartilhando uma parede, ela faz ciúmes pra ele com um gay enrustido que se mete na vida de um indiano e seu namorado perfeitinho. Além disso, é claro que temos uma francesinha-clichezona, artista, usa expressões na sua língua-mãe e é apaixonada por um tiozinho divorciado (Adrian Scarborough!), em uma correlação com o típico trauma de infância.
-
-Crashing não é divertido de se descrever. Ele é mais vivo se assisti-lo. Então pegue o episódio piloto e assista. É curto. E dali em diante só melhora.
+E "magicamente" o travamento não aconteceu nos próximos dias =).
 

@@ -1,21 +1,20 @@
 ---
 categories:
 - writting
-date: '2021-10-24T21:50:33-03:00'
+date: '2011-08-29'
+link: https://www.imdb.com/title/tt1133985
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Laranjas Sangrentas
+title: Lanterna Verde
 ---
 
-Nem só de drama social vive a Mostra. Laranjas Sangrentas é uma comédia com drama social, olha só. Mas não é só isso. Ela é bem-humorada porque é absurda e não quer finais felizes, mas finais pensantes. Nisso estamos todos de acordo.
+Cada vez mais começo a acreditar que o uso de muitos roteiristas (nesse temos incríveis 7 pessoas colaborando!) acaba por nivelar por baixo uma história até com um certo potencial. Nesse novo filme de super-herói, a impressão geral que fica é que, ao tentar explicar tudo detalhadamente, para não restar dúvidas aos espectadores, foi feito um filme cuja chatice é inversamente proporcional ao número de efeitos visuais.
 
-Essa é uma mescla de personagens que se cruzam, blá-blá-blá, mas mais importante que isso são os temas variados. De política a politicamente correto passando por drama senil e as maravilhas dos hormônios na puberdade, este segundo longa de Jean-Christophe Meurisse constrói dois momentos tarantinescos icônicos sem ser um plágio. É mais uma releitura da linguagem. Até divisão de tela é usado no momento certo. Ambos os momentos giram em torno de um personagem que aparece no filme apenas para isso. Ele é instrumental e invisível, representa "o monstro".
+Dirigido pelo diretor do novo Cassino Royale (para provar que sucesso não é linha de chegada), Lanterna Verde conta a história de Hal Jordan, um piloto de caças que, irresponsável e fanfarrão, acaba por ser escolhido (ao melhor estilo Senhor dos Anéis) pelo anel que representa um grupo de seres intergalácticos que dividiram as galáxias em setores e pretendem manter a paz com o uso do poder que emana da vontade inerente a todo ser vivo, potencializado pelo uso dos anéis que os conectam a poderosas lanternas. São parte da criação dos seres mais avançados do universo, os guardiões, que são imortais e criaram essa congregação para evitar que o mal prevalecesse no mundo, ou algo que o valha: ironicamente, os conceitos de bem e mal, ou suas motivações, nunca são muito bem explicadas.
 
-Uma cena é praticamente a mesma de Pulp Fiction, quando o líder de uma gangue é currado. Nesse o líder é um ministro da França, mas isso apenas coloca o ser currado sob outra perspectiva. Em algum momento nos faz lembrar do episódio piloto de Black Mirror, talvez.
+Por outro lado, a explicação mais interessante é o uso da cor verde como o representante da força de vontade, uma vez que é de fato muito ingênuo imaginar que milhares de espécies evoluídas da galáxia enxergariam uma determinada frequência da luz da mesma forma. Isso nos dá a liberdade de passar de ficção científica para fábula, ainda que o filme tente de todas as formas tornar a tal congregação verossímil (como a forma dos lanternas verdes se locomoverem tão rapidamente pelo universo).
 
-A segunda cena é a mais catártica, hilária e fantasiosa. Uma licença poética das feministas que defendem vingança violenta contra homens violentos. Aliás, quem defende isso nem os chamam de homens. Animais, mesmo. Dou todo o apoio. Pela maior dor e sofrimento possível, por favor. Essa cena é imperdível, apesar de perder as estribeiras do real, fugindo um pouco desse tecido levemente desproporcional que é o filme.
+Hal Jordan (Reynolds), nesse contexto, vira um reles instrumento dessa força, mas, mesmo assim, é a sua motivação pessoal (?) e sua imaginação a força motriz que irá lhe dar os verdadeiros poderes de um super-herói: a capacidade de materializar qualquer coisa com essa força.
 
-No meio de algumas loucuras o que mais sobressai no filme é um frescor de linguagem e diálogos soltos, cotidianos, que nos fazem pertencer à discussão. O roteirista Jean-Christophe não está interessado em defender lados, mas pincelar um pouco de contemporaneidade de todos os lados. Há representação para todo mundo nesse caos que estamos vivendo. Um caos divertido para alguns (eu incluso) e trágico para a maioria (ops, foi mal). Se você faz parte da maioria, não desanime. Vai piorar. Venha assistir TV e curtir os melhores momentos da derrocada da sociedade.
+Infelizmente, nem o anel conseguiu materializar uma história que o valha. A trajetória do herói não convence, ou pelo menos não o suficiente para acreditar que o esforço de um representante dos paladinos do Universo em sua espécie mais fraca (os humanos) consegue combater a maior ameaça que já tiveram que enfrentar em toda a sua história (perceba como o uso solene das palavras apenas enfraquece mais a história e a sabota, que tem que ser enriquecida com diálogos expositivos dessa forma).
 

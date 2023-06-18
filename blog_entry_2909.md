@@ -1,140 +1,27 @@
 ---
 categories:
-- coding
-date: '2008-02-15'
+- writting
+date: '2016-02-05'
+link: https://www.imdb.com/title/tt5431016
 tags:
-- ccpp
-title: Os diferentes erros na linguagem C
+- cinemaqui
+- movies
+title: 'Os Dez Mandamentos: O Filme'
 ---
 
-Uma coisa que me espanta de vez em quando é o total desconhecimento por programadores mais ou menos experientes dos níveis de erros que podem ocorrer em um fonte escrito em C ou C++. Desconheço o motivo, mas desconfio que o fato de outras linguagens não terem essa divisão de processos pode causar alguma nivelação entre as linguagens e fazer pensar que o processo de compilação em C é como em qualquer outra linguagem.
+Assistir a esse remake da superprodução de Cecil B. de Mille (seja o de 23 ou o de 56) evoca sentimentos mistos. Se por um lado essa novela disfarçada de filme produzida pela Igreja/TV Record tem uma péssima qualidade em quase tudo que toca -- semelhante ao cajado de Deus que espalha sete pragas pelo Egito -- por outro o potencial dramático e épico que o livro/filme evocam equilibram o resultado final, que é capenga, mas é carregado nas costas por uma história milenar. Com um sentimento ainda tribal, a "inspiração divina" de antigamente hoje se revela como uma tentativa de controlar um povo através do amor incondicional aos deuses, como pregam quase todas as religiões do planeta, incluindo a judaica. Essa apela para a diferença de ter apenas um deus, o "único e verdadeiro" (e tenho certeza que quase 10 em 10 espectadores -- cristãos -- irão concordar).
 
-Porém, para começar, só de falarmos em compilação já estamos pegando apenas um pedaço do todo, que é a geração de um programa executável em C. Tradicionalmente, dividimos esse processo em três passos:
+(Aliás, é fascinante perceber como esse sentimento de dependência é tão arraigado na espécie humana, tanto que o ato de se submeter ao desejo dos seus governantes existe até hoje, mesmo que disfarçado de desejo da maioria (democracia, estou olhando para você). Se houver apenas uma novidade nesse remake é tornar a comparação entre o esoterismo antigo e a civilização ocidental contemporânea tão explícita -- ainda que de forma inconsciente. Vemos isso quando Moisés responde aos questionamentos lógicos de seu povo com "esta é a lei", como se todas as leis fossem automaticamente sãs, se esquecendo que por gerações as leis do Egito consideravam os hebreus propriedade do faraó.)
 
-  1. Preprocessamento
-  2. Compilação
-  3. Linkedição
+Mas voltando à novela: se na primeira metade fica evidente que os sofríveis efeitos visuais, a trilha sonora repetitiva e desprovida de significado, e um roteiro que quase faz um favor ao irregular elenco, em nunca exigir demais de seus atores, Os 10 Mandamentos consegue se reerguer em sua segunda metade, mas não como uma lição de fé (ou purificação da alma, como querem seus idealizadores) mas muito mais como uma propaganda anti-religião e até anti-estado, já que os argumentos contra a escravidão de homens por homens é a mesma escravidão de homens por uma entidade mágica (entidade essa criada por... homens).
 
-Vamos dar uma olhada mais de perto em cada um deles e descobrir erros típicos de cada processo.
+Curioso é entender que boa parte dessa melhora do filme se deve ironicamente aos detalhes mais sutis da produção original, como o manto vermelho/azul de Moisés, a maneira como sua barba cresce, ou até a forma mágica de Deus escrever os mandamentos. O resultado facilmente se confunde entre plágio e homenagem, e fica difícil acreditar que tudo isso seja acidental. Não me lembro se a parábola da semente, introduzida pelo pai de Moisés se encontra no conteúdo original, mas por ser uma parábola acredito que sim. Uma pena, pois se fosse original, seria talvez o único detalhe que conseguiria enriquecer o tratamento brasileiro à dialética da religião.
 
-O preprocessamento é especificado pelos padrões C e C++, mas, tecnicamente, não faz parte da linguagem. Ou seja, antes que qualquer regra de sintaxe seja verificada no código-fonte, o preprocessamento já terá terminado.
+Sem contar que o filme admite desde o começo contar uma história conhecidíssima ao mostrar os corpos dos soldados egípcios flutuando no fundo do Mar Vermelho, já revelando o final do grande clímax da história. Ou podemos analisar como uma tentativa de reforçar a comparação inicial que o filme faz com a decisão do faraó de matar todos os bebês hebreus, que são jogados às margens do Rio Nilo, e de onde o diretor captura rapidamente a situação semelhante dos bebês. Se for realmente isso, é brilhante. O problema é que fica difícil saber se é algo proposital ou não, já que a narrativa constantemente se perde em diálogos desinteressantes e inúteis, sem contar na péssima narração em flashback aliada a momentos-chave onde personagens principais proferem frases que parecem ditas por outra pessoa, tamanha é a falta de qualidade na mixagem de som, uma característica já conhecida do cinema nacional, mas que aqui atrapalha e muito.
 
-Essa parte do processo lida com substituição de texto e diretivas baseadas em arquivos e símbolos. Por exemplo, a diretiva de preprocessamento mais conhecida
+E, ainda assim, se torna um problema menor se comparado à maquiagem, figurinos e cenários do filme, que soam teatrais demais para serem críveis. Ou pior: "noveleiros". Para ter uma percepção do que digo, imagine um ambiente poeirento como o deserto, onde quem tem água tem poder, e note como as fachadas do palácio são impecavelmente limpas, como se fossem novas ou retocadas por contra-regras antes das filmagens. Até os escravos hebreus possuem ferimentos particularmente bonitos demais se fossem desferidos por chicotes.
 
-    #include <stdio.h>
+E, como já havia descrito, os efeitos dessa superprodução são sofríveis. As maquetes vistas de cima lembram jogos de computador. Porém, dos males o menor, e esses efeitos são usados com economia e rapidamente, quase não sendo possível uma comparação mais apurada. Sem contar que o clímax do filme, a travessia do Mar Vermelho, é desempenhado com uma certa competência, nem que seja na edição. Sim, os efeitos estragam tudo no momento final, inserindo corpos boiando artificialmente no "melhor" estilo Chapolim Colorado. E, assim como o filme original, o uso de matte painting (fundo pintado) torna tudo muito teatral e datado, o que não é um problema no original, mas é para um filme de 2015.
 
-faz com que todo o conteúdo do arquivo especificado seja incluído exatamente no ponto onde for colocada essa diretiva. Isso quer dizer que, antes sequer do código-fonte ser compilado, todo o conteúdo desse header padrão estará no corpo do arquivo C.
-
-Para evitar que o mesmo header seja incluído inúmeras vezes dentro da mesma unidade em C, causando assim erros de redefinição, existe outra diretiva muito usada para cercar esses arquivos públicos:
-
-    #ifndef __MEUHEADER__ // se já estiver definido, caio fora até endif
-    #define __MEUHEADER__
-    
-    // conteúdo do header
-    
-    #endif // __MEUHEADER__
-
-Esse conjunto de duas diretivas, por si só, é capaz de gerar os mais criativos e bizarros erros de compilação em C. E estamos falando de erros que ocorrem antes que sequer seja iniciado o processo de compilação propriamente dito. Obviamente que os erros serão capturados durante a compilação, mas o motivo deles terem ocorrido foi um erro decorrente do processo de preprocessamento. Por exemplo, vamos supor que um determinado fonte necessita de uma declaração de função contida em meuheader.h:
-
-    #include "header-do-mal.h"
-    #include "meuheader.h"
-    
-    int func()
-    {
-       meuheaderFunc();
-    }
-
-Porém, num daqueles acasos da natureza, o header-do-mal.h define justamente o que não poderia definir jamais (obs.: e isso pode muito bem acontecer na vida real, se usamos definições muito comuns):
-
-    #ifndef __HEADERDOMAL__
-    #define __HEADERDOMAL__
-    
-     // tirei header da jogada, huahuahua (risos maléficos)
-    #define __MEUHEADER__
-    
-    #endif // __HEADERDOMAL__
-
-Na hora do preprocessamento, o preprocessador não irá mais incluir o conteúdo dentro de header.h:
-
-    #ifndef __MEUHEADER__ // se já estiver definido, caio fora até endif
-    #define __MEUHEADER__
-    
-    int meuheaderFunc(); // talvez alguém precise disso
-    
-    #endif // __MEUHEADER__
-
-Conseqüentemente, durante a compilação do código-fonte já preprocessado, sem a declaração da função meuheaderFunc, irá ocorrer o seguinte erro:
-
-    error C3861: 'meuheaderFunc': identifier not found
-
-Isso em fontes pequenos é facilmente identificável. Em fontes maiores, é preciso ter um pouco mais de cuidado.
-
-Após o processo de preprocessamento, de todos os arquivos indicados terem sido incluídos, de todas as macros terem sido substituídas, todas as constantes colocadas literalmente no código-fonte, temos  o que é chamado unidade de compilação, que será entregue ao compilador, que, por sua vez, irá começar a análise sintática de fato, descobrindo novos erros que podem ou não (como vimos) ter a ver com a fase anterior. A figura abaixo ilustra esse processo, com algumas trocas conhecidas:
-
-{{< image src="preprocessor.gif" caption="Preprocessor" >}}
-
-Dica: quando o bicho estiver pegando, e tudo o que você sabe sobre linguagem C não estiver te ajudando a resolver um problema, tente gerar uma unidade de compilação em C e analisar sua saída. Às vezes o que é claro no código pode se tornar obscuro após o preprocessamento. Para fazer isso no VC++ em linha de comando, use o parâmetro /E.
-
-Se você conseguir passar ileso para a fase de compilação, pode se considerar um mestre do preprocessamento.  Por experiência própria, posso afirmar que a maior parte do tempo gasto corrigindo erros de compilação, por ironia do destino, não terá origem na compilação em si, mas no preprocessamento e linkedição. Isso porque o preprocessamento confunde muito o que vimos no nosso editor preferido, e a linkedição ocorre em uma fase onde não importa mais o que está dentro das funções, mas sim o escopo de nomes, um assunto um pouco mais vago do que a linguagem C.
-
-Na compilação você irá encontrar geralmente erros bem comportados, como conversão entre tipos, else sem if e esquecimento de pontuação ou parênteses.
-
-    int cannotConvertError(const char* message)
-    {
-    	int ret = message[0];
-    	return ret;
-    }
-    
-    int ret = cannotConvertError(3);
-    
-    error C2664: 'cannotConvertError' : cannot convert parameter 1 from 'int' to 'const char *'
-
-    if( test() )
-    	something;
-    	something-else;
-    else
-    	else-something;
-
-    error C2181: illegal else without matching if
-
-    while( (x < z) && func(x, func2(y) != 2 )
-    {
-    	something;
-    }
-
-    error C2143: syntax error : missing ')' before '{'
-
-Claro, não estamos falando de erros relacionados a templates, que são um pesadelo à parte.
-
-Dica: nunca subestime o poder de informação do compilador e da sua documentação. Se o erro tem um código (geralmente tem), procure a documentação sobre o código de erro específico, para ter uma idéia de por que esse erro costuma ocorrer, exemplos de código com esse erro e possíveis soluções. Ficar batendo a cabeça não vai ajudar em nada, e com o tempo, você irá ficar sabendo rapidamente o que aconteceu.
-
-Chegando na linkedição, onde a esperança reside, tudo pode vir por água abaixo. Isso porque você já espera confiante que tudo dê certo, quando, na verdade, um erro bem colocado pode fazer você desistir pra sempre desse negócio de programar em C.
-
-As características mais desejadas para corrigir erros nessa fase são:
-
-  1. Total conhecimento da fase do preprocessamento
-  2. Total conhecimento da fase da compilação
-  3. Total conhecimento de níveis de escopo e assinatura de funções
-
-Os dois primeiros itens são uma maldição previsível que deve-se carregar para todo o sempre. Se você não consegue entender o que aconteceu nas duas primeiras fases, dificilmente irá conseguir seguir adiante com essa empreitada. O terceiro item significa que deve-se levar em conta as bibliotecas que estamos usando, headers externos (com dependências externas), conflitos entre nomes, etc.
-
-Alguns erros mais encontrados aqui são as funções não encontradas por falta da LIB certa ou por LIBs desatualizadas que não se encaixam mais com o projeto, fruto de muitas dores de cabeça de manutenção de código. Essa é a parte em que mais vale a pena saber organizar e definir uma interface clara entre os componentes de um projeto.
-
-Do ponto de vista técnico, é a fase onde o linker junta todos os arquivos-objeto especificados, encontra as funções, métodos e classes necessárias e monta uma unidade executável, como ilustrado pela figura abaixo.
-
-{{< image src="linker.gif" caption="Linker" >}}
-
-Dica: uma LIB, ou biblioteca, nada mais é que uma coleção de arquivos-objeto que já foram compilados, ou seja, já passaram pelas duas primeiras fases, mas ainda não foram linkeditados. Muitas vezes é importante manter compatibilidade entre LIBs e os projetos que as usam, de forma que o processo de linkedição ocorra da maneira menos dolorosa possível.
-
-É óbvio que, por ter passado pelas três fases de transformação de um código-fonte em um programa executável, não quer dizer que este programa está livre de erros. Os famigerados erros de lógica podem se disfarçar até o último momento da compilação e só se mostrarem quando o código estiver rodando (de preferência, no cliente).
-
-Entre esses erros, os mais comuns costumam se aproveitar de macros, como max, que usa mais de uma vez o parâmetro, que pode ser uma chamada com uma função. A função será chamada duas vezes, mesmo que aparentemente no código a chamada seja feita uma única vez:
-
-    #define max(a, b) ( a > b ? a : b )
-    
-    int z = max( func(10), 30 );
-
-Um outro erro que já encontrei algumas vezes é quando a definição de uma classe tem um sizeof diferente do compilado em sua LIB, pela exclusão ou adição de novos membros. Isso pode (vai) fazer com que, durante a execução, a pilha seja corrompida, membros diferentes sejam acessados, entre outras traquinagens. Esses erros costumam acusar a falta de sincronismo entre os headers usados e suas reais implementações.
-
-Enfim, na vida real, é impossível catalogar todos os erros que podem ocorrer em um fonte em C. Se isso fosse possível, ou não existiriam bugs, ou pelo menos existiria uma ferramenta para automaticamente procurar por esses erros e corrigi-los. Bom, existe o Lint.
+Porém, tudo termina com um ar de OK. Se não chega a ser um épico e superprodução brasileira, ao menos temos o consolo de aparentemente esta ser uma produção 100% custeada por dinheiro privado (incluindo as milhares de compras na pré-estréia que serviram não para trazer público (essas salas, aparentemente, estavam quase vazias)). Resta aguardar pelo lançamento do livro (?) e talvez uma peça de teatro. Afinal de contas, os cenários já foram construídos, e o tom finalmente estará correto. Tudo pela conversão (de fiéis principalmente).
 

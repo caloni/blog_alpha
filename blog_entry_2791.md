@@ -1,18 +1,17 @@
 ---
 categories:
 - writting
-date: '2018-10-07'
-link: https://www.imdb.com/title/tt3416742
+date: '2021-09-11T21:47:09-03:00'
 tags:
 - movies
-title: O Que Fazemos nas Sombras
+title: O Que Eu Fiz Para Merecer Isso?
 ---
 
-Taika Waititi é um diretor neo-zelandês. Ele uma fez fez um filme chamado Loucos por Nada, um indie onde estrelava o curioso ator Jemaine Clement. Sete anos depois os dois dirigem e estrelam este O Que Fazemos nas Sombras, que é uma versão mais longa de um trabalho homônimo feito em 2005. Então, vejam bem, esses cineastas estão empenhados em explorar as partes bizarras da existência humana, como seus mitos, em forma de mocumentário.
+Um clássico dos anos 80 de Pedro Almodóvar mistura o humanismo de Elia Kazan, sua paixão pelo cinema, pela sensualidade e, principalmente, pelo adorável trash que o tornou conhecido no mundo todo.
 
-O que nesse caso é ótimo. Eles pegam essa ideia para vampiros (e um pouco de lobisomens, zumbis, etc). Os dois e Jonny Brugh fazem o trio de vampiros que dividem uma casa onde o maior problema é discutir por que Deacon não lavou louça nos últimos cinco anos, período que ele foi escolhido para a função, e por que quem for trazer uma vítima para o jantar não pode simplesmente colocar alguns papéis toalha no chão antes de perfurar o pescoço de sua comida?
+A história é básica, porém cheia de nuances. Há algumas pérolas nas falas, sobretudo ditas pela personagem de Chus Lampreave, que atua como se vivesse. Você coloca ela na frente das câmeras e recebe um realismo tão absurdo de avós pelo mundo latino que vira uma atração à parte.
 
-Escrito por eles e dirigido com um tom de gore, com um ou dois momentos bem feitos e o resto trucagens de câmera pseudo-criativas que dão conta do recado graças à iluminação e computação gráfica, "O Que Fazemos..." consegue explorar várias situações do dia-a-dia (ou da noite-a-noite?) com o pano de fundo de como é ser um vampiro, ter séculos de existência, precisar ser convidado para entrar nos bares noturnos, etc. Há até piadas feministas, como uma serva que faz tudo para um deles e que espera um dia ser transformada também. "Se eu tivesse um pênis já seria uma vampira", protesta. Ao mesmo tempo temos Stu (Stu Rutherford), o amigo de uma vítima deles que virou vampiro e que agora é o humano mais sem noção que já fez parte de um filme de vampiros.
+Carmen Maura segura o protagonismo até o fim. É um de seus melhores papéis no cinema. Seu sorriso muda que é um assombro entre trepar com um dos rapazes musculosos que encontra no vestiário do serviço e com uma maquiagem forçada preparando janta para seu insatisfeito marido. A pobreza é enfocada de frente nessa família tradicional, e quem viveu os anos 80 vai ter dificuldades em dar risada disso, pois é muito real e presente nas memórias da infância.
 
-O humor que Clement e Waititi entregam em uma hora e meia é ágil e dá pouco tempo para pensar. Quando há muito tempo as gags não funcionam. Quando há pouco tempo as ideias são tão bizarras ("briga de morcegos!") que acabam funcionando. Quando esses amigos encontram uma gangue de lobisomens no meio da noite é um momento tenso, e descobrimos que os próprio lobisomens possuem seus problemas de convívio da matilha. É o frescor das ideias que sempre torna esse filme engraçado, original e imperdível.
+A miscelânea de personagens, incluindo um dentista pedófilo que adota o caçula da família, só rivaliza com a mistura de estilos que o diretor arrisca. Ele não tem medo de soar ridículo e no processo soa tão autêntico e vivo que se torna impossível não se apaixonar pelo cinéfilo enrustido em um corpo de cineasta. Isso que é cinema destemido.
 

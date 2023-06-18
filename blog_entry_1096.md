@@ -1,101 +1,20 @@
 ---
 categories:
-- coding
-date: '2015-04-20'
-tags: null
-title: Convenção de Chamada
+- writting
+date: '2019-08-31'
+link: https://www.imdb.com/title/tt0395978
+tags:
+- movies
+title: Contra Todos
 ---
 
-Pergunta de um leitor:
+Dos mesmos produtores de Cidade de Deus, este é um filme em que os personagens do roteiro foram sendo contruídos na preparação de elenco. Não é um elenco de primeira, mas o resultado sim, e mais realista do que se os papéis fossem entregues para celebridades. O resultado é visceral pela história, realista pelos diálogos e potencialmente um quase documentário ficcional.
 
-#### Leitor: Olhe essa bizarrice em C:
+A história se passa em São Paulo, capital, e essas pessoas vivem suas vidas de pobre como em qualquer megalópole: moram longe do centro urbano, mas estão sempre por lá. A religião e a violência são pauta para análise dessa família disfuncional onde o pai bate na filha adolescente e a madastra tem uma lascívia incontrolável quando o marido não está em casa, mas cortejando uma evangélica que conheceu no culto.
 
-```
-void func()
-{
+Contra Todos é um retrato fiel da sociedade contemporânea de vários ângulos. A câmera, com baixa resolução e tremendo como as de telejornal, passeia pelos cenários reais do cotidiano e seus elementos: um ferro de passar velho, o leite com café e açúcar de manhã, as conversas fiadas que escondem o que não se deve falar na mesa.
 
-}
+O que fascina mais é apenas observar o dia-a-dia dessas pessoas, e não necessariamente a crítica social à sua moral. Até porque o filme adota uma narrativa naturalista, onde as decisões que cada um toma faz sentido dentro do seu microcosmos, e por isso não há necessariamente mocinhos e vilões, ou são todos vilões do nosso ponto de vista que julga qualquer comportamento fora do normal. O objetivo nem é chocar pelo aspecto cru de seus personagens, mas pelo modo realista de encará-los.
 
-int main()
-{
-   func("sbrubles");
-   return 0;
-}
-```
-
-#### Leitor: Embora isso seja permitido, caso você coloque "void func(void)" já não funciona mais. Por quê?
-
-Resposta do Autor: Por que C é zoado :P
-
-OK, a verdade é que não existem (existiam?) muitas regras de sintaxe a serem respeitadas na linguagem pelo compilador. Antigamente, se não fosse colocado nenhum tipo de retorno era como se ele fosse **int** por _default_. Da mesma forma, se não colocar parâmetros vale tudo. É como se fossem os três pontinhos do __printf__. Afinal, você não ia querer ficar repetindo os parâmetros no .c e no .h, não é mesmo :D
-
-Isso me lembra também que havia a declaração "arcaica" da linguagem (já era arcaica antes mesmo do padrão de 1998 sair):
-
-```
-void func()
-char* sbrubles; /* isso é um argumento de entrada */
-{
-}
-```
-
-#### Leitor: OK, entendi. Mas voltando para meu primeiro exemplo: supostamente usar um va_args pra ler "alguma coisa" certamente leria os parâmetros, certo? E este parâmetro, só fica inutilizado ou chega a dar algum problema mais sério?
-
-Sim, sua suposição a respeito do __va_args__ faz todo sentido. E não, os parâmetros não são inutilizados justamente porque a função chamada pode fazer o que quiser que no retorno o chamador limpa a pilha (e o chamador sabe como ele empilhou os parâmetros-extra).
-
-O __padrão de chamada__ da linguagem (lembra disso?) é __cdecl__. Isso quer dizer que o chamador é que "limpa a sujeira" depois da chamada. Isso é o que permite o "milagre" do __printf__ (oooohhh ooohh oooooohhhh... *sons de anjos*) receber n argumentos.
-
-Só vai dar problema se definir outro padrão de chamada ou se a função chamada mexer no que não devia (se esperar outros tipos ou número de argumentos, por exemplo).
-
-### StdArgs na mão
-
-Agora que sabemos disso, o comportamento do __va_list__ nem deve parecer tão mágico assim. Na verdade, apenas saber que a pilha é onde estão todas as variáveis locais e os endereços de retorno das funções é o suficiente para explorar essa área de memória.
-
-Porém, o uso canônico na linguagem C e a forma mais educada de navegar nos parâmetros extras é usando o header stdarg.h. Isso porque C é uma linguagem independente de plataforma, e _a priori_ não temos a mínima ideia de como os dados estão estruturados no computador. Essa visão das variáveis locais e etc é apenas algo que sabemos sobre a arquitetura PC (8086) porque já brincamos demais de _assembly_ e seus registradores.
-
-```
-int soma(int argc, ...);
-
-int main()
-{
-	int resultado = soma(5, 2, 3, 4, 5, 6);
-}
-
-// soma.cpp
-#include <stdarg.h>
-
-int soma(int argc, ...)
-{
-    int ret = 0;
-
-	va_list vl;
-	va_start(vl, argc);
-    while( --argc )
-    {
-	    int next = va_arg(vl, int);
-        ret += next;
-    }
-
-	return ret;
-}
-```
-
-Uma versão de quem já manja dos internals da arquitetura onde está programando e não se importa com portabilidade poderia simplesmente caminhar pela pilha a partir do endereço de argc.
-
-```
-int soma(int argc, ...)
-{
-	int ret = 0;
-	int* argv = &argc + 1;
-
-	while ( argc-- )
-	{
-		int next = *argv++;
-		ret += next;
-	}
-
-	return ret;
-}
-```
-
-Repetindo: isso não é bonito, apesar de simpático. No entanto, se o objetivo é explorar a arquitetura, fique à vontade para navegar pela pilha a partir do endereço das variáveis locais.
+Há sexo realista, violência realista e diálogos realistas. Contra Todos é quase um documentário se for analisada sua atmosfera, mas mesmo assim ainda exibe um pouco de estrutura, principalmente no final, quando as pontas vão se amarrando e reviravoltas acontecem. Na vida real não há tantas reviravoltas. Eu poderia viver muito bem sem nenhuma, e assistiria esse filme mesmo se ele tivesse seis horas.
 

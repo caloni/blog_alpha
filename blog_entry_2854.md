@@ -1,22 +1,34 @@
 ---
 categories:
 - writting
-date: '2019-09-02'
-link: https://www.imdb.com/title/tt0290823
+date: '2013-02-10'
+link: https://www.imdb.com/title/tt1907668
 tags:
 - movies
-title: O Voto é Secreto
+title: O Voo
 ---
 
-Este filme parece uma propaganda do governo incentivando o voto com não-atores dizendo falas prontas para incitar a reflexão no espectador. Uma pena que o formato seja tão simplório. Sem personagens, sem atores, sem história, O Voto é Secreto consegue no máximo fazer-nos pensar por que está região do mundo está usando democracia.
+No início do drama intimista somos apresentados a Whip Whitaker, um piloto "old-timer" que pilota um avião comercial com 102 pessoas a bordo como quem dirige um carro. Só que seu próximo voo apresentaria um defeito mecânico que o deixaria na mão. Utilizando seu instinto e habilidade, decide girar o avião de cabeça para baixo e com isso ganha impulso o suficiente para um pouso forçado em campo aberto, sendo obstruído apenas, que ironia, por uma torre de igreja. A sequência é arrebatadora por sua dramaticidade e impacto visual de um acidente em tempo real acontecendo diante de nós. Não é um espetáculo visual, mas um drama visceral ocorrendo no ar. Quando tudo termina, o resultado frio e matemático é de 6 mortes.
 
-É dia de eleições. E como funciona por lá, lá sendo um país do Oriente Médio, com habitantes dos mais diversos perfis espalhados por uma região e não obrigados a votar, e também nem muito interessados? Uma caixa é jogada de paraquedas de avião e uma agente chega em um posto de fronteira vigiado por dois guardas para fazer o trajeto das casas dessa gente para coletar votos até o final do dia.
+Já as consequências do evento são apresentadas para Whitaker no hospital desde sua primeira conversa, e já de forma a dividir opiniões: enquanto o representante do sindicato diz que ele salvou 96 pessoas, os representantes da auditoria apontam que o voo sob a responsabilidade do piloto resultou em mortes. Os motivos da queda são irrelevantes desde o início, pois estão no fundo procurando por um culpado, e Whitaker pode ser um deles exatamente por ter ingerido álcool e cocaína antes do voo.
 
-Essa agente é mulher, o que gera estranheza do guarda que a deve acompanhar, mas ele vai do mesmo jeito. E ela é uma estagiária que acabou de passar no concurso público e está super-empolgada com o processo das eleições. Não é pra menos: quando você tem menos de 20 anos e acredita nas balelas que a educação pública te enfiou na cabeça, o voto ainda é a arma do cidadão.
+O tema mais interessante do novo filme de Robert Zemeckis ([Forrest Gump], O Náufrago) é a inversão de expectativa que ele causa em nós: enquanto visto como um herói pelas pessoas e tendo de fato todo o controle na cabine do avião durante o acidente, sua vida parece carecer dessa mesma auto-confiança. Whip Whitaker é um alcoólico inveterado, além de extremamente desonesto, como podemos observar em sua primeira atitude ao sair do hospital: se isolar no sítio de seu avô e jogar fora todas as bebidas. (a princípio podemos pensar que fosse uma mudança de atitude, o que não se comprova quando ele descobre que os testes de álcool no sangue já haviam sido feitos no hospital).
 
-Então ambos saem de carro à caça de eleitores. Ela fala todas as obviedades sobre o poder do voto. Ela tenta vender o voto como políticos vendem promessa de campanha, como se ao escrever dois nomes em um pedaço de papel fosse mudar a vida de todos em volta. E pra melhor, claro. Sempre pra melhor.
+O destino de um sujeito desses não seria difícil de imaginar caso ele não tivesse conhecido no hospital Nicole (Kelly Reilly), uma viciada em recuperação. Diferente de Whitaker, Nicole está ciente que sua vida depende que ela pare (e é interessante que o roteiro estabeleça essa relação entre drogas injetáveis e álcool, uma droga tão letal quanto as proibidas por lei). Whip a traz para sua vida, mas os efeitos positivos da companhia de Nicole nunca parecem penetrar na visão egoísta e descontrolada do piloto.
 
-A farsa se torna clara conforme nenhum dos supostos coadjuvantes ganha a empatia do espectador, e quando nos momentos finais até o guarda faz um questionamento desses de universidade pública (por que não há eleições três ou quatro vezes ao ano, em vez de quatro em quatro anos?), geralmente a pergunta que pessoas ingênuas e estudantes de universidade pública fazem.
+Robert Zemeckis parece não ter pressa em avançar a história, pois quer que conheçamos mais sobre o estado irrecuperável de Whip pela simples observação do seu dia-a-dia. Enquanto as investigações estão em andamento e o advogado prepara o terreno para um final feliz e indolor, adentramos cada vez mais na obscuridade e irrelevância que sua vida. Enquanto torcemos que a justiça seja feita, ao mesmo tempo não estamos tão certos que essa atitude seria a mais correta, pois outros voos podem não ter o mesmo final bem sucedido com um cara desses na ativa.
 
-Sem a mínima condição de sustentar alguma reflexão de fato, o diretor Babak Payami ainda demora para cortar algumas cenas em que ele imagina o espectador pensando no que acabou de ver. Afinal, pensar sobre o voto faz as pessoas discutirem ideias, não? Não realmente. Voto é uma variante desse mesmo mecanismo que fez lavagem cerebral nessa menina. É um filme triste, que se alonga e não entrega nem essa reflexão.
+E é por isso que sua conclusão possui a força acumulada de nossas próprias conclusões a respeito. Não torcemos mais apenas por sua absolvição, mas por sua redenção. Ele é uma pessoa que tem tudo para dar certo, mas para isso precisa encarar a realidade à sua volta sem o efeito do álcool. Como não gostar de um filme desses, que abre questões tão relevantes sobre o caráter humano e possui coragem para seguir adiante?
+
+Abaixo seção com spoiler e análise da decupagem de Zemeckis.
+
+Um dos trabalhos do diretor é enquadrar as cenas de um filme de maneira que possam trazer um significado a mais apenas pela disposição dos elementos em cena. É conhecido na linguagem cinematográfica que os elementos postos à direita da tela possuem mais relevância e são uma posição dominante no imaginário do espectador. Já com o lado esquerdo ocorre o inverso.
+
+No caso de O Voo, o piloto Whip Whitaker não possui controle sobre sua vida, e é constantemente dominado pela bebida. Zemeckis passa essa mensagem não apenas pelas inúmeras pilhas de garrafas de bebidas espalhadas por sua casa, mas o colocando quase que 100% do tempo do lado esquerdo da tela. Se você tiver oportunidade de ver/rever este filme preste atenção a esse detalhe (além de inúmeros outros, claro, mas continuemos o raciocínio apenas deste).
+
+A partir do momento em que Whip Whitaker decide contar a verdade a respeito da bebida em sua vida e passa a ter responsabilidade sobre seus atos o diretor Robert Zemeckis faz uma belíssima transição girando a câmera em torno de Whip Whitaker e o colocando já na prisão, anos depois, falando aos presos. A câmera continua a enfocar o ex-piloto, só que nesse momento ele está no centro da tela. Daí ocorre algo que considero tão emocionante quanto brilhante: a câmera ao se aproximar do protagonista vai lentamente o colocando à direita da tela, em um claro reajuste da própria postura do sujeito a partir de então para com sua vida. Também no diálogo final com seu filho ele está pela primeira vez totalmente à direita da tela, quando fecha a última cena.
+
+Repito a pergunta feita no texto sem spoilers: como não gostar de um filme desses?
+
+[Forrest Gump]: {{< relref "forrest-gump-o-contador-de-historias" >}}
 

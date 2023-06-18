@@ -1,17 +1,20 @@
 ---
 categories:
 - writting
-date: '2022-03-17T22:52:17-03:00'
+date: '2013-07-28'
+link: https://www.imdb.com/title/tt2243389
 tags:
 - movies
-title: Os Amores de Uma Loira
+title: Os Amantes Passageiros
 ---
 
-A história começa tenra. E fofinha. Duas garotas na cama conversam sobre um crush. Ela, a loira, mostra a foto dele para sua amiga. Seus olhos brilham. Estamos em um pós-guerra em uma região da Tchecoslováquia onde há 15 mulheres para cada homem.
+Almodóvar volta às suas origens das divertidas comédias dramáticas voltadas para personagens homossexuais, videntes e todo o tipo de intriga novelesca. Aliás, a diferença vital entre novelas televisivas e Almodóvar é que este conta uma história como ninguém (e geralmente assina o roteiro).
 
-Essa união entre o romântico e o pragmático é o coração dessa comédia de costumes dos anos 60. Dirigido por Milos Forman (Amadeus), o toque humano está em cada comentário espirituoso, mas é nos detalhes da direção que constatamos o quão próximo estamos da vida real nesse filme preto e branco.
+Outros aspectos da cinegrafia que o fez famoso se mantêm, ainda que ausente em penúltimo trabalho ([A Pele que Habito]), o que demonstra que o diretor sabe se livrar de suas "marcas" quando o filme precisa, e que aqui volta com tudo: vermelho, amarelo, azul, roxo... tudo no Cinema de Almodóvar é exagerado, nada sutil e, hoje em dia, pouco polêmico.
 
-A sequência que irá fazer você desabar é o baile dos reservistas. Chega um trem lotado de velhos e as garotas querem dançar. E começa um flerte dos mais juvenis entre esses homens casados que estão longe de casa há muito tempo. As garotas querem dançar, claro, mas não topam qualquer coroa.
+A única "polêmica" parece estar apenas na "modernice" de seus temas: fraudes financeiras e como elas são escandalosamente menos escandalosas que o sexo, e o mundo hiper-conectado (onde o melhor exemplo é uma divertida e útil metáfora envolvendo um telefone quebrado que permite que todo o avião ouça o que está sendo dito). Apreciamos pequenos contos que parecem ter saído da própria filmografia do cineasta dentro de um avião que precisa realizar um pouso de emergência, mas enquanto aguarda por um aeroporto que coopere precisa entreter seus passageiros de alguma forma.
 
-O ritmo cômico de toda essa sequência é o que nos aproxima desse material humano, sincero e fofinho. A história continua e sequer percebermos que se trata de um roteiro. É nos momentos sem graça que a arte se aproxima da vida como ela é. Que micro declaração de amor pela vida, pelo amor e pela juventude.
+Quase nunca deixando de entreter, as mensagens das histórias estão tão interconectadas e tratadas de maneira tão "passageira" que sua força se esvai com a própria conclusão, querendo dizer 1) mais uma vez um eco das nossas efêmeras relações com o mundo moderno ou 2) a falta de foco do próprio idealizador, afetado pelo mundo que tenta criticar. De qualquer forma, ruim ou bom, um filme novo de Pedro Almodóvar sempre será algo bem-vindo.
+
+[A Pele que Habito]: {{< relref "a-pele-que-habito" >}}
 

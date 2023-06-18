@@ -1,17 +1,19 @@
 ---
-categories:
-- writting
-date: '2017-08-23'
-tags:
-- movies
-title: Filmes e Diretores Favoritos
+categories: []
+date: '2015-02-17'
+tags: null
+title: Como é escolher um filme pelo trailer
 ---
 
-Essas perguntas no estilo de listas me fazem travar. Minha resposta sempre será injusta porque eu vou esquecer filmes e diretores que gosto mais do que os que eu citar. 
+O que está passando esse fim-de-semana? Que tal dar uma olhada nos trailers para escolher?
 
-Mas, sei lá, no momento não estou focando em filmes ou diretores específicos, mas em técnicas e estilos específicos. Por exemplo, revendo séries que gostei muito, como Breaking Bad, Westworld e Mr. Robot. 
+Uma escolha de atores-mirins arriscada, o uso da câmera subjetiva parece recorrer a artifícios do Cinema Indie norte-americano. A sequência noturna, no entanto, mostra uma bela mensagem de que nunca é tarde para brincar. O uso da trilha sonora casual cria uma atmosfera mais bucólica, mas ainda assim atual.
 
-Há uma miríade de virtudes escondidas na confecção desses trabalhos. Isso não os torna perfeitos, mas fascinantes e únicos. Quando falamos de diretores também falamos de algo semelhante. O último filme de um diretor é seu nível de progressão na arte, que ele pode avançar, retroceder ou arriscar algo novo. Eu gosto de diretores perfeccionistas que focam em sua linguagem. Aronovsky no sacrifício do indivíduo pela perfeição e conhecimento, Allen pela eterna discussão da mortalidade e banalidade do homem moderno, Nolan pelo domínio das métricas do espaço/tempo, Wo Pack pela questão da vingança, Ki Duk pelo indivíduo que transcende a si mesmo. E assim por diante :) 
+Vamos para o próximo.
 
-Mas não posso deixar de reconhecer a virtude do diretor em si em pegar qualquer tema e dominá-lo, como os trabalhos de Sydney Lumet, por exemplo.
+Duas atrizes aclamadas pela crítica fazem uma bela atuação envolvendo mãe e filha em torno do drama familiar da lavagem de roupa suja. Cores brandas, cortes rápidos e momentos particularmente tocantes de Fernanda Torres que pode render algumas premiações. Para finalizar, alguns efeitos com o uso de sabão em pó voador pode arrancar uns bons sustos da plateia.
+
+Conclusão: acho que veria o filme de Ariel Líquido, pois seu potencial dramático não deveria ser ignorado. Para os mais aventureiros nessa onda hipster, recomendo Omo Multiação Partículas Extra-Limpeza.
+
+Boa sessão!
 

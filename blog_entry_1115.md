@@ -1,28 +1,24 @@
 ---
 categories:
 - writting
-date: '2019-07-24'
-link: https://www.imdb.com/title/tt0217869
+date: '2018-01-13'
+link: https://www.imdb.com/title/tt5607714
 tags:
 - movies
-title: Corpo Fechado
+title: Corpo e Alma
 ---
 
-O que segura Corpo Fechado do começo ao fim é o seu tema, que se resume em uma pergunta, a mais instigante das perguntas: seriam os heróis dos gibis exageros do mundo real?
+Corpo e Alma possui um lindo pano de fundo: ele observa a humanidade em alces, bois e humanos. A primeira cena é em uma floresta intocada, com dois cervos. Observamos seus olhares e seus movimentos. Há um lago paradisíaco e um filete de água que se esvai como se fosse infinito. Em um dado momento, um alce coloca sua cabeça sobre as costas do outro. Há uma comunicação invisível ali. Mas humana. Esse é o sentido deste longa.
 
-Essa não é uma pergunta tão ingênua a ponto de soar fantástica, pois basta observar os mitos antigos e os livros sagrados e seus inúmeros milagres relatados para perceber que o mundo já está cheio de imaginação e metáforas nas artes e cultura. Gigantes podem ser pessoas que nasceram com estatura muito acima do normal e monstros pessoas muito feias/repugnantes. Por que não super-heróis não seriam versões exageradas e idealizadas de seres humanos com algumas habilidades que soam sobrenatural a qualquer outro ser humano medíocre?
+Corta para o abatedouro. Cenas fortes. Bem fortes. Bois são abatidos mecanicamente. Suas partes são separadas e penduradas. Há sangue. Muito sangue. Antes disso observávamos o mesmo olhar dos bovinos visto nos alces. E ao mesmo tempo em um humano. Ele observa da janela e sente o sol encostar em sua pele. O bovino também. No pátio, uma recém-chegada foge do sol. Ela tem problemas de comunicação e de viver.
 
-M. Night Shyamalan é o típico diretor/roteirista/produtor que adora discorrer sobre esse tipo de questão. Em O Sexto Sentido ele explora o sobrenatural além-vida, e aqui, em seu segundo filme de sucesso (descartar seus dois primeiros, Praying with Anger e Olhos Abertos), Shyamalan adentra no universo alternativo dos gibis.
+O filme escrito e dirigido por Ildikó Enyedi ganhou o Festival de Berlim. O tema da comunicação impossível entre nós, humanos, é estendido agora para nossos parentes mais próximos: mamíferos. Aqui vemos ruminantes. Os alces possuem vida curta, cerca de 20 anos. Nós, humanos, cerca de 80. Mas qual o valor de uma vida não-vivida?
 
-Digo alternativo porque desde que me conheço como gente meus amigos fãs de HQs sempre citaram a dualidade eterna de Marvel e DC. Não havia muito espaço para fugir do padrão comercial de criar meia-dúzia de heróis e vilões e comercializar infinitas histórias com esses mesmos personagens. Aqui há uma espécie de fenda no espaço-tempo onde o personagem de Samuel L. Jackson, Elijah Price, vira um colecionador e especialista em verdadeiras obras de arte, quase como a versão HQ do que chamamos de "cinema alternativo" ou "cinema de arte".
+A rotina do abatedouro e seu refeitório acaba se tornando palco de uma comunicação inusitada entre o humano e a humana que observávamos agora há pouco. Eles são o diretor financeiro e a novata naquela fábrica. Ela é isolada pelo seu autismo. Ele pega seu braço paralisado. Ambos, muito lentamente, vão desenvolvendo uma relação amorosa inusitada, enquanto um roubo inusitado do "pó do amor" para os bovinos vai sendo desenvolvido em uma investigação psicológica.
 
-Esse interesse de Elijah surge desde criança, incentivado pela mãe a sair pelo menos para o parque em busca de um novo quadrinho. Seu nascimento é a primeira coisa que vemos no filme, e ele já nasce com vários ossos quebrados. Ele é o Sr. Vidro, como era chamado pelas crianças, possuindo uma doença que torna sua estrutura óssea tão fraca que qualquer queda é quase mortal. Osteogenesis imperfecta é o nome da doença e ela é real.
+As pontas de Corpo e Alma nunca são presas o suficiente para que seu tema fique claro. Ele é sutil demais para nos manter atentos ou nos entregar algo marcante. Porém, sua leveza frente a cenas fortes é arrebatadora. Quase poética. Uma versão espiritual de Boy Meets Girl sem ter muito o que desenvolver. Se trata apenas de olhar e experenciar.
 
-Corta para Bruce Willis e seu David Dunn, um homem melancólico que abandonou a promissora carreira de futebol após um acidente e que segue um processo de separação de sua mulher sob os olhos de seu filho, o pequeno e insuportável Joseph Dunn, interpretado por Spencer Treat Clark com uma face de criança exageradamente incômoda. Spencer não está atuando neste filme, apenas exibindo seus olhos magnéticos, sua face branquíssima e lágrimas de mentira escorrendo em momentos-chave.
+O proprio gênero oscila atrapalhadamente entre o humor e o drama. A menina é autista e seus problemas de comunicação podem ser vistos como engraçados, apesar de dramáticos. Fica um ponto de interrogação toda hora. O público fica em dúvida. O filme fica em dúvida. O filme está com o vidro embaçado, apesar de lindo e apesar de sereno.
 
-Voltando para Willis/Dunn. Ele sofre mais um acidente, este de trem, que causa a morte de todos os passageiros a bordo. Todos menos ele, que sai sem um arranhão. Ele chama a atenção do agora Mr. Price, um respeitado colecionador de quadrinhos e que coleciona e acompanha acidentes em busca de seu suposto oposto: alguém como David Dunn.
-
-O desenrolar dessa história é irregular, possui cortes que não se encaixam como deveriam, mas a maestria com que Shyamalan captura algumas cenas meio que compensa essa falta de jeito na narrativa. O importante neste filme é manter sempre constante nossas dúvidas a respeito do que pode ser real e o que pode ser mero exagero da nossa imaginação, como a intuição de David que faz com que ele descubra pessoas suspeitas nas filas com dezenas de pessoas para entrar no estádio onde trabalha de segurança. Intuição ou super-poder? O filme nunca nos entregará a resposta. Pelo menos não até o final do filme.
-
-E é isso o que o torna tão magnético e tão intenso. Há uma cena em que David com a ajuda do seu filho vai colocando cada vez mais pesos para ver até quanto aguenta levantar. Não direi até onde vai essa história, mas note que é esse tipo de cena que vemos por todo o filme: pode soar arrastada, mas nós queremos a todo custo ver o que acontece no final.
+Sangue e olhares se misturam em uma poesia contada em prosa, tão sutil que esqueci sobre o que se trata.
 

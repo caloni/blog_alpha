@@ -1,16 +1,16 @@
 ---
 categories:
-- blogging
-date: '2022-10-22T17:58:23-03:00'
-tags: null
-title: Luiz Carlos Merten
+- writting
+date: '2014-11-30'
+link: https://www.imdb.com/title/tt2872732
+tags:
+- movies
+title: Lucy
 ---
 
-Tem um crítico de cinema chamado Luiz Carlos Merten que foi [demitido do Estadão em 2020](https://archive.is/Uw8Fm) depois de décadas trabalhando com eles. Motivo: salário muito alto. Agora ele escreve em [um blog](https://oblogdomerten.wordpress.com) e a cada post durante a Mostra desse ano ele fala sobre Bolsonaro. Chega a ser doentio essa fascinação pelo sujeito. Talvez através dele eu esteja desvendando por que a esquerda é tão tarada em falar sobre esse tiozinho que calhou de ser o presidente.
+Um misto de ficção científica e ação policial. Lucy (Scarlett Johansson) começa como vítima de circunstâncias que a levam a se tornar prisioneira de uma máfia chinesa e burro de carga de uma nova droga desenvolvida que aumenta consideravelmente o uso do cérebro. Concomitantemente somos apresentados ao professor Normal (Morgan Freeman), que possui uma teoria de que se isso fosse possível poderíamos controlar completamente nosso corpo e até o corpo de outras pessoas (e sabe-se-lá mais o quê).
 
-Merten sempre escreveu de maneira bem despojada sobre cinema. Seu estilo lembra uma Pauline Kael sem muita cultura. É gostoso de ler, fácil porque é para a classe média brasileira. Kael nem sempre, pois havia devaneios filosóficos que Merten apenas arrisca. Seu conhecimento sobre cinema é enciclopédico e sua forma de destrinchar o que está rolando no cenário mundial é pretensioso e muitas vezes autoritário disfarçado de vitimesco.
+Essa premissa começa sendo o ponto fraco da trama, já que essa história dos humanos usarem apenas 10% do cérebro é uma falácia conhecida, mas para Luc Besson -- que dirige e escreve o roteiro -- isso é o suficiente para despertar nossa curiosidade, principalmente quando o corpo de Lucy acidentalmente entra em contato com uma quantidade absurda dessa droga e a garota começa a ganhar poderes cada vez mais implausíveis.
 
-Eu gosto muito de alguns textos desse senhorzinho que vejo de vez em quando nas cabines de imprensa. Já com seus mais de 75 anos é uma inspiração para todos nós, escritores. E uma profecia: estamos destinados a trabalhar de graça ou por muito pouco na seção de não-ficção.
-
-Isso acontece porque no circuito de imprensa global é raro a figura de pessoas pensantes, que vão no âmago do assunto e tentam desvendá-lo com sinceridade. Muitas vezes acontece o que aconteceu com o Merten: ficou à deriva. Fala de política mais que Pablo Villaça e sem propriedade. Se tornaria trágico, se não fosse cômico. Hoje em dia quem liga para política está perdido.
+Assim como o recente Transcendence, com Johnny Depp, Lucy tenta ser um estudo filosófico a respeito de seres humanos cada vez mais conectados. Veja bem, ele tenta. Porém, partindo em vários momentos para coreografias de ação sem propósito (que máfia fica tão exposta assim por um carregamento de drogas?) o filme se perde entre essas duas linhas narrativas. E mesmo que seu final "Árvore da Vida" seja no mínimo interessante, já é tarde demais.
 

@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2020-12-06'
-link: https://www.imdb.com/title/tt0133093
+date: '2014-12-20'
+link: https://www.imdb.com/title/tt2109248
 tags:
 - movies
-title: Transmatrix
+title: 'Transformers: A Era da Extinção'
 ---
 
-Os irmãos Wachowski hoje são irmãs. Ambos passaram por cirurgias de mudança de sexo. Recentemente, durante entrevistas sobre a produção de Matrix 4, foi comentado por uma delas que o primeiro Matrix era uma alegoria sobre transexualidade.
+Convenhamos: Michael Bay sabe fazer um show e tanto, mas não consegue chegar nem perto de contar uma história coerente em sua franquia dos robôs gigantes que se transformam em automóveis, mas agora também possuem uma versão-dinossauro, embora nem um nem outro consigam ter qualquer fiapo de lógica. Acompanhamos agora a "saga" sabendo que os alienígenas responsáveis pelos Transformers já visitaram o planeta Terra há milhões de anos, e foram também os responsáveis pela extinção dos dinossauros (aparentemente algum geólogo confundiu um meteoro com um power-blast de nave ET). Tanto os "autobots" quanto os "decepticons" (que apesar do nome também se transformam em automóveis) tiveram a mesma origem: ETs que vão de planeta em planeta sugar os recursos necessários, aniquilando qualquer espécie de vida que eventualmente existir. Qualquer semelhança com Independence Day -- exceto que nesse não havia dinossauros -- é mera coincidência (ou não).
 
-De fato. Ao reassistir com essa visão é possível observar a dedicação dos diretores em mostrar o esforço sobrehumano do resgate de Neo. Antes de ser abduzido pela nave comandada por Morpheus ele era um ser do underground sem nenhuma marca de injeção de drogas ou substâncias alteradoras de humor. Logo após isso vemos o lento e doloroso processo em transformá-lo em um ser humano funcional fora da realidade virtual mantida pelas máquinas. Ele possui vários orifícios em torno do corpo, nos membros e tórax, sendo o principal deles, o mais sensível, na nuca, em uma conexão direta com o cérebro.
+Aposentando Shia LaBeouf da franquia, como havia feito com Megan Fox no filme anterior, agora o herói é um pai (Mark Wahlberg) preocupado com a voluptuosa filha (Nicola Peltz) e sua idade de aventuras amorosas/sexuais, o que dá um novo sentido para a conhecida tara do diretor por pernas, bundas e peitos. Ele é um inventor que mora em uma fazenda e luta para sustentar sua filha única. Acaba descobrindo (novamente) Optimus Prime e acaba sendo perseguido pelo governo, agora aliado da tal raça alienígena para conseguir usar a tecnologia capaz de realizar as transformações que já conhecemos em uma versão melhorada (talvez a melhor ideia do filme que é moderadamente explorada). A raça super-avançada pretende capturar um amuleto mágico que possibilitará que eles possam destruir o planeta a seu bem-prazer. Pelo jeito, Michael Bay também redefiniu o conceito de serviço de inteligência americano.
 
-A analogia é forte demais com os transexuais. Dispostos a ir em busca da verdade eles submetem seu corpo a todo tipo de manipulação e humilhação. O resultado é alguém que aprendeu sobre a realidade em um outro nível, mas que nunca mais poderá se tornar um ser humano completo. Sua existência é ser um mutilado vivendo no esgoto.
-
-Claro que Matrix permite fazer analogias com várias filosofias diferentes, pois o conceito, desde A Caverna de Platão, é muito vasta. Peço apenas que note o quanto a produção é dedicada a esmiuçar o processo de transformação de Neo. É um foco que havia passado despercebido por muita gente porque ninguém imaginou a reviravolta na vida das agora irmãs diretoras, nem sabe a desgraça que é viver vilipendiado em nossa realidade. É uma dor nunca antes mostrada em uma ficção científica com tanto afinco.
+Quase divertido graças à participação de Stanley Tucci e a impulsividade infantil e curiosa de seu personagem, que é dono de uma das maiores empresas de tecnologia, o objetivo como sempre é mostrar robôs gigantes lutando com espadas gigantes, socos gigantes, tiros gigantes e jogando navios na cabeças uns dos outros (qualquer semelhança com "Pacific Rim" é mera coincidência). Particularmente prefiro as lutas do terceiro filme, pois essas ficaram meio desengonçadas. Mas deixarei minha opinião sobre isso para depois que ler as críticas dos aficionados por MMA, as pessoas mais adequadas para julgar os trabalhos pirotécnicos de Michael Bay.
 

@@ -1,20 +1,16 @@
 ---
 categories:
 - writting
-date: '2011-08-29'
-link: https://www.imdb.com/title/tt1133985
+date: '2014-09-21'
+link: https://www.imdb.com/title/tt0108065
 tags:
 - movies
-title: Lanterna Verde
+title: Lances Inocentes
 ---
 
-Cada vez mais começo a acreditar que o uso de muitos roteiristas (nesse temos incríveis 7 pessoas colaborando!) acaba por nivelar por baixo uma história até com um certo potencial. Nesse novo filme de super-herói, a impressão geral que fica é que, ao tentar explicar tudo detalhadamente, para não restar dúvidas aos espectadores, foi feito um filme cuja chatice é inversamente proporcional ao número de efeitos visuais.
+Estreia do diretor Steven Zaillian, Lances Inocentes conta a história do jovem enxadrista Joshua Waitzkin baseado no livro escrito pelo seu pai. No entanto, seria simplista demais considerá-lo um filme apenas sobre xadrez (ou sobre jovens enxadristas), uma vez que o roteiro escrito também por Zaillian busca não apenas compreender o universo desse microcosmos de pessoas obcecadas por esse jogo como também consegue levantar diferentes questionamentos a respeito das decisões (ou indecisões) dos pais desses jovens prodígios e do próprio amadurecimento prematuro do caráter desses pequenos gênios, além de comparar a juventude inocente e ingenuamente cordial com o rancor de quem nunca chegou tão longe no ranking dos vencedores, apesar de ter dedicado toda sua vida para esta tríade lógica chamada ao mesmo tempo de esporte, ciência e... arte.
 
-Dirigido pelo diretor do novo Cassino Royale (para provar que sucesso não é linha de chegada), Lanterna Verde conta a história de Hal Jordan, um piloto de caças que, irresponsável e fanfarrão, acaba por ser escolhido (ao melhor estilo Senhor dos Anéis) pelo anel que representa um grupo de seres intergalácticos que dividiram as galáxias em setores e pretendem manter a paz com o uso do poder que emana da vontade inerente a todo ser vivo, potencializado pelo uso dos anéis que os conectam a poderosas lanternas. São parte da criação dos seres mais avançados do universo, os guardiões, que são imortais e criaram essa congregação para evitar que o mal prevalecesse no mundo, ou algo que o valha: ironicamente, os conceitos de bem e mal, ou suas motivações, nunca são muito bem explicadas.
+Usando como pano de fundo o sumiço repentino de Bobby Fischer após vencer o campeonato mundial -- o único herói dos americanos nesse jogo, quando em plena Guerra Fria vencera o russo detentor do título -- a história flerta com a possibilidade do "próximo Bobby" estar em alguma dessas jovens mentes que são levadas pelos pais entusiasmados pela capacidade de seus filhos para todo e qualquer campeonato sendo disputado. Apesar de não conter cenas de ação, um dos muitos artifícios usados pelo filme para tornar um embate mental que para a maioria dos espectadores soaria maçante em algo empolgante são os cortes ligeiros e ritmados que acompanham uma trilha sonora nunca entediante. A história em si segue uma ordem cronológica simples que pontua aqui e ali momentos mais importantes da mini-carreira do jovem Joshua, mas é nas partidas e nos torneios que o engrandecimento do que está acontecendo em sua mente frenética nos tabuleiros que conseguimos acompanhar mais de perto como é a vida de quem decidiu encarar o xadrez como algo mais do que apenas diversão.
 
-Por outro lado, a explicação mais interessante é o uso da cor verde como o representante da força de vontade, uma vez que é de fato muito ingênuo imaginar que milhares de espécies evoluídas da galáxia enxergariam uma determinada frequência da luz da mesma forma. Isso nos dá a liberdade de passar de ficção científica para fábula, ainda que o filme tente de todas as formas tornar a tal congregação verossímil (como a forma dos lanternas verdes se locomoverem tão rapidamente pelo universo).
-
-Hal Jordan (Reynolds), nesse contexto, vira um reles instrumento dessa força, mas, mesmo assim, é a sua motivação pessoal (?) e sua imaginação a força motriz que irá lhe dar os verdadeiros poderes de um super-herói: a capacidade de materializar qualquer coisa com essa força.
-
-Infelizmente, nem o anel conseguiu materializar uma história que o valha. A trajetória do herói não convence, ou pelo menos não o suficiente para acreditar que o esforço de um representante dos paladinos do Universo em sua espécie mais fraca (os humanos) consegue combater a maior ameaça que já tiveram que enfrentar em toda a sua história (perceba como o uso solene das palavras apenas enfraquece mais a história e a sabota, que tem que ser enriquecida com diálogos expositivos dessa forma).
+Bônus: o verdadeiro game entre Jeff Sarwer e Joshua Waitzkin está no site chessgames.com (com alguns comentários do próprio Jeff, agora adulto!). Foi o próprio Waitzkin que elaborou as mudanças da final vista no filme para torná-la mais emocionante. Acredito que nós, enxadristas, podemos dizer que ele conseguiu =)
 

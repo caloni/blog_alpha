@@ -1,22 +1,16 @@
 ---
 categories:
 - writting
-date: '2020-04-20'
-link: https://www.imdb.com/title/tt0049366
+date: '2019-01-28'
+link: https://www.imdb.com/title/tt0029546
 tags:
 - movies
-title: Vampiros de Alma
+title: Vamos Dançar?
 ---
 
-Este é o primeiro dessa série de filmes com a mesma história do romance de Jack Finney: uma ameaça de fora faz com que as pessoas se tornem vazias por dentro, mas iguais por fora. Todos os problemas serão resolvidos, desde que todos os humanos se transformem nessa forma sem sentimentos que entram em conflito com a comunidade.
+Não é porque é um filme antigo com os dançarinos icônicos Fred Astaire e Ginger Rogers que o filme tem que ser bom. Nesse caso ele é uma bagunça, cheio de plots repetidos, piadas que já perderam a graça já na década de 30 e com muitas poucas cenas de dança. Este é um filme sobre dança e música ou não é?
 
-Soa exatamente como comunismo para mim. Seja hoje ou na época da guerra fria. Mas a questão genial colocada pelo filme é a ambiguidade do exagero dos mocinhos.
+Eu diria que não vale a pena. Ele tem quase duas horas e vemos os dois dançarem por 10 minutos. Sua história é batida e fica dando voltas em torno de um relacionamento que não possui qualquer desculpa, e se complica desnecessariamente por causa de um casamento anunciado. A trupe de roteiristas já deixa claro que Astaire e Rogers estavam sob os holofotes, mas não escolheram bem seus projetos. Aqui parece uma desculpa para vê-los dançar, mas isso não acontece quase nunca.
 
-O tom exagerado pode e deve ter feito algumas pessoas da época crerem que se tratava não de uma alegoria anti-comunista, mas anti-macartista, pois a paranoia está solta no ar. As pessoas desse filme chegam em conclusões disparatadas ao menor sinal de algo estranho acontecendo na cidadezinha onde moram. É uma ambiguidade sedutora para a época. E pode funcionar, se você for um comuna safado.
-
-A ideia por trás dessa produção dirigida por Don Siegel é gastar pouco dinheiro, e por isso a ameaça não é de monstros ou alienígenas ou qualquer outro artifício que dobre o custo de produção por causa das fantasias e efeitos visuais. A grande ameaça são essas pessoas sem alma, sem sentimentos, mas exatamente iguais em tudo aos outro seres humanos.
-
-Os remakes que se seguiram, Invasores de Corpos (1978) e [Invasores] (2007), são tão bem sucedidos quanto esse, mas cada um em sua época. O original parece não ter envelhecido tão bem, pois se perde a referência política e histórica, mas ainda assim, é uma ótima fonte para entendermos como filmes que se esforçavam para entreter o público que ia aos cinemas se transformou em material zumbificado para consumidores de streaming. Fica a reflexão.
-
-[Invasores]: {{< relref "invasores" >}}
+Astaire faz um astro da dança simpático e brincalhão, e Rogers a velha diva que precisa se cuidar para continuar relevante. Ambos são os alter-egos desses dois dançarinos em palco, e enquanto um show é planejado reviravoltas serão feitas para decidir se ambos vão ou não se casar. Enquanto isso, o espectador dança ao esperar que eles dancem.
 

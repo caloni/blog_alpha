@@ -1,19 +1,32 @@
 ---
 categories:
 - writting
-date: '2022-11-21T20:12:54-03:00'
+date: '2018-11-08'
+link: https://www.imdb.com/title/tt4995790
 tags:
-- coffee
-title: The traditional american coffee shop
+- movies
+title: 'The Square: A Arte da Discórdia'
 ---
 
-Este lugar me faz lembrar dos cafés americanos que passamos durante nossa viagem pela Califórnia. Para o bem e para o mal. Para o bem há essa memória afetiva, onde a comida não importa, desde que revele lembranças. Assim é com as panquecas e ovos mexidos com bacon, por exemplo, que não são grande coisa. São pela experiência, muito próxima se você fosse em um café nos EUA.
+Tenho uma confissão a fazer: quando eu entro em um salão onde está exposta arte moderna eu nunca tenho certeza se entendi realmente o que o autor quis dizer com determinada obra. Aliás, eu também não tenho certeza se o próprio autor sabe o significado de sua obra. Aliás, eu nem sei se podemos chamar aquilo de obra. O que é arte, afinal de contas? E, aproveitando, qual o sentido da vida?
 
-Para o mal porque a comida não é nada demais, exatamente como são os cafés americanos valorizados além da conta. Há muita gordura e açúcar no cardápio. O café é servido na Hario V60, mas não há um treinamento para o uso do equipamento. Pedi duas vezes. Na primeira saiu mais fraco, com menos água. O segundo mais forte. Não há um padrão. E antes que pergunte, não, eles não têm café (estilo americano, aguado) à vontade como geralmente as lanchonetes típicas oferecem.
+Agora sendo honesto: eu sei o que é uma obra de arte (sobre o sentido da vida fico devendo), e te digo porque The Square é um exemplo magnífico. Para começo de conversa: ele não é um filme muito agradável de se assistir. Cada nova cena desperta uma imensa vontade de entender, mas essa resposta está tão bem escondida na vida comum que torna-se tarefa inútil a cada nova tentativa.
 
-O serviço é simpático, mas deficitário. Os pratos são bem servidos, então é natural que alguns clientes queiram dividir, que foi o nosso caso. Apesar de pedirmos por duas vezes um prato extra, quando ele chegou veio pequeno, porque as atendentes não entenderam o propósito. Meu segundo café eu pedi para acompanhar com o cheesecake, mas ele demorou tanto que acabamos pedindo para embrulhar para viagem e tomei o café solo.
+E isso é arte: é a análise da vida comum sob a ótica de uma outra linguagem. É, como sugere o curador do museu, Christian, pegar uma bolsa comum de uma mulher e colocá-la em exposição em um museu. Não é mais uma bolsa. Por que? Linguagem. As pessoas que vão ao museu esperam ver arte. E se você diz que é, algo salta em nossa percepção.
 
-Apesar de manteiga e açúcar demais eu gostei do cheesecake de blueberry. É um bolo pesado, mas com um recheio até que saboroso. Quase lembra confeitaria tradicional do Sul do Brasil, exceto que não tem tanto sabor assim.
+A mesma coisa acontece com esse filme. Em nossa vontade de compreendê-lo por inteiro, apesar da frustração de nunca conseguir, nos faz prestar mais atenção aos detalhes. E esses detalhes são esteticamente tão agradáveis e os assuntos que o filme trata são tão curiosos que assistir trata-se por si só da apreciação da arte por si mesma. É linguagem cinematográfica sendo usada para entendermos algumas questões primordiais do ser humano.
 
-Vá pela experiência. Esqueça a cozinha e o atendimento.
+E por prestarmos atenção em um filme sobre pessoas que não estão prestando atenção é que The Square se torna uma obra de arte. Pessoas andando na rua olhando para seus celulares e ignorando pedintes em geral (a metáfora "quer salvar uma vida?" não poderia ser mais óbvia). Marketeiros comemorando orgulhosos a viralização de um vídeo em que uma criança explode. Um garoto procurando reparação por ter sido acusado injustamente de ser um ladrão em sua própria casa.
+
+O filme dirigido e escrito por Ruben Östlund grita a todo momento sobre desatenção para nossos semelhantes. Mas apesar de possuir o tema de minorias, por exemplo, ele não está interessado em realizar mais do mesmo. Ele quer que enxerguemos que qualquer lado, forte ou fraco, rico ou pobre, não está de fato olhando para o outro e compreendendo o que ele quer dizer, o que ele espera, o que ele deseja.
+
+A não ser que esse alguém seja um ser humano animalesco, que pode te agredir a qualquer momento. Aí, meu amigo, surge em cena o hipotálamo, nossa herança dos mamíferos, há muito tempo atrás, e que atualmente nos seres humanos anda adormecido na vida moderna por um senso de segurança que nos permite o luxo de sermos individualistas e ignorar todos em volta quando não estiverem realizando os nossos desejos.
+
+O diretor Ruben Östlund usa algumas trucagens interessantes de câmera. Ele quer mexer pouco nela. Para isso todo seu quadro orbita em torno, e raramente ela precisa se mover: ela apenas gira em torno de si mesma. A analogia é pertinente. Câmeras são no cinema os nossos olhos e nossa sensação de eu. Mas quando a câmera evita a todo custo sequer sair do lugar para ver o que está acontecendo isso ressalta ainda mais o egocentrismo através do ponto de vista do espectador.
+
+Um exemplo no começo de como é o ponto de vista que diz tudo: uma mulher corre em busca de ajuda. Há um homem correndo em direção a ela gritando. Não vemos o homem correndo, apenas ouvimos seus gritos. A câmera fica o tempo todo mostrando Christian. Por quê? Bom, esta é uma pergunta interessante, pois alia a questão que o filme quer tratar (desatenção) com a questão prática de contar uma história (o roteiro mundano, coisas acontecendo com os personagens). Sobre a desatenção a cena mostra dezenas de pessoas ignorando o pedido de ajuda da moça, e quando ela finalmente encontra alguém esse alguém terceiriza a ajuda para Christian. Mas sobre o lado prático, bem, este é apenas um golpe, e a moça no momento propício pega o celular de Christian de seu bolso.
+
+Esse jogo de harmonizar a teoria e prática social de Östlund acontece durante o filme todo, como o plano de imprimir em vários papéis uma ameaça escrita para o ladrão de celular e colocar em todos os apartamentos do prédio onde ele está (e a questão prática de realmente fazê-lo), ou como o descarte de uma camisinha usada se transforma em uma análise do egocentrismo de Christian ao mesmo tempo que ele potencialmente tem um motivo vago para desconfiança de sua parceira sexual. E o que dizer quando ele se encontra em um mar de lixo (informação?) para buscar o número de telefone que irá permitir que ele finalmente se redima do seu pecado crônico de não prestar atenção aos outros seres humanos?
+
+Claro, The Square não é exatamente isso. Ele pode ser. O filme está aberto a diferentes interpretações, e ele é tão rico em temas que instiga essa busca pelo espectador. Portanto, pare por um momento de prestar atenção em seu próprio quadrado e tente entender para onde está caminhando a espécie humana.
 

@@ -1,27 +1,72 @@
 ---
 categories:
-- writting
-date: '2018-10-18'
-link: https://www.imdb.com/title/tt8296592
+- coding
+date: '2012-05-20'
 tags:
-- cinemaqui
-- movies
-title: Sofia
+- ccpp
+title: Sobrecarga de função às avessas
 ---
 
-"As pessoas conseguem se acostumar com tudo", um personagem diz em certo momento de Sofia, um filme que se você não parou pelo menos por alguns minutos para refletir após ter assistido, pense de novo. O personagem tem razão.
+> Nota do autor: navegando pelo Archive.org, que possibilita viajar no tempo e encontrar coisas enterradas que seria melhor deixar por lá, consegui encontrar um post que se perdeu na dobra espaço-temporal entre o old-fashioned Caloni.com.br (com direito à velha joaninha psicodélica, desenho do meu amigo que uso até hoje no blogue) e um finado outro domínio meu, o CThings. No final, consegui [matar a marmota], chegar a [80 milhas por hora] e voltar para o presente. Enjoy!
 
-Esse é daqueles filmes que brinca com nossas percepções de certo e errado. Ele vai fazer alguém que está predisposto a atacar culturas machistas a ter algumas boas surpresas em sua reviravolta final. Mas mais do que isso, vai nos fazer pensar em vários aspectos do que permeia nossa noção de moral e costumes, incluindo a questão das oportunidades na vida. Porém, principalmente, vai nos fazer rever a ideias que nós temos sobre o que é uma vítima.
+Alguém já se perguntou se é possível usar sobrecarga de função quando a diferença não está nos parâmetros recebidos, mas no tipo de retorno? Melhor dizendo, imagine que eu tenha o seguinte código:
 
-E, acredite, no final você irá pensar se existe de fato alguma vítima, ou tudo são oportunidades para melhorar de vida.
+    void CreateNewGUID(wstring&);
+    void CreateNewGUID(GUID&);
 
-O filme segue um tom intimista no seu começo, apresentando uma família durante o almoço que acaba revelando duas coisas: este também é um almoço de negócios (uma oportunidade para essa família humilde melhorar de vida) e que a jovem Sofia estourou sua bolsa ao acabar de descobrir que está grávida (um empecilho, como qualquer um que conhece as culturas do Oriente Médio sabe muito bem).
+    GUID guid;
+    wstring guidS;
 
-Esse roteiro já seria ótimo como uma peça de teatro, mas sendo cinema nada substitui a câmera na mão, os zooms exagerados nos rostos dos personagens e a captura do momento exato daquela expressão do personagem que fala por mil palavras. E considerando o fundo de pano social e a escassez de atores competentes com a etnia "correta", nada como refazer a mesma cena mil vezes para acertar o tom. Mais um ponto a favor do cinema e da diretora Meryem Benm'Barek-Aloïsi em seu segundo longa e exibindo um controle invejável de mise-en-scene.
+    CreateNewGUID(guidS);
+    CreateNewGUID(guid);
 
-É Meryem também que nos coloca em tensão constante ao nunca nos revelar detalhes que serviriam para nos acalmar, como o estado emocional do pai e da mãe. Vemos tudo sob os olhos da prima, a mais bem-intencionada da família e que portanto levará o maior tombo no final.
+É um uso sensato de sobrecarga. Mas vamos supor que eu queira uma sintaxe mais intuitiva, com o retorno sendo atribuído à variável:
 
-Outro ponto a favor de "Sofia" é nunca dar mais detalhes da história de vida dos personagens. Com isso a situação pelo qual eles passam se torna universal e fica mais fácil nos identificarmos (além de obviamente tomar um dos lados na discussão que ocupa quase todo o filme).
+    wstring CreateNewGUID();
+    GUID CreateNewGUID();
 
-Como resultado, "Sofia" é consistente com sua ideia, eficiente ao transmiti-la e termina por machucar um pouquinho sua fé na humanidade (se lhe resta alguma).
+    GUID guid;
+    wstring guidS;
+
+    guid = CreateNewGUID();
+    guidS = CreateNewGUID();
+
+Voltando às teorias de C++ veremos que o código acima NÃO funciona. Ou, pelo menos, não deveria. Só pelo fato das duas funções serem definidas o compilador já reclama com um "error C2556: 'GUID CreateNewGUID(void)': overloaded function differs only by return type from 'std::wstring CreateNewGUID(void)'". E obviamente ele está correto. O tipo de retorno não é uma propriedade da função que exclua a ambiguidade em sua chamada. Apenas a assinatura pode fazer isso (que são os tipos dos parâmetros recebidos pela função).
+
+Como não podemos utilizar funções ordinárias o jeito é criar nosso próprio tipo de função que dê conta do recado usando a sobrecarga do operador de conversão de tipos. O operador de conversão suporta sobrecarga porque é na conversão que o compilador decide qual função chamar.
+
+    struct CreateNewGUID
+    {
+      operator wstring ();
+      operator GUID ();
+    }; 
+
+    guid = CreateNewGUID();
+    guidS = CreateNewGUID();
+
+Agora com o novo tipo CreateNewGUID é possível chamá-lo como uma função, o que na prática cria uma nova instância da struct. Ao atribuir o retorno dessa instância a uma variável do tipo wstring ou GUID os operadores de conversão serão requisitados, cada um dependendo do tipo da variável a qual será atribuído o retorno.
+
+Uma vez que criamos um novo tipo, e considerando que este tipo é, portanto, diferente dos tipos wstring e GUID já existentes, devemos simplesmente converter nosso novo tipo para cada um dos tipos de retorno desejados:
+
+    struct CreateNewGUID
+    {
+      operator wstring ()
+      {
+        wstring ret;
+        // cria guid
+        return ret;
+      }
+
+      operator GUID ()
+      {
+        GUID ret;
+        // cria guid
+        return ret;
+      }
+    };
+
+E isso conclui a solução meio esquizofrênica de nossa sobrecarga às avessas. E voltando à pergunta original, penso que, com criatividade e C++, nada é impossível. =)
+
+[matar a marmota]: {{< relref "feitico-do-tempo" >}}
+[80 milhas por hora]: {{< relref "de-volta-para-o-futuro" >}}
 

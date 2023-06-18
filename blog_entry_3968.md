@@ -1,27 +1,19 @@
 ---
 categories:
 - writting
-date: '2018-10-27'
-link: https://www.imdb.com/title/tt7962890
+date: '2012-06-04'
+link: https://www.imdb.com/title/tt0089114
 tags:
-- cinemaqui
 - movies
-title: Viagem Aos Povos Fumigados
+title: Viagem ao Mundo dos Sonhos
 ---
 
-Viagem Aos Povos Fumigados é um documentário estilo denúncia, mas que infla conclusões precipitadas e carece de investigação mais abrangente. Ele é feito pelo documentarista itinerante Fernando Solanas, que descobriu uma pista para esta impactante história ao final das filmagens de seu último trabalho.
+Da safra dos anos 80 onde havia aos montes aventuras de garotos vivendo em cidades como em ET e [Os Goonies] e que vivem uma aventura, Viagem ao Mundo dos Sonhos mistura com sucesso conceitos geralmente distintos: sonhos e tecnologia. A história se inicia quando Ben (Ethan Hawke), um garoto comum que começa a ter estranhos sonhos de uma viagem em torno de figuras geométricas que se assemelham a circuitos de computador. Tendo como amigo Wolfgang (River Phoenix), um cientista-mirim que usa o computador do pai, ambos começam a desenvolver uma teoria que os sonhos recorrentes de Ben podem ser um tipo de comunicação de vida inteligente. O terceiro elemento do grupo, Steve (Bobby Fite), ajuda Ben durante uma briga de escola e acaba por se juntar aos dois por não ter muita harmonia para ficar em casa com seu pai, vítima da conhecida crise que acometeu o país na época.
 
-Dessa forma o filme segue parecendo um relato investigativo sem a investigação. Solanas tem muito a dizer e pouco a avaliar sobre a velha questão dos agrotóxicos usados para aumentar a produção de alimentos e que vem causando doenças e mortes por conta da aplicação incorreta e pelo impacto ambiental generalizado.
+Uma estrutura ágil disfarça a aparente desconexão com a realidade quando o computador de Wolffang descobre que ele consegue criar uma esfera perfeita de energia em qualquer ponto tridimensional que quiser e movê-la a velocidades absurdas. Como em um filme que brinca com sonhos e tecnologia tudo parece possível. Consequência, não questionamos muito o que acontece na tela, mas escolhemos vivenciar o mesmo que os garotos estão vivenciando, e experimentando a mesma sensação de estar descobrindo um mundo novo.
 
-O epicentro do filme é a província de Salta, na Argentina. O desmatamento crescente vai destruindo as terras pertencentes aos povos nativos, que sobreviviam bem há mais de 200 anos e hoje perdem sua forma de subsistência natural pela monocultura da soja feita pelos "donos" do terreno. Algo essencialmente errado está acontecendo aqui, mas ninguém se mobiliza a respeito.
+Nesse clima de tudo é possível nasce uma bela metáfora sobre a infância, os humanos e nossa existência. Estamos no meio de uma crise econômica, o que explica de certa forma a figura recorrente do pai desempregado e a narrativa fantasiosa. Os efeitos engasgam nas limitações da época, mas assim como [Tron], a crença pesa mais, ainda que tenha que abrir ressalvas e compreender o momento.
 
-A questão da soja vai puxando outras questões que inevitavelmente caem na questão dos agrotóxicos. Mas antes há alguns argumentos misturados a respeito de transgênicos, pequenos fazendeiros e poluição da água, e todos convergem para uma crítica que berra em uníssono contra a exploração da terra pelas grandes corporações. A alternativa? Orgânicos, é claro.
-
-O maior pecado do longa é ter apenas um lado e assumir qualquer explicação desleixada para o outro lado ("ah, é tudo pelo lucro"), mas isso acaba empobrecendo um debate interessantíssimo sobre vários temas, debate esse que o documentarista tenta dar voz à população afetada.
-
-Já o segundo pecado é abordar vários sub-temas sem se aprofundar em nenhum deles. Assim a impressão que fica é que são problemas de análise simples e resolução mais simples ainda. O problema é que enquanto os fatos apontam para descaso total do governo para com a população o filme nunca dá uma alternativa que não seja apelar para o próprio governo com base em pressão popular, se tornando contraditório em seu núcleo de discussão.
-
-Mas não me leve a mal. O trabalho é ótimo, com uma excelente edição e boas entrevistas e pesquisa. Há ainda uma direção inspirada, que utiliza da montagem para ilustrar os acontecimentos narrados pelos entrevistados. Quando uma professora fala sobre um avião com agrotóxicos em cima da escola e os alunos indo se esconder não há vídeo desse dia, mas o filme emula da mesma forma mostrando um avião e crianças correndo. É uma dramatização eficiente.
-
-Porém, qual a validade de um trabalho documental que apela demais para a emoção e se esquece de analisar todos os lados da questão? Fica a reflexão para um espectador mais crítico.
+[Os Goonies]: {{< relref "os-goonies" >}}
+[Tron]: {{< relref "tron" >}}
 

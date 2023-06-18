@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2021-09-15T22:05:20-03:00'
+date: '2016-04-22'
+link: https://www.imdb.com/title/tt1279935
 tags:
-- cinemaqui
 - movies
-title: Uma Nuvem no Quarto Dela
+title: Uma Noite Fora de Série
 ---
 
-A "Nuvem no Quarto Dela" com certeza é da fumaça dos infinitos cigarros que são fumados nesse filme. Estou falando sério. Você não tem a mínima noção do nível de nicotina dessa "película". O final do filme acaba antes da velhice dos personagens, mas avançando algumas décadas sou capaz de apostar em um final certeiro e trágico para alguns deles: câncer de pulmão.
+Esse filme é uma bagunça de dois gêneros. Ele começa como uma comédia romântica um tanto dramatizada a respeito de como o tempo -- e filhos, e rotina, e a velhice -- desgasta um relacionamento. Há piadas com certeza inspiradas na vida real de alguns dos participantes na criação do filme, pois ele se alimenta do lugar-comum e consegue trazer simpatia para esse lado.
 
-O cigarro é personagem itinerante em quase todas as cenas e ajuda com sua fumaça a tornar o filme mais artístico. Se bem que não seria necessário, pois no bingo dos filmes de arte Uma Nuvem no Quarto Dela preenche algumas fileiras e colunas da cartela: filmado em preto e branco (com uso de negativo em alguns momentos), relacionamentos blasé, um quê autobiográfico, cena de sexo e nudez gratuitas, ritmo lento quase parando, súplicas para que o espectador dê significado à história, experimentalismo.
+O outro lado é um filme de ação policial que sempre soa artificial e muito exagerado. Com a participação de um elenco secundário de luxo -- Mark Wahlberg, Kristen Wiig, Mark Ruffalo, James Franco, Mila Kunis -- essa parte nunca nos dá a sensação de perigo ou de situação insolúvel. Dá mais a sensação de enlatado. A trilha sonora colabora imensamente com isso, com seu tom genérico.
 
-As súplicas possuem um motivo. Este é um trabalho niilista. Ele fala sobre o nada, esse eterno companheiro das pessoas com depressão ou solidão crônica. O cerne da derrocada nos relacionamentos entre os seres humanos, seja familiar, afetivo, amoroso, também está no filme. As relações líquidas preconizadas por Bauman não se limitam apenas ao amor romântico e à construção de uma vida juntos, mas a todo e qualquer minuto que respiramos o ar para viver neste planeta. O oxigênio é a única coisa que nos mantém vivos. Todo o resto é opcional ou ilusão. Tudo é matéria. Essa última afirmação é auto-contraditória.
+No entanto, estamos diante de um ícone da comédia. E Steve Carell dá conta de uma ou outra ponta em que há de fato uma comédia sendo feita. E mesmo com um roteiro fraco, há seus bons momentos. E há Tina Fey, que quase passa despercebida.
 
-Debut da cineasta chinesa Xinyuan Zheng Lu na direção, um de seus curtas revela a síntese desse longa. O título: Smokers Die Slowly Together (Fumantes Morrem Lentamente Juntos). Zheng Lu não está levando a sério sua profissão no momento e brinca com possíveis sensações em seu material quando narra a história de Muzi, uma garota que retorna à sua cidade natal para o Ano Novo Chinês e perambula entre conhecidos, amigos, amantes e parentes em busca de pertencimento. Um tanto metalinguístico, pois a diretora executa os mesmos passos através das formas não-convencionais (já citadas) de seu filme, flertando com possibilidades nos próximos trabalhos.
+O diretor Shawn Levy se sai melhor em roteiros mais parados (Gigantes de Aço, Uma Noite no Museu) que não exigem aquele rebolado que trafega entre dois gêneros. Aqui, como já dito, não há comédia o suficiente para segurar tantas cenas de ação. E há, sim, uma boa ideia, como podemos notar quando o casal resolve discutir o relacionamento. No entanto, o diretor fica no meio do caminho, sem fôlego para cenas de ação, e sem muita paciência para desenvolver o drama.
 
-Mas e o resultado final? Seria essa uma sessão ruim dirigida por uma novata que pelas circunstâncias-chave contemporâneas na seleção de filmes -- como gênero e etnia -- acaba entrando em festivais (e ganhando) e catálogos de streaming? Sim, exatamente. Mas ele não possui nada de interessante que possamos encontrar em uma noite chuvosa sem ter o que assistir? Certamente. Como eu disse, o niilismo e a nicotina exalam a cada quadro dessa experiência tediosa e angustiante. Não é uma sensação boa, mas é uma sensação. Podemos trabalhar com isso, dadas as circunstâncias certas.
+Maior prova do fiasco antecipado são os créditos finais, sempre um sinal confiável: recheado de erros de cena.
 

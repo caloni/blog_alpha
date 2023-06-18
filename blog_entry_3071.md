@@ -1,35 +1,25 @@
 ---
-categories:
-- writting
-date: '2022-04-05T20:54:00-03:00'
-tags:
-- wine
-title: Piadina e Falcone
+categories: []
+date: '2018-03-07'
+tags: null
+title: 'PHP Experience 2018 Dia 2: Críticas'
 ---
 
-Este restaurante está na Restaurant Week em SP esse ano e fomos com um casal de amigos conferir. Ele parece um restaurante daqueles comuns de bairro nobre que oferece um ambiente bacana e comida normal, dessas que dá pra fazer em sua cozinha. A vantagem é não precisar lavar a louça.
+Grades decepcionantes. O segundo dia do PHP Experience demonstrou pela qualidadade e teor das palestras pelo menos duas coisas: 1) a comunidade parece interessada em boas práticas e arquitetura (o que é ruim), 2) a comunidade parece mais interessada em "diversidade" que qualidade (o que é duplamente ruim).
 
-Os restaurantes que oferecem a opção da Week precisam ter no cardápio algumas opções para entrada, prato principal e sobremesa. Experimentamos as seguintes opções (ipsis literis do cardápio):
+As palestras que frequentei foram:
 
-## Entrada
- - Ceviche Mediterrâneo. Peixe branco fresco marinado no limão com cebola roxa, tomate, gengibre, pimenta biquinho e salsinha, servido com chips de batata caseiro.
- - Piadina Parma e Brie. Piadina recheada com presunto de Parma italiano DOP e queijo brie francês.
+Uma lenta e dolorosa peregrinação teórica sobre boas práticas de como desenvolver e entregar software... até esqueci sobre que tipo de software. Acho que SaaS.
 
-## Principal
- - Tagliata ai Funghi Porcini e Tartufo Bianco. Filet Mignon fatiado coberto com molho de funghi porcini italiano acompanhado de spaghetti salteado na manteiga trufada.
- - Pesce e Risotto. Filet de Saint Peter na manteiga e alcaparras acompanhado de risoto de limão siciliano e condimentos.
+Uma DBA palestrando é uma coisa de louco. Parece que existe uma necessidade glorificada em analisar como usar o banco de dados para a melhor solução. A conclusão foi que se você souber usar seu cérebro você vai conseguir sair com a solução com qualquer banco de dados. Se você não souber programar entregue o problema para a DBA que ela vai te entregar uma solução com o melhor de cada. Mas vai ter que instalar e manter uns seis bancos diferentes.
 
-## Sobremesa
- - Mousse Duo Chocolate. Mousse de chocolate belga com raspas de chocolate branco.
- - Piadina Dolce di Latte con Gelato. Piadina recheada de doce de leite argentino com sorvete italiano.
+Palestra interessante, sugerindo algumas ferramentas. Mas no final das contas curl é mais que suficiente.
 
-## Bebida
+Uma das piores. A expressividade sugerida é apenas blá-blá-blá de negócios. Parece que a comunidade tem problemas frequentes com conversar com os clientes sobre a solução e são focados demais na programação e linguagem técnica. E a solução é usar uma metodologia whatever que é complexa e burocrática demais para entender e manter.
 
- - Falcone Cabernet Sauvignon (R$ 72,00). Cabernet Sauvignon - Vale Del Maule. Suave, para o dia a dia e, na boca um gosto marcante de frutas e um toque de especiarias, com um tanino macio.
+Acho que a única palestra simpática do dia, com Anderson Casimiro, da comunidade C/C++ Brasil. Casimiro nos dá um panorama real de como a comunicação entre sistemas evoluiu e como tudo é mais simples que parece do que a sopa de letrinhas que tivemos que engolir nas últimas décadas. Desde a passagem de informação via arquivo gerado em uma pasta até a API rígida e tipada do Facebook, passando por REST, o resultado é uma viagem no tempo que nos entrega várias opções interessantes de comunicação e as explica em um linguajar mais simples. A comunidade não pareceu responder muito bem, sem ter muita noção de humor técnico e deixando Anderson em uma saia justa que não correspondeu ao que ele esperava.
 
-O ceviche e o risoto estavam extremamente azedos. O sabor do limão imperava no risoto pouco equilibrado. O peixe firme e levemente seco nem parecia um Saint Peter, pois estamos acostumados a comer o grelhado do Uokatsu, que esbanja em autenticidade e qualidade. Na piadina salgada não se consegue sentir direito o queijo brie, e é apenas uma (amostra "grátis"). O tagliata também não vem bem servidor e o molho da carne é bem estranho, assim como cheiro do spaghetti. É isso manteiga trufada, que cheira como vencida? Conseguiram estragar o conceito de manteiga?
+Depois houve um show com uma banda chamada ElePHPants formada pelos apresentadores dos palestrantes durante o evento, um toque muito elegante. Som barulhento e regado a pouca cerveja, o iMasters é bom em arrumar local e uma estrutura básica e bem suportada pelo seu staff. A lotação máxima do evento indica que eles são muito bons de marketing.
 
-Para a sobremesa acertaram em escolher doce de leite argentino para acompanhar a mesma massa da piadina salgada. Porém, erraram no sorvete (mais uma vez de limão). O mousse de chocolate é de um chocolate mais amargo e foi o que talvez tenha surpreendido mais, não esperando um sabor mais refinado depois da explosão de açúcar da piadina de doce de leite. Porém, essas raspas de chocolate branco por cima comprovam que este é um restaurante que quer ser chique, mas não consegue.
-
-Por fim, a bebida é um vinho chileno bem suave e agradável. O preço é bom, ligeiramente abaixo do dobro do preço de mercado, o que é normalmente cobrado em restaurantes. Bem conservado, manteve seus aromas e sabor de frutas negras intacto. Gostosinho até o final. Recomendo ir ao mercado pegar uma garrafa. Já o restaurante... não precisa, né?
+Só falta agora a comunidade investir melhor em conteúdo.
 

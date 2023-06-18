@@ -1,20 +1,28 @@
 ---
 categories:
 - writting
-date: '2018-05-19'
-link: https://www.imdb.com/title/tt5463162
+date: '2016-02-27'
+link: https://www.imdb.com/title/tt1431045
 tags:
 - movies
-title: Deadpool 2
+title: Deadpool
 ---
 
-Hollywood é preguiçosa e todo mundo sabe. Eles só querem saber de dinheiro e não são altruístas. E quando Deadpool surgiu com as brincadeiras da violência e linguajar exagerados (pelo menos para filmes de super-heróis), além da quebra da quarta parede, onde o mocinho conversa com o espectador e fica jogando referências do mundo onde essas histórias são criadas, seu sucesso de bilheteria virou um bilhete de loteria para sua primeira continuação, que segue passo-a-passo a mesma fórmula do primeiro. Não é um filme sobre uma história de fato, mas uma história sobre um filme sendo escrachado. Não há nada, nadinha de nada de novo, nada vai surpreender, e nada vai aborrecer. É um filme quadrado que volta a falar conosco em um linguajar agressivo e violência de 18 anos (que alívio) para se pagar de cool mais uma vez sem precisar sair da mesmice. Os fãs esperam isso, este é um filme típico caça-níqueis de nicho, não foi muito bem finalizado, força seu CGI, e está estreando praticamente ao mesmo tempo que "Vingadores: Guerra Infinita" em uma clara mensagem que eles mesmos estão pouco se f...
+A fórmula Marvel de produzir super-heróis enlatados é tão maldita que só um filme como Deadpool, que brinca com toda a produção desses mesmos enlatados, para conseguir se desvencilhar, ainda que parcialmente, dos seus outros filmes lançados a balde.
 
-E em um jogo de metalinguagem rebuscado que atravessa alguns níveis para colocar o espectador preguiçoso onde eles precisa, eles conseguem. Um filme de super-herói tradicional que se paga de irreverente e esperto, pois posssui sempre na manga o Ás da quarta parede, brincando com a ideia de fazer um filme B e com personagens menores do que deveriam. O truque aqui é a auto-depreciação, não apenas do personagem Deadpool, mas de todo o filme. O filme berra para nós: "olha como somos diferentões! nós colocamos crianças gordas em meio a uma prisão barra pesada e fazemos piadas com racismo mesmo não sendo!". E ele não faz isso aparentemente apenas para seguir a cartilha politicamente correta, mas para sutilmente sabotá-la. Se torna simpático saber que a zoeira não tem limites, desde que ela fique entre essas quatro paredes.
+É por isso que até seus créditos iniciais brincam com o processo de escalação, apresentando os personagens pelos seus estereótipos, tais como Um Cara Durão, Um Vilão, Um Personagem Feito de CGI, Uma Gostosa. Mais do que isso: declara que os roteiristas é que são os verdadeiros heróis.
 
-Para os fãs, eu garanto que haverá vários momentos-referências divertidíssimas de encontrar, piadas rápidas demais para dar tempo de pensarmos (vale uma revisão se você gostou muito), pelo menos duas sequências de ação memoráveis (a pré-créditos e um resgate a um caminhão onde a personagem de Zazie Beetz brilha) e uma certa beleza emergindo da pálida tentativa de fugir da mesmice. Ela persegue os filmes da Marvel mais do que nunca depois de dez anos batalhando para construir uma marca. Bom, essa marca está consolidada com Guerra Infinita. Parabéns. E sua audiência só sobe. O que é um pequeno agrado para os fãs mais sagazes como um Deadpool 2, tecendo comentários auto-depreciativos sobre a própria criação?
+Nada mais justo: realizando a façanha de através da meia-hora mais criativa e envolvente que um filme de herói tem há alguns anos, é de lá que saem os melhores diálogos, as melhores construções de personagem, os melhores ganchos para o resto do filme e a melhor quebra de quarta parede já vista em uma produção do sub-gênero, e que ainda por cima insiste em ser bem-humorado enquanto estoura miolos, arranca cabeças e esmaga corpos humanos.
 
-Talvez Deadpool seja o último refúgio desses filmes menores, mas que conseguem manter o ritmo e a atenção graças a um trabalho de roteiro alinhado com a proposta. Rhett Reese é um escritor medíocre com boas ideias (a brincadeira nerd Zumbilândia e o trash espacial Vida). Paul Wernick está nos mesmos créditos. E Ryan Reynolds estreia no roteiro auxiliando a dar forma ao seu personagem. Ele também participa das ótimas brincadeiras pós-créditos (apenas um pouquinho pós; não precisa esperar muito) envolvendo os pequenos desastres de Wolwerine Origins e Lanterna Verde.
+E tudo isso seguindo à risca o processo de engessamento de histórias aplicado pela Marvel. É possível sentir a tensão que deve ter havido entre os roteiristas e entre quem estava com o dinheiro. Sim, os roteiristas serem os verdadeiros heróis faz todo o sentido para mim.
 
-Espertinho demais para gerar risadas autênticas (mas piscadelas a torto e a direito), Deadpool 2: O Retorno de Quem Não Foi soa como uma continuação preguiçosa e o próprio herói aponta isso duas vezes. O fato de você criticar seu próprio filme não o torna melhor, assim como a auto-depreciação não lhe torna digno de pena. São apenas caminhos lamentáveis para se manter relevante mesmo não sendo. Mas este é o show business, e para ele está de bom tamanho.
+Os fãs devem dizer (ouço falar) que esse personagem merece o tratamento 18 anos (ou 16, no caso do Brasil) porque sem a violência gráfica seria impossível produzir um filme com ele. A violência existe, sim, e é desferida não a robôs vindos de outra galáxia ou qualquer coisa feita por computador, mas humanos. Genéricos, irrelevantes, mas humanos.
+
+Outro ponto é que a violência é apenas violência. O "herói" Deadpool mata e ameaça pessoas, mas não passa de uma versão Peter Parker com uma moral bem flexível. E seu passado provavelmente conturbado até tenta explicar esse seu lado negro, mas não sem um propósito: ele conhece uma prostituta... quer dizer, dançarina... quer dizer, só garçonete de boate, mesmo. Ambos tem um passado pesado, e é isso. No processo até tenta se desculpar pelo conteúdo machista e... convenhamos, de controverso, quase não sobra mais nada. Ele é um herói mutante que não quer se vestir de amarelo com os X-Men. Ponto.
+
+E, se for pensar, o que mais cansava em todos os heróis é essa tendência mágica e sobrenatural de praticar o bem (e é um bem livre de qualquer suspeita, BTW). Ate Homem de Ferro foi "corrompido" pelo câncer do politicamente correto. São tempos sombrios para figuras como Dead Pool.
+
+E uma das grandes sacadas de casting é colocar Ryan Reynolds como o herói. Sua objeção a um uniforme verde (ele foi Lanterna Verde) e seu histórico de galã (não à toa, foi casado com Scarlett Johansson) favorecem esse jogo de anti-herói e sua aparência desfigurada. Tudo converge harmoniosamente para um anti-filme da Marvel.
+
+E é por isso que o terceiro ato é tão decepcionante. Não pelas lutas, que são divertidinhas. Nem pelos efeitos, impressionantemente feitos em computador. O que decepciona mesmo é a volta para a normalidade, o previsível e o risco zero. Já sabemos tudo que vai acontecer desde o momento em que A Gostosa é raptada. Isso é para acabar com os poderes de qualquer mutante. E eu não colocaria dessa vez a culpa nos roteiristas.
 

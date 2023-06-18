@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2016-05-12'
+date: '2014-12-21'
 tags:
 - food
-title: Gato Preto Malbec 2014
+title: Gato Negro Cabernet
 ---
 
-Muito bom custo/benefício.
+Fácil, frutado, pouco alcoólico.
 

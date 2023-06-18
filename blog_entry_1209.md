@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-05-17'
+date: '2019-05-15'
 tags:
-- food
-title: Del Fin Del Mundo Malbec Reserva 2015
+- wine
+title: Del Fin Del Mundo
 ---
 
-Suave, frutado sem ser pesado, taninos sedosos; fácil de beber. Um pouco amargo (frutas maduras demais?), corpo médio pra suave, azedo equilibrado. Churrasco a dois no terraço.
+Esse Del Fin Del Mundo Malbec 2016 é o jeito certo do mundo acabar: com um Malbec delicioso como esse, doce, frutado, tânico e com personalidade.
 

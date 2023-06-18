@@ -1,27 +1,31 @@
 ---
 
-> Eu seu, eu sei. A maioria dos meus leitores odiou o tema [História do Windows] na era paleozóica. Porém, como eu disse na parte 1.0, estou apenas satisfazendo a outra parte de leitores que procurou no Google por esse tema e acabou caindo no meu antigo blog. Mas vejamos o lado bom: a partir da próxima versão iremos destrinchar a API do sistema, entendendo o porquê das coisas serem como elas são. No momento os deixo apenas com história, pois é desconhecido para mim como funcionavam os primeiros rabiscos do MS-DOS Shell, mais conhecido como Windows/386. Bom divertimento!
+Devido à grande procura através de mecanismos de busca (vulgo Google), estarei republicando esse artigo dividido em partes (até porque existem partes não acabadas), cada parte descrevendo um conceito geral do que representou cada versão do sistema operacional. Bem-vindos ao [História do Windows].
 
-Assim, em 9 de dezembro de 1987, é lançado o aperfeiçoadíssimo Windows 2.0, que fez do PC um ambiente muito mais parecido com um computador Macintosh. O novo sistema possui ícones para representar programas e arquivos, fornece suporte para memória expandida e janelas que podem se sobrepor(!). Porém, ainda utilizava o modelo de memória do 8088 e portanto era limitado a 1 Megabyte, ainda que certas pessoas houvessem tido sucesso rodando o sistema em cima de outro multitarefa como DesqView.
+Tudo começou em 1981, quando chegou às lojas o primeiro IBM PC, uma poderosa máquina de 4.7 MHZ, 64 (KB!) de RAM e um drive de disquete de 160 KB. Já havia sido lançado em agosto o MS-DOS, sistema operacional encomendado pela IBM à empresa recém-criada por Paul Allen e Bill Gates, a Microsoft Corporation. O DOS foi baseado num sistema básico anterior produzido pela Seattle Computer Products.
 
-A Apple, vendo a extrema semelhança entre seu sistema e o Windows, abriu um processo em 1988 alegando ter a Microsoft quebrado o acordo feito em 1985. A Microsoft se defendeu tendo o argumento que a licença lhe dava o direito do uso dessas características. Uma guerra judicial se arrastou por quatro anos. A Microsoft ganhou. Ao final, a Apple declarou que a Microsoft havia infligido 170 de seus copyrights. A corte judicial disse que o acordo de licença dava direito de uso da Microsoft de todos menos nove. Então a Microsoft alegou que os copyrights restantes não poderiam ser reinvidicados pela lei do copyright, já que a Apple pegou suas idéias da interface gráfica desenvolvida pela Xerox em seus computadores Star. Assim, um impresso de 01/06/93, disponível no Microsoft Timeline, resumiu a solução final:
+No mesmo ano uma empresa chamada Xerox pôs ao mundo uma estação de trabalho gráfica chamada Star. Do Star vieram os conceitos de janelas, ícones, e o uso de um hardware apontador de tela chamado de mouse. De lá foram tiradas, portanto, as principais idéias que moldaram a criação dos futuros sistemas operacionais que revolucionaram o conceito de interação computador/usuário, como o LISA, da Apple -- que mais tarde também deu origem ao Macintosh -- e o sistema gráfico da Microsoft chamado Windows.
 
-> "Microsoft announces that Judge Vaughn R. Walker of the U.S. District Court of Northern California ruled today in Microsoft's favor in the Apple vs. Microsoft and Hewlett-Packard copyright suit. The judge granted Microsoft's and Hewlett-Packard's motions to dismiss the last remaining copyright infringement claims against Microsoft Windows 2.03 and 3.0, as well as, the HP NewWave."
+Em novembro de 1983 a Microsoft Corporation anuncia oficialmente, no Plaza Hotel em Nova York, o Microsoft Windows, a próxima geração de sistemas operacionais que irá ter uma interface gráfica para o usuário (GUI) e ambiente multitarefa. É possível que o nome original do sistema tivesse sido Interface Manager se um dos gênios do departamento de marketing da Microsoft, Rowland Hanson, não tivesse convencido o fundador da empresa, Bill Gates, que Windows seria um nome melhor por ser mais intuitivo. A promessa inicial dizia que o sistema iria ser lançado em abril do próximo ano.
 
-Uma outra frase resume o caminho trilhado pela empresa a partir de então:
+No início daquele ano, então, foi mostrada uma versão beta aos chefões da IBM, que não se mostraram muito entusiamados. Na verdade, a criadora do Personal Computer estava trabalhando num novo projeto que substituiria o sistema original da Microsoft, o MS-DOS.
 
-> "Microsoft become the top software vendor in 1988 and never looked back..." - Microsoft
+Surgiram concorrentes potenciais do Microsoft Windows. VisiOn, da VisiCorp, foi a primeira GUI oficial lançada para PC. GEM (Graphical Environment Manager), lançada pela Digital Research no começo de 1983. No entanto ambos careciam do suporte de desenvolvedores para a plataforma. Ora, se ninguém quer fazer programas para um sistema, quem vai querer comprá-lo?
 
-Com o advento dos novos lançamentos da Intel, os processadores 80286 e 80386, o Windows acabou sendo atualizado duas vezes para aproveitar as novas características dos dois sistemas. E assim nasceram as versões 2.1.x do Windows, respectivamente conhecidas como Windows/286 e Windows/386.
+Um produto chamado Top View fora lançado pela IBM em fevereiro de 1985, baseado em DOS com um gerenciador multitarefa, mas sem uma GUI. Era lento e precisava de muita memória. Acabou sendo descontinuado dois anos depois e nunca chegou a ter uma interface gráfica.
 
-{{< image src="windows2.jpg" caption="Windows 2.0" >}}
+Antes do lançamento do Windows, advogados da Apple alertavam sobre a possibilidade do sistema infringir os direitos e patentes que a empresa tinha sobre as características da sua interface gráfica, a LISA (janelas com barra de título, menus drop-downs, suporte a mouse, etc). Daí o fundador da Microsoft, Bill Gates, teve a idéia brilhante de firmar um contrato de licença com a Apple, dando-lhe o direito de incluir em todas as futuras versões do Windows e programas os conceitos de GUI adquiridos pelo sistema gráfico da Apple (isso antes do Windows ser lançado).
 
-A próxima versão do Windows é que vai alavancar as vendas da Microsoft de uma vez por todas. Veremos que boa parte da API que usamos hoje em dia já existia no Windows 3.0, e boa parte das peculiaridades que nos perseguem até hoje.
+Finalmente, em 20 de novembro de 1985, a Microsoft lança o Windows 1.0, quase dois anos depois da promessa inicial. Foi vendido inicialmente por 100 USD. Continha em seu pacote: MS-DOS Executive, Calendar, Cardfile, Notepad, Terminal, Calculator, Clock, Reversi, Control Panel, PIF (Program Information File) Editor, Print Spooler, Clipboard, RAMDrive, Windows Write e Windows Paint.
+
+{{< image src="windows1.png" caption="Windows 1.0" >}}
+
+O novo sistema não fez muito sucesso de imediato. Pelo contrário, foi considerado lento e primitivo. Devido às limitações impostas pela Apple o sistema não pôde apresentar certas características como a sobreposição de janelas e a famosa lixeira (um conceito proprietário da Apple). Ficou cerca de dois anos boiando no mercado até que foi lançado um produto chamado Aldus PageMaker 1.0. PageMaker foi o primeiro programa WYSIWYG (What You Seee Is What You Get) para o PC. Tinha a grande novidade de juntar tipos e gráficos no mesmo documento. Depois de um ano, a Microsoft lança uma planilha de cálculos chamada Excel. Mais tarde outros produtos como Microsoft Word e Corel Draw ajudaram a aumentar a popularidade do Windows, embora esse ainda precisasse de muitas melhoras.
 
 [História do Windows]: {{< relref "historia-do-windows" >}}
 
 ---
 categories:
 - coding
-date: '2007-08-03'
-title: História do Windows - parte 3.0
+date: '2007-07-04'
+title: História do Windows - parte 2.0

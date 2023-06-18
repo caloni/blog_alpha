@@ -1,29 +1,78 @@
 ---
 
-Desde uns tempos para cá o Visual Studio tem se tornado uma das ferramentas mais pesadas de desenvolvimento já criadas. Como se não bastasse, a compilação de pequenos trechos de código é algo desnecessariamente complicado no ambiente. Por esse motivo estou ganhando o costume de usar a linha de comando para esse tipo de tarefa. Afinal de contas, na maioria das vezes a única coisa que eu preciso fazer é abrir o atalho "Visual Studio Command Prompt" e digitar uma linha: cl meu-codigo-fonte-do-coracao.cpp.
+Uma das partes mais fáceis e divertidas de se mexer no C++ Builder é a que lida com gráficos. A abstração da VCL toma conta da alocação e liberação dos objetos gráficos da GDI e nos fornece uma interface para desenhar linhas e figuras geométricas, mexer com bitmaps, usar fontes etc. Concomitantemente, temos acesso ao handles "crus" da Win32 API para que possamos chamar alguma função esotérica necessária para o seu programa, o que nos garante flexibilidade suficiente.
 
-O problema é ter que "andar" do diretório padrão de início até a pasta onde está o código-fonte que desejo compilar. Porém, isso é facilmente resolvido com uma linha (no registro), dentro de HKCR, Folder, shell, Console, command crie a chamada ao cmd.exe passando a bat que constrói o ambiente para o Visual Studio C++. A partir daí, o comando "Console" existe no menu de contexto de qualquer pasta que clicarmos no Windows Explorer.
+Vamos fazer da área da janela principal uma tela onde possamos desenhar. Para isso, só precisamos fazer duas coisas em nosso programa: saber quando o mouse está com algum botão pressionado e desenhar quando ele estiver sendo "arrastado".
 
-Note que é possível criar outros comandos, como é o meu caso, onde preciso de vez em quando compilar utilizando o Visual Studio 2005 (o comando Console) e o Visual Studio 2003 (o comando VS2003). Ao escolher a opção, um prompt de comando é aberto com o ambiente de compilação montado e (adivinhe) com a pasta padrão sendo a que foi clicada no explorer.
+Saber o estado dos botões é trivial, podemos capturar isso nos eventos OnMouseDown e OnMouseUp e guardar em alguma variável.
 
-Nossos projetos aqui na empresa costumam ser divididos em inúmeras soluções do Visual Studio para evitar a bagunça que seria (foi) ter que abrir uma solução de 10^24324 projetos. O problema é que, se abrir um Visual Studio já pesa, imagine abrir cinco de uma vez.
+    //...
+    private:
+    	bool mouseDown; // essa variável guarda o estado do mouse...
+    //...
+    
+    __fastcall TForm1::TForm1(TComponent* Owner)
+    	: TForm(Owner)
+    {
+    	mouseDown = false; // ... e é importante iniciá-la
+    }
+    
+    void __fastcall TForm1::FormMouseUp(TObject *Sender, TMouseButton Button,
+    	TShiftState Shift, int X, int Y)
+    {
+    	mouseDown = false;
+    }
+    
+    void __fastcall TForm1::FormMouseDown(TObject *Sender, TMouseButton Button,
+    	TShiftState Shift, int X, int Y)
+    {
+    	Canvas->PenPos = TPoint(X, Y); // mais tarde veremos o porquê disso
+    	mouseDown = true;
+    } 
 
-Por isso mesmo que, aproveitando que agora tenho uma linha de comando personalizada com o ambiente de compilação, faço uso da compilação de soluções em modo console que o devenv (a IDE do Visual Studio) oferece: devenv meu-solution-do-coracao.sln /build Debug ou devenv meu-project-do-coracao.vcproj /build Release. Além de ser rápido, pode ser usado em builds automatizados, coisa que já fazemos. O que quer dizer que podemos matar os itens 2 e 3 do [teste do Joel], nos deixando um passo mais próximo do purgatório.
+Saber quando o mouse está sendo arrastado também é um passo trivial, uma vez que temos esse evento (OnMove) para tratar no controle da janela.
 
-Tudo bem, mas eu preciso depurar o código! Você não quer que eu use o ntsd.exe, ou quer?
+{{< image src="builder-onmousemove.png" caption="Builder OnMouseMove" >}}
 
-Sabe que não é uma má idéia?
+Para desenhar, todo formulário e mais alguns controles gráficos possuem um objeto chamado Canvas, do tipo TCanvas (duh). Essa classe representa uma superfície de desenho que você pode acessar a partir de seus métodos. Isso é a abstração do conhecido device context da GDI, tornando a programação mais fácil. O desenho de uma linha, por exemplo, é feito literalmente em uma linha de código.
 
-Porém, se você prefere algo mais amigável, mais ainda que o WinDbg, você pode iniciar o depurador do Visual Studio por linha de comando: vsjitdebugger notepad.exe ou vsjitdebugger -p meu-pid-do-coracao.  Daí não tem jeito: você economiza no start, mas o Visual Studio vai acabar subindo. Ou um ou outro. Por isso eu recomendo aprender a usar o WinDbg ou até o NTSD. Quer dizer, é muito melhor do que esperar por uma versão mais light do Visual Studio no próximo ano.
+    void __fastcall TForm1::FormMouseMove(TObject *Sender, TShiftState Shift,
+    	int X, int Y)
+    {
+    	if( mouseDown )
+    	{
+    		Canvas->LineTo(X, Y);
+    	}
+    } 
 
-[teste do Joel]: https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
+O método LineTo() desenha uma linha do ponto onde está atualmente a caneta de desenho até a coordenada especificada. Esse é o motivo pelo qual no evento OnMouseDown alteramos a propriedade PenPos do Canvas para o ponto onde o usuário pressiona o botão do mouse.
+
+Voila! Temos o nosso Personal PaintBrush, com toda a tosquisse que menos de 10 linhas de código podem fazer. OK, ele não é perfeito, admito, mas pode ser melhorado. Temos o código-fonte =).
+
+Um dos problemas nele reflete o comportamento de gráficos em janelas no Windows. Seja o que for que tenhamos desenhado sobre uma janela, seu conteúdo é perdido ao ser sobrescrito por outra janela. Isso porque a memória de vídeo da área de trabalho é compartilhada entre todas as janelas do sistema (isso muda com o advento do "Avalon"). Precisamos, então, sempre repintar o que é feito durante a execução do programa.
+
+Se precisamos repintar, logo precisamos saber tudo o que o usuário fez até então. Uma das técnicas mais baratas no quesito memória para salvar o estado gráfico de uma janela é guardar um histórico das operações realizadas sobre sua superfície e executá-las novamente ao repintar a janela. A GDI é rápida o bastante para que o custo de processamento não seja sentido na maioria dos casos. Para o nosso _Paint_, apenas um array de coordenadas origem-destino já dá conta do recado:
+
+    //...
+    private:
+    	bool mouseDown; // essa variavel guarda o estado do mouse
+    	std::vector<TRect> mouseHistory; // um TRect guarda duas posicoes XY
+    //...
+    
+    // ...
+    {
+    	if( mouseDown )
+    	{
+    		// guardando a pincelada para reproduzi-la depois
+    		mouseHistory.push_back( TRect(Canvas->PenPos, TPoint(X, Y)) );
+    		Canvas->LineTo(X, Y);
+    	}
+    }
+    //... 
+
+{{< image src="amobuilder.gif" caption="Amo o Builder" >}}
 
 ---
-categories:
-- writting
-date: '2019-06-03'
-link: https://www.imdb.com/title/tt8900098
-tags:
-- cinemaqui
-- movies
-title: Deslembro
+categories: []
+date: '2007-11-01'
+title: Desenvolvendo em linha de comando

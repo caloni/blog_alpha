@@ -1,11 +1,11 @@
 ---
 
-Um dos brancos (o último) de Salta que tinha guardado, é meio desagradável. Confraternização BitForge 2017.
+Encorpado, seco, tânico. Corpo médio pra forte, frutas maduras, bem amadeirado e seco. Com o bife de chorizo do Sonda coube perfeitamente.
 
 ---
 categories:
 - writting
-date: '2018-06-24'
+date: '2017-12-20'
 tags:
-- wine
-title: Domingo Molina Tannat 2014
+- food
+title: Domingo Molina Sauvignon Blanc 2016

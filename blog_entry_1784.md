@@ -1,14 +1,25 @@
 ---
 
-Uma comédia escrachada nem sempre é lançar um monte de palavrões e piadas a respeito de sexo, gays, estupro, negros, pênis e vagina. Se você não sabe o que está fazendo, corre grande risco de gerar o efeito contrário: a indiferença, ou o desprazer. A maior prova disso recentemente é essa animação, que consegue errar na história, no tom, na lógica, na narrativa e na direção.
+Nada mais apropriado às vésperas da segunda Copa do Mundo no Brasil -- a primeira foi em 1950, para quem não se lembra -- para revermos a biografia de um jogador de futebol totalmente esquecido daquela época e de quebra entendermos um pouco como o processo de modernização do esporte retirou todo o romantismo de uma era e transformou os esportistas em meras figurinhas de um álbum prestes a expirar.
 
-Tudo gira em torno de uma história simples (até demais): um parque de diversões que ameaça fechar por falta de clientes e um livro do demônio com poderes mágicos que leva os mortais Remy, Augie e Curt para as profundezas do inferno. Os dois primeiros vão para resgatar o terceiro porque são os heróis da história. Ao encontrar a demônia (ou deusa?) Deema (Mila Kunis) partem em busca do único mortal que conseguiu ir e voltar do inferno: Orfeu. Enquanto isso, o Diabo (Bob Odenkirk, da série Better Call Saul) tenta desesperadamente conquistar a sedutora (?) anja Barb (Susan Sarandon).
+E a expiração desse álbum está cada vez mais rápida: jogadores migram de clube para clube, e os próprios clubes começam a passar de mão em mão sem qualquer vínculo à sua história e tradição. O que fica para trás -- mas isso é um mero detalhe -- é a vontade de jogar. O futebol perde-se no meio de tantas cifras, incalculáveis para nós, simples mortais.
 
-Feito em stop motion, como animação não há desculpas: ela é rasa, com vários momentos confusos em que o movimento dos personagens e do cenário se tornam pedestres demais para entender o que está acontecendo.
+Tudo isso bate de frente com a visão que o diretor José Henrique Fonseca (O Homem do Ano) tenta dar para o ídolo Heleno de Freitas, ajudado pela fotografia incomparável de Walter Carvalho ([Central do Brasil], [A Febre do Rato]), que utiliza um preto e branco cheio de contrastre, o que nos remete diretamente tanto para o símbolo do time em que Heleno jogava, o Botafogo do Rio, quanto para todo o romantismo de uma era. Muitas das cenas, principalmente as externas, utilizam essa estilização fingindo as limitações da época.
 
-Dirigido porcamente por Tom Gianas e Ross Shuman (esse último responsável por Frango Robô, o que pelo menos explica o humor), detalhes até interessantes do inferno, como um bonde aéreo que se move por engrenagens que movimentam braços, são mostrados de passagem e sem qualquer interesse. Não há nada mais irritante em uma direção do que o desleixo de um universo mais interessante do que o que estamos vendo.
+Heleno, mulherengo inveterado, mas jogador acima de tudo, é interpretado como que numa incorporação quase espiritual por Rodrigo Santoro. O seu overacting controlado aqui serve como uma luva, pois todo o drama e tragédia vividos pelo jogador nunca conseguiriam ser transpostos para a tela sem a ajuda da caracterização de Santoro (e que aqui também produz o filme). Perto do Heleno de Santoso, todos os outros personagens são meros coadjuvantes necessários, o que não é um defeito, mas mais um toque de gênio da dupla Fonseca/Carvalho, que entendem que uma figura ego centrada como Heleno precisa de um filme só para ele.
+
+Curioso constatar que o próprio futebol fica em segundo plano, e nunca sabemos de fato quem foi Heleno jogador. O que sabemos saiu na mídia ou da boca do próprio Heleno. E ambos, é preciso lembrar, antes de 1950 estavam criando deuses do futebol, indestrutíveis e inabaláveis. Até um templo -- o Maracanã -- acabou sendo construído para os rituais de adoração. A indignação do próprio Heleno de não ter jogado ainda nesse templo ilustra bem a visão que existia na época pré-futebol-arte.
+
+Ao nos mostrar o fim e o ápice de Heleno, acompanhamos apenas sua trajetória em direção ao buraco do esquecimento. Sua lenta descaracterização merece aplausos, principalmente pela sua última frase, seu último pensamento, a respeito de si mesmo, e, por que não, a respeito de todo ídolo honrado do esporte nacional.
+
+[A Febre do Rato]: {{< relref "a-febre-do-rato" >}}
+[Central do Brasil]: {{< relref "central-do-brasil" >}}
 
 ---
-categories: []
-date: '2007-06-15'
-title: O bom filho à casa retorna
+categories:
+- writting
+date: '2016-03-13'
+link: https://www.imdb.com/title/tt2141773
+tags:
+- movies
+title: Hell and Back

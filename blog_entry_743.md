@@ -2,11 +2,11 @@
 categories:
 - writting
 date: '2012-07-20'
-link: https://www.imdb.com/title/tt0029583
+link: https://www.imdb.com/title/tt1735898
 tags:
 - movies
-title: Branca de Neve e os Sete Anões
+title: Branca de Neve e o Caçador
 ---
 
-Antes da aventura psicodélica de Dumbo, em 41, a obra de Disney que adapta o conto dos irmãos Grimm no formato inequívoco de conto de fadas se tornou um padrão em histórias semelhantes (Cinderela em 50, A Bela Adormecida em 59). No entanto, é possível notar que o jogo de cores, de ângulos e até mesmo os detalhes da narrativa apontam para uma obra mais surreal e, portanto, fortemente influenciada pelas correntes artísticas da época.
+Uma versão mais Senhor dos Anéis do popular conto divulgado pelos irmãos Grimm, Branca de Neve e o Caçador tenta focar exatamente nessas duas figuras da história da linda jovem que é perseguida pela rainha má, ao mesmo tempo em que utiliza uma direção de arte fabulosa, que consegue reconstruir de maneira estilizada uma atmosfera propícia para o engrandecimento da vilã (Theron). Incrivelmente, é esta que consegue sugar melhor a atenção do público, mesmo tendo relativo pouco tempo de tela. Enfim, uma empolgante releitura que merece uma atenção especial.
 

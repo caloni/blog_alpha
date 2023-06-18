@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2016-11-18'
+date: '2022-04-18T21:35:10-03:00'
 tags:
-- food
-title: Três Corações Extra Forte
+- movies
+title: Três Canções Para Benazir
 ---
 
-Bem oleoso, mas com um amargor curiosamente melhor que o Tradicional. Oleoso, é o melhor custo/benefício do mercado.
+Curta premiado de afegão querendo ir para a guerra. Ele é barrado pela documentação e pela falta de apoio da comunidade que, certa, não quer problemas com o talibã. Ele acaba indo colher ópio e vira um viciado. Tudo acontece muito rápido. Ele canta três canções para sua esposa para dar nome ao filme, e o tom da direção é todo voltado a prêmios pelo diálogo fácil e popular. A crítica aplaude.
 

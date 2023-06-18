@@ -1,18 +1,27 @@
 ---
-categories:
-- writting
-date: '2019-03-31'
-link: https://www.imdb.com/title/tt0363589
-tags:
-- movies
-title: Elefante
+categories: []
+date: '2016-08-16'
+tags: null
+title: 'Electrum: uma opção simples e rápida de manter bitcoins seguros'
 ---
 
-Coincidência ver esse filme agora, pois semana passada estava conversando com um amigo meu sobre Boyhood e se a produção de um filme deve/pode interferir na forma como o filme é visto e avaliado. Esta é uma coincidência porque Elefante é um caso mais extremo ainda, pois se assistimos sem saber nada de antemão descobrimos apenas nos créditos finais que seus personagens são estudantes reais, e isso reflete diretamente sobre como enxegamos este trabalho excepcional de Cinema.
+Estava já há algum tempo pesquisando as melhores ferramentas para organizar carteiras bitcoin. E quando se fala em ter seus próprios bitcoins, a segurança deve ser prioridade número zero. Isso porque, diferente de bancos, quando você se dispõe a gerenciar seu próprio cofre, é você, e apenas você, o único responsável pela sua integridade.
 
-Isso porque ele fala sobre o crônico problema americano de estudantes dos colégios entrarem com armas na escola e cometerem assassinatos em massa seguido de suicídio. Sim, é sobre isso, e o título "Elefante" para o filme é mais que conveniente, pois estabelece uma ligação completamente aleatória e sutil com um desenho de elefante na parede de um dos garotos envolvidos no massacre e também é uma deliciosa metáfora sobre o elefante na sala que ninguém quer falar sobre, ou pelo menos falar como se deve sobre: enquanto se masturba intelectualmente a psicologia envolvida nesse fenômeno, jovens que seguiriam sua vida normalmente estão sendo abatidos.
+Isso quer dizer que apenas uma senha protegendo sua chave privada talvez não seja necessário. Algum hacker ou programa malicioso instalado na sua máquina (como um keylogger) pode facilmente obter essa informação.
 
-Pois bem, nesse filme é impossível não falar sobre isso da maneira mais honesta possível porque o elefante está bem no meio da sala de aula, sendo alvo de escárnio, e ninguém fala nada. Aqueles personagens do filme são alunos que realizam as mesmas atividades que o vemos realizando no filme. O filme nos mostra seus nomens comuns e o que fazem durante o dia na escola, seja praticar fotografia, ficar de namoro, conversar com as amigas. Van Sant os acompanha como um grande prólogo que nos faz observar a vida comum e ordinária de estudantes. Não há nada de especial em nenhum momento no filme. A vidinha dessas pessoas não nos traz nada digno de se fazer um filme.
+E, sim, é preciso pensar que pode haver um keylogger em cada teclado que você for usar para digitar sua bendita senha. Por isso ter uma senha segura, no caso de bitcoins, não funciona muito bem.
 
-Exceto pelo massacre. Pois depois disso a vidinha dessas pessoas foi tomada para sempre. Não existirão mais essas pessoas no mundo. E o impacto que o filme quer gerar é que esses são personagens da vida real. Apenas o massacre não aconteceu. Mas poderia acontecer. Mas tirando isso este é um filme completamente trivial que não oferece nada ao espectador. Se ignorarmos este elefante na sala, não há nada que resta senão a vida como ela é. Vale a pena conversar sobre isso?
+Além disso, há também a segurança dos próprios dados. Não de serem roubados, mas perdidos. Nesse caso, uma estratégia muito interessante, por acrescentar entropia e comodidade, são as carteiras determinísticas. Elas se baseiam em um grupo de palavras que são usadas para gerar o par de chaves pública e privada e derivar as próximas chaves de sua carteira. Com isso, basta guardar (em papel, no seu cérebro, mas nunca em software!) essas palavras que você poderá resgatar sua carteira, reproduzindo o algoritmo de derivação.
+
+Outro ponto importante, para os mais paranóicos, é conseguir gerenciar carteiras "frias", que são carteiras que não podem ser usadas para gastar, apenas para receber. Funciona assim: você gera o seu endereço público para a transação, onde as pessoas podem depositar seus bitcoins, mas a chave privada, necessária para enviar bitcoins dessa carteira, é removida ou não está disponível. Dessa forma, ela vira uma carteira "watch-only", em que o portador só consegue verificar o saldo e as transações, mas não realizar uma (a não ser que ele assine a transação em outro computador com a chave privada, ou resgate a chave privada de algum lugar, que seria o lugar "quente").
+
+Esse cold storage de carteiras, como é chamado, só é possível de duas maneiras: sendo você próprio um servidor da blockchain ou utilizando a infraestrutura da nuvem para validar as transações. A primeira forma é muito custosa, pois a blockchain cresce a olhos vistos, e demora hoje alguns dias para resgatar toda ela desde 2009. A segunda opção é mais rápida, mas depende da integridade dos servidores, libera mais informações sobre as transações do que devia, além de ser lento.
+
+Dentro dessa segunda opção, porém, existe uma maneira rápida de verificar a transação sem comprometer seus dados, enviando coisas a mais para o servidor que irá validá-lo. Se chama Simple Payment Verification, e já estava prevista no paper original de Satoshi. Ela se baseia apenas em uma árvore de hashes montada justamente para compor a blockchain. Gerenciar essa informação economiza muito mais tempo e processamento, além de liberar apenas a informação essencial para os servidores validarem.
+
+Todos esses elementos estão juntos no Electrum, uma ferramenta feita em Python que possui uma versão monolítica (um exe apenas) para Windows e que mantém as carteiras em texto plano em sua máquina. Sim, não há criptografia desnecessária. Afinal de contas, só a chave privada é que precisa ser protegida, e ela é aberta apenas durante a assinatura de uma transação, tornando todo o processo muito rápido.
+
+Em sua página é possível tirar todas as dúvidas de como fazer uma carteira offline (fria), como apenas assinar transações, como gerenciar as carteiras, em que arquivo elas ficam, o que comem, etc. Estou usando e estou muito feliz, pois é o primeiro software que gerencia bitcoins que consegue a proeza de ser simples de usar, flexível e rápido.
+
+Ah, e ainda possui um console em Python, para rodar seus programas =)
 

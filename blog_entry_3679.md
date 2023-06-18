@@ -1,20 +1,24 @@
 ---
 categories:
 - writting
-date: '2016-05-20'
-link: https://www.imdb.com/title/tt4145760
+date: '2016-07-16'
+link: https://www.imdb.com/title/tt2400463
 tags:
-- series
-title: The Lizzie Borden Chronicles (piloto)
+- movies
+title: O Convite
 ---
 
-Juro que esperava peitinhos. Uma série com a sempre "interessante" Christina Ricci (A Família Addams ou... O Oposto do Sexo?) sempre promete algo assim. Ela como a assassina sanguinária Lizzie Borden, então...
+Esse filme de 2015 não estreou nos cinemas do Brasil, mas graças à Netflix está disponível para espectadores caseiros. Se trata de um thriller travestido de drama, com todos os atores desconhecidos, algumas técnicas batidas e um certo gosto de estranheza que acompanha a tela pela maioria do tempo.
 
-A série possui uma temporada e oito episódios, e tem por intuito contar a respeito do caso dessa mulher do final do século 19, que matava pessoas com um machado.
+Essa estranheza já começa na primeira cena, onde vemos um casal conversando sobre o convite que receberam da ex-mulher dele, Will (Logan Marshall-Green), junto de todos seus amigos e conhecidos. Eles estão no carro, e um animal acaba sendo atropelado. Ainda vivo, Will precisa sacrificá-lo com uma chave de rodas. Piedoso, talvez.
 
-A série é assustadoramente televisiva, com aqueles zooms acelerados seguidos de câmera lenta, e cortes bruscos e sem motivo. Além disso, a direção de arte e figurino parecem estar prontos para rodar uma telenovela, com pouquíssimo apuro em filmar uma história de época. As roupas de metade dos atores pode ser confundido com antigo, o resto pode ser confundido com o Projac.
+E por falar em morte, Will e sua ex com um nome talvez simbólico, mas nem um pouco sutil, Eden (Tammy Blanchard), tiveram um filho, e este morreu em condições nefastas. Atormentados pela perda, é até natural que tenham se separado. O que não é natural é reunir todos os que presenciaram a tragédia em um jantar "especial".
 
-Além disso, a história gira em torno da perda da fortuna da tal Lizzie depois que seus pais vão dessa para melhor (provavelmente obra dela mesma). Basicamente é apenas isso em quase uma hora de série. A vemos andar de preto com sua irmã, falar com o advogado, com seu irmão semi-bastardo e a caveira horrenda (de mal feita) de um bebê.
+O estranho do filme fica por conta tanto de Eden e sua nova companhia estarem fazendo parte de uma espécie de seita onde se prega a aceitação da perda de entes queridos, além da própria morte, e uma desconfiança constante de Will, que se pega a todo momento observando detalhes no tratamento de seus hóspedes e de seus estranhos novos amigos, como o fato das portas estarem trancadas (sem a chave na fechadura) e da insistência em que todos se sintam bem e façam confissões inesperadas.
 
-Basicamente é isso. Um pouquinho de gore, com menos ainda de violência, e nenhum, praticamente nenhum... peitinho.
+Ao mesmo tempo, cada vez que Will perde o foco o vemos impregnado de lembranças do filho. Cada cômodo da casa onde moravam remete a uma lembrança do garoto, tornando-se de certa forma impossível para ele imaginar que sua ex-esposa estivesse de fato tão bem como ela demonstra.
+
+The Invitation já seria ótimo se parasse por aí, e eu até arriscaria dizer que preferiria que ele parasse aí. No entanto, ele vai um pouco além na paranoia e o que ele revela pode não ser nada imprevisível, mas as consequências do que é revelado são interessantes per se.
+
+Não se trata de nenhum grande clássico, mas para quem gosta de thriller e está cansado da mesmice dos jovens na cabana isolada, talvez goste de uma relação semelhante envolvendo pessoas que são amigas e que se encontram de vez em quando. Talvez você até goste de ideia de imaginar-se na mesma situação em seu próximo evento social. Quem sabe até onde vai a loucura alheia...
 

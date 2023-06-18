@@ -1,33 +1,18 @@
 ---
-categories: []
-date: '2012-05-27'
-tags: null
-title: Problemas comuns no WinDbg e suas soluções
+categories:
+- coding
+date: '2020-06-18'
+link: https://gist.github.com/Caloni/dd1429495c835a27ece61523e939ec7f
+tags:
+- ccpp
+title: Printf
 ---
 
-Depois de uma agradável manhã e tarde acompanhando o [curso de desenvolvimento de drivers do meu amigo Ferdinando](http://driverentry.com.br/blog/?page_id=16) voltei para a casa para brincar um pouco mais com o mundo kernel e voltar a encontrar problemas com o WinDbg & Cia que há mais ou menos 1 ano atrás não tinha.
+Entre os segredos escondidos das funções básicas da lib padrão da linguagem C o printf e o scanf lideram o ranking. O printf possui a capacidade de alinhamento de colunas das string impressas com tamanho variável. Sabia disso? Pois é, isso não se ensina nas escolas.
 
-Pesquisando por um problema específico envolvendo PDBs reencontrei o [blogue do Ken Johnson](http://www.nynaeve.net/), MVP Microsoft e analista por profissão e diversão, é conhecido por suas excelentes contribuições no mundo da depuração de sistema (notadamente WinDbg). Existe um post específico que ele escreveu para economizar tempo com problemas que ocorrem de vez em quando em uma sessão ou outra de depuração, mas nunca paramos tempo o suficiente para resolver.
+A impressão básica de uma string passada como argumento com printf deve ser feita usando na string de formatação os caracteres "%s". Agora, se você colocar um sinal de menos entre esses dois caracteres essa string será alinhada à esquerda. Mas o que é direita e esquerda se o tamanho usado pela impressão vai ser exatamente o tamanho da string? Aí é que entra o especificador de tamanho, logo após o opcional sinal de menos e antes do s que determina o tipo string. Dessa forma a string de formatação final para uma string variável alinhada à esquerda em uma coluna de trinta caracteres de tamanho seria "%-30s".
 
-Além de outros, ele lista alguns que particularmente já aconteceram comigo ou com colegas de depuração:
+Porém, existe um problema com essa abordagem: a string variável pode ter mais de trinta caracteres. Nesse caso existe mais uma opção "escondida" do printf, que é especificar esse trinta em um argumento passado junto dos valores. Para isso basta trocar o número por asterisco e passar o tamanho como se passa qualquer outro valor à função, seguindo a ordem de recebimento. Por exemplo, um printf("%-30s", "minha_string") poderia virar printf("%-*s", 30, "minha_string"). Note que agora o tamanho trinta não está mais fixo no código e pode ser uma variável inteira.
 
-**O WinDbg demora um tempo absurdo para processar o carregamento dos módulos e está usando tempo máximo de processamento em apenas uma CPU.**
-
-Isso ocorre porque existem breakpoints ainda  não resolvidos. Resolva deixando apenas esses tipos de breakpoints que são absolutamente necessários, pois cada vez que um módulo é carregado o depurador precisa fazer o parser de cada um deles para verificar se ele já consegue resolve-lo.
-
-Às vezes, porém, existe algum lixo nos workspaces carregados por ele que permanecem mesmo depois de apagarmos todos os breakpoints inúteis ou reiniciar o sistema. Em último caso, sempre podemos apagar o workspace do registro, em **HKCU\Software\Microsoft\Windbg\Workspaces**.
-
-**O WinDbg continua demorando décadas para analisar o carregamento, mas agora nem consome tanta CPU assim.**
-
-Isso ocorre porque na cadeia de paths para procurar por símbolos existe algum endereço de rede/internet errado que faz com que ele tenha que caminhar em falso diversas vezes. Esse e outros erros de símbolos sempre poderão ser analisados através do universal **!sym noisy**, que imprime todo tipo de informação útil do que pode dar errado durante um .reload explícito (eu digitei) ou implícito (lazy reload).
-
-**O WinDbg continua recusando carregar um símbolo que eu sei que existe e sei que é válido.**
-
-Talvez ele exista, mas por algum motivo foi copiado corrompido para o symbol server. Mais uma vez, **!sym noisy** nele e deve acontecer algum erro de **E_PDB_CORRUPT**. Nesse caso, apague o PDB culpado e tente de novo.
-
-E, como brinde, um grande aliado da produtividade: **como evitar que o WinDbg bloqueie seu PDB enquanto você precisa constantemente recompilar seu driver:**
-
-.reload -u modulo
-
-Fonte: Blog do [Nynaeve](http://www.nynaeve.net/?p=164).
+Fiz um exemplo bem sucinto, que pede o nome das branches master e slave de um controle de fonte e imprime as duas no final, alinhando o nome das branches à esquerda e o número de commits de cada uma à direita, incluindo um header. É assim que o printf resolve esse tipo de problema de saída formatada: de maneira simples e elegante, sem inventar moda nem querer "revolucionar" a computação.
 

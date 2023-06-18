@@ -1,24 +1,27 @@
 ---
 categories:
 - writting
-date: '2012-10-21'
-link: https://www.imdb.com/title/tt0069293
+date: '2018-10-18'
+link: https://www.imdb.com/title/tt8296592
 tags:
+- cinemaqui
 - movies
-title: Solaris
+title: Sofia
 ---
 
-Solaris exige do espectador uma imersão surreal e ao mesmo tempo filosófica. Tudo bem que isso já é esperado de toda boa obra de ficção-científica, que nos coloca em uma realidade alternativa mas que continua debatendo temas da época em que foi feita.
+"As pessoas conseguem se acostumar com tudo", um personagem diz em certo momento de Sofia, um filme que se você não parou pelo menos por alguns minutos para refletir após ter assistido, pense de novo. O personagem tem razão.
 
-Só que aqui estamos falando de uma união entre sci-fi e filosofia Tarkosvkiana. Quero dizer, o diretor é intenso. E é russo. Sonhos aqui não são apenas descritos: são vividos.
+Esse é daqueles filmes que brinca com nossas percepções de certo e errado. Ele vai fazer alguém que está predisposto a atacar culturas machistas a ter algumas boas surpresas em sua reviravolta final. Mas mais do que isso, vai nos fazer pensar em vários aspectos do que permeia nossa noção de moral e costumes, incluindo a questão das oportunidades na vida. Porém, principalmente, vai nos fazer rever a ideias que nós temos sobre o que é uma vítima.
 
-E por falar em sonhos, nos colocamos na situação do psicólogo Kelvin (Donatas Banionis), cuja missão se passa na estação espacial em torno da atmosfera misteriosa do planeta Solaris, que possui um oceano que se comporta como uma espécie de cérebro, materializando criaturas que se parecem (e agem) como humanos. Como não poderia deixar de ser, essas aparições estão deixando a equipe de pesquisadores extremamente perturbada, o que não os ajuda em nada a desvendar o funcionamento do planeta.
+E, acredite, no final você irá pensar se existe de fato alguma vítima, ou tudo são oportunidades para melhorar de vida.
 
-O mais curioso de uma história envolvendo gabaritados doutores é que estes fazem parte do filme, e por isso não conseguem entender algo que para nós, espectadores, munidos do poder da metáfora e alegorias, conseguimos enxergar de maneira muito óbvia: o oceano que adquire diversos formatos faz o papel da psique humana. E a psique não se desvenda, se interpreta.
+O filme segue um tom intimista no seu começo, apresentando uma família durante o almoço que acaba revelando duas coisas: este também é um almoço de negócios (uma oportunidade para essa família humilde melhorar de vida) e que a jovem Sofia estourou sua bolsa ao acabar de descobrir que está grávida (um empecilho, como qualquer um que conhece as culturas do Oriente Médio sabe muito bem).
 
-E é exatamente isso que Tarkovski nos sugere, aplicando rebuscados planos e se estendendo em torno de quadros que repetem um padrão (ou a falta de). Quando Kelvin passa a conviver com sua ex-amada Hari (Natalya Bondarchuk), a experiência é tão intensa que é como se nós mesmos a conhecêssemos de outras vidas.
+Esse roteiro já seria ótimo como uma peça de teatro, mas sendo cinema nada substitui a câmera na mão, os zooms exagerados nos rostos dos personagens e a captura do momento exato daquela expressão do personagem que fala por mil palavras. E considerando o fundo de pano social e a escassez de atores competentes com a etnia "correta", nada como refazer a mesma cena mil vezes para acertar o tom. Mais um ponto a favor do cinema e da diretora Meryem Benm'Barek-Aloïsi em seu segundo longa e exibindo um controle invejável de mise-en-scene.
 
-De certa forma, isso não é completamente mentira. O oceano de Solaris pode representar, de certa forma, a psique da humanidade inteira. A visão junguiana favorece as elucubrações filosóficas que ocorrem. E se estas podem parecer simplesmente jogadas, é preciso lembrar que ela está saindo da boca de representantes máximos da espécie humana (e Sócrates está presente em ambos os ambientes, na Terra e no Espaço). Estes homens não conseguiram desvendar Solaris assim como o Homem não consegue a si mesmo.
+É Meryem também que nos coloca em tensão constante ao nunca nos revelar detalhes que serviriam para nos acalmar, como o estado emocional do pai e da mãe. Vemos tudo sob os olhos da prima, a mais bem-intencionada da família e que portanto levará o maior tombo no final.
 
-Que triste fim para o Homem que, por não saber quando vai morrer, vive apressadamente. Se pelo menos tiver apreciado uma sessão de Solaris, talvez a viagem não tenha sido feita em vão.
+Outro ponto a favor de "Sofia" é nunca dar mais detalhes da história de vida dos personagens. Com isso a situação pelo qual eles passam se torna universal e fica mais fácil nos identificarmos (além de obviamente tomar um dos lados na discussão que ocupa quase todo o filme).
+
+Como resultado, "Sofia" é consistente com sua ideia, eficiente ao transmiti-la e termina por machucar um pouquinho sua fé na humanidade (se lhe resta alguma).
 

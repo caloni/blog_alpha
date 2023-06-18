@@ -1,11 +1,11 @@
 ---
 
-Taninos leves; compota e picante. Frutado, encorpado, pouco azedo e quente; frutas secas. Churrasco no sítio do Glauser em Itapeva.
+Não tem muito o que falar de um vinho topzera de uma vinícola topzera. Sabor intenso, equilíbrio entre taninos e o frutado puxando para ameixa.
 
 ---
 categories:
 - writting
-date: '2023-06-06'
+date: '2017-05-17'
 tags:
-- wine
-title: 'El Porvenir: Laborum Malbec 2020'
+- food
+title: El Porvenir Laborum Cabernet Sauvignon 2015

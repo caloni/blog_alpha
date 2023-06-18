@@ -1,21 +1,21 @@
 ---
 categories:
 - writting
-date: '2018-08-24'
-link: https://www.imdb.com/title/tt7186092
+date: '2022-10-24T20:26:59-03:00'
 tags:
 - cinemaqui
+- mostra
 - movies
-title: Nico, 1988
+title: Nezouh
 ---
 
-Abre uma janela em "Nico, 1988" sobre os últimos anos da artista Christa Päffgen (aka Nico). Decadente e ainda brilhante, a uma vez influenciada pela banda Velvet Underground se torna ela mesma uma influenciadora. O seu estilo niilista consciente é a raiz que muitos movimentos musicais adotaram para representar essa geração de perdidos, que em vez de buscar significado na vida vai na base das drogas se manter em uma constante e absurda viagem.
+Há tantos filmes de guerra tristes por aí. Nezouh não é um deles. Pautado no lado lúdico de uma menina "coming of age", é uma viagem fofinha de como você lida com a realidade quando sua casa é bombardeada e você não tem amigos porque todos fugiram da cidade em ruínas.
 
-O filme, dirigido e escrito pela italiana Susanna Nicchiarelli, realiza uma amarração interessante entre o fim e o começo dessa pessoa com um momento muito breve na infância de Nico. Observando de longe uma Berlim pegando fogo na segunda guerra, os sons que ela ouve são o motivo que faz com que ela ande sempre com um gravador. Ela deseja encontrar a clareza e a pureza do som da derrota. Os poucos momentos desse passado longínquo também servem como uma forma elegante de não precisar entrar em muitos outros detalhes de sua vida, pois o filme não é sobre nenhum deles.
+Estão pai, mãe e filha no meio dessa cidade abandonada e sitiada pelas forças aliadas que "protegem" os últimos cidadãos que ousaram permanecer em suas casas. A casa deles parecia uma moradia comum, mas você descobre em que buraco se meteram depois que a bomba abre inúmeros buracos literais pela casa, quase que em um formato teatral. Há um buraco bem em cima da cama da menina que serve para escapar das preocupações da briga entre os pais e, metaforicamente, atingir a puberdade que acabara de chegar.
 
-O que temos no núcleo da história é Nico, interpretada por Trine Dyrholm, e seu agente, Richard (John Gordon Sinclair). Dyrholm, uma dinamarquesa que já se entregou em papéis complicados, como a matriarca de uma comunidade de amor livre em A Comunidade, se transforma em sua versão de Nico com tamanha naturalidade que ela nos traz aquela impressão injusta de atriz de um papel só. Ela é tão autêntica falando como Christa Päffgen quanto cantando (é sua voz nas músicas do filme), sendo que cantando não se torna apenas um show de imitação, pois cada música cantada em momentos distintos da história recebe uma entonação de acordo com o que está acontecendo. Note sua voz desafinada e desinteressada quando ela canta para desavisados clientes de um hotel que não possuem a mínima noção de sua arte e compare com seus saltos enérgicos e empolgados em um show proibido em Praga (talvez o melhor momento do longa).
+O pai quer ficar em casa, a mãe sente pela sua filha que partiu com o marido, e a jovem Zeina fantasia sobre sua vida no meio de uma guerra da melhor forma que pode. Nós participamos desses devaneios que tornam a dura realidade mais palatável, como quando ela joga pedras pela janela em direção ao céu e é como se fossem pedras pulando na água, ou seus desenhos na parede sobre um outro mundo que ela desejaria visitar em vez de ficar presa em seu quarto.
 
-Já Gordon Sinclair representa bem uma série de emoções que um espectador-fã reconheceria em si mesmo: amor, admiração, paixão. Este não é um agente que simplesmente acredita em sua estrela: ele vive e entende Nico talvez melhor do que ela. Ele se torna testemunha de seu declínio, mas não parece ligar a mínima. Para ele sua musa sempre estará no topo, e ele fará sempre questão de que ela seja tratada da melhor forma à disposição, o que não impede que seja visível que esta não é uma banda que está arrasando na audiência. Lembrando uma versão mais digna de Mathieu Amalric em Turnê (2010), Sinclair até se veste de forma a pontuar que ele não faz parte do show business como qualquer outro vendedor de talentos: ele é parte do que defende.
+Tudo fica mais fácil depois que ela faz amizade com Amer, um dos últimos garotos de sua rua ainda por perto. Esta é uma amizade que a diretora Soudade Kaadan	toma os devidos cuidados para permanecer ainda do lado inocente da história, o que não dá nem pano para a manga das inúmeras preocupações do seu pai, ainda imerso nos valores de uma sociedade onde faltam as pessoas.
 
-Essa insistência em enxergar a situação da banda se torna uma mensagem triste e ao mesmo tempo necessária do filme. Artistas influentes como Nico e tantos outros talvez só consigam sua inspiração tendo essas vidas sofríveis, no limite. Dessa forma, a postura da diretora/roteirista Susanna Nicchiarelli é correta em nos trazer um filme realista, onde as quedas do dia-a-dia não são lamentadas como algo desastroso, mas como simplesmente parte da vida. Quando eles precisam ficar alguns dias na casa de um amigo por não conseguirem pagar um hotel é quando Nico tem uma refeição memorável com um amigo. A criação de Trine Dyrholm entra nessa vibe, e junto com ela todos os que interpretam membros da banda e equipe. A sobrevivência de Nico e seus fãs como exilados não é algo a se lamentar, mas a se observar. Admirar, talvez. Olhe que lindo um mundo onde nem todos fazem parte do rebanho.
+Rápido e direto, Nezouh é um filme sobre essas pessoas que ficaram e se recusaram a virar refugiados na Europa. É também um sopro de vento fresco vindo do imaginário do Oriente Médio, que está sempre em guerra, mas que quase sempre seus cineastas se sentem na obrigação de permanecer no gênero dramático e adotar a abordagem denúncia quando conseguem o dinheiro para produção. Nesse caso, felizmente, temos a visão fofinha, na medida do possível, de sua diretora.
 

@@ -1,53 +1,22 @@
 ---
 categories:
-- coding
-date: '2007-09-26'
-title: Introdução ao C++ Builder...Turbo C++
+- reading
+- writting
+date: '2014-07-01'
+tags:
+- books
+title: Introdução à Introdução à Computação
 ---
 
-Após mais de um ano de tentativas, finalmente consegui instalar e iniciar com sucesso o Borland Developer Studio. Esse foi o nome pomposo dado pela Borland para a "continuação" do velho C++ Builder e seus parentes, o Delphi e o C# Builder.
+O livro começa lá nos primórdios da informação, antes mesmo da humanidade. Sim, pois informação não necessita sequer de um ser sensciente para ser transmitida e utilizada, como já foi comprovado através de nosso código genético, o agora-popular-por-causa-do-ratinho DNA. Uma informação codificada intrinsecamente no processo de reprodução das células de um ser vivo. Um computador orgânico!
 
-Existem muitas coisas novas ainda para ver, mas não é a usabilidade. Assim como a IDE antiga, é fácil de sair mexendo e fazendo janelas, no bom estilo WYSIWYG dos produtos da Borland.
+Porém, mais do que explicar o que é informação, o livro de Gonick consegue fazer pensar que computadores sequer existiriam se seres humanos não estivessem sendo sufocados nesse último século de toneladas de informação para processar. É por isso que temos a dramática aventura de Charles Babbage e Ada Lovelace (nossa primeira programadora, a gatona da foto abaixo), também descrito na íntegra e com detalhes no livrinho ilustrado.
 
-Para quem começa a desenvolver aplicativos com interface para Windows, deve saber que uma das coisas mais produtivas que já inventaram foi o Visual Basic. De fato, o VB permite que virtualmente qualquer pessoa com conhecimentos mínimos de informática torne-se um gabaritado programador de telinhas.
+Antes mesmo da invenção do computador nós usávamos outras coisas para armazenar e reproduzir informação, como escrita, cérebro, discos de vinil, direitas no queixo... e para processar a informação, que é transformá-la em alguma outra informação, um dos primeiros "computadores" embutidos do homem foram seus próprios dedos, que permitiram contar e fazer contas simples de adição. Dessa forma, os cálculos que usavam nossos dedos logo se transformou em nossa era digital. Daí para escrita e ábaco foi um salto (de alguns milhares de anos).
 
-Porém, com o tempo você percebe que cada ferramenta tem suas vantagens e desvantagens. Uma desvantagem do VB era a falta de flexibilidade. Outra era que a linguagem usada não favorecia muito aqueles que se aventuravam chamando a Win32 API diretamente dos seus programas. Era possível, sim, mas enfadonho e nem sempre as coisas funcionavam como o esperado.
+Passando por romanos, persas, chineses e a Revolução Industrial, a narrativa cômica de Gonick nos leva para as entranhas do sistema computacional moderno com as invenções do já citado Babbage e Herman Hollerith. Este último revolucionou o processamento de dados do censo populacional e fundou a ainda de pé IBM, onde o escovador-de-bits em kernel Fernando (do blogue DriverEntry) atualmente vive suas peripécias.
 
-Para as pessoas que chegam nesse nível de necessidade, existem basicamente duas escolhas:
-	
-  1. Permanecer no mundo Microsoft e usar MFC + Win32 API, passando a programar na linguagem em que foi feito o Windows (C/C++).
-	
-  2. Tentar usar o Delphi, a evolução do Turbo Pascal para Windows, da Borland, que pode ser considerado mais flexível que o VB, mas ainda assim usa uma linguagem alienígena (no sentido de que ainda não é a linguagem nativa do SO).
+E por falar em bits, essa é uma parte importante desta saga, pois foi com o conceito binário que toda a lógica computacional evoluiu. Iniciando com simples eletricidade e a tecnologia de circuito que permite que acendamos e apaguemos uma lâmpada e terminando na mágica mais pura, simples e poderosa para os programadores (de hardware e sofware): o flip-flop. Gonick chega ao cúmulo de explicar todas as invenções da época encontrando sua necessidade de fatos do dia-a-dia -- como as telefonistas -- se transformando em uma espécie de Tanenbaum desenhista. Das válvulas aos semicondutores, o livro engrossa nosso conhecimento a cada imagem, fazendo-nos repensar novamente o que já havíamos cansado de aprender na faculdade ou em livros ou na internet.
 
-  3. Mudar de sistema operacional e esquecer esse negócio de loop de mensagens (eu disse duas escolhas, certo?)
-
-Bom, eis que surge o C++ Builder: uma ferramenta idêntica ao Delphi, contudo que oferece a linguagem C++ para que todas aquelas pessoas recém-saídas da faculdade e ansiosas por entrar no mercado de trabalho esqueçam aquele papo de Pascal e passem a usar a linguagem da indústria. Pelo jeito, era mais ou menos essa a visão da Borland quando lançaram o produto.
-
-Desde o princípio, o C++ Builder foi lançado em revistas de informática em versões para estudantes, o que estimulava as pessoas financeiramente menos capacitadas (estudantes, como eu) a cada vez mais utilizar essa ferramenta de programação para desenvolver aplicativos Windows, já que, além de não ser pago como o Visual Basic e o Visual C++, não era nem tão limitado quando o primeiro nem tão complicado quanto o segundo. E estava sempre entre os programas completos para serem testados na revista que acabou de chegar na banca. Nossa, como era divertido programar por prazer!
-
-O mais impressionante no Builder era que desde o começo, na versão 1, já tínhamos aquela palheta maravilhosa cheio de todos os controles que já faziam parte do Windows 95. Tudo isso por causa de uma estratégia simples e eficaz: os componentes são os mesmos do Delphi. O que o C++ Builder adicionou foi uma camada de interface para que C++ e Object Pascal conversassem. O resultado disso é espantoso: é possível programar em C++ puro, chamar APIs diretamente, e ainda usar os componentes em Delphi, além de também poder desenvolver em Delphi e mesclar ambas as linguagens em um projeto. É possível até usar herança entre componentes escritos em Delphi e C++ Builder.
-
-> Quando entrei na Scua comecei a trabalhar profissionalmente com o C++ Builder, ao desenvolver o aplicativo de administração do software de controle de acesso. Na época não tínhamos muito tempo para perder desenvolvendo tudo em Win32 API ou usar algo mais rústico como a MFC, que é mais parecido com a finada biblioteca OWL do que com a VCL (a biblioteca visual de componentes usada pela Borland para Delphi e Builder). E não, usar Visual Basic não era uma alternativa. Como a produtividade estava em jogo, hoje tenho certeza que fizemos uma boa escolha.
-
-Eu gostava do C++ Builder antigo: sem frescura de registrar componentes e sem necessidade de instalação. Até hoje uso a versão 1.0 para brincar de vez em quando, pois é relativamente pequena; apenas copio para uma pasta e ainda funciona muito bem.
-
-Mas desde que o mundo gerenciado veio à tona, para instalar esse singelo produto da Borland você vai precisar de alguns pré-requisitos da Microsoft:
-	
-  1. Microsoft .NET Framework SDK 1.1
-  2. Visual J# .NET Redistributable Package 1.1
-  3. Microsoft XML 4.0 SP2 Parser and SDK
-
-Se for necessária mais alguma instalação, não se preocupe: o Borland Turbo C++ Instalation Wizard irá te avisar no momento da instalação, que deverá ser a última a ser realizada.
-
-Após tudo isso instalado, finalmente conseguiremos rodar nossa ferramenta RAD. Aliás, antes que eu me esqueça, RAD é uma abreviação para Rapid Application Development.
-
-Se você nunca usou essa ferramenta, ao abrir o ambiente, irá se deparar com vários elementos que precisam ser nomeados e explicados para fazer algum sentido. Mesmo que muitas coisas sejam novas, algumas devem estar sempre gravadas em sua memória:
-
-Sempre que você clicar em algum componente gráfico para ser editado - como uma janela, um botão, uma lista - o Object Inspector será o lugar para editá-lo. Ele está dividido em propriedades e eventos. Propriedades são as características gráficas e comportamentais do componente que está sendo editado. Eventos especificam métodos para tratar as ações recebidas de algum componente (ex: clique de um botão).
-
-A palheta é onde estão todos os componentes que podem ser usados no momento para a edição do programa. Existe uma infinidade deles, tais como: botões, menus, caixas de seleção, listas de itens, barras de rolagem, listas de ações, imagens, rótulos, grupos de botões, e assim vai a valsa. Para usá-los, basta arrastar para uma janela e editar suas propriedades.
-
-Onde estão todos os meus arquivos? O Gerenciador de Projetos está aí para ajudá-lo. Todas as units (unidades de código) e forms (janelas) que você criar no projeto estará visível para fácil acesso. É muito importante saber organizar um projeto, pois conforme se avança, ele tende a se tornar maior e mais complexo. Junto do Gerenciador de Projetos existe o seu ajudante, o Structure. Na visão de design, o Structure irá mostrar os controles inseridos nas janelas; na visão de unit, o Structure irá mostrar os includes, macros, classes e funções do código-fonte exibido no momento.
-
-Update: este foi um overview geral por cima do que era o C++ Builder há mais de dez anos. Não consegui validar um projeto antigo na IDE porque as ferramentas da Borland seguiram por caminhos muito tortos e a versão mais nova (que instalei) não conseguiu importar. De qualquer forma, fica o post legado.
+Sua Parte II, o espaguete lógico, acredito que seja o que mais interessa a nós, programadores. Por isso espero dissecá-lo com um pouco menos de palavras e um pouco mais de código. Até lá!
 

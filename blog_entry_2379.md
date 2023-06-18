@@ -1,13 +1,12 @@
 ---
 categories:
 - writting
-date: '2022-03-06T21:18:10-03:00'
+date: '2020-07-26'
+link: https://www.imdb.com/title/tt8543390
 tags:
 - series
-title: 'Modern Love: A Second Embrace'
+title: Modern Love
 ---
 
-A série nos conduz tão fácil a devaneios cotidianos que se torna um prazer começar e acabar uma temporada. No final desta repensamos quando as coisas dão errado no passado e os motivos. Ele era imaturo e o casamento não durou. Ela teve que batalhar o resto da vida e ficou acabada. Agora que ambos voltaram a se ver e estão se divertindo com suas memórias e novas brincadeiras na cama surge a questão do casamento como um incômodo que ela precisa evitar, mesmo que seja para onde os novos encontros parecem dar.
-
-É importante notar como há poucos diálogos sobre o passado, mas a interpretação Sophie Okonedo sem muitas falas e mais olhares e emoção nos transmite a exata sensação de todos esses anos que nos escapa. Uma bela microatuação. O momento fugaz em que a série termina novamente até uma próxima temporada.
+O conceito é de histórias curtas baseadas na coluna homônima do New York Times. Tem a ver com amor representado de diferentes, inusitadas, formas. Possui uma direção enérgica que combina transições elegantes e músicas que evocam os sentimentos desejados do espectador, mas com muita delicadeza. É um trabalho sincero, de passar o tempo, fácil de apreciar, difícil de sair dos trilhos. Satisfação garantida pelos fãs do que é fofinho, mas não óbvio de maneira ofensiva. Modern Love dá espaço para o espectador respirar na maioria do tempo.
 

@@ -1,18 +1,15 @@
 ---
-categories:
-- writting
-date: '2012-11-18'
-link: https://www.imdb.com/title/tt0247586
-tags:
-- movies
-title: Nove Rainhas
+categories: []
+date: '2010-08-04'
+tags: null
+title: Novas diferenças no Bazaar
 ---
 
-Conheci esse filme através do seu clone norte-americano, Criminal, de 2004 (também conhecido como 171). Havia achado um roteiro incrível, principalmente pela sua capacidade de enganar o espectador durante tanto tempo. Nas minhas lembranças dos idos de 2005 o ato final continua sendo tão sensacional quanto seu original argentino. Porém, ao assistir à versão portenha é preciso tirar o chapéu: um ótimo roteiro com uma direção calma, precisa e cirúrgica conseguem deixar o remake no chinelo, se transformando em uma verdadeira ode aos engana-trouxas de todos os tempos.
+Novidade incrível nas novas versões do Bazaar. Dando continuidade à sua versão boiola gráfica, agora é possível configurar quantos visualizadores de diferenças você quiser. Na hora de ver a diferença em algum código-fonte, você pode optar pelo enrustido embutido ou, no caso, o meu favorito, WinMerge.
 
-Construindo seu ponto de partida no primeiro encontro entre Juan (Gastón Pauls), um rapaz que retira dinheiro das caixas ingênuas aplicando psicologia e matemática, e Marcos (Ricardo Darín), um expert da "carreira", que consegue não apenas aplicar os golpes de Juan como fazer-nos acreditar no que está dizendo diante de suas vítimas, mesmo nós, espectadores, sabendo que se trata de um golpe. A química entre os dois nunca é completa, pois fica no ar aquele sentimento de "um está tentando enganar o outro". Não sabemos quem é o enganador, porque no fundo a cada momento o jogo parece virar.
+E por que o WinMerge é meu favorito? Porque você pode ignorar toda aquela discussão se devemos usar tabs ou três espaços para indentar o código. Cada um indenta como quer, na hora que mexer no código, que o WinMerge não vai nem ligar para essas diferencinhas (já que o compilador não liga). Ele até detecta blocos de código inteiros que foram movidos dentro do arquivo.
 
-Passamos um dia na vida desses larápios até que se encontram com a irmã de Marcos, Valéria (Leticia Brédice), que apresenta-nos o falsificador Sandler (Oscar Nuñez), que tem em suas mãos o golpe de sua vida: a venda de uma falsificação perfeita de um selo a um milionário de passagem pela cidade. Por motivos de saúde, Marcos e Juan acabam assumindo a tarefa e boa parte dos lucros. Porém, o que poderia ser simples vai se complicando, e o desenvolvimento da história serve de pano de fundo para que cresça a tensão e o mistério por trás das reais intenções de cada integrante da dupla. Cada acontecimento se junta ao anterior, criando uma cadeia de pseudo-verdades que sobe uma cortina de fumaça para o espectador, que precisa confiar no que está sendo mostrado, mas sabe que existe algo invisível se configurando.
+Na hora de ver as diferenças no worktree podemos usar a velha opção de criar um alias para o WinMerge. Mas no meio de um log, podemos ativar tanto o view embutido quanto o de qualquer outra ferramenta que escolhermos.
 
-Nunca deixando de surpreender, Nove Rainhas eleva seu trunfo pela conclusão bombástica e inesperada. Porém, o que é mais precioso no filme é que sabermos o final não estraga a experiência de uma revisita. Podemos assistir quantas vezes quisermos, pois a profundidade de sua trama cria sensações diferentes a cada momento. Como devem ser os maiores golpes de boa fé.
+Vendo essas coisas fico imaginando como ainda tem gente que usa arquivos zip com data para armazenar versões de documentos diferentes. Tsc, tsc.
 

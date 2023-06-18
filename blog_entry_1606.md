@@ -1,12 +1,14 @@
 ---
 categories:
 - writting
-date: '2010-06-25'
-link: https://www.imdb.com/title/tt1054580
+date: '2019-11-18'
+link: https://www.imdb.com/title/tt5687612
 tags:
-- movies
-title: Flor do Deserto
+- series
+title: Fleabag
 ---
 
-Um filme delicado sobre uma situação horrível para mulheres, ou melhor dizendo, meninas, na Somália. Lá elas são mutiladas em prol da tradição, da religião ou por causa de qualquer outro motivo idiota como esse. A história de uma top model vinda de lá, refugiada na Europa, é o palco certeiro para a denúncia de uma violação séria dos direitos humanos e da criança. Nem sempre conseguindo exprimir seu tema da maneira mais coesa possível, o longa valeria a pena mesmo que fosse pela sua única mensagem: todo ser humano tem direito à sua própria felicidade.
+Esta série de comédia com episódios curtos apresenta uma protagonista que quebra a quarta parede trocando olhares significativos para nós, espectadores. São significativos porque nós entendemos que eles devem ser. Nessa comunicação extra oficial ela desmente e prevê o tempo todo as pessoas com quem interage, criando assim uma segunda camada de interpretação do que seria uma comédia de situação como todas as outras.
+
+Phoebe Waller-Bridge é a roteirista, atriz e produtora desta série. Quem dirige é Harry Bradbeer.
 

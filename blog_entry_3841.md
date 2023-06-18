@@ -1,16 +1,28 @@
 ---
-categories:
-- writting
-date: '2015-07-14'
-link: https://www.imdb.com/title/tt0283534
-tags:
-- movies
-title: Um Agente em Apuros
+categories: []
+date: '2009-05-08'
+tags: null
+title: Últimas pesquisas na blogosfera nacional
 ---
 
-Essa é comédia britânica estilo anos 80, mas foi filmada em 2001. Passou no SBT (TV aberta) essas noites, por conta do falecimento de Omar Shariff esse mês. Shariff participa pontualmente, pois o "astro" é Steve Coogan, quase um sócia de Steve Carrel, mas que depende mais de gags. Coogan, pode-se dizer, manda bem.
+É um imenso prazer constatar que hoje, mais de dez anos depois de eu ter iniciado minha caminhada pelo mundo da programação C/C++, temos uma reação de blogues e saites prontos para elucidar questões simples e avançadas dessas duas linguagens que ainda não morreram e, se depender de como as coisas andam, ainda vão durar pelo menos mais uns dez anos (sim, não sou tão otimista assim).
 
-A história é de um agente da condicional que testemunha um assassinato em que a polícia está envolvida. Sabendo da existência de uma fita que gravou todo o ocorrido, parte em busca dela, que foi guardada em um cofre de um banco (hein?) pela gangue de bandidos. Para conseguir reavê-la forma uma equipe com todos os criminosos que conseguiu "reabilitar": meia-dúzia. Conta também com a ajuda de uma policial bonitona que obviamente é o interesse romântico do nosso herói.
+Esse artigo é só para constar em minha lista de referência para o aprendizado de C, C++ e todas as outras coisas que vem depois. Se eu tivesse que escrever isso lá no início, provavelmente recomendaria mais linques de livros e saites em inglês. Hoje, felizmente, temos um conteúdo em pleno desenvolvimento em nossa blogosfera tupiniquim. E espero que continue assim!
 
-Esse é um filme no estilo piadas vem e vão, mas o contexto se mantém no aceitável. Há algo de interessante em acompanhar toda a estratégia do grupo, mas algo ingênuo em suas atitudes. Porém, desconfio que seja essa mesma atitude que faz com que o humor funcione. Sem lições de moral, com gostinho de paródia, um RED: Aposentados e Perigosos um pouco mais coeso, embora quase tão facilmente esquecível.
+  * Strings
+  * Strings e Números
+  * Os diversos tipos de casting
+  * Pointeiros e Referências
+  * Templates
+  * Smart Pointer - Introdução
+  * Auto Pointer (auto_ptr)
+  * Boost Shared Pointer, Weak Pointer e Scoped Pointer
+  * Boost Shared Array e Scoped Array 
+  * Quando usar cada um dos smart pointers
+  * As infinitas e riquíssimas discussões na lista C/C++
+
+  * Como usar o Visual Studio
+  * Compilando o Boost no Windows (usando Visual Studio)
+
+A internet brasileira cresceu como um todo. Mesmo que você deseje saber mais sobre microprocessadores ou drivers para Windows, em português, hoje isso é possível. É claro que o que não é possível é você se dedicar profissionalmente a essas áreas sem saber inglês. Mas é uma muito bem-vinda manifestação das pessoas que fazem acontecer todas essas coisas em nosso país.
 

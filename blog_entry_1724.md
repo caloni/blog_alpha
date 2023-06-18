@@ -1,12 +1,17 @@
 ---
 categories:
- - writting
-date: '2023-06-15'
+- writting
+date: '2021-08-20T21:43:39-03:00'
 tags:
- - wine
-title: Gran Enemigo 2017
+- series
+title: Grace e Frankie
 ---
 
-A linha El Enemigo contém uma qualidade e equilíbrio ímpares. Meu amigo abriu uma dessas garrafas quando o visitamos. Se trata de um blend de Malbec e Cabernet bem equilibrado, praticamente não-alcoólico. Apesar de não ser um Cabernet simples de beber ele deve ter aliviado o peso do Malbec e deixado o resultado final mais suave, apesar de com bom corpo. Os taninos não dominam a bebida. É bom constatar que taninos não são mais os protagonistas isolados das bebidas mais estilosas e caras de Mendoza. Há espaço para todos os sabores.
+Uma série televisiva que tenta resgatar os bons tempos de drama e comédia escritas para funcionar em temperatura morna independente se o casting é banal ou o tema é trivial.
 
+Grace e Frankie, duas mulheres cinquentonas de classe média alta, são deixadas pelos seus maridos, sócios, porque ambos são gays e estão apaixonados um pelo outro. Há 20 anos.
+
+Este é o mote para observarmos a intolerância e as reações de ambas frente à nova realidade. Há piadas homofóbicas porque ricos não podem ser gente boa (só os ricos de Hollywood), e porque a série quer que o espectador enxergue através disso.
+
+Qual o tema de toda série? Não sei, o episódio inicial é raso para ser leve, fácil para todos. Ou seja, tedioso até a morte. Tem aqueles bons momentos pontuais para te fisgar a topar mais um programinha Netflix de 500 horas por um pouquinho de qualidade. Lá no fundo. Com sorte.
 

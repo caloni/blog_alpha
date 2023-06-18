@@ -1,83 +1,28 @@
 ---
 categories:
-- coding
-date: 2017-12-17 22:11:40-02:00
-tags: null
-title: Se você não precisa de classe você não precisa de classe
+- writting
+date: '2011-11-17'
+link: https://www.imdb.com/title/tt1671496
+tags:
+- movies
+title: Se Não Nós, Quem?
 ---
 
-Nos últimos dias me deparei com o seguinte (pseudo-)código:
+Na primeira cena do filme, vemos um gato comendo um filhote que põe o ninho muito baixo. Logo depois, um menino tenta esconder o gato. Na visão de seu pai, o gato é o judeu do mundo animal, e deve ser eliminado sem dó.
 
-```
-int main(int argc, const char **argv)
-{
-    MyClass obj;
-    HRESULT hr = obj.init();
+O Cinema Alemão mais uma vez bebe dessa fonte inesgotável de ideias que foi o grande trauma da sociedade do século XX: o genocídio do povo judeu através de uma ideologia fanática que tentou restaurar a economia da Alemanha na pós-Primeira Grande Guerra. Perdidos estavam os dessa geração, mas mais ainda ficaram os filhos do Terceiro Reich, um evento devastador para o mundo, e mais ainda para o povo alemão, que teve que conviver com a culpa eterna de seus imperdoáveis atos. Sim, pois, depois de subjugados pelo mundo, quais ideias floresceriam das mentes de promissores escritores que viram pilhas de livros de filosofia sendo queimados aos montes, ou que tiveram seus pais participantes desse processo fanático que levou seu povo ao precipício moral? 
 
-    if ( SUCCEEDED(hr) )
-    {
-        if ( args have "cmd1" )
-        {
-            hr = obj.cmd1();
-        }
-        else if ( args have "cmd2" )
-        {
-            hr = obj.cmd2();
-        }
-        ... // você entendeu a ideia
-    }
-}
-```
+É essa questão que "Se Não Nós, Quem?" tenta responder através da história de Bernward Vesper (Diehl), filho de um escritor nazista que busca abrir sua própria editora, mas tem que conviver com as memórias do pai e de seu livro que enaltecia as ideias de Hitler. Com transições elegantes, que vão da batida de uma música à de uma porta, e passa por rimas visuais elegantes, sobretudo no figurino do elenco que passa pela transformação de duas décadas, o filme traça um paralelo entre os principais acontecimentos do mundo (sobretudo os EUA), que vemos através de documentários e filmagens da época, e a história de Vesper e sua companheira de luta e afetiva Gudrun Ensslin (Lauzemis), que viria a ser um dos membros fundadores da Fração do Exército Vermelho, uma organização guerrilheira alemã de extrema esquerda.
 
-Dentro de MyClass a seguinte estrutura:
+Como se pode ver, o filme brinca entre a realidade e a ficção porque de fato conta a história de personagens históricos de uma Alemanha ainda dizimada e que busca de todas as formas sua reconstrução, mas que, carente de escritores e ideias, acaba sendo levada pela corrente de revoluções do novo mundo.
 
-```
-class MyClass
-{
-public:
-    HRESULT m_result = S_OK;
+No filme, pequenos detalhes como a relação da mãe de Vesper com suas serviçais representa uma transição social que é devidamente caracterizada em seus pormenores conforme os anos passam. Contudo, o mesmo não ocorre de maneira evidenciada com seus personagens, que parecem andar em círculos enquanto o mundo se transforma rapidamente. A própria ideia defendida com persistência (e até teimosia) por Bernward em publicar uma reedição do livro de seu pai começa a se transformar de repugnante para anacrônica, e o passar dos anos é responsável por boa parte das mudanças que vemos na tela.
 
-    HRESULT init();
-    HRESULT cmd1();
-    HRESULT cmd2();
-    // você pegou a ideia
-};
-```
+Porém, independente de seu caráter histórico, o filme parece esquecer o desenvolvimento de seus personagens, que são meramente representados por falas mecânicas que determinam suas ações (igualmente mecânicas), o que termina por enfraquecer a narrativa principal, ainda que todo o resto esteja pincelado pela direção de arte de maneira convincentemente competente.
 
-Então eu me pergunto: qual a função da classe em um código desses?
+Maior prova disso é o envelhecimento de Bernward e Ensslin, que nunca é convincente. Não por culpa da maquiagem falha (desculpável), mas pela própria cronologia de seus personagens, que nunca parecem sentir o peso das mudanças nas ideias em sua volta.
 
-Bjarne Stroustrup desde o começo, em seu livro [The C++ Programming Language](https://www.google.com.br/search?q=the+c%2B%2B+programming+language), sugere que C++ não é uma linguagem unicamente orientada a objetos, mas multi-paradigmas. Hoje, em 2017, ela é uma linguagem genérica e até funcional. Na época poderia ser usada como orientada a objetos, mas também como estruturada e imperativa comum. O goto funciona até hoje.
+Portanto, quando vemos um Bernward enlouquecido, ou uma Ensslin determinada a agir, ambos soam forçados, pois não possuem explicação narrativa o suficiente para que expliquem ao espectador suas reais motivações.
 
-Então o erro no código acima é supor mecanicamente que como é C++ precisa ter classe.
-
-{{< image src="OoGOCOL.jpg" caption="" >}}
-
-Não. O código não precisa ter uma classe. No entanto, seu código precisa ter classe. Entendeu?
-
-Ter classe é para poucos. É para programadores que se preocupam com a relação entre funcionalidade, estilo, arquitetura e todos os inúmeros elementos que tornam um código perfeito. Para ser perfeito, um código precisa levar em conta tantos elementos que apenas um programador acordado, obsessivo, fora da matrix, conseguiria observar o que deve ser feito.
-
-Uma pequena sugestão:
-
-```
-#include <map>
-
-int main(int argc, const char **argv)
-{
-    MyMap cmds;
-
-    if ( SUCCEEDED(init()) )
-    {
-        cmds[args]();
-    }
-}
-
-HRESULT init();
-HRESULT cmd1();
-HRESULT cmd2();
-// você pegou a ideia
-```
-
-É a melhor solução? Não. Só uma ideia para tornar o código simples de entender, enxuto para manter, com apenas o modelito básico. Tem até um map para evitar encher de ifs. Mas não precisaria se você tem meia-dúzia de funções.
-
-E note que eu disse funções, não classe. E é possível ter classe sem classes.
+De certa forma, o filme cumpre o que se propõe ao desenvolver uma estrutura irregular que reflete na mesma falta de perspectiva daquelas pessoas que viveram uma época conturbada na história de seu país. Infelizmente, a mesma estrutura falha não cumpre a ambição de contar de fato a história dessas pessoas, o que torna o filme tão difuso quanto o que de fato ocorreu nas décadas passadas.
 

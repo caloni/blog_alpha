@@ -1,29 +1,28 @@
 ---
 categories:
 - writting
-date: '2013-02-07'
-link: https://www.imdb.com/title/tt1045658
+date: '2020-01-05'
+link: https://www.imdb.com/title/tt0457430
 tags:
 - movies
-title: O Lado Bom da Vida
+title: O Labirinto do Fauno
 ---
 
-A partir do primeiro encontro entre Tiffany (Jennifer Lawrence, [Inverno da Alma]) e Patrick (Bradley Cooper, Se Beber Não Case), mais precisamente no momento em que ela esbofeteia a sua cara, sabemos de imediato que vale a pena seguir essas duas vidas "para ver no que dá".
+Este é um drama político no final de uma guerra. Os perdedores são perseguidos pelos vilões e uma garota que muito lê enxerga uma versão diferente dessa realidade. Ela escapa através de sua imaginação para um mundo onde será uma princesa porque sua vida se transforma em uma fábula onde os caras maus vencem no final.
 
-Não que sejam as únicas pessoas que mereçam atenção. De uma maneira coesa e ao mesmo tempo torturante, o diretor e roteirista David O. Russell ([O Vencedor]), baseado no livro de Matthew Quick, nos deixa conhecer um pouco dos outros fascinantes participantes daquela experiência de vida. Uso a palavra experiência pois Patrick acabou de sair do hospital psiquiátrico depois de um tratamento após quase matar o amante de sua mulher e Tiffany está tentando superar a morte do marido e sua recaída moral através do sexo banal. Pat, como costuma ser chamado, possui bipolaridade, e a divisão do seu nome talvez sugira sua tentativa de sempre tentar enxergar o lado bom, método empregado por ele para tentar se desvencilhar do seu lado agressivo.
+O design de arte nos envolve por completo como se estivéssemos lendo um livro infantil cheio de descrições. Note uma simples ampulheta, com terra correndo por dentro e detalhes externos que lembram raízes de uma árvore. Após vermos esse objeto primordial segue uma das sequências mais apavorantes do cinema, porque é descrito em cada visceral detalhe, como se os contos infantis voltassem a conter detalhes sangrentos da época em que eram criados.
 
-O pai de Patrick, Mr. Pat (Robert De Niro, tocante sem soar piegas), após perder o emprego se tornou viciado em jogo de apostas e sofre de todo o tipo de superstição, muitas delas envolvendo a presença do seu filho, o que o transforma em um reflexo de si próprio e até uma maldição para Pat. Seu cunhado sofre a pressão do dia-a-dia e só consegue desabafar com o amigo por este ser imune a franquezas. Na verdade, a maior parte das franquezas do filme saem de sua boca. O método de Patrick de nunca ver o lado negativo das coisas no fundo é bem difícil de ser aplicado em sua vida em família, incluindo o seu bem-sucedido irmão (que parece servir para Pat como modelo idealizado do que gostaria de ser). David O. Russel faz uma brincadeira formando um círculo com seus amigos e familiares em sua casa que lembra o mesmo círculo de pacientes com quem Pat costumava se reunir; os problemas das pessoas "normais" começam a não parecer muito diferentes das pessoas em tratamento psiquiátrico.
+Os pensamentos da pequena e jovem Ofelia são transmitidos ao espectador pelas micro-expressões de Ivana Baquero e pela montagem impecável do diretor e roteirista Guillermo del Toro. É dessa forma que compreendemos a intuição de uma criança a guiando para encontrar as melhores respostas para os desafios impostos pela criatura mágica do título.
 
-Já Tiffany, assim como Pat, é um poço de ansiedade, algo que sutilmente ela consegue controlar quando está próximo dele, um desajustado social como ela. Sua tentativa de ignorar a morte do marido a faz usar o sexo casual como válvula de escape. Mais tarde entendemos os seus motivos. O. Russel não tem pressa de expor os seus personagens, pois entende que a melhor interação entre ambos só ocorre se estes se derem essa liberdade aos poucos. Também não utiliza apenas diálogos. A morada de Tiffany é separada da casa dos seus pais pelo quintal, o que facilita seus costumes sexuais mas que também é uma bela metáfora do alienamento de sua família (o que também explica sua ausência no filme), incapaz de suportar a não-adequação da filha aos costumes sociais.
+O Fauno das lendas antigas greco-romanas ganha uma roupagem castelhana e sombria através da produção de arte conduzida pelo artista mexicano Eugenio Caballero. É a combinação perfeita entre arte e computação. Ele falar em espanhol apenas colabora para a riqueza de detalhes, mas é nos seus movimentos fabulescos de mão e tronco que ele conquista nossas memórias do filme para sempre.
 
-O saco de lixo que Patrick usa para correr e o preto usado por Tiffany harmoniosamente caminham juntos, ou melhor, correm juntos, outra simbologia da ansiedade, e isso é estranhamente apropriado para eles no dia (e na noite) de Halloween (o primeiro encontro). Ainda que o drama de ambos seja encarado de maneira leve, o que poderia soar perigosamente desonesto, a entrega dos atores sempre convence. O ritmo é acelerado, como a mente de ambos e como todos que têm ansiedade. Isso ajuda a não pensarmos demais sobre o que está ocorrendo, mas nem isso se torna um problema quando ambos começam a dançar, mas torna óbvio que essa experiência para os dois é uma terapia social, além de protagonizarem momentos silenciosos e ao mesmo tempo tocantes. O uso da trilha não é invasiva, e sabe se calar quando a reflexão é necessária. Até os diálogos sabem se calar no tempo certo (como na breve conversa de Pat com sua mulher, o que de forma deturpada lembra o final de Encontros e Desencontros).
+Esta é uma produção que sabe usar seus efeitos com economia e persistência. Cada pequeno detalhe que é preciso mostrar está contido em um plano fechado fruto da produção de computadores e artistas digitais, mas o conjunto completo dos cenários, mostrado em planos abertos, mistura tecnologia com arte.
 
-Por fim, se o uso de uma aposta final que una todos os finais soe a princípio forçado essa é a metáfora mais poderosa de todas, quando a estratégia de Patrick de catalisar as energias negativas em uma fagulha de esperança é posta à prova. A exposição de ambos com o uso da dança encontra uma belíssima rima com [Pequena Miss Sunshine].
+O fundo histórico pós-guerra não é gratuito. Os militares subordinados à ditadura de Franco estabelecem um regime autoritário e violento, e as castas sociais são representadas de maneira superficial como em um conto de fadas. É como se ambos os mundos, da fantasia e da realidade, passassem pelos mesmos conflitos, mas a cada um é dada sua própria interpretação.
 
-Dito isto, O Lado Bom da Vida não se esforça como uma produção "indie" (o estilo, não o orçamento) em tornar os seus personagens queridinhos por terem uma plantação de produtos orgânicos e namorarem uma negra (vide [Minhas Mães e Meu Pai]). Os personagens já são fascinantes apenas por existirem, e o filme apenas nos faz conhecê-los de corpo e alma em duas horas. E o faz muito bem.
+Que fotografia maravilhosa Guillermo Navarro, colaborador habitual do diretor, nos entrega neste filme. Ainda que cercado de trevas, os cenários possuem cores vivas o suficiente para impregnar nossos olhos com identidade. O melhor contraste ocorre entre a sala vermelha e o azul sepulcral da casa usada como moradia de Ofelia e sua mãe, grávida do capitão.
 
-[Inverno da Alma]: {{< relref "inverno-da-alma" >}}
-[Minhas Mães e Meu Pai]: {{< relref "minhas-maes-e-meu-pai" >}}
-[O Vencedor]: {{< relref "o-vencedor" >}}
-[Pequena Miss Sunshine]: {{< relref "pequena-miss-sunshine" >}}
+O Capitão Vidal, o vilão que poderia ser cartunesco de tão unidimensional, é salvo tanto pelo roteiro de del Toro, que explora as nuances desse personagem, quanto pelo próprio ator Sergi López, que apesar da fachada psicopata demonstra um medo aterrorizante dentro de si, seja por ser na verdade um covarde ou por acreditar que nunca chegará próximo da bravura de seu pai, morto em batalha. Vidal carrega o relógio de seu pai, com o vidro quebrado, o lembrando que sua hora pode estar para chegar, o que seria um misto entre heroísmo e derrota.
+
+O Labirinto do Fauno é um filme que equilibra tão bem seus elementos que a narrativa flui sem vermos o tempo passar. Os detalhes da história seguem sutis. O principal dele é se os adultos sabem que Ofelia está vivendo uma aventura paralela em um mundo mágico de fadas. Nós temos essa resposta próximo do final e ela não soa simplória, mas arrebatadora.
 

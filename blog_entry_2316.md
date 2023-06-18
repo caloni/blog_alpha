@@ -1,20 +1,24 @@
 ---
 categories:
 - writting
-date: '2021-09-13T23:04:48-03:00'
+date: '2013-02-14'
+link: https://www.imdb.com/title/tt1588173
 tags:
-- cinemaqui
 - movies
-title: Meu Nome é Badgá
+title: Meu Namorado é um Zumbi
 ---
 
-Fala a verdade: não tem nada mais lindo que garotas skatistas. Estilosas, esbeltas, no ápice de seus corpos e habilidades, esbanjam personalidade sem precisar sair berrando aos quatro cantos "olhem pra mim!". Afinal de contas, não são garotos carentes por aprovação. Em Meu Nome é Badgá acompanhamos algumas dessas moradoras anônimas das comunidades de São Paulo que andam juntas. Há um esboço de personagens que nunca se concretiza. O objetivo é falar das situações do dia-a-dia dessas jovens, centrado na figura da garota-título, Bagdá.
+R (Nicholas Hoult) é um zumbi, mas isso não evita que ele pense e avalie suas ações. Comer cérebros, por exemplo, é quase uma necessidade, pois R não pode dormir e sonhar, mas através dos cérebros dos humanos ele consegue visualizar as memórias da vida que acabou de matar e, assim, se sentir vivo novamente por alguns momentos.
 
-Ela se impõe sendo apenas ela mesma. Garante seu lugar ao sol andando de skate e curtindo sua vidinha nas periferias da cidade. É uma diferentona, mas não faz marca com isso. Apenas questiona as revistas femininas em esboçar apenas um ideal do feminino. Tá certo que essa revista deve ser de uns bons anos atrás, pois hoje em dia diversidade é a ditadura da vez. Encontre uma sequência de comerciais com família tradicional e etnia dominante e ganharás um prêmio. Mas isso não diminui o mérito dessa crítica social. Bom, na verdade diminui. Soa datado e infantil.
+É com essa descrição meio cômica, meio poética que o filme de Jonathan Levine estabelece uma relação quase doentia entre comédia e romance. Os zumbis aqui não são levados muito a sério, o que pode prejudicar um pouco a dramaticidade da história. Em compensação, a velha fórmula do diretor de zumbis George Romero aqui é usada, e a comparação com os humanos de hoje em dia é mais que apropriada, principalmente quando R tenta imaginar como as pessoas antes de se tornarem zumbis poderiam confraternizar entre si e imagina um aeroporto onde só vemos humanos desperdiçando a dádiva da vida enfurnados em seus smartphones.
 
-Infantil também são as elucubrações fantasiosas da diretora Caru Alves de Souza, que assina também roteiro e produção. Ela floreia e estende desnecessariamente a narrativa, inserindo números musicais breves, mas suficientes para perdermos o interesse na história. Aguardamos pacientes até sua morosa continuação.
+Há outro fator que torna o filme único: R se apaixona por uma garota humana. E a leva para sua casa. Tudo que aprendemos nas comédias românticas adolescentes pode ser aproveitado aqui para extrairmos da experiência de R e Julie um humor acidental e quase natural, como a constante tentativa de R de não soar anormal diante de sua amada e até nos costumes atípicos do rapaz, como preferir discos de vinil ao iPod por estes parecerem mais vivos.
 
-Um ponto alto do filme é sua trilha sonora recheada de gêneros, como punk rock, surf rock, jazz, funk. A maioria das músicas (senão todas) performada por mulheres. Este é um filme feminino sem largar o bastão da fala. É lindo quando isso acontece no conflito do filme, quando há um caso sério de abuso que sintetiza toda a questão do machismo nas mãos de quem vive na pele. Os diálogos melhoram muito na cena final, e quase nunca se vê nada no resto do filme.
+A relação entre R e Julie com certeza é o ponto alto do longa, pois assim que somos apresentados ao humanos militarizados o filme volta para o lugar-comum. Se bem que o fato de terem construído um gigantesco muro que lembra madeira - o velho truque de arrastar os móveis para as portas e janelas elevado à loucura - e serem comandados por um lunático-sádico interpretado por ninguém menos que John Malkovich coloca certa dúvida se Jonathan Levine na verdade não está brincando com nossa concepção idealizada de como deveriam ser os sobreviventes de um apocalipse zumbi.
 
-Exceto na irmã da protagonista, espontânea como se deve em um filme que ensaia ser uma ficção documental. O resto dos atores não compra a ideia tão bem e o resultado é misto. Mas sua irmã é o equilíbrio perfeito entre atitude e atuação.
+De qualquer forma, os humanos e os zumbis já possuem uma "rivalidade natural", e o que soa mais acessório de luxo na história é a existência de uma terceira raça resultante da putrefação final de um zumbi: os esqueléticos. A sua função não é de grande valia: servir de alvos não-antropomorfizados (como as [tropas de Darth Vader]) e servir como foco de efeitos digitais igualmente supérfluos. Supostamente seriam assustadores, mas não com esses efeitos.
+
+até o fim que o romance entre seres tão diferentes - faz uma brincadeira com Romeu e Julieta - não pode dar certo em uma atmosfera de medo, Meu Namorado é Um Zumbi poderia ser acusado de meloso. Eu diria que a sua "melosidade" brinca com a nossa percepção de como é difícil para algumas pessoas aceitarem as diferenças, e a maior prova disso é que um beijo entre um humano e um zumbi possa parecer tão romântico quanto... errado.
+
+[tropas de Darth Vader]: {{< relref "star-wars-guerra-nas-estrelas" >}}
 

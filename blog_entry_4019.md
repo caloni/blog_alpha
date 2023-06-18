@@ -1,12 +1,16 @@
 ---
 categories:
 - writting
-date: '2020-01-09'
-link: https://www.imdb.com/title/tt7335184
+date: '2015-01-17'
+link: https://www.imdb.com/title/tt2004420
 tags:
-- series
-title: Você
+- movies
+title: Vizinhos
 ---
 
-As boas ideias do mundo estão condenadas a se tornar séries medíocres de streaming. Este é o caso de You, que narra a história de um stalker que utiliza os mecanismos online que qualquer um de nós poderia utilizar, observa seu alvo pelas janelas e vitrines do mundo real, e que nutre um certo fascínio em conhecer a pessoa a distância. Esta é a única explicação para que o bem apessoado Joe Goldberg não se aproxime em definitivo da vida de Candance Stone, já que no primeiro encontro entre eles já ficou clara a conexão afetiva, e até uma certa tensão sexual. No entanto, os criadores da série Greg Berlanti e Sera Gamble colocam suas ideias à frente da lógica e desenvolvem a possibilidade de um relacionamento entre um stalker e sua vítima como se fosse uma alternativa ao convencional, e no processo vamos acompanhando como é estar na mente de uma pessoa que só consegue observar sua vida em volta. Se pensarmos em ironia o espectador deverá agora sorrir para si mesmo.
+Vizinhos tem uma história e direção tão bagunçadas quanto as festas da fraternidade que se instalou na casa ao lado dos recém-casados e com uma pequena filha Mac (Seth Rogen) e Kelly (Rose Byrne). O tema do filme é aquela sensação dos casados que, cuidando de seu primeiro bebê, não está maduro o suficiente para se acostumar com essa nova fase, mas consegue medir com exatidão os eventos que estão deixando de ir ou as coisas que estão deixando de fazer. Vendo do outro lado, o líder da fraternidade tem tanto medo quanto eles, pois está prestes a cruzar esse portal das responsabilidades, o que faz com que ele se agarre com todas as forças no mural de seu grupo de faculdade e suas "lendas", como o cara que inventou que é possível continuar bebendo e vomitando ao mesmo tempo.
+
+Este é um dos poucos trabalhos do produtor e roteirista Nicholas Stoller que é dirigido por ele. Escrito por uma dupla envolvida em filmes como O Virgem de 40 Anos não é de estranhar a estrutura episódica da trama, que não convence justamente pelos acontecimentos geralmente estarem tão destacados de seus personagens que poderia funcionar tão bem (ou tão mal) caso a ordem dos eventos fosse invertida.
+
+Mesmo assim, a dupla Rogen e Byrne mantém o pique e conseguem trazer um filme agradável como passatempo, embora raso como uma poça. A diversão não está em seus personagens ou seus diálogos, mas em situações comuns que são elevadas ao absurdo. Afinal de contas, todo mundo aqui já quis matar o sujeito que faz uma festa que atravessa a madrugada sem qualquer consideração pelos seus vizinhos. Ou não?
 

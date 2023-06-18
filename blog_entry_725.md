@@ -1,16 +1,18 @@
 ---
 categories:
 - writting
-date: '2019-02-06'
-link: https://www.imdb.com/title/tt7520794
+date: '2019-04-24'
+link: https://www.imdb.com/title/tt7718088
 tags:
 - series
-title: Boneca Russa
+title: Bonding
 ---
 
-Sempre que alguém vem com a ideia de refazer o princípio do icônico filme de Bill Murray, Feitiço do Tempo, já surge aquele sentimento de muleta narrativa para tornar uma história artificialmente interessante. E quando essa ideia vem da Netflix, então, é certeza que lá vem bomba.
+Bonding, ou Amizade Dolorida (como está na Netflix Brasil), é uma série curtinha, que quase pode ser um filme, se tivesse a ousadia de implementar um closure no final de sua temporada. Mas não importa: é um conteúdo solto. Livre, leve e solto. Ele trata de traumas de adolescência, sexo e fetichismo de maneira a abraçar o mundo. E é um abraço gostoso e engraçado.
 
-Nesse caso uma das atrizes russas de Orange is the New Black, Natasha Lyonne, junto com Leslye Headland e a comediante Amy Poehler (da série Parks and Recreation) resolvem usar um princípio muito simples que vai se desenrolando em princípios menores e irrelevantes. O princípio maior é: morreu volta para um ponto no tempo. Os princípios menores são "qual a moral de tudo isso", "algumas coisas envelhecem ou somem", "espaço-tempo revisitado" e todas as baboseiras de quem não é muito fã de sci-fi, mas que precisa ser, costuma colocar nesse tipo de material.
+É mais ou menos essa a impressão dessa série que possui um elenco afiado para sua história, que envolve a amizade entre um gay/bi e uma garota atormentada pelos rapazes do colégio. Eles "cresceram" e resolveram seus problemas desenvolvendo diferentes fetiches sexuais. Ela é uma dominatrix, e trabalha com isso. Ele é um fudido, e trabalha para ela como assistente. E tem fetiches por pés.
 
-O resultado: a muleta narrativa funciona. São episódios curtos que divertem moderadamente com piadas ruins ditas por Lyonne e que nos faz lembrar que esse não é o filme do Bill Murray. A melhor parte é a introdução de um segundo personagem com problemas de relacionamento, mas fica apenas na introdução e depois todos nós temos que aguentar novamente as piadinhas sem graça e os relacionamentos aleatórios e sem sentido da garota de cabelo ruivo.
+Os personagens que vão se acumulando nos curtos episódios são assim como eles engraçados e espirituosos. Não é que o roteirista escreveu frases de efeito para todos eles e foi distribuindo. As piadas funcionam do ponto de vista de cada um deles. Este é um trabalho acima da média da Netflix, pois vitimiza pouco os bizarros que tenta homenagear/prencher cota, preferindo dessa vez comemorar as diferenças.
+
+E nesse sentido temos um movimento semelhante à série Community, quando os nerds foram homenageados como deveriam, difernete da série comunzinha The Big Bang Theory. Quer dizer, é este movimento, mas para variantes sexuais. Os especialistas da área da saúde talvez pirem, mas bem feito para eles, que dependem que as diferenças comportamentais dos mortais existam e sejam tratadas como doença.
 

@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-05-11'
+date: '2017-05-22'
 tags:
 - food
-title: Vasija Secreta Torrontes 2015
+title: Vasija Secreta Lacrado Malbec 2016
 ---
 
-Pouco doce no aroma, muito azedo no sabor. Degustação pós-visita na bodega.
+Pouco azedo e pouco ácido; fácil de beber no começo, mas tem corpo médio. Aberto no dia das mães atrasado após comprá-lo na viagem para Salta.
 

@@ -1,22 +1,23 @@
 ---
 categories:
 - writting
-date: '2012-08-01'
-link: https://www.imdb.com/title/tt0345950
+date: '2019-06-24'
+link: https://www.imdb.com/title/tt9016296
 tags:
+- cinemaqui
 - movies
-title: 'Bob Esponja: O Filme'
+title: Boas Intenções
 ---
 
-Bobinho, mas divertido. Possui lição de moral e elementos já manjados da própria série. Hoje assistindo pela quarta (quinta?) vez vejo que no fundo é um episódio expandido, e não possui pretensões muito... cinematográficas. Mas, dizer o quê de uma esponja quadrada que fala e seu amigo estrela-do-mar de bermuda? Ainda acho mais divertido que os Rugrats.
+Se refletirmos profundamente sobre nossas ações, surge uma inquietante questão: o quanto somos quebrados por dentro. Em Boas Intenções os refugiados são apenas pano de fundo para um estudo de personagem que acaba se tornando muito comum em nossa sociedade contemporânea cheia de desigualdades a nível global: os que ajudam os mais necessitados não para se sentirem bem, mas que precisam ajudar para não se sentirem imprestáveis.
 
-Bob Esponja é um fenômeno temporário que possui elementos mistos que acabam agradando tanto crianças quando adultos. Para as crianças, uma dublagem divertida e uma comédia física que deixa seus personagens serem alterados quase como massinhas de modelar. Para os adultos, a subversão do gênero com a inserção de elementos estranhos à construção da cena em desenhos. Em determinado momento do filme, por exemplo, quando Bob Esponja realiza uma performance admirável de cantor de rock com efeitos especiais, como ser erguido até o teto e se vestir como um mago, após o final do show o vemos pendurado por cordas e sem as luzes que antes o iluminavam. E isso é engraçado por infringir a própria natureza da confecção das animações.
+Essa é a história de Isabelle (Agnès Jaoui), uma mulher que vive para ajudar os mais necessitados. Ela conheceu seu marido em uma missão da ONU na guerra da Bósnia e agora com os filhos adolescentes os refugiados em Paris viram um prato cheio para essa professora de francês que ensina seu idioma aprendido na prática através de um programa social da escola onde trabalha. O problema que o filme mostra é o quão obcecada Isabelle está em ajudar essas pessoas e jogar a culpa da miséria alheia nos outros, enquanto isso é a ausente da família, de seus filhos e marido. Quando ela está presente é para falar apenas de seus alunos e de suas tarefas extra-curriculares para ajudá-los, momento onde geralmente ela perde as estribeiras ao descobrir que ninguém mais está realmente preocupado com isso.
 
-No entanto, é preciso dizer, alguns truques do longa metragem já estão passados, e são colocados simplesmente por preguiça de criar gags criativas. Exemplos são a batidíssima cena do elevador e sua música relaxante no meio de uma cena de ação, ou o eco de uma ravina que se revela o próprio Patrick Estrela repetindo a mesma palavra várias vezes.
+Este é um filme bem humorado e leve sobre um tema conturbado, mas que aceita pontos de vista demais para ser relevante como comentário social, mas que pela diversidade de personagens estereotipados já nos diz algo, embora esse algo não se traduza em palavras. Porém, a atriz Agnès Jaoui traduz muito bem o que é estar preso em uma arapuca sentimental montada desde o berço por falta de carinho, revelando uma Isabelle cada vez mais exausta da luta diária contra a apatia, conformismo ou alienação das outras pessoas.
 
-Da mesma forma, o núcleo da história, o plano de Plâncton para obter a receita secreta do Hambúrguer de Siri e conquistar a Fenda do Biquíni é um recurso extremamente batido da série e que rende menos situações engraçadas e originais do que as ideias mais criativas envolvendo a amizade entre Bob Esponja e Patrick ou a inimizade com Lula Molusco.
+A narrativa do filme poderia se tornar episódica não fosse o dinamismo com que o diretor Gilles Legrand escolheu contar todos os passos independentes que o roteiro escrito por ele e por Léonore Confino utilizam como fonte de humor e de confrontação da professora e os fantasmas de sua existência. O ritmo e a ausência das pessoas queridas de sua vida, principalmente a avó, facilita entender que ela está vivendo o pesadelo que escolheu para si, mas o mais sintomático no longa é nunca conseguirmos vislumbrar uma camada que seja a mais de complexidade de Isabelle. A vemos na história toda, parodiando o próprio filme, como um clichê ambulante, sem nunca conseguirmos ir mais fundo em sua psiquê. Faltam símbolos em uma experiência com muitos diálogos e pouca visão.
 
-Mesmo assim, a "curva dramática" de Calça Quadrada, impedido de ser o gerente da filial do Siri Cascudo por ser um mero garoto, é uma surpresa agradável na aventura dos dois amigos, pois enfoca ao mesmo tempo uma aventura adolescente e a incongruência que isso gera ao percebermos que, no fundo, os dois não passam de crianças se divertindo com as situações.
+Ao mesmo tempo há um fiapo de comentário social, como a forma com que a burguesia mercantiliza até a caridade através de associações anônimas e convenientes, que servem mais para se isolar dos problemas do mundo do que para tornar qualquer tipo de ajuda eficiente, em uma versão individualista de quando países ricos jorravam milhões para a África sem qualquer resultado notável. Da mesma forma chega a ser minimamente curioso notar como o comportamento dos que eram refugiados na década passada e que hoje se transformam na burguesia, como o marido de Isabelle.
 
-Com uma conclusão que diverte pelo inusitado, voltando a fazer humor da forma que Bob Esponja faz melhor, O Filme ganha pontos por colocar uma corja de piratas indo ao cinema assistir-lo e por mesclar assim o mundo real e o desenho.
+De qualquer forma, este filme, querendo ou não, se torna quase que politicamente incorreto, pois acaba tentando nos divertir às custas das mazelas do mundo. A própria Isabelle não ficaria muito feliz se pudesse assisti-la, julgando este ser apenas uma diversão burguesa. E quando analisarmos profundamente o significado do filme entenderemos o quão quebrado como sociedade nós estamos nos tornando.
 

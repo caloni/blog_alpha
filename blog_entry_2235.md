@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-01-17'
+date: '2017-12-01'
 tags:
 - food
-title: Mantissa Café Fazenda Campestre
+title: Mantissa Café Fazenda
 ---
 
-Equilibrado, mais doce e bem sutilmente amargo; pouco amadeirado com retrogosto semi persistente em corpo fraco e pouco aromático. Preparando no meio da tarde conversando com a Renata/Regina.
+Comecei a provar este café de Poços, mas não me lembro mais. Troquei pelo do Café Gourmet e talvez volte a provar.
 

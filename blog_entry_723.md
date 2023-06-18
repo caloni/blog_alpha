@@ -1,18 +1,16 @@
 ---
 categories:
+- cooking
 - writting
-date: '2013-12-13'
-link: https://www.imdb.com/title/tt0397892
+date: '2020-06-23'
 tags:
-- movies
-title: 'Bolt: Supercão'
+- food
+title: Bolotorta de Banana
 ---
 
-O grande trunfo de "Bolt" em sua narrativa é primeiro nos brindar com cenas megalomaníacas de ação (ecos de Os Incríveis) e nos fazer acreditar que Bolt, que faz rima não-ocasional com "bold", ou seja, "corajoso, valente", de fato possui todos esses poderes. Mesmo assistindo pela segunda vez o truque permanece pela eficiência dos cortes e enquadramentos, que conseguem inclusive nos enganar a ponto de não pensarmos como eles podem cruzar uma cidade inteira se tudo termina dentro de um estúdio.
+A receita é de torta de banana da Dona Neusa e eu transformei em um bolo açucarado e canelento. As variações de uma receita podem não ser boas, mas sempre serão interessantes.
 
-É uma grande ajuda também a qualidade técnica da animação, que usando movimentos precisos tanto nas cenas de ação quanto nas mais paradas, consegue combinar a limpidez da fotografia com a qualidade do seu ritmo. A trilha sonora sempre empolgante e uma música-tema inspirada tornam a experiência ainda mais redonda.
+Você pega a farinha e o açúcar e mistura com o leite. A unidade da massa é bem pouca, pois o açúcar não é uma coisa seca e se molda à sua experiência. Além do mais, depois vem a banana cortada em rodelas e polvilhada em açúcar e canela, e acho que esse foi o meu erro. Basta canela, e pouca. Misture sem destruir a banana. É esperado que o fermento já esteja incorporado. Unte a forma e use uma temperatura baixa para inserir no forno.
 
-Por fim, a introdução frenética dá lugar a um cãozinho abandonado que terá que se virar com a realidade para cruzar o país inteiro em busca de "sua humana", o que cria um road-movie instantâneo e forçado. Uma falha inocente, que junto com outras vão diminuindo a experiência, que não parece ter estrutura o suficiente para aguentar tanta história e personagens, ainda mais se lembrarmos que alguns deles se inspiram claramente em sucessos anteriores (Os Sem-Floresta) e da existência de um "vilão" extremamente limitado de tão bobo.
-
-O que "Bolt" procura todo o tempo e na maioria das vezes consegue é comparar nossa imaginação com a dura realidade, quase que brincando com a própria experiência cinematográfica em que toda peripécia arriscada sempre dá certo. Tenta também emocionar em vários momentos, mas acaba o fazendo de fato pelo arco que a história proporciona. Um lindo exemplo de como inspirar crianças (e adultos) sem apelar para a velha farofa melodramática.
+Ingredientes: três xícaras de farinha de trigo para três de açúcar e uma e meia de leite. Adicione três colheres de manteiga com uma colher de fermento químico. Essa receita é para seis bananas polvilhadas em açúcar e canela a gosto.
 

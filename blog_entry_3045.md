@@ -1,22 +1,25 @@
 ---
 categories:
 - writting
-date: '2016-01-14'
-link: https://www.imdb.com/title/tt2503944
+date: '2018-10-09'
+link: https://www.imdb.com/title/tt2050452
 tags:
+- cinemaqui
 - movies
-title: Pegando Fogo
+title: Pedro e Inês
 ---
 
-Pegando Fogo é um filme de sensações mistas. Em seu roteiro, é simplesinho e clichê. Em sua direção e, principalmente, sua edição, é ágil, dinâmico e tão fluido que quase é possível esquecer sua pouca força na história.
+"Pedro e Inês" é uma viagem lindíssima por três tempos, três costumes e a mesma perda. Brincando com diferentes narrativas e suas trágicas coincidências, o estado da loucura pode ser impossível de mapear na razão ou é apenas a beleza do essencial que ofusca a rotina.
 
-Bradley Cooper é Adam Jones, um chef de cozinha que se tornou notório em Paris há quase dez anos, estragou sua carreira com álcool, drogas e uma obsessão cega pela perfeição (e exclusividade), colecionou inimigos e se isolou em Nova Orleans para uma desintoxicação física e psicológica. O filme começa em seu retorno para a Europa, em Londres, onde pretende reunir uma equipe de sub-chefs baseado mais em critérios técnicos que emocionais, visando entregar para o restaurante do seu amigo o prêmio máximo de uma revista conceituada de críticos gastronômicos.
+A história principal de Pedro e Inês, que compartilham nomes e relações nas outras duas histórias, termina em um sanatório. O filme começa lá e vai nos desvendando os devaneios de Pedro, que nos tempos atuais tenta trazer alguma luz ao clichê máximo do romantismo: o amor proibido.
 
-Essa é toda a premissa que leva John Wells, um produtor/escritor que de vez em quando dirige (Álbum de Família, A Grande Virada), e seu editor, Nick Moore (Uma Manhã Gloriosa , Simplesmente Amor, Um Lugar Chamado Notting Hill), a conquistar o público através de sequências apaixonantes sobre a arte de cozinhar e servir comida. A parte que mais seduz em Pegando Fogo é como a transição entre a cozinha e a ausência de feedbacks diretos dos seus clientes traz uma grande tensão justamente pela responsabilidade total de quem está no comando de fazer os pratos.
+Trazendo interpretações do elenco em mais dois tempos distintos, a monarquia e possivelmente um futuro pós apocalíptico (embora isso não seja certo), a narração de Pedro e sua história soa como um poema em prosa, pois possui a reflexão dos acontecimentos sem precisar explicar os detalhes, que vamos acompanhar em uma filmagem convencional, quase teatral, mas estilizada de maneira magnífica, imortalizada, pela arte e fotografia.
 
-Cooper aqui faz seu feijão com arroz já visto em O Lado Bom da Vida, mas que mistura de maneira inteligente com sua performance mais tensa em Sniper Americano. A escolha de seu elenco é uma receita que mistura marketing com bons talentos, embora desperdice a maioria deles (Uma Thurman e Emma Thompson como um time de bastidores?), e transforme alguns mais importantes em clichês pouco interessantes, como a incógnita do personagem de Omar Sy (Intocáveis) e o resto do elenco que não dá para lembrar direito. As exceções ficam por conta de seu par romântico, a mãe solteira Helene, cuja dramaticidade na história Sienna Miller consegue elevar ao mesmo nível de Cooper, apesar do roteiro maniqueísta. Da mesma forma, Riccardo Scamarcio como o rival Max é certeiro em seu temperamento explosivo como o de Adam.
+Esses detalhes estéticos são importantes, pois os três cenários são limpos, sem poeira, como se os três estivessem acontecendo de fato como Pedro imagina: não com a separação de séculos, mas em paralelo. E se formos levar a questão metafísica que ele levanta, sobre a alma, imortal, sendo condenada a sofrer o mesmo destino várias vezes, o que é o tempo senão a situação dos costumes de uma época? Os seres humanos continuam humanos, e junto deles seus já conhecidos pecados: ciúmes, poder, ambição, desejo por normalidade às regras vigentes.
 
-O que não se presta a ficar à altura de seus personagens é o roteiro de Steven Knight, construído em cima da história de Michael Kalesniko. Além de insistir em um joguete bobo envolvendo metáforas divinas, joga palavras nas bocas de seus personagens simplesmente para tornar a história mais palatável (com o perdão do trocadilho) para o público que entrou na sala esperando uma comédia romântica que não necessita de atenção para ser vista; os melhores momentos são surrupiados pela falta de tato de Knight, que revela conclusões óbvias sobre quando há chances dos clientes serem os tais críticos gastronômicos, ou o momento mais "vergonha alheia", quando Max confessa a Adam que sabe que ele é um melhor cozinheiro, sendo que toda a performance de Scamarcio é justamente tornar isso óbvio sem precisar dizê-lo verbalmente.
+Pecando pela perfeição extrema na narrativa, "Pedro e Inês" parece assim elevar o essencial: Pedro precisa de algo para viver, para ser completo. Esse alguém é Inês. Mas por analogia imagine que não fosse essa amada sem personalidade e apenas beleza. Ela poderia ser uma metáfora mais poderosa ainda, sobre o que cada ser humano deseja mais que tudo. E isso, segundo o filme pessimista, nunca lhe será dado pelas situações da época (ou pela natureza humana).
 
-Ganhando pontos pelos detalhes -- como quando Adam usa azeite para enfeitar um prato, mais de uma hora depois de projeção de quando ele aprendeu isso -- e por não insistir muito no passado misterioso e turbulento do protagonista, apenas pincelando-o sutilmente, Pegando Fogo é um drama tenso que espreme um pouco de humor, mas quando faz isso costuma sair mais suor e lágrimas. Um ótimo passatempo com potencial de ser um pouco mais.
+A interpretação de Diogo Amaral é do mesmo rapaz, preso mentalmente no tempo e espaço onde a história se passa, incapaz de se desvencilhar de sua tragédia e ainda capaz de perceber que ela aconteceu em outros momentos da História, em outras transformações de sua mesma alma. Amaral é apenas impressão que nos traz tensão. Ele e os outros atores não estão ali para criar pessoas de carne e osso, mas para representar peças que se juntam em um emaranhado simples de sensações. É impressionante que mesmo sem muita história para contar, ou com uma história previsível para se desvendar, o filme consiga seguir um ritmo graças à narração apaixonada do ator.
+
+Mas não necessariamente ele vai agradar a todos. Solene e com uma trilha sonora coerente, "Pedro e Inês" pode dar sono em um espectador desatento em um primeiro momento, podendo soar como uma história que já se viu tantas outras vezes. Mas calma, respire e pense nas diferenças das outras histórias. Aqui o objetivo não é encontrar semelhanças ou diferenças desses personagens em diferentes momentos do tempo. Ele é algo mais como A Viagem (Cloud Atlas), onde é a essência que nos transporta para as lendas. Esqueça o amor proibido; foque no que você sempre quis e que por algum motivo não está conseguindo.
 

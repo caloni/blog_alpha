@@ -1,16 +1,18 @@
 ---
 categories:
 - writting
-date: '2019-04-22'
-link: https://www.imdb.com/title/tt9893572
+date: '2015-01-11'
+link: https://www.imdb.com/title/tt1821549
 tags:
-- series
-title: Necrópolis
+- movies
+title: Nebraska
 ---
 
-Esta série é um bom exemplo de como fazer conteúdo engraçado sem pretensão alguma e um orçamento menor ainda que a pretensão e ficar bom. Bom, bom eu não diria. Ele fica exatamente como você esperaria que ficasse um vídeo com você e seus amigos em uma tarde preguiçosa e criativa.
+Sejamos honestos: quase ninguém termina essa vida tendo valores que prestem. Quando eu digo valores, não me refiro apenas a dinheiro, mas valores morais, intelectuais, culturais. Muitas vezes não se trata de oportunidade: a grande maioria não faz questão. Woody Grant (Bruce Dern) recebe um desses anúncios pega-trouxas de "você pode ganhar um milhão" e decide ir pegar o dinheiro. O destino: Nebraska. Já no fim de sua vida, é tido como louco, mas antes que você conclua algo, esse não é daqueles filmes que te surpreendem no final, mas no começo e durante. Um road movie bem comportado.
 
-Ela conta a história de um escritório do IML (Instituto Médico Legal) em que a última alternativa de médico residente foi o fracassado Richard (Rafael Pimenta), que estudou cinco anos para passar em uma faculdade particular de medicina e se formou e se endividou no processo, se tornando "doutor". Você vê, a comédia já começa com tons de crítica social sobre o péssimo sistema de ensino nacional.
+O núcleo de análise do diretor Alexander Payne (Sideways) é no destino intermediário da viagem, terra natal do nosso protagonista e onde ele deixou seu passado, seus parentes, sua outra história e suas possibilidades. O seu filho David (Will Forte) analisa tudo isso com os olhos de uma criança, e se espelha naquela realidade, muitas vezes se enxergando embaixo de um túmulo ou no fim da vida como seu pai. Ele faz o papel de nós, espectadores, analisando tudo isso como se fizesse parte de nossa realidade. David é exceção, e tem um valor: fazer seu pai feliz.
 
-Usando o gore misturado com o descaso e um pouco de novela, Necrópolis em seu piloto demonstra não irritar o espectador com tantos zooms ritmados porque seus personagens são tão ridículos que a suspensão de ridículo fica no automático. Após os primeiros minutos não rimos mais da produção da série porque dá pena e começamos a rir das situações. Elas são criativas e dinâmicas. Algo bem brasileiro: criatividade demais, dinheiro de menos.
+O preto e branco aplicado no filme diz muito sobre aquele universo (além de ser muitas paisagens serem poesias não-ditas). Estamos em um universo mais fantasioso que a ficção: a cínica realidade de nossas vidas, onde um velho inútil e bêbado é cumprimentado por onde quer que passe e vira notícia de jornal assim que diz ser um milionário. No mesmo empenho, a trilha sonora com seus acordes soltos ilustra essa realidade com a cor desse caos emocional que quer dizer algo sobre nós mesmos. Se somos pais, avós, netos ou filhos, ele dirá uma coisa diferente a partir de nossos sentimentos por nossos filhos, netos, avós e pais. Não se fica imune a um milhão de dólares, mesmo que ele seja de mentira.
+
+O que é curioso no roteiro do estreante Bob Nelson é que mesmo cheio de coincidências -- como alguém ter encontrado a carta, ou tantos encontros na sequência final -- existe um potencial em sua história simples e direta. E quem dá força a essa história com certeza é Bruce Dern e seu Woody Grant bruto, obstinado, talvez senil. Ele é perfeito em suas imperfeições, em demonstrar que seres humanos são falhos até o osso. E é essa imperfeição que torna Nebraska um filme belo, sensível, transcendental.
 

@@ -1,22 +1,16 @@
 ---
 categories:
 - writting
-date: '2017-08-21'
+date: '2016-01-30'
 link: https://www.imdb.com/title/tt4326894
 tags:
 - series
-title: F is for Family - Segunda Temporada
+title: F is for Family
 ---
 
-Enquanto a primeira temporada afiava seu tom do humor para algo dos anos 70 que divertia os que não ligam para o politicamente correto ao mesmo tempo que demonstrava por que estamos na fase do politicamente correto, a sequência de F is for Family explora melhor seus personagens, dando a eles a medida certa de tempo em cena. Exceto pela caçula que quer ser programadora de computadores. E sempre que sua ambição aparece faz meus olhos brilharem.
+Juventude Transviada e filmes do John Hughes são exemplos de filmes icônicos que discutem essa distância incômoda e fascinante entre as gerações de pais e filhos. F for Family é a tentativa da Netflix de mostrar isso E a distância que nos separa dos costumes de uma era: os (hoje) controversos anos 70, onde fumar em qualquer lugar era tão lei quanto falar palavrões na frente das crianças (e depois se perguntar onde foi que eles aprenderam a falar assim). E se formos perceber momentos mais reflexivos da série, seus próprios personagens estão propensos a questionarem seus próprios hábitos, sem nem ter muitas dicas do por que disso.
 
-A série embarca em uma jornada emocional do casal principal que consegue extrair o melhor do conflito de casais que começam a perceber que o modelo pai provedor e dona-de-casa não é tão estável assim, e que isso pode ser uma coisa boa para ambos os lados. Quando a série explora cada um desses lados individualmente e eles se juntam no final, eis o conflito principal da série sobre homens e mulheres e como o mundo recebe os sonhos de um e de outro.
+Apesar de ter seis episódios de 20 e poucos minutos cada, a série perde ritmo lá pela metade, se tornando uma tentativa de plágio de outros trabalhos de animação mais jogadas ao absurdo e comédia pastelão. Os melhores momentos de "F" está justamente quando ela foge desse estereótipo televisivo, e seus personagens aprendem com seus erros.
 
-Esta é uma animação-drama, contrariando todas as fórmulas de animação adulta que apela para comédia mais absurda. Há um chão e um teto para localizarmos o que é possível a seus personagens, e como os créditos iniciais sabiamente apontam, nós sempre começamos nossas vidas voando. Mas é por pouco tempo.
-
-Aqui também não há muita censura, nem de sexo nem de violência. Ela existe, mas é usada com parcimônia. Quando algo contraria o puritanismo norte-americano é por um bom motivo, mas penso que o motivo da série ser animada é justamente para isolar os atos "obscenos" dessas pessoas.
-
-O roteiro quase sempre apela um pouco a mais seu lado feminista, expondo os homens de escritório como machistas sem cérebro. Mesmo que tenham razão, isso fica engraçado até o ponto que vira uma caricatura idiota demais para nos identificarmos. Dito isso, há ótimas piadas machistas que não podem ser mais recicladas, apenas observadas como uma curiosidade da época.
-
-De certa forma assim é conduzido o senso moral de FifF. Estamos observando uma época não tão remota com os olhos de hoje, e soa tão distante que permite olharmos como para um aquário. Pelo menos isso é o que eu espero do espectador.
+Ganhando pontos pela excelente introdução e por trazer crianças envolvidas em brincadeiras que podem custar a vida (ou alguns ossos quebrados), e perdendo pontos por nunca mostrar violência familiar (desculpado porque o protagonista, para nós, tem que possuir uma moral levemente superior a de sua era), F for Family surpreende em alguns momentos, inova em outros, entedia ao mesmo tempo que relaxa.
 

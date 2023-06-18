@@ -1,21 +1,26 @@
 ---
 categories:
 - writting
-date: '2022-10-25T20:14:49-03:00'
+date: '2011-01-30'
+link: https://www.imdb.com/title/tt1268204
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Lobo e Cão
+title: Lixo Extraordinário
 ---
 
-O Lobo e o Cão é um porre incomensurável. Parece que não há uma única cena no filme inteiro que valeu a pena ter sido filmada. Aguardamos eternamente por alguma história começar e quando sentimos que deve estar terminando parece que não acaba nunca.
+O início e no programa do Jô possui um sentido maior por causa da mensagem de que, no final, o lixo de todas as pessoas que assistem a televisão vai parar no mesmo lugar?
 
-Nada fica em suspenso no filme de Cláudia Varejão, que estreia na direção após trabalhar como editora e fotógrafa. Nada na história é elevado à categoria de "prestar atenção". Sem narrativa, a análise que sobra em uma obra dessas é a análise do nosso sono. Pelo menos até quanto durar a vontade de acompanhar personagens alheios à nossa vontade. E até quando vencer a vontade de ficarmos acordados.
+A história é sobre um artista plástico famoso por transformar lixo reciclável em obras de arte.
 
-Se bem que não entender o sotaque tão característico da Ilha dos Açores, em Portugal, ajuda a mantermos uma distância natural dos assuntos que teoricamente estão acontecendo. Para não dizer que não há nada, este filme "explora" a sexualidade de seus personagens. E coloco explorar entre aspas porque ele simplesmente mostra a rotina desses jovens em busca do prazer fácil de sua idade onde todos são bonitos, não importa o estilo ou a orientação.
+Seu próximo desafio é transformar as pessoas responsáveis por catar esse lixo.
 
-Dessa forma, Ana e Luís são os bichos citados no título, uma forma bem-humorada de relacionar a sexualidade com um bicho diferente. Em uma sala de aula cada aluno veste a cabeça de um animal em uma espécie de sarau. Essa é a analogia que deve ter parecido muito sagaz às roteiristas Varejão e Leda Cartum. Durante todo o filme vemos a dupla da história se relacionando com outros jovens. Luís é o mais empolgado. Ele participa ativamente da comunidade. Ana, por outro lado, é uma menina quieta, na dela, mas quando surge sua prima sexy, vinda do exterior, aí é que o bicho pega.
+Todo o processo é mostrado desde o início: a primeira visita ao local, o funcionamento da associação de catadores, a vida e o passado dos personagens escolhidos no meio da multidão de pessoas.
 
-Filmado na ilha de Açores e com um casting formato por membros de comunidades sobre orientação sexual não-normativa, Lobo e Cão tenta demonstrar como não existe nada de errado na forma de viver desses jovens, mas justamente por focar demais no lado sexual seus objetivos se viram contra eles mesmos. É o equivalente do episódio do South Park sobre pessoas que nascem com um feto em suas cabeças: de tanto falar sobre isso, e apenas sobre isso, vira uma espécie de bullying-homenagem.
+Dono de uma visão peculiar sobre toda aquela pobreza, ele próprio nasceu pobre, e aprendeu a manter a lição de que é possível se transformar.
+
+O mais revelador é que assistimos a tudo ainda imaginando o que deverá sair ao final de todo aquele processo, sem entender ainda o efeito artístico sobre aquela vida sem perspectiva das pessoas.
+
+O impacto inicial, da transformação do lixo reciclável em arte usando como modelo as pessoas e a criação de riqueza nesse processo (um dos quadros criados é vendido por cem mil reais).
+
+O impacto final, quando os quadros criados são entregues aos seus respectivos "donos", e a mensagem que fica é imensamente maior que todo o processo: que é possível reciclar pessoas, por piores as condições que elas estejam ou pareçam estar.
 

@@ -1,20 +1,22 @@
 ---
 
-Construído como um clássico fortemente inspirado em Super-Homem de Richard Donner, o debut de Sam Raimi peca por imitação enquanto acerta em todo o resto. "Com grande poder vem grandes responsabilidades" diz menos sobre o garoto picado por uma aranha e mais sobre o homem que o dirige.
+Holy Motors é o refresco que todo cinéfilo pede de vez em quando. Com uma abordagem surrealista, ele permite fazer uma crítica e uma homenagem à nossa sensação de estarmos na realidade enquanto assistimos filmes. Mais do que isso: ele brinca com essa percepção aproveitando o pouco de pé que fincamos nessa realidade no início do filme. A partir daí, ele nos puxa cada vez mais para o inusitado. Porém, não é gratuito. Parece que tudo que está ali é necessário e poderia ter sido contado da maneira convencional, mas seria um resultado aquém do que precisamos. Sim, precisamos de um Holy Motors no Cinema de vez em quando.
 
-Lançado há mais de 13 anos, a estreia de super-heróis solos (antes houve os X-Men) veio com um formato ainda a ser polido. Porém, o drama dos personagens, esse que falta tanto hoje em dia, esse é o que mais faz sentido e o que é mais explorado. Uma pena, portanto, que os atores não estejam em sua melhor forma. Tobey Maguire é a persona corretíssima para o papel, mas apenas com sua cara de tolo e não para todo o resto (como o drama de ter perdido o tio em uma obra do destino). Kirsten Dunst é a namoradinha da América em uma versão toda errada, mas não se consegue encontrar humor em sua personalidade. James Franco, o pior ontem hoje e sempre, pelo menos cumpre seu papel de acordo: como apenas uma sombra de seu pai, Norman Osborn, um Willem Dafoe que comprou o espírito da coisa nos mesmos moldes do caricato Gene Hackman como o vilão Lex Luthor no primeiro homem-de-aço, lá nos idos dos anos 80.
+Para nos manter com essa parcela do real durante toda a experiência, há mais ou menos uma história: um dia na vida de um ator com idade avançada, mas que ainda precisa realizar o seu trabalho. Ele é levado de limusine branca para todas as locações, e ele próprio se maquia e se transforma para viver seu próximo personagem. Em determinado momento, os resquícios do personagem anterior se misturam com o próximo personagem, mas pode ser que não seja um novo personagem, e apenas um diálogo entre colegas de profissão. É possível permearmos esse traço de realidade em um futuro distópico onde as câmeras são praticamente invisíveis, não há uma equipe de produção em volta do cenário e tudo é feito da maneira mais perfeccionista possível.
 
-Todo início de herói é meio capenga, e esse não é diferente. Visto com empolgação pela primeira vez na telona, na revisão vemos que aquele efeito tão empolgante não passava de uma marca do passado já com data de fabricação (e validade). Pelo menos o dilema apresentado pelo Duende Verde, segurando duas coisas valiosas para nosso amigo da vizinhança Peter Parker, ainda é incômodo e faz pesar como deveria para alguém que aprendeu a duras penas que "com grande poder vem grandes responsabilidades".
+E, mesmo assim, o público pede mais. Não é isso o que vivemos no dia-a-dia dos efeitos visuais, da ação desenfreada?
 
-Homem-Aranha é um trabalho irregular e datado? OK, podemos chamá-lo assim. Da mesma forma foi com Super-Homem, e assim será com qualquer outro que precisar reabrir a caixa mágica de Pandora dos deuses modernos mais uma vez no Cinema. Talvez a caixa se feche frente à aparente inescapável falta de criatividade e esgotamento de fórmulas na bilheteria. Talvez Birdman não estivesse tão prepotente em suas discussões pseudo-filosóficas a respeito do valor da arte. Talvez. Por enquanto, vale a pena colocar uma manteiguinha nessa pipoca e lambuzar os óculos 3D. Nem que seja por um ou dois blockbusters anuais.
+A fotografia se alia perfeitamente aos objetivos do diretor e roteirista Leos Carax (do ótimo Boy Meets Girl). Ela é estilizada por Yves Cape e Caroline Champetier (Homens e Deuses) e leva um tom verde onde é necessário criar uma certa dúvida sobre essa realidade quase virtual onde se passa a história (note o aspecto de cores através da câmera dentro da limusine). A edição de Nelly Quettier parece nunca perder o ritmo, mesmo quando está lidando com sequências completamente diferentes, mesmo se tornando óbvia com o passar do tempo, quando aprendemos o ritmo "personagem feito, próximo papel, pasta no banco".
+
+Porém, nada disso seria possível sem a total entrega de Denis Lavant, que faz um trabalho que exige fôlego e elasticidade. Ele está cercado de ótimos atores que fazem o trabalho secundário, mas é dele o filme, e sem ele não seria possível atingir tamanho impacto. Seus personagens conseguem nos tirar cada um do ato anterior, parecendo uma cornucópia mágica que cospe atores novos em folha para viver o papel de sua vida.
+
+Por tudo isso Holy Motors é passagem obrigatória dos cinéfilos. É um filme sobre Cinema, para o Cinema e com uma carga crítica que pode ser revisitada várias vezes. Nada que está ali é verdade, e tudo, ao mesmo tempo. Isso é o que torna cada segundo dessa experiência uma revisita ao nosso sistema de suspensão de descrença, nosso pulmão para respirar o ar da Sétima Arte.
 
 ---
 categories:
 - writting
-date: '2017-07-09'
-link: https://www.imdb.com/title/tt2250912
-revison:
-- '2017-08-03'
+date: '2015-07-28'
+link: https://www.imdb.com/title/tt0145487
 tags:
 - movies
-title: 'Homem-Aranha: De Volta ao Lar'
+title: Homem-Aranha

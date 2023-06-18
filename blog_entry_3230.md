@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2019-06-17'
-link: https://www.imdb.com/title/tt0120601
+date: '2019-07-29'
+link: https://www.imdb.com/title/tt8443704
 tags:
 - movies
-title: Quero Ser John Malkovich
+title: Querido Ex
 ---
 
-Nessa época Charlie Kaufman ainda estava explorando mais as ideias do que lustrando o roteiro, mas ainda assim... que filme! Uma ode à insignificância de nossos corpos, e até de nossas almas, inutilmente pulando de corpo em corpo, na esperança de encontrar algo além do que nossos próprios corpos provêm.
+Dear Ex é uma dramédia de Taiwan falada em mandarim filmada em torno de uma estrutura inicial de comédia romântica misturada com novela, mas em seu núcleo esconde a oportunidade de atuações premiadas em uma narrativa que amadurece rapidamente depois que a criança insuportável que começa a história é posta de escanteio.
 
-O diretor Spike Jonze realiza aqui o roteiro de Kaufman com afinco. Note como os atores, John Cusack e Cameron Diaz, realizam os melhores papéis de suas carreiras, pois são atores rasos e é exatamente isso o que o material pede aqui. Jonze os enfeia como bonecos de titeragem e em alguns momentos não sabemos a diferença entre eles e sua busca pelo amor no outro e suas versões em boneco. Aliás, sabemos, sim: os bonecos e seus movimentos são mais intensos.
+Dirigido pela dupla de tailandeses estreantes (no cinema) Mag Hsu e Chih-Yen Hsu, este é um filme cansativo no seu início, pois lembra aqueles trabalhos esquecíveis sobre o drama da separação, da morte, e da pobreza financeira e de espírito. O garoto Jay é órfão de pai há 95 dias e sua mãe está furiosa porque o beneficiário de seu seguro de vida está no nome do seu amante pelo qual ele abandonou a família. Jay é interpretado de uma maneira tão apática pelo ator Roy Chiu que os cineastas são obrigados a editar o filme com desenhos para tornar o resultado mais palatável até chegarmos onde importa.
 
-Usando como pano de fundo o universo de um titereiro e explodindo esse tema para o mundo real, Quero Ser John Malkovich não só consegue ser um filme completamente original pelas suas... inusitadas ideias, como o andar 7 e 1/2, explicado como criado para pessoas muito pequenas (a analogia com bonecos de títeres é inevitável). Essas ideias estão juntas para alimentar nosso inconsciente de maneira orgânica, sendo que a originalidade não é gratuita e possui sempre um significado dentro do universo onde a história se passa. Ao abrir a pequena porta que dá vazão ao mundo de outra pessoa, há uma toca que lembra Alice no País das Maravilhas. Pequenos detalhes como esse transformam BJM (Being John Malkovich) em uma obra de arte que atinge seu esplendor em explorar sua ideia de todas as formas possíveis.
+E onde importa é quando a viúva Liu Sanlian e o ex-amante Song Chengxi se digladiam com gestos e palavras, geralmente à distância. Note como a linda atriz Ying-Xuan Hsieh envelhece e realiza a transformação de caricatura para ser humano em poucos passos. Enquanto isso, Spark Chen interpreta Song Chengxi como alguém já habituado a ser julgado pela sua orientação sexual e escolhas financeiramente instáveis da vida.
 
-Mais inacreditável, porém, é que os conceitos cabem como uma luva em seus personagens, cujos conflitos são introduzidos de maneira simplista, que é exatamente a forma como o roteiro os encara. Aliás, não só o roteiro, como todo o trabalho de arte, notadamente a maquiagem, se esforça para apresentar as pessoas como verdadeiros títeres de carne-e-osso, vazios por dentro e toscos por fora. Quando isso fica claro para o espectador, o que ocorre depois da descoberta do portal que leva a pessoa para a consciência de John Malkovich, por mais absurda que seja a premissa, soa natural para aqueles personagens.
+É fácil ter empatia por esse personagem que é uma versão masculina (ou feminina? ou masculina?) de Uma Mulher Fantástica: ele não importuna ninguém e nem sabia que havia dinheiro em sua conta por conta de ter vivido os últimos anos com seu amor. Por isso que a insistência idiota em tornar o garoto Jay um pilar dessa história, se questionando insistentemente em sua cabeça se o ex-amante de seu pai é que é o cara mau, cansa e sem motivos de o ser. Exceto, talvez, uma possível insegurança dos idealizadores do projeto sobre a resposta que os espectadores asiáticos teriam com relação a um personagem gay que é moralmente virtuoso, já que a região não costuma ser tão tolerante a diversidade quanto o Ocidente.
 
-O roteiro de Charlie Kaufman é tão original que toda cena empolga apenas por suas ideias atingindo um novo nível de loucura. Apenas por isso, já mereceria constar na lista de filmes a se ver, rever e estudar. E há tantas ideias trabalhando juntas que precisamos de diferentes reencarnações para aproveitá-las. Deixe passar o tempo e reveja.
+De qualquer forma, Dear Ex consegue harmonizar a manipulação barata com a boa-vinda do seu Drama (com D maiúsculo), onde tira-se as crianças da sala e se converge toda a novela para momentos mágicos de atuação e edição, que através de flashbacks constroem uma narrativa fabulosa, ligando os pontos do passado nas consequências do presente, fazendo que a todos os espectadores seja revelado quem realmente são essas pessoas.
+
+Sua única falha é que os personagens do filme não são espectadores, não estão assistindo a este magnífico filme, e não têm como serem tocados por ele. Detalhes de roteiro.
 

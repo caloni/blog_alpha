@@ -1,24 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-01-22'
-link: https://www.imdb.com/title/tt0449059
+date: '2016-10-16'
+link: https://www.imdb.com/title/tt0426769
 tags:
-- movies
-title: Pequena Miss Sunshine
+- series
+title: Peppa Pig
 ---
 
-Na época o que mais havia eram filmes independentes sobre famílias disfuncionais. Isso virou um sub-gênero que até hoje é a base de muitos trabalhos, autorais ou não. Porém, Pequena Miss Sunshine aproveita este tema para desenvolver uma crítica ácida e bem-humorada sobre a cultura norte-americana, que divide a sociedade em vencedores e perdedores. Este filme celebra o fracasso não como um ato subversivo, mas como uma forma de dizer que vencer pode ser alguma coisa na vida que não necessariamente ganhar um troféu.
+Eis um desenho que preza por histórias sucintas, rápidas e simples, ligeiramente divertidas e que estão atreladas ao fato da família principal ser constituída de porcos.
 
-A história gira em torno do personagem da ainda jovem Abigail Breslin, que foi indicada ao Oscar pela sua atuação natural de Olive, uma garota empolgada com os concursos de Miss e que ganha uma vaga em um concurso estadual. Isso exige a presença de todos em uma viagem dentro de uma kombi: o avô expulso do asilo, o pai vendedor de curso de auto-ajuda, o tio gay que acabou de tentar suicídio, e o irmão obcecado em largar aquela família disfuncional o mais rápido possível.
+Aliás, mais do que isso. São porcos que vivem em uma casa, possuem um carro. Sua filha -- a Peppa do título -- vai a aulas de balé. Seus pais são gordos e simpáticos. Seus avós são ativos. Enfim, uma família normal que passa por peculiaridades que toda família passa.
 
-A primeira coisa que impressiona no filme é a maneira que o roteirista Michael Arndt faz para que tematicamente entendamos que aquela família é obrigada a permanecer junta, esquecendo todas suas diferença. O carro deles quebra, exibindo que para conseguir dar a partida todos empurrem o carro e entrem nele em movimento. Aqui entram os enquadramentos belíssimos da dupla de diretores Jonathan Dayton e Valerie Faris, que não precisa muito dos diálogos de Arndt para explicar como aquelas figuras acabam sendo um microcosmos que exemplifica a vida em sociedade.
+O desenho é tão simples que lembra rabiscos bem feitos com lápis de cor, o que deve empolgar particularmente as crianças menores (e meu sobrinho de 2 anos é prova viva disso). É fácil de entender os acontecimentos e os desenhos em torno deles (que envolve a família de porcos e outros animais), mas eles são feitos em um nível de inteligência acima de esquisitices mais precoces como Teletubbies ou Galinha Pintadinha (essa nem desenho é, são video-clipes infantis).
 
-Porém, ainda assim, são os diálogos e as situações engendradas no filme que conseguem abrir espaço para atuações memoráveis de Paul Dano, Abigail Breslin, Toni Collette, Steve Carell (que mostra sua competência no drama) e Alan Arkin, que se despe de boa parte de sua persona para criar uma figura surreal e ainda assim completamente palpável: um velho que não dá a mínima para onde está, desde que esteja com sua heroína e sua liberdade. E, como um gesto para as próximas gerações, ensina secretamente a sua neta a se livrar das amarras opressivas das opiniões dos outros.
+O curioso é que não existe trama. Não há algo a ser corrigido, nem nada a ser aprendido. É um desenho sobre a  própria vida e como a vivemos. Mesmo trabalhos mais naturalistas como Meu Amigo Totoro se alimentam de tensão -- no caso de Totoro, a mãe doente -- mas aqui não há espaço para estratégias que envolvam três atos. A atenção dos pequeninos é limitada, e tudo tem que estar acontecendo naquele exato momento. Viva o agora, esse é o lema.
 
-Há cenas memoráveis até hoje, como a do sorvete de chocolate e do daltonismo. São esses momentos que garantem o sucesso no tempo deste filme de mais de 10 anos atrás e que permanece intacto. Porém, ele merece ser assistido em sua totalidade, sem pausas, para que sintamos toda a tensão e o estresse da situação, para que se justifique cada medida desesperada da família.
+E se trata de um bom lema. Fugindo do formato convencional das obras narrativas que possuem a ambição de passar alguma lição valiosa sobre a vida (algo meio inútil para pequeninos com a racionalidade subdesenvolvida), Peppa Pig só quer refletir a própria vida em forma de rascunhos para que crianças aos poucos percebam as semelhanças com suas próprias vidinhas.
 
-(Ah, de quebra, surgem pontas de Bryan Cranston e Dean Norris, que serão cunhados na série Breaking Bad. É um passatempo para quem ainda não assistiu descobrir onde eles irão aparecer.)
-
-Pequena Miss Sunshine não deixa de ser um filme indie sobre uma família disfuncional, mas faz isso carregando na bagagem um tema sensível à cultura americana, e o desconstruindo aos poucos. Pode não ser tão sutil, pode não ser tão completo, mas é sucinto e visualmente arrebatador.
+Para adultos, é fácil assistir dois, quatro, seis, doze episódios seguidos. E nem precisa ter muita atenção. Basta relaxar e se deixar levar por um monte de rabiscos que formam uma história simples, dessas que vivemos no dia a dia. De vez em quando arte é apenas percebermos que estamos vivos, mesmo que seja pela tela de uma televisão.
 

@@ -1,24 +1,20 @@
 ---
 
-A nova re-estreia da série do Homem-Aranha em filme solo -- dessa vez no insosso universo dos Vingadores -- é uma divertida abordagem de um Peter Parker jovem e sem traumas (ou seja: sem Uncle Ben) que atualiza o personagem para uma época pressionada pela gangue do politicamente correto, mas também pela geração do bom humor, das ações sem consequências, do "Homem-Aranha do YouTube". Este é um filme definitivamente para assistir com pipoca, do lado dos filhos, sem estar muito preso aos detalhes que destoam dos gibis.
+Construído como um clássico fortemente inspirado em Super-Homem de Richard Donner, o debut de Sam Raimi peca por imitação enquanto acerta em todo o resto. "Com grande poder vem grandes responsabilidades" diz menos sobre o garoto picado por uma aranha e mais sobre o homem que o dirige.
 
-A história aqui leva uma engraçada introdução filmada pelo próprio Peter Parker durante sua pequena incurssão em um filme dos Vingadores -- Guerra Civil -- através do seu celular. Revivemos essas cenas sob a narrativa de um jovem Parker que é fã desses super-heróis, e que agora ganha a chance de ser um pupilo do Homem de Ferro, que irá vigiar o herói da vizinhança de Nova York até que este esteja apto a fazer parte da equipe senior.
+Lançado há mais de 13 anos, a estreia de super-heróis solos (antes houve os X-Men) veio com um formato ainda a ser polido. Porém, o drama dos personagens, esse que falta tanto hoje em dia, esse é o que mais faz sentido e o que é mais explorado. Uma pena, portanto, que os atores não estejam em sua melhor forma. Tobey Maguire é a persona corretíssima para o papel, mas apenas com sua cara de tolo e não para todo o resto (como o drama de ter perdido o tio em uma obra do destino). Kirsten Dunst é a namoradinha da América em uma versão toda errada, mas não se consegue encontrar humor em sua personalidade. James Franco, o pior ontem hoje e sempre, pelo menos cumpre seu papel de acordo: como apenas uma sombra de seu pai, Norman Osborn, um Willem Dafoe que comprou o espírito da coisa nos mesmos moldes do caricato Gene Hackman como o vilão Lex Luthor no primeiro homem-de-aço, lá nos idos dos anos 80.
 
-Mas Peter não é desses que tem paciência para esperar alguns anos para uma nova perigosa missão. Ele logo se cansa da sua rotina de ajudar velhinhas (e ganhar cookies de recompensa) e parte para uma investigação de uma arma poderosa demais para estar nas mãos de contrabandistas. Essa arma foi desenvolvida com material alienígena coletado após o primeiro filme dos Vingadores por um vilão "criado pela ocasião", que é nada mais nada menos que Birdman... quero dizer, Adrian Toomes, que logo se torna Abutre, um vilão alado.
+Todo início de herói é meio capenga, e esse não é diferente. Visto com empolgação pela primeira vez na telona, na revisão vemos que aquele efeito tão empolgante não passava de uma marca do passado já com data de fabricação (e validade). Pelo menos o dilema apresentado pelo Duende Verde, segurando duas coisas valiosas para nosso amigo da vizinhança Peter Parker, ainda é incômodo e faz pesar como deveria para alguém que aprendeu a duras penas que "com grande poder vem grandes responsabilidades".
 
-É preciso embarcar nessa aventura com o espírito da música-tema do Homem-Aranha dos Ramones, que é sub-tema na introdução, sem contar que Ramones protagonizam com sua música a melhor sequência do longa. Ramones irá reverberar em sua cabeça após o filme acabar, e talvez o único personagem marcante que fique do filme seja de fato o Abutre. Michael Keaton está em forma e ele leva seu personagem a sério demais para não o levarmos em conta. Um momento íntimo entre ele e o Aranha é a melhor revelação do longa (apesar de absurdamente absurda), e geralmente são as suas frases que nos fazem pensar. O resto é inconsequente e adolescente, como deve ser em todo filme pipoca.
-
-Dessa vez a Marvel retira a parte dramática da trama e aposta em uma versão mais comportada de Deadpool. O diretor Jon Watts (Clown) leva o projeto um pouco a sério demais, mas nada que prejudique o tom jocoso que é merecido em toda aventura deste herói. Por conta disso, todos os deslizes dramáticos podem ser desculpados deste filme. O que por sua vez significa que o filme é menos impactante que Kick Ass, onde uma menina de 9 anos teme pela vida. Sim, Aranha passa por uns apuros, mas convenhamos: ninguém morre para sempre nos gibis. Imagina nos cinemas.
-
-Ao final fica claro que o objetivo foi criar uma introdução bem-humorada do Homem-Aranha em um novo universo, sem se preocupar em contar sua origem (agradecemos) e sem se importar com a parte dramática do seu personagem, até porque ele ainda está no colégio e dá foras com seu interesse amoroso. O roteiro desenvolvido por um batalhão ainda se preocupa em não acelerar muito a apresentação de personagens (como a menina que está sempre presente, mas não faz parte do grupo de amigos de Peter) para não estragar o potencial futuro de tudo que está sendo criado. Isso quer dizer que o objetivo deles provavelmente é passar dos três filmes de Aranha, o recorde de Sam Raimi e seu parceiro Tobey Maguire (e tanto ele quanto Andrew Garfield recebem suas homenagens aqui).
-
-A sensação deste esquecível começo é que há vilões mais perigosos que Abutre em volta do jovem-Aranha. São roteiristas demais, uma direção muito obediente, a exigência do universo Vingadores. Há muitos percalços até dizermos que esse começo pode render um filme de verdade do Aranha, como vimos em Homem-Aranha 2. Esperemos que o foco dos criadores não esteja apenas em usar atores com diferentes tons de pele, gênero e etnia para agradar os justiceiros sociais, mas também em criar múltiplas dimensões para esses jovens.
+Homem-Aranha é um trabalho irregular e datado? OK, podemos chamá-lo assim. Da mesma forma foi com Super-Homem, e assim será com qualquer outro que precisar reabrir a caixa mágica de Pandora dos deuses modernos mais uma vez no Cinema. Talvez a caixa se feche frente à aparente inescapável falta de criatividade e esgotamento de fórmulas na bilheteria. Talvez Birdman não estivesse tão prepotente em suas discussões pseudo-filosóficas a respeito do valor da arte. Talvez. Por enquanto, vale a pena colocar uma manteiguinha nessa pipoca e lambuzar os óculos 3D. Nem que seja por um ou dois blockbusters anuais.
 
 ---
 categories:
 - writting
-date: '2019-07-17'
-link: https://www.imdb.com/title/tt6320628
+date: '2017-07-09'
+link: https://www.imdb.com/title/tt2250912
+revison:
+- '2017-08-03'
 tags:
 - movies
-title: 'Homem Aranha: Longe De Casa'
+title: 'Homem-Aranha: De Volta ao Lar'

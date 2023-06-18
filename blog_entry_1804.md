@@ -1,44 +1,158 @@
 ---
 
-Bem-vindos. Esta é a série [História do Windows]. Nos anos 90, a relação IBM/Microsoft era muito próxima por causa do desenvolvimento do OS/2, o projeto de um novo sistema operacional. As empresas cooperavam entre si e tinham acesso uma ao código da outra. A Microsoft desejava avançar seu desenvolvimento no Windows, enquanto a IBM desejava que todo trabalho futuro fosse baseado em OS/2. Para resolver essa tensão as duas combinaram que a IBM iria desenvolver o OS/2 versão 2.0 para substituir o OS/2 versão 1.3 e o Windows v3.0, enquanto a Microsoft iria desenvolver um novo sistema operacional, o OS/2 versão 3.0 para depois suceder ao OS/2 anterior. Com tudo combinado entre as grandes corporações, é lógico que esse acordo foi por água abaixo.
+Em 22 de maio de 1990 a versão 3.0 do Windows foi lançada. Foi melhorado o gerenciador de programas e o sistema de ícones, além de um novo gerenciador de arquivos e suporte a 16 cores. Entre as mudanças internas podemos citar a velocidade e a confiabilidade. Como a partir dessa versão apareceram muitos desenvolvedores que passaram a suportar a plataforma, o número de programas disponíveis aumentou, o que conseqüentemente fez com que as vendas alavancassem. Três milhões de cópias foram vendidas apenas no primeiro ano, e assim o Windows se tornou padrão nos computadores domésticos. Quando a versão 3.1 foi lançada, em 6 de abril de 1992, mais três milhões de cópias foram vendidos em apenas dois meses.
 
-A relação IBM/Microsoft foi terminada. A IBM continuou a desenvolver o OS/2 v2.0 enquanto a Microsoft mudou o nome de seu ainda não lançado OS/2 v3.0 para Windows NT. O Windows NT foi tão massivamente promovido que a maioria das pessoas nem se deu conta que ele era um OS/2 redesenhado. Ambas as empresas obtiveram os direitos de utilizarem as tecnologias do OS/2 e do Windows que foram desenvolvidas até a quebra do acordo.
+{{< image src="windows_30_workspace.png" caption="Windows 3.0 Desktop" >}}
 
-A IBM lançou a versão 2.0 do OS/2 no início dos anos 90. O sistema foi uma grande melhora sobre o antigo OS/2 v1.3. Apresentava um novo sistema de janelas orientado a objetos (o Workplace Shell) para substituir o Presentation Manager, um novo sistema de arquivos (o HPFS) para substituir o sistema FAT utilizado pelo DOS e Windows e aproveitou todas as vantagens das capacidades 32 bits do processador 386 da Intel. Ele também rodava programas DOS e Windows 3.0, uma vez que a IBM tinha acesso e direito a essas duas tecnologias.
+As fontes TrueType foram adicionadas, junto de novas capacidades multimídia. Outro grande avanço foi na área de comunicação entre aplicativos com a implementação da tecnologia OLE (Object Linking and Embedding), que permitiu documentos de diferentes fabricantes serem intercambiados.
 
-Para concorrer com a IBM a Microsoft lançou o Windows 3.1, com pequenas melhorias à sua versão anterior, a 3.0.
+Em novembro de 1993 foi lançada a primeira versão que integrou o Windows e a rede de trabalho, o Windows for Workgroups 3.1. O suporte a compartilhamento de arquivos e impressoras apareceu a partir daí. Duas aplicações novas também surgiram: Microsoft Mail, cliente de mail para uso em redes, e Schedule+, uma agenda de trabalho.
 
-A Microsoft continuou a desenvolver o Windows NT. A empresa requeriu os serviços de Dave Cutler, um dos chefes arquitetos da VMS na Digital Equipment Corporation (hoje parte da Compaq) para desenvolver o NT dentro de um projeto de sistema operacional mais capaz. Cutler estava desenvolvendo um seguimento para o VMS na DEC chamado Mica, e quando a DEC desistiu do projeto ele acabou trazendo para a Microsoft sua especialidade nesse sistema e algum engenheiros do projeto com ele. A DEC acreditava que ele usara parte do código do Mica no Windows NT e acabou processando a Microsoft. A empresa de Gates teve que eventualmente pagar 150 milhões para a DEC, além de concordar em suportar o chip Alpha CPU da DEC na plataforma NT, e é por isso que existe uma pasta com essa arquitetura no CD de instalação do Windows NT.
+E, finalmente, agora já é hora de conversarmos sobre a figura ilustre que popularizou ainda mais o desenvolvimento para Windows.
 
-Sendo um sistema operacional completamente novo o Windows NT sofreu com questões de compatibilidade com hardware e software geralmente usados na época. Ele era também concentrado em recursos, o que o deixava aceitável apenas para máquinas maiores e mais caras. Tanto que inicialmente foi dirigido a servidores de rede, workstations e máquinas de desenvolvimento de software. Por causa disso, a maioria dos usuário foi incapaz de migrar para a plataforma NT. E o Windows NT ainda estava projetado graficamente como o Windows 3.1, o que era inferior ao OS/2 Workplace Shell. Em resposta, a Microsoft começou a desenvolver um sucessor para o Windows 3.1, um projeto de codinome Chicago. Chicago tinha por objetivo apresentar uma nova GUI que competisse com o OS/2 Workplace Shell. Ele também foi projetado para ser de 32 bits e suportar execução multitarefa, como o OS/2 e o Windows NT. Só algumas partes do Chicago, entretanto, foram convertidas para 32 bits, e o resto permaneceu em 16. A Microsoft argumentou que a conversão total iria atrasar em muito o projeto, o que acabaria por encarecê-lo além do limite.
+{{< image src="charles_petzold.gif" caption="Charles Petzold, em foto do seu site" >}}
 
-Para o Chicago foi desenvolvida uma nova API para substituir a de 16 bits do Windows anterior. Essa API foi chamada de Win32, e a outra renomeada para Win16. Houveram 3 ramificações: uma para o Chicago, outra para o NT e uma terceira chamada Win32s, que foi um subconjunto para o Windows 3.1 garantir a compatibilidade retroativa das versões. Também foi pensado num mínimo de compatibilidade entre o Chicago e o Windows NT, mesmo que os dois possuíssem duas arquiteturas radicalmente diferentes.
+Quem começou a programar para Windows naquela época com certeza deve ter ouvido falar do livro clássico de Charles Petzold, uma das poucas referências naquela época sem internet: Programming Windows 3.1. É um livro consideravelmente completo se considerarmos a época em que foi escrito. Vários exemplos estão disponíveis em suas páginas, mas para os que não viveram essa época (como eu) existe [a versão eletrônica disponível para download]. Você deve estar se perguntando se todo esse código-fonte serve para alguma coisa hoje em dia. Por incrível que pareça, serve sim. E para demonstrar o conceito de compatibilidade retroativa da Microsoft, iremos utilizar os mesmos exemplos deste livro, sem por nem tirar uma linha de código. Com o devido copyright e respeito merecidos ao autor, é claro =).
 
-Em setembro de 1994 é lançada o Windows NT 3.5. A versão Workstation substituiu o Windows NT 3.1 e a versão Server o Windows NT 3.1 Advanced Server.
+Programar interfaces naquela época não era bem o "clicar e arrastar" de hoje em dia. Eram necessários profundos conhecimentos sobre como o sistema operacional se relacionava com o seu programa e vice-versa. Hoje em dia é possível ainda programar como antigamente, já que toda a estrutura continua a mesma. Porém, é algo extremamente contraproducente de se fazer com as IDEs modernas que existem e suas barras de controles pré-fabricados e código automático. Faremos da forma mais rústica para entender como as coisas funcionam por baixo dos panos, o que por si só será extremamente produtivo para o nosso conhecimento.
 
-{{< image src="windows_workstation.jpg" caption="Windows NT 3.51 Workstation" >}}
+Antes de ser criada uma janela, é necessário registrar uma classe de janela no sistema, cuja relação com uma janela é mais ou menos a mesma entre classe e objeto no paradigma de orientação a objetos. Você primeiro define uma classe para sua janela e posteriormente pode criar inúmeras janelas a partir da mesma classe.
+    
+    WNDCLASS wndclass; //Dados sobre a classe de janela.
+    wndclass.style = CS_HREDRAW | CS_VREDRAW;
+    wndclass.lpfnWndProc = WndProc; // Função de janela (isso é importante!)
+    ...
+    wndclass.lpszClassName = szAppName;
+    RegisterClass (&wndclass) ; // Registra a classe de janela.
 
-Como todo projeto de sucesso, a primeira coisa a ser feita é definir os objetivos principais. No caso do Windows NT não foi diferente. É importante para nós sabermos que objetivos eram esses e como eles foram mudando de acordo com o momento histórico de forma a analisarmos as conseqüências. Em outubro de 1988 os objetivos do novo sistema operacional eram os seguintes:
+Quando você define uma classe e a registra está dizendo para o sistema qual será sua função de janela, i. e., qual será a função responsável por receber as mensagens das janelas criadas.
 
- - Compatibilidade com OS/2;
- - Segurança;
- - Suporte a POSIX;
- - Multiprocessamento;
- - Rede integrada;
- - Confiabilidade.
+    wndclass.lpfnWndProc = WndProc ; // Função de janela.
+    ...
+    long FAR PASCAL WndProc (HWND hwnd, WORD message, WORD wParam, LONG lParam)
+    {
+    switch( message ) // Manipulando as mensagens.
+    ...
+    }
 
-Como o Windows 3.0 fez um sucesso enorme, a compatibilidade nativa passou a ser do próprio Windows caseiro, sendo o OS/2 sendo implementado como um mero subsistema. Subsistema no Windows basicamente quer dizer ambiente virtual de execução de processos feitos para rodar em outro sistema operacional. Essa maneira de suportar processos de outros sistemas operacionais foi usado tanto para o OS/2 quanto para o Windows 16 bits, o MS-DOS e aplicativos POSIX, o padrão utilizado para arquiteturas derivadas do UNIX.
+Uma mensagem é um evento que ocorre relativo à sua janela ou o que está acontecendo ao redor dela no mundo Windows. Por exemplo, as janelas recebem eventos a respeito dos cliques do usuário, redesenho da janela, etc. Quem envia essas mensagens é o próprio Windows, e ele espera uma resposta da sua função de janela. Agora a parte esquisita: quem envia essas mensagens para o Windows é o seu próprio aplicativo!
 
-O tempo do projeto foi inicialmente estimado em pouco mais de dois anos. Ao final, quatro anos e meio se passaram até a chegada do primeiro release, que era grande e lento para as máquinas da época. Assim foi iniciado o projeto Daytona, que teve como novos objetivos tornar a nova versão do NT mais rápida e confiável. Foi lançada então a versão 3.51.
+{{< image src="windows_message_loop.gif" caption="Função de janela" >}}
 
-O Windows NT é um sistema operacional de 32 bits. Isso quer dizer, entre outras coisas, que ele suporta duas propriedades fundamentais dos sistemas operacionais modernos: modo protegido de execução e memória virtual. O modo protegido de execução permite a divisão entre a parte confiável do sistema operacional, que roda em kernel mode, e a parte não-confiável, que não possui acesso às instruções privilegiadas; a parte não-confiável chamamos de user mode. A memória virtual abstrai a memória física e permite isolamento de memória entre aplicativos, evitando que um programa invada a memória do outro.
+O aplicativo fica aguardando por eventos em um loop conhecido como loop de mensagens. A função do loop basicamente é chamar a função GetMessage e redirecionar as mensagens obtidas para as respectivas funções de janela.
 
-Além disso, foi criada uma camada de abstração do hardware (HAL, Hardware Abstraction Layer) que livrou boa parte do código de ter sido escrito em assembly, fazendo assim que ele fosse facilmente portável.
+    while( GetMessage (&msg, NULL, 0, 0) )
+    {
+       TranslateMessage (&msg);
+       DispatchMessage (&msg); // Despacha a mensagem para a função de janela.
+    }
 
-[História do Windows]: {{< relref "historia-do-windows" >}}
+E aqui está o código completo:
+
+    /*--------------------------------------------------------
+      HELLOWIN.C -- Displays "Hello, Windows" in client area
+      (c) Charles Petzold, 1990
+      --------------------------------------------------------*/
+    
+    #include <windows.h>
+    
+    long FAR PASCAL WndProc (HWND, WORD, WORD, LONG) ;
+    
+    int PASCAL WinMain (HANDLE hInstance, HANDLE hPrevInstance,
+        LPSTR lpszCmdParam, int nCmdShow)
+    {
+      static char szAppName[] = "HelloWin" ;
+      HWND        hwnd ;
+      MSG         msg ;
+      WNDCLASS    wndclass ;
+    
+      if (!hPrevInstance)
+      {
+        wndclass.style         = CS_HREDRAW | CS_VREDRAW ;
+        wndclass.lpfnWndProc   = WndProc ;
+        wndclass.cbClsExtra    = 0 ;
+        wndclass.cbWndExtra    = 0 ;
+        wndclass.hInstance     = hInstance ;
+        wndclass.hIcon         = LoadIcon (NULL, IDI_APPLICATION) ;
+        wndclass.hCursor       = LoadCursor (NULL, IDC_ARROW) ;
+        wndclass.hbrBackground = GetStockObject (WHITE_BRUSH) ;
+        wndclass.lpszMenuName  = NULL ;
+        wndclass.lpszClassName = szAppName ;
+    
+        RegisterClass (&wndclass) ;
+      }
+    
+      hwnd = CreateWindow (
+        szAppName,           // window class name
+        "The Hello Program", // window caption
+        WS_OVERLAPPEDWINDOW, // window style
+        CW_USEDEFAULT,       // initial x position
+        CW_USEDEFAULT,       // initial y position
+        CW_USEDEFAULT,       // initial x size
+        CW_USEDEFAULT,       // initial y size
+        NULL,                // parent window handle
+        NULL,                // window menu handle
+        hInstance,           // program instance handle
+        NULL) ;              // creation parameters
+    
+      ShowWindow (hwnd, nCmdShow) ;
+      UpdateWindow (hwnd) ;
+    
+      while (GetMessage (&msg, NULL, 0, 0))
+      {
+        TranslateMessage (&msg) ;
+        DispatchMessage (&msg) ;
+      }
+      return msg.wParam ;
+    }
+    
+    long FAR PASCAL WndProc (HWND hwnd, WORD message, WORD wParam, LONG lParam)
+    {
+      HDC hdc;
+      PAINTSTRUCT ps;
+      RECT rect;
+    
+      switch (message)
+      {
+        case WM_PAINT:
+          hdc = BeginPaint (hwnd, &ps) ;
+    
+          GetClientRect (hwnd, &rect) ;
+    
+          DrawText (hdc, "Hello, Windows!", -1, &rect,
+              DT_SINGLELINE | DT_CENTER | DT_VCENTER) ;
+    
+          EndPaint (hwnd, &ps) ;
+          return 0 ;
+    
+        case WM_DESTROY:
+          PostQuitMessage (0) ;
+          return 0 ;
+      }
+    
+      return DefWindowProc (hwnd, message, wParam, lParam) ;
+    } 
+
+Esse exemplo é bem velho, mas compila e funciona até hoje, depois de passados 17 anos. Pode não rodar, mas esta é outra história.
+
+    cl /c hellowin.c
+    link hellowin.obj user32.lib gdi32.lib
+    hellowin.exe
+
+O Windows 3.x tinha uma particularidade nefasta: qualquer aplicativo poderia travar o sistema como um todo. Se lembrarmos que o Windows antigamente era multitarefa e não-preemptivo, podemos deduzir que enquanto é executada a função de janela de um aplicativo o sistema aguarda por esse aplicativo indefinidamente. Se o aplicativo trava, ele nunca retorna. Se ele nunca retorna, o sistema fica eternamente esperando pelo retorno da função de janela. Alguns travamentos conseguiam ser resolvidos por interrupção, mas a maioria não. No próximo capítulo [da série] veremos como os sistemas de 32 bits resolveram esse pequeno problema.
+
+O que o resto do código do Petzold faz? Dê uma olhada na documentação do MSDN. Ela ainda está disponível, já que todos os aplicativos precisam utilizar essas funções, seja diretamente ou através de imensos frameworks de interface com o usuário. E existem pessoas que precisam suportar código-fonte legado.
+
+Já que agora você sabe o que são funções de janela, mensagens e afins, por que não ver tudo isso funcionando? O Microsoft Visual Studio possui uma ferramenta muito útil para isso chamada Spy++ (spyxx.exe). Existem também aplicativos equivalentes (com fonte). Outra ferramenta muito útil, principalmente na hora de desenvolver janelas com controles comuns do Windows, é o Control Spy.
+
+Para saber mais dê uma passada no [sítio do Charles Petzold].
+
+[sítio do Charles Petzold]: http://www.charlespetzold.com
+[a versão eletrônica disponível para download]: http://www.charlespetzold.com/books.html
+[da série]: {{< relref "historia-do-windows" >}}
 
 ---
 categories:
 - coding
-date: '2007-09-04'
-title: História do Windows - parte 4.0
+date: '2007-08-07'
+title: História do Windows - parte 3.51

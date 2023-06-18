@@ -1,13 +1,125 @@
 ---
 categories:
-- writting
-date: '2022-11-20T22:12:02-03:00'
+- coding
+date: '2016-01-12'
 tags:
-- movies
-title: Cléo das 5 às 7
+- ccpp
+title: Classe, objeto, contexto, método, polimorfismo
 ---
 
-Você olha esse título e já pensa "nossa, ela deve ser travesti; ou puta; deve ser puta; francesa dos anos 60 é tudo puta". Mas pior que não. Cléo é um filme dinâmico, vivo. Você se sente na pele da protagonista, sem saber se irá viver ou morrer por duas intermináveis horas. Ela lê sua sorte em uma cartomante logo antes de receber o diagnóstico de seu médico. A situação é insuportável e Cléo está tentando se manter ocupada até conseguir sua resposta. Então ela passeia pelas ruas de Paris. Faz compras. Compra um chapéu para o inverno no primeiro dia do verão. É solstício. Ela é supersticiosa. Somos brindados com tomadas das mais complexas, onde a câmera passeia impossível no meio de transeuntes, acompanhando automóveis, ônibus, pedestres. É um turbilhão documental que se passa pelas nossas cabeças, metaforizando o que se passa na cabeça dessa garota, rodopiando em torno da cidade-luz sem rumo.
+No [post anterior] implementamos "métodos" em C usando ponteiros de função dentro de structs que eram passadas como parâmetro. Tudo isso embutido por um compilador que gera o que chamamos de instância de uma classe, ou objeto, em C++. Isso é possível graças ao contexto que é passado para uma função (que no caso de C++ é o operador implícito __this__, que sempre existe dentro de um método não-estático).
 
-Cléo das 5 às 7 é puro êxtase narrativo. Não há amarras. As cartas foram dadas em colorido, mas o filme é em P&B, romântico e pálido. Vemos figuras urbanas tomando café e conversando na metrópole. Homens observam a nítida beleza de Cléo. Há conversas do cotidiano que lembram os filmes de Éric Rohmer, mais pelo informal do que pelos tema. O filme olha para nós e nós olhamos para ele. Este é um trabalho que quer se mostrar demais. Orgulhoso, vaidoso. E possui virtudes estéticas para tal. E ao mesmo tempo é realista. O assunto é a angústia da personagem sem saber se irá morrer. Quem já esteve ou já se sentiu à beira da morte, algum momento da vida qualquer que poderia ter passado dessa pra melhor, sabe do que se trata. É uma imagem vívida de pertencer ao espaço-tempo. Não o nosso modo morto-vivo automático, acostumados a sermos escravos de nossa mente, perambulando como moribundos pelas poucas décadas que passamos neste mundo. Não. Isso é viver no agora. Mas de maneira claustofóbica. Não há planos para quem não sabe se irá poder materializá-los.
+```
+ClasseCpp obj;
+obj.Metodo(); // passando this implicitamente
+
+ClasseC obj;
+obj.Metodo = ClasseC_Metodo;
+obj.Metodo(&obj); // passando this explicitamente
+```
+
+Para objetos não-polimórficos, o C++ não precisa mudar essa tabela de funções que os objetos de uma classe contém. No entanto, quando há pelo menos um método virtual, surge a necessidade de se criar a famigerada __vtable__, ou seja, justamente uma tabela de ponteiros de função, que dependem da classe instanciada (base ou algumas das derivadas). Se uma classe derivada sobrescreve um método de alguma classe base, é o endereço desse método que irá existir na _vtable_. Já vimos isso [há muito tempo atrás] escovando os bits da vtable direto no assembly e na pilha.
+
+```
+#include <iostream>
+
+class MinhaClasse
+{
+    public:
+        void MeuMetodo()
+        {
+            MeuOutroMetodo();
+        }
+        virtual void MeuOutroMetodo()
+        {
+            MinhaPropriedade = 42;
+        }
+        int MinhaPropriedade;
+};
+
+class MinhaClasseVersao75 : public MinhaClasse
+{
+    public:
+        virtual void MeuOutroMetodo()
+        {
+            MinhaPropriedade = 75;
+        }
+};
+
+int main()
+{
+    MinhaClasse obj;
+    MinhaClasseVersao75 obj2;
+
+    obj.MeuMetodo();
+    obj2.MeuMetodo();
+
+    std::cout << "MinhaPropriedade (obj) = " << obj.MinhaPropriedade << std::endl;
+    std::cout << "MinhaPropriedade (obj2) = " << obj2.MinhaPropriedade << std::endl;
+}
+```
+
+{{< image src="Ye5mA8L.png" caption="" >}}
+
+Como você deve imaginar, é possível também fazer isso em C. Basta mudar os endereços das variáveis do tipo ponteiro de função que estão na struct usada como contexto. Para ficar o mais próximo possível do "modo C++" de fazer polimorfirmo, podemos escrever _hardcoded_ a tal _vtable_ para os diferentes tipos de "classe":
+
+```
+#include <stdio.h>
+
+struct MinhaVTable;
+
+struct MinhaClasse
+{
+	const MinhaVTable* VTable;
+	int MinhaPropriedade;
+};
+
+struct MinhaVTable
+{
+	void (*MeuMetodo)(MinhaClasse*);
+	void (*MeuOutroMetodo)(MinhaClasse*);
+};
+
+void MinhaClasse_MeuMetodo(MinhaClasse* pThis)
+{
+    pThis->VTable->MeuOutroMetodo(pThis);
+}
+
+void MinhaClasse_MeuOutroMetodo(MinhaClasse* pThis)
+{
+    pThis->MinhaPropriedade = 42;
+}
+
+void MinhaClasse_MeuOutroMetodoVersao75(MinhaClasse* pThis)
+{
+    pThis->MinhaPropriedade = 75;
+}
+
+static const MinhaVTable g_minhaVTableOriginal = { MinhaClasse_MeuMetodo, MinhaClasse_MeuOutroMetodo };
+
+static const MinhaVTable g_minhaVTableVersao75 = { MinhaClasse_MeuMetodo, MinhaClasse_MeuOutroMetodoVersao75 };
+
+int main()
+{
+	MinhaClasse obj = { &g_minhaVTableOriginal };
+	MinhaClasse obj2 = { &g_minhaVTableVersao75 };
+
+	obj.VTable->MeuMetodo(&obj);
+	obj2.VTable->MeuMetodo(&obj2);
+
+	printf("MinhaPropriedade (obj) = %d\n", obj.MinhaPropriedade);
+	printf("MinhaPropriedade (obj2) = %d\n", obj2.MinhaPropriedade);
+}
+```
+
+{{< image src="tRAtU9d.png" caption="" >}}
+
+A versão C ainda tem a vantagem de não precisar de uma vtable const (embora seja adequado em situações normais de temperatura e pressão). Os "métodos" poderiam mudar caso algum estado mudasse, alguma exceção fosse disparada, mantendo o mesmo contexto, mas um comportamento (vtable) diferente. Quem utiliza muito essa estratégia é o _kernel_ do Windows, que mexe com estruturas que contém não apenas listas ligadas genéricas, mas funções de _callback_ que não apenas o código da Microsoft precisa chamar, mas os próprios _drivers_ de terceiros que se preocupam com bom comportamento e _guidelines_ que tornam o SO rodando perfeitamente.
+
+{{< image src="k20fqVJ.gif" caption="" >}}
+
+O importante deste artigo é demonstrar como conceitos aparentemente complicados ou escondidos de uma linguagem como C++ podem ser compreendidos completamente utilizando apenas linguagem de alto nível no bom e velho C. Essa estratégia de descer camadas de abstração, como verá, funciona para linguagens de mais alto nível, como C# ou Java, pois ambas são implementadas em linguagens como C++. No fundo, engenharia de software é um universo multi-camadas transitando pela última camada que conhecemos -- a física. Pelo menos a última camada que ainda conhecemos.
+
+[post anterior]: {{< relref "classe-objeto-contexto-metodo" >}}
+[há muito tempo atrás]: {{< relref "vtable" >}}
 

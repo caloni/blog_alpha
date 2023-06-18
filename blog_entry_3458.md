@@ -1,18 +1,20 @@
 ---
 categories:
 - writting
-date: '2018-08-12'
-link: https://www.imdb.com/title/tt8176578
+date: '2017-04-16'
+link: https://www.imdb.com/title/tt3845888
 tags:
-- movies
-title: 'Shiki Oriori: O Sabor da Juventude'
+- series
+title: 'Sherlock: The Lying Detective'
 ---
 
-Este é um filme que dá sono. Aliás, estes são três curtas. Que dão sono. Mas apesar dos bocejos e das pescadas, há algo de muito bonitinho acontecendo em Shiki Oriori, lançada pela Netflix que se orgulha em anunciar que é do mesmo estúdio de Your Name, o ultra-pop sucesso de Makoto Shinkai. Aqui nós temos três diretores diferentes trazendo uma percepção temática parecida entre as três histórias: a nostalgia de algo perdido em nossa juventude e que na fase adulta bate à porta.
+Eis mais um vilão de respeito para a série Sherlock, embora este seja apenas um fantoche para mais uma demonstração das inúmeras habilidades do detetive de Baker Street. Há brincadeiras a respeito dele ser o autor do blog que Watson (Martin Freeman) escreve a respeito das aventuras do companheiro, e há uma participação perturbadora do detetive e seu escudeiro em um hospital com crianças. O vilão, interpretado de maneira caricata e divertida por Toby Jones, ainda assim é um marco, pois permite que os heróis sejam... heróis!
 
-Tendo trabalhado no departamento de animação de um curta e um longa de Shinkai, Yoshitaka Takeuch é o mais veterano dos três, que não assinam os segmentos (ou assinam coletivamente, ficando indefinido se cada um é responsável por um segmento). A animação segue uma paleta e conceitos semelhantes, com idas e vindas entre passado e presente. Há música empolgante e personagens bem-sucedidos, mas, cada um à sua maneira, melancólicos. Dois dos curtas possuem finais felizes, e são os que mais soam fake. O primeiro, sobre lámen, mais autêntico, chega a iluminar um pouco o coração. E a barriga.
+Além do mais, o terceiro ato revela reviravoltas de cair o queixo, e ainda que lembre uma novela, é uma novela deliciosa de ser acompanhada. As maiores tiradas não estão nos efeitos visuais ou na trama complexa, mas nas obviedades que nos escapam. Não há como dar detalhes em uma série em que o espectador implora por pistas durante todo o tempo, mas é possível dizer que as habilidades dos roteiristas em esconder o óbvio continuam certeiras.
 
-O que dá sono mesmo é a falta de conflito. As histórias são quase que experimentais, pois vão descrevendo uma situação cujas memórias servem de guia moral para entendermos para onde o protagonista deve ir, mas nunca nos revelando o que é que falta para que ele se complete (com exceto do terceiro). Mas ao acompanharmos apenas memórias ao ar fica difícil prestar atenção em todo o conteúdo, já que as únicas informações relevantes estão pontualmente localizadas. Com isso as estórias ganham um ar de diário, mesmo, de lembranças pessoais que alguém começou a ditar ou havia anotado em algum lugar para fazer um curta assim que a Netflix pagasse. Há algo amadorístico que não encanta, mas desaponta, e algo estilizado que foge um pouco do contexto.
+Antes que você ache que estou menosprezando o vilão, é ele que torna este o episódio mais forte e mais completo da série. Porém, mais que isso, a possibilidade de vermos novamente os dois heróis vivendo uma aventura não em seu formato canônico, mas passando por um problema intransponível. Sherlock é uma série com poucos episódios por temporada justamente pela capacidade de concentrar o melhor de todas as possibilidades em apenas cerca de 90 minutos.
 
-O resultado é uma mistura que não dá certo. Apenas entretém os mais atentos, e faz dormir os mais cansados do mesmo. Não inspira os sentimentos de seus heróis porque eles estão incompletos. São pedaços de emoções flutuando entre as pessoas. Mas se alguma historinha sem querer coincidir com algum momento pessoal seu em sua juventude, pode esquecer tudo que eu disse: ele vale a pena ser visto com o coração.
+## 2020-12-05
+
+Este é mais um roteiro de encher a mente. Uma história de detetive clássica, com detalhes que podem ser revistos sem perder seu brilho. E a capacidade da série reciclar seus personagens é invejável. Ela usa uma fórmula? Não exatamente. Ela segue um princípio, mas não se importa que seus personagens mudem com o tempo. O que é ótimo depois que nos acostumamos com eles. Porque assim como Sherlock, séries que evitam mudanças e ficam no previsível são como clientes que não conseguem se manter cinco minutos em sua sala. Porque são muito chatos.
 

@@ -1,64 +1,59 @@
 ---
-categories:
-- coding
-date: '2017-03-14'
-tags: null
-title: Entrando na zona com Windows
+categories: []
+date: '2017-01-05'
+title: Entrando na zona com Vim
 ---
 
-**Update 2019-03-20: Adicionando programa para fazer tela cheia no Windows e retirados detalhes que não uso mais.**
+Se você é programador é bem provável que já tenha ouvido falar em [Flow] ou [The Zone]. Se for leitor assíduo do Hacker News, então, nem se fala. De qualquer forma, uma das maneira mais produtivas do programador programar é entrar na famosa "zona". É lá que muito de nós nascemos. Lembra a primeira vez que mexeu em um computador ou afim e ficou tão obcecado que não viu o tempo passar? Pois bem. Você esteve na zona. E estar nela é um bom lugar para trabalhar.
 
-Um [artigo anterior] havia dado umas dicas de como transformar o Vim em uma ferramenta para toda obra, com isso limitando as distrações quando se está em um computador, e com isso facilitando a entrada e a permanência no estado de fluidez de produtividade que conhecemos como "flow", ou estar na zona. Agora é a vez do Windows.
+Na zona, principalmente resolvendo problemas complexos, o importante é poder construir uma estrutura em sua mente com a ajuda de alguns aparatos, como um caderno de anotações, stickers, lousa ou seu editor preferido. Meu editor preferido para navegar (flow) por um código é sem sombra de dúvida o Vim, pois ele é apenas uma tela que preenche todo meu campo de visão e possui comandos em que eu consigo facilmente acessar o conteúdo que preciso relembrar. Quando estou obtendo o diagnóstico de um log, por exemplo, posso rapidamente ir construindo um modelo mental da solução navegando entre arquivos de log e código-fonte através de tags e buscas em regex.
 
-O Windows 10 já vem com atalhos pré-instalados assim que você loga nele. Tem browser, navegador de arquivos, notícias, e uma caralhada de coisas inúteis que ficam se mexendo na tela, chamando sua atenção, distraindo sobre o que é mais importante.
+A primeira vantagem do Vim em relação a outros editores é sua capacidade de abrir arquivos grandes. Um log de 1GB pode ser um desafio para um Notepad da vida, e até para um Visual Studio, mas no Vim tudo que você precisa é de memória disponível. E mesmo que não tenha, o Windows se vira bem no gerenciamento de swap (ou Linux, tanto faz).
 
-Mas é possível arrancar tudo isso e deixar na barra de tarefas pinado apenas as coisas realmente vitais para o uso do computador de trabalho, geralmente o terminal, o navegador (pesquisa, emails, etc) e o editor (não necessariamente o Vim).
-
-### Otimizando o terminal
-
-O terminal do Windows, o Command Prompt, ou cmd para os íntimos, sofreu algumas mudanças ultimamente. Entre elas há a transparência, o que o tornou cool, e a tela cheia (atalho Alt+Enter), o que o tornou ideal como ferramenta de navegação para programadores (melhor do que o explorer, que virou um penduricalho de atalhos inúteis também). Você pode ativá-lo já entrando na tela cheia e com o code page de sua preferência (o meu é 65001, que é o utf8) usando esse pequeno programa:
+Para navegar no código, existem duas técnicas que não necessitam de nenhum plugin. A primeira é a busca por regex, que pode ser feita com os comandos [:vimgrep](http://vimdoc.sourceforge.net/htmldoc/quickfix.html#:vimgrep) ou [:grep](http://vimdoc.sourceforge.net/htmldoc/quickfix.html#:grep), sendo que o primeiro busca em um padrão de arquivos (usando wildcard) e o segundo dentro dos buffers já abertos (útil se você já tiver uma sessão ativa; mais sobre isso depois).
 
 ```
-#include <iostream>
-#include <windows.h>
+" No Vim não é necessário digitar o comando completo; note que esse wildcard busca pastas recursivamente
+:vimg /regex/ \Projects\SomeProject\**\*.cpp
 
-#pragma comment(lib, "user32")
-
-int main()
-{
-    if( ! SetConsoleDisplayMode(GetStdHandle(STD_OUTPUT_HANDLE), CONSOLE_FULLSCREEN_MODE | CONSOLE_WINDOWED_MODE, NULL) )
-    {
-        // Se falhas com GLE 120 (função não suportada) usar função abaixo.
-        ::SendMessage(::GetConsoleWindow(), WM_SYSKEYDOWN, VK_RETURN, 0x20000000);
-    }
-    system("chcp 65001");
-}
-
+" Isso busca em todos os buffers abertos cujo arquivo tem a extensão de C++
+:grep regex *.cpp
 ```
 
-### Configurando o git para controlar o fonte rapidamente
+O bom é que, no caso de logs, se você buscar por expressões unívocas, isso já fica no histórico de seus comandos e você pode usar quando quiser para voltar para esses logs (ou se você for maluco e guardar de cabeça seus marks, pode criar um mark de vez).
 
-Os comandos do git são muito verbose. Duas letras já seriam suficiente (o Windbg manipula seu programa com apenas uma...). Para otimizar a digitação no git crie uns aliases em seu HOME\.gitconfig:
+A segunda técnica de navegar no código é através das tags que são montadas pela ferramenta ctags. Ela é genérica o suficiente para suportar várias linguagens, mas pode ser usada até para qualquer sequência de palavras. Há plugins que realizam essa varredura do fonte automática, mas particularmente não gosto de encher meu Vim de plugins, sendo que o único que uso que me lembro é o [MRU](http://www.vim.org/scripts/script.php?script_id=521) (porque o Vim ainda não suporta algo do gênero internamente). De qualquer forma, tudo que eu preciso fazer para atualizar as tags de um projeto é abrir o readme do projeto (que geralmente fica na pasta raiz) e rodar meu atalho.
 
 ```
-[user]
-	name = Wanderley Caloni
-	email = wanderley.caloni@bitforge.com.br
-[alias]
-	st = status
-	br = branch
-	ci = commit
-	co = checkout
-[core]
-	editor = c:/Programs/Vim/vim80/gvim.exe
-	autocrlf = true
-	excludesfile = C:\\Users\\Caloni\\.gitignore
-	fileMode = false
+" Roda recursivamente e otimiza para C++ e Python.
+map <S-F5> :!ctags --tag-relative=yes --recurse --c++-kinds=+p --python-kinds=-i --fields=+iaS --extra=+q<CR>
+" Busca pelo arquivo tags na pasta atual e vai subindo a hierarquia.
+set tags=tags;
 ```
 
-### Atalhos da barra iniciar
+Isso vai gerar um arquivo ctags na pasta do projeto que será usada automaticamente para procurar pelas tags que eu preciso. O pulo do gato na verdade é o ponto-e-vírgula após o nome do arquivo ao setar a variável tags. Isso faz com que o Vim não busque apenas o arquivo tags na pasta atual, mas em toda hierarquia. Então se você estiver na pasta Projects\SomeProject\Folder1\Folder2\Folder3\File.cpp e tiver gerado o arquivo tags na pasta SomeProject para todo o projeto, ao usar o comando de busca de tag ele eventualmente vai abrir esse arquivo tags, pois ele vai procurando em Folder3, Folder2, Folder1 e cai em SomeProject.
 
-Agora, através dos atalhos Win+1, 2, 3... pode-se abrir e alternar entre os aplicativos principais do seu dia-a-dia, que devem ficar "pinados" na barra de tarefas. Os meus atualmente são três: terminal (1 cmd), editor (2 vim) e browser (3 chrome). Não é necessário colocar coisas como Visual Studio, já que minha navegação é feita rapidamente pelo terminal para o projeto que irei mexer. Com isso o foco fica restrito a apenas uma coisa: o que você tem que fazer hoje? =)
+Como no Windows o atalho padrão do comando tag do Vim não funciona também preciso fazer uma pequena adaptação técnica (e de quebra já uso para navegar nos próximos resultados):
 
-[artigo anterior]: {{< relref "entrando-na-zona-com-vim" >}}
+```
+map <C-K> <C-]>
+" O bom é que o first e o next ficam um do lado do outro.
+map <C-J> :tnext<CR>
+```
+
+Depois de dar uma olhada no log, encontrar os métodos que você precisa analisar, seu fluxo, etc, você terá um monte de buffers relevantes abertos nas linhas relevantes. Seria muito bom se tudo isso pudesse ser guardado em um estado para que você continue amanhã ou em sua próxima sessão de flow. Para isso existe o comando [:mksession](http://vimdoc.sourceforge.net/htmldoc/starting.html#:mksession).
+
+```
+" Salva estado atual dos buffers
+:mksession \temp\analise.vim
+" Restaura um estado salvo anteriomente
+:so \temp\analise.vim
+```
+
+O comando [:source](http://vimdoc.sourceforge.net/htmldoc/repeat.html#:source) roda um script vim que possui comandos guardados. Ele é um arquivo texto semelhante ao vimrc.
+
+Basicamente é isso. Tudo o que você precisa em sua análise de fonte e de log se encontra na ponta de seus dedos. Não é necessário abrir nenhuma pasta nem terminal. Simplesmente navegue através do Vim para descobrir o problema e seja feliz em sua zona.
+
+[Flow]: https://en.wikipedia.org/wiki/Flow_(psychology)
+[The Zone]: https://hn.algolia.com/?query=the%20zone
 

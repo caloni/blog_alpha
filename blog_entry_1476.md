@@ -1,22 +1,29 @@
 ---
 categories:
 - writting
-date: '2017-12-27'
-link: https://www.imdb.com/title/tt7573686
+date: '2012-10-31'
+link: https://www.imdb.com/title/tt0064116
 tags:
-- series
-title: 'Erased: Piloto'
+- mostra
+- movies
+title: Era Uma Vez no Oeste
 ---
 
-Esta é uma série fantástica baseada tão fortemente em um mangá e anime que ele pode ser o delírio do fã das obras originais ou atiçar a curiosidade do cinéfilo. Por que a curiosidade? Se observarmos os movimentos de câmera, a forma de disposição dos personagens e dos elementos em cena perceberemos que esta obra continua sendo um anime em forma.
+Era Uma Vez no Oeste parece ser a tentativa de Sergio Leone de fazer o "Grande Cinema", tornando todas as cenas costumeiras de seu faroeste mais solenes, lentas e cerimoniosas. Isso explica a trilha-comentário do músico Ennio Morricone, que oscila elegantemente entre toda essa solenidade e o pitoresco, com direito a pausa em uma música que lembra o cavalgar e que serve de tom cômico.
 
-Em conteúdo também. A narração dos pensamentos e sentimentos do herói é a típica adaptação narrativa que o Ocidente faz para o Oriente. Além disso a noveliza, para que o telespectador de celular perceba detalhes óbvios como quem é a mãe do personagem. Ao mesmo tempo cria situações extremamente improváveis, como alguém que acabou de acordar de um acidente e pergunta pra sua colega de trabalho por que ela trabalha. Ela responde: para realizar um sonho. Isso é tão atípico que só pode ser um programa da TV de domingo.
+Essa ambição de Leone talvez fosse apenas um ledo engano, pois precisou filmar este épico para chegar em sua continuação temática em [Era Uma Vez na América], que poderia muito bem ser exibido em uma sessão dupla. 
 
-Mas voltemos aos movimentos de câmera. Eles vão deslizando de lado em cenários com elementos animados. Às vezes são crianças brincando com balões coloridos, às vezes um trem surge perfeitamente ao fundo. Essa elementos ficam lindos em animações. Já neste live action com pouca inspiração em sua fotografia soa plástico, inventado. Esses detalhes fazem o cinéfilo pensar pra que tudo isso ou se isso quer reproduzir o anime e se tornar querido pelos fãs.
+Com exceção do cenário deslumbrante, as melhores partes do filme lembram muito as técnicas de enquadramento da trilogia dos dólares, em especial o último, [Três Homens em Conflito]. A montagem ritmada, que cria transições tão eloquentes quanto um tiro e um trem a vapor, exagera ainda mais o tom cartunesco já visto nos outros filmes. E pensar que tudo é feito sem efeitos de divisão de tela (como em Hulk, filme de Ang Lee) ou a fotografia alterada (como em [Sin City]). Não, aqui as pinturas que se criam com o aspecto panorâmico conseguem tanto evocar a beleza do quadro quanto seu tom exagerado.
 
-Aliás, já notou como os eventos especiais do protagonista acontecem em um lugar aberto com as pessoas distribuídas de maneira uniformemente caótica? Parece uma praça ou uma rua cinematográfica ou quadros estáticos onde os talentosos desenhistas irão inserir elementos móveis.
+Mas sou obrigado a voltar para a música. Morricone aqui cria um eco surreal vindo de uma gaita de boca tocada por ninguém nada menos que Charles Bronson, que faz o papel de homem misterioso junto com outros dois que logo se revelam: Jason Robards e Henry Fonda, este que depois de uma carreira como mocinho clássico faz aqui o seu primeiro papel de vilão, sendo por isso devidamente apresentado em uma cena particularmente cruel. Tanto essa mudança de expectativa com Fonda quanto o uso da harmônica com Bronson criam um clima estranho, quase onírico. E note como o som da gaita mescla com a música e tema e todos os outros sons do ambiente.
 
-A história é criativa e pode ser interessante: o rapaz que não gosta da mãe por perto e tenta fazer seu mangá ter sucesso tem um poder: ele volta no tempo (um pouquinho só) quando algo ruim vai acontecer. Este algo ruim pode ser evitado por ele. Este é um acontecimento que ele não tem controle. Ou tem, como vimos próximo do final. Nunca saberemos se a regra dos roteiristas vai se formando pela conveniência ou por um intrincado jogo de causa e efeito como em Steins;Gate. Mas eu chuto pelo primeiro.
+Aliás o uso do som "natural" no filme é digno de um maestro, pois este colabora com a tensão de uma maneira harmoniosa e ritmada, como pode-se ouvir logo na primeira cena, que utiliza o som de um velho moinho, o bater de gotas em um chapéu e uma mosca teimosa.
 
-A história gira em torno do acontecimento fantástico. O nosso herói tem uma personalidade que tanto faz. Ele é o centro de acontecimentos fantásticos e ponto. Ao final do episódio uma reviravolta que quebra uma certa regra, e está lançado o gancho para espectadores apaixonados por animes apreciarem um anime desenhado usando pessoas de carne e osso e balões de verdade.
+No entanto o mestre Leone quer deixar sua marca, e para isso tenta transformar seu bangue-bangue em uma alegoria do progresso - representado pelo trem. No fundo, a visão de Leone é um tanto ácida e talvez pessimista, pois em ambos "Era uma Vez..." os heróis e heroínas nunca representam a visão idealizada do bem, possuem falhas de caráter e conseguimos enxergar bondade em seus atos meramente pela situação onde se encontram.
+
+Se bem que, de certa forma, a trilogia dos dólares dança no mesmo ritmo: fico feliz pelo músico ser o mestre Morricone.
+
+[Era Uma Vez na América]: {{< relref "era-uma-vez-na-america" >}}
+[Sin City]: {{< relref "sin-city" >}}
+[Três Homens em Conflito]: {{< relref "tres-homens-em-conflito" >}}
 

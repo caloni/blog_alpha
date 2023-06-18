@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2022-11-21T20:12:21-03:00'
+date: '2023-01-02T22:55:24-03:00'
 tags:
 - wine
-title: Château Charlieu Bordeaux 2020
+title: Château Charlieu
 ---
 
-Este vinho francês é muito agradável. Tem complexidade, mas não muita. Dá pra tomar uma taça ocasionalmente. Seu frutado é leve. Alcoólico, sim, mas pode ser jovem. Precisa respirar. Taninos sob controle.
+Não me lembro muito deste vinho. Não é ruim, mas não deve ser marcante.
 

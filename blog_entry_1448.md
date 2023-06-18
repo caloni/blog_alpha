@@ -1,20 +1,20 @@
 ---
 categories:
 - writting
-date: '2016-11-02'
+date: '2011-11-27'
+link: https://www.imdb.com/title/tt0067185
 tags:
-- mostra
 - movies
-title: Então Morri
+title: Ensina-me a Viver
 ---
 
-Um documentário que passa direto para nossos sentidos. Começa na morte e vai voltando pela dor, alegria, ou seja, emoções dos seus personagens da vida real.
+Harold é um garoto problemático para sua idade. Obcecado em fingir suicídios e sentindo prazer em frequentar enterros, não possui outra pretensão na vida. Introspecto e de poucas palavras, o uso de músicas existencialistas em torno dos seus atos aprofunda ainda mais seus sentimentos.
 
-Em todos eles, miséria, religião, simplicidade. Não apenas do modo de viver, mas de pensar, e consequentemente de falar a respeito da vida. São pequenas lições ouvir as pequenas poesias que essas pessoas dizem, em palavreado simples e ações mais simples ainda, como um soco ou chute, um beijo ou carregar um caixão.
+Sua própria introspecção e solenidade em seus suicídios encenados criam uma espécie de dubiedade no personagem, pois não sabemos ao certo se rimos pelo humor do absurdo ou escolhemos nos compaceder do jovem que ainda não sabe como aproveitar a vida que possui.
 
-A edição é ágil, fluida, e ao avançar cria closes absurdos e uma qualidade sofrível das imagens trazem a realidade para um nível naturalista. A trilha sonora começa diegética, dentro daquele universo, e vai se alastrando pelas cenas, como memórias. Trilhas sonoras da vida, assim como os diálogos, assim como as faces daquelas pessoas, que personalizam a vida em seu básico, instintivo; a poesia do existir.
+Já Maure, perto dos 80 anos bem vividos, transa bem o fato que está próxima do fim e celebra as transformações do ciclo da vida. Não muito adepta de convenções sociais, se torna uma companhia inusitada, mas tão natural que chega a parecer estranho que nunca tivessem se encontrado ainda nos enterros que ambos frequentam.
 
-Os diretores Bia Lessa e Dany Roland, empenhados também em realizar fotografia, roteiro e edição (com a ajuda de Julia Bernstein), agradecem ao final pelo documentário-mestre do Brasil, Eduardo Coutinho. Não à toa. Os idealizadores captaram a inteligência emocional de Coutinho em um trabalho simples, mas poderoso, que consegue extrair palavras da vida que são tão comuns, mas tão poderosas. 
+Essa dualidade da vida e da morte permeia os 91 minutos do filme e serve de pano de fundo para questões filosóficas sobre o tema que nunca chegam a ser de fato tão relevantes para o roteiro, que se concentra ao máximo para tornar comédia o que obviamente é uma história de drama leve e com boas doses de humor.
 
-De um grupo de mulheres esperando os homens para carregar um caixão à noite da avó falecida até um grupo de crianças comentando uma briga recente entre meninas, Então Morri abraça a vida de um jeito que não é possível largar. Acompanhamos a sequência exata de um filme rebobinando, desde a morte até o nascimento, como espectadores que se conectam com aquela película quase sem filtros.
+Piegas talvez em seu final, mas forte em sua mensagem de amor à vida e a aceitação da morte como um evento natural que devemos igualmente celebrar, Ensina-me a Viver não chega a ser tão notável quanto poderia ser se esquecesse sua missão de parecer engraçado; em muitos momentos ele simplesmente não é, e é isso que o torna um trabalho mais relevante.
 

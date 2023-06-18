@@ -1,195 +1,89 @@
 ---
 categories:
 - coding
-date: '2015-01-11'
+date: '2010-04-21'
 tags: null
-title: Por que o Visual Studio gera executáveis mutantes
+title: Por que Long Pointer
 ---
 
-> _Esse é um post antigo que encontrei no meio dos meus emails de 2006, mas que contém uma boa dica para quem já entendeu o [passo-a-passo da compilação], mas ainda tem sérios problemas quando os projetos ficam gigantes._
+Esse artigo continua a explicação sobre [os typedefs arcaicos](http://www.caloni.com.br/typedef-arcaico), já que ainda falta explicar por que diabos os ponteiros da Microsoft começam com LP. Tentei explicar para [minha pupila](http://www.caloni.com.br/basico-do-basico-ponteiros) que, por ser código dos anos 80, as pessoas usavam LP para tudo, pois os CDs ainda não estavam tão difundidos.
 
-Essa é a segunda vez que encontro esse mesmo problema. Como acredito que outras almas podem estar sofrendo do mesmo mal, coloco aqui uma breve descrição de como o VC8 faz para gerar um executável que, mesmo não dependendo das DLLs de runtime, não são executados em sistemas que suportam a interpretação do ".manifest". De canja, um pequeno programa que exibe a lista dos programas instalados no sistema.
-
-Primeiro, precisamos de um solution que contenha um projeto console e uma LIB. O projeto console deve usar a LIB para fazer alguma coisa. No exemplo abaixo, estarei listando os programas instalados no Windows (os mostrados no painel de controle através da opção "Adicionar/remover programas".
-
-```
-/** library.h
-*/
-#pragma once
-#include <string>
-#include <vector>
-
-typedef std::vector<std::string> InstalledSoftwareList;
-int getInstalledSoftware(InstalledSoftwareList&);
-
-/** library.cpp
-*/
-#include "library.h"
-#include <windows.h> // aqui precisamos do windows para as funções de registro
-#include <tchar.h> // suporte a unicode condicional
-
-#define SW_ROOT_KEY "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall"
-#define SW_DISPLAY_NAME "DisplayName"
-
-/** Retorna o número de elementos em um array. */
-template<typename T, size_t Sz>
-DWORD SizeofArray(const T(&arr)[Sz]) { return Sz; }
-
-/** Retorna lista com descrição de cada programa instalado no sistema. */
-int getInstalledSoftware(InstalledSoftwareList& installedSoftware)
-{
-   HKEY swRoot = NULL;
-   DWORD err = RegOpenKeyEx(HKEY_LOCAL_MACHINE, _T(SW_ROOT_KEY), 0, KEY_READ, &swRoot);
-
-   if( err == ERROR_SUCCESS )
-   {
-      DWORD swIndex = 0;
-      TCHAR swKeyName[MAX_PATH] = _T("");
-
-      // para cada chave dentro da raiz de programas instalados
-      while( (err = RegEnumKey(swRoot, swIndex++, swKeyName, SizeofArray(swKeyName))) 
-         == ERROR_SUCCESS )
-      {
-         HKEY swCurrent = NULL;
-         err = RegOpenKeyEx(swRoot, swKeyName, 0, KEY_READ, &swCurrent);
-
-         if( err == ERROR_SUCCESS )
-         {
-            CHAR swDisplay[MAX_PATH] = ""; // vamos obter a string já em mb
-            DWORD swDisplaySz = SizeofArray(swDisplay);
-
-            if( (err = RegQueryValueExA(swCurrent, SW_DISPLAY_NAME, 0, NULL, 
-               reinterpret_cast<PBYTE>(swDisplay), &swDisplaySz)) == ERROR_SUCCESS )
-            {
-               installedSoftware.push_back(swDisplay);
-            }
-
-            RegCloseKey(swCurrent);
-         }
-      }
-
-      // se não tem mais itens, então não é um erro
-      if( err == ERROR_NO_MORE_ITEMS )
-         err = ERROR_SUCCESS;
-      RegCloseKey(swRoot);
-   }
-   return int(err);
-}
-
-/** console.cpp
-*/
-#include "../library/library.h" // include da nossa lib
-#include <algorithm>
-#include <iostream>
-
-using namespace std;
-
-int main()
-{
-   int ret;
-   InstalledSoftwareList swList;
-
-   cout << "MSVC Mutant - v. beta\n"
-      << "by Wanderley Caloni (www.caloni.com.br)\n\n";
-
-   // obtém a lista de programas instalados e exibe na tela
-   ret = getInstalledSoftware(swList);
-
-   if( ret == 0 )
-   {
-      cout << "Programs installed on your system\n"
-         << "=================================\n";
-      copy(swList.begin(), swList.end(), ostream_iterator<string>(cout, "\n"));
-
-   }
-   else
-      cout << "Error " << ret << " trying to list installed programs.\n";
-
-   return ret;
-}
-```
-
-___Observação importante__: para ignorar todas as estripulias da versão Debug, todos os testes foram compilados em Release._
-
-Primeiramente, modifico a configuração padrão dos dois projetos para não depender da DLL de runtime do VC. Isso está em __Project, Properties, C/C++, Code Generation, Runtime Library__. Depois executo em uma máquina virtual sem as runtimes do VC8 instaladas:
-
-    MSVC Mutant - v. beta
-    by Wanderley Caloni (www.caloni.com.br)
     
-    Programs installed on your system
-    =================================
-    Windows XP Service Pack 2
-    WebFldrs XP
-    VMware Tools
+    /** @brief Para instanciar um Bozo. @date 1982-02-21 */ 
+    typedef struct _BOZO { 
+       char helloMsg[100]; /* definir para "alô, criançada, o bozo chegou..." */ 
+       float currentTime; /* definir para 5e60 */ 
+    }
+     BOZO, *LPBOZO;
 
-Perfeito. Exatamente o que eu queria: um executável console que não dependesse de DLL nenhuma exceto as que já estão instaladas em um Windows ordinário.
-
-Agora, vamos imaginar que esse é um daqueles projetos enormes de __5 * 10 ^ 42__ de linhas (obs: dramatização) e que meu aplicativo console está linkado com cerca de __3 * 10 ^ 666__ de LIBs. E uma delas (a library do exemplo) está com a configuração original, ou seja, com a dependência da DLL de runtime. E ela usa a STL. Provavelmente o aplicativo console não irá compilar, mas isso não é problema, pois estamos acostumados a colocar a msvcrt.lib na lista de LIBs ignoradas, pois em muitos outros casos (que não vale a pena discutir aqui) esse workaround é válido. E tudo volta a funcionar. Quer dizer, linkar:
-
-O sistema no pode executar o programa especificado.
-
-Tudo bem, meu executável não é mutante ainda. Mas agora vamos trocar a chamada da nossa função que usa STL por uma função que não usa:
-
-```
-/** library.h
-*/
-int doesNothing();
-
-/** library.cpp
-*/
-
-/** Essa função não faz nada. Quer dizer, ela retorna 0. Mas é só isso. */
-int doesNothing()
-{
-   return 0;
-}
-
-/** console.cpp
-*/
-#include "../library/library.h" // include da nossa lib
-
-int main()
-{
-   int ret;
-
-   // não faz nada. bom, chama uma função. mas isso é quase nada.
-   ret = doesNothing();
-
-   return ret;
-}
-```
-
-    Linking
-    =======
-    library.lib(library.obj) : warning LNK4049: locally 
-     defined symbol __invalid_parameter_noinfo imported
     
-    Running
-    =======
-    O sistema no pode executar o programa especificado.
+    /** @brief Para instanciar um Pokemon. @date 1996-03-01 */ 
+    typedef struct _PIKACHU 
+    { 
+     char helloMsg[100]; // setar para "pika, pika pikachuuuuuuu..." 
+     int pokemonID; // setar para 24 
+    }
+    PIKACHU, *CDPIKACHU;
+
+Não colou. Então vou tentar explicar do jeito certo.
+
+Antigamente, as pessoas mandavam cartas umas para as outras. Carta, para você, caro leitor de quinze anos, era um e-mail implementado em hardware.
+
+Para mandar um e-mail, usamos o nome da pessoa e o domínio em que seu e-mail é endereçado, ex: nome-da-pessoa@dominio.com.br. Para mandar uma carta usamos duas informações básicas: o nome da rua e o número da casa.
+
+{{< image src="endereco-da-carta.png" caption="Endereço de uma carta" >}}
+
+Consequentemente enviamos dois comandos ao carteiro: meu amigo, vá para a rua tal. Chegando lá, encontre o número 1065.
+
+Considere que estamos falando do mesmo bairro ou cidade, o que na minha analogia seria um computador e sua memória. Para enviar cartas para outros bairros em outras cidades (outros computadores em outras redes) teríamos que informar também outros dados, como nome da cidade e CEP.
+
+{{< image src="getting-right-on-street.png" caption="Encontrando o caminho" >}}
+
+Nesse exemplo também podemos usar o Juquinha do bairro para entregar a carta e economizarmos 10 centavos.
+
+Agora, repare que interessante: em uma rua, cabem no máximo N casas. Se você tentar construir mais casas vai acabar invadindo o espaço de outra rua.
+
+E, já que estamos falando do endereço do destinatário, já podemos relevar que esse endereço constitui um ponteiro em nossa analogia. Se você está usando dois dados para informar o endereço, então estamos falando de um ponteiro longo, long pointer, ou LP!
+
+{{< image src="relacao-endereco-carta-segmento-offset.png" caption="Relação Segmento x Offset com Rua x Número" >}}
+
+#### Long Pointers
+
+Na terminologia Intel para as plataformas 16 bits, a memória do computador era acessível através de segmentos (ruas) e offsets (números), que eram pedaços da memória onde cabiam no máximo N bytes. Para conseguir mais bytes é necessário alocar memória em outro segmento (outra rua).
+
+Os ponteiros que conseguiam fazer isso eram chamados de long pointers, pois podiam alcançar uma memória mais "longa". Os ponteiros que apenas endereçavam o offset (número) eram chamados, em detrimento, short pointers, pois podiam apenas apontar para a memória do seu segmento (rua).
+
+Ora, se seu destinatário está na mesma rua que você, tudo que você tem a dizer ao Juquinha é: "Juquinha, seu moleque, entrega essa carta no número 1065, e vai rápido!". Nesse caso você está usando um short pointer.
+
+Porém, no exemplo que demos, o destinatário está em outra rua. Se o Juquinha entregar a carta no número 1065, mas na rua errada, estará errando o destinatário. Por isso é que você deve usar um long pointer e falar para o Juquinha do segmento!
+
+{{< image src="getting-lost-on-streets.png" caption="Se perdendo nas ruas" >}}
+
+"Juquinha, seu moleque safado, entrega essa carta no Segmento 0xAC89, Offset 0x496E. E vê se anda logo!"
+
+Essa frase era muito usada nos anos 80, com seus 16 bits e tudo mais.
+
+#### Voltando ao Windows
+
+Com toda essa analogia, fica fácil perceber que o Windows não cabe em uma rua só. Seus aplicativos precisam de muitas ruas para rodar. Isso exige que todos seus ponteiros sejam long, pois do contrário o Juquinha estará entregando as cartas sempre nos endereços errados. Dessa forma, foi estipulado o typedef arcaico padrão para todos os tipos da API que usasse LP (Long Pointer) como prefixo:
+
     
-    Depends
-    =======
-    Error: The Side-by-Side configuration information in "blablabla\CONSOLE.EXE" 
-     contains errors.
-    Falha na inicialização do aplicativo devido a configuração incorreta.
-    A reinstalação do aplicativo pode resolver o problema (14001).
+    typedef unsigned long WORD, *LPDWORD;
+    typedef const char* LPCSTR;
+    typedef <coloque-seu-tipo-aqui> APELIDO, *LPAPELIDO;
 
-Agora sim, a mutação fez efeito! Temos um aplicativo que não depende da DLL de runtime, mas que no meio das n LIBs que ele utiliza existe uma configurada com a dependência. Ignorando a msvcrt.lib e um warning na compilação encontramos uma mensagem de erro um tanto exdrúxula.
+E é por isso que, historicamente, todos os ponteiros para os apelidos da API Win32 possuem sua contraparte LP.
 
-Até agora, a maneira que eu tenho utilizado para rastrear esse problema é não ignorar a msvcrt e ir tirando as dependências das LIBs pouco a pouco, até que ocorra o erro de símbolo duplicado. Algo assim:
+Com a era 32 bits (e mais atualmente 64 bits) os endereços passaram a ser flat, ou seja, apontam para qualquer lugar na memória. Se eu quisesse continuar minha analogia falaria que é o equivalente a uma coordenada GPS, também muito na moda, e que pode apontar para qualquer lugar do planeta. Eu, por exemplo, já trabalhei <del>trabalho</del> perto das coordenadas [-23.563596,-46.653885](http://maps.google.com.br/maps?f=q&source=s_q&hl=pt-BR&geocode=&q=av.+paulista,+sao+paulo&ie=UTF8&hq=&hnear=Av.+Paulista+-+S%C3%A3o+Paulo&z=15), o que eu costumo dizer que fica bem próximo do Paraíso =).
 
-    MSVCRT.lib(ti_inst.obj) : error LNK2005: "private: __thiscall 
-     type_info::type_info(class type_info const &)" (??0type_info@@AAE@ABV0@@Z) 
-     already defined in LIBCMT.lib(typinfo.obj)
-    MSVCRT.lib(ti_inst.obj) : error LNK2005: "private: class type_info & __thiscall 
-     type_info::operator=(class type_info const &)" (??4type_info@@AAEAAV0@ABV0@@Z) 
-     already defined in LIBCMT.lib(typinfo.obj)
-    LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; 
-     use /NODEFAULTLIB:library
-    Blablabla\console.exe : fatal error LNK1169: one or more multiply defined symbols found
+#### Largando velhos hábitos
 
-Se você tiver realmente __3 * 10 ^ 666__ de LIBs, boa sorte =).
+De uns anos pra cá, existem novos typedefs nos headers que permitem o uso dos apelidos Win32 apenas com um P inicial.
 
-[passo-a-passo da compilação]: {{< relref "entendendo-a-compilacao" >}}
+    
+    typedef unsigned long WORD, *LPDWORD, *PDWORD;
+    typedef const char *LPCSTR, *PCSTR;
+    typedef <coloque-seu-tipo-aqui> APELIDO, *LPAPELIDO, *PAPELIDO;
+
+A escolha é livre. Assim como com o typedef arcaico.
 

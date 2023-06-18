@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2016-09-15'
-link: https://www.imdb.com/title/tt0178868
+date: '2017-01-01'
+link: https://www.imdb.com/title/tt2861424
 tags:
-- movies
-title: 'Ring: O Chamado'
+- series
+title: Rick and Morty - Primeira Temporada
 ---
 
-Essa é a versão japonesa, que estreou dois anos antes do remake americano. Diferente de toda a pomposidade de sua cópia, e os efeitos sonoros enlatados de terrores hollywoodianos, este tem a rapidez de um thriller e a semi-profundidade de um drama. Possui um ritmo visual econômico e ágil, e uma conclusão factoide, o que o torna um exemplo de sua própria lenda.
+Essa é uma animação adulta até para muitos adultos. Ele discute temas familiares da maneira mais crua, usando artifícios de sci-fi para tornar tudo mais amenizado ou potencializado. Quando a história é das consequências de um desejo egoísta o roteiro acaba com toda aquela realidade, transformando os humanos em monstros. Quando quer discutir feminismo, adentra em um mundo onde mulheres usam os homens apenas para o que eles servem: aparelhos de esperma (aparentemente a genialidade feminina nesse planeta não conseguiu realizar inseminações artificiais). Cada episódio de 20 minutos revela uma faceta bruta da natureza humana, mostrando como somos primitivos em alguns detalhes. Cerca de 99,9%.
 
-A história é simples: um vídeo misterioso de alguns segundos, se assistido, fará a pessoa morrer em sete dias (após receber um telefonema após ter assistido). Uma médium (Nanako Matsushima) começa a investigar quatro mortes em um só dia, e seu ex-marido (Yutaka Matsushige), também médium, passa a ajudá-la. Ambos têm um filho, quase abandonado, e logo isso constitui um drama eficiente em torno de uma história de terror.
+Seus heróis são Rick, um cientista brilhante e alcoólatra que carrega seu neto Morty para aventuras em planetas, universos e tempos diferentes. Criado por Justin Roiland, que dubla tanto Rick quanto Morty, seus personagens são quase que a caracterização freudiana do ego e id. Enquanto Rick segue seus próprios propósitos, parecendo que ele vive no meio de babuínos, o único motivo que o parece arrastar Morty para essas aventuras é o fator genético.
 
-Além disso, há um mistério que é desvendado aos poucos a respeito da produção da fita. Uma história sobre erupção de vulcões, uma profetiza e sua filha ainda mais poderosa constituem uma história paralela que rima com a principal por falar da mesma coisa: é a história de famílias desajustadas. Marido e mulher se perguntam se deveriam ter tido mesmo um filho do jeito que são, e agora os três fazem parte da maldição que é ter uma família disfuncional.
+Como diversão inconseqüente, sinto lhe informar, mas esta não é uma série para isso. Existem bons exemplares menos afeitos a espremer a esperança humana. O humor de Rick e Morty pode ser quase caracterizado como britânico, o que é um ótimo sinal. Sua música tema flerta com Doctor Who, algo que desconfio que não seja acidental. E, claro, as vantagens de uma animação, onde pode virtualmente tudo, e que mesmo assim cria tensão.
 
-O jogo de quadros do filme às vezes é arrebatador, como quando um acontecimento inesperado está sendo ouvido do outro lado de um telefone, e a câmera consegue triangular o passado, presente e futuro desse acontecimento apenas repassando cada um dos envolvidos, sem a necessidade de diálogo expositivo.
+Parte dessa tensão provém da ágil edição da dupla Lee Harting e Ken MacKenzie, que não deixam o espectador bocejar. A outra parte provém de uma trilha sonora surpreendentemente iluminada de Ryan Elder, resgatando mais uma vez essa tradição que as grandes animações possuem (desde Pica-Pau e Tom e Jerry) de elevar a arte dos desenhistas em arte audiovisual.
 
-É digno de nota também que a maioria dos sustos vêm de uma TV e seu reflexo, sem nenhum daqueles sons capengas que costumam trapacear a surpresa. O jogo de sombras do filme, e os ambientes naturalmente apertados das residências do Japão são o suficiente para tornar Ring um trabalho claustrofóbico por natureza.
-
-Com uma trilha sonora pesada, mas harmoniosa, esse é um filme que passa voando, mas não possui quase nenhum elemento ao acaso. Sua narrativa é coesa, sua história é tensa, sua trama consegue ser complexa sem dificultar o entendimento do espectador. Um trabalho de terror à altura dos maiores: o que não apela para a fuga fácil do susto barato.
+Mas, voltando aos personagens. Repare como os diálogos entre Rick e Morty soam artificiais, quase monólogos. Há vários momentos em que diferentes sequências de frases são encadeadas por Rick, dando a nítida impressão que Justin Roiland está desenvolvendo o roteiro exatamente naquele momento, referenciando (talvez acidentalmente) os diálogos neo-realistas e absurdamente amadores e bem feitos de South Park. O universo paralelo onde essa animação se passa possui um furo: deixou entrar um dublador/criador de situações absurdas em que pessoas do planeta Terra acabam assistindo. Uma ótima sacada, aliás.
 

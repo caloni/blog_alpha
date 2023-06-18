@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2015-08-30'
+date: '2016-01-13'
 tags:
 - food
-title: Blend Paraná e Piatã
+title: Blend Melitta e Café dos Reis
 ---
 
-Ainda tentando acertar a proporção (talvez menos de Piatã), mas a mistura agiliza a coagem e deixa mais forte o café, com o aroma do Paraná (e sem tanta doçura).
+80% Melitta 20% Café dos Reis. Coloquei bem mais pó, um sabor um pouco forte demais, mas mais rico que o Melitta e menos firulento que o dos Reis; interessante.
 

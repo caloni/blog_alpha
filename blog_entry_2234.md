@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-12-01'
+date: '2015-07-26'
 tags:
 - food
-title: Mantissa Café Fazenda
+title: Manos Negras Pinot Noir 2013
 ---
 
-Comecei a provar este café de Poços, mas não me lembro mais. Troquei pelo do Café Gourmet e talvez volte a provar.
+É azedo com final amargo, um Pinot Noir mais forte, seco. Alcoólico ao abrir, leve.
 

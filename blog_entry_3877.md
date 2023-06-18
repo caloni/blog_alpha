@@ -1,24 +1,19 @@
 ---
 categories:
 - writting
-date: '2019-02-02'
-link: https://www.imdb.com/title/tt7040874
+date: '2018-10-11'
+link: https://www.imdb.com/title/tt6100336
 tags:
+- cinemaqui
 - movies
-title: Um Pequeno Favor
+title: Um Noir nos Balcãs
 ---
 
-Minha colega de profissão no CinemAqui, Mariana González, me recomendou Um Pequeno Favor o chamando de "quase uma versão comédia doida de Garota Exemplar". E agora me sumiram melhores palavras para definir esse filme de Paul Feig. Mas eu vou tentar.
+Era pra ser uma história simples sobre perdas e auto-destruição, como o ótimo Em Pedaços (do diretor Fatih Akin, com Diane Krueger), que de bônus tem uma trilha sonora ótima de rock pesado. Mas Um Noir nos Balcãs é apenas um filme que lembra vagamente o gênero noir, e resolve aplicar gracinhas cinematográficas no meio que não fazem o menor sentido, e de quebra tem uma trilha sonora pop bobinha. A protagonista até usa o título da música-síntese de uma cantora pop, Cyndi Lauper: "Girls Just Wann to Have Fun". E o único que não tem diversão nisso tudo é o espectador.
 
-Diretor do excepcional Missão Madrinha de Casamento, Feig é um diretor acostumado a colocar na frente de sua câmera o universo feminino nas melhores atuações das atrizes que escala. Foi assim com Kristen Wiig e agora a mágica se repetiu em Um Pequeno Favor com Anna Kendrick. Eu não costumo ver diretores se saindo tão bem em dirigir atrizes, mas Feig possui em sua lente o poder de elevar suas personagens na tela acima do convencional.
+Isso porque partindo de uma história simples -- uma mãe com a filha desaparecida há seis anos -- o filme mistura uma lógica temática que envolve propagandas antigas de cigarro como o inconsciente coletivo agindo. Mas além disso corta a história em pedaços, que nada contribui para entendermos seus personagens nem a história, que avança a passos de tartaruga e de forma confusa. Porém, mais uma vez, não é a forma confusa e de moral duvidosa de um noir, mas confuso por ser confuso, mesmo.
 
-E você conhece Kendrick. Atriz e cantora, essa baixinha dublou a garota mais fofinha em Trolls, e mesmo em um filme sério como O Contador Kendrick purifica o ar tóxico deixado por assassinatos e perseguições desse filme com Ben Afleck (coincidentemente Afleck está em Garota Exemplar; mas divago). Aqui ela faz Stephanie, mãe de um garoto e dona de casa que tenta manter a casa com o dinheiro do seguro após seu marido morrer em um trágico acidente e que faz vídeos caseiros com receitas para o dia-a-dia de pessoas como ela. Stephanie é dessas jovens mães que usam vestidos coloridos que lembram princesas da Disney depois do "felizes para sempre".
+Além dos truques com as propagandas de cigarros -- um achado divertido em si mesmo --  há também o uso indiscriminado de movimento de câmera, brincando com a percepção do espectador e nos jogando longe da ficção, como quando a câmera deita junto quando alguém derruba uma árvore (muito brega), ou "piscadas" feitas em alguns momentos em que alguém está acendendo o isqueiro ou socando alguma coisa. Nada disso contribui com a história e é mera diversão estética do diretor Drazen Kuljanin, que quer que olhemos para ele em vez do filme.
 
-Mas assim como o mundo torto de Um Pequeno Favor, Stephanie não é tão inocente assim. Depois que conhece a empoderada e problemática Emily (Blake Livery) e praticamente se adota como sua melhor amiga vamos aprendendo aos poucos que por trás de uma figura angelical pode-se esconder um ou dois pecados que sugerem uma versão alternativa onde tudo poderia ser diferente se visto sob outra ótica. Será isso porque a toxicidade de Emily foi aos poucos contaminando Stephanie ou ambas no fundo se merecem mais do que gostaríamos de assumir?
-
-Esse é um mundo cínico onde maridos pressionados podem dormir com as melhores amigas de sua esposa. Tudo soa irreal em Um Pequeno Favor, mas se formos seguir as migalhas das pistas que a roteirista Jessica Sharzer usa para justificar para onde a história caminha testemunharemos, estupefatos, que tudo faz sentido, e o elemento destoante aí é Stephanie, que faz de tudo para provar, mais para si mesma do que para os outros, que pode ser uma verdadeira amiga até o fim. Ironicamente, é justamente essa boa intenção que desencadeia o desenrolar mais macabro da história.
-
-Adaptado do romance de Darcey Bell, Um Pequeno Favor está sempre bebendo desses thrillers clichês em que há revelações que prefiro não falar aqui para não estragar a surpresa, mas que ao você descobrir ao mesmo tempo já percebe que já viu isso antes, mas em um formato mais sério. Aqui o espaço da comédia se coloca muito próximo do humor negro, e é justamente aí que Kendrick brilha. Habituada a fazer o tipo boazinha, é justamente essa virtude que torna todas as situações do filme hilárias, pois suas boas intenções batem de frente com um mundo que não está correspondendo ao brilho dos seus olhos, mas se olharmos de perto esse brilho não é apenas de bondade.
-
-Ágil para não nos dar tempo para pensar demais nos detalhes, Um Pequeno Favor nos presta a cortesia de ser rápido e direto ao ponto, nos entregando uma sensação estranha e engraçada ao mesmo tempo, e no processo construindo personagens e situações marcantes pela forma com que deturpa nosso senso de moral.
+Não é possível extrair significado de toda essa bagunça sem ritmo exceto a própria estética aplicada no filme. Não é um filme sobre uma história. A história é mera isca para apreciarmos vídeos antigos de médicos promovendo o fumo ou imagens de bebês que piscam em alguns momentos. Um Clube da Luta sem imaginação nem propósito preparado artesanalmente em dois dias na Suécia e cinco na Sérvia. Não me admira que tenha sido feito tão rápido: não há roteiro enquanto o filme pisca para você. Vai um cigarro aí?
 

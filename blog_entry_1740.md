@@ -1,9 +1,11 @@
 ---
 
-Este Malbec 2016 da Salvador Figueroa, menor vinícola da Argentina, foi comprada em 2017 e mantida por um ano e meio envelhecendo na minha adega. Ela possui estrutura pra mais. Envelhecida em tonéis de carvalho ela está ainda doce, como frutas vermelhas mais maduras (ou compota) e um teor alcoólico que abraça a boca, é sedoso embora levemente rudimentar com corpo difícil. Levemente enjoativo, pode aguardar mais tempo, quiçá uns dois anos.
+Cerveja de corpo leve para média, acompanha bem comida árabe desse restaurante inusitado de Tucumán na Argentina.
 
 ---
-categories: []
-date: '2016-10-05'
-tags: null
-title: Guardando senhas com Vim
+categories:
+- writting
+date: '2018-11-05'
+tags:
+- wine
+title: Gualiama Salvador Figueroa

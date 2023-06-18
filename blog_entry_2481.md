@@ -1,16 +1,21 @@
 ---
-categories:
-- writting
-date: '2014-01-19'
-link: https://www.imdb.com/title/tt0219822
-tags:
-- movies
-title: Natureza Quase Humana
+categories: []
+date: '2022-07-09T19:40:01-03:00'
+tags: null
+title: Native Floripa 2022
 ---
 
-Os roteiros de Charlie Kaufman (Adaptação, Quero ser John Malkovich) dirigidos por Michel Gondry (Brilho Eterno de uma Mente sem Lembrança) nunca parecem deixar de explorar a fundo seus temas. Aqui o formato de testemunho com flashbacks é essencial para compreendermos a real dimensão dos relacionamentos entre os quatro personagens, inclusive o que morreu no processo, nessa comédia absurda que flerta com a natureza instintiva e animalesca do ser humano em detrimento a rígidas e, muitas vezes, sem sentido, regras de etiqueta e convívio social.
+Fui para a terceira edição esse ano com minha [palestra de AWK], que foi aceita duas semanas antes do dia, embora já estivesse programando ir de qualquer maneira, dessa vez de carro. Saindo de São Paulo, a parada em Morretes confirmou que o sorvete de banana continua top. Já o evento merece uma reciclada.
 
-O filme é centrado nas figuras multidimensionais de quatro pessoas, mas gira em torno do doutor Nathan Bronfman (Tim Robbins), que, incapaz de relacionar seus estudos de etiqueta com a educação rígida de seus pais quando criança, permanece um ser imaturo ainda que civilizado. Faz experimentos em ratos forçando-os a aprender regras fúteis à mesa, como qual é o garfo para salada. Brincando com o conceito e acertando sempre o tom, o filme relaciona imediatamente a obsessão de Bronfman com seu fracasso nos relacionamentos, quando conhece a bela, mas desajustada, Lila (Patricia Arquette). A natureza do problema congênito de Lila, cuja produção acelerada de hormônios a faz estar sempre com pelos demasiados pelo corpo, é motivo de conflitos existenciais que a fazem ficar dividida entre abraçar sua natureza ou se render à sociedade. E é exatamente esse o conflito inexistente para o instintivo Puff (Rhys Ifans), um rapaz que foi criado pelo pai na selva, pois acreditava fazer parte de uma raça de primatas que, apesar do comportamento animalesco, não se compara à maldade dos humanos que, em suas palavras, são capazes de assassinar seu próprio presidente. No entanto, capturado pelo doutor, passa a ser a esperança deste ao comprovar que é possível condicionar qualquer aspecto selvagem de um ser intocado pela civilização em um cavalheiro no seu máximo refinamento e conhecimento (ainda que vazio de ideias). Fechando o quadrado amoroso está Gabrielle (Miranda Otto), assistente de Bronfman e que, fazendo ecos com "Brilho Eterno...", é atraída pelo intelecto do seu tutor.
+Inicialmente moldado em duas trilhas paralelas sábado e domingo, ele continuou dessa forma em sua primeira edição após a pandemia. Com uma divulgação de última hora, o público ficou bem reduzido em ambas as trilhas, mesmo a principal, que foi a única que acompanhei. Nela haviam nos melhores momentos cerca de 15 pessoas, mas nos piores cerca de 4 (contando apenas o pessoal técnico).
 
-Nunca deixando de soar interessante e sempre utilizando detalhes não tão sutis para ligar o máximo possível as pontas da história, Natureza Quase Humana peca apenas pelo seu lado debochado, uma vez que conquista o espectador com seus conceitos, mas parece não levá-los tão a sério no ato final. Ou o ápice do absurdo do roteiro de Kaufman dessa vez não atingiu as expectativas necessárias para quebrar todas as regras, como faz de maneira brilhante em Quero Ser John Malkovich e Adaptação.
+A primeira palestra era sobre carregadores de bateria de veículos elétricos e foi muito empolgante. Já fez valer a visita mesmo sem ser minha área de atuação em TI, mas é justamente isso que torna esses eventos tão excitantes. É sobre a possibilidade de aprender coisas novas com outros devs.
+
+Finalizado o evento começam as melhores horas do dia e da noite: o happy-hour. Boa conversa, comida e bebida tops são convidativos para nunca voltar para casa. Nesse caso os motivos se invertem, e não é o que se aprende que importa, mas estar junto de pessoas que respiram o mesmo ar dessa área fascinante que é a tecnologia.
+
+Na segunda-feira ainda participei de uma terceira trilha, a da Costa da Lagoa, que sequer é listada no Google Maps, mas descobrimos graças à sempre ótima consultoria dos amigos moradores da cidade. Essa trilha vai pelo meio da mata que circunda a Lagoa da Conceição. Com cerca de 5km de extensão e altos e baixos, há várias saídas para residências locais e o próprio mar. Ao final uma vila de pescadores extremamente charmosa e surreal. A saída da vila ou é a trilha ou o barco-ônibus que passa entre diversos pontos (de ônibus) onde os passageiros aguardam. Foi por lá que voltamos. Um passeio inesquecível.
+
+Floripa agora nos promete mais que o evento icônico de tecnologia. E por isso prometemos voltar para a próxima edição.
+
+[palestra de AWK]: {{< relref "awk" >}}
 

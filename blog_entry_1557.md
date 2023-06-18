@@ -1,23 +1,18 @@
 ---
 categories:
 - writting
-date: '2020-03-23'
-link: https://www.imdb.com/title/tt6193408
+date: '2012-08-16'
+link: https://www.imdb.com/title/tt0116282
 tags:
 - movies
-title: Shaun o Carneiro – O Filme – A Fazenda Contra-Ataca
+title: Fargo
 ---
 
-São tantos subtítulos neste filme da Aardman... ele é uma versão estendida de um episódio da série Shaun Carneiro. Não é o primeiro longa-metragem. O primeiro se chamava [Shaun: O Carneiro] e tinha a graça e a originalidade de contar uma história mais longa sem qualquer diálogo, muitas vezes referenciando as comédias no início do cinema.
+É muito simples entrar em uma comédia-thriller dos irmãos Coen. Há dois princípios extremamente eficazes em Fargo: os diálogos que expõem desde o início o caráter de seus caricatos personagens, como ao apresentar em uma inspirada conversa a maneira com que os dois capangas (Steve Buscemi e Peter Stormare) contratados pelo hesitante Jerry Lundegaard (William H. Macy) irão efetuar o sequestro de sua mulher, e os ângulos inusitados de câmera escolhidos por Joel Coen que exaltam o clima surreal dos fatos que irão se sucedendo aos poucos, e para isso há tomadas belíssimas sobre uma neve que ofusca o resto da paisagem e dá preferência para que vejamos o que está de fato ocorrendo na pacata cidadezinha.
 
-Aqui, em parceria com a Netflix e com mais trucagens de computação, a equipe de animadores conduzida pelos diretores Will Becher e Richard Phelan está inspirada em referenciar obras de sci-fi clássicas, começando pela pizzaria H. G. Wheels e terminando por três momentos que se ouve as músicas icônicas da obra desse autor (se você não conhece, H. G. Wells o nome dele) para o cinema, [2001: Uma Odisseia no Espaço], é tocada. O primeiro desses momentos toca Also Sprach Zarathustra, um poema sinfônico de Richard Strauss, baseado na obra homônima de Friedrich Nietzsche (Assim Falou Zaratustra) onde foi cunhado o termo Übermensch, ou o que virá após o homem, depois que ele conclui em sua fatídica frase pós-iluminismo, "Deus está morto". Na obra cinematográfica de Kubrick a música toca em dois momentos de ascenção: primeiro dos primatas, depois dos humanos. Quando vemos o fazendeiro simples, mas obtuso, tendo uma epifania de como conseguir seu objetivo de ter um trator mais potente vendendo ingressos para um parque temático que pega carona em uma possível invasão alienígena na cidade mais próxima, as engrenagens referenciais quase se conectam, como que a juntar de maneira torta e original Nietzsche, primatas, Kubrick, Revolução Industrial e um fazendeiro se esforçando para pensar; tudo no mesmo parágrafo.
+Tão pacata, parece, que a heroína acidental da história, a icônica policial Marge Gunderson (Frances McDormand), aparece quase no final do primeiro ato, com uma sonolência típica da região fria (e que é pontuada pelos vários momentos em que a vemos acordando), mas com uma persistência e sagacidade dignas de um dos melhores detetives que o Cinema já viu: o que, de fato, poderia existir. Aliás, todas as circunstâncias em torno de Fargo, ainda que absurdas, são factíveis, e é o poder da direção dos Coen que transforma tudo em algo mais... cinematográfico.
 
-Esse é pano de fundo metafórico que é utilizado para uma história que referencia outras obras, como Enigma de Outro Mundo (de John Carpenter), Contatos Imediatos do Terceiro Grau e E.T.: O Extraterrestre (ambos os últimos do diretor Steven Spielberg). O ET desse filme é fofinho, seu comportamento é suficiente para gerar carisma automático ao mesmo tempo que nos mantém com a pulga atrás da orelha para tentar entender seus objetivos, mesmo que inconscientemente entendamos que se trata de um mini-remake do filme de Spielberg, onde um extraterrestre se perde de casa, em forma de animação com massinhas.
+A presença espirituosa de McDormand é o que nos dá um divertido contraponto, uma vez que, inserida em um filme de teor cômico, a protagonista participa desse universo, mas ao mesmo tempo as ações que são desempenhadas para ir ao encalço de um assassino brutal são factíveis e é o que dá a força motriz para continuarmos acompanhando a história. Por outro lado, se não houvesse as risadas eventuais, e apesar de parecerem muitas, fazem parte intrínseca da narrativa do gênero, não haveria fôlego para acompanharmos tantos acontecimentos de embrulhar o estômago.
 
-Como a maioria das animações cheias de boas ideias, o primeiro e segundo ato compensam pela criatividade e por entreterem como nenhum live action faria. Cheio de ação e detalhes vistos às vezes em frações de segundo. Um policial anota as palavras ditas por uma testemunha. Ela resmunga "glarg glarg blah", e é exatamente o que vemos escrito, de relance, no caderno do policial.
-
-O terceiro ato, como a maioria das animações, peca pela repetição e necessidade de tramas e sub-tramas, sempre agarradas à sensação falsa que há mais algum perigo da missão do filme não ser concluída. É preguiçoso e automático. Dá vontade de rever o filme, mas só até a metade.
-
-[Shaun: O Carneiro]: {{< relref "shaun-o-carneiro" >}}
-[2001: Uma Odisseia no Espaço]: {{< relref "2001-uma-odisseia-no-espaco" >}}
+E embrulhar estômagos sem partir para o humor escatológico é a maior virtude do trabalho dos Coen, um trabalho que já vai contando décadas de Cinema sadio e com um estilo próprio que sempre traz novidades.
 

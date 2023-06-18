@@ -1,16 +1,12 @@
 ---
 categories:
 - writting
-date: '2010-11-12'
-link: https://www.imdb.com/title/tt1245526
+date: '2021-04-10'
+link: https://www.imdb.com/title/tt7662364
 tags:
-- movies
-title: 'RED: Aposentados e Perigosos'
+- animes
+title: Recovery of an Mmo Junkie (Netojuu no susume)
 ---
 
-O encontro de astros que não deu certo em Mercenários aqui fez um trabalho divertido e descartável. Principalmente com a participação de Malkovich e Helen Mirren, que criam personagens que entretem pelas suas vidas atuais sendo consequência da vida de assassinatos do passado.
-
-Há transições inteligentes e tentativas de tornar o filme coeso através de cartões postais que fazem a troca de local.
-
-Já a participação de Mary-Louise Parker é igualmente divertida até o meio, quando ela desaparece do longa para dar espaço para a ação, que é boa, tem ritmo, mas quebra nosso envolvimento com a narrativa.
+Esta série parece bem famosa pelo número de dublagens no Crunchyroll. Ela é fofinha e super-convencional. É sobre uma NEET (vagabunda) que gosta de jogos de MMO (RPG virtual de galera). Então ela conhece uma personagem e vivem flertes virtuais. Ao final do primeiro episódio eles se encontram no mundo real de passagem e um pouco de humor se revela neste anime de reaction e pouca complexidade.
 

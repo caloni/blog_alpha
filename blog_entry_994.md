@@ -4,8 +4,8 @@ categories:
 date: '2018-07-07'
 tags:
 - beer
-title: Colorado Eugênia
+title: Colorado Demoiselle
 ---
 
-Fez parte da degustação da visita da Toca do Urso e me ganhou pelo frescor que ela oferece em detrimento às mais potências. O corpo é médio para forte, mas o tom cítrico compensa.
+Na degustação ao final visita da Toca do Urso, demonstrando o sistema de auto tap (My Tap, acho que é o nome), revela uma cerveja surpreendentemente aromática, algo difícil de sentir nas engarrafadas. O colarinho é delicioso e o sabor misto da cerveja e da espuma sugerem fortemente o café. Amargor um pouco enjoativo, mas saboroso.
 

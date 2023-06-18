@@ -1,27 +1,106 @@
 ---
 categories:
-- writting
-date: '2019-05-10'
-link: https://www.imdb.com/title/tt7425520
-tags:
-- cinemaqui
-- movies
-title: Compra Me Um Revólver
+- coding
+date: '2008-02-01'
+title: Compartilhando variáveis com o mundo v2
 ---
 
-Compra Me Um Revólver começa com a seguinte premissa: "em um México sem lei, a população diminui porque estão desaparecendo as mulheres". Assistindo ao filme entendemos que o problema populacional não se deve à falta de úteros, mas ao excesso de pênis. Todos sabem que o nível de violência em uma sociedade varia de acordo com a quantidade de pênis disputando território.
+Nota de desempenho: esse artigo finaliza (finalmente) a republicação de todos os artigos do antigo blogue. Isso quer dizer que a partir de agora eu sou obrigado a trabalhar, e, se quiser manter meu ritmo atual, vou ter que fazer mais do que cinco cliques do mouse.
 
-A heroína da história e sua narradora é Huck (Matilde Hernandez), uma garota que vive com seu pai cuidando de um campo de beisebol apossado pela máfia local. Ambos estão em um ambiente onde Huck não deveria viver, pois por ser mulher, ainda que criança, ela se torna uma espécie de recompensa para os homens, que de tão poucas fêmeas disponíveis vestem roupas floridas por cima de seus coletes.
+Como todas as coisas que fazemos e pensamos depois, descobrimos que sempre existe uma outra maneira de fazer a mesma coisa. Se é melhor ou não, pode ser uma questão de gosto, estética, objetivos de vida, etc. Com a [implementação das variáveis mapeadas globais] não foi diferente. Bem, é isso que se espera fazer com código experimental: experimentos. E deu no que deu: SharedVar versão 2.0 alpha Enterprise Edition.
 
-Além das roupas estão todos sempre fortemente armados com fuzis, espingardas, pistolas, e as carregam sempre em punho. A noção da realidade de acordo com o diretor/roteirista Julio Hernández Cordón é bem atípica, mas funciona, se considerarmos que há o elemento fantasioso de uma criança nos pincelando os detalhes.
+Quando comentei no final do artigo anterior que existem pessoas que só conseguem gerar código dentro de uma classe, não estava brincando. Existem linguagens, inclusive, que suportam apenas o paradigma de orientação a objetos, e levam isso muito a sério. C++ com certeza não é uma dessas linguagens, o que quer dizer que você tem a liberdade e a responsabilidade de tomar o melhor caminho para determinado problema.
 
-Este é um filme pesado, que nos faz lembrar de como as crianças estão cada vez mais envolvidas em histórias de violência. Isso se deve aos efeitos visuais e sonoros, que impedem que de fato os atores e atrizes mirins tenham contato com a maior parte das atrocidades que vemos na tela, mas ao mesmo tempo soa um sinal de como o futuro pode ser a repetição de um passado que não gostaríamos de ver nunca mais.
+Nessa segunda solução do nosso programa alocador de variáveis globais, pra variar, vamos utilizar uma classe. E pra entrar de vez no mundo POO vamos utilizar de quebra tratamento de erro orientado a exceções. Como vamos notar, aplicadas adequadamente, essas duas características da linguagem conseguirão um código mais simples de entender, embora não se possa dizer o mesmo da implementação "under the hood".
 
-Podemos dizer que estamos em um México pós-apocalíptico ou distópico, mas o realismo pode ser brutal como visto no filme. O pai viciado em heroína perde esposa e filha mais velha, sobrando para ele uma única função: proteger a filha caçula. Sabemos que desarmado e trabalhando para uma gangue sempre armada e sem compaixão não é a melhor forma de se proteger, mas por sua condição de dependente entendemos que seu lado covarde o mantém preso nesse pesadelo como um círculo vicioso.
+    /** Classe helper para as nossas funções de alocação de variáveis
+    compartilhadas com o mundo. */
+    template<typename T>
+    class SharedVar
+    {
+    public:
+      // se conseguir, parabéns; senão, retorna BUM!
+      SharedVar(PCTSTR varName)
+      {
+        m_memPointer = 0;
+        m_memHandle = AllocSharedVariable(&m_memPointer, varName);
+    
+        if( ! m_memHandle || ! m_memPointer )
+          throw GetLastError();
+      }
+    
+      // libera recursos alocados para a variável
+      ~SharedVar()
+      {
+        FreeSharedVariable(m_memHandle, m_memPointer);
+      }
+    
+      T& operator * ()
+      {
+        return *m_memPointer;
+      }
+    
+    private:
+      // não vamos nos preocupar com isso agora
+      SharedVar(const SharedVar& obj);
+      SharedVar& operator = (const SharedVar& obj);
+    
+      T* m_memPointer;
+      HANDLE m_memHandle;
+    }; 
 
-A câmera subjetiva e imediatista de Cordón nos entrega em vários momentos do longa uma experiência lancinante. O momento em que a menina é descoberta por um dos capangas é um exemplo de tensão extrema, mas não é possível esquecer que o filme está a todo tempo usando Huck e suas ações inconsequentes para nos levar para a ação. Quando aprendemos o truque perde um pouco o brilho, mas nunca a tensão.
+Como podemos notar, em programação "nada se cria, tudo se reutiliza". Reutilização é boa quando podemos acrescentar características adicionais ao código sem deturpar seu objetivo original. E isso é bom.
 
-Em meio ao deserto e uma paleta opressiva de cores, onde até a grama do campo de beisebol não parece assim tão verde por causa do sol castigando a todos, as camadas interpretativas da jovem Huck são o momento que o filme cresce, assim como sua ótima seleção de músicas. Um trompete cospe uma fumaça roxa que inebria o ar. Os mortos espalhados pelo chão viram desenhos com detalhes em vermelho. Os pássaros em torno do rio conferem o ar de redenção da pequena Huck. Há poesia nesses momentos, e é uma pena que apenas pontualmente ela seja usada.
+Note que nossa classe tenta fazer as coisas logo no construtor, já que seu único objetivo é representar uma variável da memória cachê. Se ela não for bem-sucedida em sua missão, ela explode, porque não há nada que ela possa fazer para garantir a integridade do objeto sendo criado e ela não tem como saber qual o melhor tratamento de erro para o usuário da classe. Geralmente o melhor - ou pelo menos o mais adequado - é o tratamento que o usuário dá ao seu código, porque o usuário da classe é que deve saber o contexto de execução do seu código.
 
-No resto do filme há um tom de estranhamento, mas ele soa apenas incorreto. Um erro de gênero, uma escolha equivocada de quadros. Sua mensagem é um sussurro no deserto para um filme que pede vários gritos de socorro. O que há com aquelas pessoas? O que este mundo se tornou, afinal? Perguntas sem resposta. Resta apenas curtir a música e um ambiente exótico em que a ultraviolência é desumana, mas pior que isso, irracional.
+Bem, como o código agora está em uma classe e o erro é baseado em exceção, o código cliente muda um pouco:
+
+    /** Exemplo de como usar as funções de alocação de memória compartilhada
+    AllocSharedVariable, OpenSharedVariable e FreeSharedVariable.
+    */
+    int _tmain(int argc, PTSTR argv[])
+    {
+      try
+      {
+        // passou algum parâmetro: lê a variável compartilhada e exibe
+        if( argc > 1 )
+        {
+          system("pause");
+    
+          // array de 100 TCHARs
+          SharedVar<TCHAR [100]> sharedVar(_T(SHARED_VAR));
+    
+          _tprintf(_T("Frase secreta: \'%s\'\n"), *sharedVar);
+          _tprintf(_T("Pressione <enter> para retornar..."));
+          getchar();
+        }
+        else // não passou parâmetro: escreve na variável 
+        // compartilhada e chama nova instância
+        {
+          // array de 100 TCHARs
+          SharedVar<TCHAR [100]> sharedVar(_T(SHARED_VAR));
+    
+          PTSTR cmd = new TCHAR[ _tcslen(argv[0]) + 10 ];
+          _tcscpy(cmd, _T("\""));
+          _tcscat(cmd, argv[0]);
+          _tcscat(cmd, _T("\" 2"));
+    
+          _tcscpy(*sharedVar,
+          _T("Vassora de sa, vassora de su, vassora de tuturuturutu!"));
+          _tsystem(cmd);
+    
+          delete [] cmd;
+        }
+      }
+      catch(DWORD err)
+      {
+        _tprintf(_T("Erro %08X.\n"), err);
+      }
+    
+      return 0;
+    } 
+
+Existem duas mudanças significativas: 1. a variável sozinha já representa a memória compartilhada; 2. o tratamento de erro agora é centralizado em apenas um ponto. Se pra melhor ou pior, eu não sei. Tratamento de exceções e classes são duas "modernisses" que podem ou não se encaixar em um projeto de desenvolvimento. Tudo vai depender de tudo. Por isso a melhor saída depende de como será a entrada.
+
+[implementação das variáveis mapeadas globais]: {{< relref "compartilhando-variaveis-com-o-mundo" >}}
 

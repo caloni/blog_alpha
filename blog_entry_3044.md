@@ -1,22 +1,19 @@
 ---
 categories:
 - writting
-date: '2016-03-29'
-link: https://www.imdb.com/title/tt0837156
+date: '2021-10-23T12:20:19-03:00'
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Pee-wee's Big Holiday
+title: Pedregulhos
 ---
 
-Uma experiência lúdica que infelizmente se entrega ao televisivo. Pee-wee Herman já é um personagem conhecido, um misto cômico de Bob Esponja e Mr. Bean que não consegue desempenhar bem nenhuma dessas personas (e se pudesse, seria uma simples cópia) e o resultado é muitas vezes o inverso, tal qual aquele palhaço que vimos na infância e nos apavorou por noites seguidas em nossos piores pesadelos.
+Adoro filmes assim, de um tema só. Curto e visceral, Pedregulhos lida com violência, mas também com rotina. Não sabemos ainda. É nossa primeira vez. Os pingos nos is são colocados apenas no seu final.
 
-O que torna Bob Esponja divertido são as piadas com fundo do mar, que flerta inocentemente com a visão adulta da criança dentro de nós. Mr. Bean é uma crítica ácida à arrogância do britânico estereotipado. Pee-wee não consegue ser nem tão inocente quanto Bob Esponja e nem tão digno de pena quanto o atrapalhado personagem de Rowan Atkinson.
+Tudo começa com o pai nervoso. Ele vai na escola do filho e o arrasta para a aldeia de sua mãe. Ela não quer mais voltar para a família. Uma briga feia aconteceu. Vemos pela nova briga com os familiares da esposa. Também percebemos que o pai nervoso é esquentadinho. O filho apenas acompanha calado, mas seu silêncio fala mais que o mundo.
 
-O filme se trata de um road movie em que Pe-wee sai pela primeira vez de sua cidadezinha pacata e previsível. O rapaz chega a criar uma maquete da cidade e na sua saída um senhor atualiza o número de habitantes sempre que passa pela fronteira.
+Pedregulhos segue um ritmo constante com mensagens no decorrer da jornada de volta que não apenas é de descoberta do espectador, mas também nos permite observar a atmosfera desse lugar bem pobre da Índia. Este é o interior. Não estamos nas capitais nem haverá dança. Mas aprendemos como caçar e assar ratos entre os mais desafortunados da região. Desafortunados não quer dizer miseráveis. Há uma diferença. Eles não estão furiosos como o pai nervoso que não tem mais uma família. Eles dançam o ciclo da vida com pertencimento. E isso basta. Quer um pedaço de rato?
 
-Seu destino é a oposta Nova York, cosmopolita e lar de Joe Manganiello, com quem fez uma amizade instantânea quando ambos descobriram que possuem várias coisas em comum, incluindo um doce chamado "barrilzinho doce".
-
-Pee-Wee pode ser doce e inocente. Esse não é o problema. O problema é quando o filme se trata como doce, inocente e infantil. Infantil demais. Não chega a entreter uma criança, e dificilmente irá ganhar as graças de um adulto.
-
-As personagens que desfilam são episódicas, passageiras e tão improváveis quanto Pee-Wee, mas mais uma vez, isso não é um problema. O problema é que elas são estereotipadas, previsíveis e enfadonhas exatamente como a cidade em que Pee-Wee vive, tornando sua aventura uma simples extensão de seu quintal.
+Os personagens são mecanismos para entendermos a história, mas suas personalidades são acidentes geográficos na paisagem inóspita indiana. O trabalho do diretor e roteirista P.S. Vinothraj, que estreia nessa Mostra de SP, é harmonizar a crueldade da vida com rimas e poesia. Uma pedra na bochecha de uma criança e a escrita na rocha são pistas da rotina desse universo que observamos rapidamente, pouco mais de uma hora. É econômico e ao mesmo tempo inesquecível.
 

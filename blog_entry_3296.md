@@ -1,25 +1,22 @@
 ---
 categories:
 - writting
-date: '2023-01-08T21:02:19-03:00'
+date: '2016-09-15'
+link: https://www.imdb.com/title/tt0178868
 tags:
-- wine
-title: Rio Sol Gran Reserva Alicante Bouschet 2018
+- movies
+title: 'Ring: O Chamado'
 ---
 
-Às vezes vem a sensação que essas anotações não são úteis, mas acontece que há muitos vinhos no mundo e pouco tempo, dinheiro e fígado para ficar tomando garrafas de todos os lugares, uvas e safras. Eu posso saber na hora se gostei de um vinho, mas isso não me ajudará a saber mais sobre outros vinhos.
+Essa é a versão japonesa, que estreou dois anos antes do remake americano. Diferente de toda a pomposidade de sua cópia, e os efeitos sonoros enlatados de terrores hollywoodianos, este tem a rapidez de um thriller e a semi-profundidade de um drama. Possui um ritmo visual econômico e ágil, e uma conclusão factoide, o que o torna um exemplo de sua própria lenda.
 
-Este Rio Sol foi uma das notas mais altas nos três testes às cegas que fiz com o pacote de dezesseis garrafinhas do [EniWine]. Eu votei consistentemente neste como se fosse a quinta maravilha do mundo. E a sorte é que ele é brasileiro, relativamente fácil de adquirir (pela própria EniWine). Mas não costumo beber muitas vezes o mesmo vinho. Uma exceção eram os vinhos do Outback, pois a seleção é pouca e eu ia muitas vezes lá para o double drink.
+A história é simples: um vídeo misterioso de alguns segundos, se assistido, fará a pessoa morrer em sete dias (após receber um telefonema após ter assistido). Uma médium (Nanako Matsushima) começa a investigar quatro mortes em um só dia, e seu ex-marido (Yutaka Matsushige), também médium, passa a ajudá-la. Ambos têm um filho, quase abandonado, e logo isso constitui um drama eficiente em torno de uma história de terror.
 
-Mas isso é coisa do passado, eu não vou mais a este restaurante, a qualidade decaiu e os preços aumentaram. E mesmo que fosse: beber sempre os mesmos vinhos garante que os apreciarei sempre? Talvez. Mas e a surpresa, a fascinação por uma nova obra de arte?
+Além disso, há um mistério que é desvendado aos poucos a respeito da produção da fita. Uma história sobre erupção de vulcões, uma profetiza e sua filha ainda mais poderosa constituem uma história paralela que rima com a principal por falar da mesma coisa: é a história de famílias desajustadas. Marido e mulher se perguntam se deveriam ter tido mesmo um filho do jeito que são, e agora os três fazem parte da maldição que é ter uma família disfuncional.
 
-Minhas anotações precisam de uma reforma. Elas precisam ser úteis de alguma forma. Talvez agrupando sensações parecidas? Uvas? Qual o critério? Preciso repensar sobre isso com tempo. As classificações do mundo do vinho já podem ajudar.
+O jogo de quadros do filme às vezes é arrebatador, como quando um acontecimento inesperado está sendo ouvido do outro lado de um telefone, e a câmera consegue triangular o passado, presente e futuro desse acontecimento apenas repassando cada um dos envolvidos, sem a necessidade de diálogo expositivo.
 
-Mas não quero virar um Robert Parker em busca de vinhos com maior pontuação. Eles continuam sendo arte. A tarefa é entender a qual gênero um vinho pertence.
+É digno de nota também que a maioria dos sustos vêm de uma TV e seu reflexo, sem nenhum daqueles sons capengas que costumam trapacear a surpresa. O jogo de sombras do filme, e os ambientes naturalmente apertados das residências do Japão são o suficiente para tornar Ring um trabalho claustrofóbico por natureza.
 
-Gêneros podem ser úteis nesse caso. Uma comédia leve pode ser aquele vinho fácil de beber sem complexidade alguma, mas ainda assim desejável. Todos entenderiam. Eu entenderia. Muito diferente deste é aquele drama pesado, encorpado, difícil de engolir de uma vez pois é preciso de tempo para assimilar todos os aromas ou sabores.
-
-E há também aquela aventura, que te leva para viagens sensoriais ousadas ou atrevidas. O vinho de quem quer emoção com a bebida e ao mesmo tempo curtir as saudades do novo.
-
-[EniWine]: {{< ref eniwine >}}
+Com uma trilha sonora pesada, mas harmoniosa, esse é um filme que passa voando, mas não possui quase nenhum elemento ao acaso. Sua narrativa é coesa, sua história é tensa, sua trama consegue ser complexa sem dificultar o entendimento do espectador. Um trabalho de terror à altura dos maiores: o que não apela para a fuga fácil do susto barato.
 

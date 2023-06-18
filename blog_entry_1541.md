@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-10-02'
+date: '2019-06-17'
 tags:
 - food
-title: Exterminador de trigo American Wheat
+title: Expresso Gourmet 3 Corações
 ---
 
-Essa receita da Três Lobos com Capim Limão poderia ser melhor. Mal misturado, gosto ameno, tem corpo médio demais para um wheat.
+Me surpreende: ótimo custo/benefício (1 kg por 40 taoqueis); grãos meio quebradiços, mas sem muitos defeitos. Aroma presente e sabor amadeirado, corpo médio/fraco sem acidez. Doce sem ser enjoativo.
 

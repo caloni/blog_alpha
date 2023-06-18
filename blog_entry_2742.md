@@ -1,24 +1,24 @@
 ---
 categories:
+- reading
 - writting
-date: '2012-12-06'
-link: https://www.imdb.com/title/tt1568921
+date: '2016-11-03'
 tags:
-- movies
-title: O Mundo dos Pequeninos
+- books
+title: O Mundo de Sofia
 ---
 
-Não é nenhuma novidade a virtuosidade técnica do estúdio de animação Ghibli, do diretor Hayao Miyazaki, que, entre outros, já produziu pequenas obras-primas como [A Viagem de Chihiro], [O Castelo Animado] e Princesa Mononoke (sem contar outros igualmente interessantes, como [Meu Amigo Totoro], [O Serviço de Entregas da Kiki] e [Ponyo - Uma Amizade que Veio do Mar]). Nesse sentido não é nenhuma novidade descobrir nesse primeiro trabalho de direção de Hiromasa Yonebayashi as mesmas características técnicas que tornaram os filmes do estúdio comparáveis à fábrica de sonhos de Walt Disney.
+Este foi o livro meio unanimidade dos fóruns de filosofia quando questionado qual o melhor começo para a área, que dê uma visão global, histórica e funcional do que é, afinal de contas, filosofia. Bem, e também o começo mais divertido, o que para uma área como essa deve se resumir aos quadrinhos do Existencial Comics e o livro de Jostein Gaarder.
 
-A história, baseada no romance da escritora inglesa Mary Norton, gira em torno de Arietti, uma menina que faz parte de uma família de minúsculos humanoides que vivem debaixo de uma casa de campo e que se denominam Mutuários, ou seja, emprestam coisas dos humanos para sobreviver. Sua mãe Homily está sempre preocupada com a segurança de sua filha e seu marido, enquanto este, Pod, é quem faz as buscas pela casa por mantimentos e objetos úteis em sua vida miniaturizada. A maior preocupação da família é não serem vistos pelos humanos, já que isso significaria a necessária migração destes para outra morada. A casa costuma ser tranquila, mas a chegada de um novo hóspede, Sho, um garoto com uma saúde frágil que o impede de brincar normalmente, torna as explorações dos pequenos humanos mais arriscadas.
+Esta é uma ficção infanto-juvenil, que poderia muito bem constar no currículo de qualquer escola que leve a sério ensinar seus alunos a pensar. Ele contém uma história em que ela própria já instiga a investigação racional do próprio ato de escrever e ler um livro, mas ao mesmo tempo faz um resumão dos pensadores mais famosos de cada era, além das correntes de pensamento vigentes.
 
-O fato do histórico dos Mutuários com os humanos ser problemático é um indício inteligente do roteiro de Hayao Miyazaki e Keiko Niwa, pois já identifica para o espectador que o pano de fundo, recorrente da produtora, é a relação do homem com a natureza. Miyazaki costuma filmar com o foco centrado nesse tema. Porém, diferente de sua direção muitas vezes solene, embora igualmente divertida, Yonebayashi resgata de uma história aparentemente simples conceitos extremamente rebuscados para um desenho. É encantador, por exemplo, notar como a pequena Arietti enxerga o mundo sob seu ponto de vista, e como quando em determinado momento está nos ombros de Sho é possível a nós, espectadores, sentir a sensação de velocidade fora do comum para a menina. Da mesma forma, Yonebayashi é cuidadoso até em demonstrar como os líquidos mudam sua viscosidade quando manipulados por seres do tamanho de um copo, de forma que as gotículas de água da chuva, em vez de molhá-los, apenas fica impregnado em suas roupas.
+Começando pelos gregos, esta é a parte mais útil, pois consegue abstrair de forma fascinante o que os primeiros filósofos pensavam, corrigindo em muito a visão escolar que dá a entender que os gregos eram um povo ainda primitivo e místico, acreditando nos elementos básicos como terra, fogo e ar. Oras, nada mais distante da verdade. É até possível dizer que eles levavam a questão muito mais a sério que os pensadores contemporâneos, pois com muito pouco constituíram uma cadeia de pensamentos e conclusões que nunca foram ultrapassadas pela linha de pensamento racionalista. E, é preciso lembrar, tudo com a força da mente e poucos instrumentos científicos. Nesse sentido, o livro merece créditos por explicar de uma maneira muito mais realista o que escolas encaram como contos de fadas ou mitologia de povos ignorantes.
 
-O mais impressionante na direção segura de Yonebayashi, no entanto, é perceber que mesmo tendo todas as características de uma história infantil o filme evita inteligentemente as brincadeiras tão comuns ao gênero e busca uma abordagem realista e sensível, o que o transforma em um drama humanista extremamente eficaz.
+Aliás, o livro também consegue separar e explicar bem tanto o hiato racional entre a Antiguidade e a Idade Média, além de estabelecer as bases do conflito milenar entre empiristas e os racionalistas. Tudo isso não apenas é aproveitável no livro como fornece as bases necessárias para que o próprio leitor comece a explorar a realidade de maneira pensante, e não um mero repetidor do que a ciência diz ser a verdade.
 
-[A Viagem de Chihiro]: {{< relref "a-viagem-de-chihiro" >}}
-[Meu Amigo Totoro]: {{< relref "meu-amigo-totoro" >}}
-[O Castelo Animado]: {{< relref "o-castelo-animado" >}}
-[O Serviço de Entregas da Kiki]: {{< relref "o-servico-de-entregas-da-kiki" >}}
-[Ponyo - Uma Amizade que Veio do Mar]: {{< relref "ponyo-uma-amizade-que-veio-do-mar" >}}
+Já a historinha entre Sofia, a protagonista, e seu professor de filosofia, Alberto, é um passatempo relativamente divertido, que no melhor formato dos contos juvenis, expõe um mistério a ser resolvido. E enquanto o mistério existe, o livro é ótimo. No decorrer de sua resolução, a ficção se despedaça como um castelo no ar. Gaarder arrisca uma metafísica e epistemologias ligeiramente infantis pelo bem da compreensão da epistemologia adulta, pois os adultos apenas conseguem filosofar depois que assumem uma visão de criança acerca dos mistérios do mundo (como bem explica o ótimo capítulo sobre o coelho dentro de uma cartola).
+
+E embora as descrições de Gaarder sejam instigantes no começo, além de particularmente precisas, o desenvolvimento pós-Idade Média demonstra um absoluto desapego com o pensamento crítico ou uma simplificação que torna o conteúdo tão enfadonho quanto uma aula de história que não explica os mecanismo por trás das mudanças. Quando o misticismo impera entre os filósofos, e a maioria das conclusões vistas no livro contrariam a própria proposta do personagem Alberto, que diz constantemente para que sua pupila não pule direto para conclusões, o livro desaba novamente.
+
+Gaarder quando escreveu o livro era um professor de filosofia relativamente jovem, e seu interesse no livro consegue ser descoberto apenas pelo plot. Aliás, talvez todos que gostam de fazer perguntas que não podem ser respondidas devem adorar a primeira metade do livro, independente da ficção e até se você não concordar com a visão dos antigos. E isso independente da idade. Afinal de contas, todos nós podemos ainda nos admirar com o coelho gigante saindo da cartola. Eternamente.
 

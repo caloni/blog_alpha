@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2019-10-21'
-link: https://www.imdb.com/title/tt9657946
+date: '2019-08-02'
+link: https://www.imdb.com/title/tt0308071
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Querência
+title: Queimando ao Vento
 ---
 
-Querência, quem diria, é uma cidade de verdade, localizada no estado de Mato Grosso. Mas o que acaba não sendo nem de verdade, nem de mentira, é este filme escrito e dirigido por Helvécio Marins, que cria uma ficção com personagens da vida real, e demonstra uma das péssimas formas de unir duas formas de filme em um resultado insosso e sem alma.
+Há algo de literário em trabalhos de adaptação de livros, como este, dirigido por Silvio Soldini e escrito com Doriana Leondeff, que se baseia no romance de Agota Kristof. É essa mania do protagonista ser o narrador e estar escrevendo um livro, mesmo que ele seja um maníaco desde criança e viva recluso fugido de seu país de origem.
 
-Acompanhamos o drama de Marcelo Di Souza, um gerente de uma fazenda de gado que é assaltada. Cem cabeças de gado são levadas, o maior roubo de gado já registrado. É um caminho natural Marcelo se mudar, preocupado com sua segurança e desestimulado pelo acontecimento, e o filme enquanto acompanha essa mudança vai nos apresentando o ambiente do Centro-Oeste brasileiro e os outros personagens da vida real. No meio do caminho ele faz algumas críticas aleatórias sobre política que agrada algumas pessoas e este filme acaba ganhando prêmios (inclusive lá fora).
+Esse país é a Tchecoslováquia, e o país para onde ele vai tem uma fábrica que atrai mais conterrâneos de sua terra, incluindo seu amor de infância, a razão de sua existência em todos esses anos. Há algo de intensamente poético na construção de Tobias, que o ator Ivan Franek e seus olhos esbugalhados conseguem demonstrar de maneira penetrante e um tanto relapso.
 
-Querência tenta unir vida real e ficção gravando ou reproduzindo conversas durante sua história, mas a posição das câmeras, mais de uma, durante as cenas criadas, acaba revelando a "farsa", mais ou menos o efeito contrário que a câmera única na mão tem, de evocar realismo. Esse estilo foi usado também em outro filme exibido nesta Mostra de São Paulo, "E Em Cada Lentilha Um Deus", mas no caso do filme de Miguel Ángel Jiménez ele nos mantém presos na narrativa pela história pregressa do protagonista. Aqui não há esse artifício.
+Antigos possíveis amantes que se reencontram em um país estrangeiro é tema de tantos filmes, e Queimando ao Vento é um deles com algumas peculiaridades que o tornam minimamente interessante. Temos a questão do incesto, do assassinato quando criança, da compulsão de Tobias em transar com todas as mulheres com quem encontra, se relacionando assim com o passado de sua mãe prostituta.
 
-O que vemos neste filme não é muito diferente de outros filmes da região. Pessoas do interior isoladas da internet conversando dos estranhos hábitos do pessoal da cidade grande de chamar "tomar uma pinga" de "happy hour", rodeios, o evento principal da cidade, e o roubo dos gados, o acontecimento da região, e que será comentada por muito tempo, já que praticamente nada acontece por estas bandas, como o ritmo lento e as tomadas de pores do sol repetitivas. Lindas, mas repetitivas.
+Soldini entrega neste filme um trabalho sólido, onde pela repetição da rotina é onde acompanhamos as mudanças da vida do herói, além de ouvirmos seus pensamentos em formato de uma narração que sabemos no fundo ser o autor do livro original. A produção também é ótima, com fotografia, figurinos e música dramática em compasso com uma tragédia anunciada.
 
-É uma ode ao pequeno pecuarista brasileiro? Um mini-documentário sobre costumes da região? Uma tentativa de ficcionalizar a realidade? Talvez nenhum, talvez todos. Mas nenhum deles é o tema principal, desconhecido talvez até dos idealizadores. Mas Querência não mostra cenas ruins. Ele apenas não sabe o que fazer com elas.
+Infelizmente toda a tensão construída em dois terços do filme não contém uma contraparte à altura, e a história acaba soando excessivamente dramática. Mas é um excepcional trabalho de atuações e direção, o que meio que compensa entendermos que todo nosso investimento nessas pessoas não precisa se pagar com mortes ou escândalos. Afinal, já era uma história triste quando começou.
 

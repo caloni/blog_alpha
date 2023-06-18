@@ -1,11 +1,11 @@
 ---
 
-Nariz delicado; acompanhar com laranja banhada no chocolate ou macaron de pistache. Corpo leve, pouco azedo e quase branco; pouco doce. Combinou razoavelmente bem com o fondue de chocolate no terraço com os amigos da IBM da Mitiko depois do churrasco.
+Encorpado com explosão de sabores (frutas negras). Gosto de frutas vermelhas, não amadeirado, mas tânico o suficiente para se tornar azedo e marrento na medida certa. Tomando com o macarrão sem molho e tomates cereja.
 
 ---
 categories:
 - writting
-date: '2018-06-24'
+date: '2017-05-17'
 tags:
 - food
-title: El Esteco Tinto Tardio Malbec 2015
+title: El Esteco Old Vines 1958 Criolla 2015

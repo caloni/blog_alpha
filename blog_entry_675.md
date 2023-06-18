@@ -1,20 +1,26 @@
 ---
 categories:
 - writting
-date: '2016-10-28T20:00:00-03:00'
-link: https://www.imdb.com/title/tt5709230
+date: '2016-10-25T20:00:00-03:00'
+link: https://www.imdb.com/title/tt5709242
 tags:
 - series
-title: Black Mirror - S03E03 - Shut Up and Dance
+title: Black Mirror - S03E02 - Playtest
 ---
 
-Após um episódio medíocre, Black Mirror volta a fazer história com a tecnologia atual. Sem apelar (muito) para o futurismo, conta a história de como quem não vive através da verdade vira refém dos outros, além de jogar o público a favor dos roteiristas usando a moral da sociedade como pêndulo de justiça (isso nunca dá certo).
+Como seria um episódio de hoje em dia da série "Além da Imaginação", que mistura lendas urbanas, teorias da conspiração e acontecimentos fantásticos, sempre com um fundinho de moral? Desconfio fortemente que seria como os idealizadores de Black Mirror nos fizeram passar este episódio-terror, que parece experimentar um Twilight Zone versão High-Tech. Este episódio, afinal de contas, também parece um playtest da série.
 
-A história começa com o jovem, ingênuo e introvertido Kenny (Alex Lawther), que é solitário no trabalho e usa seu computador para estravasar seu apetite sexual de adolescente. No entanto, um vírus que se instala em seu notebook faz com que sua web cam fique disponível para que atacantes invadam sua privacidade, o chantageando através da ameaça de publicar seus momentos íntimos para todos seus contatos. Kenny então entra em um dia de martírio, onde conhece pessoas também atingidas pelo vírus, todos realizando ações mecanicamente para evitar ser revelados.
+Em uma época onde os games se tornam cada vez mais detalhados, a realidade aumentada e virtual viraram uma onda frenética, e as redes neurais... ops, o machine learning nos leva cada vez mais próximos da singularidade (quando a inteligência artificial se tornar mais esperta que seus criadores). Tudo isso aliado a um protagonista que abandona sua família por não saber se comunicar com sua mãe após a morte do pai, e viaja pelo mundo enquanto vai elaborando como finalmente atender as incessantes ligações da mãe em seu celular.
 
-O roteiro de William Bridges e Charlie Brooker só se torna eficiente através das mãos do diretor James Watkins, que realiza um trabalho tenso, imediatista, através do uso de câmeras colocadas em objetos manipulados pelos personagens (como bicicletas) e o uso de cortes rápidos, que muitas vezes deixam o espectador meio desorientado. Exatamente como os personagens, que vão cambaleando de um lugar a outro seguindo instruções recebidas em seus celulares, vendo onde estão através de seu GPS.
+As ideias de Black Mirror costumam ser bem mais mastigadas que isso. Parece que os roteiristas trabalharam por muito tempo para amadurecer cada um dos detalhes de seus excelentes episódios, que além de explorar bem seus temas narrativamente prendem a atenção até o fim. Nesse caso, talvez estejamos frente a um episódio desleixado, ou apenas uma miscelânea que tenta experimentar coisas novas na série (o que é ótimo, apesar de não chegar aos pés das experimentações da série da BBC Sherlock).
 
-Mas é a atuação de Alex Lawther que de fato entrega o grande prêmio do episódio, que se revela maniqueísta, mas ainda assim, eficiente. Lawther possui uma cara confiável e ingênua, e consegue tremer como ninguém, trazendo o inquietamento do episódio para fora da tela com facilidade. Seu rosto branco logo se torna vermelho, e de fato acreditamos que o sujeito, prestes a assaltar um banco, está mijando nas calças.
+De qualquer forma, há algo perene no ar que consegue prender a atenção até segundos finais antes dos acontecimentos catárticos finalmente acontecerem. É o mistério de qual o tipo de episódio que estamos assistindo. Pra variar, é um terror psicológico. Mas em qual camada? O que é tão aterrorizante?
 
-A história mexe com alguns conceitos fascinantes, mas para mim o maior deles é a mentira. A mentira é imoral porque faz as pessoas serem reféns de uma não-realidade, que precisam proteger a todo custo. No caso do episódio, não podemos relevar a intensidade que as pessoas podem ser autênticas por causa de alguns de seus atos serem crimes (embora sem vítima; portanto, ilegítimos, como pedofilia). Porém, como um caso geral, quem tem algo a esconder não tem o direito de não ter toda sua persona revelada, mas apenas o dever de se proteger. E uma vez revelado, o indivíduo tem uma escolha: ser íntegro a si mesmo e assumir quem é através de seus atos, ou continuar vivendo uma mentira, sendo escravizado pelos outros que o mantém nessa pseudo-realidade em que são obrigados a viver por não serem seres humanos completos.
+Justamente por atrasar demais suas revelações, o episódio fica arrastado, e as aparições tão aguardadas ficam não apenas aquém do que o espectador foi alimentando na sua muito mais poderosa imaginação, como o terceiro ato se torna confuso por desencadear detalhes aprendidos em revelações espalhadas pela história (há uma empresa de games promissora, eles pagam bem pelos beta testers, ele não atende sua mãe desde sua saída de casa, etc).
+
+Além disso, as obvias referências, não apenas a games de terror (Resident Evil? Silent Hill?) como as obras literárias (Edgar Alan Poe), apesar de representadas em uma direção de arte fabulosa demais para uma série televisiva (e uma casa do terror tão impressionante que apenas ela é o suficiente para assustar), ainda assim, ou por causa da falta de personalidade, soam sempre fakes demais.
+
+Porém, há algo meio trash e meio reflexo distorcido no espelho neste episódio, que insiste em estruturar seu desfecho em camadas que tornam seu Grand Finale tão trágico quanto bizarro, daqueles casos que aparece no telejornal policial, onde não sabemos distinguir o que é humanidade do que é apenas instinto sádico e animal do ser humano.
+
+Bom, uma série como Black Mirror está a todo tempo brincando com esse conceito usando tecnologias quase na palma de nossas mãos. Nesse caso, o dos jogos de videogame, confesso que esperava muito mais imaginação por parte dos criadores. South Park já fez muito melhor.
 

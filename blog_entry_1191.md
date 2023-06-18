@@ -1,16 +1,31 @@
 ---
 categories:
 - writting
-date: '2014-12-10'
-link: https://www.imdb.com/title/tt2096672
+date: '2017-09-18'
+link: https://www.imdb.com/title/tt0877057
 tags:
-- movies
-title: Debi & Lóide 2
+- animes
+- series
+title: 'Death Note: Notas da Morte'
 ---
 
-Jim Carrey e Jeff Daniels finalmente conseguiram realizar a continuação (ou remake?) do seu clássico de comédia e os irmãos Farrely, do original de 1994, estão dirigindo. Os Farrely fizeram também Quem Vai Ficar com Mary?, Passe Livre, Eu, Eu Mesmo e Irene e tantas outras comédias.
+Esta série japonesa se estende por mais tempo do que devia e não entende todo o seu potencial narrativo. Esta é uma história que possui altos e baixos em torno de uma ideia poderosa, e arrisco dizer que seus altos superam seus baixos. Mas sua conclusão é clichê, comercial demais para sentir-se o peso do que estava sendo discutido.
 
-Iniciando com pegadinha monumental que ainda faz o gancho com 20 anos atrás, percebe-se que nada se perdeu da dupla original exceto o seu primoroso roteiro. Tentando dessa vez realizar um paralelo com as cenas do primeiro, Debi e Lóide partem em busca da filha que Lóide descobre ter para que ela doe o rim para seu pai. Isso pede obviamente um road-movie, uma dupla de vilões para impedir e todas as esquisitices da história original. O problema aqui é que nem todas as piadas são... engraçadas. Eu sei que humor é uma coisa relativa, e eu sei que muitas pessoas podem até gostar mais da continuação, mas sejamos francos: a comédia mudou muito em 20 anos. Usar a mesma dupla de patetas corre esse risco quando as coisas saem um pouco atrasadas.
+Como praticamente todas as séries de animes japoneses que se baseiam em mangás, as falas revelam demais e os quadros são parados demais. Como contraponto, a arte é muito bem finalizada (os detalhes de cada demônio) e a edição de som facilita a sensação de movimento.
 
-Dito isto, é preciso ressaltar que a participação dos atores originais é fundamental para que tudo funcione, diferente da tentativa frustrada de um prequel anos atrás. O carisma de ambos os personagens continua intocável, e mesmo que você não dê risada todo o tempo, vale a pena revê-los mais uma vez na tela.
+Mas esta é uma história naturalmente parada. Seu (anti?) herói é Light, um estudante brilhante que acha um caderno que lhe dá o poder de matar qualquer pessoa do mundo simplesmente escrevendo seu nome em uma das folhas do caderno. Acompanhado desde então pelo dono original do caderno, uma entidade sobrenatural chamada de Shirigami, vamos aos poucos entendendo todas as regras de uso do caderno e a maneira com que Light planeja "limpar a Terra" de todo mal, trazendo a paz e a justiça tão desejada por todos.
+
+A parte mais fascinante de Death Note são os primeiros 10 capítulos, onde vamos acompanhando as dificuldades de um serial killer em se manter impune enquanto fica óbvio para as autoridades que alguém, de alguma forma, anda assassinando criminosos à distância. Os detalhes da investigação conduzida pelo próprio pai de Light trazem à tona a figura estereotipada de L, um super-detetive que sempre resolve seus casos e senta em cadeiras da forma mais desconfortável possível. Infelizmente este é um dos seus cacoetes. E todo herói japonês precisa ter o seu. É como eles se diferenciam.
+
+Mas o mais impressionante na figura de L é seu aspecto não-humano. Ele tem trejeitos de um vampiro que sempre vive nas trevas, tem olhos esbugalhados que dão medo, é um anti-social convicto e pensa tão rápido quanto seu inimigo. É respeitado por todos da polícia pelo seu resultado. Sua desconfiança eterna em L em Light é montada de maneira eficiente, de forma que sua participação pode ser alongada sem soar cansativo.
+
+Aliás, o embate intelectual dos dois vive na sombra, como os mistérios dos romances de Agatha Christie. Como espectadores somos presenteados vez ou outra com os detalhes das artimanhas de cada um, mas um dos aspectos principais de Death Note é deixar-nos torcendo por Light e buscando montar um quebra-cabeças com peças faltando.
+
+Isso entretém até um momento. Depois o lado comercial da série vem à tona e o que era para ser um final épico vira um reboot que, não tão brilhante quanto o primeiro, se aproveita das virtudes do antecessor para gerar novamente aquele sentimento de impotência e sagacidade.
+
+A fotografia de Death Note é sempre sombria, mesmo que seus personagens principais usem branco. O pior do ser humano poderia estar representado na figura de Light e seu lado sombrio, mas, como dita a referência obvia, Light é "luz", iluminado. Lúcifer, em outras palavras. E não há figura bíblica mais injustiçada que ele.
+
+Detendo o poder de subjugar a raça humana, ele decide acabar com os maus. Quantos teriam revelado a mesma virtude, em vez de trilhar o caminho mais fácil do poder, dinheiro e fama? Light quer fama, mas está disposto a sacrificar todo o resto para seguir seu código moral que, na visão dele, irá trazer o melhor dos seres humanos à tona, eliminando as víboras, os parasitas, as pragas da sociedade. Não é um objetivo digno de um vilão, mas de um herói. E o fato de sabermos que Light é um gênio apenas eleva suas ideias como provavelmente certas.
+
+O "filme" de 13 horas se recusa a explorar essa questão de maneira dúbia, o que o tornaria aí sim algo de respeito. Ele prefere o caminho e o final fáceis. Light ficaria extremamente desapontado, mais uma vez, com a humanidade.
 

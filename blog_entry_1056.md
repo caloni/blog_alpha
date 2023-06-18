@@ -1,295 +1,42 @@
 ---
-categories:
-- coding
-date: '2008-05-09'
-title: Como tratar um merge no Bazaar
+categories: []
+date: '2008-01-08'
+title: Como ter um melhor blogue em 2008
 ---
 
-Hoje fizemos um merge de duas versões que entraram em conflito em nosso projeto-piloto usando bzr. Isso geralmente ocorre quando alguma coisa mudou no mesmo arquivo em lugares muito próximos um do outro. Veremos um exemplo de código para ter uma idéia de quão fácil é o processo:
+Não é exatamente uma receita de bolo, tampouco uma lista de regras imutáveis. Na verdade, apenas algumas dicas que o criador do termo (we)blog deu sobre como ele imagina que os blogueiros deveriam se comportar em relação aos seus blogues. Entre os toques, ele inicialmente comenta que o princípio de um weblog é ser um histórico dos sítios que navegamos, e que eventualmente podemos publicar conteúdo original. Bem, esse humilde blogue faz exatamente o oposto, acreditando que o conteúdo publicado aqui em português dificilmente será encontrado na web, além de que me sinto um inútil se não colaborar com o mundo usando o conhecimento que aprendi e aprendo no dia-a-dia.
 
-    #include <stdio.h>
-    
-    void InitFunction()
-    {
-      printf("InitFunction");
-    }
-    
-    void DoAnotherJob()
-    {
-      char buf[100] = "";
-      fgets(buf, sizeof(buf), stdin);
-      printf("New line: %s", buf);
-    }
-    
-    void TerminateFunction()
-    {
-      printf("TerminateFunction");
-    }
-    
-    int main()
-    {
-      InitFunction();
-    
-      while( ! feof(stdin) )
-      {
-        DoAnotherJob();
-      }
-    
-      TerminateFunction();
-    }
+Por isso mesmo, aqui vão as dicas traduzidas, que encontrei no blogue de Lino Resende, verbatim (com meus comentários ao final de cada item):
 
-A execução do programa contém uma saída parecida com as linhas abaixo:
+  1. Um blog verdadeiro é um log de todos os sítios que você gostaria de salvar ou dividir.
+   - Então, hoje, o del.icio.us é melhor para os bloggers do que o próprio Blogger. Isso seria como se os blogues fossem sítios de pesquisadores do google, o que não deixa de ser meia-verdade.
 
-    C:\Tests\bzrpilot>bzppilot.exe
-    InitFunctionuma linha
-    New line: uma linha
-    duas linhas
-    New line: duas linhas
-    tres linhas
-    New line: tres linhas
-    ^Z
-    New line: TerminateFunction
-    C:\Tests\bzrpilot>
+  2. Você pode, é claro, colocar links sobre você fora do seu blog, mas se o blog tem mais posts originais do que links, recomendo aprender um pouco de humildade.
+   - É um golpe bem dado ao Caloni.com.br. Bom, espero ser mais humilde em 2008 =).
 
-Parece que está faltando algumas quebras de linha. Além de que sabemos que nossos arquivos de entrada poderão conter até 200 caracteres por linha, o que pode gerar um desastre em nosso buffer de 100 bytes. Buffer overflow!
+  3. Se fizer uma pequena procura antes de postar, vai descobrir que alguém já falou do seu assunto e melhor do que você.
+   - Isso eu faço, mas, como já disse, conteúdo em português é mais escasso, o que compensa a publicação de artigos sobre assuntos já tratados em outras línguas.
 
-Para corrigir ambos os problemas foram criados dois branches, seguindo as melhores práticas de uso de um controle de fonte distribuído:
+  4. Seja você mesmo, sem suprimir links que não o tratem favoravelmente. Seus leitores querem saber quem efetivamente você é.
+   - Essa dica é particularmente difícil para blogues técnicos, como o meu e de muita gente. No entanto, nós tentamos não parecer bots, acredite!
 
-    C:\Tests>bzr branch bzrpilot bzrpilot-linebreak
-    Branched 1 revision(s).
-    
-    C:\Tests>bzr branch bzrpilot bzrpilot-bufferoverflow
-    Branched 1 revision(s).
+  5. Você pode melhorar o título das páginas que sugere quando as descrever e dar o link. Assegure-se de sua descrição fará os leitores se lembrarem dela, reconhecendo páginas que já visitaram ou quando a visitarem novamente.
+   - Essa é mais fácil de fazer.
 
-Feitas as correções devidas, o branch linebreak fica com a seguinte cara:
+  6. Use sempre algum adjetivo para descrever sua própria reação à página que recomenda (ótima, imaginativa, clara, útil).
+   - Essa dica foi clara e útil. Além de imaginativa e ótima, claro.
 
-    void InitFunction()
-    {
-      printf("InitFunction\n");
-    }
+  7. Dê os créditos à fonte que você usou. Assim, seus leitores podem conferi-la e "moverem-se para cima".
+   - Essencial, especialmente, mais uma vez, se tratando de blogues técnicos.
 
-    void DoAnotherJob()
-    {
-      char buf[100] = "";
-      fgets(buf, sizeof(buf), stdin);
+  8. Cuidado com os problemas de formatação estranha, múltiplas páginas com histórias, textos muito longos, etc. Não esconda o link principal entre outros auxiliares, mal identificados ou pobres.
+   - Essa dica é mais para weblogs de fato. Eu passo.
 
-      printf("New line: %s\n", buf);
-    }
+  9. Escolha alguns autores favoritos ou celebridades e crie um feed no Google News, acompanhando novas menções a eles. Assim, outros fãs podem segui-los através do seu blog.
+   - Você pode seguir os que sigo através da minha Home Page (update 2021-04-18: hoje em dia não sigo mais nada, mas links específicos existem nos posts; quem diria, acabei ficando mais blogger com o passar do tempo). Eventualmente compartilho posts através do Google Reader. Update 2021-04-18: não mais =(
 
-    void TerminateFunction()
-    {
-      printf("TerminateFunction\n");
-    }
+  10. Reindique seus links favoritos de tempos em tempos para quem os perdeu, esquece ou o está lendo pela primeira vez.
+   - Essa é uma coisa que está faltando aqui no Caloni.com.br, que é a manutenção dos artigos antigos. Prometo me esforçar mais em 2008. Promessa de ano-novo =).
 
-Em vermelho podemos notar as linhas alteradas. Uma mudança diferente foi feita para o bug do buffer overflow, em seu branch correspondente:
-
-    void DoAnotherJob()
-    {
-      char buf[200] = "";
-      fgets(buf, sizeof(buf), stdin);
-      printf("New line: %s", buf);
-    }
-
-Agora só temos que juntar ambas as mudanças no branch principal.
-
-> "Mas espere aí! Não é uma boa termos números mágicos no código!"
-
-Com toda razão, pensa o programador que está corrigindo o bug da quebra de linha, olhando sorrateiramente a função do meio, intocada, DoAnotherJob.
-
-Então ele resolve fazer um pequeno fix "de brinde", desconhecendo que mais alguém andou alterando essas linhas:
-
-    #define ENOUGH_BYTES 100
-
-    void InitFunction()
-    {
-      printf("InitFunction\n");
-    }
-
-    void DoAnotherJob()
-    {
-      char buf[ENOUGH_BYTES] = "";
-
-      fgets(buf, sizeof(buf), stdin);
-      printf("New line: %s\n", buf);
-    }
-
-Pronto. Um fonte politicamente correto! E que vai causar um conflito ao juntar essa galera. Vamos ver na seqüência:
-
-    C:\Tests>bzr log bzrpilot-linebreak --short
-      3 Wanderley Caloni  2008-05-08
-        A little fix
-  
-      2 Wanderley Caloni  2008-05-08
-        Corrected line breaks
-  
-      1 Wanderley Caloni  2008-05-08
-        Our first version
-    
-    C:\Tests>bzr log bzrpilot-bufferoverflow --short
-      2 Wanderley Caloni  2008-05-08
-        Corrigido buffer overflow
-  
-      1 Wanderley Caloni  2008-05-08
-        Our first version
-
-    C:\Tests>bzr log bzrpilot --short
-      1 Wanderley Caloni  2008-05-08
-        Our first version
-
-    C:\Tests>cd bzrpilot
-    
-    C:\Tests\bzrpilot>bzr pull ..\bzrpilot-linebreak
-     M  bzppilot.cpp
-    All changes applied successfully.
-    Now on revision 3.
-    
-    C:\Tests\bzrpilot>bzr pull ..\bzrpilot-bufferoverflow
-
-    bzr: ERROR: These branches have diverged. Use the merge command to reconcile them.
-
-Ops. Algo deu errado no segundo pull. O Bazaar nos diz que os ranches estão diferentes, e que termos que usar o comando merge no lugar.
-
-    C:\Tests\bzrpilot>bzr merge ..\bzrpilot-bufferoverflow
-     M  bzppilot.cpp
-
-    Text conflict in bzppilot.cpp
-
-    1 conflicts encountered.
-
-Usamos merge no lugar do pull e ganhamos agora um conflito no arquivo bzppilot.cpp, nosso único arquivo. Vamos ver a bagunça que fizemos?
-
-A última coisa que um controle de fonte quer fazer é confundir ou chatear o usuário. Por isso mesmo, a maioria dos conflitos que o Bazaar encontrar nos fontes serão resolvidos usando o algoritmo "se só um mexeu, então coloca a mudança". A tabela do [guia do usuário](http://doc.bazaar-vcs.org/bzr.dev/en/user-guide/#merging-changes) ilustra esse algoritmo em possibilidades:
-
-| ancestor | first_branch | second_branch | result  | comment          |
-| -------- | ------------ | ------------- | ------- | ---------------- |
-|     x    |    x         |   x           |    x    | não muda         |
-|     x    |    x         |   y           |    y    | usuário 2 ganhou |
-|     x    |    y         |   x           |    y    | usuário 1 ganhou |
-|     x    |    y         |   z           |    ?    | conflito!!!      |
-
-O ancestral é a última modificação em comum dos dois branches que estamos fazendo merge. Do ancestral pra frente cada um seguiu seu caminho, podendo existir quantas modificações quisermos.
-
-Como podemos ver, o conflito só ocorre se ambos os usuário mexerem na mesma parte do código ao mesmo tempo. Eu disse na mesma parte do código, e não apenas no mesmo arquivo. Isso porque se a mudança for feita no mesmo arquivo, porém em locais diferentes, o conflito é resolvido automaticamente.
-
-Em todos os conflitos de texto desse tipo, o Bazaar cria três arquivos de suporte e modifica o arquivo em conflito. Isso para cada conflito.
-
- - arquivo.cpp - Resultado de até onde o Bazaar conseguiu o merge
- - arquivo.cpp.BASE - Versão ancestral do arquivo
- - arquivo.cpp.THIS - Nosso arquivo original antes de tentar fazer merge
- - arquivo.cpp.OTHER - A versão que entrou em conflito com a nossa
-
-Podemos fazer o merge da maneira que quisermos. Se vamos usar nossa versão de qualquer jeito é só sobrescrever o arquivo.cpp pelo arquivo.cpp.THIS. Se vamos fazer troca-troca de alterações, abrimos os arquivos .THIS e .OTHER e igualamos suas diferenças, copiando-as para arquivo.cpp.
-
-Recomendo primeiramente olhar o que o Bazaar já fez. Se houver dúvidas sobre a integridade das mudanças, comparar diretamente os arquivos THIS e OTHER.
-
-Vamos dar uma olhada na versão criada pelo Bazaar:
-
-    #include <stdio.h>
-    
-    #define ENOUGH_BYTES 100
-    
-    void InitFunction()
-    {
-      printf("InitFunction\n");
-    }
-
-    void DoAnotherJob()
-    {
-    <<<<<<< TREE
-      char buf[ENOUGH_BYTES] = "";
-    =======
-      char buf[200] = "";
-    >>>>>>> MERGE-SOURCE
-      fgets(buf, sizeof(buf), stdin);
-      printf("New line: %s\n", buf);
-    }
-
-    void TerminateFunction()
-    {
-      printf("TerminateFunction\n");
-    }
-
-    int main()
-    {
-      InitFunction();
-
-      while( ! feof(stdin) )
-      {
-        DoAnotherJob();
-      }
-
-      TerminateFunction();
-    }
-
-Ora, vemos que ele já fez boa parte do trabalho para nós: as quebras de linha já foram colocadas e o novo define já está lá. Tudo que temos que fazer é trocar o define por 200 e tirar os marcadores, que é a junção das duas mudanças feitas no mesmo local, e que só um ser humano (AFAIK) consegue juntar:
-
-    #define ENOUGH_BYTES 200
-
-    void InitFunction()
-    {
-      printf("InitFunction\n");
-    }
-
-    void DoAnotherJob()
-    {
-      char buf[ENOUGH_BYTES] = "";
-      fgets(buf, sizeof(buf), stdin);
-      printf("New line: %s\n", buf);
-    }
-
-Resolvido o problema, simplesmente esquecemos das versões .BASE, .THIS e .OTHER e falamos pro Bazaar que está tudo certo.
-
-    C:\Tests\bzrpilot>bzr resolve bzppilot.cpp
-
-O controle de fonte apaga automaticamente os arquivos THIS, BASE e OTHER, mantendo o original como a mudança aceita.
-
-Após as correções dos conflitos, temos que fazer um commit que irá ser o filho dos dois branches que estamos juntando.
-
-    C:\Tests\bzrpilot>bzr commit -m "Tudo certo"
-    Committing to: C:/Tests/bzrpilot/
-    modified bzppilot.cpp
-    Committed revision 4.
-    
-    C:\Tests\bzrpilot>bzr log
-    ------------------------------------------------------------
-    revno: 4
-    committer: Wanderley Caloni <wanderley@caloni.com.br>
-    branch nick: bzrpilot
-    timestamp: Thu 2008-05-08 22:09:35 -0300
-    message:
-      Tudo certo
-    ------------------------------------------------------------
-    revno: 1.1.1
-    committer: Wanderley Caloni <wanderley@caloni.com.br>
-    branch nick: bzrpilot-bufferoverflow
-    timestamp: Thu 2008-05-08 21:47:33 -0300
-    message:
-      Corrigido buffer overflow
-    ------------------------------------------------------------
-    revno: 3
-    committer: Wanderley Caloni <wanderley@caloni.com.br>
-    branch nick: bzrpilot-linebreak
-    timestamp: Thu 2008-05-08 21:49:30 -0300
-    message:
-      A little fix
-    ------------------------------------------------------------
-    revno: 2
-    committer: Wanderley Caloni <wanderley@caloni.com.br>
-    branch nick: bzrpilot-linebreak
-    timestamp: Thu 2008-05-08 21:44:23 -0300
-    message:
-      Corrected line breaks
-    ------------------------------------------------------------
-    revno: 1
-    committer: Wanderley Caloni <wanderley@caloni.com.br>
-    branch nick: bzrpilot
-    timestamp: Thu 2008-05-08 21:33:53 -0300
-    message:
-      Our first version
-
-A versão do branch alternativo é 1.1.1, indicando que ele saiu da revisão número 1, é o primeiro alternativo e foi o único commit. Se houvessem mais modificações neste branch, elas seriam 1.1.2, 1.1.3 e assim por diante. Se mais alguém quisesse juntar alguma modificação da revisão 1 ela seria 1.2.1, 1.3.1, 1.4.1 e assim por diante.
-
-Um erro comum que pode acontecer é supor que o arquivo original está do jeito que deixamos e já usar o comando resolve diretamente. É preciso tomar cuidado, pois se algum conflito é detectado quer dizer que o Bazaar deixou para você alguns marcadores no fonte original, o que quer dizer que ele simplesmente não vai compilar enquanto você não resolver seus problemas.
-
-Enfim, tudo que temos que lembrar durante um merge do Bazaar é ver os conflitos ainda não resolvidos direto no fonte e alterá-los de acordo com o problema. O resto é codificar.
+É isso. Concorda, discorda, sem corda? Imagino que a dica que mais me afetou foi aquela sobre humildade, lá no começo. Digo isso porque ainda está martelando na minha cabeça, pronta para transformar este blogue em algo mais democrático e transparente.
 

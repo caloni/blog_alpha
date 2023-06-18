@@ -1,24 +1,28 @@
 ---
 categories:
 - writting
-date: '2019-10-24'
-link: https://www.imdb.com/title/tt7534102
+date: '2016-07-29'
+link: https://www.imdb.com/title/tt3460252
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Os Olhos de Cabul
+title: Os Oito Odiados
 ---
 
-Os Olhos de Cabul veem tudo, menos que se está falando francês em pleno Afeganistão. Essa animação ganhou o prêmio Um Certo Olhar em Cannes e agora está sendo exibida na Mostra de São Paulo. Uma viagem honesta e sutil de uma realidade crua de uma sociedade tomada pela opressão e violência, mas que vez ou outra surgem seus heróis.
+Se há um motivo para a existência de Os Oitos Odiados é dar o mais que merecido Oscar para o compositor Ennio Morricone. No entanto, esse prêmio negado ao músico de trilhas icônicas como Os Intocáveis, Era Uma Vez na América e Cinema Paradiso irá agora figurar como o mesmo Oscar negado a Martin Scorsese em toda sua carreira até Os Infiltrados: longe de ser o melhor trabalho; apenas um prêmio de consolação.
 
-Mas esses heróis estão acabando. As pessoas aprendem o status quo por repetição. Crianças já se divertem jogando pedras onde um cachorro bebe água ou jogando futebol com cordas de enforcamento na trave. Por mais bons que sejam, homens vivendo nesse ambiente se corrompem lentamente. A história contida aqui mostra um pouco desse processo.
+Por outro lado, temos uma revelação surpreendente em Jennifer Jason Leigh, que cria uma vilã que se diverte imensamente em ser a mensageira do diabo em um "barzinho" que irá virar a boca do inferno cercada de uma nevasca interminável.
 
-Começa com um apedrejamento. Um ex-professor de história, enquanto assiste à barbárie sendo ocorrida em local público, de maneira mecânica lança também a sua pedra. Ele não sabe por que, mas ele realiza a ação, e logo depois a ideia do que acabara de fazer o assombra.
+Ainda do lado das atuações de destaque, Samuel L. Jackson usa todo o poder de um personagem que ganha sua liberdade na recém-terminada guerra civil americana, mas que continua fortalecendo sua posição a cada gesto e diálogo do próximo sulista rancoroso que encontrar pela frente. Podemos imaginar o personagem de L. Jackson como reencarnação de Django no filme anterior do diretor, onde um negro ousava andar livre e armado ao redor de plantações do rio Mississipi.
 
-Sua mulher é uma desenhista, e é claro que não pode fazer nada exceto se trancar dentro de casa. Antigamente o casal ia de mãos dadas na livraria, ou até no cinema da cidade, agora em ruínas. Há uma sequência particularmente tocante que faz a transição das duas épocas. Essa mulher acredita em um futuro melhor e claramente é quem torna aquele homem transtornado um ser humano melhor. Mas isso tem prazo de validade. A moral imposta pela lei muçulmana da Sharia é impetuosa e aos poucos entra na mente dos que resolveram continuar na cidade se Cabul.
+Já Quentin Tarantino, em seu oitavo filme -- como gosta de alardear nos créditos iniciais -- se apaixona perdidamente pela sua técnica e se esquece momentaneamente como fazer filmes que prendem a atenção do começo ao fim. Ele agora arrasta do começo ao fim o desenrolar da história, como se estivesse com dó de cortar cenas ou de deixar a direção (o diretor diz que quer fazer apenas 10 filmes no total, sendo o motivo apontado por às vezes contar em que número estamos).
 
-Há outro casal no filme, mais velho e que já se encontra possuído pelos valores daquela sociedade. O filme adentra no pouco que resta de humano daquelas pessoas. Ele é o carcereiro que toma conta das mulheres que serão executadas. Ela sofre pelo seu câncer terminal, mas se mantém servil ao seu marido, cozinhando uma comida que ele não sente mais vontade de comer. No momento em que a vida desses dois casais se encontram algo mágico acontece, mas a essa altura do longa fica difícil acreditar na magia.
+O elenco em geral já trabalhou com o diretor e se esforça em manter um clima western parte Sergio Leoneano, parte Tarantinesco. Os diálogos são espertos demais para serem reais, e há um clima investigativo em um momento que desfaz toda a atmosfera rústica daquelas pessoas vivendo uma época onde andar armado (e saber atirar) é mandatório.
 
-Os Olhos de Cabul é uma animação de traços despojados que entrega uma história simples que se revela em seus detalhes a sua mensagem. Ela não procura exaltar seus poucos heróis, mas demonstrar como eles ainda são possíveis. E nos faz pensar até quando será possível.
+Mas não há nada na estética do filme que decepcione. Estamos assistindo a um filme autêntico de bang-bang, no melhor estilo superprodução e com uma fotografia (Robert Richardson) de fazer-nos parar por minutos apenas para apreciar a beleza das paisagens externas, além da competência com que a interna é retratada, sem perder-se em sombras.
+
+Aliás, a falta de "pecadilhos" em um filme dessa época acaba soando mais teatral do que devia. Claro que o clima Tarantinesco das mortes (especialmente por envenenamento) contribui para fugirmos daquele universo (e lembrarmos, mais uma vez, que este é um filme de Tarantino... oitavo, certo?), mas talvez a excessiva compaixão das pessoas envolvidas, e a forma com que conversam, torna as coisas estranhas.
+
+Já a história é a convenção em pessoa, o que nos remete diretamente aos problemas do roteirista Quentin Tarantino. Se em filmes do velho oeste -- especialmente os de Sergio Leone -- há de se experimentar situações extremas que irão fazer o chão vibrar, aqui toda a "logística" envolvida para fazer esses personagens interagir é mecânico demais. Os personagens do filme não são humanos vivendo uma época dura, mas arquétipos vivendo o sonho Tarantinesco.
+
+E tudo isso joga Os Oito Odiados ainda mais perto do palco e mais longe da tela. Não que a história não valesse a pena acompanhar, nem o desempenho dos atores em personagens no mínimo curiosos. No entanto, tudo isso é irrelevante, se pressentirmos que todo este tabuleiro de xadrez já estava montado quando a partida começou.
 

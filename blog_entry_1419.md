@@ -1,21 +1,74 @@
 ---
 categories:
-- writting
-date: '2017-04-25'
-link: https://www.imdb.com/title/tt6096528
-tags:
-- cinemaqui
-- movies
-title: Elon Não Acredita na Morte
+- coding
+date: '2014-06-11'
+tags: null
+title: 'Eles querem que a GINA vá embora: três posts sobre evolução Windows'
 ---
 
-Elon Não Acredita na Morte é uma thriller policial que consegue manter seu suspense por um bom tempo. Desde que você seja paciente. Ele explora nossa percepção do cotidiano visto de duas maneiras muito peculiares. Uma delas é o senso comum guiando seu protagonista pelos corredores, portas e pessoas. A outra está em conseguirmos preencher uma lacuna vital para a compreensão do todo, um pequeno detalhe que fica em um passado próximo, mas que "infelizmente" se passa antes do filme começar. E é daí que vem todo o suspense.
+Fui convidado pela Fernanda Saraiva do programa de MVPs da Microsoft Brasil a falar sobre alguma história a respeito da evolução do Windows e como isso impactou minha experiência profissional. Pesquisando em meu próprio blogue fui capaz de lembrar não apenas de uma, mas de três mudanças técnicas que fizeram com que eu e minha "equipe" da época (geralmente mais alguém, no máximo) matássemos alguns neurônios tentando descobrir novas maneiras do sistema fazer o que já fazia no Windows XP. Irei compartilhar uma por vez no que tem sido o meu post semanal que eu apelidei carinhosamente de Post da Terça. Já faz mais de um mês que consigo publicar pelo menos na terça algo de novo, e espero manter esse ritmo.
 
-Dirigido por Ricardo Alves Jr de uma forma aparentemente relaxada, mas que ao mesmo tempo mantém um controle de luz e sombra complexo para não nos perdermos, a câmera quase sempre segue Elon (Rômulo Braga), o homem em busca da esposa, a fugaz Madalena (Clara Choveaux), que não voltou do trabalho. Através dele vamos conhecendo suas ligações com o mundo de sua mulher. A irmã que é dançarina de boate, o filho pequeno entregue ao ex, a sogra que parece ser a única a perceber algo de errado com o filho, embora não saiba o quê. Embora Elon pareça fazer todo o percurso correto de quando uma pessoa amada some, e embora possamos entender seu desespero a ponto de invadir a casa de sua cunhada, a única peça que não se encaixa nesse quebra-cabeças é sua aparente calma. Ou talvez faça parte daquele passado que citei, inalcançável. Mas se os desaparecimentos da mulher fizessem parte da rotina do casal, o que explica ele ir à delegacia apenas um dia depois de seu sumiço? Perceba como o roteiro nos entrega pedaços de informação flutuando no nosso inconsciente. Não se trata do que é dito, nem do não-dito, mas as circunstâncias apenas.
+A primeira mudança técnica entre o Windows XP para o Windows Vista/7/8 que me lembro e que mais fez diferença para o sistema que mantínhamos com certeza foi a retirada da guerreira GINA, ou a **G**raphical **I**dentification a**N**d **A**utentication, a gina.dll da Microsoft que implementava a mundialmente famosa tela de logon do Windows NT/2000/XP:
 
-A edição de som é tão precisa que ela se torna quase um personagem. Não fosse ela seria difícil acompanhar toda a ação, já que apesar de uma fotografia competente diante do desafio de filmar becos, salas e corredores sujos e mal-iluminados, há muito ainda não visto; apenas ouvido. E até o que é ouvido às vezes nem isso; como quando Elon vai tentar perguntar para uma colega no serviço de Madalena, diante de máquinas ensurdecedoras. Quase não ouvimos o que eles gritam, mas conseguimos entender a mensagem. É esse tipo de pérola que deve ser buscada nesse filme.
+{{< image src="CBLO6LF.jpg" caption="Windows XP dá as boas vindas" >}}
 
-A atuação de Rômulo Braga (O Que Se Move) é precisa em não revelar quase nenhum traço de sua personalidade, exceto a incapacidade de sentir qualquer coisa, como se estivesse anestesiado ou drogado. Ele apenas reage à soma das percepções em sua volta, como um soco na parede durante seu exercício, e até em um momento extremamente sensual, em plelo ato sexual, que indica que ao menos através de seus corpos ele e sua mulher se entendiam bem; mesmo assim, Elon se revela um homem quase que meticuloso, como ao segurar os cabelos de Madalena enquanto ela pratica oral, ou até seu próprio ritmo ao retribuir a amada. É sensual, mas é mecânico. Todo o filme é um suspense frenético, mas Elon está igualmente mecânico.
+Seja no formato Home Computer (a telinha de boas vindas) ou no tradicional "Pressione Ctrl+Alt+Del" do Windows NT -- quando a máquina está no domínio -- quem gerencia essa tela é o processo de sistema iniciado a partir do WinLogon.exe. O WINLOGON carrega a nossa amiga gina.dll que é quem realiza a autenticação dos usuários.
 
-Ah, sim. Isso me faz lembrar. "Elon Não Acredita..." é um filme adulto. Claro, o motivo oficial é o sexo e a nudez. Mas o verdadeiro motivo, desconfio, é o café. Você irá entender quando acontecer. Sempre é o café; principalmente quente. Não é mesmo?
+Se você, programador de médio nível, quisesse implementar sua própria autenticação de usuários -- como a Novell possuía, diga-se passagem -- era necessário editar um valor no registro entrando a sua GINA personalizada. Lógico que ela deveria ter todas as funções documentadas implementadas e exportadas para que o WINLOGON conseguisse se comunicar, como a famigerada [WlxInitialize](http://msdn.microsoft.com/en-us/library/windows/desktop/aa380567%28v=vs.85%29.aspx), que recebia a lista de ponteiros de funções para os outros eventos a ser tratados.
+
+```
+// Essa funcao sobrescreve a original do Windows no momento do logon.
+// No codigo abaixo gravamos os dados de autenticacao do usuario.
+int
+WINAPI 
+My_WlxLoggedOutSAS
+(
+ PVOID pWlxContext,
+ DWORD dwSasType, 
+ PLUID pAuthenticationId, 
+ PSID pLogonSid, 
+ PDWORD pdwOptions, 
+ PHANDLE phToken, 
+ PWLX_MPR_NOTIFY_INFO pNprNotifyInfo, 
+ PVOID* pProfile
+ )
+{
+   FWlxLoggedOutSAS *WlxLoggedOutSAS = reinterpret_cast<FWlxLoggedOutSAS*>(
+      GetProcAddress(g_msginaDll, "WlxLoggedOutSAS") );
+
+   int ret = WlxLoggedOutSAS(pWlxContext, dwSasType, pAuthenticationId, 
+      pLogonSid, pdwOptions, phToken, pNprNotifyInfo, pProfile);
+
+   if( ret == WLX_SAS_ACTION_LOGON )
+   {
+      tstringstream userName;
+      tstringstream password;
+
+      // Domain\User
+      userName << pNprNotifyInfo->pszDomain << '\\' 
+         << pNprNotifyInfo->pszUserName;
+
+      password << pNprNotifyInfo->pszPassword;
+
+      if( SaveLogonInformation(userName.str(), password.str()) > 5 )
+         if( !IsNetworkAdmin(userName.str(), pNprNotifyInfo->pszDomain) )
+            ret = 0;
+   }
+
+   return ret;
+}
+
+```
+
+Com a vinda do Windows Vista, o WINLOGON continuou gerenciando as sessões e autenticações dos usuários, mas para evitar que a GINA monopolizasse novamente os métodos de autenticação, e com a vinda de métodos concorrentes -- como retina e impressão digital -- a Microsoft desevolveu uma nova interface chamada de _Credential Provider_. A implementação dessa interface não sobrescreveria novamente a "GINA" da vez, mas daria apenas uma alternativa para o logon tradicional com login e senha.
+
+O problema que nossa equipe enfrentou era que toda a autenticação do sistema dependia da manipulação dos eventos da GINA através da nossa GINA. Com ela colocada de escanteio, os logins parariam de funcionar.
+
+{{< image src="sF23ENL.jpg" caption="gina" >}}
+
+Depois de uma análise rápida foi constatado que não seria mais possível bloquear o login completamente, uma vez que existiam pelo menos duas alternativas de login que vieram com a instalação do Vista, e o fato de instalar mais uma apenas faria com que essa terceira alternativa não funcionasse, mas o usuário não estaria mais obrigado a "passar por nós".
+
+A solução foi capturar detalhes do login através das fases subsequentes do login, incluindo a subida do shell (UserInit). Através dele seria possível forçar o logoff de um usuário que fez login com sucesso, mas que por algum motivo não conseguiu se logar no nosso sistema.
+
+Nem sempre o que estava rodando já há anos é a solução mais bonita. Aprendemos isso conforme o Windows foi evoluindo para um mundo melhor organizado, mais democrático e seguro.
 

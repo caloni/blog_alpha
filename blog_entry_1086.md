@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2013-12-29'
-link: https://www.imdb.com/title/tt0118884
+date: '2012-04-25'
+link: https://www.imdb.com/title/tt0092005
 tags:
 - movies
-title: Contato
+title: Conta Comigo
 ---
 
-Adoro o livro que Carl Sagan escreveu imaginando como seria, em um mundo realista e atual, nossa primeira comunicação com uma civilização extraterrestre. Ele não apenas fez isso como abriu um pouco mais nosso leque filosófico ao ensaiar uma explicação que unisse ciência e religião, matemática e sentimentos.
+Mais um filme dos anos 80 que envelheceu muito bem. Leveza e ingenuidade caminham juntos na história dos quatro amigos que partem em uma jornada com o objetivo de se tornarem heróis. E por mais piegas que pareça a argumentação de Conta Comigo, ela é levada a sério, o que faz toda a diferença no desenvolvimento dos personagens (que não são crianças genéricas).
 
-Exatamente por isso que a adaptação de Robert Zemeckis se sai tão bem. Ela não ignora a humanidade e seus conflitos de poder, seus anseios e medos do desconhecido. Ela amplia nossa percepção do que possivelmente aconteceria em nosso mundo, com nossas crenças, se um belo dia recebêssemos do espaço uma mensagem nos dizendo: vocês não estão sozinhos.
+Dessa forma, as personalidades de Gordie (Will Wheaton), Chris (River Phoenix), Teddy (Corey Feldman) e Vern (Jerry O'Connel) não são levadas apenas pelas suas impecáveis e inspiradas atuações, mas também por suas roupas, suas casas e seus pais, em um esmero imperceptível (o que o faz tão bom) de direção de arte e figurino. Ainda recheada de pequenos pedaços de músicas da época, a trilha sonora transporta-nos facilmente.
 
-Mais ainda, o roteiro escrito com a ajuda de Sagan internaliza todos esses conflitos intelectuais e emocionais na personagem fascinante de Jodie Foster, que desde o início de sua vida teve que lidar com sua solidão. Os ecos de seu passado refletidos no presente, sobretudo seus medos (como o de cancelarem o programa de pesquisa por vida inteligente), revelam tanto sobre nós mesmos que é natural, quase primordial, que ela fosse para nós, espectadores, a representante escolhida da raça humana.
-
-Não é um filme difícil, pois consegue ser tão reflexivo quanto empolgante. Ele revela a excitação da descoberta científica, influenciando mentes não-científicas a questionarem a realidade. Possui ao mesmo tempo a riqueza cinematográfica de rimas visuais (Ellie encostando a cabeça no joelho quando desamparada), de movimentos de câmera (a cena lenta e tensa até o armário de medicamentos, onde Zemeckis, para não realizar o corte, transforma a câmera em um espelho), e do uso fascinante do expressionismo (a cabeça de Ellie acompanha a fileira de antenas, como uma extensão do nosso sistema auditivo).
+No entanto, o que garante uma atenção e carinho pela história não poderia ser mais nada que sua universalidade, já que cada um de nós, em menor ou maior grau, já vivenciou diálogos ou situações semelhantes. E não há nenhuma técnica mágica de Cinema que consiga um nível de cumplicidade tão grande como esse: o da vida real.
 

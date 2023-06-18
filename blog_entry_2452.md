@@ -1,20 +1,21 @@
 ---
 categories:
 - writting
-date: '2014-09-20'
-link: https://www.imdb.com/title/tt0457510
+date: '2022-10-26T19:50:17-03:00'
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Nacho Libre
+title: Nação Valente
 ---
 
-Comédias com Jack Black e Jim Carrey não são protagonizadas por atores atuando, mas antes por comediantes que usam a oportunidade para fazer suas esquisitices e deixar a plateia rir no vácuo de suas piadas muitas vezes de gosto duvidoso.
+Grupos nacionalistas não costumam ser bem vistos, mas e quando além de nacionalistas eles também são zumbis? Nação Valente, vencedor de melhor filme europeu no Festival de Locarno, é um épico que trata de questões históricas da década de 70 sobre Portugal. Essas questões estão presas, entaladas na garganta do povo português, mas também na história de uma terra estrangeira tomada pelo colonialismo.
 
-Aqui Jack Black é Nacho, que sonha em ser um astro da luta livre, mas que por enquanto tem que se contentar com seu emprego de cozinheiro (e frade) para órfãos de uma igreja isolada da cidade. Enquanto isso, surge por algum motivo uma nova professora para os meninos (são todos meninos) que é uma freira/interesse amoroso "how-convenient" para o nosso "herói" (a belíssima Ana de La Leguera).
+O filme de Carlos Conceição acompanha um batalhão de soldados isolados em Angola. Eles estão há décadas por lá e não têm a menor ideia de quanto tempo passou. A retomada da região pelas tribos locais envolveu mantê-los presos em terra estrangeira sem nem eles mesmos saberem. A guerra já acabou faz tempo, mas na mente desses soldados a loucura permanece.
 
-Aliando-se a um bandido que o havia roubado, a dupla se torna uma sensação na cidade, apesar de sempre perderem as lutas que participam. Ambiciosamente buscando sua fama através do lutador mais famoso e talentoso "do mundo" (que está na tal cidade de Nacho), buscam um golpe de mágica para conseguirem milagrosamente ficarem bons de luta livre sem nunca sequer terem treinado para tal (exceto uma corrida na terra, uma luta contra uma colmeia de abelhas e mais algumas esquisitices).
+Uma das sacadas do filme é manter esse mesmo suspense para o espectador. Não sabemos quanto tempo passou, apenas que foi muito. É comum haver história de soldados que ficaram sem comunicação por anos a fio sem saber sua próxima missão. Então eles simplesmente ficam no local aguardando ordens. E muitos deles começam a sentir uma saudade imensa da mãe, o que é um símbolo curioso se você pensar no evento traumático, violento e irracional, que acontece no começo da história.
 
-Geralmente o que funciona no filme são as piadas visuais, notadamente a forma usada pelos dois para costurar seus uniformes, pegando cada parte de elementos do cotidiano. Também funciona a participação do engraçadíssimo Héctor Jiménez como Esqueleto (o parceiro de Black), que, não importa o que fale, sempre arranca um riso com sua presunção hilariante. O que não funciona mesmo é a história, que está desprendida em episódios que não ganham impulso algum e estão meramente encadeados em uma sequência que dá a entender que o tal golpe mágico parece estar funcionando.
+Diferente de História contada em sala de aula as circunstâncias aqui são mais fantasiosas e de certa forma mais atraentes, porque apela para nossa visão subjetiva, emocional, de qual foi o real impacto para os habitantes. O exemplo mais impactante é que os nativos que eram mortos naquela época não podiam ser velados pelos obrigatórios três dias de cantos pelos vivos porque o homem branco os ouviriam e os matariam também. Só que isso faz mal para a alma do defunto, que não se aquieta, e pode levantar do túmulo. E nos sonhos mais terríveis isso de fato acontecia.
 
-Ou será que tudo não é fruto de um roteiro preguiçoso que simplesmente vai colocando os heróis sempre um passo mais próximo de suas ambições? Pois é, tudo para que esses comediantes tenham mais um tempinho para mostrar suas caretas e fazer suas esquisitices. Nesse caso, nem isso parece surtir muito efeito.
+A linha entre a morte e a vida é ultrapassada, ou muito tênue. E a saudade dos que ficaram é imensa, de ambos os lados. Só há dores em Nação Valente, e o filme explora o sentimento de dor de vários ângulos. Faz uma sessão dupla boa com Mosquito, outro filme que já passou em Mostras passadas. Se enxerga muita culpa do povo português nessa cinematografia sobre as dívidas do passado. E também se enxerga muita violência. Ao menos eles não têm medo de retratar a brutalidade dos acontecimentos, que choca, mas é por motivo justo.
 

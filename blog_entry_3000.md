@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2018-07-28'
-link: https://www.imdb.com/title/tt1545754
+date: '2016-07-03'
+link: https://www.imdb.com/title/tt1333125
 tags:
 - movies
-title: Para o Que Der e Vier
+title: Para Maiores
 ---
 
-Aparentemente este é um filme sessão da tarde, mas ele tem personagens que são cativantes de acompanhar, seja por eles serem vividos por atores cujas personas já conhecemos ou pelos seus conflitos e desafios serem tão comuns quanto... banais.
+Um projeto que envolve diferentes diretores, roteiristas e atores em torno da comédia "nonsense" que tem algo a acrescentar (ou não) ao humor. O filme vem embalado em uma história central que envolve três jovens em uma busca na internet por um filme proibido que se assistido pode causar um cataclisma mundial -- e que na verdade é uma pegadinha de Primeiro de Abril. Esse é o pano de fundo perfeito para jogar na tela vários curtas com temas bizarros que se aproveitam ou da comédia do absurdo ou, em alguns casos, de um caso de amor entre o surreal e o psicótico. De qualquer forma, o resultado de todas as experiências é frenético, empolgado e que fará pensar, nem que seja por 5 segundos.
 
-Cada um tem o que pensar nesse filme dirigido e escrito por Matthew Weiner, um escritor para TV (Família Soprano, Mad Men). O personagem de Owen Wilson tem um emprego como homem do tempo em sua cidade local e vive de arrumar rolos com mulheres. Ele não sabe o que quer da vida, e gasta boa parte do seu tempo fumando uns baseados com seu amigo interpretado por Zack Galifianakis, que está escrevendo um livro sobre as mazelas do mundo de comida envenenada e a violência contra os animais em um caderno amassado. Quando o pai morre e deixa quase tudo para ele (e não para a irmã, Amy Poehler) para ele deixar se ser "porra louca" isso é motivo o suficiente para ele ficar louco de vez e deixar todos em sua volta preocupados, incluindo sua jovem, linda e perfeita madastra (a linda e perfeita Melissa Rauch, que para muitos vai passar batido, como eu, mas se trata da estranha mas voluptuosa Bernadette da série The Big Bang Theory).
+Talvez toda essa energia tenha sido obtida de um casting genial, seja entre os atores como entre os roteiristas e diretores, a maioria já acostumada com o subgênero "comédias de filmes ruins" (aquele que assistimos com a família e eles acham o máximo). O produtor, Peter Farrelly, e seu irmão Bobby estão acostumados a obras um pouco acima da média, como "Quem Vai Ficar Com Mary?" e "Debi & Lóide". Outros diretores são culpados por "Segurança de Shopping" e equivalentes. De qualquer forma, não apenas os cinco minutos de fama de cada um se torna interessante per se, mas todos eles conseguem achar o seu lugar na "dark web", ou nessa atmosfera pseudo-subversiva de estar navegando na internet procurando por algo proibido.
 
-A dinâmica do filme é questionar os valores e ações de todos envolvidos, onde todos buscam se encaixar, o que já seria combustível para uma boa comédia, mas vira apenas apelo a auto-piedade e um drama existencialista embutido em um filme indie (em sua clássica fórmula de família disfuncional) adaptado para não cair no mais do mesmo.
+É por isso que não estranhamos quando vemos a história do homem com dois testículos no pescoço (Hugh Jackman, ótimo por causa de Kate Winslet) e nem com um encontro rápido entre super-heróis (que usa até metalinguagem, misturando um elenco envolvido com filmes como Homem de Ferro e Homem-Formiga). E se a maioria das gags envolve sexo e escatologia de uma forma mais ou menos doentia, como quando uma garota pede que seu namorado faça cocô em cima dela como algo super-romântico (e onde J.B. Smoove está hilário), outras usam o tema só como pano de fundo para sugerir alguma crítica muito velada a algum estilo de vida ou a uma maneira de pensar, como o que os homens acham das mulheres menstruadas (e onde Chloë Grace Moretz fica impossivelmente jovem) ou "homeschooling".
 
-O bom do filme são as falas, e todos têm oportunidade para dizer ótimas falas. Não me lembro exatamente de nenhuma agora porque elas não estão inseridas em uma história de primeira onde elas busquem um maior sentido, com personagens melhor construídos, com mais profundidade. Mas quem liga? Às vezes me sinto apenas folheando um livro barato de auto ajuda na loja, me inspirando um pouco com perguntas ou respostas sobre o que fazer quando não se tem nenhum problema sério na vida.
+Seja como uma daquelas piadas exageradas que sempre seriam vistas como péssimas em filmes mais longos, ou experimentos que nunca deveriam ser feitos em qualquer trabalho mais ou menos "sério" (com alguns milhões de orçamento), o detalhe é que isso funciona perfeitamente bem no formato proposto, e o filme voa em sua uma hora e meia, quase como um comercial mal-intencionado. E por falar nisso, um bônus são os comerciais "nonsense", que servem como pausas para respirar.
 
-Infelizmente as falas nunca escondem o fato que a estrutura do filme é confusa. Em determinado momento vemos Owen Wilson com problemas com seu cartão de crédito, em vários encontros com mulheres diferentes. Em outro momento ele está na cama com a âncora do telejornal, mesmo tendo se apaixonado pela madastra do amigo. Ao mesmo tempo, Galifianakis faz o revoltadinho clássico (e problemático, uma marca do autor) que faz as pazes com o falecido pai enquanto vai se acostumando em como é ser "funcional" (o que inclui voltar a comer carne).
-
-"Para o Que Der e Vier" se vende como muitas coisas mas é superficial demais em todas elas. Nunca passa de uma folheada inspirada na sessão de auto ajuda de uma livraria. Boas risadas, mas nem lembro mais em quais livros eu dei uma olhada. Procure pelas capas menos vistosas.
+Você pode até achar "Para Maiores" tempo jogado fora; se seu objetivo for assistir uma comédia fora dos eixos do pastelão ou comédia romântica, talvez tenha razão. É um filme de fim de noite, despretensioso do começo ao fim, mas que justamente por isso tem muito mais a oferecer do que piadas pseudo-inteligentes em torno de atendentes de uma loja de conveniência (você não foi convidado, Kevin Smith? ótimo: Seth MacFarlane, de Family Guy, foi).
 

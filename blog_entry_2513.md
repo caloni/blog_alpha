@@ -1,20 +1,24 @@
 ---
 categories:
 - writting
-date: '2020-03-10'
-link: https://www.imdb.com/title/tt9760504
+date: '2019-10-09'
+link: https://www.imdb.com/title/tt7367960
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Ninokuni
+title: Ninja Xadrez
 ---
 
-Uma animação dos Estúdios Ghibli recente, com distribuição Warner e Netflix. Os animadores juntam algumas cenas com computação para aumentar a resolução e construir exércitos de clones. O resultado é pavoroso. Felizmente são apenas alguns momentos.
+Imagine conciliar as histórias de uma criança escrava de um sweatshop morta a pauladas, seguido da vingança de um ninja de pelúcia com o espírito de um guerreiro e, para finalizar, o desafio comum de um garoto apaixonado pela garota popular da escola. Agora responda rápido: quem deve assistir a esse filme? Crianças ou adultos? Seriam crianças com uma mente de adulto ou adultos que adoram humor negro, mas têm um coração de criança (guardado em um pote na dispensa)? Ninja Xadrez é um filme que mistura elementos pesados em uma narrativa infantil, conseguindo agradar, ou melhor dizendo, desagradar, adultos e crianças ao mesmo tempo.
 
-Este filme é baseado em um vídeo game. Sua história é confusa e sem sentido, mas podemos ver suas origens em um Sword Art Online para adolescentes agitados. Também lembra e referencia o clássico D&D, ou Caverna do Dragão para os brazucas, com seu vilão que realiza morph com criaturas horrendas.
+Ele tem uma animação tecnicamente competente, uma trilha sonora até que bacana, mas uma dublagem apática (as vozes que ouvimos nos créditos finais são melhores trabalhadas), impedindo uma conexão com seus personagens. Você não irá se lembrar muito bem dos detalhes da animação cinco minutos após assistir, pois são genéricos demais, cumprindo apenas a função primária de acertar seus estereótipos, seja uma criança tailandesa, um adulto dinamarquês ou um cachorro de raça agressiva.
 
-É um conceito que distrai mais do que sua história. Na meia-hora final há umas reviravoltas e a resolução de um enigma que ninguém percebeu que seria melhor que ninguém tivesse percebido, mesmo. É tanta vergonha que você desejará não ter assistido. É teen até o osso, é inconsequente e inocente no mal sentido. É um jogo de criança nas mãos de animadores competentes.
+Esse é um filme que "revela" as maldades do terceiro mundo ao mesmo tempo que aponta o dedo para a apatia do primeiro mundo, ou alguma similaridade no jogo de poder de ambos. Os vilões são pessoas da vida comum que justificam suas ações com o velho "se não fosse eu outro o faria", e os heróis são o espírito milenar de um ninja protetor de crianças e uma criança que só quer viver em paz na escola e em casa. Mas a criança irá se tornar a exceção a esta regra "se não fosse eu" que torna o mundo cada dia pior. O problema é que quando isso acontece é tarde demais e o filme já acabou.
 
-A vaga ideia de que existem dois mundos conectados pelas suas vidas se torna mais vaga ainda no final, e a pouca simpatia que tínhamos pelos adolescentes genéricos e estereotipados do começo irá passar rapidamente. Há violência e morte como forma de chamar a atenção, mas chega uma hora que nem isso funciona mais.
+Eu não creio que possa recomendar esse filme para pais levarem suas crianças, mas poderia para pessoas que gostam de animações com temática semi-adulta e um certo humor negro que luta para não ir longe demais. É o filme que faríamos quando crianças, mas apenas as que cresceram nos anos 80 e 90 para justificar o politicamente incorreto.
 
-Ghibli pós-Miyasaki vira uma pastelaria de animações que não amadureceram para começar a ser desenhadas. O resultado se torna pior com experimentos em computação para agilizar o que não se deve nunca apressar: o desenvolvimento natural e orgânico de uma obra de arte.
+O diretor Thorbjørn Christoffersen possui a imensa vantagem de colocar a câmera como quiser, mas a desperdiça, pois está viciado nos velhos planos de live-action sem computação. Pior do que isso, em alguns momentos são maus planos, que se unem pela movimentação errada da câmera, confunde o espectador, que ele corrige voltando para planos abertos e mostrando onde a ação se passa tudo de novo. Esta não é uma decupagem para melhor localizar o espectador, mas uma série de story boards que não se imaginou que terminariam em um filme.
+
+As piadas utilizadas por Christoffersen e Anders Matthesen, que assinam o roteiro, são velhas demais, mas você pode rir de algumas se não assistiu muitas animações ou comédias na vida. Para o resto de nós reconhecemos as piadas com um acenar de cabeça. E ficamos imaginando enquanto isso se haverá alguma parte da história que irá nos surpreender. Além disso, o roteiro junta elementos por coincidência, como o garoto é vizinho do empresário malvado e tem o nome idêntico ao do pai da garota que está afim. E quando a ação é movida para os minutos finais, a tensão é chapada, no estilo que o mocinho consegue ou não consegue. Não há elementos secundários para nos entreter. Até uma criança bocejaria se um ninja feito com cashmere não fosse tão fofinho.
 

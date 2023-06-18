@@ -1,25 +1,22 @@
 ---
 categories:
 - writting
-date: '2020-09-26'
-link: https://www.imdb.com/title/tt10168672
+date: '2018-07-18'
+link: https://www.imdb.com/title/tt3606756
 tags:
-- cinemaqui
 - movies
-title: Os Infiéis
+title: Os Incríveis 2
 ---
 
-Os Infiéis captura tão bem a essência das traições do ponto de vista dos homens que deverá acabar sendo mal visto por todos que o assistirem, mesmo que gostem. Desculpem, é a lei. Hoje em dia não dá pra gostar de filmes com muita verdade. Sujeito a multa.
+Se passaram 14 anos desde que Os Incríveis estrearam, também dirigido e escrito por Brad Bird. Na época a Pixar ainda estava engatinhando e emplacando seus maiores sucessos, sempre baseados em uma direção de arte maravilhosa, uma qualidade criativa impecável e elevando o nível da sétima arte pelo bem da arte, e ainda conseguindo ganhar rios de dinheiro em cima disso. Hoje os rios de dinheiro continuam, a direção de arte continua estupenda e a qualidade criativa está entregue a um marasmo que só consegue pedir desculpas para os movimentos sociais, uma atitude que ironicamente é patética e nada heróica.
 
-Com uma hora e meia que passa voando, essa série de curtas protagonizados pelo mesmo elenco em diferentes papéis já tinha sido tentado em um filme de 2012 estrelando Jean Dujardin (nos créditos consta como "levemente inspirado" neste). A mensagem é que homens são mais do mesmo. No final até mulheres são, se você bobear. Os homens vão dominar o mundo ainda. Espera só essa onda de femismo acabar.
+Graças à nostalgia do primeiro Os Incríveis, ou graças ao design caprichadíssimo desta continuação, as primeiras duas cenas de ação protagonizadas pela Mulher-Elástica neste novo filme são de cair o queixo. Filmadas de maneira ágil (uma das vantagens da animação) e com cortes precisos na ação, exatamente o que o primeiro filme fazia de melhor. Porém, entregando uma nova protagonista na marra e de forma preguiçosa colocando diversos heróis lutando juntos no pior sentido que a palavra diversidade tem tomado conta dos cinemas (tem até uma emo agora) as cenas de ação seguinte -- e em especial as do final do filme, que deveriam impactar mais -- são nitidamente inferiores, previsíveis e apenas preenchem um check list do que é esperado de um filme de ação animado com um leque de espectadores de todas as idades.
 
-As piadas não funcionam tão bem quanto as análises instantânea da natureza humana, percorrendo cada afiado diálogo. Você entende que tudo aquilo é um exagero de atuações sobre a eterna guerra dos sexos, mas é tão familiar que parece um documentário.
+O mais triste nisso é que a primeira metade de Os Incríveis 2 nos apresenta uma direção de arte inspiradíssima, que merecia uma história muitas vezes melhor. Conseguindo se equiparar e até ampliar o conceito do super-heroísmo como algo ultrapassado, o mundo onde vive a família Pera é antiquado porque é charmoso, e é high-tech porque é isso que nos dá a liberdade de ação. O charmoso dos anos 60, estilizados desde as figuras geométricas exageradas e os tons pastéis com iluminação amarelada, fora a trilha sonora que homenageia os melhores momentos James Bondianos do Cinema, não cabe aqui em uma história que tenta ser moderninha apenas ganhando pontos de opressão na cartela do bingo da justiça social. E mesmo do ponto de vista estritamente do roteiro, não há tempo suficiente para revelar logo a reviravolta que todos já sabem que vai acontecer meia-hora atrás, mas há tempo para tiradas com a palavra "empoderamento" que não chega a ser ridículo (só de mau gosto, mesmo).
 
-E por que as mulheres se preocupam tanto com a fidelidade dos seus machos? Às vezes fica difícil acompanhar os malabarismos da lógica femista do novo século. Somos independentes, mas não nos machuque nem compartilhe nosso patrimônio com outra mulher.
+Mas não me leve a mal a respeito da discussão de papéis de gênero que o filme copiosamente utiliza. A ideia de inverter os papéis é algo que favorece a criação de uma história diferente da original (apesar dela mesma não ser original em nada), e isso está na lista dos elementos que funcionam no começo. Ao mesmo tempo conseguimos ver (mesmo sem "ver") como a Sra. Incrível era tão boa em cuidar da casa e dos filhos -- isso enquanto acumulava também a tarefa de heroína -- enquanto o Sr. Incrível apenas exibia seus músculos e usava todos os seus poderes: força descomunal. Por outro lado, é tocante, apesar de rápido demais, acompanharmos como ele se empenha, e tenta melhorar como pai, mesmo que conte com um bebê cheio de poderes, um garoto hiperativo e uma pré-adolescente com problemas de... pré-adolescente (e com suas coisinhas de mulher, como um romance bobo com um garoto genérico da escola).
 
-Pera. Nosso?
+Já toda a história envolvendo o legado do casal de filhos de um ricaço que fazia caridade para o super-heroísmo soa logo no começo como algo forçado demais, e as dublagens brasileiras não ajudam em nada. Empregando celebridades do mundo da TV (alguém ainda assiste TV?), como Raul Gil, a caracterização sofre e muito, pois os textos são ditos de maneira vagarosa e nada inspirada, gerando um contraste óbvio com os dubladores profissionais que fazem as vozes dos personagens principais.
 
-Depois de assistido, você irá se lembrar mais do episódio no hotel, porque ele é ágil, verdadeiro e tragicômico na medida certa. A direção de Stefano Mordini flui durante todo o filme, mas nesses minutos seu poder de compactação atinge o máximo. A história beira o surreal, mas todos entendemos o que está nas entrelinhas vermelhas. O macho alfa não pede muitas desculpas e a mulher fica com cara de tonta. A enganada. Mas o que passa despercebido é que o homem não está nem aí que a mulher curta também seus momentos de prazer terceirizado.
-
-Como deveria ser, aliás.
+A Pixar, diferente da Marvel, já não tem a menor condição de continuar seu projeto de diversidade sem retomar as rédeas de um roteiro que seja instigante sem precisar se amarrar a um pacote politicamente correto que atenda todas as demandas das pessoas fora e dentro dos estúdios. Quando a arte é deixada em segundo plano para uma agenda política, nem a pipoca consegue segurar a diversão. Talvez ela esteja com pouco sal por exigência do governo.
 

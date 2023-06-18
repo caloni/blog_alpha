@@ -2,19 +2,17 @@
 categories:
 - writting
 date: '2016-03-20'
-link: https://www.imdb.com/title/tt0099088
+link: https://www.imdb.com/title/tt0096874
 tags:
 - movies
-title: De Volta para o Futuro III
+title: De Volta para o Futuro II
 ---
 
-Encerrando a trilogia da viagem no tempo, o diretor-roteirista Robert Zemeckis vai audaciosamente 100 anos atrás, no velho oeste, para buscar a aventura e a curva dramática de um personagem até então esquecido, mas vital para o sucesso da franquia: o cientista pseudo-maluco Dr. Brown (Christopher Lloyd). Mais audaciosamente ainda, fecha com chave de ouro uma das trilogias mais bem sucedidas do Cinema ao fazer referência à própria Sétima Arte ao brincar com figuras como Clint Eastwood. Alan Silvestri adapta sua música-tema e sua orquestração para a época, e as tomadas tomam um aspecto completamente inusitado do que poderia se esperar de um filme de ficção científica.
+Quatro anos depois do sucesso do filme sobre viagem no tempo, o diretor Robert Semeckis e seu companheiro de roteirização Bob Gale planejam uma continuação em duas partes, o que criaria um desfecho de uma trilogia em dois passos. Para isso, dois roteiros foram produzidos e filmados praticamente ao mesmo tempo.
 
-Talvez o último não seja mais tão científico, mas não há como negar que a ciência está ali, na figura de Emmett Brown. No entanto, mais do que uma aspiração materialista subentendido no primeiro, há aqui uma visão mais espiritual e filosófica do que significa o tempo, e como o destino consegue ser influenciado não apenas por uma engenhoca inventada por um cientista maluco, mas por escolhas que fazemos todos os dias. Não há como saber o que nos espera o futuro, pois a cada dia ele está sendo completamente reescrito.
+O segundo filme, como um reflexo do primeiro, se volta para problemas que ocorrerão na família McFly 30 anos no futuro, o que implica em revisitarmos os mesmos conceitos do filme original com a grande diferença de estarmos visualizando um futuro possível para os idos anos 80, o que dá total liberdade de criação para a direção de arte, que amplia o universo do filme anterior e enriquece o atual com cores vibrantes e ideias e referências que pulam de todo lugar. É possível assistir o filme diversas vezes e ainda assim não encontrar todas elas.
 
-O romance entre Brown e Clara Clayton é instantaneamente encantador. Não à toa, ela é uma professora do interior fascinada por ciência e Julio Verne, assim como Doc. Brown, como convenientemente descobrimos nesse episódio. Marty vira um personagem coadjuvante, embora vital, para selar para sempre no tempo essa amizade que já dura três filmes e incessantes viagens no tempo, isso no espaço de algumas horas (se considerarmos os ganchos entre cada filme, tudo se resumiu a uma tarde no tempo de 1985).
+A trilha sonora do mestre Alan Silvestri, agora já consagrada, recebe um tratamento alternativo, mas mantendo o tema tão vivo na mente dos fãs. A história, a princípio idêntica à primeira, se abre como em um leque e possibilidades em quatro dimensões, e é como se estivéssemos acompanhando uma história que acontece não em três lugares distintos, mas em três tempos, nessa que é a grande virtude do roteiro, que justifica sua aparente complexidade central.
 
-A presença novamente espirituosa de Thomas F. Wilson como Buford "Cachorro Louco" Tannen dá o tom do conflito mais uma vez. É preciso ressaltar a importância de um vilão tão caricato e adorável em todos os três filmes. Sem ele as viagens espaço-temporais de Doc Brown e Marty não seriam as mesmas.
-
-Rodado ao mesmo tempo que Parte II, esse é um filme que mais uma vez se destaca, comprovando que é possível realizar três filmes sobre viagem no tempo, cada um com sua temática e ritmo, usando os mesmos bem construídos personagens. Ele se transforma aos poucos em uma despedida e homenagem ao universo que tanto contribuiu para a Sétima Arte. Adoraria que fossem feitos mais sequências, mas temo que a época da inocência e do humor ingênuo já esteja em algum lugar do passado.
+Esse é o mais complexo dos três filmes, e pode se tornar corrido por boa parte do tempo. Ele passa num instante, o que prova o conceito de Einstein do tempo ser relativo. Também comprova as teorias audio-visuais no Cinema, que comprovam que uma edição eficaz consegue montar uma bagunça no roteiro tão bem composta como este Parte II.
 

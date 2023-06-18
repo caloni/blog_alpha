@@ -1,21 +1,18 @@
 ---
 categories:
 - writting
-date: '2018-10-22'
-link: https://www.imdb.com/title/tt5262162
+date: '2015-05-11'
+link: https://www.imdb.com/title/tt2180411
 tags:
-- cinemaqui
 - movies
-title: Caminhos Magnétykos
+title: Caminhos da Floresta
 ---
 
-A esquerda política está bêbada e isso é ótimo. Em Caminhos Magnétykos a mistura de emoções através de uma distopia opressora nos oferece uma viagem extra-sensorial pelas perdas do passado e a esmagadora realidade do presente. Essa é a forma artística de uma ideologia conseguir se lamentar e se perguntar: onde foi que erramos?
+Eu não gostava de musicais, mas aprendi a gostar através de trabalhos fabulosos do gênero, como Noviça Rebelde e Moulin Rouge. Também posso dizer que gosto de trabalhos menos fabulosos como Chicago. Agora, do mesmo diretor, Rob Marshall, esse Into the Woods mostra claramente quando um musical deixa de ser um filme aceitável: quando se torna insuportável a ideia de mais algum ator cantando.
 
-A história segue as lamentações de seu herói, Raymond Vachs (o ótimo Dominique Pinon), um artista francês fracassado que testemunha o casamento da filha com um magnata da Nova Ordem (mundial?) para lhe dar um futuro "digno". Mas o que é digno disso tudo que estamos vivendo, ele se pergunta enquanto reencontra amigos de quando era um revolucionário e se sente ainda pior. Além de ser preso.
+Mesmo com a participação bem especial de Meryl Streep como a bruxa má, o filme não se sustenta ao tentar juntar diversas histórias do folclore infantil -- Chapeuzinho Vermelho, Rapunzel, Cinderela, João e o Pé de Feijão, entre outros -- e se enxergar através da sempre distorcida lente da fábrica de ingenuidades repetitivas Disney. Mesmo que a primeira metade fosse passável, o que ocorre depois alonga tanto uma experiência já arrastada, que se torna enfadonha, mais do mesmo, aborrecida e revela uma falta de criatividade problemática em toda sua longa conclusão. Tudo em prol de deixar o destino de seus personagens menos doloroso. Ou seja, retira-se o conflito, coloca-se mais música e tudo se resolve. Era só isso? Então para quê tanta história? Até uma leve traição colocaram!
 
-As metáforas se acumulam junto com as referências (como a ridícula, mas engraçada, sobre Donald Trump), assim como as mensagens psicodélicas em um emaranhado de fades em cenários que não importam, são nulos. Internamente são paredes com luzes básicas as iluminando. No mundo lá fora é noite em um escuro infinito, onde apenas os prédios do governo são iluminados ostensivamente. Os outros são ruínas de uma outra Era que já não existe mais.
+Disney: menos moralismo, mais esperança. Talvez se você conseguisse focar um pouco mais na performance dos seus atores, que estão até que razoáveis, mas difíceis de enxergar nos planos super-abertos de Rob Marshall, que evita até que vejamos a transformação na face da bruxa interpretada por Streep. E até Lilla Crawford como uma chapeuzinho vermelho menos encantadora parecia prometer mais do que as inúmeras e repetitivas canções. Canções essas que não me recordo nenhuma estrofe após o final do filme. Uma perda de tempo para meus ouvidos. E por falar em perda de tempo, uma perda de tempo da visão para uma floresta que é tão escurecida pela computação que fica difícil entender que existem árvores em volta. O que dirá um reino.
 
-O filme faz o uso indiscriminado de fades em torno da figura de Raimundo -- pelo nome representa o mundo? -- olhando estupefato e bêbado para as loucuras do totalitarismo de 1984 versão Extrema Direita. Isso fica claro em seu líder, nas TVs de toda casa, maquiado como um fantoche, repetindo palavras de ordem: "dissidência é traição", "liberdade é paz". O bom de "Caminhos..." é que ele é tão fácil de decifrar que se torna uma imersão divertidíssima participar da brincadeira.
-
-Os próprios revolucionários do filme são caricatos, demonstrando um senso de humor ímpar em assuntos tão caros no meio político e ideológico. Nós os vemos como espiritualistas malucos que enxergam o homem nas estrelas, mas que se limitam a ler a sorte no amor de pessoas comuns. Seu líder é ninguém menos que Ney Matogrosso, e seu hino, Rosa de Hiroshima. O ápice da loucura quando ele canta. E da beleza também, por que não. Uma beleza trágica, melancólica, mas por isso mesmo intensa e marcante. O senso estético dessa produção luso/brasileira é simples, mas eficiente.
+No final, a impressão que temos é que uma peça da Broadway foi pasteurizada em um filme sem sal, em um roteiro que precisa de todas as formas ligar as pontas em prol de uma lição de moral, e que com essas duas problemáticas se esquece dos closes em seus atores, do polimento nas letras de suas músicas, no ritmo de suas canções e de suas ações.
 

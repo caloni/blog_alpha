@@ -1,16 +1,22 @@
 ---
 categories:
 - writting
-date: '2013-12-30'
-link: https://www.imdb.com/title/tt0319061
+date: '2016-03-29'
+link: https://www.imdb.com/title/tt0837156
 tags:
 - movies
-title: Peixe Grande e Suas Histórias Maravilhosas
+title: Pee-wee's Big Holiday
 ---
 
-Mais um da série "filmes fofos para ver com a família", Peixe Grande explora o conceito da Verdade (que não existe sem uma versão) com um argumento dos mais sensacionais: o que distingue os fatos dos "causos" contados por nossos pais, tios, avós? Um causo é uma série de fatos contada com emoção?
+Uma experiência lúdica que infelizmente se entrega ao televisivo. Pee-wee Herman já é um personagem conhecido, um misto cômico de Bob Esponja e Mr. Bean que não consegue desempenhar bem nenhuma dessas personas (e se pudesse, seria uma simples cópia) e o resultado é muitas vezes o inverso, tal qual aquele palhaço que vimos na infância e nos apavorou por noites seguidas em nossos piores pesadelos.
 
-Como sempre o diretor Tim Burton tem uma história para adaptar que eleva esse conceito ao absurdo: as histórias fabulosas que seu filho, agora repórter, teve que ouvir durante sua infância de seu pai são tão inverossímeis que o distanciaram de quem seu pai realmente era? Ou a mente humana não vive sem o seu filtro criativo que torna tudo mais interessante ou até impute significado onde antes não havia?
+O que torna Bob Esponja divertido são as piadas com fundo do mar, que flerta inocentemente com a visão adulta da criança dentro de nós. Mr. Bean é uma crítica ácida à arrogância do britânico estereotipado. Pee-wee não consegue ser nem tão inocente quanto Bob Esponja e nem tão digno de pena quanto o atrapalhado personagem de Rowan Atkinson.
 
-Toda história precisa ser contada através de uma versão. No Cinema isso é verdade inclusive nos documentários. Por que na vida deveria ser diferente?
+O filme se trata de um road movie em que Pe-wee sai pela primeira vez de sua cidadezinha pacata e previsível. O rapaz chega a criar uma maquete da cidade e na sua saída um senhor atualiza o número de habitantes sempre que passa pela fronteira.
+
+Seu destino é a oposta Nova York, cosmopolita e lar de Joe Manganiello, com quem fez uma amizade instantânea quando ambos descobriram que possuem várias coisas em comum, incluindo um doce chamado "barrilzinho doce".
+
+Pee-Wee pode ser doce e inocente. Esse não é o problema. O problema é quando o filme se trata como doce, inocente e infantil. Infantil demais. Não chega a entreter uma criança, e dificilmente irá ganhar as graças de um adulto.
+
+As personagens que desfilam são episódicas, passageiras e tão improváveis quanto Pee-Wee, mas mais uma vez, isso não é um problema. O problema é que elas são estereotipadas, previsíveis e enfadonhas exatamente como a cidade em que Pee-Wee vive, tornando sua aventura uma simples extensão de seu quintal.
 

@@ -1,28 +1,20 @@
 ---
 categories:
 - writting
-date: '2016-02-27'
-link: https://www.imdb.com/title/tt1431045
+date: '2016-03-20'
+link: https://www.imdb.com/title/tt0099088
 tags:
 - movies
-title: Deadpool
+title: De Volta para o Futuro III
 ---
 
-A fórmula Marvel de produzir super-heróis enlatados é tão maldita que só um filme como Deadpool, que brinca com toda a produção desses mesmos enlatados, para conseguir se desvencilhar, ainda que parcialmente, dos seus outros filmes lançados a balde.
+Encerrando a trilogia da viagem no tempo, o diretor-roteirista Robert Zemeckis vai audaciosamente 100 anos atrás, no velho oeste, para buscar a aventura e a curva dramática de um personagem até então esquecido, mas vital para o sucesso da franquia: o cientista pseudo-maluco Dr. Brown (Christopher Lloyd). Mais audaciosamente ainda, fecha com chave de ouro uma das trilogias mais bem sucedidas do Cinema ao fazer referência à própria Sétima Arte ao brincar com figuras como Clint Eastwood. Alan Silvestri adapta sua música-tema e sua orquestração para a época, e as tomadas tomam um aspecto completamente inusitado do que poderia se esperar de um filme de ficção científica.
 
-É por isso que até seus créditos iniciais brincam com o processo de escalação, apresentando os personagens pelos seus estereótipos, tais como Um Cara Durão, Um Vilão, Um Personagem Feito de CGI, Uma Gostosa. Mais do que isso: declara que os roteiristas é que são os verdadeiros heróis.
+Talvez o último não seja mais tão científico, mas não há como negar que a ciência está ali, na figura de Emmett Brown. No entanto, mais do que uma aspiração materialista subentendido no primeiro, há aqui uma visão mais espiritual e filosófica do que significa o tempo, e como o destino consegue ser influenciado não apenas por uma engenhoca inventada por um cientista maluco, mas por escolhas que fazemos todos os dias. Não há como saber o que nos espera o futuro, pois a cada dia ele está sendo completamente reescrito.
 
-Nada mais justo: realizando a façanha de através da meia-hora mais criativa e envolvente que um filme de herói tem há alguns anos, é de lá que saem os melhores diálogos, as melhores construções de personagem, os melhores ganchos para o resto do filme e a melhor quebra de quarta parede já vista em uma produção do sub-gênero, e que ainda por cima insiste em ser bem-humorado enquanto estoura miolos, arranca cabeças e esmaga corpos humanos.
+O romance entre Brown e Clara Clayton é instantaneamente encantador. Não à toa, ela é uma professora do interior fascinada por ciência e Julio Verne, assim como Doc. Brown, como convenientemente descobrimos nesse episódio. Marty vira um personagem coadjuvante, embora vital, para selar para sempre no tempo essa amizade que já dura três filmes e incessantes viagens no tempo, isso no espaço de algumas horas (se considerarmos os ganchos entre cada filme, tudo se resumiu a uma tarde no tempo de 1985).
 
-E tudo isso seguindo à risca o processo de engessamento de histórias aplicado pela Marvel. É possível sentir a tensão que deve ter havido entre os roteiristas e entre quem estava com o dinheiro. Sim, os roteiristas serem os verdadeiros heróis faz todo o sentido para mim.
+A presença novamente espirituosa de Thomas F. Wilson como Buford "Cachorro Louco" Tannen dá o tom do conflito mais uma vez. É preciso ressaltar a importância de um vilão tão caricato e adorável em todos os três filmes. Sem ele as viagens espaço-temporais de Doc Brown e Marty não seriam as mesmas.
 
-Os fãs devem dizer (ouço falar) que esse personagem merece o tratamento 18 anos (ou 16, no caso do Brasil) porque sem a violência gráfica seria impossível produzir um filme com ele. A violência existe, sim, e é desferida não a robôs vindos de outra galáxia ou qualquer coisa feita por computador, mas humanos. Genéricos, irrelevantes, mas humanos.
-
-Outro ponto é que a violência é apenas violência. O "herói" Deadpool mata e ameaça pessoas, mas não passa de uma versão Peter Parker com uma moral bem flexível. E seu passado provavelmente conturbado até tenta explicar esse seu lado negro, mas não sem um propósito: ele conhece uma prostituta... quer dizer, dançarina... quer dizer, só garçonete de boate, mesmo. Ambos tem um passado pesado, e é isso. No processo até tenta se desculpar pelo conteúdo machista e... convenhamos, de controverso, quase não sobra mais nada. Ele é um herói mutante que não quer se vestir de amarelo com os X-Men. Ponto.
-
-E, se for pensar, o que mais cansava em todos os heróis é essa tendência mágica e sobrenatural de praticar o bem (e é um bem livre de qualquer suspeita, BTW). Ate Homem de Ferro foi "corrompido" pelo câncer do politicamente correto. São tempos sombrios para figuras como Dead Pool.
-
-E uma das grandes sacadas de casting é colocar Ryan Reynolds como o herói. Sua objeção a um uniforme verde (ele foi Lanterna Verde) e seu histórico de galã (não à toa, foi casado com Scarlett Johansson) favorecem esse jogo de anti-herói e sua aparência desfigurada. Tudo converge harmoniosamente para um anti-filme da Marvel.
-
-E é por isso que o terceiro ato é tão decepcionante. Não pelas lutas, que são divertidinhas. Nem pelos efeitos, impressionantemente feitos em computador. O que decepciona mesmo é a volta para a normalidade, o previsível e o risco zero. Já sabemos tudo que vai acontecer desde o momento em que A Gostosa é raptada. Isso é para acabar com os poderes de qualquer mutante. E eu não colocaria dessa vez a culpa nos roteiristas.
+Rodado ao mesmo tempo que Parte II, esse é um filme que mais uma vez se destaca, comprovando que é possível realizar três filmes sobre viagem no tempo, cada um com sua temática e ritmo, usando os mesmos bem construídos personagens. Ele se transforma aos poucos em uma despedida e homenagem ao universo que tanto contribuiu para a Sétima Arte. Adoraria que fossem feitos mais sequências, mas temo que a época da inocência e do humor ingênuo já esteja em algum lugar do passado.
 

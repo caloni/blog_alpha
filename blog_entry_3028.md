@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2016-12-04'
+date: '2018-11-10'
 tags:
-- beer
-title: Patagonia Amber Lager
+- wine
+title: Pata Negra
 ---
 
-Pouco densa, pouco amarga e pouco doce; uma combinação equilibrada.
+Tempranillo 2016 é uma opção tão boa e leve que dois trouxeram para o rolê. Como se o Cabernet decidisse ter um pouco mais de frescor e personalidade.
 

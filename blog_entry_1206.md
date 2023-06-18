@@ -1,22 +1,23 @@
 ---
 categories:
 - writting
-date: '2011-02-17'
-link: https://www.imdb.com/title/tt1228987
+date: '2018-03-24'
+link: https://www.imdb.com/title/tt6423776
 tags:
+- cinemaqui
 - movies
-title: Deixe-me Entrar
+title: Deixe a Luz Do Sol Entrar
 ---
 
-Apesar de ser um remake, e os diálogos, os cenários e muitos ângulos se assemelharem ao original sueco de 2008, o filme estabelece seu próprio estilo baseado principalmente na trilha sonora, na fotografia e na maneira peculiar do diretor Matt Reeves contar um romance-terror entre dois jovens. Eu diria mais: o filme, do ponto de vista estético, empolga em um nível suficiente para renovar o defasado gênero de terror.
+O estado de luto pró-ativo, ou limbo, é onde a personagem da agradabilíssima Juliette Binoche está, devaneando em torno de inúmeros homens. Mas ela não morreu, nem seu companheiro. Não se trata de um detalhe da história de fato, mas uma das inúmeras metáforas que vamos colecionando no decorrer de "Deixe a Luz do Sol Entrar". Vestida sempre de preto com detalhes escuros ela se senta eternamente nessa montanha russa de emoções aguardando por alguém que a preencha.
 
-A trilha sonora, por exemplo, segue o ritmo das descobertas de Owen, o garotinho solitário de pais divorciados que costuma cantarolar no deserto playground do prédio onde mora, acerca de sua nova amizade, Abby, uma menina que aparenta ter sua idade e muitos segredos por trás do seu jeito estranho de se relacionar. Essa estranheza mais uma vez é destacada pela música, que aos poucos transforma suas notas nas combinações clássicas de terror dos anos 80.
+Como os recorrentes momentos que a vemos como uma passageira olhando pela janela sugerem. Essa visão que a diretora Claire Denis nos faz captar por insistência serve tanto como a figura de uma mulher que aguarda, às vezes de maneira impaciente, ser levada para a felicidade, e ao mesmo tempo a óbvia passagem do tempo, e como o acúmulo de experiências apenas evidencia a falta de um final para seu problema de solidão.
 
-Já a fotografia não poderia ser mais adequada para a história que conta. Com tons sombrios, e inclusive personagens que surgem das sombras ou vistos apenas pela silhueta, a iluminação praticamente escancara o estado de espírito das duas crianças e, inclusive, da própria cidade, que parece viver um período turbulento de assassinatos.
+Ao buscar alguém que se importe, mas onde todos aparecem em sua vida com uma falta de sincronia angustiante, ela quer amar e ser amada, mas não consegue se fazer entender. A interpretação de Binoche é de uma mulher madura e sexy incapaz de encontrar o verdadeiro amor. Os homens que ela encontra são narcisistas e hedonistas, ávidos em projetar seu ser e bem-estar na pobre mulher que chora sozinha todas as noites.
 
-Com uma direção sincronizada com a direção de arte, que compõe elementos nos cenários que por si só já explicam muito mais que os econômicos diálogos, temos um terror mais sombrio do que se fosse explicado verbalmente. (Quando vemos Owen olhar para a foto da pequena Abby, por exemplo, muitos sentimentos e pensamentos vem à mente do espectador. E isso sem nenhuma fala.)
+Este é um filme bem francês, se é que me entende. Ele conta com uma trilha sonora discretamente melancólica e tons sisudos da fotografia exaltam a cor da pele das pessoas, ou a luz que reflete sobre elas. Há um quê de Godard em subverter a linguagem cinematográfica esperada, buscando aquele real do dia a dia, dos cafés de Paris. Qualquer um que já tenha pulado entre diferentes relacionamentos em tempo recorde, ou os vivido ao mesmo tempo, entende essa insegurança de não estar aproveitando seu tempo ao lado de alguém significativo. Todos são temporários, mas o pior: incompletos.
 
-No entanto, a cena que mais gosto é quando Abby abraça Owen por trás, em um enquadramento que poderia muito bem resumir toda a trama de forma impecável. As participações sensíveis dos atores-mirins Kodi Smith-McPhee (Owen) e Chloe Moretz (Abby) tornam a experiência mais rica possível. E é muito bom rever Hit-Girl (Kick-Ass) de volta à ativa.
+Essa é a maneira que Binoche vive, e daí toda sua tristeza existencial serve de filtro para analisar seus relacionamentos. Um ator faz um banqueiro acostumado a mandar em pessoas. Ele manipula sua amante como manipula um barman enquanto faz pedidos específicos demais para satisfazer seu mimado ego. Já outro ator interpreta um frustrado consigo mesmo por não conseguir se despedir de sua esposa e seu casamento falido, e ao mesmo tempo não consegue simplesmente calar a boca e beijá-la. Os momentos entre os dois no filme são os mais exemplares de como um relacionamento não deve começar nem continuar.
 
-Com a única cena insuperável no original sendo a conclusão na piscina (que no original consegue um ângulo e iluminação em que podemos "ver" toda a ação se desenrolando de um único ponto de vista), o novo Deixe-me Entrar surge como uma prova de que não devemos ter preconceitos quanto aos remakes americanos de filmes falados em outro idioma. Ainda que de vez em quando assistamos pavorosas produções.
+A surpresa fica por conta do final, onde Gérard Depardieu aparece em um personagem de fechamento. Este é um filme com ótimos diálogos que discutem o que é estar junto com alguém pra valer, mas que ironicamente não consegue sustentar o diálogo tempo suficiente para estruturar nossos pensamentos. Ele vai se tornando caótico e ruma em direção ao esotérico. Se torna ofensivo como resposta a uma busca tão sincera de Binoche.
 

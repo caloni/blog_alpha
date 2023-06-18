@@ -1,16 +1,14 @@
 ---
 categories:
 - writting
-date: '2011-12-25'
-link: https://www.imdb.com/title/tt0388419
+date: '2014-04-05'
+link: https://www.imdb.com/title/tt0961097
 tags:
 - movies
-title: Um Natal Muito Muito Louco
+title: Um Monstro em Paris
 ---
 
-Tim Allen, de Meu Papai é Noel (1 e 2), em mais um filme de natal, dessa vez com Jamie Lee Curtis (True Lies) e roteiro de, quem diria, Chris Columbus! (Os Goonies, Gremlins, Nove Meses)
+Uma animação francesa de alta qualidade em sua direção de arte, movimento dos personagens e números musicais que são bonitinhos por natureza, mas às vezes parecem mal trabalhados pela artificialidade do ritmo (talvez uma câmera aqui e ali resolvessem, mas a maioria dos números insiste em se manter na visão da plateia). É uma história batida a respeito de um monstro que surge na cidade de Paris na época em que ela abrigava ninguém menos que George Méliès, o mago da arte cinematográfica que tinha acabado de nascer e que foi homenageado recentemente no arranca-lágrimas Hugo Cabret.
 
-A ideia principal é resgatar o senso de comunidade que o Natal propicia, só que o filme começa ao contrário, mostrando a pressão que essa mesma comunidade faz para que todos levem a sério essa época do ano, não sendo permitido sob as suas leis, mudar isso para, por exemplo, tirar umas férias em um lugar mais quente.
-
-Porém, quando um plot twist esmagador ocorre praticamente no terceiro ato da história, é a partir daí que é construído esse senso de comunidade.
+O curioso da história é que o monstro na verdade é uma pulga superdesenvolvida, e isso é curioso porque boa parte dos truques de Mélès envolviam a ainda-não-velha técnica da perspectiva forçada: coloque uma lupa em um inseto e ele vira um monstro (ou um borrão, se formos realistas chatos). O batido da história é que há dois casais que com certeza ficarão junto no final do filme e sequer temos paciência de esperar isso acontecer. Podemos dizer que o roteiro se auto-sabota quando coloca essa questão em foco. O que salva realmente é a criatividade dos realizadores, principalmente a direção, que transforma o encontro entre o monstro e uma bela cantora do final da Belle Époque em um ponto forte.
 

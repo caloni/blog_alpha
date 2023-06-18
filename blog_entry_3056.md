@@ -1,22 +1,24 @@
 ---
 categories:
 - writting
-date: '2015-12-04'
-link: https://www.imdb.com/title/tt1524566
+date: '2017-01-22'
+link: https://www.imdb.com/title/tt0449059
 tags:
 - movies
-title: Perdida
+title: Pequena Miss Sunshine
 ---
 
-Esse documentário de colagens charmosas tenta resgatar do passado longínquo toda a história de uma família de cineastas, de sua ascensão até os diferentes declínios, como o fim de uma grande fortuna.
+Na época o que mais havia eram filmes independentes sobre famílias disfuncionais. Isso virou um sub-gênero que até hoje é a base de muitos trabalhos, autorais ou não. Porém, Pequena Miss Sunshine aproveita este tema para desenvolver uma crítica ácida e bem-humorada sobre a cultura norte-americana, que divide a sociedade em vencedores e perdedores. Este filme celebra o fracasso não como um ato subversivo, mas como uma forma de dizer que vencer pode ser alguma coisa na vida que não necessariamente ganhar um troféu.
 
-Irônico é que a diretora é neta e bisneta desses cineastas, e através de sua pesquisa, que pretende resgatar evidências escondidas de quem foram seus descendentes e seus esquecidos feitos -- entre eles, mais de 150 filmes -- esconde-se também a história igualmente esquecida do Cinema Mexicano das décadas de 20 a 50, chegando até seu período pornográfico. Sim, houveram pornochanchadas por lá também.
+A história gira em torno do personagem da ainda jovem Abigail Breslin, que foi indicada ao Oscar pela sua atuação natural de Olive, uma garota empolgada com os concursos de Miss e que ganha uma vaga em um concurso estadual. Isso exige a presença de todos em uma viagem dentro de uma kombi: o avô expulso do asilo, o pai vendedor de curso de auto-ajuda, o tio gay que acabou de tentar suicídio, e o irmão obcecado em largar aquela família disfuncional o mais rápido possível.
 
-O filme começa com uma surpresa da diretora: um rolo de filme guardado em um porão mostra sua bisavó ainda criança, dançando. O pensamento fixo que se instala em sua mente é: como seus parentes tinham posses o suficiente para ter uma câmera naquela época? Essa dúvida já explica que houve uma verdadeira reviravolta na história dessa família, que vai se confundindo com a evolução do comércio cinematográfico no país.
+A primeira coisa que impressiona no filme é a maneira que o roteirista Michael Arndt faz para que tematicamente entendamos que aquela família é obrigada a permanecer junta, esquecendo todas suas diferença. O carro deles quebra, exibindo que para conseguir dar a partida todos empurrem o carro e entrem nele em movimento. Aqui entram os enquadramentos belíssimos da dupla de diretores Jonathan Dayton e Valerie Faris, que não precisa muito dos diálogos de Arndt para explicar como aquelas figuras acabam sendo um microcosmos que exemplifica a vida em sociedade.
 
-Desconhecendo o passado glorioso de sua família, convenientemente ignorado pelo governo mexicano -- que em determinado momento fechou todas as produtoras para no lugar produzir "filmes mais refinados do que a indústria estava produzindo" (sim, lá também há a péssima ideia de uma Ancine) -- a história dessas pessoas demonstra como o México foi, em determinados momentos, um polo tão ou mais importantes que seus vizinhos na Califórnia. Com público e prestígio o suficiente, as salas de cinema frequentemente eram circundadas de filas pelo quarteirão. Astros da indústria apareciam nas exibições. O sucesso permitia cobrar ingressos populares, ou até exibições gratuitas, para as crianças. Tudo jogadas de marketing sensacionais à época (as crianças serviam de chamariz para o público adulto).
+Porém, ainda assim, são os diálogos e as situações engendradas no filme que conseguem abrir espaço para atuações memoráveis de Paul Dano, Abigail Breslin, Toni Collette, Steve Carell (que mostra sua competência no drama) e Alan Arkin, que se despe de boa parte de sua persona para criar uma figura surreal e ainda assim completamente palpável: um velho que não dá a mínima para onde está, desde que esteja com sua heroína e sua liberdade. E, como um gesto para as próximas gerações, ensina secretamente a sua neta a se livrar das amarras opressivas das opiniões dos outros.
 
-Porém, como todo documentário pessoal, este se perde em alguns detalhes que nada têm relação com a trajetória comercial da família -- e a insistência do filme em buscar detalhes do romance entre a avó da diretora e um ator famoso é claramente uma jogada de marketing da própria cineasta, provando incidentalmente que a mente para negócios ainda flui pelo sangue da família. No entanto, esses são pecadilhos frente ao trabalho impressionante em esmiuçar detalhes da época, principalmente os que envolviam decisões estratégicas, e possivelmente ameaças de um conglomerado de salas que buscava instaurar um monopólio forçado no país. O uso de imagens mescladas com fotos dos "envolvidos" é uma das melhores sacadas que confere um dinamismo invejável para um documentário.
+Há cenas memoráveis até hoje, como a do sorvete de chocolate e do daltonismo. São esses momentos que garantem o sucesso no tempo deste filme de mais de 10 anos atrás e que permanece intacto. Porém, ele merece ser assistido em sua totalidade, sem pausas, para que sintamos toda a tensão e o estresse da situação, para que se justifique cada medida desesperada da família.
 
-No conjunto da obra, mesmo com sua fluência irregular, mas com detalhes cativantes, Perdida se aproxima mais de trabalho de historiador essencial do que um filme pessoal, podendo servir de inspiração para muitos futuros produtores, mexicanos ou não. Se eles não se sentirem, é claro, incomodados pela truculência do estado e seu exército de intelectuais míopes para a indústria cinematográfica. É inútil resistir, porém. Vez ou outra, toda a pungência de uma indústria fica à mercê de quem tem muito poder e nenhum critério.
+(Ah, de quebra, surgem pontas de Bryan Cranston e Dean Norris, que serão cunhados na série Breaking Bad. É um passatempo para quem ainda não assistiu descobrir onde eles irão aparecer.)
+
+Pequena Miss Sunshine não deixa de ser um filme indie sobre uma família disfuncional, mas faz isso carregando na bagagem um tema sensível à cultura americana, e o desconstruindo aos poucos. Pode não ser tão sutil, pode não ser tão completo, mas é sucinto e visualmente arrebatador.
 

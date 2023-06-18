@@ -1,18 +1,19 @@
 ---
 categories:
 - writting
-date: '2021-04-04'
-link: https://www.imdb.com/title/tt3498252
+date: '2012-10-25'
+link: https://www.imdb.com/title/tt1643222
 tags:
-- animes
-title: Inferno Cop
+- mostra
+- movies
+title: Inferno
 ---
 
-Está é uma sucinta e viciante ONA (Original Net Animation) dos Studios Trigger, os mesmos dos instigantes [Kill La Kill] e [Space Patrol Luluco]. Ela vicia por ser curta e não ser repetitiva. Lembra um pouco os devaneios de trabalhos experimentais como [Kung Fury], mas com coesão e sem apelar para as memórias populares do trash. É uma história simples com profundidade criativa sem se preocupar em ferir mentes e gostos. Foi um dos 30 animes banidos recentemente da China, o que apenas aumenta seu status.
+Um Inferno cresce bem, como qualquer trabalho de terror/suspense bem executado. O que fortalece o primeiro trabalho do diretor Tim Fehlbaum como trama, porém, é o uso sem ressalvas de um dos seus personagens mais importantes: o sol.
 
-Seus traços remetem a comics norte-americanos como Tex e não está preso ao Japão. É uma história universal sem aparente sentido sobre bem e mal, justiça e liberdade. Em suas aventuras desvairadas e imorais encontra-se uma raiz niilista e ao mesmo tempo significativa de uma busca incessante por algo que valha a pena lutar. Seu sacrifício final é a fagulha de um bem acima de leis e acima de papéis prontos de vitimas, bandidos e mocinho.
+Acompanhamos a peregrinação de duas irmãs e um rapaz dentro de um carro completamente vedado através de um cenário que lembra um deserto, mas que possui estradas, florestas e postos de gasolina. Descobrimos que acontecimentos ainda não entendidos fizeram a temperatura na Terra chegar a níveis que matou boa parte da população por queimaduras e sede. Em um habitat agora seco, árido e sem leis, a busca por água é mandatória.
 
-[Kill La Kill]: {{< relref "kill-la-kill" >}}
-[Space Patrol Luluco]: {{< relref "space-patrol-luluco" >}}
-[Kung Fury]: {{< relref "kung-fury" >}}
+O uso de uma fotografia que prioriza em absoluto a luz incandescente vinda do sol e que consegue oscilar para um escuro débil de noite é a chave para que sintamos o mesmo que seus personagens. O sentimento de urgência de início é representado por uma câmera inquieta cheia de zooms, que felizmente é interrompida quando o grupo é abordado por um bando de homens que por algum motivo vem capturando os aventureiros por aquelas bandas, que geralmente chegam sedentos e debilitados. O esclarecimento dos mistérios é feito sem pressa e com uma cadência que cria tensão pelas complicações crescentes que prenunciam um terror completo. Os personagens, diferente de suspenses medíocres, não são estúpidos, nem as soluções para os conflitos vem de maneira fácil e mágica. Cada novo passo em direção ao terror possui suas complicações, que se desencadeiam em direção a uma perseguição climática das mais estonteantes, mais uma vez protagonizado pelo sol.
+
+O jogo de cenas é rápido o suficiente para que as pistas-recompensas surjam naturalmente, o que é um ponto forte para a conclusão, que não soa forçada. De uma maneira completamente inusitada, cria uma rima sutil com a animação Padak, do coreano também estreante Lee Dae Hee, que igualmente brinca com a busca pela liberdade de um grupo. Pode ser uma tendência contemporânea ou é a vida pregando na arte a sua ironia.
 

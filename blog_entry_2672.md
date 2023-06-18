@@ -1,20 +1,18 @@
 ---
 categories:
 - writting
-date: '2014-02-07'
-link: https://www.imdb.com/title/tt0118715
+date: '2015-01-18'
+link: https://www.imdb.com/title/tt2278388
 tags:
 - movies
-title: O Grande Lebowski
+title: O Grande Hotel Budapeste
 ---
 
-Um filme é basicamente contar uma história. A forma como você conta é que pode fazer toda a diferença entre um pedaço inútil de película (ou bits) ou um grande filme que, faça rir, faça chorar, mas, principalmente, faça pensar.
+Wes Anderson sendo, como sempre, Wes Anderson, pode prejudicar um pouco seus trabalhos com seu enquadramento engessado e seus cenários surrealmente coloridos. Porém, quando o material se encaixa em seu estilo, temos um resultado espetacular. Como é o caso desse O Grande Hotel Budapeste, cuja história remete a um país meio Leste Europeu, meio Oriente, e que contém elementos fantasiosos que remetem justamente ao mundo que o diretor possui em sua mente.
 
-E é com esse ímpeto narrativo que O Grande Lebowski, dos irmãos Coen (Um Homem Sério, Onde os Fracos Não Têm Vez), consegue subverter o clímax final de uma história que diverte do começo ao fim e entrega tantos momentos icônicos que depois de duas horas você ainda está pronto para mais umas dez. Falando de comédia, cujo gênero produz filmes que não costumam passar de uma hora e meia, esse é um feito e tanto.
+A história contém quatro camadas muito bem definidas, sendo que as duas primeiras apenas encobrem o pano de fundo de um livro. Seu autor (Tom Wilkinson) narra a conversa entre o atual dono do hotel e um jovem escritor (Jude Law) explicando como ele conseguiu sua posição. A partir daí vamos para a quarta camada onde se encontra a história de fato, uma história de amizade e lealdade entre M. Gustave (Ralph Fiennes), o dono do hotel na década de 30, e Zero (Tony Revolori), o recém-contratado Lobby Boy. Essa camada é dividida em partes, de forma que toda a estrutura está disposta em compartimentos que Wes Anderson apresenta com uma riqueza infinita de detalhes e cores. Cores tanto no sentido físico quanto metafórico, como as sutis expressões dos participantes desse longo conto.
 
-Diferente da obra-prima Fargo, aqui não existe aquela parte tensa do drama familiar. O Lebowski do filme, ou, como ele prefere ser chamado, "O Cara", vive sozinho, e seus parceiros no boliche são o mais próximo que ele poderia chamar de família. Para um protagonista cujo narrador em off (Sam Elliott) apresenta como que detentor de grandes feitos (apesar de não afirmar isso), ele é bem idiota. Um hilariante e surpreendente idiota Jeff Bridges (Tron: O Legado, Bravura Indômita, também com os irmãos Coen). Porém, o que o filme nunca faz é debochar de nosso herói. Pelo contrário: nos impressionamos cada vez mais com as reviravoltas de uma trama simples que vai aos poucos acrescentando mais e mais personagens (com um ótimo elenco), onde facilmente percebemos a bagunça que se forma na cabeça do confuso Cara.
+Narrando as desventuras da dupla, é impressionante como cada novo evento consegue se encaixar com o próximo com o uso da trilha sonora, de objetos de cena (cartas, cartões, etc) e com a própria estrutura de camadas já citada. Dessa vez, até o uso de atores famosos é relevante, pois em uma sala lotada de pessoas interessadas na leitura de uma herança, olhar para rostos conhecidos já nos dá dicas de quais serão os personagens que irão participar por mais tempo dos acontecimentos entre M. Gustave e Zero.
 
-Como todo filme dos diretores/roteiristas, esse é daqueles com uma fotografia estilizada ao máximo com uma seleção de músicas e referências que nunca cansam. A história se passa nos anos 70 ou 80, o que não importa muito exceto pela falta de celulares. Mesmo contando com um roteiro não-ortodoxo, o filme entrega os velhos clichês do mocinho fazendo sexo ou se encontrando com o chefão da maneira mais divertida possível. Não é à toa que a casa do magnata da pornografia lembre o covil de um dos inúmeros vilões de James Bond, com o detalhe que nesse caso estamos falando de um 007 às avessas.
-
-No final, é surpreendente que todas as lacunas de uma história recortada (leia-se sem pé nem cabeça) vá se fechando sempre da maneira mais plausível e provável. Ao concluir toda uma trajetória torta nunca nos surpreendendo faz nos sentir quase como idiotas. Porém, essa é mais uma das inúmeras virtudes do roteiro. Afinal de contas, não é esse o objetivo de toda narrativa "épica": nos fazer sentir como o herói do filme?
+Dessa vez, como havia acontecido na animação O Fantástico Sr. Raposo, há cenas de ação e suspense que, por mais absurdas, cumprem seu papel de se tornar uma espécie de "thriller a la Wes Anderson". Como havia dito, o fato do estilo do filme ter que se curvar ao seu criador não o diminui quando bem feito, mas em alguns momentos soa engessado. Esse é um feliz exemplo disto.
 

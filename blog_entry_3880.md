@@ -1,18 +1,21 @@
 ---
 categories:
 - writting
-date: '2012-06-18'
-link: https://www.imdb.com/title/tt0119715
+date: '2021-11-13T15:54:13-03:00'
 tags:
+- cinemaqui
+- mostrachinesa
 - movies
-title: Um Ratinho Encrenqueiro
+title: Um Porto Seguro
 ---
 
-Com uma história típica da sessão da tarde, talvez fosse impossível tentar realizar algo acima de medíocre. Porém, quando o roteiro abraça o absurdo das situações com competente propriedade, nunca nos permitindo questionar se alguma coisa é verossímil ou não, pois é a história que dita isso, aí temos um ótimo exemplo de que, independente da história, é possível criar Cinema através de quase nada.
+As primeiras cenas de Um Porto Seguro são tensas. Descobrimos o motivo pelo qual um jovem estudante vira fugitivo após invadir a casa de um homem e no meio de uma briga matá-lo. Quinze anos se passam e a história continua boa, puxando as linhas do passado, em um presente cínico e sem esperança.
 
-Já com essa postura é ditado o caminho da história, que gira sobre a herança que um empresário do ramo de fios deixa a seus dois filhos e suas condições (como não vender a familiar fábrica), além de uma insuspeita herança de uma casa, que graças a um ratinho descobre-se fazer parte do último trabalho de um arquiteto famoso.
+Com certeza o diretor Li Xiaofeng é fã de um cinema noir. O tema musical é uma ode aos velhos tempos desse gênero que volta toda década, fora que o clima de desesperança de Um Porto Seguro cai muito bem. A estética do filme é muito próxima da atmosfera que lembra o gênero, mas os temas são distintos. O que evoca esse tom é de fato a falta de caráter de sua cidade-natal, de sua família e até de sua ex-colega de escola. Um intenso exercício sobre culpa, destino e justiça.
 
-De início a raiva dos dois contra o ratinho parece desproporcional, pois a introdução não deixa muito claro qual será o tom da comédia. Porém, conforme adentramos nesse universo conseguimos enxergar ali uma agradável homenagem a figuras como O Gordo e O Magro, além de uma surpreendente direção de arte, que constrói em torno do drama do ratinho uma igualmente insuspeita e deliciosa história de perseguição.
+Ainda assim, o filme é capaz de trazer um pouco de humor incidental quando o fugitivo se vê comparado a um tarado seguindo uma jovem de escola e um ser humano marginalizado ao se desviar das tentativas de sedução da "femme fatale" do longa. São apenas nesses momentos pontuais que respiramos. Aliás, a atriz veterana Jia Song está arrebentando em seu papel. Note como ela constrói o clima em volta do personagem de Yu Zhang como se fosse um fim de feira na cena de um bar, mas de repente ela se torna o evento, mesmo que cante muito mal.
 
-As tiradas são óbvias, mas sempre funcionam, mesmo quando são ruins. Não há muito o que desenvolver, mas a ação toma conta do recado ao mesmo tempo que a história timidamente se desenvolve.
+Porém, quase nada são flores neste filme, que evoca seu clima pesado não apenas pelos seus personagens com tendências mafiosas, mas também através da solidão visual dos belíssimos enquadramentos de Li Xiaofeng, que mostra a vila onde aconteceu o trágico evento despedaçada por uma empreiteira, restando apenas uma casa, e da fotografia, com tons escuros e acizentados em uma cidade portuária que se recusa a mostrar um raio de sol que seja.
+
+Um Porto Seguro é cinema bem-feito, com competência e segurança. Xiaofeng dirige seu terceiro longa com extrema propriedade. Já recebedor de três prêmios internacionais, é uma bem-vinda e mais conhecida contribuição à Mostra de Cinema Chinês esse ano.
 

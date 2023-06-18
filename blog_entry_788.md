@@ -1,23 +1,20 @@
 ---
 categories:
 - writting
-date: '2019-11-01'
-link: https://www.imdb.com/title/tt2365580
+date: '2015-09-25'
+link: https://www.imdb.com/title/tt2224026
 tags:
-- cinemaqui
 - movies
-title: Cade Você, Bernadete?
+title: Cada Um Na Sua Casa
 ---
 
-"Cadê Você, Bernadete?" é um filme que projeta em seus humanos mensagens mais gerais a respeito de relacionamento e sociedade. Em algum momento alguém usa a desculpa de que a verdade é muito complicada e a resposta recebida é que sim, ela é complicada, mas isso não quer dizer que não devemos tentar alcançá-la.
+Home não tem coragem suficiente para elevar todas suas ideias à terceira potência, mas pelo menos evita ser engraçadinho demais e consegue colocar uma história em um patamar digno. Levando a atual tendência de questionar a autoridade e de se preocupar com o próximo, conhecemos uma raça alienígena que segue um líder (Steve Martin), nos mesmos moldes do rei Julian de Madagascar, e se descaracteriza a partir de um guia informal de como devem se comportar (leia-se "socialismo"), independente do que realmente achem.
 
-O novo filme de Richard Linklater (A Melhor Escolha, Jovens, Loucos e Mais Rebeldes) alcança momentos profundos sobre a compreensão humana e consegue isso através de um roteiro com personagens que sabem que estão em um filme, mas que são interpretados de maneira tão intensa por Cate Blanchett e Kristen Wiig que você até se esquece disso. Aliás, esse também é um filme de altos e baixos, mas todos os altos são assinados por essas duas fenomenais atrizes. Elas estão tão acima da média que elevam até a interpretação da estreante Emma Nelson em uma cena comovente em que uma adolescente criada por uma mãe complicada a defende de forma autêntica.
+Exceto por Oh (Jim Parsons, o Sheldon de The Big Bang Theory), que tenta continuamente sem sucesso conseguir amigos. Especializados em fugir de uma outra raça que a persegue, resolvem ir para a Terra, onde desabitam todas as cidades e enviam os humanos para uma colônia (leia-se "cativeiro") onde todos podem ser "felizes". Enquanto isso, os Boovs povoam a Terra e cumprem todas suas funções da maneira mais funcional possível. Todos possuem apenas um minuto de folga por dia.
 
-A história é adaptada de um livro de Maria Semple cuja narradora é a adolescente Bee interpretada por Nelson, que explora o sumiço de sua mãe (sugerido sutilmente no início), uma arquiteta premiada, mas que com agorafobia passou a ter uma vida reclusa. A ideia do livro é ir lendo documentos, como emails, que possam levar Bee até sua mãe, mas o roteiro escrito por Linklater, Holly Gent e Vincent Palmo Jr. possui uma ideia melhor ao nos fazer ver Cate Blanchett narrando esses emails para seu celular e trancada em casa, o que sendo vizinha da moradora mais ativa da comunidade (Kristen Wiig) acaba sendo para ela o pior lugar para se morar em Seattle.
+Oh então encontra a pequena Tip (Rihanna), uma garota que acidentalmente não foi capturada e que agora busca reencontrar sua mãe. Por detalhes que não são relevantes e você não vai querer saber, ambos precisam ir para um lugar e juntos aprendem as diferenças de onde vieram, além de entender que alguma coisa não é verdade só porque alguém disse que é. Também aprendem (principalmente Oh) que arriscar é importante.
 
-Casada com um engenheiro da Microsoft (Billy Crudup) e tendo seu trabalho premiado por genialidade destruído por uma celebridade por mero capricho, os homens (e mulheres, se considerarmos suas vizinhas) responsáveis pela vida que Bernadete leva estão alheios à sua existência, o que vira o tema mais bem explorado do longa: como não temos a menor ideia de quem são as pessoas com quem convivemos, seja dentro de casa ou atravessando a rua.
+Tedioso com a entrada de inúmeras músicas (provavelmente muitas das próprias dubladoras, Rihanna e Jennifer Lopez), o forte do filme mesmo é a direção, que torna as sequências de ação tensas, grandiosas e encabeçadas por músicas techno (essas, sim, positivas) que variam de acordo com o clima do momento. Ainda assim em um formato genérico, pelo menos a relação de amizade que cresce entre Oh e Tip é algo a se notar, pois se mantém acima de todos os defeitos em tela. A mudança de sentimentos de Oh através das cores (todos os Boovs têm essa característica) também é um ponto forte.
 
-A tensão na história nunca soa manipulativa nem previsível, e os momentos com os personagens estão sempre sendo puxados pela sequência de eventos que leva, finalmente, Bernadete a sumir do mapa. Claro que são eventos que pode fazer você pensar em quantas coincidências são necessárias para enfiar uma psiquiatra e um agente do FBI em sua sala de estar, transformando brevemente um drama leve em uma comédia de Paul Feig. No entanto, por mais caótica que a história fique nós sempre seremos iluminados pela atuação de Blanchett, que está tão ou mais intensa do que em Blue Jasmine, quando ela faz uma daquelas personagens com tiques elevadamente nervosos de Woody Allen.
-
-Mas por mais problemática que seja esta adaptação, "Cadê Você, Bernadete?" recebe o tratamento humano, libertador, de seu diretor. Richard Linklater não sai de casa para dirigir um conjunto de estereótipos dizendo diálogos inteligentes. Há um aspecto humano no filme que faz com que não importe tanto assim o que acontece nele, desde que possamos ficar mais tempo ao lado desses personagens, falhos em vários momentos, mas que justamente por isso podemos chamá-los de humanos.
+Dessa forma, Cada Um na Sua Casa é uma experiência mista, que pode confundir e desanimar alguns, mas que em seu núcleo possui boas ideias que são implementadas "apesar de". Por isso, nos mesmos moldes de Boxtrolls, embora não com o mesmo refinamento técnico/artístico, podemos colocá-lo no hall das animações que confiam em sua história do começo ao fim, o que hoje em dia, com pinguins e minions por todos os lados, tem se tornado um evento raro em produções menores.
 

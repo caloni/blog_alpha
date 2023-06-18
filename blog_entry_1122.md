@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2016-05-12'
+date: '2018-10-09'
 tags:
-- food
-title: Cosecha Tarapaca Carmenére 2014
+- wine
+title: Cosecha Tarapaca
 ---
 
-Bom custo Bom custo benefício, mas mais caro que a média.
+Cabernet Sauvignon da Cosecha Tarapaca 2016 mantém a camada extra de elegância de um vinho industrial, mas que justamente por isso entrega em bom custo benefício.
 

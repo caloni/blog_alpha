@@ -1,24 +1,21 @@
 ---
 categories:
 - writting
-date: '2019-03-05'
-link: https://www.imdb.com/title/tt3513498
+date: '2022-11-07T22:15:39-03:00'
 tags:
-- movies
-title: Uma Aventura Lego 2
+- series
+title: Uma Advogada Extraordinária
 ---
 
-Nada é tão incrível. Sim, é a dura verdade da vida. E como conseguir viver dessa forma? Bem, a lição de Uma Aventura Lego 2 é mais do que incrível: é complexa e profunda. Bem profunda. Das profundezas do fundo de uma máquina de lavar roupas. Do escuro vazio e sem sentido de uma caixa de brinquedos. Do niilismo inerente quando começamos a brincar de auto-análise com viagem no tempo. Sim, nada é tão incrível, mas não quer dizer que não devamos tentar viver juntos a aventura de viver.
+A qualidade dos atores na Coreia impressiona. Seja drama ou comédia sempre há ótimos momentos nas novelas coreanas, carregadas de clichês como manda o figurino, mas quase sempre vale a pena por causa do elenco, que abraça com muito afinco seus personagens. São atores que levam a sério a arte de entreter.
 
-A segunda aventura principal iniciada pelos diretores Phil Lord e Christopher Miller e agora continuada por Mike Mitchell tenta realizar o impossível: repetir mais ou menos a fórmula do filme original e que fique igualmente incrível. E ele já começa a aventura se desculpando por não ser tão incrível quanto a primeira. E ele tem razão. Há algumas coisas que não se pode repetir. Resta agora apenas seguir com uma aventura requentada. Eu gosto desse pé-no-chão do início.
+Entre os mais recentes, no topo da lista está Park Eun-bin. Ela começou aos cinco anos fazendo pequenos papéis para a TV, há dez anos estreou no elenco principal em Operation Proposal,  um romance de viagem no tempo, e atingiu seu ápice no drama esportivo Hot Stove League.
 
-Porém, isso não quer dizer que uma segunda brincadeira de criança imaginada como um filme de cinema não deva ser algo empolgante, e o principal desafio desse segundo trabalho é nos envolver mesmo estando cientes de que que tudo não passa de uma... brincadeira de criança. E não é fácil fazer isso. É preciso puxar questões existenciais de peças de plástico novamente para nos importarmos com o destino de Emmet, Lucy e Batman (Batman talvez não). E não se trata aqui de uma repaginada na trama principal dos filmes Toy Story. Aqui os personagens não são fofinhos, não existe esse apelo à magia Disney que pode fazer alguns adultos vomitar (eu vomitava). Aqui não há referências lúdicas sobre um baú de brinquedos fofinhos em um quarto perfeito do subúrbio perfeito do American Way of Life. No lugar há uma caixa Marie Kondo pronta para dar adeus (depois de agradecer) a peças de plástico velhas que já cumpriram seu papel.
+Agora Eun-bin demonstra todo seu talento em expressão e trejeitos vivendo uma advogada autista nesta série que mesmo sendo da Netflix é boa.
 
-Aqui o lado politicamente incorreto do primeiro ainda existe, embora muito bem-humorado e sutil. Há o apelo ao colant de Adam West na versão Batman dos anos 60 e comentários do tipo "como Michael Keaton estava simpático em Beetlejuice". Esses detalhes passam despercebidos dos pequeninos e são uma piscada de olhos constante na mente do adulto. Poderia haver mais.
+O autismo está em alta, mas nem todo ator/atriz ou até mesmo roteiristas aproveitam o tema. Nesta minissérie coreana temos um refinamento elegante entre o fantasioso e o realismo das pessoas dentro do espectro, além de tramas em episódios que se aproveitam do velho programa de júri sem muita apelação, embora alguns possam protestar por este trocadilho infame. A história acompanha a evolução da personagem sem apelar para manipulações baratas. Há um segredo que vai sendo revelado aos poucos, mas isso você já sabe. Essa é uma novela coreana, afinal de contas.
 
-Juntando elementos da trama original em um formato que tenta abusar dessa dualidade entre realidade e imaginação, o filme quase espacial puxa referências de tantas histórias que parece mais uma mescla do universo narrativo do que alguma referência explícita sobre algum filme. A melhor parte é como ele demonstra no processo que as dores-de-cabeça nas narrativas de viagem no tempo são tão simples na mente de uma criança. Isso nos conquista novamente do lado da imaginação, ainda que do lado da realidade as coisas fiquem meio capengas ao tenta puxar um quê de feminismo/inclusão/diversidade obrigatórios hoje em dia, que para variar falha miseravelmente por apenas cumprir tabela e não fazer parte da história em si.
+Quando a produção permite que Eun-bin se mantenha livre em sua personagem a série brilha. Observe seus trejeitos desajeitados: isso é atuação meticulosa. Repare nesse equilíbrio delicado entre o cômico e o dramático através da ponta dos dedos de Park Eun-bin, ou no seu sorriso tímido e fugaz, quase invisível se você não aguardar até o final da cena. O tom calculista e cômico com que analisa os detalhes de um caso.
 
-Aliás, por falar nisso, fico feliz de que o bom senso da equipe por trás de Uma Aventura Lego 2 tenha prevalecido em manter o protagonista como Emmet, não cometendo o erro crasso que houve em Os Incríveis 2, onde a tentativa de tornar a mãe da família a heroína principal torna a aventura soando como justificativa para se desculpar pelo passado. É um porre. Aqui o filme apenas convida uma participação mais enfática de Lucy e de todas as novas personagens femininas que surgem da mente adorável, mas brainwashed, de uma criança ouvindo músicas pop.
-
-Mas é justamente essa que é a questão primordial deste novo trabalho dos montadores de Lego: aceitar a diversidade. Não como um fardo, mas como a única maneira de convivermos de maneira positiva e plena. E dessa forma eu começo a discordar sobre essa aventura não ser tão incrível. Ela é repetida, mas acaba sendo incrível em sua própria forma. Segue a música grudenta.
+Esta é uma série apaixonante. Talvez seja sua protagonista e o casal mais fofinho desde Amelie Poulain mesmo que falte personalidade no rapaz coreano. Talvez a afeição com pessoas intelectualmente desafiadas que topam o desafio e ousam se tornarem seres humanos em vez de animais acuados da sociedade vitimista. Ou talvez porque Park Eun-bin exercita a arte da atuação com tanto esmero em uma simples novela que é impossível não enxergar virtudes.
 

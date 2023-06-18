@@ -1,24 +1,195 @@
 ---
 categories:
-- writting
-date: '2012-06-10'
-link: https://www.imdb.com/title/tt0058461
-tags:
-- movies
-title: Por Um Punhado de Dólares
+- coding
+date: '2015-01-11'
+tags: null
+title: Por que o Visual Studio gera executáveis mutantes
 ---
 
-"Per un pugno di dollari", o clássico do bangue-bangue macarrônico, primeiro dos três filmes idealizado por Sergio Leone a partir de sua fascinação após assistir a outro clássico da época, Yojimbo (de Kurosawa), nos apresenta pela primeira vez a figura do Homem Misterioso, ou homem sem nome, interpretado por um Clint Eastwood ainda jovem para o seu Gran Torino, mas com um olhar já duro e seco para com os maus que governam uma cidadezinha perto da fronteira entre os EUA e o México. À procura de dinheiro (como o título já sugere), esse homem resolve ficar por um tempo na cidade, mesmo em uma terra que odeia forasteiros. Existem duas famílias que tomam conta dos negócios locais, enquanto na violência com que as decisões são tomadas os corpos se acumulam no cemitério na mesma proporção com que as viúvas. O ódio e a ambição pelo ouro fala mais forte em uma terra sem lei.
+> _Esse é um post antigo que encontrei no meio dos meus emails de 2006, mas que contém uma boa dica para quem já entendeu o [passo-a-passo da compilação], mas ainda tem sérios problemas quando os projetos ficam gigantes._
 
-O Homem Misterioso possui duas funções muito claras na narrativa: primeiro, por ser tão forasteiro quanto o espectador, ele serve de guia para que nós mesmos entendamos as circunstâncias em que os fatos vão se sucedendo. É ele que, por exemplo, fica escondido às margens do rio e presencia o massacre que lá ocorre. É ele que, observador e inteligente, consegue entender melhor que os moradores do vilarejo o papel dos capangas das duas famílias, e busca assim tirar proveito de ambas, e sempre que possível nunca tomando um partido. Leone deixa claro que o Homem não é um herói comum. É bruto e violento como todos os outros, mas que ao mesmo tempo, se sobrar tempo, tenta ajudar os injustiçados. Existe algo em seu passado que determina seu caráter, mas salvo uma breve e imperceptível fala, nunca é mencionado.
+Essa é a segunda vez que encontro esse mesmo problema. Como acredito que outras almas podem estar sofrendo do mesmo mal, coloco aqui uma breve descrição de como o VC8 faz para gerar um executável que, mesmo não dependendo das DLLs de runtime, não são executados em sistemas que suportam a interpretação do ".manifest". De canja, um pequeno programa que exibe a lista dos programas instalados no sistema.
 
-E não é à toa. Não são os diálogos que formam o caráter do sujeito, mas a ausência deles. Como um observador nato, nos colocamos a seu lado e de alguma forma torcemos por ele, pela sua imagem, pelo seu estilo. As outras pessoas falam demais, se exibem demais. Ele só fala quando tem algo a dizer. E atira quando precisa.
+Primeiro, precisamos de um solution que contenha um projeto console e uma LIB. O projeto console deve usar a LIB para fazer alguma coisa. No exemplo abaixo, estarei listando os programas instalados no Windows (os mostrados no painel de controle através da opção "Adicionar/remover programas".
 
-Nesse universo de tela larga e expressiva, onde a fotografia revela cores profundas, tanto de dia e seu calor em cores quentes quanto à noite, é possível praticamente sentir o frio da noite e suas densas penumbras. Da mesma forma, os closes que Leone realiza revelam muito mais sobre os personagens do que suas falas. Quando estão mais próximos da câmera, tudo fica mais claro e mais dramático. Vemos os sulcos em torno de suas faces iluminados pela noite, e de dia seu suor escorrendo pelas rugas, assim como as estradinhas de terra atravessadas por seus cavalos. Os olhos do Homem Misterioso surgem sempre expressivos, observadores e pensativos.
+```
+/** library.h
+*/
+#pragma once
+#include <string>
+#include <vector>
 
-Mas Leone sabe que nada adianta um herói sem um vilão à altura. E por isso mesmo somos apresentados a Ramon; primeiro pela sua fama, depois pelas suas ações, e por último pelas suas falas. E aqui é importante ressaltar que o que ele diz não está de acordo com os atos que acabamos de presenciar. Portanto, é um mentiroso, e é capaz de tudo para conseguir o que deseja, como matar qualquer um que se opuser. Esse sinal de desvio de caráter é uma espécie de maniqueísmo orgânico que nos ajuda a separar com precisão alegórica o bom do mau no palco de conflitos que se arma: de um lado, a família do xerife; do outro, dos bandidos sanguinários; e, no meio, o não-nomeado: o desequilíbrio que faltava.
+typedef std::vector<std::string> InstalledSoftwareList;
+int getInstalledSoftware(InstalledSoftwareList&);
 
-O embate não é apenas físico, mas, principalmente, psicológico. Ao acompanharmos as artimanhas do homem de poncho acompanhamos seu raciocínio. Nos poucos diálogos que escapam de sua boca compreendemos que não haverá pistas sobre seus planos. Talvez nem ele saiba ao certo, pois tudo vai acontecendo mais ou menos que por acidente. Mas é um acidente planejado, previsto em roteiro, só que o brilhantismo da história está em não percebermos isso. Da mesma forma, os personagens que precisam existir para atingir a dramaticidade de seu desfecho são desenvolvidos durante os acontecimentos do segundo ato. Como não há muito tempo para eles, alguns até o nome já soam significativos (Jesus e Marisol). Até o preto vestido por uma personagem em específico já denuncia o que virá. Tudo é muito gráfico e visceral, e não apenas nas cenas de ação.
+/** library.cpp
+*/
+#include "library.h"
+#include <windows.h> // aqui precisamos do windows para as funções de registro
+#include <tchar.h> // suporte a unicode condicional
 
-Aliás, o fato da história ter algumas reviravoltas apenas alimenta nosso desejo pela ação, que quando vem, também é divinamente orquestrada. O herói surge em meio a fumaça, como imortal. Aumenta o som e a dramaticidade da trilha sempre presente e inspirada de Ennio Morricone, o John Williams da Itália, que ilustra com precisão a jornada do herói na versão faroeste. Assim como Clint Eastwood, o Yojimbo de Leone acabara de surgir como um herói a resgatar o bom e velho bangue-bangue.
+#define SW_ROOT_KEY "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall"
+#define SW_DISPLAY_NAME "DisplayName"
+
+/** Retorna o número de elementos em um array. */
+template<typename T, size_t Sz>
+DWORD SizeofArray(const T(&arr)[Sz]) { return Sz; }
+
+/** Retorna lista com descrição de cada programa instalado no sistema. */
+int getInstalledSoftware(InstalledSoftwareList& installedSoftware)
+{
+   HKEY swRoot = NULL;
+   DWORD err = RegOpenKeyEx(HKEY_LOCAL_MACHINE, _T(SW_ROOT_KEY), 0, KEY_READ, &swRoot);
+
+   if( err == ERROR_SUCCESS )
+   {
+      DWORD swIndex = 0;
+      TCHAR swKeyName[MAX_PATH] = _T("");
+
+      // para cada chave dentro da raiz de programas instalados
+      while( (err = RegEnumKey(swRoot, swIndex++, swKeyName, SizeofArray(swKeyName))) 
+         == ERROR_SUCCESS )
+      {
+         HKEY swCurrent = NULL;
+         err = RegOpenKeyEx(swRoot, swKeyName, 0, KEY_READ, &swCurrent);
+
+         if( err == ERROR_SUCCESS )
+         {
+            CHAR swDisplay[MAX_PATH] = ""; // vamos obter a string já em mb
+            DWORD swDisplaySz = SizeofArray(swDisplay);
+
+            if( (err = RegQueryValueExA(swCurrent, SW_DISPLAY_NAME, 0, NULL, 
+               reinterpret_cast<PBYTE>(swDisplay), &swDisplaySz)) == ERROR_SUCCESS )
+            {
+               installedSoftware.push_back(swDisplay);
+            }
+
+            RegCloseKey(swCurrent);
+         }
+      }
+
+      // se não tem mais itens, então não é um erro
+      if( err == ERROR_NO_MORE_ITEMS )
+         err = ERROR_SUCCESS;
+      RegCloseKey(swRoot);
+   }
+   return int(err);
+}
+
+/** console.cpp
+*/
+#include "../library/library.h" // include da nossa lib
+#include <algorithm>
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+   int ret;
+   InstalledSoftwareList swList;
+
+   cout << "MSVC Mutant - v. beta\n"
+      << "by Wanderley Caloni (www.caloni.com.br)\n\n";
+
+   // obtém a lista de programas instalados e exibe na tela
+   ret = getInstalledSoftware(swList);
+
+   if( ret == 0 )
+   {
+      cout << "Programs installed on your system\n"
+         << "=================================\n";
+      copy(swList.begin(), swList.end(), ostream_iterator<string>(cout, "\n"));
+
+   }
+   else
+      cout << "Error " << ret << " trying to list installed programs.\n";
+
+   return ret;
+}
+```
+
+___Observação importante__: para ignorar todas as estripulias da versão Debug, todos os testes foram compilados em Release._
+
+Primeiramente, modifico a configuração padrão dos dois projetos para não depender da DLL de runtime do VC. Isso está em __Project, Properties, C/C++, Code Generation, Runtime Library__. Depois executo em uma máquina virtual sem as runtimes do VC8 instaladas:
+
+    MSVC Mutant - v. beta
+    by Wanderley Caloni (www.caloni.com.br)
+    
+    Programs installed on your system
+    =================================
+    Windows XP Service Pack 2
+    WebFldrs XP
+    VMware Tools
+
+Perfeito. Exatamente o que eu queria: um executável console que não dependesse de DLL nenhuma exceto as que já estão instaladas em um Windows ordinário.
+
+Agora, vamos imaginar que esse é um daqueles projetos enormes de __5 * 10 ^ 42__ de linhas (obs: dramatização) e que meu aplicativo console está linkado com cerca de __3 * 10 ^ 666__ de LIBs. E uma delas (a library do exemplo) está com a configuração original, ou seja, com a dependência da DLL de runtime. E ela usa a STL. Provavelmente o aplicativo console não irá compilar, mas isso não é problema, pois estamos acostumados a colocar a msvcrt.lib na lista de LIBs ignoradas, pois em muitos outros casos (que não vale a pena discutir aqui) esse workaround é válido. E tudo volta a funcionar. Quer dizer, linkar:
+
+O sistema no pode executar o programa especificado.
+
+Tudo bem, meu executável não é mutante ainda. Mas agora vamos trocar a chamada da nossa função que usa STL por uma função que não usa:
+
+```
+/** library.h
+*/
+int doesNothing();
+
+/** library.cpp
+*/
+
+/** Essa função não faz nada. Quer dizer, ela retorna 0. Mas é só isso. */
+int doesNothing()
+{
+   return 0;
+}
+
+/** console.cpp
+*/
+#include "../library/library.h" // include da nossa lib
+
+int main()
+{
+   int ret;
+
+   // não faz nada. bom, chama uma função. mas isso é quase nada.
+   ret = doesNothing();
+
+   return ret;
+}
+```
+
+    Linking
+    =======
+    library.lib(library.obj) : warning LNK4049: locally 
+     defined symbol __invalid_parameter_noinfo imported
+    
+    Running
+    =======
+    O sistema no pode executar o programa especificado.
+    
+    Depends
+    =======
+    Error: The Side-by-Side configuration information in "blablabla\CONSOLE.EXE" 
+     contains errors.
+    Falha na inicialização do aplicativo devido a configuração incorreta.
+    A reinstalação do aplicativo pode resolver o problema (14001).
+
+Agora sim, a mutação fez efeito! Temos um aplicativo que não depende da DLL de runtime, mas que no meio das n LIBs que ele utiliza existe uma configurada com a dependência. Ignorando a msvcrt.lib e um warning na compilação encontramos uma mensagem de erro um tanto exdrúxula.
+
+Até agora, a maneira que eu tenho utilizado para rastrear esse problema é não ignorar a msvcrt e ir tirando as dependências das LIBs pouco a pouco, até que ocorra o erro de símbolo duplicado. Algo assim:
+
+    MSVCRT.lib(ti_inst.obj) : error LNK2005: "private: __thiscall 
+     type_info::type_info(class type_info const &)" (??0type_info@@AAE@ABV0@@Z) 
+     already defined in LIBCMT.lib(typinfo.obj)
+    MSVCRT.lib(ti_inst.obj) : error LNK2005: "private: class type_info & __thiscall 
+     type_info::operator=(class type_info const &)" (??4type_info@@AAEAAV0@ABV0@@Z) 
+     already defined in LIBCMT.lib(typinfo.obj)
+    LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; 
+     use /NODEFAULTLIB:library
+    Blablabla\console.exe : fatal error LNK1169: one or more multiply defined symbols found
+
+Se você tiver realmente __3 * 10 ^ 666__ de LIBs, boa sorte =).
+
+[passo-a-passo da compilação]: {{< relref "entendendo-a-compilacao" >}}
 

@@ -1,105 +1,130 @@
 ---
 
-Continuando o papo sobre [o que fazer para analisar rapidamente um crash no servidor com o pacote WinDbg](http://www.caloni.com.br/depuracao-de-emergencia), na maioria das vezes a exceção lançada pelo processo está diretamente relacionada com um acesso indevido à memória, o que tem diversas vantagens sobre problemas mais complexos:
+O programa está rodando no servidor do cliente, que é acessível por sessão remota do Windows, mas de repente ele capota. Existem aí duas possibilidades fora o debug remoto (que, nesse caso, não é possível):
 
-  * Possui localização precisa de onde ocorreu a violação (inclusive com nome do arquivo-fonte e linha).
-  * Não corrompe a pilha (ou, se corrompe, não chega a afetá-la a ponto da thread ficar irreconhecível).
-  * A thread que contém a janela de crash é a culpada imediata (basta olha a pilha!).
-
-Bom, resumindo: basta olhar a pilha! Mas, para isso ser efetivo, precisaremos do PDB do executável que gerou o crash, pois através dele é possível puxar a tal localização da violação de acesso.
-
-{{< image src="w1uEm0Y.png" caption="" >}}
-
-Se você mantiver executável (DLL também é executável) juntinho com seu PDB, sua vida será mais fácil e florida.
-
-{{< image src="ls9Hma0.png" caption="" >}}
-
-Mesmo que, em alguns momentos trágicos, apareça uma tela indesejada.
+  1. Analisar um dump gerado.
+  2. Depurar localmente o problema.
 
 {{< image src="imt8kmB.png" caption="" >}}
 
-Seu caminho a partir dessa tela pode ser analisar um dump gerado (visto no artigo anterior) ou podemos atachar o WinDbg diretamente no processo (visto aqui e agora):
+### Analisar um dump gerado
 
-{{< image src="CjXbOD1.png" caption="" >}}
+Para a primeira opção, basta abrir o Gerenciador de Tarefas, localizar o processo e gerar o dump através do menu de contexto.
 
-    WinDbg: "mas que bagunça é essa na memória desse processo?"
+{{< image src="RWPemAU.png" caption="" >}}
 
-O comando mais útil na maioria dos casos é mostrar a pilha em modo verbose (kv e enter). Porém, antes disso, precisamos:
+Com o dump e o Windbg em mãos, basta analisá-lo. Porém, se o seu processo é 32 bits e o servidor é 64 bits (geralmente é), o dump gerado será de 64 bits, EMBORA seja de um process 32. Ou seja, ao abri-lo, o sistema vai mostrar as threads de manipulação do SO para sistemas 32 (todos com o nosso amigo wow64cpu).
 
-  1. Ajeitar o path dos símbolos.
-  2. Recarregar o PDB do executável suspeito.
-  3. Mostrar a pilha de todas as threads (até descobrir a culpada).
+    Microsoft (R) Windows Debugger Version 6.12.0002.633 AMD64
+    Copyright (c) Microsoft Corporation. All rights reserved.
 
-Todos esses comandos podem ser vistos abaixo. São, respectivamente, .symfix, .reload e novamente o kv (mas para todas threads).
+    Loading Dump File [C:\Tests\CrashOnServer.DMP]
+    User Mini Dump File with Full Memory: Only application data is available
 
-    0:001> .symfix
-    0:001> .reload /f CrashOnServer.exe
-    *** WARNING: Unable to verify checksum for C:\Users\wanderley.caloni\Documents\Projetos\Caloni\Posts\Debug\CrashOnServer.exe
-    0:001> kv
-    Child-SP RetAddr  : Args to Child               : Call Site
-    0030f918 77679198 : 00000000`00000000 `00000000 : ntdll!DbgBreakPoint
-    0030f920 775e244d : 00000000`00000000 `00000000 : ntdll!DbgUiRemoteBreakin+0x38
-    0030f950 00000000 : 00000000`00000000 `00000000 : ntdll!RtlUserThreadStart+0x25
-    0:001> ~* kv
-    
-       0  Id: 1dc.978 Suspend: 1 Teb: 00000000`7efdb000 Unfrozen
-    Child-SP RetAddr  : Args to Child                       : Call Site
-    0008ea48 751f282c : 00000000`77770190 00000000`001dfb50 : wow64cpu!CpupSyscallStub+0x9
-    0008ea50 7526d07e : 00000000`00000000 00000000`775b3501 : wow64cpu!WaitForMultipleObjects32+0x32
-    0008eb10 7526c549 : 00000000`00000000 00000000`7ffe0030 : wow64!RunCpuSimulation+0xa
-    0008eb60 775cae27 : 00000000`003b3710 00000000`7efdf000 : wow64!Wow64LdrpInitialize+0x429
-    0008f0b0 775c72f8 : 00000000`00000000 00000000`00000000 : ntdll!LdrpInitializeProcess+0x1780
-    0008f5b0 775b2ace : 00000000`0008f670 00000000`00000000 : ntdll! ?? ::FNODOBFM::`string'+0x2af20
-    0008f620 00000000 : 00000000`00000000 00000000`00000000 : ntdll!LdrInitializeThunk+0xe
-
-Ops! Estamos rodando um processo 32 dentro de um SO 64 (Windows 7, por exemplo). Isso pode acontecer. Seguimos com o workaround .load wow64exts e .effmach x86:
+    Executable search path is:
+    Windows 7 Version 7600 MP (2 procs) Free x64
+    Product: WinNt, suite: SingleUserTS
+    Machine Name:
+    Debug session time: Tue Jul 26 09:26:23.000 2011 (UTC - 3:00)
+    System Uptime: 0 days 0:35:47.425
+    Process Uptime: 0 days 0:00:42.000
+    ...........WARNING: MSVCR100D overlaps MSVCP100D
 
     
-    0:001> .load wow64exts
-    0:001> .effmach x86
+    *** ERROR: Symbol file could not be found. Defaulted to export symbols for ntdll.dll -
+    *** ERROR: Symbol file could not be found. Defaulted to export symbols for wow64cpu.dll -
+    wow64cpu!TurboDispatchJumpAddressEnd+0x690:
+    00000000`745d2dd9 c3 ret
+    0:000> kv
+    Child-SP RetAddr : Args to Child : Call Site
+    00000000`001ce6c8 00000000`745d282c :  : wow64cpu!TurboDispatchJumpAddressEnd+0x690
+    *** ERROR: Symbol file could not be found. Defaulted to export symbols for wow64.dll -
+    00000000`001ce6d0 00000000`7464d07e :  : wow64cpu!TurboDispatchJumpAddressEnd+0xe3
+    00000000`001ce790 00000000`7464c549 :  : wow64!Wow64SystemServiceEx+0x1ce
+    00000000`001ce7e0 00000000`76deae27 :  : wow64!Wow64LdrpInitialize+0x429
+    00000000`001ced30 00000000`76de72f8 :  : ntdll!LdrGetKnownDllSectionHandle+0x1a7
+    00000000`001cf230 00000000`76dd2ace :  : ntdll!RtlInitCodePageTable+0xe8
+    00000000`001cf2a0 00000000`00000000 : : ntdll!LdrInitializeThunk+0xe
+
+    Para entrar dentro do Inception, é necessário usar a extensão wow64exts e usar o comando ".effmach x86".
+
+    0:000> .load wow64exts
+    0:000> .effmach x86
     Effective machine: x86 compatible (x86)
-    0:001:x86> ~* kv
-    
-       0  Id: 1dc.978 Suspend: 1 Teb: 7efdb000 Unfrozen
-    ChildEBP RetAddr  Args to Child
-    001df24c 761a0bdd 00000002 001df29c 00000001 ntdll_77760000!NtWaitForMultipleObjects+0x15 (FPO: [5,0,0])
-    001df2e8 7727162d 001df29c 001df310 00000000 KERNELBASE!WaitForMultipleObjectsEx+0x100 (FPO: [Non-Fpo])
-    001df330 77271921 00000002 7efde000 00000000 KERNEL32!WaitForMultipleObjectsExImplementation+0xe0 (FPO: [Non-Fpo])
-    001df34c 77299b2d 00000002 001df380 00000000 KERNEL32!WaitForMultipleObjects+0x18 (FPO: [Non-Fpo])
-    001df3b8 77299bca 001df498 00000001 00000001 KERNEL32!WerpReportFaultInternal+0x186 (FPO: [Non-Fpo])
-    001df3cc 772998f8 001df498 00000001 001df468 KERNEL32!WerpReportFault+0x70 (FPO: [Non-Fpo])
-    001df3dc 77299875 001df498 00000001 38239b1e KERNEL32!BasepReportFault+0x20 (FPO: [Non-Fpo])
-    001df468 777d0df7 00000000 777d0cd4 00000000 KERNEL32!UnhandledExceptionFilter+0x1af (FPO: [Non-Fpo])
-    001df470 777d0cd4 00000000 001dfb34 7778c550 ntdll_77760000!__RtlUserThreadStart+0x62 (FPO: [SEH])
-    001df484 777d0b71 00000000 00000000 00000000 ntdll_77760000!_EH4_CallFilterFunc+0x12 (FPO: [Uses EBP] [0,0,4])
-    001df4ac 777a6ac9 fffffffe 001dfb24 001df5e8 ntdll_77760000!_except_handler4+0x8e (FPO: [Non-Fpo])
-    001df4d0 777a6a9b 001df598 001dfb24 001df5e8 ntdll_77760000!ExecuteHandler2+0x26
-    001df580 7777010f 001df598 001df5e8 001df598 ntdll_77760000!ExecuteHandler+0x24
-    001df584 001df598 001df5e8 001df598 001df5e8 ntdll_77760000!KiUserExceptionDispatcher+0xf (FPO: [2,0,0])
+    0:000:x86> kv
+    ChildEBP RetAddr Args to Child
+    ..
+    0035ec98 0035ecac 0035ecfc 0035ecac 0035ecfc ntdll_76f80000!KiUserExceptionDispatcher+0xf (FPO: [2,0,0])
+    *** WARNING: Unable to verify checksum for CrashOnServer.exe
     WARNING: Frame IP not in any known module. Following frames may be wrong.
-    001df9ac 010d141e 00000000 00000000 00000000 0x1df598
-    001dfa90 010d19af 00000001 00321410 00321c70 CrashOnServer!main+0x2e (FPO: [Non-Fpo]) (CONV: cdecl)
-        [c:\users\wanderley.caloni\documents\projetos\caloni\posts\crashonserver\crashonserver.cpp @ 13]
-    001dfae0 010d17df 001dfaf4 77273677 7efde000 CrashOnServer!__tmainCRTStartup+0x1bf (FPO: [Non-Fpo]) (CONV: cdecl)
-        [f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c @ 555]
-    001dfae8 77273677 7efde000 001dfb34 77799f02 CrashOnServer!mainCRTStartup+0xf (FPO: [Non-Fpo]) (CONV: cdecl)
-        [f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c @ 371]
-    001dfaf4 77799f02 7efde000 6b3e1b48 00000000 KERNEL32!BaseThreadInitThunk+0xe (FPO: [Non-Fpo])
-    001dfb34 77799ed5 010d1109 7efde000 00000000 ntdll_77760000!__RtlUserThreadStart+0x70 (FPO: [Non-Fpo])
-    001dfb4c 00000000 010d1109 7efde000 00000000 ntdll_77760000!_RtlUserThreadStart+0x1b (FPO: [Non-Fpo])
-    
-    #  1  Id: 1dc.1b0 Suspend: 1 Teb: 7efd8000 Unfrozen
-    ChildEBP RetAddr  Args to Child
-    0056ffe8 00000000 00000000 00000000 00000000 ntdll_77760000!RtlUserThreadStart (FPO: [0,2,0])
+    0035f0bc 01181ca9 0035f198 0035f19c 00000000 0x35ecac
+    0035f190 01181b7d 009d80a0 5fb4d717 00000000 CrashOnServer!Log::LogError+0x29
+    0035fb08 01186f1f 00000001 009d1410 009d1c68 CrashOnServer!main+0x12d
+    0035fb58 01186d4f 0035fb6c 76543677 7efde000 CrashOnServer!__tmainCRTStartup+0x1bf
+    0035fb60 76543677 7efde000 0035fbac 76fb9f02 CrashOnServer!mainCRTStartup+0xf
+    0035fb6c 76fb9f02 7efde000 771dc110 00000000 kernel32!BaseThreadInitThunk+0xe
+    0035fbac 76fb9ed5 01181316 7efde000 00000000 ntdll_76f80000!__RtlUserThreadStart+0x70
+    0035fbc4 00000000 01181316 7efde000 00000000 ntdll_76f80000!_RtlUserThreadStart+0x1b
 
-Nosso depurador favorito acusa uma pilha que contém a função WerpReportFault (Web Error Report, mas qualquer outra função com Exception no meio seria uma candidata). E, nessa mesma thread, a última linha nossa conhecida está no arquivo crashonserver.cpp:13. Isso nos revela o seguinte:
+Após esse último passo, siga para o último passo desse tutorial. Ou escolha a segunda opção:
 
-{{< image src="hnfH30b.png" caption="" >}}
+### Depurar localmente o problema
 
-E essa situação, caro leitor, é 10% de tudo o que você precisa saber sobre WinDbg para resolver, mas que já resolve 90% dos casos. Belo custo-benefício, não?
+Para depurar localmente, supondo que seja um executável simples, você precisa dos seguintes itens:
+
+  * Pasta do WinDbg copiado (a Debugging Tools instalada pelo SDK, ou sua pastinha particular guardada no PenDrive).
+  * Símbolos dos binários envolvidos (em sincronia com os binários que iremos analisar).
+  * Fontes da compilação dos binários (a versão exata seria ideal; grave o revno do controle de fonte pra facilitar).
+
+Os fontes, no caso de uma conexão por Terminal Server, podem ser disponibilizados através do mapeamento de drives entre as máquinas. Os símbolos, no entanto, por serem usados extensivamente pelo WinDbg, é recomendável que estejam locais na máquina depurada, pois do contrário você terá que tomar uma quantidade excessiva de cafés para executar meia-dúzia de instruções.
+
+Supondo que temos tudo isso, só precisamos executar alguns passos básicos para o setup:
+
+#### 1. Abrir o WinDbg e escolher File, Open Executable. Escolha o executável e pare por aí.
+
+{{< image src="A2p4Q9y.png" caption="" >}}
+
+#### 2. Na tela de comando do WinDbg (View, Command, ou Alt + 1) execute os comandos abaixo:
+
+    .symfix 
+    .sympath+ 
+    .reload
+    .srcpath 
+    .reload /f CrashOnServer.exe
+
+#### 3. Ao executar lm, o módulo cujo símbolo foi carregado deve conter o nome do pdb logo à frente.
+
+    0:000> .symfix c:\tools\symbols
+    0:000> .sympath+ C:\Projetos\Caloni\Posts\Debug
+    Symbol search path is: srv*;C:\Projetos\Caloni\Posts\Debug
+    Expanded Symbol search path is: SRV*c:\tools\symbols*http://msdl.microsoft.com/download/symbols;c:\projetos\caloni\posts\debug
+    0:000> .reload
+    Reloading current modules
+    ......
+    0:000> .srcpath C:\Projetos\Caloni\Posts
+    Source search path is: C:\Projetos\Caloni\Posts
+    0:000> .reload /f CrashOnServer.exe
+    *** WARNING: Unable to verify checksum for CrashOnServer.exe
+    0:000> lm
+    start end module name
+    00000000`01170000 00000000`01193000 CrashOnServer C (private pdb symbols) C:\Projetos\Caloni\Posts\Debug\CrashOnServer.pdb
+    00000000`745d0000 00000000`745d8000 wow64cpu (deferred)
+    00000000`745e0000 00000000`7463c000 wow64win (deferred)
+    00000000`74640000 00000000`7467f000 wow64 (deferred)
+    00000000`76da0000 00000000`76f4c000 ntdll (pdb symbols) c:\tools\symbols\ntdll.pdb\\ntdll.pdb
+    00000000`76f80000 00000000`77100000 ntdll32 (deferred)
+
+#### 4. Feito isso, está tudo OK. Podemos colocar breakpoints, monitorar variáveis, verificar stacks, etc.
+
+Por último, execute o seguinte comando na tela de comandos do WinDbg:
+
+    .hh
+
+E boa sorte =)
 
 ---
-categories: []
-date: '2013-04-01'
+categories:
+- coding
+date: '2011-10-18'
 tags: null
-title: Depuração na nuvem com o novo Visual Studio
+title: 'Depuração de emergência: receita de bolo'

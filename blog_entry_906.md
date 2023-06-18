@@ -1,43 +1,21 @@
 ---
 categories:
-- cooking
-date: '2021-12-27T21:30:15-03:00'
-link: https://www.youtube.com/watch?v=VGQFEiyMe-M
-tags: []
-title: No-Bake Peach Cheesecake
+- writting
+date: '2016-03-15'
+link: https://www.imdb.com/title/tt0337926
+tags:
+- cinemaqui
+- movies
+title: Chatô - O Rei do Brasil
 ---
 
-Receita do meu compadre, que também se aventura na cozinha (e documenta tudo melhor que eu), este cheesecake é chamado de japonês. Não vai no forno, pois é usado gelatina. Peguei com ele a receita do de pêssego, que é o primeiro que pretendo testar, e mostrar os resultados.
+O filme "Chatô - O Rei do Brasil", entre paralisações e processos na justiça, levou 20 anos para ser concluído. Uma vez lançado, pode ser facilmente resumido em uma palavra: bagunça. O ator televisivo Guilherme Fontes faz aqui sua estreia na direção e realiza um primeiro trabalho que já pode ser comparado a de Arnaldo Jabor em seu último: A Suprema Felicidade. Em ambos os filmes, há um misto entre cenas desconexas tentando extrair significado do nada, como se apenas a justaposição de diferentes tempos na vida do magnata Assis Chateaubriand e sua relação com figuras históricas -- entre elas Getúlio Vargas -- fosse rivalizar com a construção de personagem vista em "Cidadão Kane"; não funciona. No máximo, consegue soar no máximo com o mais semelhante "Plano 9 do Espaço Sideral".
 
-## Ingredientes
+O roteiro escrito a seis mãos foi baseado no romance de Fernando Morais e fornece diálogos pseudo-grandiosos que carecem de sutileza, dignos da figuraça de Chateaubriand, um paraibano que se orgulhava de suas origens. Deve ser por isso que a palavra Brasil é dita tantas vezes, e a análise rasteira e pedestre do povo brasileiro, um adjunto. O patriotismo -- inexistente na época, pois fora fabricado pelos militares várias décadas depois -- é venerado como parte do sangue da elite, mesmo que eles estivessem coroando um coronel sulista ao posto máximo de uma retumbante república de bananas. Isso se torna particularmente ridículo quando a personagem de Andrea Beltrão declara preferir ir a Paris do que à Paraíba para minutos depois a vermos dizer com um respeito solene a respeito do futuro presidente do país.
 
-Calda: Meia lata de Pêssegos em Calda, 3 colheres de sopa de Açúcar.
+Porém, a atuação inerte de Beltrão empalidece frente às caricaturas de Paulo Betti e Marco Ricca, fazendo respectivamente Getúlio Vargas e o próprio Chatô. O primeiro força seu sotaque para tentar esconder seus diálogos vergonhosos, mas o segundo os diz com uma segurança típica dos ignorantes. E é aí que podemos detectar talvez uma premissa completamente avessa à figura de um intelectual como Chateaubriand. Reconhecendo-o como um bruto que deu sorte, o filme nos mostra magicamente um atendente de uma loja de tecidos virar dono de um jornal, para em seguida se enveredar pela rádio e TV. Não é possível entender se o objetivo era criticá-lo por fazer parte de uma elite que tanto atacava através da mídia que controlava ou se é pura xenofobia de suas origens avessas ao estereótipo de magnata da imprensa.
 
-Base: Mold size : 15cm x 7cm, 100g Nesfit Leite e Mel, 40g Manteiga derretida sem sal.
+Para piorar a situação, a direção de Guilherme Fontes transforma a experiência em uma minissérie ou uma novela com ritmo irregular. São pouquíssimos os momentos em que uma cena dá continuidade à outra -- não no tempo ou no espaço, necessariamente: na lógica da narrativa. E é justamente essa a abordagem de conteúdos para TV. Nunca entregando uma trama que consiga prender a atenção do espectador, a TV confia no espetáculo das atuações (no caso de uma novela ou série) e na variedade dos seus temas. Aqui o tema é um só, e ele é repetido de maneira desregular e à exaustão, sendo que nem no início nem no desenvolvimento sabemos qual é o tema.
 
-Massa: 300g Cream cheese, 75g Açúcar, 53g Iogurte natural, 8g Gelatina incolor derretida, 180g Creme de leite fresco.
-
-Cobertura: 250g Purê de Pêssego, 4g Gelatina incolor derretida.
-
-## Preparação
-
-Calda: Pegue metade dos pêssegos de uma lata de pêssegos em calda com um pouco de água da lata e processe com o açúcar. O resultado é um purê de pêssego.
-
-Base: Misture a Nesfit esmagada (sem o recheio) e manteiga derretida. Coloque em um molde e pressione bem ele com a ajuda de uma colher ou fundo de um copo até que fique bem firme. Deixe descansar no freezer por 30min.
-
-Massa: Misture o Cream Cheese com o Fuê (ou com a batedeira) até ficar soltinho.  Adicione o açúcar e misture. Adicione o iogurte natural e misture. Adicione a gelatina incolor derretida e misture. Adicione o creme de leite (já ligeiramente batido a ponto de ficar com uma consistência encorpada) e misture. Retire a forma do freezer e despeje toda a massa nela. Deixe descansar na geladeira por 30min.
-
-Cobertura: Adicione a gelatina incolor derretida no purê de pêssego e misture. Despeje a mistura sobre tudo. Deixe endurecer de 3 a 4 horas na geladeira antes de desenformar. Sirva gelado.
-
-## Outras opções de sabores
-
-Manga: 1 manga grande. Substituir o pêssego da receita original pela manga nas mesmas proporções e com os mesmos procedimentos.
-
-Goiabada: 150g de goiabada cascão e 75ml de água (proporção 1 de goiabada para 1⁄2 de água). Dissolva a goiabada na água em fogo baixo. Se diminuir a proporção de água, talvez não precise de gelatina para dar liga (proporção 1 para 1⁄3 talvez?).
-
-## Bifase
-
-Outra opção para melhorar a apresentação é fazer a massa ficar com 2 colorações, a branca do Cheesecake e uma outra com a cor da fruta.
-
-Para isso, assim que a massa estiver pronta e antes de colocar na forma, divida em 2 partes iguais. Uma das partes, misture com um pouco do purê da fruta (purê ainda sem gelatina). A quantidade a ser misturada é a gosto, até ficar da coloração desejada. Provavelmente será necessário um pouco mais de purê de fruta do que o especificado nesta receita. Na hora de colocar na forma, coloque primeiro a massa colorida e depois a branca.
+Se tornando aos poucos um passatempo cada vez menos atraente e com um ou outro momento interessante, "Chatô - O Rei do Brasil" é um projeto que poderia muito bem continuar engavetado para sempre, pois não consegue sequer esboçar um diálogo crítico a respeito da figura história que pretende retratar. Quem dirá se tornar um filme de referência de uma época.
 

@@ -1,23 +1,30 @@
 ---
-categories:
-- writting
-date: '2021-11-10T20:43:49-03:00'
+categories: []
+date: '2008-03-29'
 tags:
-- cinemaqui
-- mostra
-- movies
-title: Quatro Primaveras
+- ccppbr
+title: Quarto encontro C++
 ---
 
-Por que um diretor de cinema não filmaria seus pais? A resposta rápida é que nem todo cineasta vem com pais que valem a pena ser filmados. Bom, este vem. E surge Quatro Primaveras, um filme sobre o diretor estreante Qingyi Lu que filma um casal adorável de pais que fazem tantas coisas sozinhos que me sinto mal de perder tanto tempo na internet.
+Para os desavisados de plantão, irá acontecer no dia 29 de março de 2008 o quarto encontro de programadores e aficionados C++. Mais detalhes no link anterior. Em suma, as palestras são estas:
 
-Eles são a atração principal neste filme da Mostra Chinesa esse ano. Vivem em uma cidade próximo de montanhas e plantações de arroz. Plantam e cuidam de sua casa como se tivessem o dobro de horas por dia disponíveis que o resto dos seres humanos. E adoram as reuniões de família. Cozinham um banquete sozinhos. Não estou falando de apenas ele ou ela. Ambos não param um minuto. Suas atividades são uma inspiração para quem vive entediado.
+## Programação em C para microcontroladores (Daniel Quadros)
 
-O mais impressionante é que apesar da idade já avançada eles aprendem coisas novas, como cuidar de abelhas e editar músicas pelo computador. Quando não estão cada um em sua atividade caminham juntos pelas montanhas, colhendo novas plantas para cuidar em casa.
+Você já pensou em programar componentes de hardware? Ou melhor: com uma linguagem de alto nível?? Sim, é possível, e de acordo com o Daniel, muito comum (ele usa mais que o próprio assembly). Nessa palestras teremos as dicas de como entrar nesse mundo não-tão-selvagem, e que merece toda a atenção dos que se importam com um dos trunfos da linguagem C: portabilidade.
 
-Não há diálogos explicativos neste documentário porque seus protagonistas se expressam de várias outras formas. É na interação entre eles ou com a família ou sozinhos. O filme nunca fica chato, pois há sempre algo novo sendo explorado por eles.
+## Arquitetura e desenvolvimento de drivers com C para Windows (Fernando Silva)
 
-A direção do filho, Qingyi Lu, também é inspirada. Faz cortes precisos de momentos que se tornam únicos e nos faz esquecer que tudo isso é rotina para eles. A diferença é que a rotina deles é extraordinária para nós, humanos urbanóides da vida moderna, enfurnados em vidas inúteis ou promíscuas, com a mente improdutiva, crescendo erva daninha em volta. Quatro Primaveras é um hino para nos acordar para a vida.
+Pode ser mais específico? Fernando mantém o maior e melhor blogue sobre drivers, aquelas coisinhas que fazem sua placa de vídeo 3D funcionar, para Windows no Brasil: o DriverEntry. Se você já acompanha seus artigos, essa é a chance de fazer aquelas perguntas que não saem da cabeça, mesmo que o assunto pareça fácil. Além, é claro, de poder entrar em outro mundo completamente fora da realidade da programação nacional.
 
-Há um momento difícil para eles. Uma perda de um ente querido. O diretor filma com forças que estão além do projeto. E o resultado é belíssimo na montagem. É difícil atingir profundidade em documentários, mas este é um achado chinês que sequer precisa de roteiro.
+## TCP/IP via Boost.Asio (Rodrigo Strauss)
+
+Voltemos ao C++ padrão ISO com ajuda da biblioteca mais poderosa de todos os tempos. Nessa conversa sobre C++, Strauss irá explicar as entranhas e o uso de uma biblioteca que, se não-padrão, pelo menos suportada em várias plataformas, o que por si só já é motivo para usá-la em seus projetos que usam rede (existe hoje em dia um projeto que não use?).
+
+## Desenvolvimento cross-platform em C++ com Qt (Basílio Miranda)
+
+Mais um mundinho que, eu pelo menos, nunca me arrisquei a entrar. Dando continuidade ao tema "frameworks de interface com o usuário multiplataforma", Basílio Miranda agora explica como usar uma  linguagem poderosa com um framework flexível, macetes e dicas.
+
+## Como assim "quanto custa"?
+
+Sim, senhores, foi inevitável. Esse encontro será cobrado um pequeno valor, quase simbólico, mas que será usado para custear alguns gastos com a estrutura do evento que, pelo que promete, vai ser maior ainda que o anterior. Eu sei que encontros de entusiastas nunca deveriam ser cobrados. Porém, essa é uma experiência que temos que vivenciar com nosso grupinho C++ para termos argumentos contra e a favor dos dois moldes que serão escolhidos.
 

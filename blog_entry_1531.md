@@ -1,23 +1,13 @@
 ---
 categories:
-- blogging
-date: '2023-03-26T12:47:36-02:00'
-link: https://youtu.be/hsGgI0ThLG8
-tags:
-- body
-title: 10 Exercícios de aquecimento completos
+- cooking
+date: '2021-07-24T22:26:05-03:00'
+tags: []
+title: O jeito mais simples e gostoso de se livrar do excesso de fermento natural
+  da geladeira
 ---
 
-Esta é uma série de exercícios leves para começar o dia e aquecer todos os principais músculos. Gostei da lista porque não envolve (muitos) aeróbicos. Faça 30 segundos de cada movimento.
+É fazendo biscoitos amanteigados. Pegue a manteiga que estiver dando bobeira e misture com o dobro em peso de farinha. Junte o fermento que quer descartar, no máximo o dobro em peso da farinha. Então a proporção é 1 de manteiga, 2 de farinha e 4 de fermento no máximo. A quantidade de fermento pode variar, é apenas para descarte e para dar volume. Misture tudo, tempere a gosto (sal, ervas, pimentas), forme um bloco retangular e coloque na geladeira por uma horinha (pode ficar mais, até de um dia pro outro, ele não vai a lugar algum). Depois pré-aqueça o forno a 180 graus e vá tirando a massa em blocos que quando abertos bem fininhos caibam em forma untada levemente com azeite. Corte retângulos dos mais uniformes possíveis e transfira para a forma. Na forma corte o tamanho dos quadradinhos ou outro formato que quiser para seus biscoitos. Faça furinhos com o garfo para o biscoito não inchar e coloque no forno. Fique sempre de olho, pois você deve ir retirando os que forem ficando moreninhos, que é o ponto onde estão secos sem estarem queimados. Talvez seja preciso ir tirando aos poucos. Enquanto isso vá preparando a próxima fornada.
 
-1. Intro: marchinha leve estando no mesmo lugar;
-2. Squat + Knee Pull: agachar e subir, puxando um joelho de cada vez para cima, abraçando-o com os braços;
-3. Wall Down Plank: de pé engatinhar com as mãos até ao chão na posição inclinada;
-4. Flutter Kicks: deitado, movimentar os pés no ar um de cada lado como caminhando;
-5. Crunch Jack: ainda deitado esticar braços e pernas inclinadas para cima e encolher os joelhos para próximo do corpo com as mãos tocando os calcanhares;
-6. Push Up + Child's Pose: abdominal de joelho junto com posição de criança;
-7. Windmill Turns: de pé curvado totalmente para a frente e os braços abertos girar o tronco de um lado para o outro;
-8. Downward Dog to Back Bow: fazer um triângulo com seu corpo, abaixar para deitar de bruços subindo mãos e pés;
-9. Arm Cross Swing: de pé abrir e curvar os braços para o lado oposto enquanto com as pernas balançar de um lado para o outro;
-10. Front Jack: um polichinelo com os braços para a frente.
+Pronto. Fermento natural descartado com sucesso e com manteiga direto pra barriga no chá das cinco.
 

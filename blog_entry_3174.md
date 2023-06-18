@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2016-10-21'
-link: https://www.imdb.com/title/tt5354986
+date: '2019-12-17'
+link: https://www.imdb.com/title/tt6133130
 tags:
 - movies
-title: Profundidade Dois
+title: Professor Marston e as Mulheres-Maravilhas
 ---
 
-Um documentário que é uma peça de museu. Fala sobre um massacre "de guerra" feito em civis perpetrado pelos capangas psicopatas de um presidente. Bom, o que há de novo? 100% dos massacres são assim.
+Este é um filme que não entende muito bem seu papel no mundo. Ele quer afirmar que não há nada de errado em um pai e duas mães constituírem família, mas toda essa compreensão sobre formas diferentes de amar não serve para compreender que o resto do mundo não é mal, mas apenas vive em sua própria época, seguindo seus próprios valores.
 
-Tendo como pano de fundo a guerra da Iugoslávia contra o território de Kosovo e a entrada da OTAN no conflito após acusações de abusos nos direitos humanos, o filme resgata mais abusos de direitos humanos, dessa vez dentro do próprio território controlado pela própria Iugoslávia, às vésperas de sua dissolução com a independência de suas repúblicas formadoras, que durante toda a História nunca resolviam seus conflitos.
+Essa afirmação que o incomum pode ser normal sabota a estrutura de "Professor Marston e as Mulheres-Maravilhas", que já no título centopeico denuncia seu tom novelesco, pronto pra TV. Começa no julgamento de um comitê de ética e segue com flashbacks por completo, quase sem ligação com o tempo atual. É preguiçoso em seu máximo. Não entendendo a mina de ouro que é a história que ela está sentada, a diretora e roteirista Angela Robinson adota uma postura tão blasê ao narrar os acontecimentos reais em torno do criador da Mulher-Maravilha que a única coisa que chama a atenção são os acontecimentos, e que chamariam a mesma atenção em um verbete da Wikipedia (e gastaria bem menos tempo do espectador).
 
-A narrativa é feita toda sem vermos as testemunhas que estão falando, mas elas foram gravadas durante tribunais de julgamento do caso. O que vemos é a sensação da ação conforme acontecia pelo ponto de vista dessas pessoas que vivenciaram o horror diante dos seus olhos.
+Não é possível também, em pleno século 21, que seja escalada uma diretora mulher para conduzir um material cujo protagonista é um mero representante do patriarcado acadêmico, além de um homem de sorte. Ele é um professor doutor em psicologia e trabalha com sua linda esposa e se relaciona com sua estonteante secretária. Ao mesmo tempo. Sua desculpa é validar uma teoria sobre papéis de dominação e submissão que permeiam o imaginário popular hoje em dia com enlatados repulsivos como a série 50 Tons de Cinza.
 
-O caso mais impressionante é de uma mulher que sofreu uma explosão em seu corpo, tiros e ainda se jogou de um caminhão na estrada. Boa parte do filme vale a pena justamente pelo seu testemunho.
+Ele também é o inventor do detector de mentiras, que gera uma cena absurda e obtusa em que a inquisidora mulher do professor deduz um detalhe técnico que não tem a menor relação com ética apenas para uma personagem feminina poder afirmar que outra personagem (feminina) foi responsável pelo principal detalhe de sua invenção, e não um homem, como se imagina. Porém, quando observamos outra cena em que a secretária dá seu pitaco, soa tão irreal frente a dois doutores que a impressão é que uma secretária está diante de dois doutores incapazes de constatar o óbvio de sua própria pesquisa.
 
-As tomadas do diretor Ognjen Glavonic são inspiradíssimas, mas é difícil de desvencilhar de sua falta de ritmo. Porém, graças a diferentes causos alternados no tempo é possível ter uma quase-vida no que vemos e sentimos, embora dependa muito do espectador.
+Por outro lado, o lado pessoal, "Prof. Marston" caminha gradualmente em torno de sua mensagem de amor livre, mas as emoções sentidas pelo trio soam falsa desde o início, ou no mínimo formulaico. É óbvio que eles estão destinados desde a primeira cena a se tornar um ménage, mas metade do filme é gasto para desenvolver o óbvio, e acaba soando bombástico quando no fundo é auto-evidente. O único freio na inevitabilidade do amor a três seria a sociedade e os valores de cada um, mas esses valores nunca são expostos o suficiente para serem postos à prova, desafiados, e assim quebrados. Nunca sabemos realmente quem são essas pessoas, e por isso nos conectamos mais à sua história genérica do que às suas personalidades.
 
-O impressionante de tudo isso é que os locais que são mostrados possuem um clima lúdico, pacífico e pacato. Nada disso impediu, no entanto, que aquelas pacatas pessoas fossem submetidas ao poder de fogo estatal, que utiliza corpos humanos como se fossem matéria a serviço do prazer sádico ou qualquer outra bobagem que inventem. Aliás, voltando à mulher invencível, é sintomático que um de seus algozes fosse um rapaz cuja família ela conheceu . Ela chega a ouvir a voz de sua mãe após o massacre ter ocorrido. Tudo depende de que lado você está quando a barbárie começa.
+Unindo História e vida pessoal o filme ainda tenta estabelecer o necessário elo entre a polêmica heroína fetichista iniciada pelo Professor como forma de divulgar suas ideias não-ortodoxas pela via popular, e para isso utiliza os mesmos personagens em papéis funcionais e nunca orgânicos. É daí que surge o avião invisível a partir de um aviãozinho de plástico, ou o chicote entre os primeiros aficionados de BDSM antes mesmo de ter esse nome. Tudo soa muito artificial e conveniente, pois falta espírito na aventura.
 

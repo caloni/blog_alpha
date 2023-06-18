@@ -1,18 +1,24 @@
 ---
 categories:
 - writting
-date: '2015-04-11'
-link: https://www.imdb.com/title/tt0072431
+date: '2015-03-15'
+link: https://www.imdb.com/title/tt2084970
 tags:
 - movies
-title: O Jovem Frankenstein
+title: O Jogo da Imitação
 ---
 
-As comédias do Mel Brooks são sempre um esculacho, mas nunca podemos acusá-lo de ser relapso no tema que pretende abordar. Nesse O Jovem Frankestein, por exemplo, é seguido à risca não só os conceitos e a história-base de Mary Shelley como a própria atmosfera dos primeiros filmes que caracterizavam o doutor obcecado com experimentos pós-vida e o icônico monstro que não apenas possui uma alma, mas como é mais gentil que todo o vilarejo onde moram. Tanto que o filme é em preto e branco, usa uma pintura para mostrar o castelo, letreiros antigos e uma trilha sonora inspirada.
+Todo ano existem trabalhos gêmeos no Cinema, ou seja, filmes que por uma razão ou outra estão intrinsecamente relacionados. O Jogo da Imitação é um filme que conta a história do projeto secreto do MI-6 -- o serviço de inteligência britânico -- em quebrar o código da criptografia dos nazistas em plena Segunda Grande Guerra. O projeto se confunde com um de seus idealizadores, Alan Turing, um matemático responsável por desenvolver a teoria que possibilitou a construção dos primeiros computadores digitais e que acreditava que apenas uma outra máquina conseguiria ser tão rápida a ponto de quebrar o código do inimigo durante a janela de 18 horas.
 
-Usando de maneira inteligente a persona caricata e ao mesmo tempo fascinada de Gene Wilder -- que também escreve o roteiro com Brook -- a história brinca com o neto do famoso médico -- também médico, professor -- que é atormentado pela controversa fama do avô. Junto com ele há a velha caricatura do corcunda (uma atuação engraçadíssima de Marty Feldman), a bela assistente que se joga nos braços do seu tutor, a governanta cujo nome faz os cavelos relincharem (onde quer que estejam) e um monstro que Peter Boyle cria como um misto de representações.
+Esse filme é gêmeo de A Teoria de Tudo, que conta a história de Stephen Hawking, um físico teórico que elaborou uma explicação a respeito de buracos negros, ficou famoso, e desenvolveu uma deficiência congênita raríssima que o deixou a maioria da sua vida preso a uma cadeira de rodas e ausente de quase qualquer movimentos do seu corpo.
 
-O filme é também um misto de emoções e conceitos. Uma hora hilário, outra dramática, faz tanto rir quanto pensar. Vira um complemento cômico da obra original, pois não a denigre, mas a reinterpreta para o humor. Um humor que se revela mais nos pequenos detalhes, como as expressões de Igor olhando para nós. De certa forma, Mel Brooks está a todo momento piscando para nós. Não é uma obra para se levar a sério, mas mesmo assim, o afinco com que é produzida a torna encantadoramente engraçada.
+Turing e Hawking compartilham suas genialidades no mesmo ano, e ambos participaram de projetos importantes na evolução da ciência no século passado. Ambos também possuem seus dramas pessoais. Para Hawking, a doença que tem mantido sua mente presa a um corpo inerte. Para Turing, a incapacidade de lidar com seus sentimentos em relação a um interesse amoroso em sua infância e a repressão à homossexualidade que havia na época.
 
-PS: Se você não gosta de filmes sem cores, estilo antigo ou que seja "sério demais para uma comédia", apenas faça o seguinte: assista a sequência entre o monstro e um cego do vilarejo. É Gene Hackman fazendo uma ponta imperdível. Apenas cinco minutos de sua vida se foram, e vai ficar uma forte impressão de todo o filme.
+Ambos os filmes também compartilham a estrutura maniqueísta e previsível de todo o drama que evita arriscar demais: aquele momento em que o grupo inexplicavelmente se junta para defender um colega, os laços de amizade que -- inexplicavelmente? -- foram construídos em torno de um projeto (seja de vida ou de trabalho) e, claro, a sensação de injustiça quando vemos um ser humano ser impedido de seguir com sua vida só porque sua orientação sexual não combina com as regras vigentes em sua sociedade.
+
+No entanto, no caso de The Imitation Game, há pelo menos um momento glorioso que deve ter feito todo programador vibrar -- mesmo que internamente: quando aquela grande sacada retirada do acaso serve para finalmente gerar os frutos que todos esperavam de um projeto ambicioso como esse. Sim: o programa rodou e imprimiu alguma coisa no final. A glória!
+
+Pena que tanto para esse momento quanto para a intrincada rede de estratégias que se forma a respeito da não-revelação do segredo para os militares somos obrigados a acompanhar um drama como outro qualquer e sequer conhecemos melhor as pessoas envolvidas. Não há muito a ser revelado a respeito de Turing (Benedict Cumberbatch, da série Sherlock), e o pouco que existe é usado como gancho para idas e voltas no passado e sua infância traumática. Sua colega escolhida a dedo, Joan (Keira Knightley), sabe-se que é muito inteligente e mulher, e que por isso sofre constantemente pressão da sociedade para que deixe essa vida de trabalho intelectual. E isso é tudo. Sua equipe, antes liderada pelo campeão de xadrez Hugh (Matthew Goode), e até o detetive (Rory Kinnear) que vemos em meia-dúzia de momentos aleatórios procurando por pistas do real paradeiro de Turing são meras peças movidas convenientemente em cima de uma trama rasa perto da conquista obtida por esses matemáticos. Ou seja, até nisso o filme se parece com A Teoria de Tudo: um drama "comovente" em torno de um ser humano que construiu muito mais do que está sendo mostrado na tela.
+
+Parece que um dos efeitos colaterais dos filmes-gêmeos é dividir a energia e gerar dois filmes medíocres de uma só vez.
 

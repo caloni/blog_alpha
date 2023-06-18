@@ -1,23 +1,25 @@
 ---
 categories:
 - writting
-date: '2017-07-01'
-link: https://www.imdb.com/title/tt3072174
+date: '2011-07-04'
+link: https://www.imdb.com/title/tt1396218
 tags:
-- cinemaqui
 - movies
-title: Os Pobres Diabos
+title: Os Pinguins do Papai
 ---
 
-Depois de quase quatro anos após ganhar o Festival de Brasília em 2013, chega nas telas Os Pobres Diabos, um filme onde provavelmente sua melhor parte é a primeira cena, que evoca O Palhaço (Selton Mello, 2011), com seu clima de desesperança poética nordestina de Graciliano Ramos e José Lins do Rêgo, uma trilha sonora inspirada em temas de circo com um toque de melancolia, e possivelmente um road movie. Toda essa promessa, infelizmente, dá entrada para um show de clichês cujo objetivo, diferente do circo mais humilde, está muito longe de entreter e muito próximo de virar propaganda ideológica da pior espécie: a que se coloca acima do seu conteúdo artístico.
+Sinopse: A vida de um homem de negócios começar a mudar após ele herdar de seu pai seis pinguins. Conforme ele avança em sua vida pessoal, sua vida profissional começa a despencar.
 
-Mas chamar este filme de propaganda ideológica chega a ser um elogio, já que sua história é um fiapo novelístico da pior espécie. Envolve a chegada de um circo itinerante caindo aos pedaços em uma cidadezinha minúscula. Eles montam sua lona bem distante, em um terreno baldio para não ter que pagar o caro aluguel de um terreno na cidade, o que de início já não faz muito sentido, se trata-se de uma cidade pequena e pobre. Menos sentido ainda é um eletricista da empresa de energia local vir fazer a instalação temporária para os itinerantes, e de uma paisagem desértica brota um poste de luz. E ao fundo vemos um inusitado "product placement" que é um vexame: moinhos de vento de energia eólica. Faltou apenas um letreiro com um slogan desses do governo. Brasil: um país de vento.
+Odeio falar mal dos filmes que não gosto, mas Os Pinguins do Papai é fraco, oportunista e covarde.
 
-Aos poucos vamos acompanhando o drama financeiro e emocional daquela trupe. O dono do circo mantém uma paixão platônica pelo homem forte, que assume-se leão-de-chácara com uma ingenuidade quase tocante. Sua irmã, assim como vários personagens secundários, é uma coadjuvante que está lá para fazer volume e servir de ouvinte para os diálogos insossos que seu irmão profere. Há uma anã (ou seria um anão?) particularmente conveniente em um pequeno auto que é interpretado durante o espetáculo, por fazer o papel de narradora. A "musa" do circo é interpretada por Sílvia Buarque, filha de Chico, e a sua dança de La Cucaracha (e canto, com sua própria voz) será a única coisa que provavelmente você levará de lembrança deste filme (e que certamente gostaria de apagar da memória). Seu "marido", interpretado por Gero Camilo, é assim como todos um personagem incompleto com uma profundidade nunca revelada. Seu papel aos poucos vira o de corno manso, que cuida de sua cabra como se fosse parente -- um animal, não a esposa -- e assobia quando está chegando em casa. Duas vezes.
+Fraco porque não consegue de fato criar um arco dramático que se preze. Se no começo enxergamos Mr. Popper como um vendedor sem escrúpulos, quando ele começa a conviver com os pinguins enxergamos, na verdade, o mesmo Mr. Popper coagido pela sua família, especialmente os filhos, a quem tenta agradar sempre sem sucesso. Mesmo que isso seja um ótimo tema para comédia, ela não chega a decolar, tamanha a fascinação do diretor em focar as gracinhas dos seis (sete com Popper?) pinguins em cena.
 
-Alias, a "cena do corno", que o diretor/roteirista Rosemberg Cariry resolveu inserir duas vezes no filme sem qualquer justificativa, é a que começa a instigar o espectador a imaginar que tudo aquilo que vimos na história é tão real quanto o próprio auto do Lampião no Inferno. Tudo vai se tornando uma versão abominável sobre pobreza, religião, política e destino que com certeza os espectadores humildes dessa cidadezinha não estariam nem um pouco interessados em assistir, o que me leva a crer que não deve ter realmente nada para fazer nesse lugar. Nem um sorvete na praça.
+Oportunista porque se aproveita do fato dos pinguins estarem na moda (nada contra, vide Happy Feet) e os traz à tona apenas para transformar um roteiro fraco em no máximo um filme fofinho (e nem assim ganha do magnífico [Bebês]). E apenas para ilustrar, tente se lembrar das cenas que você mais gostou e veja se consegue achar alguma que não tenha pinguins ou piadas tão "aprimoradas" quanto as boladas das comédias da dupla Adam Sandler e Dennis Dugan (ou do próprio Jim Carrey em momentos menos inspirados de sua carreira).
 
-Há também alguns personagens caricatos na cidade, como a esposa do eletricista, que é uma religiosa sisuda que -- adivinhem -- "surpreendentemente" se revela quando vai ao circo. Aliás, nada é surpreendente neste longa, exceto o seu declínio cada vez mais profundo nas qualidades técnicas, narrativas e artísticas. O design de som será o primeiro a ser sentido, pois há vários momentos onde não é possível entender o que os personagens estão dizendo (o que pode ser uma coisa boa), e outros momentos que entendemos praticamente tudo, mas o som é gravado em estúdio, o que soa insuportavelmente artificial. Quando chega a este nível é algo triste se comparado com a primeira cena, flertando com um drama épico em meio ao clima desértico do Nordeste. Mas que ledo engano.
+E, enfim, é Covarde porque simplesmente parece não conseguir finalizar a história sem deixar todos felizes (e acompanhados). E se na cena final eu até consigo fazer um paralelo com as novelas globais, tenho certeza de que não há mais nada abaixo desse nível que mereça ser visto.
 
-O "clímax" do filme envolve um baque psicológico em todos do circo, e provavelmente uma grande vergonha alheia para todos os espectadores que ainda estiverem assistindo. Não irei revelar aqui, mas quando começar, você já irá perceber uns 20 minutos antes. E o resto da história não poderia ser mais arrastada. Nada pior para um espetáculo do que revelar seus truques minutos antes deles acontecerem. No caso de Os Pobres Diabos, talvez se o filme durasse apenas isso -- minutos ao vento -- ele teria sido mais palatável.
+Dito isto, que venha [Happy Feet 2].
+
+[Bebês]: {{< relref "bebes" >}}
+[Happy Feet 2]: {{< relref "happy-feet-2-o-pinguim" >}}
 

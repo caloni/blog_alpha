@@ -1,16 +1,16 @@
 ---
 categories:
 - writting
-date: '2011-02-13'
-link: https://www.imdb.com/title/tt1007028
+date: '2013-12-22'
+link: https://www.imdb.com/title/tt0388473
 tags:
 - movies
-title: Pagando Bem, que Mal Tem?
+title: Padrinhos de Tóquio
 ---
 
-Embora Seth Rogen possua um carisma que transforma as piadas de sua boca, por mais insossas que sejam, como a coisa mais divertida do mundo, o fato é que "Pagando Bem" mal consegue se segurar em sua narrativa confusa e embaraçosa.
+Essa animação natalina japonesa segue os mesmos moldes do ótimo Paprika, também dirigido e escrito por Satoshi Kon e co-dirigido por Shôgo Furuya, que já havia trabalhado como animador em A Viagem de Chihiro (2001). Quando digo os mesmos moldes me refiro à caracterização exagerada e satirizada da realidade que cerca os personagens. As expressões de rosto absurdas, tão comuns no anime, aqui funcionam em parte pelo seu humor e não funcionam em parte pela sua dramatização exagerada.
 
-Dirigido e escrito por Kevin Smith, que se saiu muito melhor em Dogma, o filme parte da fraca premissa que o par de amigos (não são namorados) que moram juntos, Zack e Miri, quando se veem com problemas financeiros que culminam no corte de água e eletricidade do seu lar, logo decidem que a melhor maneira de arrecadar mais dinheiro e, quem sabe, se tornarem ricos e famosos, é produzir um filme pornô, em que eles mesmo participem "atuando".
+A história gira em torno de uma criança encontrada no lixo por três moradores de rua, sendo que os três também foram abandonados pelos seus pais. Formam uma família torta, onde o "pai" é um vagabundo irresponsável e a mãe é um gay. Nas ruas de Tóquio pode-se esperar de tudo, menos compaixão. Essa família, no entanto, se une em torno de seu passado aparentemente semelhante de abandono.
 
-Isso não seria tão estranho para uma comédia escrachada que se supõe ser esta, mas se torna um problema a partir do momento que o filme tenta se levar a sério e desenvolver a relação dos dois a partir de uma atração oculta que os amigos tinham entre si por todos esses anos (se conheceram no colégio), e que se revela ao terem que interpretar uma cena de sexo real.
+A fraqueza do filme reside em seu roteiro cheio de coincidências que insistem em aparecer em momentos onde elas não são chamadas. Quebram o ritmo de uma história tão envolvente quanto bem desenhada. É uma pena, portanto, que boa parte dos seus momentos sejam estragados no final por uma "revelação" completamente desajeitada. OK, é um conto de natal. OK, estamos falando de uma fábula. Mas veja os fantasmas de Scrooge: surreal, natalino e eficiente.
 

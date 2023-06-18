@@ -1,24 +1,35 @@
 ---
 
-Os juízes do futuro pós-apocalíptico em Dredd utilizam apenas duas ferramentas para fazer valer a ordem: uma pistola com diversos tipos de disparo e uma interpretação literal das leis. Olhamos essa realidade através do implacável juiz que empresta seu nome ao título, que em suas rondas se limita a aplicar a sentença cabível aos criminosos, incluindo aí a pena de morte. Sua decisão do que fazer a seguir é a resposta da pergunta como posso melhor julgar este caso.
+I could move (black) and M2, but I decided to draw =P.
 
-Se passando em uma cidade pós-apocalíptica de proporções continentais chamada pomposamente de Mega City 1, seus sobreviventes precisam suportar, além da radiação que os circunda, uma violência constante e em um grau cada vez mais desumano. Para manter a ordem os já citados juízes possuem o poder conjugado de policiais que capturam os criminosos, os julgam no mesmo lugar e, se necessário, aplicam a sentença definida. Os objetivos por trás dessa organização nunca são reveladas, e nunca conhecemos os governantes (se é que existem) da caótica megalópole.
+{{< image src="board.png" >}}
 
-A história gira em torno do implacável juiz Dredd (Karl Urban) e a novata Anderson (Olivia Thirlby), uma pequena ilha de beleza em meio a tanta opressão e que possui poderes psíquicos resultantes de sua vivência em meio à radiação, e que por conta disso ganha créditos junto à corporação, mesmo não se destacando em seus exames admissionais. Para seu teste prático ela é levada junto em uma missão para descobrir o assassino de três pessoas em um prédio dominado por Ma-Ma (Lena Headey), a líder inescrupulosa de uma gangue que vende uma droga conhecida como slo-mo, que como o nome diz, possui o curioso efeito de retardar os sentidos na mente de uma pessoa.
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.18"]
+[White "Tomsonht"]
+[Black "cavaloni"]
 
-Aqui reside, aliás, uma das maiores virtudes de Dredd: o uso orgânico do 3D. Além de investir em planos fundos com longuíssimos corredores e gigantescos arranha-céus, o que já causa um efeito e tanto, a tecnologia consegue ir além e compor quadros multidimensionais que não agridem os olhos justamente por serem filmados em uma câmera lentíssima, resultado mais uma vez orgânico pois enfoca o ponto de vista dos usuários de slo-mo. O efeito é ressaltado ainda mais pelo uso estético de partículas em suspensão que, apesar de marca registrada de Guy Ritchie, aqui encontra um uso muito mais legítimo.
-
-Porém, Dredd não se destaca apenas pelo seu aspecto visual, mas pelas ideias por trás dele. Utilizando um uniforme que nunca revela seus olhos, para proteção e para uma alusão à justiça cega, os juízes reafirmam sua imparcialidade através dos seus atos quase mecanizados. Curioso notar que Anderson não utiliza o capacete para não prejudicar sua mediunidade, e o fato dela ler a mente das pessoas cria um contraponto interessantíssimo que é explorado apenas marginalmente: enquanto Dredd executa suas ações baseado apenas nos acontecimentos à sua volta, Anderson enxerga também o contexto das pessoas que encontra, o que a possibilita, por exemplo, identificar uma vítima em meio a uma gangue sanguinária, ou expandir o significado da vida dessa pessoa, o que gera a cena mais tocante e desafiadora do filme, com a capacidade real de fazer-nos pensar a respeito de toda aquela matança com um olhar mais crítico.
-
-Aliado a isso, temos a informação extremamente relevante, mas não tão óbvia a princípio, da existência de juízes corruptos, que fazem favores aos criminosos em troca de dinheiro fácil. Na posição de uma figura que os cidadão devem não apenas obedecer, mas confiar, exatamente por se tratar do executor e julgador de seus atos, essa simples metáfora da vida real consegue ilustrar de maneira extremamente eficiente os estragos em nossa sociedade de uma justiça enviesada.
-
-Contando com uma conclusão simplista mas corajosa por deixar claro não se tratar de um final feliz, Dredd ainda se afirma otimista por um simples ato de humanidade vindo de um ser que teria tudo para continuar isolado de seus sentimentos. Uma mensagem que se torna ainda mais poderosa depois de termos participado do processo sanguinário responsável pela morte de dezenas de pessoas, pelo simples fim de fazer valer uma lei que não permite a reflexão de como nos devemos organizar como seres humanos e ainda continuarmos humanos.
+1. d4 Nf6 2. Bf4 g6 3. Nf3 Bg7 4. e3 O-O 5. c3 Re8 6. Bd3 d6 7. e4 Nbd7 8. e5
+dxe5 9. Nxe5 Nd5 10. Bg3 Nxe5 11. Bxe5 Bxe5 12. dxe5 e6 13. Bc4 c6 14. Nd2 Bd7
+15. Ne4 Kg7 16. Bxd5 cxd5 17. Qf3 Rf8 18. O-O dxe4 19. Qxe4 Qe7 20. Rad1 Rad8
+21. Rd3 Bb5 22. Rxd8 Rxd8 23. Re1 Bc6 24. Qe3 h6 25. h3 a6 26. b4 Qg5 27. Qxg5
+hxg5 28. Re3 Rd2 29. a3 Ra2 30. c4 f5 31. exf6+ Kxf6 32. c5 Bd5 33. f3 Kf5 34.
+Kh2 Kf4 35. Rd3 Kf5 36. Kg3 Ra1 37. Re3 Ra2 38. Rd3 Bc4 39. Rc3 Bb5 40. Re3 Bc6
+41. Rd3 Rc2 42. Re3 Rc4 43. Rd3 e5 44. Re3 e4 45. fxe4+ Rxe4 46. Rf3+ Rf4 47.
+Rd3 Ke4 48. Rc3 Kd4 49. Rb3 Kc4 50. Re3 Kb5 51. Re5 Re4 52. Rxg5 Re3+ 53. Kf2
+Rxa3 54. Rxg6 Ra2+ 55. Ke3 Rxg2 56. Rxg2 Bxg2 57. h4 Kxb4 58. Kd4 a5 59. h5 a4
+60. Kd3 Bd5 61. h6 Bg8 62. Kc2 Kxc5 63. Kb2 Kb4 64. Ka1 b5 65. Kb2 Kc4 66. Ka3
+Kc3 67. h7 Bxh7 68. Ka2 b4 69. Ka1 a3 70. Ka2 Bg8+ 71. Kb1 b3 72. Ka1 {Black
+move and M2.} 72... a2 (72... b2+ 73. Kb1 a2#) 1/2-1/2
+```
 
 ---
 categories:
 - writting
-date: '2012-03-13'
-link: https://www.imdb.com/title/tt0780504
+date: '2012-10-05'
+link: https://www.imdb.com/title/tt1343727
 tags:
 - movies
-title: Drive
+title: Dredd

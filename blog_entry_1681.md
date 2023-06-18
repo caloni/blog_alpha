@@ -1,23 +1,14 @@
 ---
 categories:
 - writting
-date: '2016-08-12'
-link: https://www.imdb.com/title/tt2461150
+date: '2015-04-07'
+link: https://www.imdb.com/title/tt0017925
 tags:
-- cinemaqui
 - movies
-title: Gênios do Crime
+title: General
 ---
 
-Gênios do Crime não é o melhor momento de ninguém do seu elenco. Porém, também não é o pior. É apenas aquela sensação de que já vimos isso antes, e embora não exatamente daquela forma, não chega a ser tão diferente de qualquer comédia de situação. E, como eles mesmos no filme admitem, ainda é um filme de roubo a banco. Sim. Mais um filme de roubo a banco.
+Esse é um dos filmes mais conhecidos de Buster Keaton. Talvez porque seja o mais movimentado. O filme todo é praticamente uma longa e tensa perseguição. A Guerra Civil estadunidense começa e o personagem de Keaton não foi aceito no alistamento por ser mais útil como engenheiro de trens. O que se prova cômico quando Keaton descobre um roubo do exército inimigo, vai persegui-los pela linha férrea e comete uma sequência de erros que constrói um misto de humor e tensão. A parte em que ele tenha disparar um velho canhão comprova a engenhosidade de ângulos, cortes e sequências que parecem inimagináveis para a década de 20, quanto o Cinema ainda estava engatinhando em seus conceitos.
 
-Esse, baseado em eventos reais, de um dos maiores roubos (em valores monetários) da história dos EUA, não tem muita margem para mudanças, mas elas acontecem e aos montes. Não estamos diante de atores acostumados com verossimilhança, então a primeira e marcante mudança é que os personagens não fazem a mínima ideia do que estão fazendo. Mas o fazem de qualquer jeito.
-
-E se em comédias parecidas -- no sentido de ser baseada na vida real e ser sobre criminosos -- como O Golpista do Ano ainda há o fator de que a realidade ultrapassa a arte, o que justifica Jim Carrey pelo seu exagero, aqui se torna difícil acreditar que tudo o que de fato ocorreu sequer foi levemente semelhante ao que vemos no filme, com as pessoas que vemos.
-
-Dessa forma, as figuras montadas por Zach Galifianakis, Kristen Wiig, Owen Wilson e Jason Sudeikis (e até a simpática Leslie Jones) soltam seus diálogos despropositados e engraçados apenas pelo absurdo, mas não como uma forma de pontuar que apenas tal personagem diria tal coisa, pois isso é aparentemente irrelevante para os propósitos do filme, que é fazer rir apenas pelo absurdo destacado de contexto (como dar um tiro na própria bunda).
-
-Não que eles não estejam bem. Porque estão (como constatei no primeiro parágrafo). Só que estão atuando para o filme errado. O roteiro escrito a seis mãos (que contou ainda com a consultoria de alguns dos envolvidos no roubo de verdade) não consegue se situar nem entre o drama engraçado ou a comédia escrachada. É simplesmente uma história que vai se desenrolando com o tempo suficiente de projeção para que os atores digam suas falas e encenem as situações engraçadas.
-
-Nesse sentido, Gênios do Crime até é engraçado, embora não seja hilário. Para chegar no hilário precisaríamos nos preocupar com seus personagens. Algo que é querer demais quando sequer os entendemos além de seus estereótipos.
+Porém, a verdadeira engenhosidade reside nessa perseguição conseguir se estender por todo o caminho de volta -- em que as câmeras e o sentido em que os trens se movimentam estão realmente invertidos --, impressionar pela queda de uma ponte, uma batalha às margens do rio e pela imagem poética do último soldado olhando a multidão ir em direção ao seu dever patriótico. O que ela representa está na cabeça de quem assiste e em suas convicções políticas. De qualquer forma uma bela, memorável e icônica imagem.
 

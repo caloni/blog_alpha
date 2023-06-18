@@ -1,20 +1,17 @@
 ---
 categories:
 - writting
-date: '2011-11-13'
-link: https://www.imdb.com/title/tt1634122
+date: '2011-12-31'
+link: https://www.imdb.com/title/tt0086190
 tags:
 - movies
-title: O Retorno de Johnny English
+title: 'Star Wars, Episódio VI: O Retorno do Jedi'
 ---
 
-Não assisti ao original, mas a impressão geral desse novo trabalho de Rowan Atkinson, que aqui veste a pele de mais uma paródia de filmes do 007, é que, apesar do roteiro não se importar quase nada com a lógica da sua trama, esse não é motivo que impeça que o longa tenha momentos inspirados, criados principalmente pela boa performance do ator, que consegue flexibilidade para criar outro personagen caricato além de seu mundialmente famoso Mr. Bean.
+Hora de assistir novamente a conclusão da saga de George Lucas, dessa vez após ter visto a nova trilogia e o significado que ela insere na antiga (em especial [A Vingança dos Sith]). Uma direção de arte cada vez mais impecável, que consegue equilibrar o tema espacial com a fantasia por trás da história. Quando C3PO narra a aventura épica dos personagens em torno da fogueira é o momento mais icônico e que melhor representa o conceito por trás das lendas filmadas de Star Wars. Parece não haver mais o que acrescentar a este universo, embora a direção aqui se mostre mais pausada, madura e consciente de seu final mais trágico que de costume.
 
-Com a direção de Oliver Parker (O Retrato de Dorian Gray) a câmera consegue fluidez nas cenas de ação, inclusive nas cômicas, e faz um grande esforço para tornar a história no mínimo interessante, o que não impede que o filme pareça mais longo do que na verdade é, o que inconscientemente já denuncia falhas em sua estrutura narrativa que, apoiada em um argumento fraco, não consegue desenvolver seus personagens o suficiente para que a "brincadeira tenha graça".
+Apesar de nossos heróis, é inegável que tudo converge para Darth Vader, e é ele quem rouba a cena, mesmo quando não está presente. É uma figura ameaçadora que foi crescendo a cada filme, onde agora tudo passa a girar em torno dele; até o Imperador, seu mestre, apenas existe para guiar seu pupilo por meio das trevas do Lado Negro da Força e impedir que Luke se torne um Jedi. O sentido da [Guerra nas Estrelas] e suas batalhas converge para a luta entre o bem e o mal, ainda em uma época em que esses conceitos eram muito bem definidos e onde o bem ainda não era relativo, como gostaria que fosse o Imperador Palpatine. Nesse sentido, a inversão temporal das trilogias ganha mais do que perde. Assisti-las em qualquer ordem lhe dará uma visão diferente dos fatos.
 
-O que é uma pena, pois a intenção é muito louvável, pois graças ao sempre atrapalhado e caricato Rowan Atkinson é possível se divertir em boa parte das cenas, com um destaque honroso para a reunião com o primeiro-ministro (e note como a câmera faz questão de deixar a cabeça de Aktinson cortada, o que deixa a cena ainda mais efetiva).
-
-Com uma série de homenagens (algumas sutis) que não poderiam faltar aos filmes do gênero (em especial, Cassino Royale e o antigo A Pantera Cor de Rosa), os efeitos visuais possuem suas limitações óbvias, mas são compensados pela sua criatividade, que funciona, por exemplo, na perseguição de navio, mas que soa artificial na cadeira de rodas.
-
-O importante aqui é evitar se levar a sério demais, coisa que o diretor Oliver Parker consegue em um certo nível, mas que infelizmente sabota o pouco inspirado roteiro.
+[A Vingança dos Sith]: {{< relref "star-wars-episodio-iii-a-vinganca-dos-sith" >}}
+[Guerra nas Estrelas]: {{< relref "star-wars-guerra-nas-estrelas" >}}
 

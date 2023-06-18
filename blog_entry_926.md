@@ -1,28 +1,22 @@
 ---
 categories:
 - writting
-date: '2019-10-09'
-link: https://www.imdb.com/title/tt9213792
+date: '2019-07-01'
+link: https://www.imdb.com/title/tt0287645
 tags:
-- cinemaqui
-- mostra
 - movies
-title: Chuvas Suaves Virão
+title: Chuva de Verão
 ---
 
-É uma adaptação de livro? Poderia ser. Chuvas Suaves Virão explora essa possibilidade lúdica de livro infanto-juvenil com suas ilustrações de início de capítulo junto da frase principal, e nos coloca em contato com uma aventura protagonizada por crianças que estão sempre segurando lanternas, a la Stranger Things, mas argentinas, menos barulhentas e mais maduras.
+O DVD da quinta é um trabalho intimista, que usa a linguagem cinematográfica para nos absorver através de seu tom em um álbum de músicas dessa família "perfeita". Mas desde o começo é um filme niilista, ou sobre o paraíso perdido da vida em família. Estamos no paraíso, mas ele é vazio de alma. Suas cores estão drenadas, e por mais que esta seja uma das trilhas sonoras neo-zeolandesas mais belas e escolhidas e dedo para cada cena, quanto mais belo mais acusa uma nostalgia sobre uma vida que não existe. Está nas coisas que vemos, mas não nas pessoas, que não vivem. Flutuam sobre o nada.
 
-Não há muitos diálogos, mas há muita observação quando em um belo dia os adultos amanhecem dormindo e nunca mais acordam. As crianças se reúnem e começam a explorar este novo mundo sem eletricidade e sem pais lhe indicando o caminho para viver.
+Os pais estão se separando. A mãe está saindo com o vizinho. O pai não liga. A filha pré adolescente não se encaixa em sua idade, amadurece muito cedo, e será testemunha da impossibilidade de seu irmãozinho mais novo alcançar o ideal da felicidade.
 
-Não é um filme de narrativa, mas de sensação. Não acontecem grandes coisas porque o diretor Iván Fund quer que observemos essa nova realidade através dos olhos das crianças e sem interferência do que pode ser feito a respeito. E aos poucos nos livramos das amarras de uma trama, apenas observando os pequeninos, de diferentes idades, se agrupando amigavelmente. Porque é isso que humanos deveriam fazer sem ideias pré concebidas.
+Este é, portanto, um filme sobre a incapacidade de sentirmos algo enquanto estamos caindo. Pode ser encarado como depressivo, catártico, niilista e vários outros adjetivos que descrevem um sentimento sem realmente senti-lo, pois ele é inalcançável.
 
-A trilha sonora é primordial a esse respeito. Com acordes dissonantes e um ritmo aparentemente desconexo, aos poucos surge uma música. Como é possível? Nós montamos esse padrão na cabeça. A lógica musical estava aí todo tempo, só precisava alguém nos inspirar a ver o invisível. Eliminado o mundo como o conhecemos fica mais fácil enxergar o que existe além.
+Para conseguir esse efeito o filme nos carrega por momentos que são belíssimos em imagem e som, sem nunca nos conseguir conectar com a felicidade de seus personagens. A menina beija um garoto para mostrar o seu lugar da mesma forma que a mãe trai seu inocente ou condescendente pai. O beijo é um símbolo e dele extraímos a morte.
 
-Chuvas Suaves Virão não possui mensagens a serem decodificadas nem lições sobre amadurecimento. Nem é sobre ecologia, pois não há catástrofe. Ou talvez a catástrofe maior tenha desaparecido. Sem adultos não há fronteiras, nem propriedade e nem agressões. Apenas um bando de filhotes de primatas nômades explorando este mundo pacífico herdado, ou dado de presente.
+Há um momento extremamente catártico no final que pode fazer alguns espectadores desatentos passarem realmente mal com a situação. É algo chocante, mas não inesperado. É natural. Tráfico e natural. A vida adulta chega como um soco no estômago dessa jovem.
 
-É interessante perceber que o roteiro escrito por Tomás Dotta e Iván Fund evita tomar decisões radicais como pais mortos justamente para não perdermos essa leveza que acontece ao constatar que estão todos bem. Apenas ausentes. Então, no melhor estilo "quando os gatos dormem os ratos fazem a festa" as crianças se organizam, mas não se trata daquelas comédias onde eles comem um monte de doce e existe algum perigo que deve ser combatido. É um filme exploratório da ideia apenas.
-
-Não é para quem é impaciente, e muito menos para quem espera uma resposta maior. Mas há uma explicação, nas últimas cenas, mas ela se une à experiência como um todo de maneira orgânica. Entendemos porque os adultos dormem e não morrem, e imediatamente entendemos os motivos das coisas acontecerem dessa forma quando o mistério é revelado. Muitos e muitos filmes já nos ajudaram a antever como as coisas podem dar muito errado se fosse de outra maneira. Mas as crianças... as crianças são parte do mundo que não é conflito. Elas não são o problema, mas talvez parte da solução, se você for pensar nesses méritos.
-
-Ou no fundo é apenas um filme com uma fotografia cinza que se descobre ensolarado depois que o pior já passou. E vem a chuva, limpando nossas concepções, nossos preconceitos, nossos medos. Uma experiência de renovação, curta e singela.
+Estamos hipnotizados assistindo este filme. Ele vai muito fundo sobre o quão rasa é a vida. Bate forte para os mais desavisados. E como Kirsten Dunst em Melancolia, é justamente o que desejamos.
 

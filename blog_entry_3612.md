@@ -1,15 +1,26 @@
 ---
 categories: []
-date: '2014-07-16'
+date: '2011-06-30'
 tags: null
-title: 'TDC 2014: Segurança'
+title: TDC 2011
 ---
 
-Nesse TDC, além da minha palestra usual na trilha C/C++ irei participar da trilha de segurança, voltando às minhas origens, quando programava em empresas da segurança da informação. Foram 10 anos!
+Se você gosta do tema e possui dúvidas a respeito, ou gostaria de mais detalhes sobre outros projetos, não deixe de comparecer. Antes e depois da palestra estarei disponível para conversarmos. O mais interessante de termos uma trilha em C++ é reunir pessoas envolvidas em torno da linguagem, não importando muito a área. Somos um grupo pequeno, e é importante que tenhamos um contato mais próximo de vez em quando.
 
-Estão marcadas duas palestras nesse dia (quinta-feira, 7 de agosto de 2014): uma já ministradas outras vezes sobre o processo de engenharia reversa do dicionário Houaiss, que gerou tantas discussões nos comentários e versões alternativas (inclusive em Python!) do código. Aqui, além de já explicar o processo que me fez abrir o dicionário Houaiss para uso no Babylon, pularei a parte do uso no Babylon e irei focar mais nas técnicas de segurança que podemos utilizar para tornar essa engenharia reversa não impossível, mas pelo menos um pouco mais difícil.
+C/C++ Caso de Uso: Engenharia Reversa com Windbg. Esta palestra é sobre desmontar e montar novamente. Iremos descobrir como as entradas do dicionário Houaiss eletrônico estão gravadas em um primeiro momento, para depois remontarmos essa informação de maneira que ela possa ser usada em um outro dicionário.
 
-Já a segunda palestra é bem rápida -- espero! -- e fala sobre um artigo que li de Laura Diane Hamilton sobre algoritmo de embaralhamento de cartas para saites de pôquer. Esse artigo, que irei demonstrar, explica diversas falhas do código de um saite e eu tentarei explicar brevemente maneiras de se aproveitar dessas falhas, além -- é claro -- de como se proteger contra isso!
+Ferramentas que serão usadas: Windows, WinDbg, Visual Studio (qualquer versão).
 
-Então é isso aí, mais um dia, mais uma trilha, mais bits e bytes. Nos vemos por lá!
+Conhecimentos necessários: C/C++, Assembly 8086, Win32 API.
+
+Passo-a-passo da palestra:
+
+ 1. Sobre Pirataria. Como identificar brechas na licença para que você possa usufruir do seu trabalho de refatoração binária.
+ 2. Análise. Desmontando o dicionário Houaiss e desvendando seu funcionamento interno.
+ 3. Programação. Remontando a estrutura identificada pela Engenharia Reversa em um formato aberto.
+ 4. Sobre Fair Use. Explicando como abrir portas para o desenvolvimento de soluções baseada em nossa análise.
+
+Assuntos "similares" também nos esperam com Sergio Prado e programação segura e Rodrigo Almeida, abordando o desenvolvimento de microkernel. Além disso, também teremos Bruno Koga e Guilherme Andrade destrinchando o compilador LLVM para Objective-C, enquanto Antonio Ribeiro Alves Júnior explica sobre t100, um Middleware para Simulação Distribuída.
+
+Nos vemos lá.
 

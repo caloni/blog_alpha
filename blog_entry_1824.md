@@ -1,20 +1,22 @@
 ---
 
-Se a primeira aventura do até então desconhecido Homem de Ferro impressionou o público, a crítica e a própria Marvel, essa continuação morna é a consolidação de Tony Stark como garoto-propaganda dessa fase. Não só isso, mas serve como o gancho que os produtores precisavam para inserir novos personagens secundários que serão mais ou menos relevantes na teia de eventos (ou colcha de retalhos) criada em torno da tão esperada estreia de Os Vingadores, filme que pretende unir uma série de heróis que terão cada um seus trabalhos solo. Uma aposta inédita que parece ter ganhado força justamente por conta da atuação surpreendente de Robert Downey Jr.
+Pepper Potts (Gwyneth Paltrow) guarda o primeiro coração nuclear de Tony Stark (Robert Downey Jr.) como prova de que ele tem um coração. Ironicamente, o primeiro Homem de Ferro também prova que a franquia tinha coração e lógica em suas primeiras duas horas, estruturados de uma forma que jamais veríamos novamente nas novas aparições do gênio/bilionário/herói.
 
-Aliás, se no primeiro filme ele consegue expressar tão bem a dualidade entre realismo e quadrinhos, aqui ele mantém sua simpática arrogância, favorecendo um roteiro menos ambicioso e mais burocrático, que se importa pelo menos em situá-lo naquele universo como um herói já consolidado. Exceto, claro, pelas preocupações monopolistas e bélicas do governo americano. Já do lado do povo... bem, ele voa em um robô de ferro. Se eu fosse um garoto, não precisaria de mais nada para adorá-lo.
+Criando uma história convincente no estilo O Senhor das Armas e se aproveitando disso para tornar a fantasia e a aventura mais palatável para um público menos ingênuo, a criação do herói dentro daquela caverna escura a partir de materiais que seriam usados para fabricar um dos mísseis da sua empresa bélica não deixa de ser significativa. Aliás, significados não faltam na primeira aventura do herói, que consegue a proeza de tornar suas próximas e medíocres experiências cinematográficas mais empolgantes (ainda que na verdade não sejam).
 
-Mesmo assim, ainda precisamos de um vilão nos moldes de alguém para dar porrada, e apesar do Victor criado pelo bem-vindo Mickey Rourke (O Lutador) ser um candidato à altura, seu desenvolvimento na história segue a aborrecida cartilha de arqui-inimigos ressentidos por acontecimentos passados. Mas não me leve a mal: seu ódio por Stark é bem justificado, mas não a sua execução, que lembra vilões mais descerebrados e instintivos do que poderíamos esperar do gênio que Victor seria pela sua história.
+Isso acontece porque o roteiro escrito a oito mãos (e mais oito para criar os personagens) consegue amarrar a fantasia com algumas pontas de realidade (o peso de sua armadura ajuda a pousar sem cair) e ainda fazer algumas referências sutis (S.H.I.E.L.D.) e até metafóricas (Jon Favreau, o diretor do filme, é o motorista/guarda-costas de Stark).
 
-Porém, não contentes com dois conflitos - e essa é uma continuação decente da história do primeiro filme - o "coração" energético e radioativo criado por Stark se mostra instável demais. Agora ele precisa consertar isso e manter sua vida e seus poderes intactos, o que envolve dois desafios particularmente inteligentes: resgatar o passado com seu igualmente gênio pai, e ultrapassá-lo em genialidade. Um drama tão comum envolvendo pai e filho e que por isso mesmo funciona tão bem. Às vezes as melhores ideias nos filmes de super-heróis não vêm de mega-vilões.
+O mais curioso é que o filme se perde em alguns momentos justamente no que se tornou o carro-chefe dos filmes da Marvel desde então: mostrar a ação pelo simples prazer de "porque sim". Como se explica que o vilão vá especificamente atrás de Potts sabendo que há pelo menos meia-dúzia de agentes com ela que muito provavelmente já sabem de todo o esquema montado?
 
-Para finalizar, a receita básica aprendida em O Homem-Aranha de Sam Reimi. Você não mantém mais a tensão sexual entre heróis e mocinhas, mas deixa fluir. No caso do mulherengo Tony Stark, uma péssima ideia, pois tira a força ou imunidade ou influência que sua secretária aparentemente tinha sobre ele, como se fosse a única conquista inalcançável do herói. Aparentemente, o novo poder dos heróis dessa época é conseguirem o que quiserem sem muito esforço, nem arranhões, e muito menos sangue.
+Falar sobre Robert Downey Jr. já é chover no molhado. O ator conseguiu a proeza de trazer dignidade em uma figura que usa vermelho brilhante e que nas horas vagas é um Batman futurista cujo Alfred é uma voz de computador. Consegue convencer em apenas quinze minutos de filme que não há nada pelo qual ele mereça viver, mas a simples constatação desse fato acaba o tornando um ser humano mais ciente de suas capacidades financeiras e intelectuais e como ela pode ser o que ele gostaria de ser, e não um legado (mal) construído pelo sucessor de seu pai.
+
+Homem de Ferro não precisou de muito para se tornar um ícone pop contemporâneo. Uma trilha sonora pesada que faça sentido com o teor da história, referências e pontas facilmente criadas e inseridas de forma inteligente, e pronto: a Marvel pode manter toda sua farofa em um formato palatável até para os cinéfilos mais exigentes. Precisa pedir mais?
 
 ---
 categories:
 - writting
-date: '2013-05-03'
-link: https://www.imdb.com/title/tt1300854
+date: '2010-04-03'
+link: https://www.imdb.com/title/tt1228705
 tags:
 - movies
-title: Homem de Ferro 3
+title: Homem de Ferro 2

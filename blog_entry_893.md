@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-01-05'
+date: '2014-12-31'
 tags:
-- beer
-title: Cervejaria Nacional Stout
+- food
+title: Cepas Nobles Tannat 2009
 ---
 
-Equilíbrio entre amargo e doce.
+Amadurecido, mas sem muita complexidade.
 

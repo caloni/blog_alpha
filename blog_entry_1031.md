@@ -1,89 +1,80 @@
 ---
 categories:
 - cooking
-date: '2021-06-06'
-link: https://www.youtube.com/c/vitoiacopelli
-repost: '2023-04-21'
-title: Como fazer pizza
+date: '2022-02-06'
+tags: null
+title: Como fazer pão
 ---
 
-# Ingredientes
+O pão clássico é resultado da fermentação de leveduras numa mistura de farinha, água e sal. Todo o resto são variantes dessa receita básica, mas o processo é o mesmo, então entender ele bem ajuda com qualquer receita de pão.
 
-Decida quantas massas de pizza vão ser feitas. Cada pizza consome cerca de 160g de farinha. Partindo disso, arrume 0.5% de fermento seco, 1% de mel, 2/3 de água, 2.5% de sal e 3% de azeite de oliva, sendo tudo medido em gramas.
+# Farinha e água
 
-# Primeira Fermentação
+A farinha é alimento para o fermento e estrutura. A estrutura se forma quando se adiciona água, pois duas proteínas na farinha se juntam no processo: a gliadina, responsável pela extensibilidade, e a glutenina, responsável pela elasticidade. A união dessas duas é o que chamamos de glúten. O crescimento da massa tem relação direta no equilíbrio entre essas duas proteínas e suas duas propriedades principais. A extensibilidade permite à massa expandir seu tamanho. A elasticidade permite que ela retraia seu tamanho. Se muito extensa a massa se desfaz. Se muito elástica ela resiste ao crescimento.
 
-A sacada na hora de preparar a massa é fortalecer o fermento antes de fazer a massa. Para isso podemos utilizar qualquer tipo de fermento ativado. Pode ser o polish, uma farinha pré-fermentada que se faz misturando a mesma quantidade de água e farinha com o fermento e o mel usados na receita. Pode ser a biga, o mesmo princípio, mas com metade da água e o dobro do tempo fermentando na geladeira. Ou pode ser o fermento natural, que segue o mesmo princípio dos dois anteriores. Você pode usar de um terço até dois terços de farinha para fazer essa mistura. Após juntar a quantidade de farinha e água com o fermento, e o mel para acelerar o processo, deixe 1h em temperatura ambiente para ativar o fermento.
+Há dois processos principais na formação dessas propriedades: a [autólise](https://www.madrepaesartesanais.com.br/autolise/) e a tensão, criada por dobras, sova ou ambos. A autólise é farinha mais água mais tempo, de 10 minutos a 8 horas. Sova é farinha mais água mais fricção, de 5 a 15 minutos. Dobras é modelar a massa realizando voltas nela mesma para gerar tensão, muito usado para massas com alta hidratação, onde a sova torna-se impraticável.
 
-Após essa 1h você poderia fazer uma versão mais rápida da massa misturando os outros ingredientes e sovando. No entanto, para um pizza mais digestiva e aromática, repouse na geladeira o fermento ativado em recipiente fechado por 16 a 24 horas para o polish ou 48 horas para a biga e talvez até mais para o fermento natural. Depois desse tempo a massa começa a ficar muito ácida, mas faça seus experimentos se quiser. As regras de fermentação são as mesmas, exceto o tempo. Em qualquer caso uma massa pré-fermentada estará pronta quando tiver crescido o dobro ou mais e borbulhando, ou seja: viva (no caso da biga é mais difícil de saber). Após retirar da geladeira sempre aguarde pelo menos quase 1h para a massa voltar à temperatura ambiente.
+Durante a autólise a extensibilidade da massa vai sendo desenvolvida. Quando começa a sova é que vem a elasticidade. A autólise, graças ao menor tempo de sova, torna o miolo da massa mais leve. O motivo químico para isso é porque há uma menor oxidação da farinha e melhor retenção de uns pigmentos chamados carotenóides cremosos.
 
-Uma vez pronto o pré-fermento do jeito que você escolheu e na temperatura ambiente, misture o resto dos ingredientes e comece a sovar até obter uma massa homogênea. O resto da farinha e água deve ser calculado com base no que foi usado no fermento. Por exemplo, se foi feito um polish com 100g de farinha e 100g de água, faltam 60g de farinha e mais nada de água. Se foi feito um polish com 50g de farinha e 50g de água, agora restam 110g de farinha e 46g de água. O mesmo cálculo deve ser feito para a biga e o fermento natural, sempre respeitando a proporção de 2/3 de água para o total de farinha.
+A sova é um método de fricção em torno da massa para alinhar a rede de glúten e aumentar a tensão. A sova pode ser feita por batedeiras potentes ou pela força humana, com a diferença na eficiência e no calor da mão humana interferindo no resultado. Deve-se ter um cuidado ao sovar demais com a batedeira, pois existe um limite para o desenvolvimento do glúten, e além desse limite a rede começa a se quebrar. Já com a força manual é mais difícil de atingir esse limite. Antes disso haverá muita tensão e o calor produzido pode prejudicar a massa. Para massas complicadas sempre pode-se fazer pausas de 10 minutos entre as sovas para relaxar a massa e ajustar sua temperatura. Untar as mãos e minimizar o contato também são técnicas válidas.
 
-Como a massa da pizza pode ser um pouco grudenta, você pode pegá-la por ambos os lados com as duas mãos e jogá-la na mesa para alinhar a rede de glúten. Isso vai evitar com que ela grude em suas mãos. Faça isso rapidamente. Se nem isso adiantar você pode sempre deixar a massa descansar por uns 10 minutos, o que irá relaxar o glúten (tampe para manter a hidratação). Adicionalmente, unte suas mãos com azeite. Não é tão difícil assim sovar massa de pizza com 2/3 de hidratação!
+A dobra é um método que exige menos esforço físico e pode servir melhor para massas com alta hidratação, onde a sova torna-se complicada de fazer. Basicamente é moldar a massa em torno dela mesma, gerando tensão. São movimento simples que se faz rapidamente, espaçados entre períodos de meia-hora a uma hora. É um método simples e eficaz para gerar tensão, mas por outro lado, assim como fazer massa folheada, exige que se esteja sempre por perto para realizar as dobras nos momentos certos.
 
-Se você utiliza o método de autólise, o que fortalece mais ainda o glúten, uma opção é misturar a farinha e água restantes 1h antes de começar a juntar com o pré-fermento e trabalhar a massa. Verá que a sova vai ser muito mais rápida.
+# Fermentação
 
-# Segunda Fermentação
+Então chega o fermento nessa mistura. O de mercado é a levedura Saccharomyces cerevisiae e suas diferentes formas: tablete, em grãos, em pó. Na natureza podemos encontrar a mesma levedura no seu modo selvagem, combinado com lactobacilos. Você pode manter uma cultura da levedura selvagem apenas misturando bem farinha e água e mantendo-a em temperatura ambiente por sete a dez dias. No decorrer dos primeiros dias vai perceber que essa mistura começa a fermentar. Então você pode alimentar essa cultura com mais farinha e água. A isso chamamos de fermento natural, um método usado pela humanidade por milhares de anos.
 
-Após a sova a massa deve estar homogênea, gostosa de pegar e fácil de fazer uma bola. Agora começa a segunda fermentação, seja em temperatura ambiente ou novamente na geladeira, a chamada fermentação longa. Isso pode demorar em temperatura ambiente de 6h a 8h e na geladeira 24h a 48h ou até mais. Como o processo é mais lento é permitido algum grau de manobra e experimentação. O importante é que a massa irá crescer novamente, possivelmente dobrar.
+Ao adicionar fermento na farinha e água a levedura se alimenta do amido encontrado na farinha, produzindo dióxido de carbono, que expande as proteínas do glúten e faz com que a massa cresça basicamente retendo ar dentro dela, a tornando mais leve, já que há mais volume para o mesmo peso. Quando umedecemos a superfície de uma massa fazemos para manter o crescimento interno e atrasar a formação da casca.
 
-Após a segunda fermentação e estando a massa em temperatura ambiente corte-a em tiras e vá fazendo bolas de 250g cada, mantendo a parte da massa de baixo para dentro das bolas. Unte levemente com azeite um pote ou forma, coloque as bolas para descansar com 4 dedos de espaço entre elas e feche o pote ou cubra com plástico. Não queremos que ar entre durante o descanso ou a massa irá formar uma crosta em volta dificultando esticar depois.
+# Sal
 
-Esse é o momento de colocar a massa no freezer para guardar por meses se quiser, sendo a parte mais importante se lembrar qual o lado de cima e o lado de baixo. Quando for usá-la basta retirar do freezer, umedecer a superfície se for preciso e aguardar cerca de 8h em temperatura ambiente. É possível manter esse processo na geladeira, também, seguindo novamente a regra de ao tirar da geladeira dar um tempo de cerca de 1h para a massa voltar à temperatura ambiente.
+O sal irá realçar o sabor e controlar o crescimento da levedura, já que sal mata algumas dessas bactérias. É semelhante, de maneira oposta, adicionar outros açúcares na massa para contribuir com um maior crescimento da cultura de bactérias.
 
 # Forno
 
-Uma vez que as bolas cresceram, cerca de 6 a 8h em temperatura ambiente, é hora de primeiro deixar os ingredientes prontos para rechear a pizza, pré-aquecer o forno, colocando a pedra (se tiver) mais acima no forno no começo do processo, e só então, com tudo pronto, pegar essa bola para abri-la. Arrume semolina para a crocância, ou farinha, ou um misto, e coloque um pouco sobre a mesa. Com todo cuidado, usando uma espátula ou a gravidade, pegue uma das bolas e coloque em cima dessa farinha. Jogue farinha por cima também. Agora é a hora de usar farinha (ou semolina, ou os dois) sem medo para manipular a massa. Amasse-a com carinho, mantendo o ar nas bordas, para abri-la. Uma vez que estiver confiante para segurá-la como um disco, use a gravidade para ir abrindo a massa ou vá esticando com as mãos. Quando levantar a massa lembre-se de tirar o excesso de farinha.
+Por último entra o calor. Ele deve atuar de maneira uniforme em toda superfície do pão na hora de assar. Se esquentar apenas em cima o gás preso na base não irá se expandir na mesma velocidade que o topo e o miolo fica denso embaixo. Por isso se costumar usar uma pedra de assar no forno durante o pré-aquecimento.
 
-Dica importante: durante a formação das bolas e também na hora de abrir a massa um conceito muito importante é o do balão: tratar a massa como um balão, e mantê-lo sempre cheio de ar. Para isso a parte com furinhos da massa se deixa sempre pra baixo e é a parte que se tenta fechar em toda moldagem. Usa-se farinha sempre que necessário para não grudar nas mãos. A sova da pizza ou mesmo sua abertura não precisam ser com muito contato manual.
+# Pão rústico
 
-Após aberta a massa é hora de colocar o molho de tomate. Uma colher de sopa bem cheia espalhada pelo disco deve bastar. Considerando que não temos forno de pizza em casa assá-la leva dois tempos. Primeiro, já com o forno na temperatura máxima, faça uma pré-assada com apenas massa e molho por cerca de cinco minutos ou quando começar a esfumaçar por cima da pizza. Se tiver um forno de pizza que alcance mais de 400 graus ignore esta parte; pode colocar todos os ingredientes e partir para a parte abaixo.
+Sabendo de tudo isso fica fácil fazer pão e experimentar receitas. A mais básica e fácil delas é misturar farinha, 2 terços do peso de água, uma colher de chá de fermento instantâneo e 1 terço de colher de chá de sal. Sove por dez minutos, cubra e espere quase dobrar de tamanho. Forme uma bola, coloque em uma forma e espere crescer novamente. Aqueça o forno e coloque a forma borrifando ou jogando um pouco de água na superfície. Em cerca de meia-hora o pão estará pronto. Diferente de massas de confeitaria você pode abrir a porta do forno no meio para verificar como está indo, mas lembre-se que a temperatura acaba baixando um pouco, então nunca abra muito para receitas que exigem a temperatura máxima do seu forno.
 
-Mantenha a massa bem aberta antes de colocar a massa no forno. Se estiver usando uma pá para colocar na pedra, use-a apenas na hora de transferir, da bancada para a pá e da pá para o forno, untando levemente de farinha a pá para pegar a massa. Essa parte é muito importante, pois é muito fácil a massa grudar na pá. Faça essa operação rapidamente e na hora de deixar no forno retire rapidamente a pá por baixo da massa.
+O resto das receitas de pão são variações dessa receita básica. Os ingredientes giram em torno dessa proporção em peso, e geralmente tudo se pesa em relação à farinha: 65% de água, 1% de fermento instantâneo, 2% de sal. Quando é usado fermento natural ele pode ocupar cerca de 1 terço da receita e você deve fazer os cálculos para manter o nível de água desejado (lembre-se que fermento natural vai farinha e água).
 
-Se estiver assando em forno caseiro retire a pizza depois da pré-assada e coloque o resto dos ingredientes. Se quiser mais cor e crocância nas bordas unte-a com azeite. Volte a pizza para o forno, que deve estar na maioria do tempo fechado para manter a temperatura e pressão.
+Essa receita é boa também para se aprender a sovar, que não é difícil. Sovar é esticar e rejuntar toda a massa continuamente. Existe também a sova que se joga a massa com toda a força na bancada. Há muito mais métodos, mas todos eles possuem o mesmo objetivo: alinhar a rede de glúten para manter a massa coesa e capaz de adquirir estrutura e crescimento durante a fermentação. Você aos poucos vai perceber quando a massa está no ponto. Ela começa a ficar mais elástica, mais homogênea e levemente grudenta. O véu de noiva, um teste comum entre padeiros, é esticar um pedaço da massa e verificar se ela estica até ficar transparente sem rasgar. É um bom teste porque você também consegue olhar para a rede de glúten formada e entender melhor o processo.
 
-A pizza está pronta para ser retirada quando o queijo que estiver em cima começar a borbulhar. Os pontos pretos que aparecem após assar nas pontas e embaixo da massa indicam uma boa fermentação, além da borda leve com muito ar em cima. Ao final, se tiver, jogue por cima os ingredientes que não vão no forno.
+Outra virtude para se aprender ao fazer essa massa simples é o nível de hidratação na hora de assar. Existem diferentes temperaturas na hora de assar e também diferentes formas de manter ou retirar a hidratação durante. Para manter a hidratação pode-se usar uma panela que possa ir ao forno e deixar a massa dentro (lembre-se de untar, colocar muita farinha ou usar papel manteiga; pode acontecer de grudar), ou se for um pão pequeno como o francês cobrir com papel alumínio. Pode-se esguichar água dentro do forno e por cima da massa. Pode-se deixar uma forma com água fervente por debaixo da massa. Fornos profissionais possuem um sistema de hidratação baseado em jogar vapor de maneira controlada na massa. Como já foi citado, hidratação é importante para manter o crescimento e retardar o momento que a casca do pão começa a ficar seca e dura. O que quer dizer que existe um momento que deve-se parar de hidratar a massa para que a casca fique seca e dura.
 
-Para analisar como está assando suas pizzas entenda que quanto mais tempo no forno mais a cor da massa ficará bronzeada e mais seca ficará a pizza. O objetivo de conseguir assar mais rápido com uma temperatura mais alta é evitar isso, mantendo a pizza crocante por fora, mas não seca por dentro, e sim macia. Tudo depende de assar mais rápido para não perder tanta umidade.
+# Pizza
 
-# Histórico
+Pizza é um tipo de pão com uma boa e longa fermentação onde boa parte do ar é expulso da massa antes de assar, mas mantém a maciez interna com a crocância externa. Há uma imensidão de opções disponíveis: massa macia, crocante, fina, grossa, com fermentação rápida, longa fermentação, fermentação natural. É um ramo à parte. Por isso tem [um poste em andamento] apenas sobre esse assunto.
 
-## 2022-10-09
+# Pão francês
 
-Meu primeiro teste já deu muito certo. Essa receita quis fazer duas pizzas, então a proporção foi dividida em 3: 100g de farinha e água para o polish (posso ter exagerado um pouco no fermento) e 230g de farinha e 130g de água para autólise antes da sova com polish. Deixei a massa após sovar em fermentação longa por 48h, pois tinha compromisso o dia seguinte inteiro, o que acabou dando muito certo. No domingo a massa tinha mais que dobrado e estava bem leve e macia. Com muito cuidado tirei e fiz as bolas e em cerca de 2h o crescimento novamente espantou. Abri-la foi bem simples, o glúten ainda estava bem firme e o uso da farinha impediu que grudasse na mão. A temperatura do forno no máximo com a forma dentro foi o esquema que usei. Ela ficou crocrante por fora e macia por dentro, cheia de ar.
+O pão francês é uma versão brasileira do pão de sal com farinha refinada. Além dos ingredientes básicos de um pão vai um pouquinho de açúcar e gordura, ambos para dar as características que tornam este um pão francês brasileiro: casca fina e rachada, miolo leve e macio no estilo redemoinho. Pelo seu caráter uniforme ele exige um controle melhor do seu tamanho, de sua sova, dos períodos de fermentação e da umidificação do forno. Na prática o segredo é fermentar pouco e crescer muito para manter boa extensibilidade com certa elasticidade para aguentar o crescimento. São feitas várias dobras ou rolagens desse pão durante a moldagem, o que gera um miolo estilo redemoinho bem leve.
 
-## 2022-11-09
+Já testei as receitas dos canais [Pão da Casa](https://youtu.be/KCe85lhkfOg), [Amo Pão Caseiro](https://amopaocaseiro.com.br/receita/pao-frances/), [Isamara Amâncio](https://youtu.be/Uhy3gGR2d6s) e [Chefe Mancuzo](https://youtu.be/PLDdc5CLKko), todos com resultados próximos. Depois de ver alguns vídeos sobre o processo e pegar o jeito não há muito segredo fora o que já foi dito no parágrafo anterior.
 
-Fiz a última pizza do freezer hoje. Cresceu um pouco menos. Pus umas três colheres de molho e a Mitiko ainda achou muito (e pouco queijo). Reavaliando proporções para a próxima.
+# Pão de forma
 
-## 2022-11-12
+O pão de forma, fora o [pão de queijo], é o primeiro com receita que utiliza mais ingredientes para tornar o pão mais macio. Este é aquele pão extra-macio para passar manteiga no chá da tarde. Delicioso e simples de fazer. A receita-base é [da minha sogra] e não usa fermentação clássica, mas o uso de fermento biológico, junto de ovos, leite e gordura. É o modus operandi da maioria das pessoas que não sova pão e não tem tempo de esperar a fermentação microbiótica. Em meia-hora você tem pão quentinho saindo do forno.
 
-Fiz teste com três fermentos: polish, biga e natural. Para os dois primeiros usei fermento instantâneo e para o último minha coisa. Para a biga e o natural deixei 48h fermentando na geladeira e para o polish 24h.  No começo do dia deixei três farinhas umedecidas em autólise e tirei os fermentos da geladeira. Depois de 2h começo a sova e mantenho os três em bolas únicas o dia inteiro. Exagerei no sal do polish porque me enganei quanto às medidas e isso deve ter impactado um pouco seu crescimento, mas a biga cresceu muito bem e foi a janta de hoje. No entanto, nenhum dos três manteve bem o ar nas bordas. Ao final da noite pré-assei as outras duas massas e congelei com um pouco de molho. Ah, o molho: dessa vez acertei a quantidade. Uma colher de sopa bem cheia já basta. Espalhei com o pincel de silicone.
+# Pão de queijo
 
-## 2023-02-14
+Sim, este é um pão. Não, não fermenta. O que acontece com pães de queijo que crescem no forno é que o polvilho, se for azedo (fermentado), ele se expande ao aquecimento. De qualquer forma, uma estrutura se forma pelo polvilho (suco da mandioca decantada) durante a sova e isso junto dos ovos, do leite, do queijo, da gordura e da água gera uma massa com propriedades marcantes na culinária mineira. Tenho uma receita de [pão de queijo ao estilo mineiro], o que envolve sova e um pouco mais de complexidade, e uma receita de um [pão de queijo mais rápido e fácil de fazer], se estiver com pressa ;)
 
-Fiz massa de tarde para assar no mesmo dia. Ficou bom, cresceu bem, mas no forno passou um pouco do ponto dando uma queimadinha. Porém, a massa estava crocante e por dentro ainda macio, embora menos. Fizemos de calabresa com cebola roxa. Agora sei que mesmo às 14h dá para agilizar uma pizza.
+# Pão de banana
 
-## 2023-04-13
+Originalmente a receita era com cará, mas com a ajuda da Mitiko criei este formato que [usa banana reduzida] e que fica sensacional. Vão muitos ovos, o que torna a massa macia, e um pouco de leite também. Com longa fermentação e a quantidade certa de banana o aroma e sabor são imbatíveis.
 
-Primeira tentativa de assar pizza na pedra. A temperatura ficou um pouco abaixo do que imaginei que ficaria, em torno de 240 graus, devo deixar mais tempo pré aquecendo, mas o principal erro não foi esse, mas deixar a massa muito tempo na pá. Com isso não consegui retirar para a pedra, ela grudou, e no meio das tentativas metade caiu, ficou um nojo.
+# Panetone
 
-OK, próxima massa eu transferi rapidamente da pá para o forno, mas sem molho, só para assar rapidamente e ficar mais fácil de manusear. Isso foi um erro por conta de uma das dicas de Vitor Copelli sobre como fazer pizza em casa: manter o forno fechado o máximo possível para manter a pressão interna e assar rápido (no máximo 7 minutos). Devo na próxima tentativa colocar o molho e só depois transferir para a pá e ver no que dá.
+Sim, ele é um tipo de pão: festivo, doce, aromático e, quando feito com paciência e dedicação, delicioso. Minha [receita oficial] tem melhorado a cada ano. Não confunda com a versão de pobre (nunca faça a versão de pobre; melhor comprar).
 
-Entre as coisas que descobri no pós foi que a hidratação da massa deve ser em torno de 2/3, ou seja, duas partes de água para três partes de farinha. Para fazer o pré-fermento usar essas duas partes e para finalizar usar a terceira parte da farinha. Mudar a receita no post.
-
-A sova usada por Copelli é a jogada na bancada. Após isso 1h de descanso, a divisão e 6h a 8h de fermentação.
-
-Outro detalhe é deixar a pedra mais para cima, e não no meio.
-
-## 2023-04-21
-
-Novamente a massa da pizza deu uma envergada quando tentei usar a pá para levar ao forno. Acredito agora que é melhor manter a versão for dummies de colocar ela sem o molho primeiro, nem que sejam dois minutos, para que ela fique firme e eu consiga manipular com mais segurança.
-
-Este teste foi de fermentação no mesmo dia, começando às 14h. Deu certo. Usei o dobro do fermento e assei por voltas das 19h. No entanto, a massa ficou menos saborosa e mais pão, o que é aceitável por não ser longa fermentação.
-
-## 2023-04-26
-
-Mais um episódio da saga da pizza. Dessa vez em um dia frio deixei o fermento dentro do forno com a luz acesa às 14h, e a mesma coisa com a massa, sovada 90 minutos depois. Coloquei um pouco além de fermento e este pode ter sido um pouco de desespero. Acho que lá pelas 20h a massa fermentou demais e já deu aquela caída. Falha minha não ter percebido, pois abri demais, ela ficou quadrada e parte da massa molenga grudou no forno e ficou caindo. E isso comigo usando aquele teste de não colocar molho ainda. Deixei uns 2 minutos sem nada, retirei do forno e aí sim fiz a segunda e terceira assadas, grelhando no final. O resultado ficou uma bolacha seca, mas até que gostosa. A Mitiko disse que estava inspirado, porque a massa aparentemente estava mais gostosa. O queijos deu uma queimadinha em alguns spots, mas isso foi a grelha ligada por mais de 4 minutos em conjunto com a massa extra fina. De qualquer forma, está melhorando. Sem muitos desastres dessa vez. Só falta o controle de qualidade.
+[um poste em andamento]: {{< relref "como-fazer-pizza" >}}
+[pão de queijo]: {{< relref "pao-de-queijo" >}}
+[da minha sogra]: {{< relref "pao-de-forma-da-dona-neusa" >}}
+[pão de queijo ao estilo mineiro]: {{< relref "pao-de-queijo" >}}
+[pão de queijo mais rápido e fácil de fazer]: {{< relref "pao-de-queijo-facil" >}}
+[usa banana reduzida]: {{< relref "pao-tranca-de-banana" >}}
+[receita oficial]: {{< relref "panetone" >}}
 

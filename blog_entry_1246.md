@@ -1,58 +1,19 @@
 ---
 
-Nada como um comando prático para aprender rapidamente uma técnica. Nesse caso, tive que usar o seguinte comando para localizar o momento em que um executável instala um hook global: bp user32!SetWindowsHookExA "j poi(esp+4*4) 'g' ; '.echo *** GLOBAL HOOK ***; g'".
+Ninguém escuta as crianças. Essa é a premissa básica que torna possível toda a série de situações mortais em que três jovens órfãos ficam à mercê de um cruel parente distante em busca da herança dos afortunados Baudelaire.
 
-Vamos analisar cada um desses subcomandos um a um.
+Tentando manter uma narrativa coesa, ainda que episódica, o diretor Brad Silberling (Cidade dos Anjos) recebe a imprescindível ajuda de uma equipe de direção de arte, fotografia e figurino que recriam o design surrealista usado nos livros homônimos de Lemony Snicket (ele próprio é um personagem, o escritor que narra a história, interpretado por Jude Law).
 
-No WinDbg é possível definir um ou mais comandos que são executados quando um breakpoint é acionado. Esses comandos ficam entre aspas duplas e podem conter as mesmas coisas que digitamos na linha de comando. Alguns comandos, porém, são mais úteis que outros nesse contexto. Por exemplo, o comando ".echo". Podemos digitar .echo na linha de comando do WinDbg. O que acontece?
-    
-    0:000> .echo O que acontece?
-    O que acontece?
+Com o uso de enquadramentos de dois planos que tornam o temido Conde Olaf envolvendo os meninos, além dos jogos em contra-luz que usam a silhueta dos personagens como desenhos em uma pintura 2D, Desventuras em Série é muito mais um filme de arte do que de aventuras. Um filme que contém muito mais atuações exageradas em prol da linguagem do que artimanhas de roteiro (muito embora a sequência na casa do penhasco seja particularmente bem executada nesse sentido, já que todos os temores de Tia Josephine se tornam realidade).
 
-Exatamente o que o comando se dispõe a fazer: imprimir seus argumentos na tela. E qual a vantagem nisso? Nenhuma, se estamos na linha de comando, mas muita se estivermos colocando um breakpoint onde queremos contar o número de vezes que passamos por lá, o comando tem serventia:
-    
-    0:000> bp $exentry ".echo Passou pelo main; g"
-    0:000> g
-    ModLoad: 5cb70000 5cb96000 ShimEng.dll
-    ModLoad: 774e0000 7761d000 ole32.dll
-    ...
-    ModLoad: 5ad70000 5ada8000 UxTheme.dll
-    Passou pelo main
-    ModLoad: 74720000 7476b000 MSCTF.dll
-    ...
+Com pelo menos uma sequência memorável, onde um carro no meio dos trilhos é usado como artifício dramático e elementos visuais que misturam o velho com o novo (como um carro que toca música através de um sistema de rolos de fita), Desventuras em Série distrai e impressiona pelo visual e conta uma história em um ritmo frenético, sendo exagerado em todas suas pontas.
 
-Se essa mensagem fosse exibida mais de uma vez, poderíamos supor que é possível existir algum tipo de infecção na execução do aplicativo, como quando o código inicial carrega o original e volta a executar o mesmo ponto.
+E com pelo menos duas atuações dignas de nota -- Jim Carrey e suas maquiagens, e Meryl Streep e seus óculos que balançam, ambos contracenam -- o filme também ganha cores devido a seu elenco britânico e afiado com a proposta teatral do projeto.
 
-{{< image src="codigo-malicioso.gif" caption="Código Malicioso" >}}
-
-O objetivo aqui é "preparar o terreno" (ficar residente) antes que o código original seja executado. Com um simples breakpoint e um simples .echo conseguimos visualizar esse tipo de ataque. Outra possibilidade é que se trata daqueles executáveis "empacotados" por meio de algum encriptador de códigos como UPX, que desempacota o código e reexecuta o ponto de entrada do executável. Claro que esse é apenas um uso que podemos fazer desses comandos.
-
-Aprendi o comando j antes do .if, por isso acabo usando mais o primeiro, mas ambos possuem similaridades. O formato desse comando é exatamente como um "if-else":
-    
-    j Expression Command1 ; Command2
-    j Expression 'Command1' ; 'Command2'
-
-Se Expression for verdadeiro, Command1 será executado; do contrário, Command2 será. Se você não precisa do else basta usar um comando vazio ' '. A escolha é sua em usar aspas simples ou nada. Se usar aspas simples, é possível colocar mais de um comando, que foi o que eu fiz no else: '.echo *** GLOBAL HOOK ***; g'".
-
-Tudo depende do uso que você fizer desde comando. Algumas peculiaridades existem com relação ao uso de aspas duplas, simples, sem aspas, com ponto-e-vírgula, etc, mas são coisas que, como diz meu amigo [Thiago](http://www.codebehind.wordpress.com), "só se aprende na dor".
-
-Lembram-se de nossa peregrinação pela pilha de chamadas quando fizemos um [hook na função MessageBox] pelo WinDbg? Aqui é a mesma coisa, pois estou analisando um parâmetro passado na pilha (esp): o ID da thread para onde vai o hook.
-    
-    HHOOK SetWindowsHookEx(
-    	int idHook,
-    	HOOKPROC lpfn,
-    	HINSTANCE hMod,
-    	DWORD dwThreadId);
-
-Relembrando nosso passeio pela pilha, ao entrar em uma função stdcall, os primeiros 4 bytes são o endereço de retorno, os próximos o primeiro parâmetro e assim por diante. O que quer dizer que poi ( esp + (4 * 4) ). É o apontado do quarto parâmetro (4*4) que está sendo verificado. Concluindo, se o parâmetro dwThreadId for igual a zero, estamos diante de um hook global, e é o momento em que meu .echo vai exibir na tela "*** GLOBAL HOOK ***". Do contrário, a execução vai continuar silenciosamente.
-
-[hook na função MessageBox]: {{< relref "brincando-com-o-windbg" >}}
+Além de apresentar a jovem Emily Browning, que mais tarde participaria de empreitadas muito mais adultas.
 
 ---
 categories:
-- writting
-date: '2012-12-30'
-link: https://www.imdb.com/title/tt1772341
-tags:
-- movies
-title: Detona Ralph
+- coding
+date: '2007-11-09'
+title: Detectando hooks globais no WinDbg (SetWindowsHookEx)

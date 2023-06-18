@@ -1,17 +1,12 @@
 ---
 categories:
 - writting
-date: '2019-07-27'
+date: '2021-02-16'
+link: https://www.portugalvineyards.com/pt/alentejo/12499-cinco-forais-reserve-red-2017-5600427700856.html
 tags:
-- series
-title: Cinco Séries da Netflix
+- wine
+title: Cinco Forais
 ---
 
-Descubra se puder:
-
- - Esta série sobre evidências forenses mal formuladas com má ciência é uma versão de estagiário de Making a Murderer.
- - Esta série de pegadinhas é tão politicamente correta que parece um documentário.
- - Esta série com um gato gordo e um pinto que fica todo arrepiado está entre as melhores aquisições da Netflix nos últimos anos.
- - Esta série inteira sobre tacos que é narrado por um taco ficou a cinco minutos de me dar um piripaque. No primeiro episódio.
- - Evangelion no décimo episódio: por que diabos crianças pilotam robôs gigantes? Isso não faz o menor sentido e a série me faz achar o máximo e muito adulto.
+Abri esta garrafa antes de viajar e deixei um pouco em uma taça decantando. Não sabia que ele ficou 24 meses em barricas de carvalho francês desde 2017. Curioso que a Sociedade da Mesa recomenda que ele pode ser bebido até 2023, o que é curioso para um vinho com tanto tempo de maturação. Ele é bem encorpado e alcoólico quando aberto. Difícil de beber, mesmo. É preciso dialogar com ele. Frutado e intenso, vai deixando um traço tânico forte. Uma pequena pancada europeia inesperada.
 

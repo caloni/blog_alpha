@@ -1,27 +1,14 @@
 ---
 categories:
 - writting
-date: '2019-04-26'
-link: https://www.imdb.com/title/tt5584756
+date: '2010-05-14'
+link: https://www.imdb.com/title/tt1285246
 tags:
-- cinemaqui
 - movies
-title: Mademoiselle Paradis
+title: Mademoiselle Chambon
 ---
 
-Mademoiselle Paradis segue a cartilha dos filmes de época, mas não deveria. O filme é muito mais do que isso, abordando temas como etiqueta e a dualidade entre ser medíocre em tudo ou sacrificar uma vida para ser algo pelo qual será lembrada.
+Mademoiselle Chambon é daqueles filmes um tanto naturalistas, em que você precisa prestar atenção, mas não muita, para perceber a relação sutil entre os personagens, e os acontecimentos poderiam ter sido narrados de eventos da vida real e não soariam fantásticos. A bem da verdade, o núcleo narrativo do filme de Stéphane Brizé com certeza já deve ter acontecido na realidade uma série de vezes. A virtude do filme é conseguir representar isso sem escandalizar em demasiado, se focando nos personagens.
 
-Baseado em fatos históricos e inspirado pelo livro de Alissa Walser (Mesmerized), sua heroína é Maria Theresia Paradis, uma moça que desenvolveu cegueira completa pela idade de três anos. Tocando o piano de maneira impecável, seus pais parecem adestradores orgulhosos de sua filha nas exibições que realiza em sua casa.
-
-Ninguém possui tato no século 19 e os deficientes são tratados como um estorvo e julgamentos estéticos são ditos na cara (uma de suas "amigas" a diz "depois do tratamento sua cabeça começou a feder e seus olhos ficaram ainda pior"). Como se não bastasse, os "cientistas" da época tinham à sua disposição uma vasta gama de experimentos completamente anti-éticos a ser realizados em seus pacientes.
-
-Um deles, Franz Anton Mesmer (Devid Striesow), tem tido êxito com vários pacientes usando o "poder mágico" do invisível e indetectável (e indolor) eletromagnetismo, o que causa um frisson na comunidade. Infelizmente estão todos cegos nesse mundo da realeza e ninguém percebe que na verdade cuidado e atenção são o segredo para as curas milagrosas.
-
-Este é um filme sobre como pessoas vistas como inferiores (em sua maioria mulheres, aleijados e criados) são tratadas como objetos, das mais diferentes formas. Se é uma serviçal assediada, é apenas um incômodo que ela tenha engravidado. Se uma criança demente sofre um acidente fatal, talvez fosse melhor assim em vez de viver uma vida miserável.
-
-Mas esses são detalhes de um filme longo e cansativo dirigido pela austríaca Barbara Albert, que não consegue fluir sua narrativa e ainda por cima decide não usar nenhuma trilha sonora artificial, o que torna algumas longas sequências onde quase nada acontece quase insuportáveis. Ele repousa quase inteiramente no talento da atriz principal, Maria Dragus.
-
-Dragus nos dá a exata sensação de alguém fora de qualquer categoria estável do mundo onde nasceu. Sua esperança era se tornar exímia pianista, mas quando ela começa a enxergar um pouco ela passa a não fazer nenhum dos dois direito. Os seus olhos se reviram de uma maneira completamente caótica, em uma mistura de paixão e passividade. Sua dor é sentida pelos seus agitados movimentos, mas ao mesmo tempo a alegria de fazer algo (tocar piano) tão bem feito.
-
-Infelizmente este é um filme disposto a descrever a História de maneira burocrática, que apenas pincela alguns comentários sociais. O resto é pura direção de arte de época, com figurinos bordados à mão e as bonitas músicas tocadas ao piano por Paradis. É bonito, mas oferece pouco aos mais ansiosos por comentários atuais sobre uma época grotesca.
+Dito isto, é preciso ressaltar que a sexualidade do filme está bem escondida, mas é isso o que a mantém permanentemente presente, no ar. É como se quanto mais se escondesse o óbvio, mais ele insistisse em povoar nossas mentes, imaginando situações que circundam as conversas aparentemente despretensiosas e inocentes da professora de piano e do pai de um de seus alunos. Porém, ao entrar em cena elementos desses personagens -- como a falta de instrução do pai -- e detalhes sutis -- como um toque insistente em um CD -- fazem com que o desenrolar da história desencadeie não apenas no óbvio, mas um óbvio potencializado exatamente pelo que vimos durante todo o filme.
 

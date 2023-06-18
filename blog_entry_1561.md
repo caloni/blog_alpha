@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-11-05'
+date: '2019-05-30'
 tags:
 - beer
-title: Faxe Royal Export
+title: Faxe IPA
 ---
 
-É uma dinamarquesa com malte leve, mas menos leve que uma pilsen: tem presença enquanto você bebe. Foi a porta de entrada da nova casa do Incrível.
+É uma IPA mais fortinha, com amargor sólido. É interessante, mas ainda prefiro as outras cores da latinha.
 

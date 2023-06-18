@@ -1,11 +1,29 @@
 ---
 categories:
 - writting
-date: '2022-07-11T20:42:21-03:00'
+date: '2012-06-14'
+link: https://www.imdb.com/title/tt0461770
 tags:
 - movies
-title: Encanto
+title: Encantada
 ---
 
-Essa última animação Disney lembra em ambição tudo que veio depois de Frozen: nada. No entanto, Encanto possui seu próprio arsenal de charme cultural ao nos inserir em um conto que se passa em uma comunidade isolada por montanhas onde ocorre um milagre repassado às gerações que ali nasceram. A estética da direção de arte como sempre é impecável e digna de lágrimas por todos os detalhes de texturas e cores. A história, nem tanto. Contendo em seu núcleo um drama exagerado em torno de uma família, o filme se torna uma desculpa para tentar algo novo, com leves diferenças entre os clássicos valores da produtora e algo que pode lembrar novos tempos com você-sabe-qual-cartilha-está-sendo-seguida, mas na prática é uma jornada do herói sem motivo de o ser. Mas é bonito de doer.
+Encantada inicia com um desenho de conto de fadas genérico, cuja introdução apenas serve para nos habituarmos com aquele mundo e a sua dinâmica. A largura da tela diminui sutilmente e faz-se a transição para o mundo real, mais amplo, na própria visão da princesa Giselle.
+
+É preciso dar créditos às verossímeis interpretações de Amy Adams ([O Vencedor], Os Muppets), James Marsden ([Hop: Rebelde Sem Páscoa]) e Timothy Spall (da [série Harry Potter]), que caracterizam perfeitamente suas contrapartes em desenho (ou vice-versa), além, é claro, de efeitos extremamente eficientes com os animais, que oferecem um encantamento adicional necessário para que compremos, de fato, a história que vai se passar.
+
+Porém, a grande virtude da direção é abraçar sem reservas o tema inicial, recriando sem tornar clichê cenas clássicas do imaginário Disney, como em um inspiradíssimo baile que consegue unir composições tão distintas como A Bela e a Fera, [Branca de Neve] e Cinderela sem soar banal.
+
+Como consequência desse comprometimento temos uma fotografia, direção de arte e figurino no mesmo compasso inspirador dos exageros do gênero. Por isso não nos incomodamos, por exemplo, com o óbvio contraste dele (e pessoas do seu mundo) sempre de preto enquanto ela, os animais e as pessoas que acompanham suas músicas sempre com cores "gritantes", no mesmo quadro.
+
+Contudo, não se pode falar o mesmo do roteiro, que manipula a história sem a mesma doce ingenuidade de sua protagonista, criando reviravoltas bem arquitetadas, mas que no fundo revelam seu caráter maniqueísta típico das produções live action da Disney. Nesse sentido, não é possível abraçar sem reservas o destino de todos os personagens, mesmo se tratando de um conto de fadas. Algumas de suas decisões mais absurdas (facilmente detectáveis, desnecessário revelar), embora soluções aparentemente obrigatórias acabam por enfraquecer a trama.
+
+O que não se pode dizer do sistema de pistas e recompensas com que o filme sabiamente salpica em torno dessas mesmas cenas.
+
+Dessa forma, podemos dizer que o esforço narrativo sobre o absurdo da história, assim como a eterna batalha entre o bem e o mal, prevalece.
+
+[Branca de Neve]: {{< relref "branca-de-neve-e-os-sete-anoes" >}}
+[Hop: Rebelde Sem Páscoa]: {{< relref "hop-rebeldes-sem-pascoa" >}}
+[O Vencedor]: {{< relref "o-vencedor" >}}
+[série Harry Potter]: {{< relref "harry-potter-e-o-prisioneiro-de-azkaban" >}}
 

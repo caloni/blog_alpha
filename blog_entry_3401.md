@@ -1,28 +1,154 @@
 ---
 categories:
-- writting
-date: '2019-10-30'
-link: https://www.imdb.com/title/tt5431890
+- coding
+date: '2023-04-17'
+link: https://youtu.be/Ic7OO3Uw6J0
 tags:
-- cinemaqui
-- mostra
-- movies
-title: Segredos Oficiais
+- interview
+title: Árvore de segmentos
 ---
 
-Esta é uma história real que envolve política e a Guerra do Iraque deste século, mas está fora do timing; é um filme britânico deslocado dos assuntos do momento, como o #brexit. Além disso, seu assunto jurídico é chato, cheio de detalhes legais que precisamos aprender para entender a trama. Sua heroína é uma subalterna de um órgão terceirizado do governo, sem qualquer appealing. Seu desfecho é totalmente anticlimático, sabotando nosso envolvimento pelas últimas duas horas. E apesar de tudo isso, Segredos Oficiais é absurdo de tão bom. Tenso, comovente, claro e empolgante. Como tudo isso funciona apesar de?
+Não existe sequer uma entrada em português sobre Segment Tree, uma árvore binária específica para guardar intervalos. E este acredito ser um assunto importante para testes de entrevista ou competições de programação porque ele é muito útil para alguns problemas. Vamos dar uma olhada em como ela funciona.
 
-Em primeiro lugar, o roteiro de Sara e Gregory Bernstein, adaptado do livro The Spy Who Tried to Stop a War, de Marcia e Thomas Mitchell, coloca uma moça chamada Katharine Gun (Keira Knightley) na frente de uma corte de alta instância, fazem uma acusação de traição do seu país, e pergunta para ela se ela se declara culpada ou inocente. Não ouvimos sua resposta, porque o filme retorna dois anos no passado, mas acostumados que estamos com esse artifício, mal nos importamos com o que ela dirá. E não nos importar com sua resposta, o filme irá nos mostrar, é um ledo engano.
+Em primeiro lugar, ela é uma árvore binária. No entanto, seus ramos representam intervalos. A raiz possui o intervalo inteiro (mínimo e máximo) e os ramos vão se dividindo em intervalos menores, até que as folhas indiquem apenas um elemento.
 
-Gun é funcionária de uma instituição que realiza transcrições de áudios em vários idiomas, áudios resultantes de escutas realizadas por órgãos do governo, ou na velha e precisa palavra usada antigamente, espionagem, mas institucionalizada, o que soa melhor e tem ar condicionado. Competente em seu ofício de traduzir mandarim, ela é toda politizada e chega a gritar com a TV quando vê políticos mentindo descaradamente, mesmo que esse político seja o primeiro-ministro de seu país, o que nos demonstra que seus princípios estão acima do seu governo. Por isso quando sua equipe recebe um email encaminhado por um agente da CIA montando um esquema ilegal para conseguir votos na ONU que valide o início da guerra, nós já sabemos qual vai ser sua reação: vazar este memorando para que seja publicado o quanto antes.
+É importante notar que uma árvore de segmento é maior que simplesmente um array, mas diferente de um array, a árvore brilha quando precisamos somar intervalos.  Como ela está estruturada de maneira que cada ramo contém a soma de seus galhos, para obter a maioria dos intervalos sua complexidade desce de O(N) para O(log N).
 
-O filme faz de tudo para que a retidão moral de Katharine Gun fique intacta durante a chuva de acontecimentos desencadeadas por esse vazamento. Enquanto isso nós aprendemos a dinâmica entre grupos pacifistas militantes e os grandes jornais britânicos como The Observer. O roteiro dos Bernstein tem até tempo de nos informar que, além do editor do jornal já ter sua posição pró-guerra definida, possui comunicação privilegiada com o primeiro-ministro e evita publicar artigos com mais de 400 palavras. Apenas esta rápida cena é suficiente para entendermos que a opinião pública está completamente nas mãos estatais e a população sequer tem acesso ao que jornalistas investigativos mais críticos pensam sobre isso.
+{{< image src="segment_tree.png" >}}
 
-É nessa atmosfera em que os poderes parecem todos cooptados e o Reino Unido está prestes a se unir aos americanos em uma coalizão autoritária e sem qualquer justificativa racional na invasão ao Oriente Médio que Katharine Gun se meteu, e a personagem criada por Keira Knightley é a cidadã comum se cidadões comuns do século 21 fossem politizados e com voz ativa. E mais uma vez o roteiro dos Bernstein, com a ajuda da direção de Gavin Hood, nos manipula de forma a imaginar Katharine com essa voz ativa a todo momento. Quando a ouvimos falar, é como se estivesse discursando, pois uma música solene surge lá do fundo. A trilha sonora de Paul Hepker e Mark Kilian soa clichê pela impulsividade, mas é mais eficiente do que gostaríamos que o clichê fosse, e torna cada pequena reviravolta dos acontecimentos em um grande momento para refletir.
+Dessa forma, podemos concluir que o espaço ocupado por uma árvore binária para implementar um segment tree completo deve ocupar por volta de `2*N-1`, o espaço para implementar uma árvore binária completa com N folhas.
 
-Todo esse esforço em soar relevante é tão intenso que mal importa que o vazamento iniciado por Katharine no fundo não altere o destino da História (o que não é nenhum spoiler, desde que você tenha acompanhado as notícias de guerra da década passada), pois é justamente pela impotência de seu ato que conseguimos enxergar o perigo que ela corre ao desafiar seu próprio governo. Mas, só para ter certeza, há uma cena em que um detetive da Scotland Yard a leva para uma salinha junto com uma advogada de defesa improvisada. Essa advogada, que cuida de casos de pequenos delitos, assessorou Katharine por esses tensos minutos para que nós espectadores tenhamos a exata noção de Davi versus Golias que se configurou.
+No entanto, o tamanho para estocar uma segment tree não é esse, mas tipicamente `4*N`. O motivo disso é que nós precisamos de `2*next_power_of_two(N)-1` para garantir que as divisões da árvore todas vão estar representadas, mas como custa processamento descobrir qual a próxima potência de 2 que é maior que N uma aproximação válida é usar `4*N`.
 
-Como que para coroar esse tenso roteiro conduzido com precisão por Gavin Hood, surge o personagem do advogado ultrarracional interpretado por Ralph Fiennes, um sujeito que se senta na outra ponta de uma longa mesa para conversar com sua cliente, depois de ter sido apresentado a ela com uns 4 metros de distância entre eles. Fiennes vive o advogado introvertido Ben Emmerson como alguém que possuía amigos dentro do governo pelo seu passado, mas que, assim como Katharine, não vendeu sua alma e manteve seus princípios intactos. O filme não precisa ter uma cena que explique a conexão entre Ben e Katharine, pois ela é mais intelectual que afetiva, tem a ver quando dois seres humanos corretos observam um ao outro, se entendem e se respeitam. E Fiennes consegue nos convencer a todo momento que apesar de possuir habilidades na arte da advocacia sua causa não está ganha, e pode muito bem não estar, e assim garante tensão por muito tempo depois que mais nenhuma novidade surge na história.
+Vamos observar a implementação de uma árvore de segmentos. A primeira coisa é alocar o espaço necessário em um vetor. Digamos que nossa árvore irá conter os intervalos de 1 a 1000 (inclusive).
 
-Segredos Oficiais é um filme que envolve espionagem e política em um drama moral e consegue extrair humanidade de tudo isso. Seu trunfo é uma adaptação sólida conduzida sem firulas por Gavin Hood, que se beneficia de um elenco acima da média para filmes chatos como esse. O resultado, que não é nada chato, acaba sendo uma experiência tensa, envolvente, que mastiga os detalhes para espectadores menos atentos, mas que continua mantendo um tom inteligente ao evitar perder algumas sutilezas de sua história.
+```
+vector<int> tree[4*1000];
+```
+
+Nossa árvore está pronta. =)
+
+Vamos atualizar algum valor nela. Por exemplo, definir o valor 42 para o node 666:
+
+```
+void update(int node, int left, int right, int pos, int value, vector<int>& tree) {
+    if (left == right) {
+        tree[node] = value;
+    } else {
+        int nodeLeft = 2 * node;
+        int nodeRight = 2 * node + 1;
+        int middle = (left + right) / 2;
+        if (pos <= middle)
+            update(nodeLeft, left, middle, pos, value, tree);
+        else
+            update(nodeRight, middle+1, right, pos, value, tree);
+        tree[node] = tree[nodeLeft] + tree[nodeRight];
+    }
+}
+
+int main() {
+    vector<int> tree(4 * 1000);
+    update(1, 1, 999, 666, 42, tree);
+}
+```
+
+Algumas informações relevantes sobre esses parâmetros:
+
+ - node é a localização do ramo atual;
+ - left é o início do intervalo que estamos;
+ - right é o final do intervalo que estamos;
+ - pos é o número do ramo que pretendemos trocar;
+ - value é o valor que pretendemos colocar no ramo;
+ - tree é a árvore de segmentos.
+
+Todos esses parâmetros existem porque a função update é recursiva e ela precisa passar a localização dentro do array no formato de um mapa para uma árvore binária. A busca também segue o mesmo princípio, de O(log N), ou seja, para encontrar a posição desejada (variável pos) a função irá seguir limitando o intervalo entre left e right até que ambos tenham o mesmo valor, situação em que estaremos em uma folha.
+
+Depois da atualização vem a parte interessante: os ramos acima da folha são atualizados com a soma entre seus ramos esquerdo e direito, recursivamente. Isso quer dizer que o valor 42 irá ecoar por todos os ramos de cima até chegar na raiz, que também irá conter 42, já que este é o primeiro valor diferente de zero de toda a árvore.
+
+Vamos definir mais alguns valores em outras posições para em seguida implementar a soma:
+
+```
+int main() {
+    vector<int> tree(4 * 1000);
+    update(1, 1, 999, 666, 42, tree);
+    update(1, 1, 999, 600, 58, tree);
+    update(1, 1, 999, 700, 45, tree);
+    update(1, 1, 999, 999, 55, tree);
+}
+```
+
+Com isso a soma dos seguintes intervalos deve contar os seguintes totais:
+
+ - o intervalo [666,666] deve conter o valor 42, da única folha selecionada;
+ - o intervalo [600,700] deve conter o valor 145, da soma de 666, 600 e 700;
+ - o intervalo [600,999] deve conter o valor 200, da soma adiciona de 999;
+ - a raiz, ou o intervalo [1,999] deve conter o mesmo valor;
+ - intervalos abaixo de [1,599] devem conter 0.
+
+Vamos implementar a função de soma e descobrir.
+
+```
+int sum(int node, int left, int right, int posLeft, int posRight, const vector<int>& tree) {
+    if (posLeft > posRight)
+        return 0;
+    if (posLeft == left && posRight == right)
+        return tree[node];
+    int nodeLeft = 2 * node;
+    int nodeRight = 2 * node + 1;
+    int middle = (left + right) / 2;
+    return sum(nodeLeft, left, middle, posLeft, min(posRight, middle), tree)
+        + sum(nodeRight, middle + 1, right, max(posLeft, middle + 1), posRight, tree);
+}
+
+int main() {
+    vector<int> tree(4 * 1000);
+
+    update(1, 1, 999, 666, 42, tree);
+    update(1, 1, 999, 600, 58, tree);
+    update(1, 1, 999, 700, 45, tree);
+    update(1, 1, 999, 999, 55, tree);
+
+    vector<vector<int>> intervals = { 
+        {666, 666}, {600, 700}, {600, 999}, 
+        {1, 999}, {1, 599} };
+
+    for (const vector<int>& i : intervals) {
+        int isum = sum(1, 1, 999, i[0], i[1], tree);
+        cout << "the interval [" << i[0] << "," << i[1] 
+            << "] has the value " << isum << endl;
+    }
+}
+```
+
+Mais uma vez, existem muitos parâmetros porque a função é recursiva e precisa se localizar, e o princípio é o mesmo da função update, de usar as variáveis como um mapas para navegar por uma array.
+
+ - node é a localização do ramo atual;
+ - left é o início do intervalo que estamos;
+ - right é o final do intervalo que estamos;
+ - posLeft é o início do intervalo que queremos a soma;
+ - posRight é o final do intervalo que queremos a soma;
+ - tree é a árvore de segmentos.
+
+Note que a única variável que de fato indexa o array é a variável node. Porém, qual vai ser o índice de node é determinado pelos cálculos que giram em torno de ir para a direita ou para a esquerda pela árvore. Se for pela esquerda o próximo índice é o índice em node vezes 2, pois existem node ramos no nível em que estamos, e se for pela direita o próximo índice é node vezes 2 mais um, que é o próximo após o ramo da esquerda.
+
+Se ficou difícil de entender, lembre-se que a busca em uma árvore binária segue a mesma lógica daquele jogo de adivinhação, em que você chuta um número de X a Y e a pessoa que sabe qual o número irá dizer se o número é maior ou menor do que você chutou. Como você é muito esperto irá sempre dividir a faixa de onde está para acertar o número o mais rápido possível.
+
+Por exemplo, vamos supor que você deve chutar qual número é de 1 a 100. O número é 64.
+
+ - seu chute inicial é 50;
+ - a resposta: mais alto;
+ - seu próximo chute é 75 (entre 50 e 100);
+ - a resposta: mais baixo;
+ - seu próximo chute é 63;
+ - a resposta: mais alto;
+ - seu próximo chute é 67;
+ - mais baixo;
+ - 65;
+ - mais baixo;
+ - 64;
+ - acertou!
+
+Entre 100 possíveis chutes foram feitos 6, ou cerca de log 100 chutes. Exatamente como é feita a busca na árvore binária, seja de segmentos ou não. Essa é a grande vantagem de usar o mapa para se localizar no array como uma árvore binária, pois a busca não será linear.
+
+O fato da árvore ser de segmentos é apenas um detalhe que incorre em mantermos atualizados os nodes com a soma de todos os ramos abaixo, algo custoso a princípio, mas que na hora de obter a soma de intervalos faz valer a pena.
 

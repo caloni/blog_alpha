@@ -1,16 +1,19 @@
 ---
-categories:
-- writting
-date: '2020-10-04'
-link: https://www.crunchyroll.com/my-first-girlfriend-is-a-gal
-tags:
-- animes
-title: My First Girlfriend is a Gal
+categories: []
+date: '2014-11-21'
+tags: null
+title: MVP C++ Summit e/ou Visual C++ ressurgindo das cinzas.
 ---
 
-Não tire conclusões precipitadas. Gal é a transliteração de gyaru, do inglês girl, ou garota, mas não é apenas sobre garotas que este título fala. As Gals do anime são garotas que seguem o modelo exagerado (do ponto de vista japonês) com que as garotas se produzem. E a Gal que este virjão começa a namorar na série dá a exata noção de o quão distante ele estaria na vida real de uma mulher dessas. Felizmente ele é um personagem de anime.
+Esse ano aproveitei meu status de Most Valuable Professional (já renovado para mais um ano...  yes!) e visitei o Campus de Seattle da Microsoft no evento global MVP Summit. A ideia desse evento é que os MVPs troquem ideias entre eles e com as equipes dos produtos Microsoft. No meu caso, houve um dia que visitamos o prédio da equipe do Visual C++, assistindo apresentações sobre a nova e próximas versões de C++ e também dando opiniões e visões acerca do que é relevante e o que não é no momento para a comunidade de desenvolvedores.
 
-As piadas de seu grupo de amigos é muito próxima de um grupo de amigos virgens (e você já teve um): mulheres de revistas, objetivos bem definidos (transar) e nenhum plano de ação minimamente executável. My First Girlfriend is a Gal é uma viagem cotidiana dentro desse universo, com uma pegada menos infantil e mais adolescente, mais próximo de "Nerds" ou qualquer outro filme americano sobre garotos inaptos tentando conquistar garotas. Pode ser um porre eventualmente, mas possui lá suas tiradas. Como um ex-virjão eu curti.
+E é claro que eles já sabem que o mais relevante no momento é o acompanhamento do padrão.
 
-Uma curiosidade interessante sobre os tempos atuais (este anime é de 2020): essa série tem um personagem que é um pedófilo declarado, e faz declarações, em companhia de amigos e garotas, no mínimo constrangedoras, como "meninas do pré-fundamental são as melhores". Frequentemente quando seus amigos comentam sobre essa ou aquela garota ele se sente desanimado por elas serem muito velhas (todos os personagens giram em torno dos 15 aos 18 anos). Ele arruma um trampo de verão em uma creche onde bate papo com menininhas nas cenas em que é visto, e em um episódio onde todos vão para a praia, ele fica se deliciando ao ver crianças pré-puberdade de biquini.
+Apesar de não estar no centro dos meus estudos e dedicação nos últimos anos, a velha queda que nutro pela minha linguagem de criação além do próprio título de expertise me fizeram escolher, por todos os dias que estive no evento mundial de MVPs, pela oportunidade de ouro de assistir o que a equipe de desenvolvimento do Visual C++ tinha a dizer. O saldo foi extremamente positivo.
+
+Como devem saber, há um blogue da equipe onde são compartilhadas informações sobre como anda esse projeto que já tem mais de duas décadas. As últimas novidades incluem ferramentas para desenvolvimento mobile (Android e Windows Phone) em C++ e o Visual Studio 2015 Preview e mais uma porrada de suporte aos padrões C++ 11, 14 e o futuro 17.
+
+E uma última novidade muito curiosa é um saite onde é possível testar código no último compilador compilado pela equipe!
+
+Enfim, sabemos que o GCC é o laboratório para as últimas features de C++, mas como também sabemos através do Java, nunca é muito saudável confiar em apenas um projeto para o desenvolvimento de uma linguagem. E quanto mais compiladores C++ modernos melhor!
 

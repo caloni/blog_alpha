@@ -1,25 +1,16 @@
 ---
 categories:
-- coding
-date: '2020-04-05'
-title: Golang e C
+- writting
+date: '2021-04-25'
+link: https://www.imdb.com/title/tt13357124
+tags:
+- animes
+title: Gokushufudo (The Way of the Househusband)
 ---
 
-É muito difícil configurar a linguagem Go no ambiente Windows para compilar código C. O único ambiente de compilação que o projeto leva a sério são os ports do GCC, e não o Visual Studio, que seria a ferramenta nativa. Dessa forma, realizei boa parte das travessuras desse artigo em Linux, usando o WSL com a distro Ubuntu ou CentOS. Deve funcionar em qualquer Unix da vida.
+Este curto anime discorre sobre episódios na vida de um ex-Yakuza que agora é dono de casa, mas leva sua rotina tão ou mais a sério do que sua vida de crimes. Ele cozinha bem e administra as compras de casa. O plot é que sem querer ele consegue se desviar dos personagens que tentam fazê-lo voltar aos velhos tempos, e a comicidade está no absurdo das situações.
 
-A linguagem Go na versão mais nova precisa que seja definida através da cgo, o backend C do ambiente de build da linguagem, uma função trampolim, que é uma função escrita em C que irá chamar uma função escrita em Go. Essa função pode ser passada como parâmetro de callback para uma biblioteca C que quando a biblioteca C chamar esse ponteiro de função ele irá atingir a função trampolim, que por sua vez, chama a função Go, que é onde queremos chegar depois de todo esse malabarismo.
+Os traços são estilizados como um web comic cheio de textura, cores e sombras. E não à toa, já que a animação é feita direto na edição e movimentação da arte estática, com poucos quadros desenhados, mas com uma estética que conseguimos admirar pelo menos por alguns segundos.
 
-    main
-     |
-     C.set_callback
-      |
-      C.call_callback
-       |
-       g_callback*
-        |
-        GoCallback_cgo
-         |
-         GoCallback
-
-Em resumo: o main em Go chama C.set_callback (função C exportada) passando o endereço do seu callback (em cgo) e em uma segunda chamada ou nessa mesma pede para chamar esse callback. O módulo em C pode ou não chamar essa função nessa thread ou mais tarde, através do ponteiro de função que estocou (g_callback). Ao chamá-la, ativará a função GoCallback_cgo, que por sua vez chamará GoCallback, essa sim, já no módulo Go (embora ambas estejam no mesmo executável, já que C e Go podem ser linkados juntos de maneira transparente.
+O caráter surreal do plot às vezes não se encaixa tão bem. É uma história apressada e episódica. O gato da casa também participa em momentos pontuais. Não está claro como o roteiro se desenvolve acima do protagonista repetindo que é um dono de casa, e por ser produção associada com a Netflix duvido que a coisa avance mais do que isso. Eles querem sequestrar a atenção do espectador para sempre. Mas dá para assistir 16 minutos de um anime engraçado, irreverente e ligeiramente trash de vez em quando para sempre.
 

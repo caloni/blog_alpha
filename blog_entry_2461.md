@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2017-05-17'
+date: '2022-10-09T17:58:12-03:00'
 tags:
-- food
-title: Nanni Torrentes Tardio 2016
+- wine
+title: Nanni Tannat Reserve 2019
 ---
 
-Limão, mel com final floral; não tão doce como se pode imaginar. Noite de embutidos e queijo de cabra em casa.
+Reserva de 12 meses em barrica da mesma uva, que com muito esforço conseguimos matar. Não por ser ruim, estava delicioso. Esse gosto adstringente, agressivo, dos vinhos de Cafayate já me encantou novamente, mesmo sem ser fã dessa vinícola. O amadeirado chega meia hora depois de aberto.
 

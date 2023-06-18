@@ -1,24 +1,16 @@
 ---
 categories:
 - writting
-date: '2015-12-07'
-link: https://www.imdb.com/title/tt0082912
+date: '2015-01-21'
+link: https://www.imdb.com/title/tt0067204
 tags:
 - movies
-title: 'Pixote: A Lei do Mais Fraco'
+title: Pistoleiro Sem Destino
 ---
 
-O menino Fernando Ramos da Silva fez sua estreia no Cinema interpretando uma figura parecida com a realidade em que vivia: Pixote, um garoto que precisa cheirar cola para fugir da realidade em que vive.
+Peter Fonda atuou em dezenas de filmes e dirigiu três. Pistoleiro sem destino é o primeiro deles, em que ele também atua. É um retrato honesto de um pedacinho do velho oeste, mas mostrado de maneira romantizada e uma inesquecível trilha sonora.
 
-O filme dirigido por Hector Babenco carrega influências do neorealismo italiano, empregando muitos moradores da região onde as cenas foram filmadas, em São Paulo e no Rio de Janeiro.
+A história é simples: três homens são amigos, pescam juntos. Um decide voltar para sua mulher depois de a ter abandonado por sete anos. Os outros dois decidem ir até a costa conhecer o mar. Acontecimentos inesperados, porém, levam dois desses homens para o lar de um deles. Sua ex-mulher aceita ambos como mão-de-obra, e uma vez abandonada, essa possibilidade assombra ambos.
 
-Uma introdução inserida antes dos créditos iniciais explica sobre a miséria de boa parte da população do Brasil, e como isso levou à lei que protege pessoas menores de 18 anos de terem ficha criminal e penas mais pesadas, o que gerou a consequência de elas serem usadas como joguetes no mundo do crime, já que se forem pegas, sua pena será significativamente menor que um criminoso mais velho.
-
-A primeira metade do filme é usada para descrever sem muitas meias-palavras a realidade desses jovens "de menor", pegos pela polícia. Trancafiados da FEBEM, antigo reformatório da cidade, saem da função de joguetes de criminosos para virarem joguetes dos policiais, usados como seres descartáveis cuja única função é servir aos seus propósitos corruptos.
-
-É preciso perdoar os diálogos terríveis, e as interpretações péssimas desse trabalho quase que documental, já que adentrar nesse mundo compensa em muito a falta de uma narrativa mais elaborada. Mesmo com isso, o filme prende pela expectativa do destino desses personagens, onde Pixote é o centro de tudo isso.
-
-Na segunda metade do filme, fora da FEBEM, Pixote e mais três garotos entram em esquemas de venda de drogas e assaltos, indo parar na Cidade Maravilhosa para praticar pequenos delitos junto da golpista Sueli. Marília Pêra acabou de falecer, e é uma perda inestimável para o Cinema nacional. Não me lembro de uma atriz mais carismática que ela, e sua participação em Pixote é orgânica. Ela não se intromete na dinâmica dos rapazes, acaba fazendo parte daquela realidade, a pintando ainda mais com o gosto amargo da falta de perspectiva, sequer de uma relação de amizade duradoura entre eles.
-
-A realidade de Pixote não pode ser simplesmente traduzida em um roteiro e uma narrativa inteligentes. O filme demonstra que aquela realidade é muito forte para que fosse possível captá-la nos moldes tradicionais. Tal qual o neorealismo italiano, a vida real muitas vezes pode ser mais eficaz que qualquer artifício maniqueísta.
+As transições entre as cenas e durante elas é o lado técnico mais curioso da direção de Fonda, que usa cenas justapostas quando os dois amigos andam de cavalo, ou até em uma conversa no final da tarde. É um exemplo que filmes de faroeste não precisam de muita história e nem todos eles são sanguinários ou com muita ação e pouca reflexão.
 

@@ -1,203 +1,39 @@
 ---
 categories:
-- coding
-date: '2010-05-31'
-tags: null
-title: Enum
+- writting
+date: '2017-09-24'
+link: https://www.imdb.com/title/tt5109784
+tags:
+- cinemaqui
+- movies
+title: Entrevista com Darren Aronofsky
 ---
 
-Padrão C (ISO/IEC 9899:1990)
-    
-    6.5.2.2 enum-specifier
-     enum
+"Talvez nós tenhamos interpretado erroneamente a Bíblia por muito tempo." Essa foi a frase-chave de uma coletiva com Darren Aronofsky que envolveu todas as interpretações polêmicas a respeito de seu novo filme, "Mãe!", que apresenta uma alegoria que inevitavelmente cai nas preocupações ecológicas atuais. Com a presença apenas do diretor, foi uma entrevista ágil, com boas perguntas e com uma presença de espírito de Aronofsky em cada resposta.
 
-    Padrão C++ (ISO/IEC 14882:1998)
-    
-    type-specifier
-     enum-specifier
-    
-    enum-specifier
-     enum
+Darren Aronofsky é um diretor bem peculiar. Sempre explorando o gnosticismo -- a busca e a afirmação de todo tipo de conhecimento, natural e sobrenatural -- seus filmes geralmente envolvem personagens no limite de seu conhecimento e capacidade. Claro que é difícil tentar relacionar Pi, Réquiem Para um Sonho, Fonte da Vida, O Lutador, Cisne Negro e Noé sob um mesmo tema. Mas não se trata apenas dos assuntos que o diretor prefere abordar, mas do seu estilo, que costuma ser bem intenso para seus personagens.
 
-Uma enumeração faz duas coisas: define um novo tipo, parecido com um inteiro, e cria uma **lista de constantes com nomes significativos**. A definição técnica do tipo de um enum é mais complicada, mas basicamente ele é um novo int.
+E agora com "Mãe!" ele volta a explorar uma metáfora poderosa sobre o mundo, apelando, assim como Noé, para referências bíblicas, mas também, como em Fonte da Vida, como um apelo a múltiplas visões da realidade. Se bem que, se formos ao cerne da história, ela lembra mais Cisne Negro, pois apresenta uma protagonista mulher que se depara com experiências tão bruscas e intensas que desafiam sua própria identidade.
 
-Como funciona: definimos uma lista com cada elemento tendo um valor inteiro, geralmente único. Todos os nomes usados na lista passam a fazer parte do espaço de nomes atual e funcionam como constantes com o seu valor definido no início.
+A recepção da coletiva foi aquela muvuca de celebridades, com fotógrafos à frente e uma sala (de cinema) lotada de pessoas para aguardar um dos diretores mais badalados do momento. Por conta do número de pessoas não houve sessão de fotos, e a sessão de perguntas foi bem resumida, embora tenhamos passado cerca de 40 minutos na companhia de Aronofsky.
 
-```
-enum FileType // criamos o novo tipo inteiro FileType
-{
-   Binary = 1, // Binary é uma constante com valor igual a 1
-   Text = 2, // Text é uma constante com seu sizeof igual a sizeof(FileType)
-   Mixed = 3 // Todas as constantes da enumeração são do mesmo tipo
-};
-```
+A maioria das perguntas giraram em torno da produção e criação de "Mãe!", sempre com um pé nos vários significados da obra. Houve um chute que a personagem de Michelle Pfeiffer seria chave na história, chegando alguém até a comentar que todo o conflito de resume a ela (!). Muito tempo fora das telas e voltando agora à telona, Pfeiffer foi elogiada por Aronofsky em termos genéricos, como todo bom diretor costuma fazer. Foi curioso acompanhar as teorias da plateia de críticos e jornalistas, que de alguma forma pareciam impregnados de percepcão política a respeito de uma obra que sequer dá muitas aberturas para o tema.
 
-Obs.: Os elementos que não possuem valor definido são definidos automaticamente como o valor do elemento anterior acrescidos de um. Se for o primeiro elemento, seu valor padrão é zero.
+Isso pode ser um reflexo dos tempos atuais, cheios de conflitos, ou de como temas como a ecologia e o feminismo se misturam com política. Por falar em feminismo, ele foi citado, até por conta da protagonista ser uma mulher e interpretada por Jennifer Lawrence, que não se priva de falar a respeito do tema em entrevistas. Mais uma vez Aronofsky foi polido e comentou que Jen Law se adaptou muito bem ao papel desde o começo, mas a menção ao feminismo ficou por isso mesmo.
 
-```
-enum Numbers
-{
-   zero,  // igual a zero
-   one,   // igual a um
-   two,   // igual a dois
-   three  // igual a tres
-};
+Como é natural em obras abertas como "Mãe!", muita forçação de barra foi imposta pelo público. E o diretor parecia muito confortável com qualquer uma delas. Exceto uma. Ele abriu um parênteses enfático a respeito dos que entendem que o filme é dark apenas pelo prazer de ser dark. "A pessoa simplesmente não entendeu a proposta", disse. Não há nada mais triste para um artista que ver seu esforço minimizado por filtros banais como esse.
 
-enum Hexa
-{
-   JulioCesar = 1,
-   Lucio = 3,
-   Juan,                // Juan = 3 + 1 = 4
-   Gilberto Silva = 6,
-   Felipe Melo          // 6 + 1 = 7
-}; 
+Sobre a superação de vida de seus personagens (como em O Lutador e Noé), disse que sua criação é uma parte dele mesmo que ele estica até virar um personagem. E ele se apegou mais ao personagem da JenLaw, mesmo que tenha tirado alguns elementos do personagem de Javier Bardem, que representa personagem importantíssimo no filme. Bem-humorado, aproveitou para comentar sobre o que todos acham sobre a situação principal de você ter visitas mal-educadas em sua casa. Ele deu um exemplo de sua vida, um amigo, que até troca de canal quando o visita em sua própria casa. "Vocês podem usar esse meu exemplo, embora ele tenha melhorado; mas ainda assim...". Risadas da plateia.
 
-```
+Mas os nervos ainda estavam inexplicavalmente mais para política do que visitas mal-educadas. Seja ou não uma coincidência política da situação atual (ele desmentiu pelo menos duas vezes, explicando como demorou o processo de confecção do filme), falou que ele, assim como todo mundo do planeta, não acreditava na eleição de Trump. Mas aconteceu. E que pelo menos a vantagem é que agora é possível, em suas palavras, "enxergar o câncer". Sobre Obama criticou a lentidão das mudanças em seu mandato.
 
-_Detalhe bizarro_: você sabia que, apesar da vírgula ser usada para separar valores de enumeração, ela pode também terminar uma listagem? Por algum motivo exdrúxulo (se alguém quiser explicar), um valor de enumeração foi definido de tal forma que sempre poderá existir uma vírgula terminando ele:
+Talvez todo governo tenha de fato uma ou outra crítica válida sobre ambientalismo. Sobre a esperança de nós mudarmos como espécie nossa situação com a natureza, ele é um otimista. Acredita que ainda há tempo para salvarmos a mãe-natureza antes que "ela nos exploda". Salvar o planeta para nossos netos. "Nossos filhos, até."
 
-```
-enum VirgulaSafada { 
-   um = 1, 
-   dois, 
-   tres, // o que essa vírgula no final tá fazendo aqui?
-}; 
+Outros assuntos interessantes que giraram em torno da produção de "Mãe!" foi essa maneira toda peculiar do diretor nova-iorquino conseguir, assim como seu conterrâneo Woody Allen, harmonizar o custo de seus filmes com seu sucesso comercial. Dessa forma, de produções mais modestas como Pi para um blockbuster como Noé, Aronofsky disse que produções no cinema estão sempre trabalhando no limite de seus custos. O que ele faz com sua equipe é simplesmente tentar obter o melhor com o dinheiro disponível.
 
-```
+Isso tem relação direta com a direção de arte de seu novo filme, em uma história que se passa sempre em uma casa e foi construída em duas frentes. Uma casa externa, isolada de tudo, foi feita para o ganho na iluminação; nos estúdios foram feitos os três andares, que foram úteis para as partes de destruição. Além disso, Darren cria um clima subjetivo e claustofóbico pelo uso limitado de tipos de tomada. Como ele mesmo explica, foram usadas apenas três tipos de tomadas no filme inteiro, todas em torno da personagem de JenLaw: atrás de seus ombros, na cabeça e sua face. Ter a possibilidade de ver acima da cabeça foi algo que soou particularmente intrigante para um diretor acostumado com peculiaridades visuais.
 
-#### Uso prático
+Se mostrando claramente empolgado com o seu maior desafio técnico até o momento, os últimos vinte últimos minutos de seu novo filme, Aronofsky resolveu concluir sua participação na coletiva voltando ao tema de ecologia e religião, abrindo um parênteses interessante sobre duas passagens aparentemente contraditórias no Gênesis, mas que na verdade se complementam. Conforme é dito para o homem no primeiro livro da Bíblia: vá e domine a Terra. Mas, ao mesmo tempo, também é dito que ele zele por ela. Hoje em dia, como ele disse, até o Papa fala sobre as responsabilidades do homem para com o planeta. E ele conclui com a frase que inicia este artigo: "Talvez tenhamos interpretado a Bíblia erroneamente por muito, muito tempo."
 
-Geralmente usamos enumerações para definir valores únicos (tag) em um argumento de função, ou, mais moderno, como substituto daqueles antigos defines em C para mapas de bits. Nesse último caso não usamos o tipo da enumeração, pois ele pode conter apenas um valor único definido, e não um conjunto deles:
-
-```
-enum ModoDeServir
-{
-   assado,
-   cozido,
-   frito,
-   cru
-};
-
-void Cook(Prato p, ModoDeServir ms);
-
-main()
-{
-   Cook(frango, cozido);
-}
-
-enum FileOpenMode
-{
-   fomRead   = 0x0001,
-   fomWrite  = 0x0002,
-   fomOver   = 0x0004,
-   fomDel    = 0x0008,
-};
-
-void OpenFile(DWORD fileOpenMode);
-
-main()
-{
-   OpenFile(fomRead | fomWrite);
-} 
-
-```
-
-Note que usamos uma enumeração nesse último caso para termos um nome significativo para uma flag, além desse nome fazer de fato parte dos nomes do programa, e não um define que, para o compilador, não existe.
-
-#### Boas práticas
-
-Como os tipos da enumeração passam a pertencer ao namespace atual, eles podem se misturar facilmente com todos os nomes daquele namespace. Dessa forma, é útil e bem organizado definir um prefixo para os nomes, que pode ser formado pelas iniciais do nome da enumeração, como no exemplo acima (fom = **F**ile**O**pen**M**ode).
-
-{{< image src="wNCAYCX.png" caption="enum-namespace.png" >}}
-
-O surgimento do enum veio como evolução de uma prática já consagrada pelo uso na linguagem C, que eram as listas de valores constantes criados através de defines com algum prefixo em comum (FILE_SHARE_*, SW_SHOW_*, etc). Portanto, sempre que se encontrar em uma situação para criar esse tipo de lista, a enumeração é o caminho atualmente ideal.
-
-```
-// A listagem abaixo pode virar um enum...
-#define FOM_READ   0x0001
-#define FOM_WRITE  0x0002
-#define FOM_OVER   0x0004
-#define FOM_DEL    0x0008
-
-// ... como este aqui!
-enum FileOpenMode
-{
-   FOM_READ   = 0x0001,
-   FOM_WRITE  = 0x0002,
-   FOM_OVER   = 0x0004,
-   FOM_DEL    = 0x0008,
-};
-
-// esse pedaço de código abaixo...
-int main()
-{
-   OpenFile(path, FOM_WRITE);
-}
-
-// ... vira isso após ser pré-processado...
-int main()
-{
-   OpenFile(path, 0x0002);
-}
-
-// ... mas isso se fossem usados enums...
-int main()
-{
-   OpenFile(path, FOM_WRITE); // FOM_WRITE faz parte da linguagem
-}
- 
-
-```
-
-#### Atualização: e qual a diferença?
-
-Perguntado [por um leitor](http://www.caloni.com.br/blog/enum#comment-17806) sobre qual a diferença prática do último exemplo, onde temos praticamente o mesmo resultado entre usar defines e enumerações, imaginei que a mesma dúvida pode ter surgido para várias pessoas, porque é uma boa dúvida. Dá a entender que o autor deste artigo está se atentando a preciosismos da linguagem (e está mesmo!), mas à vezes as aparências enganam.
-
-Para ilustrar melhor fiz um mais elaborado. Aqui, estamos lendo pedaços de dados que tiveram que ser alinhados com alguma "gordura".
-
-```
-// alinhamento obrigatório pelo leiaute dos dados
-#define CHUNKSZ_BASE 0x5000
-
-#define CHUNKSZ_TINY   0x1000 + CHUNKSZ_BASE
-#define CHUNKSZ_SMALL  0x2000 + CHUNKSZ_BASE
-#define CHUNKSZ_MEDIUM 0x4000 + CHUNKSZ_BASE
-#define CHUNKSZ_HUGE   0x8000 + CHUNKSZ_BASE
-
-// alinhamento obrigatório pelo leiaute dos dados
-static const int chunkSizeBase = 0x5000;
-
-enum ChunkSize
-{
-   chunkszTiny   = 0x1000 + chunkSizeBase,
-   chunkszSmall  = 0x2000 + chunkSizeBase,
-   chunkszMedium = 0x4000 + chunkSizeBase,
-   chunkszHuge   = 0x8000 + chunkSizeBase,
-};
-
-// Fonte original
-int main()
-{
-	// lendo quadro pedaços de dados (tamanho médio)
-   ReadChunkFromFile(file, CHUNKSZ_MEDIUM * 4);
-
-	// lendo quadro pedaços de dados (tamanho médio)
-   ReadChunkFromFile(file, chunkszMedium * 4);
-}
-
-// Pós-processado
-int main()
-{
-	// lendo sei lá o que (perde alinhamento)
-   ReadChunkFromFile(file, 0x4000 + CHUNKSZ_BASE * 4);
-
-	// lendo quadro pedaços de dados (tamanho médio)
-   ReadChunkFromFile(file, chunkszMedium * 4);
-}
-
- 
-
-```
-
-_Aviso para os programadores mais calejados, eu omiti propositalmente os parênteses obrigatórios para qualquer define que tenha cálculos matemáticos, para ilustrar que muitas vezes o que vemos **antes** não é o que aparece **depois.**_
+Em aspectos gerais, Aronofsky é o tipo de diretor confortável em falar sobre o processo de produção, detalhes do roteiro e até mesmo sobre as opiniões acerca dos seus filmes. Ele não abraça qualquer ideia a respeito deles, mas respeitosamente ouve e conclui suas ideias. O tempo voou na coletiva graças a ótimas perguntas e respostas que, assim como seus filmes, fazem a gente refletir sobre o que estamos fazendo com nossa vida aqui na Terra.
 

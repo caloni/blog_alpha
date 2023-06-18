@@ -1,29 +1,33 @@
 ---
 
-Depois da analogia entre depuração e CSI, nada como fazer o mesmo com o seriado estilo House.
+Depois de muitos fins-de-semana divididos em horas picadinhas de programação de lazer, está disponível em vosso saite a primeira versão para usuários do conversor do dicionário Houaiss para o aplicativo Babylon.
 
-Quais as semelhanças com a profissão de programador-depurador?
+Foi uma longa jornada, sim, mas espero que valha a pena para quem esperou. Também espero poder receber inúmeras respostas com dúvidas, sugestões e até mesmo mais problemas que vierem a acontecer.
 
-Em primeiro lugar, a busca por pistas. Se algo está errado com o programa, vivemos criando teorias mirabolantes a respeito do porquê tal função estar retornando zero. No entanto, como não temos tanta capacidade adivinhatória assim, geralmente nossos palpites estão errados, e o fundo do poço irá nos mostrar uma outra função que nem estava ainda na história.
+Segue um pequeno roteiro do funcionamento do programa, que é bem simples, aliás. Para que tudo dê certo, no entanto, é necessário que o computador onde será feita a conversão possua os três programas abaixo instalados e funcionamento corretamente:
 
-Mas existem alguns pontos-comuns de conhecimento que sempre desenvolvemos no decorrer da carreira:
+  * Dicionário Houaiss. Testado na versão 2, deve ser instalado com opção de cópia dos arquivos no disco rígido.
+  * Babylon. Testado nas versões 6 e 7. Pode ser registrado ou não.
+  * Babylon Builder. O construtor dos dicionários Babylon. Apesar de ser possível construir dicionários personalizados para o Babylon, é necessário que se use esse aplicativo conversor. O HouaissParaBabylon o usa, e por isso precisa que ele esteja instalado corretamente.
 
-  * Se a última instrução do código é zero (ou algo próximo disso), provavelmente a pilha foi corrompida por alguém que tentou zerar uma variável, e junto dela o ponto de retorno de alguma função chamadora.
+Tudo isso verificado, basta então clicar no botão de Iniciar Conversão, sentar e esperar. A primeira fase envolve três passos:
 
-  * Se um programa trava em um determinado momento, voltando após um período previsível de tempo (30 segundos), automaticamente sabemos que existe algum evento/mutex usado de forma errada que, dadas as circunstâncias, apresentou uma espera longa demais.
+  * Desencriptação do dicionário original. Isso é feito baseando-se em nossa análise de engenharia reversa.
+  * Montagem do projeto de dicionário Babylon. Para isso existe um processo de interpretação do formato Houaiss, agora desencriptado, e sucessivas traduções para um projeto que o Babylon Builder irá entender.
+  * Construção do dicionário Babylon. Essa parte é feita pelo Babylon Builder. Por ser o maior dicionário de português da atualidade, esse processo pode demorar bastante, e com certeza irá se tornar o maior dicionário já instalado na sua lista de dicionários do Babylon.
 
-  * Se uma versão nova capota em um procedimento em que a versão antiga nunca capotou, podemos divagar rapidamente quais as características da nova versão que fizeram com que isso acontecesse, ainda sem olhar para o código.
+Na segunda fase, após toda essa movimentação de HD, existe apenas uma coisa a fazer: instalar o dicionário no Babylon.
 
-Dessa forma é possível criar teorias a partir da análise mental do que o programa normal deveria estar fazendo, mas não está. É esse tipo de análise que é feita no seriado.
+Quem faz isso é o próprio Babylon, se devidamente instalado. Se tudo deu certo, o HouaissParaBabylon sai de fininho e deixa o usuário com o progresso da instalação do dicionário Houaiss-Babylon.
 
-Porém, o lado bom: podemos testar todas nossas hipóteses. Na vida real! Se, por enquanto, matar pacientes para depois ressuscitá-los é coisa de ficção, matar sistemas e reiniciá-los não é. E, dependendo do problema, podemos sempre replicá-lo em "outro paciente".
+Se não for encontrado o dicionário Houaiss devidamente instalado no disco rígido, será exibida uma mensagem de erro pedindo que a instalação seja feita dessa maneira. Se, contudo, não for possível localizar a instalação do dicionário, será pedido ao usuário que diga onde ela se encontra, ou aponte para a pasta "Houaiss" em seu CD de instalação, uma dica suficiente para que a operação seja bem-sucedida.
 
-Talvez isso faça a profissão tão realizadora e viciante: para resolver um problema, geralmente temos todas as cartas na mão, e se não temos, fazemos ter. Afinal de contas, somos nós que iremos ressuscitar o sistema perdido.
+Outros erros comuns, como o Babylon Builder não instalado, serão obviamente avisados ao usuário. Erros mais raros terão um tratamento mais genérico. No entanto, nem por isso ele está livre de solução. Ao sair de uma conversão mal-sucedida, o usuário tem a opção de exportar o log de operações que foram realizadas durante a malfadada operação. Dessa forma, ele próprio conseguirá diagnosticar o problema ou, em casos mais sérios, me enviar o resultado de suas tentativas.
+
+E é isso. Para uma versão inicial, talvez esteja razoável. Quem confirmará serão os ansiosos usuário que, espero sinceramente, consigam seus objetivos há tempos aguardados.
 
 ---
-categories:
-- writting
-date: '2022-05-18T21:40:06-03:00'
-tags:
-- series
-title: House M.D.
+categories: []
+date: '2010-01-25'
+tags: null
+title: House

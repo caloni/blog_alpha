@@ -1,19 +1,17 @@
 ---
-categories:
-- writting
-date: '2012-06-04'
-link: https://www.imdb.com/title/tt0089114
-tags:
-- movies
-title: Viagem ao Mundo dos Sonhos
+categories: []
+date: '2014-07-30'
+tags: null
+title: Vestindo a Camisa da Minha Empresa
 ---
 
-Da safra dos anos 80 onde havia aos montes aventuras de garotos vivendo em cidades como em ET e [Os Goonies] e que vivem uma aventura, Viagem ao Mundo dos Sonhos mistura com sucesso conceitos geralmente distintos: sonhos e tecnologia. A história se inicia quando Ben (Ethan Hawke), um garoto comum que começa a ter estranhos sonhos de uma viagem em torno de figuras geométricas que se assemelham a circuitos de computador. Tendo como amigo Wolfgang (River Phoenix), um cientista-mirim que usa o computador do pai, ambos começam a desenvolver uma teoria que os sonhos recorrentes de Ben podem ser um tipo de comunicação de vida inteligente. O terceiro elemento do grupo, Steve (Bobby Fite), ajuda Ben durante uma briga de escola e acaba por se juntar aos dois por não ter muita harmonia para ficar em casa com seu pai, vítima da conhecida crise que acometeu o país na época.
+Pois é, o tempo passou, e desde 2011 eu passei mais de três anos nessa minha nova empreitada no Mercado Financeiro. Bom, tudo que é bom acaba, para começar algo melhor ainda. No caso da minha experiência com a EzMarket (hoje UOL/Diveo Broker) foi algo quase que surreal trabalhar em um ambiente tão formidável com pessoas mais formidáveis ainda, tanto pessoalmente quanto tecnicamente. Aprendi muito sobre análise de risco e um tanto sobre conexões e protocolos de rede, e mais ainda sobre serialização e desempenho. Tive momentos prazerosos em reuniões de definição de arquitetura, (poucas) madrugadas de debugging e testes no cliente, (muitas) idas ao café da esquina para um ótimo papo e vários outros momentos que não me lembro agora, mas que não me arrependarei jamais, e sempre sentirei saudades.
 
-Uma estrutura ágil disfarça a aparente desconexão com a realidade quando o computador de Wolffang descobre que ele consegue criar uma esfera perfeita de energia em qualquer ponto tridimensional que quiser e movê-la a velocidades absurdas. Como em um filme que brinca com sonhos e tecnologia tudo parece possível. Consequência, não questionamos muito o que acontece na tela, mas escolhemos vivenciar o mesmo que os garotos estão vivenciando, e experimentando a mesma sensação de estar descobrindo um mundo novo.
+E já que é pra começar algo melhor ainda, me sinto feliz em anunciar minha parceria societária com o meu amigo de longa data Rodrigo Strauss, primeiro blogueiro escovador de bits do país (antes disso nós escovávamos bits em uma empresa de segurança da informação) e co-fundador da comunidade C/C++ Brasil. O Strauss passou também um bom tempo no Mercado Financeiro, trabalhando dentro da BM&F Bovespa fazendo o ajuste fino de servidores transacionando centenas de milhares de zillhões de negócios diários e gerenciando uma equipe. Seus projetos pessoais sempre o levaram a questionar qual a maneira mais rápida, simples e eficiente de realizar tarefas repetitivas, de preferência prontas para alta escalabilidade, o que o fez dedicar uns bons anos a resolver essas questões a fundar enfim a Intelitrader, uma empresa focada em soluções para o Mercado Financeiro e que possui a grande vantagem de ser pequena. Sim, ser pequena pode ser uma vantagem, principalmente para o cliente, que possui um atendimento mais que personalizado com nenhuma burocracia.
 
-Nesse clima de tudo é possível nasce uma bela metáfora sobre a infância, os humanos e nossa existência. Estamos no meio de uma crise econômica, o que explica de certa forma a figura recorrente do pai desempregado e a narrativa fantasiosa. Os efeitos engasgam nas limitações da época, mas assim como [Tron], a crença pesa mais, ainda que tenha que abrir ressalvas e compreender o momento.
+E essa busca pela otimização de soluções me fez repensar o que eu estava fazendo com minha própria vida, pulando de emprego em emprego, de escritório em escritório, cada um com sua cultura organizacional disassociada muitas vezes dos objetivos reais de uma vida de desenvolvedor. Para mim, um desenvolvedor é alguém que desenvolve soluções. Por outro lado, um empreendedor ou empresário é alguém que vende essas soluções. Unir ambas as coisas nesse mundo onde um software complexo e complicado tende a morrer e um software simples e rápido de implantar é a chance de sucesso começou a fazer todo sentido. Lógico que esse tipo de conclusão só se tem passando alguns meses ociosos fazendo código just for fun e retomando sua fila de coisas a assistir até começar a fazer guerrinha imaginária de bolinhas de papel, mas eventualmente todos pensam que há coisas melhores para fazer na vida do que trabalhar para alguém.
 
-[Os Goonies]: {{< relref "os-goonies" >}}
-[Tron]: {{< relref "tron" >}}
+Por isso que, mais do que a parceria com o Strauss, a Intelimarket agora faz parte do grupo BitForge, fundada pelo igualmente conhecido Gianni (se você frequenta o grupo de discussão do Grupo C/C++ com certeza conhece o Gianni), especializado em soluções de IPTV, mas que conhece absurdos de várias outras coisas, especialmente do mundo Linux.
+
+Enfim, um pequeno if (ou dois) para o código, mas um grande deploy de soluções inovadoras na área de tecnologia da informação. Para essa nova e empolgante empreitada, eu visto, com certeza, a camisa da minha empresa.
 

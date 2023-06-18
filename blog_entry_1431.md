@@ -1,22 +1,16 @@
 ---
 categories:
 - writting
-date: '2016-03-07'
-link: https://www.imdb.com/title/tt0272338
+date: '2020-04-12'
+link: https://www.imdb.com/title/tt0409379
 tags:
 - movies
-title: Embriagado de Amor
+title: Em Segredo
 ---
 
-Paul Thomas Anderson é um diretor peculiar, tanto quanto Sidney Lumet. Ambos fizeram trabalhos com temas variados, mas se entregaram a cada projeto como se cada um deles fosse sua obra-prima. Nenhum dos dois pode ser "acusado" de fazer Cinema autoral (aquele que pelo filme você já sabe quem é o diretor).
+Bósnia pós-guerra. Uma mãe solteira e sua filha pré adolescente ligeiramente problemática. Uma mescla entre a realidade e o romance centenário de Émile Zola. Turno duplo, esta mulher de meia-idade busca apenas conseguir dinheiro para que sua filha possa viajar em uma excursão da escola. A felicidade desta mãe é apenas a de sua filha. Seu marido morreu na guerra, é conhecido como mártir em uma sociedade ainda em reconstrução. Uma sociedade quebrada, fragmentada, com cicatrizes aparentemente irrecuperáveis.
 
-Porém, PTA -- esse é o diminutivo do nome do diretor para os íntimos -- tem, sim, sua marca registrada: a expressividade áudio-visual extrapolada. Quando falamos de Magnólia ou Boogie Nights se torna dispensável apontar onde há o exagero narrativo. No entanto, mesmo filmes mais "sóbrios", como Sangue Negro ou O Mestre, possuem, aqui e ali, aquela nota em sustenido e que destoa de todo o resto. destoa no bom sentido. Acho que uma palavra melhor seria "arrisca". PTA não tem medo de arriscar. E é essa característica isolada que, aplicada a diretores talentosos como Anderson, a que mais gera conteúdo novo e provocante na sétima arte.
+Parece uma história clichê de países do Leste Europeu, mas a atuação das duas compensa e muito. A direção de Charlie Stratton escolhe momentos diferentes em cena que nos dão uma visão mais íntima do que se passa na mente dessa mulher comum e trabalhadora que quer apenas a felicidade da filha. Ela está apenas construindo o futuro dela, da geração que vem, enquanto tenta se reconciliar com seu passado. A ponte entre as gerações é quando ambas cantam, na última cena. Perceba essa transição e perceberá o filme inteiro.
 
-Com Embriagados de Amor, uma comédia romântica com Adam Sandler, não poderia ser diferente. E só de ouvir as palavras "comédia romântica" e "Adam Sandler" juntas provavelmente o espectador mais atento já deve imaginar do que se trata, baseado nas dezenas de filmes do gênero que Sandler produz com seus amigos todos os anos. No entanto, peço sempre para as pessoas prestarem atenção ao diretor que comanda a obra. Nos enlatados de Sandler, quase sempre o diretor também é um amigo do ator e cujos projetos nunca saíram da mesmice.
-
-Mas essa é uma obra atípica. PTA está no comando, e é por isso que nos primeiros minutos vemos o personagem de Sandler de terno azul, sozinho em um galpão, para logo em seguida testemunhar um carro capotando e um pequeno órgão sendo despejado na rua. É por isso também que a trilha sonora e os aspectos de cena do filme mudam ao gosto da imaginação do protagonista. Esse é um filme que experimenta com o novo, sem dúvida, e muitas vezes talvez sem motivo.
-
-Mas quem se importa se é justificável ou não? Estamos na mente de Adam Sandler como um introvertido meio esquizofrênico que frequentemente tem acessos de raiva causados principalmente pela sua onerosa convivência com as sete irmãs. Mentiroso compulsivo -- já sabemos que é para escapar de situações que se sente desconfortável -- Sandler não demonstra competência nenhuma em atuar, mas por outro lado se mostra uma escolha certeira para o personagem: abobalhado, tropeçando e demonstrando uma limitação em coordenar mais de uma ação ao mesmo tempo.
-
-Outras pessoas tropeçam em Embriagado de Amor, e é isso que está em jogo nesse filme. Há uma realidade alternativa aí esperando para ser desvendada. As cores primárias pintam cada cena, mas é o que está em contra-luz, escuro, que realmente importa. Até assistir esse filme, eu acharia particularmente difícil ver um ator como Sandler protagonizar uma cena de amor realmente emocionante. Agora, depois de ver o labirinto visual que PTA cria para ele quando ele precisa desesperadamente voltar para o apartamento de sua garota, podemos dizer que nunca é tarde para se encontrar o diretor certo.
+Como filme não é empolgante; como drama, hipnotiza. Nós simplesmente não conseguimos tirar os olhos dessa história que soa tão natural que é a própria naturalidade dessas duas que cativa nossa atenção. Em uma sociedade traumatizada e tornada pobre pelas mazelas da guerra, nós queremos um lugar ao sol para todas as pessoas que vemos no filme que batalham por um dia melhor. E para esquecer. E para relembrar.
 

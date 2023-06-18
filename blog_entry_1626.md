@@ -1,98 +1,115 @@
 ---
-categories: []
-date: '2017-03-23'
+categories:
+- coding
+date: 2017-07-27 09:39:22-03:00
 tags: null
-title: Forma simples de baixar atualizações remotamente de um cliente para um servidor
+title: Forma Mais Simples de Depurar Processos Antes do Logon
 ---
 
-A forma mais simples e independente de código para efetuar essa tarefa para Windows é no servidor subir um file server em qualquer porta disponível, e a forma de file server mais simples que existe é o embutido em qualquer instalação Python:
+No [post anterior sobre debug] eu havia me focado mais na depuração de processos remotos no Visual Studio 2003 de maneira convencional. Aqui eu vou abordar o assunto de uma maneira menos convencional: usando o Visual Studio 2017 mais novo e depurando uma DLL (C++) que é carregada por um serviço antes do logon no Windows 7.
+
+Em primeiro lugar, como vimos anteriormente, a ponta server do depurador é um programa que você executa com alguns parâmetros e ele fica escutando em uma porta. Simples assim. Para que isso funcione antes do logon é necessário instalar esse programa como um serviço. Tanto no caso de depuradores mais antigos (msvCmon) quando nos mais novos (msvSmon) há sempre um executável com alguns parâmetros passados via linha de comando.
+
+O depurador do Visual Studio mais novo fica em sua pasta de instalação Program Files, etc, Microsoft Visual Studio, 2017, Enterprise, Common7, IDE, Remote Debugger ou derivados. Dentro dessa pasta há subpastas para cada arquitetura, x64 ou x86. É essa pasta que deve ser copiada para a máquina que será depurada. Se você estiver depurando um processo 32 bits, use o x86; do contrário, vá de x64.
+
+No caso do msvsmon, se executado com /? (padrão entre programas Windows) ele abre um pequeno help com a ajuda necessária para executar os parâmetros corretos:
+
+{{< image src="CZIHbHZ.png" caption="" >}}
+
+No caso o comando maroto é o seguinte:
 
 ```
-python -m SimpleHTTPServer
+msvsmon.exe /timeout 999999 /anyuser /silent /noauth
 ```
 
-Para que não seja necessário instalar o Python no servidor é possível transformar essa chamada em um executável e suas dependências standalone:
+E para transformar em um serviço podemos usar o [NSSM](https://nssm.cc/), já visto em outros artigos.
 
 ```
-import SimpleHTTPServer
-import SocketServer
-
-PORT = 8000
-
-Handler = SimpleHTTPServer.SimpleHTTPRequestHandler
-
-httpd = SocketServer.TCPServer(("", PORT), Handler)
-
-print "serving at port", PORT
-httpd.serve_forever()
+nssm.exe install Msvsmon msvsmon.exe /timeout 999999 /anyuser /silent /noauth
 ```
 
-Esse script pode ser compilado pela ferramenta py2exe, instalável pelo próprio Python. É necessário criar um arquivo setup.py na mesma pasta do script e através desse script gerar uma pasta dist com o script "compilado" e pronto para ser executado.
+Isso cria um serviço de start automático que irá iniciar o debugger na ponta server quietinho, sem janelas, só escutando e esperando o Visual Studio atachar.
+
+## Nosso serviço e DLL
+
+Para este exemplo vamos usar um programa console que será convertido, assim como o msvsmon, em serviço, e uma DLL que ele carrega, chamando dois métodos; um de start, outro de stop. Nosso objetivo aqui é começar a depurar a DLL logo em seu início, na chamada do start.
 
 ```
-from distutils.core import setup
-import py2exe
+#include <iostream>
+#include <windows.h>
 
-setup(console=['fileserver.py'])
+int main()
+{
+    if( HMODULE dll = LoadLibraryA("DLL") )
+    {
+        void (*start)(), (*stop)();
+        *((FARPROC*)&start) = GetProcAddress(dll, "DLL_Start");
+        *((FARPROC*)&stop) = GetProcAddress(dll, "DLL_Stop");
+        if( start )
+            start();
+        std::cout << "Type <enter> to exit\n";
+        std::cin.get();
+        if( stop )
+            stop();
+        FreeLibrary(dll);
+    }
+    else std::cout << "DLL not found\n";
+}
 ```
 
-Pelo prompt de comando executar o seguinte comando que irá gerar a pasta dist:
+As funções de start e stop não fazem nada, apenas imprimem um passou-por-aqui:
 
 ```
-python setup.py py2exe
+#include "DLL.h"
+#include <iostream>
+
+void DLL_Start()
+{
+    std::cout << "DLL started\n";
+}
+
+void DLL_Stop()
+{
+    std::cout << "DLL stopped\n";
+}
 ```
 
-Uma vez gerada a pasta, renomear para fileserver e copiar no servidor em qualquer lugar (ex: pasta-raiz). Executar de qualquer pasta que se deseja tornar acessível via browser ou qualquer cliente http:
+Depois de copiar Service.exe e DLL.dll para a máquina-alvo (e não se esquecer de instalar as [dependências](https://www.google.com.br/search?q=visual+c%2B%2B+redistributable+2017&oq=visual+c%2B%2B+redistributable)) instalar da mesma forma com que foi instalado o msvsmon:
 
 ```
-cd c:\tools
-c:\fileserver\fileserver.exe
+nssm.exe install Service service.exe
 ```
 
-Para testar basta acessar o endereço via browser:
+{{< image src="lgPCGyW.png" caption="" >}}
 
-{{< image src="hSnmzqv.png" caption="" >}}
-
-### Lado cliente
-
-Do lado cliente há ferramentas GNU como curl e wget para conseguir baixar rapidamente qualquer arquivo via HTTP. Para máquinas com Power Shell disponível há um comando que pode ser usado:
+Agora ache o IP da máquina-alvo e vá em Debug, Attach to Process (Ctrl+Alt+P) no Visual Studio, modo remoto e digite o IP.
 
 ```
-powershell wget http://127.0.0.1:8000/Procmon.exe -OutFile Procmon.exe
+cmd /k ipconfig | find "192"
 ```
 
-Porém, caso não seja possível usar o Power Shell o [pacote básico do wget do GnuWin32](http://gnuwin32.sourceforge.net/packages/wget.htm), de 2MB, já consegue realizar o download.
+{{< image src="GpNPhiC.png" caption="" >}}
+
+Lembre-se de iniciar o serviço.
+
+Após esse teste podemos modificar a DLL para aguardar por um depurador:
 
 ```
-c:\Temp\bitforge\wget>dir
- Volume in drive C is SYSTEM
- Volume Serial Number is 5C08-36EE
+#include <windows.h>
 
- Directory of c:\Temp\bitforge\wget
-
-23/03/2017  13:25    <DIR>          .
-23/03/2017  13:25    <DIR>          ..
-03/09/2008  17:49         1.177.600 libeay32.dll
-14/03/2008  19:21         1.008.128 libiconv2.dll
-06/05/2005  16:52           103.424 libintl3.dll
-03/09/2008  17:49           232.960 libssl32.dll
-31/12/2008  11:03           449.024 wget.exe
-
-c:\Temp\bitforge\wget>wget http://127.0.0.1:8000/Procmon.exe
-SYSTEM_WGETRC = c:/progra~1/wget/etc/wgetrc
-syswgetrc = c:/progra~1/wget/etc/wgetrc
---2017-03-23 13:44:13--  http://127.0.0.1:8000/Procmon.exe
-Connecting to 127.0.0.1:8000... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 2046608 (2,0M) [application/x-msdownload]
-Saving to: `Procmon.exe'
-
-100%[===================================================================================================================================>] 2.046.608   --.-K/s   in 0,006s
-
-2017-03-23 13:44:13 (348 MB/s) - `Procmon.exe' saved [2046608/2046608]
-
-c:\Temp\bitforge\wget>
+void DLL_Start()
+{
+    while( ! IsDebuggerPresent() )
+        Sleep(1000);
+    std::cout << "DLL started\n";
+}
 ```
 
-E assim com poucas linhas de código já é possível iniciar um client/servidor via http que fornece arquivos de atualização. A própria versão do pacote e detalhes podem estar disponíveis na mesma pasta.
+Depois que houver o attach você irá continuar a execução. Portanto, coloque um breakpoint logo depois.
+
+{{< image src="hja6Y2Y.png" caption="" >}}
+
+Depois que isso funcionar já é possível iniciar sua depuração antes da tela de login. Os serviços executarão, e sua DLL estará aguardando um debugger ser atachado. Se houver necessidade é possível deixar esse modo de espera configurável, por timeout, etc.
+
+[post anterior sobre debug]: {{< relref "debugger-remoto-do-visual-studio" >}}
 

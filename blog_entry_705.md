@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2020-11-14'
-link: https://www.imdb.com/title/tt4823776
+date: '2012-08-01'
+link: https://www.imdb.com/title/tt0345950
 tags:
 - movies
-title: 'Bob Esponja: o Incrível Resgate'
+title: 'Bob Esponja: O Filme'
 ---
 
-Certamente esta é a obra mais ofensiva ao legado de Bob Esponja. Não-canônica (explica as origens das amizades tudo errado) e apelando para sentimentos baratos com uma trama descaradamente copiada do [filme original], "O Incrível Resgate" mantém alguns bons momentos do personagem aloprado e seus amigos, mas trai nossas expectativas em sequências inteiras no melhor dos casos desnecessárias e no pior contra a atmosfera da série animada original.
+Bobinho, mas divertido. Possui lição de moral e elementos já manjados da própria série. Hoje assistindo pela quarta (quinta?) vez vejo que no fundo é um episódio expandido, e não possui pretensões muito... cinematográficas. Mas, dizer o quê de uma esponja quadrada que fala e seu amigo estrela-do-mar de bermuda? Ainda acho mais divertido que os Rugrats.
 
-Por outro lado, a animação é admirável. Se trata de uma produção de alto custo, e os artistas digitais capricham muito nos detalhes, inserindo aqui e ali referências divertidas, mas mais do que isso recriando a Fenda do Biquini no formato 3D digital. E em certo momento somos levados para o deserto e uma cidadezinha deserta onde o bar está infestado de zumbis piratas, que é quando percebemos a falha: qualidade, mas não organicidade.
+Bob Esponja é um fenômeno temporário que possui elementos mistos que acabam agradando tanto crianças quando adultos. Para as crianças, uma dublagem divertida e uma comédia física que deixa seus personagens serem alterados quase como massinhas de modelar. Para os adultos, a subversão do gênero com a inserção de elementos estranhos à construção da cena em desenhos. Em determinado momento do filme, por exemplo, quando Bob Esponja realiza uma performance admirável de cantor de rock com efeitos especiais, como ser erguido até o teto e se vestir como um mago, após o final do show o vemos pendurado por cordas e sem as luzes que antes o iluminavam. E isso é engraçado por infringir a própria natureza da confecção das animações.
 
-O uso de cores é absolutamente fenomenal. Você quer mastigar cada pedaço de cenário. Ou os próprios personagens. Bob Esponja e seus principais amigos estão bem caracterizados em 3D, com exceção da esquilinha Sandy, que com seu pelo arrepiado por dentro de um capacete está mais para um experimento falho de fantoche.
+No entanto, é preciso dizer, alguns truques do longa metragem já estão passados, e são colocados simplesmente por preguiça de criar gags criativas. Exemplos são a batidíssima cena do elevador e sua música relaxante no meio de uma cena de ação, ou o eco de uma ravina que se revela o próprio Patrick Estrela repetindo a mesma palavra várias vezes.
 
-Mas este nunca vira um filme de fato. É um ou vários episódios da série juntos em uma aventura nada inspirada. Há longas sequências que não alteram em nada para a trama principal. Eles utilizam Keanu Reeves porque está na moda, e alguns fãs talvez até gostem dessa participação especial e magnética, mas não deixa de ser um artifício para arrecadar público de um projeto problemático. A mesma coisa para outras participações, como Danny Trejo e Snoopy Dogg. Este último foi criada uma sequência musical sem qualquer motivo.
+Da mesma forma, o núcleo da história, o plano de Plâncton para obter a receita secreta do Hambúrguer de Siri e conquistar a Fenda do Biquíni é um recurso extremamente batido da série e que rende menos situações engraçadas e originais do que as ideias mais criativas envolvendo a amizade entre Bob Esponja e Patrick ou a inimizade com Lula Molusco.
 
-No entanto, as músicas são muito boas, embora não se encaixem no que vemos na tela. O remix dos créditos finais do tema principal da série é um brinde a mais, por termos assistido a este assassinato do original. E ainda dedicam o filme ao criador da série, Stephen Hillenburg. É um clichê dizer isso, mas ele deve estar se revirando do túmulo.
+Mesmo assim, a "curva dramática" de Calça Quadrada, impedido de ser o gerente da filial do Siri Cascudo por ser um mero garoto, é uma surpresa agradável na aventura dos dois amigos, pois enfoca ao mesmo tempo uma aventura adolescente e a incongruência que isso gera ao percebermos que, no fundo, os dois não passam de crianças se divertindo com as situações.
 
-[filme original]: {{< relref "bob-esponja-o-filme" >}}
+Com uma conclusão que diverte pelo inusitado, voltando a fazer humor da forma que Bob Esponja faz melhor, O Filme ganha pontos por colocar uma corja de piratas indo ao cinema assistir-lo e por mesclar assim o mundo real e o desenho.
 

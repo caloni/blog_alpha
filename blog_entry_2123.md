@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2022-04-05T21:07:32-03:00'
+date: '2017-03-21'
 tags:
-- series
-title: 'LOL: Austrália'
+- beer
+title: Lohns Bier IPA
 ---
 
-Um experimento quase científico: colocar os maiores comediantes do país em uma sala e ver quem ri por último. A loucura começa quando eles percebem que com os colegas de profissão é preciso apelar. E muito. Há nudez e coisas tiradas da bunda.
+Bem amargo, quase demais.
 

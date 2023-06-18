@@ -1,23 +1,18 @@
 ---
 categories:
 - writting
-date: '2018-10-11'
-link: https://www.imdb.com/title/tt5774796
+date: '2012-01-04'
+link: https://www.imdb.com/title/tt1565958
 tags:
-- cinemaqui
 - movies
-title: Rosas Selvagens
+title: Românticos Anônimos
 ---
 
-Wild Roses é uma combinação perigosa e sutil entre a defesa da liberdade da mulher e as regras rígidas e sem sentido da religião católica. Quer dizer, algo mais ou menos nessa linha, porque a sutileza do roteiro e atuações nos mantém sempre pouco atentos para o que o filme realmente quer dizer. Trocando em miúdos: é um filme que desperta o desinteresse pela sua heroína.
+Como bom tímido que fui (sou?) posso com autoridade dizer que Românticos Anônimos ao mesmo tempo que permite nos identificarmos com o casal protagonizado por dois tímidos irremediáveis também nos permite identificar as diferenças peculiares de cada um, evitando assim estereotipar o termo e manter-se engraçado.
 
-Iniciando com um mistério em torno de sua visita ao hospital, onde não sabemos se ela possui uma doença grave ou grávida (e se for a segunda opção, se fez um aborto ou entregou o bebê), essa mãe de duas crianças é hostilizada pela mais velha, que possui problemas de temperamento e claramente nunca aprendeu limites com sua mãe, além de soltar as observações mais perspicazes do filme inteiro. Isso vindo de uma menina de uns 10 anos de idade é algo a se considerar.
+O problema mesmo é a falta de ambição em contar a história de Angélique Delange (Isabelle Carré, bela) e Jean-René Van Den Hudge (Benoît Poevoorde, angustiante em alguns momentos). Assim, não conhecemos muito o que levou ambos a se tornarem daquele jeito, tendo que contentar-nos com vagas lembranças do pai de Jean-René e uma cena pseudo-reveladora totalmente descartável entre Angélique e sua mãe. Mesmo assim, a dedicação dos atores e a beleza da direção de arte/fotografia, que aproveitam a falta de luz para representar nos cenários esse tom acanhado, mas que ao mesmo tempo tem um tom poético (ou romântico), faz com que a experiência de acompanhar a vida de ambos seja não necessariamente fascinante, mas cativante pelas situações que ambos têm que enfrentar.
 
-As atuações de Rosas Selvagens não ajudam nem um pouco. A diretora polonesa Anna Jadowska não consegue se desvencilhar dos olhares de perfil e de baixo de seus atores e com isso nós, espectadores, pouco conseguimos extrair dos personagens do filme. Depois de quase uma hora inteira construindo a tensão o evento climático ocorre, o único no filme, e que termina com um anti-clímax. E ainda por cima o final é tão conformista que gera verdadeira repulsa.
+Porém, e mais uma vez voltando ao roteiro, as cartas são jogadas de maneira quase gratuita, sendo que nos primeiros 15 minutos de filme já é possível traçar quase todo o trajeto que ambos irão seguir durante o resto da história, faltando apenas acompanhá-los. Embora ambos tenham visíveis problemas de relacionamento, mesmo assim a sensação geral é que tudo acaba se acertando e que não existe um mínimo conflito que nos dê a sensação de incerteza, como acontece todo o tempo, por exemplo, em [O Fabuloso Destino de Amélie Poulain].
 
-Mais empenhado em nos mostrar belíssimos enquadramentos da natureza polonesa em ação, com diferentes tons claros de vestidos longos sempre iluminados pela luz do sol, Rosas Selvagens, como o próprio nome já parece acusar, é uma telenovela sem paixão e sem diálogos; um verdadeiro quebra-cabeças de três ou quatro peças que é disposto sempre da forma errada para o espectador por todo o tempo da projeção.
-
-Porém, o exercício de tentar entender aquelas pessoas sem sequer entender quem são aqueles personagens poderia ser um estudo da sociedade polonesa, ainda entregue fortemente nas tradições católicas, incluindo a moral e os bons costumes. Mas nem isso é forte o suficiente, pois como já citei, uma criança que acaba de fazer a comunhão é a criatura mais mal-educada de um vilarejo que teria tudo para ficar escandalizado; mas nem isso temos para alimentar a tensão.
-
-Todos odeiam essa mulher cuja filha a repudia e o marido distante desconhece. Ela vive em uma verdadeira solitária cercada de pessoas estranhas, incluindo sua própria mãe. Se este é o grande problema do filme ele não entrega nada além do conformismo covarde e desnecessário.
+[O Fabuloso Destino de Amélie Poulain]: {{< relref "amelie-poulain" >}}
 

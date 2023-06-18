@@ -1,109 +1,33 @@
 ---
 categories:
-- coding
-date: '2009-06-18'
-tags: null
-title: Bugs Difíceis de Achar
+- writting
+date: '2017-02-14'
+link: https://www.imdb.com/title/tt5812510
+tags:
+- cinemaqui
+- movies
+title: BugiGangue no Espaço
 ---
 
-Saiu um artigo na Wired News sobre [os piores bugs da história](http://wired.com/news/technology/bugs/0,2924,69355,00.html?tw=wn_tophead_1). Entre eles estão a explosão de um oleoduto soviético em plena guerra-fria (como se não bastasse chernobyl), o primeiro worm da Internet (que se aproveita de um buffer overflow da função gets) e o famoso erro de divisão em ponto flutuante do Pentium; um erro de cálculo de cerca de 0,006% que causou um prejuízo de 457 milhões de dólares para a Intel.
+BugiGangue no Espaço é mais uma tentativa do cinema brasileiro -- e com dinheiro brasileiro -- nas animações e na tecnologia 3D. O resultado é mais um filme que mira na mediocridade para nunca sair dos trilhos. Sua falta de ousadia no roteiro só rivaliza com sua capacidade de referenciar obras muito mais ambiciosas como Star Wars, Star Trek, E.T.. Sua animação cartunesca não oferece quase nada que se destaque de qualquer vídeo do YouTube. E o seu humor pitoresco quase traz à tona o instinto nacional de ser o eterno cão vira-latas das super-produções.
 
-Mas o que achei mais legal, apesar de não estar na lista, estava relacionado com o [Mariner 1](http://en.wikipedia.org/wiki/Mariner_1), primeira espaçonave de um programa da NASA para pesquisar Marte, Vênus e Mercúrio em võos automatizados. Mariner 1 não chegou a sair de órbita, pois houve uma falha na antena de comunicação entre módulos e um bug no programa do computador de bordo.
+A história é um fiapo, o que pelo menos não dá espaço para (muitas) incongruências. Uma turma de crianças se envolve em uma confusão na escola e precisam passar o fim de semana juntos preparando uma maquete do sistema solar, quando uma nave alienígena cai em seu quintal. Todos ajudam a consertar a nave em troca da tal maquete e de uma aventura espacial onde o destino do universo está nas mãos da raça mais subestimada de todas. Juntos eles precisam libertar a congregação do tirano que pretende instaurar uma ditadura intergaláctica nos mesmos moldes de Darth Vader.
 
-Falava-se que o bug havia sido gerado ao trocar uma vírgula por um ponto em um loop escrito em FORTRAN. Apesar de não ter sido esse o causador da falha do computador da nave do projeto Mariner, ele existiu de fato em outro projeto da NASA, o Mercury. A linha fatal no caso era essa:
+Ou quase, já que pelo jeito ele consegue seu feito no estilo golpe de estado: chegou lá e tomou. Aparentemente não há nenhum exército de nenhum outro povo, o que vai de encontro com as comemorações de 100 ciclos de paz entre os povos, onde é dito que as nações precisam cada vez menos de exércitos. Mas... nenhum?
 
-    DO 17 I = 1. 10
+Ale McHaddo é o diretor, roteirista e idealizador. Você talvez não o conheça, mas com certeza deve conhecer um CD-ROM de um jogo chamado Gustavinho em o Enigma da Esfinge, onde a atriz Marisa Orth fazia o papel da esfinge em um jogo de computador interativo. Se você não se lembra, deve ser jovem demais. De qualquer forma, McHaddo, ou Alexandre Machado, está no ramo há décadas, já tendo produzido e vendido inúmeros trabalhos feitos em computador, como "Osmar, a Primeira Fatia do Pão de Forma" e "A Lasanha Assassina". "Nilba e os Desastronautas" foi o primeiro desenho 100% nacional que passou na televisão norte-americana, e "BugiGangue" agora é mais uma de suas aventuras espaciais, dessa vez com o atrativo de ser em 3D.
 
-É óbvio que a intenção do programador foi fazer um loop até o label 17 dez vezes, pois a instrução para isso é:
+Um 3D que, convenhamos, está aí mais para chamar a atenção do que em função da história. Com exceção dos créditos iniciais, onde vemos o artifício sendo usado para navegarmos entre pontos brancos, supostamente estrelas, e letreiros computadorizados, o resto do filme o aplica de maneira rasa, quase não sendo possível notar o momento onde os óculos são necessários.
 
-    DO 17 I = 1, 10
+O mesmo pode-se dizer das referências feitas de uma miríade de personagens, espaciais ou não. Esses personagens ou obras aparecem mais para tentar erguer nossa atenção através de algo conhecido em vez de fazer parte da história. Dessa forma, quando vemos durante a perseguição inicial uma figura que lembra alguém como Seu Madruga do seriado Chaves indo tomar um banho de piscina, a cena vira uma mistura entre cartunesco, humor pastelão e vergonha alheia.
 
-Mas pela troca da vírgula pelo ponto, e como em FORTRAN os caracteres de espaço não são significativos, a linha com o bug não representa mais um loop, mas uma atribuição a uma variável chamada "DO17I":
+É comum trabalhos menores referenciarem os maiores, mas aqui há um exagero em tentar tornar a aventura espacial em uma espécie de Star Wars para kids. Não há explicação, por exemplo, de por que um determinado personagem acaba virando rei de um povo em um planeta longínguo -- nem o que eles estão fazendo nesse planeta -- nem porque a raça mais subestimada "do universo" pelo tirano é a primeira que lhe vem à memória quando ele descobre estar sendo atacado. Da mesma forma, enquanto há trabalhos que sabem usar o clichê como humor, como Uma Aventura Lego, em que a lenda do escolhido vira uma alusão ao próprio clichê ("ah, agora tem uma lenda"), aqui ela vira uma frase jogada ao acaso e apenas para tentar dramatizar uma situação ridícula.
 
-    DO17I = 1.10
+E mesmo que seja engraçado referenciar obras como Senhor dos Anéis e Star Wars, a trilha sonora usa isso como muleta a todo momento, fazendo questão de comentar cada movimento do filme com exageros. A música não consegue sequer evitar soltar o toque de O Poderoso Chefão quando um personagem diz que "irá fazer uma oferta que eles não poderão recusar", terminando por vez de atingir o fundo do poço das referências gratuitas.
 
-Esse detalhe esdrúxulo de uma das linguagens mais famosas da época nos leva a crer que antigamente os programadores deveriam estar muito mais atentos durante a digitação de código do que os programadores de hoje em dia, com seus ambientes com verificação sintática embutida. Existe inclusive um texto humorístico de longa data comparando programadores de verdade e programadores de linguagens estruturadas como PASCAL recém-saídos da faculdade, carinhosamente citados no texto como "Quiche Eaters" (comedores de pastelão).
+Já tecnicamente o trabalho possui o problema dos close-ups. O filme é incapaz de esboçar expressões nas caras de seus personagens, tendo que confiar em uma equipe mista de dublagem, com bons e maus momentos (Danilo Gentili, por exemplo, é um mau momento, mas que com o tempo acostuma-se). Isso se torna particularmente frágil no início da projeção, quando as crianças estão sendo apresentadas. Já durante as inúmeras cenas de batalhas e naves é um problema menor, ficando prejudicial apenas a falta de detalhes gráficos.
 
-O tipo de erro de falta de atenção do programa da NASA lembra uma das mais duras críticas às linguagem C e C++: é fácil escrever um código errado do ponto de vista lógico mas sintaticamente correto (compilável). Alguns exemplos famosos:
+Porém, aqui o diretor Ale McHaddo consegue desempenhar um papel satisfatório. Enquanto estamos vendo cenas de ação e planos mais gerais, seja por imitação de outras obras ou competência técnica, o filme consegue fluir e quase nos esquecemos de suas deficiências narrativas. No momento em que os personagens precisam falar algo importante ou contar mais uma piada ruim, o filme desaba um pouquinho mais.
 
-
-   // batata entre os iniciantes
-   if( isActived && isTimeToLaunch );
-      doTheStuff();
-
-
-   // dizem que até Brian Kernighan criticava
-   switch( value )
-   {
-      case 10: 
-         evaluateSentence();
-
-      case 11: 
-         elevenException();
-   }
-
-
-   // programado no notepad
-   value = 12;              /* agora somos obrigados a atualizar a variável rates
-   rates = value * 8;       /* nunca apague esta linha! */
-
-
-   // mais um "top beginner"
-   if( newValue = 20 )
-      doSpecificStuff();
-
-
-   // infelizmente isso é muito comum
-   int calcPayment()
-   {
-      if( testing == true ) return 1000;
-      else if( newValue > 500 ) return 1500;
-   }
-
-   // o perigo dos brackets opcionais
-   if( value == 12 )
-      //func();
-   doSpecificStuff();
-
-Dessa coleção de problemas, o compilador nos brinda com dois warnings:
-
-    warning C4390: ";": empty controlled statement found; is this the intent?
-    warning C4715: "calcPayment": not all control paths return a value
-
-Em nível 4 (o padrão de um projeto é 3) há um warning adicional:
-    
-    warning C4706: assignment within conditional expression
-
-Agora imagine o número de horas noturnas em frente ao micro que você não poderia ter economizado em sua vida se aumentasse o nível de warning e lêsse-os de vez em quando? =)
-
-## Mais um Bug
-
-Colaborando com a lista de bugs difíceis de achar do artigo ai vai código/piadinha:
-
-    /** 
-     * The Hitch Hiker"s Guide to the Galaxy 
-     * The Answer to Life, the Universe, and Everything
-     */
-    #include <iostream>
-    
-    #define SIX    1 + 5
-    #define NINE   8 + 1
-    
-    using namespace std;
-    
-    int main(void) {
-        cout << "The Answer to Life, "
-                "the Universe, "
-                "and Everything is " 
-             << SIX * NINE 
-             << endl;
-        return EXIT_SUCCESS;
-    }
-
-Esse não é pego pelos alertas dos compiladores (pelo menos não pelos que eu uso)... É um bom motivo para usar const no lugar de define em alguns casos, ou no mínimo cercar o define por parênteses "(" e ")"
-
-Outro bug muito comum entre iniciantes é o de templates aninhados, apesar de que compiladores mais novos lidam melhor com o bug e trazem mensagens de erro mais claras:
-
-    list<list<int>>  // inválido no caso, é assumido o operador de stream ">>"
-    list<list<int> > // válido
+Dessa forma, BugiGangue é um experimento interessante, mas nunca consegue se desvencilhar de suas limitações técnicas e artísticas. O uso do computador aqui mais que atrapalha que ajuda, já que ele é mais usado como um fim (produzir um filme) do que um meio (esboçar uma ideia). E, se olharmos mais de perto, é um filme que não se separa o suficiente de um medíocre jogo eletrônico.
 

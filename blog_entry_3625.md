@@ -1,31 +1,33 @@
 ---
 categories:
-- coding
-date: '2008-01-14'
-title: Temas no WinDbg
+- playing
+date: '2023-01-12T21:21:37-03:00'
+link: https://www.chess.com/game/daily/321199162
+tags:
+- chess
+title: Tem um lance brilhante aqui e não imagino por quê
 ---
 
-Desde a versão 6.4.7.2 que o WinDbg fornece uma subpasta chamada Themes, onde lá estão diversos workspaces configurados. Existe até um passo-a-passo de como organizar esses temas e escolher o seu favorito. Segue algumas dicas de como transformar corretamente sua área de trabalho para depuração (e mantê-la).
+Negras jogam.
 
-O WinDbg salva suas configurações no registro. Para apagar os valores previamente gravados, rode o seguinte comando:
+{{< image src="board.jpeg" >}}
 
-    reg delete HKCU\Software\Microsoft\WinDbg
+```
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2021.03.21"]
+[White "cavaloni"]
+[Black "fssantana"]
 
-Você pode gravar um tema, rodar o WinDbg (sem parâmetros), ver se gosta do que viu, e tentar novamente. Quando estiver satisfeito com a aparência, fique com ela e comece o próximo passo.
-
-Nas depurações do dia-a-dia algumas configurações devem estar sempre muito bem configuradas, para que torne seus momentos de desespero porque nada está funcionando mais agradáveis. Por isso, assim que escolher seu tema preferido trate de configurar os seguintes itens:
-
- - Diretórios de símbolos. Você pode começar com .symfix, que vai montar uma string padrão, e adicionar mais diretórios com .sympath+.
- - Diretórios de código-fonte. Coloque a raiz dos seus projetos principais. Com o tempo, se você mexe muito nos seus diretórios, é necessário fazer uma manutenção desse valor.
- - Diretórios de executáveis. Basicamente é o mesmo do diretório de símbolos.
-
-Depois de configurar tudo isso, ajuste as janelas na melhor maneira e proporção que achar mais agradável. Esse será o último passo, pois depois você irá fechar o WinDbg e salvar o workspace, que a partir daí será o padrão sempre que abrir o depurador.
-
-Para que os arquivos fonte caiam no lugar que você escolheu, durante a configuração, abra um código-fonte e coloque no lugar que gostaria de ver todos os fontes listados, junto com um placeholder (um arquivo C usado como localizador, existem 5 dentro da pasta themes). Após isso, feche o código-fonte, mas mantenha o placeholder. Depois é só fechar o WinDbg salvando as configurações. Tudo deve funcionar como previsto (ou você esqueceu alguma coisa).
-
-Como esses passos deram algum trabalho, trate de salvar as configurações, caso tenha que usá-las em outras máquinas ou restaurá-las caso algo de ruim aconteça com seu SO (como quando você depura seus drivers na mesma máquina em que desenvolve, por exemplo).
-
-    reg save HKCU\Software\Microsoft\WinDbg c:\Tools\DbgTools\Themes\MyTheme.reg
-
-Leia a documentação do WinDbg sobre temas (dentro de Themes, Themes.doc). Foi de lá que eu fiz a tradução e adaptação dos passos mais importantes. E esqueça do Visual Studio =)
+1. e4 c5 2. Nc3 d6 3. Bb5+ Nc6 4. d3 a6 5. Bxc6+ bxc6 6. Bg5 f6 7. Bh4 $6 e5 8.
+f4 Be7 $6 9. f5 Nh6 10. Qh5+ Nf7 11. Nf3 d5 12. O-O-O $6 d4 13. Ne2 $6 Qa5 14. a3 $6
+Qa4 $6 15. Nd2 Rb8 $6 16. Nc4 $1 a5 17. Be1 Ba6 18. b3 Qb5 19. a4 Qb7 20. Nxa5 Qb6
+21. Nc4 Qc7 22. h4 O-O 23. Bd2 Nd6 24. Nxd6 Bxd6 25. Qg4 c4 26. dxc4 Bxc4 27.
+Bc3 dxc3 28. Nxc3 Ba3+ 29. Kd2 Qa5 30. bxc4 Rbd8+ 31. Ke2 Qxc3 $1 32. Kf1 $2 Bc5 33.
+Qe2 Rxd1+ 34. Qxd1 Qxc4+ $4 35. Qd3 Qxa4 36. Ke2 Bb6 $6 37. Qb3+ $6 Qxb3 $1 38. cxb3
+Rd8 39. Rc1 c5 40. Rd1 Rd4 41. Rxd4 cxd4 42. h5 g6 43. h6 $6 gxf5 44. exf5 e4 45.
+b4 d3+ 46. Kd2 Bd4 47. b5 Kf7 48. Ke1 Ke7 {<br /><br />Game may have
+continued...} (48... Ke7 49. Kd2 Kd6 50. b6 Bxb6 51. Kc3 Ke5 52. Kb4 Ba5+ 53.
+Kxa5 {-13.3}) 0-1
+```
 

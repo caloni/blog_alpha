@@ -1,19 +1,29 @@
 ---
 categories:
-- reading
 - writting
-date: '2020-06-21'
-link: https://gist.githubusercontent.com/Caloni/7ba7f358b032ed9226855e37819d893a/raw/c3f066601fb2f3280f012ed24d974cf221183ee2/cinderela-versao-do-seculo-xxi.txt
+date: '2019-02-18'
+link: https://www.imdb.com/title/tt8716800
 tags:
-- books
-title: 'Cinderela: Versão do Século XXI'
+- cinemaqui
+- movies
+title: Cinderela Pop
 ---
 
-Este livro é um respiro de ar fresco em meio a uma sociedade que vem apodrecendo em ritmo crescente. Ele fala sobre valores e moral. Sobre a dureza das conquistas. Sobre valorizar os que vieram antes de nós. E em termos compaixão antes de pena.
+Engraçado a forma como o tempo passa no Brasil. De Cinderela Baiana, clássico da filmografia nacional, para Cinderela Pop. Muita coisa mudou durante esse tempo e entre essas duas versões brasileiras da história imortalizada pela Disney. Maisa, aquela menina irritante e esperta que interagia com o apresentador de TV Sílvio Santos nasceu, cresceu e se produziu, enquanto o próprio Sílvio sequer envelheceu. E não se houve falar de Carla Perez há um bom tempo.
 
-E ainda assim Cinderela do Século 21 é um livro infanto-juvenil. Não possui riqueza de detalhes nem reviravoltas estonteantes, já que se baseia em uma história que todos nós conhecemos e vimos muitas, muitas e muitas vezes. A diferença (nem tão diferente assim) é que ela está atualizada para os tempos atuais e se passa na cidade de São Paulo. Essa Cinderela é filha de pais que batalharam e que foram engolidos pela crescente onda de corrupção dos Tempos Modernos. Para se salvar da madastra trambiqueira e das meia-irmãs interesseiras ela terá que contar com a ajuda de uma fada-madrinha que chega de Uber.
+E agora a menina Maisa "virou" atriz e protagoniza um filme inspirado em um livro de Paula Pimenta. Você conhece essa escritora? As garotas pelo menos conhecem. Não sei se é seu nome real, mas é uma boa escolha para a capa de livros adolescentes. Aqueles coloridos com fontes fofas ao lado dos livros de Minecraft. Minhas sobrinhas gostam de ambos os estilos. Ou gostavam. Agora estão mais interessadas em conteúdo mais dark e menos feminino. O tempo passa tão rápido, as mudanças vêm e é ótimo que garotas hoje possam escolher gostar do que quiserem.
 
-Senti falta de explorar mais as diferenças entre os mundos da fantasia medieval de onde partiram essas histórias, mas mesmo superficial o livro de estreia de Bonnie e H. Rossi e Gianni Rossi (ambos são marido e mulher) é de leitura fluida e contém temas interessantes que merecem ser expandidos em continuações, remakes e adaptações. Você conseguirá ler no máximo em algumas noites de leitura e no final ficará com a sensação de que podia ir mais fundo naquele universo que tanto se aproxima com o nosso.
+Eu nunca entendi direito a história da moça que se descobre apaixonada por um príncipe desejado por todas por ser lindo (fora o bônus da fortuna de sua família). E isso na época em que os livros sobre a chamavam de Gata Borralheira. Havia maldade e pobreza na vida de Cinderela por conta de sua madastra e suas meia-irmãs, mas pelo menos havia algo de mágico na versão Disney: ratos que viram cocheiros de uma abóbora que vira uma carruagem. E tem o simbólico sapatinho de cristal, que também remete à magia. Porém, se olharmos mais de perto, ainda sobrou algo de cruel da história folclórica original documentada pelos Irmãos Grimm.
 
-Com a diferença de que no universo literário ainda há esperança.
+Já Cinderela Pop não sofre desse mal em conter algum tipo de sofrimento do mundo real. Ambientado em cenários que envolvem mansões e casas de show, a vida dessas pessoas está bem além da vidinha comum que a maioria de nós mortais costuma ter. A história trata de um drama juvenil que entretém como o episódio de uma novela, mas esta não é uma crítica, pois todos já sabem o final da história e sabiamente não cabe ao filme focar em reviravoltas que todos sabemos onde vai dar. Até porque o diretor Bruno Garotti e sua montadora Diana Vasconcellos já estão com vários problemas para tornar este filme assistível do começo ao fim sem nos fazer devanear, olhar para o lado e lembrar de passar no mercado na volta. Tudo bem, sou cara velho dando sua impressão aqui.
+
+Uma das soluções criativas que o filme utiliza é tornar o áudio da voz dos personagens estupidamente altos. E isso é amplificado pela voz aguda das atrizes infanto-juvenis ou da madastra interpretada por Fernanda Paes Leme de uma maneira nada original, mas divertida. Além disso há muita música alta com luzes piscando, o que definitivamente para um filme sem muita história é um bônus, e mesmo que você não seja uma pessoa de balada não tem como não curtir.
+
+Com poucos defeitos que se concentram no roteiro, onde de repente celular é proibido na escola e se esquecem de avisar a protagonista para só depois ela comentar que abriram uma exceção para ela, nada de fato me incomodou fortemente nesse filme, apesar dele ser esquecível. Ou talvez por causa disso. Não sou o público alvo, mas reconheço boas virtudes em suas ideias, por mais clichês que sejam. Ele faz um bom serviço com seu conteúdo, por apresentar diferentes dramas da mulher moderna (jovem ou adulta). Mas voltando para meu ponto de vista enviesado, acaba sendo interessante ficar pensando quais partes são engraçadas sem querer e quais são de propósito.
+
+Note, por exemplo, o mocinho, Fred Prince, interpretado por Filipe Bragança de uma maneira ambígua que eu prefiro não comentar muito, mas basicamente você não sabe se ele está sendo canastrão fazendo cara de modelo ou é autêntio, mesmo. Ele começa tocando violino de tênis em uma festa de bacana pra arrumar um dinheiro, cinco minutos se passam no filme e ele já é famoso e desejado por todas as meninas (menos a Maisa, claro) porque subiu pra internet clipes caseiros dele cantando e tocando violão, filmados por sua melhor amiga e vlogger. Nunca foi tão fácil para as pessoas de talento terem seu lugar ao sol. Nunca foi tão fácil ter um topete charmoso. Nunca foi tão fácil conseguir a luz perfeita para a filmadora do iPhone.
+
+Mas por falar em elenco, Maisa é ou já foi apresentadora, cantora, piadista e até atriz, de novela (Carrossel) e cinema (Tudo por um Pop Star). Apesar de não segurar a protagonice o filme dá seu jeito de torná-la a coadjuvante mais ativa das histórias paralelas. Logo depois do filme pude vê-la na coletiva de imprensa, e as expressões são as mesmas tanto no filme quanto na vida real. Porém, na vida real ela é mais simpática. Ela poderia interpretar Maisa no filme e ele se tornaria exatamente o que boa parte das pessoas que vão ao cinema querem ver.
+
+O livro Cinderela Pop é o primeiro de uma saga de sete livros de Paula Pimenta que modernizam os contos de fadas. A produtora desse primeiro filme pretende produzir todos os outros, um por ano; pelo menos esse é o plano. Mas esse filme me fez pensar em outra coisa: sobre a febre de upgrades de contos de fadas. Cinderela Baiana, Encantada... são trabalhos recorrentes, que gostam de reimaginar contos clássicos para os tempos atuais. Eu tenho até uma amiga, Bonnie Hutterer, que lançou um livro com o mesmo intuito e sobre o mesmo conto (versão do século XXI). O que está havendo no mundo? Uma escassez de ideias novas para contos de fadas? As fadas já não estão mortas? Isso são questões que podem ser respondidas analisando o que cada versão tem a oferecer. Cinderela Pop, por exemplo, tem música divertida e uma fotografia bonita. Que venham os próximos filmes celebrando histórias velhas. Carla Perez, onde está você?
 

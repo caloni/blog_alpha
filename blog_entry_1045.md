@@ -1,67 +1,62 @@
 ---
 categories:
 - coding
-date: 2018-01-26 20:53:30-02:00
+date: '2021-05-13'
 tags: null
-title: Como Parsear Argc Argv para um map STL
+title: Como Ordenar Três Números em Uma Entrevista
 ---
 
-Os clássicos argv/argc são úteis quando os parâmetros de um programa são conhecidos e geralmente obrigatórios (até a ordem pode ser obrigatória). Isso funciona muito bem para C. Porém, há a possibilidade de STLzar esses argumentos de forma simples, usando a lógica \*nix de fazer as coisas e transformando tudo em um map de string para string. E tudo isso cabe em uma função pequena que você pode copiar e levar com você em seu cinto de utilidades:
+O primeiro exercício pedido ao candidato para a vaga de programação na [Intelitrader] é fazer uma função que receba três números e informe entre eles qual o maior, o menor e a média dos três. Sim, eu sei, absurdamente fácil, não? Porém, mesmo assim, a grande maioria dos "programadores" que entrevisto perde mais de meia-hora em um exercício simples desse. O motivo, acredito eu, é que a lógica de programação está cada vez mais em baixa. Pensar se tornou tristemente um requisito opcional em uma vaga de programação.
+
+No meio de uma entrevista, entediado, resolvi eu mesmo ir resolvendo enquanto aguardava o candidato. Imaginei o que eu, como hipotético candidato, faria para resolver esse exercício da maneira mais rápida. Meu objetivo não era apenas cuspir código, mas entender qual o raciocínio envolvido na obtenção de uma lógica simples dessa.
+
+Então vamos lá. A primeira coisa que eu pensei é fazer em Python. Porque programar em Python um código desses dá para fazer em qualquer editor, inclusive na web. Inclusive em um papel de pão.
+
+A segunda coisa que eu pensei é em já criar a função recebendo os três números, mas em não usá-los no cálculo, porque usar três nomes de variáveis para decidir qual é o maior e menor seria um pé no saco cheio de ifs e elses. Melhor rodar um loop que alimenta o maior e o menor de todos. Sabendo disso eu crio duas variáveis, maior e menor:
 
 ```
-/** Interpreta argumentos da linha de comando.
-
-@author Wanderley Caloni <caloni@intelitrader.com.br>
-@date 2015-06
-@version 1.0.0
-*/
-#pragma once
-#include <map>
-#include <string>
-
-typedef std::map<std::string, std::string> Args;
-
-inline void ParseCommandLine(int argc, char* argv[], Args& args)
-{
-	for (int i = 1; i < argc; ++i)
-	{
-		std::string cmd = argv[i];
-		std::string arg;
-		if (i < argc - 1 && argv[i + 1][0] != '-')
-		{
-			arg = argv[i + 1];
-			++i;
-		}
-		args[cmd] = arg;
-	}
-}
+def func(a, b, c):
+  maior = 0
+  menor = 100000000
+  nums = [ a, b, c ]
 ```
 
-Com a função ParseCommandLine disponível assim que você adicionar este header (eu chamo de args.h) basta no início do seu main chamá-lo passando o argv e o argc recebidos:
+Eu inicializo maior com o "menor valor possível", zero, e menor com o "maior valor possível", no caso um número muito grande. É o maior possível? Não, mas já resolve o problema para números médios e grandes. Caso o entrevistador questionasse essa parte do código eu poderia simplesmente pesquisar qual o maior valor representável por um inteiro em Python para inicializar corretamente. Para um problema em que a resposta precisa ser dada em alguns minutos está de bom tamanho.
+
+Por fim, meu loop que verifica qual o menor e maior varre o array que criei e no final eu sei que o menor e maior valor estarão nas variáveis de mesmo nome.
 
 ```
-int main(int argc, char* argv[])
-{
-	Args args;
-	ParseCommandLine(argc, argv, args);
-    // ...
+for n in nums:
+  if n > maior:
+    maior = n
+  if n < menor:
+    menor = n
 ```
 
-O resultado é que a variável args irá conter um mapa entre parâmetros e valores. Se seu programa for chamado com, por exemplo, a seguinte linha de comando:
+E a média é obtida somando os três números dividido por três, me lembrando que pode ser um número quebrado, então é melhor que seja um ponto flutuante, o que eu consigo dividindo por 3.0 em vez de 3.
 
 ```
->program.exe --name Agatha --surname Christie --enable-log
+print("media: ", (a + b + c) / 3.0);
 ```
 
-A variável args irá conter três elementos: "--name", "--surname" e "--enable-log". Nos dois primeiros ele irá entregar os valores respectivos "Agatha" e "Christie" se indexado (args["--name"], por exemplo). No terceiro elemento o valor é uma string vazia. Apenas a existência dele é o flag. Costumo usar isso para conseguir depurar por parâmetro:
+O conjunto da obra é bem simples e intuitivo. Não precisou de muito raciocínio. O maior desafio, em minha opinião, é manter a calma, entender o problema, e abordar da maneira que consuma menos tempo e esforço intelectual, os recursos escassos do desafio.
 
 ```
-if( args.find("--debug") != args.end() )
-{
-    while( ! IsDebuggerPresent() )
-        Sleep(1000);
-}
+def func(a, b, c):
+  maior = 0
+  menor = 100000000
+  nums = [ a, b, c ]
+  for n in nums:
+    if n > maior:
+      maior = n
+    if n < menor:
+      menor = n
+  print("maior: ", maior);
+  print("menor: ", menor);
+  print("media: ", (a + b + c) / 3.0);
 ```
 
-De maneira geral argv/argc já estão divididos quando o programa começa. O que o ParseCommandLine faz é apenas entregar os parâmetros formatados da maneira usual para tratarmos rapidamente as opções passadas dinamicamente para o programa.
+Não precisa ser a melhor solução do mundo, mas já é uma solução boa o suficiente. Justamente o que a Intelitrader pede aos seus candidatos e funcionários. =)
+
+[Intelitrader]: http://www.intelitrader.com.br
 

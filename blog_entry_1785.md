@@ -1,19 +1,14 @@
 ---
 
-Depois de seis meses blogueando em um novo domínio, que seria totalmente focado em C++, descobri que não consigo viver escrevendo apenas sobre a linguagem em que programo. Não é que falte assunto. Simplesmente meu dia-a-dia nunca se resume apenas em regras de sintaxe e erros de compilação.
+Uma comédia escrachada nem sempre é lançar um monte de palavrões e piadas a respeito de sexo, gays, estupro, negros, pênis e vagina. Se você não sabe o que está fazendo, corre grande risco de gerar o efeito contrário: a indiferença, ou o desprazer. A maior prova disso recentemente é essa animação, que consegue errar na história, no tom, na lógica, na narrativa e na direção.
 
-Por outro lado, aprendi muitas coisas novas desde o começo desse ano. Decorei novos comandos do Windbg, novos atalhos no Google Reader. E fiz outras tantas coisas novas também. Projetei um sistema de comunicação entre processos -- versão alfa, tudo bem, mas projetei. Decifrei o formato do banco de dados do dicionário Houaiss para poder usá-lo no Babylon. E por aí vai.
+Tudo gira em torno de uma história simples (até demais): um parque de diversões que ameaça fechar por falta de clientes e um livro do demônio com poderes mágicos que leva os mortais Remy, Augie e Curt para as profundezas do inferno. Os dois primeiros vão para resgatar o terceiro porque são os heróis da história. Ao encontrar a demônia (ou deusa?) Deema (Mila Kunis) partem em busca do único mortal que conseguiu ir e voltar do inferno: Orfeu. Enquanto isso, o Diabo (Bob Odenkirk, da série Better Call Saul) tenta desesperadamente conquistar a sedutora (?) anja Barb (Susan Sarandon).
 
-E por falar em escovação de bits, apresentei mais duas vezes aquela palestra sobre engenharia reversa. O curioso é que, em vez de eu aumentar o conteúdo da transparência, eu diminuo. Talvez isso seja uma ingênua tentativa de tornar a apresentação menos enfadonha e mais interessante para o público em geral, por mais leigos que eles sejam. Nessa última versão (3.0) cheguei a explicar o processo de análise dos cavalos de tróia dentro da Open Security, desde a descoberta da ameaça até a implementação da cura.
+Feito em stop motion, como animação não há desculpas: ela é rasa, com vários momentos confusos em que o movimento dos personagens e do cenário se tornam pedestres demais para entender o que está acontecendo.
 
-Depois de todas essas aventuras percebi que meus conhecimentos em C++ não aumentaram nem um pouco. Talvez um pouco, mas culpa da nossa fascinante lista de discussão sobre C++ aqui no Brasil, que esmera nos detalhes. Porém, por mim mesmo não aprendi nenhuma biblioteca nova do Boost. Não desenvolvi nenhuma artimanha nova usando templates e herança múltipla (obs: com uma perna só). Enfim, não aprendi nem fiz nada relevante com o tema C++ nos últimos seis meses.
-
-E isso me leva de volta para cá, o cantinho de onde nunca deveria ter saído. Mas aprendi a lição. Estarei por aqui de agora em diante, pronto para escrever sobre o que fizer parte dos meus dias de programador. Não irei cair novamente nas ilusões de um pensamento purista e inadequado à minha realidade de escovador-de-bits-estamos-aí-para-o-que-der-e-vier. Afinal de contas, a gente depura mas se diverte.
+Dirigido porcamente por Tom Gianas e Ross Shuman (esse último responsável por Frango Robô, o que pelo menos explica o humor), detalhes até interessantes do inferno, como um bonde aéreo que se move por engrenagens que movimentam braços, são mostrados de passagem e sem qualquer interesse. Não há nada mais irritante em uma direção do que o desleixo de um universo mais interessante do que o que estamos vendo.
 
 ---
-categories:
-- reading
-date: '2019-09-08'
-tags:
-- quotes
-title: Henry David Thoreau
+categories: []
+date: '2007-06-15'
+title: O bom filho à casa retorna

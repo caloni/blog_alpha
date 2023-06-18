@@ -1,14 +1,18 @@
 ---
 
-Uma tragédia anunciada com todo o ritmo que isso exige. Este é o filme mais caprichado desde Azkhaban. A fotografia é densa, possui a textura do livro e de um épico, vários quadros inesquecíveis pela beleza. Sentimos o livro sendo aberto e lido com os visuais estonteantes e significativos na trama. São tempos sombrios na escola de Hogwarts, e aprendemos isso pelos nossos sentidos, não por diálogos.
+Quarta aventura da série de filmes adaptados dos livros da escritora infanto-juvenil J. K. Rowling, este é o último ainda adolescente e que não envolve tragédias muito acenturadas no dia-a-dia dos estudantes bruxos da escola de Hogwarts. Ele termina com essa transição para o mundo adulto, onde a morte pode e deve acontecer de forma mais frequente para os protagonistas da história. É um arco, mas como filme serve para múltiplos propósitos dentro de uma série, como evoluir as relações do núcleo Harry, Hermione e Ron, além de revelar novas facetas do mundo dos bruxos, como sua existência em outros países, além do perigo sempre iminente que o Ministério da Magia no Reino Unido sofra ataques indiretos pelos capangas do mal maior no universo, representado por Lorde Voldemort.
 
-Segundo filme do diretor David Yates na saga, ele aprende a controlar o universo que tem em mãos e nos entrega o trabalho mais maduro até então, conseguindo um trabalho que flui pelos eventos como se todos eles de fato importassem, e não apenas como enchimento de linguiça. Soma-se o fato que estamos acostumados com os personagens, e uma nova aventura com Harry, Hermione e Ron é sempre bem-vinda.
+Ainda não está claro qual é a grande maldade de Voldemort, embora ele flerte pesadamente com a figura de Darth Vader, já que a existência entre bem e mal absolutos é marca de sagas fantasiosas como ambas. Além disso, as sugestões elitistas dos bruxos mals, que estão sempre atacando os bruxos mestiços, também sugere essa analogia que a escritora J. K. Howling aplica em seu mundo.
+
+A direção de Mike Newell empolga, mas é burocrática demais para criar alguma personalidade. O mesmo universo é revisitado e as novidades não parecem ornar muito bem com o que já conhecemos. Parece um show off desnecessário do ponto de vista da história, embora seja muito empolgante assistir à Copa Mundial de Quadribol ou a existência de grupos de estudantes fazendo intercâmbio.
+
+Trabalho menor dentro da saga, seu aspecto comercial hoje prevalece. Menos infantil, é claro, que os dois primeiros filmes, seu pecado é tanto tempo de tela apenas para expor os eventos sem explorá-los como cinema.
 
 ---
 categories:
 - writting
-date: '2019-12-27T18:22:00-03:00'
-link: https://www.imdb.com/title/tt0304141
+date: '2019-12-27T18:25:00-03:00'
+link: https://www.imdb.com/title/tt0417741
 tags:
 - movies
-title: Harry Potter e o Prisioneiro de Azkaban
+title: Harry Potter e o Enigma do Príncipe

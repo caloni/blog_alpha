@@ -1,27 +1,166 @@
 ---
 categories:
-- writting
-date: '2019-07-19'
-link: https://www.imdb.com/title/tt8263936
-tags:
-- cinemaqui
-- movies
-title: O Mistério de Henri Pick
+- coding
+date: '2008-03-12'
+title: O mistério das pilhas diferentes
 ---
 
-O Mistério de Henri Pick é um filme de investigação improvisada, mas ao mesmo tempo dialoga sobre como o marketing pode ser ao mesmo tempo perverso e necessário. "Dois terços dos franceses escrevem, mas ninguém lê", diz um personagem. Há todo um ar melancólico em torno dessa comédia fácil de digerir. Pelo menos na superfície.
+Mal comecei a leitura do meu mais novo ["mother-fucker" livro] e já encontrei a solução para nunca mais viver o terror que vivi quando tive que testar minha engenharia reversa do artigo sobre o Houaiss. Se trata de uma simples questão que não sei por que não sigo todas as vezes religiosamente: configure seus símbolos corretamente.
 
-Fabrice Luchini faz Jean-Michel Rouche, esse personagem feito para uma comédia de erros, mas ainda assim Luchini mantém sua respeitabilidade. Isso porque Rouche, apesar de vítima das circunstâncias do lançamento de um livro esquecido, enfrenta o exagero da comédia quando sua mulher se separa dele sendo o livro a última gota e é demitido do seu emprego como apresentador de TV. Por texto. Sim, não foi o melhor dos dias para Jean-Michel.
+Esse é o primeiro ponto abordado pelo autor, por se tratar de algo que, caso não seja bem feito, pode dar dores de cabeça piores do que o próprio problema que originou a sessão de debugging. Por isso eu repito:
 
-Mas a despeito disso, o que realmente o instiga a descobrir o verdadeiro autor deste livro, que se revela como um sucesso de público pelo marketing e um sucesso de crítica pela sua qualidade rara, é a sensação de estar sendo enganado. Não seria a primeira vez que um escritor-fantasma coloca um desconhecido sob os holofotes, mas Jean-Michel, sem esposa e sem trabalho, não parece ter muito a perder ao partir para uma busca no coração da Bretanha, virando então um justiceiro literário ocasional.
+> Configure Seus Símbolos Corretamente
 
-O diretor Rémi Bezançon com a ajuda de sua companheira habitual, Vanessa Portal, adaptam o livro de David Foenkinos, que envolve vários personagens dissonantes, e uma caça de uma dupla formada por Jean-Michel e Joséphine Rick, filha do escritor do livro de sucesso. O casal aos poucos vai se estabelecendo contra todas as probabilidades, quase que forçando um inusitado romance sem substância entre os dois, e apesar de resumida, a trama criada para o filme a partir do livro constrói uma linha de causalidades que nos cativa ao acompanharmos esses inusitados heróis nessa busca pela verdade.
+Vamos acompanhar alguns momentos de tortura alheia?
 
-A dupla de roteiristas acerta em usar das várias vozes do livro apenas uma, pois assim não se perde o foco da narrativa e contam a mesma história sob um ponto de vista fácil de entender: um crítico literário. Obviamente ele irá ser contra truques de marketing que tentem vender uma mentira, mas como o espectador também gostaria que um best-seller tivesse sido escrito por este pizzaiolo simples do interior, nos dando a oportunidade de vislumbrar a fantasia de que qualquer um pode escrever literatura, a persona de Jean-Michel é contraditória aos nossos instintos ao mesmo tempo que vira a voz da razão. E a difícil arte de manter os dois lados em um conflito interno é desempenhado do começo ao fim.
+Tudo aconteceu quando inesperadamente perdi metade do [artigo] que estava escrevendo para explicar o processo de engenharia reversa no dicionário Houaiss. Tive que refazer todos os meus testes que havia feito no laptop. Como a preguiça é a mãe de todas as descobertas, não estava com ele ligado no momento do "reteste" e por isso acabei usando a máquina desktop, mesmo.
 
-Este é um filme que está apaixonado pelo seu sub-gênero de mistério, e sua trilha sonora hitchcockiana faz leve referência a Um Corpo que Cai evocando ainda mais a ambiguidade entre uma mentira desejável e uma verdade desagradável. Mas não só a música inspira isso, como o ambiente místico da cidadezinha secular no campo, o uso da bicicleta para se locomover pela estrada tendo o mar como horizonte.
+A análise inicial consistia simplesmente em verificar as entradas e saídas da função ReadFile, na esperança de entender a formatação interna do dicionário. Repetindo a seqüência:
 
-Porém, esta também é uma comédia leve que nos leva a acompanhar a investigação com irreverência, nos remetendo aos lúdicos jogos de criança. Isso acontece porque este não é um caso de "quem matou?", mas um mero "quem escreveu?", e o peso dessa pergunta é menor que a obstinação de seu protagonista, exatamente quando nós, crianças, nos aventuramos por uma busca não importando o objetivo.
+    windbg -pn houaiss2.exe
+    0:001> bp kernel32!ReadFile "dd @$csp L6" $$ Dando uma olhada nos parâmetros
+    g
+    
+    0012fa70  0040a7a9 00000200 08bbf1d0 00000200
+    0012fa80  0012fa88 00000000
+    eax=0012fa88 ebx=00000200 ecx=00000200 edx=08bbf1d0 esi=08bbf1d0 edi=00000200
+    eip=7c80180e esp=0012fa70 ebp=0012facc iopl=0         nv up ei pl zr na pe nc
+    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
+    kernel32!ReadFile:
+    7c80180e 6a20            push    20h
+    $$ O buffer de saída é 08bbf1d0 
+    $$ O número de bytes lidos é 200
+    0:000> db 08bbf1d0 L80
+    08bbf1d0  00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00  ................
+    08bbf1e0  00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00  ................
+    08bbf1f0  00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00  ................
+    08bbf200  00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00  ................
+    08bbf210  00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00  ................
+    08bbf220  00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00  ................
+    08bbf230  00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00  ................
+    08bbf240  00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00  ................
+    0:000> bp /1 @$ra "db 08bbf1d0 L80"
+    0:000> g
+    08bbf1d0  2a 70 72 6f 67 72 61 6d-61 2d 66 6f 6e 74 65 0d  *programa-fonte.
+    08bbf1e0  0a 43 73 2e 6d 2e 0d 0a-64 7b 5c 69 20 73 58 58  .Cs.m...d{\i sXX
+    08bbf1f0  7d 0d 0a 54 69 6e 66 0d-0a 3a 70 72 6f 67 72 61  }..Tinf..:progra
+    08bbf200  6d 61 20 64 65 20 63 6f-6d 70 75 74 61 64 6f 72  ma de computador
+    08bbf210  20 65 6d 20 73 75 61 20-66 6f 72 6d 61 20 6f 72   em sua forma or
+    08bbf220  69 67 69 6e 61 6c 2c 20-61 6e 6f 74 61 64 6f 20  iginal, anotado
+    08bbf230  70 65 6c 6f 20 70 72 6f-67 72 61 6d 61 64 6f 72  pelo programador
+    08bbf240  20 65 6d 20 75 6d 61 20-6c 69 6e 67 75 61 67 65   em uma linguage
+    0:000> $$
+    0:000> $$ Tudo legível? Mas já? Ai, meu Deus, alguém chama uma benzedeira!
+    0:000> $$
 
-O Mistério de Henri Pick pode, então, ser considerada diversão despretensiosa, não fosse seu sub-texto que sussurra em nossos ouvidos em alguns momentos da investigação. É uma biblioteca de manuscritos rejeitados pelas editoras, a história sobre um livro ser mais importante que o livro em si e a antipatia que as pessoas nutrem pelo crítico em busca da verdade. Todos esses elementos nos querem dizer que há algo de errado com a literatura. Mas deixemos isso para depois. A investigação é uma atividade mais prazerosa por enquanto.
+Se notarmos no artigo anterior, veremos que o conteúdo do arquivo lido não é em texto claro, sendo necessário passar por mais algumas instruções assembly para descobrir a função responsável por embaralhar o conteúdo na memória. Contudo, ao rodar esses comandos novamente, eis que a saída do ReadFile já vem toda legível, como se o dicionário não estivesse mais encriptado.
+
+A leitura foi feita e o texto direto do arquivo veio em claro? O que está acontecendo? Quando abro pelo comando type ele aparece todo obscuro...
+
+{{< image src="cmd.gif" caption="Saída dos arquivos do dicionário" >}}
+
+Sim, alguma coisa não-trivial acaba de acontecer. Testei esse procedimento no laptop e no desktop, sendo que esse problema aconteceu apenas no desktop. Dessa vez a curiosidade falou mais alto que a preguiça, e tive que abrir as duas máquinas e comparar os resultados.
+
+Depois de um pouco de cabeçadas rastreando o assembly executado, descobri que o ponto onde o breakpoint havia parado não era o retorno da chamada a ReadFile. Isso eu não vou demonstrar aqui pois se trata de raciocínio de passo-a-passo no assembly até descobrir a diferença. É enfadonho e sujeito a erros. Sugiro que tente um dia desses. Para mim, o resultado lógico de tudo isso é a saída que segue:
+
+    0012fa70  0040a7a9 00000200 08bbf1d0 00000200
+    0012fa80  0012fa88 00000000
+    eax=0012fa88 ebx=00000200 ecx=00000200 edx=08bbf1d0 esi=08bbf1d0 edi=00000200
+    eip=7c80180e esp=0012fa70 ebp=0012facc iopl=0         nv up ei pl zr na pe nc
+    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
+    kernel32!ReadFile:
+    7c80180e 6a20            push    20h
+    0:000> ? poi(esp)
+    Evaluate expression: 4237225 = 0040a7a9
+    0:000> ? @$ra
+    Evaluate expression: 4959640 = 004bad98
+    0:000> ? poi(@$csp)
+    Evaluate expression: 4237225 = 0040a7a9 
+
+Como podemos ver pelos comandos acima, o pseudo-registrador $ra não está mostrando o valor corretamente!
+
+A primeira coisa que se faz numa hora dessas é comparar as versões dos componentes do depurador de ambos os ambientes. Para isso usamos o comando version.
+
+    0:000> version $$ desktop
+    Windows XP Version 2600 (Service Pack 2) UP Free x86 compatible
+    Product: WinNt, suite: SingleUserTS
+    kernel32.dll version:
+    Debug session time: Tue Feb 26 19:51:58.295 2008 (GMT-3)
+    System Uptime: 0 days 1:14:07.857
+    Process Uptime: 0 days 0:31:52.840
+      Kernel time: 0 days 0:00:01.482
+      User time: 0 days 0:00:02.723
+    Live user mode: <Local>
+    command line: '"C:\Tools\DbgTools\windbg.exe" -pn houaiss2.exe'  Debugger Process 0xEC4
+    dbgeng:  image 6.6.0007.5, built Sat Jul 08 17:12:40 2006
+            [path: C:\Tools\DbgTools\dbgeng.dll]
+    dbghelp: image 6.6.0007.5, built Sat Jul 08 17:11:32 2006
+            [path: C:\Tools\DbgTools\dbghelp.dll]
+            DIA version: 60516
+    Extension DLL search Path:
+        C:\Tools\DbgTools\winext;C:\Tools\DbgTools\winext\arcade;(...)
+    Extension DLL chain:
+        dbghelp: image 6.6.0007.5, API 6.0.6, built Sat Jul 08 17:11:32 2006
+            [path: C:\Tools\DbgTools\dbghelp.dll]
+        ext: image 6.6.0007.5, API 1.0.0, built Sat Jul 08 17:10:52 2006
+            [path: C:\Tools\DbgTools\winext\ext.dll]
+        exts: image 6.6.0007.5, API 1.0.0, built Sat Jul 08 17:10:48 2006
+            [path: C:\Tools\DbgTools\WINXP\exts.dll]
+        uext: image 6.6.0007.5, API 1.0.0, built Sat Jul 08 17:11:02 2006
+            [path: C:\Tools\DbgTools\winext\uext.dll]
+        ntsdexts: image 6.0.5457.0, API 1.0.0, built Sat Jul 08 17:29:38 2006
+            [path: C:\Tools\DbgTools\WINXP\ntsdexts.dll]
+
+    0:000> version $$ laptop
+    Windows XP Version 2600 (Service Pack 2) UP Free x86 compatible
+    Product: WinNt, suite: SingleUserTS Personal
+    kernel32.dll version:
+    Debug session time: Tue Feb 26 20:54:39.718 2008 (GMT-3)
+    System Uptime: 9 days 10:26:39.289
+    Process Uptime: 0 days 0:00:56.359
+      Kernel time: 0 days 0:00:00.406
+      User time: 0 days 0:00:01.078
+    Live user mode: <Local>
+    command line: '"C:\Tools\DbgTools\windbg.exe" -pn houaiss2.exe'  Debugger Process 0x864
+    dbgeng:  image 6.8.0004.0, built Thu Sep 27 18:28:09 2007
+            [path: C:\Tools\DbgTools\dbgeng.dll]
+    dbghelp: image 6.8.0004.0, built Thu Sep 27 18:27:05 2007
+            [path: C:\Tools\DbgTools\dbghelp.dll]
+            DIA version: 20119
+    Extension DLL search Path:
+        C:\Tools\DbgTools\WINXP;C:\Tools\DbgTools\winext;C:\(...)
+    Extension DLL chain:
+        dbghelp: image 6.8.0004.0, API 7.0.6, built Thu Sep 27 18:27:05 2007
+            [path: C:\Tools\DbgTools\dbghelp.dll]
+        ext: image 6.8.0004.0, API 1.0.0, built Thu Sep 27 18:26:59 2007
+            [path: C:\Tools\DbgTools\winext\ext.dll]
+        exts: image 6.8.0004.0, API 1.0.0, built Thu Sep 27 18:26:28 2007
+            [path: C:\Tools\DbgTools\WINXP\exts.dll]
+        uext: image 6.8.0004.0, API 1.0.0, built Thu Sep 27 18:26:45 2007
+            [path: C:\Tools\DbgTools\winext\uext.dll]
+        ntsdexts: image 7.0.6440.1, API 1.0.0, built Thu Sep 27 18:45:23 2007
+            [path: C:\Tools\DbgTools\WINXP\ntsdexts.dll]
+
+OK. A versão instalada no desktop é bem antiga. Pode ser um indício. Fiz então a atualização e comparei novamente a saída de version. Tudo igual. Decidi então usar aquela lógica cética que é desenvolvida por quem costuma depurar coisas sinistras e esotéricas por anos e anos e não duvida de mais nada, mas também acredita piamente que tudo tem um motivo. Se não está aparente, basta descobri-lo. E foi o que eu fiz. Gerei dois dumps distintos, um no laptop e outro no desktop. Ambos estavam com os ponteiros de instrução apontados exatamente para a entrada da função ReadFile, início de todo esse problema. Copiei o dump do desktop para o laptop e vice-versa.
+
+{{< image src="windbg-nerd.gif" caption="WinDbg Nerd" >}}
+
+Abri o dump do desktop no laptop: tudo funcionando. Abri o dump do laptop no desktop: mesmo erro. Conclusão óbvia: é algo relacionado com o WinDbg no desktop, uma vez que o estado da pilha que era mostrado corretamente no laptop em ambos os dumps falhava duplamente na máquina desktop.
+
+    .sympath
+    Symbol search path is: <empty>
+
+Isso com certeza não cheira bem. Ainda mais porque do outro lado do hemisfério, meu laptop estava configurado com toda a rigidez que um laptop de WinDbgeiro deve ter:
+
+    0:000> .sympath
+    Symbol search path is: SRV*C:\Symbols*http://msdl.microsoft.com/download/symbols
+
+E aí estava uma diferença plausível. Consertados os diretórios de símbolos, tudo voltou ao normal.
+
+Procure primeiro verificar as coisas mais simples. Depois você tenta consertar o universo. Mas, primeiro, antes de tudo, veja se o cabo de rede está conectado. Ou no nosso cado de debugueiro:
+
+> Configure Seus Símbolos Corretamente
+
+["mother-fucker" livro]: http://advancedwindowsdebugging.com/
+[artigo]: {{< relref "conversor-de-houaiss-para-babylon-parte-1" >}}
 

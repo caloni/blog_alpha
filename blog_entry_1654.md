@@ -1,18 +1,155 @@
 ---
 categories:
-- writting
-date: '2010-05-21'
-link: https://www.imdb.com/title/tt0800320
+- coding
+date: '2008-02-13'
 tags:
-- movies
-title: Fúria de Titãs
+- english
+title: Funky do-while
 ---
 
-Fúria de Titãs busca ser uma superprodução sobre deuses e humanos, mas falha miseravelmente em sua abordagem 3D, especialmente em suas transições, onde um bebê no barco parece distorcido ou a aparência de Hades quando este aparece entre os humanos.
+It's a known habit to use do-while constructions when there's a need to define a macro that has more than one command instead of using the { simple multicommand brackets }. What was never clear is why this is so.
 
-Com uma introdução um tanto rápida do protagonista, talvez deixando pouco espaço para criação da empatia ou até da criação desse personagem, logo parte-se para as lutas, mas que quase nunca emplacam, tendo como muleta a sua forçada trilha sonora que não conta muito com criatividade. Mesmo nas sequências onde o remake deveria se sair melhor que o original datado, como a luta com o escorpião gigante, temos uma descompasso entre as cenas próximas de suas garras (rápido) e as cenas em que os personagens sobem em cima dele (lento), mesmo que esse ritmo se encaixe com a trilha sonora (que tem um raro bom momento). Outra falha notável é o fato do cenário ser 3D, mas o escorpião parecer em muitas ocasiões "fora" do quadro, como um efeito de projeção no fundo do cenário. Lembrou um Duna 3D (se esta tivesse sido feita com o uso da tecnologia). E, por fim, não há tensão, mesmo se tratando de uma luta mortal com um escorpião gigante, o que é um problema mais grave ainda, pois é disso que a aventura depende para engrenar. Como prêmio de consolação, o efeito visual das bruxas, do barqueiro e da Medusa são muito bem conduzidos, assim como as cenas de ação relacionadas com esses personagens.
+Let's imagine a trace macro that's enabled in debug mode, whilst kept in silence in release builds:
 
-Já a história possui alguns buracos ou detalhes que não fazem muito sentido, como os "homens-escorpião" ajudarem os humanos a combater os deuses mesmo que estes odeiem os humanos. Há uma parábola e simbolismo entre Perseus e Jesus: filho de deus supremo (Deus x Zeus), e pescador, tem que se sacrificar para salvar os humanos. A fala final de Zeus demonstra também isso, pois ele diz que não gostaria de sacrificar um filho pela humanidade. Temos também a figura dual entre deus e demônio representado por Zeus e Hades, pois os outros deuses no filme são menos coadjuvantes e mais enfeites de cenário. Por outro lado o filme encarna seres humanos tolos, levados pelo destino que é conduzido pelos deuses.
+    #ifdef NDEBUG
+    
+    #define MYTRACE( message ) /* nothing */
+    
+    #else
+    
+    #define MYTRACE( message )   \
+    {                            \
+      char buffer[500];          \
+      sprintf(buffer,            \
+        "MYTRACE: %s(%d) %s\n",  \
+        __FILE__,                \
+        __LINE__,                \
+        message);                \
+      OutputDebugString(buffer); \
+    }
+    
+    #endif /* NDEBUG */ 
 
-Por fim, a mania hollywoodiana de sempre mostrar tudo ao espectador, até a simples simbologia de morte de sua seguidora, enfraquece todo o mistério em torno de Olimpo. Curioso é que mesmo tendo tanto apelo visual por causa dos efeitos, carece de diálogos para explicar coisas óbvias, como quando um dos bichos voadores pega a bolsa com a cabeça da Medusa. Um trabalho ainda em desenvolvimento lançado aos gritos de 3D. Não funciona.
+Nothing much, but it seems to work. But, as we going to see in the following lines, it is really a buggy piece of code, since a call inside an if-else construction simply doesn't work.
+
+    if( exploded() )
+      MYTRACE("Oh, my God");
+    else
+      MYTRACE("That's right"); 
+
+    error C2181: illegal else without matching if
+
+Why's that? In order to answer this question, we need to look closer into the result code from the preprocessor, just replacing the macro for its piece of code:
+
+    if( exploded() )
+    {
+      char buffer[500];
+      sprintf(buffer,
+        "MYTRACE: %s(%d) %s\n",
+        __FILE__,
+        __LINE__,
+        "Oh, my God");
+      OutputDebugString(buffer);
+    };
+    else
+    {
+      char buffer[500];
+      sprintf(buffer,
+        "MYTRACE: %s(%d) %s\n",
+        __FILE__,
+        __LINE__,
+        "That's right");
+      OutputDebugString(buffer);
+    };
+
+So, that's why. When we call a macro, generally we use the funcion-call syntax, putting a semicolon in the end. This is the right way to call a function, but in the macro case, it's a disaster, because it creates two commands instead of one (an empty semicolon, despite doing nothing, it's a valid command). So that's what the compiler does:
+
+    if( instruction )
+    {
+      /* a lot of comands */
+    
+    } /* here I would expect an else or new instruction */
+
+    ; /* a new command! okay, no else this time */
+    
+    else /* wait! what this else is doing here without an if?!?! */
+    {
+      /* more commands */
+    }
+
+Think about the empty command as if it was a real command, what is the easier way to realize the compiler error:
+
+    if( error() )
+    {
+      printf("error");
+    }
+
+    printf("here we go");
+    
+    else /* llegal else without matching if! */
+    {
+      printf("okay");
+    }
+
+For this reason, the tradicional way to skip this common error is to use a valid construction who asks for a semicolon in the end. Fortunately, language C has such construction, and it is... right, the **do-while**!
+
+    do
+    {
+      /* multiple commands here */
+    }
+    while( expression )
+
+    ;
+    /* I expect a semicolon here, in order
+       to end the do-while instruction */
+
+So we can rewrite our trace macro the right way, even being a funcky one:
+
+    #ifdef NDEBUG
+    
+    #define MYTRACE( message ) /* nothing */
+    
+    #else
+    
+    #define MYTRACE( message )   \
+    do                           \
+    {                            \
+      char buffer[500];          \
+      sprintf(buffer,            \
+        "MYTRACE: %s(%d) %s\n",  \
+        __FILE__,                \
+        __LINE__,                \
+        message);                \
+      printf(buffer);            \
+    }                            \
+    while( 0 )
+    
+    #endif /* NDEBUG */ 
+
+Using a do-while (with a false expression inside the test to execute the block just once) the if-else construction is allowed and working properly:
+
+    if( exploded() )
+    do
+    {
+      char buffer[500];
+      sprintf(buffer,
+        "MYTRACE: %s(%d) %s\n",
+        __FILE__,
+        __LINE__,
+        "Oh, my God");
+      OutputDebugString(buffer);
+    }
+    while( 0 );
+    else
+    do
+    {
+      char buffer[500];
+      sprintf(buffer,
+        "MYTRACE: %s(%d) %s\n",
+        __FILE__,
+        __LINE__,
+        "That's right");
+      OutputDebugString(buffer);
+    }
+    while( 0 );
 

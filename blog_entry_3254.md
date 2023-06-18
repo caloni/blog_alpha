@@ -1,17 +1,16 @@
 ---
 categories:
-- writting
-date: '2013-08-05'
-link: https://www.imdb.com/title/tt1821694
-tags:
-- movies
-title: 'RED 2: Aposentados e Ainda Mais Perigosos'
+- cooking
+date: '2021-07-31T22:32:40-03:00'
+tags: []
+title: Receita falsa de Calzone
 ---
 
-Parte divertido e parte esquecível, engraçadinho pelo fato dos seus personagens serem idosos que ainda estão na ativa em sua vida de espiões e assassinos profissionais, [RED] faz parte desse revival de filmes com atores dos anos 80/90 que acabou se saindo razoavelmente bem e "garantiu" uma continuação. Assim é que nasce RED 2, que esquece completamente da sua premissa de contar uma história de espiões com velhinhos (o fato da idade avançada dos heróis é irrelevante aqui) e tenta se tornar interessante complicando sua história em torno de uma trama bobinha e sem imaginação.
+Segui essa receita no site onde costumo pegar receitas de pães, mas depois percebi que este Calzone não tem nada a ver com o resto da internet. O objetivo dele é ser mais fofo e menos pizza. Esse site perdeu uns pontos depois dessa 
 
-É dessa forma que as maiores virtudes do filme acabam sendo as caretas de John Malkovich e uma ou outra cena de ação, que pelo menos são orquestradas de maneira infinitamente melhor do que o sofrível [Duro de Matar 5] (que, aliás, também abandona a premissa da série). Se a coerência é uma virtude, podemos dizer que RED 2 faz jus ao original, se tornando igualmente esquecível a partir do momento que saímos da sala de projeção.
+A receita é básica de pão mas vai açúcar, 60% em relação ao sal, que é 2% como de costume em relação à farinha. Fermento e água (60%) e voltamos para o feijão com arroz. O que há de diferente aqui? Nada.
 
-[RED]: {{< relref "red-aposentados-e-perigosos" >}}
-[Duro de Matar 5]: {{< relref "duro-de-matar-um-bom-dia-para-morrer" >}}
+Durante a dobra o site pede para enrolar como um rocambole em torno do recheio. Coloquei fermento natural mais o instantâneo e ele cresceu bem. Ficou igual ao site.
+
+Só não é um Calzone.
 

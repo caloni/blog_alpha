@@ -1,11 +1,12 @@
 ---
 categories:
 - writting
-date: '2018-04-06'
+date: '2020-10-22'
+link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-da-serra/
 tags:
-- food
-title: Fazenda Kaynã
+- coffee
+title: Fazenda da Serra
 ---
 
-Talvez o primeiro café que percebi que o equilíbrio precisa ser ajustado em gramas (no meu caso, entre 17 e 19 no Aeropress); este café sustentável do Espírito Santo do Pinhal mantém uma fazenda agradável (tirando os mosquitos) com uma aparência clássica; eles produzem também farinha de milho feita na pedra, e vendem para o Ataya.
+Esse café é diferente do que se costuma provar nas rodas gourmet. Ele possui atributos florais, e não frutados. É menos doce, mais aromático (até no sabor) e pode soar sem graça para alguns, mas é o equilíbrio entre as nuances a chave para entendê-lo.
 

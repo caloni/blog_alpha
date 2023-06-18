@@ -1,33 +1,107 @@
 ---
 categories:
-- writting
-date: '2017-11-18'
-link: https://www.imdb.com/title/tt6288250
-tags:
-- cinemaqui
-- movies
-title: Patti Cake$
+- coding
+date: '2010-11-09'
+tags: null
+title: Patch de emergência 2
 ---
 
-Patti Cake$ poderia ser facilmente resumido como uma mistura entre "Preciosa: Uma História de Esperança" (Lee Daniels, 2009) e "8 Mile: Rua das Ilusões" (Curtis Hanson, 2002), e qualquer um que tenha assistido a esses dois longas irá se identificar com o drama dos jovens artistas anônimos nas periferias das cidades grandes, rejeitados automaticamente pelas autoridades locais como vagabundos perdidos na sociedade.
+No [artigo anterior] fizemos um patch rapidinho na memória se aproveitando de um Sleep nojento que o código nos forneceu.
 
-Porém, enquanto Preciosa e 8 Mile se limitam em um drama vitimista com moral de superação, Patti Cake$ adota uma postura alto-astral. Poderia isto ser fruto de uma sociedade que rapidamente enriqueceu nesses 10, 15 anos, e se não espiritualmente, ao menos financeiramente? O filme deixa claro que há, sim, alguns problemas financeiros para a jovem Patti e sua família, mas pior do que eles é não poder viver seu sonho.
+E se não houvesse Sleep?
 
-E seu sonho é ser uma rapper de sucesso, respeitada, amada, adorada... glorificada. Como seu maior ídolo: O-Z (Sahr Ngaujah).
+As chances de estarmos escrevendo no momento em que a função está sendo executada são tremendas, de forma que não poderíamos sobrescrevê-la sem correr o risco de um crash.
 
-O movimento rap tem vários significados, conotações e etimologias. Alguns dizem que é um acrônimo para Ritmo e Poesia (do inglês Rithm and Poetry). Outros que o "R" tem mais a ver com rimar. E outros usam ainda outros significados mais obscuros para um termo que virou sinônimo de um gênero musical: o Hip Hop.
+Uma solução alternativa para isso é alocar um novo pedaço de memória para a versão corrigida e trocar o endereço de chamada na função main.
 
-Aos meus quinze anos, quando eu ouvia desde Racionais MCs, a referência oficial no Brasil, até obscuridades da época, como De Menos Crime (antes de seu hit "Fogo na Bomba"), o RAP tinha a clara conotação de música marginalizada que combatia o sistema vigente através de suas letras e ritmos experimentais, através da junção de diferentes gêneros musicais e mixagens "estrábicas" que conseguiam harmonizar canto gregoriano, Beethoven, MPB e pagode de raiz. O movimento, se espalhando facilmente pelo mundo, tem por definição nunca se definir. E é em sua anti-definição que ele mais brilha, como um dos representantes mais underground da contra-cultura.
+    
+    windbg criticalservice3.exe
+    
+    0:000> uf DoProcess
+    criticalservice3!DoProcess [s:\docs\artigos\criticalservice3.cpp @ 8]:
+        8 00401020 55              push    ebp
+       ...
+       12 0040107d 5d              pop     ebp
+       12 0040107e c3              ret
+    0:000> .writemem <font color="#008000">DoProcess.func</font> 00401020 0040107e
+    Writing <font color="#0000ff">5f bytes</font>.
 
-Dentro dessa ideologia, o que faria menos sentido no mundo é um filme com uma produção razoável sobre uma rapper marginalizada pelas condições de seu tempo: branca, loira, obesa, pobre e tímida. Porém, sendo justamente a poesia dentro dessa ideologia a força motriz que transforma a realidade opressora do artista em combustível para a criação dos seus melhores trabalhos, e a contradição inerente de suas criações, com o objetivo de alertar a humanidade do perigo da padronização (a "ovelhização", como cantado no filme), não há nada de errado em vivermos o sonho junto de Patti e seus amigos, já que este sonho representa tudo o que eles com certeza não conseguirão em suas pouco esperançosas vidas.
+    
+    windbg -pvr -pn criticalservice2.exe
+    
+    0:000> .dvalloc 0x5f
+    Allocated 1000 bytes starting at 00030000
+    0:000> .readmem <font color="#008000">DoProcess.func</font> 00030000 <font color="#0000ff">L5f</font>
+    Reading <font color="#0000ff">5f bytes</font>.
+    0:000> uf 00030000
+    00030000 55              push    ebp
+    ...
+    0003005d 5d              pop     ebp
+    0003005e c3              ret
 
-O longa do estreante Geremy Jasper se insere como se deve nesse universo. Iniciando dentro do sonho de Patti com o formato de um show inesquecível, a realidade da garota é colorido com suas próprias letras descrevendo sua situação, mas sempre com um impulso otimista sobre como ela superou os obstáculos e chegou onde chegou. Ela se vê retornando às origens que nunca saiu, cantando vitória e demonstrando uma auto-confiança invejável para qualquer ser humano naquela situação. Dessa forma, no ritmo de vídeo-clipes, câmera lenta e estilização da pobreza, a trilha sonora é cantada por ela mesma e sua banda, em um trocadilho de suas origens na periferia de Nova York, Nova Jérsei: PBNJ (as composições ficaram por conta de Jason Binnick e do diretor do filme). Essa seria a única narrativa aceitável para esta história, a que não trai o movimento. Ela vive no sonho, o sonho faz parte do filme e o filme é sobre esse sonho. Qualquer licença poética está liberada (como as coincidências da história que você com certeza irá localizar).
+Antes de trocarmos o endereço dentro do main precisamos "consertar" a função copiada. Ela está usando as funções globais rand e printf, e as chamadas usam offsets relativos. Como agora a função está em outro offset, temos que reconstruir as chamadas:
 
-Toda a história do filme possui uma cadência contagiante justamente por conta dessa narrativa pseudo-realista. Nos damos conta que o filme é um sonho de onde Patti não quer acordar. E não podemos julgá-la. Tendo que trabalhar em bicos ingratos para ajudar sua mãe a custear o tratamento da avó que começa a sofrer a decadência do Alzheimer, o momento em que ela realmente se liberta é compondo suas letras, e nas ruas improvisando sua arte. Como uma repentista urbana, Patti transforma sua realidade, por mais barra pesada que seja, em poesia musical.
+    
+    00401026 e8da000000      call    criticalservice3!rand (00401105)
+    00030006 e8da000000      call    000300e5
+    
+    0:000> a 00030006
+    00030006 call 0x00401105
+    call 0x00401105
+    0003000b 
+    
+    00401073 e852000000      call    criticalservice3!printf (004010ca)
+    00030053 e852000000      call    000300aa
+    
+    0:000> a 00030053
+    00030053 call 0x004010ca
+    call 0x004010ca
+    00030058
 
-A performance de Danielle Macdonald está arrebatadora. Assim como suas músicas. Há pouquíssimos momentos que podemos distinguir a atriz de seu personagem, ou ambas de uma possível personagem da vida real. Talvez a única pista seja que ela tem um "verdadeiro" talento em improviso que soa talentoso demais para ser verdade. Mas, pense a respeito: quantos talentos estão perdidos pelas ruas? Talentos esses que nunca ouviremos a respeito. Este conto não é tão irreal quanto parece.
+Agora a função está pronta para ser usada.
 
-O momento que resume este longa-video-clipe em formato de filme (e cuja história você não precisa saber muito) é quando, em um momento auto-reflexivo do próprio filme, é dito que um quadro na parede, comprado por 2,4 milhões de dólares, foi uma ninharia, pois o que está ali representa de maneira autêntica toda a dor e violência do artista que o criou. Conseguir representar em cada linha, cada cor e cada forma a insanidade da existência humana, e ainda imprimir em alguns centímetros quadrados toda a dor resultante deste esforço, é o verdadeiro paradoxo.
+    
+    0:000> uf 00030000
+    00030000 55              push    ebp
+    00030001 8bec            mov     ebp,esp
+    00030003 83ec0c          sub     esp,0Ch
+    00030006 e8fa103d00      call    criticalservice2!rand (00401105)
+    0003000b 99              cdq
+    ...
+    0003004e 6828a04000      push    offset criticalservice2!GetSystemInfo
+    00030053 e872103d00      call    criticalservice2!printf (004010ca)
+    00030058 83c40c          add     esp,0Ch
+    0003005b 8be5            mov     esp,ebp
+    0003005d 5d              pop     ebp
+    0003005e c3              ret
+    
+    0:000> uf main
+    criticalservice2!main [s:\docs\artigos\criticalservice2.cpp @ 16]:
+       16 00401080 55              push    ebp
+    ...
+    criticalservice2!main+0x1f [s:\docs\artigos\criticalservice2.cpp @ 21]:
+       21 0040109f e861ffffff      call    criticalservice2!ILT+0(?DoProcessYAXXZ) (00401005)
+       22 004010a4 ebf0            jmp     criticalservice2!main+0x16 (00401096)
 
-Assim como é um paradoxo entender que as maiores obras de arte talvez precisem da dor lancinante e do sofrimento intenso de seus criadores, que apenas buscam um lugar ao sol em suas existências sem sentido. Seria essa busca que gera algum significado ou é a própria vida, que está ali apenas para ser interpretada por um artista que nasce através dessa dor?
+É nessa parte que trocaremos o endereço o endereço 00401005 pela memória alocada. Note que essa escrita é muito rápida e o programa lê esse endereço por muito pouco tempo se compararmos com todas as intruções que são executadas. No entanto, essa escrita não é atômica, e mesmo que as chances sejam extremamente remotas, ainda assim pode haver uma colisão no acesso à essa parte.
+
+É salutar rezar por 10 segundos.
+
+    
+    0:000> a 0040109f
+    0040109f call 0x00030000
+    call 0x00030000
+    004010a4
+
+E voilà! A partir do momento em que digitei o call seguido de enter, a função nova já começou a operar em cima do processo ainda rodando. Se quisermos voltar a função antiga, sem problemas:
+
+    
+    0:000> a 0040109f
+    0040109f call 0x00401005
+    call 0x00401005
+    004010a4
+
+Não façam isso em casa, crianças ;)
+
+[artigo anterior]: {{< relref "patch-de-emergencia" >}}
 

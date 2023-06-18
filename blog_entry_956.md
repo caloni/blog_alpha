@@ -1,125 +1,91 @@
 ---
 categories:
 - coding
-date: '2016-01-12'
+date: '2016-01-11'
 tags:
 - ccpp
-title: Classe, objeto, contexto, método, polimorfismo
+title: Classe, objeto, contexto, método
 ---
 
-No [post anterior] implementamos "métodos" em C usando ponteiros de função dentro de structs que eram passadas como parâmetro. Tudo isso embutido por um compilador que gera o que chamamos de instância de uma classe, ou objeto, em C++. Isso é possível graças ao contexto que é passado para uma função (que no caso de C++ é o operador implícito __this__, que sempre existe dentro de um método não-estático).
+No [post anterior] falamos como a passagem de um endereço de uma struct consegue nos passar o contexto de um "objeto", seja em C (manualmente) ou em C++ (automagicamente pelo operador implícito __this__). Trocamos uma propriedade desse "objeto" em C, mas ainda não chamamos um método.
+
+Hoje faremos isso.
+
+Isso é relativamente simples quando se conhece ponteiros de função, existentes tanto em C quanto em C++. Ponteiros de função são tipos que contém endereço de uma função com assinatura específica (tipo de retorno e de argumentos). Através de um ponteiro de função é possível chamar uma função e passar alguns argumentos. Como o contexto nada mais é que um argumento, será só passá-lo como parâmetro.
 
 ```
-ClasseCpp obj;
-obj.Metodo(); // passando this implicitamente
-
-ClasseC obj;
-obj.Metodo = ClasseC_Metodo;
-obj.Metodo(&obj); // passando this explicitamente
-```
-
-Para objetos não-polimórficos, o C++ não precisa mudar essa tabela de funções que os objetos de uma classe contém. No entanto, quando há pelo menos um método virtual, surge a necessidade de se criar a famigerada __vtable__, ou seja, justamente uma tabela de ponteiros de função, que dependem da classe instanciada (base ou algumas das derivadas). Se uma classe derivada sobrescreve um método de alguma classe base, é o endereço desse método que irá existir na _vtable_. Já vimos isso [há muito tempo atrás] escovando os bits da vtable direto no assembly e na pilha.
-
-```
-#include <iostream>
-
-class MinhaClasse
+bool MinhaFuncao(int x, int y)
 {
-    public:
-        void MeuMetodo()
-        {
-            MeuOutroMetodo();
-        }
-        virtual void MeuOutroMetodo()
-        {
-            MinhaPropriedade = 42;
-        }
-        int MinhaPropriedade;
-};
-
-class MinhaClasseVersao75 : public MinhaClasse
-{
-    public:
-        virtual void MeuOutroMetodo()
-        {
-            MinhaPropriedade = 75;
-        }
-};
+	return x == y;
+}
 
 int main()
 {
-    MinhaClasse obj;
-    MinhaClasseVersao75 obj2;
-
-    obj.MeuMetodo();
-    obj2.MeuMetodo();
-
-    std::cout << "MinhaPropriedade (obj) = " << obj.MinhaPropriedade << std::endl;
-    std::cout << "MinhaPropriedade (obj2) = " << obj2.MinhaPropriedade << std::endl;
+	bool (*PMinhaFuncao)(int, int) = MinhaFuncao;
+	PMinhaFuncao(2, 3);
 }
 ```
 
-{{< image src="Ye5mA8L.png" caption="" >}}
+No exemplo anterior não sabíamos como chamar um método de nosso "objeto" em C:
 
-Como você deve imaginar, é possível também fazer isso em C. Basta mudar os endereços das variáveis do tipo ponteiro de função que estão na struct usada como contexto. Para ficar o mais próximo possível do "modo C++" de fazer polimorfirmo, podemos escrever _hardcoded_ a tal _vtable_ para os diferentes tipos de "classe":
+```
+struct MinhaClasse
+{
+    int MinhaPropriedade;
+};
+
+void MinhaClasse_MeuMetodo(MinhaClasse* pThis)
+{
+   pThis->MinhaPropriedade = 42;
+   ///@todo Chamar pThis->MeuOutroMetodo();
+}
+```
+
+Isso se torna fácil se tivermos uma nova "propriedade" na nossa struct que é um ponteiro para a função que queremos chamar.
 
 ```
 #include <stdio.h>
 
-struct MinhaVTable;
-
 struct MinhaClasse
 {
-	const MinhaVTable* VTable;
 	int MinhaPropriedade;
-};
-
-struct MinhaVTable
-{
 	void (*MeuMetodo)(MinhaClasse*);
 	void (*MeuOutroMetodo)(MinhaClasse*);
 };
 
 void MinhaClasse_MeuMetodo(MinhaClasse* pThis)
 {
-    pThis->VTable->MeuOutroMetodo(pThis);
+	pThis->MeuOutroMetodo(pThis);
 }
 
 void MinhaClasse_MeuOutroMetodo(MinhaClasse* pThis)
 {
-    pThis->MinhaPropriedade = 42;
+	pThis->MinhaPropriedade = 42;
 }
-
-void MinhaClasse_MeuOutroMetodoVersao75(MinhaClasse* pThis)
-{
-    pThis->MinhaPropriedade = 75;
-}
-
-static const MinhaVTable g_minhaVTableOriginal = { MinhaClasse_MeuMetodo, MinhaClasse_MeuOutroMetodo };
-
-static const MinhaVTable g_minhaVTableVersao75 = { MinhaClasse_MeuMetodo, MinhaClasse_MeuOutroMetodoVersao75 };
 
 int main()
 {
-	MinhaClasse obj = { &g_minhaVTableOriginal };
-	MinhaClasse obj2 = { &g_minhaVTableVersao75 };
+	MinhaClasse obj;
 
-	obj.VTable->MeuMetodo(&obj);
-	obj2.VTable->MeuMetodo(&obj2);
+	obj.MinhaPropriedade = 0;
 
-	printf("MinhaPropriedade (obj) = %d\n", obj.MinhaPropriedade);
-	printf("MinhaPropriedade (obj2) = %d\n", obj2.MinhaPropriedade);
+	// precisamos iniciar os "métodos" em C; em C++ é automágico
+	obj.MeuMetodo = MinhaClasse_MeuMetodo; 
+	obj.MeuOutroMetodo = MinhaClasse_MeuOutroMetodo;
+
+	obj.MeuMetodo(&obj);
+    printf("MinhaPropriedade = %d", obj.MinhaPropriedade);
 }
 ```
 
-{{< image src="tRAtU9d.png" caption="" >}}
+{{< image src="uzfJuTC.png" caption="" >}}
 
-A versão C ainda tem a vantagem de não precisar de uma vtable const (embora seja adequado em situações normais de temperatura e pressão). Os "métodos" poderiam mudar caso algum estado mudasse, alguma exceção fosse disparada, mantendo o mesmo contexto, mas um comportamento (vtable) diferente. Quem utiliza muito essa estratégia é o _kernel_ do Windows, que mexe com estruturas que contém não apenas listas ligadas genéricas, mas funções de _callback_ que não apenas o código da Microsoft precisa chamar, mas os próprios _drivers_ de terceiros que se preocupam com bom comportamento e _guidelines_ que tornam o SO rodando perfeitamente.
+{{< image src="JLJaAsB.png" caption="" >}}
 
-{{< image src="k20fqVJ.gif" caption="" >}}
+Parece muito trabalho para algo que é feito "automagicamente" em C++, certo? Certo. Porém, agora sabemos o que acontece por baixo dos panos em C++ e que pode ser feito em C (ainda que "na mão"). Você provavelmente nunca fará esse tipo de código em C para emular C++, mas o objetivo desse código é entender como funciona, por exemplo, a _vtable_ do C++, que permite polimorfismo.
 
-O importante deste artigo é demonstrar como conceitos aparentemente complicados ou escondidos de uma linguagem como C++ podem ser compreendidos completamente utilizando apenas linguagem de alto nível no bom e velho C. Essa estratégia de descer camadas de abstração, como verá, funciona para linguagens de mais alto nível, como C# ou Java, pois ambas são implementadas em linguagens como C++. No fundo, engenharia de software é um universo multi-camadas transitando pela última camada que conhecemos -- a física. Pelo menos a última camada que ainda conhecemos.
+Mas esse é assunto para [outro post].
 
-[post anterior]: {{< relref "classe-objeto-contexto-metodo" >}}
-[há muito tempo atrás]: {{< relref "vtable" >}}
+[post anterior]: {{< relref "classe-objeto-contexto" >}}
+[outro post]: {{< relref "classe-objeto-contexto-metodo-polimorfismo" >}}
 

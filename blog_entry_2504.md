@@ -2,15 +2,15 @@
 categories:
 - writting
 date: '2016-06-06'
-link: https://www.imdb.com/title/tt2382009
+link: https://www.imdb.com/title/tt1937390
 tags:
 - movies
-title: 'Ninfomaníaca: Volume 2'
+title: 'Ninfomaníaca: Volume 1'
 ---
 
-Podemos chamar Joe de vadia, vulgar ou de qualquer outro adjetivo que achemos o pior em uma pessoa. No entanto, uma coisa que Lars von Trier te impede de fazer durante todas as seis horas de projeção de Ninfomaníaca é permitir que, do topo de nossa suposta moral, a chamemos de vítima. E é isso que autentica essa personagem como uma dura crítica ao nosso modo de pensar a respeito de sexo e da relação entre seus praticantes. Joe, interpretada de maneira dura e auto-reflexiva pela impassível Charlotte Gainsbourg, é que pode, do topo de sua experiência no assunto, julgar a hipocrisia humana.
+Antes mesmo de ser anunciado, a ideia de um filme sobre uma ninfomaníaca dirigido pelo pessimista Lars von Trier (Dogville, Melancolia, Dançando no Escuro) já fazia todo o sentido: experimentando uma vida vazia de significado, mas cheia de sexo por todos os lados, a história de Joe (Charlotte Gainsbourg) atravessa todos os períodos da sua vida e aparentemente não há qualquer resquício nela de prazer, paixão ou saudade. Tendo que ser dividido em volumes por causa de sua longa duração, a experiência ainda recebe toques metalinguísticos, pois "Ninfomaníaca, Volume I" é uma experiência tão incompleta e inacabada quanto a sintomática personagem, vivida por Charlotte Gainsbourg de maneira amargurada ao calcular todo o mal que já fez para o mundo.
 
-O segundo e último volume lançado aqui no Brasil, não sei por que um filme como esse teria um viés comercial na cabeça desses distribuidores, mas enfim..., perde um pouco sua introdução quase cômica para começar a pesar as decisões de Joe acerca de sua vida. Nem as divertidas analogias de seu ouvinte fazem mais efeito, senão o de nos fazer lembrar que Von Trier enquanto narra analisa seu próprio processo, o que poderia ter o prejuízo de nos fazer sair do filme se não fosse a câmera documental e as transições que fluem sem pudor entre diálogos e "ação" (além de já nos acostumarmos com essa dinâmica).
+Por outro lado, o lado mais inesperado do filme é seu humor, e me admirei por estar rindo em um filme desse diretor. Conseguindo equilibrar a narrativa através de episódios bem definidos e tendo como interlocutor um homem culto (Stellan Skarsgård) e dotado de conhecimentos dos mais diversos que permitem que ele faça inúmeras analogias entre sexo e atividades aparentemente sem relação (como pescaria), o roteiro, também assinado por von Trier, pula entre períodos da vida de Joe com extrema facilidade e leveza, tornando a nossa percepção de sua vida menos impactante do que poderíamos esperar.
 
-No primeiro texto sobre o primeiro volume havia dito que um projeto como esse fazia todo o sentido para o diretor pessimista que é Von Trier, que olha o mundo pela ótica de alguém que não tem pudores de dizer qualquer coisa. Vemos isso claramente nas discussões políticas e sociais dessa parte final, e me agrada em muito a visão de Joe pela doença atual do politicamente correto, onde para muitos poderia ser chocante. A vida não te ensina que colocar rótulos mais leves no que as pessoas são torna a vida mais leve. Ninfomaníaca, já em seu próprio título, nos ensina isso pelo óbvio: o sexo não deixa de ser sexo porque é mostrado pela nossa sociedade como algo deturpado e digno de culpa. O sexo apenas é. Joe me ensinou isso. E, sim: ela é uma ninfomaníaca.
+No entanto, isso são apenas conjecturas de um trabalho ainda a ser apreciado em sua plenitude. Não sabemos se o futuro de Joe nos reserva mais luzes ou trevas. Tudo que sabemos é que ela foi encontrada inerte e machucada no chão duro do inverno. Se haverá ou não primavera, essa é uma surpresa que aguardo ansiosamente.
 

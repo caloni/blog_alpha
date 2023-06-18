@@ -1,27 +1,22 @@
 ---
 categories:
 - writting
-date: '2016-07-31'
-link: https://www.imdb.com/title/tt3691740
+date: '2016-02-09'
+link: https://www.imdb.com/title/tt1979388
 tags:
-- cinemaqui
 - movies
-title: O Bom Gigante Amigo
+title: O Bom Dinossauro
 ---
 
-O Bom Gigante Amigo é um filme de criança baseado em um livro para crianças. Produzido pela Disney e dirigido por Steven Spielberg, deveria ser o ápice da pureza e inocência, mas traz uma forte carga política em sua mensagem, acidental ou não. Pode ser impressão de uma história fraca e sem muito sentido, mas só por sugerir uma relação entre sua lúdica história e a história da Europa contemporânea é digno de nota.
+É uma satisfação ver que a Pixar continua com sua vontade de arriscar de vez em quando, e possivelmente possui os desenhistas mais ambiciosos do mercado. O Bom Dinossauro é um trabalho estético e artístico admirável, que causa estranheza em alguns momentos, mas em outros faz valer totalmente a pena.
 
-A história começa com a pequena Sofia (Ruby Barnhill), uma menina que mora em um orfanato em Londres e tem insônia. Em uma das noites que era a única acordada, viu um velhinho agigantado, da altura de um prédio de três andares, da janela de seu quarto coletivo. Ele a sequestra para que ela não espalhe sua existência, e a leva para a Terra dos Gigantes, onde descobre que, além de bonzinho e vegetariano, ele está cercado de outros gigantes, maiores, malvados e carnívoros (ou canibais, se você considerar que seres humanos são parentes de gigantes).
+Contando uma história simples, onde há 65 milhões de anos um asteróide NÃO bateu em nosso planeta, aqui os dinossauros falam e são agricultores pacatos, e os "humanos" ou humanoides ainda são criaturas primitivas que andam nas quatro "patas". Um dos dinossauros, Arlo (Jack McGraw/Raymond Ochoa), nasceu diferente, com suas pernas bambas, e não consegue ajudar muito a família, pois tem medo até das galinhas que alimenta todos os dias. Ao perder seu pai, as coisas pioram na fazenda, e ao se perder, pioram ainda mais. É quando ele conhece Spot (Jack Bright), um garoto humano que vira seu mascote de estimação.
 
-Concebido como uma fábula infantil pelo livro de Roald Dahl, é fascinante observar a perfeição estética das rugas, das feições, dos cabelos e dos movimentos do gigante-herói, apelidado de BGA (Bom Gigante Amigo). A fotografia de Janusz Kaminski, colaborador habitual de Spielberg, denota um amarelo que soa onírico, com direito de aprimorar as texturas da direção de arte que deixam o aspecto do filme muito próximo de um livro ilustrado. Tanto a Terra dos Gigantes quanto Londres conseguem fazer parte do cenário que abriga este ser maravilhoso sem soar deslocado.
+Apresentando diferentes cenários, personagens e situações em uma espécie de "road-movie" exótico, o roteiro simples desenvolvido por sete pessoas praticamente não exige diálogos, embora eles estejam lá para os espectadores mais jovens, e para mostrar a inversão dos valores, quando os dinossauros são mais evoluídos que os humanos. E como um Avatar para crianças, apresenta diferentes espécies que juntas formam um mosaico pré-histórico regado com músicas de country (parece que os idealizadores do projeto também comeram da frutinha que gera alucinações).
 
-Para melhorar ainda mais a aproximação com contos infantis, a dublagem de Mark Rylance (Ponte dos Espiões), que faz o Gigante Amigo, embola sua voz e faz os erros de fala da criatura ritmar com seus movimentos lentos e desajeitados, algo que se perde na legenda em português, que floreia demais o vocabulário do gigante, e a própria dublagem do áudio no Brasil, que desmerece todo o cuidado empregado pelo ator. Ruby Barnhill, por sua vez, tem pouco a acrescentar a Sofia, que é uma criança genérica quase sem nenhum passado ou particularidade.
+No entanto, nem tudo é inovação. Se inspirando levemente em O Rei Leão, o uso mais uma vez de um trio de abutres, quer dizer, pterodátilos, soa repetitivo demais, e até desnecessário. No entanto, a participação especial de três "T-Rexes" é um ponto alto, além do próprio cenário contribuir para o maravilhamento espontâneo que surge ao observar uma natureza tão real que chega a parecer real (se não for).
 
-O que nos leva ao pior do filme: sua história. Iniciando com relativo interesse, o roteiro de Melissa Mathison (E.T. - O Extraterrestre) não consegue ganhar força em nenhum momento, pois se limita a descrever aquele mundo como um passeio quase que inofensivo a um dos parques da Disney (se há algum perigo ele é meticulosamente planejado). Quando é necessária alguma ação, ela acontece pelos motivos errados. Só para citar o erro mais óbvio da trama: se para BGA a motivação em sequestrar Sofia era nunca ser visto, isso vai por água abaixo por muito pouco, já que nunca compramos a automática relação de amizade e confiança entre os dois. A não ser, é claro, que apenas o fato de usar as mesmas roupas de um antigo amigo do gigante (possivelmente a criança do livro original) seja prova de autenticidade. Paradoxalmente se torna exatamente o contrário.
+Outros detalhes, mas esses incomodam um pouco, é a escolha pitoresca de uma cobra com patas cuidando de um fruto inacessível, além de uma outra família de humanos que difere a ponto de parecer outra espécie, mas nem tanto. A impressão que fica é que por algum motivo os produtores são tentados a não ofender alguns religiosos, sem coragem também para assumir esse "bem bolado", onde evolução e criação dão as mãos.
 
-E se a trama principal soa preguiçosa e deselegante -- principalmente por ensinar às crianças que mentir para conseguir o uso da força ao seu favor é OK -- os detalhes são igualmente jogados à conveniência do roteiro. Em dado momento, aprendemos como os sonhos são armazenados por BGA; em outro, magicamente e garota já sabe que é possível combinar diferentes sonhos. Isso sem contar o completo disparate de um quadro da rainha da Inglaterra ser o suficiente para mobilizar toda uma cadeia de ideias.
-
-Porém, o pior mesmo é a "solução" apresentada pelo filme para os gigantes maus e selvagens. Mesmo vivendo na Terra de Gigantes e nunca haver qualquer menção de que eles atacariam Londres, apenas o risco de fazê-lo desencadeia um poderio militar que invade a terra mágica e define o destino daquelas criaturas para sempre. Não é possível saber com certeza se isso tem pouco ou muito a ver com a crescente onda xenofóbica na Europa decorrende da imigração desenfreada, mas fica difícil não relacionar dois atos insensatos relacionados com um povo estranho e "selvagem".
-
-Sem conseguir contar qualquer história, mas ao mesmo tempo conseguindo entreter crianças e adultos pela simples arte de contar acontecimentos, O Bom Gigante Amigo é um filme de crianças que serve para adultos com mente de criança. Isso não seria preocupante se fosse uma péssima educação para os pequeninos, que aprendem desde já a resolver seus conflitos no punho.
+Entregando uma conclusão satisfatória, com mais um momento Disney de fazer chorar (mas esse plenamente justificado), O Bom Dinossauro erra em pouquíssimos pontos e acerta na média. Uma diversão não tão boa para crianças pequenas, mas interessante para jovens e imperdível para adultos mais curiosos.
 

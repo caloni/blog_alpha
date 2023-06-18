@@ -1,11 +1,12 @@
 ---
 categories:
 - writting
-date: '2016-12-12'
+date: '2021-01-14'
+link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-santa-helena/
 tags:
-- food
-title: Santa Julia Malbec 2015
+- coffee
+title: Santa Helena Alfenas
 ---
 
-Quente, frutas maduras com acidez gritante.
+Café que chegou esse mês do Grão Gourmet possui tanino equilibrado e tons semi-cítricos. Pouco amargo, levemente doce.
 

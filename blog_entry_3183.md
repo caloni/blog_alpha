@@ -1,18 +1,17 @@
 ---
-categories:
-- writting
-date: '2011-09-21'
-link: https://www.imdb.com/title/tt1440161
-tags:
-- movies
-title: Pronta Para Amar
+categories: []
+date: '2018-03-21'
+tags: null
+title: Projeto Aluno
 ---
 
-Nessa simpática comédia romântica que tenta fugir de vários clichês (não só do seu gênero), Kate Hudson encarna Marley, uma garota que teme relacionamentos mais que a morte (embora seja adepta do sexo casual), mas ao ser confrontada com esta ao descobrir ter um câncer incurável, resolve mudar radicalmente sua forma de viver, aproximando seus entes queridos, evitando encarar sua doença com seriedade e, quem sabe, conseguir um relacionamento com seu próprio médico.
+Observar um estudante de computação (qualquer curso) lutando nos primeiros meses para conseguir fazer seus programas compilarem em C é um misto de emoções. É uma mistura entre risos, risadas e gargalhadas. Há vários motivos para isso, mas o principal, o que vem à minha mente sempre que isso acontece, é a eterna questão: por que a pessoa encontra fórum de programação para perguntar sobre variável mas não consegue ler duas páginas de um livro?
 
-Marley desde o início é uma garota alegre e segura de suas escolhas. O que mais impressiona durante a história, no entanto, é sua tentativa em abandonar os velhos clichês que já fazem parte do tema pessoa com câncer a não-sei-quantos filmes. Existem, sim, os momentos dramáticos, mas eles estão inseridos na própria psique da personagem e soam muito mais naturais do que se fossem martelados constantemente a cada fade-out de cena. O que ocorre é o exato oposto: vemos Marley aproveitar cada segundo de sua existência, seja ele mau ou bom.
+Essa questão está intrinsicamente ligada ao fracasso completo do sistema de ensino (qualquer nível), que no caso de programadores, se proliferou em diversas faculdades caça-níqueis porque "este é o mercado onde se ganha bem". Ninguém questiona por que se ganha bem neste mercado. É só fazer uma faculdade e o dinheiro começa a fluir. Negócio certo.
 
-A diretora Nicole Kassell (O Lenhador) e o montador Stephen Rotter parecem compreender esse princípio, e seguindo a própria lógica do roteiro de Gren Wells, evita criar conflitos ou reviravoltas na própria narrativa, preferindo enfocar o relacionamento entre os personagens, que soam mais natural a cada cena salpicada com a ótima seleção de músicas, que evocam tanto a origem sulista da personagem quanto o próprio sentimento de amar como sinônimo de viver. A maior prova disso são as câmeras giratórias e os zooms aplicados quase sempre, em um ritmo agradável, que ajude o espectador a entender a importância de cada momento para Marley.
+Mas quando a primeira variável começa a dar problema, o desespero bate na bunda. "Por que esse programa não está funcionando?", "Eu só queria resolver isso e voltar pra internet", "Que droga, chegou a data limite e não sei de quem posso copiar", "Por que esse exemplo que peguei sei-lá-de-onde está dando esse erro que nunca vi na vida?".
 
-Portanto, para que tudo isso funcione, é primordial a química que ocorre no elenco, uniformemente competente, mas com pequeno destaque para a sempre ótima Kathy Bates, que aqui vive a mãe da personagem com tamanho afinco que ficamos um pouco na dúvida se ela é de verdade a mãe de Kate Hudson. A maior prova de tamanha dedicação no elenco é a conclusão da história, arrebatadora pela sua própria história, mas emocionante não apenas pela situação em si, mas por entendermos o que Marley representa para cada pessoa em sua vida. E apenas o fato de as encararmos como pessoas de carne e osso é mérito de um filme que comprova que não apenas a originalidade gera bons momentos no cinema.
+"O que é UB? Universidade do Brasil?", "Tá ficando mais complicado ainda; vou pesquisar pra ver se acho o email desse tal de Goku.", "Já sei, vou mudar de IDE! Isso, sim, vai resolver meu problema."
+
+"Ah, não. Textão ninguém aguenta!", "TL;DR".
 

@@ -1,20 +1,21 @@
 ---
 categories:
 - writting
-date: '2014-04-06'
-link: https://www.imdb.com/title/tt1483013
+date: '2022-10-17T19:50:12-03:00'
 tags:
+- cinemaqui
+- mostra
 - movies
-title: Oblivion
+title: Objetos de Luz
 ---
 
-Oblivion consegue a proeza de citar diversas obras de ficção científica memoráveis e ainda assim ficar muito longe dos resultados que as mesmas obras tiveram em suas épocas. Talvez o maior problema seja Tom Cruise, que desde muito tempo vem repetindo suas performances e evitando que uma trama até que interessante ganhe frutos, um toque de Midas ao contrário que chega a rivalizar com Will Smith.
+Filmes bons de 4 horas de duração podem ser curtos demais. Porém, Objetos de Luz, com sua pouco mas de uma hora, é longo demais. E depois de cinco minutos de projeção ele já dá poderes a qualquer espectador itinerante de rotulá-lo com muita propriedade como um porre descomunal.
 
-A história se passa mais de 60 anos no futuro, quando após em embate planetário com uma raça alienígena de saqueadores, "mas ganhamos a guerra", como gosta de repetir Jack, personagem de Cruise, a Lua foi destruída e com ela metade da vida na Terra, que além disso se contaminou com a radiação das bombas atômicas que foram necessárias para "ganhar a guerra". De mudança para Titã, um dos satélites de Saturno e que de fato se apresenta como uma das alternativas mais viáveis de moradia para um futuro distante, a espécie humana ainda precisa de água, e é por isso que Jack precisa resguardar com a ajuda de seus drones e sua esposa (Andrea Riseborough) um equipamento gigantesco que suga os oceanos. Uma operação diária de rotina é orquestrada por uma estação espacial triangular que enfeita o horizonte fantástico desse futuro distópico.
+Esta é uma reflexão sobre a luz (trocadilho proposital) trazida por um diretor de fotografia, Acácio de Almeida (do filme Raiva, entre dezenas), auxiliado pela atriz Marie Carré. O filme é movido a recortes de outros filmes, montagens com imagens do espaço e suas infinitas estrelas, trilha sonora constante e narrações em off para dar uma perspectiva do assunto. Há infinitos artifícios narrativos menos a própria protagonista: a luz.
 
-E por falar em horizonte, essa é uma das maiores virtudes de Oblivion. Cercado de terrenos completamente desertos e visivelmente alterados pelos acontecimentos do último século, os desenhos da equipe de produção são primorosos, além de nunca nos cansarmos de olhar para o céu ou as curiosas construções em torno deste. Infelizmente não se pode dizer o mesmo do acompanhamento sonoro, que é repleto de trilhas clichês e inconvenientes em boa parte da produção.
+É como se participássemos daquelas salas temáticas de arte moderna, mas no lugar da obra há um auxílio sonoro e recortes de jornal espalhados no recinto. Imagine essa galeria. Está escrito em um letreiro bem grande lá fora: LUZ. E dentro há depoimentos, textos a respeito, recortes de jornal. E tudo isso disponível em uma sala escura.
 
-Jack é um homem treinado para proteger a Terra, mas parece incapaz de enxergar o perigo em sua volta, pois quase morre em diversos momentos da história por puro descuido. É um homem curioso e é assombrado por lembranças cinzentas de uma mulher (Olga Kurylenko, de Quantum of Solace) que não faz parte do seu passado. Aliás, nunca sabemos do passado de Jack ou de sua mulher, nem o que fez com que marido e esposa fizessem parte do mesmo projeto. No entanto, sabemos que ainda existem sobreviventes de outra raça rondando o planeta, e qualquer cuidado é pouco (mais um motivo para criticar a postura do mocinho).
+É mais ou menos assim que você irá se sentir a bordo desta jornada em direção a coisa nenhuma. Uma ode à ignorância, talvez? A narração indica que sim. O texto faz analogias com DNA e fótons e ao mesmo tempo usa rimas de recursão, como "um filme aprisiona a luz e outra luz depois é necessária para libertá-la". Tudo isso é dito sem nenhuma vergonha. Pelo contrário. Há um certo orgulho e até um tom de grandiosidade. É como se Michael Bay, aquele diretor de filmes de explosões aleatórias, tivesse virado um minimalista e abraçado a arte moderna. Este seria um filme assinado por ele nessa sua nova era.
 
-O resto da história segue um plágio (na melhor das intenções, espero) mais ou menos bem definido entre O Vingador do Futuro, Wall-E, 2001, Planeta dos Macacos e continuações. Por não conseguir definir sua própria personalidade, o filme é sabotado em sua narrativa, que simplesmente acompanha o protagonista para o previsível embate, pelo qual nunca tememos (afinal de contas, é o Tom Cruise ali!).
+Breve graças a Deus, assista a Objetos de Luz nesta Mostra de SP quando só tiver uma hora e meia entre sessões que realmente tentam fazer algo pelo cinema. Se sobrar mais tempo depois você me diz aqui nos comentários o que achou de toda essa bobagem pretensiosa.
 

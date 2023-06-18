@@ -1,20 +1,30 @@
 ---
 categories:
 - writting
-date: '2015-01-17'
-link: https://www.imdb.com/title/tt1972571
+date: '2016-07-29'
+link: https://www.imdb.com/title/tt3715320
 tags:
 - movies
-title: O Homem Mais Procurado
+title: O Homem Irracional
 ---
 
-O Homem Mais Procurado é um daqueles filmes que tenta te manter quase que completamente atento apenas pelo poder de persuasão de seu protagonista. Para sorte do diretor Anton Corbijn (Um Homem Misterioso), o intérprete Philip Seymour Hoffman, apesar de ter ido jovem, foi um dos grandes de sua geração, e constrói mais uma vez um personagem, se não multidimensional, crível naquele esquema de espionagem pós-atentados 11/9.
+O ritmo atual de Woody Allen em escrever e dirigir um filme por ano simplifica seus trabalhos, mas exatamente por isso permite-nos enxergar de maneira mais específica os assuntos que ele sempre deseja tratar. E no caso de O Homem Irracional, onde o protagonista é um professor de filosofia, o que tinha tudo para ser um tratado mais espesso e complexo sobre a natureza humana se transforma em um exercício leve e simples de entender.
 
-Estamos na Alemanha, e o objetivo de Günther Bachmann é manter o mundo mais seguro, mesmo que isso envolva ir contra os princípios malucos dos governantes da época, que inclui matar e torturar o maior número de prisioneiros, terroristas ou até mesmo suspeitos de serem ou financiarem o terrorismo. Eles estão governando para o povo paranoico ou eles mesmos são a paranoia? É uma questão interessante, mas que não é abordada aqui.
+O que não quer dizer que se trata de um trabalho simples de interpretar. Afinal, estamos falando de Woody Allen falando sobre filosofia. De qualquer forma, arrisco dizer que este Woody Allen é uma versão tão impotente quanto seu personagem-chave.
 
-O que temos aqui é mais um O Espião que Sabia Demais mais fácil de digerir, embora com o mesmo nível de detalhes do que é uma operação de espionagem bem feita. Temos poucos diálogos quando estamos na ação das ruas, porque o editor Claire Simpson (O Leitor) sabe como conduzir um ritmo que exige paciência, mas que sempre te entrega algo. Ao mesmo tempo, Corbijn consegue escolher os melhores ângulos para que a onipresença de Bachmann e seus "comparsas" não seja percebido pelos seus alvos, ainda que esteja óbvio para nós, espectadores.
+De qualquer forma, sem querer entrar em detalhes de qualquer teoria específica sobre vida, morte e tudo mais, acompanhamos a vinda de Abe (Joaquin Phoenix) a uma nova escola onde irá lecionar. Tendo um passado traumático em diferentes aspectos de sua vida, e tendo tentado inutilmente fazer alguma diferença prática em melhorar o mundo se envolvendo em diferentes formas de militância e caridade, sua frustração tem aumentado no nível em que viver não o traz mais significado, e portanto realiza suas aulas e sua rotina de uma maneira mais automática e passiva possível.
 
-Infelizmente, os personagens são limitados, e até o homem mais procurado do título fornece poucas pistas sobre sua personalidade. Mesmo Bachmann, obviamente com um passado que o deixou amargurado e fumando como uma chaminé, nunca consegue soar mais interessante que seus momentos introvertidos. Sequer sabemos como funciona sua profissão (apenas que eles "não deveriam existir", como uma C.I.A. europeia). Ao mesmo tempo, figuras como uma advogada idealista (Rachel McAdams) são monótonas se limitam-se a andar de bicicleta e querer ajudar a "ponta mais fraca".
+Abe é um homem que tem todos os motivos para ser impotente, sexualmente falando. O que de fato é. E isso acaba frustrando duas mulheres que ele conhece: uma professora e uma aluna, Jill (Emma Stone). No começo, pelas fofocas de mulherengo a respeito de Abe e sua irreverência em beber o dia inteiro, acreditamos que sua insistência em se fazer de inocente é só um charme para conseguir mulheres mais facilmente. No entanto, aos poucos a persona criada por 	Joaquin Phoenix consegue convencer-nos de uma profunda insatisfação com a vida prática de alguém que tentou através dos livros trazer algum significado.
 
-Em suma, a narrativa eficiente de "A Most Wanted" é a sua maior virtude junto da atuação de Hoffman, mas nem isso garante um trabalho memorável, pois seus personagens estereotipados dificilmente causam qualquer comoção ou estão ligados de alguma forma aos eventos que participam. No entanto, sua conclusão pessimista, apesar de provavelmente causar o ódio da maioria da plateia, tem sua força na mensagem final de que, por mais que quisermos a liberdade de fazer bem o nosso trabalho, sempre teremos burocratas agindo pelo bem da imagem governamental, seja lá o que for que isso signifique.
+E, de certa forma, há motivos suficientes para acreditar que suas ideias, ditas originais, a respeito dos autores que discute em sala de aula -- ou apenas descreve -- não são mais originais que um comercial de sabão em pó. A forma utilizada por Abe encanta as meninas, mas o conteúdo está quebrado. Essa ambiguidade, proposital ou não, torna a experiência de tentar descobrir um exercício intelectual que não precisa de bagagem intelectual. O que é ótimo para um público leigo.
+
+Porém, o que ocorre depois pode dar um nó no parafuso dos mais aficionados a questões morais. Acreditando ter descoberto uma maneira de finalmente melhorar o mundo na prática, Abe decide que é necessário cometer um assassinato. Ao desenvolver o tema, e seus inevitáveis desdobramentos a posteriori, a simples questão de dar à vida um significado ganha diferentes tons que apenas realizadores como Allen teria a audácia de abordar.
+
+De qualquer forma, como disse, o filme é um dos trabalhos mais impotentes do diretor, e embora envolto em ideias fascinantes, o roteiro também está recheado de pistas simples do que está acontecendo, e reviravoltas já conhecidas de fãs do diretor. Para dar um exemplo, qualquer espectador de Match Point se sentiria milhas à frente dos personagens deste filme.
+
+Sem ter muito como reinventar a roda, revemos um exemplar de Crime e Castigo em cena -- o livro do autor russo Fyodor Dostoyevsky já usado em Match Point -- e mais sobre o caos, a sorte e o revés. Porém, dessa vez, os motivos do filme são apenas esses, sem a profundidade da questão social que Match Point coloca. Se na obra-prima de Allen sobre o acaso acreditamos de fato estar lidando com forças incompreensíveis, agora somos conhecedores desse universo do autor, que é o mesmo, e acompanhar desdobramento semelhante se torna tão fascinante quanto enfadonho.
+
+Conseguindo representar um exercício verborrágico sobre filosofia sem precisar inundar de detalhes o espectador desavisado, mas ainda assim atingir a ineficiência da teoria em um filme que fala sobre agir, O Homem Irracional se transforma em um dos filmes mais frustrantes da carreira recente do diretor, mas justamente por isso um dos mais interessantes de acompanhar.
+
+Afinal, se frustrar com labirintos mentais é o que a filosofia faz de melhor. E Woody Allen é filosofia na sétima arte.
 

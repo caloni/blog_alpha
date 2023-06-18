@@ -1,13 +1,19 @@
 ---
 categories:
 - writting
-date: '2022-01-24T23:24:07-03:00'
+date: '2021-02-19'
+link: https://www.imdb.com/title/tt6142628
 tags:
-- movies
-title: The House
+- animes
+- series
+title: The Great Passage (Fune Wo Amu)
 ---
 
-Que animação stop motion bem feita. As cores e a direção de arte são exemplares, mas é no movimento e nas expressões dos personagens que a série temática de três curtas brilha. E sua dublagem britânica é competente e charmosa, mas se sobressai na última história com a protagonista.
+Um anime sobre dicionários. Esse é o nível de riqueza dos assuntos das animações japonesas.
 
-O tema é sobre casas e a relação de posse com seus habitantes. São histórias que você pode pensar que há um subtexto, mas acaba se revelando apenas o que estamos vendo na tela. Parecido com Coraline, onde a mensagem se torna mais poderosa por não se diluir em alegorias.
+Não só isso, mas a riqueza de detalhes também. Esta animação possui traços de cenário que nos faz prestar atenção além do esperado nas imperfeições de uma parede ou um móvel de madeira. Como os sinais de envelhecimento de uma casa onde um jovem introvertido mora com sua idosa e simpática senhoria.
+
+Ele descobre que nasceu para fazer dicionários e entra em um novo projeto para fazer um, estimado em dez anos de trabalho. Detalhes são compartilhados com o espectador como algo fascinante.
+
+E de fato é. O uso das palavras assume dimensões sagradas em uma história apaixonante.
 

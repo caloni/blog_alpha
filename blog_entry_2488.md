@@ -1,12 +1,11 @@
 ---
 categories:
 - writting
-date: '2021-05-15'
-link: https://www.imdb.com/title/tt11653472
+date: '2017-08-20'
 tags:
-- animes
-title: Neko Neko Nihonshi
+- food
+title: Nederburg 1791 Cabernet Sauvignon 2016
 ---
 
-História do Japão feudal com gatos. É divertidinho e criativo. Notas positivas para a viagem de boas vindas entre líderes, quando os gatos comem toda a  comida de presente, mas sobra o saco. E gatos adoram saco. Só não sabem o que fazer com o ouro. Divertido com vários níveis infanto-adulto.
+Corpo leve, Cabernet bem comum; um pouco azedo, nada tânico. Lasanha na casa de Dona Neusa em casa cheia.
 

@@ -1,22 +1,24 @@
 ---
 categories:
 - writting
-date: '2015-10-02'
-link: https://www.imdb.com/title/tt1571222
+date: '2010-08-27'
+link: https://www.imdb.com/title/tt0125439
 tags:
 - movies
-title: Um Método Perigoso
+title: Um Lugar Chamado Notting Hill
 ---
 
-Cronenberg, um diretor geralmente fascinante (Terapia de Risco), por algum motivo, dirigiu um filme burocrático que conta a história de amizade entre Sigmund Freud (Viggo Mortensen) e Carl Jung (Michael Fassbender) como um documentário da BBC. No meio envolve a russa judia Sabina Spielrein (Keira Knightley), de paciente para amante e posteriormente médica.
+Esta é uma história estilo conto de fadas, em que uma famosa atriz, inalcançável pela maioria dos mortais, acaba visitando um pequeno bairro de Londres (o Notting Hill do título) e conhece o dono de uma loja de livros de viagem (e é curioso que provavelmente ela deve ter viajado para muitos dos lugares descritos nos livros de suas estantes) e vivem um inusitado romance.
 
-As partes interessantes é que não havia antes restrições quanto a tratar conhecidos (como Jung utiliza sua esposa em uma sessão de terapia), mas já há a noção de transferência (quando o paciente transfere sua identidade para seu médido, e acaba se tornando vulnerável).
+Como eu disse, é uma história não-verossímil, e tanto a direção de arte quanto a fotografia sabem disso. Escolhendo um bairro bucólico da fria Londres, os ambientes parecem cinematográficos por natureza. Apostando em uma luminosidade mais clara que de costume o filme remete a um sonho, onde tudo é mais claro, mas ao mesmo tempo mais confuso (note a explosão de cores na feira e o quão agitadas são as ruas).
 
-Com exceção da curiosa participação de Vincent Cassel como o controverso psicólogo Otto Gross, todo o elenco está devidamente alinhado com os objetivos do diretor: contar uma história envolvendo figuras famosas da psicologia, e talvez por isso mesmo envolvê-los em uma redoma de vidro, evitando retirar a aura de pensadores profundos. Não é possível retirar nada da personalidade de ambos durante todo o filme. São apenas estátuas repetindo diálogos e situações conhecidas. Sabemos de toda a história envolvendo os dois antes do filme começar, e nada muda. Se você nunca soube, poderia ter lido 10 minutos de Wikipédia.
+Os atores são conhecidíssimos, e isso por um lado favorece Julia Roberts e por outro nem tanto Hugh Grant, que é a contraparte que teoricamente é a cara anônima no meio da multidão. Talvez por isso a atuação da primeira soe tão convincente (ela tem que interpretar ela mesma) e a dele, que poderia ser um fracasso, mantém-se bem colocada, até porque estamos falando de uma narrativa mais ilusória do que de costume nas comédias românticas, e isso é demonstrado tanto pelos elementos exagerados nos personagens secundários (como seu amigo estúpido) quanto alguns diálogos que exercem a função de estabelecer aquele acontecimento como "surreal, mas agradável".
 
-Ainda assim, Keira Knightley na primeira metade do filme dá um show de contorcionismo, fazendo caras e bocas que prometem. De fato, é a personagem mais interessante do começo ao fim, mas também fica envolta em um véu de invulnerabilidade, apesar de ser a persona mais vulnerável de todas.
+Se por um lado a história é incrível demais para ser verdade, ela é levada como algo factível, com todas as nuances que uma história assim teria se fosse real. Dessa forma podemos acompanhar o jantar de aniversário da irmã caçula de Grant de forma bem confortável, pois enxergamos perfeitamente a situação daqueles mortais tentando soar autênticos no meio da musa do cinema.
 
-A grande questão da divergência entre Freud e Jung ou vira um caso de novela ou é abordado de maneira tão superficial, e as trocas de cartas é tão infrutífera, que fica difícil de fato se importar se um prefere usar sexo para tudo e outro prefere búzios jogados ao vento.
+Alguns detalhes da vida de atriz fazem sentido, como o momento em que o personagem de Grant, no meio de uma coletiva da imprensa após a exibição de um filme, ele tem que fingir ser um repórter de uma revista enquanto o empresário da personagem de Roberts circula pela mesma sala onde conversam.
 
-Com efeitos visuais por computador que geram a estranheza de irrealidade, uma direção de arte simplesmente higienizada, uma trilha sonora repetitiva e monótona -- melhor o silêncio, na maior parte do tempo -- Um Método Perigoso está nos dizendo em seu título sobre essa forma de dirigir filmes, pois pode causar uma cura involuntária de insônia. Ou morte por monotonia.
+Com algumas reviravoltas a mais, a narrativa estabelece de forma competente o aumento na intimidade de ambos conforme a história avança, e a própria evolução do tempo é bem estruturada, muitas vezes demonstrada visualmente de forma tão econômica quanto na sequência da passagem de um ano como uma caminhada na rua da feira que "tem todos os dias" (e note que a moça grávida do início dessa cena aparece no final carregando seu filho, ou como o casal que está junto briga no meio da caminhada).
+
+E se é crível a antipatia e praticidade demonstrada pela protagonista quando descobre que seu esconderijo foi profanado por uma penca de fotógrafos sedentos por escândalo, alterando totalmente seu comportamento com seu afeto, é tocante a cena em que ela tenta reatar o relacionamento se colocando não mais como uma atriz que deve defender sua imagem perante as câmeras, mas uma simples garota que deseja que alguém a ame.
 

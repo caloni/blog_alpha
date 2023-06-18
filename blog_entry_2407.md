@@ -1,27 +1,35 @@
 ---
 categories:
 - writting
-date: '2023-01-25T09:51:10-03:00'
+date: '2023-01-23T17:09:11-03:00'
 tags:
 - cinemaqui
 - mostratiradentes
 - movies
-title: Mostra Panorama Série 3
+title: Mostra Panorama Série 1
 ---
 
-Onde a gente se encontra, de Talita Virginia
+O vampiro que pensa vozes, de Paulinho Sacramento
 
-A proposta é discutir a radicalização das opiniões entre a própria diretora do filme e seu pai, um bolsonarista e provável desafeto de toda a Mostra Tiradentes. O resultado são recortes piores do que a realidade que se observa ao vivo e a cores na rede. Contemporâneo, perde fácil para a simples navegação do espectador pela superfície das redes sociais citadas (nem precisa ir tão fundo). Nesta narrativa fica óbvio que é muito difícil monopolizar o discurso no cinema quando até os canais oficiais de imprensa sofrem para continuar a ter o direito de usar o único chapéu dos que dizem a verdade.
+Paulinho Sacramento vem em resgate do falecido José Mojica Marins, o Zé do Caixão, e apresenta um vampiro trash muito ruim e muito pertinente na dramaturgia do lixão. Ele é o que o título diz que ele é. Ele faz terapia. Ele tenta destruir Bolsonaro com um teaser apontado para a TV. Ele é a síntese do ser politizado desse nosso Brasil antifascista antirascista e antitaxista. O curta é engraçadíssimo em alguns momentos. Em outros ele é apenas ruim, o que não deixa de ser bom. Se há algum curta que merece um longa, este é o cara. À Meia Noite levarei seus cinco reais. Esse seria o preço da sessão.
 
-Soberane, de Wara
+Espectro Restauración, de Felippe Mussel
 
-Este singelo e competente estudo de personagem brinca por um momento com o jogo de cores em um mundo preto e branco que demonstra potência sem aplicação. A heroína ainda está decidindo o que será dela neste novo planeta habitável que é Cuba. Ela veio do Brasil. Até que chega uma pandemia e põe tudo a perder. E sentimos a dor de ter que retornar e admitir que a pessoa que terá que voltar é outra. Sensível sem precisar de diálogos expositivos. Potente apenas com sua narrativa visual e um momento de catarse em seu final que impacta em mais de uma camada (o que é muito para um curta).
+Experimental e sintético, o objetivo da reflexão de Felippe Mussel é ecológico. Ele monta uma relação entre a floresta perdida e o som das queimadas em um compilado que te obriga a abraçar o não-conformismo com a estrutura e ao mesmo tempo adota uma estrutura simplória para observarmos o que perdemos quando a natureza vai-se embora.
 
-Todavia Sinto, de Evelyn Santos
+Corpo Onírico, de Marina Barbosa Mahmood
 
-Sensações de uma gravidez em recortes precisos, mas dramáticos ao ponto de serem irreais. Foge o espectador deste circo que é montado com muita pressa. Ganha alguma coisa o cinéfilo disposto a novas visões do cotidiano? Não. Apenas uma pausa entre filmes que tentam algo novo.
+Sem diálogos, a sensação de profundidade e movimento no trabalho de Marina Barbosa Mahmood é no mínimo curioso. Ela bebe da noção do que é sensual das irmãs Wachowski, no sentido que não é algo 100% feminino, mas é sensual sem determinar muito o gênero. São as cores, as curvas e o movimento. Perde-se no significado por não impor um discurso, mas ganha-se em sensações, em volume e em perspectiva.
 
-A Velhice Ilumina o Vento, de Juliana Segóvia
+Cine Pornô – Fragmentos de Desejo e Medo, de Luis Teixeira Mendes
 
-Este filme foi apresentado pela própria diretora de fotografia como um trabalho que revela o estado de Mato Grosso no panorama cinematográfico nacional, como se revelasse um estado até então renegado. Porém, quando você assiste a projeção não enxerga nada disso. Se trata de um pedaço de vida que deu muito certo para Valda, uma senhora que na sinopse é chamada de "mulher preta, idosa, periférica, trabalhadora doméstica (...) Mulher forte, cuiabana do pé rachado". Estou habituado a usar meus estereótipos como ferramenta de escrita, mas nesse caso vou usar essa descrição literal, copiado e colado do site da Mostra de Tiradentes como atestado de inocência. A história é sobre essa senhora dona de si mesma. Valda adora arrastar o pé no baile, mas, principalmente, ser dona de si mesma. Acaba sendo uma mensagem de esperança não apenas para o seu estereótipo citado, mas para todo ser humano que ouse viver sua própria vida.
+Um filme muito curto quase todo montado em cima de fotografias indiscretas de momentos em um cinema pornô no centro do Rio de Janeiro. Já fizeram trabalhos de conclusão de curso com a temática dos dizeres em banheiros públicos. Trabalhos que fizeram alunos passar de ano e consumiram papel. Não há limites para a insignificância humana dentro da esfera social. Com este trabalho Luis Teixeira Mendes demonstra em cinco minutos como há infinitas horas de nada que preste dentro do audiovisual brasileiro. Uma lição para as próximas gerações. Uma falta de respeito com o pessoal da limpeza.
+
+Claudio, de Calebe Lopes
+
+Almodovariano sem ousar muito. Simbólico ser ousar ser tarantinesco. Há tantas influências fáceis neste trabalho de Calebe Lopes que ele perde a graça por causa do sentimento de Deja Vu. Em algum momento, depois de martelar a imagem de uma noiva usando máscara no meio da noite urbana, a proposta torna-se válida novamente. É o cinema enlatado da repetição. É mais um curta que vale um longa. E mais uma vez, a sessão custa cinco reais. Dois filmes pelo preço de um?
+
+De como me tornei invisível pra caber em meu espírito, de Padmateo
+
+A revelação de que a indefinição de gênero para algumas pessoas pode ser um trauma levado a série pela academia. E quando essa ferida é exposta como arte se torna um misto de vergonha alheia, incômodo coletivo, nojo e repulsa seguidos de pena. A obra íntima e biográfica de Padmateo não poderia ter vindo na melhor hora: a hora da transição. Se trata de cinema experimental de preparação. Senhoras e senhores e senhorus: preparem-se para o pior.
 

@@ -1,11 +1,17 @@
 ---
-categories:
-- writting
-date: '2018-10-04'
-tags:
-- food
-title: Chá Verde Feito Como Na Rússia
+categories: []
+date: '2016-05-31'
+tags: null
+title: Cezinha Explica
 ---
 
-Peguei do [manual do Linux](ftp://ycn.franken.de/pub/Linux/docs/HOWTO/Russian-Tea-HOWTO-1.html) os passos para a criação da famosa *zavarka*, mas em vez de chá preto o chá verde japonês. O resultado da proporção 1 para 5 (1: folhas; 5: água) com água completamente fervida foi bombástico. Um soco no estômago; cheguei a vomitar. Isso misturando depois o resultado com mais o dobro de água. Recomendo moderação e pouco tempo de infusão.
+O Cezinha, ex-colega meu de suporte e um amigo que não vejo há um tempo, levou a curiosidade e o empenho até as últimas consequências e criou um canal de vídeos onde explica procedimentos que o suporte técnico precisa quase sempre realizar para informar ao desenvolvimento de um programa com problemas o que está dando de errado.
+
+O seu primeiro vídeo explica como gerar um dump de processo. Porém, longe de ser superficial, o vídeo primeiro explica alguns conceitos de endereçamento de memória no Windows, talvez até para dar um start no cérebro de muita gente e criar um gancho para próximos vídeos.
+
+Utilizando o Debugging Tools e o VBS conhecido de muita gente -- o AdPlus.vbs -- ele cria dumps para programas que "capotaram", ou seja, geraram um crash, ou os que simplesmente "travaram" (ex: ficaram com a tela branca e irresponsiva).
+
+Fora todos os méritos técnicos e as inúmeras vantagens de agora ter um vídeo para compartilhar com qualquer equipe de suporte que precise realizar esses procedimentos, a edição do vídeo e todo o suporte a redes sociais, além do próprio design envolvido na criação, estão impecáveis. É difícil até aceitar que este é o primeiro vídeo do Cezinha =)
+
+Bom, espero que quem precisa dessas informações técnicas siga, compartilhe e acompanhe o Cezinha. Ele é o melhor exemplo de alguém que pegou um limão e não só fez uma limonada, mas parece estar plantando seu próprio limoeiro ;)
 

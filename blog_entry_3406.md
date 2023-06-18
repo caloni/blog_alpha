@@ -1,12 +1,43 @@
 ---
-categories:
-- writting
-date: '2020-09-29'
-link: https://www.imdb.com/title/tt0098904
-tags:
-- series
-title: Seinfeld
+categories: []
+date: '2008-07-14'
+tags: null
+title: Segunda versão do Houaiss2Babylon
 ---
 
-Seinfeld é um comediante nerd: passou boa parte de sua carreira atrás dos holofotes criando piadas diariamente e catalogando sua estreia na TV. Já nele ele encaixa boa parte delas em episódios que misturam sua vida como o personagem do comediante de standup. Ou estou confundindo com o modelo de Louie, que é infinitamente melhor? Ele não é ator, está longe de ser, e a série é de improviso. Funciona médio, mas se tornou cult, assim como Friends, ou qualquer série que você assista demais e simpatize com aquelas pessoas como velhos amigos de sofá. Hoje é uma curiosidade.
+Depois de vários comentários de pessoas tendo problemas em converter seus dicionários Houaiss para o formato Babylon, resolvi criar vergonha na cara e dar uma pequena melhora na versão beta do conversor.
+
+Agora a maioria dos erros que houver será descrita por uma mensagem no seguinte formato:
+
+{{< image src="houaiss2babylonerror.png" caption="Erro no Babylon" >}}
+
+O primeiro erro acima ocorre principalmente se não houver algum Houaiss instalado que o programa possa detectar. Resolva este problema comprando um.
+
+Abaixo segue a função criada para exibir essas mensagens:
+
+```cpp
+void MessageError(DWORD err, PCSTR msg, ...)
+{
+	CHAR errBuffer[100];
+	CHAR msgBuffer[ERR_STR_BUF_SIZE];
+	va_list vaList;
+
+	va_start(vaList, msg);
+	vsprintf(msgBuffer, msg, vaList);
+	va_end(vaList);
+
+	sprintf(errBuffer, " Erro de sistema número %d.", (int) err);
+	strcat(msgBuffer, errBuffer);
+
+	MessageBox(NULL, msgBuffer, STR_PROJECT_NAME, MB_OK | MB_ICONERROR);
+}
+```
+
+Se você notou, a função acima pode receber um número de argumentos variáveis para formatar a string da mensagem principal do erro, além de exibir seu código. Essa mágica pode ser feita usando-se o cabeçalho padrão "stdarg.h". Através dele temos acesso ao tipo va_list, que representa uma lista de argumentos variáveis.
+
+Pela convenção de chamada da linguagem C (e C++), quem desmonta a pilha é o chamador. Sendo assim, a função chamada não precisa conhecer o número de argumentos com que foi chamado.
+
+A função de formatação de string é uma variante do conhecidíssimo printf, na versão que recebe um tipo va_list. Muito útil para formatação de logs.
+
+A versão beta do Houaiss2Babylon está para sair. Não estarei mais atualizando o saite do projeto no LaunchPad. Aguardem por mais novidades no próprio blogue.
 

@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2016-12-31'
+date: '2017-12-25'
 tags:
 - food
-title: Santa Rita 120 Reserva Especial Syrah 2014
+title: Santa Helena Reservado Cabernet Sauvignon 2015
 ---
 
-Amadeirado, pouco aromático, quente, azedo. Deixei com a rolha e agora está cheirando a uva; gelado é meio verde; esquentando volta o amadeirado leve.
+Acho que fritou no mercado, pois ele ficou bem pouco aromático e um tanto amargo com corpo médio pra fraco. Aberto no Natal aqui em casa.
 

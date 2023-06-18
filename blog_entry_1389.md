@@ -1,11 +1,11 @@
 ---
 
-Ainda jovem, manteve o sabor visto na degustação, de um doce excepcional que apenas a uva Malbec colhida tardiamente possui.
+Nariz delicado; acompanhar com laranja banhada no chocolate ou macaron de pistache. Corpo leve, pouco azedo e quase branco; pouco doce. Combinou razoavelmente bem com o fondue de chocolate no terraço com os amigos da IBM da Mitiko depois do churrasco.
 
 ---
 categories:
 - writting
-date: '2016-11-13'
+date: '2018-06-24'
 tags:
 - food
-title: El Legado Blend Tannat Syrah 2013
+title: El Esteco Tinto Tardio Malbec 2015

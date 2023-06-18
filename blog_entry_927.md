@@ -1,34 +1,28 @@
 ---
 categories:
-- cooking
-date: '2023-05-28'
-link: https://youtu.be/9dCcTK7oJLA
-tags: null
-title: Ciabatta Rústica
+- writting
+date: '2019-10-09'
+link: https://www.imdb.com/title/tt9213792
+tags:
+- cinemaqui
+- mostra
+- movies
+title: Chuvas Suaves Virão
 ---
 
-Enquanto preparava o carê dei para experimentar uma receita nova de pão, essa ciabatta rústica, para acompanhar o antepasto de berinjela que a Mitiko fez pela segunda vez. Os ingredientes são simples e o preparo também. As proporções abaixo são para um pão pequeno para médio. Para ter uma ideia, nós acabamos com dois desses na mesma noite.
+É uma adaptação de livro? Poderia ser. Chuvas Suaves Virão explora essa possibilidade lúdica de livro infanto-juvenil com suas ilustrações de início de capítulo junto da frase principal, e nos coloca em contato com uma aventura protagonizada por crianças que estão sempre segurando lanternas, a la Stranger Things, mas argentinas, menos barulhentas e mais maduras.
 
- - Farinha: 115g;
- - Água: 80% (93g);
- - Fermento instantâneo: 2%;
- - Sal: 2.5%.
+Não há muitos diálogos, mas há muita observação quando em um belo dia os adultos amanhecem dormindo e nunca mais acordam. As crianças se reúnem e começam a explorar este novo mundo sem eletricidade e sem pais lhe indicando o caminho para viver.
 
-# O preparo
+Não é um filme de narrativa, mas de sensação. Não acontecem grandes coisas porque o diretor Iván Fund quer que observemos essa nova realidade através dos olhos das crianças e sem interferência do que pode ser feito a respeito. E aos poucos nos livramos das amarras de uma trama, apenas observando os pequeninos, de diferentes idades, se agrupando amigavelmente. Porque é isso que humanos deveriam fazer sem ideias pré concebidas.
 
-Misture tudo; primeiro o fermento com água, seguido pelo sal e por fim a farinha.
+A trilha sonora é primordial a esse respeito. Com acordes dissonantes e um ritmo aparentemente desconexo, aos poucos surge uma música. Como é possível? Nós montamos esse padrão na cabeça. A lógica musical estava aí todo tempo, só precisava alguém nos inspirar a ver o invisível. Eliminado o mundo como o conhecemos fica mais fácil enxergar o que existe além.
 
-Aguarde a massa fermentar por cerca de duas horas.
+Chuvas Suaves Virão não possui mensagens a serem decodificadas nem lições sobre amadurecimento. Nem é sobre ecologia, pois não há catástrofe. Ou talvez a catástrofe maior tenha desaparecido. Sem adultos não há fronteiras, nem propriedade e nem agressões. Apenas um bando de filhotes de primatas nômades explorando este mundo pacífico herdado, ou dado de presente.
 
-Durante esse tempo, de meia em meia hora, realize uma dobra nos quatro lados da massa, girando 90 graus a cada dobra. Para evitar que a massa grude molhe as mãos antes, imergindo em água.
+É interessante perceber que o roteiro escrito por Tomás Dotta e Iván Fund evita tomar decisões radicais como pais mortos justamente para não perdermos essa leveza que acontece ao constatar que estão todos bem. Apenas ausentes. Então, no melhor estilo "quando os gatos dormem os ratos fazem a festa" as crianças se organizam, mas não se trata daquelas comédias onde eles comem um monte de doce e existe algum perigo que deve ser combatido. É um filme exploratório da ideia apenas.
 
-Ao final dessa fermentação retire o ar da massa modelando em um retângulo e enrolando como um rocambole; divida em partes se for mais de uma receita; corte as beiradas para melhorar o formato.
+Não é para quem é impaciente, e muito menos para quem espera uma resposta maior. Mas há uma explicação, nas últimas cenas, mas ela se une à experiência como um todo de maneira orgânica. Entendemos porque os adultos dormem e não morrem, e imediatamente entendemos os motivos das coisas acontecerem dessa forma quando o mistério é revelado. Muitos e muitos filmes já nos ajudaram a antever como as coisas podem dar muito errado se fosse de outra maneira. Mas as crianças... as crianças são parte do mundo que não é conflito. Elas não são o problema, mas talvez parte da solução, se você for pensar nesses méritos.
 
-Fermente por mais 45 minutos (segunda fermentação).
-
-Pré-aqueça o forno em 240 graus e passe a massa para uma forma com papel manteiga. Não deixe fermentando antes, pois irá grudar.
-
-Asse no forno hidratado com vapor ou água por 10 minutos e em seguida abaixe para 200 graus e deixe por mais 12 a 15 minutos ou até o pão dourar.
-
-De acordo com a autora "its so easy to make this ciabatta bread and the resulting bread is so good with crispy crust and soft crumb inside". E é verdade. A Mitiko gostou muito. Fiz duas receitas e acabou praticamente naquela noite.
+Ou no fundo é apenas um filme com uma fotografia cinza que se descobre ensolarado depois que o pior já passou. E vem a chuva, limpando nossas concepções, nossos preconceitos, nossos medos. Uma experiência de renovação, curta e singela.
 

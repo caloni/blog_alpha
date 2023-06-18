@@ -1,21 +1,28 @@
 ---
 categories:
 - writting
-date: '2022-10-25T20:15:17-03:00'
+date: '2018-10-16'
+link: https://www.imdb.com/title/tt7871664
 tags:
 - cinemaqui
 - mostra
 - movies
-title: O Teto Amarelo
+title: O Termômetro de Galileu
 ---
 
-Este documentário denuncia o que antes era visto como comum. Ou talvez pior: não visto como comum, mas com todos sabendo que havia algo de errado e mesmo assim ninguém falava a respeito. O Teto Amarelo é um filme-denúncia contemporâneo.
+Este documentário tem por objetivo inicial fazer você cair de sono. Isso porque a diretora/roteirista/atriz portuguesa Teresa Villaverde evita enquadrar a câmera para nos prender a atenção. Ela prefere uma abordagem mais despojada. A resposta adequada e respeitosa para um filme desse é ser um espectador também despojado, que começa a roncar antes dos dez primeiros minutos de projeção.
 
-Trabalhado todo em cima dos casos de abuso sexual cometidos por Antônio, um ex-professor do Teatro Lleida, na Espanha, o fato mais conturbador do longa é que as vítimas desses abusos eram todas adolescentes de 14 e 15 anos e confiavam na figura da autoridade de um ator mais velho, visto como um ídolo por todos e que portanto nunca se pode desafiar. Ele acabou virando uma inspiração para muitas. O que é até certo ponto natural e compreensível quando se é jovem e sonha em trabalhar no teatro. Isso levanta uma conversa séria sobre a relação professor e aluno, sobretudo nas artes.
+Mas isso pode ser algo injusto de se fazer, pelo menos em um ou dois momentos do filme, principalmente próximo do final. Coloque seu despertador, pois o começo não é necessário. O filme é sobre o cineasta italiano Tonino De Bernardi na região de Piemonte (Itália), sobre seu cinema underground italiano, mas também para falar de sua família e a troca entre gerações; Villaverde caminha com Bernardi até os primórdios de sua origem, através de seus avós, como morreram, etc. Em um primeiro momento entrevista sua avó, muito simpática, mas apesar da naturalidade este parece um caminho já percorrido quando ela fala sobre a época do fascismo que viveu.
 
-Além disso, graças aos testemunhos das corajosas mulheres deste projeto, o longa discorre muito bem em montar o modus operandi do meliante, explorando a questão de fingir ter sido vítima das circunstâncias em momentos-chave, que mais tarde entende-se que eram situações forçadas, para em outros dar as cartas e exercer o controle, incluindo desmoralizar algumas de suas alunas quando não as agradava. Toda história dividida em capítulos cria um processo que seria difícil de se desvencilhar no tribunal, não fosse pela legislação ter considerado as denúncias prescritas após tantos anos. No entanto, isso mais que legitimiza o filme, que pode ser usado por qualquer aluna que tenha sofrido abusos em tempo mais recente.
+Sim, esta é uma geração que viveu o fascimo de verdade, antes de George Orwell nos alertar que no futuro essa e outras palavras seriam reinterpretadas ao bel prazer de adversários políticos. Não deixa de ser interessante voltar brevemente ao passado pelos olhos de quem o viveu, mas quando nem a câmera está interessada em focar ou enquadrar o ronco do espectador continua.
 
-Infelizmente o filme falha em explicar a origem e o desenvolvimento do grupo Mulheres em Cena, formado por ex-alunas. É uma pena, pois elas trabalharam muito esse momento na vida delas para unir forças e chegar em um veredito completo sobre o acusado. Preocupado em falar apenas sobre Antônio, o professor molestador, suas introduções nos impedem de se conectar com quem se tornaram e como voltaram a falar sobre isso após tanto tempo.
+Da mesma forma uma mini-"entrevista" com dois de seus netos assemelha-se mais a um vídeo de família, onde cada segundo parece irrelevante, pois é a visão de crianças sob a máscara do social. Elas já perderam a espontaneidade, assim como quase todos que participam do filme, relatando morosamente textos em apenas um tom, tentando de todas as formas te fazer perder o fio da meada. Conseguem. Várias vezes.
 
-Com uma edição didática, mas igualmente poderosa, O Teto Amarelo não é apenas um filme, mas um serviço de ajuda a mais vítimas abusadas, o que se torna nessa Mostra de SP duplamente mais importante, já que Antônio, até onde se sabe, está foragido no Brasil.
+Mas há um momento mais poderoso onde o cineasta em si comenta quando ele descobriu que para ser cineasta bastava ter uma câmera. É poderoso porque a diretora que o filma parece ter ganho também a sua primeira câmera, sequer sabendo o botão para parar. E parece ser o único momento autêntico de todo o longa (longuíssimo).
+
+(Esse detalhe me faz lembrar de outro filme dessa Mostra, O Criador de Universos, que também parece nos mostrar que essa ideia de hoje em dia qualquer um poder filmar não é tão boa assim.)
+
+Quase sempre usando sua câmera como microfone, o filme está querendo encontrar momentos dignos de ser filmado, como a face do cineasta quando ele vai falar sobre o suicídio do avô. Fica claro que a documentarista resolve pegar a câmera porque o momento merece, o que nos ajuda a desvendar o resto do filme: quase mais nada merece ser filmado ou visto.
+
+(Galileu descobriu que a densidade depende da temperatura, criando assim seu termômetro que leva o título deste filme. Pela análise da densidade narrativa podemos também concluir que a temperatura tende a zero kelvin.)
 

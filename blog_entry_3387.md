@@ -1,20 +1,27 @@
 ---
 categories:
-- writting
-date: '2016-04-17'
-link: https://www.imdb.com/title/tt1411697
-tags:
-- movies
-title: Se Beber, Não Case! Parte II
+- coding
+date: '2007-11-15'
+title: SDelete
 ---
 
-Como seria o original se ele não tivesse graça. Não seria uma novidade se a sequência de Todd Phillips repetisse a fórmula exata da ótima comédia que é o filme original, que é o que este Parte II faz do início ao fim. A novidade é que, mesmo juntando o elenco original, o curioso é que quase nada funciona, quase nada é engraçado e muito pouco é imprevisível.
+Minha vida tem que ser portátil. Existem pelo menos três lugares diferentes onde costumo ficar com um computador (não o mesmo). Por causa disso, os dados mais relevantes e que precisam fazer parte do meu sistema biológico eu carrego comigo pra cima e pra baixo em meu PenDrive e MP3Player.
 
-Há situações pesadas o suficiente para tornar uma comédia um quase drama de um grupo de homens perdido em Bangkok, a capital da Tailândia, do sexo e da violência. Um macaco traficante é engraçadinho, mas não deixa de ser traficante. E um tiro de raspão em um país estrangeiro não deixa de ser um tiro.
+Até aí tudo bem. Quer dizer, mais ou menos. Dados relevantes costumam ser sensíveis, e busco sempre manter todos os arquivos sensíveis encriptados ou com uma senha específica do programa que o abre. O grande problema mesmo é que eu sei que operações no sistema de arquivos costumam deixar lastros do que já foi escrito um dia, e que é possível reaver esses dados com um pouco de persistência e sorte. É nessa hora que entra a praticidade do SDelete, uma ferramenta da SysInternals.
 
-A questão é: nem tudo que acontece durante um "bebedaço" é engraçado ou inocente. Ao brincar com os heróis do filme original, brincamos com todo o conceito genial que se formou anteriormente. E tudo isso é sacrificado para tentar firmar uma fórmula de um filme só.
+Desde a versão NT o Windows segue as diretivas de segurança do C2, o que entre outras coisas quer dizer que o a reutilização de um objeto no sistema operacional será protegida. Um objeto aqui está para representar recursos da máquina em geral, como páginas de memória e setores do disco. Quando um programa pede um setor de disco livre (ou uma página de memória) para uso próprio, o Windows apaga qualquer conteúdo remanescente naquele espaço de memória, evitando assim que exista uma maneira do atacante obter dados de terceiros (e.g. arquivos protegidos ou memória do sistema) sem autorização.
 
-Nem Ken Jeong (Community) ou Zach Galifianakis são capazes de transformar esse filme esquecível em algo mais. Eles estão exagerados, mas não tanto quanto Ed Helms, que parece tentar defender a "sua" sequência com muita força (afinal, é o casamento de seu personagem).
+{{< image src="windows-new-sector.gif" caption="Novo setor do Windows" >}}
 
-Ainda assim, há um quê de nostálgico e saudosista em Parte II. A sensação de ter perdido a memória novamente é um dejá vu inevitável, mas nos passamos de espectadores de um evento turístico: o passeio às sensações de como deve ter sido o primeiro filme (para quem não assistiu, talvez até tenha ficado com uma impressão superior).
+Ou seja, desde que o Windows esteja no comando, os dados escritos por um programa não estarão disponíveis ao usuário por meio do reaproveitamento dos setores. Ficou claro?
+
+Se ficou claro, deve ter notado o "desde que o Windows esteja no comando". Essa é uma condição sine qua non, mas que nem sempre é verdadeira. Um atacante que tenha acesso físico ao dispositivo de armazenamento (e.g. meu PenDrive) pode certamente usar outro sistema operacional (ou até mesmo o Windows em condições especiais) e vasculhar os dados que eu já apaguei, pois estes, como mostra a figura, não são apagados de fato até que um programa peça o espaço ocupado por eles.
+
+{{< image src="windows-delete-file.gif" caption="Apagando arquivo no Windows" >}}
+
+Para esse tipo de problema eu costumo usar um programinha esperto chamado SDelete (de Secure Delete). O que ele faz é zerar os setores não usados, da mesma forma com que o Windows faz quando um programa pede um setor não usado. Para isso, basta especificar um ou mais arquivos: sdelete `<nome-do-arquivo>`.
+
+Uma outra coisa que ele faz, muito útil quando comecei a usá-lo, é apagar todos os setores não usados que existem no disco inteiro (ou uma pasta inteira). Com isso podemos começar uma vida nova. Apenas tome muito cuidado nessa hora para especificar o comando, pois um errinho no comando pode realmente fazer você começar uma vida nova: sdelete -c -s p.
+
+O SDelete segue o padrão DOD 5220.22-M, o que quer dizer que ele está dentro das especificações da indústria que garantem a confidencialidade dos dados apagados. Além do mais, você pode especificar quantas "passadas" nos setores você deseja, para evitar aqueles ataques mais rebuscados em que é analisada a impedância das trilhas físicas de um disco magnético para obter os dados que uma vez estavam lá. É claro que isso não deve valer muito a pena se você está usando um PenDrive com memória flash =).
 

@@ -1,28 +1,20 @@
 ---
 categories:
-- coding
-date: '2010-08-12'
-tags: null
-title: Foto dos melhores momentos
+- writting
+date: '2018-01-12'
+link: https://www.imdb.com/title/tt0109830
+tags:
+- movies
+title: 'Forrest Gump: o Contador De Histórias'
 ---
 
-Mais um quebra-cabeças antes da nossa palestra, esse "baseado em fatos reais".
+Difícil não sonhar com este filme. Ele é a síntese da história americana unida com a síntese do seu próprio espírito. Forrest Gump é tudo o que um ser humano médio nunca conseguirá ser, ainda que seu QI seja muito superior ao de Forrest. O que falta em nós e sobra em Forrest é ação. O que sobra em nós e falta em Forrest é o intelecto fruto dos sonhos vazios e incompletos de nossa existência. Dessa forma, Forrest é um ser humano completo como muitos nunca chegarão a sonhar ser.
 
-A história é a seguinte: o cliente instalou uma versão nova do produto em algumas máquinas que, ato contínuo, começaram a apresentar telas azuis constantemente. Como essas máquinas tinham que ser usadas pelos funcionários, a administradora rapidamente desinstalou essa versão buguenta, e logo em seguida pediu por uma correção.
+É claro que estamos falando de uma lenda. Ele nunca existiu, assim como nunca foi condecorado duas vezes na Casa Branca, ou conheceu John Lennon em um programa de entrevistas, ou investiu no mercado de camarões ou na promissora Apple. Nada do que Forrest fez existiu, assim como quase nada que nós pensamos sobre nossas próprias vidas, pessoas de QI médio, foi realizado de fato. Nossa imaginação é mil vezes mais ativa que nosso próprio corpo. É por isso que Forrest existe em nossos sonhos. E sempre existirá. É a lenda do americano que foi lá e fez. Tudo.
 
-Até aí tudo bem. O problema maior era que ninguém havia capturado dump de nada.
+E por algum motivo o roteirista Eric Roth sente necessidade de inserir romance como a base de tudo. O amor de Forrest pela inalcançável Jenny (Robin Wright, mulher do congressista Frank Underwood em House of Cards). Jenny é linda e inquieta. Talvez ela seja inalcançável por ela mesma. Abusada pelo seu pai, sua vida é torta e cheia de percalços. Mas Jenny não realizou nada. Ela é fruto de adoração de uma lenda, e vai entender isso só muito tempo depois.
 
-Por isso pedi encarecidamente por qualquer fragmento de tela azul (minidumps) que pudessem ainda estar nas máquinas afetadas. Dito isso, ela confessou que havia voltado a imagem padrão nesses equipamentos para que os funcionários pudessem voltar ao trabalho rapidamente. Só que sem dump eu não conseguiria trabalhar rapidamente.
+Consideremos Tom Hanks. Ele é Forrest Gump na vida real. Ele não é muito inteligente, mas um ótimo ator e gente boa. Ele é o cidadão médio que paga seus impostos e ajuda velhinhas quando precisa. O camarada da Academia, ganhador de não-sei-quantos Oscars. Ele é um ator que chega e faz. Alguns resultados deixam a desejar, mas olhe para a fileira de personagens interessantes que ele já interpretou. Ele é Forrest Gump em carne e osso.
 
-Mas eis que no dia seguinte ela me liga, comentando que um funcionário, empolgado (?) pela tela azul em sua máquina, havia tirado uma foto da mesma para "recordação". Sem nenhuma cerimônia, então, pedi rapidamente que ela conseguisse essa foto para a minha coleção.
-
-{{< image src="tela-azul-de-recordacao.jpg" caption="Tela azul de recordação" >}}
-
-A foto que ela me manda é exatamente a que está acima, apenas censurado o nome do driver, o que não vem ao caso. Assim que a recebi pude constatar o problema direto no código-fonte, corrigi-lo e enviar uma nova versão, que após alguns dias de testes se revelou bem sucedida.
-
-A questão é: como eu resolvi o problema? Como você teria procedido nessa situação?
-
-A resposta para esse enigma também contará pontos para nossa brincadeira com o livro Windows Internals, como foi explicado no [artigo anterior]. Vamos lá, Sherlock!
-
-[artigo anterior]: {{< relref "nao-e-minha-culpa" >}}
+Talvez Forrest Gump não agrade os pé-no-chão. Mas peço que pense por um instante. Eu sou um pé-no-chão, também, mas entendo quando um filme quer me fazer voar. Nem que seja um pouco. Através desse voo ele irá me mostrar as maravilhas da imaginação. E, melhor ainda, o quanto podemos alcançar se deixarmos essa imaginação de lado. O quão realista isso soa para você?
 

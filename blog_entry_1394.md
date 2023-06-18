@@ -1,13 +1,11 @@
 ---
 
-Mais jovem parece melhor.
+Leve, mas com muitas frutas negras; pouco tânico por ser reserva. Vai bem com lasanha de escarola que fiz no domingo com molho italiano.
 
 ---
 categories:
 - writting
-date: '2017-10-11'
-link: https://www.imdb.com/title/tt4210344
+date: '2016-11-13'
 tags:
-- cinemaqui
-- movies
-title: El Pampero
+- food
+title: El Legado Tannat Reserva 2015

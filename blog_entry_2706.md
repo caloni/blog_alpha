@@ -1,23 +1,18 @@
 ---
 categories:
 - writting
-date: '2017-10-21'
-link: https://www.imdb.com/title/tt1699518
+date: '2015-04-11'
+link: https://www.imdb.com/title/tt0072431
 tags:
-- cinemaqui
 - movies
-title: O Jovem Karl Marx
+title: O Jovem Frankenstein
 ---
 
-É muito comum fãs de quadrinhos e livros ficarem ansiosos em ver o resultado das histórias retratadas nesses formatos transpostas para o cinema. E o resultado que mais os agrada geralmente é o mais fidedigno ao conteúdo original. Pois bem: eis que surge este O Jovem Karl Marx, que direto dos livros de escola, retrata um período da História de maneira formal e burocrática, o que não é um defeito se você gostar de História, economia, política ou até filosofia.
+As comédias do Mel Brooks são sempre um esculacho, mas nunca podemos acusá-lo de ser relapso no tema que pretende abordar. Nesse O Jovem Frankestein, por exemplo, é seguido à risca não só os conceitos e a história-base de Mary Shelley como a própria atmosfera dos primeiros filmes que caracterizavam o doutor obcecado com experimentos pós-vida e o icônico monstro que não apenas possui uma alma, mas como é mais gentil que todo o vilarejo onde moram. Tanto que o filme é em preto e branco, usa uma pintura para mostrar o castelo, letreiros antigos e uma trilha sonora inspirada.
 
-O filme retrata os primeiros anos de criação do escritor Karl Marx (August Diehl), assim como o princípio da duradoura e vital amizade com Friedrich Engels (Stefan Konarske). No reencontro pessoal entre os dois um elogia o trabalho do outro, no que lembra uma bajulação mútua. Não é uma forma muito positiva de demonstrar que ambos se tornaram amigos massageando o ego um do outro.
+Usando de maneira inteligente a persona caricata e ao mesmo tempo fascinada de Gene Wilder -- que também escreve o roteiro com Brook -- a história brinca com o neto do famoso médico -- também médico, professor -- que é atormentado pela controversa fama do avô. Junto com ele há a velha caricatura do corcunda (uma atuação engraçadíssima de Marty Feldman), a bela assistente que se joga nos braços do seu tutor, a governanta cujo nome faz os cavelos relincharem (onde quer que estejam) e um monstro que Peter Boyle cria como um misto de representações.
 
-No começo do filme há um letreiro que indica o momento histórico em que se passam esses eventos. Basicamente aristocracia absolutista mais Revolução Industrial igual a camponeses se tornando uma nova classe de trabalhadores na cidade: o proletariado. O surgimento de Karl Marx no cenário de pensadores, de acordo com o letreiro, irá culminar em suas teorias a respeito do capitalismo, luta de classes, relação de exploração e, ainda de acordo com o letreiro, "mudar o mundo para sempre". Este não é um exagero se considerarmos todos os volumes de O Capital, mas é um exagero no filme se considerarmos que a história nele acaba antes mesmo de Marx pensar em escrever seu primeiro volume de sua obra magna.
+O filme é também um misto de emoções e conceitos. Uma hora hilário, outra dramática, faz tanto rir quanto pensar. Vira um complemento cômico da obra original, pois não a denigre, mas a reinterpreta para o humor. Um humor que se revela mais nos pequenos detalhes, como as expressões de Igor olhando para nós. De certa forma, Mel Brooks está a todo momento piscando para nós. Não é uma obra para se levar a sério, mas mesmo assim, o afinco com que é produzida a torna encantadoramente engraçada.
 
-O que temos, então, é de fato o que o título do filme afirma. Este Marx ainda é jovem e ingênuo. Mas foi através de sua mente na época, vivendo o início da Revolução Industrial, que ele irá obter a matéria prima para seus pensamentos posteriores, além da influência de seus contemporâneos. E há vários deles. Era um momento de fervura intelectual, com diferentes lados tentando interpretar o que estava acontecendo nas cidades. Vemos aparições mais ou menos relevantes na história dos anarquistas como Proudhon e Bakunin (aliás, um Bakunin politicamente correto, que até tomava banho). Vemos a Liga dos Justos, o grupo que se formou entre essas vozes dissidentes que irá dar origem à Liga Comunista. Vemos todos os detalhes e referências abundantemente documentadas em livros de História.
-
-A única coisa que não vemos é algo de novo. Exceto, talvez, a visão de um Karl Marx mais humano, menos idealizado, com esposa, fazendo sexo, tendo filhos, fumando charutos baratos e sendo sustentado pelo seu melhor amigo e discípulo. Porém, fora da curiosidade mundana de ver o filósofo no corpo de um ser humano, assim como o filme que veio dos quadrinhos ou dos livros, O Jovem Karl Marx é um retrato fidedigno do material que o precede, e portanto vazio de alma. Ele não diz nada mais do que já é conhecido, e se o diretor Raoul Peck (do documentário indicado Eu Não Sou Seu Negro) achou relevante trazer a figura à tona, é porque acredita que essa visão retrógrada da realidade ainda faz sentido nos dias atuais, como ele bem aponta no início dos créditos finais ao fazer uma colagem de décadas ao som de Bob Dylan.
-
-Porém, relevante ou não, o filme é vivo, caminha empolgado entre as diferentes passagens históricas de Marx e Engels, seja em sua vida pessoal ou militante. Isso torna o trabalho minimamente interessante de acompanhar, mesmo que não tenha nada de novo a dizer. É uma releitura idêntica, clássica e didática. Pode informar algumas pessoas dispostas a entender o quê Marx viu quando se referia a relações de exploração, assim como Engels. Pode ajudar pessoas não-habituadas a esta fase da história a entender melhor as sementes que foram responsáveis pela construção de uma das obras mais ambiciosas da literatura histórica que um único indivíduo já teve a ambição de realizar.
+PS: Se você não gosta de filmes sem cores, estilo antigo ou que seja "sério demais para uma comédia", apenas faça o seguinte: assista a sequência entre o monstro e um cego do vilarejo. É Gene Hackman fazendo uma ponta imperdível. Apenas cinco minutos de sua vida se foram, e vai ficar uma forte impressão de todo o filme.
 

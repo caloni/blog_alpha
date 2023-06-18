@@ -4,37 +4,80 @@ categories:
 date: '2023-04-09'
 tags:
 - interview
-title: Como funciona o insertion sort
+title: Como funciona o bubble sort
 ---
 
-Entre os algoritmos de ordenação mais simples de se entender o insertion sort está na lista. E isso acontece porque ele é intuitivo. É mais ou menos como podemos fazer para ordenar um deck de cartas: pegamos item a item e vamos inserindo em um segundo deck, mas dessa vez observando onde cada carta deve ser inserida para que o deck final esteja ordenado.
+Uma das piores ordenações possíveis, mas uma das mais simples de entender, é a bubble sort. Ela é passada para estudantes de computação porque é um algoritmo possível de explicar sem entrar em muitos detalhes do seu funcionamento, e também porque seu funcionamento é intuitivo.
 
-Implementar isso em código segue o mesmo princípio, mas em vez de ter um segundo deck podemos dividir o deck, ou array, em dois: ordenado e não ordenado. Varremos o array desordenado e movemos cada elemento para a posição em que ele deve ficar no array ordenado.
+O objetivo do algoritmo é ordenar uma lista.
 
-Para dividir o array usamos um índice. Peguemos o segundo elemento, por exemplo. O primeiro elemento já está ordenado, pois está sozinho. A partir daí verificamos onde o segundo elemento será colocado: onde está ou antes do primeiro elemento. Decidido isso partimos para o terceiro elemento, onde fazemos a mesma comparação, primeiro com o primeiro ou segundo elemento, depois com o outro. Então fazemos a troca (ou não). E assim por diante. No final, quando estivermos comparando o último elemento, todo o deck ordenado estará completo.
+Para conseguir ordenar o algoritmo precisa comparar todos os elementos e trocar as posições dos elementos desordenados, um a um.
 
-Essa lógica computacional é boa de entender porque realiza uma mímica com a lógica humana, passo a passo. Imagine um ser humano pegando a terceira carta, comparando com a segunda, comparando com a primeira, dessa forma realizando a troca entre a primeira e a terceira, por exemplo.
+Como a lista é varrida de cabo a rabo os elementos na posição mais errada possível vão caminhando em direção à sua posição correta.
 
-A parte não intuitiva ou mais complexa é que para inserir um elemento que deveria estar na segunda posição, mas está na quinta, é necessário ir realizando a troca entre o quinto e quarto elementos, depois entre o terceiro e o quarto, até chegar na segunda posição. Isso se tratando de um array. Esse algoritmo pode funcionar mais rápido se utilizada uma lista ligada (menos trocas).
+Ou seja, se o primeiro elemento estiver na última posição são feitas N-1 trocas, do último para o penúltimo, do penúltimo para o antepenúltimo e assim por diante, até que o loop que varre todos os elementos faça a última comparação, entre o primeiro e o segundo elemento.
 
-Em código C++ ficaria assim:
+Note que é necessário fazer o caminho reverso para mover um elemento que está em primeiro, mas que deveria estar em último.
+
+Para isso o loop que percorre a lista inteira precisa primeiro garantir que todo o resto da lista está ordenado.
+
+Para conseguir isso a cada passada do primeiro loop é feito outro loop com o resto da lista.
+
+Isso é feito da seguinte forma em C++:
 
 ```
-vector<int> InsertionSort(vector<int> array)
+vector<int> BubbleSort(vector<int> array)
 {
-    for (size_t i = 1; i < array.size(); ++i)
+    for (size_t i = 0; i < array.size(); ++i)
     {
-        size_t j = i;
-        while ( j > 0 )
+        for (size_t j = 0; j < array.size() - 1 - i; ++j)
         {
-            if (array[j-1] > array[j])
+            if (array[j] > array[j + 1])
             {
-                swap(array[j-1], array[j]);
+                swap(array[j], array[j + 1]);
             }
-            --j;
         }
     }
     return array;
 }
 ```
+
+Se você leu o código deve ter percebido que existe um pequeno truque na hora de estipular o final do loop mais interno: ele diminui do tamanho do array menos o que já foi percorrido do elemento do loop externo. Em outras palavras, quanto mais avançarmos para a frente com o índice do loop externo menos avançamos para o final do array.
+
+Isso é feito porque sabemos que já foram feitas i comparações antes, o que quer dizer que os elementos na posição size-i já foram devidamente movidos para dentro do intervalo que será comparado na passada deste próximo loop interno.
+
+Para sentir o passo a passo dessas iterações, observe como os elementos de uma lista completamente desordenada se comporta e até onde vão as comparações do loop interno e, o mais importante, por que ele não precisa ir mais além.
+
+```
+i = 0
+6 5 4 3 2 1
+j - - - - j
+5 4 3 2 1 6
+
+i = 1
+5 4 3 2 1 6
+j - - - j
+4 3 2 1 5 6
+
+i = 2
+4 3 2 1 5 6
+j - - j
+3 2 1 4 5 6
+
+i = 3
+3 2 1 4 5 6
+j - j
+2 1 3 4 5 6
+
+i = 4
+2 1 3 4 5 6
+j j
+1 2 3 4 5 6
+```
+
+Parece um algoritmo rápido, mas isso acontece porque está escondido cada uma das comparações e trocas do loop interno. Por exemplo, no primeiro bloco acima foram feitas cinco comparações e cinco trocas (N-1).
+
+A complexidade deste algoritmo é de O(n^2) comparações e O(n^2) trocas.
+
+Ou seja, nada bom. Mas fácil de entender =)
 

@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2017-01-17'
-link: https://www.imdb.com/title/tt0018328
+date: '2019-02-18'
+link: https://www.imdb.com/title/tt0367790
 tags:
 - movies
-title: O Ring
+title: O Retorno de Sweetback
 ---
 
-Hitchcock gosta de criar cenas icônicas em seus filmes. Aqui temos uma mulher apaixonada ao lado do seu amor, quase nocauteado no ringue. Ele também gosta de comédia de situações, e esta é uma delas, onde até o título do filme é um trocadilho em inglês ("ring" pode ser anel ou o ringue de boxe). Este não é um dos seus filmes de crimes, mas um triângulo... um quadrado amoroso. E confuso. São personagens que dificilmente conseguimos lembrar por muito tempo. Parecidos entre si, não caem nos estereótipos e exageros do cinema mudo. O que torna tudo muito difícil de acompanhar.
+Um filme é produzido em 1971. Ele fala sobre um negro que mata policiais para sobreviver e se dá bem no final (foi isso que eu entendi). Ninguém branco produziria um filme desses nessa época. E hoje "O Retorno de Sweetback", em 2003, fala sobre a Odisseia que foi essa produção.
 
-A história começa em um parque de diversões, onde já vemos a destreza hitchcockiana em mesclar imagens (como de um homem rindo e um brinquedo onde deve-se acertar bolas dentro de uma face gigante. Uma das atrações é conseguir derrubar o "João Um Round", ou um nome que o valha. O campeão ganha uma bolada. Há uma moça bonita na bilheteria, que já estima João como um amigo de infância. Há também um homem bem apessoado na multidão, mais alto que a média, junto de seu amigo. Ele flerta com ela, e aceita o desafio. Ganha. Isso muda o destino de todos envolvidos.
+O diretor é Mario Van Peebles, filho de Melvin Van Peebles, o diretor do filme sobre o que estamos falando. Ele interpreta seu pai naquela época. A narrativa é de ficção documental, com pessoas falando sentadas, mas principalmente a história sendo contada com imagens. O formato do filme é independente, com direito a câmera na mão e iluminação amarelada dos anos 70 com estilo filme 8mm, mas obviamente com muito mais qualidade (e wide). A capa do DVD lembra os primeiros filmes do Roberto Rodriguez ou até mesmo aqueles trashs esquecidos na última fileira da última estante de uma locadora decadente.
 
-E por falar em destino, temos uma cigana/cartomante velha e baixinha e que fuma cachimbo como ninguém. Ela usa baralhos comuns para acertar a sorte da moça, e nele aparece o rei de copas. "Um homem alto e rico", diz. Porém, quem estará rico nesse futuro que ela almeja?
+Sweetback -- original e making of -- tem a pegada do movimento negro. Cansados de tanta violência, de serem rebaixados ao status de sub-raça e incapazes de se mover socialmente, o(s) filme(s) foi feito por negros (ou minorias) para negros. É possível respirar o ar black nessa produção moderna, já antecipando o resgate do movimento com Black Lives Matter. Está no ar, está na fala, está na música e no gingado.
 
-Hitchcock não quer saber de previsibilidades. Inventa mais um personagem lá no meio do filme, e cria situações apenas por criá-las. Vai "desenvolvendo" os três pretendentes em suas vidas, mas fica difícil entender o que o filme pretende. No final, uma luta magistral em um ringue muito maior, com um sino ("ring") icônico.
+Além disso, se trata de um filme de pura tensão. Acompanhamos a produção de um filme de baixo orçamento onde não há orçamento. E Van Peebles na época arriscou tudo, não apenas dinheiro. Já era um cineasta de relativo sucesso que trazia lucros para os donos brancos das produtoras onde trabalhava. E assim como quando todo negro resolve fazer um trabalho sério, uma crítica social, o mundo branco lhe dá as costas. Até aí nada de novidade.
 
-A luta de boxe é um artifício enérgico e que sempre funciona no Cinema. Aqui não é diferente. Porém, qual o grande desafio a ser vencido? Dizem que uma luta de boxe no cinema nunca é sobre boxe. Aqui sim. Isso estraga a magia e nos transporta para o mundo fácil das histórias divertidas de cartoon. O garotão ganha a mocinha. Ele perde-a novamente. Ela vai até o lado dele e com seu rosto angelical faz com que ele vença a luta. Fim. E espero que o fim de filmes como esse na carreira do diretor.
+Mas seu filho diretor, Mario, resgata o verdadeiro suor e loucura que era produzir um filme independente black nos anos 70. Salas escuras e esfumaçadas. Brigas entre a reduzida equipe. Há um elenco de primeira. Destaque para Terry Crews como Big T e Joy Bryant como Priscilla (além do próprio diretor/ator). Para o cinéfilo também é um filme instrutivo, pois é possível aprender os percalços do Cinema que ninguém lhe ensinará na faculdade.
+
+Talvez isso sirva de lição para qualquer cineasta independente que queira filmar os seus valores. A trilha é comum a todos. Independente de sua cor, sinta-se negro em O Retorno de Sweetback.
 

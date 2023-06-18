@@ -1,25 +1,20 @@
 ---
 categories:
 - writting
-date: '2011-07-04'
-link: https://www.imdb.com/title/tt1396218
+date: '2015-01-28'
+link: https://www.imdb.com/title/tt1911658
 tags:
 - movies
-title: Os Pinguins do Papai
+title: Os Pinguins de Madagascar
 ---
 
-Sinopse: A vida de um homem de negócios começar a mudar após ele herdar de seu pai seis pinguins. Conforme ele avança em sua vida pessoal, sua vida profissional começa a despencar.
+Assim como Carros 2, jogar personagens secundários -- e engraçadinhos -- em um trabalho solo raramente gera bons resultados.
 
-Odeio falar mal dos filmes que não gosto, mas Os Pinguins do Papai é fraco, oportunista e covarde.
+No caso dos hilários pinguins e seus estratagemas elaborados que milagrosamente funcionam, eles possuíam ótimas participações nos dois primeiros Madagascar. Porém, eram participações curtas, pontuais e até orgânicas. Em Pinguins de Madagascar eles são os mesmos, e não há história principal que sustente por tanto tempo as mesmas piadas.
 
-Fraco porque não consegue de fato criar um arco dramático que se preze. Se no começo enxergamos Mr. Popper como um vendedor sem escrúpulos, quando ele começa a conviver com os pinguins enxergamos, na verdade, o mesmo Mr. Popper coagido pela sua família, especialmente os filhos, a quem tenta agradar sempre sem sucesso. Mesmo que isso seja um ótimo tema para comédia, ela não chega a decolar, tamanha a fascinação do diretor em focar as gracinhas dos seis (sete com Popper?) pinguins em cena.
+E o que temos na história? Temos a origem deles (como pinguins que rejeitam sua natureza coletiva), temos o pinguim-recruta que tenta deixar de ser apenas uma mascote, temos um vilão que surge usando a mesma ideia de "animais no zoológico adoram o público" já visto no primeiro Madagascar, e inacreditavelmente, temos um grupo de elite que imita a mesma dinâmica vista no igualmente ruim Carros 2.
 
-Oportunista porque se aproveita do fato dos pinguins estarem na moda (nada contra, vide Happy Feet) e os traz à tona apenas para transformar um roteiro fraco em no máximo um filme fofinho (e nem assim ganha do magnífico [Bebês]). E apenas para ilustrar, tente se lembrar das cenas que você mais gostou e veja se consegue achar alguma que não tenha pinguins ou piadas tão "aprimoradas" quanto as boladas das comédias da dupla Adam Sandler e Dennis Dugan (ou do próprio Jim Carrey em momentos menos inspirados de sua carreira).
+O resto é o recheio que já conhecemos: piadas engraçadinhas, reviravoltas previsíveis -- ou alguém duvida do que vai acontecer com a tropa de elite em sua missão ultra-planejada? -, lições de moral, mensagens de auto-ajuda, cenas fofinhas e você já sabe o resultado. Sinceramente, desde a primeira cena de perigo até a última nunca nos preocupamos com o destino dos personagens. Apenas aguardamos a próxima vez de dar uma risada mais ou menos.
 
-E, enfim, é Covarde porque simplesmente parece não conseguir finalizar a história sem deixar todos felizes (e acompanhados). E se na cena final eu até consigo fazer um paralelo com as novelas globais, tenho certeza de que não há mais nada abaixo desse nível que mereça ser visto.
-
-Dito isto, que venha [Happy Feet 2].
-
-[Bebês]: {{< relref "bebes" >}}
-[Happy Feet 2]: {{< relref "happy-feet-2-o-pinguim" >}}
+Em breve (não duvido), um longa contando a saga do esquilinho Scrat. É bom lançar logo para aproveitar o boom das longas, longas aventuras do Hobbit.
 

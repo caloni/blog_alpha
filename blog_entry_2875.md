@@ -1,16 +1,30 @@
 ---
 categories:
 - writting
-date: '2014-03-04'
-link: https://www.imdb.com/title/tt0477348
+date: '2017-09-15'
+link: https://www.imdb.com/title/tt1536537
 tags:
 - movies
-title: Onde os Fracos não Têm Vez
+title: Onde Está Segunda?
 ---
 
-Deve existir um "bug" ou chip implantado na maioria dos críticos para que estes adorem filmes que se preocupam milimetricamente em realizar a experiência mais real possível, ainda que estes estejam equipados de fotografia, figurino, direção de arte e roteiro. Isso poderia explicar a veneração quase que incondicional de certas obras, como O Som ao Redor (Kleber Mendonça Filho, 2012), Amor (Michael Haneke, 2012) e este Onde os Fracos Não Têm Vez, dos irmãos Coen, os mesmos que já haviam realizado Fargo e cuja existência não pode passar em branco ao analisarmos seu filme gêmeo.
+Hoje em dia até os títulos dos filmes encomendados pela Netflix são ruins. E nesse caso não há erro: esse filme é muito ruim. Não ruim de trash (para se divertir), nem ruim de estilo (para ficar com ódio). Ruim de você não sentir nada, mesmo.
 
-Dito isto, é um filme tenso e sereno ao mesmo tempo. Sua quase ausência de trilha sonora (e diálogos) e seus enquadramentos calculados em torno de uma tela extremamente larga o transformam em um épico instantâneo que acompanha a caça em torno de uma maleta com dois milhões encontrada por acaso por Llewelyn Moss (Josh Brolin), um morador local veterano de guerra. Acompanhado de perto por um dos assassinos mais sem escrúpulos que o Cinema já viu, Anton Chigurh, vivido sem limites por Javier Bardem, e por um oficial da lei que faz o papel vivido por Tommy Lee Jones mas que basicamente continua a personagem vivida por Frances McDormand em Fargo. O criminoso (Barden) o segue fisicamente muito perto, e quase podemos sentir sua respiração logo atrás. A lei (Lee Jones) o segue quase que metaforicamente, através de uma investigação que parece cada vez avançar menos.
+Talvez não seja exclusivamente deles. Ultimamente os filmes de sci-fi enlatados (Série Alien, Vida) estão em franco declínio de ideias. Toda uma vasta literatura do gênero e porções generosas de computação gráfica não torna as propostas comerciais minimamente interessantes como ideia. E nem execução.
 
-E é exatamente essa a moral da história dos Coen, verbalizada por Lee Jones. O mal hoje em dia é inimaginável perto do que nossos antepassados já viram, muitos deles xerifes que sequer se preocupavam em portar uma arma. A maldade em No Country for Old Men atinge qualquer um que estiver à frente dos objetivos de Chigurh, por mais banais que eles sejam. A jogada da moeda, um toque pessoal do assassino, visualiza de maneira exemplar o aspecto caótico dessa violência: "a moeda chegou aqui assim como eu". Essa frase para mim sintetiza toda a essência desse personagem, e em uma futura revisita ela fará mais sentido do que todos as outras falas juntas. O filme termina basicamente aí, pois percebe-se a falta de ritmo e jeito para terminar "a aventura". Um evento raro no currículo dos Coen, que já nos brindaram com trabalhos tão memoráveis.
+Nesse caso temos um Willem Dafoe desperdiçado vendo as sete gêmeas recém-nascidas de sua finada filha e falando/contando em voz alta: Domingo, Segunda, Terça...
+
+Trinta anos se passam e a história que é com essas meninas crescidas irá aos poucos explicar todo o sistema montado pelo avô para mantê-las vivas. Sim, este é um futuro distópico onde transgênicos causam uma ultra-fertilização das mulheres, fazendo-as terem muitos filhos por parto (risos incontroláveis). A solução do governo, que aqui se chama Agência pois um governo nunca faria engenharia social, apenas corporações malvadas (risos incontroláveis), é manter a regra de um filho por família, colocando todo o resto em estado criogênico para quando a Terra estiver menos super-habitada. Aham.
+
+Agora, tudo isso já é extremamente ridículo, mas a capacidade do diretor e seus roteiristas em extrapolar o senso de ridículo é incomensurável apenas se baseando no plot inicial. O que vemos é uma trama que se revela quando uma das gêmeas não volta para casa. Aliás, eu comentei que cada uma das irmãs tem um dia da semana para sair, e que todas como uma mesma identidade, já que a existência de mais de uma colocaria em risco a existência de todas? Não, não comentei. Mas adivinha qual dia da semana ficou reservada para uma pessoa que se chama Segunda? Acho que agora você está entendendo.
+
+No fundo este não é um sci-fi para fazer pensar, pois ele logo vira mais um filme de conspiração, perseguição, tiros e explosões, todos intercalados por frases óbvias ("cada uma de nós nos sacrificou por todas"). Mas o pior vem a seguir. Aos poucos vemos que o idealizador dessa história gosta muito do filme Matrix, fazendo questão de imitar algumas cenas e músicas. O resultado é um copycat horroroso que termina com uma personagem tendo como única saída pular uma distância considerável entre dois prédios. Auxiliada pela -- onisciente em todas as produções do gênero -- hacker de cadeira.
+
+Aliás, todas essas meninas são gênios, lutam bem, e ninguém tem a menor ideia de como elas praticaram tudo isso. Elas são amedrontadas desde o começo, ficando difícil entender a personalidade única de cada uma delas. A atuação da única atriz responsável pelas sete irmãs não é terrível. Apenas limitada, seja pelo roteiro ou por ela mesma.
+
+Aliás, o grande "mérito" do roteiro é não fazer parecer que duas horas de filme tem três horas de duração. A sensação é de duas horas, mesmo. Surpreendentemente há muito o que contar nessa trama pseudo-complexa.
+
+O mesmo não se pode dizer das reviravoltas do final, que nada servem para o impacto desejado. Quero dizer, convenhamos: este futuro já é uma droga. O que pode ser pior que isso? E se governos... desculpe, corporações malvadas podem fazer o que quiser hoje, o que dirá em uma eterna crise. A personagem da Gleen Close lamenta que a humanidade não tenha vislumbrado seu grande plano para o futuro, ingenuamente sem perceber que ele é um desastre já no papel.
+
+O que me lembra um pouco os dirigentes da Netflix. Talvez essas histórias enlatadas sejam o futuro distópico onde essa corporação do mal controla todos os roteiristas e diretores do mundo inteiro. Já pensou que terrível?
 

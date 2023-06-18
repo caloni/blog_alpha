@@ -1,11 +1,12 @@
 ---
 categories:
 - writting
-date: '2017-11-21'
+date: '2010-05-21'
+link: https://www.imdb.com/title/tt1068962
 tags:
-- food
-title: Quinta de Bons-Ventos 2015 Lisboa
+- movies
+title: Quincas Berro d'Água
 ---
 
-Tom violáceo na cor com corpo médio pra forte, dependendo da sua sensibilidade; um pouco alcoólico demais, médio tânico, frutado maduro com geleia. Abrindo para comer com queijo de cabra e presunto espanhol que sobrou na geladeira.
+É uma comédia até que eficiente nos momentos em que o morto "participa" da "bebemoração" de seu grupo de amigos, mas carece de algum elemento que junte isso à sobriedade da família do defunto. Mesmo assim, essa espécie de Dom Casmurro versão alcoolizada tem o seu charme pela criação daquela atmosfera de filme de época, vida boêmia e a falta do famigerado e mais que atual politicamente correto.
 

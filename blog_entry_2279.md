@@ -1,13 +1,12 @@
 ---
 categories:
 - writting
-date: '2021-10-15T22:07:12-03:00'
+date: '2014-02-02'
+link: https://www.imdb.com/title/tt0365376
 tags:
-- animes
-title: Megalobot
+- movies
+title: Janghwa, Hongryeon (aka Medo, A Tale of Two Sisters)
 ---
 
-Este anime contemporâneo começa como se fosse dos anos 80 e energizado com uma trilha pauleira, mas aos poucos se revela um estudo dedicado sobre detalhes do boxe, do esporte em si, e um pouco sobre esse arco fascinante dos perdedores escalando seu caminho rumo ao topo. A síndrome de Rocky, Um Lutador.
-
-Os detalhes do esporte que eu digo é sobre postura do lutador, ritmo, relação peso e força, agilidade combinada com oportunidade. Eu nunca vi, nem no cinema, um trabalho tão dedicado em esmiuçar essas questões sem ser um documentário ou cheio de texto. Aqui você sente esses momentos nas lutas que assistimos, desenhadas com afinco para sentirmos o impacto das mudanças nas atitudes dos lutadores.
+Um filme vendido como terror, mas que não consegue sequer chegar próximo de um suspense. Depois de passarmos quase duas horas acompanhando a movimentação de uma câmera que parece estar sempre revelando algo espantoso ou fantástico (não está), temos uma série de revelações completamente atrapalhadas sobre algo que não estávamos sequer procurando desvendar. O que torna o final pior ainda é que os motivos de seus personagens só são revelados nos últimos segundos (!), quase que nos jogando para os letreiros finais antes que tenhamos tempo de "aproveitar" todas aquelas informações que até então tinham sido negadas em prol de um suspensezinho que nunca chega a se tornar relevante.
 

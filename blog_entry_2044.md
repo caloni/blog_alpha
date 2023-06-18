@@ -1,11 +1,21 @@
 ---
 categories:
 - writting
-date: '2021-08-25T22:06:58-03:00'
+date: '2018-10-26'
+link: https://www.imdb.com/title/tt1893269
 tags:
+- cinemaqui
 - movies
-title: L'Enfant
+title: Kusama - Infinito
 ---
 
-Drama naturalista dos irmãos Dardenne. Encontram o casal de jovens perfeito para encarnarem uma história não tão comum de garotas seduzidas por homens fracos, mentirosos compulsivos. Não há violência física, mas o que faz uma mulher se sujeitar a objetos humanos como esse é fascinante e doloroso. Ambos os atores vivem momentos íntimos de partir o coração, de dor e felicidade. Eles têm uma criança. Ela acabou de nascer. Para Bruno é algo trivial. Mas ele precisa dela para sobreviver, não desabar como o ser abjeto que no fundo é. Vivendo de mentiras e pequenos furtos, ele vende o filho. E isso é natural para ele. O que segue é um estudo primoroso de personagens em situações que evocam um realismo aceitável para a trama. As rimas são concebidas pela dupla de diretores e roteiristas como a rotina do rapaz. Começa com ela, mas ele vira o protagonista. Ele tenta incessantemente reatar com ela. Seu tempo de liberdade está acabando. Ele não consegue se suportar. Que filme poderoso.
+Kusama - Infinito é um documentário de praxe, desses que tem aos montes na TV e na Netflix (aliás, este possui agradecimentos do serviço de streaming nos créditos finais, o que indica que em breve deve estar disponível para os assinantes).
+
+Ele fala da surpreendente carreira da artista contemporânea Yayoi Kusama, que no ápice da loucura se internou voluntariamente em uma clínica psiquiátrica por medo de ter ataques nervosos que trariam um fim à sua vida. Mas ela não podia morrer. Diagnosticada com Transtorno Obsessivo-Compulsivo, Kusama leva as obsessões mentais em sua cabeça a sério. Ela está no limite do que pode-se considerar normal, e é isso que faz ela trazer sua genialidade à tona.
+
+O documentário vai cronologicamente explicando sua trajetória, com testemunhos de diretores de arte e alguns amigos. Lembra um dos episódios de Abstract, uma série que apresenta artistas modernos e suas tentativas de transcender, mas com um pouco de drama embutido, como os limites sociais que Kusama encontrou, como a panelinha de arte que favorecia certas pessoas de poder expor nas galerias, ou até a associação que se faz com suas posturas políticas possivelmente controversas, como ser contra a guerra do Vietnã e militar em diferentes protestos nua.
+
+As explicações de sua arte são a melhor parte para leigos, pois tenta nos explicar o porquê dessa mulher ser tão importante para a arte moderna. Porém, o próprio conceito de arte moderna cai na contradição infinita de conseguir definir o que é arte, então há alguns exemplos de valores das obras e outros exibidores famosos, o que pode dar uma ideia mais precisa do peso de Kusama em todo o movimento.
+
+Do início ao fim convencional, mas não burocrático, pois consegue em pouco mais de uma hora expor a vida inteira de Yayoi Kusama, "Infinito" é um registro necessário dessa artista, mas que poderia ser mais criativo, já que estamos falando de um dos pilares da criação moderna.
 

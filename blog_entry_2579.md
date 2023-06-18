@@ -1,18 +1,16 @@
 ---
 categories:
 - writting
-date: '2018-01-12'
-link: https://www.imdb.com/title/tt0419887
+date: '2012-04-12'
+link: https://www.imdb.com/title/tt0156610
 tags:
 - movies
-title: O Caçador de Pipas
+title: O Buraco
 ---
 
-Eu não li este livro. E nem preciso. O Caçador de Pipas é romance ficcional puro, adaptado da maneira mais eloquente e visual jamais vista. Uma história que é uma longa sequência, que passa por décadas e diferentes cenários, personagens, situações. Com o pouco que o filme apresenta ele se torna complexo o suficiente para nos fazer prender a atenção pela história do jovem Amir como o própro Amir prendia a atenção de seu servo e amigo Hassan contando uma das mil e uma histórias de seu livro. A essência de contar história está na essência deste filme. E é por isso que ele é tão bom. Ele segue um fluxo literário em forma de cinema, apresentando detalhes que marcam a cada momento e são retornados no momento propício. Quando chega o terceiro ato nos lembramos como se tivéssemos acabado de ver o final da amizade desses dois, e como a vida segue longos arcos que, se Deus permitisse, gostaríamos de fechar antes de partir.
+O Buraco é muito mais sobre nossa posição como seres humanos e como nos relacionamos com ambientes e situações que quase sempre nos diz mais do que ela mesma. Após a descoberta de uma epidemia de um vírus que levava à loucura e à morte em uma região de Taiwan o governo ordena a retirada das pessoas e deixa o local em estado de quarentena. No entanto, vários moradores fazem questão ainda de sobreviver no bairro onde antes viviam normalmente, só que com o passar do tempo o estado mental e seu ânimo estavam muito diferentes do usual. O aparecimento de um vazamento no chão entre os apartamentos de um rapaz e uma moça, que vivem em torno de goteiras e vazamentos, representa não só o estado de calamidade do local como o próprio estado de espírito.
 
-Talvez você adquira o seu personagem favorito dessa história. Provavelmente é Hassan, uma criança adorável que segue tão fortemente os ensinamentos do seu pai, também servo da família, que é tocante sua lealdade tanto quanto Sam era para Frodo em Senhor dos Anéis (mas aqui, estranhamente, sem nenhum cunho homossexual).
+Nesse ambiente ostensivo e isolado, a chuva nunca passa, e as goteiras apenas aumentam a desilusão de que um dia tudo volte ao normal. A única esperança da moça que vive agora com um buraco no teto é enfeitar sua realidade em torno de números musicais que imagina estar participando, e se não fosse isso o filme seria um mistério ainda maior. Aos poucos somos informados dos detalhes da doença que atingiu a população. Mas o diretor Ming-liang Tsai está menos preocupado com isso do que com o psique dos seus personagens, que não tem nome, e que por isso representam os sobreviventes desse mundo.
 
-Amir já não está tão certo de quem é. Ele sofre um trauma por conta de um trauma muito maior sofrido pelo amigo. Seu pai, Omar, é interpretado pelo desconhecido Sayed Jafar Masihullah Gharibzada com uma potência moral tocante. Ele também segue seus valores de maneira incondicional, e se torna cada vez mais meu personagem favorito. Ele possui ideias simples, apesar de rico. E possui fibra moral. Seu momento de dentro de um caminhão em fuga abordado é tão forte que serve para Amir uma década depois.
-
-O Caçador de Pipas é um filme sobre muitas coisas. Mas, principalmente, sobre contar histórias com primazia. E conseguir adaptar romances já deveria valer um prêmio de imediato. Agora, transformá-lo em algo mais, em arte audiovisual, é digno de memórias afetivas poderosas. Tal como uma história bem contada.
+A direção de arte é opressiva. A fotografia parece ampliar a imundice de um clima eternamente úmido. Não é preciso criar um mundo inóspito e desconhecido para entendermos a angústia que aquelas pessoas vivem dia a dia. Talvez o próprio fato de estarmos em terreno conhecido torne tudo mais cruel por seu realismo. Não são os efeitos visuais que convencem sobre o fardo dessa vida, mas a imaginação. E essa não tem limites.
 

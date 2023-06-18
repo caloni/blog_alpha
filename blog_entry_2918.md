@@ -1,23 +1,18 @@
 ---
 categories:
-- reading
-date: '2017-05-28'
-link: https://ideallibertario.wordpress.com/2016/04/25/os-fundamentos-praxeologicos-da-teoria-legal-libertaria/
-tags: []
-title: Os fundamentos praxeológicos da Teoria Legal Libertária
+- writting
+date: '2011-03-21'
+link: https://www.imdb.com/title/tt1067106
+tags:
+- movies
+title: Os Fantasmas de Scrooge
 ---
 
-Em essência, a ética libertária não ambiciona buscar o que é certo, mas em determinar o que com certeza não pode ser justificado. Este meu artigo cita alguns pontos vitais do artigo de Lacombi Lauss.
+Jim Carrey em Motion Capture é, em poucas palavras, inusitadamente fabuloso. O trabalho feito em seu personagem, protagonista do clássico conto de Charles Dickens, que se mantém homônimo no título original, é, de longe, um trabalho rebuscado tanto nas expressões quanto nos movimentos do boneco através dos cenários igualmente trabalhados à exaustão.
 
-Este raciocínio não deduz um "dever ser" de um "ser"; ele apenas enfatiza a autocontradição ao se negar uma proposição de dever ser o homesteading ou a autopropriedade. 
+Portanto, é uma pena que o aspecto estético desse tipo de filme ainda peque pela estranheza que gera ao vermos figuras humanas não exatamente reais, e tão pouco virtuais. E apesar de ter havido uma evolução considerável desde o último trabalho utilizando essa técnica (O Expresso Polar), em nada se compara ao uso legítimo e otimizado em Avatar, facilitado por usar criaturas da imaginação.
 
-Apesar do nome "propriedade privada", é necessário que suas fronteiras estejam publicamente visíveis e objetivamente determinadas, pois somente assim a divisão entre o seu e o meu estará clara e o comportamento ético será possível. 
+Para os fãs do livro, a caracterização das cenas não perde em nada no aspecto descritivo. Porém, a noção que temos de Scrooge no original é de que ele é uma pessoa muito mais maldosa e mesquinha, o que não transparece na interpretação de Carrey justamente pelo filme ter um teor e um foco maior no público infantil e familiar.
 
-O fronteiramento atua como uma comunicação não-verbal, funcionando como uma declaração da justiça da apropriação, pois qualquer retardatário terá uma reivindicação necessariamente pior que o homesteader original (ou quem obteve o bem contratualmente com ele), já que o elo entre este e seu bem é objetivamente apurável e mostra, praxeologicamente, que, no passado, o atual dono teve um maior interesse no recurso, concretizado pela sua ação apropriadora. Os retardatários nada têm a reclamar daqueles que primeiro fizeram uso de um bem, pois o homesteading é um movimento superior de Pareto i.e. gera bem-estar sem prejudicar nenhuma outra pessoa, envolvida ou não na ação -, em virtude da lógica da ação (e inação) do homem. De fato, se ele usa seu trabalho para apropriar algum recurso natural, então ele necessariamente valoriza essa coisa. Portanto, ele deve ter obtido utilidade em sua apropriação. Ao mesmo tempo, a sua ação não faz com que ninguém fique em situação pior, pois, com a apropriação de recursos previamente sem dono, nada é tirado de outrem. Além disso, a inação das outras pessoas, que comprovadamente não se apropriaram de tais bens, mostra uma preferência de não usufruí-los. Assim, elas não perdem utilidade no processo. 
-
-Com esses conceitos em mente, pode-se observar que, se existisse uma regra ética segundo a qual os cidadãos pacíficos teriam que punir agressores, então, além de irrealista, ela iria contradizer a já estabelecida norma da autopropriedade, pois o indivíduo pacífico que negar segui-la teria também que ser agredido. Além disso, uma regra ética distinguindo pessoas em grupos como "pacíficos" e "agressores" sequer passaria no primeiro teste formal da universalização. 
-
-Tomemos, para fins de ilustração, o socialismo marxista como exemplo. A partir dessa nossa perspectiva, fica claro que tal filosofia política está longe de ser um sistema igualitário, visto que, declarar todos como coproprietários de tudo resolve os problemas das diferenças de propriedade apenas nominalmente, mas não resolve o real problema subjacente: diferenças de poder para controlar. O problema de determinar o que deve ser feito com os meios de produção ainda existe e deve ser resolvido de algum modo, sabido que não há nenhuma harmonia pré-estabelecida e pré-sincronizada de interesses entre todas as pessoas, mas, ao contrário, algum grau de desacordo. Apenas uma opinião sobre o que deve ser feito pode de fato prevalecer e as outras devem serem excluídas. Entretanto, então novamente outras desigualdades aparecerão entre o povo: a opinião de um indivíduo ou de algum grupo deve sobrepor-se às dos demais. 
-
-No socialismo, também, diferenças reais entre controladores e não controladores devem necessariamente existir; mas são determinadas de modo arbitrário, pelas vias da regra do mais forte daqueles que detém maior poder político.
+É uma pena, porém, que as cenas do primeiro espírito sejam sufocadas pelo final romantizado e simplificado.
 

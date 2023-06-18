@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2015-02-16'
-link: https://www.imdb.com/title/tt2279373
+date: '2020-11-14'
+link: https://www.imdb.com/title/tt4823776
 tags:
 - movies
-title: 'Bob Esponja: Um Herói Fora d''Água'
+title: 'Bob Esponja: o Incrível Resgate'
 ---
 
-Bob Esponja representa a subversão do desenho animado como forma de contar uma história. É um anti-Disney falando diretamente para as crianças de todas as idades mentais possíveis, tenha você cinco ou cinquenta anos. É uma viagem de LSD pelo submundo das piadas descontextualizadas, colocando para escanteio até trabalhos como Uma Família da Pesada (pois até eles têm um contexto por fingir estar em um sitcom) e ao mesmo tempo homenageando o clássico Pica-Pau (Ben Hardaway/Walter Lantz/Alex Lovy, 1940) em uma versão não-violenta. Pior do que Homer em Os Simpsons: O Filme ("Eu não posso acreditar que estamos pagando para ver algo que passa na TV de graça!"), realiza um trailer que promete um filme 3D e entrega 20% dele. Bob Esponja: Um Herói Fora d'Água mereceria aplausos apenas por enganar seus espectadores, mas eu digo que merece também por honrar os roteiros inspiradíssimos que passam na Nickelodeon e não se deixar levar pelo próprio marketing, jamais criando uma história abaixo dos padrões de absurdo vistos na telinha.
+Certamente esta é a obra mais ofensiva ao legado de Bob Esponja. Não-canônica (explica as origens das amizades tudo errado) e apelando para sentimentos baratos com uma trama descaradamente copiada do [filme original], "O Incrível Resgate" mantém alguns bons momentos do personagem aloprado e seus amigos, mas trai nossas expectativas em sequências inteiras no melhor dos casos desnecessárias e no pior contra a atmosfera da série animada original.
 
-E que melhor absurdo do que assistir a pseudo-referências porcamente inseridas em viagens no tempo, golfinhos falantes, apocalipse com roupas de couro e todas as paródias possíveis e que ninguém poderia imaginar a respeito da onda de filmes de super-heróis jamais imaginada?
+Por outro lado, a animação é admirável. Se trata de uma produção de alto custo, e os artistas digitais capricham muito nos detalhes, inserindo aqui e ali referências divertidas, mas mais do que isso recriando a Fenda do Biquini no formato 3D digital. E em certo momento somos levados para o deserto e uma cidadezinha deserta onde o bar está infestado de zumbis piratas, que é quando percebemos a falha: qualidade, mas não organicidade.
 
-Construindo sua trama a partir de um livro mágico onde tudo que se escreve nele acontece -- mas só deixar o público entender isso muito tempo depois de mastigar sua longuíssima introdução --, a história gira em torno de um pirata que altera a ordem das coisas na conhecida Fenda do Biquíni, onde Bob Esponja Calça Quadrada cozinha hambúrgueres de siri para os sempre famintos moradores da cidade. Roubando a igualmente conhecida fórmula que é responsável pelo sucesso dessa iguaria, o pirata obriga os moradores fiéis -- menos os secundários -- a arregaçar as mangas e sair para a superfície. Só que até isso acontecer muita água vai rolar em passagens que até funcionam organicamente, mas que contém surpresas muito melhores em suas mini-tramas envolvendo as situações listadas no parágrafo anterior.
+O uso de cores é absolutamente fenomenal. Você quer mastigar cada pedaço de cenário. Ou os próprios personagens. Bob Esponja e seus principais amigos estão bem caracterizados em 3D, com exceção da esquilinha Sandy, que com seu pelo arrepiado por dentro de um capacete está mais para um experimento falho de fantoche.
 
-No entanto, voltemos para a terra firme. Mostrar Bob Esponja e seus amigos em um filme inteiro no formato 3D não seria uma solução viável, pois isso estragaria a imagem que temos dos personagens e não criaria os mecanismos que já conhecemos debaixo d'água e que torna a história sempre dinâmica e interessante. Dessa forma, quando isso acontece, ela é feita unicamente durante as sequências de ação, com cortes desenfreados, muita movimentação e troca de foco que garante que essa breve passagem não irá manchar nossa imagem bucólida da vida submarina em um 2D muito bem aceito por até o momento dez temporadas.
+Mas este nunca vira um filme de fato. É um ou vários episódios da série juntos em uma aventura nada inspirada. Há longas sequências que não alteram em nada para a trama principal. Eles utilizam Keanu Reeves porque está na moda, e alguns fãs talvez até gostem dessa participação especial e magnética, mas não deixa de ser um artifício para arrecadar público de um projeto problemático. A mesma coisa para outras participações, como Danny Trejo e Snoopy Dogg. Este último foi criada uma sequência musical sem qualquer motivo.
 
-Com uma conclusão alongada um pouco demais, o segundo filme com o herói esponjoso certamente merecerá revisitas, pois creio que metade das piadas pelo menos conseguirão ser redescobertas (como um tiranossauro com cara de polvo tentando agarrar um hambúrguer de siri). E também, é claro, quando nossa idade mental envelhecer um pouco e as velhas piadas contiverem novas conotações.
+No entanto, as músicas são muito boas, embora não se encaixem no que vemos na tela. O remix dos créditos finais do tema principal da série é um brinde a mais, por termos assistido a este assassinato do original. E ainda dedicam o filme ao criador da série, Stephen Hillenburg. É um clichê dizer isso, mas ele deve estar se revirando do túmulo.
+
+[filme original]: {{< relref "bob-esponja-o-filme" >}}
 

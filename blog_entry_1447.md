@@ -1,20 +1,18 @@
 ---
 categories:
 - writting
-date: '2011-11-27'
-link: https://www.imdb.com/title/tt0067185
+date: '2011-01-30'
+link: https://www.imdb.com/title/tt0398286
 tags:
 - movies
-title: Ensina-me a Viver
+title: Enrolados
 ---
 
-Harold é um garoto problemático para sua idade. Obcecado em fingir suicídios e sentindo prazer em frequentar enterros, não possui outra pretensão na vida. Introspecto e de poucas palavras, o uso de músicas existencialistas em torno dos seus atos aprofunda ainda mais seus sentimentos.
+A história clássica de Rapunzel é recriada com o novo senso se humor Disney/Pixar, em que o príncipe é um ladrão procurado, e a frágil princesa não é tão frágil assim. Temos aí os mesmos elementos que tornaram a Disney tão amada pelas crianças e adultos: números de música inspirados (com destaque para o bar do patinho) e uma história sem muitos conflitos e um final feliz.
 
-Sua própria introspecção e solenidade em seus suicídios encenados criam uma espécie de dubiedade no personagem, pois não sabemos ao certo se rimos pelo humor do absurdo ou escolhemos nos compaceder do jovem que ainda não sabe como aproveitar a vida que possui.
+Uma fotografia aprimorada, que dá a iluminação adequada em todas as cenas (claras e escuras). Uma dublagem duvidosa do príncipe -- versão brasileira --, mas competente dos outros personagens, com destaque para a madrasta da princesa.
 
-Já Maure, perto dos 80 anos bem vividos, transa bem o fato que está próxima do fim e celebra as transformações do ciclo da vida. Não muito adepta de convenções sociais, se torna uma companhia inusitada, mas tão natural que chega a parecer estranho que nunca tivessem se encontrado ainda nos enterros que ambos frequentam.
+Algumas cenas forçadas, que tentam livrar a cara do roteirista que chegou em situações um tanto difíceis de sair: a princesa precisa se lembrar dos seus pais para se livrar de sua madrasta, e as gotas de lágrima dela são curadoras tanto quanto os cabelos.
 
-Essa dualidade da vida e da morte permeia os 91 minutos do filme e serve de pano de fundo para questões filosóficas sobre o tema que nunca chegam a ser de fato tão relevantes para o roteiro, que se concentra ao máximo para tornar comédia o que obviamente é uma história de drama leve e com boas doses de humor.
-
-Piegas talvez em seu final, mas forte em sua mensagem de amor à vida e a aceitação da morte como um evento natural que devemos igualmente celebrar, Ensina-me a Viver não chega a ser tão notável quanto poderia ser se esquecesse sua missão de parecer engraçado; em muitos momentos ele simplesmente não é, e é isso que o torna um trabalho mais relevante.
+Destaque para a movimentação dos personagens e suas expressões, uma marca Disney, mas ainda cada vez melhor. A cena dos balões é a mais emocionante, e tem uma equiparação com a da morte do vagalume no trabalho anterior (A Princesa e o Sapo), embora Enrolados seja muito superior em termos de narrativa.
 

@@ -1,30 +1,20 @@
 ---
 categories:
 - writting
-date: '2011-09-05'
-link: https://www.imdb.com/title/tt0110357
+date: '2018-01-14'
+link: https://www.imdb.com/title/tt1485796
 tags:
 - movies
-title: O Rei Leão
+title: O Rei do Show
 ---
 
-O Rei Leão visto como deve ser visto, ou seja, em 2D, consegue impressionar pela síntese dramática que escolhe para não tornar o programa demasiadamente infantil para o seu principal público-alvo (as crianças) mas consegue se manter íntegro e representar de maneira irretocável a contribuição Disney para manter viva a lenda e uma das peças mais conhecidas de Shakespeare: Hamlet.
+O Rei do Show já foi formatado para ser de fato um show. Na broadway. Todos os elementos permanecem em cena. De repente um grupo começa a cantar (de novo! e de novo!) e eles participam de todos os cenários e grupos no palco na mesma canção. O show que está sendo celebrado é o da própria vida. Os números de dança não privilegiam ninguém em específico. Todos possuem igual importância no quadro. Tal qual a vida. Estamos todos aqui, na mesma pedra rochosa orbitando uma estrela média e onde as pessoas ainda têm medo e raiva do diferente. Só nos resta cantar em vez de falar. Não porque estamos em um musical, mas porque essa é a maneira de espantar o lado sombrio de nossa existência.
 
-Quando eu digo íntegro quero dizer que até mesmo temas que hoje em dia são covardemente evitados mesmo entre o público adulto como a morte e o sexo são inseridos na narrativa e com direito a uma trilha sonora excepcional, que consegue oscilar dinamicamente entre a comédia e o drama épico como ondas que se formam durante a história.
+Este filme do estreante Michael Gracey segue um roteiro delirante escrito por duas pessoas fora da sua área de conforto: o produtor da série Sex and the City e o diretor de Crepúsculo - Amanhecer. A história é aquele clichezão do garoto pobre que constrói sua própria sorte e corre atrás da garota que ama e do seu grande sonho: se tornar alguém importante nos holofotes. Ele fabrica então seu espetáculo abraçando o que todos ignoram, incluindo suas próprias famílias: humanos com uma ou outra deficiência. Um anão, uma mulher barbada, um homem extremamente alto, outro extremamente gordo e por aí vai.
 
-Criando personagens de maneira econômica, mas que se firmam na narrativa pelo que representam, o macaco sábio, os palhaços salvadores de Simba, a princesa como elo com o passado, o criado fiel , a história se entrelaça de maneira simples o suficiente para que os espectadores infantis entendam o destino de Simba, mas de forma complexa o suficiente para que entendamos toda a filosofia por trás da alegoria com animais, como o reino decadente e o significado da nobreza.
+A produção deste filme é impressionante. As cores vibram, as luzes estão nos lugares certos e há ação a todo momento, mas enquadramentos muito loucos nos fazem perder o fio da meada e não conseguir ver direito o que está acontecendo. Mas tanta coisa acontece que isso não importa. Não há nenhuma sequência memorável neste filme, mas há muitos quadros que vez ou outra estão muito mais certos do que o conjunto da obra. E quando isso está cercado de boas músicas com bons intérpretes o emocional fala mais alto.
 
-Com uma conclusão que aspira por aplausos em pé, o uso da metáfora do círculo da vida nunca foi tão significativo e poderoso.
+Não que o grupo de atores seja formado por apenas ótimos cantores. É justamente o contrário e é aí que reside o truque. No filme há uma cantora de verdade, na figura da atriz Rebecca Ferguson (e dublada pela sensacional cantora Loren Allred). É ela o comparativo com a trupe de artistas que arrisca seus números. Incluo aí Hugh Jackman, que já tinha nos tentado em Os Miseráveis. Funciona porque é esta a ideia martelada no filme: todos possuem um lugar ao sol, seja um cantor medíocre, pobres ou pessoas com disfunções genéticas. A questão é: todos são pessoas.
 
-Voltando agora da sessão 3D (leia-se: mutilada) do clássico dos clássicos da Disney, mas ainda me custa a entender por que esse desenho, em detrimento de tantas produções mais criativas, é tão supervalorizado pelas plateias.
-
-É óbvio que a trilha sonora é magnífica, e consegue oscilar perfeitamente entre as cenas dramáticas, de ação e de humor, como podemos ver pela leveza da música-lema de Timão e Pumba, em detrimento ao clima sombrio e ameaçador dos toques sufocantes da fuga para os espinheiros. Da mesma forma, a sequência do estouro dos antílopes consegue unir de maneira completamente orgânica o trotar das centenas de animais em disparada e o tema composto por Hans Zimmer para a cena, que evoca um misto de urgência e perigo, caindo no final, para um melancólico destoar.
-
-Já a fotografia, marca registrada das produções 2D da Disney, consegue se expressar aqui com o uso de traços que lembram aquarela, ainda que mantenha sua precisão. E perceba como o humor de Simba e do reino de seu pai é determinante para a palheta dominante, e perceba como o acizentado sombrio e desconfortante da morada das hienas toma o lugar que antes era cheio de cores vivas e em movimento.
-
-Da mesma forma, o roteiro segue uma coerência inatacável, embora a força da história esteja justamente em sua simplicidade que deve conseguir tocar o coração de pessoas de todas as idades. Muitos dizem que O Rei Leão evoca um tema Shakesperiano, e muito provavelmente a alma de Shakespeare passeia pelo reino de Mufasa e seu ciclo da vida.
-
-Porém, ainda que tenham passados meros 17 anos de sua estreia (pouco para se transformar realmente em um clássico), seu envelhecimento no que diz respeito ao timing cômico, ou mesmo algumas piadas (assisti à dublagem brasileira) cheiram levemente a datadas.
-
-Mas quem sou eu para criticar um filme tão bem feito e tão amado por crianças e adultos de todas as idades.
+É difícil analisar a atuação em cena, pois tudo se resume a coreografia, que é confusa, rápida demais. Mais uma vez os enquadramentos confusos, junto de uma edição frenética (para dizer o mínimo) feita por nada menos que seis pessoas! E a trilha sonora continua. Ela sempre continua. Quando queremos uma pausa, alguém vai começar a falar... e canta. Hugh Jackman está impossível. De três coisas que ele tem pra falar ele acaba cantando quatro. E quando finalmente ele começa a apenas falar, no momento seguinte algumas notas são ouvidas e... começa um novo número. Broadway irá adorar este show. Como cinema, se mantém bonitinho e agradável para o grande público. Pelo menos é fiel a esta ideia, no filme e na vida real.
 

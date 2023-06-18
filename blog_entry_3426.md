@@ -1,24 +1,30 @@
 ---
 categories:
-- writting
-date: '2015-08-31'
-link: https://www.imdb.com/title/tt0070666
+- playing
+date: '2023-01-17T18:56:20-03:00'
+link: https://www.chess.com/game/live/67729990167
 tags:
-- movies
-title: Serpico
+- chess
+title: Sequência de mate forçado onde a chave é o controle de uma casa
 ---
 
-Serpico é mais um filme que se aproveita ao máximo da persona de Al Pacino. Um "Bons Companheiros" versão policial do diretor Sydney Lumet, que iria também trabalhar com o ator em Um Dia de Cão. Aqui ele interpreta Frank Serpico, um policial que descobre que um sistema de coleta de propinas existe aparentemente em todos os departamentos de polícia de Nova York -- ou pelo menos em todos em que ele passa -- e não consegue se desvencilhar da ideia de estar fazendo algo de errado em não acusar seus colegas de estar fazendo. Oriundo de família italiana, o conflito moral que ele se coloca cresce vertiginosamente enquanto ele tenta achar pelo menos uma pessoa íntegra na cidade para por um fim à corrupção policial, galgando todas as hierarquias, encontrando obstáculos mais sutis do que tinha no começo.
+Brancas jogam e eu nem sei mais por que salvei essa partida.
 
-O que é genial no filme é que esse dilema moral é invertido logo no começo, quando o vemos ser baleado e a preocupação de diversas pessoas em torno desse evento, pois parecia existir "pelo menos uns cinco tiras dispostos a enfiar uma bala em sua cabeça". Ao fazer o espectador pensar que este é um caso de um policial corrupto que passa a ser odiado por onde passa -- ou pelo menos ficar em dúvida de qual é o lado certo da história -- a imersão em torno de toda a sujeira conivente da força policial é mais intensa, assim como Serpico a sente.
+{{< image src="board.png" >}}
 
-No entanto, antes de investigarmos a posição em que o sujeito se colocou, Sidney Lumet primeiro dedica metade do filme para mostrar a evolução de Frank desde a época de recruta bem-intencionado. Logo vemos que Serpico é esperto, que não perde tempo em serviço, e que algumas coisas o deixam incomodado, como a surra que um dos suspeitos de um estupro leva. A forma como a investigação feita por ele e como ele consegue pegar outros dois suspeitos simplesmente levando o sujeito na conversa é primordial para entendermos a rapidez com que ele galga as posições policiais, e como está disposto a se tornar detetive disfarçado. Serpico é a mente policial em ação. O problema aparece quando percebemos que talvez ele seja a única mente policial em ação de toda Nova York. Como ele diz em determinado momento, "se o resto dos policiais tivesse tanta energia para combater o crime quanto para manter o esquema de propinas, o crime seria varrido da cidade".
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.17"]
+[White "cavaloni"]
+[Black "Ujkobolji"]
 
-Mais impactante é a forma de vermos Serpico sempre em movimento, quase correndo, até quando vai ao teatro com sua namorada, enquanto o resto dos seus colegas está sempre encostado em uma parede, com um sorriso de lado, com uma conversa mole. A honestidade é relativizada de uma maneira que se torna pecado mortal não fazer parte do que já é natural para todos. A inquietação de Frank em torno de tudo isso se torna a nossa inquietação. Mesmo que observamos essa realidade já com o olhar previamente cínico, é a integridade de Serpico que é contagiante, embora seu ar esquentado sempre apareça como um de seus inimigos, e a falta do jeito político de lidar com as pessoas parece o colocar sempre um passo atrás de onde estava.
-
-A câmera de Lumet, como sempre, parece brincar de perspectiva e sugerir visualmente o que já vemos na atuação totalmente dedicada de Al Pacino. Em determinado momento, quando parece conseguir prender uma das pessoas no esquema, o enquadramento mostra boa parte do teto da entrada da delegacia, deixando o já baixo ator menor ainda diante do policial que o recebe.
-
-A fotografia escura e sombria, ao mesmo tempo, demonstra como toda aquela sujeira penetra pelas narinas do policial. Cada vez mais aquele rosto limpo vai dando lugar a uma barba e cabelo que crescem como samambaias, e roupas descoladas que o diferenciam sempre dos colegas à sua volta, sempre de uniforme ou terno.
-
-Serpico pode parecer lento em determinados momentos, mais ou menos da metade para o final. Porém, é esse o preço do amadurecimento da questão quando ela de fato entra no mérito da justiça em si, e como ela parece vagarosa perto da realidade do herói. Parece que mais anos ainda se passaram até o vermos finalmente no banco das testemunhas. A troca de ritmo é uma outra virtude admirável desde diretor. Criou-se um filme nos anos 70 que até hoje parece atual. Quando falamos de segurança pública, universal, até.
+1. Nf3 Nc6 2. d4 d5 3. Bf4 h6 4. e3 a6 5. Bd3 Nf6 6. Nbd2 Nb4 7. Be2 Bf5 8. O-O
+e6 9. c3 Nd3 10. Qa4+ c6 11. Qb3 Qc8 12. Rad1 c5 13. dxc5 Nxc5 14. Qb6 Nfd7 15.
+Qa5 Be7 16. b4 Bd8 (16... Bd3) 17. Qa3 Ne4 18. Nxe4 Bxe4 19. Bd6 Qc6 20. Bg3
+(20. b5 Qc8 21. bxa6 Rxa6 (21... bxa6 22. c4)) 20... b5 21. Nd4 Qc8 22. Bd6 Nb6
+23. Bc5 Nd7 24. f3 Bg6 25. Bd3 Bxd3 26. Rxd3 Ne5 27. Rdd1 Nc4 28. Qc1 e5 29. Nb3
+Bg5 30. f4 exf4 31. exf4 Bf6 32. Rfe1+ Kd8 33. Rxd5+ (33. Rxd5+ Kc7 34. Na5 Rd8
+35. Qd1 Re8 36. Be3 Nxe3 37. Rc5+ Kb6 38. Qd6+ Ka7 39. Rc7+) 1-0
+```
 

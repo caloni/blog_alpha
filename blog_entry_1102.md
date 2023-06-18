@@ -1,22 +1,28 @@
 ---
 categories:
-- writting
-date: '2011-10-11'
-link: https://www.imdb.com/title/tt1454910
-tags:
-- movies
-title: Copacabana
+- coding
+date: '2010-03-15'
+tags: null
+title: Convivendo entre TodoList e Microsoft Project
 ---
 
-O novo trabalho do diretor-roteirista Marc Fitoussi faz um paralelo entre o estado de espírito de uma pessoa e o lugar onde esta vive. Para chegar a seus objetivos, rege de maneira impecável uma história em que as apostas que uma pessoa precisa fazer para chegar aonde quer não estão relacionadas com sua situação aparente, mas muito mais com seu estado interior e sua capacidade de transformar o mundo ao seu redor.
+O próximo artigo sobre escovação de bits ainda está no forno. Tirar férias (de 40 dias) é uma escassez de ideias! No momento, posso explicar a facilidade que tive para continuar usando o TodoList para gerenciar minha equipe e ainda assim sincronizar nossas tarefas em um cronograma do Microsoft Project.
 
-Esta é a história de Baubou (Isabelle Huppert), uma mãe que vive feliz de acordo com seus valores, mas descobre que não corresponde aos anseios da filha (Lolia Chammah), que dá muito mais valor às convenções sociais, tanto que acaba por colocar a própria mãe em segundo plano. Desacreditada, Baubou precisa provar para ela seu valor, e para isso arruma um emprego em lugar distante para refazer sua vida. Enquanto isso, a filha planeja seu próprio casamento, mentindo para seus sogros que sua mãe se encontra em uma viagem pelo Brasil, e que não conseguirá voltar para a cerimônia.
+As razões de eu usar o TodoList são meio óbvias: ele faz tudo que eu preciso para organizar minhas tarefas do dia-a-dia e é portátil. Enquanto isso, o Project, além de não ser portátil (eu preciso levar comigo o instalador de 200 MB? E Instalar?) possui um formato difícil de mudar, já que foi feito para projetar o mundo e não para ser compartilhado facilmente.
 
-Só que o lugar onde Baubou realmente está se mostra frio e inóspito, não só pela sua aparência externa, mas pelas pessoas que lá habitam. Contratada para ser vendedora de apartamentos de veraneio, até seus colegas destoam totalmente de sua posição determinada e alegre, algo facilmente visto pela escolha acertada dos figurinos sóbrios do resto da equipe em detrimento à forma tresloucada de Baubou se vestir e se portar. Logo na primeira reunião entre eles, ela fica nitidamente apartada em um canto, e a câmera faz questão de isolá-la em algumas tomadas, exatamente para dar essa sensação de deslocamento.
+Mas vamos lá. Tudo que precisamos é de uma edição atual do TodoList e do Microsoft Project. A primeira coisa que devemos fazer é exportar as tarefas que queremos do TodoList para um CSV padrão, usando as colunas que gostaríamos de importar para o Project.
 
-Diante das dificuldades que ela precisa passar em seu novo emprego e sabendo que foi rejeitada pela filha, fica impossível não nutrir uma simpatia incondicional pelos esforços da protagonista para se firmar em seu novo habitat. Esforços esses que ocorrem de maneira completamente natural, mas que possuem o objetivo oculto de conseguir a filha de volta nos olhos da interpretação admirável de Isabelle Huppert, que não demonstra exageros em um personagem que poderia facilmente cair no ridículo, mas que ao invés disso termina por soar tão realista e presente de corpo e alma que aos poucos o resto das pessoas, incluindo sua própria filha, é que parecem inertes e alheias à vida.
+Depois vem a parte complicada, mas nem tanto. Abrimos o projeto para onde queremos importar essas tarefas e escolhemos a opção Abrir novamente, só que dessa vez selecionando o nosso amigo tarefas-exportadas.CSV.
 
-O mais interessante é que nós mesmos, como espectadores, enquanto torcemos por ela, sabemos dos enormes riscos que ela corre de tudo não dar certo. E por isso mesmo suas ações parecem tão importantes, pois estabelecem essa nossa vontade de ter sucesso em nossas próprias ações do dia-a-dia, independente das dificuldades. A escolha da trilha sonora, adequadadamente acidental e que evoca a mentira da filha com compilações de MPB, não serve para as pessoas e o ambiente onde vive, e são fruto apenas da visão que a própria Baubou possui de sua realidade: uma visão muito mais otimista e alegre do que muitas pessoas gostariam de ter, mas que se escondem nas mesmas convenções que a sua filha tanto almeja.
+Só que antes de importarmos, calma lá. Temos que criar uma nova coluna que irá guardar os IDs das tarefas do TodoList, para que nas próximas importações consigamos mesclar os dados já existentes. Portanto, crie uma nova coluna (pode ser qualquer NúmeroX não-alocado ainda) com um nome significativo.
 
-Por isso mesmo é que seus triunfos possuem um gostinho de rebeldia delicioso, que cativa o público facilmente. E exatamente por acreditarmos em Baubou é que seu final inusitado não parece nem de longe inverossímil, mas sim é o complemento necessário da grande ideia para o filme: não sabemos o futuro, esse futuro que parece tão sombrio e tenebroso para muitas pessoas. Porém, independente disso, podemos apostar com todas nossas fichas, se acreditarmos de verdade em nós mesmos.
+Agora podemos partir para a importação. Imaginando que seja a primeira, vamos criar um mapeamento inicial para essa primeira migração:
+
+Na hora de escolher quem é que, só precisamos definir quais colunas no Project correspondem a quais colunas do TodoList, e lembrar de alocar o ID na nossa coluna especial.
+
+Mais alguns Next da vida e pronto! Temos nossas tarefas devidamente importadas.
+
+Mas é claro que todo esse trabalho não valeria a pena se tivéssemos que (arght) mexer no Project. Para evitar esse trabalho impuro, continuamos atualizando o andamento dos projetos no nosso pequeno, leve e sagaz TodoList e, quando precisarmos, é só importarmos novamente os dados, só que dessa vez usando um mapa já salvo (siga os screenshots acima) e marcando nosso ID do TodoList como chave. Dessa forma as tarefas já importadas são apenas atualizadas, e não criadas novamente. Esse é o famoso "pulo do gato" (que eu ouvia matinalmente na minha época de office-boy).
+
+Depois de eu pesquisar toda essa trama, descobri que o uso do Project não será necessário. Sorte minha. Agora, se você não tiver sorte...
 

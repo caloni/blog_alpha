@@ -1,19 +1,18 @@
 ---
 
-Este não é um vídeogame, mas um filme que utiliza completamente a estética dos jogos de tiro em primeira pessoa. Ele tem uma narrativa coesa, e ainda que não tão bem articulada, qual filme de ação você conhece que consegue ser tão realista a ponto de enxergarmos toda a ação do ponto de vista do mocinho? Pior: que filme de ação hoje em dia consegue te entregar todo o pacote 18+, com direito a sangue, esquartejamento, esmagamento, esfaqueamento e outros "mentos" por aí, e não aquelas brincadeiras de criança da Marvel?
+Essa série foca mais nas emoções e memórias de traumas passados por essas duas meninas. Ela se estende para todos os personagens, que pouco ou muito, passaram por transformações em suas vidas e precisam encontrar uma maneira de sobreviver a tudo isso. A animação segue uma lógica visual como em [Madoka Mágica], mas fala de temas mais sérios do que a morte: a dor do passado.
 
-Além disso, apesar da premissa simples (mocinho se vê em apuros e tem que sair dele) há várias ideias interessantes por trás de "Hardcore Henry", que piscam para os gamers, mas que consegue extrapolar isso para a sétima arte. As múltiplas vidas de seu amigo Jimmy é apenas a mais óbvia. O que dizer do vilão, um ser que consegue controlar através de sua mão objetos e pessoas, fazendo-os flutuar? E de quem é a brilhante ideia de utilizar memórias de jogos... quer dizer, vidas passadas -- ou implantadas -- para trazer motivação por trás dos ciborgues construídos em cima de seres humanos, senão a de um "gamer" (que, no caso, é justamente o vilão do filme por manipular seus "soldados")?
+Pais desajustados montam o plano de fundo do que vemos, e o que vemos é uma interpretação distorcida da realidade. As imagens, principalmente as luzes, formas e cores subjetivas, montam um esquema de emoções que acompanhamos compenetrados. É profundo demais para ser traduzido em palavras, embora o anime tente. Não consegue. As imagens são mais fortes.
 
-Além disso, há longas sequências de ação, com cortes que não incomodam. O filme começa meio desajeitado, mas aos poucos vamos aprendendo essa dinâmica. Há um tom futurista, mas não muito. A bio-engenharia é o ponto mais interessante desse mundo. A fotografia consegue às vezes manter a coerência de iluminação mesmo entre dois cenários extremamente distintos (como um corredor mal iluminado e uma sala com computadores e uma grande janela). A edição está, como em apenas uma longa sequência, na elaboração dos objetos e atores em cena.
+Há algumas reviravoltas e a primeira temporada termina inacabada, insatisfatória, embora com um final, mas larga seus personagens no meio da jornada. Há temas bem fortes para o público infantil, embora seja um trabalho fofinho, de esperança, para todos que sofreram traumas no passado. Vale a pena acompanhar? É quase uma viagem experimental. Então perto da mesmice é claro que vale.
 
-E para o gamer é claro que há uma "recompensa". Imagine qualquer fase de seu game favorito, e provavelmente ela estará no filme. Há uso de quase todo tipo de arma, lutas corpo a corpo, estratégia de guerra, explosões, granadas, cenas aéreas. É um filme, acima de tudo, de sensações. Há um roteiro -- escrito pelo próprio diretor, Ilya Naishuller, que ficou famoso após seu excelente curta ganhar 30 milhões de visualizações no YouTube -- mas ele não precisa ir muito além. O humor utilizado na figura de Jimmy é mais que o suficiente. O vilão, infelizmente, é meio unidimensional. Mas, mais uma vez... estamos acostumados com isso, não?
+[Madoka Mágica]: {{< relref "madoka-magica" >}}
 
 ---
 categories:
-- reading
 - writting
-date: '2021-10-16T12:39:56-03:00'
+date: '2016-08-16'
+link: https://www.imdb.com/title/tt3072482
 tags:
 - movies
-- quotes
-title: Harold Rosenberg
+title: 'Hardcore: Missão Extrema'

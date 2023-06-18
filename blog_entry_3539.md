@@ -1,36 +1,45 @@
 ---
-categories:
-- coding
-date: 2018-05-22 15:16:14-03:00
+categories: []
+date: '2019-07-21'
 tags: null
-title: SSL e seu limite de pacote
+title: SLQLocalDB
 ---
 
-O protocolo TLS/SSL tem por objetivo criar uma camada de criptografia assimétrica para a aplicação. E quando eu falo em camada não estou me referindo às camadas OSI. Nem às camadas TCP/IP. Isso porque o SSL **não se encaixa** em nenhuma das duas. Ele interfere com muitas, inclusive a aplicação. E aprendi isso a duras penas: na ponta do depurador.
+Hoje foi o dia de redescobrir meu velho ranço com a solução Microsoft para banco de dados. Já perdi horas, dias e semanas com problemas de conexão com algum servidor SQL Server porque a instalação possuía configurações de segurança específicas, a string de conexão não estava exatamente de acordo com a versão instalada ou uma combinação macabra desses e de mais alguns problemas.
 
-O pacote SSL tem um limite de 16 KB, ou 16384 bytes. Esse é o limite que será respeitado por qualquer implementação do protocolo, o que inclui o uso de [Boost.Asio](https://www.boost.org/doc/libs/1_66_0/doc/html/boost_asio.html) e seu uso da [OpenSSL](https://www.openssl.org/). O que isso quer dizer na teoria é que você não pode trafegar sentido server=>client nada maior que 16k bytes. O que isso quer dizer na prática é que sua aplicação não pode escrever mais que 16k bytes de uma vez no socket que vai dar pau.
+Após degladiar novamente com problemas com o SQL Server Express 17 minha esperança para este projeto que requer este banco de dados foi uma versão mínima chamada de LocalDB [1]. Essa versão tem objetivo de servir para desenvolvedores, pois é tão mínima que apenas roda quando você usa, além de permitir isolamento por contas e compartilhamento entre contas e até remoto via named pipe. Parece bom, não?
 
-Sim, a camada de aplicação tem que estar ligada que existe SSL abaixo dela.
+O marketing da Microsoft sempre será melhor do que as reais soluções entregues. Depois de ver tudo isso funcionar em um banco criado com o LocalDB em pequenos e simples passos, as dores de cabeça começaram na hora de compartilhar ou de criar do zero este mesmo banco em uma conta de sistema, que é como rodam geralmente os serviços do projeto:
 
-Isso quer dizer que este snippet de código, por exemplo:
+    C:\WINDOWS\system32>psexec -s cmd.exe
+    
+    PsExec v2.11 - Execute processes remotely
+    Copyright (C) 2001-2014 Mark Russinovich
+    Sysinternals - www.sysinternals.com
+    
+    Microsoft Windows [Version 10.0.17763.615]
+    (c) 2018 Microsoft Corporation. All rights reserved.
+    C:\WINDOWS\system32>sqllocaldb i
+    MSSQLLocalDB
+    
+    C:\WINDOWS\system32>sqllocaldb create "test"
+    LocalDB instance "test" created with version 13.1.4001.0.
+    
+    C:\WINDOWS\system32>sqllocaldb start "test"
+    LocalDB instance "test" started.
+    
+    C:\WINDOWS\system32>sqlcmd -S (localdb)\test
+    ...
+    ... hangs forever
+    ...
 
-```
-_sock.write_some(::boost::asio::buffer(output.data(), output.size()), err);
-```
+O fun fact até aqui é que a primeira versão que tentei, a Express 2017, sequer chegava nesse ponto, dando erros de conexão com named pipe ou timeout no login. Não estou certo de como funcionaria um login em um acesso local em um arquivo, mas essa era uma mensagem extremamente longa e potencialmente inútil. Encontrei uma outra alma sofredora na internet neste mesmo dia de hoje que recomendou fazer o rollback para o Server 2016 [2] (por isso a versão 13.1 no prompt acima), mas os erros apenas mudam de figura ou se repetem indefinidamente.
 
-Não é inocente e não funciona sempre. Se _sock for um socket cuja comunicação está encriptada por SSL (em outras palavras -- em Boostês -- ele for um ssl_socket) você **precisa** escrever output em pequenas quantidades. Como em outra implementação inocente:
+Aliás, outro fato curioso e revoltante é que a Microsoft sequer mantém a versão anterior dos seus produtos para download. A versão 2016 achei no site de alguém que se dispôs a mantê-los. Do contrário, a solução seria ~~sentar e chorar~~ olhar o código-fonte.
 
-```
-do
-{
-    size_t sz = std::min((size_t) LESS_THAN_16_KB, output.size());
-    _sock.write_some(::boost::asio::buffer(output.data(), sz), err);
-    output.erase(0, sz);
-}
-while (err.value() == boost::system::errc::success && output.size() > 0 );
-```
+Rá, brincadeira. Não tem o código-fonte.
 
-Se isso não for feito e a ponta server escrever, digamos, 512KB, ou 17KB, ou qualquer coisa acima de 16KB, ela irá receber... 16 KB. E acabou. O resto se perder.
+Um erro frequente e algumas vezes reportado pelas internet é o do login, mesmo. Pesquisando mais a fundo encontrei um artigo no Code Project [3] (quem diria, velhos tempos em que postava nele) de 2014 onde a pessoa explicava que depois de ler muito e testar muito ele descobriu praticamente depurando a instância do SQL Server e descobrindo que o problema estava em um crash que nunca voltava, sendo necessário dropar todas as conexões (ou o conhecido restart que várias pessoas também recomendaram).
 
-Portanto, quando for mexer com SSL, esqueça OSI e esqueça TCP/IP. As coisas funcionam de uma maneira muito mais esotérica que qualquer programador de redes jamais viu, e jamais verá.
+Esse não é o meu problema. Meu problema é conseguir rodar a solução na conta de sistema, e desconfio que o modo em que o psexec executa o cmd.exe na conta de sistema pode estar relacionado, pois contas interativas em sistema são fontes clássicas de configuration mismatch (talvez falte ou sobre variáveis de ambiente, alguns handles perdidos, essas coisas).
 

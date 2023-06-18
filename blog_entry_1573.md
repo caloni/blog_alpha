@@ -1,14 +1,23 @@
 ---
-categories: []
-date: '2020-05-19'
-title: Fechado Para Reformas
+categories:
+- writting
+date: '2022-10-20T18:52:36-03:00'
+tags:
+- cinemaqui
+- mostra
+- movies
+title: Febre do Mediterrâneo
 ---
 
-Quase três mil posts durante quinze anos nessa vida de blogue e percebo que chegou a hora de atingir a maioridade. Escrever um rascunho e publicá-lo na internet não me torna melhor escritor que qualquer YouTuber de primeira viagem que não edita seu conteúdo ou tuítes que simplificam o pensamento humano de tal forma que ele parece totalmente válido ou inválido. Perde-se as nuances. A voz do autor fica solta demais para ser relevante nesse mar de informação que nos afogamos todos os dias (e noites).
+Febre do Mediterrâneo é o filme que ganhou o prêmio de roteiro na categoria Um Certo Olhar de Cannes e agora estreia na Mostra de São Paulo. No entanto, o nome também se refere a uma doença congênita que afeta principalmente povos dessa região: árabes, judeus, turcos. O sintoma é uma dor abdominal. No filme é o sintoma sentido por uma criança e que iniciou logo depois que sua professora de Geografia ensinou-o que Jerusalém é a capital de Israel. Detalhe: seu pai é palestino e não aceita a ocupação judia. E agora você começa a entender o poder da trama nesta comédia de humor negro.
 
-Para me tornar um escritor profissional eu devo revisar. Revisar é o que irá extrair valor dos meus textos. Brutos como estão nem eu consigo mais enxergar a virtude de escrever. O conteúdo não é nada se não for seguido pela arte da composição. E essa arte só se conquista compondo, lapidando, com o esforço de conseguir acabar uma obra com esmero e excelência, e ainda que não se consiga por completo esse é o caminho a ser seguido.
+Sua história é simples de acompanhar e é curioso que já não existam filmes com o mesmo argumento. Isso comprova que sempre é possível reciclar velhas ideias e surgir com algo fresco, instigante, hipnotizante como este trabalho da cineasta Maha Haj.
 
-Portanto, coloquei todos meus textos antigos para revisão, e os novos nascem no repositório como rascunhos, o que quer dizer que o texto não aparecerá em sua primeira versão no blog. O bebê não está pronto ainda. É durante a gestação que ele irá ganhar corpo e desenvolver sua mente. A edição, além de correções gramaticais, reorganiza o pensamento contido já no rascunho, mas não totalmente consolidado para ser consumido por outro ser humano que não seja o autor.
+Seu pano de fundo é sobre Waleed, um escritor sem livros e sem ideias. Com depressão crônica por anos, decide se matar. As condições se tornam propícias quando seu novo vizinho Jalal se muda, um sujeito que possui atividades e conexões ilegais e que precisa urgente de dinheiro para uma dívida.
 
-Escrever é coisa séria. Depois de tanto praticar, acredito que seja a hora de constatar este fato, tirar a poeira das milhares de páginas que já compus e tentar arrumar tempo para me atualizar na arte de criar telepatia para leitores do futuro.
+Conduzindo a história com toda a calma do mundo, em pequenos passos que nos fazem entender um pouco mais sobre essas pessoas, Febre do Mediterrâneo, apesar de lidar de certa forma com um drama pesado, em momento algum fica parado. Isso porque seu ritmo é determinado pelos diálogos e ações. A direção de Maha Haj o transforma em uma comédia dark. Ah, e não há aqui a maldita muleta da narração em off, tão comum em filmes com personagens introspectivos como Waleed.
+
+Como não há uma voz que nos explique os sentimentos do protagonista, somos obrigados a prestar atenção em qualquer interação entre Waleed (Amer Hlehel) e Jalal (Ashraf Farah) em busca das entrelinhas. Eles estão se dando bem? Qual o limite dessa nova amizade?
+
+A interpretação dos atores Amer Hlehel e Ashraf Farah é instrumental. Rola uma antiquímica entre os dois, de forma que não é possível saber se a amizade entre eles está crescendo ou apenas os interesses mútuos. A análise de personagens feita pela roteirista Maha Haj é cirúrgica, pois em momento algum duvidamos que esse relacionamento pudesse de fato ir tão longe.
 

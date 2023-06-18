@@ -1,20 +1,18 @@
 ---
 categories:
 - writting
-date: '2017-04-16'
-link: https://www.imdb.com/title/tt3845888
+date: '2020-12-08'
+link: https://www.imdb.com/title/tt3845892
 tags:
 - series
-title: 'Sherlock: The Lying Detective'
+title: 'Sherlock: The Final Problem'
 ---
 
-Eis mais um vilão de respeito para a série Sherlock, embora este seja apenas um fantoche para mais uma demonstração das inúmeras habilidades do detetive de Baker Street. Há brincadeiras a respeito dele ser o autor do blog que Watson (Martin Freeman) escreve a respeito das aventuras do companheiro, e há uma participação perturbadora do detetive e seu escudeiro em um hospital com crianças. O vilão, interpretado de maneira caricata e divertida por Toby Jones, ainda assim é um marco, pois permite que os heróis sejam... heróis!
+O último episódio da série da BBC sobre o detetive mais famoso de todos os tempos (e sua família) está longe de ser o melhor de todos, mas assistindo agora em revisita soa melhor do que a primeira vez. Talvez as séries e filmes que assisti nesses últimos três anos não tenham ajudado muito a elevar a sétima arte, com raras exceções. O mundo está muito chato e condescendente com uma barra que talvez nunca tenha baixado tanto em tão pouco tempo.
 
-Além do mais, o terceiro ato revela reviravoltas de cair o queixo, e ainda que lembre uma novela, é uma novela deliciosa de ser acompanhada. As maiores tiradas não estão nos efeitos visuais ou na trama complexa, mas nas obviedades que nos escapam. Não há como dar detalhes em uma série em que o espectador implora por pistas durante todo o tempo, mas é possível dizer que as habilidades dos roteiristas em esconder o óbvio continuam certeiras.
+É nesse estado de podridão e perdição que o episódio sobre a irmã perdida e psicopata de Sherlock vem bem a calhar. É a vilã perfeita. Um gênio incompreendido, se torna uma assassina sem pudores, porque "percebeu" desde cedo, observando o mundo em sua volta, que a moral é relativa, que bem e mal são criações úteis para a lei da evolução, mas não tão úteis para quem não consegue enxergar nada além da razão pura.
 
-Antes que você ache que estou menosprezando o vilão, é ele que torna este o episódio mais forte e mais completo da série. Porém, mais que isso, a possibilidade de vermos novamente os dois heróis vivendo uma aventura não em seu formato canônico, mas passando por um problema intransponível. Sherlock é uma série com poucos episódios por temporada justamente pela capacidade de concentrar o melhor de todas as possibilidades em apenas cerca de 90 minutos.
+Então ela se diverte matando pessoas como um jogo e um experimento social. Ela quer entender algum sistema emocional com quem teve mais intimidade, e nesse caso é do seu irmão mais próximo de idade. Ele o leva para lugares de sua mente que ele não se atreveu a explorar em todos os episódios da série, mas agora se torna obrigado a usar como uma arma contra a loucura das deduções perfeitas de sua irmãzinha amiga do finado e celebrado Moriarty.
 
-## 2020-12-05
-
-Este é mais um roteiro de encher a mente. Uma história de detetive clássica, com detalhes que podem ser revistos sem perder seu brilho. E a capacidade da série reciclar seus personagens é invejável. Ela usa uma fórmula? Não exatamente. Ela segue um princípio, mas não se importa que seus personagens mudem com o tempo. O que é ótimo depois que nos acostumamos com eles. Porque assim como Sherlock, séries que evitam mudanças e ficam no previsível são como clientes que não conseguem se manter cinco minutos em sua sala. Porque são muito chatos.
+É um final digno. Envolvente. Formulaico, claro, mas envolvente. Não se pode dizer que ele não traz questões no mínimo interessantes, que nos faz pensar no valor das relações humanas. Um caso de família. Uma família de sociopatas, no caso. O episódio é glorificado e, assim como o primeiro, tenta pavimentar o caminho que irá colocar Sherlock Holmes e Watson novamente em um pedestal. Um pedestal moderno, com conexão wi-fi, mas, ainda assim, um pedestal. Imortalizado, e talvez finalizado. Será esse o fim da série?
 

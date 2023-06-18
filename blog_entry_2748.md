@@ -1,27 +1,56 @@
 ---
 categories:
-- writting
-date: '2020-02-12'
-link: https://www.imdb.com/title/tt2398149
-tags:
-- cinemaqui
-- movies
-title: O Oficial e O Espião
+- coding
+date: '2014-08-01'
+tags: null
+title: O novo 'como não dar step into' do Visual Studio 2012/13
 ---
 
-O Oficial e O Espião é mais um filme do diretor Roman Polanski que, muito semelhante a O Escritor Fantasma, caminha por becos tortuosos e claustofóbicos para que se encontre a verdade. Nos faz pensar se a verdade vale tanto assim.
+Toda vez que instalo um Visual Studio novo e começo a depurar sempre surge a necessidade de fazê-lo calar a boca nos step intos da STL, Boost, ATL e coisas-que-sei-que-não-vai-dar-pau. (Obviamente, quando dá pau, preciso ir no disassembly e cutucar a STL para ela me entregar qual o problema com o meu contêiner.)
 
-Iniciando com um aviso, ou alerta, de que todos os personagens vistos nesse filme são reais, o roteiro escrito por Polanski adaptou o livro do escritor Robert Harris para botar em foco o processo de desmoralização de uma nação, iniciando pelo seu exército. Para isso ele narra o caso do capitão francês Alfred Dreyfus (Louis Garrel), acusado injustamente de ser um espião e condenado a ter suas vestes oficiais degradadas em público e permanecer isolado em uma ilha por sabe-se-lá Deus quando.
+Nas edições antigas da IDE (até o 2010) existia uma configuração no registro para isso. Desde o Visual Studio 2012 isso mudou, e agora existe um arquivo em _%programfiles(x86)%\Microsoft Visual Studio 11(ou12).0\Common7\Packages\Debugger\Visualizers_ chamado default.natstepfilter (gostei do detalhe do "nat": "nat thou step into, little bestard!"). Ele é um XML que já vem preenchido com algumas opções interessante:
 
-Pontuando a passagem do tempo de maneira claustofóbica, pois parece que ele luta para não andar, em seguida acompanhamos a vinda do coronel Georges Picquart (Jean Dujardin) no batalhão de espionagem francês, que busca descobrir traidores e onde em seu escritório, do seu predecessor, está enquadrado o bilhete que incriminou Dreyfus. E é curioso e sintomático que a fonte da futura humilhação francesa esteja sendo exibida como um exemplo de investigação.
+```
+<?xml version="1.0" encoding="utf-8"?>
+<StepFilter xmlns="http://schemas.microsoft.com/vstudio/debugger/natstepfilter/2010">
+  <Function><Name>__security_check_cookie</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>__abi_winrt_.*</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>_ObjectStublessClient.*</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>_Invoke@12</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>_RTC_Check(Esp|StackVars)</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>_chkstk</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>ATL::CComPtrBase.*::operator&amp;</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>ATL::CComPtrBase.*::operator-&gt;</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>ATL::CHeapPtrBase.*::operator&amp;</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>ATL::CHeapPtrBase.*::operator-&gt;</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>ATL::CComBSTR::operator&amp;</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>std::forward&lt;.*</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>std::move&lt;.*</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>Platform::EventSource::Invoke.*</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>std::.*</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>boost::.*</Name><Action>NoStepInto</Action></Function>
+</StepFilter>
 
-Dujardin como Picquart está imóvel. As reações de seu personagem são reflexo do que o espectador está achando da história e suas reviravoltas. Nossos valores morais se espelham no caráter desse oficial francês porque este é um ator que não sustenta suas reações como suas, mas apenas como um animal reage, por instinto, quando sabe que está sendo atacado. Mesmo assim sua noção de honra reside justamente em sua resiliência em evitar fazer o mesmo jogo de seus colegas. Curiosamente o papel de Dujardin não é muito diferente do de Adrien Brody em O Pianista, do mesmo diretor, pois ambos observam de maneira impassiva o mundo se radicalizar, e essa maneira de olhar as coisas é de certa forma um protesto silencioso.
+```
 
-As músicas de thriller de Alexandre Desplat são úteis, pois sabemos que se nos esquecermos de qual filme estamos vendo sua música estará pronta para nos recordar. Desplat adquire o cacoete do diretor para quem está trabalhando e cria uma atmosfera angustiante pela beleza de se deixar imerso nela. Tanto a música de Desplat quanto as montagens idealizadas pelo seu diretor nos afogam em um pesadelo de desesperança. E ainda por cima este pesadelo soa contemporâneo, pois a qualquer momento o fanatismo de um povo pode o levar para marchar em direção ao abismo em um ritmo sem volta.
+Podemos simplesmente adicionar mais duas opções para o parzinho STL/Boost:
 
-Este é um filme escuro do começo ao fim, mas ele vai se tornando cada vez mais escuro durante suas duas horas e 12 minutos. A fotografia é áspera, feia, e de propósito. Não gostaríamos de viver em um momento tão delicado da história humana, onde o antissemitismo será usado como ferramenta política por meio século até o seu trágico final conhecido. Imersos nestes tons acizentados, até a cor vermelha soa desbotada. Mas sabemos que o vermelho também será usado como ferramenta política, por mais de meio século, até o seu trágico final conhecido.
+```
+<?xml version="1.0" encoding="utf-8"?>
+<StepFilter xmlns="http://schemas.microsoft.com/vstudio/debugger/natstepfilter/2010">
 
-Os fatos narrados são tão complexos, atuais e depressivos em suas nuances que faz bem o espectador que apenas presta atenção na historinha principal. Esqueça essas lições de moral sobre como ideologias podem não apenas matar, mas desestruturar sistemas inteiros como os países pós-impérios, mas pelo menos observe a imensa rede de influências entre cada patente militar e note como o Coronel Picquart luta contra uma correnteza inescapável de fé nos ideais errados.
+  <Function><Name>std::.*</Name><Action>NoStepInto</Action></Function>
+  <Function><Name>boost::.*</Name><Action>NoStepInto</Action></Function>
 
-Para acompanharmos a mensagem sobre os erros que um país pode cometer e ainda ser aplaudido, já que Picquart não encontra suporte algum em uma massa uniforme, mecânica e anencéfala de ação que é o exército, cuja crença em sua infalibilidade chega a níveis doentios, "O Oficial e O Espião" lidam com a questão de como patriotismo e nacionalismo podem se tornar doenças coletivas, verdadeiras epidemias, se levadas como regra, e não consequência, das atitudes morais de um povo. Isso lhe soa familiar?
+</StepFilter>
+
+```
+
+A boa nova, pelo menos para o Visual Studio 2013, é que agora é possível, se quisermos, entrar nas funções que serão ignoradas:
+
+{{< image src="5cda0E7.jpg" caption="Step Into Specific no Visual Studio 2013" >}}
+
+Eu não sei qual vai ser a próxima novidade do step into, mas para mim, já está bem ótimo.
+
+Fonte: [Andy Pennell's Blog](http://blogs.msdn.com/b/andypennell/archive/2004/02/06/69004.aspx)
 

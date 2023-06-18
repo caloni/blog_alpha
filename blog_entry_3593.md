@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2017-03-26'
-link: https://www.imdb.com/title/tt2049543
+date: '2014-04-16'
+link: https://www.imdb.com/title/tt2250192
 tags:
-- movies
-title: Synchronicity
+- animes
+title: Sword Art Online - Primeira Temporada
 ---
 
-Sabe aqueles filmes trash anos 80 que misturam tecnologia, terror e sci-fi? Exemplos são Tron (o original) e Mulher Nota 1000. Synchronicity emula com perfeição esse tipo de gênero. Com um roteiro capenga, atuações sofríveis, clichês de filme noir mal usados e trilha sonora de flashback, o resultado é uma viagem pelo mundo dos filme complicados apenas pelo gosto da complicação.
+O tema de mundos virtuais já tem certa data, mas é a primeira vez que vejo ele ser explorado nos jogos online. Mais interessante, ainda, é construir uma história cujo pano de fundo é o lançamento de mais um RPG online a la "World of Warcraft", com direito a versões beta, coleção de itens, aumento de experiência, novas habilidades, com a diferença que seu controle é exercido e sentido diretamente pelo cérebro dos jogadores atráves de um sensor na forma de capacete. O enredo principal: se os criadores de um jogo de realidade virtual conseguem controlar os sentidos de seus jogadores o que os impede de levar essa experiências às últimas consequências?
 
-Iniciando com a premissa de uma equipe formada por um jovem gênio cientista, seu melhor amigo e um colega meio retardado meio brilhante, a construção de uma máquina no tempo em um mundo futurista e "dark" é visto como uma coisa banal, um passatempo de startup que vale alguns milhões de urânio enriquecido e alguns minutos de tempo com um bilionário investidor que está tramando algo (seja lá o que for), e para isso usa uma garota gostosa como isca para nosso cientista brilhante que ela, depois de fazer várias anotações vazias no verso de bolachas de chope (minha preferida é "o tempo é nossa única moeda verdadeira") compara o garoto bonitão com o cientista Nicholas Tesla.
+Com base nisso e um bom toque de animê/novela é que Sword Art Online se baseia ao longo da sua temporada de 25 capítulos divididos tematicamente em duas "fases". A primeira é a melhor das duas, pois expande diversos conceitos curiosos a respeito desse futuro distópico, como a relação afetiva (e sexual) entre seus membros e qual é a definição de "sentimento" nesse mundo, além de em diversos momentos utilizar a figura do casal principal Kirito e Asuna para servir de olhos e reflexão do espectador sobre o que faria em determinadas situações, ou até onde vai a brincadeira. Nesse sentido, a vinda de uma personagem muito especial "adotada" pelos heróis é sintomático e um dos melhores momentos da série, além de representar muitas homenagens óbvias ao longo da narrativa, notadamente Matrix, a obra cinematográfica dos irmãos Wachoski (que já referenciava e homenageava praticamente todos os ramos do entretenimento e da filosofia em torno da possibilidade de estarmos sonhando acordados em um mundo de mentiras).
 
-O mais impressionante de tudo é que o rapaz cai na isca, e o que era para ser uma descoberta revolucionária da ciência vira uma caçada pela sobrevivência do herói, com o detalhe que ele agora precisa terminar sua história junto da garota que ama. Somos levados, então, a acompanhar duas versões do herói em ação: o que voltou no tempo uma semana e a versão que irá voltar. O passatempo vai se tornando enfadonho conforme percebemos que não há muito em jogo, e o único motivo por trás do roteiro do diretor Jacob Gentry e Alex Orr é criar quebra-cabeças que vão sendo desmontados pela plateia a cada novo momento revisitado.
+É com o uso de uma excelente trilha sonora dramática quase nunca exagerada e ótimas cenas de ação que a primeira metade de SAO capta a essência de sua história. Claro que isso ocorre graças ao pano de fundo que vai sendo contruído junto com a relação entre seus personagens, pois essa não é uma série de lutas de espadas comuns, mas uma interessantíssima reflexão sobre o que o ser humano é capaz de fazer para sobreviver e manter a sua honra, seu caráter, seus princípios. Existiria uma ética em um mundo onde tudo é possível?
 
-Você poderia dizer que pelo menos se trata de uma história factível dentro do universo de viagem no tempo. Eu responderia que se você insere universos paralelos em alguma coisa você não precisa de nenhuma regra anterior. E assim como o vampiro da saga Crepúsculo, qualquer regra serve para se encaixar em viagem no tempo.
+Essas questões existenciais parecem que nunca envelhecem...
 

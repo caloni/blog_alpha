@@ -1,16 +1,19 @@
 ---
 categories:
 - writting
-date: '2014-11-30'
-link: https://www.imdb.com/title/tt2636522
+date: '2022-11-21T20:12:54-03:00'
 tags:
-- movies
-title: The Unbelievers
+- coffee
+title: The traditional american coffee shop
 ---
 
-Richard Dawkins e Lawrence Krauss são tratados como pop-stars durante suas inúmeras viagens ao redor do mundo em conferências científicas. Ambos são cientistas, mas, acima de tudo, possuem uma facilidade de comunicação com o público que permite que este receba informações dos últimos avanços científicos no formato que pessoas leigas entendam. No entanto, mais do que isso, ambos levantam a "bandeira ateia", um movimento anti-religião que na última década tem feito com que muitas pessoas se declarassem descrentes de qualquer mitologia ainda existente no mundo moderno, incluindo a existência de Deus.
+Este lugar me faz lembrar dos cafés americanos que passamos durante nossa viagem pela Califórnia. Para o bem e para o mal. Para o bem há essa memória afetiva, onde a comida não importa, desde que revele lembranças. Assim é com as panquecas e ovos mexidos com bacon, por exemplo, que não são grande coisa. São pela experiência, muito próxima se você fosse em um café nos EUA.
 
-No entanto, o documentário de Gus Holwerda parece ter muito pouco mais do que isso. Acompanhamos ambos os cientistas viajando pelo mundo de avião, trem, táxi, metrô. Cada um desses eventos, seja uma aparição na mídia ou uma palestra, é mostrado por Holwerda como um recorte que envolve uma ou duas perguntas respondidas e uma despedida. Para religiosos, o filme nem chega a ser ofensivo, pois é um fiasco de ideias que mal atingem a superfície. Para ateus cinéfilos, deveria ser motivo de vergonha que o conjunto de tantas palestras, encontros e entrevistas com esses dois mestres do discurso seja resumido de maneira tão banal.
+Para o mal porque a comida não é nada demais, exatamente como são os cafés americanos valorizados além da conta. Há muita gordura e açúcar no cardápio. O café é servido na Hario V60, mas não há um treinamento para o uso do equipamento. Pedi duas vezes. Na primeira saiu mais fraco, com menos água. O segundo mais forte. Não há um padrão. E antes que pergunte, não, eles não têm café (estilo americano, aguado) à vontade como geralmente as lanchonetes típicas oferecem.
 
-No final, acabamos conhecendo tão pouco o ramo de pesquisa de ambos os cientistas quanto quem eles são na comunidade e a história de cada um. Os "Unbelievers" do título pode estar se referindo a todos os ateus que estão saindo do armário, mas sequer eles são olhados mais de perto. Para os que são apaixonados pelo conhecimento um show de desinformação, mesmo que estrelado por pessoas articuladas como Dawkins e Krauss, continua sendo um show de desinformação.
+O serviço é simpático, mas deficitário. Os pratos são bem servidos, então é natural que alguns clientes queiram dividir, que foi o nosso caso. Apesar de pedirmos por duas vezes um prato extra, quando ele chegou veio pequeno, porque as atendentes não entenderam o propósito. Meu segundo café eu pedi para acompanhar com o cheesecake, mas ele demorou tanto que acabamos pedindo para embrulhar para viagem e tomei o café solo.
+
+Apesar de manteiga e açúcar demais eu gostei do cheesecake de blueberry. É um bolo pesado, mas com um recheio até que saboroso. Quase lembra confeitaria tradicional do Sul do Brasil, exceto que não tem tanto sabor assim.
+
+Vá pela experiência. Esqueça a cozinha e o atendimento.
 

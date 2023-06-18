@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2019-03-26'
+date: '2013-01-01'
+link: https://www.imdb.com/title/tt0353969
 tags:
-- cinemaqui
 - movies
-title: Memórias do Grupo Opinião
+title: Memórias de um Assassino
 ---
 
-Memórias do Grupo Opinião é exatamente o que você terá nesse filme. O que é um pouco frustrante, diga-se de passagem. Bons documentários costumam trazer uma surpresa por trás de sua premissa.
+Memórias de um Assassino, do diretor Joon-ho Bong ([O Hospedeiro], Mother - A Busca Pela Verdade), compreende que a principal faceta de uma investigação pode estar muitas vezes nos próprios investigadores. Apostando em nossa identificação com os detetives Park Doo-Man (Kang-ho Song) e Seo Tae-Yoon (Sang-kyung Kim), investe na dinâmica entre os dois desde até antes que o primeiro chegue na pequena cidade para ajudar as autoridades locais a desvendar o estupro e assassinato de duas bonitas jovens.
 
-Mas esse é daqueles que pega carona na moda de se falar na intervenção militar de 64... aliás, ditadura militar. Aliás, golpe militar. Eu já não sei mais. É difícil usar o vocabulário exato quando se fala de política, porque a política corrompe até o dicionário.
+Infelizmente, muito do que se gostaria de saber sobre esses dois personagens fica mais oculto do que o próprio assassino. Nunca entendemos a real motivação de Park Doo-Man ter saído de Seul e nunca chegamos realmente a sermos justificados pelos atos de crueldade e manipulação dos suspeitos de Sang, forçando-se de todo o jeito a encontrar um culpado pelos assassinatos, mesmo que este nunca seja realmente incriminado.
 
-Enfim. A história é sobre vários artistas (músicos/atores), sambistas do morro e bossistas da classe média, que se reúnem no criado Centro Popular da Cultura, fazendo arte como artistas costumam fazer, mas em época de intervenção/ditadura/golpe se chama resistência, que é mais nobre e bonito.
+O que nos sobra é a investigação em si, que se aproveita sim da psique dos dois policiais, mas consegue nossa atenção por mais de duas horas de uma busca frustrada exatamente pela criação de um ritmo que oscila de maneira competente entre o humor e o suspense. Acompanhamos cada pista e cada incidente como se fizéssemos parte daquele grupo, e perdemos e reganhamos as esperanças exatamente como eles.
 
-Quem conta a história e se vangloria do fato são eles próprios, em entrevistas que intercalam vídeos da época e performances atuais das músicas. Temos muitos nomes e muitas legendas para eles, que tentam registrar fotos e vídeos da época. As legendas pulam em cima até das bandas atuais, caso você tenha algum interesse aleatório em saber o nome deles. Ou o merchand faz parte do pagamento.
+Mantendo a coerência narrativa até o fim, um ato de extrema honestidade com o espectador, ainda que muitos possam não gostar da ideia, Memórias de um Assassino inverte nossas expectativas a todo o momento, misturando realismo e fantasia frequentemente. O final pertence ao campo do realismo, o que não o torna melhor nem pior que outros filmes do gênero, mas sim extremamente honesto.
 
-A ideia por trás do CPC é promover a arte como forma de resistência política. Essa é a visão de alguns membros, não de todos. Eles formam esse grupo logo em 64. Ele dura cinco anos, mas depois a resistência queima, se divide em dois e se dissipa. "O maior mal que a ditadura fez", diz um entrevistado, "foi separar a gente".
-
-Este é mais um daqueles registros obrigatórios do passado, está no festival É Tudo Verdade e não deve estrear em nenhum cinema. Por mais que o conteúdo seja interessante como parte da História seu formato é muito convencional e feito para home video. Seria um bom item para a coleção dos anos 60 da antologia brasileira.
+[O Hospedeiro]: {{< relref "o-hospedeiro" >}}
 

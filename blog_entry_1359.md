@@ -1,14 +1,13 @@
 ---
 
-Saiu um artigo recente no The Old New Thing (thanks Strauss pelo tuíte) que fala sobre não misturar runtimes do C de diferentes versões do compilador (especialmente se essas versões estão separadas pelo tempo em nada mais nada menos que dezenove anos!). Concordo. Aliás, a cultura Microsoftiana do uso de binários carece em C/C++ de um fundamento que facilite o reúso e compartilhamento de código exatamente por essa incompatibilidade inerente de uma biblioteca, se não em constante evolução, em constante aprimoramento pontual (como a STL). Como compartilhar código cujo fonte esteja indisponível e cujas bibliotecas sejam incompatíveis porque o projeto não é atualizado há dois pares de anos? Fiz uma vez um artigo explicando como usar a LIBC nativa do sistema operacional (nem sei se isso funciona ainda, provavelmente não). No entanto, essa é uma solução sub-ótima para um problema latente.
+Produções independentes nos atraem porque é lá que encontramos as novidades. Em Bruno nós sabemos que não é exatamente assim, pois a produção é da Warner e distribuição Netflix, mas lembra, e só isso já atrai. A história é amadora e a direção é pedestre. Quem faz o protagonista é um ator muito ruim: Solvan Naim. Escritor, diretor e rapper, Naim é incapaz de demonstrar as emoções que seu personagem precisa, diferente de Bruno, o cão-título que está muito bem. Há uma hora no terceiro episódio da série em que o personagem de Naim, Malcolm, sente que está sobrando depois que sua namorada passa a cuidar do cachorro. Surge um breve momento em que as habilidades de Malcolm de adestrador de cães são requisitadas. É o momento daquela pontinha de orgulho aparecer. Nós sabemos, Naim sabe -- até porque está por trás da direção e roteiro -- e nada acontece. A interpretação de Naim é muito sutil, o que é uma maneira educada de dizer inexistente. A história é movida por enquetes rápidas e baratas, que lembram textos de comediantes como [Louie C. Clark] ou [Mae Martin], embora falte essa personalidade que torna trabalhos de stand up valiosos. Do ponto de vista cinematográfico faz pensar em trabalhos como os de Robert Rodriguez ([Machete]). Não pela história, mas pela qualidade. Assistir algo de Rodriguez na maioria das vezes faz você entender que o filme poderia ser muito bom se alguém como Quentin Tarantino estivesse no comando. Rodriguez é o estagiário quebra-galho que faz o serviço com paixão, mas o resultado continua ruim. A produção de "It's Bruno" nos faz questionar a todo momento se estão brincando com a linguagem ou se são tão ruins mesmo. Mas isso é interessante; pelo menos mais que uma obra que mantém aquela qualidade mais enlatada, mal cheirosa, das obras que se multiplicam pelo streaming. A quebra do equilíbrio é o que dá valor a esta birosca com um cachorro.
 
-É por isso que nesse caso a cultura Linux de compartilhamento do código-fonte acaba por ser a mais flexível e melhor adaptável à mudança dos tempos. Se você encontrou uma LIB que pode te ajudar, baixe e compile usando o último compilador. Se o compilador não consegue mais gerar binário sem gerar erros antes, configure os parâmetros de compilação como eram na época que a LIB foi gerada. A runtime do C (e de qualquer outro framework) que será usado é o da sua máquina. Afinal de contas, é o que faz mais sentido, não? Por que hoje existem diferentes conjuntos de DLLs de runtime de diferentes versões do Visual Studio instalados em sua máquina? Por que os instaladores precisam se preocupar em compartilhar essas DLLs corretamente?
-
-Questões de um passado remoto que voltam a bater à porta sempre que a Microsoft resolve lançar um novo Visual Studio. E isso irá se tornar cada vez mais constante, já que versões com começo e fim bem-definidos são um conceito também antigo, quando comprávamos pela licença de uma versão específica do programa. E hoje, no modelo de assinaturas, como fica?
+[Louie C. Clark]: {{< ref louie >}}
+[Mae Martin]: {{< ref feel-good >}}
+[Machete]: {{< ref machete >}}
 
 ---
-categories:
-- coding
-date: '2008-06-21'
+categories: []
+date: '2015-09-12'
 tags: null
-title: É possível carregar duas DLLs gêmeas no mesmo processo?
+title: É o fonte, idiota!

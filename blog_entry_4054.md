@@ -1,26 +1,16 @@
 ---
 categories:
 - writting
-date: '2018-12-30T20:00:00-03:00'
+date: '2018-12-30T19:40:00-03:00'
 link: https://www.imdb.com/title/tt0475784
 tags:
 - series
-title: Westworld S02 Season Finale
+title: Westworld S02 E01-06
 ---
 
-Foi uma longa jornada desde o começo da temporada, mas nossos neurônios mereciam um pouco mais de respeito. Eu sei que seres humanos não fazem escolha e tudo mais, mas a filosofia de boteco de Ford pós-morte é de matar. Se fosse possível escolher seria fácil: reescreve esses últimos dois episódios, o 9 e o 10, que tá fácil de consertar. Anda. Eu fico esperando.
+"O homem não pode fazer-se sem sofrer, pois é ao mesmo tempo o mármore e escultor." Essa frase de Alexis Carrel não poderia ter um valor mais direto do que o visto em Westworld, com a devida correção, já que a grande questão sobre a qual gira o drama é a diferença entre androides e humanos. No entanto, androides também podem mudar, mas a um alto custo. A versão 2.0 do homem torna até Nietzsche, como sempre, relevante.
 
-Concentrado em nos dar algumas reviravoltas custe o que custar (porque a primeira temporada teve a rodo) a continuação comercial de Westworld dá voltas em torno do próprio rabo sem um closure que seja realmente intrigante. Ele apenas entrega parte de uma catarse que se perdeu pelo caminho. Ou se formos pensar mais a fundo, nunca existiu.
+Do primeiro ao sexto episódio podemos dizer que a segunda temporada de Westworld é uma construção e tanto, que nos inspira os mais diversos pensamentos e sentimentos em relação à nossa (não-)individualidade, nossa consciência ou até mesmo o que é realidade. Nunca com medo de deixar os espectadores mais preguiçosos para trás e ancorado no que o sci fi tem de melhor -- ideias -- as suas diferentes narrativas traçam um panorama ímpar entre as grandes produções, pois conseguem reunir, assim como a maioria das produções dirigidas e escritas pela família Nolan, um blockbuster com ideias. E no caso dessa parceria entre Jonathan Nolan e Lisa Joy, algo que falta nos filmes de Chris Nolan: coração.
 
-Porque vejamos: o grande mote dessa temporada é uma espécie de batalha entre humanos e máquinas. Algumas máquinas ganharam uma certa liberdade de suas narrativas, criadas para entreter os clientes dos parques temáticos. Nessa temporada veremos que há muito mais por trás dessa ideia, como já foi sugerido logo no começo da segunda temporada. No entanto, nenhuma das revelações acaba tendo o impacto planejado. Explico mais abaixo com SPOILERS.
-
-O anfitrião premiado, por exemplo. Ele é o pai de Dolores e o McGuffin do meio da história (e chamá-lo de McGuffin não deixa de ser divertido, se formos pensar que ele também pode ser visto como personagem). Mas uma vez que ele é raptado por Dolores e seu bando, apesar de fazer parte de uma bela cena de despedida, ele deixa de ter importância. A partir daí o objetivo vira impedir que os androides saiam do parque (de alguma maneira mágica que ninguém ousa explicar em nenhum momento porque estragaria a surpresa). Mas esse objetivo não tem vilões do outro lado para sustentar tanto antagonismo. Até Ed Harris sozinho, com sua vilania pura, consegue nos entreter mais do que a grande corporação malvada cujas motivações são obscuras demais para empolgar. E se alguém lá no fundo sugerir que é a tal da imortalidade, bem, as pessoas apenas comentam por cima, como se essa palavra sozinha já dissesse tudo. Bom, pode até dizer, mas é vazio, sem alma, sem ânimo.
-
-Ao mesmo tempo as figuras das duas heroínas, Maeve e Dolores, se no começo empolgam por serem versões novas das suas personalidades que conhecemos na temporada anterior, infelizmente elas se tornam versões vagas de persistência e no caso de Dolores uma espécie de vingança cega. No começo da temporada estava preocupado com a atuação da atriz Evan Rachel Wood, que muda drasticamente de personalidade. Mas esse acabou não sendo o problema, e Rachel Wood se saiu muito bem, obrigado, mantendo uma expressão firme e representando mais uma vez um teatro da vida real, só que através do seu filtro sombrio, que não enxerga mais "a beleza deste mundo". O problema mesmo fica por conta das emoções das máquinas, que são simuladas, e que aqui, em meio a uma verdadeira revolução contra seus donos, exigem muito mais. É difícil embutir ética e moral em máquinas que até então estavam seguindo ordens. Quem diz que a única coisa que mudou não foi quem dá as ordens?
-
-Mas enquanto na névoa a história se beneficiou da dúvida do que pode ocorrer e expandiu a discussão sobre metafísica e existencialismo que a série tanto provoca. E foram momentos inesquecíveis! Até o episódio de explicação da tribo fantasma (o oitavo), podendo ser acusado de filler, se trata de uma linda, poética e profunda história sobre o amor romântico e fraterno, além do amor pela verdade em determinado momento. Foi o último traço de sanidade em uma discussão instigante que depois passa para o necessário fechamento da temporada recheada de ação.
-
-As duas narrativas separadas no tempo fazem sentido, mas não causam tanto impacto pela falta da tensão do antagonismo. O sentimento mais apropriado para as últimas duas horas de Westworld eu diria que é confusão, que vai se consertando com uma reconstrução da lógica narrativa por nós, espectadores, o tempo todo.
-
-Mas não me leve a mal. A última reviravolta possui uma certa ironia agradável de observar, mas está longe de ser uma surpresa que esperávamos ver desvendada. Não há tensão suficiente para que houvesse a urgência dessa solução, tornando o papel de Bernard na equação no pior dos casos um equívoco bobo e ingênuo para uma série onde sua maior força é brincar sobre o processo de construir narrativas. Vocês erraram feio, pessoal.
+Todo o pequeno hiato aberto em uma versão oriental de Westworld poderia ser vista como descartável, mas note a reação dos personagens que já conhecemos ao encontrar seus sócias, seja em personalidade ou narrativa, e terá o preço pago. Isso sem contar a empatia que isso gera em Maeve, tornando sua jornada em busca da filha ainda mais significativa por acrescentar ainda mais dor e sofrimento pelo caminho.
 

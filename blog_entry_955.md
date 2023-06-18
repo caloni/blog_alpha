@@ -1,32 +1,67 @@
 ---
 categories:
 - coding
-date: '2016-01-11'
+date: '2016-01-10'
 tags:
 - ccpp
-title: Classe, objeto, contexto, método
+title: Classe, objeto, contexto
 ---
 
-No [post anterior] falamos como a passagem de um endereço de uma struct consegue nos passar o contexto de um "objeto", seja em C (manualmente) ou em C++ (automagicamente pelo operador implícito __this__). Trocamos uma propriedade desse "objeto" em C, mas ainda não chamamos um método.
-
-Hoje faremos isso.
-
-Isso é relativamente simples quando se conhece ponteiros de função, existentes tanto em C quanto em C++. Ponteiros de função são tipos que contém endereço de uma função com assinatura específica (tipo de retorno e de argumentos). Através de um ponteiro de função é possível chamar uma função e passar alguns argumentos. Como o contexto nada mais é que um argumento, será só passá-lo como parâmetro.
+Para entender conceitos simples em C++, como métodos de uma classe, ajuda muito seguir o raciocínio dos programadores C e como eles lidavam com o tipo de problema que C++ resolve elegantemente implementando um novo compilador com uma nova linguagem.
+Tomemos, por exemplo, métodos. Um método é uma função chamada dentro de um contexto. Qual o contexto? O objeto. Ou seja, uma instância específica de uma classe, que é um molde para se fazer alguma coisa.
 
 ```
-bool MinhaFuncao(int x, int y)
-{
-	return x == y;
-}
-
 int main()
 {
-	bool (*PMinhaFuncao)(int, int) = MinhaFuncao;
-	PMinhaFuncao(2, 3);
+   MinhaClasse obj;
+   obj.MeuMetodo(); // o contexto é obj, uma instância de MinhaClasse
 }
 ```
 
-No exemplo anterior não sabíamos como chamar um método de nosso "objeto" em C:
+Para obter esse contexto, existe uma palavra-chave reservada dentro dos métodos que é o __this__, que está tão incrustado na linguagem que não precisa ser usado explicitamente: quando referenciamos alguma propriedade (ou um outro método) da classe, só pelo fato de estarmos dentro de um método o compilador já entende que se trata do mesmo objeto, ou mesmo contexto.
+
+```
+class MinhaClasse
+{
+public:
+   void MeuMetodo();
+   void MeuOutroMetodo();
+   int MinhaPropriedade;
+};
+
+void MinhaClasse::MeuMetodo()
+{
+   MinhaPropriedade = 42; // ou seja: this->MinhaPropriedade = 42;
+   MeuOutroMetodo(); // ou seja: this->MeuOutroMetodo();
+}
+```
+
+E contexto nesse sentido nada mais é que um endereço na memória para alguma coisa que nos interessa. Tal qual uma função API do Windows -- tal qual [FindFirstFile](https://msdn.microsoft.com/en-us/library/windows/desktop/aa364418(v=vs.85).aspx) -- que recebe ou retorna uma __struct__ com o que precisamos, esse geralmente é o contexto procurado.
+
+```
+WIN32_FIND_DATA findData;
+HANDLE findH = FindFirstFile("*.txt", &findData);
+
+if( findH != INVALID_HANDLE_VALUE )
+{
+   if( findData.dwFileAttributes & FILE_ATTRIBUTE_ENCRYPTED )
+   {
+//...
+```
+
+{{< image src="dilbert.context.gif" caption="" >}}
+
+No caso de nós, que escrevemos uma "classe", o contexto é recebido "de fora":
+
+```
+HANDLE MyFindFirstFile(const char* pattern, LPWIN32_FIND_DATA findData)
+{
+   //...
+   findData->dwFileAttributes = FILE_ATTRIBUTE_ENCRYPTED;
+   //...
+```
+
+Tal como uma __struct__ que definimos, ela vira o contexto. Da mesma forma, um objeto de uma classe em C++ é esse contexto. Podemos fazer a mesma coisa em C, com o trabalho adicional de especificar o "this" (isto é, o ponteiro para o contexto/struct):
 
 ```
 struct MinhaClasse
@@ -41,51 +76,7 @@ void MinhaClasse_MeuMetodo(MinhaClasse* pThis)
 }
 ```
 
-Isso se torna fácil se tivermos uma nova "propriedade" na nossa struct que é um ponteiro para a função que queremos chamar.
+Em um [próximo post] vamos ver como fazer para chamar MeuOutroMetodo a partir de uma estrutura em C.
 
-```
-#include <stdio.h>
-
-struct MinhaClasse
-{
-	int MinhaPropriedade;
-	void (*MeuMetodo)(MinhaClasse*);
-	void (*MeuOutroMetodo)(MinhaClasse*);
-};
-
-void MinhaClasse_MeuMetodo(MinhaClasse* pThis)
-{
-	pThis->MeuOutroMetodo(pThis);
-}
-
-void MinhaClasse_MeuOutroMetodo(MinhaClasse* pThis)
-{
-	pThis->MinhaPropriedade = 42;
-}
-
-int main()
-{
-	MinhaClasse obj;
-
-	obj.MinhaPropriedade = 0;
-
-	// precisamos iniciar os "métodos" em C; em C++ é automágico
-	obj.MeuMetodo = MinhaClasse_MeuMetodo; 
-	obj.MeuOutroMetodo = MinhaClasse_MeuOutroMetodo;
-
-	obj.MeuMetodo(&obj);
-    printf("MinhaPropriedade = %d", obj.MinhaPropriedade);
-}
-```
-
-{{< image src="uzfJuTC.png" caption="" >}}
-
-{{< image src="JLJaAsB.png" caption="" >}}
-
-Parece muito trabalho para algo que é feito "automagicamente" em C++, certo? Certo. Porém, agora sabemos o que acontece por baixo dos panos em C++ e que pode ser feito em C (ainda que "na mão"). Você provavelmente nunca fará esse tipo de código em C para emular C++, mas o objetivo desse código é entender como funciona, por exemplo, a _vtable_ do C++, que permite polimorfismo.
-
-Mas esse é assunto para [outro post].
-
-[post anterior]: {{< relref "classe-objeto-contexto" >}}
-[outro post]: {{< relref "classe-objeto-contexto-metodo-polimorfismo" >}}
+[próximo post]: {{< relref "classe-objeto-contexto-metodo" >}}
 

@@ -1,22 +1,24 @@
 ---
 categories:
-- reading
-date: '2021-08-16T21:01:37-03:00'
-tags: []
-title: Manifesto Comunista (recortes)
+- writting
+date: '2017-11-30'
+link: https://www.imdb.com/title/tt2103217
+tags:
+- movies
+title: Maníaco
 ---
 
-> The history of all hitherto existing society is the history of class struggles. 
+Estou em uma sequência foda de gore. E estamos apenas no segundo. Depois de Cronenberg e seu clássico techno-obscuro A Mosca, este bem mais recente Maníaco, também uma espécie de remake, e estrelado parcialmente por Elijah Wood e parcialmente por sua voz, nos apresenta o ponto de vista mais fascinante de toda história de serial killers: o ponto de vista dele mesmo.
 
-> Our epoch, the epoch of the bourgeoisie, possesses, however, this distinctive feature; it has simplified the class antagonisms. Society as a whole is more and more splitting up into two great hostile camps, into two great classes directly facing each other: Bourgeoisie and Proletariat. 
+O fato do diretor Franck Khalfoun saber muito de enquadramento e de cinema ajuda. Rebuscando suas origens conceituais no primeiro terror da história -- O Gabinete do Dr. Caligari -- o filme nos apresenta o personagem de Elijah do ponto de vista de seus olhos. Dessa forma, a câmera são seus olhos. Mas não é um plano-sequência, pois há cortes (como na vida real, aliás, quando piscamos). E o que vemos são suas vítimas e a forma com que ele se aproxima delas, de como respira ofegante quando se aproxima, de como sua voz é vulnerável e doce, e de que por isso ninguém desconfiaria de um rapaz bonito e pequeno como um assassino sanguinário.
 
-> The executive of the modern State is but a committee for managing the common affairs of the whole bourgeoisie. 
+Obcecado por manequins, ele possui elementos em sua traumática formação que obviamente fazem ecos de Psicose. Os detalhes vamos descobrindo aos poucos, mas estes vão sendo preenchidos organicamente. O filme faz uma espécie de homenagem aos filmes do gênero, pois não tem muito o que inovar em sua narrativa. Apenas em sua estrutura.
 
-> The weapons with which the bourgeoisie felled feudalism to the ground are now turned against the bourgeoisie itself. 
+E sua estrutura é cativante. Com essa técnica de mostrar a primeira pessoa ainda podemos ver os delírios do personagem de Elijah, que confunde suas manequins com suas vítimas, e vice-versa. Seu trauma de infância é uma contundente mensagem de como o abuso infantil pode tornar as pessoas prisioneiras eternas da objetificação das pessoas.
 
-> In proportion as the bourgeoisie, i. e., capital, is developed, in the same proportion is the proletariat, the modern working-class, developed, a class of laborers, who live only so long as they find work, and who find work only so long as their labor increases capital. 
+Ainda sobre a estrutura, a câmera vez ou outra faz um giro em 180 graus, saindo da primeira pessoa para a terceira, o que é uma jogada inteligente para mostrar que a criança aprisionada no corpo deste maníaco apenas observa enquanto ele, a figura paterna que busca incessantemente ter a maior quantidade de mulheres possível, guardadas em seu saguão do terror.
 
-> Modern industry has converted the little workshop of the patriarchal master into the great factory of the industrial capitalist. 
+O gore do filme é uma mistura de trash com psicótico. Ele não é gratuito. Assim como os espelhos não são gratuitos, pois oferecem uma maneira de olharmos de vez em quando para as expressões no rosto do psicopata que vamos levando como nós mesmos dentro do filme. A sensação é estranha quando ele se encontra pela primeira vez com Anna, a belíssima Nora Arnezeder. Ela é o amor perfeito e ao mesmo tempo a vítima perfeita. É trágico e tocante ao mesmo tempo.
 
-> At this stage the laborers still form an incoherent mass scattered over the whole country, and broken up by their mutual competition.
+Elijah consegue dar sua interpretação fascinante graças parte em sua voz, e parte em sua expressão de aterrorizado, petrificado ou fascinado. Ele é um lunático, e a único aspecto estranho na história é como as pessoas não percebem isso. Talvez seja a forma como nós mesmo conseguimos sobreviver neste mundo cheio de regras sociais. Somos malucos por dentro e temos uma certa proteção enquanto as pessoas não desconfiarem. Espero que não desconfiem. Assim posso ganhar a confiança delas e me fazer passar por alguém normal. Agora sei como o espectador comum se sente. É mais ou menos como eu me sentia quando ligava para essas coisas.
 

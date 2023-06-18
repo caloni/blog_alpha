@@ -1,24 +1,44 @@
 ---
 categories: []
-date: '2007-07-18'
-title: Como ser um melhor desenvolvedor nos próximos seis meses
+date: '2008-01-02'
+title: Como ser um melhor desenvolvedor em 2008
 ---
 
-Graças ao meu amigo Thiago estive acompanhando uma série de posts de gente renomada sobre o tema deste artigo. Eles fazem parte de uma nova modalidade entre os blogueiros (pelo menos para mim) chamada de tagging. Funciona assim: você escreve sobre algo (por exemplo, "como ser um melhor cozinheiro em 6 meses") e manda uma tag para que outras pessoas também escrevam sobre o mesmo assunto, o que pode ser feito referenciando o sítio dessas pessoas.
+Aproveitando que está se aproximando meu prazo final para minhas resoluções de seis meses atrás, e o [DQ] já fez o checklist dele, vou dar uma espiada na minha lista de desejos atual e fazer uma nova lista para 2008.
 
-Ainda não tive tempo de ler todos os artigos (nem vou ter, pela velocidade com que isso se espalha), mas acho que dá tempo de escrever um pouco sobre isso.
+#### 1. Fazer um curso de memorização
 
-Acredito que nós, programadores, tentamos aprimorar nossos conhecimentos e nossas técnicas com o objetivo de enxergar os problemas do dia-a-dia de todos os ângulos e de encará-los e resolvê-los da melhor maneira possível. Quer dizer, nós achamos que é a melhor maneira possível. E exatamente por acharmos que tentamos melhorar sempre, em busca da inalcançável perfeição.
+Comecei, fiz vários exercícios, mas ainda não acabei todas as aulas. Descobri que a memória pode ser muito mais bem treinada do que realmente é, e existem técnicas bem pensadas que fazem isso sem muito mais esforço do que apenas tempo despendido. De fato todos nós já temos uma memória incrível, só precisamos treiná-la adequadamente.
 
-O problema existe quando nós, embriagados pela falsa crença de sabermos tudo (ou o suficiente), acreditamos realmente que estamos fazendo o melhor possível e que não há nem haverá maneira de melhorar. É lógico que sempre há. Melhor maneira de ver isso é pegar um código-fonte antigo e observar as mudanças de estilo. E nem precisa ser tão antigo assim. E nem precisa ser código. Pode ser uma idéia antiga de como implementar alguma coisa. A não ser que você seja um teimoso que quer fazer tudo em assembly verá que o que aprendemos ontem influencia nas decisões de amanhã.
+Como comecei e ainda não parei considero esta tarefa realizada (começar e ganhar ritmo é o mais difícil) e estendido para 2008 inteiro.
 
-Minha lista não é muito diferente da dos outros. Basicamente se resume em: ler livros e blogs, programar mais e pensar mais ainda. O importante é que já estou ciente das coisas que devo melhorar, e é nelas que devo me focar nos próximos 180 dias:
+#### 2. Fazer um curso de leitura dinâmica
 
- - Fazer um curso de memorização. Confesso que não ligava muito para isso e agora isso faz um diferença e tanto. Eu sei que hoje temos post-its e agendas, mas nada substitui a confiança que temos em nossa própria mente. E é frustrante ler um livro três meses atrás e não se lembrar de capítulos inteiros.
+Comecei, fiz quase todos os exercícios e terminei. De fato melhorou em muito minha capacidade de concentração na hora de ler um texto rápido, embora eu ainda fique com muito sono quando faço isso. O importante agora é nunca deixar de treinar, e melhorar cada vez mais o poder dos movimentos oculares.
 
- - Fazer um curso de leitura dinâmica. Minha velocidade na leitura é deplorável e eu sei disso. Minha vontade de ler sempre ultrapassa o ato (isso deve ter acontecido com alguns de vocês). Mas o objetivo não é apenas ler mais rápido. É ter foco. Ler e absorver. Não estou dizendo isso de livros de ficção, que para mim são um entretenimento prazeroso. São os livros técnicos que pertubam, e urgem pela minha atenção quando os estou lendo.
+#### 3. Aprender o meu ritmo
 
- - Aprender o meu ritmo. Às vezes me impressiono com o meu descaso para comigo mesmo. Por exemplo, eu já sabia que "rendia" bem mais quando lia livros simultaneamente, e não em fila. Mas mesmo assim insistia em querer terminar um livro antes de começar o outro. O resultado? Aproveitamento 60%. Nada mau. Mas poderia ser bem melhor. Bastava seguir o método que melhor se adapte às minhas necessidades. E isso é o que eu chamo de aprender a si mesmo.
+Não existe milagre, mas existem coisas que podemos fazer para ajudá-lo a acontecer. Foi isso que aprendi durante minhas inúmeras tentativas de dominar o tempo e o espaço no desenvolvimento de software. Aprendi muita coisa, inclusive que escritórios não foram criados para serem lugares produtivos, e quase sempre é necessário se defender dos riscos que a internet faz para a saúde.
 
-Agora que já passei pelo sofrimento de taguear nada como escolher minhas vítimas. Não conheço pessoalmente muitos blogueiros, mas pelo menos essa minha lista é fiel e sincera. Rodrigo Strauss, Fernando Roberto e Thiago Oliveira: o que vocês farão nos próximos seis meses para se tornarem melhores desenvolvedores (ainda)?
+Enfim, essa tarefa também terminou. Agora é só manutenção constante e disciplinada.
+
+Por fim, considero se achar melhor depois de ter melhorado um ou dois itens da vida profissional uma "escrutinisse", tão inútil quanto achar-se já um desenvolvedor muito bom. Porque a qualquer hora podemos cometer novamente aquelas besteiras que fazíamos há cinco anos, e a qualquer hora podemos ter idéias brilhantes. O importante, na minha opinião, é aprender exatamente por que erramos e por que acertamos. Aprender exatamente, e lembrar-se disso, pode ser um enorme catalisador de anos de depuração aleatória.
+
+> "Cada problema que eu resolvo se torna uma regra que serve mais tarde para resolver outros problemas." - Rene Descartes
+
+#### 4. Lista inusitada de tarefas
+
+Sem estar na lista previamente concebida comecei a fazer outras coisas de maneira mais eficiente, relacionado ao trabalho ou não:
+
+ - Aprender o leiaute do teclado Dvorak. Treino todo dia cinco minutos há três meses a digitação usando esse leiaute, porque é mais simples, mais rápido e dói menos os dedos.
+
+ - Anotar todas as coisas importantes. Seja uma idéia nova, uma idéia sobre uma idéia, ou até mesmo melhoramentos em algum software que dou manutenção, é importante manter tudo anotado, porque sabe-se lá quando isso vai ser usado. Mas, quando for, quem vai se lembrar?
+
+ - Bloguear constantemente. Apesar dos sacrifícios que isso às vezes causa, é edificante nunca "deixar a bola cair". Minha regra é sempre publicar um artigo dia sim, dia não durante a semana. Em uma semana começo na segunda, em outra na terça, e assim sucessivamente. Tem funcionado desde que reiniciei o blogue há seis meses, e espero que continue assim.
+
+ - Usar novo controle de versão em casa. Há um mês mais ou menos conheci o Mercurial, que é um sistema de controle de versão muito leve e não-centralizado, duas coisas que fazem uns sininhos soarem em minha cabeça. Ele é baseado conjunto de modificações e merge, duas coisas a que não estou acostumado e me forcei a aprender.
+
+Não é muito difícil definir essa lista, pois ela na verdade são as mesmas duas listas que citei anteriormente. Comecei a fazer essas coisas seis meses atrás. Para um fumante de fato parar, uns cinco anos de abstinência é um bom indicador. Acredito que, para um hábito se enraizar, um ano e meio pode ser de bom tamanho.
+
+[DQ]: http://dqsoft.blogspot.com/search?q=resolu%C3%A7%C3%B5es+de+ano+novo
 

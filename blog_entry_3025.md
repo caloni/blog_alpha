@@ -1,17 +1,18 @@
 ---
 categories:
-- cooking
 - writting
-date: '2019-06-23'
+date: '2011-03-22'
+link: https://www.imdb.com/title/tt0480687
 tags:
-- food
-title: Pastéis de Nata
+- movies
+title: Passe Livre
 ---
 
-Quantidade: 10 a 12 unidades
+Seguindo o exemplo de Rango, temos mais um filme com referências sutis que funcionam a maior parte do tempo. Com uma fotografia saudosista, de um granulado quase apático, e trilhas selecionadas a dedo (e não são muitas, já que apenas são inseridas em momentos pontuais), o novo trabalho dos irmãos Farrely (Quem Vai Ficar com Mary; Eu, Eu Mesmo e Irene) se posiciona acima da média das comédias românticas exatamente pela narrativa contida que evita o besteirol já cansativo na maioria das obras do gênero.
 
-Ingredientes: 250 gr de leite gordo (leite integral),150 gr de açúcar, 75 gr de água, 30 gr de farinha sem fermento, 4 gemas, 1 ou 2 paus de canela, 3 ou 4 tiras de casca de limão (limão siciliano), cerca de 300 gr de massa folheada (de preferência caseira), canela em pó (opcional), açúcar em pó (opcional). **Preparo**: com o açúcar e a água ir ao fogo para fazer o ponto de pérola (uns 3 minutos ou menos fervendo as gotas caem da colher grossas e espaçadas), dissolver a farinha com parte do leite para não ganhar grumos e ficar uma pasta ou creme grosso, levar o resto do leite com o limão e a canela ao fogo até começar a ferver, depois comece a juntar com a pasta feita com a farinha aos poucos para não ganhar grumos, retornar tudo ao fogo e mexer sempre com vara de arame (a que usa pra bater clara em neve) até engrossar, vá colocando o açúcar em fio mexendo sempre com a vara de arame, espere esfriar por uns dez minutos e use parte do creme para incorporar às gemas para não cozinhá-las, depois junte tudo para incorporar as gemas ao creme e passe por uma peneira e descartar as cascas, canela e grumos que possam ter formado, pegue a massa e abra em um retângulo com 3 a 5 milímetros de espessura, enrole, polvilhe com um pouco de água e enrole em um plástico antiaderente ou pano levando ao congelador por uns dez minutos, depois corte esse rolo em pedaços de 2 a 3 centímetros e coloque cada um de pé dentro da forminha, usando o polegar para abrir e água para não grudar nos dedos, leve as formas ao congelador por cinco a dez minutos e depois encha-as com o creme até 3/4 e coloque no forno pré-aquecido na máxima temperatura (250/300 graus), retirando em 10 a 15 minutos ou quando começar a surgir marcas de queimado em cima, por fim, opcionalmente, polvilhe com canela ou açúcar em pó.
+E aqui, mais uma vez seguindo essa tendência de mudança nas relações sociais (vide Amor Sem Escalas, e o mais recente Sexo Sem Compromisso), temos uma situação inusitada entre dois casais que irá desenvolver um raciocínio muito similar ao de "Sideways: Entre Umas e Outras": a oportunidade de uma aventura amorosa fora do casamento não é exatamente a idealizada pela nossa imaginação.
 
- - 2019-06-23 Acertos da minha segunda vez: não mexi o leite, usei raspas de limão Taiti, joguei o açúcar em fio (demora) com o fogo desligado, deixei o açúcar em ponto de pérola (jogando na água fria é quando a gota não se desfaz, ficou viscoso e bem lento para cair, e ao cair em um fio absurdamente fino), retirei a massa no momento em que fui manipular sem untar a mesa, quando fui colocar as gemas a solução já estava fria, medi 12cm para enrolar a massa (metade da receita daria 6 pastéis de 2cm cada), não molhei as forminhas. Os erros: coloquei na forma que esquenta muito e na parte de baixo, acabou queimando a massa antes de queimar a parte de cima do creme. Maior acerto: a consistência da massa interna se manteve cremosa (começou a cozinhar nas beiradas). Da próxima vez posso retirar antes ou colocar na parte de cima ou usar uma forma que esquenta menos; de acordo com a Mitiko, a única variável que falta acertar é a temperatura (de acordo com ela ficou mais leve que da doçaria portuguesa).
- - 2019-06-19 Erros da minha primeira vez: mexer o leite antes de ferver, usar cascas de limão Taiti e não Siciliano (ficou verde), cozinhar as gemas (tinha que esfriar mais o creme), passar do ponto de pérola no açúcar (ficou duro, tive que aquecer no microondas para usar), retirar a massa antes de manipular, enrolar muito fino (ver quantos pastéis deve fazer e ajustar tamanho), molhar as forminhas.
+Como já havia dito, a decisão foi não inserir música em demasiado, o que, se tratando de uma comédia leve, ainda é uma decisão corajosa. No lugar, temos referências inteligentes e que não agridem nosso intelecto, como o uso do toque impagável da série secular Law & Order (e derivados) para estipular a passagem do tempo, como se estivéssemos presenciando um processo em andamento, ou até mesmo o uso parcial da trilha em que Mia Wallace e Vincent Vega se encontram pela primeira vez em Pulp Fiction, evocando um clima romântico (ainda que velado).
+
+Por fim, confesso que fiquei extremamente satisfeito pela forma sóbria que os conflitos são resolvidos, e mesmo que isso implique em alguns personagens alterados psicologicamente, suas ações em nada diminuem o tom controlado e a direção compulsiva da dupla Farrely, sempre apostando em planos que otimizem o impacto das piadas, ou que economizem o número de cortes, quando não os dois (quando, por exemplo, dois policiais abordam Fred em um ato ilícito).
 

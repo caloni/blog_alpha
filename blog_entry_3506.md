@@ -1,20 +1,24 @@
 ---
 categories:
 - writting
-date: '2016-11-17'
-link: https://www.imdb.com/title/tt2231138
+date: '2012-10-21'
+link: https://www.imdb.com/title/tt0069293
 tags:
 - movies
-title: Uma Manhã Suave
+title: Solaris
 ---
 
-Este filme independente de baixo orçamento comprova como o catálogo da Netflix reserva algumas ótimas surpresas onde menos se espera. Protagonizado por atores secundários, este trabalho do diretor e roteirista Neil LaBute é amador quase todo o tempo. Exceto pela reviravolta que o espera.
+Solaris exige do espectador uma imersão surreal e ao mesmo tempo filosófica. Tudo bem que isso já é esperado de toda boa obra de ficção-científica, que nos coloca em uma realidade alternativa mas que continua debatendo temas da época em que foi feita.
 
-E se formos analisar pelo lado amador do filme, é difícil de se deixar levar. Ele se arrasta naquele formato de poucos personagens presos em apenas um cenário, diálogos que dificilmente fazem algum sentido em personagens mal desenvolvidos. É capaz que você pare de assistir quase no minuto final, mesmo que impactado pelo que aqueles dois politicamente incorretos amantes irão realizar, mesmo que eles não prometam nada. Porém, eu rogo: mantenha-se firme até os créditos finais e reavalie o que acabou de ver.
+Só que aqui estamos falando de uma união entre sci-fi e filosofia Tarkosvkiana. Quero dizer, o diretor é intenso. E é russo. Sonhos aqui não são apenas descritos: são vividos.
 
-Stanley Tucci e Alice Eve estão exatamente onde deveriam estar para esse projeto. São duas boas escolhas para um filme minimalista. O aspecto teatral não os intimida, e nem o diretor, que concebe movimentos de câmera trêmulos, alguns cortes mais ou menos rápidos (do editor Joel Plotch) e um cenário que aparenta teatro e usa cores simples para uma mulher envolvida em um escândalo familiar e que se move lentamente ao ritmo de seu algoz cliente.
+E por falar em sonhos, nos colocamos na situação do psicólogo Kelvin (Donatas Banionis), cuja missão se passa na estação espacial em torno da atmosfera misteriosa do planeta Solaris, que possui um oceano que se comporta como uma espécie de cérebro, materializando criaturas que se parecem (e agem) como humanos. Como não poderia deixar de ser, essas aparições estão deixando a equipe de pesquisadores extremamente perturbada, o que não os ajuda em nada a desvendar o funcionamento do planeta.
 
-O figurino dos dois não poderia ser mais apropriado. O vermelho da semi-jovem Velvet demonstra que ela é o foco das atenções em sua casa, lavada de cores leves e sutis. Seu vestido curto leva a crer uma forma casual de trabalhar, ao mesmo tempo que é prática. Já as vestes do genioso e irritante Fred, além de formais demais para a ocasião, carecem de charme, e são vestidos por uma pessoa surpreendentemente inferior a quem está falando, e que mesmo assim reconhece o poder que exerce sobre ela.
+O mais curioso de uma história envolvendo gabaritados doutores é que estes fazem parte do filme, e por isso não conseguem entender algo que para nós, espectadores, munidos do poder da metáfora e alegorias, conseguimos enxergar de maneira muito óbvia: o oceano que adquire diversos formatos faz o papel da psique humana. E a psique não se desvenda, se interpreta.
 
-Há alguns bons momentos antes da reviravolta, mas nada que justifique assistir a esse filme. Portanto, irei rogar mais uma vez: assista até o final. Há poucos filmes com esse tipo de surpresa. Talvez você já descubra antes e possa curtir por mais tempo. Se não for o caso, talvez se surpreenda ao assistir de novo com outros olhos. De qualquer forma: vá até o final.
+E é exatamente isso que Tarkovski nos sugere, aplicando rebuscados planos e se estendendo em torno de quadros que repetem um padrão (ou a falta de). Quando Kelvin passa a conviver com sua ex-amada Hari (Natalya Bondarchuk), a experiência é tão intensa que é como se nós mesmos a conhecêssemos de outras vidas.
+
+De certa forma, isso não é completamente mentira. O oceano de Solaris pode representar, de certa forma, a psique da humanidade inteira. A visão junguiana favorece as elucubrações filosóficas que ocorrem. E se estas podem parecer simplesmente jogadas, é preciso lembrar que ela está saindo da boca de representantes máximos da espécie humana (e Sócrates está presente em ambos os ambientes, na Terra e no Espaço). Estes homens não conseguiram desvendar Solaris assim como o Homem não consegue a si mesmo.
+
+Que triste fim para o Homem que, por não saber quando vai morrer, vive apressadamente. Se pelo menos tiver apreciado uma sessão de Solaris, talvez a viagem não tenha sido feita em vão.
 

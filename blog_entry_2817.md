@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2014-11-28'
-link: https://www.imdb.com/title/tt1259521
+date: '2019-10-17'
+link: https://www.imdb.com/title/tt9810932
 tags:
+- cinemaqui
+- mostra
 - movies
-title: O Segredo da Cabana
+title: O Século da Fumaça
 ---
 
-Há uma inversão de expectativas interessantíssima em O Segredo da Cabana, primeiro longa de Drew Goddard e escrito em parceria com Joss Whedon (sim, o cara dos Vingadores). Desde o começo (e por isso não conta como spoiler) enxergamos a velha história de terror e suspense dos jovens que vão passar o fim-de-semana em uma cabana na floresta como um ritual minuciosamente planejado por apáticos funcionários de uma organização aparentemente presente no mundo todo. O motivo? O mesmo que existe nesses filmes: aplacar a sede de vingança de espíritos, ou a força sobrenatural de zumbis, ou uma maldição fantasmagórica. Simplesmente escolha a sua.
+O Século da Fumaça parece uma reprise. Eu me lembro de ter visto um filme muito semelhante em outras mostras há um bom tempo, mas a data de produção de 2018 aponta para sua triste atualidade.
 
-O interessante da inversão que comentava é: como espectadores de filmes de terror, geralmente estamos acostumados com o desenrolar da mesma história contada milhares de vezes, e sequer prestamos atenção aos personagens que seguramente vão começar a morrer em questão de minutos. Aqui, não: esses jovens não são idiotas (como na maioria desses filmes) e não estão pedindo para serem mortos. Suas personalidades são alteradas quimicamente, os tornando vítimas antes mesmo de chegarem na famigerada cabana. Nesse sentido eles se tornam heróis que precisam desvendar a trama em que foram involuntariamente envolvidos antes de serem mortos por uma organização psicopata.
+Se trata de um documentário sobre as condições dos habitantes do interior de Laos, ainda produtor e exportador de Ópio, uma droga altamente viciante e que geralmente consome rapidamente a vida dos viciados. Nessa região acompanhamos uma família e seus vizinhos. A maioria dos homens dessa geração estão no vício e as mulheres são responsáveis por trabalhar no campo, além de dividir a criação dos filhos.
 
-Um dos personagens tem essa passagem filosófica onde analisa nos primeiros minutos do filme que nossa sociedade, ao escrever toda sua vida na internet através de blogues, tweets, postagens no Facebook e fotos, está cavando sua tumba definitivamente. Não estamos mais vivendo, apenas acompanhando nosso último processo de definhamento. O que se torna irônico justamente ao relembrarmos de tantos filmes de terror que serve apenas como uma escapatória da vida real por meio de uma história sempre patética onde há sangue para nossa diversão. E, vejam só, isso lembra exatamente os vilões supremos de O Segredo da Cabana!
+O "pai de família" explica que parar de fumar ópio envolve fortes dores no corpo e a incapacidade de se levantar. Ele já está viciado há um ano e espera que o governo proíba a produção para que ele seja forçado a parar, não havendo mais ópio por perto. De acordo com ele seria a única maneira de ele conseguir se salvar, pois sua força de vontade é insuficiente (ele coloca a culpa na genética da família). E ele se sente grato por ter casado com uma mulher forte que possa trabalhar no campo.
 
-Os efeitos digitais são bem ruinzinhos, e uma coisa ou outra na montagem o tenta tornar um trash involuntário. Porém, o conteúdo da narrativa compensa esses deslizes, pois nunca se torna enfadonho, sempre desdobrando suas possibilidades e se auto-analisando com metáforas divertidas e que fazem uma justa homenagem aos verdadeiros trashes, sendo a parte em que um velho "colaborador" tenta dizer suas falas ritualísticas enquanto é zombado pelos funcionários, que o escutam pelo viva-voz do telefone.
+O Século da Fumaça se chama assim porque este é um ciclo de 100 anos que ainda não acabou. Por mais que a produção de ópio seja coibida no mundo ainda há mercado, e as consequências podem ser vistas em primeira pessoa neste filme. A morte do primogênito na família é motivo de muita dor e sofrimento dos pais, o que os levou a ingerir também da substância. Simples, mas sábios pela idade, eles entendem o básico que seu filho vivo precisa: fazer qualquer coisa que envolva sair do vício. Sua mulher já pensou em se matar, mas precisar cuidar dos filhos é um sentimento maior. Este não é um filme fácil pelos fatos que estão aí.
 
-Apenas pecando em seu final por levar a história até o seu extremo sem necessidade (não esperávamos por isso), talvez por tentar forçar uma espécie final feliz onde ele não cabe, pelo menos possui a cereja do bolo orquestrada por uma Sigouney Weaver estranhamente gorda, mas, por ser a heroína definitiva da "quadrilogia" Alien, significativa em seu simbolismo final.
+O filme é auto-contemplativo. Não há uma narrativa, serve mais como denúncia e fazer pensar. Há vários momentos parados como reflexo do ritmo de vida do local, cujo clima tropical faz variar o tempo religiosamente com a chuva do final do dia. E há 100 anos se explica o vício como a maldição de uma princesa muito bonita cuja flor que nasce do seu túmulo hipnotiza quem a inalar. É um filme sobre vidas em suspensão, onde o sofrimento se resolve inalando a fuga da realidade.
 

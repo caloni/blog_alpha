@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-09-01'
+date: '2022-11-08T22:27:24-03:00'
 tags:
 - wine
-title: Cave De Ladac Rouge
+title: Cave de Ladac
 ---
 
-Este vinho francês tem corpo leve como Cabernet, fácil de beber, tem umas nuances que lembra fermento frutado, frutas não-cítricas, e é muito bom para conversar com amigos em churrasco na varanda.
+Eu nunca me toquei que haviam vinhos semi secos. O David me apresentou um francês. Ele é bem leve, uma cor quase transparente e ligeiramente doce. Não há taninos. É fácil de beber e tem um gosto da fermentação da uva que é bem diferente do que estou acostumado. Não tenho opinião formada. É necessário aprender a degustar.
 

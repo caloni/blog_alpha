@@ -1,86 +1,33 @@
 ---
 categories:
-- coding
-date: '2008-02-05'
-title: Process Monitor e o monopólio malcriado
+- writting
+date: '2019-08-03'
+link: https://www.imdb.com/title/tt9358204
+tags:
+- cinemaqui
+- movies
+title: Privacidade Hackeada
 ---
 
-Uma das primeiras regras que aprendemos para manter a integridade do Windows é utilizá-lo somente com a conta de usuários restritos, o que evitaria, por exemplo, que um programa mal-intencionado instale um serviço ou driver, que teriam acesso às partes íntimas do sistema operacional.
+"Se você manter sua mente suficientemente aberta, as pessoas irão jogar um monte de lixo dentro dela." - William A. Orton, empresário do século 19
 
-Essa é uma regra básica, mas não é fácil de cumpri-la. Só quem já tentou fazer isso sabe do que estou falando. Inúmeros programas mal-escritos vão tentar, de uma hora pra outra, acessar áreas do sistema de arquivos e registro que não possuem acesso, pois agora estão rodando em uma conta mais restrita. E não são programas de administração ou manutenção do sistema. Estou falando de programas de escritório e jogos. Aqui vai um singelo exemplo que tive que lidar esse fim-de-semana.
+Privacidade Hackeada é o título brasileiro desse documentário americano lançado pela Netflix, mas ele não tem nada a ver com privacidade e tudo a ver com inception, aquele conceito do filme A Origem onde uma ideia era implantada na cabeça de uma pessoa para que ela achasse que era sua desde o começo.
 
-Primeiramente, quero deixar bem claro que jogamos Monopoly por mais ou menos dois meses sem ter qualquer tipo de problema, em três computadores diferentes. Até que resolvemos usar uma conta mais restrita. Foi o bastante para o programinha inocente começar a chiar.
+E a pergunta que eu faço hoje em dia, em uma época onde as informações acumuladas da humanidade estão literalmente nas pontas dos dedos de bilhões de pessoas, é se ainda existe esse conceito de ideia original, assim como alguns defendem que exista ainda essa coisa de privacidade, já que informação inclui conhecimento sobre os outros e sobre você mesmo trafegando pela rede.
 
-{{< image src="monopoly-crash.png" caption="Monopoly Crash" >}}
+Focado na votação americana de 2016 que elegeu Donald Trump e no plebiscito inglês que retirou o país da União Europeia, o Brexit, o filme tem desde o princípio o objetivo de alertar seu espectador para que fique atento para onde seus dados podem ir. A introdução de David Carroll, nosso host, fala sobre como a geração de suas filhas poderá manter o sistema democrático de pé depois de tudo o que foi visto sobre manipulação de notícias nos últimos anos.
 
-Mau garoto. Bons tempos em que quando um jogo travava o máximo que tínhamos que fazer era apertar um botão.
+Mas deixemos de lado por enquanto os fake news e vamos aos fatos: dados de milhões de americanos foram parar nos servidores europeus da Cambridge Analytica, uma empresa que não apenas processa dados de redes sociais como os utiliza para direcionar o uso da propaganda nessas mesmas redes. Interessante, não? Na Era da Informação, nada mais natural que gigantes como Facebook e Google sejam gigantes justamente pelo poder dos dados da sua massa de usuários.
 
-Para encontrar problemas desse tipo, sempre uso o Process Monitor, que tem virado minha ferramenta básica para muitas coisas. Para os que não conhecem, o Process Monitor é uma ferramenta de auditoria de operações no sistema operacional, ou seja, tudo que alguém ler e escrever em arquivos e no registro será logado.
+As redes sociais foram úteis em eleições passadas, como a de Obama em 2008, quando Brittany Kayser trabalhou como voluntária para alavancar uma das primeiras campanhas a usar o poder da internet para eleger o candidato democrata. A campanha termina, o partido se recusa a pagar pelo apoio de Brittany, e o dinheiro para ela passa a ter importância em sua vida pessoal. Então ela recebe uma proposta de emprego onde poderia, de acordo com ela, realmente mudar o mundo (e receber por isso). A proposta, que ela aceitou, foi para trabalhar na Cambridge Analytica.
 
-Sua função é mostrar tudo, absolutamente tudo que o sistema está fazendo em um determinado espaço no tempo. Isso pode ser ruim por um lado, já que será bem difícil encontrar alguma informação útil no meio de tanto lixo que pode ser gerado em um log de poucos momentos. Para ter uma idéia do que eu estou falando, tente abrir o Procmon sem qualquer filtro e deixá-lo rodando por 30 segundos sem fazer nada. No meu sistema isso deu aproximadamente 20 mil linhas de eventos de log. Nada mau para um sistema ocioso.
+O documentário gira em torno do seu remorso pelo que ela ajudou a construir, pelo pedido legal do professor David Carroll à empresa que devolvam os dados que pegaram de seu perfil e da investigação minuciosa de uma jornalista do The Guardian, Carole Cadwalladr, um jornal britânico de esquerda.
 
-É por isso que ele vem "de fábrica" já com uma série de filtros, que evitam lotar o log de eventos com informação sempre gerada pelo sistema, mas quase sempre inútil. Além dos filtros-padrão, podemos inserir nossos próprios filtros. É isso que faremos aqui para pegar o monopólio malcriado (sem trocadilhos).
+O que mais me incomodou neste filme foi o tom absolutamente irreal com que ele realiza suas manobras, como se essas pessoas fossem seres iluminados sem posição política alguma, enxergando a realidade fora da Matrix e prontos para mudar o mundo para melhor. Porém, até o espectador mais ingênuo deveria se questionar se haveria essa luta pela verdade e a questão de como seus dados são usados se, por exemplo, o resultado dessas duas votações fosse diferente.
 
-{{< image src="monopoly-procmon.png" caption="Procmon Filter" >}}
+A figura mais emblemática, e é virtude do longa não esconder, é de Brittany, que não se sentiu arrependida por ajudar na campanha de Obama, mas estar vivendo agora seu inferno astral por conta de todos os seus amigos estarem furiosos por ela ajudar "o outro lado". Note como ela entende o problema da polarização cada vez mais crescente na opinião política das pessoas, mas por algum motivo que talvez nem ela saiba é incapaz de acusar o lado teoricamente mais empático de ser violento.
 
-Como podemos ver, iremos mostrar em nosso log todos os eventos cujo nome do processo seja monopolyclassic.exe (o nosso amigo faltoso) e iremos excluir do log qualquer evento cujo resultado tenha sido sucesso (se deu certo, provavelmente não é um erro).
+Ou isso ou os diretores do filme, Karim Amer e Jehane Noujaim, trabalham no caso específico e que deixou o mundo inteiro atordoado: a eleição de Donald Trump. Toda sua campanha é utilizada como o bode expiatório para dar suporte à teoria de que os eleitores americanos foram enganados, utilizando para isso a análise do perfil dos indivíduos antes do dia da votação e o envio massivo de propaganda negativa contra sua adversária, Hillary Clinton.
 
-Executamos novamente o jogo, dessa vez com o Process Monitor capturando todos seus movimentos.
-
-{{< image src="monopoly-crash.png" caption="Monopoly Crash" >}}
-
-Agora, uma pequena ressalva: eu estou cansado de ver isso, mas para quem nunca viu, pode não ser tão óbvio. Como eu disse no início do artigo, programas mal-escritos costumam tentar acessar áreas do sistema que não são acessíveis para usuários comuns. Isso quer dizer que, se o problema que está acontecendo com o jogo tem a ver com essa peculiaridade, a primeira coisa a procurar é por erros de acesso negado.
-
-{{< image src="monopoly-procmon-access-denied1.png" caption="Monopoly Access Denied" >}}
-
-{{< image src="monopoly-procmon-access-denied2.png" caption="Monopoly Access Denied 2" >}}
-
-A primeira busca retorna uma chave no registro referente às propriedades de joystick. Como não estou usando joysticks, podemos ignorar este erro por enquanto e passar adiante.
-
-    MonopolyClassic.exe CreateFile	C:\Documents and ...\TikGames\Monopoly NAME COLLISION
-    MonopolyClassic.exe CreateFile	C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log ACCESS DENIED
-    MonopolyClassic.exe QueryOpen	C:\Arquivos de programas\GameHouse\Monopoly Classic\DBGHELP.DLL NAME NOT FOUND
-    MonopolyClassic.exe RegOpenKey	HKLM\Software\Microsoft\...\DBGHELP.DLL NAME NOT FOUND
-
-O próximo erro diz respeito a uma tentativa de acesso ao arquivo Monopoly.log localizado no diretório de instalação do jogo, o que já é mais sugestivo. Podemos fazer um pequeno teste alterando o acesso desse arquivo.
-
-    C:\Arquivos de programas\GameHouse\Monopoly Classic>cacls Monopoly.log
-    C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log BUILTIN\Usuários:R
-                                                                     BUILTIN\Administradores:F
-                                                                     AUTORIDADE NT\SYSTEM:F
-                                                                     MITY\Caloni:F
-    
-    C:\Arquivos de programas\GameHouse\Monopoly Classic>
-
-Como podemos ver, o que é muito natural, um arquivo dentro da pasta de instalação de programas permite acesso de somente leitura para usuários comuns a seus arquivos, inclusive o Monopoly.log. Para fazer o teste, podemos simplesmente adicionar controle total a apenas esse arquivo, e rodar novamente o jogo.
-
-    >cacls Monopoly.log /E /G Usuários:F
-    arquivo processado: C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log
-    
-    C:\Arquivos de programas\GameHouse\Monopoly Classic>cacls Monopoly.log
-    C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log BUILTIN\Usuários:F
-                                                                     BUILTIN\Administradores:F
-                                                                     AUTORIDADE NT\SYSTEM:F
-                                                                     MITY\Caloni:F
-
-    
-    C:\Arquivos de programas\GameHouse\Monopoly Classic>start monopolyclassic.exe
-
-{{< image src="monopoly-screenshot.jpg" caption="Monopoly" >}}
-
-Ora essa, estou conseguindo rodar o jogo! Isso quer dizer que nosso único problema, o acesso a esse arquivo, foi resolvido. Sabendo que um arquivo de log provavelmente não será executado por nenhuma conta privilegiada, podemos deixá-lo com acesso irrestrito para todos.
-
-Para ter certeza que isso resolveu o problema, uma segunda auditoria de execução executada pelo Process Monitor pode nos revelar mais detalhes.
-
-{{< image src="monopoly-procmon-find2.png" caption="Monopoly" >}}
-
-    MonopolyClassic.exe QueryStandardInformationFile C:\Documents ...\Monopoly\save.gcf SUCCESS
-    MonopolyClassic.exe ReadFile C:\Documents ...\Monopoly\save.gcf SUCCESS
-    MonopolyClassic.exe CloseFile C:\Documents ...\Monopoly\save.gcf SUCCESS
-    MonopolyClassic.exe CreateFile C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log SUCCESS
-    MonopolyClassic.exe CreateFile C:\Arquivos de programas\GameHouse\Monopoly Classic SUCCESS
-    MonopolyClassic.exe CloseFile C:\Arquivos de programas\GameHouse\Monopoly Classic SUCCESS
-    MonopolyClassic.exe WriteFile C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log SUCCESS
-
-Moral da história: se algum dia você vier a escrever um programa inocente, deixe que pessoas inocentes consigam utilizá-lo.
+No entanto, por nunca conseguir de fato acesso ao modus operandi da famigerada Cambridge Analytica, o filme é incapaz de trazer respostas satisfatórias às questões que levanta, e acaba se limitando no velho jogo de propaganda que já conhecemos desde a Rússia soviética. Logo, fica difícil reconhecer o trabalho deste filme como inovadora quando o que ele no final das contas denuncia é: a propaganda faz as pessoas mudarem de idéia. Não me parece um material muito revolucionário para mim. O que você acha?
 

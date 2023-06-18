@@ -1,11 +1,11 @@
 ---
 categories:
 - writting
-date: '2018-10-09'
+date: '2018-09-25'
 tags:
-- wine
-title: Cosecha Tarapaca
+- beer
+title: Coruja Pilsen
 ---
 
-Cabernet Sauvignon da Cosecha Tarapaca 2016 mantém a camada extra de elegância de um vinho industrial, mas que justamente por isso entrega em bom custo benefício.
+É uma... pilsen? Bom, tem um salgadinho próximo de uma witbier prestes a ser esquecida.
 

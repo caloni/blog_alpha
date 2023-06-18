@@ -1,22 +1,20 @@
 ---
 categories:
 - writting
-date: '2011-11-02'
-link: https://www.imdb.com/title/tt1161864
+date: '2017-01-17'
+link: https://www.imdb.com/title/tt0018328
 tags:
 - movies
-title: O Ritual
+title: O Ring
 ---
 
-Um "noviço" que, desistindo da vocação de padre, resolve dar uma última chance ao seu superior fazendo um curso de exorcismo no Vaticano. Há um diálogo estranho do superior insistindo no rapaz. Com o uso de uma cena forçada do superior causando a morte de uma ciclista, parece que o filme irá jogar suas causas de uma maneira não-orgânica.
+Hitchcock gosta de criar cenas icônicas em seus filmes. Aqui temos uma mulher apaixonada ao lado do seu amor, quase nocauteado no ringue. Ele também gosta de comédia de situações, e esta é uma delas, onde até o título do filme é um trocadilho em inglês ("ring" pode ser anel ou o ringue de boxe). Este não é um dos seus filmes de crimes, mas um triângulo... um quadrado amoroso. E confuso. São personagens que dificilmente conseguimos lembrar por muito tempo. Parecidos entre si, não caem nos estereótipos e exageros do cinema mudo. O que torna tudo muito difícil de acompanhar.
 
-O clima de conspiração lembra Anjos e Demônios (a trilha corrida), e eu consigo relacionar quase sem querer a relação dos demônios na terra assim como os terroristas ("seu maior poder é nos convencer que não existe", "eles guardam a sete chaves suas identidades"). Seu pai e sua família cuidarem de maquiar defunto não me parece motivo para nada no filme.
+A história começa em um parque de diversões, onde já vemos a destreza hitchcockiana em mesclar imagens (como de um homem rindo e um brinquedo onde deve-se acertar bolas dentro de uma face gigante. Uma das atrações é conseguir derrubar o "João Um Round", ou um nome que o valha. O campeão ganha uma bolada. Há uma moça bonita na bilheteria, que já estima João como um amigo de infância. Há também um homem bem apessoado na multidão, mais alto que a média, junto de seu amigo. Ele flerta com ela, e aceita o desafio. Ganha. Isso muda o destino de todos envolvidos.
 
-Dando a impressão em seu início sóbrio que o filme é inseguro de si, ele resolve partir logo para a apelação, o que denota também a insegurança de seu espectador.
+E por falar em destino, temos uma cigana/cartomante velha e baixinha e que fuma cachimbo como ninguém. Ela usa baralhos comuns para acertar a sorte da moça, e nele aparece o rei de copas. "Um homem alto e rico", diz. Porém, quem estará rico nesse futuro que ela almeja?
 
-Nessa situação, nem um ator do calibre de Anthony Hopkins consegue salvar este projeto. Pior para ele, vítima das cenas mais grotescas filmadas, como ao bater em uma menina.
+Hitchcock não quer saber de previsibilidades. Inventa mais um personagem lá no meio do filme, e cria situações apenas por criá-las. Vai "desenvolvendo" os três pretendentes em suas vidas, mas fica difícil entender o que o filme pretende. No final, uma luta magistral em um ringue muito maior, com um sino ("ring") icônico.
 
-Todas as vezes que os detalhes sutis ganham contorno, como uma cena que o personagem se corta ao fazer a barba, ou uma menina cortando cabelo, ou até mesmo uma travessura utilizando sapos, o filme fica interessante. Infelizmente a história nos leva cada vez mais acerca do sobrenatural, que não é tão interessante assim.
-
-Com caracterizações nada marcantes em um exorcismo que chega a ser patético, e nunca conseguindo no convencer de suas reais intenções, as fraquezas de O Ritual estão presentes demais durante todo o longa, o suficiente para obliterar suas poucas e sutis virtudes.
+A luta de boxe é um artifício enérgico e que sempre funciona no Cinema. Aqui não é diferente. Porém, qual o grande desafio a ser vencido? Dizem que uma luta de boxe no cinema nunca é sobre boxe. Aqui sim. Isso estraga a magia e nos transporta para o mundo fácil das histórias divertidas de cartoon. O garotão ganha a mocinha. Ele perde-a novamente. Ela vai até o lado dele e com seu rosto angelical faz com que ele vença a luta. Fim. E espero que o fim de filmes como esse na carreira do diretor.
 

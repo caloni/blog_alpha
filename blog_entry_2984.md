@@ -1,91 +1,142 @@
 ---
-categories:
-- coding
-date: '2016-06-04'
-link: http://www.slideshare.net/slideshow/embedcode/key/qRb4TSKjnf8Wx
+categories: []
+date: '2017-02-19'
 tags: null
-title: 'Palestra: Stack Overflow'
+title: 'Palestra: como criar moedas digitais em casa com C++ (kick-off)'
 ---
 
-Há umas semanas (sim, estava enrolado para falar sobre isso) ministrei uma nova palestra lá em Sorocaba. Cheguei no meio de uma greve de ônibus, o que atrasou o evento em uma hora e me deu tempo de sobre para pensar nas desgraças que serão cidades próximas da capital crescendo desordenadamente graças às regulações estatais.
+Esta palestra tem como objetivo ensinar o que são moedas digitais, como o bitcoin, e cada passo necessário o algoritmo e implementação para torná-la real. Será utilizado C++ como a linguagem-base e o foco está mais na implementação do que na matemática ou no algoritmo. Assim como foi criado o bitcoin, o importante a aprender é como unir diferentes tipos de conhecimento e tecnologia em torno de um objetivo único, simples e prático.
 
-Mas divago.
+{{< image src="TAunJPB.png" caption="" >}}
 
-A ideia da palestra foi do meu amigo Alan Silva (a.k.a. jumpi), e era para a SEMANA DA COMPUTAÇÃO E TECNOLOGIA -- mas nada tem a ver com computação, nem tecnologia, mas com oportunidade de emprego de estagiários para empresas corporativistas da área. O foco era sair da mesmisse que os representantes de R.H. fazem em falar de cultura, visão, valores e outras besteiras e falar um pouco mais de bits e bytes, algo que falta a essa geração.
+A partir da criação da moeda surge a necessidade de facilitar o seu uso, um problema recorrente em todas as mais de 700 moedas digitais existentes no mercado e no laboratório, incluindo o bitcoin. Após a palestra teremos uma discussão de como levar a tecnologia ao usuário comum.
 
-Meu público era muito, muito jovem, e foquei erroneamente em conceitos muito, muito antigos para eles, então não tenho muita certeza se fui útil. De qualquer forma, foi um prazer falar sobre engenharia da computação atrelado a ataque na pilha de execução (sim, um salto enorme para baixo, do R.H. para a placa de memória RAM).
+### Construindo os princípios básicos
 
-O conteúdo e a palestra está no GitHub e a palestra em si pode ser vista logo abaixo; a apresentação do conteúdo está mais abaixo, e peço desculpas por não ter tido tempo de apresentar todo ele (mesmo com quase duas horas):
+Para nossa moeda digital utilizaremos um sistema simples, rápido e prático para subir informações na memória de um nó (server) e repassar essas informações para outros nós, o tiodb. Este projeto mantém contêineres STL na memória da maneira mais enxuta possível e eles são acessíveis através do protocolo mais simples possível utilizando uma gama de linguagens (C, C++, Python, .NET).
 
-Também fiz um [vídeo](https://www.youtube.com/embed/kSKQQDTBRXQ?list=PLa0QVTprDkHBz6fjuzy4kU1iTLUnRWkeW) para complementar o conteúdo da palestra.
+A primeira coisa é compilar o projeto tiodb, que irá disponibilizar alguns binários em sua saída:
 
-Um StackOverflow é definido pela escrita em uma região não autorizada de memória. Stack overflow, overrun, etc, não interessando a nomenclatura "oficial", o importante aqui é como um bug de acesso à memória pode permitir acesso exclusivo a regiões de memória que não estariam disponíveis para um atacante se não fosse por esse bug.
+ - __tio.exe__ é o executável central cuja instância mantém contêineres na memória;
+ - __InteliHubExplorer.exe__ é uma interface simples para navegar por esses contêineres;
+ - __tioclient.dll__ é a biblioteca dinâmica que pode ser usada por clientes para acessar o tio.
 
-No exemplo do código deste projeto, um usuário fictício utiliza um código que possui controle de acesso, mas também possui um bug: ele escreve em uma região da memória inadvertidamente. Dessa forma, é possível explorar essa falha no código para escrever um novo endereço de retorno na pilha (stack), ganhando acesso, dessa forma, a código que não estaria disponível em situações normais de temperatura e pressão.
+Podemos rodar o tio deixando ele usar os parâmetros padrão ou alterar número da porta e outros detalhes. Vamos executar da maneira mais simples:
 
-Para explorar esse tipo de falha, primeiro devemos entender a execução do código na arquitetura que se pretende atacar, além de alguns conceitos específicos do sistema operacional alvo.
+```
+C:\Projects\tiocoin\tiodb\bin\x64\Debug>tio
+Tio, The Information Overlord. Copyright Rodrigo Strauss (www.1bit.com.br)
+Starting infrastructure...
+Saving files to C:/Users/Caloni/AppData/Local/Temp
+Listening on port 2605
+Up and running!
+```
 
- - UML: Mundo real aplicado a engenharia.
- - Programação: Codificação do mundo real.
- - Assembly: Ponte entre ser humano e máquina.
- - 1's e 0's: Codificação lógica do computador.
- - Impulsos elétricos: Voltamos para o mundo real.
- - Qubit: Voltamos para a Matrix.
- - ("IBM disponibiliza computador quântico para público")
+OK, tio rodando e ativo. Podemos navegar já pelos seus contêineres usando o InteliHubExplorer:
 
- - Mais abstrações: Memória Virtual, Threads, I/O.
+{{< image src="YJZ7wxC.png" caption="" >}}
 
- - Movimentação de memória (mov, lea)
- - Cálculos matemáticos (add, div)
- - Meta-comandos (push, pop, ret, jmp)
+Por convenção os contêineres seguem um padrão de nomes que se assemelha a uma hierarquia de diretórios, e os nomes que começam com underline são internos/reservados. O contêiner __meta__/sessions, por exemplo, contém uma lista simples das conexões ativas deste nó.
 
- - Registradores (e[abcd]x, [bs]sp, eip)
- - Endereço Virtual ([Kernel|User] Space)
- - Endereço Físico (RAM, ROM, Storage, placas)
+A partir do servidor funcionando é possível criar novos contêineres e mantê-los, adicionando, atualizando e removendo itens. A partir dessas modificações outros clientes podem receber notícias dessas modificações e tomar suas próprias decisões.
 
- - Qual o sentido de apontar para a próxima instrução?
- - R: Saber onde continuar a execução.
- - Demo: Chamada de função.
- - Demo: Retorno de função.
+Vamos criar e popular um contêiner inicial de transações com  um GUID zerado, e a partir dele vamos adicionando novas "transações". Também iremos permitir o monitoramento dessas transações.
 
- - Qual o sentido de existir uma stack?
- - R: Conseguir chamar funções.
- - Demo: Chamada de função.
- - Demo: Passagem de argumentos.
- - Demo: Retorno de função.
+```
+try
+{
+    tio::Connection conn;
+    conn.Connect(server, port);
 
- - Escalonamento de threads
- - Virtualização da memória
- - Controle de acesso
- - Paginação
- - Plug and Play
- - Windows NT
- - Dave Cutler
- - xBox One
- - Hypervisor
+    if (args.find("--build") != args.end())
+    {
+        tio::containers::list<string> transactionsBuilder;
+        transactionsBuilder.create(&conn, "transactions", "volatile_list");
+        transactionsBuilder.push_back("{00000000-0000-0000-0000-0000000000000");
+    }
+    else if (args.find("--add") != args.end())
+    {
+        tio::containers::list<string> transactionsAdd;
+        transactionsAdd.create(&conn, "transactions", "volatile_list");
+        string newTransaction = NewGuid();
+        if( newTransaction.size())
+            transactionsAdd.push_back(newTransaction);
+        else
+            cout << "Error creating transaction\n";
+    }
+    else if (args.find("--monitor") != args.end())
+    {
+        tio::containers::list<string> transactionsMonitor;
+        transactionsMonitor.open(&conn, "transactions");
+        transactionsMonitor.subscribe([](auto container, auto containerEvt, auto key, auto value)
+                {
+                int eventCode = stoi(containerEvt);
 
- - Thread: Uma ilusão satisfatória.
- - Fibers, Co-Routines, Cores, Pipe Line, Branch Prediction.
- - Computação Quântica: Hackeando o Universo.
+                switch (eventCode)
+                {
+                case TIO_COMMAND_PING:
+                cout << "Ping!\n";
+                break;
 
- - Python, F#, Lambdas C++11, Métodos, Função Virtual.
- - Bloco de memória chama... Outro bloco de memória 
+                case TIO_EVENT_SNAPSHOT_END:
+                cout << "Snapshot end\n";
+                break;
 
- - [[[C]]]]decl e Std(?)call (M$).
- - Demo: Função em C sendo chamada.
- - Demo: Função da Microsoft sendo chamada.
- - Ou: Porque o printf precisa ser cdecl.
+                case TIO_COMMAND_PUSH_BACK:
+                cout << "New transaction " << value << " inserted\n";
+                break;
 
- - Page Tables, PTEntries, Page Fault, Memory Map.
- - Demo: Process Explorer.
+                default:
+                cout << "Unknown event " << hex << eventCode << " with key " << dec << key << " and with value " << value;
+                break;
+                }
+                });
+        while (true)
+        {
+            conn.WaitForNextEventAndDispatch(0);
+            Sleep(1000);
+        }
+    }
+    else
+    {
+        tio::containers::list<string> transactionsReader;
+        transactionsReader.open(&conn, "transactions");
+        for( size_t transactionIdx = 0; transactionIdx < transactionsReader.size(); ++transactionIdx )
+            cout << "Transaction " << transactionsReader.at(transactionIdx) << endl;
+    }
 
- - 2 bits: Quatro possibilidades.
- - Read-Only Memory, Execute Memory.
+    break; // just testing and developing...
+}
+catch (tio::tio_exception& e)
+{
+    Log("Connection error: %s", e.what());
+    break;
+}
+catch (std::runtime_error& e)
+{
+    Log("Runtime error: %s", e.what());
+    break;
+}
+catch (...)
+{
+    Log("Catastrophic error");
+    break;
+}
+```
 
- - Ah, vamos para o BAR: Base Address Randomization.
- - Demo: Ver se isso funciona, mesmo.
+Após executar esse código passando o argumento "--build" e atualizarmos o IntelihubExplorer poderemos ver o novo contêiner e seu conteúdo:
 
- - ESP Verification.
- - Buffer overrun.
- - 0xCCCCCCCCCCCCCCCCCCCCC
+{{< image src="3Mhj2lE.png" caption="" >}}
+
+É possível ler o código rodando o mesmo programa sem passar o argumento "--build":
+
+{{< image src="CxdmZhy.png" caption="" >}}
+
+Agora imagine que exista um cliente da tiocoin que está monitorando as transações deste servidor para verificar a partir de qual momento uma transação foi aceita (supondo que este contêiner possui as transações aceitas):
+
+{{< image src="kLrPawv.png" caption="" >}}
+
+Voilà! Agora temos um sistema inicial com um contêiner que irá manter os IDs de supostas transações de nossa moeda digital. Está compilando e está rodando, e em cima disso poderemos ir adicionando as funcionalidades.
+
+Atenção: você poderá encontrar o repositório do tiocoin [aqui](https://github.com/bitforgebr/tiocoin).
 

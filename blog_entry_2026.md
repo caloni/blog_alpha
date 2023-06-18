@@ -1,22 +1,35 @@
 ---
 categories:
-- writting
-date: '2018-03-05'
-link: https://www.imdb.com/title/tt4649466
+- playing
+date: '2023-02-24T16:22:48-03:00'
+link: https://www.chess.com/game/live/71004431307
 tags:
-- movies
-title: 'Kingsman: O Círculo Dourado'
+- english
+- chess
+title: Keep the advantage in pawn and king final
 ---
 
-Não é tão bom quanto o primeiro, mas diverte. Ele possui algumas boas ideias que estão a serviço da história e do trash, muitas ao mesmo tempo. Mas ele não possui alma, apenas personagens fazendo graça. Ele tenta ser mais do mesmo em uma versão americana, mas tudo soa fake demais. Tentando agradar o público ele desce do pódio das grandes paródias de filmes de espionagem.
+Black to move and to keep the advantage there is a much instructive little plan to execute.
 
-Kingsman: O Círculo Dourado já começa fazendo graça no seu subtítulo (e a graça continua em um show onde o conceito de traição do puritanismo norte-americano dá um passo... à frente). Iniciando com uma cena de ação dentro de um táxi de perder o fôlego, é divertido acompanhar o ritmo frenético que o diretor Matthew Vaughn (do Kingsman original e Kick-Ass) utiliza em suas cenas. Abusando dos planos-sequência montados (não reais, com a câmera na mão, mas computador faz tudo hoje), Vaughn foi um dos pioneiros que iniciou essa tendência nos filmes de ação. Hoje até os filmes do Liam Nesson têm (como seu último, O Passageiro). A cena da igreja do original teve, e foi demais.
+{{< image src="board.png" >}}
 
-A história tem algumas marcas da era Trump. A vilã é um estereótipo dos megalomaníacos que têm um QG em uma Ilha ou floresta. Entediada com os bilhões que ganha com seu império das drogas ilegais, ela não confia em humanos e usa robôs para mantê-lá segura. Os cães mecânicos da última temporada de Black Mirror são muito mais perfeitos, mas esses são fantasiosos, gordos, cheios de mecanismos. Ela gosta de usar rodas dentadas que esmagam seus inimigos. Seus traidores, ela mói e faz hambúrguer para seus novos aliados.
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.24"]
+[White "cavaloni"]
+[Black "antoneinsanton"]
 
-Julianne Moore está tão à vontade no seu papel como Samuel L. Jackson esteve no filme anterior. Da mesma forma, o retorno de Colin Firth é bem-vindo justamente porque o garoto do primeiro, na pele de Taron Egerton, continua só um garoto, ainda que bem vestido nas ocasiões certas. O elenco de Kingsman pode se dar ao luxo até com Jeff Bridges em uma ponta, embora não veja ninguém melhor que Bridges para caracterizar a versão red neck dos agentes secretos.
-
-Mas falando sobre Trump, a sacada do filme é genial. Ela envenena os usuários de suas drogas e chantageia o estado americano para legalizá-las em troca do antídoto. O que ela não contava - ou contava - é que Trump... quero dizer, o "presidente conservador no poder no filme", não acha uma ideia tão má livrar o mundo dos junkies (que no filme, como na vida real, são pessoas normais que apenas ingerem uma substância que o governo não acha legal). O jogo todo revela a hipocrisia e a rede de poder de ambos os lados. Mais que isso só Elton John de refém e dando uma voadora mesmo sendo usuário costumeiro de drogas e gordo como um balão.
-
-Agora, o que é aquele laço elétrico de caubóis que corta gente? Sinceramente, Kingsman flerta sério com o trash! Tão sério que deveria no próximo filme abraçá-lo de vez e tornar a aventura realmente sem lição de moral. Por mais divertido que seja para os democratas ver Trump sofrendo um impeachment.
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Nf6 4. Bc4 e6 5. O-O h6 6. Nh3 Bd6 7. d3 exd3 8.
+Bxd3 O-O 9. Bf4 Nc6 10. Nc3 Be5 11. Re1 Bxf4 12. Nxf4 Nd5 13. Nfe2 Ne5 14. Bb5
+Nxc3 15. Nxc3 Qxd1 16. Raxd1 Ng6 17. Rd2 a6 18. Bd7 Bxd7 19. Rxd7 Rac8 20. Red1
+Ne5 21. Re7 Nc6 22. Red7 Rfd8 23. f4 Kf8 24. Kf2 Ke8 25. R7d3 Rxd3 26. Rxd3 Rd8
+27. Ke3 Nb4 28. Rd2 Nd5+ 29. Nxd5 Rxd5 30. Rxd5 exd5 31. Kd4 c6 32. Ke5 Ke7 33.
+g3 g6 34. b4 f6+ 35. Kd4 Kd6 36. a3 h5 37. c3 g5 38. Ke3 g4 39. Kd4 f5 40. Kd3
+c5 41. Ke3 b6 42. Kd3 b5 43. Ke3 Kc6 44. Kd3 Kb6 45. Ke3 a5 46. Kd3 axb4 47.
+axb4 {Black to move and to keep the advantage there is a much instructive little
+plan to execute.} 47... cxb4 (47... Kc6 48. Ke3 d4+ 49. Kd3 dxc3 50. Kxc3 cxb4+
+51. Kxb4 Kb6) 48. cxb4 Kc6 49. Kc3 Kd6 50. Kd4 Kc6 51. Ke5 d4 52. Kxd4 Kd6 53.
+Kc3 Kd5 54. Kd3 Kc6 55. Kd4 Kd6 56. Kc3 Kd5 57. Kd3 Kc6 58. Kd4 1/2-1/2
+```
 

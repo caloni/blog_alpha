@@ -1,19 +1,19 @@
 ---
 categories:
 - writting
-date: '2022-05-15T17:09:34-03:00'
+date: '2023-03-26T12:47:17-02:00'
 tags:
-- coffee
-title: Espresso Café Cooparaíso
+- series
+title: Esposa em Tempo Integral
 ---
 
-Eu gostei desse café. Peguei da última vez que estávamos voltando de viagem de Minas e passamos em Espírito Santo do Pinhal, onde há uma cafeteria cheia de cafés gourmet da região. Foi lá que conhecemos o ótimo Loretto, BTW. Esse a moça falou que era o que eu estava procurando: sem as frescuras do gourmet (aquele gosto meio enjoativo), um pouco de corpo e amargor. Esse está na medida certa. Acabei de abrir e é de meio quilo, então ainda posso experimentar bastante com tempos de infusão, quantidade de pó e moagem, mas o padrão aeropress entrega um copo balanceado, não muito murro no estômago nem muito insosso como moagens mais claras (esta é média). Curioso que a embalagem praticamente toda está em francês. Eis alguns trechos:
+Eu tenho um amigo que me faz lembrar todos os trejeitos e pensamentos do rapaz de Esposa em Tempo Integral de tal forma que a série fica mais engraçada ainda. Para ter uma ideia, ele seria uma pessoa que na vida real, não duvido, poderia propor para sua faxineira um contrato de casamento com salário por mera comodidade.
 
-> L'alliance unique des meilleurs arabicas du Brésil
->
-> Élaboré à partir de l'alliance de cafés pur arabica spécialement sélectionnés, le café Cooparaiso Espresso offre saveur, arôme et douceur dans le plus parfait des équilibres.
->
-> Cultivé au coeur des hauts plauteaux du Minas Gerais, le goût exceptionnel et profond de ce café au corps marqué, ravira les palais les plus exigeants.
+Só que a vida não é um contrato, e esta série de comédia vai aos poucos delineando de maneira sensível e racional a evolução de um casal que se aproxima e resolve cada passo no relacionamento de cada vez, aprendendo com os erros, dialogando e resolvendo juntos.
 
-Ou seja, a mesma lenga-lenga dos textos de embalagens brazucas, mas em francês. Chique, não?
+No começo é meio difícil imaginar tamanho o nível de imaturidade, mas se torna fácil se você já assistiu animes brincando com as idiossincrasias dos relacionamentos japoneses e todos os ditos que não são ditos, mas pensados, imaginados. Este é um material fácil de trabalhar, é um clichê cultural, e funciona muito bem.
+
+O que essa série consegue é bypassar os clichês que abraça e logo a coisa começa a ficar de fato séria, realista e tocante. Torcemos por este improvável casal fofinho, e qual casal não é improvável no começo? Nenhum relacionamento deveria dar certo e esta história demonstra isso com mais propriedade e uma certa racionalização que faz perder a graça, arriscando tudo para se tornar relevante.
+
+Afinal, esta é a era onde tudo deve ser levado a sério, mesmo que nada seja. A história de produção barata consegue desenvolver seus personagens com tanto afinco que a paixão inicial se perde. Vira um compêndio, um paper acadêmico sobre como fazer relacionamentos dar certo na cultura japonesa e ainda abraçar um perigoso progressismo. Perigoso, sim, mas não inconsequente.
 

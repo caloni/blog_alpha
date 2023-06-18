@@ -1,28 +1,23 @@
 ---
 categories:
 - writting
-date: '2018-03-15'
-link: https://www.imdb.com/title/tt5639354
+date: '2019-12-06'
+link: https://www.imdb.com/title/tt10199640
 tags:
+- cinemaqui
 - movies
-title: Uma Mulher Fantástica
+title: Uma Mulher Alta
 ---
 
-Uma declaração de direitos humanos. Tudo que um ser humano não deveria sofrer psicologicamente está neste filme. E para isso basta as pessoas entenderem que o gênero não importa. E acredite ou não, estamos em 2018 e isso ainda é um grande desafio para a humanidade. Mas talvez não seja tão inacreditável assim, já que todas as misérias sociais pelos quais as pessoas passam hoje em dia é graças unicamente aos socialistas. Explico por que:
+Uma Mulher Alta é uma incursão estranha nas mentes e corações dos russos pós-guerra. Com a economia destruída e as relações sociais radicalmente alteradas, o filme de Kantemir Balagov realiza uma obra que parte da intimidade do triângulo amoroso mais bizarro que você verá esse ano para nos revelar as idiossincrasias que emergem de uma sociedade sem amor.
 
-Os socialistas subvertem os movimentos mais puros por solidariedade humana em troca de uma luta irracional de classes temperada com um jogo absurdo de palavras e muita ignorância. Sua ascenção pré e pós-crise apenas trouxe aos holofotes o quão mesquinhos somos como raça, dispostos a nos dividirmos em grupos minúsculos chamados de minorias e lutar apenas por esse grupo.
+O resultado prima pela distorção dos valores mais burgueses, como família, pois ignora os sentimentos como se eles fossem inexistentes. Balagov está olhando com uma lupa quebrada para essas pessoas e vai com ela desvendando alguns pedaços do desconhecido, que começa na revelação de que o filho de Iya, a mulher alta do título, na verdade é de Masha, sua colega de guerra que usou sua beleza e seu poder de sedução para sobreviver no fronte. Iya, que pela altura exagerada conseguiu se defender mesmo sem sexo, voltou da guerra com um trauma que a paralisa repentinamente por um tempo indeterminado, o que faz com que ela acidentalmente mate essa criança, o que inicia esse drama pesado.
 
-Uma Mulher Fantástica é o resultado disso. As pessoas nesse filme, a favor ou contra (seja lá o que isso quer dizer aqui), apenas enxergam o mundo sob a ótica dos "normais vs aberrações". O amor não conta, ou conta como ódio, quando o patriarca de uma família decide ser feliz ao lado de uma transexual. Ele é rico, dono de uma empresa de tecidos, e ela é sua namorada que mora junto. Eles vivem bem, mas ele vem a falecer. E é aí que percebemos como o suporte individual não dá conta em uma sociedade sem o mínimo de respeito por um ser humano.
+Mas o peso das relações entre Masha e Iya parece esvanecer nas interações entre essas duas e o resto do mundo. Mesmo ligadas agora para o resto da vida pela dívida impagável de um filho que se foi, o espectador é movido a observar mais os detalhes de uma Leningrado minimalista e impessoal através dessas duas, e o filme vai nos entregando cada vez mais através do resto da sociedade, que mecanicamente vive em um microcosmos em suspensão. A guerra acabou, mas levou embora a alma do povo russo.
 
-A única segurança que Marina tinha era seu falecido namorado. E ela sabe disso antes e depois que ele partiu, mas depois a resposta da sociedade é mais pesada. Não existe ninguém que se levante e apoie uma pessoa que acabou de perder seu amor e norte. Ninguém se coloca no lugar. Todos apenas enxergam o que nos torna diferentes. Exceto o cachorro.
+Viktoria Miroshnichenko vive Iya com ajuda da direção sensível de Kantemir Balagov, que captura os pouquíssimos momentos íntimos de uma atriz de uma nota só. Por outro lado, a vida e a energia entregues por Vasilisa Perelygina vivendo Masha acabam compensando e completando as diferentes personalidades entre as duas. Uma depende da outra para que nasça uma personagem só.
 
-O filme acompanha, então, todos os perrengues afetivos pelos quais Marina "tem" que passar. A ex-esposa, o filho, a polícia. Até seu cunhado por parte de irmã. Após um certo tempo começamos a raciocinar no que as pessoas vão fazer com base no que Marina é biologicamente. E até os produtores do filme parecem imbuídos desse estigma.
+Personagens secundários como Andrey Bykov, que vive um cínico doutor do hospital onde ambas trabalham, e Konstantin Balakirev, que vive o namoradinho burguês Stepan, fecham o ciclo necessário para que haja uma conexão mínima com o mundo que elas vivem. O esforço do filme em nos manter o mais distante possível do que ocorre do lado de fora das quatro paredes é estonteante e reflete diretamente a visão da vida pós-guerra de Masha e Iya.
 
-Do contrário, o filme se chamaria Um Homem Fantástico. Sim, porque se nasceu homem e fez-se mulher por uma série de processos pelos quais não nos cabe julgar. Pessoas buscam a própria felicidade. Rotular essa felicidade como Mulher "porque sim", para levantar uma bandeira, é tão nocivo quanto atacá-la. Talvez um pouco mais.
-
-Porque o resultado é o que vemos no filme. Ninguém se importa em tratar Marina como uma coisa. Digna de pena ou de ódio. E sentimos algo por ela tão somente porque o diretor está nos jogando a todo momento seu ponto de vista. E rola uma empatia. Por que seria diferente? Em um roteiro estupidamente econômico, não há narrativa. Marina vê o falecido por onde passa, mas ele não está lá, e isso nos basta como lembrança vívida do que sofre, pela perda e pelas assombrações de sua família, essas muito mais reais.
-
-Note que na maioria do tempo vemos pelo seu ponto de vista, mas também a vemos. Porque é importante ter a noção de como as pessoas a vêem. Bom, apenas as pessoas que estão, de uma forma ou de outra, ligadas ao seu namorado. As outras, geralmente de classe social inferior (olha o socialismo de novo!) são bonzinhos. Claro, pobre não tem preconceito.
-
-A interpretação de Marina é vazia, porque é simbólica. Marina é um símbolo, e isso a enfraquece. Enfraquece a todos nós. É triste ser usado como exemplo, e estar em um filme para tão somente ganhar um Oscar pelo conjunto da obra "transexuais no cinema". Apesar de defender direitos humanos para todos os humanos, este é um filme de mocinhos e vilões, no nível caricato e no nível marxista. Porque este é o objetivo: mais mortes simbólicas para a ascenção do poder. Quantas Marinas mais faltam ser sacrificadas pela causa para alcançarmos o paraíso socialista?
+Feito para acompanhar o ritmo irregular da vida de Iya e seus ataques de paralisia, a música de Evgueni Galperine é a única coisa no longa que irá chamar muito a atenção. Com um ritmo irregular e repetitivo, nos créditos finais é possível observar com mais cuidado, mas o cuidado de Galperine em dar o tom com que essa inusitada história se desenvolve é primordial para entendermos o ponto de vista de Iya, cuja vida é uma sucessão de catarses sem recompensa. Catarses essas que resumem muito bem o último século da história russa, desde a revolução socialista.
 

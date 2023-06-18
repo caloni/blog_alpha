@@ -1,19 +1,12 @@
 ---
 categories:
 - writting
-date: '2021-11-13T15:41:24-03:00'
+date: '2012-07-31'
+link: https://www.imdb.com/title/tt0404030
 tags:
-- animes
-title: Un-Go
+- movies
+title: Uma Vida Iluminada
 ---
 
-Material de divulgação de mangá. Os elementos estão lá misturados em uma composição animada, mas nunca feita para animar. E há uma diferença.
-
-Um anime feito para animar desenvolve movimentos próprios à parte dos ângulos, cenas e cortes de um mangá. Ele cria movimento usando os mesmos elementos visuais da arte estática em gibi.
-
-Um anime feito por elementos do mangá vira uma composição de quadros inertes onde são inseridas cores, dublagem e um texto breve.
-
-O primeiro episódio de Un-Go falha em nos atrair para seu universo por resumi-lo como uma lista de compras. Não há emoção alguma. Os personagens são introduzidos com um letreiro, um deles morre e logo vira palco para um joguete de deduções sherlockianas.
-
-Mas não se empolgue. Deduções vazias em cima de um evento único de um assassinato tratado como corriqueiro afasta qualquer possibilidade de engajamento emocional do espectador. Se trata de um jogo de tabuleiro como muitos daquela velha produtora nacional, a Grow, mas sem sequer a lógica de pistas.
+A princípio promissor em seu formato, onde uma transição extremamente elegante e econômica delineia a vida inteira de Jonathan Safran Foer (Elijah Wood) como um colecionador compulsivo de lembranças de sua convivência com as pessoas, a história dele se enveredando por uma Ucrânia linda e falida em busca das origens de seu avô é dispersa, e não consegue interessar o espectador além da mera curiosidade pelo destino e características daqueles personagens tão incompletos e bizarros. Porém, verdade seja dita: a fotografia é algo de tirar o fôlego, e dá a impressão que o filme nos coloca em determinados cenários apenas para vislumbrarmos o horizonte de um passado que não está mais lá.
 

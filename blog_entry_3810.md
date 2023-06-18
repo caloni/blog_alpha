@@ -1,102 +1,24 @@
 ---
 categories:
-- coding
-date: '2008-04-03'
+- writting
+date: '2016-06-21'
+link: https://www.imdb.com/title/tt1670345
 tags:
-- ccpp
-title: Try-catch flutuante
+- movies
+title: Truque de Mestre
 ---
 
-Esse detalhe da linguagem quem me fez descobrir foi o Yorick, que costuma comentar no blogue e tive o prazer de conhecer no [4o. EPA-CCPP].
+Abracadabra! Surge um péssimo filme. Embalado naquele formato de reviravoltas, este filme não contém nenhuma, pois ele nunca nos faz crer em X para depois revelar Y. Todas suas "bombásticas" revelações são simplesmente isso: revelações. Geralmente algo novo que não tinha qualquer relação com o que foi mostrado até agora, e se tem alguma, é jogada no ar como uma carta qualquer.
 
-É possível, apesar de bizarro, colocar um bloco try-catch em torno da lista de inicialização de variáveis de um construtor. Essa característica da linguagem permite que possamos capturar alguma exceção lançada por algum construtor de algum membro da classe. A construção em código ficaria no estilo abaixo:
+A história gira em torno de quatro talentosos prestidigitadores do show business que recebem o chamado de uma organização milenar chamada O Olho, e é assim que se conhecem. Nenhum deles possui muita personalidade, apenas diferentes habilidades na arte de iludir (ah, e um romance não-resolvido que continua não-resolvido o filme inteiro). A câmera gira constantemente em torno deles e a plateia constantemente vai ao delírio, aplaudindo e gritando, até quando é mostrado o inocente truque do coelho na caixa espelhada.
 
-    Class::Class() try : initialization-list
-    {
-        // Class constructor body
-    }
-    catch(...) // note: this IS right!
-    {
-        // do something about
-        // just like "throw" over here
-    }
+Esse é um filme que tenta se erguer pelo elenco, que se dá ao luxo de ter Michael Caine e Morgan Freeman digladiando-se em torno do grupo de mágicos (não fica muito claro se o personagem de Freeman é contra o grupo de mágicos ou contra personagem de Caine, nem muito a motivação de Caine pelo grupo: esse é um embate que vale pelo próprio embate). Se dá ao luxo também de criar uma premissa de ilusionistas com a síndrome de Robin Hood sem maiores explicações. O responsável pelo plano executado pelos Quatro Cavaleiros (como são chamados) nunca se revela, mas nunca sentimos falta, o que acaba tornando a última revelação não apenas forçada, mas broxante.
 
-Apesar dessa capacidade, não conseguimos parar o lançamento da exceção. Após seu lançamento, caímos no bloco catch abaixo do corpo do construtor e a exceção é lançada novamente, como se houvesse uma intrução throw no final do catch.
+Aqui vale uma menção desonrosa à direção/edição epilética de Louis Leterrier (acostumado a projetos encomendados como o remake de Fúria de Titãs e um filme de Jet Li, Cão de Briga). Mesmo com todas as falhas de roteiro escrito a seis mãos, algumas sequências idealizadas por Leterrier poderiam se beneficiar de uma ação quase constante. Porém, todas as perseguições, seja a pé ou de carro, sofrem de uma desorientação espacial problemática do começo ao fim, nunca sendo possível saber o que, como, onde. Na perseguição de carros isso fica particularmente irritante, pois todos os carros são iguais.
 
-O exemplo abaixo demonstra um código de uma classe que captura a exceção durante a inicialização dos membros. Na seguida o catch da função main é executada, provando que a exceção de fato não é "salva" no primeiro bloco.
+Mas voltemos ao roteiro, pois ele consegue piorar ainda mais o que já havia de medíocre no início da história. Você nunca irá encontrar, por exemplo, diálogos diretos, mas apenas floreios que revelam os delírios de auto-importância do projeto. Estamos falando de personagens que teoricamente teriam algo de importante a dizer, mas que permanecem falando de coisas vagas ou simplesmente pedestres. E se o grande criador de tensão é o "próximo grande truque", ele simplesmente não nos interessa depois que o primeiro se revelou tão idiota.
 
-    #include <iostream>
-    
-    /* This class explodes */
-    class Explode
-    {
-    	public:
-    		Explode(int x) 
-    		{
-    			m_x = x;
-    			throw x;
-    		}
-    
-    		void print()
-    		{
-    			std::cout << "The number: " << m_x << std::endl;
-    		}
-    
-    	private:
-    		int m_x;
-    };
-    
-    /* This class is going to be exploded */
-    class Victim
-    {
-    	public:
-    		Victim() try : m_explode(5)
-    		{
-    			std::cout << "You're supposed to NOT seeing this...\n";
-    		}
-    		catch(...) 
-    		{ 
-    			std::cerr << "Something BAD hapenned\n";
-    			std::cerr << "We're going to blow up\n";
-    			// just like 'throw' over here
-    		}
-    
-    		void print()
-    		{
-    			m_explode.print();
-    		}
-    
-    	private:
-    		Explode m_explode;
-    };
-    
-    int main()
-    {
-    	try
-    	{
-    		Victim vic;
-    	}
-    	catch(...)
-    	{
-    		std::cerr << "Something BAD BAD happenned...\n";
-    	}
-    }
+E por falar em floreio, não bastasse a edição de som capenga, que deixa vozes e efeitos sem muito balanço entre eles (às vezes a música é desnecessária alta, outras os diálogos), a trilha sonora de Brian Tyler (Homem de Ferro 3) é uma mistura de Código da Vinci com Jogos Vorazes, mas sem remeter nem a um nem a outro. Repetitiva e monótona, serve perfeitamente a séries genéricas de televisão. Como estamos em um filme de duas horas, bem, serve para entediar.
 
-Testei esse código nos seguintes compiladores:
-
- - Visual Studio 6. Falhou, demonstrando desconhecer a sintaxe.
- - Borland C++ Builder 5. Falhou, demonstrando desconhecer a sintaxe.
- - Borland Developer Studio 4. Falhou, com o mesmo erro.
- - Visual Studio 2003. Comportamento esperado.
- - Visual Studio 2005. Comportamento esperado.
- - Visual Studio 2008. Comportamento esperado.
- - G++ (no Cygwin). Comportamento esperado.
-
-A saída esperada é a seguinte:
-
-    Something BAD hapenned
-    We're going to blow up
-    Something BAD BAD happenned...
-
-[4o. EPA-CCPP]: {{< relref "epa-ccpp-4-nossa-comunidade-ganhando-forma" >}}
+Truque de Mestre é o filme que, por comparação, eleva ainda mais o status de O Grande Truque a clássico cinematográfico sobre mágicos. Seus tropeços não são irritantes, mas frustrantes. Não há nada a esperar do filme, e ele realmente não entrega nada. Apenas um filme de ação genérica que se veste como um grande golpe de ilusionismo. Abracadabra! Você perdeu duas horas de sua vida.
 

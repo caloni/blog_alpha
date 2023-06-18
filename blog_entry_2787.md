@@ -1,21 +1,55 @@
 ---
 categories:
-- writting
-date: '2019-10-26'
-link: https://www.imdb.com/title/tt8212958
-tags:
-- cinemaqui
-- movies
-title: O Que Arde
+- coding
+date: '2007-12-25'
+title: O que acontece quando o contador estoura
 ---
 
-É um sentimento profundo, que vai além da razão, testemunhar uma floresta ser devastada. Árvores caindo ao movimento de um trator e a fumaça denunciando um incêndio não muito longe dali marcam o início de O Que Arde, terceiro filme do diretor Santiago Fillol escrito pelo seu parceiro usual, Oliver Laxe, e ambos não deixam fácil extrair algum significado disso tudo.
+Dois conceitos de programação relacionados a limites computacionais são bem conhecidos do programador: o famigerado overflow e o não-tão-famoso underflow (embora seja fácil imaginar que ele é o oposto do primeiro). O primeiro ocorre quando somamos a uma variável inteira não-nula um valor cujo resultado não consegue ser representado pelo tamanho de memória usado para armazenar esse tipo inteiro (que pode ser um caractere, um inteiro curto, inteiro longo e por aí vai). O underflow, por outro lado (outro lado mesmo), é o resultado de uma subtração que não pode ser representado pelo número de bits do seu tipo inteiro.
 
-Amador Arias faz Amador Coro, um homem que acabou de cumprir a sentença de dois anos por iniciar um incêndio criminoso. Ele não é exatamente bem-vindo na cidade onde vivia, mas retorna para morar com a mãe e três vacas em uma vida serena no campo, não nos deixando perceber que este homem é um criminoso, o que nos faz pensar como é que um crimoso deveria ser. Sua mãe, que leva o mesmo primeiro nome de sua intérprete, Benedicta Sánchez, nos faz pensar como o roteirista Oliver Laxe não está interessado em criar personagens, pois sequer lhes dá um nome diferente para o elenco. Sánchez, é necessário dizer, também não se comporta como a mãe de um criminoso.
+Nada melhor que um código para ilustrar melhor esses dois ilustres acontecimentos:
 
-Quando o filme de Santiago Fillol nos entrega essa relação mãe e filho no campo e sabemos o que o filho pode ter feito -- não há uma relação causal na história que nos permita afirmar convictos disso -- o que ele está fazendo no fundo é usar a tensão inicial de árvores sendo derrubadas para sequestrar 100% de nossa atenção para o que virá, mas o que vem é a rotina completamente banal dessas pessoas, onde ações como esquentar o pão da manhã usando o fogo do fogão a lenha ou dizer algo contra os eucaliptos não é suficiente para apontar dedos.
+    #include <limits.h>
+    #include <iostream>
+    
+    int main()
+    {
+    	int x = INT_MAX;
+    
+    	std::cout << x << std::endl;
+    	x = x + 1;
+    	std::cout << x << std::endl;
+    } 
 
-Ele também evita usar o caminho contrário, mostrando como Amador é um filho atencioso ou carinhoso, e por isso suas ações passadas estão no passado. Entender um ser humano apenas através do pouco que conhecemos dele nos torna os piores juízes possíveis.
+    Saída:
 
-O Que Arde, por ser tão banal, acaba se tornando insuportável para a maioria dos espectadores. É uma história reta e sem emoções, mas estamos acostumados a nos chacoalhar no cinema, e acompanhar o tratamento de uma vaca enferma pode não ser o tipo de diversão que valeria um ingresso. No entanto, se o que busca é uma outra visão de aspectos mais internos do ser humano, como a questão da moralidade e da convivência em sociedade, este é um filme que lhe entrega justamente isso. Questões complexas são o combustível para pensar, e assistir um filme desses pode acender o pavio.
+     2147483647
+    -2147483648
+
+O indicador de que algo está errado é simples: como diabos foi um número positivo virar negativo, já que eu somei ao invés de subtrair? No entanto, computacionalmente parece extremamente correto: o próximo número após o maior valor positivo possível é o menor número negativo possível.
+
+Nos computadores atuais tudo no final acaba sendo representado por zeros e uns, até o sinal de negativo dos números menores que zero. Por isso mesmo, para que consigamos usar números menores que zero, precisamos gastar um bit para indicar que este número é negativo. Existem muitas representações interessantes, dentre as quais a mais popular acabou sendo a de complemento de dois. A regra é simples:
+
+> Toda representação binária que tiver o bit mais significativo ligado (o bit mais à esquerda) significa um número negativo cujo valor absoluto se obtém invertendo-se o resto dos bits e adicionando um.
+
+Quando o bit mais à esquerda não está ligado o valor absoluto é ele mesmo; ou seja, é um número positivo, incluindo o zero. Como vamos ver, isso facilita em muito os cálculos para o computador. Para nós, a coisa não fica lá muito difícil. Só precisamos lembrar que, em hexadecimal, todos os valores que tiverem o byte mais significativo igual ou maior que 8 (que é 1000 em binário) é negativo e temos que aplicar o método de complemento de dois para obter seu valor absoluto. Vejamos o valor -8, por exemplo:
+
+  1. Primeiro temos a representação real (em um byte): 1111 1000.
+  2. O bit mais significativo está ligado: é um número negativo. Descartamos o sinal, fica 111 1000.
+  3. Devemos agora inverter todos os bits: 111 1000 se torna 000 0111.
+  4. Por fim, somamos um: 000 0111 + 1 = 000 1000.
+  5. Como vimos no parágrafo anterior, 000 1000, ou simplesmente 1000, é 8. Na verdade, -8!
+
+O que significa, na notação complemento de dois, a representação onde estão todos os bits ligados, independente do número de bytes?
+
+Se alterarmos o código acima para imprimir na saída os números hexadecimais, obteremos a seguinte saída:
+
+    7fffffff
+    80000000
+
+E o mais legal é que agora sabemos que o primeiro número é o maior valor positivo possível nesse tamanho de int, pois possui todos os bits ligados exceto o bit de sinal. Já o segundo número, o primeiro incrementado de 1, possui todos os bits desligados exceto o bit de sinal: é o menor número negativo possível!
+
+Consegue imaginar como os cálculos são feitos pelo computador? Curioso? Então dê uma olhada na Wikipedia sobre [complemento de dois].
+
+[complemento de dois]: http://en.wikipedia.org/wiki/Twos_complement
 

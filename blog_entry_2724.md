@@ -1,16 +1,18 @@
 ---
 categories:
 - writting
-date: '2012-10-21'
-link: https://www.imdb.com/title/tt0914798
+date: '2018-03-26'
+link: https://www.imdb.com/title/tt6873658
 tags:
-- movies
-title: O Menino do Pijama Listrado
+- series
+title: O Mecanismo
 ---
 
-Há filmes que possuem uma catarse tão forte e fluida durante a narrativa que parece fácil produzir isso no espectador. No entanto, muitas vezes tudo isso é fruto da nossa imaginação, e há um trabalho grande do início ao fim para que esse efeito seja criado da maneira com que ocorre. Ora, como explicar que um amontoado de bonecas consiga ser tão impactante para os nossos olhos?
+Desde Narcos fica claro que Padilha não está bem. Acostumado a tentar chocar a sociedade usando detalhes sutis da realidade mais estranha que a ficção (Tropa de Elite, Tropa de Elite 2, Robocop (2014)), o diretor erradicado do Brasil por conta de ameaças à sua integridade e de sua família por conta de um possível Tropa de Elite 3, sua série "O Mecanismo" tenta resgatar o patriotismo brega de um brasileiro que já se esqueceu faz tempo o conceito de patriota, permeado de uma onda direitista extremamente brega. Se a esquerda sabe ser populista com a classe de um pedreiro, a direita consegue passar vergonha até quando está falando sério.
 
-Baseado em livro homônimo de John Boyne, o filme de Mark Herman narra as aventuras de um garoto cujo pai faz parte do exército nazista e precisa se mudar com sua família para uma casa extremamente próxima de um campo de concentração. Nele vive um menino de mesma idade e por isso forma-se uma amizade inusitada. O roteiro do próprio Herman consegue oscilar do frívolo ao cruel sem com isso perder o fio da meada, que é enxergar os horrores do holocausto através dos olhos ingênuos de uma criança.
+Para essa missão de desvendar um processo de investigação política a série apresenta o detetive com uma síndrome absurda de "fazer o certo", Marco Ruffo, interpretado por um Selton Mello que precisa sussurrar no ouvido do espectador tudo que está pensando. Entre seus pensamentos escutamos como ele fica possesso de não conseguir pegar os caras maus, e como ele é brilhante por catar papéis cortados no lixo e resgatar uma operação milionária de um laranja. Através dessa operação bancária ele e sua escudeira, a delicinha Verena Cardoni (Caroline Abras, que também faz parte da narração) irão caçar os peixes grandes da política brasileira. Começando pelo doleiro "faço cara de pouco caso" Roberto Ibrahim (Enrique Diaz).
 
-Além de em pouquíssimo tempo de projeção conseguir a proeza de impactar-nos não só com a "solução final" de Hitler como também com os pequenos detalhes, como a convívio com um serviçal judeu na casa. Como se isso não bastasse, a história possui uma coragem fora do comum em sua conclusão, mas que com um pequeno gesto de reflexão é possível entender como era também inevitável. O impacto de um momento horroroso na história da humanidade não deve ser amenizado para irmos para casa tranquilos.
+Usando nomes falsos ridículos no lugar dos nomes reais da Operação Lava-Jato, a maior operação de investigação e julgamento já feita na história da Polícia Federal, somos obrigados a ver e ouvir nomes que parecem ser usados apenas para tapar o sol com a peneira, e o resultado são os risíveis Banco Brasileiro e Petrobrasil. Além disso, fingindo ser possível colocar no lugar do sempre canastrão Lula e da sempre hilária Dilma atores e personagens completamente aquém da potencialidade que essas duas figuras surreais poderiam render em uma ficção com um elenco mais competente (a hora que Dilma fala sobre "estocar vento" em seu discurso é a primeira grande vergonha alheia do piloto da série), Padilha parece estar orquestrando uma obra pseudo-cômica de forma incidental, pois ela gera riso pela falta de jeito em tratar um tema sério em uma narrativa burocrática que apenas estimula bocejos.
+
+A impressão que fica após assistir ao piloto da série que estréia com oito episódios é que a Netflix resolveu abraçar seus espectadores de direita carentes de obras que lhe representem (como sabemos, todas as obras atuais da operadora de streaming favorecem causas sociais de esquerda). No entanto, a maneira que ela escolheu para isso não poderia ser pior, pois entregar um enlatado de TV a cabo dirigido por um diretor que um dia foi relevante é prestar um serviço novamente à esquerda. No final das contas, talvez tudo não passe de um golpe, mesmo.
 

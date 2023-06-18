@@ -1,78 +1,47 @@
 ---
 categories: []
-date: '2008-06-26'
+date: '2008-06-13'
 tags: null
-title: Primeiros passos na documentação de código-fonte usando Doxygen
+title: Primeiro ano do novo Caloni.com.br
 ---
 
-Comentários são essenciais em um código-fonte bem feito. O código pode até fazer milagres, salvar vidas e multiplicar pães, mas se não tiver um apóstolo eficiente que escreva um evangelho para ele, as pessoas não vão conseguir usar!
+Melhor que ter feito aniversário de dois anos no antigo blogue foi ter feito o primeiro aninho nesse novo formato, mais atualizado, mais diversificado e mais antenado com o meu dia-a-dia real.
 
-OK, a analogia foi horrível.
+No dia 14 de junho de 2007 foram publicadas as [boas vindas], e desde então o número de artigos tem se mantido sempre no formato três por semana, dois por semana, consecutivamente, distribuídos na segunda, quarta e sexta, terça e quinta. Esse [jogo de xadrez] tem me mantido bem ocupado, admito, mas no final até que vale a pena. Chegamos à marca de 130 artigos e 182 comentários dentro de 29 categorias.
 
-Bom, já que é pra fazer comentários, porque não fazê-los de uma forma que seja possível extrair todo esse texto diretamente do fonte e transformá-lo em documentação? Dessa forma você evita ter que abrir o Word (arght!) e evita que a documentação fique desatualizada quando o documentador do seu projeto for embora da empresa.
+E por falar em variedade, falamos de vários assuntos desde o início. Entre um devaneio e outro, conseguimos explorar algumas particularidades das linguagens C/C++, o funcionamento obscuro do Windows, algumas dicas sobre programação e ferramentas, e até tivemos tempo de explorar coisas mais específicas, como depuração, engenharia reversa, controle de fonte e C++ Builder.
 
-Vocês não têm documentador no projeto? Ah, tá. Bem-vindo ao grupo.
+No placar, as coisas ficaram mais ou menos distribuídas:
 
-O Doxygen é uma ferramenta que consegue extrair comentários do seu código-fonte, formatados ou não, e transformar em arquivos html, doc, chm, etc. O resultado é muito impressionante, pois ele é capaz de interpretar algumas linguagens (como C++) e mostrar a hierarquia de classes e funções.
+    Assunto      Artigos
+    ===========  =======
+    Programação  10
+    C++          31
+    Windows      11
+    Depuração    10
+    WinDbg       18
+    Dicas        27
+    Código       15
 
-Ele não obriga que o desenvolvedor formate corretamente os comentários, mas ao fazer isso podemos descrever o funcionamento exato de funções de interface, como o que cada parâmetro significa, o valor de retorno, algumas observações quanto ao uso, etc.
+Sobre os visitantes, eles ainda são uma incógnita. Relacho meu, admito. Não faço nem uma simples pesquisa para saber se a maioria está no nível iniciante Juquinha ou avançado "The Guy". Prometo melhorar isso no segundo ano. Em números houve um crescimento de 711 visitantes únicos em janeiro de 2007 para 5223 em maio de 2008.
 
-Aprender a usar Doxygen é muito fácil. Ele possui uma ajuda com vários exemplos com os quais podemos começar a programar um código auto-documentado.
+Pela quantidade crescente de visitantes, dá até pra imaginar que estou "no caminho certo". Mas, quer saber? Que caminho é esse? Não quero fundar um fã-clube, não quero me tornar rico e famoso (talvez só a parte do rico) e, muito menos, influenciar ninguém. Além do que, quanto mais velho um saite se torna, e sendo freqüentemente atualizado, é natural ser mais visitado. Por isso que eu acredito piamente que na maioria dos casos estatística é uma merda, pois mostra uma realidade cheia de conteúdo mas sem nenhum significado.
 
-Por ser uma ferramenta bem flexível, são permitidos inúmeros formatos para se auto-documentar o código. Vou descrever como eu faço, mas pode ser que outro formato lhe agrade mais. Para conhecê-los, dê uma olhada no seu manual.
+Por outro lado, alguns dados são muito interessantes, pois podem moldar o futuro de um blogueiro profissional (não é o meu caso), como os resultados mais-mais do google:
 
-A primeira coisa a saber sobre comentários de documentação é que eles devem vir sempre ANTES do elemento que estamos comentando. Por exemplo, uma classe:
+    Palavras     Buscas
+    ===========  =======
+    softice      86
+    windbg       27
+    caloni       26
 
-    /** Nova classe de exemplo
-    *
-    * Essa classe é um exemplo de como utilizar o Doxygen
-    */
-    class ClasseDeExemplo
-    {
-       // ...
-    };
+No entanto, saber que o topo da lista é formado por buscas por "softice" não irá me fazer escrever mais artigos sobre esse depurador mais do [que eu já escrevi], até porque já é um depurador morto usado hoje em dia em raríssimos casos (no meu caso). Se você quer craquear um programa, mesmo que isso seja contra a lei, aprenda WinDbg que você ganha mais!
 
-Note que o comentário inicia com um duplo asterisco "/**". Isso indica ao Doxygen que vem documentação por aí.
+Das novidades que aconteceram durante esse ano, a maior e mais interessante foi o renascimento do nosso grupo de C++, que talvez continue dessa vez a sua vida normal. Ou não. Esperemos que sim =)
 
-Observe que seria mais simples que o Doxygen pegasse todo e qualquer comentário e transformasse em documentação. No entanto, existem comentários que não devem ser publicados, pois são muito específicos do funcionamento interno da função. Dessa forma o programa-documentador lhe dá a liberdade de fazer comentários documentáveis e não-documentáveis.
+Eu fico sinceramente muito feliz em saber que existem muito mais pessoas interessadas em C++ do que eu mesmo, até porque isso me dá muito mais tempo para escrever sobre outras coisas que não seja C++ que, admiro humildemente, não chego a usar 20% no meu dia-a-dia.
 
-Também existe um outro formato bem popular, usado pelo pessoal do Java, que são os comentários que se iniciam com três barras:
-
-    ///
-    /// Nova classe de exemplo
-    ///
-    /// Essa classe é um exemplo de como utilizar o Doxygen
-    /// E esse comentário é equivalente ao anterior
-    ///
-    class ClasseDeExemplo
-    {
-       // ...
-    };
-
-Além desse estilo de comentário, existem campos-chave que podemos colocar. Para definir um campo-chave, uma forma válida é usar o arroba seguido do seu nome, e a descrição. Eis um exemplo cheio deles:
-
-    /** @brief Função de exemplo
-    *
-    * Essa função tem por objetivo exemplificar o uso do Doxygen
-    *
-    * @param firstParam Serve como primeiro parâmetro da função
-    * @param[out] anotherParam Esse é outro parâmetro que recebemos
-    *
-    * @return Se der erro, retorna -1. Se der tudo certo, 0.
-    *
-    * @remarks Essa função não pode ser chamada antes de ChamaEuPrimeiro.
-    */
-    int FuncaoDeExemplo(int firstParam, int anotherParam)
-    {
-       // ...
-    }
-
-Vejamos:
-
- - brief. Serve como descrição inicial e sucinta do que a função faz. Mais explicações podem existir depois dessa primeira linha introdutória.
- - param. Descreve o objetivo de um parâmetro, assim como se ele é de entrada ou saída.
- - return. Explica os diversos retornos que a função pode ter.
- - remark. Observações especiais que podem ajudar quem chama a função.
-
-Existem diversos outros tipos de marcadores e com certeza você encontrará muita utilidade em outros. No entanto, esse é o basico que todo desenvolvedor do seu time deve saber para já começar a documentar suas funções.
+[boas vindas]: {{< relref "hello-world" >}}
+[jogo de xadrez]: {{< relref "influence-board" >}}
+[que eu já escrevi]: {{< relref "introducao-ao-softice" >}}
 

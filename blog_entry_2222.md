@@ -1,18 +1,17 @@
 ---
 categories:
 - writting
-date: '2015-09-25'
-link: https://www.imdb.com/title/tt3064298
+date: '2022-12-15T21:58:24-03:00'
 tags:
 - movies
-title: (Des)encontro Perfeito (Man Up)
+title: Mammals
 ---
 
-Comédia despretensiosa (e britânica, vale afirmar) sobre uma mulher "velha" de 30 e poucos anos e insegura em conseguir um companheiro, apesar de sua família e sua mãe sempre tentarem suportá-la. Ela carrega um caderninho de anotações onde há mantras que ela repete para se sentir auto-confiante. Um desses mantras é o batido "arrisque-se".
+Esta série é sobre traição, mas também é sobre a dualidade entre a nossa vida mental e a realização no mundo real. E tudo passa pelo nosso filtro animal, o que tenta conciliar as regras sociais e os comportamentos contraditórios.
 
-Pois bem. Ao ser confundida em um encontro às cegas, ela decide tomar esse mantra ao pé da letra e passa o dia com o encontro que roubou, um rapaz mais velho que está passando pela fase do divórcio depois de anos de casado. O detalhe é que é noite de comemoração de 40 anos de casado de seus pais, e ela terá que pesar as consequências em apostar em um total estranho ou honrar seus votos de filha.
+O gancho é eficiente. Nossa atenção é sequestrada por eventos de impacto. Um casal sai de férias e avista uma baleia. Uma grávida perde o bebê, um chef prestes a abrir seu próprio restaurante com o nome da esposa descobre que ela teve pelo menos três amantes sexuais. Uma mulher solitária tem a experiência alucinógena de ser uma personagem em um livro sobre Coco Chanel.
 
-Escrito por Tess Morris em seu primeiro roteiro solo para Cinema, a estrutura de Man Up segue as convenções do gênero felizmente sem nunca se encaixar demais. Sempre há algum momento gore ou bizarro ou até mesmo humano que compensa passarmos pelos velhos clichês Hollywoodianos. Como aqui estamos falando de uma produção BBC, a proposta é mais ancorada na vida real, muito embora tenha vômito, cenas no banheiro e até fogo.
+Tudo acontece no espaço de seis horas de streaming em um tempo psicológico a ser definido. Não é um conteúdo muito alongado porque a trama te prende bem. A direção inusitada brinca com movimentos sem cortes para manter sequências tensas do início ao fim.
 
-No entanto, todos esses elementos se unem de uma maneira orgânica demais para deixarmos passar em branco o relacionamento entre Nancy e Jack, além de que as piadas são de comédia romântica, mas com um humor negro delicioso que só os britânicos nos conseguem brindar. As atuações de Lake Bell e Simon Pegg são impagáveis. Há reviravoltas bestinhas e situações nem muito inspiradas, mas o elenco principal e o ritmo frenético do filme compensa esses pequenos defeitos, onde até a aparição clichê de Rory Kinnear como o amigo de infância se torna um divertimento à parte. E, no final das contas, o que mais importa: ambos criam um casal daqueles que você sente falta quando acaba o filme.
+E tudo termina da maneira que começou. Aberto, interpretativo. Uma exploração não muito ambiciosa, mas original, em busca do que faz da monogamia uma pedra fundamental na sociedade moderna e uma pedra no sapato do modernismo pós-burguesia.
 

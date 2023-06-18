@@ -1,80 +1,14 @@
 ---
 categories:
 - writting
-date: '2021-06-09'
+date: '2023-02-09T18:28:54-03:00'
 tags:
 - movies
-title: Cabine Quem Vai Ficar Com Mario
+title: Cabeça Quente
 ---
 
-Sempre fico curioso sobre onde estão as pessoas que escrevem sobre cinema. Uma oportunidade surgiu durante a cabine de imprensa do filme Quem Vai Ficar com Mário, já que foi virtual e todos os espectadores tiveram que se apresentar junto do veículo no chat. Aproveitei e montei uma lista dessas pessoas. Muitas delas deixarão de existir daqui a pouco, e algumas podem ou não ficar por mais um tempo. A vida é tão frugaz nas redes que nem me darei ao trabalho de coletar links. Esta lista é pura e simplesmente para quando estiver entediado e for buscar se existe algum texto que preste hoje em dia na criticosfera.
+É uma distopia chupinhada da epidemia de COVID feita por um millennial que se diverte colocando referências de um livro que ele leu chamado [1984], mas a trama precisa ser explicada todo tempo em diálogos expositivos e as reviravoltas entretém como um passatempo. Nós nunca adentramos de fato neste universo poetizado que relaciona os disparates dos infectados por um vírus semântico e o grito da liberdade dos revolucionários ou dos que sonham pelo fim dos tempos sombrios. O uso das palavras como a via de transmissão é uma ideia que é aproveitada para contar um pouco sobre a novilíngua, com a proibição de termos arcaicos junto de frases sem sentido. Uma brincadeira inocente em um mundo cinza claro. A Julia e o Wilson da série são réplicas em fisionomia, mas não em alma. Esta é uma versão pobre, enlatada, da distopia orwelliana, mais que [Brazil, o Filme]. Mas não ofende. Apenas precisando suportar as cenas que revelam se tratar de uma criação menor, menos trabalhada, mais preguiçosa. Não chega a ser ruim. Outros millennials devem curtir mais.
 
- - Amanda Santos - Entretetizei
- - Amanda Dominguez - Sobre Filme
- - Amanda Marques - Entretetizei
- - Ana Beatriz Garcia - Jornal da Cidade
- - André Lage - @andre.lage
- - André Zuliani - Notícias da TV
- - Armindo Ferreira - Blog do Armindo
- - Armindo Ferreira - Blog do Armindo
- - Bruna Martins - Feliz com Pouco
- - Bruno Vieira - Cinema LGBT
- - Brígida Rodrigues - Broadway Meme
- - Carol Garrôcho - Gossip Do Dia
- - Carolina Caldas - Vivente Andante
- - Carolina Garrôcho de Faria Melo - Gossip do Dia
- - Daniel Mattoso - Rádio Pop FM
- - Denize Macedo - F5 Cultural
- - Fabricio Duque - Vertentes do Cinema
- - Fernanda Cavalcanti - Vitamina Nerd
- - Gabriel - Reserva Cinéfila
- - Giovanna Landucci - Patch Nerd e Dica da Giovanna
- - Guilherme Moreira - Epipoca (Terra)
- - Helen Ribeiro - Site Seja Cult
- - Henrique Vasco - Vida Pós Créditos
- - Isabella Marques da Silva - Séries em Cena
- - Janaina Tifoski - Quarteto Publicitários
- - Joana Lúcia Cunha da Silva - RevolucionArte
- - José Mario Neto - Balde de Pipoca
- - José Vieira - Jornalismo Júnior
- - João - Cinetics
- - João Bahia - Cinetics
- - Juliana Brito - Coxinha Nerd
- - Júlia Rezende - SuperCinema UP
- - Kainan Henrique - Team Comics
- - Laryssa Silva - Nerds da Galáxia!
- - Luccas de Vasconcelos Callejon - Inside Shows e Jornal Infoleste
- - Luiz Henrique Leão - ArteView
- - Manu Mayrink - Alguém Viu Meus Óculos?
- - Marcelo Pestana - Colunas & Notas
- - Marcio - Bee40tona
- - Mari Frazão - iClaquete
- - Mariana Arrudas - F5 (Folha de São Paulo)
- - Mario - GeekPop
- - Mateus Tifoski - Herdeiro Nerd
- - Matheus Mans - Esquina da Cultura e Filmelier
- - Paula Dell'Isola - A Tribuna
- - Paulo Costa - CINEeCIA
- - Pedro Guerra - Jornal Pioneiro e @oipedroguerra
- - Rafael Carvalho - Observatório G
- - Rafael Lopes - Canal Rafazando
- - Raphaela Souza - O Quarto Nerd
- - Raquel Duarte Garcia - Cinema Para Sempre
- - Renata Vomero - Portal Exibidor
- - Rita Vaz - Tudo Sobre Filme
- - Robhson Abreu - Revista PQN, Jornal de Belô e No Escurinho do Cinema
- - Rodrigo Moura - Canal Sorti
- - Roger Hiago - Sobre Filmes e Séries
- - Samantha Silva - Cine Cinesa
- - Siliane Vieira - Jornal Pioneiro (Caxias do Sul)
- - Stella Gonçalves de Freitas - RedeTV! (Leitura Dinâmica)
- - Suzana Uchôa Itiberê - OQVER Cinema & Streaming
- - Tabatha Oliveira - Estação Nerd
- - Thiago Muniz - @PipocasClub
- - Thuany Maiorali Agostino - @thuanyma
- - VH Simões e Diego Baffi - Cueca para 2 (@cuecapara2)
- - Victor Coimbra - Pipocando
- - Vinícius Teles - DeuClick
- - Viviane França - No Mundo do Cinema e das Letras
- - Wanderley Caloni - CinemAqui
+[1984]: {{< ref 1984 >}}
+[Brazil, o Filme]: {{< ref brazil-o-filme >}}
 

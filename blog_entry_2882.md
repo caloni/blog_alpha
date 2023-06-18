@@ -1,24 +1,45 @@
 ---
-categories:
-- writting
-date: '2014-12-31'
-link: https://www.imdb.com/title/tt2245084
-tags:
-- movies
-title: Operação Big Hero
+categories: []
+date: 2019-04-29 20:03:18-03:00
+tags: null
+title: OpenSSH no Windows
 ---
 
-Essa é uma animação Disney, mas não se engane: embaixo de sua cara inocente e fofinha existe a mancha de mais uma série de personagens da famigerada Marvel, que vem tentando destruir o departamento de criação no Cinema já faz alguns filmes, criando um universo onde sempre que um grupo de amigos se encontram, obviamente é para se transformarem em super-heróis e combater o mal (e/ou vilões que vão pelo lado contrário). Duncan Rouleau e Steven T. Seagle criaram os personagens ainda no gibi, Jordan Roberts, Daniel Gerson e Robert L. Baird assinam o roteiro. Mas os verdadeiros culpados por esse Pixar mutilado são Paul Briggs e Joseph Mateo, que assinam como Head of Story, ou seja, os caras que gerenciam um time de roteiristas para que a história não vire um caos completo. O que aqui, infelizmente, é quase o que vemos em sua metade final.
+O Secure Shell (SSH) é um protocolo de sucesso nos unixes da vida para terminal remoto e seguro por décadas, mas no Windows nunca houve uma forma simples e protegida de abrir um terminal ou copiar arquivos. A opção é instalar um cygwin com esse componente ou tentar compilar um protocolo SSL e em cima dele o SSH. Porém, há detalhes na autenticação que estão relacionadas com o Sistema Operacional e que precisa ser feito. O OpenSSH é uma maneira de compilar tudo isso e ainda funcionar no Windows.
 
-A boa notícia é que o herói do filme é um nerd. Não no sentido atual da moda em que basta gostar da série X, dos livros Y ou usar as camisetas Z que se vira automaticamente um aficionado por qualquer coisa (pop) que exista. O nerd do filme é mais old-style, mas que mantém o aspecto cool ganhando dinheiro apostando em lutas de robôs usando o velho artifício que Paul Newman usava na sinuca em Desafio à Corrupção (1961), o que torna essa introdução uma das mais intelectualmente ambiciosas da Pixar, usando de toda a sutileza que apenas os mais -- claro -- nerds irão capturar. Influenciado pelo igualmente inteligente irmão, Hiro (Ryan Potter) começa a aspirar por algo maior quando um acidente causa uma tragédia irreparável e impensável em um "filme de criança" não fosse essa uma das introduções mais frias da equipe de animadores especialistas em nos fazer chorar.
+O software WinSCP, um client SFTP para Windows, possui [um guia](https://winscp.net/eng/docs/guide_windows_openssh_server) sobre como instalar essa opção no Windows. A partir do Windows Server 2019 e Windows 10 1809 isso não será mais necessário, pois já estará disponível entre as ferramentas opcionais instaláveis do SO (Apps > Apps & features > Manage optional features, "OpenSSH server"). Para os que ainda precisam manter o passado há uma maneira.
 
-Ainda falando do campo das boas ideias em torno de Operação Big Hero, não revelar muito sobre a natureza do robô especialista em cuidados médicos e usar cenas inexistentes no filme nos trailers costuma gerar resultados positivos, e aqui não é diferente. Portanto, se você quiser se sentir melhor a respeito do filme, recomendo ir assisti-lo não sabendo muito sobre ele (dessa forma, se você ainda não assistiu... o que está fazendo aqui?). Cenas engraçadinhas à parte, a lógica por trás do personagem Baymax (Scott Adsit) é fascinante na interação com Hiro, e a forma com que ele se utiliza da criação do irmão de uma maneira cada vez menos convencional é o que torna o desenvolvimento da primeira metade a mais interessante. Isso e a outra ótima ideia de manter um pequeno suspense a respeito da identidade de um suposto vilão.
+Se você preferir não compilar [a partir dos fontes](https://github.com/PowerShell/openssh-portable) você pode baixar um pacote dos [binários](https://github.com/PowerShell/Win32-OpenSSH/releases) pelo GitHub. Basta extrair tudo para uma pasta e rodar o script PowerShell de instalação e o serviço sshd estará instalado no modo manual (se você já usou o cygwin sabe que o nome é o mesmo). O local indicado para conter os arquivos é em `C:\Program Files\OpenSSH`, conforme [o tutorial do WinSCP](https://winscp.net/eng/docs/guide_windows_openssh_server).
 
-Para fechar a rodada de elogios, é preciso fazer uma menção honrosa a uma trilha sonora que é uma ode aos nerds, utilizando música eletrônica mesclada com ritmo de jogos de video-game e que se insere na atmosfera a alterando na medida certa.
+{{< image src="7qdGAFB.png" caption="" >}}
 
-Feito isso, parece que o filme já está com tudo engatilhado para mais cenas de ação, humor e de fazer chorar que irão alavancar ainda mais as boas ideias desse longa. Porém, o que vemos é exatamente o inverso. Se desmoronando lentamente a cada novo acontecimento desde a revelação do vilão misterioso, o filme nos dá tempo demais para pensar, um grave erro se você está tentando surpreender o espectador sobre o que realmente aconteceu no incêndio do início do filme. E um gravíssimo erro se você está confiando na inteligência do espectador desde a sua introdução da história. Da revelação até juntar os pontos e concluir que é impossível que a relação entre os personagens, o incêndio, uma segunda tragédia e a ordem dos eventos faça qualquer sentido independente de como você repensa a trama.
+Após instalado você deve abrir a porta 22 pelo firewall do Windows (há uma maneira PowerShell de fazer se tiver um Windows novo ou usar a interface mesmo se tiver um antigo). Após esse último passo tudo deverá estar funcionando, e basta criar seu par de chaves pública/privada com o `ssh-keygen.exe` e adicionar no servidor com `ssh-add.exe`, além de copiar para um arquivo chamado `authorized_keys`... enfim, está tudo no tutorial.
 
-Porém, pior do que isso é tentar transformar sub-personagens em uma equipe de super-heróis que se une por um motivo em comum, mas que, uma vez que esse motivo não existe mais, continua no mesmo ritmo porque... porque... ora, porque são heróis da Marvel! Quem se importa? Ignora Os Incríveis, um filme de 10 anos atrás da própria Pixar e que é um marco na criação de personagens com super-poderes, apenas para revelar uma trupe tão indiferente à morte que começamos a ficar indiferentes ao filme. E mais uma vez: quem se importa? E, para concluir, querendo pegar carona mais uma vez nas continuações, estraga qualquer possibilidade de fechamento que não ficasse óbvio que aqueles personagens foram criados para uma franquia e não para fecharem um arco dramaticamente satisfatório. E pela última vez: quem se importa?
+Menos a parte de mudar o `sshd_config`.
 
-Oras, quem se importa? Talvez você não devesse começar essa história apresentando um nerd de verdade...
+Como nos informa [um post do Stack Overflow](https://stackoverflow.com/questions/16212816/setting-up-openssh-for-windows-using-public-key-authentication), é preciso comentar no arquivo `c:\programdata\ssh\ssh_config`, próximo do final, essas duas linhas:
+
+```
+Match Group administrators
+       AuthorizedKeysFile __PROGRAMDATA__/ssh/administrators_authorized_keys
+```
+
+Para isso:
+
+```
+#Match Group administrators
+#       AuthorizedKeysFile __PROGRAMDATA__/ssh/administrators_authorized_keys
+```
+
+Aí, sim. Reiniciar, o serviço e testar a conexão:
+
+```
+ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no domain\user@host
+```
+
+Os programas `ssh.exe` (shell remoto) e `scp.exe` (cópia remota de arquivos) também estão disponíveis no pacote OpenSSH, mas a versão do Cygwin ou até do Git (que vem com um pacote de ferramentas básicas de Linux) funcionam.
+
+#### Serviço de cópia remota de arquivos
+
+Se seu objetivo é realizar backups remotos silenciosos e para isso você instalar um serviço que irá executar o `scp.exe` de tempos em tempos é preciso tomar cuidado com as credenciais usadas e onde estarão as chaves de criptografia. O padrão usado pelo OpenSSH no Windows é na pasta `C:\Users\Usuário\.ssh`, mas para um processo na conta de sistema esse valor deve ser diferente. No caso de um terminal executando pelo `psexec.exe` ele ficou apontando para `c:\windows\system32\.ssh`, mas para serviços rodando como `SYSTEM` é capaz que seja outro valor. Enfim, é necessário testar e verificar os resultados dos testes.
 

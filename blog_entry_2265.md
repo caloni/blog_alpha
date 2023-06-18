@@ -1,26 +1,22 @@
 ---
 categories:
 - writting
-date: '2011-12-20'
-link: https://www.imdb.com/title/tt0133093
+date: '2018-12-07'
+link: https://www.imdb.com/title/tt0117008
 tags:
 - movies
-title: Matrix
+title: Matilda
 ---
 
-Animes, quadrinhos, Kung-Fu, filosofia, tecnologia: Que filme conseguiria compor, de forma inquestionável, esses universos tão grandiosos quanto diferentes entre si?
+Matilda passa na regra dos 15 anos. Se trata de um filme infantil, com premissas infantis, enxergadas do ponto de vista de uma criança. Mas, perdoem os maniqueísmos, é uma louvável lição sobre como quando as coisas certas acontecem nos ambiente errados.
 
-Dirigido pelos Irmãos Wachowski (V de Vingança, [Speed Racer]), o filme contém uma história com elementos nada criativos, mas que possuem algo em comum: faziam parte do universo da época (fazem?), onde computadores e internet começavam a dominar o mundo, e a diferença entre mundo real e mundo virtual começava a aparecer na vida das pessoas.
+Em primeiro lugar a história exalta a inteligência, livre espírito e iniciativa de Matilda, que no sorriso peralta e ao mesmo tempo honesto de Mara Wilson vira uma base moral para toda a história, recheada de adultos que, alheios à vida virtuosa e engrandecedora, simplesmente não entendem. Pior: tentam a todo momento esmagar a individualidade dos pequeninos no filme.
 
-Se fosse exibido hoje (2011) ainda seria visto como a identificação da nossa era. Já conhecido e aglutinado ao universo de onde as ideias vieram, hoje é visto como um clássico, uma visão que estava à frente do seu tempo, e nos acompanhou até hoje. Seria uma nostalgia dos tempos ainda ingênuos, quando ainda estávamos engatinhando no conceito de vida virtual.
+O roteiro de Nicholas Kazan e Robin Swicord abraça completamente o ponto de vista infantil e cria uma fábula bem-intencionada. Torcemos obviamente pelo sucesso de Matilda, pois ela é o bem absoluto no filme. Ela e sua adorável professora. Mas não queremos o mal de seus pais ou da implacável diretora da escola (nas mãos da possuída Pam Ferris). Por quê? Oras, eles simplesmente não entendem. Vivem suas vidas auto-centradas de adultos, em seu mundinho minúsculo e mesquinho. Isso revela grande parte da humanidade hoje em dia. Matilda é a heroína da história porque ela se recusa a participar do circo animalesco que os humanos fazem com suas vidas.
 
-E se parece exagero, uma prova maior de sua influência são as referências internas do filme, que tentam homenagear os universos de onde foi inspirado, e que acabam por fim referenciando o próprio universo criado, misturando-se com a evolução dos mundos onde foi inspirado.
+Este é um filme colorido, com magia, mas acima de tudo, com coração. Ele não se entrega à dura realidade onde mágica não existe, mas tampouco nos diz que isso não é possível e que é apenas uma fábula. É uma metáfora do poder que nosso cérebro possui quando ganha conexões, muitas conexões, sobre o infinito mundo lá fora. A frase mais linda do filme é quando o narrador afirma que Matilda, tendo lido grandes livros de aventuras de diferentes e consagrados autores, descobre que não está sozinha neste mundo.
 
-Na época do lançamento nada se sabia, nem se cogitava sobre o enredo. Algum tempo depois, podia-se ouvir burburinhos reverenciando a obra como tão cult quanto Blade Runner foi em seu tempo. Hoje esse burburinho é fato, e não há muitas controvérsias quando analisamos uma obra de arte que se identifica tanto com sua era, com seu momento.
+Os efeitos estão passados, mas a direção de arte não. E a própria direção de Danny DeVito, que participa como o pai de Matilda e vendedor canastrão de carros usados, usa com perfeição os enquadramentos grandiosos dos cenários que são usados para ilustrar este livro infantil em forma de filme. Tudo funciona no universo de Matilda, exceto talvez a tensão, que é aliviada por muitas palmadas nas costas dos oprimidos.
 
-Antigamente, a fotografia verde representava dentro da matrix, enquanto azul representada o lado de fora: o mundo real. Note os elementos verdes predominantes em cada cena (batente de portas, gravatas, detalhes específicos para tornar a coloração mais esverdeada) ou azul, no caso do mundo real (vestimentas da tripulação, maquinário, luzes azuis). Se digo antigamente, é porque, tal como Traffic ganhou maturidade em 21 Gramas, com as histórias paralelas sendo representadas, por fim, em uma só cor, dado que o público evoluiu em seus conceitos de narrativa cinematografia, também podemos dizer o mesmo dos mundos real x virtual, onde já não se diferencia mais onde estamos, tamanha a conexão crescente com a rede mundial, com celulares, smartphones e gadgets em geral que possibilitam a uma pessoa estar em vários lugares ao mesmo tempo (virtuais ou não).
-
-Cada vez que entramos a fundo, hoje, na análise de Matrix, são tantas as analogias nas telas com o mundo real (e virtual) que chega a ser uma paródia ou referência do mesmo universo que homenageia. A forma como é demonstrado como o conhecimento instantâneo é adquirido pelo cérebro para o uso prático no mundo virtual, ou a forma como são carregados novos programas, de maneira instantânea.
-
-[Speed Racer]: {{< relref "speed-racer" >}}
+De qualquer forma, se você está com seu espírito um pouco desanimado, pensando talvez que não valha a pena o auto-crescimento, se veja com novos olhos, os olhos mais mágicos que existem em nossa humanidade: os que têm a visão de uma criança após abrir seu primeiro livro. E sua mente, que se expande e que nunca mais se contrai.
 

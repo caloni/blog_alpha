@@ -1,21 +1,24 @@
 ---
 categories:
 - writting
-date: '2013-08-02'
-link: https://www.imdb.com/title/tt0080120
+date: '2016-08-08'
+link: https://www.imdb.com/title/tt0803096
 tags:
 - movies
-title: Os Selvagens da Noite
+title: 'Warcraft: O Primeiro Encontro de Dois Mundos'
 ---
 
-Filmado claramente como um filme de batalhas do Império Romano, a la [Spartacus], Ben-Hur e tantos outros, nossa visão é forçada a enxergar aquelas gangues de rua como exércitos a defender seu território, o que é fascinante por si só, pois embute em nossa mente o mesmo perigo de morte que exércitos "tradicionais" teriam em zona inimiga.
+Warcraft consegue manter o tema de estratégia de guerra do jogo viva no filme; de quebra, exibe um dos melhores efeitos visuais do ano. Não aquele que impressiona por impressionar, mas o que está a serviço da narrativa. E com uma história para contar, ainda consegue estar à altura dos melhores trabalhos da produtora desse e outros games. A Blizzard, pelo jeito, não se cansa de impressionar.
 
-O uso dos diálogos remetem a este universo, como quando o assunto é sobre diplomacia, e os ângulos engrandecem seus personagens; os atores foram escolhidos a dedo pelo seu físico e feições de rosto que facilitam sua identificação: o líder, o valente, o fraco, o estratégico, o bobão. Até personagens menores, como um policial, possui um rosto que remete tanto à sua brutalidade quanto à sua falta de arbítrio, se comportando como um homem a serviço da lei e que não pensa suas ações. Porém, tudo isso é construído através da lógica visual dos atores, e é a grande vantagem do Cinema comparado com o Teatro, vantagem essa defendida por teóricos lá no nascimento da sétima arte, dizendo que não é só a atuação que conta, mas o tipo físico que cria a persona. A trilha sonora, ou escolha de músicas, é um trabalho à parte, preocupada com o ritmo de cada cena, o que remete ao trabalho conjunto de uma montagem que consegue acelerar e desacelerar de forma extremamente elegante.
+Baseado em um video-game de RTS (Real Time Strategy, ou Estratéga de Tempo Real), que mais tarde se tornou um RPG consagrado, a história gira em torno dos detalhes de jogabilidade, como o uso da magia em ambas as raças, o poder guerreiro dos orcs, além de seu respeito incondicional às suas tradições, e a habilidade na política dos seres humanos.
 
-Mas repare que não é um filme de interpretações, embora os rostos, as expressões e até o tom de voz colabora com a criação de personas quase estereotipadas, mas que em conjunto funcionam, que é o que importa. Até o despretensioso vilão, sinônimo do mal encarnado, se torna um ícone e protagoniza a cena que imortalizou o filme no mundo pop e cinematográfico. "Warriors, come out to play" é usado ad infinitum por inúmeros filmes, até filmes menores como [Strippers Zumbi].
+Mas eu disse duas raças? Warcraft no filme de estreia já ensaia abrir uma franquia que possui um potencial interessante. O mundo dos humanos é pacífico, e lá habitam diferentes raças em harmonia. Há um quê de Senhor do Aneis em muitos momentos.
 
-E mesmo com tantos estereótipos e o mergulho no épico a questão social daqueles meninos (e menina) é levantada de forma orgânica e que nos faz questionar, como os próprios garotos fazem, se o destino final deles vale tanto a pena.
+No entanto, o foco desse filme é mesmo a batalha entre humanos e orcs. Tendo seu mundo destruído, os orcs realizam uma "migração" graças ao uso de uma magia maligna, que suga a energia das pessoas -- de qualquer raça -- e produz um mana verde que permite abrir um portal entre dois mundos.
 
-[Spartacus]: {{< relref "spartacus" >}}
-[Strippers Zumbi]: {{< relref "as-strippers-zumbi" >}}
+Há diferentes personagens de ambos os lados que lembram peças em um jogo de xadrez. O roteiro de Charles Leavitt e Duncan Jones (do ótimo Lunar) está a todo momento sugerindo nosso desconhecimento do que essas criaturas poderão ou não fazer, e qual sua função na batalha iminente. Ninguém no elenco se sobressai em particular, mas ninguém estraga a festa (com exceção de uma inexpressiva Ruth Negga como Rainha Taria, que felizmente tem pouquíssimo tempo de tela). A interação homem/orc é sempre interessante, e o roteiro acertadamente escolhe apostar mais nos diálogos do que em batalhas frenéticas.
+
+Isso permite duas coisas. Primeiro observar a fabulosa direção de arte, que consegue transformar um universo criado para um jogo em algo mágico, mas ao mesmo tempo realista, evocando a grandeza do império humano e a sociedade tribal dos orcs. Mais do que isso, porém, é ficar a todo momento percebendo os inúmeros detalhes do rosto dos orcs, que consegue expressar um rosto humano na cara de um monstro, e soar perfeitamente crível a todo momento (diferente de um pássaro gigante voador, que oscila entre o muito bom e a falta de cuidado da computação em torná-lo muito destacado do ordinário).
+
+Mais do que uma historinha para justificar uma batalha épica, Warcraft é a (re)criação de um universo que já tinha sido feito com total esmero pelos seus idealizadores originais. Usando uma metáfora eficiente para a magia que suga a vida das pessoas (vulgo Estado), as diferentes formas de interpretar a história já valeria a pena até uma revisita. E isso apenas pela história, quando estamos falando de um espetáculo visual.
 

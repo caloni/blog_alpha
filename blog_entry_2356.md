@@ -1,20 +1,33 @@
 ---
 categories:
-- writting
-date: '2017-04-18'
-link: https://www.imdb.com/title/tt3810760
+- playing
+date: '2023-03-04'
+link: https://www.chess.com/game/live/71688416247
 tags:
-- movies
-title: 'Minimalism: A Documentary About the Important Things'
+- english
+- chess
+title: Miniature with hidden tactic
 ---
 
-Este é um documentário bem convencional que acompanha dois amigos que descobrem que para ser feliz menos é mais. Estamos falando essencialmente de consumismo desenfreado. Em resumo: o modo americano de viver.
+White move and gain advantage.
 
-Em um mundo onde o sonho é ter um salário que te permita ter mais coisas com menos tempo, esses dois amigos perceberam que suas escaladas na vida corporativa não estavam gerando a felicidade esperada. Foi quando decidiram adotar uma forma de vida minimalista, com menos peças de roupa, uma casa menor e menos coisas inúteis guardadas nela. Descobrem a fórmula para ser feliz e saem pelo país pregando a palavra.
+{{< image src="board.png" >}}
 
-Durante sua escalada em palestras que vão de duas pessoas a centenas, e de programas de rádios locais para "broadcasts" para milhões, acompanhamos opiniões de diferentes autores e especialistas em formas de simplificar a vida, além de uma análise econômica riponga que discursa sobre vida em comunidade, igualdade e essas besteiras. Ao mesmo tempo vemos cenas grotescas da Black Friday e empilhadeiras ajuntando pilhas de coisas jogadas fora pelas pessoas.
+```
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.03.04"]
+[White "cavaloni"]
+[Black "perajurit"]
 
-A direção consegue dar uma ideia da escalada no alcance dos dois amigos às pessoas que querem influenciar, mas falha miseravelmente em tentar diferenciar as diferentes famílias que mudaram de vida graças a eles. São pessoas geralmente de classe média alta, aparentemente perdidas por terem tanto e não saberem lidar com seus sucessos. É uma visão distorcida que apenas o autor de Zen Habits consegue expor de forma mais descomplicada, leve e bem-humorada.
-
-"Minimalism" é um documentário que possui coisas de menos para nos convencer, mas foque-se na mensagem e não precisará de um documentário inteiro para te convencer: não seja como aqueles casos de pessoas brigando na Black Friday. Menos é mais.
+1. Nf3 e6 2. e4 h6 3. d4 a6 4. Nc3 b5 5. a3 c5 6. Be3 {Three pieces already
+developed and the adversary has none.} 6... cxd4 7. Nxd4 Bb7 8. f3 Nf6 9. Bd3
+Bc5 {There is a tactic here attacking the queen with the knight and the bishop.}
+10. O-O (10. Nxe6 fxe6 (10... dxe6 11. Bxc5) 11. Bxc5) 10... Nc6 {Now I am in
+trouble to defend the knight.} 11. Nce2 Nxd4 12. Nxd4 O-O 13. Qd2 Bxd4 14. Bxd4
+d5 {This allows me to e5 and I gain a lot of space to attack.} 15. e5 Nh7 16.
+Qf4 g5 {Creating permanent holes.} 17. Qg4 f5 18. exf6 Nxf6 19. Qh3 {Didn't see
+Qe6#} 19... Kg7 20. Qxe6 {f4 would be stronger, but the adversary resigned
+anyway} 1-0
+```
 

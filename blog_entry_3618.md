@@ -1,21 +1,17 @@
 ---
-categories:
-- writting
-date: '2019-12-26'
-link: https://www.imdb.com/title/tt7808344
-tags:
-- animes
-- series
-title: 'Teasing Master: Takagi-san'
+categories: []
+date: '2014-08-11'
+tags: null
+title: 'TDC2014: Trilhas de Segurança: o que é ser hacker?'
 ---
 
-É muito fácil não gostar dessa série por causa dela não explorar um tema que você goste e esteja na sua zona de conforto, e muito difícil deixar de gostar depois que você entende seu tema pueril. Ela é um respiro de ar livre de tensões fictícias, heróis e vilões, explosões e o salvamento do mundo, ou até como lidar com um poder inusitado. É apenas a história de um menino e uma menina pré-adolescentes. Eles sentam um ao lado do outro na escola e ela o provoca de maneira inteligente, como mulheres costumam agir, e ele encara as provocações como uma competição, como homens parecem encarar toda sua vida.
+Tirando a palestra-propaganda de Welington Strutz, a trilha de segurança no TDC desse ano foi bem heterogênea e focou tanto na proteção quanto nos ataques possíveis da web. Infelizmente, para alguns participantes, a grande questão de hacking se resume a apenas invasão de saites, o que nem era de longe o intuito da rotulação "hacker" no início dos famosos ratos de computador, em um ambiente com pouca RAM, nenhuma Web e onde o poder de processamento mais pesado rodava nas mentes criativas desses pequenos gênios da informática.
 
-A maturidade da série em explorar esta lúdica situação eternamente é uma das melhores coisas que surgiu na Netflix em anos. É simples, mas não simples demais; apenas o suficiente. A complexidade das relações homem/mulher emergem naturalmente, em traços tão significativos que não requer muitos diálogos, e nunca falas que expõem o que está realmente acontecendo, e por que existe essa tensão entre eles.
+Mais para a frente, o conceito/definição de hackativismo foi virando algo cada vez mais genérico, e criou-se a cultura de ser possível ser hacker em qualquer nível de conhecimento humano. Essa é a definição que eu mais gosto e apoio, tanto por agregar o poder do hacking para toda a humanidade (seja você um burocrata, um trabalhador braçal, um designer de foguetes, um acadêmico, ...) quanto por não situar suas ações em um nível moral, algo completamente desnecessário e que só se tornou uma questão relevante por conta da mídia sensacionalista e as mentes mais conservadoras fazer-nos acreditar que estamos correndo um risco em deixar a internet nas mãos de pessoas altamente capacitadas, mas que não compartilham das suas crenças e valores.
 
-É quase imperativo que seja assim, pois se tratam de crianças, mas é na maneira ingênua que é possível entender melhor como agem os homens e mulheres depois de adultos, além de nos lembrarmos como agíamos nessa idade, e entender que pouca coisa mudou, pelo menos para a maioria.
+Mesmo se focarmos apenas em computadores, engenharia reversa (de hardware e software), gambiarras de hardware e software conseguem fazer muito mais pela evolução tecnológica do que esse jogo de gato e rato de vulnerabilidades e ferramentas mágicas.
 
-Que homens são imaturos por natureza não é novidade, mas o frescor com que a série apresenta a contraparte desse fato, através de uma menina adorável que contraria as regras orientais de etiqueta para seu gênero, que deve ser tímida por obrigação, é um dos pontos fortes. Pode não parecer para nós, ocidentais, mas esta menina de 12, 13 anos está desafiando o status quo dos papéis da sociedade japonesa.
+Porém, é necessária a existência de pessoas interessadas em atacar para que se crie a necessidade de se proteger. Dessa forma é que foram criados os X-Headers explicados por William Costa, os sistema de geração de números verdadeiramente aleatórios para se proteger de trapaceiros em um jogo de pôquer (minha palestra). Foi com o mesmo raciocínio que hoje existem valiosos insights sobre arquiteturas mais robustas discutidas por Rafael Lachi. É tendo curiosidade que encontramos falhas graves nos aplicativos mobile de hoje, como foi demonstrado tanto por Rafael Tosetto Pimentel quanto por Ivan Jeukens. E, não podemos nos esquecer, é essa nova geração do Antonio Costa que procura por brechas ridículas no login de diversos saites, forçando o mercado a se ajustar às melhores práticas.
 
-Os colegas de classe complementam a série, servindo como estereótipos em situações conhecidas por todos espectadores. O ritmo é lento e contemplativo, e por isso mesmo valioso. Cada segundo de não-ação contribui para aproximarmos nossos próprios pensamentos em situações lúdicas que se disfarçam de infantilidade para os que ainda não perceberam que adultos são crianças crescidas, mas ainda assim eternas crianças.
+De uma forma ou de outra, segurança deve se tornar um pensamento constante na vida dos programadores, ainda mais web e mobile. Essa não é uma tendência, essa deveria ser uma necessidade básica do dia-a-dia.
 

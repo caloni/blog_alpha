@@ -1,18 +1,18 @@
 ---
 categories:
 - writting
-date: '2015-12-27'
-link: https://www.imdb.com/title/tt2361509
+date: '2018-11-17'
+link: https://www.imdb.com/title/tt5895782
 tags:
 - movies
-title: Um Senhor Estagiário
+title: Um Segredo em Paris
 ---
 
-Nancy Meyers (Presente de Grego, O Amor Não Tira Férias) é uma fofa para criar personagens carismáticos e em geral escolher os atores do momento para o papel. Robert de Niro e Anne Hathaway são escolhas óbvias. Hathaway ganhou o Oscar ano passado por chorar e cantar em Os Miseráveis (o que não quer dizer que automaticamente ela vire uma atriz de destaque) e de Niro voltou à ativa em O Lado Bom da Vida três anos atrás. Como a fundadora de uma startup de sucesso e um estagiário da terceira idade em um programa novo da empresa ambos saem perfeitos. Meyers sabe disso, crédito para ela.
+A diretora Élise Girard parece se pronunciar apenas quando é necessário. Nesse seu segundo longa de ficção ela nos apresenta Mavie e Georges como um casal impossível pela diferença de idades, que conta duas gerações, e ao mesmo tempo tece a criação de um romance nas entrelinhas escritas pela jovem Mavie e nos momentos capturados pela sua memória. Para Mavie o que importa são as sensações.
 
-Porém, além de produzir, aqui ela dirige e escreve o roteiro, e convenhamos, seu estilo de capturar os temas do momento -- feminismo, tecnologia, casamentos desmoronando -- e transformar em um filme longo demais sobre relacionamentos de pessoas obcecadas pelo trabalho como conjunto não funciona tão bem. No roteiro há cenas (o "sequestro" do computador da mãe para apagar um email) e manipulações (soar o alarme do hotel apenas para...) em excesso, tornando a experiência inchada e episódica. Na direção todo o momento a câmera sobe e desce, querendo mostrar as lindas paisagens de Nova York a esmo, parecendo fingir que o filme está acabando, quando na verdade estamos no final de mais um episódio nessa novela embalada em filme.
+Isso é o mais interessante no filme minimalista que se segue, pois o velho Georges, interpretado pelo velho de guerra no cinema Jean Sorel ("A Bela da Tarde"), que cuida de uma livraria que não recebe clientes, possui um passado misterioso que é justamente o que faz com que Mavie se apaixone perdidamente por ele.
 
-O que é uma pena, pois a trama central -- alguém muito mais velho participar do processo de consolidação de uma empresa que acabou de nascer -- é tocante e com potencial. Potencial esse aproveitado pelos atores principais, mas não pelos diálogos que eles proferem. É irritante como quase nada que sai da boca deles é factível o suficiente para enxergá-los como seres de carne e osso, parecendo sempre mais um clichê de auto-ajuda que tenta filosofar a respeito do momento (como se as pessoas realmente falassem assim na vida real).
+Os longos passeios de carro e os longos momentos de silêncio entre os dois é a versão francesa de "Encontros e Desencontros" que Girard nos entrega e nos remete, criando em cima desse leve tecido a contemporaneidade dos problemas modernos, como o mal estar súbido de gaivotas que começam a cair nas ruas de Paris, ou as manifestações de jovens contra o uso da energia nuclear. É do paralelo entre o velho Georges e suas velhas ideias e o jovem Roman e seu conveniente engajamento que "Um Segredo em Paris" mais se perde na mesmice.
 
-Um Senhor Estagiário, portanto, se mostra uma experiência mista. É bom ver de Niro e Hathaway contracenarem com personagens adoráveis em situações que os envolvem tão profundamente. É frustrante vê-los desperdiçados em um roteiro e direção que pretende enxergá-los como objetos manipulativos até em um brand integration quase inteligente do Uber, que acerta o filme onde colocá-lo, mas ainda soa descaradamente uma propaganda (não tão embaraçosa quanto 007 tomando Heineken, mas ainda uma propaganda).
+Por isso sua primeira metade é a mais forte, pois é a que estabelece a conexão improvável entre essas duas gerações, que se sacrificam e mantém a relação assexuada, mas cheia de fascínio um pelo outro, mesmo vindo de planetas distintos. Uma brevíssima janela de ficção que se monta em quadros estáticos e simples enquadramentos. Uma pequena peça cinematográfica para as tardes quentes da primavera.
 

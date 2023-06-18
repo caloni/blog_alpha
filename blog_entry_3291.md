@@ -1,32 +1,29 @@
 ---
 categories:
-- writting
-date: '2017-10-21'
-link: https://www.imdb.com/title/tt2861424
+- playing
+date: '2023-06-05'
+link: null
 tags:
-- series
-title: 'A Filosofia de Rick And Morty: Primeira Temporada (anotações)'
+- chess
+title: Reviravolta mantendo a tensão
 ---
 
-Reassistindo a Primeira Temporada de Rick & Morty para revisar alguns pontos filosóficos fascinantes da série. Acabei vendo a Segunda Temporada e, como já acabou, a Terceira também. E a terceira é provavelmente a melhor de todas. Vejam! Eu sou Pickle Rick!!
+{{< image src="board.gif" >}}
 
- - S01E01 Rick comenta no piloto que eles não sabem o que é mais importante. Precisa de uma semente para ficar mais inteligente para fazer mais ciência. Isso meio que planta a semente da dúvida se Rick é absurdista, niilista ou simplesmente um cientista fanático.
+```
+[Event "Live Chess - chess"]
+[Site "Chess.com"]
+[Date "2023.06.02"]
+[White "cavaloni"]
+[Black "Finnspencer03"]
 
- - S01E02 Episódio sobre cachorro inteligente levanta a questão de não ser errado desligar uma consciência que foi adquirida por outro ser (que poderia ser uma máquina). Também brinca com o conceito de A Origem e Fred Krueger (uma versão segura de um filme dos anos 80). E seus medos são os de um adolescente.
-
- - S01E03 Episódio de natal é um Papai-Noel mendigo que bebeu demais. Dentro dele há um parque de anatomia, fala sob os desejos do Morty de catar a minazinha e um subplot que brinca com besteiras como auto-sacrifício. A melhor parte é sobre o espírito de natal quando Jerry descobre que o negro amigo de seus pais é amante de sua mãe, ou que sua filha tem um namorado. A explosão do papai-noel gigante em pedaços e a chuva de sangue é uma metáfora para o corpo/sangue de Cristo sendo compartilhado entre os cristãos, e como ninguém liga para os que precisam de ajuda.
-
- - S01E04 Episódio sobre simulações consegue ao mesmo tempo levantar a questão se eventos significativos de nossa vida continuariam assim se soubéssemos que estamos em uma simulação (Jerry novamente), e ainda tem a questão de como uma raça avançada ainda tem vergonha da nudez (alegoria dos estúpidos americanos?).
-
- - S01E05 Morty tem sua aventura como principal e vai na terra de gigantes. Lá descobre que uma aventura não tem muito sentido por ela mesma, e é traumatizado ao tentar ser estuprado (Thelma e Louise?). Já na terra os meeseeks precisam atender os desejos de um ser medíocre como Jerry, o que os leva à loucura completa. Como meeseks têm sua existência curta definida em atender um desejo e sumir, vem a mesma questão das vacas em Mochileiro das Galáxias. Rick aprende que é a postura diante dos eventos do mundo o que o torna melhor. Ele acena no final do desenho para nós, piscando sua existência.
-
- - S01E06 Múltiplos universos, Rick and Morty vão para um onde tudo foi consertado e eles morreram ao mesmo tempo. O nosso desejo por reprodução aparentemente está abaixo do super-homem que Rick decidiu ser quando aceitou o absurdo da realidade que vive. Referência a Cronenberg.
-
- - S01E07 Feminismo com piadas sobre mulheres no episódio em que eles vão para um planeta dominado por mulheres. Os homens são os seres mais violentos do universo e por isso elas criam um robô sexual para reprodução. Engraçado que Morty fica fascinado pela mulher-robô.
-
- - S01E08 O episódio sobre as diferentes alternativas a realidade coloca em xeque o significado de nossas vidas (como há na série infinitos universos e Rick & Morty originais morreram nessa versão, torna tudo mais real). Há uma baboseira sobre escolhas que fazemos (aborto) que podem ter alterado nossa percepção no futuro se era o que gostaríamos de fazer. O fato é que não vivenciar nossas infinitas possibilidades nos protege do arrependimento quando mais velhos. E como nada faz sentido em múltiplas realidades, por que não se divertir assistindo múltiplos universos?
-
- - S01E09 Episódio sobre Pluto (Plutocracia), onde os ricos drenam minério do planeta (que não é mais planeta) e ameaçam a vida de 4 bilhões de pessoas. Enquanto isso, Rick ameaça o negócio do Diabo em pessoa com ciência, desfazendo as maldições que ele coloca em cada peça de sua loja. Rick demonstra que se entedia facilmente.
-
- - S01E11 Últimos episódio da temporada é uma festa sem consequências. Isso porque quando vc pode parar o tempo nada importa.
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. c3 dxc3 6. Bxf7+ Kxf7 7. Qd5+ Ke8
+8. Qxc5 Nf6 9. Nxc3 d6 10. Qg5 Qe7 11. O-O Be6 12. Re1 Kd7 13. Nd5 Nxd5 14. Qd2
+Nf6 15. e5 Nd5 16. Nd4 Nxd4 17. Qxd4 dxe5 18. Rxe5 c6 19. Bg5 Qd6 20. Bf4 Nxf4
+21. Qxf4 Kc7 22. Rae1 Rhf8 23. Qg5 Rae8 24. Qxg7+ Kb8 25. Qg3 Kc7 26. Qg7+ Rf7
+27. Qg3 Bxa2 28. Rxe8 Bc4 29. R8e3 Qxg3 30. hxg3 Rd7 31. Re7 Rxe7 32. Rxe7+ Kd6
+33. Rxh7 Kc5 34. Rxb7 a5 35. Ra7 Kb4 36. f4 a4 37. f5 Kb3 38. Rb7+ Ka2 39. Rb6
+c5 40. f6 Ka1 41. Kf2 Ka2 42. g4 a3 43. bxa3 Kxa3 44. g5 Ka4 45. g6 Ka5 46. Rb8
+Ba6 47. f7 Bb7 48. Rxb7 c4 49. f8=Q c3 50. Qa3# 1-0
+```
 

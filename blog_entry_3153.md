@@ -1,16 +1,18 @@
 ---
 categories:
 - writting
-date: '2020-05-13'
-link: https://www.imdb.com/title/tt1578707
+date: '2014-05-02'
+link: https://www.imdb.com/title/tt0092605
 tags:
 - movies
-title: Pretérito Perfeito
+title: Presente de Grego
 ---
 
-Filme de diretor millennial sobre puteiro carioca icônico, visto por ele como peça de museu. Um local "cultural". Gustavo Pizzi não sabe de nada da vida e não consegue sequer boas tomadas, boa edição e muito menos uma história. Ele consegue alguns frequentadores antigos para dar seu depoimento, mas não aproveita o tempo deles para contar algo que preste. É um documentário feito para TV, ou seja, para ninguém que esteja prestando atenção.
+Curioso como Rachel McAdams em Uma Manhã Gloriosa é a mulher "trabalhadeira" moderna e esse não é o grande tema deste filme de 2010. Quer dizer, não tanto um tema central e impactante quanto Diane Keaton 27 anos atrás em Presente de Grego. Neste filme de Charles Shyer (O Pai da Noiva) a executiva de sucesso precisa escolher entre dar atenção a suas contas milionárias da empresa onde trabalha ou a um bebê que "herdou" de primos distantes. É a dicotomia "mulher no trabalho" surgindo naquela época com todos os clichês da criança fofinha em um ambiente sério de senhores engravatados.
 
-Desses projetos encomendados para desviar verba pública em prol de estudantes de artes que usam a câmera como vídeo-clipe caseiro, a edição, também de Pizzi, é cheia de efeitos de distorção, que combinam com uma trilha incidental apagada, desprovida de qualquer personalidade, para disfarçar a péssima qualidade da captação de luz noturna. O filme em si, a "película", ficou horrível. Sem história nem técnica muito menos estilo, é surpreendente que tenham levado adiante na pós-produção e lançado como um DVD. Até o título do filme é pretensioso e vago ao mesmo tempo. Um exemplo de tudo que pode dar errado no cinema quando o dinheiro vem fácil. Nesse caso pelo menos deve ter saído barato.
+Obviamente esse ambiente não existe mais, e um filme que trate o tema de forma tão descarada soa datado. Porém, não é o caso de jogá-lo fora. Há uma ótima história aqui que entoa um eco significativo nas mais diferentes casas onde vive um casal, ambos trabalham, que costuma discutir como será a vida a três, ou se ter um filho é um caminho viável nos dias de hoje.
 
-Os entrevistados, muito mais velhos e experientes que o cineasta, dominam a situação o tempo todo. É vergonha alheia assistir um documentarista sem a mínima ideia do trabalho que ele conduz. Qual o objetivo do filme? Até onde pode-se tentar deduzir, bosta nenhuma. É isso o que acontece quando a mesma ideia sem reflexão é martelada na cabeça dos jovens: cultura é importante. Mas o que é cultura? Isso ninguém sabe responder, ou a resposta é: dar dinheiro de todos para reformar e manter um prédio que foi um histórico puteiro de políticos e marinheiros do Rio de Janeiro nas décadas de 30 a 90.
+A primeira metade da história é intensa, se passa em Nova York, e tem como pano de fundo a rotina extasiante de Keaton tentando ser mãe e profissional de destaque. A segunda metade faz uma quebra de ritmo que prejudica um pouco o resultado final, mas que tem todo o sentido, já que agora a vida é no campo e com outras prioridades (como fazer papinha de neném). No entanto, estamos falando da mesma pessoa, e é isso que faz o núcleo da narrativa ser tão coeso e tão primoroso em seus detalhes. Embora não seja tão engraçado quando tente, o humor de situação é mais filosófico do que a maioria das comédias despretensiosas de hoje em dia.
+
+Será que não temos mais tantos conflitos existencialistas como antes, quando tentar ser algo de valor para para si envolvia passar por cima de valores seculares de uma sociedade patriarcal e ultrapassada em tantos sentidos?
 

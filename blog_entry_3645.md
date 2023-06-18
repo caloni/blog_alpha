@@ -1,22 +1,22 @@
 ---
 categories:
 - writting
-date: '2015-09-19'
-link: https://www.imdb.com/title/tt3613454
+date: '2020-04-15'
+link: https://www.imdb.com/title/tt10686814
 tags:
 - series
-title: Terror in Resonance
+title: Terrace House
 ---
 
-Esse aparentemente é um seriado de uma temporada apenas, com cada um de seus onze episódios com cerca de 20 minutos ou menos, dando no final das contas um filme de pouco mais de três horas com os famigerados cortes e padrões de mídia japonesa.
+Como o fato dos participantes saberem que se trata de um programa televisionado faz com que a verdade saia pelas beiradas, revelando como personagens são criados e mantidos em rede mundial. A maior crítica que se pode fazer de um reality show é que a parte "reality" nunca consegue se sobrepor ao "show". Se a própria vida já é um show, em que todos estamos apresentando e cuidando de nossos egos quando em público, o que dirá com dezenas de câmeras apontadas para você, interagindo com pessoas que nunca viu na vida.
 
-Ambientado no Japão atual, conta a história de dois jovens terroristas, a perseguição das autoridades japonesas e uma influência norte-americana inesperada (embora todos esperassem por isso quando se trata de terrorismo).
+A série japonesa se destaca das demais por não possuir muito controle sobre o desenrolar da história, da entrada e saída dos convidados e das tramas românticas e da vida. Nesse sentido é uma das séries que mais tenta se aproximar da vida, se esquecermos que na vida real não podemos nos dar ao luxo de viver em mansões como as que vemos no programa (talvez dividindo entre seis pessoas...).
 
-O bom em Terror in Resonance, ainda que soe clichê, são os traços e detalhes realistas, principalmente nos movimentos e na própria história (o YouTube é replicado com exatidão, assim como serviços comuns da internet do nosso tempo). O realismo consegue deixar uma ótima impressão na maior parte do tempo, lembrando a sobriedade com que seriados mais ambiciosos como Breaking Bad tratavam a passagem do tempo. 
+A análise que é feita pelos anfitriões também é um ponto positivo, pois assim como textos e vídeos nos ajudam a raciocinar quando trazem à tona o óbvio que estava em nossas mentes. Quando eles comentam o que acabamos de ver é como se nossa percepção fosse organizada e verbalizada sem a nossa ajuda. Deixe isso para os especialistas em relacionamento. Ou entretenimento.
 
-Talvez alguns não gostem dos personagens destacados do cenário pela paleta de cores, mas isso quase nunca acontece, e quando acontece, tem um motivo interessante: mostrar como esses personagens estão deslocados do mundo normal, das pessoas vivendo duas vidas. Há algo de incomum nos "heróis" e "vilões" de "Terror...", sejam os garotos, a garota que não se dá com a mãe, a garota-surpresa e, é claro, o detetive que tem um passado que se arrepende.
+Mas a grande questão filosófica que surge vendo programas como Terrace House é qual versão dessas pessoas estamos vendo, qual elas escolheram para apresentar, e quais ficaram de fora, na sala de edição, ou longe das câmeras? E como as pessoas que nos conhecem alimentam suas impressões e opiniões sobre nós baseadas tão somente nos momentos em que estamos juntos, interagindo ou não? (Quase) ninguém sabe de que forma você vai ao banheiro ou tomar banho. Ou fazer sexo. Até pessoas diferentes com quem você faz sexo devem ter visões bem diferentes sobre como você se sai nesse quesito.
 
-Porém, além dos traços, é perceptível a escolha adequada das trilhas, ainda que estas não sejam tão originais, ou até mesmo a edição mantém um ritmo curioso de sempre em movimento do lado de fora, e no caso dos jovens, terroristas mas inteligentes, o movimento é do lado de dentro. Isso fica muito claro quando Twelve realiza suas sessões de hackerismo, onde mais uma vez vemos o realismo agir (aqueles comandos Unix e toda a tralha em volta, incluindo a programação, é factível sim e dá de dez a zero em muitos filmes de ação hollywoodiano que mostram os hackers como criaturas imaturas e que só gostam de mexer em telas gráficas bem transadas).
+Não influenciar ou se deixar influenciar quando vamos apresentar uma versão de nós mesmos para o mundo não é algo que podemos evitar. Sem um outro ser humano para nos dizer algo, nós praticamente não existimos. Seríamos animais na luta pela sobrevivência. Ou nem isso, pois quem lutaria para sobreviver sem existir? Ou talvez um pouco mais, só pelo fato de existir uma voz interna chamada consciência para conversarmos de vez em quando. Porém, essa vozinha é bem enviesada.
 
-Conseguindo chamar a atenção e manter a tensão em quase todos seus episódios, suas virtudes infelizmente começam a ruir conforme suas ideias (e seus personagens) se mesclam, colocando um belo castelo de cartas entregue à obviedade latente de produções do gênero, onde nem um dos conflitos principais (por que Five queria ver Twelve, mesmo?) consegue uma conclusão satisfatória. De qualquer forma, não deixa de ser interessante observar pequenos traços contemporâneos, como o liberalismo e o ataque às grandes corporações. Considerando, é claro, que os governos são as maiores e mais violentas corporações contra o indivíduo.
+Como as edições de programas de reality.
 

@@ -1,20 +1,22 @@
 ---
 categories:
 - writting
-date: '2012-05-07'
-link: https://www.imdb.com/title/tt0412019
+date: '2012-08-06'
+link: https://www.imdb.com/title/tt1410063
 tags:
 - movies
-title: Flores Partidas
+title: Flores do Oriente
 ---
 
-Don Johnston (Bill Murray, impagável) tem seu nome frequentemente confundido com seu quasi-homônimo Don Johnson ("o meu é com T"). No entanto, o que intimamente gostaria de ser é seu outro homônimo, Don Juan, conquistador inveterado de corações femininos. Um belo dia recebe uma carta rosa que menciona a existência de um filho já crescido, fruto de uma de suas inúmeras amantes. Crente de ter as qualidades de um verdadeiro conquistador, Don parte em uma jornada pelo país para verificar qual das quatro mulheres que consegue se lembrar de seu passado possuem vínculo com a suposta carta.
+O diretor Yimou Zhang, desde seu Clã das Adagas Voadoras (2004), parece não ter perdido seu ar "afetado" de expor o horror da guerra de maneira estilada e "gore". O problema é que em Flores do Oriente esse estilo não possui espaço, pois é um drama que envolve meninas encarceradas em um convento no meio da ocupação japonesa, um grupo de meretrizes que acabam se refugiando no mesmo lugar, e um agente funerário (Cristian Bale), com uma inclinação em beber sem parar e tentar ser engraçado e espirituoso, mesmo que seja para um bando de crianças.
 
-Dirigido e escrito por Jim Jarmusch ([Sobre Café e Cigarros], Estranhos no Paraíso) baseado em ideias de seus colegas Bill Radem e Sara Driver, Flores Partidas parte de um pressuposto personagem e realiza um arco dramático que diz muito sobre a visão do homem moderno sobre suas conquistas femininas e sobre a auto-imagem que fazemos de nós mesmos e que na esmagadora maioria das vezes não passa de uma ilusão bem construída com a ajuda da opinião de amigos e conhecidos. No caso de Don, o conhecido é seu vizinho Winston (Jeffrey Wright), que, aparentando monotonia de sua própria vida, frequentemente se mete nos detalhes da vida íntima de seu amigo.
+De qualquer forma, estarmos em um cenário de guerra não justifica vermos balas constantemente atravessando janelas e, em câmera lenta, vislumbrarmos em meio a partículas em suspensão (de vidro) o pescoço atingido de uma vítima espirrar na face de outra. Esse tipo de "humor" se vê em filmes como [O Albergue].
 
-Sem muitos detalhes sobre quem é aquele homem ou do que vive, a evolução de um relacionamento é ilustrado com cada visita que ele faz, começando super-bem com uma ex-amante que possui uma ninfeta, ambas atraentes e convidativas (de uma maneira exagerada, pois é a ilusão ainda fazendo valer). No entanto, conforme vamos avançando começamos a entender coisas sobre o passado de Don que seria melhor se fosse deixado de lado. A jornada, no entanto, nunca perde o interesse, apresentando transições inteligentes que sempre estão em harmonia com o estado de espírito de nosso incansável protagonista.
+Porém, não me leve a mal: o filme possui sequências de tirar o fôlego, e mesmo imaginando que a sequência sem cortes de uma determinada perseguição seja pura montagem, não perde seu impacto, ainda que de um estilo descartável. Pior: a sequência do soldado único, para mim merecedor do filme, é inserido em um momento fora do contexto para gerar um herói instantâneo quando precisávamos de um. E se é perdoável a manipulação em prol da história, não é a série de manipulações que ocorrem em seguida para justificar os caminhos de uma história cuja moral escapa por entre os dedos.
 
-Ao final, um giro de 360 graus nos revela o homem completo e ao mesmo tempo faltando partes. As ideias não encaixam perfeitamente, como a vida muitas vezes é.
+Infelizmente, o filme parece mais longo do que é, justamente pela maioria das cenas focar em personagens que por mais que tentem não possuem maior profundidade do que merecem. Dessa forma, a figura de John Miller bêbado não evoca sua angústia, e durante quase todo o filme é apenas uma pessoa que gosta de beber, exageradamente. Ao mesmo tempo, Yu Mo, mesmo sendo a mais bela das meretrizes, não convence como sua líder, pois não possui características em sua personalidade que a diferenciem do resto do grupo. O mesmo pode-se dizer do grupo de meninas. Enfim, se não há nada que justifique convivermos tanto tempo com essas pessoas presas em um convento, por mais que a solução final da história seja dramática, por que não investir em mais explosões?
 
-[Sobre Café e Cigarros]: {{< relref "sobre-cafe-e-cigarros" >}}
+Teria sido mais divertido.
+
+[O Albergue]: {{< relref "o-albergue" >}}
 

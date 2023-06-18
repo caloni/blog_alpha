@@ -1,24 +1,18 @@
 ---
 categories:
 - writting
-date: '2013-01-06'
-link: https://www.imdb.com/title/tt0482629
+date: '2015-01-18'
+link: https://www.imdb.com/title/tt2397535
 tags:
 - movies
-title: O Presente
+title: O Predestinado
 ---
 
-O filme baseado no livro homônimo de Jim Stovall, escritor cego engajado em trabalhos para deficientes, claramente tenta passar uma mensagem de caridade para com os mais necessitados. Para isso, contudo, se esquece de estabelecer uma relação afetiva com seus personagens e acaba resumindo uma sequência de eventos simbólicos que forçam a emoção do espectador.
+Apesar de ser um fã incondicional de Efeito Borboleta, sei que o longa possui alguns defeitos indesculpáveis. Sua lógica interna, como todo instigante filme de viagem no tempo, não foi costurada tão bem a ponto do espectador não se preocupar muito com seus paradoxos, e embora sua maior virtude resida nas possibilidades múltiplas de seus personagens, não existe essa de licença poética no Cinema. Se sua narrativa não consegue ser coesa, suas pontas soltas irão te ferir por dentro.
 
-A história gira em torno de Jason (Drew Fuller), um playboy irrelevante e sem personalidade que se vê diante de uma série de tarefas que deverá executar para receber a herança do seu recém-finado avô, um magnata do petróleo que construiu um império em torno do qual sua desprezível família cresceu. Acaba se encontrando acidentalmente com Emily Rose (Abigail Breslin), uma menina irritante pelos seus questionamentos autoritários e que sofre de leucemia (mais um motivo para chorarmos).
+Já em O Predestinado o objetivo é exatamente o contrário: ele expõe tanto a vida do policial vivido por Ethan Hawke quanto seus paradoxos. Ele dedica boa parte do seu tempo esmiuçando a curiosa história de vida da personagem vivida por Sarah Snook sem pressa em uma conversa que lembra muito as divagações despropositadas de Um Beijo Roubado, o que é lindo, ingênuo e delicado. Seu flashback ocupa tanto tempo que começamos a duvidar deste ser um filme sci-fi, e nos esquecemos que nenhum sci-fi que se preste é apenas sobre ficção científica, mas principalmente uma metáfora para os dramas da vida. Quem somos nós? Quem é você? Se existe destino, como ele é?
 
-A participação de Abigail Breslin, aliás, é totalmente descartável e considero a maior inversão de expectativa do projeto: como pode a doce menina de [Pequena Miss Sunshine] se transformar em um ser tão irritante e continuar irritante mesmo que saibamos que ela possui pouco tempo de vida?
+Quando finalmente vemos a primeira viagem no tempo tudo acontece tão rápido que é como se diversas camadas de história estivessem sendo descascadas na nossa frente, tal como uma dobra temporal, e ficássemos praticamente impotentes diante do poder dos eventos inevitáveis sobre nosso protagonista, que não param de acontecer.
 
-Porém, isso não importa. O roteiro de Cheryl McKay consegue estragar praticamente toda e qualquer surpresa que poderia surgir do testamento do avô de Jason ao utilizar situações batidas aliadas a diálogos incrivelmente pedestres, em uma tentativa desesperada de tornar as cenas mais impactantes. Quando Jason e sua namorada estão em um restaurante logo após sabermos que todos os bens do rapaz foram confiscados, é óbvio que ele não será capaz de pagar a conta. Mesmo assim McKay insiste e faz o garçom comentar que o casal não está aproveitando sua garrafa de vinho e que é uma "garrafa muito cara para seus clientes".
-
-Conseguindo aliar um roteiro de estrutura previsível e situações específicas improváveis, o diretor Michael O. Sajbel tropeça na coerência da passagem do tempo, pois até a barba do rapaz cresce de maneira inimaginável durante uma semana preso, nem se comparando à sua mudança em um mês como mendigo: nenhuma.
-
-Ao transformar o avô de Jason em um vidente-defunto com o desfecho do seu testamento-vídeo, a lição de moral de Jim Stovall consegue ser ainda mais doutrinária, chegando a rivalizar com Um Conto de Natal, de Charles Dickens. Infelizmente estamos a milhas de distância do poder da mensagem de Dickens com o seu Ebenezer Scrooge.
-
-[Pequena Miss Sunshine]: {{< relref "pequena-miss-sunshine" >}}
+Porém, os diretores e roteiristas Irmãos Spierig não se esquecem de sua ponta dramática, e um jantar casual vira um intrincado jogo de raciocínio: quem veio primeiro? O pensamento ou a adivinhação? E isso é apenas o começo de uma série de reviravoltas que, apesar de menos imprevisíveis, arremessam os mesmos questionamentos emocionais em níveis de ambição diferentes, onde a tentativa de salvar o maior número de pessoas pode até ser compreendido como uma paranoia pós-11/09 (na vida real) em que uma balança macabra calcula a quantidade ótima de quantas pessoas devem morrer.
 

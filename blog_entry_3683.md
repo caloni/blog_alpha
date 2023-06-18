@@ -1,16 +1,16 @@
 ---
 categories:
 - writting
-date: '2012-04-02'
-link: https://www.imdb.com/title/tt1508304
+date: '2021-06-05'
+link: https://www.imdb.com/title/tt5614348
 tags:
-- movies
-title: Le mystère du Snæfellsjökull
+- animes
+title: The Lost Village (Mayoiga)
 ---
 
-Esse média-metragem islandês procura mostrar a história de uma região no país em que, de acordo com "relatos" e com a declaração de Júlio Verne de que ali seria o ponto de entrada para o centro da Terra, é um lugar de concentração de energias e poderia muito bem ser o ponto de contato com extraterrestres.
+A dinâmica do primeiro episódio é hipnotizante. O ar de mistério sobre quem são aquelas pessoas dispostas a desistir de suas vidas indo em direção a uma vila perdida para nunca mais voltar garante nossa atenção. Eles estão em um ônibus de excursão. E o motorista? Pessoas já "se perderam" por lá. E a polícia? Há criminosos no meio do grupo? E se alguém desistir?
 
-Oscilando relatos com canções da cultura, somos guiados sempre pela visão de pessoas que, de uma forma ou de outra, querem acreditar que o local é mais do que parece, escondendo seus segredos para os céticos e se abrindo para os que verdadeiramente veneram o que a região representa.
+The Lost Village possui uma estética noturna atraente e misteriosa. Observar este ônibus adentrar um denso nevoeiro na estrada enquanto todos estão submersos em seus pensamentos é fruto de uma direção ritmada, intensa e com um jogo de câmera e luzes que mantém o clima de tensão.
 
-Parecendo um pouco canalhesco em suas opiniões unilaterais, no fundo pode ser considerada uma crítica velada sobre crenças exacerbadas da humanidade, ou, por outro lado, uma espécie de homenagem às pessoas que decidiram nutrir suas vidas com os mistérios não resolvidos de sua existência.
+Por fim, uma trilha sonora primososa, unindo o fantástico com o drama pessoal e coletivo do que irá acontecer em seguida.
 

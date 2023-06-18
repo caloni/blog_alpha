@@ -1,25 +1,38 @@
 ---
 categories:
-- writting
-date: '2019-01-12'
-link: https://www.imdb.com/title/tt5848272
+- coding
+date: '2007-09-24'
 tags:
-- cinemaqui
-- movies
-title: 'Wifi Ralph: Quebrando a Internet'
+- english
+title: Why is my DLL locked?
 ---
 
-Quem assistir "Wifi Ralph: Quebrando a Internet" pelo título já deve saber que não deverá ver com o mesmo clima do primeiro filme ("Detona Ralph"), que apostava no saudosismo dos fãs de fliperamas e vídeo-games antigos em geral para explorar a magia dos 0s e 1s através dos carismáticos personagens Ralph e Vanellope, entre outros.
+The Windows code responsible to call DllMain for each loaded and unloaded DLLs uses an exclusive access object, the so-called mutex, to synchronize its calls. The result is that inside a process just one DllMain can be called at a given moment. This object-mutex is called "loader lock" into the Microsoft documentation.
 
-Mas não se enganem: é o mesmo filme remodelado para sua segunda protagonista. Se em Detona Ralph o brutamontes que não se sentia bem por nunca ter recebido créditos por fazer parte de um jogo em que ele era um eterno vilão, aqui é Vanellope, com todo seu espírito aventureiro, que se sente em um marasmo eterno correndo três pistas de seu jogo que já sabe de cor.
+{{< image src="loader_lock.gif" caption="Loader Lock explained" >}}
 
-Tudo muda quando surge A Internet, simbolizada por um roteador Wi-Fi que é plugado na mesma régua de tomadas dos fliperamas. Ah, isso e o fato do volante do jogo de Vanellope ter quebrado e eles precisarem comprar outro no EBay para conseguir com que o jogo não seja desativado. Fica claro que a trupe de roteiristas quer enfiar várias ideias diferentes goela abaixo do espectador sem primeiro mastigá-las direito. E conforme Ralph e Vanellope se aventuram por esse mundo mágico que nunca dorme também veremos que, assim como nossos herois, a história parece seguir um caminho em busca de patrocinadores online (talvez uma jogada metalinguística, mas com certeza uma sacada mercadológica).
+I wrote a [silly code] that represents quite well what I've seen in lots of production code. For many times I was unable to realize what was going on (whether because I didn't know about the loader lock or the code readability was too bad). The code say by itself: calling CreateThread inside DllMain must lock your execution forever.
 
-O núcleo mais importante da história está na constante insatisfação de seus heróis digitais, personagens criados com apenas o propósito de participar de seus jogos. Quando Vanellope confessa que acredita haver mais no mundo do que apenas uma existência limitada nas regras que estão acostumados a seguir, ela também está olhando para nós, humanos, e nossa eterna insatisfação com nossas vidas. É um momento profundo que flerta sutilmente com a filosofia de nossa própria existência.
+A simple victim of all this can be an executable using a poorly written DLL, just like the code above:
 
-Mas logo o apelo ajeitado pela equipe de roteirista gira em torno de algo mais comum em animações: a amizade que se formou entre Ralph e essa pequena, mas indomável garota. Ralph se apegou demais à ideia de ser o herói grandalhão da garotinha em perigo, e isso tem que ser quebrado para que Vanellope consiga ser uma pessoa completa e realizada. Se você ainda não percebeu a tentativa de criticar as décadas de histórias de princesas que a própria Disney desenvolveu, que giravam em torno de um príncipe salvador, espere até chegar em um castelo onde elas ficam gastando seu tempo fofocando e respondendo perguntas de perfil das usuárias de internet.
+    int main()
+    {
+      printf("load dll");
+      HMODULE lockDll = LoadLibrary(_T("dll_lock.dll"));
+    
+      if( lockDll )
+      {
+        Sleep(2000);
+        printf("free dll");
+        FreeLibrary(lockDll), lockDll  = NULL;
+        printf("done");
+      }
+    }
 
-Há algumas boas ideias ao tentar criar metáforas como os pacotes de internet trafegando pela rede, ou o divertidíssimo sistema de busca que tenta adivinhar, o sistema de spams, etc. Tudo isso parece soar datado assim que aparece no filme, mas ao mesmo tempo é muito bem feito. Note como não existe horizonte na internet; tudo que vemos é um fundo branco (o padrão nas cores dos sites) que parece inalcançável. Os usuários aparecem como versões quadradas que "navegam" por esse hiper-espaço clicando em links.
+It is important to remember that a DllMain dependant code is a very, very bad thing. Nevertheless, there are some particular cases the only place to run our code is inside DllMain. In these cases, when detected, try to run a side by side communication with your locked thread using an event object (or equivalent) before it really returns. Using this craft the thread can warn the waiting thread that the important thing to be done is done, and the waiting thread can go to sleep and stop waiting forever locked threads.
 
-Porém, no fundo, "Wifi Ralph" é um filme leve, sem maiores atribulações. Ele tem um conflito bem definido, que parece intransponível porque mexe com os sentimentos dos personagens que aprendemos a adorar, e só pelo fato da Disney estar mais interessada em um filme de ideias para crianças do que ação e vilões que surgem convenientemente no segundo ato já é um ponto positivo.
+Among the classic Matt Pietrek posts in Microsoft Journal there is in the [1999 september edition] a short one about DLL initialization. That is the more sucint, didatic and simple text about this question.
+
+[silly code]: dll_lock.cpp
+[[1999 september edition]]: http://bytepointer.com/resources/pietrek_debug_init_routines.htm
 

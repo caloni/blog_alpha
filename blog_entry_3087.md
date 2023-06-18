@@ -1,12 +1,13 @@
 ---
 categories:
 - writting
-date: '2021-06-25T13:12:00+03:00'
-link: 'null'
+date: '2022-10-12T17:57:45-03:00'
 tags:
-- food
-title: Pipoteca Picanha na Mostarda
+- wine
+title: Pinot Negro
 ---
 
-Este clássico salgadinho ordinário da região de Morretes mantém em seu aroma e sabor um leve toque de churrasco evocando a culinária sulista e referenciando um dos seus cortes bovinos mais nobres. No entanto, esperava um sabor artificial de mostarda mais intenso. Nesse ponto foi um pouco decepcionante.
+Há duas formas de dizer Pinot Noir na Argentina. Pinot Noir (duh) e Pinot Negro. Uma boteja antiga de Carmine Granata, lá na região de Luan de Cuyo em Mendoza, acusava essa denominação.
+
+Conhecimento você sempre adquire ao visitar bodegas. A experiência por si só sempre será gratificante. No caso de Carmine Granata, mais do que isso: especial. Mágico. Transcendental.
 
