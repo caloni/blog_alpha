@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Blogue do Caloni - 2 Coelhos</title>
+  <meta name="author" content="" />
+  <meta name="generator" content="Hugo 0.110.0">
+  <meta property="og:title" content="2 Coelhos"/>
+  <meta property="og:type"
+        content="article"/>
+  <meta property="og:url" content="http://www.caloni.com.br/todo-put-original-title-slug/"/>
+  <meta property="og:image"
+        content="/img/author.jpg"/>
+  <meta property="og:description"
+        content="Uma montagem impec�vel consegue dar o tom da narrativa do complexo 2 Coelhos. Al�m de complexo, existem pequenos detalhes da trama que for�am um pouco a realidade (como a uni�o entre o protagonista e..."/>
+  <link href="" rel="feed" type="application/rss+xml"
+        title="Blogue do Caloni"/>
+  <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/board-min.css"/>
+  <script src="/js/jquery-1.10.2.js"></script>
+  <script src="/js/jquery-ui.js"></script>
+  <script src="/js/pgnyui.js"></script>
+  <script src="/js/pgnviewer.js"></script>
+  <script src="/js/list.js"></script>
+  <link rel="icon" href="/img/favicon.ico"/>
+</head>
+<body style="min-height:100vh;display:flex;flex-direction:column">
+  <nav class="navbar has-shadow is-white"
+        role="navigation" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+  <pre><span style="font-size: 3px; margin: 0; display: block;">
+&amp;*/. .*%@@@@@@@@@@@@&amp;/    , &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@#,*@@@@%,*&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@./@.(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@**#./((,*, *./((*,#,&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@.#@@%&amp;@@* (@@%&amp;@@/#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@,#@@&amp;&amp;@@, (@@&amp;&amp;@@*#@@@@@@@@@@@@@#/,,.         ..,/#&amp;@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@&amp;, .//      .//  .%@@@@@@&amp;#.  .,****.,*************,.  .(&amp;@@@@@@@@@@@@@@@@@
+@@@*                     ,@/  .**,,,*********,   ,***,   ****    *@@@@@@@@@@@@@@
+@#                         ,***      .******       ,***,*****,      *&amp;@@@@@@@@@@
+&amp;                           ,**      .******.     .******************  (@@@@@@@@
+                             ****..,*************************,    ,***   (@@@@@@
+@@@@#,,,,,,,,,,,,,,,,,,,,*********,   ,**************,  .***,      .**. .  %@@@@
+@@@@%                   .***,.,****,.,***,     ,****      ***.     ,******, /@@@
+@@@@@&amp;.                ,**       *******,       *****,  .******************, *@@
+@@@@@@@&amp;,            ,****      .********,.   .*************,  ,*****,    ,** /@
+@@@@@@@@@@@@&amp;/ .****,    ************.   ****************************      **. #
+@@@@@@@@@@@@@, *****,    ,***********    .******,   ,****.   .*****,***,,***** ,
+@@@@@@@@@@@@&amp;..**************,  ,***********************       ,*,    ********..
+@@@@@@@@@@@@&amp; ,**.    ,******.  .*******.    .**********,     .**********. .**, 
+@@@@@@@@@@@@% ,*       ,***************.      .*****************************,   
+@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#*@&amp;&amp;&amp;@*#&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@(.#@@@@(.#@@@@@@@@@@@@@@@@@@@@@#**@@@@(.#@@@@@@@@@@@
+  </span></pre>
+  &nbsp;
+  <a class="navbar-item" title="Go to Home" href="/">
+    <div class="is-6">Blogue do Caloni</div>
+  </a>
+  </div>
+  </div>
+  </nav>
+  <div class="container">
+  <p class="title">
+  <a class="external" href="https://www.caloni.com.br/todo-put-external-link-here">
+  Todo Put Post Title Here
+  </a>
+  </p>
+  <div class="content">
+<p>No momento, minha prática se resume a isso:</p>
+<p> - Debug or not debug. Aqui resolvi dar uma olhada de perto nas macros e funções usadas para tracing no DDK, e descobri que, assim como a runtime do C, podemos ter mensagens formatadas no estilo do printf e vprintf, o que economiza uma porção de código repetitivo. Dessa forma pude usar minha estratégia de ter a macro LOG usada para mandar linhas de depuração na saída padrão. Ainda tenho que estudar, contudo, o uso da variável va_list em kernel.</p>
+<p> - ExAllocatePool (WithoutTag). Precisei fazer alguns testes no Dependency Walker e anexar o fonte que faz a vez do GetProcAddress para drivers em meu miniprojeto do Bazaar para aprendizado de programação em kernel.</p>
+<p> - Getting Started. Esse foi o artigo mais interessante de todos, pois foi a base de todo o código que ando repetindo em meus exercícios. Além desse, é vital o uso do Visual Studio no processo de desenvolvimento, pois muitas (quase todas) das funções do DDK são alienígenas para mim, assim como os seus 497 parâmetros cada.</p>
+<p> - Driver plus plus. Tive que perder algum tempo codificando uma segunda versão do Useless e baixando o framework da Hollis para testar as peculiaridades do C++ em kernel mode. Não que eu vá usar alguma coisa avançada nesse estágio, mas preciso conhecer algumas limitações e alguns macetes que farão uma grande diferença no futuro, quando as linhas de código ultrapassarem 10.000.</p>
+<p> - Pulei alguns tópicos que pretendo explorar quando estiver mais à vontade com alguns conceitos básicos, como a explicação de como obter o processo dono de uma IRP, a explicação do que é uma IRP (apesar de eu ter baixado e brincado com o monitor da OSR) e a aparentemente simples explanação sobre como funcionam as listas ligadas do DDK. Tudo isso virá com o tempo, e algumas coisas estarão sempre martelando na cabeça. É só dar tempo ao tempo e codificar.</p>
+<p> - Nós queremos exemplos. Esse foi o artigo que mais me deu trabalho, mas que mais valeu a pena. Codifiquei tudo do zero, olhando aos poucos no código do Fernando para pegar o jeito de usar funções com nomes enormes e auto-explicativas e parâmetros com os nomes a, b, c. Também dediquei um tempinho considerável com a aplicação de user mode, para (re)aprender a depurar dos dois lados da moeda.</p>
+<p>Próximos passos?</p>
+<p>Pelo que eu vi, no geral, acredito que aos poucos irei voltar para os tópicos que pulei, além de olhar em outros artigos que chamaram minha atenção:</p>
+<p> - Como criar um driver de boot</p>
+<p> - Usando o DSF para interagir com dispositivos USB de mentirinha</p>
+<p> - A continuação emocionante de nosso driver que recebe reads e writes</p>
+<p> - Usar o que existe de bom e melhor para garantir a qualidade de um driver</p>
+<p> - Mais alguns detalhes que começam a fazer sentido em nosso KernelEcho</p>
+<p> - Criando e usando IOCTLs. Essa vai ser ótima!</p>
+<p> - A necessidade inevitável de mexer com o registro do sistema</p>
+<p>Tudo isso aliado aos exemplos e à teoria latente do Windows 2000 Device Driver Book (minha primeira leitura) irá dar um upgrade forçado aos meus neurônios. Espero sobreviver para contar o final da história.</p>
+</div>
+  <div class="taglist">
+  <p class="author">Wanderley Caloni,
+     <a href="https://github.com/Caloni/blog/blob/master/content/posts/todo-dunno-original-post-source">
+     2012-02-15 00:00:00 &#43;0000
+     </a>
+  </p>
+  <a href="/categories/writting">writting</a> 
+  <a href="/tags/movies">movies</a> 
+  <a class="externalgray" href="https://t.me/paneloni">discuss</a>
+  <script type="text/javascript" src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js?sty=49&min=1&sta=0&uni=1&tz=America%2FSao_Paulo&ro=0"></script><noscript id="LTF_hitcounter"><a href="https://livetrafficfeed.com/hit-counter">Hit Counter</a></noscript>
+  </div>
+  </div>
+  </body>
+  </html>

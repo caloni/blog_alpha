@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Blogue do Caloni - 2 Coelhos</title>
+  <meta name="author" content="" />
+  <meta name="generator" content="Hugo 0.110.0">
+  <meta property="og:title" content="2 Coelhos"/>
+  <meta property="og:type"
+        content="article"/>
+  <meta property="og:url" content="http://www.caloni.com.br/todo-put-original-title-slug/"/>
+  <meta property="og:image"
+        content="/img/author.jpg"/>
+  <meta property="og:description"
+        content="Uma montagem impec�vel consegue dar o tom da narrativa do complexo 2 Coelhos. Al�m de complexo, existem pequenos detalhes da trama que for�am um pouco a realidade (como a uni�o entre o protagonista e..."/>
+  <link href="" rel="feed" type="application/rss+xml"
+        title="Blogue do Caloni"/>
+  <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/board-min.css"/>
+  <script src="/js/jquery-1.10.2.js"></script>
+  <script src="/js/jquery-ui.js"></script>
+  <script src="/js/pgnyui.js"></script>
+  <script src="/js/pgnviewer.js"></script>
+  <script src="/js/list.js"></script>
+  <link rel="icon" href="/img/favicon.ico"/>
+</head>
+<body style="min-height:100vh;display:flex;flex-direction:column">
+  <nav class="navbar has-shadow is-white"
+        role="navigation" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+  <pre><span style="font-size: 3px; margin: 0; display: block;">
+&amp;*/. .*%@@@@@@@@@@@@&amp;/    , &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@#,*@@@@%,*&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@./@.(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@**#./((,*, *./((*,#,&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@.#@@%&amp;@@* (@@%&amp;@@/#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@,#@@&amp;&amp;@@, (@@&amp;&amp;@@*#@@@@@@@@@@@@@#/,,.         ..,/#&amp;@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@&amp;, .//      .//  .%@@@@@@&amp;#.  .,****.,*************,.  .(&amp;@@@@@@@@@@@@@@@@@
+@@@*                     ,@/  .**,,,*********,   ,***,   ****    *@@@@@@@@@@@@@@
+@#                         ,***      .******       ,***,*****,      *&amp;@@@@@@@@@@
+&amp;                           ,**      .******.     .******************  (@@@@@@@@
+                             ****..,*************************,    ,***   (@@@@@@
+@@@@#,,,,,,,,,,,,,,,,,,,,*********,   ,**************,  .***,      .**. .  %@@@@
+@@@@%                   .***,.,****,.,***,     ,****      ***.     ,******, /@@@
+@@@@@&amp;.                ,**       *******,       *****,  .******************, *@@
+@@@@@@@&amp;,            ,****      .********,.   .*************,  ,*****,    ,** /@
+@@@@@@@@@@@@&amp;/ .****,    ************.   ****************************      **. #
+@@@@@@@@@@@@@, *****,    ,***********    .******,   ,****.   .*****,***,,***** ,
+@@@@@@@@@@@@&amp;..**************,  ,***********************       ,*,    ********..
+@@@@@@@@@@@@&amp; ,**.    ,******.  .*******.    .**********,     .**********. .**, 
+@@@@@@@@@@@@% ,*       ,***************.      .*****************************,   
+@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#*@&amp;&amp;&amp;@*#&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@(.#@@@@(.#@@@@@@@@@@@@@@@@@@@@@#**@@@@(.#@@@@@@@@@@@
+  </span></pre>
+  &nbsp;
+  <a class="navbar-item" title="Go to Home" href="/">
+    <div class="is-6">Blogue do Caloni</div>
+  </a>
+  </div>
+  </div>
+  </nav>
+  <div class="container">
+  <p class="title">
+  <a class="external" href="https://www.caloni.com.br/todo-put-external-link-here">
+  Todo Put Post Title Here
+  </a>
+  </p>
+  <div class="content">
+<p>{{< image src="imt8kmB.png" caption="" >}}</p>
+<p>### Analisar um dump gerado</p>
+<p>Para a primeira opção, basta abrir o Gerenciador de Tarefas, localizar o processo e gerar o dump através do menu de contexto.</p>
+<p>{{< image src="RWPemAU.png" caption="" >}}</p>
+<p>Com o dump e o Windbg em mãos, basta analisá-lo. Porém, se o seu processo é 32 bits e o servidor é 64 bits (geralmente é), o dump gerado será de 64 bits, EMBORA seja de um process 32. Ou seja, ao abri-lo, o sistema vai mostrar as threads de manipulação do SO para sistemas 32 (todos com o nosso amigo wow64cpu).</p>
+<p>Após esse último passo, siga para o último passo desse tutorial. Ou escolha a segunda opção:</p>
+<p>### Depurar localmente o problema</p>
+<p>Para depurar localmente, supondo que seja um executável simples, você precisa dos seguintes itens:</p>
+<p>Os fontes, no caso de uma conexão por Terminal Server, podem ser disponibilizados através do mapeamento de drives entre as máquinas. Os símbolos, no entanto, por serem usados extensivamente pelo WinDbg, é recomendável que estejam locais na máquina depurada, pois do contrário você terá que tomar uma quantidade excessiva de cafés para executar meia-dúzia de instruções.</p>
+<p>Supondo que temos tudo isso, só precisamos executar alguns passos básicos para o setup:</p>
+<p>#### 1. Abrir o WinDbg e escolher File, Open Executable. Escolha o executável e pare por aí.</p>
+<p>{{< image src="A2p4Q9y.png" caption="" >}}</p>
+<p>#### 2. Na tela de comando do WinDbg (View, Command, ou Alt + 1) execute os comandos abaixo:</p>
+<p>#### 3. Ao executar lm, o módulo cujo símbolo foi carregado deve conter o nome do pdb logo à frente.</p>
+<p>#### 4. Feito isso, está tudo OK. Podemos colocar breakpoints, monitorar variáveis, verificar stacks, etc.</p>
+<p>Por último, execute o seguinte comando na tela de comandos do WinDbg:</p>
+</div>
+  <div class="taglist">
+  <p class="author">Wanderley Caloni,
+     <a href="https://github.com/Caloni/blog/blob/master/content/posts/todo-dunno-original-post-source">
+     2012-02-15 00:00:00 &#43;0000
+     </a>
+  </p>
+  <a href="/categories/writting">writting</a> 
+  <a href="/tags/movies">movies</a> 
+  <a class="externalgray" href="https://t.me/paneloni">discuss</a>
+  <script type="text/javascript" src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js?sty=49&min=1&sta=0&uni=1&tz=America%2FSao_Paulo&ro=0"></script><noscript id="LTF_hitcounter"><a href="https://livetrafficfeed.com/hit-counter">Hit Counter</a></noscript>
+  </div>
+  </div>
+  </body>
+  </html>

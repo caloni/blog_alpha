@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Blogue do Caloni - 2 Coelhos</title>
+  <meta name="author" content="" />
+  <meta name="generator" content="Hugo 0.110.0">
+  <meta property="og:title" content="2 Coelhos"/>
+  <meta property="og:type"
+        content="article"/>
+  <meta property="og:url" content="http://www.caloni.com.br/todo-put-original-title-slug/"/>
+  <meta property="og:image"
+        content="/img/author.jpg"/>
+  <meta property="og:description"
+        content="Uma montagem impec�vel consegue dar o tom da narrativa do complexo 2 Coelhos. Al�m de complexo, existem pequenos detalhes da trama que for�am um pouco a realidade (como a uni�o entre o protagonista e..."/>
+  <link href="" rel="feed" type="application/rss+xml"
+        title="Blogue do Caloni"/>
+  <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/board-min.css"/>
+  <script src="/js/jquery-1.10.2.js"></script>
+  <script src="/js/jquery-ui.js"></script>
+  <script src="/js/pgnyui.js"></script>
+  <script src="/js/pgnviewer.js"></script>
+  <script src="/js/list.js"></script>
+  <link rel="icon" href="/img/favicon.ico"/>
+</head>
+<body style="min-height:100vh;display:flex;flex-direction:column">
+  <nav class="navbar has-shadow is-white"
+        role="navigation" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+  <pre><span style="font-size: 3px; margin: 0; display: block;">
+&amp;*/. .*%@@@@@@@@@@@@&amp;/    , &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@#,*@@@@%,*&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@./@.(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@**#./((,*, *./((*,#,&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@.#@@%&amp;@@* (@@%&amp;@@/#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@,#@@&amp;&amp;@@, (@@&amp;&amp;@@*#@@@@@@@@@@@@@#/,,.         ..,/#&amp;@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@&amp;, .//      .//  .%@@@@@@&amp;#.  .,****.,*************,.  .(&amp;@@@@@@@@@@@@@@@@@
+@@@*                     ,@/  .**,,,*********,   ,***,   ****    *@@@@@@@@@@@@@@
+@#                         ,***      .******       ,***,*****,      *&amp;@@@@@@@@@@
+&amp;                           ,**      .******.     .******************  (@@@@@@@@
+                             ****..,*************************,    ,***   (@@@@@@
+@@@@#,,,,,,,,,,,,,,,,,,,,*********,   ,**************,  .***,      .**. .  %@@@@
+@@@@%                   .***,.,****,.,***,     ,****      ***.     ,******, /@@@
+@@@@@&amp;.                ,**       *******,       *****,  .******************, *@@
+@@@@@@@&amp;,            ,****      .********,.   .*************,  ,*****,    ,** /@
+@@@@@@@@@@@@&amp;/ .****,    ************.   ****************************      **. #
+@@@@@@@@@@@@@, *****,    ,***********    .******,   ,****.   .*****,***,,***** ,
+@@@@@@@@@@@@&amp;..**************,  ,***********************       ,*,    ********..
+@@@@@@@@@@@@&amp; ,**.    ,******.  .*******.    .**********,     .**********. .**, 
+@@@@@@@@@@@@% ,*       ,***************.      .*****************************,   
+@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#*@&amp;&amp;&amp;@*#&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@(.#@@@@(.#@@@@@@@@@@@@@@@@@@@@@#**@@@@(.#@@@@@@@@@@@
+  </span></pre>
+  &nbsp;
+  <a class="navbar-item" title="Go to Home" href="/">
+    <div class="is-6">Blogue do Caloni</div>
+  </a>
+  </div>
+  </div>
+  </nav>
+  <div class="container">
+  <p class="title">
+  <a class="external" href="https://www.caloni.com.br/todo-put-external-link-here">
+  Todo Put Post Title Here
+  </a>
+  </p>
+  <div class="content">
+<p>Conforme fui estudando para recordar os momentos sublimes do boot do Windows me deparei com o artigo mais "espetaculoso" de todos os tempos sobre esse assunto, parte integrante do livro [Windows Internals](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=Windows+Internals&site_origem=1293522) e escrito pelo nada mais nada menos Mark Russinovich: **Boot Process**, no capítulo 5, "Startup and Shutdown".</p>
+<p>Nesse caso decidi salpicar a explicação com uma boa dose de _reversing_ para aproveitarmos a caminhada e fuçarmos um pouco no funcionamento interno dos componentes de boot e ver no que dá. Antes de começar, porém, aviso que este não é um tratado sobre o sistema de boot. Eu diria que é apenas o resultado de algumas mexidas inconsequentes pelo _disassembly _do código de boot. Espero encontrar alguém tão curioso (ou mais) do que eu que compartilhe o que achou de todo esse processo. Antes de mais nada um mapinha para vermos até onde chegamos:</p>
+<p>{{< image src="boot-map.png" caption="boot-map.png" >}}</p>
+<p>Pelo visto esse foi só o começo. O próximo passo é saber como do setor de boot chegamos ao NTLDR. O que não é nenhum segredo, uma vez que o NTLDR é um arquivo que fica na pasta raiz do sistema de arquivos. Como todos sabemos, qualquer assembly 16 bits de 400 bytes de tamanho consegue ler um arquivo de 250 KB na memória e executá-lo.</p>
+<p>{{< image src="YSNdf8w.png" caption="boot-components.png" >}}</p>
+<p>Se o NTLDR não conseguir ser encontrado, o seguinte erro será exibido:</p>
+<p>{{< image src="JNekHia.png" caption="error-ntldr-missing.png" >}}</p>
+<p>Que usuário merece ver isso?</p>
+<p>Bom, se ele soubesse analisar o assembly do setor de boot, seria fácil entender essa mensagem. E analisar o assembly é simples demais, quase tão simples quanto entender a mensagem acima. Tudo que precisamos é do programa **Debug 16 bits**, como o que já vem com o Windows ou [aquele mais turbinado d](http://www.freedos.org/cgi-bin/lsm.cgi?mode=lsm&lsm=base/debug.lsm)[o FreeDOS](http://www.freedos.org/cgi-bin/lsm.cgi?mode=lsm&lsm=base/debug.lsm).</p>
+<p>Podemos usar o Debug 16 bits para abrir o setor de boot salvo em algum arquivo e analisá-lo. Esse "salvo em algum arquivo" nós podemos obter usando o [HxD](http://mh-nexus.de/en/hxd/), um sofware bom demais que eu uso quase todos os dias da minha vida, ou para analisar os primeiros setores do disco ou ler arquivos binários que caem na minha caixa de e-mails.</p>
+<p>Eu não vou explicar como salvar um setor do disco em um arquivo. Pelamordedeus, isso é fácil demais. É só fuçar que se acha um jeito.</p>
+<p>Se bem que, como esse é um quase-tutorial, vão abaixo apenas algumas dicas:</p>
+<p>(1) no primeiro setor do disco de boot, podemos encontrar a tabela de partições;</p>
+<p>(2) nessa tabela, a partição ativa é a que começa com 0x80;</p>
+<p>(3) existe um campo onde é possível obter o offset de onde está o primeiro setor dessa partição (em setores);</p>
+<p>{{< image src="EfbrmZd.png" caption="finding-part-boot.png" >}}</p>
+<p>(4) uma simples conversão de Little Endian e de hexadecimal para decimal nos retorna o número do setor que precisamos;</p>
+<p>{{< image src="qSx2aLD.png" caption="converting-setor.png" >}}</p>
+<p>(5) o próprio HxD nos consegue levar para esse setor, de onde podemos selecioná-lo e salvá-lo em um arquivo!</p>
+<p>{{< image src="mZoLCyZ.png" caption="first-partition-sector.png" >}}</p>
+<p>Isso é tudo o que você precisa para fazer engenharia reversa do setor de boot. Bom divertimento!</p>
+<p>#### Análise estática x análise dinâmica</p>
+<p>Existem duas formas que conheço para analisar o _disassembly _de um setor de boot pelo Debug. Para os que gostam de aventuras radicais (RPG em modo texto?) existe a análise dinâmica, que consiste em digitar no prompt do DOS o comando Debug e o nome do arquivo salvo com o setor de boot. O primeiro comando u irá desmontar os primeiros bytes do setor (e, portanto, as primeiras instruções). Eu costumo fazer isso para uma visão geral de cinco minutos.</p>
+<p>(1) digite em um arquivo chamado u.bat o seguinte conteúdo:</p>
+<p>(2) rode o debug como a linha abaixo:</p>
+<p>(3) Pronto! Temos um a.asm com toda a saída do setor de boot. Agora podemos analisá-la e editá-la:</p>
+<p>Se fuçarmos por um tempo esse código podemos encontrar várias coisas interessantes, como por exemplo a mensagem que é exibida quando o setor de boot não contém a assinatura padrão 0x55 0xAA em seu final:</p>
+<p>{{< image src="7dZZZag.png" caption="error-checking-part-sect-signature.png" >}}</p>
+<p> Outra coisa interessante é encontrar a sub-rotina que carrega blocos e blocos de conteúdo do disco na memória, utilizando-se para isso da [interrupção 0x13 função 0x42](http://www.ctyme.com/intr/rb-0708.htm): a leitura estendida!</p>
+<p>Enfim, todo esse assembly para fazer apenas uma coisa: achar o NTLDR na diretório-raiz da partição onde estamos, carregá-lo na memória e executá-lo. O que se passa a partir daí é o que iremos abordar na futura continuação. Não perca!</p>
+</div>
+  <div class="taglist">
+  <p class="author">Wanderley Caloni,
+     <a href="https://github.com/Caloni/blog/blob/master/content/posts/todo-dunno-original-post-source">
+     2012-02-15 00:00:00 &#43;0000
+     </a>
+  </p>
+  <a href="/categories/writting">writting</a> 
+  <a href="/tags/movies">movies</a> 
+  <a class="externalgray" href="https://t.me/paneloni">discuss</a>
+  <script type="text/javascript" src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js?sty=49&min=1&sta=0&uni=1&tz=America%2FSao_Paulo&ro=0"></script><noscript id="LTF_hitcounter"><a href="https://livetrafficfeed.com/hit-counter">Hit Counter</a></noscript>
+  </div>
+  </div>
+  </body>
+  </html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Blogue do Caloni - 2 Coelhos</title>
+  <meta name="author" content="" />
+  <meta name="generator" content="Hugo 0.110.0">
+  <meta property="og:title" content="2 Coelhos"/>
+  <meta property="og:type"
+        content="article"/>
+  <meta property="og:url" content="http://www.caloni.com.br/todo-put-original-title-slug/"/>
+  <meta property="og:image"
+        content="/img/author.jpg"/>
+  <meta property="og:description"
+        content="Uma montagem impec�vel consegue dar o tom da narrativa do complexo 2 Coelhos. Al�m de complexo, existem pequenos detalhes da trama que for�am um pouco a realidade (como a uni�o entre o protagonista e..."/>
+  <link href="" rel="feed" type="application/rss+xml"
+        title="Blogue do Caloni"/>
+  <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/board-min.css"/>
+  <script src="/js/jquery-1.10.2.js"></script>
+  <script src="/js/jquery-ui.js"></script>
+  <script src="/js/pgnyui.js"></script>
+  <script src="/js/pgnviewer.js"></script>
+  <script src="/js/list.js"></script>
+  <link rel="icon" href="/img/favicon.ico"/>
+</head>
+<body style="min-height:100vh;display:flex;flex-direction:column">
+  <nav class="navbar has-shadow is-white"
+        role="navigation" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+  <pre><span style="font-size: 3px; margin: 0; display: block;">
+&amp;*/. .*%@@@@@@@@@@@@&amp;/    , &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@#,*@@@@%,*&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@./@.(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@**#./((,*, *./((*,#,&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@.#@@%&amp;@@* (@@%&amp;@@/#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@,#@@&amp;&amp;@@, (@@&amp;&amp;@@*#@@@@@@@@@@@@@#/,,.         ..,/#&amp;@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@&amp;, .//      .//  .%@@@@@@&amp;#.  .,****.,*************,.  .(&amp;@@@@@@@@@@@@@@@@@
+@@@*                     ,@/  .**,,,*********,   ,***,   ****    *@@@@@@@@@@@@@@
+@#                         ,***      .******       ,***,*****,      *&amp;@@@@@@@@@@
+&amp;                           ,**      .******.     .******************  (@@@@@@@@
+                             ****..,*************************,    ,***   (@@@@@@
+@@@@#,,,,,,,,,,,,,,,,,,,,*********,   ,**************,  .***,      .**. .  %@@@@
+@@@@%                   .***,.,****,.,***,     ,****      ***.     ,******, /@@@
+@@@@@&amp;.                ,**       *******,       *****,  .******************, *@@
+@@@@@@@&amp;,            ,****      .********,.   .*************,  ,*****,    ,** /@
+@@@@@@@@@@@@&amp;/ .****,    ************.   ****************************      **. #
+@@@@@@@@@@@@@, *****,    ,***********    .******,   ,****.   .*****,***,,***** ,
+@@@@@@@@@@@@&amp;..**************,  ,***********************       ,*,    ********..
+@@@@@@@@@@@@&amp; ,**.    ,******.  .*******.    .**********,     .**********. .**, 
+@@@@@@@@@@@@% ,*       ,***************.      .*****************************,   
+@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#*@&amp;&amp;&amp;@*#&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@(.#@@@@(.#@@@@@@@@@@@@@@@@@@@@@#**@@@@(.#@@@@@@@@@@@
+  </span></pre>
+  &nbsp;
+  <a class="navbar-item" title="Go to Home" href="/">
+    <div class="is-6">Blogue do Caloni</div>
+  </a>
+  </div>
+  </div>
+  </nav>
+  <div class="container">
+  <p class="title">
+  <a class="external" href="https://www.caloni.com.br/todo-put-external-link-here">
+  Todo Put Post Title Here
+  </a>
+  </p>
+  <div class="content">
+<p>Vimos na [primeira parte] desse artigo como o if revolucionou o mundo da computação ao trazer um salto que depende de condições anteriores e, portanto, depende do estado do programa. A ele chamamos de salto condicional. Também vimos como o resto das construções lógicas de uma linguagem são apenas derivações montadas a partir de saltos condicionais e incondicionais. Nesta segunda parte veremos como implementar um saldo condicional baseando-se no fato de que o computador pode apenas realizar operações matemáticas. Afinal de contas, um computador não "pensa".</p>
+<p>Uma condição, item necessário para o funcionamento do salto condicional, nada mais é do que o conjunto de um cálculo matemático e o seu resultado, sendo o salto dependente desse resultado. Geralmente o resultado usado é uma flag, um indicador, definida pela arquitetura, como o armazenador de resultado para comparações de igualdade. Na plataforma 8086, por exemplo, as instruções que comparam memória definem uma flag chamada de Zero Flag (ZF) que é modificada sempre logo após executada uma instrução da categoria de comparações de valores.</p>
+<p>É comum nas arquitetura o resultado de uma comparação ser igual a zero se os elementos são iguais e diferente de zero se são diferentes. O resultado, então, denota a diferença entre as memórias comparadas, e se não há diferença o resultado é zero.</p>
+<p>Mas como de fato comparar? Aí é que reside a mágica das portas lógicas e operações booleanas. A comparação acima pode ser feita com uma porta lógica XOR, o OU-eXclusivo, por exemplo, e o resultado pode ser obtido e armazenado se a saída for conectada a um flip-flop (um flip-flop, ou multivibrador biestável, é um circuito de computador capaz de armazenar o valor de 1 bit, o necessário para o nosso salto). Vamos por partes.</p>
+<p>Uma porta lógica é uma série de circuitos que recebe uma ou mais entradas e que resulta em uma saída, sendo as entradas e a saída representadas pelo sinal 1 e 0. As portas lógicas costumam ser nomeadas pela sua função na lógica booleana. Dessa forma, uma porta AND, ou E, é uma porta em que a saída será 1 se todas as suas entradas forem 1, e 0 se pelo menos uma de suas entradas for 0.</p>
+<p>Um flip-flop é o circuito que é usado para armazenar os resultados das portas lógicas de forma que após ter sido alimentado o valor não se perde. É o bloco mais fundamental de memória de um computador. Ele não se esquece depois que as entradas foram zeradas e pode ser reiniciado quando novas entradas forem fornecidas. É a maneira de gravar dados temporários na memória RAM da placa-mãe ou na memória cache do processador.</p>
+<p>No final das contas, esse valor armazenado por um flip-flop é a flag ZF da arquitetura 8086. Se houver alguma diferença entre os valores, como foi o caso no exemplo acima, o valor final será o um invertido, ou seja, zero. Esse valor armazenado pode ser usado nas próximas instruções para realizar o salto, que dependerá do que estiver nessa flag. Dessa forma temos o nosso resultado realizado automaticamente através de um cálculo matemático.</p>
+<p>Um salto incondicional, como vimos na parte um, é um salto para um outro ponto no código que vai ser feito de qualquer forma. Pode ser uma instrução do processador saltar para um endereço definido em algum lugar da memória. O goto possui como destino o endereço X, sendo que X depende do que estiver em seu próprio endereço.</p>
+<p>Agora, para executar o salto condicional, precisamos não apenas de um, mas de dois endereços de destino, cada um deles com um endereço de memória. Podemos definir o primeiro endereço como o armazenador do salto se a condição for falsa, e o segundo endereço se a condição for verdadeira.</p>
+<p>Se os valores em memC e memD forem iguais a comparação feita na linha 003 deixará o ZF igual a 0 e portanto o comando jz (jump if zero, saltar se zero) irá realizar o salto para a linha 006, que é o endereço contido em memA. Caso contrário não será feito o salto, ou seja, a próxima instrução será a da linha 005, a mesma contida em memB.</p>
+<p>Agora você pode estar se perguntando por que existe o endereço em memB, já que se a condição for falsa o código simplesmente seguirá o fluxo normal. Bom, este memB é meramente figurativo, pois estou tentando demonstrar como não existe, de fato, uma "inteligência" na instrução de comparação que determine a igualdade de dois valores. Tudo se resume a circuitos realizando cálculos matemáticos.</p>
+<p>Para isso continue imaginando o memB sendo usado como o endereço a ser usado caso a condição falhe. Esse endereço está localizado logo após o memA na memória. Se memA estiver em 080, memB estará em 081.</p>
+<p>Dessa forma, para executar o salto baseado em um resultado de 0 ou 1 (o Zero Flag) só temos que alterar o endereço da próxima instrução para o valor do endereço de comparação mais o valor de ZF, que pode ser 1 ou 0. Se for 0 será o próprio endereço da condição (memA), mas se for 1 será esse endereço mais 1 (ZF), ou seja, memB.</p>
+<p>Lembre-se que essa é apenas uma demonstração de como pode funcionar um salto condicional através de cálculos matemáticos. De maneira alguma estou afirmando que é feito dessa forma. Aliás, existem inúmeras formas de realizar esse salto. Uma segunda solução seria adicionar a defasagem (offset) entre o endereço da próxima instrução e o endereço do salto. Meu objetivo foi apenas ilustrar que, dado um problema, pode haver várias soluções. Talvez mais para a frente veremos como é implementado um if em assembly, subindo mais um nível de abstração. Por enquanto estamos apenas trabalhando no nível filosófico. O mais importante de todos.</p>
+<p>[primeira parte]: {{< relref "a-inteligencia-do-if-parte-1" >}}</p>
+</div>
+  <div class="taglist">
+  <p class="author">Wanderley Caloni,
+     <a href="https://github.com/Caloni/blog/blob/master/content/posts/todo-dunno-original-post-source">
+     2012-02-15 00:00:00 &#43;0000
+     </a>
+  </p>
+  <a href="/categories/writting">writting</a> 
+  <a href="/tags/movies">movies</a> 
+  <a class="externalgray" href="https://t.me/paneloni">discuss</a>
+  <script type="text/javascript" src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js?sty=49&min=1&sta=0&uni=1&tz=America%2FSao_Paulo&ro=0"></script><noscript id="LTF_hitcounter"><a href="https://livetrafficfeed.com/hit-counter">Hit Counter</a></noscript>
+  </div>
+  </div>
+  </body>
+  </html>

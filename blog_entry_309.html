@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Blogue do Caloni - 2 Coelhos</title>
+  <meta name="author" content="" />
+  <meta name="generator" content="Hugo 0.110.0">
+  <meta property="og:title" content="2 Coelhos"/>
+  <meta property="og:type"
+        content="article"/>
+  <meta property="og:url" content="http://www.caloni.com.br/todo-put-original-title-slug/"/>
+  <meta property="og:image"
+        content="/img/author.jpg"/>
+  <meta property="og:description"
+        content="Uma montagem impec�vel consegue dar o tom da narrativa do complexo 2 Coelhos. Al�m de complexo, existem pequenos detalhes da trama que for�am um pouco a realidade (como a uni�o entre o protagonista e..."/>
+  <link href="" rel="feed" type="application/rss+xml"
+        title="Blogue do Caloni"/>
+  <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/board-min.css"/>
+  <script src="/js/jquery-1.10.2.js"></script>
+  <script src="/js/jquery-ui.js"></script>
+  <script src="/js/pgnyui.js"></script>
+  <script src="/js/pgnviewer.js"></script>
+  <script src="/js/list.js"></script>
+  <link rel="icon" href="/img/favicon.ico"/>
+</head>
+<body style="min-height:100vh;display:flex;flex-direction:column">
+  <nav class="navbar has-shadow is-white"
+        role="navigation" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+  <pre><span style="font-size: 3px; margin: 0; display: block;">
+&amp;*/. .*%@@@@@@@@@@@@&amp;/    , &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@#,*@@@@%,*&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@./@.(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@**#./((,*, *./((*,#,&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@.#@@%&amp;@@* (@@%&amp;@@/#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@,#@@&amp;&amp;@@, (@@&amp;&amp;@@*#@@@@@@@@@@@@@#/,,.         ..,/#&amp;@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@&amp;, .//      .//  .%@@@@@@&amp;#.  .,****.,*************,.  .(&amp;@@@@@@@@@@@@@@@@@
+@@@*                     ,@/  .**,,,*********,   ,***,   ****    *@@@@@@@@@@@@@@
+@#                         ,***      .******       ,***,*****,      *&amp;@@@@@@@@@@
+&amp;                           ,**      .******.     .******************  (@@@@@@@@
+                             ****..,*************************,    ,***   (@@@@@@
+@@@@#,,,,,,,,,,,,,,,,,,,,*********,   ,**************,  .***,      .**. .  %@@@@
+@@@@%                   .***,.,****,.,***,     ,****      ***.     ,******, /@@@
+@@@@@&amp;.                ,**       *******,       *****,  .******************, *@@
+@@@@@@@&amp;,            ,****      .********,.   .*************,  ,*****,    ,** /@
+@@@@@@@@@@@@&amp;/ .****,    ************.   ****************************      **. #
+@@@@@@@@@@@@@, *****,    ,***********    .******,   ,****.   .*****,***,,***** ,
+@@@@@@@@@@@@&amp;..**************,  ,***********************       ,*,    ********..
+@@@@@@@@@@@@&amp; ,**.    ,******.  .*******.    .**********,     .**********. .**, 
+@@@@@@@@@@@@% ,*       ,***************.      .*****************************,   
+@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#*@&amp;&amp;&amp;@*#&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@(.#@@@@(.#@@@@@@@@@@@@@@@@@@@@@#**@@@@(.#@@@@@@@@@@@
+  </span></pre>
+  &nbsp;
+  <a class="navbar-item" title="Go to Home" href="/">
+    <div class="is-6">Blogue do Caloni</div>
+  </a>
+  </div>
+  </div>
+  </nav>
+  <div class="container">
+  <p class="title">
+  <a class="external" href="https://www.caloni.com.br/todo-put-external-link-here">
+  Todo Put Post Title Here
+  </a>
+  </p>
+  <div class="content">
+<p>Como muitos devem saber, acessar memória virtual no WinDbg é coisa de criança, assim como em todo depurador decente. Se estamos falando de kernel mode então, nem se fala! A memória virtual é parte integrante do sistema operacional. Podemos saber mais sobre isso na apresentação do Strauss sobre [gerenciamento de memória no Windows].</p>
+<p>Porém, existem situações, como a que passei essa semana, onde é preciso saber e alterar o conteúdo da memória de verdade, mesmo. Quando eu falo "de verdade mesmo" estou falando em acessar a memória através do seu endereçamento real, que conta do zero até o final da sua memória RAM, sem divisão de processos e sem proteções de acesso.</p>
+<p>Para isso é que serve um depurador de verdade, mesmo.</p>
+<p>No modo real, onde vivem sistemas como o MS-DOS e programas como o Turbo C, a memória é acessada através do par de coordenadas conhecido como segmento e offset. Entre outros motivos, isso acontece porque em um determinado momento da história o 8086 possuía 16 bits em seus registradores, mas conseguia endereçar até 640 quilobytes, o que resulta em 640 vezes 1024, ou seja, 655366 bytes, um número dez vezes maior do que 65536 mil, ou 2 elevado a 16, o maior número representado por 16 bits.</p>
+<p>Dessa forma, foi necessário o uso de mais 4 bits para fazer a coisa funcionar, pois como podemos notar logo abaixo, a representação do último byte de 640 KB exige isso:</p>
+<p>Para conseguir esses 4 bits adicionais foram usados dois registradores em conjunto, o segmento e o offset. Funciona assim: o segmento é multiplicado por 16 (ou deslocado 4 bits à esquerda) e logo depois é somado com o offset, resultando no endereçamento desejado:</p>
+<p>Ou seja, para acessar o byte de número 595764, ou 0x91734 podemos usar o segmento 0x9022 com o offset 0x1514. A soma desses dois com o segmento deslocado irá resultado no endereço flag, ou seja, aquele que obtemos se contarmos a memória do zero até o final da RAM. Importante lembrar que na época a RAM não costumava ser de valores como 2GB ou até 4GB, mas em KB mesmo. Isso explica a limitação do 8086 em endereçar até 640 KB.</p>
+<p>Se nós repararmos bem, veremos que esse método implica em conseguirmos acessar o mesmo byte com um conjunto de segmentos e offsets diferentes, já que a soma pode ser resultado de operandos diversos. Esse é o chamado efeito de overlapping da memória segmentada, onde os programadores em assembly daquela época tinham que tomar alguns cuidados básicos para não atravessar a memória dos outros. No nosso exemplo acima, por exemplo, seria bem mais fácil chamar nosso bytezinho de segmento 0x9000, offset 0x1734.</p>
+<p>É verdade! Então, o WinDbg possui alguns comandos extendidos e formas de representar essa memória real, atualmente limitada não mais em 640 KB, mas até onde seus pentes de RAM agüentarem. Os mais comuns são os que imitam os nossos conhecidos dumps de memória: db, dc, dd... Temos daí as extensões !db, !dc, !dd... (note a exclamação do início).</p>
+<p>Simples, assim. O sinal de # no início do dump de memória denota memória real.</p>
+<p>Infelizmente, o WinDbg não nos permite ler certas regiões da memória por conta do cacheamento feito pelo processador. Para permitir a leitura em todas as condições, existem  três flags que podem ser utilizados:</p>
+<p> - c lê da memória cacheada</p>
+<p> - uc lê da memória não-cacheada</p>
+<p> - wc lê da memória de escrita combinada</p>
+<p>Nesse caso é possível, embora fique por sua conta e risco, ler qualquer memória não-cacheada usando-se a flag uc.</p>
+<p>É possível fazer mais brincadeiras usando os comandos comuns do WinDbg e uma notação diferente da memória. No entanto, é preciso tomar alguns cuidados quando mexer com isso. É recomendado o uso de uma máquina-vítima para esses testes, e não depuração local como estou fazendo.</p>
+<p>É isso aí. Não espero que você use muitas vezes essa forma de acessar memória. Só que eu usei e... nunca se sabe =)</p>
+<p>[gerenciamento de memória no Windows]: http://www.1bit.com.br/downloads/por_dentro_do_windows_memoria.pdf</p>
+</div>
+  <div class="taglist">
+  <p class="author">Wanderley Caloni,
+     <a href="https://github.com/Caloni/blog/blob/master/content/posts/todo-dunno-original-post-source">
+     2012-02-15 00:00:00 &#43;0000
+     </a>
+  </p>
+  <a href="/categories/writting">writting</a> 
+  <a href="/tags/movies">movies</a> 
+  <a class="externalgray" href="https://t.me/paneloni">discuss</a>
+  <script type="text/javascript" src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js?sty=49&min=1&sta=0&uni=1&tz=America%2FSao_Paulo&ro=0"></script><noscript id="LTF_hitcounter"><a href="https://livetrafficfeed.com/hit-counter">Hit Counter</a></noscript>
+  </div>
+  </div>
+  </body>
+  </html>

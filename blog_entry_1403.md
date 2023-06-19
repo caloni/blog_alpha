@@ -1,9 +1,0 @@
----
-
-Um Malbec tão tardio que um mês aberto na geladeira dá sinais de azedo.
-date: "2019-02-25"
-categories: [ "food" ]
-title: "El Porvenir Laborum Malbec Tardio"
----
-Safra 2016 mantém sabor do Malbec em solução aquosa e doce, além de oleosa e encorpada. Não é vinho com açúcar como os brasileiros baratos.
-

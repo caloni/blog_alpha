@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Blogue do Caloni - 2 Coelhos</title>
+  <meta name="author" content="" />
+  <meta name="generator" content="Hugo 0.110.0">
+  <meta property="og:title" content="2 Coelhos"/>
+  <meta property="og:type"
+        content="article"/>
+  <meta property="og:url" content="http://www.caloni.com.br/todo-put-original-title-slug/"/>
+  <meta property="og:image"
+        content="/img/author.jpg"/>
+  <meta property="og:description"
+        content="Uma montagem impec�vel consegue dar o tom da narrativa do complexo 2 Coelhos. Al�m de complexo, existem pequenos detalhes da trama que for�am um pouco a realidade (como a uni�o entre o protagonista e..."/>
+  <link href="" rel="feed" type="application/rss+xml"
+        title="Blogue do Caloni"/>
+  <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/board-min.css"/>
+  <script src="/js/jquery-1.10.2.js"></script>
+  <script src="/js/jquery-ui.js"></script>
+  <script src="/js/pgnyui.js"></script>
+  <script src="/js/pgnviewer.js"></script>
+  <script src="/js/list.js"></script>
+  <link rel="icon" href="/img/favicon.ico"/>
+</head>
+<body style="min-height:100vh;display:flex;flex-direction:column">
+  <nav class="navbar has-shadow is-white"
+        role="navigation" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+  <pre><span style="font-size: 3px; margin: 0; display: block;">
+&amp;*/. .*%@@@@@@@@@@@@&amp;/    , &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@#,*@@@@%,*&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@./@.(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@**#./((,*, *./((*,#,&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@.#@@%&amp;@@* (@@%&amp;@@/#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@,#@@&amp;&amp;@@, (@@&amp;&amp;@@*#@@@@@@@@@@@@@#/,,.         ..,/#&amp;@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@&amp;, .//      .//  .%@@@@@@&amp;#.  .,****.,*************,.  .(&amp;@@@@@@@@@@@@@@@@@
+@@@*                     ,@/  .**,,,*********,   ,***,   ****    *@@@@@@@@@@@@@@
+@#                         ,***      .******       ,***,*****,      *&amp;@@@@@@@@@@
+&amp;                           ,**      .******.     .******************  (@@@@@@@@
+                             ****..,*************************,    ,***   (@@@@@@
+@@@@#,,,,,,,,,,,,,,,,,,,,*********,   ,**************,  .***,      .**. .  %@@@@
+@@@@%                   .***,.,****,.,***,     ,****      ***.     ,******, /@@@
+@@@@@&amp;.                ,**       *******,       *****,  .******************, *@@
+@@@@@@@&amp;,            ,****      .********,.   .*************,  ,*****,    ,** /@
+@@@@@@@@@@@@&amp;/ .****,    ************.   ****************************      **. #
+@@@@@@@@@@@@@, *****,    ,***********    .******,   ,****.   .*****,***,,***** ,
+@@@@@@@@@@@@&amp;..**************,  ,***********************       ,*,    ********..
+@@@@@@@@@@@@&amp; ,**.    ,******.  .*******.    .**********,     .**********. .**, 
+@@@@@@@@@@@@% ,*       ,***************.      .*****************************,   
+@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#*@&amp;&amp;&amp;@*#&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@(.#@@@@(.#@@@@@@@@@@@@@@@@@@@@@#**@@@@(.#@@@@@@@@@@@
+  </span></pre>
+  &nbsp;
+  <a class="navbar-item" title="Go to Home" href="/">
+    <div class="is-6">Blogue do Caloni</div>
+  </a>
+  </div>
+  </div>
+  </nav>
+  <div class="container">
+  <p class="title">
+  <a class="external" href="https://www.caloni.com.br/todo-put-external-link-here">
+  Todo Put Post Title Here
+  </a>
+  </p>
+  <div class="content">
+<p>Depois de um mês de correção e mais um ou dois meses preparando um compilado do que ocorreu no software que estamos mantendo, foi descoberta uma situação muito peculiar que ocorre tanto em Windows XP quanto no Windows 10, mas que no 10 tem uma correção bem-educada e no XP... bom, nem tanto.</p>
+<p>```</p>
+<p>// pseudocode</p>
+<p>void Acceptor::doAccept()</p>
+<p>```</p>
+<p>Nas entranhas do Boost.Asio na implementação para Windows o accept utiliza a API AcceptEx, que já cria o socket cliente antes mesmo da conexão ser fechada. Se trata de uma operação de IO assíncrono como os que tem no Windows: faz tudo que é necessário fazer e é responsabilidade do programa verificar se houve IO (de maneira síncrona ou assíncrona). No caso do Asio a maneira de verificar é via checagem do handle de completion durante os momentos de idle do **io_service**.</p>
+<p>```</p>
+<p>BOOL AcceptEx(</p>
+<p>```</p>
+<p>Quando há uma nova conexão o método createProcessGetOutputAndSendBack lê dados do socket cliente como um comando a ser executado e utiliza a API CreateProcess passando esse comando. A saída desse processo criado é capturada via saída-padrão. Para isso é usada a flag de herança de handles e handles de arquivos (poderiam ser pipes) são usados para enviar entrada, capturar saída, etc.</p>
+<p>```</p>
+<p>BOOL CreateProcessA(</p>
+<p>// usando flags de uso de entrada/saída padrão</p>
+<p>STARTUPINFO si = { sizeof(si) };</p>
+<p>si.dwFlags = STARTF_USESTDHANDLES;</p>
+<p>si.hStdInput = CreateFileA(inputTempFilePath, GENERIC_READ, 0, &sa, OPEN_EXISTING, 0, NULL);</p>
+<p>si.hStdOutput = CreateFileA(outputTempFilePath, GENERIC_WRITE, FILE_SHARE_READ, &sa, CREATE_ALWAYS, 0, NULL);</p>
+<p>si.hStdError = si.hStdOutput;</p>
+<p>```</p>
+<p>Após o término do processo a saída estará no arquivo aberto em si.hStdOutput. Basta abri-lo para leitura e enviar seu conteúdo via socket para o cliente. O trabalho dessa conexão termina por aí.</p>
+<p>## O Bug</p>
+<p>```</p>
+<p>ClientSocket = socket(result->ai_family, result->ai_socktype, result->ai_protocol);</p>
+<p>```</p>
+<p>Esses dois sockets são herdáveis por default (implementação da função socket) e são representados pelos handles listados no Process Explorer como já visto, pelo nome "\Device\Afd". O contador de handles é aumentado a partir da criação do processo-filho e esses dois handles aparecem em ambos os processos.</p>
+<p>{{< image src="3LV7k8G.png" caption="" >}}</p>
+<p>{{< image src="S7qT3Sd.png" caption="" >}}</p>
+<p>Até aí tudo bem. O problema na verdade ocorre no segundo request enviado quando o primeiro request não terminou (e.g. o primeiro request é um notepad.exe que irá demorar e o segundo request um "cmd /c dir", que executa e já volta com a saída). Nessa situação todos os sockets criados até aqui -- incluindo o cliente do primeiro request -- são herdados para o segundo processo-filho, e por questões que estão além do escopo desse estudo, mas que poderão ser verificados ao se analistar os drivers das camadas de TDI do Windows (kernel mode), o send da saída do segundo request para o socket cliente fica travado até a saída do primeiro processo-filho, onde ocorre dos handles serem fechados.</p>
+<p>É uma situação complexa, que depende de várias variáveis, mas ela ocorre, se todas as variáveis ocorrerem ao mesmo tempo. Um resumo:</p>
+<p> - Criação do socket cliente com a função socket.</p>
+<p> - Uso do AcceptEx para aceitar conexões.</p>
+<p> - Criação de process-filho com flag de herança de handles habilitada.</p>
+<p> - Processo-filho do primeiro request ainda em execução.</p>
+<p> - Recebimento do segundo request e criação do segundo processo-filho.</p>
+<p> - Escrita no socket cliente do segundo request enquanto o primeiro request ainda não foi finalizado.</p>
+<p> - **BUG**: Cliente do segundo request não recebe sua resposta.</p>
+<p> - **RESULTADO ESPERADO**: Que o cliente do primeiro request não interferisse no segundo.</p>
+<p> - Detalhe: Cliente do segundo requeste recebe eventualmente sua resposta após o primeiro request terminar.</p>
+<p>## Solução #1 (Windows Vista ou superior): InitializeProcThreadAttributeList e UpdateProcThreadAttribute</p>
+<p>## Solução #2 (Windows XP): Ad Hoc</p>
+<p>As API InitializeProcThreadAttributeList e UpdateProcThreadAttribute não existem no Windows XP, o que quer dizer que isso exige uma segunda solução, que eu considerei antes de achar a terceira solução que teria que ser ad hoc: criar um processo-neto, sendo que o filho não receberá os handles herdados, mas irá criar o neto herdando os arquivos de entrada e saída padrão, enviando a saída de volta por um método à parte (ex: usando o nome de um arquivo em comum).</p>
+<p>## Solução #3 (~~todos~~ Windows): WSASocketW com WSA_FLAG_NO_HANDLE_INHERIT (leia update abaixo)</p>
+<p>**Update (2019-01-07)**: Na verdade a flag de não-herança do socket só passou a existir no Windows 7 com SP1, o que inviabiliza essa solução para Windows Vista e XP, como previamente foi dito.</p>
+<p>{{< image src="FUrSKg2.png" caption="" >}}</p>
+<p>## Solução #4: Boost.Asio</p>
+<p>Essas correções dizem respeito ao sample de uso do winsock como modelo server/client da própria Microsoft. Ele foi modificado para meus testes internos apenas.</p>
+<p>Já para o Boost.Asio será necessário um estudo de impacto e o envio de uma proposta de correção (ou uso de um patch em que a criação do socket cliente deve ser feita sem herança). Isso pode potencialmente quebrar o funcionamento de outros tipos de programas que dependem direta ou indiretamente da herança de todos os sockets, ou talvez o Boost.Asio tenha uma maneira educada de entregar o controle da criação de sockets dependente de implementação. Eu não sei. Este é um próximo passo da pesquisa.</p>
+<p>**Update (2019-01-07)**: Embora use a função WSASocketW o Boost.Asio não suporta a parametrização das flags, e sua implementação não é sobrecarregável, fazendo parte do namespace socket_opt. Foi criado [um issue](https://github.com/boostorg/asio/issues/190) no GitHub do projeto Boost.Asio para ver os comentários e colocações da equipe. No aguardo.</p>
+</div>
+  <div class="taglist">
+  <p class="author">Wanderley Caloni,
+     <a href="https://github.com/Caloni/blog/blob/master/content/posts/todo-dunno-original-post-source">
+     2012-02-15 00:00:00 &#43;0000
+     </a>
+  </p>
+  <a href="/categories/writting">writting</a> 
+  <a href="/tags/movies">movies</a> 
+  <a class="externalgray" href="https://t.me/paneloni">discuss</a>
+  <script type="text/javascript" src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js?sty=49&min=1&sta=0&uni=1&tz=America%2FSao_Paulo&ro=0"></script><noscript id="LTF_hitcounter"><a href="https://livetrafficfeed.com/hit-counter">Hit Counter</a></noscript>
+  </div>
+  </div>
+  </body>
+  </html>

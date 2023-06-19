@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Blogue do Caloni - 2 Coelhos</title>
+  <meta name="author" content="" />
+  <meta name="generator" content="Hugo 0.110.0">
+  <meta property="og:title" content="2 Coelhos"/>
+  <meta property="og:type"
+        content="article"/>
+  <meta property="og:url" content="http://www.caloni.com.br/todo-put-original-title-slug/"/>
+  <meta property="og:image"
+        content="/img/author.jpg"/>
+  <meta property="og:description"
+        content="Uma montagem impec�vel consegue dar o tom da narrativa do complexo 2 Coelhos. Al�m de complexo, existem pequenos detalhes da trama que for�am um pouco a realidade (como a uni�o entre o protagonista e..."/>
+  <link href="" rel="feed" type="application/rss+xml"
+        title="Blogue do Caloni"/>
+  <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/board-min.css"/>
+  <script src="/js/jquery-1.10.2.js"></script>
+  <script src="/js/jquery-ui.js"></script>
+  <script src="/js/pgnyui.js"></script>
+  <script src="/js/pgnviewer.js"></script>
+  <script src="/js/list.js"></script>
+  <link rel="icon" href="/img/favicon.ico"/>
+</head>
+<body style="min-height:100vh;display:flex;flex-direction:column">
+  <nav class="navbar has-shadow is-white"
+        role="navigation" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+  <pre><span style="font-size: 3px; margin: 0; display: block;">
+&amp;*/. .*%@@@@@@@@@@@@&amp;/    , &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@#,*@@@@%,*&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@./@.(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@**#./((,*, *./((*,#,&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@.#@@%&amp;@@* (@@%&amp;@@/#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@,#@@&amp;&amp;@@, (@@&amp;&amp;@@*#@@@@@@@@@@@@@#/,,.         ..,/#&amp;@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@&amp;, .//      .//  .%@@@@@@&amp;#.  .,****.,*************,.  .(&amp;@@@@@@@@@@@@@@@@@
+@@@*                     ,@/  .**,,,*********,   ,***,   ****    *@@@@@@@@@@@@@@
+@#                         ,***      .******       ,***,*****,      *&amp;@@@@@@@@@@
+&amp;                           ,**      .******.     .******************  (@@@@@@@@
+                             ****..,*************************,    ,***   (@@@@@@
+@@@@#,,,,,,,,,,,,,,,,,,,,*********,   ,**************,  .***,      .**. .  %@@@@
+@@@@%                   .***,.,****,.,***,     ,****      ***.     ,******, /@@@
+@@@@@&amp;.                ,**       *******,       *****,  .******************, *@@
+@@@@@@@&amp;,            ,****      .********,.   .*************,  ,*****,    ,** /@
+@@@@@@@@@@@@&amp;/ .****,    ************.   ****************************      **. #
+@@@@@@@@@@@@@, *****,    ,***********    .******,   ,****.   .*****,***,,***** ,
+@@@@@@@@@@@@&amp;..**************,  ,***********************       ,*,    ********..
+@@@@@@@@@@@@&amp; ,**.    ,******.  .*******.    .**********,     .**********. .**, 
+@@@@@@@@@@@@% ,*       ,***************.      .*****************************,   
+@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#*@&amp;&amp;&amp;@*#&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@(.#@@@@(.#@@@@@@@@@@@@@@@@@@@@@#**@@@@(.#@@@@@@@@@@@
+  </span></pre>
+  &nbsp;
+  <a class="navbar-item" title="Go to Home" href="/">
+    <div class="is-6">Blogue do Caloni</div>
+  </a>
+  </div>
+  </div>
+  </nav>
+  <div class="container">
+  <p class="title">
+  <a class="external" href="https://www.caloni.com.br/todo-put-external-link-here">
+  Todo Put Post Title Here
+  </a>
+  </p>
+  <div class="content">
+<p>Finalmente chegamos em um ponto onde podemos usar o WinDbg.</p>
+<p>Podemos espetar o depurador e fazê-lo parar assim que conectado. Se estiver rodando antes do próprio sistema operacional, teremos um sistema sem processos e sem threads, pois ele irá parar assim que o executivo puder enviar o sinal de início pela porta serial, após carregar na memória os módulos básicos.</p>
+<p>Todos os módulos carregados antes dessa fase são os drivers que tiveram seu Start definido em zero no registro. Todos os programadores que desenvolvem esses drivers gostariam de um dia poder usar o WinDbg. Mas não podem. Quem inicia a comunicação serial com o depurador é o kernel, que só recebe o controle do ntldr depois que os drivers básicos foram carregados.</p>
+<p>Brincadeira. É claro que esses programadores usam o WinDbg, usam [até demais](http://www.driverentry.com.br/blog/2007/07/bug-em-meu-driver-de-boot-j-posso.html). Mas só a partir desse ponto. Se algum problema evitar que o sistema chegue nessa fase, o desenvolvedor terá que usar métodos alternativos de depuração, como [teste de mesa](http://br.answers.yahoo.com/question/index?qid=20090203065437AAYWuPo) (risos incontroláveis).</p>
+<p>De qualquer forma, estamos aí. Agora podemos depurar a criação de qualquer thread, qualquer processo, o carregamento de qualquer módulo, e a chamada a qualquer função do kernel.</p>
+<p>Para depurar a criação de qualquer thread: coloque um breakpoint na função **PsCreateSystemThread**.</p>
+<p>Para depurar a criação de qualquer processo: coloque um breakpoint na função **PspCreateProcess**, logo no começo. Será possível capturar a criação do processo System, o processo onde roda a primeira thread do kernel, que inicializa o resto dos componentes.</p>
+<p>É nesse momento que percebemos que um processo, uma thread, um qualquer-coisa dentro do kernel não é nada mais nada menos que **um item em uma lista**. Quase tudo no kernel será um item numa lista com um monte de ponteiros referenciando outras estruturas. É isso que mantém a lógica e a coerência no sistema inteiro. Tudo isso é basicamente software, construído como castelos no ar.</p>
+<p><blockquote>_Nota: Apesar de parecer contraditório, algumas partes do kernel são de fato implementadas em user mode. Os motivos podem variar, mas geralmente são maior segurança (código que não precisa rodar em um ring privilegiado) e desempenho (código que não precisa de muita prioridade)._</blockquote></p>
+<p>Como podemos ver, isso é muito divertido e muito extenso. Poderíamos ir para qualquer lado da evolução do boot. Talvez em artigos futuros daremos uma olhada no processo de logon de um usuário, o que nos obrigaria a ter uma leve noção de como o Windows autentica e autoriza as pessoas. ou talvez daremos uma passadinha no sistema de escalonamento de threads do kernel, um assunto pra lá de complicado e esotérico.</p>
+<p><blockquote>_Nota: Eu pessoalmente recomendo acompanhar o processo de boot descrito por Russinovich e depurar passo-a-passo um boot de verdade. Serão horas e mais horas de puro conhecimento empírico catalogado em seu cérebro-depurador._</blockquote></p>
+<p>Então até lá. Com licença que eu preciso ver a criação do System mais uma vez.</p>
+</div>
+  <div class="taglist">
+  <p class="author">Wanderley Caloni,
+     <a href="https://github.com/Caloni/blog/blob/master/content/posts/todo-dunno-original-post-source">
+     2012-02-15 00:00:00 &#43;0000
+     </a>
+  </p>
+  <a href="/categories/writting">writting</a> 
+  <a href="/tags/movies">movies</a> 
+  <a class="externalgray" href="https://t.me/paneloni">discuss</a>
+  <script type="text/javascript" src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js?sty=49&min=1&sta=0&uni=1&tz=America%2FSao_Paulo&ro=0"></script><noscript id="LTF_hitcounter"><a href="https://livetrafficfeed.com/hit-counter">Hit Counter</a></noscript>
+  </div>
+  </div>
+  </body>
+  </html>

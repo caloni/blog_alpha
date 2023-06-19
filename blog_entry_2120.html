@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Blogue do Caloni - 2 Coelhos</title>
+  <meta name="author" content="" />
+  <meta name="generator" content="Hugo 0.110.0">
+  <meta property="og:title" content="2 Coelhos"/>
+  <meta property="og:type"
+        content="article"/>
+  <meta property="og:url" content="http://www.caloni.com.br/todo-put-original-title-slug/"/>
+  <meta property="og:image"
+        content="/img/author.jpg"/>
+  <meta property="og:description"
+        content="Uma montagem impec�vel consegue dar o tom da narrativa do complexo 2 Coelhos. Al�m de complexo, existem pequenos detalhes da trama que for�am um pouco a realidade (como a uni�o entre o protagonista e..."/>
+  <link href="" rel="feed" type="application/rss+xml"
+        title="Blogue do Caloni"/>
+  <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/board-min.css"/>
+  <script src="/js/jquery-1.10.2.js"></script>
+  <script src="/js/jquery-ui.js"></script>
+  <script src="/js/pgnyui.js"></script>
+  <script src="/js/pgnviewer.js"></script>
+  <script src="/js/list.js"></script>
+  <link rel="icon" href="/img/favicon.ico"/>
+</head>
+<body style="min-height:100vh;display:flex;flex-direction:column">
+  <nav class="navbar has-shadow is-white"
+        role="navigation" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+  <pre><span style="font-size: 3px; margin: 0; display: block;">
+&amp;*/. .*%@@@@@@@@@@@@&amp;/    , &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@#,*@@@@%,*&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@./@.(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@**#./((,*, *./((*,#,&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@.#@@%&amp;@@* (@@%&amp;@@/#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@,#@@&amp;&amp;@@, (@@&amp;&amp;@@*#@@@@@@@@@@@@@#/,,.         ..,/#&amp;@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@&amp;, .//      .//  .%@@@@@@&amp;#.  .,****.,*************,.  .(&amp;@@@@@@@@@@@@@@@@@
+@@@*                     ,@/  .**,,,*********,   ,***,   ****    *@@@@@@@@@@@@@@
+@#                         ,***      .******       ,***,*****,      *&amp;@@@@@@@@@@
+&amp;                           ,**      .******.     .******************  (@@@@@@@@
+                             ****..,*************************,    ,***   (@@@@@@
+@@@@#,,,,,,,,,,,,,,,,,,,,*********,   ,**************,  .***,      .**. .  %@@@@
+@@@@%                   .***,.,****,.,***,     ,****      ***.     ,******, /@@@
+@@@@@&amp;.                ,**       *******,       *****,  .******************, *@@
+@@@@@@@&amp;,            ,****      .********,.   .*************,  ,*****,    ,** /@
+@@@@@@@@@@@@&amp;/ .****,    ************.   ****************************      **. #
+@@@@@@@@@@@@@, *****,    ,***********    .******,   ,****.   .*****,***,,***** ,
+@@@@@@@@@@@@&amp;..**************,  ,***********************       ,*,    ********..
+@@@@@@@@@@@@&amp; ,**.    ,******.  .*******.    .**********,     .**********. .**, 
+@@@@@@@@@@@@% ,*       ,***************.      .*****************************,   
+@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#*@&amp;&amp;&amp;@*#&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@(.#@@@@(.#@@@@@@@@@@@@@@@@@@@@@#**@@@@(.#@@@@@@@@@@@
+  </span></pre>
+  &nbsp;
+  <a class="navbar-item" title="Go to Home" href="/">
+    <div class="is-6">Blogue do Caloni</div>
+  </a>
+  </div>
+  </div>
+  </nav>
+  <div class="container">
+  <p class="title">
+  <a class="external" href="https://www.caloni.com.br/todo-put-external-link-here">
+  Todo Put Post Title Here
+  </a>
+  </p>
+  <div class="content">
+<p>Já uso logs há muito tempo. Me lembro muito bem que quando programava em BASIC o "passou por aqui" já era útil. Depois de fazer muitas bibliotecas super-flexíveis de escrita em saídas diferentes, níveis configuráveis e uso do mais complexo ao mais banal, cheguei à seguinte conclusão:</p>
+<p>{{< image src="p9kH1LW.jpg" caption="" >}}</p>
+<p>### Log("Quero um log mais simples possível (de preferência ", 15, " vezes mais simples)");</p>
+<p>Vou tentar defender meu ponto de vista.</p>
+<p>Esse [artigo do Dr. Dobbs](http://www.drdobbs.com/cpp/a-lightweight-logger-for-c/240147505) explica de uma maneira bem completa como fazer uma lib de log leve e configurável. O que eu peguei desse exemplo foi a forma mais C++ de formatar as linhas, deixando para trás o estilão printf que depois de variadic templates já está datado.</p>
+<p>```</p>
+<p>#include <iostream></p>
+<p>#include <sstream></p>
+<p>inline void Log(std::ostringstream& os)</p>
+<p>	std::cout << os.str() << std::endl;</p>
+<p>template<typename First, typename...Rest ></p>
+<p>void Log(std::ostringstream& os, First parm1, Rest...parm)</p>
+<p>	os << parm1;</p>
+<p>	Log(os, parm...);</p>
+<p>template<typename...Rest ></p>
+<p>void Log(Rest...parm)</p>
+<p>	std::ostringstream os;</p>
+<p>	LogHeader(os);</p>
+<p>	Log(os, parm...);</p>
+<p>```</p>
+<p>Por que eu acho a minha versão mais legal (não valendo falar que foi porque eu fiz):</p>
+<p> - É mais simples ainda, tem poucas linhas e pode ser copiada sem peso na consciência. Pode até estar em um header que o overhead é mínimo.</p>
+<p> - Não requer configuração de arquivo, debug output, named pipe, etc. Isso tem a ver com o uso de cada um. O próximo motivo explica melhor isso.</p>
+<p> - Se for executado em um prompt já exibe as informações para serem filtradas; se for executado como um serviço encapsulo a saída.</p>
+<p>Encapsular a saída e o comportamento de um serviço hoje em dia é algo banal. Há diversos programas que fazem isso para você, sendo desnecessário programar toda aquela parte de comunicação com o Windows. O [cara do DriverEntry](http://driverentry.com.br/blog/?p=461) (vulgo o kernel-mode programmer motta-focka Fernando) fez um aplicativo que faz isso, que é simples de usar e continua funcionando no Windows 8.1. Atualmente uso um outro encontrado pelo igualmente fodástico [Rodrigo Strauss](https://nssm.cc/): o Non Sucking Service Manager (seu nome já explica por que defendo utilizar o mínimo possível das firulas da Microsoft).</p>
+<p>Além de ser extremamente flexível e não ter falhado nas vezes que o utilizei, o NSSM consegue redirecionar a saída do aplicativo que encapsula como um serviço para um arquivo e rotacionar o arquivo por tamanho ou data (ou reexecução do serviço):</p>
+<p>{{< image src="v12mGG3.png" caption="" >}}</p>
+<p>Abaixo uma receitinha básica para configurar seu aplicativo:</p>
+<p>```</p>
+<p>nssm.exe install MyService C:\Path\MyService.exe <args></p>
+<p>nssm set MyService AppStdout C:\Path\Logs\MyService.log</p>
+<p>nssm set MyService AppStderr C:\Path\Logs\MyService.log</p>
+<p>nssm set MyService AppRotateFiles 1</p>
+<p>nssm set MyService AppRotateOnline 1</p>
+<p>nssm set MyService AppRotateBytes 10485760</p>
+<p>```</p>
+<p>_(para quem está se perguntando, 10485760 bytes são 10 MB.)_</p>
+<p>Com essa forma de fazer serviços, há uma dupla vantagem:</p>
+<p> - Retirar todo o código para lidar com o Service Manager do Windows das suas mãos.</p>
+<p> - Continuar tendo um aplicativo que roda pelo prompt e já imprime seu comportamento (e pode ser redirecionado também).</p>
+<p> - Você pode executar programas-filho que o redirect para o log vai funcionar do mesmo jeito.</p>
+<p>### Bônus final</p>
+<p>Acho que cada um deve escrever no seu header o que achar melhor para depurar seus programas. No entanto, acho válido compartilhar quais são as informações que tem sido úteis para mim:</p>
+<p>```</p>
+<p>inline void LogHeader(std::ostringstream& os)</p>
+<p>	SYSTEMTIME st;</p>
+<p>	char buffer[48] = "";</p>
+<p>	GetLocalTime(&st);</p>
+<p>	sprintf_s(buffer, "%04d-%02d-%02d %02d:%02d:%02d %04X.%04X %08X ",</p>
+<p>		st.wYear, st.wMonth, st.wDay,</p>
+<p>		st.wHour, st.wMinute, st.wSecond,</p>
+<p>		GetCurrentProcessId() & 0xFFFF, GetCurrentThreadId() & 0xFFFF,</p>
+<p>		GetLastError());</p>
+<p>	os << buffer;</p>
+<p>```</p>
+</div>
+  <div class="taglist">
+  <p class="author">Wanderley Caloni,
+     <a href="https://github.com/Caloni/blog/blob/master/content/posts/todo-dunno-original-post-source">
+     2012-02-15 00:00:00 &#43;0000
+     </a>
+  </p>
+  <a href="/categories/writting">writting</a> 
+  <a href="/tags/movies">movies</a> 
+  <a class="externalgray" href="https://t.me/paneloni">discuss</a>
+  <script type="text/javascript" src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js?sty=49&min=1&sta=0&uni=1&tz=America%2FSao_Paulo&ro=0"></script><noscript id="LTF_hitcounter"><a href="https://livetrafficfeed.com/hit-counter">Hit Counter</a></noscript>
+  </div>
+  </div>
+  </body>
+  </html>

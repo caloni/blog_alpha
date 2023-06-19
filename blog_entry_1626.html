@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Blogue do Caloni - 2 Coelhos</title>
+  <meta name="author" content="" />
+  <meta name="generator" content="Hugo 0.110.0">
+  <meta property="og:title" content="2 Coelhos"/>
+  <meta property="og:type"
+        content="article"/>
+  <meta property="og:url" content="http://www.caloni.com.br/todo-put-original-title-slug/"/>
+  <meta property="og:image"
+        content="/img/author.jpg"/>
+  <meta property="og:description"
+        content="Uma montagem impec�vel consegue dar o tom da narrativa do complexo 2 Coelhos. Al�m de complexo, existem pequenos detalhes da trama que for�am um pouco a realidade (como a uni�o entre o protagonista e..."/>
+  <link href="" rel="feed" type="application/rss+xml"
+        title="Blogue do Caloni"/>
+  <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/board-min.css"/>
+  <script src="/js/jquery-1.10.2.js"></script>
+  <script src="/js/jquery-ui.js"></script>
+  <script src="/js/pgnyui.js"></script>
+  <script src="/js/pgnviewer.js"></script>
+  <script src="/js/list.js"></script>
+  <link rel="icon" href="/img/favicon.ico"/>
+</head>
+<body style="min-height:100vh;display:flex;flex-direction:column">
+  <nav class="navbar has-shadow is-white"
+        role="navigation" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+  <pre><span style="font-size: 3px; margin: 0; display: block;">
+&amp;*/. .*%@@@@@@@@@@@@&amp;/    , &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@#,*@@@@%,*&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@./@.(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@**#./((,*, *./((*,#,&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@.#@@%&amp;@@* (@@%&amp;@@/#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@,#@@&amp;&amp;@@, (@@&amp;&amp;@@*#@@@@@@@@@@@@@#/,,.         ..,/#&amp;@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@&amp;, .//      .//  .%@@@@@@&amp;#.  .,****.,*************,.  .(&amp;@@@@@@@@@@@@@@@@@
+@@@*                     ,@/  .**,,,*********,   ,***,   ****    *@@@@@@@@@@@@@@
+@#                         ,***      .******       ,***,*****,      *&amp;@@@@@@@@@@
+&amp;                           ,**      .******.     .******************  (@@@@@@@@
+                             ****..,*************************,    ,***   (@@@@@@
+@@@@#,,,,,,,,,,,,,,,,,,,,*********,   ,**************,  .***,      .**. .  %@@@@
+@@@@%                   .***,.,****,.,***,     ,****      ***.     ,******, /@@@
+@@@@@&amp;.                ,**       *******,       *****,  .******************, *@@
+@@@@@@@&amp;,            ,****      .********,.   .*************,  ,*****,    ,** /@
+@@@@@@@@@@@@&amp;/ .****,    ************.   ****************************      **. #
+@@@@@@@@@@@@@, *****,    ,***********    .******,   ,****.   .*****,***,,***** ,
+@@@@@@@@@@@@&amp;..**************,  ,***********************       ,*,    ********..
+@@@@@@@@@@@@&amp; ,**.    ,******.  .*******.    .**********,     .**********. .**, 
+@@@@@@@@@@@@% ,*       ,***************.      .*****************************,   
+@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#*@&amp;&amp;&amp;@*#&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@(.#@@@@(.#@@@@@@@@@@@@@@@@@@@@@#**@@@@(.#@@@@@@@@@@@
+  </span></pre>
+  &nbsp;
+  <a class="navbar-item" title="Go to Home" href="/">
+    <div class="is-6">Blogue do Caloni</div>
+  </a>
+  </div>
+  </div>
+  </nav>
+  <div class="container">
+  <p class="title">
+  <a class="external" href="https://www.caloni.com.br/todo-put-external-link-here">
+  Todo Put Post Title Here
+  </a>
+  </p>
+  <div class="content">
+<p>```</p>
+<p>python -m SimpleHTTPServer</p>
+<p>```</p>
+<p>Para que não seja necessário instalar o Python no servidor é possível transformar essa chamada em um executável e suas dependências standalone:</p>
+<p>```</p>
+<p>import SimpleHTTPServer</p>
+<p>import SocketServer</p>
+<p>PORT = 8000</p>
+<p>Handler = SimpleHTTPServer.SimpleHTTPRequestHandler</p>
+<p>httpd = SocketServer.TCPServer(("", PORT), Handler)</p>
+<p>print "serving at port", PORT</p>
+<p>httpd.serve_forever()</p>
+<p>```</p>
+<p>Esse script pode ser compilado pela ferramenta py2exe, instalável pelo próprio Python. É necessário criar um arquivo setup.py na mesma pasta do script e através desse script gerar uma pasta dist com o script "compilado" e pronto para ser executado.</p>
+<p>```</p>
+<p>from distutils.core import setup</p>
+<p>import py2exe</p>
+<p>setup(console=['fileserver.py'])</p>
+<p>```</p>
+<p>Pelo prompt de comando executar o seguinte comando que irá gerar a pasta dist:</p>
+<p>```</p>
+<p>python setup.py py2exe</p>
+<p>```</p>
+<p>Uma vez gerada a pasta, renomear para fileserver e copiar no servidor em qualquer lugar (ex: pasta-raiz). Executar de qualquer pasta que se deseja tornar acessível via browser ou qualquer cliente http:</p>
+<p>```</p>
+<p>cd c:\tools</p>
+<p>c:\fileserver\fileserver.exe</p>
+<p>```</p>
+<p>Para testar basta acessar o endereço via browser:</p>
+<p>{{< image src="hSnmzqv.png" caption="" >}}</p>
+<p>### Lado cliente</p>
+<p>Do lado cliente há ferramentas GNU como curl e wget para conseguir baixar rapidamente qualquer arquivo via HTTP. Para máquinas com Power Shell disponível há um comando que pode ser usado:</p>
+<p>```</p>
+<p>powershell wget http://127.0.0.1:8000/Procmon.exe -OutFile Procmon.exe</p>
+<p>```</p>
+<p>Porém, caso não seja possível usar o Power Shell o [pacote básico do wget do GnuWin32](http://gnuwin32.sourceforge.net/packages/wget.htm), de 2MB, já consegue realizar o download.</p>
+<p>```</p>
+<p>c:\Temp\bitforge\wget>dir</p>
+<p> Volume in drive C is SYSTEM</p>
+<p> Volume Serial Number is 5C08-36EE</p>
+<p> Directory of c:\Temp\bitforge\wget</p>
+<p>23/03/2017  13:25    <DIR>          .</p>
+<p>23/03/2017  13:25    <DIR>          ..</p>
+<p>03/09/2008  17:49         1.177.600 libeay32.dll</p>
+<p>14/03/2008  19:21         1.008.128 libiconv2.dll</p>
+<p>06/05/2005  16:52           103.424 libintl3.dll</p>
+<p>03/09/2008  17:49           232.960 libssl32.dll</p>
+<p>31/12/2008  11:03           449.024 wget.exe</p>
+<p>c:\Temp\bitforge\wget>wget http://127.0.0.1:8000/Procmon.exe</p>
+<p>SYSTEM_WGETRC = c:/progra~1/wget/etc/wgetrc</p>
+<p>syswgetrc = c:/progra~1/wget/etc/wgetrc</p>
+<p>--2017-03-23 13:44:13--  http://127.0.0.1:8000/Procmon.exe</p>
+<p>Connecting to 127.0.0.1:8000... connected.</p>
+<p>HTTP request sent, awaiting response... 200 OK</p>
+<p>Length: 2046608 (2,0M) [application/x-msdownload]</p>
+<p>Saving to: `Procmon.exe'</p>
+<p>100%[===================================================================================================================================>] 2.046.608   --.-K/s   in 0,006s</p>
+<p>2017-03-23 13:44:13 (348 MB/s) - `Procmon.exe' saved [2046608/2046608]</p>
+<p>c:\Temp\bitforge\wget></p>
+<p>```</p>
+</div>
+  <div class="taglist">
+  <p class="author">Wanderley Caloni,
+     <a href="https://github.com/Caloni/blog/blob/master/content/posts/todo-dunno-original-post-source">
+     2012-02-15 00:00:00 &#43;0000
+     </a>
+  </p>
+  <a href="/categories/writting">writting</a> 
+  <a href="/tags/movies">movies</a> 
+  <a class="externalgray" href="https://t.me/paneloni">discuss</a>
+  <script type="text/javascript" src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js?sty=49&min=1&sta=0&uni=1&tz=America%2FSao_Paulo&ro=0"></script><noscript id="LTF_hitcounter"><a href="https://livetrafficfeed.com/hit-counter">Hit Counter</a></noscript>
+  </div>
+  </div>
+  </body>
+  </html>

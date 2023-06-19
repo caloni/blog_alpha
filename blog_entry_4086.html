@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Blogue do Caloni - 2 Coelhos</title>
+  <meta name="author" content="" />
+  <meta name="generator" content="Hugo 0.110.0">
+  <meta property="og:title" content="2 Coelhos"/>
+  <meta property="og:type"
+        content="article"/>
+  <meta property="og:url" content="http://www.caloni.com.br/todo-put-original-title-slug/"/>
+  <meta property="og:image"
+        content="/img/author.jpg"/>
+  <meta property="og:description"
+        content="Uma montagem impec�vel consegue dar o tom da narrativa do complexo 2 Coelhos. Al�m de complexo, existem pequenos detalhes da trama que for�am um pouco a realidade (como a uni�o entre o protagonista e..."/>
+  <link href="" rel="feed" type="application/rss+xml"
+        title="Blogue do Caloni"/>
+  <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/board-min.css"/>
+  <script src="/js/jquery-1.10.2.js"></script>
+  <script src="/js/jquery-ui.js"></script>
+  <script src="/js/pgnyui.js"></script>
+  <script src="/js/pgnviewer.js"></script>
+  <script src="/js/list.js"></script>
+  <link rel="icon" href="/img/favicon.ico"/>
+</head>
+<body style="min-height:100vh;display:flex;flex-direction:column">
+  <nav class="navbar has-shadow is-white"
+        role="navigation" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+  <pre><span style="font-size: 3px; margin: 0; display: block;">
+&amp;*/. .*%@@@@@@@@@@@@&amp;/    , &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@#,*@@@@%,*&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@./@.(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@**#./((,*, *./((*,#,&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@.#@@%&amp;@@* (@@%&amp;@@/#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@,#@@&amp;&amp;@@, (@@&amp;&amp;@@*#@@@@@@@@@@@@@#/,,.         ..,/#&amp;@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@&amp;, .//      .//  .%@@@@@@&amp;#.  .,****.,*************,.  .(&amp;@@@@@@@@@@@@@@@@@
+@@@*                     ,@/  .**,,,*********,   ,***,   ****    *@@@@@@@@@@@@@@
+@#                         ,***      .******       ,***,*****,      *&amp;@@@@@@@@@@
+&amp;                           ,**      .******.     .******************  (@@@@@@@@
+                             ****..,*************************,    ,***   (@@@@@@
+@@@@#,,,,,,,,,,,,,,,,,,,,*********,   ,**************,  .***,      .**. .  %@@@@
+@@@@%                   .***,.,****,.,***,     ,****      ***.     ,******, /@@@
+@@@@@&amp;.                ,**       *******,       *****,  .******************, *@@
+@@@@@@@&amp;,            ,****      .********,.   .*************,  ,*****,    ,** /@
+@@@@@@@@@@@@&amp;/ .****,    ************.   ****************************      **. #
+@@@@@@@@@@@@@, *****,    ,***********    .******,   ,****.   .*****,***,,***** ,
+@@@@@@@@@@@@&amp;..**************,  ,***********************       ,*,    ********..
+@@@@@@@@@@@@&amp; ,**.    ,******.  .*******.    .**********,     .**********. .**, 
+@@@@@@@@@@@@% ,*       ,***************.      .*****************************,   
+@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#*@&amp;&amp;&amp;@*#&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@(.#@@@@(.#@@@@@@@@@@@@@@@@@@@@@#**@@@@(.#@@@@@@@@@@@
+  </span></pre>
+  &nbsp;
+  <a class="navbar-item" title="Go to Home" href="/">
+    <div class="is-6">Blogue do Caloni</div>
+  </a>
+  </div>
+  </div>
+  </nav>
+  <div class="container">
+  <p class="title">
+  <a class="external" href="https://www.caloni.com.br/todo-put-external-link-here">
+  Todo Put Post Title Here
+  </a>
+  </p>
+  <div class="content">
+<p>Recomendo a leitura do artigo "X64 Deep Dive" para se habituar às idiossincrasias sobre o formato assembly do x64, especialmente se você costuma depurar assembly para Windows. O artigo descreve as novas funcionalidades que suportam os 64 bits do formato do executável Windows, o Portable Executable, além de explicar em detalhes o funcionamento de mecanismos que mudaram, como o tratamento de exceção (e o unwinding no código).</p>
+<p>Criei [um repositório](https://github.com/Caloni/x64-deep-dive) para praticar alguns desses assuntos e recriar algum código-fonte para mostrar como o Visual Studio gera código em x64 e como depurar este código. Através deste repo e do [vídeo que pretendo gravar](https://youtu.be/wp7-BD9pOOc) a respeito caminharemos pelas mudanças desde o x86 para aumentarmos nossas habilidades em debugging de código x64. Entre algumas mudanças segue uma lista do que considerei mais importante:</p>
+<p> - Fastcall é a convenção de chamada default para x64.</p>
+<p> - RBP não é mais usado como frame pointer.</p>
+<p> - A última chamada da função pode ser otimizada com tail elimination.</p>
+<p> - Com isso o FPO (Frame Pointer Omission) pode comer solto.</p>
+<p> - RSP se mantém inalterado no corpo da função, entre o prólogo e o epílogo (gostei disso).</p>
+<p> - A técnica de homing space (opcional na compilação) salva os 4 primeiros parâmetros passados na pilha para a memória.</p>
+<p> - O Child-SP (RSP) é usado para caminhar tanto pelos parâmetros quanto pelas variáveis locais.</p>
+<p>## FastCall</p>
+<p>```</p>
+<p>"Fastcall registers are used to pass parameters to functions. Fastcall is the</p>
+<p>default calling convention on X64 where in the first 4 parameters are passed via</p>
+<p>the registers RCX, RDX, R8, R9." - X64 Deep Dive</p>
+<p>int TestFastCall() {</p>
+<p>push        rdi</p>
+<p>sub         rsp,30h # RBP is no longer used as frame pointer.</p>
+<p>	int res = FastCallTest(1, 2, 3, 4);</p>
+<p>mov         r9d,4</p>
+<p>mov         r8d,3</p>
+<p>mov         edx,2</p>
+<p>mov         ecx,1</p>
+<p>call        FastCall</p>
+<p>mov         dword ptr [res],eax</p>
+<p>	return res;</p>
+<p>mov         eax,dword ptr [res]</p>
+<p>add         rsp,30h # RBP is no longer used as frame pointer.</p>
+<p>pop         rdi</p>
+<p>ret</p>
+<p>```</p>
+<p>## Tail Call Elimination</p>
+<p>```</p>
+<p>"X64 compiler can optimize the last call made from a function by replacing it</p>
+<p>with a jump to the callee. This avoids the overhead of setting up the stack</p>
+<p>frame for the callee." - x64 Deep Dive</p>
+<p>	return a + b;</p>
+<p>lea         eax,[rcx+rdx]</p>
+<p>ret</p>
+<p>	TailCall1(1);</p>
+<p>	TailCall2(2);</p>
+<p>	return TailCall3(1, 2);</p>
+<p>mov         edx,2</p>
+<p>lea         ecx,[rdx-1]</p>
+<p>jmp         TailCall3</p>
+<p>```</p>
+<p>## Frame Pointer Omission</p>
+<p>```</p>
+<p>"Unlike the X86 CPU where the EBP register is used to access parameters and</p>
+<p>local variables on the stack, X64 functions do not make use of the RBP register</p>
+<p>for this purpose i.e. do not use the EBP register as a</p>
+<p>frame pointer." - x64 Deep Dive</p>
+<p>int TestFramePointerOmission() {</p>
+<p>	return 1;</p>
+<p>00601593  mov         eax,1</p>
+<p>00601599  ret</p>
+<p>int TestFramePointerOmission() {</p>
+<p>	return 1;</p>
+<p>00007FF7D6E215E2  mov         eax,1</p>
+<p>00007FF7D6E215E8  ret</p>
+<p>```</p>
+<p>## RSP Is The Same</p>
+<p>```</p>
+<p>Since RSP is used to reference both parameters and local variables in x64,</p>
+<p>the side effect and feature of x64 function is that RSP does not change</p>
+<p>thru all its body, changing only in prolog (begin) and epilog (end) parts</p>
+<p>of the function.</p>
+<p>int RSPIsTheSame(int p1, int p2, int p3, int p4, int p5, int p6, int p7, int p8) {</p>
+<p>push        ebp</p>
+<p>mov         ebp,esp</p>
+<p>	RSPIsTheSameCall1(p1);</p>
+<p>mov         eax,dword ptr [p1]</p>
+<p>push        eax # RSP--</p>
+<p>call        RSPIsTheSameCall1</p>
+<p>add         esp,4 # RSP++</p>
+<p>	RSPIsTheSameCall4(p1, p2, p3, p4);</p>
+<p>mov         ecx,dword ptr [p4]</p>
+<p>push        ecx # RSP--</p>
+<p>mov         edx,dword ptr [p3]</p>
+<p>push        edx # RSP--</p>
+<p>mov         eax,dword ptr [p2]</p>
+<p>...</p>
+<p>call        RSPIsTheSameCall4</p>
+<p>add         esp,10h # RSP++</p>
+<p>	RSPIsTheSameCall8(p1, p2, p3, p4, p5, p6, p7, p8);</p>
+<p>mov         edx,dword ptr [p8]</p>
+<p>push        edx # RSP--</p>
+<p>...</p>
+<p>call        RSPIsTheSameCall8</p>
+<p>add         esp,20h # RSP++</p>
+<p>	return 1;</p>
+<p>mov         eax,1</p>
+<p>pop         ebp</p>
+<p>ret</p>
+<p>int RSPIsTheSame(int p1, int p2, int p3, int p4, int p5, int p6, int p7, int p8) {</p>
+<p>mov         dword ptr [rsp+20h],r9d</p>
+<p>mov         dword ptr [rsp+18h],r8d</p>
+<p>mov         dword ptr [rsp+10h],edx</p>
+<p>mov         dword ptr [rsp+8],ecx</p>
+<p>push        rdi</p>
+<p>sub         rsp,40h # RSP last change</p>
+<p>	RSPIsTheSameCall1(p1);</p>
+<p>mov         ecx,dword ptr [p1]</p>
+<p>call        RSPIsTheSameCall1</p>
+<p>	RSPIsTheSameCall4(p1, p2, p3, p4);</p>
+<p>mov         r9d,dword ptr [p4]</p>
+<p>...</p>
+<p>call        RSPIsTheSameCall4</p>
+<p>	RSPIsTheSameCall8(p1, p2, p3, p4, p5, p6, p7, p8);</p>
+<p>mov         eax,dword ptr [p8]</p>
+<p>mov         dword ptr [rsp+38h],eax</p>
+<p>...</p>
+<p>call        RSPIsTheSameCall8</p>
+<p>	return 1;</p>
+<p>mov         eax,1</p>
+<p>add         rsp,40h # RSP restore</p>
+<p>pop         rdi</p>
+<p>ret</p>
+<p>```</p>
+<p>## Homing Space</p>
+<p>```</p>
+<p>"(...) homing space and is used to store parameter values if either the function</p>
+<p>accesses the parameters by address instead of by value or if the function is</p>
+<p>compiled with the /homeparams flag. The minimum size of this homing space is</p>
+<p>0x20 bytes or four 64-bit slots, even if the function takes less than 4</p>
+<p>parameters. When the homing space is not used to store parameter values, the</p>
+<p>compiler uses it to save non-volatile registers." - x64 Deep Dive</p>
+<p>"The register based parameter homing space exists only for non-leaf </p>
+<p>functions." - x64 Deep Dive</p>
+<p>int HomingSpaceNonLeaf(int p1, int p2, int p3, int p4) {</p>
+<p>mov         dword ptr [rsp+20h],r9d # homing space saving params</p>
+<p>mov         dword ptr [rsp+18h],r8d</p>
+<p>mov         dword ptr [rsp+10h],edx</p>
+<p>mov         dword ptr [rsp+8],ecx</p>
+<p>push        rdi</p>
+<p>sub         rsp,20h</p>
+<p>int TestHomingSpaceNonLeaf() {</p>
+<p>sub         rsp,28h</p>
+<p>	int ret = HomingSpaceNonLeaf(1, 2, 3, 4);</p>
+<p>mov         edx,2 # even begin non-leaf function, params are not saved in release</p>
+<p>lea         r9d,[rdx+2]</p>
+<p>lea         r8d,[rdx+1]</p>
+<p>lea         ecx,[rdx-1]</p>
+<p>call        HomingSpaceNonLeaf</p>
+<p>```</p>
+<p>## Child-SP</p>
+<p>```</p>
+<p>"The value of the Child-SP register displayed by the debugger's "k" command</p>
+<p>represents the address at which the stack pointer (RSP) points to, as the point</p>
+<p>where the function displayed in that frame, has finished executing its prolog.</p>
+<p>The next item that would be pushed on the stack would be the return address of</p>
+<p>the function as it invokes its callees. Since X64 functions do not modify the</p>
+<p>value of RSP after the function prolog, any stack accesses performed by the rest</p>
+<p>of the function are done relative to this position of the stack pointer. This</p>
+<p>includes access to stack based parameters and local variables." - x64 Deep Dive</p>
+<p>			p5 = i + j + (i % 2 ? p1 : p2) + (j % 2 ? p3 : p4);</p>
+<p>mov         eax,dword ptr [rsp+0Ch]</p>
+<p>cdq</p>
+<p>and         eax,1</p>
+<p>xor         eax,edx</p>
+<p>sub         eax,edx</p>
+<p>test        eax,eax</p>
+<p>je          ChildSPF3+0BBh</p>
+<p>mov         rax,qword ptr [p1]</p>
+<p>mov         eax,dword ptr [rax]</p>
+<p>mov         dword ptr [rsp+14h],eax # reference child-sp</p>
+<p>jmp         ChildSPF3+0C6h</p>
+<p>mov         rax,qword ptr [p2]</p>
+<p>mov         eax,dword ptr [rax]</p>
+<p>mov         dword ptr [rsp+14h],eax # reference child-sp</p>
+<p>mov         eax,dword ptr [rsp+10h] # reference child-sp</p>
+<p>cdq</p>
+<p>and         eax,1</p>
+<p>xor         eax,edx</p>
+<p>sub         eax,edx</p>
+<p>test        eax,eax</p>
+<p>je          ChildSPF3+0E3h</p>
+<p>mov         rax,qword ptr [p3]</p>
+<p>mov         eax,dword ptr [rax]</p>
+<p>mov         dword ptr [rsp+18h],eax # reference child-sp</p>
+<p>jmp         ChildSPF3+0EEh</p>
+<p>mov         rax,qword ptr [p4]</p>
+<p>mov         eax,dword ptr [rax]</p>
+<p>mov         dword ptr [rsp+18h],eax # reference child-sp</p>
+<p>mov         eax,dword ptr [rsp+10h] # reference child-sp</p>
+<p>mov         ecx,dword ptr [rsp+0Ch] # reference child-sp</p>
+<p>add         ecx,eax</p>
+<p>mov         eax,ecx</p>
+<p>add         eax,dword ptr [rsp+14h] # reference child-sp</p>
+<p>add         eax,dword ptr [rsp+18h] # reference child-sp</p>
+<p>mov         rcx,qword ptr [p5]</p>
+<p>mov         dword ptr [rcx],eax</p>
+<p>```</p>
+<p>## Parameter Retrieval</p>
+<p>```</p>
+<p>"(...) as execution progresses within the function body, the contents of the</p>
+<p>parameter registers change and the initial parameter value gets overwritten. So,</p>
+<p>to determine the value of these register based parameters at any point during</p>
+<p>function execution, one needs to find out - where is the value of the parameter</p>
+<p>being read from and where is the value of the parameter being written to?</p>
+<p>Answers to these questions can be found by performing a sequence of steps in the</p>
+<p>debugger which can be grouped as follows: Determine if the parameters are loaded</p>
+<p>into the registers from memory. If so, the memory location can be examined to</p>
+<p>determine the parameter values. Determine if the parameters are loaded from</p>
+<p>non-volatile registers and if those registers are saved by the callee. If so,</p>
+<p>the saved non-volatile register values can be examined to determine the</p>
+<p>parameter values. Determine if the parameters are saved from the registers into</p>
+<p>memory. If so, the memory location can be examined to determine the parameter</p>
+<p>values. Determine if the parameters are saved into non-volatile registers and if</p>
+<p>those registers are saved by the callee. If so, the saved non-volatile register</p>
+<p>values can be examined to determine the parameter values." - x64 Deep Dive</p>
+<p>1. Parameters are loaded into the registers from memory.</p>
+<p>mov         dword ptr [rbp+30h],5 # p5 = 5</p>
+<p>mov         dword ptr [rbp+28h],6 # p6 = 6</p>
+<p>mov         dword ptr [rbp+20h],7 # p7 = 7</p>
+<p>mov         dword ptr [rbp+18h],8 # p8 = 8</p>
+<p>call        ChildSPF1</p>
+<p>2. Parameters are loaded from non-volatile registers and those registers</p>
+<p>are saved by the callee.</p>
+<p>	int oldP7 = *g_ParameterRetrieval_p7_retrieval;</p>
+<p>	return p1 + p2 + p3 + p4 + p5 + p6 + oldP7 + p8;</p>
+<p>mov         eax,dword ptr [rdx]</p>
+<p>mov         r10,rcx</p>
+<p>add         eax,dword ptr [r8]</p>
+<p>add         eax,dword ptr [r9]</p>
+<p>mov         rdx,qword ptr [p5]</p>
+<p>mov         rcx,qword ptr [g_ParameterRetrieval_p7_retrieval]</p>
+<p>3. Parameters are saved from the registers into memory.</p>
+<p>	g_ParameterRetrieval_p7_retrieval = &p7;</p>
+<p>mov         r10,qword ptr [p7]</p>
+<p>mov         r11,rcx</p>
+<p>	return p1 + p2 + p3 + p4 + p5 + p6 + p7 + p8;</p>
+<p>mov         rcx,qword ptr [p8]</p>
+<p>mov         qword ptr [g_ParameterRetrieval_p7_retrieval],r10 # save nonvolatile register</p>
+<p>4. Parameters are saved into non-volatile registers and those registers</p>
+<p>are saved by the callee.</p>
+<p>int ParameterRetrieval3(int& p1, int& p2, int& p3, int& p4, int& p5, int& p6, int& p7, int& p8) {</p>
+<p>mov         qword ptr [rsp+8],rbx</p>
+<p>mov         qword ptr [rsp+10h],rsi</p>
+<p>mov         qword ptr [rsp+18h],rdi</p>
+<p>mov         qword ptr [rsp+20h],r14</p>
+<p>push        r15 # saves what will be p7</p>
+<p>	int oldP7 = p7;</p>
+<p>	for (int i = 0; i < 7; ++i) {</p>
+<p>		p7 += p1;</p>
+<p>mov         r10d,dword ptr [rcx]</p>
+<p>mov         r14,rcx</p>
+<p>mov         r15,qword ptr [p7] # going to use p7</p>
+<p>mov         rbx,rdx</p>
+<p>mov         rdi,r9</p>
+<p>mov         esi,dword ptr [r15] # Parameters are saved into non-volatile registers...</p>
+<p>add         r10d,esi</p>
+<p>...</p>
+<p>	int ret = p1 + p2 + p3 + p4 + p5 + p6 + p7 + p8;</p>
+<p>...</p>
+<p>	p7 = oldP7;</p>
+<p>	return ret;</p>
+<p>...</p>
+<p>mov         dword ptr [r15],esi # ... and those registers are saved by the callee.</p>
+<p>mov         rsi,qword ptr [rsp+18h]</p>
+<p>pop         r15</p>
+<p>ret</p>
+<p>```</p>
+</div>
+  <div class="taglist">
+  <p class="author">Wanderley Caloni,
+     <a href="https://github.com/Caloni/blog/blob/master/content/posts/todo-dunno-original-post-source">
+     2012-02-15 00:00:00 &#43;0000
+     </a>
+  </p>
+  <a href="/categories/writting">writting</a> 
+  <a href="/tags/movies">movies</a> 
+  <a class="externalgray" href="https://t.me/paneloni">discuss</a>
+  <script type="text/javascript" src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js?sty=49&min=1&sta=0&uni=1&tz=America%2FSao_Paulo&ro=0"></script><noscript id="LTF_hitcounter"><a href="https://livetrafficfeed.com/hit-counter">Hit Counter</a></noscript>
+  </div>
+  </div>
+  </body>
+  </html>

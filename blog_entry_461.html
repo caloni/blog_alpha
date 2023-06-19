@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Blogue do Caloni - 2 Coelhos</title>
+  <meta name="author" content="" />
+  <meta name="generator" content="Hugo 0.110.0">
+  <meta property="og:title" content="2 Coelhos"/>
+  <meta property="og:type"
+        content="article"/>
+  <meta property="og:url" content="http://www.caloni.com.br/todo-put-original-title-slug/"/>
+  <meta property="og:image"
+        content="/img/author.jpg"/>
+  <meta property="og:description"
+        content="Uma montagem impecável consegue dar o tom da narrativa do complexo 2 Coelhos. Além de complexo, existem pequenos detalhes da trama que forçam um pouco a realidade (como a união entre o protagonista e..."/>
+  <link href="" rel="feed" type="application/rss+xml"
+        title="Blogue do Caloni"/>
+  <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/board-min.css"/>
+  <script src="/js/jquery-1.10.2.js"></script>
+  <script src="/js/jquery-ui.js"></script>
+  <script src="/js/pgnyui.js"></script>
+  <script src="/js/pgnviewer.js"></script>
+  <script src="/js/list.js"></script>
+  <link rel="icon" href="/img/favicon.ico"/>
+</head>
+<body style="min-height:100vh;display:flex;flex-direction:column">
+  <nav class="navbar has-shadow is-white"
+        role="navigation" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+  <pre><span style="font-size: 3px; margin: 0; display: block;">
+&amp;*/. .*%@@@@@@@@@@@@&amp;/    , &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@#,*@@@@%,*&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@./@.(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@**#./((,*, *./((*,#,&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@.#@@%&amp;@@* (@@%&amp;@@/#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@,#@@&amp;&amp;@@, (@@&amp;&amp;@@*#@@@@@@@@@@@@@#/,,.         ..,/#&amp;@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@&amp;, .//      .//  .%@@@@@@&amp;#.  .,****.,*************,.  .(&amp;@@@@@@@@@@@@@@@@@
+@@@*                     ,@/  .**,,,*********,   ,***,   ****    *@@@@@@@@@@@@@@
+@#                         ,***      .******       ,***,*****,      *&amp;@@@@@@@@@@
+&amp;                           ,**      .******.     .******************  (@@@@@@@@
+                             ****..,*************************,    ,***   (@@@@@@
+@@@@#,,,,,,,,,,,,,,,,,,,,*********,   ,**************,  .***,      .**. .  %@@@@
+@@@@%                   .***,.,****,.,***,     ,****      ***.     ,******, /@@@
+@@@@@&amp;.                ,**       *******,       *****,  .******************, *@@
+@@@@@@@&amp;,            ,****      .********,.   .*************,  ,*****,    ,** /@
+@@@@@@@@@@@@&amp;/ .****,    ************.   ****************************      **. #
+@@@@@@@@@@@@@, *****,    ,***********    .******,   ,****.   .*****,***,,***** ,
+@@@@@@@@@@@@&amp;..**************,  ,***********************       ,*,    ********..
+@@@@@@@@@@@@&amp; ,**.    ,******.  .*******.    .**********,     .**********. .**, 
+@@@@@@@@@@@@% ,*       ,***************.      .*****************************,   
+@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#*@&amp;&amp;&amp;@*#&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@(.#@@@@(.#@@@@@@@@@@@@@@@@@@@@@#**@@@@(.#@@@@@@@@@@@
+  </span></pre>
+  &nbsp;
+  <a class="navbar-item" title="Go to Home" href="/">
+    <div class="is-6">Blogue do Caloni</div>
+  </a>
+  </div>
+  </div>
+  </nav>
+  <div class="container">
+  <p class="title">
+  <a class="external" href="https://www.caloni.com.br/todo-put-external-link-here">
+  Todo Put Post Title Here
+  </a>
+  </p>
+  <div class="content">
+<p>In the first article we saw how it's possible to spoof the debugger through exceptions and let the attacker lose some considerable time trying to unbind the program from the fake breakpoints. However, we saw also that this is a difficult solution to keep in the source code, besides its main weakness to be easily bypassed if discovered. Now it's time to put things easier to support and at the same time to guarantee tough times even if the attacker discover what is going on.</p>
+<p>The upgrade showed here still uses the exception throwing intrinsically, but now it doesn't depends on the code division in minifunctions and minicalls. Instead, we just need to get code traces and put them inside a miraculous macro that will do everything we want. This, of course, after some "hammer work" that will be explained here.</p>
+<p>```cpp</p>
+<p>// Go back to place pre-defined by the restoration point.</p>
+<p>void LongJmp(restorePoint)</p>
+<p>	// Here we will generate an exception to make things difficult.</p>
+<p>	// @todo Make a breakpoint exception and catch it.</p>
+<p>	// 3. We return to the if without using the stack, but from the restoration point.</p>
+<p>	GoBackToTheStartFunction(restorePoint);</p>
+<p>// Here everything begins.</p>
+<p>int Start()</p>
+<p>	// Obs.: follow the agreement flow according to the numbers.</p>
+<p>	// 1. First pass: we define a restoration point to the return of LongJmp.</p>
+<p>	// 4. Second pass: we go back from the LongJmp function, but this time we get into the else.</p>
+<p>	if( RestorePointDefined() == Defined )</p>
+<p>		// 2. We call the function that will return to the if.</p>
+<p>		LongJmp( if );</p>
+<p>	else</p>
+<p>		// 5. Call the real function, our true target.</p>
+<p>		CallTheUsefulFunction();</p>
+<p>	// 6. End of execution.</p>
+<p>	return 0;</p>
+<p>```</p>
+<p>The solution above is explained in pseudocode to make things clearer. Notice that exist some kind of invisible return, not stack based. To handle it, however, we can use the good for all C ANSI standard, using the setjmp (step one) and longjmp (step 3). To understand the implementation for theses functions running on the 8086 platform we need to get the basic vision of the function calls in a stack based environment (the C and Pascal way).</p>
+<p>#### Registers, stack frame and call/ret</p>
+<p>Registers are reserved variables in the processor that can be used by the assembly code. Stack frame is the function calling hierarchy, the "who called who" in a given execution state. Call and ret are assembly instructions to call and return from a function, respectively. Both change the stack frame.</p>
+<p>Imagine you have a function, CallFunc, and another function, Func, and one calls the other. In order to analyse just the function call, and just that, let's consider Func doesn't receive any argument and doesn't return any value. The C code, would be like bellow:</p>
+<p>Simple, huh? Being simple, the generated assembly will be simple as well. In CallFunc it should have the function call, and inside Func the return from the call. The rest of the code is related with Debug version stuff.</p>
+<p>From the assembly above we can conclude two things: 1. The stack grows down, since its value decremented four bytes (0012FD3C minus 0012FD38 equal four) and 2. The return value from the calling is the address of the very next instruction after the call instruction, in the case 00411FA3.</p>
+<p>Well, in the same way we can follow this simple execution, the attacker will do as well. That's why in the middle of this call we will throw an exception and, in the return, we will not do the return in the conventional way, but using another technique that, instead using the ret instruction, sets manually the esp value (stack state) and jumps to the next instruction in CallFunc.</p>
+<p>#### Back to the Middle Earth</p>
+<p>All this assembly stuff doesn't need to be written in assembly level. It was just a way I found to illustrate the differences between the stack return and the jump return. As it was said, to the luck and well being for all, this same technique can be implemented using ANSI C functions:</p>
+<p>```cpp</p>
+<p>jmp_buf env; // Contains the next instruction (stack state).</p>
+<p>void Func()</p>
+<p>	// 3. Return using the "nonconventional" way</p>
+<p>	longjmp(env, 1);</p>
+<p>void CallFunc()</p>
+<p>	// 1. If we're setting, returns 0.</p>
+<p>	// 2. If we're returning, returns a value different from 0.</p>
+<p>	if( setjmp(env) == 0 )</p>
+<p>		Func();</p>
+<p>	int x = 10; // 4. Next instruction.</p>
+<p>```</p>
+<p>That was the new trick for the trowing of exceptions. The final code is clearer, now:</p>
+<p>```cpp</p>
+<p>/** The only purpose of this function is to generate an exception.</p>
+<p>DWORD LongJmp(jmp_buf* env)</p>
+<p>	__try</p>
+<p>		__asm int 3</p>
+<p>		__except( EXCEPTION_EXECUTE_HANDLER )</p>
+<p>		longjmp(*env, 1);</p>
+<p>	return ERROR_SUCCESS;</p>
+<p>/** And God said: 'int main!'</p>
+<p>int main()</p>
+<p>	DWORD ret = ERROR_SUCCESS;</p>
+<p>	while( cin )</p>
+<p>		string line;</p>
+<p>		cout << "Type something\n";</p>
+<p>		getline(cin, line);</p>
+<p>		jmp_buf env;</p>
+<p>		if( setjmp(env) == 0 )</p>
+<p>		{</p>
+<p>			LongJmp(&env);</p>
+<p>		}</p>
+<p>		else</p>
+<p>		{</p>
+<p>			cout << line << endl;</p>
+<p>		}</p>
+<p>	return (int) ret;</p>
+<p>```</p>
+<p>At first sight, it seems a waste the if being directly in the code (remember we gonna use the same conditional structure in several parts in the code). To turn things clearer, resume the protected call and allows the protection to be disabled in debug version code, let's create a macro:</p>
+<p>```cpp</p>
+<p>/** Use this macro instead LongJmp</p>
+<p>#define ANTIDEBUG(code)</p>
+<p>	jmp_buf env;</p>
+<p>	if( setjmp(env) == 0 )</p>
+<p>		LongJmp(&env);</p>
+<p>	else</p>
+<p>		code;</p>
+<p>/** And God said: 'int main!'</p>
+<p>int main()</p>
+<p>	DWORD ret = ERROR_SUCCESS;</p>
+<p>	while( cin )</p>
+<p>		string line;</p>
+<p>		cout << "Type something\n";</p>
+<p>		getline(cin, line);</p>
+<p>		ANTIDEBUG(( cout << line << endl ));</p>
+<p>	return (int) ret;</p>
+<p>```</p>
+<p>Now we allow the antidebugging selection by call, what turns things much easier than to choose the protected points inside the code.</p>
+</div>
+  <div class="taglist">
+  <p class="author">Wanderley Caloni,
+     <a href="https://github.com/Caloni/blog/blob/master/content/posts/todo-dunno-original-post-source">
+     2012-02-15 00:00:00 &#43;0000
+     </a>
+  </p>
+  <a href="/categories/writting">writting</a> 
+  <a href="/tags/movies">movies</a> 
+  <a class="externalgray" href="https://t.me/paneloni">discuss</a>
+  <script type="text/javascript" src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js?sty=49&min=1&sta=0&uni=1&tz=America%2FSao_Paulo&ro=0"></script><noscript id="LTF_hitcounter"><a href="https://livetrafficfeed.com/hit-counter">Hit Counter</a></noscript>
+  </div>
+  </div>
+  </body>
+  </html>

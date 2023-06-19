@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Blogue do Caloni - 2 Coelhos</title>
+  <meta name="author" content="" />
+  <meta name="generator" content="Hugo 0.110.0">
+  <meta property="og:title" content="2 Coelhos"/>
+  <meta property="og:type"
+        content="article"/>
+  <meta property="og:url" content="http://www.caloni.com.br/todo-put-original-title-slug/"/>
+  <meta property="og:image"
+        content="/img/author.jpg"/>
+  <meta property="og:description"
+        content="Uma montagem impec�vel consegue dar o tom da narrativa do complexo 2 Coelhos. Al�m de complexo, existem pequenos detalhes da trama que for�am um pouco a realidade (como a uni�o entre o protagonista e..."/>
+  <link href="" rel="feed" type="application/rss+xml"
+        title="Blogue do Caloni"/>
+  <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/board-min.css"/>
+  <script src="/js/jquery-1.10.2.js"></script>
+  <script src="/js/jquery-ui.js"></script>
+  <script src="/js/pgnyui.js"></script>
+  <script src="/js/pgnviewer.js"></script>
+  <script src="/js/list.js"></script>
+  <link rel="icon" href="/img/favicon.ico"/>
+</head>
+<body style="min-height:100vh;display:flex;flex-direction:column">
+  <nav class="navbar has-shadow is-white"
+        role="navigation" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+  <pre><span style="font-size: 3px; margin: 0; display: block;">
+&amp;*/. .*%@@@@@@@@@@@@&amp;/    , &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@#,*@@@@%,*&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@./@.(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@**#./((,*, *./((*,#,&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@.#@@%&amp;@@* (@@%&amp;@@/#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@,#@@&amp;&amp;@@, (@@&amp;&amp;@@*#@@@@@@@@@@@@@#/,,.         ..,/#&amp;@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@&amp;, .//      .//  .%@@@@@@&amp;#.  .,****.,*************,.  .(&amp;@@@@@@@@@@@@@@@@@
+@@@*                     ,@/  .**,,,*********,   ,***,   ****    *@@@@@@@@@@@@@@
+@#                         ,***      .******       ,***,*****,      *&amp;@@@@@@@@@@
+&amp;                           ,**      .******.     .******************  (@@@@@@@@
+                             ****..,*************************,    ,***   (@@@@@@
+@@@@#,,,,,,,,,,,,,,,,,,,,*********,   ,**************,  .***,      .**. .  %@@@@
+@@@@%                   .***,.,****,.,***,     ,****      ***.     ,******, /@@@
+@@@@@&amp;.                ,**       *******,       *****,  .******************, *@@
+@@@@@@@&amp;,            ,****      .********,.   .*************,  ,*****,    ,** /@
+@@@@@@@@@@@@&amp;/ .****,    ************.   ****************************      **. #
+@@@@@@@@@@@@@, *****,    ,***********    .******,   ,****.   .*****,***,,***** ,
+@@@@@@@@@@@@&amp;..**************,  ,***********************       ,*,    ********..
+@@@@@@@@@@@@&amp; ,**.    ,******.  .*******.    .**********,     .**********. .**, 
+@@@@@@@@@@@@% ,*       ,***************.      .*****************************,   
+@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#*@&amp;&amp;&amp;@*#&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@(.#@@@@(.#@@@@@@@@@@@@@@@@@@@@@#**@@@@(.#@@@@@@@@@@@
+  </span></pre>
+  &nbsp;
+  <a class="navbar-item" title="Go to Home" href="/">
+    <div class="is-6">Blogue do Caloni</div>
+  </a>
+  </div>
+  </div>
+  </nav>
+  <div class="container">
+  <p class="title">
+  <a class="external" href="https://www.caloni.com.br/todo-put-external-link-here">
+  Todo Put Post Title Here
+  </a>
+  </p>
+  <div class="content">
+<p>É muito difícil construir um modelo de pastas que sirva para a maioria dos projetos que tivermos que colocar na fôrma. Ainda mais se esses projetos tiverem que futuramente fazer parte da mesma ramificação. Foi pensando em várias coisas que chegamos a uma versão beta que pode ajudar aqueles que ficam pensando durantes dias antes mesmo de colocar as mãos no código.</p>
+<p>Antes de começar a pensar em como as pastas estarão alinhadas, é importante saber como funcionará o controle de código do seu projeto. Como eu disse sobre o Bazaar, a estrutura inicial permitirá a junção de dois projetos distintos se estes compartilharem do mesmo commit no começo de suas vidas.</p>
+<p>Portanto, trate de iniciar a estruturação em um projeto-modelo que já contenha pelo menos um commit: o das pastas vazias já estruturadas.</p>
+<p>Estruturação proposta:</p>
+<p> - Build. Essa pasta contém tudo que é necessário para compilar e testar o projeto como um todo. Idealmente a execução da batch build.bat deve executar todo o processo. Após a compilação, é de competência dos componentes na subpasta Tests fazer os testes básicos do projeto para se certificar de que tudo está funcionando como deveria.</p>
+<p> - Common. Aqui devem ser colocados aqueles includes que servem para vários pontos do projeto. Está exemplificado pelo arquivo de versão (Version.h), pois todos os arquivos devem referenciar uma única versão do produto. Podem existir Outras definições básicas, como nome do produto, dos arquivos, etc. É aqui que são gravadas as interfaces que permitem dependência circular entre os componentes (e.g. Interface de componentes COM).</p>
+<p> - Docs. Aqui deve ser colocada toda a documentação que diz respeito ao projeto. A organização interna ainda não foi definida, pois imagina-se ser possível usar diversas fontes, como doxygen, casos de uso, bugs, arquivos de projeto e UML. Foi exemplificado com o arquivo todo.txt e changes.txt, que deve ter sempre a lista de coisas a fazer e a lista de coisas já feitas, respectivamente, tendo, portanto, que ser sempre atualizados.</p>
+<p> - Drivers. Essa é a parte onde ficam todos os componentes que rodam em kernel mode. Por se tratar de um domínio específico e muitas vezes compartilhar código-fonte de maneira não-heterodoxa (e.g. sem uso de LIBs), faz sentido existir uma pasta que agrupe esses elementos. Dentro da pasta existem subpastas para cada driver, exemplificados em Driver1 e Driver2.</p>
+<p> - Install. Todas as coisas relacionadas com instalação, desinstalação e atualização do software deve vir nessa pasta. Foi reservada uma subpasta para cada item, não sendo obrigatória sua divisão. Também existe uma pasta de DLLs, onde possivelmente existam telas personalizadas e biblioteca de uso comum pelos instaladores (o desinstalador conversa com o instalador e assim por diante).</p>
+<p> - Interface. Todas as telas de um programa devem ser colocadas nessa pasta. Essa é uma divisão que deve ser seguida conceitualmente. Por exemplo, se existir um gerenciador de alguma coisa no produto, as telas do gerenciador e o comportamento da interface ficam nessa pasta, mas o comportamento intrínseco do sistema (regras de negócio) devem ficar em Libraries. Para exemplificar o uso, foram criadas as Interface1 e Interface2.</p>
+<p> - Libraries. O ponto central do projeto, deve conter o código mais importante. Imagine a pasta Libraries como a inteligência de um projeto, de onde todos os outros componentes se utilizam para que a lógica do software seja sempre a mesma. As outras partes do projeto lidam com aspectos técnicos, enquanto o Libraries contém as regras abstratas de funcionamento. Opcionalmente ela pode ser estática ou dinâmica, caso onde foi criada a subpasta DLLs. Porém, elas devem ser divididas por função em bibliotecas estáticas, como foi exemplificado em Library1 e Library2.</p>
+<p> - Resources. A origem de todas as imagens, sons, cursores, etc de um projeto devem residir primeiramente na pasta Resources. A divisão interna desse item fica a critério do designer responsável, pois ele pode dividir tanto por função (Install, Interface) quanto por elementos (Images, Sounds).</p>
+<p> - Services. Além dos drivers e das interfaces alguns projetos necessitam de processos "invisíveis" que devem fazer algo no sistema. Isso inclui serviços do Windows, GINAs, componentes COM e coisas do gênero. Devem ser colocados nessa pasta e distribuídos como no exemplo, em Service1 e Service2.</p>
+<p> - Tools. Além dos componentes essenciais para o funcionamento do software também existem aqueles componentes que fornecem mais poder ao usuário, ao pessoal do suporte ou ao próprio time de desenvolvimento. Essas são as ferramentas de suporte que permitem a fácil identificação de erros no programa ou a configuração mais avançada de um item que a Interface não cobre. Adicionalmente foi colocada a subpasta Develop, que deve conter ferramentas usadas estritamente durante a fase de desenvolvimento.</p>
+<p>Todos os componentes que disponibilizarem unidades de testes devem conter uma pasta Tests dentro de si. Essa padronização permite facilmente a localização de testes internos aos componentes. Além disso, os arquivos executáveis de testes devem sempre terminar seu nome com Test, o que permite a automatização do processo de teste durante o build.</p>
+<p>Acredito que este esboço esteja muito bom. É o modelo inicial que estou utilizando nos projetos da empresa e de casa.</p>
+</div>
+  <div class="taglist">
+  <p class="author">Wanderley Caloni,
+     <a href="https://github.com/Caloni/blog/blob/master/content/posts/todo-dunno-original-post-source">
+     2012-02-15 00:00:00 &#43;0000
+     </a>
+  </p>
+  <a href="/categories/writting">writting</a> 
+  <a href="/tags/movies">movies</a> 
+  <a class="externalgray" href="https://t.me/paneloni">discuss</a>
+  <script type="text/javascript" src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js?sty=49&min=1&sta=0&uni=1&tz=America%2FSao_Paulo&ro=0"></script><noscript id="LTF_hitcounter"><a href="https://livetrafficfeed.com/hit-counter">Hit Counter</a></noscript>
+  </div>
+  </div>
+  </body>
+  </html>

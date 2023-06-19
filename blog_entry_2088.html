@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Blogue do Caloni - 2 Coelhos</title>
+  <meta name="author" content="" />
+  <meta name="generator" content="Hugo 0.110.0">
+  <meta property="og:title" content="2 Coelhos"/>
+  <meta property="og:type"
+        content="article"/>
+  <meta property="og:url" content="http://www.caloni.com.br/todo-put-original-title-slug/"/>
+  <meta property="og:image"
+        content="/img/author.jpg"/>
+  <meta property="og:description"
+        content="Uma montagem impec�vel consegue dar o tom da narrativa do complexo 2 Coelhos. Al�m de complexo, existem pequenos detalhes da trama que for�am um pouco a realidade (como a uni�o entre o protagonista e..."/>
+  <link href="" rel="feed" type="application/rss+xml"
+        title="Blogue do Caloni"/>
+  <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/board-min.css"/>
+  <script src="/js/jquery-1.10.2.js"></script>
+  <script src="/js/jquery-ui.js"></script>
+  <script src="/js/pgnyui.js"></script>
+  <script src="/js/pgnviewer.js"></script>
+  <script src="/js/list.js"></script>
+  <link rel="icon" href="/img/favicon.ico"/>
+</head>
+<body style="min-height:100vh;display:flex;flex-direction:column">
+  <nav class="navbar has-shadow is-white"
+        role="navigation" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+  <pre><span style="font-size: 3px; margin: 0; display: block;">
+&amp;*/. .*%@@@@@@@@@@@@&amp;/    , &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@#,*@@@@%,*&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@./@.(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@**#./((,*, *./((*,#,&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@.#@@%&amp;@@* (@@%&amp;@@/#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@,#@@&amp;&amp;@@, (@@&amp;&amp;@@*#@@@@@@@@@@@@@#/,,.         ..,/#&amp;@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@&amp;, .//      .//  .%@@@@@@&amp;#.  .,****.,*************,.  .(&amp;@@@@@@@@@@@@@@@@@
+@@@*                     ,@/  .**,,,*********,   ,***,   ****    *@@@@@@@@@@@@@@
+@#                         ,***      .******       ,***,*****,      *&amp;@@@@@@@@@@
+&amp;                           ,**      .******.     .******************  (@@@@@@@@
+                             ****..,*************************,    ,***   (@@@@@@
+@@@@#,,,,,,,,,,,,,,,,,,,,*********,   ,**************,  .***,      .**. .  %@@@@
+@@@@%                   .***,.,****,.,***,     ,****      ***.     ,******, /@@@
+@@@@@&amp;.                ,**       *******,       *****,  .******************, *@@
+@@@@@@@&amp;,            ,****      .********,.   .*************,  ,*****,    ,** /@
+@@@@@@@@@@@@&amp;/ .****,    ************.   ****************************      **. #
+@@@@@@@@@@@@@, *****,    ,***********    .******,   ,****.   .*****,***,,***** ,
+@@@@@@@@@@@@&amp;..**************,  ,***********************       ,*,    ********..
+@@@@@@@@@@@@&amp; ,**.    ,******.  .*******.    .**********,     .**********. .**, 
+@@@@@@@@@@@@% ,*       ,***************.      .*****************************,   
+@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#*@&amp;&amp;&amp;@*#&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@(.#@@@@(.#@@@@@@@@@@@@@@@@@@@@@#**@@@@(.#@@@@@@@@@@@
+  </span></pre>
+  &nbsp;
+  <a class="navbar-item" title="Go to Home" href="/">
+    <div class="is-6">Blogue do Caloni</div>
+  </a>
+  </div>
+  </div>
+  </nav>
+  <div class="container">
+  <p class="title">
+  <a class="external" href="https://www.caloni.com.br/todo-put-external-link-here">
+  Todo Put Post Title Here
+  </a>
+  </p>
+  <div class="content">
+<p>Em 2014 eu palestrei na trilha de segurança do TDC em São Paulo um tema que me deixou muito animado: um exploit baseado em falhas de programação em um código de 10 linhas. O código era tão simples que achei válido traduzir para C e demonstrar como atacar uma simulação de cassino online.</p>
+<p>Esta palestra (e o código) se perdeu no tempo, mas eu anotei o nome da pesquisadora que escreveu o post pelo qual me baseei: Laura Diane Hamilton (que também estuda Machine Learning em seu blog). [Seu post] comenta sobre uma história de 1990 quando hackers se aproveitaram de falhas básicas no algoritmo de embaralhamento de cartas de pôquer.</p>
+<p>Fiz um código para compilar e rodar o embaralhador de cartas que [embaralha e imprime] a saída em cada nova execução para podermos observar mais facilmente os bugs encontrados por Hamilton. A falha número 1, o "An Off-by-One Error", pode ser feita em C também, se você usar a função rand() da maneira como está no código:</p>
+<p>É um erro simples de ser cometido por programadores incautos, que querem expressar na verdade a obtenção de um número aleatório entre 1 e 52 e ao mesmo tempo obter o índice correto 0-based de um array. No entanto, o resto de uma divisão por N sempre irá cair entre 0 e N-1, já obtendo o índice correto em C.</p>
+<p>Para observar o que Hamilton quer dizer com "a 52a. carta nunca irá cair na 52a. posição" é possível forçar um loop nesse estilo:</p>
+<p>Este loop nunca irá terminar. Faça o teste. Depois compare com a rapidez com que o loop encontra a carta 52 em qualquer outra posição.</p>
+<p>Com a correção desse viés (e do bug da 52a. carta) aplicada:</p>
+<p>No entanto, o pior bug talvez seja a união entre a terceira e a quarta falhas apontadas pela pesquisadora: "Using a 32-bit Seed" + "Using the System Clock as a Seed". Com esses dois unidos o hackerismo fica à solta, pois além das possibilidades de embaralhamento ficarem restritas em 2^32 o uso do clock limita em 86,400,000 milissegundos por dia da função random do Pascal. Em C poderia ser feito algo semelhante.</p>
+<p>Um range muito específico de geração da semente do gerador de números aleatórios pode criar uma tabela maleável de possibilidades. Com isso em mãos, de acordo com Hamilton, uma vez que o atacante saiba pelo menos cinco cartas é possível fazer uma busca rápida em um range pequeno possibilidades. Em um jogo de pôquer isso é possível apenas com duas cartas em sua mão e as três cartas na mesa (flop).</p>
+<p>Com base nesse comportamento vamos criar um [exploit] que recebe as três cartas do flop fornecidas pelo atacante que está no jogo e que inicia uma busca a partir do horário atual para trás. Conforme o programa encontra matches dessas três cartas juntas ele exibe o deck completo de cartas, a partir do qual o atacante pode verificar se suas cartas constam na distribuição.</p>
+<p>Por sua vez o [cassino] rodará o algoritmo bugado que já vimos. Para simplificar ele já pergunta para o jogador #2 se ele sabe quais são as cartas do jogador #1. Se ele não souber o programa diz ser ainda seguro, mas se acertar isso é revelado.</p>
+<p>Para rodar os programas basta iniciar o cassino e copiar as cartas do flop. Em seguida rodar o exploit e colar o flop. A partir daí ele começa a calcular e quando houver um deck em que aparecem as suas cartas copiar e colar as cartas do adversário, ou seja, o jogador #1, que são as cartas logo depois do flop.</p>
+<p>[Seu post]: http://www.lauradhamilton.com/random-lessons-online-poker-exploit</p>
+<p>[embaralha e imprime]: shuffle_cards.c</p>
+<p>[exploit]: cassino_exploit.c</p>
+<p>[cassino]: cassino.c</p>
+</div>
+  <div class="taglist">
+  <p class="author">Wanderley Caloni,
+     <a href="https://github.com/Caloni/blog/blob/master/content/posts/todo-dunno-original-post-source">
+     2012-02-15 00:00:00 &#43;0000
+     </a>
+  </p>
+  <a href="/categories/writting">writting</a> 
+  <a href="/tags/movies">movies</a> 
+  <a class="externalgray" href="https://t.me/paneloni">discuss</a>
+  <script type="text/javascript" src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js?sty=49&min=1&sta=0&uni=1&tz=America%2FSao_Paulo&ro=0"></script><noscript id="LTF_hitcounter"><a href="https://livetrafficfeed.com/hit-counter">Hit Counter</a></noscript>
+  </div>
+  </div>
+  </body>
+  </html>

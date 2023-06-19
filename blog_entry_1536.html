@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Blogue do Caloni - 2 Coelhos</title>
+  <meta name="author" content="" />
+  <meta name="generator" content="Hugo 0.110.0">
+  <meta property="og:title" content="2 Coelhos"/>
+  <meta property="og:type"
+        content="article"/>
+  <meta property="og:url" content="http://www.caloni.com.br/todo-put-original-title-slug/"/>
+  <meta property="og:image"
+        content="/img/author.jpg"/>
+  <meta property="og:description"
+        content="Uma montagem impec�vel consegue dar o tom da narrativa do complexo 2 Coelhos. Al�m de complexo, existem pequenos detalhes da trama que for�am um pouco a realidade (como a uni�o entre o protagonista e..."/>
+  <link href="" rel="feed" type="application/rss+xml"
+        title="Blogue do Caloni"/>
+  <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/board-min.css"/>
+  <script src="/js/jquery-1.10.2.js"></script>
+  <script src="/js/jquery-ui.js"></script>
+  <script src="/js/pgnyui.js"></script>
+  <script src="/js/pgnviewer.js"></script>
+  <script src="/js/list.js"></script>
+  <link rel="icon" href="/img/favicon.ico"/>
+</head>
+<body style="min-height:100vh;display:flex;flex-direction:column">
+  <nav class="navbar has-shadow is-white"
+        role="navigation" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+  <pre><span style="font-size: 3px; margin: 0; display: block;">
+&amp;*/. .*%@@@@@@@@@@@@&amp;/    , &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@#,*@@@@%,*&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@./@.(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@**#./((,*, *./((*,#,&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@.#@@%&amp;@@* (@@%&amp;@@/#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@,#@@&amp;&amp;@@, (@@&amp;&amp;@@*#@@@@@@@@@@@@@#/,,.         ..,/#&amp;@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@&amp;, .//      .//  .%@@@@@@&amp;#.  .,****.,*************,.  .(&amp;@@@@@@@@@@@@@@@@@
+@@@*                     ,@/  .**,,,*********,   ,***,   ****    *@@@@@@@@@@@@@@
+@#                         ,***      .******       ,***,*****,      *&amp;@@@@@@@@@@
+&amp;                           ,**      .******.     .******************  (@@@@@@@@
+                             ****..,*************************,    ,***   (@@@@@@
+@@@@#,,,,,,,,,,,,,,,,,,,,*********,   ,**************,  .***,      .**. .  %@@@@
+@@@@%                   .***,.,****,.,***,     ,****      ***.     ,******, /@@@
+@@@@@&amp;.                ,**       *******,       *****,  .******************, *@@
+@@@@@@@&amp;,            ,****      .********,.   .*************,  ,*****,    ,** /@
+@@@@@@@@@@@@&amp;/ .****,    ************.   ****************************      **. #
+@@@@@@@@@@@@@, *****,    ,***********    .******,   ,****.   .*****,***,,***** ,
+@@@@@@@@@@@@&amp;..**************,  ,***********************       ,*,    ********..
+@@@@@@@@@@@@&amp; ,**.    ,******.  .*******.    .**********,     .**********. .**, 
+@@@@@@@@@@@@% ,*       ,***************.      .*****************************,   
+@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#*@&amp;&amp;&amp;@*#&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@(.#@@@@(.#@@@@@@@@@@@@@@@@@@@@@#**@@@@(.#@@@@@@@@@@@
+  </span></pre>
+  &nbsp;
+  <a class="navbar-item" title="Go to Home" href="/">
+    <div class="is-6">Blogue do Caloni</div>
+  </a>
+  </div>
+  </div>
+  </nav>
+  <div class="container">
+  <p class="title">
+  <a class="external" href="https://www.caloni.com.br/todo-put-external-link-here">
+  Todo Put Post Title Here
+  </a>
+  </p>
+  <div class="content">
+<p>Enquanto estudava sobre [controle de fontes distribuído](https://en.wikipedia.org/wiki/Distributed_version_control), experimentei e usei os projetos Mercurial e Bazaar, precursores desse modelo que funcionavam bem em Windows. Havia o Git, mas por conta da sua evolução assimétrica, o ambiente da Microsoft havia ficado para trás.</p>
+<p>Hoje com o Git sendo praticamente o _mainstream_ das conversões do SubVersion, e funcionando razoavelmente bem em ambientes Windows (64 ou 32), sobraram apenas os repositórios do Mercurial e do Bazaar. Na verdade, mais do Bazaar, pois eu havia migrado já do Hg pelo Bazaar possuir algo que hoje o Git emula, mas antes era um diferencial no projeto da Canonical: detecção de rename completo (com histórico e tudo). Isso para refatoração era vital, e suporte à refatoração pesada era o que eu precisava no momento.</p>
+<p>Agora é hora de manter esse histórico vivo, mas convertido para o que todos usam.</p>
+<p>### A migração</p>
+<p>No Windows, nas últimas versões do Bazaar o comando fast-export não estava mais funcionando. Parado desde 2012, não há previsão de correções. No entanto, para essa operação, a versão 2.4.2 atendeu bem. O comando é um pouco diferente, mas ele é rápido e rodou sem problemas em conjunto com o fast-import do Git.</p>
+<p>{{< image src="9gzHZOz.png" caption="" >}}</p>
+<p>```</p>
+<p>git init</p>
+<p>bzr fast-export --plain . | git fast-import</p>
+<p>12:03:59 Calculating the revisions to include ...</p>
+<p>12:03:59 Starting export of 2681 revisions ...</p>
+<p>12:04:05 Skipping empty dir Tools/Desenv in rev </p>
+<p>12:04:05 Skipping empty dir Tools/Desenv in rev</p>
+<p>12:04:45 1000/2681 commits exported at 1308/minute</p>
+<p>12:05:12 2000/2681 commits exported at 1642/minute</p>
+<p>12:05:59 WARNING: not creating tag u'1.09' pointing to non-existent revision </p>
+<p>12:05:59 WARNING: not creating tag u'1.50' pointing to non-existent revision </p>
+<p>12:05:59 WARNING: not creating tag u'1.51' pointing to non-existent revision </p>
+<p>12:05:59 WARNING: not creating tag u'1.49' pointing to non-existent revision </p>
+<p>12:05:59 WARNING: not creating tag u'1.48' pointing to non-existent revision </p>
+<p>12:05:59 WARNING: not creating tag u'1.45' pointing to non-existent revision </p>
+<p>12:05:59 WARNING: not creating tag u'1.47' pointing to non-existent revision </p>
+<p>12:05:59 WARNING: not creating tag u'1.46' pointing to non-existent revision </p>
+<p>12:05:59 WARNING: not creating tag u'1.40' pointing to non-existent revision </p>
+<p>12:05:59 WARNING: not creating tag u'1.39' pointing to non-existent revision </p>
+<p>12:05:59 Exported 2681 revisions in 0:02:00</p>
+<p>C:\PROGRAM FILES (X86)\GIT\libexec\git-core\git-fast-import.exe statistics:</p>
+<p>---------------------------------------------------------------------</p>
+<p>Alloc'd objects:      35000</p>
+<p>Total objects:        33979 (      9714 duplicates                  )</p>
+<p>Total branches:          98 (         1 loads     )</p>
+<p>Memory total:          3567 KiB</p>
+<p>---------------------------------------------------------------------</p>
+<p>pack_report: getpagesize()            =      65536</p>
+<p>pack_report: core.packedGitWindowSize =   33554432</p>
+<p>pack_report: core.packedGitLimit      =  268435456</p>
+<p>pack_report: pack_used_ctr            =      22324</p>
+<p>pack_report: pack_mmap_calls          =      10353</p>
+<p>pack_report: pack_open_windows        =          4 /          6</p>
+<p>pack_report: pack_mapped              =  101069594 /  163170978</p>
+<p>---------------------------------------------------------------------</p>
+<p>```</p>
+<p>É óbvio que nem tudo serão mil maravilhas. Eu, por exemplo, encontrei um problema com case-sensitive que me deu algumas dores de cabeça:</p>
+<p>```</p>
+<p>fatal: Path Something/Resource.h not in branch</p>
+<p>fast-import: dumping crash report to .git/fast_import_crash_676</p>
+<p>bzr: broken pipe</p>
+<p>```</p>
+<p>```</p>
+<p>bzr fast-export --plain . > plain-export.txt</p>
+<p>gvim fast-export.txt</p>
+<p>hack hack hack</p>
+<p>type fast-export.txt | git fast-import</p>
+<p>```</p>
+<p>_Note que talvez você precise de um editor que suporte arquivos gigantescos (como o Vim) e precise se debruçar sobre merges com arquivos com mesmo nome e diferentes cases. Isso que dá manter projetos com refactoring pesado._</p>
+<p>Por fim, faça a conversão para todos os .bzr que tiver e haverá um .git com todo o histórico desses anos usando Bazaar. O próximo passo é montar o histórico de todos eles em apenas um repositório (se assim desejar). Segue uma série de comandos que pode ajudar para usar em uma batch:</p>
+<p>```</p>
+<p>@echo off</p>
+<p>git remote add -f bzr ..\PathToOldConvertedRepo\%1</p>
+<p>git merge bzr/master</p>
+<p>git remote remove bzr</p>
+<p>mkdir Archive\%1</p>
+<p>echo Mova os arquivos importados</p>
+<p>pause</p>
+<p>git add --all</p>
+<p>git ci -m "Archiving old Bazaar repo (%1)."</p>
+<p>```</p>
+<p>Você pode chamar um a um em cima de um repo novo:</p>
+<p>```</p>
+<p>mkdir NewRepo</p>
+<p>cd NewRepo</p>
+<p>git init</p>
+<p>..\MyMergeBatch.bat OldRepoName</p>
+<p>..\MyMergeBatch.bat OldRepoName2</p>
+<p>..\MyMergeBatch.bat OldRepoName3</p>
+<p>```</p>
+<p>Para conseguir ter acesso ao histórico dos arquivos movidos, basta usar a opção -all do log:</p>
+<p>```</p>
+<p>git log --all -- MyRemovedPath</p>
+<p>```</p>
+<p>## Update</p>
+<p>Tive alguns problemas em rastrear o histórico utilizando a estratégia de fazer merge no mesmo branch. A solução que encontrei, embora não exatamente direta, foi realizar os merges em branches apartados primeiro, mover os arquivos (de preferência, usando o git, para que ele detecte o rename), aplicar o commit e realizar o merge com o master. Há uma vantagem nessa estratégia, além do log --follow funcionar melhor: mantenha os branches originais, além do ponteiro para remote. Dessa forma, depois de alguns anos, saberá de onde veio esse merge maluco.</p>
+<p>## Update2</p>
+<p>Depois de um tempo testando essa técnica, descobri que o Git se perde novamente e não encontra mais todos os logs, mesmo com --follow  mesmo movendo os arquivos. O meu problema está relacionado com mesmos paths dos arquivos em repositórios diferentes. Paciência.</p>
+</div>
+  <div class="taglist">
+  <p class="author">Wanderley Caloni,
+     <a href="https://github.com/Caloni/blog/blob/master/content/posts/todo-dunno-original-post-source">
+     2012-02-15 00:00:00 &#43;0000
+     </a>
+  </p>
+  <a href="/categories/writting">writting</a> 
+  <a href="/tags/movies">movies</a> 
+  <a class="externalgray" href="https://t.me/paneloni">discuss</a>
+  <script type="text/javascript" src="//cdn.livetrafficfeed.com/static/hitcounterjs/live.js?sty=49&min=1&sta=0&uni=1&tz=America%2FSao_Paulo&ro=0"></script><noscript id="LTF_hitcounter"><a href="https://livetrafficfeed.com/hit-counter">Hit Counter</a></noscript>
+  </div>
+  </div>
+  </body>
+  </html>
