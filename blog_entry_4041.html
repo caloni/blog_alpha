@@ -151,6 +151,7 @@
 <p>s/c:\\.*: \(warning C[0-9]\+\).*$/\1/</p>
 <p>sort u</p>
 <p>```</p>
+<p>E a resposta é:</p>
 <p>```</p>
 <p>warning C4456: declaration of 'identifier' hides previous local declaration</p>
 <p>warning C4457: declaration of 'identifier' hides function parameter</p>
@@ -160,10 +161,13 @@
 <p>Apenas quatro. Tão comuns que [a maioria](https://msdn.microsoft.com/en-us/library/mt694070.aspx) está até em ordem numérica e diz respeito a repetição de nomes em escopos diferentes, o que esconde os nomes do escopo anterior, mais amplo. O outro, o [C4701](https://msdn.microsoft.com/en-us/library/1wea5zwe.aspx), pode ser mais problemático, já que ele representa uma variável que potencialmente não foi inicializada, fonte comum daqueles erros de "como é que essa variável virou isso?".</p>
 <p>Felizmente só temos em um ponto do código:</p>
 <p>```</p>
+<p>//</p>
 <p>// Contract: </p>
 <p>//		if no timeout, it will hang until all bytes are returned</p>
 <p>//		if timeout is set, we can return less bytes than requested</p>
+<p>//</p>
 <p>int socket_receive(SOCKET socket, void* buffer, int len, const unsigned* timeout_in_seconds)</p>
+<p>{</p>
 <p>	int ret = 0;</p>
 <p>	char* char_buffer = (char*)buffer;</p>
 <p>	int received = 0;</p>
@@ -176,17 +180,30 @@
 <p>#ifdef _DEBUG</p>
 <p>	memset(char_buffer, 0xFF, len);</p>
 <p>#endif</p>
+<p>    // se esse if não for verdadeiro, start fica com valor indefinido</p>
 <p>	if(timeout_in_seconds)</p>
 <p>		start = time(NULL);</p>
 <p>	while(received < len)</p>
+<p>	{</p>
 <p>		if(timeout_in_seconds)</p>
 <p>		{</p>
+<p>            // C4701: potentially uninitialized local variable 'start' used</p>
 <p>			time_left = *timeout_in_seconds - (int)(time(NULL) - start);</p>
 <p>```</p>
+<p>A correção é simples: inicialize a p\*\*\*\*\* das suas variáveis zero (ou determine qual o comportamento no caso else).</p>
 <p>Vamos dar uma olhada em um dos outros warnings:</p>
 <p>```</p>
+<p>    string containerName = container->GetName();</p>
+<p>    unsigned handle = session->RegisterContainer(containerName, container);</p>
+<p>    </p>
+<p>    if(session->UsesBinaryProtocol())</p>
+<p>    {</p>
+<p>        // warning C4456: declaration of 'identifier' hides previous local declaration</p>
+<p>        unsigned handle = session->RegisterContainer(containerName, container);</p>
 <p>```</p>
 <p>OK, isso é meio feio. A variável handle tinha acabado de ser criada logo antes da entrada do if. A não ser que sejam de fato variáveis distintas no código (apenas analisando a função inteira) elas poderiam ser reaproveitadas em apenas uma (até porque possuem o mesmo tipo). E se forem variáveis distintas... bem, coloque nomes distintos =)</p>
+<p>E aqui termina mais uma sessão de "e se eu abrir mais os warnings do meu código". Espero que tenha aproveitado.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

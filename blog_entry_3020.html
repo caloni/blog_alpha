@@ -72,19 +72,40 @@
 <p>Em C não é necessário declarar os parâmetros que uma função recebe. Isso é implícito. A linguagem C foi criada para ser um amontoado de assembly descrito com um pouco de syntax sugar e juntado pelo linker através de uma tabela de nomes. O que importa são os nomes. Vamos exemplificar:</p>
 <p>```</p>
 <p>int main()</p>
+<p>{</p>
+<p>  int c = func(10, 20);</p>
+<p>  return c;</p>
+<p>}</p>
 <p>func(int a, int b)</p>
+<p>{</p>
+<p>  return a + b;</p>
+<p>}</p>
 <p>```</p>
 <p>Viu? Você nem precisa conhecer o nome na hora de chamar a função no main. Duvida? Veja o vídeo desse post. Se você colocar cada função em um arquivo separado mesmo assim o compilador compila e o linker acha tudo e tudo funciona.</p>
 <p>Isso pode gerar alguns problemas em tempo de execução, já que o linker, assim como o compilador, confia cegamente no programador. Isso acontece porque antigamente os programadores eram bons.</p>
 <p>```</p>
 <p>int main()</p>
+<p>{</p>
+<p>  int c = func(10);</p>
+<p>  return c;</p>
+<p>}</p>
 <p>func(int a, int b)</p>
+<p>{</p>
+<p>  return a + b;</p>
+<p>}</p>
 <p>```</p>
 <p>Para que programadores que não são bons conseguissem programar em código nativo algumas facilidades surgiram na linguagem C++, como a declaração de função sendo levada a sério. No padrão C isso também foi levado em conta. Se você possui uma declaração de função o compilador irá checar os argumentos.</p>
 <p>```</p>
 <p>func(int a, int b);</p>
 <p>int main()</p>
+<p>{</p>
+<p>  int c = func(10);</p>
+<p>  return c;</p>
+<p>}</p>
 <p>func(int a, int b)</p>
+<p>{</p>
+<p>  return a + b;</p>
+<p>}</p>
 <p>error C2198: 'func': too few arguments for call</p>
 <p>```</p>
 <p>Em C++ com o mesmo código:</p>
@@ -97,8 +118,16 @@
 <p>```</p>
 <p>int func();</p>
 <p>int main()</p>
+<p>{</p>
+<p>  int c = func();</p>
+<p>  return c;</p>
+<p>}</p>
 <p>int func()</p>
+<p>{</p>
+<p>  return 23;</p>
+<p>}</p>
 <p>```</p>
+<p>O código acima compila normalmente. E roda. Mas se você por algum motivo está com projeto que tem C arcaico misturado com C++ e precisa definir melhor como as funções se comportam faz assim:</p>
 <p>```</p>
 <p>int func(void);</p>
 <p>```</p>
@@ -107,6 +136,7 @@
 <p>warning C4087: 'func': declared with 'void' parameter list</p>
 <p>```</p>
 <p>Mas vai deixar rodar. Em C++ não tem jeito. Em C++ ele assume que você não é um bom programador.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

@@ -70,6 +70,7 @@
   </p>
   <div class="content">
 <p>Uma das piores ordenações possíveis, mas uma das mais simples de entender, é a bubble sort. Ela é passada para estudantes de computação porque é um algoritmo possível de explicar sem entrar em muitos detalhes do seu funcionamento, e também porque seu funcionamento é intuitivo.</p>
+<p>O objetivo do algoritmo é ordenar uma lista.</p>
 <p>Para conseguir ordenar o algoritmo precisa comparar todos os elementos e trocar as posições dos elementos desordenados, um a um.</p>
 <p>Como a lista é varrida de cabo a rabo os elementos na posição mais errada possível vão caminhando em direção à sua posição correta.</p>
 <p>Ou seja, se o primeiro elemento estiver na última posição são feitas N-1 trocas, do último para o penúltimo, do penúltimo para o antepenúltimo e assim por diante, até que o loop que varre todos os elementos faça a última comparação, entre o primeiro e o segundo elemento.</p>
@@ -79,14 +80,49 @@
 <p>Isso é feito da seguinte forma em C++:</p>
 <p>```</p>
 <p>vector<int> BubbleSort(vector<int> array)</p>
+<p>{</p>
+<p>    for (size_t i = 0; i < array.size(); ++i)</p>
+<p>    {</p>
+<p>        for (size_t j = 0; j < array.size() - 1 - i; ++j)</p>
+<p>        {</p>
+<p>            if (array[j] > array[j + 1])</p>
+<p>            {</p>
+<p>                swap(array[j], array[j + 1]);</p>
+<p>            }</p>
+<p>        }</p>
+<p>    }</p>
+<p>    return array;</p>
+<p>}</p>
 <p>```</p>
 <p>Se você leu o código deve ter percebido que existe um pequeno truque na hora de estipular o final do loop mais interno: ele diminui do tamanho do array menos o que já foi percorrido do elemento do loop externo. Em outras palavras, quanto mais avançarmos para a frente com o índice do loop externo menos avançamos para o final do array.</p>
 <p>Isso é feito porque sabemos que já foram feitas i comparações antes, o que quer dizer que os elementos na posição size-i já foram devidamente movidos para dentro do intervalo que será comparado na passada deste próximo loop interno.</p>
 <p>Para sentir o passo a passo dessas iterações, observe como os elementos de uma lista completamente desordenada se comporta e até onde vão as comparações do loop interno e, o mais importante, por que ele não precisa ir mais além.</p>
 <p>```</p>
+<p>i = 0</p>
+<p>6 5 4 3 2 1</p>
+<p>j - - - - j</p>
+<p>5 4 3 2 1 6</p>
+<p>i = 1</p>
+<p>5 4 3 2 1 6</p>
+<p>j - - - j</p>
+<p>4 3 2 1 5 6</p>
+<p>i = 2</p>
+<p>4 3 2 1 5 6</p>
+<p>j - - j</p>
+<p>3 2 1 4 5 6</p>
+<p>i = 3</p>
+<p>3 2 1 4 5 6</p>
+<p>j - j</p>
+<p>2 1 3 4 5 6</p>
+<p>i = 4</p>
+<p>2 1 3 4 5 6</p>
+<p>j j</p>
+<p>1 2 3 4 5 6</p>
 <p>```</p>
 <p>Parece um algoritmo rápido, mas isso acontece porque está escondido cada uma das comparações e trocas do loop interno. Por exemplo, no primeiro bloco acima foram feitas cinco comparações e cinco trocas (N-1).</p>
+<p>A complexidade deste algoritmo é de O(n^2) comparações e O(n^2) trocas.</p>
 <p>Ou seja, nada bom. Mas fácil de entender =)</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

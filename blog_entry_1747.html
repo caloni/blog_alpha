@@ -75,15 +75,119 @@
 <p> - Branch (Ramificação). Um grupo ordenado de revisões que descreve o histórico de um grupo de arquivos.</p>
 <p> - Repository (Repositório). Um depósito de revisões.</p>
 <p>Agora vamos brincar um pouco com os conceitos.</p>
+<p>O uso mais simples que existe no Bazaar é o controle de uma pasta sozinha, conhecida como uma Standalone Tree. Como toda Working Tree, ela possui um repositório relacionado, que no caso está dentro dela mesmo, na pasta oculta ".bzr".</p>
 <p>Pra criar uma Standalone Tree, tudo que precisamos é usar o comando init de dentro da pasta a ser controlada, quando é criado um repositório local. Adicionamos arquivos para o repositório com o comando add, e finalizamos nossa primeira versão com o comando commit.</p>
+<p>    C:\Tests>cd project1</p>
+<p>    </p>
+<p>    C:\Tests\project1>bzr init</p>
+<p>    </p>
+<p>    C:\Tests\project1>bzr add</p>
+<p>    added AUTHORS</p>
+<p>    added COPYING</p>
+<p>    added COPYRIGHT</p>
+<p>    added ChangeLog</p>
+<p>    added ChangeLog.2</p>
+<p>    added FAQ</p>
+<p>    ...</p>
+<p>    added winboard/extends/infboard/main.c</p>
+<p>    added winboard/extends/infboard/msvc.mak</p>
+<p>    added winboard/extends/infboard/support.c</p>
+<p>    </p>
+<p>    C:\Tests\project1>bzr commit -m "Comentario sobre a revisao"</p>
+<p>    Committing to: C:/Tests/project1/</p>
+<p>    added AUTHORS</p>
+<p>    added COPYING</p>
+<p>    added COPYRIGHT</p>
+<p>    added ChangeLog</p>
+<p>    added ChangeLog.2</p>
+<p>    added FAQ</p>
+<p>    ...</p>
+<p>    added winboard/extends/infboard/main.c</p>
+<p>    added winboard/extends/infboard/msvc.mak</p>
+<p>    added winboard/extends/infboard/support.c</p>
+<p>    Committed revision 1.</p>
+<p>    </p>
+<p>    C:\Tests\project1></p>
 <p>Feito. A partir daí temos um repositório onde podemos realizar o comando commit sempre que quisermos marcar um snapshot em nosso código-fonte.</p>
 <p>Se quisermos fazer uma alteração muito grande em nosso pequeno projeto seria melhor termos outro diretório onde trabalhar antes de realizar o commit na versão estável. Para isso podemos usar o comando branch, que cria uma nova pasta com todo o histórico da pasta inicial até esse ponto. Os históricos em um branch estão duplicados em ambas as pastas, e portanto são independentes. Você pode apagar a pasta original ou a secundária que terá o backup inteiro no novo branch.</p>
+<p>    C:\Tests\project1>cd ..</p>
+<p>    </p>
+<p>    C:\Tests>bzr branch project1 project1-changing</p>
+<p>    Branched 1 revision(s).</p>
+<p>    </p>
+<p>    C:\Tests>cd project1-changing</p>
+<p>    </p>
+<p>    C:\Tests\project1-changing></p>
 <p>Criar um novo branch totalmente duplicado pode se tornar um desperdício enorme de espaço em disco (e tempo). Para isso foi criado o conceito de Shared Repository, que basicamente é um diretório acima dos branchs que trata de organizar as revisões em apenas um só lugar, com a vantagem de otimizar o espaço. Nesse caso, antes de criar o projeto, poderíamos usar o comando init-repo na pasta mãe de nosso projeto, e depois continuar com o processo de init dentro da pasta do projeto.</p>
+<p>    C:\>bzr init-repo Tests</p>
+<p>    </p>
+<p>    C:\>cd Tests</p>
+<p>    </p>
+<p>    C:\Tests>bzr init project1</p>
+<p>    C:\Tests>cd project1</p>
+<p>    C:\Tests\project1>bzr add</p>
+<p>    added AUTHORS</p>
+<p>    added COPYING</p>
+<p>    added COPYRIGHT</p>
+<p>    added ChangeLog</p>
+<p>    added ChangeLog.2</p>
+<p>    added FAQ</p>
+<p>    ...</p>
+<p>    added winboard/extends/infboard/main.c</p>
+<p>    added winboard/extends/infboard/msvc.mak</p>
+<p>    added winboard/extends/infboard/support.c</p>
+<p>    </p>
+<p>    C:\Tests\project1>bzr commit -m "Comentario sobre a revisao"</p>
+<p>    Committing to: C:/Tests/project1/</p>
+<p>    added AUTHORS</p>
+<p>    added COPYING</p>
+<p>    added COPYRIGHT</p>
+<p>    added ChangeLog</p>
+<p>    added ChangeLog.2</p>
+<p>    added FAQ</p>
+<p>    ...</p>
+<p>    added winboard/extends/infboard/main.c</p>
+<p>    added winboard/extends/infboard/msvc.mak</p>
+<p>    added winboard/extends/infboard/support.c</p>
+<p>    Committed revision 1.</p>
+<p>    C:\Tests\project1></p>
 <p>Se compararmos o tamanho, veremos que o repositório compartilhado é que detém a maior parte dos arquivos, enquanto agora o ".bzr" que está na pasta do projeto possui apenas dados de controle. A mesma coisa irá acontecer com qualquer branch criado dentro da pasta de repositório compartilhado.</p>
 <p>Mas já criamos nossos dois branches cheios de arquivos, certo? Certo. Como já fizemos isso, devemos criar uma nova pasta como repositório compartilhado e criar dois novos branches dentro dessa pasta, cópias dos dois branches gordinhos:</p>
+<p>    C:\Tests>bzr init-repo project1-repo</p>
+<p>    </p>
+<p>    C:\Tests>bzr branch project1 project1-repo\project1</p>
+<p>    Branched 1 revision(s).</p>
+<p>    </p>
+<p>    C:\Tests>bzr branch project1-changing project1-repo\project-changing</p>
+<p>    Branched 1 revision(s).</p>
+<p>    </p>
+<p>    C:\Tests></p>
 <p>Isso irá recriar esses dois branches como os originais, mas com a metade do espaço em disco, pois seus históricos estarão compartilhados na pasta project1-repo.</p>
+<p>O SubVersion é um sistema de controle centralizado. O Bazaar consegue se comportar exatamente como o SubVersion, além de permitir carregar o histórico inteiro consigo. Quem decide como usá-lo é apenas você, pois cada usuário do sistema tem a liberdade de escolher a melhor maneira.</p>
 <p>Os comandos para usar o Bazaar à SubVersion são os mesmos do SubVersion: checkout e commit. No entanto, um checkout irá fazer com que seu commit crie a nova revisão primeiro no seu servidor (branch principal) e depois localmente. Se você não deseja criar um histórico inteiro localmente, pode criar um checkout leve (parâmetro --lightweight), que apenas contém arquivos de controle. No entanto, se o servidor de fontes não estiver disponível, você não será capaz de ações que dependam dele, como ver o histórico ou fazer commits.</p>
+<p>    C:\Tests\client>bzr checkout ..\server\project1</p>
+<p>    </p>
+<p>    C:\Tests\client>cd project1</p>
+<p>    </p>
+<p>    C:\Tests\client\project1>echo "New changes" >> FAQ</p>
+<p>    </p>
+<p>    C:\Tests\client\project1>bzr commit -m "New changes comment"</p>
+<p>    Committing to: C:/Tests/server/project1/</p>
+<p>    modified FAQ</p>
+<p>    Committed revision 2.</p>
+<p>    </p>
+<p>    C:\Tests\client\project1>bzr log -l 1 ..\..\server\project1</p>
+<p>    ------------------------------------------------------------</p>
+<p>    revno: 2</p>
+<p>    committer: Wanderley Caloni <wanderley@caloni.com.br></p>
+<p>    branch nick: project1</p>
+<p>    timestamp: Sun 2008-06-08 19:52:17 -0300</p>
+<p>    message:</p>
+<p>      New changes comment</p>
+<p>    </p>
+<p>    C:\Tests\client\project1></p>
 <p>Na verdade, o Bazaar vai além, e permite que um branch/checkout específico seja conectado e desconectado em qualquer repositório válido. Para isso são usados os comandos bind e unbind. Um branch conectado faz commits remotos e locais, enquanto um branch unbinded faz commits apenas locais. É possível mudar esse comportamento com o parâmetro --local, e atualizar o branch local com o comando update.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

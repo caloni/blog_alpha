@@ -76,8 +76,11 @@
 <p>Após essa leitura picante, podemos voltar ao feijão com arroz e começar de novo lendo a descrição de como funciona a GINA na Wikipedia, que nos remete a vários linques interessantes, entre os quais:</p>
 <p> - A explicação documentada do MSDN de como funciona a interação entre Winlogon e GINA.</p>
 <p> - Um ótimo artigo dividido em duas partes que explica como fazer sua própria customização de GINA. Foi nele que encontrei o retorno que precisava para emular a execução do Gerenciador de Tarefas baseado na digitação do Ctrl + Alt + Del. De brinde ainda vem uma GINA de exemplo para download.</p>
+<p>A partir de mais algumas buscas e execuções do Process Monitor podemos encontrar os valores no registro que habilitam o Fast User Switching e a Tela de Boas Vindas do Windows XP. O valor da Tela de Boas Vindas é que habilita e desabilita a execução do Gerenciador de Tarefas baseado em Ctrl + Alt + Del. Esses itens são essenciais para os que quiserem criar uma réplica perfeita da GINA da Microsoft no Windows XP. Isso finaliza a minha busca.</p>
 <p>Sempre tem mais. Se a máquina estiver no domínio essa opção não funciona. Porém, o WinLogon verifica se existe um valor chamado ForceFriendlyUi, que descobri graças ao Process Monitor. Aliado ao LogonType, sendo igual a 1, a Tela de Boas-Vindas é habilitada, mesmo em um ambiente com servidor de domínio.</p>
 <p>Por último, claro, salvo se não existir o valor GinaDll dentro da chave do WinLogon. Se esse for o caso, o ForceFriendlyUi também não funciona. E é exatamente aí que uma GINA é instalada.</p>
+<p>E eis que surge uma nova GINA.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

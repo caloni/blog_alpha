@@ -78,14 +78,24 @@
 <p>```</p>
 <p>#include "CalculatorTabajara.h"</p>
 <p>int soma(int x, int y)</p>
+<p>{</p>
 <p>	return x + y;</p>
+<p>}</p>
 <p>int subtrai(int x, int y)</p>
+<p>{</p>
 <p>	return x - y;</p>
+<p>}</p>
 <p>int multiplica(int x, int y)</p>
+<p>{</p>
 <p>	return x * y;</p>
+<p>}</p>
 <p>int divide(int x, int y)</p>
+<p>{</p>
 <p>	return x / y;</p>
+<p>}</p>
 <p>int main()</p>
+<p>{</p>
+<p>}</p>
 <p>```</p>
 <p>Para conseguir testar o projeto principal adicione-o como referência.</p>
 <p>{{< image src="TbFrxIr.png" caption="" >}}</p>
@@ -96,8 +106,11 @@
 <p>#include "..\CalculatorTabajara.h"</p>
 <p>using namespace Microsoft::VisualStudio::CppUnitTestFramework;</p>
 <p>namespace UnitTest1</p>
+<p>{</p>
 <p>	TEST_CLASS(UnitTest1)</p>
+<p>	{</p>
 <p>	public:</p>
+<p>		</p>
 <p>		TEST_METHOD(TestaSoma)</p>
 <p>		{</p>
 <p>			int z = soma(3, 2);</p>
@@ -119,6 +132,7 @@
 <p>			Assert::AreEqual(z, 1);</p>
 <p>		}</p>
 <p>	};</p>
+<p>}</p>
 <p>```</p>
 <p>Agora abrindo o jogo para você, amigo programador C++ que gosta de saber tudo que ocorre debaixo dos panos:</p>
 <p> - Um projeto Unit Test é apenas uma DLL com uns códigos de template.</p>
@@ -131,15 +145,19 @@
 <p>{{< image src="en6DWQp.png" caption="" >}}</p>
 <p>Se você habilitar Undecorate C++ Functions no Dependency Walker verá que ele exporta justamente uma espécie de reflection, na forma de structs:</p>
 <p>{{< image src="jiBQxZ4.png" caption="" >}}</p>
+<p>E se você prestar atenção na ordem de exportação desse símbolos verá que o primeiro se chama GetTestClassInfo. Acabou a magia, não é mesmo?</p>
 <p>Os headers e fontes do CppUnitTest ficam em paths do Visual Studio como VC\Auxiliary\VS\UnitTest, nas pastas include e lib. Nele é possível dar uma olhada no significado das macros e das classes disponibilizadas. Logo abaixo das macros, no arquivo principal, é possível ver como funciona o reflection:</p>
 <p>```</p>
 <p>namespace Microsoft{ namespace VisualStudio {namespace CppUnitTestFramework</p>
+<p>{</p>
 <p>	struct ClassMetadata</p>
+<p>	{</p>
 <p>		const wchar_t *tag;</p>
 <p>		const unsigned char *helpMethodName;</p>
 <p>		const unsigned char *helpMethodDecoratedName;</p>
 <p>	};</p>
 <p>	struct MethodMetadata</p>
+<p>	{</p>
 <p>		const wchar_t *tag;</p>
 <p>		const wchar_t *methodName;</p>
 <p>		const unsigned char *helpMethodName;</p>
@@ -148,11 +166,14 @@
 <p>		int lineNo;</p>
 <p>	};</p>
 <p>	struct ModuleAttributeMetadata</p>
+<p>	{</p>
 <p>		enum AttributeType { MODULE_ATTRIBUTE };</p>
 <p>		const wchar_t *tag;</p>
 <p>		const wchar_t *attributeName;</p>
+<p>        //...</p>
 <p>```</p>
 <p>É uma lib pequena e elegante que permite uma interação não apenas com a IDE, como poderia ser automatizada por um script, uma vez que sabe-se o funcionamento interno e algumas interfaces.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

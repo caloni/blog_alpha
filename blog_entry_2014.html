@@ -74,13 +74,35 @@
 <p>Na época eu estava às voltas com o leiaute do famoso teclado russo (percebeu a origem do nome do programa?). Eu havia estudado cirílico e estava na hora de pôr em prática no computador. Mas, como quase nunca treinava, quando tentava procurar uma palavra no Babylon ou arriscar uma expressão nas conversas com minha amiga de Moscou me perdia completamente para encontrar as letras. A necessidade é a mãe da invenção e foi aí que começou o desenvolvimento.</p>
 <p>Um alfabeto é uma das muitas maneiras de representar as palavras de uma língua por escrito. Uma palavra escrita é um conjunto de letras que representa os sons que usamos para falar essa palavra. Cada som usado é chamado de fonema.</p>
 <p>Assim sendo, embora o alfabeto russo seja diferente do alfabeto latino muitos fonemas são compartilhados. Isso quer dizer que podemos pegar algumas letras do cirílico e traduzir diretamente para algumas letras do nosso alfabeto, e outras letras não. Exemplos de letras que podemos fazer isso:</p>
+<p>    Б == B</p>
+<p>    В == V</p>
+<p>    Г == G</p>
+<p>    Д == D</p>
+<p>    ...</p>
 <p>Porém, após a tradução de uma letra no teclado, a posição dela geralmente não é a mesma posição do nosso teclado. Daí temos uma letra de nosso alfabeto em outro lugar. Se for feita uma tradução aproximada entre os dois alfabetos, nossas letras em um teclado russo ficariam dispostas assim:</p>
 <p>{{< image src="russian-keyboard.png" caption="Russian Keyboard" >}}</p>
 <p>Bem diferente do QWERT ASDFG que estamos acostumados, não?</p>
 <p>Ao digitar usando esse pseudo-leiaute o treino do leiaute do teclado russo estaria sendo feito mesmo escrevendo com o alfabeto latino. Legal, não? Poderia programar com as letras todas trocadas, porque a saída final é a mesma. Basta treinar os dedos para acertarem as mesmas letras nos novos lugares. Assim, quando precisasse escrever no alfabeto cirílico saberia melhor onde cada letra fica.</p>
+<p>A idéia é simples, e o código também não é nada complexo. Só preciso de um EXE e uma DLL. No EXE chamo uma função exportada pela DLL que por sua vez instala um hook de mensagens:</p>
+<p>    g_hHook = SetWindowsHookEx(WH_GETMESSAGE, HookProc, GetModuleHandle(MODULE_NAME), 0);</p>
 <p>Nas chamadas da função de callback da DLL, manipulo a mensagem WM_CHAR, que corresponde à digitação de caracteres, para trocar os caracteres originais do teclado pelos caracteres que deveriam existir no recém-inventado formato latino-russo, totalmente fora dos padrões e normas de segurança existentes:</p>
+<p>    switch( pMsg->message )</p>
+<p>    {</p>
+<p>    	case WM_CHAR:</p>
+<p>    	{</p>
+<p>    		LPTSTR ptzChar =</p>
+<p>    		_tcschr(g_tzRussAlphabet, (TCHAR) pMsg->wParam);</p>
+<p>    </p>
+<p>    		if( ptzChar )</p>
+<p>    		{</p>
+<p>    			size_t offset = ptzChar - g_tzRussAlphabet;</p>
+<p>    			pMsg->wParam = (WPARAM) g_tzPortAlphabet[offset];</p>
+<p>    		}</p>
+<p>    	}</p>
+<p>    } </p>
 <p>Simples assim. E temos um keylogger que troca caracteres! É impressionante como as coisas mais simples podem se transformar nos momentos mais divertidos de um programador em um feriado.</p>
 <p>[RusKey]: http://www.codeproject.com/KB/winsdk/ruskey.aspx</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

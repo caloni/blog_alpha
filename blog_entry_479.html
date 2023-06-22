@@ -72,10 +72,101 @@
 <p>Além de servir para corrigir alguns [bugs escabrosos] o nosso bom e fiel amigo depurador também possui uma utilidade inusitada: ensinar assembly! A pessoa interessada em aprender alguns conceitos básicos da arquitetura do 8086 pode se exercitar na frente de um depurador 16 ou 32 bits sem ter medo de ser feliz.</p>
 <p>Vamos ver alguns exemplos?</p>
 <p>Para quem está começando, recomendo usar um depurador simples, 16 bits e que existe em todo e qualquer Windows: o debug. Já usado para depurar a MBR [aqui no bloque], poderá agora ser usado para ensinar alguns princípios da plataforma de uma maneira indolor. Basta iniciá-lo na linha de comando:</p>
+<p>    debug</p>
+<p>    -</p>
 <p>Os comandos mais úteis são o r (ver ou alterar registradores), o t/p (executar passo-a-passo), o d (exibir memória), o u (desmontar assembly) e o a (montar assembly). Ah, não se esquecendo do ? (ajuda).</p>
 <p>{{< image src="debug-testpng.png" caption="Teste do debug 16 bits" >}}</p>
 <p>Outro ensinamento bem interessante diz respeito à pilha. Aprendemos sempre que a pilha cresce de cima pra baixo, ou seja, de endereços superiores para valores mais baixos. Também vimos que os registradores responsáveis por controlar a memória da pilha são o sp (stack pointer) e o ss (stack segment). Pois bem. Vamos fazer alguns testes para ver isso acontecer.</p>
+<p>    -r</p>
+<p>    AX=0000  BX=0000  CX=0000  DX=0000  SP=FFEE  BP=0000  SI=0000  DI=0000</p>
+<p>    DS=0CF9  ES=0CF9  SS=0CF9  CS=0CF9  IP=0100   NV UP EI PL NZ NA PO NC</p>
+<p>    0CF9:0100 69            DB      69</p>
+<p>    -r ss</p>
+<p>    SS 0CF9</p>
+<p>    :9000</p>
+<p>    -r sp</p>
+<p>    SP FFEE</p>
+<p>    :ffff</p>
+<p>    -r</p>
+<p>    AX=0000  BX=0000  CX=0000  DX=0000  SP=FFFF  BP=0000  SI=0000  DI=0000</p>
+<p>    DS=0CF9  ES=0CF9  SS=9000  CS=0CF9  IP=0100   NV UP EI PL NZ NA PO NC</p>
+<p>    0CF9:0100 69            DB      69</p>
+<p>    -a</p>
+<p>    0CF9:0100 mov ax, 1234</p>
+<p>    0CF9:0103 push ax</p>
+<p>    0CF9:0104 inc ax</p>
+<p>    0CF9:0105 push ax</p>
+<p>    0CF9:0106 inc ax</p>
+<p>    0CF9:0107 push ax</p>
+<p>    0CF9:0108</p>
+<p>    -u</p>
+<p>    0CF9:0100 B83412        MOV     AX,1234</p>
+<p>    0CF9:0103 50            PUSH    AX</p>
+<p>    0CF9:0104 40            INC     AX</p>
+<p>    0CF9:0105 50            PUSH    AX</p>
+<p>    0CF9:0106 40            INC     AX</p>
+<p>    0CF9:0107 50            PUSH    AX</p>
+<p>    0CF9:0108 6C            DB      6C</p>
+<p>    ...</p>
+<p>    AX=1234  BX=0000  CX=0000  DX=0000  SP=FFFF  BP=0000  SI=0000  DI=0000</p>
+<p>    DS=0CF9  ES=0CF9  SS=9000  CS=0CF9  IP=0103   NV UP EI PL NZ NA PO NC</p>
+<p>    0CF9:0103 50            PUSH    AX</p>
+<p>    -t</p>
+<p>    </p>
+<p>    AX=1234  BX=0000  CX=0000  DX=0000  SP=FFFD  BP=0000  SI=0000  DI=0000</p>
+<p>    DS=0CF9  ES=0CF9  SS=9000  CS=0CF9  IP=0104   NV UP EI PL NZ NA PO NC</p>
+<p>    0CF9:0104 40            INC     AX</p>
+<p>    -t</p>
+<p>    </p>
+<p>    AX=1235  BX=0000  CX=0000  DX=0000  SP=FFFD  BP=0000  SI=0000  DI=0000</p>
+<p>    DS=0CF9  ES=0CF9  SS=9000  CS=0CF9  IP=0105   NV UP EI PL NZ NA PE NC</p>
+<p>    0CF9:0105 50            PUSH    AX</p>
+<p>    -t</p>
+<p>    </p>
+<p>    AX=1235  BX=0000  CX=0000  DX=0000  SP=FFFB  BP=0000  SI=0000  DI=0000</p>
+<p>    DS=0CF9  ES=0CF9  SS=9000  CS=0CF9  IP=0106   NV UP EI PL NZ NA PE NC</p>
+<p>    0CF9:0106 40            INC     AX</p>
+<p>    -t</p>
+<p>    </p>
+<p>    AX=1236  BX=0000  CX=0000  DX=0000  SP=FFFB  BP=0000  SI=0000  DI=0000</p>
+<p>    DS=0CF9  ES=0CF9  SS=9000  CS=0CF9  IP=0107   NV UP EI PL NZ NA PE NC</p>
+<p>    0CF9:0107 50            PUSH    AX</p>
+<p>    -t</p>
+<p>    </p>
+<p>    AX=1236  BX=0000  CX=0000  DX=0000  SP=FFF9  BP=0000  SI=0000  DI=0000</p>
+<p>    DS=0CF9  ES=0CF9  SS=9000  CS=0CF9  IP=0108   NV UP EI PL NZ NA PE NC</p>
+<p>    0CF9:0108 6C            DB      6C</p>
+<p>    -d 9000:fff9</p>
+<p>    9000:FFF0                             36 12 35 12 34 12 00            6.5.4..</p>
+<p>    -</p>
 <p>Como vemos, ao empilhar coisas na pilha, o valor do registrador sp diminui. E ao fazermos um dump do valor de sp conseguimos ver os valores empilhados anteriormente. Isso é muito útil na hora de depurarmos chamadas de funções. Por exemplo, no velho teste do Windbg x Bloco de notas:</p>
+<p>    windbg notepad</p>
+<p>    0:000> bp user32!MessageBoxW</p>
+<p>    0:000> g</p>
+<p>    ModLoad: 5cfd0000 5cff6000   C:\WINDOWS\system32\ShimEng.dll</p>
+<p>    ModLoad: 596f0000 598ba000   C:\WINDOWS\AppPatch\AcGenral.DLL</p>
+<p>    ModLoad: 76b20000 76b4e000   C:\WINDOWS\system32\WINMM.dll</p>
+<p>    ModLoad: 774c0000 775fd000   C:\WINDOWS\system32\ole32.dll</p>
+<p>    ...</p>
+<p>    ModLoad: 10000000 10030000   C:\Arquivos de programas\Babylon\Babylon-Pro\CAPTLIB.DLL</p>
+<p>    ModLoad: 74c40000 74c6c000   C:\WINDOWS\system32\OLEACC.dll</p>
+<p>    ModLoad: 76050000 760b5000   C:\WINDOWS\system32\MSVCP60.dll</p>
+<p>    Breakpoint 0 hit</p>
+<p>    eax=00000001 ebx=00000000 ecx=000a7884 edx=00000000 esi=000b2850 edi=0000000a</p>
+<p>    eip=7e3b630a esp=0007f6d8 ebp=0007f6f4 iopl=0         nv up ei pl nz na po nc</p>
+<p>    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000202</p>
+<p>    USER32!MessageBoxW:</p>
+<p>    7e3b630a 8bff            mov     edi,edi</p>
+<p>    0:000> dd esp L5</p>
+<p>    0007f6d8  01001fc4 00010226 000b2850 000a7ac2 ; ret   handle message caption</p>
+<p>    0007f6e8  00000033                            ; mb_ok</p>
+<p>    0:000> du 000b2850</p>
+<p>    000b2850  "O texto do arquivo Sem título fo"</p>
+<p>    000b2890  "i alterado...Deseja salvar as al"</p>
+<p>    000b28d0  "terações?"</p>
+<p>    0:000> ezu 000b2850 "Tem certeza que deseja salvar esse artigo de merda?"</p>
+<p>    0:000> g</p>
+<p>    ModLoad: 75f50000 7604d000   C:\WINDOWS\system32\BROWSEUI.dll</p>
 <p>{{< image src="windbgxnotepad.png" caption="WinDbg x Notepad" >}}</p>
 <p>Aposto que você sabe em qual dos três botões eu cliquei =)</p>
 <p>Depurar é um processo que exige dedicação (experiência) tanto ou mais do que o próprio desenvolvimento. Por isso, fazer um esforço para descobrir algum problema em algum software pode ser vantajoso no futuro, pois você terá mais capacidade de entender o que está acontecendo à sua volta.</p>
@@ -100,6 +191,7 @@
 <p>[Hook de COM no WinDbg]: {{< relref "hook-de-com-no-windbg" >}}</p>
 <p>[Detectando hooks globais no WinDbg]: {{< relref "detectando-hooks-globais-no-windbg" >}}</p>
 <p>[Analisando dumps com WinDbg e IDA]: {{< relref "analisando-dumps-com-windbg-e-ida" >}}</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

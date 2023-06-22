@@ -75,6 +75,7 @@
 <p>Mas, pra início de conversa, o que é um job mesmo?</p>
 <p>#### Leve introdução sobre o conceito de jobs</p>
 <p>Um job é um objeto "novo" no kernel do Windows 2000 em diante, e se prontifica a suprir a carência que havia anteriormente de **controle sobre o que os processos podem fazer e por quanto tempo**.</p>
+<p>A abstração mais coerente que eu consigo tirar de um job é como **um trabalho a ser executada por um ou mais processos**. O objeto job controla a criação, o término e as exceções que ocorrem dentro dele mesmo.</p>
 <p>{{< image src="job.gif" caption="Windows Jobs" >}}</p>
 <p>Entre as funções mais úteis de um job estão limitar o tempo de execução do conjunto de processos, o número de handles/arquivos/outros objetos abertos, limite de memória RAM ocupada e a possibilidade de terminar todos os processos de uma só vez.</p>
 <p>Para informações básicas de como criar um job e anexar processos recomendo o ótimo artigo de [Jeffrey Richter](http://www.microsoft.com/msj/0399/jobkernelobj/jobkernelobj.aspx).</p>
@@ -88,11 +89,74 @@
 <p> * do processo e de qualquer subprocesso criado por este.</p>
 <p> */</p>
 <p>DWORD CreateJobAndWait(LPSTR cmdLine)</p>
+<p>{</p>
+<p>   // primeiro, criamos um job sem nome</p>
+<p>   HANDLE job = CreateJobObject(NULL, NULL);</p>
+<p>   if( job )</p>
+<p>   {</p>
+<p>      STARTUPINFO si = { sizeof(si) };</p>
+<p>      PROCESS_INFORMATION pi;</p>
+<p>      // depois, criamos um processo suspenso (travado)</p>
+<p>      if( CreateProcess(NULL, cmdLine, NULL, NULL, FALSE, </p>
+<p>         CREATE_SUSPENDED | CREATE_NEW_CONSOLE, NULL, NULL, &si, &pi) )</p>
+<p>      {</p>
+<p>         // atribuímos esse processo ao nosso jobo</p>
+<p>         AssignProcessToJobObject(job, pi.hProcess);</p>
+<p>         // rodamos o processo</p>
+<p>         ResumeThread(pi.hThread);</p>
+<p>         // essa é uma completion i/o port genérica</p>
+<p>         // (ou seja, não relacionada com nenhum arquivo</p>
+<p>         // ou outra completion port)</p>
+<p>         HANDLE port = CreateIoCompletionPort(INVALID_HANDLE_VALUE, </p>
+<p>                 NULL, 0, 0);</p>
+<p>         if( port )</p>
+<p>         {</p>
+<p>            JOBOBJECT_ASSOCIATE_COMPLETION_PORT jobPort;</p>
+<p>            jobPort.CompletionKey = 0; // ver variável key abaixo</p>
+<p>            jobPort.CompletionPort = port; // nossa completion port vai aqui!</p>
+<p>            // definimos a c.p. em nosso job</p>
+<p>            if( SetInformationJobObject(job, </p>
+<p>                        JobObjectAssociateCompletionPortInformation, </p>
+<p>                        &jobPort, sizeof(jobPort)) )</p>
+<p>            {</p>
+<p>               ULONG_PTR key = 0; // ver membro CompletionKey acima</p>
+<p>               LPOVERLAPPED overlap = 0;</p>
+<p>               DWORD tranferred = 0;</p>
+<p>               // nosso loop de mensagens com completion port</p>
+<p>               while( GetQueuedCompletionStatus(port, &tranferred, </p>
+<p>                  &key, &overlap, INFINITE) )</p>
+<p>               {</p>
+<p>                  // transferred especifica a mensagem</p>
+<p>                  DWORD msg = *(LPDWORD) &tranferred;</p>
+<p>                  // significa que não existem mais processos rodando</p>
+<p>                  if( msg == JOB_OBJECT_MSG_ACTIVE_PROCESS_ZERO )</p>
+<p>                     break; // saímos fora</p>
+<p>               }</p>
+<p>            }</p>
+<p>            CloseHandle(port); // fecha tudo</p>
+<p>         }</p>
+<p>         CloseHandle(pi.hThread); // fecha tudo</p>
+<p>         CloseHandle(pi.hProcess); // fecha tudo</p>
+<p>      }</p>
+<p>      CloseHandle(job); // fecha tudo</p>
+<p>   }</p>
+<p>   return 0;</p>
+<p>}</p>
 <p>int main(int argc, char* argv[])</p>
+<p>{</p>
+<p>   if( argc == 2 )</p>
+<p>      CreateJobAndWait(argv[1]);</p>
+<p>}</p>
 <p>```</p>
+<p>O exemplo acima cria um processo baseado em uma linha de comando e espera pelo término do processo criado e de todos os subprocessos criados a partir do primeiro processo. Note que mesmo que o primeiro processo termine, a Completion Port só receberá o evento que todos os processos acabaram depois que o último subprocesso terminar.</p>
 <p>Dessa forma, ao compilarmos o código e rodarmos mais um prompt de comando através de nosso programa ele fica travado mesmo ao fecharmos o prompt criado. O programa só será finalizado ao fecharmos o Bloco de Notas iniciado pelo segundo prompt.</p>
 <p>Além desse evento, que era o que eu estava procurando, esse método permite obter outros eventos bem interessantes:</p>
+<p>  * JOB_OBJECT_MSG_NEW_PROCESS. Um novo processo foi criado dentro do job.</p>
+<p>  * JOB_OBJECT_MSG_EXIT_PROCESS. Um processo existente dentro do job foi terminado.</p>
+<p>  * JOB_OBJECT_MSG_PROCESS_MEMORY_LIMIT. O limite de memória de um processo já foi alcançado.</p>
+<p>  * JOB_OBJECT_MSG_END_OF_PROCESS_TIME. O limite de tempo de processamento de um processo já foi alcançado.</p>
 <p>Enfim, jobs não terminam por aí. Dê mais uma olhada no MSDN e veja se encontra mais alguma utilidade interessante para o nosso amigo job. Eu encontrei e fiquei feliz.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

@@ -72,11 +72,34 @@
 <p>Nos últimos dias me deparei com o seguinte (pseudo-)código:</p>
 <p>```</p>
 <p>int main(int argc, const char **argv)</p>
+<p>{</p>
+<p>    MyClass obj;</p>
+<p>    HRESULT hr = obj.init();</p>
+<p>    if ( SUCCEEDED(hr) )</p>
+<p>    {</p>
+<p>        if ( args have "cmd1" )</p>
+<p>        {</p>
+<p>            hr = obj.cmd1();</p>
+<p>        }</p>
+<p>        else if ( args have "cmd2" )</p>
+<p>        {</p>
+<p>            hr = obj.cmd2();</p>
+<p>        }</p>
+<p>        ... // você entendeu a ideia</p>
+<p>    }</p>
+<p>}</p>
 <p>```</p>
 <p>Dentro de MyClass a seguinte estrutura:</p>
 <p>```</p>
 <p>class MyClass</p>
+<p>{</p>
 <p>public:</p>
+<p>    HRESULT m_result = S_OK;</p>
+<p>    HRESULT init();</p>
+<p>    HRESULT cmd1();</p>
+<p>    HRESULT cmd2();</p>
+<p>    // você pegou a ideia</p>
+<p>};</p>
 <p>```</p>
 <p>Então eu me pergunto: qual a função da classe em um código desses?</p>
 <p>Bjarne Stroustrup desde o começo, em seu livro [The C++ Programming Language](https://www.google.com.br/search?q=the+c%2B%2B+programming+language), sugere que C++ não é uma linguagem unicamente orientada a objetos, mas multi-paradigmas. Hoje, em 2017, ela é uma linguagem genérica e até funcional. Na época poderia ser usada como orientada a objetos, mas também como estruturada e imperativa comum. O goto funciona até hoje.</p>
@@ -88,12 +111,21 @@
 <p>```</p>
 <p>#include <map></p>
 <p>int main(int argc, const char **argv)</p>
+<p>{</p>
+<p>    MyMap cmds;</p>
+<p>    if ( SUCCEEDED(init()) )</p>
+<p>    {</p>
+<p>        cmds[args]();</p>
+<p>    }</p>
+<p>}</p>
 <p>HRESULT init();</p>
 <p>HRESULT cmd1();</p>
 <p>HRESULT cmd2();</p>
 <p>// você pegou a ideia</p>
 <p>```</p>
 <p>É a melhor solução? Não. Só uma ideia para tornar o código simples de entender, enxuto para manter, com apenas o modelito básico. Tem até um map para evitar encher de ifs. Mas não precisaria se você tem meia-dúzia de funções.</p>
+<p>E note que eu disse funções, não classe. E é possível ter classe sem classes.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

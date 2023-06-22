@@ -72,9 +72,22 @@
 <p>Não costumo participar de campeonatos de programação por alguns motivos vagos: é perda de tempo (não ganho nada com isso), sou um péssimo programador (ou pasteleiro), dá preguiça (esse é o mais válido) e por aí vai o mimimi. Dessa forma, sempre passei ileso de eventos como o atual [Google Code Jam](https://code.google.com/codejam/contest/2974486/dashboard), que pretende levar a categoria de código ofuscado para um novo patamar.</p>
 <p>No entanto, esse ano apareceram dois motivos que me levaram a gastar cinco minutos de paciência com as historinhas bestas da equipe do Google. Primeiro o Python, que desde 2013 tem renovado em mim a sensação que programar ainda é divertido (e que o pessoal da Microsoft e do padrão C++ tinham tirado de mim há muito tempo com seus compiladores cada vez mais complexos/lentos e as IDEs que demoram o tempo do cafezinho para abrir). Segundo o que move o mundo: a concorrência. Minha digníssima esposa, levada por alguns pontos-extra na faculdade (uma iniciativa até que louvável do professor), resolveu participar da primeira fase (a classificação desta fase também dava pontos).</p>
 <p>{{< image src="zXzJlL5.jpg" caption="jam2014" >}}</p>
+<p>O fato é que depois desses cinco minutos eu simplesmente não consegui parar até o minuto final das 23 horas (horário de Brasília) de domingo, quando o tempo-limite esgotou. O aspecto mais divertido do Code Jam é que há liberdade total para a ferramenta que você pretende usar: linguagens de programação, Excel, uma calculadora ou apenas seu cérebro. Você recebe uma "missão" e um arquivo de entrada e precisa cuspir um arquivo de saída de acordo com a missão. Apenas isso. O resto fica por conta da criatividade dos codadores e gambiarreiros de plantão.</p>
 <p>Todos os exercícios levam em consideração um arquivo de entrada que possui em sua primeira linha o número de testes que serão feitos e em seguida um número determinado de linhas e parâmetros, geralmente divididos por espaço. O primeiro problema, por exemplo, apenas considerava a suposição de cartas em pequeno truque de mágica e recebia como entrada a disposição dessas cartas junto com a escolha da fileira que o participante dizia onde estava a carta escolhida.</p>
+<p>    </p>
+<p>    2</p>
+<p>    1 2 3 4</p>
+<p>    5 6 7 8</p>
+<p>    9 10 11 12</p>
+<p>    13 14 15 16</p>
+<p>    3</p>
+<p>    1 2 5 4</p>
+<p>    3 11 6 15</p>
+<p>    9 10 7 12</p>
+<p>    13 14 8 16</p>
 <p>```</p>
 <p>import sys</p>
+<p>f = open(sys.argv[1])</p>
 <p>total = int(f.readline())</p>
 <p>for case in range(0, total):</p>
 <p>	guess1 = int(f.readline())</p>
@@ -97,6 +110,7 @@
 <p>	else:</p>
 <p>		print 'Case #' + str(case+1) + ': Volunteer cheated!'</p>
 <p>```</p>
+<p>O segundo exercício já envolvia um jogo bem divertido em que o jogador ficava clicando em cookies como se não houvese amanhã. Esse deu um pouco mais de trabalho, mas foi mais divertido que o primeiro.</p>
 <p>```</p>
 <p>import sys</p>
 <p>def CookieClicker(farmCost, farmIncrement, cookieTarget):</p>
@@ -111,8 +125,12 @@
 <p>		cookieFarmTime = cookieTarget / (cookiePerSecond + farmIncrement) # novo tempo com mais uma fazenda criada</p>
 <p>		farmTime = farmTime + farmCost / cookiePerSecond + cookieFarmTime # agora com o novo tempo de fazer outra fazenda e soh cookies</p>
 <p>	return bestTime</p>
+<p>f = open(sys.argv[1])</p>
 <p>total = int(f.readline())</p>
 <p>for case in range(1, total + 1):</p>
+<p>    args = [float(i) for i in f.readline().split()]</p>
+<p>    ret = CookieClicker(args[0], args[1], args[2])</p>
+<p>    print 'Case #' + str(case) + ': ' + '{0:.7f}'.format(ret)</p>
 <p>```</p>
 <p>Já o terceiro... o terceiro passa. Vamos para o quarto, um dos mais instigantes, pois envolve duas regras distintas de um jogo e a otimização das melhores estratégias para ambos. Isso consumiu bem mais tempo que os outros dois iniciais, pois lembro de ter me isolado por uma hora para conseguir colocar tudo na cabeça.</p>
 <p>```</p>
@@ -158,32 +176,134 @@
 <p>		naomi.remove(naomiBlock)</p>
 <p>		ken.remove(kenBlock)</p>
 <p>	return naomiCount</p>
+<p>f = open(sys.argv[1])</p>
 <p>total = int(f.readline())</p>
 <p>for case in range(1, total + 1):</p>
+<p>        f.readline()</p>
+<p>        naomi = [float(i) for i in f.readline().split()]</p>
+<p>        ken = [float(i) for i in f.readline().split()]</p>
+<p>        war = War(naomi, ken)</p>
+<p>        warCheat = WarCheat(naomi, ken)</p>
+<p>        print 'Case #' + str(case) + ': ' + str(warCheat)+ ' ' + str(war)</p>
 <p>```</p>
 <p>Já o terceiro foi um fracasso total. Tentei de todas as maneiras resolver o impasse de descobrir qual disposição de um jogo de campo minado poderia ser resolvido em apenas um clique (parece o jogo oposto do viciado clicador de cookies), mas falhei miseravelmente. E desconfio o porquê. Primeiro entendo que meu perfeccionismo me impediu de realizar uma checagem padrão para exceções já conhecidas (quando há apenas uma linha ou coluna, quando há apenas um espaço sem minas, etc). Eu pensei: se o Google fez esse problema, ele deve ter bolado alguma solução genérica que independa de ifs. Bom, não que eu saiba. Depois de terminado o tempo dei uma olhada em algumas soluções dos competidores e não achei nenhuma solução que usasse algum algoritmo maluco e genérico (não achei nenhum indiano, contudo).</p>
 <p>Eis a solução porca e mal-resolvida (alguns pontos do códido foram feitos depois de ver o código de outrem):</p>
 <p>```</p>
 <p>import sys</p>
 <p>def FieldToString(field):</p>
+<p>        ret = '\n'</p>
 <p>	for r in field:</p>
 <p>		for c in r:</p>
 <p>			ret = ret + str(c)</p>
 <p>		ret = ret + '\n'</p>
 <p>	return ret</p>
 <p>def CountMines(field, r, c):</p>
+<p>        ret = 0</p>
+<p>        row = len(field)</p>
+<p>        col = len(field[0])</p>
+<p>        if r < row-1 and field[r+1][c] == '*': ret = ret + 1</p>
+<p>        if c < col-1 and field[r][c+1] == '*': ret = ret + 1</p>
+<p>        if r > 0 and field[r-1][c] == '*': ret = ret + 1</p>
+<p>        if c > 0 and field[r][c-1] == '*': ret = ret + 1</p>
+<p>        if r < row-1 and c < col-1 and field[r+1][c+1] == '*': ret = ret + 1</p>
+<p>        if r > 0 and col > 0 and field[r-1][c-1] == '*': ret = ret + 1</p>
+<p>        if r < row-1 and c > 0 and field[r+1][c-1] == '*': ret = ret + 1</p>
+<p>        if r > 0 and c < col-1 and field[r-1][c+1] == '*': ret = ret + 1</p>
+<p>        return ret</p>
 <p>def ExpandClick(field, r, c):</p>
+<p>        if field[r][c] != '0': return</p>
+<p>        def Expand(field, r, c):</p>
+<p>                if field[r][c] == '.':</p>
+<p>                        field[r][c] = str(CountMines(field, r, c))</p>
+<p>                        ExpandClick(field, r, c)</p>
+<p>        row = len(field)</p>
+<p>        col = len(field[0])</p>
+<p>        if r < row-1 and field[r+1][c] != '*':</p>
+<p>                Expand(field, r+1, c)</p>
+<p>        if c < col-1 and field[r][c+1] != '*':</p>
+<p>                Expand(field, r, c+1)</p>
+<p>        if r > 0 and field[r-1][c] != '*':</p>
+<p>                Expand(field, r-1, c)</p>
+<p>        if c > 0 and field[r][c-1] != '*':</p>
+<p>                Expand(field, r, c-1)</p>
+<p>        if r < row-1 and c < col-1 and field[r+1][c+1] != '*':</p>
+<p>                Expand(field, r+1, c+1)</p>
+<p>        if r > 0 and col > 0 and field[r-1][c-1] != '*':</p>
+<p>                Expand(field, r-1, c-1)</p>
+<p>        if r < row-1 and c > 0 and field[r+1][c-1] != '*':</p>
+<p>                Expand(field, r+1, c-1)</p>
+<p>        if r > 0 and c < col-1 and field[r-1][c+1] != '*':</p>
+<p>                Expand(field, r-1, c+1)</p>
 <p>def FieldClicker(field):</p>
 <p>	row = len(field)</p>
 <p>	col = len(field[0])</p>
+<p>        for r in range(row):</p>
+<p>                for c in range(col):</p>
+<p>                        if field[r][c] == 'C':</p>
+<p>                                field[r][c] = str(CountMines(field, r, c))</p>
+<p>                                ExpandClick(field, r, c)</p>
+<p>                                break</p>
+<p>        return field</p>
 <p>def FieldValidate(field):</p>
+<p>        ret = True</p>
 <p>	row = len(field)</p>
 <p>	col = len(field[0])</p>
+<p>        for r in range(row):</p>
+<p>                for c in range(col):</p>
+<p>                        if field[r][c] == '.':</p>
+<p>                                ret = False</p>
+<p>                                break</p>
+<p>        return ret</p>
 <p>def FieldRender(row, col, mines):</p>
 <p>	field = []</p>
+<p>        for i in range(row):</p>
+<p>                field.append(['.'] * col)</p>
+<p>        if row == 2:</p>
+<p>                nextRow = 0</p>
+<p>                nextCol = 0</p>
+<p>                while mines:</p>
+<p>                        field[nextRow][nextCol] = '*'</p>
+<p>                        nextRow = nextRow + 1</p>
+<p>                        if nextRow == row:</p>
+<p>                                nextRow = 0</p>
+<p>                                nextCol = nextCol + 1</p>
+<p>                        mines = mines - 1</p>
+<p>                field[0][col-1] = 'C'</p>
+<p>        elif col == 2:</p>
+<p>                nextRow = 0</p>
+<p>                nextCol = 0</p>
+<p>                while mines:</p>
+<p>                        field[nextRow][nextCol] = '*'</p>
+<p>                        nextCol = nextCol + 1</p>
+<p>                        if nextCol == col:</p>
+<p>                                nextRow = nextRow + 1</p>
+<p>                                nextCol = 0</p>
+<p>                        mines = mines - 1</p>
+<p>                field[row-1][0] = 'C'</p>
 <p>	elif row * col - mines < 3:</p>
+<p>                nextRow = row - 1</p>
+<p>                nextCol = 0</p>
+<p>                while mines:</p>
+<p>                        field[nextRow][nextCol] = '*'</p>
+<p>                        nextCol = nextCol + 1</p>
+<p>                        if nextCol == col:</p>
+<p>                                nextRow = nextRow - 1</p>
+<p>                                nextCol = 0</p>
+<p>                        mines = mines - 1</p>
+<p>                field[0][col-1] = 'C'</p>
+<p>        else:</p>
+<p>                for r in range(len(field)):</p>
+<p>                        for c in range(len(field[0])):</p>
+<p>                                field[r][c] = '*'</p>
+<p>                if row * col - mines >= 9 and row >= 3 and col >= 3:</p>
+<p>                        empties = row * col - mines</p>
+<p>                        nextRow = 0</p>
+<p>                        nextCol = 0</p>
+<p>                        while empties:</p>
+<p>                                </p>
 <p>	return field</p>
 <p>def Mine(row, col, mines):</p>
+<p>        if row * col - mines == 2 and row > 1 and col > 1:</p>
 <p>		return 'Impossible!'</p>
 <p>	if row * col - mines == 3:</p>
 <p>		return 'Impossible!'</p>
@@ -193,14 +313,56 @@
 <p>		return 'Impossible!'</p>
 <p>	else:</p>
 <p>		return FieldToString(FieldRender(row, col, mines))</p>
+<p>f = open(sys.argv[1])</p>
 <p>total = int(f.readline())</p>
 <p>for case in range(1, total + 1):</p>
+<p>        field = [int(i) for i in f.readline().split()]</p>
+<p>        print 'Case #' + str(case) + ': ' + Mine(field[0], field[1], field[2])</p>
 <p>#############################################################################3</p>
 <p>def FieldRenderWrong(row, col, mines):</p>
 <p>	field = []</p>
 <p>	for i in range(row):</p>
 <p>		field.append(['.'] * col)</p>
+<p>        def GetNextRow(field, clickRow, clickCol):</p>
+<p>                row = len(field)</p>
+<p>                col = len(field[0])</p>
+<p>                nextRow = 0</p>
+<p>                nextCol = 0</p>
+<p>                rowDist = 0</p>
+<p>                colDist = 0</p>
+<p>                for r in range(row):</p>
+<p>                        for c in range(col):</p>
+<p>                                if field[r][c] == '.':</p>
+<p>                                        rDist = abs(r - clickRow)</p>
+<p>                                        cDist = abs(c - clickCol)</p>
+<p>                                        totDist = rDist + cDist</p>
+<p>                                        currTotDist = rowDist + colDist</p>
+<p>                                        if totDist > currTotDist:</p>
+<p>                                                nextRow = r</p>
+<p>                                                rowDist = rDist</p>
+<p>                                                nextCol = c</p>
+<p>                                                colDist = cDist</p>
+<p>                                        else:</p>
+<p>                                                rowCount = 0</p>
+<p>                                                for r2 in range(row):</p>
+<p>                                                        if field[r2][c] == '*':</p>
+<p>                                                                rowCount = rowCount + 1</p>
+<p>                                                colCount = 0</p>
+<p>                                                for c2 in range(col):</p>
+<p>                                                        if field[r][c2] == '*':</p>
+<p>                                                                colCount = colCount + 1</p>
+<p>                                                lastRow = rowCount == row - 1</p>
+<p>                                                lastCol = colCount == col - 1</p>
+<p>                                                if lastRow or lastCol:</p>
+<p>                                                        nextRow = r</p>
+<p>                                                        rowDist = rDist</p>
+<p>                                                        nextCol = c</p>
+<p>                                                        colDist = cDist</p>
+<p>                return nextRow, nextCol</p>
+<p>        clickRow = 0</p>
+<p>        clickCol = col-1</p>
 <p>	field[clickRow][clickCol] = 'C'</p>
+<p>        nextRow, nextCol = GetNextRow(field, clickRow, clickCol)</p>
 <p>	while mines:</p>
 <p>		field[nextRow][nextCol] = '*'</p>
 <p>		nextRow, nextCol = GetNextRow(field, clickRow, clickCol)</p>
@@ -209,6 +371,7 @@
 <p>```</p>
 <p>Não, eu não usei o Google para descobrir a lógica por trás do problema. Vai que os caras ficam monitorando quem fica fazendo pesquisas. E, não, tampouco usei o Bing. Não sou masoquista a esse ponto.</p>
 <p>_PS: Bom, estou na próxima fase. Veremos o que o futuro nos espera. Esse programador foi fisgado pelo campeonato de pastéis._</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

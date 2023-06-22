@@ -79,6 +79,8 @@
 <p>Ele pode não parecer, mas é beeem mais antigo do que parece. Nós, veteranos, que possuímos mais anos de vida em frente ao monitor que gostaríamos de admitir (copyright  => [DQ]), usávamos o xcopy para copiar pastas e disquetes inteiros no MS-DOS, um sistema operacional predecessor do Windows Vista que vinha em preto e branco e sem User Account Control.</p>
 <p>No entanto, esse pequeno grande aplicativo sobreviveu todos esses anos, atingiu a maioridade, e hoje permite a nós, programadores de mouse, fazer nossos backups com um simples arquivo de batch e um pouco de imaginação.</p>
 <p>Aos mocinho e mocinhas presentes: os arquivos de batch, de extensão .bat ou .cmd, são, assim como o MS-DOS, coisas de veteranos do velho oeste. São arquivos de script que contém um conjunto de comandos que pode-se digitar manualmente na tela preta. Seu objetivo principal é otimizar e facilitar a digitação de tarefas complexas e torná-las mais simples, fáceis de executar e de lembrar.</p>
+<p>O uso do programa pode ser aprendido dando-se uma olhada em sua ajuda (xcopy /?)</p>
+<p>    xcopy origem [destino] [opções]</p>
 <p>Algumas opções bem úteis para efetuar cópias de segurança de arquivos modificados:</p>
 <p> - /M copia somente arquivos com atributo de arquivamento; após a cópia, desmarca atributo. Ao escrever novamente em um arquivo copiado com esse método, o arquivo volta a ter o atributo de arquivamento, e irá ser copiado novamente se especificada essa opção. Se nunca mais for mexido, não será mais copiado.</p>
 <p> - /D copia arquivos mais novos na origem. Não costumo usar pelos problemas que podem ocorrer em sistemas com horas diferentes, mas, dependendo da ocasião, pode ser útil. Também é possível especificar uma data de início da comparação.</p>
@@ -89,10 +91,28 @@
 <p> - /Y suprime perguntas para o usuário. Muito útil em arquivos batch, já que o usuário geralmente não estará lá para apertar enter quando o programa pedir.</p>
 <p> - /Z copia arquivos da rede em modo reiniciável. Muito importante quando estiver fazendo backup pela rede. Às vezes ela pode falhar, e essa opção permite continuar após pequenas quedas de desempenho.</p>
 <p>Para a cópia do patrimônio mais valioso de um programador, os fontes, podemos usar um conjunto bem bolado das 0pções acima, além de generalizar um script para ser usado em outras situações. Inicialmente vamos definir que queremos um backup que altere o atributo de arquivamento, sobrescreva cópias antigas e que possa ser copiado pela rede sem maiores problemas. Além disso, não iremos copiar as pastas Debug e Release existentes geradas pela saída de algum compilador (ex: saída do Visual Studio), nem arquivos temporários muito grandes (ex: arquivos de navegação de símbolos).</p>
+<p>O resultado é o que vemos abaixo:</p>
+<p>    xcopy <pasta-origem> <pasta-destino> /M /E /C /Y /Z /EXCLUDE:sources.flt</p>
+<p>O conteúdo de sources.flt (extensão escolhida arbitrariamente) pode ser o seguinte:</p>
+<p>    .obj</p>
+<p>    .res</p>
+<p>    .pch</p>
+<p>    .pdb</p>
+<p>    .tlb</p>
+<p>    .idb</p>
+<p>    .ilk</p>
+<p>    .opt</p>
+<p>    .ncb</p>
+<p>    .sbr</p>
+<p>    .sup</p>
+<p>    .bsc</p>
+<p>    \Debug\</p>
+<p>    \Release\</p>
 <p>Só isso já basta para um backup simples, pequeno e fácil de executar. Só precisamos copiar a chamada ao xcopy em um arquivo de extensão .bat ou .cmd e executarmos sempre que acharmos interessante termos um backup quentinho em folha. Por exemplo, podemos manter os fontes do projeto atual em um pen drive e, ao acessarmos uma máquina confiável, rodar um backup que copia os arquvos-fonte para um ambiente mais seguro e estável.</p>
 <p>Note que esse procedimento não anula a necessidade de termos um [sistema de versionamento e controle de fontes]. O backup é para aquelas projetos que demoram um tempinho para efetuar commit, projetos temporários ou então sistemas de controle de fonte distribuído, em que podemos ter inúmeras pastas com diversos branchs locais.</p>
 <p>[DQ]: http://dqsoft.blogspot.com/</p>
 <p>[sistema de versionamento e controle de fontes]: {{< relref "guia-basico-de-controle-de-codigo-source-safe" >}}</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

@@ -70,12 +70,26 @@
   </p>
   <div class="content">
 <p>Uma dúvida muito comum dos programadores iniciantes em C/C++ diz respeito às variáveis static que são declaradas dentro de um escopo, como uma função. Sabemos que se ela fosse declarada global, fora de qualquer escopo, ela seria inicializada antes do main ser chamado, como diz este trecho de alguém que pesquisou a respeito:</p>
+<p>> "C++ Primer says. Each local static variable is initialized before the first time execution passes through the object's definition. Local statics are not destroyed when a function ends; they are destroyed when program terminates." - Someone that google it for but did not get it</p>
 <p>Mas no caso de variáveis static declaradas dentro de uma função isso não acontece, e ela pode ser inicializada a qualquer momento. Basta alguém chamar a função onde ela foi definida.</p>
 <p>```</p>
 <p>#include <iostream></p>
 <p>int func2()</p>
+<p>{</p>
+<p>    std::cout << "Func2 called\n";</p>
+<p>    return 21;</p>
+<p>}</p>
 <p>int func()</p>
+<p>{</p>
+<p>    static int st_x = func2();</p>
+<p>    return st_x * 2;</p>
+<p>}</p>
 <p>int main()</p>
+<p>{</p>
+<p>    std::cout << "Passing by...\n";</p>
+<p>    std::cout << "Func returns " << func() << std::endl;</p>
+<p>    std::cout << "Exiting...\n";</p>
+<p>}</p>
 <p>```</p>
 <p>```</p>
 <p>c:\Projects\caloni\projects>cl /EHsc static_local_sample.cpp</p>
@@ -100,9 +114,22 @@
 <p>```</p>
 <p>#include <iostream></p>
 <p>int func2()</p>
+<p>{</p>
+<p>    std::cout << "Func2 called\n";</p>
+<p>    return 21;</p>
+<p>}</p>
 <p>int func()</p>
+<p>{</p>
+<p>    static int st_x = func2();</p>
+<p>    return st_x * 2;</p>
+<p>}</p>
 <p>static const int g_x = func();</p>
 <p>int main()</p>
+<p>{</p>
+<p>    std::cout << "Passing by...\n";</p>
+<p>    std::cout << "Func returns " << func() << std::endl;</p>
+<p>    std::cout << "Exiting...\n";</p>
+<p>}</p>
 <p>```</p>
 <p>```</p>
 <p>c:\Projects\caloni\projects>cl /EHsc static_local_sample.cpp</p>
@@ -120,6 +147,7 @@
 <p>Exiting...</p>
 <p>c:\Projects\caloni\projects></p>
 <p>```</p>
+<p>O problema disso é que é possível que duas threads chamem func() "ao mesmo tempo", gerando uma dupla inicialização caso a implementação da libc não seja thread-safe. E a menos que o padrão especifique que essa inicialização deva ser thread safe, melhor fazer as coisas direito.</p>
 <p>Mas, a título de curiosidade, é bom saber que o Visual Studio 2017 essa parte da libc já possui um mecanismo de proteção, como o sugestivo nome _tls_index já indica:</p>
 <p>```</p>
 <p>c:\Projects\caloni\projects>cl /EHsc /Zi static_local_sample.cpp</p>
@@ -135,10 +163,48 @@
 <p>```</p>
 <p>```</p>
 <p>static_local_sample!func [c:\projects\caloni\projects\static_local_sample.cpp @ 10]:</p>
+<p>   10 000fe410 55              push    ebp</p>
+<p>   10 000fe411 8bec            mov     ebp,esp</p>
+<p>   10 000fe413 6aff            push    0FFFFFFFFh</p>
+<p>   10 000fe415 686c801800      push    offset static_local_sample!wcschr+0x1cc7 (0018806c)</p>
+<p>   10 000fe41a 64a100000000    mov     eax,dword ptr fs:[00000000h]</p>
+<p>   10 000fe420 50              push    eax</p>
+<p>   10 000fe421 a180901a00      mov     eax,dword ptr [static_local_sample!__security_cookie (001a9080)]</p>
+<p>   10 000fe426 33c5            xor     eax,ebp</p>
+<p>   10 000fe428 50              push    eax</p>
+<p>   10 000fe429 8d45f4          lea     eax,[ebp-0Ch]</p>
+<p>   10 000fe42c 64a300000000    mov     dword ptr fs:[00000000h],eax</p>
+<p>   11 000fe432 a11cb51a00      mov     eax,dword ptr [static_local_sample!_tls_index (001ab51c)] ((( Thread Local Storage? )))</p>
+<p>   11 000fe437 648b0d2c000000  mov     ecx,dword ptr fs:[2Ch]</p>
+<p>   11 000fe43e 8b1481          mov     edx,dword ptr [ecx+eax*4]</p>
+<p>   11 000fe441 a128b01a00      mov     eax,dword ptr [static_local_sample!st_x+0x4 (001ab028)]</p>
+<p>   11 000fe446 3b8204010000    cmp     eax,dword ptr [edx+104h]</p>
+<p>   11 000fe44c 7e3b            jle     static_local_sample!func+0x79 (000fe489) ((( compara para ver se chama inicialização ou não )))</p>
 <p>static_local_sample!func+0x3e [c:\projects\caloni\projects\static_local_sample.cpp @ 11]:</p>
+<p>   11 000fe44e 6828b01a00      push    offset static_local_sample!st_x+0x4 (001ab028)</p>
+<p>   11 000fe453 e8a736ffff      call    static_local_sample!ILT+2810(__Init_thread_header) (000f1aff)</p>
+<p>   11 000fe458 83c404          add     esp,4</p>
+<p>   11 000fe45b 833d28b01a00ff  cmp     dword ptr [static_local_sample!st_x+0x4 (001ab028)],0FFFFFFFFh</p>
+<p>   11 000fe462 7525            jne     static_local_sample!func+0x79 (000fe489)</p>
 <p>static_local_sample!func+0x54 [c:\projects\caloni\projects\static_local_sample.cpp @ 11]:</p>
+<p>   11 000fe464 c745fc00000000  mov     dword ptr [ebp-4],0</p>
+<p>   11 000fe46b e8bb37ffff      call    static_local_sample!ILT+3110(?func2YAHXZ) (000f1c2b) ((( note a chamada a func2 )))</p>
+<p>   11 000fe470 a324b01a00      mov     dword ptr [static_local_sample!st_x (001ab024)],eax</p>
+<p>   11 000fe475 c745fcffffffff  mov     dword ptr [ebp-4],0FFFFFFFFh</p>
+<p>   11 000fe47c 6828b01a00      push    offset static_local_sample!st_x+0x4 (001ab028)</p>
+<p>   11 000fe481 e89443ffff      call    static_local_sample!ILT+6165(__Init_thread_footer) (000f281a)</p>
+<p>   11 000fe486 83c404          add     esp,4</p>
 <p>static_local_sample!func+0x79 [c:\projects\caloni\projects\static_local_sample.cpp @ 12]:</p>
+<p>   12 000fe489 a124b01a00      mov     eax,dword ptr [static_local_sample!st_x (001ab024)] ((( a partir da segunda chamada tudo começa aqui )))</p>
+<p>   12 000fe48e d1e0            shl     eax,1</p>
+<p>   13 000fe490 8b4df4          mov     ecx,dword ptr [ebp-0Ch]</p>
+<p>   13 000fe493 64890d00000000  mov     dword ptr fs:[0],ecx</p>
+<p>   13 000fe49a 59              pop     ecx</p>
+<p>   13 000fe49b 8be5            mov     esp,ebp</p>
+<p>   13 000fe49d 5d              pop     ebp</p>
+<p>   13 000fe49e c3              ret</p>
 <p>```</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

@@ -81,8 +81,40 @@
 <p>Além disso, o conceito de ramificações (branches) e consolidação de versões (merging) é muito mais presente do que em sistemas como o Subversion, onde o commit (ato de enviar as revisões de um código para o repositório central) ocorre de forma controlada. Da maneira distribuída, é comum criar um branch para cada problema ou feature sendo desenvolvida, e ir juntando tudo isso imediatamente após terminado, gerando um histórico bem mais detalhado e livre de gargalos com modificações temporárias.</p>
 <p>Porém, a maior vantagem em termos de desenvolvimento acaba sendo a liberdade dos usuários, que podem trocar modificações de código entre si, sem existir a figura centralizadora do branch oficial. Ela pode existir, mas não é mais uma condição sine qua non para modificações no fonte.</p>
 <p>Comecei a usar em meus projetos pessoais o Mercurial por ter ouvido falar dele primeiro. Achei a idéia fantástica, pois já estava à procura de um substituto para meu velho Source Safe, meio baleado das tantas inovações de controle de fonte que surgiram nos projetos de fonte aberto. Outro motivo para desistir do Source Safe foi o fato de ser uma solução comercial que custa dinheiro e não chega a ser absurdamente mais fácil de usar a ponto de valer a pena usá-lo.</p>
+<p>O princípio de uso de uma ferramenta distribuída é muito simples: se você tiver um diretório de projeto já criado, basta, dentro dessa pasta, iniciar o repositório de fontes.</p>
+<p>    > hg init</p>
 <p>Após isso, será criada uma pasta com o nome .hg. Dentro dela é armazenado todo o histórico dos fontes. Podemos inicialmente adicionar os arquivos do projeto existente e fazer o primeiro commit, que irá começar a controlar os arquivos adicionados dentro dessa pasta e subpastas:</p>
+<p>    > hg add</p>
+<p>    adding Header.h</p>
+<p>    adding Main.cpp</p>
+<p>    adding Project.cpp</p>
+<p>    adding Project.vcproj</p>
+<p>    > hg commit -m "Primeira versao"</p>
 <p>Se o programa não disse nada ao efetuar o commit, é porque está tudo certo. Agora podemos controlar as mudanças de nosso código usando o comando status. Para vermos o histórico usamos o comando log.</p>
+<p>    > hg log</p>
+<p>    changeset:   0:e9246bcf2107</p>
+<p>    tag:         tip</p>
+<p>    user:        Wanderley Caloni <wanderley@caloni.com.br></p>
+<p>    date:        Tue Apr 15 09:05:27 2008 -0300</p>
+<p>    summary:     Primeira versao</p>
+<p>    > echo bla bla bla >> Main.cpp</p>
+<p>    </p>
+<p>    > hg status</p>
+<p>    M Main.cpp</p>
+<p>    </p>
+<p>    > hg commit -m "Alterado algumas coisas"</p>
+<p>    </p>
+<p>    > hg log</p>
+<p>    changeset:   1:829b081df653</p>
+<p>    tag:         tip</p>
+<p>    user:        Wanderley Caloni <wanderley@caloni.com.br></p>
+<p>    date:        Tue Apr 15 09:06:29 2008 -0300</p>
+<p>    summary:     Alterado algumas coisas</p>
+<p>    </p>
+<p>    changeset:   0:e9246bcf2107</p>
+<p>    user:        Wanderley Caloni <wanderley@caloni.com.br></p>
+<p>    date:        Tue Apr 15 09:05:27 2008 -0300</p>
+<p>    summary:     Primeira versao</p>
 <p>Como vimos, ao alterar um arquivo controlado este é mostrado pelo comando status como alterado (o M na frente do Main.cpp). Também existem controles para cópia e exclusão de arquivos.</p>
 <p>Esse é o básico que se precisa saber para usar o Mercurial. Simples, não? O resto também é simples: fazer branches e juntá-los é uma questão de costume, e está entre as boas práticas de uso. Eu recomendo fortemente a leitura do tutorial "Entendendo o Mercurial", disponível no sítio do projeto, até para entender o que existe por trás da idéia do controle descentralizado de fontes.</p>
 <p>Como usuário de Windows, posso dizer que a versão funciona muito bem, e é possível fazer coisas como, por exemplo, usar o WinMerge para juntar branches ou comparar versões automaticamente, o que por si só já mata toda a necessidade que eu tinha do Source Safe.</p>
@@ -92,6 +124,7 @@
 <p>[Git]: http://git.or.cz/</p>
 <p>[Mercurial]: http://www.selenic.com/mercurial/wiki/</p>
 <p>[Bazaar]: http://bazaar-vcs.org/</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

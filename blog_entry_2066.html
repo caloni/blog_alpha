@@ -71,25 +71,33 @@
   <div class="content">
 <p>Na última vez que foi abordado o tema "lambda na ferida" falamos brevemente sobre como C++ agora permite criar funções dentro de funções. Hoje vamos apenas falar que aquela construção bizarra que criamos fica ainda mais bizarra se precisarmos retornar alguma coisa dessa função ou usá-la mais de uma vez.</p>
 <p>{{< image src="Hrbu1ue.jpg" caption="Lambda: o Retorno" >}}</p>
+<p>O padrão do lambda é supor que sua função embutida e enlatada não precisa retornar nada, o que torna a sintaxe mais simples: é um void AlgumaCoisa(argumentos). No entanto, para algoritmos como o find_if isso não funciona, então é necessário retornar algo. E, no caso de find_if, chamá-lo mais de uma vez pode ser feito facilmente criando uma variável lambda:</p>
 <p>```</p>
 <p>#include "Common.h"</p>
 <p>#include <algorithm></p>
 <p>#include <vector></p>
 <p>#include <string></p>
 <p>int main()</p>
+<p>{</p>
 <p>	std::vector<Employee> employees; // um bando de empregados</p>
 <p>	std::string currentDate = GetCurrentDate();</p>
 <p>	// definindo uma função, como quem não quer nada, dentro de uma função</p>
 <p>	auto FindByBithDate = [&](Employee& employee)->bool // <-- tipo de retorno</p>
+<p>	{</p>
 <p>		return employee.birthDate == currentDate;</p>
 <p>	};</p>
 <p>	GetEmployees(employees);</p>
 <p>	auto findIt = std::find_if(employees.begin(), employees.end(), FindByBithDate);</p>
 <p>	while( findIt != employees.end() )</p>
+<p>	{</p>
 <p>		SendMail(*findIt);</p>
 <p>		findIt = std::find_if(findIt + 1, employees.end(), FindByBithDate);</p>
+<p>	}</p>
+<p>}</p>
 <p>```</p>
+<p>O tipo de retorno que colocamos através de uma flechinha é obrigatória? De fato, não. Se eu omiti-la vai funcionar do mesmo jeito porque o único ponto de saída da minha função retorna um bool.</p>
 <p>Esses compiladores estão ficando cada vez mais espertos.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

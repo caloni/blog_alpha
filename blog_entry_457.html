@@ -70,18 +70,157 @@
   </p>
   <div class="content">
 <p>No [primeiro artigo] vimos como é possível "enganar" o depurador através de exceções e assim fazer o atacante perder um tempo considerável tentando se desvencilhar dos breakpoints de mentira. Porém, vimos também que essa é uma solução difícil de manter no código-fonte, além de possuir o ponto fraco de ser facilmente contornada se descoberta. Agora é a hora de tornar as coisas mais fáceis de manter e ao mesmo tempo garantir maior dificuldade mesmo que o atacante descubra o que está acontecendo debaixo do seu nariz.</p>
+<p>O upgrade apresentado aqui continua utilizando o lançamento de exceções intrinsecamente, mas agora não depende mais da divisão do código em minifunções e chamá-las aos poucos. Em vez disso, temos apenas que pegar traços de código e colocá-los em torno de uma macro milagrosa que fará tudo o que quisermos. Isso, claro, depois de algumas marteladas que serão explicadas aqui.</p>
+<p>    void LongJmp(restorePoint)</p>
+<p>    {</p>
+<p>      BackToStart(restorePoint);</p>
+<p>    }</p>
+<p>    </p>
+<p>    int Start()</p>
+<p>    {</p>
+<p>      if( RestorePoint() == Defined )</p>
+<p>      {</p>
+<p>        LongJmp(if);</p>
+<p>      }</p>
+<p>      else</p>
+<p>      {</p>
+<p>        CallFunc();</p>
+<p>      }</p>
+<p>    </p>
+<p>      return 0;</p>
+<p>    }</p>
+<p>A solução acima está apresentada em pseudo-código para tornar mais claro o conceito. Note que existe uma espécie de "retorno invisível", não baseado em retorno de pilha, envolvido. Para implementá-lo, contudo, podemos nos ajeitar com o velho e bom padrão C ANSI, com as rotinas setjmp  e longjmp. Para entender a implementação dessa funções na plataforma 8086 precisamos ter primeiro uma visão básica da estrutura de chamada de funções baseada em pilha.</p>
 <p>Registradores são variáveis reservadas do processador que podem ser utilizadas pelo código assembly da plataforma envolvida. Stack frame (estrutura da pilha) nada mais é que a hierarquia de chamadas das funções, o "quem chamou quem" em uma execução qualquer. Call e ret são instruções em assembly para chamar uma função (call) e sair de uma função (ret), respectivamente. Ambas alteram o stack frame.</p>
 <p>Imagine que você tem uma função, CallFunc, e outra função, Func, e que uma chame a outra. Para analisarmos apenas a chamada de função, e apenas isso, vamos considerar que Func não recebe nenhum parâmetro e não retorna nenhum valor. O código em C fica, então, assim:</p>
+<p>    void Func()</p>
+<p>    {</p>
+<p>      return;</p>
+<p>    }</p>
+<p>    </p>
+<p>    void CallFunc()</p>
+<p>    {</p>
+<p>      Func();</p>
+<p>    }</p>
 <p>Simples, não? Por esse mesmo motivo o disassembly terá que ser igualmente simples. Em CallFunc ele deverá conter a chamada da função (call) e em Func o retorno da chamada (ret). Se você compilar o código acima e o assembly vier com mais coisas pode ser que que eventualmente apareça mais código embutido em versões Debug, ou se estiver muito diferente ou inexistente pode ser uma otimização do seu compilador.</p>
+<p>    Func:</p>
+<p>    00411F73 prev_instruction ; ESP = 0012FD38 (four bytes stacked up)</p>
+<p>    00411F74 ret ; *ESP = 00411FA3 (return address)</p>
+<p>    </p>
+<p>    CallFunc:</p>
+<p>    00411F9C prev_instruction</p>
+<p>    00411F9E call Func (411424h) ; ESP = 0012FD3C</p>
+<p>    00411FA3 next_instruction</p>
+<p>A partir do assembly acima podemos concluir no mínimo duas coisas:</p>
 <p> 1. a pilha "cresce" para baixo, pois seu valor decrementou de quadro (0012FD3C para 0012FD38 são 4 byte a menos).</p>
 <p> 2. o valor de retorno da função chamada é o endereço da próxima instrução após a chamada (call), no caso 00411FA3.</p>
 <p>Ora, da mesma forma que conseguimos acompanhar essa simples execução, o atacante também o fará. Por isso que no meio dessa chamada iremos colocar o lançamento de uma exceção e, no retorno, faremos não do modo convencional apresentado, mas por uma outra técnica que, ao invés de utilizar a instrução ret, seta "manualmente" o valor do registrador ESP (estado da pilha) e "pula" para a próxima instrução de CallFunc.</p>
+<p>    Func:</p>
+<p>    00411F60 throw_exception</p>
+<p>    00411F61 ...</p>
+<p>    00411F73 catch_exception</p>
+<p>    00411F74 mov ESP, 0012FD3C ; ESP = 0012FD3C, como em CallFunc</p>
+<p>    00411F75 jmp 00411FA3 ; "pula" para CallFunc::next_instruction</p>
 <p>Toda essa esculhambada em assembly não precisa ser necessariamente feita em linguagem de baixo nível. Foi apenas uma maneira que encontrei pra ilustrar as diferenças entre retorno baseado em pilha e alteração no fluxo do código. Como já foi dito, para a sorte e o bem-estar de todos, essa mesma técnica pode ser implementada com funções C da biblioteca ANSI:</p>
+<p>    jmp_buf stack_state;</p>
+<p>    void Func()</p>
+<p>    {</p>
+<p>      longjmp(stack_state, 1);</p>
+<p>    }</p>
+<p>    </p>
+<p>    void CallFunc()</p>
+<p>    {</p>
+<p>      // setting returns 0</p>
+<p>      // returning returns not 0</p>
+<p>      if( setjmp(stack_state) == 0 )</p>
+<p>        Func();</p>
+<p>    </p>
+<p>      int x = 10;</p>
+<p>    }</p>
 <p>Essa foi a técnica adicionada à solução do lançamento de exceções. E o [código final] ficou mais claro (além de rápido, por economizar o uso de uma thread para leitura dos comandos).</p>
+<p>    /** The only purpose of </p>
+<p>      this function is to </p>
+<p>      generate an exception. */</p>
+<p>    DWORD LongJmp(jmp_buf* env)</p>
+<p>    {</p>
+<p>      __try</p>
+<p>      {</p>
+<p>        __asm int 3</p>
+<p>      }</p>
+<p>        __except( EXCEPTION_EXECUTE_HANDLER )</p>
+<p>      {</p>
+<p>        longjmp(*env, 1);</p>
+<p>      }</p>
+<p>    </p>
+<p>      return ERROR_SUCCESS;</p>
+<p>    }</p>
+<p>    </p>
+<p>    /** And God said: </p>
+<p>      'int main!'</p>
+<p>    */</p>
+<p>    int main()</p>
+<p>    {</p>
+<p>      DWORD ret = ERROR_SUCCESS;</p>
+<p>    </p>
+<p>      while( cin )</p>
+<p>      {</p>
+<p>        string line;</p>
+<p>    </p>
+<p>        cout << "Type something\n";</p>
+<p>        getline(cin, line);</p>
+<p>    </p>
+<p>        jmp_buf env;</p>
+<p>    </p>
+<p>        if( setjmp(env) == 0 )</p>
+<p>        {</p>
+<p>          LongJmp(&env);</p>
+<p>        }</p>
+<p>        else</p>
+<p>        {</p>
+<p>          cout << line << endl;</p>
+<p>        }</p>
+<p>      }</p>
+<p>    </p>
+<p>      return (int) ret;</p>
+<p>    } </p>
 <p>À primeira vista parece um desperdício o if estar diretamente no código (lembre-se que vamos utilizar a mesma estrutura condicional em várias e várias partes do código. Para tornar mais claro seu uso, resumir a chamada protegida e permitir que a proteção seja desabilitada em debug, vamos criar uma macro:</p>
+<p>    /** Use this macro instead LongJmp</p>
+<p>    */</p>
+<p>    #define ANTIDEBUG(code)</p>
+<p>    {</p>
+<p>      jmp_buf env;</p>
+<p>    </p>
+<p>      if( setjmp(env) == 0 )</p>
+<p>      {</p>
+<p>        LongJmp(&env);</p>
+<p>      }</p>
+<p>      else</p>
+<p>      {</p>
+<p>        code;</p>
+<p>      }</p>
+<p>    }</p>
+<p>    </p>
+<p>    /** And God said: 'int main!'</p>
+<p>    */</p>
+<p>    int main()</p>
+<p>    {</p>
+<p>      DWORD ret = ERROR_SUCCESS;</p>
+<p>    </p>
+<p>      while( cin )</p>
+<p>      {</p>
+<p>        string line;</p>
+<p>    </p>
+<p>        cout << "Type something\n";</p>
+<p>        getline(cin, line);</p>
+<p>    </p>
+<p>        ANTIDEBUG(( cout << line << endl ));</p>
+<p>      }</p>
+<p>    </p>
+<p>      return (int) ret;</p>
+<p>    } </p>
 <p>Veja que como agora permitimos a seleção do anti-debug por chamada, fica mais fácil escolher quais os pontos a serem protegidos e quais não devem/podem por conta de perfomance ou outro detalhe obscuro que sempre existe na vida de um programador C++.</p>
 <p>[primeiro artigo]: {{< relref "antidebug-interpretacao-baseada-em-excecao-parte-1" >}}</p>
 <p>[código final]: antidebug-exception-2.cpp</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

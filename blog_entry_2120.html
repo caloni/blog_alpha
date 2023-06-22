@@ -78,16 +78,22 @@
 <p>#include <iostream></p>
 <p>#include <sstream></p>
 <p>inline void Log(std::ostringstream& os)</p>
+<p>{</p>
 <p>	std::cout << os.str() << std::endl;</p>
+<p>}</p>
 <p>template<typename First, typename...Rest ></p>
 <p>void Log(std::ostringstream& os, First parm1, Rest...parm)</p>
+<p>{</p>
 <p>	os << parm1;</p>
 <p>	Log(os, parm...);</p>
+<p>}</p>
 <p>template<typename...Rest ></p>
 <p>void Log(Rest...parm)</p>
+<p>{</p>
 <p>	std::ostringstream os;</p>
 <p>	LogHeader(os);</p>
 <p>	Log(os, parm...);</p>
+<p>}</p>
 <p>```</p>
 <p>Por que eu acho a minha versão mais legal (não valendo falar que foi porque eu fiz):</p>
 <p> - É mais simples ainda, tem poucas linhas e pode ser copiada sem peso na consciência. Pode até estar em um header que o overhead é mínimo.</p>
@@ -109,11 +115,13 @@
 <p>Com essa forma de fazer serviços, há uma dupla vantagem:</p>
 <p> - Retirar todo o código para lidar com o Service Manager do Windows das suas mãos.</p>
 <p> - Continuar tendo um aplicativo que roda pelo prompt e já imprime seu comportamento (e pode ser redirecionado também).</p>
+<p>E ainda uma vantagem-bônus:</p>
 <p> - Você pode executar programas-filho que o redirect para o log vai funcionar do mesmo jeito.</p>
 <p>### Bônus final</p>
 <p>Acho que cada um deve escrever no seu header o que achar melhor para depurar seus programas. No entanto, acho válido compartilhar quais são as informações que tem sido úteis para mim:</p>
 <p>```</p>
 <p>inline void LogHeader(std::ostringstream& os)</p>
+<p>{</p>
 <p>	SYSTEMTIME st;</p>
 <p>	char buffer[48] = "";</p>
 <p>	GetLocalTime(&st);</p>
@@ -123,7 +131,9 @@
 <p>		GetCurrentProcessId() & 0xFFFF, GetCurrentThreadId() & 0xFFFF,</p>
 <p>		GetLastError());</p>
 <p>	os << buffer;</p>
+<p>}</p>
 <p>```</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

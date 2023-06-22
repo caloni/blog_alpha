@@ -70,36 +70,85 @@
   </p>
   <div class="content">
 <p>Padrão C (ISO/IEC 9899:1990)</p>
+<p>    </p>
+<p>    6.5.2.2 enum-specifier</p>
+<p>     enum</p>
+<p>    Padrão C++ (ISO/IEC 14882:1998)</p>
+<p>    </p>
+<p>    type-specifier</p>
+<p>     enum-specifier</p>
+<p>    </p>
+<p>    enum-specifier</p>
+<p>     enum</p>
 <p>Uma enumeração faz duas coisas: define um novo tipo, parecido com um inteiro, e cria uma **lista de constantes com nomes significativos**. A definição técnica do tipo de um enum é mais complicada, mas basicamente ele é um novo int.</p>
 <p>Como funciona: definimos uma lista com cada elemento tendo um valor inteiro, geralmente único. Todos os nomes usados na lista passam a fazer parte do espaço de nomes atual e funcionam como constantes com o seu valor definido no início.</p>
 <p>```</p>
 <p>enum FileType // criamos o novo tipo inteiro FileType</p>
+<p>{</p>
+<p>   Binary = 1, // Binary é uma constante com valor igual a 1</p>
+<p>   Text = 2, // Text é uma constante com seu sizeof igual a sizeof(FileType)</p>
+<p>   Mixed = 3 // Todas as constantes da enumeração são do mesmo tipo</p>
+<p>};</p>
 <p>```</p>
 <p>Obs.: Os elementos que não possuem valor definido são definidos automaticamente como o valor do elemento anterior acrescidos de um. Se for o primeiro elemento, seu valor padrão é zero.</p>
 <p>```</p>
 <p>enum Numbers</p>
+<p>{</p>
+<p>   zero,  // igual a zero</p>
+<p>   one,   // igual a um</p>
+<p>   two,   // igual a dois</p>
+<p>   three  // igual a tres</p>
+<p>};</p>
 <p>enum Hexa</p>
+<p>{</p>
+<p>   JulioCesar = 1,</p>
+<p>   Lucio = 3,</p>
+<p>   Juan,                // Juan = 3 + 1 = 4</p>
+<p>   Gilberto Silva = 6,</p>
+<p>   Felipe Melo          // 6 + 1 = 7</p>
 <p>}; </p>
 <p>```</p>
 <p>_Detalhe bizarro_: você sabia que, apesar da vírgula ser usada para separar valores de enumeração, ela pode também terminar uma listagem? Por algum motivo exdrúxulo (se alguém quiser explicar), um valor de enumeração foi definido de tal forma que sempre poderá existir uma vírgula terminando ele:</p>
 <p>```</p>
 <p>enum VirgulaSafada { </p>
+<p>   um = 1, </p>
+<p>   dois, </p>
+<p>   tres, // o que essa vírgula no final tá fazendo aqui?</p>
 <p>}; </p>
 <p>```</p>
 <p>#### Uso prático</p>
 <p>Geralmente usamos enumerações para definir valores únicos (tag) em um argumento de função, ou, mais moderno, como substituto daqueles antigos defines em C para mapas de bits. Nesse último caso não usamos o tipo da enumeração, pois ele pode conter apenas um valor único definido, e não um conjunto deles:</p>
 <p>```</p>
 <p>enum ModoDeServir</p>
+<p>{</p>
+<p>   assado,</p>
+<p>   cozido,</p>
+<p>   frito,</p>
+<p>   cru</p>
+<p>};</p>
 <p>void Cook(Prato p, ModoDeServir ms);</p>
 <p>main()</p>
+<p>{</p>
+<p>   Cook(frango, cozido);</p>
+<p>}</p>
 <p>enum FileOpenMode</p>
+<p>{</p>
+<p>   fomRead   = 0x0001,</p>
+<p>   fomWrite  = 0x0002,</p>
+<p>   fomOver   = 0x0004,</p>
+<p>   fomDel    = 0x0008,</p>
+<p>};</p>
 <p>void OpenFile(DWORD fileOpenMode);</p>
 <p>main()</p>
+<p>{</p>
+<p>   OpenFile(fomRead | fomWrite);</p>
+<p>} </p>
 <p>```</p>
 <p>Note que usamos uma enumeração nesse último caso para termos um nome significativo para uma flag, além desse nome fazer de fato parte dos nomes do programa, e não um define que, para o compilador, não existe.</p>
 <p>#### Boas práticas</p>
 <p>Como os tipos da enumeração passam a pertencer ao namespace atual, eles podem se misturar facilmente com todos os nomes daquele namespace. Dessa forma, é útil e bem organizado definir um prefixo para os nomes, que pode ser formado pelas iniciais do nome da enumeração, como no exemplo acima (fom = **F**ile**O**pen**M**ode).</p>
 <p>{{< image src="wNCAYCX.png" caption="enum-namespace.png" >}}</p>
+<p>O surgimento do enum veio como evolução de uma prática já consagrada pelo uso na linguagem C, que eram as listas de valores constantes criados através de defines com algum prefixo em comum (FILE_SHARE_*, SW_SHOW_*, etc). Portanto, sempre que se encontrar em uma situação para criar esse tipo de lista, a enumeração é o caminho atualmente ideal.</p>
 <p>```</p>
 <p>// A listagem abaixo pode virar um enum...</p>
 <p>#define FOM_READ   0x0001</p>
@@ -108,12 +157,28 @@
 <p>#define FOM_DEL    0x0008</p>
 <p>// ... como este aqui!</p>
 <p>enum FileOpenMode</p>
+<p>{</p>
+<p>   FOM_READ   = 0x0001,</p>
+<p>   FOM_WRITE  = 0x0002,</p>
+<p>   FOM_OVER   = 0x0004,</p>
+<p>   FOM_DEL    = 0x0008,</p>
+<p>};</p>
 <p>// esse pedaço de código abaixo...</p>
 <p>int main()</p>
+<p>{</p>
+<p>   OpenFile(path, FOM_WRITE);</p>
+<p>}</p>
 <p>// ... vira isso após ser pré-processado...</p>
 <p>int main()</p>
+<p>{</p>
+<p>   OpenFile(path, 0x0002);</p>
+<p>}</p>
 <p>// ... mas isso se fossem usados enums...</p>
 <p>int main()</p>
+<p>{</p>
+<p>   OpenFile(path, FOM_WRITE); // FOM_WRITE faz parte da linguagem</p>
+<p>}</p>
+<p> </p>
 <p>```</p>
 <p>#### Atualização: e qual a diferença?</p>
 <p>Perguntado [por um leitor](http://www.caloni.com.br/blog/enum#comment-17806) sobre qual a diferença prática do último exemplo, onde temos praticamente o mesmo resultado entre usar defines e enumerações, imaginei que a mesma dúvida pode ter surgido para várias pessoas, porque é uma boa dúvida. Dá a entender que o autor deste artigo está se atentando a preciosismos da linguagem (e está mesmo!), mas à vezes as aparências enganam.</p>
@@ -128,16 +193,32 @@
 <p>// alinhamento obrigatório pelo leiaute dos dados</p>
 <p>static const int chunkSizeBase = 0x5000;</p>
 <p>enum ChunkSize</p>
+<p>{</p>
+<p>   chunkszTiny   = 0x1000 + chunkSizeBase,</p>
+<p>   chunkszSmall  = 0x2000 + chunkSizeBase,</p>
+<p>   chunkszMedium = 0x4000 + chunkSizeBase,</p>
+<p>   chunkszHuge   = 0x8000 + chunkSizeBase,</p>
+<p>};</p>
 <p>// Fonte original</p>
 <p>int main()</p>
+<p>{</p>
 <p>	// lendo quadro pedaços de dados (tamanho médio)</p>
+<p>   ReadChunkFromFile(file, CHUNKSZ_MEDIUM * 4);</p>
 <p>	// lendo quadro pedaços de dados (tamanho médio)</p>
+<p>   ReadChunkFromFile(file, chunkszMedium * 4);</p>
+<p>}</p>
 <p>// Pós-processado</p>
 <p>int main()</p>
+<p>{</p>
 <p>	// lendo sei lá o que (perde alinhamento)</p>
+<p>   ReadChunkFromFile(file, 0x4000 + CHUNKSZ_BASE * 4);</p>
 <p>	// lendo quadro pedaços de dados (tamanho médio)</p>
+<p>   ReadChunkFromFile(file, chunkszMedium * 4);</p>
+<p>}</p>
+<p> </p>
 <p>```</p>
 <p>_Aviso para os programadores mais calejados, eu omiti propositalmente os parênteses obrigatórios para qualquer define que tenha cálculos matemáticos, para ilustrar que muitas vezes o que vemos **antes** não é o que aparece **depois.**_</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

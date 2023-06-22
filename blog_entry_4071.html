@@ -69,11 +69,18 @@
   </a>
   </p>
   <div class="content">
+<p># Usando WinDbg em situações onde não há Visual Studio</p>
 <p>Com essa premissa me vem à mente os seguintes cenários:</p>
 <p> - Não é possível instalar Visual Studio</p>
+<p>   - Só copiar a pasta onde está rodando o windbg.exe.</p>
 <p> - Arquivos de dump muito grandes</p>
+<p>   - Processo que capota consumindo o mundo de memória.</p>
+<p>   - Cópia de arquivos em alguns ambientes demoraria séculos.</p>
 <p> - Processos que não podem parar</p>
+<p>   - Bug raro de acontecer e se parar o processo já era.</p>
+<p>   - Manter processo em observação até reprodução (memory leaks macabros).</p>
 <p> - Único lugar que acontece o bug</p>
+<p>   - É raro, mas acontece sempre.</p>
 <p>## Colinha de todo dia</p>
 <p> - !analyze -v</p>
 <p> - !sym noisy, .symfix, .sympath</p>
@@ -111,6 +118,7 @@
 <p> - Chamar kernel debugger ao iniciar processo (parâmetro `-d` do ntsd.exe).</p>
 <p>[little help]: {{< relref "kernel-mode-user-mode" >}}</p>
 <p>[Quebrando Houaiss]: {{< relref "conversor-de-houaiss-para-babylon-parte-1" >}}</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

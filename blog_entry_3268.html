@@ -69,15 +69,20 @@
   </a>
   </p>
   <div class="content">
+<p>A surpresa de hoje foi descobrir (vejam só) que o remove_if, como todo algoritmo da STL, deve ser olhado de perto antes de usado. Nesse caso em específico porque, apesar do nome, a função NÃO remove elementos, mas os sobrescreve.</p>
 <p>Imagine uma função que usa remove_if para remover todas as idades de potenciais lolitas:</p>
 <p>```</p>
 <p>void RemoveIfLolita(vector<int>& ages)</p>
+<p>{</p>
 <p>	remove_if(ages.begin(), ages.end(), [&](int age) { return age < 18; } );</p>
+<p>}</p>
 <p>```</p>
 <p>Ou até sua contraparte usando um array C:</p>
 <p>```</p>
 <p>void RemoveIfLolita(int* ages, int size)</p>
+<p>{</p>
 <p>	remove_if(ages, ages + size, [&](int age) { return age < 18; } );</p>
+<p>}</p>
 <p>```</p>
 <p>Um uso trivial pode não cuspir um resultado trivial, ou seja, os elementos não serão removidos como se espera:</p>
 <p>```</p>
@@ -86,10 +91,15 @@
 <p>#include <vector></p>
 <p>using namespace std;</p>
 <p>void RemoveIfLolita(int* ages, int size)</p>
+<p>{</p>
 <p>	remove_if(ages, ages + size, [&](int age) { return age < 18; } );</p>
+<p>}</p>
 <p>void RemoveIfLolita(vector<int>& ages)</p>
+<p>{</p>
 <p>	remove_if(ages.begin(), ages.end(), [&](int age) { return age < 18; } );</p>
+<p>}</p>
 <p>int main()</p>
+<p>{</p>
 <p>	vector<int> ages;</p>
 <p>	ages.push_back(10);</p>
 <p>	ages.push_back(21);</p>
@@ -110,6 +120,7 @@
 <p>	RemoveIfLolita(newAges, newAgesSz);</p>
 <p>	cout << "\n\nArray (" << newAgesSz << "):\n";</p>
 <p>	for_each(newAges, newAges + newAgesSz, [&] (int age) { cout << age << endl; } );</p>
+<p>}</p>
 <p>```</p>
 <p>{{< image src="AzliFSS.png" caption="RemoveIfErrado" >}}</p>
 <p>Isso ocorre porque o comportamento do remove_if é copiar todos os elementos que retornem false (não remova) e pular elementos que retornem true (remova). No entanto, o tamanho do contêiner, e consequentemente seu ponteiro end(), permanecem o mesmo.</p>
@@ -119,6 +130,7 @@
 <p>template <class ForwardIterator, class UnaryPredicate></p>
 <p>ForwardIterator remove_if (ForwardIterator first, ForwardIterator last,</p>
 <p>	UnaryPredicate pred)</p>
+<p>{</p>
 <p>	ForwardIterator result = first;</p>
 <p>	while (first!=last) {</p>
 <p>		if (!pred(*first)) {</p>
@@ -126,7 +138,9 @@
 <p>			++result;</p>
 <p>		}</p>
 <p>		++first;</p>
+<p>	}</p>
 <p>	return result;</p>
+<p>}</p>
 <p>```</p>
 <p>Para obtermos qual seria o "novo end()", precisamos obter esse valor do retorno de remove_if. Com base nisso, podemos alterar o tamanho do contêiner ajustado:</p>
 <p>```</p>
@@ -135,12 +149,17 @@
 <p>#include <vector></p>
 <p>using namespace std;</p>
 <p>int RemoveIfLolita(int* ages, int size)</p>
+<p>{</p>
 <p>	auto newEnd = remove_if(ages, ages + size, [&](int age) { return age < 18; } );</p>
 <p>	return newEnd - ages;</p>
+<p>}</p>
 <p>void RemoveIfLolita(vector<int>& ages)</p>
+<p>{</p>
 <p>	auto newEnd = remove_if(ages.begin(), ages.end(), [&](int age) { return age < 18; } );</p>
 <p>	ages.resize(distance(ages.begin(), newEnd));</p>
+<p>}</p>
 <p>int main()</p>
+<p>{</p>
 <p>	vector<int> ages;</p>
 <p>	ages.push_back(10);</p>
 <p>	ages.push_back(21);</p>
@@ -161,9 +180,11 @@
 <p>	newAgesSz = RemoveIfLolita(newAges, newAgesSz);</p>
 <p>	cout << "\n\nArray (" << newAgesSz << "):\n";</p>
 <p>	for_each(newAges, newAges + newAgesSz, [&] (int age) { cout << age << endl; } );</p>
+<p>}</p>
 <p>```</p>
 <p>{{< image src="Q7f2N1G.png" caption="RemoveIfFunciona" >}}</p>
 <p>Esse C++... intuitivo como nunca!</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

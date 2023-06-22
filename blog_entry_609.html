@@ -70,23 +70,83 @@
   </p>
   <div class="content">
 <p>Um tipo nada mais é que do que uma forma (ô) de bolo, que **molda a memória** como acharmos melhor moldá-la. Bom, para isso fazer sentido é necessário explicar memória, que é um conceito **mais básico ainda**.</p>
+<p>A memória é **qualquer lugar** onde eu possa **guardar alguma coisa**. No [artigo anterior](http://www.caloni.com.br/basico-do-basico-ponteiros) era um punhado de gavetas. Mas poderiam muito bem ser caixas de presente. Ou um caderno. Ou até uma placa de memória RAM. O que sua criatividade quiser.</p>
 <p>{{< image src="sx9fYjS.gif" caption="" >}}</p>
+<p>O importante no conceito de memória, computacionalmente falando, é saber que ela pode guardar qualquer tipo de informação, mas ela **não sabe o que você está guardando**. E eis que surge o segredo do **tipo**: ele conta para você, e seu programa, o que de fato está guardado na memória.</p>
 <p>Vamos exemplificar.</p>
 <p>#### Este artigo é um punhado de números na memória</p>
 <p>Computadores trabalham muito bem com números. A própria memória só guarda valores numéricos. Porém, se é dessa forma, como conseguimos abrir o Bloco de Notas e digitar algum texto?</p>
 <p>Para entender essa "mágica" é necessário vir à tona o conceito de **representação**, um tema que ainda pode dar muito pano pra manga quando estudarmos base numérica. Por enquanto, basta saber que uma representação é um **faz-de-conta** em que todos concordam com o que for dito. Por exemplo: Faz de conta que a letra 'A' é o número 65. Dessa forma, sempre que for visto o número 65, de agora em diante, será vista a letra 'A' no lugar.</p>
 <p>Existem alguns faz-de-conta que são muito difundidos entre e humanidade informática. Um deles é chamado **tabela ASCII** (se pronuncia "ásqui"). É uma forma de todos conseguirem entender os textos de todo mundo. Abaixo podemos ver a representação de todas as letras maiúsculas na codificação ASCII:</p>
+<p>    </p>
+<p>    Número  Letra</p>
+<p>    ======  =====</p>
+<p>    65      A</p>
+<p>    66      B</p>
+<p>    67      C</p>
+<p>    68      D</p>
+<p>    69      E</p>
+<p>    70      F</p>
+<p>    71      G</p>
+<p>    72      H</p>
+<p>    73      I</p>
+<p>    74      J</p>
+<p>    75      K</p>
+<p>    76      L</p>
+<p>    77      M</p>
+<p>    78      N</p>
+<p>    79      O</p>
+<p>    80      P</p>
+<p>    81      Q</p>
+<p>    82      R</p>
+<p>    83      S</p>
+<p>    84      T</p>
+<p>    85      U</p>
+<p>    86      V</p>
+<p>    87      W</p>
+<p>    88      X</p>
+<p>    89      Y</p>
+<p>    90      Z</p>
 <p>Agora, imagine que você digitou o seguinte texto no bloco de notas:</p>
+<p>    </p>
+<p>    CASA</p>
 <p>Como esse texto é guardado na memória de um computador, se ele só entende números?</p>
 <p>Através da nossa já conhecida tabela ASCII! Na verdade, números são armazenados na memória, mas por representarem as letras 'C', 'A', 'S' e 'A', são traduzidos de volta para o formato texto pelo Bloco de Notas, que conhece o que guardou na memória.</p>
 <p>{{< image src="W9jtDwK.gif" caption="Bloco de Notas acessando memória RAM." >}}</p>
 <p>#### A memória pode guardar qualquer coisa com números</p>
+<p>A técnica de representação pode guardar qualquer coisa na memória como números que serão traduzidos por algum programa que consiga abrir aqueles dados. Dessa forma podemos não só armazenar texto, como imagens, vídeos, páginas web e até mesmo os próprios programas que os abrem!</p>
 <p>Na programação do dia-a-dia, as coisas funcionam da mesma forma. As tão faladas variáveis reservam um espaço de memória para guardar alguma coisa, mas só sabemos o que essa alguma coisa é através do tipo da variável:</p>
+<p>    </p>
+<p>    // a variável idade (espaço de memória)</p>
+<p>    // pode guardar um número (tipo)</font></p>
+<p>    int idade; </p>
+<p>    </p>
+<p>    // a variável nome (espaço de memória) pode</p>
+<p>    // guardar o nome de alguém de até 99 letras (tipo)</p>
+<p>    char nome[100]; </p>
+<p>    </p>
+<p>    // a variável cad (espaço de memória) pode</p>
+<p>    // guardar o cadastro de uma pessoa (tipo)</p>
+<p>    Cadastro cad;</p>
 <p>Esses elementos, na memória, são um bando de número que, sem os tipos, não possuem significado algum, como podemos ver na depuração do programa abaixo:</p>
 <p>{{< image src="interpretacao-de-memoria-texto-e-numeros.png" caption="Interpretação de memória de texto e números em um programa C." >}}</p>
+<p>    Note que os números não estão aqui representados em decimal, onde se esperaria 35 e 42, pois a representação formal da memória geralmente está no formato hexadecimal, transformando esses números em 0x23 e 0x2a, respectivamente. Para entender essa diferença cabe estudar um pouco sobre base numérica, outro tema básico do programador sólido.</p>
 <p>#### Practice makes perfect</p>
 <p>Nada é bem aprendido se não for apreendido. Algumas tarefas programáticas que podem fixar o conceito de tipo estão listadas abaixo:</p>
+<p>	</p>
+<p>  * Usar **printf **especificando tipos diversos (%d, %s, %f, %p, ...) para a mesma variável, inclusive correndo o risco de gerar algumas exceções.</p>
+<p>	</p>
+<p>  * Usar **scanf** especificando diversas variáveis para o mesmo tipo (%d, %s, %f, %p, ...), vendo o resultado da leitura da entrada do usuário na memória.</p>
+<p>	</p>
+<p>  * Tentar copiar o conteúdo de uma variável para outra variável de **tipo diferente**. Sempre analise a memória para ver o resultado.</p>
 <p>#### Outros faz-de-conta bem famosos</p>
+<p>	</p>
+<p>  * [Ordenação de extremidades](http://pt.wikipedia.org/wiki/Extremidade_(ordena%C3%A7%C3%A3o)): O problema Little Endian e Big Endian.</p>
+<p>	</p>
+<p>  * [UNICODE](http://pt.wikipedia.org/wiki/UNICODE): Por um conjunto de letras universal.</p>
+<p>	</p>
+<p>  * [Base numérica](http://pt.wikipedia.org/wiki/Convers%C3%A3o_de_base_num%C3%A9rica): O que são binário e hexadecimal e como eles afetam nossa vida.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

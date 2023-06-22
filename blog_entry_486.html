@@ -71,14 +71,125 @@
   <div class="content">
 <p>Nesses últimos dias andei conversando com um amigo que está estudando sistemas operacionais na faculdade. Melhor ainda, vendo o código real de um sistema operacional em funcionamento. A conseqüência é que, além de aprender um bocado de como as coisas funcionam de verdade debaixo dos panos, acaba-se aprendendo alguns truquezinhos básicos e tradicionais da linguagem C.</p>
 <p>Por exemplo, é um hábito conhecido o uso de construções do-while quando existe a necessidade de definir uma macro que possui mais de um comando em vez de usar a igualmente conhecida { construção de múltiplos comandos entre chaves }.</p>
+<p>O que talvez não seja tão conhecido é o porquê das coisas serem assim.</p>
 <p>Vamos imaginar uma macro de logue que é habilitada em compilações debug, mas é mantida em silêncio em compilações release:</p>
+<p>    #ifdef NDEBUG</p>
+<p>    #define MYTRACE(message) /*nada*/</p>
+<p>    #else</p>
+<p>    #define MYTRACE(message)  \</p>
+<p>    	{ \</p>
+<p>    		char buffer[500]; \</p>
+<p>    		sprintf(buffer, \</p>
+<p>    			"DBG: %s(%d) %s\n", \</p>
+<p>    			__FILE__, \</p>
+<p>    			__LINE__, \</p>
+<p>    			message); \</p>
+<p>    		output(buffer); \</p>
+<p>    	}</p>
+<p>    #endif /* NDEBUG */ </p>
 <p>Nada de mais, e parece até funcionar. Porém, como veremos nas próximas linhas, esse é realmente um exemplo de código "buguento", já que uma chamada dentro de uma construção if-else simplesmente não funciona.</p>
+<p>    if( exploded() )</p>
+<p>    	MYTRACE("Oh, my God");</p>
+<p>    else</p>
+<p>    	MYTRACE("That's right"); </p>
+<p>    </p>
+<p>    error C2181: illegal else without matching if</p>
 <p>Por que isso? Para responder a essa questão nós precisamos olhar um pouco mais de perto no resultado do preprocessador da linguagem, que apenas troca nossa macro pelo pedaço de código que ela representa:</p>
+<p>    if( exploded() )</p>
+<p>    {</p>
+<p>      char buffer[500];</p>
+<p>      sprintf(buffer,</p>
+<p>          "DBG: %s(%d) %s\n",</p>
+<p>          __FILE__,</p>
+<p>          __LINE__,</p>
+<p>          "Oh, my God");</p>
+<p>      output(buffer);</p>
+<p>    };</p>
+<p>    else</p>
+<p>    {</p>
+<p>      char buffer[500];</p>
+<p>      sprintf(buffer,</p>
+<p>          "DBG: %s(%d) %s\n",</p>
+<p>          __FILE__,</p>
+<p>          __LINE__,</p>
+<p>          "That's right");</p>
+<p>      output(buffer);</p>
+<p>    };</p>
 <p>Dessa forma, podemos ver o porquê. Quando chamamos a macro, geralmente usamos a sintaxe de chamada de função, colocando um sinal de ponto-e-vírgula logo após a chamada. Essa é a maneira correta de se chamar uma função, mas no caso de uma macro, dessa macro, é um desastre, porque ela cria dois comandos em vez de um só (um ponto-e-vírgula vazio, apesar de não fazer nada, é um comando válido). Então, isso é o que o compilador faz:</p>
+<p>    if( instruction )</p>
+<p>    {</p>
+<p>      /* um monte de comandos */</p>
+<p>    </p>
+<p>    } /* aqui eu esperaria um else ou uma instrução nova */</p>
+<p>    </p>
+<p>    ; /* uma instrução nova! ok, sem else desa vez */</p>
+<p>    </p>
+<p>    else /* espere ae! o que esse else está fazendo aqui sem um if?!?! */</p>
+<p>    {</p>
+<p>      /* mais comandos */</p>
+<p>    }</p>
 <p>Pense sobre o comando vazio como se ele fosse um comando real, o que é a maneira mais fácil de entender o erro de compilação que recebemos ao compilar o código abaixo:</p>
+<p>    if( error() )</p>
+<p>    {</p>
+<p>      printf("error");</p>
+<p>    }</p>
+<p>    printf("here we go");</p>
+<p>    else /* llegal else without matching if! */</p>
+<p>    {</p>
+<p>      printf("okay");</p>
+<p>    }</p>
 <p>Por essa razão, a maneira tradicional de escapar desse erro comum é usar uma construção válida que peça de fato um ponto-e-vírgula no final. Felizmente nós, programadores C/C++, temos essa construção, e ela é... muito bem, o do-while!</p>
+<p>    do</p>
+<p>    {</p>
+<p>      /* múltiplos comandos aqui */</p>
+<p>    }</p>
+<p>    while( expression )</p>
+<p>      ; /* eu espero um ponto-e-vírgula aqui,</p>
+<p>           para finalizar minha </p>
+<p>           instrução do-while */</p>
 <p>Assim nós podemos reescrever nossa macro de logue da maneira certa (e todas as 549.797 macros já escritas em nossa vida de programador). E, apesar de ser uma construção um tanto bizarra, ela funciona melhor do que nossa tentativa inicial:</p>
+<p>    #ifdef NDEBUG</p>
+<p>    #define MYTRACE(message) /*nada*/</p>
+<p>    #else</p>
+<p>    #define MYTRACE(message)  \</p>
+<p>    do  \</p>
+<p>    { \</p>
+<p>      char buffer[500]; \</p>
+<p>      sprintf(buffer, \</p>
+<p>        "DBG: %s(%d) %s\n", \</p>
+<p>        __FILE__, \</p>
+<p>        __LINE__, \</p>
+<p>        message); \</p>
+<p>      output(buffer); \</p>
+<p>    } \</p>
+<p>    while( 0 )</p>
+<p>    #endif /* NDEBUG */ </p>
 <p>Ao usar um do-while (com uma expressão que retorna falso dentro do teste, de maneira que o código seja executado apenas uma vez) a construção if-else consegue funcionar perfeitamente:</p>
+<p>    if( exploded() )</p>
+<p>      do</p>
+<p>      {</p>
+<p>        char buffer[500];</p>
+<p>        sprintf(buffer,</p>
+<p>            "MYTRACE: %s(%d) %s\n",</p>
+<p>            __FILE__,</p>
+<p>            __LINE__,</p>
+<p>            "Oh, my God");</p>
+<p>        OutputDebugString(buffer);</p>
+<p>      }</p>
+<p>      while( 0 );</p>
+<p>    else</p>
+<p>      do</p>
+<p>      {</p>
+<p>        char buffer[500];</p>
+<p>        sprintf(buffer,</p>
+<p>            "MYTRACE: %s(%d) %s\n",</p>
+<p>            __FILE__,</p>
+<p>            __LINE__,</p>
+<p>            "That's right");</p>
+<p>        OutputDebugString(buffer);</p>
+<p>      }</p>
+<p>      while( 0 );</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

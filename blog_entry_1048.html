@@ -70,8 +70,93 @@
   </p>
   <div class="content">
 <p>Eu publico meu blog inteiro de tempos em tempos para um ebook que construo formatando primeiro em html através de um tema do [Hugo](https://gohugo.io/), o parser de blog que estou usando no momento porque ele suporta 2500 posts sem reclamar. É uma receita simples de sucesso se você precisar ter todo seu conteúdo indexado para rápida referência ou leitura cronológica.</p>
+<p>A primeira coisa a ser feita é preparar um tema para formatar seu html. Eu já tenho um [linkado no meu blogue](https://github.com/Caloni/blog/tree/master/themes/book) e que precisa apenas formatar o index.html, pois todo o conteúdo e índices estarão lá. Segue um exemplo atual que uso. Ele possui índice alfabético, inclusão de um arquivo-diário que mantenho, listagem das categorias (com índices para cada uma delas) e listagem cronológica (e link para pular direto para o conteúdo).</p>
 <p>```</p>
 <p><!DOCTYPE html></p>
+<p>  <head></p>
+<p>    <title>Blogue do Caloni</title></p>
+<p>    <meta http-equiv="content-type" content="text/html; charset=utf8"></p>
+<p>  </head></p>
+<p>  <body style="min-height:100vh;display:flex;flex-direction:column"></p>
+<p>    <section class="section" style="flex:1"></p>
+<p>      <div class="container"></p>
+<p>        <div class="columns"></p>
+<p>          <div class="column"></p>
+<p>            <h2 id="begin" style="page-break-before: always;">Índices</h2></p>
+<p>            <ul></p>
+<p>              <li><a href="#daytoday">DayToDay</a></li></p>
+<p>              <li><a href="#idx">Alfabético</a></li></p>
+<p>              <ul></p>
+<p>                <li>{{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}</p>
+<p>                  {{ range $letters }}</p>
+<p>                    <a href="#letter{{ . }}">{{ . }}</a></p>
+<p>                  {{ end }}</p>
+<p>                </li></p>
+<p>              </ul></p>
+<p>              <li><a href="#cat">Categorias</a></li></p>
+<p>              <ul></p>
+<p>                {{ range $key, $value := .Site.Taxonomies.categories }}</p>
+<p>	               <li><a href="#{{ $key }}">{{ $key | humanize }}({{ len $value }})</a></li></p>
+<p>                {{ end }}</p>
+<p>              </ul></p>
+<p>              <li><a href="#posts">Data (ir para Conteúdo)</a></li></p>
+<p>              <ul></p>
+<p>                {{ range .Site.RegularPages }}</p>
+<p>                    <li><a href="#{{ .UniqueID }}">{{ .Title }} </a></li></p>
+<p>                {{ end }}</p>
+<p>              </ul></p>
+<p>            </ul></p>
+<p>            <h2 id="daytoday" style="page-break-before: always;">DayToDay</h2></p>
+<p>            <pre> {{readFile "..\\caloni.txt"}} </pre></p>
+<p>            <h2 id="idx" style="page-break-before: always;">Índice Alfabético</h2></p>
+<p>            <ul></p>
+<p>            <!-- create a list with all uppercase letters --></p>
+<p>            {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}</p>
+<p>            <!-- range all pages sorted by their title --></p>
+<p>            {{ range .Data.Pages.ByTitle }}</p>
+<p>              <!-- get the first character of each title. Assumes that the title is never empty! --></p>
+<p>              {{ $firstChar := substr .Title 0 1 | upper }}</p>
+<p>              <!-- in case $firstChar is a letter --></p>
+<p>              {{ if $firstChar | in $letters }}</p>
+<p>                <!-- get the current letter --></p>
+<p>                {{ $curLetter := $.Scratch.Get "curLetter" }}</p>
+<p>                <!-- if $curLetter isn't set or the letter has changed --></p>
+<p>                {{ if ne $firstChar $curLetter }}</p>
+<p>                  <!-- update the current letter and print it --></p>
+<p>                  {{ $.Scratch.Set "curLetter" $firstChar }}</p>
+<p>                  <h3 id="letter{{ $firstChar }}">{{ $firstChar }}</h3></p>
+<p>                {{ end }}</p>
+<p>                <li><a href="#{{ .UniqueID }}">{{ .Title }}</a></li></p>
+<p>              {{ end }}</p>
+<p>            {{ end }}</p>
+<p>            </ul></p>
+<p>            <h2 id="cat" style="page-break-before: always;">Índice por Categoria</h2></p>
+<p>            <ul></p>
+<p>            {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}</p>
+<p>              {{ if eq "categories" $taxonomyname }}</p>
+<p>                {{ range $key, $value := $taxonomy }}</p>
+<p>                  <h3 id="{{ $key }}">{{ $key | humanize }}</h3></p>
+<p>                    <ul></p>
+<p>                      {{ range $value.Pages }}</p>
+<p>                        <li><a href="#{{ .UniqueID }}">{{ .Title }} </a></li></p>
+<p>                      {{ end }}</p>
+<p>                    </ul></p>
+<p>                {{ end }}</p>
+<p>              {{ end }}</p>
+<p>            {{ end }}</p>
+<p>            </ul></p>
+<p>            <h2 id="posts" style="page-break-before: always;">Conteúdo</h2></p>
+<p>            {{ range .Site.RegularPages }}</p>
+<p>              <h3 style="page-break-before: always" id="{{ .UniqueID }}">{{ .Title }}</h3> {{ dateFormat "2006-01-02" .Date }} {{ .Content }}</p>
+<p>              {{ partial "taglist.html" . }}</p>
+<p>            {{ end }}</p>
+<p>            </div></p>
+<p>            <br></p>
+<p>          </div></p>
+<p>        </div></p>
+<p>      </div></p>
+<p>    </section></p>
+<p>  </body></p>
 <p></html></p>
 <p>```</p>
 <p>Como eu uso Kindle eu construo a partir desse html um arquivo .mobi, mas creio ser simples de construir qualquer outro formato através desse html final. No caso do Kindle preciso de alguns arquivos para usar o [kindlegen](https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000765211) (a ferramenta da Amazon) que mantenho na pasta `static` do hugo, como o `.ncx` e o `.opf` (além da capa, `cover.jpg`). Uso uma batch muito pequena para fazer todos os passos e copiar o `.mobi` resultante para meu Kindle (conectado por um cabo USB e com um drive montado em K:).</p>
@@ -86,6 +171,7 @@
 <p>popd</p>
 <p>```</p>
 <p>Importante lembrar que a codificação do hugo (utf8) deve bater com a codificação esperada pelo gerador de ebook. Que me lembre não há muito mais segredos. Basta escrever e de vez em quando rodar o script novamente =)</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

@@ -69,52 +69,91 @@
   </a>
   </p>
   <div class="content">
+<p>O termo e conceito de reflection, muito usado em linguagens modernas, é a capacidade de um programa de observar e até de alterar sua própria estrutura. Bom, isso você pode ler na Wikipédia. O interessante é o que podemos usar desse conceito na linguagem C++.</p>
 <p>Infelizmente não muito.</p>
+<p>O sistema de RTTI (Run Time Type Identification), a identificação de tipos em tempo de execução, seria o começo do reflection em C++. Foi um começo que não teve meio nem fim, mas existe na linguagem. Dessa forma podemos tirar algum proveito disso.</p>
 <p>Um leitor pediu para que eu falasse um pouco sobre essas coisas, especificamente como se faz para obter o nome da classe de onde estamos executando um determinado método. Para esse tipo de construção podemos usar o operado typeid, que retorna informações básicas sobre um tipo de acordo com um tipo, instância ou expressão:</p>
 <p>```cpp</p>
 <p>#include <iostream></p>
 <p>using namespace std;</p>
 <p>int main()</p>
+<p>{</p>
 <p>	cout << typeid( int ).name() << endl;</p>
 <p>	int x;</p>
 <p>	cout << typeid( x ).name() << endl;</p>
 <p>	cout << typeid( 2 + 2 ).name() << endl;</p>
+<p>}</p>
 <p>```</p>
+<p>    C:\Tests>cl typeid.cpp</p>
+<p>    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86</p>
+<p>    Copyright (C) Microsoft Corporation.  All rights reserved.</p>
+<p>    </p>
+<p>    /out:typeid.exe</p>
+<p>    typeid.obj</p>
+<p>    </p>
+<p>    C:\Tests>typeid.exe</p>
+<p>    int</p>
 <p>Dessa forma, podemos nos aproveitar do fato que todo método não-estático possui a variável implícita this, do tipo "ponteiro constante para T", onde T é o tipo da classe que contém o método sendo chamado.</p>
 <p>```cpp</p>
 <p>#include <iostream></p>
 <p>using namespace std;</p>
 <p>class MyClass</p>
+<p>{</p>
 <p>	public:</p>
 <p>		void MyMethod()</p>
 <p>		{</p>
 <p>			cout << typeid(*this).name() << "::MyMethod" << endl;</p>
 <p>		}</p>
+<p>};</p>
 <p>int main()</p>
+<p>{</p>
 <p>	MyClass myc;</p>
 <p>	myc.MyMethod();</p>
+<p>}</p>
 <p>```</p>
+<p>    C:\Tests>cl typeid-class.cpp</p>
+<p>    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86</p>
+<p>    Copyright (C) Microsoft Corporation.  All rights reserved.</p>
+<p>    </p>
+<p>    /out:typeid-class.exe</p>
+<p>    typeid-class.obj</p>
+<p>    </p>
+<p>    C:\Tests>typeid-class.exe</p>
+<p>    class MyClass::MyMethod</p>
 <p>Com classes não-polimórficas a coisa parece não ter muita utilidade. No entanto, essa mesma técnica pode ser aplicada em classes derivadas, uma vez que o operador typeid pode trabalhar em tempo de execução:</p>
 <p>```cpp</p>
 <p>#include <iostream></p>
 <p>using namespace std;</p>
 <p>class MyClass</p>
+<p>{</p>
 <p>	public:</p>
 <p>		virtual void MyMethod()</p>
 <p>		{</p>
 <p>			cout << typeid(*this).name() << "::MyMethod" << endl;</p>
 <p>		}</p>
+<p>};</p>
 <p>class MyDerivatedClass1 : public MyClass { };</p>
 <p>class MyDerivatedClass2 : public MyClass { };</p>
 <p>int main()</p>
+<p>{</p>
 <p>	MyClass* myc1 = new MyDerivatedClass1;</p>
 <p>	MyClass* myc2 = new MyDerivatedClass2;</p>
 <p>	myc1->MyMethod();</p>
 <p>	myc2->MyMethod();</p>
+<p>}</p>
 <p>```</p>
+<p>    C:\Tests>cl typeid-class2.cpp</p>
+<p>    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86</p>
+<p>    Copyright (C) Microsoft Corporation.  All rights reserved.</p>
+<p>    </p>
+<p>    /out:typeid-class2.exe</p>
+<p>    typeid-class2.obj</p>
+<p>    </p>
+<p>    C:\Tests>typeid-class2.exe</p>
 <p>class MyDerivatedClass1::MyMethod class MyDerivatedClass2::MyMethod</p>
 <p>Apenas se lembre de ter de fato uma classe polimórfica (eu consegui isso tornando MyMethod uma função virtual). Do contrário você pode [ter problemas].</p>
 <p>[ter problemas]: {{< relref "typeid-e-os-perigos-do-nao-polimorfismo" >}}</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

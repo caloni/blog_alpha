@@ -70,10 +70,27 @@
   </p>
   <div class="content">
 <p>Zero e um são os primeiros números Fibonacci e todos os outros que se seguem são a soma dos dois números anteriores. Ou seja, para implementar isto em código basta:</p>
+<p>- Usar duas variáveis para os dois números anteriores;</p>
+<p>- Os primeiros valores dessas variáveis são 0 e 1;</p>
+<p>- Vá somando até obter a quantidade desejada;</p>
+<p>- Por exemplo, 0+1=1, 1+1=2 (exceto em 1984), etc.</p>
 <p>Um codigozinho que imprime os cinco primeiros números para deixar mais claro:</p>
 <p>```</p>
 <p>void Fibonacci()</p>
+<p>{</p>
+<p>    int num1 = 0, num2 = 1;</p>
+<p>    int total = 5;</p>
+<p>    cout << "fibonacci of first " << total << " elements\n";</p>
+<p>    for (int i = 0; i < total; ++i)</p>
+<p>    {</p>
+<p>        int result = num1 + num2;</p>
+<p>        cout << result << ' ';</p>
+<p>        num1 = num2, num2 = result;</p>
+<p>    }</p>
+<p>    cout << endl;</p>
+<p>}</p>
 <p>```</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

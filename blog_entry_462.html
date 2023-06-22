@@ -79,8 +79,10 @@
 <p>In the case of connecting into a existent process, the API DebugActiveProcess is called. Since this call, if successful, the caller program is free now to call the API DebugActiveProcess, looking for debugging events. The main loop for a debugger is, so, pretty simple:</p>
 <p>```cpp</p>
 <p>void DebugLoop()</p>
+<p>{</p>
 <p>	bool exitLoop = false;</p>
 <p>	while( ! exitLoop )</p>
+<p>	{</p>
 <p>		DEBUG_EVENT debugEvt;</p>
 <p>		// Wait for some debug event.</p>
 <p>		WaitForDebugEvent(&debugEvt, INFINITE);</p>
@@ -97,17 +99,25 @@
 <p>		// We need to unfreeze the thread who sent the debug event.</p>
 <p>		// Otherwise, it stays frozen forever!</p>
 <p>		ContinueDebugEvent(debugEvt.dwProcessId, debugEvt.dwThreadId, DBG_EXCEPTION_NOT_HANDLED);</p>
+<p>	}</p>
+<p>} </p>
 <p>```</p>
 <p>The interesting detail about this communication process is that a program can be debugged actively only for ONE debugger. In other words, while there's a process A debugging process B, no one besides A can debug and break B.Using this principle, we can imagine a debugging protection based on this exclusivity, creating a protector process that connects to the protected process and "debugs" it:</p>
 <p>```cpp</p>
 <p>/** @brief Antidebug protection based on DebugPort aquisition.</p>
+<p>* @author Wanderley Caloni (wanderley@caloni.com.br)</p>
+<p>* @date 2007-08</p>
+<p>*/</p>
 <p>#include <windows.h></p>
 <p>/* Every debugger needs a debugging loop. In this loop it catches</p>
 <p>debugging events sent by the operating system.</p>
+<p>*/</p>
 <p>DWORD DebugLoop()</p>
+<p>{</p>
 <p>	DWORD ret = ERROR_SUCCESS;</p>
 <p>	bool exitLoop = false;</p>
 <p>	while( ! exitLoop )</p>
+<p>	{</p>
 <p>		DEBUG_EVENT debugEvt;</p>
 <p>		WaitForDebugEvent(&debugEvt, INFINITE);</p>
 <p>		switch( debugEvt.dwDebugEventCode )</p>
@@ -119,30 +129,47 @@
 <p>		}</p>
 <p>		// Necessary, since the current thread is frozen.</p>
 <p>		ContinueDebugEvent(debugEvt.dwProcessId, debugEvt.dwThreadId, DBG_EXCEPTION_NOT_HANDLED);</p>
+<p>	}</p>
 <p>	return ret;</p>
+<p>}</p>
 <p>/* Attachs to the protected process againt debugging. Actually, we protect it</p>
 <p>againt debugging being its debugger.</p>
+<p>*/</p>
 <p>DWORD AntiAttach(DWORD pid)</p>
+<p>{</p>
 <p>	DWORD ret = ERROR_SUCCESS;</p>
 <p>	if( pid )</p>
+<p>	{</p>
 <p>		BOOL dbgActProc;</p>
 <p>		dbgActProc = DebugActiveProcess(pid);</p>
 <p>		if( dbgActProc )</p>
 <p>			DebugLoop();</p>
 <p>		else</p>
 <p>			ret = GetLastError();</p>
+<p>	}</p>
 <p>	else</p>
 <p>		ret = ERROR_INVALID_HANDLE;</p>
 <p>	return ret;</p>
+<p>}</p>
 <p>/* In the beginning, God said: 'int main!'</p>
+<p>*/</p>
 <p>int main(int argc, char* argv[])</p>
+<p>{</p>
 <p>	DWORD ret = ERROR_SUCCESS;</p>
 <p>	if( argc > 1 )</p>
+<p>	{</p>
 <p>		DWORD pid = atoi(argv[1]);</p>
 <p>		ret = AntiAttach(pid);</p>
+<p>	}</p>
 <p>	return (int) ret;</p>
+<p>} </p>
 <p>```</p>
 <p>The needed steps to test the code above are:</p>
+<p>  1. Compile the code</p>
+<p>  2. Run notepad (or another victim)</p>
+<p>  3. Get its PID (Process ID)</p>
+<p>  4. Run the protector process passing the notepad PID as the argument</p>
+<p>  5. Try to attach to the notepad using a debugger (e.g. Visual C++)</p>
 <p>After the attach process, the debug port is occupied, and the communication between the debugger and debuggee is made throug LPC. Bellow we can see a little illustration of how things work:</p>
 <p>{{< image src="debug-port2.gif" caption="Debug port" >}}</p>
 <p>Basically the process stay receiving debugging events (through the LPC message queue) until the final event, the process exit. Notice that if someone try to terminate the protector process the debuggee process will be terminated, too.</p>
@@ -150,6 +177,7 @@
 <p>The strength in this protection is that it doesn't affect the code understanding and readability. In fact the code that protects is in another process. The weakness, I would say, it is your visibility. Everyone that will try to attack the solution will se two processes being created, what gives him/her something to think about...</p>
 <p>That's why thinking about the implementation is vital. Particularly the main point to be thought is the debugger/debuggee union. As much as better these two pieces were packed, harder to the attacker will be to separate them. An additional idea is to use the same technique in the opposite way, in other words, the debuggee process to attach into the debugger.</p>
 <p>This time I'm not going to say that there's a easy solution. Maybe because I haven't though enough about the problem. Ideas?</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

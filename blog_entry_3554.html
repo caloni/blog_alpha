@@ -74,21 +74,65 @@
 <p>int soma(int x, int y);</p>
 <p>double soma(double x, double y);</p>
 <p>int main()</p>
+<p>{</p>
+<p>    int zi = soma(2, 3);</p>
+<p>    double zd = soma(2.5, 3.4);</p>
+<p>    return 0;</p>
+<p>}</p>
 <p>```</p>
 <p>Immediately the compiler would blame you about the following errors:</p>
+<p>    </p>
+<p>    overload.c</p>
+<p>    </p>
+<p>    overload.c(2) : warning C4028: formal parameter 1 different from declaration</p>
+<p>    overload.c(2) : warning C4028: formal parameter 2 different from declaration</p>
+<p>    overload.c(2) : error C2371: 'sum' : redefinition; different basic types</p>
+<p>            overload.c(1) : see declaration of 'sum'</p>
 <p>This happens because in C **the identifiers are unique into the scope.** This is the reason why the following code is wrong also:</p>
 <p>```</p>
 <p>int main()</p>
+<p>{</p>
+<p>    int x = 0;</p>
+<p>    int x = 1;</p>
+<p>    return 0;</p>
+<p>}</p>
 <p>```</p>
+<p>    overload.c</p>
+<p>    overload.c(5) : error C2374: 'x' : redefinition; multiple initialization</p>
+<p>            overload.c(4) : see declaration of 'x'</p>
 <p>Back to the 90's, this is also wrong in C++. Even for a logic issue: how the compiler can pick a variable if we're using the same name for both of them?</p>
 <p>Even though, there's a little trick to stop the ambiguity when we talk about functions: the parameters that they receives.</p>
 <p>```</p>
 <p>int soma(int x, int y);</p>
 <p>double soma(double x, double y);</p>
 <p>int main()</p>
+<p>{</p>
+<p>    int zi = soma(2, 3); // dois tipos int: chamar soma(int, int)</p>
+<p>    double zd = soma(2.5, 3.4); // dois tipos double: só pode ser soma(double, double)</p>
+<p>    return 0;</p>
+<p>}</p>
 <p>```</p>
+<p>    C:Tests>cl /c overload.cpp</p>
+<p>    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 13.10.6030 for 80x86</p>
+<p>    Copyright (C) Microsoft Corporation 1984-2002. All rights reserved.</p>
+<p>    </p>
+<p>    overload.cpp</p>
+<p>    </p>
+<p>    C:Tests></p>
 <p>This allowed in C++ the creation of static overload, that is exactly this: to call a function not just by its name, but also to match its signature, the number and the type of the received parameters. We call static because this is done just by the compiler, not creating any overhead during the execution.</p>
 <p>Among the most common uses some are as it follows:</p>
+<p>  * Functions with the same name treating different parameters;</p>
+<p>    * sum(int, int);</p>
+<p>    * sum(double, double);</p>
+<p>    * Obs.: This ignores, of course, the templates usefulness.</p>
+<p>  * New version of the same fuction with addictional parameters;</p>
+<p>    * export_data(void* buffer, int size);</p>
+<p>    * export_data(void* buffer, int size, unsigned long options);</p>
+<p>  * Same method name to set and get the value of a class property;</p>
+<p>    * Class::Property(int x); // setter</p>
+<p>    * int x Class::Property() const; // getter</p>
+<p>  * Well, whatever your imagination and needs demand =)</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

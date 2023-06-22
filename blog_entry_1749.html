@@ -69,8 +69,20 @@
   </a>
   </p>
   <div class="content">
+<p>> Vou aproveitar que meu amigo DQ publicou um artigo muito bom sobre [como fazer programas fáceis de manter] (merece ser lido!) e vou republicar um artigo do blogue antigo sobre o básico do básico para quem deseja entender como os programas funcionam. Não é nada sofisticado, apenas alguns conceitos comuns que, se você deseja ser programador, deveria procurar saber.</p>
 <p>## Código, dados e processador</p>
+<p>A primeira coisa a saber é o que é um programa. Podemos imaginá-lo como um arquivo que vai ser interpretado pelo computador. Essa interpretação chamamos de execução. Quando um programa está sendo executado também é comum dizermos que ele está rodando. Teoricamente ele pode rodar eternamente, mas o que acontece em casos normais é que ele tem um fim previsto, seja quando o usuário fechar a janela principal (evento externo) ou quando ele terminar o que tinha que fazer (lógica interna).</p>
+<p>E do que é feito um programa? Basicamente de duas coisas: dados de entrada e instruções (ou código). Os dados podem estar no próprio programa ou serem lidos de algum outro lugar (do teclado, de outro arquivo, da internet, etc). As instruções do seu programa é o que será interpretado pelo computador. E o que ele fará? Basicamente alterar os dados de entrada. O objetivo fundamental de um programa é gerar dados de saída. Esses dados são escritos/exibidos para algum outro lugar (para a tela, para um arquivo, para a internet, etc).</p>
 <p>Vamos analisar essas abstrações em exemplos da vida real:</p>
+<p>    </p>
+<p>| Exemplo          | Dados de entrada            | Processamento                 | Dados de saída                    |</p>
+<p>| ---------------- | --------------------------  | ----------------------------  | --------------------------------- |</p>
+<p>| Bloco de Notas   | Digitação do usuário        | Leitura do teclado            | Texto exibido na tela             |</p>
+<p>| Chat Online      | Envio de mensagem           | Conexão com a internet        | Seu amigo recebe a mensagem       |</p>
+<p>| Editor de imagem | Movimento do mouse          | Interpretação de movimento    | Retângulo desenhado               |</p>
+<p>| Browser          | Clique do mouse em uma URL  | Conexão com o site            | Exibição da nova página           |</p>
+<p>| Jogo de Tiro     | Clique no botão de tiro     | Cálculo do projétil           | Inimigo acertado                  |</p>
+<p>| Compilador       | Código do programador       | Interpretação das instruções  | Código de máquina (seu programa!) |</p>
 <p>Como podemos ver, podemos abstrair esse lance de "dados de entrada + processamento = dados de saída" com qualquer tipo de programa que usarmos. Basta relacionar o que fazemos (digitar algo, arrastar o mouse, apertar um botão, etc) para obtermos a saída desejada (texto/gráfico na tela, no arquivo, na impressora, etc). O programa é o elemento que fica no meio fazendo essa "mágica".</p>
 <p>## Dados do programa</p>
 <p>Existem informações intermediárias que precisamos guardar em um programa em execução para que no final consigamos apresentar a saída desejada ao usuário. Essas informações intermediárias também são dados, só que o usuário não os enxerga. A elas chamamos de variáveis. Entenda uma variável como "um lugar na memória onde o programa armazena alguma informação durante o processamento".</p>
@@ -79,9 +91,36 @@
 <p>Imagine um programa sendo executado do começo ao fim. A ordem em que um programa é executado é chamado de fluxo de execução. A tendência natural de um programa é ser executado pelo computador da sua primeira instrução até a última, sempre nessa ordem. Ou seja, linha 1, linha 2, linha 3, ...., linha n. Pronto. Acabou.</p>
 <p>Porém, se fosse sempre assim, isso quer dizer que o programa seria executado sempre do mesmo jeito, e os dados de saída seriam sempre os mesmos, independente dos dados de entrada. Mas isso não acontece, certo? Quer dizer, se você não mirar direito e apertar o botão certo, o inimigo não vai cair no chão. Isso faz um certo sentido, não?</p>
 <p>Seguindo esse raciocínio, podemos deduzir que um programa deve tomar decisões para saber o que fazer. E para tomar essas decisões ele usa o que recebeu como entrada, que são exatamente os dados de entrada. Nesse contexto, tomar decisão significa alterar o fluxo de execução. Ou seja, a ordem não necessariamente será sempre linha 1, linha 2, linha 3, etc, mas poderá ser, por exemplo, linha 1, linha 52, linha 237643, linha 52 de novo, linha 890, e assim por diante.</p>
+<p>    001: inicia</p>
+<p>    002: lê entrada</p>
+<p>    003: atirar?</p>
+<p>    004: sim! ir para 514</p>
+<p>    005: não! ir para 002</p>
+<p>    006: ...</p>
+<p>    ...</p>
+<p>    514: acertei?</p>
+<p>    515: sim! ir para 489</p>
+<p>    516: não! ir para 234</p>
+<p>    517: ...</p>
+<p>    ...</p>
+<p>    234: fui acertado?</p>
+<p>    235: sim! ir para 918</p>
+<p>    236: não! ir para 002</p>
+<p>    ...</p>
+<p>    489: aumenta pontos</p>
+<p>    490: ir para 002</p>
+<p>    ...</p>
+<p>    918: diminui vida</p>
+<p>    919: morri?</p>
+<p>    920: sim! ir para 980</p>
+<p>    921: não! ir para 002</p>
+<p>    ...</p>
+<p>    980: game over!</p>
+<p>    981: sai do programa</p>
 <p>Note que existem várias perguntas que o programa precisa responder para seguir em frente. Para respondê-las, o programa pede a ajuda do computador para fazer comparações entre variáveis. E aí está o uso desses dados internos.</p>
 <p>## Mudando o fluxo</p>
 <p>Bem, até aqui você já aprendeu um montão de coisas:</p>
+<p>	</p>
 <p> - Programas podem ser armazenados em arquivos.</p>
 <p> - Quando executados, o computador interpreta suas instruções.</p>
 <p> - Um programa usa dados de entrada para gerar dados de saída.</p>
@@ -113,6 +152,7 @@
 <p>[A inteligência do if]: {{< relref "a-inteligencia-do-if-parte-1" >}}</p>
 <p>[A inteligência do if]: {{< relref "a-inteligencia-do-if-parte-2" >}}</p>
 <p>[Introdução Ilustrada à Computação]: {{< relref "introducao-a-introducao-a-computacao" >}}</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

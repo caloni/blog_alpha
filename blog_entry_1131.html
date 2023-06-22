@@ -76,15 +76,35 @@
 <p>#include <stdlib.h></p>
 <p>#include <memory></p>
 <p>struct X</p>
+<p>{</p>
+<p>    char * pString = 0;</p>
+<p>    X() {}</p>
+<p>    X(const char* s)</p>
+<p>    {</p>
+<p>        pString = _strdup(s);</p>
+<p>    }</p>
+<p>    ~X()</p>
+<p>    {</p>
+<p>        free(pString);</p>
+<p>    }</p>
+<p>};</p>
 <p>int main()</p>
+<p>{</p>
+<p>    X x1;</p>
+<p>    const X x2("a");</p>
+<p>    x1 = std::move(x2);</p>
+<p>    return 0;</p>
+<p>}</p>
 <p>```</p>
 <p>Neste singelo exemplo, que está errado by design, a classe X não se preocupa em proteger-se de cópias simples. Mas o programador também não se protege da ignorância e usa **std::move** como se ele magicamente movesse referências const, o que é absurdo.</p>
 <p>{{< image src="zi5GJxE.png" caption="Imgur" >}}</p>
+<p>A questão, porém, não é sobre qual é o problema no código, mas os aspectos de design de C++ que podem levar futuros programadores a se depararem com o mesmo problema em versões multicamadas de complexidade. Este é um exemplo óbvio, mas até quando será?</p>
 <p>Esta crítica pode levar (pelo menos) para dois diferentes caminhos:</p>
 <p> - O funcionamento do std::move não é intuitivo e pode levar a erros semânticos ("se usar o move estou movendo referências"); programador não conhece o funcionamento por completo.</p>
 <p> - Em C++ o esforço de manter uma classe é muito maior hoje do que em 98/03 ("tomar cuidado com reference, const reference, rvalue reference..."); isso concordo; as mudanças são bem-intencionadas, mas a linguagem é velha com alguns esqueletos que podem começar a balançar.</p>
 <p>C++, assim como o Brasil, desde o começo nunca foi para amadores. Hoje em dia ele é impossível. Ouço galera falar que está ficando lindo, mas, francamente, está virando é um ninho de cobras. Mantenedores de bibliotecas, se não estão já arrancando os cabelos, deveriam começar.</p>
 <p>Mas talvez com C++ 17+ os cabelos passem a cair sozinho...</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

@@ -69,9 +69,69 @@
   </a>
   </p>
   <div class="content">
+<p>O sistema de drag and drop do C++ Builder é muito fácil de usar, integrado que está com o sistema de classes e objetos do framework. Tanto para o objeto de drag quanto para o objeto de drop tudo que temos que fazer é definirmos a propriedade DragMode para dmAutomatic como mostra a figura. Isso fará com que toda a troca de mensagens seja manipulada automaticamente pela VCL.</p>
 <p>{{< image src="trocatroca.gif" caption="Troca-troca" >}}</p>
+<p>A parte (ridídula) do código fica por conta da manipulação do evento de drop. Para aceitar um objeto, devemos tratar o evento OnDragOver. Basta isso para que a variável Accept tenha seu valor default definido para true. Podemos, entretanto, escolher se iremos ou não tratar um possível drop de um objeto. Verificando seu tipo, por exemplo:</p>
+<p>    void __fastcall TMain::FormDragOver(TObject *Sender, TObject *Source,</p>
+<p>          int X, int Y, TDragState State, bool &Accept)</p>
+<p>    {</p>
+<p>    	Accept = true;</p>
+<p>    }</p>
+<p>    </p>
+<p>    void __fastcall TMain::ListBoxDragOver(TObject *Sender, TObject *Source,</p>
+<p>          int X, int Y, TDragState State, bool &Accept)</p>
+<p>    {</p>
+<p>    	Accept = dynamic_cast<TWinControl*>( Source ) ? true : false;</p>
+<p>    } </p>
+<p>A parte mais interessante do código fica por conta da hora que o objeto é "jogado", no evento OnDragDrop. Nela recebemos o ponteiro para o Sender (como sempre), que é o target object, e um Source. Geralmente para manipular o source object é necessário antes realizar um cast para um tipo mais conhecido.</p>
+<p>    void __fastcall TMain::ListBoxDragDrop(TObject *Sender, TObject *Source, </p>
+<p>    	int X, int Y)</p>
+<p>    {</p>
+<p>    	if( TListBox* listBox = dynamic_cast<TListBox*>(Sender) )</p>
+<p>    	{</p>
+<p>    		TWinControl* winCtrl = static_cast<TWinControl*>(Source);</p>
+<p>    </p>
+<p>    		if( listBox != winCtrl )</p>
+<p>    		{</p>
+<p>    			listBox->Items->Add(winCtrl->Name);</p>
+<p>    			winCtrl->Visible = false;</p>
+<p>    		}</p>
+<p>    	}</p>
+<p>    }</p>
+<p>    void __fastcall TMain::FormDragDrop(TObject *Sender, TObject *Source,</p>
+<p>    	int X, int Y)</p>
+<p>    {</p>
+<p>    	if( TForm* form = dynamic_cast<TForm*>(Sender) )</p>
+<p>    	{</p>
+<p>    		TControl* ctrl = 0;</p>
+<p>    </p>
+<p>    		if( TListBox* listBox = dynamic_cast<TListBox*>( Source ) )</p>
+<p>    		{</p>
+<p>    			for( int i = 0; i < listBox->Count; ++i )</p>
+<p>    			{</p>
+<p>    				if( listBox->Selected[i] )</p>
+<p>    				{</p>
+<p>    					ctrl = this->FindChildControl(listBox->Items->Strings[i]);</p>
+<p>    					listBox->Items->Delete(i);</p>
+<p>    					break;</p>
+<p>    				}</p>
+<p>    			}</p>
+<p>    		}</p>
+<p>    		else</p>
+<p>    			ctrl = dynamic_cast<TControl*>(Source);</p>
+<p>    </p>
+<p>    		if( ctrl )</p>
+<p>    		{</p>
+<p>    			ctrl->Top = Y;</p>
+<p>    			ctrl->Left = X;</p>
+<p>    			ctrl->Visible = true;</p>
+<p>    		}</p>
+<p>    	}</p>
+<p>    } </p>
+<p>E mais uma vez voilà! Pouquíssimas linhas de código e um movimentador e empilhador de controles. Dois detalhes merecem ser destacados:</p>
 <p> - O uso de dynamic_cast em cima dos ponteiros da VCL é uma maneira saudável de checar a integridade dos tipos recebidos - particularmente do Sender. O uso do primeiro parâmetro dos tratadores de eventos também torna o código menos preso à componentes específicos do formulário;</p>
 <p> - O método FindChildControl é deveras útil quando não temos certeza da existência de um controle. Geralmente é uma boa idéia confiar no sistema de gerenciamento de componentes da VCL. Não é à toa que existe um framework por baixo do ambiente RAD.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

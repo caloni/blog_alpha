@@ -71,8 +71,10 @@
   <div class="content">
 <p>Esta palestra tem como objetivo ensinar o que são moedas digitais, como o bitcoin, e cada passo necessário o algoritmo e implementação para torná-la real. Será utilizado C++ como a linguagem-base e o foco está mais na implementação do que na matemática ou no algoritmo. Assim como foi criado o bitcoin, o importante a aprender é como unir diferentes tipos de conhecimento e tecnologia em torno de um objetivo único, simples e prático.</p>
 <p>{{< image src="TAunJPB.png" caption="" >}}</p>
+<p>A partir da criação da moeda surge a necessidade de facilitar o seu uso, um problema recorrente em todas as mais de 700 moedas digitais existentes no mercado e no laboratório, incluindo o bitcoin. Após a palestra teremos uma discussão de como levar a tecnologia ao usuário comum.</p>
 <p>### Construindo os princípios básicos</p>
 <p>Para nossa moeda digital utilizaremos um sistema simples, rápido e prático para subir informações na memória de um nó (server) e repassar essas informações para outros nós, o tiodb. Este projeto mantém contêineres STL na memória da maneira mais enxuta possível e eles são acessíveis através do protocolo mais simples possível utilizando uma gama de linguagens (C, C++, Python, .NET).</p>
+<p>A primeira coisa é compilar o projeto tiodb, que irá disponibilizar alguns binários em sua saída:</p>
 <p> - __tio.exe__ é o executável central cuja instância mantém contêineres na memória;</p>
 <p> - __InteliHubExplorer.exe__ é uma interface simples para navegar por esses contêineres;</p>
 <p> - __tioclient.dll__ é a biblioteca dinâmica que pode ser usada por clientes para acessar o tio.</p>
@@ -88,12 +90,82 @@
 <p>OK, tio rodando e ativo. Podemos navegar já pelos seus contêineres usando o InteliHubExplorer:</p>
 <p>{{< image src="YJZ7wxC.png" caption="" >}}</p>
 <p>Por convenção os contêineres seguem um padrão de nomes que se assemelha a uma hierarquia de diretórios, e os nomes que começam com underline são internos/reservados. O contêiner __meta__/sessions, por exemplo, contém uma lista simples das conexões ativas deste nó.</p>
+<p>A partir do servidor funcionando é possível criar novos contêineres e mantê-los, adicionando, atualizando e removendo itens. A partir dessas modificações outros clientes podem receber notícias dessas modificações e tomar suas próprias decisões.</p>
 <p>Vamos criar e popular um contêiner inicial de transações com  um GUID zerado, e a partir dele vamos adicionando novas "transações". Também iremos permitir o monitoramento dessas transações.</p>
 <p>```</p>
 <p>try</p>
+<p>{</p>
+<p>    tio::Connection conn;</p>
+<p>    conn.Connect(server, port);</p>
+<p>    if (args.find("--build") != args.end())</p>
+<p>    {</p>
+<p>        tio::containers::list<string> transactionsBuilder;</p>
+<p>        transactionsBuilder.create(&conn, "transactions", "volatile_list");</p>
+<p>        transactionsBuilder.push_back("{00000000-0000-0000-0000-0000000000000");</p>
+<p>    }</p>
+<p>    else if (args.find("--add") != args.end())</p>
+<p>    {</p>
+<p>        tio::containers::list<string> transactionsAdd;</p>
+<p>        transactionsAdd.create(&conn, "transactions", "volatile_list");</p>
+<p>        string newTransaction = NewGuid();</p>
+<p>        if( newTransaction.size())</p>
+<p>            transactionsAdd.push_back(newTransaction);</p>
+<p>        else</p>
+<p>            cout << "Error creating transaction\n";</p>
+<p>    }</p>
+<p>    else if (args.find("--monitor") != args.end())</p>
+<p>    {</p>
+<p>        tio::containers::list<string> transactionsMonitor;</p>
+<p>        transactionsMonitor.open(&conn, "transactions");</p>
+<p>        transactionsMonitor.subscribe([](auto container, auto containerEvt, auto key, auto value)</p>
+<p>                {</p>
+<p>                int eventCode = stoi(containerEvt);</p>
+<p>                switch (eventCode)</p>
+<p>                {</p>
+<p>                case TIO_COMMAND_PING:</p>
+<p>                cout << "Ping!\n";</p>
+<p>                break;</p>
+<p>                case TIO_EVENT_SNAPSHOT_END:</p>
+<p>                cout << "Snapshot end\n";</p>
+<p>                break;</p>
+<p>                case TIO_COMMAND_PUSH_BACK:</p>
+<p>                cout << "New transaction " << value << " inserted\n";</p>
+<p>                break;</p>
+<p>                default:</p>
+<p>                cout << "Unknown event " << hex << eventCode << " with key " << dec << key << " and with value " << value;</p>
+<p>                break;</p>
+<p>                }</p>
+<p>                });</p>
+<p>        while (true)</p>
+<p>        {</p>
+<p>            conn.WaitForNextEventAndDispatch(0);</p>
+<p>            Sleep(1000);</p>
+<p>        }</p>
+<p>    }</p>
+<p>    else</p>
+<p>    {</p>
+<p>        tio::containers::list<string> transactionsReader;</p>
+<p>        transactionsReader.open(&conn, "transactions");</p>
+<p>        for( size_t transactionIdx = 0; transactionIdx < transactionsReader.size(); ++transactionIdx )</p>
+<p>            cout << "Transaction " << transactionsReader.at(transactionIdx) << endl;</p>
+<p>    }</p>
+<p>    break; // just testing and developing...</p>
+<p>}</p>
 <p>catch (tio::tio_exception& e)</p>
+<p>{</p>
+<p>    Log("Connection error: %s", e.what());</p>
+<p>    break;</p>
+<p>}</p>
 <p>catch (std::runtime_error& e)</p>
+<p>{</p>
+<p>    Log("Runtime error: %s", e.what());</p>
+<p>    break;</p>
+<p>}</p>
 <p>catch (...)</p>
+<p>{</p>
+<p>    Log("Catastrophic error");</p>
+<p>    break;</p>
+<p>}</p>
 <p>```</p>
 <p>Após executar esse código passando o argumento "--build" e atualizarmos o IntelihubExplorer poderemos ver o novo contêiner e seu conteúdo:</p>
 <p>{{< image src="3Mhj2lE.png" caption="" >}}</p>
@@ -103,6 +175,7 @@
 <p>{{< image src="kLrPawv.png" caption="" >}}</p>
 <p>Voilà! Agora temos um sistema inicial com um contêiner que irá manter os IDs de supostas transações de nossa moeda digital. Está compilando e está rodando, e em cima disso poderemos ir adicionando as funcionalidades.</p>
 <p>Atenção: você poderá encontrar o repositório do tiocoin [aqui](https://github.com/bitforgebr/tiocoin).</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

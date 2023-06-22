@@ -71,13 +71,23 @@
   <div class="content">
 <p>**Update 2019-03-20: Adicionando programa para fazer tela cheia no Windows e retirados detalhes que não uso mais.**</p>
 <p>Um [artigo anterior] havia dado umas dicas de como transformar o Vim em uma ferramenta para toda obra, com isso limitando as distrações quando se está em um computador, e com isso facilitando a entrada e a permanência no estado de fluidez de produtividade que conhecemos como "flow", ou estar na zona. Agora é a vez do Windows.</p>
+<p>O Windows 10 já vem com atalhos pré-instalados assim que você loga nele. Tem browser, navegador de arquivos, notícias, e uma caralhada de coisas inúteis que ficam se mexendo na tela, chamando sua atenção, distraindo sobre o que é mais importante.</p>
 <p>Mas é possível arrancar tudo isso e deixar na barra de tarefas pinado apenas as coisas realmente vitais para o uso do computador de trabalho, geralmente o terminal, o navegador (pesquisa, emails, etc) e o editor (não necessariamente o Vim).</p>
 <p>### Otimizando o terminal</p>
+<p>O terminal do Windows, o Command Prompt, ou cmd para os íntimos, sofreu algumas mudanças ultimamente. Entre elas há a transparência, o que o tornou cool, e a tela cheia (atalho Alt+Enter), o que o tornou ideal como ferramenta de navegação para programadores (melhor do que o explorer, que virou um penduricalho de atalhos inúteis também). Você pode ativá-lo já entrando na tela cheia e com o code page de sua preferência (o meu é 65001, que é o utf8) usando esse pequeno programa:</p>
 <p>```</p>
 <p>#include <iostream></p>
 <p>#include <windows.h></p>
 <p>#pragma comment(lib, "user32")</p>
 <p>int main()</p>
+<p>{</p>
+<p>    if( ! SetConsoleDisplayMode(GetStdHandle(STD_OUTPUT_HANDLE), CONSOLE_FULLSCREEN_MODE | CONSOLE_WINDOWED_MODE, NULL) )</p>
+<p>    {</p>
+<p>        // Se falhas com GLE 120 (função não suportada) usar função abaixo.</p>
+<p>        ::SendMessage(::GetConsoleWindow(), WM_SYSKEYDOWN, VK_RETURN, 0x20000000);</p>
+<p>    }</p>
+<p>    system("chcp 65001");</p>
+<p>}</p>
 <p>```</p>
 <p>### Configurando o git para controlar o fonte rapidamente</p>
 <p>Os comandos do git são muito verbose. Duas letras já seriam suficiente (o Windbg manipula seu programa com apenas uma...). Para otimizar a digitação no git crie uns aliases em seu HOME\.gitconfig:</p>
@@ -99,6 +109,7 @@
 <p>### Atalhos da barra iniciar</p>
 <p>Agora, através dos atalhos Win+1, 2, 3... pode-se abrir e alternar entre os aplicativos principais do seu dia-a-dia, que devem ficar "pinados" na barra de tarefas. Os meus atualmente são três: terminal (1 cmd), editor (2 vim) e browser (3 chrome). Não é necessário colocar coisas como Visual Studio, já que minha navegação é feita rapidamente pelo terminal para o projeto que irei mexer. Com isso o foco fica restrito a apenas uma coisa: o que você tem que fazer hoje? =)</p>
 <p>[artigo anterior]: {{< relref "entrando-na-zona-com-vim" >}}</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

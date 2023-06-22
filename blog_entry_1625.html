@@ -71,12 +71,14 @@
   <div class="content">
 <p>No [post anterior sobre debug] eu havia me focado mais na depuração de processos remotos no Visual Studio 2003 de maneira convencional. Aqui eu vou abordar o assunto de uma maneira menos convencional: usando o Visual Studio 2017 mais novo e depurando uma DLL (C++) que é carregada por um serviço antes do logon no Windows 7.</p>
 <p>Em primeiro lugar, como vimos anteriormente, a ponta server do depurador é um programa que você executa com alguns parâmetros e ele fica escutando em uma porta. Simples assim. Para que isso funcione antes do logon é necessário instalar esse programa como um serviço. Tanto no caso de depuradores mais antigos (msvCmon) quando nos mais novos (msvSmon) há sempre um executável com alguns parâmetros passados via linha de comando.</p>
+<p>O depurador do Visual Studio mais novo fica em sua pasta de instalação Program Files, etc, Microsoft Visual Studio, 2017, Enterprise, Common7, IDE, Remote Debugger ou derivados. Dentro dessa pasta há subpastas para cada arquitetura, x64 ou x86. É essa pasta que deve ser copiada para a máquina que será depurada. Se você estiver depurando um processo 32 bits, use o x86; do contrário, vá de x64.</p>
 <p>No caso do msvsmon, se executado com /? (padrão entre programas Windows) ele abre um pequeno help com a ajuda necessária para executar os parâmetros corretos:</p>
 <p>{{< image src="CZIHbHZ.png" caption="" >}}</p>
 <p>No caso o comando maroto é o seguinte:</p>
 <p>```</p>
 <p>msvsmon.exe /timeout 999999 /anyuser /silent /noauth</p>
 <p>```</p>
+<p>E para transformar em um serviço podemos usar o [NSSM](https://nssm.cc/), já visto em outros artigos.</p>
 <p>```</p>
 <p>nssm.exe install Msvsmon msvsmon.exe /timeout 999999 /anyuser /silent /noauth</p>
 <p>```</p>
@@ -87,13 +89,35 @@
 <p>#include <iostream></p>
 <p>#include <windows.h></p>
 <p>int main()</p>
+<p>{</p>
+<p>    if( HMODULE dll = LoadLibraryA("DLL") )</p>
+<p>    {</p>
+<p>        void (*start)(), (*stop)();</p>
+<p>        *((FARPROC*)&start) = GetProcAddress(dll, "DLL_Start");</p>
+<p>        *((FARPROC*)&stop) = GetProcAddress(dll, "DLL_Stop");</p>
+<p>        if( start )</p>
+<p>            start();</p>
+<p>        std::cout << "Type <enter> to exit\n";</p>
+<p>        std::cin.get();</p>
+<p>        if( stop )</p>
+<p>            stop();</p>
+<p>        FreeLibrary(dll);</p>
+<p>    }</p>
+<p>    else std::cout << "DLL not found\n";</p>
+<p>}</p>
 <p>```</p>
 <p>As funções de start e stop não fazem nada, apenas imprimem um passou-por-aqui:</p>
 <p>```</p>
 <p>#include "DLL.h"</p>
 <p>#include <iostream></p>
 <p>void DLL_Start()</p>
+<p>{</p>
+<p>    std::cout << "DLL started\n";</p>
+<p>}</p>
 <p>void DLL_Stop()</p>
+<p>{</p>
+<p>    std::cout << "DLL stopped\n";</p>
+<p>}</p>
 <p>```</p>
 <p>Depois de copiar Service.exe e DLL.dll para a máquina-alvo (e não se esquecer de instalar as [dependências](https://www.google.com.br/search?q=visual+c%2B%2B+redistributable+2017&oq=visual+c%2B%2B+redistributable)) instalar da mesma forma com que foi instalado o msvsmon:</p>
 <p>```</p>
@@ -110,11 +134,17 @@
 <p>```</p>
 <p>#include <windows.h></p>
 <p>void DLL_Start()</p>
+<p>{</p>
+<p>    while( ! IsDebuggerPresent() )</p>
+<p>        Sleep(1000);</p>
+<p>    std::cout << "DLL started\n";</p>
+<p>}</p>
 <p>```</p>
 <p>Depois que houver o attach você irá continuar a execução. Portanto, coloque um breakpoint logo depois.</p>
 <p>{{< image src="hja6Y2Y.png" caption="" >}}</p>
 <p>Depois que isso funcionar já é possível iniciar sua depuração antes da tela de login. Os serviços executarão, e sua DLL estará aguardando um debugger ser atachado. Se houver necessidade é possível deixar esse modo de espera configurável, por timeout, etc.</p>
 <p>[post anterior sobre debug]: {{< relref "debugger-remoto-do-visual-studio" >}}</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,
