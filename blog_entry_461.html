@@ -74,102 +74,58 @@
 <p>```cpp</p>
 <p>// Go back to place pre-defined by the restoration point.</p>
 <p>void LongJmp(restorePoint)</p>
-<p>{</p>
 <p>	// Here we will generate an exception to make things difficult.</p>
 <p>	// @todo Make a breakpoint exception and catch it.</p>
 <p>	// 3. We return to the if without using the stack, but from the restoration point.</p>
 <p>	GoBackToTheStartFunction(restorePoint);</p>
-<p>}</p>
 <p>// Here everything begins.</p>
 <p>int Start()</p>
-<p>{</p>
 <p>	// Obs.: follow the agreement flow according to the numbers.</p>
 <p>	// 1. First pass: we define a restoration point to the return of LongJmp.</p>
 <p>	// 4. Second pass: we go back from the LongJmp function, but this time we get into the else.</p>
 <p>	if( RestorePointDefined() == Defined )</p>
-<p>	{</p>
 <p>		// 2. We call the function that will return to the if.</p>
 <p>		LongJmp( if );</p>
-<p>	}</p>
 <p>	else</p>
-<p>	{</p>
 <p>		// 5. Call the real function, our true target.</p>
 <p>		CallTheUsefulFunction();</p>
-<p>	}</p>
 <p>	// 6. End of execution.</p>
 <p>	return 0;</p>
-<p>} </p>
 <p>```</p>
 <p>The solution above is explained in pseudocode to make things clearer. Notice that exist some kind of invisible return, not stack based. To handle it, however, we can use the good for all C ANSI standard, using the setjmp (step one) and longjmp (step 3). To understand the implementation for theses functions running on the 8086 platform we need to get the basic vision of the function calls in a stack based environment (the C and Pascal way).</p>
 <p>#### Registers, stack frame and call/ret</p>
 <p>Registers are reserved variables in the processor that can be used by the assembly code. Stack frame is the function calling hierarchy, the "who called who" in a given execution state. Call and ret are assembly instructions to call and return from a function, respectively. Both change the stack frame.</p>
 <p>Imagine you have a function, CallFunc, and another function, Func, and one calls the other. In order to analyse just the function call, and just that, let's consider Func doesn't receive any argument and doesn't return any value. The C code, would be like bellow:</p>
-<p>    void Func()</p>
-<p>    {</p>
-<p>       return;</p>
-<p>    }</p>
-<p>    void CallFunc()</p>
-<p>    {</p>
-<p>       Func();</p>
-<p>    }</p>
 <p>Simple, huh? Being simple, the generated assembly will be simple as well. In CallFunc it should have the function call, and inside Func the return from the call. The rest of the code is related with Debug version stuff.</p>
-<p>    Func:</p>
-<p>    00411F73 prev_instruction ; ESP = 0012FD38 (four bytes stacked up)</p>
-<p>    00411F74 ret ; *ESP = 00411FA3 (return address)</p>
-<p>    </p>
-<p>    CallFunc:</p>
-<p>    00411F9C prev_instruction</p>
-<p>    00411F9E call Func (411424h) ; ESP = 0012FD3C</p>
-<p>    00411FA3 next_instruction</p>
 <p>From the assembly above we can conclude two things: 1. The stack grows down, since its value decremented four bytes (0012FD3C minus 0012FD38 equal four) and 2. The return value from the calling is the address of the very next instruction after the call instruction, in the case 00411FA3.</p>
 <p>Well, in the same way we can follow this simple execution, the attacker will do as well. That's why in the middle of this call we will throw an exception and, in the return, we will not do the return in the conventional way, but using another technique that, instead using the ret instruction, sets manually the esp value (stack state) and jumps to the next instruction in CallFunc.</p>
-<p>    Func:</p>
-<p>    00411F60 throw_exception</p>
-<p>    00411F61 ...</p>
-<p>    00411F73 catch_exception</p>
-<p>    00411F74 mov ESP, 0012FD3C ; ESP = 0012FD3C, just like CallFunc</p>
-<p>    00411F75 jmp 00411FA3 ; jumps to CallFunc::next_instruction</p>
 <p>#### Back to the Middle Earth</p>
 <p>All this assembly stuff doesn't need to be written in assembly level. It was just a way I found to illustrate the differences between the stack return and the jump return. As it was said, to the luck and well being for all, this same technique can be implemented using ANSI C functions:</p>
 <p>```cpp</p>
 <p>jmp_buf env; // Contains the next instruction (stack state).</p>
 <p>void Func()</p>
-<p>{</p>
 <p>	// 3. Return using the "nonconventional" way</p>
 <p>	longjmp(env, 1);</p>
-<p>}</p>
 <p>void CallFunc()</p>
-<p>{</p>
 <p>	// 1. If we're setting, returns 0.</p>
 <p>	// 2. If we're returning, returns a value different from 0.</p>
 <p>	if( setjmp(env) == 0 )</p>
 <p>		Func();</p>
 <p>	int x = 10; // 4. Next instruction.</p>
-<p>} </p>
 <p>```</p>
 <p>That was the new trick for the trowing of exceptions. The final code is clearer, now:</p>
 <p>```cpp</p>
 <p>/** The only purpose of this function is to generate an exception.</p>
-<p>*/</p>
 <p>DWORD LongJmp(jmp_buf* env)</p>
-<p>{</p>
 <p>	__try</p>
-<p>	{</p>
 <p>		__asm int 3</p>
-<p>	}</p>
 <p>		__except( EXCEPTION_EXECUTE_HANDLER )</p>
-<p>	{</p>
 <p>		longjmp(*env, 1);</p>
-<p>	}</p>
 <p>	return ERROR_SUCCESS;</p>
-<p>}</p>
 <p>/** And God said: 'int main!'</p>
-<p>*/</p>
 <p>int main()</p>
-<p>{</p>
 <p>	DWORD ret = ERROR_SUCCESS;</p>
 <p>	while( cin )</p>
-<p>	{</p>
 <p>		string line;</p>
 <p>		cout << "Type something\n";</p>
 <p>		getline(cin, line);</p>
@@ -182,43 +138,28 @@
 <p>		{</p>
 <p>			cout << line << endl;</p>
 <p>		}</p>
-<p>	}</p>
 <p>	return (int) ret;</p>
-<p>} </p>
 <p>```</p>
 <p>At first sight, it seems a waste the if being directly in the code (remember we gonna use the same conditional structure in several parts in the code). To turn things clearer, resume the protected call and allows the protection to be disabled in debug version code, let's create a macro:</p>
 <p>```cpp</p>
 <p>/** Use this macro instead LongJmp</p>
-<p>*/</p>
 <p>#define ANTIDEBUG(code)</p>
-<p>{</p>
 <p>	jmp_buf env;</p>
 <p>	if( setjmp(env) == 0 )</p>
-<p>	{</p>
 <p>		LongJmp(&env);</p>
-<p>	}</p>
 <p>	else</p>
-<p>	{</p>
 <p>		code;</p>
-<p>	}</p>
-<p>}</p>
 <p>/** And God said: 'int main!'</p>
-<p>*/</p>
 <p>int main()</p>
-<p>{</p>
 <p>	DWORD ret = ERROR_SUCCESS;</p>
 <p>	while( cin )</p>
-<p>	{</p>
 <p>		string line;</p>
 <p>		cout << "Type something\n";</p>
 <p>		getline(cin, line);</p>
 <p>		ANTIDEBUG(( cout << line << endl ));</p>
-<p>	}</p>
 <p>	return (int) ret;</p>
-<p>} </p>
 <p>```</p>
 <p>Now we allow the antidebugging selection by call, what turns things much easier than to choose the protected points inside the code.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

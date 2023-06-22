@@ -77,58 +77,15 @@
 <p> - Sed. Use esta se quiser processar a entrada de um arquivo, um conjunto de arquivos ou uma enxurrada de caracteres do prompt de comando.</p>
 <p> - Sort. Use esta se quiser ordenar qualquer coisa da entrada padrão (inclusive arquivos, conjunto de arquivos...).</p>
 <p>Essas ferramentas são nativas do ambiente Linux, mas podem ser instaladas no Windows através do Cygwin, do Mingw ou nativamente através das ferramentas GnuWin32.</p>
-<p>O que eu queria era processar a saída de um programa de forma que eu tivesse a lista de todas as extensões dos arquivos. Por exemplo, para a seguinte entrada:</p>
-<p>    c:\path\arquivo1.cpp</p>
-<p>    c:\path\arquivo2.h</p>
-<p>    c:\arquivo3.hpp</p>
-<p>    c:\path\path2\arquivo4.cpp</p>
 <p>Eu gostaria de uma saída no seguinte formato:</p>
-<p>    .cpp</p>
-<p>    .h</p>
-<p>    .hpp</p>
 <p>Basicamente é isso.</p>
 <p>Para filtrar o path do arquivo, e ao mesmo tempo retirar seu nome, podemos usar o seguinte comando (fora outras trilhões de variantes):</p>
-<p>    programa | sed -e "s/^.*\\//" -e "s/.*\.\(.*\)/\1/"</p>
 <p>Após esse processamento, a saída é um monte de extensões vindas de um monte de arquivos:</p>
-<p>    cpp</p>
-<p>    h</p>
-<p>    cpp</p>
-<p>    h</p>
-<p>    c</p>
-<p>    h</p>
-<p>    cpp</p>
-<p>    h</p>
-<p>    mak</p>
-<p>    vcproj</p>
-<p>    h</p>
-<p>    cpp</p>
-<p>    h</p>
-<p>    cpp</p>
-<p>    h</p>
-<p>    cpp</p>
-<p>    h</p>
-<p>    cpp</p>
-<p>    h</p>
-<p>    c</p>
-<p>    h</p>
-<p>    txt</p>
-<p>    c</p>
-<p>    cpp</p>
-<p>    h</p>
-<p>    mak</p>
-<p>    vcproj</p>
-<p>    cpp</p>
-<p>    h</p>
-<p>    ...</p>
 <p>Como podemos ver e é óbvio de imaginar, muitas extensões irão se repetir. Para eliminar as repetições e ordenar a saída da saída corretamente, usamos o comando sort:</p>
-<p>    programa | sed -e "s/^.*\\//" -e "s/.*\.\(.*\)/\1/" | sort -u</p>
-<p>	</p>
 <p>Os caracteres .*[]^$\ dão problemas se usados sem escape no sed, pois fazem parte dos comandos para procurar expressões regulares. Use-os com o caractere de escape `\`.</p>
 <p>Para concatenar comandos no sed, use sempre -e "comando". A ordem de execução dos comandos é a ordem em que eles são inseridos na linha de comando, ou seja, podemos confiar que no segundo comando o primeiro já terá sido executado e assim por diante.</p>
 <p>Para fazer o escape das barras do caminho de um arquivo temos que usar o conjunto `\/` (obs.: caminhos em formato Unix). Para evitar esse uso enfadonho podemos substituir o caractere de divisão do comando s colocando-o na frente:</p>
-<p>    s/path\/muito\/muito\/muito\/longo.cpp/outropath\/muito\/muito\/longo.cpp/s#/path/muito/muito/muito/longo.cpp#/outropath/muito/muito/longo.cpp#</p>
 <p>Para agrupar expressõe, use sempre `\(` e `\)`. É o contrário do uso dos caracteres especiais. Coisas de Unix.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

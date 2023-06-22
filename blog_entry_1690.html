@@ -83,63 +83,10 @@
 <p>list<DWORD> g_ticks;</p>
 <p>list<LONG> g_increments;</p>
 <p>DWORD WINAPI Ticks(PVOID)</p>
-<p>{</p>
-<p>    for( int i = 1; i <= 100; ++i )</p>
-<p>    {</p>
-<p>        DWORD tick = GetTickCount();</p>
-<p>        g_ticks.push_back(tick);</p>
-<p>        Sleep(rand() % 20);</p>
-<p>    }</p>
-<p>    return 0;</p>
-<p>}</p>
 <p>DWORD WINAPI Increment(PVOID)</p>
-<p>{</p>
-<p>    static LONG st_prevIncrement = 0;</p>
-<p>    for( int i = 1; i <= 100; ++i )</p>
-<p>    {</p>
-<p>        LONG increment = InterlockedIncrement(&st_prevIncrement);</p>
-<p>        g_increments.push_back(increment);</p>
-<p>        Sleep(rand() % 20);</p>
-<p>    }</p>
-<p>    return 0;</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
-<p>    const size_t threadsCount = 20;</p>
-<p>    HANDLE threads[threadsCount];</p>
-<p>    srand((unsigned int) time(0));</p>
-<p>    for( size_t i = 0; i < threadsCount / 2; ++i )</p>
-<p>        threads[i] = CreateThread(NULL, 0, Ticks, NULL, 0, NULL);</p>
-<p>    for( size_t i = threadsCount / 2; i < threadsCount; ++i )</p>
-<p>        threads[i] = CreateThread(NULL, 0, Increment, NULL, 0, NULL);</p>
-<p>    WaitForMultipleObjects(threadsCount, threads, TRUE, INFINITE);</p>
-<p>    for( auto it = g_ticks.begin(); it != g_ticks.end(); ++it )</p>
-<p>    {</p>
-<p>        DWORD tick = *it;</p>
-<p>        size_t tickOccurrence = count(g_ticks.begin(), g_ticks.end(), tick);</p>
-<p>        if( tickOccurrence > 1 )</p>
-<p>        {</p>
-<p>            cout << "Ocorrencia de tick duplicado!\n";</p>
-<p>            break;</p>
-<p>        }</p>
-<p>    }</p>
-<p>    for( auto it = g_increments.begin(); it != g_increments.end(); ++it )</p>
-<p>    {</p>
-<p>        DWORD tick = *it;</p>
-<p>        size_t incrementOccurrence = count(g_increments.begin(), g_increments.end(), tick);</p>
-<p>        if( incrementOccurrence > 1 )</p>
-<p>        {</p>
-<p>            cout << "Ocorrencia de incremento duplicado!\n";</p>
-<p>            break;</p>
-<p>        }</p>
-<p>    }</p>
-<p>}</p>
-<p> </p>
 <p>```</p>
-<p>O motivo do GetTickCount retornar números iguais remete tanto ao fato que o espaço de tempo entre uma execução e outra pode ser muito pequeno quanto ao fato de várias threads podem ser executadas efetivamente ao mesmo tempo em ambientes de dois ou mais cores.</p>
 <p>Já o motivo do InterlockedIncrement funcionar sempre é porque aqui estamos usando uma solução de incremento atômico, ou seja, usamos a mesma base contadora e incrementamos ela em uma operação que não pode ocorrer ao mesmo tempo com outra thread.</p>
-<p>O que aprendemos aqui? Que por mais que seja intuitiva uma solução, nunca podemos nos basear nas nossas falhas cabeças. Um computador está aí não apenas para ser mais rápido, mas para ser assertivo em nossas elucubrações. Nesse sentido, é o nosso companheiro vulcaniano.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

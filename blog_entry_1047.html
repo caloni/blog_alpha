@@ -69,7 +69,6 @@
   </a>
   </p>
   <div class="content">
-<p>A resposta rápida para esta questão é: hash tables.</p>
 <p>Com hash tables você consegue através de uma chave agrupar qualquer tipo de informação. No caso de caracteres repetidos em uma string a chave é o próprio caractere. Os passos para conseguir isso são os seguintes:</p>
 <p> - Declare um map entre char e int (como contador);</p>
 <p> - Faça um loop caractere por caractere da string;</p>
@@ -78,15 +77,7 @@
 <p>Em C++ um código que faz isso seria como o abaixo:</p>
 <p>```</p>
 <p>void MatchingCharacters(string s)</p>
-<p>{</p>
-<p>    map<char, int> m; // declarar um map entre char e int</p>
-<p>    for_each(s.begin(), s.end(), [&m](char c) { m[c] += 1; }); // loop caractere a caractere incrementando contador para cada um</p>
-<p>    for( auto c: m ) {</p>
-<p>      cout << c.first << ": " << c.second << "\n";</p>
-<p>    }</p>
-<p>}</p>
 <p>```</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

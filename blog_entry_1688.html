@@ -70,7 +70,6 @@
   </p>
   <div class="content">
 <p>Sim, eu acho que já resumi o suficiente meu parseador de argv/argc no meu [último artigo sobre o tema]. Sim, eu também acho que a [versão com STL] bonitinha (mas ordinária). A questão agora não são as dependências, mas o uso no dia-a-dia: precisa ter o argc nessa equação?</p>
-<p>A resposta é não. Pois, como sabemos, o padrão C/C++ nos informa que o argv é um array de ponteiros de strings C que termina em nulo. Sabemos que ele termina, então o argc é apenas um helper para sabermos de antemão onde ele termina. Mas quando precisamos, por exemplo, passar o argv/argc para uma thread Windows, que aceita apenas um argumento mágico, talvez minha versão antiga não seja tão eficaz, pois isso vai exibir que eu aloque memória de um struct que contenha ambas as variáveis, etc. Por que não simplesmente utilizar apenas o argv?</p>
 <p>{{< image src="asi80x3.png" caption="" >}}</p>
 <p>```</p>
 <p>#include <string.h></p>
@@ -78,35 +77,12 @@
 <p>/** Interpreta argumentos da linha de comando (versão raiz truzona).</p>
 <p>@author Wanderley Caloni <wanderley.caloni@bitforge.com.br></p>
 <p>@date 2018-08</p>
-<p>*/</p>
 <p>const char* GetArg(char* argv[], const char* arg)</p>
-<p>{</p>
-<p>    while( *++argv )</p>
-<p>    {</p>
-<p>        if( strcmp(*argv, arg) == 0 )</p>
-<p>        {</p>
-<p>            if( *(argv+1) )</p>
-<p>                return *(argv+1);</p>
-<p>            else</p>
-<p>                return "";</p>
-<p>        }</p>
-<p>    }</p>
-<p>    return NULL;</p>
-<p>}</p>
 <p>int main(int argc, char* argv[])</p>
-<p>{</p>
-<p>    printf("Type enter to start...");</p>
-<p>    getchar();</p>
-<p>    if( GetArg(argv, "--debug") )</p>
-<p>        printf("Waiting for debugger...\n");</p>
-<p>    if( const char* command = GetArg(argv, "--command") )</p>
-<p>        printf("Command %s received\n", command);</p>
-<p>}</p>
 <p>```</p>
 <p>Nessa versão elminamos a necessidade do argc e de brinde ganhamos a possibilidade de usar um único ponteiro como start de um parseamento de argumentos.</p>
 <p>[último artigo sobre o tema]: {{< relref "meu-novo-parseador-de-argc-argv" >}}</p>
 <p>[versão com STL]: {{< relref "como-parsear-argc-argv-para-um-map-stl" >}}</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

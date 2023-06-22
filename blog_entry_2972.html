@@ -86,18 +86,9 @@
 <p>boost_system-vc140.1.61.0.0</p>
 <p>boost_thread-vc140.1.61.0.0</p>
 <p>```</p>
-<p>O maior problema disso é que não há muitas opções na IDE que resolvam. O arquivo packages.config deveria manter essas dependências, o que de fato ele faz. As opções do projeto (as abinhas do Visual Studio onde ficam as configurações) não possuem nada relacionado ao NuGet.</p>
 <p>```</p>
 <p><?xml version="1.0" encoding="utf-8"?></p>
 <p><packages></p>
-<p>  <package id="boost" version="1.61.0.0" targetFramework="native" /></p>
-<p>  <package id="boost_chrono-vc140" version="1.61.0.0" targetFramework="native" /></p>
-<p>  <package id="boost_date_time-vc140" version="1.61.0.0" targetFramework="native" /></p>
-<p>  <package id="boost_filesystem-vc140" version="1.61.0.0" targetFramework="native" /></p>
-<p>  <package id="boost_program_options-vc140" version="1.61.0.0" targetFramework="native" /></p>
-<p>  <package id="boost_regex-vc140" version="1.61.0.0" targetFramework="native" /></p>
-<p>  <package id="boost_system-vc140" version="1.61.0.0" targetFramework="native" /></p>
-<p>  <package id="boost_thread-vc140" version="1.61.0.0" targetFramework="native" /></p>
 <p></packages></p>
 <p>```</p>
 <p>Então não tem jeito. Há algo de podre dentro desse projeto e o próprio Visual Studio não vai resolver. Grep nele!</p>
@@ -121,7 +112,6 @@
 <p>2>  tioserver.vcxproj -> ..\..\bin\x64\Debug\tio.pdb (Full PDB)</p>
 <p>```</p>
 <p>Recarregado o projeto no Visual Studio após a intervenção cirúrgica, tudo voltou a funcionar. A lição de hoje é: nunca confie completamente em uma IDE. Às vezes o bom e velho grep e o bom e velho editor de sua escolha podem resolver uma situação.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

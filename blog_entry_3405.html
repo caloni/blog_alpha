@@ -75,25 +75,7 @@
 <p>Em C++:</p>
 <p>```</p>
 <p>int SecondLargest(vector<int> array)</p>
-<p>{</p>
-<p>    int first = max(array[0], array[1]);</p>
-<p>    int second = min(array[0], array[1]);</p>
-<p>    for (size_t i = 2; i < array.size(); ++i)</p>
-<p>    {</p>
-<p>        if (array[i] >= first)</p>
-<p>        {</p>
-<p>            second = first;</p>
-<p>            first = array[i];</p>
-<p>        }</p>
-<p>        else if( array[i] > second )</p>
-<p>        {</p>
-<p>            second = array[i];</p>
-<p>        }</p>
-<p>    }</p>
-<p>    return second;</p>
-<p>}</p>
 <p>```</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

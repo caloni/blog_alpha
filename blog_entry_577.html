@@ -81,26 +81,7 @@
 <p>using namespace std;</p>
 <p>namespace fs = std::filesystem;</p>
 <p>std::string ReadEntireFile(std::ifstream& in)</p>
-<p>{</p>
-<p>    std::ostringstream sstr;</p>
-<p>    sstr << in.rdbuf();</p>
-<p>    return sstr.str();</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
-<p>    std::string path = ".";</p>
-<p>    for (const auto& entry : fs::directory_iterator(path))</p>
-<p>    {</p>
-<p>        string path = entry.path().string();</p>
-<p>        ifstream ifs(path);</p>
-<p>        ofstream ofs(path + ".html");</p>
-<p>        if( ifs && ofs )</p>
-<p>        {</p>
-<p>            string content = ReadEntireFile(ifs);</p>
-<p>            ofs << content;</p>
-<p>        }</p>
-<p>    }</p>
-<p>}</p>
 <p>```</p>
 <p>Fiz um teste usando o próprio awk, mas ainda não sei como fazer para manipular vários arquivos de uma vez e acabei criando uma batch, que acho que deixou a execução desnecessariamente lenta. Volto para isso depois.</p>
 <p>```</p>
@@ -113,7 +94,6 @@
 <p>mkdir copia</p>
 <p>copy *.md copia > NUL</p>
 <p>```</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

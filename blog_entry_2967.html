@@ -70,14 +70,7 @@
   </p>
   <div class="content">
 <p>Primeiro tente logar com o usuário enquanto roda o comando abaixo no server para ver mensagens de log:</p>
-<p>    # see logs from ssh server</p>
-<p>    journalctl -f -t sshd</p>
 <p>Se for problema de ownership então resolva dessa forma:</p>
-<p>    # fix ownership for ssh server users</p>
-<p>    chmod go-w ~</p>
-<p>    chmod 700 .ssh</p>
-<p>    chmod 600 .ssh/authorized_keys</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

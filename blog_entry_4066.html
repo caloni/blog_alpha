@@ -71,26 +71,10 @@
   <div class="content">
 <p>The Windows code responsible to call DllMain for each loaded and unloaded DLLs uses an exclusive access object, the so-called mutex, to synchronize its calls. The result is that inside a process just one DllMain can be called at a given moment. This object-mutex is called "loader lock" into the Microsoft documentation.</p>
 <p>{{< image src="loader_lock.gif" caption="Loader Lock explained" >}}</p>
-<p>I wrote a [silly code] that represents quite well what I've seen in lots of production code. For many times I was unable to realize what was going on (whether because I didn't know about the loader lock or the code readability was too bad). The code say by itself: calling CreateThread inside DllMain must lock your execution forever.</p>
-<p>A simple victim of all this can be an executable using a poorly written DLL, just like the code above:</p>
-<p>    int main()</p>
-<p>    {</p>
-<p>      printf("load dll");</p>
-<p>      HMODULE lockDll = LoadLibrary(_T("dll_lock.dll"));</p>
-<p>    </p>
-<p>      if( lockDll )</p>
-<p>      {</p>
-<p>        Sleep(2000);</p>
-<p>        printf("free dll");</p>
-<p>        FreeLibrary(lockDll), lockDll  = NULL;</p>
-<p>        printf("done");</p>
-<p>      }</p>
-<p>    }</p>
 <p>It is important to remember that a DllMain dependant code is a very, very bad thing. Nevertheless, there are some particular cases the only place to run our code is inside DllMain. In these cases, when detected, try to run a side by side communication with your locked thread using an event object (or equivalent) before it really returns. Using this craft the thread can warn the waiting thread that the important thing to be done is done, and the waiting thread can go to sleep and stop waiting forever locked threads.</p>
 <p>Among the classic Matt Pietrek posts in Microsoft Journal there is in the [1999 september edition] a short one about DLL initialization. That is the more sucint, didatic and simple text about this question.</p>
 <p>[silly code]: dll_lock.cpp</p>
 <p>[[1999 september edition]]: http://bytepointer.com/resources/pietrek_debug_init_routines.htm</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

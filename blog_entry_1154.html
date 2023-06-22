@@ -74,7 +74,6 @@
 <p>Como sabemos, a pasta temporária de um usuário fica em seu perfil, que possui direitos de uso apenas do usuário e dos administradores do sistema. Se eu copio um arquivo de uma pasta restrita para outra pasta os direitos do arquivo permanecem. Isso quer dizer que apenas o usuário atual e os administradores terão acesso ao arquivo, mesmo que se trate de um arquivo para uso de todos.</p>
 <p>Resultado: arrastava a nova DLL de hook compilada da pasta de saída direto para a pasta de sistema da máquina virtual e esse caminho através do temporário era seguido, tornando a DLL inacessível para os usuários que eu estava testando.</p>
 <p>Solução: após arrastar o arquivo, mude suas permissões. Ou copie-o através do bom e velho copiar/colar. Diferente do arrastar, o Ctrl+C Ctrl+V não gera arquivos temporários.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

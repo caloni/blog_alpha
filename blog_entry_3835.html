@@ -69,85 +69,32 @@
   </a>
   </p>
   <div class="content">
-<p>A [API do Windows](http://msdn.microsoft.com/) geralmente prima pela excelência em maus exemplos. A [Notação Húngara](http://pt.wikipedia.org/wiki/Nota%C3%A7%C3%A3o_h%C3%BAngara) e o Typedef Arcaico são duas técnicas que, por motivos históricos, são usados a torto e a direito pelos códigos de exemplo.</p>
 <p>Já foi escrito muita coisa sobre os prós e contras da notação húngara. Já o typedef arcaico, esse pedacinho imprestável de código, ficou esquecido, e hoje em dia traz mais dúvidas na cabeça dos principiantes em C++ do que deveria. Para tentar desobscurecer os mitos e fatos, vamos tentar explicar o que significa essa construção tão atípica, mas comum no dia-a-dia.</p>
 <p>Vejamos um exemplo típico desse pequeno Frankenstein semântico:</p>
-<p>    typedef struct _MINHASTRUCT {</p>
-<p>       int x;</p>
-<p>       int y;</p>
-<p>    }</p>
-<p>    MINHASTRUCT, *LPMINHASTRUCT;</p>
 <p>Bom, eu nem sei por onde começar. Talvez pelo conceito de typedef.</p>
 <p>#### Typedefs</p>
 <p>Um typedef, basicamente, é um apelido. Você informa um tipo e define "outro tipo".</p>
-<p>    typedef tipo apelido;</p>
-<p>O tipo é tudo que fica entre o typedef e o novo nome, que deve ser um identificador válido na linguagem. Por exemplo, a empresa onde trabalho fez um typedef informal do meu nome:</p>
-<p>    typedef Wanderley Caloni Wandeco;</p>
 <p>Se, futuramente, eu sair da empresa e entrar outro "Wanderley alguma-coisa", será possível usar o apelido novamente, bastando alterar o typedef:</p>
-<p>    typedef Wanderley Cardoso Wandeco;</p>
 <p>_Bom, "outro tipo" é forma de dizer. Isso é uma descrição errônea em muitos livros. De fato, o compilador enxerga **o mesmo tipo com outro nome**, daí chamarmos o typedef de apelido, mesmo._</p>
 <p>```</p>
 <p>/** @file dois_apelidos.cpp */</p>
 <p>#include <iostream></p>
 <p>using namespace std;</p>
 <p>struct Struct</p>
-<p>{</p>
-<p>   int x;</p>
-<p>   int y;</p>
-<p>};</p>
 <p>typedef Struct Struct1;</p>
 <p>typedef Struct Struct2;</p>
 <p>int main()</p>
-<p>{</p>
-<p>   Struct1 s1;</p>
-<p>   Struct2 s2;</p>
-<p>   cout << typeid(s1).name() << endl;</p>
-<p>   cout << typeid(s2).name() << endl;</p>
-<p>}</p>
 <p>```</p>
-<p>>     </p>
-<p>>     C:\Tests>cl /EHsc dois_apelidos.cpp</p>
-<p>>     ...</p>
-<p>>     /out:dois_apelidos.exe</p>
-<p>>     dois_apelidos.obj</p>
-<p>>     </p>
-<p>>     C:\Tests>dois_apelidos.exe</p>
-<p>> </p>
 <p>struct Struct struct Struct</p>
 <p>#### Granularidade dos tipos</p>
 <p>Tipos simples são fáceis de entender porque possuem seus símbolos no mesmo lugar:</p>
-<p>    int x;</p>
-<p>    char c;</p>
-<p>    long p;</p>
 <p>Já os tipos um pouco mais complicados permite alguma mudança aqui e acolá:</p>
-<p>    int* x;</p>
-<p>    char * y;</p>
-<p>    long * p;</p>
 <p>Essa liberdade da linguagem, mesmo sendo um recurso útil, pode ser bem nocivo dependendo de quem olha o código:</p>
-<p>    int x, y; // dois inteiros</p>
-<p>    int * x, y; // um ponteiro para inteiro e um inteiro</p>
-<p>    int x, *y; // um inteiro e um ponteiro para inteiro</p>
-<p>    int *x, y; // um ponteiro para inteiro e um inteiro</p>
 <p>Em algumas formas da sintaxe, além de ser inevitável, gera bastante desconfiança:</p>
-<p>    // Um ponteiro para função que recebe dois inteiros e não retorna nada.</p>
-<p>    typedef void (* FP)(int, int) ;</p>
-<p>    </p>
-<p>    // Um ponteiro para função que recebe dois inteiros e não retorna nada.</p>
-<p>    void (*)(int, int);</p>
-<p>    </p>
-<p>    // Um cast para ponteiro para função que recebe dois inteiros e não retorna nada.</p>
-<p>    ( ( void (*)(int, int)) pf )(x, y);</p>
 <p>```</p>
 <p>#include <iostream></p>
 <p>void func(int x, int y)</p>
-<p>{</p>
-<p>   std::cout << x << '-' << y << '\n';</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
-<p>   void* pf = func;</p>
-<p>   ( ( void (*)(int, int) ) pf )(3, 14);</p>
-<p>}</p>
 <p>```</p>
 <p>#### Structs em C++</p>
 <p>Antigamente, as structs eram construções em C que definiam **um agregado de tipos primitivos** (ou outras structs) e que poderiam gerar variáveis desse tipo em qualquer lugar, desde que informado seu nome e que se tratasse de uma struct:</p>
@@ -155,73 +102,29 @@
 <p>/** @file structs.cpp */</p>
 <p>struct MyStruct { int x, y; };</p>
 <p>void func1()</p>
-<p>{</p>
-<p>   struct MyStruct ms;</p>
-<p>   //...</p>
-<p>}</p>
 <p>void func2(struct MyStruct msa)</p>
-<p>{</p>
-<p>   //...</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
-<p>   struct MyStruct ms;</p>
-<p>   func2(ms);</p>
-<p>}</p>
 <p>```</p>
 <p>Para evitar toda essa digitação, os programadores usavam um pequeno truque criando um apelido para a estrutura, e usavam o apelido no lugar da struct (apesar de ambas representarem a mesma coisa).</p>
-<p>    struct MyStruct { int x, y; };</p>
-<p>    typedef struct MyStruct MS;</p>
-<p>ou</p>
-<p>    typedef struct MyStruct { int x, y; } MS;</p>
-<p>    struct MyStruct ms1; // ainda prolixo</p>
-<p>    MS ms2; // mais simples</p>
 <p>Com a definição da linguagem C++ padrão, e mais moderna, essa antiguidade foi removida, apesar de ainda suportada. Era possível usar apenas o nome do struct como seu tipo:</p>
 <p>```</p>
 <p>/** @file structs.cpp */</p>
 <p>struct MyStruct { int x, y; };</p>
 <p>void func1()</p>
-<p>{</p>
-<p>   /*struct*/ MyStruct ms;</p>
-<p>   //...</p>
-<p>}</p>
 <p>void func2(/*struct*/ MyStruct msa)</p>
-<p>{</p>
-<p>   //...</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
-<p>   /*struct*/ MyStruct ms;</p>
-<p>   func2(ms);</p>
-<p>}</p>
 <p>```</p>
 <p>Porém, isso vai um pouco além de quando a Microsoft começou a fazer código para seu sistema operacional. Naquela época, o padrão ainda estava se formando e existia mais ou menos um consenso de como seria a linguagem C++ (sem muitas alterações do que de fato a linguagem C já era). De qualquer forma, a linguagem C imperava bem mais que C++. Dessa forma, já era bem formada a ideia de como declarar uma struct: a forma antiga.</p>
-<p>    typedef struct _MINHASTRUCT {</p>
-<p>       int x;</p>
-<p>       int y;</p>
-<p>    }</p>
-<p>    MINHASTRUCT, *LPMINHASTRUCT;</p>
 <p>Além do uso controverso do** _sublinhado** para nomear entidades (que no padrão foi recomendado que se reservasse aos nomes internos da biblioteca-padrão) e do uso de **MAÍUSCULAS_NO_NOME** (historicamente atribuído a nomes definidos no pré-processador), o uso do typedef atracado a um struct era muito difundido. E ficou ainda mais depois que a API do Windows foi publicada com essas definições.</p>
 <p>#### Como fazer,então?</p>
 <p>Ora, do mesmo jeito que é feito há vinte anos: sem typedefs. O próprio paradigma da linguagem, independente de padrões de APIs, de sistemas operacionais ou de projetos específicos já orienta o programador para entender o que o espera na leitura de um código-fonte qualquer. Qualquer pessoa que aprendeu o básico do básico sobre ponteiros e structs consegue ler o código abaixo:</p>
 <p>```</p>
 <p>// Papai, o que que é isso?</p>
 <p>// Ora, filho, apenas uma definição de estrutura!</p>
-<p>//</p>
 <p>struct MinhaStruct {</p>
-<p>   int x;</p>
-<p>   int y;</p>
-<p>};</p>
 <p>// muitas linhas abaixo...</p>
 <p>void func(MinhaStruct* ms)</p>
-<p>{</p>
-<p>   // asterisco significa ponteiro para MinhaStruct!</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
-<p>   MinhaStruct ms;</p>
-<p>   func(&ms);</p>
-<p>}</p>
 <p>```</p>
 <p>Agora, para entender a forma antiga, ou você se baseou no copy&paste dos modelos Microsoftianos, ou seja, decoreba, ou você é PhD em Linguagem C/C++ e padrões históricos de linguagens legadas. Se não é, deveria começar o curso agora.</p>
 <p>```</p>
@@ -231,22 +134,11 @@
 <p>// em maiúsculas, apesar se não serem defines, com uma</p>
 <p>// nomenclatura de ponteiro que eu nunca vi na vida (obs: </p>
 <p>// papai programa em um sistema não-Windows).</p>
-<p>//</p>
 <p>typedef struct _MINHASTRUCT {</p>
-<p>   int x;</p>
-<p>   int y;</p>
-<p>}</p>
 <p>MINHASTRUCT, *LPMINHASTRUCT;</p>
 <p>// muitas linhas abaixo...</p>
 <p>void func(LPMINHASTRUCT ms)</p>
-<p>{</p>
-<p>   // o que diabos é um LP, mesmo?</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
-<p>   MINHASTRUCT ms;</p>
-<p>   func(&ms);</p>
-<p>}</p>
 <p>```</p>
 <p>{{< image src="gFNalqB.png" caption="Código Antes x Depois no Visual Studio" >}}</p>
 <p>Da mesma forma, o uso de uma estrutura simples de tipos mantém a lista de nomes do seu projeto limpa e clara. Compare o visualizador de classes em projetos Windows com algo mais C++ para ter uma ideia.</p>
@@ -254,7 +146,6 @@
 <p>#### Atualização</p>
 <p>De acordo com o leitor  [Adriano dos Santos Fernandes](http://www.caloni.com.br/blog/typedef-arcaico#comment-17016), a obrigatoriedade do nome struct após seu nome continua valendo para a linguagem C padrão, assim como no compilador GCC ocorre um erro ao tentar omiti-la. Apenas na linguagem C++ essa obrigatoriedade não existe mais.</p>
 <p>Eu não fiz meus testes, mas confio no diagnóstico de nosso amigo. A maior falha do artigo, no entanto, é usar a linguagem C como base, quando na verdade ele deveria falar sobre o uso desses typedefs em C++. Esse erro também foi corrigido no original.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

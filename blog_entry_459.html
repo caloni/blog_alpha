@@ -79,19 +79,14 @@
 <p>#include <assert.h></p>
 <p>using namespace std;</p>
 <p>/** This function is triggered when a debugger try to attach into our process.</p>
-<p>*/</p>
 <p>void AntiAttachAbort()</p>
-<p>{</p>
 <p>	// this is a test application, remember?</p>
 <p>	MessageBox(NULL, "Espertinho, hein?", "AntiAttachDetector", MB_OK | MB_ICONERROR);</p>
 <p>	// this is the end</p>
 <p>	TerminateProcess(GetCurrentProcess(), -1);</p>
-<p>}</p>
 <p>/** This function installs  a trigger that is activated when a debugger try to attach.</p>
 <p>@see AntiAttachAbort.</p>
-<p>*/</p>
 <p>void InstallAntiAttach()</p>
-<p>{</p>
 <p>	PVOID attachBreak = GetProcAddress(</p>
 <p>		GetModuleHandle("ntdll"), // this dll is ALWAYS loaded</p>
 <p>		"DbgUiRemoteBreakin"); // this function is ALWAYS called on the attach event</p>
@@ -105,50 +100,34 @@
 <p>	DWORD oldProtect = 0;</p>
 <p>	if( VirtualProtect(attachBreak, sizeof(jmpToAntiAttachAbort), </p>
 <p>		PAGE_EXECUTE_READWRITE, &oldProtect) )</p>
-<p>	{</p>
 <p>		// if we can change the code page protection we put a jump to our code</p>
 <p>		CopyMemory(attachBreak, </p>
 <p>			jmpToAntiAttachAbort, sizeof(jmpToAntiAttachAbort));</p>
 <p>		// restore old protection</p>
 <p>		VirtualProtect(attachBreak, sizeof(jmpToAntiAttachAbort), </p>
 <p>			oldProtect, &oldProtect);</p>
-<p>	}</p>
-<p>}</p>
 <p>/** In the beginning, God said: 'int main!'</p>
-<p>*/</p>
 <p>int main()</p>
-<p>{</p>
 <p>	InstallAntiAttach();</p>
 <p>	cout << "Try to attach, if you can...";</p>
 <p>	cin.get();</p>
-<p>} </p>
 <p>```</p>
 <p>To compile the code above, just call the compiler and linker normally. Obs.: We need the user32.lib in order to call MessageBox API:</p>
-<p>    cl /c antiattach.cpp</p>
-<p>    link antiattach.obj user32.lib</p>
-<p>    </p>
-<p>    antiattach.exe</p>
-<p>    Try to attach, if you can...</p>
 <p>After the program has been running, every try to attach will show a detection message and program termination.</p>
-<p>    windbg -pn antiattach.exe</p>
 <p>{{< image src="espertinho.png" caption="Espertinho" >}}</p>
 <p>#### Code peculiarities</p>
 <p>Yes, I know. Sometimes we have to use "brute force codding" and make obscure codes, like this:</p>
 <p>```cpp</p>
 <p>// opcodes to run a jump to the function AntiAttachAbort</p>
 <p>BYTE jmpToAntiAttachAbort[] =</p>
-<p>{ 0xB8, 0xCC, 0xCC, 0xCC, 0xCC,   // mov eax, 0xCCCCCCCC</p>
 <p>0xFF, 0xE0 };                     // jmp eax</p>
 <p>// we change 0xCCCCCCCC using a more useful address</p>
 <p>*reinterpret_cast<PVOID*>(&jmpToAntiAttachAbort[1]) = AntiAttachAbort; </p>
 <p>```</p>
 <p>There are a lot of ways to do the same thing. The example above is what is normally called in the crackers community as a shellcode, what is a pretty name for "byte array that is really the assembly code that does interesting things". Shellcode for short =).</p>
 <p>Alternative ways to do this are:</p>
-<p>  1. To declare a naked function in Visual Studio, to create an empty function just after, do some math to calculate the size of the function to be copied into another place (aware of Edit and Continue option).</p>
-<p>  2. To create a structure whose members are masked opcodes. This way, is possible in the constructor to receive the values and use it as a "mobile function".</p>
 <p>Both have pros and cons. The cons are related with the environment dependency. In the first alternative is necessary to configure the project to disable "Edit and Continue" option, whilst in the second one is necessary to align 1 byte the structure.</p>
 <p>Anyway, given the implementation, the main advantage is to isolate the code in only two functions - AntiAttachAbort and InstallAntiAttach - an API local hook (in the same process) that should never be called in production code. Besides, there are C++ ways to do such thing like "live assembly". But this is matter for other future and exciting articles.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

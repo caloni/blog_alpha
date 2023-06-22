@@ -70,76 +70,10 @@
   </p>
   <div class="content">
 <p>Quando queremos que um membro de nossa classe seja visível apenas dentro dos métodos da classe e dentro dos métodos das classes derivadas dessa classe usamos o nível de proteção protected. Isso, é claro, não quer dizer que uma classe derivada vá ter acesso aos membros protegidos de outra:</p>
-<p>    #include <iostream></p>
-<p>    </p>
-<p>    using namespace std;</p>
-<p>    </p>
-<p>    class Base</p>
-<p>    {</p>
-<p>    protected:</p>
-<p>      int m_protected;</p>
-<p>    };</p>
-<p>    </p>
-<p>    class Derived : public Base</p>
-<p>    {</p>
-<p>    public:</p>
-<p>      int GetProtected();</p>
-<p>      int GetAnotherProtected();</p>
-<p>    };</p>
-<p>    </p>
-<p>    class AnotherDerived : public Base</p>
-<p>    {</p>
-<p>    };</p>
-<p>    </p>
-<p>    int Derived::GetProtected()</p>
-<p>    {</p>
-<p>      return m_protected;</p>
-<p>    }</p>
-<p>    </p>
-<p>    int Derived::GetAnotherProtected()</p>
-<p>    {</p>
-<p>      AnotherDerived anotherDeriv;</p>
-<p>      return anotherDeriv.m_protected;</p>
-<p>    }</p>
-<p>    </p>
-<p>    int main()</p>
-<p>    {</p>
-<p>      Derived deriv;</p>
-<p>      deriv.GetProtected();</p>
-<p>      deriv.GetAnotherProtected();</p>
-<p>    }</p>
-<p>    </p>
-<p>    >./program</p>
-<p>    error C2248: 'Base::m_protected' : cannot access protected member declared in class 'Base'</p>
-<p>    see declaration of 'Base::m_protected'</p>
-<p>    see declaration of 'Base'</p>
 <p>Esse é o motivo fundamental do porquê não podermos fazer isso:</p>
-<p>    int Derived::GetAnotherProtected()</p>
-<p>    {</p>
-<p>      Base base;</p>
-<p>      return base.m_protected;</p>
-<p>    } </p>
 <p>Ao acessar membros protegidos é importante o tipo da expressão que está do lado esquerdo do "." ou "->". Afinal, o nível de proteção se baseia no escopo, e as classes são um escopo. É por isso que consigo acessar os membros protegidos de um outro objeto de minha classe, mesmo sendo outro objeto:</p>
-<p>    int Derived::GetAnotherProtected()</p>
-<p>    {</p>
-<p>      Derived deriv; // typeid(deriv) == typeid(*this).</p>
-<p>      return deriv.m_protected; // OK</p>
-<p>    } </p>
-<p>A definição do escopo é tudo o que o compilador dispõe para saber se acessa ou não acessa um membro. Podemos ter acesso a m_protected enquanto somos do tipo Derived, mas não quando o mesmo objeto é usado como Base:</p>
-<p>    int Derived::GetAnotherProtected()</p>
-<p>    {</p>
-<p>      Base& base = *this; // typeid(deriv) != typeid(*this).</p>
-<p>      return base.m_protected; // ERROR</p>
-<p>    } </p>
 <p>Essa proteção parece desnecessária e até mesmo incoerente quando lidamos com o mesmo objeto que acessa. Afinal, somos nós mesmos! Só que o compilador não sabe disso, e ele deve desconfiar de tudo e de todos para evitar esse tipo de "ataque":</p>
-<p>    int Derived::GetAnotherProtected()</p>
-<p>    {</p>
-<p>      AnotherDerived anotherDeriv;</p>
-<p>      Base& base = anotherDeriv; // typeid(deriv) != typeid(*this)</p>
-<p>      return base.m_protected; // ERROR</p>
-<p>    } </p>
 <p>Agora a proteção do compilador faz sentido. Parece um detalhe frívolo, mas depois que vi alguns programadores de respeito se debatendo pela "burrice" do compilador, imaginei que talvez houvesse mais pessoas com a mesma dúvida de se existe ou não um "bug na linguagem".</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

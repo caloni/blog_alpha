@@ -77,17 +77,8 @@
 <p>#include <boost/bind.hpp></p>
 <p>template<class Handler></p>
 <p>void CallHandler(Handler&& handler)</p>
-<p>{</p>
-<p>    handler();</p>
-<p>}</p>
 <p>void handler1(int x, int y)</p>
-<p>{</p>
-<p>    std::cout << "handler1: x=" << x << ", y=" << y << std::endl;</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
-<p>    CallHandler(boost::bind(handler1, 10, 20));</p>
-<p>}</p>
 <p>```</p>
 <p>No entanto, o que era para ser um uso simples e direto de uma feature bem-vinda ao cinto de utilidades do programador C++ se transforma em um pesadelo quando as coisas não se encaixam tão bem:</p>
 <p>```</p>
@@ -95,22 +86,9 @@
 <p>#include <boost/bind.hpp></p>
 <p>template<class Handler></p>
 <p>void CallHandler(Handler&& handler)</p>
-<p>{</p>
-<p>    handler();</p>
-<p>}</p>
 <p>void handler1(int x, int y)</p>
-<p>{</p>
-<p>    std::cout << "handler1: x=" << x << ", y=" << y << std::endl;</p>
-<p>}</p>
 <p>void handler2_fail(int x, int y, int z)</p>
-<p>{</p>
-<p>    std::cout << "handler1: x=" << x << ", y=" << y << ", z=" << z << std::endl;</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
-<p>    CallHandler(boost::bind(handler1, 10, 20));</p>
-<p>    CallHandler(boost::bind(handler2_fail, 10, 20));</p>
-<p>}</p>
 <p>```</p>
 <p>Vou plotar aqui todas as mensagens de erro para sentir o drama:</p>
 <p>```</p>
@@ -160,7 +138,6 @@
 <p>```</p>
 <p>Mas não. Se olharmos para o código-fonte onde ocorreu o problema, a caixa de encaixe perfeito se quebra:</p>
 <p>{{< image src="MsRp03e.png" caption="" >}}</p>
-<p>O que isso quer dizer? O que aconteceu? Onde que eu errei?</p>
 <p>Claro que ao final da longa listagem de erros (que se torna ainda mais longa, dependendo de quantos argumentos sua função tem) há alguma luz no fim do túnel:</p>
 <p>```</p>
 <p>1>c:\libs\vcpkg\installed\x86-windows\include\boost\bind\bind.hpp(1284): error C2039: 'type': is not a member of 'boost::_bi::result_traits<R,F>'</p>
@@ -177,7 +154,6 @@
 <p>1>        ]</p>
 <p>```</p>
 <p>Mas claro que essa luz pode estar ofuscada quando os tipos dos argumentos são templates de templates de templates... enfim. Deu pra entender onde o caos consegue chegar quando se trata de harmonizar uma biblioteca perfeita com uma linguagem em constante construção.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

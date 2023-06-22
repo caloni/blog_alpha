@@ -72,11 +72,9 @@
 <p>Depois de vários comentários de pessoas tendo problemas em converter seus dicionários Houaiss para o formato Babylon, resolvi criar vergonha na cara e dar uma pequena melhora na versão beta do conversor.</p>
 <p>Agora a maioria dos erros que houver será descrita por uma mensagem no seguinte formato:</p>
 <p>{{< image src="houaiss2babylonerror.png" caption="Erro no Babylon" >}}</p>
-<p>O primeiro erro acima ocorre principalmente se não houver algum Houaiss instalado que o programa possa detectar. Resolva este problema comprando um.</p>
 <p>Abaixo segue a função criada para exibir essas mensagens:</p>
 <p>```cpp</p>
 <p>void MessageError(DWORD err, PCSTR msg, ...)</p>
-<p>{</p>
 <p>	CHAR errBuffer[100];</p>
 <p>	CHAR msgBuffer[ERR_STR_BUF_SIZE];</p>
 <p>	va_list vaList;</p>
@@ -86,13 +84,9 @@
 <p>	sprintf(errBuffer, " Erro de sistema número %d.", (int) err);</p>
 <p>	strcat(msgBuffer, errBuffer);</p>
 <p>	MessageBox(NULL, msgBuffer, STR_PROJECT_NAME, MB_OK | MB_ICONERROR);</p>
-<p>}</p>
 <p>```</p>
 <p>Se você notou, a função acima pode receber um número de argumentos variáveis para formatar a string da mensagem principal do erro, além de exibir seu código. Essa mágica pode ser feita usando-se o cabeçalho padrão "stdarg.h". Através dele temos acesso ao tipo va_list, que representa uma lista de argumentos variáveis.</p>
 <p>Pela convenção de chamada da linguagem C (e C++), quem desmonta a pilha é o chamador. Sendo assim, a função chamada não precisa conhecer o número de argumentos com que foi chamado.</p>
-<p>A função de formatação de string é uma variante do conhecidíssimo printf, na versão que recebe um tipo va_list. Muito útil para formatação de logs.</p>
-<p>A versão beta do Houaiss2Babylon está para sair. Não estarei mais atualizando o saite do projeto no LaunchPad. Aguardem por mais novidades no próprio blogue.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

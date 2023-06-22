@@ -83,23 +83,7 @@
 <p>Vamos atualizar algum valor nela. Por exemplo, definir o valor 42 para o node 666:</p>
 <p>```</p>
 <p>void update(int node, int left, int right, int pos, int value, vector<int>& tree) {</p>
-<p>    if (left == right) {</p>
-<p>        tree[node] = value;</p>
-<p>    } else {</p>
-<p>        int nodeLeft = 2 * node;</p>
-<p>        int nodeRight = 2 * node + 1;</p>
-<p>        int middle = (left + right) / 2;</p>
-<p>        if (pos <= middle)</p>
-<p>            update(nodeLeft, left, middle, pos, value, tree);</p>
-<p>        else</p>
-<p>            update(nodeRight, middle+1, right, pos, value, tree);</p>
-<p>        tree[node] = tree[nodeLeft] + tree[nodeRight];</p>
-<p>    }</p>
-<p>}</p>
 <p>int main() {</p>
-<p>    vector<int> tree(4 * 1000);</p>
-<p>    update(1, 1, 999, 666, 42, tree);</p>
-<p>}</p>
 <p>```</p>
 <p>Algumas informações relevantes sobre esses parâmetros:</p>
 <p> - node é a localização do ramo atual;</p>
@@ -113,12 +97,6 @@
 <p>Vamos definir mais alguns valores em outras posições para em seguida implementar a soma:</p>
 <p>```</p>
 <p>int main() {</p>
-<p>    vector<int> tree(4 * 1000);</p>
-<p>    update(1, 1, 999, 666, 42, tree);</p>
-<p>    update(1, 1, 999, 600, 58, tree);</p>
-<p>    update(1, 1, 999, 700, 45, tree);</p>
-<p>    update(1, 1, 999, 999, 55, tree);</p>
-<p>}</p>
 <p>```</p>
 <p>Com isso a soma dos seguintes intervalos deve contar os seguintes totais:</p>
 <p> - o intervalo [666,666] deve conter o valor 42, da única folha selecionada;</p>
@@ -129,31 +107,7 @@
 <p>Vamos implementar a função de soma e descobrir.</p>
 <p>```</p>
 <p>int sum(int node, int left, int right, int posLeft, int posRight, const vector<int>& tree) {</p>
-<p>    if (posLeft > posRight)</p>
-<p>        return 0;</p>
-<p>    if (posLeft == left && posRight == right)</p>
-<p>        return tree[node];</p>
-<p>    int nodeLeft = 2 * node;</p>
-<p>    int nodeRight = 2 * node + 1;</p>
-<p>    int middle = (left + right) / 2;</p>
-<p>    return sum(nodeLeft, left, middle, posLeft, min(posRight, middle), tree)</p>
-<p>        + sum(nodeRight, middle + 1, right, max(posLeft, middle + 1), posRight, tree);</p>
-<p>}</p>
 <p>int main() {</p>
-<p>    vector<int> tree(4 * 1000);</p>
-<p>    update(1, 1, 999, 666, 42, tree);</p>
-<p>    update(1, 1, 999, 600, 58, tree);</p>
-<p>    update(1, 1, 999, 700, 45, tree);</p>
-<p>    update(1, 1, 999, 999, 55, tree);</p>
-<p>    vector<vector<int>> intervals = { </p>
-<p>        {666, 666}, {600, 700}, {600, 999}, </p>
-<p>        {1, 999}, {1, 599} };</p>
-<p>    for (const vector<int>& i : intervals) {</p>
-<p>        int isum = sum(1, 1, 999, i[0], i[1], tree);</p>
-<p>        cout << "the interval [" << i[0] << "," << i[1] </p>
-<p>            << "] has the value " << isum << endl;</p>
-<p>    }</p>
-<p>}</p>
 <p>```</p>
 <p>Mais uma vez, existem muitos parâmetros porque a função é recursiva e precisa se localizar, e o princípio é o mesmo da função update, de usar as variáveis como um mapas para navegar por uma array.</p>
 <p> - node é a localização do ramo atual;</p>
@@ -178,8 +132,6 @@
 <p> - 64;</p>
 <p> - acertou!</p>
 <p>Entre 100 possíveis chutes foram feitos 6, ou cerca de log 100 chutes. Exatamente como é feita a busca na árvore binária, seja de segmentos ou não. Essa é a grande vantagem de usar o mapa para se localizar no array como uma árvore binária, pois a busca não será linear.</p>
-<p>O fato da árvore ser de segmentos é apenas um detalhe que incorre em mantermos atualizados os nodes com a soma de todos os ramos abaixo, algo custoso a princípio, mas que na hora de obter a soma de intervalos faz valer a pena.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

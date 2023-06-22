@@ -79,111 +79,24 @@
 <p>```</p>
 <p>#include <memory></p>
 <p>```</p>
-<p>E pronto! Se abriu um mundo mágico onde as alocações serão compartilhadas entre funções sem se perder quem deleta o quê. Não precisa nem checar se o ponteiro é nulo, basta alocar direto e jogar para dentro do nosso mais novo smart pointer da STL:</p>
 <p>```</p>
 <p>#include <memory></p>
 <p>#include <string></p>
 <p>#include <iostream></p>
 <p>struct Person</p>
-<p>{</p>
-<p>    Person() { std::cout << "Person created\n"; }</p>
-<p>    ~Person() { std::cout << "Person destroyed\n"; }</p>
-<p>    std::string name;</p>
-<p>    std::string surname;</p>
-<p>    int age;</p>
-<p>    std::string phone;</p>
-<p>};</p>
 <p>typedef std::shared_ptr<Person> PersonRef;</p>
 <p>PersonRef CreatePerson()</p>
-<p>{</p>
-<p>    return PersonRef(new Person);</p>
-<p>}</p>
 <p>void GetName(PersonRef person)</p>
-<p>{</p>
-<p>    person->name = "Carl";</p>
-<p>}</p>
 <p>void GetSurName(PersonRef person)</p>
-<p>{</p>
-<p>    person->surname = "Sagan";</p>
-<p>}</p>
 <p>void GetAge(PersonRef person)</p>
-<p>{</p>
-<p>    person->age = 79;</p>
-<p>}</p>
 <p>void GetPhone(PersonRef person)</p>
-<p>{</p>
-<p>    person->phone = "+01 042 4242-4242";</p>
-<p>}</p>
 <p>void PrintPerson(PersonRef person)</p>
-<p>{</p>
-<p>    std::cout << "Name: " << person->name << " " << person->surname</p>
-<p>        << "\nAge: " << person->age</p>
-<p>        << "\nPhone: " << person->phone</p>
-<p>        << std::endl;</p>
-<p>}</p>
 <p>void CreateAndPrintPerson()</p>
-<p>{</p>
-<p>    PersonRef person = CreatePerson();</p>
-<p>    GetName(person);</p>
-<p>    GetSurName(person);</p>
-<p>    GetAge(person);</p>
-<p>    GetPhone(person);</p>
-<p>    PrintPerson(person);</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
-<p>    CreateAndPrintPerson();</p>
-<p>}</p>
 <p>```</p>
-<p>E pronto: você nunca mais vai precisar se preocupar com quem deleta o ponteiro, nem quantas cópias desse ponteiro andam por aí. O shared_ptr da STL, assim como a versão que já tem faz um tempo no boost, mantém um contador de referência para cada cópia do objeto que mantém o mesmo ponteiro "dentro de si". Só quando esse contador chegar a zero, ou seja, não há mais ninguém referenciando essa região da memória, o ponteiro é deletado.</p>
-<p>O std::shared_ptr funciona desde o SP1 do Visual Studio 2010. Sem Service Pack ou em versões mais antigas pode haver disponível no namespace tr1, resquício de quando esse novo padrão ainda estava em definição.</p>
 <p>## Aqui no trampo vivemos na era pré-jurássica, onde pessoas mais velhas torcem o nariz quando veem um tal de template.</p>
 <p>Vou imaginar que você usa o Visual Studio 2003, um dos primeiros da safra ".NET", que, mais uma vez, NÃO TEM QUALQUER RELAÇÃO COM C++ .NET.</p>
 <p>Bem, nesse caso, "welcome... to the desert... of the double":</p>
-<p>    </p>
-<p>    <code>------ Build started: Project: VS2003, Configuration: Debug Win32 ------</p>
-<p>    Compiling...</p>
-<p>    usando-shared-ptr.cpp</p>
-<p>    shared-ptr.cpp(15) : error C2039: 'shared_ptr' : is not a member of 'std'</p>
-<p>    shared-ptr.cpp(15) : error C2143: syntax error : missing ';' before '<'</p>
-<p>    shared-ptr.cpp(18) : error C2146: syntax error : missing ';' before identifier 'CreatePerson'</p>
-<p>    shared-ptr.cpp(18) : error C2501: 'PersonRef' : missing storage-class or type specifiers</p>
-<p>    shared-ptr.cpp(20) : error C2064: term does not evaluate to a function taking 1 arguments</p>
-<p>    shared-ptr.cpp(20) : warning C4508: 'CreatePerson' : function should return a value; 'void' return type assumed</p>
-<p>    shared-ptr.cpp(23) : error C2146: syntax error : missing ')' before identifier 'person'</p>
-<p>    shared-ptr.cpp(23) : error C2182: 'GetName' : illegal use of type 'void'</p>
-<p>    shared-ptr.cpp(23) : error C2059: syntax error : ')'</p>
-<p>    shared-ptr.cpp(24) : error C2143: syntax error : missing ';' before '{'</p>
-<p>    shared-ptr.cpp(24) : error C2447: '{' : missing function header (old-style formal list?)</p>
-<p>    shared-ptr.cpp(28) : error C2146: syntax error : missing ')' before identifier 'person'</p>
-<p>    shared-ptr.cpp(28) : error C2182: 'GetSurName' : illegal use of type 'void'</p>
-<p>    shared-ptr.cpp(28) : error C2059: syntax error : ')'</p>
-<p>    shared-ptr.cpp(29) : error C2143: syntax error : missing ';' before '{'</p>
-<p>    shared-ptr.cpp(29) : error C2447: '{' : missing function header (old-style formal list?)</p>
-<p>    shared-ptr.cpp(33) : error C2146: syntax error : missing ')' before identifier 'person'</p>
-<p>    shared-ptr.cpp(33) : error C2182: 'GetAge' : illegal use of type 'void'</p>
-<p>    shared-ptr.cpp(33) : error C2059: syntax error : ')'</p>
-<p>    shared-ptr.cpp(34) : error C2143: syntax error : missing ';' before '{'</p>
-<p>    shared-ptr.cpp(34) : error C2447: '{' : missing function header (old-style formal list?)</p>
-<p>    shared-ptr.cpp(38) : error C2146: syntax error : missing ')' before identifier 'person'</p>
-<p>    shared-ptr.cpp(38) : error C2182: 'GetPhone' : illegal use of type 'void'</p>
-<p>    shared-ptr.cpp(38) : error C2059: syntax error : ')'</p>
-<p>    shared-ptr.cpp(39) : error C2143: syntax error : missing ';' before '{'</p>
-<p>    shared-ptr.cpp(39) : error C2447: '{' : missing function header (old-style formal list?)</p>
-<p>    shared-ptr.cpp(43) : error C2146: syntax error : missing ')' before identifier 'person'</p>
-<p>    shared-ptr.cpp(43) : error C2182: 'PrintPerson' : illegal use of type 'void'</p>
-<p>    shared-ptr.cpp(43) : error C2059: syntax error : ')'</p>
-<p>    shared-ptr.cpp(44) : error C2143: syntax error : missing ';' before '{'</p>
-<p>    shared-ptr.cpp(44) : error C2447: '{' : missing function header (old-style formal list?)</p>
-<p>    shared-ptr.cpp(53) : error C2146: syntax error : missing ';' before identifier 'person'</p>
-<p>    shared-ptr.cpp(53) : error C2065: 'person' : undeclared identifier</p>
-<p>    shared-ptr.cpp(54) : error C3861: 'person': identifier not found, even with argument-dependent lookup</p>
-<p>    shared-ptr.cpp(55) : error C3861: 'person': identifier not found, even with argument-dependent lookup</p>
-<p>    shared-ptr.cpp(56) : error C3861: 'person': identifier not found, even with argument-dependent lookup</p>
-<p>    shared-ptr.cpp(57) : error C3861: 'person': identifier not found, even with argument-dependent lookup</p>
-<p>    shared-ptr.cpp(58) : error C3861: 'person': identifier not found, even with argument-dependent lookup</p>
-<p>    VS2003 - 37 error(s), 1 warning(s)</p>
-<p>    </code></p>
 <p>Pois é, 37 erros. Depois perguntam por que as pessoas ficam com medo de programar em C++...</p>
 <p>Porém, a correção é mais simples do que parece: baixar o [boost](http://www.boost.org/) e trocar o nome do namespace.</p>
 <p>```</p>
@@ -200,23 +113,15 @@
 <p>// Não façam isso em casa! Usem modelo de smart pointers já construídos (como o do boost).</p>
 <p>template<typename T></p>
 <p>class shared_ptr</p>
-<p>{</p>
 <p>public:</p>
 <p>	shared_ptr() : m_p(), m_counter()</p>
-<p>	{</p>
-<p>	}</p>
 <p>	shared_ptr(T* p) </p>
 <p>		: m_p(p), m_counter(new int(1)) </p>
-<p>	{</p>
-<p>	}</p>
 <p>	shared_ptr(const shared_ptr& left)</p>
 <p>		: m_p(left.m_p), m_counter(left.m_counter)</p>
-<p>	{</p>
 <p>		if( m_counter )</p>
 <p>			++*m_counter;</p>
-<p>	}</p>
 <p>	shared_ptr& operator = (const shared_ptr& left)</p>
-<p>	{</p>
 <p>		if( m_p )</p>
 <p>		{</p>
 <p>			if( --*m_counter == 0 )</p>
@@ -230,9 +135,7 @@
 <p>		if( m_counter = left.m_counter )</p>
 <p>			++*m_counter;</p>
 <p>		m_p = left.m_p;</p>
-<p>	}</p>
 <p>	~shared_ptr()</p>
-<p>	{</p>
 <p>		if( --*m_counter == 0 )</p>
 <p>		{</p>
 <p>			delete m_counter;</p>
@@ -240,15 +143,11 @@
 <p>			m_counter = 0;</p>
 <p>			m_p = 0;</p>
 <p>		}</p>
-<p>	}</p>
 <p>	T* operator -> ()</p>
-<p>	{</p>
 <p>		return m_p;</p>
-<p>	}</p>
 <p>private:</p>
 <p>	int* m_counter;</p>
 <p>	T* m_p;</p>
-<p>};</p>
 <p>```</p>
 <p>```</p>
 <p>#include "shared_ptr.h"</p>
@@ -256,8 +155,6 @@
 <p>typedef shared_ptr<Person> PersonRef;</p>
 <p>//...</p>
 <p>```</p>
-<p>E é isso. A lição de hoje é: quem quer, arruma um jeito. Quem não quer, uma desculpa.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

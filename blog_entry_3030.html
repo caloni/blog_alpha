@@ -81,22 +81,15 @@
 <p>#include <time.h></p>
 <p>#include <stdlib.h></p>
 <p>void DoProcess()</p>
-<p>{</p>
 <p>	int nextNumber = rand() % 1000;</p>
 <p>	//bool even = nextNumber % 2;</p>
 <p>	bool even = !(nextNumber % 2);</p>
 <p>	printf("%d => %s\n", nextNumber, even ? "even" : "odd");</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
 <p>	srand( time(0) );</p>
 <p>	while( true )</p>
-<p>	{</p>
 <p>		DoProcess();</p>
 <p>		Sleep(3000);</p>
-<p>	}</p>
-<p>}</p>
-<p> </p>
 <p>```</p>
 <p>Feliz da vida, avisa o seu chefe que a única coisa que precisam trocar é o serviço crítico. Parar, trocar o arquivo, reiniciar o serviço. Simples.</p>
 <p>Porém, ele lhe avisa que esse é um serviço crítico, que não pode parar por nenhum segundo sequer. A atualização terá que ser feita sem parar o ciclo ininterrupto de pares/ímpares chegando do gerador de números randômicos.</p>
@@ -105,34 +98,10 @@
 <p>{{< image src="zrZQir4.png" caption="Corrigindo versão" >}}</p>
 <p><blockquote>_Nota: O parâmetro -pv permite depurar um processo de forma não-invasiva, mas as threads serão suspensas. Já com -pvr podemos depurar de forma não-invasiva e ainda conseguir manter as threads do processo rodando._</blockquote></p>
 <p>Analisando o disassembly da função nova e antiga podemos perceber que o tamanho delas não mudou (bom sinal), mas o uso dos registradores e a lógica interna teve uma alteração significativa (mau sinal):</p>
-<p>    </p>
-<p>    Função antiga: bool even = nextNumber % 2;</p>
-<p>    test    edx,edx</p>
-<p>    setne   al</p>
-<p>    mov     byte ptr [ebp-1],al</p>
-<p>    movzx   ecx,byte ptr [ebp-1]</p>
-<p>    test    ecx,ecx</p>
-<p>    je      criticalservice!DoProcess+0x3f (0040105f)</p>
-<p>    </p>
-<p>    Função nova: bool even = !(nextNumber % 2);</p>
-<p>    neg     edx</p>
-<p>    sbb     edx,edx</p>
-<p>    inc     edx</p>
-<p>    mov     byte ptr [ebp-1],dl</p>
-<p>    movzx   eax,byte ptr [ebp-1]</p>
-<p>    test    eax,eax</p>
-<p>    je      criticalservice!DoProcess+0x3f (0040105f)</p>
 <p>Podemos começar escrevendo a função nova da memória do processo de teste para um arquivo, e lendo em seguida para cima da função antiga. Só que para isso temos que nos certificar que os endereços que referenciam para fora da função sejam os mesmos. Nesse caso, felizmente, são.</p>
-<p>    </p>
-<p>    0:001> .writemem c:\tests\newfunc.dat criticalservice!DoProcess 0040107e</p>
-<p>    Writing 5f bytes.</p>
 <p>Em seguida iremos sobrescrever a função antiga no processo em execução. Para evitar crashes é vital que tenhamos certeza que a função não estará sendo executada nesse momento. No nosso caso basta aguardar a entrada na função Sleep da API, que dorme por 3 segundos, tempo suficiente para a atualização.</p>
 <p>{{< image src="bMI63Ka.png" caption="Live Patch!" >}}</p>
-<p>    </p>
-<p>    0:000> .readmem c:\tests\newfunc.dat criticalservice!DoProcess 0040107e</p>
-<p>    Reading 5f bytes.</p>
 <p>Atualizada a função, apenas nos lembramos de renomear o arquivo antigo e atualizar o novo para evitar reativar o problema. Agora podemos voltar para a apreciação das belezas da natureza...</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

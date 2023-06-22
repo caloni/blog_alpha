@@ -70,26 +70,11 @@
   </p>
   <div class="content">
 <p>Padrão C (ISO/IEC 9899:1990)</p>
-<p>    </p>
-<p>    6.5.3 type-qualifier</p>
-<p>     const</p>
-<p>     volatile</p>
-<p>    Padrão C++ (ISO/IEC 14882:1998)</p>
-<p>    </p>
-<p>    cv-qualifier</p>
-<p>     const</p>
-<p>     volatile</p>
 <p>#### Qualificadores de tipo</p>
 <p>Chamamos de qualificador de tipo as palavrinhas mágicas **const** e **volatile**. Na prática elas definem como uma determinada variável será usada e se comportará durante a vida do programa.</p>
 <p>#### Const</p>
 <p>Uma variável const não pode ser alterada pelo programa durante sua execução, apenas durante sua inicialização:</p>
-<p>    const float pi = 3.14; // até onde sabemos, pi não irá mudar neste Universo</p>
 <p>No exemplo acima, o valor de pi não pode mais ser alterado. Só que repare que ele foi, em determinado momento, alterado com um valor constante: na sua inicialização. Isso quer dizer que:</p>
-<p>  * pi é uma variável no programa representada por um local na memória **endereçável **pelo programa</p>
-<p>  * pi não é um define do pré-processador que irá virar uma constante literal (3.14, por exemplo)</p>
-<p>    // eu posso endereçar uma constante,</p>
-<p>    // desde que qualifique corretamente meu ponteiro</p>
-<p>    const float* ppi = & pi;</p>
 <p>{{< image src="V6eR9ln.png" caption="const-memory.png" >}}</p>
 <p>Teoricamente a região da memória que contiver uma variável const pode ser qualificada pelo sistema operacional como somente-leitura, mas isso não é uma obrigação. É obrigação do compilador avisar sobre tentativas de alteração da variável no meio do programa, mas nem sempre é possível enxergar que a memória não é alterável. Dessa forma, resultados imprevisíveis podem ocorrer.</p>
 <p>{{< image src="d51bAIH.png" caption="const-gpf.png" >}}</p>
@@ -97,40 +82,26 @@
 <p>Eu costumo usar variáveis const no lugar de defines. Além de ganhar na tipagem as constantes não precisam ser necessariamente globais, nem acessíveis por outros módulos. Um outro uso muito comum é criar variáveis locais que você sabe que não devem ser alteráveis por ninguém, como o tamanho de matrizes primitivas.</p>
 <p>```</p>
 <p>namespace Math</p>
-<p>{</p>
 <p>	const float Pi = 3.14;</p>
-<p>}</p>
 <p>//...</p>
 <p>int func1(int x)</p>
-<p>{</p>
 <p>	float calc = x * Math::Pi;</p>
 <p>	return calc;</p>
-<p>}</p>
 <p>//...</p>
 <p>int func2(int y)</p>
-<p>{</p>
 <p>	const size_t PathSize = MAX_PATH * 2;</p>
 <p>	//...</p>
 <p>	char path[PathSize];</p>
 <p>	//...</p>
-<p>}</p>
-<p> </p>
 <p>```</p>
 <p>#### Volatile</p>
-<p>O significado do volatile teoricamente muda de implementação para implementação, mas na prática é uma forma de definir uma variável que está sendo acessada por outros programas/threads/entidades espíritas que podem alterar o seu valor sem seu programa notar quando.</p>
 <p>{{< image src="carbzjo.jpg" caption="Se concentre! Não é esse tipo de volatile!" >}}</p>
-<p>O exemplo clássico da API Win32 é o [InterlockedIncrement](http://msdn.microsoft.com/en-us/library/ms683614%28VS.85%29.aspx), que realiza operações atômicas em valores inteiros. Para fazer isso é necessário usar um recurso interno disponível pelo processador que irá modificar a memória sem intrusão de outras threads/processadores.</p>
 <p>{{< image src="3mqVrqA.png" caption="interlocked-increment.png" >}}</p>
 <p>#### Uso prático</p>
 <p>Variáveis volatile geralmente interagem de alguma forma com o sistema em que rodam, e são representadas por ponteiros para memória retornada por esse sistema ou documentada como sendo de uso específico.</p>
 <p>#### Const e Volatile</p>
 <p>É possível que exista uma variável que não pode ser modificada pelo seu programa, mas é modificada pelo sistema, de forma que ela é uma mutante!</p>
-<p>    </p>
-<p>    /// endereça o relógio do sistema, atualizado a cada 1/100 milissegundos</p>
-<p>    const volatile int* g_systemClock = (const volatile int*) 0x7689B9D4;</p>
 <p>{{< image src="4zUSxmJ.jpg" caption="mutante" >}}</p>
-<p>A definição de *g_systemClock é de uma memória que não pode ser alterada; só que ela é, pelo sistema. Então a variável também é volatile. No entanto, independente de ser const ou volatile, o tipo nunca será **alterado**, apenas **qualificado**. São duas coisas diferentes na linguagem.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

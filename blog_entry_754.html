@@ -70,44 +70,9 @@
   </p>
   <div class="content">
 <p>Ontem falei sobre como "brincar" com os breakpoints promíscuos, ou seja, aqueles que topam qualquer processo. Isso é muito simples de se fazer:</p>
-<p>- [Configure uma VM para bootar em kernel debug](http://driverentry.com.br/blog/?p=433).</p>
-<p>- Encontre um processo qualquer (vamos usar o notepad pra variar?).</p>
-<p>- Reabra os símbolos de user mode nele.</p>
-<p>- Defina um breakpoint em alguma DLL de user mode.</p>
 <p>Como meus leitores são muito espertos foi partir para o momento após rodarmos um notepad.exe:</p>
-<p>    </p>
-<p>    kd> !process 0 0 notepad.exe</p>
-<p>    PROCESS 81681be0  SessionId: 0  Cid: 0598    Peb: 7ffd7000  ParentCid: 0200</p>
-<p>        DirBase: 08740260  ObjectTable: e18ee8d8  HandleCount:  29.</p>
-<p>        Image: notepad.exe</p>
-<p>    </p>
-<p>    kd> .process /i 81681be0</p>
-<p>    You need to continue execution (press 'g' <enter>) for the context</p>
-<p>    to be switched. When the debugger breaks in again, you will be in</p>
-<p>    the new process context.</p>
-<p>    kd> g</p>
-<p>    Break instruction exception - code 80000003 (first chance)</p>
-<p>    nt!RtlpBreakWithStatusInstruction:</p>
-<p>    80527bdc cc              int     3</p>
-<p>    kd> .reload /user</p>
-<p>    Loading User Symbols</p>
-<p>    .......................</p>
-<p>    kd> bp user32!MessageBoxExW</p>
-<p>    kd> g</p>
-<p>    Breakpoint 0 hit</p>
-<p>    USER32!MessageBoxExW:</p>
-<p>    001b:7e3a0838 8bff            mov     edi,edi</p>
-<p>    kd> du poi(esp+8)</p>
-<p>    0007cfb8  "naoexistetralala.txt.Arquivo não"</p>
-<p>    0007cff8  " encontrado..Verifique se o nome"</p>
-<p>    0007d038  " do arquivo correto foi especifi"</p>
-<p>    0007d078  "cado."</p>
-<p>    kd> ezu poi(esp+8) "Esse arquivo não existe! Mas é muito mané, não é mesmo?"</p>
-<p>    kd> g</p>
-<p>O screenshot diz tudo:</p>
 <p>{{< image src="debug-notepad-kernel.png" caption="Debug do notepad pelo kernel" >}}</p>
 <p>Agora a parte mais divertida: experimente com outro notepad, ou com o explorer =)</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

@@ -73,27 +73,10 @@
 <p>Implementar isso em código segue o mesmo princípio, mas em vez de ter um segundo deck podemos dividir o deck, ou array, em dois: ordenado e não ordenado. Varremos o array desordenado e movemos cada elemento para a posição em que ele deve ficar no array ordenado.</p>
 <p>Para dividir o array usamos um índice. Peguemos o segundo elemento, por exemplo. O primeiro elemento já está ordenado, pois está sozinho. A partir daí verificamos onde o segundo elemento será colocado: onde está ou antes do primeiro elemento. Decidido isso partimos para o terceiro elemento, onde fazemos a mesma comparação, primeiro com o primeiro ou segundo elemento, depois com o outro. Então fazemos a troca (ou não). E assim por diante. No final, quando estivermos comparando o último elemento, todo o deck ordenado estará completo.</p>
 <p>Essa lógica computacional é boa de entender porque realiza uma mímica com a lógica humana, passo a passo. Imagine um ser humano pegando a terceira carta, comparando com a segunda, comparando com a primeira, dessa forma realizando a troca entre a primeira e a terceira, por exemplo.</p>
-<p>A parte não intuitiva ou mais complexa é que para inserir um elemento que deveria estar na segunda posição, mas está na quinta, é necessário ir realizando a troca entre o quinto e quarto elementos, depois entre o terceiro e o quarto, até chegar na segunda posição. Isso se tratando de um array. Esse algoritmo pode funcionar mais rápido se utilizada uma lista ligada (menos trocas).</p>
 <p>Em código C++ ficaria assim:</p>
 <p>```</p>
 <p>vector<int> InsertionSort(vector<int> array)</p>
-<p>{</p>
-<p>    for (size_t i = 1; i < array.size(); ++i)</p>
-<p>    {</p>
-<p>        size_t j = i;</p>
-<p>        while ( j > 0 )</p>
-<p>        {</p>
-<p>            if (array[j-1] > array[j])</p>
-<p>            {</p>
-<p>                swap(array[j-1], array[j]);</p>
-<p>            }</p>
-<p>            --j;</p>
-<p>        }</p>
-<p>    }</p>
-<p>    return array;</p>
-<p>}</p>
 <p>```</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

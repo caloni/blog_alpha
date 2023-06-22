@@ -72,116 +72,12 @@
 <p>Depois de publicado o artigo anterior sobre ponteiros de métodos surgiu uma dúvida muito pertinente do autor do blogue [CodeBehind](http://codebehind.wordpress.com/), um escovador de bits disfarçado de programador .NET: qual objeto que vale na hora de chamar um método pelo ponteiro?</p>
 <p>Isso me estimulou a desdobrar um pouco mais os mistérios por trás dos ponteiro de métodos e de membros, e descobrir os detalhes mais ocultos desse lado esotérico da linguagem.</p>
 <p>Para entender por inteiro o que acontece quando uma chamada ou acesso utilizando ponteiros dependentes de escopo, algumas pequenas mudanças foram feitas na nossa pequena classe Rand.</p>
-<p>    #include <iostream></p>
-<p>    #include <time.h></p>
-<p>    </p>
-<p>    class Rand;</p>
-<p>    typedef void (Rand::*FP)();</p>
-<p>    typedef int Rand::*MP;</p>
-<p>    </p>
-<p>    class Rand</p>
-<p>    {</p>
-<p>    public:</p>
-<p>      Rand()</p>
-<p>      {</p>
-<p>        m_num = rand() % 100;</p>
-<p>      }</p>
-<p>    </p>
-<p>      int m_num;</p>
-<p>    </p>
-<p>      void Print()</p>
-<p>      {</p>
-<p>        std::cout << "this: " </p>
-<p>          << std::hex << this </p>
-<p>          << ", member: " </p>
-<p>          << std::dec << m_num</p>
-<p>          << std::endl;</p>
-<p>      }</p>
-<p>    };</p>
-<p>    </p>
-<p>    /** No princípio Deus disse: </p>
-<p>        'int main!'</p>
-<p>    */</p>
-<p>    int main()</p>
-<p>    {</p>
-<p>      srand(time(NULL));</p>
-<p>    </p>
-<p>      Rand r1, r2, r3;</p>
-<p>      FP fp = &Rand::Print;</p>
-<p>      MP mp = &Rand::m_num;</p>
-<p>    </p>
-<p>      (r1.*fp)();</p>
-<p>      (r2.*fp)();</p>
-<p>      (r3.*fp)();</p>
-<p>    </p>
-<p>      std::cout << std::endl;</p>
-<p>      </p>
-<p>      std::cout << "this: " </p>
-<p>        << std::hex << &r1 </p>
-<p>        << ", member: " </p>
-<p>        << std::dec << r1.*mp </p>
-<p>        << std::endl;</p>
-<p>    </p>
-<p>      std::cout << "this: " </p>
-<p>        << std::hex << &r2 </p>
-<p>        << ", member: " </p>
-<p>        << std::dec << r2.*mp </p>
-<p>        << std::endl;</p>
-<p>    </p>
-<p>      std::cout << "this: " </p>
-<p>        << std::hex << &r3 </p>
-<p>        << ", member: " </p>
-<p>        << std::dec << r3.*mp </p>
-<p>        << std::endl;</p>
-<p>    } </p>
-<p>O novo código chama através do mesmo ponteiro o mesmo método (duh), mas através de três objetos diferentes. Se observarmos a saída veremos que cada instância da classe guardou um inteiro aleatório diferente para si:</p>
-<p>    this: 0012FF6C, member: 97</p>
-<p>    this: 0012FF5C, member: 5</p>
-<p>    this: 0012FF60, member: 44</p>
-<p>    </p>
-<p>    this: 0012FF6C, member: 97</p>
-<p>    this: 0012FF5C, member: 5</p>
-<p>    this: 0012FF60, member: 44</p>
 <p>Cada compilador e plataforma tem a liberdade de implementar o padrão C++ da maneira que quiser, mas o conceito no final acaba ficando quase a mesma coisa. No caso de ponteiros de métodos, o ponteiro guarda realmente o endereço da função que pertence à classe. Porém, como todo método não-estático em C++, para chamá-lo é necessário possuir um this, ou seja, o ponteiro para a instância:</p>
 <p>{{< image src="fuzzycall.gif" caption="Ponteiros de método" >}}</p>
 <p>Em assembly teremos algo assim:</p>
-<p>    ; FP fp = &Rand::Print;</p>
-<p>    lea rax,[Rand::Print]  </p>
-<p>    mov qword ptr [fp],rax</p>
-<p>    ; (r1.*fp)();</p>
-<p>    lea rcx,[r1]  </p>
-<p>    call qword ptr [fp]  </p>
-<p>    ; (r2.*fp)();</p>
-<p>    lea rcx,[r2]  </p>
-<p>    call qword ptr [fp]  </p>
-<p>    ; (r3.*fp)();</p>
-<p>    lea rcx,[r3]  </p>
-<p>    call qword ptr [fp]  </p>
 <p>Além do ponteiro de métodos, também é possível no C++ apontar para membros de um dado objeto como foi feito no exemplo acima. Para tanto, como vimos no código, basta declarar um tipo de ponteiro de membro de acordo com o tipo desejado com o escopo da classe: typedef int Rand::*MP. Nesse caso, a técnica de usar o próprio enderenço não funciona, já que cada objeto possui um membro próprio em um lugar de memória próprio. Porém, assim como os ponteiros de métodos, os ponteiros de membros exigem um objeto para serem acessados, o que já nos dá a dica de onde o objeto começa. Sabendo onde ele começa, fica fácil saber onde fica o membro através do seu offset, ou seja, a distância dele a partir do início da memória do objeto. O código abaixo simplifica a obtenção de um objeto dentro da classe usando ponteiro para membros:</p>
-<p>    MP mp = &Rand::m_num;</p>
-<p>    int i1 = r1.*mp;</p>
-<p>    int i2 = r2.*mp;</p>
-<p>    int i3 = r3.*mp;</p>
 <p>Note no assembly gerado que para isso funcionar o código precisa do offset armazenado em algum lugar. E, nada mais óbvio, o "ponteiro" de um membro de uma classe nada mais é que o offset deste membro dentro desta classe.</p>
-<p>    ; MP mp = &Rand::m_num;</p>
-<p>    mov dword ptr [mp],0</p>
-<p>    </p>
-<p>    ; int i1 = r1.*mp;</p>
-<p>    movsxd rax,dword ptr [mp] </p>
-<p>    mov eax,dword ptr r1[rax] </p>
-<p>    mov dword ptr [i1],eax </p>
-<p>    </p>
-<p>    ; int i2 = r2.*mp;</p>
-<p>    movsxd rax,dword ptr [mp] </p>
-<p>    mov eax,dword ptr r2[rax] </p>
-<p>    mov dword ptr [i2],eax </p>
-<p>    </p>
-<p>    ; int i3 = r3.*mp;</p>
-<p>    movsxd rax,dword ptr [mp] </p>
-<p>    mov eax,dword ptr r3[rax] </p>
-<p>    mov dword ptr [i3],eax</p>
 <p>Como podemos ver, não é nenhuma magia negra a responsável por fazer os ponteiros de métodos e de membros funcionarem em C++. Porém, eles não são ponteiros ordinário que costumamos misturar a torto e a direito. Essa distinção na linguagem é importante para manter o código "minimamente sadio".</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

@@ -71,150 +71,15 @@
   <div class="content">
 <p>Este artigo é uma reedição de meu blogue antigo, guardado para ser republicado durante minhas miniférias. Esteja à vontade para sugerir outros temas obscuros sobre a linguagem C ou C++ de sua preferência. Boa leitura!</p>
 <p>Essa interessantíssima questão veio do meu amigo Kabloc: como trocar o valor entre duas variáveis do tipo int sem utilizar uma variável intermediária? O algoritmo ordinário para um swap entre tipos inteiros é:</p>
-<p>    void normalSwap(int &first, int& second)</p>
-<p>    {</p>
-<p>      int third = first;</p>
-<p>      first = second;</p>
-<p>      second = third;</p>
-<p>    }</p>
-<p>    </p>
-<p>    int main()</p>
-<p>    {</p>
-<p>      int first = 13;</p>
-<p>      int second = 42;</p>
-<p>    </p>
-<p>      cout << "first: " << first </p>
-<p>        << ", second: " << second << endl;</p>
-<p>      normalSwap(first, second);</p>
-<p>      cout << "first: " << first </p>
-<p>        << ", second: " << second << endl;</p>
-<p>    } </p>
-<p>  </p>
-<p>    Saída:</p>
-<p>    first: 13, second: 42</p>
-<p>    first: 42, second: 13</p>
 <p>Uma das soluções que eu conheço é utilizar o operador de ou exclusivo, o conhecido XOR. Esse operador binário tem a não pouco bizarra habilidade de armazenar dois padrões de bits dentro de um mesmo espaço de armazenamento. Se você tiver um dos dois padrões, conseguirá o segundo. Relembremos sua tabela verdade:</p>
-<p>    void xorTable()</p>
-<p>    {</p>
-<p>      cout </p>
-<p>        << "-----------\n"</p>
-<p>        << " XOR Table\n"</p>
-<p>        << "-----------\n"</p>
-<p>        << "0 XOR 0 = " << ( 0 ^ 0 ) << '\n'</p>
-<p>        << "1 XOR 0 = " << ( 1 ^ 0 ) << '\n'</p>
-<p>        << "0 XOR 1 = " << ( 0 ^ 1 ) << '\n'</p>
-<p>        << "1 XOR 1 = " << ( 1 ^ 1 ) << '\n'</p>
-<p>      ;</p>
-<p>    } </p>
-<p>    </p>
-<p>    -----------</p>
-<p>     XOR Table</p>
-<p>    -----------</p>
-<p>    0 XOR 0 = 0</p>
-<p>    1 XOR 0 = 1</p>
-<p>    0 XOR 1 = 1</p>
-<p>    1 XOR 1 = 0</p>
 <p>Ou seja, imagine que temos o valor 1 e o valor 0. Armazenando os dois juntos com XOR obtemos 1, já que:</p>
-<p>    1 (primeiro padrão) XOR 0 (segundo padrão) = 1 (padrões juntos)</p>
 <p>Mais tarde, se quisermos obter o primeiro padrão, usamos o segundo:</p>
-<p>    1 (padrões juntos) XOR 0 (segundo padrão) = 1 (primeiro padrão)</p>
 <p>Para obter o segundo padrão é só utilizar o primeiro obtido:</p>
-<p>    1 (padrões juntos) XOR 1 (primeiro padrão) = 0 (segundo padrão)</p>
 <p>Calcule a mesma operação com as quatro combinações possíveis e verá que podemos sempre reaver os dados partindo de um dos padrões. Como o cálculo independe do número de bits, já que operadores bit a bit operam um bit de cada vez, podemos usar a mesma técnica para juntar dois inteiros, duas strings, dois "qualquer coisa armazenada numa seqüência de zeros e uns":</p>
-<p>    template<</p>
-<p>      typename T1, </p>
-<p>      typename T2, </p>
-<p>      typename T3</p>
-<p>    ></p>
-<p>    void universalXor(</p>
-<p>      const T1& first, </p>
-<p>      const T2& second, </p>
-<p>      T3& result</p>
-<p>    )</p>
-<p>    {</p>
-<p>      typedef unsigned char byte;</p>
-<p>    </p>
-<p>      const byte* pFirst = </p>
-<p>        reinterpret_cast<const byte*></p>
-<p>        (&first);</p>
-<p>      const byte* pSecond = </p>
-<p>        reinterpret_cast<const byte*></p>
-<p>        (&second);</p>
-<p>    </p>
-<p>      byte* pResult = </p>
-<p>        reinterpret_cast<byte*></p>
-<p>        (&result);</p>
-<p>    </p>
-<p>      for( size_t i = 0; </p>
-<p>        i < sizeof(first) </p>
-<p>          && i < sizeof(second);</p>
-<p>        ++i )</p>
-<p>      {</p>
-<p>        pResult[i] = pFirst[i] ^ pSecond[i];</p>
-<p>      }</p>
-<p>    }</p>
-<p>    </p>
-<p>    int main()</p>
-<p>    {</p>
-<p>      int x = 13, y = 42;</p>
-<p>    </p>
-<p>      cout << "x: " << x </p>
-<p>        << ", y: " << y << '\n';</p>
-<p>      universalXor(x, y, x);</p>
-<p>      universalXor(x, y, y);</p>
-<p>      universalXor(x, y, x);</p>
-<p>      cout << "x: " << x </p>
-<p>        << ", y: " << y << "\n\n";</p>
-<p>    </p>
-<p>      char str1[50] = "teste de xor";</p>
-<p>      char str2[50] = "aceita strings!";</p>
-<p>    </p>
-<p>      cout << "str1: " << str1 </p>
-<p>        << ", str2: " << str2 << '\n';</p>
-<p>      universalXor(str1, str2, str1);</p>
-<p>      universalXor(str1, str2, str2);</p>
-<p>      universalXor(str1, str2, str1);</p>
-<p>      cout << "str1: " << str1 </p>
-<p>        << ", str2: " << str2 << '\n';</p>
-<p>    </p>
-<p>      return 0;</p>
-<p>    } </p>
-<p>    Saída:</p>
-<p>    x: 13, y: 42</p>
-<p>    x: 42, y: 13</p>
-<p>    </p>
-<p>    str1: teste de xor, str2: aceita strings!</p>
-<p>    str1: aceita strings!, str2: teste de xor</p>
 <p>Essa técnica é uma das mais básicas -- se não for a mais -- de criptografia simétrica. O primeiro padrão faz o papel de texto aberto, o segundo banca a senha e o terceiro será o texto encriptado. Para "desencriptar" o texto é necessária a senha (e se você souber qual o texto original, saberá a senha).</p>
 <p>Mas, voltando ao nosso problema original, podemos trocar duas variáveis inteiras usando a técnica do XOR. Em claro:</p>
-<p>    #include <iostream></p>
-<p>    using namespace std;</p>
-<p>    </p>
-<p>    void anormalSwap(int &first, </p>
-<p>      int& second)</p>
-<p>    {</p>
-<p>      first = first ^ second;</p>
-<p>      second = first ^ second;</p>
-<p>      first = first ^ second;</p>
-<p>    }</p>
-<p>    </p>
-<p>    int main()</p>
-<p>    {</p>
-<p>      int first = 13;</p>
-<p>      int second = 42;</p>
-<p>    </p>
-<p>      cout << "first: " << first </p>
-<p>        << ", second: " << second << endl;</p>
-<p>      anormalSwap(first, second);</p>
-<p>      cout << "first: " << first </p>
-<p>        << ", second: " << second << endl;</p>
-<p>    } </p>
-<p>    Saída:</p>
-<p>    first: 13, second: 42</p>
-<p>    first: 42, second: 13</p>
 <p>Bom, preciso dizer que isso é uma gambi das grossas? Preciso dizer que não uso isso no meu dia a dia, até porque swap é uma função já consagrada da STL chamada std::swap? Não? Então sem Postscript dessa vez. E sem [bois-cornetas] =).</p>
 <p>[bois-cornetas]: http://www.google.com.br/search?q=boi+corneta+site%3Asualingua.com.br</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

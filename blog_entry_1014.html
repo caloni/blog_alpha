@@ -80,10 +80,7 @@
 <p>Através dessa string é possível buscar no código usando grep, vim ou até o Visual Studio. Com isso reduzimos nosso escopo de busca ao mínimo.</p>
 <p>## Code</p>
 <p>{{< image src="rAo1T0H.png" caption="" >}}</p>
-<p>E voilà! Temos uma chamada de log que teoricamente teria que passar uma string C, mas não passa nada. Isso quer dizer que a função de printf irá procurar na pilha pelo endereço de uma string, mas irá encontrar um endereço aleatório. Lendo esse endereço, que tem ótimas chances de ser inválido, ele irá capotar. Para dores de cabeças mais intensas, ele irá capotar aleatoriamente (ou na máquina do chefe, o mais provável).</p>
-<p>E assim terminamos mais uma sessão simples e rápida de debug. Quer dizer, simples e rápida para quem tem 20 anos de experiência nessas coisas. Os estagiários devem ter ficado de cabelos em pé.</p>
 <p>[carregar seus símbolos adequadamente]: {{< relref "depuracao-de-emergencia-receita-de-bolo" >}}</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

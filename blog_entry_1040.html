@@ -72,39 +72,11 @@
 <p>Existe uma solução para a inversão de um número que não é bonita, mas prática: transforme em string e inverta essa string.</p>
 <p>```</p>
 <p>int ReverseNumberStringVersion(int number)</p>
-<p>{</p>
-<p>    string s = to_string(number);</p>
-<p>    size_t beg = 0, end = s.size() - 1;</p>
-<p>    while (beg < end)</p>
-<p>    {</p>
-<p>        char buf = s[beg];</p>
-<p>        s[beg] = s[end];</p>
-<p>        s[end] = buf;</p>
-<p>        ++beg;</p>
-<p>        --end;</p>
-<p>    }</p>
-<p>    return stoi(s);</p>
-<p>}</p>
 <p>```</p>
 <p>Contudo, a maneira bonita de se fazer isso é mantendo o domínio do problema na matemática. E dessa forma:</p>
-<p>- Pegue o dígito mais à direita do número;</p>
-<p>- Some o dígito com o novo número invertido;</p>
-<p>- Multiplique o resultado por 10;</p>
-<p>- Divida o número por 10.</p>
 <p>```</p>
 <p>int ReverseNumberNumberVersion(int number)</p>
-<p>{</p>
-<p>    int reversedNumber = 0;</p>
-<p>    while (number) {</p>
-<p>        reversedNumber *= 10;</p>
-<p>        int next = number % 10;</p>
-<p>        reversedNumber += next;</p>
-<p>        number /= 10;</p>
-<p>    }</p>
-<p>    return reversedNumber;</p>
-<p>}</p>
 <p>```</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

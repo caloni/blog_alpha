@@ -75,24 +75,18 @@
 <p>```</p>
 <p>int cnt[2501] = {}; // zerando o array</p>
 <p>int main()</p>
-<p>{</p>
 <p>	for(int i = 0; i < n * (2 * n - 1); i++)</p>
-<p>	{</p>
 <p>		cin >> j;</p>
 <p>		cnt[j] ^= 1; // inverte primeiro bit do inteiro</p>
-<p>	}</p>
 <p>	printf("Case #%d:", t);</p>
 <p>	for(int i = 1; i < 2500; i++)</p>
 <p>		if (cnt[i]) </p>
 <p>			cout << " " << i; // se não for zero (ou seja, ímpar) imprime</p>
 <p>	cout << endl;</p>
-<p>}</p>
 <p>```</p>
 <p>_Obs.: O código está higienizado, pois esse pessoal usa bastante macros, etc._</p>
-<p>A solução basicamente decide isolar duas questões: achar os números que faltam nas sequência e imprimi-los na ordem. Para o primeiro, varre todas as sequências sinalizando qual deles tem a quantidade ímpar (ou seja, não está representado em todas as linhas e colunas, pois do contrário seria par). Depois ele resolve a segunda questão simplesmente imprimindo os números ímpares encontrados, já na ordem (no array de valores possíveis).</p>
 <p>Simples, rápido, eficiente. E correto.</p>
 <p>É esse tipo de coisa que faz valer a pena uma competição dessas.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

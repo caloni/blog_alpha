@@ -85,24 +85,17 @@
 <p>v/0$/d</p>
 <p>rem pronto; agora é só rodar o result.log como bat</p>
 <p>```</p>
-<p>O principal problema de subir tudo para o imgur é que os nomes dos arquivos irão mudar e perder a referências usadas no texto. Para conseguir renomear os arquivos dentro dos artigos é necessário conectar no serviço do imgur e através dele obter o nome original do arquivo, disponível na propriedade __name__:</p>
 <p>```</p>
 <p>import auth</p>
 <p>client = auth.authenticate()</p>
-<p>f = open('images.txt')</p>
 <p>imgs = f.readlines()</p>
 <p>for img in imgs:</p>
-<p>    img = img.strip('\n')</p>
-<p>    imgur = client.get_image(img)</p>
-<p>    origname = imgur.link[imgur.link.find(img):].replace(img, imgur.name)</p>
-<p>    print origname, '=>', img</p>
 <p>```</p>
 <p>Executando este script será possível gerar um log no formato nome-original-do-arquivo para id-da-imagem-usado-pelo-imgur. O ID deles também é usado para link direto da imagem, de onde virá o comando sed que vai substituir nos artigos os nomes originais pelo link do imgur:</p>
 <p>```</p>
 <p>sed -i "s/<nome-original-do-arquivo>/http\/\/:\/<link-da-imagem-no-imgur>/<id-do-imgur>.<extensao>/" *.md</p>
 <p>```</p>
 <p>Lembrar de apagar o all.md. Ele só foi usado para gerar a saída mais simples do grep.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

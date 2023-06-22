@@ -77,28 +77,11 @@
 <p> - A cada iteração incremente o primeiro ponteiro em dois nodes;</p>
 <p> - A cada iteração incremente o segundo ponteiro em um node;</p>
 <p> - Quando o primeiro ponteiro atingir o final o segundo estará no meio.</p>
-<p>O princípio de contador de lista ligada é a contagem de iterações do começo até o final da lista, mas para manter o tracking de uma posição relativa como o meio dessa lista é necessário manter um segundo contador.</p>
 <p>Através dessa mesma lógica você poderia encontrar posições arbitrárias no meio da lista, como o terceiro elemento onde seu valor começa com a letra 'p', etc.</p>
 <p>Abaixo um código em C++ para não ficar tão abstrato:</p>
 <p>```</p>
 <p>shared_ptr<LinkedList> LinkedListTraverseToTheMiddle(shared_ptr<LinkedList>& head)</p>
-<p>{</p>
-<p>    shared_ptr<LinkedList> next = head;</p>
-<p>    shared_ptr<LinkedList> nextDouble = head;</p>
-<p>    bool secondNext = true;</p>
-<p>    while (nextDouble->next)</p>
-<p>    {</p>
-<p>        if (secondNext)</p>
-<p>        {</p>
-<p>            next = next->next;</p>
-<p>        }</p>
-<p>        nextDouble = nextDouble->next;</p>
-<p>        secondNext = !secondNext;</p>
-<p>    }</p>
-<p>    return next;</p>
-<p>}</p>
 <p>```</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

@@ -70,26 +70,10 @@
   </p>
   <div class="content">
 <p>Apesar de existir matemáticos ao redor do mundo tentando responder esta pergunta da maneira computacionalmente mais rápida possível, existe uma forma ingênua e eficiente para números baixos:</p>
-<p>- Faça um loop entre 2 e a metade do número;</p>
-<p>- Se algum desses números dividir sem resto retorne false;</p>
-<p>- Se acabar o loop retorne true: o número é primo.</p>
 <p>Note que a mesma lógica pode ser aplicada para obter os fatores de um número, seus divisores, etc.</p>
-<p>O código em C++:</p>
 <p>```</p>
 <p>bool PrimeNumber(int number)</p>
-<p>{</p>
-<p>    if (number == 2) return true;</p>
-<p>    for (int i = 2; i <= (number / 2); ++i)</p>
-<p>    {</p>
-<p>        if (number % i == 0)</p>
-<p>        {</p>
-<p>            return false;</p>
-<p>        }</p>
-<p>    }</p>
-<p>    return true;</p>
-<p>}</p>
 <p>```</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

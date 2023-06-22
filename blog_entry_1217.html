@@ -88,16 +88,12 @@
 <p>#include <stdio.h></p>
 <p>// Essa função é usada pelo nosso App</p>
 <p>int UsingOldApis()</p>
-<p>{</p>
 <p>	DWORD ver = GetVersion(); // API paleozoica, OK.</p>
 <p>	return int( (DWORD)(LOBYTE(LOWORD(ver))) );</p>
-<p>}</p>
 <p>// Essa função NÃO é usada pelo nosso App</p>
 <p>void UsingNewApis()</p>
-<p>{</p>
 <p>	// Opa: função moderninha!!</p>
 <p>	if( HANDLE snapshot = CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS, NULL) )</p>
-<p>	{</p>
 <p>		PROCESSENTRY32 procEntry;</p>
 <p>		// Tudo bem, nosso App não vai usar essa função.</p>
 <p>		if( Process32First(snapshot, &procEntry) )</p>
@@ -110,21 +106,15 @@
 <p>			while( Process32Next(snapshot, &procEntry) );</p>
 <p>		}</p>
 <p>		CloseHandle(snapshot);</p>
-<p>	}</p>
-<p>}</p>
-<p> </p>
 <p>```</p>
 <p>```</p>
 <p>#include "LibMod.h"</p>
 <p>#include <stdio.h></p>
 <p>#include <stdlib.h></p>
 <p>int main()</p>
-<p>{</p>
 <p>	// Usando apenas funções paleozoicas, certo?</p>
 <p>	printf("Our Major OS version is %d\n", UsingOldApis() );</p>
 <p>	system("pause");</p>
-<p>}</p>
-<p> </p>
 <p>```</p>
 <p>#### Por que isso ocorre?</p>
 <p>Acontece que o nosso amigo linker gera uma lista de dependências por módulo (CPP), e não por função. Dessa forma, tudo que vier é lucro.</p>
@@ -138,11 +128,8 @@
 <p>#include <stdio.h></p>
 <p>// Essa função é usada pelo nosso App</p>
 <p>int UsingOldApis()</p>
-<p>{</p>
 <p>	DWORD ver = GetVersion(); // API paleozoica, OK.</p>
 <p>	return int( (DWORD)(LOBYTE(LOWORD(ver))) );</p>
-<p>}</p>
-<p> </p>
 <p>```</p>
 <p>```</p>
 <p>#include "LibMod.h"</p>
@@ -151,10 +138,8 @@
 <p>#include <stdio.h></p>
 <p>// Essa função NÃO é usada pelo nosso App</p>
 <p>void UsingNewApis()</p>
-<p>{</p>
 <p>	// Opa: função moderninha!!</p>
 <p>	if( HANDLE snapshot = CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS, NULL) )</p>
-<p>	{</p>
 <p>		PROCESSENTRY32 procEntry;</p>
 <p>		// Tudo bem, nosso App não vai usar essa função.</p>
 <p>		if( Process32First(snapshot, &procEntry) )</p>
@@ -167,12 +152,9 @@
 <p>			while( Process32Next(snapshot, &procEntry) );</p>
 <p>		}</p>
 <p>		CloseHandle(snapshot);</p>
-<p>	}</p>
-<p>}</p>
 <p>```</p>
 <p>{{< image src="depends-process32-not-needed.png" caption="depends-process32-not-needed.png" >}}</p>
 <p>Agora a aplicação poderá rodar em paz naquele que é, como diz meu amigo, um sistema operacional de ponta... da outra ponta!</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

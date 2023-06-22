@@ -71,19 +71,16 @@
   <div class="content">
 <p>Agora que a temporada das telas azuis passou estou às voltas com o nosso sistema de detecção de crashes, além de alguns dumps e logs pra relaxar de vez em quando.</p>
 <p>Fiquei impressionado com a simplicidade com que podemos capturar qualquer exceção que ocorra em um programa, independente da thread, e gravar um minidump com o contexto exato em que o problema ocorreu. O uso da função API [SetUnhandledExceptionFilter](http://msdn.microsoft.com/en-us/library/ms680634%28VS.85%29.aspx) aliado com a já citada na palestra [MiniDumpWriteDump](http://msdn.microsoft.com/en-us/library/ms680360%28VS.85%29.aspx) pode agilizar muito a correção de crashes triviais como Access Violation.</p>
-<p>A mágica é tão bela que resolvi gravar um vídeo do que ocorreu quando compilei e testei o programa abaixo. Note que o tamanho do arquivo de dump ficou em torno dos 10 KB, ridículos nessa era de barateamento de espaço.</p>
 <p>```</p>
 <p>/** @file OnCrash</p>
 <p>@brief Exemplo de como capturar exceções no seu programa.</p>
 <p>@author Wanderley Caloni <wanderley@caloni.com.br></p>
 <p>@date 2010-08</p>
-<p>*/</p>
 <p>#include <windows.h></p>
 <p>#include <dbghelp.h></p>
 <p>#include <time.h></p>
 <p>#pragma comment(lib, "dbghelp.lib")</p>
 <p>LONG WINAPI CrashHandler(_EXCEPTION_POINTERS* ExceptionInfo)</p>
-<p>{</p>
 <p>	LONG ret = EXCEPTION_CONTINUE_SEARCH;</p>
 <p>	MINIDUMP_EXCEPTION_INFORMATION minidumpInfo;</p>
 <p>	minidumpInfo.ClientPointers = FALSE;</p>
@@ -91,7 +88,6 @@
 <p>	minidumpInfo.ExceptionPointers = ExceptionInfo;</p>
 <p>	HANDLE hFile = CreateFile("OnCrash.dmp", GENERIC_WRITE, 0, NULL, CREATE_ALWAYS, 0, NULL);</p>
 <p>	if( hFile != INVALID_HANDLE_VALUE )</p>
-<p>	{</p>
 <p>		MINIDUMP_TYPE dumpType = MiniDumpNormal;</p>
 <p>		if( MiniDumpWriteDump(GetCurrentProcess(), GetCurrentProcessId(), </p>
 <p>			hFile, MiniDumpNormal, &minidumpInfo, NULL, NULL) )</p>
@@ -99,26 +95,18 @@
 <p>			ret = EXCEPTION_EXECUTE_HANDLER;</p>
 <p>		}</p>
 <p>		CloseHandle(hFile);</p>
-<p>	}</p>
 <p>	return ret;</p>
-<p>}</p>
 <p>DWORD WINAPI CrashThread(PVOID)</p>
-<p>{</p>
 <p>	int* x = 0;</p>
 <p>	*x = 13;</p>
 <p>	return 0;</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
 <p>	SetUnhandledExceptionFilter(CrashHandler);</p>
 <p>	HANDLE crashThread = CreateThread(NULL, 0, CrashThread, NULL, 0, NULL);</p>
 <p>	WaitForSingleObject(crashThread, INFINITE);</p>
-<p>}</p>
-<p> </p>
 <p>```</p>
 <p>{{< image src="finddump.png" caption="oncrash.png" >}}</p>
 <p>Espero com isso aliviar a carga pesada de A.V.s que sempre aparece quando menos se espera. Cuidar de toneladas de código legado exige algumas pitadas de automatização nos lugares certos. Como já dizia meu primeiro chefe: se a mente não pensa...</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

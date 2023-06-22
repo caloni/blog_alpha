@@ -88,8 +88,6 @@
 <p>```</p>
 <p>Os erros mais comuns a partir daí são erros de inclusão e linkedição. Para os erros de inclusão use comandos no `CMakeLists.txt` como `target_include_directories`. Para os erros de linkedição use os comandos `target_link_libraries` para incluir as libs e `target_link_directories` para dizer que em pasta estão. Você deve encontrar essas informações no projeto original do Visual Studio.</p>
 <p>Em geral é melhor seguir esse passo-a-passo de como gerar um projeto limpo em vez de tentar converter. Se houver algum truque na solução Visual Studio ela deverá ser portada de maneira mais documentada e pronta para portabilidade. Com o CMake você não terá mais que se preocupar com qual versão do Visual Studio irá trabalhar, e quando migrar basta instalar ou apontar a versão correta (direto no comando cmake).</p>
-<p>A tempo: trate os arquivos da solução do Visual Studio gerados pelo cmake como temporários. Não use controle de fonte em cima deles. Isso o ajudará a manter a base do seu projeto apenas nos arquivos `CMakeLists.txt`.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

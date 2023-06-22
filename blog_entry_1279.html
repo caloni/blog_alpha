@@ -71,45 +71,12 @@
   <div class="content">
 <p>Arrays are fascinating in C language because they are so simple and so powerful at the same time. When we start to really understand them and realize all its power we are very close to understand another awesome feature of the language: pointers.</p>
 <p>When I was reading the K&R book (again) I was enjoying the language specification details in the Appendix A. It was specially odd the description as an array must be accessed:</p>
-<p>> A postfix expression followed by an expression in square brackets is a postfix expression. One of the expressions shall have the type "pointer to T" and the other shall have enumeration or integral type. The result is an lvalue of type "T". (...) The expression E1 [ E2 ] is identical (by definition) to *( (E1) + (E2) ).</p>
 <p>Notice that the rules don't specify the order of expressions to access the array. In other words, it doesn't matter for the language if we use a pointer before the integer or an integer before the pointer.</p>
-<p>    #include <iostream></p>
-<p>    #include <cassert></p>
-<p>    </p>
-<p>    int main()</p>
-<p>    {</p>
-<p>    	char q[] = "Show me your Code, "</p>
-<p>        "and I'll tell you who you are.";</p>
-<p>    	int i = 13;</p>
-<p>    	</p>
-<p>    	std::cout </p>
-<p>        << "And the language is: " </p>
-<p>        << q [ i ] </p>
-<p>        << std::endl;</p>
-<p>    	</p>
-<p>    	assert( q[i] == i[q] );</p>
-<p>    	assert( q[13] == 13[q] );</p>
-<p>    	assert( *(q + i) == "That's C!"[7] );</p>
-<p>    	</p>
-<p>    	return 13[q] - "CThings"[0];</p>
-<p>    } </p>
 <p>The q[i] bellow shows that we can use both orders and the code will compile successfully.</p>
-<p>    std::cout </p>
-<p>      << "And the language is: " </p>
-<p>      << i [ q ] </p>
-<p>      << std::endl;</p>
 <p>This code doesn't show how obscure we can be. If we use a constant integer replacing the i, by example, the code starts to be an [IOCCC] participant:</p>
-<p>    std::cout </p>
-<p>      << "And the language is: " </p>
-<p>      << 13 [ q ] </p>
-<p>      << std::endl;</p>
 <p>Is this a valid code yet, right? The expression types are following the rule. It is easy to see if we always think about using the "universal match" *( (E1) + (E2) ). Even bizarre things like this are easy to realize:</p>
-<p>    std::cout </p>
-<p>      << 8["Is this Code right?"] </p>
-<p>      << std::endl;</p>
 <p>Obs.: this kind of "obscure rule" hardly will pass in a code review since it is a useless feature. Be wise and don't use it in production code. This is just an amusing detail in the language specification scope. It can help in analysis, never in programming.</p>
 <p>[IOCCC]: http://www.ioccc.org/</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

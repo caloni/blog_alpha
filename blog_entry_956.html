@@ -74,54 +74,34 @@
 <p>Isso é relativamente simples quando se conhece ponteiros de função, existentes tanto em C quanto em C++. Ponteiros de função são tipos que contém endereço de uma função com assinatura específica (tipo de retorno e de argumentos). Através de um ponteiro de função é possível chamar uma função e passar alguns argumentos. Como o contexto nada mais é que um argumento, será só passá-lo como parâmetro.</p>
 <p>```</p>
 <p>bool MinhaFuncao(int x, int y)</p>
-<p>{</p>
 <p>	return x == y;</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
 <p>	bool (*PMinhaFuncao)(int, int) = MinhaFuncao;</p>
 <p>	PMinhaFuncao(2, 3);</p>
-<p>}</p>
 <p>```</p>
 <p>No exemplo anterior não sabíamos como chamar um método de nosso "objeto" em C:</p>
 <p>```</p>
 <p>struct MinhaClasse</p>
-<p>{</p>
-<p>    int MinhaPropriedade;</p>
-<p>};</p>
 <p>void MinhaClasse_MeuMetodo(MinhaClasse* pThis)</p>
-<p>{</p>
-<p>   pThis->MinhaPropriedade = 42;</p>
-<p>   ///@todo Chamar pThis->MeuOutroMetodo();</p>
-<p>}</p>
 <p>```</p>
 <p>Isso se torna fácil se tivermos uma nova "propriedade" na nossa struct que é um ponteiro para a função que queremos chamar.</p>
 <p>```</p>
 <p>#include <stdio.h></p>
 <p>struct MinhaClasse</p>
-<p>{</p>
 <p>	int MinhaPropriedade;</p>
 <p>	void (*MeuMetodo)(MinhaClasse*);</p>
 <p>	void (*MeuOutroMetodo)(MinhaClasse*);</p>
-<p>};</p>
 <p>void MinhaClasse_MeuMetodo(MinhaClasse* pThis)</p>
-<p>{</p>
 <p>	pThis->MeuOutroMetodo(pThis);</p>
-<p>}</p>
 <p>void MinhaClasse_MeuOutroMetodo(MinhaClasse* pThis)</p>
-<p>{</p>
 <p>	pThis->MinhaPropriedade = 42;</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
 <p>	MinhaClasse obj;</p>
 <p>	obj.MinhaPropriedade = 0;</p>
 <p>	// precisamos iniciar os "métodos" em C; em C++ é automágico</p>
 <p>	obj.MeuMetodo = MinhaClasse_MeuMetodo; </p>
 <p>	obj.MeuOutroMetodo = MinhaClasse_MeuOutroMetodo;</p>
 <p>	obj.MeuMetodo(&obj);</p>
-<p>    printf("MinhaPropriedade = %d", obj.MinhaPropriedade);</p>
-<p>}</p>
 <p>```</p>
 <p>{{< image src="uzfJuTC.png" caption="" >}}</p>
 <p>{{< image src="JLJaAsB.png" caption="" >}}</p>
@@ -129,7 +109,6 @@
 <p>Mas esse é assunto para [outro post].</p>
 <p>[post anterior]: {{< relref "classe-objeto-contexto" >}}</p>
 <p>[outro post]: {{< relref "classe-objeto-contexto-metodo-polimorfismo" >}}</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

@@ -74,37 +74,21 @@
 <p>Essa é uma situação comum e controlada, que chega a ser quase um padrão de projeto: funções novas demais. A saída? Não chamar a função quando o sistema não for novo o suficiente. Isso pode ser resolvido facilmente com uma chamada a GetVersion.</p>
 <p>Porém, um outro problema decorrente dessa situação é que a função chamada estaticamente cria um link de importação da DLL para o executável. Ou seja, uma dependência estática. Dependências estáticas necessitam ser resolvidas antes que o programa execute, e o carregador (loader) de programas do sistema é responsável por essa verificação.</p>
 <p>Para verificar a existência de todas as DLLs e funções necessárias para nosso programa podemos utilizar o mundialmente conhecido Dependency Walker:</p>
-<p>    depends meu_executavel.exe</p>
 <p>{{< image src="depends_meu_executavel.png" caption="Depends meu executável" >}}</p>
 <p>Se a função ou DLL não existe no sistema, o seguinte erro costuma ocorrer (isso depende da versão do Sistema Operacional):</p>
 <p>{{< image src="loader_erro.png" caption="Loader error" >}}</p>
 <p>Mas nem tudo está perdido!</p>
 <p>Existe uma LIB no Visual Studio que serve para substituir a dependência estática de uma DLL pela verificação dinâmica da existência de suas funções quando, e se, for executada a função no programa.</p>
 <p>Essa LIB contém algumas funções-chave que o Visual Studio utiliza ser for usado o seguinte parâmetro de compilação:</p>
-<p>    /delayload:iphlpapi.dll</p>
-<p>A função principal se chama "__delayLoadHelper@8", ou seja, é uma função com convenção de chamada WINAPI (stdcall) que recebe dois parâmetros.</p>
 <p>Isso costuma sempre funcionar, sendo que tive uma grande surpresa com os seguintes erros de compilação na versão do programa que deve ser executada em Windows 95:</p>
-<p>    --------------------Configuration: Project - Win32 Win95 Release--------------------</p>
-<p>    Linking...</p>
-<p>    iphlpapi.lib(iphlpapi.dll) : error LNK2001: unresolved external symbol ___delayLoadHelper@8</p>
-<p>    release/meu_executavel.exe : fatal error LNK1120: 1 unresolved externals</p>
-<p>    Error executing link.exe.</p>
-<p>    </p>
-<p>    meu_executavel.exe - 3 error(s), 0 warning(s)</p>
 <p>Isso, é claro, depois de ter checado e rechecado a existência da LIB de Delay Load na lista de LIBs a serem lincadas:</p>
 <p>{{< image src="delayimp.png" caption="delayimp.lib" >}}</p>
 <p>Acontece que eu conheço algumas ferramentas que podem sempre me ajudar em situações de compilação e linque: Process Monitor e dumpbin. O Process Monitor pode ser usado para obter exatamente a localização da LIB que estamos tentando verificar:</p>
 <p>{{< image src="delayimpprocmon.png" caption="Delay imp ProcMon" >}}</p>
 <p>Após localizar o local, podemos listar seus símbolos, mais precisamente a função "delayLoadHelper":</p>
-<p>    C:\DDK\3790\lib\w2k\i386>dumpbin /symbols delayimp.lib | grep delayLoadHelper</p>
-<p>    108 00000000 SECT3C notype ()    External     | ___delayLoadHelper2@8</p>
-<p>A análise mostra que a função possui um "2" no final de seu nome, causando o erro de linque.</p>
 <p>Essa função, pelo visto, tem mudado de nome desde o Visual C++ 6, o que fez com que LIBs mais novas não funcionassem com essa versão do Visual Studio.</p>
 <p>Para sanar o problema, existem duas coisas que podem ser feitas:</p>
-<p>  1. Usar a delayimp.lib antiga. Isso não exige nenhuma mudança no código.</p>
-<p>  2. Criar uma função delayLoadHelper como wrapper. Isso exige a escrita de código. O código-fonte dessa função está disponível no diretório Include do Visual Studio, e pode ser adaptada para versões antigas.</p>
 <p>Nessa sessão de depuração você aprendeu como usar o Process Monitor para rastrear arquivos usados na compilação e como listar símbolos de LIBs que são usadas para lincar o programa.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

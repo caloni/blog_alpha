@@ -72,16 +72,8 @@
 <p>Uma dúvida besta e importante ao mesmo tempo que muitos iniciantes em C++ possuem é saber qual a diferença entre um objeto declarado como _class_ e um objeto declarado como _struct_. A causa dessa dúvida é uma linguagem que se derivou de outra (C) que não possuía classes, e portanto criou a palavra-chave _class_ para "ficar bonito", pois, na prática, não muda muita coisa. Tomemos como exemplo o código mais simples de todos:</p>
 <p>```</p>
 <p>struct MinhaEstrutura</p>
-<p>{</p>
-<p>};</p>
 <p>class MinhaClasse</p>
-<p>{</p>
-<p>};</p>
 <p>int main()</p>
-<p>{</p>
-<p>    MinhaEstrutura me;</p>
-<p>    MinhaClasse mc;</p>
-<p>}</p>
 <p>```</p>
 <p>Ele compila e roda sem problemas:</p>
 <p>{{< image src="APlOm65.jpg" caption="StructVsClass" >}}</p>
@@ -89,18 +81,8 @@
 <p>Isso pode ser visto quando adicionamos um construtor para nossos tipos de teste:</p>
 <p>```</p>
 <p>struct MinhaEstrutura</p>
-<p>{</p>
-<p>    MinhaEstrutura() {}</p>
-<p>};</p>
 <p>class MinhaClasse</p>
-<p>{</p>
-<p>    MinhaClasse() {}</p>
-<p>};</p>
 <p>int main()</p>
-<p>{</p>
-<p>    MinhaEstrutura me;</p>
-<p>    MinhaClasse mc;</p>
-<p>}</p>
 <p>```</p>
 <p>{{< image src="vwpucpm.jpg" caption="StructVsClass-Construtor" >}}</p>
 <p>Antes não havia problemas para **MinhaClasse** porque o construtor padrão criado para ela é público por default. Porém, explicitando no código um construtor e deixando sua privacidade ligada por padrão temos esse erro que NÃO ocorre em **MinhaEstrutura**.</p>
@@ -110,47 +92,19 @@
 <p>```</p>
 <p>#include <iostream></p>
 <p>struct MinhaEstrutura</p>
-<p>{</p>
-<p>    MinhaEstrutura()</p>
-<p>    {</p>
-<p>        x = 0;</p>
-<p>        y = 2;</p>
-<p>        c = 'C';</p>
-<p>    }</p>
-<p>    int x;</p>
-<p>    int y;</p>
-<p>    char c;</p>
-<p>};</p>
 <p>int main()</p>
-<p>{</p>
-<p>    MinhaEstrutura me;</p>
-<p>    std::cout << "x: " << me.x << ", y: " << me.y << ", c: " << me.c << std::endl;</p>
-<p>}</p>
 <p>```</p>
 <p>{{< image src="rdpllNf.jpg" caption="StructVsClassStructConstructor" >}}</p>
 <p>E, por que não, uma sobrecarga do operador de stream para imprimirmos diretamente os valores de **MinhaEstrutura** para a saída com apenas um comando?</p>
 <p>```</p>
 <p>#include <iostream></p>
 <p>struct MinhaEstrutura</p>
-<p>{</p>
-<p>    MinhaEstrutura() { x = 0; y = 2; c = 'C'; }</p>
-<p>    int x; int y; char c;</p>
-<p>};</p>
 <p>std::ostream& operator << (std::ostream& os, const MinhaEstrutura& me)</p>
-<p>{</p>
-<p>    std::cout << "x: " << me.x << ", y: " << me.y << ", c: " << me.c;</p>
-<p>    return os;</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
-<p>    MinhaEstrutura me;</p>
-<p>    std::cout << me << std::endl;</p>
-<p>}</p>
 <p>```</p>
 <p>{{< image src="np4trf9.jpg" caption="StructVsClassStreams" >}}</p>
 <p>Enfim, não há nenhum limite que se aplica a uma _struct_ além do bom senso. A criação da palavra _class_ não foi por falta do que fazer. Ela diz claramente que estamos definindo um objeto que contém usos mais adequados à orientação a objetos de C++ do que a programação estruturada de C, e vice-versa. É uma forma de tornar o código mais legível, mas nada do outro mundo. Sabemos, no final das contas, que o compilador trata as duas (quase) da mesma maneira.</p>
 <p>Qual será a próxima batalha épica? Você escolhe!</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

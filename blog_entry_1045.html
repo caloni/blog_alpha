@@ -69,47 +69,24 @@
   </a>
   </p>
   <div class="content">
-<p>O primeiro exercício pedido ao candidato para a vaga de programação na [Intelitrader] é fazer uma função que receba três números e informe entre eles qual o maior, o menor e a média dos três. Sim, eu sei, absurdamente fácil, não? Porém, mesmo assim, a grande maioria dos "programadores" que entrevisto perde mais de meia-hora em um exercício simples desse. O motivo, acredito eu, é que a lógica de programação está cada vez mais em baixa. Pensar se tornou tristemente um requisito opcional em uma vaga de programação.</p>
 <p>No meio de uma entrevista, entediado, resolvi eu mesmo ir resolvendo enquanto aguardava o candidato. Imaginei o que eu, como hipotético candidato, faria para resolver esse exercício da maneira mais rápida. Meu objetivo não era apenas cuspir código, mas entender qual o raciocínio envolvido na obtenção de uma lógica simples dessa.</p>
 <p>Então vamos lá. A primeira coisa que eu pensei é fazer em Python. Porque programar em Python um código desses dá para fazer em qualquer editor, inclusive na web. Inclusive em um papel de pão.</p>
-<p>A segunda coisa que eu pensei é em já criar a função recebendo os três números, mas em não usá-los no cálculo, porque usar três nomes de variáveis para decidir qual é o maior e menor seria um pé no saco cheio de ifs e elses. Melhor rodar um loop que alimenta o maior e o menor de todos. Sabendo disso eu crio duas variáveis, maior e menor:</p>
 <p>```</p>
 <p>def func(a, b, c):</p>
-<p>  maior = 0</p>
-<p>  menor = 100000000</p>
-<p>  nums = [ a, b, c ]</p>
 <p>```</p>
 <p>Eu inicializo maior com o "menor valor possível", zero, e menor com o "maior valor possível", no caso um número muito grande. É o maior possível? Não, mas já resolve o problema para números médios e grandes. Caso o entrevistador questionasse essa parte do código eu poderia simplesmente pesquisar qual o maior valor representável por um inteiro em Python para inicializar corretamente. Para um problema em que a resposta precisa ser dada em alguns minutos está de bom tamanho.</p>
 <p>Por fim, meu loop que verifica qual o menor e maior varre o array que criei e no final eu sei que o menor e maior valor estarão nas variáveis de mesmo nome.</p>
 <p>```</p>
 <p>for n in nums:</p>
-<p>  if n > maior:</p>
-<p>    maior = n</p>
-<p>  if n < menor:</p>
-<p>    menor = n</p>
 <p>```</p>
-<p>E a média é obtida somando os três números dividido por três, me lembrando que pode ser um número quebrado, então é melhor que seja um ponto flutuante, o que eu consigo dividindo por 3.0 em vez de 3.</p>
 <p>```</p>
 <p>print("media: ", (a + b + c) / 3.0);</p>
 <p>```</p>
-<p>O conjunto da obra é bem simples e intuitivo. Não precisou de muito raciocínio. O maior desafio, em minha opinião, é manter a calma, entender o problema, e abordar da maneira que consuma menos tempo e esforço intelectual, os recursos escassos do desafio.</p>
 <p>```</p>
 <p>def func(a, b, c):</p>
-<p>  maior = 0</p>
-<p>  menor = 100000000</p>
-<p>  nums = [ a, b, c ]</p>
-<p>  for n in nums:</p>
-<p>    if n > maior:</p>
-<p>      maior = n</p>
-<p>    if n < menor:</p>
-<p>      menor = n</p>
-<p>  print("maior: ", maior);</p>
-<p>  print("menor: ", menor);</p>
-<p>  print("media: ", (a + b + c) / 3.0);</p>
 <p>```</p>
 <p>Não precisa ser a melhor solução do mundo, mas já é uma solução boa o suficiente. Justamente o que a Intelitrader pede aos seus candidatos e funcionários. =)</p>
 <p>[Intelitrader]: http://www.intelitrader.com.br</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

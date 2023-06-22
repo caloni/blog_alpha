@@ -71,158 +71,20 @@
   <div class="content">
 <p>Em 2014 eu palestrei na trilha de segurança do TDC em São Paulo um tema que me deixou muito animado: um exploit baseado em falhas de programação em um código de 10 linhas. O código era tão simples que achei válido traduzir para C e demonstrar como atacar uma simulação de cassino online.</p>
 <p>Esta palestra (e o código) se perdeu no tempo, mas eu anotei o nome da pesquisadora que escreveu o post pelo qual me baseei: Laura Diane Hamilton (que também estuda Machine Learning em seu blog). [Seu post] comenta sobre uma história de 1990 quando hackers se aproveitaram de falhas básicas no algoritmo de embaralhamento de cartas de pôquer.</p>
-<p>O código original estava escrito em Pascal, mas é facilmente traduzido para C:</p>
-<p>    unsigned char Card[52];</p>
-<p>    unsigned char CurrentCard = 0;</p>
-<p>    unsigned char JustShuffled = 0;</p>
-<p>    </p>
-<p>    void DeckShuffle()</p>
-<p>    {</p>
-<p>      unsigned char ctr;</p>
-<p>      unsigned char tmp;</p>
-<p>      unsigned char random_number;</p>
-<p>    </p>
-<p>      /* Fill the deck with unique cards */</p>
-<p>      for( ctr = 0; ctr < 52; ctr++ )</p>
-<p>        Card[ctr] = ctr + 1;</p>
-<p>      /* Generate a new seed based on the system clock */</p>
-<p>      srand(time(NULL));</p>
-<p>      /* Randomly rearrange each card */</p>
-<p>      for( ctr = 0; ctr < 52; ctr++ )</p>
-<p>      {</p>
-<p>        random_number = rand() % 51;</p>
-<p>        tmp = card[random_number];</p>
-<p>        card[random_number] = card[ctr];</p>
-<p>        card[ctr] = tmp;</p>
-<p>      }</p>
-<p>      CurrentCard = 0;</p>
-<p>      JustShuffled = 1;</p>
-<p>    }</p>
 <p>Fiz um código para compilar e rodar o embaralhador de cartas que [embaralha e imprime] a saída em cada nova execução para podermos observar mais facilmente os bugs encontrados por Hamilton. A falha número 1, o "An Off-by-One Error", pode ser feita em C também, se você usar a função rand() da maneira como está no código:</p>
-<p>    random_number = rand() % 51;</p>
 <p>É um erro simples de ser cometido por programadores incautos, que querem expressar na verdade a obtenção de um número aleatório entre 1 e 52 e ao mesmo tempo obter o índice correto 0-based de um array. No entanto, o resto de uma divisão por N sempre irá cair entre 0 e N-1, já obtendo o índice correto em C.</p>
-<p>    random_number = rand() % 52;</p>
 <p>Para observar o que Hamilton quer dizer com "a 52a. carta nunca irá cair na 52a. posição" é possível forçar um loop nesse estilo:</p>
-<p>    /* call only once in main */</p>
-<p>    srand(time(NULL));</p>
-<p>    do</p>
-<p>    {</p>
-<p>      DeckShuffle();</p>
-<p>    }</p>
-<p>    while( Card[51] != 52 );</p>
 <p>Este loop nunca irá terminar. Faça o teste. Depois compare com a rapidez com que o loop encontra a carta 52 em qualquer outra posição.</p>
-<p>A segunda falha, "The Shuffle Isn't Uniform", diz respeito à distribuição não-uniforme da igual probabilidade de certas cartas estarem em qualquer posição da pilha. Da maneira com que é implementado o algoritmo essa distribuição é enviesada. Temos como provar isso atribuindo pesos a cada embaralhada e depois de um certo tempo exibir os totais:</p>
-<p>    int CardStats[52];</p>
-<p>    int j, j2;</p>
-<p>    for( j = 0; j < 1000; ++j )</p>
-<p>    {</p>
-<p>      for( j2 = 0; j2 < 1000; ++j2 )</p>
-<p>      {</p>
-<p>        DeckShuffle();</p>
-<p>        for( i = 0; i < 52; ++i )</p>
-<p>          if( Card[i] == i+1 )</p>
-<p>            CardStats[i]++;</p>
-<p>      }</p>
-<p>    }</p>
-<p>    printf("cards stats: \n");</p>
-<p>    for( i = 0; i < 52; ++i )</p>
-<p>    {</p>
-<p>      printf("%d ", CardStats[i]);</p>
-<p>    }</p>
-<p>A versão original do algoritmo rodando um milhão de vezes demonstra o viés de forma descarada:</p>
-<p>    cards stats:</p>
-<p>    19270 18869 18685 18442 </p>
-<p>    18348 18024 18119 17647 </p>
-<p>    17612 17388 17661 17360 </p>
-<p>    17183 17018 17176 16621 </p>
-<p>    16705 16522 16337 16599 </p>
-<p>    16499 16238 16315 15970 </p>
-<p>    16294 16388 16294 16418 </p>
-<p>    16463 16313 16462 16491 </p>
-<p>    16450 16384 16674 16736 </p>
-<p>    16577 16879 16933 17159 </p>
-<p>    17417 17344 17672 18025 </p>
-<p>    17883 18053 18107 18691 </p>
-<p>    19042 19152 19559 0</p>
 <p>Com a correção desse viés (e do bug da 52a. carta) aplicada:</p>
-<p>    random_number = rand() % (ctr - 52) + ctr;</p>
-<p>O resultado se torna muito mais uniforme:</p>
-<p>    cards stats:</p>
-<p>    19116 19035 19371 19328 </p>
-<p>    19293 19327 19308 19277 </p>
-<p>    19412 19231 19314 19192 </p>
-<p>    19200 19229 19461 19398 </p>
-<p>    19299 19314 19452 19291 </p>
-<p>    19329 19003 19354 19282 </p>
-<p>    19319 19237 19255 19149 </p>
-<p>    19321 19291 19123 19266 </p>
-<p>    19237 19443 19355 19318 </p>
-<p>    19321 19127 19147 19277 </p>
-<p>    19250 19307 19353 19169 </p>
-<p>    19047 19225 19310 19297 </p>
-<p>    19298 19423 19370 19213</p>
 <p>No entanto, o pior bug talvez seja a união entre a terceira e a quarta falhas apontadas pela pesquisadora: "Using a 32-bit Seed" + "Using the System Clock as a Seed". Com esses dois unidos o hackerismo fica à solta, pois além das possibilidades de embaralhamento ficarem restritas em 2^32 o uso do clock limita em 86,400,000 milissegundos por dia da função random do Pascal. Em C poderia ser feito algo semelhante.</p>
 <p>Um range muito específico de geração da semente do gerador de números aleatórios pode criar uma tabela maleável de possibilidades. Com isso em mãos, de acordo com Hamilton, uma vez que o atacante saiba pelo menos cinco cartas é possível fazer uma busca rápida em um range pequeno possibilidades. Em um jogo de pôquer isso é possível apenas com duas cartas em sua mão e as três cartas na mesa (flop).</p>
 <p>Com base nesse comportamento vamos criar um [exploit] que recebe as três cartas do flop fornecidas pelo atacante que está no jogo e que inicia uma busca a partir do horário atual para trás. Conforme o programa encontra matches dessas três cartas juntas ele exibe o deck completo de cartas, a partir do qual o atacante pode verificar se suas cartas constam na distribuição.</p>
-<p>    time(&curr_time);</p>
-<p>    printf("how is the flop? ");</p>
-<p>    scanf("%d %d %d", &flop1, &flop2, &flop3);</p>
-<p>    while( 1 )</p>
-<p>    {</p>
-<p>      DeckShuffle(curr_time);</p>
-<p>      if( Card[0] == flop1 && Card[1] == flop2 && Card[2] == flop3 )</p>
-<p>      {</p>
-<p>        printf("%d: ", (int) curr_time);</p>
-<p>        for( i = 0; i < 52; ++i )</p>
-<p>        {</p>
-<p>          printf("%d ", Card[i]);</p>
-<p>        }</p>
-<p>        printf("\n");</p>
-<p>      }</p>
-<p>      curr_time--;</p>
-<p>    }</p>
 <p>Por sua vez o [cassino] rodará o algoritmo bugado que já vimos. Para simplificar ele já pergunta para o jogador #2 se ele sabe quais são as cartas do jogador #1. Se ele não souber o programa diz ser ainda seguro, mas se acertar isso é revelado.</p>
-<p>    DeckShuffle();</p>
-<p>  </p>
-<p>    printf("(for you) your cards, player#%d: %d %d\n", </p>
-<p>      player, Card[3 + (player-1) * 2], Card[3 + (player-1) * 2 + 1]);</p>
-<p>    printf("(for all) flop: %d %d %d\n", Card[0], Card[1], Card[2]);</p>
-<p>    player1_card1 = Card[3];</p>
-<p>    player1_card2 = Card[4];</p>
-<p>  </p>
-<p>    printf("do you know which cards have player #1? ");</p>
-<p>    scanf("%d %d", &player1_guess1, &player1_guess2);</p>
-<p>    if( player1_guess1 == player1_card1 </p>
-<p>      && player1_guess2 == player1_card2 )</p>
-<p>    {</p>
-<p>      printf("acerto, miseravi!\n");</p>
-<p>    }</p>
-<p>    else</p>
-<p>    {</p>
-<p>      printf("no no no, I am still secure!\n");</p>
-<p>    }</p>
 <p>Para rodar os programas basta iniciar o cassino e copiar as cartas do flop. Em seguida rodar o exploit e colar o flop. A partir daí ele começa a calcular e quando houver um deck em que aparecem as suas cartas copiar e colar as cartas do adversário, ou seja, o jogador #1, que são as cartas logo depois do flop.</p>
-<p>    >cassino.exe</p>
-<p>    (for you) your cards, player#2: 1 21</p>
-<p>    (for all) flop: 9 22 15</p>
-<p>    do you know which cards have player #1?</p>
-<p>    </p>
-<p>    >cassino_exploit.exe</p>
-<p>    how is the flop? 9 22 15</p>
-<p>    1614385852: 9 22 15 6 12 1 21 14 ...</p>
-<p>    1614222117: 9 22 15 4 36 16 25 5 ...</p>
-<p>    1613983918: 9 22 15 32 31 14 16 ...</p>
-<p>    ^C</p>
-<p>    </p>
-<p>    (for you) your cards, player#2: 1 21</p>
-<p>    (for all) flop: 9 22 15</p>
-<p>    do you know which cards have player #1? 6 12</p>
-<p>    acerto, miseravi!</p>
 <p>[Seu post]: http://www.lauradhamilton.com/random-lessons-online-poker-exploit</p>
 <p>[embaralha e imprime]: shuffle_cards.c</p>
 <p>[exploit]: cassino_exploit.c</p>
 <p>[cassino]: cassino.c</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

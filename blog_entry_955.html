@@ -73,60 +73,31 @@
 <p>Tomemos, por exemplo, métodos. Um método é uma função chamada dentro de um contexto. Qual o contexto? O objeto. Ou seja, uma instância específica de uma classe, que é um molde para se fazer alguma coisa.</p>
 <p>```</p>
 <p>int main()</p>
-<p>{</p>
-<p>   MinhaClasse obj;</p>
-<p>   obj.MeuMetodo(); // o contexto é obj, uma instância de MinhaClasse</p>
-<p>}</p>
 <p>```</p>
 <p>Para obter esse contexto, existe uma palavra-chave reservada dentro dos métodos que é o __this__, que está tão incrustado na linguagem que não precisa ser usado explicitamente: quando referenciamos alguma propriedade (ou um outro método) da classe, só pelo fato de estarmos dentro de um método o compilador já entende que se trata do mesmo objeto, ou mesmo contexto.</p>
 <p>```</p>
 <p>class MinhaClasse</p>
-<p>{</p>
 <p>public:</p>
-<p>   void MeuMetodo();</p>
-<p>   void MeuOutroMetodo();</p>
-<p>   int MinhaPropriedade;</p>
-<p>};</p>
 <p>void MinhaClasse::MeuMetodo()</p>
-<p>{</p>
-<p>   MinhaPropriedade = 42; // ou seja: this->MinhaPropriedade = 42;</p>
-<p>   MeuOutroMetodo(); // ou seja: this->MeuOutroMetodo();</p>
-<p>}</p>
 <p>```</p>
-<p>E contexto nesse sentido nada mais é que um endereço na memória para alguma coisa que nos interessa. Tal qual uma função API do Windows -- tal qual [FindFirstFile](https://msdn.microsoft.com/en-us/library/windows/desktop/aa364418(v=vs.85).aspx) -- que recebe ou retorna uma __struct__ com o que precisamos, esse geralmente é o contexto procurado.</p>
 <p>```</p>
 <p>WIN32_FIND_DATA findData;</p>
 <p>HANDLE findH = FindFirstFile("*.txt", &findData);</p>
 <p>if( findH != INVALID_HANDLE_VALUE )</p>
-<p>{</p>
-<p>   if( findData.dwFileAttributes & FILE_ATTRIBUTE_ENCRYPTED )</p>
-<p>   {</p>
 <p>//...</p>
 <p>```</p>
 <p>{{< image src="dilbert.context.gif" caption="" >}}</p>
 <p>No caso de nós, que escrevemos uma "classe", o contexto é recebido "de fora":</p>
 <p>```</p>
 <p>HANDLE MyFindFirstFile(const char* pattern, LPWIN32_FIND_DATA findData)</p>
-<p>{</p>
-<p>   //...</p>
-<p>   findData->dwFileAttributes = FILE_ATTRIBUTE_ENCRYPTED;</p>
-<p>   //...</p>
 <p>```</p>
 <p>Tal como uma __struct__ que definimos, ela vira o contexto. Da mesma forma, um objeto de uma classe em C++ é esse contexto. Podemos fazer a mesma coisa em C, com o trabalho adicional de especificar o "this" (isto é, o ponteiro para o contexto/struct):</p>
 <p>```</p>
 <p>struct MinhaClasse</p>
-<p>{</p>
-<p>    int MinhaPropriedade;</p>
-<p>};</p>
 <p>void MinhaClasse_MeuMetodo(MinhaClasse* pThis)</p>
-<p>{</p>
-<p>   pThis->MinhaPropriedade = 42;</p>
-<p>   ///@todo Chamar pThis->MeuOutroMetodo();</p>
-<p>}</p>
 <p>```</p>
 <p>Em um [próximo post] vamos ver como fazer para chamar MeuOutroMetodo a partir de uma estrutura em C.</p>
 <p>[próximo post]: {{< relref "classe-objeto-contexto-metodo" >}}</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

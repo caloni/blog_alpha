@@ -69,51 +69,14 @@
   </a>
   </p>
   <div class="content">
-<p>> Nota do autor: navegando pelo Archive.org, que possibilita viajar no tempo e encontrar coisas enterradas que seria melhor deixar por lá, consegui encontrar um post que se perdeu na dobra espaço-temporal entre o old-fashioned Caloni.com.br (com direito à velha joaninha psicodélica, desenho do meu amigo que uso até hoje no blogue) e um finado outro domínio meu, o CThings. No final, consegui [matar a marmota], chegar a [80 milhas por hora] e voltar para o presente. Enjoy!</p>
 <p>Alguém já se perguntou se é possível usar sobrecarga de função quando a diferença não está nos parâmetros recebidos, mas no tipo de retorno? Melhor dizendo, imagine que eu tenha o seguinte código:</p>
-<p>    void CreateNewGUID(wstring&);</p>
-<p>    void CreateNewGUID(GUID&);</p>
-<p>    GUID guid;</p>
-<p>    wstring guidS;</p>
-<p>    CreateNewGUID(guidS);</p>
-<p>    CreateNewGUID(guid);</p>
 <p>É um uso sensato de sobrecarga. Mas vamos supor que eu queira uma sintaxe mais intuitiva, com o retorno sendo atribuído à variável:</p>
-<p>    wstring CreateNewGUID();</p>
-<p>    GUID CreateNewGUID();</p>
-<p>    GUID guid;</p>
-<p>    wstring guidS;</p>
-<p>    guid = CreateNewGUID();</p>
-<p>    guidS = CreateNewGUID();</p>
 <p>Voltando às teorias de C++ veremos que o código acima NÃO funciona. Ou, pelo menos, não deveria. Só pelo fato das duas funções serem definidas o compilador já reclama com um "error C2556: 'GUID CreateNewGUID(void)': overloaded function differs only by return type from 'std::wstring CreateNewGUID(void)'". E obviamente ele está correto. O tipo de retorno não é uma propriedade da função que exclua a ambiguidade em sua chamada. Apenas a assinatura pode fazer isso (que são os tipos dos parâmetros recebidos pela função).</p>
 <p>Como não podemos utilizar funções ordinárias o jeito é criar nosso próprio tipo de função que dê conta do recado usando a sobrecarga do operador de conversão de tipos. O operador de conversão suporta sobrecarga porque é na conversão que o compilador decide qual função chamar.</p>
-<p>    struct CreateNewGUID</p>
-<p>    {</p>
-<p>      operator wstring ();</p>
-<p>      operator GUID ();</p>
-<p>    }; </p>
-<p>    guid = CreateNewGUID();</p>
-<p>    guidS = CreateNewGUID();</p>
 <p>Agora com o novo tipo CreateNewGUID é possível chamá-lo como uma função, o que na prática cria uma nova instância da struct. Ao atribuir o retorno dessa instância a uma variável do tipo wstring ou GUID os operadores de conversão serão requisitados, cada um dependendo do tipo da variável a qual será atribuído o retorno.</p>
 <p>Uma vez que criamos um novo tipo, e considerando que este tipo é, portanto, diferente dos tipos wstring e GUID já existentes, devemos simplesmente converter nosso novo tipo para cada um dos tipos de retorno desejados:</p>
-<p>    struct CreateNewGUID</p>
-<p>    {</p>
-<p>      operator wstring ()</p>
-<p>      {</p>
-<p>        wstring ret;</p>
-<p>        // cria guid</p>
-<p>        return ret;</p>
-<p>      }</p>
-<p>      operator GUID ()</p>
-<p>      {</p>
-<p>        GUID ret;</p>
-<p>        // cria guid</p>
-<p>        return ret;</p>
-<p>      }</p>
-<p>    };</p>
-<p>E isso conclui a solução meio esquizofrênica de nossa sobrecarga às avessas. E voltando à pergunta original, penso que, com criatividade e C++, nada é impossível. =)</p>
 <p>[matar a marmota]: {{< relref "feitico-do-tempo" >}}</p>
 <p>[80 milhas por hora]: {{< relref "de-volta-para-o-futuro" >}}</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

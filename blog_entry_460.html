@@ -69,7 +69,6 @@
   </a>
   </p>
   <div class="content">
-<p>A debugger puts breakpoints to stop for a moment the debuggee execution. In order to do this it makes use of a well known instruction: int 3. This instruction throws an exception - the breakpoint exception - that is caught by the operating system and bypassed to the handling code for this exception. For debuggee processes this code is inside the debugger. For free processes this code normally doesn't exist and the application simply crashs.</p>
 <p>The main idea in this protection is to take care these exceptions during the application execution. Doing this, we can make use of this fact and, in the handling code, run the protected code. The solution here looks like a script interpreter. It consists basically of two threads: The first one read an instructions sequence and tells the second thread to run it step to step. In order to do this the second thread uses a small functions set with well defined code blocks. Here's the example in pseudocode:</p>
 <p>```cpp</p>
 <p>// the well-defined functions are functional blocks of code and have</p>
@@ -82,47 +81,35 @@
 <p>// this thread stays forever waiting execution commands from some</p>
 <p>// well-defined function. the parameter that it receives is the function number</p>
 <p>void ExecutionThread()</p>
-<p>{</p>
 <p>	// 2. ad aeternum</p>
 <p>	while( true )</p>
-<p>	{</p>
 <p>		// 5. it runs some well-defined function by number</p>
 <p>		ExecuteWellDefinedFunction( functionNumber );</p>
-<p>	}</p>
-<p>}</p>
 <p>// the well-defined functions script is an integer array indicating </p>
 <p>// the number for the next function that is going to be called</p>
 <p>int FunctionsToBeCalled[] = { 3, 4, 1, 2, 34, 66, 982, n };</p>
 <p>int Start()</p>
-<p>{</p>
 <p>	// 1. we create the thread that is going to run commands</p>
 <p>	CreateThread( ExecutionThread );</p>
 <p>	// 3. for each script item (each function number)</p>
 <p>	for( int i = 0; i < sizeof(FunctionsToBeCalled); ++i )</p>
-<p>	{</p>
 <p>		// 4. tells the thread to run the function number N</p>
 <p>		TellExecutionThreadToExecuteWellDefinedFunction( FunctionToBeCalled[i] );</p>
-<p>	}</p>
 <p>	// 6. end of execution.</p>
 <p>	return 0;</p>
-<p>} </p>
 <p>```</p>
 <p>The protection isn't there yet. But it will as intrinsic part of the execution thread. All we need to do is to add a exception handling and to throw lots of int 3. The thrown exceptions are caught by a second function that runs the instruction before to returning:</p>
 <p>```cpp</p>
 <p>// filter exceptions that were thrown by the thread below</p>
 <p>DWORD ExceptionFilterButExecuteWellDefinedFunction()</p>
-<p>{</p>
 <p>	// 5. run some well-defined function by number</p>
 <p>	ExecuteWellDefinedFunction( number );</p>
 <p>	return EXCEPTION_EXECUTE_HANDLER; // goes to except code</p>
-<p>}</p>
 <p>// this thread stays forever waiting execution commands from a </p>
 <p>// well-defined function. its "parameter" is the function number</p>
 <p>void ExecutionThread()</p>
-<p>{</p>
 <p>	// 2. ad aeternum</p>
 <p>	while( true )</p>
-<p>	{</p>
 <p>		__try</p>
 <p>		{</p>
 <p>			__asm int 3 // breakpoint exception</p>
@@ -134,8 +121,6 @@
 <p>			// it does nothing. here is NOT where is the code (obvious, huh?)</p>
 <p>		}</p>
 <p>		Sleep( someTime ); // give some time</p>
-<p>	}</p>
-<p>} </p>
 <p>```</p>
 <p>The execution thread algorithm is the same. Just the point where each instruction is executed depends to the exception throw system. Note that this exception has to be thrown in order to the next instruction run. This is fundamental, since this way nobody can just rip of the int 3 code to avoid the exception. If one does that, so no instruction will be executed at all.</p>
 <p>In practice, if one tries to debug such a program one will have to deal with tons of exceptions until find out what's happening. Of course, as in every software protection, is's not definitive; it has as a purpose to make hard the reverse engineering understanding. That's not going to stop those who are [really good](http://www.codebreakers-journal.com/) doing that stuff.</p>
@@ -146,7 +131,6 @@
 <p>/** @brief Sample demonstrating how to implemente antidebug in a code exception based.</p>
 <p>@date jul-2007</p>
 <p>@author Wanderley Caloni</p>
-<p>*/</p>
 <p>#include <windows.h></p>
 <p>#include <iostream></p>
 <p>#include <map></p>
@@ -156,122 +140,31 @@
 <p>using namespace std;</p>
 <p>// show available commands</p>
 <p>bool Help(const string&)</p>
-<p>{</p>
-<p>   cout << "AntiDebug Test Program\n"</p>
-<p>      << " Echo string to be printed\n"</p>
-<p>      << " System command [params]\n"</p>
-<p>      << " Quit\n\n";</p>
-<p>   return true;</p>
-<p>}</p>
 <p>// run system/shell command</p>
 <p>bool System(const string& cmd)</p>
-<p>{</p>
-<p>   system(cmd.c_str());</p>
-<p>   return true;</p>
-<p>}</p>
 <p>// print string to output</p>
 <p>bool Echo(const string& str)</p>
-<p>{</p>
-<p>   cout << str << endl;</p>
-<p>   return true;</p>
-<p>}</p>
 <p>// quit program</p>
 <p>bool Quit(const string&)</p>
-<p>{</p>
-<p>   exit(0);</p>
-<p>   return false;</p>
-<p>}</p>
 <p>// minifunctions array</p>
 <p>bool (* (g_miniFuncs[]) )(const string&) = { Help, System, Echo, Quit };</p>
 <p>// "minifunction -> index" mapping</p>
 <p>map<string, int> g_miniFuncIdx;</p>
 <p>// start minifunctions mapping</p>
 <p>void InitializeMiniFuncIdx()</p>
-<p>{</p>
-<p>   g_miniFuncIdx["Help"] = 0;</p>
-<p>   g_miniFuncIdx["System"] = 1;</p>
-<p>   g_miniFuncIdx["Echo"] = 2;</p>
-<p>   g_miniFuncIdx["Quit"] = 3;</p>
-<p>}</p>
 <p>// last line read from input</p>
 <p>string g_currentLine;</p>
 <p>// how much time are we going to wait for the next line?</p>
 <p>const DWORD g_waitTime = 1000;</p>
 <p>// run minifunctions</p>
 <p>DWORD FilterException()</p>
-<p>{</p>
-<p>   DWORD ret = EXCEPTION_CONTINUE_EXECUTION;</p>
-<p>   if( ! g_currentLine.empty() )</p>
-<p>   {</p>
-<p>      istringstream line(g_currentLine);</p>
-<p>      g_currentLine.clear();</p>
-<p>      string function;</p>
-<p>      string params;</p>
-<p>      line >> function;</p>
-<p>      getline(line, params);</p>
-<p>      // 5. run some well-defined function by number</p>
-<p>      if( ! g_miniFuncs[g_miniFuncIdx[function] ](params) )</p>
-<p>         ret = EXCEPTION_CONTINUE_SEARCH;</p>
-<p>   }</p>
-<p>   return ret;</p>
-<p>}</p>
 <p>DWORD WINAPI AntiDebugThread(PVOID)</p>
-<p>{</p>
-<p>   InitializeMiniFuncIdx(); // start minifunction mapping</p>
-<p>   // 2. ad aeternum (or almost)</p>
-<p>   while( true )</p>
-<p>   {</p>
-<p>      //FilterException();</p>
-<p>      __try // the extern try waits for an exit command</p>
-<p>      {</p>
-<p>         __try // the intern try stays generating exceptions continuously</p>
-<p>         {</p>
-<p>            __asm int 3</p>
-<p>         }</p>
-<p>         // FilterException is the function who runs minifunctions</p>
-<p>         __except( FilterException() )</p>
-<p>         {</p>
 <p>				// we can put some fake code here</p>
-<p>         }</p>
-<p>      }</p>
-<p>      __except( EXCEPTION_EXECUTE_HANDLER )</p>
-<p>      {</p>
-<p>         break; // get out from ad aeternum (to the limbo?)</p>
-<p>      }</p>
-<p>      Sleep(g_waitTime);</p>
-<p>   }</p>
-<p>   return ERROR_SUCCESS;</p>
-<p>}</p>
 <p>/** and God said: 'int main!'</p>
-<p>*/</p>
 <p>int main()</p>
-<p>{</p>
-<p>   DWORD ret = ERROR_SUCCESS;</p>
-<p>   DWORD tid = 0;</p>
-<p>   HANDLE antiDebugThr;</p>
-<p>   // 1. we create the thread that is going to run the commands</p>
-<p>   antiDebugThr = CreateThread(NULL, 0, AntiDebugThread, NULL, 0, &tid);;</p>
-<p>   if( antiDebugThr )</p>
-<p>   {</p>
-<p>      // 3. for each item in the script (function numbers)</p>
-<p>      while( cin )</p>
-<p>      {</p>
-<p>         cout << "Type something\n";</p>
-<p>         // 4. tells the thread to run the function number N</p>
-<p>         getline(cin, g_currentLine);</p>
-<p>         if( WaitForSingleObject(antiDebugThr, g_waitTime * 2) != WAIT_TIMEOUT )</p>
-<p>            break;</p>
-<p>      }</p>
-<p>      GetExitCodeThread(antiDebugThr, &ret);</p>
-<p>      CloseHandle(antiDebugThr), antiDebugThr = NULL;</p>
-<p>   }</p>
-<p>   // 6. end of execution.</p>
-<p>   return (int) ret;</p>
-<p>} </p>
 <p>```</p>
 <p>The strength in this protection is to confound the attacker easily in the first steps (days, months...). Its weakness is the simplicity for the solution, since the attacker eventually realize what is going on. It is so easy that I will let it as an exercise for my readers.</p>
 <p>In the next part we will se an alternative to make the code clearer and easy to use in the every day by a security software developer.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

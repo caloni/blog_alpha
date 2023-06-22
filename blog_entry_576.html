@@ -69,19 +69,7 @@
   </a>
   </p>
   <div class="content">
-<p># XML Issues</p>
 <p>Este post foi resultado da minha pesquisa sobre AWK e performance. Ele contém alguns insights que acredito serem úteis para otimizar o código AWK. Nem sempre a linguagem é a ferramenta ideal para trabalhar dados, como o rapaz da dúvida mencionou (ele estava tentando parsear XML), mas mesmo assim as respostas focaram na implementação interna do AWK para entender como tornar o processamento massivo de dados factível, ou pelo menos mais rápido. Isso pode ser útil no dia-a-dia.</p>
-<p>></p>
-<p>> "The Enlightened Ones say that....</p>
-<p>> </p>
-<p>> You should never use C if you can do it with a script;</p>
-<p>></p>
-<p>> You should never use a script if you can do it with awk;</p>
-<p>></p>
-<p>> Never use awk if you can do it with sed;</p>
-<p>></p>
-<p>> Never use sed if you can do it with grep."</p>
-<p>></p>
 <p>## Test #1</p>
 <p>```</p>
 <p>yes 'SomeSampleText SomeOtherText 33 1970 YetAnotherText 777 abc 1 AndSomeMore' | head -1000000 > bigsample.txt</p>
@@ -123,21 +111,6 @@
 <p>```</p>
 <p><?xml version="1.0" encoding="UTF-8"?></p>
 <p><ConfigDataFile xmlns:un="specific.xsd" xmlns:xn="generic.xsd"></p>
-<p>    <configData dnPrefix="Undefined"></p>
-<p>        <xn:SubNetwork id="ROOT_1"></p>
-<p>            <xn:SubNetwork id="ROOT_2"></p>
-<p>                <xn:attributes></p>
-<p>                ...</p>
-<p>                </xn:attributes></p>
-<p>            </xn:SubNetwork></p>
-<p>            <xn:SubNetwork id="ID_1"></p>
-<p>            ....</p>
-<p>            </xn:SubNetwork></p>
-<p>            <xn:SubNetwork id="ID_2"></p>
-<p>            .....</p>
-<p>            </xn:SubNetwork></p>
-<p>        </xn:SubNetwork></p>
-<p>    </configData></p>
 <p></ConfigDataFile></p>
 <p>```</p>
 <p>```</p>
@@ -151,12 +124,8 @@
 <p>## Mawk</p>
 <p>No meio das minhas pesquisas também encontrei este projeto chamado [mawk](https://invisible-island.net/mawk/), que é uma versão otimizada do AWK. Instalei pelos fontes do projeto na minha máquina e fiz os mesmos testes do post do Stack Overflow com resultados absurdamente mais rápidos. Ou seja, vale uma visita.</p>
 <p>## Final conclusion</p>
-<p>> </p>
-<p>> Show that if you use your :SubNetwork as field separator, it's the fastest.</p>
-<p>> </p>
 <p> - Regex as filter is much faster than run the action.</p>
 <p> - Mawk is fast as hell.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

@@ -69,7 +69,6 @@
   </a>
   </p>
   <div class="content">
-<p>O bom de estar praticando para fazer entrevistas técnicas é ter material para novos postes. E este poste é sobre um assunto bem simples para quem já sabe como funcionam strings, mas complexo o suficiente para quem nunca ouviu falar de memória no computador.</p>
 <p>Vamos começar pela resposta. O algoritmo que deve ser seguido é:</p>
 <p> - Declare a string que você quer inverter;</p>
 <p> - Obtenha o tamanho dessa string;</p>
@@ -81,21 +80,7 @@
 <p>```</p>
 <p>string ReverseString(string s)</p>
 <p>// string passada por parâmetro</p>
-<p>{</p>
-<p>    size_t begin = 0; // posição inicial</p>
-<p>    size_t end = s.size() - 1; // posição final</p>
-<p>    while (begin < end) // enquanto não invertemos as posições</p>
-<p>    {</p>
-<p>        char buf = s[begin]; // troca elementos de posição</p>
-<p>        s[begin] = s[end];</p>
-<p>        s[end] = buf;</p>
-<p>        ++begin; // atualize a posição inicial e final da string</p>
-<p>        --end;</p>
-<p>    }</p>
-<p>    return s; // string invertida</p>
-<p>}</p>
 <p>```</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

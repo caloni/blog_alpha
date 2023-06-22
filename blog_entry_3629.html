@@ -69,93 +69,56 @@
   </a>
   </p>
   <div class="content">
-<p>A grande vantagem dos templates é manter o tipo de seus argumentos. Infelizmente, eles não existem na linguagem C, mas podem ser usados em construções C feitas com a linguagem C++, como ocorre com quem desenvolve device drivers para Windows.</p>
 <p>Imagine, por exemplo, a estrutura [LIST_ENTRY](https://msdn.microsoft.com/en-us/library/windows/hardware/ff554296(v=vs.85).aspx), que é uma tentativa de generalizar não só o tipo de uma lista ligada, como seu posicionamento:</p>
 <p>```</p>
 <p>typedef struct _LIST_ENTRY {</p>
-<p>  struct _LIST_ENTRY  *Flink;</p>
-<p>  struct _LIST_ENTRY  *Blink;</p>
-<p>} LIST_ENTRY, *PLIST_ENTRY;</p>
 <p>```</p>
-<p>A lógica por trás de LIST_ENTRY é que esse membro pode ser inserido em qualquer lugar da estrutura que representará um elemento:</p>
 <p>{{< image src="865mgsu.jpg" caption="" >}}</p>
 <p>Ele pode estar realmente no __meio__ do elemento, pois isso não importa, desde que você saiba voltar para o começo da estrutura. Isso é útil quando um elemento pode fazer parte de diferentes listas.</p>
 <p>```</p>
 <p>typedef struct _LIST_ENTRY {</p>
-<p>  struct _LIST_ENTRY  *Flink;</p>
-<p>  struct _LIST_ENTRY  *Blink;</p>
-<p>} LIST_ENTRY, *PLIST_ENTRY;</p>
 <p>struct MeuElemento</p>
-<p>{</p>
 <p>	int x;</p>
 <p>	int y;</p>
 <p>	LIST_ENTRY entry;</p>
 <p>	double d;</p>
 <p>	float f;</p>
-<p>};</p>
 <p>LIST_ENTRY g_head;</p>
 <p>int main()</p>
-<p>{</p>
 <p>	InitializeListHead(&g_head);</p>
-<p>}</p>
 <p>```</p>
 <p>OK, temos uma lista ligada cujo head está inicializado. Para inserir um novo item, podemos usar as rotinas InsertHeadList, AppendTailList, RemoveEntryList, PushEntryList, PopEntryList, etc. Enfim, uma infinidade de rotinas já cuidam disso para a gente.</p>
-<p>O que não temos é como acessar o elemento. Para isso usamos um truque bem peculiar na linguagem C, já disponível também em kernel:</p>
 <p>```</p>
 <p>#define CONTAINING_RECORD(address, type, field) \</p>
-<p>    ((type *)( \</p>
-<p>    (PCHAR)(address) - \</p>
-<p>    (ULONG_PTR)(&((type *)0)->field)))</p>
 <p>```</p>
 <p>Basicamente a macro obtém a partir do endereço zero o offset do membro que é a entrada da lista ligada e subtrai esse ofsset do endereço do próprio campo, ganhando de brinde o tipo de sua estrutura. Usando a macro com nossa estrutura:</p>
 <p>```</p>
 <p>void DoSomething(PLINK_LIST pEntry)</p>
-<p>{</p>
 <p>	MeuElemento* pElem = CONTAINING_RECORD(pEntry, MeuElemento, entry);</p>
-<p>}</p>
 <p>```</p>
 <p>#### Usando template</p>
 <p>Note que entry é o nome, literal, do membro na estrutura, e não há maneira possível com templates de obter isso. A solução? Usar um nome padronizado. O resultado final pode ser parecido com este:</p>
 <p>```</p>
 <p>template<typename T></p>
 <p>T* ContainingRecord(PLIST_ENTRY pEntry)</p>
-<p>{</p>
-<p>    return ( reinterpret_cast<T*>( (char*)(pEntry) - (size_t)(&((T*)0)->entry)) );</p>
-<p>}</p>
 <p>```</p>
 <p>Em ação:</p>
 <p>```</p>
 <p>#include <iostream></p>
 <p>using namespace std;</p>
 <p>typedef struct _LIST_ENTRY {</p>
-<p>  struct _LIST_ENTRY  *Flink;</p>
-<p>  struct _LIST_ENTRY  *Blink;</p>
-<p>} LIST_ENTRY, *PLIST_ENTRY;</p>
 <p>struct MeuElemento</p>
-<p>{</p>
 <p>	int x;</p>
 <p>	int y;</p>
 <p>	LIST_ENTRY entry;</p>
 <p>	double d;</p>
 <p>	float f;</p>
-<p>};</p>
 <p>LIST_ENTRY g_head;</p>
 <p>template<typename T></p>
 <p>T* ContainingRecord(PLIST_ENTRY pEntry)</p>
-<p>{</p>
-<p>    return ( reinterpret_cast<T*>( (char*)(pEntry) - (size_t)(&((T*)0)->entry)) );</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
-<p>    auto newElem = new MeuElemento();</p>
-<p>    newElem->x = 42;</p>
-<p>    g_head.Flink = &newElem->entry; // inserindo um elemento</p>
-<p>    auto elem = ContainingRecord<MeuElemento>(g_head.Flink);</p>
-<p>    cout << "X is " << elem->x << endl;</p>
-<p>}</p>
 <p>```</p>
 <p>"Nossa, tudo isso para substituir uma macro já consagrada no WDK??" Sim, nesse post o objetivo não ficou muito útil. É apenas uma ideia de substituição possível de ser feita em macros em geral. Pode ser bem documentada, usada há 30 anos, mas ainda é uma macro. Meu conselho: se funciona bem, use. Se vai fazer algo novo, tente sempre templates.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

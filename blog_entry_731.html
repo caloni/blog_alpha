@@ -69,7 +69,6 @@
   </a>
   </p>
   <div class="content">
-<p>O Boost Meta State Machine (MSM for short) é uma das duas bibliotecas mais famosinhas de state machine do Boost. Ela é uma versão estática que permite incluir chamadas para as entradas e saídas de um estado baseado em eventos. A sua principal vantagem é poder visualizar toda a máquina de estado em um só lugar, e sua principal desvantagem é pertecer ao Boost, o que quer dizer que você vai precisar fazer seu terceiro doutorado e ler uma documentação imensa sobre UML antes de conseguir produzir alguma coisa. Ou ler este artigo de 10 minutos tops.</p>
 <p>```</p>
 <p>#include <iostream></p>
 <p>#include <boost/msm/back/state_machine.hpp></p>
@@ -77,129 +76,21 @@
 <p>#include <boost/msm/front/functor_row.hpp></p>
 <p>using namespace std;</p>
 <p>namespace MyStateMachine</p>
-<p>{</p>
-<p>    namespace msm = boost::msm;</p>
-<p>    namespace msmf = boost::msm::front;</p>
-<p>    namespace mpl = boost::mpl;</p>
-<p>    namespace Events</p>
-<p>    {</p>
-<p>        struct Event1 {};</p>
-<p>        struct Event2 { int data; };</p>
-<p>        struct Event3 {};</p>
-<p>    }</p>
-<p>    struct StateMachine :msmf::state_machine_def<StateMachine></p>
-<p>    {</p>
-<p>        typedef msm::back::state_machine<StateMachine> SM;</p>
-<p>        struct Off :msmf::terminate_state<> // Off is the last state</p>
-<p>        {</p>
-<p>            template <class Event, class Fsm></p>
-<p>            void on_entry(Event const&, Fsm&) const</p>
-<p>            {</p>
-<p>                cout << "on_entry Off generic event\n";</p>
-<p>            }</p>
-<p>        }; </p>
-<p>        struct On :msmf::state<></p>
-<p>        {</p>
-<p>            template <class Event, class Fsm></p>
-<p>            void on_entry(Event const&, Fsm&) const</p>
-<p>            {</p>
-<p>                cout << "on_entry On generic event\n";</p>
-<p>            }</p>
-<p>            template <class Fsm></p>
-<p>            void on_entry(Events::Event1 const&, Fsm&) const</p>
-<p>            {</p>
-<p>                cout << "on_entry On Event1\n";</p>
-<p>            }</p>
-<p>            template <class Event, class Fsm></p>
-<p>            void on_exit(Event const&, Fsm&) const</p>
-<p>            {</p>
-<p>                cout << "on_exit On generic event\n";</p>
-<p>            }</p>
-<p>            template <class Fsm></p>
-<p>            void on_exit(Events::Event2 const& evt, Fsm&) const</p>
-<p>            {</p>
-<p>                cout << "on_exit On Event2 (with data " << evt.data << ")\n";</p>
-<p>            }</p>
-<p>        };</p>
-<p>        struct Tick :msmf::state<></p>
-<p>        {</p>
-<p>            template <class Event, class Fsm></p>
-<p>            void on_entry(Event const&, Fsm&) const</p>
-<p>            {</p>
-<p>                cout << "on_entry Tick generic event\n";</p>
-<p>            }</p>
-<p>            template <class Fsm></p>
-<p>            void on_entry(Events::Event3 const&, Fsm&) const</p>
-<p>            {</p>
-<p>                cout << "on_entry Tick Event3\n";</p>
-<p>            }</p>
-<p>            template <class Event, class Fsm></p>
-<p>            void on_exit(Event const&, Fsm&) const</p>
-<p>            {</p>
-<p>                cout << "on_exit Tick generic event\n";</p>
-<p>            }</p>
-<p>        };</p>
-<p>        typedef On initial_state; // On is the start</p>
-<p>        struct transition_table :mpl::vector<</p>
-<p>            //          Start      Event                     Next               Action                      Guard</p>
-<p>            msmf::Row < On,        Events::Event1,           On,                msmf::none, msmf::none >,</p>
-<p>            msmf::Row < On,        Events::Event2,           Tick,              msmf::none, msmf::none >,</p>
-<p>            msmf::Row < Tick,      Events::Event3,           Tick,              msmf::none, msmf::none >,</p>
-<p>            msmf::Row < Tick,      Events::Event1,           On,                msmf::none, msmf::none >,</p>
-<p>            msmf::Row < Tick,      Events::Event2,           Off,               msmf::none, msmf::none ></p>
-<p>        > {};</p>
-<p>    };</p>
-<p>    int TestPathway()</p>
-<p>    {</p>
-<p>        StateMachine::SM sm1;</p>
-<p>        sm1.start();</p>
-<p>        sm1.process_event(Events::Event1()); // keep in On</p>
-<p>        sm1.process_event(Events::Event2()); // to Tick</p>
-<p>        sm1.process_event(Events::Event3()); // keep in Tick</p>
-<p>        sm1.process_event(Events::Event1()); // back to On</p>
-<p>        sm1.process_event(Events::Event2 { 42 }); // back to Tick</p>
-<p>        sm1.process_event(Events::Event2()); // finish</p>
-<p>        return 0;</p>
-<p>    }</p>
-<p>}</p>
 <p>int main()</p>
-<p>{</p>
-<p>    MyStateMachine::TestPathway();</p>
-<p>}</p>
 <p>```</p>
-<p>A parte bonitinha de se ver é os eventos e estados completamente ordenados:</p>
 <p>```</p>
 <p>struct transition_table :mpl::vector<</p>
-<p>    //          Start      Event                     Next               Action                      Guard</p>
-<p>    msmf::Row < On,        Events::Event1,           On,                msmf::none, msmf::none >,</p>
-<p>    msmf::Row < On,        Events::Event2,           Tick,              msmf::none, msmf::none >,</p>
-<p>    msmf::Row < Tick,      Events::Event3,           Tick,              msmf::none, msmf::none >,</p>
-<p>    msmf::Row < Tick,      Events::Event1,           On,                msmf::none, msmf::none >,</p>
-<p>    msmf::Row < Tick,      Events::Event2,           Off,               msmf::none, msmf::none ></p>
-<p>> {};</p>
 <p>```</p>
 <p>Claro que a indentação ajuda. Para cada entrada e saída de um estado é possível utilizar os métodos on_entry e on_exit de cada struct que define um estado, seja este método um template totalmente genérico ou especificado por evento (e cada evento também é um struct, com direito a dados específicos).</p>
 <p>```</p>
 <p>template <class Event, class Fsm></p>
 <p>void on_entry(Event const&, Fsm&) const</p>
-<p>{</p>
-<p>    cout << "on_entry On generic event\n";</p>
-<p>}</p>
 <p>template <class Fsm></p>
 <p>void on_entry(Events::Event1 const&, Fsm&) const</p>
-<p>{</p>
-<p>    cout << "on_entry On Event1\n";</p>
-<p>}</p>
 <p>template <class Event, class Fsm></p>
 <p>void on_exit(Event const&, Fsm&) const</p>
-<p>{</p>
-<p>    cout << "on_exit On generic event\n";</p>
-<p>}</p>
 <p>template <class Fsm></p>
 <p>void on_exit(Events::Event2 const& evt, Fsm&) const</p>
-<p>{</p>
-<p>    cout << "on_exit On Event2 (with data " << evt.data << ")\n";</p>
-<p>}</p>
 <p>```</p>
 <p>Quando é criada uma nova máquina de estados o estado inicial é chamado pelo evento on_entry genérico. Como sabemos qual é o estado inicial? Isso é definido pelo typedef initial_state dentro da classe da máquina de estado (que deve herdar de state_machine_def no estilo WTL, com sobrecarga estática):</p>
 <p>```</p>
@@ -207,27 +98,13 @@
 <p>//...</p>
 <p>typedef On initial_state; // On is the start</p>
 <p>```</p>
-<p>O estado final também é definido, mas por herança. O estado final, que também é uma struct, deve herdar de terminate_state:</p>
 <p>```</p>
 <p>struct Off :msmf::terminate_state<></p>
 <p>```</p>
-<p>A partir daí o método process_event serve para enviar eventos à máquina de estado que irá alterar seu estado dependendo do fluxo criado no nome transition_table dentro da máquina de estado (a tabelinha que vimos acima). A partir daí tudo é possível; a máquina de estado está à solta:</p>
 <p>```</p>
 <p>int TestPathway()</p>
-<p>{</p>
-<p>    StateMachine::SM sm1;</p>
-<p>    sm1.start();</p>
-<p>    sm1.process_event(Events::Event1()); // keep in On</p>
-<p>    sm1.process_event(Events::Event2()); // to Tick</p>
-<p>    sm1.process_event(Events::Event3()); // keep in Tick</p>
-<p>    sm1.process_event(Events::Event1()); // back to On</p>
-<p>    sm1.process_event(Events::Event2 { 42 }); // back to Tick</p>
-<p>    sm1.process_event(Events::Event2()); // finish</p>
-<p>    return 0;</p>
-<p>}</p>
 <p>```</p>
 <p>Mas nesse exemplo didático está comportada em uma função apenas. Claro que cada método recebe a própria máquina de estado para ter a chance de alterá-la, ou guardá-la para uso futuro. Ela é recebida como parâmetro assim como o evento. E o evento, por ser uma struct também, pode conter outros dados relevantes para a transição.</p>
-
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,
