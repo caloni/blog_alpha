@@ -69,11 +69,25 @@
   </a>
   </p>
   <div class="content">
+<p>O Qt não é um framework que pode apenas ser usado no QtCreator. Através de um projeto bem configurado pelo CMake, por exemplo, é possível ter um projeto que pode ser compilado e depurado tanto nas ferramentas do Qt quanto no Visual Studio. No entanto, na hora de depurar algumas coisas são difíceis de fazer. Por exemplo: como olhar o conteúdo de uma QString?</p>
+<p>O Visual Studio utiliza um mecanismo que lembra os comandos bizarros que se usa no WinDbg, mexendo com registradores e tal. Através dessa combinação é possível dizer para o depurador como interpretar determinados tipos de objetos. Ele já vem obviamente pronto para std::string, CString (ATL) e deveria vir com QString, de tão famosa que é. Mas a versão do Visual Studio 2015 não vem. O jeito então é editar diretamente o arquivo onde ficam esses padrões.</p>
 <p>```</p>
+<p>; AutoExp.Dat - templates for automatically expanding data</p>
 <p>```</p>
+<p>O nome do arquivo é __autoexp.dat__ e ele fica em uma pasta no estilo Program Files, Microsoft Visual Studio, Common7, Packages, Debugger. É melhor você retirar ele dessa pasta antes de sobrescrevê-lo para não ter erro de acesso. Ao abri-lo verá que no começo há vários comentários que explicam como é o funcionamento desse padrão.</p>
 <p>```</p>
+<p>; type=[text]<member[,format]>...</p>
+<p>;</p>
+<p>; type		Name of the type (may be followed by <*> for template</p>
 <p>;			types such as the ATL types listed below).</p>
+<p>;</p>
+<p>; text		Any text.Usually the name of the member to display,</p>
 <p>;			or a shorthand name for the member.</p>
+<p>;</p>
+<p>; member	Name of a member to display.</p>
+<p>;</p>
+<p>; format	Watch format specifier. One of the following:</p>
+<p>;</p>
 <p>;	Letter	Description					Sample		   Display</p>
 <p>;	------	--------------------------	------------   -------------</p>
 <p>;	d,i		Signed decimal integer		0xF000F065,d   -268373915</p>
@@ -88,6 +102,9 @@
 <p>;	c		Single character			0x0065,c	   'e'</p>
 <p>;	s		Zero-terminated string		pVar,s		   "Hello world"</p>
 <p>;	su		Unicode string				pVar,su		   "Hello world"</p>
+<p>;</p>
+<p>; For details of other format specifiers see Help under:</p>
+<p>; "format specifiers/watch variable"</p>
 <p>```</p>
 <p>Felizmente (e também obviamente) o pessoal do Qt já fez [uma entrada na wiki](https://wiki.qt.io/IDE_Debug_Helpers) que explica como fazer para interpretar corretamente uma QString. Eles mesmos admitem que a coisa ficou difícil desde a última versão (Qt 5), mas ainda assim é possível. E, se tudo falhar, ainda é possível usar a janela de Watch:</p>
 <p>```</p>
@@ -95,6 +112,7 @@
 <p>```</p>
 <p>Mas não foi o caso dessa vez. Tudo funcionou perfeitamente assim que incluí os valores da Wiki logo no começo da sessão __Visualizer__.</p>
 <p>{{< image src="3dnGwGK.gif" caption="" >}}</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

@@ -78,15 +78,125 @@
 <p>Quem começou a programar para Windows naquela época com certeza deve ter ouvido falar do livro clássico de Charles Petzold, uma das poucas referências naquela época sem internet: Programming Windows 3.1. É um livro consideravelmente completo se considerarmos a época em que foi escrito. Vários exemplos estão disponíveis em suas páginas, mas para os que não viveram essa época (como eu) existe [a versão eletrônica disponível para download]. Você deve estar se perguntando se todo esse código-fonte serve para alguma coisa hoje em dia. Por incrível que pareça, serve sim. E para demonstrar o conceito de compatibilidade retroativa da Microsoft, iremos utilizar os mesmos exemplos deste livro, sem por nem tirar uma linha de código. Com o devido copyright e respeito merecidos ao autor, é claro =).</p>
 <p>Programar interfaces naquela época não era bem o "clicar e arrastar" de hoje em dia. Eram necessários profundos conhecimentos sobre como o sistema operacional se relacionava com o seu programa e vice-versa. Hoje em dia é possível ainda programar como antigamente, já que toda a estrutura continua a mesma. Porém, é algo extremamente contraproducente de se fazer com as IDEs modernas que existem e suas barras de controles pré-fabricados e código automático. Faremos da forma mais rústica para entender como as coisas funcionam por baixo dos panos, o que por si só será extremamente produtivo para o nosso conhecimento.</p>
 <p>Antes de ser criada uma janela, é necessário registrar uma classe de janela no sistema, cuja relação com uma janela é mais ou menos a mesma entre classe e objeto no paradigma de orientação a objetos. Você primeiro define uma classe para sua janela e posteriormente pode criar inúmeras janelas a partir da mesma classe.</p>
+<p>    </p>
+<p>    WNDCLASS wndclass; //Dados sobre a classe de janela.</p>
+<p>    wndclass.style = CS_HREDRAW | CS_VREDRAW;</p>
+<p>    wndclass.lpfnWndProc = WndProc; // Função de janela (isso é importante!)</p>
+<p>    ...</p>
+<p>    wndclass.lpszClassName = szAppName;</p>
+<p>    RegisterClass (&wndclass) ; // Registra a classe de janela.</p>
 <p>Quando você define uma classe e a registra está dizendo para o sistema qual será sua função de janela, i. e., qual será a função responsável por receber as mensagens das janelas criadas.</p>
+<p>    wndclass.lpfnWndProc = WndProc ; // Função de janela.</p>
+<p>    ...</p>
+<p>    long FAR PASCAL WndProc (HWND hwnd, WORD message, WORD wParam, LONG lParam)</p>
+<p>    {</p>
+<p>    switch( message ) // Manipulando as mensagens.</p>
+<p>    ...</p>
+<p>    }</p>
 <p>Uma mensagem é um evento que ocorre relativo à sua janela ou o que está acontecendo ao redor dela no mundo Windows. Por exemplo, as janelas recebem eventos a respeito dos cliques do usuário, redesenho da janela, etc. Quem envia essas mensagens é o próprio Windows, e ele espera uma resposta da sua função de janela. Agora a parte esquisita: quem envia essas mensagens para o Windows é o seu próprio aplicativo!</p>
 <p>{{< image src="windows_message_loop.gif" caption="Função de janela" >}}</p>
+<p>O aplicativo fica aguardando por eventos em um loop conhecido como loop de mensagens. A função do loop basicamente é chamar a função GetMessage e redirecionar as mensagens obtidas para as respectivas funções de janela.</p>
+<p>    while( GetMessage (&msg, NULL, 0, 0) )</p>
+<p>    {</p>
+<p>       TranslateMessage (&msg);</p>
+<p>       DispatchMessage (&msg); // Despacha a mensagem para a função de janela.</p>
+<p>    }</p>
+<p>E aqui está o código completo:</p>
+<p>    /*--------------------------------------------------------</p>
+<p>      HELLOWIN.C -- Displays "Hello, Windows" in client area</p>
+<p>      (c) Charles Petzold, 1990</p>
+<p>      --------------------------------------------------------*/</p>
+<p>    </p>
+<p>    #include <windows.h></p>
+<p>    </p>
+<p>    long FAR PASCAL WndProc (HWND, WORD, WORD, LONG) ;</p>
+<p>    </p>
+<p>    int PASCAL WinMain (HANDLE hInstance, HANDLE hPrevInstance,</p>
+<p>        LPSTR lpszCmdParam, int nCmdShow)</p>
+<p>    {</p>
+<p>      static char szAppName[] = "HelloWin" ;</p>
+<p>      HWND        hwnd ;</p>
+<p>      MSG         msg ;</p>
+<p>      WNDCLASS    wndclass ;</p>
+<p>    </p>
+<p>      if (!hPrevInstance)</p>
+<p>      {</p>
+<p>        wndclass.style         = CS_HREDRAW | CS_VREDRAW ;</p>
+<p>        wndclass.lpfnWndProc   = WndProc ;</p>
+<p>        wndclass.cbClsExtra    = 0 ;</p>
+<p>        wndclass.cbWndExtra    = 0 ;</p>
+<p>        wndclass.hInstance     = hInstance ;</p>
+<p>        wndclass.hIcon         = LoadIcon (NULL, IDI_APPLICATION) ;</p>
+<p>        wndclass.hCursor       = LoadCursor (NULL, IDC_ARROW) ;</p>
+<p>        wndclass.hbrBackground = GetStockObject (WHITE_BRUSH) ;</p>
+<p>        wndclass.lpszMenuName  = NULL ;</p>
+<p>        wndclass.lpszClassName = szAppName ;</p>
+<p>    </p>
+<p>        RegisterClass (&wndclass) ;</p>
+<p>      }</p>
+<p>    </p>
+<p>      hwnd = CreateWindow (</p>
+<p>        szAppName,           // window class name</p>
+<p>        "The Hello Program", // window caption</p>
+<p>        WS_OVERLAPPEDWINDOW, // window style</p>
+<p>        CW_USEDEFAULT,       // initial x position</p>
+<p>        CW_USEDEFAULT,       // initial y position</p>
+<p>        CW_USEDEFAULT,       // initial x size</p>
+<p>        CW_USEDEFAULT,       // initial y size</p>
+<p>        NULL,                // parent window handle</p>
+<p>        NULL,                // window menu handle</p>
+<p>        hInstance,           // program instance handle</p>
+<p>        NULL) ;              // creation parameters</p>
+<p>    </p>
+<p>      ShowWindow (hwnd, nCmdShow) ;</p>
+<p>      UpdateWindow (hwnd) ;</p>
+<p>    </p>
+<p>      while (GetMessage (&msg, NULL, 0, 0))</p>
+<p>      {</p>
+<p>        TranslateMessage (&msg) ;</p>
+<p>        DispatchMessage (&msg) ;</p>
+<p>      }</p>
+<p>      return msg.wParam ;</p>
+<p>    }</p>
+<p>    </p>
+<p>    long FAR PASCAL WndProc (HWND hwnd, WORD message, WORD wParam, LONG lParam)</p>
+<p>    {</p>
+<p>      HDC hdc;</p>
+<p>      PAINTSTRUCT ps;</p>
+<p>      RECT rect;</p>
+<p>    </p>
+<p>      switch (message)</p>
+<p>      {</p>
+<p>        case WM_PAINT:</p>
+<p>          hdc = BeginPaint (hwnd, &ps) ;</p>
+<p>    </p>
+<p>          GetClientRect (hwnd, &rect) ;</p>
+<p>    </p>
+<p>          DrawText (hdc, "Hello, Windows!", -1, &rect,</p>
+<p>              DT_SINGLELINE | DT_CENTER | DT_VCENTER) ;</p>
+<p>    </p>
+<p>          EndPaint (hwnd, &ps) ;</p>
+<p>          return 0 ;</p>
+<p>    </p>
+<p>        case WM_DESTROY:</p>
+<p>          PostQuitMessage (0) ;</p>
+<p>          return 0 ;</p>
+<p>      }</p>
+<p>    </p>
+<p>      return DefWindowProc (hwnd, message, wParam, lParam) ;</p>
+<p>    } </p>
 <p>Esse exemplo é bem velho, mas compila e funciona até hoje, depois de passados 17 anos. Pode não rodar, mas esta é outra história.</p>
+<p>    cl /c hellowin.c</p>
+<p>    link hellowin.obj user32.lib gdi32.lib</p>
+<p>    hellowin.exe</p>
+<p>O Windows 3.x tinha uma particularidade nefasta: qualquer aplicativo poderia travar o sistema como um todo. Se lembrarmos que o Windows antigamente era multitarefa e não-preemptivo, podemos deduzir que enquanto é executada a função de janela de um aplicativo o sistema aguarda por esse aplicativo indefinidamente. Se o aplicativo trava, ele nunca retorna. Se ele nunca retorna, o sistema fica eternamente esperando pelo retorno da função de janela. Alguns travamentos conseguiam ser resolvidos por interrupção, mas a maioria não. No próximo capítulo [da série] veremos como os sistemas de 32 bits resolveram esse pequeno problema.</p>
+<p>O que o resto do código do Petzold faz? Dê uma olhada na documentação do MSDN. Ela ainda está disponível, já que todos os aplicativos precisam utilizar essas funções, seja diretamente ou através de imensos frameworks de interface com o usuário. E existem pessoas que precisam suportar código-fonte legado.</p>
 <p>Já que agora você sabe o que são funções de janela, mensagens e afins, por que não ver tudo isso funcionando? O Microsoft Visual Studio possui uma ferramenta muito útil para isso chamada Spy++ (spyxx.exe). Existem também aplicativos equivalentes (com fonte). Outra ferramenta muito útil, principalmente na hora de desenvolver janelas com controles comuns do Windows, é o Control Spy.</p>
 <p>Para saber mais dê uma passada no [sítio do Charles Petzold].</p>
 <p>[sítio do Charles Petzold]: http://www.charlespetzold.com</p>
 <p>[a versão eletrônica disponível para download]: http://www.charlespetzold.com/books.html</p>
 <p>[da série]: {{< relref "historia-do-windows" >}}</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

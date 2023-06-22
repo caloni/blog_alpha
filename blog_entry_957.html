@@ -81,8 +81,35 @@
 <p>```</p>
 <p>#include <iostream></p>
 <p>class MinhaClasse</p>
+<p>{</p>
+<p>    public:</p>
+<p>        void MeuMetodo()</p>
+<p>        {</p>
+<p>            MeuOutroMetodo();</p>
+<p>        }</p>
+<p>        virtual void MeuOutroMetodo()</p>
+<p>        {</p>
+<p>            MinhaPropriedade = 42;</p>
+<p>        }</p>
+<p>        int MinhaPropriedade;</p>
+<p>};</p>
 <p>class MinhaClasseVersao75 : public MinhaClasse</p>
+<p>{</p>
+<p>    public:</p>
+<p>        virtual void MeuOutroMetodo()</p>
+<p>        {</p>
+<p>            MinhaPropriedade = 75;</p>
+<p>        }</p>
+<p>};</p>
 <p>int main()</p>
+<p>{</p>
+<p>    MinhaClasse obj;</p>
+<p>    MinhaClasseVersao75 obj2;</p>
+<p>    obj.MeuMetodo();</p>
+<p>    obj2.MeuMetodo();</p>
+<p>    std::cout << "MinhaPropriedade (obj) = " << obj.MinhaPropriedade << std::endl;</p>
+<p>    std::cout << "MinhaPropriedade (obj2) = " << obj2.MinhaPropriedade << std::endl;</p>
+<p>}</p>
 <p>```</p>
 <p>{{< image src="Ye5mA8L.png" caption="" >}}</p>
 <p>Como você deve imaginar, é possível também fazer isso em C. Basta mudar os endereços das variáveis do tipo ponteiro de função que estão na struct usada como contexto. Para ficar o mais próximo possível do "modo C++" de fazer polimorfirmo, podemos escrever _hardcoded_ a tal _vtable_ para os diferentes tipos de "classe":</p>
@@ -90,28 +117,46 @@
 <p>#include <stdio.h></p>
 <p>struct MinhaVTable;</p>
 <p>struct MinhaClasse</p>
+<p>{</p>
 <p>	const MinhaVTable* VTable;</p>
 <p>	int MinhaPropriedade;</p>
+<p>};</p>
 <p>struct MinhaVTable</p>
+<p>{</p>
 <p>	void (*MeuMetodo)(MinhaClasse*);</p>
 <p>	void (*MeuOutroMetodo)(MinhaClasse*);</p>
+<p>};</p>
 <p>void MinhaClasse_MeuMetodo(MinhaClasse* pThis)</p>
+<p>{</p>
+<p>    pThis->VTable->MeuOutroMetodo(pThis);</p>
+<p>}</p>
 <p>void MinhaClasse_MeuOutroMetodo(MinhaClasse* pThis)</p>
+<p>{</p>
+<p>    pThis->MinhaPropriedade = 42;</p>
+<p>}</p>
 <p>void MinhaClasse_MeuOutroMetodoVersao75(MinhaClasse* pThis)</p>
+<p>{</p>
+<p>    pThis->MinhaPropriedade = 75;</p>
+<p>}</p>
 <p>static const MinhaVTable g_minhaVTableOriginal = { MinhaClasse_MeuMetodo, MinhaClasse_MeuOutroMetodo };</p>
 <p>static const MinhaVTable g_minhaVTableVersao75 = { MinhaClasse_MeuMetodo, MinhaClasse_MeuOutroMetodoVersao75 };</p>
 <p>int main()</p>
+<p>{</p>
 <p>	MinhaClasse obj = { &g_minhaVTableOriginal };</p>
 <p>	MinhaClasse obj2 = { &g_minhaVTableVersao75 };</p>
 <p>	obj.VTable->MeuMetodo(&obj);</p>
 <p>	obj2.VTable->MeuMetodo(&obj2);</p>
 <p>	printf("MinhaPropriedade (obj) = %d\n", obj.MinhaPropriedade);</p>
 <p>	printf("MinhaPropriedade (obj2) = %d\n", obj2.MinhaPropriedade);</p>
+<p>}</p>
 <p>```</p>
 <p>{{< image src="tRAtU9d.png" caption="" >}}</p>
+<p>A versão C ainda tem a vantagem de não precisar de uma vtable const (embora seja adequado em situações normais de temperatura e pressão). Os "métodos" poderiam mudar caso algum estado mudasse, alguma exceção fosse disparada, mantendo o mesmo contexto, mas um comportamento (vtable) diferente. Quem utiliza muito essa estratégia é o _kernel_ do Windows, que mexe com estruturas que contém não apenas listas ligadas genéricas, mas funções de _callback_ que não apenas o código da Microsoft precisa chamar, mas os próprios _drivers_ de terceiros que se preocupam com bom comportamento e _guidelines_ que tornam o SO rodando perfeitamente.</p>
 <p>{{< image src="k20fqVJ.gif" caption="" >}}</p>
+<p>O importante deste artigo é demonstrar como conceitos aparentemente complicados ou escondidos de uma linguagem como C++ podem ser compreendidos completamente utilizando apenas linguagem de alto nível no bom e velho C. Essa estratégia de descer camadas de abstração, como verá, funciona para linguagens de mais alto nível, como C# ou Java, pois ambas são implementadas em linguagens como C++. No fundo, engenharia de software é um universo multi-camadas transitando pela última camada que conhecemos -- a física. Pelo menos a última camada que ainda conhecemos.</p>
 <p>[post anterior]: {{< relref "classe-objeto-contexto-metodo" >}}</p>
 <p>[há muito tempo atrás]: {{< relref "vtable" >}}</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

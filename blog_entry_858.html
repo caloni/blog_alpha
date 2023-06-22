@@ -71,30 +71,165 @@
   <div class="content">
 <p>Como pudemos ver no [artigo anterior] o processo para carregar uma DLL pelo WinDbg é muito extenso, enfadonho e sujeito a erros. Além de desatualizado (com comandos de assembly 32 bits). Por esse motivo, e para tornar as coisas mais divertidas, resolvi transformar tudo aquilo em um simples script que pode ser executado digitando apenas uma linha. Tenha em mente que este artigo continua desatualizado usando assembly 32 bits e hoje é uma mera curiosidade para aprendizado do passado. E se trata do meu primeiro script grande para o WinDbg, por isso, peço que tenham dó de mim =).</p>
 <p>Um script no WinDbg nada mais é que uma execução em batch: um arquivo texto cheio de comandos que poderíamos digitar manualmente, mas que preferimos guardar para poupar nossos dedos. Existem quatro maneiras diferentes de chamar um script no WinDbg, todas muito parecidas, variando apenas se são permitidos espaços antes do nome do arquivo e se os comandos são condensados, isto é, as quebras de linhas substituídas por ponto-e-vírgula para executar tudo em uma linha só.</p>
+<p>	</p>
 <p> - $<nome-do-arquivo - não permite espaços e condensa comandos.</p>
 <p> - $><nome-do-arquivo - não permite espaços e não condensa comandos.</p>
 <p> - $$<nome-do-arquivo - permite espaços e condensa comandos.</p>
 <p> - $$><nome-do-arquivo - permite espaços e não condensa comandos.</p>
 <p> - $$>a<nome-do-arquivo - igual ao anterior, e ainda permite passar argumentos.</p>
+<p>A ajuda do WinDbg descreve as diferenças dos comandos acima de forma adversa, afirmando que os comandos '<'  não condensam as linhas e os '><' o fazem, quando na realidade é o contrário. Não se deixe enganar por esse detalhe. No caso do script desse artigo, utilizaremos a última forma, pois precisamos de um argumento para funcionar: o nome da DLL. Caso você não digite esse argumento, a ajuda do script será impressa:</p>
+<p>    How to use:</p>
+<p>    $$>a<path\LoadLibrary.txt mydll.dll</p>
+<p>    $$>a<path\LoadLibrary.txt c:\\path\\mydll.dll</p>
+<p>    $$>a<path\LoadLibrary.txt "c:\\path with space\\mydll.dll"</p>
 <p>Não há qualquer dificuldade. Tudo que você tem que fazer é baixar o [script que carrega DLLs] e salvá-lo em um lugar de sua preferência. Depois é só digitar o comando que carrega scripts, o path de nosso script e o nome da DLL a ser carregada em uma das três formas exibidas. Eu costumo criar uma pasta chamada "scripts" dentro do diretório de instalação do Debugging Tools, o que quer dizer que posso simplesmente chamar todos meus scripts (ou seja, 1) dessa maneira:</p>
+<p>    </p>
+<p>    $$>a<scripts\LoadLibrary.txt mydll.dll</p>
 <p>Abaixo um pequeno teste que fiz carregando a DLL do Direct Draw (ddraw.dll) na nossa vítima de plantão:</p>
+<p>    windbg notepad.exe</p>
+<p>    Microsoft (R) Windows Debugger Version 6.8.0004.0 X86</p>
+<p>    Copyright (c) Microsoft Corporation. All rights reserved.</p>
+<p>    CommandLine: notepad.exe</p>
+<p>    Symbol search path is: SRV*C:\Symbols*http://msdl.microsoft.com/downloads/symbols</p>
+<p>    Executable search path is:</p>
+<p>    ModLoad: 01000000 01014000   notepad.exe</p>
+<p>    ModLoad: 7c900000 7c9b0000   ntdll.dll</p>
+<p>    ModLoad: 7c800000 7c8f5000   C:\WINDOWS\system32\kernel32.dll</p>
+<p>    ...</p>
+<p>    ModLoad: 73000000 73026000   C:\WINDOWS\system32\WINSPOOL.DRV</p>
+<p>    (8e8.214): Break instruction exception - code 80000003 (first chance)</p>
+<p>    eax=001a1eb4 ebx=7ffdf000 ecx=00000000 edx=00000001 esi=001a1f48 edi=001a1eb4</p>
+<p>    eip=7c901230 esp=0007fb20 ebp=0007fc94 iopl=0         nv up ei pl nz na po nc</p>
+<p>    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000202</p>
+<p>    ntdll!DbgBreakPoint:</p>
+<p>    7c901230 cc              int     3</p>
+<p>    0:000> $$>addraw.dll</p>
+<p>    ModLoad: 73bc0000 73bc6000   C:\WINDOWS\system32\DCIMAN32.dll</p>
+<p>    ModLoad: 76390000 763ad000   C:\WINDOWS\system32\IMM32.DLL</p>
+<p>    ModLoad: 629c0000 629c9000   C:\WINDOWS\system32\LPK.DLL</p>
+<p>    ModLoad: 74d90000 74dfb000   C:\WINDOWS\system32\USP10.dll</p>
+<p>    Freed 0 bytes starting at 00280000</p>
+<p>    eax=001a1eb4 ebx=7ffdf000 ecx=00000000 edx=00000001 esi=001a1f48 edi=001a1eb4</p>
+<p>    eip=7c901230 esp=0007fb20 ebp=0007fc94 iopl=0         nv up ei pl nz na po nc</p>
+<p>    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000202</p>
+<p>    ntdll!DbgBreakPoint:</p>
+<p>    7c901230 cc              int     3</p>
 <p>Simples e indolor. Vamos agora dar uma olhada no script completo e dissecar as linhas pausadamente. Dessa forma entenderemos como a função inteira funciona e como usar os comandos isoladamente para criar novos scripts.</p>
+<p>    $$</p>
+<p>    $$ @brief Loads a module inside the debuggee process.</p>
+<p>    $$ @author Wanderley Caloni <wanderley@caloni.com.br></p>
+<p>    $$ @date 2007-11</p>
+<p>    $$</p>
+<p>    .if( ${/d:$arg1} )</p>
+<p>    {</p>
+<p>        r $t2 = @$ip</p>
+<p>        .foreach /pS 5 ( addr { .dvalloc 0x1000 } ) { r$t0 = addr }</p>
+<p>        r $t1 = @$t0 + 0x100</p>
+<p>        eza @$t0 "${$arg1}"</p>
+<p>        .echo Trying to load the following module:</p>
+<p>        da @$t0</p>
+<p>        $$ push $ip</p>
+<p>        eb @$t1 0x68</p>
+<p>        ed @$t1 + 0x01 @$t2</p>
+<p>        $$ pushfd</p>
+<p>        eb @$t1 + 0x05 0x9c</p>
+<p>        $$ pushad</p>
+<p>        eb @$t1 + 0x06 0x60</p>
+<p>        $$ push $t0</p>
+<p>        eb @$t1 + 0x07 0x68</p>
+<p>        ed @$t1 + 0x08 @$t0</p>
+<p>        $$ call LoadLibrary</p>
+<p>        eb @$t1 + 0x0c 0xe8</p>
+<p>        ed @$t1 + 0x0d ( kernel32!LoadLibraryA - @$t1 - 0x11 )</p>
+<p>        $$ popad</p>
+<p>        eb @$t1 + 0x11 0x61</p>
+<p>        $$ popfd</p>
+<p>        eb @$t1 + 0x12 0x9d</p>
+<p>        $$ ret</p>
+<p>        eb @$t1 + 0x13 0xc3</p>
+<p>        r $ip = @$t1</p>
+<p>        bp /1 @$t2 ".dvfree @$t0 0"</p>
+<p>        g</p>
+<p>    }</p>
+<p>    .else</p>
+<p>    {</p>
+<p>       .echo How to use:</p>
+<p>       .echo $$>a<path\LoadLibrary.txt mydll.dll</p>
+<p>       .echo $$>a<path\LoadLibrary.txt c:\\path\\mydll.dll</p>
+<p>       .echo $$>a<path\LoadLibrary.txt "c:\\path with space\\mydll.dll"</p>
+<p>    }</p>
 <p>Como podemos ver, ele é um pouco grandinho. Por isso mesmo que ele é um script, já que não precisamos, sempre que formos usar este comando, ficar olhando para o fonte. Por falar em olhar, uma primeira olhada revela a seguinte estrutura:</p>
+<p>    </p>
+<p>    .if( ${/d:$arg1} )</p>
+<p>    {</p>
+<p>       ...</p>
+<p>    }</p>
+<p>    .else</p>
+<p>    {</p>
+<p>       ...</p>
+<p>    }</p>
 <p>Qualquer semelhança com as instruções em C não é mera coincidência. Essa estrutura de fato verifica se o resultado dentro do .if é verdadeiro. No caso o script verifica se o primeiro parâmetro foi passado, já que os argumentos são acessíveis através dos alias (apelidos) $arg1 - $argn. Essa maneira de usar os argumentos passados no WinDbg ainda não foi documentada, mas encontrei essa dica em [um artigo do Roberto Farah], um grande escritor de scripts para o WinDbg.</p>
 <p>Da mesma forma, o que não deve ser nenhuma surpresa, o WinDbg suporta comentários. Todas as linhas que contêm '$$' isoladamente são comentários, e seu conteúdo da direita é ignorado, salvo se for encontrado um ponto-e-vírgula. A primeira coisa que fazemos para carregar a DLL é salvar o estado do registrador IP, que indica onde está a próxima instrução:</p>
+<p>    </p>
+<p>        r $t2 = @$ip</p>
 <p>Feito isso, usamos um comando não tão comum, mas que pode ser muito útil nos casos em que precisamos capturar algum dado da saída de um comando do WinDbg e usá-lo em outro comando. A estrutura do .foreach deixa o usuário especificar dois grupos de comandos: o primeiro grupo irá gerar uma saída que pode ser aproveitada no segundo grupo.</p>
+<p>    </p>
+<p>    .foreach /pS 5 $$pula; ( addr $$alias; { .dvalloc 0x1000 $$saída; } ) { r$t0 = addr }</p>
+<p>A opção "/pS 5" diz ao comando para pular 5 posições antes de capturar o token que será usado no próximo comando. Os tokens são divididos por espaço. Sendo a saída de ".dvalloc 0x1000" o "Allocated 1000 bytes starting at 00280000". Pulando 5 posições iremos capturar o endereço onde a memória foi alocada. E é isso mesmo que queremos!</p>
+<p>    1         2    3     4        5  6</p>
+<p>    Allocated 1000 bytes starting at 00280000</p>
+<p>O sinônimo do endereço (alias) se torna "addr", apelido que usamos ao executar o segundo comando, que armazena o endereço no registrador temporário $t0:</p>
+<p>    </p>
+<p>    r$t0 = addr</p>
 <p>Após alocada a memória, gravamos o parâmetro de LoadLibrary, o path da DLL a ser carregada, em seu início.</p>
+<p>    </p>
+<p>    eza @$t0 "${$arg1}"</p>
+<p>O código assembly que irá chamar fica um ponto à frente, mas na mesma memória alocada.</p>
+<p>    </p>
+<p>    r $t1 = @$t0 + 0x100</p>
 <p>Conforme as técnicas vão cada vez ficando mais "não-usuais", mais difícil fica achar um nome para a coisa. Essa técnica de escrever o assembly de um código através de escritas em hexadecimal dentro de um script do WinDbg eu chamei de "script assembly". Se tiver um nome melhor, não se acanhe em usá-lo. E me deixe saber =).</p>
+<p>    $$ push $ip</p>
+<p>    eb @$t1 0x68</p>
+<p>    ed @$t1 + 0x01 @$t2</p>
+<p>    $$ pushfd</p>
+<p>    eb @$t1 + 0x05 0x9c</p>
+<p>    $$ pushad</p>
+<p>    eb @$t1 + 0x06 0x60</p>
+<p>    $$ push $t0</p>
+<p>    eb @$t1 + 0x07 0x68</p>
+<p>    ed @$t1 + 0x08 @$t0</p>
+<p>    $$ call LoadLibrary</p>
+<p>    eb @$t1 + 0x0c 0xe8</p>
+<p>    ed @$t1 + 0x0d ( kernel32!LoadLibraryA - @$t1 - 0x11 )</p>
+<p>    $$ popad</p>
+<p>    eb @$t1 + 0x11 0x61</p>
+<p>    $$ popfd</p>
+<p>    eb @$t1 + 0x12 0x9d</p>
+<p>    $$ ret</p>
+<p>    eb @$t1 + 0x13 0xc3</p>
 <p>Cada comentário de uma instrução em assembly é seguido pela escrita dessa instrução usando o comando e. Se trata de um código bem trivial, fora alguns detalhes que merecem mais atenção.</p>
 <p>Os comandos acima servem para salvar e restaurar o estado dos registradores e das flags de execução. Isso permite que possamos executar o código virtualmente em qualquer posição que pararmos no código depurado, já que retornamos tudo como estava ao final da execução do LoadLibrary. É claro que isso não garante que o código estará 100% estável em todas as condições, mas já ajuda um bocado.</p>
 <p>Uma chamada através do opcode call (código em hexa 0xe80c) é bem comum e se trata de uma chamada relativa, baseada no estado do Instruction Pointer atual mais o valor especificado. Por isso mesmo que fazemos o cálculo usando o endereço de onde será escrita a próxima instrução, que é o valor que teremos em IP quando este call for executado:</p>
+<p>    ( kernel32!LoadLibraryA - @$t1 - 0x11 )</p>
 <p>Quando o código estiver completamente escrito na memória alocada, um disassembly dele retornará algo parecido com o código abaixo:</p>
+<p>    push offset ntdll!DbgBreakPoint (7c901230) ; empilhamos o IP atual (endereço de retorno)</p>
+<p>    pushfd ; salva estado das flags atual</p>
+<p>    pushad ; salva estado dos registradores atual</p>
+<p>    push 8F0000h ; empilha endereço do path da dll a ser carregada</p>
+<p>    call kernel32!LoadLibraryA (7c801d77) ; chamamos LoadLibraryA</p>
+<p>    popad ; restaura estado dos registradores</p>
+<p>    popfd ; restaura estado das flags</p>
+<p>    ret ; retorna para o ponto onde o depurador parou (no caso, 7c901230)</p>
 <p>Você pode ver com seus próprio olhos se editar o script comentando o último comando (g), executando o script e executando o disassembly do IP.</p>
+<p>    u @$ip</p>
 <p>Somos um script bem comportado (na medida do possível) e por isso colocamos um breakpoint temporário no final para, quando retornarmos para o código atual, desalocarmos a memória usada para a escrita e execução das instruções.</p>
+<p>    bp /1 @$t2 ".dvfree @$t0 0"</p>
 <p>Eu não me responsabilizo por qualquer (mau) uso do script aqui disponibilizado, assim como as eventuais perdas de código-fonte, trilhas de HD e placas de memória RAM pela sua execução. Assim sendo, bom divertimento.</p>
+<p>O criador do [DriverEntry](http://www.driverentry.com.br) me questionou se não seria mais fácil, em vez de escrever todos os opcodes em hexa, usar o comando a, que permite entrar o código assembly diretamente a partir de um endereço especificado. Essa realmente é uma ótima idéia, e de fato eu tentei isso no começo de meus testes. Porém, infelizmente para scripts isso não funciona bem. A partir do comando a o prompt fica esperando uma entrada do usuário, não lendo o assembly que estaria no próprio script. Pior ainda, a escrita do assembly não permite usar os registradores temporários, como $t0 ou $t1, o que nos força a escrever um código dependende de valores constantes. Por esses motivos, tive que apelar para o comando e, que é a forma mais confusa de escrever e entender assembly. Nesse tipo de edição é vital comentar bem cada linha que se escreve.</p>
 <p>[artigo anterior]: {{< relref "carregando-dlls-arbitrarias-pelo-windbg" >}}</p>
 <p>[script que carrega DLLs]: loadlibrary.txt</p>
 <p>[um artigo do Roberto Farah]: https://docs.microsoft.com/en-us/archive/blogs/debuggingtoolbox/windbg-script-get-portable-executable-headers</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

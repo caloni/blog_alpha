@@ -84,9 +84,13 @@
 <p>(python27) D:\deploy>pushd d:\src\MyFictionalPackage</p>
 <p>(python27) d:\src\MyFictionalPackage>pip install -r requirements.txt</p>
 <p>Collecting cx-Freeze==5.1.1 (from -r requirements.txt (line 1))</p>
+<p>  Using cached https://files.pythonhosted.org/packages/ba/d7/e5a699abbc04df31d28750bd4f7715f75452c57c6ea7f05acff0bc26873d/cx_Freeze-5.1.1-cp27-cp27m-win32.whl</p>
 <p>Collecting protobuf==3.6.0 (from -r requirements.txt (line 2))</p>
+<p>  Using cached https://files.pythonhosted.org/packages/85/f8/d09e4bf21c4de65405ce053e90542e728c5b7cf296b9df36b0bf0488f534/protobuf-3.6.0-py2.py3-none-any.whl</p>
 <p>Collecting pyodbc==4.0.23 (from -r requirements.txt (line 3))</p>
+<p>  Using cached https://files.pythonhosted.org/packages/fe/0c/3fa53bf0f1779ef3e3a81e474d1e8db924b7398dc12f2fe9b2c9f1bf392d/pyodbc-4.0.23-cp27-cp27m-win32.whl</p>
 <p>Collecting six==1.11.0 (from -r requirements.txt (line 4))</p>
+<p>  Using cached https://files.pythonhosted.org/packages/67/4b/141a581104b1f6397bfa78ac9d43d8ad29a7ca43ea90a2d863fe3056e86a/six-1.11.0-py2.py3-none-any.whl</p>
 <p>Requirement already satisfied: setuptools in d:\deploy\python27\lib\site-packages (from protobuf==3.6.0->-r requirements.txt (line 2)) (40.0.0)</p>
 <p>Installing collected packages: cx-Freeze, six, protobuf, pyodbc</p>
 <p>Successfully installed cx-Freeze-5.1.1 protobuf-3.6.0 pyodbc-4.0.23 six-1.11.0</p>
@@ -97,6 +101,26 @@
 <p>(python27) d:\src\MyFictionalPackage>python setup.py build_exe</p>
 <p>running build_exe</p>
 <p>Traceback (most recent call last):</p>
+<p>  File "setup.py", line 19, in <module></p>
+<p>    executables=exe</p>
+<p>  File "D:\deploy\python27\lib\site-packages\cx_Freeze\dist.py", line 349, in setup</p>
+<p>    distutils.core.setup(**attrs)</p>
+<p>  File "c:\programs\python27\Lib\distutils\core.py", line 151, in setup</p>
+<p>    dist.run_commands()</p>
+<p>  File "c:\programs\python27\Lib\distutils\dist.py", line 953, in run_commands</p>
+<p>    self.run_command(cmd)</p>
+<p>  File "c:\programs\python27\Lib\distutils\dist.py", line 972, in run_command</p>
+<p>    cmd_obj.run()</p>
+<p>  File "D:\deploy\python27\lib\site-packages\cx_Freeze\dist.py", line 219, in run</p>
+<p>    freezer.Freeze()</p>
+<p>  File "D:\deploy\python27\lib\site-packages\cx_Freeze\freezer.py", line 616, in Freeze</p>
+<p>    self.finder = self._GetModuleFinder()</p>
+<p>  File "D:\deploy\python27\lib\site-packages\cx_Freeze\freezer.py", line 340, in _GetModuleFinder</p>
+<p>    finder.IncludeModule(name)</p>
+<p>  File "D:\deploy\python27\lib\site-packages\cx_Freeze\finder.py", line 651, in IncludeModule</p>
+<p>    namespace = namespace)</p>
+<p>  File "D:\deploy\python27\lib\site-packages\cx_Freeze\finder.py", line 351, in _ImportModule</p>
+<p>    raise ImportError("No module named %r" % name)</p>
 <p>ImportError: No module named 'google.protobuf'</p>
 <p>(python27) d:\src\MyFictionalPackage></p>
 <p>```</p>
@@ -109,7 +133,11 @@
 <p>14/07/2018  14:15    <DIR>          .</p>
 <p>14/07/2018  14:15    <DIR>          ..</p>
 <p>14/07/2018  14:15    <DIR>          protobuf</p>
+<p>               0 File(s)              0 bytes</p>
+<p>               3 Dir(s)  102.341.001.216 bytes free</p>
 <p>(python27) d:\src\MyFictionalPackage>copy con d:\deploy\python27\Lib\site-packages\google\\_\_init\_\_.py</p>
+<p>^Z</p>
+<p>        1 file(s) copied.</p>
 <p>(python27) d:\src\MyFictionalPackage>dir d:\deploy\python27\Lib\site-packages\google</p>
 <p> Volume in drive D is SYSTEM</p>
 <p> Volume Serial Number is 5C08-36EE</p>
@@ -118,6 +146,8 @@
 <p>14/07/2018  14:19    <DIR>          ..</p>
 <p>14/07/2018  14:15    <DIR>          protobuf</p>
 <p>14/07/2018  14:19                 0 __init__.py</p>
+<p>               1 File(s)              0 bytes</p>
+<p>               3 Dir(s)  102.341.001.216 bytes free</p>
 <p>(python27) d:\src\MyFictionalPackage></p>
 <p>```</p>
 <p>Após essa pequena operação já será possível gerar o executável com sucesso:</p>
@@ -129,8 +159,51 @@
 <p>*** WARNING *** unable to create version resource</p>
 <p>install pywin32 extensions first</p>
 <p>writing zip file build\exe.win32-2.7\lib\library.zip</p>
+<p>  Name                      File</p>
+<p>  ----                      ----</p>
+<p>m BUILD_CONSTANTS</p>
+<p>m Objects_pb2               d:\src\MyFictionalPackage\Objects_pb2.py</p>
+<p>P Scripts                   d:\src\MyFictionalPackage\Scripts\__init__.py</p>
+<p>m StringIO                  c:\programs\python27\Lib\StringIO.py</p>
+<p>m UserDict                  D:\deploy\python27\lib\UserDict.py</p>
+<p>m __builtin__</p>
+<p>m __future__                c:\programs\python27\Lib\__future__.py</p>
+<p>m __main__</p>
+<p>m __startup__               D:\deploy\python27\lib\site-packages\cx_Freeze\initscripts\__startup__.py</p>
+<p>m _abcoll                   D:\deploy\python27\lib\_abcoll.py</p>
+<p>m _codecs</p>
+<p>m _codecs_cn</p>
+<p>m _codecs_hk</p>
+<p>m _codecs_iso2022</p>
 <p>... lots and lots of dependencies ...</p>
+<p>m unittest.result           c:\programs\python27\Lib\unittest\result.py</p>
+<p>m unittest.runner           c:\programs\python27\Lib\unittest\runner.py</p>
+<p>m unittest.signals          c:\programs\python27\Lib\unittest\signals.py</p>
+<p>m unittest.suite            c:\programs\python27\Lib\unittest\suite.py</p>
+<p>m unittest.util             c:\programs\python27\Lib\unittest\util.py</p>
+<p>m warnings                  D:\deploy\python27\lib\warnings.py</p>
+<p>m weakref                   c:\programs\python27\Lib\weakref.py</p>
+<p>m zipimport</p>
+<p>m zlib</p>
 <p>Missing modules:</p>
+<p>? _emx_link imported from os</p>
+<p>? ce imported from os</p>
+<p>? fcntl imported from subprocess</p>
+<p>? google.protobuf._use_fast_cpp_protos imported from google.protobuf.internal.api_implementation</p>
+<p>? google.protobuf.enable_deterministic_proto_serialization imported from google.protobuf.internal.api_implementation</p>
+<p>? google.protobuf.internal._api_implementation imported from google.protobuf.internal.api_implementation</p>
+<p>? google.protobuf.internal.use_pure_python imported from google.protobuf.internal.api_implementation</p>
+<p>? google.protobuf.pyext._message imported from google.protobuf.descriptor, google.protobuf.internal.api_implementation, google.protobuf.pyext.cpp_message</p>
+<p>? ordereddict imported from google.protobuf.json_format</p>
+<p>? org.python.core imported from copy, pickle</p>
+<p>? os.path imported from os, pkgutil, shlex</p>
+<p>? os2 imported from os</p>
+<p>? os2emxpath imported from os</p>
+<p>? posix imported from os</p>
+<p>? pwd imported from posixpath</p>
+<p>? riscos imported from os</p>
+<p>? riscosenviron imported from os</p>
+<p>? riscospath imported from os</p>
 <p>This is not necessarily a problem - the modules may not be needed on this platform.</p>
 <p>copying c:\programs\python27\DLLs\_hashlib.pyd -> build\exe.win32-2.7\lib\_hashlib.pyd</p>
 <p>copying C:\WINDOWS\SYSTEM32\python27.dll -> build\exe.win32-2.7\lib\python27.dll</p>
@@ -154,10 +227,22 @@
 <p>import os</p>
 <p>from cx_Freeze import setup, Executable</p>
 <p>exe = [</p>
+<p>        Executable('MyFictionalPackage.py')</p>
+<p>]</p>
 <p>option = { 'build_exe' : {</p>
+<p>        'path' : sys.path.append(os.getcwd()),</p>
+<p>        'includes' : ['google.protobuf', 'pkgutil', 'pyodbc', 'decimal'],</p>
+<p>    }</p>
+<p>}</p>
 <p>setup(name = "teste_cx_Freeze",</p>
+<p>        version = "0.1",</p>
+<p>        description = "",</p>
+<p>        options = option,</p>
+<p>        executables=exe</p>
+<p>)</p>
 <p>(python27) d:\src\MyFictionalPackage></p>
 <p>```</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

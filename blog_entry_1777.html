@@ -71,32 +71,112 @@
   <div class="content">
 <p>Ainda estudando e praticando testes de entrevista me veio essa em que seja possível realizar somas para todas as chaves de uma hash table. Curioso, nunca tinha pensado nesta feature. Imagine que temos uma tabela de hash entre inteiros em que `{ 1: 8, 2: 9 }`. A chave corresponde ao hash.</p>
 <p>```</p>
+<p>| -5: | -4: | -3: | -2: | -1: | 0: | 1:8 | 2:9 | 3: | 4: | 5: |...</p>
 <p>```</p>
 <p>Então eu aplico um comando na tabela inteira adicionando o valor 2 às chaves, fazendo seus elementos irem parar duas posições à frente de onde estavam. A posição 1 vira 3 e a posição 2 vira 5, mantendo os mesmos valores.</p>
 <p>```</p>
+<p>| -5: | -4: | -3: | -2: | -1: | 0: | 1: | 2: | 3: | 4:8 | 5:9 |...</p>
 <p>```</p>
 <p>Em primeiro momento eu pensei em mover posições em um vetor para resolver esta questão, mas em seguida descobri que a mesma lógica pode ser aplicada a números negativos, o que deixou tudo muito confuso na minha cabeça.</p>
 <p>Depois de pensar em uma caminhada cheguei à conclusão que não é necessário ficar movendo memória uma vez que as posições relativas se mantém. Com base nisso eu desenvolvi a lógica de apenas manter um referencial do início "real" da tabela, ou seja, qual valor deve ser adicionado para se chegar à posição real após os deslocamentos. Dessa forma a posição na memória dos elementos permanece a mesma, mas do ponto de vista de indexação eles estariam, no exemplo acima, duas posições à frente. Para isso eu colocaria meu indexador duas posições atrás.</p>
 <p>```</p>
+<p>| -5: | -4: | -3: | -2: | -1: | 0: | 1:8 | 2:9 | 3: | 4: | 5: |...</p>
+<p>                              |</p>
+<p>                              beg    1     2     3    4    5   ...</p>
 <p>add_to_key 2</p>
+<p>| -5: | -4: | -3: | -2: | -1: | 0: | 1:8 | 2:9 | 3: | 4: | 5: |...</p>
+<p>                  |</p>
+<p>                  beg      1    2    3     4     5   ...</p>
 <p>```</p>
 <p>Agora sempre que alguém referenciar a posição 0 ela estará em -2 e assim por diante. Como a posição dentro de um array não precisa ser alterada não me preocupei em atualizar as chaves, apenas os campos internos de uma hash table: sua chave e valor.</p>
+<p>A implementação não ficou exatamente assim, pois arrays não possuem índices negativos em C++. Para implementar eu já iniciei meu contador de início na metade do array, permitindo índices positivos e negativos na faixa de 100 elementos para cada lado.</p>
 <p>```</p>
 <p>struct HashTable {</p>
+<p>    typedef vector<vector<int>> BufferType;</p>
+<p>    HashTable(int tableSize) {</p>
+<p>        this->tableSize = tableSize;</p>
+<p>        bufferRaw = new BufferType[tableSize];</p>
+<p>        buffer = shared_ptr<BufferType>(bufferRaw, default_delete<BufferType[]>());</p>
+<p>        currentPosition = tableSize / 2; // for positive and negative room</p>
+<p>    }</p>
+<p>    BufferType& operator [] (int position) {</p>
+<p>        int actualPosition = (currentPosition + position) % tableSize;</p>
+<p>        return buffer.get()[actualPosition];</p>
+<p>    }</p>
+<p>    int tableSize;</p>
+<p>    shared_ptr<BufferType> buffer;</p>
+<p>    vector<vector<int>>* bufferRaw;</p>
+<p>    int currentPosition;</p>
+<p>};</p>
 <p>int HashFunction(int key, int tableSize) {</p>
+<p>    return key % tableSize;</p>
+<p>}</p>
 <p>vector<int>* FindItem(HashTable& hashTable, int key) {</p>
+<p>    for (vector<int>& items : hashTable[HashFunction(key, hashTable.tableSize)]) {</p>
+<p>        if (items[0] == key) {</p>
+<p>            return &items;</p>
+<p>        }</p>
+<p>    }</p>
+<p>    return nullptr;</p>
+<p>}</p>
 <p>```</p>
 <p>Uma parte importante no código acima é entender que a hash function apenas pega o resto da divisão do tamanho da tabela. Porém, o método de subscrito da tabela considera onde ela começa, o `currentPosition`, que pode ser em qualquer lugar, dependendo das movimentações do usuário.</p>
 <p>```</p>
 <p>int actualPosition = (currentPosition + position) % tableSize;</p>
 <p>```</p>
+<p>O código que realiza as operações de fato apenas busca ou modifica valores:</p>
 <p>```</p>
 <p>vector<int> TestCase(vector<string> operations, vector<vector<int>> operands) {</p>
+<p>    HashTable hashTable(DEFAULT_HASH_TABLE_SIZE);</p>
+<p>    vector<int> results;</p>
+<p>    for( int i = 0; i < operations.size(); ++i ) {</p>
+<p>        if (operations[i] == "get") {</p>
+<p>            if (auto* item = FindItem(hashTable, operands[i][0]))</p>
+<p>                results.push_back((*item)[1]);</p>
+<p>        }</p>
+<p>        else if (operations[i] == "insert") {</p>
+<p>            if (auto* item = FindItem(hashTable, operands[i][0]))</p>
+<p>                (*item)[1] = operands[i][1];</p>
+<p>            else</p>
+<p>                hashTable[HashFunction(operands[i][0], hashTable.tableSize)].push_back(operands[i]);</p>
+<p>        }</p>
+<p>        else if (operations[i] == "add_to_values") {</p>
+<p>            for (int j = 0; j < hashTable.tableSize; ++j)</p>
+<p>                for (auto& item : hashTable[j])</p>
+<p>                    item[1] += operands[i][0];</p>
+<p>        }</p>
+<p>        else if (operations[i] == "add_to_keys") {</p>
+<p>            for (int j = 0; j < hashTable.tableSize; ++j)</p>
+<p>                for (auto& item : hashTable[j])</p>
+<p>                    item[0] += operands[i][0];</p>
+<p>            hashTable.currentPosition -= operands[i][0];</p>
+<p>        }</p>
+<p>    }</p>
+<p>    return results;</p>
+<p>}</p>
 <p>```</p>
 <p>Um teste simples de rotacionamento de índices na hash table:</p>
 <p>```</p>
 <p>void TestCase005() {</p>
+<p>    vector<string> operations;</p>
+<p>    vector<vector<int>> operands;</p>
+<p>    operations.push_back("insert");</p>
+<p>    operands.push_back({ 1, 2 });</p>
+<p>    operations.push_back("insert");</p>
+<p>    operands.push_back({ 2, 3 });</p>
+<p>    operations.push_back("add_to_values");</p>
+<p>    operands.push_back({ 2 });</p>
+<p>    operations.push_back("add_to_keys");</p>
+<p>    operands.push_back({ -150 });</p>
+<p>    operations.push_back("get");</p>
+<p>    operands.push_back({ -148 });</p>
+<p>    vector<int> results = TestCase(operations, operands);</p>
+<p>    assert(results.size() == 1);</p>
+<p>    assert(results[0] == 5);</p>
+<p>}</p>
 <p>```</p>
+<p>E dessa forma é possível gastar apenas O(N) para atualizar chaves ou valores dentro de uma hash table, sem movimentação de memória alguma.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

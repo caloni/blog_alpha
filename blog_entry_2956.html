@@ -69,21 +69,425 @@
   </a>
   </p>
   <div class="content">
+<p>O livro que estou lendo, Dominando Algoritmo com C, como o próprio nome diz, fala sobre algoritmos em C. Os primeiros capítulos são praticamente uma revisão para quem já programou em C, pois tratam de coisas que programadores com mais de cinco anos de casa devem ter na memória cachê (listas, pilhas, recursão, etc). Porém, tive uma agradável surpresa de achar um truque muito sabido que não conhecia, chamado de [tail recursion]. Fiz questão de testar nos dois compiladores mais conhecidos e eis o resultado.</p>
 <p>Imagine uma função recursiva que calcula o [fatorial](http://pt.wikipedia.org/wiki/Fatorial) de um número. Apenas para lembrar, o fatorial de um número n é igual a n * n-1 * n-2 * n-3 até o número 1. Existem implementações iterativas (com um laço for, por exeplo) e recursivas, que no caso chamam a mesma função n vezes.</p>
+<p>    int factorial(int n)</p>
+<p>    {</p>
+<p>    	if (n > 1)</p>
+<p>    		return factorial(n - 1) * n;</p>
+<p>    	else</p>
+<p>    		return 1;</p>
+<p>    }</p>
+<p>    </p>
+<p>    int main()</p>
+<p>    {</p>
+<p>    	return factorial(1000);</p>
+<p>    }</p>
 <p>Para ver o overhead de uma função dessas, compilamos com a opção de debug e depuramos no CDB.</p>
+<p>    >cl /Zi recursive-factorial1.c</p>
+<p>    >cdb recursive-factorial1.exe</p>
+<p>    </p>
+<p>    Microsoft (R) Windows Debugger Version 6.8.0004.0 X86</p>
+<p>    Copyright (c) Microsoft Corporation. All rights reserved.</p>
+<p>    </p>
+<p>    CommandLine: recursive-factorial1.exe</p>
+<p>    Symbol search path is: SRV*C:\Symbols*\\symbolserver\OSSYMBOLS</p>
+<p>    Executable search path is:</p>
+<p>    ModLoad: 00400000 0041e000   recursive-factorial1.exe</p>
+<p>    ModLoad: 7c900000 7c9b0000   ntdll.dll</p>
+<p>    ModLoad: 7c800000 7c8f5000   C:\WINDOWS\system32\kernel32.dll</p>
+<p>    (594.700): Break instruction exception - code 80000003 (first chance)</p>
+<p>    eax=00241eb4 ebx=7ffdb000 ecx=00000000 edx=00000001 esi=00241f48 edi=00241eb4</p>
+<p>    eip=7c901230 esp=0012fb20 ebp=0012fc94 iopl=0         nv up ei pl nz na po nc</p>
+<p>    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000202</p>
+<p>    ntdll!DbgBreakPoint:</p>
+<p>    7c901230 cc              int     3</p>
+<p>    0:000> bp factorial</p>
+<p>    *** WARNING: Unable to verify checksum for recursive-factorial1.exe</p>
+<p>    0:000> l+*</p>
+<p>      WARNING: Line information loading disabled</p>
+<p>    Source options are ffffffff:</p>
+<p>         1/t - Step/trace by source line</p>
+<p>         2/l - List source line at prompt</p>
+<p>         4/s - List source code at prompt</p>
+<p>         8/o - Only show source code at prompt</p>
+<p>    0:000> g</p>
+<p>    Breakpoint 0 hit</p>
+<p>    >    2: {</p>
+<p>    0:000> p</p>
+<p>    >    3:         if (n > 1)</p>
+<p>    0:000></p>
+<p>    >    4:                 return factorial(n - 1) * n;</p>
+<p>    0:000></p>
+<p>    Breakpoint 0 hit</p>
+<p>    >    2: {</p>
+<p>    0:000></p>
+<p>    >    3:         if (n > 1)</p>
+<p>    0:000></p>
+<p>    >    4:                 return factorial(n - 1) * n;</p>
+<p>    0:000></p>
+<p>    Breakpoint 0 hit</p>
+<p>    >    2: {</p>
+<p>    0:000></p>
+<p>    >    3:         if (n > 1)</p>
+<p>    0:000></p>
+<p>    >    4:                 return factorial(n - 1) * n;</p>
+<p>    0:000></p>
+<p>    Breakpoint 0 hit</p>
+<p>    >    2: {</p>
+<p>    0:000></p>
+<p>    >    3:         if (n > 1)</p>
+<p>    0:000></p>
+<p>    >    4:                 return factorial(n - 1) * n;</p>
+<p>    0:000></p>
+<p>    Breakpoint 0 hit</p>
+<p>    >    2: {</p>
+<p>    0:000></p>
+<p>    >    3:         if (n > 1)</p>
+<p>    0:000></p>
+<p>    >    4:                 return factorial(n - 1) * n;</p>
+<p>    0:000></p>
+<p>    Breakpoint 0 hit</p>
+<p>    >    2: {</p>
+<p>    0:000></p>
+<p>    >    3:         if (n > 1)</p>
+<p>    0:000> k</p>
+<p>    ChildEBP RetAddr</p>
+<p>    0012ff28 00401035 recursive_factorial1!factorial+0x3</p>
+<p>    0012ff34 00401035 recursive_factorial1!factorial+0x15</p>
+<p>    0012ff40 00401035 recursive_factorial1!factorial+0x15</p>
+<p>    0012ff4c 00401035 recursive_factorial1!factorial+0x15</p>
+<p>    0012ff58 00401035 recursive_factorial1!factorial+0x15</p>
+<p>    0012ff64 0040105d recursive_factorial1!factorial+0x15</p>
+<p>    0012ff70 00401268 recursive_factorial1!main+0xd</p>
+<p>    0012ffc0 7c816fd7 recursive_factorial1!__tmainCRTStartup+0x15f</p>
+<p>    0012fff0 00000000 kernel32!BaseProcessStart+0x23</p>
+<p>    0:000></p>
 <p>Ou seja, conforme chamamos a função recursivamente, a pilha tende a crescer. Agora imagine todo o overhead da execução, que precisa, a cada chamada, gerar um stack frame.</p>
+<p>A mesma coisa podemos notar se compilarmos o mesmo fonte no GCC e depurarmos pelo GDB. Aliás, a primeira participação especial do GDB nesse blogue =)</p>
+<p>    $ gcc -g recursive-factorial1.c</p>
+<p>    $ gdb a.exe</p>
+<p>    GNU gdb 6.5.50.20060706-cvs (cygwin-special)</p>
+<p>    Copyright (C) 2006 Free Software Foundation, Inc.</p>
+<p>    GDB is free software, covered by the GNU General Public License, and you are</p>
+<p>    welcome to change it and/or distribute copies of it under certain conditions.</p>
+<p>    Type "show copying" to see the conditions.</p>
+<p>    There is absolutely no warranty for GDB.  Type "show warranty" for details.</p>
+<p>    This GDB was configured as "i686-pc-cygwin"...</p>
+<p>    (gdb) break factorial</p>
+<p>    Breakpoint 1 at 0x401056: file recursive-factorial1.c, line 3.</p>
+<p>    (gdb) run</p>
+<p>    Starting program: /cygdrive/c/temp/a.exe</p>
+<p>    Loaded symbols for /cygdrive/c/WINDOWS/system32/ntdll.dll</p>
+<p>    Loaded symbols for /cygdrive/c/WINDOWS/system32/kernel32.dll</p>
+<p>    Loaded symbols for /usr/bin/cygwin1.dll</p>
+<p>    Loaded symbols for /cygdrive/c/WINDOWS/system32/advapi32.dll</p>
+<p>    Loaded symbols for /cygdrive/c/WINDOWS/system32/rpcrt4.dll</p>
+<p>    Breakpoint 1, factorial (n=1000) at recursive-factorial1.c:3</p>
+<p>    3               if (n > 1)</p>
+<p>    (gdb) step</p>
+<p>    4                       return factorial(n - 1) * n;</p>
+<p>    (gdb)</p>
+<p>    </p>
+<p>    Breakpoint 1, factorial (n=999) at recursive-factorial1.c:3</p>
+<p>    3               if (n > 1)</p>
+<p>    (gdb)</p>
+<p>    4                       return factorial(n - 1) * n;</p>
+<p>    (gdb)</p>
+<p>    </p>
+<p>    Breakpoint 1, factorial (n=998) at recursive-factorial1.c:3</p>
+<p>    3               if (n > 1)</p>
+<p>    (gdb)</p>
+<p>    4                       return factorial(n - 1) * n;</p>
+<p>    (gdb)</p>
+<p>    </p>
+<p>    Breakpoint 1, factorial (n=997) at recursive-factorial1.c:3</p>
+<p>    3               if (n > 1)</p>
+<p>    (gdb)</p>
+<p>    4                       return factorial(n - 1) * n;</p>
+<p>    (gdb)</p>
+<p>    </p>
+<p>    Breakpoint 1, factorial (n=996) at recursive-factorial1.c:3</p>
+<p>    3               if (n > 1)</p>
+<p>    (gdb)</p>
+<p>    4                       return factorial(n - 1) * n;</p>
+<p>    (gdb)</p>
+<p>    </p>
+<p>    Breakpoint 1, factorial (n=995) at recursive-factorial1.c:3</p>
+<p>    3               if (n > 1)</p>
+<p>    (gdb)</p>
+<p>    4                       return factorial(n - 1) * n;</p>
+<p>    (gdb)</p>
+<p>    </p>
+<p>    Breakpoint 1, factorial (n=994) at recursive-factorial1.c:3</p>
+<p>    3               if (n > 1)</p>
+<p>    (gdb)</p>
+<p>    4                       return factorial(n - 1) * n;</p>
+<p>    (gdb)</p>
+<p>    </p>
+<p>    Breakpoint 1, factorial (n=993) at recursive-factorial1.c:3</p>
+<p>    3               if (n > 1)</p>
+<p>    (gdb)</p>
+<p>    4                       return factorial(n - 1) * n;</p>
+<p>    (gdb) backtrace</p>
+<p>    #0  factorial (n=993) at recursive-factorial1.c:4</p>
+<p>    #1  0x00401068 in factorial (n=994) at recursive-factorial1.c:4</p>
+<p>    #2  0x00401068 in factorial (n=995) at recursive-factorial1.c:4</p>
+<p>    #3  0x00401068 in factorial (n=996) at recursive-factorial1.c:4</p>
+<p>    #4  0x00401068 in factorial (n=997) at recursive-factorial1.c:4</p>
+<p>    #5  0x00401068 in factorial (n=998) at recursive-factorial1.c:4</p>
+<p>    #6  0x00401068 in factorial (n=999) at recursive-factorial1.c:4</p>
+<p>    #7  0x00401068 in factorial (n=1000) at recursive-factorial1.c:4</p>
+<p>    #8  0x004010b3 in main () at recursive-factorial1.c:11</p>
+<p>    (gdb)</p>
 <p>Isso acontece porque o compilador é obrigado a montar um novo stack frame para cada chamada da mesma função, já que os valores locais precisam manter-se intactos até o retorno recursivo da função. Porém, existe uma otimização chamada de tail recursion, que ocorre se, e somente se (de acordo com meu livro):</p>
 <p> - A chamada recursiva é a última instrução que será executada no corpo da função.</p>
 <p> - O valor de retorno da chamada não é parte de uma expressão.</p>
 <p>Note que ser a última instrução não implica em ser a última linha da função, o importante é que seja a última linha executada. No nosso exemplo, isso já é fato, só que usamos o retorno em uma expressão.</p>
+<p>    </p>
+<p>    return factorial(n - 1) * n;</p>
+<p>    // o retorno da chamada recursiva </p>
+<p>    // é parte de uma expressão</p>
 <p>Por isso é necessário desenvolver uma segunda versão do código, que utiliza dois parâmetros para que aconteça a situação de tail recursion.</p>
+<p>    int factorial(int n, int a)</p>
+<p>    {</p>
+<p>    	if (n < 0)</p>
+<p>    		return 0;</p>
+<p>    	else if (n == 0)</p>
+<p>    		return 1;</p>
+<p>    	else if (n == 1)</p>
+<p>    		return a;</p>
+<p>    	else</p>
+<p>    		return factorial(n - 1, n * a);</p>
+<p>    }</p>
+<p>    </p>
+<p>    int main()</p>
+<p>    {</p>
+<p>    	return factorial(1000, 1);</p>
+<p>    }</p>
 <p>Nessa segunda versão, a chamada da função recursiva não mais é parte de uma expressão, e continua sendo a última instrução executada. Agora só temos que compilar com a opção de otimização certa em ambos os compiladores e testar.</p>
 <p>Para o Visual Studio, podemos usar a flag /Og (otimização global).</p>
+<p>    >cl /Zi /Og recursive-factorial2.c</p>
+<p>    >cdb recursive-factorial2.exe</p>
+<p>    </p>
+<p>    ...</p>
+<p>    bp factorial</p>
+<p>    g</p>
+<p>    ...</p>
+<p>    Breakpoint 0 hit</p>
+<p>    eax=003235f0 ebx=7c80abc1 ecx=00000001 edx=0041c560 esi=00000002 edi=00000a28</p>
+<p>    eip=00401020 esp=0012ff68 ebp=0012ffc0 iopl=0         nv up ei pl zr na pe nc</p>
+<p>    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246</p>
+<p>    recursive_factorial2!factorial:</p>
+<p>    00401020 55              push    ebp</p>
+<p>    0:000> l+*</p>
+<p>      WARNING: Line information loading disabled</p>
+<p>    Source options are ffffffff:</p>
+<p>         1/t - Step/trace by source line</p>
+<p>         2/l - List source line at prompt</p>
+<p>         4/s - List source code at prompt</p>
+<p>         8/o - Only show source code at prompt</p>
+<p>    0:000> p</p>
+<p>    >    3:         if (n < 0)</p>
+<p>    0:000></p>
+<p>    >    5:         else if (n == 0)</p>
+<p>    0:000></p>
+<p>    >    7:         else if (n == 1)</p>
+<p>    0:000></p>
+<p>    >   10:                 return factorial(n - 1, n * a);</p>
+<p>    0:000></p>
+<p>    >    5:         else if (n == 0)</p>
+<p>    0:000></p>
+<p>    >    7:         else if (n == 1)</p>
+<p>    0:000></p>
+<p>    >   10:                 return factorial(n - 1, n * a);</p>
+<p>    0:000></p>
+<p>    >    5:         else if (n == 0)</p>
+<p>    0:000></p>
+<p>    >    7:         else if (n == 1)</p>
+<p>    0:000></p>
+<p>    >   10:                 return factorial(n - 1, n * a);</p>
+<p>    0:000></p>
+<p>    >    5:         else if (n == 0)</p>
+<p>    0:000></p>
+<p>    >    7:         else if (n == 1)</p>
+<p>    0:000></p>
+<p>    >   10:                 return factorial(n - 1, n * a);</p>
+<p>    0:000></p>
+<p>    >    5:         else if (n == 0)</p>
+<p>    0:000></p>
+<p>    >    7:         else if (n == 1)</p>
+<p>    0:000></p>
+<p>    >   10:                 return factorial(n - 1, n * a);</p>
+<p>    0:000></p>
+<p>    >    5:         else if (n == 0)</p>
+<p>    0:000></p>
+<p>    >    7:         else if (n == 1)</p>
+<p>    0:000></p>
+<p>    >   10:                 return factorial(n - 1, n * a);</p>
+<p>    0:000></p>
+<p>    >    5:         else if (n == 0)</p>
+<p>    0:000></p>
+<p>    >    7:         else if (n == 1)</p>
+<p>    0:000></p>
+<p>    >   10:                 return factorial(n - 1, n * a);</p>
+<p>    0:000></p>
+<p>    >    5:         else if (n == 0)</p>
+<p>    0:000></p>
+<p>    >    7:         else if (n == 1)</p>
+<p>    0:000></p>
+<p>    >   10:                 return factorial(n - 1, n * a);</p>
+<p>    0:000></p>
+<p>    >    5:         else if (n == 0)</p>
+<p>    0:000></p>
+<p>    >    7:         else if (n == 1)</p>
+<p>    0:000></p>
+<p>    >   10:                 return factorial(n - 1, n * a);</p>
+<p>    0:000></p>
+<p>    >    5:         else if (n == 0)</p>
+<p>    0:000> k</p>
+<p>    ChildEBP RetAddr</p>
+<p>    0012ff64 0040105c recursive_factorial2!factorial+0x10</p>
+<p>    0012ff70 00401266 recursive_factorial2!main+0xc</p>
+<p>    0012ffc0 7c816fd7 recursive_factorial2!__tmainCRTStartup+0x15f</p>
+<p>    0012fff0 00000000 kernel32!BaseProcessStart+0x23</p>
+<p>    0:000></p>
 <p>Como podemos ver, após n chamadas, a pilha continua apenas com uma chamada a factorial.</p>
 <p>Para o GCC, a opção é mais explítica, e funciona da mesma forma.</p>
+<p>    $ gcc -g -foptimize-sibling-calls  recursive-factorial2.c</p>
+<p>    </p>
+<p>    $ gdb a.exe</p>
+<p>    ...</p>
+<p>    (gdb) break factorial</p>
+<p>    ...</p>
+<p>    (gdb) run</p>
+<p>    </p>
+<p>    ...</p>
+<p>    Breakpoint 1, factorial (n=1000, a=0) at recursive-factorial2.c:3</p>
+<p>    3               if (n < 0)</p>
+<p>    </p>
+<p>    (gdb) step</p>
+<p>    5               else if (n == 0)</p>
+<p>    (gdb)</p>
+<p>    7               else if (n == 1)</p>
+<p>    (gdb)</p>
+<p>    10                      return factorial(n - 1, n * a);</p>
+<p>    (gdb)</p>
+<p>    11      }</p>
+<p>    (gdb)</p>
+<p>    factorial (n=1, a=6695656) at recursive-factorial2.c:10</p>
+<p>    10                      return factorial(n - 1, n * a);</p>
+<p>    (gdb)</p>
+<p>    factorial (n=999, a=0) at recursive-factorial2.c:2</p>
+<p>    2       {</p>
+<p>    (gdb)</p>
+<p>    </p>
+<p>    Breakpoint 1, factorial (n=999, a=0) at recursive-factorial2.c:3</p>
+<p>    3               if (n < 0)</p>
+<p>    (gdb)</p>
+<p>    5               else if (n == 0)</p>
+<p>    (gdb)</p>
+<p>    7               else if (n == 1)</p>
+<p>    (gdb)</p>
+<p>    10                      return factorial(n - 1, n * a);</p>
+<p>    (gdb)</p>
+<p>    11      }</p>
+<p>    (gdb)</p>
+<p>    factorial (n=1, a=6695656) at recursive-factorial2.c:10</p>
+<p>    10                      return factorial(n - 1, n * a);</p>
+<p>    (gdb)</p>
+<p>    factorial (n=998, a=0) at recursive-factorial2.c:2</p>
+<p>    2       {</p>
+<p>    (gdb)</p>
+<p>    </p>
+<p>    Breakpoint 1, factorial (n=998, a=0) at recursive-factorial2.c:3</p>
+<p>    3               if (n < 0)</p>
+<p>    (gdb)</p>
+<p>    5               else if (n == 0)</p>
+<p>    (gdb)</p>
+<p>    7               else if (n == 1)</p>
+<p>    (gdb)</p>
+<p>    10                      return factorial(n - 1, n * a);</p>
+<p>    (gdb)</p>
+<p>    11      }</p>
+<p>    (gdb)</p>
+<p>    factorial (n=1, a=6695656) at recursive-factorial2.c:10</p>
+<p>    10                      return factorial(n - 1, n * a);</p>
+<p>    (gdb)</p>
+<p>    factorial (n=997, a=0) at recursive-factorial2.c:2</p>
+<p>    2       {</p>
+<p>    (gdb)</p>
+<p>    </p>
+<p>    Breakpoint 1, factorial (n=997, a=0) at recursive-factorial2.c:3</p>
+<p>    3               if (n < 0)</p>
+<p>    (gdb)</p>
+<p>    5               else if (n == 0)</p>
+<p>    (gdb)</p>
+<p>    7               else if (n == 1)</p>
+<p>    (gdb)</p>
+<p>    10                      return factorial(n - 1, n * a);</p>
+<p>    (gdb)</p>
+<p>    11      }</p>
+<p>    (gdb)</p>
+<p>    factorial (n=1, a=6695656) at recursive-factorial2.c:10</p>
+<p>    10                      return factorial(n - 1, n * a);</p>
+<p>    (gdb)</p>
+<p>    factorial (n=996, a=0) at recursive-factorial2.c:2</p>
+<p>    2       {</p>
+<p>    (gdb)</p>
+<p>    </p>
+<p>    Breakpoint 1, factorial (n=996, a=0) at recursive-factorial2.c:3</p>
+<p>    3               if (n < 0)</p>
+<p>    (gdb)</p>
+<p>    5               else if (n == 0)</p>
+<p>    (gdb)</p>
+<p>    7               else if (n == 1)</p>
+<p>    (gdb)</p>
+<p>    10                      return factorial(n - 1, n * a);</p>
+<p>    (gdb)</p>
+<p>    11      }</p>
+<p>    (gdb)</p>
+<p>    factorial (n=1, a=6695656) at recursive-factorial2.c:10</p>
+<p>    10                      return factorial(n - 1, n * a);</p>
+<p>    (gdb) backtrace</p>
+<p>    #0  factorial (n=1, a=6695656) at recursive-factorial2.c:10</p>
+<p>    #1  0x61006198 in dll_crt0_1 () from /usr/bin/cygwin1.dll</p>
+<p>    #2  0x61004416 in _cygtls::call2 () from /usr/bin/cygwin1.dll</p>
+<p>    #3  0x00000000 in ?? ()</p>
+<p>    (gdb)</p>
 <p>Voilà!</p>
 <p>PS: De brinde uma versão que permite passar o número via linha de comando para facilitar os testes (e você vai reparar que há um problema em calcular o fatorial de 1000: ele é estupidamente grande! Resolver isso fica como exercício =).</p>
+<p>    #include <stdio.h></p>
+<p>    </p>
+<p>    int factorial(int n, int a)</p>
+<p>    {</p>
+<p>        if (n < 0)</p>
+<p>            return 0;</p>
+<p>        else if (n == 0)</p>
+<p>            return 1;</p>
+<p>        else if (n == 1)</p>
+<p>            return a;</p>
+<p>        else</p>
+<p>            return factorial(n - 1, n * a);</p>
+<p>    }</p>
+<p>    </p>
+<p>    int main(int argc, char* argv[])</p>
+<p>    {</p>
+<p>        if( argc == 2 )</p>
+<p>        {</p>
+<p>            int num = atoi(argv[1]);</p>
+<p>            int ret = factorial(num, 1);</p>
+<p>            printf("factorial %d = %d\n", num, ret);</p>
+<p>            return ret;</p>
+<p>        }</p>
+<p>        else</p>
+<p>        {</p>
+<p>            printf("how to use: %s <number>\n", argv[0]);</p>
+<p>            return 1;</p>
+<p>        }</p>
+<p>    }</p>
 <p>[tail recursion]: http://en.wikipedia.org/wiki/Tail_recursion</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

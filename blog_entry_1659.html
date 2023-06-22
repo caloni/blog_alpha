@@ -76,12 +76,16 @@
 <p>using namespace std;</p>
 <p>template<typename T></p>
 <p>bool Compare(T& var1, T& var2)</p>
+<p>{</p>
 <p>	return var1 < var2;</p>
+<p>}</p>
 <p>int main()</p>
+<p>{</p>
 <p>	int x = 24, y = 42;</p>
 <p>	double dx = 100.0, dy = 10.0;</p>
 <p>	cout << "x is " << ( Compare(x, y) ? "lesser" : "bigger" ) << " than y\n";</p>
 <p>	cout << "dx is " << ( Compare(dx, dy) ? "lesser" : "bigger" ) << " than dy\n";</p>
+<p>}</p>
 <p>```</p>
 <p>{{< image src="84Ptrvk.png" caption="" >}}</p>
 <p>Continuando nosso tema de fazer as mesmas coisas em C, __templates__ não é tão simples, pois não existe de fato na linguagem. Templates são interpretados pelo compilador, que gera um esqueleto de algoritmo que é usado para preencher código de todos os tipos utilizados. Em C isso era feito usando macros. Porém, macros não fazem parte da linguagem C. É apenas uma ferramenta chamada pré-processador que substitui texto antes do programa ser compilado. É através do pré-processador que, por exemplo, os headers são incluídos em um código-fonte. Isso já foi explicado em um [artigo] bem velhinho, e mais recentemente em uma [palestra].</p>
@@ -95,6 +99,7 @@
 <p>Mais sobre isso em um próximo post.</p>
 <p>[artigo]: {{< relref "os-diferentes-erros-na-linguagem-c" >}}</p>
 <p>[palestra]: {{< relref "entendendo-a-compilacao" >}}</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

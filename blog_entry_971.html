@@ -78,7 +78,34 @@
 <p>#include <string></p>
 <p>using namespace std;</p>
 <p>void calc(string& N, string& A, string& B)</p>
+<p>{</p>
+<p>  for( size_t i = 0; i < N.size(); ++ i)</p>
+<p>  {</p>
+<p>    if( N[i] == '4' )</p>
+<p>    {</p>
+<p>      A.push_back('3');</p>
+<p>      B.push_back('1');</p>
+<p>    }</p>
+<p>    else</p>
+<p>    {</p>
+<p>      A.push_back(N[i]);</p>
+<p>      B.push_back('0');</p>
+<p>    }</p>
+<p>  }</p>
+<p>}</p>
 <p>int main()</p>
+<p>{</p>
+<p>  int T;</p>
+<p>  cin >> T;</p>
+<p>  for( int i = 0; i < T; ++ i)</p>
+<p>  {</p>
+<p>    string N;</p>
+<p>    cin >> N;</p>
+<p>    string A, B;</p>
+<p>    calc(N, A, B);</p>
+<p>    cout << "Case #" << i+1 << ": " << stoi(A) << " " << stoi(B) << endl;</p>
+<p>  }   </p>
+<p>}</p>
 <p>```</p>
 <p>## You can go your own way</p>
 <p>**Resuminho**: tem que atravessar um labirinto formado por quadrados de N x N começando acima à esquerda saindo abaixo na direita. Enviar uma string com os comandos E ou S (East/South) para sair do labirinto. A pegadinha é não repetir nenhum dos comandos de uma garota que resolveu o labirinto antes.</p>
@@ -88,7 +115,24 @@
 <p>#include <string></p>
 <p>using namespace std;</p>
 <p>void calc(string& P)</p>
+<p>{</p>
+<p>  for( size_t i = 0; i < P.size(); ++ i)</p>
+<p>  {</p>
+<p>      P[i] = P[i] == 'S' ? 'E' : 'S';</p>
+<p>  }</p>
+<p>}</p>
 <p>int main()</p>
+<p>{</p>
+<p>  int T;</p>
+<p>  cin >> T;</p>
+<p>  for( int i = 0; i < T; ++ i)</p>
+<p>  {</p>
+<p>    string N, P;</p>
+<p>    cin >> N >> P;</p>
+<p>    calc(P);</p>
+<p>    cout << "Case #" << i+1 << ": " << P << endl;</p>
+<p>  }   </p>
+<p>}</p>
 <p>```</p>
 <p>## Cryptopangrams (failed)</p>
 <p>**Resuminho**: encontrar quais números primos são usados como letras do alfabeto baseado em uma sequência em que o primeiro número é a multiplicação do primo da primeira letra pela segunda, o segundo número é a multiplicação da segunda pela terceira e assim por diante.</p>
@@ -100,11 +144,83 @@
 <p>#include <vector></p>
 <p>using namespace std;</p>
 <p>void calc(int N, vector<int>&LS, string& LSS)</p>
+<p>{</p>
+<p>    map<int, char> alpha;</p>
+<p>    int first1 = 0, first2 = 0;</p>
+<p>    for( int l: LS )</p>
+<p>    {</p>
+<p>        int na = 0;</p>
+<p>        for( auto a: alpha)</p>
+<p>        {</p>
+<p>            if( l % a.first == 0 )</p>
+<p>            {</p>
+<p>                na = l / a.first;</p>
+<p>                break;</p>
+<p>            }</p>
+<p>        }</p>
+<p>        if( na )</p>
+<p>        {</p>
+<p>            alpha[na] = ' ';</p>
+<p>            continue;</p>
+<p>        }</p>
+<p>        for( size_t i = 2; i < N; ++i )</p>
+<p>        {</p>
+<p>            if( l % i == 0 )</p>
+<p>            {</p>
+<p>                int na1 = l / i;</p>
+<p>                int na2 = i;</p>
+<p>                if( first1 == 0 )</p>
+<p>                {</p>
+<p>                    first1 = na1;</p>
+<p>                    first2 = na2;</p>
+<p>                }</p>
+<p>                alpha[na1] = ' ';</p>
+<p>                alpha[na2] = ' ';</p>
+<p>                break;</p>
+<p>            }</p>
+<p>        }</p>
+<p>    }</p>
+<p>    const char Alphabet[] = { 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', </p>
+<p>    'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', </p>
+<p>    'W', 'X', 'Y', 'Z' };</p>
+<p>    size_t pos = 0;</p>
+<p>    for( auto& a: alpha )</p>
+<p>        a.second = Alphabet[pos++];</p>
+<p>    int first = LS[1] % first1 == 0 ? first2 : first1;</p>
+<p>    LSS.push_back(alpha[first]);</p>
+<p>    for( int i: LS )</p>
+<p>    {</p>
+<p>        int second = i / first;</p>
+<p>        char c = alpha[second];</p>
+<p>        LSS.push_back(c);</p>
+<p>        first = second;</p>
+<p>    }</p>
+<p>}</p>
 <p>int main()</p>
+<p>{</p>
+<p>    int T;</p>
+<p>    cin >> T;</p>
+<p>    for( int i = 0; i < T; ++i)</p>
+<p>    {</p>
+<p>        vector<int> LS;</p>
+<p>        int N, L;</p>
+<p>        cin >> N >> L;</p>
+<p>        int l;</p>
+<p>        for( int n = 0; n < L; ++ n)</p>
+<p>        {</p>
+<p>            cin >> l;</p>
+<p>            LS.push_back(l);</p>
+<p>        }</p>
+<p>        string LSS;</p>
+<p>        calc(N, LS, LSS);</p>
+<p>        cout << "Case #" << i+1 << ": " << LSS << endl;</p>
+<p>    }</p>
+<p>}   </p>
 <p>```</p>
 <p>## Dat Bae</p>
 <p>**Resuminho**: descobrir quais bits não estão sendo retornados em um echo (ex: manda-se '1010' e recebe '010') com um limite de envios para o servidor (este é um problema interativo).</p>
 <p>**Solução**: imaginei dividir o envio pelo número de blocos defeituosos para alternar os 0s e 1s e assim ir dividindo pela metade de acordo com as respostas até ter as posições que não estão retornando. Não cheguei a terminar o código, mas a ideia geral era que como o limite de blocos defeituosos era de 15 ou N-1 (N é o número de bits) e o máximo de chutes é 5, imaginei que a divisão de 2 elevado a 5 fosse o limite da solução.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

@@ -77,17 +77,44 @@
 <p>{{< image src="3Llhikv.png" caption="QuemQuerPãoCmdDetails" >}}</p>
 <p>Até aí tudo bem, certo?</p>
 <p>__Não! Não! Não!__</p>
+<p>O [codepage 437](https://en.wikipedia.org/wiki/Code_page_437#Character_set) não possui ã. Nem õ.</p>
 <p>{{< image src="lcVG0ak.png" caption="CodePage437" >}}</p>
 <p>Isso, meus amigos, é chamado tecnicamente na área de "muito louco".</p>
 <p>Curioso a respeito disso, resolvi observar a saída padrão do cmd.exe, para ver o que diabos vem como resultado. Para isso desenvolvi um simples output redirector tabajara:</p>
 <p>```</p>
 <p>#include <Windows.h></p>
 <p>int main(int argc, char* argv[])</p>
+<p>{</p>
+<p>    DWORD ret = ERROR_SUCCESS;</p>
+<p>    SECURITY_ATTRIBUTES sa = { 0, NULL, TRUE };</p>
+<p>    STARTUPINFOA si = { sizeof(si) };</p>
+<p>    PROCESS_INFORMATION pi;</p>
+<p>    CHAR cmd[4096] = "cmd.exe";</p>
+<p>    SECURITY_ATTRIBUTES saAttr;</p>
+<p> </p>
+<p>    saAttr.nLength = sizeof(SECURITY_ATTRIBUTES);</p>
+<p>    saAttr.bInheritHandle = TRUE;</p>
+<p>    saAttr.lpSecurityDescriptor = NULL;</p>
+<p>    si.dwFlags = STARTF_USESTDHANDLES;</p>
+<p>    si.hStdOutput = CreateFileA("cmd.log", GENERIC_WRITE, FILE_SHARE_READ, &sa, CREATE_ALWAYS, 0, NULL);</p>
+<p>    si.hStdError = si.hStdOutput;</p>
+<p>    if( si.hStdOutput != NULL && si.hStdOutput != INVALID_HANDLE_VALUE )</p>
+<p>    {</p>
+<p>        if (CreateProcessA(NULL, cmd, NULL, NULL, TRUE, CREATE_NEW_CONSOLE, NULL, NULL, &si, &pi))</p>
+<p>        {</p>
+<p>            WaitForSingleObject(pi.hProcess, INFINITE);</p>
+<p>            CloseHandle(pi.hThread);</p>
+<p>            CloseHandle(pi.hProcess);</p>
+<p>        }</p>
+<p>        CloseHandle(si.hStdOutput);</p>
+<p>    }</p>
+<p>}</p>
 <p>```</p>
 <p>Simples, bonito e prático. Quando executamos Redirector.exe ele executa um cmd.exe, com a diferença que a saída dele vai parar no arquivo cmd.log, que podemos observar com um [BareTail](https://www.baremetalsoft.com/baretail/) da vida.</p>
 <p>{{< image src="92WFz8J.gif" caption="Redirector" >}}</p>
 <p>__Opa, opa, opa!__</p>
 <p>{{< image src="RJ85xi9.png" caption="QuemQuerPaum" >}}</p>
+<p>O til sumiu!</p>
 <p>Se formos analisar os bytes que vieram de saída, vamos constatar que o byte referente ao __ã__ foi enviado para a saída padrão como o byte 0x61, ou 97 em decimal. No codepage 437 (e em qualquer derivado da tabela ASCII, na verdade) o byte 97 é representado como "a", simplesmente, sem til.</p>
 <p>{{< image src="6P8n4Dg.png" caption="ASemTil" >}}</p>
 <p>Isso quer dizer que ao receber um "ã" o cmd.exe o reinterpreta como "a", mesmo estando sob o encoding 437. Esse é o resultado de um prompt user friendly que quer seu amigo.</p>
@@ -101,6 +128,8 @@
 <p>{{< image src="3bsyxNU.png" caption="QuemQuerPaoBatch" >}}</p>
 <p>{{< image src="4V81xIc.png" caption="QuemQuerPaoDump" >}}</p>
 <p>{{< image src="fM6Iovh.png" caption="QuemQuerPaoFind" >}}</p>
+<p>E com isso constatamos que não necessariamente no Windows, What You See Is What You Get. Ou, em termos mais filosóficos, [What You See Is Not What I Get](http://cinetenisverde.com.br/lucky/).</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

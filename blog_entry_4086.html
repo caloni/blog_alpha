@@ -78,8 +78,10 @@
 <p> - RSP se mantém inalterado no corpo da função, entre o prólogo e o epílogo (gostei disso).</p>
 <p> - A técnica de homing space (opcional na compilação) salva os 4 primeiros parâmetros passados na pilha para a memória.</p>
 <p> - O Child-SP (RSP) é usado para caminhar tanto pelos parâmetros quanto pelas variáveis locais.</p>
+<p># Testes</p>
 <p>## FastCall</p>
 <p>```</p>
+<p>/*</p>
 <p>"Fastcall registers are used to pass parameters to functions. Fastcall is the</p>
 <p>default calling convention on X64 where in the first 4 parameters are passed via</p>
 <p>the registers RCX, RDX, R8, R9." - X64 Deep Dive</p>
@@ -95,49 +97,66 @@
 <p>mov         dword ptr [res],eax</p>
 <p>	return res;</p>
 <p>mov         eax,dword ptr [res]</p>
+<p>}</p>
 <p>add         rsp,30h # RBP is no longer used as frame pointer.</p>
 <p>pop         rdi</p>
 <p>ret</p>
+<p>*/</p>
 <p>```</p>
 <p>## Tail Call Elimination</p>
 <p>```</p>
+<p>/*</p>
 <p>"X64 compiler can optimize the last call made from a function by replacing it</p>
 <p>with a jump to the callee. This avoids the overhead of setting up the stack</p>
 <p>frame for the callee." - x64 Deep Dive</p>
+<p># TailCall3</p>
 <p>	return a + b;</p>
 <p>lea         eax,[rcx+rdx]</p>
+<p>}</p>
 <p>ret</p>
+<p># TestTailCallElimination</p>
 <p>	TailCall1(1);</p>
 <p>	TailCall2(2);</p>
 <p>	return TailCall3(1, 2);</p>
 <p>mov         edx,2</p>
 <p>lea         ecx,[rdx-1]</p>
 <p>jmp         TailCall3</p>
+<p>*/</p>
 <p>```</p>
 <p>## Frame Pointer Omission</p>
 <p>```</p>
+<p>/*</p>
 <p>"Unlike the X86 CPU where the EBP register is used to access parameters and</p>
 <p>local variables on the stack, X64 functions do not make use of the RBP register</p>
 <p>for this purpose i.e. do not use the EBP register as a</p>
 <p>frame pointer." - x64 Deep Dive</p>
+<p># Win32 (x86)</p>
 <p>int TestFramePointerOmission() {</p>
 <p>	return 1;</p>
 <p>00601593  mov         eax,1</p>
+<p>}</p>
 <p>00601599  ret</p>
+<p># Win62 (x64)</p>
 <p>int TestFramePointerOmission() {</p>
 <p>	return 1;</p>
 <p>00007FF7D6E215E2  mov         eax,1</p>
+<p>}</p>
 <p>00007FF7D6E215E8  ret</p>
+<p>*/</p>
 <p>```</p>
 <p>## RSP Is The Same</p>
 <p>```</p>
+<p>/*</p>
 <p>Since RSP is used to reference both parameters and local variables in x64,</p>
 <p>the side effect and feature of x64 function is that RSP does not change</p>
 <p>thru all its body, changing only in prolog (begin) and epilog (end) parts</p>
 <p>of the function.</p>
+<p># Win32</p>
 <p>int RSPIsTheSame(int p1, int p2, int p3, int p4, int p5, int p6, int p7, int p8) {</p>
+<p># prolog-begin</p>
 <p>push        ebp</p>
 <p>mov         ebp,esp</p>
+<p># prolog-end</p>
 <p>	RSPIsTheSameCall1(p1);</p>
 <p>mov         eax,dword ptr [p1]</p>
 <p>push        eax # RSP--</p>
@@ -160,15 +179,21 @@
 <p>add         esp,20h # RSP++</p>
 <p>	return 1;</p>
 <p>mov         eax,1</p>
+<p>}</p>
+<p># epilog-begin</p>
 <p>pop         ebp</p>
+<p># epilog-end</p>
 <p>ret</p>
+<p># Win64</p>
 <p>int RSPIsTheSame(int p1, int p2, int p3, int p4, int p5, int p6, int p7, int p8) {</p>
+<p># prolog-begin</p>
 <p>mov         dword ptr [rsp+20h],r9d</p>
 <p>mov         dword ptr [rsp+18h],r8d</p>
 <p>mov         dword ptr [rsp+10h],edx</p>
 <p>mov         dword ptr [rsp+8],ecx</p>
 <p>push        rdi</p>
 <p>sub         rsp,40h # RSP last change</p>
+<p># prolog-end</p>
 <p>	RSPIsTheSameCall1(p1);</p>
 <p>mov         ecx,dword ptr [p1]</p>
 <p>call        RSPIsTheSameCall1</p>
@@ -183,12 +208,17 @@
 <p>call        RSPIsTheSameCall8</p>
 <p>	return 1;</p>
 <p>mov         eax,1</p>
+<p>}</p>
+<p># epilog-begin</p>
 <p>add         rsp,40h # RSP restore</p>
 <p>pop         rdi</p>
+<p># epilog-end</p>
 <p>ret</p>
+<p>*/</p>
 <p>```</p>
 <p>## Homing Space</p>
 <p>```</p>
+<p>/*</p>
 <p>"(...) homing space and is used to store parameter values if either the function</p>
 <p>accesses the parameters by address instead of by value or if the function is</p>
 <p>compiled with the /homeparams flag. The minimum size of this homing space is</p>
@@ -197,6 +227,7 @@
 <p>compiler uses it to save non-volatile registers." - x64 Deep Dive</p>
 <p>"The register based parameter homing space exists only for non-leaf </p>
 <p>functions." - x64 Deep Dive</p>
+<p># Win64 Debug</p>
 <p>int HomingSpaceNonLeaf(int p1, int p2, int p3, int p4) {</p>
 <p>mov         dword ptr [rsp+20h],r9d # homing space saving params</p>
 <p>mov         dword ptr [rsp+18h],r8d</p>
@@ -204,6 +235,7 @@
 <p>mov         dword ptr [rsp+8],ecx</p>
 <p>push        rdi</p>
 <p>sub         rsp,20h</p>
+<p># Win64 Release</p>
 <p>int TestHomingSpaceNonLeaf() {</p>
 <p>sub         rsp,28h</p>
 <p>	int ret = HomingSpaceNonLeaf(1, 2, 3, 4);</p>
@@ -212,9 +244,11 @@
 <p>lea         r8d,[rdx+1]</p>
 <p>lea         ecx,[rdx-1]</p>
 <p>call        HomingSpaceNonLeaf</p>
+<p>*/</p>
 <p>```</p>
 <p>## Child-SP</p>
 <p>```</p>
+<p>/*</p>
 <p>"The value of the Child-SP register displayed by the debugger's "k" command</p>
 <p>represents the address at which the stack pointer (RSP) points to, as the point</p>
 <p>where the function displayed in that frame, has finished executing its prolog.</p>
@@ -223,6 +257,8 @@
 <p>value of RSP after the function prolog, any stack accesses performed by the rest</p>
 <p>of the function are done relative to this position of the stack pointer. This</p>
 <p>includes access to stack based parameters and local variables." - x64 Deep Dive</p>
+<p>*/</p>
+<p># Win64 Debug</p>
 <p>			p5 = i + j + (i % 2 ? p1 : p2) + (j % 2 ? p3 : p4);</p>
 <p>mov         eax,dword ptr [rsp+0Ch]</p>
 <p>cdq</p>
@@ -263,6 +299,7 @@
 <p>```</p>
 <p>## Parameter Retrieval</p>
 <p>```</p>
+<p>/*</p>
 <p>"(...) as execution progresses within the function body, the contents of the</p>
 <p>parameter registers change and the initial parameter value gets overwritten. So,</p>
 <p>to determine the value of these register based parameters at any point during</p>
@@ -279,6 +316,7 @@
 <p>values. Determine if the parameters are saved into non-volatile registers and if</p>
 <p>those registers are saved by the callee. If so, the saved non-volatile register</p>
 <p>values can be examined to determine the parameter values." - x64 Deep Dive</p>
+<p># Win64 Release</p>
 <p>1. Parameters are loaded into the registers from memory.</p>
 <p>mov         dword ptr [rbp+30h],5 # p5 = 5</p>
 <p>mov         dword ptr [rbp+28h],6 # p6 = 6</p>
@@ -296,6 +334,7 @@
 <p>mov         rdx,qword ptr [p5]</p>
 <p>mov         rcx,qword ptr [g_ParameterRetrieval_p7_retrieval]</p>
 <p>3. Parameters are saved from the registers into memory.</p>
+<p># Win64 Release</p>
 <p>	g_ParameterRetrieval_p7_retrieval = &p7;</p>
 <p>mov         r10,qword ptr [p7]</p>
 <p>mov         r11,rcx</p>
@@ -304,6 +343,7 @@
 <p>mov         qword ptr [g_ParameterRetrieval_p7_retrieval],r10 # save nonvolatile register</p>
 <p>4. Parameters are saved into non-volatile registers and those registers</p>
 <p>are saved by the callee.</p>
+<p># Win64 Release</p>
 <p>int ParameterRetrieval3(int& p1, int& p2, int& p3, int& p4, int& p5, int& p6, int& p7, int& p8) {</p>
 <p>mov         qword ptr [rsp+8],rbx</p>
 <p>mov         qword ptr [rsp+10h],rsi</p>
@@ -321,16 +361,35 @@
 <p>mov         esi,dword ptr [r15] # Parameters are saved into non-volatile registers...</p>
 <p>add         r10d,esi</p>
 <p>...</p>
+<p>	}</p>
 <p>	int ret = p1 + p2 + p3 + p4 + p5 + p6 + p7 + p8;</p>
 <p>...</p>
 <p>	p7 = oldP7;</p>
 <p>	return ret;</p>
+<p>}</p>
 <p>...</p>
 <p>mov         dword ptr [r15],esi # ... and those registers are saved by the callee.</p>
 <p>mov         rsi,qword ptr [rsp+18h]</p>
 <p>pop         r15</p>
 <p>ret</p>
+<p>*/</p>
 <p>```</p>
+<p># Recortes do artigo original</p>
+<p>> On X64, the first 4 parameters are always passed in registers and the rest of the parameters are passed via the stack. This is one of main causes of grief during debugging since register values tend to change as functions execute and it becomes difficult to determine the original parameter values that were passed to a function, half-way into its execution. Other than this one issue with retrieving parameters, x64 debugging is not that different from x86 debugging.</p>
+<p>> Unfortunately, there is no silver bullet to finding parameters. All the techniques here depend heavily on the X64 assembler instructions generated by the compiler. If the parameters are not in "reachable memory", there is simply no way to get them. Having private symbols for modules and functions that appear in the call stack doesn't help too much either. Private symbols do tell the number and types of parameters a function takes, but that's about it. It does not tell what those parameter values are. </p>
+<p>></p>
+<p>> Determine if the parameters are loaded from non-volatile registers and if those registers are saved by the callee. </p>
+<p>></p>
+<p>> Determine if the parameters are saved from the registers into memory. </p>
+<p>></p>
+<p>> Determine if the parameters are saved into non-volatile registers and if those registers are saved by the callee. </p>
+<p>></p>
+<p>> Each one of the techniques requires disassembling the caller and the callee functions involved in the parameter passing. </p>
+<p>></p>
+<p>> The debugger's ".frame /r" command displays the values of non-volatile registers when a particular function was executing. </p>
+<p>> it is important to always verify parameter register overwrites </p>
+<p>> It is important to examine the instructions up to the call to the next function (...) to ascertain that these non-volatile registers are not being overwritten.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

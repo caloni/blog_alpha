@@ -70,12 +70,122 @@
   </p>
   <div class="content">
 <p>Quando fala-se em depuração geralmente o pensamento que vem é de um código que já foi compilado e está rodando em alguma outra máquina e gerando problemas não detectados nos testes de desenvolvedor. Mas nem sempre é assim. Depuração pode envolver problemas durante a própria compilação. Afinal de contas, se não está compilando, ou foi compilado errado, é porque já existem problemas antes mesmo da execução começar.</p>
+<p>O fonte abaixo, por exemplo, envolve um detalhe que costuma atormentar alguns programadores, ou por falta de observação ou documentação (ou ambos).</p>
+<p>    #include <stdio.h></p>
+<p>    #include <windows.h></p>
+<p>    </p>
+<p>    void main(void)</p>
+<p>    {</p>
+<p>    	typedef enum _COMPUTER_NAME_FORMAT</p>
+<p>    	{</p>
+<p>    		ComputerNameNetBIOS,</p>
+<p>    		ComputerNameDnsHostname,</p>
+<p>    		ComputerNameDnsDomain,</p>
+<p>    		ComputerNameDnsFullyQualified,</p>
+<p>    		ComputerNamePhysicalNetBIOS,</p>
+<p>    		ComputerNamePhysicalDnsHostname,</p>
+<p>    		ComputerNamePhysicalDnsDomain,</p>
+<p>    		ComputerNamePhysicalDnsFullyQualified,</p>
+<p>    		ComputerNameMax</p>
+<p>    	} COMPUTER_NAME_FORMAT;</p>
+<p>    </p>
+<p>    	COMPUTER_NAME_FORMAT CF = ComputerNameDnsDomain;</p>
+<p>    </p>
+<p>    	char szDomainName[MAX_COMPUTERNAME_LENGTH];</p>
+<p>    </p>
+<p>    	DWORD dwSize = sizeof(szDomainName);</p>
+<p>    </p>
+<p>    	//GetComputerName(szDomainName, &dwSize);</p>
+<p>    	GetComputerNameEx(CF, szDomainName, &dwSize);</p>
+<p>    } </p>
 <p>Tirando o fato que o retorno void não é mais um protótipo padrão da função main e que a definição da enumeração COMPUTER_NAME_FORMAT dentro da função main é no mínimo suspeita, podemos testar a compilação e verificar que existe exatamente um erro grave neste fonte:</p>
+<p>    </p>
+<p>    cl getcomputername.cpp</p>
+<p>    getcomputername.cpp(26) : error C3861: 'GetComputerNameEx': identifier not found</p>
+<p>A função GetComputerNameEx parece não ter sido definida, apesar de estarmos incluindo o header windows.h, que é o pedido pela documentação do MSDN.</p>
 <p>Esse tipo de problema acontece na maioria das vezes por dois motivos:</p>
+<p>    </p>
+<p>  1. o header responsável não foi incluído (não é o caso, como vimos),</p>
+<p>  2. é necessário especificar a versão mínima do sistema operacional.</p>
 <p>De fato, se criarmos coragem e abrirmos o arquivo winbase.h, que é onde a função é definida de fato, e procurarmos pela função GetComputerNameEx encontramos a seguinte condição:</p>
+<p>    #if (_WIN32_WINNT >= 0x0500)</p>
+<p>    </p>
+<p>    typedef enum _COMPUTER_NAME_FORMAT {</p>
+<p>        ComputerNameNetBIOS,</p>
+<p>        ComputerNameDnsHostname,</p>
+<p>        ComputerNameDnsDomain,</p>
+<p>        ComputerNameDnsFullyQualified,</p>
+<p>        ComputerNamePhysicalNetBIOS,</p>
+<p>        ComputerNamePhysicalDnsHostname,</p>
+<p>        ComputerNamePhysicalDnsDomain,</p>
+<p>        ComputerNamePhysicalDnsFullyQualified,</p>
+<p>        ComputerNameMax</p>
+<p>    } COMPUTER_NAME_FORMAT ;</p>
+<p>    </p>
+<p>    WINBASEAPI</p>
+<p>    BOOL</p>
+<p>    WINAPI</p>
+<p>    GetComputerNameExA (</p>
+<p>        __in    COMPUTER_NAME_FORMAT NameType,</p>
+<p>        __out_ecount_part_opt(*nSize, *nSize + 1) LPSTR lpBuffer,</p>
+<p>        __inout LPDWORD nSize</p>
+<p>        );</p>
+<p>    WINBASEAPI</p>
+<p>    BOOL</p>
+<p>    WINAPI</p>
+<p>    GetComputerNameExW (</p>
+<p>        __in    COMPUTER_NAME_FORMAT NameType,</p>
+<p>        __out_ecount_part_opt(*nSize, *nSize + 1) LPWSTR lpBuffer,</p>
+<p>        __inout LPDWORD nSize</p>
+<p>        );</p>
+<p>    #ifdef UNICODE</p>
+<p>    #define GetComputerNameEx  GetComputerNameExW</p>
+<p>    #else</p>
+<p>    #define GetComputerNameEx  GetComputerNameExA</p>
+<p>    #endif // !UNICODE</p>
+<p>    </p>
+<p>    //...</p>
+<p>    </p>
+<p>    #endif // _WIN32_WINNT</p>
 <p>Ou seja, para que essa função seja visível a quem inclui o windows.h, é necessário antes definir que a versão mínima do Windows será a 0x0500, ou seja, Windows 2000 (vulgo Windows 5.0). Aliás, é como aparece na documentação. Um pouco de observação nesse caso seria o suficiente para resolver o caso, já que tanto abrindo o header quanto olhando no exemplo do MSDN nos levaria a crer que é necessário definir essa macro:</p>
+<p>    #define _WIN32_WINNT 0x0500</p>
+<p>    </p>
+<p>    #include <windows.h></p>
+<p>    #include <stdio.h></p>
+<p>    #include <tchar.h></p>
+<p>    </p>
+<p>    void _tmain(void)</p>
+<p>    {</p>
+<p>    	TCHAR buffer[256] = TEXT("");</p>
+<p>    	TCHAR szDescription[8][32] = {TEXT("NetBIOS"), </p>
+<p>    	TEXT("DNS hostname"), </p>
+<p>    	TEXT("DNS domain"), </p>
+<p>    	TEXT("DNS fully-qualified"), </p>
+<p>    	TEXT("Physical NetBIOS"), </p>
+<p>    	TEXT("Physical DNS hostname"), </p>
+<p>    	TEXT("Physical DNS domain"), </p>
+<p>    	TEXT("Physical DNS fully-qualified")};</p>
+<p>    	int cnf = 0;</p>
+<p>    	DWORD dwSize = sizeof(buffer);</p>
+<p>    </p>
+<p>    	for( cnf = 0; cnf < ComputerNameMax; cnf++ )</p>
+<p>    	{</p>
+<p>    		if (!GetComputerNameEx( (COMPUTER_NAME_FORMAT)cnf, buffer, &dwSize) )</p>
+<p>    		{</p>
+<p>    			_tprintf(TEXT("GetComputerNameEx failed (%d)\n"),</p>
+<p>    			GetLastError());</p>
+<p>    			return;</p>
+<p>    		}</p>
+<p>    			else _tprintf(TEXT("%s: %s\n"), szDescription[cnf], buffer);</p>
+<p>    </p>
+<p>    		dwSize = sizeof(buffer);</p>
+<p>    		ZeroMemory(buffer, dwSize);</p>
+<p>    	}</p>
+<p>    } </p>
 <p>Outra observação que poderia ter ajudado na hora de codificar seria dar uma olhada no que os caras escrevem na seção de advertências (remarks) da documentação:</p>
+<p>> To compile an application that uses this function, define the _WIN32_WINNT macro as 0x0500 or later. For more information, see Using the Windows Headers.</p>
 <p>Podemos também notar pela definição do COMPUTER_NAME_FORMAT dentro do main que o código estava no meio do caminho de cometer um sacrilégio: declarar funções e estruturas que já estão definidas nos headers da API. Portanto, se você já encontrou algum código parecido com esse, é hora de colocar em prática algumas teorias de refactoring.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

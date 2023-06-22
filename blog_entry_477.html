@@ -74,9 +74,11 @@
 <p>```c</p>
 <p>#include <windows.h></p>
 <p>int main()</p>
+<p>{</p>
 <p>	HANDLE hFile = CreateFile("c:\\tests\\myfile.txt", GENERIC_READ, </p>
 <p>		FILE_SHARE_READ, NULL, OPEN_EXISTING, 0, NULL);</p>
 <p>	if( hFile )</p>
+<p>	{</p>
 <p>		DWORD read = 0;</p>
 <p>		CHAR buffer[100];</p>
 <p>		if( ReadFile(hFile, buffer, sizeof(buffer), &read, NULL) )</p>
@@ -84,17 +86,30 @@
 <p>			WriteBuffer(buffer);</p>
 <p>		}</p>
 <p>		CloseHandle(hFile);</p>
+<p>	}</p>
+<p>}</p>
 <p>```</p>
 <p>No entanto, está errado.</p>
 <p>É fato que a maioria das funções que retornam handles retornam NULL para indicar o erro na tentativa de obter o recurso. Ao comparar o retorno com NULL, o programador geralmente faz uma chamada a GetLastError para saber o que aconteceu. No entanto, uma das funções mais usadas, a CreateFile, não retorna NULL, mas INVALID_HANDLE_VALUE.</p>
 <p>Sendo assim, o código acima deveria ser:</p>
+<p>    if( hFile != INVALID_HANDLE_VALUE )</p>
 <p>GetVersion também é uma função que muitos erraram. Erraram tanto que eles fizeram uma nova versão menos complicada. Como está escrito no MSDN: "The GetVersionEx function was developed because many existing applications err when examining the packed DWORD value returned by GetVersion, transposing the major and minor version numbers."</p>
+<p>O motivo de tantos erro pode ter sido o fato que o valor retornado é uma estrutura de bits dentro de um DWORD, coisa que nem todos programadores C sabem lidar muito bem, e o fato de ser uma função muito utilizada por todos (pegar a versão do sistema operacional).</p>
 <p>Eis a tabela de campos do retorno de GetVersion:</p>
+<p>    Platform                                High-order bit   Next 7 bits     Low-order byte</p>
+<p>    -------------------------------------   --------------   ------------    --------------</p>
+<p>    Windows NT 3.51                         0                Build number    3</p>
+<p>    Windows NT 4.0                          0                Build number    4</p>
+<p>    Windows 2000 or Windows XP              0                Build number    5</p>
+<p>    Windows 95, Windows 98, or Windows Me   1                Reserved        4</p>
+<p>    Win32s with Windows 3.1                 1                Build number    3</p>
 <p>Mesmo que não seja tão difícil, pode ser ambíguo. Por exemplo, como saber se o Windows é 95, 98 ou ME?</p>
+<p>O código abaixo, muito usado por todos que suportam ainda o Windows mais velhinhos, verifica se estamos rodando em plataforma NT ou 9x.</p>
 <p>```c</p>
 <p>#include <windows.h></p>
 <p>#include <stdio.h></p>
 <p>int main()</p>
+<p>{</p>
 <p>	DWORD winVer = GetVersion();</p>
 <p>	BOOL isPlatformNT = winVer >= 0x80000000 ? FALSE : TRUE;</p>
 <p>	if( isPlatformNT )</p>
@@ -102,15 +117,23 @@
 <p>	else</p>
 <p>		printf("Bem-vindo ao parque dos dinossauros!\n");</p>
 <p>	return isPlatformNT ? 1 : 0;</p>
+<p>}</p>
 <p>```</p>
 <p>{{< image src="jurassicpark.png" caption="Jurassic Park" >}}</p>
 <p>Nem sempre o handle que obtemos é fechado com CloseHandle. As funções abaixo retornam handles que devem ser desalocados com as funções à direita:</p>
+<p>    Função que obtém recurso         Função que libera recurso</p>
+<p>    ------------------------         -------------------------</p>
+<p>    LoadLibrary                      FreeLibrary</p>
+<p>    RegOpenKey                       RegCloseKey</p>
+<p>    GetDC                            ReleaseDC</p>
+<p>    BeginPaint                       EndPaint</p>
 <p>Sempre tem mais exemplos. Algumas dicas úteis para o dia-a-dia de um programador Win32 API são:</p>
 <p> - Leia a documentação</p>
 <p> - Se atente aos valores de retorno em caso de sucesso e erro</p>
 <p> - Leia sempre a seção remarks pelo menos uma vez; ela explica como desalocar recursos</p>
 <p> - Releia a documentação</p>
 <p>Às vezes uma singela chamada de uma função de autenticação pode nos fazer preencher uma estrutura de 20 membros, sendo que seis deles são obtidos com mais sete chamadas de funções, todas com direito a desalocar recursos no final. O importante é sempre manter a calma, o espírito de aprendizado e aventura. Afinal, quem mandou não fazer software de telinha?</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

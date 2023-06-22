@@ -70,6 +70,7 @@
   </p>
   <div class="content">
 <p>Quando projetos remotos usam submodules é possível que algum deles seja acessível apenas através de chaves criptográficas. Isso exige que os sub-projetos necessários para fazer funcionar seu projeto podem estar fora do seu alcance e acesso, o que irá gerar durante seus comandos __pull__ recursivos erros de ssh (publickey access).</p>
+<p>A solução é ler a documentação e descobrir que é possível editar o arquivo .git/config para mudar a url de um submódulo inacessível pela forma do .gitmodules. Eis um exemplo de arquivo config dentro do .git:</p>
 <p>```</p>
 <p>[submodule "sbrubles"]</p>
 <p>	url = git@github.com:user/project.git</p>
@@ -80,6 +81,7 @@
 <p>	url = https://github.com/user/project.git</p>
 <p>```</p>
 <p>Note que isso não irá interferir em nada no repositório localizado remotamente do projeto. Dessa forma diferentes membros da equipe podem usar diferentes formas de acessar um submódulo.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

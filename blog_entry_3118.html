@@ -73,6 +73,7 @@
 <p>```</p>
 <p>#include <iostream></p>
 <p>int main()</p>
+<p>{</p>
 <p>	double d1 = 2358.93;</p>
 <p>	double d2 = 1386.93;</p>
 <p>	double d3 = d1 - d2;</p>
@@ -84,10 +85,18 @@
 <p>	// comparando armazenamentos similares</p>
 <p>	std::cout << "d1 == 2358.93: " << std::boolalpha << ( d1 == 2358.93 ) << "\n";</p>
 <p>	std::cout << "d2 == 1386.93: " << std::boolalpha << ( d2 == 1386.93 ) << "\n";</p>
+<p>}</p>
 <p>```</p>
 <p>Isso ocorre porque sua representação dentro da variável double é diferente de 272.0 do outro double. Depurando vemos mais claramente:</p>
 <p>{{< image src="TnsgAlZ.png" caption="Ponto Flutuante Afundando" >}}</p>
 <p>Ou seja, quando fazemos a subtração de d2 em d1, nossa precisão raspa um pouquinho e escapa pela beirada:</p>
+<p>    </p>
+<p>    d1 2358.9299999999998</p>
+<p>    d2 1386.9300000000001</p>
+<p>    ======================</p>
+<p>    d3 971.999999999999777</p>
+<p>    ||||||</p>
+<p>    Esse é o valor "desejado".</p>
 <p>Na comparação com o valor redondo aparece a falha, mas note que isso não ocorre com os outros valores d1 e d2, já que o armazenamento adquire o mesmo formato:</p>
 <p>{{< image src="mqHh0wA.png" caption="Ponto Flutuante Afundando (2)" >}}</p>
 <p>##### Corrigindo o incorrigível</p>
@@ -95,7 +104,11 @@
 <p>```</p>
 <p>#include <iostream></p>
 <p>double round(double r)</p>
+<p>{</p>
+<p>    return (r > 0.0) ? floor(r + 0.5) : ceil(r - 0.5);</p>
+<p>}</p>
 <p>int main()</p>
+<p>{</p>
 <p>	double d1 = 2358.93;</p>
 <p>	double d2 = 1386.93;</p>
 <p>	double d3 = round(d1) - round(d2);</p>
@@ -103,12 +116,15 @@
 <p>	std::cout << "d2: " << d2 << "\n";</p>
 <p>	std::cout << "d1 - d2 = 3d: " << d3 << "\n";</p>
 <p>	std::cout << "d3 == 972.0: " << std::boolalpha << ( d3 == 972.0 ) << "\n";</p>
+<p>}</p>
 <p>```</p>
 <p>É uma decisão arbitrária essa de arredondar para cima, mas se for adotada em todo o sistema (e já fazendo parte de um padrão, no caso, o C99), não deverão existir problemas de interpretação de cálculos entre os componentes.</p>
+<p>O mercado financeiro agradece =).</p>
 <p>**UPDATE**</p>
 <p>Não estou de acordo com o armazenamento de valores monetários em doubles em vez de inteiros pelo simples motivo que **não há moedas no sistema financeiro com unidades que se dividem ad infinitum**. Por consequência, existe sempre uma unidade básica e indivisível (que no caso do Brasil é o centavo de real). Ou seja, como o objetivo é contar o total dessas unidades **que não se dividem**, o uso de inteiros é brainless.</p>
 <p>**UPDATE 2**</p>
 <p>Existe uma discussão exatamente sobre isso no [Grupo C/C++ Brasil](https://groups.google.com/forum/#!topic/ccppbrasil/uzn6i0PJi8UEu), que recomendo a leitura, o que me levou a escrever o post. Particularmente, sigo o raciocínio do Pedro Lamarão.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

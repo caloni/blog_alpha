@@ -71,29 +71,107 @@
   <div class="content">
 <p>As janelas criadas no C++ Builder são equivalentes às janelas criadas pela API, com o detalhe que a VCL gerencia tudo automaticamente. Isso não quer dizer que não podemos tomar controle de tudo. Quer dizer que não precisamos.</p>
 <p>Abra o Builder. Um projeto padrão é criado. Agora no menu File, vá em New, Form. Isso adicionará um novo formulário ao projeto padrão. Pronto! Temos dois formulários. Agora se formos dar uma passeada no WinMain, vemos que o código para iniciar a VCL se alterou conforme a música:</p>
+<p>    try</p>
+<p>    {</p>
+<p>    	Application->Initialize();</p>
+<p>    	Application->CreateForm(__classid(TForm1), &Form1);</p>
+<p>    	Application->CreateForm(__classid(TForm2), &Form2);</p>
+<p>    	Application->Run();</p>
+<p>    }</p>
 <p>Porém, se rodarmos a aplicação nesse momento, podemos notar que o programa exibe apenas a janela correspondente ao primeiro formulário. De fato, ao chamar o método Application->Run(), apenas o primeiro form criado é exibido. Isso não significa, é claro, que o segundo form não tenha sido criado. Para demonstrar como ele está lá, coloque o seguinte evento no clique de um botão do Form1:</p>
+<p>    #include "Unit2.h" // extern PACKAGE TForm2 *Form2;</p>
+<p>    </p>
+<p>    void __fastcall TForm1::Button1Click(TObject *Sender)</p>
+<p>    {</p>
+<p>    	Form2->Show();</p>
+<p>    } </p>
 <p>Agora ao clicar do botão a janela correspondente ao formulário número 2 também aparece. Podemos fechá-la e abri-la quantas vezes quisermos que o aplicativo continua rodando. Apenas ao fechar a janela no. 1 o aplicativo realmente encerra. Esse comportamento segue o mesmo padrão da função main() na forma clássica das linguagens C/C++:</p>
+<p>    ShowMessage(</p>
+<p>      "O MainForm de Application"</p>
+<p>      " é o primeiro TForm criado."</p>
+<p>      " É o princípio e o fim,"</p>
+<p>      " o Alfa e o Ômega."</p>
+<p>      " Nele tudo começa"</p>
+<p>      " e tudo termina"</p>
+<p>    );</p>
 <p>Podemos, também como em C/C++ padrão, finalizar explicitamente a aplicação chamando o método Application->Terminate. O MainForm em tempo de execução é uma propriedade de somente leitura de Application. Em tempo de design, ele pode ser alterado pela ordem de criação dos formulários no código ou pela IDE em Project, Options, Forms. Lá você também escolhe quais forms serão criados automaticamente.</p>
 <p>Esse funcionamento e automação na criação de janelas da VCL foi feita para facilitar a vida do programador. Contudo, nunca estamos presos a somente isso. As maneiras das coisas funcionarem apenas refletem o uso mais comum no ambiente e não tem como função limitar a criatividade do desenvolvedor.</p>
 <p>Para exemplificar, vamos inverter as coisas. Coloque um botão no segundo formulário que finalize o programa de maneira explítica:</p>
+<p>    void __fastcall TForm2::Button1Click(TObject *Sender)</p>
+<p>    {</p>
+<p>    	Application->Terminate();</p>
+<p>    } </p>
 <p>Agora, no evento de OnClose (acho que você conhece o Object Inspector, não? Bom, se não conhece, talvez isso mereça um [artigo à parte]) do TForm1 insira o seguinte código:</p>
+<p>    void __fastcall TForm1::FormClose(TObject *Sender, TCloseAction &Action)</p>
+<p>    {</p>
+<p>    	Action = caNone;</p>
+<p>    } </p>
 <p>Pronto! Agora você decide onde termina e onde acaba sua aplicação.</p>
 <p>{{< image src="cppbuilder-forms.png" caption="C++ Builder Forms" >}}</p>
 <p>Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o loop de mensagens que [já conhecemos].</p>
 <p>Para analisarmos melhor o que ocorre nos internals da coisa, criei um projeto simplista que possui dois forms, ambos com quatro botões: 1) mostrar o outro form, 2) esconder a si mesmo, 3) fechar a si mesmo e 4) terminar aplicação. Os dois formulários são tão parecidos que desconfio que sejam gêmeos.</p>
 <p>Além disso, iremos precisar do nosso velho e fiel amigo WinDbg, o que o trás de volta à cena do crime depois de alguns artigos de jejum. Para saber mais sobre o WinDbg e dar suas "WinDbgzadas", [faça uma busca] no blogue.</p>
+<p>A primeira coisa que um loop de mensagens deveria fazer seria chamar a função GetMessage, que obtém a primeira mensagem em espera na fila de mensagens da thread chamadora. Portanto, vamos dar uma olhada nas chamadas dessa função:</p>
+<p>    windbg Project1.exe</p>
+<p>    0:001> g</p>
+<p>    ModLoad: addr module1.dll</p>
+<p>    ModLoad: addr module2.DLL</p>
+<p>    ModLoad: addr module3.dll</p>
+<p>    ...</p>
+<p>    Ctrl+Break</p>
+<p>    0:001> bm /a user32!GetMessage?</p>
+<p>    1: 7e4191c6 @!"USER32!GetMessageW"</p>
+<p>    2: 7e42e002 @!"USER32!GetMessageA"</p>
+<p>    0:001> g</p>
+<p>E o resultado é... nada! Mesmo mexendo com a janela e apertando seus botões não há uma única ocorrência do GetMessage. Bruxaria? Programação oculta?</p>
 <p>Nem tanto. Uma alternativa ao GetMessage, que captura a primeira mensagem da fila de mensagens e a retira, é o PeekMessage, que captura a primeira mensagem da fila, mas mantém a mensagem na fila. Por algum motivo, os programadores da Borland fizeram seu loop de mensagens usando PeekMessage.</p>
+<p>    0:001> bc*</p>
+<p>    0:001> bm /a user32!PeekMessage?</p>
+<p>      1: 7e41929b @!"USER32!PeekMessageW"</p>
+<p>      2: 7e41c96c @!"USER32!PeekMessageA"</p>
+<p>    0:001> g</p>
+<p>    Breakpoint 2 hit</p>
+<p>    eax=00b1c6b0 ebx=00000000 ecx=0012ff44 edx=0012fef8 esi=00b1c6b0 edi=0012fef8</p>
+<p>    eip=7e41c96c esp=0012fec8 ebp=0012ff44 iopl=0         nv up ei pl zr na pe nc</p>
+<p>    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246</p>
+<p>    USER32!PeekMessageA:</p>
+<p>    7e41c96c 8bff            mov     edi,edi</p>
 <p>Agora, sim!</p>
 <p>Analisando os parâmetros da função PeekMessage podemos obter algumas informações interessantes sobre uma mensagem, como seu código e a janela destino:</p>
+<p>    0:000> dd @$csp L2</p>
+<p>    0019fe9c  4005aa1c 0019fec8</p>
+<p>    0:000> dd poi(@$csp+4) L6</p>
+<p>    0019fec8  00160708 00000113 00000001 00000000</p>
+<p>    0019fed8  0869c6e1 00000244</p>
 <p>Podemos bater essas informações com as do aplicativo Spy++, que captura janelas e suas mensagens:</p>
+<p>    0:000> bd *</p>
+<p>    0:000> g</p>
 <p>Normalmente esses dois rodando juntos podem causar alguns conflitos internos. Por isso, quando for usar o Spy++, procure desabilitar seus breakpoints. Após mexer no Spy++, feche-o antes de continuar depurando.</p>
 <p>{{< image src="spyxx-window-search.png" caption="Spy++ Window Search" >}}</p>
 <p>{{< image src="spyxx-window-search-result.png" caption="Spy++ Window Search Result" >}}</p>
 <p>Como podemos ver, nesse caso a janela encontrada foi justamente a que não aparece: TApplication! Sim, a classe principal da VCL é representada em runtime por uma janela escondida, que controla algumas mensagens específicas da aplicação.</p>
 <p>Tem tudo a ver! Mais do que simplesmente programar interfaces, esses conhecimentos permitem fazer a análise de qualquer aplicativo que possua um loop de mensagens. O importante descoberto aqui é que o C++ Builder, assim como o .NET, o Java e o "próximo framework gerenciado", não pode escapar da fatal realidade de que, para exibir janelas, o aplicativo deverá dançar a música da API Win32.</p>
+<p>    0:001> bc*</p>
+<p>    0:001> bp user32!PeekMessageA ".echo PeekMessage; g"</p>
+<p>    0:001> bp user32!DispatchMessageA ".echo DispatchMessage; g"</p>
+<p>    0:001> g</p>
+<p>    PeekMessage</p>
+<p>    DispatchMessage</p>
+<p>    PeekMessage</p>
+<p>    DispatchMessage</p>
+<p>    PeekMessage</p>
+<p>    ...</p>
+<p>    DispatchMessage</p>
+<p>    PeekMessage</p>
+<p>    eax=77c3f88a ebx=00000000 ecx=77c3e9f9 edx=77c61a70 esi=7c90e88e edi=00000000</p>
+<p>    eip=7c90eb94 esp=0012fe64 ebp=0012ff60 iopl=0         nv up ei pl zr na pe nc</p>
+<p>    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246</p>
+<p>    ntdll!KiFastSystemCallRet:</p>
+<p>    7c90eb94 c3              ret</p>
 <p>[artigo à parte]: {{< relref "introducao-ao-c-builderturbo-c" >}}</p>
 <p>[já conhecemos]: {{< relref "historia-do-windows-parte-30" >}}</p>
 <p>[faça uma busca]: http://www.caloni.com.br/posts/?q=windbg</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

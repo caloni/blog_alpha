@@ -78,6 +78,8 @@
 <p>C:\Temp\projectX>git pull</p>
 <p>Already up-to-date.</p>
 <p>C:\Temp\projectX>git branch</p>
+<p>* dev</p>
+<p>  master</p>
 <p>C:\Temp\projectX>gvim main.cpp</p>
 <p>C:\Temp\projectX>git add main.cpp</p>
 <p>C:\Temp\projectX>git ci -m "ISS-4 Changing test function return type to int."</p>
@@ -86,6 +88,7 @@
 <p>C:\Temp\projectX>git status</p>
 <p>On branch dev</p>
 <p>Your branch is ahead of 'origin/dev' by 1 commit.</p>
+<p>  (use "git push" to publish your local commits)</p>
 <p>nothing to commit, working tree clean</p>
 <p>C:\Temp\projectX></p>
 <p>```</p>
@@ -93,6 +96,7 @@
 <p>```</p>
 <p>C:\Temp\projectX>gvim main.cpp</p>
 <p>C:\Temp\projectX>git co -b ISS-5-changing-test-return-value</p>
+<p>M       main.cpp</p>
 <p>Switched to a new branch 'ISS-5-changing-test-return-value'</p>
 <p>C:\Temp\projectX>git add main.cpp</p>
 <p>C:\Temp\projectX>git ci -m "ISS-5 Changing test return value"</p>
@@ -114,6 +118,9 @@
 <p>Quando mais de um commit é necessário é porque vai rolar a festa. Vários commits com texto e modificações temporárias podem ser feitos, e caso o trabalho vire a noite, é recomendado subir tudo para um branch temporário remoto (de preferência que já seja identificado pela equipe como o branch para determinado issue).</p>
 <p>```</p>
 <p>C:\Temp\projectX>git branch</p>
+<p>  ISS-5-changing-test-return-value</p>
+<p>* dev</p>
+<p>  master</p>
 <p>C:\Temp\projectX>git co -b ISS-6-very-hard-hacking</p>
 <p>Switched to a new branch 'ISS-6-very-hard-hacking'</p>
 <p>C:\Temp\projectX>gvim main.cpp</p>
@@ -176,11 +183,18 @@
 <p>```</p>
 <p>Ao final da operação mais uma vez o git irá exibir o editor. Agora é hora de você escolher o texto bonitinho, formatadinho, do seu único commit que será usado no branch de dev. Em outras palavras, transformar isso:</p>
 <p>```</p>
+<p># This is a combination of 6 commits.</p>
+<p># The first commit's message is:</p>
 <p>Starting to test return 42.</p>
+<p># This is the commit message #2:</p>
 <p>Created backup test.</p>
+<p># This is the commit message #3:</p>
 <p>Deleted backup function test.</p>
+<p># This is the commit message #4:</p>
 <p>Screwing around.</p>
+<p># This is the commit message #5:</p>
 <p>Getting old version back.</p>
+<p># This is the commit message #6:</p>
 <p>Small fix after unit tests.</p>
 <p>```</p>
 <p>Nisso:</p>
@@ -198,21 +212,32 @@
 <p>commit b4de47231f090e897053f4e9d19ea66c88d1f1fa</p>
 <p>Author: Wanderley Caloni <wanderley.caloni@bitforge.com.br></p>
 <p>Date:   Sat Feb 4 10:59:18 2017 -0200</p>
+<p>    ISS-6 A very hard hacking, tested and ready to merge.</p>
+<p>    This hack involved several operations:</p>
+<p>     - Starting to test return 42.</p>
+<p>     - Created backup test.</p>
+<p>     - Deleted backup function test.</p>
+<p>     - Small fix after unit tests.</p>
 <p>commit 7f0121baac183eb1a832575781cca5d6e6a5489c</p>
 <p>Author: Wanderley Caloni <wanderley.caloni@bitforge.com.br></p>
 <p>Date:   Sat Feb 4 10:51:54 2017 -0200</p>
+<p>    ISS-4 Changing test function return type to int.</p>
 <p>commit 97222ec4578f9a4bced847266739b18f933178f3</p>
 <p>Author: Wanderley Caloni <wanderley.caloni@bitforge.com.br></p>
 <p>Date:   Sat Feb 4 10:50:29 2017 -0200</p>
+<p>    ISS-3 Testing something new.</p>
 <p>commit 49d28aa7faa02ff327ae9fac93676abad18ad0f3</p>
 <p>Author: Wanderley Caloni <wanderley.caloni@bitforge.com.br></p>
 <p>Date:   Sat Feb 4 10:49:26 2017 -0200</p>
+<p>    ISS-2 Insertind comments and whatever.</p>
 <p>commit bff8edf06e4a30480088a9a33c9b0c2ca5b6e0b3</p>
 <p>Author: Wanderley Caloni <wanderley.caloni@bitforge.com.br></p>
 <p>Date:   Sat Feb 4 10:47:11 2017 -0200</p>
+<p>    ISS-1 First version.</p>
 <p>```</p>
 <p>### O que aprendemos aqui</p>
 <p>Esta é uma das inúmeras formas de trabalhar com o git de maneira individual sem atrapalhar seus colegas. Basicamente você pode escolher outras estratégias de commits e branchs locais, mas através do comando rebase -i é possível sempre reorganizar a bagunça em commits comportados, e dar a impressão que esses programadores são enviados divinos que modificam o fonte e acertam de primeira.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

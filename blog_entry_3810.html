@@ -71,7 +71,73 @@
   <div class="content">
 <p>Esse detalhe da linguagem quem me fez descobrir foi o Yorick, que costuma comentar no blogue e tive o prazer de conhecer no [4o. EPA-CCPP].</p>
 <p>É possível, apesar de bizarro, colocar um bloco try-catch em torno da lista de inicialização de variáveis de um construtor. Essa característica da linguagem permite que possamos capturar alguma exceção lançada por algum construtor de algum membro da classe. A construção em código ficaria no estilo abaixo:</p>
+<p>    Class::Class() try : initialization-list</p>
+<p>    {</p>
+<p>        // Class constructor body</p>
+<p>    }</p>
+<p>    catch(...) // note: this IS right!</p>
+<p>    {</p>
+<p>        // do something about</p>
+<p>        // just like "throw" over here</p>
+<p>    }</p>
 <p>Apesar dessa capacidade, não conseguimos parar o lançamento da exceção. Após seu lançamento, caímos no bloco catch abaixo do corpo do construtor e a exceção é lançada novamente, como se houvesse uma intrução throw no final do catch.</p>
+<p>O exemplo abaixo demonstra um código de uma classe que captura a exceção durante a inicialização dos membros. Na seguida o catch da função main é executada, provando que a exceção de fato não é "salva" no primeiro bloco.</p>
+<p>    #include <iostream></p>
+<p>    </p>
+<p>    /* This class explodes */</p>
+<p>    class Explode</p>
+<p>    {</p>
+<p>    	public:</p>
+<p>    		Explode(int x) </p>
+<p>    		{</p>
+<p>    			m_x = x;</p>
+<p>    			throw x;</p>
+<p>    		}</p>
+<p>    </p>
+<p>    		void print()</p>
+<p>    		{</p>
+<p>    			std::cout << "The number: " << m_x << std::endl;</p>
+<p>    		}</p>
+<p>    </p>
+<p>    	private:</p>
+<p>    		int m_x;</p>
+<p>    };</p>
+<p>    </p>
+<p>    /* This class is going to be exploded */</p>
+<p>    class Victim</p>
+<p>    {</p>
+<p>    	public:</p>
+<p>    		Victim() try : m_explode(5)</p>
+<p>    		{</p>
+<p>    			std::cout << "You're supposed to NOT seeing this...\n";</p>
+<p>    		}</p>
+<p>    		catch(...) </p>
+<p>    		{ </p>
+<p>    			std::cerr << "Something BAD hapenned\n";</p>
+<p>    			std::cerr << "We're going to blow up\n";</p>
+<p>    			// just like 'throw' over here</p>
+<p>    		}</p>
+<p>    </p>
+<p>    		void print()</p>
+<p>    		{</p>
+<p>    			m_explode.print();</p>
+<p>    		}</p>
+<p>    </p>
+<p>    	private:</p>
+<p>    		Explode m_explode;</p>
+<p>    };</p>
+<p>    </p>
+<p>    int main()</p>
+<p>    {</p>
+<p>    	try</p>
+<p>    	{</p>
+<p>    		Victim vic;</p>
+<p>    	}</p>
+<p>    	catch(...)</p>
+<p>    	{</p>
+<p>    		std::cerr << "Something BAD BAD happenned...\n";</p>
+<p>    	}</p>
+<p>    }</p>
 <p>Testei esse código nos seguintes compiladores:</p>
 <p> - Visual Studio 6. Falhou, demonstrando desconhecer a sintaxe.</p>
 <p> - Borland C++ Builder 5. Falhou, demonstrando desconhecer a sintaxe.</p>
@@ -80,7 +146,12 @@
 <p> - Visual Studio 2005. Comportamento esperado.</p>
 <p> - Visual Studio 2008. Comportamento esperado.</p>
 <p> - G++ (no Cygwin). Comportamento esperado.</p>
+<p>A saída esperada é a seguinte:</p>
+<p>    Something BAD hapenned</p>
+<p>    We're going to blow up</p>
+<p>    Something BAD BAD happenned...</p>
 <p>[4o. EPA-CCPP]: {{< relref "epa-ccpp-4-nossa-comunidade-ganhando-forma" >}}</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

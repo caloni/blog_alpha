@@ -71,6 +71,8 @@
   <div class="content">
 <p>Continuando nossa série, conforme sugerido pelo @colemaker do grupo C/C++/42/Império do Brasil, a próxima ideia a ser implementada em C é o sistema polimórfico de chamadas do Lisp orientado a objetos. Esse sistema permite realizar a seguinte manobra:</p>
 <p>{{< image src="VcPXDcJ.jpg" caption="" >}}</p>
+<p>O aspecto-chave aqui, conforme eu descobri, é implementar a estratégia de prioridades entre as sobrecargas dos métodos de acordo com os tipos passados. Analisando bem por cima devemos sempre priorizar os métodos com os tipos mais específicos e ir realizando underpromotion até chegarmos no menos específico (se houver).</p>
+<p># Sistema de tipos</p>
 <p>Para o sistema de tipos em C nada como fazer do zero:</p>
 <p>```</p>
 <p>/* defclass(foo, cclass_instance); */</p>
@@ -80,6 +82,7 @@
 <p>typedef struct bar_instance { cclass_instance type; } bar_instance; </p>
 <p>static bar_instance bar = { "bar" };</p>
 <p>```</p>
+<p># Estruturas de dados</p>
 <p>~~As estruturas estão usando STL. O quê? Mas não era C? Sim, você tem toda razão. Porém, estou usando uma lib mais conhecida. Há milhares de libs containers em C para você escolher para trocar a implementação. Lembre-se que o mais importante não é ser purista, mas atingir os objetivos. Como eventualmente veremos nessa série de artigos, o próprio C++ e toda a sua biblioteca pode ser implementada em C. Este é apenas um atalho para fins didáticos e de produtividade (como eu já falei, produtividade não é o foco aqui, mas enxergar por debaixo dos panos).~~</p>
 <p>Inicialmente feito em STL pela produtividade, a solução atual no GitHub é feita inteiramente em C usando a [glib](https://developer.gnome.org/glib/) (lib comum em Linux com estrutura de dados, etc). O legal dessa biblioteca é que ela tem 20 anos (desde 1998) e já foi muito usada e testada, além de possuir estruturas e algoritmos simples que fazem parte do pacote básico de qualquer programador, como arrays, strings, hash tables.</p>
 <p>```</p>
@@ -89,8 +92,10 @@
 <p>#include <gmodule.h></p>
 <p>typedef GPtrArray Argv;</p>
 <p>typedef struct _Method</p>
+<p>{</p>
 <p>	void* fun;</p>
 <p>	Argv* argv;</p>
+<p>} Method;</p>
 <p>typedef void (*FP_Argv0)();</p>
 <p>typedef void (*FP_Argv1)(cclass_instance*);</p>
 <p>typedef void (*FP_Argv2)(cclass_instance*, cclass_instance*);</p>
@@ -102,21 +107,31 @@
 <p>static MethodMap* g_methods;</p>
 <p>static Methods* g_calledMethods;</p>
 <p>void cdefgeneric_initialize()</p>
+<p>{</p>
 <p>	g_classes = g_hash_table_new(g_str_hash, g_str_equal);</p>
 <p>	g_methods = g_hash_table_new(g_str_hash, g_str_equal);</p>
+<p>}</p>
 <p>Method* method_new(void* fun, Argv* argv)</p>
+<p>{</p>
 <p>	Method* ret = (Method*)malloc(sizeof(Method));</p>
 <p>	if (ret)</p>
+<p>	{</p>
 <p>		ret->fun = fun;</p>
 <p>		ret->argv = argv ? argv : g_ptr_array_new();</p>
+<p>	}</p>
 <p>	return ret;</p>
+<p>}</p>
 <p>Argv* method_free(Method* method, gboolean free_seg)</p>
+<p>{</p>
 <p>	Argv* ret = free_seg ? g_ptr_array_free(method->argv, TRUE), NULL : method->argv;</p>
 <p>	free(method);</p>
 <p>	return ret;</p>
+<p>}</p>
 <p>const char* defclass(const char* name, const char* deriv)</p>
+<p>{</p>
 <p>	gboolean insertOk = g_hash_table_insert(g_classes, (gpointer*)name, (gpointer*)deriv);</p>
 <p>	return name;</p>
+<p>}</p>
 <p>#define extractargv(argv, argc) \</p>
 <p>		va_list vl; \</p>
 <p>		va_start(vl, argc); \</p>
@@ -126,32 +141,48 @@
 <p>			g_ptr_array_add(argv, arg); \</p>
 <p>		}</p>
 <p>void defmethod(const char* name, void* fun, int argc, ...)</p>
+<p>{</p>
 <p>	Method* method = method_new(fun, NULL);</p>
 <p>	Methods* methods = (Methods*)g_hash_table_lookup(g_methods, name);</p>
 <p>	extractargv(method->argv, argc);</p>
 <p>	if (!methods)</p>
+<p>	{</p>
 <p>		methods = g_ptr_array_new();</p>
 <p>		g_hash_table_insert(g_methods, (gpointer) name, (gpointer) methods);</p>
+<p>	}</p>
 <p>	g_ptr_array_add(methods, method);</p>
+<p>}</p>
 <p>void callmethod(const char* name, Method* method)</p>
+<p>{</p>
 <p>	g_ptr_array_add(g_calledMethods, (gpointer) method->fun);</p>
 <p>	cclass_instance** argv = (cclass_instance * *)method->argv->pdata;</p>
 <p>	if (method->argv->len == 0)</p>
+<p>	{</p>
 <p>		FP_Argv0 fun = (FP_Argv0)method->fun;</p>
 <p>		fun();</p>
+<p>	}</p>
 <p>	else if (method->argv->len == 1)</p>
+<p>	{</p>
 <p>		FP_Argv1 fun = (FP_Argv1)method->fun;</p>
 <p>		fun(argv[0]);</p>
+<p>	}</p>
 <p>	else if (method->argv->len == 2)</p>
+<p>	{</p>
 <p>		FP_Argv2 fun = (FP_Argv2)method->fun;</p>
 <p>		fun(argv[0], argv[1]);</p>
+<p>	}</p>
 <p>	else if (method->argv->len == 3)</p>
+<p>	{</p>
 <p>		FP_Argv3 fun = (FP_Argv3)method->fun;</p>
 <p>		fun(argv[0], argv[1], argv[2]);</p>
+<p>	}</p>
+<p>}</p>
 <p>Method* find_method_by_fun(const char* name, void* fun)</p>
+<p>{</p>
 <p>	Method* method = NULL;</p>
 <p>	Methods* methods = (Methods*) g_hash_table_lookup(g_methods, name);</p>
 <p>	if (methods)</p>
+<p>	{</p>
 <p>		Method** meths = (Method**)methods->pdata;</p>
 <p>		guint i = 0;</p>
 <p>		while (i < methods->len)</p>
@@ -164,11 +195,15 @@
 <p>			}</p>
 <p>			++i;</p>
 <p>		}</p>
+<p>	}</p>
 <p>	return method;</p>
+<p>}</p>
 <p>int calcdistance_arg(cclass_instance* arg, cclass_instance* underpromo)</p>
+<p>{</p>
 <p>	int ret = 0;</p>
 <p>	char* promo = (char*)arg->type;</p>
 <p>	while (strcmp(promo, underpromo->type) != 0)</p>
+<p>	{</p>
 <p>		promo = (char*)g_hash_table_lookup(g_classes, (gpointer*)promo);</p>
 <p>		if (!promo || strlen(promo) == 0)</p>
 <p>		{</p>
@@ -176,20 +211,28 @@
 <p>			break;</p>
 <p>		}</p>
 <p>		++ret;</p>
+<p>	}</p>
 <p>	return ret;</p>
+<p>}</p>
 <p>int calcdistance(cclass_instance** args, cclass_instance** underpromo, int len)</p>
+<p>{</p>
 <p>	int ret = 0;</p>
 <p>	for (int i = 0; i < len; ++i)</p>
+<p>	{</p>
 <p>		int dist = calcdistance_arg(args[i], underpromo[i]);</p>
 <p>		if (dist == -1) return -1;</p>
 <p>		ret += dist;</p>
+<p>	}</p>
 <p>	return ret;</p>
+<p>}</p>
 <p>void call_next_method(const char* name, int argc, ...)</p>
+<p>{</p>
 <p>	Method* method = method_new(NULL, NULL);</p>
 <p>	extractargv(method->argv, argc);</p>
 <p>	int nextdist = 666;</p>
 <p>	Methods* methods = (Methods*)g_hash_table_lookup(g_methods, name);</p>
 <p>	if (methods)</p>
+<p>	{</p>
 <p>		guint i = 0;</p>
 <p>		while( i < methods->len )</p>
 <p>		{</p>
@@ -224,13 +267,17 @@
 <p>		}</p>
 <p>		if (method->fun)</p>
 <p>			callmethod(name, method);</p>
+<p>	}</p>
+<p>}</p>
 <p>void call(const char* name, int argc, ...)</p>
+<p>{</p>
 <p>	g_calledMethods = g_ptr_array_new();</p>
 <p>	Method* method = method_new(NULL, NULL);</p>
 <p>	extractargv(method->argv, argc);</p>
 <p>	int nextdist = 666;</p>
 <p>	Methods* methods = g_hash_table_lookup(g_methods, name);</p>
 <p>	if (methods)</p>
+<p>	{</p>
 <p>		guint i = 0;</p>
 <p>		while( i < methods->len )</p>
 <p>		{</p>
@@ -250,8 +297,13 @@
 <p>		}</p>
 <p>		if (method->fun)</p>
 <p>			callmethod(name, method);</p>
+<p>	}</p>
 <p>	method_free(method, TRUE);</p>
+<p>}</p>
 <p>```</p>
+<p>O código é bem simples. Mapas e listas com strings e ponteiros para organizar as estruturas por detrás do sistema de tipos que estamos implementando e seus métodos sobrecarregados. Cada método possui um nome, um endereço de ponteiro e o número dos seus argumentos. Todos os argumentos são do tipo polimórfico, seguindo o que provavelmente existe por detrás da própria implementação do Lisp.</p>
+<p># Main</p>
+<p>O código que utiliza a clos.c é bem direto e enxuto. Como no Lisp.</p>
 <p>```</p>
 <p>#include "cclos.h"</p>
 <p>#include <stdio.h></p>
@@ -262,18 +314,27 @@
 <p>typedef struct bar_instance { cclass_instance type; } bar_instance; </p>
 <p>static bar_instance bar = { "bar" };</p>
 <p>void test_dispatch()</p>
+<p>{</p>
 <p>	bar_instance x = bar;</p>
 <p>	bar_instance y = bar;</p>
 <p>	call("thing", 2, &x, &y);</p>
+<p>}</p>
 <p>void thing_foo_foo(cclass_instance* x, cclass_instance* y)</p>
+<p>{</p>
 <p>	printf("Both are of type FOO\n");</p>
+<p>}</p>
 <p>void thing_bar_foo(cclass_instance* x, cclass_instance* y)</p>
+<p>{</p>
 <p>	printf("X is BAR, Y is FOO. Next...\n");</p>
 <p>	call_next_method("thing", 2, x, y);</p>
+<p>}</p>
 <p>void thing_foo_bar(cclass_instance* x, cclass_instance* y)</p>
+<p>{</p>
 <p>	printf("X is FOO, Y is BAR. Next...\n");</p>
 <p>	call_next_method("thing", 2, x, y);</p>
+<p>}</p>
 <p>int main()</p>
+<p>{</p>
 <p>	cdefgeneric_initialize();</p>
 <p>	defclass("foo", "cclass");</p>
 <p>	defclass("bar", "foo");</p>
@@ -281,8 +342,10 @@
 <p>	defmethod("thing", &thing_bar_foo, 2, &bar, &foo);</p>
 <p>	defmethod("thing", &thing_foo_bar, 2, &foo, &bar);</p>
 <p>	test_dispatch();</p>
+<p>}</p>
 <p>```</p>
 <p>Futuros posts sobre C Resolve Tudo poderão utilizar a glib ou qualquer outra. Uma outra vantagem da linguagem C é que sua biblioteca padrão é muito enxuta, sendo fácil de ter disponível em seu ambiente um compilador C com a clib, e em cima dela você pode utilizar qualquer biblioteca de sua escolha para estruturas e algoritmos mais complexos. Ou fazer a sua própria.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

@@ -70,19 +70,72 @@
   </p>
   <div class="content">
 <p>The next step after [the Warm Up challenges] are the array challenges. And so I did it. Now I am going to recap what I did and how I did. And what complexity the algorithms have.</p>
+<p># Array Manipulation</p>
 <p>To solve the [array manipulation problem] ChatGPT helped me with the code. Now in the review I realized [how segment trees work] and how binary trees can be implemented using arrays.</p>
 <p>The issue about this problem is that summing up intervals costs too much processing to large intervals. In order to do that, segment trees help, since its nodes contain the sum of all its nodes bellow. This way, to get the sum of determined intervals all we need to do is to get the bigger intervals and sum it up.</p>
 <p>```</p>
 <p>// Segment tree to array manipulation implementation</p>
 <p>long query(int node, int left, int right, int pos, const vector<long>& tree) {</p>
+<p>    if (left == right) {</p>
+<p>        return tree[node];</p>
+<p>    }</p>
+<p>    else {</p>
+<p>        int nodeLeft = 2 * node;</p>
+<p>        int nodeRight = 2 * node + 1;</p>
+<p>        int middle = (left + right) / 2;</p>
+<p>        if (pos <= middle)</p>
+<p>            return tree[node] + query(nodeLeft, left, middle, pos, tree);</p>
+<p>        else</p>
+<p>            return tree[node] + query(nodeRight, middle + 1, right, pos, tree);</p>
+<p>    }</p>
+<p>}</p>
 <p>void update(int node, int left, int right, int posLeft, int posRight, int value, vector<long>& tree) {</p>
+<p>    if (posLeft > posRight) return;</p>
+<p>    if (posLeft == left && posRight == right) {</p>
+<p>        tree[node] += value;</p>
+<p>    }</p>
+<p>    else {</p>
+<p>        int nodeLeft = 2 * node;</p>
+<p>        int nodeRight = 2 * node + 1;</p>
+<p>        int middle = (left + right) / 2;</p>
+<p>        update(nodeLeft, left, middle, posLeft, min(posRight, middle), value, tree);</p>
+<p>        update(nodeRight, middle + 1, right, max(posLeft, middle + 1), posRight, value, tree);</p>
+<p>    }</p>
+<p>}</p>
 <p>// Solution</p>
 <p>long arrayManipulation(int n, vector<vector<int>> queries) {</p>
+<p>    int m = queries.size();</p>
+<p>    vector<long> t(4 * n); // room for binary tree</p>
+<p>    for (int i = 0; i < m; i++) {</p>
+<p>        int l, r, x;</p>
+<p>        l = queries[i][0];</p>
+<p>        r = queries[i][1];</p>
+<p>        x = queries[i][2];</p>
+<p>        update(1, 1, n, l, r, x, t);</p>
+<p>    }</p>
+<p>    long max_val = 0;</p>
+<p>    for (int i = 1; i <= n; i++) {</p>
+<p>        max_val = max(max_val, query(1, 1, n, i, t));</p>
+<p>    }</p>
+<p>    return max_val;</p>
+<p>}</p>
 <p>```</p>
+<p># Left Rotation</p>
 <p>To solve the [left rotation problem] in C++ is somewhat easy, since there is already an algorithm in STL to do that: `std::rotate`. Anyway, I didn't know that before my first implementation, that was to create a new vector and copy the old vector to the new one obeying the new positions.</p>
 <p>However, the last version of the solution of this issue was using the `std::rotate` function, that is a simple, elegant algorithm:</p>
 <p>```</p>
 <p>template <class ForwardIterator></p>
+<p>  void rotate (ForwardIterator first, ForwardIterator middle,</p>
+<p>               ForwardIterator last)</p>
+<p>{</p>
+<p>  ForwardIterator next = middle;</p>
+<p>  while (first!=next)</p>
+<p>  {</p>
+<p>    swap (*first++,*next++);</p>
+<p>    if (next==last) next=middle;</p>
+<p>    else if (first==middle) middle=next;</p>
+<p>  }</p>
+<p>}</p>
 <p>```</p>
 <p>The logic is to swap from left to right, leveraging the end part of the vector to making the swaps. The rightmost point is called next and begins in the middle point. The leftmost point is the first point. When the next point reaches the end it go back to the middle point again, because the last element was moved already and the middle now contains the original first elements that was swaped. If, however, the leftmost point reaches the middle point before the next point reaches the end, the middle point changes to the next point, what means the point where first and middle meet is changing to the next point, making the first to chase the middle point until all rightmost elements be exchanged with it, using the next as a moving buffer. The same logic is repeated until first and next point meet.</p>
 <p>{{< image src="std_rotate.jpg" >}}</p>
@@ -90,16 +143,29 @@
 <p>```</p>
 <p>// Solution</p>
 <p>vector<int> rotLeft(vector<int> a, int d) {</p>
+<p>  vector<int> ra(a.size());</p>
+<p>  auto it = a.begin();</p>
+<p>  advance(it, d);</p>
+<p>  copy(it, a.end(), ra.begin());</p>
+<p>  auto it2 = ra.begin();</p>
+<p>  advance(it2, a.size() - d);</p>
+<p>  copy(a.begin(), it, it2);</p>
+<p>  return ra;</p>
+<p>}</p>
 <p>```</p>
 <p>To this:</p>
 <p>```</p>
 <p>// Solution</p>
 <p>vector<int> rotLeft(vector<int> a, int d) {</p>
+<p>  rotate(a.begin(), a.begin() + d, a.end());</p>
+<p>  return a;</p>
+<p>}</p>
 <p>```</p>
 <p>[array manipulation problem]: https://www.hackerrank.com/challenges/crush</p>
 <p>[left rotation problem]: https://www.hackerrank.com/challenges/ctci-array-left-rotation</p>
 <p>[the Warm Up challenges]: {{< ref hacker-rank-warm-up >}}</p>
 <p>[how segment trees work]: {{< ref segment-tree >}}</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

@@ -73,6 +73,7 @@
 <p>No entanto, estas funções não são para amadores. É preciso entender o que são threads, por exemplo, pois apenas a thread que chamou BlockInput pode depois chamar SendInput com sucesso. Além disso, apenas essa thread pode desbloquear novamente os inputs chamando BlockInput novamente, mas dessa vez passando FALSE em seu único parâmetro. E de qualquer forma, uma vez que o programa que chamou BlockInput com TRUE morreu o sistema detecta e tudo volta ao normal.</p>
 <p>Essas funções API podem ser úteis para interação remota, por exemplo, quando um usuário não consegue realizar uma operação e ele pode mais atrapalhar do que ajudar você pode bloquear os inputs dele e emular seus próprios cliques de mouse e teclado pela rede.</p>
 <p>Nota: usar essas APIs na própria máquina pode ser bem frustrante. Tenha sempre em mãos uma VM de teste.</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

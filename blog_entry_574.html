@@ -69,16 +69,32 @@
   </a>
   </p>
   <div class="content">
+<p># Introduction</p>
 <p>Meu amigo sugeriu que aprender awk poderia ser útil de várias maneiras. Uma delas para organizar finanças pessoais. Dei uma lida em alguns tutoriais, sendo que o melhor custo benefício foi o [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html), de Fred Hebert (ele é o mesmo autor de um livro sobre erlang). Gostei. É sobre tratamento de texto como sed, mas em uma versão estendida e criada na época com a mesma sintaxe de C.</p>
 <p>Agora que vou palestrar sobre no Native Floripa de 2022 eu dei uma olhada em outro tutorial muito bom que eu vou chamar de [Tutorial from an Experient Mind](https://www.grymoire.com/Unix/Awk.html), de Bruce Barnett. Ele vai um pouco além porque é de alguém interessado em contar alguns macetes que dão uma visão mais interna da linguagem. E para referência eu considero o [Gawk Guide](https://www.gnu.org/software/gawk/manual/gawk.html) como um ótimo compilado.</p>
 <p>## 1977</p>
 <p>Por ela ser uma ferramenta antiga, criada por Alfred Aho, Peter Weinberger e Brian Kernighan na década de 70, AWK usa conceitos antigos, como field e record. Ela foi criada para formatar texto em formato de planilha, ou banco de dados. Um field, ou campo, é uma coluna na planilha, e um record, ou registro, é uma linha dessa planilha. Imagine que você pode usar awk para manipular e extrair dados de qualquer texto que contenha esse padrão, sendo que os detalhes como o separador de campos e registros, por padrão espaço e nova-linha, podem ser alterados no começo do programa ou via parâmetros.</p>
 <p>```</p>
 <p>BEGIN {</p>
+<p>  print "FS:", FS;</p>
+<p>  print "RS:", RS;</p>
+<p>  print "OFS:", OFS;</p>
+<p>  print "ORS:", ORS;</p>
+<p>}</p>
+<p>{</p>
+<p>  print "NF:", NF</p>
+<p>  print "NR:", NR</p>
+<p>  print "$0:", $0;</p>
+<p>  print "$1:", $1;</p>
+<p>  print "$2:", $2;</p>
+<p>  print "$NR:", $NR;</p>
+<p>  print "";</p>
+<p>}</p>
 <p>```</p>
 <p>## One line at a time</p>
 <p>```</p>
 <p>pattern { action }</p>
+<p>        { action }</p>
 <p>pattern </p>
 <p>```</p>
 <p>Se não houver padrão então a ação é executada sempre. Se não houver ação, então sempre que o padrão for encontrado em uma linha o programa imprime a linha. Ou seja, há um valor default para padrão e ação.</p>
@@ -89,22 +105,31 @@
 <p>awk '{ if( $0 ~ "test" ) print }'</p>
 <p>awk '{ if( $0 ~ "test" ) print $2 }'</p>
 <p>```</p>
+<p>> </p>
+<p>> Awk maintains a delicate balance between being a line-oriented utility like grep and a full programming language. - Andy Oram</p>
+<p>></p>
 <p>## Program</p>
 <p>Um Hello World interessante do AWK é imprimir a lista de arquivos e seus proprietários de uma pasta se baseando no comando `ls -l`. Isso demonstra os conceitos básicos da linguagem e ainda é útil.</p>
 <p>```</p>
 <p>pattern { action }</p>
 <p>BEGIN { print "START" }</p>
+<p>      { print         }</p>
 <p>END   { print "STOP"  }</p>
 <p>BEGIN { print "File\tOwner"}</p>
+<p>{ print $9, "\t", $3}</p>
 <p>END { print " - DONE -" }</p>
 <p>ls -l | awk '{ print $9, "\t", $3}'</p>
 <p>```</p>
 <p>## How to run</p>
+<p>O uso do parâmetro `-f` é para conseguirmos rodar programas AWK sem se preocupar se ele é um script. Dessa forma ele funciona como se fosse um bash script:</p>
 <p>```</p>
 <p>#!/bin/sh</p>
+<p># Linux users have to change $8 to $9</p>
 <p>awk '</p>
 <p>BEGIN { print "File\tOwner" }</p>
+<p>{ print $8, "\t", $3}</p>
 <p>END { print " - DONE -" }</p>
+<p>'</p>
 <p>```</p>
 <p>## Tricks</p>
 <p> - Awk tem internamente dois tipos primitivos (fora o array associativo): `float` e `string`.</p>
@@ -123,6 +148,7 @@
 <p> - [Gawk Guide](https://www.gnu.org/software/gawk/manual/gawk.html).</p>
 <p>[Análise de DNA]: {{< relref "awk-dna" >}}</p>
 <p>[Análise de performance]: {{< relref "awk-performance" >}}</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,

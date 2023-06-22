@@ -71,16 +71,95 @@
   <div class="content">
 <p>Quando falei sobre [a fila das threads], e como cada thread espera pacientemente em uma fila até chegar sua vez de ser atendida no guichê das CPUs, também vimos como é fácil fazer caquinhas em um programa que roda paralelamente duas threads ou mais.</p>
 <p>Também falei que iríamos resolver esse problema, afinal de contas, temos que salvar todos aqueles programas que usam dezenas de threads trabalhando ao mesmo tempo para contar números de um até dez.</p>
+<p>A boa notícia é que o salvamento é mais simples do que parece: coloque todas as suas threads em uma sala trancada e deixe apenas uma chave. As threads terão que brigar para sair da sala e, depois que a vencedora sair, as outras terão que ficar esperando ela voltar.</p>
 <p>Confuso? Se estiver, ainda bem. Isso quer dizer que estamos novamente em um daqueles artigos com "pseudo-parábolas", a maneira mais ilustrada de explicar as coisas.</p>
 <p>Os SOs modernos possuem inúmeras maneiras de controlar e monitorar o acesso a recursos do sistema. Neste breve artigo irei falar apenas de um: o critical section, ou, em tradução livre, "seção crítica". O "seção" desse nome diz respeito a uma seção do programa, ou seja, um pedaço de código mesmo. Um pedaço de código crítico.</p>
 <p>Resumidamente, um critical section é um recurso que apenas uma thread por vez pode obter. Para que outra thread tenha acesso ao mesmo critical section, a primeira thread que o obteve deve soltá-lo. Enquanto ela não solta, as outras threads ficam paradas, esperando pela chave, na sala trancada.</p>
 <p>Do ponto de vista do programador o critical secton é apenas uma estrutura que é usada na chamada de quatro funções básicas: para inicializar o recurso, para entrar na seção crítica, para sair da seção crítica e para liberar o recurso, quando aquele critical section não será usado mais.</p>
 <p>Falando assim, parece simples. Bom, na verdade é simples, mesmo. Tudo que você precisa para corrigir o programa do artigo anterior é criar um critical section e fazer com que as threads obtenham-no antes de mexer com o contador compartilhado.</p>
+<p>    #include <windows.h></p>
+<p>    #include <stdio.h></p>
+<p>    </p>
+<p>    #define MAX_COUNTER 10</p>
+<p>    </p>
+<p>    int g_counter = 0;</p>
+<p>    CRITICAL_SECTION g_cs;</p>
+<p>    </p>
+<p>    DWORD WINAPI Increment()</p>
+<p>    {</p>
+<p>      DWORD tid </p>
+<p>        = GetCurrentThreadId();</p>
+<p>    </p>
+<p>      while( g_counter < MAX_COUNTER )</p>
+<p>      {</p>
+<p>        // esse é o começo de nossa </p>
+<p>        // seção crítica</p>
+<p>        // só uma thread entra</p>
+<p>        // por vez por aqui</p>
+<p>        EnterCriticalSection(&g_cs);</p>
+<p>    </p>
+<p>        int temp = g_counter;</p>
+<p>        temp = temp + 1;</p>
+<p>        Sleep(0); // indo para </p>
+<p>                  // o final da fila</p>
+<p>        g_counter = temp;</p>
+<p>    </p>
+<p>        // esse é o fim de nossa </p>
+<p>        // seção crítica</p>
+<p>        // a partir dessa chamada </p>
+<p>        // outra thread pode </p>
+<p>        // entrar pelo começo</p>
+<p>        LeaveCriticalSection(&g_cs);</p>
+<p>    </p>
+<p>        printf("Counter: %d"</p>
+<p>          "\t\tThread: %d\n", </p>
+<p>          temp, </p>
+<p>          tid);</p>
+<p>      }</p>
+<p>    </p>
+<p>      return 0;</p>
+<p>    }</p>
+<p>    </p>
+<p>    int main()</p>
+<p>    {</p>
+<p>      HANDLE threads[3];</p>
+<p>      DWORD tids[3];</p>
+<p>    </p>
+<p>      // precisamos inicializar </p>
+<p>      // nosso recurso de </p>
+<p>      // seção crítica</p>
+<p>      InitializeCriticalSection(&g_cs);</p>
+<p>    </p>
+<p>      for( int i = 0; i < 3; ++i )</p>
+<p>      {</p>
+<p>        threads[i] </p>
+<p>          = CreateThread(NULL, </p>
+<p>          0, </p>
+<p>          IncrementGlobalCounter, </p>
+<p>          0, </p>
+<p>          0, </p>
+<p>          &tids[i]);</p>
+<p>        printf("Thread %i: %d\n", </p>
+<p>          i, </p>
+<p>          tids[i]);</p>
+<p>      }</p>
+<p>    </p>
+<p>      // aguarda as threads</p>
+<p>      WaitForMultipleObjects(3, </p>
+<p>        threads, </p>
+<p>        TRUE, </p>
+<p>        INFINITE);</p>
+<p>    </p>
+<p>      // agora precisamos liberar o </p>
+<p>      // recurso de seção crítica</p>
+<p>      DeleteCriticalSection(&g_cs);</p>
+<p>    }</p>
 <p>Para finalizar, algo para pensar: se uma thread só consegue um critical section depois que outra thread soltá-lo, o que acontece se essa outra thread estiver esperando por outro critical section que uma thread que aguarda estiver segurando?</p>
 <p>Acabamos de ilustrar um procedimento muito simples para cagar completamente no código e gerar um travamento que pode demorar de horas a semanas para ser detectado e resolvido. É o conhecido deadlock. Se você não entendeu ainda, imagine que, para voltar à sala das threads, a primeira thread que saiu precisa de duas chaves; só que ela só pegou a primeira, e a segunda está dentro da sala. Para pegar a segunda chave, ela precisa entrar na sala, só que a sala está trancada pelas duas chaves!</p>
 <p>Deadlocks são sempre indesejáveis, e é por isso que existem diversas técnicas para tentar evitá-los. A mais conhecida é sempre obter os critical sections na mesma ordem. Dessa forma a obtenção de recursos é hierarquizada, o que impede que dois CSs estejam no mesmo nível de obtenção, evitando que duas threads distintas os obtenham.</p>
 <p>Espero que tenha ficado claro nossa breve explanação de como podemos controlar programas multithreading. Espero, pois a próxima tarefa é entender outros conceitos mais abstratos e virtuais, como funções virtuais e classes abstratas.</p>
 <p>[a fila das threads]: {{< relref "a-fila-das-threads" >}}</p>
+
 </div>
   <div class="taglist">
   <p class="author">Wanderley Caloni,
